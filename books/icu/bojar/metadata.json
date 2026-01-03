@@ -1,1 +1,82 @@
-
+{
+  "title": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
+  "category": ["cardiology", "cardiac surgery", "icu"],
+  "authors": ["Robert M. Bojar, MD"],
+  "chapters": [
+    {
+      "file": "contents.md",
+      "title": "Table of Contents"
+    },
+    {
+      "file": "chapter-01.md",
+      "title": "1. Synopsis of Adult Cardiac Surgical Disease"
+    },
+    {
+      "file": "chapter-02.md",
+      "title": "2. Diagnostic Techniques in Cardiac Surgery"
+    },
+    {
+      "file": "chapter-03.md",
+      "title": "3. Preoperative Considerations and Risk Assessment"
+    },
+    {
+      "file": "chapter-04.md",
+      "title": "4. Cardiac Anesthesia"
+    },
+    {
+      "file": "chapter-05.md",
+      "title": "5. Cardiopulmonary Bypass"
+    },
+    {
+      "file": "chapter-06.md",
+      "title": "6. Myocardial Protection"
+    },
+    {
+      "file": "chapter-07.md",
+      "title": "7. Admission to the ICU and Monitoring Techniques"
+    },
+    {
+      "file": "chapter-08.md",
+      "title": "8. Early Postoperative Care"
+    },
+    {
+      "file": "chapter-09.md",
+      "title": "9. Mediastinal Bleeding"
+    },
+    {
+      "file": "chapter-10.md",
+      "title": "10. Respiratory Management"
+    },
+    {
+      "file": "chapter-11.md",
+      "title": "11. Cardiovascular Management"
+    },
+    {
+      "file": "chapter-12.md",
+      "title": "12. Fluid Management, Renal, and Metabolic Problems"
+    },
+    {
+      "file": "chapter-13.md",
+      "title": "13. Post-ICU Care and Other Complications"
+    }
+  ],
+  "appendices": [
+    {
+      "file": "appendix-A.md",
+      "title": "Appendix A: Typical Order Sheets"
+    },
+    {
+      "file": "appendix-B.md",
+      "title": "Appendix B: Common Drug Doses"
+    },
+    {
+      "file": "appendix-C.md",
+      "title": "Appendix C: Protocols (e.g., Blood Conservation, Glucose Management, etc.)"
+    },
+    {
+      "file": "appendix-U.md",
+      "title": "Appendix U: Body Mass Index Table"
+    }
+    // ... всего 21 приложение (A–U). Конкретные названия остальных варьируются, но включают: anticoagulation guidelines, pacing protocols, transfusion algorithms, neurologic monitoring, etc.
+  ]
+}
