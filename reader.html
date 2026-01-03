@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Читалка</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/reader.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <a href="index.html" class="back-button">← Библиотека</a>
+            <h1 id="book-title">Загрузка...</h1>
+            <button id="toc-toggle" class="icon-button">📑 Оглавление</button>
+        </div>
+    </header>
 
+    <div class="reader-container">
+        <!-- Боковое меню с оглавлением -->
+        <aside id="sidebar" class="sidebar">
+            <div class="sidebar-header">
+                <h3>Оглавление</h3>
+                <button id="sidebar-close" class="icon-button">✕</button>
+            </div>
+            <nav id="chapter-list" class="chapter-list">
+                <div class="loading">Загрузка оглавления...</div>
+            </nav>
+        </aside>
+
+        <!-- Основная область чтения -->
+        <main class="reader-main">
+            <article id="content-area" class="content">
+                <div class="loading">Загрузка содержимого...</div>
+            </article>
+
+            <!-- Навигация между главами -->
+            <div class="chapter-navigation">
+                <button id="prev-chapter" class="nav-button" style="display:none;">
+                    ← Предыдущая глава
+                </button>
+                <button id="next-chapter" class="nav-button" style="display:none;">
+                    Следующая глава →
+                </button>
+            </div>
+
+            <!-- Кнопка "Назад" для перекрестных ссылок -->
+            <button id="history-back" class="history-back-button" style="display:none;">
+                ↩ Вернуться
+            </button>
+        </main>
+    </div>
+
+    <!-- Подключаем библиотеку для парсинга Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="assets/js/reader.js"></script>
+    <script src="assets/js/navigation.js"></script>
+</body>
+</html>
