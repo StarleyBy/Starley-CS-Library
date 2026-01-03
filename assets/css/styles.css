@@ -1,1 +1,220 @@
+/* ===== ПЕРЕМЕННЫЕ ===== */
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --background: #f8f9fa;
+    --text-color: #333;
+    --border-color: #dee2e6;
+    --highlight-yellow: #fff3cd;
+    --highlight-green: #d4edda;
+}
 
+/* ===== БАЗОВЫЕ СТИЛИ ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background: var(--background);
+}
+
+/* ===== ХЕДЕР ===== */
+header {
+    background: var(--primary-color);
+    color: white;
+    padding: 1.5rem 2rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+header h1 {
+    margin-bottom: 0.5rem;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+header nav a:hover {
+    background: rgba(255,255,255,0.1);
+}
+
+/* ===== ОСНОВНОЙ КОНТЕНТ ===== */
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 2rem;
+}
+
+.search-box {
+    margin-bottom: 2rem;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    transition: border-color 0.3s;
+}
+
+.search-box input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+/* ===== КАТЕГОРИИ И КНИГИ ===== */
+.category {
+    margin-bottom: 3rem;
+}
+
+.category-title {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--secondary-color);
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.book-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+
+.book-title {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.book-authors {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.book-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.85rem;
+    color: #999;
+    margin-top: 1rem;
+}
+
+.chapter-count {
+    color: var(--secondary-color);
+}
+
+/* ===== МЕДИЦИНСКИЕ СТИЛИ ===== */
+.medical-term {
+    color: #0066cc;
+    font-weight: 500;
+    border-bottom: 1px dotted #0066cc;
+    cursor: help;
+}
+
+.highlight-yellow {
+    background: var(--highlight-yellow);
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+.highlight-green {
+    background: var(--highlight-green);
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+mark {
+    background: #ffeb3b;
+    padding: 2px 4px;
+}
+
+.text-red {
+    color: #dc3545;
+}
+
+.text-blue {
+    color: #007bff;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* ===== СКРЫВАЮЩИЕСЯ БЛОКИ ===== */
+details {
+    background: #f8f9fa;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+summary {
+    font-weight: 600;
+    cursor: pointer;
+    user-select: none;
+    color: var(--secondary-color);
+}
+
+summary:hover {
+    color: var(--primary-color);
+}
+
+details[open] summary {
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+/* ===== ФУТЕР ===== */
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: #666;
+    margin-top: 4rem;
+}
+
+/* ===== АДАПТИВНОСТЬ ===== */
+@media (max-width: 768px) {
+    main {
+        padding: 0 1rem;
+    }
+    
+    .books-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    header nav a {
+        display: block;
+        margin: 0.5rem 0;
+    }
+}
