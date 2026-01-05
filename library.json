@@ -2,17 +2,29 @@
   "categories": [
     {
       "id": "icu",
-      "title": "ICU",
+      "title": "Интенсивная терапия",
+      "path": "books/icu",
       "books": [
         {
           "id": "bojar",
           "title": "Manual of Perioperative Care",
           "author": "Robert M. Bojar",
-          "path": "icu/bojar",
-          "cover": "icu/bojar/cover.jpg",
-          "description": "6th Edition. Comprehensive guide to cardiac surgery care."
+          "folder": "bojar",
+          "description": "Руководство по кардиохирургии."
         }
       ]
+    },
+    {
+      "id": "cardiac_surgery",
+      "title": "Кардиохирургия",
+      "path": "books/cardiac surgery",
+      "books": []
+    },
+    {
+      "id": "cardiology",
+      "title": "Кардиология",
+      "path": "books/cardiology",
+      "books": []
     }
   ]
 }
