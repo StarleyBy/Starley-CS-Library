@@ -1,1 +1,43 @@
 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Starley Editor | Medical Library</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/editor.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="editor-shell">
+        <aside class="editor-toolbar">
+            <div class="tool-group">
+                <h4>Цветной овал</h4>
+                <div class="color-grid" id="oval-colors"></div>
+            </div>
+            <div class="tool-group">
+                <h4>Маркер</h4>
+                <div class="color-grid" id="marker-colors"></div>
+            </div>
+            <div class="tool-group">
+                <h4>Медицинские блоки</h4>
+                <button onclick="wrapInBlock('note-dosage')">💉 Доза</button>
+                <button onclick="wrapInBlock('note-surgery')">🔪 Хирургия</button>
+                <button onclick="wrapInBlock('note-nb')">⚠️ NB!</button>
+                <button onclick="wrapInBlock('note-anatomy')">🫀 Анатомия</button>
+                <button onclick="wrapInBlock('note-pharmacy')">💊 Фарма</button>
+            </div>
+            <div class="tool-group">
+                <h4>Интерактив</h4>
+                <button onclick="addDetails()">▶ Скрывающийся текст</button>
+            </div>
+        </aside>
+
+        <main class="editor-container">
+            <textarea id="markdown-input" placeholder="Вставьте Markdown здесь..."></textarea>
+            <div id="editor-preview" class="content"></div>
+        </main>
+    </div>
+    <script src="assets/js/editor.js"></script>
+</body>
+</html>
