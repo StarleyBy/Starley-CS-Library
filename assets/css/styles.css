@@ -17,6 +17,103 @@
     box-sizing: border-box;
 }
 
+:root {
+    /* Палитра 12 цветов */
+    --clr-red: #e74c3c;    --clr-blue: #3498db;    --clr-green: #2ecc71;
+    --clr-gold: #f1c40f;   --clr-purple: #9b59b6;  --clr-orange: #e67e22;
+    --clr-teal: #1abc9c;   --clr-pink: #fd79a8;    --clr-indigo: #6c5ce7;
+    --clr-lime: #badc58;   --clr-brown: #a0522d;   --clr-grey: #95a5a6;
+}
+
+/* 1. Овалы (12 цветов) */
+.oval { border-radius: 20px; padding: 2px 10px; border: 2px solid; display: inline-block; font-weight: 500; margin: 0 2px; }
+.ov-red { border-color: var(--clr-red); color: var(--clr-red); }
+.ov-blue { border-color: var(--clr-blue); color: var(--clr-blue); }
+/* ... (пропишите аналогично для остальных 10 цветов) */
+
+/* 2. Маркеры (12 цветов) - используем полупрозрачность 20% */
+.m-red { background: rgba(231, 76, 60, 0.2); }
+.m-blue { background: rgba(52, 152, 219, 0.2); }
+.m-gold { background: rgba(241, 196, 15, 0.3); }
+/* ... */
+
+/* 3. Цвет шрифта (12 цветов) */
+.t-red { color: var(--clr-red); }
+.t-blue { color: var(--clr-blue); }
+/* ... */
+
+/* 4. Прямоугольные блоки (Note Blocks) */
+.block { padding: 15px; margin: 15px 0; border-radius: 8px; border-left: 6px solid; }
+.bg-soft-blue { background: #f0f7ff; border-color: var(--clr-blue); }
+.bg-soft-red { background: #fff5f5; border-color: var(--clr-red); }
+.bg-soft-green { background: #f2fff7; border-color: var(--clr-green); }
+
+/* 5. Luminous Blocks (Светящиеся блоки) */
+.luminous { border: 1px solid; box-shadow: 0 0 15px; transition: 0.3s; }
+.lum-cyan { border-color: #00fbff; box-shadow: 0 0 10px rgba(0, 251, 255, 0.4); background: #faffff; }
+.lum-gold { border-color: #ffd700; box-shadow: 0 0 10px rgba(255, 215, 0, 0.4); background: #fffff0; }
+
+/* Базовый стиль для спец-блоков */
+.med-note { 
+    margin: 20px 0; padding: 15px; border-radius: 10px; 
+    position: relative; overflow: hidden; border: 1px solid #ddd;
+}
+
+.med-note::before { position: absolute; top: 10px; right: 15px; font-size: 1.5rem; opacity: 0.2; }
+
+.note-dosage { border-left: 5px solid #6c5ce7; background: #f8f7ff; }
+.note-dosage::before { content: "💉"; }
+
+.note-anatomy { border-left: 5px solid #ff7675; background: #fffafa; }
+.note-anatomy::before { content: "🫀"; }
+
+.note-surgery { border-left: 5px solid #00b894; background: #f4fffb; }
+.note-surgery::before { content: "🔪"; }
+
+.note-pharmacy { border-left: 5px solid #fdcb6e; background: #fffdf9; }
+.note-pharmacy::before { content: "💊"; }
+
+.note-fact { border-left: 5px solid #0984e3; background: #f0f8ff; border-style: dashed; }
+.note-fact::before { content: "💡"; }
+
+.note-nb { border-left: 5px solid var(--clr-red); background: #fff5f5; font-weight: bold; }
+.note-nb::before { content: "⚠️"; }
+
+/* 6. Скрывающийся текст */
+details.med-details {
+    background: #fff;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    margin: 10px 0;
+    transition: all 0.3s ease;
+}
+
+details.med-details summary {
+    padding: 12px;
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--secondary-color);
+    list-style: none; /* Убираем стандартную стрелочку */
+}
+
+details.med-details summary::before {
+    content: "▶";
+    margin-right: 10px;
+    display: inline-block;
+    transition: 0.2s;
+}
+
+details.med-details[open] summary::before {
+    transform: rotate(90deg);
+}
+
+details.med-details .details-content {
+    padding: 0 15px 15px;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
