@@ -1,63 +1,48 @@
 // assets/js/reader.js
 
-// Базовый путь к вашему репозиторию на GitHub
 const GITHUB_BASE = 'https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/';
 
 /**
- * Основная функция загрузки содержимого главы
- * @param {string} bookPath - Путь к книге (например, 'books/icu/bojar')
- * @param {string} chapterId - ID главы (например, 'chapter-01')
+ * Загрузка главы
  */
 async function loadChapter(bookPath, chapterId) {
     const contentArea = document.getElementById('content-area');
     
     try {
-        // Формируем прямой URL к .md файлу на GitHub
         const url = `${GITHUB_BASE}${bookPath}/chapters/${chapterId}/${chapterId}.md`;
-        
         const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`Не удалось загрузить файл главы (HTTP ${response.status})`);
-        }
+        
+        if (!response.ok) throw new Error(`Ошибка сети: ${response.status}`);
         
         let markdown = await response.text();
 
-        // 1. ОБРАБОТКА КАСТОМНЫХ МАРКЕРОВ (Стилизация)
-        // [[текст]] -> Медицинский овал (стили прописаны в styles.css)
+        // Обработка кастомных стилей
+        // [[термин]] -> овал
         markdown = markdown.replace(/\[\[(.*?)\]\]/g, '<span class="medical-oval">$1</span>');
-        
-        // !!текст!! -> Красный текст (важные предупреждения)
+        // !!важное!! -> красный текст
         markdown = markdown.replace(/!!(.*?)!!/g, '<span class="text-red">$1</span>');
 
-        // 2. РЕНДЕРИНГ MARKDOWN В HTML
-        // Используем библиотеку marked.js, которая подключена в reader.html
+        // Рендерим Markdown
         if (typeof marked !== 'undefined') {
             contentArea.innerHTML = marked.parse(markdown);
         } else {
-            console.error('Библиотека marked.js не загружена');
             contentArea.innerHTML = '<pre>' + markdown + '</pre>';
         }
 
-        // 3. КОРРЕКЦИЯ ПУТЕЙ К ИЗОБРАЖЕНИЯМ
-        // Перенаправляем все картинки в подпапку /images/
+        // КОРРЕКЦИЯ ПУТЕЙ ИЗОБРАЖЕНИЙ
         fixImagePaths(bookPath, chapterId);
 
-        // 4. ЗАВЕРШЕНИЕ
         window.scrollTo({ top: 0, behavior: 'smooth' });
 
     } catch (error) {
-        console.error('Ошибка в reader.js:', error);
-        contentArea.innerHTML = `
-            <div class="error-message" style="color: #721c24; background: #f8d7da; padding: 20px; border-radius: 8px;">
-                <h2>Ошибка загрузки текста</h2>
-                <p>${error.message}</p>
-                <small>Путь: ${bookPath}/chapters/${chapterId}/</small>
-            </div>`;
+        console.error('Reader Error:', error);
+        contentArea.innerHTML = `<div class="error">Не удалось загрузить главу: ${error.message}</div>`;
     }
 }
 
 /**
- * Исправляет пути к изображениям, добавляя подпапку /images/
+ * Функция исправления путей картинок
+ * Перенаправляет запросы из корня главы в папку /images/
  */
 function fixImagePaths(bookPath, chapterId) {
     const images = document.querySelectorAll('#content-area img');
@@ -65,23 +50,29 @@ function fixImagePaths(bookPath, chapterId) {
     images.forEach(img => {
         const src = img.getAttribute('src');
         
+        // Если путь не начинается с http, значит он локальный
         if (src && !src.startsWith('http')) {
-            // Извлекаем только имя файла (например, _page_11_Picture_6.jpeg)
+            // Извлекаем только имя файла (например, _page_15_Picture_2.jpeg)
+            // Убираем лишние точки и слеши в начале, если они есть
             const fileName = src.split('/').pop(); 
             
-            // Собираем правильный путь с учетом вашей структуры /images/
+            // Собираем правильный путь к GitHub с папкой images
             const newSrc = `${GITHUB_BASE}${bookPath}/chapters/${chapterId}/images/${fileName}`;
             
+            console.log(`Исправляем путь изображения: ${newSrc}`);
             img.src = newSrc;
-            img.style.maxWidth = '100%'; // Чтобы картинки не вылезали за края
-            img.classList.add('medical-illustration');
-            img.setAttribute('loading', 'lazy');
             
-            // Если картинка всё равно не найдена
+            // Стили для красоты
+            img.style.maxWidth = '100%';
+            img.style.height = 'auto';
+            img.style.display = 'block';
+            img.style.margin = '1rem auto';
+            
+            // Обработка ошибки, если файла нет и в папке images
             img.onerror = () => {
-                console.warn(`Изображение не найдено в /images/: ${fileName}`);
-                img.style.border = '1px dashed red';
-                img.alt = `Ошибка: файл ${fileName} не найден в папке /images/`;
+                console.error(`Файл не найден даже в /images/: ${fileName}`);
+                img.alt = `Ошибка: ${fileName} отсутствует в репозитории`;
+                img.style.border = '1px solid #ff0000';
             };
         }
     });
