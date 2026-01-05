@@ -1,0 +1,501 @@
+{
+  "chapter_id": "chapter-01",
+  "chapter_number": 1,
+  "title": "",
+  "sections": [
+    {
+      "id": "management-strategies-in-stable-ischemic-heart-disease-sihd",
+      "title": "C. Management strategies in stable ischemic heart disease (SIHD)",
+      "level": 2,
+      "anchor": "management-strategies-in-stable-ischemic-heart-disease-sihd",
+      "subsections": []
+    },
+    {
+      "id": "preoperative-considerations",
+      "title": "C. Preoperative considerations",
+      "level": 2,
+      "anchor": "preoperative-considerations",
+      "subsections": []
+    },
+    {
+      "id": "surgical-procedures",
+      "title": "D. Surgical procedures",
+      "level": 2,
+      "anchor": "surgical-procedures",
+      "subsections": []
+    },
+    {
+      "id": "preoperative-considerations",
+      "title": "H. Preoperative considerations",
+      "level": 2,
+      "anchor": "preoperative-considerations",
+      "subsections": []
+    },
+    {
+      "id": "surgical-procedures",
+      "title": "I. Surgical procedures",
+      "level": 2,
+      "anchor": "surgical-procedures",
+      "subsections": []
+    },
+    {
+      "id": "class-iib-indication-surgery-may-be-considered",
+      "title": "3. Class IIb indication (\"Surgery may be considered\")",
+      "level": 2,
+      "anchor": "class-iib-indication-surgery-may-be-considered",
+      "subsections": [
+        {
+          "id": "preoperative-considerations",
+          "title": "D. Preoperative considerations",
+          "level": 3,
+          "anchor": "preoperative-considerations",
+          "parent": "class-iib-indication-surgery-may-be-considered"
+        }
+      ]
+    },
+    {
+      "id": "preoperative-considerations",
+      "title": "E. Preoperative considerations",
+      "level": 2,
+      "anchor": "preoperative-considerations",
+      "subsections": []
+    },
+    {
+      "id": "other-comments",
+      "title": "G. Other comments",
+      "level": 2,
+      "anchor": "other-comments",
+      "subsections": [
+        {
+          "id": "surgical-procedures",
+          "title": "I. Surgical procedures",
+          "level": 3,
+          "anchor": "surgical-procedures",
+          "parent": "other-comments"
+        }
+      ]
+    },
+    {
+      "id": "b-class-iia",
+      "title": "b. Class IIa",
+      "level": 2,
+      "anchor": "b-class-iia",
+      "subsections": []
+    },
+    {
+      "id": "surgical-procedures",
+      "title": "F. Surgical procedures",
+      "level": 2,
+      "anchor": "surgical-procedures",
+      "subsections": []
+    },
+    {
+      "id": "indications-for-surgery",
+      "title": "C. Indications for surgery",
+      "level": 2,
+      "anchor": "indications-for-surgery",
+      "subsections": []
+    },
+    {
+      "id": "preoperative-considerations-and-diagnostic-testing",
+      "title": "D. Preoperative considerations and diagnostic testing",
+      "level": 2,
+      "anchor": "preoperative-considerations-and-diagnostic-testing",
+      "subsections": [
+        {
+          "id": "type-b-dissections",
+          "title": "2. Type B dissections",
+          "level": 3,
+          "anchor": "type-b-dissections",
+          "parent": "preoperative-considerations-and-diagnostic-testing"
+        }
+      ]
+    },
+    {
+      "id": "thoracic-aortic-aneurysms",
+      "title": "XII. Thoracic Aortic Aneurysms",
+      "level": 2,
+      "anchor": "thoracic-aortic-aneurysms",
+      "subsections": []
+    },
+    {
+      "id": "preoperative-considerations",
+      "title": "C. Preoperative considerations",
+      "level": 2,
+      "anchor": "preoperative-considerations",
+      "subsections": []
+    },
+    {
+      "id": "evaluation",
+      "title": "C. Evaluation",
+      "level": 2,
+      "anchor": "evaluation",
+      "subsections": []
+    }
+  ],
+  "figures": [
+    {
+      "id": "figure-1",
+      "number": "1",
+      "file": "images/_page_0_Picture_0.jpeg",
+      "caption": "Figure 1",
+      "alt": "Medical illustration 1",
+      "anchor": "figure-1",
+      "original_page": 0
+    },
+    {
+      "id": "figure-2",
+      "number": "2",
+      "file": "images/_page_11_Picture_6.jpeg",
+      "caption": "** Coronary artery bypass grafting. A left internal thoracic artery (LITA) has been placed to the left anterior descending (LAD) artery with aortocoronary saphenous vein grafts (SVG) to the circumflex marginal and right coronary arteries.",
+      "alt": "Medical illustration 2",
+      "anchor": "figure-2",
+      "original_page": 11
+    },
+    {
+      "id": "figure-3",
+      "number": "3",
+      "file": "images/_page_12_Picture_9.jpeg",
+      "caption": "** Off‐pump bypass grafting requires displacement of the heart using techniques to avoid hemodynamic compromise. These may include placement and elevation of deep pericardial sutures or the use of an apical suction device. A stabilizing device is used to minimize motion and a proximal vessel loop is placed to minimize bleeding at the site of the anastomosis.",
+      "alt": "Medical illustration 3",
+      "anchor": "figure-3",
+      "original_page": 12
+    },
+    {
+      "id": "figure-4",
+      "number": "4",
+      "file": "images/_page_15_Picture_2.jpeg",
+      "caption": "** Repair of a left ventricular aneurysm (LVA) using the linear closure technique. (A) The thinned‐out scar tissue is opened and partially resected. Any LV thrombus is removed. (B) The aneurysm is then closed with mattress sutures over felt strips. (C) An additional over‐and‐over suture is placed over a third felt strip. (D) Cross‐section of the final repair.",
+      "alt": "Medical illustration 4",
+      "anchor": "figure-4",
+      "original_page": 15
+    },
+    {
+      "id": "figure-5",
+      "number": "5",
+      "file": "images/_page_16_Picture_2.jpeg",
+      "caption": "Figure 5",
+      "alt": "Medical illustration 5",
+      "anchor": "figure-5",
+      "original_page": 16
+    },
+    {
+      "id": "figure-6",
+      "number": "6",
+      "file": "images/_page_18_Picture_5.jpeg",
+      "caption": "** Closure of a postinfarction ventricular septal defect (VSD) using the exclusion technique. (A) Anterior VSD. (B) Inferior VSD. The pericardial patch is anchored to viable myocardium away from the site of the defect, thus eliminating shunt flow across the septal defect. (Reproduced with permission from David et al., *Semin Thorac Cardiovasc Surg* 1998;10:105–10.)103",
+      "alt": "Medical illustration 6",
+      "anchor": "figure-6",
+      "original_page": 18
+    },
+    {
+      "id": "figure-7",
+      "number": "7",
+      "file": "images/_page_27_Figure_5.jpeg",
+      "caption": "** Correlation of patient age with the risk of structural valve deterioration of tissue valves at 15–20 years. (Reproduced with permission from Rahimtoola, *J Am Coll Cardiol* 2010;55:2413–26.)",
+      "alt": "Medical illustration 7",
+      "anchor": "figure-7",
+      "original_page": 27
+    },
+    {
+      "id": "figure-8",
+      "number": "8",
+      "file": "images/_page_29_Picture_2.jpeg",
+      "caption": "** Aortic valve replacement (AVR). (A) A transverse aortotomy incision is made and holding sutures are placed. (B) The valve is excised, and the annulus is debrided and sized. (C, D) Pledgeted mattress sutures are placed through the annulus and through the sewing ring of the valve, the valve is lowered to the annulus, and the sutures are tied. The aortotomy is then closed.",
+      "alt": "Medical illustration 8",
+      "anchor": "figure-8",
+      "original_page": 29
+    },
+    {
+      "id": "figure-9",
+      "number": "9",
+      "file": "images/_page_30_Picture_2.jpeg",
+      "caption": "Figure 9",
+      "alt": "Medical illustration 9",
+      "anchor": "figure-9",
+      "original_page": 30
+    },
+    {
+      "id": "figure-10",
+      "number": "10",
+      "file": "images/_page_31_Picture_2.jpeg",
+      "caption": "** Ross procedure. (A) The aorta is opened and the diseased aortic valve is removed. The pulmonic valve and main pulmonary artery are carefully excised and the coronary arteries are mobilized. (B) The pulmonary autograft is then transposed to the aortic root. (C) The coronary arteries are reimplanted and the RV outflow tract is reconstructed with a cryopreserved pulmonary valved homograft.",
+      "alt": "Medical illustration 10",
+      "anchor": "figure-10",
+      "original_page": 31
+    },
+    {
+      "id": "figure-11",
+      "number": "11",
+      "file": "images/_page_32_Picture_2.jpeg",
+      "caption": "** Bentall procedure. (A) The aorta is opened and then divided proximally and distally. (B) Coronary ostial buttons are mobilized. (C, D) A valve incorporated into the proximal end of the conduit is sewn to the aortic annulus. (E) The coronary ostial buttons are reimplanted and the distal suture line is completed.",
+      "alt": "Medical illustration 11",
+      "anchor": "figure-11",
+      "original_page": 32
+    },
+    {
+      "id": "figure-12",
+      "number": "12",
+      "file": "images/_page_33_Figure_2.jpeg",
+      "caption": "** Drawing and fluoroscopic images of a transcatheter aortic valve replacement (TAVR) with an Edwards SAPIEN 3 transcatheter heart valve. (A, B) Initial positioning across the native annulus. (C, D) Complete valve deployment by balloon inflation. (Image courtesy of Edwards Lifesciences (A and C)).",
+      "alt": "Medical illustration 12",
+      "anchor": "figure-12",
+      "original_page": 33
+    },
+    {
+      "id": "figure-13",
+      "number": "13",
+      "file": "images/_page_34_Figure_2.jpeg",
+      "caption": "** Drawing and fluoroscopic images of a TAVR with a Medtronic Evolut Pro valve. (A, B) Partial self‐expansion of the nitinol frame by withdrawal of the constraining sheath. (C, D) Complete valve deployment. (Image courtesy of Medtronic, Inc. (A and C)).",
+      "alt": "Medical illustration 13",
+      "anchor": "figure-13",
+      "original_page": 34
+    },
+    {
+      "id": "figure-14",
+      "number": "14",
+      "file": "images/_page_38_Picture_6.jpeg",
+      "caption": "Figure 14",
+      "alt": "Medical illustration 14",
+      "anchor": "figure-14",
+      "original_page": 38
+    },
+    {
+      "id": "figure-15",
+      "number": "15",
+      "file": "images/_page_43_Picture_2.jpeg",
+      "caption": "Figure 15",
+      "alt": "Medical illustration 15",
+      "anchor": "figure-15",
+      "original_page": 43
+    },
+    {
+      "id": "figure-16",
+      "number": "16",
+      "file": "images/_page_49_Picture_6.jpeg",
+      "caption": "** Mitral valve repair. The most common pathology involves a flail posterior mitral leaflet. (A) A quadrangular excision is made as indicated by the dotted lines and the flail segment is resected. The remaining leaflet tissue may be incised along the annulus. (B) It is then advanced and reattached to the annulus (\"sliding plasty\"). (C) The leaflet tissue is then approximated, and (D) an annuloplasty ring is placed.",
+      "alt": "Medical illustration 16",
+      "anchor": "figure-16",
+      "original_page": 49
+    },
+    {
+      "id": "figure-17",
+      "number": "17",
+      "file": "images/_page_50_Picture_0.jpeg",
+      "caption": "Figure 17",
+      "alt": "Medical illustration 17",
+      "anchor": "figure-17",
+      "original_page": 50
+    },
+    {
+      "id": "figure-18",
+      "number": "18",
+      "file": "images/_page_52_Figure_1.jpeg",
+      "caption": "** (A) The MitraClip device. (B) The system passes transeptally into the left atrium and the clip is deployed, grasping both leaflets. (C) Fluoroscopic image demonstrating one deployed clip and the clip delivery system positioning a second clip lateral to the initial clip. (Image (B) courtesy of Mitraclip.com.)",
+      "alt": "Medical illustration 18",
+      "anchor": "figure-18",
+      "original_page": 52
+    },
+    {
+      "id": "figure-19",
+      "number": "19",
+      "file": "images/_page_57_Picture_2.jpeg",
+      "caption": "** Tricuspid valve repair involves reduction of annular dilatation to correct functional TR. (A, B) The circumferential suturing technique (De Vega repair). (C, D) Placement of an annuloplasty ring. Note the location of the coronary sinus and the proximity of the conduction system to the repair.",
+      "alt": "Medical illustration 19",
+      "anchor": "figure-19",
+      "original_page": 57
+    },
+    {
+      "id": "figure-20",
+      "number": "20",
+      "file": "images/_page_58_Picture_2.jpeg",
+      "caption": "** Bicuspidization of the tricuspid valve for functional TR. (A) Two pledgeted mattress sutures are placed from the anteroposterior commissure to the posteroseptal commissure along the posterior annulus. (B) Tying down the sutures produces a \"bicuspid\" valve and should eliminate the TR.",
+      "alt": "Medical illustration 20",
+      "anchor": "figure-20",
+      "original_page": 58
+    },
+    {
+      "id": "figure-21",
+      "number": "21",
+      "file": "images/_page_66_Picture_8.jpeg",
+      "caption": "Figure 21",
+      "alt": "Medical illustration 21",
+      "anchor": "figure-21",
+      "original_page": 66
+    },
+    {
+      "id": "figure-22",
+      "number": "22",
+      "file": "images/_page_68_Picture_2.jpeg",
+      "caption": "** Classification of aortic dissection. Type A dissections involve the ascending aorta. Type B dissections usually originate distal to the left subclavian artery and do not involve the ascending aorta. If they do extend retrograde, they are then considered type A dissections.",
+      "alt": "Medical illustration 22",
+      "anchor": "figure-22",
+      "original_page": 68
+    },
+    {
+      "id": "figure-23",
+      "number": "23",
+      "file": "images/_page_73_Picture_2.jpeg",
+      "caption": "Figure 23",
+      "alt": "Medical illustration 23",
+      "anchor": "figure-23",
+      "original_page": 73
+    },
+    {
+      "id": "figure-24",
+      "number": "24",
+      "file": "images/_page_74_Figure_8.jpeg",
+      "caption": "** Risk of aortic dissection or rupture based on the initial aortic size. (Adapted from Davies et al., *Ann Thorac Surg* 2002;73:17–27.)",
+      "alt": "Medical illustration 24",
+      "anchor": "figure-24",
+      "original_page": 74
+    },
+    {
+      "id": "figure-25",
+      "number": "25",
+      "file": "images/_page_77_Picture_2.jpeg",
+      "caption": "** Crawford classification of thoracoabdominal aneurysms.",
+      "alt": "Medical illustration 25",
+      "anchor": "figure-25",
+      "original_page": 77
+    },
+    {
+      "id": "figure-26",
+      "number": "26",
+      "file": "images/_page_79_Picture_2.jpeg",
+      "caption": "Figure 26",
+      "alt": "Medical illustration 26",
+      "anchor": "figure-26",
+      "original_page": 79
+    },
+    {
+      "id": "figure-27",
+      "number": "27",
+      "file": "images/_page_81_Picture_5.jpeg",
+      "caption": "** • The Watchman device is positioned at the orifice of the left atrial appendage to prevent formation of left atrial appendage thrombus. It endothelializes fairly quickly, but short-term use of warfarin is recommended. (Image courtesy of Boston Scientific Corporation (A), http://azheartrhythmcenter.com/resources/procedure-instructions/watchman-device/ (B).)",
+      "alt": "Medical illustration 27",
+      "anchor": "figure-27",
+      "original_page": 81
+    },
+    {
+      "id": "figure-28",
+      "number": "28",
+      "file": "images/_page_81_Picture_6.jpeg",
+      "caption": "** • The Watchman device is positioned at the orifice of the left atrial appendage to prevent formation of left atrial appendage thrombus. It endothelializes fairly quickly, but short-term use of warfarin is recommended. (Image courtesy of Boston Scientific Corporation (A), http://azheartrhythmcenter.com/resources/procedure-instructions/watchman-device/ (B).)",
+      "alt": "Medical illustration 28",
+      "anchor": "figure-28",
+      "original_page": 81
+    },
+    {
+      "id": "figure-29",
+      "number": "29",
+      "file": "images/_page_83_Picture_2.jpeg",
+      "caption": "** The left‐sided Maze involves ablation lines that encircle and connect the right and left pulmonary veins and one that extends from the inferior box lesion near the right or left inferior pulmonary vein to the mitral valve annulus. The left atrial appendage is amputated and an additional ablation line is placed from the base of the appendage to the left pulmonary veins. The base of the left atrial appendage is then oversewn.",
+      "alt": "Medical illustration 29",
+      "anchor": "figure-29",
+      "original_page": 83
+    },
+    {
+      "id": "figure-30",
+      "number": "30",
+      "file": "images/_page_84_Picture_5.jpeg",
+      "caption": "** (A) The right‐sided Maze includes ablation of the base of the right atrial appendage and an incision in the right atrial wall through which multiple bipolar and unipolar ablation lines can be carried out. (B) Sites for endocardial ablation are shown by the dotted lines (see text).",
+      "alt": "Medical illustration 30",
+      "anchor": "figure-30",
+      "original_page": 84
+    },
+    {
+      "id": "figure-31",
+      "number": "31",
+      "file": "images/_page_85_Figure_7.jpeg",
+      "caption": "Figure 31",
+      "alt": "Medical illustration 31",
+      "anchor": "figure-31",
+      "original_page": 85
+    },
+    {
+      "id": "figure-32",
+      "number": "32",
+      "file": "images/_page_86_Picture_4.jpeg",
+      "caption": "** Convergent procedure. Through a subxiphoid incision, bilateral pulmonary vein isolation is performed along with multiple interconnecting ablation lesions across the posterior left atrium. Subsequently, additional endocardial ablation over the pulmonary veins is performed. (Reproduced with permission of Gersak et al. *Ann Thorac Surg* 2016;102:1550–7.)400",
+      "alt": "Medical illustration 32",
+      "anchor": "figure-32",
+      "original_page": 86
+    },
+    {
+      "id": "figure-33",
+      "number": "33",
+      "file": "images/_page_92_Figure_11.jpeg",
+      "caption": "** Simultaneous right and left ventricular pressure tracings in constrictive pericarditis. Note the \"dip‐and‐plateau\" pattern as diastolic filling of the ventricular chambers is abruptly truncated by the constriction. Note also the equilibration of diastolic ventricular pressures. (Reproduced with permission from Myers et al., *Am Heart J* 1999;138:219–32.)",
+      "alt": "Medical illustration 33",
+      "anchor": "figure-33",
+      "original_page": 92
+    },
+    {
+      "id": "figure-34",
+      "number": "34",
+      "file": "images/_page_94_Picture_2.jpeg",
+      "caption": "Figure 34",
+      "alt": "Medical illustration 34",
+      "anchor": "figure-34",
+      "original_page": 94
+    }
+  ],
+  "tables": [
+    {
+      "id": "table-1-1",
+      "number": "1.1",
+      "title": "Stages of Aortic Stenosis",
+      "anchor": "table-1-1"
+    },
+    {
+      "id": "table-1-2",
+      "number": "1.2",
+      "title": "Echocardiographic Assessment of the Severity of",
+      "anchor": "table-1-2"
+    },
+    {
+      "id": "table-1-4",
+      "number": "1.4",
+      "title": "Stages of Chronic Aortic Regurgitation",
+      "anchor": "table-1-4"
+    },
+    {
+      "id": "table-1-6",
+      "number": "1.6",
+      "title": "Stages of Mitral Stenosis",
+      "anchor": "table-1-6"
+    },
+    {
+      "id": "table-1-7",
+      "number": "1.7",
+      "title": "Echocardiographic and Hemodynamic Abnormalities in Severe Mitral Stenosis",
+      "anchor": "table-1-7"
+    },
+    {
+      "id": "table-1-8",
+      "number": "1.8",
+      "title": "Stages of Primary Mitral Regurgitation",
+      "anchor": "table-1-8"
+    },
+    {
+      "id": "table-1-9",
+      "number": "1.9",
+      "title": "Stages of Secondary Mitral Regurgitation",
+      "anchor": "table-1-9"
+    },
+    {
+      "id": "table-1-10",
+      "number": "1.10",
+      "title": "Stages of Functional Tricuspid Regurgitation",
+      "anchor": "table-1-10"
+    },
+    {
+      "id": "table-1-12",
+      "number": "1.12",
+      "title": "Indications for Surgery for Left‐Sided Valve Infections per the European Society of Cardiology Heart Failure Class Timing I Emergent NVE or PVE with severe AR or MR, obstruction, or fistula causing refractory pulmonary edema or cardiogenic shock I Urgent NVE or PVE with severe AR or MR or obstruction with symptoms of CHF or echo signs of poor hemodynamic tolerance causing heart failure symptoms (high LVEDP, PH, high LA pressures) Uncontrolled Infection I Urgent Locally uncontrolled infection (abscess, false aneurysm, fistula, enlarging vegetation) – i.e. persistent positive blood cultures after 7–10 days of antibiotics; perivalvular abscess is noted in 10–40% of aortic NVE and 56–100% of PVE I Urgent/elective Infection with fungal or multiresistant organism IIa Urgent Persistent positive blood culture on appropriate antibiotics and adequate control of septic metastatic foci IIa Urgent/elective PVE with *Staph*. or HACEK gram‐negative organism Prevention of Embolism** I Urgent Aortic or mitral NVE or PVE IE with persistent vegetations >10 mm after ≥1 embolic episode on antibiotics IIa Urgent Aortic or mitral NVE with vegetations >10 mm with severe valve stenosis or regurgitation and low surgical risk IIa Urgent Aortic or mitral NVE or PVE with very large vegetations >30 mm IIb Urgent Aortic or mitral NVE or PVE with isolated vegetation >15 mm and no other indication for surgery Adapted with permission from Habib et al., *Eur Heart J* 2015;36:3075–128.269",
+      "anchor": "table-1-12"
+    }
+  ],
+  "key_terms": []
+}
