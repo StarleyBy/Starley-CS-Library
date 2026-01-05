@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "id": "icu",
+      "title": "ICU",
+      "books": [
+        {
+          "id": "bojar",
+          "title": "Manual of Perioperative Care",
+          "author": "Robert M. Bojar",
+          "path": "icu/bojar",
+          "cover": "icu/bojar/cover.jpg",
+          "description": "6th Edition. Comprehensive guide to cardiac surgery care."
+        }
+      ]
+    }
+  ]
+}
