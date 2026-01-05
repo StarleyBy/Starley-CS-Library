@@ -1,9 +1,9 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Starley Editor | Medical Library</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starley Medical Editor</title>
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/editor.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -11,33 +11,66 @@
 <body>
     <div class="editor-shell">
         <aside class="editor-toolbar">
+            <div class="tool-group loader-group">
+                <h4>📂 Загрузка</h4>
+                <select id="select-book"><option value="">Выберите книгу...</option></select>
+                <select id="select-chapter" disabled><option value="">Выберите главу...</option></select>
+                <button id="btn-load-cloud" class="btn-primary">⬇️ Загрузить оригинал</button>
+            </div>
+
             <div class="tool-group">
-                <h4>Цветной овал</h4>
+                <h4>⭕ Цветной овал</h4>
                 <div class="color-grid" id="oval-colors"></div>
             </div>
+
             <div class="tool-group">
-                <h4>Маркер</h4>
+                <h4>🖍️ Маркер</h4>
                 <div class="color-grid" id="marker-colors"></div>
             </div>
+
             <div class="tool-group">
-                <h4>Медицинские блоки</h4>
-                <button onclick="wrapInBlock('note-dosage')">💉 Доза</button>
-                <button onclick="wrapInBlock('note-surgery')">🔪 Хирургия</button>
-                <button onclick="wrapInBlock('note-nb')">⚠️ NB!</button>
-                <button onclick="wrapInBlock('note-anatomy')">🫀 Анатомия</button>
-                <button onclick="wrapInBlock('note-pharmacy')">💊 Фарма</button>
+                <h4>🎨 Цвет текста</h4>
+                <div class="color-grid" id="text-colors"></div>
             </div>
+
             <div class="tool-group">
-                <h4>Интерактив</h4>
-                <button onclick="addDetails()">▶ Скрывающийся текст</button>
+                <h4>🚑 Мед. блоки</h4>
+                <button onclick="wrapInBlock('note-dosage')">💉 Дозировка</button>
+                <button onclick="wrapInBlock('note-anatomy')">🫀 Анатомия</button>
+                <button onclick="wrapInBlock('note-surgery')">🔪 Хирургия</button>
+                <button onclick="wrapInBlock('note-pharmacy')">💊 Фармакология</button>
+                <button onclick="wrapInBlock('note-physio')">🧬 Физиология</button>
+                <button onclick="wrapInBlock('note-fact')">💡 Факт</button>
+                <button onclick="wrapInBlock('note-treatment')">🩹 Лечение</button>
+                <button onclick="wrapInBlock('note-icu')">🏥 Реанимация</button>
+                <button onclick="wrapInBlock('note-nb')">⚠️ NB!</button>
+            </div>
+
+            <div class="tool-group">
+                <h4>✨ Эффекты</h4>
+                <button onclick="wrapInBlock('luminous-cyan')">💎 Luminous Cyan</button>
+                <button onclick="wrapInBlock('luminous-amber')">🔥 Luminous Amber</button>
+                <button onclick="addDetails()">▶ Скрытый текст</button>
+            </div>
+
+            <div class="tool-group export-group">
+                <h4>💾 Сохранение</h4>
+                <input type="text" id="export-filename" placeholder="chapter-01-starley.md">
+                <button id="btn-download" class="btn-success">📤 Скачать .md файл</button>
             </div>
         </aside>
 
-        <main class="editor-container">
-            <textarea id="markdown-input" placeholder="Вставьте Markdown здесь..."></textarea>
-            <div id="editor-preview" class="content"></div>
+        <main class="editor-main">
+            <div class="pane-header">Markdown Source</div>
+            <textarea id="markdown-input" placeholder="Текст появится здесь после загрузки или вставьте его вручную..."></textarea>
         </main>
+
+        <section class="editor-preview-pane">
+            <div class="pane-header">Live Preview</div>
+            <div id="editor-preview" class="content"></div>
+        </section>
     </div>
+
     <script src="assets/js/editor.js"></script>
 </body>
 </html>
