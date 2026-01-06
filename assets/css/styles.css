@@ -408,3 +408,33 @@ footer {
 .note-surgery { border-color: #2ecc71; }
 .toc-link { display: block; padding: 5px; font-size: 0.9rem; text-decoration: none; color: #666; }
 .toc-link:hover { color: #3498db; }
+
+
+/* reader-sidebar.active — состояние когда меню открыто на мобилке */
+@media (max-width: 768px) {
+    .sidebar {
+        position: fixed;
+        left: -100%;
+        top: 0;
+        width: 85%;
+        height: 100%;
+        background: #fff;
+        z-index: 9999;
+        box-shadow: 10px 0 30px rgba(0,0,0,0.3);
+        padding-top: 60px;
+    }
+    .sidebar.active {
+        left: 0;
+    }
+}
+
+/* Красивый селектор */
+.edition-selector {
+    background: #f0f2f5;
+    border: 1px solid #d1d9e0;
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    color: #24292f;
+    outline: none;
+}
