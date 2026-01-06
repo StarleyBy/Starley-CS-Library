@@ -1,75 +1,25 @@
-// assets/js/reader.js
-
-const GITHUB_BASE = 'https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/';
-
-/**
- * Исправляет пути к изображениям, добавляя подпапку /images/
- */
-function fixImagePaths(bookPath, chapterId) {
-    const images = document.querySelectorAll('#content-area img');
-    images.forEach(img => {
-        const src = img.getAttribute('src');
-        if (src && !src.startsWith('http')) {
-            const fileName = src.split('/').pop(); 
-            const newSrc = `${GITHUB_BASE}${bookPath}/chapters/${chapterId}/images/${fileName}`;
-            img.src = newSrc;
-            img.style.maxWidth = '100%';
-            img.classList.add('medical-illustration');
-            img.onerror = () => {
-                img.alt = `Ошибка: ${fileName} не найден в /images/`;
-                img.style.border = '1px dashed red';
-            };
-        }
-    });
-}
-
-/**
- * Применяет кастомные стили (овалы, блоки) к тексту перед рендерингом
- */
-function applyMedicalStyles(md) {
-    return md
-        // [[текст]] -> овал
-        .replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>')
-        // !!текст!! -> красный
-        .replace(/!!(.*?)!!/g, '<span class="text-red">$1</span>');
-}
-
-/**
- * ГЛАВНАЯ ФУНКЦИЯ ЗАГРУЗКИ
- */
-async function loadChapter(bookPath, chapterId, editionId = 'original') {
-    const contentArea = document.getElementById('content-area');
-    if (!contentArea) return;
-
+async function loadChapter(bookPath, chapterId, edition) {
+    const area = document.getElementById('content-area');
     try {
-        let suffix = '';
-        if (editionId === 'starley') suffix = '-starley';
-        if (editionId === 'diman') suffix = '-diman';
-
-        const url = `${GITHUB_BASE}${bookPath}/chapters/${chapterId}/${chapterId}${suffix}.md`;
+        let suffix = edition === 'starley' ? '-starley' : '';
+        // Russian Edition тоже грузит оригинал, перевод делает Google поверх HTML
+        const url = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/${chapterId}${suffix}.md`;
         
-        const response = await fetch(url);
-        if (!response.ok) throw new Error(`Файл версии "${editionId}" не найден.`);
+        const res = await fetch(url);
+        if(!res.ok) throw new Error("Файл не найден");
+        let md = await res.text();
+
+        // Применяем медицинские стили (Regex)
+        md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         
-        let markdown = await response.text();
-        
-        // Сначала применяем наши метки
-        markdown = applyMedicalStyles(markdown);
+        area.innerHTML = marked.parse(md);
 
-        // Затем парсим Markdown в HTML
-        if (typeof marked !== 'undefined') {
-            contentArea.innerHTML = marked.parse(markdown);
-        } else {
-            contentArea.innerHTML = '<pre>' + markdown + '</pre>';
-        }
+        // Исправляем картинки (теперь ищем в папке /images главы)
+        document.querySelectorAll('#content-area img').forEach(img => {
+            const src = img.getAttribute('src');
+            img.src = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/images/${src}`;
+            img.classList.add('med-img');
+        });
 
-        // В конце фиксим картинки
-        fixImagePaths(bookPath, chapterId);
-
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-
-    } catch (error) {
-        console.error('Reader Error:', error);
-        contentArea.innerHTML = `<div class="error-box"><h3>Упс!</h3><p>${error.message}</p></div>`;
-    }
+    } catch (e) { area.innerHTML = `Error: ${e.message}`; }
 }
