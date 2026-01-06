@@ -10,27 +10,29 @@
     <header>
         <div class="header-content">
             <nav>
-                <a href="index.html">Библиотека</a>
-                <a href="editor.html">Редактор</a>
-                <a href="mdconvert.html">Конвертер</a>
+                <a href="index.html">Library</a>
+                <a href="editor.html">Editor</a>
+                <a href="mdconvert.html">MD convert</a>
             </nav>
-            <div id="edition-controls">
+            
+            <div id="version-selector-container" style="margin-left: auto; margin-right: 15px;">
                 </div>
+
             <button id="toc-toggle">☰ Оглавление</button>
         </div>
     </header>
 
-    <div class="reader-container">
+    <div class="reader-layout" style="display: flex;">
         <aside id="reader-sidebar" class="sidebar">
-            <h2 id="book-title">Загрузка книги...</h2>
+            <h2 id="book-title">Загрузка...</h2>
             <div id="chapter-list">
-                <p>Загрузка глав...</p>
+                <p>Поиск глав...</p>
             </div>
         </aside>
 
-        <main class="content-wrapper">
+        <main class="content-wrapper" style="flex: 1; padding: 20px;">
             <div id="content-area" class="content">
-                <p>Загрузка содержимого главы...</p>
+                <p>Загрузка текста...</p>
             </div>
         </main>
     </div>
@@ -40,16 +42,14 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    
     <script src="assets/js/reader.js"></script>
-    
     <script src="assets/js/navigation.js"></script>
 
     <script>
-        // Обработка кнопки оглавления для мобильных устройств
-        document.getElementById('toc-toggle').addEventListener('click', function() {
+        // Открытие/закрытие сайдбара
+        document.getElementById('toc-toggle').onclick = function() {
             document.getElementById('reader-sidebar').classList.toggle('active');
-        });
+        }
     </script>
 </body>
 </html>
