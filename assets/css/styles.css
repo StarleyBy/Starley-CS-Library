@@ -332,3 +332,60 @@ footer {
     color: white;
 }
 
+
+/* --- Адаптивность и мобильное меню --- */
+@media (max-width: 768px) {
+    .reader-layout {
+        flex-direction: column; /* Складываем сайдбар и контент вертикально */
+    }
+
+    .sidebar {
+        position: fixed;
+        left: -100%; /* Прячем меню влево */
+        top: 60px;
+        width: 80%;
+        height: calc(100vh - 60px);
+        z-index: 1000;
+        transition: 0.3s;
+        box-shadow: 5px 0 15px rgba(0,0,0,0.1);
+        background: white;
+    }
+
+    .sidebar.active {
+        left: 0; /* Показываем при нажатии на кнопку */
+    }
+
+    .content-wrapper {
+        padding: 15px !important;
+        margin-left: 0 !important;
+    }
+
+    /* Стиль селектора версий в шапке для мобилок */
+    .edition-selector {
+        font-size: 12px;
+        padding: 4px;
+        max-width: 120px;
+    }
+
+    header nav {
+        display: none; /* Прячем лишние ссылки (Редактор/Конвертер) на мобилках в шапке */
+    }
+}
+
+/* --- Стили для выбора версий (чтобы он был заметен) --- */
+.edition-selector {
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.edition-selector option {
+    background: white;
+    color: #333;
+}
