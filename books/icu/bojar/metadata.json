@@ -1,7 +1,13 @@
 {
   "title": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
-  "category": ["cardiology", "cardiac surgery", "icu"],
-  "authors": ["Robert M. Bojar, MD"],
+  "category": [
+    "cardiology",
+    "cardiac surgery",
+    "icu"
+  ],
+  "authors": [
+    "Robert M. Bojar, MD"
+  ],
   "chapters": [
     {
       "file": "contents.md",
@@ -71,12 +77,79 @@
     },
     {
       "file": "appendix-C.md",
-      "title": "Appendix C: Protocols (e.g., Blood Conservation, Glucose Management, etc.)"
+      "title": "Appendix C: Protocols (Blood Conservation, Glucose Management)"
+    },
+    {
+      "file": "appendix-D.md",
+      "title": "Appendix D: Heparin and Protamine Management"
+    },
+    {
+      "file": "appendix-E.md",
+      "title": "Appendix E: Anticoagulation/Antiplatelet Management"
+    },
+    {
+      "file": "appendix-F.md",
+      "title": "Appendix F: Management of Postoperative Arrhythmias"
+    },
+    {
+      "file": "appendix-G.md",
+      "title": "Appendix G: Pacing Protocols and Troubleshooting"
+    },
+    {
+      "file": "appendix-H.md",
+      "title": "Appendix H: Use of Inotropes and Vasopressors"
+    },
+    {
+      "file": "appendix-I.md",
+      "title": "Appendix I: Use of Vasodilators"
+    },
+    {
+      "file": "appendix-J.md",
+      "title": "Appendix J: Use of Diuretics"
+    },
+    {
+      "file": "appendix-K.md",
+      "title": "Appendix K: Management of Bleeding and Coagulopathy"
+    },
+    {
+      "file": "appendix-L.md",
+      "title": "Appendix L: Transfusion Algorithms"
+    },
+    {
+      "file": "appendix-M.md",
+      "title": "Appendix M: Intensive Insulin Therapy"
+    },
+    {
+      "file": "appendix-N.md",
+      "title": "Appendix N: Prophylactic Antibiotics"
+    },
+    {
+      "file": "appendix-O.md",
+      "title": "Appendix O: Neurologic Protocols"
+    },
+    {
+      "file": "appendix-P.md",
+      "title": "Appendix P: Continuous Renal Replacement Therapy"
+    },
+    {
+      "file": "appendix-Q.md",
+      "title": "Appendix Q: Nutritional Support"
+    },
+    {
+      "file": "appendix-R.md",
+      "title": "Appendix R: Pain Management"
+    },
+    {
+      "file": "appendix-S.md",
+      "title": "Appendix S: Intra-Aortic Balloon Pump"
+    },
+    {
+      "file": "appendix-T.md",
+      "title": "Appendix T: Extracorporeal Membrane Oxygenation"
     },
     {
       "file": "appendix-U.md",
       "title": "Appendix U: Body Mass Index Table"
     }
-    // ... всего 21 приложение (A–U). Конкретные названия остальных варьируются, но включают: anticoagulation guidelines, pacing protocols, transfusion algorithms, neurologic monitoring, etc.
   ]
 }
