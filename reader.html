@@ -2,69 +2,41 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>Reader | Starley Library</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starley Medical Library</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
-<body>
-    <header>
-        <div class="header-content" style="display: flex; align-items: center; justify-content: space-between; padding: 0 15px;">
-            <div class="nav-links">
-                <a href="index.html" style="margin-right: 10px;">🏠</a>
-                <nav style="display: inline-block;">
-                    <a href="editor.html">Editor</a>
-                    <a href="mdconvert.html">Convert</a>
-                </nav>
-            </div>
-            
+<body class="reader-body">
+    <div id="google_translate_element"></div> <header class="reader-header">
+        <div class="header-content">
+            <nav class="main-nav">
+                <a href="index.html" class="nav-link">🏠 Library</a>
+                <a href="editor.html" class="nav-link">✍️ Editor</a>
+            </nav>
+
             <div id="version-selector-container"></div>
 
-            <button id="toc-toggle" style="background: none; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; cursor: pointer;">
-                ☰ <span class="desktop-only">Меню</span>
-            </button>
+            <button id="toc-toggle" class="mobile-only">☰</button>
         </div>
     </header>
 
     <div class="reader-layout">
         <aside id="reader-sidebar" class="sidebar">
-            <h2 id="book-title" style="font-size: 1.2rem; padding: 10px;">Загрузка...</h2>
-            <div id="chapter-list"></div>
+            <h2 id="book-title">Загрузка...</h2>
+            <div id="chapter-list" class="nav-list"></div>
+            <hr>
+            <div id="internal-toc" class="nav-list">
+                </div>
         </aside>
 
         <main class="content-wrapper">
-            <div id="content-area" class="content">
-                <p>Загрузка текста...</p>
-            </div>
+            <article id="content-area" class="content">
+                </article>
         </main>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="assets/js/reader.js"></script>
     <script src="assets/js/navigation.js"></script>
-
-    <script>
-        // Скрипт для работы кнопки меню на мобилках
-        const btn = document.getElementById('toc-toggle');
-        const sidebar = document.getElementById('reader-sidebar');
-        
-        btn.onclick = (e) => {
-            e.stopPropagation();
-            sidebar.classList.toggle('active');
-        };
-
-        // Закрывать меню при клике на главу (на мобилках)
-        document.getElementById('chapter-list').onclick = () => {
-            if (window.innerWidth <= 768) {
-                sidebar.classList.remove('active');
-            }
-        };
-
-        // Закрывать меню при клике вне его
-        document.onclick = (e) => {
-            if (!sidebar.contains(e.target) && e.target !== btn) {
-                sidebar.classList.remove('active');
-            }
-        };
-    </script>
 </body>
 </html>
