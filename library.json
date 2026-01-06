@@ -2,31 +2,11 @@
   "categories": [
     {
       "id": "icu",
-      "title": "Интенсивная терапия",
+      "title": "Intensive therapy",
       "path": "books/icu",
       "books": [
-        {
-          "id": "bojar",
-          "title": "Manual of Perioperative Care",
-          "author": "Robert M. Bojar",
-          "folder": "bojar",
-          "description": "Руководство по кардиохирургии.",
-          "chapters": [
-            { "id": "chapter-01", "title": "Глава 1: Synopsis" },
-            { "id": "chapter-02", "title": "Глава 2: Cardiovascular Physiology" }
-          ],
-          "editions": [
-            { "id": "original", "title": "Original", "file_suffix": "" },
-            { "id": "starley", "title": "Starley Edition", "file_suffix": "-starley" }
-          ]
-        }
+        { "folder": "bojar" }
       ]
-    },
-    {
-      "id": "cardiac_surgery",
-      "title": "Кардиохирургия",
-      "path": "books/cardiac surgery",
-      "books": []
     }
   ]
 }
