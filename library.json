@@ -7,15 +7,20 @@
       "title": "ICU",
       "path": "books/icu",
       "books": [
-        {
-          "id": "bojar",
-          "title": "Manual of Perioperative Care",
-          "author": "Robert M. Bojar",
-          "folder": "bojar",
-          "editions": [
-            { "id": "original", "title": "Original", "file_suffix": "" },
-            { "id": "starley", "title": "Starley Edition", "file_suffix": "-starley" },
-            { "id": "user", "title": "User Version", "file_suffix": "-user" }
+       {
+  "id": "bojar",
+  "title": "Manual of Perioperative Care",
+  "folder": "bojar",
+  "chapters": [
+    {"id": "chapter-01", "title": "Глава 1: Synopsis"},
+    {"id": "chapter-02", "title": "Глава 2: Cardiovascular Physiology"}
+  ],
+  "editions": [
+    { "id": "original", "title": "Original", "file_suffix": "" },
+    { "id": "starley", "title": "Starley Edition", "file_suffix": "-starley" }
+  ]
+}
+ 
           ]
         }
       ]
