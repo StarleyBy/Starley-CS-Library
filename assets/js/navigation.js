@@ -13,63 +13,69 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function initApp(bookPath, chapterId, edition) {
     try {
-        // 1. Загружаем метаданные КНИГИ (из её папки)
         const bookMeta = await fetch(`${GITHUB_RAW}${bookPath}/metadata.json?t=${Date.now()}`).then(r => r.json());
         document.getElementById('book-title').textContent = bookMeta.title;
 
-        // 2. Строим список глав
+        // 1. Рендер списка глав
         const list = document.getElementById('chapter-list');
-        list.innerHTML = bookMeta.chapters.map(ch => {
+        const allChapters = [...bookMeta.chapters, ...(bookMeta.appendices || [])];
+        
+        list.innerHTML = allChapters.map(ch => {
             const id = ch.file.replace('.md', '');
             return `<div class="chapter-item ${id === chapterId ? 'active' : ''}" 
                     onclick="updateUrl('${bookPath}','${id}','${edition}')">${ch.title}</div>`;
         }).join('');
 
-        // 3. Загружаем метаданные ГЛАВЫ (для внутреннего оглавления)
-        const chapMeta = await fetch(`${GITHUB_RAW}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`).then(r => r.json());
-        const internalToc = document.getElementById('internal-toc');
-        if(chapMeta.sections) {
-            internalToc.innerHTML = '<h4>В этой главе:</h4>' + chapMeta.sections.filter(s => s.level <= 2).map(s => 
-                `<a href="#${s.anchor}" class="toc-link">${s.title}</a>`
-            ).join('');
+        // 2. Рендер выбора версий
+        renderEditionSelector(bookPath, chapterId, edition);
+
+        // 3. Загрузка метаданных ГЛАВЫ (Оглавление внутри)
+        // Если версия RU - пробуем загрузить -ru-metadata.json, если нет - обычный
+        const metaSuffix = (edition === 'russian') ? '-ru-metadata' : '-metadata';
+        renderInternalTOC(bookPath, chapterId, metaSuffix);
+
+        // 4. Загрузка текста через reader.js
+        if (typeof loadChapter === 'function') {
+            loadChapter(bookPath, chapterId, edition);
         }
-
-        // 4. Селектор версий + Russian Edition
-        renderEditions(bookPath, chapterId, edition);
-
-        // 5. Загружаем текст
-        loadChapter(bookPath, chapterId, edition);
 
     } catch (e) { console.error("Nav Error:", e); }
 }
 
-function renderEditions(book, chap, current) {
+async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
+    const tocContainer = document.getElementById('internal-toc');
+    try {
+        // Пробуем специфичные метаданные, если не вышло - берем базовые
+        let url = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
+        let res = await fetch(url);
+        
+        if (!res.ok && metaSuffix.includes('-ru')) {
+            url = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
+            res = await fetch(url);
+        }
+
+        const meta = await res.json();
+        if (meta.sections) {
+            tocContainer.innerHTML = `<p class="toc-title">${metaSuffix.includes('-ru') ? 'В этой главе:' : 'In this chapter:'}</p>` + 
+                meta.sections.filter(s => s.level === 2).map(s => 
+                    `<a href="#${s.anchor}" class="toc-link">${s.title}</a>`
+                ).join('');
+        }
+    } catch (e) { tocContainer.innerHTML = ''; }
+}
+
+function renderEditionSelector(book, chap, current) {
     const container = document.getElementById('version-selector-container');
     const eds = [
         {id:'original', n:'🇺🇸 Original'},
-        {id:'starley', n:'⭐ Starley Edition'},
-        {id:'russian', n:'🇷🇺 Russian Edition'}
+        {id:'starley', n:'⭐ Starley Ed.'},
+        {id:'russian', n:'🇷🇺 Russian Ed.'}
     ];
     container.innerHTML = `<select class="edition-selector" onchange="updateUrl('${book}','${chap}',this.value)">
         ${eds.map(e => `<option value="${e.id}" ${e.id===current?'selected':''}>${e.n}</option>`).join('')}
     </select>`;
-
-    if(current === 'russian') enableTranslation();
 }
 
 function updateUrl(b, c, e) {
     window.location.href = `reader.html?book=${b}&chapter=${c}&edition=${e}`;
-}
-
-function enableTranslation() {
-    const s = document.createElement('script');
-    s.src = "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
-    document.body.appendChild(s);
-    window.googleTranslateElementInit = () => {
-        new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ru', autoDisplay: true}, 'google_translate_element');
-        setTimeout(() => {
-            const select = document.querySelector('.goog-te-combo');
-            if(select) { select.value = 'ru'; select.dispatchEvent(new Event('change')); }
-        }, 1000);
-    }
 }
