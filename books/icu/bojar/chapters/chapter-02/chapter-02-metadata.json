@@ -1,0 +1,440 @@
+{
+  "chapter_id": "chapter-02",
+  "chapter_number": 2,
+  "title": "",
+  "sections": [],
+  "figures": [
+    {
+      "id": "figure-1",
+      "number": "1",
+      "file": "images/_page_0_Picture_0.jpeg",
+      "caption": "Figure 1",
+      "alt": "Medical illustration 1",
+      "anchor": "figure-1",
+      "original_page": 0
+    },
+    {
+      "id": "figure-2",
+      "number": "2",
+      "file": "images/_page_2_Figure_0.jpeg",
+      "caption": "Figure 2",
+      "alt": "Medical illustration 2",
+      "anchor": "figure-2",
+      "original_page": 2
+    },
+    {
+      "id": "figure-3",
+      "number": "3",
+      "file": "images/_page_6_Figure_2.jpeg",
+      "caption": "Figure 3",
+      "alt": "Medical illustration 3",
+      "anchor": "figure-3",
+      "original_page": 6
+    },
+    {
+      "id": "figure-4",
+      "number": "4",
+      "file": "images/_page_8_Figure_1.jpeg",
+      "caption": "Figure 4",
+      "alt": "Medical illustration 4",
+      "anchor": "figure-4",
+      "original_page": 8
+    },
+    {
+      "id": "figure-5",
+      "number": "5",
+      "file": "images/_page_8_Figure_2.jpeg",
+      "caption": "Figure 5",
+      "alt": "Medical illustration 5",
+      "anchor": "figure-5",
+      "original_page": 8
+    },
+    {
+      "id": "figure-6",
+      "number": "6",
+      "file": "images/_page_14_Figure_0.jpeg",
+      "caption": "Figure 6",
+      "alt": "Medical illustration 6",
+      "anchor": "figure-6",
+      "original_page": 14
+    },
+    {
+      "id": "figure-7",
+      "number": "7",
+      "file": "images/_page_15_Figure_2.jpeg",
+      "caption": "** Direct measurement of the left atrial \"v\" wave during a MitraClip procedure indicating severe MR with a \"v\" wave up to 70 mm Hg.\r \r ![](_page_15_Figure_4.jpeg)",
+      "alt": "Medical illustration 7",
+      "anchor": "figure-7",
+      "original_page": 15
+    },
+    {
+      "id": "figure-8",
+      "number": "8",
+      "file": "images/_page_15_Figure_4.jpeg",
+      "caption": "Figure 8",
+      "alt": "Medical illustration 8",
+      "anchor": "figure-8",
+      "original_page": 15
+    },
+    {
+      "id": "figure-9",
+      "number": "9",
+      "file": "images/_page_16_Figure_1.jpeg",
+      "caption": "** Left ventriculogram. The ejection fraction (EF) is calculated by dividing the end‐diastolic volume (left) minus the end‐systolic volume (right) by the end‐diastolic volume.\r \r ![](_page_16_Picture_3.jpeg)",
+      "alt": "Medical illustration 9",
+      "anchor": "figure-9",
+      "original_page": 16
+    },
+    {
+      "id": "figure-10",
+      "number": "10",
+      "file": "images/_page_16_Picture_3.jpeg",
+      "caption": "** Left ventriculogram obtained at end‐systole, demonstrating severe MR into a dilated left atrium.\r \r ![](_page_17_Picture_0.jpeg)",
+      "alt": "Medical illustration 10",
+      "anchor": "figure-10",
+      "original_page": 16
+    },
+    {
+      "id": "figure-11",
+      "number": "11",
+      "file": "images/_page_17_Picture_0.jpeg",
+      "caption": "** A \"root shot\" with a pigtail catheter in the proximal aorta will demonstrate the size of the aorta and the degree of AR, which in this patient was severe.\r \r ![](_page_17_Figure_2.jpeg)",
+      "alt": "Medical illustration 11",
+      "anchor": "figure-11",
+      "original_page": 17
+    },
+    {
+      "id": "figure-12",
+      "number": "12",
+      "file": "images/_page_17_Figure_2.jpeg",
+      "caption": "Figure 12",
+      "alt": "Medical illustration 12",
+      "anchor": "figure-12",
+      "original_page": 17
+    },
+    {
+      "id": "figure-13",
+      "number": "13",
+      "file": "images/_page_18_Picture_4.jpeg",
+      "caption": "** Dense horseshoe-shaped mitral annular calcification seen by fluoroscopy in (A) the left anterior oblique (LAO) 30° and (B) the right anterior oblique (RAO) 30° cranial 30° projections during cardiac catheterization.\r \r ![](_page_18_Picture_6.jpeg)",
+      "alt": "Medical illustration 13",
+      "anchor": "figure-13",
+      "original_page": 18
+    },
+    {
+      "id": "figure-14",
+      "number": "14",
+      "file": "images/_page_18_Picture_6.jpeg",
+      "caption": "** Fluoroscopy of a patient with a St. Jude Medical valve in the mitral position. (A) At end‐systole, the leaflets are closed preventing MR. (D) During diastole, the leaflets barely open due to valve thrombosis, preventing filling of the left ventricle and leading to elevated left atrial pressures.\r \r #### VI. Coronary Angiography",
+      "alt": "Medical illustration 14",
+      "anchor": "figure-14",
+      "original_page": 18
+    },
+    {
+      "id": "figure-15",
+      "number": "15",
+      "file": "images/_page_19_Figure_4.jpeg",
+      "caption": "Figure 15",
+      "alt": "Medical illustration 15",
+      "anchor": "figure-15",
+      "original_page": 19
+    },
+    {
+      "id": "figure-16",
+      "number": "16",
+      "file": "images/_page_20_Figure_0.jpeg",
+      "caption": "** Right coronary angiograms in the (A) LAO and (B) RAO projections. The right coronary artery (RCA) divides at the crux into the posterior left ventricular (PLV) branch, best seen in the LAO view, and the posterior descending artery (PDA), best seen in the RAO projection.\r \r ![](_page_20_Figure_2.jpeg)",
+      "alt": "Medical illustration 16",
+      "anchor": "figure-16",
+      "original_page": 20
+    },
+    {
+      "id": "figure-17",
+      "number": "17",
+      "file": "images/_page_20_Figure_2.jpeg",
+      "caption": "Figure 17",
+      "alt": "Medical illustration 17",
+      "anchor": "figure-17",
+      "original_page": 20
+    },
+    {
+      "id": "figure-18",
+      "number": "18",
+      "file": "images/_page_21_Picture_10.jpeg",
+      "caption": "** Selective coronary angiogram of the left internal thoracic artery (ITA) in the anteroposterior (AP) projection. The pedicle has been pushed medially by the lung and extends to the midline, risking damage during a midline redo sternotomy.\r \r ![](_page_22_Picture_1.jpeg)",
+      "alt": "Medical illustration 18",
+      "anchor": "figure-18",
+      "original_page": 21
+    },
+    {
+      "id": "figure-19",
+      "number": "19",
+      "file": "images/_page_22_Picture_1.jpeg",
+      "caption": "Figure 19",
+      "alt": "Medical illustration 19",
+      "anchor": "figure-19",
+      "original_page": 22
+    },
+    {
+      "id": "figure-20",
+      "number": "20",
+      "file": "images/_page_23_Picture_2.jpeg",
+      "caption": "Figure 20",
+      "alt": "Medical illustration 20",
+      "anchor": "figure-20",
+      "original_page": 23
+    },
+    {
+      "id": "figure-21",
+      "number": "21",
+      "file": "images/_page_25_Figure_0.jpeg",
+      "caption": "** Transthoracic echocardiogram with continuous wave Doppler to determine the severity of AS. This patient has severe AS with a peak velocity of 4 m/s and a mean gradient of 40 mm Hg.\r \r ![](_page_25_Figure_2.jpeg)",
+      "alt": "Medical illustration 21",
+      "anchor": "figure-21",
+      "original_page": 25
+    },
+    {
+      "id": "figure-22",
+      "number": "22",
+      "file": "images/_page_25_Figure_2.jpeg",
+      "caption": "** (A) Transthoracic echocardiogram of a patient with severe MS showing very thickened leaflets with limited opening during diastole. (B) Continuous wave Doppler showing a mean mitral gradient of 19 mm Hg.\r \r ![](_page_26_Figure_0.jpeg)",
+      "alt": "Medical illustration 22",
+      "anchor": "figure-22",
+      "original_page": 25
+    },
+    {
+      "id": "figure-23",
+      "number": "23",
+      "file": "images/_page_26_Figure_0.jpeg",
+      "caption": "** Transesophageal echocardiograms of mitral valve pathology. (A) Papillary muscle rupture producing acute MR. Note the flail anterior leaflet with the attached papillary muscle head. (B) 3D image of the head of the papillary muscle attached to the anterior mitral leaflet.\r \r ![](_page_26_Figure_2.jpeg)",
+      "alt": "Medical illustration 23",
+      "anchor": "figure-23",
+      "original_page": 26
+    },
+    {
+      "id": "figure-24",
+      "number": "24",
+      "file": "images/_page_26_Figure_2.jpeg",
+      "caption": "** Degenerative MR with torn chordae. (A) Flail anterior leaflet from ruptured chordae with calcified chords. (B) Color flow Doppler showing a posteriorly directed jet with 4+ MR (a bright mosaic yellow/green jet on the color image). (C) 3D image of A2 prolapse.\r \r ![](_page_27_Figure_2.jpeg)\r \r ![](_page_27_Figure_3.jpeg)",
+      "alt": "Medical illustration 24",
+      "anchor": "figure-24",
+      "original_page": 26
+    },
+    {
+      "id": "figure-25",
+      "number": "25",
+      "file": "images/_page_27_Figure_2.jpeg",
+      "caption": "Figure 25",
+      "alt": "Medical illustration 25",
+      "anchor": "figure-25",
+      "original_page": 27
+    },
+    {
+      "id": "figure-26",
+      "number": "26",
+      "file": "images/_page_27_Figure_3.jpeg",
+      "caption": "Figure 26",
+      "alt": "Medical illustration 26",
+      "anchor": "figure-26",
+      "original_page": 27
+    },
+    {
+      "id": "figure-27",
+      "number": "27",
+      "file": "images/_page_28_Figure_2.jpeg",
+      "caption": "Figure 27",
+      "alt": "Medical illustration 27",
+      "anchor": "figure-27",
+      "original_page": 28
+    },
+    {
+      "id": "figure-28",
+      "number": "28",
+      "file": "images/_page_29_Figure_0.jpeg",
+      "caption": "** Echocardiograms of patients with endocarditis. (A) TEE showing a vegetation on the anterior mitral valve leaflet. (B) TEE showing a vegetation on the aortic valve seen in the long‐axis view. (C) Transthoracic echocardiogram showing a tricuspid valve vegetation in an IV drug abuser.\r \r ![](_page_30_Figure_0.jpeg)",
+      "alt": "Medical illustration 28",
+      "anchor": "figure-28",
+      "original_page": 29
+    },
+    {
+      "id": "figure-29",
+      "number": "29",
+      "file": "images/_page_29_Picture_1.jpeg",
+      "caption": "** Echocardiograms of patients with endocarditis. (A) TEE showing a vegetation on the anterior mitral valve leaflet. (B) TEE showing a vegetation on the aortic valve seen in the long‐axis view. (C) Transthoracic echocardiogram showing a tricuspid valve vegetation in an IV drug abuser.\r \r ![](_page_30_Figure_0.jpeg)",
+      "alt": "Medical illustration 29",
+      "anchor": "figure-29",
+      "original_page": 29
+    },
+    {
+      "id": "figure-30",
+      "number": "30",
+      "file": "images/_page_29_Picture_2.jpeg",
+      "caption": "** Echocardiograms of patients with endocarditis. (A) TEE showing a vegetation on the anterior mitral valve leaflet. (B) TEE showing a vegetation on the aortic valve seen in the long‐axis view. (C) Transthoracic echocardiogram showing a tricuspid valve vegetation in an IV drug abuser.\r \r ![](_page_30_Figure_0.jpeg)",
+      "alt": "Medical illustration 30",
+      "anchor": "figure-30",
+      "original_page": 29
+    },
+    {
+      "id": "figure-31",
+      "number": "31",
+      "file": "images/_page_30_Figure_0.jpeg",
+      "caption": "** (A) Transesophageal echocardiogram showing severe central AR from endocarditis. (B) The 3D short‐axis view shows a hole in one of the leaflets. (C) Photograph of the resected aortic leaflet.\r \r ![](_page_30_Figure_2.jpeg)",
+      "alt": "Medical illustration 31",
+      "anchor": "figure-31",
+      "original_page": 30
+    },
+    {
+      "id": "figure-32",
+      "number": "32",
+      "file": "images/_page_30_Figure_2.jpeg",
+      "caption": "** Transesophageal echocardiogram of the ascending aorta in a type A aortic dissection. Note the intimal flap separating the true and false lumens which was very mobile with each systolic contraction.\r \r ![](_page_31_Figure_0.jpeg)",
+      "alt": "Medical illustration 32",
+      "anchor": "figure-32",
+      "original_page": 30
+    },
+    {
+      "id": "figure-33",
+      "number": "33",
+      "file": "images/_page_31_Figure_0.jpeg",
+      "caption": "** (A) Transesophageal echocardiogram of a large left atrial myxoma attached to the superior aspect of the atrial septum. Before the TEE was performed, both a CT scan (B) and an MRI scan (C) demonstrated the mass. (D) A photograph of the resected myxoma.\r \r ![](_page_31_Picture_2.jpeg)",
+      "alt": "Medical illustration 33",
+      "anchor": "figure-33",
+      "original_page": 31
+    },
+    {
+      "id": "figure-34",
+      "number": "34",
+      "file": "images/_page_31_Picture_2.jpeg",
+      "caption": "Figure 34",
+      "alt": "Medical illustration 34",
+      "anchor": "figure-34",
+      "original_page": 31
+    },
+    {
+      "id": "figure-35",
+      "number": "35",
+      "file": "images/_page_34_Figure_1.jpeg",
+      "caption": "Figure 35",
+      "alt": "Medical illustration 35",
+      "anchor": "figure-35",
+      "original_page": 34
+    },
+    {
+      "id": "figure-36",
+      "number": "36",
+      "file": "images/_page_35_Picture_5.jpeg",
+      "caption": "Figure 36",
+      "alt": "Medical illustration 36",
+      "anchor": "figure-36",
+      "original_page": 35
+    },
+    {
+      "id": "figure-37",
+      "number": "37",
+      "file": "images/_page_37_Figure_2.jpeg",
+      "caption": "Figure 37",
+      "alt": "Medical illustration 37",
+      "anchor": "figure-37",
+      "original_page": 37
+    },
+    {
+      "id": "figure-38",
+      "number": "38",
+      "file": "images/_page_38_Picture_2.jpeg",
+      "caption": "** CT scan with contrast of a type B dissection which starts just distal to the left subclavian artery without any involvement of the ascending aorta. Note the intimal flap separating the true and false lumens. AAo, ascending aorta; DAo, descending aorta; PA, pulmonary artery.\r \r ![](_page_38_Picture_4.jpeg)",
+      "alt": "Medical illustration 38",
+      "anchor": "figure-38",
+      "original_page": 38
+    },
+    {
+      "id": "figure-39",
+      "number": "39",
+      "file": "images/_page_38_Picture_4.jpeg",
+      "caption": "** Volume‐rendered image of a type A aortic dissection shown in (A) coronal and (B) sagittal cuts.\r \r ![](_page_39_Figure_2.jpeg)",
+      "alt": "Medical illustration 39",
+      "anchor": "figure-39",
+      "original_page": 38
+    },
+    {
+      "id": "figure-40",
+      "number": "40",
+      "file": "images/_page_39_Figure_2.jpeg",
+      "caption": "Figure 40",
+      "alt": "Medical illustration 40",
+      "anchor": "figure-40",
+      "original_page": 39
+    },
+    {
+      "id": "figure-41",
+      "number": "41",
+      "file": "images/_page_40_Figure_2.jpeg",
+      "caption": "** (A) CT scan of ascending and descending thoracic aneurysms. (B) The coronal cut demonstrates the large descending thoracic aneurysm (no contrast present). (C) An endovascular stent has been placed to repair the aneurysm.\r \r ![](_page_41_Picture_2.jpeg)",
+      "alt": "Medical illustration 41",
+      "anchor": "figure-41",
+      "original_page": 40
+    },
+    {
+      "id": "figure-42",
+      "number": "42",
+      "file": "images/_page_40_Figure_3.jpeg",
+      "caption": "** (A) CT scan of ascending and descending thoracic aneurysms. (B) The coronal cut demonstrates the large descending thoracic aneurysm (no contrast present). (C) An endovascular stent has been placed to repair the aneurysm.\r \r ![](_page_41_Picture_2.jpeg)",
+      "alt": "Medical illustration 42",
+      "anchor": "figure-42",
+      "original_page": 40
+    },
+    {
+      "id": "figure-43",
+      "number": "43",
+      "file": "images/_page_41_Picture_2.jpeg",
+      "caption": "** (A) 3Mensio analysis (Pie Medical Imaging BV, the Netherlands) of a CT scan demonstrating moderate tortuosity of the iliofemoral vessels. (B) In the absence of calcification, the iliofemoral system can usually be straightened out nicely with a Super Stiff or Lunderquist wire, allowing for placement of the Edwards E‐sheath (arrow).\r \r ![](_page_41_Figure_4.jpeg)",
+      "alt": "Medical illustration 43",
+      "anchor": "figure-43",
+      "original_page": 41
+    },
+    {
+      "id": "figure-44",
+      "number": "44",
+      "file": "images/_page_41_Figure_4.jpeg",
+      "caption": "Figure 44",
+      "alt": "Medical illustration 44",
+      "anchor": "figure-44",
+      "original_page": 41
+    },
+    {
+      "id": "figure-45",
+      "number": "45",
+      "file": "images/_page_42_Picture_7.jpeg",
+      "caption": "Figure 45",
+      "alt": "Medical illustration 45",
+      "anchor": "figure-45",
+      "original_page": 42
+    },
+    {
+      "id": "figure-46",
+      "number": "46",
+      "file": "images/_page_43_Figure_5.jpeg",
+      "caption": "** The various patterns of late gadolinium enhancement (LGE) seen with different types of cardiomyopathies. Typical patterns include transmural, subendocardial (regional and global), epicardial, and midwall LGE. These may differentiate between ischemic (subendocardial and transmural) and nonischemic cardiomyopathies, HOCM, myocarditis, sarcoidosis, and amyloidosis. (Image courtesy of Silva Marques et al., *Heart* 2015;101:565–72.)\r \r ![](_page_44_Picture_2.jpeg)",
+      "alt": "Medical illustration 46",
+      "anchor": "figure-46",
+      "original_page": 43
+    },
+    {
+      "id": "figure-47",
+      "number": "47",
+      "file": "images/_page_44_Picture_2.jpeg",
+      "caption": "Figure 47",
+      "alt": "Medical illustration 47",
+      "anchor": "figure-47",
+      "original_page": 44
+    }
+  ],
+  "tables": [
+    {
+      "id": "table-2-1",
+      "number": "2.1",
+      "title": "Information Obtained from Right‐ and Left‐Heart Catheterization",
+      "anchor": "table-2-1"
+    }
+  ],
+  "key_terms": []
+}
