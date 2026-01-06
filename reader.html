@@ -1,55 +1,55 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Читалка | Starley Medical Library</title>
+    <title>Reader | Starley Library</title>
     <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/reader.css">
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <header>
         <div class="header-content">
-            <a href="index.html" class="back-button">← В библиотеку</a>
-            <h1 id="book-title">Загрузка книги...</h1>
-            <button id="toc-toggle" class="icon-button">📑 Оглавление</button>
+            <nav>
+                <a href="index.html">Библиотека</a>
+                <a href="editor.html">Редактор</a>
+                <a href="mdconvert.html">Конвертер</a>
+            </nav>
+            <div id="edition-controls">
+                </div>
+            <button id="toc-toggle">☰ Оглавление</button>
         </div>
     </header>
 
     <div class="reader-container">
-        <aside id="sidebar" class="sidebar">
-            <div class="sidebar-header">
-                <h3>Содержание главы</h3>
-                <button id="sidebar-close" class="icon-button">✕</button>
+        <aside id="reader-sidebar" class="sidebar">
+            <h2 id="book-title">Загрузка книги...</h2>
+            <div id="chapter-list">
+                <p>Загрузка глав...</p>
             </div>
-            <nav id="chapter-list" class="chapter-list">
-                <div class="loading">Загрузка навигации...</div>
-            </nav>
         </aside>
 
-        <main class="reader-main">
-            <article id="content-area" class="content">
-                <div class="loading">Загрузка текста...</div>
-            </article>
-
-            <div class="chapter-navigation">
-                <button id="prev-chapter" class="nav-button" style="display:none;">
-                    ← Предыдущая глава
-                </button>
-                <div class="nav-spacer"></div>
-                <button id="next-chapter" class="nav-button" style="display:none;">
-                    Следующая глава →
-                </button>
+        <main class="content-wrapper">
+            <div id="content-area" class="content">
+                <p>Загрузка содержимого главы...</p>
             </div>
         </main>
     </div>
 
+    <footer>
+        <p>Starley Library | 2026</p>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <script src="assets/js/reader.js"></script>
+    
+    <script src="assets/js/navigation.js"></script>
 
-<script src="assets/js/reader.js"></script>
-
-<script src="assets/js/navigation.js"></script>
-
+    <script>
+        // Обработка кнопки оглавления для мобильных устройств
+        document.getElementById('toc-toggle').addEventListener('click', function() {
+            document.getElementById('reader-sidebar').classList.toggle('active');
+        });
+    </script>
 </body>
 </html>
