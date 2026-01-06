@@ -1,25 +1,42 @@
 async function loadChapter(bookPath, chapterId, edition) {
     const area = document.getElementById('content-area');
+    area.innerHTML = '<p class="loading">Loading content...</p>';
+
     try {
-        let suffix = edition === 'starley' ? '-starley' : '';
-        // Russian Edition тоже грузит оригинал, перевод делает Google поверх HTML
+        // Определяем суффикс файла
+        let suffix = '';
+        if (edition === 'starley') suffix = '-starley';
+        if (edition === 'russian') suffix = '-ru';
+
         const url = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/${chapterId}${suffix}.md`;
         
         const res = await fetch(url);
-        if(!res.ok) throw new Error("Файл не найден");
+        
+        // Если файла перевода нет, загружаем оригинал
+        if (!res.ok && suffix === '-ru') {
+            console.warn("Russian version not found, loading original...");
+            return loadChapter(bookPath, chapterId, 'original');
+        }
+
         let md = await res.text();
 
-        // Применяем медицинские стили (Regex)
+        // Парсинг кастомных стилей
         md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         
         area.innerHTML = marked.parse(md);
 
-        // Исправляем картинки (теперь ищем в папке /images главы)
-        document.querySelectorAll('#content-area img').forEach(img => {
-            const src = img.getAttribute('src');
-            img.src = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/images/${src}`;
+        // Исправление путей картинок (ищем в папке /images текущей главы)
+        area.querySelectorAll('img').forEach(img => {
+            const rawSrc = img.getAttribute('src');
+            if (!rawSrc.startsWith('http')) {
+                const fileName = rawSrc.split('/').pop();
+                img.src = `${GITHUB_RAW}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+            }
             img.classList.add('med-img');
         });
 
-    } catch (e) { area.innerHTML = `Error: ${e.message}`; }
+        window.scrollTo(0, 0);
+    } catch (e) {
+        area.innerHTML = `<div class="error-box">Error loading chapter: ${e.message}</div>`;
+    }
 }
