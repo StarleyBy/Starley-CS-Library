@@ -1,55 +1,70 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
     <title>Reader | Starley Library</title>
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
     <header>
-        <div class="header-content">
-            <nav>
-                <a href="index.html">Library</a>
-                <a href="editor.html">Editor</a>
-                <a href="mdconvert.html">MD convert</a>
-            </nav>
+        <div class="header-content" style="display: flex; align-items: center; justify-content: space-between; padding: 0 15px;">
+            <div class="nav-links">
+                <a href="index.html" style="margin-right: 10px;">🏠</a>
+                <nav style="display: inline-block;">
+                    <a href="editor.html">Editor</a>
+                    <a href="mdconvert.html">Convert</a>
+                </nav>
+            </div>
             
-            <div id="version-selector-container" style="margin-left: auto; margin-right: 15px;">
-                </div>
+            <div id="version-selector-container"></div>
 
-            <button id="toc-toggle">☰ Оглавление</button>
+            <button id="toc-toggle" style="background: none; border: 1px solid #ccc; padding: 5px 10px; border-radius: 4px; cursor: pointer;">
+                ☰ <span class="desktop-only">Меню</span>
+            </button>
         </div>
     </header>
 
-    <div class="reader-layout" style="display: flex;">
+    <div class="reader-layout">
         <aside id="reader-sidebar" class="sidebar">
-            <h2 id="book-title">Загрузка...</h2>
-            <div id="chapter-list">
-                <p>Поиск глав...</p>
-            </div>
+            <h2 id="book-title" style="font-size: 1.2rem; padding: 10px;">Загрузка...</h2>
+            <div id="chapter-list"></div>
         </aside>
 
-        <main class="content-wrapper" style="flex: 1; padding: 20px;">
+        <main class="content-wrapper">
             <div id="content-area" class="content">
                 <p>Загрузка текста...</p>
             </div>
         </main>
     </div>
 
-    <footer>
-        <p>Starley Library | 2026</p>
-    </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="assets/js/reader.js"></script>
     <script src="assets/js/navigation.js"></script>
 
     <script>
-        // Открытие/закрытие сайдбара
-        document.getElementById('toc-toggle').onclick = function() {
-            document.getElementById('reader-sidebar').classList.toggle('active');
-        }
+        // Скрипт для работы кнопки меню на мобилках
+        const btn = document.getElementById('toc-toggle');
+        const sidebar = document.getElementById('reader-sidebar');
+        
+        btn.onclick = (e) => {
+            e.stopPropagation();
+            sidebar.classList.toggle('active');
+        };
+
+        // Закрывать меню при клике на главу (на мобилках)
+        document.getElementById('chapter-list').onclick = () => {
+            if (window.innerWidth <= 768) {
+                sidebar.classList.remove('active');
+            }
+        };
+
+        // Закрывать меню при клике вне его
+        document.onclick = (e) => {
+            if (!sidebar.contains(e.target) && e.target !== btn) {
+                sidebar.classList.remove('active');
+            }
+        };
     </script>
 </body>
 </html>
