@@ -1,4 +1,3 @@
-const GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/StarleyBy/Starley-CS-Library/main/';
 const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
 
@@ -9,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initExporter();
 });
 
-// 1. Инициализация палитр
+// 1. Initialize color palettes
 function initColorPalettes() {
     const ovalGrid = document.getElementById('oval-colors');
     const markerGrid = document.getElementById('marker-colors');
@@ -29,44 +28,53 @@ function initColorPalettes() {
     });
 }
 
-// 2. Загрузка файлов
+// 2. Load files
 async function initLoader() {
-    const bSel = document.getElementById('select-book');
-    const cSel = document.getElementById('select-chapter');
+    const bookSelect = document.getElementById('select-book');
+    const chapterSelect = document.getElementById('select-chapter');
     
     try {
-        const res = await fetch(GITHUB_RAW_BASE + 'library.json');
+        const res = await fetch(`${BASE_URL}library.json`);
         const data = await res.json();
         
-        data.categories.forEach(cat => {
-            cat.books.forEach(book => {
-                const opt = new Option(`${cat.title}: ${book.title}`, `${cat.path}/${book.folder}`);
-                bSel.add(opt);
-            });
-        });
-
-        bSel.onchange = () => {
-            cSel.disabled = false;
-            cSel.innerHTML = '<option value="">Выберите главу...</option>';
-            for(let i=1; i<=20; i++) {
-                const id = `chapter-${i.toString().padStart(2, '0')}`;
-                cSel.add(new Option(`Глава ${i}`, id));
+        for (const cat of data.categories) {
+            for (const book of cat.books) {
+                const bookPath = `${cat.path}/${book.folder}`;
+                const metaResponse = await fetch(`${BASE_URL}${bookPath}/metadata.json`);
+                if (metaResponse.ok) {
+                    const bookMeta = await metaResponse.json();
+                    const opt = new Option(`${cat.title}: ${bookMeta.title}`, bookPath);
+                    opt.dataset.chapters = JSON.stringify(bookMeta.chapters);
+                    bookSelect.add(opt);
+                }
             }
+        }
+
+        bookSelect.onchange = () => {
+            chapterSelect.disabled = false;
+            chapterSelect.innerHTML = '<option value="">Select a chapter...</option>';
+            const selectedOption = bookSelect.options[bookSelect.selectedIndex];
+            const chapters = JSON.parse(selectedOption.dataset.chapters || '[]');
+            
+            chapters.forEach(ch => {
+                const chapterId = ch.file.replace('.md', '');
+                chapterSelect.add(new Option(ch.title, chapterId));
+            });
         };
 
         document.getElementById('btn-load-cloud').onclick = async () => {
-            if(!bSel.value || !cSel.value) return alert("Выберите книгу и главу");
-            const url = `${GITHUB_RAW_BASE}${bSel.value}/chapters/${cSel.value}/${cSel.value}.md`;
+            if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
+            const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
             const res = await fetch(url);
             if(res.ok) {
                 document.getElementById('markdown-input').value = await res.text();
                 updatePreview();
-            } else alert("Файл не найден");
+            } else alert("File not found");
         };
     } catch (e) { console.error(e); }
 }
 
-// 3. Применение стилей
+// 3. Apply styles
 function applyStyle(type, className) {
     const area = document.getElementById('markdown-input');
     const sel = area.value.substring(area.selectionStart, area.selectionEnd);
@@ -84,24 +92,26 @@ function applyStyle(type, className) {
 function wrapInBlock(type) {
     const area = document.getElementById('markdown-input');
     const sel = area.value.substring(area.selectionStart, area.selectionEnd);
-    const res = `\n<div class="med-note ${type}">\n${sel || 'Текст блока'}\n</div>\n`;
+    const res = `\n<div class="med-note ${type}">\n${sel || 'Block text'}\n</div>\n`;
     area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
     updatePreview();
 }
 
 function addDetails() {
     const area = document.getElementById('markdown-input');
-    const title = prompt("Заголовок скрытого блока:", "Классификация / Подробнее");
+    const title = prompt("Title for the hidden block:", "Classification / Details");
+    if (!title) return;
     const sel = area.value.substring(area.selectionStart, area.selectionEnd);
     const res = `\n<details class="med-details">\n<summary>${title}</summary>\n<div class="details-content">\n${sel}\n</div>\n</details>\n`;
     area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
     updatePreview();
 }
 
-// 4. Превью и Экспорт
+// 4. Preview and Export
 function initPreview() {
     const input = document.getElementById('markdown-input');
     input.addEventListener('input', updatePreview);
+    updatePreview(); // Initial preview
 }
 
 function updatePreview() {

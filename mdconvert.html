@@ -1,295 +1,66 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MD to Metadata Converter</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 2rem;
-        }
-
         .container {
             max-width: 900px;
-            margin: 0 auto;
+            margin: 2rem auto;
             background: white;
             border-radius: 16px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.1);
             overflow: hidden;
-        }
-
-        .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 2rem;
-            text-align: center;
-        }
-
-        .header h1 {
-            font-size: 2rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .header p {
-            opacity: 0.9;
-            font-size: 1.1rem;
         }
 
         .content {
             padding: 2rem;
         }
-
-        .upload-zone {
-            border: 3px dashed #667eea;
-            border-radius: 12px;
-            padding: 3rem 2rem;
-            text-align: center;
-            transition: all 0.3s;
-            cursor: pointer;
-            background: #f8f9ff;
-        }
-
-        .upload-zone:hover {
-            border-color: #764ba2;
-            background: #f0f2ff;
-            transform: scale(1.02);
-        }
-
-        .upload-zone.dragover {
-            background: #e8ebff;
-            border-color: #764ba2;
-        }
-
-        .upload-icon {
-            font-size: 4rem;
-            margin-bottom: 1rem;
-        }
-
-        .upload-zone input[type="file"] {
-            display: none;
-        }
-
-        .settings {
-            margin-top: 2rem;
-            padding: 1.5rem;
-            background: #f8f9fa;
-            border-radius: 12px;
-        }
-
-        .form-group {
-            margin-bottom: 1.5rem;
-        }
-
-        .form-group label {
-            display: block;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-            color: #333;
-        }
-
-        .form-group input {
-            width: 100%;
-            padding: 0.75rem;
-            border: 2px solid #dee2e6;
-            border-radius: 8px;
-            font-size: 1rem;
-            transition: border-color 0.3s;
-        }
-
-        .form-group input:focus {
-            outline: none;
-            border-color: #667eea;
-        }
-
-        .buttons {
-            display: flex;
-            gap: 1rem;
-            margin-top: 2rem;
-        }
-
-        button {
-            flex: 1;
-            padding: 1rem 2rem;
-            font-size: 1.1rem;
-            font-weight: 600;
-            border: none;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .btn-primary {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-        }
-
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
-        }
-
-        .btn-primary:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            transform: none;
-        }
-
-        .btn-secondary {
-            background: #6c757d;
-            color: white;
-        }
-
-        .btn-secondary:hover {
-            background: #5a6268;
-        }
-
-        .preview {
-            margin-top: 2rem;
-            padding: 1.5rem;
-            background: #f8f9fa;
-            border-radius: 12px;
-            display: none;
-        }
-
-        .preview.active {
-            display: block;
-        }
-
-        .preview h3 {
-            margin-bottom: 1rem;
-            color: #667eea;
-        }
-
-        .preview-content {
-            background: #2d2d2d;
-            color: #f8f8f2;
-            padding: 1.5rem;
-            border-radius: 8px;
-            max-height: 400px;
-            overflow-y: auto;
-            font-family: 'Courier New', monospace;
-            font-size: 0.9rem;
-            line-height: 1.6;
-        }
-
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 1rem;
-            margin-top: 1.5rem;
-        }
-
-        .stat-card {
-            background: white;
-            padding: 1rem;
-            border-radius: 8px;
-            text-align: center;
-            border: 2px solid #e9ecef;
-        }
-
-        .stat-number {
-            font-size: 2rem;
-            font-weight: 700;
-            color: #667eea;
-        }
-
-        .stat-label {
-            color: #6c757d;
-            font-size: 0.9rem;
-            margin-top: 0.5rem;
-        }
-
-        .alert {
-            padding: 1rem;
-            border-radius: 8px;
-            margin-top: 1rem;
-            display: none;
-        }
-
-        .alert.success {
-            background: #d4edda;
-            color: #155724;
-            border: 1px solid #c3e6cb;
-        }
-
-        .alert.error {
-            background: #f8d7da;
-            color: #721c24;
-            border: 1px solid #f5c6cb;
-        }
-
-        .alert.active {
-            display: block;
-        }
-
-        .processing {
-            display: none;
-            text-align: center;
-            padding: 2rem;
-        }
-
-        .processing.active {
-            display: block;
-        }
-
-        .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #667eea;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 1rem;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
     </style>
 </head>
 <body>
+    <header>
+        <h1>📚 Medical library</h1>
+        <nav>
+            <a href="index.html">Library</a>
+            <a href="editor.html">Editor</a>
+            <a href="mdconvert.html">MD convert</a>
+        </nav>
+    </header>
     <div class="container">
-        <div class="header">
-            <h1>📚 MD to Metadata Converter</h1>
-            <p>Преобразуйте Markdown главу в metadata.json</p>
+        <div class="header" style="background: #667eea;">
+            <h1>MD to Metadata Converter</h1>
+            <p>Convert a Markdown chapter into metadata.json</p>
         </div>
 
         <div class="content">
             <!-- Upload Zone -->
             <div class="upload-zone" id="uploadZone">
                 <div class="upload-icon">📄</div>
-                <h3>Перетащите MD файл сюда</h3>
-                <p>или кликните для выбора файла</p>
+                <h3>Drag & Drop MD file here</h3>
+                <p>or click to select a file</p>
                 <input type="file" id="fileInput" accept=".md,.markdown">
             </div>
 
             <!-- Settings -->
             <div class="settings">
                 <div class="form-group">
-                    <label for="chapterNumber">Номер главы:</label>
+                    <label for="chapterNumber">Chapter Number:</label>
                     <input type="number" id="chapterNumber" value="1" min="1" max="20">
                 </div>
 
                 <div class="form-group">
-                    <label for="chapterTitle">Название главы (опционально):</label>
-                    <input type="text" id="chapterTitle" placeholder="Будет извлечено автоматически из MD">
+                    <label for="chapterTitle">Chapter Title (optional):</label>
+                    <input type="text" id="chapterTitle" placeholder="Will be extracted automatically from MD">
                 </div>
             </div>
 
             <!-- Processing Indicator -->
             <div class="processing" id="processing">
                 <div class="spinner"></div>
-                <p>Обработка файла...</p>
+                <p>Processing file...</p>
             </div>
 
             <!-- Alert -->
@@ -298,19 +69,19 @@
             <!-- Buttons -->
             <div class="buttons">
                 <button class="btn-primary" id="convertBtn" disabled>
-                    🔄 Конвертировать
+                    🔄 Convert
                 </button>
                 <button class="btn-secondary" id="downloadBtn" disabled>
-                    💾 Скачать JSON
+                    💾 Download JSON
                 </button>
             </div>
 
             <!-- Preview -->
             <div class="preview" id="preview">
-                <h3>📊 Статистика:</h3>
+                <h3>📊 Statistics:</h3>
                 <div class="stats" id="stats"></div>
                 
-                <h3 style="margin-top: 2rem;">👁️ Предпросмотр metadata.json:</h3>
+                <h3 style="margin-top: 2rem;">👁️ Preview metadata.json:</h3>
                 <div class="preview-content" id="previewContent"></div>
             </div>
         </div>
@@ -365,14 +136,14 @@
         // Handle file
         function handleFile(file) {
             if (!file.name.endsWith('.md') && !file.name.endsWith('.markdown')) {
-                showAlert('Пожалуйста, выберите MD файл', 'error');
+                showAlert('Please select a .md file', 'error');
                 return;
             }
 
             currentFile = file;
             uploadZone.querySelector('h3').textContent = `✅ ${file.name}`;
             convertBtn.disabled = false;
-            showAlert(`Файл загружен: ${file.name}`, 'success');
+            showAlert(`File loaded: ${file.name}`, 'success');
         }
 
         // Convert button
@@ -391,10 +162,10 @@
                 downloadBtn.disabled = false;
                 
                 processing.classList.remove('active');
-                showAlert('✅ Конвертация завершена успешно!', 'success');
+                showAlert('✅ Conversion completed successfully!', 'success');
             } catch (error) {
                 processing.classList.remove('active');
-                showAlert('❌ Ошибка: ' + error.message, 'error');
+                showAlert('❌ Error: ' + error.message, 'error');
                 console.error(error);
             }
         });
@@ -408,11 +179,11 @@
             const url = URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = `chapter-${chapterNumber.value.padStart(2, '0')}-metadata.json`;
+            a.download = `chapter-${String(chapterNumber.value).padStart(2, '0')}-metadata.json`;
             a.click();
             URL.revokeObjectURL(url);
 
-            showAlert('📥 Файл скачан!', 'success');
+            showAlert('📥 File downloaded!', 'success');
         });
 
         // Extract metadata from markdown
@@ -432,7 +203,7 @@
             }
 
             const metadata = {
-                chapter_id: `chapter-${chapNum.toString().padStart(2, '0')}`,
+                chapter_id: `chapter-${String(chapNum).padStart(2, '0')}`,
                 chapter_number: chapNum,
                 title: title,
                 sections: extractSections(content),
@@ -514,7 +285,7 @@
 
                 const figure = {
                     id: figureId,
-                    number: figureNumber.toString(),
+                    number: String(figureNumber),
                     file: `images/${imagePath.split('/').pop()}`,
                     caption: caption,
                     alt: altText || `Medical illustration ${figureNumber}`,
@@ -586,19 +357,19 @@
             stats.innerHTML = `
                 <div class="stat-card">
                     <div class="stat-number">${metadata.sections.length}</div>
-                    <div class="stat-label">Разделов</div>
+                    <div class="stat-label">Sections</div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-number">${metadata.figures.length}</div>
-                    <div class="stat-label">Рисунков</div>
+                    <div class="stat-label">Figures</div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-number">${metadata.tables.length}</div>
-                    <div class="stat-label">Таблиц</div>
+                    <div class="stat-label">Tables</div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-number">${metadata.key_terms.length}</div>
-                    <div class="stat-label">Терминов</div>
+                    <div class="stat-label">Key Terms</div>
                 </div>
             `;
 
