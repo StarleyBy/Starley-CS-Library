@@ -76,6 +76,7 @@
     border-radius: 5px;
     border: 1px solid var(--border-color);
     font-weight: 500;
+    color: var(--text-color);
 }
 
 .custom-select-header .fa-chevron-down {
@@ -153,18 +154,11 @@
     width: 100%;
 }
 
-.content-wrapper.focus-mode .reader-header,
-.content-wrapper.focus-mode .sidebar {
+/* Focus mode styles */
+body.focus-mode .reader-header {
     display: none;
 }
 
-.content-wrapper.focus-mode {
-    padding-top: 0;
-}
-
-
-/* Focus mode styles */
-body.focus-mode .reader-header,
 body.focus-mode .sidebar {
     display: none;
 }
@@ -178,6 +172,20 @@ body.focus-mode #main-content {
 body.focus-mode {
     padding-top: 0;
 }
+
+#focus-toggle {
+    position: relative;
+}
+
+body.focus-mode #focus-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1100;
+    background: rgba(255,255,255,0.8);
+    backdrop-filter: blur(5px);
+}
+
 
 #focus-toggle .fa-compress {
     display: none;
