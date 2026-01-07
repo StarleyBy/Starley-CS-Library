@@ -67,19 +67,52 @@ async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
 
 function renderEditionSelector(book, chap, current) {
     const container = document.getElementById('version-selector-container');
-    const eds = [
-        {id:'original', n:'🇺🇸 Original'},
-        {id:'starley', n:'⭐ Starley Ed.'},
-        {id:'russian', n:'🇷🇺 Russian Ed.'}
+    container.innerHTML = ''; // Clear previous content
+
+    const editions = [
+        { id: 'original', n: '🇺🇸 Original' },
+        { id: 'starley', n: '⭐ Starley Ed.' },
+        { id: 'russian', n: '🇷🇺 Russian Ed.' }
     ];
-    const select = document.createElement('select');
-    select.className = 'edition-selector';
-    select.innerHTML = `${eds.map(e => `<option value="${e.id}" ${e.id===current?'selected':''}>${e.n}</option>`).join('')}`;
-    select.addEventListener('change', (e) => {
-        updateUrl(book, chap, e.target.value);
+
+    const customSelect = document.createElement('div');
+    customSelect.className = 'custom-select-wrapper';
+
+    const selectHeader = document.createElement('div');
+    selectHeader.className = 'custom-select-header';
+    const currentEdition = editions.find(e => e.id === current) || editions[0];
+    selectHeader.innerHTML = `<span>${currentEdition.n}</span><i class="fas fa-chevron-down"></i>`;
+
+    const optionsList = document.createElement('div');
+    optionsList.className = 'custom-select-options';
+
+    editions.forEach(edition => {
+        const option = document.createElement('div');
+        option.className = 'custom-select-option';
+        option.dataset.value = edition.id;
+        option.innerHTML = `<span>${edition.n}</span>`;
+        if (edition.id === current) {
+            option.classList.add('selected');
+        }
+        option.addEventListener('click', () => {
+            updateUrl(book, chap, edition.id);
+        });
+        optionsList.appendChild(option);
     });
-    container.innerHTML = '';
-    container.appendChild(select);
+
+    customSelect.appendChild(selectHeader);
+    customSelect.appendChild(optionsList);
+    container.appendChild(customSelect);
+
+    selectHeader.addEventListener('click', () => {
+        customSelect.classList.toggle('open');
+    });
+
+    document.addEventListener('click', (e) => {
+        if (!customSelect.contains(e.target)) {
+            customSelect.classList.remove('open');
+        }
+    });
 }
 
 function setupUIEventListeners() {
