@@ -34,6 +34,7 @@ async function loadChapter(bookPath, chapterId, edition) {
             if (rawSrc && !rawSrc.startsWith('http')) {
                 const fileName = rawSrc.split('/').pop();
                 img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                console.log('Image source:', img.src);
             }
             img.classList.add('med-img');
         });
