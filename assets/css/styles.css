@@ -1,4 +1,4 @@
-/* ===== ПЕРЕМЕННЫЕ ===== */
+/* ===== VARIABLES ===== */
 :root {
     --primary-color: #2c3e50;
     --secondary-color: #3498db;
@@ -10,109 +10,12 @@
     --highlight-green: #d4edda;
 }
 
-/* ===== БАЗОВЫЕ СТИЛИ ===== */
+/* ===== BASE STYLES ===== */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-:root {
-    /* Палитра 12 цветов */
-    --clr-red: #e74c3c;    --clr-blue: #3498db;    --clr-green: #2ecc71;
-    --clr-gold: #f1c40f;   --clr-purple: #9b59b6;  --clr-orange: #e67e22;
-    --clr-teal: #1abc9c;   --clr-pink: #fd79a8;    --clr-indigo: #6c5ce7;
-    --clr-lime: #badc58;   --clr-brown: #a0522d;   --clr-grey: #95a5a6;
-}
-
-/* 1. Овалы (12 цветов) */
-.oval { border-radius: 20px; padding: 2px 10px; border: 2px solid; display: inline-block; font-weight: 500; margin: 0 2px; }
-.ov-red { border-color: var(--clr-red); color: var(--clr-red); }
-.ov-blue { border-color: var(--clr-blue); color: var(--clr-blue); }
-/* ... (пропишите аналогично для остальных 10 цветов) */
-
-/* 2. Маркеры (12 цветов) - используем полупрозрачность 20% */
-.m-red { background: rgba(231, 76, 60, 0.2); }
-.m-blue { background: rgba(52, 152, 219, 0.2); }
-.m-gold { background: rgba(241, 196, 15, 0.3); }
-/* ... */
-
-/* 3. Цвет шрифта (12 цветов) */
-.t-red { color: var(--clr-red); }
-.t-blue { color: var(--clr-blue); }
-/* ... */
-
-/* 4. Прямоугольные блоки (Note Blocks) */
-.block { padding: 15px; margin: 15px 0; border-radius: 8px; border-left: 6px solid; }
-.bg-soft-blue { background: #f0f7ff; border-color: var(--clr-blue); }
-.bg-soft-red { background: #fff5f5; border-color: var(--clr-red); }
-.bg-soft-green { background: #f2fff7; border-color: var(--clr-green); }
-
-/* 5. Luminous Blocks (Светящиеся блоки) */
-.luminous { border: 1px solid; box-shadow: 0 0 15px; transition: 0.3s; }
-.lum-cyan { border-color: #00fbff; box-shadow: 0 0 10px rgba(0, 251, 255, 0.4); background: #faffff; }
-.lum-gold { border-color: #ffd700; box-shadow: 0 0 10px rgba(255, 215, 0, 0.4); background: #fffff0; }
-
-/* Базовый стиль для спец-блоков */
-.med-note { 
-    margin: 20px 0; padding: 15px; border-radius: 10px; 
-    position: relative; overflow: hidden; border: 1px solid #ddd;
-}
-
-.med-note::before { position: absolute; top: 10px; right: 15px; font-size: 1.5rem; opacity: 0.2; }
-
-.note-dosage { border-left: 5px solid #6c5ce7; background: #f8f7ff; }
-.note-dosage::before { content: "💉"; }
-
-.note-anatomy { border-left: 5px solid #ff7675; background: #fffafa; }
-.note-anatomy::before { content: "🫀"; }
-
-.note-surgery { border-left: 5px solid #00b894; background: #f4fffb; }
-.note-surgery::before { content: "🔪"; }
-
-.note-pharmacy { border-left: 5px solid #fdcb6e; background: #fffdf9; }
-.note-pharmacy::before { content: "💊"; }
-
-.note-fact { border-left: 5px solid #0984e3; background: #f0f8ff; border-style: dashed; }
-.note-fact::before { content: "💡"; }
-
-.note-nb { border-left: 5px solid var(--clr-red); background: #fff5f5; font-weight: bold; }
-.note-nb::before { content: "⚠️"; }
-
-/* 6. Скрывающийся текст */
-details.med-details {
-    background: #fff;
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    margin: 10px 0;
-    transition: all 0.3s ease;
-}
-
-details.med-details summary {
-    padding: 12px;
-    cursor: pointer;
-    font-weight: 600;
-    color: var(--secondary-color);
-    list-style: none; /* Убираем стандартную стрелочку */
-}
-
-details.med-details summary::before {
-    content: "▶";
-    margin-right: 10px;
-    display: inline-block;
-    transition: 0.2s;
-}
-
-details.med-details[open] summary::before {
-    transform: rotate(90deg);
-}
-
-details.med-details .details-content {
-    padding: 0 15px 15px;
-    border-top: 1px solid #eee;
-    padding-top: 10px;
-}
-
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -121,22 +24,26 @@ body {
     background: var(--background);
 }
 
-/* ===== ХЕДЕР ===== */
+/* ===== HEADER ===== */
 header {
     background: var(--primary-color);
     color: white;
-    padding: 1.5rem 2rem;
+    padding: 1rem 2rem;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header h1 {
-    margin-bottom: 0.5rem;
+    margin: 0;
+    font-size: 1.5rem;
 }
 
 header nav a {
     color: white;
     text-decoration: none;
-    margin-right: 1.5rem;
+    margin-left: 1.5rem;
     padding: 0.5rem 1rem;
     border-radius: 4px;
     transition: background 0.3s;
@@ -146,7 +53,7 @@ header nav a:hover {
     background: rgba(255,255,255,0.1);
 }
 
-/* ===== ОСНОВНОЙ КОНТЕНТ ===== */
+/* ===== MAIN CONTENT ===== */
 main {
     max-width: 1200px;
     margin: 2rem auto;
@@ -171,9 +78,9 @@ main {
     border-color: var(--secondary-color);
 }
 
-/* ===== КАТЕГОРИИ И КНИГИ ===== */
-.category {
-    margin-bottom: 3rem;
+/* ===== CATEGORIES AND BOOKS ===== */
+.category-section {
+    margin-bottom: 2rem;
 }
 
 .category-title {
@@ -186,7 +93,7 @@ main {
 
 .books-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1.5rem;
     margin-top: 1rem;
 }
@@ -195,18 +102,19 @@ main {
     background: white;
     padding: 1.5rem;
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
     transition: transform 0.3s, box-shadow 0.3s;
     cursor: pointer;
+    border: 1px solid var(--border-color);
 }
 
 .book-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
 }
 
 .book-title {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: var(--primary-color);
     margin-bottom: 0.5rem;
 }
@@ -214,85 +122,15 @@ main {
 .book-authors {
     color: #666;
     font-size: 0.9rem;
-    margin-bottom: 0.5rem;
-}
-
-.book-meta {
-    display: flex;
-    gap: 1rem;
-    font-size: 0.85rem;
-    color: #999;
-    margin-top: 1rem;
-}
-
-.chapter-count {
-    color: var(--secondary-color);
-}
-
-/* ===== МЕДИЦИНСКИЕ СТИЛИ ===== */
-.medical-term {
-    color: #0066cc;
-    font-weight: 500;
-    border-bottom: 1px dotted #0066cc;
-    cursor: help;
-}
-
-.highlight-yellow {
-    background: var(--highlight-yellow);
-    padding: 2px 6px;
-    border-radius: 3px;
-}
-
-.highlight-green {
-    background: var(--highlight-green);
-    padding: 2px 6px;
-    border-radius: 3px;
-}
-
-mark {
-    background: #ffeb3b;
-    padding: 2px 4px;
-}
-
-.text-red {
-    color: #dc3545;
-}
-
-.text-blue {
-    color: #007bff;
-}
-
-.underline {
-    text-decoration: underline;
-}
-
-/* ===== СКРЫВАЮЩИЕСЯ БЛОКИ ===== */
-details {
-    background: #f8f9fa;
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    padding: 1rem;
-    margin: 1rem 0;
-}
-
-summary {
-    font-weight: 600;
-    cursor: pointer;
-    user-select: none;
-    color: var(--secondary-color);
-}
-
-summary:hover {
-    color: var(--primary-color);
-}
-
-details[open] summary {
     margin-bottom: 1rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--border-color);
 }
 
-/* ===== ФУТЕР ===== */
+.book-description {
+    font-size: 0.9em;
+    color: #666;
+}
+
+/* ===== FOOTER ===== */
 footer {
     text-align: center;
     padding: 2rem;
@@ -300,7 +138,7 @@ footer {
     margin-top: 4rem;
 }
 
-/* ===== АДАПТИВНОСТЬ ===== */
+/* ===== RESPONSIVENESS ===== */
 @media (max-width: 768px) {
     main {
         padding: 0 1rem;
@@ -309,132 +147,37 @@ footer {
     .books-grid {
         grid-template-columns: 1fr;
     }
+
+    header {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    header h1 {
+        margin-bottom: 1rem;
+    }
     
     header nav a {
         display: block;
         margin: 0.5rem 0;
+        text-align: center;
     }
 }
 
-.edition-selector {
-    background: rgba(255, 255, 255, 0.1);
-    color: white;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 5px 10px;
-    border-radius: 4px;
-    margin: 0 15px;
-    cursor: pointer;
-    font-size: 0.9rem;
+/* ===== UTILITIES ===== */
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: #999;
+    font-size: 1.1rem;
 }
 
-.edition-selector option {
-    background: var(--primary-color);
-    color: white;
-}
-
-
-/* --- Адаптивность и мобильное меню --- */
-@media (max-width: 768px) {
-    .reader-layout {
-        flex-direction: column; /* Складываем сайдбар и контент вертикально */
-    }
-
-    .sidebar {
-        position: fixed;
-        left: -100%; /* Прячем меню влево */
-        top: 60px;
-        width: 80%;
-        height: calc(100vh - 60px);
-        z-index: 1000;
-        transition: 0.3s;
-        box-shadow: 5px 0 15px rgba(0,0,0,0.1);
-        background: white;
-    }
-
-    .sidebar.active {
-        left: 0; /* Показываем при нажатии на кнопку */
-    }
-
-    .content-wrapper {
-        padding: 15px !important;
-        margin-left: 0 !important;
-    }
-
-    /* Стиль селектора версий в шапке для мобилок */
-    .edition-selector {
-        font-size: 12px;
-        padding: 4px;
-        max-width: 120px;
-    }
-
-    header nav {
-        display: none; /* Прячем лишние ссылки (Редактор/Конвертер) на мобилках в шапке */
-    }
-}
-
-/* --- Стили для выбора версий (чтобы он был заметен) --- */
-.edition-selector {
-    background: #3498db;
-    color: white;
-    border: none;
-    padding: 6px 12px;
-    border-radius: 20px;
-    font-weight: bold;
-    cursor: pointer;
-    outline: none;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-.edition-selector option {
-    background: white;
-    color: #333;
-}
-
-/* Мобильная адаптация */
-@media (max-width: 768px) {
-    .sidebar {
-        position: fixed; left: -100%; top: 60px; 
-        width: 280px; height: 100%; background: white; z-index: 99; transition: 0.3s;
-    }
-    .sidebar.active { left: 0; }
-    .content-wrapper { padding: 10px; }
-    .main-nav { display: none; } /* Скрываем лишнее в шапке */
-}
-
-/* Стили для мед-блоков */
-.oval { border: 2px solid #3498db; border-radius: 15px; padding: 2px 8px; color: #3498db; font-weight: bold; }
-.med-note { border-left: 5px solid; padding: 15px; margin: 15px 0; background: #f9f9f9; border-radius: 5px; }
-.note-dosage { border-color: #9b59b6; }
-.note-surgery { border-color: #2ecc71; }
-.toc-link { display: block; padding: 5px; font-size: 0.9rem; text-decoration: none; color: #666; }
-.toc-link:hover { color: #3498db; }
-
-
-/* reader-sidebar.active — состояние когда меню открыто на мобилке */
-@media (max-width: 768px) {
-    .sidebar {
-        position: fixed;
-        left: -100%;
-        top: 0;
-        width: 85%;
-        height: 100%;
-        background: #fff;
-        z-index: 9999;
-        box-shadow: 10px 0 30px rgba(0,0,0,0.3);
-        padding-top: 60px;
-    }
-    .sidebar.active {
-        left: 0;
-    }
-}
-
-/* Красивый селектор */
-.edition-selector {
-    background: #f0f2f5;
-    border: 1px solid #d1d9e0;
-    padding: 5px 10px;
-    border-radius: 6px;
-    font-weight: 500;
-    color: #24292f;
-    outline: none;
+.error {
+    color: var(--accent-color);
+    padding: 2rem;
+    text-align: center;
+    background: #ffe6e6;
+    border-radius: 8px;
+    border: 2px solid var(--accent-color);
+    font-weight: 600;
 }

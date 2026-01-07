@@ -5,18 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Starley Medical Library</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body class="reader-body">
-    <div id="google_translate_element"></div> <header class="reader-header">
+    <header class="reader-header">
         <div class="header-content">
+            <button id="toc-toggle" class="header-btn"><i class="fas fa-bars"></i></button>
             <nav class="main-nav">
-                <a href="index.html" class="nav-link">🏠 Library</a>
-                <a href="editor.html" class="nav-link">✍️ Editor</a>
+                <a href="index.html" class="nav-link">
+                    <i class="fas fa-book-open"></i> 
+                    <span class="nav-text">Library</span>
+                </a>
             </nav>
-
             <div id="version-selector-container"></div>
-
-            <button id="toc-toggle" class="mobile-only">☰</button>
+            <button id="focus-toggle" class="header-btn"><i class="fas fa-expand"></i></button>
         </div>
     </header>
 
@@ -25,13 +27,11 @@
             <h2 id="book-title">Loading...</h2>
             <div id="chapter-list" class="nav-list"></div>
             <hr>
-            <div id="internal-toc" class="nav-list">
-                </div>
+            <div id="internal-toc" class="nav-list"></div>
         </aside>
 
-        <main class="content-wrapper">
-            <article id="content-area" class="content">
-                </article>
+        <main id="main-content" class="content-wrapper">
+            <article id="content-area" class="content"></article>
         </main>
     </div>
 
