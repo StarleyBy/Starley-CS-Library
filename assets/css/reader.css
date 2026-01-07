@@ -156,9 +156,17 @@
 }
 
 /* --- Focus Mode --- */
-body.focus-mode .reader-header,
-body.focus-mode .sidebar {
+body.focus-mode .sidebar,
+body.focus-mode .main-nav,
+body.focus-mode #version-selector-container,
+body.focus-mode #toc-toggle {
     display: none;
+}
+
+body.focus-mode .reader-header {
+    background: transparent;
+    border-bottom: none;
+    box-shadow: none;
 }
 
 body.focus-mode #main-content {
