@@ -244,3 +244,12 @@ body.focus-mode #focus-toggle .fa-compress {
     display: block; /* Центрирует, если нужно */  
     margin: 1rem auto; /* Отступы для лучшего вида */  
 }  
+
+@media (max-width: 768px) {  
+    body.focus-mode #focus-toggle {  
+        top: auto;  
+        bottom: 2rem;  
+        right: 50%;  
+        transform: translateX(50%); /* Центрирует по горизонтали */  
+    }  
+}
