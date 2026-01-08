@@ -237,3 +237,10 @@ body.focus-mode #focus-toggle .fa-compress {
         display: none;
     }
 }
+
+    .med-img {  
+    max-width: 100%; /* Изображение не выходит за ширину контейнера */  
+    height: auto; /* Сохраняет пропорции */  
+    display: block; /* Центрирует, если нужно */  
+    margin: 1rem auto; /* Отступы для лучшего вида */  
+}  
