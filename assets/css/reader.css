@@ -1,6 +1,6 @@
 :root {
 /* Определение CSS переменных для удобства и повторного использования значений во всём документе. /
---header-height: 55px; / Высота заголовка (меню) для фиксации позиции контента ниже. /
+--header-height: 45px; / Уменьшена высота заголовка для компактности, чтобы меню было узким. /
 --sidebar-width: 320px; / Ширина боковой панели (sidebar) на десктопах. /
 --sidebar-transition: transform 0.3s ease-in-out; / Плавный переход для анимации показа/скрытия sidebar. /
 --content-transition: margin-left 0.3s ease-in-out; / Плавный переход для сдвига основного контента при изменении sidebar. /
@@ -9,7 +9,7 @@
 }
 .reader-body {
 /* Основное тело читалки, отступ сверху для фиксированного заголовка. /
-padding-top: var(--header-height); / Отступ, чтобы контент не перекрывался заголовком. /
+padding-top: var(--header-height); / Отступ, чтобы контент не перекрывался заголовком (теперь меньше из-за уменьшенной высоты). /
 transition: var(--content-transition); / Плавный сдвиг при изменении ширины. */
 }
 .reader-header {
@@ -18,7 +18,7 @@ position: fixed; / Фиксирован на месте при скролле. /
 top: 0;
 left: 0;
 width: 100%; / Занимает всю ширину экрана, чтобы избежать overflow. /
-height: var(--header-height); / Высота из переменной. /
+height: var(--header-height); / Высота из переменной (теперь компактная). /
 background: #fff; / Белый фон для видимости. /
 border-bottom: 1px solid var(--border-color); / Граница снизу для разделения. /
 box-shadow: 0 2px 5px rgba(0,0,0,0.05); / Лёгкая тень для глубины. /
@@ -28,27 +28,28 @@ z-index: 1000; / Выше других элементов. */
 /* Контейнер внутри заголовка для размещения элементов меню. /
 display: flex; / Flexbox для гибкого размещения. /
 align-items: center; / Вертикальное центрирование элементов. /
-justify-content: space-between; / Распределение пространства между элементами. /
-padding: 0 1rem; / Отступы слева/справа для воздуха. /
+justify-content: space-around; / Изменено: Равномерное распределение по ширине для компактности, вместо space-between. /
+padding: 0 0.5rem; / Уменьшенные отступы слева/справа для компактности. /
 height: 100%; / Полная высота заголовка. /
-flex-wrap: wrap; / Добавлено: Перенос элементов на новую строку, если они не умещаются, чтобы избежать горизонтального скролла. /
-box-sizing: border-box; / Добавлено: Включает padding в ширину, предотвращая overflow. /
-overflow: hidden; / Добавлено: Скрывает любой возможный overflow. */
+flex-wrap: nowrap; / Изменено: Без переноса на новую строку, чтобы сохранить одну линию; элементы будут сжиматься. /
+box-sizing: border-box; / Включает padding в ширину, предотвращая overflow. /
+overflow: hidden; / Скрывает любой возможный overflow. */
 }
 .header-btn, .nav-link {
 /* Стили для кнопок и ссылок в заголовке. /
 background: none; / Без фона по умолчанию. /
 border: none; / Без границы. /
 color: var(--text-color); / Цвет текста. /
-font-size: 1.2rem; / Размер шрифта. /
+font-size: 1rem; / Уменьшен размер шрифта для компактности (было 1.2rem). /
 cursor: pointer; / Курсор как рука для кликабельности. /
-padding: 0.5rem; / Отступы внутри. /
+padding: 0.3rem 0.5rem; / Уменьшенные отступы внутри для узкости. /
 border-radius: 5px; / Скруглённые углы. /
 transition: background 0.2s, color 0.2s; / Плавные изменения при hover. /
 display: flex; / Flex для выравнивания иконки и текста. /
 align-items: center; / Центрирование. /
-gap: 0.5rem; / Промежуток между иконкой и текстом. /
-text-decoration: none; / Без подчёркивания для ссылок. */
+gap: 0.3rem; / Уменьшенный промежуток между иконкой и текстом. /
+text-decoration: none; / Без подчёркивания для ссылок. /
+min-width: auto; / Добавлено: Позволяет кнопкам сжиматься. */
 }
 .header-btn:hover, .nav-link:hover {
 /* Hover-эффект для кнопок и ссылок. /
@@ -56,12 +57,12 @@ background: #f0f0f0; / Светлый фон при наведении. */
 }
 .nav-link .nav-text {
 /* Текст в навигационных ссылках. /
-font-size: 1rem; / Размер шрифта. /
+font-size: 0.9rem; / Уменьшен размер шрифта для компактности (было 1rem). /
 font-weight: 500; / Полужирный. */
 }
 #version-selector-container {
 /* Контейнер для селектора версий (изданий). /
-flex-grow: 1; / Занимает доступное пространство. /
+flex-grow: 0; / Изменено: Не растягивается, чтобы быть компактным (было 1). /
 display: flex; / Flex для центрирования. /
 justify-content: center; / Центрирование внутри. /
 position: relative; / Для позиционирования дропдауна. */
@@ -69,7 +70,8 @@ position: relative; / Для позиционирования дропдауна
 .custom-select-wrapper {
 /* Обёртка для кастомного селекта. /
 position: relative; / Для дропдауна. /
-width: 200px; / Фиксированная ширина (уменьшим на мобильных). /
+width: auto; / Изменено: Автоматическая ширина вместо фиксированной 200px, для сжатия. /
+min-width: 100px; / Минимальная ширина, чтобы не было слишком узко. /
 cursor: pointer; / Курсор как рука. */
 }
 .custom-select-header {
@@ -77,15 +79,17 @@ cursor: pointer; / Курсор как рука. */
 display: flex; / Flex для размещения. /
 justify-content: space-between; / Распределение. /
 align-items: center; / Центрирование. /
-padding: 0.5rem 1rem; / Отступы. /
-background: #f5f5f5; / Светлый фон. */
+padding: 0.3rem 0.5rem; / Уменьшенные отступы для компактности. /
+background: #f5f5f5; / Светлый фон. /
+font-size: 0.9rem; / Добавлено: Уменьшен шрифт для названий версий. /
+border-radius: 5px; / Скруглённые углы. */
 }
 /* --- Sidebar Styles --- /
 / Стили для боковой панели (sidebar). /
 .sidebar {
 / Боковая панель. /
 position: fixed; / Фиксирована слева. /
-top: var(--header-height); / Ниже заголовка. /
+top: var(--header-height); / Ниже заголовка (теперь ниже из-за уменьшенной высоты). /
 left: 0;
 width: var(--sidebar-width); / Ширина из переменной. /
 height: calc(100vh - var(--header-height)); / Полная высота минус заголовок. /
@@ -148,7 +152,7 @@ top: 1rem; / Отступ сверху. /
 right: 1rem; / Справа. /
 background: rgba(255, 255, 255, 0.7); / Полупрозрачный фон. /
 backdrop-filter: blur(5px); / Размытие для стиля. /
-z-index: 2000; / Добавлено: Высокий z-index, чтобы быть поверх всего. */
+z-index: 2000; / Высокий z-index, чтобы быть поверх всего. */
 }
 #focus-toggle .fa-compress {
 /* Иконка выхода из фокуса (по умолчанию скрыта). */
@@ -174,7 +178,7 @@ border-radius: 8px; / Скруглённые углы. /
 box-shadow: 0 0 20px rgba(0,0,0,0.05); / Лёгкая тень. */
 }
 .med-img {
-/* Стили для медицинских изображений (добавлено ранее для оптимизации). /
+/* Стили для медицинских изображений. /
 max-width: 100%; / Не выходит за контейнер. /
 height: auto; / Сохраняет пропорции. /
 display: block; / Как блок для центрирования. /
@@ -207,18 +211,22 @@ display: none;
 }
 /* Добавленные стили для компактности меню на мобильных. /
 .header-content {
-justify-content: center; / Центрирование элементов. /
-flex-direction: column; / Стек vertically для узких экранов, чтобы избежать overflow. /
-padding: 0.5rem; / Уменьшенные отступы. */
+justify-content: space-around; / Равномерное распределение. /
+padding: 0.25rem; / Ещё меньше отступов. /
+flex-wrap: nowrap; / Без переноса, элементы сжимаются в одну линию. */
 }
 .custom-select-wrapper {
-width: 100%; /* Полная ширина для селекта. /
-max-width: none; / Без максимума. /
-margin-bottom: 0.5rem; / Отступ снизу. */
+width: auto; /* Автоматическая ширина. /
+min-width: 80px; / Уменьшена минимальная ширина для компактности. */
+}
+.custom-select-header {
+font-size: 0.8rem; /* Ещё меньше шрифт для названий версий. /
+padding: 0.2rem 0.4rem; / Компактные отступы. */
 }
 .header-btn, .nav-link {
-font-size: 1rem; /* Уменьшенный шрифт. /
-padding: 0.3rem; / Компактные отступы. */
+font-size: 0.9rem; /* Уменьшенный шрифт. /
+padding: 0.2rem 0.4rem; / Компактные отступы. /
+gap: 0.2rem; / Меньше промежуток. */
 }
 body.focus-mode #focus-toggle {
 /* Кнопка фокуса на мобильных: внизу по центру. /
@@ -227,4 +235,26 @@ bottom: 2rem; / Снизу. /
 right: 50%; / Справа 50%. /
 transform: translateX(50%); / Центрирование. */
 }
+}
+/* Дополнительные стили для кнопок версий (если заменишь селект на кнопки EN, Starl, RU) /
+/ Предполагаю, что в HTML/JS добавишь <button class="version-btn" data-edition="original">EN</button> и т.д. /
+/ Тогда добавь эти стили: /
+.version-btn {
+/ Стили для кнопок версий (EN, Starl, RU). /
+background: none;
+border: 1px solid var(--border-color);
+color: var(--text-color);
+font-size: 0.8rem; / Маленький шрифт для компактности. /
+padding: 0.2rem 0.5rem;
+border-radius: 5px;
+cursor: pointer;
+margin: 0 0.2rem; / Маленькие отступы между кнопками. */
+}
+.version-btn.active {
+/* Активная версия. */
+background: #f0f0f0;
+font-weight: bold;
+}
+.version-btn:hover {
+background: #e0e0e0;
 }
