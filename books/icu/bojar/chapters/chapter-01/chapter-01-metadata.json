@@ -1,501 +1,1167 @@
 {
-  "chapter_id": "chapter-01",
-  "chapter_number": 1,
-  "title": "",
+  "title": "CHAPTER 1: Synopsis of Adult Cardiac Surgical Disease",
+  "content_table": {
+    "type": "table",
+    "headers": ["Disease", "Page"],
+    "rows": [
+      ["Coronary Artery Disease", "3"],
+      ["Left Ventricular Aneurysm", "16"],
+      ["Ventricular Septal Rupture", "19"],
+      ["Aortic Stenosis", "21"],
+      ["Aortic Regurgitation", "36"],
+      ["Mitral Stenosis", "41"],
+      ["Mitral Regurgitation", "44"],
+      ["Tricuspid Valve Disease", "55"],
+      ["Infective Endocarditis", "60"],
+      ["Hypertrophic Obstructive Cardiomyopathy", "66"],
+      ["Aortic Dissections", "69"],
+      ["Thoracic Aortic Aneurysms", "76"],
+      ["Atrial Fibrillation", "82"],
+      ["Advanced Heart Failure", "89"],
+      ["Pericardial Disease", "93"],
+      ["Congenital Heart Disease: Atrial Septal Abnormalities", "97"],
+      ["Adults with Other Congenital Heart Disease", "99"]
+    ]
+  },
+  "introduction": "It is essential that all individuals involved in the assessment and management of patients with cardiac surgical disease have a basic understanding of the disease processes that are being treated. This chapter presents the spectrum of adult cardiac surgical disease that is encountered in most cardiac surgical practices. The pathophysiology, indications for surgery, specific preoperative considerations, and surgical options for various diseases are presented. Diagnostic techniques and general preoperative considerations are presented in the next two chapters. Issues related to cardiac anesthesia and postoperative care specific to most of the surgical procedures presented in this chapter are discussed in Chapters 4 and 8, respectively. The most current guidelines for the evaluation and management of patients with cardiac disease can be obtained from the American College of Cardiology website (www.acc.org).",
   "sections": [
     {
-      "id": "management-strategies-in-stable-ischemic-heart-disease-sihd",
-      "title": "C. Management strategies in stable ischemic heart disease (SIHD)",
-      "level": 2,
-      "anchor": "management-strategies-in-stable-ischemic-heart-disease-sihd",
-      "subsections": []
-    },
-    {
-      "id": "preoperative-considerations",
-      "title": "C. Preoperative considerations",
-      "level": 2,
-      "anchor": "preoperative-considerations",
-      "subsections": []
-    },
-    {
-      "id": "surgical-procedures",
-      "title": "D. Surgical procedures",
-      "level": 2,
-      "anchor": "surgical-procedures",
-      "subsections": []
-    },
-    {
-      "id": "preoperative-considerations",
-      "title": "H. Preoperative considerations",
-      "level": 2,
-      "anchor": "preoperative-considerations",
-      "subsections": []
-    },
-    {
-      "id": "surgical-procedures",
-      "title": "I. Surgical procedures",
-      "level": 2,
-      "anchor": "surgical-procedures",
-      "subsections": []
-    },
-    {
-      "id": "class-iib-indication-surgery-may-be-considered",
-      "title": "3. Class IIb indication (\"Surgery may be considered\")",
-      "level": 2,
-      "anchor": "class-iib-indication-surgery-may-be-considered",
+      "id": "I",
+      "title": "I. Coronary Artery Disease",
       "subsections": [
         {
-          "id": "preoperative-considerations",
+          "id": "A",
+          "title": "A. Pathophysiology.",
+          "content": "Coronary artery disease (CAD) results from the progressive blockage of the coronary arteries by atherothrombotic disease. Significant risk factors include hypertension, dyslipidemia (especially high LDL, low HDL, elevated Lp(a) or apoB, or triglycerides), diabetes mellitus, obesity (a combination of the above being termed metabolic syndrome), cigarette smoking, and a family history of premature CAD. Clinical syndromes result from an imbalance of oxygen supply and demand resulting in inadequate myocardial perfusion to meet metabolic demand (ischemia). Progressive compromise in luminal diameter producing supply/demand imbalance usually produces a pattern of chronic stable angina, commonly referred to as 'stable ischemic heart disease (SIHD). Plaque rupture with superimposed thrombosis is responsible for most acute coronary syndromes (ACS), which include classic 'unstable angina', non‐ST‐elevation myocardial infarctions (non‐STEMI), and ST‐elevation infarctions (STEMI). Paradoxically, plaque rupture more commonly occurs in coronary segments that are not severely stenotic. Endothelial dysfunction has become increasingly recognized as a contributing factor to worsening ischemic syndromes. Generalized systemic inflammation, indicated by elevated C‐reactive protein levels, is usually noted in patients with ACS, and appears to be associated with adverse outcomes."
+        },
+        {
+          "id": "B",
+          "title": "B. Primary prevention",
+          "content": "of cardiovascular disease entails control of modifiable risk factors. Notably, statins are generally not recommended for patients with normal cholesterol levels (unless there is a family history of premature CAD) or for patients at low risk for atherosclerotic cardiovascular disease (ASCVD) based on the ASCVD risk calculator (available at https://clincalc.com/cardiology/ascvd/pooledcohort.aspx). Furthermore, aspirin, which had been widely utilized for primary prevention in the past, has received only a level IIb recommendation for patients age 40–70 with higher ASCVD risk, but not at increased bleeding risk, and was considered contraindicated on a routine basis in patients >age 70 or in any patient with an increased risk of bleeding according to a 2019 ACC report.1"
+        },
+        {
+          "id": "C",
+          "title": "C. Management strategies in stable ischemic heart disease (SIHD)",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Symptomatic coronary disease is initially treated with medical therapy, including aspirin, nitrates, ß‐adrenergic blockers, and calcium‐channel blockers (CCBs). Ranolazine may be added as a second‐line drug for symptomatic relief in patients with refractory angina. It inhibits inward sodium currents in the heart muscle, leading to a reduction in intracellular calcium levels, which reduces myocardial wall tension and oxygen requirements. It does not cause bradycardia and hypotension, which occasionally are limiting factors with the use of other antianginal drugs. Statins should be given to control dyslipidemias and are effective for plaque stabilization. Angiotensin‐converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) are given to patients with depressed left ventricular (LV) function (ejection fraction [EF] <40%) and to those with hypertension and diabetes. P2Y12 inhibitors (clopidogrel, ticagrelor) generally do not provide benefit to patients with SIHD."
+            },
+            {
+              "id": "2",
+              "title": "2. Optimal medical therapy should be the initial management strategy for patients with SIHD, since studies have not shown that proceeding to percutaneous coronary intervention (PCI) reduces the risk of death, infarction or other major adverse cardiovascular events.2 Thus, the decision to proceed with cardiac catheterization should be based on the rationale that the patient's symptoms are disabling enough or the degree of ischemia is significant enough to warrant an intervention to revascularize the heart. Risk stratification with noninvasive functional testing is important to provide objective evidence of inducible ischemia, using exercise stress testing, nuclear imaging, or dobutamine stress echocardiography."
+            },
+            {
+              "id": "3",
+              "title": "3. The decision to proceed with an intervention must then take into consideration an angiographic assessment of the extent of coronary disease and an invasive assessment of its physiologic significance by fractional flow reserve (FFR)3 or instantaneous flow reserve (iFR)4 , which is not dependent on the administration of adenosine. Additional critical information when considering PCI or coronary artery bypass grafting (CABG) includes the patient's comorbidities, particularly diabetes mellitus, and an assessment of LV function. Multiple studies comparing medical therapy with PCI for patients with SIHD have shown that PCI reduces the incidence of angina, may increase the short‐term risk of myocardial infarction (MI), but does not lower the long‐term risk of MI or improve survival.5 However, PCI does reduce the need for urgent revascularization and may reduce the risk of MI in patients with a large ischemic burden. Superior clinical outcomes are achieved with complete revascularization, which in many patients is better accomplished with CABG than PCI.6 Use of systematic anatomic assessments, such as with the SYNTAX score (see section C.4.a), has been accepted as an adjunct to this decision‐making process."
+            },
+            {
+              "id": "4",
+              "title": "4. Appropriate use criteria (AUC) with complex matrices have been set forth for coronary revascularization strategies in patients with SIHD.7 These are subdivided by the number of diseased vessels (1–2–3), the presence of symptoms, the use of antianginal therapy, and whether noninvasive testing indicates the patient is at low, intermediate, or high risk for a cardiac event, or in the absence of testing, by the results of FFR/iFr studies.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. The SYNTAX score[](http://www.syntaxscore.com) is also incorporated into the AUC guidelines and can be used to determine whether PCI or CABG is preferable for multivessel or left main (LM) disease. This provides an angiographic assessment of coronary disease with an additive score that evaluates the location and degree of stenosis in each vessel, the angiographic complexity of the lesion, vessel diameter and calcification. The SYNTAX trial divided patients into low risk (score of 0–22), intermediate risk (score of 23–32), and high risk (score >32) categories and used a primary end point of major adverse cardiac and cerebrovascular events (MACCE), which includes mortality, myocardial infarction (MI), stroke, and the need for repeat revascularization."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Five‐year follow‐up data from the SYNTAX trial showed that patients in the low‐risk category had similar MACCE rates with PCI or CABG. However, CABG produced superior results in intermediate‐ to high‐risk patients with three‐vessel disease (score >22), and those at high risk with LM disease. In these cohorts, CABG was associated with less MACCE, more complete revascularization, reduced need for repeat revascularization, and improved long‐term benefit.8,9"
+                },
+                {
+                  "id": "c",
+                  "title": "c. The FREEDOM trial showed that CABG is superior to PCI in diabetic patients with multivessel disease,10,11 and the presence or absence of diabetes is specifically incorporated into the AUC guidelines for multivessel and LM disease. In these diabetic patients, the SYNTAX score was found to be a predictor of MACCE only with PCI, and therefore was not recommended to guide therapy.12"
+                },
+                {
+                  "id": "d",
+                  "title": "d. A 'residual SYNTAX' score >8 after PCI for patients in the moderate‐ to high‐ risk cohorts, indicative of incomplete revascularization, had worse 30‐day and one‐year survival.13 In fact, in the entire SYNTAX study, PCI resulted in a 10‐ fold increase in MI‐related death compared with CABG, but this was mostly accounted for in patients with diabetes, multivessel disease, and high SYNTAX scores.14"
+                },
+                {
+                  "id": "e",
+                  "title": "e. One shortcoming of the SYNTAX score was that it correlated only an angiographic assessment with the best revascularization strategy. Because surgery might provide more benefit to patients with significant clinical comorbidities in addition to the anatomical complexity of disease, the SYNTAX II scoring system was devised. This included eight predictors – two anatomic (SYNTAX score and unprotected LM disease), and six clinical predictors (age, creatinine clearance, ejection fraction, female gender, peripheral vascular disease, and chronic obstructive pulmonary disease [COPD]). The SYNTAX II study used second‐generation drug‐eluting stents and intravascular ultrasound imaging with PCI. It showed that some patients with low SYNTAX scores had higher mortality rates with PCI and some with higher SYNTAX scores did better with PCI. Generally, the SYNTAX II score was a better predictor of four‐year mortality rates than the original score.15 To achieve similar four‐year survival rates with PCI or CABG, it was found that young patients, females, and patients with reduced LVEF required lower SYNTAX scores, while older patients, those with COPD, and those with unprotected LM disease did well with PCI despite higher anatomical SYNTAX scores. The SYNTAX II score can be accessed at www.syntaxscore.com and it calculates the comparative four‐year survival rates for PCI and CABG."
+                },
+                {
+                  "id": "f",
+                  "title": "f. Although diabetes was not a discriminator using SYNTAX II scoring, other studies, including a subanalysis from the FREEDOM trial of diabetic patients with multivessel disease, found CABG superior to PCI in both insulin‐treated and noninsulin‐treated diabetics, but results were generally worse after either procedure in insulin‐treated diabetics.16"
+                },
+                {
+                  "id": "g",
+                  "title": "g. Thus, the SYNTAX or SYNTAX II score might be used as part of the decision‐ making process for the preferable mode of revascularization, since, along with older age, female gender, smoking, and diabetes, it appears to be a strong predictor of mortality and MACCE in patients undergoing PCI for multivessel disease and unprotected left main stenosis. These scoring systems provide an evidence‐based justification for selecting CABG as the treatment of choice for many patients with more complex multivessel disease."
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "title": "5. Indications for surgery in SIHD symptom relief. The primary indication for surgical revascularization is to improve symptoms. PCI is applicable to many of these patients, but CABG must be considered for diabetic patients and those with high SYNTAX scores and when satisfactory PCI cannot be accomplished.5",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Class I indications ∙ ≥1 significant stenoses with unacceptable angina despite guideline‐directed medical therapy (GDMT)"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Class IIa indications ∙ ≥1 significant stenoses in patients who cannot implement GDMT ∙ Complex three‐vessel disease (SYNTAX score >22) with/without proximal left anterior descending (LAD) artery stenosis"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Class IIb indications ∙ Redo CABG with ≥1 significant stenoses with ischemia and unacceptable angina despite GDMT"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "title": "6. Indications for surgery in SIHD improvement in survival. Although symptom relief is one objective of any revascularization procedure, an additional important benefit is an improvement in long‐term survival compared with medical therapy. For example, CABG for LM disease >50% or for multivessel disease with extensive ischemia and/or impaired LV function can accomplish this, but there are limited data showing that PCI can do the same. It is also likely that CABG can prolong life by preventing MI, whereas the same may not be true for PCI.17 The following recommendations for surgery represent slight modification from the randomized controlled trials of patients with primarily chronic stable angina in the early 1980s and were incorporated into the 2011 guidelines for CABG.5 These are the anatomic subsets for which improved survival has been noted compared with medical therapy. Thus, for these patients, surgery can be justified even in the absence of disabling symptoms. PCI is often utilized for many of these indications, although a survival benefit has not necessarily been demonstrated.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Class I indications ∙ Unprotected left main stenosis >50% ∙ Three‐vessel disease with/without proximal LAD disease ∙ Two‐vessel disease with proximal LAD disease ∙ Survivors of sudden death with presumed ischemic‐mediated ventricular tachycardia (VT)"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Class IIa indications ∙ Two‐vessel disease without proximal LAD disease with a large area of ischemic myocardium ∙ One‐vessel disease with proximal LAD disease (with a left internal thoracic artery [LITA] graft) ∙ Proximal LAD or multivessel disease with EF 35–50% if viable myocardium in the region of intended revascularization"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Class IIb indications ∙ One‐, two‐ or three‐vessel disease except left main with EF <35%"
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "title": "7. The optimal strategy in patients with severe ischemic LV dysfunction is somewhat controversial. The STICH (Surgical Treatment for Ischemic Heart Failure) trial comparing CABG with optimal medical therapy in patients with ischemic LV dysfunction found an increased 30‐day mortality but better 10‐year survival with CABG, the crossover occurring at two years.18",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. There was no correlation of survival with the presence or absence of angina in the intention‐to‐treat analysis, but there was a prognostic benefit when crossovers were included. Either way, angina relief was superior with surgery.19"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Worse outcomes with medical management were noted with more extensive CAD, more LV dysfunction (EF <27%) and larger ventricles (LV end‐systolic volume index >79 mL/m2 ), but these risk factors were not predictive of CABG mortality – thus a greater benefit with CABG was noted in these patients."
+                },
+                {
+                  "id": "c",
+                  "title": "c. Another interesting finding of the STICH trial was that there is no difference in surgical outcomes whether viability was present or not, and in fact, this observation was irrespective of treatment strategy.20 This seemed to contradict multiple studies and meta‐analyses that have shown that viability testing is helpful in assessing which patients may benefit from surgery.21 One potential limitation of this trial was the use of thallium stress imaging, which is not as discriminatory as PET (positron emission tomography) scanning in differentiating viable from nonviable myocardium. It was concluded that viability was predictive of a survival benefit in patients with moderate LV dysfunction, but lost its prognostic benefit when LV dysfunction became severe.19"
+                },
+                {
+                  "id": "d",
+                  "title": "d. Other studies comparing PCI with CABG in diabetic patients with LV dysfunction have confirmed that CABG is associated with a lower risk of death, MI, MACE, and repeat revascularization.22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "title": "D. Management strategies in acute coronary syndromes",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Non‐STEMI patients or those with unstable angina without a troponin leak usually have the substrate for recurrent ischemia and infarction. They should be treated with aspirin (162–325 mg) and unfractionated or low‐molecular‐weight heparin (LMWH), as well as standard therapies (e.g. nitrates, β‐blockers, statins, ACE inhibitors).23,24 A P2Y12 inhibitor, usually clopidogrel or ticagrelor, should be given in addition to aspirin to patients with non‐STEMIs, but it is not necessarily indicated in patients with normal troponin levels. Initiation of dual antiplatelet therapy will provide a clinical benefit and will also provide adequate platelet inhibition for a PCI which is feasible in most patients to relieve ischemia and prevent infarction. In patients who are considered intermediate–high risk for a clinical event or exhibit a large thrombus burden, the addition of a glycoprotein (GP) IIb/IIIa inhibitor may be considered (class IIb indication). If PCI is not feasible or is unsuccessful, a CABG is indicated for the anatomic findings listed in section C.6.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Low‐risk patients may stabilize on medical therapy and can undergo risk stratification by noninvasive testing to assess the extent of inducible ischemia (the 'ischemia‐guided strategy'). Various scoring systems (GRACE or TIMI score for UA/NSTEMI) can be used to quantitate the patient's short‐term risk of an ischemic event. The GRACE score provides estimates of in‐hospital and six‐ month mortality and the TIMI score provides the 14‐day risk of mortality, new or recurrent MI, or severe recurrent ischemia requiring urgent revascularization. Both of these scoring systems are available at a variety of sites on‐line, including www.mdcal.com (search 'GRACE' or 'TIMI').24"
+                },
+                {
+                  "id": "b",
+                  "title": "b. In patients at intermediate–high risk, an 'early invasive strategy' is used, which triages the patient to early catheterization. Although this strategy is considered to lead to improved outcomes compared with the ischemia‐guided approach, some studies show that 10‐year outcomes are comparable.25 This approach provides an early definition of the patient's coronary anatomy and allows for early intervention to prevent myocardial damage. This strategy has been subdivided into immediate (<2 hours), early (<24 hours), or delayed (25–72 hours) catheterizations, depending on the patient's presentation. The immediate approach is applicable to patients with recurrent or refractory angina, ECG changes at rest, new‐onset heart failure (HF), new‐onset mitral regurgitation (MR), or hemodynamic instability. New ST depressions with rising troponins or a GRACE score >140 are an indication for an early approach, and patients with diabetes, chronic kidney disease, EF <40%, a GRACE score of 109–140, or a TIMI score ≥2 can have a delayed invasive approach.24,26"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Since most patients are given a P2Y12 inhibitor upon hospital admission, when the extent of their coronary disease is not known, there will be patients undergoing catheterization in whom PCI is not feasible or in whom the benefits of CABG outweigh those of PCI (i.e. most diabetic patients with multivessel disease and patients with distal LM disease). An urgent CABG may then be recommended. A lower risk of renal dysfunction is noted for patients having on‐pump CABG if surgery can be delayed for 24 hours after catheterization.27 However, the timing of surgery must primarily balance the risk of a recurrent ischemic event vs. the risk of excessive bleeding. For patients requiring urgent, but not emergent, surgery who receive a P2Y12 inhibitor, surgery should be delayed at least 24 hours, if possible, and platelet aggregation testing obtained to elucidate whether the patient is sensitive or not to the P2Y12 inhibitor.28,29 If inhibition is <30%, surgery can usually be done safely without resorting to platelet transfusions to control mediastinal bleeding."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "2. ST elevation infarctions (STEMIs) are usually associated with coronary occlusions, and are preferentially treated by primary PCI, although thrombolytic therapy may be considered when PCI cannot be performed within a few hours. Clinical benefit is time‐related ('time is myocardium'), and the best results are obtained with a 'door to balloon' time of less than 90 minutes. However, PCI should still be considered up to 12 hours after the onset of symptoms, at 12–24 hours if the patient has HF, persistent ischemic symptoms, or hemodynamic or electrical instability, or at any time if cardiogenic shock is present.24 For the latter, emerging data suggest that improved survival may be achieved using mechanical circulatory support (MCS), such as an Impella (Abiomed, Danvers, MA) device, prior to PCI.30,31 All patients presenting with a STEMI and with no contraindications to antiplatelet treatment should be given one dose of aspirin 325 mg, a load of either clopidogrel 600 mg or ticagrelor 180 mg, and either unfractionated heparin or bivalirudin upon presentation to the emergency room, if not sooner (i.e. in the ambulance).",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. If PCI of the culprit vessel can be accomplished in a patient with multivessel disease, it remains controversial as to whether stenting of other nonculprit stenotic vessels should be performed at the same time, even in patients with cardiogenic shock, although some observational studies do suggest a benefit.32,33 However, if it is concluded that the other vessels would be better revascularized by surgery, the patient may be referred for CABG having received a P2Y12 inhibitor to prevent stent thrombosis. Once the culprit vessel has been opened, surgery is rarely required emergently. Thus, the oral P2Y12 inhibitor may be stopped and the patient given either a short‐acting P2Y12 inhibitor (IV cangrelor) or a GP IIb/IIIa inhibitor as a bridge to surgery."
+                },
+                {
+                  "id": "b",
+                  "title": "b. If PCI cannot be accomplished or is considered inadvisable due to extensive LM or multivessel disease, emergency surgery should be performed. Early surgical studies showed little myocardial salvage if CABG was not performed within six hours, with a significant increase in mortality for surgery performed between 7 and 24 hours, and then a lower mortality thereafter.34 Thus, beyond six hours, surgery may be delayed in the absence of cardiogenic shock, active ischemia, or a significant area of myocardium at risk, although the latter is usually present. However, active ischemia with or without cardiogenic shock should usually be treated urgently by CABG, independent of the time since presentation. In a report from the STS database, the operative mortality rate for patients in cardiogenic shock was about 20%, but it was 37% in patients requiring intraoperative MCS and 58% in patients requiring postoperative MCS support.35 Thus, if cardiogenic shock is present without active ischemia or with end‐organ dysfunction, consideration might be given to use of MCS alone.24"
+                },
+                {
+                  "id": "c",
+                  "title": "c. If PCI cannot be performed or has failed, the ACC guidelines recommend emergency surgery for the following:",
+                  "subsections": [
+                    {
+                      "id": "i",
+                      "title": "i. Class I ∙ Persistent ischemia or hemodynamic instability refractory to nonsurgical therapy (it is not stated if that includes an intra‐aortic balloon pump [IABP]) ∙ Cardiogenic shock irrespective of the time from MI to the onset of shock and the time from MI to CABG ∙ Mechanical complications of MI ∙ Life‐threatening ventricular arrhythmias with LM or three‐vessel disease"
+                    },
+                    {
+                      "id": "ii",
+                      "title": "ii. Class IIb ∙ Multivessel disease with recurrent angina or MI within 48 hours of presentation ∙ Patients >age 75 with ST elevation or left bundle branch block (LBBB) regardless of time since presentation if in cardiogenic shock"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E",
+          "title": "E. CABG vs. PCI as a revascularization strategy – other comments",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. The ongoing debate about the relative merits and advantages of CABG or PCI has spawned innumerable studies, publications, and controversies. PCI is generally utilized for patients with a lesser extent of disease, as noted in the appropriate use criteria (AUC) guidelines, and should incorporate SYNTAX scores in the decision. However, PCI is also useful in patients at very high risk for surgery due to either very advanced 'nonbypassable' coronary disease or significant comorbidities that make surgery a prohibitive risk. Mechanical circulatory‐supported PCI procedures, primarily using the Impella devices have been performed successfully in high‐risk cases.36"
+            },
+            {
+              "id": "2",
+              "title": "2. Studies have shown that FFR‐guided, rather than anatomy‐guided, PCI produces superior outcomes in patients with SIHD, reducing the need for urgent revascularization.37 In the 2011 ACC guidelines for CABG, there is no mention of using an FFR‐guided approach to surgical revascularization. Some studies have shown that this approach results in less grafting, a higher graft patency rate, a lower rate of angina, and a significant reduction in MI and mortality out to six years.38–40 Such information could be helpful in deciding which patients should undergo surgery and in fact which vessels need to be bypassed."
+            },
+            {
+              "id": "3",
+              "title": "3. Second‐generation drug‐eluting stents (DES) have been associated with a lower risk of restenosis requiring repeat revascularization, lower rates of stent thrombosis, and fewer MIs than bare‐metal stents (BMS), without a significant impact on mortality.41 Although the risk of stent thrombosis may be greater in patients who are resistant to the antiplatelet effects of aspirin and/or a P2Y12 inhibitor, platelet function testing has not been that useful in adjusting treatment and influencing outcomes.42 To minimize the risk of stent thrombosis, it is recommended that patients receiving a BMS take aspirin and a P2Y12 inhibitor for at least one month, and those receiving a DES take these medications for at least six months to one year.43"
+            },
+            {
+              "id": "4",
+              "title": "4. One should not consider either PCI or CABG an exclusive approach to a patient's CAD. For example, one hybrid approach is to perform a PCI of the culprit lesion causing a STEMI to achieve prompt myocardial salvage and then refer the patient for surgical revascularization of other lesions. If a patient does undergo PCI and urgent surgery is then recommended, a strategy must be devised to minimize the risk of stent thrombosis while minimizing the risk of perioperative bleeding. It has even been proposed that placing a LITA to the LAD in a patient with three‐vessel disease provides the essential long‐term benefit of a CABG and converts the patient's anatomy to two‐vessel disease which can be managed medically or with PCI.44,45 However, one study did suggest that the rate of mid‐term reinterventions rates was higher using a hybrid approach.46"
+            }
+          ]
+        },
+        {
+          "id": "F",
+          "title": "F. Preoperative considerations",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. A thorough history and physical examination is imperative when cardiac surgery is being contemplated. Whereas PCI specifically addresses the patient's cardiac issues with minimal impact on other organ systems except the kidneys, open‐heart surgery can produce a significant number of potential morbidities, especially in patients with pre‐existing problems, such as COPD, hepatic or renal dysfunction, cerebrovascular disease, diabetes, etc. Careful attention to and management of such issues prior to surgery may optimize surgical outcomes. These issues are discussed in detail in Chapter 3."
+            },
+            {
+              "id": "2",
+              "title": "2. Myocardial ischemia. Aggressive management of ongoing or potential ischemia is indicated in patients with critical coronary disease to reduce surgical risk. This may include adequate sedation and analgesia, anti‐ischemic medications to control heart rate and blood pressure (IV nitrates and β‐blockers), antiplatelet and anticoagulant medications (aspirin, P2Y12 inhibitors, heparin, GP IIb/IIIa inhibitors), and/or placement of an IABP for refractory ischemia. It cannot be overemphasized that just because a patient has been catheterized and accepted for surgery does not mean that medical care should not be aggressive up to the time of surgery! If the patient has persistent ischemia despite all of these measures, emergency surgery is mandatory.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. All antianginal medications should be continued up to and including the morning of surgery. Studies have demonstrated the benefit of preoperative β‐blocker therapy in lowering perioperative mortality in elective cardiac surgery patients, although this is probably limited to patients sustaining a remote infarction.47,48 Patients being admitted the morning of surgery should be reminded to take their medications before coming to the hospital."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Unfractionated heparin (UFH) is often used in patients with an ACS, left main coronary disease, or a preoperative IABP. The heparin may be stopped about four hours prior to surgery, but in patients at higher risk for ischemia, it may be continued up to the time of surgery without causing problems with central line insertion. Patients receiving heparin should have their platelet count rechecked daily to be vigilant for the development of heparin‐induced thrombocytopenia (HIT). Note that preoperative assessment for HIT antibodies is not indicated in the absence of a clinical indication."
+                },
+                {
+                  "id": "c",
+                  "title": "c. Low‐molecular‐weight heparin (LMWH) is often used in patients presenting with an ACS and may be used in the cath lab as well. It must be stopped at least 24 hours prior to surgery to minimize the risk of perioperative bleeding. The non‐vitamin K antagonist oral anticoagulants (NOACs) (dabigatran, apixaban, rivaroxaban, edoxaban) should be stopped 48 hours prior to surgery and probably longer in patients with renal dysfunction.49–51 Fondaparinux, occasionally used for venous thromboembolism prophylaxis, has a half‐life of 17–21 hours and must be stopped at least 60 hours prior to surgery."
+                },
+                {
+                  "id": "d",
+                  "title": "d. Aspirin is routinely used in patients with known coronary disease or is given upon presentation to the hospital. Aspirin 81 mg should be continued up to the time of surgery for virtually all patients undergoing CABG, since most studies have demonstrated improved outcomes without a significant increase in the risk of bleeding.52–55"
+                },
+                {
+                  "id": "e",
+                  "title": "e. Preoperative use of P2Y12 inhibitors within a few days of surgery has been shown to significantly increase the risk of bleeding and re‐exploration for bleeding. Thus, it has been recommended that clopidogrel and ticagrelor be stopped for five days and prasugrel for seven days before elective surgery.55 Stopping the medication for only three days may be acceptable prior to off‐pump surgery.56 Platelet aggregation testing, more so than the duration of cessation prior to surgery, may dictate when surgery can be performed with a lower risk of bleeding.28,29",
+                  "subsections": [
+                    {
+                      "id": "i",
+                      "title": "i. In some cases, emergency balloon angioplasty and potential stenting of a culprit lesion causing an evolving infarction may be performed, with subsequent referral for urgent surgery to achieve complete revascularization. In this situation, it is preferable to use a short‐acting platelet inhibitor as a bridge to surgery to minimize the risk of stent thrombosis. IV cangrelor is preferable as it has a half‐life of 3–6 minutes and need be stopped only 1–2 hours before surgery.57 Alternatively, a GP IIb/IIIa inhibitor can be used and should be stopped four hours prior to surgery so that by the time surgery starts, 80% of platelet activity will have recovered."
+                    },
+                    {
+                      "id": "ii",
+                      "title": "ii. In patients requiring surgery who have had prior stenting (<1 month for a BMS and 6–12 months for a DES), there is an increased risk of stent thrombosis if the P2Y12 inhibitor is stopped. P2Y12 reaction units (PRU) testing may indicate the patient's sensitivity to the drug. It is best to avoid operating if the PRU suggests >30% inhibition. In the absence of such testing, stopping the medication for three days may leave some residual protective antiplatelet activity, yet hopefully cause less intraoperative bleeding."
+                    }
+                  ]
+                },
+                {
+                  "id": "f",
+                  "title": "f. Anemia is associated with worse clinical outcomes after surgery, but this may be related to its association with other risk factors, such as HF or chronic kidney disease. In fact, it has been reported that blood transfusions have a greater impact on risk‐adjusted morbidity and mortality than the anemia itself.58–61",
+                  "subsections": [
+                    {
+                      "id": "i",
+                      "title": "i. Most hospitalized patients suffer from hospital‐acquired anemia, which results from repeated blood withdrawal for lab tests as well as the blood loss and hydration during a catheterization procedure. Guidelines recommend transfusion for a hemoglobin (Hb) <8 g/dL in patients with an ACS, although hemodynamically unstable patients may benefit from a Hb level between 8 and 10 g/dL.58,61"
+                    },
+                    {
+                      "id": "ii",
+                      "title": "ii. Even in the stable patient awaiting surgery, it is not unreasonable to give a blood transfusion prior to surgery if the anticipated hematocrit (HCT) on pump will be <20%. Low hematocrits on pump will lower oncotic pressure and viscosity, increase fluid requirements, which contributes to extracellular edema, and make it more difficult to maintain an adequate blood pressure during and after cardiopulmonary bypass (CPB). A HCT below 20% has been associated with an increased risk of renal dysfunction, stroke, ischemic optic neuropathy, and mortality. Patients with profound anemia during surgery also tend to bleed more and require more blood component transfusions. Thus, preoperative transfusion to an adequate level may be considered to reduce patient morbidity, possibly reduce the overall number of transfusions required intra‐ and postoperatively, and potentially decrease mortality."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "3. Other preoperative medications to be considered include the following:",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Amiodarone is beneficial in reducing the incidence of postoperative atrial fibrillation (AF). Protocols that initiate amiodarone prior or during surgery have been utilized successfully (see pages 623–624 in Chapter 11).62"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Statins have been demonstrated to reduce operative mortality, the risks of stroke, delirium, AF, and arguably the risk of acute kidney injury.63–66"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Steroids have been evaluated as a means of reducing the systemic inflammatory response to surgery and have been shown to improve myocardial function and possibly reduce the incidence of AF.67 However, improvement in pulmonary function has not been clearly shown, and steroids do worsen postoperative hyperglycemia. Since the benefits are controversial, steroids have not seen widespread usage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "G",
+          "title": "G. Surgical procedures",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Traditional coronary artery bypass grafting is performed through a median sternotomy incision with use of CPB. Myocardial preservation is provided by cardioplegic arrest. The procedure involves bypassing the coronary blockages with a variety of conduits. The left internal thoracic (or mammary) artery (ITA) is usually used as a pedicled graft to the LAD and is supplemented by either a second ITA graft or radial artery graft to the left system and/or saphenous vein grafts interposed between the aorta and the coronary arteries (Figure 1.1).",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. The saphenous vein should be harvested endoscopically to minimize patient discomfort, reduce the incidence of leg edema and wound healing problems, and optimize cosmesis. There are some concerns that endoscopic harvesting could produce endothelial damage that might compromise long‐term patency and reduce long‐term survival, but with more experience, this has not been found to be an issue.68–70"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Use of additional arterial conduits (bilateral ITAs, radial artery) can be recommended to improve event‐free survival.71–73 The radial artery can be harvested endoscopically using a tourniquet to minimize bleeding during the harvest with placement of a drain afterward to prevent blood accumulation within the tract. With radial artery grafting, use of a topical vasodilator, such as a combination of verapamil‐nitroglycerin, is useful in minimizing spasm.74 The STS guidelines suggest use of a systemic vasodilator during surgery, and IV diltiazem 0.1 mg/kg/h (usually 5–10 mg/h) or IV nitroglycerin 10–20 μg/min (0.1–0.2 μg/kg/min) are commonly used.71 This is continued in the intensive care unit and then converted to either amlodipine 5 mg po qd or Imdur 20 mg po qd for several months. The purported benefit of such pharmacologic management to prevent spasm has been indicated.75 2. Concerns about the adverse effects of CPB spurred the development of 'off‐pump' coronary surgery (OPCAB), during which complete revascularization should be achieved with the avoidance of CPB. Deep pericardial sutures and various retraction devices are used to position the heart for grafting without hemodynamic compromise. A stabilizing platform minimizes movement at the site of the arteriotomy (Figure 1.2). Intracoronary or aortocoronary shunting can minimize ischemia after an arteriotomy is performed. universally accepted, although not rigorously studied, and routine use may not be"
+                }
+              ],
+              "figures": [
+                {
+                  "id": "Figure 1.1",
+                  "description": "Coronary artery bypass grafting. A left internal thoracic artery (LITA) has been placed to the left anterior descending (LAD) artery with aortocoronary saphenous vein grafts (SVG) to the circumflex marginal and right coronary arteries.",
+                  "file": "_page_11_Picture_6.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "2. Concerns about the adverse effects of CPB spurred the development of 'off‐pump' coronary surgery (OPCAB), during which complete revascularization should be achieved with the avoidance of CPB. Deep pericardial sutures and various retraction devices are used to position the heart for grafting without hemodynamic compromise. A stabilizing platform minimizes movement at the site of the arteriotomy (Figure 1.2). Intracoronary or aortocoronary shunting can minimize ischemia after an arteriotomy is performed.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Conversion to on‐pump surgery may be necessary in the following circumstances:",
+                  "subsections": [
+                    {
+                      "id": "i",
+                      "title": "i. Coronary arteries are very small, severely diseased, or intramyocardial."
+                    },
+                    {
+                      "id": "ii",
+                      "title": "ii. LV function is very poor, or there is severe cardiomegaly or hypertrophy that precludes adequate cardiac translocation without hemodynamic compromise or arrhythmias."
+                    },
+                    {
+                      "id": "iii",
+                      "title": "iii. The heart is extremely small and vertical in orientation."
+                    },
+                    {
+                      "id": "iv",
+                      "title": "iv. Uncontrollable ischemia or arrhythmias develop with vessel occlusion that persists despite distal shunting."
+                    },
+                    {
+                      "id": "v",
+                      "title": "v. Intractable bleeding occurs that cannot be controlled with vessel loops or an intracoronary shunt."
+                    }
+                  ]
+                },
+                {
+                  "id": "b",
+                  "title": "b. OPCABs reduce transfusion requirements and the incidence of AF, but whether there is a reduction in the risk of stroke and renal dysfunction remains controversial.76 OPCABs generally result in fewer grafts being placed, resulting in more incomplete revascularization and more repeat revascularization. Numerous long‐term follow‐up studies have shown inferior survival to on‐pump surgery.77–79 Enthusiasm for this technique is modest, and it is estimated that less than 20% of CABGs are performed off‐pump. One randomized trial did show better outcomes with OPCABs when performed for a STEMI within six hours from the onset of symptoms or for patients in cardiogenic shock,80 but most surgeons reserve its use for patients with limited disease. Its major advantage may be in the very high‐risk patient with multiple comorbidities in whom it is critical to avoid CPB."
+                },
+                {
+                  "id": "c",
+                  "title": "c. In some patients with severe ventricular dysfunction, the heart will not tolerate the manipulation required during off‐pump surgery. In this circumstance, right ventricular (RV) assist devices can be used to improve hemodynamics. Alternatively, surgery can be done on‐pump on an empty beating heart to avoid the period of cardioplegic arrest. This technique may be beneficial in patients with ascending aortic disease that prevents safe aortic cross‐clamping, but does allow for safe cannulation and use of an aortic punch, such as the Heartstring proximal seal system (MAQUET Cardiovascular), to perform the proximal anastomoses."
+                }
+              ],
+              "figures": [
+                {
+                  "id": "Figure 1.2",
+                  "description": "Off‐pump bypass grafting requires displacement of the heart using techniques to avoid hemodynamic compromise. These may include placement and elevation of deep pericardial sutures or the use of an apical suction device. A stabilizing device is used to minimize motion and a proximal vessel loop is placed to minimize bleeding at the site of the anastomosis.",
+                  "file": "_page_12_Picture_9.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "3. Minimally invasive direct coronary artery bypass (MIDCAB) involves bypassing the LAD with the LITA without use of CPB via a short left anterior thoracotomy incision. Bilateral ITAs can be harvested under direct vision and an additional incision is made in the right chest to bypass the right coronary artery.81,82 Combining an LITA to the LAD with stenting of other vessels ('hybrid' procedure) has also been described. A meta‐analysis of the MIDCAB procedure found a lower risk of repeat revascularization compared with PCI of the LAD.83"
+            },
+            {
+              "id": "4",
+              "title": "4. Robotic or totally endoscopic coronary artery bypass (TECAB) can be used to minimize the extent of the surgical incisions and reduce trauma to the patient. Robotics can be used for both ITA takedown and grafting to selected vessels through small ports.84 These procedures can be done without CPB or using CPB with femoral cannulation. Generally, TECAB is used for limited grafting, but wider applicability is certainly feasible. Anesthetic concerns during this procedure are discussed in Chapter 4, pages 265–266."
+            },
+            {
+              "id": "5",
+              "title": "5. Transmyocardial revascularization (TMR) is a technique in which laser channels are drilled in the heart with CO2 or holmium‐YAG lasers to improve myocardial perfusion. Although the channels occlude within a few days, the inflammatory reaction created induces neoangiogenesis that may be associated with upregulation of various growth factors, such as vascular endothelial growth factor. This procedure is most commonly used as adjunct to CABG in viable regions of the heart where bypass grafts cannot be placed.85,86 It can also be used as a sole procedure performed through a left thoracotomy or thoracoscopically for patients with inoperable CAD in regions of viable myocardium.87 TMR has a level IIb indication to improve symptoms and may be reasonable to consider in patients with viable ischemic myocardium in areas that cannot be grafted.5"
+            }
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "id": "Figure 1.1",
+          "description": "Coronary artery bypass grafting. A left internal thoracic artery (LITA) has been placed to the left anterior descending (LAD) artery with aortocoronary saphenous vein grafts (SVG) to the circumflex marginal and right coronary arteries.",
+          "file": "_page_11_Picture_6.jpeg"
+        },
+        {
+          "id": "Figure 1.2",
+          "description": "Off‐pump bypass grafting requires displacement of the heart using techniques to avoid hemodynamic compromise. These may include placement and elevation of deep pericardial sutures or the use of an apical suction device. A stabilizing device is used to minimize motion and a proximal vessel loop is placed to minimize bleeding at the site of the anastomosis.",
+          "file": "_page_12_Picture_9.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "II",
+      "title": "II. Left Ventricular Aneurysm",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "A. Pathophysiology. Occlusion of a major coronary artery may produce extensive transmural necrosis, which converts muscle into thin scar tissue. This results in formation of a left ventricular aneurysm (LVA) which exhibits dyskinesia during ventricular systole. Most LVAs occur in the anteroapical region due to occlusion of the LAD without collateralization, and are more likely to form in the absence of a patent infarct‐related vessel. In contrast, early reperfusion of an occluded vessel by PCI or thrombolytic therapy may limit the extent of myocardial damage with preservation of epicardial viability, resulting in an area of akinesia. This will result in an ischemic cardiomyopathy with a dilated ventricle that remodels with altered spherical geometry but does not produce an aneurysm."
+        },
+        {
+          "id": "B",
+          "title": "B. Presentation. The most common presentation of an LVA associated with an ischemic cardiomyopathy is heart failure (HF) due to systolic dysfunction. With LVAs, there is a reduction of forward stroke volume caused by geometric remodeling of the aneurysmal segment due to loss of contractile tissue and an increase in ventricular dimensions. This results in an increase in wall stiffness and an increase in the LV end‐diastolic pressures. Angina may also occur due to the increased systolic wall stress of a dilated ventricle and the presence of multivessel CAD. Systemic thromboembolism may result from thrombus formation within the dyskinetic or akinetic segment, with thrombus being noted in over 50% of cases. Malignant ventricular arrhythmias or sudden death may result from either enhanced automaticity or triggered activity related to myocardial ischemia and increased myocardial stretch, or to the development of a macroreentry circuit at the border zone between scar tissue and viable myocardium."
+        },
+        {
+          "id": "C",
+          "title": "C. Indications for surgery. Surgery is usually not indicated for the patient with an asymptomatic aneurysm, because of its favorable natural history. This is in contrast to the unpredictable prognosis and absolute indication for surgery in a patient with a false aneurysm, which is caused by a contained rupture of the ventricular muscle. Surgery may be beneficial in the asymptomatic or mildly symptomatic patient with significant volume overload causing LV dilatation and reduced ventricular function prior to the development of advanced HF symptoms. It may also be considered where there is extensive clot formation present within the aneurysm. However, surgery is most commonly indicated to improve symptoms and prolong survival when one of the four clinical syndromes (angina, HF, embolization, or arrhythmias) is present. Arrhythmias may be treated by a nonguided endocardial resection through the aneurysm with/without cryosurgery along with subsequent placement of a transvenous implantable cardioverter‐defibrillator (ICD)."
+        },
+        {
+          "id": "D",
           "title": "D. Preoperative considerations",
-          "level": 3,
-          "anchor": "preoperative-considerations",
-          "parent": "class-iib-indication-surgery-may-be-considered"
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Echocardiography is best for assessing ventricular size and dimensions, wall motion of the noninfarcted segments, the presence of thrombus, and mitral valve function, which is often abnormal with dilated cardiomyopathies. Biplane left ventriculography is helpful in identifying regions of akinesia and dyskinesia and assessing the function of noninfarcted segments. Cardiac CT angiography or cardiovascular magnetic resonance imaging (CT‐MRI) are also helpful in making the diagnosis, and the latter can also be used to assess myocardial viability.88"
+            },
+            {
+              "id": "2",
+              "title": "2. Patients with LVAs with LV dysfunction are usually managed with an ACE inhibitor and ß‐blocker. Anticoagulation may also be given during the early postinfarction period, but may not be necessary in chronic aneurysms with thrombus due to the low risk of embolism.89 If the patient remains on warfarin, bridging to surgery with heparin can be recommended."
+            }
+          ]
+        },
+        {
+          "id": "E",
+          "title": "E. Surgical procedures",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Standard aneurysmectomy ('linear repair') entails a ventriculotomy through the aneurysm, resection of the aneurysm wall, including part of the septum if involved, and linear closure over felt strips (Figure 1.3).90,91",
+              "figures": [
+                {
+                  "id": "Figure 1.3",
+                  "description": "Repair of a left ventricular aneurysm (LVA) using the linear closure technique. (A) The thinned‐out scar tissue is opened and partially resected. Any LV thrombus is removed. (B) The aneurysm is then closed with mattress sutures over felt strips. (C) An additional over‐and‐over suture is placed over a third felt strip. (D) Cross‐section of the final repair.",
+                  "file": "_page_15_Picture_2.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "2. Endoventricular reconstruction techniques are applicable to large aneurysms or akinetic segments with the intent of reducing ventricular volume and restoring an elliptical shape.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. The 'endoaneurysmorrhaphy' technique is used for large aneurysms. A pericardial or Dacron patch is sewn to the edges of viable myocardium at the base of the aneurysm and the aneurysm wall is reapproximated over the patch (Figure 1.4). This preserves LV geometry and improves ventricular function to a greater degree than the line ar closure method."
+                },
+                {
+                  "id": "b",
+                  "title": "b. A slightly more elaborate endoventricular reconstruction involves the endoventricular circular patch plasty technique of Dor, which is termed 'surgical ventricular restoration' (SVR). This can be applied to LVAs as well as cases of ischemic cardiomyopathy with anterior akinesis (Figure 1.4D).92,93 The procedure involves placement of an encircling suture at the junction of the contracting and noncontracting segments, and then exclusion of the noncontracting segment with a patch. This produces an elliptical contour of the heart and results in significant improvement in ventricular size and function. This procedure is generally done on a beating heart to allow for better differentiation of akinetic and normal segments of the heart."
+                },
+                {
+                  "id": "c",
+                  "title": "c. Although SVR is associated with a reduction in LV volume, clinical improvement is not uniform. Several studies have suggested that the addition of SVR to a CABG improves clinical status and long‐term survival.94–96 However, the STICH trial of patients with CAD‐related anterior akinesia or dyskinesia with an EF <35% was unable to demonstrate that reduction in LV size was associated with an improvement in symptoms or a reduction in mortality after four years.97"
+                }
+              ],
+              "figures": [
+                {
+                  "id": "Figure 1.4",
+                  "description": "Repair of a LVA using the endoaneurysmorrhaphy technique. (A, B) A pericardial patch is sewn at the base of the defect at the junction of the scar and normal myocardium to better preserve ventricular geometry. The resected edges of the LV are closed in a similar fashion to the linear technique. (C) Cross‐section of the final repair. (D) The Dor procedure is a modification of this technique in which a circumferential pursestring suture is placed at the base of the defect to restore a normal orientation to the ventricle. A patch is then sewn over the defect.",
+                  "file": "_page_16_Picture_2.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "3. For patients with recurrent ventricular tachycardia, an endocardial resection with or without endocardial mapping may be performed with good results.98,99"
+            },
+            {
+              "id": "4",
+              "title": "4. Coronary bypass grafting of critically diseased vessels should be performed. Bypass of the LAD and diagonal arteries should be considered if septal reperfusion can be accomplished."
+            },
+            {
+              "id": "5",
+              "title": "5. A mitral valve procedure is also indicated if the severity of MR is 2+ or greater. MR is usually related to apical tethering of the leaflets due to ventricular dilatation or may result from annular dilatation. Mitral valve repair with a complete annuloplasty ring may be successful when performed with ventricular restoration."
+            }
+          ]
+        }
+      ],
+      "figures": [
+        {
+          "id": "Figure 1.3",
+          "description": "Repair of a left ventricular aneurysm (LVA) using the linear closure technique. (A) The thinned‐out scar tissue is opened and partially resected. Any LV thrombus is removed. (B) The aneurysm is then closed with mattress sutures over felt strips. (C) An additional over‐and‐over suture is placed over a third felt strip. (D) Cross‐section of the final repair.",
+          "file": "_page_15_Picture_2.jpeg"
+        },
+        {
+          "id": "Figure 1.4",
+          "description": "Repair of a LVA using the endoaneurysmorrhaphy technique. (A, B) A pericardial patch is sewn at the base of the defect at the junction of the scar and normal myocardium to better preserve ventricular geometry. The resected edges of the LV are closed in a similar fashion to the linear technique. (C) Cross‐section of the final repair. (D) The Dor procedure is a modification of this technique in which a circumferential pursestring suture is placed at the base of the defect to restore a normal orientation to the ventricle. A patch is then sewn over the defect.",
+          "file": "_page_16_Picture_2.jpeg"
         }
       ]
     },
     {
-      "id": "preoperative-considerations",
-      "title": "E. Preoperative considerations",
-      "level": 2,
-      "anchor": "preoperative-considerations",
-      "subsections": []
-    },
-    {
-      "id": "other-comments",
-      "title": "G. Other comments",
-      "level": 2,
-      "anchor": "other-comments",
+      "id": "III",
+      "title": "III. Ventricular Septal Rupture",
       "subsections": [
         {
-          "id": "surgical-procedures",
-          "title": "I. Surgical procedures",
-          "level": 3,
-          "anchor": "surgical-procedures",
-          "parent": "other-comments"
+          "id": "A",
+          "title": "A. Pathophysiology. Extensive myocardial damage subsequent to occlusion of a major coronary vessel may result in septal necrosis and rupture. This usually occurs within the first week of an infarction, more commonly in the anteroapical region (from occlusion of the LAD artery), and less commonly in the inferior wall (usually from occlusion of the right coronary artery). It is noted in less than 1% of acute MIs, and the incidence has declined because of early reperfusion therapy for STEMIs. The presence of a ventricular septal defect (VSD) is suggested by the presence of a loud holosystolic murmur that reflects the left‐to‐right shunting across the ruptured septum. The patient usually develops acute pulmonary edema and cardiogenic shock from the left‐to‐right shunt.100"
+        },
+        {
+          "id": "B",
+          "title": "B. Indications for surgery. Surgery is indicated on an emergency basis for nearly all postinfarction VSDs to prevent the development of progressive multisystem organ failure. A report from the STS database in 2012 noted an operative mortality rate of 54% if surgery was performed within seven days of an infarction, usually because the patient was hemodynamically unstable and often in cardiogenic shock. For surgery performed after seven days, the mortality rate decreased to 18.4%, most likely because these patients were more hemodynamically stable, had smaller VSDs and <2:1 shunts, and were naturally selected to have survived long enough to survive subsequent lower‐risk surgery.101 Risk factors for operative mortality included preoperative dialysis, older age, female gender, cardiogenic shock, use of an IABP, moderate–severe MR, redo operation, and emergency status.102"
+        },
+        {
+          "id": "C",
+          "title": "C. Preoperative considerations",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Prompt diagnosis can be made using a Swan‐Ganz catheter, which detects a step‐ up of oxygen saturation in the RV. Two‐dimensional (2D) echocardiography can confirm the diagnosis of a VSD and differentiate it from acute MR, which can produce a similar clinical scenario."
+            },
+            {
+              "id": "2",
+              "title": "2. Inotropic support and reduction of afterload, usually with an IABP, are indicated in virtually all patients with VSDs in anticipation of emergent cardiac catheterization and surgery."
+            },
+            {
+              "id": "3",
+              "title": "3. Cardiac catheterization with coronary angiography should be performed to confirm the severity of the shunt and to identify associated CAD."
+            }
+          ]
+        },
+        {
+          "id": "D",
+          "title": "D. Surgical procedures",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. The traditional surgical treatment for postinfarct VSDs had been the performance of a ventriculotomy through the infarcted zone, resection of the area of septal necrosis, and Teflon felt or pericardial patching of the septum and free wall. This technique required transmural suturing and was prone to recurrence."
+            },
+            {
+              "id": "2",
+              "title": "2. The preferred approach is to perform circumferential pericardial patching around the border of the infarcted ventricular muscle. This technique excludes the infarcted septum to eliminate the shunt and reduces recurrence rates, because suturing is performed to viable myocardium away from the area of necrosis (Figure 1.5).103",
+              "figures": [
+                {
+                  "id": "Figure 1.5",
+                  "description": "Closure of a postinfarction ventricular septal defect (VSD) using the exclusion technique. (A) Anterior VSD. (B) Inferior VSD. The pericardial patch is anchored to viable myocardium away from the site of the defect, thus eliminating shunt flow across the septal defect. (Reproduced with permission from David et al., Semin Thorac Cardiovasc Surg 1998;10:105–10.)103",
+                  "file": "_page_18_Picture_5.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "3. Coronary bypass grafting of critically diseased vessels should be performed. Early studies suggested this improved short‐ and long‐term survival after surgery, but more recent data from the STS database did not corroborate this.101,104"
+            },
+            {
+              "id": "4",
+              "title": "4. Consideration may be given to percutaneous VSD closure with the Amplatzer VSD closure device in patients with smaller VSDs or prohibitive surgical risks.105 Use of MCS may also be considered in patients in cardiogenic shock to improve hemodynamics and organ system function, allowing for a lower‐risk nonemergency procedure at a future date."
+            }
+          ],
+          "figures": [
+            {
+              "id": "Figure 1.5",
+              "description": "Closure of a postinfarction ventricular septal defect (VSD) using the exclusion technique. (A) Anterior VSD. (B) Inferior VSD. The pericardial patch is anchored to viable myocardium away from the site of the defect, thus eliminating shunt flow across the septal defect. (Reproduced with permission from David et al., Semin Thorac Cardiovasc Surg 1998;10:105–10.)103",
+              "file": "_page_18_Picture_5.jpeg"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "b-class-iia",
-      "title": "b. Class IIa",
-      "level": 2,
-      "anchor": "b-class-iia",
-      "subsections": []
-    },
-    {
-      "id": "surgical-procedures",
-      "title": "F. Surgical procedures",
-      "level": 2,
-      "anchor": "surgical-procedures",
-      "subsections": []
-    },
-    {
-      "id": "indications-for-surgery",
-      "title": "C. Indications for surgery",
-      "level": 2,
-      "anchor": "indications-for-surgery",
-      "subsections": []
-    },
-    {
-      "id": "preoperative-considerations-and-diagnostic-testing",
-      "title": "D. Preoperative considerations and diagnostic testing",
-      "level": 2,
-      "anchor": "preoperative-considerations-and-diagnostic-testing",
+      "id": "IV",
+      "title": "IV. Aortic Stenosis",
       "subsections": [
         {
-          "id": "type-b-dissections",
-          "title": "2. Type B dissections",
-          "level": 3,
-          "anchor": "type-b-dissections",
-          "parent": "preoperative-considerations-and-diagnostic-testing"
+          "id": "A",
+          "title": "A. Pathophysiology. Aortic stenosis (AS) results from thickening, calcification, and/or fusion of the aortic valve leaflets, which produce an obstruction to LV outflow.106,107 In younger patients, AS usually develops on congenitally bicuspid valves, whereas in older patients, degenerative change in trileaflet valves is more common. Aortic sclerosis is a very common finding in elderly patients, and may be a manifestation of atherosclerosis, but usually does not progress to AS. Progression of AS may be related to endothelial cell activation and atherogenesis, as it is associated with the presence of cardiac risk factors, including hypertension, hyperlipidemia, and diabetes, but it has not been shown that statins or other medical therapy will slow the progression of degenerative AS.108,109",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. The impairment to cusp opening leads to pressure overload, compensatory left ventricular hypertrophy (LVH), and reduced ventricular compliance. The development of LVH maintains normal wall stress and a normal EF."
+            },
+            {
+              "id": "2",
+              "title": "2. If the increase in wall thickness does not increase in proportion to the rise in intraventricular pressure, wall stress will increase and EF will fall. It is important to assess whether a reduced EF in patients with severe AS is the result of excessive afterload (i.e. inadequate hypertrophy to overcome the obstruction) or depressed contractility. If the latter is present, surgical risk is higher."
+            },
+            {
+              "id": "3",
+              "title": "3. In patients with excessive and inappropriate degrees of LVH, wall stress is low and the heart will become hyperdynamic with a very high EF. This finding portends a worse prognosis after surgical correction.110"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "title": "B. Symptoms. The classic symptoms associated with AS are angina, shortness of breath, and syncope. However, fatigue with limited activity appears to be one of the first symptoms described by most patients.",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Angina may result from the increased myocardial oxygen demand caused by increased wall stress, from reduction in blood supply per gram of hypertrophied tissue, and/or from limited coronary vasodilator reserve. Hypertrophied hearts are more sensitive to ischemic injury, and exercise may induce subendocardial ischemia, inducing systolic or diastolic dysfunction. Thus, angina may occur with or without concomitant epicardial CAD."
+            },
+            {
+              "id": "2",
+              "title": "2. Congestive HF results from elevation of filling pressures (LV end‐diastolic pressure) with diastolic dysfunction and eventually by progressive decline in LV systolic function. This results in progressively worsening dyspnea on exertion."
+            },
+            {
+              "id": "3",
+              "title": "3. Cardiac output is relatively fixed across the valve orifice and can lead to faintness, dizziness, or frank syncope in the face of peripheral vasodilation."
+            },
+            {
+              "id": "4",
+              "title": "4. Palpitations may occur with the occurrence of AF, which, if persistent, leads to clinical deterioration, because the hypertrophied ventricle relies on atrial contraction to maintain a satisfactory stroke volume."
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "title": "C. Diagnosis. Most patients do not become symptomatic until the degree of AS becomes severe (Table 1.1). The severity of AS is preferentially assessed by Doppler echocardiography, wi...(truncated 150650 characters)... or rupture.328–330 It is also reasonable for chronic dissections with arch enlargement and distal arch aneurysms extending into the descending thoracic aorta. Note that the presence of an arch tear with ascending aortic involvement mandates surgery, but medical therapy can be considered if the ascending aorta is not involved.335 ∙ Isolated degenerative or atherosclerotic aneurysms >5.5 cm in diameter.",
+          "tables": [
+            {
+              "id": "Table 1.1",
+              "title": "Stages of Aortic Stenosis",
+              "content": "Stage A: At risk for AS Stage B: Progressive AS Stage C: Asymptomatic severe AS (with AVA <1 cm2) C1: Asymptomatic with mean gradient >40 mm Hg C2: Asymptomatic with LV dysfunction Stage D: Symptomatic severe AS (with AVA <1 cm2) D1: Symptomatic with high‐gradient AS D2: Symptomatic with severe low flow/low gradient AS with reduced LVEF D3: Symptomatic with severe low flow/low gradient AS with normal LVEF (paradoxical low flow)106"
+            },
+            {
+              "id": "Table 1.2",
+              "title": "Echocardiographic Assessment of the Severity of Aortic Stenosis",
+              "headers": ["Indicator", "Mild", "Moderate", "Severe"],
+              "rows": [
+                ["Jet velocity (m/s)", "<3.0", "3.0–4.0", ">4.0"],
+                ["Mean gradient (mm Hg)", "<25", "25–40", ">40"],
+                ["Aortic valve area (cm2)", ">1.5", "1.0–1.5", "<1.0"]
+              ],
+              "additional_rows": [
+                "Aortic valve area index (cm2/m2) <0.6",
+                "Dimensionless index <0.25"
+              ]
+            }
+          ],
+          "figures": [
+            {
+              "id": "Figure 1.25",
+              "description": "Crawford classification of thoracoabdominal aneurysms.",
+              "file": "_page_77_Picture_2.jpeg"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "thoracic-aortic-aneurysms",
-      "title": "XII. Thoracic Aortic Aneurysms",
-      "level": 2,
-      "anchor": "thoracic-aortic-aneurysms",
-      "subsections": []
+      "id": "XIII",
+      "title": "XIII. Atrial Fibrillation",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "A. Pathophysiology188",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Atrial fibrillation (AF) results from the presence of multiple reentrant circuits that prevent the synchronous activation of adequate atrial tissue to generate mechanical contraction. Focal triggers promote sustained reentry. Atrial distention may predispose to this arrhythmia, which then promotes progressive atrial dilatation and remodeling, leading to permanent AF. AF can lead to:",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Loss of atrioventricular (AV) synchrony, which reduces ventricular filling and stroke volume. This can produce dizziness, fatigue, and shortness of breath, especially in hypertrophied hearts and when the ventricular rate is high."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Thrombus formation in the left atrial appendage with a predisposition to thromboembolism and stroke"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Symptoms of an irregular heartbeat (palpitations)"
+                },
+                {
+                  "id": "d",
+                  "title": "d. A cardiomyopathy if the rate is not controlled"
+                },
+                {
+                  "id": "e",
+                  "title": "e. Long‐term cognitive dysfunction"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "2. AF may occur as an isolated entity ('lone AF') in patients with no structural heart disease or in patients with underlying heart disease. It is more common in older patients and those with hypertension, valvular heart disease, or coronary disease. It is categorized as:",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Paroxysmal: recurrent AF (two or more episodes) that terminates spontaneously or with an intervention within seven days. In these patients, the atrial foci that serve as the trigger are usually located in the tissue surrounding the pulmonary veins as they enter the left atrium."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Persistent: lasts >7 days and responds to pharmacologic or electrical cardioversion. The reentrant circuits usually originate in the left atrium."
+                },
+                {
+                  "id": "c",
+                  "title": "c. Long‐standing persistent or permanent: fails to respond to medications or cardioversion and lasts over one year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "title": "B. Management considerations and indications for surgery",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. AF is managed with medications to control the ventricular rate (β‐blockers, calcium channel blockers, amiodarone), potentially convert the patient to sinus rhythm, and prevent thromboembolism (warfarin or a non-vitamin K antagonist oral anticoagulant [NOAC]). When surgery is being considered, rate-control medications should be continued up to the time of surgery. NOACs should be stopped 36–48 hours prior to surgery and warfarin should be stopped five days prior to surgery. Bridging anticoagulation is indicated in patients at high risk for embolic stroke, including those with a CHA2DS2-VASc score ≥5 (see Appendix 10 A), stroke or systemic embolism within three months, or rheumatic MS."
+            },
+            {
+              "id": "2",
+              "title": "2. When the ventricular rate cannot be controlled, symptoms are disabling, or anticoagulation cannot be tolerated or is not desirable, an ablative procedure should be considered. Catheter ablations are very successful in ablating paroxysmal AF arising from the pulmonary veins, and with adequate mapping, reasonable success (60%) can be achieved in patients with persistent AF. In patients with long-standing persistent AF in whom anticoagulation is high risk or not desirable, a transcatheter procedure to exclude the left atrial appendage (Watchman device, Lariat) can be considered (Figure 1.27). This may allow the patient to be off long‐term anticoagulation, although a short course of warfarin is indicated after placement of a Watchman device.",
+              "figures": [
+                {
+                  "id": "Figure 1.27",
+                  "description": "The Watchman device is positioned at the orifice of the left atrial appendage to prevent formation of left atrial appendage thrombus. It endothelializes fairly quickly, but short-term use of warfarin is recommended. (Image courtesy of Boston Scientific Corporation (A), http://azheartrhythmcenter.com/resources/procedure-instructions/watchman-device/ (B).)",
+                  "file": "_page_81_Picture_5.jpeg _page_81_Picture_6.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "3. The ability to restore sinus rhythm with an ablation performed as a stand‐alone procedure or during concomitant cardiac surgery improves symptoms, quality of life, and long‐term survival, and may reduce the incidence of stroke.376 Stroke risk is also reduced by more than 50% simply by excluding the left atrial appendage without performance of an ablation procedure. Numerous societies have provided recommendations for ablative procedures. The 2017 STS practice guidelines make the following recommendations for surgical ablation:188",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Class I As a concomitant procedure during CABG, aortic, or mitral valve surgery."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Class IIa ∙ As a stand‐alone procedure for symptomatic AF in the absence of structural heart disease that is refractory to class I/III antiarrhythmic drugs or catheter ablation. ∙ As a stand‐alone Cox‐Maze IV procedure for symptomatic persistent or long‐standing AF in the absence of structural heart disease. ∙ Left atrial appendage excision during surgical ablation or without ablation in the patient undergoing other cardiac operations."
+                }
+              ]
+            }
+          ],
+          "figures": [
+            {
+              "id": "Figure 1.27",
+              "description": "The Watchman device is positioned at the orifice of the left atrial appendage to prevent formation of left atrial appendage thrombus. It endothelializes fairly quickly, but short-term use of warfarin is recommended. (Image courtesy of Boston Scientific Corporation (A), http://azheartrhythmcenter.com/resources/procedure-instructions/watchman-device/ (B).)",
+              "file": "_page_81_Picture_5.jpeg _page_81_Picture_6.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "title": "C. Surgical procedures",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. In 1987, Cox designed a technically complex 'cut‐and‐sew' operation called the 'Maze' procedure that was designed to ablate AF, restore AV synchrony, and preserve atrial transport function. Subsequent iterations led to the Cox‐Maze III operation, which included incisions that not only interrupted the microreentrant circuits but also allowed the sinus node to function, and directed propagation of the sinus impulse through both atria. AF was eliminated in about 90% of patients, but about 10% of patients required pacemakers."
+            },
+            {
+              "id": "2",
+              "title": "2. Ablation technologies, primarily using cryoablation and radiofrequency, have been developed to mimic the suture lines of the Cox‐Maze III lesion set, then called the Cox‐Maze IV.379–381 To achieve success, the lesions created must achieve transmurality.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Since the left atrium is usually the primary focus of reentry, a left‐sided Maze is most commonly performed, but most studies suggest that a biatrial Maze procedure is more successful in eliminating AF.382–384 However, it is associated with more bleeding and a higher rate of pacemaker implantation, related primarily to sinus node dysfunction.384"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Success rates are lower with large left atria, advanced patient age, and preexisting long durations of AF, although use of cryoablation rather than radiofrequency may mitigate failure rates.188,385,386 One study found that the two‐year risk of recurrence of AF was 20% greater for each one‐year increase in preoperative AF duration due to more advanced tissue remodeling.386 The likelihood of recurrence progressively increases when the left atrial size exceeds 5 cm.387"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Although these techniques have virtually completely supplanted the 'cut and sew' Maze, a comparative study found that they had higher failure rates.388"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "3. For patients with paroxysmal AF, bilateral pulmonary vein isolation (PVI) with obliteration of the left atrial appendage is usually successful. This can be achieved with endocardial catheter ablation, bilateral thoracoscopic approaches with epicardial ablation, or concomitantly with other cardiac operations. Bilateral PVI is more successful after AVR than mitral valve surgery, often because the left atrium is smaller.188"
+            },
+            {
+              "id": "4",
+              "title": "4. For patients with persistent AF undergoing mitral valve surgery, the optimal lesion set for surgical ablation is somewhat controversial. Meta‐analyses have suggested that freedom from AF is greater with a biatrial Maze than a left atrial Maze, but some studies found equivalent benefit.382–384,389,390 One study reported that the freedom from AF (about 60–65%) was comparable with bilateral PVI and biatrial Maze procedures, but the requirement for a permanent pacemaker was 21.5% with an ablation procedure.391 Although bilateral PVI is generally considered an inadequate operation for persistent AF, this report would seem to justify performing bilateral PVI with LA appendage excision during AVR or CABG, although better success rates can be achieved with a full left atrial Maze.392,393"
+            },
+            {
+              "id": "5",
+              "title": "5. Left atrial Maze. Persistent AF should generally be treated at a minimum by a left atrial Maze procedure (Figure 1.28). This is most commonly performed in association with mitral valve surgery, since 30–50% of these patients have preoperative AF.391 This procedure produces ablation lines that encircle and connect the right and left pulmonary veins ('box lesion'), and one that extends from the inferior pulmonary vein ablation line to the mitral valve annulus. The left atrial appendage is amputated and an ablation line is placed through the base of the appendage to the left pulmonary vein encircling line. Left atrial volume reduction may be helpful when the LA dimension exceeds 6 cm.394 Use of ganglionic plexi mapping and ablation with confirmation of conduction block by pacing may improve results.395 With use of radiofrequency ablation, the freedom from AF at two years with antiarrhythmic drugs (AAD) ranges from 65 to 85% and without drugs from 55 to 75%.380,381,388",
+              "figures": [
+                {
+                  "id": "Figure 1.28",
+                  "description": "The left‐sided Maze involves ablation lines that encircle and connect the right and left pulmonary veins and one that extends from the inferior box lesion near the right or left inferior pulmonary vein to the mitral valve annulus. The left atrial appendage is amputated and an additional ablation line is placed from the base of the appendage to the left pulmonary veins. The base of the left atrial appendage is then oversewn.",
+                  "file": "_page_83_Picture_2.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "title": "6. Right atrial Maze. The right‐sided maze includes amputation of the RA appendage (or an ablation line across its base) and an incision into the right atrium from the septum toward the AV groove. Through this incision, ablation lines are extended up the SVC and down to the IVC, across the fossa ovalis down to the coronary sinus, from the IVC to the coronary sinus, and from the sinus to the tricuspid annulus (isthmus lesions). Additional ablation lines extend from the anterior tricuspid leaflet to the base of the excised RA appendage and from the posterior tricuspid leaflet to the AV groove (Figure 1.29).",
+              "figures": [
+                {
+                  "id": "Figure 1.29",
+                  "description": "(A) The right‐sided Maze includes ablation of the base of the right atrial appendage and an incision in the right atrial wall through which multiple bipolar and unipolar ablation lines can be carried out. (B) Sites for endocardial ablation are shown by the dotted lines (see text).",
+                  "file": "_page_84_Picture_5.jpeg"
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "title": "7. Exclusion of the left atrial appendage (LAA) by resection and oversewing is an integral element of any Maze procedure.396 It has a level IIa indication in patients with AF undergoing a PVI or other cardiac procedure without an ablation.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Despite evidence that LAA resection significantly reduces the risk of thromboembolic stroke, the risk still persists even if sinus rhythm has been restored and there has been satisfactory obliteration of the LAA. One study found that, even with a return to sinus rhythm, lack of LA mechanical contraction was noted in 30% of patients after a Maze procedure and increased the risk of stroke fivefold. In addition, a large left atrium (LA volume index ≥33 mL/m2 ) increased the risk of stroke threefold. Therefore, it was recommended that anticoagulation should be utilized if either of these two findings was identified, even if sinus rhythm has been restored.397"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Resection of the LAA along with a Maze procedure has even been proposed for patients in sinus rhythm undergoing mitral valve surgery with a large left atrium or more than mild TR in whom there is an increased long‐term risk of developing AF.215 It is not clear if LAA resection alone can be justified for routine open‐heart operations just because of the 25% incidence of postoperative AF, which is usually self‐limited."
+                }
+              ]
+            },
+            {
+              "id": "8",
+              "title": "8. For patients with 'lone' persistent AF and indications for an ablation, minimally invasive surgical approaches are often considered when catheter ablation has failed. Among the various procedures that have been described are the following:",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Bilateral thoracoscopic approaches generally allow for epicardial PVI using radiofrequency ablation and resection of the left atrial appendage."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Dallas lesion set (Figure 1.30). This is an epicardial procedure performed through minimal access incisions that isolates and interconnects the pulmonary veins and places an ablation line from the left fibrous trigone across the dome of the left atrium to the base of the aortic valve, mimicking the mitral isthmus lesion of the left atrial Cox‐Maze III.398 Partial autonomic denervation and excision of the left atrial appendage can also be performed.399",
+                  "figures": [
+                    {
+                      "id": "Figure 1.30",
+                      "description": "Epicardial lesion set for a thoracoscopic approach to atrial fibrillation. Bilateral pulmonary vein isolation and a connecting lesion between the right‐ and left‐sided pulmonary veins are performed. In addition, a linear lesion over the dome of the left atrium is created extending from the left fibrous trigone at the anterior mitral valve annulus to the base of the junction of the left and noncoronary cusps to mimic the mitral isthmus lesion performed endocardially.",
+                      "file": "_page_85_Figure_7.jpeg"
+                    }
+                  ]
+                },
+                {
+                  "id": "c",
+                  "title": "c. Convergent procedure (Figure 1.31). With recognition that chronic atrial stretch and structural remodeling can cause conduction abnormalities in the posterior left atrium, a hybrid approach termed the 'convergent' procedure was developed. This combined partial bilateral PVI and multiple epicardial radiofrequency posterior left atrial lesions performed through a subcostal approach with endocardial ablation lines performed by an electrophysiologist to complete the PVI.400 This procedure has been recommended in symptomatic patients who fail medical therapy or catheter ablation and was given a level IIb indication by an expert consensus panel in 2017.375",
+                  "figures": [
+                    {
+                      "id": "Figure 1.31",
+                      "description": "Convergent procedure. Through a subxiphoid incision, bilateral pulmonary vein isolation is performed along with multiple interconnecting ablation lesions across the posterior left atrium. Subsequently, additional endocardial ablation over the pulmonary veins is performed. (Reproduced with permission of Gersak et al. Ann Thorac Surg 2016;102:1550–7.)400",
+                      "file": "_page_86_Picture_4.jpeg"
+                    }
+                  ]
+                }
+              ],
+              "figures": [
+                {
+                  "id": "Figure 1.30",
+                  "description": "Epicardial lesion set for a thoracoscopic approach to atrial fibrillation. Bilateral pulmonary vein isolation and a connecting lesion between the right‐ and left‐sided pulmonary veins are performed. In addition, a linear lesion over the dome of the left atrium is created extending from the left fibrous trigone at the anterior mitral valve annulus to the base of the junction of the left and noncoronary cusps to mimic the mitral isthmus lesion performed endocardially.",
+                  "file": "_page_85_Figure_7.jpeg"
+                },
+                {
+                  "id": "Figure 1.31",
+                  "description": "Convergent procedure. Through a subxiphoid incision, bilateral pulmonary vein isolation is performed along with multiple interconnecting ablation lesions across the posterior left atrium. Subsequently, additional endocardial ablation over the pulmonary veins is performed. (Reproduced with permission of Gersak et al. Ann Thorac Surg 2016;102:1550–7.)400",
+                  "file": "_page_86_Picture_4.jpeg"
+                }
+              ]
+            }
+          ],
+          "figures": [
+            {
+              "id": "Figure 1.28",
+              "description": "The left‐sided Maze involves ablation lines that encircle and connect the right and left pulmonary veins and one that extends from the inferior box lesion near the right or left inferior pulmonary vein to the mitral valve annulus. The left atrial appendage is amputated and an additional ablation line is placed from the base of the appendage to the left pulmonary veins. The base of the left atrial appendage is then oversewn.",
+              "file": "_page_83_Picture_2.jpeg"
+            },
+            {
+              "id": "Figure 1.29",
+              "description": "(A) The right‐sided Maze includes ablation of the base of the right atrial appendage and an incision in the right atrial wall through which multiple bipolar and unipolar ablation lines can be carried out. (B) Sites for endocardial ablation are shown by the dotted lines (see text).",
+              "file": "_page_84_Picture_5.jpeg"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "preoperative-considerations",
-      "title": "C. Preoperative considerations",
-      "level": 2,
-      "anchor": "preoperative-considerations",
-      "subsections": []
+      "id": "XIV",
+      "title": "XIV. Advanced Heart Failure",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "A. Pathophysiology. Advanced heart failure (HF) is a clinical syndrome that develops due to progressive deterioration in LV function associated with LV remodeling. It is most commonly the result of multiple infarctions from CAD (ischemic cardiomyopathy), but may result from a dilated cardiomyopathy or end‐stage valvular heart disease. As ventricular function deteriorates, the LV dilates and changes from an elliptical to a spherical shape. This increases wall stress, which then increases oxygen requirements, causes pathologic cardiomyocyte hypertrophy that further compromises contractile function, and induces functional MR. These changes lead to intractable HF. In addition, ventricular remodeling increases the tendency to develop ventricular arrhythmias.401",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Neurohormonal activation may contribute to remodeling. Elevation of various hormones increases sodium retention and produces peripheral vasoconstriction, increasing hemodynamic stress. There are also direct toxic effects on myocardial cells, stimulating the development of fibrosis. This relationship between neurohormonal activation and worsening of HF forms the basis of the medical approach to HF."
+            },
+            {
+              "id": "2",
+              "title": "2. The prognosis for patients with advanced HF is quite poor, with a 50% mortality rate within one year of diagnosis. For patients in stage D, the estimated mortality rate is 80% at five years.401"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "title": "B. Classification and treatment considerations",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. HF patients are generally divided into those with preserved ventricular function (HFpEF) and those with reduced ventricular function (HFrEF). The former usually develop diastolic HF from long‐standing hypertension and the latter are associated with ischemic cardiomyopathies from MI, advanced valvular disease, or other nonischemic dilated cardiomyopathies. Systolic and diastolic components coexist in many patients."
+            },
+            {
+              "id": "2",
+              "title": "2. The NYHA classification (Appendix 1B) assesses the patient's functional capacity and symptoms, progressing from no limitations of physical activity to more significant limitations with less and less activity and eventually at rest (stage IV)"
+            },
+            {
+              "id": "3",
+              "title": "3. The ACC/AHA guidelines have defined four stages in the progression of HF:",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Stage A: high risk for development of HF. These patients should have their risk factors (primarily hypertension) aggressively managed."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Stage B: structural heart disease with LVH and reduced EF without HF. These patients need more aggressive medical therapy with ß‐blockers, ACE inhibitors, or ARBs for hypertension, diuretics for volume overload, and an ICD for asymptomatic ischemic cardiomyopathy with an EF ≤30% at least 40 days post infarction."
+                },
+                {
+                  "id": "c",
+                  "title": "c. Stage C: structural heart disease with HF. These patients can be in NYHA class I–IV with preserved or reduced EF. Treatment includes ß‐blockers, ACE inhibitors, or ARBs, and diuretics for fluid retention. CABG may be considered for angina or extensive myocardial ischemia, and valve procedures should be offered for significant valve pathology. In patients with HFrEF who have persistent class II–IV symptoms and are in stage C or D, additional considerations include:402 ∙ Addition of an aldosterone receptor antagonist (spironolactone or eplerenone) ∙ Substitution of an ARNI (angiotensin‐receptor neprilysin inhibitor [valsartan/sacubitril]) for the ACE inhibitor or ARB ∙ ICD for an EF ≤35% and >40 days post MI (see page 92). ∙ Cardiac resynchronization therapy (CRT) if EF ≤35%, normal sinus rhythm, and QRS interval >150 ms with LBBB; this is a class I indication with several class IIa and IIb indications for patients with shorter QRS intervals and non‐LBBB patterns ∙ Ivabradine if heart rate remains >70 in sinus rhythm on ß‐blockers"
+                },
+                {
+                  "id": "d",
+                  "title": "d. Stage D: refractory HF requiring specialized intervention. These patients are usually in NYHA class IV and may require assist devices as a bridge to cardiac transplantation or for destination therapy.403"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "4. The INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support) profile identifies seven levels of advanced HF for patients who are in stage D with NYHA class IV (see Table 1.13 and Appendix 1D). The ROADMAP study showed that ventricular assist devices improved survival in patients with INTERMACS profile 4 and 5–7, but fewer clinical benefits were shown in profiles 5–7.404",
+              "tables": [
+                {
+                  "id": "Table 1.13",
+                  "title": "INTERMACS Classification of Heart Failure",
+                  "headers": ["IM", "Description", "NYHA Class", "ACC Stage", "Recommended Time to MCS"],
+                  "rows": [
+                    ["1", "Cardiogenic shock ('crash and burn')", "IV", "D", "Within hours"],
+                    ["2", "Progressive decline on inotropic medications ('sliding fast')", "IV", "D", "Within a few days"],
+                    ["3", "Stable on inotropic support ('dependent stability')", "IV", "D", "Within a few weeks"],
+                    ["4", "Recurrent advanced HF; resting symptoms at home on oral meds ('frequent flyer')", "Ambulatory IV", "D", "Within a few weeks–months"],
+                    ["5", "Exercise intolerance 'housebound'", "Ambulatory IV", "D", "Variable"],
+                    ["6", "Exercise limited 'walking wounded'", "Ambulatory IV", "C–D", "Variable"],
+                    ["7", "Advanced NYHA class III", "IIIB", "C–D", "Variable"]
+                  ],
+                  "footer": "MCS, mechanical circulatory support"
+                }
+              ]
+            }
+          ],
+          "tables": [
+            {
+              "id": "Table 1.13",
+              "title": "INTERMACS Classification of Heart Failure",
+              "headers": ["IM", "Description", "NYHA Class", "ACC Stage", "Recommended Time to MCS"],
+              "rows": [
+                ["1", "Cardiogenic shock ('crash and burn')", "IV", "D", "Within hours"],
+                ["2", "Progressive decline on inotropic medications ('sliding fast')", "IV", "D", "Within a few days"],
+                ["3", "Stable on inotropic support ('dependent stability')", "IV", "D", "Within a few weeks"],
+                ["4", "Recurrent advanced HF; resting symptoms at home on oral meds ('frequent flyer')", "Ambulatory IV", "D", "Within a few weeks–months"],
+                ["5", "Exercise intolerance 'housebound'", "Ambulatory IV", "D", "Variable"],
+                ["6", "Exercise limited 'walking wounded'", "Ambulatory IV", "C–D", "Variable"],
+                ["7", "Advanced NYHA class III", "IIIB", "C–D", "Variable"]
+              ],
+              "footer": "MCS, mechanical circulatory support"
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "title": "C. Indications for surgery and surgical procedures. A variety of surgical procedures can be utilized to treat the patient with advanced HF, depending upon the pathology present and the degree of ventricular dysfunction.",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Coronary bypass surgery should be performed in patients with an ischemic cardiomyopathy to reduce anginal symptoms, possibly improve ventricular function, alleviate symptoms of HF, lower the risk of sudden death, and improve survival. ACC/AHA guidelines recommend revascularization for the following:401,402",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Class I angina and bypassable or stentable anatomy, especially LM or LM equivalent disease."
+                },
+                {
+                  "id": "b",
+                  "title": "b. Class IIa ∙ Mild–moderate LV systolic dysfunction and significant LAD or multivessel disease with viable myocardium to increase survival. This recommendation is consistent with vast literature suggesting that CABG will improve survival in the patient with multivessel disease and impaired LV function. Furthermore, this benefit is more likely to occur when there is demonstration of viable myocardium in the area subtended by stenotic or occluded vessels. ∙ CABG or medical therapy is reasonable to improve morbidity and mortality in patients with significant CAD, an EF <35%, and HF symptoms. Long‐term follow‐up data from the STICH trial did show improved 10‐ year survival in such patients compared with medical therapy.18–20"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Class IIb CABG may be considered with ischemic heart disease, severe LV systolic dysfunction (EF <35%), and operable anatomy whether or not viable myocardium is present. A substudy of the STICH trial found that outcomes were not affected by whether myocardium was viable or not, especially in patients with severe LV dysfunction, for whom viability lost prognostic significance.19"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "2. Aortic valve surgery. Patients with symptomatic AS, especially with HF symptoms, have an average survival of 1–2 years.127 TAVR and SAVR produce comparable long‐term results in most patients, but TAVR is a less invasive procedure with rapid recovery and may be preferable in patients with advanced HF symptoms."
+            },
+            {
+              "id": "3",
+              "title": "3. Mitral valve surgery",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Ischemic MR is an important predictor of the development of HF and of poor survival. Revascularization alone may be beneficial in reducing the degree of MR with acute ischemia, but is less likely with chronic ischemic MR. Whether there is any survival benefit to addressing MR with a restrictive mitral annuloplasty at the time of CABG in patients with moderate–severe LV dysfunction remains controversial, although there may be some improvement in symptoms.200–207,405"
+                },
+                {
+                  "id": "b",
+                  "title": "b. The 2013 ACCF/AHA guidelines for management of HF considered mitral valve surgery or percutaneous mitral repair as class IIb indications in stage D patients due to uncertain benefit.401 For patients with dilated cardiomyopathies, placement of a small restrictive annuloplasty ring has been shown to promote reverse remodeling (usually a reduction in end‐systolic volume index >15%), restore normal geometric relationships, and may alleviate symptoms of HF. Improvement in long‐term survival is less evident, but has been demonstrated in some studies.405–409 Results may depend on ventricular size, since poor results have been noted with severely dilated ventricles (LV end‐diastolic dimension >65 mm) and in many patients with nonischemic cardiomyopathies.410"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Studies comparing mitral valve repair and replacement for patients with severe ischemic MR showed comparable two‐year survival rates of about 80%, but a high rate of recurrence with mitral valve repair (58% vs. 3%). There was a significantly higher risk of HF‐related adverse events with mitral valve repair as well (58% vs. 3%). These studies did not use medical therapy as a control arm and patients did not undergo CABG.204"
+                },
+                {
+                  "id": "d",
+                  "title": "d. Although the MitraClip was initially approved for patients with degenerative MR, several studies have demonstrated benefits in patients with advanced HF from functional MR. As discussed in the section on MR (pages 49–50 and 53–55), two trials published in 2018 found improvement in symptoms and reduced rehospitalization compared with medical therapy, but only one of the two supporting trials showed a survival benefit, which was evident in patients with more severe MR but less advanced LV dysfunction.209,210 Therefore, it was concluded that MitraClip could reduce HF readmissions and mortality if applied to patients with persistent NYHA class II–IV on GDMT, including CRT, if appropriate, with ≥3+ MR (EROA ≥30 mm2 and/or RV ≥45 mL) with an LVEF of 20–50% and LVESD <70 mm.211"
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "4. Cardiac resynchronization therapy (CRT) (atrial‐synchronized biventricular pacing) has been demonstrated to improve HF symptoms and exercise tolerance and promote reverse remodeling. In patients with a QRS duration >120 m/s, ventricular dyssynchrony produces suboptimal ventricular filling, a reduction in contractility, paradoxical septal wall motion, and worsening MR. By activating both ventricles in a synchronized manner, CRT is able to increase LV filling time, decrease septal dyskinesis, and reduce MR. CRT is most applicable to patients with stage C–D HF with an EF ≤35% and a QRS duration ≥120 msec. However, studies have shown a survival benefit compared with an ICD even for patients in stage B (asymptomatic HF).411"
+            },
+            {
+              "id": "5",
+              "title": "5. An ICD is indicated in many patients with stage B–D HF because of the frequent association of a dilated dysfunctional ventricle with ventricular tachyarrhythmias. These may be placed transvenously or subcutaneously.412",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Class I indications ∙ For primary prevention if EF ≤35% (NYHA class II–III) or EF ≤30% (NYHA class I) at least 40 days post MI or 90 days post revascularization on GDMT if anticipated survival >1 year ∙ For nonsustained VT due to prior MI, EF <40%, inducible VT/VF by EP study"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Class IIa indication: patients with NYHA class IV symptoms who are candidates for a left ventricular assist device (LVAD) or transplantation413"
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "title": "6. Surgical ventricular restoration (SVR) can be used for patients who develop regional akinesia or dyskinesia subsequent to a single‐territory MI and have class III–IV HF symptoms.414 Combining a CABG with resection of nonfunctioning tissue to decrease ventricular size, restore geometry, and decrease wall stress should improve ventricular function. Cardiac MR is recommended to detect myocardial scar (LGE) and assess the function of remaining viable myocardium prior to considering SVR.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. The LV end-systolic volume index (LVESVI) is a major determinant of survival in patients with ischemic cardiomyopathy. One study found that medical therapy, CABG, or mitral repair alone had limited benefit in patients with an LVESVI >60 mL/m². 415 However, in the STICH trial, a CABG + SVR was able to produce a reduction in LV volumes and a survival benefit if the initial LVESVI was <70 mL/m², although no improvement in symptoms or exercise tolerance was achieved. 416.417 Other studies reported a better reduction in LVESVI if a viable anterior wall could be revascularized, 418 with improved survival at follow-up if the residual LVESVI after SVR was <60 mL/m². 419"
+                },
+                {
+                  "id": "b",
+                  "title": "b. In patients with large ventricular dimensions and moderate MR, CABG + SVR may reduce MR by reducing sphericity of the LV, thus reducing the longitudinal and transverse dimensions of the LV that increase the interpapillary muscle distance and cause apical tethering of the leaflets. However, in patients with 3–4+ MR, mitral repair should be considered in addition to SVR, and has been shown to improve five-year survival."
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "title": "7. When the patient has advanced HF and is not a candidate for any of the above procedures, or remains severely symptomatic despite them, more advanced interventional therapy may be required.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Ventricular assist devices (VADs) have been recommended on an urgent basis for patients in INTERMACS class 1–2. However, the ROADMAP study suggested that survival was also improved with VADS for ambulatory patients in profile 3–4 compared with profiles 5–7.404"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Cardiac transplantation should be considered in patients with advanced HF who have an EF <15% and a peak VO2 <10–15 mL/min/m² with maximal exercise testing. Patients in lower INTERMACS categories can be managed medically until a transplant becomes available, but sicker patients may requiring bridging with a VAD."
+                },
+                {
+                  "id": "c",
+                  "title": "c. VADs can be considered for destination therapy in patients who are not considered transplant candidates. The HeartMate III (Abbott) and HeartWare (Medtronic) systems are the most commonly used VADs for destination therapy.421"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "evaluation",
-      "title": "C. Evaluation",
-      "level": 2,
-      "anchor": "evaluation",
-      "subsections": []
-    }
-  ],
-  "figures": [
-    {
-      "id": "figure-1",
-      "number": "1",
-      "file": "images/_page_0_Picture_0.jpeg",
-      "caption": "Figure 1",
-      "alt": "Medical illustration 1",
-      "anchor": "figure-1",
-      "original_page": 0
-    },
-    {
-      "id": "figure-2",
-      "number": "2",
-      "file": "images/_page_11_Picture_6.jpeg",
-      "caption": "** Coronary artery bypass grafting. A left internal thoracic artery (LITA) has been placed to the left anterior descending (LAD) artery with aortocoronary saphenous vein grafts (SVG) to the circumflex marginal and right coronary arteries.",
-      "alt": "Medical illustration 2",
-      "anchor": "figure-2",
-      "original_page": 11
-    },
-    {
-      "id": "figure-3",
-      "number": "3",
-      "file": "images/_page_12_Picture_9.jpeg",
-      "caption": "** Off‐pump bypass grafting requires displacement of the heart using techniques to avoid hemodynamic compromise. These may include placement and elevation of deep pericardial sutures or the use of an apical suction device. A stabilizing device is used to minimize motion and a proximal vessel loop is placed to minimize bleeding at the site of the anastomosis.",
-      "alt": "Medical illustration 3",
-      "anchor": "figure-3",
-      "original_page": 12
-    },
-    {
-      "id": "figure-4",
-      "number": "4",
-      "file": "images/_page_15_Picture_2.jpeg",
-      "caption": "** Repair of a left ventricular aneurysm (LVA) using the linear closure technique. (A) The thinned‐out scar tissue is opened and partially resected. Any LV thrombus is removed. (B) The aneurysm is then closed with mattress sutures over felt strips. (C) An additional over‐and‐over suture is placed over a third felt strip. (D) Cross‐section of the final repair.",
-      "alt": "Medical illustration 4",
-      "anchor": "figure-4",
-      "original_page": 15
-    },
-    {
-      "id": "figure-5",
-      "number": "5",
-      "file": "images/_page_16_Picture_2.jpeg",
-      "caption": "Figure 5",
-      "alt": "Medical illustration 5",
-      "anchor": "figure-5",
-      "original_page": 16
-    },
-    {
-      "id": "figure-6",
-      "number": "6",
-      "file": "images/_page_18_Picture_5.jpeg",
-      "caption": "** Closure of a postinfarction ventricular septal defect (VSD) using the exclusion technique. (A) Anterior VSD. (B) Inferior VSD. The pericardial patch is anchored to viable myocardium away from the site of the defect, thus eliminating shunt flow across the septal defect. (Reproduced with permission from David et al., *Semin Thorac Cardiovasc Surg* 1998;10:105–10.)103",
-      "alt": "Medical illustration 6",
-      "anchor": "figure-6",
-      "original_page": 18
-    },
-    {
-      "id": "figure-7",
-      "number": "7",
-      "file": "images/_page_27_Figure_5.jpeg",
-      "caption": "** Correlation of patient age with the risk of structural valve deterioration of tissue valves at 15–20 years. (Reproduced with permission from Rahimtoola, *J Am Coll Cardiol* 2010;55:2413–26.)",
-      "alt": "Medical illustration 7",
-      "anchor": "figure-7",
-      "original_page": 27
-    },
-    {
-      "id": "figure-8",
-      "number": "8",
-      "file": "images/_page_29_Picture_2.jpeg",
-      "caption": "** Aortic valve replacement (AVR). (A) A transverse aortotomy incision is made and holding sutures are placed. (B) The valve is excised, and the annulus is debrided and sized. (C, D) Pledgeted mattress sutures are placed through the annulus and through the sewing ring of the valve, the valve is lowered to the annulus, and the sutures are tied. The aortotomy is then closed.",
-      "alt": "Medical illustration 8",
-      "anchor": "figure-8",
-      "original_page": 29
-    },
-    {
-      "id": "figure-9",
-      "number": "9",
-      "file": "images/_page_30_Picture_2.jpeg",
-      "caption": "Figure 9",
-      "alt": "Medical illustration 9",
-      "anchor": "figure-9",
-      "original_page": 30
-    },
-    {
-      "id": "figure-10",
-      "number": "10",
-      "file": "images/_page_31_Picture_2.jpeg",
-      "caption": "** Ross procedure. (A) The aorta is opened and the diseased aortic valve is removed. The pulmonic valve and main pulmonary artery are carefully excised and the coronary arteries are mobilized. (B) The pulmonary autograft is then transposed to the aortic root. (C) The coronary arteries are reimplanted and the RV outflow tract is reconstructed with a cryopreserved pulmonary valved homograft.",
-      "alt": "Medical illustration 10",
-      "anchor": "figure-10",
-      "original_page": 31
-    },
-    {
-      "id": "figure-11",
-      "number": "11",
-      "file": "images/_page_32_Picture_2.jpeg",
-      "caption": "** Bentall procedure. (A) The aorta is opened and then divided proximally and distally. (B) Coronary ostial buttons are mobilized. (C, D) A valve incorporated into the proximal end of the conduit is sewn to the aortic annulus. (E) The coronary ostial buttons are reimplanted and the distal suture line is completed.",
-      "alt": "Medical illustration 11",
-      "anchor": "figure-11",
-      "original_page": 32
-    },
-    {
-      "id": "figure-12",
-      "number": "12",
-      "file": "images/_page_33_Figure_2.jpeg",
-      "caption": "** Drawing and fluoroscopic images of a transcatheter aortic valve replacement (TAVR) with an Edwards SAPIEN 3 transcatheter heart valve. (A, B) Initial positioning across the native annulus. (C, D) Complete valve deployment by balloon inflation. (Image courtesy of Edwards Lifesciences (A and C)).",
-      "alt": "Medical illustration 12",
-      "anchor": "figure-12",
-      "original_page": 33
-    },
-    {
-      "id": "figure-13",
-      "number": "13",
-      "file": "images/_page_34_Figure_2.jpeg",
-      "caption": "** Drawing and fluoroscopic images of a TAVR with a Medtronic Evolut Pro valve. (A, B) Partial self‐expansion of the nitinol frame by withdrawal of the constraining sheath. (C, D) Complete valve deployment. (Image courtesy of Medtronic, Inc. (A and C)).",
-      "alt": "Medical illustration 13",
-      "anchor": "figure-13",
-      "original_page": 34
-    },
-    {
-      "id": "figure-14",
-      "number": "14",
-      "file": "images/_page_38_Picture_6.jpeg",
-      "caption": "Figure 14",
-      "alt": "Medical illustration 14",
-      "anchor": "figure-14",
-      "original_page": 38
-    },
-    {
-      "id": "figure-15",
-      "number": "15",
-      "file": "images/_page_43_Picture_2.jpeg",
-      "caption": "Figure 15",
-      "alt": "Medical illustration 15",
-      "anchor": "figure-15",
-      "original_page": 43
-    },
-    {
-      "id": "figure-16",
-      "number": "16",
-      "file": "images/_page_49_Picture_6.jpeg",
-      "caption": "** Mitral valve repair. The most common pathology involves a flail posterior mitral leaflet. (A) A quadrangular excision is made as indicated by the dotted lines and the flail segment is resected. The remaining leaflet tissue may be incised along the annulus. (B) It is then advanced and reattached to the annulus (\"sliding plasty\"). (C) The leaflet tissue is then approximated, and (D) an annuloplasty ring is placed.",
-      "alt": "Medical illustration 16",
-      "anchor": "figure-16",
-      "original_page": 49
-    },
-    {
-      "id": "figure-17",
-      "number": "17",
-      "file": "images/_page_50_Picture_0.jpeg",
-      "caption": "Figure 17",
-      "alt": "Medical illustration 17",
-      "anchor": "figure-17",
-      "original_page": 50
-    },
-    {
-      "id": "figure-18",
-      "number": "18",
-      "file": "images/_page_52_Figure_1.jpeg",
-      "caption": "** (A) The MitraClip device. (B) The system passes transeptally into the left atrium and the clip is deployed, grasping both leaflets. (C) Fluoroscopic image demonstrating one deployed clip and the clip delivery system positioning a second clip lateral to the initial clip. (Image (B) courtesy of Mitraclip.com.)",
-      "alt": "Medical illustration 18",
-      "anchor": "figure-18",
-      "original_page": 52
-    },
-    {
-      "id": "figure-19",
-      "number": "19",
-      "file": "images/_page_57_Picture_2.jpeg",
-      "caption": "** Tricuspid valve repair involves reduction of annular dilatation to correct functional TR. (A, B) The circumferential suturing technique (De Vega repair). (C, D) Placement of an annuloplasty ring. Note the location of the coronary sinus and the proximity of the conduction system to the repair.",
-      "alt": "Medical illustration 19",
-      "anchor": "figure-19",
-      "original_page": 57
-    },
-    {
-      "id": "figure-20",
-      "number": "20",
-      "file": "images/_page_58_Picture_2.jpeg",
-      "caption": "** Bicuspidization of the tricuspid valve for functional TR. (A) Two pledgeted mattress sutures are placed from the anteroposterior commissure to the posteroseptal commissure along the posterior annulus. (B) Tying down the sutures produces a \"bicuspid\" valve and should eliminate the TR.",
-      "alt": "Medical illustration 20",
-      "anchor": "figure-20",
-      "original_page": 58
-    },
-    {
-      "id": "figure-21",
-      "number": "21",
-      "file": "images/_page_66_Picture_8.jpeg",
-      "caption": "Figure 21",
-      "alt": "Medical illustration 21",
-      "anchor": "figure-21",
-      "original_page": 66
-    },
-    {
-      "id": "figure-22",
-      "number": "22",
-      "file": "images/_page_68_Picture_2.jpeg",
-      "caption": "** Classification of aortic dissection. Type A dissections involve the ascending aorta. Type B dissections usually originate distal to the left subclavian artery and do not involve the ascending aorta. If they do extend retrograde, they are then considered type A dissections.",
-      "alt": "Medical illustration 22",
-      "anchor": "figure-22",
-      "original_page": 68
-    },
-    {
-      "id": "figure-23",
-      "number": "23",
-      "file": "images/_page_73_Picture_2.jpeg",
-      "caption": "Figure 23",
-      "alt": "Medical illustration 23",
-      "anchor": "figure-23",
-      "original_page": 73
-    },
-    {
-      "id": "figure-24",
-      "number": "24",
-      "file": "images/_page_74_Figure_8.jpeg",
-      "caption": "** Risk of aortic dissection or rupture based on the initial aortic size. (Adapted from Davies et al., *Ann Thorac Surg* 2002;73:17–27.)",
-      "alt": "Medical illustration 24",
-      "anchor": "figure-24",
-      "original_page": 74
-    },
-    {
-      "id": "figure-25",
-      "number": "25",
-      "file": "images/_page_77_Picture_2.jpeg",
-      "caption": "** Crawford classification of thoracoabdominal aneurysms.",
-      "alt": "Medical illustration 25",
-      "anchor": "figure-25",
-      "original_page": 77
-    },
-    {
-      "id": "figure-26",
-      "number": "26",
-      "file": "images/_page_79_Picture_2.jpeg",
-      "caption": "Figure 26",
-      "alt": "Medical illustration 26",
-      "anchor": "figure-26",
-      "original_page": 79
-    },
-    {
-      "id": "figure-27",
-      "number": "27",
-      "file": "images/_page_81_Picture_5.jpeg",
-      "caption": "** • The Watchman device is positioned at the orifice of the left atrial appendage to prevent formation of left atrial appendage thrombus. It endothelializes fairly quickly, but short-term use of warfarin is recommended. (Image courtesy of Boston Scientific Corporation (A), http://azheartrhythmcenter.com/resources/procedure-instructions/watchman-device/ (B).)",
-      "alt": "Medical illustration 27",
-      "anchor": "figure-27",
-      "original_page": 81
-    },
-    {
-      "id": "figure-28",
-      "number": "28",
-      "file": "images/_page_81_Picture_6.jpeg",
-      "caption": "** • The Watchman device is positioned at the orifice of the left atrial appendage to prevent formation of left atrial appendage thrombus. It endothelializes fairly quickly, but short-term use of warfarin is recommended. (Image courtesy of Boston Scientific Corporation (A), http://azheartrhythmcenter.com/resources/procedure-instructions/watchman-device/ (B).)",
-      "alt": "Medical illustration 28",
-      "anchor": "figure-28",
-      "original_page": 81
-    },
-    {
-      "id": "figure-29",
-      "number": "29",
-      "file": "images/_page_83_Picture_2.jpeg",
-      "caption": "** The left‐sided Maze involves ablation lines that encircle and connect the right and left pulmonary veins and one that extends from the inferior box lesion near the right or left inferior pulmonary vein to the mitral valve annulus. The left atrial appendage is amputated and an additional ablation line is placed from the base of the appendage to the left pulmonary veins. The base of the left atrial appendage is then oversewn.",
-      "alt": "Medical illustration 29",
-      "anchor": "figure-29",
-      "original_page": 83
-    },
-    {
-      "id": "figure-30",
-      "number": "30",
-      "file": "images/_page_84_Picture_5.jpeg",
-      "caption": "** (A) The right‐sided Maze includes ablation of the base of the right atrial appendage and an incision in the right atrial wall through which multiple bipolar and unipolar ablation lines can be carried out. (B) Sites for endocardial ablation are shown by the dotted lines (see text).",
-      "alt": "Medical illustration 30",
-      "anchor": "figure-30",
-      "original_page": 84
-    },
-    {
-      "id": "figure-31",
-      "number": "31",
-      "file": "images/_page_85_Figure_7.jpeg",
-      "caption": "Figure 31",
-      "alt": "Medical illustration 31",
-      "anchor": "figure-31",
-      "original_page": 85
-    },
-    {
-      "id": "figure-32",
-      "number": "32",
-      "file": "images/_page_86_Picture_4.jpeg",
-      "caption": "** Convergent procedure. Through a subxiphoid incision, bilateral pulmonary vein isolation is performed along with multiple interconnecting ablation lesions across the posterior left atrium. Subsequently, additional endocardial ablation over the pulmonary veins is performed. (Reproduced with permission of Gersak et al. *Ann Thorac Surg* 2016;102:1550–7.)400",
-      "alt": "Medical illustration 32",
-      "anchor": "figure-32",
-      "original_page": 86
-    },
-    {
-      "id": "figure-33",
-      "number": "33",
-      "file": "images/_page_92_Figure_11.jpeg",
-      "caption": "** Simultaneous right and left ventricular pressure tracings in constrictive pericarditis. Note the \"dip‐and‐plateau\" pattern as diastolic filling of the ventricular chambers is abruptly truncated by the constriction. Note also the equilibration of diastolic ventricular pressures. (Reproduced with permission from Myers et al., *Am Heart J* 1999;138:219–32.)",
-      "alt": "Medical illustration 33",
-      "anchor": "figure-33",
-      "original_page": 92
-    },
-    {
-      "id": "figure-34",
-      "number": "34",
-      "file": "images/_page_94_Picture_2.jpeg",
-      "caption": "Figure 34",
-      "alt": "Medical illustration 34",
-      "anchor": "figure-34",
-      "original_page": 94
-    }
-  ],
-  "tables": [
-    {
-      "id": "table-1-1",
-      "number": "1.1",
-      "title": "Stages of Aortic Stenosis",
-      "anchor": "table-1-1"
-    },
-    {
-      "id": "table-1-2",
-      "number": "1.2",
-      "title": "Echocardiographic Assessment of the Severity of",
-      "anchor": "table-1-2"
-    },
-    {
-      "id": "table-1-4",
-      "number": "1.4",
-      "title": "Stages of Chronic Aortic Regurgitation",
-      "anchor": "table-1-4"
-    },
-    {
-      "id": "table-1-6",
-      "number": "1.6",
-      "title": "Stages of Mitral Stenosis",
-      "anchor": "table-1-6"
-    },
-    {
-      "id": "table-1-7",
-      "number": "1.7",
-      "title": "Echocardiographic and Hemodynamic Abnormalities in Severe Mitral Stenosis",
-      "anchor": "table-1-7"
-    },
-    {
-      "id": "table-1-8",
-      "number": "1.8",
-      "title": "Stages of Primary Mitral Regurgitation",
-      "anchor": "table-1-8"
-    },
-    {
-      "id": "table-1-9",
-      "number": "1.9",
-      "title": "Stages of Secondary Mitral Regurgitation",
-      "anchor": "table-1-9"
-    },
-    {
-      "id": "table-1-10",
-      "number": "1.10",
-      "title": "Stages of Functional Tricuspid Regurgitation",
-      "anchor": "table-1-10"
-    },
-    {
-      "id": "table-1-12",
-      "number": "1.12",
-      "title": "Indications for Surgery for Left‐Sided Valve Infections per the European Society of Cardiology Heart Failure Class Timing I Emergent NVE or PVE with severe AR or MR, obstruction, or fistula causing refractory pulmonary edema or cardiogenic shock I Urgent NVE or PVE with severe AR or MR or obstruction with symptoms of CHF or echo signs of poor hemodynamic tolerance causing heart failure symptoms (high LVEDP, PH, high LA pressures) Uncontrolled Infection I Urgent Locally uncontrolled infection (abscess, false aneurysm, fistula, enlarging vegetation) – i.e. persistent positive blood cultures after 7–10 days of antibiotics; perivalvular abscess is noted in 10–40% of aortic NVE and 56–100% of PVE I Urgent/elective Infection with fungal or multiresistant organism IIa Urgent Persistent positive blood culture on appropriate antibiotics and adequate control of septic metastatic foci IIa Urgent/elective PVE with *Staph*. or HACEK gram‐negative organism Prevention of Embolism** I Urgent Aortic or mitral NVE or PVE IE with persistent vegetations >10 mm after ≥1 embolic episode on antibiotics IIa Urgent Aortic or mitral NVE with vegetations >10 mm with severe valve stenosis or regurgitation and low surgical risk IIa Urgent Aortic or mitral NVE or PVE with very large vegetations >30 mm IIb Urgent Aortic or mitral NVE or PVE with isolated vegetation >15 mm and no other indication for surgery Adapted with permission from Habib et al., *Eur Heart J* 2015;36:3075–128.269",
-      "anchor": "table-1-12"
-    }
-  ],
-  "key_terms": []
-}
+      "id": "XV",
+      "title": "XV. Pericardial Disease",
+      "subsections": [
+        {
+          "id": "A",
+          "title": "A. Pathophysiology and diagnostic techniques. The pericardium may become involved in a variety of systemic disease processes that produce either pericardial effusions or constriction. The most common causes of effusions are idiopathic (probably viral), postcardiotomy, malignant, uremic, pyogenic, and tuberculous. The most common causes of constriction are idiopathic or viral, postcardiotomy, radiation, and tuberculous. Early and late postoperative cardiac tamponade due to hemopericardium are discussed on pages 446–447 and 757–761.",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Large effusions result in tamponade physiology with progressive low output states. They are best documented by 2D echocardiography, which delineates their size and provides hemodynamic evidence of tamponade. 422 Findings include:",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. RA and ventricular diastolic collapse"
+                },
+                {
+                  "id": "b",
+                  "title": "b. Exaggerated ventricular interdependence (enlarged RV and smaller LV dimensions during inspiration and vice versa during expiration with increased septal bounce toward the left during inspiration)"
+                },
+                {
+                  "id": "c",
+                  "title": "c. Abnormal respirophasic flow: a >20% reduction in mitral valve flow (peak E wave velocity) with inspiration and a >40% reduction in TV flow during expiration"
+                },
+                {
+                  "id": "d",
+                  "title": "d. Increased reversal of flow in the hepatic veins during atrial systole"
+                },
+                {
+                  "id": "e",
+                  "title": "e. A dilated IVC to >20 mm with lack of inspiratory collapse"
+                },
+                {
+                  "id": "f",
+                  "title": "f. Equilibration of intracardiac pressures (RVEDP = PCWP = LVEDP) by cardiac catheterization"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "2. Constriction can also produce a low output state despite preserved systolic function.",
+              "subsections": [
+                {
+                  "id": "a",
+                  "title": "a. Cardiac catheterization will demonstrate a 'square‐root sign' in the RV tracing, indicating rapid early filling and a diastolic plateau caused by severe impairment to RV filling (Figure 1.32). There is equilibration of end‐diastolic pressures and opposing changes in RV and LV filling during respiration.",
+                  "figures": [
+                    {
+                      "id": "Figure 1.32",
+                      "description": "Simultaneous right and left ventricular pressure tracings in constrictive pericarditis. Note the 'dip‐and‐plateau' pattern as diastolic filling of the ventricular chambers is abruptly truncated by the constriction. Note also the equilibration of diastolic ventricular pressures. (Reproduced with permission from Myers et al., Am Heart J 1999;138:219–32.)",
+                      "file": "_page_92_Figure_11.jpeg"
+                    }
+                  ]
+                },
+                {
+                  "id": "b",
+                  "title": "b. Echocardiographic findings may mimic those of cardiac tamponade, but there is no respiratory variation of the dilated IVC."
+                },
+                {
+                  "id": "c",
+                  "title": "c. Cardiovascular CT and MRI scanning can be done to assess the thickness of the pericardium, and MRI can identify pericardial inflammation."
+                },
+                {
+                  "id": "d",
+                  "title": "d. The differentiation of constriction, which is surgically correctable, from restriction, which is not, can be difficult because they have many findings in common. Although restrictive pathology is associated with diastolic dysfunction, it may or may not be associated with systolic dysfunction. However, the presence of significant PH suggests a restrictive process, since it is rarely seen with constriction. A number of echocardiographic methods are helpful in differentiating constriction from restriction, including septal bounce and respirophasic transvalvular flow variations, which are noted with constriction but not with restriction.422–426"
+                }
+              ],
+              "figures": [
+                {
+                  "id": "Figure 1.32",
+                  "description": "Simultaneous right and left ventricular pressure tracings in constrictive pericarditis. Note the 'dip‐and‐plateau' pattern as diastolic filling of the ventricular chambers is abruptly truncated by the constriction. Note also the equilibration of diastolic ventricular pressures. (Reproduced with permission from Myers et al., Am Heart J 1999;138:219–32.)",
+                  "file": "_page_92_Figure_11.jpeg"
+                }
+              ]
+            }
+          ],
+          "figures": [
+            {
+              "id": "Figure 1.32",
+              "description": "Simultaneous right and left ventricular pressure tracings in constrictive pericarditis. Note the 'dip‐and‐plateau' pattern as diastolic filling of the ventricular chambers is abruptly truncated by the constriction. Note also the equilibration of diastolic ventricular pressures. (Reproduced with permission from Myers et al., Am Heart J 1999;138:219–32.)",
+              "file": "_page_92_Figure_11.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "title": "B. Indications for surgery",
+          "subsections": [
+            {
+              "id": "1",
+              "title": "1. Large effusions that fail to respond to noninvasive measures (dialysis for uremia, antibiotics for infection, radiation or chemotherapy for malignancy, thyroid replacement for myxedema) may be treated initially by a percutaneous drainage procedure (either pericardiocentesis with catheter drainage or balloon pericardiostomy).427 Echocardiography is helpful in localizing the effusion and determining whether it is easily accessible to a percutaneous needle or not. Evidence of significant stranding of an effusion often suggests that percutaneous drainage will not be effective. If these procedures cannot be performed or the effusion recurs, surgical drainage should be performed."
+            },
+            {
+              "id": "2",
+              "title": "2. Constriction that produces a refractory low output state, hepatomegaly, or peripheral edema should be treated by a pericardiectomy. Lesser degrees of constriction may resolve spontaneously or respond to a course of nonsteroidal anti‐inflammatory medications or steroids."
+            }
+          ]
+        },
+        {
+          "id": "C",
+          "title":
