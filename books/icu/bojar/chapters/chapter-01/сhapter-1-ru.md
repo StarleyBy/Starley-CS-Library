@@ -1,4 +1,4 @@
-[Имя файла]: Bojar_6th-Chapter_1_RU.md
+![](_page_0_Picture_0.jpeg)
 
 # **ГЛАВА 1**
 
