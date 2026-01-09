@@ -179,7 +179,7 @@ body.focus-mode #focus-toggle .fa-compress { display: block; }
 
 /* Дополнительные стили для контента в режиме фокуса */
 body.focus-mode #content-area {
- max-width: 800px;
+  max-width: 99%;
   margin: 0 auto;
   background: #fff;
   padding: 2rem;
@@ -189,7 +189,7 @@ body.focus-mode #content-area {
 
 /* Стили контента книги */
 .content {
-  max-width: 800px;
+  max-width: 99%;
   margin: 0 auto;
   background: #fff;
   padding: 2rem;
