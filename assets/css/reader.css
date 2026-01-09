@@ -238,4 +238,27 @@ body.focus-mode #content-area {
     padding: 0.5rem;
     gap: 0.4rem;
   }
+  
+  /* Центрирование табов версии */
+  .version-tabs {
+    margin: 0 auto;
+  }
+  
+  /* Адаптация заголовка для мобильных */
+  .header-content {
+    justify-content: center;
+    gap: 0.3rem;
+  }
+  
+  /* Уменьшение размеров кнопок для мобильных */
+  .header-btn, .nav-link {
+    padding: 0.3rem;
+    min-width: 32px;
+  }
+  
+  .version-tab {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.8rem;
+    min-width: 40px;
+  }
 }
