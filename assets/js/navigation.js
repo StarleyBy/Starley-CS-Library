@@ -70,49 +70,41 @@ function renderEditionSelector(book, chap, current) {
     container.innerHTML = ''; // Clear previous content
 
     const editions = [
-        { id: 'original', n: '🇺🇸 Original' },
-        { id: 'starley', n: '⭐ Starley Ed.' },
-        { id: 'russian', n: '🇷🇺 Russian Ed.' }
+        { id: 'original', n: 'EN', label: 'English' },
+        { id: 'russian', n: 'RU', label: 'Russian' },
+        { id: 'starley', n: 'STL', label: 'Starley' }
     ];
 
-    const customSelect = document.createElement('div');
-    customSelect.className = 'custom-select-wrapper';
-
-    const selectHeader = document.createElement('div');
-    selectHeader.className = 'custom-select-header';
-    const currentEdition = editions.find(e => e.id === current) || editions[0];
-    selectHeader.innerHTML = `<span>${currentEdition.n}</span><i class="fas fa-chevron-down"></i>`;
-
-    const optionsList = document.createElement('div');
-    optionsList.className = 'custom-select-options';
+    const tabsContainer = document.createElement('div');
+    tabsContainer.className = 'version-tabs';
 
     editions.forEach(edition => {
-        const option = document.createElement('div');
-        option.className = 'custom-select-option';
-        option.dataset.value = edition.id;
-        option.innerHTML = `<span>${edition.n}</span>`;
+        const tab = document.createElement('button');
+        tab.className = 'version-tab';
+        tab.dataset.value = edition.id;
+        tab.textContent = edition.n;
+        tab.title = edition.label;
+        
         if (edition.id === current) {
-            option.classList.add('selected');
+            tab.classList.add('active');
         }
-        option.addEventListener('click', () => {
+        
+        tab.addEventListener('click', () => {
+            // Remove active class from all tabs
+            tabsContainer.querySelectorAll('.version-tab').forEach(t => {
+                t.classList.remove('active');
+            });
+            
+            // Add active class to clicked tab
+            tab.classList.add('active');
+            
             updateUrl(book, chap, edition.id);
         });
-        optionsList.appendChild(option);
+        
+        tabsContainer.appendChild(tab);
     });
 
-    customSelect.appendChild(selectHeader);
-    customSelect.appendChild(optionsList);
-    container.appendChild(customSelect);
-
-    selectHeader.addEventListener('click', () => {
-        customSelect.classList.toggle('open');
-    });
-
-    document.addEventListener('click', (e) => {
-        if (!customSelect.contains(e.target)) {
-            customSelect.classList.remove('open');
-        }
-    });
+    container.appendChild(tabsContainer);
 }
 
 function setupUIEventListeners() {
