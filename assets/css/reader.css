@@ -177,39 +177,14 @@ body.focus-mode #focus-toggle {
 body.focus-mode #focus-toggle .fa-expand { display: none; }
 body.focus-mode #focus-toggle .fa-compress { display: block; }
 
-/* Режим фокуса */
-body.focus-mode .sidebar,
-body.focus-mode .main-nav,
-body.focus-mode #version-selector-container,
-body.focus-mode #toc-toggle {
-  display: none;
-}
-
-body.focus-mode .reader-header {
-  background: transparent;
-  border-bottom: none;
-  box-shadow: none;
-}
-
-body.focus-mode #main-content {
-  margin-left: 0;
-  width: 100%;
+/* Дополнительные стили для контента в режиме фокуса */
+body.focus-mode #content-area {
+ max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
   padding: 2rem;
-}
-
-body.focus-mode {
-  padding-top: 0;
-}
-
-body.focus-mode #focus-toggle {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(5px);
-  z-index: 2000;
-  padding: 0.6rem;
-  border-radius: 50%;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.05);
 }
 
 /* Стили контента книги */

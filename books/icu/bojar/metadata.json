@@ -10,10 +10,6 @@
   ],
   "chapters": [
     {
-      "file": "contents.md",
-      "title": "Table of Contents"
-    },
-    {
       "file": "chapter-01.md",
       "title": "1. Synopsis of Adult Cardiac Surgical Disease"
     },
