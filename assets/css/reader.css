@@ -184,11 +184,12 @@ body.focus-mode {
 }
 
 body.focus-mode #focus-toggle {
-    position: fixed;
-    top: 1rem;
-    right: 1rem;
+    position: fixed !important;
+    top: 1rem !important;
+    right: 1rem !important;
     background: rgba(255, 255, 255, 0.7);
     backdrop-filter: blur(5px);
+    z-index: 9999 !important; /* Ensure it's above everything else */
 }
 
 #focus-toggle .fa-compress {
