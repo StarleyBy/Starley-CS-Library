@@ -11,7 +11,7 @@
     {
       "id": "cardiac_surgery",
       "title": "Cardiac Surgery",
-      "path": "books/cardiac surgery",
+      "path": "books/cardiac-surgery",
       "books": [
         { "folder": "cohn" }
       ]

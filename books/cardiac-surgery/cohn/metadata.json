@@ -1,17 +1,15 @@
 [{
-  "title": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
-  "category": [
-    "cardiology",
-    "cardiac-surgery",
-    "icu"
-  ],
+  "title": "Cardiac Surgery in the Adult, Fifth Edition",
+ "category": [
+   "cardiac-surgery"
+ ],
   "authors": [
-    "Robert M. Bojar, MD"
+    "Lawrence H. Cohn, MD, David H. Adams, MD"
   ],
   "chapters": [
     {
       "file": "chapter-01.md",
-      "title": "1. Synopsis of Adult Cardiac Surgical Disease"
+      "title": "1. History of Cardiac Surgery"
     },
     {
       "file": "chapter-02.md",
