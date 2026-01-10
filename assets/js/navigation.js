@@ -1,12 +1,16 @@
 document.addEventListener('DOMContentLoaded', async () => {
-    const params = new URLSearchParams(window.location.search);
-    const bookPath = params.get('book');
-    const chapterId = params.get('chapter') || 'chapter-01';
-    const edition = params.get('edition') || 'original';
+    try {
+        const params = new URLSearchParams(window.location.search);
+        const bookPath = params.get('book');
+        const chapterId = params.get('chapter') || 'chapter-01';
+        const edition = params.get('edition') || 'original';
 
-    if (bookPath) {
-        await initReader(bookPath, chapterId, edition);
-        setupUIEventListeners();
+        if (bookPath) {
+            await initReader(bookPath, chapterId, edition);
+            setupUIEventListeners();
+        }
+    } catch (e) {
+        console.error('Error processing URL parameters:', e);
     }
 });
 
@@ -55,14 +59,25 @@ async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
             res = await fetch(url);
         }
 
+        // Проверяем статус ответа перед парсингом JSON
+        if (!res.ok) {
+            // Если оба файла метаданных не найдены, просто выходим без ошибки
+            tocContainer.innerHTML = '';
+            return;
+        }
+
         const meta = await res.json();
         if (meta.sections) {
-            tocContainer.innerHTML = `<h3 class="toc-title">In this chapter:</h3>` + 
-                meta.sections.filter(s => s.level === 2).map(s => 
+            tocContainer.innerHTML = `<h3 class="toc-title">In this chapter:</h3>` +
+                meta.sections.filter(s => s.level === 2).map(s =>
                     `<a href="#${s.anchor}" class="toc-link">${s.title}</a>`
                 ).join('');
         }
-    } catch (e) { tocContainer.innerHTML = ''; }
+    } catch (e) {
+        // Логируем ошибку для отладки, но не прерываем работу приложения
+        console.warn(`Could not load TOC for chapter ${chapterId}:`, e.message);
+        tocContainer.innerHTML = '';
+    }
 }
 
 function renderEditionSelector(book, chap, current) {

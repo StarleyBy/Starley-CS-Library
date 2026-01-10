@@ -1,0 +1,19 @@
+{
+  "chapter_id": "chapter-03",
+  "chapter_number": 3,
+  "title": "",
+  "sections": [],
+  "figures": [
+    {
+      "id": "figure-1",
+      "number": "1",
+      "file": "images/_page_0_Picture_0.jpeg",
+      "caption": "Figure 1",
+      "alt": "Medical illustration 1",
+      "anchor": "figure-1",
+      "original_page": 0
+    }
+  ],
+  "tables": [],
+  "key_terms": []
+}

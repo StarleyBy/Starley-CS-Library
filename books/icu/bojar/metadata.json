@@ -1,4 +1,4 @@
-{
+[{
   "title": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
   "category": [
     "cardiology",
@@ -64,88 +64,79 @@
   ],
   "appendices": [
     {
-      "file": "appendix-A.md",
-      "title": "Appendix A: Typical Order Sheets"
+      "file": "appendix.md",
+      "title": "Appendices"
+    }
+  ]
+},
+
+{
+  "title": "Cardiac Surgery in the Adult, Fifth Edition",
+  "category": [
+    "cardiac surgery",
+      ],
+  "authors": [
+    "Lawrence H. Cohn, MD, David H. Adams, MD"
+  ],
+  "chapters": [
+    {
+      "file": "chapter-01.md",
+      "title": "1. History of Cardiac Surgery"
     },
     {
-      "file": "appendix-B.md",
-      "title": "Appendix B: Common Drug Doses"
+      "file": "chapter-02.md",
+      "title": "2. Diagnostic Techniques in Cardiac Surgery"
     },
     {
-      "file": "appendix-C.md",
-      "title": "Appendix C: Protocols (Blood Conservation, Glucose Management)"
+      "file": "chapter-03.md",
+      "title": "3. Preoperative Considerations and Risk Assessment"
     },
     {
-      "file": "appendix-D.md",
-      "title": "Appendix D: Heparin and Protamine Management"
+      "file": "chapter-04.md",
+      "title": "4. Cardiac Anesthesia"
     },
     {
-      "file": "appendix-E.md",
-      "title": "Appendix E: Anticoagulation/Antiplatelet Management"
+      "file": "chapter-05.md",
+      "title": "5. Cardiopulmonary Bypass"
     },
     {
-      "file": "appendix-F.md",
-      "title": "Appendix F: Management of Postoperative Arrhythmias"
+      "file": "chapter-06.md",
+      "title": "6. Myocardial Protection"
     },
     {
-      "file": "appendix-G.md",
-      "title": "Appendix G: Pacing Protocols and Troubleshooting"
+      "file": "chapter-07.md",
+      "title": "7. Admission to the ICU and Monitoring Techniques"
     },
     {
-      "file": "appendix-H.md",
-      "title": "Appendix H: Use of Inotropes and Vasopressors"
+      "file": "chapter-08.md",
+      "title": "8. Early Postoperative Care"
     },
     {
-      "file": "appendix-I.md",
-      "title": "Appendix I: Use of Vasodilators"
+      "file": "chapter-09.md",
+      "title": "9. Mediastinal Bleeding"
     },
     {
-      "file": "appendix-J.md",
-      "title": "Appendix J: Use of Diuretics"
+      "file": "chapter-10.md",
+      "title": "10. Respiratory Management"
     },
     {
-      "file": "appendix-K.md",
-      "title": "Appendix K: Management of Bleeding and Coagulopathy"
+      "file": "chapter-11.md",
+      "title": "11. Cardiovascular Management"
     },
     {
-      "file": "appendix-L.md",
-      "title": "Appendix L: Transfusion Algorithms"
+      "file": "chapter-12.md",
+      "title": "12. Fluid Management, Renal, and Metabolic Problems"
     },
     {
-      "file": "appendix-M.md",
-      "title": "Appendix M: Intensive Insulin Therapy"
-    },
+      "file": "chapter-13.md",
+      "title": "13. Post-ICU Care and Other Complications"
+    }
+  ],
+  "appendices": [
     {
-      "file": "appendix-N.md",
-      "title": "Appendix N: Prophylactic Antibiotics"
-    },
-    {
-      "file": "appendix-O.md",
-      "title": "Appendix O: Neurologic Protocols"
-    },
-    {
-      "file": "appendix-P.md",
-      "title": "Appendix P: Continuous Renal Replacement Therapy"
-    },
-    {
-      "file": "appendix-Q.md",
-      "title": "Appendix Q: Nutritional Support"
-    },
-    {
-      "file": "appendix-R.md",
-      "title": "Appendix R: Pain Management"
-    },
-    {
-      "file": "appendix-S.md",
-      "title": "Appendix S: Intra-Aortic Balloon Pump"
-    },
-    {
-      "file": "appendix-T.md",
-      "title": "Appendix T: Extracorporeal Membrane Oxygenation"
-    },
-    {
-      "file": "appendix-U.md",
-      "title": "Appendix U: Body Mass Index Table"
+      "file": "appendix.md",
+      "title": "Appendices"
     }
   ]
 }
+]
