@@ -1,3 +1,11 @@
+// Global variable to track if we're in GitHub Pages environment
+let isGitHubPages = false;
+
+// Check if we're running on GitHub Pages
+if (typeof window !== 'undefined') {
+    isGitHubPages = window.location.hostname.includes('github.io');
+}
+
 async function loadChapter(bookPath, chapterId, edition) {
     const area = document.getElementById('content-area');
     area.innerHTML = '<p class="loading">Loading content...</p>';
@@ -32,7 +40,7 @@ async function loadChapter(bookPath, chapterId, edition) {
         });
         
         area.innerHTML = marked.parse(md);
-        
+
         // Use a timeout to ensure the DOM has been updated by the browser
         // after setting innerHTML, before we try to query it.
         setTimeout(() => {
@@ -42,8 +50,13 @@ async function loadChapter(bookPath, chapterId, edition) {
                     // Extract filename from rawSrc to handle cases where it might already contain path
                     const fileName = rawSrc.split('/').pop();
                     
-                    // Determine the correct path based on the current chapter and book
-                    img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                    // For GitHub Pages, we need to use the raw content URL for images
+                    if (isGitHubPages) {
+                        img.src = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                    } else {
+                        // For local development, use the regular BASE_URL
+                        img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                    }
                 }
                 img.classList.add('med-img');
             });

@@ -16,7 +16,17 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function initReader(bookPath, chapterId, edition) {
     try {
-        const bookMeta = (await fetch(`${BASE_URL}${bookPath}/metadata.json?t=${Date.now()}`).then(r => r.json()))[0];
+        // Check if we're running on GitHub Pages
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        let metadataUrl;
+        
+        if (isGitHubPages) {
+            metadataUrl = `${RAW_CONTENT_BASE_URL}${bookPath}/metadata.json?t=${Date.now()}`;
+        } else {
+            metadataUrl = `${BASE_URL}${bookPath}/metadata.json?t=${Date.now()}`;
+        }
+        
+        const bookMeta = (await fetch(metadataUrl).then(r => r.json()))[0];
         document.getElementById('book-title').textContent = bookMeta.title;
 
         renderChapterList(bookMeta, bookPath, chapterId, edition);
@@ -51,12 +61,25 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
 async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
     const tocContainer = document.getElementById('internal-toc');
     try {
-        let url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
+        // Check if we're running on GitHub Pages
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        let url;
+        
+        if (isGitHubPages) {
+            url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
+        } else {
+            url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
+        }
+        
         let res = await fetch(url);
         
         // Если русская версия не найдена, пробуем оригинальный файл метаданных
         if (!res.ok && metaSuffix.includes('-ru')) {
-            url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
+            if (isGitHubPages) {
+                url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
+            } else {
+                url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
+            }
             res = await fetch(url);
         }
 
