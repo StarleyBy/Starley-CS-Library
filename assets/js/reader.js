@@ -33,10 +33,18 @@ async function loadChapter(bookPath, chapterId, edition) {
         
         area.innerHTML = marked.parse(md);
 
-        // Add styling to all images
-        area.querySelectorAll('img').forEach(img => {
-            img.classList.add('med-img');
-        });
+        // Use a timeout to ensure the DOM has been updated by the browser
+        // after setting innerHTML, before we try to query it.
+        setTimeout(() => {
+            area.querySelectorAll('img').forEach(img => {
+                const rawSrc = img.getAttribute('src');
+                if (rawSrc && !rawSrc.startsWith('http')) {
+                    const fileName = rawSrc.split('/').pop();
+                    img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                }
+                img.classList.add('med-img');
+            });
+        }, 0);
 
         window.scrollTo(0, 0);
     } catch (e) {
