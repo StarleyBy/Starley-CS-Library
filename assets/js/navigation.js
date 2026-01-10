@@ -54,6 +54,7 @@ async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
         let url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
         let res = await fetch(url);
         
+        // Если русская версия не найдена, пробуем оригинальный файл метаданных
         if (!res.ok && metaSuffix.includes('-ru')) {
             url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
             res = await fetch(url);

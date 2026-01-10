@@ -32,14 +32,17 @@ async function loadChapter(bookPath, chapterId, edition) {
         });
         
         area.innerHTML = marked.parse(md);
-
+        
         // Use a timeout to ensure the DOM has been updated by the browser
         // after setting innerHTML, before we try to query it.
         setTimeout(() => {
             area.querySelectorAll('img').forEach(img => {
                 const rawSrc = img.getAttribute('src');
                 if (rawSrc && !rawSrc.startsWith('http')) {
+                    // Extract filename from rawSrc to handle cases where it might already contain path
                     const fileName = rawSrc.split('/').pop();
+                    
+                    // Determine the correct path based on the current chapter and book
                     img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
                 }
                 img.classList.add('med-img');
