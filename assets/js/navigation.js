@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 async function initReader(bookPath, chapterId, edition) {
     try {
-        const bookMeta = await fetch(`${BASE_URL}${bookPath}/metadata.json?t=${Date.now()}`).then(r => r.json());
+        const bookMeta = (await fetch(`${BASE_URL}${bookPath}/metadata.json?t=${Date.now()}`).then(r => r.json()))[0];
         document.getElementById('book-title').textContent = bookMeta.title;
 
         renderChapterList(bookMeta, bookPath, chapterId, edition);

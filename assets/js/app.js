@@ -45,7 +45,7 @@ async function renderBooksForCategory(category) {
             const bookPath = `${category.path}/${book.folder}`;
             const metaResponse = await fetch(`${BASE_URL}${bookPath}/metadata.json`);
             if (metaResponse.ok) {
-                const bookMeta = await metaResponse.json();
+                const bookMeta = (await metaResponse.json())[0];
                 booksHtml += renderBookCard(bookPath, bookMeta);
             }
         } catch (error) {
