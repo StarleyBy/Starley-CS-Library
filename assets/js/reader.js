@@ -26,17 +26,15 @@ async function loadChapter(bookPath, chapterId, edition) {
         // Custom styling parser
         md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         
+        // Set the base URL for relative image paths to the chapter's images folder
+        marked.setOptions({
+            baseUrl: `${BASE_URL}${bookPath}/chapters/${chapterId}/images/`
+        });
+        
         area.innerHTML = marked.parse(md);
 
-        // Correct image paths
+        // Add styling to all images
         area.querySelectorAll('img').forEach(img => {
-            const rawSrc = img.getAttribute('src');
-            if (rawSrc && !rawSrc.startsWith('http')) {
-                // All relative image paths are assumed to be in the 'images' subdirectory of the current chapter
-                const correctedSrc = rawSrc.startsWith('images/') ? rawSrc : `images/${rawSrc}`;
-                img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/${correctedSrc}`;
-                console.log('Constructed image source:', img.src);
-            }
             img.classList.add('med-img');
         });
 
