@@ -7,6 +7,14 @@
       "books": [
         { "folder": "bojar" }
       ]
+    },
+    {
+      "id": "cardiac_surgery",
+      "title": "Cardiac Surgery",
+      "path": "books/cardiac surgery",
+      "books": [
+        { "folder": "cohn" }
+      ]
     }
   ]
 }

@@ -1,0 +1,16 @@
+[{
+  "title": "Cardiac Surgery in the Adult, Fifth Edition",
+ "category": [
+    "cardiac surgery"
+  ],
+  "authors": [
+    "Lawrence H. Cohn, MD, David H. Adams, MD"
+  ],
+  "chapters": [
+    {
+      "file": "chapter-01.md",
+      "title": "1. History of Cardiac Surgery"
+    }
+  ],
+  "appendices": []
+}]
