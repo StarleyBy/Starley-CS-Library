@@ -32,8 +32,9 @@ async function loadChapter(bookPath, chapterId, edition) {
         area.querySelectorAll('img').forEach(img => {
             const rawSrc = img.getAttribute('src');
             if (rawSrc && !rawSrc.startsWith('http')) {
-                const fileName = rawSrc.split('/').pop();
-                img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                // All relative image paths are assumed to be in the 'images' subdirectory of the current chapter
+                const correctedSrc = rawSrc.startsWith('images/') ? rawSrc : `images/${rawSrc}`;
+                img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/${correctedSrc}`;
                 console.log('Constructed image source:', img.src);
             }
             img.classList.add('med-img');
