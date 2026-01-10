@@ -23,23 +23,22 @@ async function loadChapter(bookPath, chapterId, edition) {
 
         let md = await response.text();
 
-        // Custom styling parser
-        md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
+                // Custom styling parser
+                md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         
-        // Set the base URL for relative image paths to the chapter's images folder
-        marked.setOptions({
-            baseUrl: `${BASE_URL}${bookPath}/chapters/${chapterId}/images/`
-        });
+                const renderer = new marked.Renderer();
+                renderer.image = (href, title, text) => {
+                    let finalHref = href;
+                    if (href && !href.startsWith('http')) {
+                        finalHref = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${href}`;
+                    }
+                    const titleAttr = title ? ` title="${title}"` : '';
+                    return `<img src="${finalHref}" alt="${text}"${titleAttr} class="med-img">`;
+                };
+                
+                area.innerHTML = marked.parse(md, { renderer: renderer });
         
-        area.innerHTML = marked.parse(md);
-
-        // Add styling to all images
-        area.querySelectorAll('img').forEach(img => {
-            img.classList.add('med-img');
-        });
-
-        window.scrollTo(0, 0);
-    } catch (e) {
+                window.scrollTo(0, 0);    } catch (e) {
         area.innerHTML = `<div class="error">Error loading chapter: ${e.message}</div>`;
         console.error("Failed to load chapter:", e);
     }
