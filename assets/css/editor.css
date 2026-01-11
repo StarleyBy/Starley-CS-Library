@@ -109,3 +109,254 @@
     padding: 10px;
     margin-top: 5px;
 }
+
+/* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
+
+/* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
+#editor-preview .oval {
+    padding: 3px 12px;
+    border-radius: 20px;
+    font-weight: 500;
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Gradient oval styles - MUCH MORE VIBRANT */
+#editor-preview .oval.ov-gold,
+#editor-preview .gold-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+    color: #333;
+    box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-green,
+#editor-preview .green-highlighted-oval-3d {
+    background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-blue,
+#editor-preview .blue-highlighted-oval-3d {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-red,
+#editor-preview .red-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f85032 0%, #e73827 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-pink,
+#editor-preview .pink-highlighted-oval-3d {
+    background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-purple,
+#editor-preview .purple-highlighted-oval-3d {
+    background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-teal,
+#editor-preview .teal-highlighted-oval-3d {
+    background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-orange,
+#editor-preview .orange-highlighted-oval-3d {
+    background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-yellow,
+#editor-preview .yellow-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%);
+    color: #333;
+    box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3);
+    border: none;
+}
+
+#editor-preview .oval.ov-grey,
+#editor-preview .oval.ov-silver,
+#editor-preview .silver-highlighted-oval-3d {
+    background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
+    color: #333;
+    box-shadow: 0 4px 6px rgba(189, 195, 199, 0.3);
+    border: none;
+}
+
+/* 2. BRIGHTER MARKERS */
+#editor-preview mark.m-green,
+#editor-preview .marker-green {
+    background-color: #27ae60;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-blue,
+#editor-preview .marker-blue {
+    background-color: #3498db;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-red,
+#editor-preview .marker-red {
+    background-color: #e74c3c;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-purple,
+#editor-preview .marker-purple {
+    background-color: #8e44ad;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-yellow,
+#editor-preview .marker-yellow {
+    background-color: #f1c40f;
+    color: #333;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+#editor-preview mark.m-teal,
+#editor-preview .marker-cyan {
+    background-color: #1abc9c;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-pink,
+#editor-preview .marker-pink {
+    background-color: #ff85a2;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+/* 3. LUMINOUS BLOCKS WITH GLOW */
+#editor-preview .luminous-block {
+    display: inline-block;
+    padding: 4px 12px;
+    margin: 0 3px;
+    border-radius: 4px;
+    font-weight: 600;
+    box-shadow: 0 0 10px currentColor;
+}
+
+#editor-preview .luminous-blue {
+    background: rgba(33, 150, 243, 0.2);
+    color: #2196f3;
+}
+
+#editor-preview .luminous-green {
+    background: rgba(76, 175, 80, 0.2);
+    color: #4caf50;
+}
+
+#editor-preview .luminous-red {
+    background: rgba(244, 67, 54, 0.2);
+    color: #f44336;
+}
+
+#editor-preview .luminous-yellow {
+    background: rgba(255, 235, 59, 0.3);
+    color: #f57f17;
+}
+
+#editor-preview .luminous-purple {
+    background: rgba(156, 39, 176, 0.2);
+    color: #9c27b0;
+}
+
+/* 4. CYBER EFFECTS */
+#editor-preview .cyber-glitch {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    color: #ff0000;
+    animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+    0%, 100% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+}
+
+#editor-preview .cyber-neon {
+    display: inline-block;
+    padding: 5px 15px;
+    font-weight: bold;
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
+    animation: neon-pulse 2s infinite;
+}
+
+@keyframes neon-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+#editor-preview .cyber-neon-pink { color: #ff1f8f; }
+#editor-preview .cyber-neon-blue { color: #00d9ff; }
+#editor-preview .cyber-neon-green { color: #39ff14; }
+#editor-preview .cyber-neon-yellow { color: #ffff00; }
+
+/* 5. INFO BOXES */
+#editor-preview .info-box {
+    background: #ffeaa7;
+    border-left: 4px solid #fdcb6e;
+    padding: 15px 20px;
+    margin: 15px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#editor-preview .info-box-info {
+    background: #e3f2fd;
+    border-left-color: #2196f3;
+}
+
+#editor-preview .info-box-success {
+    background: #e8f5e9;
+    border-left-color: #4caf50;
+}
+
+#editor-preview .info-box-warning {
+    background: #fff3cd;
+    border-left-color: #ff9800;
+}
+
+#editor-preview .info-box-danger {
+    background: #ffebee;
+    border-left-color: #f44336;
+}
