@@ -62,7 +62,10 @@ async function loadChapter(bookPath, chapterId, edition) {
             });
         }, 0);
 
-        window.scrollTo(0, 0);
+        // Прокручиваем только если нет якоря в URL
+if (!window.location.hash) {
+    window.scrollTo(0, 0);
+}
     } catch (e) {
         area.innerHTML = `<div class="error">Error loading chapter: ${e.message}</div>`;
         console.error("Failed to load chapter:", e);
