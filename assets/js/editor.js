@@ -153,3 +153,39 @@ function wrapInInfoBox(className) {
     area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
     updatePreview();
 }
+
+function insertAnchor() {
+    const area = document.getElementById('markdown-input');
+    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if(!sel) return alert('Выделите текст для якоря!');
+    
+    const anchorId = prompt('ID якоря (например: def-mitral-valve):', '');
+    if(!anchorId) return;
+    
+    const res = `<span id="${anchorId}">${sel}</span>`;
+    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    updatePreview();
+}
+
+function insertLink() {
+    const area = document.getElementById('markdown-input');
+    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if(!sel) return alert('Выделите текст ссылки!');
+    
+    const targetId = prompt('ID целевого якоря (например: def-mitral-valve):', '');
+    if(!targetId) return;
+    
+    const res = `<a href="#${targetId}">${sel} ↓</a>`;
+    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    updatePreview();
+}
+
+function insertBackLink() {
+    const area = document.getElementById('markdown-input');
+    const targetId = prompt('ID якоря, на который вернуться:', '');
+    if(!targetId) return;
+    
+    const res = ` <a href="#${targetId}" style="font-size:0.8em;">↩️ назад</a>`;
+    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    updatePreview();
+}
