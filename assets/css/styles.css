@@ -467,3 +467,8 @@ a[href^="#"]:hover {
 [id] {
     scroll-margin-top: 20px;
 }
+
+/* Плавная прокрутка при переходе по якорям */
+html {
+    scroll-behavior: smooth;
+}
