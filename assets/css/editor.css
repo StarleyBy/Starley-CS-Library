@@ -33,3 +33,79 @@
 .btn-success { background: #28a745 !important; color: white !important; font-weight: bold; }
 .loader-group select { width: 100%; margin-bottom: 5px; background: #3c3c3c; color: white; border: 1px solid #555; padding: 4px; }
 #export-filename { width: 100%; background: #3c3c3c; border: 1px solid #555; color: white; padding: 6px; margin-bottom: 5px; border-radius: 4px; }
+
+/* ==================== PREVIEW STYLES ==================== */
+
+/* Маркеры */
+#editor-preview mark.m-red { background-color: #ffe6e6; }
+#editor-preview mark.m-blue { background-color: #e6f3ff; }
+#editor-preview mark.m-green { background-color: #e6ffe6; }
+#editor-preview mark.m-gold { background-color: #fff9e6; }
+#editor-preview mark.m-purple { background-color: #f3e6ff; }
+#editor-preview mark.m-orange { background-color: #ffe9e6; }
+#editor-preview mark.m-teal { background-color: #e6fffa; }
+#editor-preview mark.m-pink { background-color: #ffe6f0; }
+#editor-preview mark.m-indigo { background-color: #eae6ff; }
+#editor-preview mark.m-lime { background-color: #f0ffe6; }
+#editor-preview mark.m-brown { background-color: #f5efe6; }
+#editor-preview mark.m-grey { background-color: #f0f0f0; }
+
+/* Овалы (цветные рамки) */
+#editor-preview .oval { padding: 2px 8px; border-radius: 12px; display: inline-block; border: 2px solid; }
+#editor-preview .oval.ov-red { border-color: #e74c3c; background-color: #ffe6e6; }
+#editor-preview .oval.ov-blue { border-color: #3498db; background-color: #e6f3ff; }
+#editor-preview .oval.ov-green { border-color: #2ecc71; background-color: #e6ffe6; }
+#editor-preview .oval.ov-gold { border-color: #f1c40f; background-color: #fff9e6; }
+#editor-preview .oval.ov-purple { border-color: #9b59b6; background-color: #f3e6ff; }
+#editor-preview .oval.ov-orange { border-color: #e67e22; background-color: #ffe9e6; }
+#editor-preview .oval.ov-teal { border-color: #1abc9c; background-color: #e6fffa; }
+#editor-preview .oval.ov-pink { border-color: #fd79a8; background-color: #ffe6f0; }
+#editor-preview .oval.ov-indigo { border-color: #6c5ce7; background-color: #eae6ff; }
+#editor-preview .oval.ov-lime { border-color: #badc58; background-color: #f0ffe6; }
+#editor-preview .oval.ov-brown { border-color: #a0522d; background-color: #f5efe6; }
+#editor-preview .oval.ov-grey { border-color: #95a5a6; background-color: #f0f0f0; }
+
+/* Цветной текст */
+#editor-preview .t-red { color: #e74c3c; }
+#editor-preview .t-blue { color: #3498db; }
+#editor-preview .t-green { color: #2ecc71; }
+#editor-preview .t-gold { color: #f1c40f; }
+#editor-preview .t-purple { color: #9b59b6; }
+#editor-preview .t-orange { color: #e67e22; }
+#editor-preview .t-teal { color: #1abc9c; }
+#editor-preview .t-pink { color: #fd79a8; }
+#editor-preview .t-indigo { color: #6c5ce7; }
+#editor-preview .t-lime { color: #badc58; }
+#editor-preview .t-brown { color: #a0522d; }
+#editor-preview .t-grey { color: #95a5a6; }
+
+/* Медицинские блоки */
+#editor-preview .med-note {
+    margin: 15px 0;
+    padding: 12px 15px;
+    border-left: 4px solid;
+    border-radius: 4px;
+}
+
+#editor-preview .note-dosage { background: #fff3e0; border-color: #ff6f00; }
+#editor-preview .note-anatomy { background: #fce4ec; border-color: #c2185b; }
+#editor-preview .note-surgery { background: #e8f5e9; border-color: #2e7d32; }
+#editor-preview .note-pharmacy { background: #e3f2fd; border-color: #1565c0; }
+#editor-preview .note-physio { background: #f3e5f5; border-color: #6a1b9a; }
+#editor-preview .note-fact { background: #fff9c4; border-color: #f57f17; }
+#editor-preview .note-treatment { background: #e0f2f1; border-color: #00695c; }
+#editor-preview .note-icu { background: #ffebee; border-color: #c62828; }
+#editor-preview .note-nb { background: #fff3e0; border-color: #e65100; font-weight: bold; }
+
+/* Скрываемые блоки */
+#editor-preview .med-details summary {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 8px;
+    background: #f5f5f5;
+    border-radius: 4px;
+}
+#editor-preview .med-details .details-content {
+    padding: 10px;
+    margin-top: 5px;
+}
