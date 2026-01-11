@@ -50,20 +50,7 @@
 #editor-preview mark.m-brown { background-color: #f5efe6; }
 #editor-preview mark.m-grey { background-color: #f0f0f0; }
 
-/* Овалы (цветные рамки) */
-#editor-preview .oval { padding: 2px 8px; border-radius: 12px; display: inline-block; border: 2px solid; }
-#editor-preview .oval.ov-red { border-color: #e74c3c; background-color: #ffe6e6; }
-#editor-preview .oval.ov-blue { border-color: #3498db; background-color: #e6f3ff; }
-#editor-preview .oval.ov-green { border-color: #2ecc71; background-color: #e6ffe6; }
-#editor-preview .oval.ov-gold { border-color: #f1c40f; background-color: #fff9e6; }
-#editor-preview .oval.ov-purple { border-color: #9b59b6; background-color: #f3e6ff; }
-#editor-preview .oval.ov-orange { border-color: #e67e22; background-color: #ffe9e6; }
-#editor-preview .oval.ov-teal { border-color: #1abc9c; background-color: #e6fffa; }
-#editor-preview .oval.ov-pink { border-color: #fd79a8; background-color: #ffe6f0; }
-#editor-preview .oval.ov-indigo { border-color: #6c5ce7; background-color: #eae6ff; }
-#editor-preview .oval.ov-lime { border-color: #badc58; background-color: #f0ffe6; }
-#editor-preview .oval.ov-brown { border-color: #a0522d; background-color: #f5efe6; }
-#editor-preview .oval.ov-grey { border-color: #95a5a6; background-color: #f0f0f0; }
+
 
 /* Цветной текст */
 #editor-preview .t-red { color: #e74c3c; }
@@ -113,94 +100,146 @@
 /* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
 
 /* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
-#editor-preview .oval {
-    padding: 3px 12px;
-    border-radius: 20px;
-    font-weight: 500;
-    display: inline-block;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-}
-
-/* Gradient oval styles - MUCH MORE VIBRANT */
-#editor-preview .oval.ov-gold,
+/* OVAL HIGHLIGHTS - ПРАВИЛЬНАЯ ВЕРСИЯ */
+#editor-preview .ov-gold,
 #editor-preview .gold-highlighted-oval-3d {
     background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: #333;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-green,
+#editor-preview .ov-green,
 #editor-preview .green-highlighted-oval-3d {
     background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-blue,
+#editor-preview .ov-blue,
 #editor-preview .blue-highlighted-oval-3d {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-red,
+#editor-preview .ov-red,
 #editor-preview .red-highlighted-oval-3d {
     background: linear-gradient(135deg, #f85032 0%, #e73827 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-pink,
+#editor-preview .ov-pink,
 #editor-preview .pink-highlighted-oval-3d {
     background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-purple,
+#editor-preview .ov-purple,
 #editor-preview .purple-highlighted-oval-3d {
     background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-teal,
+#editor-preview .ov-teal,
 #editor-preview .teal-highlighted-oval-3d {
     background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-orange,
+#editor-preview .ov-orange,
 #editor-preview .orange-highlighted-oval-3d {
     background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: white;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-yellow,
+#editor-preview .ov-yellow,
 #editor-preview .yellow-highlighted-oval-3d {
     background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: #333;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3);
-    border: none;
+    display: inline-block;
 }
 
-#editor-preview .oval.ov-grey,
-#editor-preview .oval.ov-silver,
+#editor-preview .ov-grey,
+#editor-preview .ov-silver,
 #editor-preview .silver-highlighted-oval-3d {
     background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
     color: #333;
+    font-weight: 500;
     box-shadow: 0 4px 6px rgba(189, 195, 199, 0.3);
-    border: none;
+    display: inline-block;
+}
+
+#editor-preview .ov-lime {
+    background: linear-gradient(135deg, #badc58 0%, #a8e063 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(186, 220, 88, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-indigo {
+    background: linear-gradient(135deg, #6c5ce7 0%, #5f4fcf 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(108, 92, 231, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-brown {
+    background: linear-gradient(135deg, #a0522d 0%, #8b4513 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(160, 82, 45, 0.3);
+    display: inline-block;
 }
 
 /* 2. BRIGHTER MARKERS */
