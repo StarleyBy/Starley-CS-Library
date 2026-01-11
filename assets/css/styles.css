@@ -432,3 +432,38 @@ mark.m-pink,
     background: #ffebee;
     border-left-color: #f44336;
 }
+
+/* Стили для внутренних ссылок (якорей) */
+a[href^="#"] {
+    color: #3498db;
+    text-decoration: none;
+    border-bottom: 1px dashed #3498db;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+a[href^="#"]:hover {
+    color: #2980b9;
+    border-bottom: 1px solid #2980b9;
+    background-color: rgba(52, 152, 219, 0.1);
+}
+
+/* Подсветка целевого якоря при переходе */
+:target {
+    animation: highlight-target 2s ease;
+    scroll-margin-top: 20px; /* Отступ сверху при прокрутке */
+}
+
+@keyframes highlight-target {
+    0% {
+        background-color: rgba(241, 196, 15, 0.3);
+    }
+    100% {
+        background-color: transparent;
+    }
+}
+
+/* Стиль для якорей */
+[id] {
+    scroll-margin-top: 20px;
+}
