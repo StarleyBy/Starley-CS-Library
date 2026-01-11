@@ -42,7 +42,8 @@ async function initLoader() {
                 const bookPath = `${cat.path}/${book.folder}`;
                 const metaResponse = await fetch(`${BASE_URL}${bookPath}/metadata.json`);
                 if (metaResponse.ok) {
-                    const bookMeta = await metaResponse.json();
+                    const bookData = await metaResponse.json();
+                    const bookMeta = Array.isArray(bookData) ? bookData[0] : bookData;
                     const opt = new Option(`${cat.title}: ${bookMeta.title}`, bookPath);
                     opt.dataset.chapters = JSON.stringify(bookMeta.chapters);
                     bookSelect.add(opt);
