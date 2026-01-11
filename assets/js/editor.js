@@ -131,3 +131,25 @@ function initExporter() {
         link.click();
     };
 }
+
+// Luminous и спецэффекты
+function wrapInEffect(className) {
+    const area = document.getElementById('markdown-input');
+    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<span class="${className}">${sel}</span>`;
+    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    updatePreview();
+}
+
+// Info boxes
+function wrapInInfoBox(className) {
+    const area = document.getElementById('markdown-input');
+    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `\n<div class="${className}">\n<p>${sel}</p>\n</div>\n`;
+    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    updatePreview();
+}
