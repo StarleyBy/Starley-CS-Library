@@ -36,22 +36,6 @@
 
 /* ==================== PREVIEW STYLES ==================== */
 
-/* Маркеры */
-#editor-preview mark.m-red { background-color: #ffe6e6; }
-#editor-preview mark.m-blue { background-color: #e6f3ff; }
-#editor-preview mark.m-green { background-color: #e6ffe6; }
-#editor-preview mark.m-gold { background-color: #fff9e6; }
-#editor-preview mark.m-purple { background-color: #f3e6ff; }
-#editor-preview mark.m-orange { background-color: #ffe9e6; }
-#editor-preview mark.m-teal { background-color: #e6fffa; }
-#editor-preview mark.m-pink { background-color: #ffe6f0; }
-#editor-preview mark.m-indigo { background-color: #eae6ff; }
-#editor-preview mark.m-lime { background-color: #f0ffe6; }
-#editor-preview mark.m-brown { background-color: #f5efe6; }
-#editor-preview mark.m-grey { background-color: #f0f0f0; }
-
-
-
 /* Цветной текст */
 #editor-preview .t-red { color: #e74c3c; }
 #editor-preview .t-blue { color: #3498db; }
@@ -66,23 +50,124 @@
 #editor-preview .t-brown { color: #a0522d; }
 #editor-preview .t-grey { color: #95a5a6; }
 
-/* Медицинские блоки */
+/* МЕДИЦИНСКИЕ БЛОКИ - УСИЛЕННАЯ ВЕРСИЯ */
 #editor-preview .med-note {
     margin: 15px 0;
     padding: 12px 15px;
     border-left: 4px solid;
     border-radius: 4px;
+    font-size: 14px;
 }
 
-#editor-preview .note-dosage { background: #fff3e0; border-color: #ff6f00; }
-#editor-preview .note-anatomy { background: #fce4ec; border-color: #c2185b; }
-#editor-preview .note-surgery { background: #e8f5e9; border-color: #2e7d32; }
-#editor-preview .note-pharmacy { background: #e3f2fd; border-color: #1565c0; }
-#editor-preview .note-physio { background: #f3e5f5; border-color: #6a1b9a; }
-#editor-preview .note-fact { background: #fff9c4; border-color: #f57f17; }
-#editor-preview .note-treatment { background: #e0f2f1; border-color: #00695c; }
-#editor-preview .note-icu { background: #ffebee; border-color: #c62828; }
-#editor-preview .note-nb { background: #fff3e0; border-color: #e65100; font-weight: bold; }
+#editor-preview .note-dosage,
+#editor-preview .med-note.note-dosage {
+    background: #fff3e0;
+    border-color: #ff6f00;
+}
+
+#editor-preview .note-dosage::before {
+    content: "💉 Дозировка: ";
+    font-weight: bold;
+    color: #ff6f00;
+}
+
+#editor-preview .note-anatomy,
+#editor-preview .med-note.note-anatomy {
+    background: #fce4ec;
+    border-color: #c2185b;
+}
+
+#editor-preview .note-anatomy::before {
+    content: "🫀 Анатомия: ";
+    font-weight: bold;
+    color: #c2185b;
+}
+
+#editor-preview .note-surgery,
+#editor-preview .med-note.note-surgery {
+    background: #e8f5e9;
+    border-color: #2e7d32;
+}
+
+#editor-preview .note-surgery::before {
+    content: "🔪 Хирургия: ";
+    font-weight: bold;
+    color: #2e7d32;
+}
+
+#editor-preview .note-pharmacy,
+#editor-preview .med-note.note-pharmacy {
+    background: #e3f2fd;
+    border-color: #1565c0;
+}
+
+#editor-preview .note-pharmacy::before {
+    content: "💊 Фармакология: ";
+    font-weight: bold;
+    color: #1565c0;
+}
+
+#editor-preview .note-physio,
+#editor-preview .med-note.note-physio {
+    background: #f3e5f5;
+    border-color: #6a1b9a;
+}
+
+#editor-preview .note-physio::before {
+    content: "🧬 Физиология: ";
+    font-weight: bold;
+    color: #6a1b9a;
+}
+
+#editor-preview .note-fact,
+#editor-preview .med-note.note-fact {
+    background: #fff9c4;
+    border-color: #f57f17;
+}
+
+#editor-preview .note-fact::before {
+    content: "💡 Факт: ";
+    font-weight: bold;
+    color: #f57f17;
+}
+
+#editor-preview .note-treatment,
+#editor-preview .med-note.note-treatment {
+    background: #e0f2f1;
+    border-color: #00695c;
+}
+
+#editor-preview .note-treatment::before {
+    content: "🩹 Лечение: ";
+    font-weight: bold;
+    color: #00695c;
+}
+
+#editor-preview .note-icu,
+#editor-preview .med-note.note-icu {
+    background: #ffebee;
+    border-color: #c62828;
+}
+
+#editor-preview .note-icu::before {
+    content: "🏥 ОИТ: ";
+    font-weight: bold;
+    color: #c62828;
+}
+
+#editor-preview .note-nb,
+#editor-preview .med-note.note-nb {
+    background: #fff3e0;
+    border-color: #e65100;
+    font-weight: bold;
+}
+
+#editor-preview .note-nb::before {
+    content: "⚠️ NB! ";
+    font-weight: bold;
+    color: #e65100;
+    font-size: 16px;
+}
 
 /* Скрываемые блоки */
 #editor-preview .med-details summary {
@@ -243,59 +328,89 @@
 }
 
 /* 2. BRIGHTER MARKERS */
-#editor-preview mark.m-green,
-#editor-preview .marker-green {
-    background-color: #27ae60;
-    color: white;
+/* ЯРКИЕ МАРКЕРЫ - ПРАВИЛЬНАЯ ВЕРСИЯ */
+#editor-preview mark.m-green {
+    background-color: #27ae60 !important;
+    color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-#editor-preview mark.m-blue,
-#editor-preview .marker-blue {
-    background-color: #3498db;
-    color: white;
+#editor-preview mark.m-blue {
+    background-color: #3498db !important;
+    color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-#editor-preview mark.m-red,
-#editor-preview .marker-red {
-    background-color: #e74c3c;
-    color: white;
+#editor-preview mark.m-red {
+    background-color: #e74c3c !important;
+    color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-#editor-preview mark.m-purple,
-#editor-preview .marker-purple {
-    background-color: #8e44ad;
-    color: white;
+#editor-preview mark.m-purple {
+    background-color: #8e44ad !important;
+    color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-#editor-preview mark.m-yellow,
-#editor-preview .marker-yellow {
-    background-color: #f1c40f;
-    color: #333;
+#editor-preview mark.m-teal {
+    background-color: #1abc9c !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-gold {
+    background-color: #f39c12 !important;
+    color: #333 !important;
     padding: 2px 5px;
     border-radius: 3px;
     font-weight: 500;
 }
 
-#editor-preview mark.m-teal,
-#editor-preview .marker-cyan {
-    background-color: #1abc9c;
-    color: white;
+#editor-preview mark.m-orange {
+    background-color: #e67e22 !important;
+    color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-#editor-preview mark.m-pink,
-#editor-preview .marker-pink {
-    background-color: #ff85a2;
-    color: white;
+#editor-preview mark.m-pink {
+    background-color: #ff85a2 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-indigo {
+    background-color: #6c5ce7 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-lime {
+    background-color: #badc58 !important;
+    color: #333 !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+#editor-preview mark.m-brown {
+    background-color: #a0522d !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+#editor-preview mark.m-grey {
+    background-color: #95a5a6 !important;
+    color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
