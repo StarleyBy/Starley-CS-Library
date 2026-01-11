@@ -82,7 +82,7 @@ function applyStyle(type, className) {
     if(!sel) return;
 
     let res = '';
-    if(type === 'oval') res = `<span class="oval ${className}">${sel}</span>`;
+    if(type === 'oval') res = `<span class="${className}">${sel}</span>`; // Убрали класс "oval"
     if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
     if(type === 'text') res = `<span class="${className}">${sel}</span>`;
 
