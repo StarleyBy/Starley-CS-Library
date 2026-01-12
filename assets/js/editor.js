@@ -1,8 +1,7 @@
-const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
+const javascriptcolors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
 let editor; // Глобальная переменная для CodeMirror
 
-<<<<<<< HEAD
 document.addEventListener('DOMContentLoaded', () => {
     initColorPalettes(); // Сначала цвета
     initLoader();        // Потом загрузчик
@@ -13,22 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
         initPreview();
     }, 100);
 });
-=======
-document.getElementById('btn-load-cloud').onclick = async () => {
-    if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
-    const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
-    const res = await fetch(url);
-    if(res.ok) {
-        const text = await res.text();
-        if (editor) {
-            editor.setValue(text);
-        } else {
-            document.getElementById('markdown-input').value = text;
-        }
-        updatePreview();
-    } else alert("File not found");
-};
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
 
 // 1. Initialize color palettes
 function initColorPalettes() {
@@ -36,31 +19,31 @@ function initColorPalettes() {
     const markerGrid = document.getElementById('marker-colors');
     const textGrid = document.getElementById('text-colors');
 
-   colors.forEach((name, i) => {
-    // Овалы
-    const ovalDot = document.createElement('div');
-    ovalDot.className = 'color-dot';
-    ovalDot.style.backgroundColor = colorValues[i];
-    ovalDot.title = name; // Подсказка
-    ovalDot.onclick = () => applyStyleCM('oval', 'ov-' + name);
-    ovalGrid.appendChild(ovalDot);
-    
-    // Маркеры
-    const markerDot = document.createElement('div');
-    markerDot.className = 'color-dot';
-    markerDot.style.backgroundColor = colorValues[i];
-    markerDot.title = name;
-    markerDot.onclick = () => applyStyleCM('marker', 'm-' + name);
-    markerGrid.appendChild(markerDot);
-    
-    // Текст
-    const textDot = document.createElement('div');
-    textDot.className = 'color-dot';
-    textDot.style.backgroundColor = colorValues[i];
-    textDot.title = name;
-    textDot.onclick = () => applyStyleCM('text', 't-' + name);
-    textGrid.appendChild(textDot);
-});
+    javascriptcolors.forEach((name, i) => {
+        // Овалы
+        const ovalDot = document.createElement('div');
+        ovalDot.className = 'color-dot';
+        ovalDot.style.backgroundColor = colorValues[i];
+        ovalDot.title = name; // Подсказка
+        ovalDot.onclick = () => applyStyleCM('oval', 'ov-' + name);
+        ovalGrid.appendChild(ovalDot);
+        
+        // Маркеры
+        const markerDot = document.createElement('div');
+        markerDot.className = 'color-dot';
+        markerDot.style.backgroundColor = colorValues[i];
+        markerDot.title = name;
+        markerDot.onclick = () => applyStyleCM('marker', 'm-' + name);
+        markerGrid.appendChild(markerDot);
+        
+        // Текст
+        const textDot = document.createElement('div');
+        textDot.className = 'color-dot';
+        textDot.style.backgroundColor = colorValues[i];
+        textDot.title = name;
+        textDot.onclick = () => applyStyleCM('text', 't-' + name);
+        textGrid.appendChild(textDot);
+    });
 }
 
 // 2. Load files
@@ -99,19 +82,19 @@ async function initLoader() {
         };
 
         document.getElementById('btn-load-cloud').onclick = async () => {
-    if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
-    const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
-    const res = await fetch(url);
-    if(res.ok) {
-        const text = await res.text();
-        if (editor) {
-            editor.setValue(text);
-        } else {
-            document.getElementById('markdown-input').value = text;
-        }
-        updatePreview();
-    } else alert("File not found");
-};
+            if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
+            const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
+            const res = await fetch(url);
+            if(res.ok) {
+                const text = await res.text();
+                if (editor) {
+                    editor.setValue(text);
+                } else {
+                    document.getElementById('markdown-input').value = text;
+                }
+                updatePreview();
+            } else alert("File not found");
+        };
     } catch (e) { console.error(e); }
 }
 
@@ -121,6 +104,22 @@ function applyStyle(type, className) {
     
     const sel = editor.getSelection();
     if(!sel) return;
+
+    let res = '';
+    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
+    if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
+    if(type === 'text') res = `<span class="${className}">${sel}</span>`;
+
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+// Функция для применения стилей через CodeMirror
+function applyStyleCM(type, className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
 
     let res = '';
     if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
@@ -195,107 +194,41 @@ function initExporter() {
     };
 }
 
-<<<<<<< HEAD
-// Функция для применения стилей через CodeMirror
-function applyStyleCM(type, className) {
-=======
-// Luminous и спецэффекты
-function wrapInEffect(className) {
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст!');
-<<<<<<< HEAD
-
-    let res = '';
-    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
-    if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
-    if(type === 'text') res = `<span class="${className}">${sel}</span>`;
-
-=======
-    
-    const res = `<span class="${className}">${sel}</span>`;
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-// Info boxes
-function wrapInInfoBox(className) {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст!');
-    
-    const res = `\n<div class="${className}">\n<p>${sel}</p>\n</div>\n`;
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
 function insertAnchor() {
-<<<<<<< HEAD
     if (!editor) return;
     
     const sel = editor.getSelection();
-=======
-    const area = document.getElementById('markdown-input');
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
     if(!sel) return alert('Выделите текст для якоря!');
     
     const anchorId = prompt('ID якоря (например: def-mitral-valve):', '');
     if(!anchorId) return;
     
     const res = `<span id="${anchorId}">${sel}</span>`;
-<<<<<<< HEAD
     editor.replaceSelection(res);
-=======
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
     updatePreview();
 }
 
 function insertLink() {
-<<<<<<< HEAD
     if (!editor) return;
     
     const sel = editor.getSelection();
-=======
-    const area = document.getElementById('markdown-input');
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
     if(!sel) return alert('Выделите текст ссылки!');
     
     const targetId = prompt('ID целевого якоря (например: def-mitral-valve):', '');
     if(!targetId) return;
     
     const res = `<a href="#${targetId}">${sel} ↓</a>`;
-<<<<<<< HEAD
     editor.replaceSelection(res);
-=======
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
     updatePreview();
 }
 
 function insertBackLink() {
-<<<<<<< HEAD
     if (!editor) return;
     
-=======
-    const area = document.getElementById('markdown-input');
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
     const targetId = prompt('ID якоря, на который вернуться:', '');
     if(!targetId) return;
     
     const res = ` <a href="#${targetId}" style="font-size:0.8em;">↩️ назад</a>`;
-<<<<<<< HEAD
     editor.replaceSelection(res);
     updatePreview();
 }
-=======
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
-    updatePreview();
-}
->>>>>>> be56c444529164f735788b8ce04cf57e371c42e7
