@@ -1,12 +1,21 @@
 const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
+let editor; // Глобальная переменная для CodeMirror
 
-document.addEventListener('DOMContentLoaded', () => {
-    initColorPalettes();
-    initLoader();
-    initPreview();
-    initExporter();
-});
+document.getElementById('btn-load-cloud').onclick = async () => {
+    if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
+    const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
+    const res = await fetch(url);
+    if(res.ok) {
+        const text = await res.text();
+        if (editor) {
+            editor.setValue(text);
+        } else {
+            document.getElementById('markdown-input').value = text;
+        }
+        updatePreview();
+    } else alert("File not found");
+};
 
 // 1. Initialize color palettes
 function initColorPalettes() {
@@ -77,52 +86,75 @@ async function initLoader() {
 
 // 3. Apply styles
 function applyStyle(type, className) {
-    const area = document.getElementById('markdown-input');
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
     if(!sel) return;
 
     let res = '';
-    if(type === 'oval') res = `<span class="${className}">${sel}</span>`; // Убрали класс "oval"
+    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
     if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
     if(type === 'text') res = `<span class="${className}">${sel}</span>`;
 
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    editor.replaceSelection(res);
     updatePreview();
 }
 
 function wrapInBlock(type) {
-    const area = document.getElementById('markdown-input');
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
     const res = `\n<div class="med-note ${type}">\n${sel || 'Block text'}\n</div>\n`;
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    editor.replaceSelection(res);
     updatePreview();
 }
 
 function addDetails() {
-    const area = document.getElementById('markdown-input');
+    if (!editor) return;
+    
     const title = prompt("Title for the hidden block:", "Classification / Details");
     if (!title) return;
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    const sel = editor.getSelection();
     const res = `\n<details class="med-details">\n<summary>${title}</summary>\n<div class="details-content">\n${sel}\n</div>\n</details>\n`;
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    editor.replaceSelection(res);
     updatePreview();
 }
 
 // 4. Preview and Export
 function initPreview() {
-    const input = document.getElementById('markdown-input');
-    input.addEventListener('input', updatePreview);
-    updatePreview(); // Initial preview
+    // Инициализация CodeMirror
+    const textarea = document.getElementById('markdown-input');
+    
+    editor = CodeMirror.fromTextArea(textarea, {
+        mode: 'htmlmixed', // Поддержка HTML внутри Markdown
+        theme: 'monokai',
+        lineNumbers: true,
+        lineWrapping: true,
+        autofocus: true,
+        indentUnit: 2,
+        tabSize: 2,
+        styleActiveLine: true,
+        matchBrackets: true,
+        autoCloseBrackets: true,
+        autoCloseTags: true
+    });
+    
+    // Обновление preview при изменении
+    editor.on('change', function() {
+        updatePreview();
+    });
+    
+    updatePreview();
 }
 
 function updatePreview() {
-    const val = document.getElementById('markdown-input').value;
+    const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;
     document.getElementById('editor-preview').innerHTML = marked.parse(val);
 }
 
 function initExporter() {
     document.getElementById('btn-download').onclick = () => {
-        const text = document.getElementById('markdown-input').value;
+        const text = editor ? editor.getValue() : document.getElementById('markdown-input').value;
         const filename = document.getElementById('export-filename').value || 'chapter-starley.md';
         const blob = new Blob([text], { type: 'text/markdown' });
         const link = document.createElement('a');
@@ -134,23 +166,25 @@ function initExporter() {
 
 // Luminous и спецэффекты
 function wrapInEffect(className) {
-    const area = document.getElementById('markdown-input');
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
     if(!sel) return alert('Выделите текст!');
     
     const res = `<span class="${className}">${sel}</span>`;
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    editor.replaceSelection(res);
     updatePreview();
 }
 
 // Info boxes
 function wrapInInfoBox(className) {
-    const area = document.getElementById('markdown-input');
-    const sel = area.value.substring(area.selectionStart, area.selectionEnd);
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
     if(!sel) return alert('Выделите текст!');
     
     const res = `\n<div class="${className}">\n<p>${sel}</p>\n</div>\n`;
-    area.setRangeText(res, area.selectionStart, area.selectionEnd, 'select');
+    editor.replaceSelection(res);
     updatePreview();
 }
 
