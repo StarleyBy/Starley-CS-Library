@@ -1,4 +1,4 @@
-const javascriptcolors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
+const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
 let editor; // Глобальная переменная для CodeMirror
 
@@ -19,7 +19,7 @@ function initColorPalettes() {
     const markerGrid = document.getElementById('marker-colors');
     const textGrid = document.getElementById('text-colors');
 
-    javascriptcolors.forEach((name, i) => {
+    colors.forEach((name, i) => {
         // Овалы
         const ovalDot = document.createElement('div');
         ovalDot.className = 'color-dot';
@@ -229,6 +229,30 @@ function insertBackLink() {
     if(!targetId) return;
     
     const res = ` <a href="#${targetId}" style="font-size:0.8em;">↩️ назад</a>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+// Luminous и спецэффекты
+function wrapInEffect(className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<span class="${className}">${sel}</span>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+// Info boxes
+function wrapInInfoBox(className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `\n<div class="${className}">\n<p>${sel}</p>\n</div>\n`;
     editor.replaceSelection(res);
     updatePreview();
 }
