@@ -2,10 +2,14 @@ const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pin
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
 
 document.addEventListener('DOMContentLoaded', () => {
-    initColorPalettes();
-    initLoader();
-    initPreview();
-    initExporter();
+    initColorPalettes(); // Сначала цвета
+    initLoader();        // Потом загрузчик
+    initExporter();      // Потом экспорт
+    
+    // CodeMirror инициализируем В ПОСЛЕДНЮЮ очередь
+    setTimeout(() => {
+        initPreview();
+    }, 100);
 });
 
 // 1. Initialize color palettes
@@ -14,18 +18,31 @@ function initColorPalettes() {
     const markerGrid = document.getElementById('marker-colors');
     const textGrid = document.getElementById('text-colors');
 
-    colors.forEach((name, i) => {
-        const dot = (type, cls) => {
-            const d = document.createElement('div');
-            d.className = 'color-dot';
-            d.style.backgroundColor = colorValues[i];
-            d.onclick = () => applyStyle(type, cls + name);
-            return d;
-        };
-        ovalGrid.appendChild(dot('oval', 'ov-'));
-        markerGrid.appendChild(dot('marker', 'm-'));
-        textGrid.appendChild(dot('text', 't-'));
-    });
+   colors.forEach((name, i) => {
+    // Овалы
+    const ovalDot = document.createElement('div');
+    ovalDot.className = 'color-dot';
+    ovalDot.style.backgroundColor = colorValues[i];
+    ovalDot.title = name; // Подсказка
+    ovalDot.onclick = () => applyStyleCM('oval', 'ov-' + name);
+    ovalGrid.appendChild(ovalDot);
+    
+    // Маркеры
+    const markerDot = document.createElement('div');
+    markerDot.className = 'color-dot';
+    markerDot.style.backgroundColor = colorValues[i];
+    markerDot.title = name;
+    markerDot.onclick = () => applyStyleCM('marker', 'm-' + name);
+    markerGrid.appendChild(markerDot);
+    
+    // Текст
+    const textDot = document.createElement('div');
+    textDot.className = 'color-dot';
+    textDot.style.backgroundColor = colorValues[i];
+    textDot.title = name;
+    textDot.onclick = () => applyStyleCM('text', 't-' + name);
+    textGrid.appendChild(textDot);
+});
 }
 
 // 2. Load files
@@ -63,14 +80,19 @@ async function initLoader() {
         };
 
         document.getElementById('btn-load-cloud').onclick = async () => {
-            if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
-            const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
-            const res = await fetch(url);
-            if(res.ok) {
-                document.getElementById('markdown-input').value = await res.text();
-                updatePreview();
-            } else alert("File not found");
-        };
+    if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
+    const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
+    const res = await fetch(url);
+    if(res.ok) {
+        const text = await res.text();
+        if (editor) {
+            editor.setValue(text);
+        } else {
+            document.getElementById('markdown-input').value = text;
+        }
+        updatePreview();
+    } else alert("File not found");
+};
     } catch (e) { console.error(e); }
 }
 
@@ -129,4 +151,59 @@ function initExporter() {
         link.download = filename;
         link.click();
     };
+}
+
+// Функция для применения стилей через CodeMirror
+function applyStyleCM(type, className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+
+    let res = '';
+    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
+    if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
+    if(type === 'text') res = `<span class="${className}">${sel}</span>`;
+
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function insertAnchor() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст для якоря!');
+    
+    const anchorId = prompt('ID якоря (например: def-mitral-valve):', '');
+    if(!anchorId) return;
+    
+    const res = `<span id="${anchorId}">${sel}</span>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function insertLink() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст ссылки!');
+    
+    const targetId = prompt('ID целевого якоря (например: def-mitral-valve):', '');
+    if(!targetId) return;
+    
+    const res = `<a href="#${targetId}">${sel} ↓</a>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function insertBackLink() {
+    if (!editor) return;
+    
+    const targetId = prompt('ID якоря, на который вернуться:', '');
+    if(!targetId) return;
+    
+    const res = ` <a href="#${targetId}" style="font-size:0.8em;">↩️ назад</a>`;
+    editor.replaceSelection(res);
+    updatePreview();
 }
