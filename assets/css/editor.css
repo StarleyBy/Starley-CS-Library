@@ -526,3 +526,17 @@
     color: #2980b9;
     border-bottom: 1px solid #2980b9;
 }
+
+/* CodeMirror container */
+.CodeMirror {
+    height: 100% !important;
+    font-family: 'Fira Code', 'Courier New', monospace !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+}
+
+/* Подсветка HTML тегов */
+.cm-tag { color: #569cd6 !important; font-weight: bold; }
+.cm-attribute { color: #9cdcfe !important; }
+.cm-string { color: #ce9178 !important; }
+.cm-qualifier { color: #4ec9b0 !important; } /* классы */
