@@ -7,6 +7,14 @@
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/editor.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- CodeMirror CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
+<!-- CodeMirror JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/xml/xml.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/markdown/markdown.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/htmlmixed/htmlmixed.min.js"></script>
 </head>
 <body>
     <header>
@@ -27,14 +35,35 @@
             </div>
 
             <div class="tool-group">
-                <h4>⭕ Color Oval</h4>
-                <div class="color-grid" id="oval-colors"></div>
-            </div>
+    <h4>⭕ Color Oval (3D Gradient)</h4>
+    <div class="color-grid" id="oval-colors"></div>
+</div>
 
             <div class="tool-group">
                 <h4>🖍️ Marker</h4>
                 <div class="color-grid" id="marker-colors"></div>
             </div>
+
+            <div class="tool-group">
+    <h4>✨ Special Effects</h4>
+    <button onclick="wrapInEffect('luminous-blue')" style="background: rgba(33, 150, 243, 0.2); color: #2196f3;">💎 Luminous Blue</button>
+    <button onclick="wrapInEffect('luminous-green')" style="background: rgba(76, 175, 80, 0.2); color: #4caf50;">💚 Luminous Green</button>
+    <button onclick="wrapInEffect('luminous-red')" style="background: rgba(244, 67, 54, 0.2); color: #f44336;">❤️ Luminous Red</button>
+    <button onclick="wrapInEffect('luminous-yellow')" style="background: rgba(255, 235, 59, 0.3); color: #f57f17;">💛 Luminous Yellow</button>
+    <button onclick="wrapInEffect('luminous-purple')" style="background: rgba(156, 39, 176, 0.2); color: #9c27b0;">💜 Luminous Purple</button>
+    <button onclick="wrapInEffect('cyber-neon cyber-neon-pink')" style="background: #2c3e50; color: #ff1f8f;">⚡ Neon Pink</button>
+    <button onclick="wrapInEffect('cyber-neon cyber-neon-blue')" style="background: #2c3e50; color: #00d9ff;">⚡ Neon Blue</button>
+    <button onclick="wrapInEffect('cyber-glitch')" style="background: #c0392b; color: white;">⚡ Glitch Effect</button>
+</div>
+
+<div class="tool-group">
+    <h4>📦 Info Boxes</h4>
+    <button onclick="wrapInInfoBox('info-box')" style="background: #ffeaa7; color: #2d3436;">📦 Default</button>
+    <button onclick="wrapInInfoBox('info-box info-box-info')" style="background: #e3f2fd; color: #1565c0;">ℹ️ Info</button>
+    <button onclick="wrapInInfoBox('info-box info-box-success')" style="background: #e8f5e9; color: #2e7d32;">✅ Success</button>
+    <button onclick="wrapInInfoBox('info-box info-box-warning')" style="background: #fff3cd; color: #e65100;">⚠️ Warning</button>
+    <button onclick="wrapInInfoBox('info-box info-box-danger')" style="background: #ffebee; color: #c62828;">🚨 Danger</button>
+</div>
 
             <div class="tool-group">
                 <h4>🎨 Text Color</h4>
@@ -53,6 +82,13 @@
                 <button onclick="wrapInBlock('note-icu')">🏥 ICU</button>
                 <button onclick="wrapInBlock('note-nb')">⚠️ NB!</button>
             </div>
+
+            <div class="tool-group">
+    <h4>🔗 Якоря и ссылки</h4>
+    <button onclick="insertAnchor()">⚓ Создать якорь</button>
+    <button onclick="insertLink()">🔗 Ссылка на якорь</button>
+    <button onclick="insertBackLink()">↩️ Обратная ссылка</button>
+</div>
 
             <div class="tool-group">
                 <h4>✨ Effects</h4>
