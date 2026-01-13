@@ -71,3 +71,22 @@ if (!window.location.hash) {
         console.error("Failed to load chapter:", e);
     }
 }
+
+// ==================== УМНАЯ КНОПКА ВОЗВРАТА ====================
+// Обработка умных кнопок "назад" через историю браузера
+document.addEventListener('DOMContentLoaded', function() {
+    // Делегирование события для динамически загружаемого контента
+    document.addEventListener('click', function(e) {
+        // Проверяем, является ли кликнутый элемент умной кнопкой возврата
+        const backButton = e.target.closest('a[data-back="true"]');
+        if (backButton) {
+            e.preventDefault();
+            e.stopPropagation();
+            
+            // Возвращаемся на предыдущую страницу в истории браузера
+            window.history.back();
+        }
+    });
+    
+    console.log('✅ Умная навигация активирована');
+});

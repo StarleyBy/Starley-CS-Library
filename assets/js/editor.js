@@ -194,43 +194,53 @@ function initExporter() {
     };
 }
 
+// Создать якорь определения
 function insertAnchor() {
     if (!editor) return;
     
     const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст для якоря!');
+    if(!sel) return alert('Выделите заголовок термина!');
     
-    const anchorId = prompt('ID якоря (например: def-mitral-valve):', '');
-    if(!anchorId) return;
+    const termName = prompt('Название термина (например: mitral-stenosis):', '');
+    if(!termName) return;
+    
+    const anchorId = `def-${termName}`;
     
     const res = `<span id="${anchorId}">${sel}</span>`;
     editor.replaceSelection(res);
     updatePreview();
+    
+    alert(`✅ Создан якорь определения!\n\nID: ${anchorId}\n\nТеперь добавьте умную кнопку возврата:\nПоставьте курсор после заголовка и нажмите "↩️ Умная кнопка назад"`);
 }
 
+// Создать ссылку на термин
 function insertLink() {
     if (!editor) return;
     
     const sel = editor.getSelection();
     if(!sel) return alert('Выделите текст ссылки!');
     
-    const targetId = prompt('ID целевого якоря (например: def-mitral-valve):', '');
-    if(!targetId) return;
+    const termName = prompt('Название термина (например: mitral-stenosis):', '');
+    if(!termName) return;
+    
+    const targetId = `def-${termName}`;
     
     const res = `<a href="#${targetId}">${sel} ↓</a>`;
     editor.replaceSelection(res);
     updatePreview();
+    
+    alert(`✅ Создана ссылка на термин!\n\nТеперь в месте определения:\n1. Выделите заголовок\n2. Нажмите "⚓ Якорь определения"\n3. Введите: ${termName}\n4. Нажмите "↩️ Умная кнопка назад"`);
 }
 
+// Умная кнопка возврата (использует историю браузера)
 function insertBackLink() {
     if (!editor) return;
     
-    const targetId = prompt('ID якоря, на который вернуться:', '');
-    if(!targetId) return;
-    
-    const res = ` <a href="#${targetId}" style="font-size:0.8em;">↩️ назад</a>`;
+    const res = ` <a href="#" data-back="true" style="font-size:0.8em; color:#7f8c8d; text-decoration:none;">↩️ назад</a>`;
     editor.replaceSelection(res);
     updatePreview();
+    
+    alert('✅ Добавлена умная кнопка возврата!\n\nОна автоматически вернет к ЛЮБОЙ ссылке, откуда пришел пользователь.\n\nРаботает через историю браузера - не требует указания ID.');
 }
 
 // Luminous и спецэффекты

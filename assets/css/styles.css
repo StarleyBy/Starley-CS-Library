@@ -472,3 +472,28 @@ a[href^="#"]:hover {
 html {
     scroll-behavior: smooth;
 }
+
+/* Стили для умной кнопки возврата */
+a[data-back="true"] {
+    display: inline-block;
+    margin-left: 10px;
+    padding: 2px 8px;
+    font-size: 0.85em;
+    color: #7f8c8d;
+    text-decoration: none;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+a[data-back="true"]:hover {
+    color: #2c3e50;
+    border-color: #7f8c8d;
+    background-color: #ecf0f1;
+    transform: translateX(-2px);
+}
+
+a[data-back="true"]:active {
+    transform: scale(0.95);
+}
