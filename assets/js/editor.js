@@ -266,3 +266,26 @@ function wrapInInfoBox(className) {
     editor.replaceSelection(res);
     updatePreview();
 }
+
+// Вставка Docusaurus-style блоков
+function insertAdmonition(type, defaultTitle) {
+    if (!editor) return;
+    
+    const title = prompt(`Заголовок блока:`, defaultTitle);
+    if (title === null) return; // Отменено
+    
+    const sel = editor.getSelection();
+    const content = sel || 'Введите текст блока здесь';
+    
+    const res = `
+<div class="admonition admonition-${type}">
+  <div class="admonition-title">${title}</div>
+  <div class="admonition-content">
+${content}
+  </div>
+</div>
+`;
+    
+    editor.replaceSelection(res);
+    updatePreview();
+}
