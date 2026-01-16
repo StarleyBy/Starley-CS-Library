@@ -275,64 +275,6 @@ footer {
     border: none;
 }
 
-/* 2. BRIGHTER MARKERS */
- mark.m-green,
-.marker-green {
-    background-color: #27ae60;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-}
-
-mark.m-blue,
-.marker-blue {
-    background-color: #3498db;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-}
-
-mark.m-red,
-.marker-red {
-    background-color: #e74c3c;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-}
-
-mark.m-purple,
-.marker-purple {
-    background-color: #8e44ad;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-}
-
-mark.m-yellow,
-.marker-yellow {
-    background-color: #f1c40f;
-    color: #333;
-    padding: 2px 5px;
-    border-radius: 3px;
-    font-weight: 500;
-}
-
-mark.m-teal,
-.marker-cyan {
-    background-color: #1abc9c;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-}
-
-mark.m-pink,
-.marker-pink {
-    background-color: #ff85a2;
-    color: white;
-    padding: 2px 5px;
-    border-radius: 3px;
-}
-
 /* 3. LUMINOUS BLOCKS WITH GLOW */
 .luminous-block {
     display: inline-block;
