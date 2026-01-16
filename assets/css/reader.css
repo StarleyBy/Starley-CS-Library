@@ -562,6 +562,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-blue {
@@ -569,6 +570,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-red {
@@ -576,6 +578,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-purple {
@@ -583,6 +586,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-teal {
@@ -590,6 +594,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-gold {
@@ -598,6 +603,7 @@ body.focus-mode #content-area {
     padding: 2px 5px;
     border-radius: 3px;
     font-weight: 500;
+    display: inline-block !important;
 }
 
 .content span.m-orange {
@@ -605,6 +611,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-pink {
@@ -612,6 +619,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-indigo {
@@ -619,6 +627,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-lime {
@@ -627,6 +636,7 @@ body.focus-mode #content-area {
     padding: 2px 5px;
     border-radius: 3px;
     font-weight: 500;
+    display: inline-block !important;
 }
 
 .content span.m-brown {
@@ -634,6 +644,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 .content span.m-grey {
@@ -641,6 +652,7 @@ body.focus-mode #content-area {
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
+    display: inline-block !important;
 }
 
 /* 3. LUMINOUS BLOCKS WITH GLOW */
