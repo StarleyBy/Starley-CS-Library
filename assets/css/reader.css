@@ -262,3 +262,752 @@ body.focus-mode #content-area {
     min-width: 40px;
   }
 }
+/* ==================== PREVIEW STYLES ==================== */
+
+/* Цветной текст */
+.content .t-red { color: #e74c3c; }
+.content .t-blue { color: #3498db; }
+.content .t-green { color: #2ecc71; }
+.content .t-gold { color: #f1c40f; }
+.content .t-purple { color: #9b59b6; }
+.content .t-orange { color: #e67e22; }
+.content .t-teal { color: #1abc9c; }
+.content .t-pink { color: #fd79a8; }
+.content .t-indigo { color: #6c5ce7; }
+.content .t-lime { color: #badc58; }
+.content .t-brown { color: #a0522d; }
+.content .t-grey { color: #95a5a6; }
+
+/* МЕДИЦИНСКИЕ БЛОКИ - УСИЛЕННАЯ ВЕРСИЯ */
+.content .med-note {
+    margin: 15px 0;
+    padding: 12px 15px;
+    border-left: 4px solid;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.content .note-dosage,
+.content .med-note.note-dosage {
+    background: #fff3e0;
+    border-color: #ff6f00;
+}
+
+.content .note-dosage::before {
+    content: "💉 Дозировка: ";
+    font-weight: bold;
+    color: #ff6f00;
+}
+
+.content .note-anatomy,
+.content .med-note.note-anatomy {
+    background: #fce4ec;
+    border-color: #c2185b;
+}
+
+.content .note-anatomy::before {
+    content: "🫀 Анатомия: ";
+    font-weight: bold;
+    color: #c2185b;
+}
+
+.content .note-surgery,
+.content .med-note.note-surgery {
+    background: #e8f5e9;
+    border-color: #2e7d32;
+}
+
+.content .note-surgery::before {
+    content: "🔪 Хирургия: ";
+    font-weight: bold;
+    color: #2e7d32;
+}
+
+.content .note-pharmacy,
+.content .med-note.note-pharmacy {
+    background: #e3f2fd;
+    border-color: #1565c0;
+}
+
+.content .note-pharmacy::before {
+    content: "💊 Фармакология: ";
+    font-weight: bold;
+    color: #1565c0;
+}
+
+.content .note-physio,
+.content .med-note.note-physio {
+    background: #f3e5f5;
+    border-color: #6a1b9a;
+}
+
+.content .note-physio::before {
+    content: "🧬 Физиология: ";
+    font-weight: bold;
+    color: #6a1b9a;
+}
+
+.content .note-fact,
+.content .med-note.note-fact {
+    background: #fff9c4;
+    border-color: #f57f17;
+}
+
+.content .note-fact::before {
+    content: "💡 Факт: ";
+    font-weight: bold;
+    color: #f57f17;
+}
+
+.content .note-treatment,
+.content .med-note.note-treatment {
+    background: #e0f2f1;
+    border-color: #00695c;
+}
+
+.content .note-treatment::before {
+    content: "🩹 Лечение: ";
+    font-weight: bold;
+    color: #00695c;
+}
+
+.content .note-icu,
+.content .med-note.note-icu {
+    background: #ffebee;
+    border-color: #c62828;
+}
+
+.content .note-icu::before {
+    content: "🏥 ОИТ: ";
+    font-weight: bold;
+    color: #c62828;
+}
+
+.content .note-nb,
+.content .med-note.note-nb {
+    background: #fff3e0;
+    border-color: #e65100;
+    font-weight: bold;
+}
+
+.content .note-nb::before {
+    content: "⚠️ NB! ";
+    font-weight: bold;
+    color: #e65100;
+    font-size: 16px;
+}
+
+/* Скрываемые блоки */
+.content .med-details summary {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 8px;
+    background: #f5f5f5;
+    border-radius: 4px;
+}
+.content .med-details .details-content {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+/* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
+
+/* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
+/* OVAL HIGHLIGHTS - ПРАВИЛЬНАЯ ВЕРСИЯ */
+.content .ov-gold,
+.content .gold-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3);
+    display: inline-block;
+}
+
+.content .ov-green,
+.content .green-highlighted-oval-3d {
+    background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3);
+    display: inline-block;
+}
+
+.content .ov-blue,
+.content .blue-highlighted-oval-3d {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3);
+    display: inline-block;
+}
+
+.content .ov-red,
+.content .red-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f85032 0%, #e73827 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3);
+    display: inline-block;
+}
+
+.content .ov-pink,
+.content .pink-highlighted-oval-3d {
+    background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3);
+    display: inline-block;
+}
+
+.content .ov-purple,
+.content .purple-highlighted-oval-3d {
+    background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3);
+    display: inline-block;
+}
+
+.content .ov-teal,
+.content .teal-highlighted-oval-3d {
+    background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3);
+    display: inline-block;
+}
+
+.content .ov-orange,
+.content .orange-highlighted-oval-3d {
+    background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3);
+    display: inline-block;
+}
+
+.content .ov-yellow,
+.content .yellow-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3);
+    display: inline-block;
+}
+
+.content .ov-grey,
+.content .ov-silver,
+.content .silver-highlighted-oval-3d {
+    background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(189, 195, 199, 0.3);
+    display: inline-block;
+}
+
+.content .ov-lime {
+    background: linear-gradient(135deg, #badc58 0%, #a8e063 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(186, 220, 88, 0.3);
+    display: inline-block;
+}
+
+.content .ov-indigo {
+    background: linear-gradient(135deg, #6c5ce7 0%, #5f4fcf 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(108, 92, 231, 0.3);
+    display: inline-block;
+}
+
+.content .ov-brown {
+    background: linear-gradient(135deg, #a0522d 0%, #8b4513 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(160, 82, 45, 0.3);
+    display: inline-block;
+}
+
+/* 2. BRIGHTER MARKERS */
+/* ЯРКИЕ МАРКЕРЫ - ПРАВИЛЬНАЯ ВЕРСИЯ */
+.content mark.m-green {
+    background-color: #27ae60 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-blue {
+    background-color: #3498db !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-red {
+    background-color: #e74c3c !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-purple {
+    background-color: #8e44ad !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-teal {
+    background-color: #1abc9c !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-gold {
+    background-color: #f39c12 !important;
+    color: #333 !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+.content mark.m-orange {
+    background-color: #e67e22 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-pink {
+    background-color: #ff85a2 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-indigo {
+    background-color: #6c5ce7 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-lime {
+    background-color: #badc58 !important;
+    color: #333 !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+.content mark.m-brown {
+    background-color: #a0522d !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-grey {
+    background-color: #95a5a6 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+/* 3. LUMINOUS BLOCKS WITH GLOW */
+.content .luminous-block {
+    display: inline-block;
+    padding: 4px 12px;
+    margin: 0 3px;
+    border-radius: 4px;
+    font-weight: 600;
+    box-shadow: 0 0 10px currentColor;
+}
+
+.content .luminous-blue {
+    background: rgba(33, 150, 243, 0.2);
+    color: #2196f3;
+}
+
+.content .luminous-green {
+    background: rgba(76, 175, 80, 0.2);
+    color: #4caf50;
+}
+
+.content .luminous-red {
+    background: rgba(244, 67, 54, 0.2);
+    color: #f44336;
+}
+
+.content .luminous-yellow {
+    background: rgba(255, 235, 59, 0.3);
+    color: #f57f17;
+}
+
+.content .luminous-purple {
+    background: rgba(156, 39, 176, 0.2);
+    color: #9c27b0;
+}
+
+/* 4. CYBER EFFECTS */
+.content .cyber-glitch {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    color: #ff0000;
+    animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+    0%, 100% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+}
+
+.content .cyber-neon {
+    display: inline-block;
+    padding: 5px 15px;
+    font-weight: bold;
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
+    animation: neon-pulse 2s infinite;
+}
+
+@keyframes neon-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.content .cyber-neon-pink { color: #ff1f8f; }
+.content .cyber-neon-blue { color: #00d9ff; }
+.content .cyber-neon-green { color: #39ff14; }
+.content .cyber-neon-yellow { color: #ffff00; }
+
+/* 5. INFO BOXES */
+.content .info-box {
+    background: #ffeaa7;
+    border-left: 4px solid #fdcb6e;
+    padding: 15px 20px;
+    margin: 15px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.content .info-box-info {
+    background: #e3f2fd;
+    border-left-color: #2196f3;
+}
+
+.content .info-box-success {
+    background: #e8f5e9;
+    border-left-color: #4caf50;
+}
+
+.content .info-box-warning {
+    background: #fff3cd;
+    border-left-color: #ff9800;
+}
+
+.content .info-box-danger {
+    background: #ffebee;
+    border-left-color: #f44336;
+}
+
+.content a[href^="#"] {
+    color: #3498db;
+    text-decoration: none;
+    border-bottom: 1px dashed #3498db;
+    transition: all 0.3s;
+}
+
+.content a[href^="#"]:hover {
+    color: #2980b9;
+    border-bottom: 1px solid #2980b9;
+}
+
+/* CodeMirror container */
+.CodeMirror {
+    height: 100% !important;
+    font-family: 'Fira Code', 'Courier New', monospace !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+}
+
+/* Подсветка HTML тегов */
+.cm-tag { color: #569cd6 !important; font-weight: bold; }
+.cm-attribute { color: #9cdcfe !important; }
+.cm-string { color: #ce9178 !important; }
+.cm-qualifier { color: #4ec9b0 !important; } /* классы */
+
+
+/* ==================== DOCUSAURUS-STYLE INFO BLOCKS (ЯРКИЕ ЦВЕТА) ==================== */
+
+.content .admonition {
+    margin: 20px 0;
+    padding: 15px 20px;
+    border-left: 5px solid;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.content .admonition-title {
+    font-weight: bold;
+    font-size: 1.15em;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.content .admonition-title::before {
+    font-size: 1.4em;
+}
+
+.content .admonition-content {
+    line-height: 1.7;
+}
+
+/* NOTE (насыщенный синий) */
+.content .admonition-note {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border-color: #1976d2;
+}
+.content .admonition-note .admonition-title {
+    color: #0d47a1;
+}
+.content .admonition-note .admonition-title::before {
+    content: "ℹ️";
+}
+
+/* TIP (яркий зеленый) */
+.content .admonition-tip {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #388e3c;
+}
+.content .admonition-tip .admonition-title {
+    color: #1b5e20;
+}
+.content .admonition-tip .admonition-title::before {
+    content: "💡";
+}
+
+/* INFO (бирюзовый) */
+.content .admonition-info {
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
+    border-color: #0097a7;
+}
+.content .admonition-info .admonition-title {
+    color: #006064;
+}
+.content .admonition-info .admonition-title::before {
+    content: "📌";
+}
+
+/* WARNING (яркий оранжевый) */
+.content .admonition-warning {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    border-color: #f57c00;
+}
+.content .admonition-warning .admonition-title {
+    color: #e65100;
+}
+.content .admonition-warning .admonition-title::before {
+    content: "⚠️";
+}
+
+/* DANGER (насыщенный красный) */
+.content .admonition-danger {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #d32f2f;
+}
+.content .admonition-danger .admonition-title {
+    color: #b71c1c;
+}
+.content .admonition-danger .admonition-title::before {
+    content: "🚨";
+}
+
+/* CAUTION (золотой) */
+.content .admonition-caution {
+    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
+    border-color: #f9a825;
+}
+.content .admonition-caution .admonition-title {
+    color: #f57f17;
+}
+.content .admonition-caution .admonition-title::before {
+    content: "⚡";
+}
+
+/* DOSAGE (насыщенный фиолетовый) */
+.content .admonition-dosage {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    border-color: #7b1fa2;
+}
+.content .admonition-dosage .admonition-title {
+    color: #4a148c;
+}
+.content .admonition-dosage .admonition-title::before {
+    content: "💉";
+}
+
+/* CONTRAINDICATION (яркий пурпурный) */
+.content .admonition-contraindication {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #c2185b;
+}
+.content .admonition-contraindication .admonition-title {
+    color: #880e4f;
+}
+.content .admonition-contraindication .admonition-title::before {
+    content: "🚫";
+}
+
+/* SIDE-EFFECT (янтарный) */
+.content .admonition-side-effect {
+    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    border-color: #ff8f00;
+}
+.content .admonition-side-effect .admonition-title {
+    color: #ff6f00;
+}
+.content .admonition-side-effect .admonition-title::before {
+    content: "⚠️";
+}
+
+/* CLINICAL (изумрудный) */
+.content .admonition-clinical {
+    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+    border-color: #00796b;
+}
+.content .admonition-clinical .admonition-title {
+    color: #004d40;
+}
+.content .admonition-clinical .admonition-title::before {
+    content: "🏥";
+}
+
+/* ANATOMY (коралловый) */
+.content .admonition-anatomy {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #ad1457;
+}
+.content .admonition-anatomy .admonition-title {
+    color: #880e4f;
+}
+.content .admonition-anatomy .admonition-title::before {
+    content: "🫀";
+}
+
+/* PHYSIOLOGY (небесно-голубой) */
+.content .admonition-physiology {
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    border-color: #0277bd;
+}
+.content .admonition-physiology .admonition-title {
+    color: #01579b;
+}
+.content .admonition-physiology .admonition-title::before {
+    content: "🧬";
+}
+
+/* SURGERY (лесной зеленый) */
+.content .admonition-surgery {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #2e7d32;
+}
+.content .admonition-surgery .admonition-title {
+    color: #1b5e20;
+}
+.content .admonition-surgery .admonition-title::before {
+    content: "🔪";
+}
+
+/* ICU (огненно-красный) */
+.content .admonition-icu {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #c62828;
+}
+.content .admonition-icu .admonition-title {
+    color: #b71c1c;
+}
+.content .admonition-icu .admonition-title::before {
+    content: "🚑";
+}
+
+/* EVIDENCE (стальной синий) */
+.content .admonition-evidence {
+    background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
+    border-color: #455a64;
+}
+.content .admonition-evidence .admonition-title {
+    color: #263238;
+}
+.content .admonition-evidence .admonition-title::before {
+    content: "📊";
+}
+
+/* PROTOCOL (глубокий индиго) */
+.content .admonition-protocol {
+    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
+    border-color: #303f9f;
+}
+.content .admonition-protocol .admonition-title {
+    color: #1a237e;
+}
+.content .admonition-protocol .admonition-title::before {
+    content: "📋";
+}
+
+.btn-load {
+    width: 100%;
+    text-align: center;
+    padding: 8px 10px;
+    margin: 2px 0;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.btn-load:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-load:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
