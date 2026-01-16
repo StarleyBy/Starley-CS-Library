@@ -257,10 +257,15 @@ async function initLoader() {
             }
         }
         
-        // Обработчики кнопок
+        // Обработчики кнопок загрузки
         document.getElementById('btn-load-original').onclick = () => loadFile('original');
         document.getElementById('btn-load-russian').onclick = () => loadFile('russian');
         document.getElementById('btn-load-starley').onclick = () => loadFile('starley');
+        
+    } catch (e) { 
+        console.error('Error in initLoader:', e); 
+    }
+}
 
 // 3. Apply styles
 function applyStyle(type, className) {
