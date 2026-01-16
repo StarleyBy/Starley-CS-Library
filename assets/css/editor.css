@@ -542,256 +542,244 @@
 .cm-qualifier { color: #4ec9b0 !important; } /* классы */
 
 
-/* ==================== DOCUSAURUS-STYLE INFO BLOCKS ==================== */
+/* ==================== DOCUSAURUS-STYLE INFO BLOCKS (ЯРКИЕ ЦВЕТА) ==================== */
 
-/* Базовый стиль для всех блоков */
-.admonition {
+#editor-preview .admonition {
     margin: 20px 0;
     padding: 15px 20px;
-    border-left: 4px solid;
-    border-radius: 6px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
 }
 
-.admonition-title {
+#editor-preview .admonition-title {
     font-weight: bold;
-    font-size: 1.1em;
-    margin-bottom: 10px;
+    font-size: 1.15em;
+    margin-bottom: 12px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 10px;
 }
 
-.admonition-title::before {
-    font-size: 1.3em;
+#editor-preview .admonition-title::before {
+    font-size: 1.4em;
 }
 
-.admonition-content {
-    line-height: 1.6;
+#editor-preview .admonition-content {
+    line-height: 1.7;
 }
 
-/* NOTE (синий) - Примечание */
-.admonition-note {
-    background-color: #e7f3ff;
-    border-color: #2196f3;
+/* NOTE (насыщенный синий) */
+#editor-preview .admonition-note {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border-color: #1976d2;
 }
-
-.admonition-note .admonition-title {
-    color: #1976d2;
+#editor-preview .admonition-note .admonition-title {
+    color: #0d47a1;
 }
-
-.admonition-note .admonition-title::before {
+#editor-preview .admonition-note .admonition-title::before {
     content: "ℹ️";
 }
 
-/* TIP (зеленый) - Совет */
-.admonition-tip {
-    background-color: #e8f5e9;
-    border-color: #4caf50;
+/* TIP (яркий зеленый) */
+#editor-preview .admonition-tip {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #388e3c;
 }
-
-.admonition-tip .admonition-title {
-    color: #2e7d32;
+#editor-preview .admonition-tip .admonition-title {
+    color: #1b5e20;
 }
-
-.admonition-tip .admonition-title::before {
+#editor-preview .admonition-tip .admonition-title::before {
     content: "💡";
 }
 
-/* INFO (голубой) - Информация */
-.admonition-info {
-    background-color: #e0f7fa;
-    border-color: #00bcd4;
+/* INFO (бирюзовый) */
+#editor-preview .admonition-info {
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
+    border-color: #0097a7;
 }
-
-.admonition-info .admonition-title {
-    color: #00838f;
+#editor-preview .admonition-info .admonition-title {
+    color: #006064;
 }
-
-.admonition-info .admonition-title::before {
+#editor-preview .admonition-info .admonition-title::before {
     content: "📌";
 }
 
-/* WARNING (оранжевый) - Предупреждение */
-.admonition-warning {
-    background-color: #fff3e0;
-    border-color: #ff9800;
+/* WARNING (яркий оранжевый) */
+#editor-preview .admonition-warning {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    border-color: #f57c00;
 }
-
-.admonition-warning .admonition-title {
+#editor-preview .admonition-warning .admonition-title {
     color: #e65100;
 }
-
-.admonition-warning .admonition-title::before {
+#editor-preview .admonition-warning .admonition-title::before {
     content: "⚠️";
 }
 
-/* DANGER (красный) - Опасность */
-.admonition-danger {
-    background-color: #ffebee;
-    border-color: #f44336;
+/* DANGER (насыщенный красный) */
+#editor-preview .admonition-danger {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #d32f2f;
 }
-
-.admonition-danger .admonition-title {
-    color: #c62828;
+#editor-preview .admonition-danger .admonition-title {
+    color: #b71c1c;
 }
-
-.admonition-danger .admonition-title::before {
+#editor-preview .admonition-danger .admonition-title::before {
     content: "🚨";
 }
 
-/* CAUTION (желтый) - Осторожно */
-.admonition-caution {
-    background-color: #fffde7;
-    border-color: #fdd835;
+/* CAUTION (золотой) */
+#editor-preview .admonition-caution {
+    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
+    border-color: #f9a825;
 }
-
-.admonition-caution .admonition-title {
+#editor-preview .admonition-caution .admonition-title {
     color: #f57f17;
 }
-
-.admonition-caution .admonition-title::before {
+#editor-preview .admonition-caution .admonition-title::before {
     content: "⚡";
 }
 
-/* ==================== МЕДИЦИНСКИЕ БЛОКИ ==================== */
-
-/* DOSAGE (фиолетовый) - Дозировка */
+/* DOSAGE (насыщенный фиолетовый) */
 #editor-preview .admonition-dosage {
-    background-color: #f3e5f5;
-    border-color: #9c27b0;
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    border-color: #7b1fa2;
 }
-
 #editor-preview .admonition-dosage .admonition-title {
-    color: #6a1b9a;
+    color: #4a148c;
 }
-
 #editor-preview .admonition-dosage .admonition-title::before {
     content: "💉";
 }
 
-/* CONTRAINDICATION (темно-красный) - Противопоказания */
+/* CONTRAINDICATION (яркий пурпурный) */
 #editor-preview .admonition-contraindication {
-    background-color: #fce4ec;
-    border-color: #e91e63;
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #c2185b;
 }
-
 #editor-preview .admonition-contraindication .admonition-title {
     color: #880e4f;
 }
-
 #editor-preview .admonition-contraindication .admonition-title::before {
     content: "🚫";
 }
 
-/* SIDE-EFFECT (коричневый) - Побочные эффекты */
+/* SIDE-EFFECT (янтарный) */
 #editor-preview .admonition-side-effect {
-    background-color: #fff8e1;
-    border-color: #ff6f00;
+    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    border-color: #ff8f00;
 }
-
 #editor-preview .admonition-side-effect .admonition-title {
-    color: #e65100;
+    color: #ff6f00;
 }
-
 #editor-preview .admonition-side-effect .admonition-title::before {
     content: "⚠️";
 }
 
-/* CLINICAL (бирюзовый) - Клиническое значение */
+/* CLINICAL (изумрудный) */
 #editor-preview .admonition-clinical {
-    background-color: #e0f2f1;
-    border-color: #00897b;
+    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+    border-color: #00796b;
 }
-
 #editor-preview .admonition-clinical .admonition-title {
-    color: #00695c;
+    color: #004d40;
 }
-
 #editor-preview .admonition-clinical .admonition-title::before {
     content: "🏥";
 }
 
-/* ANATOMY (розовый) - Анатомия */
+/* ANATOMY (коралловый) */
 #editor-preview .admonition-anatomy {
-    background-color: #fce4ec;
-    border-color: #c2185b;
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #ad1457;
 }
-
 #editor-preview .admonition-anatomy .admonition-title {
     color: #880e4f;
 }
-
 #editor-preview .admonition-anatomy .admonition-title::before {
     content: "🫀";
 }
 
-/* PHYSIOLOGY (сине-зеленый) - Физиология */
+/* PHYSIOLOGY (небесно-голубой) */
 #editor-preview .admonition-physiology {
-    background-color: #e1f5fe;
-    border-color: #0288d1;
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    border-color: #0277bd;
 }
-
 #editor-preview .admonition-physiology .admonition-title {
     color: #01579b;
 }
-
 #editor-preview .admonition-physiology .admonition-title::before {
     content: "🧬";
 }
 
-/* SURGERY (зеленый) - Хирургия */
+/* SURGERY (лесной зеленый) */
 #editor-preview .admonition-surgery {
-    background-color: #e8f5e9;
-    border-color: #388e3c;
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #2e7d32;
 }
-
 #editor-preview .admonition-surgery .admonition-title {
     color: #1b5e20;
 }
-
 #editor-preview .admonition-surgery .admonition-title::before {
     content: "🔪";
 }
 
-/* ICU (ярко-красный) - Реанимация */
+/* ICU (огненно-красный) */
 #editor-preview .admonition-icu {
-    background-color: #ffebee;
-    border-color: #d32f2f;
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #c62828;
 }
-
 #editor-preview .admonition-icu .admonition-title {
     color: #b71c1c;
 }
-
 #editor-preview .admonition-icu .admonition-title::before {
     content: "🚑";
 }
 
-/* EVIDENCE (серо-синий) - Доказательная база */
+/* EVIDENCE (стальной синий) */
 #editor-preview .admonition-evidence {
-    background-color: #eceff1;
-    border-color: #546e7a;
+    background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
+    border-color: #455a64;
 }
-
 #editor-preview .admonition-evidence .admonition-title {
     color: #263238;
 }
-
 #editor-preview .admonition-evidence .admonition-title::before {
     content: "📊";
 }
 
-/* PROTOCOL (индиго) - Протокол */
+/* PROTOCOL (глубокий индиго) */
 #editor-preview .admonition-protocol {
-    background-color: #e8eaf6;
-    border-color: #3f51b5;
+    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
+    border-color: #303f9f;
 }
-
 #editor-preview .admonition-protocol .admonition-title {
     color: #1a237e;
 }
-
 #editor-preview .admonition-protocol .admonition-title::before {
     content: "📋";
+}
+
+.btn-load {
+    width: 100%;
+    text-align: center;
+    padding: 8px 10px;
+    margin: 2px 0;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+.btn-load:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-load:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
 }

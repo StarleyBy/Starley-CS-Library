@@ -28,11 +28,16 @@
     <div class="editor-shell">
         <aside class="editor-toolbar">
             <div class="tool-group loader-group">
-                <h4>📂 Load</h4>
-                <select id="select-book"><option value="">Select a book...</option></select>
-                <select id="select-chapter" disabled><option value="">Select a chapter...</option></select>
-                <button id="btn-load-cloud" class="btn-primary">⬇️ Load Original</button>
-            </div>
+    <h4>📂 Load</h4>
+    <select id="select-book"><option value="">Select a book...</option></select>
+    <select id="select-chapter" disabled><option value="">Select a chapter...</option></select>
+    
+    <div style="margin-top: 10px; display: flex; gap: 5px; flex-direction: column;">
+        <button id="btn-load-original" class="btn-load" style="background: #3498db;">📄 Original</button>
+        <button id="btn-load-russian" class="btn-load" style="background: #e74c3c;">🇷🇺 Russian</button>
+        <button id="btn-load-starley" class="btn-load" style="background: #27ae60;">⭐ Starley</button>
+    </div>
+</div>
 
             <div class="tool-group">
     <h4>⭕ Color Oval (3D Gradient)</h4>

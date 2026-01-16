@@ -219,22 +219,48 @@ async function initLoader() {
             });
         };
 
-        document.getElementById('btn-load-cloud').onclick = async () => {
-            if(!bookSelect.value || !chapterSelect.value) return alert("Please select a book and chapter");
-            const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${chapterSelect.value}.md`;
-            const res = await fetch(url);
-            if(res.ok) {
-                const text = await res.text();
-                if (editor) {
-                    editor.setValue(text);
+        // Функция загрузки файла
+        async function loadFile(version) {
+            if(!bookSelect.value || !chapterSelect.value) {
+                return alert("Please select a book and chapter");
+            }
+            
+            let filename = chapterSelect.value + '.md';
+            
+            // Определяем имя файла в зависимости от версии
+            if (version === 'russian') {
+                filename = chapterSelect.value + '-ru.md';
+            } else if (version === 'starley') {
+                filename = chapterSelect.value + '-starley.md';
+            }
+            
+            const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${filename}`;
+            
+            try {
+                const res = await fetch(url);
+                if(res.ok) {
+                    const text = await res.text();
+                    if (editor) {
+                        editor.setValue(text);
+                    } else {
+                        document.getElementById('markdown-input').value = text;
+                    }
+                    updatePreview();
+                    
+                    // Обновляем имя файла для экспорта
+                    document.getElementById('export-filename').value = filename;
                 } else {
-                    document.getElementById('markdown-input').value = text;
+                    alert(`❌ File not found: ${filename}\n\nURL: ${url}`);
                 }
-                updatePreview();
-            } else alert("File not found");
-        };
-    } catch (e) { console.error(e); }
-}
+            } catch (error) {
+                alert(`❌ Error loading file: ${error.message}`);
+            }
+        }
+        
+        // Обработчики кнопок
+        document.getElementById('btn-load-original').onclick = () => loadFile('original');
+        document.getElementById('btn-load-russian').onclick = () => loadFile('russian');
+        document.getElementById('btn-load-starley').onclick = () => loadFile('starley');
 
 // 3. Apply styles
 function applyStyle(type, className) {
