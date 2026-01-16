@@ -4,7 +4,7 @@
 
 # Synopsis of Adult Cardiac Surgical Disease
 
-| Coronary Artery Disease                               | 3  |
+| <a href="#def-Coronary Artery Disease">Coronary Artery Disease ↓</a>                               | 3  |
 |-------------------------------------------------------|----|
 | Left Ventricular Aneurysm                             | 16 |
 | Ventricular Septal Rupture                            | 19 |
@@ -34,7 +34,7 @@ presented. Diagnostic techniques and general preoperative considerations are pre
 </div>
 the next two chapters. Issues related to cardiac anesthesia and postoperative care specific to most of the surgical procedures presented in this chapter are discussed in Chapters 4 and 8, respectively. The most current guidelines for the evaluation and management of patients with cardiac disease can be obtained from the American College of Cardiology website (www.acc.org).
 
-# **I. Coronary Artery Disease**
+# **I. <span id="def-Coronary Artery Disease">Coronary Artery Disease</span> <a href="#" data-back="true" style="font-size:0.8em; color:#7f8c8d; text-decoration:none;">↩️ назад</a>**
 
 - **A. Pathophysiology.** Coronary artery disease (CAD) results from the progressive blockage of the coronary arteries by atherothrombotic disease. Significant risk factors include hypertension, dyslipidemia (especially high LDL, low HDL, elevated Lp(a) or apoB, or triglycerides), 
 <div class="admonition admonition-contraindication">
@@ -79,14 +79,21 @@ with superimposed
   </div>
 </div>
  thrombosis is responsible for most acute coronary syndromes (ACS), which include classic "unstable angina", non‐ST‐elevation myocardial infarctions (non‐STEMI), and ST‐elevation infarctions (STEMI). Paradoxically, plaque rupture more commonly occurs in coronary segments that are not severely stenotic. Endothelial dysfunction has become increasingly recognized as a contributing factor to worsening ischemic syndromes. Generalized systemic inflammation, indicated by elevated C‐reactive protein levels, is usually noted in patients with ACS, and appears to be associated with adverse outcomes.
-- **B. Primary prevention** of cardiovascular disease entails control of modifiable risk factors. Notably, statins are generally not recommended for patients with normal cholesterol levels (unless there is a family history of premature CAD) or for patients at low risk for atherosclerotic cardiovascular disease (ASCVD) based on the ASCVD risk calculator (available at https://clincalc.com/cardiology/ascvd/pooledcohort.aspx).
+- 
+<details class="med-details">
+<summary>Primary prevention</summary>
+<div class="details-content">
+**B. Primary prevention** of cardiovascular disease entails control of modifiable risk factors. Notably, statins are generally not recommended for patients with normal cholesterol levels (unless there is a family history of premature CAD) or for patients at low risk for atherosclerotic cardiovascular disease (ASCVD) based on the ASCVD risk calculator (available at https://clincalc.com/cardiology/ascvd/pooledcohort.aspx).
+</div>
+</details>
+
 
 Furthermore, aspirin, which had been widely utilized for primary prevention in the past, has received only a level IIb recommendation for patients age 40–70 with higher ASCVD risk, but not at increased bleeding risk, and was considered contraindicated on a routine basis in patients >age 70 or in any patient with an increased risk of bleeding according to a 2019 ACC report.1
 
 ## **C. Management strategies in stable ischemic heart disease (SIHD)**
 
 - **1.** Symptomatic coronary disease is initially treated with medical therapy, including aspirin, nitrates, ß‐adrenergic blockers, and calcium‐channel blockers (CCBs). Ranolazine may be added as a second‐line drug for symptomatic relief in patients with refractory angina. It inhibits inward sodium currents in the heart muscle, leading to a reduction in intracellular calcium levels, which reduces myocardial wall tension and oxygen requirements. It does not cause bradycardia and hypotension, which occasionally are limiting factors with the use of other antianginal drugs. Statins should be given to control dyslipidemias and are effective for plaque stabilization. Angiotensin‐converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) are given to patients with depressed left ventricular (LV) function (ejection fraction [EF] <40%) and to those with hypertension and diabetes. P2Y12 inhibitors (clopidogrel, ticagrelor) generally do not provide benefit to patients with SIHD.
-- **2.** Optimal medical therapy should be the initial management strategy for patients with SIHD, since studies have not shown that proceeding to percutaneous coronary intervention (PCI) reduces the risk of death, infarction or other major adverse cardiovascular events.2 Thus, the decision to proceed with cardiac catheterization should be based on the rationale that the patient's symptoms are disabling enough or the degree of ischemia is significant enough to warrant an intervention to revascularize the heart. Risk stratification with noninvasive functional testing is important to provide objective evidence of inducible ischemia, using exercise stress testing, nuclear imaging, or dobutamine stress echocardiography.
+- **2.** <a href="#def-Coronary Artery Disease">Optimal medical therapy ↓</a> should be the initial management strategy for patients with SIHD, since studies have not shown that proceeding to percutaneous coronary intervention (PCI) reduces the risk of death, infarction or other major adverse cardiovascular events.2 Thus, the decision to proceed with cardiac catheterization should be based on the rationale that the patient's symptoms are disabling enough or the degree of ischemia is significant enough to warrant an intervention to revascularize the heart. Risk stratification with noninvasive functional testing is important to provide objective evidence of inducible ischemia, using exercise stress testing, nuclear imaging, or dobutamine stress echocardiography.
 - **3.** The decision to proceed with an intervention must then take into consideration an angiographic assessment of the extent of coronary disease and an invasive assessment of its physiologic significance by fractional flow reserve (FFR)3 or instantaneous flow reserve (iFR)4 , which is not dependent on the administration of adenosine. Additional critical information when considering PCI or coronary artery bypass grafting (CABG) includes the patient's comorbidities, particularly diabetes mellitus, and an assessment of LV function. Multiple studies comparing medical therapy with PCI for patients with SIHD have shown that PCI reduces the incidence of angina, may increase the short‐term risk of myocardial infarction (MI), but does not lower the long‐term risk of MI or improve survival.5 However, PCI does reduce the need for urgent revascularization and may reduce the risk of MI in patients with a large ischemic burden. Superior clinical outcomes are achieved with complete revascularization, which in many patients is better accomplished with CABG than PCI.6 Use of systematic anatomic assessments, such as with the SYNTAX score (see section C.4.a), has been accepted as an adjunct to this decision‐making process.
 - **4.** Appropriate use criteria (AUC) with complex matrices have been set forth for coronary revascularization strategies in patients with SIHD.7 These are subdivided by the number of diseased vessels (1–2–3), the presence of symptoms, the use of
 
