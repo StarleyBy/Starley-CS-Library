@@ -557,42 +557,42 @@ body.focus-mode #content-area {
 
 /* 2. BRIGHTER MARKERS */
 /* ЯРКИЕ МАРКЕРЫ - ПРАВИЛЬНАЯ ВЕРСИЯ */
-.content mark.m-green {
+#content-area.content mark.m-green {
     background-color: #27ae60 !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-blue {
+#content-area.content mark.m-blue {
     background-color: #3498db !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-red {
+#content-area.content mark.m-red {
     background-color: #e74c3c !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-purple {
+#content-area.content mark.m-purple {
     background-color: #8e44ad !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-teal {
+#content-area.content mark.m-teal {
     background-color: #1abc9c !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-gold {
+#content-area.content mark.m-gold {
     background-color: #f39c12 !important;
     color: #333 !important;
     padding: 2px 5px;
@@ -600,28 +600,28 @@ body.focus-mode #content-area {
     font-weight: 500;
 }
 
-.content mark.m-orange {
+#content-area.content mark.m-orange {
     background-color: #e67e22 !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-pink {
+#content-area.content mark.m-pink {
     background-color: #ff85a2 !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-indigo {
+#content-area.content mark.m-indigo {
     background-color: #6c5ce7 !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-lime {
+#content-area.content mark.m-lime {
     background-color: #badc58 !important;
     color: #333 !important;
     padding: 2px 5px;
@@ -629,14 +629,14 @@ body.focus-mode #content-area {
     font-weight: 500;
 }
 
-.content mark.m-brown {
+#content-area.content mark.m-brown {
     background-color: #a0522d !important;
     color: white !important;
     padding: 2px 5px;
     border-radius: 3px;
 }
 
-.content mark.m-grey {
+#content-area.content mark.m-grey {
     background-color: #95a5a6 !important;
     color: white !important;
     padding: 2px 5px;
@@ -1011,3 +1011,4 @@ body.focus-mode #content-area {
     opacity: 0.5;
     cursor: not-allowed;
 }
+
