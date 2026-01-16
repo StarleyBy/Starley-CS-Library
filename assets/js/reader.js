@@ -34,6 +34,10 @@ async function loadChapter(bookPath, chapterId, edition) {
         // Custom styling parser
         md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         
+        // Convert custom <mark> tags to <span> for consistent styling
+        md = md.replace(/<mark class="m-([^"]+)">/g, '<span class="m-$1">');
+        md = md.replace(/<\/mark>/g, '</span>');
+
         // Set the base URL for relative image paths to the chapter's images folder
         marked.setOptions({
             baseUrl: `${BASE_URL}${bookPath}/chapters/${chapterId}/images/`
