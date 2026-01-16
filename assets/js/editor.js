@@ -2,6 +2,144 @@ const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pin
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
 let editor; // Глобальная переменная для CodeMirror
 
+// ==================== ФУНКЦИИ (ДО ИНИЦИАЛИЗАЦИИ) ====================
+
+// Вставка Docusaurus-style блоков
+function insertAdmonition(type, defaultTitle) {
+    if (!editor) {
+        alert('⏳ Редактор еще загружается, попробуйте через секунду');
+        return;
+    }
+    
+    const title = prompt(`Заголовок блока:`, defaultTitle);
+    if (title === null) return; // Отменено
+    
+    const sel = editor.getSelection();
+    const content = sel || 'Введите текст блока здесь';
+    
+    const res = `
+<div class="admonition admonition-${type}">
+  <div class="admonition-title">${title}</div>
+  <div class="admonition-content">
+${content}
+  </div>
+</div>
+`;
+    
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+// Функция для применения стилей через CodeMirror
+function applyStyleCM(type, className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+
+    let res = '';
+    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
+    if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
+    if(type === 'text') res = `<span class="${className}">${sel}</span>`;
+
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function wrapInBlock(type) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    const res = `\n<div class="med-note ${type}">\n${sel || 'Block text'}\n</div>\n`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function wrapInEffect(className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<span class="${className}">${sel}</span>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function wrapInInfoBox(className) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `\n<div class="${className}">\n<p>${sel}</p>\n</div>\n`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function addDetails() {
+    if (!editor) return;
+    
+    const title = prompt("Title for the hidden block:", "Classification / Details");
+    if (!title) return;
+    const sel = editor.getSelection();
+    const res = `\n<details class="med-details">\n<summary>${title}</summary>\n<div class="details-content">\n${sel}\n</div>\n</details>\n`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function insertLink() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст ссылки!');
+    
+    const termName = prompt('Название термина (например: mitral-stenosis):', '');
+    if(!termName) return;
+    
+    const targetId = `def-${termName}`;
+    
+    const res = `<a href="#${targetId}">${sel} ↓</a>`;
+    editor.replaceSelection(res);
+    updatePreview();
+    
+    alert(`✅ Создана ссылка на термин!\n\nТеперь в месте определения:\n1. Выделите заголовок\n2. Нажмите "⚓ Якорь определения"\n3. Введите: ${termName}\n4. Нажмите "↩️ Умная кнопка назад"`);
+}
+
+function insertAnchor() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите заголовок термина!');
+    
+    const termName = prompt('Название термина (например: mitral-stenosis):', '');
+    if(!termName) return;
+    
+    const anchorId = `def-${termName}`;
+    
+    const res = `<span id="${anchorId}">${sel}</span>`;
+    editor.replaceSelection(res);
+    updatePreview();
+    
+    alert(`✅ Создан якорь определения!\n\nID: ${anchorId}\n\nТеперь добавьте умную кнопку возврата:\nПоставьте курсор после заголовка и нажмите "↩️ Умная кнопка назад"`);
+}
+
+function insertBackLink() {
+    if (!editor) return;
+    
+    const res = ` <a href="#" data-back="true" style="font-size:0.8em; color:#7f8c8d; text-decoration:none;">↩️ назад</a>`;
+    editor.replaceSelection(res);
+    updatePreview();
+    
+    alert('✅ Добавлена умная кнопка возврата!\n\nОна автоматически вернет к ЛЮБОЙ ссылке, откуда пришел пользователь.\n\nРаботает через историю браузера - не требует указания ID.');
+}
+
+function updatePreview() {
+    const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;
+    document.getElementById('editor-preview').innerHTML = marked.parse(val);
+}
+
+
 document.addEventListener('DOMContentLoaded', () => {
     initColorPalettes(); // Сначала цвета
     initLoader();        // Потом загрузчик
