@@ -2,62 +2,126 @@
 
 # **<span class="t-red">C</span>HAPTER <span class="ov-green">1</span>**
 
-# <span class="luminous-green">Synopsis of Adult Cardiac Surgical Disease</span>
+# <span class="luminous-blue">Synopsis of Adult Cardiac Surgical Disease</span>
 
-| <a href="#def-Coronary Artery Disease">Coronary Artery Disease ↓</a>                               | 3  |
-|-------------------------------------------------------|----|
-| Left Ventricular Aneurysm                             | 16 |
-| Ventricular Septal Rupture                            | 19 |
-| Aortic Stenosis                                       | 21 |
-| Aortic Regurgitation                                  | 36 |
-| Mitral Stenosis                                       | 41 |
-| Mitral Regurgitation                                  | 44 |
-| Tricuspid Valve Disease                               | 55 |
-| Infective Endocarditis                                | 60 |
-| Hypertrophic Obstructive Cardiomyopathy               | 66 |
-| Aortic Dissections                                    | 69 |
-| Thoracic Aortic Aneurysms                             | 76 |
-| Atrial Fibrillation                                   | 82 |
-| Advanced Heart Failure                                | 89 |
-| Pericardial Disease                                   | 93 |
-| Congenital Heart Disease: Atrial Septal Abnormalities | 97 |
-| Adults with Other Congenital Heart Disease            | 99 |
 
-# **1** 
 <details class="med-details">
-<summary>Synopsis of Adult Cardiac Surgical Disease</summary>
+<summary><span class="t-green">S</span>ynopsis of Adult Cardiac Surgical Disease</summary>
 <div class="details-content">
-Synopsis of Adult Cardiac Surgical Disease
+
+
+<div class="info-box info-box-info">
+<p>It is essential that all individuals involved in the assessment and management of patients with cardiac surgical disease have a basic understanding of the disease processes that are being treated. This chapter presents the spectrum of adult cardiac surgical disease that is encountered in most cardiac surgical practices. The pathophysiology, indications for surgery, specific preoperative considerations, and surgical options for various diseases are presented. Diagnostic techniques and general preoperative considerations are presented in the next two chapters. Issues related to cardiac anesthesia and postoperative care specific to most of the surgical procedures presented in this chapter are discussed in Chapters <span class="ov-green">4</span> and <span class="ov-green">8</span>, respectively. The most current guidelines for the evaluation and management of patients with cardiac disease can be obtained from the American College of Cardiology website (www.acc.org).</p>
+</div>
+
 </div>
 </details>
 
 
 
-<div class="admonition admonition-note">
-  <div class="admonition-title"></div>
-  <div class="admonition-content">
-It is <mark class="m-pink">essential</mark> that all individuals involved in the assessment and management of patients with cardiac surgical disease have a <span class="t-red">basic understanding</span> of the disease processes that are being treated. This chapter presents the spectrum of adult cardiac surgical disease that is encountered in most cardiac surgical practices. The pathophysiology, indications for surgery, specific preoperative considerations, and surgical options for various diseases are presented. Diagnostic techniques and general preoperative considerations are presented in the next two chapters. Issues related to cardiac anesthesia and postoperative care specific to most of the surgical procedures presented in this chapter are discussed in Chapters 4 and 8, respectively. The most current guidelines for the evaluation and management of patients with cardiac disease can be obtained from the American College of Cardiology website (www.acc.org).
-  </div>
-</div>
+<details class="med-details">
+<summary><span class="ov-orange">I</span> <span class="t-green">C</span>oronary <span class="t-green">A</span>rtery <span class="t-green">D</span>isease</summary>
+<div class="details-content">
 
 
-# **I. <span id="def-Coronary Artery Disease">Coronary Artery Disease</span>** <a href="#" data-back="true" style="font-size:0.8em; color:#7f8c8d; text-decoration:none;">↩️ назад</a>
 
-- **A. Pathophysiology.** 
+<details class="med-details">
+<summary><span class="ov-gold">A</span> Pathophysiology</summary>
+<div class="details-content">
+
 <div class="admonition admonition-physiology">
   <div class="admonition-title"></div>
   <div class="admonition-content">
-Coronary artery disease <span class="ov-grey">CAD</span> results from the progressive blockage of the coronary arteries by atherothrombotic disease. Significant risk factors include hypertension, <span class="ov-gold">dyslipidemia</span> (especially high LDL, low HDL, elevated Lp(a) or apoB, or triglycerides), diabetes mellitus, obesity (a combination of the above being termed metabolic syndrome), cigarette smoking, and a family history of premature CAD. Clinical syndromes result from an imbalance of oxygen supply and demand resulting in inadequate myocardial perfusion to meet metabolic demand (ischemia). Progressive compromise in luminal diameter producing supply/demand imbalance usually produces a pattern of chronic stable angina, commonly referred to as "stable ischemic heart disease (SIHD). Plaque rupture with superimposed thrombosis is responsible for most acute coronary syndromes (ACS), which include classic "unstable angina", non‐ST‐elevation myocardial infarctions (non‐STEMI), and ST‐elevation infarctions (STEMI). Paradoxically, plaque rupture more commonly occurs in coronary segments that are not severely stenotic. Endothelial dysfunction has become increasingly recognized as a contributing factor to worsening ischemic syndromes. Generalized systemic inflammation, indicated by elevated C‐reactive protein levels, is usually noted in patients with ACS, and appears to be associated with adverse outcomes.
+Coronary artery disease (CAD) results from the <mark class="m-gold">progressive blockage of the coronary arteries by atherothrombotic disease</mark>. Significant <mark class="m-red">risk factors</mark> include <span class="luminous-red">hypertension</span>, <span class="luminous-red">dyslipidemia</span> (especially <span class="t-red">high</span> <span class="ov-teal">LDL</span>, <span class="t-green">low</span> <span class="ov-indigo">HDL</span>, elevated Lp(a) or apoB, or triglycerides), <span class="luminous-red">diabetes mellitus</span>, <span class="luminous-red">obesity</span> (a combination of the above being termed <span class="t-blue">metabolic syndrome</span>), <span class="luminous-red">cigarette smoking</span>, and a <span class="luminous-red">family history</span> of premature CAD. 
+    
+Clinical syndromes result from an <mark class="m-lime">imbalance of oxygen supply and demand</mark> resulting in <mark class="m-red">inadequate myocardial perfusion</mark> to meet metabolic demand (<span class="ov-red">ischemia</span>). <mark class="m-purple">Progressive compromise</mark> in luminal diameter producing supply/demand imbalance usually produces a pattern of chronic stable angina, commonly referred to as "<mark class="m-purple">stable ischemic heart disease</mark> (SIHD). <mark class="m-teal">Plaque rupture with superimposed thrombosis</mark> is responsible for most <mark class="m-teal">acute coronary syndromes</mark> (<span class="ov-red">ACS</span>), which include classic "<span class="luminous-green">unstable angina</span>", <span class="luminous-green">non‐ST‐elevation myocardial infarctions</span> (<span class="ov-red">non‐STEMI</span>), and <span class="luminous-green">ST‐elevation infarctions</span> (<span class="ov-red">STEMI</span>). 
+<div class="admonition admonition-tip">
+  <div class="admonition-title"></div>
+  <div class="admonition-content">
+Paradoxically, plaque rupture more commonly occurs in coronary segments that are not severely stenotic.
+  </div>
+</div>
+ Endothelial dysfunction has become increasingly recognized as a contributing factor to worsening ischemic syndromes. 
+<div class="admonition admonition-danger">
+  <div class="admonition-title">inflammation</div>
+  <div class="admonition-content">
+Generalized systemic inflammation, indicated by elevated C‐reactive protein levels, is usually noted in patients with ACS, and appears to be associated with adverse outcomes.
   </div>
 </div>
 
-- **B. <a href="#def-Coronary Artery Disease">Primary prevention ↓</a>** of cardiovascular disease entails control of modifiable risk factors. Notably, statins are generally not recommended for patients with normal cholesterol levels (unless there is a family history of premature CAD) or for patients at low risk for atherosclerotic cardiovascular disease (ASCVD) based on the ASCVD risk calculator (available at https://clincalc.com/cardiology/ascvd/pooledcohort.aspx).
+  </div>
+</div>
 
-Furthermore, aspirin, which had been widely utilized for primary prevention in the past, has received only a level IIb recommendation for patients age 40–70 with higher ASCVD risk, but not at increased bleeding risk, and was considered contraindicated on a routine basis in patients >age 70 or in any patient with an increased risk of bleeding according to a 2019 ACC report.1
+</div>
+</details>
 
-## **C. Management strategies in stable ischemic heart disease (SIHD)**
 
-- **1.** Symptomatic coronary disease is initially treated with medical therapy, including aspirin, nitrates, ß‐adrenergic blockers, and calcium‐channel blockers (CCBs). Ranolazine may be added as a second‐line drug for symptomatic relief in patients with refractory angina. It inhibits inward sodium currents in the heart muscle, leading to a reduction in intracellular calcium levels, which reduces myocardial wall tension and oxygen requirements. It does not cause bradycardia and hypotension, which occasionally are limiting factors with the use of other antianginal drugs. Statins should be given to control dyslipidemias and are effective for plaque stabilization. Angiotensin‐converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) are given to patients with depressed left ventricular (LV) function (ejection fraction [EF] <40%) and to those with hypertension and diabetes. P2Y12 inhibitors (clopidogrel, ticagrelor) generally do not provide benefit to patients with SIHD.
+<details class="med-details">
+<summary><span class="ov-gold">B</span> Primary prevention</summary>
+<div class="details-content">
+of cardiovascular disease entails 
+<div class="admonition admonition-info">
+  <div class="admonition-title">control</div>
+  <div class="admonition-content">
+control of modifiable risk factors
+  </div>
+</div>
+<div class="admonition admonition-dosage">
+  <div class="admonition-title">statins</div>
+  <div class="admonition-content">
+Notably, <span class="ov-green">statins</span> are generally <span class="t-red">not</span> recommended for <mark class="m-gold">patients with normal cholesterol levels (unless there is a family history of premature CAD)</mark> or for <mark class="m-gold">patients at low risk for atherosclerotic cardiovascular disease</mark> (ASCVD) based on the <mark class="m-lime">ASCVD risk calculator</mark> (https://clincalc.com/cardiology/ascvd/pooledcohort.aspx)
+  </div>
+</div>
+
+
+
+<div class="admonition admonition-dosage">
+  <div class="admonition-title">aspirin</div>
+  <div class="admonition-content">
+Furthermore, <span class="ov-blue">aspirin</span>, which had been widely utilized for primary prevention in the past, has received only a <mark class="m-green">level IIb</mark> recommendation for patients age 40–70 with higher ASCVD risk, but not at increased bleeding risk, and was considered <span class="t-red">contraindicated</span> on a routine basis in <span class="t-red">patients >age 70</span> or <span class="t-red">in any patient with an increased risk of bleeding</span> according to a 2019 ACC report.
+  </div>
+</div>
+
+</div>
+</details>
+
+
+
+<details class="med-details">
+<summary><span class="ov-gold">C</span> Management strategies in stable ischemic heart disease (SIHD)</summary>
+<div class="details-content">
+
+
+
+<div class="admonition admonition-dosage">
+  <div class="admonition-title"><span class="ov-pink">1</span> Symptomatic coronary disease</div>
+  <div class="admonition-content">
+Symptomatic coronary disease is initially treated with medical therapy, including <span class="ov-lime">aspirin</span>, <span class="ov-grey">nitrates</span>, <span class="ov-lime">ß‐adrenergic blockers</span>, and <span class="ov-indigo">calcium‐channel blockers</span> (CCBs). 
+<div class="admonition admonition-tip">
+  <div class="admonition-title">Ranolazine</div>
+  <div class="admonition-content">
+![](Ranolazine.svg)
+    <span class="ov-gold">Ranolazine</span> may be added as a second‐line drug for symptomatic relief in patients with refractory angina. 
+<div class="admonition admonition-note">
+  <div class="admonition-title"></div>
+  <div class="admonition-content">
+It inhibits inward sodium currents in the heart muscle, leading to a reduction in intracellular calcium levels, which reduces myocardial wall tension and oxygen requirements.
+  </div>
+</div>
+ 
+<div class="admonition admonition-warning">
+  <div class="admonition-title"></div>
+  <div class="admonition-content">
+It does not cause bradycardia and hypotension, which occasionally are limiting factors with the use of other antianginal drugs.
+  </div>
+</div>
+
+  </div>
+</div>
+ Statins should be given to control dyslipidemias and are effective for plaque stabilization. Angiotensin‐converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) are given to patients with depressed left ventricular (LV) function (ejection fraction [EF] <40%) and to those with hypertension and diabetes. P2Y12 inhibitors (clopidogrel, ticagrelor) generally do not provide benefit to patients with SIHD.
+  </div>
+</div>
+
 - **2.** Optimal medical therapy should be the initial management strategy for patients with SIHD, since studies have not shown that proceeding to percutaneous coronary intervention (PCI) reduces the risk of death, infarction or other major adverse cardiovascular events.2 Thus, the decision to proceed with cardiac catheterization should be based on the rationale that the patient's symptoms are disabling enough or the degree of ischemia is significant enough to warrant an intervention to revascularize the heart. Risk stratification with noninvasive functional testing is important to provide objective evidence of inducible ischemia, using exercise stress testing, nuclear imaging, or dobutamine stress echocardiography.
 - **3.** The decision to proceed with an intervention must then take into consideration an angiographic assessment of the extent of coronary disease and an invasive assessment of its physiologic significance by fractional flow reserve (FFR)3 or instantaneous flow reserve (iFR)4 , which is not dependent on the administration of adenosine. Additional critical information when considering PCI or coronary artery bypass grafting (CABG) includes the patient's comorbidities, particularly diabetes mellitus, and an assessment of LV function. Multiple studies comparing medical therapy with PCI for patients with SIHD have shown that PCI reduces the incidence of angina, may increase the short‐term risk of myocardial infarction (MI), but does not lower the long‐term risk of MI or improve survival.5 However, PCI does reduce the need for urgent revascularization and may reduce the risk of MI in patients with a large ischemic burden. Superior clinical outcomes are achieved with complete revascularization, which in many patients is better accomplished with CABG than PCI.6 Use of systematic anatomic assessments, such as with the SYNTAX score (see section C.4.a), has been accepted as an adjunct to this decision‐making process.
 - **4.** Appropriate use criteria (AUC) with complex matrices have been set forth for coronary revascularization strategies in patients with SIHD.7 These are subdivided by the number of diseased vessels (1–2–3), the presence of symptoms, the use of
@@ -103,6 +167,9 @@ antianginal therapy, and whether noninvasive testing indicates the patient is at
   - **b.** Worse outcomes with medical management were noted with more extensive CAD, more LV dysfunction (EF <27%) and larger ventricles (LV end‐systolic volume index >79 mL/m2 ), but these risk factors were not predictive of CABG mortality – thus a greater benefit with CABG was noted in these patients.
   - **c.** Another interesting finding of the STICH trial was that there is no difference in surgical outcomes whether viability was present or not, and in fact, this observation was irrespective of treatment strategy.20 This seemed to contradict multiple studies and meta‐analyses that have shown that viability testing is helpful in assessing which patients may benefit from surgery.21 One potential limitation of this trial was the use of thallium stress imaging, which is not as discriminatory as PET (positron emission tomography) scanning in differentiating viable from nonviable myocardium. It was concluded that viability was predictive of a survival benefit in patients with moderate LV dysfunction, but lost its prognostic benefit when LV dysfunction became severe.19
   - **d.** Other studies comparing PCI with CABG in diabetic patients with LV dysfunction have confirmed that CABG is associated with a lower risk of death, MI, MACE, and repeat revascularization.22
+</div>
+</details>
+
 
 #### **D. Management strategies in acute coronary syndromes**
 
@@ -193,8 +260,17 @@ universally accepted, although not rigorously studied, and routine use may not b
 - **3. Minimally invasive direct coronary artery bypass (MIDCAB)** involves bypassing the LAD with the LITA without use of CPB via a short left anterior thoracotomy incision. Bilateral ITAs can be harvested under direct vision and an additional incision is made in the right chest to bypass the right coronary artery.81,82 Combining an LITA to the LAD with stenting of other vessels ("hybrid" procedure) has also been described. A meta‐analysis of the MIDCAB procedure found a lower risk of repeat revascularization compared with PCI of the LAD.83
 - **4. Robotic or totally endoscopic coronary artery bypass (TECAB)** can be used to minimize the extent of the surgical incisions and reduce trauma to the patient. Robotics can be used for both ITA takedown and grafting to selected vessels through small ports.84 These procedures can be done without CPB or using CPB with femoral cannulation. Generally, TECAB is used for limited grafting, but wider applicability is certainly feasible. Anesthetic concerns during this procedure are discussed in Chapter 4, pages 265–266.
 - **5. Transmyocardial revascularization (TMR)** is a technique in which laser channels are drilled in the heart with CO2 or holmium‐YAG lasers to improve myocardial perfusion. Although the channels occlude within a few days, the inflammatory reaction created induces neoangiogenesis that may be associated with upregulation of various growth factors, such as vascular endothelial growth factor. This procedure is most commonly used as adjunct to CABG in viable regions of the heart where bypass grafts cannot be placed.85,86 It can also be used as a sole procedure performed through a left thoracotomy or thoracoscopically for patients with inoperable CAD in regions of viable myocardium.87 TMR has a level IIb indication to improve symptoms and may be reasonable to consider in patients with viable ischemic myocardium in areas that cannot be grafted.5
+</div>
+</details>
 
-#### **II. Left Ventricular Aneurysm**
+
+
+  
+  
+<details class="med-details">
+<summary><span class="ov-orange">II</span> <span class="t-teal">L</span>eft <span class="t-teal">V</span>entricular <span class="t-teal">A</span>neurysm</summary>
+<div class="details-content">
+
 
 - **A. Pathophysiology.** Occlusion of a major coronary artery may produce extensive transmural necrosis, which converts muscle into thin scar tissue. This results in formation of a left ventricular aneurysm (LVA) which exhibits dyskinesia during ventricular systole. Most LVAs occur in the anteroapical region due to occlusion of the LAD without collateralization, and are more likely to form in the absence of a patent infarct‐related vessel. In contrast, early reperfusion of an occluded vessel by PCI or thrombolytic therapy may limit the extent of myocardial damage with preservation of epicardial viability, resulting in an area of akinesia. This will result in an ischemic cardiomyopathy with a dilated ventricle that remodels with altered spherical geometry but does not produce an aneurysm.
 - **B. Presentation.** The most common presentation of an LVA associated with an ischemic cardiomyopathy is heart failure (HF) due to systolic dysfunction. With LVAs, there is a reduction of forward stroke volume caused by geometric remodeling of the aneurysmal segment due to loss of contractile tissue and an increase in ventricular dimensions. This results in an increase in wall stiffness and an increase in the LV end‐diastolic pressures. Angina may also occur due to the increased systolic wall stress of a dilated ventricle and the presence of multivessel CAD. Systemic thromboembolism may result from thrombus formation within the dyskinetic or akinetic segment, with thrombus being noted in over 50% of cases. Malignant ventricular arrhythmias or sudden death may result from either enhanced automaticity or triggered activity related to myocardial ischemia and increased myocardial stretch, or to the development of a macroreentry circuit at the border zone between scar tissue and viable myocardium.
@@ -229,8 +305,17 @@ STICH trial of patients with CAD‐related anterior akinesia or dyskinesia with 
 - **3.** For patients with recurrent ventricular tachycardia, an endocardial resection with or without endocardial mapping may be performed with good results.98,99
 - **4.** Coronary bypass grafting of critically diseased vessels should be performed. Bypass of the LAD and diagonal arteries should be considered if septal reperfusion can be accomplished.
 - **5.** A mitral valve procedure is also indicated if the severity of MR is 2+ or greater. MR is usually related to apical tethering of the leaflets due to ventricular dilatation or may result from annular dilatation. Mitral valve repair with a complete annuloplasty ring may be successful when performed with ventricular restoration.
+</div>
+</details>
 
-# **III. Ventricular Septal Rupture**
+
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">III</span> <span class="t-blue">V</span>entricular <span class="t-blue">S</span>eptal <span class="t-blue">R</span>upture</summary>
+<div class="details-content">
+
 
 - **A. Pathophysiology.** Extensive myocardial damage subsequent to occlusion of a major coronary vessel may result in septal necrosis and rupture. This usually occurs within the first week of an infarction, more commonly in the anteroapical region (from occlusion of the LAD artery), and less commonly in the inferior wall (usually from occlusion of the right coronary artery). It is noted in less than 1% of acute MIs, and the incidence has declined because of early reperfusion therapy for STEMIs. The presence of a ventricular septal defect (VSD) is suggested by the presence of a loud holosystolic murmur that reflects the left‐to‐right shunting across the ruptured septum. The patient usually develops acute pulmonary edema and cardiogenic shock from the left‐to‐right shunt.100
 - **B. Indications for surgery.** Surgery is indicated on an emergency basis for nearly all postinfarction VSDs to prevent the development of progressive multisystem organ failure. A report from the STS database in 2012 noted an operative mortality rate of 54% if surgery was performed within seven days of an infarction, usually because the patient was hemodynamically unstable and often in cardiogenic shock. For surgery performed after seven days, the mortality rate decreased to 18.4%, most likely because these patients were more hemodynamically stable, had smaller VSDs and <2:1 shunts, and were naturally selected to have survived long enough to survive subsequent lower‐risk surgery.101 Risk factors for operative mortality included preoperative dialysis, older age, female gender, cardiogenic shock, use of an IABP, moderate–severe MR, redo operation, and emergency status.102
@@ -252,8 +337,15 @@ STICH trial of patients with CAD‐related anterior akinesia or dyskinesia with 
 **Figure 1.5 •** Closure of a postinfarction ventricular septal defect (VSD) using the exclusion technique. (A) Anterior VSD. (B) Inferior VSD. The pericardial patch is anchored to viable myocardium away from the site of the defect, thus eliminating shunt flow across the septal defect. (Reproduced with permission from David et al., *Semin Thorac Cardiovasc Surg* 1998;10:105–10.)103
 
 **4.** Consideration may be given to percutaneous VSD closure with the Amplatzer VSD closure device in patients with smaller VSDs or prohibitive surgical risks.105 Use of MCS may also be considered in patients in cardiogenic shock to improve hemodynamics and organ system function, allowing for a lower‐risk nonemergency procedure at a future date.
+</div>
+</details>
 
-# **IV. Aortic Stenosis**
+
+
+<details class="med-details">
+<summary><span class="ov-orange">IV</span> <span class="t-red">A</span>ortic <span class="t-red">S</span>tenosis</summary>
+<div class="details-content">
+
 
 - **A. Pathophysiology.** Aortic stenosis (AS) results from thickening, calcification, and/or fusion of the aortic valve leaflets, which produce an obstruction to LV outflow.106,107 In younger patients, AS usually develops on congenitally bicuspid valves, whereas in older patients, degenerative change in trileaflet valves is more common. Aortic sclerosis is a very common finding in elderly patients, and may be a manifestation of atherosclerosis, but usually does not progress to AS. Progression of AS may be related to endothelial cell activation and atherogenesis, as it is associated with the presence of cardiac risk factors, including hypertension, hyperlipidemia, and diabetes, but it has not been shown that statins or other medical therapy will slow the progression of degenerative AS.108,109
   - **1.** The impairment to cusp opening leads to pressure overload, compensatory left ventricular hypertrophy (LVH), and reduced ventricular compliance. The development of LVH maintains normal wall stress and a normal EF.
@@ -444,8 +536,18 @@ largest multimers of von Willebrand factor by shear stress on the blood as it pa
 **Figure 1.13 •** Drawing and fluoroscopic images of a TAVR with a Medtronic Evolut Pro valve. (A, B) Partial self‐expansion of the nitinol frame by withdrawal of the constraining sheath. (C, D) Complete valve deployment. (Image courtesy of Medtronic, Inc. (A and C)).
 
 **4.** Reparative procedures, such as commissurotomy or debridement, have little role in the management of critical AS. However, debridement may be considered in the patient with moderate AS in whom the valve disease is not severe enough to warrant valve replacement, but in whom decalcification may delay surgery for a number of years.
+</div>
+</details>
 
-#### **V. Aortic Regurgitation**
+
+  
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">V</span> <span class="t-orange">A</span>ortic <span class="t-orange">R</span>egurgitation</summary>
+<div class="details-content">
+
 
 **A. Pathophysiology.** Aortic regurgitation (AR) results from abnormalities in the aortic valve leaflets (calcific degeneration, bicuspid valves, destruction from endocarditis) or from aortic root dilatation that prevents leaflet coaptation (idiopathic root dilatation causing annuloaortic ectasia, aortic dissection with cusp prolapse).106
 
@@ -525,8 +627,18 @@ LV‐ESD, left ventricular end‐systolic dimension
 ![](_page_38_Picture_6.jpeg)
 
 **Figure 1.14 •** Aortic valve‐sparing root replacement. (A) The aortic root is resected, sparing the pillars that support the commissures and the coronary arteries are mobilized as buttons. (B) Sutures are placed at the subannular level in a horizontal plane and passed through a tubular graft. (C) The graft is tied down and the aortic valve is resuspended by suturing the commissural posts and the base of the sinuses to the inside of the graft. The coronary buttons are reimplanted and the distal anastomosis is completed.
+</div>
+</details>
 
-# **VI. Mitral Stenosis**
+
+  
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">VI</span> <span class="t-brown">M</span>itral <span class="t-brown">S</span>tenosis</summary>
+<div class="details-content">
+
 
 - **A. Pathophysiology.**106 Mitral stenosis (MS) occurs nearly exclusively as a consequence of rheumatic fever. Thickening of the valve leaflets with commissural fusion and thickening and shortening of the chordae tendineae gradually reduce the size of the mitral valve orifice and the efficiency of LV filling. The increase in the diastolic transmitral gradient increases the left atrial and pulmonary venous pressures. Initially, left atrial size and compliance increase, and symptoms may be brought on by exercise or rapid heart rates, such as with AF. As the MS becomes severe, the left atrium remodels, and symptoms of heart failure, including dyspnea, orthopnea, and hemoptysis, may occur. An adaptive measure that can minimize symptoms is a decrease in pulmonary microvascular permeability and the development of pulmonary arteriolar vasoconstriction and thickening, which leads to pulmonary hypertension (PH). This may then lead to right‐sided HF and functional tricuspid regurgitation (TR). As the severity of MS and PH worsen, the cardiac output is compromised at rest and fails to increase with exercise. The development of AF further increases LA pressures, decreases ventricular filling, and compromises cardiac output. It may predispose to left atrial thrombus formation and systemic thromboembolism (Table 1.6).
 - **B. Natural history.** MS is a slowly progressive process which may not produce symptoms for several decades. The minimally symptomatic patient has an 80% 10‐year survival, but once symptoms develop, survival is very poor with a 10‐year survival in some of the early natural history studies of only 33% and 0% for patients in NYHA classes III and IV, respectively.177 Severe PH (pulmonary artery [PA] pressure >80 mm Hg) is associated with a mean survival of less than three years. Therefore, intervention should be considered when the patient develops class II–III symptoms.
@@ -609,8 +721,18 @@ MVA = mitral valve area in cm2 (normal = 4−6 cm2 ) DFP = diastolic filling per
 - **4.** Transcatheter treatment of MS is in its infancy. Transcatheter "valve‐in‐valve" procedures using aortic transcatheter heart valves have been used to treat bioprosthetic MS or regurgitation.184,185 If imaging suggests that leaflet displacement may produce LVOT obstruction, a LAMPOON procedure (Laceration of the Anterior Mitral leaflet to Prevent lvOt ObstructioN) may be necessary. Use of these valves for MS associated with very heavy mitral annular calcification ("valve‐in‐MAC") has been performed, but with high mortality rates.186 Routine transcatheter MVR with specifically designed valves has been accomplished and may eventually see more widespread use.184
 - **5.** Patients with a duration of AF exceeding six months will most likely remain in that rhythm postoperatively. Therefore, a Maze procedure should be considered in a patient with either paroxysmal or persistent AF. This should also include exclusion of the left atrial appendage by various techniques. The "cut and sew" Cox‐Maze procedure has been replaced by use of energy sources (usually radiofrequency and cryoablation) that can be applied to create transmural ablation lines in well‐described patterns to ablate this arrhythmia with fairly good success rates (see section XIII, pages 84–89). It is less likely to be successful when the left atrial dimension exceeds 6 cm.187,188
 - **6.** Functional TR usually improves after left‐sided surgery due to a reduction in pulmonary vascular resistance, but is more likely to persist or progress in patients with AF, large atria, or moderate TR. Since moderate TR often progresses to severe TR, which may compromise long‐term survival, tricuspid valve repair is recommended for patients with moderate or severe TR or tricuspid annular dilatation.189,190 Further comments on TV repair during surgery for MR are noted on pages 57–58.
+</div>
+</details>
 
-# **VII. Mitral Regurgitation**
+  
+  
+  
+
+
+<details class="med-details">
+<summary><span class="ov-orange">VII</span> <span class="t-green">M</span>itral <span class="t-green">R</span>egurgitation</summary>
+<div class="details-content">
+
 
 - **A. Pathophysiology.** Mitral regurgitation (MR) has been classified as primary (degenerative) or secondary (functional) depending on the pathologic changes involved.106,107,191
   - **1.** Primary MR usually results from myxomatous change or fibroelastic deficiency of the valve leaflets causing redundancy, along with chordal elongation or rupture. This results in leaflet prolapse and flail and is also commonly associated with annular dilatation. Rheumatic changes can cause leaflet distortion and chordal damage. Endocarditis is usually associated with the formation of vegetations, leaflet deformity, or perforation.
@@ -770,8 +892,18 @@ percutaneous repair of severe secondary or functional MR in patients who remaine
 
 - of the COAPT trial was that MitraClip could be recommended only after patients had truly failed a course of optimal medical therapy and cardiac resynchronization therapy (CRT) if appropriate. The appropriate candidates had an LVEF of 20–50% and LVESD <70 mm.211
 - **d.** These studies confirmed the dismal prognosis of patients with secondary MR and LV dysfunction with one‐year mortality rates of 22–24% (with/without intervention in the Mitra‐FR study) and two‐year mortality rates of 29% and 46% with and without interventions (COAPT).
+</div>
+</details>
 
-# **VIII. Tricuspid Valve Disease**
+  
+  
+  
+
+
+<details class="med-details">
+<summary><span class="ov-orange">VIII</span> <span class="t-red">T</span>ricuspid <span class="t-red">V</span>alve <span class="t-red">D</span>isease</summary>
+<div class="details-content">
+
 
 # **A. Pathophysiology**<sup>106</sup>
 
@@ -868,8 +1000,17 @@ but this fails to reduce annular dilatation. Other devices are being investigate
 ![](_page_58_Picture_2.jpeg)
 
 **Figure 1.20 •** Bicuspidization of the tricuspid valve for functional TR. (A) Two pledgeted mattress sutures are placed from the anteroposterior commissure to the posteroseptal commissure along the posterior annulus. (B) Tying down the sutures produces a "bicuspid" valve and should eliminate the TR.
+</div>
+</details>
 
-# **IX. Infective Endocarditis**
+
+  
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">IX</span> <span class="t-pink">I</span>nfective <span class="t-pink">E</span>ndocarditis</summary>
+<div class="details-content">
 
 **A. Pathophysiology.** Infective endocarditis (IE) can result in the destruction of valve leaflets, invasion of surrounding myocardial tissue, systemic embolization of valve vegetations, or persistent systemic sepsis. Embolization is more likely with mitral than aortic valve involvement, staphylococcal organisms, and large (>10–15 mm) or mobile vegetations. Native valve endocarditis (NVE) is most commonly caused by *Streptococcus viridans*, *Staphylococcus aureus*, or coagulase‐negative staphylococcal organisms. Tricuspid valve endocarditis is usually caused by IV drug abuse, although only 25% of intravenous drug abusers (IVDAs) have isolated tricuspid valve involvement.262,263 The incidence of prosthetic valve endocarditis (PVE) is approximately 0.5–1% per patient‐year for most mechanical and tissue valves. It is most commonly caused by staphylococcal organisms.
 
@@ -937,8 +1078,17 @@ surely going to become a more common problem that will need to be managed with s
   - **a.** When surgery is indicated, tricuspid valve repair is usually recommended and should be attempted aggressively in these patients.278–280 Bicuspidization after resection of infected tissue is often successful. Otherwise, the tricuspid valve should be replaced, accepting the higher risk of recurrence. Again, the Cleveland Clinic data recommended a TV repair even if it leaves the patient with a significant amount of TR, and the authors recommended avoiding a TVR if at all possible.278
 
 **b.** Although most surgeons believe that a valvectomy should only be performed in extreme cases and in the absence of PH, a single center study comparing valvectomy with TVR and TV repair found similar 30‐day mortality rates and a lower readmission rate at one year with valve excision than TVR (although 60% of patients were lost to follow‐up).295 The readmission rate after TVR was 23% and was usually associated with recurrent infection. Apparently, since many patients already have severe TR, they appear to tolerate valve excision well without developing severe HF. Generally, if TV repair cannot be successfully performed, TVR should be considered if the patient is undergoing left‐sided valve surgery, has PH, and is not an IVDA. However, valvectomy may be a reasonable option if IVDA recidivism is highly likely and the valve cannot be repaired.
+</div>
+</details>
 
-# **X. Hypertrophic Obstructive Cardiomyopathy**
+
+  
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">X</span> <span class="t-indigo">H</span>ypertrophic <span class="t-indigo">O</span>bstructive <span class="t-indigo">C</span>ardiomyopathy</summary>
+<div class="details-content">
 
 - **A. Pathophysiology.** Hypertrophic obstructive cardiomyopathy (HOCM) is characterized by diastolic dysfunction and varying degrees of dynamic LVOT obstruction. The latter most commonly results from hypertrophy of the basal septum with mitral– septal apposition from systolic anterior motion (SAM) of the mitral valve. This also leads to MR from incomplete leaflet apposition. A variety of anomalies of the mitral valve and papillary muscles may contribute to these problems, including elongated anterior and posterior mitral leaflets (AML and PML), anterior and basilar displacement of the anterolateral papillary muscle, and the insertion of the anterolateral papillary muscle or anomalous chords into the middle of the AML.296–300
 - **B. Clinical presentations.** Several different clinical patterns may be noted with HOCM.
@@ -991,8 +1141,15 @@ surely going to become a more common problem that will need to be managed with s
   - **b.** Nonetheless, because open‐heart surgery allows the surgeon to address papillary muscle pathology, massive LVH, and perform a concomitant cardiac procedure (for coronary disease or AF) and because it avoids the long‐term concerns of creating an arrhythmogenic focus with alcohol ablation, myectomy is the preferred procedure, reserving alcohol septal ablation for older patients and those considered high risk for surgery.
 - **4.** Transcatheter mitral valve repair using the MitraClip device has seen limited use in HOCM, but may be considered in patients with severe MR and systolic anterior motion who are at prohibitive risk for surgical myectomy or have coronary anatomy not amenable to alcohol septal ablation. It can reduce the LVOT gradient and the degree of MR.308
 - **5.** ICD placement should be considered in patients at high risk for sudden death (as noted above) and has been the only modality demonstrated to reduce that risk and prolong life.
+</div>
+</details>
 
-# **XI. Aortic Dissections**
+
+
+<details class="med-details">
+<summary><span class="ov-orange">XI</span> <span class="t-lime">A</span>ortic <span class="t-lime">D</span>issections</summary>
+<div class="details-content">
+
 
 **A. Pathophysiology.** An aortic dissection results from an intimal tear that allows passage of blood into the media, creating a false channel. This channel is contained externally by the outer medial and adventitial layers of the aorta. With each cardiac contraction, the dissected channel can extend proximally or distally, potentially causing branch artery compromise or rupture as the outer wall weakens. Dissections involving the
 
@@ -1064,8 +1221,18 @@ ascending aorta are classified as Stanford type A (DeBakey type I–II, or proxi
 **Figure 1.23 •** Repair of a type A aortic dissection. (A) The aorta is opened and the entry site is resected. The aortic valve is resuspended. (B) The proximal and distal suture lines are fragile and are reinforced. During circulatory arrest with the aorta unclamped, two felt strips are shown for the distal suture line, being placed inside the true lumen and outside the adventitia. (C) After the distal suture line is completed, the graft is cannulated to reestablish antegrade cardiopulmonary bypass flow with proximal application of a cross‐clamp. BioGlue may be injected to stabilize the distal and proximal (shown here) suture lines, and the proximal graft anastomosis is performed, again using felt reinforcement.
 
 **b.** Owing to the substantial morbidity and mortality associated with surgical repair, endovascular stenting (TEVAR) is the recommended approach for complicated type B dissections, if feasible.322–325 This procedure should seal the entry site to allow for thrombosis of the false lumen. Additional fenestration and stenting may be required if reconstitution of true channel flow does not correct malperfusion. Because of the high rate of progression of uncomplicated type B dissections to malperfusion and aneurysm formation (up to 50% in IRAD studies), TEVAR is recommended for patients with "high‐risk" uncomplicated dissections to promote false lumen thrombosis and aortic remodeling. The aorta tends to retain adequate plasticity to achieve adequate remodeling for three months, so the best results are achieved with a TEVAR within that timeframe.323
+</div>
+</details>
 
-## **XII. Thoracic Aortic Aneurysms**
+
+  
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">XII</span> <span class="t-blue">T</span>horacic <span class="t-blue">A</span>ortic <span class="t-blue">A</span>neurysms</summary>
+<div class="details-content">
+
 
 **A. Pathophysiology.** Ascending aortic (AAo) aneurysms usually result from medial degeneration whereas those in the distal arch, descending thoracic, and thoracoabdominal aorta are generally atherosclerotic in nature. Aneurysms in any location may result from expansion of chronic dissections. Although progressive enlargement may result in compression of adjacent structures, most deaths result from aneurysm rupture or dissection.310,311
 
@@ -1157,8 +1324,17 @@ with use of individual trifurcation grafts to the arch vessels may be performed.
 - **c.** Because of the inherent risk of descending aortic clamping, TEVAR has become popularized for the treatment of descending thoracic and thoracoabdominal aneurysms. This requires careful evaluation of the aorta by CT or MR imaging for landing zones and is performed using transfemoral access. Although paraplegia remains a risk of this procedure, TEVAR may reduce the risk of early death and postoperative complications, including acute kidney injury, bleeding, pneumonia, and cardiac morbidity.372–374
 - **d.** Femorofemoral bypass can be used to provide distal protection. It can also be used along with DHCA when clamping is not possible due to extensive disease or calcification. This technique also provides visceral and spinal cord protection.
 - **e.** Arterial monitoring lines are inserted in the right radial and femoral arteries to monitor proximal and distal pressures during the period of aortic cross‐ clamping, especially if left heart bypass is used.
+</div>
+</details>
 
-# **XIII. Atrial Fibrillation**
+
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">XIII</span> <span class="t-red">A</span>trial <span class="t-red">F</span>ibrillation</summary>
+<div class="details-content">
+
 
 # **A. Pathophysiology**<sup>188</sup>
 
@@ -1240,8 +1416,17 @@ LAA = left atrial appendage; PV = pulmonary veins
 **Figure 1.31 •** Convergent procedure. Through a subxiphoid incision, bilateral pulmonary vein isolation is performed along with multiple interconnecting ablation lesions across the posterior left atrium. Subsequently, additional endocardial ablation over the pulmonary veins is performed. (Reproduced with permission of Gersak et al. *Ann Thorac Surg* 2016;102:1550–7.)400
 
 approach with endocardial ablation lines performed by an electrophysiologist to complete the PVI.400 This procedure has been recommended in symptomatic patients who fail medical therapy or catheter ablation and was given a level IIb indication by an expert consensus panel in 2017.375
+</div>
+</details>
 
-# **XIV. Advanced Heart Failure**
+
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">XIV</span> <span class="t-purple">A</span>dvanced <span class="t-purple">H</span>eart <span class="t-purple">F</span>ailure</summary>
+<div class="details-content">
+
 
 - **A. Pathophysiology.** Advanced heart failure (HF) is a clinical syndrome that develops due to progressive deterioration in LV function associated with LV remodeling. It is most commonly the result of multiple infarctions from CAD (ischemic cardiomyopathy), but may result from a dilated cardiomyopathy or end‐stage valvular heart disease. As ventricular function deteriorates, the LV dilates and changes from an elliptical to a spherical shape. This increases wall stress, which then increases oxygen requirements, causes pathologic cardiomyocyte hypertrophy that further compromises contractile function, and induces functional MR. These changes lead to intractable HF. In addition, ventricular remodeling increases the tendency to develop ventricular arrhythmias.401
   - **1.** Neurohormonal activation may contribute to remodeling. Elevation of various hormones increases sodium retention and produces peripheral vasoconstriction, increasing hemodynamic stress. There are also direct toxic effects on myocardial cells, stimulating the development of fibrosis. This relationship between neurohormonal activation and worsening of HF forms the basis of the medical approach to HF.
@@ -1311,8 +1496,17 @@ survival in patients with INTERMACS profile 4 and 5–7, but fewer clinical bene
   - a. Ventricular assist devices (VADs) have been recommended on an urgent basis for patients in INTERMACS class 1–2. However, the ROADMAP study suggested that survival was also improved with VADS for ambulatory patients in profile 3–4 compared with profiles 5–7.404
   - **b.** Cardiac transplantation should be considered in patients with advanced HF who have an EF <15% and a peak  $VO_2$  <10–15 mL/min/m² with maximal exercise testing. Patients in lower INTERMACS categories can be managed medically until a transplant becomes available, but sicker patients may requiring bridging with a VAD.
   - c. VADs can be considered for destination therapy in patients who are not considered transplant candidates. The HeartMate III (Abbott) and HeartWare (Medtronic) systems are the most commonly used VADs for destination therapy.<sup>421</sup>
+</div>
+</details>
 
-#### XV. Pericardial Disease
+
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">XV</span> <span class="t-orange">P</span>ericardial <span class="t-orange">D</span>isease</summary>
+<div class="details-content">
+
 
 - A. Pathophysiology and diagnostic techniques. The pericardium may become involved in a variety of systemic disease processes that produce either pericardial effusions or constriction. The most common causes of effusions are idiopathic (probably viral), postcardiotomy, malignant, uremic, pyogenic, and tuberculous. The most common causes of constriction are idiopathic or viral, postcardiotomy, radiation, and tuberculous. Early and late postoperative cardiac tamponade due to hemopericardium are discussed on pages 446–447 and 757–761.
   - 1. Large effusions result in tamponade physiology with progressive low output states. They are best documented by 2D echocardiography, which delineates their size and provides hemodynamic evidence of tamponade. 422 Findings include:
@@ -1366,8 +1560,17 @@ may not be associated with systolic dysfunction. However, the presence of signif
 
 - **c.** Rarely, patients will develop epicardial constriction with a severe inflammatory response postoperatively, anecdotally noted in some patients with prior mediastinal radiation. This problem is approached using a "waffle" procedure, which entails multiple crisscrossing incisions in the scar tissue to optimize ventricular expansion and filling.
 - **d.** The operative mortality for pericardiectomies is 5–10%. Factors that compromise the long‐term results of pericardiectomy include higher NYHA class, radiation‐induced constriction, higher PA pressures, worse LV systolic function, and the presence of hyponatremia or renal dysfunction.428,431
+</div>
+</details>
 
-# **XVI. Congenital Heart Disease: Atrial Septal Abnormalities**
+
+  
+  
+
+<details class="med-details">
+<summary><span class="ov-orange">XVI</span> <span class="t-pink">C</span>ongenital <span class="t-pink">H</span>eart <span class="t-pink">D</span>isease: <span class="t-pink">A</span>trial <span class="t-pink">S</span>eptal <span class="t-pink">A</span>bnormalities</summary>
+<div class="details-content">
+
 
 #### **A. Pathophysiology**
 
@@ -1399,27 +1602,20 @@ intolerance, frequent pulmonary infections, and palpitations from atrial arrhyth
 **1.** Percutaneous closure can be performed for PFOs and secundum ASDs that are less than 38 mm in size and have a satisfactory tissue rim. Anticoagulation with antiplatelet therapy (aspirin +/− clopidogrel) is indicated for six months after placement of the device (Amplatzer).
 
 **2.** Surgical closure, usually with a patch, is indicated in large secundum ASDs not amenable to percutaneous closure and for all nonsecundum ASDs, including sinus venosus defects close to the SVC with associated anomalous pulmonary venous drainage, and ostium primum defects. This can frequently be done through a right minithoracotomy incision.446
+</div>
+</details>
 
-# **XVII. Adults with Other Congenital Heart Disease**
 
-For the management of adults with all other forms of congenital heart disease, the reader is referred to the ACC/AHA guidelines available at www.acc.org.447
+  
+  
 
-# **References**
+<details class="med-details">
+<summary><span class="ov-orange">XVII</span> <span class="t-teal">A</span>dults with <span class="t-teal">O</span>ther <span class="t-teal">C</span>ongenital <span class="t-teal">H</span>eart <span class="t-teal">D</span>isease</summary>
+<div class="details-content">
 
-- 1. Arnett DK, Blumenthal RS, Albert MA, et al. ACC/AHA guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines. *J Am Coll Cardiol* 2019;74:1376–414.
-- 2. Boden WE, O'Rourke RA, Teo KK. Optimal medical therapy with or without PCI for stable coronary disease. *N Engl J Med* 2007;356:1503–16.
-- 3. De Bruyne B, Fearon WF, Pijls NHJ. Fractional flow reserve‐guided PCI for stable coronary artery disease. *N Engl J Med* 2014;371:1208–17.
-- 4. Gotberg M, Christiansen EH, Gudmundsdottir IJ, et al. Instantaneous wave‐free ratio versus fractional flow reserve to guide PCI. *N Engl J Med* 2017;376:1813–23.
-- 5. Hillis LD, Smith PK, Anderson JL. 2011 ACCF/AHA guideline for coronary artery bypass graft surgery. *J Am Coll Cardiol* 2011;58:e123–210.
-- 6. Weiss S, Weintraub W. Revascularization vs. medical therapy in stable ischemic heart disease. *Prog Cardiovasc Dis* 2015;58:299–305.
-- 7. Patel MR, Calhoon JH, Dehmer JH, Grantham JA, Maddox TM, Maron DJ, Smith PK. ACC/ AATS/AHA/ASE/ASNC/SCAI/SCCT/STS 2017 appropriate use criteria for coronary revascularization in patients with stable ischemic heart disease. *J Am Coll Cardiol* 2017;69:2212–41.
-- 8. Mohr FW, Morice MC, Kappetein AP, et al. Coronary artery bypass graft surgery versus percutaneous intervention in patients with three‐vessel disease and left main disease: 5‐year follow‐up of the randomized clinical SYNTAX trial. *Lancet* 2013;381:629–38.
-- 9. Mack M, Baumgarten H, Lytle BS. Why surgery won the SYNTAX trial and why it matters. *J Thorac Cardiovasc Surg* 2016;152:1237–40.
-- 10. Farkouh ME, Domanski M, Dangas GD, et al. on behalf of the FREEDOM follow‐on study investigators. Long‐term survival following multivessel revascularization in patients with diabetes (FREEDOM follow‐on study). *J Am Coll Cardiol* 2019;73:629–38.
-- 11. Farkouh ME, Domanski M, Sleeper LA, et al. Strategies for multivessel revascularization in patients with diabetes. *N Engl J Med* 2012;367:2375–84.
-- 12. Esper RB, Farkouh ME, Riberio EE, et al. SYNTAX score in patients with diabetes undergoing coronary revascularization in the FREEDOM trial. *J Am Coll Cardiol* 2018;72:2826–37.
-- 13. Généreux P, Palmerini T, Caixeta A. Quantification and impact of untreated coronary artery disease after percutaneous coronary intervention: the residual SYNTAX (Synergy Between PCI with Taxus and Cardiac Surgery) score. *J Am Coll Cardiol* 2012;59:2165–74.
-- 14. Milojevic M, Head SJ, Parasca CA, et al. Causes of death following PCI versus CABG in complex CAD: 5‐year follow‐up of SYNTAX. *J Am Coll Cardiol* 2016;67:42–55.
-- 15. Farooq V, van Klaveren D, Steyerberg EW, et al. Anatomical and clinical characteristics to guide decision making between coronary artery bypass surgery and percutaneous coronary intervention for individual patients: development and validation of SYNTAX score II. *Lancet* 2013;381:639–50.
-- 16. Dangas GD, Farkouh ME, Sleeper LA, et al. Long‐term outcome of PCI versus CABG in insulin and non‐insulin treated diabetic patients: results from the FREEDOM trial. *J Am Coll Cardiol* 2014;64:1189–97.
-- 17. Doenst T, Haverich A, Serruys P, et al. PCI and CABG for treating stable coronary artery disease. *J Am Coll Cardiol* 2019;73:964–76.
+
+For the management of adults with all other forms of congenital heart disease, the reader is referred to the <span class="ov-lime">ACC/AHA</span> guidelines available at <mark class="m-pink">www.acc.org</mark>.
+</div>
+</details>
+
+
