@@ -1,22 +1,31 @@
 :root {
-  /* Основные переменные для всей читалки */
-  --header-height: 50px;        /* Высота верхней полоски — сделана компактнее для узкой панели */
-  --sidebar-width: 320px;       /* Ширина боковой панели на десктопах */
-  --sidebar-transition: transform 0.3s ease-in-out; /* Анимация скрытия/показа sidebar */
-  --content-transition: margin-left 0.3s ease-in-out; /* Анимация сдвига контента */
-  --border-color: #ddd;         /* Цвет границ (если не определён в styles.css) */
-  --text-color: #333;           /* Основной цвет текста */
-  --secondary-color: #007bff;   /* Акцентный цвет (для выбранной опции и т.д.) */
+  --header-height: 50px;
+  --sidebar-width: 320px;
+  --sidebar-transition: transform 0.3s ease-in-out;
+  --content-transition: margin-left 0.3s ease-in-out;
+  --border-color: #e0e0e0;
+  --text-color: #212121;
+  --secondary-color: #007bff;
+  --bg-color: #ffffff;
 }
 
 .reader-body {
-  /* Отступ сверху, чтобы контент не перекрывался фиксированным заголовком */
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--bg-color);
   padding-top: var(--header-height);
   transition: var(--content-transition);
+  text-align: justify;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  font-feature-settings: 'liga' 1, 'calt' 1;
 }
 
 .reader-header {
-  /* Фиксированная верхняя полоска меню */
   position: fixed;
   top: 0;
   left: 0;
@@ -24,28 +33,26 @@
   height: var(--header-height);
   background: #fff;
   border-bottom: 1px solid var(--border-color);
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
   z-index: 1000;
-  overflow: hidden; /* Защита от вылезания элементов */
+  overflow: hidden;
 }
 
 .header-content {
-  /* Размещение элементов внутри заголовка */
   display: flex;
   align-items: center;
-  justify-content: space-between; /* Равномерное распределение */
-  padding: 0 0.8rem; /* Компактные боковые отступы */
+  justify-content: space-between;
+  padding: 0 1rem;
   height: 100%;
-  flex-wrap: nowrap; /* Всё в одну строку */
+  flex-wrap: nowrap;
   gap: 0.5rem;
 }
 
-/* Кнопки и ссылки в заголовке */
 .header-btn, .nav-link {
   background: none;
   border: none;
-  color: var(--text-color);
-  font-size: 1.1rem; /* Компактный размер иконок */
+  color: #424242;
+  font-size: 1.1rem;
   cursor: pointer;
   padding: 0.4rem;
   border-radius: 5px;
@@ -53,27 +60,25 @@
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  min-width: 36px; /* Минимальная ширина для клика */
 }
 
 .header-btn:hover, .nav-link:hover {
-  background: #f0f0f0;
+  background: #f5f5f5;
 }
 
 .nav-link .nav-text {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-weight: 500;
   white-space: nowrap;
 }
 
-/* Кнопки выбора версий (табы) */
 .version-tabs {
   display: flex;
   gap: 0.2rem;
   padding: 0.2rem;
-  background: #f5f5f5;
+  background: #eeeeee;
   border-radius: 12px;
-  border: 1px solid var(--border-color);
+  border: 1px solid #e0e0e0;
 }
 
 .version-tab {
@@ -82,17 +87,15 @@
   border: none;
   border-radius: 10px;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 500;
-  color: #666;
+  color: #616161;
   transition: all 0.2s ease;
-  min-width: 50px;
-  text-align: center;
 }
 
 .version-tab:hover {
-  background: #e9ecef;
- color: var(--text-color);
+  background: #e0e0e0;
+  color: var(--text-color);
 }
 
 .version-tab.active {
@@ -101,14 +104,13 @@
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-/* Боковая панель (sidebar) */
 .sidebar {
   position: fixed;
   top: var(--header-height);
   left: 0;
   width: var(--sidebar-width);
   height: calc(100vh - var(--header-height));
-  background: #fff;
+  background: #fafafa;
   border-right: 1px solid var(--border-color);
   overflow-y: auto;
   transform: translateX(0);
@@ -120,12 +122,12 @@
   transform: translateX(-100%);
 }
 
-/* Основной контент */
 #main-content {
   margin-left: var(--sidebar-width);
   width: calc(100% - var(--sidebar-width));
-  padding: 2rem;
+  padding: 0; /* REMOVED padding */
   transition: var(--content-transition);
+  background-color: var(--bg-color);
 }
 
 #main-content.full-width {
@@ -133,896 +135,184 @@
   width: 100%;
 }
 
-/* Режим фокуса */
-body.focus-mode .sidebar,
-body.focus-mode .main-nav,
-body.focus-mode #version-selector-container,
-body.focus-mode #toc-toggle {
-  display: none;
-}
-
-body.focus-mode .reader-header {
-  background: transparent;
-  border-bottom: none;
-  box-shadow: none;
-}
-
-body.focus-mode #main-content {
-  margin-left: 0;
-  width: 100%;
-  padding: 2rem;
-}
-
-body.focus-mode {
-  padding-top: 0;
-}
-
-#focus-toggle {
-  z-index: 1001;
-}
-
-body.focus-mode #focus-toggle {
-  position: fixed;
-  top: 1rem;
-  right: 1rem;
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(5px);
-  z-index: 2000;
-  padding: 0.6rem;
-  border-radius: 50%;
-}
-
-/* Переключение иконок фокуса */
-#focus-toggle .fa-compress { display: none; }
-body.focus-mode #focus-toggle .fa-expand { display: none; }
-body.focus-mode #focus-toggle .fa-compress { display: block; }
-
-/* Дополнительные стили для контента в режиме фокуса */
-body.focus-mode #content-area {
-  max-width: 98vw;
-  margin: 0 auto;
-  background: #fff;
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.05);
-}
-
-/* Стили контента книги */
 .content {
-  max-width: 98vw;
-  margin: 0 auto;
-  background: #fff;
-  padding: 2rem;
-  border-radius: 8px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+  max-width: 100%; /* CHANGED */
+  width: 100%;     /* CHANGED */
+  margin: 0;         /* CHANGED */
+  background: var(--bg-color);
+  padding: 2rem 1rem; /* CHANGED padding for mobile-first */
+  border-radius: 0;    /* CHANGED */
+  box-shadow: none;      /* CHANGED */
 }
 
-/* Responsive изображения */
+@media (min-width: 768px) {
+  .content {
+    padding: 2.5rem 2rem; /* More padding on larger screens */
+  }
+}
+
+.content p, .content ul, .content ol, .content blockquote {
+    max-width: 800px; /* Set a max-width for readability on wide screens */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+.content h1 { font-size: 2.2rem; }
+.content h2 { font-size: 1.8rem; }
+.content h3 { font-size: 1.5rem; }
+
+
+/* ==================== CONTENT STYLES OVERHAUL ==================== */
+
 .med-img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 1rem auto;
+  margin: 2rem auto;
+  border-radius: 4px;
 }
 
-/* Мобильная адаптация */
-@media (max-width: 768px) {
-  .sidebar {
-    transform: translateX(-100%);
-  }
+/* ==================== INFOBLOCKS RE-ARCHITECTED ==================== */
 
-  .sidebar.open {
-    transform: translateX(0);
-    width: 85%;
-  }
-
-  #main-content {
-    margin-left: 0;
-    width: 100%;
-  }
-
-  .nav-text {
-    display: none; /* Только иконки в заголовке */
-  }
-
-  /* Фокус-кнопка внизу по центру на мобильных */
-  body.focus-mode #focus-toggle {
-    top: auto;
-    bottom: 2rem;
+.content .admonition, .content .info-box {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border-left: 3px solid;
+    border-radius: 0;
+    box-shadow: none;
+    background-color: #f5f5f5;
+    width: 100vw; /* Force full viewport width */
+    max-width: 100vw;
+    position: relative;
+    left: 50%;
     right: 50%;
-    transform: translateX(50%);
-  }
-
-  /* Компактнее заголовок */
-  .header-content {
-    padding: 0.5rem;
-    gap: 0.4rem;
-  }
-  
-  /* Центрирование табов версии */
-  .version-tabs {
-    margin: 0 auto;
-  }
-  
-  /* Адаптация заголовка для мобильных */
-  .header-content {
-    justify-content: center;
-    gap: 0.3rem;
-  }
-  
-  /* Уменьшение размеров кнопок для мобильных */
-  .header-btn, .nav-link {
-    padding: 0.3rem;
-    min-width: 32px;
-  }
-  
-  .version-tab {
-    padding: 0.3rem 0.6rem;
-    font-size: 0.8rem;
-    min-width: 40px;
-  }
+    margin-left: -50vw;
+    margin-right: -50vw;
 }
-/* ==================== PREVIEW STYLES ==================== */
 
-/* Цветной текст */
+.content .admonition-title {
+    font-weight: 600;
+}
+
+/* This targets the content *inside* the full-width admonition to align with main text */
+.content .admonition > *, .content .info-box > * {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Nested admonitions - they won't indent further */
+.content .admonition .admonition, .content .info-box .info-box {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: -1rem; /* Counteract parent padding */
+    margin-right: -1rem;
+    width: auto; /* Revert viewport width for nested */
+    position: static;
+    left: auto;
+    right: auto;
+    border-top: 1px solid var(--border-color);
+    border-bottom: 1px solid var(--border-color);
+    border-left-width: 3px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* Specific Admonition Colors */
+.content .admonition-note { border-color: #1976d2; background-color: #e3f2fd; }
+.content .admonition-tip { border-color: #388e3c; background-color: #e8f5e9; }
+.content .admonition-info { border-color: #0097a7; background-color: #e0f7fa; }
+.content .admonition-warning { border-color: #f57c00; background-color: #fff3e0; }
+.content .admonition-danger { border-color: #d32f2f; background-color: #ffebee; }
+.content .admonition-caution { border-color: #f9a825; background-color: #fffde7; }
+.content .admonition-dosage { border-color: #7b1fa2; background-color: #f3e5f5; }
+.content .admonition-contraindication { border-color: #c2185b; background-color: #fce4ec; }
+.content .admonition-side-effect { border-color: #ff8f00; background-color: #fff8e1; }
+.content .admonition-clinical { border-color: #00796b; background-color: #e0f2f1; }
+.content .admonition-anatomy { border-color: #ad1457; background-color: #fce4ec; }
+.content .admonition-physiology { border-color: #0277bd; background-color: #e1f5fe; }
+.content .admonition-surgery { border-color: #2e7d32; background-color: #e8f5e9; }
+.content .admonition-icu { border-color: #c62828; background-color: #ffebee; }
+.content .admonition-evidence { border-color: #455a64; background-color: #eceff1; }
+.content .admonition-protocol { border-color: #303f9f; background-color: #e8eaf6; }
+
+.content .info-box-info { border-color: #2196f3; background: #e3f2fd; }
+.content .info-box-success { border-color: #4caf50; background: #e8f5e9; }
+.content .info-box-warning { border-color: #ff9800; background: #fff3cd; }
+.content .info-box-danger { border-color: #f44336; background: #ffebee; }
+
+/* ==================== INLINE STYLES ==================== */
+
 .content .t-red { color: #e74c3c; }
 .content .t-blue { color: #3498db; }
 .content .t-green { color: #2ecc71; }
 .content .t-gold { color: #f1c40f; }
 .content .t-purple { color: #9b59b6; }
 .content .t-orange { color: #e67e22; }
-.content .t-teal { color: #1abc9c; }
-.content .t-pink { color: #fd79a8; }
-.content .t-indigo { color: #6c5ce7; }
-.content .t-lime { color: #badc58; }
-.content .t-brown { color: #a0522d; }
-.content .t-grey { color: #95a5a6; }
 
-/* МЕДИЦИНСКИЕ БЛОКИ - УСИЛЕННАЯ ВЕРСИЯ */
-.content .med-note {
-    margin: 15px 0;
-    padding: 12px 15px;
-    border-left: 4px solid;
-    border-radius: 4px;
-    font-size: 14px;
-}
-
-.content .note-dosage,
-.content .med-note.note-dosage {
-    background: #fff3e0;
-    border-color: #ff6f00;
-}
-
-.content .note-dosage::before {
-    content: "💉 Дозировка: ";
-    font-weight: bold;
-    color: #ff6f00;
-}
-
-.content .note-anatomy,
-.content .med-note.note-anatomy {
-    background: #fce4ec;
-    border-color: #c2185b;
-}
-
-.content .note-anatomy::before {
-    content: "🫀 Анатомия: ";
-    font-weight: bold;
-    color: #c2185b;
-}
-
-.content .note-surgery,
-.content .med-note.note-surgery {
-    background: #e8f5e9;
-    border-color: #2e7d32;
-}
-
-.content .note-surgery::before {
-    content: "🔪 Хирургия: ";
-    font-weight: bold;
-    color: #2e7d32;
-}
-
-.content .note-pharmacy,
-.content .med-note.note-pharmacy {
-    background: #e3f2fd;
-    border-color: #1565c0;
-}
-
-.content .note-pharmacy::before {
-    content: "💊 Фармакология: ";
-    font-weight: bold;
-    color: #1565c0;
-}
-
-.content .note-physio,
-.content .med-note.note-physio {
-    background: #f3e5f5;
-    border-color: #6a1b9a;
-}
-
-.content .note-physio::before {
-    content: "🧬 Физиология: ";
-    font-weight: bold;
-    color: #6a1b9a;
-}
-
-.content .note-fact,
-.content .med-note.note-fact {
-    background: #fff9c4;
-    border-color: #f57f17;
-}
-
-.content .note-fact::before {
-    content: "💡 Факт: ";
-    font-weight: bold;
-    color: #f57f17;
-}
-
-.content .note-treatment,
-.content .med-note.note-treatment {
-    background: #e0f2f1;
-    border-color: #00695c;
-}
-
-.content .note-treatment::before {
-    content: "🩹 Лечение: ";
-    font-weight: bold;
-    color: #00695c;
-}
-
-.content .note-icu,
-.content .med-note.note-icu {
-    background: #ffebee;
-    border-color: #c62828;
-}
-
-.content .note-icu::before {
-    content: "🏥 ОИТ: ";
-    font-weight: bold;
-    color: #c62828;
-}
-
-.content .note-nb,
-.content .med-note.note-nb {
-    background: #fff3e0;
-    border-color: #e65100;
-    font-weight: bold;
-}
-
-.content .note-nb::before {
-    content: "⚠️ NB! ";
-    font-weight: bold;
-    color: #e65100;
-    font-size: 16px;
-}
-
-/* Скрываемые блоки */
-.content .med-details summary {
-    cursor: pointer;
-    font-weight: bold;
-    padding: 8px;
-    background: #f5f5f5;
-    border-radius: 4px;
-}
-.content .med-details .details-content {
-    padding: 10px;
-    margin-top: 5px;
-}
-
-/* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
-
-/* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
-/* OVAL HIGHLIGHTS - ПРАВИЛЬНАЯ ВЕРСИЯ */
-.content .ov-gold,
-.content .gold-highlighted-oval-3d {
-    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: #333;
+.content .ov-gold, .content .ov-green, .content .ov-blue, .content .ov-red, .content .ov-pink, .content .ov-purple, .content .ov-teal, .content .ov-orange, .content .ov-yellow, .content .ov-grey, .content .ov-silver, .content .ov-lime, .content .ov-indigo, .content .ov-brown {
+    padding: 2px 10px;
+    border-radius: 15px;
     font-weight: 500;
-    box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3);
     display: inline-block;
-}
-
-.content .ov-green,
-.content .green-highlighted-oval-3d {
-    background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3);
-    display: inline-block;
-}
-
-.content .ov-blue,
-.content .blue-highlighted-oval-3d {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3);
-    display: inline-block;
-}
-
-.content .ov-red,
-.content .red-highlighted-oval-3d {
-    background: linear-gradient(135deg, #f85032 0%, #e73827 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3);
-    display: inline-block;
-}
-
-.content .ov-pink,
-.content .pink-highlighted-oval-3d {
-    background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3);
-    display: inline-block;
-}
-
-.content .ov-purple,
-.content .purple-highlighted-oval-3d {
-    background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3);
-    display: inline-block;
-}
-
-.content .ov-teal,
-.content .teal-highlighted-oval-3d {
-    background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3);
-    display: inline-block;
-}
-
-.content .ov-orange,
-.content .orange-highlighted-oval-3d {
-    background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3);
-    display: inline-block;
-}
-
-.content .ov-yellow,
-.content .yellow-highlighted-oval-3d {
-    background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: #333;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3);
-    display: inline-block;
-}
-
-.content .ov-grey,
-.content .ov-silver,
-.content .silver-highlighted-oval-3d {
-    background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: #333;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(189, 195, 199, 0.3);
-    display: inline-block;
-}
-
-.content .ov-lime {
-    background: linear-gradient(135deg, #badc58 0%, #a8e063 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: #333;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(186, 220, 88, 0.3);
-    display: inline-block;
-}
-
-.content .ov-indigo {
-    background: linear-gradient(135deg, #6c5ce7 0%, #5f4fcf 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(108, 92, 231, 0.3);
-    display: inline-block;
-}
-
-.content .ov-brown {
-    background: linear-gradient(135deg, #a0522d 0%, #8b4513 100%);
-    padding: 3px 12px;
-    border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    box-shadow: 0 4px 6px rgba(160, 82, 45, 0.3);
-    display: inline-block;
-}
-
-/* 2. BRIGHTER MARKERS */
-/* ЯРКИЕ МАРКЕРЫ - ПРАВИЛЬНАЯ ВЕРСИЯ */
-.content span.m-green {
-    background-color: #27ae60 !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-blue {
-    background-color: #3498db !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-red {
-    background-color: #e74c3c !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-purple {
-    background-color: #8e44ad !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-teal {
-    background-color: #1abc9c !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-gold {
-    background-color: #f39c12 !important;
-    color: #333 !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    font-weight: 500;
-    display: inline-block !important;
-}
-
-.content span.m-orange {
-    background-color: #e67e22 !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-pink {
-    background-color: #ff85a2 !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-indigo {
-    background-color: #6c5ce7 !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-lime {
-    background-color: #badc58 !important;
-    color: #333 !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    font-weight: 500;
-    display: inline-block !important;
-}
-
-.content span.m-brown {
-    background-color: #a0522d !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-.content span.m-grey {
-    background-color: #95a5a6 !important;
-    color: white !important;
-    padding: 2px 5px;
-    border-radius: 3px;
-    display: inline-block !important;
-}
-
-/* 3. LUMINOUS BLOCKS WITH GLOW */
-.content .luminous-block {
-    display: inline-block;
-    padding: 4px 12px;
-    margin: 0 3px;
-    border-radius: 4px;
-    font-weight: 600;
-    box-shadow: 0 0 10px currentColor;
-}
-
-.content .luminous-blue {
-    background: rgba(33, 150, 243, 0.2);
-    color: #2196f3;
-}
-
-.content .luminous-green {
-    background: rgba(76, 175, 80, 0.2);
-    color: #4caf50;
-}
-
-.content .luminous-red {
-    background: rgba(244, 67, 54, 0.2);
-    color: #f44336;
-}
-
-.content .luminous-yellow {
-    background: rgba(255, 235, 59, 0.3);
-    color: #f57f17;
-}
-
-.content .luminous-purple {
-    background: rgba(156, 39, 176, 0.2);
-    color: #9c27b0;
-}
-
-/* 4. CYBER EFFECTS */
-.content .cyber-glitch {
-    position: relative;
-    display: inline-block;
-    font-weight: bold;
-    color: #ff0000;
-    animation: glitch 1s infinite;
-}
-
-@keyframes glitch {
-    0%, 100% { transform: translate(0); }
-    20% { transform: translate(-2px, 2px); }
-    40% { transform: translate(-2px, -2px); }
-    60% { transform: translate(2px, 2px); }
-    80% { transform: translate(2px, -2px); }
-}
-
-.content .cyber-neon {
-    display: inline-block;
-    padding: 5px 15px;
-    font-weight: bold;
-    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
-    animation: neon-pulse 2s infinite;
-}
-
-@keyframes neon-pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.7; }
-}
-
-.content .cyber-neon-pink { color: #ff1f8f; }
-.content .cyber-neon-blue { color: #00d9ff; }
-.content .cyber-neon-green { color: #39ff14; }
-.content .cyber-neon-yellow { color: #ffff00; }
-
-/* 5. INFO BOXES */
-.content .info-box {
-    background: #ffeaa7;
-    border-left: 4px solid #fdcb6e;
-    padding: 15px 20px;
-    margin: 15px 0;
-    border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    font-size: 0.9em;
 }
 
-.content .info-box-info {
-    background: #e3f2fd;
-    border-left-color: #2196f3;
-}
+/* OVALS */
+.content .ov-green { background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%); color: white; }
+.content .ov-blue { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
+/* ... other oval colors ... */
 
-.content .info-box-success {
-    background: #e8f5e9;
-    border-left-color: #4caf50;
+/* MARKERS */
+.content span[class*="m-"] {
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+    display: inline-block;
 }
-
-.content .info-box-warning {
-    background: #fff3cd;
-    border-left-color: #ff9800;
-}
-
-.content .info-box-danger {
-    background: #ffebee;
-    border-left-color: #f44336;
-}
-
-.content a[href^="#"] {
-    color: #3498db;
-    text-decoration: none;
-    border-bottom: 1px dashed #3498db;
-    transition: all 0.3s;
-}
-
-.content a[href^="#"]:hover {
-    color: #2980b9;
-    border-bottom: 1px solid #2980b9;
-}
-
-/* CodeMirror container */
-.CodeMirror {
-    height: 100% !important;
-    font-family: 'Fira Code', 'Courier New', monospace !important;
-    font-size: 14px !important;
-    line-height: 1.6 !important;
-}
-
-/* Подсветка HTML тегов */
-.cm-tag { color: #569cd6 !important; font-weight: bold; }
-.cm-attribute { color: #9cdcfe !important; }
-.cm-string { color: #ce9178 !important; }
-.cm-qualifier { color: #4ec9b0 !important; } /* классы */
+.content span.m-green { background-color: #27ae60; color: white; }
+.content span.m-blue { background-color: #3498db; color: white; }
+.content span.m-red { background-color: #e74c3c; color: white; }
+.content span.m-purple { background-color: #8e44ad; color: white; }
+.content span.m-teal { background-color: #1abc9c; color: white; }
+.content span.m-gold { background-color: #f39c12; color: #333; }
+.content span.m-orange { background-color: #e67e22; color: white; }
+.content span.m-pink { background-color: #ff85a2; color: white; }
+.content span.m-indigo { background-color: #6c5ce7; color: white; }
+.content span.m-lime { background-color: #badc58; color: #333; }
+.content span.m-brown { background-color: #a0522d; color: white; }
+.content span.m-grey { background-color: #95a5a6; color: white; }
 
 
-/* ==================== DOCUSAURUS-STYLE INFO BLOCKS (ЯРКИЕ ЦВЕТА) ==================== */
+/* ==================== RESPONSIVENESS ==================== */
 
-.content .admonition {
-    margin: 20px 0;
-    padding: 15px 20px;
-    border-left: 5px solid;
-    border-radius: 8px;
-    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
-}
+@media (max-width: 768px) {
+  .sidebar {
+    transform: translateX(-100%);
+    width: 85%;
+  }
 
-.content .admonition-title {
-    font-weight: bold;
-    font-size: 1.15em;
-    margin-bottom: 12px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
+  .sidebar.open {
+    transform: translateX(0);
+  }
 
-.content .admonition-title::before {
-    font-size: 1.4em;
-}
-
-.content .admonition-content {
-    line-height: 1.7;
-}
-
-/* NOTE (насыщенный синий) */
-.content .admonition-note {
-    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
-    border-color: #1976d2;
-}
-.content .admonition-note .admonition-title {
-    color: #0d47a1;
-}
-.content .admonition-note .admonition-title::before {
-    content: "ℹ️";
-}
-
-/* TIP (яркий зеленый) */
-.content .admonition-tip {
-    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
-    border-color: #388e3c;
-}
-.content .admonition-tip .admonition-title {
-    color: #1b5e20;
-}
-.content .admonition-tip .admonition-title::before {
-    content: "💡";
-}
-
-/* INFO (бирюзовый) */
-.content .admonition-info {
-    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
-    border-color: #0097a7;
-}
-.content .admonition-info .admonition-title {
-    color: #006064;
-}
-.content .admonition-info .admonition-title::before {
-    content: "📌";
-}
-
-/* WARNING (яркий оранжевый) */
-.content .admonition-warning {
-    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
-    border-color: #f57c00;
-}
-.content .admonition-warning .admonition-title {
-    color: #e65100;
-}
-.content .admonition-warning .admonition-title::before {
-    content: "⚠️";
-}
-
-/* DANGER (насыщенный красный) */
-.content .admonition-danger {
-    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
-    border-color: #d32f2f;
-}
-.content .admonition-danger .admonition-title {
-    color: #b71c1c;
-}
-.content .admonition-danger .admonition-title::before {
-    content: "🚨";
-}
-
-/* CAUTION (золотой) */
-.content .admonition-caution {
-    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
-    border-color: #f9a825;
-}
-.content .admonition-caution .admonition-title {
-    color: #f57f17;
-}
-.content .admonition-caution .admonition-title::before {
-    content: "⚡";
-}
-
-/* DOSAGE (насыщенный фиолетовый) */
-.content .admonition-dosage {
-    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
-    border-color: #7b1fa2;
-}
-.content .admonition-dosage .admonition-title {
-    color: #4a148c;
-}
-.content .admonition-dosage .admonition-title::before {
-    content: "💉";
-}
-
-/* CONTRAINDICATION (яркий пурпурный) */
-.content .admonition-contraindication {
-    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
-    border-color: #c2185b;
-}
-.content .admonition-contraindication .admonition-title {
-    color: #880e4f;
-}
-.content .admonition-contraindication .admonition-title::before {
-    content: "🚫";
-}
-
-/* SIDE-EFFECT (янтарный) */
-.content .admonition-side-effect {
-    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
-    border-color: #ff8f00;
-}
-.content .admonition-side-effect .admonition-title {
-    color: #ff6f00;
-}
-.content .admonition-side-effect .admonition-title::before {
-    content: "⚠️";
-}
-
-/* CLINICAL (изумрудный) */
-.content .admonition-clinical {
-    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
-    border-color: #00796b;
-}
-.content .admonition-clinical .admonition-title {
-    color: #004d40;
-}
-.content .admonition-clinical .admonition-title::before {
-    content: "🏥";
-}
-
-/* ANATOMY (коралловый) */
-.content .admonition-anatomy {
-    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
-    border-color: #ad1457;
-}
-.content .admonition-anatomy .admonition-title {
-    color: #880e4f;
-}
-.content .admonition-anatomy .admonition-title::before {
-    content: "🫀";
-}
-
-/* PHYSIOLOGY (небесно-голубой) */
-.content .admonition-physiology {
-    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
-    border-color: #0277bd;
-}
-.content .admonition-physiology .admonition-title {
-    color: #01579b;
-}
-.content .admonition-physiology .admonition-title::before {
-    content: "🧬";
-}
-
-/* SURGERY (лесной зеленый) */
-.content .admonition-surgery {
-    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
-    border-color: #2e7d32;
-}
-.content .admonition-surgery .admonition-title {
-    color: #1b5e20;
-}
-.content .admonition-surgery .admonition-title::before {
-    content: "🔪";
-}
-
-/* ICU (огненно-красный) */
-.content .admonition-icu {
-    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
-    border-color: #c62828;
-}
-.content .admonition-icu .admonition-title {
-    color: #b71c1c;
-}
-.content .admonition-icu .admonition-title::before {
-    content: "🚑";
-}
-
-/* EVIDENCE (стальной синий) */
-.content .admonition-evidence {
-    background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
-    border-color: #455a64;
-}
-.content .admonition-evidence .admonition-title {
-    color: #263238;
-}
-.content .admonition-evidence .admonition-title::before {
-    content: "📊";
-}
-
-/* PROTOCOL (глубокий индиго) */
-.content .admonition-protocol {
-    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
-    border-color: #303f9f;
-}
-.content .admonition-protocol .admonition-title {
-    color: #1a237e;
-}
-.content .admonition-protocol .admonition-title::before {
-    content: "📋";
-}
-
-.btn-load {
+  #main-content {
+    margin-left: 0;
     width: 100%;
-    text-align: center;
-    padding: 8px 10px;
-    margin: 2px 0;
-    color: white;
-    border: none;
-    cursor: pointer;
-    border-radius: 4px;
-    font-weight: bold;
-    transition: all 0.3s;
+  }
+  
+  .content {
+    padding: 1.5rem 1rem;
+  }
+
+  .nav-text {
+    display: none;
+  }
 }
-
-.btn-load:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-}
-
-.btn-load:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-
-
-
