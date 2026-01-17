@@ -100,7 +100,9 @@ Symptomatic coronary disease is initially treated with medical therapy, includin
 <div class="admonition admonition-tip">
   <div class="admonition-title">Ranolazine</div>
   <div class="admonition-content">
-![](Ranolazine.svg)
+    
+![Ranolazine](/images/Ranolazine.svg)
+    
     <span class="ov-gold">Ranolazine</span> may be added as a second‐line drug for symptomatic relief in patients with refractory angina. 
 <div class="admonition admonition-note">
   <div class="admonition-title"></div>
