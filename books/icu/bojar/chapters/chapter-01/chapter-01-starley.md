@@ -169,6 +169,64 @@ Superior clinical outcomes are achieved with complete revascularization, which i
 <details class="med-details">
 <summary><span class="ov-pink">4</span> Appropriate use criteria. <span class="ov-gold">SYNTAX</span> score</summary>
 <div class="details-content">
+
+<details class="med-details">
+<summary> <span class="ov-gold">SYNTAX</span> Dominance of coronary system </summary>
+<div class="details-content">
+  
+
+![SYNTAX. Dominance of coronary system](/images/SYNTAX1.jpeg)
+  
+  
+| № | Segment name | Description |
+|---|-------------|-------------|
+| 1 | RCA proximal | From ostium to one half the distance to the acute margin of the heart. |
+| 2 | RCA mid | From end of first segment to acute margin of heart. |
+| 3 | RCA distal | From the acute margin of the heart to the origin of the posterior descending artery. |
+| 4 | Posterior descending | Running in the posterior interventricular groove. |
+| 16 | Posterolateral from RCA | Posterolateral branch originating from the distal coronary artery distal to the crux. |
+| 16a | Posterolateral from RCA | First posterolateral branch from segment 16. |
+| 16b | Posterolateral from RCA | Second posterolateral branch from segment 16. |
+| 16c | Posterolateral from RCA | Third posterolateral branch from segment 16. |
+| 5 | Left main | From the ostium of the LCA through bifurcation into left anterior descending and left circumflex branches. |
+| 6 | LAD proximal | Proximal to and including first major septal branch. |
+| 7 | LAD mid | LAD immediately distal to origin of first septal branch and extending to the point where LAD forms an angle (RAO view). If this angle is not identifiable this segment ends at one half the distance from the first septal to the apex of the heart. |
+| 8 | LAD apical | Terminal portion of LAD, beginning at the end of previous segment and extending to or beyond the apex. |
+| 9 | First diagonal | The first diagonal originating from segment 6 or 7. |
+| 9a | First diagonal a | Additional first diagonal originating from segment 6 or 7, before segment 8. |
+| 10 | Second diagonal | Second diagonal originating from segment 8 or the transition between segment 7 and 8. |
+| 10a | Second diagonal a | Additional second diagonal originating from segment 8. |
+| 11 | Proximal circumflex | Main stem of circumflex from its origin of left main to and including origin of first obtuse marginal branch. |
+| 12 | Intermediate / anterolateral | Branch from trifurcating left main other than proximal LAD or LCX. Belongs to the circumflex territory. |
+| 12a | Obtuse marginal a | First side branch of circumflex running in general to the area of obtuse margin of the heart. |
+| 12b | Obtuse marginal b | Second additional branch of circumflex running in the same direction as 12. |
+| 13 | Distal circumflex | The stem of the circumflex distal to the origin of the most distal obtuse marginal branch and running along the posterior left atrioventricular grooves. Caliber may be small or artery absent. |
+| 14 | Left posterolateral | Running to the posterolateral surface of the left ventricle. May be absent or a division of obtuse marginal branch. |
+| 14a | Left posterolateral a | Distal from 14 and running in the same direction. |
+| 14b | Left posterolateral b | Distal from 14 and 14a and running in the same direction. |
+| 15 | Posterior descending | Most distal part of dominant left circumflex when present. Gives origin to septal branches. When this artery is present, segment 4 is usually absent. |  
+</div>
+</details>
+  
+<details class="med-details">
+<summary> <span class="ov-gold">SYNTAX</span> Left dominance coronary system </summary>
+<div class="details-content">
+  
+  
+![SYNTAX. Left dominance coronary system](/images/SYNTAX2.jpeg)
+</div>
+</details>
+
+<details class="med-details">
+<summary> <span class="ov-gold">SYNTAX</span> Right dominance coronary system </summary>
+<div class="details-content">
+  
+  
+![SYNTAX. Right dominance coronary system](/images/SYNTAX3.jpeg)
+    
+</div>
+</details>  
+ 
 Appropriate use criteria (AUC) with complex matrices have been set forth for coronary revascularization strategies in patients with SIHD. These are subdivided by the number of diseased vessels (1–2–3), the presence of symptoms, the use of antianginal therapy, and whether noninvasive testing indicates the patient is at low, intermediate, or high risk for a cardiac event, or in the absence of testing, by the results of <span class="ov-grey">FFR</span>/<span class="ov-grey">iFr</span> studies.
 
 
@@ -179,10 +237,7 @@ The <span class="ov-gold">SYNTAX</span> score (http://www.syntaxscore.com) is al
 <div class="admonition admonition-note">
   <div class="admonition-title"><span class="ov-gold">SYNTAX</span></div>
   <div class="admonition-content">
-    
-![SYNTAX](/images/SYNTAX.svg)
-    
-    
+        
 The <span class="ov-gold">SYNTAX</span> trial divided patients into <mark class="m-teal">low risk</mark> (score of <span class="ov-teal">0–22</span>), <mark class="m-pink">intermediate risk</mark> (score of <span class="ov-pink">23–32</span>), and <mark class="m-red">high risk</mark> (score <span class="ov-red">>32</span>) categories and used a primary end point of major adverse cardiac and cerebrovascular events (MACCE), which includes mortality, myocardial infarction (MI), stroke, and the need for repeat revascularization.
   </div>
 </div>
