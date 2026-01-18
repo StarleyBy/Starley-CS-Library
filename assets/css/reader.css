@@ -198,3 +198,31 @@ body.focus-mode #focus-toggle .fa-compress { display: block; }
   #main-content { margin-left: 0; width: 100%; }
   .nav-text { display: none; }
 }
+/* ==========================================================================
+   Restored & Adapted Oval Styles
+   ========================================================================== */
+.content [class*="ov-"] {
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-weight: 500;
+    display: inline-block;
+    font-size: 0.85em;
+    line-height: 1.4;
+    white-space: nowrap;
+    border: 1px solid;
+}
+
+.content .ov-gold { background-color: #fff8e1; color: #e65100; border-color: #ffe0b2; }
+.content .ov-green { background-color: #e8f5e9; color: #1b5e20; border-color: #c8e6c9; }
+.content .ov-blue { background-color: #e3f2fd; color: #0d47a1; border-color: #bbdefb; }
+.content .ov-red { background-color: #ffebee; color: #c62828; border-color: #ffcdd2; }
+.content .ov-pink { background-color: #fce4ec; color: #880e4f; border-color: #f8bbd0; }
+.content .ov-purple { background-color: #f3e5f5; color: #4a148c; border-color: #e1bee7; }
+.content .ov-teal { background-color: #e0f2f1; color: #004d40; border-color: #b2dfdb; }
+.content .ov-orange { background-color: #fff3e0; color: #e65100; border-color: #ffe0b2; }
+.content .ov-yellow { background-color: #fffde7; color: #f57f17; border-color: #fff9c4; }
+.content .ov-grey { background-color: #eceff1; color: #37474f; border-color: #cfd8dc; }
+.content .ov-silver { background-color: #eceff1; color: #37474f; border-color: #cfd8dc; }
+.content .ov-lime { background-color: #f9fbe7; color: #827717; border-color: #f0f4c3; }
+.content .ov-indigo { background-color: #e8eaf6; color: #1a237e; border-color: #c5cae9; }
+.content .ov-brown { background-color: #efebe9; color: #3e2723; border-color: #d7ccc8; }
