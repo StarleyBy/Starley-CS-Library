@@ -1,30 +1,31 @@
 :root {
+  /* Variables */
   --header-height: 50px;
   --sidebar-width: 320px;
-  --sidebar-transition: transform 0.3s ease-in-out;
-  --content-transition: margin-left 0.3s ease-in-out;
   --border-color: #e0e0e0;
   --text-color: #212121;
   --secondary-color: #007bff;
   --bg-color: #ffffff;
 }
 
+/* ==========================================================================
+   Base & Typography
+   ========================================================================== */
 .reader-body {
   font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.65;
   color: var(--text-color);
   background-color: var(--bg-color);
   padding-top: var(--header-height);
-  transition: var(--content-transition);
-  text-align: justify;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
-  font-feature-settings: 'liga' 1, 'calt' 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+/* ==========================================================================
+   Header & Navigation (Largely Unchanged)
+   ========================================================================== */
 .reader-header {
   position: fixed;
   top: 0;
@@ -35,284 +36,171 @@
   border-bottom: 1px solid var(--border-color);
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
   z-index: 1000;
-  overflow: hidden;
 }
-
 .header-content {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 1rem;
   height: 100%;
-  flex-wrap: nowrap;
   gap: 0.5rem;
 }
-
 .header-btn, .nav-link {
-  background: none;
-  border: none;
-  color: #424242;
-  font-size: 1.1rem;
-  cursor: pointer;
-  padding: 0.4rem;
-  border-radius: 5px;
-  transition: background 0.2s;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
+  background: none; border: none; color: #424242; font-size: 1.1rem;
+  cursor: pointer; padding: 0.4rem; border-radius: 5px; transition: background 0.2s;
+  display: flex; align-items: center; gap: 0.4rem;
 }
+.header-btn:hover, .nav-link:hover { background: #f5f5f5; }
+.nav-link .nav-text { font-size: 0.9rem; font-weight: 500; white-space: nowrap; }
 
-.header-btn:hover, .nav-link:hover {
-  background: #f5f5f5;
-}
-
-.nav-link .nav-text {
-  font-size: 0.9rem;
-  font-weight: 500;
-  white-space: nowrap;
-}
-
-.version-tabs {
-  display: flex;
-  gap: 0.2rem;
-  padding: 0.2rem;
-  background: #eeeeee;
-  border-radius: 12px;
-  border: 1px solid #e0e0e0;
-}
-
-.version-tab {
-  padding: 0.4rem 0.8rem;
-  background: transparent;
-  border: none;
-  border-radius: 10px;
-  cursor: pointer;
-  font-size: 0.85rem;
-  font-weight: 500;
-  color: #616161;
-  transition: all 0.2s ease;
-}
-
-.version-tab:hover {
-  background: #e0e0e0;
-  color: var(--text-color);
-}
-
-.version-tab.active {
-  background: var(--secondary-color);
-  color: white;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.sidebar {
-  position: fixed;
-  top: var(--header-height);
-  left: 0;
-  width: var(--sidebar-width);
-  height: calc(100vh - var(--header-height));
-  background: #fafafa;
-  border-right: 1px solid var(--border-color);
-  overflow-y: auto;
-  transform: translateX(0);
-  transition: var(--sidebar-transition);
-  z-index: 900;
-}
-
-.sidebar.collapsed {
-  transform: translateX(-100%);
-}
-
+/* ==========================================================================
+   Core Layout (NEW SIMPLIFIED LOGIC)
+   ========================================================================== */
 #main-content {
-  margin-left: var(--sidebar-width);
-  width: calc(100% - var(--sidebar-width));
-  padding: 0; /* REMOVED padding */
-  transition: var(--content-transition);
+  padding: 0;
   background-color: var(--bg-color);
 }
 
-#main-content.full-width {
-  margin-left: 0;
-  width: 100%;
-}
-
 .content {
-  max-width: 100%; /* CHANGED */
-  width: 100%;     /* CHANGED */
-  margin: 0;         /* CHANGED */
-  background: var(--bg-color);
-  padding: 2rem 1rem; /* CHANGED padding for mobile-first */
-  border-radius: 0;    /* CHANGED */
-  box-shadow: none;      /* CHANGED */
+  padding: 1.5rem 1rem; /* Base padding for mobile */
+  margin: 0 auto;
+  max-width: 100%;
 }
 
-@media (min-width: 768px) {
+/* Increase padding and set a readable max-width for text on larger screens */
+@media (min-width: 900px) {
   .content {
-    padding: 2.5rem 2rem; /* More padding on larger screens */
+    padding: 2rem 4rem;
+    max-width: 900px; /* Readable line length for desktop */
   }
 }
 
+/* General content elements */
 .content p, .content ul, .content ol, .content blockquote {
-    max-width: 800px; /* Set a max-width for readability on wide screens */
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
 }
-.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1rem;
-    font-weight: 600;
+.content h1, .content h2, .content h3, .content h4 {
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  line-height: 1.3;
 }
-.content h1 { font-size: 2.2rem; }
-.content h2 { font-size: 1.8rem; }
-.content h3 { font-size: 1.5rem; }
+.content h1 { font-size: 2rem; }
+.content h2 { font-size: 1.7rem; }
+.content h3 { font-size: 1.4rem; }
 
+/* ==========================================================================
+   Special Blocks (NEW NESTING LOGIC)
+   ========================================================================== */
 
-/* ==================== CONTENT STYLES OVERHAUL ==================== */
-
-.med-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 2rem auto;
+/* 1. Base style for ALL special blocks */
+.content .admonition,
+.content .info-box,
+.content .med-details {
+  margin: 1.5rem 0;
+  padding: 1rem;
+  padding-left: 1.25rem; /* The single indentation */
+  border-left: 3px solid var(--border-color);
+  background-color: #f5f5f5;
   border-radius: 4px;
 }
 
-/* ==================== INFOBLOCKS RE-ARCHITECTED ==================== */
-
-.content .admonition, .content .info-box {
-    margin: 1.5rem 0;
-    padding: 1rem;
-    border-left: 3px solid;
-    border-radius: 0;
-    box-shadow: none;
-    background-color: #f5f5f5;
-    width: 100vw; /* Force full viewport width */
-    max-width: 100vw;
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
+.content .admonition-title,
+.content .med-details > summary {
+  font-weight: 600;
+  cursor: pointer;
+}
+.content .med-details[open] > summary {
+  margin-bottom: 1rem;
 }
 
-.content .admonition-title {
-    font-weight: 600;
+/* 2. The magic: Reset styles for ANY nested special block */
+.admonition .admonition, .admonition .info-box, .admonition .med-details,
+.info-box .admonition,   .info-box .info-box,   .info-box .med-details,
+.med-details .admonition, .med-details .info-box, .med-details .med-details {
+  margin-top: 1.25rem;
+  margin-bottom: 0;
+  padding-left: 0;     /* CRITICAL: Remove extra indent */
+  border-left: none;   /* CRITICAL: Remove extra border */
+  border-top: 1px dashed var(--border-color); /* Use a top border to separate */
+  padding-top: 1.25rem;
+  padding-bottom: 0;
+  border-radius: 0;
+  background-color: transparent; /* Inherit parent background */
 }
 
-/* This targets the content *inside* the full-width admonition to align with main text */
-.content .admonition > *, .content .info-box > * {
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
-}
+/* 3. Apply specific colors */
+.content .admonition-note { border-color: #1976d2; }
+.content .admonition-tip { border-color: #388e3c; }
+.content .admonition-warning { border-color: #f57c00; }
+.content .admonition-danger { border-color: #d32f2f; }
+.content .admonition-info { border-color: #0097a7; }
+.content .admonition-caution { border-color: #f9a825; }
+.content .admonition-dosage { border-color: #7b1fa2; }
+.content .admonition-contraindication { border-color: #c2185b; }
+.content .admonition-side-effect { border-color: #ff8f00; }
+.content .admonition-clinical { border-color: #00796b; }
+.content .admonition-anatomy { border-color: #ad1457; }
+.content .admonition-physiology { border-color: #0277bd; }
+.content .admonition-surgery { border-color: #2e7d32; }
+.content .admonition-icu { border-color: #c62828; }
+.content .admonition-evidence { border-color: #455a64; }
+.content .admonition-protocol { border-color: #303f9f; }
 
-/* Nested admonitions - they won't indent further */
-.content .admonition .admonition, .content .info-box .info-box {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: -1rem; /* Counteract parent padding */
-    margin-right: -1rem;
-    width: auto; /* Revert viewport width for nested */
-    position: static;
-    left: auto;
-    right: auto;
-    border-top: 1px solid var(--border-color);
-    border-bottom: 1px solid var(--border-color);
-    border-left-width: 3px;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
+.content .info-box-info { border-color: #2196f3; }
+.content .info-box-success { border-color: #4caf50; }
+.content .info-box-warning { border-color: #ff9800; }
+.content .info-box-danger { border-color: #f44336; }
 
-/* Specific Admonition Colors */
-.content .admonition-note { border-color: #1976d2; background-color: #e3f2fd; }
-.content .admonition-tip { border-color: #388e3c; background-color: #e8f5e9; }
-.content .admonition-info { border-color: #0097a7; background-color: #e0f7fa; }
-.content .admonition-warning { border-color: #f57c00; background-color: #fff3e0; }
-.content .admonition-danger { border-color: #d32f2f; background-color: #ffebee; }
-.content .admonition-caution { border-color: #f9a825; background-color: #fffde7; }
-.content .admonition-dosage { border-color: #7b1fa2; background-color: #f3e5f5; }
-.content .admonition-contraindication { border-color: #c2185b; background-color: #fce4ec; }
-.content .admonition-side-effect { border-color: #ff8f00; background-color: #fff8e1; }
-.content .admonition-clinical { border-color: #00796b; background-color: #e0f2f1; }
-.content .admonition-anatomy { border-color: #ad1457; background-color: #fce4ec; }
-.content .admonition-physiology { border-color: #0277bd; background-color: #e1f5fe; }
-.content .admonition-surgery { border-color: #2e7d32; background-color: #e8f5e9; }
-.content .admonition-icu { border-color: #c62828; background-color: #ffebee; }
-.content .admonition-evidence { border-color: #455a64; background-color: #eceff1; }
-.content .admonition-protocol { border-color: #303f9f; background-color: #e8eaf6; }
 
-.content .info-box-info { border-color: #2196f3; background: #e3f2fd; }
-.content .info-box-success { border-color: #4caf50; background: #e8f5e9; }
-.content .info-box-warning { border-color: #ff9800; background: #fff3cd; }
-.content .info-box-danger { border-color: #f44336; background: #ffebee; }
-
-/* ==================== INLINE STYLES ==================== */
-
-.content .t-red { color: #e74c3c; }
-.content .t-blue { color: #3498db; }
-.content .t-green { color: #2ecc71; }
-.content .t-gold { color: #f1c40f; }
-.content .t-purple { color: #9b59b6; }
-.content .t-orange { color: #e67e22; }
+/* ==========================================================================
+   Inline Styling Elements (Ovals, Markers, etc.)
+   ========================================================================== */
+.content .t-red { color: #d32f2f; }
+.content .t-blue { color: #1976d2; }
+.content .t-green { color: #388e3c; }
 
 .content .ov-gold, .content .ov-green, .content .ov-blue, .content .ov-red, .content .ov-pink, .content .ov-purple, .content .ov-teal, .content .ov-orange, .content .ov-yellow, .content .ov-grey, .content .ov-silver, .content .ov-lime, .content .ov-indigo, .content .ov-brown {
-    padding: 2px 10px;
-    border-radius: 15px;
+    padding: 1px 8px;
+    border-radius: 12px;
     font-weight: 500;
     display: inline-block;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    font-size: 0.9em;
+    font-size: 0.85em;
+    line-height: 1.4;
+    white-space: nowrap;
 }
 
-/* OVALS */
-.content .ov-green { background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%); color: white; }
-.content .ov-blue { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; }
-/* ... other oval colors ... */
+.content .ov-green { background-color: #e8f5e9; color: #1b5e20; }
+.content .ov-blue { background-color: #e3f2fd; color: #0d47a1; }
+/* ... etc ... */
 
-/* MARKERS */
 .content span[class*="m-"] {
     padding: 0.1em 0.3em;
     border-radius: 3px;
     display: inline-block;
 }
-.content span.m-green { background-color: #27ae60; color: white; }
-.content span.m-blue { background-color: #3498db; color: white; }
-.content span.m-red { background-color: #e74c3c; color: white; }
-.content span.m-purple { background-color: #8e44ad; color: white; }
-.content span.m-teal { background-color: #1abc9c; color: white; }
-.content span.m-gold { background-color: #f39c12; color: #333; }
-.content span.m-orange { background-color: #e67e22; color: white; }
-.content span.m-pink { background-color: #ff85a2; color: white; }
-.content span.m-indigo { background-color: #6c5ce7; color: white; }
-.content span.m-lime { background-color: #badc58; color: #333; }
-.content span.m-brown { background-color: #a0522d; color: white; }
-.content span.m-grey { background-color: #95a5a6; color: white; }
+.content span.m-purple { background-color: #f3e5f5; color: #6a1b9a; }
+.content span.m-green { background-color: #e8f5e9; color: #1b5e20; }
+.content span.m-blue { background-color: #e3f2fd; color: #0d47a1; }
+.content span.m-red { background-color: #ffebee; color: #c62828; }
+.content span.m-teal { background-color: #e0f2f1; color: #004d40; }
+.content span.m-gold { background-color: #fff8e1; color: #e65100; }
+.content span.m-orange { background-color: #fff3e0; color: #e65100; }
 
-
-/* ==================== RESPONSIVENESS ==================== */
-
+/* ==========================================================================
+   Mobile & Focus Mode
+   ========================================================================== */
 @media (max-width: 768px) {
-  .sidebar {
-    transform: translateX(-100%);
-    width: 85%;
-  }
-
-  .sidebar.open {
-    transform: translateX(0);
-  }
-
-  #main-content {
-    margin-left: 0;
-    width: 100%;
-  }
-  
-  .content {
-    padding: 1.5rem 1rem;
-  }
-
-  .nav-text {
-    display: none;
-  }
+  .sidebar { transform: translateX(-100%); width: 85%; }
+  .sidebar.open { transform: translateX(0); }
+  #main-content { margin-left: 0; width: 100%; }
+  .nav-text { display: none; }
 }
+
+body.focus-mode .sidebar, body.focus-mode .main-nav, body.focus-mode #version-selector-container, body.focus-mode #toc-toggle { display: none; }
+body.focus-mode .reader-header { background: transparent; border-bottom: none; box-shadow: none; }
+body.focus-mode #main-content { margin-left: 0; width: 100%; padding: 0; }
+body.focus-mode .content { max-width: 800px; margin: 0 auto; padding: 1rem; }
+body.focus-mode { padding-top: 0; }
+#focus-toggle .fa-compress { display: none; }
+body.focus-mode #focus-toggle .fa-expand { display: none; }
+body.focus-mode #focus-toggle .fa-compress { display: block; }

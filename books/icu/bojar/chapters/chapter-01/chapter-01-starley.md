@@ -214,6 +214,9 @@ Superior clinical outcomes are achieved with complete revascularization, which i
   
   
 ![SYNTAX. Left dominance coronary system](/images/SYNTAX2.jpeg)
+  
+ 
+<span class="ov-gold">SYNTAX</span> Left dominance coronary system  
 </div>
 </details>
 
@@ -223,7 +226,9 @@ Superior clinical outcomes are achieved with complete revascularization, which i
   
   
 ![SYNTAX. Right dominance coronary system](/images/SYNTAX3.jpeg)
-    
+  
+ 
+<span class="ov-gold">SYNTAX</span> Right dominance coronary system
 </div>
 </details>  
  
