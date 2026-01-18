@@ -92,9 +92,11 @@ Furthermore, <span class="ov-blue">aspirin</span>, which had been widely utilize
 <div class="details-content">
 
 
-
+<details class="med-details">
+<summary><span class="ov-pink">1</span> Symptomatic coronary disease</summary>
+<div class="details-content">
 <div class="admonition admonition-dosage">
-  <div class="admonition-title"><span class="ov-pink">1</span> Symptomatic coronary disease</div>
+  <div class="admonition-title"></div>
   <div class="admonition-content">
 Symptomatic coronary disease is initially treated with medical therapy, including <span class="ov-lime">aspirin</span>, <span class="ov-grey">nitrates</span>, <span class="ov-lime">ß‐adrenergic blockers</span>, and <span class="ov-indigo">calcium‐channel blockers</span> (CCBs). 
 <div class="admonition admonition-tip">
@@ -121,17 +123,73 @@ It does not cause bradycardia and hypotension, which occasionally are limiting f
 
   </div>
 </div>
- Statins should be given to control dyslipidemias and are effective for plaque stabilization. Angiotensin‐converting enzyme (ACE) inhibitors or angiotensin receptor blockers (ARBs) are given to patients with depressed left ventricular (LV) function (ejection fraction [EF] <40%) and to those with hypertension and diabetes. P2Y12 inhibitors (clopidogrel, ticagrelor) generally do not provide benefit to patients with SIHD.
+ <span class="ov-lime">Statins</span> should be given to control dyslipidemias and are effective for plaque stabilization. Angiotensin‐converting enzyme (<span class="ov-gold">ACE</span>) inhibitors or angiotensin receptor blockers (<span class="ov-gold">ARBs</span>) are given to patients with depressed left ventricular (LV) function (ejection fraction <mark class="m-teal">[EF] <40%)</mark> and to those with hypertension and diabetes. <span class="ov-indigo">P2Y12 inhibitors</span> (clopidogrel, ticagrelor) generally <mark class="m-red">do not</mark> provide benefit to patients with SIHD.
+  </div>
+</div>
+</div>
+</details>
+
+<details class="med-details">
+<summary><span class="ov-pink">2</span> Optimal medical therapy</summary>
+<div class="details-content">
+ <mark class="m-pink">Optimal medical therapy should be the <span class="ov-purple">initial</span> management strategy for patients with SIHD</mark>, since studies have not shown that proceeding to percutaneous coronary intervention (PCI) reduces the risk of death, infarction or other major adverse cardiovascular events. Thus, the decision to proceed with cardiac catheterization should be based on the rationale that the patient's symptoms are disabling enough or the degree of ischemia is significant enough to warrant an intervention to revascularize the heart. 
+<div class="admonition admonition-clinical">
+  <div class="admonition-title">functional testing</div>
+  <div class="admonition-content">
+Risk stratification with noninvasive functional testing is important to provide objective evidence of inducible ischemia, using <mark class="m-green">exercise stress testing</mark>, <mark class="m-green">nuclear imaging</mark>, or <mark class="m-green">dobutamine stress echocardiography</mark>.
   </div>
 </div>
 
-- **2.** Optimal medical therapy should be the initial management strategy for patients with SIHD, since studies have not shown that proceeding to percutaneous coronary intervention (PCI) reduces the risk of death, infarction or other major adverse cardiovascular events.2 Thus, the decision to proceed with cardiac catheterization should be based on the rationale that the patient's symptoms are disabling enough or the degree of ischemia is significant enough to warrant an intervention to revascularize the heart. Risk stratification with noninvasive functional testing is important to provide objective evidence of inducible ischemia, using exercise stress testing, nuclear imaging, or dobutamine stress echocardiography.
-- **3.** The decision to proceed with an intervention must then take into consideration an angiographic assessment of the extent of coronary disease and an invasive assessment of its physiologic significance by fractional flow reserve (FFR)3 or instantaneous flow reserve (iFR)4 , which is not dependent on the administration of adenosine. Additional critical information when considering PCI or coronary artery bypass grafting (CABG) includes the patient's comorbidities, particularly diabetes mellitus, and an assessment of LV function. Multiple studies comparing medical therapy with PCI for patients with SIHD have shown that PCI reduces the incidence of angina, may increase the short‐term risk of myocardial infarction (MI), but does not lower the long‐term risk of MI or improve survival.5 However, PCI does reduce the need for urgent revascularization and may reduce the risk of MI in patients with a large ischemic burden. Superior clinical outcomes are achieved with complete revascularization, which in many patients is better accomplished with CABG than PCI.6 Use of systematic anatomic assessments, such as with the SYNTAX score (see section C.4.a), has been accepted as an adjunct to this decision‐making process.
-- **4.** Appropriate use criteria (AUC) with complex matrices have been set forth for coronary revascularization strategies in patients with SIHD.7 These are subdivided by the number of diseased vessels (1–2–3), the presence of symptoms, the use of
+</div>
+</details>
 
-antianginal therapy, and whether noninvasive testing indicates the patient is at low, intermediate, or high risk for a cardiac event, or in the absence of testing, by the results of FFR/iFr studies.
 
-- **a.** The SYNTAX score (http://www.syntaxscore.com) is also incorporated into the AUC guidelines and can be used to determine whether PCI or CABG is preferable for multivessel or left main (LM) disease. This provides an angiographic assessment of coronary disease with an additive score that evaluates the location and degree of stenosis in each vessel, the angiographic complexity of the lesion, vessel diameter and calcification. The SYNTAX trial divided patients into low risk (score of 0–22), intermediate risk (score of 23–32), and high risk (score >32) categories and used a primary end point of major adverse cardiac and cerebrovascular events (MACCE), which includes mortality, myocardial infarction (MI), stroke, and the need for repeat revascularization.
+<details class="med-details">
+<summary><span class="ov-pink">3</span> The decision to proceed with an intervention</summary>
+<div class="details-content">
+The decision to proceed with an intervention must then take into consideration an angiographic assessment of the extent of coronary disease and an invasive assessment of its physiologic significance by <span class="luminous-green">fractional flow reserve</span> <span class="ov-grey">FFR</span> or <span class="luminous-green">instantaneous flow reserve</span> <span class="ov-grey">iFR</span> , which is not dependent on the administration of <span class="t-blue">adenosine</span>. Additional critical information when considering PCI or coronary artery bypass grafting (CABG) includes the patient's comorbidities, particularly diabetes mellitus, and an assessment of LV function. 
+<div class="admonition admonition-evidence">
+  <div class="admonition-title">medical therapy vs <span class="ov-red">PCI</span></div>
+  <div class="admonition-content">
+Multiple studies comparing medical therapy with <span class="ov-red">PCI</span> for patients with SIHD have shown that <mark class="m-green"><span class="ov-red">PCI</span> reduces the incidence of angina</mark>, may <mark class="m-red">increase the short‐term risk of myocardial infarction <span class="ov-blue">MI</span></mark>, but <mark class="m-red">does not lower the long‐term risk of <span class="ov-blue">MI</span> or improve survival</mark>. However, <span class="ov-red">PCI</span> does <mark class="m-green">reduce the need for urgent revascularization</mark> and <mark class="m-green">may reduce the risk of <span class="ov-blue">MI</span> in patients with a large ischemic burden</mark>.
+  </div>
+</div>
+ 
+<div class="admonition admonition-evidence">
+  <div class="admonition-title">CABG vs PCI</div>
+  <div class="admonition-content">
+Superior clinical outcomes are achieved with complete revascularization, which in many patients is better accomplished with <span class="ov-green">CABG</span> than <span class="ov-red">PCI</span>. Use of systematic anatomic assessments, such as with the <span class="ov-gold">SYNTAX</span> score (see section C.4.a), has been accepted as an adjunct to this decision‐making process.
+  </div>
+</div>
+
+</div>
+</details>
+
+
+<details class="med-details">
+<summary><span class="ov-pink">4</span> Appropriate use criteria. <span class="ov-gold">SYNTAX</span> score</summary>
+<div class="details-content">
+Appropriate use criteria (AUC) with complex matrices have been set forth for coronary revascularization strategies in patients with SIHD. These are subdivided by the number of diseased vessels (1–2–3), the presence of symptoms, the use of antianginal therapy, and whether noninvasive testing indicates the patient is at low, intermediate, or high risk for a cardiac event, or in the absence of testing, by the results of <span class="ov-grey">FFR</span>/<span class="ov-grey">iFr</span> studies.
+
+
+<details class="med-details">
+<summary><span class="ov-lime">a</span> <span class="ov-gold">SYNTAX</span> score</summary>
+<div class="details-content">
+The <span class="ov-gold">SYNTAX</span> score (http://www.syntaxscore.com) is also incorporated into the AUC guidelines and <mark class="m-gold">can be used to determine whether <span class="ov-red">PCI</span> or <span class="ov-green">CABG</span> is preferable for multivessel or left main (LM) disease</mark>. This provides an angiographic assessment of coronary disease with an additive score that evaluates the location and degree of stenosis in each vessel, the angiographic complexity of the lesion, vessel diameter and calcification. 
+<div class="admonition admonition-note">
+  <div class="admonition-title"><span class="ov-gold">SYNTAX</span></div>
+  <div class="admonition-content">
+    
+![SYNTAX](/images/SYNTAX.svg)
+    
+    
+The <span class="ov-gold">SYNTAX</span> trial divided patients into <mark class="m-teal">low risk</mark> (score of <span class="ov-teal">0–22</span>), <mark class="m-pink">intermediate risk</mark> (score of <span class="ov-pink">23–32</span>), and <mark class="m-red">high risk</mark> (score <span class="ov-red">>32</span>) categories and used a primary end point of major adverse cardiac and cerebrovascular events (MACCE), which includes mortality, myocardial infarction (MI), stroke, and the need for repeat revascularization.
+  </div>
+</div>
+
+</div>
+</details>
+
 - **b.** Five‐year follow‐up data from the SYNTAX trial showed that patients in the low‐risk category had similar MACCE rates with PCI or CABG. However, CABG produced superior results in intermediate‐ to high‐risk patients with three‐vessel disease (score >22), and those at high risk with LM disease. In these cohorts, CABG was associated with less MACCE, more complete revascularization, reduced need for repeat revascularization, and improved long‐term benefit.8,9
 - **c.** The FREEDOM trial showed that CABG is superior to PCI in diabetic patients with multivessel disease,10,11 and the presence or absence of diabetes is specifically incorporated into the AUC guidelines for multivessel and LM disease. In these diabetic patients, the SYNTAX score was found to be a predictor of MACCE only with PCI, and therefore was not recommended to guide therapy.12
 - **d.** A "residual SYNTAX" score >8 after PCI for patients in the moderate‐ to high‐ risk cohorts, indicative of incomplete revascularization, had worse 30‐day and one‐year survival.13 In fact, in the entire SYNTAX study, PCI resulted in a 10‐ fold increase in MI‐related death compared with CABG, but this was mostly accounted for in patients with diabetes, multivessel disease, and high SYNTAX scores.14
@@ -140,6 +198,9 @@ antianginal therapy, and whether noninvasive testing indicates the patient is at
 - unprotected LM disease did well with PCI despite higher anatomical SYNTAX scores. The SYNTAX II score can be accessed at www.syntaxscore.com and it calculates the comparative four‐year survival rates for PCI and CABG.
 - **f.** Although diabetes was not a discriminator using SYNTAX II scoring, other studies, including a subanalysis from the FREEDOM trial of diabetic patients with multivessel disease, found CABG superior to PCI in both insulin‐treated and noninsulin‐treated diabetics, but results were generally worse after either procedure in insulin‐treated diabetics.16
 - **g.** Thus, the SYNTAX or SYNTAX II score might be used as part of the decision‐ making process for the preferable mode of revascularization, since, along with older age, female gender, smoking, and diabetes, it appears to be a strong predictor of mortality and MACCE in patients undergoing PCI for multivessel disease and unprotected left main stenosis. These scoring systems provide an evidence‐based justification for selecting CABG as the treatment of choice for many patients with more complex multivessel disease.
+</div>
+</details>
+
 - **5. Indications for surgery in SIHD symptom relief.** The primary indication for surgical revascularization is to improve symptoms. PCI is applicable to many of these patients, but CABG must be considered for diabetic patients and those with high SYNTAX scores and when satisfactory PCI cannot be accomplished.5
   - **a.** Class I indications
     - ∙ ≥1 significant stenoses with unacceptable angina despite guideline‐directed medical therapy (GDMT)
