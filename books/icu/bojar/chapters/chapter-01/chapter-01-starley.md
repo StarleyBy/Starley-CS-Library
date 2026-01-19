@@ -243,16 +243,37 @@ The <span class="ov-gold">SYNTAX</span> score (http://www.syntaxscore.com) is al
   <div class="admonition-title"><span class="ov-gold">SYNTAX</span></div>
   <div class="admonition-content">
         
-The <span class="ov-gold">SYNTAX</span> trial divided patients into <mark class="m-teal">low risk</mark> (score of <span class="ov-teal">0–22</span>), <mark class="m-pink">intermediate risk</mark> (score of <span class="ov-pink">23–32</span>), and <mark class="m-red">high risk</mark> (score <span class="ov-red">>32</span>) categories and used a primary end point of major adverse cardiac and cerebrovascular events (MACCE), which includes mortality, myocardial infarction (MI), stroke, and the need for repeat revascularization.
+The <span class="ov-gold">SYNTAX</span> trial divided patients into <mark class="m-teal">low risk</mark> (score of <span class="ov-teal">0–22</span>), <mark class="m-pink">intermediate risk</mark> (score of <span class="ov-pink">23–32</span>), and <mark class="m-red">high risk</mark> (score <span class="ov-red">>32</span>) categories and used a primary end point of major adverse cardiac and cerebrovascular events <span class="ov-pink">MACCE</span>, which includes mortality, myocardial infarction (MI), stroke, and the need for repeat revascularization.
   </div>
 </div>
 
 </div>
 </details>
 
-- **b.** Five‐year follow‐up data from the SYNTAX trial showed that patients in the low‐risk category had similar MACCE rates with PCI or CABG. However, CABG produced superior results in intermediate‐ to high‐risk patients with three‐vessel disease (score >22), and those at high risk with LM disease. In these cohorts, CABG was associated with less MACCE, more complete revascularization, reduced need for repeat revascularization, and improved long‐term benefit.8,9
-- **c.** The FREEDOM trial showed that CABG is superior to PCI in diabetic patients with multivessel disease,10,11 and the presence or absence of diabetes is specifically incorporated into the AUC guidelines for multivessel and LM disease. In these diabetic patients, the SYNTAX score was found to be a predictor of MACCE only with PCI, and therefore was not recommended to guide therapy.12
-- **d.** A "residual SYNTAX" score >8 after PCI for patients in the moderate‐ to high‐ risk cohorts, indicative of incomplete revascularization, had worse 30‐day and one‐year survival.13 In fact, in the entire SYNTAX study, PCI resulted in a 10‐ fold increase in MI‐related death compared with CABG, but this was mostly accounted for in patients with diabetes, multivessel disease, and high SYNTAX scores.14
+
+<details class="med-details">
+<summary><span class="ov-lime">b</span> Five‐year follow‐up data from the <span class="ov-gold">SYNTAX</span> trial</summary>
+<div class="details-content">
+Five‐year follow‐up data from the <span class="ov-gold">SYNTAX</span> trial showed that patients in the <span class="ov-green">low‐risk</span> category <mark class="m-gold">had similar <span class="ov-pink">MACCE</span> rates with <span class="ov-red">PCI</span> or <span class="ov-green">CABG</span></mark>. <mark class="m-gold">However, <span class="ov-gold">CABG</span> produced superior results in <span class="ov-pink">intermediate</span>‐ to <span class="ov-red">high‐risk</span> patients with <span class="ov-red">three‐vessel disease</span> (score >22), and those at high risk with <span class="ov-red">LM disease</span></mark>. In these cohorts, <span class="ov-green">CABG</span> was associated with less <span class="ov-pink">MACCE</span>, more complete revascularization, reduced need for repeat revascularization, and improved long‐term benefit.
+</div>
+</details>
+
+
+<details class="med-details">
+<summary><span class="ov-lime">c</span> The <span class="t-red">F</span>REEDOM trial, diabetic patients with multivessel disease</summary>
+<div class="details-content">
+The <span class="t-red">F</span>REEDOM trial showed <mark class="m-lime">that <span class="ov-green">CABG</span> is <span class="t-red">superior</span> to <span class="ov-red">PCI</span> in <span class="luminous-red">diabetic patients with multivessel disease</span></mark>, and the presence or absence of diabetes is specifically incorporated into the AUC guidelines for multivessel and LM disease. In these diabetic patients, the <span class="ov-gold">SYNTAX</span> score was found to be a predictor of <span class="ov-pink">MACCE</span> only with <span class="ov-red">PCI</span>, and therefore was not recommended to guide therapy.
+</div>
+</details>
+
+
+<details class="med-details">
+<summary><span class="ov-lime">d</span> Incomplete revascularization after <span class="ov-red">PCI</span></summary>
+<div class="details-content">
+A "residual <span class="ov-gold">SYNTAX</span>" score <span class="ov-indigo">>8</span> after <span class="ov-red">PCI</span> for patients in the moderate‐ to high‐ risk cohorts, indicative of <span class="luminous-red">incomplete revascularization</span>, had worse 30‐day and one‐year survival. In fact, in the entire <span class="ov-gold">SYNTAX</span> study, <span class="ov-red">PCI</span> resulted in a <mark class="m-red">10‐ fold increase in MI‐related death</mark> compared with <span class="ov-green">CABG</span>, but this was mostly accounted <mark class="m-gold">for in patients with diabetes, multivessel disease, and high SYNTAX scores</mark>.
+</div>
+</details>
+
 - **e.** One shortcoming of the SYNTAX score was that it correlated only an angiographic assessment with the best revascularization strategy. Because surgery might provide more benefit to patients with significant clinical comorbidities in addition to the anatomical complexity of disease, the SYNTAX II scoring system was devised. This included eight predictors – two anatomic (SYNTAX score and unprotected LM disease), and six clinical predictors (age, creatinine clearance, ejection fraction, female gender, peripheral vascular disease, and chronic obstructive pulmonary disease [COPD]). The SYNTAX II study used second‐generation drug‐eluting stents and intravascular ultrasound imaging with PCI. It showed that some patients with low SYNTAX scores had higher mortality rates with PCI and some with higher SYNTAX scores did better with PCI. Generally, the SYNTAX II score was a better predictor of four‐year mortality rates than the original score.15 To achieve similar four‐year survival rates with PCI or CABG, it was found that young patients, females, and patients with reduced LVEF required lower SYNTAX scores, while older patients, those with COPD, and those with
 
 - unprotected LM disease did well with PCI despite higher anatomical SYNTAX scores. The SYNTAX II score can be accessed at www.syntaxscore.com and it calculates the comparative four‐year survival rates for PCI and CABG.
