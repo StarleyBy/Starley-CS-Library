@@ -4,32 +4,6 @@ let editor; // Глобальная переменная для CodeMirror
 
 // ==================== ФУНКЦИИ (ДО ИНИЦИАЛИЗАЦИИ) ====================
 
-// Вставка Docusaurus-style блоков
-function insertAdmonition(type, defaultTitle) {
-    if (!editor) {
-        alert('⏳ Редактор еще загружается, попробуйте через секунду');
-        return;
-    }
-    
-    const title = prompt(`Заголовок блока:`, defaultTitle);
-    if (title === null) return; // Отменено
-    
-    const sel = editor.getSelection();
-    const content = sel || 'Введите текст блока здесь';
-    
-    const res = `
-<div class="admonition admonition-${type}">
-  <div class="admonition-title">${title}</div>
-  <div class="admonition-content">
-${content}
-  </div>
-</div>
-`;
-    
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
 // Функция для применения стилей через CodeMirror
 function applyStyleCM(type, className) {
     if (!editor) return;
@@ -134,18 +108,79 @@ function insertBackLink() {
     alert('✅ Добавлена умная кнопка возврата!\n\nОна автоматически вернет к ЛЮБОЙ ссылке, откуда пришел пользователь.\n\nРаботает через историю браузера - не требует указания ID.');
 }
 
-function updatePreview() {
-    const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;
-    document.getElementById('editor-preview').innerHTML = marked.parse(val);
+// Вставка Docusaurus-style блоков
+function insertAdmonition(type, defaultTitle) {
+    if (!editor) {
+        alert('⏳ Редактор еще загружается, попробуйте через секунду');
+        return;
+    }
+    
+    const title = prompt(`Заголовок блока:`, defaultTitle);
+    if (title === null) return; // Отменено
+    
+    const sel = editor.getSelection();
+    const content = sel || 'Введите текст блока здесь';
+    
+    const res = `
+<div class="admonition admonition-${type}">
+  <div class="admonition-title">${title}</div>
+  <div class="admonition-content">
+${content}
+  </div>
+</div>
+`;
+    
+    editor.replaceSelection(res);
+    updatePreview();
 }
 
+// Улучшенная функция updatePreview с сохранением состояния
+function updatePreview() {
+    const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;
+    const previewContainer = document.getElementById('editor-preview');
+    
+    // СОХРАНЯЕМ состояние развернутых блоков ПЕРЕД обновлением
+    const expandedStates = new Map();
+    
+    // Собираем все развернутые details
+    previewContainer.querySelectorAll('details[open]').forEach((details) => {
+        const summary = details.querySelector('summary');
+        if (summary) {
+            expandedStates.set(summary.textContent.trim(), true);
+        }
+    });
+    
+    // Собираем все развернутые вложенные admonition блоки
+    previewContainer.querySelectorAll('.admonition.expanded').forEach(block => {
+        const title = block.querySelector('.admonition-title');
+        if (title) {
+            expandedStates.set(title.textContent.trim(), true);
+        }
+    });
+    
+    // Обновляем HTML
+    previewContainer.innerHTML = marked.parse(val);
+    
+    // ВОССТАНАВЛИВАЕМ состояние ПОСЛЕ обновления
+    
+    // Восстанавливаем details (принудительно открываем все в редакторе)
+    previewContainer.querySelectorAll('details').forEach(details => {
+        details.setAttribute('open', '');
+    });
+    
+    // Восстанавливаем admonition блоки (принудительно все развернуты)
+    previewContainer.querySelectorAll('.admonition').forEach(block => {
+        block.classList.add('expanded');
+    });
+}
+
+// ==================== ИНИЦИАЛИЗАЦИЯ ====================
 
 document.addEventListener('DOMContentLoaded', () => {
-    initColorPalettes(); // Сначала цвета
-    initLoader();        // Потом загрузчик
-    initExporter();      // Потом экспорт
+    initColorPalettes();
+    initLoader();
+    initExporter();
     
-    // CodeMirror инициализируем В ПОСЛЕДНЮЮ очередь
     setTimeout(() => {
         initPreview();
     }, 100);
@@ -158,15 +193,13 @@ function initColorPalettes() {
     const textGrid = document.getElementById('text-colors');
 
     colors.forEach((name, i) => {
-        // Овалы
         const ovalDot = document.createElement('div');
         ovalDot.className = 'color-dot';
         ovalDot.style.backgroundColor = colorValues[i];
-        ovalDot.title = name; // Подсказка
+        ovalDot.title = name;
         ovalDot.onclick = () => applyStyleCM('oval', 'ov-' + name);
         ovalGrid.appendChild(ovalDot);
         
-        // Маркеры
         const markerDot = document.createElement('div');
         markerDot.className = 'color-dot';
         markerDot.style.backgroundColor = colorValues[i];
@@ -174,7 +207,6 @@ function initColorPalettes() {
         markerDot.onclick = () => applyStyleCM('marker', 'm-' + name);
         markerGrid.appendChild(markerDot);
         
-        // Текст
         const textDot = document.createElement('div');
         textDot.className = 'color-dot';
         textDot.style.backgroundColor = colorValues[i];
@@ -227,7 +259,6 @@ async function initLoader() {
             
             let filename = chapterSelect.value + '.md';
             
-            // Определяем имя файла в зависимости от версии
             if (version === 'russian') {
                 filename = chapterSelect.value + '-ru.md';
             } else if (version === 'starley') {
@@ -247,7 +278,6 @@ async function initLoader() {
                     }
                     updatePreview();
                     
-                    // Обновляем имя файла для экспорта
                     document.getElementById('export-filename').value = filename;
                 } else {
                     alert(`❌ File not found: ${filename}\n\nURL: ${url}`);
@@ -267,65 +297,12 @@ async function initLoader() {
     }
 }
 
-// 3. Apply styles
-function applyStyle(type, className) {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return;
-
-    let res = '';
-    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
-    if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
-    if(type === 'text') res = `<span class="${className}">${sel}</span>`;
-
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-// Функция для применения стилей через CodeMirror
-function applyStyleCM(type, className) {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст!');
-
-    let res = '';
-    if(type === 'oval') res = `<span class="${className}">${sel}</span>`;
-    if(type === 'marker') res = `<mark class="${className}">${sel}</mark>`;
-    if(type === 'text') res = `<span class="${className}">${sel}</span>`;
-
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-function wrapInBlock(type) {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    const res = `\n<div class="med-note ${type}">\n${sel || 'Block text'}\n</div>\n`;
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-function addDetails() {
-    if (!editor) return;
-    
-    const title = prompt("Title for the hidden block:", "Classification / Details");
-    if (!title) return;
-    const sel = editor.getSelection();
-    const res = `\n<details class="med-details">\n<summary>${title}</summary>\n<div class="details-content">\n${sel}\n</div>\n</details>\n`;
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-// 4. Preview and Export
+// 3. Preview
 function initPreview() {
-    // Инициализация CodeMirror
     const textarea = document.getElementById('markdown-input');
     
     editor = CodeMirror.fromTextArea(textarea, {
-        mode: 'htmlmixed', // Поддержка HTML внутри Markdown
+        mode: 'htmlmixed',
         theme: 'monokai',
         lineNumbers: true,
         lineWrapping: true,
@@ -338,7 +315,6 @@ function initPreview() {
         autoCloseTags: true
     });
     
-    // Обновление preview при изменении
     editor.on('change', function() {
         updatePreview();
     });
@@ -346,11 +322,7 @@ function initPreview() {
     updatePreview();
 }
 
-function updatePreview() {
-    const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;
-    document.getElementById('editor-preview').innerHTML = marked.parse(val);
-}
-
+// 4. Export
 function initExporter() {
     document.getElementById('btn-download').onclick = () => {
         const text = editor ? editor.getValue() : document.getElementById('markdown-input').value;
@@ -361,100 +333,4 @@ function initExporter() {
         link.download = filename;
         link.click();
     };
-}
-
-// Создать якорь определения
-function insertAnchor() {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите заголовок термина!');
-    
-    const termName = prompt('Название термина (например: mitral-stenosis):', '');
-    if(!termName) return;
-    
-    const anchorId = `def-${termName}`;
-    
-    const res = `<span id="${anchorId}">${sel}</span>`;
-    editor.replaceSelection(res);
-    updatePreview();
-    
-    alert(`✅ Создан якорь определения!\n\nID: ${anchorId}\n\nТеперь добавьте умную кнопку возврата:\nПоставьте курсор после заголовка и нажмите "↩️ Умная кнопка назад"`);
-}
-
-// Создать ссылку на термин
-function insertLink() {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст ссылки!');
-    
-    const termName = prompt('Название термина (например: mitral-stenosis):', '');
-    if(!termName) return;
-    
-    const targetId = `def-${termName}`;
-    
-    const res = `<a href="#${targetId}">${sel} ↓</a>`;
-    editor.replaceSelection(res);
-    updatePreview();
-    
-    alert(`✅ Создана ссылка на термин!\n\nТеперь в месте определения:\n1. Выделите заголовок\n2. Нажмите "⚓ Якорь определения"\n3. Введите: ${termName}\n4. Нажмите "↩️ Умная кнопка назад"`);
-}
-
-// Умная кнопка возврата (использует историю браузера)
-function insertBackLink() {
-    if (!editor) return;
-    
-    const res = ` <a href="#" data-back="true" style="font-size:0.8em; color:#7f8c8d; text-decoration:none;">↩️ назад</a>`;
-    editor.replaceSelection(res);
-    updatePreview();
-    
-    alert('✅ Добавлена умная кнопка возврата!\n\nОна автоматически вернет к ЛЮБОЙ ссылке, откуда пришел пользователь.\n\nРаботает через историю браузера - не требует указания ID.');
-}
-
-// Luminous и спецэффекты
-function wrapInEffect(className) {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст!');
-    
-    const res = `<span class="${className}">${sel}</span>`;
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-// Info boxes
-function wrapInInfoBox(className) {
-    if (!editor) return;
-    
-    const sel = editor.getSelection();
-    if(!sel) return alert('Выделите текст!');
-    
-    const res = `\n<div class="${className}">\n<p>${sel}</p>\n</div>\n`;
-    editor.replaceSelection(res);
-    updatePreview();
-}
-
-// Вставка Docusaurus-style блоков
-function insertAdmonition(type, defaultTitle) {
-    if (!editor) return;
-    
-    const title = prompt(`Заголовок блока:`, defaultTitle);
-    if (title === null) return; // Отменено
-    
-    const sel = editor.getSelection();
-    const content = sel || 'Введите текст блока здесь';
-    
-    const res = `
-<div class="admonition admonition-${type}">
-  <div class="admonition-title">${title}</div>
-  <div class="admonition-content">
-${content}
-  </div>
-</div>
-`;
-    
-    editor.replaceSelection(res);
-    updatePreview();
 }
