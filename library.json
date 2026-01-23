@@ -15,6 +15,14 @@
       "books": [
         { "folder": "cohn" }
       ]
+    },
+    {
+      "id": "anatomy",
+      "title": "Anatomy",
+      "path": "books/anatomy",
+      "books": [
+        { "folder": "mori" }
+      ]
     }
   ]
 }

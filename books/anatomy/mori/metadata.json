@@ -1,0 +1,110 @@
+[{
+  "title": "Atlas of CARDIAC ANATOMY. ANATOMICAL BASIS OF CARDIAC INTERVENTIONS, VOLUME 1",
+  "category": [
+    "anatomy",
+    "cardiology",
+    "cardiac-surgery",
+    "icu"
+  ],
+  "authors": [
+    "Shumpei Mori, MD, PhD, Kalyanam Shivkumar, MD, PhD"
+  ],
+  "chapters": [
+    {
+      "file": "chapter-01.md",
+      "title": "1. Anterior View of the Heart"
+    },
+    {
+      "file": "chapter-02.md",
+      "title": "2. Right Anterior Oblique View of the Heart"
+    },
+    {
+      "file": "chapter-03.md",
+      "title": "3. Left Anterior Oblique View of the Heart"
+    },
+    {
+      "file": "chapter-04.md",
+      "title": "4. The Heart in Relation to Electrocardiography"
+    },
+    {
+      "file": "chapter-05.md",
+      "title": "5. Sinus Venarum"
+    },
+    {
+      "file": "chapter-06.md",
+      "title": "6. Fossa Ovalis"
+    },
+    {
+      "file": "chapter-07.md",
+      "title": "7. Coronary Sinus Orifice"
+    },
+    {
+      "file": "chapter-08.md",
+      "title": "8. Right Atrial Appendage"
+    },
+    {
+      "file": "chapter-09.md",
+      "title": "9. Tricuspid Valve, Right Ventricular Inflow"
+    },
+    {
+      "file": "chapter-10.md",
+      "title": "10. Membranous Septum"
+    },
+    {
+      "file": "chapter-11.md",
+      "title": "11. Right Ventricular Trabeculation/Band/Papillary Muscles, Right Ventricular Apex"
+    },
+    {
+      "file": "chapter-12.md",
+      "title": "12. Right Ventricular Outflow Tract"
+    },
+    {
+      "file": "chapter-13.md",
+      "title": "13. Pulmonary Valve"
+    },
+    {
+      "file": "chapter-14.md",
+      "title": "14. Pulmonary Veins"
+    },
+    {
+      "file": "chapter-15.md",
+      "title": "15. Left Atrium"
+    },
+    {
+      "file": "chapter-16.md",
+      "title": "16. Left Atrial Appendage"
+    },
+    {
+      "file": "chapter-17.md",
+      "title": "17. Mitral Valve, Left Ventricular Inflow"
+    },
+    {
+      "file": "chapter-18.md",
+      "title": "18. Left Ventricular Papillary Muscles, Left Ventricular Apex"
+    },
+    {
+      "file": "chapter-19.md",
+      "title": "19. Left Ventricular Outflow Tract"
+    },
+    {
+      "file": "chapter-20.md",
+      "title": "20. Aortic Valve"
+    },
+    {
+      "file": "chapter-21.md",
+      "title": "21. Coronary Arteries"
+    },
+    {
+      "file": "chapter-22.md",
+      "title": "22. Coronary Veins"
+    },
+    {
+      "file": "chapter-23.md",
+      "title": "23. Pericardial Space"
+    },
+    {
+      "file": "chapter-24.md",
+      "title": "24. Cardiac Innervation"
+    }
+  ]
+}]
