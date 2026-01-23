@@ -86,7 +86,8 @@ function renderBookCard(bookPath, bookMeta) {
         <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}">
             <div class="book-cover-wrapper">
                 <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
-                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');" />
+                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');"
+                     onload="if(this.naturalWidth === 0) { this.onerror(); }" />
                 <div class="book-info-overlay">
                     <h3 class="book-title">${bookMeta.title}</h3>
                     <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
