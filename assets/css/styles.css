@@ -93,41 +93,86 @@ main {
 
 .books-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); /* Уменьшаем минимальную ширину для 3D-книг */
     gap: 1.5rem;
     margin-top: 1rem;
+    justify-content: center; /* Центрируем книги */
 }
 
-.book-card {
-    background: white;
-    padding: 1.5rem;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
-    transition: transform 0.3s, box-shadow 0.3s;
+/* ===== BOOK CARDS 3D EFFECT ===== */
+.book-card-3d {
+    perspective: 1500px;
+    width: 40px;
+    height: 200px;
+    margin: 20px auto;
     cursor: pointer;
-    border: 1px solid var(--border-color);
 }
 
-.book-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+.book-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.8s cubic-bezier(0.175, 0.85, 0.32, 1.275);
 }
 
-.book-title {
-    font-size: 1.2rem;
-    color: var(--primary-color);
-    margin-bottom: 0.5rem;
+.book-card-3d:hover .book-container {
+    transform: rotateY(180deg);
 }
 
-.book-authors {
-    color: #666;
-    font-size: 0.9rem;
-    margin-bottom: 1rem;
+.book-front, .book-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-.book-description {
-    font-size: 0.9em;
-    color: #666;
+.book-front {
+    background: linear-gradient(90deg, #8B4513, #A0522D, #8B4513);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.book-spine {
+    transform: rotate(90deg);
+    text-align: center;
+    width: 200px;
+    height: 40px;
+}
+
+.book-title-vert {
+    font-size: 0.7em;
+    color: white;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transform: rotate(180deg);
+}
+
+.book-back {
+    background: white;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+}
+
+.book-cover-img {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.book-info-overlay {
+    padding: 5px;
+    text-align: center;
+    height: 20%;
 }
 
 /* ===== FOOTER ===== */
