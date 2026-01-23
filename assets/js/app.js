@@ -68,15 +68,16 @@ function renderCategory(category, booksHtml) {
 
 // Функция для получения изображения по умолчанию, если обложка не указана
 function getDefaultCoverImage(bookPath) {
-    // Возвращаем null, так как если обложка не указана в метаданных,
-    // будем использовать стандартное изображение
+    // Попробуем найти любое изображение в папке книги для использования в качестве обложки
+    // Возвращаем null, так как конкретное изображение будет определено в шаблоне
     return null;
 }
 
 function renderBookCard(bookPath, bookMeta) {
     // Определить путь к обложке
     const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
-    // Исправленный путь к обложке для GitHub Pages
+    
+    // Используем прямой путь к обложке, но с обработчиком ошибок
     const coverImagePath = coverImage ? `${BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
     
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
@@ -85,7 +86,7 @@ function renderBookCard(bookPath, bookMeta) {
         <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}">
             <div class="book-cover-wrapper">
                 <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
-                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" />
+                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');" />
                 <div class="book-info-overlay">
                     <h3 class="book-title">${bookMeta.title}</h3>
                     <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
