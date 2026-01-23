@@ -76,25 +76,19 @@ function getDefaultCoverImage(bookPath) {
 function renderBookCard(bookPath, bookMeta) {
     // Определить путь к обложке
     const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
+    // Исправленный путь к обложке для GitHub Pages
     const coverImagePath = coverImage ? `${BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
     
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     
     return `
-        <div class="book-card-3d" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}">
-            <div class="book-container">
-                <div class="book-front">
-                    <div class="book-spine">
-                        <div class="book-title-vert">${bookMeta.title}</div>
-                    </div>
-                </div>
-                <div class="book-back">
-                    <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
-                         onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" />
-                    <div class="book-info-overlay">
-                        <h3 class="book-title">${bookMeta.title}</h3>
-                        <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
-                    </div>
+        <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}">
+            <div class="book-cover-wrapper">
+                <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
+                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" />
+                <div class="book-info-overlay">
+                    <h3 class="book-title">${bookMeta.title}</h3>
+                    <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
                 </div>
             </div>
         </div>
@@ -102,23 +96,11 @@ function renderBookCard(bookPath, bookMeta) {
 }
 
 function attachBookClickHandlers() {
-    document.querySelectorAll('.book-card-3d').forEach(card => {
-        // Обработчики для 3D-эффекта
-        card.addEventListener('mouseenter', () => {
-            const container = card.querySelector('.book-container');
-            if (container) {
-                container.style.transition = 'transform 0.8s cubic-bezier(0.175, 0.85, 0.32, 1.275)';
-            }
-        });
+    document.querySelectorAll('.book-card').forEach(card => {
+        card.addEventListener('mouseenter', () => card.style.transform = 'scale(1.05)');
+        card.addEventListener('mouseleave', () => card.style.transform = 'scale(1)');
         
-        // Добавляем клик для перехода к чтению книги
         card.addEventListener('click', (e) => {
-            // Проверяем, был ли клик на самом контейнере книги, а не внутри обложки
-            if (e.target.classList.contains('book-cover-img') || e.target.classList.contains('book-info-overlay')) {
-                // Если клик был на обложке или информации, не срабатывает переход
-                return;
-            }
-            
             const bookPath = card.dataset.bookPath;
             const firstChapter = card.dataset.firstChapter;
             window.location.href = `reader.html?book=${bookPath}&chapter=${firstChapter}`;
@@ -130,13 +112,12 @@ function setupSearch() {
     const searchInput = document.getElementById('search');
     searchInput.addEventListener('input', (e) => {
         const searchTerm = e.target.value.toLowerCase();
-        document.querySelectorAll('.book-card-3d').forEach(card => {
-            // Получаем информацию о книге из данных, связанных с 3D-контейнером
+        document.querySelectorAll('.book-card').forEach(card => {
             const bookTitle = card.getAttribute('data-book-title') || card.querySelector('.book-title')?.textContent || '';
             const bookAuthors = card.getAttribute('data-book-authors') || card.querySelector('.book-authors')?.textContent || '';
             
             if (bookTitle.toLowerCase().includes(searchTerm) || bookAuthors.toLowerCase().includes(searchTerm)) {
-                card.style.display = 'inline-block';
+                card.style.display = 'block';
             } else {
                 card.style.display = 'none';
             }
