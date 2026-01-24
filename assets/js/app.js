@@ -64,7 +64,13 @@ async function renderBooksForCategory(category) {
             const metaResponse = await fetch(`${BASE_URL}${bookPath}/metadata.json`);
             if (metaResponse.ok) {
                 const bookMeta = (await metaResponse.json())[0];
-                booksHtml += renderBookCard(bookPath, bookMeta);
+                try {
+                    booksHtml += renderBookCard(bookPath, bookMeta);
+                } catch (renderError) {
+                    console.error(`Failed to render book card for: ${book.folder}`, renderError);
+                }
+            } else {
+                console.error(`Failed to fetch metadata for book: ${book.folder}. Status: ${metaResponse.status}`);
             }
         } catch (error) {
             console.error(`Failed to load metadata for book: ${book.folder}`, error);
