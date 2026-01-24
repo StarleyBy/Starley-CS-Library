@@ -116,9 +116,6 @@ function renderBookCard(bookPath, bookMeta) {
     
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     
-    // Генерируем уникальный ID для этой конкретной карточки книги
-    const uniqueId = Date.now() + Math.random();
-    
     // Генерируем цвет для неонового эффекта
     const neonColor = generateNeonColor(bookMeta.title);
     
@@ -130,8 +127,8 @@ function renderBookCard(bookPath, bookMeta) {
                      onload="if(this.naturalWidth === 0) { this.onerror(); }" />
             </div>
             <div class="neon-info" style="color: ${neonColor};">
-                <h3 class="book-title" data-book-id="${uniqueId}">${bookMeta.title}</h3>
-                <p class="book-authors" data-book-id="${uniqueId}"><i>${(bookMeta.authors || []).join(', ')}</i></p>
+                <h3 class="book-title">${bookMeta.title}</h3>
+                <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
             </div>
         </div>
     `;
@@ -166,37 +163,3 @@ function setupSearch() {
         });
     });
 }
-
-// Функция для адаптации размера шрифта под размер контейнера
-function adjustFontSize(element, maxFontSize = 16, minFontSize = 10) {
-    if (!element) return;
-    
-    let fontSize = maxFontSize;
-    element.style.fontSize = fontSize + 'px';
-    
-    // Уменьшаем шрифт, пока текст не поместится в контейнер
-    while (element.scrollWidth > element.offsetWidth && fontSize > minFontSize) {
-        fontSize -= 1;
-        element.style.fontSize = fontSize + 'px';
-    }
-}
-
-// Функция для адаптации размера шрифта для всех элементов
-function adjustAllFontSizes() {
-    // Находим все элементы с информацией о книгах
-    document.querySelectorAll('.book-title, .book-authors').forEach(element => {
-        const maxFontSize = element.classList.contains('book-title') ? 16 : 14;
-        const minFontSize = element.classList.contains('book-title') ? 8 : 6;
-        adjustFontSize(element, maxFontSize, minFontSize);
-    });
-}
-
-// После загрузки библиотеки вызываем адаптацию шрифтов
-function loadLibraryAndAdjustFonts() {
-    loadLibrary().then(() => {
-        // Добавляем небольшую задержку, чтобы элементы точно отрисовались
-        setTimeout(adjustAllFontSizes, 100);
-    });
-}
-
-document.addEventListener('DOMContentLoaded', loadLibraryAndAdjustFonts);
