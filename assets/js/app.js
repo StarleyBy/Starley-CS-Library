@@ -91,6 +91,22 @@ function getDefaultCoverImage(bookPath) {
     return null;
 }
 
+function generateNeonColor(bookTitle) {
+    // Генерируем уникальный цвет на основе названия книги
+    let hash = 0;
+    for (let i = 0; i < bookTitle.length; i++) {
+        hash = bookTitle.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    
+    // Конвертируем хэш в цвета
+    const r = Math.abs((hash >> 16) & 0xFF) % 256;
+    const g = Math.abs((hash >> 8) & 0xFF) % 256;
+    const b = Math.abs(hash & 0xFF) % 256;
+    
+    // Возвращаем цвет в формате RGB
+    return `rgb(${r}, ${g}, ${b})`;
+}
+
 function renderBookCard(bookPath, bookMeta) {
     // Определить путь к обложке
     const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
@@ -100,16 +116,19 @@ function renderBookCard(bookPath, bookMeta) {
     
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     
+    // Генерируем цвет для неонового эффекта
+    const neonColor = generateNeonColor(bookMeta.title);
+    
     return `
         <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}">
             <div class="book-cover-wrapper">
                 <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
                      onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');"
                      onload="if(this.naturalWidth === 0) { this.onerror(); }" />
-                <div class="book-info-overlay">
-                    <h3 class="book-title">${bookMeta.title}</h3>
-                    <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
-                </div>
+            </div>
+            <div class="neon-info" style="color: ${neonColor};">
+                <h3 class="book-title">${bookMeta.title}</h3>
+                <p class="book-authors"><i>${(bookMeta.authors || []).join(', ')}</i></p>
             </div>
         </div>
     `;

@@ -121,22 +121,20 @@ main {
     display: block;
 }
 
-.book-info-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: linear-gradient(transparent, rgba(0,0,0,0.7));
-    color: white;
-    padding: 20px 10px 10px;
+.book-info-below {
+    margin-top: 8px;
     text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .book-title {
     font-size: 1.1rem;
     margin: 0 0 5px 0;
-    color: white;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+    color: var(--primary-color);
+    font-weight: bold;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -145,11 +143,33 @@ main {
 .book-authors {
     font-size: 0.9rem;
     margin: 0;
-    color: #ddd;
-    text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+    color: #666;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+/* Neon style for book info */
+.neon-info {
+    position: relative;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.95);
+    transition: all 0.3s ease;
+    margin-top: 8px;
+    text-align: center;
+    border: 1px solid rgba(100, 100, 100, 0.3);
+    animation: neonPulse 2s infinite alternate;
+    color: inherit;
+}
+
+@keyframes neonPulse {
+    from {
+        box-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px currentColor;
+    }
+    to {
+        box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 25px currentColor;
+    }
 }
 
 /* Стили для карточки книги, используемой в других частях приложения */
