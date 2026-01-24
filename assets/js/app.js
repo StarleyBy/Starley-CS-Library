@@ -163,3 +163,40 @@ function setupSearch() {
         });
     });
 }
+
+// Функция для адаптации размера шрифта под размер контейнера
+function adjustFontSize(element, maxFontSize = 16, minFontSize = 10) {
+    if (!element) return;
+    
+    let fontSize = maxFontSize;
+    element.style.fontSize = fontSize + 'px';
+    
+    // Уменьшаем шрифт, пока текст не поместится в контейнер
+    while (element.scrollWidth > element.offsetWidth && fontSize > minFontSize) {
+        fontSize -= 1;
+        element.style.fontSize = fontSize + 'px';
+    }
+}
+
+// Функция для адаптации размера шрифта для всех элементов
+function adjustAllFontSizes() {
+    // Добавляем небольшую задержку, чтобы элементы точно отрисовались
+    setTimeout(() => {
+        document.querySelectorAll('.book-title, .book-authors').forEach(element => {
+            const maxFontSize = element.classList.contains('book-title') ? 16 : 14;
+            const minFontSize = element.classList.contains('book-title') ? 8 : 6;
+            adjustFontSize(element, maxFontSize, minFontSize);
+        });
+    }, 100);
+}
+
+// После загрузки библиотеки вызываем адаптацию шрифтов
+function loadLibraryAndAdjustFonts() {
+    loadLibrary().then(() => {
+        adjustAllFontSizes();
+    }).catch(error => {
+        console.error('Error loading library:', error);
+    });
+}
+
+document.addEventListener('DOMContentLoaded', loadLibraryAndAdjustFonts);
