@@ -15,7 +15,7 @@ async function loadChapter(bookPath, chapterId, edition) {
         if (edition === 'starley') suffix = '-starley';
         if (edition === 'russian') suffix = '-ru';
 
-        let url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${suffix}.md`;
+        let url = `${BASE_URL}${bookPath}/chapters/${chapterId}${suffix}.md`;
         
         let response = await fetch(url);
         
