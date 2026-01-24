@@ -161,6 +161,36 @@ main {
     border: 1px solid rgba(100, 100, 100, 0.3);
     animation: neonPulse 2s infinite alternate;
     color: inherit;
+    max-height: 80px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Адаптивный размер шрифта для названия книги */
+.book-title {
+    font-size: calc(12px + 0.8vw);
+    margin: 0 0 3px 0;
+    color: var(--primary-color);
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    min-height: 1.2em;
+}
+
+/* Адаптивный размер шрифта для авторов */
+.book-authors {
+    font-size: calc(10px + 0.6vw);
+    margin: 0;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    min-height: 1.1em;
 }
 
 @keyframes neonPulse {
