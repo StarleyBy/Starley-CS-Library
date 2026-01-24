@@ -1,5 +1,23 @@
 // assets/js/app.js
 
+// Определяем правильный URL для изображений в зависимости от среды
+let IMAGES_BASE_URL = './';
+
+if (window.location.hostname.includes('github.io')) {
+    // Для GitHub Pages используем полный URL к репозиторию для изображений
+    const pathParts = window.location.pathname.split('/');
+    const repoName = pathParts[1]; // имя репозитория из URL
+    if (repoName && !repoName.includes('.')) { // проверяем, что это имя репозитория, а не домен
+        IMAGES_BASE_URL = `./`;
+    } else {
+        IMAGES_BASE_URL = './';
+    }
+} else if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+    IMAGES_BASE_URL = './';
+} else {
+    IMAGES_BASE_URL = './';
+}
+
 async function loadLibrary() {
     const container = document.getElementById('library-container');
     if (!container) return;
@@ -77,8 +95,8 @@ function renderBookCard(bookPath, bookMeta) {
     // Определить путь к обложке
     const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
     
-    // Используем прямой путь к обложке, но с обработчиком ошибок
-    const coverImagePath = coverImage ? `${BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
+    // Используем правильный базовый URL для изображений
+    const coverImagePath = coverImage ? `${IMAGES_BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
     
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     
