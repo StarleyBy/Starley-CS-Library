@@ -152,7 +152,7 @@ main {
 /* Neon style for book info */
 .neon-info {
     position: relative;
-    padding: 10px;
+    padding: 8px 5px;
     border-radius: 4px;
     background-color: rgba(255, 255, 255, 0.95);
     transition: all 0.3s ease;
@@ -161,7 +161,7 @@ main {
     border: 1px solid rgba(100, 100, 100, 0.3);
     animation: neonPulse 2s infinite alternate;
     color: inherit;
-    max-height: 80px;
+    max-height: 70px;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -170,8 +170,8 @@ main {
 
 /* Адаптивный размер шрифта для названия книги */
 .book-title {
-    font-size: calc(12px + 0.8vw);
-    margin: 0 0 3px 0;
+    font-size: clamp(0.7rem, 2.5vw, 1rem);
+    margin: 0 0 2px 0;
     color: var(--primary-color);
     font-weight: bold;
     white-space: nowrap;
@@ -179,11 +179,12 @@ main {
     text-overflow: ellipsis;
     max-width: 100%;
     min-height: 1.2em;
+    line-height: 1.2;
 }
 
 /* Адаптивный размер шрифта для авторов */
 .book-authors {
-    font-size: calc(10px + 0.6vw);
+    font-size: clamp(0.6rem, 2vw, 0.8rem);
     margin: 0;
     color: #666;
     white-space: nowrap;
@@ -191,6 +192,7 @@ main {
     text-overflow: ellipsis;
     max-width: 100%;
     min-height: 1.1em;
+    line-height: 1.1;
 }
 
 @keyframes neonPulse {
