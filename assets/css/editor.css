@@ -784,10 +784,11 @@
     cursor: not-allowed;
 }
 
-/* Или зеленый "мягкий" вариант */
+/* Подсветка цифр в редакторе */
 .CodeMirror .cm-number-highlight {
-    background-color: rgba(76, 175, 80, 0.2);
-    color: #4caf50;
-    font-weight: 500;
-    box-shadow: 0 0 4px rgba(76, 175, 80, 0.4);
+    background-color: rgba(255, 255, 0, 0.3); /* Желтый фон */
+    color: #ffeb3b; /* Яркий желтый текст */
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 0 2px;
 }
