@@ -4,22 +4,18 @@
 
 # Diagnostic Techniques in Cardiac Surgery
 
-| Chest Radiography                                                   | 123 |
-|---------------------------------------------------------------------|-----|
-| Electrocardiography                                                 | 125 |
-| Stress Testing and Myocardial Perfusion Imaging in Coronary Disease | 127 |
-| Stress Echocardiography in Valvular Heart Disease<br>               | 132 |
-| Cardiac Catheterization<br>                                         | 134 |
-| Coronary Angiography<br>                                            | 141 |
-| Echocardiography<br>                                                | 146 |
-| Noninvasive Coronary Angiography                                    | 155 |
-| Evaluation of Aortic and Cardiac Disease by CT and MR Scanning      | 158 |
-
-# **2** Diagnostic Techniques in Cardiac Surgery
-
+<details class="med-details">
+<summary>2Diagnostic Techniques in Cardiac Surgery</summary>
+<div class="details-content">
 Although the general nature of a patient's cardiac disease can usually be ascertained from a thorough history and physical examination, diagnostic tests are essential to define the pathology and extent of cardiac disease more precisely. A variety of noninvasive and invasive modalities can be used to identify the presence and severity of cardiovascular abnormalities that may require surgery. This chapter briefly reviews the basic types of diagnostic tests available to the clinician and defines their role in preoperative evaluation. In‐depth discussions of several of these modalities with extensive references can be found on medical websites, including www. uptodate.com and www.emedicine.medscape.com.
+</div>
+</details>
 
-# **I. Chest Radiography**
+
+
+<details class="med-details">
+<summary>IChest Radiography**</summary>
+<div class="details-content">
 
 - **A.** PA and lateral chest x‐ray should be obtained on all patients before surgery. It should be consistent with the patient's cardiac diagnosis and can provide a wealth of potential information to the surgeon (Figure 2.1).
   - **1.** Compatibility with the clinical diagnosis:
@@ -42,13 +38,19 @@ Although the general nature of a patient's cardiac disease can usually be ascert
 **Figure 2.1 •** Chest x‐rays obtained preoperatively. (A) Aortic regurgitation (AR) showing left ventricular (LV) enlargement from volume overload. (B) Advanced mitral stenosis (MS) demonstrating marked enlargement of the left atrium projecting to the right of the cardiac silhouette. (C) LV enlargement from volume overload in a patient with chronic mitral regurgitation (MR). (D) A markedly enlarged cardiac silhouette in a patient with a large pericardial effusion. (E) A wide mediastinum in a patient with an ascending aortic aneurysm. (F) A wide mediastinum in a patient with an acute type A aortic dissection.
 
 - **1.** Calcification of the ascending aorta or arch is an important finding that may increase the risk of stroke. This may require an alternative cannulation site (femoral or axillary artery), avoidance of aortic cross‐clamping (beating or fibrillating heart surgery), or avoidance of both cannulation and aortic cross‐clamping (off‐pump surgery). It may necessitate the use of deep hypothermic circulatory arrest to perform an aortic valve replacement or resection of the ascending aorta. The presence of significant ascending aortic calcification in a patient with symptomatic severe AS is usually an indication for a transcatheter aortic valve replacement (TAVR). Epiaortic echocardiography may be indicated during surgery to evaluate for ascending aortic atherosclerosis. Suspicion of ascending aortic calcification by chest x‐ray (usually on the lateral film) or fluoroscopy during cardiac catheterization may be further defined by noncontrast CT scanning (see Figure 2.10). Calcification of the aortic knob alone is a common finding on chest x‐ray but is usually of little significance.
-- **2.** An elevated hemidiaphragm on one side might deter the surgeon from using the contralateral internal thoracic artery (ITA), especially in diabetic patients, who arguably are more prone to phrenic nerve paresis.1,2
+- **2.** An elevated hemidiaphragm on one side might deter the surgeon from using the contralateral internal thoracic artery (ITA), especially in diabetic patients, who arguably are more prone to phrenic nerve paresis.
 - **3.** Mitral annular calcification in patients with MR makes mitral valve repair or replacement more difficult and may necessitate creative surgical techniques.
 - **4.** For patients undergoing reoperation, PA and lateral films are essential. The PA film may identify the proximity of the ITA pedicle (identified by metallic clips) to the midline, although this usually requires a selective ITA angiogram to detect its true course. However, the lateral film will demonstrate the proximity of an aortic aneurysm, the right ventricle (RV), and occasionally the ITA to the posterior sternal table. If there is a concern about potential damage to any of these structures with a sternotomy, femoral or axillary cannulation and even initiation of cardiopulmonary bypass (CPB) prior to sternotomy may be indicated. Alternatively, a thoracotomy incision should be considered, especially for redo mitral valve surgery (right chest) or redo coronary surgery to the left‐sided vessels (left chest).
 - **5.** The location and orientation of the heart (craniocaudal as well as relationship to the midline) should be considered when selecting the appropriate incision for minimally invasive surgery. For example, in thin patients and those with emphysema, the heart has a vertical orientation and lies quite caudal in the chest. Thus, for aortic valve surgery, a more distal intercostal space incision may be necessary with either a partial upper sternotomy incision or anterior thoracotomy approach to obtain appropriate exposure.
 - **6.** The patient with congestive heart failure may benefit from aggressive diuresis prior to surgery or hemofiltration during CPB.
+</div>
+</details>
 
-### **II. Electrocardiography**
+
+
+<details class="med-details">
+<summary>IIElectrocardiography</summary>
+<div class="details-content">
 
 **A.** A 12‐lead ECG must be reviewed prior to surgery because it can yield valuable information about the nature of the patient's disease, the urgency of surgery, the appropriate management of arrhythmias, and other considerations in perioperative management.
 
@@ -79,12 +81,18 @@ Although the general nature of a patient's cardiac disease can usually be ascert
 - **1.** The function of a permanent transvenous pacing system can be disrupted by use of electrocautery at the time of surgery. A magnet must be available to convert the pacemaker to a fixed pacing mode.
 - **2.** ICD units should be inactivated prior to surgery.
 - **3.** Because the right atrial lead of a dual‐chamber pacemaker may be displaced during surgery or the pulse generator may be damaged by electrocautery, all permanent pacemaker systems must be interrogated immediately after surgery to ensure appropriate sensing and pacing.
+</div>
+</details>
 
-# **III. Stress Testing and Myocardial Perfusion Imaging in Coronary Disease**
 
-- **A.** Stress testing plays a major role in detecting the potential presence and functional significance of CAD. In addition to basic exercise stress testing, rest and stress myocardial perfusion imaging (MPI) have greater sensitivity and specificity in identifying viable and ischemic myocardium that will benefit from an interventional procedure. The technology has become very sophisticated, and only the salient features are presented.3–5
+
+<details class="med-details">
+<summary>IIIStress Testing and Myocardial Perfusion Imaging in Coronary Disease</summary>
+<div class="details-content">
+
+- **A.** Stress testing plays a major role in detecting the potential presence and functional significance of CAD. In addition to basic exercise stress testing, rest and stress myocardial perfusion imaging (MPI) have greater sensitivity and specificity in identifying viable and ischemic myocardium that will benefit from an interventional procedure. The technology has become very sophisticated, and only the salient features are presented.
 - **B. Exercise ECG (exercise tolerance test or ETT).** In patients who can exercise, stress testing to maximal exercise (or at least >85% of maximal predicted heart rate to optimize sensitivity) is performed on a treadmill with a graded protocol (Figure 2.2). ECG changes of ischemia can be difficult to detect in patients with a LBBB, ventricular‐paced rhythms, significant LVH or ST changes on baseline ECG, so for these patients, an imaging study is preferable. The ECG leads that demonstrate ST depressions during exercise testing do not necessarily correlate with the site of ischemia, but this can be determined more precisely with imaging studies.
-  - **1.** It is recognized that the sensitivity and specificity of ETTs are not ideal and the proper interpretation of a stress test depends on the pretest probability of CAD.6,7 For example, a positive ETT in an asymptomatic nondiabetic patient may be a false positive, and a negative ETT in a patient with symptoms and multiple risk factors does not exclude CAD. Therefore, exercise ECG testing is most useful for the patient with an intermediate probability of disease based on clinical criteria.
+  - **1.** It is recognized that the sensitivity and specificity of ETTs are not ideal and the proper interpretation of a stress test depends on the pretest probability of CAD. For example, a positive ETT in an asymptomatic nondiabetic patient may be a false positive, and a negative ETT in a patient with symptoms and multiple risk factors does not exclude CAD. Therefore, exercise ECG testing is most useful for the patient with an intermediate probability of disease based on clinical criteria.
   - **2.** Exercise testing is of value in that it mimics the clinical circumstances during which the patient becomes symptomatic and can determine the workload level at which symptoms occur. The latter correlates with the likelihood of more severe coronary disease and also correlates with prognosis.
 
 ![](_page_6_Figure_2.jpeg)
@@ -102,9 +110,9 @@ Although the general nature of a patient's cardiac disease can usually be ascert
 Exercise or use of vasodilators elicits regional differences in coronary flow reserve, as blood flow may increase three‐ to fivefold in normal arteries, but much less so beyond coronary stenoses. This discrepancy allows for the identification of ischemic zones and, inferentially, coronary stenosis.
 
 - **1.** rMPI is more sensitive and specific than exercise stress testing in detecting CAD and is more effective in determining the severity and location of ischemia. It is most useful when the patient has baseline ECG changes that preclude adequate interpretation of an ECG exercise test or when the patient cannot adequately exercise. Single‐photon emission CT (SPECT) imaging and positron emission tomography (PET) scanning can be used, the former being more widely available. Radioactive tracers commonly used for SPECT MPI include Tc‐99m tetrofosmin (Myoview) and Tc‐99m sestamibi (Cardiolite), which have essentially supplanted the use of thallium‐201.
-- **2.** If the patient can exercise, a treadmill or bicycle is used, and at peak exercise or when symptoms develop, a radioisotope is injected, exercise is continued for a minute, and SPECT imaging is obtained. Low‐level treadmill exercise combined with vasodilator stress imaging can give an assessment of exercise capacity, provides excellent images, and is associated with fewer noncardiac side effects.12
-- **3.** If the patient cannot exercise, pharmacologic stress is generally induced with a vasodilator, most commonly regadenoson (Lexiscan), which is a selective adenosine A2A receptor agonist, and, less commonly, adenosine or dipyridamole. For purely stress imaging, regadenoson 400 μg is given intravenously (IV), flushed with saline, and is followed 10–20 seconds later by an injection of a radioisotope, and imaging is obtained 15–45 minutes later. These medications produce coronary vasodilation with a fourfold increase in myocardial blood flow above baseline in normal arteries (coronary flow reserve being the ratio of hyperemic to baseline coronary flow). With flow‐limiting coronary stenosis, there is less coronary flow reserve and less tracer uptake in the myocardium subtended by those vessels.13 At peak stress, lack of tracer update ("cold spot") may be consistent with either irreversible infarction or ischemia.
-- **4.** In patients with contraindications to vasodilators, such as hypotension, sick sinus syndrome, high‐degree AV block, bronchospastic lung disease, or use of theophylline, dobutamine can be used for MPI.14 This is given in five three‐minute stages at increasing doses, starting at 5 μg/kg/min, followed by doses of 10, 20, 30, and eventually 40 μg/kg/min. Dobutamine will increase heart rate (chronotropy) and myocardial contractility (inotropy), producing an increase in oxygen demand and, consequently, myocardial blood flow. Once target heart rate is achieved (occasionally with the use of atropine) or the patient becomes symptomatic, the radionuclide is injected over 10 seconds, allowed to circulate for a minute, and then imaging is obtained.
+- **2.** If the patient can exercise, a treadmill or bicycle is used, and at peak exercise or when symptoms develop, a radioisotope is injected, exercise is continued for a minute, and SPECT imaging is obtained. Low‐level treadmill exercise combined with vasodilator stress imaging can give an assessment of exercise capacity, provides excellent images, and is associated with fewer noncardiac side effects.
+- **3.** If the patient cannot exercise, pharmacologic stress is generally induced with a vasodilator, most commonly regadenoson (Lexiscan), which is a selective adenosine A2A receptor agonist, and, less commonly, adenosine or dipyridamole. For purely stress imaging, regadenoson 400 μg is given intravenously (IV), flushed with saline, and is followed 10–20 seconds later by an injection of a radioisotope, and imaging is obtained 15–45 minutes later. These medications produce coronary vasodilation with a fourfold increase in myocardial blood flow above baseline in normal arteries (coronary flow reserve being the ratio of hyperemic to baseline coronary flow). With flow‐limiting coronary stenosis, there is less coronary flow reserve and less tracer uptake in the myocardium subtended by those vessels. At peak stress, lack of tracer update ("cold spot") may be consistent with either irreversible infarction or ischemia.
+- **4.** In patients with contraindications to vasodilators, such as hypotension, sick sinus syndrome, high‐degree AV block, bronchospastic lung disease, or use of theophylline, dobutamine can be used for MPI. This is given in five three‐minute stages at increasing doses, starting at 5 μg/kg/min, followed by doses of 10, 20, 30, and eventually 40 μg/kg/min. Dobutamine will increase heart rate (chronotropy) and myocardial contractility (inotropy), producing an increase in oxygen demand and, consequently, myocardial blood flow. Once target heart rate is achieved (occasionally with the use of atropine) or the patient becomes symptomatic, the radionuclide is injected over 10 seconds, allowed to circulate for a minute, and then imaging is obtained.
 - **5.** Rest/stress protocols are most commonly used because they can assess the presence of viability and ischemia. A common protocol involves infusion of the radioactive tracer for rest images (e.g. 9 μg of tetrofosmin), then injection of the vasodilator followed by re‐administration of a three‐times‐higher dose of tracer, with imaging obtained 15–60 minutes later (Figure 2.3).
 - **6.** Stress/redistribution studies may be performed using thallium‐201, either given after exercise or after the administration of dipyridamole. After the tracer is
 
@@ -114,24 +122,30 @@ Exercise or use of vasodilators elicits regional differences in coronary flow re
 
 **Figure 2.3 •** Stress imaging studies with Tc‐99m tetrofosmin. (A) Short‐axis (upper two rows) and vertical long‐axis views (lower two rows) at stress (top image of each pair) and redistribution (lower image of each pair). The stress images demonstrate reduced tracer uptake in the anteroapical region that improves during the redistribution phase, consistent with anteroapical ischemia. (B) Similar views demonstrating a defect in the inferolateral region in the stress images that does not improve with redistribution. This is consistent with infarction.
 
-injected, the initial stress imaging is obtained within 10 minutes and then repeated 2.5–4 hours later for the redistribution imaging. If there is still a residual imaging defect, delayed reimaging is performed 18–24 hours later after a small reinjection of thallium‐201. The latter will improve sensitivity in determining myocardial viability.15 Alternatively, a rest‐only image may be obtained along with initial and delayed redistribution images to assess for viability.9
+injected, the initial stress imaging is obtained within 10 minutes and then repeated 2.5–4 hours later for the redistribution imaging. If there is still a residual imaging defect, delayed reimaging is performed 18–24 hours later after a small reinjection of thallium‐201. The latter will improve sensitivity in determining myocardial viability. Alternatively, a rest‐only image may be obtained along with initial and delayed redistribution images to assess for viability.
 
-- **D. Stress MRI scanning** has excellent spatial and temporal resolution and is very effective in assessing regional wall motion abnormalities and in detecting, localizing, and quantifying the degree of ischemia.11 Various applications include rest/stress perfusion imaging and dobutamine cine stress cardiac magnetic resonance (CMR), which has >80% sensitivity and specificity in identifying significant coronary stenosis. Some consider nuclear imaging the gold standard for assessing myocardial perfusion and recommend it as a noninvasive approach to assess intermediate‐ to high‐risk patients with equivocal stress tests. This approach entails a cardiac CT scan to assess for anatomic stenosis and, if present, a subsequent stress MRI to assess the hemodynamic significance of the lesion. Delayed gadolinium enhancement on cardiac MR can be used to identify areas of viability and nonviability (see section F.3.e).
-- **E. Stress echocardiography** is based on the principle that stress‐induced ischemia caused by coronary artery stenosis will produce regional wall motion abnormalities.16 This may be performed using bicycle or treadmill exercise (ESE). An alternative to exercise is the use of **dobutamine** to increase myocardial oxygen demand (dobutamine stress echocardiogram, or DSE). If the demand cannot be met by an increase in blood flow, ischemia will produce regional wall motion abnormalities in the distribution of the stenotic coronary artery. Thus, this can determine the location and extent of ischemia. Stress echoes are more sensitive and specific than exercise ECG testing and provide comparable results to those of exercise nuclear imaging.
-- **F. Viability studies.**17 Myocardial viability studies are useful in patients with severe LV dysfunction to distinguish areas of myocardial necrosis from "hibernating myocardium" that may recover function after revascularization. The clinical utility of these studies has been called into question and may not be as useful as previously thought.
-  - **1.** Revascularization of viable areas generally improves LV function and symptoms in patients with CHF with or without angina, although in some patients, symptoms will improve without any improvement in global or regional function.18,19 Extensive remodeling and high end‐systolic volumes are associated with less improvement in LV function.
-  - **2.** Numerous meta‐analyses have reported a strong association between viability and improvement in survival with CABG.20 However, other important studies suggest this may not be the case. In a 10‐year follow‐up of the STICH (Surgical Treatment for Ischemic Heart Failure) trial, which is discussed on page 7, the presence of viability was associated with an improvement of LV function with both medical and surgical therapy, but this did not translate into improved survival.21 Another analysis of STICH data indicated that viability was predictive of a survival benefit in patients with moderate LV dysfunction but lost its prognostic benefit when LV dysfunction became severe.22
+- **D. Stress MRI scanning** has excellent spatial and temporal resolution and is very effective in assessing regional wall motion abnormalities and in detecting, localizing, and quantifying the degree of ischemia. Various applications include rest/stress perfusion imaging and dobutamine cine stress cardiac magnetic resonance (CMR), which has >80% sensitivity and specificity in identifying significant coronary stenosis. Some consider nuclear imaging the gold standard for assessing myocardial perfusion and recommend it as a noninvasive approach to assess intermediate‐ to high‐risk patients with equivocal stress tests. This approach entails a cardiac CT scan to assess for anatomic stenosis and, if present, a subsequent stress MRI to assess the hemodynamic significance of the lesion. Delayed gadolinium enhancement on cardiac MR can be used to identify areas of viability and nonviability (see section F.3.e).
+- **E. Stress echocardiography** is based on the principle that stress‐induced ischemia caused by coronary artery stenosis will produce regional wall motion abnormalities. This may be performed using bicycle or treadmill exercise (ESE). An alternative to exercise is the use of **dobutamine** to increase myocardial oxygen demand (dobutamine stress echocardiogram, or DSE). If the demand cannot be met by an increase in blood flow, ischemia will produce regional wall motion abnormalities in the distribution of the stenotic coronary artery. Thus, this can determine the location and extent of ischemia. Stress echoes are more sensitive and specific than exercise ECG testing and provide comparable results to those of exercise nuclear imaging.
+- **F. Viability studies.** Myocardial viability studies are useful in patients with severe LV dysfunction to distinguish areas of myocardial necrosis from "hibernating myocardium" that may recover function after revascularization. The clinical utility of these studies has been called into question and may not be as useful as previously thought.
+  - **1.** Revascularization of viable areas generally improves LV function and symptoms in patients with CHF with or without angina, although in some patients, symptoms will improve without any improvement in global or regional function. Extensive remodeling and high end‐systolic volumes are associated with less improvement in LV function.
+  - **2.** Numerous meta‐analyses have reported a strong association between viability and improvement in survival with CABG. However, other important studies suggest this may not be the case. In a 10‐year follow‐up of the STICH (Surgical Treatment for Ischemic Heart Failure) trial, which is discussed before, the presence of viability was associated with an improvement of LV function with both medical and surgical therapy, but this did not translate into improved survival. Another analysis of STICH data indicated that viability was predictive of a survival benefit in patients with moderate LV dysfunction but lost its prognostic benefit when LV dysfunction became severe.
   - **3.** Among the modalities available to detect viability are the following:
     - **a. SPECT imaging with Tc‐99m tracers** (tetrofosmin or sestamibi) is based on intact mitochondrial function reflecting viability. Gated SPECT scanning allows for the assessment of ventricular function as well as viability using routine rest/stress imaging.
 
-- **b. SPECT imaging with thallium** provides a comparable assessment of viability.23 Thallium uptake reflects cell membrane integrity, so that viable zones, whether ischemic or not, will perfuse and retain thallium at rest. With rest‐redistribution imaging, nonischemic viable tissue will retain thallium at rest. However, if there is rest ischemia, a defect may be evident initially but show redistribution four hours later, indicating viability. With stress‐redistribution imaging, an area of ischemia that produces a defect at stress may demonstrate redistribution either with reinjection of thallium or on delayed imaging up to 18–24 hours later.15
-- **c. 18F‐deoxyglucose (FDG) uptake** using PET or SPECT imaging is a very sensitive test of viability. FDG is a marker of glucose uptake by the myocardium, thus assessing metabolism and cell viability. An assessment of perfusion is made with 13N‐ammonia or rubidium‐82, and then 18FDG is injected to assess metabolism. Zones with matching perfusion and metabolism are either not ischemic or are infarcted. Evidence of preserved metabolic activity in zones of reduced perfusion indicates viable, hibernating myocardium. These studies may detect viability in zones considered nonviable by thallium imaging.24
-- **d. Dobutamine stress echo (DSE)** can be used to identify contractile reserve, which suggests viability.15 Low doses of dobutamine are administered during echocardiography to assess any change in global and regional wall motion. A biphasic response during dobutamine echocardiography (improvement in function at low dose and worsening of function at peak stress from high doses of dobutamine) is highly predictive of recovery of regional contractile function in patients with LV dysfunction.25
-- **e. Delayed enhancement magnetic resonance imaging (MRI)** is indexed on cell membrane integrity and uses gadolinium‐based contrast as a means of assessing viability and nonviability. Normal myocardium has a very low concentration of gadolinium after its injection and will appear black on imaging, whereas abnormal myocardial tissue will accumulate gadolinium and appear hyper‐enhanced and bright.26 Late gadolinium enhancement (LGE) is noted in regions of transmural nonviability. LGE >15% has been found to correlate with the risk of sudden death in patients with hypertrophic obstructive cardiomyopathy.27 MRI‐defined diastolic wall thickness >5.5 mm is predictive of contractile recovery after CABG. MRI provides excellent image quality with a precise identification of epicardial and endocardial borders to allow for the assessment of wall motion and thickening.28
+- **b. SPECT imaging with thallium** provides a comparable assessment of viability. Thallium uptake reflects cell membrane integrity, so that viable zones, whether ischemic or not, will perfuse and retain thallium at rest. With rest‐redistribution imaging, nonischemic viable tissue will retain thallium at rest. However, if there is rest ischemia, a defect may be evident initially but show redistribution four hours later, indicating viability. With stress‐redistribution imaging, an area of ischemia that produces a defect at stress may demonstrate redistribution either with reinjection of thallium or on delayed imaging up to 18–24 hours later.
+- **c. 18F‐deoxyglucose (FDG) uptake** using PET or SPECT imaging is a very sensitive test of viability. FDG is a marker of glucose uptake by the myocardium, thus assessing metabolism and cell viability. An assessment of perfusion is made with 13N‐ammonia or rubidium‐82, and then 18FDG is injected to assess metabolism. Zones with matching perfusion and metabolism are either not ischemic or are infarcted. Evidence of preserved metabolic activity in zones of reduced perfusion indicates viable, hibernating myocardium. These studies may detect viability in zones considered nonviable by thallium imaging.
+- **d. Dobutamine stress echo (DSE)** can be used to identify contractile reserve, which suggests viability. Low doses of dobutamine are administered during echocardiography to assess any change in global and regional wall motion. A biphasic response during dobutamine echocardiography (improvement in function at low dose and worsening of function at peak stress from high doses of dobutamine) is highly predictive of recovery of regional contractile function in patients with LV dysfunction.
+- **e. Delayed enhancement magnetic resonance imaging (MRI)** is indexed on cell membrane integrity and uses gadolinium‐based contrast as a means of assessing viability and nonviability. Normal myocardium has a very low concentration of gadolinium after its injection and will appear black on imaging, whereas abnormal myocardial tissue will accumulate gadolinium and appear hyper‐enhanced and bright. Late gadolinium enhancement (LGE) is noted in regions of transmural nonviability. LGE >15% has been found to correlate with the risk of sudden death in patients with hypertrophic obstructive cardiomyopathy. MRI‐defined diastolic wall thickness >5.5 mm is predictive of contractile recovery after CABG. MRI provides excellent image quality with a precise identification of epicardial and endocardial borders to allow for the assessment of wall motion and thickening.
+</div>
+</details>
 
-# **IV. Stress Echocardiography in Valvular Heart Disease**
 
-- **A. General comments.**29,30 Exercise stress echo (ESE) is very useful in assessing the physiologic and hemodynamic severity of valvular heart disease in patients without significant symptoms and can be used to assess prognosis (see section VII for discussion of non‐stress echo imaging). The patient should have a resting and then stress echocardiogram for the assessment of valve gradients, degree of regurgitation, stroke volume, PA and right ventricular systolic pressures (RVSP), and RV and LV size and function. The test is abnormal if:
+
+<details class="med-details">
+<summary>IVStress Echocardiography in Valvular Heart Disease</summary>
+<div class="details-content">
+
+- **A. General comments.** Exercise stress echo (ESE) is very useful in assessing the physiologic and hemodynamic severity of valvular heart disease in patients without significant symptoms and can be used to assess prognosis (see section VII for discussion of non‐stress echo imaging). The patient should have a resting and then stress echocardiogram for the assessment of valve gradients, degree of regurgitation, stroke volume, PA and right ventricular systolic pressures (RVSP), and RV and LV size and function. The test is abnormal if:
   - ∙ Symptoms occur at lower than expected workload
   - ∙ Exercise capacity is <85% of predicted
   - ∙ Blood pressure falls or increases <20 mm Hg
@@ -140,47 +154,80 @@ injected, the initial stress imaging is obtained within 10 minutes and then repe
 - ∙ Degree of valvular regurgitation worsens
 - ∙ EF falls or regional wall motion abnormalities develop
 - ∙ Sustained ventricular arrhythmias occur
-- **B. Aortic stenosis (AS)** is a progressive process, and patients often limit their activities and deny symptoms. Because of the adverse impact of symptoms on survival (mean survival of only 1–2 years), stress testing is recommended in "asymptomatic" stage C patients with severe AS. Studies have shown that an abnormal symptom‐limited ESE is associated with an eightfold higher risk of major adverse cardiac events (MACE) and a 5.5 times higher risk of sudden death.29 In addition, an increase in mean gradient of >20 mm Hg or development of exercise‐induced pulmonary hypertension is associated with a higher risk of MACE. Therefore, both ACC/AHA and European Society of Cardiology (ESC) guidelines recommend aortic valve replacement (AVR) for patients who develop symptoms (class I) or an abnormal blood pressure response (class IIa) with exercise stress testing.
+- **B. Aortic stenosis (AS)** is a progressive process, and patients often limit their activities and deny symptoms. Because of the adverse impact of symptoms on survival (mean survival of only 1–2 years), stress testing is recommended in "asymptomatic" stage C patients with severe AS. Studies have shown that an abnormal symptom‐limited ESE is associated with an eightfold higher risk of major adverse cardiac events (MACE) and a 5.5 times higher risk of sudden death. In addition, an increase in mean gradient of >20 mm Hg or development of exercise‐induced pulmonary hypertension is associated with a higher risk of MACE. Therefore, both ACC/AHA and European Society of Cardiology (ESC) guidelines recommend aortic valve replacement (AVR) for patients who develop symptoms (class I) or an abnormal blood pressure response (class IIa) with exercise stress testing.
   - **1.** DSE is very useful in the assessment of patients with stage D2 low‐flow, low‐gradient AS with depressed LV function. DSE can differentiate true AS from pseudo‐severe AS, the latter being present if the aortic valve area (AVA) increases with dobutamine due to an increase in cardiac output without an increase in gradient.
     - **a.** In stage D2 patients, the diagnosis of severe AS is confirmed by an increase in the mean gradient to >40 mm Hg with dobutamine, but often the AVA will calculate to <1.0 cm2 even though the gradient does not reach that level. This AVA‐gradient discordance may occur when inadequate contractile reserve is present, i.e. when the stroke volume increases <20% or the EF falls. This suggests intrinsic myocardial dysfunction, not just afterload mismatch, as the cause of poor LV function. Even though the results of AVR (either surgical or TAVR) are suboptimal in these patients with a much higher mortality, AVR still improves upon the poor natural history of AS if left untreated.
-    - **b.** In patients with poor contractile reserve, it may be difficult to differentiate true from pseudo‐severe AS. It has been proposed that a "projected AVA" based on a normal transvalvular flow rate be used to more appropriately assess the severity of AS.31
-  - **2.** The role of DSE is not clear‐cut in patients with stage D3 AS, which is termed paradoxical low‐flow, low gradient AS with normal EF. The diagnosis is usually made because of a low stroke volume index <35 mL/m2 . If that is not present, one might presume that severe AS is not present. Again, use of the projected AVA may be helpful, but assessment of aortic valve calcium by CT scanning may be more suggestive of severe AS.32
+    - **b.** In patients with poor contractile reserve, it may be difficult to differentiate true from pseudo‐severe AS. It has been proposed that a "projected AVA" based on a normal transvalvular flow rate be used to more appropriately assess the severity of AS.
+  - **2.** The role of DSE is not clear‐cut in patients with stage D3 AS, which is termed paradoxical low‐flow, low gradient AS with normal EF. The diagnosis is usually made because of a low stroke volume index <35 mL/m2 . If that is not present, one might presume that severe AS is not present. Again, use of the projected AVA may be helpful, but assessment of aortic valve calcium by CT scanning may be more suggestive of severe AS.
 - **C. Aortic regurgitation (AR).** The progression to symptomatic AR is fairly slow, and patients often remain asymptomatic despite the onset of progressive LV dysfunction. ESE can be used to elicit symptoms or assess contractile reserve, the absence of which correlates with potentially irreversible LV dysfunction even after AVR. An exercise‐induced fall in EF may also prompt early consideration of surgery. Other subtle changes, such as early RV systolic dysfunction or measurements approaching the guideline recommendations for surgery (EF 50–55% or LVESD approaching 50 mm) are considered high‐risk findings.
 - **D. Mitral stenosis (MS).** ESE or DSE is useful in assessing the physiologic significance of MS when there is discordance between clinical symptoms and hemodynamics. Some patients appear asymptomatic with severe MS, while others are symptomatic with moderate MS. With exercise, the heart rate increases with less diastolic filling
 
-- time, and the mitral gradient increases along with an increase in left atrial (LA) and PA pressures. Nearly 50% of patients with asymptomatic moderate–severe MS have been shown to develop symptoms during exercise.30 Other high‐risk features include an increase in the mean gradient to >18 mm Hg with DSE or >15 mm Hg with exercise and an RVSP >60 mm Hg at peak exercise, with dyspnea more likely to develop if there is a rapid rise in RV systolic pressure with less exercise.33
+- time, and the mitral gradient increases along with an increase in left atrial (LA) and PA pressures. Nearly 50% of patients with asymptomatic moderate–severe MS have been shown to develop symptoms during exercise.30 Other high‐risk features include an increase in the mean gradient to >18 mm Hg with DSE or >15 mm Hg with exercise and an RVSP >60 mm Hg at peak exercise, with dyspnea more likely to develop if there is a rapid rise in RV systolic pressure with less exercise.
 - **E. Mitral regurgitation (MR).** Stress echo is helpful in assessing exercise‐induced changes in MR when there is a discordance between symptoms and the severity of MR. For patients with primary degenerative MR, an increase in RVSP to >60 mm Hg, exercise capacity <85% of predicted, latent LV dysfunction, AF, or abnormal heart rate recovery are high‐risk features. For patients with secondary (functional or ischemic) MR, ESE may reveal subclinical LV dysfunction due to ischemia and is suggestive of severe MR if the patient develops pulmonary edema, ischemic wall motion abnormalities, or an increase in the effective regurgitant orifice area of >13 mm.
+</div>
+</details>
 
-# **V. Cardiac Catheterization**
 
-- **A.** The gold standard for the diagnosis of most forms of cardiac disease remains cardiac catheterization.34 It is indicated in most patients whose clinical presentation and diagnostic testing suggest that an interventional procedure (PCI or cardiac surgery) may be indicated. The exceptions are acute type A aortic dissections, which are surgical emergencies, and aortic valve endocarditis with vegetations, with which catheter manipulation in the root may cause embolization.
+
+<details class="med-details">
+<summary>VCardiac Catheterization</summary>
+<div class="details-content">
+
+- **A.** The gold standard for the diagnosis of most forms of cardiac disease remains cardiac catheterization. It is indicated in most patients whose clinical presentation and diagnostic testing suggest that an interventional procedure (PCI or cardiac surgery) may be indicated. The exceptions are acute type A aortic dissections, which are surgical emergencies, and aortic valve endocarditis with vegetations, with which catheter manipulation in the root may cause embolization.
 - **B. Techniques** (Tables 2.1 and 2.2; Figures 2.4–2.6)
-  - **1. Right‐heart catheterization** is performed in patients with valve disease and those with coronary disease and LV dysfunction. It involves placement of a Swan‐Ganz PA catheter to obtain intracardiac pressures and measure oxygen saturations from each chamber to detect intracardiac shunts (atrial or ventricular septal defects). The mixed venous oxygen saturation from the PA port indirectly reflects the cardiac output. A thermodilution cardiac output is obtained and can be used along with pressure gradients obtained from right‐ and left‐heart catheterization to calculate valve areas using the Gorlin formula (see page 24).
-  - **2. Left‐heart catheterization** involves advancing a catheter from the aorta through the aortic valve into the LV. This allows for the measurement of the left ventricular end‐diastolic pressure (LVEDP), obtaining a left ventriculogram to assess the EF (end‐diastolic volume minus end‐systolic volume divided by the end‐diastolic volume) (Figure 2.7), and identification of MR (Figure 2.8). A Fick cardiac output can be calculated. The aortic valve gradient can be measured during pullback of the catheter, but in patients with AS, crossing the valve has been reported to increase the risk of stroke.35 Therefore, this should not be performed if severe AS is confirmed by echocardiography.
-  - **3.** Evaluation of both left‐ and right‐heart pressures is invaluable in making the diagnosis of constrictive pericarditis (see Figure 1.32).36,37
+  - **1. Right‐heart catheterization** is performed in patients with valve disease and those with coronary disease and LV dysfunction. It involves placement of a Swan‐Ganz PA catheter to obtain intracardiac pressures and measure oxygen saturations from each chamber to detect intracardiac shunts (atrial or ventricular septal defects). The mixed venous oxygen saturation from the PA port indirectly reflects the cardiac output. A thermodilution cardiac output is obtained and can be used along with pressure gradients obtained from right‐ and left‐heart catheterization to calculate valve areas using the Gorlin formula.
+  - **2. Left‐heart catheterization** involves advancing a catheter from the aorta through the aortic valve into the LV. This allows for the measurement of the left ventricular end‐diastolic pressure (LVEDP), obtaining a left ventriculogram to assess the EF (end‐diastolic volume minus end‐systolic volume divided by the end‐diastolic volume) (Figure 2.7), and identification of MR (Figure 2.8). A Fick cardiac output can be calculated. The aortic valve gradient can be measured during pullback of the catheter, but in patients with AS, crossing the valve has been reported to increase the risk of stroke. Therefore, this should not be performed if severe AS is confirmed by echocardiography.
+  - **3.** Evaluation of both left‐ and right‐heart pressures is invaluable in making the diagnosis of constrictive pericarditis (see Figure 1.32).
   - **4.** An **aortogram** ("root shot") may be performed in patients with aortic valve disease to assess the degree of AR (Figure 2.9). Excessive whip of an angiographic catheter may suggest the presence of a dilated aortic root. An aortogram can provide an estimate of aortic size that might necessitate replacement of the ascending aorta, but a CT scan or echocardiogram can assess the size of the aorta more precisely.
 
 **Table 2.1 • Information Obtained from Right‐ and Left‐Heart Catheterization**
 
-| Elevated RA pressure  | Tricuspid stenosis (large "a" wave)<br>Tricuspid regurgitation (large "v" wave)<br>RV dysfunction (pulmonary hypertension, RV infarction)<br>Constrictive pericarditis/tamponade/restrictive disease                                                |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Elevated RV pressure  | RV dysfunction (pulmonary hypertension, RV infarction)<br>Constrictive pericarditis (square root sign; rapid "x" and "y"<br>descent)<br>Restrictive disease<br>Cardiac tamponade (absent "y" descent)                                               |
-| Elevated PA pressure  | Mitral stenosis/regurgitation<br>LV systolic or diastolic dysfunction (ischemic, dilated<br>cardiomyopathy, aortic stenosis/regurgitation)<br>Pulmonary hypertension of other etiologies<br>Constrictive pericarditis/tamponade/restrictive disease |
-| Elevated PCW pressure | Mitral stenosis (large "a" wave if sinus rhythm)<br>Mitral regurgitation (large "v" wave)<br>LV systolic or diastolic dysfunction (ischemic, dilated<br>cardiomyopathy, aortic stenosis/regurgitation)<br>Constrictive pericarditis/tamponade       |
-| Elevated LVEDP        | LV systolic or diastolic dysfunction (ischemic, dilated<br>cardiomyopathy, aortic stenosis/regurgitation)<br>Constrictive pericarditis/tamponade                                                                                                    |
+| Hemodynamic finding | Typical causes |
+|---------------------|----------------|
+| **Elevated RA pressure** | • Tricuspid stenosis (**large "a" wave**)  
+| | • Tricuspid regurgitation (**large "v" wave**)  
+| | • RV dysfunction (pulmonary hypertension, RV infarction)  
+| | • Constrictive pericarditis / tamponade / restrictive disease |
+| **Elevated RV pressure** | • RV dysfunction (pulmonary hypertension, RV infarction)  
+| | • Constrictive pericarditis (**square root sign; rapid "x" and "y" descent**)  
+| | • Restrictive disease  
+| | • Cardiac tamponade (**absent "y" descent**) |
+| **Elevated PA pressure** | • Mitral stenosis / regurgitation  
+| | • LV systolic or diastolic dysfunction (ischemic, dilated cardiomyopathy, aortic stenosis / regurgitation)  
+| | • Pulmonary hypertension of other etiologies  
+| | • Constrictive pericarditis / tamponade / restrictive disease |
+| **Elevated PCW pressure** | • Mitral stenosis (**large "a" wave if sinus rhythm**)  
+| | • Mitral regurgitation (**large "v" wave**)  
+| | • LV systolic or diastolic dysfunction (ischemic, dilated cardiomyopathy, aortic stenosis / regurgitation)  
+| | • Constrictive pericarditis / tamponade |
+| **Elevated LVEDP** | • LV systolic or diastolic dysfunction (ischemic, dilated cardiomyopathy, aortic stenosis / regurgitation)  
+| | • Constrictive pericarditis / tamponade |
 
-RA, right atrial; RV, right ventricular; PA, pulmonary artery; LV, left ventricular; PCW, pulmonary capillary wedge; LVEDP, left ventricular end‐diastolic pressure.
 
-| Table 2.2<br>•<br>Hemodynamic Norms for Intracardiac Pressures |                                                   |  |
-|----------------------------------------------------------------|---------------------------------------------------|--|
-| Location                                                       | Pressures (mm Hg)                                 |  |
-| Right atrium                                                   | Mean 3–8                                          |  |
-| Right ventricle                                                | Systolic 15–30<br>Diastolic 3–8                   |  |
-| Pulmonary artery                                               | Systolic 15–30<br>Diastolic 5–12<br>Mean 9–16     |  |
-| Pulmonary capillary wedge                                      | 5–12                                              |  |
-| Left atrium                                                    | 5–12                                              |  |
-| Left ventricle                                                 | Systolic 90–140<br>End‐diastolic 5–12             |  |
-| Aorta                                                          | Systolic 90–140<br>Diastolic 60–90<br>Mean 70–105 |  |
+  
+ **Table 2.2. Hemodynamic Norms for Intracardiac Pressures**  
+
+| **Location** | **Pressure component** | **Normal range (mm Hg)** |
+|------------------------------------------------------------|--|--|
+| **Right atrium** | • Mean | 3–8 |
+| **Right ventricle** | • Systolic | 15–30 
+| | • Diastolic | 3–8 |
+| **Pulmonary artery** | • Systolic | 15–30 
+| | • Diastolic | 5–12  
+| | • Mean | 9–16  
+| | |   
+| | |  |
+| **Pulmonary capillary wedge** | • Mean | 5–12 |
+| **Left atrium** | • Mean | 5–12 |
+| **Left ventricle** | • Systolic | 90–140 
+| | • End-diastolic | 5–12  
+| |  |
+| **Aorta** | • Systolic | 90–140 
+| | • Diastolic | 60–90 
+| | • Mean | 70–105  
+| |   
+| |  |
+
 
 ![](_page_14_Figure_0.jpeg)
 
@@ -227,10 +274,17 @@ RA, right atrial; RV, right ventricular; PA, pulmonary artery; LV, left ventricu
 ![](_page_18_Picture_6.jpeg)
 
 **Figure 2.12 •** Fluoroscopy of a patient with a St. Jude Medical valve in the mitral position. (A) At end‐systole, the leaflets are closed preventing MR. (D) During diastole, the leaflets barely open due to valve thrombosis, preventing filling of the left ventricle and leading to elevated left atrial pressures.
+</div>
+</details>
 
-#### **VI. Coronary Angiography**
 
-**A.** Coronary angiography is performed as part of the cardiac catheterization procedure by placing special preformed catheters directly into the coronary ostia and injecting contrast into the coronary arteries (Figures 2.13 and 2.14). Angiography will assess whether the circulation is right or left dominant (i.e. whether the posterior descending artery arises from the right or left system), and will define the location, extent, and degree of coronary stenoses (Figure 2.15). This information is then used to determine if an interventional procedure is indicated and whether PCI or CABG is preferable. The SYNTAX and SYNTAX II scores (see pages 5–6) are often used to
+
+<details class="med-details">
+<summary>VICoronary Angiography</summary>
+<div class="details-content">
+
+
+**A.** Coronary angiography is performed as part of the cardiac catheterization procedure by placing special preformed catheters directly into the coronary ostia and injecting contrast into the coronary arteries (Figures 2.13 and 2.14). Angiography will assess whether the circulation is right or left dominant (i.e. whether the posterior descending artery arises from the right or left system), and will define the location, extent, and degree of coronary stenoses (Figure 2.15). This information is then used to determine if an interventional procedure is indicated and whether PCI or CABG is preferable. The SYNTAX and SYNTAX II scores are often used to
 
 ![](_page_19_Figure_4.jpeg)
 
@@ -265,15 +319,15 @@ Thus, >50% diameter stenosis is considered significant.
 
 larger segment may not reflect normal vessel diameter if the entire vessel is diseased and narrowed, and thus angiography will underestimate the extent of disease.
 
-- **3. Intravascular ultrasound** (IVUS) can visualize the entire vessel wall and give a more precise calculation of the true extent of narrowing, measured as a "minimal luminal area" (MLA) in mm2 (Figure 2.18). IVUS can be used to identify a stenosis that may benefit from stenting, and it is particularly helpful in indeterminate left main stenosis. A left main MLA <7 mm2 in a symptomatic patient or <5.5–6 mm2 in an asymptomatic patient is considered significant.38,39 An MLA <4 mm2 in the other proximal arteries is considered significant. **Optical coherence tomography (**OCT) is an optical analog of IVUS which has a tenfold higher resolution than IVUS. It is beneficial in assessing plaque burden in native arteries, but is most often used to assess the result of coronary stenting, as it can identify dissections, thrombus, and incomplete stent apposition.40,41
-- **4.** The correlation of the degree of stenosis and its functional significance is imprecise. **Fractional flow reserve (FFR)** measurements using a pressure wire can help to determine whether an intervention is indicated.42–44 This basically assesses the maximal myocardial flow that can be achieved beyond a stenosis relative to what it would be for a normal artery. Hyperemic flow decreases significantly when there is a >50% stenosis. To calculate the FFR, a catheter is placed through the stenosis in the coronary artery, and proximal and distal pressure measurements are obtained after inducing a hyperemic response with either intracoronary or IV adenosine. If the distal/proximal pressure ratio (FFR) is ≤0.8, the lesion is considered functionally significant, and revascularization will provide a clinical benefit; otherwise, intervention is generally not indicated. This is also beneficial in sorting out the significance of left main lesions.45
-- **5.** The **instantaneous wave‐free ratio fractional flow reserve (iFR)** is a non‐hyperemic pressure‐based index of stenosis severity.46,47 It uses the wave‐free period of diastole to measure the physiologic impact of the stenosis on the distal coronary bed. Although conceptually more complex, an iFR ≤0.89 is considered functionally significant, has excellent correlation with an FFR ≤0.8, and provides a comparable outcome in guiding PCI.
+- **3. Intravascular ultrasound** (IVUS) can visualize the entire vessel wall and give a more precise calculation of the true extent of narrowing, measured as a "minimal luminal area" (MLA) in mm2 (Figure 2.18). IVUS can be used to identify a stenosis that may benefit from stenting, and it is particularly helpful in indeterminate left main stenosis. A left main MLA <7 mm2 in a symptomatic patient or <5.5–6 mm2 in an asymptomatic patient is considered significant.38,39 An MLA <4 mm2 in the other proximal arteries is considered significant. **Optical coherence tomography (**OCT) is an optical analog of IVUS which has a tenfold higher resolution than IVUS. It is beneficial in assessing plaque burden in native arteries, but is most often used to assess the result of coronary stenting, as it can identify dissections, thrombus, and incomplete stent apposition.
+- **4.** The correlation of the degree of stenosis and its functional significance is imprecise. **Fractional flow reserve (FFR)** measurements using a pressure wire can help to determine whether an intervention is indicated. This basically assesses the maximal myocardial flow that can be achieved beyond a stenosis relative to what it would be for a normal artery. Hyperemic flow decreases significantly when there is a >50% stenosis. To calculate the FFR, a catheter is placed through the stenosis in the coronary artery, and proximal and distal pressure measurements are obtained after inducing a hyperemic response with either intracoronary or IV adenosine. If the distal/proximal pressure ratio (FFR) is ≤0.8, the lesion is considered functionally significant, and revascularization will provide a clinical benefit; otherwise, intervention is generally not indicated. This is also beneficial in sorting out the significance of left main lesions.
+- **5.** The **instantaneous wave‐free ratio fractional flow reserve (iFR)** is a non‐hyperemic pressure‐based index of stenosis severity. It uses the wave‐free period of diastole to measure the physiologic impact of the stenosis on the distal coronary bed. Although conceptually more complex, an iFR ≤0.89 is considered functionally significant, has excellent correlation with an FFR ≤0.8, and provides a comparable outcome in guiding PCI.
 
 ![](_page_23_Picture_2.jpeg)
 
 **Figure 2.18 •** Intravascular ultrasound (IVUS) study of the left main coronary artery. A 2 Fr echo probe is introduced into the vessel, producing images of the lumen and the surrounding vessel wall. This allows for the calculation of a minimal luminal area (MLA). In this case, the MLA was <4 mm2, consistent with severe left main stenosis.
 
-- **6.** An FFR‐guided approach to surgical revascularization is uncommon. However, studies have shown that this approach results in less grafting, a higher graft patency rate, a lower rate of angina, and a significant reduction in myocardial infarction and mortality out to six years. Such information could be helpful in deciding which patients should undergo surgery and, in fact, which vessels need to be bypassed.48–50
+- **6.** An FFR‐guided approach to surgical revascularization is uncommon. However, studies have shown that this approach results in less grafting, a higher graft patency rate, a lower rate of angina, and a significant reduction in myocardial infarction and mortality out to six years. Such information could be helpful in deciding which patients should undergo surgery and, in fact, which vessels need to be bypassed.
 - **7.** Occluded vessels that are underfilled via collateral flow may represent large vessels that are good surgical targets (but not always). Symptomatic patients with viable myocardium subtended by occluded vessels may benefit from PCI of the chronically occluded vessel or from CABG.
 
 #### **D. Important indications for coronary angiography include:**
@@ -284,16 +338,22 @@ larger segment may not reflect normal vessel diameter if the entire vessel is di
 
 - **E.** Coronary angiography is preferably performed through a transradial approach, which avoids the risk of a groin hematoma, or even worse a retroperitoneal hematoma. Bleeding complications are more likely to occur in patients undergoing PCI, since they should receive aspirin and a P2Y12 inhibitor prior to the procedure, might also receive a glycoprotein IIb/IIIa inhibitor, and may also receive heparin or bivalirudin during the procedure in the cath lab. Patients with critical left main disease may not tolerate catheter manipulation in the coronary ostium, and are more prone to develop a myocardial infarction, arrhythmias, hemodynamic compromise, or death. However, outcomes after catheterization are usually related to the patient's clinical status and preexisting comorbidities, especially renal dysfunction.
   - **1.** Patients taking metformin for diabetes should withhold this medication starting the day before their catheterization.
-  - **2.** The efficacy of numerous medications to reduce the risk of contrast‐induced acute kidney injury (AKI) has not been consistently demonstrated. Thus, most protocols involve hydration prior to, during, and following catheterization to dilute contrast in the kidneys. However, excessive hydration can contribute to heart failure and venous hypertension, which can prove deleterious to renal function as well.51–53 Using hemodynamically‐guided hydration, based on either the central venous pressure54 or LVEDP55, has been shown to reduce the risk of contrast‐induced AKI, and is especially important in patients with HF and chronic kidney disease. A commonly used protocol from the POSEIDON study55 involves giving fluid before, during, and after the procedure as follows:
+  - **2.** The efficacy of numerous medications to reduce the risk of contrast‐induced acute kidney injury (AKI) has not been consistently demonstrated. Thus, most protocols involve hydration prior to, during, and following catheterization to dilute contrast in the kidneys. However, excessive hydration can contribute to heart failure and venous hypertension, which can prove deleterious to renal function as well. Using hemodynamically‐guided hydration, based on either the central venous pressure or LVEDP, has been shown to reduce the risk of contrast‐induced AKI, and is especially important in patients with HF and chronic kidney disease. A commonly used protocol from the POSEIDON study involves giving fluid before, during, and after the procedure as follows:
     - ∙ Pre‐procedure: 3.5 mL/kg/h × 4 h
     - ∙ 5 mL/kg/h for LVEDP <13 mm Hg
     - ∙ 3 mL/kg/h for LVEDP of 13–18 mm Hg
     - ∙ 1.5 mL/kg/h for LVEDP >18 mm Hg
     - ∙ Post‐procedure: 1.5 mL/kg/h for 1 h
+</div>
+</details>
 
-# **VII. Echocardiography**
 
-- **A.** Echocardiography provides real‐time two‐ and three‐dimensional (2D and 3D) imaging of the thoracic aorta and cardiac structures. It is an invaluable noninvasive means of evaluating RV and LV size and function, with use of color, continuous wave, and pulsed Doppler recordings to assess valve function before, during, and after surgery.56 Although adequate information can be ascertained from a transthoracic study in the preoperative patient (Figures 2.19 and 2.20), transesophageal echocardiography (TEE) provides superior imaging because of the proximity of the probe to the heart. Both 2D and 3D imaging are extremely helpful in assessing the nature of mitral valve pathology and the results of surgical or percutaneous mitral valve repair. A further discussion of TEE with images of the most important views in the surgical patient is presented in Chapter 4.
+
+<details class="med-details">
+<summary>VIIEchocardiography</summary>
+<div class="details-content">
+
+- **A.** Echocardiography provides real‐time two‐ and three‐dimensional (2D and 3D) imaging of the thoracic aorta and cardiac structures. It is an invaluable noninvasive means of evaluating RV and LV size and function, with use of color, continuous wave, and pulsed Doppler recordings to assess valve function before, during, and after surgery. Although adequate information can be ascertained from a transthoracic study in the preoperative patient (Figures 2.19 and 2.20), transesophageal echocardiography (TEE) provides superior imaging because of the proximity of the probe to the heart. Both 2D and 3D imaging are extremely helpful in assessing the nature of mitral valve pathology and the results of surgical or percutaneous mitral valve repair. A further discussion of TEE with images of the most important views in the surgical patient is presented in Chapter 4.
 - **B.** TEE is very important in the preoperative evaluation of MR because it provides an assessment of the nature and degree of MR, which may be different from an intraoperative evaluation due to altered loading conditions. Two‐dimensional imaging will delineate the presence of leaflet prolapse, torn chords, a ruptured papillary muscle, and/or annular dilatation (Figure 2.21–2.24). Color flow analysis can
 
 ![](_page_25_Figure_0.jpeg)
@@ -318,7 +378,7 @@ larger segment may not reflect normal vessel diameter if the entire vessel is di
 
 **Figure 2.23 •** (A) Flail posterior leaflet from ruptured chordae. (B) Color flow Doppler showing an anteriorly directed jet with 4+ MR. (C) 3D image of P2 prolapse.
 
-provide an estimate of the degree of regurgitant flow, and the nature of the pathology (eccentric jets from leaflet prolapse or tethering, or a central jet from annular dilatation). Several methodologies can be used to calculate the regurgitant fraction, the regurgitant volume, and the effective orifice area of the valve, which are often necessary to confirm the severity of MR (see page 47 in Chapter 1).57 Three‐ dimensional imaging is very helpful in identifying the location of pathology, especially prior to MitraClip procedures.58,59
+provide an estimate of the degree of regurgitant flow, and the nature of the pathology (eccentric jets from leaflet prolapse or tethering, or a central jet from annular dilatation). Several methodologies can be used to calculate the regurgitant fraction, the regurgitant volume, and the effective orifice area of the valve, which are often necessary to confirm the severity of MR. Three‐ dimensional imaging is very helpful in identifying the location of pathology, especially prior to MitraClip procedures.
 
 ![](_page_28_Figure_2.jpeg)
 
@@ -328,8 +388,8 @@ provide an estimate of the degree of regurgitant flow, and the nature of the pat
 - **2.** Although most patients with suspected dissections undergo a CT scan with contrast as the initial imaging modality, TEE has very high sensitivity and specificity in identifying dissections, noting the intimal flap and its origin, potential differential flow in the true and false lumens, the degree of AR, and the presence of a pericardial effusion. The study is usually performed intraoperatively but may be performed preoperatively in indeterminate cases (Figure 2.27).
 - **3.** TEE is usually the best technique to identify the location and site of attachment of a cardiac tumor (Figures 2.28 and 2.29).
 - **4.** TEE is invaluable in identifying pericardial effusions and tamponade when transthoracic imaging is not adequate.
-- **C.** DSE can be used to identify ischemia and myocardial viability and to determine contractile reserve and the severity of AS in patients with low‐flow, low‐gradient AS, primarily with decreased LV function (stage D2) and occasionally with normal LV function (stage D3).16,29,30
-- **D.** A summary of information that can be derived from preoperative and postoperative echocardiography is noted in Tables 2.3 and 2.4. The utility of TEE in the operating room is noted in Table 4.1 (page 225).
+- **C.** DSE can be used to identify ischemia and myocardial viability and to determine contractile reserve and the severity of AS in patients with low‐flow, low‐gradient AS, primarily with decreased LV function (stage D2) and occasionally with normal LV function (stage D3).
+- **D.** A summary of information that can be derived from preoperative and postoperative echocardiography is noted in Tables 2.3 and 2.4. The utility of TEE in the operating room is noted in Table 4.1 .
 
 ![](_page_29_Figure_0.jpeg)
 
@@ -355,40 +415,93 @@ provide an estimate of the degree of regurgitant flow, and the nature of the pat
 
 **Figure 2.29 •** Transesophageal echocardiogram demonstrating a small mobile mass attached to the aortic valve in a patient who presented with a stroke. This was a papillary fibroelastoma attached to the noncoronary cusp of the aortic valve.
 
-| Table 2.3<br>•<br>Information Obtained from Preoperative Echocardiography |                                                                                                                                                                                                                                 |  |  |  |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
-| All patients                                                              | Global and regional wall motion abnormalities<br>Signs of diastolic dysfunction<br>Valve function<br>Aortic atherosclerosis<br>Pericardial fluid and thickening<br>Presence of an intracardiac shunt                            |  |  |  |
-| Coronary artery<br>disease                                                | Global and regional wall motion abnormalities<br>Signs of diastolic dysfunction<br>Left ventricular mural thrombus<br>Presence of mitral regurgitation<br>Stress imaging for ischemic zones                                     |  |  |  |
-| Aortic stenosis                                                           | Gradient calculation from flow velocity<br>Planimetry of valve area<br>Annular diameter (root enlargement, selection of homograft size)<br>Stress imaging if low‐flow/low‐gradient stenosis<br>Presence of mitral regurgitation |  |  |  |
-| Aortic regurgitation                                                      | Severity of regurgitation<br>Annular diameter (selection of homograft size)                                                                                                                                                     |  |  |  |
-| Ascending aortic<br>aneurysm                                              | Size of sinuses, ascending aorta and proximal arch                                                                                                                                                                              |  |  |  |
-| Aortic dissection                                                         | Location of intimal flap<br>Detection of aortic regurgitation<br>Presence of pericardial effusion                                                                                                                               |  |  |  |
-| Mitral stenosis                                                           | Size of left atrium<br>Mean diastolic gradient<br>Planimetry of valve area<br>Presence of left atrial thrombus                                                                                                                  |  |  |  |
-| Mitral regurgitation                                                      | Size of left atrium<br>Severity of regurgitation<br>Nature of pathology (annular dilatation, anterior or posterior leaflet<br>prolapse, elongated or torn chords, papillary muscle rupture)                                     |  |  |  |
-| Tricuspid valve<br>disease                                                | Calculation of pulmonary artery pressure from tricuspid<br>regurgitation jet velocity (4v2)<br>Gradient (stenosis) or severity of regurgitation                                                                                 |  |  |  |
-| Endocarditis                                                              | Vegetations<br>Annular abscesses<br>Valvular regurgitation                                                                                                                                                                      |  |  |  |
-| Cardiac masses                                                            | Location and relationship of tumors, thrombus, and vegetations to<br>cardiac structures                                                                                                                                         |  |  |  |
-| Pericardial<br>tamponade                                                  | Diastolic collapse of atrial or ventricular chambers<br>Location of fluid around heart                                                                                                                                          |  |  |  |
+**Table 2.3. Information Obtained from Preoperative Echocardiography** 
 
-| Table 2.4<br>•<br>Indications for Postoperative Echocardiography    |                                                                                                                                                                                                         |  |  |
-|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Low output states                                                   | LV or RV systolic dysfunction<br>LV diastolic dysfunction<br>Cardiac tamponade<br>Hypovolemia                                                                                                           |  |  |
-| New/persistent murmur (recurrent<br>congestive heart failure)       | Paravalvular leak<br>Inadequate valve repair<br>Outflow tract gradient from small valve or systolic<br>anterior motion (SAM) of anterior mitral<br>valve leaflet<br>Recurrent ventricular septal defect |  |  |
-| Evaluation of ventricular recovery<br>after assist device insertion | LV or RV systolic function                                                                                                                                                                              |  |  |
+| **Clinical setting** | **Echocardiographic information** |  |
+  |-----------------------------------------------------------------------|--|--|
+| **All patients** | • Global and regional wall motion abnormalities  
+| | • Signs of diastolic dysfunction  
+| | • Valve function  
+| | • Aortic atherosclerosis  
+| | • Pericardial fluid and thickening  
+| | • Presence of an intracardiac shunt |
+| **Coronary artery disease** | • Global and regional wall motion abnormalities  
+| | • Signs of diastolic dysfunction  
+| | • Left ventricular mural thrombus  
+| | • Presence of mitral regurgitation  
+| | • Stress imaging for ischemic zones |
+| **Aortic stenosis** | • Gradient calculation from flow velocity  
+| | • Planimetry of valve area  
+| | • Annular diameter (root enlargement, selection of homograft size)  
+| | • Stress imaging if low-flow / low-gradient stenosis  
+| | • Presence of mitral regurgitation |
+| **Aortic regurgitation** | • Severity of regurgitation  
+| | • Annular diameter (selection of homograft size) |
+| **Ascending aortic aneurysm** | • Size of sinuses  
+| | • Ascending aorta  
+| | • Proximal aortic arch |
+| **Aortic dissection** | • Location of intimal flap  
+| | • Detection of aortic regurgitation  
+| | • Presence of pericardial effusion |
+| **Mitral stenosis** | • Size of left atrium  
+| | • Mean diastolic gradient  
+| | • Planimetry of valve area  
+| | • Presence of left atrial thrombus |
+| **Mitral regurgitation** | • Size of left atrium  
+| | • Severity of regurgitation  
+| | • Nature of pathology:  
+| |   – Annular dilatation  
+| |   – Anterior or posterior leaflet prolapse  
+| |   – Elongated or torn chordae  
+| |   – Papillary muscle rupture |
+| **Tricuspid valve disease** | • Calculation of pulmonary artery pressure from tricuspid regurgitation jet velocity (4v²)  
+| | • Gradient (stenosis) or severity of regurgitation |
+| **Endocarditis** | • Vegetations  
+| | • Annular abscesses  
+| | • Valvular regurgitation |
+| **Cardiac masses** | • Location of tumors, thrombus, or vegetations  
+| | • Relationship to cardiac structures |
+| **Pericardial tamponade** | • Diastolic collapse of atrial or ventricular chambers  
+| | • Location of pericardial fluid |
 
-# **VIII. Noninvasive Coronary Angiography**
+**Table 2.4. Indications for Postoperative Echocardiography** 
+| **Clinical indication** | **Echocardiographic findings to assess** |  |
+|--------------------------------------------------------------|--|--|
+  | **Low output states** | • LV systolic dysfunction  
+| | • RV systolic dysfunction  
+| | • LV diastolic dysfunction  
+| | • Cardiac tamponade  
+| | • Hypovolemia |
+| **New or persistent murmur**  
+| *(recurrent congestive heart failure)* | • Paravalvular leak  
+| | • Inadequate valve repair  
+| | • Outflow tract gradient due to:  
+| |   – Prosthesis–patient mismatch (small valve)  
+| |   – Systolic anterior motion (SAM) of the anterior mitral leaflet  
+| | • Recurrent ventricular septal defect |
+| **Evaluation of ventricular recovery after assist device insertion** | • LV systolic function  
+| | • RV systolic function |
+
+</div>
+</details>
+
+
+
+<details class="med-details">
+<summary>VIIINoninvasive Coronary Angiography</summary>
+<div class="details-content">
 
 - **A.** Technological advances in noninvasive imaging have led to the use of CT and MRI scanning for the evaluation of coronary anatomy. The temporal and spatial resolution is quite good in evaluating the proximal coronary arteries, although there are limitations to each modality. They are generally recommended for patients with equivocal stress tests, intermediate coronary risk, or atypical symptoms, but not as a screening tool in asymptomatic patients or for patients with typical symptoms that may warrant PCI or CABG.
-- **B. Multidetector row or multislice CT scanning** (MDCT or MSCT) that can acquire at least 64 slices per gantry rotation (and preferably 256 or 320 slices) provides adequate imaging of arteries with little motion artifact when the heart rate is slowed to less than 70 bpm with β‐blockers.60–62
-  - **1.** Coronary CT angiography (CCTA) provides excellent imaging of native coronary arteries and bypass grafts with a sensitivity and specificity of about 80–90% (Figure 2.30).63,64 It is able to detect clinically significant lesions (>50% stenosis) quite accurately. It does require contrast and radiation and produces suboptimal imaging with an irregular heart rhythm, severe coronary calcification or the presence of stents, or very small vessels <1.5 mm in size. Although stents do interfere with imaging, CCTA is quite accurate in assessing in‐stent stenosis.64 It is contraindicated in patients with renal dysfunction or an allergy to contrast.
+- **B. Multidetector row or multislice CT scanning** (MDCT or MSCT) that can acquire at least 64 slices per gantry rotation (and preferably 256 or 320 slices) provides adequate imaging of arteries with little motion artifact when the heart rate is slowed to less than 70 bpm with β‐blockers.
+  - **1.** Coronary CT angiography (CCTA) provides excellent imaging of native coronary arteries and bypass grafts with a sensitivity and specificity of about 80–90% (Figure 2.30). It is able to detect clinically significant lesions (>50% stenosis) quite accurately. It does require contrast and radiation and produces suboptimal imaging with an irregular heart rhythm, severe coronary calcification or the presence of stents, or very small vessels <1.5 mm in size. Although stents do interfere with imaging, CCTA is quite accurate in assessing in‐stent stenosis. It is contraindicated in patients with renal dysfunction or an allergy to contrast.
   - **2.** CCTA is also beneficial in identifying the proximal course of the coronary arteries near the great vessels in patients with coronary anomalies. However, since this is usually a concern in younger patients, cardiac MRI is preferable to avoid radiation.
-  - **3.** The ability to assess physiologic significance simultaneously with anatomic findings can be achieved using combined technologies. CCTA combined with SPECT MPI has improved the accuracy of CCTA.65 FFR derived from CCTA using special software is very accurate in detecting hemodynamically significant lesions in patients with multivessel disease, and was found to be superior to standard CTA, SPECT, or PET scanning in doing so.66–69
+  - **3.** The ability to assess physiologic significance simultaneously with anatomic findings can be achieved using combined technologies. CCTA combined with SPECT MPI has improved the accuracy of CCTA. FFR derived from CCTA using special software is very accurate in detecting hemodynamically significant lesions in patients with multivessel disease, and was found to be superior to standard CTA, SPECT, or PET scanning in doing so.
 
 ![](_page_34_Figure_1.jpeg)
 
-**Figure 2.30 •** (A) Coronary CT angiogram (CCTA) obtained on the Toshiba Aquilion scanner. This patient with prior surgery had a patent LITA to the LAD and a patent saphenous vein graft (SVG) to the right coronary artery (RCA). A nubbin of occluded SVG is noted on the aorta. (B) Native coronary arteries can be evaluated more extensively in one view using multiplanar reconstruction. Here, the LAD has diffuse calcific disease. (C) Tight stenosis of the LAD on CCTA. (D) Corresponding stenosis noted on invasive coronary angiography. Adapted with permission from Cury, et al. *J Am Coll Cardiol Img* 2016;9:1099-113 (C & D).70
+**Figure 2.30 •** (A) Coronary CT angiogram (CCTA) obtained on the Toshiba Aquilion scanner. This patient with prior surgery had a patent LITA to the LAD and a patent saphenous vein graft (SVG) to the right coronary artery (RCA). A nubbin of occluded SVG is noted on the aorta. (B) Native coronary arteries can be evaluated more extensively in one view using multiplanar reconstruction. Here, the LAD has diffuse calcific disease. (C) Tight stenosis of the LAD on CCTA. (D) Corresponding stenosis noted on invasive coronary angiography. Adapted with permission from Cury, et al. *J Am Coll Cardiol Img* 2016;9:1099-113 (C & D).
 
-**C. Cardiovascular magnetic resonance (CMR) imaging** is able to visualize the proximal portions of coronary arteries, but it is not quite as sensitive and specific as CCTA and therefore is not recommended for the routine identification of coronary disease (Figure 2.31A and B).71,72
+**C. Cardiovascular magnetic resonance (CMR) imaging** is able to visualize the proximal portions of coronary arteries, but it is not quite as sensitive and specific as CCTA and therefore is not recommended for the routine identification of coronary disease (Figure 2.31A and B).
 
 - **1.** The advantages of CMR are the lack of irradiation or contrast, less interference from coronary calcification, and less motion artifact at higher heart rates. However, suboptimal images will be obtained in patients with stents, arrhythmias, or irregular breathing patterns.
 - **2.** The primary indications for CMR imaging in the assessment of CAD are:
@@ -399,18 +512,24 @@ provide an estimate of the degree of regurgitant flow, and the nature of the pat
 **Figure 2.31 •** Cardiovascular magnetic resonance (CMR) images showing (A) the origin of the right and left coronary arteries in a transverse image at the base of the aorta. (B) The anterior course of the right coronary artery on a sagittal image. (C) An anomalous right coronary artery arising from the left main artery and coursing between the aorta and pulmonary artery. (Image courtesy of AD Elster, ELSTER LLC. (A), Siemens Medical Solutions USA, Inc., (B), Public Domain (C).)
 
 - **b.** Coronary aneurysms
-- **c.** Saphenous vein graft stenosis or internal thoracic artery graft stenosis. CMR has a sensitivity and specificity >90% in identifying significant lesions.72 However, if the patient is symptomatic and may require an intervention, CMR is usually not indicated unless the graft cannot be selectively cannulated by routine angiography. CMR and CCTA have similar accuracy in assessing bypass grafts.
+- **c.** Saphenous vein graft stenosis or internal thoracic artery graft stenosis. CMR has a sensitivity and specificity >90% in identifying significant lesions. However, if the patient is symptomatic and may require an intervention, CMR is usually not indicated unless the graft cannot be selectively cannulated by routine angiography. CMR and CCTA have similar accuracy in assessing bypass grafts.
 - **3.** CMR can provide important information about myocardial flow and function, and thus is preferentially used for the functional assessment of coronary disease (see section IX).
-- **4.** Newer pacemakers and ICDs are considered MRI‐conditional and allow for performance of MRI scans. Older systems, termed "legacy devices", initially considered to contraindicate performance of an MRI, have been shown to be MRI safe using a field strength of up to 1.5 tesla.73
+- **4.** Newer pacemakers and ICDs are considered MRI‐conditional and allow for performance of MRI scans. Older systems, termed "legacy devices", initially considered to contraindicate performance of an MRI, have been shown to be MRI safe using a field strength of up to 1.5 tesla.
 
-# **IX. Evaluation of Aortic and Cardiac Disease by CT and MR Scanning**
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>IXEvaluation of Aortic and Cardiac Disease by CT and MR Scanning</summary>
+<div class="details-content">
 
 - **A. Computerized tomography (CT) scanning** is used primarily for the evaluation of aortic disease, but it has several other potential uses in identifying chest pathology in addition to CCTA. Sixty‐four or greater slice CT angiography with color volume‐rendered multiplanar reformation provides excellent angiographic images. Indications include:
   - **1.** Identification of an aortic dissection in a patient with a typical or atypical presentation (Figures 2.32–2.34). This requires a CT scan with contrast and can also simultaneously rule out a pulmonary embolism with appropriate gating. CT scans can also be used for postoperative follow‐up to identify distal aneurysmal disease.
 
 #### **2.** Assessment of aortic size
 
-- **a.** A contrast CT scan with 3D reconstruction can provide transverse, sagittal, and coronal cuts as well as a rotational 3D image (Figure 2.35). These can provide an exact measurement of aortic diameter, since an obliquely coursing structure (such as a tortuous or ectatic segment of aorta) will give a spuriously increased measurement on transverse cuts which will not reflect the true diameter of the aorta. Software programs can provide centerline analysis to overcome these shortcomings. They are usually applied to patients with descending thoracic aneurysms in anticipation of endografting.74 However, centerline analysis has also been used in models to predict the risk of aortic dissection.75 The volume‐rendered image often gives a better assessment of the distal extent of the aneurysm and is helpful in deciding whether the distal anastomosis will need to be sewn using circulatory arrest. If the aneurysm tapers proximal to the arch, it may be possible to sew a distal anastomosis with a cross‐clamp in place.
+- **a.** A contrast CT scan with 3D reconstruction can provide transverse, sagittal, and coronal cuts as well as a rotational 3D image (Figure 2.35). These can provide an exact measurement of aortic diameter, since an obliquely coursing structure (such as a tortuous or ectatic segment of aorta) will give a spuriously increased measurement on transverse cuts which will not reflect the true diameter of the aorta. Software programs can provide centerline analysis to overcome these shortcomings. They are usually applied to patients with descending thoracic aneurysms in anticipation of endografting. However, centerline analysis has also been used in models to predict the risk of aortic dissection. The volume‐rendered image often gives a better assessment of the distal extent of the aneurysm and is helpful in deciding whether the distal anastomosis will need to be sewn using circulatory arrest. If the aneurysm tapers proximal to the arch, it may be possible to sew a distal anastomosis with a cross‐clamp in place.
 - **b.** Descending thoracic aneurysms (Figure 2.36). The proximal and distal extent of the aneurysm and vessel tortuosity are important elements in devising a strategy for thoracic endografting (TEVAR).
 
 ![](_page_37_Figure_2.jpeg)
@@ -418,7 +537,7 @@ provide an estimate of the degree of regurgitant flow, and the nature of the pat
 **Figure 2.32 •** CT scan with contrast demonstrating a type A aortic dissection visualized in (A) coronal, (B) sagittal, and (C) transverse cuts across the arch and (D) at the mid‐heart level. Note the intimal flap separating the true lumen (TL) and false lumen (FL), with opacification of the TL, which is significantly compressed by the FL as the dissection extends into the descending aorta.
 
 - **3.** Evaluation of ascending aortic calcification suggested by chest x‐ray or fluoroscopy (see Figure 2.10). This should be done without contrast.
-- **4.** Location of the RV, aorta, saphenous vein grafts, or ITA graft relative to the sternum in the planning of re‐operative surgery.76 This is also applicable to patients undergoing minimally invasive surgery to select the proper incision site and is useful for transaortic TAVR planning as well.
+- **4.** Location of the RV, aorta, saphenous vein grafts, or ITA graft relative to the sternum in the planning of re‐operative surgery. This is also applicable to patients undergoing minimally invasive surgery to select the proper incision site and is useful for transaortic TAVR planning as well.
 
 ![](_page_38_Picture_2.jpeg)
 
@@ -452,10 +571,10 @@ provide an estimate of the degree of regurgitant flow, and the nature of the pat
 **Figure 2.38 •** A retroperitoneal bleed identified on a CT scan in (A) abdominal and (B) pelvic images following a transfemoral catheterization.
 
 - **9.** Identification of pulmonary or mediastinal abnormalities noted on preoperative chest x‐ray. Obtaining a baseline CT scan prior to cardiac surgery eliminates the potential distortion of pulmonary pathology by postoperative changes.
-- **B. Cardiovascular magnetic resonance (CMR) imaging** is useful in the identification of ischemic and nonischemic myocardial disease, imaging of the aorta and its branches, analyzing congenital heart disease, and providing images of coronary arteries and bypass grafts.77–81
+- **B. Cardiovascular magnetic resonance (CMR) imaging** is useful in the identification of ischemic and nonischemic myocardial disease, imaging of the aorta and its branches, analyzing congenital heart disease, and providing images of coronary arteries and bypass grafts.
   - **1.** CMR can be performed in patients with coronary stents (fields <3 tesla), current‐generation mechanical prosthetic heart valves (note that most bileaflet valves are composed of carbon and silicone and not metal), and retained epicardial pacing wires.82,83 It is safe for patients with legacy pacemakers and defibrillators using a field <1.5 tesla.73
   - **2.** The major advantage of MRI is the avoidance of radiation, and therefore it is preferable in the young patient. Contraindications to MRI are noted on multiple websites under a search for this topic.
-  - **3.** Pharmacologic stress CMR with dobutamine or coronary vasodilators can identify areas of myocardial ischemia and may be more sensitive than DSE in detecting coronary disease and predicting functional recovery after revascularization.84,85 Myocardial viability may be evaluated using gadolinium (to distinguish viable from infarcted myocardium) or dobutamine (systolic wall thickening >2 mm being predictive of functional recovery).
+  - **3.** Pharmacologic stress CMR with dobutamine or coronary vasodilators can identify areas of myocardial ischemia and may be more sensitive than DSE in detecting coronary disease and predicting functional recovery after revascularization. Myocardial viability may be evaluated using gadolinium (to distinguish viable from infarcted myocardium) or dobutamine (systolic wall thickening >2 mm being predictive of functional recovery).
   - **4.** CMR is the most sensitive and specific test for detection of an aortic dissection (Figure 2.39). It can demonstrate differential flow velocities in the true and
 
 ![](_page_42_Picture_7.jpeg)
@@ -464,12 +583,12 @@ provide an estimate of the degree of regurgitant flow, and the nature of the pat
 
 false channels and can identify branch artery compromise. However, it generally cannot be performed in the unstable patient requiring careful monitoring and often IV infusions. However, it should be considered when the clinical suspicion of a dissection is very high, yet other tests have been inconclusive. Most commonly, it is used in the follow‐up of patients who have had repair of an aortic dissection to assess the status of the false channel or distal aneurysmal expansion.
 
-- **5.** Late gadolinium enhancement (LGE) identifies areas of focal myocardial fibrosis and infarction and thus can be used to assess for viability and the likelihood of improvement in contractility after revascularization. Greater degrees of LGE correlate with a higher risk of sudden death in patients with hypertrophic cardiomyopathy (HCM).27 CMR can identify variations in the pathology within the LV in patients with HOCM. It is very useful in identifying other types of nonischemic cardiomyopathies (Figure 2.40).
+- **5.** Late gadolinium enhancement (LGE) identifies areas of focal myocardial fibrosis and infarction and thus can be used to assess for viability and the likelihood of improvement in contractility after revascularization. Greater degrees of LGE correlate with a higher risk of sudden death in patients with hypertrophic cardiomyopathy (HCM). CMR can identify variations in the pathology within the LV in patients with HOCM. It is very useful in identifying other types of nonischemic cardiomyopathies (Figure 2.40).
 - **6.** Aortic and cerebrovascular diseases can be defined by magnetic resonance angiography (MRA) using time‐of‐flight (TOF) MRA and gadolinium‐ enhanced MRA (Figure 2.41). Spin‐echo and cine steady‐state free precession (SSFP) CMR can also be used to provide excellent 3D images of aortic disease, including true and false aneurysms and periaortic abscesses or perigraft fluid collections.
 
 ![](_page_43_Figure_5.jpeg)
 
-**Figure 2.40 •** The various patterns of late gadolinium enhancement (LGE) seen with different types of cardiomyopathies. Typical patterns include transmural, subendocardial (regional and global), epicardial, and midwall LGE. These may differentiate between ischemic (subendocardial and transmural) and nonischemic cardiomyopathies, HOCM, myocarditis, sarcoidosis, and amyloidosis. (Image courtesy of Silva Marques et al., *Heart* 2015;101:565–72.)
+**Figure 2.40 •** The various patterns of late gadolinium enhancement (LGE) seen with different types of cardiomyopathies. Typical patterns include transmural, subendocardial (regional and global), epicardial, and midwall LGE. These may differentiate between ischemic (subendocardial and transmural) and nonischemic cardiomyopathies, HOCM, myocarditis, sarcoidosis, and amyloidosis. 
 
 ![](_page_44_Picture_2.jpeg)
 
@@ -477,3 +596,6 @@ false channels and can identify branch artery compromise. However, it generally 
 
 - **7.** Cine CMR allows for differentiation of blood (bright images) from cardiac tissue (dark images). It is useful in the assessment of ventricular function, valvular pathology, and intracardiac masses (see Figure 2.28C).
 - **8.** CMR is useful in the assessment of pericarditis or tumor invasion into the pericardium. It can differentiate restrictive from constrictive pathology.
+</div>
+</details>
+
