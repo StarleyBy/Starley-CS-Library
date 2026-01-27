@@ -783,3 +783,11 @@
     opacity: 0.5;
     cursor: not-allowed;
 }
+
+/* Или зеленый "мягкий" вариант */
+.CodeMirror .cm-number-highlight {
+    background-color: rgba(76, 175, 80, 0.2);
+    color: #4caf50;
+    font-weight: 500;
+    box-shadow: 0 0 4px rgba(76, 175, 80, 0.4);
+}
