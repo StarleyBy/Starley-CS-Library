@@ -5,7 +5,8 @@
       "title": "Intensive therapy",
       "path": "books/icu",
       "books": [
-        { "folder": "bojar" }
+        { "folder": "bojar" },
+        { "folder": "marino" }
       ]
     },
     {

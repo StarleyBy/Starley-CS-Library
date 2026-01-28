@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chapter 1
 
 # **Vascular Access Primer**
@@ -339,3 +340,6 @@ One of the rarest sights in any ICU is a patient with no intravenous access. Whi
 - <span id="page-19-24"></span>22. Tyler JA, Perkins Z, DéAth HD. Intraosseous access in the resuscitation of trauma patients: a literature review. Eur J Trauma Emerg Surg 2021; 47:47–55.
 - <span id="page-19-22"></span>23. Perron CE. Intraosseous infusion. UpToDate ([www.uptodate.com](http://www.uptodate.com)). Accessed 6/21/2022.
 - <span id="page-19-23"></span>24. Tsao CW, Aday AW, Almarzoog ZI, et al. Heart disease and stroke statistics – 2022 update: A report from the American
+=======
+ddf
+>>>>>>> 16f397153a1f7e234859d4c5fd6942b1ec87cff1

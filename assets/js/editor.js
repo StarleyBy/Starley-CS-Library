@@ -315,6 +315,32 @@ function initPreview() {
         autoCloseTags: true
     });
     
+    // ========== ПОДСВЕТКА ЦИФР ==========
+    CodeMirror.defineMode("highlightNumbers", function(config, parserConfig) {
+        return {
+            token: function(stream) {
+                // Если символ - цифра
+                if (stream.match(/\d+/)) {
+                    return "number-highlight"; // CSS класс для подсветки
+                }
+                // Иначе пропускаем символ
+                stream.next();
+                return null;
+            }
+        };
+    });
+    
+    // Накладываем overlay mode поверх htmlmixed
+    editor.addOverlay({
+        token: function(stream) {
+            if (stream.match(/\d+/)) {
+                return "number-highlight";
+            }
+            stream.next();
+            return null;
+        }
+    });
+    
     editor.on('change', function() {
         updatePreview();
     });

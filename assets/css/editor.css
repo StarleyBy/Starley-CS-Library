@@ -783,3 +783,12 @@
     opacity: 0.5;
     cursor: not-allowed;
 }
+
+/* Подсветка цифр в редакторе */
+.CodeMirror .cm-number-highlight {
+    background-color: rgba(255, 255, 0, 0.3); /* Желтый фон */
+    color: #ffeb3b; /* Яркий желтый текст */
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 0 2px;
+}
