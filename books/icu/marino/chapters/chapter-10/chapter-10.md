@@ -1,0 +1,358 @@
+# Chapter 10
+
+# **Intravenous Fluids**
+
+*The secret of science is to ask the right question …*
+
+Sir Henry Tizard (*[a](#page-16-0)*)
+
+The first intravenous fluid was a mixture of opium, wine and beer, which was infused through a goose quill into the vein of a dog. The year was 1656, and the infusion was carried out by a wellknown London architect named Christopher Wren (the designer of St. Paul's Cathedral in London). The dog's response to the infusion was stated as follows: *"It made him extremely drunk, but soon after he Pisseth it out"* [\(1](#page-16-1)). This rather comical report received little attention, as the dominant approach to illness in the 17th and 18th centuries involved the *removal* of fluid by bloodletting and the use of purgatives. The therapeutic benefit of intravenous fluids was first recognized during the cholera epidemic in the early 19th century, when the infusion of sodium chloride solutions had some success in improving outcomes [\(2](#page-16-2)). Thereafter, intravenous fluids gained in popularity for the rehydration of patients with gastroenteritis, but it wasn't until the 1940s, with the advent of blood fractionation and the violence of World War II, that intravenous fluid therapy emerged as a staple of circulatory resuscitation.
+
+Simply stated, the care of critically ill patients would not be possible without the use of asanguinous intravenous fluids, which are classified as crystalloid or colloid fluids based on their tendency to pass through capillary walls. This chapter describes the salient features of these fluids, both individually and as a group.
+
+# **SOME BASICS**
+
+# **Body Water Distribution**
+
+The distribution of fluid in the adult human body is summarized in the following statements.
+
+- 1. Total body water (TBW) accounts for about 60% of the lean body weight (600 mL/kg) in adult males, and 50% of the lean body weight (500 mL/kg) in adult females.
+- 2. About two-thirds (≈65 %) of the TBW is located intracellularly, and the remaining one-third (≈35%) is in the extracellular fluid compartment.
+
+3. Plasma represents only one-fifth (20%) of the extracellular fluid, and the remaining 80% is located in the interstitial space (discounting the small volumes allotted to cerebrospinal fluid and pleural fluid).
+
+The above information is included in [Table](#page-1-0) 10.1, along with representative body fluid volumes for an average-sized adult male and female. Note the small volume of plasma, which represents only 6−7% of the total body fluid. This is relevant because the goal of intravenous fluid therapy is to support the plasma volume.
+
+<span id="page-1-0"></span>
+
+| TABLE<br>10.1        | Body<br>Fluid<br>Volumes<br>in<br>Adults |        |        |  |
+|----------------------|------------------------------------------|--------|--------|--|
+| Parameter            | Derivation                               | Male   | Female |  |
+| Lean Body Weight     |                                          | 75 kg* | 60 kg* |  |
+| Total Body Water     | 0.6 x LBW (M)<br>0.5 x LBW (F)           | 45 L   | 30 L   |  |
+| Intracellular Volume | 0.65 x TBW                               | 29 L   | 20 L   |  |
+| Extacellular Volume  | 0.35 x TBW                               | 16 L   | 10 L   |  |
+| Interstitial Volume  | 0.8 x ECV                                | 13 L   | 8 L    |  |
+| Plasma Volume        | 0.2 x ECV                                | 3 L    | 2 L    |  |
+
+<sup>\*</sup> Representative weight for an average-sized adult. LBW = lean body weight, TBW = total body water, ECV = extracellular volume.
+
+#### **Osmotic Forces**
+
+(*Note:* For a more detailed description of this topic, see the first section of Chapter 35.)
+
+The distribution of water in the intracellular and extracellular fluid compartments is determined by the relative osmotic activity in each compartment; i.e., the compartment with the higher osmotic activity will draw water from the one with the lower osmotic activity. (Relative osmotic activity is often expressed as *tonicity*.) Osmotic activity is determined by the number of solute particles in a solution, and not by the size, electrical charge, or chemical behavior of the solutes. *Sodium is the most abundant solute in the extracellular fluid, and is thus the principal determinant of extracellular fluid volume*. Osmotic activity can be expressed as *osmolarity* (osmotic activity per unit volume of solution) or *osmolality* (osmotic activity per unit volume of water). Extracellular fluid (plasma) is 93% water, so osmolarity and osmolality are often used interchangeably.
+
+#### *Colloid Osmotic Pressure*
+
+The distribution of water between the intravascular and extravascular compartment is influenced by the osmotic activity of large molecules in plasma that do not pass freely across the vascular endothelium. Plasma proteins are the principal source of this osmotic activity, which acts to hold water in the intravascular compartment. The osmotic force generated by large, semipermeable or impermeable molecules is called the *colloid osmotic pressure*, or the oncotic pressure. *Albumin is the most abundant plasma protein, and is the principal source of the colloid osmotic pressure*
+
+*in plasma*.
+
+# **CRYSTALLOID FLUIDS**
+
+Crystalloid fluids are aqueous solutions that contain small molecules (mostly electrolytes) that diffuse freely from intravascular to interstitial fluid compartments. The principal component of crystalloid fluids is sodium chloride.
+
+### **Normal Saline**
+
+The most frequently used crystalloid fluid is 0.9% sodium chloride (0.9% saline), with annual sales of 200 *million* liters in the United States (data from Baxter Healthcare). The popular name for this solution is *normal saline*, which is attributed to a Dutch chemist named Hartog Hamburger, who studied the freezing point depression of plasma in the late 19th century, and concluded incorrectly that plasma is a 0.9% salt solution [\(3](#page-16-3)). (Human plasma is actually a 0.6% salt solution.) A more appropriate name for 0.9% saline is *isotonic saline*, but even this name is not accurate (see next).
+
+#### *Normal Saline is NOT Normal*
+
+Normal saline (0.9% saline) is not chemically normal because a one-normal (1 N) NaCL solution contains 58 grams of NaCL per liter (the combined molecular weights of sodium and chloride), while a 0.9% NaCL solution contains only 9 grams of NaCL per liter. It is also not physiologically normal because 0.9% saline has several features that differ from plasma. These are shown in [Table](#page-2-0) 10.2. When compared to plasma, 0.9% saline has a higher sodium concentration (154 vs. 140 mEq/L), a much higher chloride concentration (154 vs. 103 mEq/L), a higher osmolality (308 vs. 290 ± 5 mOsm/L), and a lower pH (5.7 vs. 7.4). The difference in chloride concentration is most relevant, as described later.
+
+<span id="page-2-0"></span>**TABLE 10.2 Crystalloid Fluids in Relation to Plasma**
+
+| Fluid            | mEq/L        |      |   |     |     | Omolarity              |     |          |
+|------------------|--------------|------|---|-----|-----|------------------------|-----|----------|
+| Tidia            | Na           | CL   | K | Ca* | Mg* | Buffers                | рН  | (mOsm/L) |
+| Plasma           | 140          | 103  | 4 | 2   | 3   | HCO <sub>3</sub> -(25) | 7.4 | 290      |
+| 0.9% NaCL        | 154          | 154  | - | _   | _   | -                      | 5.7 | 308      |
+| Ringer's Lactate | 130          | 109  | 4 | 3   | -   | Lactate (28)           | 6.5 | 273      |
+| Ringer's Acetate | 131          | 109  | 4 | 3   | -   | Acetate (28)           | 6.7 | 275      |
+| Normosol®        |              | 98 5 | - | 5 – | 3   | Acetate (27)           | 7.4 | 295      |
+| Plasma-Lyte®     | Plasma-Lyte® |      | 5 |     |     | Gluconate (23)         |     |          |
+
+#### *Volume Effects*
+
+The sodium in crystalloid fluids distributes uniformly in the extracellular fluid. Because plasma represents only 20% of the extracellular fluid, *the predominant effect of 0.9% saline infusions is to expand the interstitial volume, not the plasma volume*. This is demonstrated in [Figure](#page-4-0) 10.1, which shows that infusion of one liter of 0.9% saline adds 825 mL to the interstitial volume and only 275 mL to the plasma volume ([4\)](#page-16-4). Note that the total increase in extracellular volume (1,100 mL) is slightly greater than the infused volume. This is due to 0.9% saline being slightly hypertonic to the extracellular fluid, which prompts a shift in water from intracellular to extracellular fluid.
+
+<span id="page-4-0"></span>![](_page_4_Figure_0.jpeg)
+
+**FIGURE 10.1** The effect of crystalloid and colloid fluids on expanding the plasma and interstitial fluid volumes. The infusion volume of each fluid is shown in parentheses. Data from Reference 4.
+
+All crystalloid fluids suffer from the tendency to promote edema formation, but this tendency may be greater with 0.9% saline because of its higher sodium content (as [illustrated](#page-4-0) in Figure 10.1). In addition, 0.9% saline has been implicated as a cause of acute kidney injury (see later), which will promote sodium accumulation and aggravate the tendency for edema formation.
+
+#### *The Evils of Chloride*
+
+There are two adverse effects of 0.9% saline that are related to the high concentration of chloride in the solution. The first of these is a *hyperchloremic metabolic acidosis*, which is the most cited adverse consequence of isotonic (0.9%) saline infusions, and usually occurs with rapid or prolonged infusions [\(5](#page-16-5)[,6](#page-16-6)). This effect is demonstrated in [Figure](#page-5-0) 10.2, which is from a study of high-volume infusions during gynecological surgery [\(6](#page-16-6)). The isotonic saline infusion was accompanied by a progressive decline in the blood pH (from 7.41 to 7.28), while the pH was unchanged during an equivalent infusion of Ringer's lactate solution, which has a much lower chloride concentration than isotonic saline (109 vs. 154 mEq/L), and also contains lactate as a buffer. The tendency of 0.9% saline to produce a metabolic acidosis has led to a decline in its popularity as a resuscitation fluid, especially in conditions like diabetic ketoacidosis [\(7](#page-16-7)).
+
+Infusions of 0.9% saline have also been associated with *impaired renal function*, which is attributed to chloride-mediated renal vasoconstriction [\(5](#page-16-5)[,8](#page-16-8)). Studies employing a chloriderestrictive fluid strategy (e.g., with Ringer's lactate or Plasma-Lyte) have shown a lower
+
+incidence of acute kidney injury (AKI) when compared with a chloride-liberal strategy using 0.9% saline [\(9](#page-16-9)[,10](#page-16-10)). However, the AKI associated with 0.9% saline is typically mild in severity, and does not require renal replacement therapy [\(11](#page-16-11)).
+
+### **Ringer's Lactate**
+
+The family of Ringer's solutions began with Sydney Ringer, a British physician who studied the contraction of isolated frog hearts, and who (in 1880) introduced a saline solution that contained calcium and potassium to promote cardiac contraction and cell viability [\(12](#page-16-12)). This solution, which is known as *Ringer's injection*, is 0.9% saline with potassium at 4 mEq/L, and calcium at 4 mg/dL.
+
+The original Ringer's solution was modified in the early 1930's by an American pediatrician named Alexis Hartmann, who added sodium lactate as a buffer for the treatment of metabolic acidosis [\(12](#page-16-12)). This solution was originally called Hartmann's solution, and is now known as *Ringer's lactate* (RL) solution. The composition of this solution is shown in [Table](#page-2-0) 10.2. The sodium concentration in RL is reduced to compensate for the sodium released from sodium lactate, and the chloride concentration is reduced to adjust for the lactate anion in the solution. Note that the chloride concentration in RL (109 mEq/L) is a close approximation of the chloride in plasma (103 mEq/L); as a result, RL infusions do not produce a hyperchloremic metabolic acidosis, as demonstrated in [Figure](#page-5-0) 10.2.
+
+<span id="page-5-0"></span>![](_page_5_Figure_4.jpeg)
+
+**FIGURE 10.2** Cumulative effects of isotonic saline (CL = 154 mEq/L) and Ringer's lactate (CL = 109 mEq/L) on the pH of blood. Both fluids were infused at the same rate (30 mL/kg/hr). Data from Reference 6.
+
+#### *Lactate as a Buffer*
+
+The lactate anion in RL can serve as a buffer, but not by combining with hydrogen ions in blood. Instead, the lactate is taken up by the liver and converted to glucose, which consumes hydrogen ions ([13\)](#page-16-13): i.e.,
+
+2 Lactate + 
+$$2H^+ \rightarrow Glucose$$
+ (10.1)
+
+The hydrogen ions are donated by water, which leaves hydroxyl ions (OH-) that can combine with CO<sup>2</sup> to generate bicarbonate ions (HCO<sup>3</sup> –):
+
+$$2 \text{ OH}^- + 2 \text{ CO}_2 \rightarrow 2 \text{ HCO}_3^-$$
+ (10.2)
+
+Overall, each mmol of lactate generates one mmol of bicarbonate ([13\)](#page-16-13).
+
+#### *Plasma Lactate Levels*
+
+Concern about the lactate in RL (28 mmol/L) causing an increase in plasma lactate levels has received scant attention. The liver can normally clear lactate at a rate of 100 mmol/hr (14), which is equivalent to the infusion of 3.5 liters of RL per hour. In one study of healthy adult volunteers, the bolus infusion of RL at a dose of 30 mL/kg resulted in a small (0.9 mmol/L) increase in plasma lactate levels, but isotonic saline infusions had a similar effect (15). The influence of RL infusions on lactate levels in critically ill patients, who may have impaired lactate clearance from circulatory shock or hepatic insufficiency, has not been studied.
+
+*Caveat:* Blood samples drawn through catheters being used for RL infusions can yield spuriously high lactate concentrations (16). Therefore, in patients receiving RL infusions, plasma lactate measurements should be obtained from sites other than the infusion catheter.
+
+#### *Other Issues*
+
+Other issues related to RL infusions are summarized as follows:
+
+- 1. The ionized calcium in RL can bind to the citrated anticoagulant in stored RBCs and promote clot formation; as a result, RL is not advised as a diluent fluid for the transfusion of erythrocyte concentrates (packed RBCs). This recommendation lacks experimental support, and there are studies showing that *rapid* infusion of RBCs and RL is safe (17). However, it still seems best to avoid RL for RBC transfusions if possible.
+- 2. The potassium in RL (4 mEq/L) is not a concern in patients with hyperkalemia, as there are no documented instances in which hyperkalemia is exacerbated by RL (18). In fact, hyperkalemia is more likely with 0.9% saline (due to the metabolic acidosis described earlier) than with RL (19).
+
+# **Ringer's Acetate**
+
+Because of concerns that the lactate buffer in RL would be ineffective in patients with liver disease, and would also elevate plasma lactate levels, lactate was replaced by acetate to create *Ringer's acetate* solution (see [Table](#page-2-0) 10.2), which is otherwise identical in composition to RL. Acetate is metabolized primarily in muscle [\(12](#page-16-12)), which makes Ringer's acetate a reasonable alternative to RL in patients with liver failure. One potential disadvantage of acetate is the
+
+potential for myocardial depression [\(5](#page-16-5)), although the clinical significance of this is unclear.
+
+#### **Other Balanced Salt Solutions**
+
+Normosol® and Plasma-Lyte® are balanced salt solutions that are identical in composition (see [Table](#page-2-0) 10.2), and offer the following advantages:
+
+- 1. They have a pH that is closer to plasma pH than other crystalloid fluids.
+- 2. They contain non-lactate buffers, which eliminates the combined risks of altered buffer capacity in liver failure and spurious hyperlactatemia.
+- 3. The chloride concentration is close to that of plasma, and will not produce a hyperchloremic metabolic acidosis.
+- 4. They contain magnesium instead of calcium, and thus are safe to use with blood transfusions.
+- 5. They are more isotonic to plasma than other crystalloid fluids.
+
+In terms of their general characteristics, these fluids are closest to the ideal plasma replacement fluid. However, their superiority in clinical settings is unproven.
+
+### **Hypertonic Saline**
+
+Hypertonic saline solutions are much more effective at expanding the extracellular (plasma) volume than isotonic fluids. This is demonstrated in [Figure](#page-4-0) 10.1, which shows that infusion of 250 mL of 7.5% NaCL (which has an osmolarity of 2,567 mOsm/L; 9 times that of plasma) results in a 1,235 mL increase in extracellular fluid, which is about 5 times greater than the infused volume. The added volume comes from an intracellular shift of water.
+
+Animal studies have shown that hypertonic saline is effective for limited-volume resuscitation of hemorrhagic shock. This is demonstrated in [Figure](#page-8-0) 10.3, which shows that hypertonic saline can maintain cardiac output with 1/5th the volume required with isotonic saline (20). Observations like this suggested that hypertonic saline would be well suited for situations where small volumes of resuscitation fluid are advantageous; e.g., the prehospital resuscitation of trauma victims. However, the accumulated evidence shows no apparent survival benefit from hypertonic saline compared to isotonic crystalloids for the management of traumatic shock (21).
+
+<span id="page-8-0"></span>![](_page_8_Figure_0.jpeg)
+
+**FIGURE 10.3** The cumulative volume of three intravenous fluids needed to maintain a normal rate of aortic blood flow in an animal model of hemorrhagic shock. Data from Reference 20.
+
+#### *Traumatic Brain Injury*
+
+The principle use of hypertonic saline is to reduce intracranial pressure (ICP) in patients with traumatic brain injury. The standard agent for this is mannitol (a 6-carbon sugar-alcohol that is also used as an osmotic diuretic), but hypertonic saline is gaining in popularity because it is equivalent to mannitol for reducing ICP, but is more likely to maintain cerebral perfusion pressure (22). Hypertonic saline also avoids the risk of acute kidney injury that has been linked to mannitol.
+
+The saline solutions used for ICP control vary in strength from 3% to 25% saline, but 10% saline is a popular choice, and a dose of 0.6 mL/kg is equimolar to 20% mannitol at 2 mL/kg (23). Bolus doses are given every 6–8 hours as needed to keep ICP <20 mm Hg, and treatment can be continued as long as the serum osmolality is <320 mmol/kg H2O. Unfortunately, control of ICP with hypertonic saline or mannitol has not improved the survival rate in patients with traumatic brain injury (24).
+
+# **5% DEXTROSE SOLUTIONS**
+
+The once-popular use of 5% dextrose solutions (D<sup>5</sup> solutions) is no longer a desirable option, as explained in this section.
+
+# **Protein-Sparing Effect**
+
+Prior to the standard use of nutritional support regimens (e.g., enteral tube feedings), 5% dextrose solutions were used as a source of calories in patients who were unable to eat. Dextrose provides 3.4 kilocalories (kcal) per gram when fully metabolized, so a 5% dextrose solution (50 grams dextrose per liter) provides 170 kcal per liter. Infusion of 3 liters of a D<sup>5</sup> solution daily (125 mL/min) will then provide 510 kcal/day, which is enough nonprotein calories to limit the breakdown of endogenous proteins to provide calories (protein-sparing effect). This is no longer necessary, as most patients who are unable to eat will receive full nutritional support (enteral or parenteral) when needed.
+
+### **Volume Effects**
+
+The addition of dextrose to intravenous fluids increases osmolarity; a 5% dextrose-in-water solution (D5W) has an osmolarity of 278 mOsm/L, which is close to the osmolarity of plasma. However, since the dextrose is taken up by cells and metabolized, the osmotic effect rapidly wanes, and the added water then moves into cells. This explains the volume effects of D5W shown in [Figure](#page-4-0) 10.1; i.e., infusion of one liter of D5W results in an increase in extracellular fluid (plasma plus interstitial fluid) of about 350 mL, which means the remaining 650 mL (twothirds of the infused volume) has moved intracellularly. Thus, *the principal effect of D*5*W is to expand the intracellular, not extracellular volume*, and this can result in undesirable cell swelling.
+
+A very different effect can occur when dextrose is added to isotonic ("normal") saline. A solution of D<sup>5</sup> -normal saline (D5NS) has an osmolarity of 560 mOsm/L, which is almost twice the osmolarity of plasma. Therefore, *if glucose utilization is impaired* (which is common in critically ill patients), *infusions of D*5*NS can result in cellular dehydration*.
+
+### **Enhanced Lactate Production**
+
+In healthy subjects, only 5% of an infused glucose load will result in lactate formation, but in patients who are hemodynamically compromised, as much as 85% of glucose metabolism can lead to lactate production (25). This latter effect is demonstrated in [Figure](#page-10-0) 10.4, which is from a study where two intravenous fluids were used (Ringer's solution and a 5% dextrose solution) to maintain cardiac filling pressures during a surgical procedure in which systemic hypoperfusion was induced by aortic cross-clamping (26). When the dextrose-containing fluid was infused, the serum lactate levels began to rise significantly after the aorta was cross-clamped, and the increase in circulating lactate levels persisted throughout the remainder of the procedure. These results indicate that, *when circulatory flow is compromised, infusion of 5% dextrose solutions can promote lactic acid production*.
+
+<span id="page-10-0"></span>![](_page_10_Figure_0.jpeg)
+
+**FIGURE 10.4** The effect of intravenous fluid therapy with and without dextrose on blood lactate levels in patients undergoing abdominal aortic aneurysm repair. Each point represents the mean lactate level in 10 study patients. The average infusion volume for each fluid is indicated in parentheses. Data from Reference 26.
+
+#### **Hyperglycemia**
+
+About 20% of patients admitted to ICUs have diabetes, and as many as 90% of patients develop hyperglycemia at some time during their ICU stay (27). Hyperglycemia has several deleterious consequences in critically ill patients, including immune suppression and increased risk of infection (28), aggravation of ischemic brain injury (29), and an increased mortality rate (27). Considering the ubiquity of hyperglycemia and the associated risks, it seems reasonable to *avoid using dextrose-containing fluids whenever possible*.
+
+# **COLLOID FLUIDS**
+
+In chemical terms, a colloidal solution (also called a "suspension") is a fluid that contains insoluble particles. In clinical terms, a colloid solution is a fluid that contains large solute molecules that do not pass readily from plasma to interstitial fluid. The retained molecules create a *colloid osmotic pressure* or *oncotic pressure* (described earlier in the chapter), which holds water in the vascular compartment.
+
+#### **Volume Effects**
+
+The effect of volume resuscitation with a colloid fluid is demonstrated in [Figure](#page-4-0) 10.1. The colloid fluid in this case is a 5% albumin solution. Infusion of one liter of this solution results in
+
+a 700 mL increment in the plasma volume and a 300 mL increment in the interstitial fluid volume. When compared with the increment in plasma volume after one liter of 0.9% NaCL (275 mL), the colloid fluid is about 3 times more effective in expanding the plasma volume than the crystalloid fluid. Thus, *colloid fluids will achieve a given increment in plasma volume with about 30% of the volume required with crystalloid fluids* (30).
+
+<span id="page-11-0"></span>
+
+| TABLE<br>10.3  | Colloid<br>Fluid<br>Comparisons |                                    |                    |  |  |
+|----------------|---------------------------------|------------------------------------|--------------------|--|--|
+| Fluid          | COP (mm Hg)                     | ∆ Plasma Volume<br>Infusate Volume | Duration of Effect |  |  |
+| 25% Albumin    | 70                              | 3.0−4.0                            | 12 h               |  |  |
+| 10% Dextran-40 | 40                              | 1.0−1.5                            | 6 h                |  |  |
+| 6% Hetastarch  | 30                              | 1.0−1.3                            | 24 h               |  |  |
+| 5% Albumin     | 20                              | 0.7−1.3                            | 24 h               |  |  |
+| Plasma         | 28                              | –                                  | −                  |  |  |
+
+Data from References 4,31–34. COP = colloid osmotic pressure.
+
+### **Colloid Fluid Comparisons**
+
+Individual colloid fluids differ in their ability to expand the plasma volume, and this difference is a function of the colloid osmotic pressure (COP) of each fluid, and its relation to the COP of plasma (which is normally about 28 mm Hg) (31). This is demonstrated in [Table](#page-11-0) 10.3, which shows the COP of common colloid fluids and the potency of each as a plasma volume expander (4,31−34). Note that fluids with higher COPs produce greater increments in plasma volume, and when the COP exceeds that of plasma, the increment in plasma volume exceeds the infusate volume. This latter point is most apparent with 25% albumin, which has a COP of 70 mm Hg (2.5 times the plasma COP), and produces an increment in plasma volume that is 3 to 4 times greater than the infusate volume.
+
+#### **Albumin Solutions**
+
+Albumin is responsible for about 80% of the plasma COP (31), which makes albumin solutions very desirable as plasma volume expanders. Added benefits of albumin include its role as the principal transport protein in the blood (see [Table](#page-11-1) 10.4), and its antioxidant activity (35).
+
+#### *Characteristics*
+
+<span id="page-11-1"></span>Albumin solutions are heat-treated preparations of human serum albumin that are available as a 5% solution (5 g/100 mL) and a 25% solution (25 g/mL) in 0.9% NaCL. The 5% albumin solution has a COP of 20 mm Hg, which is close to the COP of plasma. It is typically given in aliquots of 250 mL, and the plasma volume increment is at least 70% of the infused volume. The volume effect begins to dissipate at 6 hours, and is usually lost after 12 hours [\(4](#page-16-4),32).
+
+| Others         |
+|----------------|
+| Bilirubin      |
+| Copper         |
+| Estrogen       |
+| Fatty Acids    |
+| Progesterone   |
+| Prostaglandins |
+| Testosterone   |
+| Zinc           |
+|                |
+|                |
+|                |
+
+The 25% albumin solution is a hyperoncotic fluid with a COP that is 2.5 times greater than that of plasma. It is given in aliquots of 50–100 mL, and the plasma volume increment is 3 to 4 times the infusate volume. This effect is produced by fluid shifts from the interstitial space, so interstitial fluid volume decreases as plasma volume increases. Because it does not replace lost volume, but instead shifts fluid from one compartment to another, *25% albumin should not be used as a resuscitation fluid for volume loss*. This fluid is typically used to promote a rapid increase in plasma volume (and blood pressure) in patients with edema, especially when the edema is due, at least in part to hypoalbuminemia. All *albumin solutions are more effective as plasma volume expanders in the presence of hypoalbuminemia* (36).
+
+#### *Safety*
+
+Early reviews suggested that the use of albumin solutions had a negative impact on survival (37), but more recent studies show that albumin solutions pose no danger (38,39). One possible exception is traumatic brain injury, where one large study has shown a higher mortality associated with albumin resuscitation when compared with isotonic saline (40). Hyperoncotic (25%) albumin has been associated with an increased risk of renal impairment in patients with circulatory shock, but this risk is shared by all hyperoncotic fluids (41).
+
+# **Hydroxyethyl Starches**
+
+Hydroxyethyl starch (HES) is a chemically modified polysaccharide composed of long chains of branched glucose polymers substituted periodically by hydroxyl radicals (OH), which resist enzymatic degradation. HES elimination involves hydrolysis by amylase enzymes in the bloodstream, which cleave the parent molecule until it is small enough to be cleared by the kidneys. The following is a summary of the relevant characteristics of HES preparations (34,42).
+
+#### *Characteristics*
+
+**MOLECULAR WEIGHT:** HES preparations have different molecular weights, and are classified as high MW (450 kilodaltons or kD), medium MW (200 kD) and low MW (70 kD). High MW preparations have a prolonged duration of action because amylase cleavage results in progressively smaller molecules that are osmotically active. When the cleavage products reach a molecular weight of 50 kD, they can be cleared by the kidneys (42).
+
+**MOLAR SUBSTITUTION RATIO:** HES preparations are also classified by the ratio of hydroxyl radical substitutions per glucose polymer (OH/glucose), which is called the *molar substitution ratio* and ranges from zero to one (42). The molar substitution ratio identifies the type of starch in the HES preparation; e.g., 0.7 is hetastarch, 0.4 is tetrastarch. Because hydroxyl radicals resist enzymatic degradation, higher OH/glucose ratios are associated with prolonged activity. However, higher molar substitution ratios also increase the risk of adverse effects (see later).
+
+**HES PREPARATIONS:** Individual HES preparations are described by their concentration, MW, and molar substitution ratio, as shown in [Table](#page-13-0) 10.5. Most preparations are available as a 6% solution in 0.9% NaCL, and the molar substitution ratio is indicated in the prefix of the starch: e.g., 0.5 is pentastarch, 0.4 is tetrastarch. Hetastarch is the original HES preparation, and has a high MW(450 kD) and a high molar substitution ratio (0.7). Tetrastarch is the most recent HES preparation, and has the lowest MW (130 kD) and the lowest molar substitution ratio (0.4). Tetrastarch is available as Voluven® (6% HES 130/0.4 in 0.9% saline).
+
+<span id="page-13-0"></span>
+
+| TABLE<br>10.5 | Characteristics<br>of<br>Hydroxyethyl<br>Starch<br>Preparations |        |     |  |  |
+|---------------|-----------------------------------------------------------------|--------|-----|--|--|
+| Name          | Concentration                                                   | MW     | MSR |  |  |
+| Hetastarch    | 6%                                                              | 450 kD | 0.7 |  |  |
+| Hexastarch    | 6%                                                              | 200 kD | 0.6 |  |  |
+| Pentastarch   | 6%, 10%                                                         | 200 kD | 0.5 |  |  |
+| Tetrastarch   | 6%                                                              | 130 kD | 0.4 |  |  |
+
+#### *Volume Effects*
+
+The performance of 6% HES solutions as plasma volume expanders is very similar to 5% albumin. The oncotic pressure is higher than 5% albumin, and the increment in plasma volume can be higher as well (see [Table](#page-11-0) 10.3). The effect on plasma volume can last up to 24 hours with high MW preparations (e.g., hetastarch) (34), while the effect with lower MW preparations (tetrastarch) can be 6 hours or even less (43).
+
+#### *Altered Hemostasis*
+
+HES preparations can impair hemostasis by inhibition of Factor VII and von Willebrand factor, and impaired platelet adhesiveness (42,44). The risk of altered hemostasis is highest with HES preparations that have a high molar substitution ratio (i.e., hetastarch) (42), and clinical studies have shown an increase in perioperative bleeding and transfusion requirements when hetastarch is used for volume resuscitation (45). There is evidence that tetrastarch (which has a low molar substitution ratio) does not produce a clinically significant coagulopathy until large volumes are infused (>50 mL/kg) (27).
+
+#### *Nephrotoxicity*
+
+Several clinical studies have shown an association between HES infusions and an increased risk of acute kidney injury (AKI) and death (46,47). However, many of these studies used an oldergeneration HES preparation (e.g., hetastarch), and the patients often had circulatory shock, which increases the risk of AKI. In more recent studies using the latest generation HES preparation (tetrastarch) in less severely ill (abdominal surgery) patients, there is no association between HES infusions and AKI (48). At the present time, the risk of AKI with HES infusions is an unresolved issue (49).
+
+#### *Hyperamylasemia*
+
+The amylase enzymes involved in the hydrolysis of HES attach to the HES molecules, and this reduces amylase clearance by the kidneys. This can result is an increase in serum amylase levels to 2–3 times normal (34,50). Levels usually return to normal within one week after HES is discontinued. Serum lipase levels are unaffected by HES infusions (50).
+
+# **The Dextrans**
+
+The dextrans are glucose polymers produced by a bacterium (*Leuconostoc*) incubated in a sucrose medium. First introduced in the 1940s, these colloids are not popular (at least in the United States) because of the perceived risk of adverse reactions. The two most common dextran preparations are 10% dextran-40 and 6% dextran-70, which have average molecular weights of 40 and 70, respectively.
+
+#### *Characteristics*
+
+Both dextran preparations have a COP of 40 mm Hg, and cause a greater increase in plasma volume than either 5% albumin or 6% hetastarch (see [Table](#page-11-0) 10.3). Dextran-70 may be preferred because the duration of action (12 hours) is longer than that of dextran-40 (6 hours) (32).
+
+#### *Disadvantages*
+
+- 1. Dextrans produce a dose-related bleeding tendency that involves impaired platelet aggregation, decreased levels of Factor VIII and von Willebrand factor, and enhanced fibrinolysis (44,50). The hemostatic defects are minimized by limiting the daily dextran dose to 20 mL/kg.
+- 2. Dextrans coat the surface of red blood cells and can interfere with the ability to cross-match blood. Red cell preparations must be washed to eliminate this problem. Dextrans also increase the erythrocyte sedimentation rate as a result of their interactions with red blood cells (50).
+- 3. Dextrans have been associated with a hyperoncotic renal injury (50,51), but this occurs rarely. Anaphylactic reactions are reported in only 0.03% of infusions (50).
+
+# **THE COLLOID–CRYSTALLOID CONUNDRUM**
+
+There is a longstanding debate concerning the type of fluid that is most appropriate for volume resuscitation, and each type of fluid has its loyalists who passionately defend the merits of their chosen fluid. The following is a brief description of the issues involved in this debate.
+
+# **Early Focus on Crystalloids**
+
+Early studies of acute blood loss showed that hemorrhagic shock was associated with an
+
+interstitial fluid deficit, partly as a result of a fluid shift from the interstitial fluid into the bloodstream (52). Studies in an animal model of hemorrhagic shock showed that replacement of the shed blood was almost universally fatal, while the mortality rate was reduced when a crystalloid fluid (Ringer's lactate) was added to the shed blood replacement (53). These results were interpreted as indicating that replacement of the interstitial fluid deficit (with a crystalloid fluid) was the critical factor in the successful resuscitation of hemorrhagic shock. This cemented the popularity of crystalloid fluids for the resuscitation of blood loss.
+
+### **Current Concerns**
+
+Since those early studies, the importance of promoting cardiac output has emerged as the primary focus of volume resuscitation. To this end, colloid fluids have proven far superior to crystalloid fluids for producing acute increments in cardiac output: in one study, 500 mL of a colloid fluid (10% Dextran-40) produced a three-fold greater increment in cardiac output than one liter of a crystalloid fluid (Ringer's lactate) (54). This superiority is a reflection of the greater plasma volume expansion with colloid fluids.
+
+Despite the enhanced ability of colloid fluids to promote cardiac output, crystalloid fluids remain the popular choice for volume resuscitation in circulatory shock. The principal argument in favor of crystalloid resuscitation is the lack of proven survival benefit with colloid resuscitation (55), and the lower cost of crystalloid fluids. The argument against crystalloid resuscitation is the relatively large volumes needed to expand the plasma volume (at least 3 times greater than the volume of colloid fluids), and the attendant risk of fluid accumulation and edema formation, which is associated with increased morbidity and mortality (56).
+
+### **A Tailored Approach**
+
+The colloid-crystalloid controversy is focused on selecting one type of fluid for all clinical situations. This seems unreasonable considering the multitude of clinical scenarios encountered in critically ill patients. A more reasonable approach would be to select a fluid that is most appropriate for a specific clinical condition. The following are three clinical situations where a different resuscitation fluid would be most effective.
+
+- 1. In cases of life-threatening hypovolemia (where prompt restoration of the plasma volume is desirable), colloid fluid resuscitation (e.g., with 5% albumin) would be most effective.
+- 2. In cases of hypovolemia due to dehydration (where there is a uniform loss of extracellular fluid), a crystalloid fluid (e.g., Ringer's lactate) is appropriate.
+- 3. In cases of hypovolemia where hypoalbuminemia is implicated (causing fluid shifts from plasma to interstitial fluid) a hyperoncotic colloid fluid (e.g., 25% albumin) is an appropriate choice.
+
+As demonstrated in these examples, *tailoring the type of resuscitation fluid to the specific clinical condition is a more logical approach than using the same type of fluid for all cases of hypovolemia*. This approach is "asking the right question", so it should qualify as a scientific approach.
+
+# **A FINAL WORD**
+
+The following information in this chapter merits emphasis:
+
+- 1. Normal saline (0.9% NaCL) is not normal, chemically or physiologically, and the high chloride concentration causes a hyperchloremic metabolic acidosis. This does not occur with more balanced crystalloid fluids (e.g., Ringer's lactate).
+- 2. Isotonic crystalloid fluids expand the interstitial fluid volume more than the plasma volume. Thus, they promote fluid accumulation and edema formation, which has deleterious consequences in critically ill patients. (This topic is the focus of the next chapter).
+- 3. Dextrose-containing fluids promote lactate formation and hyperglycemia in critically ill patients, and are ill-advised for routine use.
+- 4. Colloid fluids are superior to crystalloid fluids for expanding the plasma volume and promoting cardiac output.
+- 5. Albumin solutions not only expand the plasma volume, they also support the transport function and antioxidant activity of plasma albumin.
+- 6. The hydroxyethyl starch (HES) solutions are associated with an increased risk of bleeding and renal impairment, but the newest generation of HES solutions (i.e., tetrastarch) have a lower risk of toxicity, especially when used in patients who are not critically ill (e.g., postop patients).
+- 7. The colloid-crystalloid controversy is misguided because there is no single type of fluid that is optimal for all cases of hypovolemia.
+
+#### *References*
+
+- <span id="page-16-0"></span>*a.* Sir Henry Tizard (1885–1959) was a British chemist who introduced the octane rating system for expressing the detonation characteristics of petroleum fuels.
+- <span id="page-16-1"></span>1. Dagnino J, Wren, Boyle, and the origins of intravenous injections and the Royal Society of London. Anesthesiology 2009; 111:923–924.
+- <span id="page-16-2"></span>2. Millam D. The history of intravenous therapy. J Intraven Nurs 1996; 19:5–14.
+
+#### *0.9% Saline*
+
+- <span id="page-16-3"></span>3. Awad S, Allison S, Lobo DN. The history of 0.9% saline. Clin Nutr 2008; 27:179–188.
+- <span id="page-16-4"></span>4. Imm A, Carlson RW. Fluid resuscitation in circulatory shock. Crit Care Clin 1993; 9:313–333.
+- <span id="page-16-5"></span>5. Reddy S, Weinberg L, Young P. Crystalloid fluid therapy. Critical Care 2016; 20:59.
+- <span id="page-16-6"></span>6. Scheingraber S, Rehm M, Schmisch C, Finsterer U. Rapid saline infusion produces hyperchloremic acidosis in patients undergoing gynecologic surgery. Anesthesiology 1999; 90:1265–1270.
+- <span id="page-16-7"></span>7. Mahler SA, Conrad SA, Wang H, Arnold TC. Resuscitation with balanced electrolyte solution prevents hyperchloremic metabolic acidosis in patients with diabetic ketoacidosis. Am J Emerg Med 2011; 29:670–674.
+- <span id="page-16-8"></span>8. Wilcox CS. Regulation of renal blood flow by plasma chloride. J Clin Invest 1983; 71:726–735.
+- <span id="page-16-9"></span>9. Yunos NM, Bellomo R, Hegarty C, et al. Association between a chloride-liberal vs chloride-restrictive intravenous fluid administration strategy and kidney injury in critically ill adults. JAMA 2012; 308:1566–1572.
+- <span id="page-16-10"></span>10. Semler MW, Self WH, Wandered JP, et al; for the SMART Investigators and The Pragmatic Critical Care Research Group. Balanced crystalloids versus saline in critically ill adults. N Engl J Med 2018; 378:829–839.
+- <span id="page-16-11"></span>11. Dong W-H, Yan W-Q, Song X, et al. Fluid resuscitation with balanced crystalloids versus normal saline in critically ill patients: a systematic review and meta-analysis. Scand J Trauma Resusc Emerg Med 2022; 30:28.
+
+#### <span id="page-16-12"></span>*Ringer's Lactate*
+
+- 12. Griffith CA. The family of Ringer's solutions. J Natl Intravenous Ther Assoc 1986; 9:480–483.
+- <span id="page-16-13"></span>13. White SA, Goldhill DR. Is Hartmann's the solution? Anaesthesia 1997; 52:422–427.
