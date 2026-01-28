@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Cardiac Surgery in the Adult, Fifth Edition",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac-surgery"
+    ],
+    "authors": [
+      "Lawrence H. Cohn, MD, David H. Adams, MD"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. History of Cardiac Surgery"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Surgical Anatomy of the Heart"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Cardiac Surgical Physiology"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Cardiac Surgical Pharmacology"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Cardiovascular Pathology"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Computed Tomography of the Adult Cardiac Surgery Patient: Principles and Applications"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Risk Assessment and Performance Improvement in Cardiac Surgery"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Simulation in Cardiac Surgery"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. The Integrated Cardiovascular Center"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Preoperative Evaluation for Cardiac Surgery"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Cardiac Anesthesia"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Echocardiography in Cardiac Surgery"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Extracorporeal Circulation"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Transfusion Therapy and Blood Conservation"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Deep Hypothermic Circulatory Arrest"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Heart Surgery in the Asymptomatic Patient"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Surgery of the Thoracic Aorta"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Surgery of the Aortic Root and Valve"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Aortic Valve Operations"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Mitral Valve Surgery"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Tricuspid Valve Surgery"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Surgery of the Atrioventricular Groove"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Surgery of the Left Ventricle"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Surgery of the Right Ventricle"
+      },
+      {
+        "file": " chapter-25.md",
+        "title": "25. Surgery of the Atrial Septum"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Surgery of the Ventricular Septum"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. Surgery of the Great Arteries"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Surgery of the Great Veins"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Surgery of the Coronary Arteries"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Surgery of the Conduction System"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Surgery of the Pericardium"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Surgery of the Cardiac Tumors"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Surgery of the Cardiac Trauma"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Surgery of the Endocarditis"
+      },
+      {
+        "file": "chapter-35.md",
+        "title": "35. Surgery of the Congenital Heart Disease in Adults"
+      },
+      {
+        "file": "chapter-36.md",
+        "title": "36. Surgery of the Congenital Heart Disease in Children"
+      },
+      {
+        "file": "chapter-37.md",
+        "title": "37. Surgery of the Tetralogy of Fallot"
+      },
+      {
+        "file": "chapter-38.md",
+        "title": "38. Surgery of the Transposition of the Great Arteries"
+      },
+      {
+        "file": "chapter-39.md",
+        "title": "39. Surgery of the Truncus Arteriosus"
+      },
+      {
+        "file": "chapter-40.md",
+        "title": "40. Surgery of the Hypoplastic Left Heart Syndrome"
+      },
+      {
+        "file": "chapter-41.md",
+        "title": "41. Surgery of the Hypoplastic Right Heart Syndrome"
+      },
+      {
+        "file": "chapter-42.md",
+        "title": "42. Surgery of the Atrioventricular Canal"
+      },
+      {
+        "file": "chapter-43.md",
+        "title": "43. Surgery of the Tricuspid Atresia"
+      },
+      {
+        "file": "chapter-44.md",
+        "title": "44. Surgery of the Double Outlet Right Ventricle"
+      },
+      {
+        "file": "chapter-45.md",
+        "title": "45. Surgery of the Corrected Transposition of the Great Arteries"
+      },
+      {
+        "file": "chapter-46.md",
+        "title": "46. Surgery of the Ebstein's Anomaly"
+      },
+      {
+        "file": "chapter-47.md",
+        "title": "47. Surgery of the Pulmonary Atresia with Intact Ventricular Septum"
+      },
+      {
+        "file": "chapter-48.md",
+        "title": "48. Surgery of the Pulmonary Atresia with Ventricular Septal Defect"
+      },
+      {
+        "file": "chapter-49.md",
+        "title": "49. Surgery of the Aortic Atresia/Stenosis"
+      },
+      {
+        "file": "chapter-50.md",
+        "title": "50. Surgery of the Mitral Stenosis"
+      },
+      {
+        "file": "chapter-51.md",
+        "title": "51. Surgery of the Aortic Coarctation"
+      },
+      {
+        "file": "chapter-52.md",
+        "title": "52. Surgery of the Interrupted Aortic Arch"
+      },
+      {
+        "file": "chapter-53.md",
+        "title": "53. Surgery of the Coronary Artery Fistula"
+      },
+      {
+        "file": "chapter-54.md",
+        "title": "54. Surgery of the Anomalous Origin of the Coronary Arteries"
+      },
+      {
+        "file": "chapter-55.md",
+        "title": "55. Surgical Implantation of Pacemakers and Automatic Defibrillators"
+      },
+      {
+        "file": "chapter-56.md",
+        "title": "56. Surgery for Adult Congenital Heart Disease"
+      },
+      {
+        "file": "chapter-57.md",
+        "title": "57. Pericardial Disease"
+      },
+      {
+        "file": "chapter-58.md",
+        "title": "58. Cardiac Neoplasms"
+      },
+      {
+        "file": "chapter-59.md",
+        "title": "59. Immunobiology of Heart and Lung Transplantation"
+      },
+      {
+        "file": "chapter-60.md",
+        "title": "60. Heart Transplantation"
+      },
+      {
+        "file": "chapter-61.md",
+        "title": "61. Lung Transplantation and Heart-lung Transplantation"
+      },
+      {
+        "file": "chapter-62.md",
+        "title": "62. Long-term Mechanical Circulatory Support and the Total Artificial Heart"
+      },
+      {
+        "file": "chapter-63.md",
+        "title": "63. Tissue Engineering for Cardiac Valve Surgery"
+      }
+    ],
+    "appendices": [
+      {
+        "file": "appendix.md",
+        "title": "Appendices"
+      }
+    ]
+  }
+]
