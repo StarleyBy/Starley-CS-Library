@@ -14,7 +14,8 @@
       "title": "Cardiac Surgery",
       "path": "books/cardiac-surgery",
       "books": [
-        { "folder": "cohn" }
+        { "folder": "cohn" },
+        { "folder": "sellke" }
       ]
     },
     {
