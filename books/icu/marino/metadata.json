@@ -1,72 +1,238 @@
 [{
-  "title": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
+  "title": "The ICU Book, FIFTH EDITION",
   "cover_image": "cover.jpg",
   "category": [
-    "cardiology",
-    "cardiac-surgery",
     "icu"
   ],
   "authors": [
-    "Robert M. Bojar, MD"
+    "Paul L. Marino, MD, PhD, FCCM"
   ],
   "chapters": [
     {
       "file": "chapter-01.md",
-      "title": "1. Synopsis of Adult Cardiac Surgical Disease"
+      "title": "1. Vascular Access Primer"
     },
     {
       "file": "chapter-02.md",
-      "title": "2. Diagnostic Techniques in Cardiac Surgery"
+      "title": "2. Central Venous Access"
     },
     {
       "file": "chapter-03.md",
-      "title": "3. Preoperative Considerations and Risk Assessment"
+      "title": "3. The Indwelling Vascular Catheter"
     },
     {
       "file": "chapter-04.md",
-      "title": "4. Cardiac Anesthesia"
+      "title": "4. Alimentary Prophylaxis"
     },
     {
       "file": "chapter-05.md",
-      "title": "5. Cardiopulmonary Bypass"
+      "title": "5. Venous Thromboprophylaxis"
     },
     {
       "file": "chapter-06.md",
-      "title": "6. Myocardial Protection"
+      "title": "6. Analgesia and Sedation in the ICU"
     },
     {
       "file": "chapter-07.md",
-      "title": "7. Admission to the ICU and Monitoring Techniques"
+      "title": "7. Oximetry and Capnography"
     },
     {
       "file": "chapter-08.md",
-      "title": "8. Early Postoperative Care"
+      "title": "8. The Pulmonary Artery Catheter"
     },
     {
       "file": "chapter-09.md",
-      "title": "9. Mediastinal Bleeding"
+      "title": "9. Systemic Oxygenation"
     },
     {
       "file": "chapter-10.md",
-      "title": "10. Respiratory Management"
+      "title": "10. Intravenous Fluids"
     },
     {
       "file": "chapter-11.md",
-      "title": "11. Cardiovascular Management"
+      "title": "11. Fluid Management"
     },
     {
       "file": "chapter-12.md",
-      "title": "12. Fluid Management, Renal, and Metabolic Problems"
+      "title": "12. Anemia and Red Blood Cell Transfusions"
     },
     {
       "file": "chapter-13.md",
-      "title": "13. Post-ICU Care and Other Complications"
+      "title": "13. Platelets and Plasma"
+    },
+    {
+      "file": "chapter-14.md",
+      "title": "14. Approaches to Clinical Shock"
+    },
+    {
+      "file": "chapter-15.md",
+      "title": "15. Hemorrhagic Shock"
+    },
+    {
+      "file": "chapter-16.md",
+      "title": "16. Cardiogenic Shock"
+    },
+    {
+      "file": "chapter-17.md",
+      "title": "17. Inflammatory Shock Syndromes"
+    },
+    {
+      "file": "chapter-18.md",
+      "title": "18. Acute Heart Failure(s)"
+    },
+    {
+      "file": "chapter-19.md",
+      "title": "19. Tachyarrhythmias"
+    },
+    {
+      "file": "chapter-20.md",
+      "title": "20. Acute Coronary Syndromes"
+    },
+    {
+      "file": "chapter-21.md",
+      "title": "21. Cardiac Arrest"
+    },
+    {
+      "file": "chapter-22.md",
+      "title": "22. Acute Pulmonary Embolism"
+    },
+    {
+      "file": "chapter-23.md",
+      "title": "23. Asthma and COPD in the ICU"
+    },
+    {
+      "file": "chapter-24.md",
+      "title": "24. Acute Respiratory Distress Syndrome"
+    },
+    {
+      "file": "chapter-25.md",
+      "title": "25. Oxygen Inhalation"
+    },
+    {
+      "file": "chapter-26.md",
+      "title": "26. Noninvasive Ventilation"
+    },
+    {
+      "file": "chapter-27.md",
+      "title": "27. Conventional Mechanical Ventilation"
+    },
+    {
+      "file": "chapter-28.md",
+      "title": "28. The Ventilator-Dependent Patient"
+    },
+    {
+      "file": "chapter-29.md",
+      "title": "29. Ventilator-Associated Pneumonia"
+    },
+    {
+      "file": "chapter-30.md",
+      "title": "30. Discontinuing Mechanical Ventilation"
+    },
+    {
+      "file": "chapter-31md",
+      "title": "31. Acid-Base Analysis"
+    },
+    {
+      "file": "chapter-32.md",
+      "title": "32. Lactic Acidosis and Ketoacidosis"
+    },
+    {
+      "file": "chapter-33.md",
+      "title": "33. Metabolic Alkalosis"
+    },
+    {
+      "file": "chapter-34.md",
+      "title": "34. Acute Kidney Injury"
+    },
+    {
+      "file": "chapter-35.md",
+      "title": "35. Sodium"
+    },
+    {
+      "file": "chapter-36.md",
+      "title": "36. Potassium"
+    },
+    {
+      "file": "chapter-37.md",
+      "title": "37. Magnesium"
+    },
+    {
+      "file": "chapter-38.md",
+      "title": "38. Calcium and Phosphorus"
+    },
+    {
+      "file": "chapter-39.md",
+      "title": "39. Liver Failure"
+    },
+    {
+      "file": "chapter-40.md",
+      "title": "40. Acute Pancreatitis"
+    },
+    {
+      "file": "chapter-41.md",
+      "title": "41. Abdominal Infections in the ICU"
+    },
+    {
+      "file": "chapter-42.md",
+      "title": "42. Urinary Tract Infections in the ICU"
+    },
+    {
+      "file": "chapter-43.md",
+      "title": "43. Thermoregulatory Disorders"
+    },
+    {
+      "file": "chapter-44.md",
+      "title": "44. TFever in the ICU"
+    },
+    {
+      "file": "chapter-45.md",
+      "title": "45. Disorders of Consciousness"
+    },
+    {
+      "file": "chapter-46.md",
+      "title": "46. Disorders of Movement"
+    },
+    {
+      "file": "chapter-47.md",
+      "title": "47. Acute Stroke in the ICU"
+    },
+    {
+      "file": "chapter-48.md",
+      "title": "48. Nutritional Requirements"
+    },
+    {
+      "file": "chapter-49.md",
+      "title": "49. Enteral Nutrition"
+    },
+    {
+      "file": "chapter-50.md",
+      "title": "50. Parenteral Nutrition"
+    },
+    {
+      "file": "chapter-51.md",
+      "title": "51. Adrenal and Thyroid Dysfunction"
+    },
+    {
+      "file": "chapter-52.md",
+      "title": "52. Pharmaceutical Drug Overdoses"
+    },
+    {
+      "file": "chapter-53.md",
+      "title": "53. Nonpharmaceutical Poisons"
     }
-  ],
+      ],
   "appendices": [
     {
-      "file": "appendix.md",
-      "title": "Appendices"
+      "file": "appendix-01.md",
+      "title": "Units and Conversions"
+    },
+    {
+      "file": "appendix-02.md",
+      "title": "Selected Reference Ranges"
+    },
+    {
+      "file": "appendix-03.md",
+      "title": "The Body Fantastic"
     }
   ]
 }]
