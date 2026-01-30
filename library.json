@@ -6,6 +6,7 @@
       "path": "books/icu",
       "books": [
         { "folder": "bojar" },
+        { "folder": "oxford" },
         { "folder": "marino" }
       ]
     },

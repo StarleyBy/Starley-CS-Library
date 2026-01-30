@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Oxford Cardiothotacic critical care",
+    "cover_image": "cover.jpg",
+    "category": [],
+    "authors": [
+      "Robyn Smith, Mike Higgins, Alistair Macfie"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. The normal postoperative cardiac patient"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Risk prediction and outcome"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Fast-tracking the low-risk patient"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Resuscitation in the cardiac intensive care setting"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Myocardial ischaemia and infarction"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Bleeding management"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Postoperative hypotension"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Glucose, lactate, and acid–base"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Postoperative medications"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Information handover and care planning"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Heart"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Lung"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Kidney"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Gastrointestinal"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Nervous system"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Immune system"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Haematology"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. The thoracic patient"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. The adult patient with congenital heart disease"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. The obstetric patient with cardiac disease"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Heart failure resistant to standard medical therapy"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. The transplant patient"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Acute cardiology"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Central venous cannulation, pulmonary artery catheter, and minimally invasive cardiac output monitoring"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Airway management"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Respiratory management"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. Circulatory support"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Epicardial pacing"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Sedation and pain relief"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Wound management"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Infection control and prevention"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Bedside echocardiography"
+      }
+    ],
+    "appendices": []
+  }
+]
