@@ -1,10 +1,9 @@
 # **Bleeding management**
 
-Introduction *40* Excessive bleeding *42* Overt bleeding *44* Concealed bleeding *45* Cardiac tamponade *46*
-
-### **Introduction**
-
-Cardiac surgery is responsible for 5% of all blood products used in the UK. All cardiac patients have some drainage from the chest drains postoperatively. This is variable in quantity and blood content with wide variations between units depending on individual protocols for:
+<details class="med-details">
+<summary>Introduction</summary>
+<div class="details-content">
+Cardiac surgery is responsible for 15% of all blood products used in the UK. All cardiac patients have some drainage from the chest drains postoperatively. This is variable in quantity and blood content with wide variations between units depending on individual protocols for:
 
 - Bypass circuit types including oxygenators, filters, and cannulae
 - Heparin and its reversal
@@ -17,7 +16,7 @@ Excessive bleeding is difficult to define and definitions vary. A good rule of t
 
 - >300mL in first hour
 - >200mL/hour for 2 consecutive hours
-- >50mL/hour for 4 consecutive hours.
+- >150mL/hour for 4 consecutive hours.
 
 Blood may accumulate in open pleural cavities and appear intermittently in significant aliquots.
 
@@ -31,7 +30,10 @@ Identified patient factors for excessive bleeding include:
 - Small body size/low BMI
 - Urgent or emergency status.
 
-### **Cardiac surgery and cardiopulmonary bypass**
+
+<details class="med-details">
+<summary>Cardiac surgery and cardiopulmonary bypass</summary>
+<div class="details-content">
 
 Cardiac surgery provides a unique set of circumstances to affect coagulation and fibrinolysis. The interaction of blood with non-endothelial surfaces in CPB releases tissue factors which activates cellular and humoral mechanisms; including the coagulation cascade, complement and fibrinolytic systems. Platelets and leucocytes are thereafter stimulated leading to the clinical effects of oedema, tissue injury, hyperfibrinolysis and a consumptive coagulopathy.
 
@@ -47,20 +49,29 @@ Technique and disease-specific issues include:
 - Antithrombotic drug therapy
 - Antiplatelet therapy
 - Warfarin therapy—inhibits vitamin K-dependent synthesis of factors II, VII, IX, X.
+</div>
+</details>
 
-## **Excessive bleeding**
+</div>
+</details>
 
-Up to 5% of cardiac surgical patients will require re-sternotomy in the early postoperative period. Stable patients with higher than expected blood loss may return to theatre but unstable patients are best managed in the ITU environment (Fig. 6.).
+
+
+<details class="med-details">
+<summary>Excessive bleeding</summary>
+<div class="details-content">
+
+Up to 5% of cardiac surgical patients will require re-sternotomy in the early postoperative period. Stable patients with higher than expected blood loss may return to theatre but unstable patients are best managed in the ITU environment (Fig. 6.1).
 
 Bleeding may be:
 
 - Overt with rapid or ongoing haemorrhage:
   - • >300mL in first hour
   - • >200mL/hour for 2 consecutive hours
-  - • >50mL/hour for 4 consecutive hours
+  - • >150mL/hour for 4 consecutive hours
 - Concealed presenting as haemodynamic instability and ongoing requirement for transfusion:
   - • *Beware pleural collections*, consider chest X-ray (CXR) and echo examination of the pleural spaces
-- Localized to the pericardial cavity and present with cardiac tamponade. See b Cardiac tamponade, p. 46.
+- Localized to the pericardial cavity and present with cardiac tamponade. See Cardiac tamponade.
 
 If untreated, bleeding and its complications will progress to cardiac arrest. Ongoing assessment and proactive management are important to avoid the additional complications of coagulopathy and massive transfusion.
 
@@ -72,40 +83,67 @@ Patients who require re-exploration are more likely to have the complications of
 - Sepsis
 - Atrial fibrillation
 - Prolonged mechanical ventilation
-- i hospital stay
-- i overall mortality.
+- ↑ hospital stay
+- ↑ overall mortality.
 
 ![](_page_4_Figure_1.jpeg)
 
-Figure 6. Management of coagulopathy. Reproduced from P Diprose, 'Reducing allogeneic transfusion in cardiac surgery: a randomized double-blind placebo-controlled trial of anti-fibrinolytic therapies used in addition to intra-operative cell salvage', *British Journal of Anaesthesia*,, pp. 27–278, by permission of The Board of Management and Trustees of the British Journal of Anaesthesia and Oxford University Press.
+Figure 6.1 Management of coagulopathy. 
+</div>
+</details>
 
-### **Overt bleeding**
+
+
+<details class="med-details">
+<summary>Overt bleeding</summary>
+<div class="details-content">
 
 The pathophysiology of bleeding in cardiac surgery is complex and requires multiple approaches to minimize blood loss and transfusions.
 
-### **Transfusion**
+
+<details class="med-details">
+<summary>Transfusion</summary>
+<div class="details-content">
 
 - Transfuse to keep the Hb >7g/dL postoperatively.
-- There is no evidence supporting transfusion where Hb >0g/dL.
+- There is no evidence supporting transfusion where Hb >10g/dL.
 - Given that a significant volume of colloid has been added during bypass, it is normal to tolerate lower Hb concentrations in the immediate postoperative period in the expectation that the patient will increase their urine output and the haematocrit will rise over the first few hours post bypass.
+</div>
+</details>
 
-### **Concealed bleeding**
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>Concealed bleeding</summary>
+<div class="details-content">
 Patients may have concealed haemorrhage if they require more volume replacement than anticipated in the first 2–4 hours after surgery. They are more likely to be tachycardic and BP will improve with transfusion of volume, but then fall again. Red cells will be required to maintain the haemoglobin >7g/dL:
 
-- It is important to know if the pleurae are open following surgery, as blood may collect in the pleural spaces. A CXR will show i opacification if there is a pleural collection.
+- It is important to know if the pleurae are open following surgery, as blood may collect in the pleural spaces. A CXR will show ↑ opacification if there is a pleural collection.
 - The peritoneum may be breached at sternotomy, and may become a reservoir for concealed haemorrhage.
 - Both the upper and lower GI tract may conceal haemorrhage, and should be considered if the source of bleeding cannot be identified.
 - Consider retroperitoneal haemorrhage if an IABP has been inserted.
 - Persisting bleeding from the legs may occur if vein has been harvested during surgery. Inspection of the legs should be included in the search for hidden haemorrhage.
+</div>
+</details>
 
-### **Cardiac tamponade**
 
-Cardiac tamponade is the clinical syndrome when blood collects in the pericardial space reducing ventricular filling and causing haemodynamic compromise. This can be produced with rapid accumulations of <50mL.
 
-### **Physiology**
+<details class="med-details">
+<summary>Cardiac tamponade</summary>
+<div class="details-content">
 
-Normal cardiac filling is bimodal:
+Cardiac tamponade is the clinical syndrome when blood collects in the pericardial space reducing ventricular filling and causing haemodynamic compromise. This can be produced with rapid accumulations of <150mL.
+
+<details class="med-details">
+<summary>Physiology</summary>
+<div class="details-content">
+
+
+<h5>Normal cardiac filling is bimodal:</h5>
+
 
 - Initially venous return increases with the onset of ventricular contraction and subsequent decrease in intrapericardial pressure (x descent of CVP).
 - Later RV filling in diastole with opening of tricuspid valve (y descent). This is diminished or absent in tamponade.
@@ -118,31 +156,41 @@ Mediastinal chest drains are inserted as standard postoperative practice. Howeve
 
 Early detection and treatment of cardiac tamponade is crucial in postoperative management. It often coexists in complex patients with low output states.
 
-Classical features include:
 
-- i HR
+<h5>Classical features include:</h5>
+
+
+- ↑ HR
 - Pulsus paradoxus (exaggerated decrease in systolic BP in inspiration). May be 20–40mmHg in tamponade but difficult to diagnose in hypotensive or ventilated patients
-- i jugular venous pressure (JVP)/CVP
+- ↑ jugular venous pressure (JVP)/CVP
 - ECG—low voltage complexes or electrical alternans.
-- d BP
-- d CO
-- d urinary output
+- ↓ BP
+- ↓ CO
+- ↓ urinary output
 - Cardiomegaly on CXR.
 
-#### Atypical features:
+
+<h5>Atypical features:</h5>
+
 
 - Failure to rewarm
 - Unexpected dysrhythmias
 - Lower than expected CO
 - Metabolic/lactic acidosis.
 
-Diagnosis may be difficult especially in patients with low output states. Echocardiography is a useful adjunct to diagnosis but a high index of clinical suspicion should always be present in:
+###### Diagnosis may be difficult especially in patients with low output states. Echocardiography is a useful adjunct to diagnosis but a high index of clinical suspicion should always be present in:
 
 - High-risk patients
 - When higher than average mediastinal losses suddenly diminish
 - Failure of patients to progress as expected.
+</div>
+</details>
 
-#### **Echocardiography**
+
+
+<details class="med-details">
+<summary>Echocardiography</summary>
+<div class="details-content">
 
 Cardiac tamponade cannot be excluded with echocardiography. Classical features include:
 
@@ -150,15 +198,32 @@ Cardiac tamponade cannot be excluded with echocardiography. Classical features i
 - Diastolic collapse of RV free wall (parasternal short axis at aortic valve)
 - Late diastolic compression/collapse of RA.
 
-#### **Difficulties**
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>Difficulties</summary>
+<div class="details-content">
 
 - Poor transthoracic access due to sternal wound/drains/pacing wires
 - Organized clot may be difficult to distinguish from myocardium and mediastinal structures
 - Ubiquitous left pleural effusion.
+</div>
+</details>
 
-### **Differential diagnosis**
+
+<details class="med-details">
+<summary>Differential diagnosis</summary>
+<div class="details-content">
 
 - Tension pneumothorax
 - Hypovolaemic shock
 - Acute right heart failure
-- MI • Congestive cardiac failure.
+- MI 
+- Congestive cardiac failure.
+</div>
+</details>
+
+</div>
+</details>

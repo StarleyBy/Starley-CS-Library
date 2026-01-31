@@ -2,32 +2,50 @@
 
 # **Resuscitation in the cardiac intensive care setting**
 
-Cardiac Surgery Advanced Life Support *26*
 
-# **Cardiac Surgery Advanced Life Support**
+<details class="med-details">
+<summary><span style="font-size:110%">Cardiac Surgery Advanced Life Support</span></summary>
+<div class="details-content">
+
 
 The Cardiac Surgery Advanced Life Support (CALS) course was developed in response to recognized differences which are required for management of arrested patients post sternotomy in contrast to standard European Resuscitation Council (ERC) Advanced Life Support (ALS) guidelines. CALS forms the European Association for Cardio-Thoracic Surgery (EACTS) guidelines.
 
-These modifications to standard ALS have now been taken on by the ERC and incorporated into the 'Special Situation – post cardiac surgery' section. The following text therefore relates only to patients up to 0 days post sternotomy who arrest on a cardiac ICU (CICU).
+These modifications to standard ALS have now been taken on by the ERC and incorporated into the 'Special Situation – post cardiac surgery' section. The following text therefore relates only to patients up to 10 days post sternotomy who arrest on a cardiac ICU (CICU).
 
-# **Differences from 'standard' ward arrest**
+
+<details class="med-details">
+<summary>Differences from 'standard' ward arrest</summary>
+<div class="details-content">
 
 - Many more available skilled staff members.
 - Arrest is identified immediately.
 - Much wider range of possible therapies.
 - Patient is often highly monitored and intubated.
 - Chest re-opening is a standard part of resuscitation—indeed when considering the 4Hs and 4Ts in the post-sternotomy setting all are resolved by chest opening as the cause of arrest on the CICU is often mechanical, e.g. tamponade, blown graft, loss of pacing.
+</div>
+</details>
 
-## **Key components of arrest management**
+
+
+<details class="med-details">
+<summary>Key components of arrest management</summary>
+<div class="details-content">
 
 - Early identification of patient pre-arrest.
 - Key specific roles for team members on arrival at scene.
-- Adoption of modified protocol regarding defibrillation/drugs (see Fig. 4.).
+- Adoption of modified protocol regarding defibrillation/drugs (see Fig. 4.1).
 - Use of simplified chest opening kit.
 - Use of 'all in one' sterile drape (central adhesive window)—no prep to wound.
 - Successful outcome in 48% if chest opened rapidly.
+</div>
+</details>
 
-# **Key specific roles and modifications from 'standard' ALS** See Fig. 4.2.
+
+
+<details class="med-details">
+<summary>Key specific roles and modifications from 'standard' ALS</summary>
+<div class="details-content">
+See Fig. 4.2.
 
 ### *Identification of arrest*
 
@@ -46,7 +64,7 @@ These modifications to standard ALS have now been taken on by the ERC and incorp
 - Asystole—attach pacer, DDD, rate 90, maximum output, anticipate the need for internal wires.
 - Pulseless electrical activity (PEA)—turn off pacer to unmask covert VF.
 
-## *Team leader*
+#### *Team leader*
 
 - Make early decision to open chest.
 - Gown and glove, rapidly minimal (if any) hand wash.
@@ -59,42 +77,42 @@ These modifications to standard ALS have now been taken on by the ERC and incorp
 
 • Do *NOT* give adrenaline (will cause catastrophic hypertension once tamponade relieved). Stop all infusions especially if drug error a possibility.
 
-# *Coordinator role*
+#### *Coordinator role*
 
 - Coordinate sending for help.
 - Assist others to rapidly gown and deliver opening kit.
+</div>
+</details>
 
-# **Pitfalls of chest opening**
+
+
+<details class="med-details">
+<summary>Pitfalls of chest opening</summary>
+<div class="details-content">
 
 - Note scalpel cannot be packaged in a sterile kit—use disposable scalpel.
 - Chest opening itself is harmless—even without sternal retraction tamponade may be resolved.
 - Internal massage can carry hazards—avoid dislodging left internal mammary artery (LIMA), grafts, and pacing wires.
 - Only use two-handed technique—one placed gently posterior to LV.
 - Single-handed technique may result in thumb through right ventricle (RV) or annular disruption!
+</div>
+</details>
 
-# **Contents of emergency reopening pack (only 5 items)**
+
+
+<details class="med-details">
+<summary>Contents of emergency reopening pack (only 5 items)</summary>
+<div class="details-content">
 
 - Sternal retractors
 - Wire cutters
 - Large forceps
 - Scissors
 - Heavy needle holder.
+</div>
+</details>
 
-# **Further reading**
 
-Dunning J, Fabbri A, Kolh PH, Levine A, Lockowandt U, Mackay J, *et al*. Guideline for resuscitation in cardiac arrest after cardiac surgery. *Eur J Cardiothorac Surg* 2009;36:3–28. M <[http://ejcts.](http://ejcts.oxfordjournals.org/content/36/1/3.long) [oxfordjournals.org/content/36//3.long>](http://ejcts.oxfordjournals.org/content/36/1/3.long).
-
-Dunning J, Nandi J, Ariffin S, Jerstice J, Danitsch D, Levine A. The Cardiac Surgery Advanced Life Support Course (CALS): delivering significant improvements in emergency cardiothoracic care, *Ann Thorac Surg* 2006;8(5):767–72. M <[http://dx.doi.org/0.06/j.athoracsur.2005.2.02>](http://dx.doi.org/10.1016/j.athoracsur.2005.12.012).
-
-Mackay JH, Powell SJ, Osgathorp J, Rozario CJ. Six-year prospective audit of chest reopening after cardiac arrest. *Eur J Cardiothorac Surg* 2002;22(3):42–5.
-
-The Cardiac Surgery Advanced Life Support course: M <[http://www.csu-als.com>](http://www.csu-als.com).
-
-A video of this protocol in practice can be found at: M [http://www.youtube.com/](http://www.youtube.com/watch?v=PHgYZDgQJgc) [watch?v=PHgYZDgQJgc](http://www.youtube.com/watch?v=PHgYZDgQJgc)
-
-A handbook of this protocol can be found at: M [<http://www.lulu.com/content/4428266](http://www.lulu.com/content/4428266)>. CALS manual: M <[http://webapp.doctors.org.uk/Redirect/www.lulu.com/content/442826>](http://webapp.doctors.org.uk/Redirect/www.lulu.com/content/442826).
-
-Demonstration of chest opening: M [<http://webapp.doctors.org.uk/Redirect/www.youtube.](http://webapp.doctors.org.uk/Redirect/www.youtube.com/watch?v=PHgYZDgQJgc) [com/watch?v=PHgYZDgQJgc>](http://webapp.doctors.org.uk/Redirect/www.youtube.com/watch?v=PHgYZDgQJgc).
 
 ![](_page_3_Figure_2.jpeg)
 
@@ -106,10 +124,14 @@ Figure 4. Arrest protocol. Reproduced from Dunning J. et al., 'Guideline for res
 
 #### **Six key roles in the cardiac arrest:**
 
-- 1. External cardiac massage
-  - 2. Airway and breathing
-    - 3. Debrillation
-    - 4. Team leader
-- 5. Drugs and syringe drivers 6. ICU co-ordinator
+1. External cardiac massage
+2. Airway and breathing
+3. Debrillation
+4. Team leader
+5. Drugs and syringe drivers 
+6. ICU co-ordinator
 
+  
 Figure 4.2 Six key roles in a cardiac arrest. Reproduced from Dunning J. et al., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic Surgery*, 2009, 36, pp. 3–28, by permission of the European Association for Cardio-Thoracic Surgery, the European Society of Thoracic Surgeons, and Oxford University Press.
+</div>
+</details>

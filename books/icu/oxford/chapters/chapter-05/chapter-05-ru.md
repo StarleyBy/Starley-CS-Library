@@ -1,144 +1,203 @@
-# **Мычелийный ischemия и инфаркт**
+# **Ишемия и инфаркт миокарда**
 
-Введение в заболевание myocardial ischemia *32* how to diagnose myocardial ischemia *33* diagnosis of myocardial infarction *36* Management: general principles *37*
+<details class="med-details">
+<summary>Введение</summary>
+<div class="details-content">
 
-### **Введение в заболевание myocardial ischemia**
+Ишемия миокарда является важной причиной нарушения функции миокарда у кардиохирургических пациентов в послеоперационном периоде.
 
-Мычелийный ischemия является важным источником dysfunctionа миокарда у пациентовCardiac surgical patients в постоперативном периоде.
+Крайне важно распознать признаки ишемии миокарда и начать лечение на ранней стадии, прежде чем разовьется порочный круг ухудшения, приводящий к ИМ. Возможные причины ишемии миокарда:
 
-Важно распознавать и лечить sớm signs myocardial ischemia, чтобы предотвратить vicious spiraling, culminating in MI. Возможные причины myocardial ischemia:
+- Дисбаланс между снабжением и потребностью, приводящий к субэндокардиальной ишемии.
+- Спазм коронарной артерии или артериального кондуита.
+- Тромбоз и/или окклюзия коронарного шунта или нативной коронарной артерии.
+- Механические проблемы, такие как перегиб шунта коронарной артерии, связанный с операцией АКШ.
+</div>
+</details>
 
-- Изbalance supply/demand balance, resulting in subendokardial ischemia
-- Спазм корон ary artery или артерий conduit
-- Тромбоз и/or occlusion coronary graft or native coronary artery
-- Механические проблемы, такие как кinking of a coronary artery graft related to CABG surgery.
 
-## **Как diagnose myocardial ischemia**
 
-В ICU, клинические ситуации, в которых необходимо учитывать myocardial ischemia, включают:
+<details class="med-details">
+<summary>Как диагностировать ишемию миокарда</summary>
+<div class="details-content">
 
-- Непрятные myocardial failure
-- Стигаяя changes in pattern consistent with distribution of coronary artery of graft
-- Стигаяя changes which may suggest coronary spasm
-- Эхокardiограмма может показать новое wall-motion abnormality
-- Амбигиранция type pain may be present in awake patient.
+В условиях ОКИТ клинические ситуации, при которых следует заподозрить ишемию миокарда, включают:
 
-Рigth coronary artery (RCA) supplies inferior and inferoseptal walls of LV и большей части RV (Fig. 5.). Elektrokardiограмма (ECG) изменения будут seen in inferior standard leads II, III, and aVF.
+- Неожиданная сердечная недостаточность.
+- Изменения сегмента ST, соответствующие зоне кровоснабжения коронарной артерии или шунта.
+- Эпизодическая элевация или депрессия сегмента ST, что может указывать на коронарный спазм.
+- Эхокардиограмма может выявить новые нарушения локальной сократимости.
+- У бодрствующего пациента может присутствовать боль по типу стенокардии.
 
-Левый anterior descending branch left coronary artery supplies anterior and anteroseptal walls. Elektrokardiограмма (ECG) changes will be seen in standard lead и anterior chest leads V–3.
+Правая коронарная артерия (ПКА) кровоснабжает нижнюю и нижнеперегородочную стенки ЛЖ и большую часть ПЖ (Рис. 5.1). Изменения на электрокардиограмме (ЭКГ) будут видны в нижних стандартных отведениях II, III и aVF.
 
-Коронарный артерий branch of left coronary artery supplies lateral и posterior wall of LV. Elektrokardiограмма (ECG) changes will be seen in standard lead и lateral ventricular lead aVL.
+Передняя нисходящая ветвь левой коронарной артерии кровоснабжает переднюю и переднеперегородочную стенки. Изменения ЭКГ будут видны в стандартном отведении I и передних грудных отведениях V1–3.
 
-В 85% из patients RCA said to be 'dominant' because it supplies circulation to inferior portion of interventricular septum via right posterior descending coronary artery (or PDA) branch.
+Огибающая ветвь левой коронарной артерии кровоснабжает боковую и заднюю стенку ЛЖ. Изменения ЭКГ будут видны в стандартном отведении I и латеральном желудочковом отведении aVL.
 
-Неприкосновительные ST и T wave changes are common after cardiac surgery and may be due to pericardial reaction which makes recognition of myocardial ischemic difficult. Intraventricular conduction defects may compound these difficulties.
+У 85% пациентов ПКА считается «доминантной», поскольку она кровоснабжает нижнюю часть межжелудочковой перегородки через заднюю нисходящую ветвь (правая задняя нисходящая артерия, ПЗНВ).
 
-#### **ЭКГ определения myocardial ischemia**
+Неспецифические изменения сегмента ST и зубца T часто встречаются после кардиохирургических операций и могут быть обусловлены реакцией перикарда, что затрудняет распознавание ишемии миокарда. Внутрижелудочковые нарушения проводимости могут усугублять эти трудности.
 
-В отсутствии left ventricular hypertrophy (LVH) и left bundle branch block (LBBB):
 
-#### *ST elevation*
+<details class="med-details">
+<summary>ЭКГ-критерии ишемии миокарда</summary>
+<div class="details-content">
 
-ST elevation from J point in two contiguous leads with cut-off points: ≥0,2мВ в мужчине и 0,5мВ в женщинe в lead V2–3 и/or ≥0,5мВ в any other leads.
+При отсутствии гипертрофии левого желудочка (ГЛЖ) и блокады левой ножки пучка Гиса (БЛНПГ):
 
-#### *ST depression and T wave changes*
+#### *Элевация сегмента ST*
 
-Новое горизонтальное или.downslope depression ≥0,05мВ в двух contiguous lead; и/or T wave inversion in ≥0,mV в двух contiguous lead с prominent R wave or R/S >.
+Элевация сегмента ST от точки J в двух смежных отведениях с пороговыми значениями: ≥0,2 мВ у мужчин и ≥0,15 мВ у женщин в отведениях V2–3 и/или ≥0,15 мВ в любых других отведениях.
 
-КонтiguOUS leads mean lead groups such as
+#### *Депрессия сегмента ST и изменения зубца T*
 
-- Анterior leads V–6
-- Inferior leads II, III, aVF
-- Lateral/apical leads I and aVL.
+Новая горизонтальная или косонисходящая депрессия ≥0,05 мВ в двух смежных отведениях; и/или инверсия зубца T ≥0,1 мВ в двух смежных отведениях с выраженным зубцом R или отношением R/S >1.
 
-#### **Дeterminants of myocardial oxygen supply**
 
-- Анаemia (Hb <8.0g/dL) может predispose to myocardial ischemia.
-- Тachycardia: myocardial oxygen supply is determined by diastolic filling time.
+<h5>Смежные отведения означают группы отведений, такие как:</h5>
 
-- Хпотension: diastolic BP and end-diastolic pressure gradient. The perfusion of the LV occurs in diastole while the RV can be perfused in both systole and diastole.
-- Увеличениеdemand due to use of inotropes such as adrenalin and dobutamine.
 
-Мычелийный oxygen demand is determined by heart rate (HR) and systolic BP which can be quantified as the rate pressure product. Therefore hypertension and tachycardias should be avoided. Myocardial ischemia results from an imbalance between myocardial oxygen supply and demand.
+- Передние отведения V1–6
+- Нижние отведения II, III, aVF
+- Латеральные/верхушечные отведения I и aVL.
+</div>
+</details>
 
-#### **ЭКГ findings in myocardial ischemia or infarction**
 
-Новое regional wall-motion abnormality may indicate myocardial ischemia or infarction. This may reflect the distribution of a particular coronary artery or be more global in character. There may also be global LV or RV systolic and/or diastolic dysfunction. In some cases, new mitral regurgitation or ventricular septal defect (VSD) may be identified.
 
-Мычелийный ischemia can be induced even in the presence of normal coronary arteries.
+<details class="med-details">
+<summary>Детерминанты снабжения миокарда кислородом</summary>
+<div class="details-content">
 
-#### **Испытания в suspected myocardial ischemia**
+- Анемия (Hb <8,0 г/дл) может предрасполагать к ишемии миокарда.
+- Тахикардия: снабжение миокарда кислородом определяется временем диастолического наполнения.
+- Гипотензия: диастолическое АД и градиент давления в конце диастолы. Перфузия ЛЖ происходит в диастолу, в то время как ПЖ может перфузироваться как в систолу, так и в диастолу.
+- Повышение потребности из-за применения инотропов, таких как адреналин и добутамин.
 
-- 2-lead ECG
-- Эхокardiограмма
-- Рассмотрение операционного intervention.
+Потребность миокарда в кислороде определяется частотой сердечных сокращений (ЧСС) и систолическим АД, что может быть количественно оценено как произведение частоты и давления. Следовательно, следует избегать гипертензии и тахикардии. Ишемия миокарда возникает в результате дисбаланса между снабжением миокарда кислородом и потребностью в нем.
+</div>
+</details>
+
+
+
+<details class="med-details">
+<summary>Эхокардиографические данные при ишемии или инфаркте миокарда</summary>
+<div class="details-content">
+
+Новое нарушение локальной сократимости может указывать на ишемию или инфаркт миокарда. Это может отражать зону кровоснабжения конкретной коронарной артерии или иметь более глобальный характер. Также может наблюдаться глобальная систолическая и/или диастолическая дисфункция ЛЖ или ПЖ. В некоторых случаях может быть выявлена новая митральная регургитация или дефект межжелудочковой перегородки (ДМЖП).
+
+Ишемия миокарда может развиться даже при наличии нормальных коронарных артерий.
+</div>
+</details>
+
+
+
+<details class="med-details">
+<summary>Обследование при подозрении на ишемию миокарда</summary>
+<div class="details-content">
+
+
+- ЭКГ в 12 отведениях
+- Эхокардиография
+- Анализ выполненного оперативного вмешательства.
+</div>
+</details>
+
 
 ![](_page_4_Picture_2.jpeg)
 
-Фиг. 5. Typical regions of myocardium perfused by each of the major coronary arteries to left ventricle. Other patterns occur as a result of normal anatomical variations or coronary disease with collateral flow. LAD: left anterior descending; Cx: circumflex; RCA: right coronary artery. Репринт от *_Journal of the American Society of Echocardiography*,, Shanewise, J. et al., 'ASE/SCA guidelines for performing a comprehensive intraoperative multiplane transesophageal echocardiography examination: recommendations of the American Society of Echocardiography Council for Intraoperative Echocardiography and the Society of Cardiovascular Anesthesiologists Task Force for Certification in Perioperative Transesophageal Echocardiography', pp. 884–900, Copyright 999, with permission from American Society of Echocardiography и Elsevier.
+Рисунок 5.1 Типичные регионы миокарда, кровоснабжаемые каждой из основных коронарных артерий левого желудочка. Другие варианты возникают в результате нормальных анатомических вариаций или коронарной болезни с коллатеральным кровотоком. ПНА: передняя нисходящая артерия; ОА: огибающая артерия; ПКА: правая коронарная артерия.
+</div>
+</details>
 
-### **Диагностика myocardial infarction**
 
-Диагностика MI сложная после cardiac surgery. Еlevation cardiac biomarkers such as troponin occurs to various degrees after cardiac surgery due to myocardial cell necrosis. Это может occur as a result of:
 
-- СправедливостьCardiac trauma
-- Cardiac handling
-- Коронарный dissection
-- Global or regional ischemia due to inadequate myocardial protection and reperfusion injury
-- Дamage from oxygen free radicals
-- Неправильная treatment with inotropes such as adrenalin and dobutamine.
+<details class="med-details">
+<summary>Диагностика инфаркта миокарда</summary>
+<div class="details-content">
 
-However, major elevations of biomarkers are associated with worsened prognosis.
+Диагностика ИМ затруднена после кардиохирургической операции. Повышение кардиоспецифических биомаркеров, таких как тропонин, происходит в различной степени после кардиохирургических операций вследствие некроза кардиомиоцитов. Это может произойти в результате:
 
-European Society of Cardiology (ESC)/American Heart Association (AHA) consensus guidelines redefined the types of MI in 2007.
+- Хирургической травмы
+- Манипуляций с сердцем
+- Диссекции коронарной артерии
+- Глобальной или региональной ишемии из-за неадекватной защиты миокарда и реперфузионного повреждения
+- Повреждения свободными радикалами кислорода
+- Неадекватной реваскуляризации.
 
-#### **Тип 5 myocardial infarction (post cardiac surgery)**
+Тем не менее, значительное повышение биомаркеров ассоциировано с ухудшением прогноза.
 
-В CABG с нормальным baseline troponin значения, elevation of cardiac bio-markers above 99th percentile upper reference limit (URL) indicative of perioperative myocardial necrosis. В convention:
+Совместные рекомендации Европейского общества кардиологов (ESC) и Американской кардиологической ассоциации (AHA) пересмотрели типы ИМ в 2007 году.
 
-- Increases in biomarkers >5 × 99th percentile during the first 72 hours after CABG:
-  - • plus either new pathological Q waves or new LBBB
-  - • or angiographically new graft occlusion or native coronary occlusion
-  - • or imaging evidence of new loss of myocardium have been designated as defining CABG-related MI.
-- Увеличение biomarkers levels are associated with worse prognosis.
 
-## **Манagement: общие принципы**
+<details class="med-details">
+<summary>Инфаркт миокарда 5 типа (после кардиохирургической операции)</summary>
+<div class="details-content">
 
-### **Начальные interventions are targeted at reducing ischemia**
+При АКШ с нормальными исходными значениями тропонина повышение кардиоспецифических биомаркеров выше 99-го процентиля верхнего референсного предела (URL) указывает на периоперационный некроз миокарда. По соглашению:
 
-- Контроль tachycardia HR <00bpm.
-- Normalization BP: MAP 70–00mmHg.
-- Reducing end-diastolic pressures with vasodilators such as glyceryl trinitrate (GTN).
-- If hypertensive reduce inotropes.
-- Correct hypotension.
-- Это может быть due to hypovolaemia or ischemia-induced myocardial dysfunction or vasodilation.
-- Beware: inotropes may increase myocardial oxygen demand.
-- Administer aspirin if bleeding is controlled.
+- Повышение биомаркеров >5 × 99-го процентиля в течение первых 72 часов после АКШ:
+  - • плюс либо новые патологические зубцы Q, либо новая БЛНПГ
+  - • либо ангиографически выявленная новая окклюзия шунта или нативной коронарной артерии
+  - • либо визуализационные признаки новой потери жизнеспособного миокарда были определены как критерии ИМ, связанного с АКШ.
+- Повышенные уровни биомаркеров ассоциированы с худшим прогнозом.
+</div>
+</details>
 
-#### *Если неэффективные меры*: 
+</div>
+</details>
 
-- Consider insertion of an IABP early as it is beneficial to the supply/demand balance and may allow weaning of inotropes.
-- Consider surgical intervention with re-exploration if malfunctioning graft is suspected.
-- Emergency coronary angiography with possible percutaneous coronary intervention (PCI).
 
-Если диагноз MI выявлен в постоперативном периоде, лечение будет аналогичным, как и для пациентов безcardiac surgery с исключением того, что thrombolysis не является допустимым в постоперативном периоде из-за рисков bleeding.
 
-Мычелийный ischemia может быть inducирован даже в presence of normal coronary arteries.
+<details class="med-details">
+<summary>Ведение: общие принципы</summary>
+<div class="details-content">
 
-Supportive therapy is targeted on the following aims:
+### **Первоначальные вмешательства направлены на уменьшение ишемии**
 
-- Re-establish coronary perfusion if possible
-- Maintain systemic perfusion
-- Avoid organ dysfunction
-- Treat arrhythmias
-- Identify and treat any complications
-- Secondary prevention with aspirin and statins.
+- Контролировать тахикардию, ЧСС <100 уд/мин.
+- Нормализовать АД: САД 70–100 мм рт.ст.
+- Снизить конечное диастолическое давление с помощью вазодилататоров, таких как нитроглицерин (НТГ).
+- При гипертензии снизить дозы инотропов.
+- Корригировать гипотензию.
+- Она может быть обусловлена гиповолемией, ишемией-индуцированной дисфункцией миокарда или вазодилатацией.
+- Осторожно: инотропы могут увеличить потребность миокарда в кислороде.
+- Назначить аспирин, если кровотечение контролируется.
 
-Cardiogenic shock may require treatment with:
+#### *Если простые меры неэффективны:*
 
-- IABP
-- Inotropes
-- Vasodilators such as milrinone
-- Ventricular assist device (VAD).
+- Рассмотрите раннюю установку ВАБН, так как он благоприятно влияет на баланс снабжения/потребности и может позволить снизить дозы инотропов.
+- Рассмотрите хирургическое вмешательство с рестернотомией, если подозревается несостоятельность шунта.
+- Экстренная коронароангиография с возможной чрескожной коронарной интервенцией (ЧКВ).
 
-Return ONLY the translated Russian markdown text.
+Если диагноз ИМ установлен в послеоперационном периоде, терапия аналогична ведению пациентов в некоронарном стационаре, за исключением того, что тромболизис противопоказан в послеоперационном периоде из-за риска кровотечения.
+
+ИМ может осложниться:
+
+- Аритмиями
+- Кардиогенным шоком
+- Органной дисфункцией
+- ДМЖП
+- Разрывом сосочковой мышцы и тяжелой митральной регургитацией (МР).
+
+Поддерживающая терапия направлена на достижение следующих целей:
+
+- По возможности восстановить коронарную перфузию
+- Поддерживать системную перфузию
+- Избежать органной дисфункции
+- Лечить аритмии
+- Выявить и лечить любые осложнения
+- Вторичная профилактика аспирином и статинами.
+
+Кардиогенный шок может потребовать лечения с помощью:
+
+- ВАБН
+- Инотропов
+- Вазодилататоров, таких как милринон
+- Желудочкового вспомогательного устройства (ЖВУ).
+
+#### *Ключевой момент*
+При ишемии миокарда следует приложить все усилия для раннего выявления устранимых причин, так как технические проблемы с коронарными шунтами могут быть устранены путем реоперации или ЧКВ.
+</div>
+</details>

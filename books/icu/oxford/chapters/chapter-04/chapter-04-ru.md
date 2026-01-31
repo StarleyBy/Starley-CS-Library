@@ -1,109 +1,137 @@
-# **Chapter 4**
+# **Глава 4**
 
-# **Ресuscитация в cardiac intensive care setting**
+# **Реанимация в условиях кардиохирургической интенсивной терапии**
 
-Cardiac Surgery Advanced Life Support *26*
 
-# **Cardiac Surgery Advanced Life Support**
+<details class="med-details">
+<summary><span style="font-size:110%">Расширенная кардиохирургическая реанимация</span></summary>
+<div class="details-content">
 
-The Cardiac Surgery Advanced Life Support (CALS) course was developed in response to recognized differences, which are required for management of arrested patients post sternotomy in contrast to standard European Resuscitation Council (ERC) Advanced Life Support (ALS) guidelines. CALS forms the European Association for Cardio-Thoracic Surgery (EACTS) guidelines.
 
-These modifications to standard ALS have now been taken on by the ERC and incorporated into the 'Special Situation – post cardiac surgery' section. The following text therefore relates only to patients up to 0 days post sternotomy who arrest on a cardiac ICU (CICU).
+Курс Расширенной кардиохирургической реанимации (Cardiac Surgery Advanced Life Support, CALS) был разработан в ответ на признанные различия, необходимые для ведения пациентов с остановкой сердца после стернотомии, в отличие от стандартных рекомендаций по Расширенной реанимации (Advanced Life Support, ALS) Европейского совета по реанимации (European Resuscitation Council, ERC). CALS составляет основу рекомендаций Европейской ассоциации кардио-торакальных хирургов (European Association for Cardio-Thoracic Surgery, EACTS).
 
-# **Differences from 'standard' ward arrest**
+Эти модификации стандартного ALS были теперь приняты ERC и включены в раздел «Особые ситуации – после кардиохирургической операции». Следующий текст, таким образом, относится только к пациентам в срок до 10 дней после стернотомии, у которых произошла остановка сердца в отделении кардиохирургической интенсивной терапии (ОКИТ).
 
-- Much wider range of possible therapies.
-- Arrest is identified immediately.
-- Patient is often highly monitored and intubated.
-- Chest re-opening is a standard part of resuscitation—indeed when considering the 4Hs and 4Ts in the post-sternotomy setting all are resolved by chest opening as the cause of arrest on the CICU is often mechanical, e.g. tamponade, blown graft, loss of pacing.
 
-## **Key components of arrest management**
+<details class="med-details">
+<summary>Отличия от «стандартной» остановки в общей палате</summary>
+<div class="details-content">
 
-- Early identification of patient pre-arrest.
-- Key specific roles for team members on arrival at scene.
-- Adoption of modified protocol regarding defibrillation/drugs (see Fig. 4.).
-- Use of simplified chest opening kit.
-- Use of 'all in one' sterile drape (central adhesive window)—no prep to wound.
-- Successful outcome in 48% if chest opened rapidly.
+- Наличие значительно большего числа квалифицированных сотрудников.
+- Остановка выявляется немедленно.
+- Значительно более широкий спектр возможных методов лечения.
+- Пациент часто находится под тщательным мониторингом и интубирован.
+- Рестернотомия является стандартной частью реанимации — действительно, при рассмотрении 4Hs и 4Ts в условиях после стернотомии все они могут быть разрешены путем вскрытия грудной клетки, так как причина остановки на ОКИТ часто механическая, например, тампонада, разрыв шунта, потеря стимуляции.
+</div>
+</details>
 
-# **Key specific roles and modifications from 'standard' ALS** See Fig. 4.2.
 
-### *Identification of arrest*
 
-- Do not be sidetracked by monitor traces!
-- Defibrillate or pace before massage if equipment at bedside.
-- Efficacy of massage can be judged from A line trace.
-- Switch intra-aortic balloon pump (IABP) to pressure mode.
+<details class="med-details">
+<summary>Ключевые компоненты ведения остановки сердца</summary>
+<div class="details-content">
 
-#### *Airway role*
+- Раннее выявление пациента в предагональном состоянии.
+- Четкие конкретные роли для членов команды по прибытии на место.
+- Использование модифицированного протокола в отношении дефибрилляции/препаратов (см. Рис. 4.1).
+- Использование упрощенного набора для вскрытия грудной клетки.
+- Использование «все-в-одном» стерильной простыни (с центральным клейким окном) — без подготовки раны.
+- Успешный исход в 48% случаев при быстром вскрытии грудной клетки.
+</div>
+</details>
 
-• Identification of tension pneumothorax may be difficult in a noisy ICU environment.
 
-#### *Defibrillation*
 
-- In ventricular fibrillation (VF) three shocks are administered before chest opening—anticipate the need for internal paddles.
-- Asystole—attach pacer, DDD, rate 90, maximum output, anticipate the need for internal wires.
-- Pulseless electrical activity (PEA)—turn off pacer to unmask covert VF.
+<details class="med-details">
+<summary>Ключевые конкретные роли и модификации по сравнению со «стандартным» ALS</summary>
+<div class="details-content">
+См. Рис. 4.2.
 
-## *Team leader*
+### *Выявление остановки сердца*
 
-- Make early decision to open chest.
-- Gown and glove, rapidly minimal (if any) hand wash.
-- Do not apply cleaning agents to wound—these work by drying and delay opening.
-- Apply 'all-in-one drape' to patient after massager has removed wound dressing.
-- Massage over sterile dressing until chest opening kit delivered.
-- Open chest, deliver internal massage/shocks, identify cause of arrest.
+- Не отвлекайтесь на показания монитора!
+- Проведите дефибрилляцию или кардиостимуляцию перед массажем, если оборудование у постели больного.
+- Эффективность массажа можно оценить по кривой артериальной линии.
+- Переключите внутриаортальный баллонный насос (ВАБН) в режим давления.
 
-#### *Drugs*
+#### *Роль ответственного за дыхательные пути*
 
-• Do not give adrenaline (will cause catastrophic hypertension once tamponade relieved). Stop all infusions especially if drug error a possibility.
+• Выявление напряженного пневмоторакса может быть затруднено в шумной обстановке ОИТ.
 
-# **Coordinator role**
+#### *Дефибрилляция*
 
-- Coordinate sending for help.
-- Assist others to rapidly gown and deliver opening kit.
+- При фибрилляции желудочков (ФЖ) наносятся три разряда до вскрытия грудной клетки — будьте готовы к необходимости использования внутренних электродов.
+- Асистолия — подключите кардиостимулятор, режим DDD, частота 90, максимальная выходная мощность, будьте готовы к необходимости внутренних электродов.
+- Электромеханическая диссоциация (ЭМД) — отключите кардиостимулятор, чтобы исключить скрытую ФЖ.
 
-# **Pitfalls of chest opening**
+#### *Лидер команды*
 
-- Note scalpel cannot be packaged in a sterile kit—use disposable scalpel.
-- Chest opening itself is harmless—even without sternal retraction tamponade may be resolved.
-- Internal massage can carry hazards—avoid dislodging left internal mammary artery (LIMA), grafts, and pacing wires.
-- Only use two-handed technique—one placed gently posterior to LV.
-- Single-handed technique may result in thumb through right ventricle (RV) or annular disruption!
+- Примите раннее решение о вскрытии грудной клетки.
+- Наденьте халат и перчатки, быстрое (если вообще) мытье рук.
+- Не наносите антисептические средства на рану — они действуют путем высушивания и задерживают вскрытие.
+- Наложите на пациента «все-в-одном» простыню после того, как проводящий массаж удалит повязку с раны.
+- Проводите массаж через стерильную простыню до доставки набора для вскрытия грудной клетки.
+- Вскройте грудную клетку, проведите внутренний массаж/разряды, определите причину остановки.
 
-# **Contents of emergency reopening pack (only 5 items)**
+#### *Препараты*
 
-- Sternal retractors
-- Wire cutters
-- Large forceps
-- Scissors
-- Heavy needle holder.
+• НЕ вводите адреналин (вызовет катастрофическую гипертензию после устранения тампонады). Остановите все инфузии, особенно если возможна ошибка введения препарата.
 
-# **Further reading**
+#### *Роль координатора*
 
-Dunning J, Fabbri A, Kolh PH, Levine A, Lockowandt U, Mackay J, *et al*. Guideline for resuscitation in cardiac arrest after cardiac surgery. *Eur J Cardio-thoracurg surg* 2009;36:3–28. M <[http://ejcts.oxfordjournals.org/content/36/1/3.long](http://ejcts.oxfordjournals.org/content/36/1/3.long)> [oxfordjournals.org/content/36//3.long].
+- Организуйте вызов помощи.
+- Помогайте другим быстро надеть халаты и доставить набор для вскрытия.
+</div>
+</details>
 
-Dunning J, Nandi J, Ariffin S, Jerstice J, Danitsch D, Levine A. The Cardiac Surgery Advanced Life Support Course (CALS): delivering significant improvements in emergency cardiothoracic care, *Ann Thoracurg* 2006;8:767–72. M <[http://dx.doi.org/10.1016/j.athoracsur.2005.12.012](http://dx.doi.org/10.1016/j.athoracsur.2005.12.012)> [dx.doi.org/10.1016/j.athoracsur.2005.12.012].
 
-Mackay JH, Powell SJ, Osgathorp J, Rozario CJ. Six-year prospective audit of chest reopening after cardiac arrest. *Eur J Cardiothoracurg surg* 2002;22:42–5.
 
-The Cardiac Surgery Advanced Life Support course: M <[http://www.csu-als.com](http://www.csu-als.com)>.
+<details class="med-details">
+<summary>Опасности при вскрытии грудной клетки</summary>
+<div class="details-content">
 
-A video of this protocol in practice can be found at: M [http://www.youtube.com/PHgYZDgQJgc](http://www.youtube.com/watch?v=PHgYZDgQJgc) [watch?v=PHgYZDgQJgc].
+- Учтите, что скальпель не может быть упакован в стерильный набор — используйте одноразовый скальпель.
+- Само по себе вскрытие грудной клетки безопасно — даже без установки ранорасширителя тампонада может быть устранена.
+- Внутренний массаж может нести риски — избегайте смещения внутренней грудной артерии (ВГА), шунтов и электродов кардиостимулятора.
+- Используйте только двухручную технику — одна рука аккуратно располагается кзади от ЛЖ.
+- Одноручная техника может привести к перфорации правого желудочка (ПЖ) или повреждению фиброзного кольца!
+</div>
+</details>
+
+
+
+<details class="med-details">
+<summary>Содержимое набора для экстренной рестернотомии (всего 5 предметов)</summary>
+<div class="details-content">
+
+- Стернальный ранорасширитель
+- Кусачки для проволоки
+- Большие щипцы
+- Ножницы
+- Прочный иглодержатель.
+</div>
+</details>
+
+
 
 ![](_page_3_Figure_2.jpeg)
 
-Figure 4. Arrest protocol. Reproduced from Dunning J. et al., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic surg*,, pp. 3–28, by permission of the European Association for Cardio-Thoracic Surgery, the European Society of Thoracic Surgeons, and Oxford University Press.
+Рисунок 4. Протокол при остановке сердца. Воспроизведено из Dunning J. и соавт., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic Surgery*, 2009, 36, стр. 3–28, с разрешения European Association for Cardio-Thoracic Surgery, European Society of Thoracic Surgeons и Oxford University Press.
 
-Do not delay basic life support for defibrillation or pacing for more than one minute.
+**Не задерживайте проведение базовой реанимации для дефибрилляции или кардиостимуляции более чем на одну минуту.**
 
 ![](_page_4_Figure_2.jpeg)
 
-#### **Six key roles in the cardiac arrest:**
+#### **Шесть ключевых ролей при остановке сердца:**
 
-- 1. External cardiac massage
-  - 2. Airway and breathing
-    - 3. Debrillation
-    - 4. Team leader
-- 5. Drugs and syringe drivers 
-6. ICU co-ordinator
+1. Наружный массаж сердца
+2. Дыхательные пути и дыхание
+3. Дефибрилляция
+4. Лидер команды
+5. Препараты и инфузионные насосы
+6. Координатор ОИТ
+
+  
+Рисунок 4.2 Шесть ключевых ролей при остановке сердца. Воспроизведено из Dunning J. и соавт., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic Surgery*, 2009, 36, стр. 3–28, с разрешения European Association for Cardio-Thoracic Surgery, European Society of Thoracic Surgeons и Oxford University Press.
+</div>
+</details>
