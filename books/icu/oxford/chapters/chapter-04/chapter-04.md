@@ -82,25 +82,23 @@ These modifications to standard ALS have now been taken on by the ERC and incorp
 
 # **Further reading**
 
-Dunning J, Fabbri A, Kolh PH, Levine A, Lockowandt U, Mackay J, *et al*. Guideline for resuscitation in cardiac arrest after cardiac surgery. *Eur J Cardiothoracurg surg* 2009;36:3–28. M <[http://ejcts.oxfordjournals.org/content/36/1/3.long](http://ejcts.oxfordjournals.org/content/36/1/3.long)> [oxfordjournals.org/content/36//3.long](http://oxfordjournals.org/content/36//3.long).
+Dunning J, Fabbri A, Kolh PH, Levine A, Lockowandt U, Mackay J, *et al*. Guideline for resuscitation in cardiac arrest after cardiac surgery. *Eur J Cardiothorac Surg* 2009;36:3–28. M <[http://ejcts.](http://ejcts.oxfordjournals.org/content/36/1/3.long) [oxfordjournals.org/content/36//3.long>](http://ejcts.oxfordjournals.org/content/36/1/3.long).
 
-Dunning J, Nandi J, Ariffin S, Jerstice J, Danitsch D, Levine A. The Cardiac Surgery Advanced Life Support Course (CALS): delivering significant improvements in emergency cardiothoracic care, *Ann Thoracurg* 2006;8:767–72. M <[http://dx.doi.org/0.06/j.athoracsur.2005.2.02](http://dx.doi.org/10.1016/j.athoracsur.2005.12.012)> [dx.doi.org/10.1016/j.athoracsur.2005.12.012].
+Dunning J, Nandi J, Ariffin S, Jerstice J, Danitsch D, Levine A. The Cardiac Surgery Advanced Life Support Course (CALS): delivering significant improvements in emergency cardiothoracic care, *Ann Thorac Surg* 2006;8(5):767–72. M <[http://dx.doi.org/0.06/j.athoracsur.2005.2.02>](http://dx.doi.org/10.1016/j.athoracsur.2005.12.012).
 
-Mackay JH, Powell SJ, Osgathorp J, Rozario CJ. Six-year prospective audit of chest reopening after cardiac arrest. *Eur J Cardiothoracurg surg* 2002;22:42–5.
+Mackay JH, Powell SJ, Osgathorp J, Rozario CJ. Six-year prospective audit of chest reopening after cardiac arrest. *Eur J Cardiothorac Surg* 2002;22(3):42–5.
 
-The Cardiac Surgery Advanced Life Support course: M <[http://www.csu-als.com](http://www.csu-als.com)>.
+The Cardiac Surgery Advanced Life Support course: M <[http://www.csu-als.com>](http://www.csu-als.com).
 
-A video of this protocol in practice can be found at: M [http://www.youtube.com/PHgYZDgQJgc](http://www.youtube.com/watch?v=PHgYZDgQJgc) [watch?v=PHgYZDgQJgc].
+A video of this protocol in practice can be found at: M [http://www.youtube.com/](http://www.youtube.com/watch?v=PHgYZDgQJgc) [watch?v=PHgYZDgQJgc](http://www.youtube.com/watch?v=PHgYZDgQJgc)
 
-A handbook of this protocol can be found at: M [<http://www.lulu.com/content/4428266](http://www.lulu.com/content/4428266)>.
+A handbook of this protocol can be found at: M [<http://www.lulu.com/content/4428266](http://www.lulu.com/content/4428266)>. CALS manual: M <[http://webapp.doctors.org.uk/Redirect/www.lulu.com/content/442826>](http://webapp.doctors.org.uk/Redirect/www.lulu.com/content/442826).
 
-CALS manual: M <[http://webapp.doctors.org.uk/Redirect/www.lulu.com/content/442826](http://webapp.doctors.org.uk/Redirect/www.lulu.com/content/442826)>.
-
-Demonstration of chest opening: M [<http://webapp.doctors.org.uk/Redirect/www.youtube.com/watch?v=PHgYZDgQJgc](http://webapp.doctors.org.uk/Redirect/www.youtube.com/watch?v=PHgYZDgQJgc) [com/watch?v=PHgYZDgQJgc].
+Demonstration of chest opening: M [<http://webapp.doctors.org.uk/Redirect/www.youtube.](http://webapp.doctors.org.uk/Redirect/www.youtube.com/watch?v=PHgYZDgQJgc) [com/watch?v=PHgYZDgQJgc>](http://webapp.doctors.org.uk/Redirect/www.youtube.com/watch?v=PHgYZDgQJgc).
 
 ![](_page_3_Figure_2.jpeg)
 
-Figure 4. Arrest protocol. Reproduced from Dunning J. et al., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic surg*,, pp. 3–28, by permission of the European Association for Cardio-Thoracic Surgery, the European Society of Thoracic Surgeons, and Oxford University Press.
+Figure 4. Arrest protocol. Reproduced from Dunning J. et al., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic Surgery*, 2009, 36, pp. 3–28, by permission of the European Association for Cardio-Thoracic Surgery, the European Society of Thoracic Surgeons, and Oxford University Press.
 
 **Do not delay basic life support for defibrillation or pacing for more than one minute.**
 
@@ -113,3 +111,5 @@ Figure 4. Arrest protocol. Reproduced from Dunning J. et al., 'Guideline for res
     - 3. Debrillation
     - 4. Team leader
 - 5. Drugs and syringe drivers 6. ICU co-ordinator
+
+Figure 4.2 Six key roles in a cardiac arrest. Reproduced from Dunning J. et al., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-thoracic Surgery*, 2009, 36, pp. 3–28, by permission of the European Association for Cardio-Thoracic Surgery, the European Society of Thoracic Surgeons, and Oxford University Press.
