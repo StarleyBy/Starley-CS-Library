@@ -1,8 +1,8 @@
 # **Fast-tracking the low-risk patient**
 
-Fast-track concepts *22* Enhanced recovery *24*
-
-# **Fast-track concepts**
+<details class="med-details">
+<summary>Fast-track concepts</summary>
+<div class="details-content">
 
 Achieving a rapid and sustained recovery is one of the primary goals in the modern management of cardiac surgical patients.
 
@@ -10,7 +10,10 @@ Advancements in surgery, anaesthesia, and improved patient selection and prepara
 
 The defining characteristic of these programmes is the reduction in the use of critical care resources in the postoperative period. Instead, the patient is managed in a specialized recovery of postsurgical care unit and stepped down to the cardiac surgical ward directly from there.
 
-### **Principles of fast-tracking the low-risk patient**
+
+<details class="med-details">
+<summary>Principles of fast-tracking the low-risk patient</summary>
+<div class="details-content">
 
 The key elements are:
 
@@ -24,8 +27,15 @@ Applying these principles has been shown to be equally safe for the patient when
 When looking at the overall in-hospital mortality in a series of almost 8000 patients, a retrospective analysis could not demonstrate an increased risk of adverse outcome when compared to historical controls.
 
 However, this publication also showed that in spite achieving faster initial recovery and extubation, this not necessarily translated in shorter hospital length of stay and stresses the need that working fast-track concepts should be part of a wider enhanced recovery (ER) programme to utilize its potential.
+</div>
+</details>
 
-# **Examples of fast-track protocols**
+
+
+<details class="med-details">
+<summary>Examples of fast-track protocols</summary>
+<div class="details-content">
+
 
 Two major versions of fast-track protocols after cardiac surgery have been described. They share similarities, but depend on the hospital's resources and infrastructure.
 
@@ -44,17 +54,22 @@ Figure 3. The recovery room concept. Reproduced from Dunning J et al., 'Guidelin
 
 Figure 3.2 The cardiac recovery unit concept. Reproduced from Dunning J et al., 'Guideline for resuscitation in cardiac arrest after cardiac surgery', *European Journal of Cardio-Thoracic Surgery*,, pp. 3–28, by permission of the European Association for Cardio-Thoracic Surgery, the European Society of Thoracic Surgeons, and Oxford University Press.
 
-## **Further reading**
+</div>
+</details>
 
-Ender J, Borger MA, Scholz M, Funkat AK, Anwar N, Sommer M, et al. Cardiac surgery fast-track treatment in a postanesthetic care unit. *Anesthesiology* 2008;09:6–6.
+</div>
+</details>
 
-Häntschel D, Fassl J, Scholz M, Sommer M, Funkat AK, Wittmann M, et al. Leipzig "Fast-track" protocol in cardiac anaesthesia. Effective, safe and economical. *Anaesthesist* 2009;58:379–86.
 
-Svircevic V, Nierich AP, Moons KG, Brandon Bravo Bruinsma GJ, Kalkman CJ, van Dijk D. Fast-track anesthesia and cardiac surgery: A retrospective cohort study of 7989 patients. *Anesth Analg* 2009;08:727–33.
 
-# **Enhanced recovery**
+<details class="med-details">
+<summary>Enhanced recovery</summary>
+<div class="details-content">
 
-## **What is enhanced recovery?**
+
+<details class="med-details">
+<summary>What is enhanced recovery?</summary>
+<div class="details-content">
 
 ER is a high-quality surgical care pathway and a concept to get patients better, sooner. The major goals behind ER are:
 
@@ -73,8 +88,12 @@ The potential improvements with ER for cardiac surgical patients include:
 - Patient experience (earlier discharge)
 - Economic (rehabilitation into work force)
 - Clinical (reduced hospital complications).
+</div>
+</details>
 
-#### **Components of ER**
+<details class="med-details">
+<summary>Components of ER</summary>
+<div class="details-content">
 
 As a multidisciplinary programme, ER focuses on the attitude and work ethic of combining various components and elements that individually are evidence-based and applicable for the surgical pathway.
 
@@ -90,11 +109,8 @@ The following components have been identified as positive contributors to ER:
 - Drains: timely removal of chest drains, central venous lines and urinary catheter
 - Physiotherapy: intense chest physiotherapy and mobilization
 - Nutrition: early oral nutrition and balanced diet.
+</div>
+</details>
 
-### **Further reading**
-
-Holte K, Kehlet H. Fluid therapy and surgical outcomes in elective surgery: a need for reassessment in fast-track surgery. *J Am Coll Surg* 2006;202:97–89.
-
-Kehlet H. Fast-track surgery. An update on physiological care principles to enhance recovery. Langenbecks *Arch Surg* 20;396:585–90.
-
-Wilmore DW, Kehlet H. Management of patients in fast-track *surgery. BMJ* 200;322:473–6.
+</div>
+</details>

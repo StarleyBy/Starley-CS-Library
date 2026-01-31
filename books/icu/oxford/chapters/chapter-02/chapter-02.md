@@ -1,8 +1,5 @@
 # **Risk prediction and outcome**
 
-Prognostic models *4* Organ failure scores *7* Cardiac surgery prognostic models *8*
-
-
 <details class="med-details">
 <summary>Prognostic models</summary>
 <div class="details-content">
