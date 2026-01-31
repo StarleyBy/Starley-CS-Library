@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Key questions in cardiac surgery",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "Narain Moorjani, Nicola Viola, Sunil K. Ohri"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Cardiac anatomy"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Cardiac physiology"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Cardiac pharmacology"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Electrocardiography"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Echocardiography"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Cardiac catheterisation"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Radiological imaging"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Cardiopulmonary bypass"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Cardiopulmonary bypass scenarios"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Adjuncts to cardiopulmonary bypass"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Myocardial protection"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Aortic valve disease"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Mitral valve disease"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Tricuspid valve disease"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Infective endocarditis"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Thoracic aortic disease"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Coronary artery disease"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Heart failure"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Arrhythmia surgery"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Pericardial disease, cardiac tumours and cardiac trauma"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Cardiac anaesthesia and intensive care management"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Postoperative management"
+      },
+      {
+        "file": "chapter-Appendix 1.md",
+        "title": "Appendix 1. Transoesophageal echocardiographic views"
+      },
+      {
+        "file": "chapter-Appendix 2.md",
+        "title": "Appendix 2. Transthoracic echocardiographic views"
+      },
+      {
+        "file": "chapter-Appendix 3.md",
+        "title": "Appendix 3. Normal echocardiographic values"
+      },
+      {
+        "file": "chapter-Appendix 4.md",
+        "title": "Appendix 4. Standard coronary angiographic views"
+      },
+      {
+        "file": "chapter-Appendix 5.md",
+        "title": "Appendix 5. Normal arterial blood gas values"
+      },
+      {
+        "file": "chapter-Appendix 6.md",
+        "title": "Appendix 6. Normal cardiac physiological values"
+      },
+      {
+        "file": "chapter-Appendix 7.md",
+        "title": "Appendix 7. AHA guidelines for quantifying the severity of valvular disease"
+      },
+      {
+        "file": "chapter-Appendix 8.md",
+        "title": "Appendix 8. EuroSCORE"
+      }
+    ],
+    "appendices": []
+  }
+]

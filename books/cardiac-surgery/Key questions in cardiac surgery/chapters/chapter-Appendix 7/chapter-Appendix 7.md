@@ -1,0 +1,14 @@
+## **Appendix VII**
+
+AHA guidelines for quantifying the severity of valvular disease
+
+| Aortic stenosis                                                                                                                                      | Mild                               | Moderate                                       | Severe                             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------------------------------------------|------------------------------------|
+| Aortic valve area (cm2)<br>Mean pressure gradient (mmHg)<br>Peak velocity (m/s)                                                                      | 1.5-2.5<br>15-25<br><3.0           | 1.0-1.5<br>25-40<br>3.0-4.0                    | <1.0<br>>40<br>>4.0                |
+| Aortic regurgitation                                                                                                                                 | Mild                               | Moderate                                       | Severe                             |
+| Jet width (% LVOT diameter)<br>Vena contracta (cm)<br>Regurgitant volume (mL)<br>Regurgitant fraction<br>Effective regurgitant<br>orifice area (cm2) | <25%<br><0.3<br><30<br><30<br><0.1 | 25-65%<br>0.3-0.6<br>30-60<br>30-50<br>0.1-0.3 | >65%<br>>0.6<br>>60<br>>50<br>>0.3 |
+| Mitral stenosis                                                                                                                                      | Mild                               | Moderate                                       | Severe                             |
+| Mitral valve area (cm2)<br>Mean pressure gradient<br>(mmHg)                                                                                          | >1.5<br><5                         | 1.0-1.5<br>5-10                                | <1.0<br>>10                        |
+| Pulmonary artery systolic<br>pressure (mmHg)                                                                                                         | <30                                |                                          | >50                                |
+| Mitral regurgitation                                                                                                                                 | Mild                               | Moderate                                       | Severe                             |
+| Jet area (% LA area)<br>Vena contracta (cm)<br>Regurgitant volume (mL)<br>Regurgitant fraction (%)<br>Effective regurgitant<br>orifice area (cm2)    | <20%<br><0.3<br><30<br><30<br><0.2 | 20-40%<br>0.3-0.7<br>30-60<br>30-50<br>0.2-0.4 | >40%<br>>0.7<br>>60<br>>50<br>>0.4 |

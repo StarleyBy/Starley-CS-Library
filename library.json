@@ -16,7 +16,8 @@
       "path": "books/cardiac-surgery",
       "books": [
         { "folder": "cohn" },
-        { "folder": "sellke" }
+        { "folder": "sellke" },
+        { "folder": "Key questions in cardiac surgery" }
       ]
     },
     {
