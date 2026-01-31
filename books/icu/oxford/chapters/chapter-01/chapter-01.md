@@ -1,8 +1,5 @@
 # **The normal postoperative cardiac patient**
 
-Introduction *4* Effects of surgery and cardiopulmonary bypass *5* Typical progression *7* Routine management *9* Warning signs
-
-
 <details class="med-details">
 <summary>Introduction</summary>
 <div class="details-content">

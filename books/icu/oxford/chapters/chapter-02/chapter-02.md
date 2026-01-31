@@ -2,11 +2,17 @@
 
 Prognostic models *4* Organ failure scores *7* Cardiac surgery prognostic models *8*
 
-## **Prognostic models**
+
+<details class="med-details">
+<summary>Prognostic models</summary>
+<div class="details-content">
 
 Prognostic models allow the prediction of patient outcomes in intensive care units (ICUs) based on multiple risk factors. They are often referred to as prognostic models, risk prediction models, or severity of illness scores.
 
-## **What are prognostic models?**
+
+<details class="med-details">
+<summary>What are prognostic models?</summary>
+<div class="details-content">
 
 - Statistical models using commonly measured risk factors to predict patient outcome.
 - Risk factors usually consist of:
@@ -18,20 +24,31 @@ Prognostic models allow the prediction of patient outcomes in intensive care uni
 
 Commonly used prognostic models for adult general ICUs include:
 
-- APACHE (Acute Physiology and Chronic Health Evaluation—Table 2.)
+- APACHE (Acute Physiology and Chronic Health Evaluation—Table 2.1)
 - SAPS (Simplified Acute Physiology Score)
 - MPM (Mortality Probability Model)
 - ICNARC (Intensive Care National Audit & Research Centre).
+</div>
+</details>
 
-#### **How are prognostic models developed?**
+
+
+<details class="med-details">
+<summary>How are prognostic models developed?</summary>
+<div class="details-content">
 
 - Accurate data on risk factors and outcomes are collected prospectively.
 - Risk factors are chosen based on literature review, existing prognostic models, and expert opinion.
 - Model is developed using regression techniques.
 - Relative weights are assigned to risk factors based on regression model.
 - Model performance is assessed by testing for discrimination (ability to discriminate between individuals with and without the outcome) and calibration (how well the model mirrors the true outcome rate).
+</div>
+</details>
 
-## **What are prognostic models used for?**
+
+<details class="med-details">
+<summary>What are prognostic models used for?</summary>
+<div class="details-content">
 
 By controlling for differences in risk, prognostic models allow clinicians, managers, policymakers, patients, and relatives to make informed decisions. The most common examples are:
 
@@ -42,8 +59,42 @@ By controlling for differences in risk, prognostic models allow clinicians, mana
 - *Clinical trials*: to select patients for inclusion into clinical trials based on risk.
 - *Clinical decision-making*: as a bedside clinical decision-making tool:
   - • Has not been validated for this use and may not be accurate.
+</div>
+</details>
 
-| Acute Physiology score                               | Score |          |         |          |           |           |           |           |       |
+
+### Table 2.1 APACHE score
+ |Score||||||||||
+|------------------------------------------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------| 
+  | **Acute Physiology score** | **4** | **3** | **2** | **1** | **0** | **1** | **2** | **3** | **4** |
+|||||||||||
+| **Temperature (°C)** |<span style="font-size:75%">≤29.9</span>|<span style="font-size:75%">30-31.9</span>|<span style="font-size:75%">32-33.9</span>|<span style="font-size:75%">34-35.9</span>|<span style="font-size:75%">≤36-38.4</span>|<span style="font-size:75%">≤38.5-38.9</span>||<span style="font-size:75%">39–40.9</span>|<span style="font-size:75%">≥41</span>|
+| **Mean arterial pressure (mmHg)** | <span style="font-size:75%">≤49</span> || <span style="font-size:75%">50-69</span> || <span style="font-size:75%">70-109</span> || <span style="font-size:75%">110-129</span> | <span style="font-size:75%">130-159</span> | <span style="font-size:75%">≥160</span> |
+| **Heart rate (beats/min)** | <span style="font-size:75%">≤39</span> | <span style="font-size:75%">40-54</span> | <span style="font-size:75%">55-69</span> |<span style="font-size:75%">-</span>  | <span style="font-size:75%">70-109</span> | <span style="font-size:75%">-</span> | <span style="font-size:75%">110-139</span> | <span style="font-size:75%">140-179</span> | <span style="font-size:75%">≥180</span> |
+| **Respiratory rate (breaths/min)** | ≤5 | — | 6–9 | 10–11 | 12–24 | 25–34 | — | 35–49 | ≥50 |
+  
+| **Oxygenation variable** | **Score 4** | **3** | **2** | **1** | **0** | **1** | **2** | **3** | **4** |
+|--------------------------|------------|------|------|------|------|------|------|------|------|
+| **A–a gradient (mm Hg)** *(FiO₂ ≥ 0.5)* | — | — | — | — | <200 | — | 200–349 | 350–499 | ≥500 |
+| **PaO₂ (mm Hg)** *(FiO₂ < 0.5)* | <55 | 55–60 | — | 61–70 | >70 | — | — | — | — |
+
+  | **Variable** | **Score 4** | **3** | **2** | **1** | **0** | **1** | **2** | **3** | **4** |
+|-------------|------------|------|------|------|------|------|------|------|------|
+| **Arterial pH** *(if ABG available)* | ≥7.70 | 7.60–7.69 | — | 7.50–7.59 | 7.33–7.49 | — | 7.25–7.32 | 7.15–7.24 | <7.15 |
+| **Serum HCO₃⁻ (mEq/L)** *(if no ABG)* | ≥52 | 41–51.9 | — | 32–40.9 | 22–31.9 | — | 18–21.9 | 15–17.9 | <15 |
+
+  | **Variable** | **Score 4** | **3** | **2** | **1** | **0** | **1** | **2** | **3** | **4** |
+|-------------|------------|------|------|------|------|------|------|------|------|
+| **Serum Na⁺ (mmol/L)** | ≥180 | 160–179 | 155–159 | 150–154 | 130–149 | — | 120–129 | 111–119 | ≤110 |
+| **Serum K⁺ (mmol/L)** | ≥7.0 | 6.0–6.9 | — | 5.5–5.9 | 3.5–5.4 | 3.0–3.4 | 2.5–2.9 | — | <2.5 |
+| **Serum creatinine (µmol/L)**¹ | ≥305 | 170–304 | 130–169 | — | 54–129 | — | — | — | <54 |
+| **Hematocrit (%)** | ≥60 | — | 50–59.9 | 46–49.9 | 30–45.9 | — | 20–29.9 | — | <20 |
+| **White blood cells (×10⁹/L)** | ≥40 | — | 20–39.9 | 15–19.9 | 3–14.9 | — | 1–2.9 | — | <1 |
+| **Glasgow Coma Score** | colspan=9: **Score = 15 − actual GCS** |
+  
+  
+  
+|| Score |          |         |          |           |           |           |           |       |
 |------------------------------------------------------|-------|----------|---------|----------|-----------|-----------|-----------|-----------|-------|
 |                                                      | 4     | 3        | 2       | 1        | 0         | 1         | 2         | 3         | 4     |
 | Temperature (°C)                                     | ≤29.9 | 30–31.9  | 32–33.9 | 34–35.9  | 36–38.4   | 38.5–38.9 |           | 39–40.9   | ≥41   |
@@ -84,6 +135,9 @@ Diagnostic category weight: final score is modified depending on diagnosis.
 ABG: arterial blood gas; GCS: Glasgow Coma Score.
 
 Data from Knaus et al., 'APACHE II: A severity of disease classification system', Critical Care Medicine,, pp. 818–829, 1985, The Williams & Wilkins Co.
+</div>
+</details>
+
 
 ## **Organ failure scores**
 

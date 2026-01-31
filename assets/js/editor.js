@@ -134,6 +134,29 @@ ${content}
     updatePreview();
 }
 
+// Функции для размера шрифта
+function wrapInFontSize(fontSize) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<span style="font-size:${fontSize}%">${sel}</span>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+// Функции для заголовков
+function wrapInHeader(headerLevel) {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    const headerTag = `h${headerLevel}`;
+    const res = `\n<${headerTag}>${sel || 'Заголовок'}</${headerTag}>\n`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
 // Улучшенная функция updatePreview с сохранением состояния
 function updatePreview() {
     const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;

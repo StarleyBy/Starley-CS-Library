@@ -792,3 +792,45 @@
     border-radius: 3px;
     padding: 0 2px;
 }
+
+/* Стили для заголовков */
+#editor-preview h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.3em;
+}
+
+#editor-preview h2 {
+    font-size: 1.75em;
+    margin: 0.75em 0;
+    color: #34495e;
+    border-bottom: 1px solid #bdc3c7;
+    padding-bottom: 0.3em;
+}
+
+#editor-preview h3 {
+    font-size: 1.5em;
+    margin: 0.83em 0;
+    color: #3d566e;
+}
+
+#editor-preview h4 {
+    font-size: 1.25em;
+    margin: 1em 0;
+    color: #526a80;
+}
+
+#editor-preview h5 {
+    font-size: 1.1em;
+    margin: 1.17em 0;
+    color: #677c91;
+}
+
+#editor-preview h6 {
+    font-size: 1em;
+    margin: 1.33em 0;
+    color: #7c8da2;
+    font-weight: bold;
+}
