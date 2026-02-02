@@ -1,18 +1,64 @@
 /* Общая структура */
-.editor-shell { display: flex; height: 100vh; overflow: hidden; background: #1e1e1e; color: #eee; }
-.editor-toolbar { width: 280px; background: #252526; padding: 15px; overflow-y: auto; border-right: 1px solid #333; }
-.editor-main, .editor-preview-pane { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
-.pane-header { background: #333; padding: 5px 15px; font-size: 0.8rem; text-transform: uppercase; color: #aaa; }
+.editor-shell { 
+    display: flex; 
+    height: 100vh; 
+    overflow: hidden; 
+    background: #1e1e1e; 
+    color: #eee; 
+}
+
+.editor-toolbar { 
+    width: 280px; 
+    background: #252526; 
+    padding: 15px; 
+    overflow-y: auto; 
+    border-right: 1px solid #333; 
+    flex-shrink: 0;
+}
+
+.editor-main, .editor-preview-pane { 
+    flex: 1; 
+    display: flex; 
+    flex-direction: column; 
+    overflow: hidden;
+    min-width: 0; /* Важно! */
+}
+
+.pane-header { 
+    background: #333; 
+    padding: 5px 15px; 
+    font-size: 0.8rem; 
+    text-transform: uppercase; 
+    color: #aaa;
+    flex-shrink: 0; /* Важно! */
+}
 
 /* Поле ввода */
 #markdown-input { 
-    flex: 1; background: #1e1e1e; color: #d4d4d4; padding: 20px; 
-    font-family: 'Fira Code', 'Courier New', monospace; font-size: 14px;
-    border: none; resize: none; line-height: 1.5; outline: none;
+    flex: 1;
+    width: 100%;
+    min-height: 0; /* Критически важно для flex! */
+    background: #1e1e1e;
+    color: #d4d4d4;
+    padding: 20px; 
+    font-family: 'Fira Code', 'Courier New', monospace;
+    font-size: 14px;
+    border: none;
+    resize: none;
+    line-height: 1.5;
+    outline: none;
+    overflow-y: auto;
 }
 
 /* Область превью */
-#editor-preview { flex: 1; background: white; color: #333; padding: 30px; overflow-y: auto; }
+#editor-preview { 
+    flex: 1; 
+    background: white; 
+    color: #333; 
+    padding: 30px; 
+    overflow-y: auto;
+    min-height: 0; /* Важно! */
+}
 
 /* ============= ОПТИМИЗИРОВАННЫЕ ИНСТРУМЕНТЫ ============= */
 .tool-group { 
