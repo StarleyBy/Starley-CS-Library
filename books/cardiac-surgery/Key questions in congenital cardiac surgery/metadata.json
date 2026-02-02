@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Key questions in congenital cardiac surgery",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery",
+      "congenital"
+    ],
+    "authors": [
+      "Narain Moorjani, Nicola Viola, Christopher A. Caldarone"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Congenital cardiac anatomy"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Congenital cardiac physiology"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Congenital cardiac pharmacology"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Congenital echocardiography"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Congenital cardiac imaging"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Congenital angiography and catheter interventions"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Anaesthesia and congenital heart disease"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Paediatric cardiac intensive care"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Adult congenital cardiac intensive care"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Cardiopulmonary bypass"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Extracorporeal membrane oxygenation"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Informed consent in congenital cardiac surgery"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Atrial septal defects"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Ventricular septal defects"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Atrioventricular septal defects"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Anomalous pulmonary venous connections"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Ebstein’s anomaly"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Tricuspid atresia"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Hypoplastic right heart"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Right ventricular outflow tract"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Tetralogy of Fallot"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Pulmonary atresia with ventricular septal defect"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Transposition of the great arteries"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Congenitally corrected transposition of the great arteries"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Double-outlet right ventricle"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Hypoplastic left heart syndrome"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. Congenital abnormalities of the mitral valve"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Left ventricular outflow tract lesions"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Truncus arteriosus"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Anomalies of coronary arteries and coronary fistulae"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Aortopulmonary window"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Vascular rings and slings"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Patent ductus arteriosus"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Aortic coarctation"
+      },
+      {
+        "file": "chapter-35.md",
+        "title": "35. Interrupted aortic arch"
+      },
+      {
+        "file": "chapter-36.md",
+        "title": "36. Univentricular heart"
+      },
+      {
+        "file": "chapter-37.md",
+        "title": "37. Surgical palliation in congenital heart disease"
+      },
+      {
+        "file": "chapter-38.md",
+        "title": "38. Heart and lung transplantation"
+      },
+      {
+        "file": "chapter-39.md",
+        "title": "39. Surgery for cardiac arrhythmias"
+      },
+      {
+        "file": "chapter-40.md",
+        "title": "40. Cardiac tumours"
+      },
+      {
+        "file": "chapter-41.md",
+        "title": "41. Infective endocarditis"
+      }
+    ],
+    "appendices": []
+  }
+]
