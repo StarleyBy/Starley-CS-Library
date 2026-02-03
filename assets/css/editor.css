@@ -48,6 +48,17 @@
     overflow-y: auto;
 }
 
+/* КРИТИЧЕСКИ ВАЖНО: CodeMirror обёртка должна занимать всю высоту */
+.CodeMirror {
+    height: 100% !important;
+    font-family: 'Fira Code', 'Courier New', monospace !important;
+    font-size: 14px !important;
+}
+
+.CodeMirror-scroll {
+    min-height: 100%;
+}
+
 /* Область превью */
 #editor-preview { 
     flex: 1; 
