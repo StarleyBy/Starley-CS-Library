@@ -157,6 +157,51 @@ function wrapInHeader(headerLevel) {
     updatePreview();
 }
 
+// Функции для форматирования текста
+function wrapInSuperscript() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<sup>${sel}</sup>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function wrapInSubscript() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<sub>${sel}</sub>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function wrapInBold() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<strong>${sel}</strong>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
+function wrapInItalic() {
+    if (!editor) return;
+    
+    const sel = editor.getSelection();
+    if(!sel) return alert('Выделите текст!');
+    
+    const res = `<em>${sel}</em>`;
+    editor.replaceSelection(res);
+    updatePreview();
+}
+
 // Улучшенная функция updatePreview с сохранением состояния
 function updatePreview() {
     const val = editor ? editor.getValue() : document.getElementById('markdown-input').value;
