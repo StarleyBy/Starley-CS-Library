@@ -10,8 +10,9 @@
     "Robert M. Bojar, MD"
   ],
   "versions": {
+      "original": true,
       "russian": true,
-      "starley": false 
+      "starley": true 
     },
   "chapters": [
     {
