@@ -277,56 +277,29 @@
             return card;
         };
         
-        // Функция проверки наличия версий
+        // ОПТИМИЗИРОВАННАЯ функция проверки наличия версий через metadata
         async function checkAvailableVersions(categoryPath, bookFolder) {
-            const versions = {
-                original: true,
-                russian: false,
-                starley: false
-            };
-            
             try {
                 const metadataUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/metadata.json`;
                 const response = await fetch(metadataUrl);
                 const bookData = (await response.json())[0];
                 
-                if (bookData.chapters && bookData.chapters.length > 0) {
-                    const firstChapterId = bookData.chapters[0].file.replace('.md', '');
-                    
-                    // Проверяем русскую версию
-                    try {
-                        const ruUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/chapters/${firstChapterId}/${firstChapterId}-ru.md`;
-                        const ruResponse = await fetch(ruUrl, { method: 'HEAD' });
-                        versions.russian = ruResponse.ok;
-                    } catch (e) {
-                        // Игнорируем ошибки
-                    }
-                    
-                    // Проверяем Starley версию
-                    try {
-                        const starUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/chapters/${firstChapterId}/${firstChapterId}-starley.md`;
-                        const starResponse = await fetch(starUrl, { method: 'HEAD' });
-                        versions.starley = starResponse.ok;
-                    } catch (e) {
-                        // Игнорируем ошибки
-                    }
-                }
+                // Используем данные из metadata вместо проверки файлов
+                return bookData.versions || { original: true, russian: false, starley: false };
             } catch (error) {
-                console.warn('Error checking versions:', error);
+                console.warn(`Could not load versions for ${bookFolder}:`, error.message);
+                return { original: true, russian: false, starley: false };
             }
-            
-            return versions;
         }
         
         // Если app.js ещё не загрузился, ждём события DOMContentLoaded
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', function() {
-                console.log('✅ Enhanced library features loaded');
+                console.log('✅ Enhanced library features loaded (optimized version)');
             });
         } else {
-            console.log('✅ Enhanced library features loaded');
+            console.log('✅ Enhanced library features loaded (optimized version)');
         }
     </script>
 </body>
 </html>
-
