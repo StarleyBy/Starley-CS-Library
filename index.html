@@ -5,6 +5,182 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Medical library</title>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+        /* ==================== АДАПТИВНЫЙ РАЗМЕР ШРИФТА НАЗВАНИЙ ==================== */
+        .book-card h3 {
+            font-size: 1.1rem;
+            line-height: 1.3;
+            height: 2.6em; /* Фиксированная высота = 2 строки */
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            text-overflow: ellipsis;
+            margin-bottom: 0.5rem;
+        }
+        
+        /* Для длинных названий (50-80 символов) */
+        .book-card h3.long-title {
+            font-size: 0.95rem;
+            line-height: 1.25;
+        }
+        
+        /* Для очень длинных названий (80+ символов) */
+        .book-card h3.very-long-title {
+            font-size: 0.85rem;
+            line-height: 1.2;
+            -webkit-line-clamp: 3;
+            height: 3.6em; /* 3 строки для очень длинных */
+        }
+        
+        /* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
+        .version-badges {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            display: flex;
+            gap: 4px;
+            z-index: 10;
+        }
+        
+        .version-badge {
+            padding: 4px 10px;
+            border-radius: 6px;
+            font-size: 0.7rem;
+            font-weight: bold;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            backdrop-filter: blur(4px);
+            transition: all 0.3s ease;
+            animation: neon-pulse 2.5s ease-in-out infinite;
+        }
+        
+        /* RU Badge - Красный неон */
+        .version-badge.ru {
+            background: rgba(231, 76, 60, 0.95);
+            color: #fff;
+            text-shadow: 
+                0 0 5px #e74c3c,
+                0 0 10px #e74c3c,
+                0 0 15px rgba(231, 76, 60, 0.5);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 
+                0 0 10px rgba(231, 76, 60, 0.6),
+                0 0 20px rgba(231, 76, 60, 0.3),
+                inset 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        
+        /* STAR Badge - Синий неон */
+        .version-badge.star {
+            background: rgba(52, 152, 219, 0.95);
+            color: #fff;
+            text-shadow: 
+                0 0 5px #3498db,
+                0 0 10px #3498db,
+                0 0 15px rgba(52, 152, 219, 0.5);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            box-shadow: 
+                0 0 10px rgba(52, 152, 219, 0.6),
+                0 0 20px rgba(52, 152, 219, 0.3),
+                inset 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+        
+        /* Анимация неонового пульса */
+        @keyframes neon-pulse {
+            0%, 100% {
+                opacity: 1;
+                box-shadow: 
+                    0 0 10px currentColor,
+                    0 0 20px currentColor,
+                    0 0 30px rgba(255, 255, 255, 0.2),
+                    inset 0 0 10px rgba(255, 255, 255, 0.1);
+            }
+            50% {
+                opacity: 0.9;
+                box-shadow: 
+                    0 0 5px currentColor,
+                    0 0 10px currentColor,
+                    0 0 15px rgba(255, 255, 255, 0.1),
+                    inset 0 0 5px rgba(255, 255, 255, 0.05);
+            }
+        }
+        
+        /* Увеличение badge при hover на карточку */
+        .book-card:hover .version-badge {
+            transform: scale(1.1);
+        }
+        
+        /* ==================== TOOLTIP ДЛЯ ПОЛНЫХ НАЗВАНИЙ ==================== */
+        .book-card[data-full-title]:hover::after {
+            content: attr(data-full-title);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #2c3e50;
+            color: white;
+            padding: 10px 14px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            white-space: normal;
+            max-width: 280px;
+            width: max-content;
+            text-align: center;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            margin-bottom: 10px;
+            pointer-events: none;
+            line-height: 1.4;
+            animation: tooltip-fade-in 0.2s ease;
+        }
+        
+        .book-card[data-full-title]:hover::before {
+            content: '';
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 7px solid transparent;
+            border-top-color: #2c3e50;
+            margin-bottom: 3px;
+            z-index: 1001;
+            animation: tooltip-fade-in 0.2s ease;
+        }
+        
+        @keyframes tooltip-fade-in {
+            from {
+                opacity: 0;
+                transform: translateX(-50%) translateY(5px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(-50%) translateY(0);
+            }
+        }
+        
+        /* Убираем tooltip на мобильных */
+        @media (max-width: 768px) {
+            .book-card[data-full-title]:hover::after,
+            .book-card[data-full-title]:hover::before {
+                display: none;
+            }
+            
+            .version-badge {
+                font-size: 0.6rem;
+                padding: 3px 7px;
+            }
+        }
+        
+        /* ==================== УЛУЧШЕНИЕ ПОЗИЦИОНИРОВАНИЯ ==================== */
+        .book-card {
+            position: relative; /* Важно для абсолютного позиционирования badges */
+        }
+        
+        .book-cover-container {
+            position: relative; /* Важно для badges внутри обложки */
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -31,6 +207,126 @@
     </footer>
 
     <script src="assets/js/config.js?v=1.1"></script>
-    <script src="assets/js/app.js?v=1.1"></script>
+    <script src="assets/js/app.js?v=1.2"></script>
+    
+    <script>
+        // ==================== РАСШИРЕНИЕ ФУНКЦИОНАЛА APP.JS ====================
+        // Этот скрипт перехватывает создание карточек книг и добавляет новые функции
+        
+        // Сохраняем оригинальную функцию создания карточки (если она есть в app.js)
+        const originalCreateBookCard = window.createBookCard;
+        
+        // Новая улучшенная функция
+        window.createBookCard = async function(book, categoryPath) {
+            // Если есть оригинальная функция, используем её
+            let card;
+            if (originalCreateBookCard) {
+                card = await originalCreateBookCard(book, categoryPath);
+            } else {
+                // Иначе создаём карточку сами
+                card = document.createElement('div');
+                card.className = 'book-card';
+            }
+            
+            // Получаем заголовок книги
+            const titleElement = card.querySelector('h3');
+            if (titleElement) {
+                const title = titleElement.textContent;
+                const titleLength = title.length;
+                
+                // Применяем адаптивный класс размера шрифта
+                if (titleLength > 80) {
+                    titleElement.classList.add('very-long-title');
+                    // Добавляем tooltip для очень длинных названий
+                    card.setAttribute('data-full-title', title);
+                } else if (titleLength > 50) {
+                    titleElement.classList.add('long-title');
+                    // Добавляем tooltip для длинных названий
+                    card.setAttribute('data-full-title', title);
+                }
+            }
+            
+            // Проверяем наличие версий и добавляем индикаторы
+            const coverContainer = card.querySelector('.book-cover-container') || card.querySelector('img')?.parentElement;
+            if (coverContainer && book.folder && categoryPath) {
+                const versions = await checkAvailableVersions(categoryPath, book.folder);
+                
+                if (versions.russian || versions.starley) {
+                    const badgesContainer = document.createElement('div');
+                    badgesContainer.className = 'version-badges';
+                    
+                    if (versions.russian) {
+                        const ruBadge = document.createElement('span');
+                        ruBadge.className = 'version-badge ru';
+                        ruBadge.textContent = 'RU';
+                        badgesContainer.appendChild(ruBadge);
+                    }
+                    
+                    if (versions.starley) {
+                        const starBadge = document.createElement('span');
+                        starBadge.className = 'version-badge star';
+                        starBadge.textContent = 'STAR';
+                        badgesContainer.appendChild(starBadge);
+                    }
+                    
+                    coverContainer.style.position = 'relative';
+                    coverContainer.appendChild(badgesContainer);
+                }
+            }
+            
+            return card;
+        };
+        
+        // Функция проверки наличия версий
+        async function checkAvailableVersions(categoryPath, bookFolder) {
+            const versions = {
+                original: true,
+                russian: false,
+                starley: false
+            };
+            
+            try {
+                const metadataUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/metadata.json`;
+                const response = await fetch(metadataUrl);
+                const bookData = (await response.json())[0];
+                
+                if (bookData.chapters && bookData.chapters.length > 0) {
+                    const firstChapterId = bookData.chapters[0].file.replace('.md', '');
+                    
+                    // Проверяем русскую версию
+                    try {
+                        const ruUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/chapters/${firstChapterId}/${firstChapterId}-ru.md`;
+                        const ruResponse = await fetch(ruUrl, { method: 'HEAD' });
+                        versions.russian = ruResponse.ok;
+                    } catch (e) {
+                        // Игнорируем ошибки
+                    }
+                    
+                    // Проверяем Starley версию
+                    try {
+                        const starUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/chapters/${firstChapterId}/${firstChapterId}-starley.md`;
+                        const starResponse = await fetch(starUrl, { method: 'HEAD' });
+                        versions.starley = starResponse.ok;
+                    } catch (e) {
+                        // Игнорируем ошибки
+                    }
+                }
+            } catch (error) {
+                console.warn('Error checking versions:', error);
+            }
+            
+            return versions;
+        }
+        
+        // Если app.js ещё не загрузился, ждём события DOMContentLoaded
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                console.log('✅ Enhanced library features loaded');
+            });
+        } else {
+            console.log('✅ Enhanced library features loaded');
+        }
+    </script>
 </body>
 </html>
+
