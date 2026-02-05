@@ -1,309 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medical library</title>
+    <title>Medical Library</title>
     <link rel="stylesheet" href="assets/css/styles.css">
-    <style>
-        /* ==================== АДАПТИВНЫЙ РАЗМЕР ШРИФТА НАЗВАНИЙ ==================== */
-        /* Используем !important чтобы переопределить inline стили от app.js */
-        .book-card h3, 
-        .book-card .book-title {
-            font-size: 1rem !important;
-            line-height: 1.3 !important;
-            height: auto !important;
-            max-height: 2.6em !important;
-            overflow: hidden !important;
-            display: -webkit-box !important;
-            -webkit-line-clamp: 2 !important;
-            -webkit-box-orient: vertical !important;
-            text-overflow: ellipsis !important;
-            margin-bottom: 0.5rem !important;
-            word-wrap: break-word !important;
-            hyphens: auto !important;
-        }
-        
-        .book-card .book-title.long-title {
-            font-size: 0.9rem !important;
-            -webkit-line-clamp: 2 !important;
-            max-height: 2.4em !important;
-        }
-        
-        .book-card .book-title.very-long-title {
-            font-size: 0.8rem !important;
-            -webkit-line-clamp: 3 !important;
-            max-height: 3.6em !important;
-        }
-        
-        /* Авторы */
-        .book-card p,
-        .book-card .book-authors {
-            font-size: 0.85rem !important;
-            line-height: 1.3 !important;
-            height: auto !important;
-            max-height: 2.6em !important;
-            overflow: hidden !important;
-            display: -webkit-box !important;
-            -webkit-line-clamp: 2 !important;
-            -webkit-box-orient: vertical !important;
-            text-overflow: ellipsis !important;
-            word-wrap: break-word !important;
-        }
-        
-        /* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
-        .version-badges {
-            position: absolute !important;
-            top: 8px !important;
-            right: 8px !important;
-            display: flex !important;
-            gap: 4px !important;
-            z-index: 10 !important;
-        }
-        
-        .version-badge {
-            padding: 4px 10px !important;
-            border-radius: 6px !important;
-            font-size: 0.7rem !important;
-            font-weight: bold !important;
-            letter-spacing: 1px !important;
-            text-transform: uppercase !important;
-            backdrop-filter: blur(4px) !important;
-            transition: all 0.3s ease !important;
-            animation: neon-pulse 2.5s ease-in-out infinite !important;
-        }
-        
-        .version-badge.ru {
-            background: rgba(231, 76, 60, 0.95) !important;
-            color: #fff !important;
-            text-shadow: 
-                0 0 5px #e74c3c,
-                0 0 10px #e74c3c,
-                0 0 15px rgba(231, 76, 60, 0.5) !important;
-            border: 1px solid rgba(255, 255, 255, 0.3) !important;
-            box-shadow: 
-                0 0 10px rgba(231, 76, 60, 0.6),
-                0 0 20px rgba(231, 76, 60, 0.3),
-                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
-        }
-        
-        .version-badge.star {
-            background: rgba(52, 152, 219, 0.95) !important;
-            color: #fff !important;
-            text-shadow: 
-                0 0 5px #3498db,
-                0 0 10px #3498db,
-                0 0 15px rgba(52, 152, 219, 0.5) !important;
-            border: 1px solid rgba(255, 255, 255, 0.3) !important;
-            box-shadow: 
-                0 0 10px rgba(52, 152, 219, 0.6),
-                0 0 20px rgba(52, 152, 219, 0.3),
-                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
-        }
-        
-        @keyframes neon-pulse {
-            0%, 100% {
-                opacity: 1;
-                box-shadow: 
-                    0 0 10px currentColor,
-                    0 0 20px currentColor,
-                    0 0 30px rgba(255, 255, 255, 0.2),
-                    inset 0 0 10px rgba(255, 255, 255, 0.1);
-            }
-            50% {
-                opacity: 0.9;
-                box-shadow: 
-                    0 0 5px currentColor,
-                    0 0 10px currentColor,
-                    0 0 15px rgba(255, 255, 255, 0.1),
-                    inset 0 0 5px rgba(255, 255, 255, 0.05);
-            }
-        }
-        
-        .book-card:hover .version-badge {
-            transform: scale(1.1) !important;
-        }
-        
-        .book-card[data-full-title]:hover::after {
-            content: attr(data-full-title);
-            position: absolute;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            background: #2c3e50;
-            color: white;
-            padding: 10px 14px;
-            border-radius: 6px;
-            font-size: 0.85rem;
-            font-weight: 500;
-            white-space: normal;
-            max-width: 280px;
-            width: max-content;
-            text-align: center;
-            z-index: 1000;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-            margin-bottom: 10px;
-            pointer-events: none;
-            line-height: 1.4;
-        }
-        
-        .book-card[data-full-title]:hover::before {
-            content: '';
-            position: absolute;
-            bottom: 100%;
-            left: 50%;
-            transform: translateX(-50%);
-            border: 7px solid transparent;
-            border-top-color: #2c3e50;
-            margin-bottom: 3px;
-            z-index: 1001;
-        }
-        
-        @media (max-width: 768px) {
-            .book-card[data-full-title]:hover::after,
-            .book-card[data-full-title]:hover::before {
-                display: none;
-            }
-            
-            .version-badge {
-                font-size: 0.6rem !important;
-                padding: 3px 7px !important;
-            }
-        }
-        
-        .book-card {
-            position: relative !important;
-        }
-        
-        .book-cover-wrapper {
-            position: relative !important;
-        }
-        
-        /* Убираем inline стили от app.js */
-        .book-title[style],
-        .book-authors[style] {
-            font-size: inherit !important;
-        }
-    </style>
 </head>
 <body>
     <header>
-        <h1>📚 Medical library</h1>
-        <nav>
-            <a href="index.html">Library</a>
-            <a href="editor.html">Editor</a>
-            <a href="mdconvert.html">MD convert</a>
-        </nav>
+        <div class="header-content">
+            <h1>📚 Medical Library</h1>
+            <nav>
+                <a href="index.html">Библиотека</a>
+                <a href="editor.html">Редактор</a>
+                <a href="mdconvert.html">Конвертер</a>
+            </nav>
+        </div>
     </header>
 
     <main>
         <div class="search-box">
-            <input type="text" id="search" placeholder="Search...">
+            <input type="text" id="search" placeholder="Поиск книг или авторов...">
         </div>
 
         <div id="library-container">
-            <div class="loading">Library loading...</div>
+            <div class="loading">Загрузка библиотеки...</div>
         </div>
     </main>
 
     <footer>
-        <p>Starley Library | 2026</p>
+        <p>Starley Library &copy; 2026</p>
     </footer>
 
-    <script src="assets/js/config.js?v=1.1"></script>
-    <script src="assets/js/app.js?v=1.3"></script>
-    
-    <script>
-        console.log('🚀 Enhanced library features loading...');
-        
-        // ПАТЧИМ функцию renderBookCard из app.js
-        (function() {
-            const originalRenderBookCard = window.renderBookCard;
-            
-            if (!originalRenderBookCard) {
-                console.error('❌ renderBookCard not found in app.js!');
-                return;
-            }
-            
-            window.renderBookCard = function(bookPath, bookMeta) {
-                let html = originalRenderBookCard(bookPath, bookMeta);
-                
-                const versions = bookMeta.versions || { original: true, russian: false, starley: false };
-                
-                if (versions.russian || versions.starley) {
-                    let badgesHtml = '<div class="version-badges">';
-                    
-                    if (versions.russian) {
-                        badgesHtml += '<span class="version-badge ru">RU</span>';
-                    }
-                    
-                    if (versions.starley) {
-                        badgesHtml += '<span class="version-badge star">STR</span>';
-                    }
-                    
-                    badgesHtml += '</div>';
-                    
-                    html = html.replace(
-                        '<div class="book-cover-wrapper">',
-                        '<div class="book-cover-wrapper">' + badgesHtml
-                    );
-                }
-                
-                const titleLength = bookMeta.title.length;
-                if (titleLength > 80) {
-                    html = html.replace('class="book-title"', 'class="book-title very-long-title"');
-                    html = html.replace(
-                        'class="book-card"',
-                        `class="book-card" data-full-title="${bookMeta.title.replace(/"/g, '&quot;')}"`
-                    );
-                } else if (titleLength > 50) {
-                    html = html.replace('class="book-title"', 'class="book-title long-title"');
-                    html = html.replace(
-                        'class="book-card"',
-                        `class="book-card" data-full-title="${bookMeta.title.replace(/"/g, '&quot;')}"`
-                    );
-                }
-                
-                return html;
-            };
-            
-            console.log('✅ renderBookCard successfully patched!');
-        })();
-        
-        // ПОЛНОСТЬЮ ОТКЛЮЧАЕМ adjustFontSize и adjustAllFontSizes
-        (function() {
-            // Заглушка для adjustFontSize
-            window.adjustFontSize = function() {
-                // Ничего не делаем
-            };
-            
-            // Заглушка для adjustAllFontSizes
-            window.adjustAllFontSizes = function() {
-                // Ничего не делаем
-                console.log('⏭️  adjustAllFontSizes disabled - using CSS instead');
-            };
-            
-            console.log('✅ Font adjustment functions disabled');
-        })();
-        
-        // После загрузки DOM удаляем все inline стили с font-size
-        window.addEventListener('load', function() {
-            setTimeout(function() {
-                console.log('🧹 Cleaning up inline font-size styles...');
-                
-                document.querySelectorAll('.book-title, .book-authors').forEach(element => {
-                    // Удаляем только font-size из inline стилей
-                    if (element.style.fontSize) {
-                        element.style.fontSize = '';
-                        console.log('   ✓ Removed inline font-size from:', element.textContent.substring(0, 30) + '...');
-                    }
-                });
-                
-                console.log('✅ Cleanup complete!');
-            }, 200);
-        });
-        
-        console.log('✅ Enhanced library features loaded');
-    </script>
+    <script src="assets/js/config.js"></script>
+    <script src="assets/js/app.js"></script>
 </body>
 </html>
