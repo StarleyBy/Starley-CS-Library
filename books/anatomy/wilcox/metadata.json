@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Wilcox’s Surgical Anatomy of the Heart, Fourth edition",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery",
+      "anatomy"
+    ],
+    "authors": [
+      "Robert H. Anderson, BSc, MD, FRCPath, Diane E. Spicer, BS, PA(ASCP), Anthony M. Hlavacek, MD"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Surgical approaches to the heart"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Anatomy of the cardiac chambers"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Surgical anatomy of the valves of the heart"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Surgical anatomy of the coronary circulation"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Surgical anatomy of the conduction system"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Analytical description of congenitally malformed hearts"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Lesions with normal segmental connections"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Lesions in hearts with abnormal segmental connections"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Abnormalities of the great vessels"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Abnormalities of the great vessels"
+      }
+    ],
+    "appendices": []
+  }
+]
