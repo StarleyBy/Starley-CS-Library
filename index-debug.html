@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical library</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <style>
+        /* ==================== АДАПТИВНЫЙ РАЗМЕР ШРИФТА НАЗВАНИЙ ==================== */
+        .book-card h3 {
+            font-size: 1.1rem !important;
+            line-height: 1.3 !important;
+            height: 2.6em !important;
+            overflow: hidden !important;
+            display: -webkit-box !important;
+            -webkit-line-clamp: 2 !important;
+            -webkit-box-orient: vertical !important;
+            text-overflow: ellipsis !important;
+            margin-bottom: 0.5rem !important;
+        }
+        
+        .book-card h3.long-title {
+            font-size: 0.95rem !important;
+            line-height: 1.25 !important;
+        }
+        
+        .book-card h3.very-long-title {
+            font-size: 0.85rem !important;
+            line-height: 1.2 !important;
+            -webkit-line-clamp: 3 !important;
+            height: 3.6em !important;
+        }
+        
+        /* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
+        .version-badges {
+            position: absolute !important;
+            top: 8px !important;
+            right: 8px !important;
+            display: flex !important;
+            gap: 4px !important;
+            z-index: 10 !important;
+        }
+        
+        .version-badge {
+            padding: 4px 10px !important;
+            border-radius: 6px !important;
+            font-size: 0.7rem !important;
+            font-weight: bold !important;
+            letter-spacing: 1px !important;
+            text-transform: uppercase !important;
+            backdrop-filter: blur(4px) !important;
+            transition: all 0.3s ease !important;
+            animation: neon-pulse 2.5s ease-in-out infinite !important;
+        }
+        
+        .version-badge.ru {
+            background: rgba(231, 76, 60, 0.95) !important;
+            color: #fff !important;
+            text-shadow: 
+                0 0 5px #e74c3c,
+                0 0 10px #e74c3c,
+                0 0 15px rgba(231, 76, 60, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+            box-shadow: 
+                0 0 10px rgba(231, 76, 60, 0.6),
+                0 0 20px rgba(231, 76, 60, 0.3),
+                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
+        }
+        
+        .version-badge.star {
+            background: rgba(52, 152, 219, 0.95) !important;
+            color: #fff !important;
+            text-shadow: 
+                0 0 5px #3498db,
+                0 0 10px #3498db,
+                0 0 15px rgba(52, 152, 219, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+            box-shadow: 
+                0 0 10px rgba(52, 152, 219, 0.6),
+                0 0 20px rgba(52, 152, 219, 0.3),
+                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
+        }
+        
+        @keyframes neon-pulse {
+            0%, 100% {
+                opacity: 1;
+                box-shadow: 
+                    0 0 10px currentColor,
+                    0 0 20px currentColor,
+                    0 0 30px rgba(255, 255, 255, 0.2),
+                    inset 0 0 10px rgba(255, 255, 255, 0.1);
+            }
+            50% {
+                opacity: 0.9;
+                box-shadow: 
+                    0 0 5px currentColor,
+                    0 0 10px currentColor,
+                    0 0 15px rgba(255, 255, 255, 0.1),
+                    inset 0 0 5px rgba(255, 255, 255, 0.05);
+            }
+        }
+        
+        .book-card:hover .version-badge {
+            transform: scale(1.1) !important;
+        }
+        
+        .book-card[data-full-title]:hover::after {
+            content: attr(data-full-title);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #2c3e50;
+            color: white;
+            padding: 10px 14px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            white-space: normal;
+            max-width: 280px;
+            width: max-content;
+            text-align: center;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            margin-bottom: 10px;
+            pointer-events: none;
+            line-height: 1.4;
+        }
+        
+        .book-card[data-full-title]:hover::before {
+            content: '';
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 7px solid transparent;
+            border-top-color: #2c3e50;
+            margin-bottom: 3px;
+            z-index: 1001;
+        }
+        
+        @media (max-width: 768px) {
+            .book-card[data-full-title]:hover::after,
+            .book-card[data-full-title]:hover::before {
+                display: none;
+            }
+            
+            .version-badge {
+                font-size: 0.6rem !important;
+                padding: 3px 7px !important;
+            }
+        }
+        
+        .book-card {
+            position: relative !important;
+        }
+        
+        .book-cover-container {
+            position: relative !important;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📚 Medical library</h1>
+        <nav>
+            <a href="index.html">Library</a>
+            <a href="editor.html">Editor</a>
+            <a href="mdconvert.html">MD convert</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="search-box">
+            <input type="text" id="search" placeholder="Search...">
+        </div>
+
+        <div id="library-container">
+            <div class="loading">Library loading...</div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Starley Library | 2026</p>
+    </footer>
+
+    <script src="assets/js/config.js?v=1.1"></script>
+    <script src="assets/js/app.js?v=1.3"></script>
+    
+    <script>
+        console.log('🚀 Enhanced library script loading...');
+        
+        // Функция для добавления badge
+        function addVersionBadges(card, versions, bookTitle) {
+            console.log(`📦 Processing: ${bookTitle}`);
+            console.log('   Versions:', versions);
+            
+            if (!versions.russian && !versions.starley) {
+                console.log('   ⏭️  Skipping (no versions available)');
+                return;
+            }
+            
+            const coverContainer = card.querySelector('.book-cover-container') || 
+                                 card.querySelector('img')?.parentElement ||
+                                 card.querySelector('.book-cover');
+            
+            if (!coverContainer) {
+                console.error('   ❌ Cover container not found!');
+                console.log('   Card HTML:', card.innerHTML.substring(0, 200));
+                return;
+            }
+            
+            console.log('   ✅ Cover container found:', coverContainer.className);
+            
+            // Удаляем старые badge если есть
+            const oldBadges = coverContainer.querySelector('.version-badges');
+            if (oldBadges) {
+                oldBadges.remove();
+                console.log('   🗑️  Removed old badges');
+            }
+            
+            const badgesContainer = document.createElement('div');
+            badgesContainer.className = 'version-badges';
+            badgesContainer.style.position = 'absolute';
+            badgesContainer.style.top = '8px';
+            badgesContainer.style.right = '8px';
+            badgesContainer.style.display = 'flex';
+            badgesContainer.style.gap = '4px';
+            badgesContainer.style.zIndex = '10';
+            
+            if (versions.russian) {
+                const ruBadge = document.createElement('span');
+                ruBadge.className = 'version-badge ru';
+                ruBadge.textContent = 'RU';
+                ruBadge.style.background = 'rgba(231, 76, 60, 0.95)';
+                ruBadge.style.color = '#fff';
+                ruBadge.style.padding = '4px 10px';
+                ruBadge.style.borderRadius = '6px';
+                ruBadge.style.fontSize = '0.7rem';
+                ruBadge.style.fontWeight = 'bold';
+                ruBadge.style.textShadow = '0 0 10px #e74c3c';
+                ruBadge.style.boxShadow = '0 0 10px rgba(231, 76, 60, 0.6)';
+                badgesContainer.appendChild(ruBadge);
+                console.log('   🔴 Added RU badge');
+            }
+            
+            if (versions.starley) {
+                const starBadge = document.createElement('span');
+                starBadge.className = 'version-badge star';
+                starBadge.textContent = 'STAR';
+                starBadge.style.background = 'rgba(52, 152, 219, 0.95)';
+                starBadge.style.color = '#fff';
+                starBadge.style.padding = '4px 10px';
+                starBadge.style.borderRadius = '6px';
+                starBadge.style.fontSize = '0.7rem';
+                starBadge.style.fontWeight = 'bold';
+                starBadge.style.textShadow = '0 0 10px #3498db';
+                starBadge.style.boxShadow = '0 0 10px rgba(52, 152, 219, 0.6)';
+                badgesContainer.appendChild(starBadge);
+                console.log('   🔵 Added STAR badge');
+            }
+            
+            coverContainer.style.position = 'relative';
+            coverContainer.appendChild(badgesContainer);
+            console.log('   ✅ Badges added successfully!');
+        }
+        
+        // Перехватываем создание карточек
+        const originalCreateBookCard = window.createBookCard;
+        
+        window.createBookCard = async function(book, categoryPath) {
+            console.log(`\n📚 Creating card for: ${book.folder || 'unknown'}`);
+            
+            let card;
+            if (originalCreateBookCard) {
+                card = await originalCreateBookCard(book, categoryPath);
+            } else {
+                card = document.createElement('div');
+                card.className = 'book-card';
+            }
+            
+            // Адаптивный размер шрифта
+            const titleElement = card.querySelector('h3');
+            if (titleElement) {
+                const title = titleElement.textContent;
+                const titleLength = title.length;
+                
+                if (titleLength > 80) {
+                    titleElement.classList.add('very-long-title');
+                    card.setAttribute('data-full-title', title);
+                } else if (titleLength > 50) {
+                    titleElement.classList.add('long-title');
+                    card.setAttribute('data-full-title', title);
+                }
+                console.log(`   Title length: ${titleLength} chars`);
+            }
+            
+            // Проверяем версии
+            if (book.folder && categoryPath) {
+                const versions = await checkAvailableVersions(categoryPath, book.folder);
+                const bookTitle = titleElement?.textContent || book.folder;
+                
+                // Используем setTimeout чтобы убедиться что DOM готов
+                setTimeout(() => {
+                    addVersionBadges(card, versions, bookTitle);
+                }, 100);
+            }
+            
+            return card;
+        };
+        
+        // Функция проверки версий
+        async function checkAvailableVersions(categoryPath, bookFolder) {
+            console.log(`   🔍 Checking versions for: ${bookFolder}`);
+            
+            try {
+                const metadataUrl = `${BASE_URL || ''}${categoryPath}/${bookFolder}/metadata.json`;
+                console.log(`   📥 Fetching: ${metadataUrl}`);
+                
+                const response = await fetch(metadataUrl);
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+                
+                const bookData = (await response.json())[0];
+                const versions = bookData.versions || { original: true, russian: false, starley: false };
+                
+                console.log(`   📊 Versions found:`, versions);
+                return versions;
+            } catch (error) {
+                console.warn(`   ⚠️  Error checking versions:`, error.message);
+                return { original: true, russian: false, starley: false };
+            }
+        }
+        
+        console.log('✅ Enhanced library features loaded (debug version)');
+        console.log('💡 Откройте консоль (F12) чтобы увидеть детальный лог');
+    </script>
+</body>
+</html>
