@@ -1165,3 +1165,177 @@ a[data-back="true"]:active {
 .book-card:nth-child(4) { animation-delay: 0.2s; }
 .book-card:nth-child(5) { animation-delay: 0.25s; }
 .book-card:nth-child(6) { animation-delay: 0.3s; }
+
+/* ===== ПЕРЕМЕННЫЕ И ОСНОВА ===== */
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --background: #f8f9fa;
+    --text-color: #333;
+    --border-color: #dee2e6;
+    --en-gold: #f1c40f; /* Золотой для EN */
+    --star-blue: #007bff;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background: var(--background);
+}
+
+/* ===== ШАПКА ===== */
+header {
+    background: var(--primary-color);
+    color: white;
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+header nav a:hover { background: rgba(255,255,255,0.1); }
+
+/* ===== СЕТКА БИБЛИОТЕКИ ===== */
+#library-container {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 25px;
+}
+
+/* ===== КАРТОЧКА КНИГИ ===== */
+.book-card {
+    position: relative;
+    background: white;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    height: 100%; /* Чтобы все карточки были одной высоты */
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+}
+
+.book-cover-wrapper {
+    position: relative;
+    aspect-ratio: 2/3;
+    overflow: hidden;
+    border-radius: 12px 12px 0 0;
+}
+
+.book-cover-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* ИНФО-БЛОК (АДАПТИВНЫЙ ШРИФТ) */
+.neon-info {
+    padding: 12px;
+    border-top: 3px solid var(--neon-accent);
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100px;
+    background: #fff;
+    border-radius: 0 0 12px 12px;
+}
+
+.book-title {
+    color: var(--primary-color);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 6px;
+    /* Адаптивный размер: меняется от 0.8rem до 1.1rem в зависимости от экрана */
+    font-size: clamp(0.8rem, 2.5vw, 1rem);
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Позволяем до 3 строк для длинных названий */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+/* Уменьшаем шрифт еще сильнее, если JS добавил класс для очень длинных названий */
+.book-title.very-long-title {
+    font-size: clamp(0.7rem, 2vw, 0.85rem);
+}
+
+.book-authors {
+    font-size: 0.8rem;
+    color: #666;
+    font-style: italic;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* ===== БАДЖИ ===== */
+.version-badges {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    display: flex;
+    gap: 4px;
+    z-index: 2;
+}
+
+.version-badge {
+    padding: 3px 7px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.version-badge.en { background: var(--en-gold); color: #000; text-shadow: none; }
+.version-badge.ru { background: var(--accent-color); }
+.version-badge.star { background: var(--star-blue); }
+
+/* ===== ПОИСК И ПРОЧЕЕ ===== */
+.search-box {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+#search {
+    width: 100%;
+    padding: 12px 20px;
+    border: 2px solid var(--border-color);
+    border-radius: 25px;
+    font-size: 1rem;
+    outline: none;
+}
+
+#search:focus { border-color: var(--secondary-color); }
+
+footer { text-align: center; padding: 2rem; color: #888; }
