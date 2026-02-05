@@ -9,6 +9,10 @@
   "authors": [
     "Robert M. Bojar, MD"
   ],
+  "versions": {
+      "russian": true,
+      "starley": true
+    },
   "chapters": [
     {
       "file": "chapter-01.md",
