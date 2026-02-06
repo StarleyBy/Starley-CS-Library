@@ -51,92 +51,89 @@
             word-wrap: break-word !important;
         }
         
-        /* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
+         /* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
         .version-badges {
             position: absolute !important;
-            top: 8px !important;
-            right: 8px !important;
+            top: 6px !important;
+            right: 6px !important;
             display: flex !important;
-            gap: 4px !important;
+            gap: 3px !important;
             z-index: 10 !important;
         }
         
         .version-badge {
-            padding: 4px 10px !important;
-            border-radius: 6px !important;
-            font-size: 0.7rem !important;
+            padding: 3px 7px !important;
+            border-radius: 4px !important;
+            font-size: 0.6rem !important;
             font-weight: bold !important;
-            letter-spacing: 1px !important;
+            letter-spacing: 0.5px !important;
             text-transform: uppercase !important;
-            backdrop-filter: blur(4px) !important;
+            backdrop-filter: blur(6px) !important;
             transition: all 0.3s ease !important;
             animation: neon-pulse 2.5s ease-in-out infinite !important;
+            opacity: 0.85 !important;
         }
         
         .version-badge.ru {
-            background: rgba(231, 76, 60, 0.95) !important;
-            color: #fff !important;
+            background: rgba(231, 76, 60, 0.75) !important;
+            color: rgba(255, 255, 255, 0.95) !important;
             text-shadow: 
-                0 0 5px #e74c3c,
-                0 0 10px #e74c3c,
-                0 0 15px rgba(231, 76, 60, 0.5) !important;
-            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+                0 0 3px rgba(231, 76, 60, 0.8),
+                0 0 6px rgba(231, 76, 60, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.25) !important;
             box-shadow: 
-                0 0 10px rgba(231, 76, 60, 0.6),
-                0 0 20px rgba(231, 76, 60, 0.3),
-                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
+                0 0 6px rgba(231, 76, 60, 0.4),
+                0 0 12px rgba(231, 76, 60, 0.2),
+                inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
         }
         
         .version-badge.star {
-            background: rgba(52, 152, 219, 0.95) !important;
-            color: #fff !important;
+            background: rgba(52, 152, 219, 0.75) !important;
+            color: rgba(255, 255, 255, 0.95) !important;
             text-shadow: 
-                0 0 5px #3498db,
-                0 0 10px #3498db,
-                0 0 15px rgba(52, 152, 219, 0.5) !important;
-            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+                0 0 3px rgba(52, 152, 219, 0.8),
+                0 0 6px rgba(52, 152, 219, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.25) !important;
             box-shadow: 
-                0 0 10px rgba(52, 152, 219, 0.6),
-                0 0 20px rgba(52, 152, 219, 0.3),
-                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
+                0 0 6px rgba(52, 152, 219, 0.4),
+                0 0 12px rgba(52, 152, 219, 0.2),
+                inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
         }
-
-         /* EN Badge - Зелёный неон */
+        
+        /* EN Badge - Зелёный неон */
         .version-badge.en {
-            background: rgba(46, 204, 113, 0.95) !important;
-            color: #fff !important;
+            background: rgba(46, 204, 113, 0.75) !important;
+            color: rgba(255, 255, 255, 0.95) !important;
             text-shadow: 
-                0 0 5px #2ecc71,
-                0 0 10px #2ecc71,
-                0 0 15px rgba(46, 204, 113, 0.5) !important;
-            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+                0 0 3px rgba(46, 204, 113, 0.8),
+                0 0 6px rgba(46, 204, 113, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.25) !important;
             box-shadow: 
-                0 0 10px rgba(46, 204, 113, 0.6),
-                0 0 20px rgba(46, 204, 113, 0.3),
-                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
+                0 0 6px rgba(46, 204, 113, 0.4),
+                0 0 12px rgba(46, 204, 113, 0.2),
+                inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
         }
         
         @keyframes neon-pulse {
             0%, 100% {
-                opacity: 1;
+                opacity: 0.85;
                 box-shadow: 
-                    0 0 10px currentColor,
-                    0 0 20px currentColor,
-                    0 0 30px rgba(255, 255, 255, 0.2),
-                    inset 0 0 10px rgba(255, 255, 255, 0.1);
+                    0 0 6px currentColor,
+                    0 0 12px rgba(255, 255, 255, 0.15),
+                    inset 0 0 6px rgba(255, 255, 255, 0.08);
             }
             50% {
-                opacity: 0.9;
+                opacity: 0.7;
                 box-shadow: 
-                    0 0 5px currentColor,
-                    0 0 10px currentColor,
-                    0 0 15px rgba(255, 255, 255, 0.1),
-                    inset 0 0 5px rgba(255, 255, 255, 0.05);
+                    0 0 4px currentColor,
+                    0 0 8px rgba(255, 255, 255, 0.1),
+                    inset 0 0 4px rgba(255, 255, 255, 0.05);
             }
         }
         
         .book-card:hover .version-badge {
-            transform: scale(1.1) !important;
+            transform: scale(1.05) !important;
+            opacity: 0.95 !important;
         }
         
         .book-card[data-full-title]:hover::after {
