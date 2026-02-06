@@ -1,11 +1,8 @@
-### **Chapter 0**
-
 # **Information handover and care planning**
 
-Introduction *76* ICU admission *77* Shift handover and ICU discharge *78* Conclusion *79*
-
-### **Introduction**
-
+<details class="med-details">
+<summary><span style="font-size:110%">Introduction</span></summary>
+<div class="details-content">
 Effective *communication* is an essential part of good team work which in turn helps set the scene for optimizing *patient safety*. Most human errors are not the result of poor technical knowledge or ability but are due instead to 'non-technical' aspects of performance such as communication.
 
 Within a multidisciplinary team and between different tiers of a clinical team effective communication can be problematic, with differing communication styles complicated by hierarchical, ethnic, and gender influences.
@@ -38,17 +35,31 @@ One method of enabling effective handover is using a modified *SBAR tool*, devel
 - Response:
   - • What actions are required?
   - • Over what timescale?
+</div>
+</details>
 
-### **ICU admission**
 
-#### **Preparation for the patient's arrival**
+
+<details class="med-details">
+<summary><span style="font-size:110%">ICU admission</span></summary>
+<div class="details-content">
+
+
+<details class="med-details">
+<summary>Preparation for the patient's arrival</summary>
+<div class="details-content">
 
 - ICU multidisciplinary team brief/planning and role allocation
 - Equipment ready and checked
 - Infusions prepared
 - Handover sheet from theatre with relevant patient information including endotracheal tube (ETT) sizing, lines, inotropes, etc.
+</div>
+</details>
 
-#### **Patient arrival in ICU**
+
+<details class="med-details">
+<summary>Patient arrival in ICU</summary>
+<div class="details-content">
 
 - Patient monitoring transfer
 - Patient support transfer (ventilator, inotropes, drain suction)
@@ -60,14 +71,29 @@ One method of enabling effective handover is using a modified *SBAR tool*, devel
   - • Handover sheet allows handover to be more subjective
 - Encourage questions from all staff groups at end
 - Summarize plans at end.
+</div>
+</details>
 
-#### **Post handover**
+
+
+<details class="med-details">
+<summary>Post handover</summary>
+<div class="details-content">
 
 - ICU team task allocation
 - Appropriate investigations
 - Multidisciplinary review of care plan.
+</div>
+</details>
 
-## **Shift handover and ICU discharge**
+</div>
+</details>
+
+
+
+<details class="med-details">
+<summary><span style="font-size:110%">Shift handover and ICU discharge</span></summary>
+<div class="details-content">
 
 Written handover information can be used to provide the objective clinical data with the more subjective clinical impression and outstanding tasks being delineated by the following SBAR format.
 
@@ -88,8 +114,14 @@ Written handover information can be used to provide the objective clinical data 
 - Response:
   - • Outstanding tasks and timescale
   - • Clinical teams involved.
+</div>
+</details>
 
-### **Conclusion**
+
+
+<details class="med-details">
+<summary><span style="font-size:110%">Conclusion</span></summary>
+<div class="details-content">
 
 Effective and efficient communication plays a central role if excellent multidisciplinary care is to be delivered in any ICU.
 
@@ -97,6 +129,5 @@ Written and verbal communication can work hand in hand to allow such communicati
 
 All disciplines in the ICU should continually be seeking to improve the care delivered. By taking a short period of time to think about how we all handover information at each stage of the patient's journey we have the potential to ensure that the patient's safety is paramount and optimal and timely care is delivered.
 
-### **Further reading**
-
-Institute for Healthcare Improvement website: M <<http://www.ihi.org/ihi>> NHS Institute for Innovation and Improvement website: M [<http://www.institute.nhs.uk/>](http://www.institute.nhs.uk/). Scottish Patient Safety Programme website: M <[http://www.patientsafetyalliance.scot.nhs.uk>](http://www.patientsafetyalliance.scot.nhs.uk)).
+</div>
+</details>

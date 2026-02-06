@@ -196,7 +196,7 @@ function adjustAllFontSizes() {
     }, 100);
 }
 
-// После загрузки библиотеки вызываем адаптацию шрифтов
+// После загрузки библиотеки вызываем адаптацию   шрифтов
 function loadLibraryAndAdjustFonts() {
     loadLibrary().then(() => {
         adjustAllFontSizes();
