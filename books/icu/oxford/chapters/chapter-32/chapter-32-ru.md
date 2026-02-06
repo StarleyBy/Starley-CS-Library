@@ -1,8 +1,5 @@
 # **Эхокардиография у постели больного**
 
-Введение *340* Трансторакальная эхокардиография *342* Чреспищеводная эхокардиография *363*
-
-
 <details class="med-details">
 <summary><span style="font-size:110%">Введение</span></summary>
 <div class="details-content">
