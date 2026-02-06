@@ -1,0 +1,43 @@
+![](_page_0_Figure_2.jpeg)
+
+## The coronary, cutaneous and cerebral circulations
+
+![](_page_0_Figure_4.jpeg)
+
+![](_page_0_Figure_5.jpeg)
+
+Figure 26.2 Cutaneous circulation
+
+![](_page_0_Figure_7.jpeg)
+
+![](_page_1_Figure_2.jpeg)
+
+## **Coronary circulation**
+
+The anatomy of the coronary circulation is described in Chapter 2. The *high capillary density* of the myocardium (~1 capillary per muscle cell) allows it to extract an unusually large fraction (about 75%) of the oxygen from its blood supply. The resting blood flow to the heart is relatively high and moreover increases approximately fivefold during strenuous exercise.
+
+Figure 26.1 shows left and right coronary blood flow during the cardiac cycle at a resting heart rate (HR) of 70 beats/min. During systole, the branches of the left coronary artery that penetrate the myocardial wall to supply the subendocardium of the left ventricle are strongly compressed by the high pressure within the ventricle and its wall. Left coronary blood flow is therefore almost abolished during systole, so that 85% of flow occurs during diastole. Conversely, right coronary arterial flow rate is highest during systole, because the aortic pressure driving flow increases more during systole (from 80 to 120 mmHg) than the right ventricular pressure which opposes flow (from 0 to 25 mmHg).
+
+With a HR of 70 beats/min, systole and diastole last 0.3 and 0.55 s, respectively. As the HR increases during exercise or excitement, however, the duration of diastole shortens more than that of systole. At 200 beats/min, for example, systole and diastole both last for 0.15 s. In order to cope with the greatly increased oxygen demand of the heart, which occurs simultaneously with a marked reduction in the time available for left coronary perfusion, the coronary arteries/arterioles dilate dramatically to allow for a pronounced rise in blood flow. The mechanism of this exercise hyperaemia in humans is unknown. However, in the porcine coronary circulation, which seems to be regulated in a manner similar to that of humans, coronary exercise hyperaemia is probably caused by reduction of endothelin release from the coronary endothelium, plus a sympathetically mediated β-receptor activation of coronary artery smooth muscle which results in a rise in cellular cyclic AMP (cAMP) and the opening of BK<sub>C</sub> channels.
+
+## **Cutaneous circulation**
+
+Apart from supplying the modest metabolic requirements of the skin, the main function of the cutaneous vasculature is **thermoregulation**.
+
+**Venous plexuses** (networks) facilitate heat transfer from blood to the surface, and in **glabrous** (hairless) skin of hands, feet and areas of the face, coiled, thick-walled **arteriovenous anastomoses** (AVAs) directly link arterial and venous vessels and enable high blood flows through the venous plexus and increased radiation of heat (Figure 26.2).
+
+Cutaneous blood flow is primarily controlled by the central thermoregulator in the hypothalamus. In moderate conditions (thermoneutral zone) core temperature is maintained solely by adjusting cutaneous blood flow. Tonic activity of sympathetic adrenergic nerves releases noradrenaline which activates  $\alpha_1$  and  $\alpha_2$ adrenoceptors to induce graded vasoconstriction and thus heat loss. A fall in body temperature increases neural activity and vasoconstriction, so blood flow and heat loss decrease. An increase in temperature does the opposite, and specifically involves opening of AVAs, which are particularly sensitive to sympathetic stimulation and normally strongly vasoconstricted. At higher temperatures sympathetic cholinergic nerves release acetylcholine to activate sweat glands and sweating; co-transmitters (NO, substance P) cause local vasodilatation. Sweat glands themselves release the powerful vasodilator bradykinin (Figure 26.3). These mechanisms increase blood flow to support production of sweat and contribute to radiative heat loss. Skin blood flow can increase 30-fold in very hot conditions.
+
+Local skin temperature also directly affects blood flow. Local heating causes vasodilatation, probably due to NO and a local sensory nerve reflex. Local cooling enhances vasoconstriction by causing translocation of intracellular  $\alpha_{_{2C}}$  adrenoceptors into the vascular smooth muscle cell membrane, effectively increasing sensitivity to noradrenaline. In cold conditions cutaneous blood flow can fall by 90%, though prolonged cold causes transient paradoxical vasodilation, particularly in the hands. **Raynaud's phenomenon** is an exaggerated vasoconstrictor response to cold in the skin of extremities, especially fingers, causing pain and occasionally ulceration. Prevalence is  $\sim\!5\text{--}10\%$ , and is more common in premenopausal women than men. Most cases are idiopathic (Primary Raynaud's phenomenon), but  $\sim\!15\%$  are secondary to other conditions (e.g. connective tissue diseases), drug treatment (e.g. chemotherapy,  $\beta\text{-blockers}$ ) or toxins (e.g. smoking, PVC).
+
+The baroreceptor reflex also constricts cutaneous vessels, helping to increase total peripheral resistance (TPR) and shift blood to vital organs during haemorrhage or shock. This is particularly important at elevated body temperatures, when >50% of the cardiac output may be directed to the skin.
+
+## **Cerebral circulation**
+
+The brain receives about 15% of cardiac output. The **basilar** and **internal carotid arteries** entering the cranium join to form an arterial ring, the **circle of Willis**, from which arise the **anterior**, **middle** and **posterior cerebral arteries** which supply the cranium. This arrangement helps to defend the cerebral blood supply, which if occluded causes immediate unconsciousness and irreversible tissue damage within minutes.
+
+The brain, especially the neuronal grey matter, has a very high capillary density ( $\sim 3000-4000$  capillaries/mm³) and blood flow. Coupled with a large ( $\sim 35\%$ ) fractional  $O_2$  extraction, this allows it to sustain the high rate of oxidative metabolism it requires to function. The arteriolar myogenic response is well developed, allowing cerebral blood flow to be maintained constant at arterial pressures between about 50 and 170 mmHg.  $CO_2$  concentrations in the surrounding brain are particularly important in causing vasodilatation (see Chapter 23). The effect of  $CO_2$  is in part caused by NO release from endothelial cells. Hyperventilation, which reduces arterial  $CO_2$ , can cause a marked cerebral vasoconstriction and temporary unconsciousness. Sympathetic regulation of cerebral blood flow is probably of minor importance.
+
+Increased neuronal activity dilates local arterioles within seconds through several mechanisms (Figure 26.3). Some neurones release transmitters such as NO, vasoactive intestinal peptide or prostaglandin E<sub>2</sub> (PGE<sub>2</sub>), which are vasodilators. Neuronal activity also regulates intracerebral arterioles indirectly via effects on astrocytes. These are glial cells that have 'endfeet' that are in close contact with adjacent arterioles (in fact arterioles within the brain are almost completely encased in astrocytic endfeet). Astocytes also have multitudinous projections that surround and monitor the activity of >100 000 neuronal synapses and respond to increased activity in their synaptic 'domain' by raising their intracellular Ca2+ concentration. This is thought to induce them to release substances such as K+, PGE, and epoxyeicosatrienoic acids (EETs) from their endfeet onto the arterioles, causing them to dilate. They may also be able to elicit vasoconstriction by releasing 20-hydroxyeicosatetraenoic acid (20-HETE). Astrocytes are coupled to each other electrically by gap junctions, forming a network that may act to spread the vasodilating 'message' upstream so that the larger arteries feeding regions of increased neuronal activity also dilate.
+
+The brain and spinal cord float in the **cerebrospinal fluid** (CSF), which is contained within the rigid cranium and the spinal canal. Because the cranium is rigid and its contents are incompressible, the volume of blood within the brain remains roughly constant, and increases in arterial inflow are compensated for by decreases in venous volume. By increasing the tissue mass, brain tumours increase the intracerebral pressure and reduce cerebral blood flow. Increased intracerebral pressure is partially compensated for by the **Cushing reflex**, a characteristic rise in arterial pressure associated with a reflex bradycardia.

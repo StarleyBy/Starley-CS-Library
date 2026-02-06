@@ -1,0 +1,41 @@
+![](_page_0_Picture_2.jpeg)
+
+## <sup>4</sup> Vascular histology and smooth muscle cell ultrastructure
+
+Dense bands Sarcoplasmic reticulum Dense bodies Intermediate filaments Actin filaments Myosin filaments Nucleus Figure 4.2 Smooth muscle cell ultrastructure Figure 4.1 Structure of a typical small muscular artery Elastic fibre (longitudinal layer) Collagen bundles Fibroblast Subendothelial connective tissue Flow Basal lamina Endothelial cells Blood vessel Collagenous fibrils External elastic lamina Small elastic plate Smooth muscle cells (circular arrangement) Internal elastic lamina (fenestrated) **Medial layer Intimal layer** Non-myelinated nerve Gap junction **Adventitial layer**
+
+arger blood vessels share a common three-layered structure. Figure 4.1 illustrates the arrangement of these layers, or *tunics*, in a muscular artery.
+
+A thin inner layer, the **tunica intima**, comprises an endothelial cell monolayer (**endothelium**) supported by connective tissue. The endothelial cells lining the vascular lumen are sealed to each other by tight **junctions**, which restrict the diffusion of large molecules across the endothelium. The endothelial cells have a crucial role in controlling vascular permeability, vasoconstriction, angiogenesis (growth of new blood vessels) and regulation of haemostasis. The intima is relatively thicker in larger arteries and contains some smooth muscle cells in large and medium-sized arteries and veins.
+
+The thick middle layer, the **tunica media**, is separated from the intima by a fenestrated (perforated) sheath, the **internal elastic lamina**, mostly composed of elastin. The media contains **smooth muscle cells** embedded in an **extracellular matrix** (ECM) composed mainly of collagen, elastin and proteoglycans. The cells are shaped like elongated and irregular spindles or cylinders with tapering ends and are 15–100  $\mu$ m long. In the arterial system, they are orientated circularly or in a low-pitch spiral, so that the vascular lumen narrows when they contract. Individual cells are long enough to wrap around small arterioles several times.
+
+Adjacent smooth muscle cells form **gap junctions**. These are areas of close cellular contact in which arrays of large channels called **connexons** span both cell membranes, allowing ions to flow from one cell to another. The smooth muscle cells therefore form a **syncytium**, in which depolarization spreads from each cell to its neighbours.
+
+An **external elastic lamina** separates the tunica media from the outer layer, the **tunica adventitia**. This contains collagenous tissue supporting fibroblasts and nerves. In large arteries and veins, the adventitia contains **vasa vasorum**, small blood vessels that also penetrate into the outer portion of the media and supply the vascular wall with oxygen and nutrients.
+
+These three layers are also present in the venous system but are less distinct. Compared with arteries, veins have a thinner tunica media containing a smaller amount of smooth muscle cells, which also tend to have a more random orientation.
+
+The protein **elastin** is found mainly in the arteries. Molecules of elastin are arranged into a network of randomly coiled fibres. These molecular 'springs' allow arteries to expand during systole and then rebound during diastole to keep the blood flowing forward. This is particularly important in the aorta and other large elastic arteries, in which the media contains fenestrated sheets of elastin separating the smooth muscle cells into multiple concentric layers (lamellae).
+
+The fibrous protein **collagen** is present in all three layers of the vascular wall and functions as a framework that anchors the smooth muscle cells in place. At high internal pressures, the collagen network becomes very rigid, limiting vascular distensibility. This is particularly important in veins, which have a higher collagen content than arteries.
+
+## **Exchange vessel structure**
+
+Capillaries and postcapillary venules are tubes formed of a single layer of overlapping endothelial cells. This is supported and surrounded on the external side by the **basal lamina**, a 50–100 nm layer of fibrous proteins including collagen, and glycoproteins. **Pericytes**, isolated cells that can give rise to smooth muscle cells during angiogenesis, adhere to the outside of the basal lamina, especially in postcapillary venules. The luminal side of the endothelium is coated by **glycocalyx**, a dense glycoprotein network attached to the cell membrane.
+
+There are three types of capillaries, and these differ in their locations and permeabilities. Their structures are illustrated in Chapter 20.
+
+Continuous capillaries occur in skin, muscles, lungs and the central nervous system. They have a low permeability to molecules that cannot pass readily through cell membranes, owing to the presence of tight junctions which bring the overlapping membranes of adjacent endothelial cells into close contact. The tight junctions run around the perimeter of each cell, forming a seal restricting the paracellular flow of molecules of molecular weight (MW) >10 000. These junctions are especially tight in most capillaries of the central nervous system and form an integral part of the bloodbrain barrier (see Chapter 20).
+
+Fenestrated capillaries are much more permeable than continuous capillaries. These are found in endocrine glands, renal glomeruli, intestinal villi and other tissues in which large amounts of fluid or metabolites enter or leave capillaries. In addition to having leakier intercellular junctions, the endothelial cells of these capillaries contain **fenestrae**, circular pores of diameter 50–100 nm spanning areas of the cells where the cytoplasm is thinned. Except in the renal glomeruli, fenestrae are usually covered by a thin perforated diaphragm.
+
+**Discontinuous capillaries** or **sinusoids** are found in liver, spleen and bone marrow. These are large, irregularly shaped capillaries with gaps between the endothelial cells wide enough to allow large proteins and even erythrocytes to cross the capillary wall.
+
+## Smooth muscle cell ultrastructure
+
+The cytoplasm of vascular smooth muscle cells contains thin actin and thick myosin filaments (Figure 4.2). Instead of being aligned into sarcomeres as in cardiac myocytes, groups of actin filaments running roughly parallel to the long axis of the cell are anchored at one end into elongated dense bodies in the cytoplasm and dense bands along the inner face of the cell membrane. Dense bodies and bands are linked by bundles of intermediate filaments composed mainly of the proteins desmin and vimentin to form the cytoskeleton, an internal scaffold giving the cell its shape. The free ends of the actin filaments interdigitate with myosin filaments. The myosin crossbridges are structured so that the actin filaments on either side of a myosin filament are pulled in opposite directions during crossbridge cycling. This draws the dense bodies towards each other, causing the cytoskeleton, and therefore the cell, to shorten. The dense bands are attached to the ECM by membrane-spanning proteins called integrins, allowing force development to be distributed throughout the vascular wall. The interaction between the ECM and integrins is a dynamic process which is affected by forces exerted on the matrix by the pressure inside the vessel. This allows the integrins, which are signalling molecules capable of influencing both cytoskeletal structure and signal transduction, to orchestrate cellular responses to changes in
+
+The **sarcoplasmic reticulum** (SR, also termed smooth endoplasmic reticulum) occupies 2–6% of cell volume. This network of tubes and flattened sacs permeates the cell and contains a high concentration (~0.5 mmol/L) of free Ca<sup>2+</sup>. Elements of the SR closely approach the cell membrane. Several types of Ca<sup>2+</sup>-regulated ion channels and transporters are concentrated in these areas of the plasmalemma, which may have an important role in cellular excitation.
+
+The nucleus is located in the central part of the cell. Organelles including rough endoplasmic reticulum, Golgi complex and mitochondria are mainly found in the perinuclear region.

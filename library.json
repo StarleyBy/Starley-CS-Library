@@ -31,6 +31,14 @@
         { "folder": "wilcox" },
         { "folder": "Netter-Cardiothoracic-Anatomy" }
       ]
+    },
+    {
+      "id": "cardiovascular_system",
+      "title": "Cardiovascular System",
+      "path": "books/cardiovascular-system",
+      "books": [
+            { "folder": "cardiovascular-system-glance" }
+      ]
     }
   ]
 }
