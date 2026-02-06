@@ -100,6 +100,21 @@
                 0 0 20px rgba(52, 152, 219, 0.3),
                 inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
         }
+
+         /* EN Badge - Зелёный неон */
+        .version-badge.en {
+            background: rgba(46, 204, 113, 0.95) !important;
+            color: #fff !important;
+            text-shadow: 
+                0 0 5px #2ecc71,
+                0 0 10px #2ecc71,
+                0 0 15px rgba(46, 204, 113, 0.5) !important;
+            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+            box-shadow: 
+                0 0 10px rgba(46, 204, 113, 0.6),
+                0 0 20px rgba(46, 204, 113, 0.3),
+                inset 0 0 10px rgba(255, 255, 255, 0.1) !important;
+        }
         
         @keyframes neon-pulse {
             0%, 100% {
@@ -230,15 +245,21 @@
                 
                 const versions = bookMeta.versions || { original: true, russian: false, starley: false };
                 
-                if (versions.russian || versions.starley) {
+                // Создаём badge если есть хотя бы одна версия
+                if (versions.original || versions.russian || versions.starley) {
                     let badgesHtml = '<div class="version-badges">';
+                    
+                    // EN badge для оригинальной версии (всегда есть)
+                    if (versions.original !== false) {
+                        badgesHtml += '<span class="version-badge en">EN</span>';
+                    }
                     
                     if (versions.russian) {
                         badgesHtml += '<span class="version-badge ru">RU</span>';
                     }
                     
                     if (versions.starley) {
-                        badgesHtml += '<span class="version-badge star">⭐</span>';
+                        badgesHtml += '<span class="version-badge star">STAR</span>';
                     }
                     
                     badgesHtml += '</div>';
