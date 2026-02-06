@@ -39,6 +39,14 @@
       "books": [
             { "folder": "cardiovascular-system-glance" }
       ]
+    },
+    {
+      "id": "drugs",
+      "title": "Drugs",
+      "path": "books/drugs",
+      "books": [
+            { "folder": "drugs-in-icu-oxford" }
+      ]
     }
   ]
 }
