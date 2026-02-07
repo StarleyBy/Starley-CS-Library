@@ -1,0 +1,61 @@
+[
+  {
+    "title": "OPIE’S CARDIOVASCULAR DRUGS. A COMPANION TO BRAUNWALD’S HEART DISEASE, NINTH EDITION",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiology",
+      "drugs",
+      "pharmacology"
+    ],
+    "authors": [
+      "DEEPAK L. BHATT, MD, MPH"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Drugs for Ischemic Heart Disease"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Antihypertensive Therapies"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Heart Failure"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Drugs for Diabetes"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Drugs for Obesity"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Lipid-Modifying Drugs"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Drugs Targeting Inflammation"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Antithrombotic Drugs"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Antiarrhythmic Drugs"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Vascular Medicine Drugs"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Drugs for Pulmonary Hypertension"
+      }
+    ],
+    "appendices": []
+  }
+]

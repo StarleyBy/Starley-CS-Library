@@ -45,7 +45,8 @@
       "title": "Drugs",
       "path": "books/drugs",
       "books": [
-            { "folder": "drugs-in-icu-oxford" }
+            { "folder": "drugs-in-icu-oxford" },
+            { "folder": "opie's-cardiovascular-drugs" }
       ]
     }
   ]
