@@ -1,8 +1,8 @@
 # **Sedation and pain relief**
 
-Introduction *34* Patient assessment *35* Pharmacology *37* Clinical protocols *39*
-
-# **Introduction**
+<details class="med-details">
+<summary><span style="font-size:110%">Introduction</span></summary>
+<div class="details-content">
 
 After cardiac surgery, patients require a short period of sedation or symptom control to minimize oxygen consumption while they re-establish their normal physiology. This return of patient homeostasis includes re-establishing normothermia, normal coagulation, fluid balance, and vasomotor control.
 
@@ -12,7 +12,9 @@ The environment in ICU is associated with many factors that can affect patient c
 
 This chapter describes the pharmacology of sedative and analgesic drugs, modern concepts and pathways, and patient assessment.
 
-### **Principles of sedation**
+<details class="med-details">
+<summary>Principles of sedation</summary>
+<div class="details-content">
 
 We must differentiate short-term sedation in the uncomplicated patient from long-term sedation in unstable patients who develop critical illness. The following aspects should be considered:
 
@@ -22,8 +24,12 @@ We must differentiate short-term sedation in the uncomplicated patient from long
 - Sedation in unstable and critically ill patients needs to be adapted with regard to its impact on haemodynamics and organ dysfunction.
 - Longer exposure to sedation often leads to adaption processes such as tolerance to opioids or tachyphylaxis to benzodiazepines.
 - Sedation protocols should have targets and allow for sedation breaks.
+</div>
+</details>
 
-# **Principles of pain relief**
+<details class="med-details">
+<summary>Principles of pain relief</summary>
+<div class="details-content">
 
 Experience of postoperative pain is often complex and multifactorial. It depends not only on somatic but also on emotional stress. Modern concepts of postoperative analgesia are based on
 
@@ -33,21 +39,27 @@ Experience of postoperative pain is often complex and multifactorial. It depends
 - No or minimal adjustments in patients with organ dysfunction
 - Pharmaco-economics.
 
-#### **Further reading**
+</div>
+</details>
 
-Schweikert WD, Kress JP. Strategies to optimise analgesia and sedation. *Crit Care* 2008;2(Supp. 3):S6. Sessler CN, Varney K. Patient-focused sedation and analgesia in the ICU. *Chest* 2008;33:552–65. Tonner PH, Weiler N, Paris A, Scholz J. Sedation and analgesia in the intensive care unit. *Curr Opin Anaesthesiol* 2003;6:3–2.
+</div>
+</details>
 
-# **Patient assessment**
+<details class="med-details">
+<summary><span style="font-size:110%">Patient assessment</span></summary>
+<div class="details-content">
 
 Although it appears obvious to identify patients who are comfortable and differentiate them from those who are not, it can be difficult to quantify and scale these conditions and make these measurements the basis of decision-making and intervention.
 
-# **Assessment tools**
+<details class="med-details">
+<summary>Assessment tools</summary>
+<div class="details-content">
 
-#### *The Richmond Agitation-Sedation Scale (RASS)*
+##### *The Richmond Agitation-Sedation Scale (RASS)*
 
-This is a useful and validated 0-point scoring scale developed in a collaborative way by critical care doctors, nurses, pharmacists, and physiotherapists. Now widely used clinically and for research (see Table 5.3).
+This is a useful and validated 10-point scoring scale developed in a collaborative way by critical care doctors, nurses, pharmacists, and physiotherapists. Now widely used clinically and for research (see Table 15.3).
 
-# *Confusion Assessment Method for ICU (CAM-ICU)*
+##### *Confusion Assessment Method for ICU (CAM-ICU)*
 
 This scoring is designed to explore delirious patients. It is based on a combined assessment of the mental status beyond the influence of pharmacological sedation. CAM-ICU includes:
 
@@ -55,7 +67,7 @@ This scoring is designed to explore delirious patients. It is based on a combine
 - Altered level of consciousness
 - Degree of disorganized thinking.
 
-# *Electroencephalogram*
+##### *Electroencephalogram*
 
 Although processed EEG parameters, like BIS or entropy as well as evoked potentials, have been successfully used to titrate general anaesthetics, they have proven less useful in distinguishing and reflecting the more subtle changes of ICU sedation. The use of EEG is still recommended to identify:
 
@@ -63,9 +75,9 @@ Although processed EEG parameters, like BIS or entropy as well as evoked potenti
 - Burst suppression pattern during hypothermia
 - Adequate level of hypnosis in the paralysed patient.
 
-# *Visual Analogue Scale (VAS)*
+##### *Visual Analogue Scale (VAS)*
 
-Traditional instrument to quantify the level of pain and discomfort. Normally used as an -point scale with 0=no pain and 0 representing the worst imaginable pain. Although the VAS is still widely used, there are a lot of shortcomings that limit its usefulness. The VAS:
+Traditional instrument to quantify the level of pain and discomfort. Normally used as an 11-point scale with 0=no pain and 10 representing the worst imaginable pain. Although the VAS is still widely used, there are a lot of shortcomings that limit its usefulness. The VAS:
 
 - Is operator biased
 - Has huge situational variability
@@ -73,7 +85,7 @@ Traditional instrument to quantify the level of pain and discomfort. Normally us
 - Traditionally widely used in studies
 - Helpful to follow-up individuals
 
-#### *Functional capacity*
+##### *Functional capacity*
 
 A more meaningful description of the effectiveness of analgesia is the extent of functional recovery that a patient is able to achieve at any given stage. Examples of functional capacity after cardiac surgery are:
 
@@ -81,46 +93,61 @@ A more meaningful description of the effectiveness of analgesia is the extent of
 - Mobilization
 - Walking distance
 - Walking on stairs.
+</div>
+</details>
 
-#### **Aims and strategies**
+<details class="med-details">
+<summary>Aims and strategies</summary>
+<div class="details-content">
 
-#### *Providing patient comfort and safety*
+##### *Providing patient comfort and safety*
 
 This should include minimizing pain and facilitating tube tolerance, minimizing anxiety, and avoiding adverse effects.
 
-#### *Optimizing patient recovery*
+##### *Optimizing patient recovery*
 
 This includes faster achievement of recovery goals such as extubation and mobilization, but also allows more effective physiological and functional recovery, e.g. intensive chest physiotherapy.
 
-### **Further reading**
+</div>
+</details>
 
-- Haenggi M, Ypparila-Wolters H, Hauser K, Caviezel C, Takala J, Korhonen I, *et al*. Intra- and inter-individual variation of BIS-index and Entropy during controlled sedation with midazolam/ remifentanil and dexmedetomidine/remifentanil in healthy volunteers: an interventional study. *Crit Care* 2009;3:R20.
-- Sessler CN, Gosnell MS, Grap MJ, Brophy GM, O'Neal PV, Keane KA, *et al*. The Richmond Agitation-Sedation Scale. *Am J Respir Crit Care Med* 2002;66:338–44.
-- Vanderbilt University Medical Center. Delirium resources. Available at: M [<http://www.](http://www.mc.vanderbilt.edu/icudelirium/assessment.html) [mc.vanderbilt.edu/icudelirium/assessment.html>](http://www.mc.vanderbilt.edu/icudelirium/assessment.html)
+</div>
+</details>
 
-# **Pharmacology**
+<details class="med-details">
+<summary><span style="font-size:110%">Pharmacology</span></summary>
+<div class="details-content">
 
 There are only a limited number of drugs that qualify as candidates for sedation and analgesia for the cardiac patient. Most drugs work synergistically when used together, so lower doses/concentrations of each component is advisable.
 
-# **Opioids**
+
+<details class="med-details">
+<summary>Opioids</summary>
+<div class="details-content">
 
 #### *Morphine*
 
 Popular and effective opioid that also has sedative characteristics. Mainly used intravenously by nurse-controlled boluses or patient-controlled analgesia. Unsuitable for long-term exposure due to high variability in pharmacodynamics and metabolism. Its active metabolite is morphine-6-glucuronate. Absorption of subcutaneous morphine can be difficult to predict in poorly perfused patients. Morphine is emetogenic and impairs gut motility.
 
-# *Alfentanil*
+#### *Alfentanil*
 
 Short-acting opioid that is given by IV infusion. Shallow dose–response curve allows it to be used in spontaneously breathing patients. Usually rapid recovery when infusion is weaned. However, recovery can be affected in genetically determined slow metabolizers across the cytochrome P450 pathway (about 25% of Caucasian patients).
 
-# *Remifentanil*
+#### *Remifentanil*
 
 Ultra-short-acting fentanyl congener with context-sensitive half-time of only 3–4 minutes. Elimination independent of organ dysfunction. Increasingly used for short-term postoperative sedation until and after extubation. Easy to titrate. This can be further improved by using remifentanil as target-controlled infusion (TCI) for which it is licensed.
 
 #### *Pethidine (meperidine)*
 
 A relatively old phenylpiperidine with characteristics similar to morphine. Today mainly used to control postoperative shivering against which it is highly effective.
+</div>
+</details>
 
-# **Sedatives/hypnotics**
+
+
+<details class="med-details">
+<summary>Sedatives/hypnotics</summary>
+<div class="details-content">
 
 #### *Propofol*
 
@@ -132,13 +159,17 @@ Widely used short-acting benzodiazepine that acts as sedative, anxiolytic, amnes
 
 #### *Clonidine*
 
-α-2 adrenoceptor agonist that is highly effective for symptom control in agitated patients and for alcohol withdrawal. Increasingly used for long-term ICU patients to wean off the ventilator. Bradycardia and hypotension can occur if drug is loaded too quickly. Should not be used in patients on high doses of inotropes.
+α<sub>2</sub> adrenoceptor agonist that is highly effective for symptom control in agitated patients and for alcohol withdrawal. Increasingly used for long-term ICU patients to wean off the ventilator. Bradycardia and hypotension can occur if drug is loaded too quickly. Should not be used in patients on high doses of inotropes.
 
 #### *Dexmedetomidine*
 
-Highly selective α-2 adrenoceptor agonist. Recent studies have shown non-inferiority compared to propofol and midazolam. Experience in cardiac ICU is still limited. Licensed in the UK since 20 for sedation of adult ICU patients requiring sedation level no deeper than arousal in response to verbal stimulation (corresponding to RASS score 0 to −3).
+Highly selective α<sub>2</sub> adrenoceptor agonist. Recent studies have shown non-inferiority compared to propofol and midazolam. Experience in cardiac ICU is still limited. Licensed in the UK since 2011 for sedation of adult ICU patients requiring sedation level no deeper than arousal in response to verbal stimulation (corresponding to RASS score 0 to −3).
+</div>
+</details>
 
-### **Antipsychotics/NMDA-antagonists**
+<details class="med-details">
+<summary>Antipsychotics/NMDA-antagonists</summary>
+<div class="details-content">
 
 #### *Haloperidol*
 
@@ -148,13 +179,15 @@ Neuroleptic agent that is now considered as first choice for treatment of deliri
 
 NMDA-receptor antagonist that modulates short- and long-term pain. Reduces development of hyperalgesia after opioid exposure. Current evidence suggests ultra-low doses of around 0.05mg/kg/hour. Extrapyramidal side effects when used in higher doses. Available as isomeric S-(+)-ketamine in some countries.
 
-# **Further reading**
+</div>
+</details>
 
-Baltali S, Turkoz A, Bozdogan N, Demirturk OS, Baltali M, Turkoz R, et al. The efficacy of intravenous patient-controlled remifentanil versus morphine anesthesia after coronary artery surgery. *J Cradiothorac Vasc Anesth* 2009;23:70–4.
+</div>
+</details>
 
-Riker RR, Shehabi Y, Bokesch PM, Ceraso D, Wisemandle W, Koura F, *et al*. Dexmedetomidine vs midazolam for sedation of critically ill patients. *JAMA* 2009;30:489–99.
-
-# **Clinical protocols**
+<details class="med-details">
+<summary><span style="font-size:110%">Clinical protocols</span></summary>
+<div class="details-content">
 
 Most institutions have developed standards, protocols, and care bundles with regard to the practical aspects of sedation and analgesia. In many cardiac critical care units the default strategy is executed and managed by nurses and nurse practitioners.
 
@@ -168,7 +201,7 @@ Any technique or pathway for both sedation and analgesia should be designed to:
 - Be safe across a variety of patient groups
 - Have little or no interaction with concurrent treatment.
 
-# **An example protocol**
+#### **An example protocol**
 
 Routine cardiac postoperative patient after surgery with CPB:
 
@@ -177,22 +210,22 @@ Routine cardiac postoperative patient after surgery with CPB:
 - Reduce remifentanil to allow spontaneous ventilation but still provide tolerance of ETT.
 - Extubate patient when awake and cooperative.
 
-# **Pain management**
+#### **Pain management**
 
 There are two major stages that characterize the analgesic requirements of a postoperative cardiac patient. These can be described as the early postoperative phase and the later step-down analgesia phase.
 
 Although it is generally desirable to convert the patient to oral analgesia as soon as possible, this can be confounded by delayed GI adsorption and motility or by issues around nausea.
 
-# *Early postoperative phase*
+##### *Early postoperative phase*
 
 - Manage with IV morphine or continue remifentanil infusion (see example protocol). Allow regular IV paracetamol supplements.
 - Convert to potent oral opioid analgesics like oxycodone (combined fast- and slow-release formulations) and oral paracetamol when GI adsorption is deemed satisfactory.
 - NSAIDs only in suitable patients. These drugs can interfere with coagulation, renal function, and gastric mucosal integrity. Contraindicated in patients with endocoronary stents.
 
-# 320 Chapter 29 **Sedation and pain relief**
-
-#### *Step-down analgesia*
+##### *Step-down analgesia*
 
 - Switch to composite balanced analgesic drugs, like co-codamol.
 - Allow lower potency opioids, like tramadol for rescue PRN.
 - NSAIDs in suitable patients.
+</div>
+</details>
