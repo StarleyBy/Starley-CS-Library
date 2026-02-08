@@ -1,8 +1,27 @@
 const colors = ['red', 'blue', 'green', 'gold', 'purple', 'orange', 'teal', 'pink', 'indigo', 'lime', 'brown', 'grey'];
 const colorValues = ['#e74c3c', '#3498db', '#2ecc71', '#f1c40f', '#9b59b6', '#e67e22', '#1abc9c', '#fd79a8', '#6c5ce7', '#badc58', '#a0522d', '#95a5a6'];
+const symbols = ['🔔', '🔎', '💡', '🔦', '📕', '📖', '📚', '📓', '📰', '✏', '📌', '🗝', '🛠', '💉', '💊', '🚫', '❓', '❗', '▶', '⏹', '⏺', '↑', '→', '↓', '●', '★', '☆', '☑', '☛', '☠', '✎', '✦', '✪', '✹', '✿', '❀', '❁', '❂', '✏︎', '⚛︎', 'Ⅰ', 'Ⅱ', 'Ⅲ', 'Ⅳ', 'Ⅴ', 'Ⅵ', 'Ⅶ', 'Ⅷ', 'Ⅸ', 'Ⅹ', 'Ⅺ', 'Ⅻ'];
 let editor; // Глобальная переменная для CodeMirror
 
 // ==================== ФУНКЦИИ (ДО ИНИЦИАЛИЗАЦИИ) ====================
+
+// Функция для вставки символа в позицию курсора
+function insertSymbol(symbol) {
+    if (!editor) return;
+    
+    editor.replaceSelection(symbol);
+    editor.focus();
+    updatePreview();
+}
+
+// Функция переключения панели символов
+function toggleSymbolsPanel() {
+    const panel = document.getElementById('symbols-panel');
+    const toggle = document.getElementById('symbols-toggle');
+    
+    panel.classList.toggle('expanded');
+    toggle.classList.toggle('rotated');
+}
 
 // Функция для применения стилей через CodeMirror
 function applyStyleCM(type, className) {
@@ -246,6 +265,7 @@ function updatePreview() {
 
 document.addEventListener('DOMContentLoaded', () => {
     initColorPalettes();
+    initSymbolsPanel();
     initLoader();
     initExporter();
     
@@ -284,7 +304,26 @@ function initColorPalettes() {
     });
 }
 
-// 2. Load files
+// 2. Initialize symbols panel
+function initSymbolsPanel() {
+    const symbolsPanel = document.getElementById('symbols-panel');
+    
+    const grid = document.createElement('div');
+    grid.className = 'symbols-grid';
+    
+    symbols.forEach(symbol => {
+        const btn = document.createElement('button');
+        btn.className = 'symbol-btn';
+        btn.textContent = symbol;
+        btn.title = `Insert ${symbol}`;
+        btn.onclick = () => insertSymbol(symbol);
+        grid.appendChild(btn);
+    });
+    
+    symbolsPanel.appendChild(grid);
+}
+
+// 3. Load files
 async function initLoader() {
     const bookSelect = document.getElementById('select-book');
     const chapterSelect = document.getElementById('select-chapter');
@@ -365,7 +404,7 @@ async function initLoader() {
     }
 }
 
-// 3. Preview
+// 4. Preview
 function initPreview() {
     const textarea = document.getElementById('markdown-input');
     
@@ -416,7 +455,7 @@ function initPreview() {
     updatePreview();
 }
 
-// 4. Export
+// 5. Export
 function initExporter() {
     document.getElementById('btn-download').onclick = () => {
         const text = editor ? editor.getValue() : document.getElementById('markdown-input').value;
