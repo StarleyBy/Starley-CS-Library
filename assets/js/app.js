@@ -196,6 +196,81 @@ function adjustAllFontSizes() {
     }, 100);
 }
 
+// ПАТЧИМ функцию renderBookCard для отображения баджей версий
+const originalRenderBookCard = window.renderBookCard;
+
+window.renderBookCard = function(bookPath, bookMeta) {
+    let html = originalRenderBookCard(bookPath, bookMeta);
+    
+    const versions = bookMeta.versions || {};
+    
+    // Создаём badge только если есть хотя бы одна доступная версия
+    if (versions.original || versions.russian || versions.starley) {
+        let badgesHtml = '<div class="version-badges">';
+        
+        // EN badge только если явно указан original: true
+        if (versions.original === true) {
+            badgesHtml += '<span class="version-badge en">EN</span>';
+        }
+        
+        if (versions.russian === true) {
+            badgesHtml += '<span class="version-badge ru">RU</span>';
+        }
+        
+        if (versions.starley === true) {
+            badgesHtml += '<span class="version-badge star">STAR</span>';
+        }
+        
+        badgesHtml += '</div>';
+        
+        html = html.replace(
+            '<div class="book-cover-wrapper">',
+            '<div class="book-cover-wrapper">' + badgesHtml
+        );
+    }
+    
+    const titleLength = bookMeta.title.length;
+    if (titleLength > 80) {
+        html = html.replace('class="book-title"', 'class="book-title very-long-title"');
+        html = html.replace(
+            'class="book-card"',
+            `class="book-card" data-full-title="${bookMeta.title.replace(/"/g, '&quot;')}"`
+        );
+    } else if (titleLength > 50) {
+        html = html.replace('class="book-title"', 'class="book-title long-title"');
+        html = html.replace(
+            'class="book-card"',
+            `class="book-card" data-full-title="${bookMeta.title.replace(/"/g, '&quot;')}"`
+        );
+    }
+    
+    return html;
+};
+
+// ОТКЛЮЧАЕМ adjustFontSize и adjustAllFontSizes для предотвращения конфликта со стилями
+const originalAdjustFontSize = window.adjustFontSize;
+const originalAdjustAllFontSizes = window.adjustAllFontSizes;
+
+window.adjustFontSize = function() {
+    // Ничего не делаем
+};
+
+window.adjustAllFontSizes = function() {
+    // Ничего не делаем
+};
+
+// После загрузки DOM удаляем все inline стили с font-size
+document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function() {
+        document.querySelectorAll('.book-title, .book-authors').forEach(element => {
+            // Удаляем только font-size из inline стилей
+            if (element.style.fontSize) {
+                element.style.fontSize = '';
+            }
+        });
+    }, 200);
+});
+
 // После загрузки библиотеки вызываем адаптацию   шрифтов
 function loadLibraryAndAdjustFonts() {
     loadLibrary().then(() => {
