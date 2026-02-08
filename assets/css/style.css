@@ -1,4 +1,3 @@
-/* ===== VARIABLES ===== */
 :root {
     --primary-color: #2c3e50;
     --secondary-color: #3498db;
@@ -10,7 +9,6 @@
     --highlight-green: #d4edda;
 }
 
-/* ===== BASE STYLES ===== */
 * {
     margin: 0;
     padding: 0;
@@ -24,7 +22,6 @@ body {
     background: var(--background);
 }
 
-/* ===== HEADER ===== */
 header {
     background: var(--primary-color);
     color: white;
@@ -53,7 +50,6 @@ header nav a:hover {
     background: rgba(255,255,255,0.1);
 }
 
-/* ===== MAIN CONTENT ===== */
 main {
     max-width: 1200px;
     margin: 2rem auto;
@@ -78,7 +74,6 @@ main {
     border-color: var(--secondary-color);
 }
 
-/* ===== CATEGORIES AND BOOKS ===== */
 .category-section {
     margin-bottom: 2rem;
 }
@@ -149,7 +144,6 @@ main {
     text-overflow: ellipsis;
 }
 
-/* Neon style for book info */
 .neon-info {
     position: relative;
     padding: 8px 5px;
@@ -168,7 +162,6 @@ main {
     justify-content: center;
 }
 
-/* Адаптивный размер шрифта для названия книги */
 .book-title {
     font-size: clamp(0.7rem, 2.5vw, 1rem);
     margin: 0 0 2px 0;
@@ -182,7 +175,6 @@ main {
     line-height: 1.2;
 }
 
-/* Адаптивный размер шрифта для авторов */
 .book-authors {
     font-size: clamp(0.6rem, 2vw, 0.8rem);
     margin: 0;
@@ -204,7 +196,6 @@ main {
     }
 }
 
-/* Стили для карточки книги, используемой в других частях приложения */
 .book-card {
     background: white;
     padding: 0;
@@ -226,7 +217,6 @@ main {
     padding: 20px;
 }
 
-/* ===== FOOTER ===== */
 footer {
     text-align: center;
     padding: 2rem;
@@ -234,7 +224,6 @@ footer {
     margin-top: 4rem;
 }
 
-/* ===== RESPONSIVENESS ===== */
 @media (max-width: 768px) {
     main {
         padding: 0 1rem;
@@ -264,7 +253,6 @@ footer {
     }
 }
 
-/* ===== UTILITIES ===== */
 .loading {
     text-align: center;
     padding: 3rem;
@@ -282,9 +270,6 @@ footer {
     font-weight: 600;
 }
 
-/* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
-
-/* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
 .oval {
     padding: 3px 12px;
     border-radius: 20px;
@@ -293,7 +278,6 @@ footer {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* Gradient oval styles - MUCH MORE VIBRANT */
 .oval.ov-gold,
 .gold-highlighted-oval-3d {
     background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
@@ -375,7 +359,6 @@ footer {
     border: none;
 }
 
-/* 3. LUMINOUS BLOCKS WITH GLOW */
 .luminous-block {
     display: inline-block;
     padding: 4px 12px;
@@ -410,7 +393,6 @@ footer {
     color: #9c27b0;
 }
 
-/* 4. CYBER EFFECTS */
 .cyber-glitch {
     position: relative;
     display: inline-block;
@@ -445,7 +427,6 @@ footer {
 .cyber-neon-green { color: #39ff14; }
 .cyber-neon-yellow { color: #ffff00; }
 
-/* 5. INFO BOXES */
 .info-box {
     background: #ffeaa7;
     border-left: 4px solid #fdcb6e;
@@ -475,7 +456,6 @@ footer {
     border-left-color: #f44336;
 }
 
-/* Стили для внутренних ссылок (якорей) */
 a[href^="#"] {
     color: #3498db;
     text-decoration: none;
@@ -490,10 +470,9 @@ a[href^="#"]:hover {
     background-color: rgba(52, 152, 219, 0.1);
 }
 
-/* Подсветка целевого якоря при переходе */
 :target {
     animation: highlight-target 2s ease;
-    scroll-margin-top: 20px; /* Отступ сверху при прокрутке */
+    scroll-margin-top: 20px;
 }
 
 @keyframes highlight-target {
@@ -505,17 +484,14 @@ a[href^="#"]:hover {
     }
 }
 
-/* Стиль для якорей */
 [id] {
     scroll-margin-top: 20px;
 }
 
-/* Плавная прокрутка при переходе по якорям */
 html {
     scroll-behavior: smooth;
 }
 
-/* Стили для умной кнопки возврата */
 a[data-back="true"] {
     display: inline-block;
     margin-left: 10px;
@@ -540,9 +516,6 @@ a[data-back="true"]:active {
     transform: scale(0.95);
 }
 
-/* ==================== DOCUSAURUS-STYLE INFO BLOCKS ==================== */
-
-/* Базовый стиль для всех блоков */
 .admonition {
     margin: 20px 0;
     padding: 15px 20px;
@@ -568,7 +541,6 @@ a[data-back="true"]:active {
     line-height: 1.7;
 }
 
-/* NOTE (насыщенный синий) */
 .admonition-note {
     background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
     border-color: #1976d2;
@@ -580,7 +552,6 @@ a[data-back="true"]:active {
     content: "ℹ️";
 }
 
-/* TIP (яркий зеленый) */
 .admonition-tip {
     background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
     border-color: #388e3c;
@@ -592,7 +563,6 @@ a[data-back="true"]:active {
     content: "💡";
 }
 
-/* INFO (бирюзовый) */
 .admonition-info {
     background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
     border-color: #0097a7;
@@ -604,7 +574,6 @@ a[data-back="true"]:active {
     content: "📌";
 }
 
-/* WARNING (яркий оранжевый) */
 .admonition-warning {
     background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
     border-color: #f57c00;
@@ -616,7 +585,6 @@ a[data-back="true"]:active {
     content: "⚠️";
 }
 
-/* DANGER (насыщенный красный) */
 .admonition-danger {
     background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
     border-color: #d32f2f;
@@ -628,7 +596,6 @@ a[data-back="true"]:active {
     content: "🚨";
 }
 
-/* CAUTION (золотой) */
 .admonition-caution {
     background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
     border-color: #f9a825;
@@ -640,9 +607,6 @@ a[data-back="true"]:active {
     content: "⚡";
 }
 
-/* ==================== МЕДИЦИНСКИЕ БЛОКИ ==================== */
-
-/* DOSAGE (насыщенный фиолетовый) */
 .admonition-dosage {
     background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
     border-color: #7b1fa2;
@@ -654,7 +618,6 @@ a[data-back="true"]:active {
     content: "💉";
 }
 
-/* CONTRAINDICATION (яркий пурпурный) */
 .admonition-contraindication {
     background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
     border-color: #c2185b;
@@ -666,7 +629,6 @@ a[data-back="true"]:active {
     content: "🚫";
 }
 
-/* SIDE-EFFECT (янтарный) */
 .admonition-side-effect {
     background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
     border-color: #ff8f00;
@@ -678,7 +640,6 @@ a[data-back="true"]:active {
     content: "⚠️";
 }
 
-/* CLINICAL (изумрудный) */
 .admonition-clinical {
     background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
     border-color: #00796b;
@@ -690,7 +651,6 @@ a[data-back="true"]:active {
     content: "🏥";
 }
 
-/* ANATOMY (коралловый) */
 .admonition-anatomy {
     background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
     border-color: #ad1457;
@@ -702,7 +662,6 @@ a[data-back="true"]:active {
     content: "🫀";
 }
 
-/* PHYSIOLOGY (небесно-голубой) */
 .admonition-physiology {
     background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
     border-color: #0277bd;
@@ -714,7 +673,6 @@ a[data-back="true"]:active {
     content: "🧬";
 }
 
-/* SURGERY (лесной зеленый) */
 .admonition-surgery {
     background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
     border-color: #2e7d32;
@@ -726,7 +684,6 @@ a[data-back="true"]:active {
     content: "🔪";
 }
 
-/* ICU (огненно-красный) */
 .admonition-icu {
     background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
     border-color: #c62828;
@@ -738,7 +695,6 @@ a[data-back="true"]:active {
     content: "🚑";
 }
 
-/* EVIDENCE (стальной синий) */
 .admonition-evidence {
     background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
     border-color: #455a64;
@@ -750,7 +706,6 @@ a[data-back="true"]:active {
     content: "📊";
 }
 
-/* PROTOCOL (глубокий индиго) */
 .admonition-protocol {
     background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
     border-color: #303f9f;
@@ -762,16 +717,12 @@ a[data-back="true"]:active {
     content: "📋";
 }
 
-/* ==================== LIBRARY INDEX IMPROVEMENTS ==================== */
-
-/* Основной контейнер */
 #library-container {
     max-width: 1400px;
     margin: 0 auto;
     padding: 30px 20px;
 }
 
-/* Секция категории */
 .category-section {
     margin-bottom: 50px;
 }
@@ -795,14 +746,12 @@ a[data-back="true"]:active {
     background: linear-gradient(90deg, #3498db, transparent);
 }
 
-/* Сетка книг */
 .books-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 25px;
 }
 
-/* Карточка книги - базовые стили */
 .book-card {
     position: relative;
     display: flex;
@@ -813,6 +762,7 @@ a[data-back="true"]:active {
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     transition: all 0.3s ease;
     cursor: pointer;
+    border: 1px solid var(--border-color);
 }
 
 .book-card:hover {
@@ -820,11 +770,10 @@ a[data-back="true"]:active {
     box-shadow: 0 8px 20px rgba(0,0,0,0.2);
 }
 
-/* Контейнер обложки */
 .book-cover-container {
     position: relative;
     width: 100%;
-    padding-top: 140%; /* Соотношение сторон книги */
+    padding-top: 140%;
     overflow: hidden;
     background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
 }
@@ -843,7 +792,6 @@ a[data-back="true"]:active {
     transform: scale(1.05);
 }
 
-/* Информация о книге */
 .book-info {
     padding: 15px;
     flex-grow: 1;
@@ -852,11 +800,10 @@ a[data-back="true"]:active {
     background: white;
 }
 
-/* Название книги - АДАПТИВНЫЙ РАЗМЕР ШРИФТА */
 .book-card h3 {
     font-size: 1.1rem;
     line-height: 1.3;
-    height: 2.6em; /* 2 строки */
+    height: 2.6em;
     overflow: hidden;
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -872,21 +819,18 @@ a[data-back="true"]:active {
     color: #3498db;
 }
 
-/* Для длинных названий (50-80 символов) */
 .book-card h3.long-title {
     font-size: 0.95rem;
     line-height: 1.25;
 }
 
-/* Для очень длинных названий (80+ символов) */
 .book-card h3.very-long-title {
     font-size: 0.85rem;
     line-height: 1.2;
     -webkit-line-clamp: 3;
-    height: 3.6em; /* 3 строки */
+    height: 3.6em;
 }
 
-/* Авторы */
 .book-authors {
     font-size: 0.85rem;
     color: #7f8c8d;
@@ -899,9 +843,6 @@ a[data-back="true"]:active {
     text-overflow: ellipsis;
 }
 
-/* ==================== ИНДИКАТОРЫ ВЕРСИЙ ==================== */
-
-/* Контейнер badges */
 .version-badges {
     position: absolute;
     top: 8px;
@@ -911,7 +852,6 @@ a[data-back="true"]:active {
     z-index: 10;
 }
 
-/* Неоновые badge */
 .version-badge {
     padding: 4px 10px;
     border-radius: 6px;
@@ -928,7 +868,6 @@ a[data-back="true"]:active {
     transform: scale(1.1);
 }
 
-/* RU Badge - Красный неон */
 .version-badge.ru {
     background: rgba(231, 76, 60, 0.95);
     color: #fff;
@@ -943,7 +882,6 @@ a[data-back="true"]:active {
         inset 0 0 10px rgba(255, 255, 255, 0.1);
 }
 
-/* STAR Badge - Синий неон */
 .version-badge.star {
     background: rgba(52, 152, 219, 0.95);
     color: #fff;
@@ -958,7 +896,6 @@ a[data-back="true"]:active {
         inset 0 0 10px rgba(255, 255, 255, 0.1);
 }
 
-/* Анимация неонового пульса */
 @keyframes neon-pulse {
     0%, 100% {
         opacity: 1;
@@ -978,9 +915,6 @@ a[data-back="true"]:active {
     }
 }
 
-/* ==================== TOOLTIP ДЛЯ ПОЛНОГО НАЗВАНИЯ ==================== */
-
-/* Tooltip появляется при hover на длинных названиях */
 .book-card[data-full-title]:hover::after {
     content: attr(data-full-title);
     position: absolute;
@@ -1005,7 +939,6 @@ a[data-back="true"]:active {
     animation: tooltip-fade-in 0.2s ease;
 }
 
-/* Стрелка tooltip */
 .book-card[data-full-title]:hover::before {
     content: '';
     position: absolute;
@@ -1030,8 +963,6 @@ a[data-back="true"]:active {
     }
 }
 
-/* ==================== LOADING & ERROR STATES ==================== */
-
 .loading {
     text-align: center;
     padding: 40px;
@@ -1047,8 +978,6 @@ a[data-back="true"]:active {
     border-left: 4px solid #c62828;
     margin: 20px 0;
 }
-
-/* ==================== RESPONSIVE ==================== */
 
 @media (max-width: 1200px) {
     .books-grid {
@@ -1105,23 +1034,18 @@ a[data-back="true"]:active {
         gap: 3px;
     }
     
-    /* Скрываем tooltip на мобильных */
     .book-card[data-full-title]:hover::after,
     .book-card[data-full-title]:hover::before {
         display: none;
     }
 }
 
-/* ==================== ДОПОЛНИТЕЛЬНЫЕ УЛУЧШЕНИЯ ==================== */
-
-/* Placeholder для обложек, которые не загрузились */
 .book-cover-container img[src*="placeholder"] {
     object-fit: contain;
     padding: 20px;
     background: linear-gradient(135deg, #ecf0f1 0%, #bdc3c7 100%);
 }
 
-/* Скелетон загрузки */
 @keyframes skeleton-loading {
     0% {
         background-position: -200px 0;
@@ -1142,7 +1066,6 @@ a[data-back="true"]:active {
     animation: skeleton-loading 1.2s ease-in-out infinite;
 }
 
-/* Эффект появления карточек */
 @keyframes card-appear {
     from {
         opacity: 0;
@@ -1158,7 +1081,6 @@ a[data-back="true"]:active {
     animation: card-appear 0.4s ease-out;
 }
 
-/* Задержка анимации для каскадного эффекта */
 .book-card:nth-child(1) { animation-delay: 0.05s; }
 .book-card:nth-child(2) { animation-delay: 0.1s; }
 .book-card:nth-child(3) { animation-delay: 0.15s; }
@@ -1166,10 +1088,6 @@ a[data-back="true"]:active {
 .book-card:nth-child(5) { animation-delay: 0.25s; }
 .book-card:nth-child(6) { animation-delay: 0.3s; }
 
-/* ==================== СТИЛИ ИЗ INDEX_NEW.HTML ==================== */
-
-/* ==================== АДАПТИВНЫЙ РАЗМЕР ШРИФТА НАЗВАНИЙ ==================== */
-/* Используем !important чтобы переопределить inline стили от app.js */
 .book-card h3, 
 .book-card .book-title {
     font-size: 1rem !important;
@@ -1198,7 +1116,6 @@ a[data-back="true"]:active {
     max-height: 3.6em !important;
 }
 
-/* Авторы */
 .book-card p,
 .book-card .book-authors {
     font-size: 0.85rem !important;
@@ -1213,7 +1130,6 @@ a[data-back="true"]:active {
     word-wrap: break-word !important;
 }
 
-/* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
 .version-badges {
     position: absolute !important;
     top: 6px !important;
@@ -1262,7 +1178,6 @@ a[data-back="true"]:active {
         inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
 }
 
-/* EN Badge - Зелёный неон */
 .version-badge.en {
     background: rgba(46, 204, 113, 0.75) !important;
     color: rgba(255, 255, 255, 0.95) !important;
@@ -1353,7 +1268,6 @@ a[data-back="true"]:active {
     position: relative !important;
 }
 
-/* Убираем inline стили от app.js */
 .book-title[style],
 .book-authors[style] {
     font-size: inherit !important;
