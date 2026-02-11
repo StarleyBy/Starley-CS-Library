@@ -205,7 +205,7 @@ window.renderBookCard = function(bookPath, bookMeta) {
     const versions = bookMeta.versions || {};
     
     // Создаём badge только если есть хотя бы одна доступная версия
-    if (versions.original || versions.russian || versions.starley) {
+    if (versions.original || versions.russian || versions.starley || versions.hebrew) {
         let badgesHtml = '<div class="version-badges">';
         
         // EN badge только если явно указан original: true
@@ -219,6 +219,10 @@ window.renderBookCard = function(bookPath, bookMeta) {
         
         if (versions.starley === true) {
             badgesHtml += '<span class="version-badge star">STAR</span>';
+        }
+        
+        if (versions.hebrew === true) {
+            badgesHtml += '<span class="version-badge he">HE</span>';
         }
         
         badgesHtml += '</div>';

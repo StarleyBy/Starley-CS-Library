@@ -111,7 +111,8 @@ function renderEditionSelector(book, chap, current) {
     const editions = [
         { id: 'original', n: 'EN', label: 'English' },
         { id: 'russian', n: 'RU', label: 'Russian' },
-        { id: 'starley', n: 'STL', label: 'Starley' }
+        { id: 'starley', n: 'STL', label: 'Starley' },
+        { id: 'hebrew', n: 'HE', label: 'Hebrew' }
     ];
 
     const tabsContainer = document.createElement('div');

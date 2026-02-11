@@ -370,6 +370,8 @@ async function initLoader() {
                 filename = chapterSelect.value + '-ru.md';
             } else if (version === 'starley') {
                 filename = chapterSelect.value + '-starley.md';
+            } else if (version === 'hebrew') {
+                filename = chapterSelect.value + '-he.md';
             }
             
             const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${filename}`;
@@ -398,6 +400,7 @@ async function initLoader() {
         document.getElementById('btn-load-original').onclick = () => loadFile('original');
         document.getElementById('btn-load-russian').onclick = () => loadFile('russian');
         document.getElementById('btn-load-starley').onclick = () => loadFile('starley');
+        document.getElementById('btn-load-hebrew').onclick = () => loadFile('hebrew');
         
     } catch (e) { 
         console.error('Error in initLoader:', e); 

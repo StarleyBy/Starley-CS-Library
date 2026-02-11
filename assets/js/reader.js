@@ -14,6 +14,7 @@ async function loadChapter(bookPath, chapterId, edition) {
         let suffix = '';
         if (edition === 'starley') suffix = '-starley';
         if (edition === 'russian') suffix = '-ru';
+        if (edition === 'hebrew') suffix = '-he';
 
         let url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${suffix}.md`;
         
@@ -43,8 +44,15 @@ async function loadChapter(bookPath, chapterId, edition) {
             baseUrl: `${BASE_URL}${bookPath}/chapters/${chapterId}/images/`
         });
         
+        // Добавляем класс в зависимости от языка
+        if (edition === 'hebrew') {
+            area.className = 'content hebrew-content';
+        } else {
+            area.className = 'content';
+        }
+        
         area.innerHTML = marked.parse(md);
-
+        
         // Use a timeout to ensure the DOM has been updated by the browser
         // after setting innerHTML, before we try to query it.
         setTimeout(() => {
@@ -65,11 +73,11 @@ async function loadChapter(bookPath, chapterId, edition) {
                 img.classList.add('med-img');
             });
         }, 0);
-
+        
         // Прокручиваем только если нет якоря в URL
-if (!window.location.hash) {
-    window.scrollTo(0, 0);
-}
+        if (!window.location.hash) {
+            window.scrollTo(0, 0);
+        }
     } catch (e) {
         area.innerHTML = `<div class="error">Error loading chapter: ${e.message}</div>`;
         console.error("Failed to load chapter:", e);

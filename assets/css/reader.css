@@ -16,6 +16,20 @@
   line-height: 1.65 !important;
 }
 
+/* Hebrew text styling - RTL support */
+.content.hebrew-content {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Frank Ruehl', 'Times New Roman', 'Noto Sans Hebrew', Arial, sans-serif !important;
+}
+
+/* Specific styling for Hebrew text within mixed content */
+.hebrew-text {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Frank Ruehl', 'Times New Roman', 'Noto Sans Hebrew', Arial, sans-serif;
+}
+
 .reader-header {
   position: fixed;
   top: 0;

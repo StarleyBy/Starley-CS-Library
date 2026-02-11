@@ -1266,13 +1266,27 @@ a[data-back="true"]:active {
 .version-badge.en {
     background: rgba(46, 204, 113, 0.75) !important;
     color: rgba(255, 255, 255, 0.95) !important;
-    text-shadow: 
+    text-shadow:
         0 0 3px rgba(46, 204, 113, 0.8),
         0 0 6px rgba(46, 204, 113, 0.5) !important;
     border: 1px solid rgba(255, 255, 255, 0.25) !important;
-    box-shadow: 
+    box-shadow:
         0 0 6px rgba(46, 204, 113, 0.4),
         0 0 12px rgba(46, 204, 113, 0.2),
+        inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
+}
+
+/* HE (Hebrew) Badge - Deep Blue with Gold Accent */
+.version-badge.he {
+    background: rgba(25, 25, 112, 0.85) !important;
+    color: rgba(255, 215, 0, 0.95) !important;
+    text-shadow:
+        0 0 3px rgba(25, 25, 112, 0.8),
+        0 0 6px rgba(255, 215, 0, 0.5) !important;
+    border: 1px solid rgba(255, 215, 0, 0.3) !important;
+    box-shadow:
+        0 0 6px rgba(25, 25, 112, 0.4),
+        0 0 12px rgba(255, 215, 0, 0.2),
         inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
 }
 
