@@ -1,0 +1,124 @@
+[
+  {
+    "title": "PILBEAM’S MECHANICAL VENTILATION, EIGHTH EDITION",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery",
+      "congenital"
+    ],
+    "authors": [
+      "J.M. Cairo, PhD, RRT, FAARC"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Basic Terms and Concepts of Mechanical Ventilation"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. How Ventilators Work"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. How a Breath Is Delivered"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Establishing the Need for Mechanical Ventilation"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Selecting the Ventilator and the Mode"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Initial Ventilator Settings"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Final Considerations in Ventilator Setup"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Initial Patient Assessment"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Ventilator Graphics"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Assessment of Respiratory Function"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Hemodynamic Monitoring"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Methods to Improve Ventilation in Patient-Ventilator Management"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Improving Oxygenation and Management of Acute Respiratory Distress Syndrome"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Ventilator-Associated Pneumonia"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Sedatives, Analgesics, and Paralytics"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Extrapulmonary Effects of Mechanical Ventilation"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Effects of Positive Pressure Ventilation on the Pulmonary System"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Troubleshooting and Problem Solving"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Basic Concepts of Noninvasive Positive Pressure Ventilation"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Weaning From and Discontinuation of Mechanical Ventilation"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Long-Term Ventilation"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Neonatal and Pediatric Mechanical Ventilation"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Special Techniques Used in Ventilatory Support"
+      },
+      {
+        "file": "chapter-Appendix 1.md",
+        "title": "Appendix 1. Answer Key"
+      },
+      {
+        "file": "chapter-Appendix 2.md",
+        "title": "Appendix 2. Review of Abnormal Physiological Processes"
+      },
+      {
+        "file": "chapter-Appendix 3.md",
+        "title": "Appendix 3. Graphics Exercises"
+      },
+      {
+        "file": "chapter-Appendix 4.md",
+        "title": "Appendix 4. Glossary"
+      }
+    ],
+    "appendices": []
+  }
+]
