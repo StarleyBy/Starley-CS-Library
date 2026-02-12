@@ -1,0 +1,52 @@
+[
+  {
+    "title": "NETTER’S Correlative Imaging: Cardiothoracic Anatomy, First edition",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery",
+      "congenital"
+    ],
+    "authors": [
+      "MICHAEL B. GOTWAY, MD, FRANK H. NETTER, MD"
+    ],
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. OVERVIEW OF THORACIC ANATOMY"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. THORACIC SOFT TISSUE AND LUNG"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. PULMONARY ANATOMY AND VARIANTS"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. THORACIC LYMPH NODES"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. CISTERNA CHYLI AND THORACIC DUCT"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. VENOUS ANATOMY AND VARIANTS"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. OVERVIEW OF CARDIAC ANATOMY"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. CARDIAC ANATOMY USING CT"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. CARDIAC ANATOMY USING MR"
+      }
+    ],
+    "appendices": []
+  }
+]
