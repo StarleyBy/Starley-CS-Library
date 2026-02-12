@@ -20,12 +20,12 @@ async function loadChapter(bookPath, chapterId, edition) {
         
         let response = await fetch(url);
         
-        if (!response.ok && suffix === '-ru') {
-            console.warn("Russian version not found, falling back to original.");
+        if (!response.ok) {
+            console.warn(`${edition} version not found, falling back to original.`);
             url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}.md`;
             response = await fetch(url);
         }
-
+        
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
