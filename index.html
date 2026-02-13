@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ⚠️ КРИТИЧНО: Подключаем ДО всех остальных скриптов -->
+    <link rel="stylesheet" href="assets/css/auth.css">
+    <script src="assets/js/auth.js"></script>
     <title>Medical library</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -10,9 +13,8 @@
     <header>
         <h1>📚 Medical library</h1>
         <nav>
-            <a href="index.html">Library</a>
-            <a href="editor.html">Editor</a>
-            <a href="mdconvert.html">MD convert</a>
+            <a href="index.html">📚 Library</a>
+            <a href="editor.html" data-role="admin">✏️ Editor</a>
         </nav>
     </header>
 
