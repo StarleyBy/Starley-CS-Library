@@ -1,4 +1,4 @@
-// auth.js - защита с двумя уровнями доступа
+// auth.js - защита с 2 уровнями доступа
 (function() {
     const PASSWORDS = {
         '456755': { role: 'admin', name: 'Administrator' },
