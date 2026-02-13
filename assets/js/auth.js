@@ -73,11 +73,8 @@
                         autofocus
                     >
                     <div class="error-message" id="error-message"></div>
-                    <button type="submit" class="auth-btn">Enter</button>
+                    <button type="submit">Enter</button>
                 </form>
-                <div class="auth-footer">
-                    <small>💡 Medical library access</small>
-                </div>
             </div>
         `;
         
@@ -87,14 +84,15 @@
         const input = document.getElementById('password-input');
         const errorMsg = document.getElementById('error-message');
         
+        // Обработчик формы
         form.addEventListener('submit', function(e) {
             e.preventDefault();
             
-            const enteredPassword = input.value.trim();
-            const userInfo = PASSWORDS[enteredPassword];
+            const password = input.value.trim();
+            const userInfo = PASSWORDS[password];
             
             if (userInfo) {
-                // Успешный вход
+                // Правильный пароль
                 setAuthenticated(userInfo);
                 
                 // Анимация успеха
