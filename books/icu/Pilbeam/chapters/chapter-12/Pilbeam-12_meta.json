@@ -1,0 +1,4345 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Methods to Improve Ventilation in Patient-Ventilator Management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          117.439453125,
+          133.984375
+        ],
+        [
+          498.75,
+          133.984375
+        ],
+        [
+          498.75,
+          184.515625
+        ],
+        [
+          117.439453125,
+          184.515625
+        ]
+      ]
+    },
+    {
+      "title": "OUTLINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.5,
+          221.26562500000003
+        ],
+        [
+          106.5,
+          219.73437500000003
+        ],
+        [
+          106.5,
+          231.07368421052632
+        ],
+        [
+          58.5,
+          231.07368421052632
+        ]
+      ]
+    },
+    {
+      "title": "KEY TERMS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.271484375,
+          497.4086124401914
+        ],
+        [
+          119.25,
+          496.50781250000006
+        ],
+        [
+          119.25,
+          507.1617224880383
+        ],
+        [
+          58.271484375,
+          507.1617224880383
+        ]
+      ]
+    },
+    {
+      "title": "LEARNING OBJECTIVES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.5,
+          556.609375
+        ],
+        [
+          180.193359375,
+          556.609375
+        ],
+        [
+          179.25,
+          567.1808612440192
+        ],
+        [
+          58.5,
+          567.1808612440192
+        ]
+      ]
+    },
+    {
+      "title": "CORRECTING VENTILATION ABNORMALITIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          268.734375
+        ],
+        [
+          279.0,
+          268.734375
+        ],
+        [
+          279.0,
+          277.5885167464115
+        ],
+        [
+          52.5,
+          277.5885167464115
+        ]
+      ]
+    },
+    {
+      "title": "COMMON METHODS OF CHANGING VENTILATION BASED ON PaCO2 AND pH",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          453.1444976076555
+        ],
+        [
+          257.25,
+          451.71875000000006
+        ],
+        [
+          257.25,
+          476.4019138755981
+        ],
+        [
+          52.5,
+          476.4019138755981
+        ]
+      ]
+    },
+    {
+      "title": "Respiratory Acidosis: Volume and Pressure Ventilation Changes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.287109375,
+          373.6191387559809
+        ],
+        [
+          520.5,
+          372.4765625
+        ],
+        [
+          520.5,
+          393.1484375
+        ],
+        [
+          309.287109375,
+          394.6796875
+        ]
+      ]
+    },
+    {
+      "title": "Cli",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.845703125,
+          392.0
+        ],
+        [
+          101.302734375,
+          390.46875
+        ],
+        [
+          101.302734375,
+          410.375
+        ],
+        [
+          64.845703125,
+          411.90625
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Adjusting PC-CMV in a Patient With Respiratory Acidosis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          86.361328125,
+          390.8746411483254
+        ],
+        [
+          283.5,
+          390.8746411483254
+        ],
+        [
+          283.5,
+          413.38181818181823
+        ],
+        [
+          86.361328125,
+          414.203125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.654296875,
+          245.00000000000003
+        ],
+        [
+          344.548828125,
+          245.00000000000003
+        ],
+        [
+          343.353515625,
+          264.90625
+        ],
+        [
+          316.458984375,
+          264.90625
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Respiratory\nAcidosis\u2014Increasing Tidal Volume",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          344.84765625,
+          246.8287081339713
+        ],
+        [
+          510.0,
+          246.8287081339713
+        ],
+        [
+          510.0,
+          269.5
+        ],
+        [
+          344.84765625,
+          269.5
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Respiratory Acidosis\u2014Increasing Rate",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          342.755859375,
+          516.1645933014354
+        ],
+        [
+          483.205078125,
+          516.1645933014354
+        ],
+        [
+          483.205078125,
+          538.6717703349283
+        ],
+        [
+          342.755859375,
+          540.1484375
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Changes During Pressure-\nTargeted Ventilation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          57.0,
+          58.518660287081346
+        ],
+        [
+          288.0,
+          58.518660287081346
+        ],
+        [
+          288.0,
+          84.77703349282297
+        ],
+        [
+          56.25,
+          82.3046875
+        ]
+      ]
+    },
+    {
+      "title": "Respiratory Alkalosis: VC-CMV and PC-CMV\nChanges",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.5,
+          515.265625
+        ],
+        [
+          265.5,
+          513.734375
+        ],
+        [
+          265.5,
+          535.6708133971292
+        ],
+        [
+          52.5,
+          536.703125
+        ]
+      ]
+    },
+    {
+      "title": "Case Study 12.1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          335.25,
+          64.52057416267942
+        ],
+        [
+          408.0,
+          63.92968750000001
+        ],
+        [
+          408.0,
+          75.77416267942584
+        ],
+        [
+          335.25,
+          75.77416267942584
+        ]
+      ]
+    },
+    {
+      "title": "Hyperventilation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          321.240234375,
+          82.52631578947368
+        ],
+        [
+          391.5,
+          82.52631578947368
+        ],
+        [
+          391.5,
+          91.875
+        ],
+        [
+          321.240234375,
+          91.875
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Respiratory\nAlkalosis\u2014Decreasing the Rate",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          334.5,
+          509.14062500000006
+        ],
+        [
+          486.4921875,
+          509.14062500000006
+        ],
+        [
+          485.296875,
+          532.109375
+        ],
+        [
+          334.5,
+          532.109375
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Respiratory Alkalosis:\nDecreasing the Volume in Pressure-\nControlled Ventilation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.0,
+          58.57031250000001
+        ],
+        [
+          273.75,
+          58.57031250000001
+        ],
+        [
+          273.75,
+          92.27942583732057
+        ],
+        [
+          63.0,
+          92.27942583732057
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Respiratory Alkalosis\nDuring Spontaneous Efforts",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          86.25,
+          408.88038277511964
+        ],
+        [
+          270.0,
+          408.4609375
+        ],
+        [
+          270.0,
+          431.3875598086125
+        ],
+        [
+          85.763671875,
+          432.19531250000006
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic Acidosis and Alkalosis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.25,
+          207.8671875
+        ],
+        [
+          477.75,
+          206.3359375
+        ],
+        [
+          477.75,
+          216.81913875598087
+        ],
+        [
+          316.458984375,
+          216.81913875598087
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic Acidosis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.25,
+          285.1953125
+        ],
+        [
+          411.0,
+          283.6640625
+        ],
+        [
+          411.0,
+          294.09377990430625
+        ],
+        [
+          317.056640625,
+          294.09377990430625
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic Alkalosis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.5,
+          54.76746411483254
+        ],
+        [
+          149.25,
+          53.59375000000001
+        ],
+        [
+          149.25,
+          63.02009569377991
+        ],
+        [
+          52.5,
+          63.02009569377991
+        ]
+      ]
+    },
+    {
+      "title": "Mixed Acid-Base Disturbances",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.5,
+          329.355023923445
+        ],
+        [
+          200.25,
+          328.0703125
+        ],
+        [
+          200.25,
+          338.3578947368421
+        ],
+        [
+          52.294921875,
+          338.3578947368421
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Mixed Respiratory and Metabolic Disturbances",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          80.384765625,
+          447.89062500000006
+        ],
+        [
+          273.427734375,
+          446.35937500000006
+        ],
+        [
+          272.232421875,
+          469.6497607655503
+        ],
+        [
+          79.189453125,
+          469.6497607655503
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Combined Respiratory\nAlkalosis and Metabolic Acidosis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          77.6953125,
+          632.40625
+        ],
+        [
+          271.5,
+          632.40625
+        ],
+        [
+          271.5,
+          654.2086124401915
+        ],
+        [
+          77.6953125,
+          654.2086124401915
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Combined Respiratory\nAcidosis and Metabolic Alkalosis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          336.779296875,
+          492.1569377990431
+        ],
+        [
+          529.5,
+          492.1569377990431
+        ],
+        [
+          529.5,
+          514.6641148325359
+        ],
+        [
+          336.779296875,
+          514.6641148325359
+        ]
+      ]
+    },
+    {
+      "title": "Increased Physiological Dead Space",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          311.25,
+          658.4375
+        ],
+        [
+          486.0,
+          658.4375
+        ],
+        [
+          486.0,
+          667.7129186602871
+        ],
+        [
+          311.25,
+          667.7129186602871
+        ]
+      ]
+    },
+    {
+      "title": "Increased Metabolism and Increased Carbon Dioxide Production",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.5,
+          537.8515625
+        ],
+        [
+          275.25,
+          536.3203125
+        ],
+        [
+          275.25,
+          557.4277511961723
+        ],
+        [
+          58.5,
+          557.4277511961723
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.849609375,
+          114.46093750000001
+        ],
+        [
+          343.353515625,
+          114.46093750000001
+        ],
+        [
+          342.158203125,
+          135.1328125
+        ],
+        [
+          317.654296875,
+          135.1328125
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Increased Metabolism and Increased CO<sub>2</sub> Production",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          342.158203125,
+          114.84375000000001
+        ],
+        [
+          552.75,
+          114.84375000000001
+        ],
+        [
+          552.75,
+          136.54354066985647
+        ],
+        [
+          340.962890625,
+          136.54354066985647
+        ]
+      ]
+    },
+    {
+      "title": "Intentional latrogenic Hyperventilation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.25,
+          285.84114832535886
+        ],
+        [
+          509.25,
+          284.4296875
+        ],
+        [
+          509.25,
+          295.5942583732058
+        ],
+        [
+          316.7578125,
+          295.9140625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          320.94140625,
+          607.90625
+        ],
+        [
+          343.65234375,
+          607.90625
+        ],
+        [
+          342.45703125,
+          626.28125
+        ],
+        [
+          319.74609375,
+          626.28125
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Scenario: Iatrogenic Hyperventilation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          343.353515625,
+          609.1942583732058
+        ],
+        [
+          558.0,
+          609.0546875
+        ],
+        [
+          558.0,
+          619.6976076555025
+        ],
+        [
+          343.353515625,
+          619.6976076555025
+        ]
+      ]
+    },
+    {
+      "title": "Permissive Hypercapnia",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.5,
+          142.54545454545456
+        ],
+        [
+          170.25,
+          141.2578125
+        ],
+        [
+          170.25,
+          151.54832535885168
+        ],
+        [
+          52.5,
+          152.7421875
+        ]
+      ]
+    },
+    {
+      "title": "Procedures for Managing Permissive \nHypercapnia",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.5,
+          636.6171875
+        ],
+        [
+          232.5,
+          635.0859375
+        ],
+        [
+          232.5,
+          657.2095693779904
+        ],
+        [
+          52.5,
+          657.2890625
+        ]
+      ]
+    },
+    {
+      "title": "BOX 12.1",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          315.263671875,
+          66.02105263157895
+        ],
+        [
+          354.111328125,
+          65.4609375
+        ],
+        [
+          354.111328125,
+          80.0078125
+        ],
+        [
+          315.263671875,
+          81.5390625
+        ]
+      ]
+    },
+    {
+      "title": "Protocol for the Implementation of Permissive Hypercapnia",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          360.75,
+          66.2265625
+        ],
+        [
+          522.0,
+          66.2265625
+        ],
+        [
+          522.0,
+          88.4296875
+        ],
+        [
+          360.75,
+          88.4296875
+        ]
+      ]
+    },
+    {
+      "title": "Contraindications of Permissive Hypercapnia",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          310.18359375,
+          603.9425837320574
+        ],
+        [
+          531.0,
+          603.3125
+        ],
+        [
+          531.0,
+          612.9454545454546
+        ],
+        [
+          310.18359375,
+          614.03125
+        ]
+      ]
+    },
+    {
+      "title": "( Clinical Scenario: Permissive Hypercapnia",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          62.25,
+          367.6172248803828
+        ],
+        [
+          283.5,
+          366.3515625
+        ],
+        [
+          283.5,
+          377.3703349282297
+        ],
+        [
+          62.25,
+          377.8359375
+        ]
+      ]
+    },
+    {
+      "title": "Airway Clearance During Mechanical\nVentilation",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          317.056640625,
+          131.29186602870814
+        ],
+        [
+          497.25,
+          130.5390625
+        ],
+        [
+          497.25,
+          150.79808612440192
+        ],
+        [
+          315.861328125,
+          151.2109375
+        ]
+      ]
+    },
+    {
+      "title": "SECRETION CLEARANCE FROM AN ARTIFICIAL\nAIRWAY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          316.458984375,
+          256.484375
+        ],
+        [
+          549.0,
+          254.95312500000003
+        ],
+        [
+          549.0,
+          277.5885167464115
+        ],
+        [
+          316.458984375,
+          277.921875
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 12.1 Patient Size and Appropriate Suction Levels",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.5703125,
+          639.6796875
+        ],
+        [
+          282.0,
+          638.1484375
+        ],
+        [
+          282.0,
+          663.4140625
+        ],
+        [
+          57.375,
+          664.9453125
+        ]
+      ]
+    },
+    {
+      "title": "BOX 12.2",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          314.666015625,
+          627.8125
+        ],
+        [
+          358.294921875,
+          627.8125
+        ],
+        [
+          358.294921875,
+          643.125
+        ],
+        [
+          314.666015625,
+          643.125
+        ]
+      ]
+    },
+    {
+      "title": "Estimating Correct Suction Catheter Size Based on Endotracheal Tube (ET) Size",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          360.75,
+          630.2009569377991
+        ],
+        [
+          545.25,
+          629.7265625
+        ],
+        [
+          545.25,
+          649.7071770334928
+        ],
+        [
+          360.75,
+          650.3984375
+        ]
+      ]
+    },
+    {
+      "title": "Hazards and Complications of Suctioning",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          58.5,
+          98.765625
+        ],
+        [
+          261.0,
+          97.234375
+        ],
+        [
+          261.0,
+          108.03444976076555
+        ],
+        [
+          58.5,
+          109.48437500000001
+        ]
+      ]
+    },
+    {
+      "title": "Case Study 12.2",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          81.87890625,
+          620.4478468899522
+        ],
+        [
+          157.5,
+          620.4478468899522
+        ],
+        [
+          157.5,
+          630.2009569377991
+        ],
+        [
+          80.68359375,
+          630.4921875
+        ]
+      ]
+    },
+    {
+      "title": "Assessment During Suctioning",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          67.53515625,
+          637.7033492822967
+        ],
+        [
+          201.75,
+          636.234375
+        ],
+        [
+          201.75,
+          646.7062200956939
+        ],
+        [
+          67.53515625,
+          646.953125
+        ]
+      ]
+    },
+    {
+      "title": "Closed-Suction Catheters (Inline Suction Catheters)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          317.25,
+          131.29186602870814
+        ],
+        [
+          513.75,
+          130.921875
+        ],
+        [
+          513.75,
+          151.54832535885168
+        ],
+        [
+          316.16015625,
+          152.359375
+        ]
+      ]
+    },
+    {
+      "title": "BOX 12.3",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.97265625,
+          448.643062200957
+        ],
+        [
+          99.0,
+          447.12500000000006
+        ],
+        [
+          99.0,
+          462.43750000000006
+        ],
+        [
+          56.77734375,
+          463.96875000000006
+        ]
+      ]
+    },
+    {
+      "title": "Indications for Using Closed-Suction Catheter Systems",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          102.75,
+          449.3933014354067
+        ],
+        [
+          267.75,
+          448.27343750000006
+        ],
+        [
+          267.75,
+          469.6497607655503
+        ],
+        [
+          102.75,
+          470.47656250000006
+        ]
+      ]
+    },
+    {
+      "title": "Aspiration of Subglottic Secretions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          311.080078125,
+          438.70312500000006
+        ],
+        [
+          483.0,
+          438.70312500000006
+        ],
+        [
+          483.0,
+          449.42187500000006
+        ],
+        [
+          309.884765625,
+          449.42187500000006
+        ]
+      ]
+    },
+    {
+      "title": "Normal Saline Instillation",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          317.25,
+          175.55598086124402
+        ],
+        [
+          442.5,
+          174.1796875
+        ],
+        [
+          442.5,
+          183.8086124401914
+        ],
+        [
+          316.458984375,
+          184.1328125
+        ]
+      ]
+    },
+    {
+      "title": "Assessment After Suctioning",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          316.458984375,
+          428.75000000000006
+        ],
+        [
+          457.5,
+          427.21875000000006
+        ],
+        [
+          457.5,
+          437.38947368421054
+        ],
+        [
+          316.458984375,
+          437.93750000000006
+        ]
+      ]
+    },
+    {
+      "title": "BOX 12.4 Routine Chest Radiographs",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          318.849609375,
+          584.9375
+        ],
+        [
+          490.5,
+          583.40625
+        ],
+        [
+          490.5,
+          598.71875
+        ],
+        [
+          318.849609375,
+          600.25
+        ]
+      ]
+    },
+    {
+      "title": "Indications",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          63.0,
+          102.59375
+        ],
+        [
+          108.0,
+          101.0625
+        ],
+        [
+          108.0,
+          109.53492822966508
+        ],
+        [
+          63.0,
+          110.25000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Contraindications",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.25,
+          246.8287081339713
+        ],
+        [
+          135.75,
+          245.76562500000003
+        ],
+        [
+          135.75,
+          253.58086124401916
+        ],
+        [
+          61.857421875,
+          254.95312500000003
+        ]
+      ]
+    },
+    {
+      "title": "Hazards and Complications",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          62.25,
+          318.85167464114835
+        ],
+        [
+          175.5,
+          318.5
+        ],
+        [
+          175.5,
+          327.8545454545455
+        ],
+        [
+          62.25,
+          329.21875
+        ]
+      ]
+    },
+    {
+      "title": "Assessment of Need",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          310.482421875,
+          162.8019138755981
+        ],
+        [
+          394.5,
+          162.3125
+        ],
+        [
+          394.5,
+          171.05454545454546
+        ],
+        [
+          310.482421875,
+          171.5
+        ]
+      ]
+    },
+    {
+      "title": "Assessment of Outcome",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          311.080078125,
+          214.5684210526316
+        ],
+        [
+          409.5,
+          213.60937500000003
+        ],
+        [
+          409.5,
+          222.0708133971292
+        ],
+        [
+          309.884765625,
+          222.79687500000003
+        ]
+      ]
+    },
+    {
+      "title": "Monitoring",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          309.884765625,
+          317.3515625
+        ],
+        [
+          358.5,
+          317.3515625
+        ],
+        [
+          358.5,
+          326.35406698564594
+        ],
+        [
+          309.884765625,
+          326.35406698564594
+        ]
+      ]
+    },
+    {
+      "title": "ADMINISTERING AEROSOLS TO VENTILATED PATIENTS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          51.697265625,
+          666.9626794258373
+        ],
+        [
+          279.0,
+          666.4765625
+        ],
+        [
+          279.0,
+          688.7196172248804
+        ],
+        [
+          51.697265625,
+          690.2109375
+        ]
+      ]
+    },
+    {
+      "title": "Ventilator related",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          92.25,
+          74.27368421052633
+        ],
+        [
+          159.0,
+          73.1171875
+        ],
+        [
+          159.0,
+          81.77607655502393
+        ],
+        [
+          92.25,
+          81.77607655502393
+        ]
+      ]
+    },
+    {
+      "title": "Circuit related",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          98.912109375,
+          259.9296875
+        ],
+        [
+          155.25,
+          259.9296875
+        ],
+        [
+          155.25,
+          269.33588516746414
+        ],
+        [
+          98.912109375,
+          269.33588516746414
+        ]
+      ]
+    },
+    {
+      "title": "Device related\u2014MDI",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          264.0,
+          74.27368421052633
+        ],
+        [
+          342.755859375,
+          73.1171875
+        ],
+        [
+          342.755859375,
+          81.77607655502393
+        ],
+        [
+          264.0,
+          81.77607655502393
+        ]
+      ]
+    },
+    {
+      "title": "Device related\u2014nebulizer",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          258.0,
+          209.01562500000003
+        ],
+        [
+          357.0,
+          209.01562500000003
+        ],
+        [
+          357.0,
+          216.81913875598087
+        ],
+        [
+          258.0,
+          216.81913875598087
+        ]
+      ]
+    },
+    {
+      "title": "Drug related",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          449.138671875,
+          74.27368421052633
+        ],
+        [
+          499.5,
+          73.1171875
+        ],
+        [
+          499.5,
+          82.52631578947368
+        ],
+        [
+          449.138671875,
+          83.0703125
+        ]
+      ]
+    },
+    {
+      "title": "Patient related",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          449.4375,
+          254.95312500000003
+        ],
+        [
+          507.75,
+          254.95312500000003
+        ],
+        [
+          507.75,
+          262.609375
+        ],
+        [
+          449.4375,
+          262.609375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          63.650390625,
+          406.9296875
+        ],
+        [
+          101.302734375,
+          405.3984375
+        ],
+        [
+          101.302734375,
+          413.8203125
+        ],
+        [
+          63.650390625,
+          415.3515625
+        ]
+      ]
+    },
+    {
+      "title": "Indication",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.0,
+          453.63281250000006
+        ],
+        [
+          110.25,
+          453.63281250000006
+        ],
+        [
+          110.25,
+          462.89760765550244
+        ],
+        [
+          68.1328125,
+          462.89760765550244
+        ]
+      ]
+    },
+    {
+      "title": "Contraindications",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          68.25,
+          515.6484375
+        ],
+        [
+          141.75,
+          515.6484375
+        ],
+        [
+          141.75,
+          524.0703125
+        ],
+        [
+          68.1328125,
+          524.0703125
+        ]
+      ]
+    },
+    {
+      "title": "Hazards and Complications",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          68.25,
+          598.71875
+        ],
+        [
+          181.5,
+          598.71875
+        ],
+        [
+          181.5,
+          607.90625
+        ],
+        [
+          68.1328125,
+          607.90625
+        ]
+      ]
+    },
+    {
+      "title": "TYPES OF AEROSOL-GENERATING DEVICES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          52.5,
+          60.01913875598086
+        ],
+        [
+          270.75,
+          59.33593750000001
+        ],
+        [
+          270.75,
+          69.77224880382775
+        ],
+        [
+          52.5,
+          69.77224880382775
+        ]
+      ]
+    },
+    {
+      "title": "Ventilator-Related Factors",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          52.5,
+          362.140625
+        ],
+        [
+          181.5,
+          360.609375
+        ],
+        [
+          181.5,
+          371.3684210526316
+        ],
+        [
+          52.5,
+          371.3684210526316
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 12.2",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          60.064453125,
+          434.10937500000006
+        ],
+        [
+          108.0,
+          432.57812500000006
+        ],
+        [
+          108.0,
+          450.95312500000006
+        ],
+        [
+          60.064453125,
+          452.48437500000006
+        ]
+      ]
+    },
+    {
+      "title": "Ventilator-Related Factors That\nInfluence Aerosol Delivery in\nMechanically Ventilated Patients",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          111.0,
+          436.02343750000006
+        ],
+        [
+          261.0,
+          434.49218750000006
+        ],
+        [
+          261.0,
+          468.8995215311005
+        ],
+        [
+          111.0,
+          468.94531250000006
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 12.3",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          316.16015625,
+          64.52057416267942
+        ],
+        [
+          365.25,
+          63.54687500000001
+        ],
+        [
+          365.25,
+          80.390625
+        ],
+        [
+          316.16015625,
+          81.921875
+        ]
+      ]
+    },
+    {
+      "title": "Device-Related Factor to Optimize\nBronchodilator Delivery During\nMechanical Ventilation in Adults",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          370.5,
+          65.27081339712919
+        ],
+        [
+          526.5,
+          65.27081339712919
+        ],
+        [
+          526.5,
+          96.03062200956938
+        ],
+        [
+          370.5,
+          96.03062200956938
+        ]
+      ]
+    },
+    {
+      "title": "Patient-Related Factors",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          58.5,
+          690.9765625
+        ],
+        [
+          173.25,
+          689.4453125
+        ],
+        [
+          173.25,
+          699.9732057416269
+        ],
+        [
+          58.5,
+          699.9732057416269
+        ]
+      ]
+    },
+    {
+      "title": "Circuit-Related Factors",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          317.25,
+          142.54545454545456
+        ],
+        [
+          428.25,
+          141.2578125
+        ],
+        [
+          428.25,
+          151.54832535885168
+        ],
+        [
+          317.25,
+          151.54832535885168
+        ]
+      ]
+    },
+    {
+      "title": "Use of Pressurized Metered-Dose Inhaler \nDuring Mechanical Ventilation",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          317.056640625,
+          394.6258373205742
+        ],
+        [
+          517.5,
+          394.296875
+        ],
+        [
+          517.5,
+          414.8822966507177
+        ],
+        [
+          317.056640625,
+          415.734375
+        ]
+      ]
+    },
+    {
+      "title": "Use of Small-Volume Nebulizers During Mechanical Ventilation",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          52.294921875,
+          153.79904306220098
+        ],
+        [
+          247.5,
+          152.359375
+        ],
+        [
+          247.5,
+          173.30526315789476
+        ],
+        [
+          52.294921875,
+          173.796875
+        ]
+      ]
+    },
+    {
+      "title": "Factors That Affect Aerosol Deposition\nWith Small-Volume Nebulizers (SVN)\nDuring Mechanical Ventilation",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          102.0,
+          385.62296650717707
+        ],
+        [
+          279.75,
+          384.7265625
+        ],
+        [
+          279.75,
+          417.64843750000006
+        ],
+        [
+          102.0,
+          419.17968750000006
+        ]
+      ]
+    },
+    {
+      "title": "Technical Problems Associated With Continuous\nNebulization Using an External Gas Source",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          310.78125,
+          54.76746411483254
+        ],
+        [
+          546.75,
+          53.59375000000001
+        ],
+        [
+          546.75,
+          75.03125
+        ],
+        [
+          309.5859375,
+          76.5625
+        ]
+      ]
+    },
+    {
+      "title": "Nebulization Provided by the Ventilator",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          58.5,
+          53.59375000000001
+        ],
+        [
+          256.5,
+          53.59375000000001
+        ],
+        [
+          256.5,
+          64.3125
+        ],
+        [
+          58.5,
+          64.3125
+        ]
+      ]
+    },
+    {
+      "title": "BOX 12.8",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          319.74609375,
+          64.52057416267942
+        ],
+        [
+          360.75,
+          63.16406250000001
+        ],
+        [
+          360.75,
+          79.2421875
+        ],
+        [
+          319.74609375,
+          80.7734375
+        ]
+      ]
+    },
+    {
+      "title": "Protocol for the Administration of Medications With Nebulizers During Mechanical Ventilation",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          366.0,
+          64.52057416267942
+        ],
+        [
+          531.75,
+          64.6953125
+        ],
+        [
+          531.75,
+          96.78086124401915
+        ],
+        [
+          366.0,
+          96.78086124401915
+        ]
+      ]
+    },
+    {
+      "title": "Use of Nebulizers During Noninvasive Positive Pressure Ventilation",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          314.666015625,
+          679.109375
+        ],
+        [
+          546.75,
+          677.578125
+        ],
+        [
+          546.75,
+          700.7234449760766
+        ],
+        [
+          313.470703125,
+          700.7234449760766
+        ]
+      ]
+    },
+    {
+      "title": "Patient Response to Bronchodilator Therapy",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          52.5,
+          153.79904306220098
+        ],
+        [
+          270.75,
+          152.7421875
+        ],
+        [
+          270.75,
+          162.8019138755981
+        ],
+        [
+          52.5,
+          164.2265625
+        ]
+      ]
+    },
+    {
+      "title": "POSTURAL DRAINAGE AND CHEST PERCUSSION",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          52.5,
+          342.8593301435407
+        ],
+        [
+          227.25,
+          342.234375
+        ],
+        [
+          227.25,
+          364.61626794258376
+        ],
+        [
+          52.5,
+          365.203125
+        ]
+      ]
+    },
+    {
+      "title": "Case Study 12.3",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          334.5,
+          494.4076555023924
+        ],
+        [
+          409.39453125,
+          494.4076555023924
+        ],
+        [
+          408.75,
+          504.91100478468906
+        ],
+        [
+          334.5,
+          504.92968750000006
+        ]
+      ]
+    },
+    {
+      "title": "Evaluation of Bronchodilator Therapy",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          320.642578125,
+          512.4133971291866
+        ],
+        [
+          481.5,
+          512.4133971291866
+        ],
+        [
+          481.5,
+          521.0078125
+        ],
+        [
+          320.642578125,
+          522.5390625
+        ]
+      ]
+    },
+    {
+      "title": "FLEXIBLE FIBEROPTIC BRONCHOSCOPY",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          58.5,
+          444.1416267942584
+        ],
+        [
+          258.0,
+          442.91406250000006
+        ],
+        [
+          258.0,
+          453.1444976076555
+        ],
+        [
+          58.5,
+          453.1444976076555
+        ]
+      ]
+    },
+    {
+      "title": "BOX 12.9",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          58.5,
+          57.01818181818182
+        ],
+        [
+          99.75,
+          55.50781250000001
+        ],
+        [
+          99.75,
+          66.9921875
+        ],
+        [
+          57.375,
+          68.5234375
+        ]
+      ]
+    },
+    {
+      "title": "Excerpts From the AARC Clinical Practice Guidelines for Bronchoscopy Assisting",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          102.0,
+          57.76842105263158
+        ],
+        [
+          463.5,
+          56.65625000000001
+        ],
+        [
+          463.5,
+          67.375
+        ],
+        [
+          102.0,
+          68.90625
+        ]
+      ]
+    },
+    {
+      "title": "Indications",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          84.02679425837322
+        ],
+        [
+          108.0,
+          82.6875
+        ],
+        [
+          108.0,
+          91.52918660287082
+        ],
+        [
+          62.25,
+          91.875
+        ]
+      ]
+    },
+    {
+      "title": "The need to:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          187.5598086124402
+        ],
+        [
+          116.25,
+          186.4296875
+        ],
+        [
+          116.25,
+          194.31196172248806
+        ],
+        [
+          61.857421875,
+          194.8515625
+        ]
+      ]
+    },
+    {
+      "title": "Contraindications",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          63.0,
+          352.6124401913876
+        ],
+        [
+          136.5,
+          352.5703125
+        ],
+        [
+          136.5,
+          360.86507177033496
+        ],
+        [
+          62.15625,
+          360.9921875
+        ]
+      ]
+    },
+    {
+      "title": "Absolute Contraindications",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          363.866028708134
+        ],
+        [
+          171.75,
+          362.90625
+        ],
+        [
+          171.75,
+          371.3684210526316
+        ],
+        [
+          62.25,
+          372.86889952153115
+        ]
+      ]
+    },
+    {
+      "title": "Perform Only If Benefit Outweighs Risk in Patients With the Following Disorders",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          460.6468899521531
+        ],
+        [
+          285.0,
+          460.14062500000006
+        ],
+        [
+          285.0,
+          480.1531100478469
+        ],
+        [
+          61.259765625,
+          481.57812500000006
+        ]
+      ]
+    },
+    {
+      "title": "Relative Contraindications (Recognize Increased Risk)",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          525.9177033492823
+        ],
+        [
+          273.75,
+          525.6015625
+        ],
+        [
+          273.75,
+          535.6708133971292
+        ],
+        [
+          62.25,
+          535.6708133971292
+        ]
+      ]
+    },
+    {
+      "title": "Hazards and Complications",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          62.25,
+          671.464114832536
+        ],
+        [
+          176.25,
+          671.464114832536
+        ],
+        [
+          176.25,
+          680.466985645933
+        ],
+        [
+          62.25,
+          681.7890625
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          310.482421875,
+          196.56267942583733
+        ],
+        [
+          353.25,
+          196.56267942583733
+        ],
+        [
+          353.25,
+          204.8153110047847
+        ],
+        [
+          309.287109375,
+          204.8153110047847
+        ]
+      ]
+    },
+    {
+      "title": "Equipment",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          311.080078125,
+          207.81626794258375
+        ],
+        [
+          357.0,
+          207.81626794258375
+        ],
+        [
+          357.0,
+          216.0688995215311
+        ],
+        [
+          311.080078125,
+          216.0688995215311
+        ]
+      ]
+    },
+    {
+      "title": "Monitoring Devices",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          309.884765625,
+          378.6015625
+        ],
+        [
+          390.0,
+          378.6015625
+        ],
+        [
+          390.0,
+          387.1234449760766
+        ],
+        [
+          309.884765625,
+          387.1234449760766
+        ]
+      ]
+    },
+    {
+      "title": "Procedure Room Equipment",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          311.25,
+          454.39843750000006
+        ],
+        [
+          425.25,
+          452.86718750000006
+        ],
+        [
+          425.25,
+          463.6478468899522
+        ],
+        [
+          310.482421875,
+          463.6478468899522
+        ]
+      ]
+    },
+    {
+      "title": "Monitoring",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          310.18359375,
+          582.640625
+        ],
+        [
+          356.25,
+          582.640625
+        ],
+        [
+          356.25,
+          591.828125
+        ],
+        [
+          310.18359375,
+          591.828125
+        ]
+      ]
+    },
+    {
+      "title": "Infection Control",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          310.482421875,
+          637.3828125
+        ],
+        [
+          378.75,
+          637.3828125
+        ],
+        [
+          378.75,
+          646.7062200956939
+        ],
+        [
+          310.482421875,
+          646.7062200956939
+        ]
+      ]
+    },
+    {
+      "title": "ADDITIONAL PATIENT MANAGEMENT TECHNIQUES AND THERAPIES IN VENTILATED PATIENTS",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          317.25,
+          110.28516746411483
+        ],
+        [
+          550.5,
+          109.48437500000001
+        ],
+        [
+          550.5,
+          144.79617224880383
+        ],
+        [
+          316.458984375,
+          144.79617224880383
+        ]
+      ]
+    },
+    {
+      "title": "Sputum and Upper Airway Infections",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          317.25,
+          153.79904306220098
+        ],
+        [
+          499.5,
+          152.7421875
+        ],
+        [
+          499.5,
+          162.8019138755981
+        ],
+        [
+          317.25,
+          164.2265625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 12.4",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          323.33203125,
+          423.77343750000006
+        ],
+        [
+          372.75,
+          423.77343750000006
+        ],
+        [
+          372.75,
+          441.38281250000006
+        ],
+        [
+          322.13671875,
+          441.38281250000006
+        ]
+      ]
+    },
+    {
+      "title": "Sputum Color and Possible Associated Problems",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          375.75,
+          426.13588516746415
+        ],
+        [
+          551.25,
+          426.13588516746415
+        ],
+        [
+          551.25,
+          445.64210526315793
+        ],
+        [
+          375.75,
+          446.35937500000006
+        ]
+      ]
+    },
+    {
+      "title": "FLUID BALANCE",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          52.5,
+          60.01913875598086
+        ],
+        [
+          135.75,
+          59.71875000000001
+        ],
+        [
+          135.75,
+          69.77224880382775
+        ],
+        [
+          52.5,
+          69.77224880382775
+        ]
+      ]
+    },
+    {
+      "title": "Case Study 12.4",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          334.5,
+          64.52057416267942
+        ],
+        [
+          409.9921875,
+          64.3125
+        ],
+        [
+          409.9921875,
+          75.03125
+        ],
+        [
+          334.5,
+          76.5625
+        ]
+      ]
+    },
+    {
+      "title": "Evaluating Fluid Status",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          319.447265625,
+          82.52631578947368
+        ],
+        [
+          420.75,
+          81.5390625
+        ],
+        [
+          420.75,
+          91.52918660287082
+        ],
+        [
+          319.447265625,
+          93.0234375
+        ]
+      ]
+    },
+    {
+      "title": "PSYCHOLOGICAL AND SLEEP STATUS",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          310.482421875,
+          510.1626794258374
+        ],
+        [
+          501.75,
+          509.14062500000006
+        ],
+        [
+          501.75,
+          519.9157894736843
+        ],
+        [
+          310.482421875,
+          519.9157894736843
+        ]
+      ]
+    },
+    {
+      "title": "PATIENT SAFETY AND COMFORT",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          58.5,
+          422.62500000000006
+        ],
+        [
+          225.75,
+          421.09375000000006
+        ],
+        [
+          225.75,
+          432.1377990430622
+        ],
+        [
+          58.5,
+          432.1377990430622
+        ]
+      ]
+    },
+    {
+      "title": "Patient Safety",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          58.5,
+          582.1856459330144
+        ],
+        [
+          129.0,
+          580.7265625
+        ],
+        [
+          129.0,
+          591.1885167464116
+        ],
+        [
+          58.5,
+          591.1885167464116
+        ]
+      ]
+    },
+    {
+      "title": "Patient Comfort",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          317.25,
+          87.77799043062201
+        ],
+        [
+          396.75,
+          86.8984375
+        ],
+        [
+          396.75,
+          96.03062200956938
+        ],
+        [
+          317.25,
+          96.8515625
+        ]
+      ]
+    },
+    {
+      "title": "Patient-Centered Mechanical Ventilation",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          52.5,
+          438.32031250000006
+        ],
+        [
+          250.5,
+          436.78906250000006
+        ],
+        [
+          250.5,
+          447.14258373205746
+        ],
+        [
+          52.5,
+          447.8928229665072
+        ]
+      ]
+    },
+    {
+      "title": "TRANSPORT OF MECHANICALLY VENTILATED PATIENTS WITHIN AN ACUTE CARE FACILITY",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          311.25,
+          102.03253588516748
+        ],
+        [
+          541.5,
+          101.828125
+        ],
+        [
+          541.5,
+          125.28995215311005
+        ],
+        [
+          310.18359375,
+          125.28995215311005
+        ]
+      ]
+    },
+    {
+      "title": "Equipment",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          320.94140625,
+          352.6124401913876
+        ],
+        [
+          366.75,
+          352.6124401913876
+        ],
+        [
+          366.75,
+          361.7578125
+        ],
+        [
+          320.94140625,
+          361.7578125
+        ]
+      ]
+    },
+    {
+      "title": "Monitors",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          321.0,
+          413.8203125
+        ],
+        [
+          358.5,
+          413.8203125
+        ],
+        [
+          358.5,
+          422.24218750000006
+        ],
+        [
+          320.044921875,
+          422.24218750000006
+        ]
+      ]
+    },
+    {
+      "title": "Transport Ventilator",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          320.94140625,
+          506.84375000000006
+        ],
+        [
+          405.75,
+          506.84375000000006
+        ],
+        [
+          405.75,
+          516.03125
+        ],
+        [
+          320.94140625,
+          516.03125
+        ]
+      ]
+    },
+    {
+      "title": "Contraindications",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          68.25,
+          146.29665071770336
+        ],
+        [
+          141.75,
+          145.8515625
+        ],
+        [
+          141.75,
+          154.54928229665072
+        ],
+        [
+          68.25,
+          154.54928229665072
+        ]
+      ]
+    },
+    {
+      "title": "Hazards and Complications",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          68.25,
+          281.3397129186603
+        ],
+        [
+          181.5,
+          280.21875
+        ],
+        [
+          181.5,
+          289.59234449760766
+        ],
+        [
+          67.833984375,
+          290.9375
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          317.953125,
+          530.578125
+        ],
+        [
+          388.5,
+          529.046875
+        ],
+        [
+          388.5,
+          547.421875
+        ],
+        [
+          317.953125,
+          548.953125
+        ]
+      ]
+    },
+    {
+      "title": "REVIEW QUESTIONS (See Appendix A for answers.)",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          54.984375,
+          305.1015625
+        ],
+        [
+          270.75,
+          303.5703125
+        ],
+        [
+          270.75,
+          321.1023923444976
+        ],
+        [
+          53.7890625,
+          321.1023923444976
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          58.5,
+          527.1328125
+        ],
+        [
+          117.75,
+          527.1328125
+        ],
+        [
+          117.75,
+          537.1712918660287
+        ],
+        [
+          58.5,
+          537.1712918660287
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          165
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          36
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Equation",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          138
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          148
+        ],
+        [
+          "Span",
+          121
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          137
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          178
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "ListItem",
+          39
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          86
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "ListGroup",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          138
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          157
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          141
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          228
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "ListItem",
+          74
+        ],
+        [
+          "SectionHeader",
+          15
+        ],
+        [
+          "ListGroup",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          150
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          166
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          155
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          191
+        ],
+        [
+          "Span",
+          164
+        ],
+        [
+          "ListItem",
+          48
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          201
+        ],
+        [
+          "Span",
+          115
+        ],
+        [
+          "ListItem",
+          65
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Pilbeam-12"
+}
