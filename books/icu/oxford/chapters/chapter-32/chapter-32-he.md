@@ -1,5 +1,3 @@
-[file name]: chapter-32.md (translated)
-[file content begin]
 # **אקו-לב ליד המיטה**
 
 <details class="med-details">

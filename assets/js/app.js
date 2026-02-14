@@ -218,7 +218,7 @@ window.renderBookCard = function(bookPath, bookMeta) {
         }
         
         if (versions.starley === true) {
-            badgesHtml += '<span class="version-badge star">STAR</span>';
+            badgesHtml += '<span class="version-badge star">⭐</span>';
         }
         
         if (versions.hebrew === true) {

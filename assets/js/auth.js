@@ -1,4 +1,4 @@
-// auth.js - защита с двумя уровнями доступа
+// auth.js - защита с 2 уровнями доступа
 (function() {
     const PASSWORDS = {
         '456755': { role: 'admin', name: 'Administrator' },
@@ -73,11 +73,8 @@
                         autofocus
                     >
                     <div class="error-message" id="error-message"></div>
-                    <button type="submit" class="auth-btn">Enter</button>
+                    <button type="submit">Enter</button>
                 </form>
-                <div class="auth-footer">
-                    <small>💡 Medical library access</small>
-                </div>
             </div>
         `;
         
@@ -87,14 +84,15 @@
         const input = document.getElementById('password-input');
         const errorMsg = document.getElementById('error-message');
         
+        // Обработчик формы
         form.addEventListener('submit', function(e) {
             e.preventDefault();
             
-            const enteredPassword = input.value.trim();
-            const userInfo = PASSWORDS[enteredPassword];
+            const password = input.value.trim();
+            const userInfo = PASSWORDS[password];
             
             if (userInfo) {
-                // Успешный вход
+                // Правильный пароль
                 setAuthenticated(userInfo);
                 
                 // Анимация успеха
@@ -152,21 +150,142 @@
         }
     }
     
-    // Показать индикатор роли
-    function showRoleIndicator(userInfo) {
-        const existing = document.getElementById('role-indicator');
-        if (existing) existing.remove();
-        
-        const indicator = document.createElement('div');
-        indicator.id = 'role-indicator';
-        indicator.className = `role-indicator role-${userInfo.role}`;
-        indicator.innerHTML = `
-            <span class="role-icon">${userInfo.role === 'admin' ? '👑' : '👤'}</span>
-            <span class="role-name">${userInfo.name}</span>
-            <button onclick="logout()" class="logout-btn" title="Logout">🚪</button>
-        `;
-        document.body.appendChild(indicator);
+    // Показать индикатор роли с возможностью перетаскивания
+function showRoleIndicator(userInfo) {
+    const existing = document.getElementById('role-indicator');
+    if (existing) existing.remove();
+    
+    const indicator = document.createElement('div');
+    indicator.id = 'role-indicator';
+    indicator.className = `role-indicator role-${userInfo.role}`;
+    indicator.innerHTML = `
+        <span class="role-icon">${userInfo.role === 'admin' ? '👑' : '👤'}</span>
+        <span class="role-name">${userInfo.name}</span>
+        <button onclick="logout()" class="logout-btn" title="Logout">🚪</button>
+    `;
+    document.body.appendChild(indicator);
+    
+    // Делаем индикатор перетаскиваемым
+    makeDraggable(indicator);
+}
+
+// Функция для перетаскивания элемента
+function makeDraggable(element) {
+    let pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+    let isDragging = false;
+    
+    // Загружаем сохранённую позицию
+    const savedPosition = localStorage.getItem('role-indicator-position');
+    if (savedPosition) {
+        try {
+            const pos = JSON.parse(savedPosition);
+            element.style.top = pos.top;
+            element.style.right = pos.right;
+            element.style.left = 'auto';
+            element.style.bottom = 'auto';
+        } catch (e) {
+            // Позиция по умолчанию
+        }
     }
+    
+    element.addEventListener('mousedown', dragMouseDown);
+    element.addEventListener('touchstart', dragTouchStart, { passive: false });
+    
+    function dragMouseDown(e) {
+        // Не перетаскиваем при клике на кнопку logout
+        if (e.target.classList.contains('logout-btn') || 
+            e.target.closest('.logout-btn')) {
+            return;
+        }
+        
+        e.preventDefault();
+        isDragging = true;
+        element.style.cursor = 'grabbing';
+        
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        
+        document.addEventListener('mousemove', elementDrag);
+        document.addEventListener('mouseup', closeDragElement);
+    }
+    
+    function dragTouchStart(e) {
+        if (e.target.classList.contains('logout-btn') || 
+            e.target.closest('.logout-btn')) {
+            return;
+        }
+        
+        e.preventDefault();
+        isDragging = true;
+        element.style.cursor = 'grabbing';
+        
+        const touch = e.touches[0];
+        pos3 = touch.clientX;
+        pos4 = touch.clientY;
+        
+        document.addEventListener('touchmove', elementTouchDrag, { passive: false });
+        document.addEventListener('touchend', closeDragElement);
+    }
+    
+    function elementDrag(e) {
+        if (!isDragging) return;
+        e.preventDefault();
+        
+        pos1 = pos3 - e.clientX;
+        pos2 = pos4 - e.clientY;
+        pos3 = e.clientX;
+        pos4 = e.clientY;
+        
+        updatePosition();
+    }
+    
+    function elementTouchDrag(e) {
+        if (!isDragging) return;
+        e.preventDefault();
+        
+        const touch = e.touches[0];
+        pos1 = pos3 - touch.clientX;
+        pos2 = pos4 - touch.clientY;
+        pos3 = touch.clientX;
+        pos4 = touch.clientY;
+        
+        updatePosition();
+    }
+    
+    function updatePosition() {
+        const newTop = element.offsetTop - pos2;
+        const newLeft = element.offsetLeft - pos1;
+        
+        // Ограничиваем позицию в пределах экрана
+        const maxX = window.innerWidth - element.offsetWidth;
+        const maxY = window.innerHeight - element.offsetHeight;
+        
+        const boundedTop = Math.max(0, Math.min(newTop, maxY));
+        const boundedLeft = Math.max(0, Math.min(newLeft, maxX));
+        
+        element.style.top = boundedTop + 'px';
+        element.style.left = boundedLeft + 'px';
+        element.style.right = 'auto';
+        element.style.bottom = 'auto';
+    }
+    
+    function closeDragElement() {
+        isDragging = false;
+        element.style.cursor = 'grab';
+        
+        document.removeEventListener('mousemove', elementDrag);
+        document.removeEventListener('mouseup', closeDragElement);
+        document.removeEventListener('touchmove', elementTouchDrag);
+        document.removeEventListener('touchend', closeDragElement);
+        
+        // Сохраняем позицию
+        const position = {
+            top: element.style.top,
+            right: element.style.right
+        };
+        localStorage.setItem('role-indicator-position', JSON.stringify(position));
+    }
+}
     
     // Глобальная функция logout
     window.logout = function() {
