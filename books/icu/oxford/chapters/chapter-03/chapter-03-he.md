@@ -1,6 +1,3 @@
-[file name]: chapter-03.md
-[file content begin]
-
 # **מסלול מהיר (Fast-Tracking) למטופל בסיכון נמוך**
 
 <details class="med-details">
@@ -107,4 +104,3 @@ ER הוא מסלול טיפול כירורגי איכותי וקונספט לה�
 
 </div>
 </details>
-[file content end]

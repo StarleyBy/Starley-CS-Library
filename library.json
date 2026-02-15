@@ -40,6 +40,22 @@
             { "folder": "cardiovascular-system-glance" }
       ]
     },
+     {
+      "id": "cardiac echo",
+      "title": "Cardiac Echo",
+      "path": "books/cardiac-echo",
+      "books": [
+            { "folder": "Echo6" }
+      ]
+    },
+    {
+      "id": "ecg",
+      "title": "ECG",
+      "path": "books/ecg",
+      "books": [
+            { "folder": "ECG_Interpretation_for_Everyone" }
+      ]
+    },
     {
       "id": "drugs",
       "title": "Drugs",

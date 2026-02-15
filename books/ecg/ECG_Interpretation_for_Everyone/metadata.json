@@ -1,0 +1,81 @@
+[
+  {
+    "title": "ECG Interpretation for Everyone",
+    "cover_image": "cover.jpg",
+    "category": [
+      "ecg"
+    ],
+    "authors": [
+      "Fred Kusumoto MD, Pam Bernath RN, RN-C"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Technical Issues"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. The Normal ECG"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. ECG Interpretation Basics"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Abnormal Repolarization: ST Segment Elevation"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Abnormal Repolarization: ST Segment Depression"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Abnormal Repolarization: T Wave Changes and the QT Interval"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Abnormal Depolarization: A Prominent R Wave in V1"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Abnormal Depolarization: Wide QRS Complexes and Other Depolarization Abnormalities"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Arrhythmias: Normal Rates and Skips"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Arrhythmias: Bradycardia"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Arrhythmias: Tachycardia"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Arrhythmias: Pacing"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Clinical Use of the ECG: Stress Testing"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Clinical Use of the ECG: Clinical Problems"
+      },
+      {
+        "file": "chapter-Appendix 1.md",
+        "title": "Appendix 1. Appendices"
+      }
+    ],
+    "appendices": []
+  }
+]

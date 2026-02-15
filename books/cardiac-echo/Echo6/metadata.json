@@ -1,0 +1,101 @@
+[
+  {
+    "title": "TEXTBOOK of CLINICAL ECHOCARDIOGRAPHY, 6th edition",
+    "cover_image": "cover.jpg",
+    "category": [
+      "echo"
+    ],
+    "authors": [
+      "Catherine M. Otto, MD"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Principles of Echocardiographic Image Acquisition and Doppler Analysis"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Normal Anatomy and Flow Patterns on Transthoracic Echocardiography"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Transesophageal Echocardiography"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Specialized Echocardiography Applications"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Clinical Indications and Quality Assurance"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Left and Right Ventricular Systolic Function"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Ventricular Diastolic Filling and Function"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Coronary Artery Disease"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Cardiomyopathies, Hypertensive and Pulmonary Heart Disease"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Pericardial Disease"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Valvular Stenosis"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Valvular Regurgitation"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Prosthetic Valves"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Endocarditis"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Cardiac Masses and Potential Cardiac Source of Embolus"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Diseases of the Great Arteries"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. The Adult With Congenital Heart Disease"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Intraoperative and Interventional Echocardiography"
+      },
+      {
+        "file": "chapter-Appendix 1.md",
+        "title": "Appendix 1. Normal Values for Echocardiographic Measurements"
+      },
+      {
+        "file": "chapter-Appendix 2.md",
+        "title": "Appendix 2. Evidence Tables"
+      }
+    ],
+    "appendices": []
+  }
+]

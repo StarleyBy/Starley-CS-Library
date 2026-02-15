@@ -1,6 +1,3 @@
-[file name]: chapter-02.md
-[file content begin]
-
 # **חיזוי סיכונים ותוצאים**
 
 <details class="med-details">
@@ -142,4 +139,3 @@
 
 </div>
 </details>
-[file content end]
