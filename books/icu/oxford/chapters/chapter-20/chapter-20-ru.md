@@ -1,75 +1,213 @@
-### **Chapter 20**
+```md
+# **Ведение акушерских пациенток с кардиальной патологией**
 
-# **Сохранение обстоятельств и точности в медицинской_transлации**
+<details class="med-details">
+<summary><span style="font-size:110%">Введение</span></summary>
+<div class="details-content">
 
-#### **Интенсивная pregnancy**
+Заболевания сердца могут осложнять течение беременности и приводить к госпитализации в отделение реанимации и интенсивной терапии. Согласно последнему отчету CMACE (Центр материнских и детских исследований) за 2006–2008 гг., было зарегистрировано 2,3 случая смерти на 100 000 родов (Рис. 20.1).
 
-Пregnancy makes great demands on the cardiac function during pregnancy (Fig. 20.3). Patients with limited cardiac reserve can decompensate during pregnancy risking both maternal and fetal well-being. Complications can occur for up to several days after delivery. In the immediate aftermath of delivery there is an autotransfusion of placental blood which may precipitate cardiac volume overload.
+Кардиальные причины остаются основными в структуре материнской смертности (Рис. 20.2). Все больше женщин с тяжелыми заболеваниями сердца принимают решение о беременности, рассчитывая на благоприятные исходы как для матери, так и для новорожденного. Это создает огромные проблемы для акушерских служб, и благоприятные исходы зависят от наличия кардиоакушерских сетей, включающих возможность оказания высококвалифицированной кардиореанимационной помощи.
+
+![](_page_1_Figure_4.jpeg)
+
+**Рисунок 20.1** Основные причины материнской смертности на 100 000 родов, Великобритания: 2006–2008 гг. Прочие косвенные причины разделены на неврологические и прочие, прочие прямые причины включают жировую дистрофию печени и прямой рак.
+
+![](_page_2_Figure_2.jpeg)
+
+---
+* Пролапс митрального клапана, пластика вторичного дефекта межпредсердной перегородки
+† Корригированная коарктация аорты, двустворчатый аортальный клапан, нормальное сердце
+‡ 2 случая синдрома Марфана, 2 случая ранее нормальное сердце, 1 случай артериальной гипертензии
+§ 3 первичные, 2 синдрома Эйзенменгера, 1 случай пластики дефекта межпредсердной перегородки и легочной гипертензии, 1 талькоз, 1 неизвестная причина
+
+**Рисунок 20.2** Кардиальные причины материнской смерти в Великобритании: конфиденциальное расследование случаев материнской смерти 1997–1999 гг. (всего материнских смертей = 409, кардиальных смертей = 41).
+
+</div>
+</details>
+
+<details class="med-details">
+<summary><span style="font-size:110%">Физиологические изменения во время беременности</span></summary>
+<div class="details-content">
+
+Беременность предъявляет высокие требования к сердечно-сосудистой системе (Рис. 20.3). У пациенток с ограниченным сердечным резервом может развиться декомпенсация во время беременности, что создает риск как для матери, так и для плода. Осложнения могут возникать в течение нескольких дней после родов. В раннем послеродовом периоде происходит аутогемотрансфузия из плаценты, что может привести к объемной перегрузке сердца.
 
 ![](_page_3_Figure_4.jpeg)
 
-Figure 20.3 Physiological changes in pregnancy. Systemic and pulmonary vascular resistance (PVR) fall during pregnancy. BP may fall in the 2nd trimester, rising slightly in late pregnancy. Note that cardiac output and stroke volume peak by 6 weeks of gestation. Reproduced from *Heart and Education in Heart*, SA Thorne, Pregnancy in heart disease,, pp. 450–456, copyright 2004, with permission from BMJ Publishing Group Ltd.
+**Рисунок 20.3** Физиологические изменения во время беременности. Системное сосудистое сопротивление и сопротивление легочных сосудов (PVR) снижаются во время беременности. АД может снижаться во втором триместре, незначительно повышаясь в конце беременности. Обратите внимание, что сердечный выброс и ударный объем достигают пика к 16 неделе гестации. Воспроизведено из *Heart and Education in Heart*, SA Thorne, Pregnancy in heart disease, 90(4), pp. 450–456, copyright 2004, с разрешения BMJ Publishing Group Ltd.
 
-#### **Риск математальной смерти**
+<details class="med-details">
+<summary>Риск материнской смерти</summary>
+<div class="details-content">
 
-Аntenatal advice should be given to patients with significant cardiac disease. Exact prediction of maternal and fetal outcomes can be difficult with the progressive advances in medical care and the limited experience of pregnancy in rare cardiac diseases.
+Пациенткам со значимыми заболеваниями сердца следует проводить дородовое консультирование. Точное прогнозирование исходов для матери и плода может быть затруднено из-за прогресса в медицинской помощи и ограниченного опыта ведения беременности при редких кардиологических заболеваниях.
 
-Мothers with complex cardiac disease should attend a joint clinic with a specialist cardiologist and the high-risk pregnancy obstetric team. The role of the clinic is to assess and advise the mother on the risk of pregnancy and to develop a plan to minimize these risks through close follow-up and medical intervention.
+Матери со сложными пороками сердца должны наблюдаться в совместной клинике с кардиологом и бригадой акушеров для ведения беременности высокого риска. Роль такой клиники заключается в оценке и информировании матери о рисках беременности, а также в разработке плана по минимизации этих рисков путем тщательного наблюдения и медицинских вмешательств.
 
-Патients at high risk of cardiac mortality should be delivered in a hospital which can provide specialist cardiac obstetric services (Table 20.).
+Пациентки с высоким риском сердечной смертности должны родоразрешаться в стационаре, имеющем возможность оказания специализированной кардиоакушерской помощи (Таблица 20.1). После родов полезно проводить тщательное наблюдение и лечение в кардиологическом отделении реанимации и интенсивной терапии.
 
-| Condition                     | Риск смерти |  |
-|-------------------------------|---------------|--|
-| Normal healthy woman          |  в   |  |
-| Average for the population    |  в 0,000   |  |
-| Corrected Fallot's or similar |  в 00      |  |
-| Severe aortic stenosis        |  в 3        |  |
+| Заболевание/Состояние          | Риск смерти |
+| ------------------------------ | ----------- |
+| Здоровая женщина               | 1 на 20 000 |
+| В среднем в популяции          | 1 на 10 000 |
+| Корригированная тетрада Фалло или аналогично | 1 на 1000   |
+| Тяжелый стеноз устья аорты     | 1 на 100    |
+| Тяжелая легочная гипертензия   | 1 на 3      |
+| Синдром Эйзенменгера           | 1 на 2      |
 
-Репroduced from MA Gatzoulis et al., *Adult congenital heart disease: A practical guide*, Copyright © 2005 by Blackwell Publishing Ltd, with permission.
+Воспроизведено из MA Gatzoulis et al., *Adult congenital heart disease: A practical guide*, Copyright © 2005 by Blackwell Publishing Ltd, с разрешения.
 
-#### **Исходные факторы риска**
+</div>
+</details>
 
-- Кyanотическая кардиальная疾ность
-- Пульмонарная гипертония
-- Низкая функциональная statuses (Н York Heart Association (NYHA) III или IV)
-- Низкая функциональная status left-sided obstruction.
+<details class="med-details">
+<summary>Независимые предикторы кардиального риска:</summary>
+<div class="details-content">
 
-Более пациентов с конгруэнтным heart disease sống sóтively и хотят рисковать pregnancy. Conjugated heart disease is known to carry a major risk with published maternal mortality rates of 40–50%. These types of patients require preoperative counselling of the risks involved. Complex cardiac disease in pregnancy is a classic example of a clinical condition where careful planning and excellent teamwork between multiple disciplines is required. These include obstetricians, cardiologists, paediatricians, midwives, anaesthetists, and intensivists.
+* Цианотические пороки сердца
+* Легочная гипертензия
+* Низкий функциональный статус (III или IV функциональный класс по NYHA)
+* Сниженная систолическая функция системного желудочка
+* Тяжелая обструкция выводных отделов левых отделов сердца
 
-Остебольников пациенты с конгруэнтным heart disease должны быть управляемы в специализированном центре cardiac obstetric team и доступны access cardiac critical care facility.
+Все больше пациентов с врожденными пороками сердца доживают до взрослого возраста и желают рисковать, планируя беременность. Известно, что синдром Эйзенменгера несет в себе серьезный риск, с опубликованными показателями материнской смертности на уровне 40–50%. Таким пациенткам необходимо предварительное консультирование о связанных с беременностью рисках.
 
-### **Анаестезиологические методы и delivery**
+Сложная кардиальная патология при беременности является классическим примером клинического состояния, требующего тщательного планирования и отличной командной работы между несколькими дисциплинами: акушерами, кардиологами, педиатрами/неонатологами, акушерками, анестезиологами и реаниматологами.
 
-Гestation и метода приема на maternity могут быть определены по обстоятельствам фetus и well-being и cardiological assessment of the mother. In complex cardiac disease, the mother and fetus are assessed serially. Cardiac demands increase as pregnancy progresses; however, this has to be balanced against the fetal risk of premature delivery and the growth and maturity of the baby.
+Акушерские пациентки со сложными пороками сердца должны вестись в специализированных центрах опытной кардиоакушерской бригадой при наличии доступа к кардиологическому отделению реанимации и интенсивной терапии.
 
-В moderate-risk pregnancies spontaneous delivery is preferred; however, in high-risk patients a caesarean section may be the delivery method of choice.
+Медицинские вмешательства иногда необходимы для улучшения исходов для матери и новорожденного во время беременности, например, баллонная вальвулопластика митрального клапана, коррекция коарктации аорты, лечение антикоагулянтами или легочными вазодилататорами.
 
-Анаестезиологический метод будет выбран responsible anaesthetist depending on host of factors. Awake regional anaesthesia is the preferred option adopted by many centres.
+</div>
+</details>
 
-#### **Основные принципы**
+</div>
+</details>
 
-- Левый талл (все время) для минимизации caval compression from gravid uterus.
-- Качественное administration of Syntocinon® (5 units IV slowly) после delivery.
-- Very cautious fluid administration.
-- Vasopressor infusion for spinal anaesthesia. Phenylephrine is our preference.
-- Full cardiac backup should be available for the high-risk cardiac obstetric caesarean section.
+<details class="med-details">
+<summary><span style="font-size:110%">Анестезиологическое обеспечение и родоразрешение</span></summary>
+<div class="details-content">
 
-#### **Пользуемся regional technique**
+Срок и метод родоразрешения определяются бригадой акушеров высокого риска в зависимости от роста и благополучия плода, а также кардиологического статуса матери. При сложных пороках сердца состояние матери и плода оценивается повторно. Нагрузка на сердечно-сосудистую систему возрастает по мере прогрессирования беременности; однако это необходимо соотносить с риском преждевременных родов для плода, его ростом и зрелостью.
 
-Мать awake
--_lower risk of aspiration_
-- Avoid general anaesthetic side effects
-- Good pain relief.
+При беременности с умеренным риском предпочтительны самопроизвольные роды, однако у пациенток высокого риска методом выбора может быть кесарево сечение.
 
-#### **Возможные исключения от использования regional technique**
+Методика анестезии определяется ответственным анестезиологом в зависимости от множества факторов. Во многих центрах предпочтение отдается регионарной анестезии при сохраненном сознании пациентки.
 
-- Серьезный left-sided obstruction (аортово или мичковое стеноз)
-- Серьезная cardiomyopathy
-- Сpongios/spinal combined spinal epidural contraindicated by absolute contraindication such as dual antiplatelet therapy or anticoagulation.
+<details class="med-details">
+<summary>Основные принципы</summary>
+<div class="details-content">
 
-### **Пользуемся general anaesthesia**
+* Поворот на левый бок постоянно для уменьшения компрессии нижней полой вены беременной маткой
+* Осторожное введение синтоцинона® (5 МЕ медленно в/в) после родов
+* Очень осторожное введение жидкостей
+* Инфузия вазопрессора при спинальной анестезии. Наше предпочтение — фенилэфрин
+* При кесаревом сечении у кардиологических пациенток высокого риска должна быть обеспечена возможность полного кардиологического резерва. Это должно включать возможность кардиохирургического вмешательства и/или механической поддержки кровообращения
 
-- Устранение CVS и деградация при нойной heart Association (NYHA) III или IV
-- Control of ventilation
-- Easier to escalate support and insert lines.
-- TOE monitoring possible.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Преимущества регионарной методики</summary>
+<div class="details-content">
+
+* Пациентка находится в сознании
+* Низкий риск аспирации
+* Отсутствие побочных эффектов общей анестезии
+* Хорошее обезболивание
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>Общепринятые исключения для использования регионарной методики</summary>
+<div class="details-content">
+
+* Тяжелая обструкция выводных отделов левых отделов сердца (стеноз устья аорты или митральный стеноз)
+* Тяжелая кардиомиопатия
+* Наличие абсолютных противопоказаний к спинальной/комбинированной спинально-эпидуральной анестезии, таких как терапия двойными антиагрегантами или антикоагулянтами
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>Преимущества общей анестезии</summary>
+<div class="details-content">
+
+* Отсутствие побочных эффектов регионарной анестезии, т.е. вазодилатации
+* Возможность управления вентиляцией
+* Легче расширить мониторинг и установить катетеры/канюли
+* Возможен мониторинг с помощью чреспищеводной эхокардиографии
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>Риски общей анестезии</summary>
+<div class="details-content">
+
+* Угнетение ССС и декомпенсация
+* Повышение внутригрудного давления
+* ↑ ЛСС (легочное сосудистое сопротивление)
+* ↑ риск атонии матки
+* Угнетение новорожденного
+* Аспирация желудочного содержимого
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary><span style="font-size:110%">Особенности ведения в кардиологической реанимации</span></summary>
+<div class="details-content">
+
+Тщательное планирование послеоперационного ухода имеет важнейшее значение. Хотя специализированная кардиореанимация может спасти жизнь, в перинатальном периоде должны быть доступны все возможности акушерского стационара. План должен включать рассмотрение следующих аспектов:
+
+* Соответствующий уровень мониторинга ССС:
+
+  * Инвазивное измерение артериального давления
+  * Центральное венозное давление
+  * Почасовой диурез
+  * Сердечный выброс
+  * Сатурация смешанной венозной крови (SvO<sub>2</sub>)
+  * Давление в легочной артерии
+  * Эхокардиография при необходимости
+
+* Анальгезия:
+
+  * Парацетамол
+  * НПВП
+  * Эпидуральное или спинальное введение опиоидов
+  * Резервные пероральные опиоидные анальгетики
+
+* Геморрагические осложнения:
+
+  * Снижение тонуса матки лечат стандартной инфузией синтоцинона®
+  * Эргометрин
+  * Карбопрост при неконтролируемом послеродовом кровотечении
+  * Готовность акушерской хирургической бригады
+  * Возможность интервенционной радиологии при неконтролируемом послеродовом кровотечении
+  * При неэффективности всех мер — гистерэктомия
+
+* Антибиотикопрофилактика согласно локальному протоколу
+
+* Профилактика ВТЭО (венозных тромбоэмболических осложнений) должна быть проведена
+
+* Эмоциональная поддержка:
+
+  * Разлука с новорожденным тяжела для матери
+  * Веб-камера может помочь видеть ребенка в отделении неонатальной реанимации
+  * Моральная поддержка со стороны партнера на протяжении всего времени
+
+* Остановка сердца у беременной пациентки:
+
+  * Реанимационные мероприятия следует проводить согласно рекомендациям Европейского совета по реанимации (ERC)
+  * Экстренное кесарево сечение в течение 5 минут от остановки сердца
+  * Поворот на левый бок
+  * Прием Селлика (надавливание на перстневидный хрящ) для интубации трахеи из-за повышенного риска аспирации
+
+</div>
+</details>
+```
