@@ -1,0 +1,253 @@
+[
+  {
+    "title": "Cardiac Surgery",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "James K. Kirklin, MD, Eugene H. Blackstone, MD, Nicholas T. Kouchoukos, MD"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Anatomy, Dimensions, and Terminology"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Hypothermia, Circulatory Arrest, and Cardiopulmonary Bypass"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Myocardial Management during Cardiac Surgery with Cardiopulmonary Bypass"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Anesthesia for Cardiovascular Surgery"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Postoperative Care"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Generating Knowledge from Information, Data, and Analyses"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Stenotic Arteriosclerotic Coronary Artery Disease"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Left Ventricular Aneurysm"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Left Ventricular Aneurysm"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Mitral Regurgitation from Ischemic Heart Disease"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Mitral Valve Disease with or without Tricuspid Valve Disease"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Aortic Valve Disease"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Combined Aortic and Mitral Valve Disease with or without Tricuspid Valve Disease"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Tricuspid Valve Disease"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Infective Endocarditis"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Cardiac Rhythm Disturbance"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Cardiac Trauma"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Cardiac Tumor"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Hypertrophic Obstructive Cardiomyopathy"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Cardiomyopathy"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Cardiac Transplantation"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Mechanical Circulatory Support"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Pericardial Disease"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Acute Traumatic Aortic Disruption"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Acute Aortic Dissection"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Chronic Thoracic and Thoracoabdominal Aortic Disease"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. Diseases of the Pulmonary Arteries"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Acquired Diseases of the Systemic Veins"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Congenital Heart Disease in the Adult"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Atrial Septal Defect and Partial Anomalous Pulmonary Venous Connection"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Total Anomalous Pulmonary Venous Connection"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Cor Triatriatum"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Unroofed Coronary Sinus Syndrome"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Atrioventricular Septal Defect"
+      },
+      {
+        "file": "chapter-35.md",
+        "title": "35. Ventricular Septal Defect"
+      },
+      {
+        "file": "chapter-36.md",
+        "title": "36. Congenital Sinus of Valsalva Aneurysm and Aortico–Left Ventricular Tunnel"
+      },
+      {
+        "file": "chapter-37.md",
+        "title": "37. Patent Ductus Arteriosus"
+      },
+      {
+        "file": "chapter-38.md",
+        "title": "38. Ventricular Septal Defect with Pulmonary Stenosis or Atresia"
+      },
+      {
+        "file": "chapter-39.md",
+        "title": "39. Pulmonary Stenosis and Intact Ventricular Septum"
+      },
+      {
+        "file": "chapter-40.md",
+        "title": "40. Pulmonary Atresia and Intact Ventricular Septum"
+      },
+      {
+        "file": "chapter-41.md",
+        "title": "41. Tricuspid Atresia and Single-Ventricle Physiology"
+      },
+      {
+        "file": "chapter-42.md",
+        "title": "42. Ebstein Anomaly"
+      },
+      {
+        "file": "chapter-43.md",
+        "title": "43. Truncus Arteriosus"
+      },
+      {
+        "file": "chapter-44.md",
+        "title": "44. Aortopulmonary Window"
+      },
+      {
+        "file": "chapter-45.md",
+        "title": "45. Origin of the Right or Left Pulmonary Artery from the Ascending Aorta"
+      },
+      {
+        "file": "chapter-46.md",
+        "title": "46. Congenital Anomalies of the Coronary Arteries"
+      },
+      {
+        "file": "chapter-47.md",
+        "title": "47. Congenital Aortic Stenosis"
+      },
+      {
+        "file": "chapter-48.md",
+        "title": "48. Coarctation of the Aorta and Interrupted Aortic Arch"
+      },
+      {
+        "file": "chapter-49.md",
+        "title": "49. Aortic Atresia and Other Forms of Hypoplastic Left Heart Physiology"
+      },
+      {
+        "file": "chapter-50.md",
+        "title": "50. Congenital Mitral Valve Disease"
+      },
+      {
+        "file": "chapter-51.md",
+        "title": "51. Vascular Ring and Sling"
+      },
+      {
+        "file": "chapter-52.md",
+        "title": "52. Complete Transposition of the Great Arteries"
+      },
+      {
+        "file": "chapter-53.md",
+        "title": "53. Double Outlet Right Ventricle"
+      },
+      {
+        "file": "chapter-54.md",
+        "title": "54. Double Outlet Left Ventricle"
+      },
+      {
+        "file": "chapter-55.md",
+        "title": "55. Congenitally Corrected Transposition of the Great Arteries and Other Forms of Atrioventricular Discordant Connection"
+      },
+      {
+        "file": "chapter-56.md",
+        "title": "56. Double Inlet Ventricle and Atretic Atrioventricular Valve"
+      },
+      {
+        "file": "chapter-57.md",
+        "title": "57. Anatomically Corrected Malposition of the Great Arteries"
+      },
+      {
+        "file": "chapter-58.md",
+        "title": "58. Atrial Isomerism"
+      }
+    ],
+    "appendices": []
+  }
+]

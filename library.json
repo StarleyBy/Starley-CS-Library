@@ -17,6 +17,7 @@
       "path": "books/cardiac-surgery",
       "books": [
         { "folder": "cohn" },
+        { "folder": "Kirklin4" },
         { "folder": "sellke" },
         { "folder": "Key-questions-in-congenital-cardiac-surgery" },
         { "folder": "Key-questions-in-cardiac-surgery" }    
