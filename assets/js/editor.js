@@ -422,7 +422,9 @@ function initPreview() {
         styleActiveLine: true,
         matchBrackets: true,
         autoCloseBrackets: true,
-        autoCloseTags: true
+        autoCloseTags: true,
+        foldGutter: true,
+        gutters: ["CodeMirror-linenumbers", "CodeMirror-foldgutter"]
     });
     
     // ========== ПОДСВЕТКА ЦИФР ==========
@@ -449,6 +451,97 @@ function initPreview() {
             stream.next();
             return null;
         }
+    });
+    
+    // ========== ПОДСВЕТКА <details> ПО УРОВНЮ ВЛОЖЕННОСТИ ==========
+    editor.addOverlay({
+        token: function(stream, state) {
+            // Подсчитываем уровень вложенности details
+            if (!state.detailsLevel) {
+                state.detailsLevel = 0;
+            }
+            
+            const line = stream.string;
+            const pos = stream.pos;
+            
+            // Проверяем открывающий тег <details>
+            if (stream.match(/<details>/)) {
+                state.detailsLevel++;
+                const level = Math.min(state.detailsLevel, 5);
+                return `details-level-${level}`;
+            }
+            
+            // Проверяем закрывающий тег </details>
+            if (stream.match(/<\/details>/)) {
+                const level = Math.min(state.detailsLevel, 5);
+                if (state.detailsLevel > 0) state.detailsLevel--;
+                return `details-level-${level}`;
+            }
+            
+            // Проверяем теги summary
+            if (stream.match(/<summary>/) || stream.match(/<\/summary>/)) {
+                return 'summary-tag';
+            }
+            
+            stream.next();
+            return null;
+        },
+        startState: function() {
+            return { detailsLevel: 0 };
+        }
+    });
+    
+    // ========== НАСТРОЙКА СВОРАЧИВАНИЯ БЛОКОВ ==========
+    // Функция для определения, где начинается и заканчивается блок details
+    CodeMirror.registerHelper("fold", "details", function(cm, start) {
+        const line = cm.getLine(start.line);
+        
+        // Проверяем, есть ли на этой строке <details>
+        if (!line.includes('<details>')) {
+            return null;
+        }
+        
+        // Ищем соответствующий </details>
+        let level = 0;
+        let endLine = start.line;
+        
+        for (let i = start.line; i < cm.lineCount(); i++) {
+            const currentLine = cm.getLine(i);
+            
+            // Подсчитываем открывающие теги
+            const openMatches = currentLine.match(/<details>/g);
+            if (openMatches) {
+                level += openMatches.length;
+            }
+            
+            // Подсчитываем закрывающие теги
+            const closeMatches = currentLine.match(/<\/details>/g);
+            if (closeMatches) {
+                level -= closeMatches.length;
+            }
+            
+            // Если нашли соответствующий закрывающий тег
+            if (level === 0 && i > start.line) {
+                endLine = i;
+                break;
+            }
+        }
+        
+        if (endLine > start.line) {
+            return {
+                from: CodeMirror.Pos(start.line, line.length),
+                to: CodeMirror.Pos(endLine, cm.getLine(endLine).length)
+            };
+        }
+        
+        return null;
+    });
+    
+    // Устанавливаем fold helper для режима htmlmixed
+    editor.setOption("foldOptions", {
+        widget: "↔",
+        scanUp: false,
+        rangeFinder: CodeMirror.fold.details
     });
     
     editor.on('change', function() {
