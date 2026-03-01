@@ -133,6 +133,16 @@
                 </div>
             </div>
 
+            <!-- Инструменты редактора -->
+            <div class="tool-group">
+                <h4>🔧 Fold Controls</h4>
+                <div class="icon-grid">
+                    <button onclick="if(editor){editor.setOption('foldGutter',true);editor.setOption('gutters',['CodeMirror-linenumbers','CodeMirror-foldgutter']);editor.refresh();}" title="Восстановить стрелки сворачивания">🔄</button>
+                    <button onclick="if(editor){CodeMirror.commands.foldAll(editor);}" title="Свернуть все блоки">📦</button>
+                    <button onclick="if(editor){CodeMirror.commands.unfoldAll(editor);}" title="Развернуть все блоки">📂</button>
+                </div>
+            </div>
+
             <!-- Размер шрифта и заголовки -->
             <div class="tool-group">
                 <h4>📤 Font Size & Headers</h4>
