@@ -382,6 +382,12 @@ async function initLoader() {
                     const text = await res.text();
                     if (editor) {
                         editor.setValue(text);
+                        // Принудительно вызываем подсветку после загрузки
+                        setTimeout(() => {
+                            if (window.highlightDetailsInEditor) {
+                                window.highlightDetailsInEditor();
+                            }
+                        }, 300);
                     } else {
                         document.getElementById('markdown-input').value = text;
                     }
@@ -439,15 +445,34 @@ function initPreview() {
     });
     
     // ========== ПОДСВЕТКА <details> ПО УРОВНЮ ВЛОЖЕННОСТИ ==========
-    // Используем более простой подход через регулярные обновления
-    function highlightDetailsInEditor() {
+    // Создаём глобальную функцию для подсветки
+    window.highlightDetailsInEditor = function() {
+        if (!editor) {
+            console.warn('Editor not initialized yet');
+            return;
+        }
+        
         const doc = editor.getDoc();
         const lineCount = doc.lineCount();
         let detailsLevel = 0;
         
+        // Сначала очищаем все старые маркеры подсветки
+        const allMarks = doc.getAllMarks();
+        allMarks.forEach(mark => {
+            if (mark.className && (
+                mark.className.includes('details-level-') || 
+                mark.className.includes('summary-tag')
+            )) {
+                mark.clear();
+            }
+        });
+        
         // Проходим по всем строкам и добавляем маркеры
         for (let i = 0; i < lineCount; i++) {
             const line = doc.getLine(i);
+            
+            // Подсчитываем уровень ПЕРЕД обработкой текущей строки
+            let lineDetailsLevel = detailsLevel;
             
             // Проверяем открывающие теги <details>
             const openMatches = line.match(/<details>/gi);
@@ -457,72 +482,88 @@ function initPreview() {
                 });
             }
             
-            // Проверяем закрывающие теги </details>
+            // Применяем стили к открывающим тегам details (используем уровень ПОСЛЕ увеличения)
+            let detailsPos = 0;
+            while ((detailsPos = line.indexOf('<details>', detailsPos)) !== -1) {
+                const level = Math.min(Math.max(detailsLevel, 1), 5);
+                try {
+                    doc.markText(
+                        {line: i, ch: detailsPos},
+                        {line: i, ch: detailsPos + 9},
+                        {className: `details-level-${level}`, clearOnEnter: false}
+                    );
+                } catch (e) {
+                    console.warn('Failed to mark text:', e);
+                }
+                detailsPos += 9;
+            }
+            
+            // Проверяем закрывающие теги </details> (используем уровень ДО уменьшения)
             const closeMatches = line.match(/<\/details>/gi);
+            let closePos = 0;
+            while ((closePos = line.indexOf('</details>', closePos)) !== -1) {
+                const level = Math.min(Math.max(detailsLevel, 1), 5);
+                try {
+                    doc.markText(
+                        {line: i, ch: closePos},
+                        {line: i, ch: closePos + 10},
+                        {className: `details-level-${level}`, clearOnEnter: false}
+                    );
+                } catch (e) {
+                    console.warn('Failed to mark text:', e);
+                }
+                closePos += 10;
+            }
+            
+            // Уменьшаем уровень после обработки закрывающих тегов
             if (closeMatches) {
                 closeMatches.forEach(() => {
                     if (detailsLevel > 0) detailsLevel--;
                 });
             }
             
-            // Применяем стили к тегам details
-            if (openMatches || closeMatches) {
-                const level = Math.min(Math.max(detailsLevel, 1), 5);
-                
-                // Ищем позиции тегов в строке
-                let detailsPos = line.indexOf('<details>');
-                while (detailsPos !== -1) {
-                    doc.markText(
-                        {line: i, ch: detailsPos},
-                        {line: i, ch: detailsPos + 9},
-                        {className: `details-level-${level}`, clearOnEnter: true}
-                    );
-                    detailsPos = line.indexOf('<details>', detailsPos + 1);
-                }
-                
-                let closePos = line.indexOf('</details>');
-                while (closePos !== -1) {
-                    doc.markText(
-                        {line: i, ch: closePos},
-                        {line: i, ch: closePos + 10},
-                        {className: `details-level-${level}`, clearOnEnter: true}
-                    );
-                    closePos = line.indexOf('</details>', closePos + 1);
-                }
-            }
-            
             // Применяем стили к тегам summary
-            let summaryPos = line.indexOf('<summary>');
-            while (summaryPos !== -1) {
-                doc.markText(
-                    {line: i, ch: summaryPos},
-                    {line: i, ch: summaryPos + 9},
-                    {className: 'summary-tag', clearOnEnter: true}
-                );
-                summaryPos = line.indexOf('<summary>', summaryPos + 1);
+            let summaryPos = 0;
+            while ((summaryPos = line.indexOf('<summary>', summaryPos)) !== -1) {
+                try {
+                    doc.markText(
+                        {line: i, ch: summaryPos},
+                        {line: i, ch: summaryPos + 9},
+                        {className: 'summary-tag', clearOnEnter: false}
+                    );
+                } catch (e) {
+                    console.warn('Failed to mark text:', e);
+                }
+                summaryPos += 9;
             }
             
-            let closeSummaryPos = line.indexOf('</summary>');
-            while (closeSummaryPos !== -1) {
-                doc.markText(
-                    {line: i, ch: closeSummaryPos},
-                    {line: i, ch: closeSummaryPos + 10},
-                    {className: 'summary-tag', clearOnEnter: true}
-                );
-                closeSummaryPos = line.indexOf('</summary>', closeSummaryPos + 1);
+            let closeSummaryPos = 0;
+            while ((closeSummaryPos = line.indexOf('</summary>', closeSummaryPos)) !== -1) {
+                try {
+                    doc.markText(
+                        {line: i, ch: closeSummaryPos},
+                        {line: i, ch: closeSummaryPos + 10},
+                        {className: 'summary-tag', clearOnEnter: false}
+                    );
+                } catch (e) {
+                    console.warn('Failed to mark text:', e);
+                }
+                closeSummaryPos += 10;
             }
         }
-    }
+        
+        console.log('Details highlighting applied, max level:', detailsLevel);
+    };
     
     // Применяем подсветку при изменении с небольшой задержкой
     let highlightTimeout;
     editor.on('change', function() {
         clearTimeout(highlightTimeout);
-        highlightTimeout = setTimeout(highlightDetailsInEditor, 100);
+        highlightTimeout = setTimeout(window.highlightDetailsInEditor, 150);
     });
     
     // Первоначальная подсветка
-    setTimeout(highlightDetailsInEditor, 200);
+    setTimeout(window.highlightDetailsInEditor, 300);
     
     // ========== НАСТРОЙКА СВОРАЧИВАНИЯ БЛОКОВ ==========
     CodeMirror.registerHelper("fold", "details", function(cm, start) {
@@ -569,6 +610,22 @@ function initPreview() {
         scanUp: false,
         rangeFinder: CodeMirror.fold.details
     });
+    
+    // Добавляем команды для сворачивания/разворачивания всех блоков
+    CodeMirror.commands.foldAll = function(cm) {
+        for (let i = 0; i < cm.lineCount(); i++) {
+            const line = cm.getLine(i);
+            if (line.includes('<details>')) {
+                cm.foldCode(CodeMirror.Pos(i, 0), null, "fold");
+            }
+        }
+    };
+    
+    CodeMirror.commands.unfoldAll = function(cm) {
+        for (let i = 0; i < cm.lineCount(); i++) {
+            cm.foldCode(CodeMirror.Pos(i, 0), null, "unfold");
+        }
+    };
     
     // ========== ОБНОВЛЕНИЕ PREVIEW ==========
     editor.on('change', function() {
