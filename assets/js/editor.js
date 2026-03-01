@@ -382,6 +382,14 @@ async function initLoader() {
                     const text = await res.text();
                     if (editor) {
                         editor.setValue(text);
+                        
+                        // Принудительно переустанавливаем настройки fold после загрузки
+                        setTimeout(() => {
+                            editor.setOption('foldGutter', true);
+                            editor.setOption('gutters', ['CodeMirror-linenumbers', 'CodeMirror-foldgutter']);
+                            editor.refresh();
+                            console.log('✅ File loaded, fold gutters reinitialized');
+                        }, 100);
                     } else {
                         document.getElementById('markdown-input').value = text;
                     }
