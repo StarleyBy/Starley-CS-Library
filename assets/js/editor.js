@@ -428,21 +428,6 @@ function initPreview() {
     });
     
     // ========== ПОДСВЕТКА ЦИФР ==========
-    CodeMirror.defineMode("highlightNumbers", function(config, parserConfig) {
-        return {
-            token: function(stream) {
-                // Если символ - цифра
-                if (stream.match(/\d+/)) {
-                    return "number-highlight"; // CSS класс для подсветки
-                }
-                // Иначе пропускаем символ
-                stream.next();
-                return null;
-            }
-        };
-    });
-    
-    // Накладываем overlay mode поверх htmlmixed для цифр
     editor.addOverlay({
         token: function(stream) {
             if (stream.match(/\d+/)) {
@@ -454,97 +439,115 @@ function initPreview() {
     });
     
     // ========== ПОДСВЕТКА <details> ПО УРОВНЮ ВЛОЖЕННОСТИ ==========
-    // Создаём простой overlay для подсветки
-    let globalDetailsLevel = 0;
-    
-    editor.addOverlay({
-        token: function(stream, state) {
-            // Инициализация состояния
-            if (!state.detailsLevel) {
-                state.detailsLevel = globalDetailsLevel;
+    // Используем более простой подход через регулярные обновления
+    function highlightDetailsInEditor() {
+        const doc = editor.getDoc();
+        const lineCount = doc.lineCount();
+        let detailsLevel = 0;
+        
+        // Проходим по всем строкам и добавляем маркеры
+        for (let i = 0; i < lineCount; i++) {
+            const line = doc.getLine(i);
+            
+            // Проверяем открывающие теги <details>
+            const openMatches = line.match(/<details>/gi);
+            if (openMatches) {
+                openMatches.forEach(() => {
+                    detailsLevel++;
+                });
             }
             
-            const ch = stream.peek();
+            // Проверяем закрывающие теги </details>
+            const closeMatches = line.match(/<\/details>/gi);
+            if (closeMatches) {
+                closeMatches.forEach(() => {
+                    if (detailsLevel > 0) detailsLevel--;
+                });
+            }
             
-            // Если встречаем '<', проверяем это ли начало тега details/summary
-            if (ch === '<') {
-                const match = stream.string.slice(stream.pos).match(/^<\/?(?:details|summary)>/i);
+            // Применяем стили к тегам details
+            if (openMatches || closeMatches) {
+                const level = Math.min(Math.max(detailsLevel, 1), 5);
                 
-                if (match) {
-                    const tag = match[0].toLowerCase();
-                    
-                    // Открывающий <details>
-                    if (tag === '<details>') {
-                        state.detailsLevel++;
-                        globalDetailsLevel = state.detailsLevel;
-                        const level = Math.min(state.detailsLevel, 5);
-                        stream.pos += match[0].length;
-                        return `details-level-${level}`;
-                    }
-                    
-                    // Закрывающий </details>
-                    if (tag === '</details>') {
-                        const level = Math.min(state.detailsLevel, 5);
-                        if (state.detailsLevel > 0) {
-                            state.detailsLevel--;
-                            globalDetailsLevel = state.detailsLevel;
-                        }
-                        stream.pos += match[0].length;
-                        return `details-level-${level}`;
-                    }
-                    
-                    // Теги <summary> и </summary>
-                    if (tag === '<summary>' || tag === '</summary>') {
-                        stream.pos += match[0].length;
-                        return 'summary-tag';
-                    }
+                // Ищем позиции тегов в строке
+                let detailsPos = line.indexOf('<details>');
+                while (detailsPos !== -1) {
+                    doc.markText(
+                        {line: i, ch: detailsPos},
+                        {line: i, ch: detailsPos + 9},
+                        {className: `details-level-${level}`, clearOnEnter: true}
+                    );
+                    detailsPos = line.indexOf('<details>', detailsPos + 1);
+                }
+                
+                let closePos = line.indexOf('</details>');
+                while (closePos !== -1) {
+                    doc.markText(
+                        {line: i, ch: closePos},
+                        {line: i, ch: closePos + 10},
+                        {className: `details-level-${level}`, clearOnEnter: true}
+                    );
+                    closePos = line.indexOf('</details>', closePos + 1);
                 }
             }
             
-            stream.next();
-            return null;
-        },
-        
-        startState: function() {
-            return { detailsLevel: 0 };
+            // Применяем стили к тегам summary
+            let summaryPos = line.indexOf('<summary>');
+            while (summaryPos !== -1) {
+                doc.markText(
+                    {line: i, ch: summaryPos},
+                    {line: i, ch: summaryPos + 9},
+                    {className: 'summary-tag', clearOnEnter: true}
+                );
+                summaryPos = line.indexOf('<summary>', summaryPos + 1);
+            }
+            
+            let closeSummaryPos = line.indexOf('</summary>');
+            while (closeSummaryPos !== -1) {
+                doc.markText(
+                    {line: i, ch: closeSummaryPos},
+                    {line: i, ch: closeSummaryPos + 10},
+                    {className: 'summary-tag', clearOnEnter: true}
+                );
+                closeSummaryPos = line.indexOf('</summary>', closeSummaryPos + 1);
+            }
         }
+    }
+    
+    // Применяем подсветку при изменении с небольшой задержкой
+    let highlightTimeout;
+    editor.on('change', function() {
+        clearTimeout(highlightTimeout);
+        highlightTimeout = setTimeout(highlightDetailsInEditor, 100);
     });
     
-    // Сбрасываем глобальный счётчик при изменении
-    editor.on('changes', function() {
-        globalDetailsLevel = 0;
-    });
+    // Первоначальная подсветка
+    setTimeout(highlightDetailsInEditor, 200);
     
     // ========== НАСТРОЙКА СВОРАЧИВАНИЯ БЛОКОВ ==========
-    // Функция для определения, где начинается и заканчивается блок details
     CodeMirror.registerHelper("fold", "details", function(cm, start) {
         const line = cm.getLine(start.line);
         
-        // Проверяем, есть ли на этой строке <details>
         if (!line.includes('<details>')) {
             return null;
         }
         
-        // Ищем соответствующий </details>
         let level = 0;
         let endLine = start.line;
         
         for (let i = start.line; i < cm.lineCount(); i++) {
             const currentLine = cm.getLine(i);
             
-            // Подсчитываем открывающие теги
             const openMatches = currentLine.match(/<details>/g);
             if (openMatches) {
                 level += openMatches.length;
             }
             
-            // Подсчитываем закрывающие теги
             const closeMatches = currentLine.match(/<\/details>/g);
             if (closeMatches) {
                 level -= closeMatches.length;
             }
             
-            // Если нашли соответствующий закрывающий тег
             if (level === 0 && i > start.line) {
                 endLine = i;
                 break;
@@ -561,18 +564,19 @@ function initPreview() {
         return null;
     });
     
-    // Устанавливаем fold helper для режима htmlmixed
     editor.setOption("foldOptions", {
         widget: "↔",
         scanUp: false,
         rangeFinder: CodeMirror.fold.details
     });
     
-    // Обработчик изменений для preview
+    // ========== ОБНОВЛЕНИЕ PREVIEW ==========
     editor.on('change', function() {
         updatePreview();
     });
     
+    // Первоначальное обновление preview
+    updatePreview();
 }
 
 // 5. Export
