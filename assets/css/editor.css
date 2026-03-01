@@ -1020,47 +1020,7 @@
     transform: rotate(180deg);
 }
 
-/* ============= ПОДСВЕТКА <details> В CODEMIRROR ============= */
-/* Цвета для разных уровней вложенности details */
-/* Используем множественные селекторы для гарантированного применения */
-
-.CodeMirror-line .details-level-1,
-.CodeMirror-line span.details-level-1 {
-    color: #3498db !important; /* Синий */
-    font-weight: 700 !important;
-}
-
-.CodeMirror-line .details-level-2,
-.CodeMirror-line span.details-level-2 {
-    color: #27ae60 !important; /* Зеленый */
-    font-weight: 700 !important;
-}
-
-.CodeMirror-line .details-level-3,
-.CodeMirror-line span.details-level-3 {
-    color: #e67e22 !important; /* Оранжевый */
-    font-weight: 700 !important;
-}
-
-.CodeMirror-line .details-level-4,
-.CodeMirror-line span.details-level-4 {
-    color: #9b59b6 !important; /* Фиолетовый */
-    font-weight: 700 !important;
-}
-
-.CodeMirror-line .details-level-5,
-.CodeMirror-line span.details-level-5 {
-    color: #e91e63 !important; /* Розовый */
-    font-weight: 700 !important;
-}
-
-/* Подсветка summary тегов */
-.CodeMirror-line .summary-tag,
-.CodeMirror-line span.summary-tag {
-    color: #f39c12 !important; /* Золотой для summary */
-    font-weight: 700 !important;
-}
-
+/* ============= СВОРАЧИВАНИЕ <details> В CODEMIRROR ============= */
 /* Стили для сворачиваемых блоков CodeMirror */
 .CodeMirror-foldmarker {
     color: #3498db;
