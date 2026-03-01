@@ -442,7 +442,7 @@ function initPreview() {
         };
     });
     
-    // Накладываем overlay mode поверх htmlmixed
+    // Накладываем overlay mode поверх htmlmixed для цифр
     editor.addOverlay({
         token: function(stream) {
             if (stream.match(/\d+/)) {
@@ -454,41 +454,65 @@ function initPreview() {
     });
     
     // ========== ПОДСВЕТКА <details> ПО УРОВНЮ ВЛОЖЕННОСТИ ==========
+    // Создаём простой overlay для подсветки
+    let globalDetailsLevel = 0;
+    
     editor.addOverlay({
         token: function(stream, state) {
-            // Подсчитываем уровень вложенности details
+            // Инициализация состояния
             if (!state.detailsLevel) {
-                state.detailsLevel = 0;
+                state.detailsLevel = globalDetailsLevel;
             }
             
-            const line = stream.string;
-            const pos = stream.pos;
+            const ch = stream.peek();
             
-            // Проверяем открывающий тег <details>
-            if (stream.match(/<details>/)) {
-                state.detailsLevel++;
-                const level = Math.min(state.detailsLevel, 5);
-                return `details-level-${level}`;
-            }
-            
-            // Проверяем закрывающий тег </details>
-            if (stream.match(/<\/details>/)) {
-                const level = Math.min(state.detailsLevel, 5);
-                if (state.detailsLevel > 0) state.detailsLevel--;
-                return `details-level-${level}`;
-            }
-            
-            // Проверяем теги summary
-            if (stream.match(/<summary>/) || stream.match(/<\/summary>/)) {
-                return 'summary-tag';
+            // Если встречаем '<', проверяем это ли начало тега details/summary
+            if (ch === '<') {
+                const match = stream.string.slice(stream.pos).match(/^<\/?(?:details|summary)>/i);
+                
+                if (match) {
+                    const tag = match[0].toLowerCase();
+                    
+                    // Открывающий <details>
+                    if (tag === '<details>') {
+                        state.detailsLevel++;
+                        globalDetailsLevel = state.detailsLevel;
+                        const level = Math.min(state.detailsLevel, 5);
+                        stream.pos += match[0].length;
+                        return `details-level-${level}`;
+                    }
+                    
+                    // Закрывающий </details>
+                    if (tag === '</details>') {
+                        const level = Math.min(state.detailsLevel, 5);
+                        if (state.detailsLevel > 0) {
+                            state.detailsLevel--;
+                            globalDetailsLevel = state.detailsLevel;
+                        }
+                        stream.pos += match[0].length;
+                        return `details-level-${level}`;
+                    }
+                    
+                    // Теги <summary> и </summary>
+                    if (tag === '<summary>' || tag === '</summary>') {
+                        stream.pos += match[0].length;
+                        return 'summary-tag';
+                    }
+                }
             }
             
             stream.next();
             return null;
         },
+        
         startState: function() {
             return { detailsLevel: 0 };
         }
+    });
+    
+    // Сбрасываем глобальный счётчик при изменении
+    editor.on('changes', function() {
+        globalDetailsLevel = 0;
     });
     
     // ========== НАСТРОЙКА СВОРАЧИВАНИЯ БЛОКОВ ==========
@@ -544,11 +568,11 @@ function initPreview() {
         rangeFinder: CodeMirror.fold.details
     });
     
+    // Обработчик изменений для preview
     editor.on('change', function() {
         updatePreview();
     });
     
-    updatePreview();
 }
 
 // 5. Export
