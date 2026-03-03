@@ -15,6 +15,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/xml/xml.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/markdown/markdown.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/htmlmixed/htmlmixed.min.js"></script>
+    <!-- CodeMirror Fold Addons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/foldgutter.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/foldcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/foldgutter.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/xml-fold.min.js"></script>
 </head>
 <body>
     <header>
@@ -125,6 +130,16 @@
                     <button onclick="insertLink()" title="Создать ссылку на термин">🔗</button>
                     <button onclick="insertAnchor()" title="Создать якорь в месте определения">⚓</button>
                     <button onclick="insertBackLink()" title="Умная кнопка - вернет к любой ссылке">↩️</button>
+                </div>
+            </div>
+
+            <!-- Инструменты редактора -->
+            <div class="tool-group">
+                <h4>🔧 Fold Controls</h4>
+                <div class="icon-grid">
+                    <button onclick="if(editor){editor.setOption('foldGutter',true);editor.setOption('gutters',['CodeMirror-linenumbers','CodeMirror-foldgutter']);editor.refresh();}" title="Восстановить стрелки сворачивания">🔄</button>
+                    <button onclick="if(editor){CodeMirror.commands.foldAll(editor);}" title="Свернуть все блоки">📦</button>
+                    <button onclick="if(editor){CodeMirror.commands.unfoldAll(editor);}" title="Развернуть все блоки">📂</button>
                 </div>
             </div>
 

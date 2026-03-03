@@ -382,6 +382,14 @@ async function initLoader() {
                     const text = await res.text();
                     if (editor) {
                         editor.setValue(text);
+                        
+                        // Принудительно переустанавливаем настройки fold после загрузки
+                        setTimeout(() => {
+                            editor.setOption('foldGutter', true);
+                            editor.setOption('gutters', ['CodeMirror-linenumbers', 'CodeMirror-foldgutter']);
+                            editor.refresh();
+                            console.log('✅ File loaded, fold gutters reinitialized');
+                        }, 100);
                     } else {
                         document.getElementById('markdown-input').value = text;
                     }
@@ -422,25 +430,12 @@ function initPreview() {
         styleActiveLine: true,
         matchBrackets: true,
         autoCloseBrackets: true,
-        autoCloseTags: true
+        autoCloseTags: true,
+        foldGutter: true,
+        gutters: ["CodeMirror-linenumbers", "CodeMirror-foldgutter"]
     });
     
     // ========== ПОДСВЕТКА ЦИФР ==========
-    CodeMirror.defineMode("highlightNumbers", function(config, parserConfig) {
-        return {
-            token: function(stream) {
-                // Если символ - цифра
-                if (stream.match(/\d+/)) {
-                    return "number-highlight"; // CSS класс для подсветки
-                }
-                // Иначе пропускаем символ
-                stream.next();
-                return null;
-            }
-        };
-    });
-    
-    // Накладываем overlay mode поверх htmlmixed
     editor.addOverlay({
         token: function(stream) {
             if (stream.match(/\d+/)) {
@@ -451,10 +446,74 @@ function initPreview() {
         }
     });
     
+    // ========== НАСТРОЙКА СВОРАЧИВАНИЯ БЛОКОВ ==========
+    CodeMirror.registerHelper("fold", "details", function(cm, start) {
+        const line = cm.getLine(start.line);
+        
+        if (!line.includes('<details>')) {
+            return null;
+        }
+        
+        let level = 0;
+        let endLine = start.line;
+        
+        for (let i = start.line; i < cm.lineCount(); i++) {
+            const currentLine = cm.getLine(i);
+            
+            const openMatches = currentLine.match(/<details>/g);
+            if (openMatches) {
+                level += openMatches.length;
+            }
+            
+            const closeMatches = currentLine.match(/<\/details>/g);
+            if (closeMatches) {
+                level -= closeMatches.length;
+            }
+            
+            if (level === 0 && i > start.line) {
+                endLine = i;
+                break;
+            }
+        }
+        
+        if (endLine > start.line) {
+            return {
+                from: CodeMirror.Pos(start.line, line.length),
+                to: CodeMirror.Pos(endLine, cm.getLine(endLine).length)
+            };
+        }
+        
+        return null;
+    });
+    
+    editor.setOption("foldOptions", {
+        widget: "↔",
+        scanUp: false,
+        rangeFinder: CodeMirror.fold.details
+    });
+    
+    // Добавляем команды для сворачивания/разворачивания всех блоков
+    CodeMirror.commands.foldAll = function(cm) {
+        for (let i = 0; i < cm.lineCount(); i++) {
+            const line = cm.getLine(i);
+            if (line.includes('<details>')) {
+                cm.foldCode(CodeMirror.Pos(i, 0), null, "fold");
+            }
+        }
+    };
+    
+    CodeMirror.commands.unfoldAll = function(cm) {
+        for (let i = 0; i < cm.lineCount(); i++) {
+            cm.foldCode(CodeMirror.Pos(i, 0), null, "unfold");
+        }
+    };
+    
+    // ========== ОБНОВЛЕНИЕ PREVIEW ==========
     editor.on('change', function() {
         updatePreview();
     });
     
+    // Первоначальное обновление preview
     updatePreview();
 }
 
