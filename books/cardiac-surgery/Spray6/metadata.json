@@ -1,0 +1,293 @@
+[
+  {
+    "title": "Operative Cardiac Surgery, 6th edition",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "Rob & Smith’s"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Echocardiography for cardiac surgery"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Hypothermia, Circulatory Arrest, and Cardiopulmonary Bypass"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Circulatory arrest: retrograde vs antegrade cerebral protection"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Intraoperative myocardial protection"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. On-pump coronary artery bypass grafting"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Off-pump coronary revascularization"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Expanded use of arterial conduits"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Reoperative coronary artery bypass grafting"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Repair of postinfarction ventricular septal defect"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Robotic total endoscopic coronary artery bypass grafting"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Aortic valve replacement"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Minimal access aortic valve surgery"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. TAVR: transfemoral and alternative approaches"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Aortic valve repair"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Mitral valve replacement"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Mitral valve repair"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Minimal access mitral valve surgery"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Robot-assisted mitral valve surgery"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Tricuspid valve surgery"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. The pulmonary autograft for aortic valve replacement"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Valvular endocarditis"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Valve-sparing aortic root replacement"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Heart transplantation"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Heart–lung transplantation"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Lung transplantation"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Permanent continuous-flow left ventricular assist devices"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. ECMO and temporary mechanical circulatory assistance"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Left ventricular reconstruction"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Surgery for hypertrophic cardiomyopathy"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Congestive heart failure: surgical techniques for functional mitral regurgitation"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Ascending aortic aneurysm"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Hybrid aortic arch repair"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Thoracoabdominal aortic aneurysms"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Thoracic endovascular aortic repair"
+      },
+      {
+        "file": "chapter-35.md",
+        "title": "35. Aortic dissection: type A and B"
+      },
+      {
+        "file": "chapter-36.md",
+        "title": "36. The cut-and-sew Maze-III procedure for the treatment of atrial fibrillation"
+      },
+      {
+        "file": "chapter-37.md",
+        "title": "37. Cardiac tumors"
+      },
+      {
+        "file": "chapter-38.md",
+        "title": "38. Pacers-BV pacers"
+      },
+      {
+        "file": "chapter-39.md",
+        "title": "39. The anatomy of congenital cardiac malformations"
+      },
+      {
+        "file": "chapter-40.md",
+        "title": "40. Palliative procedures: shunts and pulmonary artery banding"
+      },
+      {
+        "file": "chapter-41.md",
+        "title": "41. Total anomalous pulmonary venous connection and cor triatriatum"
+      },
+      {
+        "file": "chapter-42.md",
+        "title": "42. Atrial septal defects"
+      },
+      {
+        "file": "chapter-43.md",
+        "title": "43. Atrioventricular septal defects"
+      },
+      {
+        "file": "chapter-44.md",
+        "title": "44. Bidirectional Glenn and hemi-Fontan procedures"
+      },
+      {
+        "file": "chapter-45.md",
+        "title": "45. Fontan procedure for functionally single ventricle and double-inlet ventricle"
+      },
+      {
+        "file": "chapter-46.md",
+        "title": "46. Double-outlet ventricles"
+      },
+      {
+        "file": "chapter-47.md",
+        "title": "47. Ebstein’s malformation of the tricuspid valve: surgical treatment and cone repair"
+      },
+      {
+        "file": "chapter-48.md",
+        "title": "48. Ventricular septal defect"
+      },
+      {
+        "file": "chapter-49.md",
+        "title": "49. Tetralogy of Fallot"
+      },
+      {
+        "file": "chapter-50.md",
+        "title": "50. Pulmonary atresia with ventricular septal defect"
+      },
+      {
+        "file": "chapter-51.md",
+        "title": "51. Right ventricular outflow tract obstruction with intact ventricular septum"
+      },
+      {
+        "file": "chapter-52.md",
+        "title": "52. Left ventricular outflow tract obstruction"
+      },
+      {
+        "file": "chapter-53.md",
+        "title": "53. Transposition of the great arteries with left ventricular outflow tract obstruction"
+      },
+      {
+        "file": "chapter-54.md",
+        "title": "54. Transposition of the great arteries with right ventricular outflow tract obstruction"
+      },
+      {
+        "file": "chapter-55.md",
+        "title": "55. Anatomical repair of transposition of the great arteries"
+      },
+      {
+        "file": "chapter-56.md",
+        "title": "56. Congenitally corrected transposition"
+      },
+      {
+        "file": "chapter-57.md",
+        "title": "57. Persistent truncus arteriosus"
+      },
+      {
+        "file": "chapter-58.md",
+        "title": "58. Persistent ductus arteriosus"
+      },
+      {
+        "file": "chapter-59.md",
+        "title": "59. Aortopulmonary window"
+      },
+      {
+        "file": "chapter-60.md",
+        "title": "60. Coarctation of the aorta: repair of coarctation and arch interruption"
+      },
+      {
+        "file": "chapter-61.md",
+        "title": "61. Congenital anomalies of the aortic arch"
+      },
+      {
+        "file": "chapter-62.md",
+        "title": "62. Hypoplastic left heart syndrome"
+      },
+      {
+        "file": "chapter-63.md",
+        "title": "63. Coronary anomalies"
+      },
+      {
+        "file": "chapter-64.md",
+        "title": "64. Cardiac transplantation for congenital heart disease"
+      },
+      {
+        "file": "chapter-65.md",
+        "title": "65. Lung and heart–lung transplantation for congenital heart disease"
+      },
+      {
+        "file": "chapter-66.md",
+        "title": "66. Ventricular assist devices for congenital heart disease"
+      },
+      {
+        "file": "chapter-67.md",
+        "title": "67. Congenital mitral valve repair"
+      },
+      {
+        "file": "chapter-68.md",
+        "title": "68. Aortic valve repair"
+      }
+    ],
+    "appendices": []
+  }
+]
