@@ -155,6 +155,8 @@ function attachBookClickHandlers() {
 
 function setupSearch() {
     const searchInput = document.getElementById('search');
+    
+    // Keep the live filtering for immediate feedback
     searchInput.addEventListener('input', (e) => {
         const searchTerm = e.target.value.toLowerCase();
         document.querySelectorAll('.book-card').forEach(card => {
@@ -167,6 +169,16 @@ function setupSearch() {
                 card.style.display = 'none';
             }
         });
+    });
+
+    // Add global search redirection on Enter key
+    searchInput.addEventListener('keyup', (e) => {
+        if (e.key === 'Enter') {
+            const searchTerm = e.target.value.trim();
+            if (searchTerm) {
+                window.location.href = `search/search.html?q=${encodeURIComponent(searchTerm)}`;
+            }
+        }
     });
 }
 

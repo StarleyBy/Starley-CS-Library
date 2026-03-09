@@ -1,0 +1,49 @@
+/* Стили для страницы поиска */
+body {
+    padding: 20px;
+}
+
+.search-container {
+    margin-bottom: 20px;
+}
+
+#searchInput {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#searchButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#resultsContainer {
+    margin-top: 20px;
+}
+
+.result-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.result-item h3 {
+    margin-top: 0;
+}
+
+.result-item a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.result-item a:hover {
+    text-decoration: underline;
+}
+
+.snippet {
+    font-style: italic;
+    color: #555;
+}
