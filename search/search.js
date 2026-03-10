@@ -73,18 +73,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
         resultsContainer.innerHTML = '';
         
-        const detectedLanguage = detectLanguage(query);
-        let lunrQuery = query;
+        let finalLunrQuery = query;
 
         if (detectedLanguage === 'russian') {
-            lunrQuery = `${query} language:russian`;
+            finalLunrQuery += ' language:russian';
         } else if (detectedLanguage === 'hebrew') {
-            lunrQuery = `${query} language:hebrew`;
+            finalLunrQuery += ' language:hebrew';
         } else { // English or other, search original and starley editions
-            lunrQuery = `${query} (language:original OR language:starley)`;
+            finalLunrQuery += ' language:(original OR starley)';
         }
 
-        const searchResults = lunrIndex.search(lunrQuery);
+        const searchResults = lunrIndex.search(finalLunrQuery);
         
         if (searchResults.length > 0) {
             searchResults.forEach(result => {
