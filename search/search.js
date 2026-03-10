@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         handleUrlQuery();
     }).catch(error => {
         console.error('Error loading search data:', error);
-        resultsContainer.innerHTML = '<p>Ошибка при загрузке данных для поиска.</p>';
+        resultsContainer.innerHTML = '<p>Error loading search data.</p>';
     });
 
     searchButton.addEventListener('click', () => {
@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function performSearch(query) {
         if (!lunrIndex || !docStore) {
-            resultsContainer.innerHTML = '<p>Поисковый индекс еще не загружен. Пожалуйста, подождите.</p>';
+            resultsContainer.innerHTML = '<p>Search index is not loaded yet. Please wait.</p>';
             return;
         }
 
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         } else {
-            resultsContainer.innerHTML = '<p>Ничего не найдено.</p>';
+            resultsContainer.innerHTML = '<p>No results found.</p>';
         }
     }
 
@@ -93,19 +93,18 @@ document.addEventListener('DOMContentLoaded', () => {
     resultsContainer.addEventListener('click', (e) => {
         const resultItem = e.target.closest('.result-item');
         if (resultItem) {
-            openModal(resultItem.dataset);
+            const query = searchInput.value.trim();
+            openModal(resultItem.dataset, query);
         }
     });
 
-    function openModal(data) {
+    function openModal(data, query) {
         modalTitle.textContent = `${data.bookTitle} - ${data.chapterTitle}`;
-        modalBody.innerHTML = '<p>Загрузка...</p>';
+        modalBody.innerHTML = '<p>Loading...</p>';
         
         const readerLink = `../reader.html?book=${data.bookId}&chapter=${data.chapterId}&edition=${data.edition}`;
         readFullButton.href = readerLink;
         
-        // Construct path to markdown file
-        // bookId is like 'books/category/book', chapterId is like 'chapter-01'
         const markdownPath = `../${data.bookId}/chapters/${data.chapterId}/${data.chapterId}.md`;
 
         fetch(markdownPath)
@@ -116,10 +115,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 return response.text();
             })
             .then(text => {
-                modalBody.innerHTML = marked.parse(text);
+                let highlightedText = text;
+                if (query) {
+                    // Use a regex to find all occurrences of the query, case-insensitively
+                    const regex = new RegExp(query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'), 'gi');
+                    highlightedText = text.replace(regex, match => `<mark>${match}</mark>`);
+                }
+                modalBody.innerHTML = marked.parse(highlightedText);
             })
             .catch(error => {
-                modalBody.innerHTML = `<p>Не удалось загрузить содержимое главы. Пожалуйста, попробуйте открыть её в полном режиме.</p><p><small>Ошибка: ${error.message}</small></p>`;
+                modalBody.innerHTML = `<p>Could not load chapter content. Please try opening it in full mode.</p><p><small>Error: ${error.message}</small></p>`;
                 console.error('Error fetching chapter content:', error);
             });
 
