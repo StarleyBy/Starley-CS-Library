@@ -61,8 +61,10 @@ async function generateSearchIndex() {
                 const chapterFilePath = path.join(chapterFolderPath, chapter.file);
 
                 const categoryFolder = category.path.split('/')[1];
-                const bookId = `${categoryFolder}/${bookInfo.folder}`;
+                const bookId = `books/${categoryFolder}/${bookInfo.folder}`;
+                const chapterId = chapter.file.replace('.md', '');
                 const chapterUrlPath = path.join('chapters', chapter.file.replace('.md', ''), chapter.file).replace(/\\/g, '/');
+                const edition = 'original'; // Defaulting to 'original' as a temporary measure
 
                 if (!fs.existsSync(chapterFilePath)) {
                     console.warn(`Chapter file not found: ${chapterFilePath}`);
@@ -83,7 +85,8 @@ async function generateSearchIndex() {
                     bookTitle: bookMetadata.title,
                     chapterTitle: chapter.title,
                     bookId: bookId,
-                    chapterUrlPath: chapterUrlPath,
+                    chapterId: chapterId,
+                    edition: edition,
                     snippet: plainTextContent.substring(0, 300) + '...' // Store a 300-char snippet
                 };
                 

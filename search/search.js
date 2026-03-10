@@ -4,13 +4,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsContainer = document.getElementById('resultsContainer');
     let lunrIndex, docStore;
 
+    // Modal elements
+    const modal = document.getElementById('chapterModal');
+    const modalTitle = document.getElementById('modalTitle');
+    const modalBody = document.getElementById('modalBody');
+    const readFullButton = document.getElementById('readFullButton');
+    const closeButton = document.querySelector('.close-button');
+
     // Function to handle URL query parameters
     function handleUrlQuery() {
         const params = new URLSearchParams(window.location.search);
         const query = params.get('q');
         if (query) {
             searchInput.value = query;
-            performSearch(query);
+            // Wait for the index to load before searching
+            if (lunrIndex) {
+                performSearch(query);
+            }
         }
     }
 
@@ -22,7 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
         lunrIndex = lunr.Index.load(indexData);
         docStore = storeData;
         console.log('Lunr index and document store loaded successfully.');
-        // If a query was in the URL, perform the search now that the index is loaded
         handleUrlQuery();
     }).catch(error => {
         console.error('Error loading search data:', error);
@@ -51,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        resultsContainer.innerHTML = ''; // Clear previous results
+        resultsContainer.innerHTML = '';
         const searchResults = lunrIndex.search(query);
         
         if (searchResults.length > 0) {
@@ -60,13 +69,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (doc) {
                     const resultItem = document.createElement('div');
                     resultItem.classList.add('result-item');
+                    resultItem.dataset.bookId = doc.bookId;
+                    resultItem.dataset.chapterId = doc.chapterId;
+                    resultItem.dataset.edition = doc.edition;
+                    resultItem.dataset.bookTitle = doc.bookTitle;
+                    resultItem.dataset.chapterTitle = doc.chapterTitle;
 
-                    // Construct the link to reader.html
-                    const readerLink = `reader.html?book=${doc.bookId}&chapter=${doc.chapterUrlPath}`;
-
-                    // Display the snippet without highlighting for now, as it's more complex with Lunr's term matching
                     resultItem.innerHTML = `
-                        <h3><a href="${readerLink}">${doc.bookTitle} - ${doc.chapterTitle}</a> <small>(Score: ${result.score.toFixed(2)})</small></h3>
+                        <h3 class="result-title">${doc.bookTitle} - ${doc.chapterTitle}</a> <small>(Score: ${result.score.toFixed(2)})</small></h3>
                         <p class="snippet">${doc.snippet}</p>
                     `;
                     resultsContainer.appendChild(resultItem);
@@ -76,4 +86,54 @@ document.addEventListener('DOMContentLoaded', () => {
             resultsContainer.innerHTML = '<p>Ничего не найдено.</p>';
         }
     }
+
+    // --- Modal Logic ---
+
+    // Open modal when a result is clicked
+    resultsContainer.addEventListener('click', (e) => {
+        const resultItem = e.target.closest('.result-item');
+        if (resultItem) {
+            openModal(resultItem.dataset);
+        }
+    });
+
+    function openModal(data) {
+        modalTitle.textContent = `${data.bookTitle} - ${data.chapterTitle}`;
+        modalBody.innerHTML = '<p>Загрузка...</p>';
+        
+        const readerLink = `../reader.html?book=${data.bookId}&chapter=${data.chapterId}&edition=${data.edition}`;
+        readFullButton.href = readerLink;
+        
+        // Construct path to markdown file
+        // bookId is like 'books/category/book', chapterId is like 'chapter-01'
+        const markdownPath = `../${data.bookId}/chapters/${data.chapterId}/${data.chapterId}.md`;
+
+        fetch(markdownPath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.text();
+            })
+            .then(text => {
+                modalBody.innerHTML = marked.parse(text);
+            })
+            .catch(error => {
+                modalBody.innerHTML = `<p>Не удалось загрузить содержимое главы. Пожалуйста, попробуйте открыть её в полном режиме.</p><p><small>Ошибка: ${error.message}</small></p>`;
+                console.error('Error fetching chapter content:', error);
+            });
+
+        modal.style.display = 'block';
+    }
+
+    // Close modal logic
+    closeButton.addEventListener('click', () => {
+        modal.style.display = 'none';
+    });
+
+    window.addEventListener('click', (e) => {
+        if (e.target === modal) {
+            modal.style.display = 'none';
+        }
+    });
 });

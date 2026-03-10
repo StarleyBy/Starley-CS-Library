@@ -14,10 +14,26 @@
             <input type="text" id="searchInput" placeholder="Введите запрос для поиска...">
             <button id="searchButton">Найти</button>
         </div>
-        <div id="resultsContainer"></div>
-    </div>
-
-    <script src="https://unpkg.com/lunr/lunr.min.js"></script>
-    <script src="search.js"></script>
-</body>
+            <div id="resultsContainer"></div>
+        
+            <!-- Modal Structure -->
+            <div id="chapterModal" class="modal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span class="close-button">&times;</span>
+                        <h2 id="modalTitle"></h2>
+                    </div>
+                    <div class="modal-body" id="modalBody">
+                        <!-- Chapter content will be loaded here -->
+                    </div>
+                    <div class="modal-footer">
+                        <a id="readFullButton" class="button" href="#" target="_blank">Читать в полном режиме</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <script src="https://unpkg.com/lunr/lunr.min.js"></script>
+        <script src="search.js"></script></body>
 </html>
