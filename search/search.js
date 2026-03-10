@@ -24,6 +24,17 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // Function to detect language of the query
+    function detectLanguage(text) {
+        if (/[а-яА-Я]/.test(text)) {
+            return 'russian';
+        }
+        if (/[\u0590-\u05FF]/.test(text)) {
+            return 'hebrew';
+        }
+        return 'english'; // Default for other languages or if no specific characters are found
+    }
+
     // Load the search index and document store
     Promise.all([
         fetch('lunr-index.json').then(res => res.json()),
@@ -61,7 +72,19 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         resultsContainer.innerHTML = '';
-        const searchResults = lunrIndex.search(query);
+        
+        const detectedLanguage = detectLanguage(query);
+        let lunrQuery = query;
+
+        if (detectedLanguage === 'russian') {
+            lunrQuery = `${query} language:russian`;
+        } else if (detectedLanguage === 'hebrew') {
+            lunrQuery = `${query} language:hebrew`;
+        } else { // English or other, search original and starley editions
+            lunrQuery = `${query} (language:original OR language:starley)`;
+        }
+
+        const searchResults = lunrIndex.search(lunrQuery);
         
         if (searchResults.length > 0) {
             searchResults.forEach(result => {
