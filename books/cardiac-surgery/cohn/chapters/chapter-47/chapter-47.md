@@ -1,104 +1,244 @@
 ## **Aortic Dissection**
 
-Ravi K. Ghanta • Carlos M. Mery • Irving L. Kron
 
 Thoracic aortic dissection occurs when an intimal tear allows redirection of blood flow from the aorta (true lumen) through the intimal defect into the media of the aortic wall (false lumen). A dissection plane that separates the intima from the overlying adventitia forms within the media. The acute form of aortic dissection is often rapidly lethal; whereas, those surviving the initial event go on to develop a chronic dissection with more protean manifestations. The purpose of this chapter is to review the etiology and pathogenesis of aortic dissection, examine current diagnostic algorithms, and provide detailed descriptions of contemporary surgical techniques for treatment. Additional information regarding follow-up and the subsequent management of these patients is presented to provide a comprehensive understanding of a clinical entity that has challenged physicians and surgeons for centuries.
 
-### **HISTORY**
+<details class="med-details">
+<summary><span style="font-size:110%">HISTORY</span></summary>
+<div class="details-content">
 
-Sennertus is credited with the first description of the dissection process, but the earliest detailed descriptions of the clinical entity appeared in the seventeenth and eighteenth centuries, during which time Maunoir named the process aortic "dissection." Laennec defined the propensity of the chronically dissected aorta to become aneurysmal. Aortic dissection was exclusively a postmortem diagnosis until the first part of the twentieth century, but in 1935 Gurin attempted surgical intervention with the first aortic fenestration procedure to treat malperfusion syndrome.1 In 1949, Abbott and Paulin advanced surgical treatment by theoretically preventing aortic rupture by wrapping the aorta with cellophane. Other attempts at surgical treatment over the years met with limited clinical success, although certain concepts regarding surgical management are still in use today.<sup>2</sup> With the advent of cardiopulmonary bypass, DeBakey et al forever altered the natural history of aortic dissection by successfully performing primary surgical repair using techniques not remarkably different from contemporary procedures.<sup>3</sup> Investigators such as Wheat et al made substantial contributions by defining physiologically based medical management algorithms to complement surgical correction.4 There is still considerable
+<strong>Sennertus</strong> is credited with the first description of the dissection process, but the earliest detailed descriptions of the clinical entity appeared in the seventeenth and eighteenth centuries, during which time <strong>Maunoir</strong> named the process aortic "dissection." <strong>Laennec</strong> defined the propensity of the chronically dissected aorta to become aneurysmal. Aortic dissection was exclusively a postmortem diagnosis until the first part of the twentieth century, but in 1935 <strong>Gurin</strong> attempted surgical intervention with the first aortic fenestration procedure to treat malperfusion syndrome. In 1949, <strong>Abbott</strong> and <strong>Paulin</strong> advanced surgical treatment by theoretically preventing aortic rupture by wrapping the aorta with cellophane. Other attempts at surgical treatment over the years met with limited clinical success, although certain concepts regarding surgical management are still in use today. With the advent of cardiopulmonary bypass, <strong>DeBakey</strong> et al forever altered the natural history of aortic dissection by successfully performing primary surgical repair using techniques not remarkably different from contemporary procedures. Investigators such as Wheat et al made substantial contributions by defining physiologically based medical management algorithms to complement surgical correction. There is still considerable controversy regarding surgical versus medical treatment of certain forms of acute thoracic aortic dissection.
+</div>
+</details>
 
-controversy regarding surgical versus medical treatment of certain forms of acute thoracic aortic dissection.
-
-### **CLASSIFICATION**
+<details class="med-details">
+<summary><span style="font-size:110%">CLASSIFICATION</span></summary>
+<div class="details-content">
 
 The classification systems used for aortic dissection are based on the location and extent of dissection. The particular type is then subclassified based on the timing of dissection. Acute dissection has traditionally been used to describe presentation within the first 2 weeks, whereas the term *chronic* is reserved for those patients presenting at more than 2 months after the initial event. The more recently added subacute designation is sometimes used to describe the period between 2 weeks and 2 months.
 
-Two classification systems are most frequently used in clinical practice: the DeBakey and the Stanford systems (Fig. 47-1). The DeBakey system differentiates patients based on the location and extent of aortic dissection.<sup>5</sup> The advantage of this system is that four different groups of patients with different forms of aortic dissection emerge. This structure provides the greatest opportunity for subsequent comparative research. In contrast, the Stanford system proposed by Daily et al is a functional classification system. 6 All dissections that involve the ascending aorta are grouped together as type A, regardless of the position of the primary tear or the distal extent of the dissection. Proponents of the simpler Stanford system contend that the clinical behavior of patients with aortic dissection is essentially determined by involvement of the ascending aorta. Critics, however, suggest that individual patients in the type A classification may be quite different from one another depending on the distal extent. Drawing clinical conclusions from such a potentially heterogeneous patient population has inherent limitations. However, because of its simplicity, practicality, and widespread use, the Stanford system is used throughout this chapter.
-
-#### **INCIDENCE**
-
-Aortic dissection is the most frequently diagnosed lethal condition of the aorta. Dissection occurs nearly three times as frequently as rupture of abdominal aortic aneurysm in the
-
+Two classification systems are most frequently used in clinical practice: the DeBakey and the Stanford systems (Fig. 47-1). The DeBakey system differentiates patients based on the location and extent of aortic dissection. The advantage of this system is that four different groups of patients with different forms of aortic dissection emerge. This structure provides the greatest opportunity for subsequent comparative research. In contrast, the Stanford system proposed by Daily et al is a functional classification system. All dissections that involve the ascending aorta are grouped together as type A, regardless of the position of the primary tear or the distal extent of the dissection. Proponents of the simpler Stanford system contend that the clinical behavior of patients with aortic dissection is essentially determined by involvement of the ascending aorta. Critics, however, suggest that individual patients in the type A classification may be quite different from one another depending on the distal extent. Drawing clinical conclusions from such a potentially heterogeneous patient population has inherent limitations. However, because of its simplicity, practicality, and widespread use, the Stanford system is used throughout this chapter.
+  
 ![](_page_1_Picture_2.jpeg)
 
 **FIGURE 47-1** Classification of aortic dissection. DeBakey type I and Stanford type A include dissections that involve the proximal aorta, arch, and descending thoracic aorta. DeBakey type II only involves the ascending aorta; this dissection is included in the Stanford type A. DeBakey type III and Stanford type B include dissections that originate in the descending thoracic and thoracoabdominal aorta regardless of any retrograde involvement of the arch. These are subdivided into subtypes a and b, depending on abdominal aortic involvement.
+</div>
+</details>
 
-United States.<sup>7</sup> There is an estimated worldwide prevalence of 0.5 to 2.95 per 100,000 per year; the prevalence ranges from 0.2 to 0.8 per 100,000 per year in the United States, resulting in roughly 2000 new cases per year.<sup>8</sup> These figures are only an estimate. In one autopsy series, the antemortem diagnosis was made in only 15% of patients, revealing that many immediately fatal events go undiagnosed.<sup>9</sup> Clinically, type A dissections occur with an overall greater frequency (Table 47-1).
+<details class="med-details">
+<summary><span style="font-size:110%">INCIDENCE</span></summary>
+<div class="details-content">
 
-### **ETIOLOGY AND PATHOGENESIS**
+Aortic dissection is the most frequently diagnosed lethal condition of the aorta. Dissection occurs nearly three times as frequently as rupture of abdominal aortic aneurysm in the United States. There is an estimated worldwide prevalence of 0.5 to 2.95 per 100,000 per year; the prevalence ranges from 0.2 to 0.8 per 100,000 per year in the United States, resulting in roughly 2000 new cases per year. These figures are only an estimate. In one autopsy series, the antemortem diagnosis was made in only 15% of patients, revealing that many immediately fatal events go undiagnosed. Clinically, type A dissections occur with an overall greater frequency (Table 47-1).
+ 
+<details class="med-details">
+<summary>TABLE 47-1: Clinical Characteristics of Patients Presenting with Acute Type A and B Thoracic Aortic Dissections</summary>
+<div class="details-content">
 
-Several hypotheses exist regarding the etiology of the intimal disruption (primary tear) that permits aortic blood flow to create a cleavage plane within the media of the aortic wall. This was originally viewed as a consequence of a biochemical abnormality within the media on which normal mechanical forces in the aorta acted to create an intimal tear. The link between the abnormal media, termed *cystic medial necrosis* or *degeneration*, and the primary tear has not been scientifically established. In fact, medial degeneration is found in only a minority of patients with acute aortic dissection, and most are children.<sup>10</sup> This theory has lost support over the years.
+|| Type A | Туре В| 
+|--|--|--|
+| Frequency| 60-75% | 25-40%|
+| Sex (M:F)| 1.7-2.6:1| 2.3-3:1 |
+| Age (years)| 50-56 | 60-70|
+| Hypertension | + + | + + + |
+| Connective tissue disorder | + + | + |
+| Pain  |||
+| Retrosternal | + + +| +, -|
+| Interscapular | +, - | + + + |
+| Syncope | + + | + - |
+| Cerebrovascular accident   | + | - |
+| Congestive heart failure   | + | - |
+| Aortic valve regurgitation | + + | +, - |
+| Myocardial infarction      | + | - |
+| Pericardial effusion       | +, -| + + + |
+| Pleural effusion           | +, - | +, - |
+| Abdominal pain             | +, - | +, - |
+| Peripheral pulse deficit   | Upper and lower extremities| Lower  extremities |
+</div>
+</details>
 
-Alternatively, there are data supporting a relationship between aortic dissections and intramural hematoma. Advocates of this theory suggest that bleeding from vasa vasorum into the media creates a mass that results in localized areas
+</div>
+</details>
 
-# TABLE 47-1: Clinical Characteristics of Patients Presenting with Acute Type A and B Thoracic Aortic Dissections
+<details class="med-details">
+<summary><span style="font-size:110%">ETIOLOGY AND PATHOGENESIS</span></summary>
+<div class="details-content">
 
-|                            | Type A          | Туре В      |  |  |
-|----------------------------|-----------------|-------------|--|--|
-| T.                         | (0.750)         | 25 /00/     |  |  |
-| Frequency                  | 60-75%          | 25-40%      |  |  |
-| Sex (M:F)                  | 1.7-2.6:1       | 2.3-3:1     |  |  |
-| Age (years)                | 50-56           | 60-70       |  |  |
-| Hypertension               | 4+              | + + +       |  |  |
-| Connective tissue disorder | + +             | +           |  |  |
-| Pain                       |                 |             |  |  |
-| Retrosternal               | + + +           | +, -        |  |  |
-| Interscapular              | +, -            | +++         |  |  |
-| Syncope                    | + +             | + -         |  |  |
-| Cerebrovascular accident   | +               | - 0         |  |  |
-| Congestive heart failure   | +               | _           |  |  |
-| Aortic valve regurgitation | + +             | +, -        |  |  |
-| Myocardial infarction      | +               | _           |  |  |
-| Pericardial effusion       | +, -            | + + +       |  |  |
-| Pleural effusion           | +, -            | +, -        |  |  |
-| Abdominal pain             | +, -            | +, -        |  |  |
-| Peripheral pulse deficit   | Upper and lower | Lower       |  |  |
-|                            | extremities     | extremities |  |  |
+Several hypotheses exist regarding the etiology of the intimal disruption (primary tear) that permits aortic blood flow to create a cleavage plane within the media of the aortic wall. 
 
-of increased stress in the intima during diastole. These areas then permit intimal disruption. In fact, between 10 and 20% of patients thought to have acute aortic dissection are found to have intramural hematoma, suggesting that it may be a precursor to dissection. Penetrating atherosclerotic ulcers have been implicated as the source of intimal disruption in some cases; thus many centers treat penetrating ulcers of the ascending aorta similar to true dissections. Although it may apply to certain patients, enthusiasm for the penetrating ulcer mechanism causing all dissections has waned. The pattern of atherosclerotic involvement of the thoracic aorta resulting in penetrating ulcer and the frequency of dissection throughout the aorta do not support this theory.
 
-Although no single disorder is responsible for aortic dissection, several risk factors have been identified that can damage the aortic wall and lead to dissection (Table 47-2). These include direct mechanical forces on the aortic wall (ie, hypertension, hypervolemia, derangements of aortic flow) and forces that affect the composition of the aortic wall (ie, connective tissue disorders or direct chemical destruction). Hypertension is the mechanical force most often associated with dissection and is found in greater than 75% of cases.8 Although the role of increased strain on the aortic wall is intuitive, the mechanism by which hypertension actually leads to dissection is unclear. Similarly, hypervolemia, high cardiac output, and an abnormal hormonal milieu certainly contribute to the increased incidence of dissection in pregnancy, but the mechanism is unclear. Atherosclerosis is not a risk factor for aortic dissection except in preexisting aneurysms or in the case of atherosclerotic ulceration. Iatrogenic trauma
+<details class="med-details">
+<summary>Cystic medial necrosis</summary>
+<div class="details-content">
+This was originally viewed as a consequence of a biochemical abnormality within the media on which normal mechanical forces in the aorta acted to create an intimal tear. The link between the abnormal media, termed *cystic medial necrosis* or *degeneration*, and the primary tear has not been scientifically established. In fact, medial degeneration is found in only a minority of patients with acute aortic dissection, and most are children. This theory has lost support over the years.
+</div>
+</details>
 
-![](_page_2_Figure_4.jpeg)
+<details class="med-details">
+<summary>Intramural hematoma</summary>
+<div class="details-content">
+Alternatively, there are data supporting a relationship between aortic dissections and intramural hematoma. Advocates of this theory suggest that bleeding from vasa vasorum into the media creates a mass that results in localized areas of increased stress in the intima during diastole. These areas then permit intimal disruption. In fact, between 10 and 20% of patients thought to have acute aortic dissection are found to have intramural hematoma, suggesting that it may be a precursor to dissection. 
+</div>
+</details>
+  
+<details class="med-details">
+<summary>Penetrating atherosclerotic ulcers</summary>
+<div class="details-content">
+Penetrating atherosclerotic ulcers have been implicated as the source of intimal disruption in some cases; thus many centers treat penetrating ulcers of the ascending aorta similar to true dissections. Although it may apply to certain patients, enthusiasm for the penetrating ulcer mechanism causing all dissections has waned. The pattern of atherosclerotic involvement of the thoracic aorta resulting in penetrating ulcer and the frequency of dissection throughout the aorta do not support this theory.
+</div>
+</details>
 
-## TABLE 47-2: Risk Factors for Type A and B Thoracic Aortic Dissection
 
-Hypertension Connective tissue disorders Ehlers-Danlos syndrome Marfan's disease Turner's syndrome Cystic medial disease of aorta Aortitis Iatrogenic Atherosclerosis Thoracic aortic aneurysm Bicuspid aortic valve Trauma Pharmacologic Coarctation of the aorta Hypervolemia (pregnancy) Congenital aortic stenosis Polycystic kidney disease Pheochromocytoma Sheehan's syndrome Cushing's syndrome
+<details class="med-details">
+<summary>Risk factors</summary>
+<div class="details-content">
+<details class="med-details">
+<summary>TABLE 47-2: Risk Factors for Type A and B Thoracic Aortic Dissection</summary>
+<div class="details-content">
 
-to the aortic intima may result in dissection. Catheterization procedures, aortic root and femoral artery cannulation for cardiopulmonary bypass, aortic cross-clamping, surgical procedures performed on the aorta (aortic valve replacement and aortocoronary bypass grafting), and placement of intra-aortic balloon pumps have all been reported to result in dissection. Aortic transection as a result of trauma rarely results in excessive dissection and deserves differentiation from the process of aortic dissection. This process is usually limited to the aortic isthmus and in addition to the risk of rupture may present as a circular prolapse of the intima and media producing aortic obstruction referred to as "pseudocoarctation" (Fig. 47-2).
+||  
+|--|
+|Hypertension|
+|Connective tissue disorders| 
+|Ehlers-Danlos syndrome|
+|Marfan's disease|
+|Turner's syndrome|
+|Cystic medial disease of aorta|
+|Aortitis|
+|Iatrogenic|
+|Atherosclerosis|
+|Thoracic aortic aneurysm|
+|Bicuspid aortic valve|
+|Trauma|
+|Pharmacologic|
+|Coarctation of the aorta|
+|Hypervolemia (pregnancy)|
+|Congenital aortic stenosis|
+|Polycystic kidney disease|
+|Pheochromocytoma|
+|Sheehan's syndrome|
+|Cushing's syndrome|
+</div>
+</details>
 
-Once a cleavage plane exists in the media, the aortic wall floating within the lumen is termed the dissection flap and is composed of the aortic intima and partial-thickness media. The primary tear is usually greater than 50% of the circumference of the aorta. Full aortic circumference is rarely involved, but may carry a worse prognosis. The primary tear in type A dissection is usually located on the right anterior aspect of the ascending aorta and follows a somewhat predictable course, spiraling around the arch and into the descending thoracic and abdominal aorta on the left and posteriorly. The dissection may propagate in a retrograde fashion for a variable distance as well to involve the coronary ostia; this occurs in roughly 11% of all dissections.11 Myocardial ischemia or aortic rupture into the pericardium is the cause of death in as many as 80% of mortalities from acute dissection. Often the distal false lumen communicates with the true lumen through one or more fenestrations within the dissection flap. The false lumen may also end blindly in as many as 4 to 12% of patients, in which case blood in the false lumen frequently thromboses. The false lumen may also penetrate the adventitia, causing rupture and death. Regardless of whether the true and false lumens communicate, perfusion of aortic side branches may be compromised by the dissection,
+Although no single disorder is responsible for aortic dissection, several risk factors have been identified that can damage the aortic wall and lead to dissection (Table 47-2). These include direct mechanical forces on the aortic wall (ie, hypertension, hypervolemia, derangements of aortic flow) and forces that affect the composition of the aortic wall (ie, connective tissue disorders or direct chemical destruction). Hypertension is the mechanical force most often associated with dissection and is found in greater than 75% of cases. Although the role of increased strain on the aortic wall is intuitive, the mechanism by which hypertension actually leads to dissection is unclear. Similarly, hypervolemia, high cardiac output, and an abnormal hormonal milieu certainly contribute to the increased incidence of dissection in pregnancy, but the mechanism is unclear. Atherosclerosis is not a risk factor for aortic dissection except in preexisting aneurysms or in the case of atherosclerotic ulceration. Iatrogenic trauma to the aortic intima may result in dissection. Catheterization procedures, aortic root and femoral artery cannulation for cardiopulmonary bypass, aortic cross-clamping, surgical procedures performed on the aorta (aortic valve replacement and aortocoronary bypass grafting), and placement of intra-aortic balloon pumps have all been reported to result in dissection.
+</div>
+</details>
+ 
 
+<details class="med-details">
+<summary>Aortic transection</summary>
+<div class="details-content">
+Aortic transection as a result of trauma rarely results in excessive dissection and deserves differentiation from the process of aortic dissection. This process is usually limited to the aortic isthmus and in addition to the risk of rupture may present as a circular prolapse of the intima and media producing aortic obstruction referred to as "pseudocoarctation" (Fig. 47-2).
+  
 ![](_page_2_Picture_9.jpeg)
 
 **FIGURE 47-2** Axial image of CT arteriogram showing a nearly circumferential dissection flap (*arrowhead*) as a result of acute traumatic aortic dissection.
+</div>
+</details>
 
+
+Once a cleavage plane exists in the media, the aortic wall floating within the lumen is termed the dissection flap and is composed of the aortic intima and partial-thickness media. The primary tear is usually greater than 50% of the circumference of the aorta. Full aortic circumference is rarely involved, but may carry a worse prognosis. The primary tear in type A dissection is usually located on the right anterior aspect of the ascending aorta and follows a somewhat predictable course, spiraling around the arch and into the descending thoracic and abdominal aorta on the left and posteriorly. The dissection may propagate in a retrograde fashion for a variable distance as well to involve the coronary ostia; this occurs in roughly 11% of all dissections. Myocardial ischemia or aortic rupture into the pericardium is the cause of death in as many as 80% of mortalities from acute dissection. Often the distal false lumen communicates with the true lumen through one or more fenestrations within the dissection flap. The false lumen may also end blindly in as many as 4 to 12% of patients, in which case blood in the false lumen frequently thromboses. The false lumen may also penetrate the adventitia, causing rupture and death. Regardless of whether the true and false lumens communicate, perfusion of aortic side branches may be compromised by the dissection, resulting in end-organ ischemia (Fig. 47-3). If these acute complications are avoided, the weakened outer aortic wall, composed of partial media and the adventitia, may dilate over time, resulting in aneurysm formation. This evolving dilatation is the reason for operation in the majority of chronic dissections regardless of type.
+  
 ![](_page_3_Picture_2.jpeg)
 
 **FIGURE 47-3** Diagram of aortic dissection. (A) An intact dissection membrane compresses the true lumen and causes malperfusion of a branch artery. (B) Rupture of the dissection membrane that may or may not restore blood flow to the branch.
 
-resulting in end-organ ischemia (Fig. 47-3). If these acute complications are avoided, the weakened outer aortic wall, composed of partial media and the adventitia, may dilate over time, resulting in aneurysm formation. This evolving dilatation is the reason for operation in the majority of chronic dissections regardless of type.
+<details class="med-details">
+<summary>Connective tissue disorders</summary>
+<div class="details-content">
+The remaining adventitia provides most of the tensile strength of the aortic wall with minimal contribution from the media. The media is composed of concentrically arranged smooth muscle interposed with connective tissue proteins such as collagen, elastin, and fibrillin within the ground substance. Abnormal constituents of the media, as in certain connective tissue disorders such as Marfan's disease and Ehlers-Danlos syndrome, are associated with aortic dissection. 
+<details class="med-details">
+<summary>Marfan's syndrome</summary>
+<div class="details-content">
+Marfan's syndrome is an autosomal dominant inherited disorder in which a point mutation in the fibrillin-1 gene (FBN1) located on the long arm of chromosome 15 results in an abnormal media. The incidence of Marfan's syndrome is approximately 1 per 5000 live births. There are, however, many incomplete forms of the disease, and as many as 25% may be sporadic in which no known fibrillin abnormalities are observed.
+</div>
+</details>
 
-The remaining adventitia provides most of the tensile strength of the aortic wall with minimal contribution from the media. The media is composed of concentrically arranged smooth muscle interposed with connective tissue proteins such as collagen, elastin, and fibrillin within the ground substance. Abnormal constituents of the media, as in certain connective tissue disorders such as Marfan's disease and Ehlers-Danlos syndrome, are associated with aortic dissection. Marfan's syndrome is an autosomal dominant inherited disorder in which a point mutation in the fibrillin-1 gene (FBN1) located on the long arm of chromosome 15 results in an abnormal media. The incidence of Marfan's syndrome is approximately 1 per 5000 live births.<sup>13</sup> There are, however, many incomplete forms of the disease, and as many as 25% may be sporadic in which no known fibrillin abnormalities are observed. Type IV Ehlers-Danlos syndrome is a connective tissue disorder of the proα1(III) chain of type III collagen with an incidence of 1 in 5000.14 The structurally abnormal media is susceptible to dissection. Of note, there are also familial aggregations of dissection without discernable biochemical or genetic abnormalities.7
+<details class="med-details">
+<summary>Type IV Ehlers-Danlos syndrome</summary>
+<div class="details-content">
+ Type IV Ehlers-Danlos syndrome is a connective tissue disorder of the proα1(III) chain of type III collagen with an incidence of 1 in 5000.14 The structurally abnormal media is susceptible to dissection.
+</div>
+</details>
+ Of note, there are also familial aggregations of dissection without discernable biochemical or genetic abnormalities.
+</div>
+</details>
 
-## **CLINICAL PRESENTATION**
+</div>
+</details>
 
-## Signs and Symptoms
+<details class="med-details">
+<summary><span style="font-size:110%">CLINICAL PRESENTATION</span></summary>
+<div class="details-content">
 
-As many as 40% of patients suffering from acute aortic dissection die immediately. Those surviving the initial event may be stabilized with medical management, and it is these
+<details class="med-details">
+<summary>Signs and Symptoms</summary>
+<div class="details-content">
 
-patients in whom subsequent therapeutic intervention on aortic dissection has altered the natural history of the disease. The clinical outcome is eventually determined by dissection type and timing of presentation, patient-related factors, and the quality and experience of the individuals and institution providing care.
+As many as 40% of patients suffering from acute aortic dissection die immediately. Those surviving the initial event may be stabilized with medical management, and it is these patients in whom subsequent therapeutic intervention on aortic dissection has altered the natural history of the disease. The clinical outcome is eventually determined by dissection type and timing of presentation, patient-related factors, and the quality and experience of the individuals and institution providing care.
 
-The initial evaluation of a stable patient with suspected aortic dissection includes a detailed history and physical examination focusing on those elements likely to rule in the diagnosis. Most importantly, the diagnosis of aortic dissection requires a high level of suspicion. Up to 30% of patients ultimately diagnosed with acute dissection are first thought to have another diagnosis. Aortic dissection should always be considered in the setting of severe, unrelenting chest pain, which is present in most patients. Patients usually have no previous episodes of similar pain, which often causes anxiety. Pain is usually located in the midsternum for ascending aortic dissection, while in the interscapular region for descending thoracic aortic dissection (see Table 47-1). The location of maximum pain tends to change as the dissection extends in an antegrade or retrograde direction. Such "migratory pain" should arouse clinical suspicion. The character of the pain is often described as "ripping" or "tearing." The pain is constant with greatest intensity at the onset. Although painless dissection has been described, it usually occurs in the setting of an existing aneurysm in which the pain of a new dissection may not be differentiated from chronic aneurysm pain. Patients may also present with signs or symptoms related to malperfusion of the brain, limbs, or visceral organs. These findings confuse the true diagnosis, as the obvious signs of ischemia distract the historian from a less apparent initial episode of
+The initial evaluation of a stable patient with suspected aortic dissection includes a detailed history and physical examination focusing on those elements likely to rule in the diagnosis. Most importantly, the diagnosis of aortic dissection requires a high level of suspicion. Up to 30% of patients ultimately diagnosed with acute dissection are first thought to have another diagnosis. 
+<details class="med-details">
+<summary>Chest pain</summary>
+<div class="details-content">
+Aortic dissection should always be considered in the setting of severe, unrelenting chest pain, which is present in most patients. Patients usually have no previous episodes of similar pain, which often causes anxiety. Pain is usually located in the midsternum for ascending aortic dissection, while in the interscapular region for descending thoracic aortic dissection (see Table 47-1). The location of maximum pain tends to change as the dissection extends in an antegrade or retrograde direction. Such "migratory pain" should arouse clinical suspicion. The character of the pain is often described as "ripping" or "tearing." The pain is constant with greatest intensity at the onset. Although painless dissection has been described, it usually occurs in the setting of an existing aneurysm in which the pain of a new dissection may not be differentiated from chronic aneurysm pain. 
+  
+Patients may also present with signs or symptoms related to malperfusion of the brain, limbs, or visceral organs. These findings confuse the true diagnosis, as the obvious signs of ischemia distract the historian from a less apparent initial episode of pain.
+</div>
+</details>
 
-Elements of the past medical history such as primary hypertension, presence of aneurysmal disease of the aorta, or familial connective tissue disorders are useful as risk factors to help establish the diagnosis. Illicit drug use is an increasingly important predisposition to ascertain during the initial evaluation. The differential diagnosis of chest pain as a result of aortic dissection includes diagnoses such as myocardial ischemia, aortic aneurysm, acute aortic regurgitation, pericarditis, musculoskeletal pain, and pulmonary embolus. It is essential to consider aortic dissection in each case, as specific therapy (eg, thrombolytic therapy for acute myocardial infarction) may impact the survivability of acute dissection.
+<details class="med-details">
+<summary>Medical history</summary>
+<div class="details-content">
+Elements of the past medical history such as primary hypertension, presence of aneurysmal disease of the aorta, or familial connective tissue disorders are useful as risk factors to help establish the diagnosis. Illicit drug use is an increasingly important predisposition to ascertain during the initial evaluation. 
+</div>
+</details>
 
+<details class="med-details">
+<summary>The differential diagnosis</summary>
+<div class="details-content">
+The differential diagnosis of chest pain as a result of aortic dissection includes diagnoses such as myocardial ischemia, aortic aneurysm, acute aortic regurgitation, pericarditis, musculoskeletal pain, and pulmonary embolus. It is essential to consider aortic dissection in each case, as specific therapy (eg, thrombolytic therapy for acute myocardial infarction) may impact the survivability of acute dissection.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Physical exam</summary>
+<div class="details-content">
 Patients suffering acute dissection appear ill. Tachycardia is usually accompanied by hypertension in the setting of baseline essential hypertension and increased catecholamine levels from pain and anxiety. Hypotension and tachycardia may result from aortic rupture, pericardial tamponade, acute aortic valve regurgitation, or even acute myocardial ischemia with involvement of the coronary ostia. An abnormal peripheral vascular examination is present in a minority of patients with acute aortic dissection, but when present an abnormal pulse exam may indicate the type of dissection. Absence of pulses in the upper extremity suggests ascending aortic involvement, whereas pulse deficits in the lower extremities speak to involvement of the distal aorta. These findings are subject to change as the dissection progresses or reentry into the true lumen occurs. Auscultation of the heart may reveal a diastolic murmur consistent with acute aortic regurgitation or an S3, indicating left heart volume overload. Physical exam findings such as jugular venous distention and a pulsus paradoxus are signs of pericardial tamponade that should be identified in any unstable patient to initiate the correct diagnostic and treatment algorithms. Unilateral loss of breath sounds, usually the left, may indicate hemothorax as a result of aortic leak or rupture with hemothorax. Alternatively, a pleural effusion may exist secondary to pleural inflammation related to the dissection. This finding requires additional evaluation before treatment.
+</div>
+</details>
 
-A complete central and peripheral neurologic exam is critical in that abnormalities are present in up to 40% of acute type A dissections. Involvement of the brachiocephalic vessels with loss of brain perfusion may result in transient syncope or stroke. Syncope may also result from rupture into the pericardium and is an ominous sign. Stroke rarely
+<details class="med-details">
+<summary>Neurologic exam</summary>
+<div class="details-content">
+A complete central and peripheral neurologic exam is critical in that abnormalities are present in up to 40% of acute type A dissections. 
+<details class="med-details">
+<summary>Transient syncope or stroke</summary>
+<div class="details-content">
+Involvement of the brachiocephalic vessels with loss of brain perfusion may result in transient syncope or stroke. Syncope may also result from rupture into the pericardium and is an ominous sign. Stroke rarely improves with restoration of blood flow and may even cause hemorrhage and brain death, yet surgery is indicated in such patients. Fortunately, stroke is a presenting feature in fewer than 5% of patients with acute type A dissection.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Spinal cord ischemia and paraplegia</summary>
+<div class="details-content">
+Loss of perfusion to intercostals or lumbar arteries may result in spinal cord ischemia and paraplegia. Peripheral nerve ischemia as a result of malperfusion may yield findings similar to spinal cord malperfusion and should be discerned as these patients often improve with restoration of blood flow.
+</div>
+</details>
+ Acute aortic dissection may also cause superior vena cava syndrome, vocal cord paralysis, hematemesis, Horner's syndrome, hemoptysis, and airway compression as a result of local compression and mass effect.
+</div>
+</details>
 
-TABLE 47-3: Frequency and Location of Malperfusion in Acute Type A and B Thoracic Aortic Dissection
+<details class="med-details">
+<summary>Malperfusion of aortic branch vessels</summary>
+<div class="details-content">
+Malperfusion of aortic branch vessels may occur from the coronary ostia to the aortic bifurcation and may dominate the presentation of certain patients. Although autopsy series yield a greater percentage of patients with evidence of malperfusion, clinical series reveal that dissection is not infrequently complicated by malperfusion of at least one organ system (Table 47-3). Compression of the true lumen by the false lumen is the mechanism by which aortic branch vessel occlusion occurs in the majority of cases. Branch vessels may also be completely sheared off the true lumen and perfused to various degrees by the false lumen.
+  
+<details class="med-details">
+<summary>TABLE 47-3: Frequency and Location of Malperfusion in Acute Type A and B Thoracic Aortic Dissection</summary>
+<div class="details-content">
+
 
 | Vascular system               | Frequency (%) |  |  |  |  |
 |-------------------------------|---------------|--|--|--|--|
@@ -108,71 +248,118 @@ TABLE 47-3: Frequency and Location of Malperfusion in Acute Type A and B Thoraci
 | Coronary                      | 5-11          |  |  |  |  |
 | Cerebral                      | 3-13          |  |  |  |  |
 | Spinal                        | 2-9           |  |  |  |  |
+</div>
+</details>
 
-improves with restoration of blood flow and may even cause hemorrhage and brain death, yet surgery is indicated in such patients. Fortunately, stroke is a presenting feature in fewer than 5% of patients with acute type A dissection. Loss of perfusion to intercostals or lumbar arteries may result in spinal cord ischemia and paraplegia. Peripheral nerve ischemia as a result of malperfusion may yield findings similar to spinal cord malperfusion and should be discerned as these patients often improve with restoration of blood flow. Acute aortic dissection may also cause superior vena cava syndrome, vocal cord paralysis, hematemesis, Horner's syndrome, hemoptysis, and airway compression as a result of local compression and mass effect.
+</div>
+</details>
 
-Malperfusion of aortic branch vessels may occur from the coronary ostia to the aortic bifurcation and may dominate the presentation of certain patients. Although autopsy series yield a greater percentage of patients with evidence of malperfusion, clinical series reveal that dissection is not infrequently complicated by malperfusion of at least one organ system (Table 47-3). Compression of the true lumen by the false lumen is the mechanism by which aortic branch vessel occlusion occurs in the majority of cases. Branch vessels may also be completely sheared off the true lumen and perfused to various degrees by the false lumen.
-
+<details class="med-details">
+<summary>Chronic aortic dissection</summary>
+<div class="details-content">
 Chronic aortic dissection is usually asymptomatic. It may be incidentally discovered following an asymptomatic acute dissection, most often in patients with a preexisting aortic aneurysm. Some patients eventually require surgical treatment for chronic dissection and most do so as a result of aneurysmal dilatation of a chronically dissected aortic segment. Presenting complaints often include intermittent, dull chest pain, or even severe skeletal pain from erosion into the bony thorax with large or rapidly expanding aneurysms. Aortic insufficiency may develop with chronic type A dissection and present with typical features of congestive failure, including fatigue, dyspnea, and mild, dull chest pain. Infrequently, chronic dissection may result in paralysis/paraplegia from loss of vital intercostal arteries or even distal embolization of thrombus or atheroma from the false lumen. Malperfusion syndrome is an uncommon presentation for patients with chronic dissection given the likelihood that the true and false lumens communicate.
+</div>
+</details>
 
-## **Diagnostic Studies**
+</div>
+</details>
 
-Routine diagnostic studies including blood tests, chest x-ray, and electrocardiogram (ECG) should be obtained, but are often not sufficient to establish the diagnosis of acute aortic dissection. ECG often reveals no ischemic changes. Obvious ischemic changes are present in up to 20% of acute type A dissections, whereas only nonspecific repolarization abnormalities are present in nearly one-third of patients with coronary ostial involvement. The ECG may also reveal left ventricular hypertrophy in those patients with long-standing hypertension. The chest x-ray is abnormal in 60 to 90% of patients with acute dissection (Fig. 47-4). Although most patients have at least one, if not several abnormal findings,
+<details class="med-details">
+<summary>Diagnostic Studies</summary>
+<div class="details-content">
 
+Routine diagnostic studies including blood tests, chest x-ray, and electrocardiogram (ECG) should be obtained, but are often not sufficient to establish the diagnosis of acute aortic dissection. 
+<details class="med-details">
+<summary>ECG</summary>
+<div class="details-content">
+ECG often reveals no ischemic changes. Obvious ischemic changes are present in up to 20% of acute type A dissections, whereas only nonspecific repolarization abnormalities are present in nearly one-third of patients with coronary ostial involvement. The ECG may also reveal left ventricular hypertrophy in those patients with long-standing hypertension.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Chest x-ray</summary>
+<div class="details-content">
+The chest x-ray is abnormal in 60 to 90% of patients with acute dissection (Fig. 47-4). Although most patients have at least one, if not several abnormal findings, a normal chest x-ray does not rule out the diagnosis.
+  
 ![](_page_5_Picture_2.jpeg)
 
 **FIGURE 47-4** Plain chest x-ray exhibiting many features of acute type A dissection, such as a widened mediastinum, rightward tracheal displacement, irregular aortic contour with loss of the aortic knob, an indistinct aortopulmonary window, and a left pleural effusion.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Blood</summary>
+<div class="details-content">
+Blood should be drawn and sent for complete blood count, serum and electrolytes, creatine kinase with myocardial isoenzymes, troponin, and blood type and screen. These tests obtained at the time of initial observation are usually unremarkable. There is frequently a mild to moderate leukocytosis. Anemia may result from sequestration of blood or hemolysis. Liver function tests, serum creatinine, myoglobin, and lactic acid may all be abnormal in the setting of certain malperfusion syndromes.
+</div>
+</details>
 
-a normal chest x-ray does not rule out the diagnosis. Blood should be drawn and sent for complete blood count, serum and electrolytes, creatine kinase with myocardial isoenzymes, troponin, and blood type and screen. These tests obtained at the time of initial observation are usually unremarkable. There is frequently a mild to moderate leukocytosis. Anemia may result from sequestration of blood or hemolysis. Liver function tests, serum creatinine, myoglobin, and lactic acid may all be abnormal in the setting of certain malperfusion syndromes.
+</div>
+</details>
 
-## Diagnostic Imaging
+<details class="med-details">
+<summary>Diagnostic Imaging</summary>
+<div class="details-content">
 
-Diagnostic imaging is essential to clarify the anatomy of an acute aortic dissection, regardless of clinical certainty of diagnosis or the acuity of the patient. The diagnosis should be made rapidly with minimal distress for the patient. Two imaging modalities currently meet these criteria and are used to diagnose acute aortic dissection: computed tomography (CT) and echocardiography. Magnetic resonance imaging (MRI) and aortography, with or without intravascular ultrasound (IVUS), are used to diagnose acute aortic dissection but are second-line modalities for various reasons. The benefits, disadvantages, and diagnostic accuracy of each are useful when choosing the most appropriate study for a particular clinical situation (Table 47-4). Each test provides disruption, reentry points, whether there is flow or thrombus in the false lumen, status of the aortic valve, the presence and nature of myocardial ischemia, and brachiocephalic and aortic branch vessel involvement. Specific data may be necessary for operative planning and subsequent management to define the imaging study most appropriate for a particular patient. In a recent review, an average of 1.8 imaging studies was used to diagnose correctly acute aortic dissection.9
-
-Helical CT scanning is widely available and is now the most frequently used test to diagnose acute aortic dissection. It requires intravenous contrast medium that may limit its
-
-![](_page_5_Picture_8.jpeg)
+Diagnostic imaging is essential to clarify the anatomy of an acute aortic dissection, regardless of clinical certainty of diagnosis or the acuity of the patient. The diagnosis should be made rapidly with minimal distress for the patient. Two imaging modalities currently meet these criteria and are used to diagnose acute aortic dissection: computed tomography (CT) and echocardiography. Magnetic resonance imaging (MRI) and aortography, with or without intravascular ultrasound (IVUS), are used to diagnose acute aortic dissection but are second-line modalities for various reasons. The benefits, disadvantages, and diagnostic accuracy of each are useful when choosing the most appropriate study for a particular clinical situation (Table 47-4). Each test provides disruption, reentry points, whether there is flow or thrombus in the false lumen, status of the aortic valve, the presence and nature of myocardial ischemia, and brachiocephalic and aortic branch vessel involvement. Specific data may be necessary for operative planning and subsequent management to define the imaging study most appropriate for a particular patient. In a recent review, an average of 1.8 imaging studies was used to diagnose correctly acute aortic dissection.
+  
+<details class="med-details">
+<summary>TABLE 47-4: Sensitivity and Specificity of Various Imaging Modalities Useful for the
+Diagnosis of Thoracic Aortic Dissection</summary>
+<div class="details-content">
 
 | Imaging study               | Sensitivity (%) | Specificity (%) |  |  |
 |-----------------------------|-----------------|-----------------|--|--|
-| 70,                         |                 | 70,             |  |  |
 | Aortography                 | 80-90           | 88-93           |  |  |
 | Computed tomography         | 90-100          | 90-100          |  |  |
-| Intravascular<br>ultrasound | 94-100          | 97-100          |  |  |
+| Intravascular ultrasound | 94-100          | 97-100          |  |  |
 | Echocardiography            |                 |                 |  |  |
 | Transthoracic               | 60-80           | 80-96           |  |  |
 | Transesophageal             | 90-99           | 85-98           |  |  |
 | Magnetic resonance          | 98-100          | 98-100          |  |  |
 | imaging                     |                 |                 |  |  |
+</div>
+</details>
 
-use in certain clinical situations but generates images familiar to most practitioners and has a high sensitivity and specificity. This technique can be performed quickly, fulfilling the requirements for use in the early management of acute dissection. Additional structures such as the pleural and pericardial spaces are imaged. When performed and formatted as an arteriogram, aortic branch vessels may also be evaluated: Involvement of the brachiocephalic vessels is identified with nearly 96% accuracy. The diagnosis of dissection requires two or more channels separated by a dissection flap (Fig. 47-5). For operative planning, a CT scan with arterial phase contrast of the chest, abdomen, and pelvis to the level of the femoral arteries is ideal. Transaxial two-dimensional images can be reconstructed to display three-dimensional images of the aorta that not only aid in diagnosis but also are useful for operative planning.
 
-Transesophageal echocardiography (TEE) is currently the second most frequently used study for making the diagnosis of
-
+<details class="med-details">
+<summary>CT</summary>
+<div class="details-content">
+Helical CT scanning is widely available and is now the most frequently used test to diagnose acute aortic dissection. It requires intravenous contrast medium that may limit its use in certain clinical situations but generates images familiar to most practitioners and has a high sensitivity and specificity. This technique can be performed quickly, fulfilling the requirements for use in the early management of acute dissection. Additional structures such as the pleural and pericardial spaces are imaged. When performed and formatted as an arteriogram, aortic branch vessels may also be evaluated: Involvement of the brachiocephalic vessels is identified with nearly 96% accuracy. The diagnosis of dissection requires two or more channels separated by a dissection flap (Fig. 47-5). For operative planning, a CT scan with arterial phase contrast of the chest, abdomen, and pelvis to the level of the femoral arteries is ideal. Transaxial two-dimensional images can be reconstructed to display three-dimensional images of the aorta that not only aid in diagnosis but also are useful for operative planning.
+  
 ![](_page_5_Picture_12.jpeg)
 
 **FIGURE 47-5** Axial image of CT arteriogram of acute type A dissection showing a dissection flap in the mid-ascending aorta.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Transesophageal echocardiography</summary>
+<div class="details-content">
+Transesophageal echocardiography (TEE) is currently the second most frequently used study for making the diagnosis of acute aortic dissection. It is widely available, requires no intravenous contrast or radiation, and generates dynamic images of the aorta from which the diagnosis can be made (Fig. 47-6). It requires operator expertise both to acquire the necessary images and to conduct the examination safely. Although the safest setting in which to perform TEE is the operating room under general anesthesia, it can be performed in a monitored setting using topical anesthesia and light sedation. Patient comfort is paramount in this situation as rupture has been reported during difficult studies and a complete examination of the entire aorta is necessary to exclude the diagnosis of acute dissection. Absolute contraindications to TEE include esophageal abnormalities such as varices, stricture, or tumor. A full stomach or recent meal is a relative contraindication, but recognition of these conditions permits safe examination with few complications in the vast majority of patients. Criteria for making the diagnosis of acute aortic dissection include visualization of an echogenic surface separating two distinct lumens, repeatedly, in more than one view, and that can be differentiated from normal surrounding cardiac structures. The true lumen is identified by expansion during systole and collapse during diastole. Communication of the false lumen is found by identifying distal tears in the flap and flow in the false lumen with the addition of color Doppler. Similarly, the absence of flow indicates false lumen thrombosis. TEE additionally may provide high-quality images of the aortic valve and pericardial space. The coronary ostia are directly evaluated and regional left ventricular function may be assessed to identify myocardial ischemia indirectly. Color flow Doppler reliably quantifies aortic regurgitation and may be used to assess for additional valvular abnormalities. The pericardium and pleural space are also visualized and therefore effusions may be identified.
+  
 ![](_page_6_Picture_2.jpeg)
 
 **FIGURE 47-6** Transesophageal echocardiogram showing the dissection membrane (*arrowheads*) in the short (*left panel*) and long (*right panel*) views of a type A dissection.
+</div>
+</details>
 
-acute aortic dissection. It is widely available, requires no intravenous contrast or radiation, and generates dynamic images of the aorta from which the diagnosis can be made (Fig. 47-6). It requires operator expertise both to acquire the necessary images and to conduct the examination safely. Although the safest setting in which to perform TEE is the operating room under general anesthesia, it can be performed in a monitored setting using topical anesthesia and light sedation. Patient comfort is paramount in this situation as rupture has been reported during difficult studies and a complete examination of the entire aorta is necessary to exclude the diagnosis of acute dissection. Absolute contraindications to TEE include esophageal abnormalities such as varices, stricture, or tumor. A full stomach or recent meal is a relative contraindication, but recognition of these conditions permits safe examination with few complications in the vast majority of patients. Criteria for making the diagnosis of acute aortic dissection include visualization of an echogenic surface separating two distinct lumens, repeatedly, in more than one view, and that can be differentiated from normal surrounding cardiac structures. The true lumen is identified by expansion during systole and collapse during diastole. Communication of the false lumen is found by identifying distal tears in the flap and flow in the false lumen with the addition of color Doppler. Similarly, the absence of flow indicates false lumen thrombosis. TEE additionally may provide high-quality images of the aortic valve and pericardial space. The coronary ostia are directly evaluated and regional left ventricular function may be assessed to identify myocardial ischemia indirectly. Color flow Doppler reliably quantifies aortic regurgitation and may be used to assess for additional valvular abnormalities. The pericardium and pleural space are also visualized and therefore effusions may be identified.
+<details class="med-details">
+<summary>Transthoracic echocardiography</summary>
+<div class="details-content">
+Transthoracic echocardiography (TTE) provides images of the ascending aorta and sections of the aortic arch that may yield the diagnosis but with much less sensitivity than transesophageal imaging. As such, transthoracic imaging may prove useful but is generally insufficient to establish reliably the diagnosis. Transthoracic evaluation is additionally limited by patient-related factors including body habitus, emphysema, and mechanical ventilation. A negative transthoracic study should be complemented by a transesophageal study, which provides greater detail of the entire aorta.
+</div>
+</details>
 
-Transthoracic echocardiography (TTE) provides images of the ascending aorta and sections of the aortic arch that may yield the diagnosis but with much less sensitivity than transesophageal imaging. As such, transthoracic imaging may prove useful but is generally insufficient to establish reliably the diagnosis. Transthoracic evaluation is additionally limited by patient-related factors including body habitus,
-
-emphysema, and mechanical ventilation. A negative transthoracic study should be complemented by a transesophageal study, which provides greater detail of the entire aorta.
-
-Aortography was the first study used to diagnose acute dissection in 1939 and until recently was considered the gold standard for diagnosis. It is an invasive test requiring nephrotoxic contrast media in which the aorta is visualized in multiple two-dimensional projections. The diagnosis of dissection depends on visualization of the intimal flap, two distinct lumens, or compression of the true lumen by flow through an adjacent false lumen (Fig. 47-7). Indirect signs of
-
+<details class="med-details">
+<summary>Aortography</summary>
+<div class="details-content">
+Aortography was the first study used to diagnose acute dissection in 1939 and until recently was considered the gold standard for diagnosis. It is an invasive test requiring nephrotoxic contrast media in which the aorta is visualized in multiple two-dimensional projections. The diagnosis of dissection depends on visualization of the intimal flap, two distinct lumens, or compression of the true lumen by flow through an adjacent false lumen (Fig. 47-7). Indirect signs of dissection include the presence of branch vessel abnormalities and abnormal intimal contour on injection of the false lumen. The status of the aortic valve may be evaluated and coronary angiography in the setting of type A dissections is possible only with this diagnostic test. However, coronary angiography is not recommended given that the coronary ostia are involved in 10 to 20% of acute type A dissections and are easily evaluated at the time of surgery. Coronary atherosclerosis is present in 25% of all patients with acute aortic dissection, but even in those patients repair of the dissection should take precedence. Aortography is sometimes useful in acute type B dissections with evidence of mesenteric ischemia or oliguria and in type A dissections with signs of malperfusion because catheter-based intervention may be possible. Aortography can have a high false-negative rate secondary to thrombosis of one lumen or when contrast equally opacifies each lumen, impairing distinction of a separate true and false lumen. The diagnosis of intramural hematoma may also be difficult given the absence of intimal disruption, whereas penetrating atherosclerotic ulcer is usually easily visualized. Visualization of the dissection variants is best accomplished with either CT scanning or MRI (Figs. 47-8 and 47-9). One major limitation to the use of aortography in the acute setting is the need for skilled personnel. The time required to assemble this team varies with each institution, rendering aortography less useful when compared with other immediately available diagnostic tests. Aortography also requires arterial access, which can be painful and precipitate rupture or dissection extension.
+  
 ![](_page_6_Picture_8.jpeg)
 
 **FIGURE 47-7** Aortogram of acute type B dissection illustrating differential contrast enhancement of the true and false lumens in the descending thoracic aorta. The intimal flap (*arrowhead*) can be seen separating the two lumens.
-
-dissection include the presence of branch vessel abnormalities and abnormal intimal contour on injection of the false lumen. The status of the aortic valve may be evaluated and coronary angiography in the setting of type A dissections is possible only with this diagnostic test. However, coronary angiography is not recommended given that the coronary ostia are involved in 10 to 20% of acute type A dissections and are easily evaluated at the time of surgery. Coronary atherosclerosis is present in 25% of all patients with acute aortic dissection, but even in those patients repair of the dissection should take precedence. Aortography is sometimes useful in acute type B dissections with evidence of mesenteric ischemia or oliguria and in type A dissections with signs of malperfusion because catheter-based intervention may be possible. Aortography can have a high false-negative rate secondary to thrombosis of one lumen or when contrast equally opacifies each lumen, impairing distinction of a separate true and false lumen.<sup>9</sup> The diagnosis of intramural hematoma may also be difficult given the absence of intimal disruption, whereas penetrating atherosclerotic ulcer is usually easily visualized. Visualization of the dissection variants is best accomplished with either CT scanning or MRI (Figs. 47-8 and 47-9). One major limitation to the use of aortography in the acute setting is the need for skilled personnel. The time required to assemble this team varies with each institution, rendering aortography less useful when compared with other immediately available diagnostic tests. Aortography also requires arterial access, which can be painful and precipitate rupture or dissection extension.
-
-IVUS is a catheter-based imaging tool that provides dynamic imaging of the aortic wall and an intimal flap in patients with aortic dissection. It is particularly useful in delineating the proximal and distal extent of dissection and
-
+  
 ![](_page_7_Picture_4.jpeg)
 
 **FIGURE 47-8** Axial image from a CT arteriogram showing an intramural hematoma of the descending thoracic aorta (*arrowhead*).
@@ -180,20 +367,37 @@ IVUS is a catheter-based imaging tool that provides dynamic imaging of the aorti
 ![](_page_7_Picture_6.jpeg)
 
 **FIGURE 47-9** Sagittal contrast-enhanced MRI of penetrating atherosclerotic ulcer of the ascending aorta (*arrowhead*).
+</div>
+</details>
 
-for identifying the true and false lumens in questionable cases during aortography. High-resolution images of the normal three-layered aortic wall are differentiated to identify the abnormally thin wall adjacent to the false lumen. Because the aortic wall itself is imaged, intramural hematoma and penetrating atherosclerotic ulcers may also be identified. Currently, as an isolated imaging study, it is time consuming and requires skilled personnel, as with aortography, and generally is not useful as an initial study in the acute setting. It may be most useful in combination with aortography when the initial imaging studies are negative, yet there remains a high clinical suspicion of dissection.
+<details class="med-details">
+<summary>IVUS</summary>
+<div class="details-content">
+IVUS is a catheter-based imaging tool that provides dynamic imaging of the aortic wall and an intimal flap in patients with aortic dissection. It is particularly useful in delineating the proximal and distal extent of dissection and for identifying the true and false lumens in questionable cases during aortography. High-resolution images of the normal three-layered aortic wall are differentiated to identify the abnormally thin wall adjacent to the false lumen. Because the aortic wall itself is imaged, intramural hematoma and penetrating atherosclerotic ulcers may also be identified. Currently, as an isolated imaging study, it is time consuming and requires skilled personnel, as with aortography, and generally is not useful as an initial study in the acute setting. It may be most useful in combination with aortography when the initial imaging studies are negative, yet there remains a high clinical suspicion of dissection.
+</div>
+</details>
 
+<details class="med-details">
+<summary>MRI</summary>
+<div class="details-content">
 MRI and the newer contrast-enhanced magnetic resonance angiography (MRA) generate superior images reliably demonstrating aortic dissection (Fig. 47-10). MRI/MRA offers detailed anatomy as CT does but does not require radiation. Moreover, MRI may be particularly useful in pregnant patients. Dissection is identified as an intraluminal membrane separating two or more channels (Fig. 47-11). MRI provides detailed images of the entire aorta, the pericardium, and pleural spaces similar to those obtained with CT. Cine imaging may also be used to evaluate left ventricular function, the status of the aortic valve, and flow in aortic branch vessels as well as flow in the false lumen. It is, however, not widely available and the presence of ferromagnetic metal contraindicates its use. Another disadvantage of MRI is that artifact is identified in up to 64% of studies, which underscores the need for expert radiologic interpretation of the images. These factors account for its infrequent use in the acute setting.
 
 ![](_page_8_Picture_2.jpeg)
 
 **FIGURE 47-10** Sagittal contrast-enhanced MRI of a chronic type B dissection. The dissection flap (*arrowhead*) is clearly identified and the false lumen appears to extend the entire length of the thoracic and abdominal aorta (*darker posterior lumen*).
+</div>
+</details>
 
-## Diagnostic Strategy
+</div>
+</details>
+
+<details class="med-details">
+<summary>Diagnostic Strategy</summary>
+<div class="details-content">
 
 The evaluation of suspected acute aortic dissection begins with a determination of the clinical likelihood that the diagnosis is correct and an evaluation of the hemodynamic stability of the patient. The unstable patient with a high suspicion for acute aortic dissection should be transferred immediately to the operating room. Medical management may be initiated as soon as the diagnosis is suspected. It is our practice to intubate and mechanically ventilate such patients while essential monitoring lines are placed. A TEE is then performed. If TEE fails to reveal acute aortic dissection, a hemodynamically unstable patient will then have a protected airway and invasive monitoring lines for subsequent evaluation of alternative diagnoses and continued resuscitation. If acute dissection is suspected despite a negative TEE, CT arteriogram (CTA) or aortography (potentially with IVUS) is the next study of choice.
 
-Clinically stable patients permit a more detailed history and physical examination with imaging decisions tailored to specific aspects of the presentation. At the University of Virginia, all stable patients with a suspected dissection are evaluated with a CTA, as this study is definitive and provides valuable anatomic information for procedural planning. If dissection is identified on other studies, such
+Clinically stable patients permit a more detailed history and physical examination with imaging decisions tailored to specific aspects of the presentation. At the University of Virginia, all stable patients with a suspected dissection are evaluated with a CTA, as this study is definitive and provides valuable anatomic information for procedural planning. If dissection is identified on other studies, such as a TTE, our preference is to obtain a CTA of the chest, abdomen, and pelvis provided the patient is stable prior to proceeding to the operating room. Detailed anatomic information from CTA is valuable for operative planning and postoperative management, especially in cases with abdominal malperfusion.
 
 ![](_page_8_Picture_7.jpeg)
 
@@ -201,126 +405,302 @@ Clinically stable patients permit a more detailed history and physical examinati
 
 **FIGURE 47-11** Axial (A) and sagittal (B) contrast-enhanced MRI of a chronic type A dissection.
 
-as a TTE, our preference is to obtain a CTA of the chest, abdomen, and pelvis provided the patient is stable prior to proceeding to the operating room. Detailed anatomic information from CTA is valuable for operative planning and postoperative management, especially in cases with abdominal malperfusion.
-
 Diagnostic imaging of chronic aortic dissection is usually performed for surveillance, but may also be necessary in patients with symptoms attributable to dissection and for operative planning. Routine follow-up for acute dissection occurs on a scheduled basis and is usually done with either CT or MRI. We prefer CT scanning for patients with normal renal function and no contrast allergy because CT is usually the original imaging study obtained during the acute dissection. The improved accuracy that comes with comparing similar studies combined with the availability, cost, and patient satisfaction makes CT favorable for this purpose. MRI is used mostly as a follow-up study for patients with renal insufficiency, but is the study of choice to provide precise anatomical detail for operative planning. TTE is useful to follow chronic type A dissection when there is aortic insufficiency. It can provide cross-sectional images of the ascending aorta, but generating images useful for comparison to previous studies is highly dependent on the skill of the operator. For that reason, we use echocardiography to follow patients with aortic insufficiency but also obtain a CT scan to assess ascending aortic diameter. Aortography is used primarily for operative planning. Patients older than 50 years and those with risk factors for coronary artery disease routinely undergo coronary arteriography before operation, and images of the aorta are obtained at that time. Aortography is especially useful to determine the origin of aortic branch vessels for operative planning when noninvasive imaging is inadequate (Fig. 47-12).
-
-## MANAGEMENT OF ACUTE TYPE A AORTIC DISSECTION
-
-## **Natural History**
-
-Acute type A aortic dissection is impressively morbid. Fifty percent of patients suffering acute type A aortic dissection are dead within 48 hours if untreated. Data such as these suggest that acute type A dissection carries a "1% per hour" mortality for missed diagnoses. More contemporary data reveal a different prognosis such that medical management may be considered in certain high-risk groups. In one such study in octogenarians, type A dissection was managed medically in 28% of patients for various reasons with a 58% in-hospital mortality. Regardless, because of the extreme mortality with medical management, patients surviving acute type A aortic dissections must be aggressively diagnosed and treated with surgical intervention.
-
-## Initial Medical Management
-
-The high morbidity of acute type A aortic dissection dictates that management should precede confirmation of diagnosis in highly suspicious cases. The initial patient encounter centers on making the diagnosis while identifying factors that require immediate treatment. The site of this initial evaluation and resuscitation is determined primarily by the hemodynamic stability of the patient. The unstable patient belongs in the operating room, whereas a more detailed diagnostic approach and subsequent management can be undertaken in stable patients. Therefore, the hypotensive patient, whether from hemorrhagic shock or tamponade, requires the aforementioned evaluation and resuscitation on transfer to the operating room. It is preferable to avoid procedures such as TEE
-
+  
 ![](_page_9_Picture_9.jpeg)
 
 ![](_page_9_Picture_10.jpeg)
 
 **FIGURE 47-12** Coronal view of contrast-enhanced MRI (A) demonstrating chronic type B dissection with renal arteries (*arrowheads*) separated by the dissection flap (*arrow*). Aortogram (B) of the same patient revealing that each renal artery is perfused exclusively by either the true or false lumen. Such tests are often complementary and may influence surgical strategy.
+</div>
+</details>
 
-or central line placement on an awaken patient outside the operating room because hypertension resulting from patient discomfort may precipitate aortic rupture or propagation of dissection. However, as in any patient with potential aortic rupture, anesthetic induction remains dangerous in patients compensating for impaired preload, whether from pericardial fluid or hypovolemia. The operating room must be prepared for prompt decompressive pericardiotomy and/or initiation of cardiopulmonary bypass.
+</div>
+</details>
 
-In the hemodynamically stable patient, blood pressure is measured in both arms and both legs. These dissections can propagate in either direction, but proximal propagation can quickly destabilize the situation. In general, the goals of hypertension management in acute aortic dissection, regardless of anatomy, are twofold.<sup>4</sup> First, transmural aortic wall stress is diminished by decreasing the systolic blood pressure, which reduces the possibility of rupture. Second, shear stress on the aorta is decreased by minimizing the rate of rise of aortic pressure to decrease the likelihood of dissection propagation, so-called anti-impulse therapy. Specifically, the immediate goal for this situation remains to achieve a target systolic blood pressure between 90 and 110 mm Hg with a target heart rate of less than 60 beats per minute.
+<details class="med-details">
+<summary><span style="font-size:110%">MANAGEMENT OF ACUTE TYPE A AORTIC DISSECTION</span></summary>
+<div class="details-content">
 
-Pain control is important to reduce catecholamine release and decrease the risk of rupture. Therefore, therapy begins with pain control using narcotic analgesics. The drugs most commonly used for anti-impulse therapy are beta-blockers and peripheral vasodilators. In most cases, beta-blockers such as esmolol should be used first because adequate heart rate control may be difficult if the blood pressure is controlled by peripheral vasodilators first and because vasodilators may increase ventricular ejection and aortic shear stress if used unopposed. Short-acting beta-blockers should be titrated to a heart rate less than 60 beats per minute. After beta-blocker treatment has been initiated, vasodilators such as sodium nitroprusside are used for further blood pressure control. Sodium nitroprusside is a direct arterial vasodilator with a short onset and duration of action, which makes it ideal to achieve rapidly the target systolic blood pressure. Loading doses for esmolol and sodium nitroprusside should be avoided to prevent hypotension. Alternative beta-1 blocking drugs such as propranolol or metoprolol, and the combined alpha- and beta-blocker labetalol are appropriate in the subacute phase. Calcium channel blockers may be necessary to reduce systolic blood pressure in those patients with a contraindication to beta-blocker use. A commonly used alternative to nitroprusside is nicardipine. This is also a calcium channelblocker devoid of any cardiac effects which is easily titrated to a goal blood pressure.
+<details class="med-details">
+<summary>Natural History</summary>
+<div class="details-content">
 
-## **Operative Indications**
+Acute type A aortic dissection is impressively morbid. Fifty percent of patients suffering acute type A aortic dissection are dead within 48 hours if untreated. Data such as these suggest that acute type A dissection carries a "1% per hour" mortality for missed diagnoses. More contemporary data reveal a different prognosis such that medical management may be considered in certain high-risk groups. In one such study in octogenarians, type A dissection was managed medically in 28% of patients for various reasons with a 58% in-hospital mortality. Regardless, because of the extreme mortality with medical management, patients surviving acute type A aortic dissections must be aggressively diagnosed and treated with surgical intervention.
+</div>
+</details>
 
-The goals of surgery in acute type A dissection are to prevent or treat an aortic catastrophe while restoring blood flow to the true lumen of the aorta. Aortic catastrophe includes aortic rupture into the pericardium or pleural space, dissection and occlusion of the coronary ostia, and progression
+<details class="med-details">
+<summary>Initial Medical Management</summary>
+<div class="details-content">
 
-![](_page_10_Figure_7.jpeg)
+The high morbidity of acute type A aortic dissection dictates that management should precede confirmation of diagnosis in highly suspicious cases. The initial patient encounter centers on making the diagnosis while identifying factors that require immediate treatment. The site of this initial evaluation and resuscitation is determined primarily by the hemodynamic stability of the patient. The unstable patient belongs in the operating room, whereas a more detailed diagnostic approach and subsequent management can be undertaken in stable patients. Therefore, the hypotensive patient, whether from hemorrhagic shock or tamponade, requires the aforementioned evaluation and resuscitation on transfer to the operating room. It is preferable to avoid procedures such as TEE or central line placement on an awaken patient outside the operating room because hypertension resulting from patient discomfort may precipitate aortic rupture or propagation of dissection. However, as in any patient with potential aortic rupture, anesthetic induction remains dangerous in patients compensating for impaired preload, whether from pericardial fluid or hypovolemia. The operating room must be prepared for prompt decompressive pericardiotomy and/or initiation of cardiopulmonary bypass.
 
+In the hemodynamically stable patient, blood pressure is measured in both arms and both legs. These dissections can propagate in either direction, but proximal propagation can quickly destabilize the situation. In general, the goals of hypertension management in acute aortic dissection, regardless of anatomy, are twofold. First, transmural aortic wall stress is diminished by decreasing the systolic blood pressure, which reduces the possibility of rupture. Second, shear stress on the aorta is decreased by minimizing the rate of rise of aortic pressure to decrease the likelihood of dissection propagation, so-called <strong>anti-impulse therapy</strong>. Specifically, the immediate goal for this situation remains to achieve a target systolic blood pressure between 90 and 110 mm Hg with a target heart rate of less than 60 beats per minute.
+
+Pain control is important to reduce catecholamine release and decrease the risk of rupture. Therefore, therapy begins with pain control using <strong>narcotic analgesics</strong>. The drugs most commonly used for anti-impulse therapy are <strong>beta-blockers</strong> and <strong>peripheral vasodilators</strong>. In most cases, beta-blockers such as esmolol should be used first because adequate heart rate control may be difficult if the blood pressure is controlled by peripheral vasodilators first and because vasodilators may increase ventricular ejection and aortic shear stress if used unopposed. Short-acting beta-blockers should be titrated to a heart rate less than 60 beats per minute. After beta-blocker treatment has been initiated, vasodilators such as sodium nitroprusside are used for further blood pressure control. Sodium nitroprusside is a direct arterial vasodilator with a short onset and duration of action, which makes it ideal to achieve rapidly the target systolic blood pressure. Loading doses for esmolol and sodium nitroprusside should be avoided to prevent hypotension. Alternative beta-1 blocking drugs such as propranolol or metoprolol, and the combined alpha- and beta-blocker labetalol are appropriate in the subacute phase. <strong>Calcium channel blockers</strong> may be necessary to reduce systolic blood pressure in those patients with a contraindication to beta-blocker use. A commonly used alternative to nitroprusside is nicardipine. This is also a calcium channel blocker devoid of any cardiac effects which is easily titrated to a goal blood pressure.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Operative Indications</summary>
+<div class="details-content">
+
+<details class="med-details">
+<summary>TABLE 47-5: Operative Indications for Acute and Chronic Type A and B Thoracic Aortic Dissection</summary>
+<div class="details-content">
 TABLE 47-5: Operative Indications for Acute and Chronic Type A and B Thoracic Aortic Dissection
 
-| ъ.    |        |
-|-------|--------|
-| Disse | ection |
-|       |        |
+| Disseection type |Operative indication |
+|--|--|
+|<strong>Acute</strong>||
+|Type A| Presence| 
+|Type B|Failure of medical management (persistent or recurrent pain, medically uncontrolled hypertension)|
+||Expanding aortic diameter|
+|| Progressive dissection|
+||Impending or actual rupture|
+||Malperfusion|
+|<strong>Chronic</strong>| Impending or actual rupture|
+||Symptoms related to dissection (congestive heart failure, angina, aortic regurgitation, stroke, pain)|
+||Malperfusion|
+||Aneurysm  > 5.5 cm (type A),  > 6.5 cm (type B)|
+||Aortic expansion > 1 cm/year|
+</div>
+</details>
+  
+ 
+<details class="med-details">
+<summary>Goals of surgery</summary>
+<div class="details-content">
+ The goals of surgery in acute type A dissection are to prevent or treat an aortic catastrophe while restoring blood flow to the true lumen of the aorta. Aortic catastrophe includes aortic rupture into the pericardium or pleural space, dissection and occlusion of the coronary ostia, and progression to aortic valvular incompetence. The presence of ascending aortic involvement is therefore an indication for operative management in all but the highest-risk patients (Table 47-5). 
+</div>
+</details>
 
-type Operative indication
+<details class="med-details">
+<summary>Risk factors</summary>
+<div class="details-content">
+The difficulty arises in determining which patients are at high risk and which additional factors should affect the management algorithm. 
+<details class="med-details">
+<summary>Age</summary>
+<div class="details-content">
+Patient age, for example, is not regarded as an absolute contraindication to surgery. However, this factor should be considered given the relative worse outcomes of operative treatment for acute type A dissection for patients greater than 80 years of age.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Neurologic status</summary>
+<div class="details-content">
+Neurologic status at the time of presentation can also affect the decision to operate. Although most agree that obtunded or comatose patients are unlikely to improve with surgical repair, complications such as stroke or paraplegia at the time of presentation are not contraindications to surgical correction. It must be acknowledged that dissection repair will most likely not improve neurologic condition, and may even make it worse. Neither the distal extent nor the thrombosis of the false lumen obviates the need for surgical repair because the risk of developing an aortic catastrophe remains. Similarly, patients with subacute type A dissection who present or are referred after 2 weeks of dissection onset require operation. Scholl et al demonstrated that these patients have avoided the early complications of dissection and may safely undergo elective operation rather than emergency repair.
+</div>
+</details>
 
-Acute
+</div>
+</details>
 
-Type A Presence
+<details class="med-details">
+<summary>Surgical considerations</summary>
+<div class="details-content">
+  
+Important surgical considerations for Type A aortic dissection include 
+  - extent of aortic repair
+  - establishment of cardiopulmonary bypass       
+  - temperature management
+  - cerebral protection
+  - myocardial protection
+  - management of aortic insufficiency and end-organ perfusion during and after completion of surgery. 
+  Technical considerations for establishment of cardiopulmonary bypass, cerebral protection, and temperature management are discussed in depth below.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>End-organ malperfusion</summary>
+<div class="details-content">
+An important component to any surgical strategy includes identification and correction of end-organ malperfusion. Patients who present with abdominal pain or tenderness and lactic acidosis may require additional endovascular procedures, such as fenestration or mesenteric stenting either immediately after or in select cases, prior to, ascending aortic repair.
+</div>
+</details>
 
-Type B Failure of medical management (persistent
+</div>
+</details>
 
-or recurrent pain, medically uncontrolled
+<details class="med-details">
+<summary>ANESTHESIA AND MONITORING</summary>
+<div class="details-content">
 
-hypertension)
+<details class="med-details">
+<summary>Anesthesia</summary>
+<div class="details-content">
+Anesthesia used during the repair of aortic dissections is often narcotic based with inhalational agents for maintenance. Single-lumen endotracheal tubes are used for procedures performed through a median sternotomy, whereas double-lumen endotracheal tubes are useful but not mandatory for procedures performed through a left thoracotomy. 
+</div>
+</details>
 
-Expanding aortic diameter Progressive dissection Impending or actual rupture
+<details class="med-details">
+<summary>Monitoring</summary>
+<div class="details-content">
+Monitoring lines often include central venous access with a pulmonary artery catheter and one or more arterial pressure monitoring lines specific to the operation performed. Preparation must be made for all possibilities in these cases, most importantly for the possible need for hypothermic circulatory arrest. Arterial monitoring should be tailored to both the anatomy of the dissection and the method of cannulation. One or two radial arterial lines and at least one femoral line may be required to ensure adequate perfusion of the upper and lower body. If antegrade cerebral perfusion via a right axillary or innominate artery cannulation is planned, right arterial line placement (in addition to femoral and/or left radial) is useful to measure perfusion pressure. All patients require a TEE probe. Core body temperature is monitored in the bladder using a Foley catheter and in the esophagus using a nasopharyngeal probe. A wide skin preparation to include the axillary and femoral arteries is essential to provide all possible cannulation options.
+</div>
+</details>
 
-Malperfusion
+<details class="med-details">
+<summary>Neurologic monitoring: TCD, NIRS,  SSEP</summary>
+<div class="details-content">
+Neurologic monitoring is available, but its utility remains controversial even in elective cases. Advocates of both cerebral and spinal cord monitoring argue that these monitors are able to detect injury to neurons before irreversible cellular injury. Thus, this warning allows for detection of imminent injury and subsequent evasion of injury. Opponents argue that there is a significant learning curve and that the injury has already occurred once these monitors can identify ischemic neurologic changes. The optimal type of monitoring depends on the location of the dissection and the resultant details of required vascular control. Manipulation of the ascending aorta and arch can affect cerebral perfusion. In these cases, transcranial Doppler (TCD) or near-infrared spectroscopy (NIRS) has been used. 
+<details class="med-details">
+<summary>TCD</summary>
+<div class="details-content">
+Intraoperative TCD monitoring is used to identify malpositioned cannulas or document the need for adjustment of retrograde perfusion. Opponents of TCD argue difficulty with low baseline flow and poor signal in patients with thick temporal bones, which confuses interpretation of the results and the response to them.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>NIRS</summary>
+<div class="details-content">
+Continuous noninvasive NIRS can be used to monitor cerebral oxygenation, marker of cerebral blood flow. Although the role of NIRS in aortic dissection has not been elucidated, advocates extrapolate use from studies on carotid endarterectomy and coronary bypass.
 
-Chronic Impending or actual rupture
+NIRS can be used for identification of regional oxygenation changes during the case, which may be particularly useful during normothermic periods of these cases. 
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>SSEP</summary>
+<div class="details-content">
+Somatosensory evoked potentials (SSEP) is argued to be useful in identifying neurologic injury ranging anywhere from the peripheral nerve to the brain. These studies may even identify ischemic cerebral injury during hypothermic circulatory arrest earlier than electroencephalography (EEG).  SSEP can also be useful in the detection of spinal cord ischemia to identify crucial spinal cord vasculature requiring reimplantation. The use of SSEP at some centers has led to reduced intraoperative and postoperative paraplegia in retrospective studies.
+</div>
+</details>
+  Neurologic monitoring remains a relatively new technology that is operator dependent, but probably is useful in experienced hands.
+</div>
+</details>
 
-Symptoms related to dissection (congestive heart failure, angina, aortic regurgitation, stroke, pain)
+</div>
+</details>
 
-Malperfusion
-
-Aneurysm  $\geq 5.5$  cm (type A),  $\geq 6.5$  cm (type B)
-
-Aortic expansion > 1 cm/year
-
-to aortic valvular incompetence. The presence of ascending aortic involvement is therefore an indication for operative management in all but the highest-risk patients (Table 47-5). The difficulty arises in determining which patients are at high risk and which additional factors should affect the management algorithm. Patient age, for example, is not regarded as an absolute contraindication to surgery. However, this factor should be considered given the relative worse outcomes of operative treatment for acute type A dissection for patients greater than 80 years of age. Neurologic status at the time of presentation can also affect the decision to operate. Although most agree that obtunded or comatose patients are unlikely to improve with surgical repair, complications such as stroke or paraplegia at the time of presentation are not contraindications to surgical correction. It must be acknowledged that dissection repair will most likely not improve neurologic condition, and may even make it worse. Neither the distal extent nor the thrombosis of the false lumen obviates the need for surgical repair because the risk of developing an aortic catastrophe remains. Similarly, patients with subacute type A dissection who present or are referred after 2 weeks of dissection onset require operation. Scholl et al demonstrated that these patients have avoided the early complications of dissection and may safely undergo elective operation rather than emergency repair.17
-
-Important surgical considerations for Type A aortic dissection include extent of aortic repair, establishment of cardiopulmonary bypass, temperature management, cerebral protection, myocardial protection, and management of aortic insufficiency and end-organ perfusion during and after completion of surgery. Technical considerations for establishment of cardiopulmonary bypass, cerebral protection, and
-
-temperature management are discussed in depth below. An important component to any surgical strategy includes identification and correction of end-organ malperfusion. Patients who present with abdominal pain or tenderness and lactic acidosis may require additional endovascular procedures, such as fenestration or mesenteric stenting either immediately after or in select cases, prior to, ascending aortic repair.
-
-#### ANESTHESIA AND MONITORING
-
-Anesthesia used during the repair of aortic dissections is often narcotic based with inhalational agents for maintenance. Single-lumen endotracheal tubes are used for procedures performed through a median sternotomy, whereas double-lumen endotracheal tubes are useful but not mandatory for procedures performed through a left thoracotomy. Monitoring lines often include central venous access with a pulmonary artery catheter and one or more arterial pressure monitoring lines specific to the operation performed. Preparation must be made for all possibilities in these cases, most importantly for the possible need for hypothermic circulatory arrest. Arterial monitoring should be tailored to both the anatomy of the dissection and the method of cannulation. One or two radial arterial lines and at least one femoral line may be required to ensure adequate perfusion of the upper and lower body. If antegrade cerebral perfusion via a right axillary or innominate artery cannulation is planned, right arterial line placement (in addition to femoral and/or left radial) is useful to measure perfusion pressure. All patients require a TEE probe. Core body temperature is monitored in the bladder using a Foley catheter and in the esophagus using a nasopharyngeal probe. A wide skin preparation to include the axillary and femoral arteries is essential to provide all possible cannulation options.
-
-Neurologic monitoring is available, but its utility remains controversial even in elective cases. Advocates of both cerebral and spinal cord monitoring argue that these monitors are able to detect injury to neurons before irreversible cellular injury. 18 Thus, this warning allows for detection of imminent injury and subsequent evasion of injury. Opponents argue that there is a significant learning curve and that the injury has already occurred once these monitors can identify ischemic neurologic changes. The optimal type of monitoring depends on the location of the dissection and the resultant details of required vascular control. Manipulation of the ascending aorta and arch can affect cerebral perfusion. In these cases, transcranial Doppler (TCD) or near-infrared spectroscopy (NIRS) has been used. Intraoperative TCD monitoring is used to identify malpositioned cannulas or document the need for adjustment of retrograde perfusion.<sup>19</sup> Opponents of TCD argue difficulty with low baseline flow and poor signal in patients with thick temporal bones, which confuses interpretation of the results and the response to them. Continuous noninvasive NIRS can be used to monitor cerebral oxygenation, marker of cerebral blood flow. Although the role of NIRS in aortic dissection has not been elucidated, advocates extrapolate use from studies on carotid endarterectomy and coronary bypass.
-
-NIRS can be used for identification of regional oxygenation changes during the case, which may be particularly useful during normothermic periods of these cases. <sup>18</sup> Somatosensory evoked potentials (SSEP) is argued to be useful in identifying neurologic injury ranging anywhere from the peripheral nerve to the brain. These studies may even identify ischemic cerebral injury during hypothermic circulatory arrest earlier than electroencephalography (EEG). <sup>20</sup> SSEP can also be useful in the detection of spinal cord ischemia to identify crucial spinal cord vasculature requiring reimplantation. The use of SSEP at some centers has led to reduced intraoperative and postoperative paraplegia in retrospective studies. <sup>21</sup> Neurologic monitoring remains a relatively new technology that is operator dependent, but probably is useful in experienced hands.
-
-#### **HEMOSTASIS**
+<details class="med-details">
+<summary>HEMOSTASIS</summary>
+<div class="details-content">
 
 Open aortic dissection repair is commonly associated with significant blood loss caused by weak tissues and coagulopathy from bleeding or hypothermia. Strict blood conservation is an important aspect of the operation. At least one cell-saver device should be available. Packed red blood cells, platelets, and fresh-frozen plasma should be in the operating room at the start of the operation. Coagulopathy as a result of the preoperative status of the patient, cardiopulmonary bypass, and deep hypothermic circulatory arrest contribute to excessive blood loss. Antifibrinolytic drugs can be useful hemostatic adjuncts. Patients will often require transfusion of fresh-frozen plasma, platelets, and possibly cryoprecipitate. Fibrin glues and hemostatic materials such as Surgicel and Gelfoam are useful as systemic coagulopathy is corrected.
+</div>
+</details>
 
-#### CARDIOPULMONARY BYPASS
+<details class="med-details">
+<summary>CARDIOPULMONARY BYPASS</summary>
+<div class="details-content">
 
 Cannulation for type A dissection repair requires thoughtful evaluation of the dissection anatomy while taking into consideration the extent of the repair to be undertaken. The crucial point is to provide arterial flow into the true lumen of the aorta with proof of sufficient end-organ perfusion, in particular as dynamic flaps may alter perfusion. Some flexibility regarding arterial access should be exercised. In certain situations, a patient may require multiple cannulation sites to perfuse adequately the entire body. Various options for cannulation exist, but the optimal choice of cannulation in aortic dissection requires tailoring to the combination of surgeon preference with dissection anatomy.
 
+<details class="med-details">
+<summary>Venous cannulation and lines</summary>
+<div class="details-content">
 Venous cannulation remains relatively straightforward. Venous cannulation is obtained commonly through the right atrium using a two-stage venous cannula, whereas bicaval cannulation is used for certain cases in which retrograde cerebral perfusion is used during hypothermic circulatory arrest. A left ventricular vent is necessary in the setting of aortic valve incompetence and is easily placed through the right superior pulmonary vein or rarely through the left ventricular apex wall. Cardioplegia is administered in a retrograde fashion through a coronary sinus catheter with additional protection via direct cannulation of the undissected coronary ostia.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Arterial cannulation</summary>
+<div class="details-content">
 Arterial cannulation requires a much more thoughtful process. Right axillary artery, femoral artery, and direct ascending aortic cannulation are the three most common techniques. The optimal site of cannulation should be tailored based on the combined goals of surgery and the specific anatomy of the patient, with contingency plans for evidence of malperfusion.
 
-Historically, femoral cannulation was the site of choice for arterial cannulation for type A dissection. The most favorable side of femoral cannulation has been debated in the past, but as long as there is perfusion into the true lumen, the side most likely does not matter. Reports from the University of Virginia, among others, have also shown that the dissected ascending aorta itself can be cannulated safely with echocardiographic guidance.<sup>22</sup> This technique involves confirming access to the true lumen of the aorta with echocardiography of the descending aorta. Then, using the Seldinger technique, a percutaneous cannula can be properly positioned. Direct cannulation should be avoided through areas with evidence of hematoma. Proper perfusion of the true lumen must be confirmed with ultrasound or echocardiography. A potential salvage maneuver involves cannulation of the ventricular apex with advancement of the cannula though the aortic valve and into the true lumen of the aorta. This technique also requires confirmation of true lumen perfusion. Aortic cannulation of either the dissection area or the apex mandates cannulation of the graft after repair in most cases.
 
+<details class="med-details">
+<summary>Femoral cannulation</summary>
+<div class="details-content">
+Historically, femoral cannulation was the site of choice for arterial cannulation for type A dissection. The most favorable side of femoral cannulation has been debated in the past, but as long as there is perfusion into the true lumen, the side most likely does not matter.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Ascending aorta</summary>
+<div class="details-content">
+Reports from the University of Virginia, among others, have also shown that the dissected ascending aorta itself can be cannulated safely with echocardiographic guidance. This technique involves confirming access to the true lumen of the aorta with echocardiography of the descending aorta. Then, using the Seldinger technique, a percutaneous cannula can be properly positioned. Direct cannulation should be avoided through areas with evidence of hematoma. Proper perfusion of the true lumen must be confirmed with ultrasound or echocardiography.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Ventricular apex</summary>
+<div class="details-content">
+A potential salvage maneuver involves cannulation of the ventricular apex with advancement of the cannula though the aortic valve and into the true lumen of the aorta. This technique also requires confirmation of true lumen perfusion. Aortic cannulation of either the dissection area or the apex mandates cannulation of the graft after repair in most cases.
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>Right axillary artery</summary>
+<div class="details-content">
 Increasingly, the right axillary artery is being utilized for cannulation during dissection repair and is the first choice cannulation site at many institutions. The right axillary artery provides direct access to the right carotid artery for selective antegrade perfusion. This can be done by sewing a graft to the artery or directly cannulating it. However, direct axillary cannulation, including further dissection, brachial plexus injury, and limb ischemia. Axillary cannulation may be suboptimal in cases in which the axillary, right common carotid, or innominate artery are dissected. Similar techniques have been described in cannulation approaches to the innominate artery.
+</div>
+</details>
 
 No matter the preferred site of arterial cannulation, the surgeon must be cognizant of whole body perfusion. Patients that are not cooling properly or show other signs of malperfusion may require more than one arterial cannulation sites for cardiopulmonary bypass. Routine confirmation of blood flow in the carotids as well as the descending aorta can be critical to avoid malperfusion.
+</div>
+</details>
 
-#### CEREBRAL PROTECTION
+</div>
+</details>
+
+<details class="med-details">
+<summary>CEREBRAL PROTECTION</summary>
+<div class="details-content">
 
 Type A dissection repair involving the arch disrupts blood flow to the brachiocephalic arteries during a period of circulatory arrest. Cerebral protection during that period is critical to neurologic outcome. Cerebral protection is optimized through deep hypothermia with or without potential neuroprotective adjuncts. Straight hypothermia during circulatory arrest was the first method used to perform operations on the aortic arch and remains an effective method for shorter procedures. Two alternative primary end points for cooling are employed: goal temperature or EEG silence.
 
-The published temperature goals vary widely, namely anywhere from 14 to 32°C. The ischemic tolerance of the brain improves with colder temperatures. However, cooling to a temperature below 14°C can result in a form of nonischemic brain injury and is therefore not recommended. The neurologic protection from straight hypothermic circulatory arrest can be very good, especially for short ischemic times. Most data suggest that straight hypothermic circulatory arrest up to 20 minutes is safe. However, increased ischemic time is directly related to increased incidence of neurologic deficits. Proponents of straight hypothermic circulatory arrest have suggested in elective patients that longer times can be used safely without significant adverse cognitive outcomes but circulatory arrest should be limited to as short a time as possible. <sup>25</sup>
+<details class="med-details">
+<summary>Goal temperature</summary>
+<div class="details-content">
+The published temperature goals vary widely, namely anywhere from 14 to 32°C. The ischemic tolerance of the brain improves with colder temperatures. However, cooling to a temperature below 14°C can result in a form of nonischemic brain injury and is therefore not recommended. The neurologic protection from straight hypothermic circulatory arrest can be very good, especially for short ischemic times. Most data suggest that straight hypothermic circulatory arrest up to 20 minutes is safe. However, increased ischemic time is directly related to increased incidence of neurologic deficits. Proponents of straight hypothermic circulatory arrest have suggested in elective patients that longer times can be used safely without significant adverse cognitive outcomes but circulatory arrest should be limited to as short a time as possible. 
+</div>
+</details>
 
-For these cases, temperature is being used as a proxy for metabolic function. Unfortunately, nasopharyngeal and tympanic temperature may be imperfect estimates of brain temperature. Moreover, temperature does not directly relate to neurologic activity. For these reasons, some groups use EEG silence to determine the appropriate point at which to discontinue cooling and perfusion. The patients are cooled until EEG silence is obtained. After 5 minutes at this temperature, the circulatory arrest period can be initiated, usually at a temperature between 15 and 22°C. Using this technique, the group from the University of Pennsylvania achieved EEG silence in 90% of patients after 45 minutes of cooling and had a postoperative stroke rate of less than 5%.<sup>26</sup> As a result, in the absence of EEG monitoring, they cool for at least 45 minutes in almost all cases to optimize brain protection. Although EEG is attractive in theory, it is not always available when patients with dissections are taken to the operating room. We typically cool for 45 minutes to achieve a goal temperature of 18 to 21°C.
+<details class="med-details">
+<summary>EEG silence</summary>
+<div class="details-content">
+For these cases, temperature is being used as a proxy for metabolic function. Unfortunately, nasopharyngeal and tympanic temperature may be imperfect estimates of brain temperature. Moreover, temperature does not directly relate to neurologic activity. For these reasons, some groups use EEG silence to determine the appropriate point at which to discontinue cooling and perfusion. The patients are cooled until EEG silence is obtained. After 5 minutes at this temperature, the circulatory arrest period can be initiated, usually at a temperature between 15 and 22°C. Using this technique, the group from the University of Pennsylvania achieved EEG silence in 90% of patients after 45 minutes of cooling and had a postoperative stroke rate of less than 5%. As a result, in the absence of EEG monitoring, they cool for at least 45 minutes in almost all cases to optimize brain protection. Although EEG is attractive in theory, it is not always available when patients with dissections are taken to the operating room. We typically cool for 45 minutes to achieve a goal temperature of 18 to 21°C.
+</div>
+</details>
 
-Continued cerebral perfusion during the period of circulatory arrest is an alternative technique for cerebral protection, especially for circulatory arrest times greater than 20 minutes. Utilizing cerebral perfusion, some groups have moved progressively to more moderate hypothermia (24-28°C) during dissection repair.<sup>27</sup> Cerebral blood flow may be delivered in a either retrograde or antegrade fashion. The technique for retrograde cerebral perfusion depends on the venous cannulation strategy. If bicaval cannulation is used, reversing flow through the superior vena caval cannula with a proximally placed tourniquet is simple and effective. Use of retrograde flow with dual-stage venous cannulation requires placement of a retrograde "coronary sinus" catheter into the superior vena cava through a pursestring suture. The superior vena cava is then occluded with an umbilical tape to direct flow toward the head. Retrograde cerebral perfusion has the added benefit of flushing atherosclerotic material and air from the brachiocephalic vessels. A flow rate necessary to produce a superior vena caval pressure of 15 to 25 mm Hg is considered optimal.
+<details class="med-details">
+<summary>Continued cerebral perfusion</summary>
+<div class="details-content">
+Continued cerebral perfusion during the period of circulatory arrest is an alternative technique for cerebral protection, especially for circulatory arrest times greater than 20 minutes. Utilizing cerebral perfusion, some groups have moved progressively to more moderate hypothermia (24-28°C) during dissection repair. Cerebral blood flow may be delivered in a either retrograde or antegrade fashion. 
+<details class="med-details">
+<summary>Retrograde cerebral perfusion</summary>
+<div class="details-content">
+The technique for retrograde cerebral perfusion depends on the venous cannulation strategy. If bicaval cannulation is used, reversing flow through the superior vena caval cannula with a proximally placed tourniquet is simple and effective. Use of retrograde flow with dual-stage venous cannulation requires placement of a retrograde "coronary sinus" catheter into the superior vena cava through a pursestring suture. The superior vena cava is then occluded with an umbilical tape to direct flow toward the head. Retrograde cerebral perfusion has the added benefit of flushing atherosclerotic material and air from the brachiocephalic vessels. A flow rate necessary to produce a superior vena caval pressure of 15 to 25 mm Hg is considered optimal.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Antegrade cerebral perfusion</summary>
+<div class="details-content">
 Selective antegrade cerebral perfusion has gained popularity, particularly when extended aortic arch surgery is planned.
 
 This can be performed by clamping the base of the innominate artery with a right axillary or innominate arterial cannulation, allowing for cerebral perfusion via the right carotid artery. This also can be performed once the aortic arch is open by encircling the innominate artery with a vessel occluder and cannulating the lumen with a retrograde "coronary sinus" cannula. Bilateral antegrade perfusion can be performed by similarly cannulating the left carotid artery lumen. With the left subclavian artery occluded, flow rates are slowly increased to achieve perfusion pressures of 50 to 70 mm Hg at the desired circulatory arrest temperature. These cannulae are then removed just before completing the anastomosis of the brachiocephalic vessels to the vascular graft, at which time cardiopulmonary bypass may be reinstituted.
+</div>
+</details>
 
+</div>
+</details>
+
+<details class="med-details">
+<summary>Basic principles: cooling and rewarming</summary>
+<div class="details-content">
 A few basic principles apply to all approaches. During cooling on cardiopulmonary bypass, a maximum temperature gradient between perfusate and patient of less than 10°C is ideal. The head is then packed in ice to maintain a low brain temperature. To ensure maximal protection, the goal temperature should be maintained for 5 minutes before initiation of hypothermic circulatory arrest. Similarly, the body should be reperfused for 5 minutes at the colder temperature before beginning the rewarming process. Rewarming too early can exacerbate neurologic injury. Rewarming proceeds without exceeding a 10°C perfusate-patient temperature gradient to at least 37°C as core body temperature often falls briefly after cessation of active warming and separation from cardiopulmonary bypass.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Pharmacologic protection</summary>
+<div class="details-content">
 Pharmacologic adjuncts are believed by some to decrease metabolic rate with hopes of reducing injury. Although methylprednisolone continues to be used in these cases by many, barbiturate administration during cooling has fallen mostly out of favor. If used, methylprednisolone should be given early, as the steroid effects require incorporation into the cell nucleus. Others give lidocaine and magnesium before the arrest period to stabilize the neuronal cell membrane. Furosemide and mannitol can be administered to initiate diuresis and promote free radical scavenging after circulatory arrest. The results of all these techniques are not fully substantiated yet.
+</div>
+</details>
 
-#### **OPERATIVE TECHNIQUE**
+</div>
+</details>
 
-The exposure for procedures performed on the ascending aorta and proximal arch is through a median sternotomy. This can be modified with supraclavicular, cervical, or trapdoor incisions to gain exposure to the brachiocephalic vessels or descending thoracic aorta. When dissecting the distal arch, it is important to identify and protect both the left vagus nerve with its recurrent branch and the left phrenic nerve. Replacement of the ascending aorta in type A dissections is best performed by an open distal anastomosis technique if the arch is involved (30%) or if arch involvement is unknown. Once the patient is placed on cardiopulmonary bypass and cardioplegia catheters are in place, the mid ascending aorta is clamped, producing cardiac arrest via administration of antegrade and/ or retrograde cardioplegic solution. The dissected ascending aorta proximal to the clamp is then opened. Evaluation and
+<details class="med-details">
+<summary>OPERATIVE TECHNIQUE</summary>
+<div class="details-content">
 
-surgical correction of the aortic valve is ideally performed at this time while systemic cooling continues. If the dissection does not involve the aortic root, the aorta is transected 5 to 10 mm distal to the sinotubular ridge. When the dissection involves the sinotubular ridge, the proximal aorta is reconstructed by reuniting the dissected aortic layers between one or two strips of Teflon felt using either 3-0 or 4-0 Prolene suture. Safi et al use a technique of interrupted pledgeted horizontal mattress sutures as compared with the felt sandwich technique. In their experience, this provides superior stabilization and decreases the potential for subsequent aortic stenosis. The University of Pennsylvania has described aortic reconstruction using felt as a neomedia giving a stable platform to sew the graft to otherwise friable tissue. <sup>26,29</sup>
+The exposure for procedures performed on the ascending aorta and proximal arch is through a median sternotomy. This can be modified with supraclavicular, cervical, or trapdoor incisions to gain exposure to the brachiocephalic vessels or descending thoracic aorta. When dissecting the distal arch, it is important to identify and protect both the left vagus nerve with its recurrent branch and the left phrenic nerve. Replacement of the ascending aorta in type A dissections is best performed by an open distal anastomosis technique if the arch is involved (30%) or if arch involvement is unknown. Once the patient is placed on cardiopulmonary bypass and cardioplegia catheters are in place, the mid ascending aorta is clamped, producing cardiac arrest via administration of antegrade and/ or retrograde cardioplegic solution. The dissected ascending aorta proximal to the clamp is then opened. Evaluation and surgical correction of the aortic valve is ideally performed at this time while systemic cooling continues. If the dissection does not involve the aortic root, the aorta is transected 5 to 10 mm distal to the sinotubular ridge. When the dissection involves the sinotubular ridge, the proximal aorta is reconstructed by reuniting the dissected aortic layers between one or two strips of Teflon felt using either 3-0 or 4-0 Prolene suture. Safi et al use a technique of interrupted pledgeted horizontal mattress sutures as compared with the felt sandwich technique. In their experience, this provides superior stabilization and decreases the potential for subsequent aortic stenosis. The University of Pennsylvania has described aortic reconstruction using felt as a neomedia giving a stable platform to sew the graft to otherwise friable tissue. 
 
 Once the temperature reaches 18 to 21°C, perfusion is discontinued during a brief period of circulatory arrest. When using antegrade or retrograde cerebral perfusion, the selected perfusion is initiated at this time. The aortic clamp is released and the intima of the aortic arch is inspected and repaired accordingly (Fig. 47-13). If the intima is intact, the distal anastomosis is performed and the graft is cannulated, deaired, and clamped for resumption of cardiopulmonary bypass with systemic warming. If the intima of the arch is violated, then a hemiarch reconstruction is performed (Fig. 47-14). We have only rarely found it necessary to perform a complete arch resection for an acute dissection. If a complex aortic root procedure is required, it is often useful to repair the aortic root with one vascular graft and use a separate graft to create the distal aortic anastomosis. The two grafts are then measured, cut, and anastomosed to provide the correct length and orientation for aortic replacement.
 
@@ -332,14 +712,12 @@ Once the temperature reaches 18 to 21°C, perfusion is discontinued during a bri
 
 **FIGURE 47-14** (A) The type A dissection extends into the proximal aortic arch. (B) The distal dissected aortic wall is reconstructed with inside and outside felt strips to replace part of the arch and ascending aorta.
 
-If the ascending aorta cannot be cross-clamped or the surgeon prefers not to clamp the dissected aorta, the patient is first cooled to 18 to 21°C with subsequent circulatory arrest. The distal aortic reconstruction is performed first in this circumstance, at which time the graft is cannulated and proximally clamped with resumption of cardiopulmonary bypass and systemic rewarming. Cannulation of the graft for antegrade systemic perfusion and rewarming is associated with improved neurologic outcomes compared with retrograde perfusion and should be performed whenever possible. Proximal ascending aortic repair is completed during the
-
-period of rewarming. Because a cross-clamp is not applied with this technique, the left ventricle must be decompressed once fibrillation starts during systemic cooling to prevent distention and irreversible myocardial injury. In cases of severe aortic insufficiency, ventricular distension may occur despite appropriately positioned vent catheters. In this, manual cardiac decompression or aortic cross-clamping will be required.
+If the ascending aorta cannot be cross-clamped or the surgeon prefers not to clamp the dissected aorta, the patient is first cooled to 18 to 21°C with subsequent circulatory arrest. The distal aortic reconstruction is performed first in this circumstance, at which time the graft is cannulated and proximally clamped with resumption of cardiopulmonary bypass and systemic rewarming. Cannulation of the graft for antegrade systemic perfusion and rewarming is associated with improved neurologic outcomes compared with retrograde perfusion and should be performed whenever possible. Proximal ascending aortic repair is completed during the period of rewarming. Because a cross-clamp is not applied with this technique, the left ventricle must be decompressed once fibrillation starts during systemic cooling to prevent distention and irreversible myocardial injury. In cases of severe aortic insufficiency, ventricular distension may occur despite appropriately positioned vent catheters. In this, manual cardiac decompression or aortic cross-clamping will be required.
 
 An alternative to the open distal technique is possible when the dissection is limited to the ascending aorta or the proximal arch away from the origin of the brachiocephalic vessels. Antegrade arterial perfusion is achieved through distal arch or right subclavian artery cannulation; retrograde perfusion via cannulation of a femoral artery has traditionally provided acceptable results. An aortic cross-clamp is applied tangentially just proximal to the innominate artery. The ascending aorta is resected to include the inferior aspect of the arch. The layers of the dissected aorta proximal to the clamp are then reunited if necessary and the ascending aorta replaced with an appropriately sized, beveled vascular graft. The proximal reconstruction and anastomosis may then be created and the entire procedure performed without requiring deep hypothermia and circulatory arrest.
 
-Isolated dissection of the aortic arch is rare. Classified as a type A dissection, it requires resection of the arch at the site of intimal disruption and aortic replacement. Surgical management of the brachiocephalic vessels is determined by the integrity of the adjacent intima. If intact, the brachiocephalic vessels are reimplanted as a Carrel patch into a vascular graft after repair (Fig. 47-15). If the dissection involves individual
-
+Isolated dissection of the aortic arch is rare. Classified as a type A dissection, it requires resection of the arch at the site of intimal disruption and aortic replacement. Surgical management of the brachiocephalic vessels is determined by the integrity of the adjacent intima. If intact, the brachiocephalic vessels are reimplanted as a Carrel patch into a vascular graft after repair (Fig. 47-15). If the dissection involves individual vessels, each may require repair and reimplantation individually into the graft used for arch replacement (Fig. 47-16).
+  
 ![](_page_14_Picture_8.jpeg)
 
 **FIGURE 47-15** Brachiocephalic vessels can be reattached to an arch graft as a unit if the inner cylinder of origin of each vessel remains intact. (A) The arch vessels are excised as a unit from the superior surface of the dissected aortic arch. (B) The separated layers of the brachiocephalic patch are reunited using inner and outer felt strips and continuous suture. (C) A corresponding hole is cut in the aortic graft and the continuous brachiocephalic unit is sutured into place.
@@ -348,18 +726,14 @@ Isolated dissection of the aortic arch is rare. Classified as a type A dissectio
 
 **FIGURE 47-16** The brachiocephalic vessels are separated from the true lumen by the dissected false lumen (*left panel*). If individual brachiocephalic vessels are also damaged beyond repair, short interposition grafts are added to reconnect each artery to the aortic graft (*right panel*).
 
-vessels, each may require repair and reimplantation individually into the graft used for arch replacement (Fig. 47-16).
-
-Aortic root dissection often fails to violate the intima of the coronary ostia. Repair of the ascending aorta at the sinotubular junction is therefore sufficient to reunite the aortic root layers and provide uninterrupted coronary blood flow. Minimal disruption of the coronary ostial intima should be repaired primarily with 5-0 or 6-0 Prolene suture. If, however, the ostium is circumferentially dissected and an aortic root replacement is necessary, an aortic button should be excised and the layers reunited with running 5-0 Prolene suture, glue, or both. Coronary buttons are then reimplanted into the vascular graft or to a separate 8-mm vascular graft as part of a Cabrol repair (Fig. 47-17). Aortocoronary bypass
-
+Aortic root dissection often fails to violate the intima of the coronary ostia. Repair of the ascending aorta at the sinotubular junction is therefore sufficient to reunite the aortic root layers and provide uninterrupted coronary blood flow. Minimal disruption of the coronary ostial intima should be repaired primarily with 5-0 or 6-0 Prolene suture. If, however, the ostium is circumferentially dissected and an aortic root replacement is necessary, an aortic button should be excised and the layers reunited with running 5-0 Prolene suture, glue, or both. Coronary buttons are then reimplanted into the vascular graft or to a separate 8-mm vascular graft as part of a Cabrol repair (Fig. 47-17). Aortocoronary bypass grafting is performed only when the coronary ostium is not reconstructable and as a last resort.
+  
 ![](_page_15_Picture_6.jpeg)
 
 **FIGURE 47-17** Illustration showing the attachment of the coronary ostia to the graft using the Cabrol technique. The ends of a 60-mm Dacron graft are sewn end to end to each coronary ostium. A side-to-side anastomosis is made between the intercoronary tube graft and the aortic graft.
 
-grafting is performed only when the coronary ostium is not reconstructable and as a last resort.
-
-Acute type A dissection is complicated by aortic valve insufficiency in up to 75% of patients. Fortunately, preservation of the native valve is successful nearly 85% of the time. The mechanism of aortic insufficiency in most cases is the loss of commissural support of the valve leaflets. This is repaired using pledgeted 4-0 Prolene sutures to reposition each of the commissures at the sinotubular ridge (Fig. 47-18). The dissected aortic root layers are then reunited using 3-0 Prolene suture and either one or two strips of Teflon felt to recreate the sinotubular junction and reform the sinuses of Valsalva. Aortic valve preservation must always be performed using intraoperative TEE to assess the valve postoperatively. No more than mild aortic insufficiency should be present. In addition to commissural resuspension, techniques exist to spare the aortic valve and replace the aortic root in acute type A dissection, but the experience is early and the number of patients few. This topic is covered in greater detail in the section on surgical techniques for chronic type A dissection. If the aortic valve cannot be spared, replacement of the ascending aorta and valve should be performed using a composite valve graft or homograft. The composite valve graft is implanted using horizontal mattress 2-0 Tycron sutures to encircle the annulus and to seat the valved conduit (Fig. 47-19). The previously excised and reconstituted coronary buttons are reimplanted into the vascular graft with running 5-0 Prolene suture (Fig. 47-20). The left coronary button is implanted first, at which time the graft is clamped and placed under pressure to define the proper orientation and position of the right coronary button. The aortic homograft is similarly implanted using horizontal mattress 2-0 Tycron sutures, except that a generous margin of aortic root below the coronary buttons is retained for a second hemostatic suture line of running 4-0 Prolene. This is an ideal solution for individuals who have a contraindication to anticoagulation or for young females. The Ross procedure (pulmonary autograft) is not applicable
-
+Acute type A dissection is complicated by aortic valve insufficiency in up to 75% of patients. Fortunately, preservation of the native valve is successful nearly 85% of the time. The mechanism of aortic insufficiency in most cases is the loss of commissural support of the valve leaflets. This is repaired using pledgeted 4-0 Prolene sutures to reposition each of the commissures at the sinotubular ridge (Fig. 47-18). The dissected aortic root layers are then reunited using 3-0 Prolene suture and either one or two strips of Teflon felt to recreate the sinotubular junction and reform the sinuses of Valsalva. Aortic valve preservation must always be performed using intraoperative TEE to assess the valve postoperatively. No more than mild aortic insufficiency should be present. In addition to commissural resuspension, techniques exist to spare the aortic valve and replace the aortic root in acute type A dissection, but the experience is early and the number of patients few. This topic is covered in greater detail in the section on surgical techniques for chronic type A dissection. If the aortic valve cannot be spared, replacement of the ascending aorta and valve should be performed using a composite valve graft or homograft. The composite valve graft is implanted using horizontal mattress 2-0 Tycron sutures to encircle the annulus and to seat the valved conduit (Fig. 47-19). The previously excised and reconstituted coronary buttons are reimplanted into the vascular graft with running 5-0 Prolene suture (Fig. 47-20). The left coronary button is implanted first, at which time the graft is clamped and placed under pressure to define the proper orientation and position of the right coronary button. The aortic homograft is similarly implanted using horizontal mattress 2-0 Tycron sutures, except that a generous margin of aortic root below the coronary buttons is retained for a second hemostatic suture line of running 4-0 Prolene. This is an ideal solution for individuals who have a contraindication to anticoagulation or for young females. The Ross procedure (pulmonary autograft) is not applicable in those patients with connective tissue disorders and not recommended in acute dissection.
+  
 ![](_page_16_Picture_2.jpeg)
 
 **FIGURE 47-18** Resuspension and preservation of the native aortic valve in a type A dissection. (A) The dissected layers are approximated at each commissure with double-pledgeted mattress sutures. (B) The aortic valve commissures are completely resuspended. (C) Thin felt strips (8- to 10-mm wide) are placed inside and outside from the circumference of the aorta. The coronary ostia are not compromised. (D) The aortic walls are sandwiched between the felt strips with a horizontal mattress. (E) A vascular graft is sutured to the reconstructed proximal aorta.
@@ -368,15 +742,14 @@ Acute type A dissection is complicated by aortic valve insufficiency in up to 75
 
 **FIGURE 47-19** Everting 2-0 pledgeted mattress sutures are placed shoulder to shoulder around the aortic annulus to anchor a composite graft containing a St. Jude prosthesis.
 
-in those patients with connective tissue disorders and not recommended in acute dissection.
-
-Some centers have extended repairs into the descending thoracic aorta utilizing thoracic aortic endografts to potentially decrease the risk of malperfusion, reduce distal aortic aneurysmal degeneration and rupture, and decrease late distal aortic reoperation. This hybrid repair, commonly referred to as a "frozen elephant trunk," is performed during the circulatory arrest period. A guidewire is introduced into the open true lumen and positioned in the mid-descending aorta. An endograft is then introduced over the guidewire, positioned under direct vision just distal to the left subclavian artery, and then deployed. The proximal extent of the endograft is then secured with suture to the native aorta. Institutions with hybrid operating rooms with integrated fluoroscopy may also utilize fluoroscopy to guide final endograft placement. They may also perform completion angiography and correct
-
+Some centers have extended repairs into the descending thoracic aorta utilizing thoracic aortic endografts to potentially decrease the risk of malperfusion, reduce distal aortic aneurysmal degeneration and rupture, and decrease late distal aortic reoperation. This hybrid repair, commonly referred to as a "frozen elephant trunk," is performed during the circulatory arrest period. A guidewire is introduced into the open true lumen and positioned in the mid-descending aorta. An endograft is then introduced over the guidewire, positioned under direct vision just distal to the left subclavian artery, and then deployed. The proximal extent of the endograft is then secured with suture to the native aorta. Institutions with hybrid operating rooms with integrated fluoroscopy may also utilize fluoroscopy to guide final endograft placement. They may also perform completion angiography and correct any distal malperfusion with endovascular fenestration and peripheral arterial stenting. At present these techniques are not widely performed and techniques are evolving.
+  
 ![](_page_17_Picture_2.jpeg)
 
 **FIGURE 47-20** The coronary ostia are attached to the graft by the button technique using continuous 5-0 polypropylene suture.
+</div>
+</details>
 
-any distal malperfusion with endovascular fenestration and peripheral arterial stenting. At present these techniques are not widely performed and techniques are evolving.
 
 #### POSTOPERATIVE MANAGEMENT
 
@@ -397,7 +770,14 @@ The International Registry of Acute Aortic Dissections (IRAD) recently reported 
 Age is not an absolute contraindication to surgical treatment of type A aortic dissections. However, operative mortality increases with age. Retrospective series show that operative mortality increases from 20 to 30% for patients younger than 75 years of age to greater than 45 to 50% for those 80 years or older.<sup>34</sup>
 
 The published results for long-term survival following surgically treated acute type A aortic dissection over the last decade is roughly 71 to 89% at 5 years and between 54 and 66% at 10 years. Survival for patients who are discharged alive from the hospital after surgical repair of type A aortic dissection carries a survival rate of 96% at 1 year and 91% at 3 years.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>MANAGEMENT OF ACUTE TYPE B AORTIC DISSECTION</summary>
+<div class="details-content">
 ## MANAGEMENT OF ACUTE TYPE B AORTIC DISSECTION
 
 Type B aortic dissections account for approximately 40% of all acute aortic dissections.<sup>8</sup> Their natural course is more benign than that of acute type A dissections.
@@ -572,7 +952,14 @@ Despite the multiple isolated series reporting outcomes after different treatmen
 **FIGURE 47-24** Survival curves for patients with type B aortic dissection managed with medical, endovascular, or surgical treatment according to the IRAD. (Reproduced with permission from Fattori R, Tsai TT, Myrmel T, et al: Complicated acute type B dissection: is surgery still the best option? A report from the International Registry of Acute Aortic Dissection, *JACC Cardiovasc Interv.* 2008 Aug;1(4):395-402.)
 
 occurred in 40% of patients undergoing surgical treatment and in 21% of those undergoing endovascular therapy. These findings remained true even after comparing patients with similar comorbidities. Interestingly, in-hospital mortality was similar for those patients that underwent endovascular therapy and those that were treated medically, and significantly better than in those that underwent surgery. The low mortality risk of patients treated medically is obviously related to the fact that most of these patients presented with uncomplicated disease and were deemed eligible for medical management. However, the data suggest that endovascular therapies may improve outcomes of patients with complicated type B aortic dissection to the rate of those with uncomplicated dissections managed medically. The data have to be interpreted with caution though, because part of these findings may be associated to selection bias in treatment modality based on patient characteristics not accounted for, or in differing treatment strategies in different institutions.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>MANAGEMENT OF CHRONIC AORTIC DISSECTION</summary>
+<div class="details-content">
 ## MANAGEMENT OF CHRONIC AORTIC DISSECTION
 
 Chronic type A dissection develops in patients who fail to undergo immediate surgical treatment of the acute dissection. Patients with chronic type B aortic dissection include those that have been successfully managed medically after an acute dissection and those with repaired type A aortic dissections that have retained segments of dissected descending thoracic aorta.
@@ -644,41 +1031,5 @@ Recently, endovascular therapies have been used for management of chronic type B
 ### CONCLUSION
 
 Considerable improvement in the treatment of patients with acute and chronic aortic dissection has occurred over the last 50 years. The management of aortic dissections will continue to evolve as improved medical, endovascular, and surgical techniques are refined. At the present time, surgical therapy remains the standard of care for acute type A aortic dissections. Uncomplicated type B dissections should continue to be treated with optimal medical management and close surveillance until further studies define whether "prophylactic" endovascular repair will play a role in these patients. The treatment of acute complicated type B dissections has significantly evolved over the last few years, with endovascular therapies now providing an alternative to surgical therapy. The long-term outcomes of endovascular treatment are still unclear but appear to be promising. Patients undergoing operative intervention for a ortic dissection will undoubtedly benefit from the novel basic and clinical research taking place in the areas of spinal cord and cerebral protection, strategies for cardiopulmonary bypass, improved vascular graft and endograft technology, and procedures for preservation of the aortic valve. Such progress may even permit advancement in our greatest remaining clinical challenge, those patients who are hemodynamically unstable following aortic dissection.
-
-### **REFERENCES**
-
-- Gurin D: Dissecting aneurysms of the aorta: diagnosis and operative relief of acute arterial obstruction due to this cause. NY State J Med 1935; 35:1.
-- Abbott OA: Clinical experiences with the application of polythene cellophane upon the aneurysms of the thoracic vessels. *J Thorac Surg* 1949; 18:435-461.
-- DeBakey ME, Cooley DA, Creech JO: Surgical considerations of dissecting aneurysm of the aorta. Ann Surg 1955; 14:24.
-- Wheat MW Jr, Palmer RF, Bartley TD, Seelman RC: Treatment of dissecting aneurysms of the aorta without surgery. J Thorac Cardiovasc Surg 1965; 50:364-373.
-- Beall AC Jr, Lewis JM, Weibel J, Crawford ES, DeBakey ME: Angiographic evaluation of the vascular surgery patient. Surg Clin North Am 1966; 46:843-862.
-- Daily PO, Trueblood HW, Stinson EB, et al: Management of acute aortic dissections. Ann Thorac Surg 1970; 10:237-247.
-- Coady MA, Rizzo JA, Goldstein LJ, Elefteriades JA: Natural history, pathogenesis, and etiology of thoracic aortic aneurysms and dissections. *Cardiol Clin* 1999; 17:615-635; vii.
-- 8. Hagan PG, Nienaber CA, Isselbacher EM, et al: The International Registry of Acute Aortic Dissection (IRAD): new insights into an old disease. *JAMA* 2000; 283:897-903.
-- 9. Erbel R, Alfonso F, Boileau C, et al: Diagnosis and management of aortic dissection. *Eur Heart J* 2001; 22:1642-1681.
-
-- Larson EW, Edwards WD: Risk factors for aortic dissection: a necropsy study of 161 cases. Am J Cardiol 1984; 53:849-855.
-- Coady MA, Rizzo JA, Elefteriades JA: Pathologic variants of thoracic aortic dissections. Penetrating atherosclerotic ulcers and intramural hematomas. *Cardiol Clin* 1999; 17:637-657.
-- Sundt TM: Intramural hematoma and penetrating atherosclerotic ulcer of the aorta. Ann Thorac Surg 2007; 83:S835-841; discussion S846-850.
-- Robinson PN, Booms P: The molecular pathogenesis of the Marfan syndrome. Cell Mol Life Sci 2001; 58:1698-1707.
-- Callewaert B, Malfait F, Loeys B, De Paepe A: Ehlers-Danlos syndromes and Marfan syndrome. Best Pract Res Clin Rheumatol 2008; 22:165-189.
-- Cambria RP, Brewster DC, Gertler J, et al: Vascular complications associated with spontaneous aortic dissection. J Vasc Surg 1988; 7:199-209.
-- Anagnostopoulos CE, Prabhakar MJ, Kittle CF: Aortic dissections and dissecting aneurysms. Am J Cardiol 1972; 30:263-273.
-- Scholl FG, Coady MA, Davies R, et al: Interval or permanent nonoperative management of acute type A aortic dissection. *Arch Surg* 1999; 134:402-405; discussion 405-406.
-- Kohl BA, McGarvey ML: Anesthesia and neurocerebral monitoring for aortic dissection. Semin Thorac Cardiovasc Surg 2005; 17:236-246.
-- Estrera AL, Garami Z, Miller CC 3rd, et al: Cerebral monitoring with transcranial Doppler ultrasonography improves neurologic outcome during repairs of acute type A aortic dissection. J Thorac Cardiovasc Surg 2005; 129:277-285.
-- Stecker MM, Cheung AT, Pochettino A, et al: Deep hypothermic circulatory arrest: II. Changes in electroencephalogram and evoked potentials during rewarming. *Ann Thorac Surg* 2001; 71:22-28.
-- Schepens M, Dossche K, Morshuis W, et al: Introduction of adjuncts and their influence on changing results in 402 consecutive thoracoabdominal aortic aneurysm repairs. Eur J Cardiothorac Surg 2004; 25:701-707.
-- Reece TB, Tribble CG, Smith RL, et al: Central cannulation is safe in acute aortic dissection repair. J Thorac Cardiovasc Surg 2007; 133:428-434.
-- Etz CD, Plestis KA, Kari FA, et al: Axillary cannulation significantly improves survival and neurologic outcome after atherosclerotic aneurysm repair of the aortic root and ascending aorta. *Ann Thorac Surg* 2008; 86:441-446; discussion 446-447.
-- Ergin MA, Griepp EB, Lansman SL, et al: Hypothermic circulatory arrest and other methods of cerebral protection during operations on the thoracic aorta. *J Card Surg* 1994; 9:525-537.
-- Gega A, Rizzo JA, Johnson MH, et al: Straight deep hypothermic arrest: experience in 394 patients supports its effectiveness as a sole means of brain preservation. *Ann Thorac Surg* 2007; 84:759-766; discussion 766-757.
-- Bavaria JE, Pochettino A, Brinster DR, et al: New paradigms and improved results for the surgical treatment of acute type A dissection. *Ann Surg* 2001; 234:336-342; discussion 342-333.
-- Comas GM, Leshnower BG, Halkos ME, et al: Acute type a dissection: impact of antegrade cerebral perfusion under moderate hypothermia. *Ann Thorac Surg* 2013; 96(6):2135-2141.
-- Safi HJ, Miller CC 3rd, Reardon MJ, et al: Operation for acute and chronic aortic dissection: recent outcome with regard to neurologic deficit and early death. *Ann Thorac Surg* 1998; 66:402-411.
-- Rylski B, Bavaria JE, Milewski RK, et al: Long-term results of neomedia sinus valsalva repair in 489 patients with type a aortic dissection. *Ann Thorac Surg* 2014; 98(2):582-588; discussion 588-589.
-- Roselli EE, Rafael A, Soltesz EG, Canale L, Lytle BW: Simplified frozen elephant trunk repair for acute debakey type I dissection. J Thorac Cardiovasc Surg 2013; 145(3 Suppl):S197-201.
-- 31. Preventza O, Cervera R, Cooley DA, et al: Acute type I aortic dissection: traditional versus hybrid repair with antegrade stent delivery to the descending thoracic aorta. *J Thorac Cardiovasc Surg* 2014; 148(1):119-125.
-- DeBakey ME, McCollum CH, Crawford ES, et al: Dissection and dissecting aneurysms of the aorta: twenty-year follow-up of five hundred twenty-seven patients treated surgically. Surgery 1982; 92:1118-1134.
-- Trimarchi S, Nienaber CA, Rampoldi V, et al: Contemporary results of surgery in acute type A aortic dissection: The International Registry of Acute Aortic Dissection experience. J Thorac Cardiovasc Surg 2005; 129:112-122.
-- Piccardo A, Regesta T, Zannis K, et al: Outcomes after surgical treatment for type A acute aortic dissection in octogenarians: a multicenter study. *Ann Thorac Surg* 2009; 88:491-497.
+</div>
+</details>
