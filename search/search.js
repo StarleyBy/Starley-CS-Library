@@ -73,17 +73,30 @@ document.addEventListener('DOMContentLoaded', () => {
 
         resultsContainer.innerHTML = '';
         
-        let finalLunrQuery = query;
+        const detectedLanguage = detectLanguage(query);
 
-        if (detectedLanguage === 'russian') {
-            finalLunrQuery += ' language:russian';
-        } else if (detectedLanguage === 'hebrew') {
-            finalLunrQuery += ' language:hebrew';
-        } else { // English or other, search original and starley editions
-            finalLunrQuery += ' language:(original OR starley)';
-        }
+        const searchResults = lunrIndex.query(function (q) {
+            // Add the main query terms for title and content fields
+            query.split(' ').forEach(term => {
+                // Add exact term match
+                q.term(term, { fields: ['title', 'content'] });
+                // Add fuzzy match for slight typos (e.g., 1 character difference)
+                q.term(term, { fields: ['title', 'content'], editDistance: 1 });
+            });
 
-        const searchResults = lunrIndex.search(finalLunrQuery);
+            // Apply language filter
+            if (detectedLanguage === 'russian') {
+                q.term('russian', { fields: ['language'], presence: lunr.Query.presence.REQUIRED });
+            } else if (detectedLanguage === 'hebrew') {
+                q.term('hebrew', { fields: ['language'], presence: lunr.Query.presence.REQUIRED });
+            } else { // English or other, search original and starley editions
+                // For English, we want to match either 'original' or 'starley' editions
+                q.term('original', { fields: ['language'], presence: lunr.Query.presence.OPTIONAL });
+                q.term('starley', { fields: ['language'], presence: lunr.Query.presence.OPTIONAL });
+                // If query is very short, and language cannot be identified, we don't want to over-filter
+                // but this logic assumes "English" is default.
+            }
+        });
         
         if (searchResults.length > 0) {
             searchResults.forEach(result => {
