@@ -621,7 +621,6 @@ A potential salvage maneuver involves cannulation of the ventricular apex with a
 </div>
 </details>
 
-
 <details class="med-details">
 <summary>Right axillary artery</summary>
 <div class="details-content">
@@ -700,8 +699,18 @@ Pharmacologic adjuncts are believed by some to decrease metabolic rate with hope
 <summary>OPERATIVE TECHNIQUE</summary>
 <div class="details-content">
 
-The exposure for procedures performed on the ascending aorta and proximal arch is through a median sternotomy. This can be modified with supraclavicular, cervical, or trapdoor incisions to gain exposure to the brachiocephalic vessels or descending thoracic aorta. When dissecting the distal arch, it is important to identify and protect both the left vagus nerve with its recurrent branch and the left phrenic nerve. Replacement of the ascending aorta in type A dissections is best performed by an open distal anastomosis technique if the arch is involved (30%) or if arch involvement is unknown. Once the patient is placed on cardiopulmonary bypass and cardioplegia catheters are in place, the mid ascending aorta is clamped, producing cardiac arrest via administration of antegrade and/ or retrograde cardioplegic solution. The dissected ascending aorta proximal to the clamp is then opened. Evaluation and surgical correction of the aortic valve is ideally performed at this time while systemic cooling continues. If the dissection does not involve the aortic root, the aorta is transected 5 to 10 mm distal to the sinotubular ridge. When the dissection involves the sinotubular ridge, the proximal aorta is reconstructed by reuniting the dissected aortic layers between one or two strips of Teflon felt using either 3-0 or 4-0 Prolene suture. Safi et al use a technique of interrupted pledgeted horizontal mattress sutures as compared with the felt sandwich technique. In their experience, this provides superior stabilization and decreases the potential for subsequent aortic stenosis. The University of Pennsylvania has described aortic reconstruction using felt as a neomedia giving a stable platform to sew the graft to otherwise friable tissue. 
 
+<details class="med-details">
+<summary>Exposure</summary>
+<div class="details-content">
+The exposure for procedures performed on the ascending aorta and proximal arch is through a median sternotomy. This can be modified with supraclavicular, cervical, or trapdoor incisions to gain exposure to the brachiocephalic vessels or descending thoracic aorta. When dissecting the distal arch, it is important to identify and protect both the left vagus nerve with its recurrent branch and the left phrenic nerve. Replacement of the ascending aorta in type A dissections is best performed by an open distal anastomosis technique if the arch is involved (30%) or if arch involvement is unknown. Once the patient is placed on cardiopulmonary bypass and cardioplegia catheters are in place, the mid ascending aorta is clamped, producing cardiac arrest via administration of antegrade and/or retrograde cardioplegic solution. The dissected ascending aorta proximal to the clamp is then opened. Evaluation and surgical correction of the aortic valve is ideally performed at this time while systemic cooling continues. If the dissection does not involve the aortic root, the aorta is transected 5 to 10 mm distal to the sinotubular ridge. When the dissection involves the sinotubular ridge, the proximal aorta is reconstructed by reuniting the dissected aortic layers between one or two strips of Teflon felt using either 3-0 or 4-0 Prolene suture. <strong>Safi</strong> et al use a technique of interrupted pledgeted horizontal mattress sutures as compared with the felt sandwich technique. In their experience, this provides superior stabilization and decreases the potential for subsequent aortic stenosis. The University of Pennsylvania has described aortic reconstruction using felt as a neomedia giving a stable platform to sew the graft to otherwise friable tissue. 
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>Circulatory arrest and cerebral perfusion</summary>
+<div class="details-content">
 Once the temperature reaches 18 to 21°C, perfusion is discontinued during a brief period of circulatory arrest. When using antegrade or retrograde cerebral perfusion, the selected perfusion is initiated at this time. The aortic clamp is released and the intima of the aortic arch is inspected and repaired accordingly (Fig. 47-13). If the intima is intact, the distal anastomosis is performed and the graft is cannulated, deaired, and clamped for resumption of cardiopulmonary bypass with systemic warming. If the intima of the arch is violated, then a hemiarch reconstruction is performed (Fig. 47-14). We have only rarely found it necessary to perform a complete arch resection for an acute dissection. If a complex aortic root procedure is required, it is often useful to repair the aortic root with one vascular graft and use a separate graft to create the distal aortic anastomosis. The two grafts are then measured, cut, and anastomosed to provide the correct length and orientation for aortic replacement.
 
 ![](_page_13_Picture_9.jpeg)
@@ -711,11 +720,26 @@ Once the temperature reaches 18 to 21°C, perfusion is discontinued during a bri
 ![](_page_14_Picture_2.jpeg)
 
 **FIGURE 47-14** (A) The type A dissection extends into the proximal aortic arch. (B) The distal dissected aortic wall is reconstructed with inside and outside felt strips to replace part of the arch and ascending aorta.
+</div>
+</details>
 
+<details class="med-details">
+<summary>If the ascending aorta cannot be cross-clamped</summary>
+<div class="details-content">
 If the ascending aorta cannot be cross-clamped or the surgeon prefers not to clamp the dissected aorta, the patient is first cooled to 18 to 21°C with subsequent circulatory arrest. The distal aortic reconstruction is performed first in this circumstance, at which time the graft is cannulated and proximally clamped with resumption of cardiopulmonary bypass and systemic rewarming. Cannulation of the graft for antegrade systemic perfusion and rewarming is associated with improved neurologic outcomes compared with retrograde perfusion and should be performed whenever possible. Proximal ascending aortic repair is completed during the period of rewarming. Because a cross-clamp is not applied with this technique, the left ventricle must be decompressed once fibrillation starts during systemic cooling to prevent distention and irreversible myocardial injury. In cases of severe aortic insufficiency, ventricular distension may occur despite appropriately positioned vent catheters. In this, manual cardiac decompression or aortic cross-clamping will be required.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Alternative technique when the dissection is limited to the ascending aorta</summary>
+<div class="details-content">
 An alternative to the open distal technique is possible when the dissection is limited to the ascending aorta or the proximal arch away from the origin of the brachiocephalic vessels. Antegrade arterial perfusion is achieved through distal arch or right subclavian artery cannulation; retrograde perfusion via cannulation of a femoral artery has traditionally provided acceptable results. An aortic cross-clamp is applied tangentially just proximal to the innominate artery. The ascending aorta is resected to include the inferior aspect of the arch. The layers of the dissected aorta proximal to the clamp are then reunited if necessary and the ascending aorta replaced with an appropriately sized, beveled vascular graft. The proximal reconstruction and anastomosis may then be created and the entire procedure performed without requiring deep hypothermia and circulatory arrest.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Isolated dissection of the aortic arch</summary>
+<div class="details-content">
 Isolated dissection of the aortic arch is rare. Classified as a type A dissection, it requires resection of the arch at the site of intimal disruption and aortic replacement. Surgical management of the brachiocephalic vessels is determined by the integrity of the adjacent intima. If intact, the brachiocephalic vessels are reimplanted as a Carrel patch into a vascular graft after repair (Fig. 47-15). If the dissection involves individual vessels, each may require repair and reimplantation individually into the graft used for arch replacement (Fig. 47-16).
   
 ![](_page_14_Picture_8.jpeg)
@@ -725,13 +749,23 @@ Isolated dissection of the aortic arch is rare. Classified as a type A dissectio
 ![](_page_15_Picture_2.jpeg)
 
 **FIGURE 47-16** The brachiocephalic vessels are separated from the true lumen by the dissected false lumen (*left panel*). If individual brachiocephalic vessels are also damaged beyond repair, short interposition grafts are added to reconnect each artery to the aortic graft (*right panel*).
+</div>
+</details>
 
+<details class="med-details">
+<summary>Dissection of the coronary ostia</summary>
+<div class="details-content">
 Aortic root dissection often fails to violate the intima of the coronary ostia. Repair of the ascending aorta at the sinotubular junction is therefore sufficient to reunite the aortic root layers and provide uninterrupted coronary blood flow. Minimal disruption of the coronary ostial intima should be repaired primarily with 5-0 or 6-0 Prolene suture. If, however, the ostium is circumferentially dissected and an aortic root replacement is necessary, an aortic button should be excised and the layers reunited with running 5-0 Prolene suture, glue, or both. Coronary buttons are then reimplanted into the vascular graft or to a separate 8-mm vascular graft as part of a Cabrol repair (Fig. 47-17). Aortocoronary bypass grafting is performed only when the coronary ostium is not reconstructable and as a last resort.
   
 ![](_page_15_Picture_6.jpeg)
 
 **FIGURE 47-17** Illustration showing the attachment of the coronary ostia to the graft using the Cabrol technique. The ends of a 60-mm Dacron graft are sewn end to end to each coronary ostium. A side-to-side anastomosis is made between the intercoronary tube graft and the aortic graft.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Aortic valve insufficiency</summary>
+<div class="details-content">
 Acute type A dissection is complicated by aortic valve insufficiency in up to 75% of patients. Fortunately, preservation of the native valve is successful nearly 85% of the time. The mechanism of aortic insufficiency in most cases is the loss of commissural support of the valve leaflets. This is repaired using pledgeted 4-0 Prolene sutures to reposition each of the commissures at the sinotubular ridge (Fig. 47-18). The dissected aortic root layers are then reunited using 3-0 Prolene suture and either one or two strips of Teflon felt to recreate the sinotubular junction and reform the sinuses of Valsalva. Aortic valve preservation must always be performed using intraoperative TEE to assess the valve postoperatively. No more than mild aortic insufficiency should be present. In addition to commissural resuspension, techniques exist to spare the aortic valve and replace the aortic root in acute type A dissection, but the experience is early and the number of patients few. This topic is covered in greater detail in the section on surgical techniques for chronic type A dissection. If the aortic valve cannot be spared, replacement of the ascending aorta and valve should be performed using a composite valve graft or homograft. The composite valve graft is implanted using horizontal mattress 2-0 Tycron sutures to encircle the annulus and to seat the valved conduit (Fig. 47-19). The previously excised and reconstituted coronary buttons are reimplanted into the vascular graft with running 5-0 Prolene suture (Fig. 47-20). The left coronary button is implanted first, at which time the graft is clamped and placed under pressure to define the proper orientation and position of the right coronary button. The aortic homograft is similarly implanted using horizontal mattress 2-0 Tycron sutures, except that a generous margin of aortic root below the coronary buttons is retained for a second hemostatic suture line of running 4-0 Prolene. This is an ideal solution for individuals who have a contraindication to anticoagulation or for young females. The Ross procedure (pulmonary autograft) is not applicable in those patients with connective tissue disorders and not recommended in acute dissection.
   
 ![](_page_16_Picture_2.jpeg)
@@ -741,295 +775,632 @@ Acute type A dissection is complicated by aortic valve insufficiency in up to 75
 ![](_page_16_Picture_4.jpeg)
 
 **FIGURE 47-19** Everting 2-0 pledgeted mattress sutures are placed shoulder to shoulder around the aortic annulus to anchor a composite graft containing a St. Jude prosthesis.
-
-Some centers have extended repairs into the descending thoracic aorta utilizing thoracic aortic endografts to potentially decrease the risk of malperfusion, reduce distal aortic aneurysmal degeneration and rupture, and decrease late distal aortic reoperation. This hybrid repair, commonly referred to as a "frozen elephant trunk," is performed during the circulatory arrest period. A guidewire is introduced into the open true lumen and positioned in the mid-descending aorta. An endograft is then introduced over the guidewire, positioned under direct vision just distal to the left subclavian artery, and then deployed. The proximal extent of the endograft is then secured with suture to the native aorta. Institutions with hybrid operating rooms with integrated fluoroscopy may also utilize fluoroscopy to guide final endograft placement. They may also perform completion angiography and correct any distal malperfusion with endovascular fenestration and peripheral arterial stenting. At present these techniques are not widely performed and techniques are evolving.
-  
+</div>
+</details>
+ 
 ![](_page_17_Picture_2.jpeg)
 
 **FIGURE 47-20** The coronary ostia are attached to the graft by the button technique using continuous 5-0 polypropylene suture.
+
+<details class="med-details">
+<summary>Repair of the descending thoracic aorta, frozen elephant trunk</summary>
+<div class="details-content">
+Some centers have extended repairs into the descending thoracic aorta utilizing thoracic aortic endografts to potentially decrease the risk of malperfusion, reduce distal aortic aneurysmal degeneration and rupture, and decrease late distal aortic reoperation. This hybrid repair, commonly referred to as a "frozen elephant trunk," is performed during the circulatory arrest period. A guidewire is introduced into the open true lumen and positioned in the mid-descending aorta. An endograft is then introduced over the guidewire, positioned under direct vision just distal to the left subclavian artery, and then deployed. The proximal extent of the endograft is then secured with suture to the native aorta. Institutions with hybrid operating rooms with integrated fluoroscopy may also utilize fluoroscopy to guide final endograft placement. They may also perform completion angiography and correct any distal malperfusion with endovascular fenestration and peripheral arterial stenting. At present these techniques are not widely performed and techniques are evolving.
+  
 </div>
 </details>
 
+</div>
+</details>
 
-#### POSTOPERATIVE MANAGEMENT
+<details class="med-details">
+<summary>POSTOPERATIVE MANAGEMENT</summary>
+<div class="details-content">
 
 Invasive hemodynamic monitoring is used to ensure adequate end-organ perfusion with a target systolic blood pressure between 90 and 110 mm Hg. Early postoperative blood pressure control begins with adequate analgesia and sedation using narcotics and sedative/hypnotic agents. The patient should, however, be allowed to emerge from general anesthesia briefly for a gross neurologic examination. The patient is then sedated for a period to ensure continued hemodynamic stability and facilitate hemostasis. Coagulopathy is aggressively treated with blood products and antifibrinolytic agents as necessary, and by warming the patient. Hematocrit, platelet count, coagulation studies, and serum electrolytes are obtained and corrected as necessary. An ECG and chest radiograph are used to assess for abnormalities and to serve as baseline studies. A full physical exam, including complete peripheral vascular exam, is performed on arrival. Despite adequate repair of the dissection, perfusion of the false lumen may persist; therefore, malperfusion syndrome remains possible. If an abdominal malperfusion syndrome is suspected postoperatively, this should be aggressively evaluated with ultrasound and subsequent angiography if positive. A strong clinical suspicion is enough to warrant this evaluation given the consequences of failed recognition. Exploratory laparotomy should be performed early if bowel ischemia is suspected. The patient can be extubated once extubation criteria are met if the patient has been hemodynamically stable without excessive bleeding and the results of a neurologic exam are normal. Management is routine from that point forward.
+</div>
+</details>
 
-#### LONG-TERM MANAGEMENT
+<details class="med-details">
+<summary>LONG-TERM MANAGEMENT</summary>
+<div class="details-content">
 
-Surviving the operation for acute dissection represents the beginning of a lifelong requirement for meticulous medical management and continued close observation. It has been estimated that replacement of the ascending aorta for type A dissection obliterates flow in the distal false lumen in fewer than 10% of patients. As a result, the natural history of repaired dissection may involve dilatation and potential rupture of the chronically dissected distal aorta. This was the reason for the late death in nearly 30% of DeBakey's original series in 1982 and is currently the leading cause of late death following surgical repair.<sup>32</sup> Often a multidrug antihypertensive regimen including beta-blocking agents is required to maintain systolic blood pressure below 120 mm Hg. There are some data indicating that blood pressure control within a narrow range may alter the natural history of chronic dissection by diminishing the rate of aneurysmal dilatation. The long-term durability of the aortic valve after supracoronary reconstruction is quite good with freedom from aortic valve replacement of 80 to 90% at 10 years. Progressive aortic insufficiency of the native valve is possible and should be followed with TEE in some patients.
+Surviving the operation for acute dissection represents the beginning of a lifelong requirement for meticulous medical management and continued close observation. 
+<details class="med-details">
+<summary>Dilatation and potential rupture of the chronically dissected distal aorta, "late death"</summary>
+<div class="details-content">
+It has been estimated that replacement of the ascending aorta for type A dissection obliterates flow in the distal false lumen in fewer than 10% of patients. As a result, the natural history of repaired dissection may involve dilatation and potential rupture of the chronically dissected distal aorta. This was the reason for the late death in nearly 30% of DeBakey's original series in 1982 and is currently the leading cause of late death following surgical repair. Often a multidrug antihypertensive regimen including beta-blocking agents is required to maintain systolic blood pressure below 120 mm Hg. There are some data indicating that blood pressure control within a narrow range may alter the natural history of chronic dissection by diminishing the rate of aneurysmal dilatation.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Aortic valve</summary>
+<div class="details-content">
+ The long-term durability of the aortic valve after supracoronary reconstruction is quite good with freedom from aortic valve replacement of 80 to 90% at 10 years. Progressive aortic insufficiency of the native valve is possible and should be followed with TEE in some patients.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Follow-up diagnostic imaging</summary>
+<div class="details-content">
 Follow-up diagnostic imaging is required to monitor aortic diameter in patients after repair. Spiral CTA and MRI are the imaging studies of choice. MRI and ultrasound are useful in patients with renal insufficiency and those requiring only imaging of the abdominal aorta. Echocardiography is useful for imaging the ascending aorta and provides additional information regarding the aortic valve. It is important to recognize the resolution limitations of each imaging modality and inherent imprecision of comparing different imaging modalities to evaluate changes. In general, measurements should be made at the same anatomical level with respect to reproducible anatomical structures (ie, the sinotubular ridge, proximal to the innominate or left subclavian arteries or at the diaphragmatic hiatus). It is important to recognize that the false lumen should be included in measurements of aortic diameter whether it is perfused or not. Three-dimensional reconstruction of spiral CT and MRI scans minimizes the error introduced by aortic eccentricity when comparing imaging studies and has simplified following this patient population. The current recommendations are to obtain a baseline study before hospital discharge and at 6-month intervals during the first year. If the aortic diameter remains unchanged at 1 year, studies are obtained yearly. Aortic enlargement of more than 0.5 cm within a 6-month period and greater eccentricity on comparison of threedimensional reconstruction images are high-risk changes for which the interval is decreased to 3 months if surgery is not indicated.
+</div>
+</details>
 
-## Results
+</div>
+</details>
 
+<details class="med-details">
+<summary>Results</summary>
+<div class="details-content">
+
+
+<details class="med-details">
+<summary>Operative mortality</summary>
+<div class="details-content">
 The operative mortality for repair of acute type A aortic dissection has fallen since DeBakey's original 40% mortality was reported in 1965. Improved ICU and floor care of these patients, earlier recognition of dissection through improved imaging modalities, development of hemostatic vascular graft material, more effective hemostatic agents, and improvements in the safety of cardiopulmonary bypass are likely responsible. In the last two decades, most centers consistently report an operative mortality for acute type A dissection of between 10 and 30%. The high early mortality in acute dissection parallels the number of patients who present profoundly hypotensive and in shock. The mode of death is stroke, myocardial ischemia/heart failure, aortic rupture, or malperfusion in most cases.
+</div>
+</details>
 
-The International Registry of Acute Aortic Dissections (IRAD) recently reported on the results of 526 patients with acute type A aortic dissection who underwent surgical treatment in 18 large tertiary centers.<sup>33</sup> Surgery in these patients included replacement of the ascending aorta in 92%, aortic root in 32%, partial arch in 23%, complete arch in 12%, and descending aorta in 4%. Overall in-hospital mortality was 25%; 31% for hemodynamically unstable patients; and 17% for stable patients. Causes of death were aortic rupture (33%), neurologic complications (14%), visceral ischemia (12%), tamponade (3%), or nonspecified (42%).
+<details class="med-details">
+<summary>The International Registry of Acute Aortic Dissections (IRAD) report</summary>
+<div class="details-content">
+The International Registry of Acute Aortic Dissections (IRAD) recently reported on the results of 526 patients with acute type A aortic dissection who underwent surgical treatment in 18 large tertiary centers. Surgery in these patients included replacement of the ascending aorta in 92%, aortic root in 32%, partial arch in 23%, complete arch in 12%, and descending aorta in 4%. Overall in-hospital mortality was 25%; 31% for hemodynamically unstable patients; and 17% for stable patients. Causes of death were aortic rupture (33%), neurologic complications (14%), visceral ischemia (12%), tamponade (3%), or nonspecified (42%).
+</div>
+</details>
 
-Age is not an absolute contraindication to surgical treatment of type A aortic dissections. However, operative mortality increases with age. Retrospective series show that operative mortality increases from 20 to 30% for patients younger than 75 years of age to greater than 45 to 50% for those 80 years or older.<sup>34</sup>
+<details class="med-details">
+<summary>Age and operative mortality</summary>
+<div class="details-content">
+Age is not an absolute contraindication to surgical treatment of type A aortic dissections. However, operative mortality increases with age. Retrospective series show that operative mortality increases from 20 to 30% for patients younger than 75 years of age to greater than 45 to 50% for those 80 years or older.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Long-term survival</summary>
+<div class="details-content">
 The published results for long-term survival following surgically treated acute type A aortic dissection over the last decade is roughly 71 to 89% at 5 years and between 54 and 66% at 10 years. Survival for patients who are discharged alive from the hospital after surgical repair of type A aortic dissection carries a survival rate of 96% at 1 year and 91% at 3 years.
 </div>
 </details>
 
+</div>
+</details>
 
+</div>
+</details>
 
 <details class="med-details">
 <summary>MANAGEMENT OF ACUTE TYPE B AORTIC DISSECTION</summary>
 <div class="details-content">
-## MANAGEMENT OF ACUTE TYPE B AORTIC DISSECTION
+  
+Type B aortic dissections account for approximately 40% of all acute aortic dissections. Their natural course is more benign than that of acute type A dissections.
 
-Type B aortic dissections account for approximately 40% of all acute aortic dissections.<sup>8</sup> Their natural course is more benign than that of acute type A dissections.
+<details class="med-details">
+<summary>Complicated type B dissection</summary>
+<div class="details-content">
+Most patients with acute type B aortic dissections survive the acute and subacute phases with medical management alone. Approximately 20 to 30% of patients present with complicated type B dissection, which require urgent operative (surgical or endovascular) intervention. Complicated dissection can be defined as imminent or actual aortic rupture, aortic expansion, hemodynamic instability, persistent pain despite medical management, drug-resistant hypertension, and malperfusion syndrome. The most frequent causes of death in acute type B dissection are aortic rupture and visceral malperfusion.
+</div>
+</details>
 
-Most patients with acute type B aortic dissections survive the acute and subacute phases with medical management alone. Approximately 20 to 30% of patients present with complicated type B dissection, which require urgent operative (surgical or endovascular) intervention. Complicated dissection can be defined as imminent or actual aortic rupture, aortic expansion, hemodynamic instability, persistent pain despite medical management, drug-resistant hypertension, and malperfusion syndrome.<sup>8,39</sup> The most frequent causes of
+<details class="med-details">
+<summary>Prognosis and survial rates</summary>
+<div class="details-content">
+The relative success with medical management has relegated surgical treatment for acute type B dissections to patients with complicated dissections or those with progression of the disease (see Table 47-5). Medical therapy of uncomplicated type B aortic dissection confers a relatively good short-term prognosis with in-hospital survival of approximately 90%. Medical management in these patients has survival rates of approximately 85% at 1 year and 71% at 5 years.
 
-death in acute type B dissection are aortic rupture and visceral malperfusion.
+On the contrary, patients with complicated dissections that require open surgical intervention have a 30-day mortality of approximately 30%. More recently though, endovascular techniques have been used in these complicated dissections with reduced perioperative mortality and morbidity. Endovascular treatment of acute type B dissections was first described in 1999 by Dake et al and Nienaber et al. As endovascular treatment of complicated dissections has expanded, the results have improved, with studies now reporting a mortality of around 5%.
+</div>
+</details>
 
-The relative success with medical management has relegated surgical treatment for acute type B dissections to patients with complicated dissections or those with progression of the disease (see Table 47-5). Medical therapy of uncomplicated type B aortic dissection confers a relatively good short-term prognosis with in-hospital survival of approximately 90%.<sup>39</sup> Medical management in these patients has survival rates of approximately 85% at 1 year and 71% at 5 years.<sup>40</sup>
-
-On the contrary, patients with complicated dissections that require open surgical intervention have a 30-day mortality of approximately 30%. More recently though, endovascular techniques have been used in these complicated dissections with reduced perioperative mortality and morbidity. Endovascular treatment of acute type B dissections was first described in 1999 by Dake et al<sup>41</sup> and Nienaber et al. As endovascular treatment of complicated dissections has expanded, the results have improved, with studies now reporting a mortality of around 5%.
-
-## **Medical Management**
+<details class="med-details">
+<summary>Medical Management</summary>
+<div class="details-content">
 
 Historically, the mortality of open surgical approaches for type B aortic dissections exceeded 50%, whereas medical management carried a mortality risk of 30% or less. Therefore, medical management has played a pivotal role in the management of these patients. Medical management is identical to that described in the initial management of the acute type A aortic dissection. The goals are control of the heart rate and blood pressure to decrease the shear stress on the aorta and limit expansion of the false lumen and propagation of the dissection.
 
-Medical management initially requires an adequate airway and intravenous access. Patients with suspected or confirmed type B aortic dissection should be admitted to the intensive care unit for close monitoring. Pain control is important to reduce catecholamine release and is best achieved with narcotic medications, in particular morphine sulfate. Management is initiated with beta-blockers such as esmolol or propranolol. These medications should be titrated to achieve optimal blood pressure (ie, systolic pressure of 100 to 120 mm Hg) and heart rate while allowing for adequate renal, gut, and brain perfusion. Heart rate control to a goal of less than 60 bpm has been shown to decrease the risk of secondary adverse events such as aortic expansion, recurrent dissection, and aortic rupture.
+Medical management initially requires an adequate airway and intravenous access. Patients with suspected or confirmed type B aortic dissection should be admitted to the intensive care unit for close monitoring. Pain control is important to reduce catecholamine release and is best achieved with <strong>narcotic medications</strong>, in particular morphine sulfate. Management is initiated with <strong>beta-blockers</strong> such as esmolol or propranolol. These medications should be titrated to achieve optimal blood pressure (ie, systolic pressure of 100 to 120 mm Hg) and heart rate while allowing for adequate renal, gut, and brain perfusion. Heart rate control to a goal of less than 60 bpm has been shown to decrease the risk of secondary adverse events such as aortic expansion, recurrent dissection, and aortic rupture.
 
-Vasodilators such as sodium nitroprusside can be used as an adjunct to beta-blockers if blood pressure is still not adequately controlled. Vasodilators can increase the force of ventricular ejection and aortic shear stress and should therefore be only used concurrently with beta-blockade. Calcium channel blockers can also be used to control blood pressure, especially in patients intolerant to beta-blockers. However, their use has not been appropriately studied in patients with aortic dissection. Patients with normal or decreased low blood pressure at presentation, without evidence of cardiac
-
-tamponade or heart failure, may benefit from judicious intravenous volume administration.
+<strong>Vasodilators</strong> such as sodium nitroprusside can be used as an adjunct to beta-blockers if blood pressure is still not adequately controlled. Vasodilators can increase the force of ventricular ejection and aortic shear stress and should therefore be only used concurrently with beta-blockade. <strong>Calcium channel blockers</strong> can also be used to control blood pressure, especially in patients intolerant to beta-blockers. However, their use has not been appropriately studied in patients with aortic dissection. Patients with normal or decreased low blood pressure at presentation, without evidence of cardiac tamponade or heart failure, may benefit from judicious intravenous volume administration.
 
 Once the patient with uncomplicated type B aortic dissection has been stabilized, blood pressure medications should be transitioned to an oral regimen. The patient can then be discharged from the hospital with close follow-up, including imaging and clinical assessment in 3 months and every 6 months thereafter.
+</div>
+</details>
 
-## **Operative Indications**
+<details class="med-details">
+<summary>Operative Indications</summary>
+<div class="details-content">
 
-Operative management of acute type B aortic dissection, either by endovascular or by open surgical techniques, is currently limited to the prevention or relief of life-threatening complications. <sup>9,45</sup> Operative treatment is indicated for patients with persistent or recurrent pain, medically uncontrolled hypertension, rapidly expanding aortic diameter, progression of dissection despite maximal medical management, signs of impending or actual aortic rupture (ie, periaortic or mediastinal hematoma), or malperfusion to limbs, kidneys, or gut (see Table 47-5).
+Operative management of acute type B aortic dissection, either by endovascular or by open surgical techniques, is currently limited to the prevention or relief of life-threatening complications. Operative treatment is indicated for patients with persistent or recurrent pain, medically uncontrolled hypertension, rapidly expanding aortic diameter, progression of dissection despite maximal medical management, signs of impending or actual aortic rupture (ie, periaortic or mediastinal hematoma), or malperfusion to limbs, kidneys, or gut (see Table 47-5).
+</div>
+</details>
 
-## **Endovascular Therapy**
+<details class="med-details">
+<summary>Endovascular Therapy</summary>
+<div class="details-content">
 
-#### **GENERAL CONSIDERATIONS**
+<details class="med-details">
+<summary>GENERAL CONSIDERATIONS</summary>
+<div class="details-content">
 
+<details class="med-details">
+<summary>Endovascular treatments can include</summary>
+<div class="details-content">
 Given the poor outcomes of open surgical approaches, endovascular therapy has transitioned to the frontline of therapy for complicated type B dissections. Endovascular treatments can include placement of thoracic endovascular graft prostheses, endovascular creation of flap fenestrations, and/or placement of uncovered stents in affected branch vessels to treat malperfusion. Because of the relative simplicity and recent improvements in outcomes, endovascular grafts have become the preferred endovascular technique for treatment of aortic dissections.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Endovascular graft therapy</summary>
+<div class="details-content">
 The goals of endovascular graft therapy in complicated acute aortic dissection are to restore flow to the true lumen and perfusion to the distal aorta and branch vessels. Coverage of the primary tear is frequently necessary to achieve these goals, especially if the tear is in the proximal descending aorta. Obliteration of the false lumen is desirable as well because it improves the prognosis, but it is not always possible. Endoluminal treatment of these cases usually requires coverage of the entire descending thoracic aorta because of the presence of multiple tears in the intima. The optimal outcome occurs when the prosthesis covers the primary tear, reapposes the dissected layers of the aorta, and prevents blood flow into the false lumen, therefore leading to thrombosis of the false lumen, expansion of the true lumen, and restoration of branch vessel patency (Fig. 47-21).
-
-An alternative technique used to treat branch malperfusion from aortic dissection is percutaneous fenestration with or without stenting of the malperfused branch vessels. According to this technique, a communication is created between the true and the false aortic lumens so as to
-
+  
 ![](_page_19_Figure_12.jpeg)
 
-**FIGURE 47-21** Endovascular stent grafting in a 77-year-old male with an acute type B aortic dissection. *Upper panel:* CTA at initial presentation showing a long dissection flap involving the descending thoracic aorta. *Lower panel:* CTA on the same patient one year after placement of an endovascular stent graft showing aortic remodeling with obliteration of the false lumen. (Used with permission from John Kern.)
+**FIGURE 47-21** Endovascular stent grafting in a 77-year-old male with an acute type B aortic dissection. *Upper panel:* CTA at initial presentation showing a long dissection flap involving the descending thoracic aorta. *Lower panel:* CTA on the same patient one year after placement of an endovascular stent graft showing aortic remodeling with obliteration of the false lumen.
+</div>
+</details>
 
-provide flow to both of them. Percutaneous fenestration is performed by pulling an inflated balloon or a fenestration knife through the dissection flap to create communication between both lumens. An uncovered stent can then be placed in the true lumen at the region of the affected branch vessel or vessels to alleviate dynamic obstruction (occlusion of the branch by prolapse of the dissection flap into the branch vessel). 46 If static obstruction (extension of the dissection into
-
-the branch vessel with reduction of the true lumen) is also present, a stent is deployed directly into the branch vessel (Fig. 47-22). The major limitation of percutaneous fenestration for treatment of aortic dissection when compared with endovascular grafting is that it does not induce thrombosis of the false lumen. False lumen thrombosis has been shown to induce aortic remodeling and decrease the long-term risk of aortic dilatation and rupture.<sup>47</sup>
+<details class="med-details">
+<summary>Percutaneous fenestration with or without stenting</summary>
+<div class="details-content">
+An alternative technique used to treat branch malperfusion from aortic dissection is percutaneous fenestration with or without stenting of the malperfused branch vessels. According to this technique, a communication is created between the true and the false aortic lumens so as to provide flow to both of them. Percutaneous fenestration is performed by pulling an inflated balloon or a fenestration knife through the dissection flap to create communication between both lumens. An uncovered stent can then be placed in the true lumen at the region of the affected branch vessel or vessels to alleviate dynamic obstruction (occlusion of the branch by prolapse of the dissection flap into the branch vessel).  If static obstruction (extension of the dissection into the branch vessel with reduction of the true lumen) is also present, a stent is deployed directly into the branch vessel (Fig. 47-22). The major limitation of percutaneous fenestration for treatment of aortic dissection when compared with endovascular grafting is that it does not induce thrombosis of the false lumen. False lumen thrombosis has been shown to induce aortic remodeling and decrease the long-term risk of aortic dilatation and rupture.
 
 ![](_page_20_Figure_4.jpeg)
 
-FIGURE 47-22 Endovascular treatment of visceral ischemia with fenestration and stenting of the aortic true lumen and the superior mesenteric artery (SMA) on a 40-year-old man with type B aortic dissection. (A) Near-total aortic true lumen collapse of the proximal descending aorta. (B) Dynamic compromise of the celiac artery origin. (C) Collapsed true lumen and dissection flap within the SMA suggesting both dynamic and static obstructions of this vessel. (D) Angiogram showing the dissection flap extending into the SMA. (E, F) Follow-up imaging at 1 month after percutaneous fenestration, true lumen stenting of the aorta at the level of the celiac artery, and placement of a stent into the SMA shows a patent fenestration tear in the dissection flap and a patent vessel. (Reproduced with permission from from Patel HJ, Williams DM, Meerkov M, et al: Long-term results of percutaneous management of malperfusion in acute type B aortic dissection: implications for thoracic aortic endovascular repair, *J Thorac Cardiovasc Surg.* 2009 Aug;138(2):300-308.)
+FIGURE 47-22 Endovascular treatment of visceral ischemia with fenestration and stenting of the aortic true lumen and the superior mesenteric artery (SMA) on a 40-year-old man with type B aortic dissection. (A) Near-total aortic true lumen collapse of the proximal descending aorta. (B) Dynamic compromise of the celiac artery origin. (C) Collapsed true lumen and dissection flap within the SMA suggesting both dynamic and static obstructions of this vessel. (D) Angiogram showing the dissection flap extending into the SMA. (E, F) Follow-up imaging at 1 month after percutaneous fenestration, true lumen stenting of the aorta at the level of the celiac artery, and placement of a stent into the SMA shows a patent fenestration tear in the dissection flap and a patent vessel. 
 
-Percutaneous fenestration and stenting can also be used as an adjunct to endovascular grafting when closure of the primary tear fails to improve distal malperfusion. Another technique that can be used to improve malperfusion after endovascular grafting is the PETTICOAT (provisional extension to induce complete attachment) technique. According to this technique, a bare metal stent is placed as a distal extension of the previously implanted stent graft in order to expand the true lumen.
+Percutaneous fenestration and stenting can also be used as an adjunct to endovascular grafting when closure of the primary tear fails to improve distal malperfusion.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>PETTICOAT</summary>
+<div class="details-content">
+Another technique that can be used to improve malperfusion after endovascular grafting is the PETTICOAT (provisional extension to induce complete attachment) technique. According to this technique, a bare metal stent is placed as a distal extension of the previously implanted stent graft in order to expand the true lumen.
+</div>
+</details>
 
-#### PREOPERATIVE PLANNING
+</div>
+</details>
+
+<details class="med-details">
+<summary>PREOPERATIVE PLANNING</summary>
+<div class="details-content">
 
 The endovascular treatment of aortic dissections requires meticulous preoperative planning. The anatomy of the aorta and the actual dissection should be studied in detail with the use of imaging technology.
 
+<details class="med-details">
+<summary>Preoperative imaging</summary>
+<div class="details-content">
 Preoperative imaging for endovascular repair of aortic dissections is accomplished with either computed tomographic arteriogram (CTA) or MRA. Three-dimensional sagittal and coronal reconstructions are useful to assess details of the anatomy of the aorta. Preoperative imaging allows the surgeon to size the aorta for selection of the device, ascertain the presence of adequate proximal and distal landing zones for adequate apposition of the graft, and assess the femoral and iliac vessels to plan the delivery of the device.
+</div>
+</details>
 
-The left subclavian artery may be occluded in certain situations without the need for revascularization. Exclusion of the left subclavian artery without concomitant revascularization should be avoided in patients with a patent left internal mammary artery coronary bypass, those with an incomplete posterior cerebral circulation, a dominant left vertebral vessel, or a stenosed or occluded right vertebral artery.<sup>49</sup> Left subclavian revascularization should also be considered in those patients in whom a long segment of the aorta is being covered or those with a history of prior aortic surgeries because of the increased risk of spinal ischemia. Left subclavian revascularization is usually accomplished with the creation of a left carotid to subclavian bypass, or less commonly, left subclavian artery transposition. To assess the cerebral circulation, a head and neck CTA should be performed preoperatively in every patient in whom left subclavian exclusion is a possibility. In our experience, the left subclavian artery is covered in approximately 50% of the cases, with 25% of these patients requiring revascularization because of concerns of cerebral circulation or arm claudication.<sup>50</sup>
+<details class="med-details">
+<summary>Left subclavian artery occlusion</summary>
+<div class="details-content">
+The left subclavian artery may be occluded in certain situations without the need for revascularization. Exclusion of the left subclavian artery without concomitant revascularization should be avoided in patients with a patent left internal mammary artery coronary bypass, those with an incomplete posterior cerebral circulation, a dominant left vertebral vessel, or a stenosed or occluded right vertebral artery. Left subclavian revascularization should also be considered in those patients in whom a long segment of the aorta is being covered or those with a history of prior aortic surgeries because of the increased risk of spinal ischemia. Left subclavian revascularization is usually accomplished with the creation of a left carotid to subclavian bypass, or less commonly, left subclavian artery transposition. To assess the cerebral circulation, a head and neck CTA should be performed preoperatively in every patient in whom left subclavian exclusion is a possibility. In our experience, the left subclavian artery is covered in approximately 50% of the cases, with 25% of these patients requiring revascularization because of concerns of cerebral circulation or arm claudication.
+</div>
+</details>
 
-Adequate vascular access for delivery of the device is an important requirement for endovascular therapy of the aorta. Both iliofemoral systems are evaluated preoperatively with CTA or MRA with particular attention to size, tortuosity, and presence of calcification that may preclude safe delivery of the device. The minimum size required for the access vessels is determined by the outer diameter of the introducer sheath. Current devices require insertion through a vessel of at least 6 to 8 mm in diameter (equivalent to ~20 French delivery device). When the femoral vessels have an adequate caliber, no tortuosity, and minimal calcification, total percutaneous access is possible, using automated percutaneous closure devices to seal the entry point. Alternatively, an open
+<details class="med-details">
+<summary>Vascular access</summary>
+<div class="details-content">
+Adequate vascular access for delivery of the device is an important requirement for endovascular therapy of the aorta. Both iliofemoral systems are evaluated preoperatively with CTA or MRA with particular attention to size, tortuosity, and presence of calcification that may preclude safe delivery of the device. The minimum size required for the access vessels is determined by the outer diameter of the introducer sheath. Current devices require insertion through a vessel of at least 6 to 8 mm in diameter (equivalent to ~20 French delivery device). When the femoral vessels have an adequate caliber, no tortuosity, and minimal calcification, total percutaneous access is possible, using automated percutaneous closure devices to seal the entry point. Alternatively, an open approach to control the common femoral arteries may be used. If the caliber of the femoral vessels is not appropriate for insertion of the device, retro-peritoneal exposure of the iliac artery with placement of a 10-mm tube graft may be necessary as a surgical conduit for insertion of the device.
+</div>
+</details>
 
-approach to control the common femoral arteries may be used. If the caliber of the femoral vessels is not appropriate for insertion of the device, retro-peritoneal exposure of the iliac artery with placement of a 10-mm tube graft may be necessary as a surgical conduit for insertion of the device.
+<details class="med-details">
+<summary>Lumbar catheter for decreasing the risk of permanent paraplegia</summary>
+<div class="details-content">
+Endovascular stenting of the aorta is associated with a risk of paraplegia in recent series of 0 to 3.4%. Preoperative insertion of a lumbar catheter for drainage of cerebrospinal fluid (CSF) may decrease the risk of permanent paraplegia. In our institutions, we perform selective preoperative placement of lumbar catheters at the discretion of the surgeon, taking into account the region and length of planned aortic exclusion, and previous history of aortic surgery. If there is no evidence of paraplegia postoperatively, these drains are usually discontinued 48 to 72 hours after surgery.
+</div>
+</details>
 
-Endovascular stenting of the aorta is associated with a risk of paraplegia in recent series of 0 to 3.4%. <sup>39,51</sup> Preoperative insertion of a lumbar catheter for drainage of cerebrospinal fluid (CSF) may decrease the risk of permanent paraplegia. In our institutions, we perform selective preoperative placement of lumbar catheters at the discretion of the surgeon, taking into account the region and length of planned aortic exclusion, and previous history of aortic surgery. <sup>49</sup> If there is no evidence of paraplegia postoperatively, these drains are usually discontinued 48 to 72 hours after surgery.
+</div>
+</details>
 
-## **Operative Technique**
+<details class="med-details">
+<summary>Operative Technique</summary>
+<div class="details-content">
 
 The endovascular stenting procedure can be performed either in the angiography suite or an operating room with advanced imaging capabilities. At our institutions, the procedure is performed in the angiography suite by a team of cardiovascular surgeons and interventional radiologists. The procedure is usually performed under general anesthesia, although local or epidural anesthesia can also be used, depending on the comorbidities and clinical status of the patient. Monitoring lines are placed, including a radial arterial line in the right upper extremity. A lumbar drain for CSF drainage is placed preoperatively at the discretion of the surgeon, as stated. Antibiotic prophylaxis is administered.
 
+
+<details class="med-details">
+<summary>Access</summary>
+<div class="details-content">
 In most cases, bilateral iliofemoral arterial access is used for the procedure. The larger side with less calcification and tortuosity is chosen for the delivery of the device. The other side is used for percutaneous insertion of a 5 French pigtail catheter for diagnostic contrast injection. If only one side is appropriate for use, the diagnostic pigtail catheter may be inserted through one of the brachial arteries.
 
 If there is significant calcification of the vessel or the surgeon does not feel comfortable with the use of a percutaneous vascular closure device, the femoral artery is surgically exposed and controlled. In our experience, approximately 20% of patients have femoral vessels of an inadequate caliber to accommodate the delivery device. In these patients, a flank incision is performed and the retroperitoneal common iliac artery is exposed. A 10-mm polyester surgical conduit is then anastomosed to the common iliac artery and used as access for delivery of the device.
+</div>
+</details>
 
-The pigtail catheter is inserted percutaneously and advanced to the arch of the aorta. Aortography or IVUS is then used to confirm the location of the catheter within the true lumen, define the anatomy, localize the entry tear, and create a roadmap for the procedure. The confirmation of the device being in the true lumen cannot be overemphasized. Many centers use only IVUS for these procedures. From these images, the decision is made regarding the site of deployment. The left subclavian artery may need to be covered to ensure an adequate proximal landing zone and completely exclude the
+<details class="med-details">
+<summary>Aortography or IVUS</summary>
+<div class="details-content">
+The pigtail catheter is inserted percutaneously and advanced to the arch of the aorta. Aortography or IVUS is then used to confirm the location of the catheter within the true lumen, define the anatomy, localize the entry tear, and create a roadmap for the procedure. The confirmation of the device being in the true lumen cannot be overemphasized. Many centers use only IVUS for these procedures. From these images, the decision is made regarding the site of deployment. The left subclavian artery may need to be covered to ensure an adequate proximal landing zone and completely exclude the primary tear. The proximal landing zone is usually visualized best at a fluoroscopic angle of approximately 45 to 75 degrees left anterior oblique (LAO).
+</div>
+</details>
 
-primary tear. The proximal landing zone is usually visualized best at a fluoroscopic angle of approximately 45 to 75 degrees left anterior oblique (LAO).
-
+<details class="med-details">
+<summary>Placement of the device</summary>
+<div class="details-content">
 A super-stiff wire is then inserted through a sheath placed into the iliofemoral vessel previously chosen for device delivery, and advanced into the aortic arch. The patient is heparinized to an ACT of greater than or equal to 200 seconds. The appropriate sheath is advanced into the abdominal aorta under direct fluoroscopic visualization. The device is then advanced to the selected point of delivery. Placement of the sheath and the device into the aorta are probably the most dangerous parts of this procedure. Before the deployment of the device, blood pressure and heart rate should be pharmacologically controlled so as to avoid undue strain on the heart and migration of the endograft on deployment. The device is then deployed. The optimal placement of the prosthesis is confirmed by angiography or IVUS. Although the device may need to be ballooned for full opening and apposition to the aortic wall, this maneuver has inherent risks given the weakness of the aortic wall and the pressure required to expand the stent grafts.
+</div>
+</details>
 
+
+<details class="med-details">
+<summary>Control and resolution of malperfusion to branch vessels</summary>
+<div class="details-content">
 It is important to confirm the correct placement of the device, the absence of endoleaks, and the resolution of malperfusion to branch vessels at the end of the procedure. For this purpose, an angiogram is performed through the diagnostic pigtail catheter. If there is evidence of persistent malperfusion, adjunctive therapies should be considered such as percutaneous fenestration or deployment of additional baremetal stents on the distal aspect of the prosthesis to expand the true lumen (PETTICOAT technique). Branch vessel stenting may also be necessary to relieve static obstruction. In case of a ruptured dissection, the endovascular prosthesis should cover both the site of the primary tear and the site of rupture. Furthermore, in patients with significant hemothorax the dissection should be treated before draining the chest, as this may be tamponading the rupture.
+</div>
+</details>
 
-## Surgical Therapy
+</div>
+</details>
 
-### **GENERAL CONSIDERATIONS**
+</div>
+</details>
+
+<details class="med-details">
+<summary>Surgical Therapy</summary>
+<div class="details-content">
+
+<details class="med-details">
+<summary>GENERAL CONSIDERATIONS</summary>
+<div class="details-content">
 
 Open surgical intervention for type B aortic dissections is performed under general anesthesia with narcotic and inhalational agents. Double-lumen endotracheal intubation allows for lung isolation, which is critical in exposure of the thoracic aorta. Central venous access, right radial and femoral arterial lines, and in selected cases a pulmonary artery catheter, are inserted before the procedure. Core body temperature is usually measured with the use of a temperature probe in the Foley catheter and/or an esophageal probe. Antibiotic prophylaxis is administered.
 
+<details class="med-details">
+<summary>Spinal cord ischemia</summary>
+<div class="details-content">
 Spinal cord ischemia resulting in paraplegia or paraparesis is a recognized complication of acute dissection repair that may be partially preventable and even reversible. The incidence of spinal cord ischemia is between 19 and 36% after repair of acute type B dissection. Whereas various strategies exist to prevent spinal cord ischemia during repair of a chronic dissection, very few are feasible in the acute setting.
 
-Pharmacologic agents such as steroids, free radical scavengers, vasodilators, and adenosine are promising adjuncts to prevent spinal cord ischemia but presently have little to no proven clinical utility. We presently use left atrial to femoral artery bypass and reimplant key intercostals arteries and selectively use CSF drainage as outlined by Safi et al.<sup>54</sup>
+Pharmacologic agents such as steroids, free radical scavengers, vasodilators, and adenosine are promising adjuncts to prevent spinal cord ischemia but presently have little to no proven clinical utility. We presently use left atrial to femoral artery bypass and reimplant key intercostals arteries and selectively use CSF drainage as outlined by Safi et al.
+</div>
+</details>
 
-#### **OPERATIVE TECHNIQUE**
+</div>
+</details>
+
+<details class="med-details">
+<summary>OPERATIVE TECHNIQUE</summary>
+<div class="details-content">
 
 The patient is positioned in right lateral decubitus. The pelvis is canted posteriorly to allow access to both femoral vessels. A posterolateral thoracotomy in the fourth intercostal space provides sufficient access to the aorta; notching the fifth and sixth ribs posteriorly can facilitate wider exposure of the thorax. A thoracoabdominal incision may be required to access the abdominal aorta in the case of visceral malperfusion. This may be performed through either a transperitoneal or a retroperitoneal approach. The left hemidiaphragm is divided in a radial fashion while marking adjacent sites on each side of the division with metal clips for later reapproximation.
 
-The ideal open acute type B aortic dissection repair involves replacement of as little of the descending thoracic aorta as necessary. The extent of replacement rarely exceeds the proximal third, which includes the primary tear in most cases. Such a strategy optimizes perfusion of the spinal cord by preserving more intercostals arteries. <sup>52</sup> This point is controversial, however, and some groups advocate replacement of the entire thoracic aorta. Any less extensive aortic replacement leaves dissected aorta with the potential for late aneurysmal dilation when there is perfusion of the false lumen. The ideal strategy to minimize spinal cord malperfusion yet resect all involved aorta has not been proved.
+The ideal open acute type B aortic dissection repair involves replacement of as little of the descending thoracic aorta as necessary. The extent of replacement rarely exceeds the proximal third, which includes the primary tear in most cases. Such a strategy optimizes perfusion of the spinal cord by preserving more intercostals arteries.  This point is controversial, however, and some groups advocate replacement of the entire thoracic aorta. Any less extensive aortic replacement leaves dissected aorta with the potential for late aneurysmal dilation when there is perfusion of the false lumen. The ideal strategy to minimize spinal cord malperfusion yet resect all involved aorta has not been proved.
 
+
+<details class="med-details">
+<summary>Aortic clamp</summary>
+<div class="details-content">
 Once the thoracic aorta has been exposed, the operation continues with division of the mediastinal pleura between the left subclavian and the left common carotid arteries. It is essential that the left vagus and recurrent laryngeal nerves are identified and preserved during the course of the dissection. The left subclavian artery is encircled with an umbilical tape and Rummel tourniquet. Ultimately, the entire distal arch must be free enough to place an aortic clamp between the left common carotid and left subclavian arteries. Next, the proximal descending thoracic aorta is circumferentially mobilized, dividing intercostal arteries in the segment to be excised.
+</div>
+</details>
 
-The formerly popular "clamp and sew" technique used for repair of acute type B dissection has largely been replaced by the use of partial left heart bypass. To institute left heart bypass, the left inferior pulmonary vein is dissected and a 4-0 Prolene pursestring suture placed posteriorly for cannulation. Arterial cannulation sites for this technique include the distal thoracic aorta for limited dissections of the proximal descending thoracic aorta or the femoral artery for those extending into the abdomen. It is important to assure that distal perfusion during cannulation is directed into the true lumen. Following the administration of 100 U/kg of intravenous heparin, 14 French cannulae are inserted into the left inferior pulmonary vein and either a normal-appearing area of descending thoracic aorta or percutaneously into
+<details class="med-details">
+<summary>Partial left heart bypass</summary>
+<div class="details-content">
+The formerly popular "clamp and sew" technique used for repair of acute type B dissection has largely been replaced by the use of partial left heart bypass. To institute left heart bypass, the left inferior pulmonary vein is dissected and a 4-0 Prolene pursestring suture placed posteriorly for cannulation. Arterial cannulation sites for this technique include the distal thoracic aorta for limited dissections of the proximal descending thoracic aorta or the femoral artery for those extending into the abdomen. It is important to assure that distal perfusion during cannulation is directed into the true lumen. Following the administration of 100 U/kg of intravenous heparin, 14 French cannulae are inserted into the left inferior pulmonary vein and either a normal-appearing area of descending thoracic aorta or percutaneously into either femoral artery. Bypass is then initiated with flow rates between 1 and 2 L/min.
 
-either femoral artery. Bypass is then initiated with flow rates between 1 and 2 L/min.
-
-The left subclavian artery is controlled and vascular clamps are placed on the aorta proximal to the left subclavian artery and distally on the mid-thoracic aorta. Right radial artery pressure is measured to maintain proximal aortic systolic pressure between 100 and 140 mm Hg and mean femoral artery pressure greater than 60 mm Hg. The aorta is then opened longitudinally and bleeding from intercostals arteries is controlled by suture ligation. Transection of the aorta distal to the origin of the left subclavian artery provides a site for the proximal anastomosis. This is performed using 3-0 Prolene suture and may require external reinforcement with Teflon felt strips.
+The left subclavian artery is controlled and vascular clamps are placed on the aorta proximal to the left subclavian artery and distally on the mid-thoracic aorta. Right radial artery pressure is measured to maintain proximal aortic systolic pressure between 100 and 140 mm Hg and mean femoral artery pressure greater than 60 mm Hg.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Proximal and distal anastomosis</summary>
+<div class="details-content">
+The aorta is then opened longitudinally and bleeding from intercostals arteries is controlled by suture ligation. Transection of the aorta distal to the origin of the left subclavian artery provides a site for the proximal anastomosis. This is performed using 3-0 Prolene suture and may require external reinforcement with Teflon felt strips.
 
 The graft inclusion technique is another procedure in which the posterior aspect of the proximal aorta is not fully transected. The proximal anastomosis is then created to the intact posterior aspect of the aorta. We do not recommend this technique because one cannot be certain of including all layers of the aorta in the anastomosis.
 
 The size of the vascular graft is based on the diameter of the distal aorta and beveled to match the aorta proximally. This anastomosis may include the origin of the left subclavian to treat dissection in this vessel. A separate 6- to 8-mm Dacron graft can be used if there is intimal disruption involving the proximal segment of the left subclavian artery. Once the proximal anastomosis is completed, the proximal clamp is released and repositioned on the vascular graft to inspect the anastomosis. The distal anastomosis is then completed, the clamps are released, and partial left heart bypass is terminated. Percutaneously placed femoral artery cannulae 14 French or smaller may be removed without direct repair of the vessel. When cannulae 15 French or larger are required, open surgical repair of the femoral arteriotomy is indicated.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Rupture of the thoracic aorta before or during repair</summary>
+<div class="details-content">
 Rupture of the thoracic aorta before or during repair is a catastrophic event often leading to operative death. Successful management requires immediate cannulation of the femoral artery and vein for cardiopulmonary bypass and eventual deep hypothermic circulatory arrest. Assisted venous drainage through the femoral vein is often adequate, but direct cannulation of the right ventricle through the pulmonary artery may also be performed. A left atrial vent is placed through the left inferior pulmonary vein once the heart begins to fibrillate; the left ventricle may be vented as well directly through the apex. Once the nasopharyngeal temperature reaches 15°C, the vent is occluded and cardiopulmonary bypass is stopped. The head is placed down and the aorta opened for repair under circulatory arrest. The distal aorta should be clamped to minimize blood loss. Once the proximal anastomosis is performed, the proximal clamp is moved onto the graft and the graft cannulated to resume cardiopulmonary bypass.
+</div>
+</details>
 
-Malperfusion of intra-abdominal viscera or lower extremities may be apparent at the time of presentation or may follow surgical repair of aortic dissections. Proximal repair of the dissection is a standard treatment and may be sufficient to treat the malperfusion syndrome. However, if malperfusion
-
-presents or persists after surgical repair, percutaneous or surgical fenestration may be necessary. As specified, percutaneous fenestration is accomplished by using a balloon or a percutaneous knife to create a communication between the false and the true lumens. Surgical fenestration is performed through a midline laparotomy or left flank incision to provide exposure of the infrarenal aorta (Fig. 47-23). Occasionally, fenestration of intra-abdominal aortic branch vessels may be required if the intima is violated beyond the ostia. If the dissection flap cannot be completely excised, the distal vessel layers must be reunited. Consideration should be given to patch angioplasty to prevent narrowing when closing smaller vessels. In the event that perfusion is not reestablished, extraanatomic bypass may be required.
+<details class="med-details">
+<summary>Malperfusions </summary>
+<div class="details-content">
+Malperfusion of intra-abdominal viscera or lower extremities may be apparent at the time of presentation or may follow surgical repair of aortic dissections. Proximal repair of the dissection is a standard treatment and may be sufficient to treat the malperfusion syndrome. However, if malperfusion presents or persists after surgical repair, percutaneous or surgical fenestration may be necessary. As specified, percutaneous fenestration is accomplished by using a balloon or a percutaneous knife to create a communication between the false and the true lumens. Surgical fenestration is performed through a midline laparotomy or left flank incision to provide exposure of the infrarenal aorta (Fig. 47-23). Occasionally, fenestration of intra-abdominal aortic branch vessels may be required if the intima is violated beyond the ostia. If the dissection flap cannot be completely excised, the distal vessel layers must be reunited. Consideration should be given to patch angioplasty to prevent narrowing when closing smaller vessels. In the event that perfusion is not reestablished, extraanatomic bypass may be required.
 
 Obstruction of the terminal aorta or malperfusion of the lower extremities following operative repair is best treated with percutaneous fenestration. Surgical fenestration remains an option if percutaneous techniques fail to reestablish blood flow. In the event that surgical fenestration fails, the best solution is femoral-femoral bypass grafting in the setting of unilateral malperfusion or axilla-femoral and femoral-femoral bypass if bilateral lower extremity malperfusion exists.
 
 ![](_page_23_Picture_10.jpeg)
 
 **FIGURE 47-23** Fenestration of the abdominal aorta for visceral malperfusion. A transverse incision is made into the aorta, preferably into a nondissected aorta. The proximal dissection membrane is incised and then excised to decompress the false lumen as far proximally as possible. The dissected layers are reconstructed with Teflon felt or glue and the aortotomy is closed directly.
-
-## Results
-
-Medical management remains the mainstay of treatment for acute uncomplicated type B aortic dissections. Early medical management alone is an adequate treatment in approximately 68 to 85% of patients presenting with acute type B dissection and leads to a 30-day survival rate of 89 to 93%.<sup>39,55</sup> The long-term outcomes of medical management are not as favorable. In the IRAD series, only 78% of 189 patients discharged alive from the hospital after medical management of type B dissections were alive at 3 years.<sup>38</sup> Predictors of followup mortality were female gender, history of prior aneurysm, history of atherosclerosis, in-hospital renal failure, pleural effusion, and in-hospital hypotension or shock. In a separate series of patients, 87% of patients managed medically were alive at 5 years, with 25% of patients requiring aortic-related interventions. <sup>56</sup> Similarly, in a series of 122 patients with type B aortic dissections managed medically over 36 years, Umana et al reported survival rates of 85% at 1 year and 71% at 5 years, with reoperation rates of 14% at 5 years. 40
-
-These outcomes have prompted some authors to consider operative treatment of uncomplicated dissections in an attempt to prevent long-term aortic-related complications. The rationale for this consideration also comes from the fact that endovascular stenting induces thrombosis of the false lumen in 75% of cases<sup>43</sup> and false lumen patency is associated with long-term aortic-related complications and mortality.<sup>57</sup>
-
-Xu et al recently reported a series of 63 patients with type B aortic dissections (59 uncomplicated) treated with endovascular grafting.<sup>58</sup> The authors delayed the intervention in uncomplicated patients until 2 weeks after presentation so as to allow fibrosis and increased stability of the intimal flap. The perioperative mortality was only 3% with morbidity including stroke in one patient, renal failure in two, and retrograde aortic dissection in two. No patients developed paraplegia. Complete thrombosis of the false lumen was achieved in 98% of patients at 1 year, and the 4-year survival was nearly 90%.
-
-Two European randomized clinical trials have been designed to answer the question of whether uncomplicated type B dissections should be treated with endovascular grafting or with medical management alone. The results of the first trial, the INSTEAD (INvestigation of STEnt Grafts in Aortic Dissection) trial, have been recently published.<sup>59</sup> This trial randomized 140 patients with subacute or chronic type B aortic dissection (>14 days but <1 year) to either elective stent graft placement or optimal medical management alone. Survival was not significantly different between both groups with 2-year survival rates of 96 and 89% after optimal medical therapy and endovascular stenting, respectively. There were also no differences in the rates of a combined end point, including aortic-related deaths or reinterventions. Complete thrombosis of the false lumen was more common among patients with endovascular stenting (91% with stenting vs 19% with medical management). Aortic expansion to greater than 6 cm was also more common in the group with medical management, requiring crossover to stent grafting in 16% of cases and conversion to open surgery in 4%. All crossover
-
-patients had uneventful outcomes and no deaths. Therefore, the trial supported the use of optimal medical management for treatment of uncomplicated type B aortic dissections and reserving endovascular interventions for those patients that develop complications or other indications for intervention. A recent landmark analysis of the INSTEAD trial, however, demonstrated that at 5 years aorta associate mortality was decreased with endovascular stenting (6.9 vs 19.3%).60 The second trial, the ADSORB (Acute Uncomplicated Aortic Dissection Type B) trial has been designed to study patients with acute uncomplicated dissection (<14 days) by randomizing them to optimal medical management or endovascular stenting.61 In 61 randomized patients, endovascular stenting increased true lumen size, decreased false lumen size, and reduced overall aortic diameter. 62 These short- and midterm results appear to support that endovascular stenting is safe and potentially leads to favorable aortic remodeling in uncomplicated dissections. At present, medical management remains the standard of care for uncomplicated type B aortic dissection, however indications for endovascular stenting remains evolving. Longer term data are required to determine the utility and timing of intervention in uncomplicated type B aortic dissection.
-
-Approximately 20% of patients with acute type B aortic dissection present with complications requiring intervention.<sup>39</sup> In the past, surgical intervention was the only therapy available for these patients. The development of endovascular techniques has provided an additional treatment option that is now preferred in the majority of cases.
-
-Surgical treatment of aortic dissection was traditionally poised with dismal outcomes. Even though morbidity and mortality remain high, outcomes from surgical management have improved over the last few decades, from as high as 50% in the 1960s to as low as 13% in more recent times. <sup>63</sup> In a series of 76 patients treated emergently with surgery for acute complicated type B aortic dissection including 22% patients with aortic rupture, Bozinovski and Coselli reported an in-hospital mortality of 22% with a risk of stroke of 7%, paraplegia of 7%, and renal failure of 20%. <sup>64</sup> Similarly, as part of the IRAD series, 82 patients surgically treated for acute type B aortic dissection had an in-hospital mortality of 29% with a risk of stroke of 9%, paraplegia of 5%, and acute renal failure of 8%. <sup>65</sup>
-
-Because of the unfavorable outcomes of open surgical therapy for acute complicated type B aortic dissection, endovascular therapies have been increasingly used in this patient population. Table 47-6 summarizes the current experience with endovascular therapy for treatment of type B aortic dissections. 39,41,42,46,50,51,58,66-74
-
-A recent meta-analysis of 39 studies involving 609 patients using endovascular repair of aortic dissections between 1999 and 2004 showed a procedural success of 98% with emergency surgical conversion of 1%. In-hospital complications occurred in 14% of patients including neurological complications in 3%, retrograde dissection in 2%, and a perioperative mortality of 5%. <sup>43</sup> Survival rates at 2 years were 89% with a risk of aortic rupture at follow-up of 2%.
-
-## TABLE 47-6: Selected Retrospective Series with Endovascular Treatment of Type B Aortic Dissection
-
-| Study                             | N   | Type of dissection | Technique                                 | Technical success (%)                   | Perioperative<br>mortality (%) | Morbidity | Permanent<br>paraplegia<br>(%) | Endoleak<br>(%) | Median<br>follow up<br>(month) | Long-term<br>survival (%) | False lumen<br>thrombosis<br>(%) |
-|-----------------------------------|-----|--------------------|-------------------------------------------|-----------------------------------------|--------------------------------|-----------|--------------------------------|-----------------|--------------------------------|---------------------------|----------------------------------|
-| Böckler, 2009 <sup>51</sup>       | 54  | Acute and chronic  | Stent graft                               | 93                                      | 11                             | 19        | 0                              |                 | 32                             | 66                        | 60% complete,<br>13% partial     |
-| Dake, 1999 <sup>41</sup>          | 19  | Acute              | Stent graft                               | 100                                     | 16                             | 21        | 0                              | 15              | 13                             | 79                        | 79% complete,<br>21% partial     |
-| Dialetto, 2005 <sup>74</sup>      | 28  | Acute              | Stent graft                               | 100                                     | 11                             |           | 0                              |                 | 18                             | 86                        | -                                |
-| Duebener, 2004 <sup>73</sup>      | 10  | Acute              | Stent graft                               | 90                                      | 20                             | 50        | 10                             |                 | 25                             | 80                        |                                  |
-| Fattori, 2008 <sup>39</sup>       | 66  | Acute              | 65% stent<br>graft, 35%<br>fenestration   | 94% stent<br>graft, 50%<br>fenestration | 10.6                           | 20.8      | 3.4                            |                 |                                |                           |                                  |
-| Hutschala,<br>2002 <sup>72</sup>  | 9   | Acute              | Stent graft                               | 100                                     | 0                              | 11        | 0                              |                 | 3                              |                           | 22% complete,<br>78% partial     |
-| Khoynezhad,<br>2009 <sup>71</sup> | 28  | Acute              | Stent graft                               | 90                                      | 11                             |           | 0                              | 28              | 36                             | 78                        | 88% complete,<br>12% partial     |
-| Kische, 2009 <sup>70</sup>        | 171 | Acute and chronic  | Stent graft                               | 98                                      | 5                              | 17        | 1.7                            | 29              | 22                             | 81                        | ·                                |
-| Nathanson,<br>2005 <sup>69</sup>  | 40  | Acute and chronic  | Stent graft                               | 95                                      | 2.5                            | 38        | 2.5                            | 2.5             | 20                             | 85                        | 79                               |
-| Nienaber,<br>1999 <sup>42</sup>   | 12  | Chronic            | Stent graft                               | 100                                     | 0                              | 0         | 0                              |                 | 12                             | 100                       | 100                              |
-| Nienaber,<br>2002 <sup>68</sup>   | 127 | Acute              | Stent graft                               | 100                                     | 1.6                            | 3         | 0.8                            |                 | 28                             | 97                        |                                  |
-| Palma, 2002 <sup>67</sup>         | 70  | Acute              | Stent graft                               | 93                                      | 5.7                            | 31.4      | 0                              |                 | 29                             | 91                        |                                  |
-| Patel, 2009 <sup>46</sup>         | 69  | Acute              | Fenestration<br>and/or branch<br>stenting | 96                                      | 17.4                           | 21.7      | 2.9*                           |                 | 42                             | 64                        | -00                              |
-| Pitton, 2008 <sup>66</sup>        | 13  | Acute              | Stent graft                               | 100                                     | 15                             | 31        | 7.7*                           |                 | 13                             | 66                        |                                  |
-| Siefert, 2008 <sup>50</sup>       | 34  | Acute and chronic  | Stent graft                               | 100                                     | 0                              | 11.7      | 0                              | 38%             |                                | 86                        |                                  |
-| Xu, 2006 <sup>58</sup>            | 63  | Acute and chronic  | Stent graft                               | 95                                      | 3.2                            | 19        | 0                              |                 | 12                             | 90                        | 98                               |
-
-<sup>\*</sup>Patients presented preoperatively with paraplegia.
-
-Most of these studies have used endografts, rather than percutaneous fenestrations, as the endovascular treatment of choice. In one of the largest series of percutaneous fenestration for treatment of type B aortic dissection, Patel et al reports the experience from the University of Michigan from 1997 to 2008.46 During this period, 69 patients with type B aortic dissection and malperfusion by angiography were treated with endovascular flap fenestration and/or branch vessel stenting. Overall technical success for flow restoration was 96% with an early mortality of 17%. Complications included stroke in 4%, acute renal failure requiring dialysis in 14%, and permanent spinal cord ischemia in two patients that presented initially with paraplegia from their dissection. However, despite these encouraging outcomes all-cause mortality at follow-up was as high as 36% with 7% risk of aortic rupture, likely related to the obligate persistence of the false lumen as part of the fenestration procedure.
-
-Despite the multiple isolated series reporting outcomes after different treatment strategies for acute type B aortic dissection, there are currently no randomized controlled trials addressing this issue. The most recent retrospective report by IRAD comparing the different strategies included 571 patients with acute complicated or uncomplicated type B aortic dissection between 1996 and 2005. Of these, 390 patients (68%) were treated medically and 125 required intervention for complicated dissection; 59 (10%) underwent open surgical procedures and 66 (11%) had endovascular treatment with either stent grafts or percutaneous fenestration. In-hospital mortality was significantly higher for patients that underwent surgery (34%) when compared to those that had endovascular procedures (11%) (Fig. 47-24). In-hospital complications
-
-![](_page_26_Figure_4.jpeg)
-
-**FIGURE 47-24** Survival curves for patients with type B aortic dissection managed with medical, endovascular, or surgical treatment according to the IRAD. (Reproduced with permission from Fattori R, Tsai TT, Myrmel T, et al: Complicated acute type B dissection: is surgery still the best option? A report from the International Registry of Acute Aortic Dissection, *JACC Cardiovasc Interv.* 2008 Aug;1(4):395-402.)
-
-occurred in 40% of patients undergoing surgical treatment and in 21% of those undergoing endovascular therapy. These findings remained true even after comparing patients with similar comorbidities. Interestingly, in-hospital mortality was similar for those patients that underwent endovascular therapy and those that were treated medically, and significantly better than in those that underwent surgery. The low mortality risk of patients treated medically is obviously related to the fact that most of these patients presented with uncomplicated disease and were deemed eligible for medical management. However, the data suggest that endovascular therapies may improve outcomes of patients with complicated type B aortic dissection to the rate of those with uncomplicated dissections managed medically. The data have to be interpreted with caution though, because part of these findings may be associated to selection bias in treatment modality based on patient characteristics not accounted for, or in differing treatment strategies in different institutions.
 </div>
 </details>
 
+</div>
+</details>
 
+</div>
+</details>
+
+<details class="med-details">
+<summary>Results</summary>
+<div class="details-content">
+
+<details class="med-details">
+<summary>Medical management</summary>
+<div class="details-content">
+Medical management remains the mainstay of treatment for acute uncomplicated type B aortic dissections. Early medical management alone is an adequate treatment in approximately 68 to 85% of patients presenting with acute type B dissection and leads to a 30-day survival rate of 89 to 93%. The long-term outcomes of medical management are not as favorable. In the IRAD series, only 78% of 189 patients discharged alive from the hospital after medical management of type B dissections were alive at 3 years. Predictors of followup mortality were female gender, history of prior aneurysm, history of atherosclerosis, in-hospital renal failure, pleural effusion, and in-hospital hypotension or shock. In a separate series of patients, 87% of patients managed medically were alive at 5 years, with 25% of patients requiring aortic-related interventions. Similarly, in a series of 122 patients with type B aortic dissections managed medically over 36 years, Umana et al reported survival rates of 85% at 1 year and 71% at 5 years, with reoperation rates of 14% at 5 years. 
+
+These outcomes have prompted some authors to consider operative treatment of uncomplicated dissections in an attempt to prevent long-term aortic-related complications. The rationale for this consideration also comes from the fact that endovascular stenting induces thrombosis of the false lumen in 75% of cases and false lumen patency is associated with long-term aortic-related complications and mortality.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Endovascular grafting for uncomplicaited type B dissections</summary>
+<div class="details-content">
+Xu et al recently reported a series of 63 patients with type B aortic dissections (59 uncomplicated) treated with endovascular grafting. The authors delayed the intervention in uncomplicated patients until 2 weeks after presentation so as to allow fibrosis and increased stability of the intimal flap. The perioperative mortality was only 3% with morbidity including stroke in one patient, renal failure in two, and retrograde aortic dissection in two. No patients developed paraplegia. Complete thrombosis of the false lumen was achieved in 98% of patients at 1 year, and the 4-year survival was nearly 90%.
+
+<details class="med-details">
+<summary>Endovascular grafting VS medical management for uncomplicated type B dissections</summary>
+<div class="details-content">
+Two European randomized clinical trials have been designed to answer the question of whether uncomplicated type B dissections should be treated with endovascular grafting or with medical management alone. 
+<details class="med-details">
+<summary>INSTEAD trial</summary>
+<div class="details-content">
+The results of the first trial, the INSTEAD (INvestigation of STEnt Grafts in Aortic Dissection) trial, have been recently published. This trial randomized 140 patients with subacute or chronic type B aortic dissection (>14 days but <1 year) to either elective stent graft placement or optimal medical management alone. Survival was not significantly different between both groups with 2-year survival rates of 96 and 89% after optimal medical therapy and endovascular stenting, respectively. There were also no differences in the rates of a combined end point, including aortic-related deaths or reinterventions. Complete thrombosis of the false lumen was more common among patients with endovascular stenting (91% with stenting vs 19% with medical management). Aortic expansion to greater than 6 cm was also more common in the group with medical management, requiring crossover to stent grafting in 16% of cases and conversion to open surgery in 4%. All crossover patients had uneventful outcomes and no deaths. Therefore, the trial supported the use of optimal medical management for treatment of uncomplicated type B aortic dissections and reserving endovascular interventions for those patients that develop complications or other indications for intervention. A recent landmark analysis of the INSTEAD trial, however, demonstrated that at 5 years aorta associate mortality was decreased with endovascular stenting (6.9 vs 19.3%).
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>ADSORB trial</summary>
+<div class="details-content">
+The second trial, the ADSORB (Acute Uncomplicated Aortic Dissection Type B) trial has been designed to study patients with acute uncomplicated dissection (<14 days) by randomizing them to optimal medical management or endovascular stenting. In 61 randomized patients, endovascular stenting increased true lumen size, decreased false lumen size, and reduced overall aortic diameter. These short- and midterm results appear to support that endovascular stenting is safe and potentially leads to favorable aortic remodeling in uncomplicated dissections. At present, medical management remains the standard of care for uncomplicated type B aortic dissection, however indications for endovascular stenting remains evolving. Longer term data are required to determine the utility and timing of intervention in uncomplicated type B aortic dissection.
+</div>
+</details>
+
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>Surgical treatment</summary>
+<div class="details-content">
+Approximately 20% of patients with acute type B aortic dissection present with complications requiring intervention. In the past, surgical intervention was the only therapy available for these patients. The development of endovascular techniques has provided an additional treatment option that is now preferred in the majority of cases.
+
+Surgical treatment of aortic dissection was traditionally poised with dismal outcomes. Even though morbidity and mortality remain high, outcomes from surgical management have improved over the last few decades, from as high as 50% in the 1960s to as low as 13% in more recent times.  In a series of 76 patients treated emergently with surgery for acute complicated type B aortic dissection including 22% patients with aortic rupture, Bozinovski and Coselli reported an in-hospital mortality of 22% with a risk of stroke of 7%, paraplegia of 7%, and renal failure of 20%.  Similarly, as part of the IRAD series, 82 patients surgically treated for acute type B aortic dissection had an in-hospital mortality of 29% with a risk of stroke of 9%, paraplegia of 5%, and acute renal failure of 8%. 
+</div>
+</details>
+
+<details class="med-details">
+<summary>Endovascular therapies</summary>
+<div class="details-content">
+Because of the unfavorable outcomes of open surgical therapy for acute complicated type B aortic dissection, endovascular therapies have been increasingly used in this patient population. Table 47-6 summarizes the current experience with endovascular therapy for treatment of type B aortic dissections. 
+
+A recent meta-analysis of 39 studies involving 609 patients using endovascular repair of aortic dissections between 1999 and 2004 showed a procedural success of 98% with emergency surgical conversion of 1%. In-hospital complications occurred in 14% of patients including neurological complications in 3%, retrograde dissection in 2%, and a perioperative mortality of 5%. Survival rates at 2 years were 89% with a risk of aortic rupture at follow-up of 2%.
+
+<details class="med-details">
+<summary>TABLE 47-6: Selected Retrospective Series with Endovascular Treatment of Type B Aortic Dissection</summary>
+<div class="details-content">
+
+| Study | N | Type of dissection | Technique | Technical success (%) | Perioperative mortality (%) | Morbidity | Permanent paraplegia (%) | Endoleak (%) | Median follow up (month) | Long-term survival (%) | False lumen thrombosis (%) |
+|--|--|--|--|--|--|--|--|--|--|--|--|
+| Böckler, 2009 | 54 | Acute and chronic | Stent graft | 93 | 11 | 19 | 0 | | 32 | 66 | 60% complete, 13% partial | 
+| Dake, 1999 | 19 | Acute | Stent graft | 100 | 16 | 21 | 0 | 15 | 13 | 79 | 79% complete, 21% partial |
+| Dialetto, 2005 | 28 | Acute | Stent graft | 100 | 11 |  | 0 | | 18 | 86 | - |
+| Duebener, 2004 | 10 | Acute | Stent graft | 90 | 20 | 50 | 10 | | 25 | 80 | |
+| Fattori, 2008 | 66 | Acute | 65% stent graft, 35% fenestration | 94% stent graft, 50% fenestration | 10.6 | 20.8 | 3.4 | | | | |
+| Hutschala, 2002 | 9 | Acute | Stent graft | 100 | 0 | 11 | 0 | | 3 | | 22% complete, 78% partial |
+| Khoynezhad, 2009 | 28 | Acute | Stent graft | 90 | 11 | | 0 | 28 | 36 | 78 | 88% complete, 12% partial |
+| Kische, 2009 | 171 | Acute and chronic | Stent graft | 98 | 5 | 17 | 1.7 | 29 | 22 | 81 | |
+| Nathanson, 2005 | 40 | Acute and chronic | Stent graft | 95 | 2.5 | 38 | 2.5 | 2.5 | 20 | 85 | 79 |
+| Nienaber, 1999 | 12 | Chronic | Stent graft | 100 | 0 | 0 | 0 | | 12 | 100 | 100 |
+| Nienaber, 2002 | 127 | Acute | Stent graft | 100 | 1.6 | 3 | 0.8 | | 28 | 97 | |
+| Palma, 2002 | 70 | Acute | Stent graft | 93 | 5.7 | 31.4 | 0 | | 29 | 91 | |
+| Patel, 2009 | 69 | Acute | Fenestration and/or branch stenting | 96 | 17.4 | 21.7 | 2.9* | | 42 | 64  | 0 |
+| Pitton, 2008 | 13 | Acute | Stent graft | 100 | 15 | 31 | 7.7*| | 13 | 66 | |
+| Siefert, 2008 | 34 | Acute and chronic | Stent graft | 100 | 0 | 11.7 | 0 | 38% | | 86 | |
+| Xu, 2006 | 63 | Acute and chronic | Stent graft  | 95 | 3.2 | 19 | 0 | | 12 | 90 | 98 |
+
+<sup>\*</sup>Patients presented preoperatively with paraplegia.
+</div>
+</details>
+
+Most of these studies have used endografts, rather than percutaneous fenestrations, as the endovascular treatment of choice. In one of the largest series of percutaneous fenestration for treatment of type B aortic dissection, Patel et al reports the experience from the University of Michigan from 1997 to 2008. During this period, 69 patients with type B aortic dissection and malperfusion by angiography were treated with endovascular flap fenestration and/or branch vessel stenting. Overall technical success for flow restoration was 96% with an early mortality of 17%. Complications included stroke in 4%, acute renal failure requiring dialysis in 14%, and permanent spinal cord ischemia in two patients that presented initially with paraplegia from their dissection. However, despite these encouraging outcomes all-cause mortality at follow-up was as high as 36% with 7% risk of aortic rupture, likely related to the obligate persistence of the false lumen as part of the fenestration procedure.
+
+Despite the multiple isolated series reporting outcomes after different treatment strategies for acute type B aortic dissection, there are currently no randomized controlled trials addressing this issue. 
+<details class="med-details">
+<summary>IRAD trial</summary>
+<div class="details-content">
+The most recent retrospective report by IRAD comparing the different strategies included 571 patients with acute complicated or uncomplicated type B aortic dissection between 1996 and 2005. Of these, 390 patients (68%) were treated medically and 125 required intervention for complicated dissection; 59 (10%) underwent open surgical procedures and 66 (11%) had endovascular treatment with either stent grafts or percutaneous fenestration. In-hospital mortality was significantly higher for patients that underwent surgery (34%) when compared to those that had endovascular procedures (11%) (Fig. 47-24). In-hospital complications occurred in 40% of patients undergoing surgical treatment and in 21% of those undergoing endovascular therapy. These findings remained true even after comparing patients with similar comorbidities. Interestingly, in-hospital mortality was similar for those patients that underwent endovascular therapy and those that were treated medically, and significantly better than in those that underwent surgery. The low mortality risk of patients treated medically is obviously related to the fact that most of these patients presented with uncomplicated disease and were deemed eligible for medical management. However, the data suggest that endovascular therapies may improve outcomes of patients with complicated type B aortic dissection to the rate of those with uncomplicated dissections managed medically. The data have to be interpreted with caution though, because part of these findings may be associated to selection bias in treatment modality based on patient characteristics not accounted for, or in differing treatment strategies in different institutions.
+  
+![](_page_26_Figure_4.jpeg)
+
+**FIGURE 47-24** Survival curves for patients with type B aortic dissection managed with medical, endovascular, or surgical treatment according to the IRAD. 
+</div>
+</details>
+
+</div>
+</details>
+
+</div>
+</details>
+
+</div>
+</details>
 
 <details class="med-details">
 <summary>MANAGEMENT OF CHRONIC AORTIC DISSECTION</summary>
 <div class="details-content">
-## MANAGEMENT OF CHRONIC AORTIC DISSECTION
 
 Chronic type A dissection develops in patients who fail to undergo immediate surgical treatment of the acute dissection. Patients with chronic type B aortic dissection include those that have been successfully managed medically after an acute dissection and those with repaired type A aortic dissections that have retained segments of dissected descending thoracic aorta.
 
+<details class="med-details">
+<summary>Follow-up imaging</summary>
+<div class="details-content">
 Patients with a history of acute aortic dissection, especially those with retained dissected segments, require close surveillance indefinitely. Our preference for follow-up imaging in patients with normal renal function and no contrast allergy is CTA. CTA provides good imaging, is cost effective, and is usually the technique used for the original acute dissection, making it ideal for longitudinal comparison of studies. MRA is utilized mostly as a follow-up study for patients with renal insufficiency but is the study of choice to provide precise anatomical detail for operative planning.
+</div>
+</details>
 
-Many patients treated for aortic dissection, especially those with persistent communication between true and false lumens, can progress to develop aneurysmal dilatation of the aorta. They carry similar risk for aortic rupture that of atherosclerotic aneurysms. Chronic dissections have an annual rate of expansion of 0.9 to 7.2 mm per year. 75-77 Despite appropriate medical management and close followup, approximately 20 to 40% of patients have a ortic enlargement during follow up.75,78 This number is probably even higher in those patients with connective tissue disorders. In one study of 50 patients over a period of 40 months, 18% had fatal rupture and another 20% underwent surgical repair because of symptoms or aneurysm enlargement, emphasizing the need for diligent follow-up care.75 Risk factors for rupture of chronic type B dissection include older age, chronic obstructive pulmonary disease (COPD), and hypertension. Chronic beta-blocker treatment reduces the rate of aortic dilatation as well as the incidence of dissection-related hospital admissions and procedures.<sup>78</sup>
 
-The presence of a patent false lumen is a significant predictor of aortic enlargement and is associated with a higher incidence of aortic-related complications and death. <sup>57,76</sup> In a study of 101 patients followed after medical management for type B uncomplicated dissections, the most important risk factors for aortic enlargement were a maximum aortic diameter of 4 cm or more and a patent false lumen. <sup>79</sup>
+<details class="med-details">
+<summary>Progressing of aneurysmal dilatation, risk of aortic rapture</summary>
+<div class="details-content">
+Many patients treated for aortic dissection, especially those with persistent communication between true and false lumens, can progress to develop aneurysmal dilatation of the aorta. They carry similar risk for aortic rupture that of atherosclerotic aneurysms. Chronic dissections have an annual rate of expansion of 0.9 to 7.2 mm per year. Despite appropriate medical management and close followup, approximately 20 to 40% of patients have aortic enlargement during follow up. This number is probably even higher in those patients with connective tissue disorders. In one study of 50 patients over a period of 40 months, 18% had fatal rupture and another 20% underwent surgical repair because of symptoms or aneurysm enlargement, emphasizing the need for diligent follow-up care. Risk factors for rupture of chronic type B dissection include older age, chronic obstructive pulmonary disease (COPD), and hypertension. Chronic beta-blocker treatment reduces the rate of aortic dilatation as well as the incidence of dissection-related hospital admissions and procedures.
 
-## **Operative Indications**
+The presence of a patent false lumen is a significant predictor of aortic enlargement and is associated with a higher incidence of aortic-related complications and death. In a study of 101 patients followed after medical management for type B uncomplicated dissections, the most important risk factors for aortic enlargement were a maximum aortic diameter of 4 cm or more and a patent false lumen. 
+</div>
+</details>
+
+<details class="med-details">
+<summary>Operative Indications</summary>
+<div class="details-content">
 
 The operative indications for chronic type A and B dissection are shown in Table 47-5. Chronic type A dissection is rarely symptomatic yet a minority of patients will present with chest pain as a result of aneurysm expansion or heart failure related to aortic regurgitation. Chronic type B dissection may present with intermittent dull chest or back pain, or infrequently, with malperfusion syndrome. Although each of these findings is an indication for intervention, the most common indications for operative management are aneurysmal dilatation of the aorta, rapid expansion, or aortic rupture. The size criteria for intervention in aortic dissection are controversial, but the one generally used is similar to that for general thoracic aortic aneurysms. Based on these criteria, aortic intervention is indicated at a size of 5.5 cm for type A dissections and 6.5 cm for type B dissections, or slightly less if there is a family history or physical stigmata of a connective tissue disorder. 80 Similarly, aortic expansion greater than 1 cm per year should be considered an indication for repair.
 
-Recent retrospective studies from Japan have shown that patients with aortic diameters greater than or equal to 4 cm and a patent false lumen have a high likelihood of aortic-related complications (up to 50% in 6 months). <sup>79,81</sup> Based on these findings, it has been suggested that these patients should be considered for early repair depending on their operative risk. This issue is controversial and further studies are required before making more definitive recommendations.
+Recent retrospective studies from Japan have shown that patients with aortic diameters greater than or equal to 4 cm and a patent false lumen have a high likelihood of aortic-related complications (up to 50% in 6 months). Based on these findings, it has been suggested that these patients should be considered for early repair depending on their operative risk. This issue is controversial and further studies are required before making more definitive recommendations.
 
-## Techniques for Chronic Type A Aortic Dissection
+</div>
+</details>
+
+<details class="med-details">
+<summary>Techniques for Chronic Type A Aortic Dissection</summary>
+<div class="details-content">
 
 Chronic type A dissection, with or without aneurysmal enlargement, is treated using similar operative techniques described for acute dissection. The particular operation performed depends on the specific pathology involving the aortic root, status of the aortic valve, distal extent of dissection, and brachiocephalic vessel involvement. The pathology of each of these components can be very different in a chronic dissection as compared with the acute process. These differences underlie the need for surgical techniques appropriate to each unique abnormality. In general, the ascending aorta is replaced using a vascular graft to include the entire diseased segment as in acute dissection, but surgical treatment of the aortic valve and creation of the distal anastomosis differ.
 
+<details class="med-details">
+<summary>Aortic valve</summary>
+<div class="details-content">
 Whereas the aortic valve can be repaired in most cases of acute type A dissection by simple commissural resuspension, the rate of aortic valve replacement is much higher in patients with chronic dissection. Preservation of the aortic valve is complicated by morphologic changes in the valvular apparatus such as leaflet elongation and annuloaortic ectasia, which render the valve irreparable in as many as 50% of cases. More severe grades of preoperative aortic regurgitation portend a lower probability of valve preservation. In cases in which the aortic valve cannot be preserved with simple commissural reattachment, three options exist to treat aortic insufficiency: composite root replacement, aortic valve replacement with separate ascending aortic replacement, and finally, valve-sparing aortic root repair. The technical aspects of composite valve-graft repair were covered under the surgical management of acute type A dissection. Separate aortic valve and ascending aortic replacement are appropriate when there is an operative indication to repair the ascending aorta in the setting of a normal aortic root and structural aortic valve disease. Note that this operation is not appropriate for patients with connective tissue disease. In this situation, aortic root replacement is required.
 
-Several methods for aortic valve preservation have been described for cases affecting the aortic root. One such technique is performed by reimplanting the valve commissures into an appropriately sized vascular graft, which is secured to the left ventricular outflow tract using multiple horizontal mattress sutures. 82 Another elegant yet time-consuming technique requires resection of the sinuses of Valsalva leaving a 5-mm rim of aorta circumferentially around the leaflets.<sup>83</sup> Scallops are then created in the vascular graft to resuspend the commissures and remodel the aortic root. David et al advocate Teflon felt reinforcement of the aortic annulus to prevent late annular dilatation and recurrent aortic insufficiency for the remodeling technique.84 The mid-term outcome of such operations revealed a freedom from reoperation rate of 97 to 99% at 5 years and a 5-year survival for the aortic dissection subgroup of 84%. Cochran and Kunzelman devised a similar technique to recreate the sinuses of Valsalva, which may be more important than previously recognized and contribute to improved long-term valve durability.85 Such data in patients with chronic dissection are lacking. These techniques appear appropriate for patients with Marfan disease and in those with congenitally bicuspid aortic valves.
+<details class="med-details">
+<summary>Methods for aortic valve preservation</summary>
+<div class="details-content">
+Several methods for aortic valve preservation have been described for cases affecting the aortic root. 
+<details class="med-details">
+<summary>Reimplanting the valve commissures into vascular graft</summary>
+<div class="details-content">
+One such technique is performed by reimplanting the valve commissures into an appropriately sized vascular graft, which is secured to the left ventricular outflow tract using multiple horizontal mattress sutures. 
+</div>
+</details>
 
-Treatment of the distal aorta in chronic type A dissection is somewhat controversial. Some advocate obliteration of flow in the false lumen with distal aortic repair, whereas others purposely maintain flow into both the true and false lumen using distal resection of the intimal flap. Those who reunite the chronically dissected aortic layers to perfuse only the true lumen maintain that false lumen perfusion continues through distal reentry tears in greater than 50% of cases. There is a theoretical concern that important side branches arise exclusively from the false lumen and perfusion may be interrupted with this technique. Our practice at the University of Virginia is to resect the distal chronic dissection flap as far as possible to obviate such concerns. The distal
+<details class="med-details">
+<summary>Resection of the sinuses of Valsalva</summary>
+<div class="details-content">
+Another elegant yet time-consuming technique requires resection of the sinuses of Valsalva leaving a 5-mm rim of aorta circumferentially around the leaflets. Scallops are then created in the vascular graft to resuspend the commissures and remodel the aortic root.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Reinforcement of the aortic annulus, David</summary>
+<div class="details-content">
+David et al advocate Teflon felt reinforcement of the aortic annulus to prevent late annular dilatation and recurrent aortic insufficiency for the remodeling technique. The mid-term outcome of such operations revealed a freedom from reoperation rate of 97 to 99% at 5 years and a 5-year survival for the aortic dissection subgroup of 84%.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Recreating of the sinuses of Valsalva, Cochran and Kunzelman</summary>
+<div class="details-content">
+Cochran and Kunzelman devised a similar technique to recreate the sinuses of Valsalva, which may be more important than previously recognized and contribute to improved long-term valve durability. Such data in patients with chronic dissection are lacking. These techniques appear appropriate for patients with Marfan disease and in those with congenitally bicuspid aortic valves.
+</div>
+</details>
 
-anastomosis is therefore made to the outer wall of the aorta, which has been strengthened over time. Malperfusion of the brachiocephalic vessels as a result of chronic type A dissection is treated with resection of the dissection flap from the arch. Infrequently, the chronic dissection flap extends into more distal branch vessels and may present as transient ischemic attacks or stroke. In such cases it is often necessary to resect the dissection flap into the branch vessel or reunite the layers distally before reimplantation.
+</div>
+</details>
 
-Infrequently, chronic type A dissection results in extensive aneurysmal dilatation of the aorta extending from the ascending aorta through the arch and into the descending thoracic aorta. Surgical treatment of such extensive disease has traditionally been performed as a staged procedure in which the ascending aorta and arch are replaced first through a sternotomy. The second stage of the so-called elephant trunk procedure is performed 6 weeks later through a left thoracotomy for replacement of the descending aorta using a second vascular graft. Originally described by Borst et al, this technique has been used extensively with good results.86 In some cases, the aorta distal to the left subclavian artery may be so large as to preclude the use of a two-stage repair. Kouchoukos et al have described a single-stage repair performed through a bilateral anterior thoracotomy in which the arch is repaired first during a brief period of circulatory arrest. Right subclavian and femoral artery cannulation for cardiopulmonary bypass provide proximal and distal perfusion during the subsequent ascending and descending aortic replacement. The hospital mortality was 6.2% and there were no adverse neurologic outcomes in the small series.<sup>87</sup> Postoperative and long-term management of these cases are identical to the acute repairs, but with an emphasis on monitoring for evidence of malperfusion.
+</div>
+</details>
 
-## Techniques for Chronic Type B Aortic Dissection
+<details class="med-details">
+<summary>Treatment of the distal aorta</summary>
+<div class="details-content">
+Treatment of the distal aorta in chronic type A dissection is somewhat controversial. Some advocate obliteration of flow in the false lumen with distal aortic repair, whereas others purposely maintain flow into both the true and false lumen using distal resection of the intimal flap. Those who reunite the chronically dissected aortic layers to perfuse only the true lumen maintain that false lumen perfusion continues through distal reentry tears in greater than 50% of cases. There is a theoretical concern that important side branches arise exclusively from the false lumen and perfusion may be interrupted with this technique. Our practice at the University of Virginia is to resect the distal chronic dissection flap as far as possible to obviate such concerns. The distal anastomosis is therefore made to the outer wall of the aorta, which has been strengthened over time. Malperfusion of the brachiocephalic vessels as a result of chronic type A dissection is treated with resection of the dissection flap from the arch. Infrequently, the chronic dissection flap extends into more distal branch vessels and may present as transient ischemic attacks or stroke. In such cases it is often necessary to resect the dissection flap into the branch vessel or reunite the layers distally before reimplantation.
+</div>
+</details>
 
-### **ENDOVASCULAR THERAPY**
+<details class="med-details">
+<summary>2-stage treatment: ascending aorta and arch replacing + elephant trunk procedure</summary>
+<div class="details-content">
+Infrequently, chronic type A dissection results in extensive aneurysmal dilatation of the aorta extending from the ascending aorta through the arch and into the descending thoracic aorta. Surgical treatment of such extensive disease has traditionally been performed as a staged procedure in which the ascending aorta and arch are replaced first through a sternotomy. The second stage of the so-called elephant trunk procedure is performed 6 weeks later through a left thoracotomy for replacement of the descending aorta using a second vascular graft. Originally described by Borst et al, this technique has been used extensively with good results. In some cases, the aorta distal to the left subclavian artery may be so large as to preclude the use of a two-stage repair. Kouchoukos et al have described a single-stage repair performed through a bilateral anterior thoracotomy in which the arch is repaired first during a brief period of circulatory arrest. Right subclavian and femoral artery cannulation for cardiopulmonary bypass provide proximal and distal perfusion during the subsequent ascending and descending aortic replacement. The hospital mortality was 6.2% and there were no adverse neurologic outcomes in the small series. Postoperative and long-term management of these cases are identical to the acute repairs, but with an emphasis on monitoring for evidence of malperfusion.
+</div>
+</details>
 
-Endovascular therapy has been recently used for management of chronic type B aortic dissections<sup>42,50,51,58,69,70</sup> (see Table 47-6). The goal of endovascular therapy is to seal any dissection entry points, promote thrombosis of the false lumen, induce aortic remodeling, and prevent further aneurysmal dilatation, rupture, or malperfusion.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Techniques for Chronic Type B Aortic Dissection</summary>
+<div class="details-content">
+
+<details class="med-details">
+<summary>ENDOVASCULAR THERAPY</summary>
+<div class="details-content">
+
+Endovascular therapy has been recently used for management of chronic type B aortic dissections (see Table 47-6). The goal of endovascular therapy is to seal any dissection entry points, promote thrombosis of the false lumen, induce aortic remodeling, and prevent further aneurysmal dilatation, rupture, or malperfusion.
 
 The general considerations, preoperative assessment, and operative technique for endovascular therapies in chronic dissection are similar to the ones described for acute type B dissection. Although percutaneous fenestrations may be used in cases of malperfusion, most chronic dissections require treatment for aneurysmal dilatation and aortic expansion because of the persistence of a false lumen, an obligate consequence of fenestrations. Therefore, the endovascular treatment of choice for most chronic dissections is endovascular grafting. Because of the increased risk of spinal malperfusion, lumbar drainage for spinal protection is used liberally in chronic dissections.
 
 Preoperative planning with CTA or MRA is important to define the anatomy and plan the deployment of the endovascular graft. Multiple connections between the true and the false lumen may be identified in chronic dissections. It is important to seal all entry points with the endovascular graft to depressurize the false lumen. Follow-up imaging and close surveillance after the endovascular procedure are necessary.
+</div>
+</details>
 
-#### **SURGICAL THERAPY**
+<details class="med-details">
+<summary>SURGICAL THERAPY</summary>
+<div class="details-content">
 
 The purpose of surgical intervention in chronic aortic dissection is to replace all segments of dissected aorta at risk for rupture and prevent the possibility of subsequent malperfusion syndrome. The conduct of the operation including surgical approach, monitoring lines required, anesthetic technique, and cardiopulmonary bypass is similar to that described for acute dissections. Greater emphasis is placed on methods of spinal cord protection.
 
-The incidence of paraplegia after repair of thoracoabdominal aneurysms resulting from aortic dissection is reportedly as high as 25%.88 Both mechanical and pharmacologic interventions have been advocated over the last decade to reduce this risk. Partial left heart bypass alone for replacement of the thoracic aorta above the level of T9 can reduce paraplegia rate between 5 and 8%.89 We routinely use a lumbar drain for aneurysms extending below T9.54 Reimplanting intercostals and lumbar arteries between T9 and L1 can be an important adjunct.<sup>90</sup> The aortic cross-clamp is sequentially moved distally to perfuse branches as they are reimplanted. The combination of distal perfusion, CSF drainage, and reimplanting large intercostal and lumbar arteries has significantly reduced the incidence of paraplegia at our institutions. Additional techniques used for spinal cord protection include measurement of sensory and motor evoked potentials, regional epidural cooling, and the use of a variety of pharmacologic agents for cellular protection.
+
+<details class="med-details">
+<summary>Spinal cord protection</summary>
+<div class="details-content">
+The incidence of paraplegia after repair of thoracoabdominal aneurysms resulting from aortic dissection is reportedly as high as 25%. Both mechanical and pharmacologic interventions have been advocated over the last decade to reduce this risk. Partial left heart bypass alone for replacement of the thoracic aorta above the level of T9 can reduce paraplegia rate between 5 and 8%. We routinely use a lumbar drain for aneurysms extending below T9. Reimplanting intercostals and lumbar arteries between T9 and L1 can be an important adjunct. The aortic cross-clamp is sequentially moved distally to perfuse branches as they are reimplanted. The combination of distal perfusion, CSF drainage, and reimplanting large intercostal and lumbar arteries has significantly reduced the incidence of paraplegia at our institutions. Additional techniques used for spinal cord protection include measurement of sensory and motor evoked potentials, regional epidural cooling, and the use of a variety of pharmacologic agents for cellular protection.
+</div>
+</details>
+
 
 The techniques used for replacement of the descending thoracic aorta are identical to those described for treatment of acute type B dissection. The extent of resection, however, for chronic type B dissection is usually greater with the goal to remove all dissected aorta at risk for rupture or symptoms. Usually these operations can be performed through the left chest, but more extensive aneurysms or cases of visceral malperfusion require a thoracoabdominal incision or a staged repair. The proximal anastomosis is ideally made to undissected normal aorta but infrequently the distal arch is involved, which requires alteration in surgical strategy.
 
-As mentioned, we prefer the combination of partial left heart bypass and CSF drainage for spinal cord protection. Sites for cannulation are the left inferior pulmonary vein and the left femoral artery or descending thoracic aorta. Depending on location and extent of aneurysm, the distal arch is mobilized first. The area between the left common carotid and left subclavian artery is circumferentially dissected, and the left subclavian artery is independently controlled. Partial left heart bypass is then initiated. Ideally, clamps are placed
-
-between the left subclavian and left common carotid arteries and on the aorta distal to the involved segment. If the entire descending thoracic aorta is diseased, the clamp is placed on the mid-thoracic aorta to perform the proximal anastomosis first. The aorta is opened and small intercostal arteries are oversewn. The proximal anastomosis is made to normal aorta whenever possible with running 3-0 Prolene; 4-0 Prolene is used if the tissue is fragile. The clamp is moved distally onto the graft to inspect the proximal anastomosis and achieve hemostasis. Several centimeters of the dissection flap is then resected from the lumen of the distal aorta and the distal anastomosis created to the adventitia of the chronic dissection. In more extensive thoracoabdominal disease, the clamp is progressively moved distal as intercostal arteries below T7 to L2 and visceral vessels are reimplanted (Fig. 47-25). Bypass is terminated and the operation completed.
-
-Full cardiopulmonary bypass with deep hypothermic circulatory arrest may be necessary in cases in which the proximal anastomosis cannot be safely or adequately performed with a clamp in the usual position.
-
-#### **RESULTS**
-
-The operative mortality for chronic type A dissections is between 4 and  $17\%.^{90.91}$  The stroke rate after repair is 4%, with early neurologic complications occurring in  $9\%.^{28}$  Regular follow-up of the aortic valve is necessary when the native valve is preserved at the initial operation. This is best performed using TTE on a yearly basis. Early reports indicated that nearly 20% of patients require reoperation secondary to progressive aortic regurgitation. The most recent data from David et al, however, reveal a  $90 \pm 4\%$  5-year freedom from severe or moderate aortic insufficiency in patients with aortic root aneurysm and  $98 \pm 2\%$  in patients with ascending aortic aneurysm following valve-sparing operation. <sup>84</sup>
-
-The perioperative mortality after surgical treatment of chronic type B dissections has been reported to be as low as 10% with a rate of permanent paraplegia of 9%. Long-term survival for type A and B chronic dissections is similar with rates at 1, 5, 10, and 15 years after surgery of 78, 60, 45, and 27%, respectively. Approximately one-third of deaths
+As mentioned, we prefer the combination of partial left heart bypass and CSF drainage for spinal cord protection. Sites for cannulation are the left inferior pulmonary vein and the left femoral artery or descending thoracic aorta. Depending on location and extent of aneurysm, the distal arch is mobilized first. The area between the left common carotid and left subclavian artery is circumferentially dissected, and the left subclavian artery is independently controlled. Partial left heart bypass is then initiated. Ideally, clamps are placed between the left subclavian and left common carotid arteries and on the aorta distal to the involved segment. If the entire descending thoracic aorta is diseased, the clamp is placed on the mid-thoracic aorta to perform the proximal anastomosis first. The aorta is opened and small intercostal arteries are oversewn. The proximal anastomosis is made to normal aorta whenever possible with running 3-0 Prolene; 4-0 Prolene is used if the tissue is fragile. The clamp is moved distally onto the graft to inspect the proximal anastomosis and achieve hemostasis. Several centimeters of the dissection flap is then resected from the lumen of the distal aorta and the distal anastomosis created to the adventitia of the chronic dissection. In more extensive thoracoabdominal disease, the clamp is progressively moved distal as intercostal arteries below T7 to L2 and visceral vessels are reimplanted (Fig. 47-25). Bypass is terminated and the operation completed.
 
 ![](_page_29_Figure_7.jpeg)
 
 FIGURE 47-25 Replacement of the thoracoabdominal aorta. (A) A left femoral cannula perfuses the lower body and viscera while the heart continues to eject. The arch is transected near or at the left subclavian and any dissection involving the proximal cuff is repaired. (B) The clamp is moved down and a second arterial cannula is inserted into the proximal graft to perfuse the upper body and heart. The anterior wall of the dissection is incised longitudinally and bleeding intercostals of the upper six pairs are oversewn. A group of lower intercostal arteries above the celiac axis is sutured to the graft. (C) The clamp is moved down and the distal aortic clamp is moved to the left common iliac artery. A patch of aorta containing the celiac, superior mesenteric, and right renal artery is sewn into the graft. The left renal artery is sutured separately to the graft. (D) The proximal clamp is moved below the visceral anastomoses and the distal aortic anastomosis is made to the aortic bifurcation.
+  
 
-are cardiac-related, and at least 15% of deaths are related to complications or extension of the aortic dissection.
+Full cardiopulmonary bypass with deep hypothermic circulatory arrest may be necessary in cases in which the proximal anastomosis cannot be safely or adequately performed with a clamp in the usual position.
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>RESULTS</summary>
+<div class="details-content">
+
+The operative mortality for chronic type A dissections is between 4 and  17%. The stroke rate after repair is 4%, with early neurologic complications occurring in  $9%. Regular follow-up of the aortic valve is necessary when the native valve is preserved at the initial operation. This is best performed using TTE on a yearly basis. Early reports indicated that nearly 20% of patients require reoperation secondary to progressive aortic regurgitation. The most recent data from David et al, however, reveal a  90 ± 4%  5-year freedom from severe or moderate aortic insufficiency in patients with aortic root aneurysm and  98 ± 2% in patients with ascending aortic aneurysm following valve-sparing operation. 
+
+The perioperative mortality after surgical treatment of chronic type B dissections has been reported to be as low as 10% with a rate of permanent paraplegia of 9%. Long-term survival for type A and B chronic dissections is similar with rates at 1, 5, 10, and 15 years after surgery of 78, 60, 45, and 27%, respectively. Approximately one-third of deaths are cardiac-related, and at least 15% of deaths are related to complications or extension of the aortic dissection.
 
 Recently, endovascular therapies have been used for management of chronic type B aortic dissections. The outcomes cited in Table 47-6 are similar to the outcomes after endovascular treatment of acute dissections. Although the results of these studies look promising, this topic needs to be studied further before recommendations or indications of endovascular repair in chronic type B dissections are elucidated.
+</div>
+</details>
 
-### CONCLUSION
+<details class="med-details">
+<summary>CONCLUSION</summary>
+<div class="details-content">
 
 Considerable improvement in the treatment of patients with acute and chronic aortic dissection has occurred over the last 50 years. The management of aortic dissections will continue to evolve as improved medical, endovascular, and surgical techniques are refined. At the present time, surgical therapy remains the standard of care for acute type A aortic dissections. Uncomplicated type B dissections should continue to be treated with optimal medical management and close surveillance until further studies define whether "prophylactic" endovascular repair will play a role in these patients. The treatment of acute complicated type B dissections has significantly evolved over the last few years, with endovascular therapies now providing an alternative to surgical therapy. The long-term outcomes of endovascular treatment are still unclear but appear to be promising. Patients undergoing operative intervention for a ortic dissection will undoubtedly benefit from the novel basic and clinical research taking place in the areas of spinal cord and cerebral protection, strategies for cardiopulmonary bypass, improved vascular graft and endograft technology, and procedures for preservation of the aortic valve. Such progress may even permit advancement in our greatest remaining clinical challenge, those patients who are hemodynamically unstable following aortic dissection.
+</div>
+</details>
+
 </div>
 </details>
