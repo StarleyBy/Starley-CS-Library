@@ -12,6 +12,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body class="reader-body">
+    <!-- Reading progress bar -->
+    <div id="reading-progress-bar"></div>
+
     <header class="reader-header">
         <div class="header-content">
             <nav class="main-nav">
@@ -40,6 +43,30 @@
         <main id="main-content" class="content-wrapper">
             <article id="content-area" class="content"></article>
         </main>
+    </div>
+
+    <!-- Radial menu -->
+    <div id="radial-backdrop"></div>
+    <div id="radial-menu-container">
+        <!-- Font picker popup -->
+        <div id="font-picker">
+            <button class="font-option" data-font="inter">Inter <span style="font-size:0.75em;color:#999">(sans)</span></button>
+            <button class="font-option" data-font="serif">Georgia <span style="font-size:0.75em;color:#999">(serif)</span></button>
+            <button class="font-option" data-font="mono">JetBrains Mono</button>
+        </div>
+        <!-- Action buttons (order = animation order 1→6) -->
+        <div id="radial-items">
+            <button class="radial-item" data-action="scroll-top"    data-tooltip="В начало главы">↑</button>
+            <button class="radial-item" data-action="expand-all"    data-tooltip="Развернуть все">⊞</button>
+            <button class="radial-item" data-action="collapse-all"  data-tooltip="Свернуть все">⊟</button>
+            <button class="radial-item" data-action="font-increase" data-tooltip="Увеличить шрифт" style="font-size:0.82rem">A+</button>
+            <button class="radial-item" data-action="font-decrease" data-tooltip="Уменьшить шрифт" style="font-size:0.82rem">A−</button>
+            <button class="radial-item" data-action="font-pick"     data-tooltip="Выбор шрифта" style="font-size:0.8rem">Aa</button>
+        </div>
+        <!-- Trigger button -->
+        <button id="radial-trigger" title="Настройки чтения">
+            <i class="fas fa-sliders-h"></i>
+        </button>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
