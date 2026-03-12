@@ -1003,10 +1003,17 @@ body.focus-mode #focus-toggle .fa-compress { display: block; }
   font-family: var(--reader-font-family, 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif) !important;
 }
 
-/* Font family presets */
-body.font-inter  { --reader-font-family: 'Inter', 'Segoe UI', sans-serif; }
-body.font-serif  { --reader-font-family: 'Georgia', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; }
-body.font-mono   { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+/* Font family presets — 10 options */
+body.font-inter       { --reader-font-family: 'Inter', 'Segoe UI', sans-serif; }
+body.font-roboto      { --reader-font-family: 'Roboto', 'Helvetica Neue', sans-serif; }
+body.font-opensans    { --reader-font-family: 'Open Sans', 'Helvetica Neue', sans-serif; }
+body.font-nunito      { --reader-font-family: 'Nunito', 'Segoe UI', sans-serif; }
+body.font-merriweather{ --reader-font-family: 'Merriweather', Georgia, serif; }
+body.font-lora        { --reader-font-family: 'Lora', Georgia, serif; }
+body.font-playfair    { --reader-font-family: 'Playfair Display', 'Book Antiqua', serif; }
+body.font-sourceserif { --reader-font-family: 'Source Serif 4', Georgia, serif; }
+body.font-literata    { --reader-font-family: 'Literata', Georgia, serif; }
+body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
 
 /* ==========================================================================
    RADIAL MENU
@@ -1017,6 +1024,15 @@ body.font-mono   { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Courier
   bottom: 2rem;
   right: 2rem;
   z-index: 2000;
+  /* Dragging: no text selection */
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Drag handle indicator */
+#radial-menu-container.dragging {
+  opacity: 0.85;
+  cursor: grabbing !important;
 }
 
 /* Центральная кнопка-триггер */
@@ -1024,29 +1040,39 @@ body.font-mono   { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Courier
   width: 48px;
   height: 48px;
   border-radius: 50%;
-  background: #2196f3;
+  /* Semi-transparent */
+  background: rgba(33, 150, 243, 0.55);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   color: white;
-  border: none;
-  cursor: pointer;
+  border: 1.5px solid rgba(255,255,255,0.35);
+  cursor: grab;
   font-size: 1.2rem;
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.4);
-  transition: transform 0.25s ease, background 0.2s ease;
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+  transition: transform 0.25s ease, background 0.2s ease, opacity 0.2s ease;
   position: relative;
   z-index: 10;
 }
 
 #radial-trigger:hover {
-  background: #1976d2;
+  background: rgba(25, 118, 210, 0.75);
   transform: scale(1.08);
+}
+
+/* While dragging — suppress click-open */
+#radial-menu-container.was-dragged #radial-trigger {
+  cursor: grab;
 }
 
 #radial-menu-container.open #radial-trigger {
   transform: rotate(45deg) scale(1.05);
-  background: #e53935;
-  box-shadow: 0 4px 12px rgba(229, 57, 53, 0.4);
+  background: rgba(229, 57, 53, 0.65);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 4px 12px rgba(229, 57, 53, 0.35);
+  cursor: grab;
 }
 
 /* Контейнер лепестков */
@@ -1201,10 +1227,19 @@ body.radial-open #radial-backdrop {
   text-align: left;
   transition: background 0.15s;
   color: #333;
+  white-space: nowrap;
 }
 
 .font-option:hover { background: #f0f0f0; }
 .font-option.active { background: #e3f2fd; color: #1976d2; font-weight: 600; }
+
+/* Font picker label */
+.font-option .font-tag {
+  font-size: 0.7rem;
+  color: #999;
+  margin-left: 4px;
+  font-style: italic;
+}
 
 /* Индикаторы прочитанных глав в сайдбаре */
 .chapter-read-dot {
@@ -1218,5 +1253,8 @@ body.radial-open #radial-backdrop {
   flex-shrink: 0;
 }
 
-/* Focus mode — скрыть radial menu */
-body.focus-mode #radial-menu-container { display: none; }
+/* Focus mode — radial menu stays visible, just reposition slightly */
+body.focus-mode #radial-menu-container {
+  /* stays visible in focus mode */
+  display: block;
+}
