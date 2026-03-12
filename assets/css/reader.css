@@ -901,3 +901,322 @@ body.focus-mode #focus-toggle .fa-compress { display: block; }
   #main-content { margin-left: 0; width: 100%; }
   .nav-text { display: none; }
 }
+
+/* ==========================================================================
+   READING PROGRESS BAR
+   ========================================================================== */
+
+#reading-progress-bar {
+  position: fixed;
+  top: var(--header-height);
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, #2196f3, #4caf50);
+  z-index: 1100;
+  transition: width 0.1s linear;
+  pointer-events: none;
+  border-radius: 0 2px 2px 0;
+}
+
+/* ==========================================================================
+   DETAILS / SUMMARY — DEPTH-COLORED TRIANGLES
+   Depth 1: синий  #2196f3
+   Depth 2: зелёный  #4caf50
+   Depth 3: оранжевый  #ff9800
+   Depth 4: розово-красный  #e91e63
+   Depth 5: фиолетовый  #9c27b0
+   ========================================================================== */
+
+/* Base: убираем дефолтный маркер во всех браузерах */
+.content details > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  gap: 0.4em;
+  user-select: none;
+}
+.content details > summary::-webkit-details-marker { display: none; }
+
+/* Треугольник через ::before */
+.content details > summary::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  /* Направление: вправо (закрыто) */
+  border-width: 5px 0 5px 8px;
+  border-color: transparent transparent transparent currentColor;
+  transition: transform 0.2s ease, color 0.15s ease;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+/* Открытое состояние — треугольник вниз */
+.content details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* --- Глубина 1 (корневой details внутри .content) --- */
+.content > details > summary::before,
+.content details[data-depth="1"] > summary::before {
+  color: #2196f3;
+}
+
+/* --- Глубина 2 --- */
+.content details details > summary::before,
+.content details[data-depth="2"] > summary::before {
+  color: #4caf50;
+}
+
+/* --- Глубина 3 --- */
+.content details details details > summary::before,
+.content details[data-depth="3"] > summary::before {
+  color: #ff9800;
+}
+
+/* --- Глубина 4 --- */
+.content details details details details > summary::before,
+.content details[data-depth="4"] > summary::before {
+  color: #e91e63;
+}
+
+/* --- Глубина 5+ --- */
+.content details details details details details > summary::before,
+.content details[data-depth="5"] > summary::before {
+  color: #9c27b0;
+}
+
+/* Подсветка summary при hover */
+.content details > summary:hover {
+  opacity: 0.8;
+}
+
+/* ==========================================================================
+   DYNAMIC FONT & SIZE — CSS custom properties applied via JS
+   ========================================================================== */
+
+.content {
+  font-size: var(--reader-font-size, 16px) !important;
+  font-family: var(--reader-font-family, 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif) !important;
+}
+
+/* Font family presets */
+body.font-inter  { --reader-font-family: 'Inter', 'Segoe UI', sans-serif; }
+body.font-serif  { --reader-font-family: 'Georgia', 'Palatino Linotype', 'Book Antiqua', Palatino, serif; }
+body.font-mono   { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+
+/* ==========================================================================
+   RADIAL MENU
+   ========================================================================== */
+
+#radial-menu-container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 2000;
+}
+
+/* Центральная кнопка-триггер */
+#radial-trigger {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #2196f3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.4);
+  transition: transform 0.25s ease, background 0.2s ease;
+  position: relative;
+  z-index: 10;
+}
+
+#radial-trigger:hover {
+  background: #1976d2;
+  transform: scale(1.08);
+}
+
+#radial-menu-container.open #radial-trigger {
+  transform: rotate(45deg) scale(1.05);
+  background: #e53935;
+  box-shadow: 0 4px 12px rgba(229, 57, 53, 0.4);
+}
+
+/* Контейнер лепестков */
+#radial-items {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+}
+
+/* Каждый лепесток */
+.radial-item {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: white;
+  color: #333;
+  border: 2px solid #e0e0e0;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition:
+    transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1),
+    opacity 0.25s ease,
+    background 0.15s ease,
+    border-color 0.15s ease;
+  opacity: 0;
+  /* Начальная позиция — поверх триггера */
+  transform: translate(0, 0) scale(0.4);
+  bottom: 3px;
+  right: 3px;
+  pointer-events: none;
+}
+
+.radial-item:hover {
+  background: #2196f3;
+  color: white;
+  border-color: #2196f3;
+  transform: var(--item-translate) scale(1.12) !important;
+}
+
+/* Открытое состояние — каждый лепесток улетает на своё место */
+#radial-menu-container.open .radial-item {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Позиции 6 лепестков по дуге (полукруг влево-вверх) */
+/* Углы: 270°(вверх), 240°, 210°, 180°(влево), 150°, 120° */
+/* Радиус 80px */
+#radial-menu-container.open .radial-item:nth-child(1) {
+  --item-translate: translate(-8px, -90px);
+  transform: translate(-8px, -90px) scale(1);
+  transition-delay: 0.00s;
+}
+#radial-menu-container.open .radial-item:nth-child(2) {
+  --item-translate: translate(-47px, -75px);
+  transform: translate(-47px, -75px) scale(1);
+  transition-delay: 0.04s;
+}
+#radial-menu-container.open .radial-item:nth-child(3) {
+  --item-translate: translate(-75px, -47px);
+  transform: translate(-75px, -47px) scale(1);
+  transition-delay: 0.08s;
+}
+#radial-menu-container.open .radial-item:nth-child(4) {
+  --item-translate: translate(-90px, -8px);
+  transform: translate(-90px, -8px) scale(1);
+  transition-delay: 0.12s;
+}
+#radial-menu-container.open .radial-item:nth-child(5) {
+  --item-translate: translate(-75px, 30px);
+  transform: translate(-75px, 30px) scale(1);
+  transition-delay: 0.16s;
+}
+#radial-menu-container.open .radial-item:nth-child(6) {
+  --item-translate: translate(-47px, 58px);
+  transform: translate(-47px, 58px) scale(1);
+  transition-delay: 0.20s;
+}
+
+/* Tooltip */
+.radial-item::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  right: calc(100% + 8px);
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(30, 30, 30, 0.88);
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 5px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+}
+
+.radial-item:hover::after {
+  opacity: 1;
+}
+
+/* Backdrop для закрытия меню по клику вне */
+#radial-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1999;
+}
+
+#radial-menu-container.open ~ #radial-backdrop,
+body.radial-open #radial-backdrop {
+  display: block;
+}
+
+/* Font picker popup */
+#font-picker {
+  position: absolute;
+  bottom: 58px;
+  right: 0;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  padding: 6px;
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 160px;
+  z-index: 20;
+}
+
+#font-picker.visible {
+  display: flex;
+}
+
+.font-option {
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.88rem;
+  border: none;
+  background: transparent;
+  text-align: left;
+  transition: background 0.15s;
+  color: #333;
+}
+
+.font-option:hover { background: #f0f0f0; }
+.font-option.active { background: #e3f2fd; color: #1976d2; font-weight: 600; }
+
+/* Индикаторы прочитанных глав в сайдбаре */
+.chapter-read-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #4caf50;
+  margin-left: 6px;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+/* Focus mode — скрыть radial menu */
+body.focus-mode #radial-menu-container { display: none; }
