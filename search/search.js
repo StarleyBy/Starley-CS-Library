@@ -4,6 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsContainer = document.getElementById('resultsContainer');
     let lunrIndex, docStore;
 
+    const EDITION_SUFFIX_MAP = {
+        'original': '.md',
+        'russian': '-ru.md',
+        'hebrew': '-he.md',
+        'starley': '-starley.md'
+    };
+
     // Modal elements
     const modal = document.getElementById('chapterModal');
     const modalTitle = document.getElementById('modalTitle');
@@ -140,7 +147,10 @@ document.addEventListener('DOMContentLoaded', () => {
         const readerLink = `../reader.html?book=${data.bookId}&chapter=${data.chapterId}&edition=${data.edition}`;
         readFullButton.href = readerLink;
         
-        const markdownPath = `../${data.bookId}/chapters/${data.chapterId}/${data.chapterId}.md`;
+        // Construct path to markdown file based on edition
+        const editionSuffix = EDITION_SUFFIX_MAP[data.edition] || '.md'; // Default to .md if not found
+        const chapterFileName = `${data.chapterId}${editionSuffix}`;
+        const markdownPath = `../${data.bookId}/chapters/${data.chapterId}/${chapterFileName}`;
 
         fetch(markdownPath)
             .then(response => {
@@ -156,7 +166,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     const regex = new RegExp(query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'), 'gi');
                     highlightedText = text.replace(regex, match => `<mark>${match}</mark>`);
                 }
-                modalBody.innerHTML = marked.parse(highlightedText);
+
+                // Marked options for base URL to resolve relative assets (e.g., images)
+                const baseUrlForAssets = markdownPath.substring(0, markdownPath.lastIndexOf('/') + 1);
+                const markedOptions = {
+                    baseUrl: baseUrlForAssets // Set the base URL for relative assets
+                };
+
+                modalBody.innerHTML = marked.parse(highlightedText, markedOptions);
             })
             .catch(error => {
                 modalBody.innerHTML = `<p>Could not load chapter content. Please try opening it in full mode.</p><p><small>Error: ${error.message}</small></p>`;
