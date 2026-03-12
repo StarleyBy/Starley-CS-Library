@@ -61,25 +61,105 @@ function _onScrollSave() {
             ReaderSettings.setScroll(_currentChapterId, window.scrollY);
         }
         // Mark as "read" when scrolled past 80%
-        const docH = document.documentElement.scrollHeight - window.innerHeight;
-        if (docH > 0 && window.scrollY / docH >= 0.80 && _currentChapterId) {
+        if (_mdLineCount > 0 && _currentTopLine / _mdLineCount >= 0.80 && _currentChapterId) {
             ReaderSettings.markChapterRead(_currentChapterId);
             _updateReadDotsInSidebar();
         }
-        // Progress bar
-        _updateProgressBar();
     }, 600);
-    // Progress bar updates immediately (separate fast path)
-    _updateProgressBar();
 }
 
-function _updateProgressBar() {
+// ==========================================================================
+//  MD-LINE BASED PROGRESS
+//  Strategy: store raw MD line count after load; on scroll find the topmost
+//  visible block-level element via IntersectionObserver, map it to an MD line
+//  via a line-index lookup table built at chapter load time.
+// ==========================================================================
+
+let _mdLineCount    = 0;       // total lines in current MD source
+let _elementLineMap = [];      // [{el, lineIndex}] sorted by lineIndex
+let _progressObserver = null;  // IntersectionObserver instance
+let _currentTopLine   = 0;     // last known top visible line
+
+/**
+ * Called after a new chapter loads.
+ * Receives raw MD text + the rendered content root.
+ */
+function _initMdProgress(mdText, contentRoot) {
+    _mdLineCount = mdText.split('\n').length;
+    _elementLineMap = [];
+    _currentTopLine = 0;
+
+    if (_progressObserver) _progressObserver.disconnect();
+
+    // Build a lookup: for each block-level child of contentRoot,
+    // find the best matching line in the MD source.
+    const blocks = contentRoot.querySelectorAll(
+        'p, h1, h2, h3, h4, h5, h6, li, tr, details, blockquote, pre, figure, table'
+    );
+
+    const mdLines = mdText.split('\n');
+
+    blocks.forEach((el) => {
+        // Get first ~60 chars of the element's plain text for matching
+        const snippet = (el.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 60);
+        if (!snippet) return;
+
+        // Find the best matching line in MD (case-insensitive, stripped of markdown syntax)
+        let bestLine = 0;
+        let bestScore = 0;
+        for (let i = 0; i < mdLines.length; i++) {
+            const stripped = mdLines[i].replace(/^[#*>\-\d.\[\]!`|]+\s*/g, '').trim();
+            if (stripped.length < 4) continue;
+            // Simple overlap score: how many chars of snippet appear in the line
+            const overlapLen = Math.min(stripped.length, 30);
+            const needle = snippet.slice(0, overlapLen).toLowerCase();
+            if (stripped.toLowerCase().includes(needle.slice(0, 20))) {
+                // Score = position-weighted (prefer earlier match for same snippet)
+                const score = overlapLen - i * 0.001;
+                if (score > bestScore) { bestScore = score; bestLine = i; }
+            }
+        }
+        _elementLineMap.push({ el, lineIndex: bestLine });
+    });
+
+    // Sort by lineIndex ascending
+    _elementLineMap.sort((a, b) => a.lineIndex - b.lineIndex);
+
+    // Use IntersectionObserver to track topmost visible element
+    _progressObserver = new IntersectionObserver((entries) => {
+        // Find minimum lineIndex among currently intersecting elements
+        let minLine = null;
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const found = _elementLineMap.find(m => m.el === entry.target);
+                if (found && (minLine === null || found.lineIndex < minLine)) {
+                    minLine = found.lineIndex;
+                }
+            }
+        });
+        if (minLine !== null) {
+            _currentTopLine = minLine;
+            _renderProgressBar();
+        }
+    }, {
+        root: null,
+        rootMargin: '-40% 0px -40% 0px', // trigger when element is in the middle 20% of viewport
+        threshold: 0
+    });
+
+    _elementLineMap.forEach(m => _progressObserver.observe(m.el));
+    _renderProgressBar();
+}
+
+function _renderProgressBar() {
     const bar = document.getElementById('reading-progress-bar');
-    if (!bar) return;
-    const docH = document.documentElement.scrollHeight - window.innerHeight;
-    const pct  = docH > 0 ? Math.min(100, (window.scrollY / docH) * 100) : 0;
+    if (!bar || _mdLineCount === 0) return;
+    const pct = Math.min(100, (_currentTopLine / _mdLineCount) * 100);
     bar.style.width = pct + '%';
 }
+
+// Keep this as a no-op fallback so old callers don't break
+function _updateProgressBar() { _renderProgressBar(); }
 
 function _updateReadDotsInSidebar() {
     const readSet = ReaderSettings.getReadChapters();
@@ -101,7 +181,11 @@ function _applyFontSettings() {
     const family = ReaderSettings.getFontFamily();
     document.documentElement.style.setProperty('--reader-font-size', size + 'px');
     // Remove all font-* classes, add current
-    document.body.classList.remove('font-inter', 'font-serif', 'font-mono');
+    document.body.classList.remove(
+        'font-inter','font-roboto','font-opensans','font-nunito',
+        'font-merriweather','font-lora','font-playfair',
+        'font-sourceserif','font-literata','font-mono'
+    );
     document.body.classList.add('font-' + family);
 }
 
@@ -152,6 +236,7 @@ async function loadChapter(bookPath, chapterId, edition) {
         }
 
         let md = await response.text();
+        const rawMd = md; // preserve original for line counting
 
         // Custom styling parser
         md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
@@ -196,6 +281,9 @@ async function loadChapter(bookPath, chapterId, edition) {
 
             // Label <details> depth for colored triangles
             labelDetailsDepth(area);
+
+            // Init MD-line-based progress bar
+            _initMdProgress(rawMd, area);
 
             // Restore scroll position for this chapter (or go to top)
             if (!window.location.hash) {
@@ -253,10 +341,19 @@ function _initRadialMenu() {
 
     if (!container || !trigger) return;
 
-    // ---- Toggle open/close ----
+    // ---- Restore saved position ----
+    _restoreMenuPosition(container);
+
+    // ---- Drag logic ----
+    _initDrag(container, trigger);
+
+    // ---- Toggle open/close (only if not dragging) ----
     trigger.addEventListener('click', (e) => {
         e.stopPropagation();
-        // Close font picker if open
+        if (container.classList.contains('was-dragged')) {
+            container.classList.remove('was-dragged');
+            return;
+        }
         if (fontPicker) fontPicker.classList.remove('visible');
         container.classList.toggle('open');
         document.body.classList.toggle('radial-open');
@@ -291,9 +388,7 @@ function _initRadialMenu() {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
                 _closeMenu();
             } else if (action === 'font-pick') {
-                if (fontPicker) {
-                    fontPicker.classList.toggle('visible');
-                }
+                if (fontPicker) fontPicker.classList.toggle('visible');
             }
         });
     });
@@ -303,16 +398,90 @@ function _initRadialMenu() {
         fontPicker.querySelectorAll('.font-option').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
-                const family = btn.dataset.font;
-                _setFontFamily(family);
+                _setFontFamily(btn.dataset.font);
                 fontPicker.classList.remove('visible');
                 _closeMenu();
             });
         });
     }
 
-    // ---- Update font-picker active state ----
     _syncFontPickerUI();
+}
+
+// ==========================================================================
+//  DRAG — pointer events based, works mouse + touch
+// ==========================================================================
+
+function _initDrag(container, handle) {
+    let startX, startY, startRight, startBottom;
+    let dragging = false;
+    let moved    = false;
+
+    handle.addEventListener('pointerdown', (e) => {
+        // Only primary button
+        if (e.button !== undefined && e.button !== 0) return;
+        e.preventDefault();
+        handle.setPointerCapture(e.pointerId);
+
+        dragging = true;
+        moved    = false;
+
+        // Compute current fixed position in terms of right/bottom
+        const rect   = container.getBoundingClientRect();
+        startX       = e.clientX;
+        startY       = e.clientY;
+        startRight   = window.innerWidth  - rect.right;
+        startBottom  = window.innerHeight - rect.bottom;
+
+        container.classList.add('dragging');
+    });
+
+    handle.addEventListener('pointermove', (e) => {
+        if (!dragging) return;
+        const dx = e.clientX - startX;
+        const dy = e.clientY - startY;
+
+        if (Math.abs(dx) > 4 || Math.abs(dy) > 4) moved = true;
+        if (!moved) return;
+
+        // Convert movement to right/bottom (fixed positioning)
+        let newRight  = Math.max(0, Math.min(window.innerWidth  - 56, startRight  - dx));
+        let newBottom = Math.max(0, Math.min(window.innerHeight - 56, startBottom + dy));
+
+        container.style.right  = newRight  + 'px';
+        container.style.bottom = newBottom + 'px';
+        container.style.left   = 'auto';
+        container.style.top    = 'auto';
+    });
+
+    handle.addEventListener('pointerup', (e) => {
+        if (!dragging) return;
+        dragging = false;
+        container.classList.remove('dragging');
+
+        if (moved) {
+            container.classList.add('was-dragged');
+            // Save position
+            ReaderSettings.set('reader_menu_right',  parseFloat(container.style.right)  || 32);
+            ReaderSettings.set('reader_menu_bottom', parseFloat(container.style.bottom) || 32);
+        }
+    });
+
+    handle.addEventListener('pointercancel', () => {
+        dragging = false;
+        container.classList.remove('dragging');
+    });
+}
+
+function _restoreMenuPosition(container) {
+    const right  = ReaderSettings.get('reader_menu_right',  null);
+    const bottom = ReaderSettings.get('reader_menu_bottom', null);
+    if (right !== null && bottom !== null) {
+        container.style.right  = right  + 'px';
+        container.style.bottom = bottom + 'px';
+        container.style.left   = 'auto';
+        container.style.top    = 'auto';
+    }
 }
 
 function _closeMenu() {
@@ -323,19 +492,22 @@ function _closeMenu() {
 
 // ---- Font size ----
 function _changeFontSize(delta) {
-    const STEP = 1; // px per click
-    const MIN  = 12;
-    const MAX  = 24;
-    let current = ReaderSettings.getFontSize();
-    let next = Math.min(MAX, Math.max(MIN, current + delta * STEP));
+    const MIN = 12, MAX = 24;
+    let next = Math.min(MAX, Math.max(MIN, ReaderSettings.getFontSize() + delta));
     ReaderSettings.setFontSize(next);
     document.documentElement.style.setProperty('--reader-font-size', next + 'px');
 }
 
-// ---- Font family ----
+// ---- Font family — all 10 classes ----
+const _ALL_FONT_CLASSES = [
+    'font-inter','font-roboto','font-opensans','font-nunito',
+    'font-merriweather','font-lora','font-playfair',
+    'font-sourceserif','font-literata','font-mono'
+];
+
 function _setFontFamily(name) {
     ReaderSettings.setFontFamily(name);
-    document.body.classList.remove('font-inter', 'font-serif', 'font-mono');
+    document.body.classList.remove(..._ALL_FONT_CLASSES);
     document.body.classList.add('font-' + name);
     _syncFontPickerUI();
 }
@@ -351,7 +523,5 @@ function _syncFontPickerUI() {
 function _toggleAllDetails(open) {
     const area = document.getElementById('content-area');
     if (!area) return;
-    area.querySelectorAll('details').forEach(d => {
-        d.open = open;
-    });
+    area.querySelectorAll('details').forEach(d => { d.open = open; });
 }
