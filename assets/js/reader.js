@@ -444,9 +444,10 @@ function _initDrag(container, handle) {
         if (Math.abs(dx) > 4 || Math.abs(dy) > 4) moved = true;
         if (!moved) return;
 
-        // Convert movement to right/bottom (fixed positioning)
+        // right increases when moving left (dx < 0), decreases when moving right (dx > 0)
+        // bottom increases when moving up (dy < 0), decreases when moving down (dy > 0)
         let newRight  = Math.max(0, Math.min(window.innerWidth  - 56, startRight  - dx));
-        let newBottom = Math.max(0, Math.min(window.innerHeight - 56, startBottom + dy));
+        let newBottom = Math.max(0, Math.min(window.innerHeight - 56, startBottom - dy));
 
         container.style.right  = newRight  + 'px';
         container.style.bottom = newBottom + 'px';
