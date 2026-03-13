@@ -1,6 +1,6 @@
 :root {
-  --header-height: 50px;
-  --sidebar-width: 320px;
+  --header-height: 30px;
+  --sidebar-width: 400px;
   --sidebar-transition: transform 0.3s ease-in-out;
   --content-transition: margin-left 0.3s ease-in-out;
   --border-color: #ddd;
@@ -9,7 +9,7 @@
 }
 
 .reader-body {
-  /* padding-top: var(--header-height); */
+  padding-top: var(--header-height);
   transition: var(--content-transition);
   font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   font-size: 16px !important;
