@@ -26,6 +26,14 @@
       ]
     },
     {
+      "id": "thoracic_surgery",
+      "title": "Thoracic Surgery",
+      "path": "books/thoracic-surgery",
+      "books": [
+        { "folder": "Sugarbaker2" }
+     ]
+    },
+    {
       "id": "anatomy",
       "title": "Anatomy",
       "path": "books/anatomy",
