@@ -413,58 +413,57 @@ function _initRadialMenu() {
 // ==========================================================================
 
 function _initDrag(container, handle) {
-    let startX, startY, startRight, startBottom;
     let dragging = false;
     let moved    = false;
+    let lastX = 0, lastY = 0;
 
     handle.addEventListener('pointerdown', (e) => {
-        // Only primary button
         if (e.button !== undefined && e.button !== 0) return;
         e.preventDefault();
         handle.setPointerCapture(e.pointerId);
 
         dragging = true;
         moved    = false;
+        lastX    = e.clientX;
+        lastY    = e.clientY;
 
-        // Compute current fixed position in terms of right/bottom
-        const rect   = container.getBoundingClientRect();
-        startX       = e.clientX;
-        startY       = e.clientY;
-        startRight   = window.innerWidth  - rect.right;
-        startBottom  = window.innerHeight - rect.bottom;
+        // Switch from right/bottom to left/top so math is straightforward
+        const rect = container.getBoundingClientRect();
+        container.style.left   = rect.left + 'px';
+        container.style.top    = rect.top  + 'px';
+        container.style.right  = 'auto';
+        container.style.bottom = 'auto';
 
         container.classList.add('dragging');
     });
 
     handle.addEventListener('pointermove', (e) => {
         if (!dragging) return;
-        const dx = e.clientX - startX;
-        const dy = e.clientY - startY;
+        const dx = e.clientX - lastX;
+        const dy = e.clientY - lastY;
+        lastX = e.clientX;
+        lastY = e.clientY;
 
-        if (Math.abs(dx) > 4 || Math.abs(dy) > 4) moved = true;
+        if (Math.abs(dx) > 2 || Math.abs(dy) > 2) moved = true;
         if (!moved) return;
 
-        // right increases when moving left (dx < 0), decreases when moving right (dx > 0)
-        // bottom increases when moving up (dy < 0), decreases when moving down (dy > 0)
-        let newRight  = Math.max(0, Math.min(window.innerWidth  - 56, startRight  - dx));
-        let newBottom = Math.max(0, Math.min(window.innerHeight - 56, startBottom - dy));
+        const rect   = container.getBoundingClientRect();
+        const newLeft = Math.max(0, Math.min(window.innerWidth  - 56, rect.left + dx));
+        const newTop  = Math.max(0, Math.min(window.innerHeight - 56, rect.top  + dy));
 
-        container.style.right  = newRight  + 'px';
-        container.style.bottom = newBottom + 'px';
-        container.style.left   = 'auto';
-        container.style.top    = 'auto';
+        container.style.left = newLeft + 'px';
+        container.style.top  = newTop  + 'px';
     });
 
-    handle.addEventListener('pointerup', (e) => {
+    handle.addEventListener('pointerup', () => {
         if (!dragging) return;
         dragging = false;
         container.classList.remove('dragging');
 
         if (moved) {
             container.classList.add('was-dragged');
-            // Save position
-            ReaderSettings.set('reader_menu_right',  parseFloat(container.style.right)  || 32);
-            ReaderSettings.set('reader_menu_bottom', parseFloat(container.style.bottom) || 32);
+            ReaderSettings.set('reader_menu_left', parseFloat(container.style.left) || 0);
+            ReaderSettings.set('reader_menu_top',  parseFloat(container.style.top)  || 0);
         }
     });
 
@@ -475,13 +474,13 @@ function _initDrag(container, handle) {
 }
 
 function _restoreMenuPosition(container) {
-    const right  = ReaderSettings.get('reader_menu_right',  null);
-    const bottom = ReaderSettings.get('reader_menu_bottom', null);
-    if (right !== null && bottom !== null) {
-        container.style.right  = right  + 'px';
-        container.style.bottom = bottom + 'px';
-        container.style.left   = 'auto';
-        container.style.top    = 'auto';
+    const left = ReaderSettings.get('reader_menu_left', null);
+    const top  = ReaderSettings.get('reader_menu_top',  null);
+    if (left !== null && top !== null) {
+        container.style.left   = left + 'px';
+        container.style.top    = top  + 'px';
+        container.style.right  = 'auto';
+        container.style.bottom = 'auto';
     }
 }
 
