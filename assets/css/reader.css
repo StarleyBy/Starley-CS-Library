@@ -1090,34 +1090,42 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  background: white;
-  color: #333;
-  border: 2px solid #e0e0e0;
+  color: white;
+  border: none;
   cursor: pointer;
-  font-size: 0.75rem;
+  font-size: 1rem;
   font-weight: 700;
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
   transition:
     transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1),
     opacity 0.25s ease,
-    background 0.15s ease,
-    border-color 0.15s ease;
+    box-shadow 0.15s ease;
   opacity: 0;
-  /* Начальная позиция — поверх триггера */
   transform: translate(0, 0) scale(0.4);
   bottom: 3px;
   right: 3px;
   pointer-events: none;
 }
 
+/* Color variants — convex effect via gradient + inset shadow */
+.ri-teal   { background: linear-gradient(145deg, #26d0ce, #11998e); box-shadow: 0 4px 10px rgba(17,153,142,0.5), inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-green  { background: linear-gradient(145deg, #56ab2f, #a8e063); box-shadow: 0 4px 10px rgba(86,171,47,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-orange { background: linear-gradient(145deg, #f7971e, #ffd200); box-shadow: 0 4px 10px rgba(247,151,30,0.5), inset 0 1px 1px rgba(255,255,255,0.3); color: #5a3a00; }
+.ri-blue   { background: linear-gradient(145deg, #2196f3, #64b5f6); box-shadow: 0 4px 10px rgba(33,150,243,0.5), inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-red    { background: linear-gradient(145deg, #e53935, #ff6b6b); box-shadow: 0 4px 10px rgba(229,57,53,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-purple { background: linear-gradient(145deg, #7b1fa2, #ce93d8); box-shadow: 0 4px 10px rgba(123,31,162,0.5), inset 0 1px 1px rgba(255,255,255,0.3); }
+
 .radial-item:hover {
-  background: #2196f3;
-  color: white;
-  border-color: #2196f3;
-  transform: var(--item-translate) scale(1.12) !important;
+  filter: brightness(1.12);
+  transform: var(--item-translate) scale(1.15) !important;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.25), inset 0 1px 1px rgba(255,255,255,0.3);
+}
+
+.radial-item:active {
+  filter: brightness(0.92);
+  transform: var(--item-translate) scale(0.95) !important;
 }
 
 /* Открытое состояние — каждый лепесток улетает на своё место */
