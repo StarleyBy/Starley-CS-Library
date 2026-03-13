@@ -334,33 +334,17 @@ document.addEventListener('DOMContentLoaded', function() {
 // ==========================================================================
 
 function _initRadialMenu() {
-<<<<<<< HEAD
     const container  = document.getElementById('radial-menu-container');
     const trigger    = document.getElementById('radial-trigger');
     const backdrop   = document.getElementById('radial-backdrop');
-=======
-    const container = document.getElementById('radial-menu-container');
-    const trigger   = document.getElementById('radial-trigger');
-    const backdrop  = document.getElementById('radial-backdrop');
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
     const fontPicker = document.getElementById('font-picker');
 
     if (!container || !trigger) return;
 
-<<<<<<< HEAD
     _restoreMenuPosition(container);
     _initDrag(container, trigger);
 
     // Toggle open/close (only if not a drag gesture)
-=======
-    // ---- Restore saved position ----
-    _restoreMenuPosition(container);
-
-    // ---- Drag logic ----
-    _initDrag(container, trigger);
-
-    // ---- Toggle open/close (only if not dragging) ----
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
     trigger.addEventListener('click', (e) => {
         e.stopPropagation();
         if (container.classList.contains('was-dragged')) {
@@ -368,20 +352,12 @@ function _initRadialMenu() {
             return;
         }
         if (fontPicker) fontPicker.classList.remove('visible');
-<<<<<<< HEAD
         const opening = !container.classList.contains('open');
         container.classList.toggle('open');
         document.body.classList.toggle('radial-open');
         if (opening) _positionItems(container);
     });
 
-=======
-        container.classList.toggle('open');
-        document.body.classList.toggle('radial-open');
-    });
-
-    // ---- Close on backdrop click ----
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
     if (backdrop) {
         backdrop.addEventListener('click', () => {
             container.classList.remove('open');
@@ -390,16 +366,11 @@ function _initRadialMenu() {
         });
     }
 
-<<<<<<< HEAD
     // Button actions
-=======
-    // ---- Button actions ----
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
     document.querySelectorAll('.radial-item').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.stopPropagation();
             const action = btn.dataset.action;
-<<<<<<< HEAD
             if      (action === 'font-decrease') { _changeFontSize(-1); }
             else if (action === 'font-increase') { _changeFontSize(+1); }
             else if (action === 'collapse-all')  { _toggleAllDetails(false); _closeMenu(); }
@@ -413,29 +384,6 @@ function _initRadialMenu() {
         });
     });
 
-=======
-
-            if (action === 'font-decrease') {
-                _changeFontSize(-1);
-            } else if (action === 'font-increase') {
-                _changeFontSize(+1);
-            } else if (action === 'collapse-all') {
-                _toggleAllDetails(false);
-                _closeMenu();
-            } else if (action === 'expand-all') {
-                _toggleAllDetails(true);
-                _closeMenu();
-            } else if (action === 'scroll-top') {
-                window.scrollTo({ top: 0, behavior: 'smooth' });
-                _closeMenu();
-            } else if (action === 'font-pick') {
-                if (fontPicker) fontPicker.classList.toggle('visible');
-            }
-        });
-    });
-
-    // ---- Font picker buttons ----
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
     if (fontPicker) {
         fontPicker.querySelectorAll('.font-option').forEach(btn => {
             btn.addEventListener('click', (e) => {
@@ -448,7 +396,6 @@ function _initRadialMenu() {
     }
 
     _syncFontPickerUI();
-<<<<<<< HEAD
     _applyNightMode();
     _applyTextWidth();
     _applyLineHeight();
@@ -506,12 +453,6 @@ function _positionItems(container) {
 
 // ==========================================================================
 //  DRAG — pointer events, touch-friendly (touch-action:none in CSS)
-=======
-}
-
-// ==========================================================================
-//  DRAG — pointer events based, works mouse + touch
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 // ==========================================================================
 
 function _initDrag(container, handle) {
@@ -520,15 +461,10 @@ function _initDrag(container, handle) {
     let lastX = 0, lastY = 0;
 
     handle.addEventListener('pointerdown', (e) => {
-<<<<<<< HEAD
         // Allow only primary pointer (left mouse or first touch)
         if (e.pointerType === 'mouse' && e.button !== 0) return;
         // Do NOT call e.preventDefault() here — let touch-action:none handle it.
         // This is the key fix for mobile: preventDefault blocks pointer capture on some browsers.
-=======
-        if (e.button !== undefined && e.button !== 0) return;
-        e.preventDefault();
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
         handle.setPointerCapture(e.pointerId);
 
         dragging = true;
@@ -536,10 +472,6 @@ function _initDrag(container, handle) {
         lastX    = e.clientX;
         lastY    = e.clientY;
 
-<<<<<<< HEAD
-=======
-        // Switch from right/bottom to left/top so math is straightforward
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
         const rect = container.getBoundingClientRect();
         container.style.left   = rect.left + 'px';
         container.style.top    = rect.top  + 'px';
@@ -556,17 +488,10 @@ function _initDrag(container, handle) {
         lastX = e.clientX;
         lastY = e.clientY;
 
-<<<<<<< HEAD
         if (Math.abs(dx) > 3 || Math.abs(dy) > 3) moved = true;
         if (!moved) return;
 
         const rect    = container.getBoundingClientRect();
-=======
-        if (Math.abs(dx) > 2 || Math.abs(dy) > 2) moved = true;
-        if (!moved) return;
-
-        const rect   = container.getBoundingClientRect();
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
         const newLeft = Math.max(0, Math.min(window.innerWidth  - 56, rect.left + dx));
         const newTop  = Math.max(0, Math.min(window.innerHeight - 56, rect.top  + dy));
 
@@ -612,11 +537,7 @@ function _closeMenu() {
 // ---- Font size ----
 function _changeFontSize(delta) {
     const MIN = 12, MAX = 24;
-<<<<<<< HEAD
     const next = Math.min(MAX, Math.max(MIN, ReaderSettings.getFontSize() + delta));
-=======
-    let next = Math.min(MAX, Math.max(MIN, ReaderSettings.getFontSize() + delta));
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
     ReaderSettings.setFontSize(next);
     document.documentElement.style.setProperty('--reader-font-size', next + 'px');
 }
@@ -642,7 +563,6 @@ function _syncFontPickerUI() {
     });
 }
 
-<<<<<<< HEAD
 // ---- Night mode ----
 function _toggleNightMode() {
     const on = document.body.classList.toggle('night-mode');
@@ -691,15 +611,9 @@ function _applyLineHeight() {
     document.documentElement.style.setProperty('--reader-line-height', val);
 }
 
-=======
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 // ---- Collapse / expand all details ----
 function _toggleAllDetails(open) {
     const area = document.getElementById('content-area');
     if (!area) return;
     area.querySelectorAll('details').forEach(d => { d.open = open; });
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d

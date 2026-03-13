@@ -1,6 +1,6 @@
 :root {
-  --header-height: 30px;
-  --sidebar-width: 400px;
+  --header-height: 50px;
+  --sidebar-width: 320px;
   --sidebar-transition: transform 0.3s ease-in-out;
   --content-transition: margin-left 0.3s ease-in-out;
   --border-color: #ddd;
@@ -9,7 +9,7 @@
 }
 
 .reader-body {
-  padding-top: var(--header-height);
+  /* padding-top: var(--header-height); */
   transition: var(--content-transition);
   font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
   font-size: 16px !important;
@@ -1023,15 +1023,9 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
   bottom: 2rem;
   right: 2rem;
   z-index: 2000;
-<<<<<<< HEAD
   user-select: none;
   -webkit-user-select: none;
   touch-action: none;
-=======
-  /* Dragging: no text selection */
-  user-select: none;
-  -webkit-user-select: none;
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 }
 
 /* Drag handle indicator */
@@ -1060,14 +1054,8 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
   transition: transform 0.25s ease, background 0.2s ease, opacity 0.2s ease;
   position: relative;
   z-index: 10;
-<<<<<<< HEAD
   touch-action: none;
 }
-=======
-}
-
-#radial-trigger:hover {
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
   background: rgba(25, 118, 210, 0.75);
   transform: scale(1.08);
 }
@@ -1120,7 +1108,6 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
 }
 
 /* Color variants — convex effect via gradient + inset shadow */
-<<<<<<< HEAD
 .ri-teal   { background: linear-gradient(145deg, #26d0ce, #11998e); box-shadow: 0 4px 10px rgba(17,153,142,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
 .ri-green  { background: linear-gradient(145deg, #56ab2f, #a8e063); box-shadow: 0 4px 10px rgba(86,171,47,0.5),   inset 0 1px 1px rgba(255,255,255,0.3); }
 .ri-orange { background: linear-gradient(145deg, #f7971e, #ffd200); box-shadow: 0 4px 10px rgba(247,151,30,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); color: #5a3a00; }
@@ -1129,14 +1116,6 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
 .ri-purple { background: linear-gradient(145deg, #7b1fa2, #ce93d8); box-shadow: 0 4px 10px rgba(123,31,162,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
 .ri-pink   { background: linear-gradient(145deg, #e91e8c, #ff6eb4); box-shadow: 0 4px 10px rgba(233,30,140,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
 .ri-indigo { background: linear-gradient(145deg, #3949ab, #7986cb); box-shadow: 0 4px 10px rgba(57,73,171,0.5),   inset 0 1px 1px rgba(255,255,255,0.3); }
-=======
-.ri-teal   { background: linear-gradient(145deg, #26d0ce, #11998e); box-shadow: 0 4px 10px rgba(17,153,142,0.5), inset 0 1px 1px rgba(255,255,255,0.3); }
-.ri-green  { background: linear-gradient(145deg, #56ab2f, #a8e063); box-shadow: 0 4px 10px rgba(86,171,47,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
-.ri-orange { background: linear-gradient(145deg, #f7971e, #ffd200); box-shadow: 0 4px 10px rgba(247,151,30,0.5), inset 0 1px 1px rgba(255,255,255,0.3); color: #5a3a00; }
-.ri-blue   { background: linear-gradient(145deg, #2196f3, #64b5f6); box-shadow: 0 4px 10px rgba(33,150,243,0.5), inset 0 1px 1px rgba(255,255,255,0.3); }
-.ri-red    { background: linear-gradient(145deg, #e53935, #ff6b6b); box-shadow: 0 4px 10px rgba(229,57,53,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
-.ri-purple { background: linear-gradient(145deg, #7b1fa2, #ce93d8); box-shadow: 0 4px 10px rgba(123,31,162,0.5), inset 0 1px 1px rgba(255,255,255,0.3); }
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 
 .radial-item:hover {
   filter: brightness(1.12);
@@ -1149,63 +1128,16 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
   transform: var(--item-translate) scale(0.95) !important;
 }
 
-<<<<<<< HEAD
 /* Open state — positions set dynamically by JS */
-=======
-/* Открытое состояние — каждый лепесток улетает на своё место */
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 #radial-menu-container.open .radial-item {
   opacity: 1;
   pointer-events: auto;
 }
 
-<<<<<<< HEAD
-=======
-/* Позиции 6 лепестков по дуге (полукруг влево-вверх) */
-/* Углы: 270°(вверх), 240°, 210°, 180°(влево), 150°, 120° */
-/* Радиус 80px */
-#radial-menu-container.open .radial-item:nth-child(1) {
-  --item-translate: translate(-8px, -90px);
-  transform: translate(-8px, -90px) scale(1);
-  transition-delay: 0.00s;
-}
-#radial-menu-container.open .radial-item:nth-child(2) {
-  --item-translate: translate(-47px, -75px);
-  transform: translate(-47px, -75px) scale(1);
-  transition-delay: 0.04s;
-}
-#radial-menu-container.open .radial-item:nth-child(3) {
-  --item-translate: translate(-75px, -47px);
-  transform: translate(-75px, -47px) scale(1);
-  transition-delay: 0.08s;
-}
-#radial-menu-container.open .radial-item:nth-child(4) {
-  --item-translate: translate(-90px, -8px);
-  transform: translate(-90px, -8px) scale(1);
-  transition-delay: 0.12s;
-}
-#radial-menu-container.open .radial-item:nth-child(5) {
-  --item-translate: translate(-75px, 30px);
-  transform: translate(-75px, 30px) scale(1);
-  transition-delay: 0.16s;
-}
-#radial-menu-container.open .radial-item:nth-child(6) {
-  --item-translate: translate(-47px, 58px);
-  transform: translate(-47px, 58px) scale(1);
-  transition-delay: 0.20s;
-}
-
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 /* Tooltip */
 .radial-item::after {
   content: attr(data-tooltip);
   position: absolute;
-<<<<<<< HEAD
-=======
-  right: calc(100% + 8px);
-  top: 50%;
-  transform: translateY(-50%);
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
   background: rgba(30, 30, 30, 0.88);
   color: white;
   font-size: 0.72rem;
@@ -1216,13 +1148,10 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.15s ease;
-<<<<<<< HEAD
   /* default: left of button; JS overrides via data-tip-dir */
   right: calc(100% + 8px);
   top: 50%;
   transform: translateY(-50%);
-=======
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 }
 
 .radial-item:hover::after {
@@ -1299,7 +1228,6 @@ body.radial-open #radial-backdrop {
   flex-shrink: 0;
 }
 
-<<<<<<< HEAD
 /* ==========================================================================
    NIGHT MODE
    ========================================================================== */
@@ -1355,14 +1283,8 @@ body.tw-narrow  #content-area { max-width: 640px  !important; margin: 0 auto !im
 body.tw-medium  #content-area { max-width: 860px  !important; margin: 0 auto !important; }
 body.tw-wide    #content-area { max-width: 100%   !important; margin: 0       !important; }
 
-=======
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
 /* Focus mode — radial menu stays visible, just reposition slightly */
 body.focus-mode #radial-menu-container {
   /* stays visible in focus mode */
   display: block;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> cac616f7651e60d9e470fda0f692a70075beeb9d
