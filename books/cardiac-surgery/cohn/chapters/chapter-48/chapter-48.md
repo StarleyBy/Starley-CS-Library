@@ -1,192 +1,341 @@
 # Ascending and Arch Aortic Aneurysms
 
-Chase R. Brown • Joseph E. Bavaria • Nimesh D. Desai
+<details class="med-details">
+<summary><span style="font-size:110%">HISTORY</span></summary>
+<div class="details-content">
 
-The Greek physician Galen first described superficial false aneurysms arising from venesection in the antecubital fossa and in gladiators injured during battle in the second century A.D.¹ Antyllos, during the same time period, distinguished between true and false aneurysms and attempted surgical treatment with proximal and distal ligation, opening of the aneurysmal sac, and removal of its contents.²
+<details class="med-details">
+<summary>True and false aneurysms</summary>
+<div class="details-content">
+The Greek physician <strong>Galen</strong> first described superficial false aneurysms arising from venesection in the antecubital fossa and in gladiators injured during battle in the second century A.D. <strong>Antyllos</strong>, during the same time period, distinguished between true and false aneurysms and attempted surgical treatment with proximal and distal ligation, opening of the aneurysmal sac, and removal of its contents.
+</div>
+</details>
 
-The French physician Jean Francois Fernel, in 1542, described aneurysms, "in the chest, or about the spleen and mesentery where a violent throbbing is frequently observable." In 1543, Andeas Versalius described a thoracic aortic aneurysm. In the late 1500s, Ambroise Paré described a death by a ruptured thoracic aortic aneurysm and either Fernel or Paré proposed that syphilis played a causative role in some aortic aneurysms. In 1760, Morgagni reported the first cases of aortic dissection and in 1773, Alexander Monro described three coats of the arterial wall, and the destruction of the wall in the formation of true and false aneurysms. In 1760, Morgagni reported the described three coats of the arterial wall, and the destruction of the wall in the formation of true and false aneurysms.
+<details class="med-details">
+<summary>Thoracic aortic aneurysm, aortic dissection, coats of the arterial wall</summary>
+<div class="details-content">
+The French physician <strong>Jean Francois Fernel</strong>, in 1542, described aneurysms, "in the chest, or about the spleen and mesentery where a violent throbbing is frequently observable." In 1543, <strong>Andeas Versalius</strong> described a thoracic aortic aneurysm. In the late 1500s, <strong>Ambroise Paré</strong> described a death by a ruptured thoracic aortic aneurysm and either Fernel or Paré proposed that syphilis played a causative role in some aortic aneurysms. In 1760, <strong>Morgagni</strong> reported the first cases of aortic dissection and in 1773, <strong>Alexander Monro</strong> described three coats of the arterial wall, and the destruction of the wall in the formation of true and false aneurysms. 
+</div>
+</details>
 
-Peripheral arterial ligation was developed in the 1800s by John Hunter, who demonstrated safe and reproducible means of ligating certain peripheral arteries.<sup>4</sup> Innovative measures used to cause thrombosis of aneurysms included the insertion of long segments of wire<sup>5</sup> with the application of an electric current,<sup>6</sup> and wrapping of aneurysms with cellophane or other irritating materials.<sup>7,8</sup>
+<details class="med-details">
+<summary>Peripheral arterial ligation</summary>
+<div class="details-content">
+Peripheral arterial ligation was developed in the 1800s by <strong>John Hunter</strong>, who demonstrated safe and reproducible means of ligating certain peripheral arteries. Innovative measures used to cause thrombosis of aneurysms included the insertion of long segments of wire with the application of an electric current, and wrapping of aneurysms with cellophane or other irritating materials.
+</div>
+</details>
 
-In 1888, Rudolph Matas introduced obliterative endoaneurysmorraphy in which stitches placed from within the aneurysm sac obliterated the arterial openings. This allowed closure of large aneurysms that would have been difficult to ligate externally. Recognizing the importance of maintaining arterial continuity for certain aneurysms, he subsequently devised techniques of restorative or reconstructive endoaneurysmorraphy, in which diseased segments of the aneurysm wall were resected and the remaining vessel wall was reconstructed to reestablish flow. The number of aneurysms to which these techniques could be applied, however, was very limited. The broad application of surgical treatment for major arterial aneurysms would have to await the development of satisfactory conduits and the techniques to insert them.
+<details class="med-details">
+<summary>Obliterative endoaneurysmorraphy</summary>
+<div class="details-content">
+In 1888, <strong>Rudolph Matas</strong> introduced obliterative endoaneurysmorraphy in which stitches placed from within the aneurysm sac obliterated the arterial openings. This allowed closure of large aneurysms that would have been difficult to ligate externally. Recognizing the importance of maintaining arterial continuity for certain aneurysms, he subsequently devised techniques of restorative or reconstructive endoaneurysmorraphy, in which diseased segments of the aneurysm wall were resected and the remaining vessel wall was reconstructed to reestablish flow. The number of aneurysms to which these techniques could be applied, however, was very limited. The broad application of surgical treatment for major arterial aneurysms would have to await the development of satisfactory conduits and the techniques to insert them.
+</div>
+</details>
 
-The first report of a descending aortic repair was described by Cooley and DeBakey in 1952. The technique involved lateral resection and aortography performed on a saccular aneurysm without cardiopulmonary bypass (CPB).<sup>11</sup> In 1956, Cooley and DeBakey performed replacement of the ascending aorta with a segment of homograft with CPB.<sup>12</sup> Polyester cloth grafts were introduced by DeBakey, who discovered it in a Houston department store, and it soon became the artificial conduit of choice for aortic replacement.<sup>13</sup> Technical improvements in graft replacements included the impregnation of polyester grafts with albumin, collagen, or gelatin, which has greatly reduced the blood loss through the grafts.<sup>14</sup>
+<details class="med-details">
+<summary>Descending aortic repair</summary>
+<div class="details-content">
+The first report of a descending aortic repair was described by <strong>Cooley</strong> and <strong>DeBakey</strong> in 1952. The technique involved lateral resection and aortography performed on a saccular aneurysm without cardiopulmonary bypass (CPB). In 1956, Cooley and DeBakey performed replacement of the ascending aorta with a segment of homograft with CPB. Polyester cloth grafts were introduced by DeBakey, who discovered it in a Houston department store, and it soon became the artificial conduit of choice for aortic replacement. Technical improvements in graft replacements included the impregnation of polyester grafts with albumin, collagen, or gelatin, which has greatly reduced the blood loss through the grafts.
+</div>
+</details>
 
-Wheat et al in 1964, resected the ascending aorta and entire aortic root except for the aortic tissue surrounding the coronary arteries. 15 They then performed a mechanical valve insertion and fashioned the proximal tube graft to accommodate the coronary arteries, which were left in situ. The first composite aortic root replacement was performed by Bentall and De Bono in 1963 to treat an ascending aortic aneurysm in a patient with Marfan syndrome (MFS) who had severe thinning of the aortic wall in the sinus segment. 16 The original technique involved hand sewing a Starr #13 mechanical prosthesis to a preclotted graft (Fig. 48-1). An inclusion-type technique with aortic wrap in which the coronary buttons were left in situ and anastomosed to holes made in the graft was performed. Due to concerns about coronary malposition, in 1981, Cabrol et al described the use of an 8 to 10 mm Dacron graft to attach to independently mobilized coronary artery buttons.<sup>17</sup> Techniques eventually evolved to the current method of individual coronary button reimplantation as described by Kouchoukos and Karp with end-to-end anastomoses as opposed to the inclusion technique which tended to be prone to pseudoaneurysm formation.18
-
-#### **SURGICAL ANATOMY**
-
-The aortic root is in extension of the left ventricular outflow tract and that provides the scaffolding for the elements of the
-
+<details class="med-details">
+<summary>Resection of the ascending aorta</summary>
+<div class="details-content">
+<strong>Wheat</strong> et al in 1964, resected the ascending aorta and entire aortic root except for the aortic tissue surrounding the coronary arteries. They then performed a mechanical valve insertion and fashioned the proximal tube graft to accommodate the coronary arteries, which were left in situ. The first composite aortic root replacement was performed by <strong>Bentall</strong> and <strong>De Bono</strong> in 1963 to treat an ascending aortic aneurysm in a patient with Marfan syndrome (MFS) who had severe thinning of the aortic wall in the sinus segment. The original technique involved hand sewing a Starr #13 mechanical prosthesis to a preclotted graft (Fig. 48-1). An inclusion-type technique with aortic wrap in which the coronary buttons were left in situ and anastomosed to holes made in the graft was performed. Due to concerns about coronary malposition, in 1981, <strong>Cabrol</strong> et al described the use of an 8 to 10 mm Dacron graft to attach to independently mobilized coronary artery buttons. Techniques eventually evolved to the current method of individual coronary button reimplantation as described by <strong>Kouchoukos</strong> and <strong>Karp</strong> with end-to-end anastomoses as opposed to the inclusion technique which tended to be prone to pseudoaneurysm formation.
+  
 ![](_page_1_Picture_2.jpeg)
 
-**FIGURE 48-1** The original root replacement operation as described by Bentall and De Bono. (Reproduced with permission from Bentall H, De Bono A: A technique for complete replacement of the ascending aorta, Thorax 1968 Jul;23(4):338-339.)
+**FIGURE 48-1** The original root replacement operation as described by Bentall and De Bono. 
+</div>
+</details>
 
-aortic valve and connects to the descending aorta. Its components include the aortic valve cusps, the sinuses of Valsalva, the aortic annulus and subcommissural triangles, and the sinotubular junction (Fig. 48-2).<sup>19</sup> The aortic valve cusps attach to the aortic annulus at hinge point following a semilunar
+</div>
+</details>
 
+<details class="med-details">
+<summary><span style="font-size:110%">SURGICAL ANATOMY</span></summary>
+<div class="details-content">
+
+The aortic root is in extension of the left ventricular outflow tract and that provides the scaffolding for the elements of the aortic valve and connects to the descending aorta. Its components include the aortic valve cusps, the sinuses of Valsalva, the aortic annulus and subcommissural triangles, and the sinotubular junction (Fig. 48-2). The aortic valve cusps attach to the aortic annulus at hinge point following a semilunar contour being a three-pointed crown type arrangement not a circular or oval ring. The annular tissue itself is typically 50 to 60% fibrous tissue along the hinge point between the aortic and mitral valves as well as the membranous portion of the septum, and the remainder is muscular. Small projections of collagen anchor the aortic root to the ventricular muscle. The apices of the attachments of the cusps to the aortic annulus are known as commissures and the most superior aspect of the commissures interrelates with the sinotubular junction. The sinotubular junction is a ridge which marks the beginning of the ascending aorta. The sinotubular junction diameter is typically 15 to 20% smaller than annular diameter in younger patients. With aging, the sinotubular junction diameter becomes larger. When the sinotubular junction is more than 10% larger than the annular diameter there is frequently resultant aortic insufficiency as the leaflets were no longer coapt due to displacement of the commissures.
+  
 ![](_page_1_Picture_5.jpeg)
 
-**FIGURE 48-2** Aortic Root Geometry. (Reproduced with permission from Sutton JP 3rd, Ho SY, Anderson RH. The forgotten interleaflet triangles: a review of the surgical anatomy of the aortic valve, *Ann Thorac Surg* 1995 Feb;59(2):419-427.)
+**FIGURE 48-2** Aortic Root Geometry. 
 
-contour being a three-pointed crown type arrangement not a circular or oval ring. The annular tissue itself is typically 50 to 60% fibrous tissue along the hinge point between the aortic and mitral valves as well as the membranous portion of the septum, and the remainder is muscular. Small projections of collagen anchor the aortic root to the ventricular muscle.<sup>20</sup> The apices of the attachments of the cusps to the aortic annulus are known as commissures and the most superior aspect of the commissures interrelates with the sinotubular junction. The sinotubular junction is a ridge which marks the beginning of the ascending aorta. The sinotubular junction diameter is typically 15 to 20% smaller than annular diameter in younger patients.<sup>21</sup> With aging, the sinotubular junction diameter becomes larger. When the sinotubular junction is more than 10% larger than the annular diameter there is frequently resultant aortic insufficiency as the leaflets were no longer coapt due to displacement of the commissures.
-
-Between the sinotubular junction and the aortic annulus are expanded segments of the aorta referred to as the sinuses of Valsalva. The sinuses form a cloverleaf rather than circular alignment when viewed in cross-section (Fig. 48-3).<sup>22</sup> Dilatation of the aortic sinuses and annulus is referred to as aortoannular ectasia. Each sinus is named for its corresponding coronary artery (right, left, and noncoronary).
+Between the sinotubular junction and the aortic annulus are expanded segments of the aorta referred to as the sinuses of Valsalva. The sinuses form a cloverleaf rather than circular alignment when viewed in cross-section (Fig. 48-3). Dilatation of the aortic sinuses and annulus is referred to as aortoannular ectasia. Each sinus is named for its corresponding coronary artery (right, left, and noncoronary).
 
 ![](_page_2_Picture_2.jpeg)
 
 **FIGURE 48-3** Anatomy of the aortic root from a Cardiac Gated CT Angiogram. Note the "cloverleaf" orientation of the sinuses.
 
 The noncoronary sinus is anatomically related to the left and right atria as well as the transverse sinus. The left coronary sinus anatomically relates to the left atrium and the right coronary sinus is related to the right atrium and right ventricle. The subcommissural triangle between the right and noncoronary arteries is anatomically related to the conduction system within the membranous septum as well as the septal leaflet of the tricuspid valve. The left and noncoronary subcommissural triangles are related to the anterior leaflet of the mitral valve. The ascending aorta starts at the level of the sinotubular junction and ascends to the level of the takeoff of the innominate artery.
+</div>
+</details>
 
-#### **PATHOPHYSIOLOGY**
+<details class="med-details">
+<summary><span style="font-size:110%">PATHOPHYSIOLOGY</span></summary>
+<div class="details-content">
 
-The ascending aorta histologically contains a high proportion of compliant elastic tissue allowing it to serve as a reservoir and that stores kinetic energy from the systolic pulse wave as it expands and uses it to maintain flow during diastole via elastic recoil. The ascending aorta is a three layered structure composed of a smooth intimal layer composed of a single layer of endothelial cells adhered to a basal lamina; a medial layer composed of layers of elastin sheets, collagen, smooth muscle cells, and extracellular matrix; and an outer layer of adventitial tissue which includes the vasa vasorum and nerves.<sup>23</sup> The elastin content of the aorta decreases distally and in the abdominal aorta is less than half of that in the ascending aorta.24 The principle biologic causes of aneurysm formation in the ascending aorta are related to degenerative processes in the elastic media, as compared to primarily atherosclerotic changes in the descending and abdominal aortas.25
-
-Ascending aortic aneurysm formation is the result of several biologic and mechanical mechanisms. Disruption of the
-
-balance between homeostatic mechanisms within the aortic wall including elastic and collagen elements, proteoglycans, proteolytic enzymes and their inhibitors, and inflammatory mediators causes a spectrum of aortic pathology which manifests in the final pathway as a ortic enlargement eventually leading to rupture or dissection. Fragmentation of the extracellular matrix of the aortic media occurs due to matrix-degrading enzymes such as matrix metalloproteinases and cathepsin groups. 26-30 Matrix metalloproteinases comprise a family of proteases that are capable of degrading virtually all components of the extracellular milieu and perform a variety of tasks necessary for normal homeostasis, including maintenance of the dynamic integrity of the extracellular structure within the arteries. 26-28 Aneurysms form as elastic layers fragment, smooth muscle cells become dysfunctional, and eventually elastic and smooth muscle components are replaced with a cystic appearing mucoid material (Fig. 48-4).31 This process is referred to as cystic medial degeneration. The term cystic medial necrosis has also been applied to this condition but has been largely
-
+<details class="med-details">
+<summary>The ascending aorta: layers, elastin</summary>
+<div class="details-content">
+The ascending aorta histologically contains a high proportion of compliant elastic tissue allowing it to serve as a reservoir and that stores kinetic energy from the systolic pulse wave as it expands and uses it to maintain flow during diastole via elastic recoil. The ascending aorta is a three layered structure composed of a smooth intimal layer composed of a single layer of endothelial cells adhered to a basal lamina; a medial layer composed of layers of elastin sheets, collagen, smooth muscle cells, and extracellular matrix; and an outer layer of adventitial tissue which includes the vasa vasorum and nerves. The elastin content of the aorta decreases distally and in the abdominal aorta is less than half of that in the ascending aorta. The principle biologic causes of aneurysm formation in the ascending aorta are related to degenerative processes in the elastic media, as compared to primarily atherosclerotic changes in the descending and abdominal aortas.
+</div>
+</details>
+Ascending aortic aneurysm formation is the result of several biologic and mechanical mechanisms. 
+<details class="med-details">
+<summary>Biologic mechanisms of aneurism formation, matrix metalloproteinases, cystic medial degeneration</summary>
+<div class="details-content">
+Disruption of the balance between homeostatic mechanisms within the aortic wall including elastic and collagen elements, proteoglycans, proteolytic enzymes and their inhibitors, and inflammatory mediators causes a spectrum of aortic pathology which manifests in the final pathway as aortic enlargement eventually leading to rupture or dissection. Fragmentation of the extracellular matrix of the aortic media occurs due to matrix-degrading enzymes such as matrix metalloproteinases and cathepsin groups. Matrix metalloproteinases comprise a family of proteases that are capable of degrading virtually all components of the extracellular milieu and perform a variety of tasks necessary for normal homeostasis, including maintenance of the dynamic integrity of the extracellular structure within the arteries. Aneurysms form as elastic layers fragment, smooth muscle cells become dysfunctional, and eventually elastic and smooth muscle components are replaced with a cystic appearing mucoid material (Fig. 48-4).31 This process is referred to as cystic medial degeneration. The term cystic medial necrosis has also been applied to this condition but has been largely abandoned as there is no true necrotic process involved. To a lesser extent, mild degeneration of the aortic wall is common with advanced age and is responsible for the slow dilation of the ascending aorta with age. Smoking tends to exacerbate this degeneration.
+  
 ![](_page_2_Picture_9.jpeg)
 
 ![](_page_2_Picture_10.jpeg)
 
 **FIGURE 48-4** Cystic Medial Degeneration with (A) pools of glycosaminoglycans with 25% transmural extent and (B) associated loss of elastic fibers.
+</div>
+</details>
 
-abandoned as there is no true necrotic process involved. To a lesser extent, mild degeneration of the aortic wall is common with advanced age and is responsible for the slow dilation of the ascending aorta with age. Smoking tends to exacerbate this degeneration.<sup>32</sup>
+<details class="med-details">
+<summary>Mechanical mechanisms of aneurism formation, Laplace relationship</summary>
+<div class="details-content">
+Mechanical changes to aortic wall characteristics such as alterations in cross-sectional symmetry, compliance, and stress-strain relationships likely predate dilatation. The <strong>Young-Laplace</strong> relationship describes the relationship between aortic diameter and wall tension where increases in aortic wall diameter lead to increases in wall stress at similar pressures (tension = pressure × radius). Changes in aortic wall compliance, broadly defined as the change in volume of the vessel with a change in pressure, lead to increased stress applied to the aortic wall during the systolic impulse and further exacerbate the biologic derangements leading to aneurysm formation. The coupling between mechanical forces on the arterial wall and the biochemical changes leading to aneurysm formation (mechano-transduction) are not yet clearly elucidated.
+</div>
+</details>
 
-Mechanical changes to aortic wall characteristics such as alterations in cross-sectional symmetry, compliance, and stress-strain relationships likely predate dilatation. The Young-Laplace relationship describes the relationship between aortic diameter and wall tension where increases in aortic wall diameter lead to increases in wall stress at similar pressures (tension = pressure × radius). Changes in aortic wall compliance, broadly defined as the change in volume of the vessel with a change in pressure, lead to increased stress applied to the aortic wall during the systolic impulse and further exacerbate the biologic derangements leading to aneurysm formation.<sup>33</sup> The coupling between mechanical forces on the arterial wall and the biochemical changes leading to aneurysm formation (mechano-transduction) are not yet clearly elucidated.
-
-Degenerative aortic aneurysms cause asymmetric enlargement of the ascending aorta as the segment of aorta along the inner curvature is adherent to the pulmonary artery.<sup>34</sup> Hence, there is significant rightward and anterior displacement of the aortic wall (Fig. 48-5). This causes a relative elongation of
-
+<details class="med-details">
+<summary>Aneurysmal widening</summary>
+<div class="details-content">
+Degenerative aortic aneurysms cause asymmetric enlargement of the ascending aorta as the segment of aorta along the inner curvature is adherent to the pulmonary artery. Hence, there is significant rightward and anterior displacement of the aortic wall (Fig. 48-5). This causes a relative elongation of the ascending aorta in an asymmetric fashion which tends to push the heart into a horizontal arrangement. This also causes a significant change in the orientation of the aortic valve annulus to more oblique arrangement. Aneurysmal widening will typically involve the aorta to the level of the sinotubular junction and frequently involves the noncoronary sinus to a lesser extent. This widening at the level of the sinotubular junction is responsible for aortic insufficiency in these cases and frequently placement of tube graft to the sinotubular junction will resolve significant central aortic insufficiency. The left and noncoronary sinuses are fairly normal in these cases. The noncoronary aortic valve cusp may be elongated along its free margin in order to compensate for the asymmetric enlargement of the noncoronary sinus.
+  
 ![](_page_3_Picture_5.jpeg)
 
 **FIGURE 48-5** Massively dilated aortic root in a Marfan syndrome patient. Note the severe dilation of the aortic annulus and relative sparing of the proximal arch.
+</div>
+</details>
 
-the ascending aorta in an asymmetric fashion which tends to push the heart into a horizontal arrangement. This also causes a significant change in the orientation of the aortic valve annulus to more oblique arrangement.<sup>34</sup> Aneurysmal widening will typically involve the aorta to the level of the sinotubular junction and frequently involves the noncoronary sinus to a lesser extent.<sup>35</sup> This widening at the level of the sinotubular junction is responsible for aortic insufficiency in these cases and frequently placement of tube graft to the sinotubular junction will resolve significant central aortic insufficiency. The left and noncoronary sinuses are fairly normal in these cases. The noncoronary aortic valve cusp may be elongated along its free margin in order to compensate for the asymmetric enlargement of the noncoronary sinus.
+</div>
+</details>
 
-#### **SPECIFIC ETIOLOGIES**
+<details class="med-details">
+<summary><span style="font-size:110%">SPECIFIC ETIOLOGIES</span></summary>
+<div class="details-content">
 
-#### Marfan Syndrome
+<details class="med-details">
+<summary>Marfan Syndrome: autosomal dominant, fibrillin-1, aortoannular ectasia, losartan</summary>
+<div class="details-content">
 
-MFS is an autosomal dominant syndrome with complete penetrance. Up to 25% of Marfan cases are from sporadic dictation in the overall incidence is one per 3000 to 10,000 live births.<sup>36</sup> Traditionally it is thought to have been caused by alterations in the gene (FBM1) coding the aortic wall protein fibrillin-1 leading to elastin derangement, medial degeneration, and aneurysm formation.<sup>37,38</sup> More recently, homology between fibrillin-1 molecules and latent transforming growth factor (TGF) beta binding proteins has led investigators to infer that altered sequestration of the latent form of TGF beta in the extracellular matrix may increase TGF beta activity which negatively impacts smooth muscle development and the extracellular matrix.<sup>39</sup> Approximately 80% of patients with MFS develop aortic root aneurysms and nearly half develop mitral regurgitation.<sup>40</sup> The clinical manifestations of MFS involve multiple organ systems as it is a systemic disease. Diagnosis has traditionally been made using the Ghent criteria, although it is now made definitively using genotyping.<sup>41</sup> Anatomically, MFS results in severe aortoannular ectasia and can have massively dilated sinuses and aortic annulus (Fig. 48-5).
+MFS is an autosomal dominant syndrome with complete penetrance. Up to 25% of Marfan cases are from sporadic dictation in the overall incidence is one per 3000 to 10,000 live births. Traditionally it is thought to have been caused by alterations in the gene (FBM1) coding the aortic wall protein fibrillin-1 leading to elastin derangement, medial degeneration, and aneurysm formation. More recently, homology between fibrillin-1 molecules and latent transforming growth factor (TGF) beta binding proteins has led investigators to infer that altered sequestration of the latent form of TGF beta in the extracellular matrix may increase TGF beta activity which negatively impacts smooth muscle development and the extracellular matrix. Approximately 80% of patients with MFS develop aortic root aneurysms and nearly half develop mitral regurgitation. The clinical manifestations of MFS involve multiple organ systems as it is a systemic disease. Diagnosis has traditionally been made using the Ghent criteria, although it is now made definitively using genotyping. Anatomically, MFS results in severe aortoannular ectasia and can have massively dilated sinuses and aortic annulus (Fig. 48-5).
 
-More recently, reports have shown that the use of angiotensin-converting enzyme inhibitors can prolong the life expectancy of smooth muscle cells in the aortic tissue of Marfan patients via an angiotensin-2 type II receptor blockade mechanism which may antagonize TGF beta. <sup>42</sup> This has led to the clinical application of the angiotensin receptor blocker losartan as a prophylactic therapy to diminish aortic degeneration and aneurysm formation, which has been shown in animal models to be effective when given in the early stages of the disease. <sup>43</sup> A small clinical study of 18 pediatric patients also showed decreased aortic growth rate with treatment of losartan. <sup>44</sup>
+<details class="med-details">
+<summary>Angiotensin-converting enzyme inhibitors</summary>
+<div class="details-content">
+More recently, reports have shown that the use of angiotensin-converting enzyme inhibitors can prolong the life expectancy of smooth muscle cells in the aortic tissue of Marfan patients via an angiotensin-2 type II receptor blockade mechanism which may antagonize TGF beta. This has led to the clinical application of the angiotensin receptor blocker losartan as a prophylactic therapy to diminish aortic degeneration and aneurysm formation, which has been shown in animal models to be effective when given in the early stages of the disease. A small clinical study of 18 pediatric patients also showed decreased aortic growth rate with treatment of losartan. 
+</div>
+</details>
 
-# Loeys-Deitz Syndome
+</div>
+</details>
 
-Loeys-Deitz syndrome (LDS) is a more recently described autosomal dominant syndrome.<sup>45</sup> Rather than a fibrillin-1
+<details class="med-details">
+<summary>Loeys-Deitz Syndome: autosomal dominant, fibrillin-1 and mutation in TGF beta receptors 1 and 2, rapid</summary>
+<div class="details-content">
 
-defect, however, there is a mutation in TGF beta receptors 1 and 2. Characteristics of LDS include cleft palate, bifid uvula, scoliosis, orbital hypertelorism, pectus deformities, developmental abnormalities, and congenital heart defects including persistent patent ductus arteriosus and atrial septal defects. <sup>45</sup> Patients may phenotypically have characteristics that overlapped between LDS and MFS. <sup>46</sup> Histologically, it is associated with increased medial collagen and a subtle but diffuse form of elastic fiber fragmentation and extracellular matrix deposition. <sup>47</sup> LDS has a more rapid clinical course than MFS and prophylactic aortic root replacement or reimplantation is often recommended at younger ages and with smaller aortic dimensions.
+Loeys-Deitz syndrome (LDS) is a more recently described autosomal dominant syndrome. Rather than a fibrillin-1 defect, however, there is a mutation in TGF beta receptors 1 and 2. Characteristics of LDS include cleft palate, bifid uvula, scoliosis, orbital hypertelorism, pectus deformities, developmental abnormalities, and congenital heart defects including persistent patent ductus arteriosus and atrial septal defects. Patients may phenotypically have characteristics that overlapped between LDS and MFS. Histologically, it is associated with increased medial collagen and a subtle but diffuse form of elastic fiber fragmentation and extracellular matrix deposition.  LDS has a more rapid clinical course than MFS and prophylactic aortic root replacement or reimplantation is often recommended at younger ages and with smaller aortic dimensions.
+</div>
+</details>
 
-#### **Ehlers-Danlos Syndrome**
+<details class="med-details">
+<summary>Ehlers-Danlos Syndrome: sporadic mutation or autosomal dominant, defective type III collagen, spontaneous arterial rupture, primary brachiocephalic pathology with retrograde acsending aotra aneurysm</summary>
+<div class="details-content">
 
 Ehlers-Danlos syndrome is caused by either sporadic mutation or inherited autosomal dominant trait resulting in a connective tissue disorder derived from defective type III collagen synthesis. The type IV variant of the Ehlers-Danlos syndrome is associated with spontaneous arterial rupture. Most commonly this occurs in the mesenteric or carotid arteries. However, spontaneous rupture of the descending aorta and aortic arch has been described. The arterial wall of these patients is extremely thin and friable. Ascending aortic involvement may occur as a consequence of retrograde extension of a primary brachiocephalic branch pathology.
+</div>
+</details>
 
-# Familial Thoracic Aortic Aneurysms and Dissections
+<details class="med-details">
+<summary>Familial Thoracic Aortic Aneurysms and Dissections: groupe, autosomal dominant, risk for rupture, genetic testing</summary>
+<div class="details-content">
 
-Approximately 20% of patients with thoracic aortic aneurysms have a first-degree relative with an aortic aneurysm. 49 These families often exhibit strong tendencies for thoracic aortic aneurysm formation without any clearly definable syndromic connective tissue disorder such as MFS or LDS. Grouped together as familial thoracic aortic aneurysms and dissections (FTAAD), mutations in ACTA2, SMAD3, TGFBR1, TGFBR2, TGFB2, and MYH11 have been identified to predispose patients to thoracic aortic aneurysms and dissections in an autosomal dominant manner. These mutations result in incomplete penetrance, variable expression, and variable age of aneurysm onset. 49-55 Genetic testing for patients and family members with multiple first- and seconddegree relatives and suspected FTAAD is available. New evidence suggests that these patients are at increased risk for earlier rupture and dissection at diameters less than 5 cm, as seen in patients with LDS and MFS. Genetic testing has the opportunity to stratify these patients and identify those at greatest risk for rupture.
+Approximately 20% of patients with thoracic aortic aneurysms have a first-degree relative with an aortic aneurysm. These families often exhibit strong tendencies for thoracic aortic aneurysm formation without any clearly definable syndromic connective tissue disorder such as MFS or LDS. Grouped together as familial thoracic aortic aneurysms and dissections (FTAAD), mutations in ACTA2, SMAD3, TGFBR1, TGFBR2, TGFB2, and MYH11 have been identified to predispose patients to thoracic aortic aneurysms and dissections in an autosomal dominant manner. These mutations result in incomplete penetrance, variable expression, and variable age of aneurysm onset. Genetic testing for patients and family members with multiple first- and seconddegree relatives and suspected FTAAD is available. New evidence suggests that these patients are at increased risk for earlier rupture and dissection at diameters less than 5 cm, as seen in patients with LDS and MFS. Genetic testing has the opportunity to stratify these patients and identify those at greatest risk for rupture.
+</div>
+</details>
 
-# Infectious and Inflammatory Etiologies
+<details class="med-details">
+<summary>Infectious and Inflammatory Etiologies: mycotic, syphilitic, Takayasu's, giant cell arteritis, Behçet's disease, rheumatoid arthritis, sarcoidosis, ankylosing spondylitis, lupus erythematosus, and Wegener's granulomatosis</summary>
+<div class="details-content">
 
-Infections and systemic inflammatory disorders can occasionally cause damage to the wall of the ascending aorta leading to aneurysm formation. Frequently, despite high-quality
+Infections and systemic inflammatory disorders can occasionally cause damage to the wall of the ascending aorta leading to aneurysm formation. Frequently, despite high-quality preoperative imaging and even with intraoperative tissue pathology, it is not possible to distinguish definitively between the different possible etiologies.
 
-preoperative imaging and even with intraoperative tissue pathology, it is not possible to distinguish definitively between the different possible etiologies.
+Ascending aortic aneurysms caused by infection are extremely uncommon. Such mycotic ascending aortic aneurysms are frequently related to concomitant left-sided valvular endocarditis. Most common organisms include, in order of decreasing frequency, *Staphylococcus aureus*, *S. epidermidis*, Salmonella, and Streptococcus. In cases of atherosclerotic aneurysm, if there is intraluminal clot in the ascending aorta, transient bacteremia may lead to infected clot leading to a mycotic aneurysm.
 
-Ascending aortic aneurysms caused by infection are extremely uncommon. Such mycotic ascending aortic aneurysms are frequently related to concomitant left-sided valvular endocarditis. Most common organisms include, in order of decreasing frequency, *Staphylococcus aureus*, *S. epidermidis*, Salmonella, and Streptococcus.<sup>56</sup> In cases of atherosclerotic aneurysm, if there is intraluminal clot in the ascending aorta, transient bacteremia may lead to infected clot leading to a mycotic aneurysm.<sup>57</sup>
-
+<details class="med-details">
+<summary>Syphilis</summary>
+<div class="details-content">
 Syphilis, caused by the spirochete *Treponema pallidum*, was the predominant cause of ascending aortic aneurysms in the pre-antibiotic era and accounted for 5 to 10% of all cardiovascular deaths. Typically syphilitic aortitis involves the thoracic aorta with a particular predilection for the ascending aorta, likely due to its rich vascular and lymphatic supply. The pathologic process involves a multifocal lymphoplasmacytic infiltrate of the vasa vasorum leading to degeneration of the medial elastic fibers. The intima develops wrinkles, ridges, and plaques described as a "tree bark" appearance. Inflammation around the coronary artery ostia may lead to high-grade proximal occlusions. The inflammatory process may be either patchy or diffusely involve a large section of aorta. Once established, treatment of syphilis with antibiotics does not reverse the vascular lesions.
+</div>
+</details>
 
-Other systemic arteritis conditions may also produce ascending aortic aneurysms. Takayasu's arteritis, associated with inflammation of the vasa vasorum, medial necrosis and may also have intimal changes similar to syphilis. It is typically seen in females between 15 to 30 years of age and frequently involves occlusive lesions to major branch vessels of the arch. 60 While syphilis aortitis often leads to rapid aneurysmal degeneration, this is much less common in Takayasu's aortitis, occurring only in 15% of cases.<sup>61</sup> Giant cell arteritis is a systemic arteritis that occurs in elderly patients, most commonly affecting the temporal artery. It is also more common in females and is also associated with polymyalgia rheumatica. Giant cell arteritis is an inflammatory process with inflammatory infiltration with lymphocytes, plasma cells, and histiocytes. There is variable presence of giant cells.<sup>62</sup> Aortitis leading to aortic aneurysm may also be associated rarely with Behçet's disease, rheumatoid arthritis, sarcoidosis, ankylosing spondylitis, lupus erythematosus, and Wegener's granulomatosis.
+Other systemic arteritis conditions may also produce ascending aortic aneurysms. 
+<details class="med-details">
+<summary>Takayasu's arteritis</summary>
+<div class="details-content">
+Takayasu's arteritis, associated with inflammation of the vasa vasorum, medial necrosis and may also have intimal changes similar to syphilis. It is typically seen in females between 15 to 30 years of age and frequently involves occlusive lesions to major branch vessels of the arch. While syphilis aortitis often leads to rapid aneurysmal degeneration, this is much less common in Takayasu's aortitis, occurring only in 15% of cases.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Giant cell arteritis</summary>
+<div class="details-content">
+Giant cell arteritis is a systemic arteritis that occurs in elderly patients, most commonly affecting the temporal artery. It is also more common in females and is also associated with polymyalgia rheumatica. Giant cell arteritis is an inflammatory process with inflammatory infiltration with lymphocytes, plasma cells, and histiocytes. There is variable presence of giant cells.
+</div>
+</details>
+ Aortitis leading to aortic aneurysm may also be associated rarely with Behçet's disease, rheumatoid arthritis, sarcoidosis, ankylosing spondylitis, lupus erythematosus, and Wegener's granulomatosis.
+</div>
+</details>
 
-# **Bicuspid Aortopathy**
+<details class="med-details">
+<summary>Bicuspid Aortopathy</summary>
+<div class="details-content">
 
-Bicuspid aortic valve is a complex familial syndrome with a male predominance of 3:1.<sup>63</sup> It is also associated with Turner syndrome. There is a 9% prevalence of bicuspid aortic valve disease in first-degree relatives of patients with bicuspid aortic valve disease.<sup>64</sup> More than half of the patients with aortic coarctation have an associated bicuspid aortic valve.<sup>65</sup> Several genetic defects have been implicated in the formation of bicuspid aortic valve disease however
+Bicuspid aortic valve is a complex familial syndrome with a male predominance of 3:1. It is also associated with Turner syndrome. There is a 9% prevalence of bicuspid aortic valve disease in first-degree relatives of patients with bicuspid aortic valve disease. More than half of the patients with aortic coarctation have an associated bicuspid aortic valve. Several genetic defects have been implicated in the formation of bicuspid aortic valve disease however no single genetic etiology has been derived. Aortic dilatation is frequently associated with bicuspid aortic valve disease; however, the mechanism for this occurring is not well delineated. Originally thought to be a sequela of poststenotic dilatation, aortic aneurysm formation in patients with bicuspid aortic valve may occur without any significant aortic stenosis although there is clearly flow perturbation in the proximal sinuses of Valsalva and descending aorta in patients with bicuspid aortic valve. Recent investigation has shown that embryologically, the aortic valve and ascending aorta arise from the neural crest cells implicating a potential common mechanism for the development of a bicuspid aortic valve and subsequent aneurysm formation. The aortic wall in the patients with bicuspid aortic valve disease shows increased elastic fragmentation, fibrillin-1 deficiency, matrix disruption, increased levels of matrix metallic proteinases, and smooth muscle cell apoptosis.
 
-no single genetic etiology has been derived. Aortic dilatation is frequently associated with bicuspid aortic valve disease; however, the mechanism for this occurring is not well delineated. Originally thought to be a sequela of poststenotic dilatation, aortic aneurysm formation in patients with bicuspid aortic valve may occur without any significant aortic stenosis although there is clearly flow perturbation in the proximal sinuses of Valsalva and descending aorta in patients with bicuspid aortic valve.66 Recent investigation has shown that embryologically, the aortic valve and ascending aorta arise from the neural crest cells implicating a potential common mechanism for the development of a bicuspid aortic valve and subsequent aneurysm formation.<sup>67</sup> The aortic wall in the patients with bicuspid aortic valve disease shows increased elastic fragmentation, fibrillin-1 deficiency, matrix disruption, increased levels of matrix metallic proteinases, and smooth muscle cell apoptosis.67-72
-
-Fazel and colleagues using a cluster-type analysis identified four distinct patterns of aortic dilatation including aortic root alone (13%), ascending aorta alone (10%), ascending aorta and proximal transverse arch (28%), and aortic root, ascending aorta, and proximal transverse arch (45%) (Fig. 48-6).<sup>73</sup> This study suggests that for younger patients, definitive treatment of bicuspid aortic valve disease with aortic dilatation requires strategies that address the aortic root, ascending aorta, and proximal transverse hemi-arch. It is advisable to perform an aggressive hemiarch resecting all aortic tissue along the lesser curve to the level of the subclavian artery take-off in younger bicuspid aortic valve patients to eliminate as much of the diseased aorta as possible. However, total arch replacement with brachiocephalic branch reimplantation is rarely necessary as the aneurysmal component rarely involves the distal aspect of the transverse arch.
-
-# Isolated Sinus of Valsalva Aneurysm
-
-Aneurysms of the sinuses of Valsalva (SVA) that occur as isolated lesions are rare abnormalities caused by either a congenital defect in the continuity between the medial layer of the affected sinus and the aortic valve annulus or, less commonly, acquired causes such as endocarditis, syphilis, tuberculosis, focal dissection, iatrogenic causes.<sup>74</sup> They are more common in males and may be associated with subaortic stenosis, ventricular septal defects, and aortic insufficiency. In over 90% of cases, they involve the right coronary sinus (Fig. 48-7).<sup>75,76</sup> The noncoronary sinus of the second most common location and these aneurysms are extremely uncommon in a left coronary sinus. They are generally asymptomatic until they rupture when they usually cause intracardiac shunts. Right sinus of Valsalva aneurysms typically rupture into the right ventricle, effectively causing a hemodynamic defect similar to a ventricular septal defect. Aneurysms of the noncoronary sinus typically rupture into the right atrium and the left coronary sinus rupture into the pulmonary artery or left ventricle. Occasionally an unruptured left coronary sinus of Valsalva aneurysm may compress the left main coronary artery.<sup>76</sup>
-
-#### **CLINICAL PRESENTATION**
-
-## **Symptoms**
-
-Most ascending aortic aneurysms are asymptomatic when diagnosed, being incidentally noted on chest x-ray or echocardiogram. Anterior chest pain is the most frequent symptom. The pain may be acute in onset signifying impending rupture or a chronic gnawing pain from compression of the overlying sternum. Occasionally signs of superior vena cava (SVC) or airway compression are present. Hoarseness resulting from stretch injury of the left recurrent laryngeal nerve suggests involvement of the distal aortic arch or proximal descending thoracic aorta. Less commonly, aneurysms of the ascending aorta or aortic root can rupture into the right atrium or the SVC, presenting with high-output cardiac failure or bleed into the lungs with ensuing hemoptysis. Acute dissection of the ascending aorta presents with severe tearing pain in over 75% of patients.<sup>77</sup>
-
-#### **Physical Examination**
-
-Physical examination is often unremarkable. If there is related aortic insufficiency, a widened pulse pressure or diastolic murmur may be present. If dilation is isolated to the ascending aorta, however, the aneurysm can reach large dimensions without producing physical findings. A thorough vascular examination should be carried out to look for any concomitant peripheral vascular disease, carotid disease, or abdominal aortic aneurysm. Abdominal aortic aneurysms may be present in 10 to 20% of patients with atherosclerotic involvement of an ascending aortic aneurysm.<sup>78</sup>
-
-#### **DIAGNOSTIC STUDIES**
-
-# Electrocardiogram
-
-With significant aortic insufficiency, left ventricular hypertrophy or strain is evident. Patients with generalized atherosclerosis may show evidence of concomitant coronary artery disease or previous myocardial injury.
-
-# **Chest Radiography**
-
-Many asymptomatic ascending aortic aneurysms are first detected on chest x-ray. The enlarged ascending aorta produces a convex contour of the right superior mediastinum (Fig. 48-8A). In the lateral view, there is loss of the retrosternal air space (Fig. 48-8B). Aneurysms confined to the aortic root can be obscured by the cardiac silhouette and may not be evident on chest radiograph.<sup>79</sup>
-
-# Echocardiography
-
-Transesophageal echocardiography (TEE) is a portable diagnostic tool that accurately detects and differentiates between
-
+<details class="med-details">
+<summary>Patterns of aortic pathology in bicuspid aortopathy, Fazel</summary>
+<div class="details-content">
+<strong>Fazel</strong> and colleagues using a cluster-type analysis identified four distinct patterns of aortic dilatation including aortic root alone (13%), ascending aorta alone (10%), ascending aorta and proximal transverse arch (28%), and aortic root, ascending aorta, and proximal transverse arch (45%) (Fig. 48-6). This study suggests that for younger patients, definitive treatment of bicuspid aortic valve disease with aortic dilatation requires strategies that address the aortic root, ascending aorta, and proximal transverse hemi-arch. It is advisable to perform an aggressive hemiarch resecting all aortic tissue along the lesser curve to the level of the subclavian artery take-off in younger bicuspid aortic valve patients to eliminate as much of the diseased aorta as possible. However, total arch replacement with brachiocephalic branch reimplantation is rarely necessary as the aneurysmal component rarely involves the distal aspect of the transverse arch.
+  
 ![](_page_6_Figure_2.jpeg)
 
-**FIGURE 48-6** Patterns of aortic pathology in bicuspid aortopathy patients using hierarchal clustering methodology. The top panel shows a "heat map" in which each column represents a patient and each row represents aortic diameters that have been color coded according to the calculated within-patient z scores on a continuous scale shown on the top right corner of the panel. Cluster I patients had predominant involvement of the aortic root (n = 8). Cluster III patients had predominant involvement of the tubular portion of the ascending aorta (n = 9). Cluster III patients had involvement of the tubular portion of the ascending aorta and the transverse arch (n = 18). Cluster IV patients had diffuse involvement of the thoracic aorta with dilation extending from the aortic root to the midtransverse arch (n = 29). The 4 clusters are shown again in the bottom 4 panels, which depict the metric aortic diameters across the thoracic aorta for each individual patient. The clinical data for each cluster are summarized to the right of each cluster panel. AS, Aortic stenosis; AI, aortic insufficiency. (Reproduced with permission from Fazel SS, Mallidi HR, Lee RS, et al: The aortopathy of bicuspid aortic valve disease has distinctive patterns and usually involves the transverse aortic arch, *J Thorac Cardiovasc Surg*. 2008 Apr;135(4):901-907.)
+**FIGURE 48-6** Patterns of aortic pathology in bicuspid aortopathy patients using hierarchal clustering methodology. The top panel shows a "heat map" in which each column represents a patient and each row represents aortic diameters that have been color coded according to the calculated within-patient z scores on a continuous scale shown on the top right corner of the panel. Cluster I patients had predominant involvement of the aortic root (n = 8). Cluster III patients had predominant involvement of the tubular portion of the ascending aorta (n = 9). Cluster III patients had involvement of the tubular portion of the ascending aorta and the transverse arch (n = 18). Cluster IV patients had diffuse involvement of the thoracic aorta with dilation extending from the aortic root to the midtransverse arch (n = 29). The 4 clusters are shown again in the bottom 4 panels, which depict the metric aortic diameters across the thoracic aorta for each individual patient. The clinical data for each cluster are summarized to the right of each cluster panel. AS, Aortic stenosis; AI, aortic insufficiency. 
+</div>
+</details>
 
-ascending aortic aneurysms, dissections, and intramural hematoma (Fig. 48-9). 80-82 TEE is an invasive imaging modality and carries a small risk of esophageal perforation, respiratory compromise, and hemodynamic instability. Imaging
+</div>
+</details>
 
-of the distal ascending aorta is obscured on TEE by air in the tracheobronchial tree, with up to 40% of its distal extent not well visualized, although this is somewhat mitigated with the use of modern multiplanar probes.<sup>83</sup> Although somewhat
+<details class="med-details">
+<summary>Isolated Sinus of Valsalva Aneurysm, right coronary sinus raprure</summary>
+<div class="details-content">
 
+Aneurysms of the sinuses of Valsalva (SVA) that occur as isolated lesions are rare abnormalities caused by either a congenital defect in the continuity between the medial layer of the affected sinus and the aortic valve annulus or, less commonly, acquired causes such as endocarditis, syphilis, tuberculosis, focal dissection, iatrogenic causes. They are more common in males and may be associated with subaortic stenosis, ventricular septal defects, and aortic insufficiency. In over 90% of cases, they involve the right coronary sinus (Fig. 48-7). The noncoronary sinus of the second most common location and these aneurysms are extremely uncommon in a left coronary sinus. They are generally asymptomatic until they rupture when they usually cause intracardiac shunts. Right sinus of Valsalva aneurysms typically rupture into the right ventricle, effectively causing a hemodynamic defect similar to a ventricular septal defect. Aneurysms of the noncoronary sinus typically rupture into the right atrium and the left coronary sinus rupture into the pulmonary artery or left ventricle. Occasionally an unruptured left coronary sinus of Valsalva aneurysm may compress the left main coronary artery.
+  
 ![](_page_7_Picture_2.jpeg)
 
-**FIGURE 48-7** Contrast MR showing three-chamber view (A) and the aortic valve plane (B) demonstrate a right SVA protruding into the right ventricular outflow tract (arrows). There is an associated turbulent jet of aortic regurgitation. LA, left atrium; LV, left ventricle; Ao, aorta; RVOT, right ventricular outflow tract. (Reproduced with permission from Brandt J, Jögi P, Lührs C. Sinus of Valsalva aneurysm obstructing coronary arterial flow: case report and collective review of the literature. *Eur Heart J*. 1985 Dec;6(12):1069-73.)
+**FIGURE 48-7** Contrast MR showing three-chamber view (A) and the aortic valve plane (B) demonstrate a right SVA protruding into the right ventricular outflow tract (arrows). There is an associated turbulent jet of aortic regurgitation. LA, left atrium; LV, left ventricle; Ao, aorta; RVOT, right ventricular outflow tract. 
+</div>
+</details>
 
-operator dependent, TEE provides a reliable technique to measure the annular, sinus, sinotubular junction, and ascending dimensions. It is uniquely well suited to examine the most proximal aspects of the aortic root, which are often blurred by motion artifact on computed tomography (CT) scans. Transthoracic echocardiography is far less reliable but may be useful for assessing the severity of aortic regurgitation.
+</div>
+</details>
 
-## **Computed Tomography**
+<details class="med-details">
+<summary><span style="font-size:110%">CLINICAL PRESENTATION</span></summary>
+<div class="details-content">
 
-Contrast-enhanced CT is the most widely used noninvasive technique for imaging the thoracic aorta. CT scanning provides rapid and precise evaluation of the ascending aorta in regards to size, extent, and location of the disease process (Fig. 48-10). CT scanning detects areas of calcification, and modern scanner accurately identifies dissections and mural thrombus.<sup>81</sup>
+<details class="med-details">
+<summary>Symptoms</summary>
+<div class="details-content">
 
+Most ascending aortic aneurysms are asymptomatic when diagnosed, being incidentally noted on chest x-ray or echocardiogram. Anterior chest pain is the most frequent symptom. The pain may be acute in onset signifying impending rupture or a chronic gnawing pain from compression of the overlying sternum. Occasionally signs of superior vena cava (SVC) or airway compression are present. Hoarseness resulting from stretch injury of the left recurrent laryngeal nerve suggests involvement of the distal aortic arch or proximal descending thoracic aorta. Less commonly, aneurysms of the ascending aorta or aortic root can rupture into the right atrium or the SVC, presenting with high-output cardiac failure or bleed into the lungs with ensuing hemoptysis. Acute dissection of the ascending aorta presents with severe tearing pain in over 75% of patients.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Physical Examination</summary>
+<div class="details-content">
+
+Physical examination is often unremarkable. If there is related aortic insufficiency, a widened pulse pressure or diastolic murmur may be present. If dilation is isolated to the ascending aorta, however, the aneurysm can reach large dimensions without producing physical findings. A thorough vascular examination should be carried out to look for any concomitant peripheral vascular disease, carotid disease, or abdominal aortic aneurysm. Abdominal aortic aneurysms may be present in 10 to 20% of patients with atherosclerotic involvement of an ascending aortic aneurysm.
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>DIAGNOSTIC STUDIES</summary>
+<div class="details-content">
+
+<details class="med-details">
+<summary>Electrocardiogram</summary>
+<div class="details-content">
+
+With significant aortic insufficiency, left ventricular hypertrophy or strain is evident. Patients with generalized atherosclerosis may show evidence of concomitant coronary artery disease or previous myocardial injury.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Chest Radiography</summary>
+<div class="details-content">
+
+Many asymptomatic ascending aortic aneurysms are first detected on chest x-ray. The enlarged ascending aorta produces a convex contour of the right superior mediastinum (Fig. 48-8A). In the lateral view, there is loss of the retrosternal air space (Fig. 48-8B). Aneurysms confined to the aortic root can be obscured by the cardiac silhouette and may not be evident on chest radiograph.
+  
 ![](_page_7_Picture_7.jpeg)
 
 ![](_page_7_Figure_8.jpeg)
 
-**FIGURE 48-8** Posteroanterior and lateral chest radiograph of a patient with an ascending aortic aneurysm. The posteroanterior view (A) shows convexity of the right mediastinum, and the lateral view (B) shows loss of the normal retrosternal air space. (Reproduced with permission from Downing SW, Kouchokos NT: Ascending aortic aneurysm, in Edmunds LH Jr (ed): *Cardiac Surgery in the Adult*. New York, McGraw-Hill, 1997; p 1163.)
+**FIGURE 48-8** Posteroanterior and lateral chest radiograph of a patient with an ascending aortic aneurysm. The posteroanterior view (A) shows convexity of the right mediastinum, and the lateral view (B) shows loss of the normal retrosternal air space. 
+</div>
+</details>
 
+<details class="med-details">
+<summary>Echocardiography</summary>
+<div class="details-content">
+
+Transesophageal echocardiography (TEE) is a portable diagnostic tool that accurately detects and differentiates between ascending aortic aneurysms, dissections, and intramural hematoma (Fig. 48-9). TEE is an invasive imaging modality and carries a small risk of esophageal perforation, respiratory compromise, and hemodynamic instability. Imaging of the distal ascending aorta is obscured on TEE by air in the tracheobronchial tree, with up to 40% of its distal extent not well visualized, although this is somewhat mitigated with the use of modern multiplanar probes. Although somewhat operator dependent, TEE provides a reliable technique to measure the annular, sinus, sinotubular junction, and ascending dimensions. It is uniquely well suited to examine the most proximal aspects of the aortic root, which are often blurred by motion artifact on computed tomography (CT) scans. Transthoracic echocardiography is far less reliable but may be useful for assessing the severity of aortic regurgitation.
+  
 ![](_page_8_Figure_2.jpeg)
 
 FIGURE 48-9 Transesophageal echocardiogram of a massive aortic root aneurysm with dissection (arrow).
+</div>
+</details>
 
-CT scan technology has evolved with multidetector scanners such that the entire thoracic aorta can be evaluated on one breath-hold and the distance between axial slices can be as small as 0.5 mm. Three-dimensional volume rendering is a highly useful tool for determining true in-plane aortic diameters and the proximal and distal extent of aortic disease relative to the arch vessels, which can aid the surgeon in operative planning
+<details class="med-details">
+<summary>Computed Tomography</summary>
+<div class="details-content">
 
+Contrast-enhanced CT is the most widely used noninvasive technique for imaging the thoracic aorta. CT scanning provides rapid and precise evaluation of the ascending aorta in regards to size, extent, and location of the disease process (Fig. 48-10). CT scanning detects areas of calcification, and modern scanner accurately identifies dissections and mural thrombus. 
+  
 ![](_page_8_Picture_5.jpeg)
 
 **FIGURE 48-10** CT angiogram of an enlarged aortic root in a Marfan patient.
-
-(Fig. 48-11). Ideally, the entire thoracic and abdominal aorta should be examined for evidence of concomitant aneurysm disease in the arterial tree. Gating to the electrocardiogram during image acquisition eliminates the motion artifact that may be seen in the most proximal aspects of the aortic root and can also allow for assessment of the coronary arteries. The main disadvantage of CT scans is the need for contrast solution for optimal resolution, which may be contraindicated in those patients with renal insufficiency or a history of a dye allergy. Noncontrast CT scans allow for assessment of aortic diameters but cannot identify dissection flaps or other acute pathologies.
-
-#### Magnetic Resonance Imaging
-
-Magnetic resonance imaging (MRI) can provide axial and three-dimensional reconstruction of the ascending aorta with the avoidance of iodinated contrast agents and radiation exposure. Contrast-enhanced MR angiography with gadolinium allows more precise measurements of the aorta and its major branches with images comparable to conventional angiography (Fig. 48-12). MRI scanners are relatively unsuitable for those patients connected to mechanical ventilators or hemodynamic monitoring equipment. MRI is more expensive, less readily available, and requires significantly more acquisition time than CT scanning and is used less frequently.
-
-#### **NATURAL HISTORY**
-
-Elective aortic replacement is used as a means to prophylactically prevent aortic catastrophe such as dissection and rupture which carry high mortality. Recent data from the International
-
+  
+CT scan technology has evolved with multidetector scanners such that the entire thoracic aorta can be evaluated on one breath-hold and the distance between axial slices can be as small as 0.5 mm. Three-dimensional volume rendering is a highly useful tool for determining true in-plane aortic diameters and the proximal and distal extent of aortic disease relative to the arch vessels, which can aid the surgeon in operative planning (Fig. 48-11). Ideally, the entire thoracic and abdominal aorta should be examined for evidence of concomitant aneurysm disease in the arterial tree. Gating to the electrocardiogram during image acquisition eliminates the motion artifact that may be seen in the most proximal aspects of the aortic root and can also allow for assessment of the coronary arteries. The main disadvantage of CT scans is the need for contrast solution for optimal resolution, which may be contraindicated in those patients with renal insufficiency or a history of a dye allergy. Noncontrast CT scans allow for assessment of aortic diameters but cannot identify dissection flaps or other acute pathologies.
+  
 ![](_page_9_Picture_2.jpeg)
 
 **FIGURE 48-11** 3D reconstruction of an aortic root aneurysm in a Marfan patient.
+</div>
+</details>
 
-Registry of Acute Aortic Dissections (IRAD) show an operative mortality for emergent type A aortic dissection repair of 26%, although this is generally lower in more experienced centers. <sup>87</sup> Bickerstaff et al examined the natural history of 72 patients that were diagnosed with aortic aneurysms and
+<details class="med-details">
+<summary>Magnetic Resonance Imaging</summary>
+<div class="details-content">
 
+Magnetic resonance imaging (MRI) can provide axial and three-dimensional reconstruction of the ascending aorta with the avoidance of iodinated contrast agents and radiation exposure. Contrast-enhanced MR angiography with gadolinium allows more precise measurements of the aorta and its major branches with images comparable to conventional angiography (Fig. 48-12). MRI scanners are relatively unsuitable for those patients connected to mechanical ventilators or hemodynamic monitoring equipment. MRI is more expensive, less readily available, and requires significantly more acquisition time than CT scanning and is used less frequently.
+  
 ![](_page_9_Picture_5.jpeg)
 
 **FIGURE 48-12** MR angiogram (without contrast) depicting an acute type A dissection. The partially thrombosed false lumen is denoted by the arrow.
+</div>
+</details>
+
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>NATURAL HISTORY</summary>
+<div class="details-content">
+
+Elective aortic replacement is used as a means to prophylactically prevent aortic catastrophe such as dissection and rupture which carry high mortality. Recent data from the International
+
+
+
+Registry of Acute Aortic Dissections (IRAD) show an operative mortality for emergent type A aortic dissection repair of 26%, although this is generally lower in more experienced centers. <sup>87</sup> Bickerstaff et al examined the natural history of 72 patients that were diagnosed with aortic aneurysms and
+
+
 
 did not undergo surgery. 88 Over a 5-year follow-up period, 74% of patients experienced aortic rupture or dissection (Fig. 48-13). Of these 94% died. The overall 5-year survival was only 13% in untreated aneurysm patients compared with 75% in control patients without aortic aneurysms.
 
@@ -213,6 +362,9 @@ Although size clearly correlates with rupture risk, it is important to note that
 **FIGURE 48-16** Distribution of aortic size at time of presentation with acute type A aortic dissection (cm). (Reproduced with permission from Pape LA, Tsai TT, Isselbacher EM, et al: Aortic diameter >or = 5.5 cm is not a good predictor of type A aortic dissection: observations from the International Registry of Acute Aortic Dissection (IRAD), *Circulation*. 2007 Sep 4;116(10):1120-1127.)
 
 As the understanding of the biologic mechanisms behind aortic aneurysm formation improves, in the future, serum biologic markers and sensitive imaging techniques that can detect subtle changes in aortic strain characteristics or compliance may provide more accurate identification of the high-risk aorta.
+</div>
+</details>
+
 
 # MEDICAL TREATMENT OF PROXIMAL AORTIC ANEURYSMS
 
@@ -643,30 +795,3 @@ Patients frequently present with persistent fevers and elevated white cell count
 Ideally, treatment of the stable patient begins with intravenous antibiotics to control septicemia and often clear blood cultures prior to reoperation. In extremely high-risk patients, where reoperative mortality is prohibitive, life-long suppressive antibiotics may be acceptable. Surgical treatment of infected ascending aortic grafts, as described by Hargrove and Edmunds, includes removal of all infected prosthetic material, aggressive tissue debridement, local irrigation, systemic antibiotic therapy, replacement of the infected conduit, and utilization of autologous tissue to surround the graft and obliterate dead space.<sup>213</sup> Aortic homograft may potentially be more resistant to repeat infection. Greater omentum may be also brought up through the diaphragm as a vascularized pedicle to wrap around the aortic graft and isolate it from
 
 the sternum. Concomitant sternal infections should be managed with aggressive debridement, sterilization with vacuum-assisted wound drainage, and delayed flap reconstruction. In severe cases, open continuous antibiotic wound irrigation for several days can assist clearing the infection. Long-term antibiotics should be continued intravenously for at least 6 weeks and suppressive oral antibiotics may be indicated over the long-term thereafter.
-
-#### REFERENCES
-
-- Elkin DC: Aneurysms following surgical procedures. Ann Surg 1948; 127:769-779.
-- Bergqvist D: Historical aspects on aneurysmal disease. Scand J Surg 2008; 97(2):90-99.
-- Hajdu SI: A note from history: the first pathology book and its author. Ann Clin Lab Sci 2004 Spring; 34(2):226-227.
-- Cooper A: Lectures on the Principles and Practice of Surgery, 2nd ed. London, FC Westley, 1830; p 110.
-- Moore C: On a new method of procuring the consolidation of fibrin in certain incurable aneurysms. Med Chir Trans (London) 1864; 47:129.
-- Matas R: Surgery of the vascular system, in Matas R (ed): Surgery, Its Principles and Practice, Vol. 5. Philadelphia, WB Saunders, 1914.
-- Harrison P, Chandy J: A subclavian aneurysm cured by cellophane fibrosis. Ann Surg 1943; 118:478.
-- 8. Poppe J, De Oliviera H: Treatment of syphilitic aneurysms by cellophane wrapping. *J Thorac Surg* 1946; 15:186.
-- Matas R: An operation for the radical cure of aneurism based upon arteriorrhaphy. *Ann Surg* 1903; 37:161.
-- 10. Matas R: Endo-aneurismorrhaphy. Surg Gynecol Obstet 1920; 30:456.
-- 11. Cooley DA, De Bakey ME: Surgical considerations of intrathoracic aneurysms of the aorta and great vessels. *Ann Surg* 1952; 135:660.
-- 12. Cooley DA, DeBakey ME: Resection of the entire ascending aorta in fusiform aneurysm using cardiac bypass. *JAMA* 1956; 162:1158.
-- Westaby S, Cecil B: Surgery of the thoracic aorta, in Westaby S (ed): Landmarks in Cardiac Surgery. Oxford, Isis Medical Media, 1997; p 223.
-- Kadoba K, Schoen FJ, Jonas RA: Experimental comparison of albuminsealed and gelatin-sealed knitted Dacron conduits. Porosity control, handling, sealant resorption, and healing. *J Thorac Cardiovasc Surg* 1992; 103(6):1059-1067.
-- Wheat MWJ, Wilson JR, Bartley TD: Successful replacement of the entire ascending aorta and aortic valve. JAMA 1964; 188:717.
-- Bentall H, De Bono A: A technique for complete replacement of the ascending aorta. *Thorax* 1968; 23:338.
-- 17. Cabrol Č, Pavie A, Gandjbakhch I, et al: Complete replacement of the ascending aorta with reimplantation of the coronary arteries: new surgical approach. *J Thorac Cardiovasc Surg* 1981; 81:309.
-- Kouchoukos NT, Karp RB: Resection of ascending aortic aneurysm and replacement of aortic valve. J Thorac Cardiovasc Surg 1981; 81(1):142-143.
-- Sutton JP 3rd, Ho SY, Anderson RH: The forgotten interleaflet triangles: a review of the surgical anatomy of the aortic valve. *Ann Thorac Surg* 1995; 59(2):419-427.
-- Hokken RB, Bartelings MM, Bogers AJ, Gittenberger-de Groot AC: Morphology of the pulmonary and aortic roots with regard to the pulmonary autograft procedure. *J Thorac Cardiovasc Surg* 1997; 113(3):453-461.
-- 21. Maselli D, Montalto A, Santise G, Minardi G, Manzara C, Musumeci F: A normogram to anticipate dimension of neo-sinuses of valsalva in valve-sparing aortic operations. *Eur J Cardiothorac Surg* 2005; 27(5): 831-835.
-- 22. Otani K, Takeuchi M, Kaku K, et al: Assessment of the aortic root using real-time 3D transesophageal echocardiography. *Circ J* 2010; 74(12):2649-2657.
-- Nejjar I, Pieraggi MT, Thiers JC, Bouissou H: Age-related changes in the elastic tissue of the human thoracic aorta. *Atherosclerosis* 1990; 80(3):199-208.
-- Greenwald SE. Ageing of the conduit arteries. J Pathol 2007; 211(2):157-172.
