@@ -56,6 +56,9 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
             updateUrl(bookPath, item.dataset.chapterId, edition);
         });
     });
+
+    // Show read dots for already-read chapters
+    if (typeof _updateReadDotsInSidebar === 'function') _updateReadDotsInSidebar();
 }
 
 async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
@@ -148,12 +151,12 @@ function renderEditionSelector(book, chap, current) {
 }
 
 function setupUIEventListeners() {
-    const tocToggle = document.getElementById('toc-toggle');
+    const tocToggle   = document.getElementById('toc-toggle');
     const focusToggle = document.getElementById('focus-toggle');
-    const sidebar = document.getElementById('reader-sidebar');
+    const sidebar     = document.getElementById('reader-sidebar');
     const mainContent = document.getElementById('main-content');
 
-    tocToggle.addEventListener('click', () => {
+    tocToggle?.addEventListener('click', () => {
         sidebar.classList.toggle('collapsed');
         mainContent.classList.toggle('full-width');
         if (window.innerWidth <= 768) {
@@ -161,7 +164,7 @@ function setupUIEventListeners() {
         }
     });
 
-    focusToggle.addEventListener('click', () => {
+    focusToggle?.addEventListener('click', () => {
         document.body.classList.toggle('focus-mode');
     });
 

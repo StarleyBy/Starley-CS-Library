@@ -1,110 +1,1565 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Starley Medical Library</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600;700&family=Nunito:wght@400;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Literata:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/reader.css?v=1.2">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-</head>
-<body class="reader-body">
-    <!-- Reading progress bar -->
-    <div id="reading-progress-bar"></div>
+:root {
+  --header-height: 50px;
+  --sidebar-width: 320px;
+  --sidebar-transition: transform 0.3s ease-in-out;
+  --content-transition: margin-left 0.3s ease-in-out;
+  --border-color: #ddd;
+  --text-color: #333;
+  --secondary-color: #007bff;
+}
 
-    <header class="reader-header">
-        <div class="header-content">
-            <nav class="main-nav">
-                <a href="index.html" class="nav-link">
-                    <i class="fas fa-book-open"></i>
-                    <span class="nav-text">Library</span>
-                </a>
-            </nav>
-            <button id="toc-toggle" class="header-btn"><i class="fas fa-list"></i></button>
-            <div id="version-selector-container"></div>
-            <button id="bookmark-toggle" class="header-btn" title="Bookmarks"><i class="fas fa-bookmark"></i></button>
-            <button id="focus-toggle" class="header-btn">
-                <i class="fas fa-expand"></i>
-                <i class="fas fa-compress"></i>
-            </button>
-        </div>
-    </header>
+.reader-body {
+  /* padding-top: var(--header-height); */
+  transition: var(--content-transition);
+  font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  font-size: 16px !important;
+  line-height: 1.65 !important;
+}
 
-    <div class="reader-layout">
-        <aside id="reader-sidebar" class="sidebar">
-            <h2 id="book-title">Loading...</h2>
-            <div id="chapter-list" class="nav-list"></div>
-            <hr>
-            <div id="bookmarks-panel" class="bookmarks-panel" style="display:none">
-                <div class="bookmarks-header">
-                    <span>Bookmarks</span>
-                    <button id="bookmarks-clear" class="bm-clear-btn" title="Clear all">✕ clear</button>
-                </div>
-                <div id="bookmarks-list" class="nav-list"></div>
-                <hr>
-            </div>
-            <div id="internal-toc" class="nav-list"></div>
-        </aside>
+/* Hebrew text styling - RTL support */
+.content.hebrew-content {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Frank Ruehl', 'Times New Roman', 'Noto Sans Hebrew', Arial, sans-serif !important;
+}
 
-        <main id="main-content" class="content-wrapper">
-            <article id="content-area" class="content"></article>
-        </main>
-    </div>
+/* Specific styling for Hebrew text within mixed content */
+.hebrew-text {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Frank Ruehl', 'Times New Roman', 'Noto Sans Hebrew', Arial, sans-serif;
+}
 
-    <!-- Search panel -->
-    <div id="search-panel" class="search-panel">
-        <div class="search-inner">
-            <input id="search-input" type="text" placeholder="Search in chapter…" autocomplete="off" spellcheck="false">
-            <span id="search-count" class="search-count"></span>
-            <button id="search-prev" class="search-nav" title="Previous">↑</button>
-            <button id="search-next" class="search-nav" title="Next">↓</button>
-            <button id="search-close" class="search-close" title="Close">✕</button>
-        </div>
-    </div>
+.reader-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--header-height);
+  background: #fff;
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  z-index: 1000;
+  overflow: hidden;
+}
 
-    <!-- Radial menu -->
-    <div id="radial-backdrop"></div>
-    <div id="radial-menu-container">
-        <!-- Font picker popup -->
-        <div id="font-picker">
-            <button class="font-option" data-font="inter">Inter <span class="font-tag">sans</span></button>
-            <button class="font-option" data-font="roboto">Roboto <span class="font-tag">sans</span></button>
-            <button class="font-option" data-font="opensans">Open Sans <span class="font-tag">sans</span></button>
-            <button class="font-option" data-font="nunito">Nunito <span class="font-tag">sans</span></button>
-            <button class="font-option" data-font="merriweather">Merriweather <span class="font-tag">serif</span></button>
-            <button class="font-option" data-font="lora">Lora <span class="font-tag">serif</span></button>
-            <button class="font-option" data-font="playfair">Playfair Display <span class="font-tag">serif</span></button>
-            <button class="font-option" data-font="sourceserif">Source Serif 4 <span class="font-tag">serif</span></button>
-            <button class="font-option" data-font="literata">Literata <span class="font-tag">serif · e-reader</span></button>
-            <button class="font-option" data-font="mono">JetBrains Mono <span class="font-tag">mono</span></button>
-        </div>
-        <!-- Action buttons (order = animation order 1→8, positions set by JS) -->
-        <div id="radial-items">
-            <button class="radial-item ri-teal"   data-action="scroll-top"    data-tooltip="Scroll to top">↑</button>
-            <button class="radial-item ri-green"  data-action="expand-all"    data-tooltip="Expand all">⊞</button>
-            <button class="radial-item ri-orange" data-action="collapse-all"  data-tooltip="Collapse all">⊟</button>
-            <button class="radial-item ri-blue"   data-action="font-increase" data-tooltip="Larger text" style="font-size:0.82rem">A+</button>
-            <button class="radial-item ri-red"    data-action="font-decrease" data-tooltip="Smaller text" style="font-size:0.82rem">A−</button>
-            <button class="radial-item ri-purple" data-action="font-pick"     data-tooltip="Choose font" style="font-size:0.8rem">Aa</button>
-            <button class="radial-item ri-indigo" data-action="night-mode"    data-tooltip="Night mode">☾</button>
-            <button class="radial-item ri-pink"   data-action="sepia-mode"    data-tooltip="Sepia mode">☕</button>
-            <button class="radial-item ri-teal"   data-action="lh-increase"   data-tooltip="More spacing" style="font-size:0.7rem">≡+</button>
-            <button class="radial-item ri-indigo" data-action="lh-decrease"   data-tooltip="Less spacing" style="font-size:0.7rem">≡−</button>
-            <button class="radial-item ri-orange" data-action="text-width"    data-tooltip="Text width">↔</button>
-            <button class="radial-item ri-green"  data-action="search-open"   data-tooltip="Search" style="font-size:0.95rem">🔍</button>
-        </div>
-        <!-- Trigger button -->
-        <button id="radial-trigger" title="Настройки чтения">
-            <i class="fas fa-sliders-h"></i>
-        </button>
-    </div>
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 0.8rem;
+  height: 100%;
+  flex-wrap: nowrap;
+  gap: 0.5rem;
+}
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="assets/js/config.js?v=1.1"></script>
-    <script src="assets/js/reader.js?v=1.1"></script>
-    <script src="assets/js/navigation.js?v=1.1"></script>
-</body>
-</html>
+.header-btn, .nav-link {
+  background: none;
+  border: none;
+  color: var(--text-color);
+  font-size: 1.4rem;
+  cursor: pointer;
+  padding: 0.9rem;
+  border-radius: 5px;
+  transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-width: 36px;
+}
+
+.header-btn:hover, .nav-link:hover {
+  background: #f0f0f0;
+}
+
+.nav-link .nav-text {
+  font-size: 0.95rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.version-tabs {
+  display: flex;
+  gap: 0.2rem;
+  padding: 0.2rem;
+  background: #f5f5f5;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+}
+
+.version-tab {
+  padding: 0.4rem 0.8rem;
+  background: transparent;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #666;
+  transition: all 0.2s ease;
+  min-width: 50px;
+  text-align: center;
+}
+
+.version-tab:hover {
+  background: #e9ecef;
+ color: var(--text-color);
+}
+
+.version-tab.active {
+  background: var(--secondary-color);
+  color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.sidebar {
+  position: fixed;
+  top: var(--header-height);
+  left: 0;
+  width: var(--sidebar-width);
+  height: calc(100vh - var(--header-height));
+  background: #fff;
+  border-right: 1px solid var(--border-color);
+  overflow-y: auto;
+  transform: translateX(0);
+  transition: var(--sidebar-transition);
+  z-index: 900;
+}
+
+.sidebar.collapsed {
+  transform: translateX(-100%);
+}
+
+#main-content {
+  margin-left: var(--sidebar-width);
+  width: calc(100% - var(--sidebar-width));
+  padding: 0 !important;
+  transition: var(--content-transition);
+}
+
+#main-content.full-width {
+  margin-left: 0;
+  width: 100%;
+}
+
+body.focus-mode .sidebar, body.focus-mode .main-nav, body.focus-mode #version-selector-container, body.focus-mode #toc-toggle { display: none; }
+body.focus-mode .reader-header { background: transparent; border-bottom: none; box-shadow: none; }
+body.focus-mode #main-content { margin-left: 0; width: 100%; padding: 0; }
+body.focus-mode .content { max-width: 100% !important; margin: 0; padding: 1rem !important; }
+body.focus-mode { padding-top: 0; }
+#focus-toggle { z-index: 1001; }
+body.focus-mode #focus-toggle { position: fixed; top: 1rem; right: 1rem; background: rgba(255, 255, 255, 0.7); backdrop-filter: blur(5px); z-index: 2000; padding: 0.6rem; border-radius: 50%; }
+#focus-toggle .fa-compress { display: none; }
+body.focus-mode #focus-toggle .fa-expand { display: none; }
+body.focus-mode #focus-toggle .fa-compress { display: block; }
+
+/* ==========================================================================
+   SURGICAL OVERRIDE FOR LAYOUT & STYLES
+   ========================================================================== */
+
+/* 1. Force Full-Width Layout */
+.content {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  -webkit-hyphens: auto !important;
+  -ms-hyphens: auto !important;
+  hyphens: auto !important;
+  line-height: var(--reader-line-height, 1.65) !important;
+}
+
+/* 2. Force Image Responsiveness */
+.content img {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block !important;
+    margin: 1.5rem auto !important;
+}
+
+/* 3. Force Admonition/Infoblock intelligent nesting */
+.content .admonition,
+.content .info-box,
+.content .med-details {
+  margin: 0rem 0 !important;
+  padding: 0rem 0rem 0rem 0rem !important;
+  border-left: 1px solid var(--border-color) !important;
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+  background-color: #f8f9fa !important;
+  border-radius: 0 !important;
+}
+
+/* DocuSaurus-style info blocks (яркие цвета) */
+.content .admonition {
+    margin: 2px 0;
+    padding: 1px 1px;
+    border-left: 1px solid;
+    border-radius: 2px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.content .admonition-title {
+    font-weight: bold;
+    font-size: 1.15em;
+    margin-bottom: 1px;
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.content .admonition-title::before {
+    font-size: 1em;
+}
+
+.content .admonition-content {
+    line-height: 1.1;
+}
+
+/* NOTE (насыщенный синий) */
+.content .admonition-note {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border-color: #1976d2;
+}
+.content .admonition-note .admonition-title {
+    color: #0d47a1;
+}
+.content .admonition-note .admonition-title::before {
+    content: "ℹ️";
+}
+
+/* TIP (яркий зеленый) */
+.content .admonition-tip {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #388e3c;
+}
+.content .admonition-tip .admonition-title {
+    color: #1b5e20;
+}
+.content .admonition-tip .admonition-title::before {
+    content: "💡";
+}
+
+/* INFO (бирюзовый) */
+.content .admonition-info {
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
+    border-color: #0097a7;
+}
+.content .admonition-info .admonition-title {
+    color: #006064;
+}
+.content .admonition-info .admonition-title::before {
+    content: "📌";
+}
+
+/* WARNING (яркий оранжевый) */
+.content .admonition-warning {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    border-color: #f57c00;
+}
+.content .admonition-warning .admonition-title {
+    color: #e65100;
+}
+.content .admonition-warning .admonition-title::before {
+    content: "⚠️";
+}
+
+/* DANGER (насыщенный красный) */
+.content .admonition-danger {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #d32f2f;
+}
+.content .admonition-danger .admonition-title {
+    color: #b71c1c;
+}
+.content .admonition-danger .admonition-title::before {
+    content: "🚨";
+}
+
+/* CAUTION (золотой) */
+.content .admonition-caution {
+    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
+    border-color: #f9a825;
+}
+.content .admonition-caution .admonition-title {
+    color: #f57f17;
+}
+.content .admonition-caution .admonition-title::before {
+    content: "⚡";
+}
+
+/* DOSAGE (насыщенный фиолетовый) */
+.content .admonition-dosage {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    border-color: #7b1fa2;
+}
+.content .admonition-dosage .admonition-title {
+    color: #4a148c;
+}
+.content .admonition-dosage .admonition-title::before {
+    content: "💉";
+}
+
+/* CONTRAINDICATION (яркий пурпурный) */
+.content .admonition-contraindication {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #c2185b;
+}
+.content .admonition-contraindication .admonition-title {
+    color: #880e4f;
+}
+.content .admonition-contraindication .admonition-title::before {
+    content: "🚫";
+}
+
+/* SIDE-EFFECT (янтарный) */
+.content .admonition-side-effect {
+    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    border-color: #ff8f00;
+}
+.content .admonition-side-effect .admonition-title {
+    color: #ff6f00;
+}
+.content .admonition-side-effect .admonition-title::before {
+    content: "⚠️";
+}
+
+/* CLINICAL (изумрудный) */
+.content .admonition-clinical {
+    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+    border-color: #00796b;
+}
+.content .admonition-clinical .admonition-title {
+    color: #004d40;
+}
+.content .admonition-clinical .admonition-title::before {
+    content: "🏥";
+}
+
+/* ANATOMY (коралловый) */
+.content .admonition-anatomy {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #ad1457;
+}
+.content .admonition-anatomy .admonition-title {
+    color: #880e4f;
+}
+.content .admonition-anatomy .admonition-title::before {
+    content: "🫀";
+}
+
+/* PHYSIOLOGY (небесно-голубой) */
+.content .admonition-physiology {
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    border-color: #0277bd;
+}
+.content .admonition-physiology .admonition-title {
+    color: #01579b;
+}
+.content .admonition-physiology .admonition-title::before {
+    content: "🧬";
+}
+
+/* SURGERY (лесной зеленый) */
+.content .admonition-surgery {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #2e7d32;
+}
+.content .admonition-surgery .admonition-title {
+    color: #1b5e20;
+}
+.content .admonition-surgery .admonition-title::before {
+    content: "🔪";
+}
+
+/* ICU (огненно-красный) */
+.content .admonition-icu {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #c62828;
+}
+.content .admonition-icu .admonition-title {
+    color: #b71c1c;
+}
+.content .admonition-icu .admonition-title::before {
+    content: "🚑";
+}
+
+/* EVIDENCE (стальной синий) */
+.content .admonition-evidence {
+    background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
+    border-color: #455a64;
+}
+.content .admonition-evidence .admonition-title {
+    color: #263238;
+}
+.content .admonition-evidence .admonition-title::before {
+    content: "📊";
+}
+
+/* PROTOCOL (глубокий индиго) */
+.content .admonition-protocol {
+    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
+    border-color: #303f9f;
+}
+.content .admonition-protocol .admonition-title {
+    color: #1a237e;
+}
+.content .admonition-protocol .admonition-title::before {
+    content: "📋";
+}
+
+/* Информационные блоки */
+.content .info-box {
+    background: #ffeaa7;
+    border-left: 4px solid #fdcb6e;
+    padding: 15px 20px;
+    margin: 15px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.content .info-box-info {
+    background: #e3f2fd;
+    border-left-color: #2196f3;
+}
+
+.content .info-box-success {
+    background: #e8f5e9;
+    border-left-color: #4caf50;
+}
+
+.content .info-box-warning {
+    background: #fff3cd;
+    border-left-color: #ff9800;
+}
+
+.content .info-box-danger {
+    background: #ffebee;
+    border-left-color: #f44336;
+}
+
+.content .admonition-title,
+.content .med-details > summary {
+  font-weight: 600 !important;
+}
+
+.admonition .admonition, .admonition .info-box, .admonition .med-details,
+.info-box .admonition,   .info-box .info-box,   .info-box .med-details,
+.med-details .admonition, .med-details .info-box, .med-details .med-details {
+  margin-top: 1.0rem !important;
+  margin-bottom: 0 !important;
+  padding-left: 0 !important;
+  border-left: none !important;
+  border-top: 1px dashed #bdbdbd !important;
+  padding-top: 1.25rem !important;
+  padding-bottom: 0 !important;
+  background-color: transparent !important;
+}
+
+/* 4. Force ALL Inline Styles to work */
+
+/* Цветной текст */
+.content .t-red { color: #e74c3c; }
+.content .t-blue { color: #3498db; }
+.content .t-green { color: #2ecc71; }
+.content .t-gold { color: #f1c40f; }
+.content .t-purple { color: #9b59b6; }
+.content .t-orange { color: #e67e22; }
+.content .t-teal { color: #1abc9c; }
+.content .t-pink { color: #fd79a8; }
+.content .t-indigo { color: #6c5ce7; }
+.content .t-lime { color: #badc58; }
+.content .t-brown { color: #a0522d; }
+.content .t-grey { color: #95a5a6; }
+
+/* Овальные выделения с градиентом */
+.content .ov-gold,
+.content .gold-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%) !important;
+    padding: 1px 4px !important;
+    border-radius: 30px !important;
+    color: #333 !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-green,
+.content .green-highlighted-oval-3d {
+    background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-blue,
+.content .blue-highlighted-oval-3d {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-red,
+.content .red-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f85032 0%, #e73827 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-pink,
+.content .pink-highlighted-oval-3d {
+    background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-purple,
+.content .purple-highlighted-oval-3d {
+    background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-teal,
+.content .teal-highlighted-oval-3d {
+    background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-orange,
+.content .orange-highlighted-oval-3d {
+    background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-yellow,
+.content .yellow-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: #333 !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-grey,
+.content .ov-silver,
+.content .silver-highlighted-oval-3d {
+    background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: #333 !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(189, 195, 199, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-lime {
+    background: linear-gradient(135deg, #badc58 0%, #a8e063 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: #333 !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(186, 220, 88, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-indigo {
+    background: linear-gradient(135deg, #6c5ce7 0%, #5f4fcf 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(108, 92, 231, 0.3) !important;
+    display: inline-block !important;
+}
+
+.content .ov-brown {
+    background: linear-gradient(135deg, #a0522d 0%, #8b4513 100%) !important;
+    padding: 3px 12px !important;
+    border-radius: 20px !important;
+    color: white !important;
+    font-weight: 500 !important;
+    box-shadow: 0 4px 6px rgba(160, 82, 45, 0.3) !important;
+    display: inline-block !important;
+}
+
+/* Маркеры */
+.content mark.m-green {
+    background-color: #27ae60 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-blue {
+    background-color: #3498db !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-red {
+    background-color: #e74c3c !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-purple {
+    background-color: #8e44ad !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-teal {
+    background-color: #1abc9c !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-gold {
+    background-color: #f39c12 !important;
+    color: #333 !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+.content mark.m-orange {
+    background-color: #e67e22 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-pink {
+    background-color: #ff85a2 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-indigo {
+    background-color: #6c5ce7 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-lime {
+    background-color: #badc58 !important;
+    color: #333 !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+
+.content mark.m-brown {
+    background-color: #a0522d !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.content mark.m-grey {
+    background-color: #95a5a6 !important;
+    color: white !important;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+
+/* Светодиодные блоки */
+.content .luminous-block {
+    display: inline-block;
+    padding: 4px 12px;
+    margin: 0 3px;
+    border-radius: 4px;
+    font-weight: 600;
+    box-shadow: 0 0 10px currentColor;
+}
+
+.content .luminous-blue {
+    background: rgba(33, 150, 243, 0.2);
+    color: #2196f3;
+}
+
+.content .luminous-green {
+    background: rgba(76, 175, 80, 0.2);
+    color: #4caf50;
+}
+
+.content .luminous-red {
+    background: rgba(244, 67, 54, 0.2);
+    color: #f44336;
+}
+
+.content .luminous-yellow {
+    background: rgba(255, 235, 59, 0.3);
+    color: #f57f17;
+}
+
+.content .luminous-purple {
+    background: rgba(156, 39, 176, 0.2);
+    color: #9c27b0;
+}
+
+/* Медицинские заметки */
+.content .med-note {
+    margin: 15px 0;
+    padding: 12px 15px;
+    border-left: 4px solid;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.content .note-dosage,
+.content .med-note.note-dosage {
+    background: #fff3e0;
+    border-color: #ff6f00;
+}
+
+.content .note-dosage::before {
+    content: "💉 Дозировка: ";
+    font-weight: bold;
+    color: #ff6f00;
+}
+
+.content .note-anatomy,
+.content .med-note.note-anatomy {
+    background: #fce4ec;
+    border-color: #c2185b;
+}
+
+.content .note-anatomy::before {
+    content: "🫀 Анатомия: ";
+    font-weight: bold;
+    color: #c2185b;
+}
+
+.content .note-surgery,
+.content .med-note.note-surgery {
+    background: #e8f5e9;
+    border-color: #2e7d32;
+}
+
+.content .note-surgery::before {
+    content: "🔪 Хирургия: ";
+    font-weight: bold;
+    color: #2e7d32;
+}
+
+.content .note-pharmacy,
+.content .med-note.note-pharmacy {
+    background: #e3f2fd;
+    border-color: #1565c0;
+}
+
+.content .note-pharmacy::before {
+    content: "💊 Фармакология: ";
+    font-weight: bold;
+    color: #1565c0;
+}
+
+.content .note-physio,
+.content .med-note.note-physio {
+    background: #f3e5f5;
+    border-color: #6a1b9a;
+}
+
+.content .note-physio::before {
+    content: "🧬 Физиология: ";
+    font-weight: bold;
+    color: #6a1b9a;
+}
+
+.content .note-fact,
+.content .med-note.note-fact {
+    background: #fff9c4;
+    border-color: #f57f17;
+}
+
+.content .note-fact::before {
+    content: "💡 Факт: ";
+    font-weight: bold;
+    color: #f57f17;
+}
+
+.content .note-treatment,
+.content .med-note.note-treatment {
+    background: #e0f2f1;
+    border-color: #00695c;
+}
+
+.content .note-treatment::before {
+    content: "🩹 Лечение: ";
+    font-weight: bold;
+    color: #00695c;
+}
+
+.content .note-icu,
+.content .med-note.note-icu {
+    background: #ffebee;
+    border-color: #c62828;
+}
+
+.content .note-icu::before {
+    content: "🏥 ОИТ: ";
+    font-weight: bold;
+    color: #c62828;
+}
+
+.content .note-nb,
+.content .med-note.note-nb {
+    background: #fff3e0;
+    border-color: #e65100;
+    font-weight: bold;
+}
+
+.content .note-nb::before {
+    content: "⚠️ NB! ";
+    font-weight: bold;
+    color: #e65100;
+    font-size: 16px;
+}
+
+/* Кибер-эффекты */
+.content .cyber-glitch {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    color: #ff0000;
+    animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+    0%, 100% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+}
+
+.content .cyber-neon {
+    display: inline-block;
+    padding: 5px 15px;
+    font-weight: bold;
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
+    animation: neon-pulse 2s infinite;
+}
+
+@keyframes neon-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.content .cyber-neon-pink { color: #ff1f8f; }
+.content .cyber-neon-blue { color: #00d9ff; }
+.content .cyber-neon-green { color: #39ff14; }
+.content .cyber-neon-yellow { color: #ffff00; }
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .sidebar { transform: translateX(-100%); width: 85%; }
+  .sidebar.open { transform: translateX(0); }
+  #main-content { margin-left: 0; width: 100%; }
+  .nav-text { display: none; }
+}
+
+/* ==========================================================================
+   READING PROGRESS BAR
+   ========================================================================== */
+
+#reading-progress-bar {
+  position: fixed;
+  top: var(--header-height);
+  left: 0;
+  width: 0%;
+  height: 3px;
+  background: linear-gradient(90deg, #2196f3, #4caf50);
+  z-index: 1100;
+  transition: width 0.1s linear;
+  pointer-events: none;
+  border-radius: 0 2px 2px 0;
+}
+
+/* ==========================================================================
+   DETAILS / SUMMARY — DEPTH-COLORED TRIANGLES
+   Depth 1: синий  #2196f3
+   Depth 2: зелёный  #4caf50
+   Depth 3: оранжевый  #ff9800
+   Depth 4: розово-красный  #e91e63
+   Depth 5: фиолетовый  #9c27b0
+   ========================================================================== */
+
+/* Base: убираем дефолтный маркер во всех браузерах */
+.content details > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  gap: 0.4em;
+  user-select: none;
+}
+.content details > summary::-webkit-details-marker { display: none; }
+
+/* Треугольник через ::before */
+.content details > summary::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  /* Направление: вправо (закрыто) */
+  border-width: 5px 0 5px 8px;
+  border-color: transparent transparent transparent currentColor;
+  transition: transform 0.2s ease, color 0.15s ease;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+/* Открытое состояние — треугольник вниз */
+.content details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+/* --- Глубина 1 (корневой details внутри .content) --- */
+.content > details > summary::before,
+.content details[data-depth="1"] > summary::before {
+  color: #2196f3;
+}
+
+/* --- Глубина 2 --- */
+.content details details > summary::before,
+.content details[data-depth="2"] > summary::before {
+  color: #4caf50;
+}
+
+/* --- Глубина 3 --- */
+.content details details details > summary::before,
+.content details[data-depth="3"] > summary::before {
+  color: #ff9800;
+}
+
+/* --- Глубина 4 --- */
+.content details details details details > summary::before,
+.content details[data-depth="4"] > summary::before {
+  color: #e91e63;
+}
+
+/* --- Глубина 5+ --- */
+.content details details details details details > summary::before,
+.content details[data-depth="5"] > summary::before {
+  color: #9c27b0;
+}
+
+/* Подсветка summary при hover */
+.content details > summary:hover {
+  opacity: 0.8;
+}
+
+/* ==========================================================================
+   DYNAMIC FONT & SIZE — CSS custom properties applied via JS
+   ========================================================================== */
+
+.content {
+  font-size: var(--reader-font-size, 16px) !important;
+  font-family: var(--reader-font-family, 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif) !important;
+}
+
+/* Font family presets — 10 options */
+body.font-inter       { --reader-font-family: 'Inter', 'Segoe UI', sans-serif; }
+body.font-roboto      { --reader-font-family: 'Roboto', 'Helvetica Neue', sans-serif; }
+body.font-opensans    { --reader-font-family: 'Open Sans', 'Helvetica Neue', sans-serif; }
+body.font-nunito      { --reader-font-family: 'Nunito', 'Segoe UI', sans-serif; }
+body.font-merriweather{ --reader-font-family: 'Merriweather', Georgia, serif; }
+body.font-lora        { --reader-font-family: 'Lora', Georgia, serif; }
+body.font-playfair    { --reader-font-family: 'Playfair Display', 'Book Antiqua', serif; }
+body.font-sourceserif { --reader-font-family: 'Source Serif 4', Georgia, serif; }
+body.font-literata    { --reader-font-family: 'Literata', Georgia, serif; }
+body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+
+/* ==========================================================================
+   RADIAL MENU
+   ========================================================================== */
+
+#radial-menu-container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 2000;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: none;
+}
+
+/* Drag handle indicator */
+#radial-menu-container.dragging {
+  opacity: 0.85;
+  cursor: grabbing !important;
+}
+
+/* Центральная кнопка-триггер */
+#radial-trigger {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  /* Semi-transparent */
+  background: rgba(33, 150, 243, 0.55);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  color: white;
+  border: 1.5px solid rgba(255,255,255,0.35);
+  cursor: grab;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+  transition: transform 0.25s ease, background 0.2s ease, opacity 0.2s ease;
+  position: relative;
+  z-index: 10;
+  touch-action: none;
+}
+  background: rgba(25, 118, 210, 0.75);
+  transform: scale(1.08);
+}
+
+/* While dragging — suppress click-open */
+#radial-menu-container.was-dragged #radial-trigger {
+  cursor: grab;
+}
+
+#radial-menu-container.open #radial-trigger {
+  transform: rotate(45deg) scale(1.05);
+  background: rgba(229, 57, 53, 0.65);
+  backdrop-filter: blur(6px);
+  box-shadow: 0 4px 12px rgba(229, 57, 53, 0.35);
+  cursor: grab;
+}
+
+/* Контейнер лепестков */
+#radial-items {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 0;
+  height: 0;
+}
+
+/* Каждый лепесток */
+.radial-item {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition:
+    transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1),
+    opacity 0.25s ease,
+    box-shadow 0.15s ease;
+  opacity: 0;
+  transform: translate(0, 0) scale(0.4);
+  bottom: 3px;
+  right: 3px;
+  pointer-events: none;
+}
+
+/* Color variants — convex effect via gradient + inset shadow */
+.ri-teal   { background: linear-gradient(145deg, #26d0ce, #11998e); box-shadow: 0 4px 10px rgba(17,153,142,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-green  { background: linear-gradient(145deg, #56ab2f, #a8e063); box-shadow: 0 4px 10px rgba(86,171,47,0.5),   inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-orange { background: linear-gradient(145deg, #f7971e, #ffd200); box-shadow: 0 4px 10px rgba(247,151,30,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); color: #5a3a00; }
+.ri-blue   { background: linear-gradient(145deg, #2196f3, #64b5f6); box-shadow: 0 4px 10px rgba(33,150,243,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-red    { background: linear-gradient(145deg, #e53935, #ff6b6b); box-shadow: 0 4px 10px rgba(229,57,53,0.5),   inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-purple { background: linear-gradient(145deg, #7b1fa2, #ce93d8); box-shadow: 0 4px 10px rgba(123,31,162,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-pink   { background: linear-gradient(145deg, #e91e8c, #ff6eb4); box-shadow: 0 4px 10px rgba(233,30,140,0.5),  inset 0 1px 1px rgba(255,255,255,0.3); }
+.ri-indigo { background: linear-gradient(145deg, #3949ab, #7986cb); box-shadow: 0 4px 10px rgba(57,73,171,0.5),   inset 0 1px 1px rgba(255,255,255,0.3); }
+
+.radial-item:hover {
+  filter: brightness(1.12);
+  transform: var(--item-translate) scale(1.15) !important;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.25), inset 0 1px 1px rgba(255,255,255,0.3);
+}
+
+.radial-item:active {
+  filter: brightness(0.92);
+  transform: var(--item-translate) scale(0.95) !important;
+}
+
+/* Open state — positions set dynamically by JS */
+#radial-menu-container.open .radial-item {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Tooltip */
+.radial-item::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  background: rgba(30, 30, 30, 0.88);
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 5px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease;
+  /* default: left of button; JS overrides via data-tip-dir */
+  right: calc(100% + 8px);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.radial-item:hover::after {
+  opacity: 1;
+}
+
+/* Backdrop для закрытия меню по клику вне */
+#radial-backdrop {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 1999;
+}
+
+#radial-menu-container.open ~ #radial-backdrop,
+body.radial-open #radial-backdrop {
+  display: block;
+}
+
+/* Font picker popup */
+#font-picker {
+  position: absolute;
+  bottom: 58px;
+  right: 0;
+  background: white;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  padding: 6px;
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 160px;
+  z-index: 20;
+}
+
+#font-picker.visible {
+  display: flex;
+}
+
+.font-option {
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.88rem;
+  border: none;
+  background: transparent;
+  text-align: left;
+  transition: background 0.15s;
+  color: #333;
+  white-space: nowrap;
+}
+
+.font-option:hover { background: #f0f0f0; }
+.font-option.active { background: #e3f2fd; color: #1976d2; font-weight: 600; }
+
+/* Font picker label */
+.font-option .font-tag {
+  font-size: 0.7rem;
+  color: #999;
+  margin-left: 4px;
+  font-style: italic;
+}
+
+/* Индикаторы прочитанных глав в сайдбаре */
+.chapter-read-dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #4caf50;
+  margin-left: 6px;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
+/* ==========================================================================
+   SEPIA MODE
+   ========================================================================== */
+
+body.sepia-mode {
+  background: #f5f0e8 !important;
+  color: #3b2f1e !important;
+}
+body.sepia-mode .reader-header {
+  background: #ede8df !important;
+  border-color: #d4c9b5 !important;
+}
+body.sepia-mode .sidebar {
+  background: #ede8df !important;
+  border-color: #d4c9b5 !important;
+}
+body.sepia-mode .content { color: #3b2f1e !important; }
+body.sepia-mode .content h1,
+body.sepia-mode .content h2,
+body.sepia-mode .content h3,
+body.sepia-mode .content h4 { color: #5c3d1e !important; }
+body.sepia-mode .content a  { color: #7a4f2d !important; }
+body.sepia-mode #reading-progress-bar {
+  background: linear-gradient(90deg, #c8943a, #a0522d);
+}
+
+/* ==========================================================================
+   SEARCH PANEL
+   ========================================================================== */
+
+.search-panel {
+  position: fixed;
+  top: var(--header-height);
+  left: 50%;
+  transform: translateX(-50%) translateY(-120%);
+  z-index: 1500;
+  transition: transform 0.25s cubic-bezier(0.34, 1.3, 0.64, 1);
+  pointer-events: none;
+}
+
+.search-panel.open {
+  transform: translateX(-50%) translateY(0);
+  pointer-events: auto;
+}
+
+.search-inner {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  padding: 8px 12px;
+}
+
+body.night-mode .search-inner {
+  background: #1e2a3a;
+  border-color: #2d4060;
+  color: #ddd;
+}
+body.sepia-mode .search-inner {
+  background: #ede8df;
+  border-color: #c8b89a;
+}
+
+#search-input {
+  border: none;
+  outline: none;
+  font-size: 0.95rem;
+  width: 220px;
+  background: transparent;
+  color: inherit;
+}
+
+.search-count {
+  font-size: 0.78rem;
+  color: #999;
+  min-width: 48px;
+  text-align: center;
+}
+
+.search-nav, .search-close {
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 3px 8px;
+  font-size: 0.85rem;
+  color: #555;
+  transition: background 0.15s;
+}
+.search-nav:hover, .search-close:hover { background: #f0f0f0; }
+
+body.night-mode .search-nav,
+body.night-mode .search-close {
+  border-color: #2d4060;
+  color: #aaa;
+}
+body.night-mode .search-nav:hover,
+body.night-mode .search-close:hover { background: #2d4060; }
+
+/* Search highlights in content */
+.search-highlight {
+  background: #fff176;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.search-highlight.search-current {
+  background: #ff9800;
+  color: white;
+}
+body.night-mode .search-highlight         { background: #5d4037; color: #fff; }
+body.night-mode .search-highlight.search-current { background: #e65100; }
+body.sepia-mode .search-highlight         { background: #e8c97a; }
+body.sepia-mode .search-highlight.search-current { background: #c8943a; color: white; }
+
+/* ==========================================================================
+   BOOKMARKS
+   ========================================================================== */
+
+.bookmarks-panel {
+  padding: 0 0.5rem;
+}
+
+.bookmarks-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.4rem 0.2rem;
+}
+
+.bm-clear-btn {
+  background: none;
+  border: none;
+  color: #bbb;
+  cursor: pointer;
+  font-size: 0.75rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+}
+.bm-clear-btn:hover { background: #fee2e2; color: #e53935; }
+
+/* Bookmark item in sidebar */
+.bm-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  padding: 5px 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  transition: background 0.15s;
+}
+.bm-item:hover { background: #f0f4ff; }
+.bm-item-icon  { color: #f59e0b; flex-shrink: 0; margin-top: 1px; }
+.bm-item-text  { flex: 1; color: #444; }
+.bm-item-del   {
+  background: none;
+  border: none;
+  color: #ccc;
+  cursor: pointer;
+  font-size: 0.8rem;
+  padding: 0 2px;
+  flex-shrink: 0;
+  transition: color 0.15s;
+}
+.bm-item-del:hover { color: #e53935; }
+.bm-empty {
+  font-size: 0.8rem;
+  color: #bbb;
+  padding: 4px;
+  font-style: italic;
+}
+
+/* Bookmark anchor mark in content */
+.bm-anchor {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  overflow: visible;
+  position: relative;
+}
+.bm-anchor::before {
+  content: '🔖';
+  font-size: 0.85rem;
+  position: absolute;
+  left: -22px;
+  top: -2px;
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+/* Active bookmark button state */
+#bookmark-toggle.has-bookmarks i { color: #f59e0b; }
+
+/* ==========================================================================
+   NIGHT MODE
+   ========================================================================== */
+
+body.night-mode {
+  background: #1a1a2e !important;
+  color: #e0e0e0 !important;
+}
+
+body.night-mode .reader-header {
+  background: #16213e !important;
+  border-color: #0f3460 !important;
+}
+
+body.night-mode .sidebar {
+  background: #16213e !important;
+  border-color: #0f3460 !important;
+}
+
+body.night-mode .content {
+  color: #ddd !important;
+}
+
+body.night-mode .content h1,
+body.night-mode .content h2,
+body.night-mode .content h3,
+body.night-mode .content h4 {
+  color: #90caf9 !important;
+}
+
+body.night-mode .content a { color: #64b5f6 !important; }
+
+body.night-mode .content table td,
+body.night-mode .content table th {
+  border-color: #333 !important;
+}
+
+body.night-mode .content details,
+body.night-mode .content .admonition {
+  background: rgba(255,255,255,0.04) !important;
+  border-color: rgba(255,255,255,0.15) !important;
+}
+
+body.night-mode #reading-progress-bar {
+  background: linear-gradient(90deg, #64b5f6, #81c784);
+}
+
+/* ==========================================================================
+   TEXT WIDTH
+   ========================================================================== */
+
+body.tw-narrow  #content-area { max-width: 640px  !important; margin: 0 auto !important; }
+body.tw-medium  #content-area { max-width: 860px  !important; margin: 0 auto !important; }
+body.tw-wide    #content-area { max-width: 100%   !important; margin: 0       !important; }
+
+/* Focus mode — radial menu stays visible, just reposition slightly */
+body.focus-mode #radial-menu-container {
+  /* stays visible in focus mode */
+  display: block;
+}
+/* ==========================================================================
+   PRINT / SAVE AS PDF
+   ========================================================================== */
+
+@media print {
+  /* Hide everything except content */
+  .reader-header,
+  .sidebar,
+  #radial-menu-container,
+  #radial-backdrop,
+  #search-panel,
+  #reading-progress-bar,
+  .bm-anchor { display: none !important; }
+
+  /* Full-width content */
+  #main-content {
+    margin-left: 0 !important;
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  #content-area {
+    max-width: 100% !important;
+    padding: 0 !important;
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+    color: #000 !important;
+    background: white !important;
+  }
+
+  /* Force expand all details before print (done via JS) */
+  details { display: block !important; }
+  details > summary { display: none !important; }
+
+  /* Admonition blocks — simplified for print */
+  .content .admonition,
+  .content .info-box,
+  .content .med-details {
+    border: 1px solid #ccc !important;
+    background: #f9f9f9 !important;
+    box-shadow: none !important;
+    page-break-inside: avoid;
+  }
+
+  /* Images */
+  .content img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  /* Tables */
+  table { page-break-inside: avoid; }
+
+  /* Headings — keep with next paragraph */
+  h1, h2, h3, h4 { page-break-after: avoid; }
+
+  /* Page margins */
+  @page {
+    margin: 2cm 2.5cm;
+  }
+
+  /* Chapter title as running header */
+  body::before {
+    content: attr(data-print-title);
+    display: block;
+    font-size: 9pt;
+    color: #666;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 4pt;
+    margin-bottom: 12pt;
+  }
+}

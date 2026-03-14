@@ -1,7 +1,96 @@
 ## **Aortic Dissection**
 
 
+<details class="med-details">
+<summary><span style="font-size:110%"><span class="t-red">E</span>xecutive <span class="t-green">S</span>ummary</span></summary>
+<div class="details-content">
+
+## Classification & Timing
+*   **Stanford Type A:** Involves ascending aorta (60-75% of cases).
+*   **Stanford Type B:** Does not involve ascending aorta (25-40% of cases).
+*   **Timing:**
+    *   Acute: < 2 weeks.
+    *   Subacute: 2 weeks - 2 months.
+    *   Chronic: > 2 months.
+
+## Key Epidemiology & Risk Factors
+*   **Incidence:** 0.2–2.95 per 100,000/year. Often underdiagnosed (only 15% diagnosed ante-mortem in one series).
+*   **Hypertension:** Present in >75% of cases.
+*   **Age & Sex:**
+    *   Type A: Mean age 50-56, M:F 1.7-2.6:1.
+    *   Type B: Mean age 60-70, M:F 2.3-3:1.
+*   **Connective Tissue Disorders:** Marfan’s (1:5000), Ehlers-Danlos IV (1:5000), bicuspid aortic valve.
+
+## Clinical Presentation
+*   **Mortality:** 40% die immediately; untreated Type A has **~1% mortality per hour** (50% at 48h).
+*   **Pain:**
+    *   Type A: Retrosternal (anterior chest).
+    *   Type B: Interscapular (back).
+    *   Often described as "tearing" or "ripping."
+*   **Malperfusion Syndromes (Frequency):**
+    *   Renal: 23-75%
+    *   Extremities: 25-60%
+    *   Mesenteric: 10-20%
+    *   Coronary: 5-11%
+    *   Cerebral: 3-13%
+    *   Spinal: 2-9%
+*   **Other Signs:** Syncope (up to 40% in Type A), aortic regurgitation (up to 75% in Type A), pulse deficits.
+
+## Diagnostic Imaging (Sensitivity/Specificity)
+*   **CT Angiography (CTA):** 90-100% / 90-100% (Modality of choice for stable patients).
+*   **Transesophageal Echo (TEE):** 90-99% / 85-98% (Modality of choice for unstable patients in OR).
+*   **MRI/MRA:** 98-100% / 98-100% (Best for surveillance, not acute).
+*   **Aortography:** 80-90% / 88-93% (Historical gold standard, now second-line).
+
+## Initial Medical Management (Anti-Impulse Therapy)
+*   **Goal:** SBP **90-110 mmHg**; HR **< 60 bpm**.
+*   **Protocol:**
+    1.  **Narcotics** (e.g., Morphine) for pain control (reduces catecholamines).
+    2.  **IV Beta-Blocker FIRST** (e.g., Esmolol) to reduce dP/dt.
+    3.  **Vasodilator SECOND** (e.g., Nitroprusside or Nicardipine) if SBP still high. *Warning: Never give vasodilator without beta-blocker (reflex tachycardia increases shear stress).*
+
+## Surgical Indications
+*   **Acute Type A:** **Presence of dissection = Indication.** (All but highest-risk patients).
+*   **Acute Type B (Complicated):**
+    *   Failure of medical management (pain, uncontrolled HTN).
+    *   Expanding diameter / progression.
+    *   Impending rupture (periaortic hematoma).
+    *   Malperfusion.
+*   **Chronic Dissection (Any Type):**
+    *   Aneurysm size: **Type A > 5.5 cm**; **Type B > 6.5 cm**.
+    *   Growth rate: **> 1 cm/year**.
+    *   Symptoms (CHF, pain, malperfusion).
+
+## Surgical Techniques (Type A)
+*   **Cannulation:** Right axillary artery (preferred), femoral, or direct ascending aorta.
+*   **Cerebral Protection:**
+    *   Deep Hypothermic Circulatory Arrest (DHCA). Goal temp **18-21°C** or EEG silence.
+    *   Cooling time: min **45 min** if no EEG monitoring.
+    *   Adjuncts: Antegrade/Retrograde cerebral perfusion for arrest times >20 min.
+*   **Aortic Valve:** Preserved in ~85% of acute cases (commissural resuspension). Root replacement (composite graft) if valve unsalvageable.
+
+## Type B Dissection: Outcomes & Management
+*   **Uncomplicated (70-80%):**
+    *   **Treatment:** Medical management (anti-impulse).
+    *   **Survival:** In-hospital ~90%; 1-year ~85%; 5-year ~71%.
+    *   **INSTEAD Trial:** 2-year survival similar for medical vs. elective TEVAR; however, at 5 years, TEVAR reduced aorta-specific mortality (6.9% vs 19.3%).
+*   **Complicated (20-30%):**
+    *   **Treatment:** Endovascular (TEVAR, fenestration/stenting) preferred.
+    *   **IRAD Data (Mortality):** Surgical 34% vs. Endovascular 11% (similar to medical management of uncomplicated cases).
+    *   **Meta-Analysis (Endovascular):** Procedural success 98%; peri-op mortality 5%; paraplegia ~0-3.4%.
+
+## Long-Term Follow-Up
+*   **False Lumen:** Remains patent in >90% after Type A repair (leading cause of late death).
+*   **Surveillance Imaging:**
+    *   Modality: CTA or MRA.
+    *   Schedule: Baseline at discharge; 6, 12 months; then **yearly** if stable.
+    *   If expansion >0.5cm/6mo, shorten interval to 3 months.
+*   **Blood Pressure:** Strict control (SBP <120-130 mmHg) with beta-blockers as first line.
+*   **Re-intervention:** ~20-40% of chronic patients require surgery for aneurysm progression.
 Thoracic aortic dissection occurs when an intimal tear allows redirection of blood flow from the aorta (true lumen) through the intimal defect into the media of the aortic wall (false lumen). A dissection plane that separates the intima from the overlying adventitia forms within the media. The acute form of aortic dissection is often rapidly lethal; whereas, those surviving the initial event go on to develop a chronic dissection with more protean manifestations. The purpose of this chapter is to review the etiology and pathogenesis of aortic dissection, examine current diagnostic algorithms, and provide detailed descriptions of contemporary surgical techniques for treatment. Additional information regarding follow-up and the subsequent management of these patients is presented to provide a comprehensive understanding of a clinical entity that has challenged physicians and surgeons for centuries.
+</div>
+</details>
+
 
 <details class="med-details">
 <summary><span style="font-size:110%">HISTORY</span></summary>

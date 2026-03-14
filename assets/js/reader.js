@@ -389,6 +389,7 @@ function _initRadialMenu() {
             else if (action === 'lh-increase')   { _changeLineHeight(+0.15); }
             else if (action === 'lh-decrease')   { _changeLineHeight(-0.15); }
             else if (action === 'search-open')   { _openSearch(); _closeMenu(); }
+            else if (action === 'print-chapter') { _printChapter(); _closeMenu(); }
         });
     });
 
@@ -620,6 +621,36 @@ function _changeLineHeight(delta) {
 function _applyLineHeight() {
     const val = ReaderSettings.get('reader_line_height', 1.65);
     document.documentElement.style.setProperty('--reader-line-height', val);
+}
+
+// ==========================================================================
+//  PRINT / SAVE AS PDF
+// ==========================================================================
+
+function _printChapter() {
+    // 1. Expand all details so content is visible in print
+    const area = document.getElementById('content-area');
+    if (area) area.querySelectorAll('details').forEach(d => { d.open = true; });
+
+    // 2. Set title on body for @page running header
+    const titleEl = document.getElementById('book-title');
+    const chapTitle = document.querySelector('#content-area h1, #content-area h2');
+    const printTitle = [titleEl?.textContent, chapTitle?.textContent].filter(Boolean).join(' — ');
+    document.body.setAttribute('data-print-title', printTitle);
+
+    // 3. Temporarily force light mode for clean print
+    const wasNight = document.body.classList.contains('night-mode');
+    const wasSepia = document.body.classList.contains('sepia-mode');
+    document.body.classList.remove('night-mode', 'sepia-mode');
+
+    // 4. Print
+    window.print();
+
+    // 5. Restore theme after dialog closes
+    setTimeout(() => {
+        if (wasNight) document.body.classList.add('night-mode');
+        if (wasSepia) document.body.classList.add('sepia-mode');
+    }, 500);
 }
 
 // ---- Collapse / expand all details ----

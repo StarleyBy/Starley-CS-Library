@@ -1491,3 +1491,75 @@ body.focus-mode #radial-menu-container {
   /* stays visible in focus mode */
   display: block;
 }
+/* ==========================================================================
+   PRINT / SAVE AS PDF
+   ========================================================================== */
+
+@media print {
+  /* Hide everything except content */
+  .reader-header,
+  .sidebar,
+  #radial-menu-container,
+  #radial-backdrop,
+  #search-panel,
+  #reading-progress-bar,
+  .bm-anchor { display: none !important; }
+
+  /* Full-width content */
+  #main-content {
+    margin-left: 0 !important;
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  #content-area {
+    max-width: 100% !important;
+    padding: 0 !important;
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+    color: #000 !important;
+    background: white !important;
+  }
+
+  /* Force expand all details before print (done via JS) */
+  details { display: block !important; }
+  details > summary { display: none !important; }
+
+  /* Admonition blocks — simplified for print */
+  .content .admonition,
+  .content .info-box,
+  .content .med-details {
+    border: 1px solid #ccc !important;
+    background: #f9f9f9 !important;
+    box-shadow: none !important;
+    page-break-inside: avoid;
+  }
+
+  /* Images */
+  .content img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  /* Tables */
+  table { page-break-inside: avoid; }
+
+  /* Headings — keep with next paragraph */
+  h1, h2, h3, h4 { page-break-after: avoid; }
+
+  /* Page margins */
+  @page {
+    margin: 2cm 2.5cm;
+  }
+
+  /* Chapter title as running header */
+  body::before {
+    content: attr(data-print-title);
+    display: block;
+    font-size: 9pt;
+    color: #666;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 4pt;
+    margin-bottom: 12pt;
+  }
+}
