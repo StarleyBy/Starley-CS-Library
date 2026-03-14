@@ -293,6 +293,12 @@ async function loadChapter(bookPath, chapterId, edition) {
 
             // Update read dots in sidebar
             _updateReadDotsInSidebar();
+            // Re-render bookmark anchors for new chapter
+            _renderBookmarkAnchors();
+            _renderBookmarksList();
+            _updateBookmarkButtonState();
+            // Close any open search
+            _closeSearch();
 
             // Reset progress bar
             _updateProgressBar();
@@ -378,9 +384,11 @@ function _initRadialMenu() {
             else if (action === 'scroll-top')    { window.scrollTo({ top: 0, behavior: 'smooth' }); _closeMenu(); }
             else if (action === 'font-pick')     { if (fontPicker) fontPicker.classList.toggle('visible'); }
             else if (action === 'night-mode')    { _toggleNightMode(); _closeMenu(); }
+            else if (action === 'sepia-mode')    { _toggleSepiaMode(); _closeMenu(); }
             else if (action === 'text-width')    { _cycleTextWidth(); }
             else if (action === 'lh-increase')   { _changeLineHeight(+0.15); }
             else if (action === 'lh-decrease')   { _changeLineHeight(-0.15); }
+            else if (action === 'search-open')   { _openSearch(); _closeMenu(); }
         });
     });
 
@@ -397,8 +405,11 @@ function _initRadialMenu() {
 
     _syncFontPickerUI();
     _applyNightMode();
+    _applySepiaMode();
     _applyTextWidth();
     _applyLineHeight();
+    _initSearch();
+    _initBookmarks();
 }
 
 // ==========================================================================
@@ -616,4 +627,381 @@ function _toggleAllDetails(open) {
     const area = document.getElementById('content-area');
     if (!area) return;
     area.querySelectorAll('details').forEach(d => { d.open = open; });
+}
+
+// ==========================================================================
+//  SEPIA MODE
+// ==========================================================================
+
+function _toggleSepiaMode() {
+    // Sepia and night are mutually exclusive
+    const on = document.body.classList.toggle('sepia-mode');
+    if (on) document.body.classList.remove('night-mode');
+    ReaderSettings.set('reader_sepia_mode', on);
+    _syncThemeButtons();
+}
+
+function _applySepiaMode() {
+    if (ReaderSettings.get('reader_sepia_mode', false)) {
+        document.body.classList.add('sepia-mode');
+        document.body.classList.remove('night-mode');
+        _syncThemeButtons();
+    }
+}
+
+function _syncThemeButtons() {
+    const nightBtn = document.querySelector('[data-action="night-mode"]');
+    const sepiaBtn = document.querySelector('[data-action="sepia-mode"]');
+    if (nightBtn) nightBtn.textContent = document.body.classList.contains('night-mode') ? '☀' : '☾';
+    if (sepiaBtn) sepiaBtn.style.opacity = document.body.classList.contains('sepia-mode') ? '1' : '0.7';
+}
+
+// ==========================================================================
+//  SEARCH WITH AUTO-EXPAND
+// ==========================================================================
+
+let _searchMatches  = [];
+let _searchCurrent  = -1;
+let _searchOrigHTML = null; // snapshot of content innerHTML before highlighting
+
+function _initSearch() {
+    const panel    = document.getElementById('search-panel');
+    const input    = document.getElementById('search-input');
+    const countEl  = document.getElementById('search-count');
+    const btnPrev  = document.getElementById('search-prev');
+    const btnNext  = document.getElementById('search-next');
+    const btnClose = document.getElementById('search-close');
+
+    if (!panel || !input) return;
+
+    input.addEventListener('input', () => _runSearch(input.value));
+
+    input.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            e.shiftKey ? _searchStep(-1) : _searchStep(+1);
+        } else if (e.key === 'Escape') {
+            _closeSearch();
+        }
+    });
+
+    btnNext ?.addEventListener('click', () => _searchStep(+1));
+    btnPrev ?.addEventListener('click', () => _searchStep(-1));
+    btnClose?.addEventListener('click', () => _closeSearch());
+
+    // Ctrl+F / Cmd+F override
+    document.addEventListener('keydown', (e) => {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
+            e.preventDefault();
+            _openSearch();
+        }
+    });
+}
+
+function _openSearch() {
+    const panel = document.getElementById('search-panel');
+    const input = document.getElementById('search-input');
+    if (!panel) return;
+    panel.classList.add('open');
+    setTimeout(() => input?.focus(), 50);
+}
+
+function _closeSearch() {
+    const panel = document.getElementById('search-panel');
+    if (!panel) return;
+    panel.classList.remove('open');
+    _clearSearchHighlights();
+    _searchMatches  = [];
+    _searchCurrent  = -1;
+    const countEl = document.getElementById('search-count');
+    if (countEl) countEl.textContent = '';
+}
+
+function _runSearch(query) {
+    _clearSearchHighlights();
+    _searchMatches = [];
+    _searchCurrent = -1;
+
+    const countEl = document.getElementById('search-count');
+    if (!query || query.length < 2) {
+        if (countEl) countEl.textContent = '';
+        return;
+    }
+
+    const area = document.getElementById('content-area');
+    if (!area) return;
+
+    // First: expand all details so text nodes are accessible
+    area.querySelectorAll('details').forEach(d => { d.open = true; });
+
+    // Walk text nodes and wrap matches
+    const regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    _walkTextNodes(area, regex);
+
+    _searchMatches = Array.from(area.querySelectorAll('.search-highlight'));
+    if (countEl) {
+        countEl.textContent = _searchMatches.length
+            ? `1 / ${_searchMatches.length}`
+            : 'no results';
+    }
+
+    if (_searchMatches.length) {
+        _searchCurrent = 0;
+        _activateMatch(0);
+    }
+}
+
+function _walkTextNodes(root, regex) {
+    // Collect text nodes first to avoid live NodeList issues
+    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+        acceptNode(node) {
+            // Skip script, style, already-highlighted spans
+            const p = node.parentElement;
+            if (!p) return NodeFilter.FILTER_REJECT;
+            if (['SCRIPT','STYLE','TEXTAREA','INPUT'].includes(p.tagName))
+                return NodeFilter.FILTER_REJECT;
+            if (p.classList.contains('search-highlight'))
+                return NodeFilter.FILTER_REJECT;
+            return node.textContent.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+        }
+    });
+
+    const nodes = [];
+    let node;
+    while ((node = walker.nextNode())) nodes.push(node);
+
+    nodes.forEach(textNode => {
+        const text = textNode.textContent;
+        if (!regex.test(text)) return;
+        regex.lastIndex = 0;
+
+        const frag = document.createDocumentFragment();
+        let last = 0, m;
+        while ((m = regex.exec(text)) !== null) {
+            if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+            const span = document.createElement('span');
+            span.className = 'search-highlight';
+            span.textContent = m[0];
+            frag.appendChild(span);
+            last = m.index + m[0].length;
+        }
+        if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+        textNode.parentNode.replaceChild(frag, textNode);
+        regex.lastIndex = 0;
+    });
+}
+
+function _clearSearchHighlights() {
+    document.querySelectorAll('.search-highlight').forEach(span => {
+        span.replaceWith(document.createTextNode(span.textContent));
+    });
+    // Normalize text nodes
+    document.getElementById('content-area')?.normalize();
+}
+
+function _searchStep(dir) {
+    if (!_searchMatches.length) return;
+    _searchCurrent = (_searchCurrent + dir + _searchMatches.length) % _searchMatches.length;
+    _activateMatch(_searchCurrent);
+    const countEl = document.getElementById('search-count');
+    if (countEl) countEl.textContent = `${_searchCurrent + 1} / ${_searchMatches.length}`;
+}
+
+function _activateMatch(idx) {
+    _searchMatches.forEach(m => m.classList.remove('search-current'));
+    const el = _searchMatches[idx];
+    if (!el) return;
+    el.classList.add('search-current');
+
+    // Auto-expand any parent <details> that contain this match
+    let parent = el.parentElement;
+    while (parent && parent.id !== 'content-area') {
+        if (parent.tagName === 'DETAILS') parent.open = true;
+        parent = parent.parentElement;
+    }
+
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+// ==========================================================================
+//  BOOKMARKS
+// ==========================================================================
+
+function _initBookmarks() {
+    const toggleBtn = document.getElementById('bookmark-toggle');
+    const panel     = document.getElementById('bookmarks-panel');
+    const clearBtn  = document.getElementById('bookmarks-clear');
+
+    if (!toggleBtn) return;
+
+    toggleBtn.addEventListener('click', () => {
+        const visible = panel.style.display !== 'none';
+        panel.style.display = visible ? 'none' : 'block';
+        if (!visible) _renderBookmarksList();
+    });
+
+    clearBtn?.addEventListener('click', () => {
+        if (confirm('Clear all bookmarks?')) {
+            ReaderSettings.set('reader_bookmarks', []);
+            _renderBookmarksList();
+            _renderBookmarkAnchors();
+            _updateBookmarkButtonState();
+        }
+    });
+
+    // Double-click on a paragraph to add/remove bookmark
+    document.addEventListener('dblclick', (e) => {
+        const area = document.getElementById('content-area');
+        if (!area) return;
+        // Find the nearest block-level ancestor inside content-area
+        let target = e.target;
+        while (target && target !== area) {
+            if (['P','H1','H2','H3','H4','H5','LI','TD','BLOCKQUOTE'].includes(target.tagName)) {
+                _toggleBookmark(target);
+                return;
+            }
+            target = target.parentElement;
+        }
+    });
+
+    _renderBookmarkAnchors();
+    _updateBookmarkButtonState();
+}
+
+function _getBookmarks() {
+    return ReaderSettings.get('reader_bookmarks', []);
+}
+
+function _saveBookmarks(list) {
+    ReaderSettings.set('reader_bookmarks', list);
+}
+
+function _toggleBookmark(el) {
+    // Generate a stable ID for this element based on its text + position
+    const text    = el.textContent.trim().slice(0, 80);
+    const chapterId = _currentChapterId || 'unknown';
+    const id      = chapterId + '::' + btoa(encodeURIComponent(text)).slice(0, 24);
+
+    let bookmarks = _getBookmarks();
+    const existing = bookmarks.findIndex(b => b.id === id);
+
+    if (existing >= 0) {
+        // Remove
+        bookmarks.splice(existing, 1);
+        el.querySelector('.bm-anchor')?.remove();
+        _flashElement(el, '#fee2e2');
+    } else {
+        // Add
+        const bm = {
+            id,
+            chapterId,
+            text,
+            timestamp: Date.now()
+        };
+        bookmarks.push(bm);
+
+        // Insert visual anchor
+        const anchor = document.createElement('span');
+        anchor.className = 'bm-anchor';
+        anchor.dataset.bmId = id;
+        el.prepend(anchor);
+        _flashElement(el, '#fef3c7');
+    }
+
+    _saveBookmarks(bookmarks);
+    _renderBookmarksList();
+    _updateBookmarkButtonState();
+}
+
+function _renderBookmarksList() {
+    const list = document.getElementById('bookmarks-list');
+    if (!list) return;
+    const bookmarks = _getBookmarks().filter(b => b.chapterId === _currentChapterId);
+    list.innerHTML = '';
+
+    if (!bookmarks.length) {
+        list.innerHTML = '<div class="bm-empty">No bookmarks in this chapter.<br>Double-click any paragraph to add.</div>';
+        return;
+    }
+
+    bookmarks.forEach(bm => {
+        const item = document.createElement('div');
+        item.className = 'bm-item';
+        item.innerHTML = `
+            <span class="bm-item-icon">🔖</span>
+            <span class="bm-item-text">${_escHtml(bm.text)}</span>
+            <button class="bm-item-del" data-id="${bm.id}" title="Remove">✕</button>
+        `;
+        // Click to navigate
+        item.querySelector('.bm-item-text').addEventListener('click', () => {
+            _scrollToBookmark(bm.id);
+        });
+        // Delete button
+        item.querySelector('.bm-item-del').addEventListener('click', (e) => {
+            e.stopPropagation();
+            _removeBookmarkById(bm.id);
+        });
+        list.appendChild(item);
+    });
+}
+
+function _renderBookmarkAnchors() {
+    const area = document.getElementById('content-area');
+    if (!area) return;
+    // Remove stale anchors
+    area.querySelectorAll('.bm-anchor').forEach(a => a.remove());
+    // Re-insert for current chapter
+    const bookmarks = _getBookmarks().filter(b => b.chapterId === _currentChapterId);
+    if (!bookmarks.length) return;
+
+    // Match by text content
+    area.querySelectorAll('p, h1, h2, h3, h4, h5, li, td, blockquote').forEach(el => {
+        const text = el.textContent.trim().slice(0, 80);
+        const id   = (_currentChapterId || 'unknown') + '::' + btoa(encodeURIComponent(text)).slice(0, 24);
+        const bm   = bookmarks.find(b => b.id === id);
+        if (bm && !el.querySelector('.bm-anchor')) {
+            const anchor = document.createElement('span');
+            anchor.className = 'bm-anchor';
+            anchor.dataset.bmId = id;
+            el.prepend(anchor);
+        }
+    });
+}
+
+function _scrollToBookmark(id) {
+    const anchor = document.querySelector(`.bm-anchor[data-bm-id="${id}"]`);
+    if (anchor) {
+        anchor.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        _flashElement(anchor.parentElement, '#fef3c7');
+    }
+}
+
+function _removeBookmarkById(id) {
+    let bookmarks = _getBookmarks();
+    bookmarks = bookmarks.filter(b => b.id !== id);
+    _saveBookmarks(bookmarks);
+    document.querySelector(`.bm-anchor[data-bm-id="${id}"]`)?.remove();
+    _renderBookmarksList();
+    _updateBookmarkButtonState();
+}
+
+function _updateBookmarkButtonState() {
+    const btn = document.getElementById('bookmark-toggle');
+    if (!btn) return;
+    const hasAny = _getBookmarks().some(b => b.chapterId === _currentChapterId);
+    btn.classList.toggle('has-bookmarks', hasAny);
+}
+
+function _flashElement(el, color) {
+    if (!el) return;
+    const prev = el.style.transition;
+    el.style.transition = 'background 0.15s';
+    el.style.background = color;
+    setTimeout(() => {
+        el.style.background = '';
+        setTimeout(() => { el.style.transition = prev; }, 300);
+    }, 400);
+}
+
+function _escHtml(str) {
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }

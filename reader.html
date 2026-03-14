@@ -25,6 +25,7 @@
             </nav>
             <button id="toc-toggle" class="header-btn"><i class="fas fa-list"></i></button>
             <div id="version-selector-container"></div>
+            <button id="bookmark-toggle" class="header-btn" title="Bookmarks"><i class="fas fa-bookmark"></i></button>
             <button id="focus-toggle" class="header-btn">
                 <i class="fas fa-expand"></i>
                 <i class="fas fa-compress"></i>
@@ -37,12 +38,31 @@
             <h2 id="book-title">Loading...</h2>
             <div id="chapter-list" class="nav-list"></div>
             <hr>
+            <div id="bookmarks-panel" class="bookmarks-panel" style="display:none">
+                <div class="bookmarks-header">
+                    <span>Bookmarks</span>
+                    <button id="bookmarks-clear" class="bm-clear-btn" title="Clear all">✕ clear</button>
+                </div>
+                <div id="bookmarks-list" class="nav-list"></div>
+                <hr>
+            </div>
             <div id="internal-toc" class="nav-list"></div>
         </aside>
 
         <main id="main-content" class="content-wrapper">
             <article id="content-area" class="content"></article>
         </main>
+    </div>
+
+    <!-- Search panel -->
+    <div id="search-panel" class="search-panel">
+        <div class="search-inner">
+            <input id="search-input" type="text" placeholder="Search in chapter…" autocomplete="off" spellcheck="false">
+            <span id="search-count" class="search-count"></span>
+            <button id="search-prev" class="search-nav" title="Previous">↑</button>
+            <button id="search-next" class="search-nav" title="Next">↓</button>
+            <button id="search-close" class="search-close" title="Close">✕</button>
+        </div>
     </div>
 
     <!-- Radial menu -->
@@ -70,9 +90,11 @@
             <button class="radial-item ri-red"    data-action="font-decrease" data-tooltip="Smaller text" style="font-size:0.82rem">A−</button>
             <button class="radial-item ri-purple" data-action="font-pick"     data-tooltip="Choose font" style="font-size:0.8rem">Aa</button>
             <button class="radial-item ri-indigo" data-action="night-mode"    data-tooltip="Night mode">☾</button>
-            <button class="radial-item ri-pink"   data-action="text-width"    data-tooltip="Text width">↔</button>
+            <button class="radial-item ri-pink"   data-action="sepia-mode"    data-tooltip="Sepia mode">☕</button>
             <button class="radial-item ri-teal"   data-action="lh-increase"   data-tooltip="More spacing" style="font-size:0.7rem">≡+</button>
             <button class="radial-item ri-indigo" data-action="lh-decrease"   data-tooltip="Less spacing" style="font-size:0.7rem">≡−</button>
+            <button class="radial-item ri-orange" data-action="text-width"    data-tooltip="Text width">↔</button>
+            <button class="radial-item ri-green"  data-action="search-open"   data-tooltip="Search" style="font-size:0.95rem">🔍</button>
         </div>
         <!-- Trigger button -->
         <button id="radial-trigger" title="Настройки чтения">
