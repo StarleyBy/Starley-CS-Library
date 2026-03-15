@@ -3,18 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Library Search</title>
+    <title>Search - Medical Library</title>
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="search.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Library Search</h1>
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Enter your search query...">
-            <button id="searchButton">Search</button>
-        </div>
-        <div id="resultsContainer"></div>
+    <header>
+        <h1>📚 Medical library</h1>
+        <nav>
+            <a href="../index.html">📚 Library</a>
+            <a href="search.html">🔍 Search</a>
+            <a href="../editor.html" data-role="admin">✏️ Editor</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="category-section">
+            <h2 class="category-title">Global Search</h2>
+            
+            <div class="search-box">
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Enter your search query (e.g. anatomy, heart, аорта)..." autofocus>
+                    <button id="searchButton" class="button">Search</button>
+                </div>
+            </div>
+
+            <div id="loadingIndicator" class="loading" style="display: none;">
+                Loading search index...
+            </div>
+
+            <div id="resultsContainer">
+                <div class="loading">Please enter a search term above.</div>
+            </div>
+        </section>
+    </main>
 
     <!-- Modal Structure -->
     <div id="chapterModal" class="modal">
@@ -27,14 +49,17 @@
                 <!-- Chapter content will be loaded here -->
             </div>
             <div class="modal-footer">
-                <a id="readFullButton" class="button" href="#" target="_blank">Read in Full Mode</a>
+                <a id="readFullButton" class="button" href="#" target="_blank">Open in Full Reader</a>
             </div>
         </div>
     </div>
-</div>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script src="https://unpkg.com/lunr/lunr.min.js"></script>
-<script src="search.js"></script>
+    <footer>
+        <p>Starley Library | 2026</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.min.js"></script>
+    <script src="search.js"></script>
 </body>
 </html>

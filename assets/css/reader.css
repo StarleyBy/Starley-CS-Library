@@ -1294,28 +1294,39 @@ body.night-mode .edition-option:hover { background: #2d4060; }
 }
 
 /* Tooltip */
-/* Shared real tooltip element — replaces ::after pseudo-elements
-   (::after breaks with position:fixed when parent has transform) */
-.radial-tooltip {
-  position: fixed;
-  z-index: 9999;
+/* Tooltip — real child element injected by JS, absolute to button
+   Key: button has position:relative + overflow:visible + z-index:100 on hover */
+.radial-tip {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
   background: #1a1a2e;
   color: #fff;
-  font-size: 0.78rem;
+  font-size: 0.74rem;
   font-weight: 500;
-  padding: 5px 11px 5px 13px;
-  border-radius: 6px;
-  border-left: 3px solid #4caf50;
+  padding: 4px 10px;
+  border-radius: 5px;
+  border-bottom: 2px solid var(--tip-color, #4caf50);
   white-space: nowrap;
-  box-shadow: 0 2px 14px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.4);
   pointer-events: none;
   opacity: 0;
   transition: opacity 0.15s ease;
-  transform: translateY(-50%);
-  top: 0;
-  left: 0;
+  /* Ensure it renders above everything */
+  z-index: 9999;
 }
-.radial-tooltip.visible { opacity: 1; }
+.radial-tip.visible { opacity: 1; }
+
+/* Button needs position:relative so .radial-tip absolute works,
+   and z-index elevation when hovered so tip clears siblings */
+.radial-item,
+.radial-item-inner {
+  position: relative;
+  overflow: visible !important;
+}
+.radial-item:hover,
+.radial-item-inner:hover { z-index: 200; }
 
 /* Backdrop для закрытия меню по клику вне */
 #radial-backdrop {

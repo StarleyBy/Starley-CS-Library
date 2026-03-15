@@ -536,7 +536,10 @@ function _positionItems(container) {
 }
 
 // ==========================================================================
-//  TOOLTIP MANAGER — single real DOM element, no ::after (transform breaks fixed)
+//  TOOLTIP MANAGER
+//  Each button gets a <span class="radial-tip"> child injected once.
+//  Tooltip is position:absolute bottom:calc(100%+8px) — always above button.
+//  Button gets z-index:200 on hover so tip clears sibling buttons.
 // ==========================================================================
 
 const _TIP_COLORS = {
@@ -547,72 +550,38 @@ const _TIP_COLORS = {
     'rii-amber': '#f9a825', 'rii-green': '#66bb6a',
 };
 
-let _tipEl   = null;
 let _tipTimer = null;
-const MARGIN  = 12; // px gap between button edge and tooltip
 
 function _initTooltips() {
-    _tipEl = document.getElementById('radial-tooltip');
-    if (!_tipEl) return;
-
     document.querySelectorAll('.radial-item, .radial-item-inner').forEach(btn => {
-        if (!btn.dataset.tooltip) return;
+        const text = btn.dataset.tooltip;
+        if (!text) return;
+
+        // Accent color from button class
+        const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
+        const color = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
+
+        // Create tip element once and append to button
+        const tip = document.createElement('span');
+        tip.className = 'radial-tip';
+        tip.textContent = text;
+        tip.style.setProperty('--tip-color', color);
+        btn.appendChild(tip);
 
         btn.addEventListener('pointerenter', () => {
             clearTimeout(_tipTimer);
-            _tipTimer = setTimeout(() => _showTooltip(btn), 320);
+            _tipTimer = setTimeout(() => tip.classList.add('visible'), 300);
         });
-
-        btn.addEventListener('pointerleave',  _hideTooltip);
-        btn.addEventListener('pointercancel', _hideTooltip);
-        btn.addEventListener('click',         _hideTooltip);
+        btn.addEventListener('pointerleave',  () => { clearTimeout(_tipTimer); tip.classList.remove('visible'); });
+        btn.addEventListener('pointercancel', () => { clearTimeout(_tipTimer); tip.classList.remove('visible'); });
+        btn.addEventListener('click',         () => { clearTimeout(_tipTimer); tip.classList.remove('visible'); });
     });
 }
 
-function _showTooltip(btn) {
-    if (!_tipEl) return;
-
-    const text       = btn.dataset.tooltip || '';
-    const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
-    const color      = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
-
-    _tipEl.textContent    = text;
-    _tipEl.style.borderLeftColor = color;
-
-    // Measure after setting text so width is accurate
-    _tipEl.style.opacity  = '0';
-    _tipEl.style.left     = '0';
-    _tipEl.style.top      = '0';
-    _tipEl.style.display  = 'block';
-
-    const btnRect = btn.getBoundingClientRect();
-    const tipW    = _tipEl.offsetWidth;
-    const tipH    = _tipEl.offsetHeight;
-    const midY    = btnRect.top + btnRect.height / 2 - tipH / 2;
-
-    // Prefer left of button; fall back to right if not enough space
-    let left;
-    if (btnRect.left - tipW - MARGIN >= 4) {
-        left = btnRect.left - tipW - MARGIN;
-    } else {
-        left = btnRect.right + MARGIN;
-    }
-
-    // Clamp vertically to viewport
-    const top = Math.max(4, Math.min(window.innerHeight - tipH - 4, midY));
-
-    _tipEl.style.left = left + 'px';
-    _tipEl.style.top  = top  + 'px';
-    _tipEl.classList.add('visible');
-}
-
-function _hideTooltip() {
+function _hideAllTooltips() {
     clearTimeout(_tipTimer);
-    if (_tipEl) _tipEl.classList.remove('visible');
+    document.querySelectorAll('.radial-tip.visible').forEach(t => t.classList.remove('visible'));
 }
-
-// Called from _closeMenu
-function _hideAllTooltips() { _hideTooltip(); }
 
 // ==========================================================================
 //  DRAG — pointer events, touch-friendly (touch-action:none in CSS)

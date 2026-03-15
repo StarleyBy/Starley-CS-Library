@@ -1,127 +1,232 @@
-/* Стили для страницы поиска */
-body {
-    padding: 20px;
-}
+/* search/search.css - Search-specific styles */
 
 .search-container {
-    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+    width: 100%;
 }
 
 #searchInput {
-    width: 70%;
-    padding: 10px;
-    font-size: 16px;
+    flex-grow: 1;
+    padding: 0.8rem 1rem;
+    font-size: 1.1rem;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+#searchInput:focus {
+    border-color: var(--secondary-color);
 }
 
 #searchButton {
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.5rem;
+    font-weight: 600;
 }
 
 #resultsContainer {
-    margin-top: 20px;
+    margin-top: 2rem;
 }
 
 .result-item {
-    border: 1px solid #ddd;
-    padding: 15px;
-    margin-bottom: 10px;
-    border-radius: 5px;
+    background: white;
+    border: 1px solid var(--border-color);
+    padding: 20px;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
 }
 
-.result-item h3 {
+.result-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-color: var(--secondary-color);
+}
+
+.result-title {
     margin-top: 0;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+    font-size: 1.25rem;
 }
 
-.result-item a {
-    text-decoration: none;
-    color: #007bff;
-}
-
-.result-item a:hover {
-    text-decoration: underline;
+.result-title small {
+    font-size: 0.8rem;
+    color: #999;
+    font-weight: normal;
+    margin-left: 10px;
 }
 
 .snippet {
-    font-style: italic;
+    font-style: normal;
     color: #555;
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
-/* Modal Styles */
+.snippet mark {
+    background-color: var(--highlight-yellow);
+    padding: 0 2px;
+    border-radius: 2px;
+    font-weight: bold;
+    color: #000;
+}
+
+/* Modal Enhancements */
 .modal {
     display: none; 
     position: fixed; 
-    z-index: 1000; 
+    z-index: 2000; /* Higher than header if needed */
     left: 0;
     top: 0;
     width: 100%; 
     height: 100%; 
-    overflow: auto; 
-    background-color: rgba(0,0,0,0.6);
+    overflow: hidden; /* Scroll inside modal body instead */
+    background-color: rgba(0,0,0,0.7);
+    backdrop-filter: blur(4px);
 }
 
 .modal-content {
-    background-color: #fefefe;
-    margin: 5% auto; 
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
-    max-width: 900px;
-    border-radius: 8px;
+    background-color: #fff;
+    margin: 2% auto; 
+    border: none;
+    width: 90%;
+    max-width: 1000px;
+    border-radius: 12px;
     display: flex;
     flex-direction: column;
-    height: 80vh;
+    height: 90vh;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
 }
 
 .modal-header {
-    padding: 10px 15px;
-    border-bottom: 1px solid #ddd;
+    padding: 1.2rem 2rem;
+    border-bottom: 1px solid var(--border-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8f9fa;
+    border-radius: 12px 12px 0 0;
 }
 
 .modal-header h2 {
     margin: 0;
-    font-size: 1.5em;
+    font-size: 1.4rem;
+    color: var(--primary-color);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-right: 20px;
 }
 
 .close-button {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
+    color: #888;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1;
+    cursor: pointer;
+    transition: color 0.2s;
 }
 
-.close-button:hover,
-.close-button:focus {
-    color: black;
-    text-decoration: none;
-    cursor: pointer;
+.close-button:hover {
+    color: var(--accent-color);
 }
 
 .modal-body {
-    padding: 15px;
+    padding: 2rem;
     flex-grow: 1;
     overflow-y: auto;
-    line-height: 1.6;
+    line-height: 1.8;
+}
+
+.modal-body mark {
+    background-color: var(--highlight-yellow);
+    padding: 0 2px;
 }
 
 .modal-footer {
-    padding: 15px;
-    border-top: 1px solid #ddd;
+    padding: 1.2rem 2rem;
+    border-top: 1px solid var(--border-color);
     text-align: right;
+    background: #f8f9fa;
+    border-radius: 0 0 12px 12px;
 }
 
 .button {
-    background-color: #007bff;
+    background-color: var(--secondary-color);
     color: white;
     padding: 10px 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 6px;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 1rem;
     cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
 }
 
 .button:hover {
-    background-color: #0056b3;
+    background-color: #2980b9;
+}
+
+.button:active {
+    transform: scale(0.98);
+}
+
+/* Loading Spinner */
+#loadingIndicator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    color: #666;
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0,0,0,0.1);
+    border-top: 4px solid var(--secondary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@media (max-width: 768px) {
+    .modal-content {
+        width: 95%;
+        margin: 5% auto;
+        height: 85vh;
+    }
+    
+    .modal-body {
+        padding: 1rem;
+    }
+    
+    .modal-header {
+        padding: 1rem;
+    }
+    
+    .search-container {
+        flex-direction: column;
+    }
+    
+    #searchButton {
+        padding: 0.8rem;
+    }
 }

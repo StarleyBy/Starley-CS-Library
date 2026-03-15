@@ -15,9 +15,8 @@ const EDITIONS_MAP = {
 };
 
 function stripMarkdown(markdown) {
-    // ... (stripping logic remains the same)
     // Remove headers
-    markdown = markdown.replace(/^(#+\s.*)$/gm, '');
+    markdown = markdown.replace(/^(#+\s.*)$/gm, ' ');
     // Remove bold/italics
     markdown = markdown.replace(/(\*\*|__)(.*?)\1/g, '$2');
     markdown = markdown.replace(/(\*|_)(.*?)\1/g, '$2');
@@ -26,37 +25,47 @@ function stripMarkdown(markdown) {
     // Remove images
     markdown = markdown.replace(/!\[(.*?)\]\((.*?)\)/g, '');
     // Remove blockquotes
-    markdown = markdown.replace(/^>\s?.*$/gm, '');
+    markdown = markdown.replace(/^>\s?.*$/gm, ' ');
     // Remove list markers
-    markdown = markdown.replace(/^(\s*(-|\*|\d+\.))\s/gm, '');
+    markdown = markdown.replace(/^(\s*(-|\*|\d+\.))\s/gm, ' ');
     // Remove horizontal rules
-    markdown = markdown.replace(/^-{3,}$/gm, '');
-    markdown = markdown.replace(/^_{3,}$/gm, '');
-    markdown = markdown.replace(/^\*{3,}$/gm, '');
+    markdown = markdown.replace(/^-{3,}$/gm, ' ');
+    markdown = markdown.replace(/^_{3,}$/gm, ' ');
+    markdown = markdown.replace(/^\*{3,}$/gm, ' ');
     // Remove code blocks
-    markdown = markdown.replace(/```[\s\S]*?```/g, '');
+    markdown = markdown.replace(/```[\s\S]*?```/g, ' ');
     // Remove inline code
     markdown = markdown.replace(/`([^`]+)`/g, '$1');
+    // Remove HTML tags
+    markdown = markdown.replace(/<[^>]*>/g, ' ');
     // Remove extra spaces and newlines
     markdown = markdown.replace(/\s+/g, ' ').trim();
     return markdown;
 }
 
 async function generateSearchIndex() {
-    console.log('Generating Lunr search index with multi-language support...');
+    console.log('Generating Lunr search index with smart snippet support...');
     const documents = [];
     const documentStore = {};
     let docId = 0;
 
+    if (!fs.existsSync(LIBRARY_PATH)) {
+        console.error(`Library file not found: ${LIBRARY_PATH}`);
+        return;
+    }
+
     const libraryData = JSON.parse(fs.readFileSync(LIBRARY_PATH, 'utf8'));
 
     for (const category of libraryData.categories) {
+        // Extract category folder from path (e.g., "books/anatomy" -> "anatomy")
+        const categoryFolder = category.path.split('/').filter(p => p && p !== 'books')[0] || '';
+        
         for (const bookInfo of category.books) {
-            const bookFolderPath = path.join(BOOKS_BASE_PATH, category.path.split('/')[1], bookInfo.folder);
+            const bookFolderPath = path.join(BOOKS_BASE_PATH, categoryFolder, bookInfo.folder);
             const metadataPath = path.join(bookFolderPath, 'metadata.json');
 
             if (!fs.existsSync(metadataPath)) {
-                console.warn(`Metadata not found for book: ${bookFolderPath}`);
+                // console.warn(`Metadata not found for book: ${bookFolderPath}`);
                 continue;
             }
 
@@ -64,39 +73,37 @@ async function generateSearchIndex() {
             const bookMetadata = metadataContent[0];
 
             for (const chapter of bookMetadata.chapters) {
+                const chapterBaseName = chapter.file.replace('.md', '');
+                
                 for (const editionKey in EDITIONS_MAP) {
                     const editionSuffix = EDITIONS_MAP[editionKey];
-                    const chapterFileName = chapter.file.replace('.md', editionSuffix);
-                    const chapterFolderPath = path.join(bookFolderPath, 'chapters', chapter.file.replace('.md', ''));
-                    const chapterFilePath = path.join(chapterFolderPath, chapterFileName);
-
-                    const categoryFolder = category.path.split('/')[1];
-                    const bookId = `books/${categoryFolder}/${bookInfo.folder}`;
-                    const chapterId = chapter.file.replace('.md', ''); // Base chapter ID
+                    const chapterFileName = `${chapterBaseName}${editionSuffix}`;
+                    const chapterFilePath = path.join(bookFolderPath, 'chapters', chapterBaseName, chapterFileName);
 
                     if (!fs.existsSync(chapterFilePath)) {
-                        // console.warn(`Chapter file not found for edition ${editionKey}: ${chapterFilePath}`);
-                        continue; // Skip if file doesn't exist for this edition
+                        continue; 
                     }
 
                     const chapterContent = fs.readFileSync(chapterFilePath, 'utf8');
                     const plainTextContent = stripMarkdown(chapterContent);
 
+                    if (plainTextContent.length < 10) continue; // Skip nearly empty files
+
                     const doc = {
                         id: docId,
                         title: `${bookMetadata.title} - ${chapter.title}`,
                         content: plainTextContent,
-                        language: editionKey // Add language field to Lunr document
+                        language: editionKey
                     };
                     documents.push(doc);
 
                     documentStore[docId] = {
                         bookTitle: bookMetadata.title,
                         chapterTitle: chapter.title,
-                        bookId: bookId,
-                        chapterId: chapterId,
-                        edition: editionKey, // Store the specific edition for URL construction
-                        snippet: plainTextContent.substring(0, 300) + '...'
+                        bookId: `books/${categoryFolder}/${bookInfo.folder}`,
+                        chapterId: chapterBaseName,
+                        edition: editionKey
+                        // content removed to save space, will be fetched on demand
                     };
                     
                     docId++;
@@ -108,9 +115,12 @@ async function generateSearchIndex() {
     // Create the Lunr index
     const lunrIndex = lunr(function () {
         this.ref('id');
-        this.field('title', { boost: 10 }); // Boost title field for relevance
+        this.field('title', { boost: 10 });
         this.field('content');
-        this.field('language'); // Add language field to Lunr index for filtering
+        this.field('language');
+
+        // Optional: enable position metadata for advanced highlighting if needed later
+        // this.metadataWhitelist = ['position'];
 
         documents.forEach(function (doc) {
             this.add(doc);
@@ -119,10 +129,10 @@ async function generateSearchIndex() {
 
     // Save the serialized index and the document store
     fs.writeFileSync(LUNR_INDEX_PATH, JSON.stringify(lunrIndex), 'utf8');
-    fs.writeFileSync(DOC_STORE_PATH, JSON.stringify(documentStore, null, 2), 'utf8');
+    fs.writeFileSync(DOC_STORE_PATH, JSON.stringify(documentStore), 'utf8'); // Minified for size
     
-    console.log(`Lunr index generated successfully: ${LUNR_INDEX_PATH}`);
-    console.log(`Document store generated successfully: ${DOC_STORE_PATH}`);
+    console.log(`Lunr index generated: ${LUNR_INDEX_PATH} (${(fs.statSync(LUNR_INDEX_PATH).size / 1024 / 1024).toFixed(2)} MB)`);
+    console.log(`Document store generated: ${DOC_STORE_PATH} (${(fs.statSync(DOC_STORE_PATH).size / 1024 / 1024).toFixed(2)} MB)`);
     console.log(`Total indexed items: ${documents.length}`);
 }
 
