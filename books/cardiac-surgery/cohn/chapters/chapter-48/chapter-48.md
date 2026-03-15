@@ -324,156 +324,351 @@ Magnetic resonance imaging (MRI) can provide axial and three-dimensional reconst
 </div>
 </details>
 
-
 <details class="med-details">
-<summary>NATURAL HISTORY</summary>
+<summary><span style="font-size:110%">NATURAL HISTORY</span></summary>
 <div class="details-content">
 
-Elective aortic replacement is used as a means to prophylactically prevent aortic catastrophe such as dissection and rupture which carry high mortality. Recent data from the International
-
-
-
-Registry of Acute Aortic Dissections (IRAD) show an operative mortality for emergent type A aortic dissection repair of 26%, although this is generally lower in more experienced centers. <sup>87</sup> Bickerstaff et al examined the natural history of 72 patients that were diagnosed with aortic aneurysms and
-
-
-
-did not undergo surgery. 88 Over a 5-year follow-up period, 74% of patients experienced aortic rupture or dissection (Fig. 48-13). Of these 94% died. The overall 5-year survival was only 13% in untreated aneurysm patients compared with 75% in control patients without aortic aneurysms.
-
-Traditionally, the most important criterion for ascending aortic replacement on an elective basis is maximal aortic diameter. In natural history studies by Coady et al, patients with 3.5 to 3.9 cm aortic aneurysms were very unlikely to rupture within 3 to 4 years, and each incremental 1 cm increase from this point increased rupture risk (Fig. 48-14).<sup>89</sup> Patients with aneurysms greater than 5 cm showed substantially higher dissection and rupture risk within the first year. Using a logistic regression model, they found that the aneurysm with maximal diameter of 6.0 to 6.9 cm had a 4.3 times greater increased risk of rupture or dissection then an aneurysm that is 4.0 to 4.9 cm in diameter. Growth rates for aortic aneurysms less than 4 cm are about 0.1 cm per year and this increases gradually as aortic
-
+Elective aortic replacement is used as a means to prophylactically prevent aortic catastrophe such as dissection and rupture which carry high mortality. Recent data from the International Registry of Acute Aortic Dissections (IRAD) show an operative mortality for emergent type A aortic dissection repair of 26%, although this is generally lower in more experienced centers.
+  
+<details class="med-details">
+<summary>Bickerstaff, history of 72 patients with aortic aneurysms and did not undergo surgery</summary>
+<div class="details-content">
+Bickerstaff et al examined the natural history of 72 patients that were diagnosed with aortic aneurysms and did not undergo surgery. Over a 5-year follow-up period, 74% of patients experienced aortic rupture or dissection (Fig. 48-13). Of these 94% died. The overall 5-year survival was only 13% in untreated aneurysm patients compared with 75% in control patients without aortic aneurysms.
+  
 ![](_page_9_Figure_9.jpeg)
 
 FIGURE 48-13 Actuarial survival estimates of 72 patients followed nonoperatively with thoracic aneurysms and dissections.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Natural history studies by Coady</summary>
+<div class="details-content">
+Traditionally, the most important criterion for ascending aortic replacement on an elective basis is maximal aortic diameter. In natural history studies by Coady et al, patients with 3.5 to 3.9 cm aortic aneurysms were very unlikely to rupture within 3 to 4 years, and each incremental 1 cm increase from this point increased rupture risk (Fig. 48-14). Patients with aneurysms greater than 5 cm showed substantially higher dissection and rupture risk within the first year. Using a logistic regression model, they found that the aneurysm with maximal diameter of 6.0 to 6.9 cm had a 4.3 times greater increased risk of rupture or dissection then an aneurysm that is 4.0 to 4.9 cm in diameter. Growth rates for aortic aneurysms less than 4 cm are about 0.1 cm per year and this increases gradually as aortic size increases up to 0.4 cm per year. Uncontrolled hypertension, smoking, and presence of connective tissue disorders are associated with more rapid aortic growth. 
+  
 ![](_page_10_Figure_2.jpeg)
 
-**FIGURE 48-14** The incidence of acute dissection or rupture of thoracic aneurysms according to size. The height of the column corresponds to the total number of patients and the blue area to the proportion of patients who suffered complications of dissection or rupture. (Reproduced with permission from Coady MA, Rizzo JA, Hammond GL, et al: What is the appropriate size criterion for resection of thoracic aortic aneurysms? *J Thorac Cardiovasc Surg* 1997; 113:476.)
-
-size increases up to 0.4 cm per year. 90,91 Uncontrolled hypertension, smoking, and presence of connective tissue disorders are associated with more rapid aortic growth. 90 Patients with MFS are at particularly high risk for rupture or dissection of smaller sizes and dissection is frequently seen with a maximal ascending aortic dimension of less than 5 to 6 cm (Fig. 48-15). 92 Strikingly the average age of death for untreated patients with MFS is 32 years, with complications of the aortic root being responsible for 60 to 80% of these deaths. 93 Marfan's patients with a family history of early dissection or rupture are at the highest risk for aortic catastrophe occurring at smaller dimensions. 94
-
-Although size clearly correlates with rupture risk, it is important to note that many aortic dissections occur in ascending aortas that are less than 5.5 cm in diameter. In the IRAD registry, over 59% of 591 enrolled patients with acute type A aortic dissections had maximum aortic dimensions less than 5.5 cm and 40% were less than 5.0 cm (Fig. 48-16).
-
+**FIGURE 48-14** The incidence of acute dissection or rupture of thoracic aneurysms according to size. The height of the column corresponds to the total number of patients and the blue area to the proportion of patients who suffered complications of dissection or rupture.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Marfan's patients</summary>
+<div class="details-content">
+Patients with MFS are at particularly high risk for rupture or dissection of smaller sizes and dissection is frequently seen with a maximal ascending aortic dimension of less than 5 to 6 cm (Fig. 48-15). Strikingly the average age of death for untreated patients with MFS is 32 years, with complications of the aortic root being responsible for 60 to 80% of these deaths. Marfan's patients with a family history of early dissection or rupture are at the highest risk for aortic catastrophe occurring at smaller dimensions. 
+  
 ![](_page_10_Figure_6.jpeg)
 
 **FIGURE 48-15** Diameter of the aneurysm in 524 adult patients with Marfan Syndrome, according to the Presence of Aortic Dissection.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>IRAD registry</summary>
+<div class="details-content">
+Although size clearly correlates with rupture risk, it is important to note that many aortic dissections occur in ascending aortas that are less than 5.5 cm in diameter. In the IRAD registry, over 59% of 591 enrolled patients with acute type A aortic dissections had maximum aortic dimensions less than 5.5 cm and 40% were less than 5.0 cm (Fig. 48-16).
 
 ![](_page_10_Figure_8.jpeg)
 
-**FIGURE 48-16** Distribution of aortic size at time of presentation with acute type A aortic dissection (cm). (Reproduced with permission from Pape LA, Tsai TT, Isselbacher EM, et al: Aortic diameter >or = 5.5 cm is not a good predictor of type A aortic dissection: observations from the International Registry of Acute Aortic Dissection (IRAD), *Circulation*. 2007 Sep 4;116(10):1120-1127.)
+**FIGURE 48-16** Distribution of aortic size at time of presentation with acute type A aortic dissection (cm). 
+</div>
+</details>
 
 As the understanding of the biologic mechanisms behind aortic aneurysm formation improves, in the future, serum biologic markers and sensitive imaging techniques that can detect subtle changes in aortic strain characteristics or compliance may provide more accurate identification of the high-risk aorta.
 </div>
 </details>
 
+<details class="med-details">
+<summary><span style="font-size:110%">MEDICAL TREATMENT OF PROXIMAL AORTIC ANEURYSMS</span></summary>
+<div class="details-content">
 
-# MEDICAL TREATMENT OF PROXIMAL AORTIC ANEURYSMS
+Therapies designed to limit the growth of aortic aneurysms are targeted at mechanisms either to diminish stress on the aortic wall or to prevent deleterious degenerative biochemical changes. 
+  
+<details class="med-details">
+<summary>Exercises avoiding</summary>
+<div class="details-content">
+In general, patients with aortic aneurysms should avoid high intensity isometric exercise such as weight lifting as aortic pressures may increase rapidly and exert significant stress on the aortic wall. Weight lifting restriction should be less than 1/3 to 1/2 of the patient's body weight. Additionally exercises with rapid bursts of acceleration and deceleration such as basketball may place excess of stress of aortic wall.
+</div>
+</details>
 
-Therapies designed to limit the growth of aortic aneurysms are targeted at mechanisms either to diminish stress on the aortic wall or to prevent deleterious degenerative biochemical changes. In general, patients with aortic aneurysms should avoid high intensity isometric exercise such as weight lifting as aortic pressures may increase rapidly and exert significant stress on the aortic wall. Weight lifting restriction should be less than 1/3 to 1/2 of the patient's body weight. Additionally exercises with rapid bursts of acceleration and deceleration such as basketball may place excess of stress of aortic wall.
-
-Anti-impulse therapies are the mainstay treatment for thoracic aortic aneurysms. Due to their negative chronotropic and inotropic effects, beta blockers are typically used as a first line treatment. Fe The primary goals of beta blocker therapy are to decrease the overall blood pressure and to decrease the change in aortic pressure over time (dP/dT) to diminish the stress applied to the aorta in systole thereby limiting damage to the media layer. The rationale for using beta blockers was initially established with an ex vivo plastic model of
-
-aortic dissection by Wheat et al in which a tear created in an artificial intimal layer of rubber cement in the plastic tubing propagated less when the pulse pressure was artificially flattened, while variation of mean blood pressure and flow rates had no effect. From Studies performed on turkeys, which are uniquely prone to aortic dissection, showed that the combination of sodium nitroprusside and propanolol were effective at preventing rupture, while lowering blood pressure with nitroprusside alone was ineffective and may have actually increased dP/dT due to reflex sympathetic stimulation causing increased chronotropy and inotropy. In a landmark study by Shores et al, young patients with MFS randomized to a regimen of beta blocker therapy had significantly less aortic dilatation over a 10-year follow-up period (Fig. 48-17)
+<details class="med-details">
+<summary>Anti-impulse therapies</summary>
+<div class="details-content">
+Anti-impulse therapies are the mainstay treatment for thoracic aortic aneurysms. Due to their negative chronotropic and inotropic effects, beta blockers are typically used as a first line treatment. The primary goals of beta blocker therapy are to decrease the overall blood pressure and to decrease the change in aortic pressure over time (dP/dT) to diminish the stress applied to the aorta in systole thereby limiting damage to the media layer. 
+<details class="med-details">
+<summary>Ex vivo plastic model of aortic dissection by Wheat</summary>
+<div class="details-content">
+The rationale for using beta blockers was initially established with an ex vivo plastic model of aortic dissection by Wheat et al in which a tear created in an artificial intimal layer of rubber cement in the plastic tubing propagated less when the pulse pressure was artificially flattened, while variation of mean blood pressure and flow rates had no effect.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Studies performed on turkeys, role of beta blockers</summary>
+<div class="details-content">
+From Studies performed on turkeys, which are uniquely prone to aortic dissection, showed that the combination of sodium nitroprusside and propanolol were effective at preventing rupture, while lowering blood pressure with nitroprusside alone was ineffective and may have actually increased dP/dT due to reflex sympathetic stimulation causing increased chronotropy and inotropy.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Study by Shores, young patients with MFS, beta blocker therapy</summary>
+<div class="details-content">
+In a landmark study by Shores et al, young patients with MFS randomized to a regimen of beta blocker therapy had significantly less aortic dilatation over a 10-year follow-up period (Fig. 48-17) and also had a lower incidence of a composite end point of death, congestive heart failure, aortic dissection, severe regurgitation, or aortic root surgery versus controls. These results have been extrapolated to a wider variety of patients with ascending aortic aneurysms in whom beta blockade is used extensively.
 
 ![](_page_11_Figure_3.jpeg)
 
-FIGURE 48-17 Changes in the Aortic ratio in the propranolol-treated group and untreated controls. Aortic ratio is ratio of the diameter of the aorta measured in a patient to the diameter expected in a subject with the same body-surface area and age. ine indicates the length of follow-up. One patient in the control group had an exceptional aortic ratio (>3.4) at 100 months. Two patients in the treatment group (arrows) did not comply with propranolol therapy. (Reproduced with permission from Palmer RF and Wheat MW Jr: Treatment of dissecting aneurysms of the aorta, *Ann Thorac Surg* 1967 Jul;4(1):38-52.)
+FIGURE 48-17 Changes in the Aortic ratio in the propranolol-treated group and untreated controls. Aortic ratio is ratio of the diameter of the aorta measured in a patient to the diameter expected in a subject with the same body-surface area and age. ine indicates the length of follow-up. One patient in the control group had an exceptional aortic ratio (>3.4) at 100 months. Two patients in the treatment group (arrows) did not comply with propranolol therapy. 
+</div>
+</details>
 
-Months of follow-up
+</div>
+</details>
 
-100
+</div>
+</details>
 
-150
+<details class="med-details">
+<summary><span style="font-size:110%">INDICATIONS FOR SURGERY</span></summary>
+<div class="details-content">
 
-and also had a lower incidence of a composite end point of death, congestive heart failure, aortic dissection, severe regurgitation, or aortic root surgery versus controls.<sup>99</sup> These results have been extrapolated to a wider variety of patients with ascending aortic aneurysms in whom beta blockade is used extensively.
-
-#### INDICATIONS FOR SURGERY
-
-#### **Non-Elective Indications**
+<details class="med-details">
+<summary>Non-Elective Indications</summary>
+<div class="details-content">
 
 Any new onset of acute dissection, rupture, or intramural hematoma generally warrants immediate surgery. The presence of symptoms of chest pain in patients with ascending aortic aneurysms greater than 4.5 to 5 cm is a sign of impending rupture and should also be managed operatively with expediency. Acute severe congestive heart failure secondary to root dilatation and loss of sinotubular junction either from rapid aneurysm expansion or from chronic dissection also warrants early operative management, although aggressive diuresis and cardiac optimization for 1 to 2 days prior to surgery are frequently helpful.
+</div>
+</details>
 
-#### **Elective Indications**
+<details class="med-details">
+<summary>Elective Indications</summary>
+<div class="details-content">
 
-Despite the limitations of size criteria, decisions to intervene are still largely decided based on maximal aortic diameter and growth rate. For degenerative aneurysms in the absence of connective tissue disorders or other cardiac pathology, elective repair is reasonable at an absolute maximal diameter of 5.5 cm. <sup>100</sup> Growth rate of greater than 1 cm per year is generally accepted as a strong indication to proceed with surgery for degenerative aneurysms regardless of diameter. <sup>101</sup> Some groups have also advocated the use of normalized aortic dimensions to body size to provide a more accurate reflection of the aneurysm dimension for an individual patient. <sup>102</sup>
+Despite the limitations of size criteria, decisions to intervene are still largely decided based on maximal aortic diameter and growth rate. For degenerative aneurysms in the absence of connective tissue disorders or other cardiac pathology, elective repair is reasonable at an absolute maximal diameter of 5.5 cm. Growth rate of greater than 1 cm per year is generally accepted as a strong indication to proceed with surgery for degenerative aneurysms regardless of diameter. Some groups have also advocated the use of normalized aortic dimensions to body size to provide a more accurate reflection of the aneurysm dimension for an individual patient.
 
-The aortic ratio is calculated as measured diameter divided by predicted diameter for a given age and body surface area. Using this method, elective replacement is warranted at an aortic ratio of 1.5 in an asymptomatic patient without a connective tissue disorder or other complicating factors. <sup>103</sup> This leads to intervention at a size of only 4.8 to 5.0 cm in an adult less than 40 years of age with a body surface area of 2 m<sup>2</sup>. <sup>104</sup> Because the ascending aorta normally increases in size with age, the diameter for intervention would be higher in a patient more than 40 years old.
+The aortic ratio is calculated as measured diameter divided by predicted diameter for a given age and body surface area. Using this method, elective replacement is warranted at an aortic ratio of 1.5 in an asymptomatic patient without a connective tissue disorder or other complicating factors.  This leads to intervention at a size of only 4.8 to 5.0 cm in an adult less than 40 years of age with a body surface area of 2 m<sup>2</sup>.  Because the ascending aorta normally increases in size with age, the diameter for intervention would be higher in a patient more than 40 years old.
+</div>
+</details>
 
-## **Special Considerations**
+<details class="med-details">
+<summary>Special Considerations</summary>
+<div class="details-content">
 
-Patients with MFS are at higher risk for rupture and the ascending aorta should be replaced prophylactically at a diameter of 4.5 cm or an aortic ratio of 1.3 to 1.4. <sup>103,104</sup> Patients with Loeys-Dietz rupture at a smaller dilation than in MFS and should be electively repaired at 4.2 cm. <sup>105</sup> Among patients with bicuspid aortic valves, there remains ongoing debate. The 2013 Society of Thoracic Surgeons Clinical Practice guidelines suggest 5.0 cm (4.5 cm if there is a
+Patients with MFS are at higher risk for rupture and the ascending aorta should be replaced prophylactically at a diameter of 4.5 cm or an aortic ratio of 1.3 to 1.4. Patients with Loeys-Dietz rupture at a smaller dilation than in MFS and should be electively repaired at 4.2 cm. Among patients with bicuspid aortic valves, there remains ongoing debate. The 2013 Society of Thoracic Surgeons Clinical Practice guidelines suggest 5.0 cm (4.5 cm if there is a family history of aortic dissection) whereas the ACC/AHA Valve guidelines recommend 5.5 cm (5.0 cm for a family history of aortic dissection or rapid aortic growth greater than 5 mm/year). In the setting of connective tissue disorders, bicuspid aortic valve or chronic dissection, a growth rate of greater than 0.5 cm per year should warrant repair. A chronically dissected aorta, which the external aortic wall is supported only by the residual outer third of the medial and advential layers, should be replaced when aortic diameters reach 4.5 cm or a ratio of 1.3 to 1.4 due to the intrinsic weakness of the aortic wall. Pseudoaneurysms, which are frequently from previous aortic suture lines, should be repaired upon diagnosis due to high rupture risk related to their extremely thin walls.
 
-family history of aortic dissection) whereas the ACC/AHA Valve guidelines recommend 5.5 cm (5.0 cm for a family history of aortic dissection or rapid aortic growth greater than 5 mm/year). <sup>106,107</sup> In the setting of connective tissue disorders, bicuspid aortic valve or chronic dissection, a growth rate of greater than 0.5 cm per year should warrant repair. A chronically dissected aorta, which the external aortic wall is supported only by the residual outer third of the medial and advential layers, should be replaced when aortic diameters reach 4.5 cm or a ratio of 1.3 to 1.4 due to the intrinsic weakness of the aortic wall. <sup>103,108</sup> Pseudoaneurysms, which are frequently from previous aortic suture lines, should be repaired upon diagnosis due to high rupture risk related to their extremely thin walls.
+In younger patients, where aortic root reimplantation is preferred to avoid life-long anticoagulation, earlier repair may prevent the development of aortic valve cusp pathology and improve the chances of successful repair. Among patients undergoing aortic valve replacement who have ascending aortic aneurysms, Prenger et al reported a 27% incidence of aortic dissection if the aorta was greater than 5 cm versus 0.6% incidence if aortic size was normal. In general, in the setting of other cardiac surgery, ascending aortas with a maximal dimension of 5.0 cm or a ratio of 1.5 should be replaced.
+</div>
+</details>
+ 
+</div>
+</details>
 
-In younger patients, where aortic root reimplantation is preferred to avoid life-long anticoagulation, earlier repair may prevent the development of aortic valve cusp pathology and improve the chances of successful repair. Among patients undergoing aortic valve replacement who have ascending aortic aneurysms, Prenger et al reported a 27% incidence of aortic dissection if the aorta was greater than 5 cm versus 0.6% incidence if aortic size was normal. <sup>109</sup> In general, in the setting of other cardiac surgery, ascending aortas with a maximal dimension of 5.0 cm or a ratio of 1.5 should be replaced. <sup>103,109</sup>
+<details class="med-details">
+<summary><span style="font-size:110%">PREOPERATIVE PREPARATION</span></summary>
+<div class="details-content">
+  
+Nearly one-third of patients undergoing surgery for thoracic aortic disease have chronic obstructive pulmonary disease. Patients with suspect pulmonary function should have spirometry and room air arterial blood gases. Smoking cessation, antibiotic treatment of chronic bronchitis, and chest physiotherapy may prove beneficial in elective situations. Normal renal function should be ensured with the appropriate blood work, and abnormal results should prompt further investigation. Because unaddressed severe carotid disease is a risk factor for stroke during ascending aortic operations, patients over the age of 65 should have duplex imaging of their carotids. Younger patients with peripheral vascular disease, extensive coronary artery disease, carotid bruits, or history suspicious for cerebral ischemia should be investigated as well. CT or MRI of the thoracic and abdominal aorta is usually indicated. Coronary angiography should be performed in all patients to evaluate for significant coronary atherosclerosis and lesions with greater than 50 to 60% stenosis should be bypassed. Coronary angiography also helps define the coronary anatomy to identify anomalous or intramural coronary arteries which may complicate root replacement. 
+</div>
+</details>
 
-#### PREOPERATIVE PREPARATION
+<details class="med-details">
+<summary><span style="font-size:110%">OPERATIVE MANAGEMENT</span></summary>
+<div class="details-content">
 
-Nearly one-third of patients undergoing surgery for thoracic aortic disease have chronic obstructive pulmonary disease.<sup>110</sup> Patients with suspect pulmonary function should have spirometry and room air arterial blood gases. Smoking cessation, antibiotic treatment of chronic bronchitis, and chest physiotherapy may prove beneficial in elective situations. Normal renal function should be ensured with the appropriate blood work, and abnormal results should prompt further investigation. Because unaddressed severe carotid disease is a risk factor for stroke during ascending aortic operations, patients over the age of 65 should have duplex imaging of their carotids.<sup>111</sup> Younger patients with peripheral vascular disease, extensive coronary artery disease, carotid bruits, or history suspicious for cerebral ischemia should be investigated as well. CT or MRI of the thoracic and abdominal aorta is usually indicated. Coronary angiography should be performed in all patients to evaluate for significant coronary atherosclerosis and lesions with greater than 50 to 60% stenosis should be bypassed. Coronary angiography also helps define the coronary anatomy to identify anomalous or intramural coronary arteries which may complicate root replacement. 112
-
-#### **OPERATIVE MANAGEMENT**
-
-# Monitoring and Anesthesia
+<details class="med-details">
+<summary>Monitoring and Anesthesia</summary>
+<div class="details-content">
 
 All procedures are performed using central venous access and a pulmonary artery catheter. Location of arterial line for blood pressure monitoring should be discussed with the anesthesia team preoperatively although generally right radial is preferred. Nasopharyngeal and bladder temperature monitors are used. Bilateral near infrared spectroscopy (NIRS) is employed to provide real-time estimation of cerebral saturation though out the bypass run. Precipitous drops in cerebral saturations are managed with increasing perfusion pressure and hematocrit to the cerebral circulation. In circulatory arrest cases, EEG monitoring is also employed to ensure EEG silence during interruption of cerebral circulation.
 
+<details class="med-details">
+<summary>TEE</summary>
+<div class="details-content">
 TEE plays a critical role in diagnosis, particularly of degree of aortic insufficiency and sinus segment and sinotubular junction anatomy that is not well assessed by CT angiography. It is also critical for hemodynamic management separating from CPB.
+</div>
+</details>
 
-Anesthesia management includes fentanyl 25 to 50 µg/kg, midazolam 0.1 to 0.2 mg/kg, isoflurane 0.5 to 1.5%, pancuronium 0.1 to 0.2 mg/kg, and end-tidal concentration in  ${\rm CO}_2$ . Aminocaproic acid is dosed initially as an intravenous bolus of 5 g, followed by a maintenance intravenous infusion of 1 g/h and stopped within 2 hours of patient admission to the intensive care unit. Pharmacologic adjuncts in circulatory arrest cases include 1 g of methylprednisolone, 1 g of magnesium sulfate, 2.5 mg/kg of lidocaine, and 12.5 g of mannitol.  $^{114}$ 
+<details class="med-details">
+<summary>Anesthesia</summary>
+<div class="details-content">
+Anesthesia management includes fentanyl 25 to 50 µg/kg, midazolam 0.1 to 0.2 mg/kg, isoflurane 0.5 to 1.5%, pancuronium 0.1 to 0.2 mg/kg, and end-tidal concentration in  CO<sub>2</sub>. Aminocaproic acid is dosed initially as an intravenous bolus of 5 g, followed by a maintenance intravenous infusion of 1 g/h and stopped within 2 hours of patient admission to the intensive care unit. Pharmacologic adjuncts in circulatory arrest cases include 1 g of methylprednisolone, 1 g of magnesium sulfate, 2.5 mg/kg of lidocaine, and 12.5 g of mannitol. 
+</div>
+</details>
 
-#### **Myocardial Protection**
+</div>
+</details>
+
+<details class="med-details">
+<summary>Myocardial Protection</summary>
+<div class="details-content">
 
 Typically, 1 L of cold blood hyperkalemic cardioplegia (4°C) is given antegrade into the aortic root. A left ventricular vent is employed to prevent distension. In cases of severe aortic insufficiency, the aorta is opened and the coronary ostia are cannulated directly with handheld cannula. A temperature probe is placed through the anterior myocardium into the septum and a myocardial temperature of 6 to 8°C is achieved. Retrograde cardioplegia is administered at least every 20 minutes and continuously when possible. It is important to give cardioplegia immediately prior to commencing circulatory arrest and at its conclusion.
+</div>
+</details>
 
-# Circulation Management
+<details class="med-details">
+<summary>Circulation Management</summary>
+<div class="details-content">
 
-Cannulation strategies vary significantly with individual pathology and the modern cardiovascular surgeon must be proficient in several different techniques. With experience, ascending aortas as large as 7 cm may be directly cannulated. This can be done with the traditional stab-technique or using a Seldinger technique over a wire in thin-walled aortas. In aneurysms which terminate prior to the innominate artery, the transverse arch is easily directly cannulated. In cases where antegrade cerebral perfusion is required, either the ascending aorta may be cannulated directly if using selective direct perfusion cannulas or the right axillary artery may be employed. Right axillary artery cannulation, which has grown in popularity in recent years, should be performed through an 8 or 10 mm Dacron graft anastomosed end-to side to the axillary artery as there is risk of dissection from direct cannulation of this friable artery. In some instances, femoral artery cannulation can be employed, but should be avoided in patients with atheroma in the thoracic aorta by CT scan or TEE. A standard two-stage venous cannula is used unless performing concomitant mitral or tricuspid surgery.
+<details class="med-details">
+<summary>Arterail circulation management</summary>
+<div class="details-content">
+Cannulation strategies vary significantly with individual pathology and the modern cardiovascular surgeon must be proficient in several different techniques. 
+<details class="med-details">
+<summary>Ascending aortas</summary>
+<div class="details-content">
+With experience, ascending aortas as large as 7 cm may be directly cannulated. This can be done with the traditional stab-technique or using a Seldinger technique over a wire in thin-walled aortas.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Transverse arch</summary>
+<div class="details-content">
+In aneurysms which terminate prior to the innominate artery, the transverse arch is easily directly cannulated.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Right axillary artery</summary>
+<div class="details-content">
+In cases where antegrade cerebral perfusion is required, either the ascending aorta may be cannulated directly if using selective direct perfusion cannulas or the right axillary artery may be employed. Right axillary artery cannulation, which has grown in popularity in recent years, should be performed through an 8 or 10 mm Dacron graft anastomosed end-to side to the axillary artery as there is risk of dissection from direct cannulation of this friable artery.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Femoral artery</summary>
+<div class="details-content">
+In some instances, femoral artery cannulation can be employed, but should be avoided in patients with atheroma in the thoracic aorta by CT scan or TEE.
+</div>
+</details>
 
-# DEEP HYPOTHERMIC CIRCULATORY ARREST AND CEREBRAL PROTECTION
+</div>
+</details>
+ A standard two-stage venous cannula is used unless performing concomitant mitral or tricuspid surgery.
+</div>
+</details>
 
-The use of deep hypothermic circulatory arrest (DHCA) was first described in conjunction with cardiac operations in the 1960s. <sup>115</sup> In the 1970s, there was renewed interest in DHCA after its successful use during repair of complex congenital defects. <sup>116</sup> Later, Greipp and Stinson reported the first case series using DHCA during arch aneurysm repairs and supported its efficacy in cerebral protection. <sup>117</sup> As interest in DHCA continued to grow; investigators, using dog models, illustrated how profound cerebral hypothermia dramatically decreased cerebral metabolism. <sup>118-120</sup> As knowledge of DHCA physiology increased, it promoted the development of new techniques such as antegrade and retrograde cerebral perfusion (RCP) and allowed for more complex aortic aneurysm repairs.
+</div>
+</details>
 
-There are two basic mechanisms that lead to ischemic cerebral injury during repair of proximal aortic aneurysms. While the stroke is one of the most common postoperative complications of aortic aneurysm repairs, its risk is not associated with duration of DHCA.<sup>121</sup> Rather, stroke risk is associated with plaque, clot, and the artheromatous burden in the aortic arch and brachiocephalic vessels. 122,123 The second type of brain injury is temporary neurological dysfunction (TND) and is characterized by confusion, agitation, obtundation, and even transient parkinsonism. Studies suggest that TND results from inadequate cerebral protection during DHCA. In 200 adults who underwent DHCA, 19% of patients had clinical symptoms of TND, which correlated significantly with age and the duration of DHCA (33 min in patients without TND and 47 min in those with TND). 122 Furthermore, in patients with advanced age, DHCA duration longer than 25 minutes was an independent risk factor for long-term neurocognitive impairment, specifically for worse performance on fine motor and memory testing. 124 It is posited that due to its high metabolic demand, the hippocampus is acutely sensitive to hypoperfusion, which may be the reason for memory impairment and cognitive dysfunction after DHCA.<sup>125</sup> Nonetheless, while TND does occur in some patients, clinical studies in adults after DHCA have demonstrated that a safe period of arrest is about 30 minutes at 15°C and 40 minutes at 10°C, after which cerebral anoxia occurs. 126
+<details class="med-details">
+<summary><span style="font-size:110%">DEEP HYPOTHERMIC CIRCULATORY ARREST AND CEREBRAL PROTECTION</span></summary>
+<div class="details-content">
 
-#### Cooling and Rewarming During Deep Hypothermic Circulatory Arrest
+<details class="med-details">
+<summary>History of DHCA</summary>
+<div class="details-content">
+The use of deep hypothermic circulatory arrest (DHCA) was first described in conjunction with cardiac operations in the 1960s. In the 1970s, there was renewed interest in DHCA after its successful use during repair of complex congenital defects. Later, Greipp and Stinson reported the first case series using DHCA during arch aneurysm repairs and supported its efficacy in cerebral protection. As interest in DHCA continued to grow; investigators, using dog models, illustrated how profound cerebral hypothermia dramatically decreased cerebral metabolism. As knowledge of DHCA physiology increased, it promoted the development of new techniques such as antegrade and retrograde cerebral perfusion (RCP) and allowed for more complex aortic aneurysm repairs.
+</div>
+</details>
 
-Data from Cheung et al have shown that only 60% of subjects undergoing DHCA achieve EEG silence at a core temperature of 18°C or a cooling time of 30 minutes. <sup>127</sup> In cases where EEG monitoring is not available, a safer technique is to cool for a minimum of 50 minutes, at which point 100%
+<details class="med-details">
+<summary>Two basic mechanisms that lead to ischemic cerebral injury: stroke and temporary neurological dysfunction (TND)</summary>
+<div class="details-content">
+There are two basic mechanisms that lead to ischemic cerebral injury during repair of proximal aortic aneurysms. 
+<details class="med-details">
+<summary>Stroke risk</summary>
+<div class="details-content">
+While the stroke is one of the most common postoperative complications of aortic aneurysm repairs, its risk is not associated with duration of DHCA. Rather, stroke risk is associated with plaque, clot, and the artheromatous burden in the aortic arch and brachiocephalic vessels.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Temporary neurological dysfunction (TND) and DHCA </summary>
+<div class="details-content">
+The second type of brain injury is temporary neurological dysfunction (TND) and is characterized by confusion, agitation, obtundation, and even transient parkinsonism. Studies suggest that TND results from inadequate cerebral protection during DHCA. In 200 adults who underwent DHCA, 19% of patients had clinical symptoms of TND, which correlated significantly with age and the duration of DHCA (33 min in patients without TND and 47 min in those with TND). Furthermore, in patients with advanced age, DHCA duration longer than 25 minutes was an independent risk factor for long-term neurocognitive impairment, specifically for worse performance on fine motor and memory testing. It is posited that due to its high metabolic demand, the hippocampus is acutely sensitive to hypoperfusion, which may be the reason for memory impairment and cognitive dysfunction after DHCA. Nonetheless, while TND does occur in some patients, clinical studies in adults after DHCA have demonstrated that a safe period of arrest is about 30 minutes at 15°C and 40 minutes at 10°C, after which cerebral anoxia occurs. 
+</div>
+</details>
 
-of patients will have EEG silence.<sup>128</sup> Cooling is performed maintaining less than a 2 to 3°C gradient between arterial inflow temperature and venous return temperature to ensure even cooling. Nasopharyngeal temperature and bladder temperature which correlate with intracranial temperature and core body temperature, respectively, are also monitored during cooling to guide initiation of arrest.
+</div>
+</details>
 
-During rewarming, the bladder, nasopharyngeal, and the systemic perfusion temperatures are monitored. The perfusion is kept at a gradient of not more than 10°C above the nasopharyngeal temperature. This ensures that oxygen demand will not exceed oxygen supply during the interval of cerebral vasoconstriction after DHCA. <sup>129-131</sup> Avoiding high perfusate temperatures is important and should not exceed 37°C. The bladder temperature which is raised from 32 to 34°C represents the core body temperature and will lag considerably behind the nasopharyngeal temperature. Monitoring bladder temperature helps to ensure uniform rewarming and minimize rebound hypothermia after CPB.
+<details class="med-details">
+<summary>Cooling and Rewarming During Deep Hypothermic Circulatory Arrest</summary>
+<div class="details-content">
 
-#### Cerebral Protection Techniques: Historical Perspective
+<details class="med-details">
+<summary>Cooling</summary>
+<div class="details-content">
 
-In the 1980s, mounting evidence suggested that DHCA alone was neither efficacious nor safe for the long durations of cross-clamp time and arrest required for repairing extensive, complex proximal aortic aneurysms. This necessitated the need to develop novel techniques. While first reported in 1957 by Debakey during his early aortic arch aneurysm repairs, selective antegrade cerebral perfusion (ACP) was used. The setup involved multiple pumps and bilateral cannulation of the subclavian and carotid arteries. However, this ACP technique had difficulty in uniformly perfusing separate vascular beds simultaneously,65 and resulted in high mortality rates and was quickly abandoned. It was later recognized that using ACP in combination with DHCA improved outcomes compared to DHCA alone. 132,133 In 1986, Kazui et al described his first approach with selective ACP.<sup>134</sup> His results from 1990 to 1999 showed that 220 patients underwent total arch replacement with ACP and DHCA with 12.7% in-hospital mortality and 3.3% permanent stroke rate, a significant improvement from only DHCA alone. Later in 2003, Di Eusanio demonstrated efficacy with ACP and DHCA in further reducing both risk of stroke and TND. In a multicenter trial, 580 patients underwent partial and total aortic arch replacement, the risk of permanent stroke and TND was 3.8 and 5.6%, respectively, with an overall mortality of 8.7%. 135 These results were only possible because of the introduction and refinement of the antegrade and retrograde cerebral protection techniques.
+<details class="med-details">
+<summary>Data from Cheung</summary>
+<div class="details-content">
+Data from Cheung et al have shown that only 60% of subjects undergoing DHCA achieve EEG silence at a core temperature of 18°C or a cooling time of 30 minutes.
+</div>
+</details>
+ In cases where EEG monitoring is not available, a safer technique is to cool for a minimum of 50 minutes, at which point 100% of patients will have EEG silence. Cooling is performed maintaining less than a 2 to 3°C gradient between arterial inflow temperature and venous return temperature to ensure even cooling. Nasopharyngeal temperature and bladder temperature which correlate with intracranial temperature and core body temperature, respectively, are also monitored during cooling to guide initiation of arrest.
+</div>
+</details>
 
-# Antegrade Cerebral Perfusion Techniques
+<details class="med-details">
+<summary>Rewarming: gradient of not more than 10°C!</summary>
+<div class="details-content">
+During rewarming, the bladder, nasopharyngeal, and the systemic perfusion temperatures are monitored. The perfusion is kept at a gradient of not more than 10°C above the nasopharyngeal temperature. This ensures that oxygen demand will not exceed oxygen supply during the interval of cerebral vasoconstriction after DHCA. Avoiding high perfusate temperatures is important and should not exceed 37°C. The bladder temperature which is raised from 32 to 34°C represents the core body temperature and will lag considerably behind the nasopharyngeal temperature. Monitoring bladder temperature helps to ensure uniform rewarming and minimize rebound hypothermia after CPB.
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary>Cerebral Protection Techniques: Historical Perspective</summary>
+<div class="details-content">
+
+In the 1980s, mounting evidence suggested that DHCA alone was neither efficacious nor safe for the long durations of cross-clamp time and arrest required for repairing extensive, complex proximal aortic aneurysms. This necessitated the need to develop novel techniques. While first reported in 1957 by <strong>Debakey</strong> during his early aortic arch aneurysm repairs, selective antegrade cerebral perfusion (ACP) was used. The setup involved multiple pumps and bilateral cannulation of the subclavian and carotid arteries. However, this ACP technique had difficulty in uniformly perfusing separate vascular beds simultaneously, and resulted in high mortality rates and was quickly abandoned. It was later recognized that using ACP in combination with DHCA improved outcomes compared to DHCA alone. In 1986, <strong>Kazui</strong> et al described his first approach with selective ACP. His results from 1990 to 1999 showed that 220 patients underwent total arch replacement with ACP and DHCA with 12.7% in-hospital mortality and 3.3% permanent stroke rate, a significant improvement from only DHCA alone. Later in 2003, <strong>Di Eusanio</strong> demonstrated efficacy with ACP and DHCA in further reducing both risk of stroke and TND. In a multicenter trial, 580 patients underwent partial and total aortic arch replacement, the risk of permanent stroke and TND was 3.8 and 5.6%, respectively, with an overall mortality of 8.7%. These results were only possible because of the introduction and refinement of the antegrade and retrograde cerebral protection techniques.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Antegrade Cerebral Perfusion Techniques</summary>
+<div class="details-content">
 
 Used routinely by many centers, antegrade cerebral perfusion is primarily beneficial over RCP in situations where the expected circulatory arrest time is greater than 35 to 45 minutes.
 
 Common strategies include direct cannulation of the cerebral vessels with balloon-tip catheters as described by Kazui or by right axillary cannulation. When performing direct arch vessel cannulation it is advisable to use balloon tip catheters which have individual pressure-monitoring lines so the true perfusion pressures can be monitored to avoid cerebral hypertension. Right radial artery monitoring may also be helpful. Perfusion is typically performed at 10 cc/kg/min and mean pressures are maintained at 40 to 70 mm Hg. Perfusate temperature should approximate the core temperature. Optimal protection is gained by direct perfusion of all three arch branches, not just the left common carotid and innominate arteries.
 
-Axillary cannulation is performed via cut down to the right axillary artery with a 8 to 10 mm Dacron graft sewn on in an end-side fashion (Fig. 48-18A,B). The graft is ligated
-
+Axillary cannulation is performed via cut down to the right axillary artery with a 8 to 10 mm Dacron graft sewn on in an end-side fashion (Fig. 48-18A,B). The graft is ligated at the end of the procedure. Given the fragility of the axillary artery, few surgeons cannulate it directly. As with direct cerebral vessel perfusion, perfusion pressure is maintained at 10 cc/kg/min and mean pressures are 40 to 70 mm Hg. The innominate artery is either snared or clamped at its origin. While antegrade cerebral perfusion via this method is rapid and effective, it only provides unilateral perfusion and contralateral ischemia may still occur. To maintain adequate cerebral perfusion pressure and eliminate the effect of arterial-arterial collaterals stealing flow, ideally the left common carotid and subclavian artery origins are controlled as well with additional selective cerebral catheters.
+  
 ![](_page_14_Picture_4.jpeg)
 
 ![](_page_14_Picture_5.jpeg)
 
-FIGURE 48-18 (A) Direct cannulation of axillary artery with rightangle arterial cannula (note division of crossing vein). (B) Cannulation of axillary artery with a side graft. A straight arterial cannula is inserted into graft. (Reprinted with permission, Cleveland Clinic Center for Medical Art & Photography ©2016. All rights reserved.)
+FIGURE 48-18 (A) Direct cannulation of axillary artery with rightangle arterial cannula (note division of crossing vein). (B) Cannulation of axillary artery with a side graft. A straight arterial cannula is inserted into graft. 
+</div>
+</details>
 
-at the end of the procedure. Given the fragility of the axillary artery, few surgeons cannulate it directly. As with direct cerebral vessel perfusion, perfusion pressure is maintained at 10 cc/kg/min and mean pressures are 40 to 70 mm Hg. The innominate artery is either snared or clamped at its origin. While antegrade cerebral perfusion via this method is rapid and effective, it only provides unilateral perfusion and contralateral ischemia may still occur. To maintain adequate cerebral perfusion pressure and eliminate the effect of arterial-arterial collaterals stealing flow, ideally the left common carotid and subclavian artery origins are controlled as well with additional selective cerebral catheters.<sup>137</sup>
+<details class="med-details">
+<summary>Retrograde Cerebral Perfusion Techniques</summary>
+<div class="details-content">
 
-## Retrograde Cerebral Perfusion Techniques
+RCP is an alternate technique that provides retrograde perfusion to the brain via the venous circulation. While the nutritive flow of RCP is questionable, it provides cooling and excellent de-airing of the cerebral circulation. For RCP, a 24 Fr wire reinforced cannula is placed cephalad to the azygous vein in the SVC and secured with a caval tape. RCP with oxygenated blood is adjusted to maintain a right internal jugular venous pressure of 25 mm Hg, a flow rate of 200 to 300 cc/min, with the patient in an approximately 10-degree Trendelenberg position. Minimal exsanguination into the pump is performed upon cessation of bypass to facilitate later deairing. RCP may be initiated via a Y-connection to the arterial line or from the cardioplegia system through a high pressure stopcock that can connect to the Y-connection between the SVC and right atrial cannulas. RCP may be interrupted for variable periods of time during deep hypothermia as required by various surgical maneuvers. The temperature of the retrograde perfusate is maintained at 12 to 18°C. After completion of aortic arch anastomoses, air is removed from the aorta and graft by allowing it to fill by RCP. After arch deairing, a cross-clamp is placed across the ascending aortic graft, and standard CPB with antegrade cerebral perfusion, that is, antegrade graft perfusion, is reinstituted for the final repair and rewarming. Our practice is to always reestablish antegrade flow via direct cannulation of the ascending graft using either a prefabricated 8 or 10 mm sidearm or by placing a purse-string suture in the graft and directly cannulating it.
+</div>
+</details>
 
-RCP is an alternate technique that provides retrograde perfusion to the brain via the venous circulation. While the nutritive flow of RCP is questionable, it provides cooling and excellent de-airing of the cerebral circulation. For RCP, a 24 Fr wire reinforced cannula is placed cephalad to the azygous vein in the SVC and secured with a caval tape. RCP with oxygenated blood is adjusted to maintain a right internal jugular venous pressure of 25 mm Hg, a flow rate of 200 to 300 cc/min, with the patient in an approximately 10-degree Trendelenberg position.<sup>127</sup> Minimal exsanguination into the pump is performed upon cessation of bypass to facilitate later deairing. RCP may be initiated via a Y-connection to the arterial line or from the cardioplegia system through a high pressure stopcock that can connect to the Y-connection between the SVC and right atrial cannulas. RCP may be interrupted for variable periods of time during deep hypothermia as required by various surgical maneuvers. The temperature of the retrograde perfusate is maintained at 12 to 18°C. After completion of aortic arch anastomoses, air is removed from the aorta and graft by allowing it to fill by RCP. After arch deairing, a cross-clamp is placed across the ascending aortic graft, and standard CPB with antegrade cerebral perfusion, that is, antegrade graft perfusion, is reinstituted for the final repair and rewarming. Our practice is to always reestablish antegrade flow via direct cannulation of the ascending graft using either a prefabricated 8 or 10 mm sidearm or by placing a purse-string suture in the graft and directly cannulating it.
+</div>
+</details>
 
-#### An Algorithmic Approach to Decision-Making for Proximal Aortic Aneurysms
+<details class="med-details">
+<summary><span style="font-size:110%">An Algorithmic Approach to Decision-Making for Proximal Aortic Aneurysms</span></summary>
+<div class="details-content">
 
-Choice of procedure when managing ascending or arch aortic aneurysms is predicated on a detailed understanding of individual patient anatomy and pathophysiology. The potential operative decisions include whether to replace the aortic valve, aortic sinuses, ascending aorta, or aortic arch. Any combination of these procedures is theoretically possible. A systematic approach to evaluate the aorta and aortic root begins with determining if there is a suspicion for connective tissue disorder. Patients with MFS, Ehlers-Danlos syndrome, LDS, bicuspid valve-related aortopathy, or strong family history of
-
-aortic dissection or rupture should generally be treated more aggressively by replacing the sinus segment, ascending aorta, and proximal arch as late reintervention is more likely in this group. <sup>138</sup> Proximal reconstruction in these patients may be accomplished by either root replacement or a valve-sparing root reimplantation procedure. <sup>139</sup>
-
-The next step is to determine the pathology of the aortic valve. Moderate or worse aortic stenosis with or without insufficiency generally requires replacement while the management of pure aortic insufficiency is more complex. Aortic insufficiency caused solely by dilatation of the sinotubular junction, typically from an atherosclerotic aneurysm in an elderly patient, may be full addressed with tube graft replacement of the ascending aorta alone with anastomosis to the sinotubular junction (Fig. 48-19). Care must be taken in this instance to appropriately size the graft to within 10% of the annular dimension to allow full coaptation of the aortic valve leaflets. 140 The sinus segment must also be closely interrogated. If it is particularly thin or aneurysmal this should be replaced. Normal dimensions of the sinus of Valsalva are typically 30 to 32 mm when the aortic annulus measures 23 to 24 mm and the sinotubular junction measures 24 to 25 mm.<sup>141</sup> If there are aneurysmal sinuses and annular dilatation, that is, aortoannular ectasia, but the leaflets appear fairly normal, then a valve-sparing aortic valve reimplantation is often feasible (Fig. 48-20). Technical details of this procedure are discussed in a previous chapter. If the annulus
-
+Choice of procedure when managing ascending or arch aortic aneurysms is predicated on a detailed understanding of individual patient anatomy and pathophysiology. The potential operative decisions include whether to replace the aortic valve, aortic sinuses, ascending aorta, or aortic arch. Any combination of these procedures is theoretically possible. 
+<details class="med-details">
+<summary>Suspicion for connective tissue disorder</summary>
+<div class="details-content">
+A systematic approach to evaluate the aorta and aortic root begins with determining if there is a suspicion for connective tissue disorder. Patients with MFS, Ehlers-Danlos syndrome, LDS, bicuspid valve-related aortopathy, or strong family history of aortic dissection or rupture should generally be treated more aggressively by replacing the sinus segment, ascending aorta, and proximal arch as late reintervention is more likely in this group.  Proximal reconstruction in these patients may be accomplished by either root replacement or a valve-sparing root reimplantation procedure.
+</div>
+</details>
+ 
+<details class="med-details">
+<summary>Aortic valve</summary>
+<div class="details-content">
+The next step is to determine the pathology of the aortic valve. Moderate or worse aortic stenosis with or without insufficiency generally requires replacement while the management of pure aortic insufficiency is more complex. Aortic insufficiency caused solely by dilatation of the sinotubular junction, typically from an atherosclerotic aneurysm in an elderly patient, may be full addressed with tube graft replacement of the ascending aorta alone with anastomosis to the sinotubular junction (Fig. 48-19). Care must be taken in this instance to appropriately size the graft to within 10% of the annular dimension to allow full coaptation of the aortic valve leaflets.  The sinus segment must also be closely interrogated. If it is particularly thin or aneurysmal this should be replaced. Normal dimensions of the sinus of Valsalva are typically 30 to 32 mm when the aortic annulus measures 23 to 24 mm and the sinotubular junction measures 24 to 25 mm. If there are aneurysmal sinuses and annular dilatation, that is, aortoannular ectasia, but the leaflets appear fairly normal, then a valve-sparing aortic valve reimplantation is often feasible (Fig. 48-20). Technical details of this procedure are discussed in a previous chapter. If the annulus or sinusus are dilated and the leaflets are abnormal and not repairable, root replacement is performed. 
+<details class="med-details">
+<summary>Prosthesis selection</summary>
+<div class="details-content">
+Prosthesis options include prefashioned composite mechanical root prostheses, sewing a stented tissue valve to a conduit, or using a porcine bioroot. Prosthesis selection is based on several competing factors including the elevated hazard for structural deterioration of biologic prostheses in younger patients, anticoagulant-related complications with mechanical prostheses, complexity and difficulty of performing future redo root replacements for bioprosthetic failure, and the growing trend toward the avoidance of warfarin in younger patients. The innovation of transcatheter valves, which have the potential to extend the life of a biologic root prosthesis without repeat sternotomy, has generated interest in using these prostheses in younger patients.  Pulmonary autografts may also be used as root replacements, but their practicality in aneurysm patients is somewhat limited as degenerative aneurysms tend to occur in older patients who would not benefit from the durability of the pulmonary autograft. Younger aneurysm patients, who could potentially benefit, frequently have bicuspid pathology or connective tissue disorders that may lead to early valve failure. Bicuspid patients have been shown to have significant histologic arterial wall derangements including the cystic medial necrosis, elastic fragmentation, and changes in the smooth muscle cell orientation in the autograft root.
+</div>
+</details>
+  
 ![](_page_15_Picture_4.jpeg)
 
 **FIGURE 48-19** Replacement of the ascending aorta and transverse arch with an aggressive hemiarch anastomosis.
@@ -482,23 +677,49 @@ The next step is to determine the pathology of the aortic valve. Moderate or wor
 
 **FIGURE 48-20** Valve-sparing aortic root reimplantation using a Dacron graft with a premade Sinus of Valsalva segment.
 
-or sinusus are dilated and the leaflets are abnormal and not repairable, root replacement is performed. Prosthesis options include prefashioned composite mechanical root prostheses, sewing a stented tissue valve to a conduit, or using a porcine bioroot. Prosthesis selection is based on several competing factors including the elevated hazard for structural deterioration of biologic prostheses in younger patients, anticoagulant-related complications with mechanical prostheses, complexity and difficulty of performing future redo root replacements for bioprosthetic failure, and the growing trend toward the avoidance of warfarin in younger patients. The innovation of transcatheter valves, which have the potential to extend the life of a biologic root prosthesis without repeat sternotomy, has generated interest in using these prostheses in younger patients. 142 Pulmonary autografts may also be used as root replacements, but their practicality in aneurysm patients is somewhat limited as degenerative aneurysms tend to occur in older patients who would not benefit from the durability of the pulmonary autograft. Younger aneurysm patients, who could potentially benefit, frequently have bicuspid pathology or connective tissue disorders that may lead to early valve failure. Bicuspid patients have been shown to have significant histologic arterial wall derangements including the cystic medial necrosis, elastic fragmentation, and changes in the smooth muscle cell orientation in the autograft root.143
 
-In patients where there is an isolated dilatation of the noncoronary sinus in degenerative aneurysms with preserved sinus dimensions in the coronary sinuses, the noncoronary sinus may be individually excised and a "tongue" of the ascending aortic graft is used to reconstruct this sinus with the rest of the graft anastomosed above the native annulus, that is, a Yacoub-type remodeling procedure isolated to the noncoronary sinus. <sup>144</sup> Such a procedure carries the risk of late dilatation or suture-line disruption as the remaining aortic tissue is often thin and weak. It is also possible to perform an isolated noncoronary sinus reimplantation as described by David and Feindel. <sup>145</sup> Unless operative risk is prohibitive, it is preferential to perform a full root replacement or reimplantation in such patients rather than treat only one sinus.
+<details class="med-details">
+<summary>Isolated dilatation of the noncoronary sinus</summary>
+<div class="details-content">
+In patients where there is an isolated dilatation of the noncoronary sinus in degenerative aneurysms with preserved sinus dimensions in the coronary sinuses, the noncoronary sinus may be individually excised and a "tongue" of the ascending aortic graft is used to reconstruct this sinus with the rest of the graft anastomosed above the native annulus, that is, a Yacoub-type remodeling procedure isolated to the noncoronary sinus. Such a procedure carries the risk of late dilatation or suture-line disruption as the remaining aortic tissue is often thin and weak. It is also possible to perform an isolated noncoronary sinus reimplantation as described by David and Feindel.  Unless operative risk is prohibitive, it is preferential to perform a full root replacement or reimplantation in such patients rather than treat only one sinus.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Modified Wheat procedure</summary>
+<div class="details-content">
 In cases where the aortic valve needs to be replaced due to leaflet pathology, the sinus segment is not aneurysmal and there is an ascending aneurysm, a modified Wheat procedure with replacement of the aortic valve and placement of a tube graft to the sinotubular junction is used (Fig. 48-21). This approach is especially useful in elderly patients who have mild-to-moderate sinus segment dilatation but a root replacement carries significant extra perioperative risk and the likelihood of future proximal reoperation is negligible.
+</div>
+</details>
 
-Distal repair may be done as either a total arch, hemiarch, open distal, or clamped distal anastomosis. Aneurysmal extension into the proximal aortic arch is a common variant and is well treated with an aggressive hemi-arch. Resection of the ascending aorta to the innominate artery on the greater curve and to the level of the subclavian take-off on the lesser curve provides excellent protection from future aneurysmal
+</div>
+</details>
 
+<details class="med-details">
+<summary>Distal repair</summary>
+<div class="details-content">
+Distal repair may be done as either a total arch, hemiarch, open distal, or clamped distal anastomosis. Aneurysmal extension into the proximal aortic arch is a common variant and is well treated with an aggressive hemi-arch. Resection of the ascending aorta to the innominate artery on the greater curve and to the level of the subclavian take-off on the lesser curve provides excellent protection from future aneurysmal degeneration of the arch (Fig. 48-21). While clamped techniques for the distal anastomosis are suitable for isolated root pathologies such as complex endocarditis repair, in aneurysm cases it is preferable to excise the cross-clamped portion of aorta and perform an open distal anastomosis.
+  
 ![](_page_16_Picture_5.jpeg)
 
 **FIGURE 48-21** Separate ascending aortic replacement and aortic valve replacement with retention of the native sinus segment.
 
-degeneration of the arch (Fig. 48-21). While clamped techniques for the distal anastomosis are suitable for isolated root pathologies such as complex endocarditis repair, in aneurysm cases it is preferable to excise the cross-clamped portion of aorta and perform an open distal anastomosis.
-
+<details class="med-details">
+<summary>Total arch replacement with or without elephant trunk (ET)</summary>
+<div class="details-content">
 Total arch replacement with or without elephant trunk (ET) extension is typically reserved for patients with full arch aneurysms extending into the descending thoracic aorta or mega-aorta syndrome. The key decision point when determining the aggressiveness of the arch operation is to determine whether the open proximal operation will completely treat the pathology or if further intervention of the distal arch/descending aorta is required. If open intervention of the distal aorta is anticipated, creation of an ET anastomosis will prevent the need for circulatory arrest in the second stage. If thoracic endovascular aortic repair (TEVAR) is anticipated, creation of a 3 to 4 cm Dacron landing zone for TEVAR placement by forward mobilization of the cerebral vessels is a simpler approach than ET and avoids the difficulty of cannulating the free-floating ET for TEVAR. These approaches as well as debranching and hybrid approaches are described later in this chapter.
+</div>
+</details>
 
-# ASCENDING AORTIC REPLACEMENT: SPECIFIC OPERATIVE TECHNIQUES
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary><span style="font-size:110%">ASCENDING AORTIC REPLACEMENT: SPECIFIC OPERATIVE TECHNIQUES</span></summary>
+<div class="details-content">
 
 After the aortic cross-clamp is applied and cardioplegic arrest is achieved as described above, the ascending aorta is transected about 1 cm below the clamp and resected to the level of the sinotubular junction. The aorta is carefully freed from the pulmonary artery using low-energy electrocautery. Using a metric sizer, the diameter of the sinotubular junction that provides adequate leaflet coaptation is determined and this should be within 10% of the annular diameter. The aortic valve is inspected to ensure that it is trileaflet and free from significant calcification or leaflet pathology. If the aortic valve is to be replaced, this is performed at this point using standard techniques. An appropriate size graft is then anastomosed to the sinotubular junction using a running 4-0 polypropylene. The external aspect may be reinforced with Teflon felt if the aorta appears especially thin and a root replacement is not feasible. In cases of acute dissection individual pledgeted sutures are placed at upper aspects of the commissures to resuspend the aortic valve and Teflon felt is placed inside between the dissected layers to form a robust neomedia that can hold sutures.
 
@@ -541,6 +762,9 @@ aortic graft, and follow a gentle s-shaped curve to prevent kinking. In cases of
 #### **Distal Anastomosis**
 
 Distal reconstruction is performed as a clamped or open anastomosis. In aneurysm cases, open distal techniques which eliminate all diseased aorta and the weakened cross-clamp site are routinely employed. Circulatory arrest techniques as previously described are employed. Distal anastomoses are performed with a beveled polyester graft using a running 4-0 polypropylene suture. The distal anastomosis is performed as an "on-lay" type anastomosis with the graft invaginated into the distal aorta. This pushes the graft material into the native aorta when the aorta is pressurized and prevents leaks. In cases of extremely friable aorta, Teflon felt placed along the outer aspect may also be beneficial but does not substitute for a proper "on-lay" technique.
+</div>
+</details>
+
 
 # ENDOVASCULAR APPROACHES FOR THE ASCENDING AORTA
 
