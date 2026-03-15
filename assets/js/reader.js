@@ -344,20 +344,22 @@ function _initRadialMenu() {
     const trigger    = document.getElementById('radial-trigger');
     const backdrop   = document.getElementById('radial-backdrop');
     const fontPicker = document.getElementById('font-picker');
+    const editionPicker = document.getElementById('edition-picker');
 
     if (!container || !trigger) return;
 
     _restoreMenuPosition(container);
     _initDrag(container, trigger);
 
-    // Toggle open/close (only if not a drag gesture)
+    // Toggle open/close
     trigger.addEventListener('click', (e) => {
         e.stopPropagation();
         if (container.classList.contains('was-dragged')) {
             container.classList.remove('was-dragged');
             return;
         }
-        if (fontPicker) fontPicker.classList.remove('visible');
+        if (fontPicker)    fontPicker.classList.remove('visible');
+        if (editionPicker) editionPicker.classList.remove('visible');
         const opening = !container.classList.contains('open');
         container.classList.toggle('open');
         document.body.classList.toggle('radial-open');
@@ -368,31 +370,89 @@ function _initRadialMenu() {
         backdrop.addEventListener('click', () => {
             container.classList.remove('open');
             document.body.classList.remove('radial-open');
-            if (fontPicker) fontPicker.classList.remove('visible');
+            if (fontPicker)    fontPicker.classList.remove('visible');
+            if (editionPicker) editionPicker.classList.remove('visible');
         });
     }
 
-    // Button actions
+    // Outer ring actions
     document.querySelectorAll('.radial-item').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.stopPropagation();
             const action = btn.dataset.action;
-            if      (action === 'font-decrease') { _changeFontSize(-1); }
-            else if (action === 'font-increase') { _changeFontSize(+1); }
-            else if (action === 'collapse-all')  { _toggleAllDetails(false); _closeMenu(); }
-            else if (action === 'expand-all')    { _toggleAllDetails(true);  _closeMenu(); }
-            else if (action === 'scroll-top')    { window.scrollTo({ top: 0, behavior: 'smooth' }); _closeMenu(); }
-            else if (action === 'font-pick')     { if (fontPicker) fontPicker.classList.toggle('visible'); }
-            else if (action === 'night-mode')    { _toggleNightMode(); _closeMenu(); }
-            else if (action === 'sepia-mode')    { _toggleSepiaMode(); _closeMenu(); }
-            else if (action === 'text-width')    { _cycleTextWidth(); }
-            else if (action === 'lh-increase')   { _changeLineHeight(+0.15); }
-            else if (action === 'lh-decrease')   { _changeLineHeight(-0.15); }
-            else if (action === 'search-open')   { _openSearch(); _closeMenu(); }
-            else if (action === 'print-chapter') { _printChapter(); _closeMenu(); }
+            if      (action === 'font-decrease')  { _changeFontSize(-1); }
+            else if (action === 'font-increase')  { _changeFontSize(+1); }
+            else if (action === 'collapse-all')   { _toggleAllDetails(false); _closeMenu(); }
+            else if (action === 'expand-all')     { _toggleAllDetails(true);  _closeMenu(); }
+            else if (action === 'scroll-top')     { window.scrollTo({ top: 0, behavior: 'smooth' }); _closeMenu(); }
+            else if (action === 'font-pick')      { if (fontPicker) { fontPicker.classList.toggle('visible'); if (editionPicker) editionPicker.classList.remove('visible'); } }
+            else if (action === 'night-mode')     { _toggleNightMode(); _closeMenu(); }
+            else if (action === 'sepia-mode')     { _toggleSepiaMode(); _closeMenu(); }
+            else if (action === 'text-width')     { _cycleTextWidth(); }
+            else if (action === 'lh-increase')    { _changeLineHeight(+0.15); }
+            else if (action === 'lh-decrease')    { _changeLineHeight(-0.15); }
+            else if (action === 'search-open')    { _openSearch(); _closeMenu(); }
+            else if (action === 'print-chapter')  { _printChapter(); _closeMenu(); }
         });
     });
 
+    // Inner ring actions
+    document.querySelectorAll('.radial-item-inner').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const action = btn.dataset.action;
+            if (action === 'go-library') {
+                window.location.href = 'index.html';
+            } else if (action === 'edition-pick') {
+                if (editionPicker) {
+                    editionPicker.classList.toggle('visible');
+                    if (fontPicker)    fontPicker.classList.remove('visible');
+                    const cp = document.getElementById('chapter-picker');
+                    if (cp) cp.classList.remove('visible');
+                    _syncEditionPickerUI();
+                }
+            } else if (action === 'chapter-pick') {
+                const cp = document.getElementById('chapter-picker');
+                if (cp) {
+                    const opening = !cp.classList.contains('visible');
+                    cp.classList.toggle('visible');
+                    if (opening) _populateChapterPicker();
+                    if (editionPicker) editionPicker.classList.remove('visible');
+                    if (fontPicker)    fontPicker.classList.remove('visible');
+                }
+            } else if (action === 'focus-mode') {
+                document.body.classList.toggle('focus-mode');
+                _closeMenu();
+            } else if (action === 'bookmark-panel') {
+                const panel = document.getElementById('bookmarks-panel');
+                if (panel) {
+                    const visible = panel.style.display !== 'none';
+                    panel.style.display = visible ? 'none' : 'block';
+                    if (!visible) _renderBookmarksList();
+                }
+                _closeMenu();
+            }
+        });
+    });
+
+    // Edition picker buttons
+    if (editionPicker) {
+        editionPicker.querySelectorAll('.edition-option').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const edition = btn.dataset.edition;
+                editionPicker.classList.remove('visible');
+                _closeMenu();
+                // Trigger navigation via updateUrl if available
+                if (typeof updateUrl === 'function' && _currentChapterId) {
+                    const params = new URLSearchParams(window.location.search);
+                    updateUrl(params.get('book'), _currentChapterId, edition);
+                }
+            });
+        });
+    }
+
+    // Font picker buttons
     if (fontPicker) {
         fontPicker.querySelectorAll('.font-option').forEach(btn => {
             btn.addEventListener('click', (e) => {
@@ -405,6 +465,7 @@ function _initRadialMenu() {
     }
 
     _syncFontPickerUI();
+    _syncEditionPickerUI();
     _applyNightMode();
     _applySepiaMode();
     _applyTextWidth();
@@ -418,48 +479,58 @@ function _initRadialMenu() {
 // ==========================================================================
 
 function _positionItems(container) {
-    const items  = Array.from(container.querySelectorAll('.radial-item'));
-    const n      = items.length;
-    const R      = 88; // radius px
-    const ITEM_W = 42;
+    const R_OUTER = 95;  // outer ring radius px
+    const R_INNER = 52;  // inner ring radius px
 
-    // Determine button center in viewport
-    const rect    = container.getBoundingClientRect();
-    const cx      = rect.left + rect.width  / 2;
-    const cy      = rect.top  + rect.height / 2;
-    const vw      = window.innerWidth;
-    const vh      = window.innerHeight;
+    // Determine button center in viewport for adaptive start angle
+    const rect   = container.getBoundingClientRect();
+    const cx     = rect.left + rect.width  / 2;
+    const cy     = rect.top  + rect.height / 2;
+    const normX  = cx / window.innerWidth;
+    const normY  = cy / window.innerHeight;
 
-    // Choose start angle so items open away from the nearest corner/edge.
-    // Compute which quadrant the button is in and offset the circle start.
-    const normX = cx / vw; // 0=left, 1=right
-    const normY = cy / vh; // 0=top,  1=bottom
-
-    // Base start angle in degrees (0° = right, CCW positive like math)
-    // We want items to point away from the nearest edge.
     let startAngleDeg;
-    if      (normX > 0.6 && normY > 0.6) startAngleDeg = 135;  // bottom-right → open top-left
-    else if (normX < 0.4 && normY > 0.6) startAngleDeg = 45;   // bottom-left  → open top-right
-    else if (normX > 0.6 && normY < 0.4) startAngleDeg = 225;  // top-right    → open bottom-left
-    else if (normX < 0.4 && normY < 0.4) startAngleDeg = 315;  // top-left     → open bottom-right
-    else if (normX > 0.6)                startAngleDeg = 180;   // right edge   → open left
-    else if (normX < 0.4)                startAngleDeg = 0;     // left edge    → open right
-    else if (normY > 0.6)                startAngleDeg = 90;    // bottom edge  → open up
-    else                                 startAngleDeg = 270;   // top edge / center → open down
+    if      (normX > 0.6 && normY > 0.6) startAngleDeg = 135;
+    else if (normX < 0.4 && normY > 0.6) startAngleDeg = 45;
+    else if (normX > 0.6 && normY < 0.4) startAngleDeg = 225;
+    else if (normX < 0.4 && normY < 0.4) startAngleDeg = 315;
+    else if (normX > 0.6)                startAngleDeg = 180;
+    else if (normX < 0.4)                startAngleDeg = 0;
+    else if (normY > 0.6)                startAngleDeg = 90;
+    else                                 startAngleDeg = 270;
 
     const startRad = startAngleDeg * Math.PI / 180;
-    const step     = (2 * Math.PI) / n;
 
-    items.forEach((item, i) => {
-        const angle = startRad + i * step;
-        // CSS translate: x right = cos(angle)*R, y down = -sin(angle)*R
-        const tx = Math.round(Math.cos(angle) * R);
-        const ty = Math.round(-Math.sin(angle) * R);
+    // --- Outer ring ---
+    const outerItems = Array.from(container.querySelectorAll('.radial-item'));
+    const nOuter     = outerItems.length;
+    const stepOuter  = (2 * Math.PI) / nOuter;
 
-        const translateStr = `translate(${tx}px, ${ty}px)`;
-        item.style.setProperty('--item-translate', translateStr);
-        item.style.transform       = `${translateStr} scale(1)`;
-        item.style.transitionDelay = (i * 0.035) + 's';
+    outerItems.forEach((item, i) => {
+        const angle = startRad + i * stepOuter;
+        const tx = Math.round(Math.cos(angle) * R_OUTER);
+        const ty = Math.round(-Math.sin(angle) * R_OUTER);
+        const t  = `translate(${tx}px, ${ty}px)`;
+        item.style.setProperty('--item-translate', t);
+        item.style.transform       = `${t} scale(1)`;
+        item.style.transitionDelay = (i * 0.03) + 's';
+    });
+
+    // --- Inner ring ---
+    const innerItems = Array.from(container.querySelectorAll('.radial-item-inner'));
+    const nInner     = innerItems.length;
+    const stepInner  = (2 * Math.PI) / nInner;
+    // Inner ring starts at same angle + half-step offset for visual balance
+    const startInner = startRad + stepInner / 2;
+
+    innerItems.forEach((item, i) => {
+        const angle = startInner + i * stepInner;
+        const tx = Math.round(Math.cos(angle) * R_INNER);
+        const ty = Math.round(-Math.sin(angle) * R_INNER);
+        const t  = `translate(${tx}px, ${ty}px)`;
+        item.style.setProperty('--inner-translate', t);
+        item.style.transform       = `${t} scale(1)`;
+        item.style.transitionDelay = (i * 0.03 + 0.05) + 's'; // slight delay after outer
     });
 }
 
@@ -541,9 +612,62 @@ function _restoreMenuPosition(container) {
 }
 
 function _closeMenu() {
-    const container = document.getElementById('radial-menu-container');
-    if (container) container.classList.remove('open');
+    const container     = document.getElementById('radial-menu-container');
+    const editionPicker = document.getElementById('edition-picker');
+    const fontPicker    = document.getElementById('font-picker');
+    const chapterPicker = document.getElementById('chapter-picker');
+    if (container)     container.classList.remove('open');
+    if (editionPicker) editionPicker.classList.remove('visible');
+    if (fontPicker)    fontPicker.classList.remove('visible');
+    if (chapterPicker) chapterPicker.classList.remove('visible');
     document.body.classList.remove('radial-open');
+}
+
+function _populateChapterPicker() {
+    const list = document.getElementById('chapter-picker-list');
+    if (!list) return;
+    list.innerHTML = '';
+
+    const params  = new URLSearchParams(window.location.search);
+    const edition = params.get('edition') || 'original';
+
+    // Read chapters from the already-rendered sidebar chapter-list
+    document.querySelectorAll('#chapter-list .chapter-item').forEach(item => {
+        const chId    = item.dataset.chapterId;
+        const title   = item.textContent.replace(/●/g, '').trim(); // strip read dots
+        const isActive = (chId === _currentChapterId);
+
+        const btn = document.createElement('button');
+        btn.className = 'chapter-picker-item' + (isActive ? ' active' : '');
+        btn.textContent = title;
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            document.getElementById('chapter-picker')?.classList.remove('visible');
+            _closeMenu();
+            if (typeof updateUrl === 'function') {
+                updateUrl(params.get('book'), chId, edition);
+            }
+        });
+        list.appendChild(btn);
+    });
+
+    if (!list.children.length) {
+        list.innerHTML = '<div style="padding:8px;color:#999;font-size:0.8rem">No chapters loaded</div>';
+    }
+}
+
+function _syncEditionPickerUI() {
+    const params  = new URLSearchParams(window.location.search);
+    const current = params.get('edition') || 'original';
+    document.querySelectorAll('.edition-option').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.edition === current);
+    });
+    // Update the inner ring button label to show current edition
+    const btn = document.querySelector('[data-action="edition-pick"]');
+    if (btn) {
+        const labels = { original:'EN', russian:'RU', starley:'STL', hebrew:'HE' };
+        btn.textContent = labels[current] || 'EN';
+    }
 }
 
 // ---- Font size ----
@@ -691,35 +815,29 @@ function _syncThemeButtons() {
 //  SEARCH WITH AUTO-EXPAND
 // ==========================================================================
 
-let _searchMatches  = [];
-let _searchCurrent  = -1;
-let _searchOrigHTML = null; // snapshot of content innerHTML before highlighting
+let _searchMatches = [];
+let _searchCurrent = -1;
 
 function _initSearch() {
-    const panel    = document.getElementById('search-panel');
-    const input    = document.getElementById('search-input');
-    const countEl  = document.getElementById('search-count');
-    const btnPrev  = document.getElementById('search-prev');
-    const btnNext  = document.getElementById('search-next');
-    const btnClose = document.getElementById('search-close');
-
+    const panel = document.getElementById('search-panel');
+    const input = document.getElementById('search-input');
     if (!panel || !input) return;
 
-    input.addEventListener('input', () => _runSearch(input.value));
-
-    input.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') {
-            e.shiftKey ? _searchStep(-1) : _searchStep(+1);
-        } else if (e.key === 'Escape') {
-            _closeSearch();
-        }
+    let _debounceTimer = null;
+    input.addEventListener('input', () => {
+        clearTimeout(_debounceTimer);
+        _debounceTimer = setTimeout(() => _runSearch(input.value.trim()), 180);
     });
 
-    btnNext ?.addEventListener('click', () => _searchStep(+1));
-    btnPrev ?.addEventListener('click', () => _searchStep(-1));
-    btnClose?.addEventListener('click', () => _closeSearch());
+    input.addEventListener('keydown', (e) => {
+        if      (e.key === 'Enter')  { e.shiftKey ? _searchStep(-1) : _searchStep(+1); }
+        else if (e.key === 'Escape') { e.stopPropagation(); _closeSearch(); }
+    });
 
-    // Ctrl+F / Cmd+F override
+    document.getElementById('search-next') ?.addEventListener('click', () => _searchStep(+1));
+    document.getElementById('search-prev') ?.addEventListener('click', () => _searchStep(-1));
+    document.getElementById('search-close')?.addEventListener('click', () => _closeSearch());
+
     document.addEventListener('keydown', (e) => {
         if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
             e.preventDefault();
@@ -732,18 +850,23 @@ function _openSearch() {
     const panel = document.getElementById('search-panel');
     const input = document.getElementById('search-input');
     if (!panel) return;
+    panel.style.display = 'block';
+    panel.offsetHeight; // force reflow for transition
     panel.classList.add('open');
-    setTimeout(() => input?.focus(), 50);
+    setTimeout(() => { if (input) { input.focus(); input.select(); } }, 60);
 }
 
 function _closeSearch() {
     const panel = document.getElementById('search-panel');
     if (!panel) return;
     panel.classList.remove('open');
+    setTimeout(() => { panel.style.display = 'none'; }, 280);
     _clearSearchHighlights();
-    _searchMatches  = [];
-    _searchCurrent  = -1;
+    _searchMatches = [];
+    _searchCurrent = -1;
+    const input   = document.getElementById('search-input');
     const countEl = document.getElementById('search-count');
+    if (input)   input.value = '';
     if (countEl) countEl.textContent = '';
 }
 
@@ -761,50 +884,52 @@ function _runSearch(query) {
     const area = document.getElementById('content-area');
     if (!area) return;
 
-    // First: expand all details so text nodes are accessible
+    // Expand all details so hidden text is accessible
     area.querySelectorAll('details').forEach(d => { d.open = true; });
 
-    // Walk text nodes and wrap matches
-    const regex = new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
-    _walkTextNodes(area, regex);
+    // Build regex (escape special chars)
+    const escaped = query.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+    const regex = new RegExp(escaped, 'gi');
+
+    _highlightTextNodes(area, regex);
 
     _searchMatches = Array.from(area.querySelectorAll('.search-highlight'));
+
     if (countEl) {
         countEl.textContent = _searchMatches.length
-            ? `1 / ${_searchMatches.length}`
+            ? '1 / ' + _searchMatches.length
             : 'no results';
     }
 
     if (_searchMatches.length) {
         _searchCurrent = 0;
-        _activateMatch(0);
+        _activateMatch(0, false);
     }
 }
 
-function _walkTextNodes(root, regex) {
-    // Collect text nodes first to avoid live NodeList issues
+function _highlightTextNodes(root, regex) {
     const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
-        acceptNode(node) {
-            // Skip script, style, already-highlighted spans
+        acceptNode: function(node) {
             const p = node.parentElement;
             if (!p) return NodeFilter.FILTER_REJECT;
-            if (['SCRIPT','STYLE','TEXTAREA','INPUT'].includes(p.tagName))
+            if (['SCRIPT','STYLE','INPUT','TEXTAREA'].includes(p.tagName))
                 return NodeFilter.FILTER_REJECT;
-            if (p.classList.contains('search-highlight'))
+            if (p.classList && p.classList.contains('search-highlight'))
                 return NodeFilter.FILTER_REJECT;
-            return node.textContent.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_SKIP;
+            return NodeFilter.FILTER_ACCEPT;
         }
     });
 
-    const nodes = [];
-    let node;
-    while ((node = walker.nextNode())) nodes.push(node);
+    const textNodes = [];
+    let n;
+    while ((n = walker.nextNode())) textNodes.push(n);
 
-    nodes.forEach(textNode => {
-        const text = textNode.textContent;
-        if (!regex.test(text)) return;
+    textNodes.forEach(function(textNode) {
+        regex.lastIndex = 0;
+        if (!regex.test(textNode.textContent)) return;
         regex.lastIndex = 0;
 
+        const text = textNode.textContent;
         const frag = document.createDocumentFragment();
         let last = 0, m;
         while ((m = regex.exec(text)) !== null) {
@@ -817,41 +942,45 @@ function _walkTextNodes(root, regex) {
         }
         if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
         textNode.parentNode.replaceChild(frag, textNode);
-        regex.lastIndex = 0;
     });
 }
 
 function _clearSearchHighlights() {
-    document.querySelectorAll('.search-highlight').forEach(span => {
-        span.replaceWith(document.createTextNode(span.textContent));
+    const area = document.getElementById('content-area');
+    if (!area) return;
+    area.querySelectorAll('.search-highlight').forEach(function(span) {
+        span.parentNode.replaceChild(document.createTextNode(span.textContent), span);
     });
-    // Normalize text nodes
-    document.getElementById('content-area')?.normalize();
+    area.normalize();
 }
 
 function _searchStep(dir) {
     if (!_searchMatches.length) return;
     _searchCurrent = (_searchCurrent + dir + _searchMatches.length) % _searchMatches.length;
-    _activateMatch(_searchCurrent);
-    const countEl = document.getElementById('search-count');
-    if (countEl) countEl.textContent = `${_searchCurrent + 1} / ${_searchMatches.length}`;
+    _activateMatch(_searchCurrent, true);
 }
 
-function _activateMatch(idx) {
-    _searchMatches.forEach(m => m.classList.remove('search-current'));
+function _activateMatch(idx, updateCounter) {
+    _searchMatches.forEach(function(m) { m.classList.remove('search-current'); });
     const el = _searchMatches[idx];
     if (!el) return;
     el.classList.add('search-current');
 
-    // Auto-expand any parent <details> that contain this match
-    let parent = el.parentElement;
-    while (parent && parent.id !== 'content-area') {
-        if (parent.tagName === 'DETAILS') parent.open = true;
-        parent = parent.parentElement;
+    // Open any ancestor <details>
+    let p = el.parentElement;
+    while (p && p.id !== 'content-area') {
+        if (p.tagName === 'DETAILS') p.open = true;
+        p = p.parentElement;
     }
 
     el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+    if (updateCounter) {
+        const countEl = document.getElementById('search-count');
+        if (countEl) countEl.textContent = (idx + 1) + ' / ' + _searchMatches.length;
+    }
 }
+
 
 // ==========================================================================
 //  BOOKMARKS

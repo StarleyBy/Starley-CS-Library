@@ -8,10 +8,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600;700&family=Nunito:wght@400;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Literata:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/reader.css?v=1.2">
+    <link rel="stylesheet" href="assets/css/reader.css?v=2.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
-<body class="reader-body">
+<body class="reader-body font-inter">
     <!-- Reading progress bar -->
     <div id="reading-progress-bar"></div>
 
@@ -54,8 +54,8 @@
         </main>
     </div>
 
-    <!-- Search panel -->
-    <div id="search-panel" class="search-panel">
+    <!-- Search panel (hidden by default, opens from bottom) -->
+    <div id="search-panel" class="search-panel" style="display:none">
         <div class="search-inner">
             <input id="search-input" type="text" placeholder="Search in chapter…" autocomplete="off" spellcheck="false">
             <span id="search-count" class="search-count"></span>
@@ -81,7 +81,26 @@
             <button class="font-option" data-font="literata">Literata <span class="font-tag">serif · e-reader</span></button>
             <button class="font-option" data-font="mono">JetBrains Mono <span class="font-tag">mono</span></button>
         </div>
-        <!-- Action buttons (order = animation order 1→8, positions set by JS) -->
+        <!-- Inner ring: navigation (5 buttons, radius ~52px) -->
+        <div id="radial-items-inner">
+            <button class="radial-item-inner rii-gray"   data-action="go-library"     data-tooltip="Library">⌂</button>
+            <button class="radial-item-inner rii-blue"   data-action="edition-pick"   data-tooltip="Edition">EN</button>
+            <button class="radial-item-inner rii-indigo" data-action="focus-mode"     data-tooltip="Focus mode">⛶</button>
+            <button class="radial-item-inner rii-amber"  data-action="bookmark-panel" data-tooltip="Bookmarks">🔖</button>
+            <button class="radial-item-inner rii-green"  data-action="chapter-pick"   data-tooltip="Chapters" style="font-size:0.7rem">≡</button>
+        </div>
+        <!-- Edition picker popup -->
+        <div id="edition-picker">
+            <button class="edition-option" data-edition="original">EN <span class="font-tag">English</span></button>
+            <button class="edition-option" data-edition="russian">RU <span class="font-tag">Russian</span></button>
+            <button class="edition-option" data-edition="starley">STL <span class="font-tag">Starley</span></button>
+            <button class="edition-option" data-edition="hebrew">HE <span class="font-tag">Hebrew</span></button>
+        </div>
+        <!-- Chapter picker popup -->
+        <div id="chapter-picker">
+            <div class="chapter-picker-header">Chapters</div>
+            <div id="chapter-picker-list"></div>
+        </div>
         <div id="radial-items">
             <button class="radial-item ri-teal"   data-action="scroll-top"    data-tooltip="Scroll to top">↑</button>
             <button class="radial-item ri-green"  data-action="expand-all"    data-tooltip="Expand all">⊞</button>
@@ -105,7 +124,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="assets/js/config.js?v=1.1"></script>
-    <script src="assets/js/reader.js?v=1.1"></script>
-    <script src="assets/js/navigation.js?v=1.1"></script>
+    <script src="assets/js/reader.js?v=2.0"></script>
+    <script src="assets/js/navigation.js?v=2.0"></script>
 </body>
 </html>
