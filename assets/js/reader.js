@@ -472,6 +472,7 @@ function _initRadialMenu() {
     _applyLineHeight();
     _initSearch();
     _initBookmarks();
+    _initTooltips();
 }
 
 // ==========================================================================
@@ -532,6 +533,80 @@ function _positionItems(container) {
         item.style.transform       = `${t} scale(1)`;
         item.style.transitionDelay = (i * 0.03 + 0.05) + 's'; // slight delay after outer
     });
+}
+
+// ==========================================================================
+//  TOOLTIP MANAGER — JS-driven, fixed position, always on top, color-coded
+// ==========================================================================
+
+// Maps ri-* / rii-* class → accent color for tooltip left border
+const _TIP_COLORS = {
+    'ri-teal':   '#26d0ce', 'ri-green':  '#56ab2f', 'ri-orange': '#f7971e',
+    'ri-blue':   '#2196f3', 'ri-red':    '#e53935', 'ri-purple': '#7b1fa2',
+    'ri-pink':   '#e91e8c', 'ri-indigo': '#3949ab',
+    'rii-gray':  '#78909c', 'rii-blue':  '#29b6f6', 'rii-indigo':'#5c6bc0',
+    'rii-amber': '#f9a825', 'rii-green': '#66bb6a',
+};
+
+function _initTooltips() {
+    const MARGIN = 10; // px gap between button and tooltip
+
+    document.querySelectorAll('.radial-item, .radial-item-inner').forEach(btn => {
+        if (!btn.dataset.tooltip) return;
+
+        // Determine accent color
+        const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
+        const color = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
+        btn.style.setProperty('--tip-color', color);
+
+        let showTimer = null;
+
+        btn.addEventListener('pointerenter', () => {
+            // Small delay so tooltip doesn't flash on quick pass-through
+            showTimer = setTimeout(() => {
+                // Compute position: place tooltip to the left or right based on screen space
+                const rect = btn.getBoundingClientRect();
+                const midY = rect.top + rect.height / 2;
+
+                // Temporarily show to measure width
+                btn.classList.add('tip-visible');
+                // Use a fixed estimated width (::after content can't be measured directly)
+                const tipW = btn.dataset.tooltip.length * 7.5 + 30; // rough estimate
+
+                let tipLeft, tipRight;
+                if (rect.left > tipW + MARGIN + 10) {
+                    // Space on the left — show to left
+                    tipRight = (window.innerWidth - rect.left + MARGIN) + 'px';
+                    tipLeft  = 'auto';
+                } else {
+                    // Show to right
+                    tipLeft  = (rect.right + MARGIN) + 'px';
+                    tipRight = 'auto';
+                }
+
+                btn.style.setProperty('--tip-top',   midY + 'px');
+                btn.style.setProperty('--tip-left',  tipLeft);
+                btn.style.setProperty('--tip-right', tipRight);
+            }, 300);
+        });
+
+        btn.addEventListener('pointerleave', () => {
+            clearTimeout(showTimer);
+            btn.classList.remove('tip-visible');
+        });
+
+        // Always hide when menu closes (fixes sepia tooltip stuck issue)
+        btn.addEventListener('pointercancel', () => {
+            clearTimeout(showTimer);
+            btn.classList.remove('tip-visible');
+        });
+    });
+}
+
+// Hide all tooltips — called from _closeMenu
+function _hideAllTooltips() {
+    document.querySelectorAll('.radial-item.tip-visible, .radial-item-inner.tip-visible')
+        .forEach(btn => btn.classList.remove('tip-visible'));
 }
 
 // ==========================================================================
@@ -621,6 +696,7 @@ function _closeMenu() {
     if (fontPicker)    fontPicker.classList.remove('visible');
     if (chapterPicker) chapterPicker.classList.remove('visible');
     document.body.classList.remove('radial-open');
+    _hideAllTooltips();
 }
 
 function _populateChapterPicker() {
