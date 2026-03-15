@@ -1293,38 +1293,33 @@ body.night-mode .edition-option:hover { background: #2d4060; }
   pointer-events: auto;
 }
 
-/* Tooltip */
-/* Tooltip — real child element injected by JS, absolute to button
-   Key: button has position:relative + overflow:visible + z-index:100 on hover */
-.radial-tip {
-  position: absolute;
-  bottom: calc(100% + 8px);
-  left: 50%;
-  transform: translateX(-50%);
+/* Tooltip layer — single element in body, outside any transformed container */
+#radial-tip-layer {
+  position: fixed;
+  z-index: 9999;
   background: #1a1a2e;
   color: #fff;
   font-size: 0.74rem;
   font-weight: 500;
-  padding: 4px 10px;
-  border-radius: 5px;
-  border-bottom: 2px solid var(--tip-color, #4caf50);
+  padding: 5px 11px;
+  border-radius: 6px;
+  border-bottom: 2px solid #4caf50;
   white-space: nowrap;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.45);
   pointer-events: none;
   opacity: 0;
   transition: opacity 0.15s ease;
-  /* Ensure it renders above everything */
-  z-index: 9999;
+  /* position set entirely by JS */
+  top: 0;
+  left: 0;
+  transform: translateX(-50%);
 }
-.radial-tip.visible { opacity: 1; }
+#radial-tip-layer.visible { opacity: 1; }
 
-/* Button needs position:relative so .radial-tip absolute works,
-   and z-index elevation when hovered so tip clears siblings */
-.radial-item,
-.radial-item-inner {
-  position: relative;
-  overflow: visible !important;
-}
+/* overflow visible so tips aren't clipped by containers */
+#radial-items,
+#radial-items-inner { overflow: visible; }
+
 .radial-item:hover,
 .radial-item-inner:hover { z-index: 200; }
 

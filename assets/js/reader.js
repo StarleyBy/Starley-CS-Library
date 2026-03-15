@@ -537,9 +537,9 @@ function _positionItems(container) {
 
 // ==========================================================================
 //  TOOLTIP MANAGER
-//  Each button gets a <span class="radial-tip"> child injected once.
-//  Tooltip is position:absolute bottom:calc(100%+8px) — always above button.
-//  Button gets z-index:200 on hover so tip clears sibling buttons.
+//  Single #radial-tip-layer element lives in <body> — outside any transformed
+//  container. Position calculated from getBoundingClientRect at show time.
+//  This correctly handles the transform stacking context problem.
 // ==========================================================================
 
 const _TIP_COLORS = {
@@ -550,38 +550,65 @@ const _TIP_COLORS = {
     'rii-amber': '#f9a825', 'rii-green': '#66bb6a',
 };
 
+let _tipEl    = null;
 let _tipTimer = null;
 
 function _initTooltips() {
+    _tipEl = document.getElementById('radial-tip-layer');
+    if (!_tipEl) return;
+
     document.querySelectorAll('.radial-item, .radial-item-inner').forEach(btn => {
-        const text = btn.dataset.tooltip;
-        if (!text) return;
-
-        // Accent color from button class
-        const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
-        const color = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
-
-        // Create tip element once and append to button
-        const tip = document.createElement('span');
-        tip.className = 'radial-tip';
-        tip.textContent = text;
-        tip.style.setProperty('--tip-color', color);
-        btn.appendChild(tip);
+        if (!btn.dataset.tooltip) return;
 
         btn.addEventListener('pointerenter', () => {
             clearTimeout(_tipTimer);
-            _tipTimer = setTimeout(() => tip.classList.add('visible'), 300);
+            _tipTimer = setTimeout(() => _showTip(btn), 320);
         });
-        btn.addEventListener('pointerleave',  () => { clearTimeout(_tipTimer); tip.classList.remove('visible'); });
-        btn.addEventListener('pointercancel', () => { clearTimeout(_tipTimer); tip.classList.remove('visible'); });
-        btn.addEventListener('click',         () => { clearTimeout(_tipTimer); tip.classList.remove('visible'); });
+        btn.addEventListener('pointerleave',  _hideTip);
+        btn.addEventListener('pointercancel', _hideTip);
+        btn.addEventListener('click',         _hideTip);
     });
 }
 
-function _hideAllTooltips() {
-    clearTimeout(_tipTimer);
-    document.querySelectorAll('.radial-tip.visible').forEach(t => t.classList.remove('visible'));
+function _showTip(btn) {
+    if (!_tipEl) return;
+    const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
+    const color = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
+
+    _tipEl.textContent = btn.dataset.tooltip;
+    _tipEl.style.borderBottomColor = color;
+    _tipEl.classList.remove('visible');
+
+    // Show briefly hidden to measure real width
+    _tipEl.style.visibility = 'hidden';
+    _tipEl.style.opacity = '0';
+    _tipEl.classList.add('visible');
+
+    // getBoundingClientRect of the button — this is in viewport coords,
+    // not affected by any parent transforms
+    const r   = btn.getBoundingClientRect();
+    const tipW = _tipEl.offsetWidth;
+    const tipH = _tipEl.offsetHeight;
+
+    // Center horizontally over button, place above it
+    let left = r.left + r.width / 2;  // center X of button
+    let top  = r.top - tipH - 8;      // above button with 8px gap
+
+    // Clamp to viewport
+    left = Math.max(tipW / 2 + 4, Math.min(window.innerWidth - tipW / 2 - 4, left));
+    top  = Math.max(4, top);
+
+    _tipEl.style.left = left + 'px';
+    _tipEl.style.top  = top  + 'px';
+    _tipEl.style.visibility = '';
 }
+
+function _hideTip() {
+    clearTimeout(_tipTimer);
+    if (_tipEl) _tipEl.classList.remove('visible');
+}
+
+function _hideAllTooltips() { _hideTip(); }
 
 // ==========================================================================
 //  DRAG — pointer events, touch-friendly (touch-action:none in CSS)
