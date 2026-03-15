@@ -1147,30 +1147,7 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
 }
 
 /* Inner ring tooltip — same style as outer */
-/* Inner ring tooltips — managed by JS class .tip-visible */
-.radial-item-inner::after {
-  content: attr(data-tooltip);
-  position: fixed;       /* fixed so it's never clipped by overflow */
-  z-index: 9999;
-  background: #1a1a2e;
-  color: #fff;
-  font-size: 0.75rem;
-  font-weight: 500;
-  padding: 5px 10px 5px 12px;
-  border-radius: 6px;
-  border-left: 3px solid var(--tip-color, #29b6f6);
-  white-space: nowrap;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.35);
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.15s ease;
-  /* Position set by JS via custom props */
-  top: var(--tip-top, 50%);
-  left: var(--tip-left, auto);
-  right: var(--tip-right, auto);
-  transform: translateY(-50%);
-}
-.radial-item-inner.tip-visible::after { opacity: 1; }
+
 
 /* Edition picker popup */
 #edition-picker {
@@ -1317,29 +1294,28 @@ body.night-mode .edition-option:hover { background: #2d4060; }
 }
 
 /* Tooltip */
-/* Outer ring tooltips — managed by JS class .tip-visible */
-.radial-item::after {
-  content: attr(data-tooltip);
+/* Shared real tooltip element — replaces ::after pseudo-elements
+   (::after breaks with position:fixed when parent has transform) */
+.radial-tooltip {
   position: fixed;
   z-index: 9999;
   background: #1a1a2e;
   color: #fff;
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   font-weight: 500;
-  padding: 5px 10px 5px 12px;
+  padding: 5px 11px 5px 13px;
   border-radius: 6px;
-  border-left: 3px solid var(--tip-color, #4caf50);
+  border-left: 3px solid #4caf50;
   white-space: nowrap;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.35);
-  opacity: 0;
+  box-shadow: 0 2px 14px rgba(0,0,0,0.4);
   pointer-events: none;
+  opacity: 0;
   transition: opacity 0.15s ease;
-  top: var(--tip-top, 50%);
-  left: var(--tip-left, auto);
-  right: var(--tip-right, auto);
   transform: translateY(-50%);
+  top: 0;
+  left: 0;
 }
-.radial-item.tip-visible::after { opacity: 1; }
+.radial-tooltip.visible { opacity: 1; }
 
 /* Backdrop для закрытия меню по клику вне */
 #radial-backdrop {

@@ -536,10 +536,9 @@ function _positionItems(container) {
 }
 
 // ==========================================================================
-//  TOOLTIP MANAGER — JS-driven, fixed position, always on top, color-coded
+//  TOOLTIP MANAGER — single real DOM element, no ::after (transform breaks fixed)
 // ==========================================================================
 
-// Maps ri-* / rii-* class → accent color for tooltip left border
 const _TIP_COLORS = {
     'ri-teal':   '#26d0ce', 'ri-green':  '#56ab2f', 'ri-orange': '#f7971e',
     'ri-blue':   '#2196f3', 'ri-red':    '#e53935', 'ri-purple': '#7b1fa2',
@@ -548,66 +547,72 @@ const _TIP_COLORS = {
     'rii-amber': '#f9a825', 'rii-green': '#66bb6a',
 };
 
+let _tipEl   = null;
+let _tipTimer = null;
+const MARGIN  = 12; // px gap between button edge and tooltip
+
 function _initTooltips() {
-    const MARGIN = 10; // px gap between button and tooltip
+    _tipEl = document.getElementById('radial-tooltip');
+    if (!_tipEl) return;
 
     document.querySelectorAll('.radial-item, .radial-item-inner').forEach(btn => {
         if (!btn.dataset.tooltip) return;
 
-        // Determine accent color
-        const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
-        const color = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
-        btn.style.setProperty('--tip-color', color);
-
-        let showTimer = null;
-
         btn.addEventListener('pointerenter', () => {
-            // Small delay so tooltip doesn't flash on quick pass-through
-            showTimer = setTimeout(() => {
-                // Compute position: place tooltip to the left or right based on screen space
-                const rect = btn.getBoundingClientRect();
-                const midY = rect.top + rect.height / 2;
-
-                // Temporarily show to measure width
-                btn.classList.add('tip-visible');
-                // Use a fixed estimated width (::after content can't be measured directly)
-                const tipW = btn.dataset.tooltip.length * 7.5 + 30; // rough estimate
-
-                let tipLeft, tipRight;
-                if (rect.left > tipW + MARGIN + 10) {
-                    // Space on the left — show to left
-                    tipRight = (window.innerWidth - rect.left + MARGIN) + 'px';
-                    tipLeft  = 'auto';
-                } else {
-                    // Show to right
-                    tipLeft  = (rect.right + MARGIN) + 'px';
-                    tipRight = 'auto';
-                }
-
-                btn.style.setProperty('--tip-top',   midY + 'px');
-                btn.style.setProperty('--tip-left',  tipLeft);
-                btn.style.setProperty('--tip-right', tipRight);
-            }, 300);
+            clearTimeout(_tipTimer);
+            _tipTimer = setTimeout(() => _showTooltip(btn), 320);
         });
 
-        btn.addEventListener('pointerleave', () => {
-            clearTimeout(showTimer);
-            btn.classList.remove('tip-visible');
-        });
-
-        // Always hide when menu closes (fixes sepia tooltip stuck issue)
-        btn.addEventListener('pointercancel', () => {
-            clearTimeout(showTimer);
-            btn.classList.remove('tip-visible');
-        });
+        btn.addEventListener('pointerleave',  _hideTooltip);
+        btn.addEventListener('pointercancel', _hideTooltip);
+        btn.addEventListener('click',         _hideTooltip);
     });
 }
 
-// Hide all tooltips — called from _closeMenu
-function _hideAllTooltips() {
-    document.querySelectorAll('.radial-item.tip-visible, .radial-item-inner.tip-visible')
-        .forEach(btn => btn.classList.remove('tip-visible'));
+function _showTooltip(btn) {
+    if (!_tipEl) return;
+
+    const text       = btn.dataset.tooltip || '';
+    const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
+    const color      = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
+
+    _tipEl.textContent    = text;
+    _tipEl.style.borderLeftColor = color;
+
+    // Measure after setting text so width is accurate
+    _tipEl.style.opacity  = '0';
+    _tipEl.style.left     = '0';
+    _tipEl.style.top      = '0';
+    _tipEl.style.display  = 'block';
+
+    const btnRect = btn.getBoundingClientRect();
+    const tipW    = _tipEl.offsetWidth;
+    const tipH    = _tipEl.offsetHeight;
+    const midY    = btnRect.top + btnRect.height / 2 - tipH / 2;
+
+    // Prefer left of button; fall back to right if not enough space
+    let left;
+    if (btnRect.left - tipW - MARGIN >= 4) {
+        left = btnRect.left - tipW - MARGIN;
+    } else {
+        left = btnRect.right + MARGIN;
+    }
+
+    // Clamp vertically to viewport
+    const top = Math.max(4, Math.min(window.innerHeight - tipH - 4, midY));
+
+    _tipEl.style.left = left + 'px';
+    _tipEl.style.top  = top  + 'px';
+    _tipEl.classList.add('visible');
 }
+
+function _hideTooltip() {
+    clearTimeout(_tipTimer);
+    if (_tipEl) _tipEl.classList.remove('visible');
+}
+
+// Called from _closeMenu
+function _hideAllTooltips() { _hideTooltip(); }
 
 // ==========================================================================
 //  DRAG — pointer events, touch-friendly (touch-action:none in CSS)
