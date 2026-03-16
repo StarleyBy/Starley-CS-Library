@@ -254,7 +254,7 @@ Physical examination is often unremarkable. If there is related aortic insuffici
 </details>
 
 <details class="med-details">
-<summary>DIAGNOSTIC STUDIES</summary>
+<summary><span style="font-size:110%">DIAGNOSTIC STUDIES</span></summary>
 <div class="details-content">
 
 <details class="med-details">
@@ -723,141 +723,185 @@ Total arch replacement with or without elephant trunk (ET) extension is typicall
 
 After the aortic cross-clamp is applied and cardioplegic arrest is achieved as described above, the ascending aorta is transected about 1 cm below the clamp and resected to the level of the sinotubular junction. The aorta is carefully freed from the pulmonary artery using low-energy electrocautery. Using a metric sizer, the diameter of the sinotubular junction that provides adequate leaflet coaptation is determined and this should be within 10% of the annular diameter. The aortic valve is inspected to ensure that it is trileaflet and free from significant calcification or leaflet pathology. If the aortic valve is to be replaced, this is performed at this point using standard techniques. An appropriate size graft is then anastomosed to the sinotubular junction using a running 4-0 polypropylene. The external aspect may be reinforced with Teflon felt if the aorta appears especially thin and a root replacement is not feasible. In cases of acute dissection individual pledgeted sutures are placed at upper aspects of the commissures to resuspend the aortic valve and Teflon felt is placed inside between the dissected layers to form a robust neomedia that can hold sutures.
 
-# Composite Root Replacement
+<details class="med-details">
+<summary>Composite Root Replacement</summary>
+<div class="details-content">
 
-Aortic root replacement involves excision of the entire ascending aorta to the native valve annulus with mobilization of coronary buttons and placement of a composite valve and polyester graft conduit into the annulus. After cross-clamping and administration of cardioplegia, the ascending aorta is resected to the level of the sinotubular junction. The sinuses are mobilized off of the pulmonary arteries and
-
-right ventricle and the coronary buttons are mobilized as described below. Unless a root reimplantation procedure is being performed, excessive proximal mobilization of the root is unnecessary.
+Aortic root replacement involves excision of the entire ascending aorta to the native valve annulus with mobilization of coronary buttons and placement of a composite valve and polyester graft conduit into the annulus. After cross-clamping and administration of cardioplegia, the ascending aorta is resected to the level of the sinotubular junction. The sinuses are mobilized off of the pulmonary arteries and right ventricle and the coronary buttons are mobilized as described below. Unless a root reimplantation procedure is being performed, excessive proximal mobilization of the root is unnecessary.
 
 The aortic valve leaflets are excised. The annular dimension is sized and an appropriately sized prosthesis is selected. Mechanical composite prostheses come prefabricated with either a polyester straight tube graft or artificial neo-sinuses created by changing the orientation of the polyester in the sinus segment. If a tissue valve is desired, a polyester graft that is either straight or has neo-sinuses is anastomosed with a running 3-0 or 4-0 polypropylene suture to an appropriately sized stented tissue valve. If using a Dacron graft with neo-sinuses, this should be sewn 3 to 4 mm below the start of the neo-sinus segment. The valve sutures must pass through both the valve sewing ring and the Dacron graft to ensure hemostasis.
 
 The composite prosthesis may be placed with either pledgeted everting (ie, "intraannular") mattress sutures with pledgets on the outside of the annulus or in a "supraannular" configuration with pledgets on the ventricular side of the annulus. Typically, the everting technique is used as it is hemostatic and strong. Implanting the root with pledgets on the ventricular side requires less mobilization of the sinuses which may be advantageous in certain situations and may allow for a slightly larger prosthesis. When implanting a mechanical prosthesis, the everting technique is preferred as it is less prone to pannus formation which may interfere with valve function. Care must be taken with either technique to not shorten the mitral valve anterior leaflet with excessively large bites with the annular sutures along the left and noncoronary sinuses. Polyester, braided 2-0 sutures with a larger needle than used for aortic valve replacement are employed.
 
 Once the valve-conduit is tied down, the coronary buttons are anastomosed using 5-0 prolene sutures as described below (Fig. 48-22). Pressurization of the new root by inserting a catheter into the proximal graft, running cardioplegia, and clamping the graft distally after de-airing the neoroot allows assessment of all suture lines.
-
-Implantation of stentless bioroots, homograft roots, pulmonary autografts, and valve-sparing procedures is discussed in previous chapters.
-
-# Management of Coronary Arteries
-
-Mobilization of the coronary artery buttons in root operations remains the most technically demanding and least forgiving aspect of root operations. The left main button is mobilized after the aorta has been fully dissected from the pulmonary artery. It is frequently useful to work from the inside of the aorta outward, gently scoring the dissection plane with low intensity electrocautery. Generally, 1 to 2 cm of freedom of motion in all directions is required for adequate mobilization. Care must be taken mobilizing the right coronary artery to ensure the right ventricle is not inadvertently entered. Application of retrograde and direct
-
+  
 ![](_page_17_Picture_9.jpeg)
 
 **FIGURE 48-22** Composite root replacement with a mechanical prosthesis.
 
-antegrade cardioplegia into the coronaries after mobilization will identify any small branch disruptions or major injuries while they are still repairable.
+Implantation of stentless bioroots, homograft roots, pulmonary autografts, and valve-sparing procedures is discussed in previous chapters.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Management of Coronary Arteries</summary>
+<div class="details-content">
+
+<details class="med-details">
+<summary>Mobilization of the buttons</summary>
+<div class="details-content">
+Mobilization of the coronary artery buttons in root operations remains the most technically demanding and least forgiving aspect of root operations. The left main button is mobilized after the aorta has been fully dissected from the pulmonary artery. It is frequently useful to work from the inside of the aorta outward, gently scoring the dissection plane with low intensity electrocautery. Generally, 1 to 2 cm of freedom of motion in all directions is required for adequate mobilization. Care must be taken mobilizing the right coronary artery to ensure the right ventricle is not inadvertently entered. Application of retrograde and direct antegrade cardioplegia into the coronaries after mobilization will identify any small branch disruptions or major injuries while they are still repairable.
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>Anastomosing the buttons to the aortic graft</summary>
+<div class="details-content">
 When anastomosing the left coronary button to the aortic graft, if a graft with premade sinuses of Valsalva is used, the button is typically sewn at or below the level of the equator of the sinus segment. The right coronary, which is more likely to kink as the right ventricle pushes it cephalad once the heart fills, is sewn at or above the level of the equator. When using a straight graft, some surgeons will determine the final position of the right coronary button after completing the graft-to-graft anastomosis, filling the heart, and briefly removing the cross-clamp. When separating from bypass, if there are new gross wall motion abnormalities, coronary artery injury or kinking should be immediately suspected. Our preference in these situations is to immediately bypass the affected territory rather than attempt to salvage a friable coronary button. For a right-sided problem, a bypass graft to the right coronary artery will typically resolve the problem expediently.
+</div>
+</details>
 
-In complex endocarditis, dissection, severe calcification, or reoperative cases, coronary artery buttons may be too damaged or immobile to directly attach to the graft. In such situations, a Cabrol-type coronary anastomosis, where the coronary ostia are anastomosed to an 8 to 10 mm Dacron grafts in a "moustache" configuration may be employed (Fig. 48-23). Alternatively, segments of reversed saphenous vein can be used as interposition grafts. Typically these grafts are 3 to 5 cm in length, are anastomosed fairly high on the
-
+<details class="med-details">
+<summary>Cabrol technique</summary>
+<div class="details-content">
+In complex endocarditis, dissection, severe calcification, or reoperative cases, coronary artery buttons may be too damaged or immobile to directly attach to the graft. In such situations, a Cabrol-type coronary anastomosis, where the coronary ostia are anastomosed to an 8 to 10 mm Dacron grafts in a "moustache" configuration may be employed (Fig. 48-23). Alternatively, segments of reversed saphenous vein can be used as interposition grafts. Typically these grafts are 3 to 5 cm in length, are anastomosed fairly high on the aortic graft, and follow a gentle s-shaped curve to prevent kinking. In cases of right coronary button problems, proximal ligation and bypass to the main right coronary artery is another alternative.
+  
 ![](_page_18_Picture_2.jpeg)
 
 ![](_page_18_Picture_3.jpeg)
 
-**FIGURE 48-23** Classic Cabrol technique for coronary reimplantation. (A) An 8- to 10-mm Dacron tube graft is anastomosed end-to-end to the aortic tissue surrounding the left and right coronary ostia. (B) An opening is made in the mid-portion of the coronary graft and in an appropriate position in the aortic graft and an anastomosis is formed. The modified Cabrol technique involves the formation of individual coronary buttons allowing the small-caliber Dacron graft to be sewn to the full thickness of the aortic tissue surrounding the coronary ostia. (Reproduced with permission from Edmunds LH: *Cardiac Surgery in the Adult*. New York: McGraw-Hill; 1997.)
+**FIGURE 48-23** Classic Cabrol technique for coronary reimplantation. (A) An 8- to 10-mm Dacron tube graft is anastomosed end-to-end to the aortic tissue surrounding the left and right coronary ostia. (B) An opening is made in the mid-portion of the coronary graft and in an appropriate position in the aortic graft and an anastomosis is formed. The modified Cabrol technique involves the formation of individual coronary buttons allowing the small-caliber Dacron graft to be sewn to the full thickness of the aortic tissue surrounding the coronary ostia. 
+</div>
+</details>
 
-aortic graft, and follow a gentle s-shaped curve to prevent kinking. In cases of right coronary button problems, proximal ligation and bypass to the main right coronary artery is another alternative.
+</div>
+</details>
 
-#### **Distal Anastomosis**
+<details class="med-details">
+<summary>Distal Anastomosis</summary>
+<div class="details-content">
 
 Distal reconstruction is performed as a clamped or open anastomosis. In aneurysm cases, open distal techniques which eliminate all diseased aorta and the weakened cross-clamp site are routinely employed. Circulatory arrest techniques as previously described are employed. Distal anastomoses are performed with a beveled polyester graft using a running 4-0 polypropylene suture. The distal anastomosis is performed as an "on-lay" type anastomosis with the graft invaginated into the distal aorta. This pushes the graft material into the native aorta when the aorta is pressurized and prevents leaks. In cases of extremely friable aorta, Teflon felt placed along the outer aspect may also be beneficial but does not substitute for a proper "on-lay" technique.
 </div>
 </details>
 
+</div>
+</details>
 
-# ENDOVASCULAR APPROACHES FOR THE ASCENDING AORTA
+<details class="med-details">
+<summary>ENDOVASCULAR APPROACHES FOR THE ASCENDING AORTA</summary>
+<div class="details-content">
 
-Advances in the design of highly flexible and low profile thoracic aortic stent grafts have generated an interest in using these devices for the ascending aorta in patients who are otherwise not reasonable risk surgical candidates. Key design requirements for ascending aortic stent grafts include a high
-
-degree of flexibility and conformability, short graft lengths, no exposed bare metal, and long delivery systems as most TEVAR delivery systems will not reach the proximal ascending aorta from the femoral artery. Alternative approaches for access sites for the stent graft include axillary artery, carotid artery, and perhaps most promising, transapical. Graft lengths are more critical in the ascending aorta than in the thoracic aorta as the distance between sinotubular junction and/or coronary ostia and the take-off of the innominate artery is typically shorter than 10 cm, and is therefore shorter than most thoracic devices. The antegrade transapical technique may also offer potential advantage by limiting the distance between the sheath and the device thereby minimizing potential for device migration during deployment, as is seen in transapical deployment of transcatheter aortic valves. Stent graft placement has been described to treat focal ascending aneurysms in nonoperative candidates (Fig. 48-24).146,147
-
-# AORTIC ARCH REPLACEMENT: SPECIFIC OPERATIVE TECHNIQUES
-
-There has been a diversity of surgical approaches across institutions on how best to repair aortic arch aneurysms. Originally reported in 1960s, the first arch aneurysm repair was completed by using an "island technique" and anastomosing the supra-aortic vessels to the aortic graft. It was not until the twenty-first century that novel approaches were developed that limited cerebral ischemia and the duration of CPB
-
+Advances in the design of highly flexible and low profile thoracic aortic stent grafts have generated an interest in using these devices for the ascending aorta in patients who are otherwise not reasonable risk surgical candidates. Key design requirements for ascending aortic stent grafts include a high degree of flexibility and conformability, short graft lengths, no exposed bare metal, and long delivery systems as most TEVAR delivery systems will not reach the proximal ascending aorta from the femoral artery. Alternative approaches for access sites for the stent graft include axillary artery, carotid artery, and perhaps most promising, transapical. Graft lengths are more critical in the ascending aorta than in the thoracic aorta as the distance between sinotubular junction and/or coronary ostia and the take-off of the innominate artery is typically shorter than 10 cm, and is therefore shorter than most thoracic devices. The antegrade transapical technique may also offer potential advantage by limiting the distance between the sheath and the device thereby minimizing potential for device migration during deployment, as is seen in transapical deployment of transcatheter aortic valves. Stent graft placement has been described to treat focal ascending aneurysms in nonoperative candidates (Fig. 48-24).
+  
 ![](_page_19_Figure_2.jpeg)
 
-**FIGURE 48-24** Placement of a covered stent graft in the ascending aorta to treat a pseudoaneurysm after previous cardiac surgery. Preoperative CT angiogram (A) demonstrates a saccular pseudoaneurysm in the ascending aorta after previous coronary artery bypass graft. Postoperative CT angiogram (B) demonstrates exclusion of pseudoaneurysm with no evidence of endoleak. (Reproduced with permission from Szeto WY, Moser WG, Desai ND, et al: Transapical deployment of endovascular thoracic aortic stent graft for an ascending aortic pseudoaneurysm, *Ann Thorac Surg* 2010; 89(2):616-618.)
+**FIGURE 48-24** Placement of a covered stent graft in the ascending aorta to treat a pseudoaneurysm after previous cardiac surgery. Preoperative CT angiogram (A) demonstrates a saccular pseudoaneurysm in the ascending aorta after previous coronary artery bypass graft. Postoperative CT angiogram (B) demonstrates exclusion of pseudoaneurysm with no evidence of endoleak. 
+</div>
+</details>
 
-time. In 2000, Kazui et al developed an integrated branched arch graft that contained three fixed limbs for anastomosing the great vessels and a side arterial cannulation limb for CPB. <sup>134</sup> In 2002, Speilvogel et al described the technique of debranching the great vessels from the arch and anastomosing them to a trifurcated graft that could then be sewed to the main aortic graft. <sup>148</sup> These techniques improved patient outcomes by decreasing the duration of DHCA, improving cerebral protection, and excluding the diseased aorta from the anastomosis, as was necessary with the island technique. More recently, with the advancements in endovascular device technology, hybrid approaches are available that combine debranching procedures and stent grafts in a single-staged repair. These hybrid approaches have even further reduced CPB and DHCA time.
+<details class="med-details">
+<summary>AORTIC ARCH REPLACEMENT: SPECIFIC OPERATIVE TECHNIQUES</summary>
+<div class="details-content">
 
-#### **OPEN TECHNIQUES**
+There has been a diversity of surgical approaches across institutions on how best to repair aortic arch aneurysms. Originally reported in 1960s, the first arch aneurysm repair was completed by using an "island technique" and anastomosing the supra-aortic vessels to the aortic graft. It was not until the twenty-first century that novel approaches were developed that limited cerebral ischemia and the duration of CPB time. In 2000, <strong>Kazui</strong> et al developed an integrated branched arch graft that contained three fixed limbs for anastomosing the great vessels and a side arterial cannulation limb for CPB. In 2002, <strong>Speilvogel</strong> et al described the technique of debranching the great vessels from the arch and anastomosing them to a trifurcated graft that could then be sewed to the main aortic graft. These techniques improved patient outcomes by decreasing the duration of DHCA, improving cerebral protection, and excluding the diseased aorta from the anastomosis, as was necessary with the island technique. More recently, with the advancements in endovascular device technology, hybrid approaches are available that combine debranching procedures and stent grafts in a single-staged repair. These hybrid approaches have even further reduced CPB and DHCA time.
 
-# Branched Arch Grafts (Kazui Technique)
+<details class="med-details">
+<summary>OPEN TECHNIQUES</summary>
+<div class="details-content">
 
-The branched aortic arch graft is prefabricated graft with 3 branches for the great vessels and an additional side branch for systemic perfusion.<sup>134</sup> This technique (Fig. 48-25A-H) begins with systemic cooling and initiation of DHCA. The aortic arch is opened and the brachiocephalic vessels are transected distal to their origins and selective ACP catheters are inserted into the innominate and left common carotid arteries, while the left subclavian artery is clamped (Fig. 48-25B). Then the distal anastomosis of the graft is first performed on the descending aorta (Fig. 48-25C). After this is completed, antegrade systemic circulation is started from the side branch of the graft (Fig. 48-25D). Next, the left subclavian artery is reimplanted to the graft and perfused (Fig. 48-25E). The proximal anastomosis is then finished (Fig. 48-25F), and attention is turned toward the anastomosis of the left carotid and left innominate arteries to the branched graft (Fig. 48-25G,H).
+<details class="med-details">
+<summary>Branched Arch Grafts (Kazui Technique)</summary>
+<div class="details-content">
+  
+The branched aortic arch graft is prefabricated graft with 3 branches for the great vessels and an additional side branch for systemic perfusion. This technique (Fig. 48-25A-H) begins with systemic cooling and initiation of DHCA. The aortic arch is opened and the brachiocephalic vessels are transected distal to their origins and selective ACP catheters are inserted into the innominate and left common carotid arteries, while the left subclavian artery is clamped (Fig. 48-25B). Then the distal anastomosis of the graft is first performed on the descending aorta (Fig. 48-25C). After this is completed, antegrade systemic circulation is started from the side branch of the graft (Fig. 48-25D). Next, the left subclavian artery is reimplanted to the graft and perfused (Fig. 48-25E). The proximal anastomosis is then finished (Fig. 48-25F), and attention is turned toward the anastomosis of the left carotid and left innominate arteries to the branched graft (Fig. 48-25G,H).
+  
+![](_page_20_Picture_5.jpeg)
+  
+![](_page_21_Picture_2.jpeg)
+
+FIGURE 48-25 (A-H). Branched Arch Graft (Kazui) Technique. 
 
 The aorta is de-aired, cross-clamp is released, and the side branch for CPB is ligated.
 
 Since clot and atheroma in the aorta develop more often at the origin of the brachiocephalic vessels, manipulation of these arteries increases the risk of stroke after aortic arch repair. One benefit of this technique is that brachiocephalic vessels are transected distal to their origins before the resection of the aortic arch, preventing embolization and decreasing stroke risk. Depending on the extent of aneurysmal disease, this operation can be completed in one or two stages. For concomitant descending thoracic aneurysmal disease, an ET graft can be completed during the arch replacement as an easy setup for the second stage, which could include an endovascular option or smaller left thoracotomy approach. However, one limitation of this technique is that the cerebral branches of the graft are short and fixed to the graft. This decreases options to tailor the graft based on the patient's exact anatomy.
+</div>
+</details>
 
-# **Debranching Graft Techniques**
+<details class="med-details">
+<summary>Debranching Graft Techniques</summary>
+<div class="details-content">
 
 Several types of debranching grafts are available on the market to repair aortic arch aneurysms. One of the first grafts used was a double-Y or trifurcated graft that could be anastomosed to the main aortic body graft during the operation (Fig. 48-26). However, other grafts currently available have the branched limbs pre-anastomosed to the aortic graft. While stylistically different, the generalized debranching concepts presented are similar.
-
-In the debranching approach, the aorta is cross-clamped proximal to the innominate artery and CPB is initiated via the axillary artery. While the patient is being cooled to core hypothermia, the proximal aorta is opened and a multibranched limb graft or tube graft is anastomosed to the sinotubular junction. If aortic valve and/or root pathology is present, surgical repair can be completed while the patient is cooled.
-
-Once hypothermia is reached, ACP is initiated via axillary artery cannulation. Attention is then turned toward the distal aortic arch and the main body of the graft is anastomosed to healthy, nonaneurysmal aorta. At this point, the distal clamp is removed and CPB is reinitiated either down the side limb of the graft or via direct cannulation of the aortic body graft. ACP is continued via axillary cannulation and selective perfusion catheters may be used for bilateral ACP until the left subclavian, left carotid, and innominate arteries are each
-
-anastomosed to the three graft limbs, respectively. After debranching is completed, the proximal aortic reconstruction is de-aired and the patient is decannulated from CPB.
-
-In case of a laterally displaced left subclavian artery from the aortic aneurysm, a left subclavian to carotid artery (LSCA) bypass can be completed 2 to 4 days before the debranching procedure. After a LSCA bypass, the debranching procedure only needs to be executed for the innominate artery and left carotid artery (Fig. 48-27).
-
-![](_page_20_Picture_5.jpeg)
-
-FIGURE 48-25 (A-H). Branched Arch Graft (Kazui) Technique. (Continued)
-
-![](_page_21_Picture_2.jpeg)
-
-FIGURE 48-25 (F-H). Kazui Technique using a four branch graft for total arch replacement.
-
-#### Elephant trunk
-
-The elephant trunk (ET) is part of a two staged approach to treat arch aneurysms with extensive pathology distal to the left subclavian artery. First used in the 1980s by Borst et al, the benefit of the ET is it provides a platform for an easier second stage operation to treat distal aortic aneruysms and
-
-dissections with either an open or an endovascular repair. 149 Open repairs with an ET graft make for technically easier operations with smaller incisions and less cross-clamp time. Furthermore, it creates a proximal landing zone within the diseased distal aorta to place a stent graft.
-
-Figure 48-28A-J illustrates the total arch replacement with a trifurcated graft and ET technique. Similar to as described
-
+  
 ![](_page_22_Picture_2.jpeg)
 
 **FIGURE 48-26** Trifurcated graft used to debranch the innominate, left carotid, and left subclavian arteries.
 
-above, right axillary cannulation is created to initiate CPB (Fig. 48-28B) and the aorta is cross-clamped proximal to the innominate artery (Fig. 48-28C). Once DHCA is reached the innominate, left carotid, and left subclavian arteries are anastomosed to the trifurcated graft and ACP is initiated from the right axillary artery, restoring perfusion to the brain and upper extremities (Fig. 48-28D,E). Attention is then turned toward the distal aorta. It is important to protect the left recurrent laryngeal nerve, so a suitable cuff of aortic tissue adjacent to the nerve is preserved. Studies demonstrate that the ET technique decreases the risk for laryngeal nerve injury during extensive aortic arch and descending aortic aneurysm repairs. 149,150 Next the proximal end of the ET graft is invaginated in itself and the midportion of the graft is anastomosed to the distal aorta with Teflon felt reinforcement (Fig. 48-28F). The origins of the left carotid and subclavian arteries are then oversewn. The proximal end of the anastomosis is then pulled out of the ET and can be anastomosed to the sinutubular junction, or as in Fig. 48-28G,H, the distal end of the graft from the aortic root repair. If a graft-to-graft anastomosis is required, it is necessary to bevel each graft end to maintain proper curvature (Fig. 48-28G). Next, the trifurcated graft limb remains clamped and is anastomosed to the proximal aspect of the aortic graft (Fig. 48-28E). Once the clamp is removed from the trifurcated limb, full myocardial
+In the debranching approach, the aorta is cross-clamped proximal to the innominate artery and CPB is initiated via the axillary artery. While the patient is being cooled to core hypothermia, the proximal aorta is opened and a multibranched limb graft or tube graft is anastomosed to the sinotubular junction. If aortic valve and/or root pathology is present, surgical repair can be completed while the patient is cooled.
+
+Once hypothermia is reached, ACP is initiated via axillary artery cannulation. Attention is then turned toward the distal aortic arch and the main body of the graft is anastomosed to healthy, nonaneurysmal aorta. At this point, the distal clamp is removed and CPB is reinitiated either down the side limb of the graft or via direct cannulation of the aortic body graft. ACP is continued via axillary cannulation and selective perfusion catheters may be used for bilateral ACP until the left subclavian, left carotid, and innominate arteries are each anastomosed to the three graft limbs, respectively. After debranching is completed, the proximal aortic reconstruction is de-aired and the patient is decannulated from CPB.
+
+In case of a laterally displaced left subclavian artery from the aortic aneurysm, a left subclavian to carotid artery (LSCA) bypass can be completed 2 to 4 days before the debranching procedure. After a LSCA bypass, the debranching procedure only needs to be executed for the innominate artery and left carotid artery (Fig. 48-27).
 
 ![](_page_22_Picture_5.jpeg)
 
 **FIGURE 48-27** In case of a laterally displaced left subclavian artery from the aortic aneurysm, a left subclavian artery to carotid artery (LSCA) bypass can be completed.
+  
+</div>
+</details>
 
-and systemic perfusion is restored (Fig. 48-28J). With the stage 1 repair complete, the patient can then undergo the stage 2 procedure at another time with either an endovascular graft or open repair through a left thoracotomy. Nonetheless, while ET sets up for a convenient, easier stage 2 procedure, it is not without complications and pitfalls. Complications include kinking of the graft, spinal cord ischemia, peripheral thromboembolism, and visceral malperfusion. 151-153
+<details class="med-details">
+<summary>Elephant trunk</summary>
+<div class="details-content">
 
-#### Arch First Technique
-
-The "arch first" technique was described by Kouchoukos and Rokkas as an additional approach to treat aortic arch and proximal descending aortic aneurysm disease. <sup>154</sup> This single stage repair is performed via bilateral anterior thoracotomies providing excellent exposure of the aortic arch and descending aorta. One significant pitfall to this approach is it requires sacrificing both internal mammary arteries. Figure 48-29A-G illustrates the "arch first" technique. First, the heart and arch are exposed by bilateral thoracotomies in the fourth interspace with a transverse sternotomy. CPB is initiated via right
-
-axillary artery cannulation. While the patient is cooled, the great vessels are exposed with great attention to preserve the recurrent and phrenic nerves. The most distal aspect of the descending aortic aneurysm is mobilized. Once the DHCA is initiated, the innominate, left carotid, and left subclavian arteries are transected and clamped. Then both the proximal and the distal aorta are transected (Fig. 48-29B). The distal aorta can be clamped and lower body perfusion can be established via a femoral artery. As described in the Kazui technique, a four-branched graft is used and the great vessels are anastomosed starting with the left subclavian artery and moving proximally (Fig. 48-29C,D). After these anastomoses are completed, the brachiocephalic arteries can be flushed off to remove emboli (Fig. 48-29E). The graft body is then clamped both proximally and distally to reestablish cerebral and upper body perfusion (Fig. 48-29F). Next, the systemic perfusion from the femoral artery is discontinued and the distal anastomosis is completed. Systemic circulation is then started via the sidearm graft. Finally, the proximal aortic anastomosis is finished to complete the repair and clamps are removed (Fig. 48-29G). Kouchoukos et al reported on 46 "arch first"
+The elephant trunk (ET) is part of a two staged approach to treat arch aneurysms with extensive pathology distal to the left subclavian artery. First used in the 1980s by Borst et al, the benefit of the ET is it provides a platform for an easier second stage operation to treat distal aortic aneruysms and dissections with either an open or an endovascular repair. Open repairs with an ET graft make for technically easier operations with smaller incisions and less cross-clamp time. Furthermore, it creates a proximal landing zone within the diseased distal aorta to place a stent graft. Figure 48-28A-J illustrates the total arch replacement with a trifurcated graft and ET technique. Similar to as described above, right axillary cannulation is created to initiate CPB (Fig. 48-28B) and the aorta is cross-clamped proximal to the innominate artery (Fig. 48-28C). Once DHCA is reached the innominate, left carotid, and left subclavian arteries are anastomosed to the trifurcated graft and ACP is initiated from the right axillary artery, restoring perfusion to the brain and upper extremities (Fig. 48-28D,E). Attention is then turned toward the distal aorta. It is important to protect the left recurrent laryngeal nerve, so a suitable cuff of aortic tissue adjacent to the nerve is preserved. Studies demonstrate that the ET technique decreases the risk for laryngeal nerve injury during extensive aortic arch and descending aortic aneurysm repairs. Next the proximal end of the ET graft is invaginated in itself and the midportion of the graft is anastomosed to the distal aorta with Teflon felt reinforcement (Fig. 48-28F). The origins of the left carotid and subclavian arteries are then oversewn. The proximal end of the anastomosis is then pulled out of the ET and can be anastomosed to the sinutubular junction, or as in Fig. 48-28G,H, the distal end of the graft from the aortic root repair. If a graft-to-graft anastomosis is required, it is necessary to bevel each graft end to maintain proper curvature (Fig. 48-28G). Next, the trifurcated graft limb remains clamped and is anastomosed to the proximal aspect of the aortic graft (Fig. 48-28E). Once the clamp is removed from the trifurcated limb, full myocardial and systemic perfusion is restored (Fig. 48-28J). With the stage 1 repair complete, the patient can then undergo the stage 2 procedure at another time with either an endovascular graft or open repair through a left thoracotomy. Nonetheless, while ET sets up for a convenient, easier stage 2 procedure, it is not without complications and pitfalls. Complications include kinking of the graft, spinal cord ischemia, peripheral thromboembolism, and visceral malperfusion. 
 
 ![](_page_23_Picture_6.jpeg)
-
-**FIGURE 48-28** Total arch replacement using trifurcated graft and elephant trunk technique for atherosclerotic aorta. (A) Ascending and arch aneurysm. (B) Right axillary artery cannulation.
-
+  
 ![](_page_24_Figure_2.jpeg)
-
-**FIGURE 48-28** (*Continued*) (C) Proximal root reconstruction. (D) Trifurcated graft to the innominate, left carotid, and left subclavian arteries. (E) Antegrade cerebral perfusion from right axillary artery. (F) Invagination of the proximal part of the elephant trunk graft into the distal aspect and anastomosis of the graft to distal aorta. (G-H) Beveling the both grafts and graft to graft anastomosis.
-
+  
 ![](_page_25_Picture_2.jpeg)
 
-**FIGURE 48-28** (Continued) (I) Anastomosis of trifurcated graft to ascending aortic graft. (J) Completed aortic arch repair. (K-L) Alternative sequence of brachiocephalic reconstruction to minimize DHCA.
+**FIGURE 48-28** Total arch replacement using trifurcated graft and elephant trunk technique for atherosclerotic aorta. (A) Ascending and arch aneurysm. (B) Right axillary artery cannulation. (C) Proximal root reconstruction. (D) Trifurcated graft to the innominate, left carotid, and left subclavian arteries. (E) Antegrade cerebral perfusion from right axillary artery. (F) Invagination of the proximal part of the elephant trunk graft into the distal aspect and anastomosis of the graft to distal aorta. (G-H) Beveling the both grafts and graft to graft anastomosis. (I) Anastomosis of trifurcated graft to ascending aortic graft. (J) Completed aortic arch repair. (K-L) Alternative sequence of brachiocephalic reconstruction to minimize DHCA.
 
-procedures with a hospital mortality of 6.5%. There were no reports of permanent neurological events but 13% of patients developed clinical signs of TND.<sup>154</sup>
+</div>
+</details>
 
-#### **HYBRID TECHNIQUES**
+<details class="med-details">
+<summary>Arch First Technique</summary>
+<div class="details-content">
 
-Hybrid arch procedures that combine open cerebral debranching with concomitant antegrade endovascular stent placement have emerged over the previous decade as a novel treatment option for aortic arch aneurysms. The benefit of this technique significantly limits the duration of cross-clamp time and cerebral ischemia and is beneficial in older patients with a high comorbidity indices. The three key concepts to this approach are to (1) debranch the cerebral vessels (2)
+The "arch first" technique was described by <strong>Kouchoukos</strong> and <strong>Rokkas</strong> as an additional approach to treat aortic arch and proximal descending aortic aneurysm disease. This single stage repair is performed via bilateral anterior thoracotomies providing excellent exposure of the aortic arch and descending aorta. One significant pitfall to this approach is it requires sacrificing both internal mammary arteries. Figure 48-29A-G illustrates the "arch first" technique. First, the heart and arch are exposed by bilateral thoracotomies in the fourth interspace with a transverse sternotomy. CPB is initiated via right 
+axillary artery cannulation. While the patient is cooled, the great vessels are exposed with great attention to preserve the recurrent and phrenic nerves. The most distal aspect of the descending aortic aneurysm is mobilized. Once the DHCA is initiated, the innominate, left carotid, and left subclavian arteries are transected and clamped. Then both the proximal and the distal aorta are transected (Fig. 48-29B). The distal aorta can be clamped and lower body perfusion can be established via a femoral artery. As described in the Kazui technique, a four-branched graft is used and the great vessels are anastomosed starting with the left subclavian artery and moving proximally (Fig. 48-29C,D). After these anastomoses are completed, the brachiocephalic arteries can be flushed off to remove emboli (Fig. 48-29E). The graft body is then clamped both proximally and distally to reestablish cerebral and upper body perfusion (Fig. 48-29F). Next, the systemic perfusion from the femoral artery is discontinued and the distal anastomosis is completed. Systemic circulation is then started via the sidearm graft. Finally, the proximal aortic anastomosis is finished to complete the repair and clamps are removed (Fig. 48-29G). Kouchoukos et al reported on 46 "arch first" 
+procedures with a hospital mortality of 6.5%. There were no reports of permanent neurological events but 13% of patients developed clinical signs of TND.
+  
+![](_page_26_Picture_2.jpeg)
+  
+**FIGURE 48-29** (A and B) Arch first technique to repair an aortic arch and proximal descending aortic aneurysm via bilateral thoracotomies.
+</div>
+</details>
 
-reconstruct the ascending aorta to create a landing zone (Zone 0) for an endovascular stent graft, and (3) deploy an antegrade stent graft from Zone 0 to healthy distal aorta to exclude the arch aneurysm.
+</div>
+</details>
 
+<details class="med-details">
+<summary><span style="font-size:110%">HYBRID TECHNIQUES</span></summary>
+<div class="details-content">
+
+Hybrid arch procedures that combine open cerebral debranching with concomitant antegrade endovascular stent placement have emerged over the previous decade as a novel treatment option for aortic arch aneurysms. The benefit of this technique significantly limits the duration of cross-clamp time and cerebral ischemia and is beneficial in older patients with a high comorbidity indices. 
+<details class="med-details">
+<summary>Key concepts</summary>
+<div class="details-content">
+The three key concepts to this approach are to (1) debranch the cerebral vessels (2) reconstruct the ascending aorta to create a landing zone (Zone 0) for an endovascular stent graft, and (3) deploy an antegrade stent graft from Zone 0 to healthy distal aorta to exclude the arch aneurysm.
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>Landing zone classification</summary>
+<div class="details-content">
 To grasp these concepts, an appreciation of landing zone classification is crucial. Thoracic aortic landing zones can be divided into five anatomic regions (Fig. 48-30).
 
 - Zone 0: ascending aorta to the innominate artery
@@ -865,157 +909,220 @@ To grasp these concepts, an appreciation of landing zone classification is cruci
 - Zone 2: between the left carotid and left subclavian
 - Zone 3: beyond the left subclavian and along the curved portion of the distal arch
 - Zone 4: straight portion of the distal arch starting at the level of T4
-
-![](_page_26_Picture_2.jpeg)
-
-**FIGURE 48-29** (A and B) Arch first technique to repair an aortic arch and proximal descending aortic aneurysm via bilateral thoracotomies.
-
-Based on these zones, we have previously proposed a classification system for aortic arch pathology for hybrid repairs. <sup>156</sup> As seen in Fig. 48-31, a Type 1 hybrid arch has a suitable (nonaneurysmal) proximal aortic Zone 0 and distal Zone 2/3 landing zones for a stent graft. A Type 2 hybrid arch needs reconstruction of the Zone 0 landing zone but has a suitable landing zone in Zones 2 and 3. A Type 3 hybrid arch represents a mega-aorta
-
-and needs reconstruction of the distal landing zone (Zone 0) with a proximal landing zone below the diaphragm.
-
-In a Type 1 hybrid arch, a debranching procedure is performed to bypass the cerebral vessels and involves an end-to-side anastomosis of a four-branched graft to the ascending aorta. This can often be completed with a side-biting clamp and done off CPB. After the debranching is performed, an endovascular stent graft is deployed antegrade via a separate side branch of the multibranched graft with distal landing zone in the native ascending aorta at Zone 0 under fluoroscopic guidance.
-
+  
 ![](_page_26_Picture_7.jpeg)
 
 **FIGURE 48-30** Classification of thoracic endovascular landing zones.
+</div>
+</details>
 
+Based on these zones, we have previously proposed a classification system for aortic arch pathology for hybrid repairs. As seen in Fig. 48-31, a Type 1 hybrid arch has a suitable (nonaneurysmal) proximal aortic Zone 0 and distal Zone 2/3 landing zones for a stent graft. A Type 2 hybrid arch needs reconstruction of the Zone 0 landing zone but has a suitable landing zone in Zones 2 and 3. A Type 3 hybrid arch represents a mega-aorta and needs reconstruction of the distal landing zone (Zone 0) with a proximal landing zone below the diaphragm.
+  
 ![](_page_27_Picture_2.jpeg)
 
 **FIGURE 48-31** Classification of hybrid arch repairs based on location of aortic aneurysms. (A) Type 1 hybrid arch has a suitable aortic Zone 0 and distal Zone 2/3 landing zones for a stent graft. (B) A Type 2 hybrid arch needs reconstruction of the zone 0 landing zone but has a suitable landing zone in zones 2/3. (C) A Type 3 hybrid arch represents a mega-aorta and needs reconstruction of the landing zone (zone 0) with the other landing zone in the below the diaphragm.
 
+<details class="med-details">
+<summary>Type 1</summary>
+<div class="details-content">
+In a Type 1 hybrid arch, a debranching procedure is performed to bypass the cerebral vessels and involves an end-to-side anastomosis of a four-branched graft to the ascending aorta. This can often be completed with a side-biting clamp and done off CPB. After the debranching is performed, an endovascular stent graft is deployed antegrade via a separate side branch of the multibranched graft with distal landing zone in the native ascending aorta at Zone 0 under fluoroscopic guidance.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Type 2</summary>
+<div class="details-content">
 A Type 2 hybrid arch does not have a proximal landing zone in Zone 0 due to ascending aortic pathology. Therefore, this repair involves replacement of the ascending aorta and debranching of the cerebral vessels so a stent graft can be deployed to exclude the arch aneurysm. A multibranched tube graft is used to replace the ascending aorta and the cerebral vessels are bypassed. DHCA may be necessary if a hemiarch anastomosis is required. After the graft is anastomosed, the stent graft is deployed antegrade via a separate side branch of the multibranched graft and landed distally in Zone 0 within the graft.
+</div>
+</details>
 
+<details class="med-details">
+<summary>Type 3</summary>
+<div class="details-content">
 A Type 3 hybrid arch is a mega-aorta with diffuse proximal and distal aortic aneurysmal disease. This requires replacement of the ascending aorta and debranching as previously described for a Type 2 hybrid arch. The distal anastomosis of the graft is completed in the aneurysmal aorta but will be later excluded after the stent graft is deployed. Again, the stent graft is deployed antegrade via a side branch in the multibranched graft with the distal landing zone at Zone 0 in the graft and the proximal landing zone in the distal aorta.
+</div>
+</details>
 
-Figure 48-32 shows a Type 1 hybrid arch repair for a Zone 2/3 descending aortic aneurysm. For this repair, there is a
-
-suitable proximal and distal landing zone to exclude the aneurysm after the great vessels are debranched. To complete this repair, CPB is initiated and a side-bitting clamp is placed on the aorta. It is best to utilize CPB so the side-biting clamp is not directly placed on the pulsatile ascending aorta. The main trunk of the trifurcated graft is anastomosed to the aorta. Next, the left subclavian artery is clamped and transected. The proximal stump is oversewn and the artery is then anastomosed to a limb of the trifurcated graft at which point perfusion is restored. In a similar fashion, the left carotid and innominate arteries are anastomosed to the remaining limbs of the trifurcated graft (Fig. 48-32A). An endovascular stent graft can then be deployed antegrade through a side branch to exclude the aneurysm. If the left subclavian anatomy is difficult on preoperative imaging, one approach would be to first perform a left subclavian to left carotid artery bypass (Fig. 48-32B). It is also possible to perform an intraoperative extra-anatomic bypass to the left axillary artery by tunneling the graft through the first or second intercostal space (Fig. 48-32C).
-
-While hybrid repairs are technically easier, require less cross-clamp and require less DHCA time, there are several
+Figure 48-32 shows a Type 1 hybrid arch repair for a Zone 2/3 descending aortic aneurysm. For this repair, there is a suitable proximal and distal landing zone to exclude the aneurysm after the great vessels are debranched. To complete this repair, CPB is initiated and a side-bitting clamp is placed on the aorta. It is best to utilize CPB so the side-biting clamp is not directly placed on the pulsatile ascending aorta. The main trunk of the trifurcated graft is anastomosed to the aorta. Next, the left subclavian artery is clamped and transected. The proximal stump is oversewn and the artery is then anastomosed to a limb of the trifurcated graft at which point perfusion is restored. In a similar fashion, the left carotid and innominate arteries are anastomosed to the remaining limbs of the trifurcated graft (Fig. 48-32A). An endovascular stent graft can then be deployed antegrade through a side branch to exclude the aneurysm. If the left subclavian anatomy is difficult on preoperative imaging, one approach would be to first perform a left subclavian to left carotid artery bypass (Fig. 48-32B). It is also possible to perform an intraoperative extra-anatomic bypass to the left axillary artery by tunneling the graft through the first or second intercostal space (Fig. 48-32C).
 
 ![](_page_28_Figure_2.jpeg)
 
 **FIGURE 48-32** (A) Type 1 hybrid arch repair using side-bitting clamp on the proximal aorta to anastomose the main body of the trifurcated graft. The great vessels are then debranched with the limbs of the trifurcated graft. An endovascular stent graft is then deployed antegrade through a side limb. (B) Left subclavian to left carotid artery bypass for difficult left subclavian anatomy. (C) Intraoperative extra-anatomic bypass to the left axillary artery by tunneling the graft through the first or second intercostal space for difficult subclavian anatomy.
+  
+While hybrid repairs are technically easier, require less cross-clamp and require less DHCA time, there are several pitfalls. Complications consist of embolic stroke, type 1 endoleaks, and stent migration. In a systemic review of hybrid arch repairs of 1886 patients, there was a pooled perioperative mortality rate of 10.8%, stroke rate of 7%, and spinal cord ischemia of 7%. Endoleaks are unique to hybrid operations in comparison to open techniques and have an incidence up to 15% in some reports.
+</div>
+</details>
 
-pitfalls. Complications consist of embolic stroke, type 1 endoleaks, and stent migration. In a systemic review of hybrid arch repairs of 1886 patients, there was a pooled perioperative mortality rate of 10.8%, stroke rate of 7%, and spinal cord ischemia of 7%. <sup>157</sup> Endoleaks are unique to hybrid operations in comparison to open techniques and have an incidence up to 15% in some reports.
+<details class="med-details">
+<summary>COMPLETE ENDOVASCULAR AORTIC ARCH REPAIRS</summary>
+<div class="details-content">
 
-# COMPLETE ENDOVASCULAR AORTIC ARCH REPAIRS
-
-Complete endovascular repair of aortic arch aneurysms remains in its infancy. Several techniques have been employed comprising custom fenestrated grafts, chimney/snorkle techniques, and in situ double branched graft fenestrations. <sup>158,159</sup> While the literature abounds with case reports and small series, no large studies exist to demonstrate long-term efficacy.
+Complete endovascular repair of aortic arch aneurysms remains in its infancy. Several techniques have been employed comprising custom fenestrated grafts, chimney/snorkle techniques, and in situ double branched graft fenestrations. While the literature abounds with case reports and small series, no large studies exist to demonstrate long-term efficacy.
 
 Figure 48-33A-C demonstrates an endovascular approach to an arch aneurysm and reveals the single chimney technique. This repair involves a staged operation by first completing a left subclavian to carotid artery transposition and a left carotid to innominate artery transposition (Fig. 48-33B). While transpositions are not always feasible due to anatomical variability, a left subclavian to carotid artery bypass and a left carotid to innominate artery bypass could equally have been completed. After several days, a stent graft is deployed retrograde from a femoral artery and landed proximally in Zone 0/1 with the fenestration at the innominate artery. The right axillary or right carotid artery can then be accessed to deploy a retrograde stent into the innominate fenestration. The advantage of this approach is CPB and DHCA are unnecessary. However, while studies have demonstrated feasibility with total endovascular aortic arch repair, the rates of stroke, type 1 endoleaks, need for secondary interventions, and early conversions to open repairs are high. 158-160 Patient selection is critical and these approaches are for patients at too high of a risk for the open, gold standard repair.
-
-#### **ADDITIONAL CONSIDERATIONS**
-
-#### **Concomitant Mitral Surgery**
-
-Mitral valve disease is frequently encountered in patients with aortic aneurysms. This is particularly true for patients with MFS, in whom the incidence approaches 30%.<sup>161</sup> Patients who have evidence of moderate-to-severe mitral regurgitation should undergo mitral valve repair at the time of aortic replacement. Gillinov et al reported results of mitral valve repair in patients with MFS, many of whom also had simultaneous replacement of the aortic root.<sup>162</sup> They observed an 88% actuarial rate of freedom from significant mitral regurgitation at 5 years. A fairly liberal approach to mitral valve intervention is warranted in aortic root replacement patients as reoperation for late mitral regurgitation may be particularly technically difficult. Additionally, care must be taken when taking the annular stitches along the aortomitral continuity to avoid shortening the anterior leaflet of the mitral valve.
-
-#### Aortic Wrapping and Reduction Aortoplasty
-
-Reduction ascending aortoplasty and aortic wrapping are less common techniques to address ascending aortic aneurysms typically reserved for patients undergoing concomitant aortic valve replacement but who are deemed too high risk for either composite root or ascending aortic replacement or who have ascending aortic dimensions less than the recommendations for replacement as a prophylactic measure to prevent aneurysm formation. Reduction aortoplasty involves excision of a segment of the ascending aorta to achieve a normal radial maximal dimension. It may be performed either with
-
+  
 ![](_page_29_Figure_12.jpeg)
 
 **FIGURE 48-33** An endovascular approach to exclude an arch aneurysm using the single chimney technique and fenestrated graft. (A) A type 1 hybrid arch. (B) A left subclavian to carotid artery transposition and a left carotid to innominate artery transposition. (C) Retrograde endovascular stent graft from the femoral artery and an antegrade stent placed into the innominate artery from the right axillary or right carotid artery.
+</div>
+</details>
+  
+</div>
+</details>
 
-a side-biting aortic clamp, cross-clamped or with open technique depending on the length of aortoplasty and technique used. 163-165 The excised segment may be taken in the long axis of the aorta down to the sinotubular junction (true reduction annuloplasty) or lesser plication techniques. External reinforcement can also be performed in conjunction with reduction aortoplasty. Concerns regarding this technique include dehiscence or aortic rupture at the suture line, which is constantly under tension from the radial force on the aortic wall during systole.
+<details class="med-details">
+<summary><span style="font-size:110%">ADDITIONAL CONSIDERATIONS</span></summary>
+<div class="details-content">
 
-Aortic wrapping of girdling is performed either by itself or in conjunction with reduction aortoplasty. Wrapping has been performed with cellophane, polyester grafts and meshes, polytetrafluoroethylene (PTFE), and other materials. Neri et al described two patients required reoperation because of development of false aneurysms following aortic valve replacement with aortoplasty and wrapping. 166 The unwrapped parts of the ascending aorta in both patients appeared normal; conversely, the aortic wall underlying the wrap was severely atrophic, a phenomenon previously reported with abdominal aneurysms that were wrapped without aortoplasty. In a larger series by Cohen et al, among 102 patients who underwent aortic wrapping with a polyester mesh followed for a median of 4.7 years, there were no instances of major aortic complications and an average aneurysm growth of 2.6 mm over the follow-up period. 167
+<details class="med-details">
+<summary>Concomitant Mitral Surgery</summary>
+<div class="details-content">
 
-#### **REOPERATIVE CONSIDERATIONS**
+Mitral valve disease is frequently encountered in patients with aortic aneurysms. This is particularly true for patients with MFS, in whom the incidence approaches 30%. Patients who have evidence of moderate-to-severe mitral regurgitation should undergo mitral valve repair at the time of aortic replacement. <strong>Gillinov</strong> et al reported results of mitral valve repair in patients with MFS, many of whom also had simultaneous replacement of the aortic root. They observed an 88% actuarial rate of freedom from significant mitral regurgitation at 5 years. A fairly liberal approach to mitral valve intervention is warranted in aortic root replacement patients as reoperation for late mitral regurgitation may be particularly technically difficult. Additionally, care must be taken when taking the annular stitches along the aortomitral continuity to avoid shortening the anterior leaflet of the mitral valve.
+</div>
+</details>
+
+<details class="med-details">
+<summary>Aortic Wrapping and Reduction Aortoplasty</summary>
+<div class="details-content">
+
+Reduction ascending aortoplasty and aortic wrapping are less common techniques to address ascending aortic aneurysms typically reserved for patients undergoing concomitant aortic valve replacement but who are deemed too high risk for either composite root or ascending aortic replacement or who have ascending aortic dimensions less than the recommendations for replacement as a prophylactic measure to prevent aneurysm formation. Reduction aortoplasty involves excision of a segment of the ascending aorta to achieve a normal radial maximal dimension. It may be performed either with a side-biting aortic clamp, cross-clamped or with open technique depending on the length of aortoplasty and technique used. The excised segment may be taken in the long axis of the aorta down to the sinotubular junction (true reduction annuloplasty) or lesser plication techniques. External reinforcement can also be performed in conjunction with reduction aortoplasty. Concerns regarding this technique include dehiscence or aortic rupture at the suture line, which is constantly under tension from the radial force on the aortic wall during systole.
+
+Aortic wrapping of girdling is performed either by itself or in conjunction with reduction aortoplasty. Wrapping has been performed with cellophane, polyester grafts and meshes, polytetrafluoroethylene (PTFE), and other materials. Neri et al described two patients required reoperation because of development of false aneurysms following aortic valve replacement with aortoplasty and wrapping. The unwrapped parts of the ascending aorta in both patients appeared normal; conversely, the aortic wall underlying the wrap was severely atrophic, a phenomenon previously reported with abdominal aneurysms that were wrapped without aortoplasty. In a larger series by Cohen et al, among 102 patients who underwent aortic wrapping with a polyester mesh followed for a median of 4.7 years, there were no instances of major aortic complications and an average aneurysm growth of 2.6 mm over the follow-up period. 
+</div>
+</details>
+
+</div>
+</details>
+
+<details class="med-details">
+<summary><span style="font-size:110%">REOPERATIVE CONSIDERATIONS</span></summary>
+<div class="details-content">
 
 Reoperative surgery on the ascending aorta and aortic root can be particularly challenging but is becoming more frequent in experienced centers. Increased use of tissue aortic valves in younger patients, biologic porcine or composite pericardial roots, and homografts in past few decades suggest that many patients may require reoperative root intervention. Additionally, root replacement may be required after the development of ascending aortic aneurysms in bicuspid patients who have previously undergone aortic valve replacement only. Indications for reoperation include aortic insufficiency, development of aneurysms or dissections in remaining segments of the thoracic aorta, false aneurysms, prosthetic valve dysfunction, infection or thrombosis, or degeneration of biologic prostheses.
 
-Reentry is usually accomplished with a repeat sternotomy incision, although for complex arch operations involving the proximal descending aorta, a thoracosternotomy approach may be required. In cases of massive ascending aortic aneurysm, adhesion of the aorta to the posterior table of the sternum or contained ruptures and exposure of alternative cannulation site such as the right axillary artery or femoral artery are necessary. Massive aortic hemorrhage upon sternal entry should be locally controlled by forcibly reapproximating the sternum, heparinizing the patient, instituting peripheral CPB, and cooling to deep hypothermia such that the sternal reentry can be completed under lower flow conditions with active pump-suction in the operative field. If entering the aorta on reentry is felt to be inevitable, starting CPB and
-
-cooling prior to sternotomy may be a superior strategy. In cases of moderate-to-severe aortic insufficiency, venting of the left ventricle prior to cardiac fibrillation is mandatory and can be accomplished by a small left anterior thoracotomy incision and direct venting of the apex.
+Reentry is usually accomplished with a repeat sternotomy incision, although for complex arch operations involving the proximal descending aorta, a thoracosternotomy approach may be required. In cases of massive ascending aortic aneurysm, adhesion of the aorta to the posterior table of the sternum or contained ruptures and exposure of alternative cannulation site such as the right axillary artery or femoral artery are necessary. Massive aortic hemorrhage upon sternal entry should be locally controlled by forcibly reapproximating the sternum, heparinizing the patient, instituting peripheral CPB, and cooling to deep hypothermia such that the sternal reentry can be completed under lower flow conditions with active pump-suction in the operative field. If entering the aorta on reentry is felt to be inevitable, starting CPB and cooling prior to sternotomy may be a superior strategy. In cases of moderate-to-severe aortic insufficiency, venting of the left ventricle prior to cardiac fibrillation is mandatory and can be accomplished by a small left anterior thoracotomy incision and direct venting of the apex.
 
 Cross-clamping in the reoperative scenario may also be hazardous as previous graft material may cause severe adhesions to the pulmonary artery making the dissection of a clamping site difficult. Previous use of a porcine root prosthesis or left-sided bypass grafts makes this dissection particularly difficult. If the pulmonary artery is inadvertently entered, patching with a pericardial substitute is usually necessary.
 
-Mobilization of the coronary arteries is frequently difficult and creation of a Cabrol-type anastomosis, interposition grafts, or bypass grafts are frequently necessary. Previous coronary bypass grafts should be reimplanted, and frequently, interposition vein grafts are required to accomplish this. Direct cardioplegia administration down bypass grafts is preferred but avoided when there is diffuse vein graft disease. <sup>169</sup> Retrograde cardioplegia is extremely helpful in this circumstance.
+Mobilization of the coronary arteries is frequently difficult and creation of a Cabrol-type anastomosis, interposition grafts, or bypass grafts are frequently necessary. Previous coronary bypass grafts should be reimplanted, and frequently, interposition vein grafts are required to accomplish this. Direct cardioplegia administration down bypass grafts is preferred but avoided when there is diffuse vein graft disease.  Retrograde cardioplegia is extremely helpful in this circumstance.
 
-In cases of reoperation for failed porcine bioroots, root replacement is preferable to simple aortic valve implantation within the porcine root as there is a higher likelihood for valve dehiscence due to the degenerative nature of the root tissue.<sup>170</sup> If aortic valve implantation into a porcine root is being performed, all of the aortic valve implantation sutures must traverse the native aortic root tissue, not just the porcine tissue.
+In cases of reoperation for failed porcine bioroots, root replacement is preferable to simple aortic valve implantation within the porcine root as there is a higher likelihood for valve dehiscence due to the degenerative nature of the root tissue. If aortic valve implantation into a porcine root is being performed, all of the aortic valve implantation sutures must traverse the native aortic root tissue, not just the porcine tissue.
+</div>
+</details>
 
-#### **OPERATIVE COMPLICATIONS**
+<details class="med-details">
+<summary><span style="font-size:110%">OPERATIVE COMPLICATIONS</span></summary>
+<div class="details-content">
 
-## Bleeding
+<details class="med-details">
+<summary>Bleeding</summary>
+<div class="details-content">
 
 Woven Dacron grafts impregnated with collagen or gelatin are relatively impervious to blood and have reduced blood loss following replacement of the ascending aorta compared with knitted grafts. Precise suturing with careful attention to avoid torque on the suture needles while constructing anastomoses is critical to avoid the inevitable needle-hole bleeding at the end of the surgery. Tension must be avoided at the sites of coronary reimplantation, as this is a frequent site of bleeding. The modified Cabrol method or an interposition graft should be used when any tension is present. The inclusion technique of graft insertion is associated with an increased incidence of bleeding and pseudoaneurysm formation and has largely been abandoned. In very friable aortas, Teflon felt may be used to reinforce the suture line on the outside of the anastomosis in which a thin strip of felt is slipped into the suture line as it is tightened. Alternatively, it may be sewn to the inside, outside, or both sides of the native aorta with a running polypropylene stitch prior to sewing the graft.
 
-In cases of refractory coagulopathy, the anastomosis can be wrapped tightly with a small segment of polyester graft or Teflon felt to reduce tension on the suture line and reduce needle-hole bleeding (Fig. 48-34). Blood transfusion can be avoided in a significant number of patients with the use of blood conservation
-
+In cases of refractory coagulopathy, the anastomosis can be wrapped tightly with a small segment of polyester graft or Teflon felt to reduce tension on the suture line and reduce needle-hole bleeding (Fig. 48-34). Blood transfusion can be avoided in a significant number of patients with the use of blood conservation techniques such as Cell Savers, autologous blood donation, plateletpheresis, the reinfusion of chest tube drainage, and the use of antifibrinolytics such as aminocaproic acid and tranexamic acid. Since the removal of the antifibrinolytic agent aprotinin from the market due to concerns regarding renal dysfunction and mortality, bleeding has anecdotally become more common. Activated human recombinant factor VII may be helpful as a last resort when treating refractory bleeding that does not respond to any other therapies, although this may induce unanticipated thrombosis in arterial structures.
+  
 ![](_page_31_Picture_2.jpeg)
 
-**FIGURE 48-34** Suture line bleeding may be effectively controlled with a circumferential wrap of the anastomosis with a strip of Teflon felt or Dacron. (Reproduced with permission from Edmunds LH: *Cardiac Surgery in the Adult.* New York: McGraw-Hill; 1997.)
+**FIGURE 48-34** Suture line bleeding may be effectively controlled with a circumferential wrap of the anastomosis with a strip of Teflon felt or Dacron. 
 
-techniques such as Cell Savers, autologous blood donation, plateletpheresis, the reinfusion of chest tube drainage, and the use of antifibrinolytics such as aminocaproic acid and tranexamic acid. Since the removal of the antifibrinolytic agent aprotinin from the market due to concerns regarding renal dysfunction and mortality, bleeding has anecdotally become more common. Activated human recombinant factor VII may be helpful as a last resort when treating refractory bleeding that does not respond to any other therapies, although this may induce unanticipated thrombosis in arterial structures.<sup>171</sup>
+In cases of ongoing postoperative hemorrhage, expedient return to the operating room for reexploration is preferable to massive transfusion or tamponade. Postoperative bleeding requiring reexploration ranges from 2.4 to 11.1%. 
+</div>
+</details>
 
-In cases of ongoing postoperative hemorrhage, expedient return to the operating room for reexploration is preferable to massive transfusion or tamponade. Postoperative bleeding requiring reexploration ranges from 2.4 to 11.1%. <sup>172,173</sup>
+<details class="med-details">
+<summary>Stroke</summary>
+<div class="details-content">
 
-#### Stroke
+Neurologic injury following proximal aortic surgery remains a significant cause of morbidity and mortality. Embolization of atherosclerotic debris or thrombus from the ascending aorta and arch produces focal neurologic deficits. Diffuse injury can be attributed to microemboli of air or cellular debris, insufficient or uneven cooling, and a prolonged circulatory arrest period. After circulatory arrest periods exceeding 40 minutes the incidence of stroke greatly increases. Profound hypothermia may itself be injurious to the central nervous system without associated circulatory arrest. 
 
-Neurologic injury following proximal aortic surgery remains a significant cause of morbidity and mortality. Embolization of atherosclerotic debris or thrombus from the ascending aorta and arch produces focal neurologic deficits. Diffuse injury can be attributed to microemboli of air or cellular debris, insufficient or uneven cooling, and a prolonged circulatory arrest period. After circulatory arrest periods exceeding 40 minutes the incidence of stroke greatly increases. <sup>174</sup> Profound hypothermia may itself be injurious to the central nervous system without associated circulatory arrest. <sup>175</sup>
-
-Stroke due to embolization is diminished when the aorta is evaluated via epiaortic ultrasound or other imaging modality to detect atherosclerotic plaques and thrombus. <sup>176</sup> This allows appropriate adjustments to be made in clamping and cannulation strategies. Resumption of antegrade circulation through the graft once the distal aortic anastomosis is complete, rather
-
-than retrograde via the femoral vessels, after a period of circulatory arrest avoids embolization of distal aortic debris. Patients with severe carotid artery occlusive disease are at increased risk of stroke during ascending aortic procedures, and patients older than 65, those with peripheral vascular disease, or those with pertinent histories should be evaluated. 177
+Stroke due to embolization is diminished when the aorta is evaluated via epiaortic ultrasound or other imaging modality to detect atherosclerotic plaques and thrombus. This allows appropriate adjustments to be made in clamping and cannulation strategies. Resumption of antegrade circulation through the graft once the distal aortic anastomosis is complete, rather than retrograde via the femoral vessels, after a period of circulatory arrest avoids embolization of distal aortic debris. Patients with severe carotid artery occlusive disease are at increased risk of stroke during ascending aortic procedures, and patients older than 65, those with peripheral vascular disease, or those with pertinent histories should be evaluated. 
 
 Patients with new postoperative strokes should be rapidly evaluated by the consultant neurology service and undergo early brain imaging. New embolic events should be managed aggressively with induced hypertension once intracranial hemorrhage has been ruled out.
+</div>
+</details>
 
-## **Pulmonary Dysfunction**
+<details class="med-details">
+<summary>Pulmonary Dysfunction</summary>
+<div class="details-content">
 
-CPB is known to cause alterations in pulmonary function as evidenced by changes in alveolar-arterial oxygen gradients, pulmonary vascular resistance, pulmonary compliance, and intrapulmonary shunting. Usually these changes are subclinical, but a full-blown adult respiratory distress-like syndrome is reported in 0.5 to 1.7% of patients following CPB. <sup>178-180</sup> The specific cause is the subject of much investigation and debate, but it is generally accepted that exposure of blood elements to the foreign surface of the cardiopulmonary circuit results in the activation of inflammatory cells and the complement cascade resulting in pulmonary injury. <sup>181</sup> The duration of CPB, urgency of the procedure, and general condition of the patient may roughly correlate with the occurrence and severity of pulmonary dysfunction, but it can be unpredictable.
+CPB is known to cause alterations in pulmonary function as evidenced by changes in alveolar-arterial oxygen gradients, pulmonary vascular resistance, pulmonary compliance, and intrapulmonary shunting. Usually these changes are subclinical, but a full-blown adult respiratory distress-like syndrome is reported in 0.5 to 1.7% of patients following CPB. The specific cause is the subject of much investigation and debate, but it is generally accepted that exposure of blood elements to the foreign surface of the cardiopulmonary circuit results in the activation of inflammatory cells and the complement cascade resulting in pulmonary injury. The duration of CPB, urgency of the procedure, and general condition of the patient may roughly correlate with the occurrence and severity of pulmonary dysfunction, but it can be unpredictable.
 
-Treatment is supportive, with early diagnosis and treatment of any subsequent pulmonary infections. Ten to eighteen percent of patients require prolonged mechanical ventilation. Preventive measures may include preoperative optimization of pulmonary function, minimization of pump time, judicious use of blood products, heparin-coated bypass circuits, and leukocyte depletion. <sup>182</sup>
+Treatment is supportive, with early diagnosis and treatment of any subsequent pulmonary infections. Ten to eighteen percent of patients require prolonged mechanical ventilation. Preventive measures may include preoperative optimization of pulmonary function, minimization of pump time, judicious use of blood products, heparin-coated bypass circuits, and leukocyte depletion. 
+</div>
+</details>
 
-# **Myocardial Dysfunction**
+<details class="med-details">
+<summary>Myocardial Dysfunction</summary>
+<div class="details-content">
 
-Transient myocardial dysfunction following complex aortic surgery requiring inotropic support is common with 18 to 25% of patients requiring more than 6 hours of inotropic support. 183,184 Meticulous attention should be paid to integrated myocardial protection with cold blood cardioplegia administered frequently in antegrade and retrograde fashions. This is particularly important in patients with significant left ventricular dilatation seen with aortic insufficiency or hypertrophy seen with aortic stenosis. Maintenance of high perfusion pressures after removal of cross-clamp optimizes myocardial perfusion during the critical reperfusion period. Optimization of right ventricular function with afterload reducing agents such as milrinone or inhaled prostaglandins while weaning from CPB is vital for maintaining adequate left ventricular filling in cases of severe diastolic dysfunction or ventricular hypertrophy. Postoperative myocardial infarction, reported in up to 2.5% of cases, may be related to technical problems with coronary reimplantation. 185
+Transient myocardial dysfunction following complex aortic surgery requiring inotropic support is common with 18 to 25% of patients requiring more than 6 hours of inotropic support. Meticulous attention should be paid to integrated myocardial protection with cold blood cardioplegia administered frequently in antegrade and retrograde fashions. This is particularly important in patients with significant left ventricular dilatation seen with aortic insufficiency or hypertrophy seen with aortic stenosis. Maintenance of high perfusion pressures after removal of cross-clamp optimizes myocardial perfusion during the critical reperfusion period. Optimization of right ventricular function with afterload reducing agents such as milrinone or inhaled prostaglandins while weaning from CPB is vital for maintaining adequate left ventricular filling in cases of severe diastolic dysfunction or ventricular hypertrophy. Postoperative myocardial infarction, reported in up to 2.5% of cases, may be related to technical problems with coronary reimplantation. 
+</div>
+</details>
 
-## Perioperative Mortality
+<details class="med-details">
+<summary>Perioperative Mortality</summary>
+<div class="details-content">
 
-Contemporary surgical series on ascending aortic disease using modern grafting techniques and methods of cerebral and myocardial protection report hospital mortality rates of 1.7 to 17.1%. Comparison of outcomes is difficult, however, because of heterogeneity of patients. Some series do not include dissection, and the proportion of emergent operations, reoperations, and arch replacements is highly variable. The common causes of early death are cardiac failure, stroke, bleeding, and pulmonary insufficiency. 185,186
+Contemporary surgical series on ascending aortic disease using modern grafting techniques and methods of cerebral and myocardial protection report hospital mortality rates of 1.7 to 17.1%. Comparison of outcomes is difficult, however, because of heterogeneity of patients. Some series do not include dissection, and the proportion of emergent operations, reoperations, and arch replacements is highly variable. The common causes of early death are cardiac failure, stroke, bleeding, and pulmonary insufficiency. 
 
-Emergent operation after the onset of acute dissection or rupture is the highest risk factor for early death. Risk of death following elective intervention is increased by increasing New York Heart Association classification, increasing age, prolonged CPB time, dissection, previous cardiac surgery, and need for concomitant coronary revascularization. <sup>188,189</sup>
+Emergent operation after the onset of acute dissection or rupture is the highest risk factor for early death. Risk of death following elective intervention is increased by increasing New York Heart Association classification, increasing age, prolonged CPB time, dissection, previous cardiac surgery, and need for concomitant coronary revascularization. 
+</div>
+</details>
 
-#### LATE COMPLICATIONS
+</div>
+</details>
 
-## Late Mortality
+<details class="med-details">
+<summary><span style="font-size:110%">LATE COMPLICATIONS</span></summary>
+<div class="details-content">
 
-Reported actuarial survival, like early mortality, is variable and dependent on the patient cohort. Survival rates are 81 to 95% at 1 year, 73 to 92% at 5 years, 60 to 73% at 8 to 10 years, and 48 to 67% at 12 to 14 years. 190-193 Predictors of late mortality include elevated New York Heart Association class, requirement for arch reconstruction, MFS, and extent of distal disease. 194-197 The most common cause of late death is cardiac, but distal aortic disease accounted for 32% of late deaths in one series. 198
+<details class="med-details">
+<summary>Late Mortality</summary>
+<div class="details-content">
 
-# Reoperation
+Reported actuarial survival, like early mortality, is variable and dependent on the patient cohort. Survival rates are 81 to 95% at 1 year, 73 to 92% at 5 years, 60 to 73% at 8 to 10 years, and 48 to 67% at 12 to 14 years. Predictors of late mortality include elevated New York Heart Association class, requirement for arch reconstruction, MFS, and extent of distal disease.  The most common cause of late death is cardiac, but distal aortic disease accounted for 32% of late deaths in one series. 
+</div>
+</details>
 
-Reoperations occur due to pseudoaneurysm formation, valve thrombosis, endocarditis or graft infection, progression of disease in the native valve or remaining aortic segments, or degeneration of a bioprosthesis. Reported mortality for reoperative ascending aortic surgery varies between 4 and 22%. <sup>199,200</sup>
+<details class="med-details">
+<summary>Reoperation</summary>
+<div class="details-content">
 
-Freedom from reoperation is 86 to 90% at 9 to 10 years (Fig. 48-35). <sup>201,202</sup> Predictors of late reoperation have included MFS, the inclusion cylinder technique, and chronic dissection. <sup>203</sup> Surveillance of patients who have undergone previous aortic surgery to minimize the need for urgent reoperations and appropriate resection of all diseased aortic tissue at the time of original operation improves outcomes. Up to 60% of reoperations occur due to inadequate repair during the initial operation. <sup>204</sup> This is due to failure to resect the most distal aspects of aneurysmal disease by performing a clamped distal anastomosis or failure to adequately address root pathology with full root replacement. Previous inclusion-type anastomotic techniques were associated with higher rates of early reoperation due to pseudoaneurysm formation (Fig. 48-36). <sup>205</sup>
+Reoperations occur due to pseudoaneurysm formation, valve thrombosis, endocarditis or graft infection, progression of disease in the native valve or remaining aortic segments, or degeneration of a bioprosthesis. Reported mortality for reoperative ascending aortic surgery varies between 4 and 22%.
 
-MFS patients are particularly prone to requiring reoperation (Fig. 48-37).<sup>206</sup> Gott et al reviewed the experience with root replacement at 10 surgical centers in 675 Marfan patients between 1968 and 1996.<sup>207</sup> The 30-day mortality was 3.3%,
-
+Freedom from reoperation is 86 to 90% at 9 to 10 years (Fig. 48-35). Predictors of late reoperation have included MFS, the inclusion cylinder technique, and chronic dissection.  Surveillance of patients who have undergone previous aortic surgery to minimize the need for urgent reoperations and appropriate resection of all diseased aortic tissue at the time of original operation improves outcomes. Up to 60% of reoperations occur due to inadequate repair during the initial operation. This is due to failure to resect the most distal aspects of aneurysmal disease by performing a clamped distal anastomosis or failure to adequately address root pathology with full root replacement. Previous inclusion-type anastomotic techniques were associated with higher rates of early reoperation due to pseudoaneurysm formation (Fig. 48-36).
+  
 ![](_page_32_Figure_12.jpeg)
 
-**FIGURE 48-35** Long term freedom from reoperation following full aortic root replacement and separate ascending aortic and valve replacemnt. (Reproduced with permission from Sioris T, David TE, Ivanov J, et al: Clinical outcomes after separate and composite replacement of the aortic valve and ascending aorta, *J Thorac Cardiovasc Surg* 2004 Aug;128(2):260-5.)
-
-but was only 1.5% for elective repair. Emergency surgery resulted in a 30-day mortality of nearly 12%. The survival rate was 93% at 1 year, 84% at 5 years, 75% at 10 years, and 59% at 20 years. Complications related to the residual thoracic aorta and arrhythmias were the leading causes of death. The most frequent late complication was thromboembolism. Advanced New York Heart Association class at the time of original operation was the only predictor of late death.
-
-#### **Graft** infection
-
-Graft infections are reported in up to 0.9 to 6% of patients following surgery of the thoracic aorta and are associated
-
+**FIGURE 48-35** Long term freedom from reoperation following full aortic root replacement and separate ascending aortic and valve replacemnt. 
+  
 ![](_page_32_Figure_17.jpeg)
 
-**FIGURE 48-36** Long term freedom from reoperation for pseudoaneurysm of the aortic or coronary ostial suture lines by operative technique (inclusion or open). (Reproduced with permission from Kouchoukos NT, Wareing TH, Murphy SF, et al: Sixteen-year experience with aortic root replacement: Results of 172 operations, *Ann Surg* 1991 Sep;214(3):308-18.)
+**FIGURE 48-36** Long term freedom from reoperation for pseudoaneurysm of the aortic or coronary ostial suture lines by operative technique (inclusion or open). 
 
+MFS patients are particularly prone to requiring reoperation (Fig. 48-37). Gott et al reviewed the experience with root replacement at 10 surgical centers in 675 Marfan patients between 1968 and 1996. The 30-day mortality was 3.3%, but was only 1.5% for elective repair. Emergency surgery resulted in a 30-day mortality of nearly 12%. The survival rate was 93% at 1 year, 84% at 5 years, 75% at 10 years, and 59% at 20 years. Complications related to the residual thoracic aorta and arrhythmias were the leading causes of death. The most frequent late complication was thromboembolism. Advanced New York Heart Association class at the time of original operation was the only predictor of late death.
+  
 ![](_page_33_Figure_2.jpeg)
 
-**FIGURE 48-37** Freedom from reoperation (Kaplan-Meier) of patients with Marfan syndrome [Group A] versus those without fibrillinopathic etiologies [Group B]. (Reproduced with permission from Detter C, Mair H, Klein HG, et al: Long-term prognosis of surgically-treated aortic aneurysms and dissections in patients with and without Marfan syndrome, *Eur J Cardiothorac Surg* 1998; Apr;13(4):416-423.)
+**FIGURE 48-37** Freedom from reoperation (Kaplan-Meier) of patients with Marfan syndrome [Group A] versus those without fibrillinopathic etiologies [Group B]. 
+</div>
+</details>
 
-with a very high (25-75%) mortality rate. 208-210 Most graft infections occur in the first month after operation and are frequently associated with wound infections. They may occur years later in cases of associated valve endocarditis or bacteremia from indwelling catheters or other systemic infections. The major infectious agents are *Staphylococcus aureus*, *S. epidermidis*, and Pseudomonas. 211 The ascending aortic graft may be particularly vulnerable because of proximity to the wound and poor natural tissue coverage. For this reason, full coverage of the ascending graft material with the pericardial fat pad is advisable in all cases. This serves to isolate the graft from the sternum should it become infected.
+<details class="med-details">
+<summary>Graft infection</summary>
+<div class="details-content">
 
-Patients frequently present with persistent fevers and elevated white cell count. CT or MRI may demonstrate air or fluid collections around the graft. There may be associated pseudoaneurysms, fistula, anastomotic leak, hemolysis, and embolism. Nuclear imaging techniques may be helpful but can be nonspecific for infection versus normal postoperative inflammation.<sup>212</sup> TEE may show valvular vegetations or abscesses.
+Graft infections are reported in up to 0.9 to 6% of patients following surgery of the thoracic aorta and are associated with a very high (25-75%) mortality rate. Most graft infections occur in the first month after operation and are frequently associated with wound infections. They may occur years later in cases of associated valve endocarditis or bacteremia from indwelling catheters or other systemic infections. The major infectious agents are *Staphylococcus aureus*, *S. epidermidis*, and Pseudomonas. The ascending aortic graft may be particularly vulnerable because of proximity to the wound and poor natural tissue coverage. For this reason, full coverage of the ascending graft material with the pericardial fat pad is advisable in all cases. This serves to isolate the graft from the sternum should it become infected.
 
-Ideally, treatment of the stable patient begins with intravenous antibiotics to control septicemia and often clear blood cultures prior to reoperation. In extremely high-risk patients, where reoperative mortality is prohibitive, life-long suppressive antibiotics may be acceptable. Surgical treatment of infected ascending aortic grafts, as described by Hargrove and Edmunds, includes removal of all infected prosthetic material, aggressive tissue debridement, local irrigation, systemic antibiotic therapy, replacement of the infected conduit, and utilization of autologous tissue to surround the graft and obliterate dead space.<sup>213</sup> Aortic homograft may potentially be more resistant to repeat infection. Greater omentum may be also brought up through the diaphragm as a vascularized pedicle to wrap around the aortic graft and isolate it from
+Patients frequently present with persistent fevers and elevated white cell count. CT or MRI may demonstrate air or fluid collections around the graft. There may be associated pseudoaneurysms, fistula, anastomotic leak, hemolysis, and embolism. Nuclear imaging techniques may be helpful but can be nonspecific for infection versus normal postoperative inflammation. TEE may show valvular vegetations or abscesses.
+
+Ideally, treatment of the stable patient begins with intravenous antibiotics to control septicemia and often clear blood cultures prior to reoperation. In extremely high-risk patients, where reoperative mortality is prohibitive, life-long suppressive antibiotics may be acceptable. Surgical treatment of infected ascending aortic grafts, as described by Hargrove and Edmunds, includes removal of all infected prosthetic material, aggressive tissue debridement, local irrigation, systemic antibiotic therapy, replacement of the infected conduit, and utilization of autologous tissue to surround the graft and obliterate dead space. Aortic homograft may potentially be more resistant to repeat infection. Greater omentum may be also brought up through the diaphragm as a vascularized pedicle to wrap around the aortic graft and isolate it from
 
 the sternum. Concomitant sternal infections should be managed with aggressive debridement, sterilization with vacuum-assisted wound drainage, and delayed flap reconstruction. In severe cases, open continuous antibiotic wound irrigation for several days can assist clearing the infection. Long-term antibiotics should be continued intravenously for at least 6 weeks and suppressive oral antibiotics may be indicated over the long-term thereafter.
+</div>
+</details>
+
+</div>
+</details>
