@@ -959,7 +959,7 @@ The published results for long-term survival following surgically treated acute 
 </details>
 
 <details class="med-details">
-<summary>MANAGEMENT OF ACUTE TYPE B AORTIC DISSECTION</summary>
+<summary><span style="font-size:110%">MANAGEMENT OF ACUTE TYPE B AORTIC DISSECTION</span></summary>
 <div class="details-content">
   
 Type B aortic dissections account for approximately 40% of all acute aortic dissections. Their natural course is more benign than that of acute type A dissections.
@@ -1325,7 +1325,7 @@ The most recent retrospective report by IRAD comparing the different strategies 
 </details>
 
 <details class="med-details">
-<summary>MANAGEMENT OF CHRONIC AORTIC DISSECTION</summary>
+<summary><span style="font-size:110%">MANAGEMENT OF CHRONIC AORTIC DISSECTION</span></summary>
 <div class="details-content">
 
 Chronic type A dissection develops in patients who fail to undergo immediate surgical treatment of the acute dissection. Patients with chronic type B aortic dissection include those that have been successfully managed medically after an acute dissection and those with repaired type A aortic dissections that have retained segments of dissected descending thoracic aorta.
@@ -1336,7 +1336,6 @@ Chronic type A dissection develops in patients who fail to undergo immediate sur
 Patients with a history of acute aortic dissection, especially those with retained dissected segments, require close surveillance indefinitely. Our preference for follow-up imaging in patients with normal renal function and no contrast allergy is CTA. CTA provides good imaging, is cost effective, and is usually the technique used for the original acute dissection, making it ideal for longitudinal comparison of studies. MRA is utilized mostly as a follow-up study for patients with renal insufficiency but is the study of choice to provide precise anatomical detail for operative planning.
 </div>
 </details>
-
 
 <details class="med-details">
 <summary>Progressing of aneurysmal dilatation, risk of aortic rapture</summary>
@@ -1446,14 +1445,12 @@ Preoperative planning with CTA or MRA is important to define the anatomy and pla
 
 The purpose of surgical intervention in chronic aortic dissection is to replace all segments of dissected aorta at risk for rupture and prevent the possibility of subsequent malperfusion syndrome. The conduct of the operation including surgical approach, monitoring lines required, anesthetic technique, and cardiopulmonary bypass is similar to that described for acute dissections. Greater emphasis is placed on methods of spinal cord protection.
 
-
 <details class="med-details">
 <summary>Spinal cord protection</summary>
 <div class="details-content">
 The incidence of paraplegia after repair of thoracoabdominal aneurysms resulting from aortic dissection is reportedly as high as 25%. Both mechanical and pharmacologic interventions have been advocated over the last decade to reduce this risk. Partial left heart bypass alone for replacement of the thoracic aorta above the level of T9 can reduce paraplegia rate between 5 and 8%. We routinely use a lumbar drain for aneurysms extending below T9. Reimplanting intercostals and lumbar arteries between T9 and L1 can be an important adjunct. The aortic cross-clamp is sequentially moved distally to perfuse branches as they are reimplanted. The combination of distal perfusion, CSF drainage, and reimplanting large intercostal and lumbar arteries has significantly reduced the incidence of paraplegia at our institutions. Additional techniques used for spinal cord protection include measurement of sensory and motor evoked potentials, regional epidural cooling, and the use of a variety of pharmacologic agents for cellular protection.
 </div>
 </details>
-
 
 The techniques used for replacement of the descending thoracic aorta are identical to those described for treatment of acute type B dissection. The extent of resection, however, for chronic type B dissection is usually greater with the goal to remove all dissected aorta at risk for rupture or symptoms. Usually these operations can be performed through the left chest, but more extensive aneurysms or cases of visceral malperfusion require a thoracoabdominal incision or a staged repair. The proximal anastomosis is ideally made to undissected normal aorta but infrequently the distal arch is involved, which requires alteration in surgical strategy.
 

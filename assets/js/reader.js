@@ -250,6 +250,10 @@ async function loadChapter(bookPath, chapterId, edition) {
             baseUrl: `${BASE_URL}${bookPath}/chapters/${chapterId}/images/`
         });
         
+        // Set html lang for correct hyphenation
+        const langMap = { original: 'en', russian: 'ru', starley: 'en', hebrew: 'he' };
+        document.documentElement.lang = langMap[edition] || 'en';
+
         // Добавляем класс в зависимости от языка
         if (edition === 'hebrew') {
             area.className = 'content hebrew-content';
@@ -424,12 +428,7 @@ function _initRadialMenu() {
                 document.body.classList.toggle('focus-mode');
                 _closeMenu();
             } else if (action === 'bookmark-panel') {
-                const panel = document.getElementById('bookmarks-panel');
-                if (panel) {
-                    const visible = panel.style.display !== 'none';
-                    panel.style.display = visible ? 'none' : 'block';
-                    if (!visible) _renderBookmarksList();
-                }
+                _openBookmarksModal();
                 _closeMenu();
             }
         });
@@ -562,11 +561,19 @@ function _initTooltips() {
 
         btn.addEventListener('pointerenter', () => {
             clearTimeout(_tipTimer);
-            _tipTimer = setTimeout(() => _showTip(btn), 320);
+            // Only show on hover for non-touch (touch devices: pointermove threshold)
+            if (!btn._isTouch) {
+                _tipTimer = setTimeout(() => _showTip(btn), 320);
+            }
         });
-        btn.addEventListener('pointerleave',  _hideTip);
-        btn.addEventListener('pointercancel', _hideTip);
-        btn.addEventListener('click',         _hideTip);
+        btn.addEventListener('pointerdown', (e) => {
+            btn._isTouch = (e.pointerType === 'touch');
+            clearTimeout(_tipTimer);
+            _hideTip();
+        });
+        btn.addEventListener('pointerleave',  () => { clearTimeout(_tipTimer); _hideTip(); });
+        btn.addEventListener('pointercancel', () => { clearTimeout(_tipTimer); _hideTip(); });
+        btn.addEventListener('click',         () => { clearTimeout(_tipTimer); _hideTip(); });
     });
 }
 
@@ -575,24 +582,23 @@ function _showTip(btn) {
     const colorClass = Array.from(btn.classList).find(c => c in _TIP_COLORS);
     const color = colorClass ? _TIP_COLORS[colorClass] : '#4caf50';
 
+    // Set content and color BEFORE measuring
     _tipEl.textContent = btn.dataset.tooltip;
     _tipEl.style.borderBottomColor = color;
-    _tipEl.classList.remove('visible');
 
-    // Show briefly hidden to measure real width
-    _tipEl.style.visibility = 'hidden';
-    _tipEl.style.opacity = '0';
-    _tipEl.classList.add('visible');
+    // Place off-screen, make renderable (no .visible yet so opacity=0 via CSS)
+    _tipEl.style.left = '-9999px';
+    _tipEl.style.top  = '0px';
+    // Force layout so offsetWidth is accurate
+    void _tipEl.offsetWidth;
 
-    // getBoundingClientRect of the button — this is in viewport coords,
-    // not affected by any parent transforms
-    const r   = btn.getBoundingClientRect();
+    const r    = btn.getBoundingClientRect();
     const tipW = _tipEl.offsetWidth;
     const tipH = _tipEl.offsetHeight;
 
-    // Center horizontally over button, place above it
-    let left = r.left + r.width / 2;  // center X of button
-    let top  = r.top - tipH - 8;      // above button with 8px gap
+    // Center above button
+    let left = r.left + r.width / 2;
+    let top  = r.top - tipH - 8;
 
     // Clamp to viewport
     left = Math.max(tipW / 2 + 4, Math.min(window.innerWidth - tipW / 2 - 4, left));
@@ -600,7 +606,9 @@ function _showTip(btn) {
 
     _tipEl.style.left = left + 'px';
     _tipEl.style.top  = top  + 'px';
-    _tipEl.style.visibility = '';
+
+    // Now show via CSS class only — no inline opacity/visibility
+    _tipEl.classList.add('visible');
 }
 
 function _hideTip() {
@@ -680,8 +688,15 @@ function _restoreMenuPosition(container) {
     const left = ReaderSettings.get('reader_menu_left', null);
     const top  = ReaderSettings.get('reader_menu_top',  null);
     if (left !== null && top !== null) {
-        container.style.left   = left + 'px';
-        container.style.top    = top  + 'px';
+        // Clamp to current viewport — saved position may be from a different screen size
+        const MARGIN = 8;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const SIZE = 56; // button size + some buffer
+        const clampedLeft = Math.max(MARGIN, Math.min(vw - SIZE - MARGIN, left));
+        const clampedTop  = Math.max(MARGIN, Math.min(vh - SIZE - MARGIN, top));
+        container.style.left   = clampedLeft + 'px';
+        container.style.top    = clampedTop  + 'px';
         container.style.right  = 'auto';
         container.style.bottom = 'auto';
     }
@@ -1064,44 +1079,84 @@ function _activateMatch(idx, updateCounter) {
 // ==========================================================================
 
 function _initBookmarks() {
-    const toggleBtn = document.getElementById('bookmark-toggle');
-    const panel     = document.getElementById('bookmarks-panel');
-    const clearBtn  = document.getElementById('bookmarks-clear');
+    const toggleBtn  = document.getElementById('bookmark-toggle');
+    const modal      = document.getElementById('bookmarks-modal');
+    const clearBtn   = document.getElementById('bookmarks-clear');
+    const closeBtn   = document.getElementById('bookmarks-modal-close');
+    const backdrop   = modal?.querySelector('.bm-modal-backdrop');
 
     if (!toggleBtn) return;
 
-    toggleBtn.addEventListener('click', () => {
-        const visible = panel.style.display !== 'none';
-        panel.style.display = visible ? 'none' : 'block';
-        if (!visible) _renderBookmarksList();
+    // Open modal
+    toggleBtn.addEventListener('click', () => _openBookmarksModal());
+
+    // Close modal
+    closeBtn?.addEventListener('click',  () => _closeBookmarksModal());
+    backdrop?.addEventListener('click',  () => _closeBookmarksModal());
+
+    // Keyboard close
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && modal?.style.display !== 'none') {
+            _closeBookmarksModal();
+        }
     });
 
+    // Clear all
     clearBtn?.addEventListener('click', () => {
-        if (confirm('Clear all bookmarks?')) {
-            ReaderSettings.set('reader_bookmarks', []);
+        if (confirm('Clear all bookmarks in this chapter?')) {
+            const all = _getBookmarks().filter(b => b.chapterId !== _currentChapterId);
+            _saveBookmarks(all);
             _renderBookmarksList();
             _renderBookmarkAnchors();
             _updateBookmarkButtonState();
         }
     });
 
-    // Double-click on a paragraph to add/remove bookmark
-    document.addEventListener('dblclick', (e) => {
-        const area = document.getElementById('content-area');
-        if (!area) return;
-        // Find the nearest block-level ancestor inside content-area
-        let target = e.target;
-        while (target && target !== area) {
-            if (['P','H1','H2','H3','H4','H5','LI','TD','BLOCKQUOTE'].includes(target.tagName)) {
-                _toggleBookmark(target);
-                return;
-            }
-            target = target.parentElement;
+    // Double-tap / dblclick on paragraph to bookmark
+    let _lastTap = 0;
+    document.addEventListener('touchend', (e) => {
+        const now = Date.now();
+        if (now - _lastTap < 350) {
+            _handleBookmarkTap(e.target);
         }
+        _lastTap = now;
+    }, { passive: true });
+
+    document.addEventListener('dblclick', (e) => {
+        _handleBookmarkTap(e.target);
     });
 
     _renderBookmarkAnchors();
     _updateBookmarkButtonState();
+}
+
+function _handleBookmarkTap(target) {
+    const area = document.getElementById('content-area');
+    if (!area) return;
+    let el = target;
+    while (el && el !== area) {
+        if (['P','H1','H2','H3','H4','H5','LI','TD','BLOCKQUOTE'].includes(el.tagName)) {
+            _toggleBookmark(el);
+            return;
+        }
+        el = el.parentElement;
+    }
+}
+
+function _openBookmarksModal() {
+    const modal = document.getElementById('bookmarks-modal');
+    if (!modal) return;
+    _renderBookmarksList();
+    modal.style.display = 'flex';
+    // Prevent body scroll while modal is open
+    document.body.style.overflow = 'hidden';
+}
+
+function _closeBookmarksModal() {
+    const modal = document.getElementById('bookmarks-modal');
+    if (!modal) return;
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
 }
 
 function _getBookmarks() {
@@ -1156,7 +1211,7 @@ function _renderBookmarksList() {
     list.innerHTML = '';
 
     if (!bookmarks.length) {
-        list.innerHTML = '<div class="bm-empty">No bookmarks in this chapter.<br>Double-click any paragraph to add.</div>';
+        list.innerHTML = '<div class="bm-empty">No bookmarks yet.<br>Double-tap any paragraph to add one.</div>';
         return;
     }
 
@@ -1168,11 +1223,11 @@ function _renderBookmarksList() {
             <span class="bm-item-text">${_escHtml(bm.text)}</span>
             <button class="bm-item-del" data-id="${bm.id}" title="Remove">✕</button>
         `;
-        // Click to navigate
+        // Tap/click to navigate — close modal first so paragraph is visible
         item.querySelector('.bm-item-text').addEventListener('click', () => {
-            _scrollToBookmark(bm.id);
+            _closeBookmarksModal();
+            setTimeout(() => _scrollToBookmark(bm.id), 120);
         });
-        // Delete button
         item.querySelector('.bm-item-del').addEventListener('click', (e) => {
             e.stopPropagation();
             _removeBookmarkById(bm.id);

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Starley Medical Library</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,14 +38,6 @@
             <h2 id="book-title">Loading...</h2>
             <div id="chapter-list" class="nav-list"></div>
             <hr>
-            <div id="bookmarks-panel" class="bookmarks-panel" style="display:none">
-                <div class="bookmarks-header">
-                    <span>Bookmarks</span>
-                    <button id="bookmarks-clear" class="bm-clear-btn" title="Clear all">✕ clear</button>
-                </div>
-                <div id="bookmarks-list" class="nav-list"></div>
-                <hr>
-            </div>
             <div id="internal-toc" class="nav-list"></div>
         </aside>
 
@@ -62,6 +54,22 @@
             <button id="search-prev" class="search-nav" title="Previous">↑</button>
             <button id="search-next" class="search-nav" title="Next">↓</button>
             <button id="search-close" class="search-close" title="Close">✕</button>
+        </div>
+    </div>
+
+    <!-- Bookmarks modal -->
+    <div id="bookmarks-modal" class="bm-modal" style="display:none">
+        <div class="bm-modal-backdrop"></div>
+        <div class="bm-modal-box">
+            <div class="bm-modal-header">
+                <span class="bm-modal-title">🔖 Bookmarks</span>
+                <div class="bm-modal-actions">
+                    <button id="bookmarks-clear" class="bm-clear-btn">✕ clear all</button>
+                    <button id="bookmarks-modal-close" class="bm-modal-close">✕</button>
+                </div>
+            </div>
+            <div id="bookmarks-list" class="bm-modal-list"></div>
+            <div class="bm-modal-hint">Double-tap any paragraph to bookmark it</div>
         </div>
     </div>
 
