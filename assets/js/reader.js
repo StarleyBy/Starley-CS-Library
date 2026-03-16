@@ -688,8 +688,15 @@ function _restoreMenuPosition(container) {
     const left = ReaderSettings.get('reader_menu_left', null);
     const top  = ReaderSettings.get('reader_menu_top',  null);
     if (left !== null && top !== null) {
-        container.style.left   = left + 'px';
-        container.style.top    = top  + 'px';
+        // Clamp to current viewport — saved position may be from a different screen size
+        const MARGIN = 8;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const SIZE = 56; // button size + some buffer
+        const clampedLeft = Math.max(MARGIN, Math.min(vw - SIZE - MARGIN, left));
+        const clampedTop  = Math.max(MARGIN, Math.min(vh - SIZE - MARGIN, top));
+        container.style.left   = clampedLeft + 'px';
+        container.style.top    = clampedTop  + 'px';
         container.style.right  = 'auto';
         container.style.bottom = 'auto';
     }
