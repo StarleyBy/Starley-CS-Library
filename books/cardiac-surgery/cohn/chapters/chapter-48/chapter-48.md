@@ -1,6 +1,88 @@
 # Ascending and Arch Aortic Aneurysms
 
 <details class="med-details">
+<summary><span style="font-size:110%"><span class="t-red">E</span>xecutive <span class="t-green">S</span>ummary</span></summary>
+<div class="details-content">
+
+## Key Etiologies & Genetics
+*   **Marfan Syndrome (MFS):** Autosomal dominant (FBN1 gene); incidence 1:3,000-10,000. Results in aortoannular ectasia. Losartan (ARB) may slow aortic growth (TGF-β antagonism).
+*   **Loeys-Dietz Syndrome (LDS):** Autosomal dominant (TGFBR1/2). More aggressive than MFS; rupture at smaller sizes.
+*   **Ehlers-Danlos (Type IV):** Defective Type III collagen; extremely friable tissue.
+*   **Familial TAAD (FTAAD):** Accounts for ~20% of thoracic aneurysms. Mutations in ACTA2, SMAD3, etc. Risk of rupture/dissection at diameters <5 cm.
+*   **Bicuspid Aortic Valve (BAV):** Male predominance (3:1). 9% prevalence in first-degree relatives. Associated with **4 distinct aortopathy patterns** (Fazel): Root only (13%), Ascending only (10%), Ascending + Proximal arch (28%), Diffuse (45%).
+*   **Infectious/Inflammatory:** Syphilis (tree-bark appearance), Takayasu’s (young females), Giant Cell Arteritis (elderly).
+
+## Natural History & Size Criteria
+*   **Untreated Prognosis:** 5-year survival only **13%** (vs. 75% controls) due to rupture/dissection (Bickerstaff).
+*   **Growth Rates:** <4 cm: ~0.1 cm/yr; >8 cm: ~0.4 cm/yr.
+*   **Rupture Risk (Coady):** 6.0-6.9 cm aneurysm has **4.3x** higher risk of rupture/dissection vs. 4.0-4.9 cm.
+*   **IRAD Caveat:** 59% of acute Type A dissections occur in aortas <5.5 cm; 40% occur in aortas <5.0 cm.
+
+## Indications for Surgery (Elective)
+*   **Degenerative Aneurysm:** **5.5 cm** absolute diameter, or growth rate **>1 cm/year**.
+*   **Connective Tissue Disorder (MFS):** **4.5 cm** (or aortic ratio 1.3-1.4).
+*   **Loeys-Dietz Syndrome:** **4.2 cm**.
+*   **Bicuspid Aortic Valve (BAV):**
+    *   STS Guidelines: **5.0 cm** (4.5 cm with family history of dissection).
+    *   ACC/AHA Guidelines: **5.5 cm** (5.0 cm with family history or rapid growth >5 mm/yr).
+*   **Chronic Dissection:** **4.5 cm** (weak aortic wall).
+*   **Concomitant Cardiac Surgery:** Replace ascending aorta if > **5.0 cm** or ratio >1.5.
+*   **Pseudoaneurysm:** Repair upon diagnosis (high rupture risk).
+
+## Medical Management
+*   **Anti-impulse Therapy:** Beta-blockers are first line (decrease dP/dT).
+    *   *Landmark Study (Shores):* In MFS, beta-blockers reduced aortic dilatation and composite endpoints over 10 years.
+*   **Exercise Restriction:** Avoid isometric exercise (weight lifting > 1/3-1/2 body weight).
+
+## Preoperative Preparation
+*   **Carotid Duplex:** For patients >65 years (stroke risk).
+*   **Coronary Angiography:** Routine; bypass lesions >50-60% stenosis.
+*   **Imaging:** CT/MRI of entire aorta (10-20% have concomitant AAA).
+*   **Pulmonary Function:** Spirometry and ABG if COPD suspected.
+
+## Cerebral Protection (DHCA)
+*   **Goal:** EEG silence. Cooling time minimum **50 min** if no EEG monitoring (Cheung: only 60% achieve silence at 30 min/18°C).
+*   **Temperature:** Core 18-21°C. Rewarming gradient **<10°C** (perfusate to patient).
+*   **Safe Arrest Times:** ~30 min at 15°C; ~40 min at 10°C. TND risk increases with age and arrest time >25 min.
+*   **Antegrade Cerebral Perfusion (ACP):** Used for arrest times >35-45 min. Flow rate 10 cc/kg/min; pressure 40-70 mmHg.
+*   **Retrograde Cerebral Perfusion (RCP):** Flow 200-300 cc/min; maintain SVC pressure at 25 mmHg.
+
+## Operative Techniques
+*   **Cannulation:** Right axillary (preferred for ACP via 8-10 mm graft), ascending aorta, or femoral (avoid if atheroma present).
+*   **Myocardial Protection:** Cold blood cardioplegia (6-8°C septal temp). Give every 20 min.
+*   **Root Replacement (Bentall):** For aortoannular ectasia or abnormal leaflets.
+    *   Coronary buttons mobilized 1-2 cm. Cabrol or interposition vein grafts if buttons too friable.
+*   **Valve-Sparing Root Replacement (David/Reimplantation):** For normal leaflets with dilated annulus/sinuses.
+*   **Modified Wheat:** Separate AVR + supracoronary tube graft (sinus segment normal, elderly patients).
+*   **Hemiarch Replacement:** Resect aorta to innominate (greater curve) and to subclavian (lesser curve). Preferred for proximal arch involvement.
+*   **Total Arch Replacement:**
+    *   **Kazui Technique:** Branched arch graft with selective ACP.
+    *   **Elephant Trunk (ET):** For two-stage repair of extensive arch + descending disease.
+    *   **Arch First (Kouchoukos):** Bilateral thoracotomy approach.
+
+## Hybrid and Endovascular Approaches
+*   **Landing Zones (0-4):** Zone 0 (ascending to innominate) is proximal landing zone for hybrid arch repair.
+*   **Hybrid Type I-III (Desai):**
+    *   Type I: Debranch + TEVAR (suitable Zone 0).
+    *   Type II: Ascending replacement + debranch + TEVAR (needs Zone 0 reconstruction).
+    *   Type III: Mega-aorta requiring extensive reconstruction.
+*   **Outcomes (Hybrid Pooled Analysis):** Mortality 10.8%, Stroke 7%, Spinal cord ischemia 7%, Endoleak up to 15%.
+
+## Postoperative Complications & Outcomes
+*   **Bleeding:** Re-exploration rate 2.4-11.1%. Use of antifibrinolytics (aminocaproic acid).
+*   **Stroke:** Risk increases with DHCA >40 min.
+*   **Mortality:**
+    *   Elective root replacement (Gott, Marfan): 1.5% (elective) vs. 12% (emergent).
+    *   General series: 1.7-17.1% (depends on acuity and arch involvement).
+*   **Late Survival:** 73-92% at 5 years; 60-73% at 10 years.
+*   **Reoperation:** Freedom 86-90% at 10 years. Higher in MFS, inclusion technique, or inadequate initial resection.
+*   **Graft Infection:** 0.9-6%; mortality 25-75%. Treatment: Graft explant, homograft, omental flap.
+</div>
+</details>
+
+
+
+<details class="med-details">
 <summary><span style="font-size:110%">HISTORY</span></summary>
 <div class="details-content">
 
