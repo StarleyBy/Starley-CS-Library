@@ -1,10 +1,12 @@
 # Cardiac Surgical Physiology
 
-Edward B. Savage • Nicolas A. Brozzi
+<h6>A cardiac surgical procedure is the most acute application of basic dynamic physiology that exists in medical care. Basic physiologic concepts of electromechanical activation and association, loading conditions, inotropy, etc all affect a successful outcome. Working knowledge of these fundamental concepts is imperative to maintain and return a patient to normal function. The purpose of this chapter is to present a manageable outline of cardiac physiology that can be used in daily practice, as a framework against which pathologic processes can be measured, assessed, and treated.</h6>
 
-A cardiac surgical procedure is the most acute application of basic dynamic physiology that exists in medical care. Basic physiologic concepts of electromechanical activation and association, loading conditions, inotropy, etc all affect a successful outcome. Working knowledge of these fundamental concepts is imperative to maintain and return a patient to normal function. The purpose of this chapter is to present a manageable outline of cardiac physiology that can be used in daily practice, as a framework against which pathologic processes can be measured, assessed, and treated.
-
-# CELLULAR COMPONENTS AND CELLULAR ACTIVATION
+<details class="med-details">
+<summary>
+<h2>CELLULAR COMPONENTS AND CELLULAR ACTIVATION</h2>
+</summary>
+<div class="details-content">
 
 The heart beats continuously based on the unique features of its component cells. A cardiac cycle begins when spontaneous depolarization of a pacemaker cell initiates an action potential. This electrical activity is transmitted to atrial muscle cells and to the conduction system which transmits the electrical activity to the ventricle. Activation is dependent on components of the cell membrane and cell which induce and maintain the ion currents that promote and spread electrical activation.
 
@@ -101,7 +103,14 @@ In this ionic milieu, the importance of intracellular pH maintenance should be s
 **FIGURE 3-5** Anatomy of the cardiac sarcomere. Ca<sup>2+</sup> influx during excitation provokes the release of additional Ca<sup>2+</sup> from the sarcoplasmic reticulum (SR). The Ca<sup>2+</sup> binds to troponin on the thin filaments triggering sarcomeric contraction (systole). The Ca<sup>2+</sup> is then removed from the cytosol through uptake into the SR and extracellular extrusion allowing sarcomere relaxation (diastole). (Reproduced with permission from Kobirumaki-Shimozawa F, Inoue T, Shintani SA, et al: Cardiac thin filament regulation and the Frank-Starling mechanism, *J Physiol Sci.* 2014 Jul;64(4):221-232.)
 
 the sarcoplasmic reticulum and reduces the responsiveness of myofilaments to calcium. Elevation of the pH will have the opposite effect. The clinical relevance of this observation cannot be overstressed.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>ELECTRICAL ACTIVATION OF THE HEART</summary>
+<div class="details-content">
 # ELECTRICAL ACTIVATION OF THE HEART
 
 ## Normal Cardiac Rhythm
@@ -159,7 +168,14 @@ Reentry arrhythmias are perhaps the most common dangerous cardiac rhythm. Ordina
 propagation of the action potential. Hyperkalemia decreases the resting membrane potential, which increases excitability and inactivates the sodium-potassium pump, slowing propagation of the action potential. Progressive atrial dilation creates a long conduction pathway around the atrium. Adrenergic stimulation shortens the refractory period.
 
 A special type of reentry arrhythmia occurs in Wolff-Parkinson-White syndrome in which an accessory pathway electrically connects the atrium and the ventricle. This accessory pathway can complete a circular electrical pathway between the atrium and the ventricle. Conduction is unidirectional across the AV node and the accessory pathway creates a loop that has a propagation time that is greater than the AV node refractory period, resulting in supraventricular tachycardia. In an alternative situation, because the accessory pathway does not have the inherent delay and refractory period of the AV node, rapid atrial tachycardias can be conducted in a 1:1 manner across the accessory pathway, leading to ventricular rates as fast as 300 beats per minute.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>REGULATION OF CELLULAR FUNCTION</summary>
+<div class="details-content">
 # REGULATION OF CELLULAR FUNCTION
 
 # Types of Receptors and Second Messengers
@@ -228,7 +244,14 @@ The endothelins (ETs) have multiple effects. When bound to ET-A receptors they c
 Bradykinins, acting through their receptors, cause vasodilation. Arginine vasopressin promotes reabsorption of water by the kidney and has a vasoconstrictor effect. Natriuretic peptides, released in response to atrial distension, promote diuresis and arteriolar dilatation.
 
 Nitric oxide (NO) plays an essential role in cardiac excitation-contraction coupling. NO can regulate Ca2+ entry into the cardiomyocyte, and the release of NO in specific subcellular compartments can influence Ca2+ release from the sarcoplasmic reticulum. NO influences the contractile kinetics of the myofilaments, ensuring that Ca2+ homeostasis is closely matched with the activity of the contractile machinery and allowing for dynamic adjustments during the systolic and diastolic phase. Through the stimulus of cyclic-GMP production, low amounts of NO can increase contractility but higher doses attenuate cardiomyocyte contraction. 17,24,25 Changes in cardiac NO production by nitric oxide synthase impact responses to heart failure, diabetes, atrial fibrillation and ischemia reperfusion states.26 Inhaled NO administered at low concentrations causes pulmonary arterial dilatation, reduces chronotropy, and has a positive inotropic effect.27
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>CONTRACTION OF CARDIAC MUSCLE</summary>
+<div class="details-content">
 #### CONTRACTION OF CARDIAC MUSCLE
 
 ## Molecular Level (The Sarcomere)
@@ -260,7 +283,14 @@ Cytoskeletal elements include microfilaments composed of actin, intermediate fil
 ## Regulation of the Strength of Contraction by Initial Sarcomere Length
 
 In cardiac muscle, the strength of contraction is related to resting sarcomere length (see also the Frank-Starling relationship in the following). Maximal contraction force occurs when the resting sarcomere length is between 2 and 2.4 μm. At this length, there is optimal overlap of the actin and myosin maximizing the number of actin-myosin cross-bridges. Force declines at a greater sarcomere length, with decreased overlap of actin and myosin. In the heart, a decrease in contractility related to decreased overlap of the filaments does not seem to occur clinically, as the resting length of the cardiac sarcomere rarely exceeds 2.2 to 2.4 µm. Once this length is reached, a stiff parallel elastic element prevents further dilation. If chamber dilation does occur, it appears to be primarily through slippage of fibers or myofibers rather than stretching of sarcomeres.1 Stretching the myocardium increases contractility by increasing the sensitivity of troponin C to calcium. This length-dependent sensitivity to calcium is an important part of the ascending limb of the Starling curve observed in the intact ventricle. Two known factors that contribute to control of length-dependent activation are: (1) conformational changes in the lattice of titin fibers and (2) thin filament "on-off" equilibrium regulated by protein kinase A and protein kinase C.32
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>THE PUMP</summary>
+<div class="details-content">
 #### **THE PUMP**
 
 ## Microscopic Architecture
@@ -370,7 +400,14 @@ The pulmonary circulation determines right ventricular afterload. The pulmonary 
 ## Ventricular Interdependence
 
 Functionally, the cardiac ventricles can be viewed as two hydraulic pumps in series, one coupled to a highly compliant pulmonary vasculature and the other matched to a less compliant systemic circulation. However, the ventricles have common structural elements and are contained within the non-compliant pericardium. The right ventricle, in particular, relies on the left ventricle to maintain its functional geometry. This anatomic and functional arrangement creates direct and serial interactions between the two chambers when an acute or chronic hemodynamic perturbation impacts either ventricle. Acute changes in ventricular interaction can include a shift of the septum towards one chamber in response to sudden volume overload; and enlargement of one chamber impacting diastolic filling of the other in the confined pericardial space. Clinical examples include: (1) massive right ventricular distension and reduced left ventricular filling in the setting of an acute pulmonary embolus; and (2) right ventricular dysfunction after left ventricular assist device implant due to septal shift and changes in right ventricular cavity geometry.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>ENERGETICS</summary>
+<div class="details-content">
 #### **ENERGETICS**
 
 #### **Chemical Fuels**
@@ -402,7 +439,14 @@ Following cardiac surgery, cardiac efficiency generally decreases because of the
 A clear understanding of the role of wall tension and its relation to oxygen demand is essential in cardiac surgery. Excessive systemic pressure may place inordinate energy demands on a compromised ventricle. An intraaortic balloon pump may shift the energy balance by reducing afterload and improving coronary blood flow. Ventricular distension during the weaning process after removal of the aortic cross-clamp, or with heart failure may create wall stress that outstrips the capacity to deliver oxygen to the myocardium. In the failing heart, where stroke volume is reduced, cardiac output is maintained by increasing heart rate, which increases the percentage of time that the myocardial wall stress is elevated, reduces
 
 the time when diastolic blood flow occurs, and creates an imbalance between oxygen demand and delivery.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>FUNCTIONAL RESPONSES TO METABOLIC DEMANDS</summary>
+<div class="details-content">
 # FUNCTIONAL RESPONSES TO METABOLIC DEMANDS<sup>45</sup>
 
 There are three distinct responses to altered metabolic demands. Two are responses to acute short-term alterations; the third is a response to chronic alterations in metabolic demands.
@@ -418,7 +462,14 @@ Contractility (inotropy) and relaxation (lusitropy) change in response to altere
 ## **Altered Gene Expression**
 
 Chronic changes in metabolic demands will provoke proliferative responses leading to altered gene expression. These include changes in the types of myosin and actin and changes in the number of membrane channels and pumps.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>CORONARY BLOOD FLOW</summary>
+<div class="details-content">
 #### **CORONARY BLOOD FLOW**
 
 ## Normal Coronary Blood Flow
@@ -505,7 +556,14 @@ With chronic hypoperfusion, oxygen delivery is at a reduced level but above the 
 Reperfusion of acutely ischemic myocardium may cause further cellular damage and necrosis rather than lead to immediate recovery. The etiology of reperfusion injury is multifactorial. Damaged endothelium in the reperfused region fails to prevent adhesion and activation of leukocytes and platelets. Oxygen-free radicals are released. Derangement of the ATP-dependent sodium-potassium pump disrupts cell volume regulation with consequent leakage of water into the cell, explosive cell swelling, and rupture of the cell membrane. Techniques applied to reduce reperfusion injury, minimize adverse sequelae, and preserve myocytes include leukocyte depletion or inactivation, prevention of endothelial activation, free radical scavenging, reperfusion with solutions low in calcium content, and reperfusion with hyperosmolar solutions.<sup>79,80</sup> Both adenosine and low-dose NO are potent cardioprotective agents that attenuate neutrophil-mediated damage, infarction, and apoptosis.81
 
 The metabolic changes that occur with ischemia-reperfusion represent a complex system of adaptive mechanisms that allow the myocyte to survive despite a temporary reduction in oxygen delivery. These adaptive mechanisms may be triggered by a very brief coronary occlusion (as short as 5 minutes) such that the negative sequelae of a subsequent prolonged coronary occlusion are greatly minimized. This phenomenon has been called ischemic preconditioning. A coronary occlusion that might cause as much as 40% myocyte death in a region subjected to prolonged ischemia may be reduced to only 10% myocyte death if the prolonged period of ischemia is preceded by a 5-minute interval of "preconditioning" coronary occlusion.<sup>79,82,83</sup>
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>PHYSIOLOGY OF HEART FAILURE</summary>
+<div class="details-content">
 #### PHYSIOLOGY OF HEART FAILURE
 
 #### **Definition and Classification**
@@ -539,45 +597,5 @@ The progressive fibrosis leads to increased diastolic stiffness which limits dia
 Evidence has accumulated over the past decade that suggests endothelial dysfunction, release of cytokines, and apoptotic cell death may participate in the development of heart failure as a maladaptive reaction (Figure 3-15). Reduced availability of nitric oxide and increased production of vasoconstrictor agents such as endothelin and angiotensin II has been reported in failing hearts. <sup>97</sup> Heart failure is often accompanied by changes in the endogenous antioxidant defense mechanisms of the heart as well as evidence of oxidative injury to the myocardium. Cytokines, released from systemic and local inflammatory responses in the failing heart, directly activate inflammatory cells to release superoxide radicals and cause endothelial dysfunction by augmenting inflammatory cell-endothelial cell interactions. Cytokines may also directly induce necrotic and apoptotic myocyte cell death. <sup>98</sup>
 
 Cardiac secretion of B-type natriuretic peptide (BNP) has been shown to be increased with heart failure. BNP is a cardiac neurohormone released as preproBNP that is enzymatically cleaved to N-terminal-proBNP and BNP upon ventricular myocyte stretch. The physiologic effects of BNP include natriuresis, vasodilation and neurohumoral changes. Measurement of plasma BNP is a useful and cost-effective marker for heart failure. Other factors rather than stretch may stimulate BNP release including fibrosis, arrhythmias, ischemia, endothelial dysfunction, and cardiac hypertrophy.
-
-#### **ACKNOWLEDGMENTS**
-
-The authors would like to acknowledge the work of the authors of this chapter in the 2nd edition, Jakob Vinten-Johansen, Zhi-Qing Zhao, and Robert A. Guyton. The current revision was based on the solid foundation they had prepared.
-
-#### **REFERENCES**
-
-- Opie LH. Fuels: carbohydrates and lipids, in Swynghedauw B, Taegtmeyer H, Ruegg JC, Carmeliet E (eds): The Heart: Physiology and Metabolism. New York, Raven Press, 1991, p 208.
-- Katz AM: Regulation of cardiac contraction and relaxation, in Willerson JT, Cohn JN (eds): Cardiovascular Medicine. New York, Churchill Livingstone, 1995; p 790.
-- 3. Andersen OS, Koeppe RE: Molecular determinants of channel function. *Physiol Rev* 1992; 72:S89-158.
-- Catterall WA: Cellular and molecular biology of voltage-gated sodium channels. *Physiol Rev* 1992; 72:S15-48.
-- Levitan IB: Modulation of ion channels by protein phosphorylation and dephosphorylation. Annu Rev Physiol 1994; 56:193-212.
-- McDonald TF, Pelzer S, Trautwein, et al: Regulation and modulation of calcium channels in cardiac, skeletal, and smooth muscle cells. *Physiol Rev* 1994; 74:365-507.
-
-- Barry WH, Bridge JHB: Intracellular calcium homeostasis in cardiac myocytes. Circulation 1993; 87:1806-1815.
-- 8. Pallotta BS, Wagoner PK: Voltage-dependent potassium channels since Hodgkin and Huxley. *Physiol Rev* 1992; 72:S49-67.
-- Horisberger JD, Lemas V, Kraehenbuhl JP, Rossier BC: Structurefunction relationship of Na, K-ATPase. Annu Rev Physiol 1991; 53:565-584.
-- Pozzan T, Rizzuto R, Volpe P, Meldolesi J: Molecular and cellular physiology of intracellular calcium stores. *Physiol Rev* 1994; 74:595-636.
-- Kutchai HC: Ionic equalibria and resting membrane potentials, in Berne RM, Levy MV, Koeppen BM, Stanton BA (eds): *Physiology*. St. Louis, Mosby, 2004; pp 23-26.
-- Levy MN: Electrical activity of the heart, in Berne RM, Levy MV, Koeppen BM, Stanton BA (eds): *Physiology*. St. Louis, Mosby, 2004; pp 276-277.
-- 13. Coraboeuf E, Nargeot J: Electrophysiology of human cardiac cells. Cardiovasc Res 1993; 27:1713-1725.
-- Naccarelli GV: Recognition and physiologic treatment of cardiac arrhythmias and conduction disturbances, in Willerson JT, Cohn JN (eds): Cardiovascular Medicine. New York, Churchill Livingstone, 1995; p 1282.
-- Katz AM: Physiology of the Heart, 4th ed. Philadelphia, Lippincott Williams & Wilkins, 2006; p 217.
-- Katz AM: Physiology of the Heart, 4th ed. Philadelphia, Lippincott Williams & Wilkins, 2006; p 220.
-- Katz AM: Physiology of the Heart, 4th ed. Philadelphia, Lippincott Williams & Wilkins, 2006; p 227.
-- Katz AM: Physiology of the Heart, 4th ed. Philadelphia, Lippincott Williams & Wilkins, 2006; p 538.
-- Homcy CJ, Vatner ST, Vatner DE: Beta-adrenergic receptor regulation in the heart in pathophysiologic states: abnormal adrenergic responsiveness in cardiac disease. *Annu Rev Physiol* 1991; 53:137-159.
-- Feldman AM: Classification of positive inotropic agents. J Am Coll Cardiol 1993; 22:1223-1237.
-- 21. Honerjager P: Pharmacology of bipyridine phosphodiesterase III inhibitors. *Am Heart J* 1991; 1939-1944.
-- Vinten-Johansen J, Zhao Z, Corvera JS, et al: Adenosine in myocardial protection in on-pump and off-pump cardiac surgery. *Ann Thorac Surg* 2003; 75:S691-699.
-- Hynynen MM, Khalil RA: The vascular endothelin system in hypertension—Recent patents and discoveries. *Recent Pat Cardiovasc Drug Discov* 2006; 1:95-108.
-- 24. Brady AJ, Warren JB, Poole-Wilson PA, et al: Nitric oxide attenuates cardiac myocyte contraction. *Am J Physiol* 1993; 265:H176-82.
-- 25. Rastaldo R, Pagliaro P, Cappello S, et al: Nitric oxide and cardiac function. *Life Sci* 2007; 81:779-793.
-- 26. Simon JN, Duglan D, Casadei B, et al: Nitric oxide synthase regulation of cardiac excitation-contraction coupling in health and disease. *J Mol Cell Cardiol* 2014; 73:80-91.
-- 27. Katz AM: *Physiology of the Heart*, 4th ed. Philadelphia, Lippincott Williams & Wilkins, 2006; p 241.
-- Parsons B, Szczesna D, Zhao J, Van Slooten G, Kerrick WG, Putkey JA, Potter JD: The effect of pH on the Ca<sup>2+</sup> affinity of the Ca<sup>2+</sup> regulatory sites of skeletal and cardiac troponin C in skinned muscle fibres. *J Muscle Res Cell Motil* 1997; 18:599-609.
-- Ebashi S: Excitation-contraction coupling and the mechanism of muscle contraction. Annu Rev Physiol 1991; 53:1-16.
-- Katz AM: Physiology of the Heart, 4th ed. Philadelphia, Lippincott Williams & Wilkins, 2006; p 128.
-- 31. Perriard JC, Hirschy A, Ehler E: Dilated cardiomyopathy: a disease of the intercalated disc? *Trends Cardiovasc Med* 2003; 13:30-38.
-- Kobirumaki-Shimozawa F, Inoue T, Shintani SA, et al: Cardiac thin filament regulation and the Frank-Starling mechanism. *J Physiol Sci* 2014; 64:221-232.
-- Briand M, Dumesnil JG, Kadem L, et al: Reduced systemic arterial compliance impacts significantly on left ventricular afterload and function in aortic stenosis: implications for diagnosis and treatment. *J Am Coll Cardiol* 2005; 46:291-298.
-- Glower DD, Spratt JA, Snow ND, et al: Linearity of the Frank-Starling relationship in the intact heart: the concept of preload recruitable stroke work. *Circulation* 1985; 71:994-1009.
+</div>
+</details>
