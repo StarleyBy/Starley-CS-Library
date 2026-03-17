@@ -1,10 +1,11 @@
 # Cardiac Surgical Physiology
 
-<h6>A cardiac surgical procedure is the most acute application of basic dynamic physiology that exists in medical care. Basic physiologic concepts of electromechanical activation and association, loading conditions, inotropy, etc all affect a successful outcome. Working knowledge of these fundamental concepts is imperative to maintain and return a patient to normal function. The purpose of this chapter is to present a manageable outline of cardiac physiology that can be used in daily practice, as a framework against which pathologic processes can be measured, assessed, and treated.</h6>
+##### A cardiac surgical procedure is the most acute application of basic dynamic physiology that exists in medical care. Basic physiologic concepts of electromechanical activation and association, loading conditions, inotropy, etc all affect a successful outcome. Working knowledge of these fundamental concepts is imperative to maintain and return a patient to normal function. The purpose of this chapter is to present a manageable outline of cardiac physiology that can be used in daily practice, as a framework against which pathologic processes can be measured, assessed, and treated.
 
 <details class="med-details">
 <summary>
-<h2>CELLULAR COMPONENTS AND CELLULAR ACTIVATION</h2>
+  
+## CELLULAR COMPONENTS AND CELLULAR ACTIVATION
 </summary>
 <div class="details-content">
 
@@ -12,7 +13,11 @@ The heart beats continuously based on the unique features of its component cells
 
 The activity of cells in the heart is triggered by an action potential. An action potential is a cyclical activation of the cell comprised of a rapid change in the membrane potential (the electrical gradient across the cell membrane) and subsequent return to a resting membrane potential. This process is dependent on a selectively permeable cell membrane and proteins that actively and passively direct ion passage across the cell membrane. The specific components of the myocyte action potential are detailed in Figure 3-3. The myocyte action potential is characterized by a rapid initial depolarization mediated by fast channels (sodium channels), then a plateau phase mediated by slow channels (calcium channels). Further details of this process are introduced as their components are described.
 
-#### The Sarcolemma
+<details class="med-details">
+<summary>
+  
+  ### The Sarcolemma</summary>
+<div class="details-content">
 
 The cardiac cell is surrounded by a membrane (plasmalemma or more specific to a muscle cell, sarcolemma). The structural
 
@@ -20,7 +25,11 @@ components of the sarcolemma allow for the origination and then the conduction o
 
 #### THE PHOSPHOLIPID BILAYER
 
-The sarcolemma is a phospholipid bilayer that provides a barrier between the extracellular compartment and the intracellular compartment or cytosol. The sarcolemma, which is only two molecules thick, consists of phospholipids and cholesterol aligned so that the lipid, or the hydrophobic, portion of the molecule is on the inside of the membrane, and the hydrophilic portion of the molecule is on the outside (Figure 3-1). The phospholipid bilayer provides a fluid barrier that is particularly impermeable to the diffusion of ions. Small lipidsoluble molecules such as oxygen and carbon dioxide diffuse easily through the membrane. The water molecule, although insoluble in the membrane, is small enough that it diffuses easily through the membrane (or through pores in the membrane). Other, slightly larger molecules (sodium, chloride, potassium, calcium) cannot easily diffuse through the lipid bilayer and require specialized channels for transport.<sup>1,2</sup>
+The sarcolemma is a phospholipid bilayer that provides a barrier between the extracellular compartment and the intracellular compartment or cytosol. The sarcolemma, which is only two molecules thick, consists of phospholipids and cholesterol aligned so that the lipid, or the hydrophobic, portion of the molecule is on the inside of the membrane, and the hydrophilic portion of the molecule is on the outside (Figure 3-1). The phospholipid bilayer provides a fluid barrier that is particularly impermeable to the diffusion of ions. Small lipidsoluble molecules such as oxygen and carbon dioxide diffuse easily through the membrane. The water molecule, although insoluble in the membrane, is small enough that it diffuses easily through the membrane (or through pores in the membrane). Other, slightly larger molecules (sodium, chloride, potassium, calcium) cannot easily diffuse through the lipid bilayer and require specialized channels for transport.
+  
+![](_page_1_Picture_2.jpeg)
+
+**FIGURE 3-1** The sarcolemma is a bilayer in which phospholipid and cholesterol molecules are arranged with hydrophobic domains within the membrane and hydrophilic domains facing outward. The membrane-spanning protein shown here is similar to many ion channels, with six hydrophobic alpha-helices spanning the membrane and surrounding a central channel.
 
 The specialized ion-transport systems within the sarcolemma consist of membrane-spanning proteins that float in and penetrate through the lipid bilayer. These proteins are associated with three different types of ion transport: (1) diffusion through transmembrane channels that can be opened or closed (gated) in response to electrical (voltage-gated) or chemical (ligand-gated) stimuli; (2) exchange of one ion for another by attachment to binding sites for transmission in response to an electrochemical gradient; and (3) active (energy-dependent) transport of ions against an electrochemical gradient.
 
@@ -30,11 +39,12 @@ Other proteins located in the sarcolemma serve as receptors for neuronal or chem
 
 Most of the voltage-gated channels consist of four subunits that surround the water-filled pore through which ions cross
 
-![](_page_1_Picture_2.jpeg)
 
-**FIGURE 3-1** The sarcolemma is a bilayer in which phospholipid and cholesterol molecules are arranged with hydrophobic domains within the membrane and hydrophilic domains facing outward. The membrane-spanning protein shown here is similar to many ion channels, with six hydrophobic alpha-helices spanning the membrane and surrounding a central channel.
 
 the membrane. A schematic diagram of an ion channel is shown in Figure 3-2. Each channel contains a selectivity filter that allows the passage of particular ions based upon pore size and electrical charge, and an activation gate regulated by conformational changes induced by either a voltage-sensitive or a ligand-binding region of the protein. Many channels also have an inactivation gate. 1,3
+</div>
+</details>
+
 
 ## Voltage-Gated Sodium Channels
 
