@@ -2,28 +2,24 @@
 
 ##### A cardiac surgical procedure is the most acute application of basic dynamic physiology that exists in medical care. Basic physiologic concepts of electromechanical activation and association, loading conditions, inotropy, etc all affect a successful outcome. Working knowledge of these fundamental concepts is imperative to maintain and return a patient to normal function. The purpose of this chapter is to present a manageable outline of cardiac physiology that can be used in daily practice, as a framework against which pathologic processes can be measured, assessed, and treated.
 
-<details class="med-details">
-<summary>
+<details class="med-details"><summary>
   
 ## CELLULAR COMPONENTS AND CELLULAR ACTIVATION
-</summary>
-<div class="details-content">
+</summary><div class="details-content">
 
 The heart beats continuously based on the unique features of its component cells. A cardiac cycle begins when spontaneous depolarization of a pacemaker cell initiates an action potential. This electrical activity is transmitted to atrial muscle cells and to the conduction system which transmits the electrical activity to the ventricle. Activation is dependent on components of the cell membrane and cell which induce and maintain the ion currents that promote and spread electrical activation.
 
 The activity of cells in the heart is triggered by an action potential. An action potential is a cyclical activation of the cell comprised of a rapid change in the membrane potential (the electrical gradient across the cell membrane) and subsequent return to a resting membrane potential. This process is dependent on a selectively permeable cell membrane and proteins that actively and passively direct ion passage across the cell membrane. The specific components of the myocyte action potential are detailed in Figure 3-3. The myocyte action potential is characterized by a rapid initial depolarization mediated by fast channels (sodium channels), then a plateau phase mediated by slow channels (calcium channels). Further details of this process are introduced as their components are described.
 
-<details class="med-details">
-<summary>
+<details class="med-details"><summary>
   
-  ### The Sarcolemma</summary>
-<div class="details-content">
+  ### The Sarcolemma</summary><div class="details-content">
 
-The cardiac cell is surrounded by a membrane (plasmalemma or more specific to a muscle cell, sarcolemma). The structural
+The cardiac cell is surrounded by a membrane (plasmalemma or more specific to a muscle cell, sarcolemma). The structural components of the sarcolemma allow for the origination and then the conduction of an electrical signal through the heart with subsequent initiation of the excitation-contraction coupling process. The sarcolemma also participates in the regulation of excitation, contraction, and intracellular metabolism in response to neuronal and chemical stimulation.
 
-components of the sarcolemma allow for the origination and then the conduction of an electrical signal through the heart with subsequent initiation of the excitation-contraction coupling process. The sarcolemma also participates in the regulation of excitation, contraction, and intracellular metabolism in response to neuronal and chemical stimulation.
-
-#### THE PHOSPHOLIPID BILAYER
+<details class="med-details"><summary>
+  
+  #### THE PHOSPHOLIPID BILAYER</summary><div class="details-content">
 
 The sarcolemma is a phospholipid bilayer that provides a barrier between the extracellular compartment and the intracellular compartment or cytosol. The sarcolemma, which is only two molecules thick, consists of phospholipids and cholesterol aligned so that the lipid, or the hydrophobic, portion of the molecule is on the inside of the membrane, and the hydrophilic portion of the molecule is on the outside (Figure 3-1). The phospholipid bilayer provides a fluid barrier that is particularly impermeable to the diffusion of ions. Small lipidsoluble molecules such as oxygen and carbon dioxide diffuse easily through the membrane. The water molecule, although insoluble in the membrane, is small enough that it diffuses easily through the membrane (or through pores in the membrane). Other, slightly larger molecules (sodium, chloride, potassium, calcium) cannot easily diffuse through the lipid bilayer and require specialized channels for transport.
   
@@ -31,133 +27,217 @@ The sarcolemma is a phospholipid bilayer that provides a barrier between the ext
 
 **FIGURE 3-1** The sarcolemma is a bilayer in which phospholipid and cholesterol molecules are arranged with hydrophobic domains within the membrane and hydrophilic domains facing outward. The membrane-spanning protein shown here is similar to many ion channels, with six hydrophobic alpha-helices spanning the membrane and surrounding a central channel.
 
+<details class="med-details"><summary>
+  
+##### Types of ion transport</summary><div class="details-content">
 The specialized ion-transport systems within the sarcolemma consist of membrane-spanning proteins that float in and penetrate through the lipid bilayer. These proteins are associated with three different types of ion transport: (1) diffusion through transmembrane channels that can be opened or closed (gated) in response to electrical (voltage-gated) or chemical (ligand-gated) stimuli; (2) exchange of one ion for another by attachment to binding sites for transmission in response to an electrochemical gradient; and (3) active (energy-dependent) transport of ions against an electrochemical gradient.
+</div></details>
 
 Other proteins located in the sarcolemma serve as receptors for neuronal or chemical control of cellular processes.
+</div></details>
 
-#### ION CHANNELS
+<details class="med-details"><summary>
+  
+  #### ION CHANNELS</summary><div class="details-content">
 
-Most of the voltage-gated channels consist of four subunits that surround the water-filled pore through which ions cross
-
-
-
-the membrane. A schematic diagram of an ion channel is shown in Figure 3-2. Each channel contains a selectivity filter that allows the passage of particular ions based upon pore size and electrical charge, and an activation gate regulated by conformational changes induced by either a voltage-sensitive or a ligand-binding region of the protein. Many channels also have an inactivation gate. 1,3
-</div>
-</details>
-
-
-## Voltage-Gated Sodium Channels
-
-The voltage-gated sodium channel is prominent in most electrically excitable muscle and nerve cells. Energy-dependent pumps and other ions create a large concentration gradient of positive sodium ions (142 mEq/L outside, 10 mEq/L inside) and a large electrical gradient (–70 to –90 millivolts (mV) from outside to inside) across the cell membrane. Both gradients favor the influx of sodium. This passive influx is termed an inward current. The inward current of sodium ions begins to depolarize (reduce the
-
-electrical gradient) across the sarcolemma. When the membrane potential is raised to between -70 and -50 mV, the activation gate of the sodium channel opens. Sodium ions rapidly rush into the cell depolarizing the sarcolemmal membrane. The inactivation gate of the sodium channel begins to close at the same voltage, with a built-in time delay, so the sodium channel is open for only a few milliseconds. Because these channels open and close so quickly, they are called fast channels. The inactivation gate of the sodium channel remains closed until the cell is repolarized to the resting negative membrane potential.  $^{4.5}$ 
-
-## Voltage-Gated Calcium Channels
-
-There are two important calcium channels. The type T (transient)-calcium channels open as the membrane potential rises to -60 to -50 mV, and then close quickly. These T-calcium channels are important in early depolarization, especially in atrial pacemaker cells.
-
+Most of the voltage-gated channels consist of four subunits that surround the water-filled pore through which ions cross the membrane. A schematic diagram of an ion channel is shown in Figure 3-2. Each channel contains a selectivity filter that allows the passage of particular ions based upon pore size and electrical charge, and an activation gate regulated by conformational changes induced by either a voltage-sensitive or a ligand-binding region of the protein. Many channels also have an inactivation gate.
+  
 ![](_page_1_Picture_10.jpeg)
 
 **FIGURE 3-2** A voltage-gated sodium channel is schematically depicted. The shaded region is the selectivity filter. *A* represents the activation gate, and *I* represents the inactivation gate. At rest, the inactivation gate is open and the activation gate is closed. As the transmembrane potential rises from -80 to -60 mV, the activation gate opens, and sodium ions pass through the channel. Within a few milliseconds, the inactivation gate closes. Once the cell repolarizes the resting ion channel returns to the resting state.
+</div></details>
 
-The second major calcium channel, type L (long-lasting) channel, a slow channel, leads to an inward (depolarizing) current that is slowly inactivated and therefore prolonged. These channels open at a less negative potential (–30 to –20 mV). Once open, the prolonged inward calcium current (Figure 3-3) sustains the action potential. This increase in cytosolic calcium begins the excitation-contraction sequence. Beta-receptor stimulation induces conformational changes in the channel, resulting in an increased influx of calcium ions and an associated increase in the strength of sarcomere contraction. This effect is attenuated by stimulation of acetylcholine and adenosine receptors.<sup>6,7</sup>
+</div></details>
 
-#### Potassium Channels
+<details class="med-details"><summary>
+  
+### Voltage-Gated Sodium Channels</summary><div class="details-content">
 
-A variety of potassium channels, both voltage- and ligand-gated, are present in cardiac cells. Three voltage-gated potassium channels moderate the delayed rectifier current which repolarizes the cell membrane (Figure 3-3).8
+The voltage-gated sodium channel is prominent in most electrically excitable muscle and nerve cells. Energy-dependent pumps and other ions create a large concentration gradient of positive sodium ions (142 mEq/L outside, 10 mEq/L inside) and a large electrical gradient (–70 to –90 millivolts (mV) from outside to inside) across the cell membrane. Both gradients favor the influx of sodium. This passive influx is termed an inward current. The inward current of sodium ions begins to depolarize (reduce the electrical gradient) across the sarcolemma. When the membrane potential is raised to between -70 and -50 mV, the activation gate of the sodium channel opens. Sodium ions rapidly rush into the cell depolarizing the sarcolemmal membrane. The inactivation gate of the sodium channel begins to close at the same voltage, with a built-in time delay, so the sodium channel is open for only a few milliseconds. Because these channels open and close so quickly, they are called fast channels. The inactivation gate of the sodium channel remains closed until the cell is repolarized to the resting negative membrane potential. 
+</div></details>
 
-Several ligand-gated potassium channels have been identified. Acetylcholine and adenosine-activated potassium channels are time-independent, and lead to hyperpolarization in pacemaker and nodal cells, thereby delaying spontaneous depolarization. A calcium-activated potassium channel opens in the presence of high levels of cytosolic calcium and probably enhances the delayed rectifier current, leading to early termination of the action potential. An adenosine triphosphate (ATP)-sensitive potassium channel is closed in the metabolically normal myocyte, but is opened in the metabolically starved myocyte in which ATP stores have been depleted, leading to hyperpolarization of the cell, thereby retarding depolarization and contraction.
+<details class="med-details"><summary>
+  
+### Voltage-Gated Calcium Channels</summary><div class="details-content">
 
-#### **ENERGY-DEPENDENT ION PUMPS**
+There are two important calcium channels. 
+ 
+<details class="med-details"><summary>
+  
+  #### Type T (transient)-calcium channels</summary><div class="details-content">
+ The type T (transient)-calcium channels open as the membrane potential rises to -60 to -50 mV, and then close quickly. These T-calcium channels are important in early depolarization, especially in atrial pacemaker cells.
+</div></details>
 
-Sodium-potassium atp-dependent pump. The sodium-potassium pump uses the energy obtained from the hydrolysis of ATP to move three Na<sup>+</sup> ions out of the cell and two K<sup>+</sup> ions into the cell, each against its respective concentration gradient. Since there is a net outward current (three Na<sup>+</sup> ions for two K<sup>+</sup> ions), the pump contributes about 10 mV to the resting membrane potential. The activity of the pump is strongly stimulated by attachment of sodium to its binding site. The Na<sup>+</sup>-K<sup>+</sup> adenosine triphosphatase, Na<sup>+</sup>-K<sup>+</sup> (ATPase), has a very high affinity for ATP, so that the pump continues to function even if ATP levels are reduced.
+<details class="med-details"><summary>
+  
+  #### Type L (long-lasting)-calcium channels</summary><div class="details-content">
+The second major calcium channel, type L (long-lasting) channel, a slow channel, leads to an inward (depolarizing) current that is slowly inactivated and therefore prolonged. These channels open at a less negative potential (–30 to –20 mV). Once open, the prolonged inward calcium current (Figure 3-3) sustains the action potential. This increase in cytosolic calcium begins the excitation-contraction sequence. Beta-receptor stimulation induces conformational changes in the channel, resulting in an increased influx of calcium ions and an associated increase in the strength of sarcomere contraction. This effect is attenuated by stimulation of acetylcholine and adenosine receptors.
+</div></details>
 
-Atp-dependent calcium pump. The ATP-dependent calcium pump transports calcium out of the cell against a strong concentration gradient. This action represents a net outward current, but the magnitude of this current is quite small because the bulk of calcium transferred out of the cell occurs with sodium-calcium exchange (described in the following). The cytosolic protein, calmodulin, can complex with calcium and facilitate the action of the pump; thus, increased intracellular calcium levels stimulate the pump. <sup>9,10</sup>
+</div></details>
 
+<details class="med-details"><summary>
+  
+### Potassium Channels</summary><div class="details-content">
+
+A variety of potassium channels, both voltage- and ligand-gated, are present in cardiac cells. Three voltage-gated potassium channels moderate the delayed rectifier current which repolarizes the cell membrane (Figure 3-3).
+  
 ![](_page_2_Figure_9.jpeg)
 
 **FIGURE 3-3** A typical ventricular myocyte action potential and the ion currents contributing to it are schematically represented. Inward (depolarizing) currents are depicted as positive, and outward (repolarizing) currents are depicted as negative. The horizontal filled bars show the state of the gate of the ion channel (white = open; black = closed; shaded = partially open). In the case of the sodium channel, both the activation and inactivation gates are shown (Ca = calcium; i = current; K = potassium; Na = sodium).
 
-#### ION EXCHANGERS
+Several ligand-gated potassium channels have been identified. Acetylcholine and adenosine-activated potassium channels are time-independent, and lead to hyperpolarization in pacemaker and nodal cells, thereby delaying spontaneous depolarization. A calcium-activated potassium channel opens in the presence of high levels of cytosolic calcium and probably enhances the delayed rectifier current, leading to early termination of the action potential. An adenosine triphosphate (ATP)-sensitive potassium channel is closed in the metabolically normal myocyte, but is opened in the metabolically starved myocyte in which ATP stores have been depleted, leading to hyperpolarization of the cell, thereby retarding depolarization and contraction.
+</div></details>
 
-Sodium-calcium exchanger. Multiple proteins that traverse the membrane allow ion exchanges using the potential energy of the electrochemical gradient which favors the influx of sodium. The sodium-calcium exchanger exchanges three extracellular sodium ions for one intracellular calcium ion, leading to a net single positive charge transported into the cell with each exchange. The exchange system is sensitive to the concentration of sodium and calcium on both sides of the membrane, and to the membrane potential. If external sodium concentrations decrease, the driving force for removal of calcium from the cell is decreased, leading to an increase in cytosolic calcium (and a consequent increase in contraction). Thus, hyponatremia can increase cardiac contractility. If the intracellular sodium concentration increases, as occurs with ischemia, the gradient for sodium influx is reduced, and the pump slows down or actually reverses, extruding sodium in exchange for an influx of calcium. This mechanism may be central to the accumulation of calcium during ischemia. The sodium-calcium exchange mechanism has a maximum exchange rate that is some 30 times higher than the sarcolemmal ATP-dependent calcium pump and is the primary mechanism for removal of excess cytosolic calcium.<sup>7</sup>
+<details class="med-details"><summary>
+  
+#### **ENERGY-DEPENDENT ION PUMPS**</summary><div class="details-content">
 
-Sodium-hydrogen exchanger. The sodium-hydrogen exchanger extrudes one intracellular hydrogen ion in exchange for one extracellular sodium ion, and is electrically neutral. This pump prevents intracellular acidification. Acidification (eg, during ischemia) increases the affinity of the pump for  $H^{+}$  ions, promoting the removal of  $H^{+}$  preserving intracellular pH at the expense of sodium accumulation. The accumulation of
+<details class="med-details"><summary>
+  
+##### Sodium-potassium ATP-dependent pump</summary><div class="details-content">
+The sodium-potassium pump uses the energy obtained from the hydrolysis of ATP to move three Na<sup>+</sup> ions out of the cell and two K<sup>+</sup> ions into the cell, each against its respective concentration gradient. Since there is a net outward current (three Na<sup>+</sup> ions for two K<sup>+</sup> ions), the pump contributes about 10 mV to the resting membrane potential. The activity of the pump is strongly stimulated by attachment of sodium to its binding site. The Na<sup>+</sup>-K<sup>+</sup> adenosine triphosphatase, Na<sup>+</sup>-K<sup>+</sup> (ATPase), has a very high affinity for ATP, so that the pump continues to function even if ATP levels are reduced.
+</div></details>
 
+<details class="med-details"><summary>
+  
+##### ATP-dependent calcium pump</summary><div class="details-content">
+The ATP-dependent calcium pump transports calcium out of the cell against a strong concentration gradient. This action represents a net outward current, but the magnitude of this current is quite small because the bulk of calcium transferred out of the cell occurs with sodium-calcium exchange (described in the following). The cytosolic protein, calmodulin, can complex with calcium and facilitate the action of the pump; thus, increased intracellular calcium levels stimulate the pump. 
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+  #### ION EXCHANGERS</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+##### Sodium-calcium exchanger</summary><div class="details-content">
+Multiple proteins that traverse the membrane allow ion exchanges using the potential energy of the electrochemical gradient which favors the influx of sodium. The sodium-calcium exchanger exchanges three extracellular sodium ions for one intracellular calcium ion, leading to a net single positive charge transported into the cell with each exchange. The exchange system is sensitive to the concentration of sodium and calcium on both sides of the membrane, and to the membrane potential. If external sodium concentrations decrease, the driving force for removal of calcium from the cell is decreased, leading to an increase in cytosolic calcium (and a consequent increase in contraction). Thus, hyponatremia can increase cardiac contractility. If the intracellular sodium concentration increases, as occurs with ischemia, the gradient for sodium influx is reduced, and the pump slows down or actually reverses, extruding sodium in exchange for an influx of calcium. This mechanism may be central to the accumulation of calcium during ischemia. The sodium-calcium exchange mechanism has a maximum exchange rate that is some 30 times higher than the sarcolemmal ATP-dependent calcium pump and is the primary mechanism for removal of excess cytosolic calcium.
+</div></details>
+
+<details class="med-details"><summary>
+  
+  ##### Sodium-hydrogen exchanger</summary><div class="details-content">
+Sodium-hydrogen exchanger. The sodium-hydrogen exchanger extrudes one intracellular hydrogen ion in exchange for one extracellular sodium ion, and is electrically neutral. This pump prevents intracellular acidification. Acidification (eg, during ischemia) increases the affinity of the pump for  H<sup>+</sup> ions, promoting the removal of  H<sup>+</sup> preserving intracellular pH at the expense of sodium accumulation. The accumulation of 
 sodium ions may then trigger reversal of the sodium-calcium exchange pump to favor the accumulation of calcium within the cell. This is a possible mechanism underlying injury or cell death during ischemia-reperfusion.
+</div></details>
 
-#### INTRACELLULAR COMMUNICATION PATHWAYS
+</div></details>
+
+<details class="med-details"><summary>
+  
+  #### INTRACELLULAR COMMUNICATION PATHWAYS</summary><div class="details-content">
 
 To allow concurrent activation of all the myofibrils in the muscle cell, the electrical activation signal must be rapidly and evenly spread through all portions of the cell. This is accomplished through the t-tubules, and the subsarcolemmal cisternae and sarcotubular network of the sarcoplasmic reticulum.
 
+<details class="med-details"><summary>
+  
+##### T-tubules</summary><div class="details-content">
 Transverse tubules (T-tubules). The basic contractile unit in a muscle cell is the sarcomere. Sarcomeres are joined together in the myofibril at the z-lines. A system of transverse tubules (t-tubules) extends the sarcolemma into the interior of the cardiac cell (Figure 3-4). These tubules are perpendicular to the sarcomere, near the z-lines, extending the extracellular space close to the contractile proteins. The transverse tubules contain the calcium channels, which are in close relationship to the foot proteins of the subsarcolemmal cisternae.
-
-Sarcoplasmic reticulum. The sarcoplasmic reticulum is a membrane network within the cytoplasm of the cell surrounding the myofibrils. The primary function of the sarcoplasmic reticulum is excitation-contraction coupling by sudden release of calcium to stimulate the contraction proteins and then rapid removal of this calcium to allow relaxation of the contractile elements. The subsarcolemmal cisternae and the
-
+</div>
+</details>
+ 
 ![](_page_3_Picture_10.jpeg)
 
-FIGURE 3-4 Myocyte anatomy. (Reproduced with permission from Katz AM: *Physiology of the Heart*, 4th ed. Philadelphia, Lippincott Williams & Wilkins; 2006.)
+**FIGURE 3-4** Myocyte anatomy. 
 
-sarcotubular network are the two portions of the sarcoplasmic reticulum that mediate this process.
+<details class="med-details"><summary>
+  
+##### Sarcoplasmic reticulum</summary><div class="details-content">
+The sarcoplasmic reticulum is a membrane network within the cytoplasm of the cell surrounding the myofibrils. The primary function of the sarcoplasmic reticulum is excitation-contraction coupling by sudden release of calcium to stimulate the contraction proteins and then rapid removal of this calcium to allow relaxation of the contractile elements. The subsarcolemmal cisternae and the sarcotubular network are the two portions of the sarcoplasmic reticulum that mediate this process.
 
-The subsarcolemmal cisternae are near the sarcolemma and the t-tubules. Foot proteins are found in the membrane of the sarcoplasmic reticulum, with a large protein component extending into the gap between the subsarcolemmal cisternae and the sarcolemma of the t-tubule. The foot proteins respond to the release of calcium by opening a calcium channel, which allows the release of a much larger quantity of calcium from the subsarcolemmal cisternae. This is "calciumtriggered" calcium release with calcium transported across the sarcolemma, leading to calcium release from the subsarcolemmal cisternae. The magnitude of calcium release from the subsarcolemmal cisternae appears to be related to the magnitude of the trigger. The calcium channels then close and the calcium is returned to the sarcoplasmic reticulum by an ATP-dependent calcium pump located in the sarcotubular network. 1,10 The sarcotubular network is the portion of the sarcoplasmic reticulum that surrounds the contractile elements of the sarcomere (Figure 3-5).
-
-Regulation of calcium transport by the cardiac sarcoplasmic reticulum occurs primarily at the site of the calcium pump. A calcium-calmodulin complex phosphorylates the pump to stimulate pump activity. Reduced ATP availability will slow
-
-pump function. Phospholamban inhibits the basal rate of calcium transport by the calcium pump. This inhibition is reversed when phospholamban is phosphorylated by a cyclic AMP-or calcium-calmodulin-dependent protein kinase. This is a very important mechanism for beta-adrenergic regulation; cyclic AMP levels increase with activation of the betaadrenergic receptor. As phospholamban is phosphorylated, there is accelerated calcium turnover and increased sensitivity of the calcium pump, which facilitates uptake of calcium from the cytosol and relaxation of the heart. Phosphorylation of phospholamban does not affect the sarcolemmal calcium pump, thereby tending to favor retention of calcium within the cell (increasing the calcium content of the sarcoplasmic reticulum at the expense of calcium removed from the cell through the sarcolemma). This might lead to an increased pulse of calcium within the cell, thereby favoring increased contractility.<sup>7,10</sup> Phosphorylation of phospholamban, in the presence of intracellular calcium, stimulates calcium uptake to protect the heart from calcium overload.
-
-In this ionic milieu, the importance of intracellular pH maintenance should be stressed. Regulation of intracellular pH is complex and beyond the scope of this text, but a few simple principles are important to review. Reduced intracellular pH diminishes the amount of calcium released from
+<details class="med-details"><summary>
+  
+###### Subsarcolemmal cisternae</summary><div class="details-content">
+The subsarcolemmal cisternae are near the sarcolemma and the t-tubules. Foot proteins are found in the membrane of the sarcoplasmic reticulum, with a large protein component extending into the gap between the subsarcolemmal cisternae and the sarcolemma of the t-tubule. The foot proteins respond to the release of calcium by opening a calcium channel, which allows the release of a much larger quantity of calcium from the subsarcolemmal cisternae. This is "calciumtriggered" calcium release with calcium transported across the sarcolemma, leading to calcium release from the subsarcolemmal cisternae. The magnitude of calcium release from the subsarcolemmal cisternae appears to be related to the magnitude of the trigger. The calcium channels then close and the calcium is returned to the sarcoplasmic reticulum by an ATP-dependent calcium pump located in the sarcotubular network. The sarcotubular network is the portion of the sarcoplasmic reticulum that surrounds the contractile elements of the sarcomere (Figure 3-5).
+</div></details>
 
 ![](_page_4_Figure_7.jpeg)
 
-**FIGURE 3-5** Anatomy of the cardiac sarcomere. Ca<sup>2+</sup> influx during excitation provokes the release of additional Ca<sup>2+</sup> from the sarcoplasmic reticulum (SR). The Ca<sup>2+</sup> binds to troponin on the thin filaments triggering sarcomeric contraction (systole). The Ca<sup>2+</sup> is then removed from the cytosol through uptake into the SR and extracellular extrusion allowing sarcomere relaxation (diastole). (Reproduced with permission from Kobirumaki-Shimozawa F, Inoue T, Shintani SA, et al: Cardiac thin filament regulation and the Frank-Starling mechanism, *J Physiol Sci.* 2014 Jul;64(4):221-232.)
+**FIGURE 3-5** Anatomy of the cardiac sarcomere. Ca<sup>2+</sup> influx during excitation provokes the release of additional Ca<sup>2+</sup> from the sarcoplasmic reticulum (SR). The Ca<sup>2+</sup> binds to troponin on the thin filaments triggering sarcomeric contraction (systole). The Ca<sup>2+</sup> is then removed from the cytosol through uptake into the SR and extracellular extrusion allowing sarcomere relaxation (diastole). 
 
-the sarcoplasmic reticulum and reduces the responsiveness of myofilaments to calcium. Elevation of the pH will have the opposite effect. The clinical relevance of this observation cannot be overstressed.
-</div>
-</details>
+<details class="med-details"><summary>
+  
+###### Regulation of calcium transport</summary><div class="details-content">
+Regulation of calcium transport by the cardiac sarcoplasmic reticulum occurs primarily at the site of the calcium pump. A calcium-calmodulin complex phosphorylates the pump to stimulate pump activity. Reduced ATP availability will slow pump function. Phospholamban inhibits the basal rate of calcium transport by the calcium pump. This inhibition is reversed when phospholamban is phosphorylated by a cyclic AMP-or calcium-calmodulin-dependent protein kinase. This is a very important mechanism for beta-adrenergic regulation; cyclic AMP levels increase with activation of the betaadrenergic receptor. As phospholamban is phosphorylated, there is accelerated calcium turnover and increased sensitivity of the calcium pump, which facilitates uptake of calcium from the cytosol and relaxation of the heart. Phosphorylation of phospholamban does not affect the sarcolemmal calcium pump, thereby tending to favor retention of calcium within the cell (increasing the calcium content of the sarcoplasmic reticulum at the expense of calcium removed from the cell through the sarcolemma). This might lead to an increased pulse of calcium within the cell, thereby favoring increased contractility. Phosphorylation of phospholamban, in the presence of intracellular calcium, stimulates calcium uptake to protect the heart from calcium overload.
+</div></details>
 
+<details class="med-details"><summary>
+  
+###### Regulation of intracellular pH</summary><div class="details-content">
+In this ionic milieu, the importance of intracellular pH maintenance should be stressed. Regulation of intracellular pH is complex and beyond the scope of this text, but a few simple principles are important to review. Reduced intracellular pH diminishes the amount of calcium released from the sarcoplasmic reticulum and reduces the responsiveness of myofilaments to calcium. Elevation of the pH will have the opposite effect. The clinical relevance of this observation cannot be overstressed.
+</div></details>
 
+</div></details>
 
-<details class="med-details">
-<summary>ELECTRICAL ACTIVATION OF THE HEART</summary>
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+  ## ELECTRICAL ACTIVATION OF THE HEART</summary>
 <div class="details-content">
-# ELECTRICAL ACTIVATION OF THE HEART
 
-## Normal Cardiac Rhythm
+<details class="med-details"><summary>
+  
+### Normal Cardiac Rhythm</summary><div class="details-content">
 
-#### THE RESTING MEMBRANE POTENTIAL
+<details class="med-details"><summary>
+  
+#### THE RESTING MEMBRANE POTENTIAL</summary><div class="details-content">
 
-The state of the cardiac cell is determined by a balance of forces based on electrical and chemical gradients. At rest (during diastole), the cardiac cell is polarized. The electrical potential across the sarcolemma is primarily determined by the concentration gradient of potassium across the membrane. This gradient is established by the sodium-potassium pump. However, once this pump shuts off, the steady state is determined by the balance of electrical and chemical forces. The sarcolemma is impermeable to some ions, permeable to others, and selectively permeable to others. Steady-state properties of a mixture of ions of variable permeabilities across a membrane are described by the Gibbs-Donnan equilibrium.<sup>11</sup> The sarcolemma prevents the diffusion of large anions (eg, proteins and organic phosphates). At rest, the sarcolemma is relatively permeable to potassium ions because of the open state of most potassium channels, but less permeable to sodium. The concentration gradient established by the sodium-potassium pump promotes the efflux of potassium ions across the sarcolemma. The outward flow of positive ions is counterbalanced by the increasing electronegativity of the interior of the cell owing to the impermeant anions. A Gibbs-Donnan equilibrium is established such that the electronegativity of the cell interior retards potassium-ion efflux to the same degree that the concentration gradient favors K+ efflux. At equilibrium, the forces balance with an intracellular potassium concentration of 135 mM and extra-cellular concentration of 4 mM and a predicted resting membrane potential of -94 mV. The actual resting membrane potential is measured at about -90 mV because of smaller contributions from the current of other less permeable ions (eg, sodium and calcium). However, the potassium current is the main determinant of the resting membrane potential.12
+The state of the cardiac cell is determined by a balance of forces based on electrical and chemical gradients. At rest (during diastole), the cardiac cell is polarized. The electrical potential across the sarcolemma is primarily determined by the concentration gradient of potassium across the membrane. This gradient is established by the sodium-potassium pump. However, once this pump shuts off, the steady state is determined by the balance of electrical and chemical forces. The sarcolemma is impermeable to some ions, permeable to others, and selectively permeable to others. Steady-state properties of a mixture of ions of variable permeabilities across a membrane are described by the Gibbs-Donnan equilibrium. The sarcolemma prevents the diffusion of large anions (eg, proteins and organic phosphates). At rest, the sarcolemma is relatively permeable to potassium ions because of the open state of most potassium channels, but less permeable to sodium. The concentration gradient established by the sodium-potassium pump promotes the efflux of potassium ions across the sarcolemma. The outward flow of positive ions is counterbalanced by the increasing electronegativity of the interior of the cell owing to the impermeant anions. A Gibbs-Donnan equilibrium is established such that the electronegativity of the cell interior retards potassium-ion efflux to the same degree that the concentration gradient favors K<sup>+</sup> efflux. At equilibrium, the forces balance with an intracellular potassium concentration of 135 mM and extra-cellular concentration of 4 mM and a predicted resting membrane potential of -94 mV. The actual resting membrane potential is measured at about -90 mV because of smaller contributions from the current of other less permeable ions (eg, sodium and calcium). However, the potassium current is the main determinant of the resting membrane potential.
+</div></details>
 
-#### THE ACTION POTENTIAL
+<details class="med-details"><summary>
+  
+#### THE ACTION POTENTIAL</summary><div class="details-content">
 
-The action potential represents the triggered response to a stimulus derived either internally (slow depolarizing ionic currents) or externally (depolarization of adjacent cells). A typical fast-response action potential which occurs in atrial and ventricular myocytes and special conduction fibers is depicted in Fig. 3-3. As the transmembrane potential decreases to approximately –65 mV, the "fast" sodium channels open. These channels remain open for a few milliseconds when the inactivation gate of the "fast" sodium channel closes. The large gradient of sodium ions promotes rapid influx, depolarizing the cell to a slightly positive transmembrane potential:
+The action potential represents the triggered response to a stimulus derived either internally (slow depolarizing ionic currents) or externally (depolarization of adjacent cells). A typical fast-response action potential which occurs in atrial and ventricular myocytes and special conduction fibers is depicted in Fig. 3-3. As the transmembrane potential decreases to approximately –65 mV, the "fast" sodium channels open. These channels remain open for a few milliseconds when the inactivation gate of the "fast" sodium channel closes. 
+  
+- The large gradient of sodium ions promotes rapid influx, depolarizing the cell to a slightly positive transmembrane potential: phase 0 of the action potential. 
+- A transient potassium current (i) causes a very early repolarization (phase 1) of the action potential, but this fast channel closes quickly. 
+- The plateau of the action potential (phase 2) is sustained at a neutral or slightly positive level by an inward flowing calcium current, first from the transient calcium channel and second through the long-lasting calcium channel. The plateau is also sustained by a decrease in the outward potassium current  i<sub>k1</sub>. With time, the long-lasting calcium channels begin to close, and the repolarizing potassium current (i<sub>K</sub>, the delayed rectifier current) leads to the initiation of phase 3 of the action potential. 
+- As repolarization progresses, the stronger first potassium current (i<sub>K1</sub>) dominates, leading to full repolarization of the membrane to the resting negative potential. During the bulk of the depolarized interval (phase 4) the first potassium current predominates in myocytes.
+</div></details>
 
-phase 0 of the action potential. A transient potassium current (i) causes a very early repolarization (phase 1) of the action potential, but this fast channel closes quickly. The plateau of the action potential (phase 2) is sustained at a neutral or slightly positive level by an inward flowing calcium current, first from the transient calcium channel and second through the long-lasting calcium channel. The plateau is also sustained by a decrease in the outward potassium current  $(i_{k_1})$ . With time, the long-lasting calcium channels begin to close, and the repolarizing potassium current (i<sub>K</sub>, the delayed rectifier current) leads to the initiation of phase 3 of the action potential. As repolarization progresses, the stronger first potassium current (i<sub>K1</sub>) dominates, leading to full repolarization of the membrane to the resting negative potential. During the bulk of the depolarized interval (phase 4) the first potassium current predominates in myocytes.
+<details class="med-details"><summary>
+  
+#### REFRACTORY PERIOD</summary><div class="details-content">
 
-#### REFRACTORY PERIOD
+The sodium channels cannot respond to a second wave of depolarization until the inactivation gates are reopened (by repolarization during phase 3). As a result, the membrane is refractory to the propagation of a second impulse during this time interval, referred to as the absolute refractory period. As the membrane is repolarized during early phase 3 of the action potential, and some of the sodium channels have been reactivated, a short interval exists during which only very strong impulses can activate the cell, which is termed the relative refractory period. A drug that acts to speed up the inactivation gate will shorten both the absolute and the relative refractory periods.
+</div></details>
 
-The sodium channels cannot respond to a second wave of depolarization until the inactivation gates are reopened (by repolarization during phase 3). As a result, the membrane is refractory to the propagation of a second impulse during this time interval, referred to as the absolute refractory period. As the membrane is repolarized during early phase 3 of the action potential, and some of the sodium channels have been reactivated, a short interval exists during which only very strong impulses can activate the cell, which is termed the relative refractory period. A drug that acts to speed up the inactivation gate will shorten both the absolute and the relative refractory periods.<sup>1,13,14</sup>
+<details class="med-details"><summary>
+  
+#### SPONTANEOUS DEPOLARIZATION</summary><div class="details-content">
 
-#### SPONTANEOUS DEPOLARIZATION
-
-The action potential of the slow response cells of the nodal tissue (sinoatrial node, or SA node, and atrioventricular node, or AV node) differs from that in the fast-response cells, as shown in Figure 3-6. The rapid upstroke of phase 0 is less prominent due to the absence of fast Na+ channels. Phase 1 is absent, as there is no rapid inward potassium current. In addition, the plateau phase (phase 2) is abbreviated because of the lack of a sustained active Na+ inward current, and the lack of sustained calcium current. The repolarization phase (phase 3) leads to a resting phase (phase 4) that begins to depolarize again, as opposed to the relatively stable resting membrane potential of myocytes. The slowly depolarizing phase 4 resting potential is called the diastolic depolarization current, or the pacemaker potential. Continued depolarization of the membrane potential ultimately reduces it to the threshold potential that stimulates another action potential. This diastolic depolarization potential is the mechanism of automaticity in cardiac pacemaker cells. Diastolic depolarization is caused by the concerted and net actions of: (1) a decrease in the outward K<sup>+</sup> current during early diastole (phase 4); (2) persistence of the slow inward Ca<sup>2+</sup> current; and (3) an increasing inward Na+ current during diastole. The inward Na<sup>+</sup> current most likely predominates in nodal and conduction tissue. The slope of the diastolic
-
+The action potential of the slow response cells of the nodal tissue (sinoatrial node, or SA node, and atrioventricular node, or AV node) differs from that in the fast-response cells, as shown in Figure 3-6. The rapid upstroke of phase 0 is less prominent due to the absence of fast Na+ channels. Phase 1 is absent, as there is no rapid inward potassium current. In addition, the plateau phase (phase 2) is abbreviated because of the lack of a sustained active Na+ inward current, and the lack of sustained calcium current. The repolarization phase (phase 3) leads to a resting phase (phase 4) that begins to depolarize again, as opposed to the relatively stable resting membrane potential of myocytes. The slowly depolarizing phase 4 resting potential is called the diastolic depolarization current, or the pacemaker potential. Continued depolarization of the membrane potential ultimately reduces it to the threshold potential that stimulates another action potential. This diastolic depolarization potential is the mechanism of automaticity in cardiac pacemaker cells. Diastolic depolarization is caused by the concerted and net actions of: (1) a decrease in the outward K<sup>+</sup> current during early diastole (phase 4); (2) persistence of the slow inward Ca<sup>2+</sup> current; and (3) an increasing inward Na<sup>+</sup> current during diastole. The inward Na<sup>+</sup> current most likely predominates in nodal and conduction tissue. The slope of the diastolic depolarization determines the rate of action-potential generation in the pacemaker cells, and is the primary mechanism determining heart rate. Of all the cardiac cells, the fastest rate of depolarization is in the SA node, and action potentials are generated at a rate of 70 to 80 per minute. The AV node is a slower rate of depolarization, at 40 to 60 times per minute. The ventricular myocytes are the slowest, at 30 to 40 times per minute. Once a depolarization is initiated in a pacemaker cell and propagated, it will depolarize the remainder of the heart in a synchronized and sequential manner. The heart rate can be altered by changing the slope of the diastolic depolarization (eg, acetylcholine decreases the slope and heart rate; beta-adrenergic agonists increase the slope and heart rate). If the slope is unchanged, hyperpolarization (more negative resting potential) or raising the 
+threshold potential will increase the time to reach threshold, thus decreasing the heart rate.
+  
 ![](_page_6_Figure_2.jpeg)
 
 **FIGURE 3-6** The membrane potential of a spontaneously depolarizing cell of the sinoatrial node, and the ion currents contributing to it. Inward (depolarizing) currents are depicted as positive, and outward (repolarizing) currents are depicted as negative (Ca = calcium; i = current; K = potassium; Na = sodium).
+</div></details>
 
-depolarization determines the rate of action-potential generation in the pacemaker cells, and is the primary mechanism determining heart rate. Of all the cardiac cells, the fastest rate of depolarization is in the SA node, and action potentials are generated at a rate of 70 to 80 per minute. The AV node is a slower rate of depolarization, at 40 to 60 times per minute. The ventricular myocytes are the slowest, at 30 to 40 times per minute. Once a depolarization is initiated in a pacemaker cell and propagated, it will depolarize the remainder of the heart in a synchronized and sequential manner. The heart rate can be altered by changing the slope of the diastolic depolarization (eg, acetylcholine decreases the slope and heart rate; beta-adrenergic agonists increase the slope and heart rate). If the slope is unchanged, hyperpolarization (more negative resting potential) or raising the
-
-threshold potential will increase the time to reach threshold, thus decreasing the heart rate.
-
-#### PROPAGATION OF THE ACTION POTENTIAL
+<details class="med-details"><summary>
+  
+#### PROPAGATION OF THE ACTION POTENTIAL</summary><div class="details-content">
 
 Each myocyte is mechanically anchored and electrically connected to the next myocyte by an intercalated disc at the end of the cell. These discs contain gap junctions that facilitate flow of charged molecules from one cell to the next. These pores are composed of a protein, connexin. Permeability through the cardiac gap junction is increased by both ATP-and cyclic AMP-dependent kinases. This allows the gap junctions to close if ATP levels fall, thereby reducing electrical and presumably mechanical activity, which is essential in limiting cell death when one region of the heart is damaged. It also
 
 allows conduction to increase when cyclic AMP increases in response to adrenergic stimulation.
 
 After spontaneous depolarization occurs in the pacemaker cells of the SA node, the action potential is conducted throughout the heart. Special electrical pathways facilitate this conduction. Three internodal paths exist through the atrium between the SA node and the AV node. After traversing the AV node, the action potential is propagated rapidly through the bundle of His and into the Purkinje fibers located on the endocardium of the left and right ventricles. Rapid conduction through the atrium causes contraction of most of the atrial muscle synchronously (within 60 to 90 ms). Similarly, the rapid conduction of the signal throughout the ventricle leads to synchronous contraction of the bulk of the ventricular myocardium (within 60 ms). The delay in the propagation of the action potential through the AV node by 120 to 140 ms allows the atria to complete contraction before the ventricles contract. Slow conduction in the AV node is related to a relatively higher internal resistance because of a small number of gap junctions between cells, and slowly rising action potentials.
+</div>
+</details>
+
+</div>
+</details>
+
 
 ## Abnormal Cardiac Rhythm
 
