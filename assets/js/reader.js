@@ -238,6 +238,20 @@ async function loadChapter(bookPath, chapterId, edition) {
         let md = await response.text();
         const rawMd = md; // preserve original for line counting
 
+        // --- Protect LaTeX math from marked.js mangling ---
+        // Extract $$...$$ (display) and $...$ (inline) before marked touches them
+        const mathStore = [];
+        function storeMath(tex, display) {
+            const id = '\x02MATH' + mathStore.length + '\x03';
+            mathStore.push({ id, tex, display });
+            return id;
+        }
+
+        // Display math first ($$...$$) — must come before inline to avoid conflicts
+        md = md.replace(/\$\$([\s\S]*?)\$\$/g, (_, tex) => storeMath(tex, true));
+        // Inline math ($...$) — only single $ not preceded/followed by $
+        md = md.replace(/\$([^\n$][^$]*?)\$/g, (_, tex) => storeMath(tex, false));
+
         // Custom styling parser
         md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         
@@ -262,6 +276,32 @@ async function loadChapter(bookPath, chapterId, edition) {
         }
         
         area.innerHTML = marked.parse(md);
+
+        // Restore math placeholders and render with KaTeX
+        if (mathStore.length > 0) {
+            let html = area.innerHTML;
+            mathStore.forEach(({ id, tex, display }) => {
+                // marked may have wrapped placeholder in <p> — replace the text node
+                const escaped = id.replace(/\x02/g, '&#x2;').replace(/\x03/g, '&#x3;');
+                // Try both raw and entity-encoded versions
+                [id, escaped].forEach(key => {
+                    if (html.includes(key)) {
+                        let rendered;
+                        try {
+                            rendered = katex.renderToString(tex, {
+                                displayMode: display,
+                                throwOnError: false,
+                                errorColor: '#e53935',
+                            });
+                        } catch (e) {
+                            rendered = `<span style="color:#e53935">[math error: ${tex}]</span>`;
+                        }
+                        html = html.split(key).join(rendered);
+                    }
+                });
+            });
+            area.innerHTML = html;
+        }
         
         // Use a timeout to ensure the DOM has been updated by the browser
         // after setting innerHTML, before we try to query it.

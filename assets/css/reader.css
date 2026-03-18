@@ -1861,3 +1861,30 @@ body.focus-mode #radial-menu-container {
     margin-bottom: 12pt;
   }
 }
+
+/* ==========================================================================
+   KATEX MATH RENDERING
+   ========================================================================== */
+
+/* Display (block) math — centered with vertical spacing */
+.content .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.5rem 0;
+  margin: 1rem 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Inline math — keep baseline alignment */
+.content .katex {
+  font-size: 1.05em;
+}
+
+/* Night/sepia mode — KaTeX uses currentColor so inherits text color */
+body.night-mode .content .katex { color: #e0e0e0; }
+body.sepia-mode .content .katex { color: #3b2f1e; }
+
+/* Scrollable on small screens */
+@media (max-width: 768px) {
+  .content .katex-display { font-size: 0.9em; }
+}
