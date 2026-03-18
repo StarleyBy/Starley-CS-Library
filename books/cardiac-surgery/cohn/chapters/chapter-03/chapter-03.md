@@ -227,280 +227,396 @@ threshold potential will increase the time to reach threshold, thus decreasing t
   
 #### PROPAGATION OF THE ACTION POTENTIAL</summary><div class="details-content">
 
-Each myocyte is mechanically anchored and electrically connected to the next myocyte by an intercalated disc at the end of the cell. These discs contain gap junctions that facilitate flow of charged molecules from one cell to the next. These pores are composed of a protein, connexin. Permeability through the cardiac gap junction is increased by both ATP-and cyclic AMP-dependent kinases. This allows the gap junctions to close if ATP levels fall, thereby reducing electrical and presumably mechanical activity, which is essential in limiting cell death when one region of the heart is damaged. It also
-
-allows conduction to increase when cyclic AMP increases in response to adrenergic stimulation.
+Each myocyte is mechanically anchored and electrically connected to the next myocyte by an intercalated disc at the end of the cell. These discs contain gap junctions that facilitate flow of charged molecules from one cell to the next. These pores are composed of a protein, connexin. Permeability through the cardiac gap junction is increased by both ATP-and cyclic AMP-dependent kinases. This allows the gap junctions to close if ATP levels fall, thereby reducing electrical and presumably mechanical activity, which is essential in limiting cell death when one region of the heart is damaged. It also allows conduction to increase when cyclic AMP increases in response to adrenergic stimulation.
 
 After spontaneous depolarization occurs in the pacemaker cells of the SA node, the action potential is conducted throughout the heart. Special electrical pathways facilitate this conduction. Three internodal paths exist through the atrium between the SA node and the AV node. After traversing the AV node, the action potential is propagated rapidly through the bundle of His and into the Purkinje fibers located on the endocardium of the left and right ventricles. Rapid conduction through the atrium causes contraction of most of the atrial muscle synchronously (within 60 to 90 ms). Similarly, the rapid conduction of the signal throughout the ventricle leads to synchronous contraction of the bulk of the ventricular myocardium (within 60 ms). The delay in the propagation of the action potential through the AV node by 120 to 140 ms allows the atria to complete contraction before the ventricles contract. Slow conduction in the AV node is related to a relatively higher internal resistance because of a small number of gap junctions between cells, and slowly rising action potentials.
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+### Abnormal Cardiac Rhythm</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### ABERRANT PACEMAKER FOCI</summary><div class="details-content">
+
+Normally the SA node spontaneously depolarizes first, such that the cardiac beat originates from this primary pacemaker site. If the SA node is damaged or slowed by vagal stimulation or drugs (eg, acetylcholine), ectopic pacemakers in the atrium, AV node, or the His-Purkinje system can take over. Occasionally, aberrant foci in the heart spontaneously depolarize, thereby leading to aberrant or "premature" contractions from the atrium or the ventricle. These contractions ordinarily do not interfere with the normal depolarization of the heart.
 </div>
 </details>
 
-</div>
-</details>
+<details class="med-details"><summary>
+  
+#### **REENTRY ARRHYTHMIAS**</summary><div class="details-content">
 
-
-## Abnormal Cardiac Rhythm
-
-#### ABERRANT PACEMAKER FOCI
-
-Normally the SA node spontaneously depolarizes first, such that the cardiac beat originates from this primary pacemaker site. If the SA node is damaged or slowed by vagal stimulation
-
-or drugs (eg, acetylcholine), ectopic pacemakers in the atrium, AV node, or the His-Purkinje system can take over. Occasionally, aberrant foci in the heart spontaneously depolarize, thereby leading to aberrant or "premature" contractions from the atrium or the ventricle. These contractions ordinarily do not interfere with the normal depolarization of the heart.
-
-#### **REENTRY ARRHYTHMIAS**
-
-Reentry arrhythmias are perhaps the most common dangerous cardiac rhythm. Ordinarily, the action potential depolarizes the entire atrium or the entire ventricle in a short enough time interval so that all of the muscle is refractory to further stimulation at the same time. A reentry arrhythmia is caused by propagation of an action potential through the heart in a "circus" movement. For reentry to occur there must be a unidirectional block (transient or permanent) to action potential propagation. Additionally, the effective refractory period of the reentered region must be shorter that the propagation time around the loop. 12 For example, if a portion of the previously depolarized myocardium has repolarized before the propagation of the action potential is completed throughout the atrium or ventricle, then that action potential can continue its propagation into this repolarized muscle. Such an event generally requires either dramatic slowing of conduction of the action potential, a long conduction pathway, or a shortened refractory period (Figure 3-7). All of these situations occur clinically. Ischemia slows the sodium-potassium pump, which decreases the resting membrane potential and slows
-
+Reentry arrhythmias are perhaps the most common dangerous cardiac rhythm. Ordinarily, the action potential depolarizes the entire atrium or the entire ventricle in a short enough time interval so that all of the muscle is refractory to further stimulation at the same time. A reentry arrhythmia is caused by propagation of an action potential through the heart in a "circus" movement. For reentry to occur there must be a unidirectional block (transient or permanent) to action potential propagation. Additionally, the effective refractory period of the reentered region must be shorter that the propagation time around the loop. For example, if a portion of the previously depolarized myocardium has repolarized before the propagation of the action potential is completed throughout the atrium or ventricle, then that action potential can continue its propagation into this repolarized muscle. Such an event generally requires either dramatic slowing of conduction of the action potential, a long conduction pathway, or a shortened refractory period (Figure 3-7). All of these situations occur clinically. Ischemia slows the sodium-potassium pump, which decreases the resting membrane potential and slows propagation of the action potential. Hyperkalemia decreases the resting membrane potential, which increases excitability and inactivates the sodium-potassium pump, slowing propagation of the action potential. Progressive atrial dilation creates a long conduction pathway around the atrium. Adrenergic stimulation shortens the refractory period.
+  
 ![](_page_7_Figure_10.jpeg)
 
 **FIGURE 3-7** Three conditions predisposing to reentry or "circus" pathways for action potential propagation are shown. Muscle that is refractory to action potential propagation is shown as black. Normally, as the action potential travels through the atrium or ventricle, all the muscle is depolarized sufficiently that the action potential encounters no more nonrefractory muscle and stops (*A*). If there is slowed conduction speed or a long pathway (*B*), the action potential may find repolarized (nonrefractory) muscle and continue in a circular path. Similarly, a shortened refractory period (*C*) may lead to rapid repolarization and predispose to a reentry and continuation of the action potential.
 
-propagation of the action potential. Hyperkalemia decreases the resting membrane potential, which increases excitability and inactivates the sodium-potassium pump, slowing propagation of the action potential. Progressive atrial dilation creates a long conduction pathway around the atrium. Adrenergic stimulation shortens the refractory period.
-
 A special type of reentry arrhythmia occurs in Wolff-Parkinson-White syndrome in which an accessory pathway electrically connects the atrium and the ventricle. This accessory pathway can complete a circular electrical pathway between the atrium and the ventricle. Conduction is unidirectional across the AV node and the accessory pathway creates a loop that has a propagation time that is greater than the AV node refractory period, resulting in supraventricular tachycardia. In an alternative situation, because the accessory pathway does not have the inherent delay and refractory period of the AV node, rapid atrial tachycardias can be conducted in a 1:1 manner across the accessory pathway, leading to ventricular rates as fast as 300 beats per minute.
-</div>
-</details>
+</div></details>
 
+</div></details>
 
+</div></details>
 
-<details class="med-details">
-<summary>REGULATION OF CELLULAR FUNCTION</summary>
-<div class="details-content">
-# REGULATION OF CELLULAR FUNCTION
+<details class="med-details"><summary>
+  
+## REGULATION OF CELLULAR FUNCTION</summary><div class="details-content">
 
-# Types of Receptors and Second Messengers
+<details class="med-details"><summary>
 
-Numerous types of receptors are involved in regulating cardiovascular function. They include G-protein (GTP-binding proteins) coupled receptors, enzyme-linked receptors, ion channel-linked receptors, and nuclear receptors. Other ligands, such as nitric oxide, bind directly to their intracellular target.<sup>15</sup> G-protein-coupled receptors are the most important. Ligand binding activates the synthesis of intracellular second messengers, protein kinases, and voltage-gated potassium channels.<sup>16</sup> The most important second messenger is cyclic AMP, which transmits the response to sympathetic stimulation. Cyclic AMP is produced from ATP by adenylyl cyclase and broken down to AMP by phosphodiesterases. Cyclic AMP production is promoted by sympathetic and inhibited by parasympathetic stimulation. Another second messenger, cyclic guanosine monophosphate (GMP) is similarly produced, in response to nitric oxide and natriuretic peptides, by guanylyl cyclase and broken down by phosphodiesterases and opposes the actions of cyclic AMP.<sup>17</sup> These and other second messengers activate signaling enzymes within the cell such as protein kinases.
+### Types of Receptors and Second Messengers</summary><div class="details-content">
 
-#### Innervation of the Heart
+Numerous types of receptors are involved in regulating cardiovascular function. They include G-protein (GTP-binding proteins) coupled receptors, enzyme-linked receptors, ion channel-linked receptors, and nuclear receptors. Other ligands, such as nitric oxide, bind directly to their intracellular target. G-protein-coupled receptors are the most important. Ligand binding activates the synthesis of intracellular second messengers, protein kinases, and voltage-gated potassium channels. 
+<details class="med-details"><summary>
+  
+##### Second messengers: cyclic AMP and GMP</summary><div class="details-content">
+The most important second messenger is cyclic AMP, which transmits the response to sympathetic stimulation. Cyclic AMP is produced from ATP by adenylyl cyclase and broken down to AMP by phosphodiesterases. Cyclic AMP production is promoted by sympathetic and inhibited by parasympathetic stimulation. Another second messenger, cyclic guanosine monophosphate (GMP) is similarly produced, in response to nitric oxide and natriuretic peptides, by guanylyl cyclase and broken down by phosphodiesterases and opposes the actions of cyclic AMP. These and other second messengers activate signaling enzymes within the cell such as protein kinases.
+</div></details>
 
-Sympathetic fibers originate from the fourth and fifth thoracic spinal cord regions. Parasympathetic innervation derives through the vagus nerve connecting to the SA and AV nodes, atria, and blood vessels. Stretch receptors located in the atria and ventricles provide feedback to the central nervous system. Atrial natriuretic peptide, (similar to B-type natriuretic peptide which is clinically measured) is secreted by atrial myocytes in response to stretch and promotes natriuresis, diuresis,
+</div></details>
 
-and smooth muscle relaxation. Stretch receptors on the posterior and inferior ventricular wall can trigger parasympathetic stimulation and inhibit sympathetic activity, leading to bradycardia and conduction block (von Bezold-Jarisch reflex).<sup>18</sup>
+<details class="med-details"><summary>
+  
+### Innervation of the Heart</summary><div class="details-content">
 
-#### PARASYMPATHETIC REGULATION
+Sympathetic fibers originate from the fourth and fifth thoracic spinal cord regions. Parasympathetic innervation derives through the vagus nerve connecting to the SA and AV nodes, atria, and blood vessels. Stretch receptors located in the atria and ventricles provide feedback to the central nervous system. Atrial natriuretic peptide, (similar to B-type natriuretic peptide which is clinically measured) is secreted by atrial myocytes in response to stretch and promotes natriuresis, diuresis, and smooth muscle relaxation. Stretch receptors on the posterior and inferior ventricular wall can trigger parasympathetic stimulation and inhibit sympathetic activity, leading to bradycardia and conduction block (<strong>von Bezold-Jarisch reflex</strong>).
+
+<details class="med-details"><summary>
+  
+#### PARASYMPATHETIC REGULATION</summary><div class="details-content">
 
 The parasympathetic nervous system is particularly important in control of the SA node. Acetylcholine released by the nerve endings of the parasympathetic system stimulates muscarinic receptors in the heart. The activated receptors produce an intracellular stimulatory G-protein that opens acetylcholine gated potassium channels. An increased outward (repolarizing) flow of potassium leads to hyperpolarization of the SA node cells. Stimulation of the muscarinic receptors also inhibits the formation of cyclic AMP, inhibiting the opening of calcium channels. A decreased inward flow of calcium, combined with an increased outward flow of potassium, leads to slowing of the spontaneous diastolic depolarization of the SA node cells (Figure 3-6). A similar effect in the AV node leads to slowing of conduction through the AV node.
+</div></details>
 
-#### SYMPATHETIC STIMULATION AND BLOCKADE
+<details class="med-details"><summary>
+  
+#### SYMPATHETIC STIMULATION AND BLOCKADE</summary><div class="details-content">
 
-Sympathetic or adrenergic receptors in the heart affect heart rate, contractility, conduction velocity, and automaticity; and in the peripheral vasculature they affect smooth muscle contraction and relaxation. Alpha-adrenergic receptors cause vasoconstriction. There are two types of beta-adrenergic receptors: the beta, -adrenergic receptors, which predominate in the heart, and the beta,-adrenergic receptors, which are present in blood vessels and promote relaxation. The number of beta receptors per unit area (receptor density) of the sarcolemma can be upregulated or downregulated in response to various stimuli. Receptor sensitivity can also change depending on ambient conditions and variable stimuli. 19 Cardiopulmonary bypass and ischemia cause downregulation of cardiac beta receptors. Acidemia causes desensitization of beta receptors. This is important in the perioperative period when acidemia can reduce cardiac contractility, systemic vascular tone, and the response to inotropic agents.
+<details class="med-details"><summary>
+  
+##### Adrenergic receptors</summary><div class="details-content">
+Sympathetic or adrenergic receptors in the heart affect heart rate, contractility, conduction velocity, and automaticity; and in the peripheral vasculature they affect smooth muscle contraction and relaxation. Alpha-adrenergic receptors cause vasoconstriction. There are two types of beta-adrenergic receptors: the beta<sub>1</sub>-adrenergic receptors, which predominate in the heart, and the beta<sub>2</sub>-adrenergic receptors, which are present in blood vessels and promote relaxation. The number of beta receptors per unit area (receptor density) of the sarcolemma can be upregulated or downregulated in response to various stimuli. Receptor sensitivity can also change depending on ambient conditions and variable stimuli. Cardiopulmonary bypass and ischemia cause downregulation of cardiac beta receptors. Acidemia causes desensitization of beta receptors. This is important in the perioperative period when acidemia can reduce cardiac contractility, systemic vascular tone, and the response to inotropic agents.
 
-The beta,-adrenergic receptor couples with adenylyl cyclase (Figure 3-8). When the receptor site is occupied by an adrenergic agonist, a stimulatory G-protein is formed, which combines with GTP. This activated G-protein-GTP complex then promotes the activity of adenylyl cyclase, leading to the formation of cyclic AMP from ATP. The G-protein-GTP complex and the cyclic AMP actively promote calcium channel opening. The increased tendency for calcium channels to open during beta, receptor stimulation increases cytosolic calcium and leads to a number of physiologic effects: (1) A positive chronotropic (heart rate) effect whereby the heart rate, conduction, and contraction velocity increase and the action potential is shortened, leading to a shortening of systole; (2) a positive dromotropic (conduction velocity) effect of accelerated conduction through the AV node; and (3) a positive inotropic (contractility) effect. Increased activity of the sarcoplasmic reticulum calcium pump (more rapid calcium
+<details class="med-details"><summary>
+  
+###### The beta<sub>1</sub>-adrenergic receptor</summary><div class="details-content">
+The beta<sub>1</sub>-adrenergic receptor couples with adenylyl cyclase (Figure 3-8). When the receptor site is occupied by an adrenergic agonist, a stimulatory G-protein is formed, which combines with GTP. This activated G-protein-GTP complex then promotes the activity of adenylyl cyclase, leading to the formation of cyclic AMP from ATP. The G-protein-GTP complex and the cyclic AMP actively promote calcium channel opening. The increased tendency for calcium channels to open during beta<sub>1</sub> receptor stimulation increases cytosolic calcium and leads to a number of physiologic effects: (1) a positive chronotropic (heart rate) effect whereby the heart rate, conduction, and contraction velocity increase and the action potential is shortened, leading to a shortening of systole; (2) a positive dromotropic (conduction velocity) effect of accelerated conduction through the AV node; and (3) a positive inotropic (contractility) effect. Increased activity of the sarcoplasmic reticulum calcium pump (more rapid calcium uptake) leads to more rapid relaxation, which facilitates ventricular filling; (4) a positive lusitropic (relaxation) effect.
+</div></details>
 
 ![](_page_9_Figure_2.jpeg)
 
 **FIGURE 3-8** Adrenergic stimulation via the action of beta agonists on beta receptors leads to a cascade of events in the myocyte, some of which are shown here. Note that an increase in cyclic AMP causes the activation of two inhibitory pathways, retarding excessively sustained adrenergic stimulation (cyclic AMP = cyclic adenosine monophosphate; Gs = stimulatory G-protein; GTP = guanosine triphosphate; SR = sarcoplasmic reticulum).
+</div></details>
 
-uptake) leads to more rapid relaxation, which facilitates ventricular filling; (4) a positive lusitropic (relaxation) effect.<sup>20</sup>
-
+<details class="med-details"><summary>
+  
+##### Two negative feedback systems</summary><div class="details-content">
 Two negative feedback systems diminish the response to beta agonists when stimulation is repetitive or persistent (tachyphylaxis). Increased cyclic AMP leads to: (1) increased phosphorylation of beta receptors leading to downregulation; and (2) increased activity of phosphodiesterase, the enzyme that degrades cyclic AMP. Acidosis will inhibit many steps in the sympathetic activation cascade, impairing contractility.
+</div></details>
 
 The activity spectrum of adrenergic receptors forms the basis of many therapeutic interventions; perioperatively to support cardiac function, and chronically to reduce mortality from myocardial infarction and treat congestive heart failure. The selectivity of the agonists and antagonists allows adaptation for various clinical scenarios. Some examples are detailed in Table 3-1.
 
+<details class="med-details"><summary>
+  
+##### Beta blockade</summary><div class="details-content">
 Reduction in inotropy, lusitropy, chronotropy, and dromotropy by beta blockade will reduce myocardial oxygen consumption contributing to many of its beneficial effects. As beta blockade will lead to upregulation of sarcolemmal receptors, sudden cessation of beta blockade may cause a temporarily enhanced (and potentially dangerous) sensitivity to adrenergic stimulation.
+</div></details>
+  
+<details class="med-details"><summary>
+  
+  ##### TABLE 3-1: Adrenergic Agonists and Antagonists Correlating Selective Activity with Clinical Usage</summary><div class="details-content">
 
-#### PHOSPHODIESTERASE INHIBITION
+|| Drug | Alpha| Beta<sub>1</sub> | Beta<sub>2</sub> | Clinical Usage |
+|--|--|--|--|--|--|
+| Agonists | Epinephrine | Y| Y | Y | Low cardiac output, hypotension |
+|| Norepinephrine | Y | Y || Hypotension |
+|| Phenylephrine | Y ||| Hypotension |
+|| Dobutamine || Y || Low cardiac output |
+|| Dopamine | Y | Y || Low cardiac output, hypotension|
+|| Isoproterenol || Y | Y | Bradycardia, low cardiac output, pulmonary hypertension |
+| Antagonists (beta-blockers) | Metoprolol || Y || Tachycardia, hypertension, MI, angina |
+|| Atenolol || Y || Tachycardia, hypertension, MI, angina|
+|| Esmolol || Y || Tachycardia, hypertension, MI, angina |
+|| Carvedilol | Y (alpha<sub>1</sub>) | Y | Y | Congestive heart failure |
+</div></details>
 
-Cyclic AMP plays a central role in the regulation of the cardiac cell. Cytosolic levels of cyclic AMP are also increased by activation of receptors other than beta receptors (ie, for histamine, dopamine, glucagon), and are decreased by inhibitory G-proteins produced by stimulation of muscarinic receptors by acetylcholine and by stimulation of adenosine receptors. Referring to Figure 3-8, one negative feedback response to the increase in cyclic AMP is an increase in phosphodiesterase, which breaks down cyclic AMP. Phosphodiesterase inhibitors (amrinone, milrinone) inhibit the breakdown of cyclic AMP and thereby increase its level in the cytosol. Their effect is synergistic to that of beta agonists. Because they do not stimulate the production
+</div></details>
 
-### TABLE 3-1: Adrenergic Agonists and Antagonists Correlating Selective Activity with Clinical Usage
+</div></details>
 
-|                             | Drug           | Alpha       | Beta <sub>1</sub> | Beta <sub>2</sub> | Clinical Usage                                          |
-|-----------------------------|----------------|-------------|-------------------|-------------------|---------------------------------------------------------|
-| Agonists                    | Epinephrine    | Y           | Y                 | Y                 | Low cardiac output, hypotension                         |
-|                             | Norepinephrine | Y           | Y                 |                   | Hypotension                                             |
-|                             | Phenylephrine  | Y           |                   |                   | Hypotension                                             |
-|                             | Dobutamine     |             | Y                 |                   | Low cardiac output                                      |
-|                             | Dopamine       | Y           | Y                 |                   | Low cardiac output, hypotension                         |
-|                             | Isoproterenol  |             | Y                 | Y                 | Bradycardia, low cardiac output, pulmonary hypertension |
-| Antagonists (beta-blockers) | Metoprolol     |             | Y                 |                   | Tachycardia, hypertension, MI, angina                   |
-| 01.                         | Atenolol       |             | Y                 |                   | Tachycardia, hypertension, MI, angina                   |
-|                             | Esmolol        |             | Y                 |                   | Tachycardia, hypertension, MI, angina                   |
-|                             | Carvedilol     | Y (alpha-1) | Y                 | Y                 | Congestive heart failure                                |
+<details class="med-details"><summary>
+  
+#### PHOSPHODIESTERASE INHIBITION</summary><div class="details-content">
 
-of the G-protein-GTP complex, they have a lesser effect on calcium channel activation, and therefore less of the troublesome positive chronotropic and dromotropic effects of beta-adrenergic stimulation.<sup>21</sup>
+Cyclic AMP plays a central role in the regulation of the cardiac cell. Cytosolic levels of cyclic AMP are also increased by activation of receptors other than beta receptors (ie, for histamine, dopamine, glucagon), and are decreased by inhibitory G-proteins produced by stimulation of muscarinic receptors by acetylcholine and by stimulation of adenosine receptors. Referring to Figure 3-8, one negative feedback response to the increase in cyclic AMP is an increase in phosphodiesterase, which breaks down cyclic AMP. Phosphodiesterase inhibitors (amrinone, milrinone) inhibit the breakdown of cyclic AMP and thereby increase its level in the cytosol. Their effect is synergistic to that of beta agonists. Because they do not stimulate the production of the G-protein-GTP complex, they have a lesser effect on calcium channel activation, and therefore less of the troublesome positive chronotropic and dromotropic effects of beta-adrenergic stimulation.
+</div></details>
 
-#### ADENOSINE RECEPTORS
+<details class="med-details"><summary>
+  
+#### ADENOSINE RECEPTORS</summary><div class="details-content">
 
-There are four types of adenosine receptors. Adenosine receptors are linked to inhibitory and stimulatory G-proteins and various kinases. Activation of adenosine A, receptors leads to inhibition of cyclic AMP production, inhibition of the slow calcium channel, and opening of an adenosine-activated ATP-sensitive potassium (K<sub>ATP</sub>) channel. This leads to hyperpolarization, which delays conduction through the AV node and slows the ventricular response to atrial tachycardia. 1,22 Pretreatment with adenosine confers a cardioprotective effect during ischemia and can inhibit the inflammatory responses initiated by ischemia and reperfusion.<sup>22</sup>
+There are four types of adenosine receptors. Adenosine receptors are linked to inhibitory and stimulatory G-proteins and various kinases. Activation of adenosine A<sub>1</sub> receptors leads to inhibition of cyclic AMP production, inhibition of the slow calcium channel, and opening of an adenosine-activated ATP-sensitive potassium (K<sub>ATP</sub>) channel. This leads to hyperpolarization, which delays conduction through the AV node and slows the ventricular response to atrial tachycardia. Pretreatment with adenosine confers a cardioprotective effect during ischemia and can inhibit the inflammatory responses initiated by ischemia and reperfusion.
+</div></details>
 
-### Other Regulators of Hemodynamic Function
+<details class="med-details"><summary>
+  
+### Other Regulators of Hemodynamic Function</summary><div class="details-content">
 
+
+<details class="med-details"><summary>
+  
+#### Renin-angiotensin-aldosterone system</summary><div class="details-content">
 Angiotensin II is a vasoconstrictor and reduces renal fluid excretion. It is the final effector of the renin-angiotensin-aldosterone system. Renin, secreted by the juxtaglomerular apparatus in the kidney, splits angiotensin I from angiotensinogen, produced by the liver. Angiotensin I is converted to angiotensin II by the angiotensin-converting enzyme (ACE or kininase II, the target of ACE inhibitors) mainly in the lungs. Angiotensin II acts by causing: (1) vasoconstriction to increase systemic vascular resistance; and (2) stimulation of the adrenal cortex to secrete aldosterone, which increases fluid volume and thus cardiac output. Through both actions, angiotensin II modifies blood pressure. Angiotensin II receptor blockers (ARBs) directly inhibit angiotensin II subtype IA receptors.
+</div></details>
 
-The endothelins (ETs) have multiple effects. When bound to ET-A receptors they cause vasoconstriction, increased contractility, and proliferation. When bound to ET-B receptors they stimulate the release of nitric oxide and prostacyclin and have a vasodilatory effect.<sup>23</sup>
+<details class="med-details"><summary>
+  
+#### Endothelins</summary><div class="details-content">
+The endothelins (ETs) have multiple effects. When bound to ET-A receptors they cause vasoconstriction, increased contractility, and proliferation. When bound to ET-B receptors they stimulate the release of nitric oxide and prostacyclin and have a vasodilatory effect.
+</div>
+</details>
 
 Bradykinins, acting through their receptors, cause vasodilation. Arginine vasopressin promotes reabsorption of water by the kidney and has a vasoconstrictor effect. Natriuretic peptides, released in response to atrial distension, promote diuresis and arteriolar dilatation.
 
-Nitric oxide (NO) plays an essential role in cardiac excitation-contraction coupling. NO can regulate Ca2+ entry into the cardiomyocyte, and the release of NO in specific subcellular compartments can influence Ca2+ release from the sarcoplasmic reticulum. NO influences the contractile kinetics of the myofilaments, ensuring that Ca2+ homeostasis is closely matched with the activity of the contractile machinery and allowing for dynamic adjustments during the systolic and diastolic phase. Through the stimulus of cyclic-GMP production, low amounts of NO can increase contractility but higher doses attenuate cardiomyocyte contraction. 17,24,25 Changes in cardiac NO production by nitric oxide synthase impact responses to heart failure, diabetes, atrial fibrillation and ischemia reperfusion states.26 Inhaled NO administered at low concentrations causes pulmonary arterial dilatation, reduces chronotropy, and has a positive inotropic effect.27
-</div>
-</details>
+<details class="med-details"><summary>
+  
+#### Nitric oxide</summary><div class="details-content">
+Nitric oxide (NO) plays an essential role in cardiac excitation-contraction coupling. NO can regulate Ca<sup>2+</sup> entry into the cardiomyocyte, and the release of NO in specific subcellular compartments can influence Ca<sup>2+</sup> release from the sarcoplasmic reticulum. NO influences the contractile kinetics of the myofilaments, ensuring that Ca<sup>2+</sup> homeostasis is closely matched with the activity of the contractile machinery and allowing for dynamic adjustments during the systolic and diastolic phase. Through the stimulus of cyclic-GMP production, low amounts of NO can increase contractility but higher doses attenuate cardiomyocyte contraction. Changes in cardiac NO production by nitric oxide synthase impact responses to heart failure, diabetes, atrial fibrillation and ischemia reperfusion states. Inhaled NO administered at low concentrations causes pulmonary arterial dilatation, reduces chronotropy, and has a positive inotropic effect.
+</div></details>
 
+</div></details>
 
+</div></details>
 
-<details class="med-details">
-<summary>CONTRACTION OF CARDIAC MUSCLE</summary>
-<div class="details-content">
-#### CONTRACTION OF CARDIAC MUSCLE
+<details class="med-details"><summary>
+  
+## CONTRACTION OF CARDIAC MUSCLE</summary><div class="details-content">
 
-## Molecular Level (The Sarcomere)
+<details class="med-details"><summary>
+  
+### Molecular Level (The Sarcomere)</summary><div class="details-content">
 
-The primary contractile unit of all muscle cells is the sarcomere (Figs. 3-4 and 3-5). Sarcomeres are connected end to end at the z-line to form myofibrils. The myocyte contains numerous myofibrils arranged in parallel. A portion of a sarcomere is schematically depicted in Figure 3-9. Actin polymerizes to form the thin filaments that are anchored at the z-line. Myosin polymerizes to form the thick filaments of the sarcomere. Myosin consists of a tail of two "heavy" chains
-
+The primary contractile unit of all muscle cells is the sarcomere (Figs. 3-4 and 3-5). Sarcomeres are connected end to end at the z-line to form myofibrils. The myocyte contains numerous myofibrils arranged in parallel. A portion of a sarcomere is schematically depicted in Figure 3-9. Actin polymerizes to form the thin filaments that are anchored at the z-line. Myosin polymerizes to form the thick filaments of the sarcomere. Myosin consists of a tail of two "heavy" chains intertwined to form a helix, forming the rigid backbone of the thick filament. The globular head of myosin is attached to the heavy chain backbone by a mobile hinge and projects outward. Myosin connects with the z-line via an elastic fiber made of titin. Titin is like a spring impacting passive elasticity. The globular myosin head is an ATPase with a binding site for actin. Actin binds to the myosin globular head activating the myosin ATPase to hydrolyze ATP. This leads to a conformational change in the myosin that pulls the filament (Figure 3-9B).
+  
 ![](_page_11_Picture_2.jpeg)
 
 **FIGURE 3-9** The interaction of actin and myosin filaments converts chemical energy into mechanical movement. In diastole, the active sites on the actin filament are covered by tropomyosin. When calcium combines with troponin, the tropomyosin is pulled away from the actin active sites, allowing the energized myosin heads (depicted in solid black and cocked at right angles to the filament) to engage and sweep the actin filament along. The myosin heads are de-energized in this process. Myosin ATPase re-cocks (re-energizes) the head by utilizing the energy derived from the hydrolysis of ATP. In systole, a de-energizing head (*C*), a de-energized head (*B*), and a re-energizing head (*A*) are shown.
+  
+<details class="med-details"><summary>
+  
+#### Troponin and tropomyosin</summary><div class="details-content">
+Two proteins modulate the interaction of actin and myosin: troponin and tropomyosin. Troponin ("T" in Figure 3-9A) is composed of three units: Tn-C, the regulatory calcium binding unit; Tn-T, which binds the troponin complex to tropomyosin; and Tn-I, which facilitates interruption of actin-myosin interaction by tropomyosin. Associated with each troponin complex is tropomyosin, a filamentous protein composed of two tightly coiled chains that lie in the groove formed by the two intertwined filaments of actin. In the absence of calcium, Tn-I is tightly bound to actin so that tropomyosin blocks the binding of myosin to actin. When calcium binds to troponin-C, Tn-I becomes unbound, the tropomyosin moves to expose the myosin binding site on actin, thereby allowing cross-bridge formation between actin and myosin. Tn-C has several regulatory sites that are affected by phosphorylation in response to hormonal and other stimuli, to alter the sensitivity and degree of force generation. Acidosis will reduce contractile force through an allosteric affect because of protons binding to Tn-I, and reducing affinity of calcium binding sites.
+</div></details>
 
-intertwined to form a helix, forming the rigid backbone of the thick filament. The globular head of myosin is attached to the heavy chain backbone by a mobile hinge and projects outward. Myosin connects with the z-line via an elastic fiber made of titin. Titin is like a spring impacting passive elasticity. The globular myosin head is an ATPase with a binding site for actin. Actin binds to the myosin globular head activating the myosin ATPase to hydrolyze ATP. This leads to a conformational change in the myosin that pulls the filament (Figure 3-9B).
+During diastole, Ca<sup>2+</sup> is unavailable to bind troponin-C and the myosin binding site on actin is blocked. Depolarization leads to an influx of calcium ions and the subsequent "calcium-triggered, calcium release" increases the intracellular Ca<sup>2+</sup> levels by approximately two orders of magnitude (from 10<sup>-7</sup> M in diastole to 10<sup>-5</sup> M in systole). This provides sufficient calcium to bind to troponin C, which causes a conformational change in the troponin molecule, removing the inhibitory effect of troponin I-tropomyosin, allowing actinmyosin cross-bridge formation (Figure 3-9A). Cross-bridge formation activates the myosin ATPase and initiates the conformational change in the myosin "hinge" drawing the z-lines closer together (Figure 3-9B). Adenosine diphosphate (ADP) and P are released. ATP binds to the myosin head, allowing dissociation from the actin and realigning the myosin globular head, preparing it to repeat the process. This process cycles until the end of muscular contraction is signaled by the reduction in intracellular calcium levels by sequestration into the sarcoplasmic reticulum.
 
-Two proteins modulate the interaction of actin and myosin: troponin and tropomyosin. Troponin ("T" in Figure 3-9A) is composed of three units: Tn-C, the regulatory calcium binding unit; Tn-T, which binds the troponin complex to tropomyosin; and Tn-I, which facilitates interruption of actin-myosin interaction by tropomyosin. Associated with each troponin complex is tropomyosin, a filamentous protein composed of two tightly coiled chains that lie in the groove formed by the two intertwined filaments of actin. In the absence of calcium, Tn-I is tightly bound to actin so that tropomyosin blocks the binding of myosin to actin. When calcium binds to troponinC, Tn-I becomes unbound, the tropomyosin moves to expose the myosin binding site on
+The strength of the myocardial contraction is primarily mediated by the degree to which actin-binding sites are exposed. This depends on the affinity of troponin for calcium and the availability of calcium ions. The initial calcium ion influx is altered by cyclic AMP, stimulatory and inhibitory G-proteins, and acetylcholine. The magnitude of the calcium trigger determines the magnitude of the cytosolic calcium release from the sarcoplasmic reticulum. The rate of uptake of calcium from the cytosol is altered by cyclic AMP (Figure 3-8). Cyclic AMP can phosphorylate a portion of the troponin molecule, facilitating the rapid release of calcium, increasing the rate of relaxation of the actin-myosin complex.
+</div></details>
 
-actin, thereby allowing cross-bridge formation between actin and myosin. Tn-C has several regulatory sites that are affected by phosphorylation in response to hormonal and other stimuli, to alter the sensitivity and degree of force generation. Acidosis will reduce contractile force through an allosteric affect because of protons binding to Tn-I, and reducing affinity of calcium binding sites.<sup>28</sup>
+<details class="med-details"><summary>
+  
+### The Cytoskeleton</summary><div class="details-content">
 
-During diastole, Ca2+ is unavailable to bind troponin C and the myosin binding site on actin is blocked. Depolarization leads to an influx of calcium ions and the subsequent "calcium-triggered, calcium release" increases the intracellular Ca<sup>2+</sup> levels by approximately two orders of magnitude (from 10<sup>-7</sup> M in diastole to 10<sup>-5</sup> M in systole). This provides sufficient calcium to bind to troponin C, which causes a conformational change in the troponin molecule, removing the inhibitory effect of troponin I-tropomyosin, allowing actinmyosin cross-bridge formation (Figure 3-9A). Cross-bridge formation activates the myosin ATPase and initiates the conformational change in the myosin "hinge" drawing the z-lines closer together (Figure 3-9B). Adenosine diphosphate (ADP) and P are released. ATP binds to the myosin head, allowing dissociation from the actin and realigning the myosin globular head, preparing it to repeat the process. This process
+Cytoskeletal elements include microfilaments composed of actin, intermediate filaments composed of desmin, and micro-tubules made of tubulin. The cytoskeleton maintains cellular anatomy, transmits developed tension, and links adjacent myocytes. It also has a role in intracellular signaling. Cardiac myocytes are mechanically linked through the intercalated discs by the fascia adherens and desmosomes. Sarcomere tension is transmitted through actin microfilaments to the fascia adherens of the intercalated discs. Intermediate filaments of adjacent cells are linked through desmosomes.
+</div></details>
 
-55
+<details class="med-details"><summary>
+  
+### Regulation of the Strength of Contraction by Initial Sarcomere Length</summary><div class="details-content">
 
-cycles until the end of muscular contraction is signaled by the reduction in intracellular calcium levels by sequestration into the sarcoplasmic reticulum.
+In cardiac muscle, the strength of contraction is related to resting sarcomere length (see also the Frank-Starling relationship in the following). Maximal contraction force occurs when the resting sarcomere length is between 2 and 2.4 μm. At this length, there is optimal overlap of the actin and myosin maximizing the number of actin-myosin cross-bridges. Force declines at a greater sarcomere length, with decreased overlap of actin and myosin. In the heart, a decrease in contractility related to decreased overlap of the filaments does not seem to occur clinically, as the resting length of the cardiac sarcomere rarely exceeds 2.2 to 2.4 µm. Once this length is reached, a stiff parallel elastic element prevents further dilation. If chamber dilation does occur, it appears to be primarily through slippage of fibers or myofibers rather than stretching of sarcomeres. Stretching the myocardium increases contractility by increasing the sensitivity of troponin C to calcium. This length-dependent sensitivity to calcium is an important part of the ascending limb of the Starling curve observed in the intact ventricle. Two known factors that contribute to control of length-dependent activation are: (1) conformational changes in the lattice of titin fibers and (2) thin filament "on-off" equilibrium regulated by protein kinase A and protein kinase C.
+</div></details>
 
-The strength of the myocardial contraction is primarily mediated by the degree to which actin-binding sites are exposed. This depends on the affinity of troponin for calcium and the availability of calcium ions. The initial calcium ion influx is altered by cyclic AMP, stimulatory and inhibitory G-proteins, and acetylcholine. The magnitude of the calcium trigger determines the magnitude of the cytosolic calcium release from the sarcoplasmic reticulum. The rate of uptake of calcium from the cytosol is altered by cyclic AMP (Figure 3-8). Cyclic AMP can phosphorylate a portion of the troponin molecule, facilitating the rapid release of calcium, increasing the rate of relaxation of the actin-myosin complex.<sup>7,29</sup>
+</div></details>
 
-## The Cytoskeleton
+<details class="med-details"><summary>
+  
+## THE PUMP</summary><div class="details-content">
 
-Cytoskeletal elements include microfilaments composed of actin, intermediate filaments composed of desmin, and micro-tubules made of tubulin.<sup>30</sup> The cytoskeleton maintains cellular anatomy, transmits developed tension, and links adjacent myocytes. It also has a role in intracellular signaling. Cardiac myocytes are mechanically linked through the intercalated discs by the fascia adherens and desmosomes.<sup>31</sup> Sarcomere tension is transmitted through actin microfilaments to the fascia adherens of the intercalated discs. Intermediate filaments of adjacent cells are linked through desmosomes.
-
-## Regulation of the Strength of Contraction by Initial Sarcomere Length
-
-In cardiac muscle, the strength of contraction is related to resting sarcomere length (see also the Frank-Starling relationship in the following). Maximal contraction force occurs when the resting sarcomere length is between 2 and 2.4 μm. At this length, there is optimal overlap of the actin and myosin maximizing the number of actin-myosin cross-bridges. Force declines at a greater sarcomere length, with decreased overlap of actin and myosin. In the heart, a decrease in contractility related to decreased overlap of the filaments does not seem to occur clinically, as the resting length of the cardiac sarcomere rarely exceeds 2.2 to 2.4 µm. Once this length is reached, a stiff parallel elastic element prevents further dilation. If chamber dilation does occur, it appears to be primarily through slippage of fibers or myofibers rather than stretching of sarcomeres.1 Stretching the myocardium increases contractility by increasing the sensitivity of troponin C to calcium. This length-dependent sensitivity to calcium is an important part of the ascending limb of the Starling curve observed in the intact ventricle. Two known factors that contribute to control of length-dependent activation are: (1) conformational changes in the lattice of titin fibers and (2) thin filament "on-off" equilibrium regulated by protein kinase A and protein kinase C.32
-</div>
-</details>
-
-
-
-<details class="med-details">
-<summary>THE PUMP</summary>
-<div class="details-content">
-#### **THE PUMP**
-
-## Microscopic Architecture
+<details class="med-details"><summary>
+  
+### Microscopic Architecture</summary><div class="details-content">
 
 Each myocyte is surrounded by a connective tissue framework called the endomysium. Groups of myocytes are joined within the perimysium, and the entire muscle within the epimysium. Muscle bundles are anchored in the fibrous skeleton at the base of the heart. Muscle bundles spiral around the cavity in overlapping patterns.
+</div></details>
 
-## Macroscopic Architecture
+<details class="med-details"><summary>
+  
+### Macroscopic Architecture</summary><div class="details-content">
 
 The geometry of each ventricle is adapted to the function required of it. The left ventricle, which must eject against high pressure, is conical in shape with inlet and outlet adjacent at the base of the cone. Cavity volume is reduced during systole by a combination of concentric contraction and wall thickening, the latter predominating. The right ventricle wraps around the left ventricle, its cavity is crescent shaped with separated points of inflow and outflow. Cavity reduction is primarily a result of concentric contraction of the right ventricular free wall against the septum.
+</div></details>
 
-#### **Mechanics**
+<details class="med-details"><summary>
+  
+### **Mechanics**</summary><div class="details-content">
 
-## CLINICALLY MEASUREABLE PHYSIOLOGIC PARAMETERS
+<details class="med-details"><summary>
+  
+#### CLINICALLY MEASUREABLE PHYSIOLOGIC PARAMETERS</summary><div class="details-content">
 
-Cardiac surgeons can assess the function of the heart in a number of ways. Aortic, pulmonary artery, pulmonary capillary wedge, and central venous pressures can be measured directly. Cardiac output can be estimated using thermodilution or based on oxygen saturation measurements. From these direct measurements, other parameters can be derived—although less accurate because of the cumulative error of the measured parameters inherent in the calculation—such as pulmonary and systemic vascular resistance, and ventricular stroke work. Ejection fraction—defined as stroke volume/end-diastolic volume—can be estimated by echocardiography and ventriculography, but is subject to change based on loading conditions, heart rate, and degree of contractility. Although clinically useful, these parameters do not directly measure contractility.
+Cardiac surgeons can assess the function of the heart in a number of ways. Aortic, pulmonary artery, pulmonary capillary wedge, and central venous pressures can be measured directly. Cardiac output can be estimated using thermodilution or based on oxygen saturation measurements. From these direct measurements, other parameters can be derived — although less accurate because of the cumulative error of the measured parameters inherent in the calculation — such as pulmonary and systemic vascular resistance, and ventricular stroke work. Ejection fraction — defined as stroke volume/end-diastolic volume — can be estimated by echocardiography and ventriculography, but is subject to change based on loading conditions, heart rate, and degree of contractility. Although clinically useful, these parameters do not directly measure contractility.
+</div></details>
 
-#### THE FRANK-STARLING RELATIONSHIP
+<details class="med-details"><summary>
+  
+#### THE FRANK-STARLING RELATIONSHIP</summary><div class="details-content">
 
-Within physiologic limits, the heart functions as a sump pump. The heart has an intrinsic ability to increase systolic force in response to a rise in ventricular filling. The more the heart is filled during diastole, the greater the quantity of blood that will be pumped out of the heart during systole. Under normal circumstances, the heart pumps all the blood that comes back to it without excessive elevation of venous pressures. In the normal heart, as ventricular filling is increased, the strength of ventricular contraction increases. The influence of sarcomere length on the force of contraction is called the Frank-Starling relationship. This relationship for the left ventricle is depicted in Figure 3-10. Also depicted
-
+Within physiologic limits, the heart functions as a sump pump. The heart has an intrinsic ability to increase systolic force in response to a rise in ventricular filling. The more the heart is filled during diastole, the greater the quantity of blood that will be pumped out of the heart during systole. Under normal circumstances, the heart pumps all the blood that comes back to it without excessive elevation of venous pressures. In the normal heart, as ventricular filling is increased, the strength of ventricular contraction increases. The influence of sarcomere length on the force of contraction is called the Frank-Starling relationship. This relationship for the left ventricle is depicted in Figure 3-10. Also depicted in Figure 3-10 are two other states, a condition of normal adrenergic stimulation and a condition of maximal adrenergic stimulation. Force is increased for the same resting conditions by adrenergic stimulation; this is a positive inotropic effect.
+  
 ![](_page_13_Figure_2.jpeg)
 
 **FIGURE 3-10** Starling curves for the left ventricle. The influence of four different states of neurohumoral stimulation on global ventricular performance is shown.
+</div></details>
 
-in Figure 3-10 are two other states, a condition of normal adrenergic stimulation and a condition of maximal adrenergic stimulation. Force is increased for the same resting conditions by adrenergic stimulation; this is a positive inotropic effect.
-
-## PRELOAD: DIASTOLIC DISTENSIBILITY AND COMPLIANCE
+<details class="med-details"><summary>
+  
+#### PRELOAD: DIASTOLIC DISTENSIBILITY AND COMPLIANCE</summary><div class="details-content">
 
 Preload is the load placed on a resting muscle that stretches it to its functional length. In the heart, preload references the volume of blood in the cavity immediately prior to contraction (at end-diastole) because volume determines the degree of stretch imposed on the resting sarcomere. As volume cannot be easily assessed clinically, pressure is used as a surrogate; thus, the concept of preload is represented as the filling pressure of a chamber. The relationship between the enddiastolic pressure and the end-diastolic volume is complex. Several different diastolic pressure-volume relationships are shown in Figure 3-12 (green line). As end-diastolic volume increases, and the heart stretches, the end-diastolic pressure also increases. The compliance, or distensibility of the ventricle, is defined as the change in volume divided by the change in pressure. Conversely, the stiffness of the ventricle is the reciprocal of compliance, or the change in pressure divided by the change in volume.
 
-A number of factors affect the diastolic pressure-volume relationship. A fibrotic heart, a hypertrophied heart, or an aging heart becomes increasingly stiff (Figure 3-12C and Figure 3-12E). In the case of fibrosis, this increasing stiffness is related to the development of a greater collagen network. In
+A number of factors affect the diastolic pressure-volume relationship. A fibrotic heart, a hypertrophied heart, or an aging heart becomes increasingly stiff (Figure 3-12C and Figure 3-12E). In the case of fibrosis, this increasing stiffness is related to the development of a greater collagen network. In the case of hypertrophy, this increased stiffness is related both to stiffening of the noncontractile components of the heart and also to impaired relaxation of the heart. Relaxation is an active, energy-requiring process. This process is accelerated by catecholamine stimulation, but is impaired by ischemia, hypothyroidism, and chronic congestive heart failure. Examination of the diastolic pressure-volume curves in Figure 3-12 reveals the importance of changes in diastolic distensibility in pathologic cardiac conditions.
+  
+![](_page_15_Figure_2.jpeg)
 
-the case of hypertrophy, this increased stiffness is related both to stiffening of the noncontractile components of the heart and also to impaired relaxation of the heart. Relaxation is an active, energy-requiring process. This process is accelerated by catecholamine stimulation, but is impaired by ischemia, hypothyroidism, and chronic congestive heart failure. Examination of the diastolic pressure-volume curves in Figure 3-12 reveals the importance of changes in diastolic distensibility in pathologic cardiac conditions.
+**FIGURE 3-12** Left ventricular pressure-volume curves for various physiologic and pathologic conditions. (Detailed descriptions are in the text.) The bold curved line at the bottom of each loop series represents the diastolic pressure-volume relationship. The straight line located on the upper left side of each loop series is the end-systolic pressure-volume relationship. The stroke volume for each curve has been arbitrarily set at 75 mL. Systolic aortic pressure is 115 mm Hg in all curves except *B* (increased afterload, systolic pressure 140 mm Hg) and H (reduced afterload, systolic pressure 90 mm Hg) (EF = ejection fraction; LV = left ventricle; LVEDP = left ventricular end-diastolic pressure), in mm Hg.
+</div></details>
 
-#### AFTERLOAD: VASCULAR IMPEDANCE
+<details class="med-details"><summary>
+  
+#### AFTERLOAD: VASCULAR IMPEDANCE</summary><div class="details-content">
 
-The afterload of an isolated muscle is the tension against which it contracts. In simplest terms, for the heart, the afterload is determined by the pressure against which the ventricle must eject. The greater the afterload, the more mechanical energy that must be imparted to the blood mass (potential energy) to begin ejection. In addition to the potential energy imparted to the ejected blood by a change in pressure, the contracting left ventricle generates kinetic energy which overcomes the compliance of the distensible aorta and systemic arterial tree to move the blood into the arterial system. The energy necessary for this flow to occur is relatively small (potential energy >> kinetic energy). Resistance, which equals the change in pressure divided by cardiac output, reflects the potential energy imparted to blood. To accurately describe the forces overcome to eject blood from the ventricle, the compliance of the vascular system and kinetic energy imparted must also be considered: the impedance of the vascular system (commonly, but less accurately referred to as a ortic impedance). Compliance reflects the capacity of the vascular system to accept the volume of ejected blood. When the vascular system is very compliant, resistance ≈ impedance. As compliance decreases (eg, with arteriosclerosis), resistance is less than impedance.<sup>33</sup> The interaction of resistance and compliance define the dicrotic notch, marking end-systole, closure of the aortic valve, on the aortic pressure tracing (Figure 3-11).
-
-#### THE CARDIAC CYCLE
-
-Multiple parameters of the cardiac cycle are represented in Figure 3-11. By convention the cardiac cycle begins at enddiastole (ED), just prior to electrical activation of the ventricle. As the heart contracts, intracavitary pressure closes the mitral valve, then rapidly increases until the systemic diastolic pressure is reached (isovolumic contraction) and the aortic valve opens. Ejection begins and the intracavitary pressure continues to rise then fall as the ventricular volume decreases (ejection). When ejection ceases and the aortic valve closes, intracavitary pressure decreases rapidly until the mitral valve opens (isovolumic relaxation). Once the mitral valve opens, the ventricle fills rapidly, then more slowly as the intracavitary pressure slightly increases from distension prior to atrial systole (diastolic filling phase). The completion of atrial systole is the end of ventricular diastole. Atrial systole serves to increase the preload of the ventricle at a given systemic venous pressure.
-
+The afterload of an isolated muscle is the tension against which it contracts. In simplest terms, for the heart, the afterload is determined by the pressure against which the ventricle must eject. The greater the afterload, the more mechanical energy that must be imparted to the blood mass (potential energy) to begin ejection. In addition to the potential energy imparted to the ejected blood by a change in pressure, the contracting left ventricle generates kinetic energy which overcomes the compliance of the distensible aorta and systemic arterial tree to move the blood into the arterial system. The energy necessary for this flow to occur is relatively small (potential energy >> kinetic energy). Resistance, which equals the change in pressure divided by cardiac output, reflects the potential energy imparted to blood. To accurately describe the forces overcome to eject blood from the ventricle, the compliance of the vascular system and kinetic energy imparted must also be considered: the impedance of the vascular system (commonly, but less accurately referred to as aortic impedance). Compliance reflects the capacity of the vascular system to accept the volume of ejected blood. When the vascular system is very compliant, resistance ≈ impedance. As compliance decreases (eg, with arteriosclerosis), resistance is less than impedance. The interaction of resistance and compliance define the dicrotic notch, marking end-systole, closure of the aortic valve, on the aortic pressure tracing (Figure 3-11).
+  
 ![](_page_14_Figure_2.jpeg)
 
 **FIGURE 3-11** Temporal correlation of left atrial and ventricular, aortic, and systemic venous pressures, aortic flow, left ventricular volume, and surface electrocardiogram.
+</div></details>
 
-A conceptual understanding of the venous pressure changes is important in diagnosing certain pathologic processes. The right atrial pressure is easily measured and pulmonary capillary wedge pressure is reflective of left atrial pressure. The "a" wave corresponds to atrial systole as pressure increases at end-diastole to complete ventricular filling. The "c" wave reflects pressure pushing the atrioventricular (AV) valve back into the atrium as the ventricular pressure rises then falls during systole. The "x" descent results from atrial relaxation and downward displacement of the AV valve with
+<details class="med-details"><summary>
+  
+#### THE CARDIAC CYCLE</summary><div class="details-content">
 
-ventricular emptying. The "v" wave reflects the increasing atrial pressure from filling before the AV valve opens. The "y" descent is caused by rapid emptying of the atrium after the AV valve opens. Characteristic changes in these waveforms are used to diagnose and differentiate constrictive and restrictive processes, as discussed elsewhere in the text. A prominent left atrial "v" wave suggests mitral regurgitation.
+Multiple parameters of the cardiac cycle are represented in Figure 3-11. By convention the cardiac cycle begins at enddiastole (ED), just prior to electrical activation of the ventricle. As the heart contracts, intracavitary pressure closes the mitral valve, then rapidly increases until the systemic diastolic pressure is reached (isovolumic contraction) and the aortic valve opens. Ejection begins and the intracavitary pressure continues to rise then fall as the ventricular volume decreases (ejection). When ejection ceases and the aortic valve closes, intracavitary pressure decreases rapidly until the mitral valve opens (isovolumic relaxation). Once the mitral valve opens, the ventricle fills rapidly, then more slowly as the intracavitary pressure slightly increases from distension prior to atrial systole (diastolic filling phase). The completion of atrial systole is the end of ventricular diastole. Atrial systole serves to increase the preload of the ventricle at a given systemic venous pressure.
+  
+<details class="med-details"><summary>
+  
+##### Venous pressure changes</summary><div class="details-content">
+A conceptual understanding of the venous pressure changes is important in diagnosing certain pathologic processes. The right atrial pressure is easily measured and pulmonary capillary wedge pressure is reflective of left atrial pressure. 
+- The "a" wave corresponds to atrial systole as pressure increases at end-diastole to complete ventricular filling. 
+- The "c" wave reflects pressure pushing the atrioventricular (AV) valve back into the atrium as the ventricular pressure rises then falls during systole. 
+- The "x" descent results from atrial relaxation and downward displacement of the AV valve with ventricular emptying. 
+- The "v" wave reflects the increasing atrial pressure from filling before the AV valve opens. 
+- The "y" descent is caused by rapid emptying of the atrium after the AV valve opens. Characteristic changes in these waveforms are used to diagnose and differentiate constrictive and restrictive processes, as discussed elsewhere in the text. A prominent left atrial "v" wave suggests mitral regurgitation.
+</div></details>
 
-## VENTRICULAR PRESSURE-VOLUME RELATIONSHIPS
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### VENTRICULAR PRESSURE-VOLUME RELATIONSHIPS</summary><div class="details-content">
 
 The function of the heart can be described and quantified based on the relative intraventricular pressure and volume during the cardiac cycle (Figure 3-12). Based on this relationship, various measures can be derived to assess cardiac performance. The ventricular pressure-volume relationship derives from the Frank-Starling relationship of sarcomere length and peak developed force: The force and extent of contraction (stroke volume) is a function of end-diastolic length (volume).
 
 End-diastole (ED) is represented at the lower right corner of the loop in Figure 3-12A. The pressure-volume loop then successively tracks changes through isovolumic contraction (up to the upper right corner); ejection (left to the upper left corner, which represents end-systole [ES]); isovolumic relaxation (down to the bottom left corner); then filling (right to the lower right corner). Descriptive data to assess ventricular function are derived from the end-systolic pressure-volume point located in the upper left corner of the loop, and end-diastolic pressure-volume point located in the lower right corner of the loop. The area within the pressure-volume loop represents the internal work of the chamber.
+</div></details>
 
-#### CONTRACTILITY
+<details class="med-details"><summary>
+  
+#### CONTRACTILITY</summary><div class="details-content">
 
-The term contractility (inotropic state) refers to the intrinsic performance of the ventricle for a given preload, afterload, and heart rate. Otherwise stated, contractility refers to all the factors that impact cardiac performance independent of the acute effects of preload, afterload, and heart rate. In the purest sense, at a level of constant contractility, increased preload will increase cardiac output and stroke volume; increased afterload will decrease cardiac output and stroke volume; and increased heart rate (assuming adequate time for complete diastolic filling) will increase cardiac output without changing stroke volume. Although the inotropic state impacts cardiac output, it is difficult to quantify in clinically useful terms. For research purposes, the pressure-volume relationship can be used to quantify contractility by deriving the endsystolic pressure-volume relationship (ESPVR): contractility is reflected in the slope  $(E_{FS})$  and volume axis intercept  $(V_0)$ of the ESPVR (Figure 3-13). Holding afterload and heart rate constant, a series of pressure-volume loops are inscribed during transient preload reduction induced by temporary vena caval occlusion; the area of the loops decreases and the loops are shifted to the left. The progressive pressure-volume points at end systole are then linearized to derive the ESPVR. Within
-
-![](_page_15_Figure_2.jpeg)
-
-**FIGURE 3-12** Left ventricular pressure-volume curves for various physiologic and pathologic conditions. (Detailed descriptions are in the text.) The bold curved line at the bottom of each loop series represents the diastolic pressure-volume relationship. The straight line located on the upper left side of each loop series is the end-systolic pressure-volume relationship. The stroke volume for each curve has been arbitrarily set at 75 mL. Systolic aortic pressure is 115 mm Hg in all curves except *B* (increased afterload, systolic pressure 140 mm Hg) and H (reduced afterload, systolic pressure 90 mm Hg) (EF = ejection fraction; LV = left ventricle; LVEDP = left ventricular end-diastolic pressure), in mm Hg.
-
+The term contractility (inotropic state) refers to the intrinsic performance of the ventricle for a given preload, afterload, and heart rate. Otherwise stated, contractility refers to all the factors that impact cardiac performance independent of the acute effects of preload, afterload, and heart rate. In the purest sense, at a level of constant contractility, increased preload will increase cardiac output and stroke volume; increased afterload will decrease cardiac output and stroke volume; and increased heart rate (assuming adequate time for complete diastolic filling) will increase cardiac output without changing stroke volume. Although the inotropic state impacts cardiac output, it is difficult to quantify in clinically useful terms. For research purposes, the pressure-volume relationship can be used to quantify contractility by deriving the endsystolic pressure-volume relationship (ESPVR): contractility is reflected in the slope  (E<sub>ES</sub>)  and volume axis intercept  V<sub>0</sub> of the ESPVR (Figure 3-13). Holding afterload and heart rate constant, a series of pressure-volume loops are inscribed during transient preload reduction induced by temporary vena caval occlusion; the area of the loops decreases and the loops are shifted to the left. The progressive pressure-volume points at end systole are then linearized to derive the ESPVR. Within a clinical range of systolic pressures (80 to 120 mm Hg), the end-systolic pressure-volume line is largely linear. An increase in inotropic state of the left ventricle is expressed as an increase in  (E<sub>ES</sub>)  and sometimes a decrease in  V<sub>0</sub> . Conversely, a decrease in inotropic state is expressed as a decrease in  (E<sub>ES</sub>)  and sometimes an increase in  V<sub>0</sub>  (Figure 3-13). As the ESPVR describes systolic function, the end-diastolic pressure volume relationship (EDPVR) (Figure 3-13) describes ventricular diastolic compliance (more specifically, the inverse of the slope of the EDPVR is compliance) a measure of lusitropy. The EDPVR is impacted by calcium uptake, ease of dissociation of contractile proteins, the cytoskeleton, ventricular wall thickness, and the pericardium.
+  
 ![](_page_16_Figure_2.jpeg)
 
-**FIGURE 3-13** Two series of declining left ventricular pressure-volume loops generated during transient bicaval occlusion. Loops were generated in normal left ventricles (normal) and after 30 minutes of global normothermic ischemia and subsequent reperfusion (*dashed lines*). The end-systolic pressure-volume points from each series are connected by a line generated by linear regression. The end-diastolic pressure-volume relationship indicating chamber stiffness (inverse of compliance) is generated by fitting the end-diastolic point from each loop to an exponential curve. The volume axis intercept ( $V_0$ ) is shown in the inset. A negative inotropic effect (ie, ischemia-reperfusion) is characterized by a decrease in the ESPVR slope, while a positive inotropic state is characterized by an increase in ESPVR slope. Notice that the  $V_0$  for these conditions are in close proximity (*inset*). In some cases, a negative inotropic state is associated with a decrease in slope and an increase in  $V_0$ .
+**FIGURE 3-13** Two series of declining left ventricular pressure-volume loops generated during transient bicaval occlusion. Loops were generated in normal left ventricles (normal) and after 30 minutes of global normothermic ischemia and subsequent reperfusion (*dashed lines*). The end-systolic pressure-volume points from each series are connected by a line generated by linear regression. The end-diastolic pressure-volume relationship indicating chamber stiffness (inverse of compliance) is generated by fitting the end-diastolic point from each loop to an exponential curve. The volume axis intercept (V<sub>0</sub>) is shown in the inset. A negative inotropic effect (ie, ischemia-reperfusion) is characterized by a decrease in the ESPVR slope, while a positive inotropic state is characterized by an increase in ESPVR slope. Notice that the  V<sub>0</sub>  for these conditions are in close proximity (*inset*). In some cases, a negative inotropic state is associated with a decrease in slope and an increase in  V<sub>0</sub>.
 
-a clinical range of systolic pressures (80 to 120 mm Hg), the end-systolic pressure-volume line is largely linear. An increase in inotropic state of the left ventricle is expressed as an increase in  $\rm E_{ES}$  and sometimes a decrease in  $\rm V_0$ . Conversely, a decrease in inotropic state is expressed as a decrease in  $\rm E_{ES}$  and sometimes an increase in  $\rm V_0$  (Figure 3-13). As the ESPVR describes systolic function, the end-diastolic pressure volume relationship (EDPVR) (Figure 3-13) describes ventricular diastolic compliance (more specifically, the inverse of the slope of the EDPVR is compliance) a measure of lusitropy. The EDPVR is impacted by calcium uptake, ease of dissociation of contractile proteins, the cytoskeleton, ventricular wall thickness, and the pericardium.
+<details class="med-details"><summary>
+  
+##### Pressure-volume loops</summary><div class="details-content">
+Pressure-volume loops can be used to analyze various physiologic situations. 
+- Increased afterload (Figure 3-12B) moves the end-systolic pressure-volume point slightly upward and to the right. If stroke volume is maintained, end-diastolic volume must increase. Thus, though contractility is unchanged, ejection fraction is slightly decreased. 
+- Figure 3-12C shows the effect of a decrease in ventricular compliance (increased EDPVR) such as may result from hypertrophy, fibrosis, or cardiac tamponade. Systolic function is maintained ( E<sub>ES</sub>  and  V<sub>0</sub>  are unchanged), and stroke volume and ejection fraction can be maintained but require an increased end-diastolic pressure. 
+- The positive inotropic (increased E<sub>ES</sub>) and lusitropic (decreased EDPVR) effects of adrenergic stimulation (Figure 3-12D), at constant stroke volume, shift the pressure-volume loop to the left, and increase the ejection fraction. 
+- In the hypertrophied heart (Figure 3-12E), in contrast to Figure 3-12C, diastolic compliance is decreased and systolic contractility is increased. A constant stroke volume leads to an increase in end-diastolic filling pressure and decreased end-diastolic volume. The pressure-volume loop shifts to the left with an increase in ejection fraction.
+- The ability of the hypertrophied heart to increase stroke volume is limited. Acute ischemia (Figure 3-12F) decreases diastolic compliance (increases EDPVR) and contractility. The pressure-volume loop shifts to the right and up to maintain stroke volume, consistent with the clinical observation of an acute decrease in ejection fraction and increase in left ventricular filling pressure. 
+- In the dilated heart of chronic congestive heart failure (Figure 3-12G), the pressure-volume loop is shifted to the right. Note that the slope of the diastolic pressure-volume curve (EDPVR) changes little; rather the curve shifts to the right. The end-diastolic pressure is not increased because of a change in compliance; instead, to maintain stroke volume, the pressure-volume loop has moved upward on the compliance curve. Contrast this with the fibrotic process discussed in the preceding. 
+- The effect of afterload reduction on the chronically failing heart from Figure 3-12G is demonstrated in Figure 3-12H. Note that the ESPVR, EDPVR, and stroke volume are unchanged. The pressure volume loop has moved back to the left, decreasing both the degree of chamber dilatation, end-diastolic pressure, and ejection fraction. A positive inotropic agent would shift the ESPVR line to the left (toward the dashed line), and the degree of dilatation would be reduced and both stroke volume and ejection fraction would be increased. It is important to remember that these relationships are idealized and may not completely reflect true clinical responses. For example, reduced diastolic dilatation from afterload reduction could return the ventricle to a state of improved intrinsic contractility. Despite these interactions, the pure concepts discussed here are very helpful in understanding the response of the heart to clinical interventions.
+</div></details>
 
-Pressure-volume loops can be used to analyze various physiologic situations. Increased afterload (Figure 3-12B) moves the end-systolic pressure-volume point slightly upward and to the right. If stroke volume is maintained, end-diastolic volume must increase. Thus, though contractility is unchanged, ejection fraction is slightly decreased. Figure 3-12C shows the effect of a decrease in ventricular compliance (increased EDPVR) such as may result from hypertrophy, fibrosis, or cardiac tamponade. Systolic function is maintained ( $E_{\rm ES}$  and  $V_{\rm 0}$  are unchanged), and stroke volume and ejection fraction can be maintained but require an increased end-diastolic pressure. The positive inotropic (increased  $E_{\rm ES}$ ) and lusitropic (decreased EDPVR) effects
-
-of adrenergic stimulation (Figure 3-12D), at constant stroke volume, shift the pressure-volume loop to the left, and increase the ejection fraction. In the hypertrophied heart (Figure 3-12E), in contrast to Figure 3-12C, diastolic compliance is decreased and systolic contractility is increased. A constant stroke volume leads to an increase in end-diastolic filling pressure and decreased end-diastolic volume. The pressure-volume loop shifts to the left with an increase in ejection fraction. The ability of the hypertrophied heart to increase stroke volume is limited. Acute ischemia (Figure 3-12F) decreases diastolic compliance (increases EDPVR) and contractility. The pressure-volume loop shifts to the right and up to maintain stroke volume, consistent with the clinical observation of an acute decrease in ejection fraction and increase in left ventricular filling pressure. In the dilated heart of chronic congestive heart failure (Figure 3-12G), the pressure-volume loop is shifted to the right. Note that the slope of the diastolic pressure-volume curve (EDPVR) changes little; rather the curve shifts to the right. The end-diastolic pressure is not increased because of a change in compliance; instead, to maintain stroke volume, the pressure-volume loop has moved upward on the compliance curve. Contrast this with the fibrotic process discussed in the preceding. The effect of afterload reduction on the chronically failing heart from Figure 3-12G is demonstrated in Figure 3-12H. Note that the ESPVR, EDPVR, and
-
+<details class="med-details"><summary>
+  
+##### Preload recruitable stroke work (PRSW)</summary><div class="details-content">
+Another index of contractility, perhaps less influenced by other parameters, is the preload recruitable stroke work (PRSW) relationship. Stroke work is the area of the pressure-volume loop. For each pressure-volume loop derived by vena caval occlusion, the stroke work is plotted relative to its end-diastolic volume (Figure 3-14). The slope of the derived linear relationship is a measure of contractility independent (within physiologic ranges) of preload and afterload. The PRSW relationship reflects overall performance of the left ventricle, combining systolic and diastolic components.
+  
 ![](_page_17_Figure_2.jpeg)
 
 **FIGURE 3-14** Plot of hypothetical measurement of preload recruitable stroke work.
+</div></details>
+  
+</div></details>
 
-stroke volume are unchanged. The pressure volume loop has moved back to the left, decreasing both the degree of chamber dilatation, end-diastolic pressure, and ejection fraction. A positive inotropic agent would shift the ESPVR line to the left (toward the dashed line), and the degree of dilatation would be reduced and both stroke volume and ejection fraction would be increased. It is important to remember that these relationships are idealized and may not completely reflect true clinical responses. For example, reduced diastolic dilatation from afterload reduction could return the ventricle to a state of improved intrinsic contractility. Despite these interactions, the pure concepts discussed here are very helpful in understanding the response of the heart to clinical interventions.
-
-Another index of contractility, perhaps less influenced by other parameters, is the preload recruitable stroke work (PRSW) relationship. Stroke work is the area of the pressure-volume loop. For each pressure-volume loop derived by vena caval occlusion, the stroke work is plotted relative to its end-diastolic volume<sup>34</sup> (Figure 3-14). The slope of the derived linear relationship is a measure of contractility independent (within physiologic ranges) of preload and afterload. The PRSW relationship reflects overall performance of the left ventricle, combining systolic and diastolic components.<sup>35</sup>
-
-#### **CLINICAL INDICES OF CONTRACTILITY**
+<details class="med-details"><summary>
+  
+#### **CLINICAL INDICES OF CONTRACTILITY**</summary><div class="details-content">
 
 Clearly, from the preceding discussion, the degree of contractility can be assessed, but unlike blood pressure, an ideal number or range to describe it cannot be derived. Because ESPVR and PRSW are unique for each ventricle, these parameters more accurately measure changes in contractility. The greatest impediment to the clinical application of the ESPVR and PRSW is the difficulty measuring ventricular volume and inducing preload reduction to derive the pressure-volume loops. More easily measurable indices of contractility have been actively sought.
 
 Ejection fraction is used by many clinicians as a measure of contractility. However, as noted in the discussion of Figure 3-12, ejection fraction is influenced by preload and afterload alterations without any change in contractility. Depending on loading conditions, hearts with a lower ejection fraction can produce a greater cardiac output. Although roughly indicative of cardiac reserve, ejection fraction is an inconsistent marker for overall cardiac function perioperatively but is a useful, gross measure of cardiac reserve.
+</div></details>
 
-#### MYOCARDIAL WALL STRESS
+<details class="med-details"><summary>
+  
+#### MYOCARDIAL WALL STRESS</summary><div class="details-content">
 
+<details class="med-details"><summary>
+  
+##### Law of Laplace</summary><div class="details-content">
 The left ventricle is a pressurized, irregularly shaped chamber. During systole, wall stress develops to overcome afterload and eject the blood. The pressure within the chamber and the geometry of the ventricle determine the tension in the wall. A model of the ventricle as a cylinder can be used to examine the effects of chamber size and wall thickness on wall stress. In this model, circumferential stress is based on the law of Laplace:
 
-$$\sigma \mu \frac{Pr}{w}$$
+σ = (P·r)/w
 
-where  $\sigma$  is wall stress ( $\approx$  tension), P is transmural pressure, r is radius, and w is wall thickness. This relationship has several important clinical implications. Wall tension must be balanced by the energy available. The only nutrient nearly completely extracted from the blood by the heart is oxygen and wall tension is the primary determinant of oxygen consumption. In one scenario, the heart can compensate for changes in wall stress. If systolic pressure within the ventricle is chronically increased (aortic stenosis or systemic hypertension), then compensatory hypertrophy or thickening of the ventricular wall can return systolic wall stress close to normal. However, as detailed in Figure 3-12E, the price paid is that end-diastolic pressures must be higher.
+where σ is wall stress (≈  tension), P is transmural pressure, r is radius, and w is wall thickness. 
+  
+This relationship has several important clinical implications. Wall tension must be balanced by the energy available. The only nutrient nearly completely extracted from the blood by the heart is oxygen and wall tension is the primary determinant of oxygen consumption. In one scenario, the heart can compensate for changes in wall stress. If systolic pressure within the ventricle is chronically increased (aortic stenosis or systemic hypertension), then compensatory hypertrophy or thickening of the ventricular wall can return systolic wall stress close to normal. However, as detailed in Figure 3-12E, the price paid is that end-diastolic pressures must be higher.
+</div></details>
 
 In another scenario, the function of a heart that has dilated for other reasons is further compromised by the relationship between wall stress and oxygen consumption. As a result of or to compensate for systolic failure, the ventricle will dilate. The increased diastolic diameter proportionally increases wall stress and oxygen consumption. The ability of the heart to increase cardiac output in response to exercise will be limited, leading to symptoms.
+</div></details>
 
-## Right Ventricular Physiology
+</div></details>
 
-The left and right ventricles are anatomically partnered, sharing the septum, and physiologically partnered by the serial flow of blood. Changes affecting one chamber can impact the other. Many of the physiologic aspects discussed previously are easily adapted to the left ventricle because of its conical shape and axial symmetry. The right ventricular geometry is more complex since it wraps around the left ventricle and the chamber is crescent shaped in the axial plane. Though the septum contributes to right ventricular ejection most
+<details class="med-details"><summary>
+  
+### Right Ventricular Physiology</summary>
+<div class="details-content">
 
-of the decrease in chamber volume during systole is due to free wall contraction. The thinner right ventricular free wall and conus have one-sixth the muscle mass of the left ventricle. The right ventricle functions under lower pressure conditions and operates at volumes slightly greater than the left ventricle. The right ventricular end-diastolic volume is greater than that of the left ventricle. Likewise right ventricular ejection fraction is lower. The lower limit of normal for the right ventricle ranges from 40 to 45%.
+The left and right ventricles are anatomically partnered, sharing the septum, and physiologically partnered by the serial flow of blood. Changes affecting one chamber can impact the other. Many of the physiologic aspects discussed previously are easily adapted to the left ventricle because of its conical shape and axial symmetry. The right ventricular geometry is more complex since it wraps around the left ventricle and the chamber is crescent shaped in the axial plane. Though the septum contributes to right ventricular ejection most of the decrease in chamber volume during systole is due to free wall contraction. The thinner right ventricular free wall and conus have one-sixth the muscle mass of the left ventricle. The right ventricle functions under lower pressure conditions and operates at volumes slightly greater than the left ventricle. The right ventricular end-diastolic volume is greater than that of the left ventricle. Likewise right ventricular ejection fraction is lower. The lower limit of normal for the right ventricle ranges from 40 to 45%.
 
 The pulmonary circulation determines right ventricular afterload. The pulmonary vascular bed is a highly compliant, low-pressure, low-resistance system. Pulmonary vascular resistance is impacted by hypoxia (vasoconstriction), hypercarbia (vasoconstriction), nitric oxide (vasodilation), prostaglandins (vasodilation), and endothelins (vasoconstriction).
+</div></details>
 
-## Ventricular Interdependence
+<details class="med-details"><summary>
+  
+### Ventricular Interdependence</summary>
+<div class="details-content">
 
 Functionally, the cardiac ventricles can be viewed as two hydraulic pumps in series, one coupled to a highly compliant pulmonary vasculature and the other matched to a less compliant systemic circulation. However, the ventricles have common structural elements and are contained within the non-compliant pericardium. The right ventricle, in particular, relies on the left ventricle to maintain its functional geometry. This anatomic and functional arrangement creates direct and serial interactions between the two chambers when an acute or chronic hemodynamic perturbation impacts either ventricle. Acute changes in ventricular interaction can include a shift of the septum towards one chamber in response to sudden volume overload; and enlargement of one chamber impacting diastolic filling of the other in the confined pericardial space. Clinical examples include: (1) massive right ventricular distension and reduced left ventricular filling in the setting of an acute pulmonary embolus; and (2) right ventricular dysfunction after left ventricular assist device implant due to septal shift and changes in right ventricular cavity geometry.
-</div>
-</details>
+</div></details>
 
+</div></details>
 
+<details class="med-details"><summary>
+## ENERGETICS</summary><div class="details-content">
 
-<details class="med-details">
-<summary>ENERGETICS</summary>
-<div class="details-content">
-#### **ENERGETICS**
-
-#### **Chemical Fuels**
+<details class="med-details"><summary>
+  
+### **Chemical Fuels**</summary><div class="details-content">
 
 Nearly all chemical energy used by the heart is generated by oxidative phosphorylation. Anaerobic metabolism is very limited because anaerobic enzymes are not present in sufficient concentrations. The major fuels for the myocardium are carbohydrates (glucose and lactate) and free fatty acids. When sufficient oxygen is present, these fuels are used to generate ATP. Most of the ATP used by the heart (60 to 70%) is expended in the cyclic contraction of the muscle. Ten to fifteen percent is required for maintaining the concentration gradients across the cell membrane; the rest is used in the constant uptake and release of calcium by mitochondria, the breakdown and regeneration of glycogen, and the synthesis of triglycerides.
 
@@ -508,54 +624,58 @@ The heart is quite flexible in the aerobic state in its use of fuels. In the fas
 
 Whatever the fuel source, oxygen is necessary for its efficient utilization. In the absence of oxygen, there are two mechanisms to provide ATP, glycolysis and conversion of phosphate stored in creatine phosphate, since free fatty acids and the by-products of glycolysis cannot be metabolized. Glycolysis is very inefficient—for 1 mol of glucose, 2 mol of ATP are produced by anaerobic glycolysis, compared with 38 moles of ATP with aerobic metabolism. Phosphate stored in creatine phosphate can convert ADP to ATP, but this is not stored in significant amounts.
 
-The availability of ADP is the primary determinant of the rate of oxidative phosphorylation. With ischemia and hypoxia, ATP breaks down to ADP and subsequently to AMP, adenosine, and inosine. The nucleoside building blocks of ATP, adenosine, inosine, and hypoxanthine are lost from the ischemic myocardium. If oxygen is restored, ATP levels can be partially restored rapidly by salvage pathways with inosine, hypoxanthine, or inosine monophosphate. However, de novo synthesis of ATP is also required and can take hours or even days to restore significant ATP levels. Glycolysis becomes the primary, albeit inefficient source of ATP with ischemia; this leads to an increase in lactate. The increase in lactate and inorganic phosphate causes acidosis. Acidosis slows glycolysis by reducing the activity of 6-phosphofructo-1-kinase, the rate-limiting enzyme in the glycolytic pathway.<sup>38</sup> The excess protons compete with calcium-binding sites, interfering with contraction and relaxation. Nevertheless, ATP generated by glycolysis maintains cell viability. Glucose, insulin, and potassium support glycolysis and may be the source of the benefit of administering this combination after an ischemic insult.39
+The availability of ADP is the primary determinant of the rate of oxidative phosphorylation. With ischemia and hypoxia, ATP breaks down to ADP and subsequently to AMP, adenosine, and inosine. The nucleoside building blocks of ATP, adenosine, inosine, and hypoxanthine are lost from the ischemic myocardium. If oxygen is restored, ATP levels can be partially restored rapidly by salvage pathways with inosine, hypoxanthine, or inosine monophosphate. However, de novo synthesis of ATP is also required and can take hours or even days to restore significant ATP levels. Glycolysis becomes the primary, albeit inefficient source of ATP with ischemia; this leads to an increase in lactate. The increase in lactate and inorganic phosphate causes acidosis. Acidosis slows glycolysis by reducing the activity of 6-phosphofructo-1-kinase, the rate-limiting enzyme in the glycolytic pathway. The excess protons compete with calcium-binding sites, interfering with contraction and relaxation. Nevertheless, ATP generated by glycolysis maintains cell viability. Glucose, insulin, and potassium support glycolysis and may be the source of the benefit of administering this combination after an ischemic insult.
+</div></details>
 
-## **Determinants of Oxygen Consumption**
+<details class="med-details"><summary>
+  
+### **Determinants of Oxygen Consumption**</summary><div class="details-content">
 
-Because nearly all the energy used by the heart is generated by oxidative metabolism, the rate of oxygen consumption  $(M\dot{v}O_2)$  is indicative of the metabolic rate of the heart:
+Because nearly all the energy used by the heart is generated by oxidative metabolism, the rate of oxygen consumption  (MvO<sub>2</sub>)  is indicative of the metabolic rate of the heart:
 
-$$\dot{M}\dot{v}O_2 = \frac{CaO_2 - CvO_2}{CBF} / Mass$$
+MvO<sub>2</sub> = ((CaO<sub>2</sub> - CvO<sub>2</sub>)/CBF)/ Mass
 
-where  $M\dot{v}O_2$  is myocardial oxygen consumption,  $CaO_2$  is arterial oxygen content in mL  $O_2/100$ mL blood,  $CvO_2$  is coronary venous oxygen content in mL  $O_2/100$  mL blood, CBF is coronary blood flow in mL/min. Because the bulk of the energy is expended on contraction, changes in the rate
+where  MvO<sub>2</sub>  is myocardial oxygen consumption,  CaO<sub>2</sub>  is arterial oxygen content in mL  O<sub>2</sub>/100 mL blood,  CvO<sub>2</sub>  is coronary venous oxygen content in mL  O<sub>2</sub>/100 mL blood, CBF is coronary blood flow in mL/min. Because the bulk of the energy is expended on contraction, changes in the rate of oxygen consumption of the heart are directly related to changes in the contraction cycle and workload. Energy utilization can be increased by an increase in cardiac workload or a decrease in the efficiency of conversion of chemical to mechanical energy.
 
-of oxygen consumption of the heart are directly related to changes in the contraction cycle and workload. Energy utilization can be increased by an increase in cardiac workload or a decrease in the efficiency of conversion of chemical to mechanical energy.
+Minute work of the heart is the product of heart rate, stroke volume, and developed pressure. A change in each of these factors alters oxygen demand; however, minute work is not the direct determinant of oxygen consumption. The primary determinant of oxygen demand is the wall tension or stress developed in each cardiac cycle. Indeed, during the period of isovolumic contraction, energy is expended by the heart without the delivery of any kinetic energy to the blood. The energetic cost of ejecting blood from the ventricular chamber is approximately 20 to 30% of that required for isovolumic contraction. To restate this simply, the principal determinant of the cardiac energy requirement is the pressure against which blood is ejected and the volume ejected at that pressure. An increase in afterload requires greater energy than an increase in volume ejected. Oxygen consumption is also increased as the heart dilates and begins ejection from a greater diastolic volume.
 
-Minute work of the heart is the product of heart rate, stroke volume, and developed pressure. A change in each of these factors alters oxygen demand; however, minute work is not the direct determinant of oxygen consumption. The primary determinant of oxygen demand is the wall tension or stress developed in each cardiac cycle. Indeed, during the period of isovolumic contraction, energy is expended by the heart without the delivery of any kinetic energy to the blood.<sup>40</sup> The energetic cost of ejecting blood from the ventricular chamber is approximately 20 to 30% of that required for isovolumic contraction. To restate this simply, the principal determinant of the cardiac energy requirement is the pressure against which blood is ejected and the volume ejected at that pressure. An increase in afterload requires greater energy than an increase in volume ejected. Oxygen consumption is also increased as the heart dilates and begins ejection from a greater diastolic volume.
+Cardiac efficiency relates oxygen consumption to cardiac work. Hence, cardiac efficiency = work/MvO<sub>2</sub>. The overall efficiency of the heart ranges from 5 to 40%, depending on the type of work (pressure versus volume versus velocity) performed. The low efficiency of the heart is caused by the expenditure of a predominant portion of the oxygen consumed in generating pressure and stretching internal elastic components of the myocardium during isovolumic systole (a form of internal work). The velocity of shortening, affected in part by the inotropic state of the myocardium, also is not factored into the work equation, but contributes significantly to oxygen consumption. Dilation of the ventricle reduces efficiency because as cavity size increases the reduction in wall stress with ejection is decreased.
 
-Cardiac efficiency relates oxygen consumption to cardiac work. Hence, cardiac efficiency = work/M $\dot{v}$ O<sub>2</sub>. The overall efficiency of the heart ranges from 5 to 40%, depending on the type of work (pressure versus volume versus velocity) performed. The low efficiency of the heart is caused by the expenditure of a predominant portion of the oxygen consumed in generating pressure and stretching internal elastic components of the myocardium during isovolumic systole (a form of internal work). The velocity of shortening, affected in part by the inotropic state of the myocardium, also is not factored into the work equation, but contributes significantly to oxygen consumption. Dilation of the ventricle reduces efficiency because as cavity size increases the reduction in wall stress with ejection is decreased.
+Following cardiac surgery, cardiac efficiency generally decreases because of the increase in  MvO<sub>2</sub>  relative to the cardiac work performed. The additional oxygen consumed may result from an increase in basal metabolism and/or an increase in the cost of the excitation-contraction process, or inefficiencies of ATP production at the mitochondrial level.
 
-Following cardiac surgery, cardiac efficiency generally decreases because of the increase in  $\text{M}\dot{\text{v}}\text{O}_2$  relative to the cardiac work performed. The additional oxygen consumed may result from an increase in basal metabolism and/or an increase in the cost of the excitation-contraction process, or inefficiencies of ATP production at the mitochondrial level.
+A clear understanding of the role of wall tension and its relation to oxygen demand is essential in cardiac surgery. Excessive systemic pressure may place inordinate energy demands on a compromised ventricle. An intraaortic balloon pump may shift the energy balance by reducing afterload and improving coronary blood flow. Ventricular distension during the weaning process after removal of the aortic cross-clamp, or with heart failure may create wall stress that outstrips the capacity to deliver oxygen to the myocardium. In the failing heart, where stroke volume is reduced, cardiac output is maintained by increasing heart rate, which increases the percentage of time that the myocardial wall stress is elevated, reduces the time when diastolic blood flow occurs, and creates an imbalance between oxygen demand and delivery.
+</div></details>
 
-A clear understanding of the role of wall tension and its relation to oxygen demand is essential in cardiac surgery. Excessive systemic pressure may place inordinate energy demands on a compromised ventricle. An intraaortic balloon pump may shift the energy balance by reducing afterload and improving coronary blood flow. Ventricular distension during the weaning process after removal of the aortic cross-clamp, or with heart failure may create wall stress that outstrips the capacity to deliver oxygen to the myocardium. In the failing heart, where stroke volume is reduced, cardiac output is maintained by increasing heart rate, which increases the percentage of time that the myocardial wall stress is elevated, reduces
+</div></details>
 
-the time when diastolic blood flow occurs, and creates an imbalance between oxygen demand and delivery.
-</div>
-</details>
-
-
-
-<details class="med-details">
-<summary>FUNCTIONAL RESPONSES TO METABOLIC DEMANDS</summary>
-<div class="details-content">
-# FUNCTIONAL RESPONSES TO METABOLIC DEMANDS<sup>45</sup>
+<details class="med-details"><summary>
+  
+## FUNCTIONAL RESPONSES TO METABOLIC DEMANDS</summary><div class="details-content">
 
 There are three distinct responses to altered metabolic demands. Two are responses to acute short-term alterations; the third is a response to chronic alterations in metabolic demands.
 
-## **Acute Physiologic Responses**
+<details class="med-details"><summary>
+  
+### **Acute Physiologic Responses**</summary><div class="details-content">
 
 These responses consist of intrinsic physiologic adaptations to acute changes in hemodynamics and metabolic demands. Generally, these responses are regulated by changes in end-diastolic volume mediated by changes in preload and afterload. Beat-to-beat responses to changes in end-diastolic volume are important to equalizing the output of the ventricles.
+</div></details>
 
-#### **Alterations of Biochemical Functions**
+<details class="med-details"><summary>
+  
+### **Alterations of Biochemical Functions**</summary><div class="details-content">
 
-Contractility (inotropy) and relaxation (lusitropy) change in response to altered metabolic demands. These are principally mediated by alterations in calcium fluxes in the myocyte. 46 The principal determinant of calcium concentration is the flux across the sarcoplasmic reticulum membrane. The fluxes are determined by the amount of calcium in the sarcoplasmic reticulum and the amount of calcium crossing the plasma membrane to stimulate calcium release. Reduced ATP levels inhibit calcium release and uptake. Enzymatic phosphorylation of myosin can increase the rate of cross-bridge cycling, and phosphorylation of troponin I facilitates relaxation. 47 Acidosis reduces contraction and relaxation by inhibiting many calcium pumps, channels, and exchangers. 48
+Contractility (inotropy) and relaxation (lusitropy) change in response to altered metabolic demands. These are principally mediated by alterations in calcium fluxes in the myocyte. The principal determinant of calcium concentration is the flux across the sarcoplasmic reticulum membrane. The fluxes are determined by the amount of calcium in the sarcoplasmic reticulum and the amount of calcium crossing the plasma membrane to stimulate calcium release. Reduced ATP levels inhibit calcium release and uptake. Enzymatic phosphorylation of myosin can increase the rate of cross-bridge cycling, and phosphorylation of troponin I facilitates relaxation. Acidosis reduces contraction and relaxation by inhibiting many calcium pumps, channels, and exchangers. 
+</div></details>
 
-## **Altered Gene Expression**
+<details class="med-details"><summary>
+  
+### **Altered Gene Expression**</summary><div class="details-content">
 
 Chronic changes in metabolic demands will provoke proliferative responses leading to altered gene expression. These include changes in the types of myosin and actin and changes in the number of membrane channels and pumps.
-</div>
-</details>
+</div></details>
 
-
+</div></details>
 
 <details class="med-details">
 <summary>CORONARY BLOOD FLOW</summary>
