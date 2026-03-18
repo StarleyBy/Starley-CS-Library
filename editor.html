@@ -235,24 +235,247 @@
                 <div style="flex:1; display:flex; flex-direction:column; border-right:1px solid #404040;">
                     <div style="padding:6px 12px; font-size:0.75rem; color:#888; background:#2d2d2d; border-bottom:1px solid #404040;">LaTeX source</div>
                     <textarea id="formula-input" style="flex:1; background:#1e1e1e; color:#d4d4d4; font-family:monospace; font-size:14px; padding:12px; border:none; resize:none; outline:none; min-height:160px;" placeholder="e.g. \frac{\pi \Delta P r^4}{8 \eta l}" spellcheck="false"></textarea>
-                    <div style="padding:8px 12px; background:#2d2d2d; border-top:1px solid #404040;">
-                        <div style="display:flex; gap:6px; flex-wrap:wrap;">
-                            <button onclick="formulaInsert('\\\\frac{a}{b}')" class="fm-btn">ᵃ⁄ᵦ frac</button>
-                            <button onclick="formulaInsert('\\\\sqrt{x}')" class="fm-btn">√ sqrt</button>
-                            <button onclick="formulaInsert('\\\\sum_{i=0}^{n}')" class="fm-btn">Σ sum</button>
-                            <button onclick="formulaInsert('\\\\int_{a}^{b}')" class="fm-btn">∫ int</button>
-                            <button onclick="formulaInsert('\\\\alpha')" class="fm-btn">α</button>
-                            <button onclick="formulaInsert('\\\\beta')" class="fm-btn">β</button>
-                            <button onclick="formulaInsert('\\\\gamma')" class="fm-btn">γ</button>
-                            <button onclick="formulaInsert('\\\\delta')" class="fm-btn">δ</button>
-                            <button onclick="formulaInsert('\\\\pi')" class="fm-btn">π</button>
-                            <button onclick="formulaInsert('\\\\eta')" class="fm-btn">η</button>
-                            <button onclick="formulaInsert('\\\\Delta')" class="fm-btn">Δ</button>
-                            <button onclick="formulaInsert('\\\\cdot')" class="fm-btn">·</button>
-                            <button onclick="formulaInsert('\\\\times')" class="fm-btn">×</button>
-                            <button onclick="formulaInsert('\\\\pm')" class="fm-btn">±</button>
-                            <button onclick="formulaInsert('\\\\leq')" class="fm-btn">≤</button>
-                            <button onclick="formulaInsert('\\\\geq')" class="fm-btn">≥</button>
+                    <div id="fm-palette" style="padding:8px 10px; background:#2d2d2d; border-top:1px solid #404040; overflow-y:auto; max-height:220px;">
+                        <!-- Tab bar -->
+                        <div style="display:flex; gap:4px; margin-bottom:8px; flex-wrap:wrap;">
+                            <button class="fm-tab fm-tab-active" onclick="fmTab(this,'fm-grk')" >Greek</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-ops')" >Operators</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-rel')" >Relations</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-arr')" >Arrows</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-str')" >Structures</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-fun')" >Functions</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-misc')">Misc</button>
+                        </div>
+                        <!-- Greek letters -->
+                        <div id="fm-grk" class="fm-panel fm-panel-active">
+                            <div class="fm-label">Lowercase</div>
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\alpha')"   class="fm-btn" title="\alpha">α</button>
+                                <button onclick="formulaInsert('\\beta')"    class="fm-btn" title="\beta">β</button>
+                                <button onclick="formulaInsert('\\gamma')"   class="fm-btn" title="\gamma">γ</button>
+                                <button onclick="formulaInsert('\\delta')"   class="fm-btn" title="\delta">δ</button>
+                                <button onclick="formulaInsert('\\epsilon')" class="fm-btn" title="\epsilon">ε</button>
+                                <button onclick="formulaInsert('\\varepsilon')" class="fm-btn" title="\varepsilon">ϵ</button>
+                                <button onclick="formulaInsert('\\zeta')"    class="fm-btn" title="\zeta">ζ</button>
+                                <button onclick="formulaInsert('\\eta')"     class="fm-btn" title="\eta">η</button>
+                                <button onclick="formulaInsert('\\theta')"   class="fm-btn" title="\theta">θ</button>
+                                <button onclick="formulaInsert('\\vartheta')" class="fm-btn" title="\vartheta">ϑ</button>
+                                <button onclick="formulaInsert('\\iota')"    class="fm-btn" title="\iota">ι</button>
+                                <button onclick="formulaInsert('\\kappa')"   class="fm-btn" title="\kappa">κ</button>
+                                <button onclick="formulaInsert('\\lambda')"  class="fm-btn" title="\lambda">λ</button>
+                                <button onclick="formulaInsert('\\mu')"      class="fm-btn" title="\mu">μ</button>
+                                <button onclick="formulaInsert('\\nu')"      class="fm-btn" title="\nu">ν</button>
+                                <button onclick="formulaInsert('\\xi')"      class="fm-btn" title="\xi">ξ</button>
+                                <button onclick="formulaInsert('\\pi')"      class="fm-btn" title="\pi">π</button>
+                                <button onclick="formulaInsert('\\varpi')"   class="fm-btn" title="\varpi">ϖ</button>
+                                <button onclick="formulaInsert('\\rho')"     class="fm-btn" title="\rho">ρ</button>
+                                <button onclick="formulaInsert('\\varrho')"  class="fm-btn" title="\varrho">ϱ</button>
+                                <button onclick="formulaInsert('\\sigma')"   class="fm-btn" title="\sigma">σ</button>
+                                <button onclick="formulaInsert('\\varsigma')" class="fm-btn" title="\varsigma">ς</button>
+                                <button onclick="formulaInsert('\\tau')"     class="fm-btn" title="\tau">τ</button>
+                                <button onclick="formulaInsert('\\upsilon')" class="fm-btn" title="\upsilon">υ</button>
+                                <button onclick="formulaInsert('\\phi')"     class="fm-btn" title="\phi">φ</button>
+                                <button onclick="formulaInsert('\\varphi')"  class="fm-btn" title="\varphi">ϕ</button>
+                                <button onclick="formulaInsert('\\chi')"     class="fm-btn" title="\chi">χ</button>
+                                <button onclick="formulaInsert('\\psi')"     class="fm-btn" title="\psi">ψ</button>
+                                <button onclick="formulaInsert('\\omega')"   class="fm-btn" title="\omega">ω</button>
+                            </div>
+                            <div class="fm-label" style="margin-top:6px;">Uppercase</div>
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\Gamma')"   class="fm-btn" title="\Gamma">Γ</button>
+                                <button onclick="formulaInsert('\\Delta')"   class="fm-btn" title="\Delta">Δ</button>
+                                <button onclick="formulaInsert('\\Theta')"   class="fm-btn" title="\Theta">Θ</button>
+                                <button onclick="formulaInsert('\\Lambda')"  class="fm-btn" title="\Lambda">Λ</button>
+                                <button onclick="formulaInsert('\\Xi')"      class="fm-btn" title="\Xi">Ξ</button>
+                                <button onclick="formulaInsert('\\Pi')"      class="fm-btn" title="\Pi">Π</button>
+                                <button onclick="formulaInsert('\\Sigma')"   class="fm-btn" title="\Sigma">Σ</button>
+                                <button onclick="formulaInsert('\\Upsilon')" class="fm-btn" title="\Upsilon">Υ</button>
+                                <button onclick="formulaInsert('\\Phi')"     class="fm-btn" title="\Phi">Φ</button>
+                                <button onclick="formulaInsert('\\Psi')"     class="fm-btn" title="\Psi">Ψ</button>
+                                <button onclick="formulaInsert('\\Omega')"   class="fm-btn" title="\Omega">Ω</button>
+                            </div>
+                        </div>
+                        <!-- Operators -->
+                        <div id="fm-ops" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\frac{a}{b}')"        class="fm-btn" title="\frac">ᵃ⁄ᵦ</button>
+                                <button onclick="formulaInsert('\\sqrt{x}')"            class="fm-btn" title="\sqrt">√</button>
+                                <button onclick="formulaInsert('\\sqrt[n]{x}')"         class="fm-btn" title="\sqrt[n]">ⁿ√</button>
+                                <button onclick="formulaInsert('\\sum_{i=0}^{n}')"      class="fm-btn" title="\sum">Σ</button>
+                                <button onclick="formulaInsert('\\prod_{i=0}^{n}')"     class="fm-btn" title="\prod">Π</button>
+                                <button onclick="formulaInsert('\\int_{a}^{b}')"        class="fm-btn" title="\int">∫</button>
+                                <button onclick="formulaInsert('\\iint')"               class="fm-btn" title="\iint">∬</button>
+                                <button onclick="formulaInsert('\\iiint')"              class="fm-btn" title="\iiint">∭</button>
+                                <button onclick="formulaInsert('\\oint')"               class="fm-btn" title="\oint">∮</button>
+                                <button onclick="formulaInsert('\\lim_{x\\to\\infty}')" class="fm-btn" title="\lim">lim</button>
+                                <button onclick="formulaInsert('\\partial')"            class="fm-btn" title="\partial">∂</button>
+                                <button onclick="formulaInsert('\\nabla')"              class="fm-btn" title="\nabla">∇</button>
+                                <button onclick="formulaInsert('\\pm')"                 class="fm-btn" title="\pm">±</button>
+                                <button onclick="formulaInsert('\\mp')"                 class="fm-btn" title="\mp">∓</button>
+                                <button onclick="formulaInsert('\\times')"              class="fm-btn" title="\times">×</button>
+                                <button onclick="formulaInsert('\\div')"                class="fm-btn" title="\div">÷</button>
+                                <button onclick="formulaInsert('\\cdot')"               class="fm-btn" title="\cdot">·</button>
+                                <button onclick="formulaInsert('\\circ')"               class="fm-btn" title="\circ">∘</button>
+                                <button onclick="formulaInsert('\\bullet')"             class="fm-btn" title="\bullet">•</button>
+                                <button onclick="formulaInsert('\\oplus')"              class="fm-btn" title="\oplus">⊕</button>
+                                <button onclick="formulaInsert('\\ominus')"             class="fm-btn" title="\ominus">⊖</button>
+                                <button onclick="formulaInsert('\\otimes')"             class="fm-btn" title="\otimes">⊗</button>
+                                <button onclick="formulaInsert('\\wedge')"              class="fm-btn" title="\wedge">∧</button>
+                                <button onclick="formulaInsert('\\vee')"                class="fm-btn" title="\vee">∨</button>
+                                <button onclick="formulaInsert('\\cap')"                class="fm-btn" title="\cap">∩</button>
+                                <button onclick="formulaInsert('\\cup')"                class="fm-btn" title="\cup">∪</button>
+                                <button onclick="formulaInsert('\\infty')"              class="fm-btn" title="\infty">∞</button>
+                            </div>
+                        </div>
+                        <!-- Relations -->
+                        <div id="fm-rel" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('=')"                      class="fm-btn" title="=">=</button>
+                                <button onclick="formulaInsert('\\neq')"                class="fm-btn" title="\neq">≠</button>
+                                <button onclick="formulaInsert('\\approx')"             class="fm-btn" title="\approx">≈</button>
+                                <button onclick="formulaInsert('\\sim')"                class="fm-btn" title="\sim">∼</button>
+                                <button onclick="formulaInsert('\\simeq')"              class="fm-btn" title="\simeq">≃</button>
+                                <button onclick="formulaInsert('\\cong')"               class="fm-btn" title="\cong">≅</button>
+                                <button onclick="formulaInsert('\\equiv')"              class="fm-btn" title="\equiv">≡</button>
+                                <button onclick="formulaInsert('\\propto')"             class="fm-btn" title="\propto">∝</button>
+                                <button onclick="formulaInsert('<')"                      class="fm-btn" title="<">&lt;</button>
+                                <button onclick="formulaInsert('>')"                      class="fm-btn" title=">">&gt;</button>
+                                <button onclick="formulaInsert('\\leq')"                class="fm-btn" title="\leq">≤</button>
+                                <button onclick="formulaInsert('\\geq')"                class="fm-btn" title="\geq">≥</button>
+                                <button onclick="formulaInsert('\\ll')"                 class="fm-btn" title="\ll">≪</button>
+                                <button onclick="formulaInsert('\\gg')"                 class="fm-btn" title="\gg">≫</button>
+                                <button onclick="formulaInsert('\\subset')"             class="fm-btn" title="\subset">⊂</button>
+                                <button onclick="formulaInsert('\\supset')"             class="fm-btn" title="\supset">⊃</button>
+                                <button onclick="formulaInsert('\\subseteq')"           class="fm-btn" title="\subseteq">⊆</button>
+                                <button onclick="formulaInsert('\\supseteq')"           class="fm-btn" title="\supseteq">⊇</button>
+                                <button onclick="formulaInsert('\\in')"                 class="fm-btn" title="\in">∈</button>
+                                <button onclick="formulaInsert('\\notin')"              class="fm-btn" title="\notin">∉</button>
+                                <button onclick="formulaInsert('\\ni')"                 class="fm-btn" title="\ni">∋</button>
+                                <button onclick="formulaInsert('\\perp')"               class="fm-btn" title="\perp">⊥</button>
+                                <button onclick="formulaInsert('\\parallel')"           class="fm-btn" title="\parallel">∥</button>
+                                <button onclick="formulaInsert('\\mid')"                class="fm-btn" title="\mid">∣</button>
+                                <button onclick="formulaInsert('\\models')"             class="fm-btn" title="\models">⊨</button>
+                                <button onclick="formulaInsert('\\vdash')"              class="fm-btn" title="\vdash">⊢</button>
+                            </div>
+                        </div>
+                        <!-- Arrows -->
+                        <div id="fm-arr" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\to')"                 class="fm-btn" title="\to">→</button>
+                                <button onclick="formulaInsert('\\leftarrow')"          class="fm-btn" title="\leftarrow">←</button>
+                                <button onclick="formulaInsert('\\leftrightarrow')"     class="fm-btn" title="\leftrightarrow">↔</button>
+                                <button onclick="formulaInsert('\\Rightarrow')"         class="fm-btn" title="\Rightarrow">⇒</button>
+                                <button onclick="formulaInsert('\\Leftarrow')"          class="fm-btn" title="\Leftarrow">⇐</button>
+                                <button onclick="formulaInsert('\\Leftrightarrow')"     class="fm-btn" title="\Leftrightarrow">⇔</button>
+                                <button onclick="formulaInsert('\\uparrow')"            class="fm-btn" title="\uparrow">↑</button>
+                                <button onclick="formulaInsert('\\downarrow')"          class="fm-btn" title="\downarrow">↓</button>
+                                <button onclick="formulaInsert('\\updownarrow')"        class="fm-btn" title="\updownarrow">↕</button>
+                                <button onclick="formulaInsert('\\nearrow')"            class="fm-btn" title="\nearrow">↗</button>
+                                <button onclick="formulaInsert('\\searrow')"            class="fm-btn" title="\searrow">↘</button>
+                                <button onclick="formulaInsert('\\swarrow')"            class="fm-btn" title="\swarrow">↙</button>
+                                <button onclick="formulaInsert('\\nwarrow')"            class="fm-btn" title="\nwarrow">↖</button>
+                                <button onclick="formulaInsert('\\mapsto')"             class="fm-btn" title="\mapsto">↦</button>
+                                <button onclick="formulaInsert('\\hookrightarrow')"     class="fm-btn" title="\hookrightarrow">↪</button>
+                                <button onclick="formulaInsert('\\rightharpoonup')"     class="fm-btn" title="\rightharpoonup">⇀</button>
+                                <button onclick="formulaInsert('\\rightleftharpoons')"  class="fm-btn" title="\rightleftharpoons">⇌</button>
+                                <button onclick="formulaInsert('\\longrightarrow')"     class="fm-btn" title="\longrightarrow">⟶</button>
+                                <button onclick="formulaInsert('\\xlongrightarrow{k}')" class="fm-btn" title="\xrightarrow">→ₖ</button>
+                            </div>
+                        </div>
+                        <!-- Structures -->
+                        <div id="fm-str" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\frac{a}{b}')"         class="fm-btn" title="fraction">ᵃ⁄ᵦ</button>
+                                <button onclick="formulaInsert('\\dfrac{a}{b}')"        class="fm-btn" title="dfrac">ᵃ/ᵦ</button>
+                                <button onclick="formulaInsert('\\sqrt{x}')"            class="fm-btn" title="sqrt">√x</button>
+                                <button onclick="formulaInsert('\\sqrt[n]{x}')"         class="fm-btn" title="nth root">ⁿ√</button>
+                                <button onclick="formulaInsert('x^{n}')"                  class="fm-btn" title="superscript">xⁿ</button>
+                                <button onclick="formulaInsert('x_{n}')"                  class="fm-btn" title="subscript">xₙ</button>
+                                <button onclick="formulaInsert('x_{n}^{m}')"              class="fm-btn" title="sub+super">xₙᵐ</button>
+                                <button onclick="formulaInsert('\\overline{x}')"        class="fm-btn" title="overline">x̄</button>
+                                <button onclick="formulaInsert('\\underline{x}')"       class="fm-btn" title="underline">x̲</button>
+                                <button onclick="formulaInsert('\\hat{x}')"             class="fm-btn" title="hat">x̂</button>
+                                <button onclick="formulaInsert('\\vec{x}')"             class="fm-btn" title="vector">x⃗</button>
+                                <button onclick="formulaInsert('\\dot{x}')"             class="fm-btn" title="dot">ẋ</button>
+                                <button onclick="formulaInsert('\\ddot{x}')"            class="fm-btn" title="ddot">ẍ</button>
+                                <button onclick="formulaInsert('\\tilde{x}')"           class="fm-btn" title="tilde">x̃</button>
+                                <button onclick="formulaInsert('\\bar{x}')"             class="fm-btn" title="bar">x̄</button>
+                                <button onclick="formulaInsert('\\left( \\right)')"   class="fm-btn" title="parentheses">()</button>
+                                <button onclick="formulaInsert('\\left[ \\right]')"   class="fm-btn" title="brackets">[]</button>
+                                <button onclick="formulaInsert('\\left\\{ \\right\\}')" class="fm-btn" title="braces">{}</button>
+                                <button onclick="formulaInsert('\\left| \\right|')"   class="fm-btn" title="|x|">||</button>
+                                <button onclick="formulaInsert('\\left\\| \\right\\|')" class="fm-btn" title="norm">‖‖</button>
+                                <button onclick="formulaInsert('\\begin{matrix} a & b \\\\ c & d \\end{matrix}')" class="fm-btn" title="matrix">M</button>
+                                <button onclick="formulaInsert('\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}')" class="fm-btn" title="pmatrix">(M)</button>
+                                <button onclick="formulaInsert('\\begin{cases} a & x>0 \\\\ b & x\\leq 0 \\end{cases}')" class="fm-btn" title="cases">{⋯</button>
+                                <button onclick="formulaInsert('\\underbrace{x}_{\\text{label}}')" class="fm-btn" title="underbrace">x̲</button>
+                                <button onclick="formulaInsert('\\overbrace{x}^{\\text{label}}')"  class="fm-btn" title="overbrace">x̄</button>
+                            </div>
+                        </div>
+                        <!-- Functions -->
+                        <div id="fm-fun" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\sin')"    class="fm-btn">sin</button>
+                                <button onclick="formulaInsert('\\cos')"    class="fm-btn">cos</button>
+                                <button onclick="formulaInsert('\\tan')"    class="fm-btn">tan</button>
+                                <button onclick="formulaInsert('\\cot')"    class="fm-btn">cot</button>
+                                <button onclick="formulaInsert('\\sec')"    class="fm-btn">sec</button>
+                                <button onclick="formulaInsert('\\csc')"    class="fm-btn">csc</button>
+                                <button onclick="formulaInsert('\\arcsin')" class="fm-btn">asin</button>
+                                <button onclick="formulaInsert('\\arccos')" class="fm-btn">acos</button>
+                                <button onclick="formulaInsert('\\arctan')" class="fm-btn">atan</button>
+                                <button onclick="formulaInsert('\\sinh')"   class="fm-btn">sinh</button>
+                                <button onclick="formulaInsert('\\cosh')"   class="fm-btn">cosh</button>
+                                <button onclick="formulaInsert('\\tanh')"   class="fm-btn">tanh</button>
+                                <button onclick="formulaInsert('\\ln')"     class="fm-btn">ln</button>
+                                <button onclick="formulaInsert('\\log')"    class="fm-btn">log</button>
+                                <button onclick="formulaInsert('\\log_{b}')" class="fm-btn">logₙ</button>
+                                <button onclick="formulaInsert('\\exp')"    class="fm-btn">exp</button>
+                                <button onclick="formulaInsert('e^{x}')"      class="fm-btn">eˣ</button>
+                                <button onclick="formulaInsert('\\max')"    class="fm-btn">max</button>
+                                <button onclick="formulaInsert('\\min')"    class="fm-btn">min</button>
+                                <button onclick="formulaInsert('\\sup')"    class="fm-btn">sup</button>
+                                <button onclick="formulaInsert('\\inf')"    class="fm-btn">inf</button>
+                                <button onclick="formulaInsert('\\det')"    class="fm-btn">det</button>
+                                <button onclick="formulaInsert('\\dim')"    class="fm-btn">dim</button>
+                                <button onclick="formulaInsert('\\ker')"    class="fm-btn">ker</button>
+                                <button onclick="formulaInsert('\\lim_{x\\to 0}')" class="fm-btn">lim</button>
+                                <button onclick="formulaInsert('\\limsup')" class="fm-btn">limsup</button>
+                            </div>
+                        </div>
+                        <!-- Misc -->
+                        <div id="fm-misc" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\text{text}')"          class="fm-btn" title="\text">Aa</button>
+                                <button onclick="formulaInsert('\\mathbf{x}')"           class="fm-btn" title="bold">𝐱</button>
+                                <button onclick="formulaInsert('\\mathit{x}')"           class="fm-btn" title="italic">𝑥</button>
+                                <button onclick="formulaInsert('\\mathbb{R}')"           class="fm-btn" title="blackboard">ℝ</button>
+                                <button onclick="formulaInsert('\\mathcal{L}')"          class="fm-btn" title="calligraphic">ℒ</button>
+                                <button onclick="formulaInsert('\\mathbb{N}')"           class="fm-btn" title="naturals">ℕ</button>
+                                <button onclick="formulaInsert('\\mathbb{Z}')"           class="fm-btn" title="integers">ℤ</button>
+                                <button onclick="formulaInsert('\\mathbb{Q}')"           class="fm-btn" title="rationals">ℚ</button>
+                                <button onclick="formulaInsert('\\mathbb{C}')"           class="fm-btn" title="complex">ℂ</button>
+                                <button onclick="formulaInsert('\\emptyset')"            class="fm-btn" title="empty set">∅</button>
+                                <button onclick="formulaInsert('\\forall')"              class="fm-btn" title="\forall">∀</button>
+                                <button onclick="formulaInsert('\\exists')"              class="fm-btn" title="\exists">∃</button>
+                                <button onclick="formulaInsert('\\nexists')"             class="fm-btn" title="\nexists">∄</button>
+                                <button onclick="formulaInsert('\\neg')"                 class="fm-btn" title="\neg">¬</button>
+                                <button onclick="formulaInsert('\\land')"                class="fm-btn" title="\land">∧</button>
+                                <button onclick="formulaInsert('\\lor')"                 class="fm-btn" title="\lor">∨</button>
+                                <button onclick="formulaInsert('\\hbar')"                class="fm-btn" title="\hbar">ℏ</button>
+                                <button onclick="formulaInsert('\\ell')"                 class="fm-btn" title="\ell">ℓ</button>
+                                <button onclick="formulaInsert('\\Re')"                  class="fm-btn" title="\Re">ℜ</button>
+                                <button onclick="formulaInsert('\\Im')"                  class="fm-btn" title="\Im">ℑ</button>
+                                <button onclick="formulaInsert('\\angle')"               class="fm-btn" title="\angle">∠</button>
+                                <button onclick="formulaInsert('\\triangle')"            class="fm-btn" title="\triangle">△</button>
+                                <button onclick="formulaInsert('\\degree')"              class="fm-btn" title="degree">°</button>
+                                <button onclick="formulaInsert('\\%')"                   class="fm-btn" title="percent">%</button>
+                                <button onclick="formulaInsert('\\#')"                   class="fm-btn" title="hash">#</button>
+                                <button onclick="formulaInsert('\\ldots')"               class="fm-btn" title="\ldots">…</button>
+                                <button onclick="formulaInsert('\\cdots')"               class="fm-btn" title="\cdots">⋯</button>
+                                <button onclick="formulaInsert('\\vdots')"               class="fm-btn" title="\vdots">⋮</button>
+                                <button onclick="formulaInsert('\\ddots')"               class="fm-btn" title="\ddots">⋱</button>
+                            </div>
                         </div>
                     </div>
                 </div>

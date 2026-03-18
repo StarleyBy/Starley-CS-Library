@@ -1092,3 +1092,43 @@
     margin: 1rem 0;
 }
 #editor-preview .katex { font-size: 1.05em; }
+
+/* ============= FORMULA PALETTE TABS ============= */
+.fm-tab {
+    background: #3c3c3c;
+    border: 1px solid #555;
+    color: #aaa;
+    padding: 3px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+.fm-tab:hover { background: #4c4c4c; color: #ddd; }
+.fm-tab-active { background: #3498db !important; border-color: #3498db !important; color: white !important; }
+
+.fm-panel { display: none; }
+.fm-panel-active { display: block; }
+
+.fm-label {
+    font-size: 0.7rem;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+}
+
+.fm-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(34px, 1fr));
+    gap: 3px;
+}
+
+.fm-grid .fm-btn {
+    padding: 5px 2px;
+    min-height: 30px;
+    font-size: 0.85rem;
+    text-align: center;
+    justify-content: center;
+}

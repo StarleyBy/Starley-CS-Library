@@ -794,3 +794,14 @@ async function _doGitHubSave(token, statusEl) {
         console.error('GitHub save error:', e);
     }
 }
+
+// Formula palette tab switcher
+function fmTab(clickedTab, panelId) {
+    // Deactivate all tabs and panels
+    document.querySelectorAll('.fm-tab').forEach(t => t.classList.remove('fm-tab-active'));
+    document.querySelectorAll('.fm-panel').forEach(p => p.classList.remove('fm-panel-active'));
+    // Activate clicked
+    clickedTab.classList.add('fm-tab-active');
+    const panel = document.getElementById(panelId);
+    if (panel) panel.classList.add('fm-panel-active');
+}
