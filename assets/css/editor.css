@@ -1055,3 +1055,40 @@
 .CodeMirror-foldgutter-folded:after {
     content: "▶";
 }
+
+/* ============= GITHUB SAVE & FORMULA EDITOR ============= */
+
+.btn-github {
+    width: 100%;
+    background: #238636 !important;
+    color: white !important;
+    font-weight: bold;
+    margin-top: 5px !important;
+    border: none;
+    padding: 7px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.btn-github:hover { background: #2ea043 !important; }
+
+/* Formula modal quick-insert buttons */
+.fm-btn {
+    background: #3c3c3c;
+    border: 1px solid #555;
+    color: #d4d4d4;
+    padding: 3px 7px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: background 0.15s;
+}
+.fm-btn:hover { background: #4c4c4c; color: white; }
+
+/* KaTeX in preview */
+#editor-preview .katex-display {
+    overflow-x: auto;
+    padding: 0.5rem 0;
+    margin: 1rem 0;
+}
+#editor-preview .katex { font-size: 1.05em; }

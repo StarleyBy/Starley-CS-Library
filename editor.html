@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="assets/css/styles.css">
     <link rel="stylesheet" href="assets/css/editor.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
     <!-- CodeMirror CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
@@ -123,6 +126,22 @@
                 </div>
             </div>
 
+            <!-- Формулы -->
+            <div class="tool-group">
+                <h4>∑ Math Formulas</h4>
+                <div class="icon-grid">
+                    <button onclick="insertFormulaBlock()" title="Insert display formula ($$...$$)">∑</button>
+                    <button onclick="insertFormulaInline()" title="Insert inline formula ($...$)">∫</button>
+                    <button onclick="insertFormulaTemplate('fraction')" title="Fraction \frac{a}{b}">ᵃ⁄ᵦ</button>
+                    <button onclick="insertFormulaTemplate('sqrt')" title="Square root \sqrt{x}">√</button>
+                    <button onclick="insertFormulaTemplate('sum')" title="Sum \sum_{i=0}^{n}">Σ</button>
+                    <button onclick="insertFormulaTemplate('integral')" title="Integral \int_{a}^{b}">∫</button>
+                    <button onclick="insertFormulaTemplate('subscript')" title="Subscript x_{n}">xₙ</button>
+                    <button onclick="insertFormulaTemplate('superscript')" title="Superscript x^{n}">xⁿ</button>
+                    <button onclick="openFormulaEditor()" title="Open formula editor with preview">🔬</button>
+                </div>
+            </div>
+
             <!-- Навигация -->
             <div class="tool-group">
                 <h4>🔗 Navigation</h4>
@@ -184,6 +203,13 @@
                 <h4>💾 Save</h4>
                 <input type="text" id="export-filename" placeholder="chapter-01-starley.md">
                 <button id="btn-download" class="btn-success" title="Download Markdown File">📤 Download</button>
+                <button id="btn-save-github" class="btn-github" title="Save directly to GitHub repository">🐙 Save to GitHub</button>
+                <div id="github-token-row" style="margin-top:6px; display:none">
+                    <input type="password" id="github-token-input" placeholder="GitHub Personal Access Token" style="width:100%; background:#3c3c3c; border:1px solid #555; color:white; padding:5px; border-radius:4px; font-size:0.8rem;">
+                    <button id="btn-save-token" style="margin-top:4px; width:100%; background:#6e40c9; color:white; border:none; padding:5px; border-radius:4px; cursor:pointer; font-size:0.8rem;">💾 Save token</button>
+                    <p style="font-size:0.7rem; color:#888; margin-top:4px;">Token needs <code>repo</code> scope. Stored in localStorage.</p>
+                </div>
+                <div id="github-status" style="font-size:0.78rem; margin-top:5px; color:#aaa;"></div>
             </div>
         </aside>
 
@@ -196,6 +222,56 @@
             <div class="pane-header">Live Preview</div>
             <div id="editor-preview" class="content"></div>
         </section>
+    </div>
+
+    <!-- Formula editor modal -->
+    <div id="formula-modal" style="display:none; position:fixed; inset:0; z-index:5000; background:rgba(0,0,0,0.7); display:none; align-items:center; justify-content:center;">
+        <div style="background:#252526; border:1px solid #555; border-radius:10px; width:min(700px,95vw); max-height:90vh; display:flex; flex-direction:column; overflow:hidden;">
+            <div style="padding:12px 16px; border-bottom:1px solid #404040; display:flex; align-items:center; justify-content:space-between;">
+                <span style="color:#3498db; font-weight:700; font-size:1rem;">∑ Formula Editor</span>
+                <button id="formula-modal-close" style="background:none; border:none; color:#aaa; font-size:1.2rem; cursor:pointer;">✕</button>
+            </div>
+            <div style="display:flex; flex:1; overflow:hidden; gap:0; min-height:0;">
+                <div style="flex:1; display:flex; flex-direction:column; border-right:1px solid #404040;">
+                    <div style="padding:6px 12px; font-size:0.75rem; color:#888; background:#2d2d2d; border-bottom:1px solid #404040;">LaTeX source</div>
+                    <textarea id="formula-input" style="flex:1; background:#1e1e1e; color:#d4d4d4; font-family:monospace; font-size:14px; padding:12px; border:none; resize:none; outline:none; min-height:160px;" placeholder="e.g. \frac{\pi \Delta P r^4}{8 \eta l}" spellcheck="false"></textarea>
+                    <div style="padding:8px 12px; background:#2d2d2d; border-top:1px solid #404040;">
+                        <div style="display:flex; gap:6px; flex-wrap:wrap;">
+                            <button onclick="formulaInsert('\\\\frac{a}{b}')" class="fm-btn">ᵃ⁄ᵦ frac</button>
+                            <button onclick="formulaInsert('\\\\sqrt{x}')" class="fm-btn">√ sqrt</button>
+                            <button onclick="formulaInsert('\\\\sum_{i=0}^{n}')" class="fm-btn">Σ sum</button>
+                            <button onclick="formulaInsert('\\\\int_{a}^{b}')" class="fm-btn">∫ int</button>
+                            <button onclick="formulaInsert('\\\\alpha')" class="fm-btn">α</button>
+                            <button onclick="formulaInsert('\\\\beta')" class="fm-btn">β</button>
+                            <button onclick="formulaInsert('\\\\gamma')" class="fm-btn">γ</button>
+                            <button onclick="formulaInsert('\\\\delta')" class="fm-btn">δ</button>
+                            <button onclick="formulaInsert('\\\\pi')" class="fm-btn">π</button>
+                            <button onclick="formulaInsert('\\\\eta')" class="fm-btn">η</button>
+                            <button onclick="formulaInsert('\\\\Delta')" class="fm-btn">Δ</button>
+                            <button onclick="formulaInsert('\\\\cdot')" class="fm-btn">·</button>
+                            <button onclick="formulaInsert('\\\\times')" class="fm-btn">×</button>
+                            <button onclick="formulaInsert('\\\\pm')" class="fm-btn">±</button>
+                            <button onclick="formulaInsert('\\\\leq')" class="fm-btn">≤</button>
+                            <button onclick="formulaInsert('\\\\geq')" class="fm-btn">≥</button>
+                        </div>
+                    </div>
+                </div>
+                <div style="flex:1; display:flex; flex-direction:column; background:white; min-height:0;">
+                    <div style="padding:6px 12px; font-size:0.75rem; color:#888; background:#f5f5f5; border-bottom:1px solid #ddd;">Preview</div>
+                    <div id="formula-preview" style="flex:1; padding:20px; display:flex; align-items:center; justify-content:center; overflow:auto; font-size:1.2rem; color:#333;"></div>
+                    <div id="formula-error" style="padding:8px 12px; color:#e53935; font-size:0.8rem; font-family:monospace; background:#fff5f5; display:none;"></div>
+                </div>
+            </div>
+            <div style="padding:10px 16px; border-top:1px solid #404040; display:flex; align-items:center; justify-content:space-between; gap:8px;">
+                <label style="display:flex; align-items:center; gap:6px; color:#aaa; font-size:0.85rem; cursor:pointer;">
+                    <input type="checkbox" id="formula-display-mode" checked> Display mode (centered)
+                </label>
+                <div style="display:flex; gap:8px;">
+                    <button id="formula-btn-insert" style="background:#27ae60; color:white; border:none; padding:7px 18px; border-radius:6px; cursor:pointer; font-weight:600;">Insert into editor</button>
+                    <button id="formula-btn-cancel" style="background:#555; color:white; border:none; padding:7px 14px; border-radius:6px; cursor:pointer;">Cancel</button>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="assets/js/config.js"></script>

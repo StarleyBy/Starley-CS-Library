@@ -245,8 +245,36 @@ function updatePreview() {
         }
     });
     
+    // --- Protect LaTeX math before marked.parse ---
+    let md = val;
+    const mathStore = [];
+    function storeMath(tex, display) {
+        const id = '\x02MATH' + mathStore.length + '\x03';
+        mathStore.push({ id, tex, display });
+        return id;
+    }
+    md = md.replace(/\$\$([\s\S]*?)\$\$/g, (_, tex) => storeMath(tex, true));
+    md = md.replace(/\$([^\n$][^$]*?)\$/g,  (_, tex) => storeMath(tex, false));
+
     // Обновляем HTML
-    previewContainer.innerHTML = marked.parse(val);
+    previewContainer.innerHTML = marked.parse(md);
+
+    // --- Restore and render math ---
+    if (mathStore.length > 0 && typeof katex !== 'undefined') {
+        let html = previewContainer.innerHTML;
+        mathStore.forEach(({ id, tex, display }) => {
+            if (html.includes(id)) {
+                let rendered;
+                try {
+                    rendered = katex.renderToString(tex, { displayMode: display, throwOnError: false, errorColor: '#e53935' });
+                } catch(e) {
+                    rendered = `<span style="color:#e53935">[math error]</span>`;
+                }
+                html = html.split(id).join(rendered);
+            }
+        });
+        previewContainer.innerHTML = html;
+    }
     
     // ВОССТАНАВЛИВАЕМ состояние ПОСЛЕ обновления
     
@@ -268,6 +296,8 @@ document.addEventListener('DOMContentLoaded', () => {
     initSymbolsPanel();
     initLoader();
     initExporter();
+    initGitHubSave();
+    initFormulaEditor();
     
     setTimeout(() => {
         initPreview();
@@ -528,4 +558,239 @@ function initExporter() {
         link.download = filename;
         link.click();
     };
+}
+
+// ==========================================================================
+//  FORMULA INSERTION HELPERS
+// ==========================================================================
+
+function insertFormulaBlock() {
+    if (!editor) return;
+    const sel = editor.getSelection();
+    const tex = sel || 'E = mc^2';
+    editor.replaceSelection(`\n$$\n${tex}\n$$\n`);
+    updatePreview();
+}
+
+function insertFormulaInline() {
+    if (!editor) return;
+    const sel = editor.getSelection();
+    const tex = sel || 'x^2 + y^2';
+    editor.replaceSelection(`$${tex}$`);
+    updatePreview();
+}
+
+const FORMULA_TEMPLATES = {
+    fraction:    '\\frac{a}{b}',
+    sqrt:        '\\sqrt{x}',
+    sum:         '\\sum_{i=0}^{n} x_i',
+    integral:    '\\int_{a}^{b} f(x)\\,dx',
+    subscript:   'x_{n}',
+    superscript: 'x^{n}',
+};
+
+function insertFormulaTemplate(name) {
+    if (!editor) return;
+    const tpl = FORMULA_TEMPLATES[name] || name;
+    editor.replaceSelection(`$$${tpl}$$`);
+    updatePreview();
+}
+
+// ==========================================================================
+//  FORMULA EDITOR MODAL (with live preview)
+// ==========================================================================
+
+function initFormulaEditor() {
+    const modal     = document.getElementById('formula-modal');
+    const input     = document.getElementById('formula-input');
+    const preview   = document.getElementById('formula-preview');
+    const errorEl   = document.getElementById('formula-error');
+    const closeBtn  = document.getElementById('formula-modal-close');
+    const cancelBtn = document.getElementById('formula-btn-cancel');
+    const insertBtn = document.getElementById('formula-btn-insert');
+    const dispCheck = document.getElementById('formula-display-mode');
+
+    if (!modal) return;
+
+    // Live preview as user types
+    let previewTimer = null;
+    function renderPreview() {
+        const tex = input.value.trim();
+        if (!tex) { preview.innerHTML = '<span style="color:#888">Enter LaTeX above</span>'; errorEl.style.display='none'; return; }
+        try {
+            preview.innerHTML = katex.renderToString(tex, {
+                displayMode: dispCheck.checked,
+                throwOnError: true,
+            });
+            errorEl.style.display = 'none';
+        } catch(e) {
+            preview.innerHTML = '';
+            errorEl.textContent = e.message;
+            errorEl.style.display = 'block';
+        }
+    }
+
+    input.addEventListener('input', () => { clearTimeout(previewTimer); previewTimer = setTimeout(renderPreview, 180); });
+    dispCheck.addEventListener('change', renderPreview);
+
+    // Quick-insert buttons inside modal append to textarea
+    window.formulaInsert = function(snippet) {
+        const start = input.selectionStart;
+        const end   = input.selectionEnd;
+        const val   = input.value;
+        input.value = val.slice(0, start) + snippet + val.slice(end);
+        input.selectionStart = input.selectionEnd = start + snippet.length;
+        input.focus();
+        renderPreview();
+    };
+
+    // Close
+    function closeModal() { modal.style.display = 'none'; }
+    closeBtn.addEventListener('click', closeModal);
+    cancelBtn.addEventListener('click', closeModal);
+    modal.querySelector('div').addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
+
+    // Insert into editor
+    insertBtn.addEventListener('click', () => {
+        const tex = input.value.trim();
+        if (!tex) return;
+        if (!editor) return;
+        const delim = dispCheck.checked ? `\n$$\n${tex}\n$$\n` : `$${tex}$`;
+        editor.replaceSelection(delim);
+        updatePreview();
+        closeModal();
+    });
+
+    // Escape key
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && modal.style.display === 'flex') closeModal();
+    });
+}
+
+function openFormulaEditor() {
+    const modal = document.getElementById('formula-modal');
+    const input = document.getElementById('formula-input');
+    if (!modal) return;
+
+    // Pre-fill with current selection if it looks like math
+    if (editor) {
+        const sel = editor.getSelection().trim();
+        if (sel) input.value = sel.replace(/^\$+|\$+$/g, '').trim();
+    }
+
+    modal.style.display = 'flex';
+    setTimeout(() => { input.focus(); input.dispatchEvent(new Event('input')); }, 50);
+}
+
+// ==========================================================================
+//  GITHUB SAVE
+// ==========================================================================
+
+function initGitHubSave() {
+    const btn       = document.getElementById('btn-save-github');
+    const tokenRow  = document.getElementById('github-token-row');
+    const tokenInput= document.getElementById('github-token-input');
+    const saveToken = document.getElementById('btn-save-token');
+    const status    = document.getElementById('github-status');
+
+    if (!btn) return;
+
+    // Show stored token state
+    const stored = localStorage.getItem('gh_token');
+    if (stored) {
+        status.textContent = '🔑 Token saved';
+        status.style.color = '#4caf50';
+    }
+
+    btn.addEventListener('click', () => {
+        const token = localStorage.getItem('gh_token');
+        if (!token) {
+            tokenRow.style.display = 'block';
+            tokenInput.focus();
+            return;
+        }
+        _doGitHubSave(token, status);
+    });
+
+    saveToken.addEventListener('click', () => {
+        const val = tokenInput.value.trim();
+        if (!val) return alert('Enter a token first');
+        localStorage.setItem('gh_token', val);
+        tokenRow.style.display = 'none';
+        status.textContent = '🔑 Token saved';
+        status.style.color = '#4caf50';
+        tokenInput.value = '';
+        // Immediately try to save
+        _doGitHubSave(val, status);
+    });
+}
+
+async function _doGitHubSave(token, statusEl) {
+    // Derive repo/path from BASE_URL and current filename
+    // Expected BASE_URL format: https://raw.githubusercontent.com/OWNER/REPO/BRANCH/
+    const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : BASE_URL;
+    const match = rawBase.match(/github\.com\/([^/]+)\/([^/]+)\/([^/]+)\//);
+    if (!match) return alert('Cannot determine repo from BASE_URL. Check config.js.');
+
+    const [, owner, repo, branch] = match;
+    const filename = document.getElementById('export-filename').value.trim();
+    if (!filename) return alert('Set a filename first (e.g. chapter-01-starley.md)');
+
+    const bookSelect    = document.getElementById('select-book');
+    const chapterSelect = document.getElementById('select-chapter');
+    if (!bookSelect.value || !chapterSelect.value) return alert('Select a book and chapter first');
+
+    const content = editor ? editor.getValue() : document.getElementById('markdown-input').value;
+    const path = `${bookSelect.value}/chapters/${chapterSelect.value}/${filename}`;
+
+    statusEl.textContent = '⏳ Saving...';
+    statusEl.style.color = '#f9a825';
+
+    try {
+        // 1. Get current file SHA (needed for update)
+        const apiBase = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
+        const headers = {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github+json',
+            'X-GitHub-Api-Version': '2022-11-28',
+        };
+
+        let sha = null;
+        const getRes = await fetch(`${apiBase}?ref=${branch}`, { headers });
+        if (getRes.ok) {
+            const data = await getRes.json();
+            sha = data.sha;
+        } else if (getRes.status !== 404) {
+            throw new Error(`GitHub API error: ${getRes.status} ${getRes.statusText}`);
+        }
+
+        // 2. PUT file
+        const body = {
+            message: `Update ${filename} via Starley Editor`,
+            content: btoa(unescape(encodeURIComponent(content))),
+            branch,
+            ...(sha ? { sha } : {}),
+        };
+
+        const putRes = await fetch(apiBase, {
+            method: 'PUT',
+            headers: { ...headers, 'Content-Type': 'application/json' },
+            body: JSON.stringify(body),
+        });
+
+        if (!putRes.ok) {
+            const err = await putRes.json();
+            throw new Error(err.message || putRes.statusText);
+        }
+
+        const result = await putRes.json();
+        const commitUrl = result.commit?.html_url || '#';
+        statusEl.innerHTML = `✅ Saved! <a href="${commitUrl}" target="_blank" style="color:#4fc3f7">View commit</a>`;
+        statusEl.style.color = '#4caf50';
+
+    } catch(e) {
+        statusEl.textContent = `❌ ${e.message}`;
+        statusEl.style.color = '#e53935';
+        console.error('GitHub save error:', e);
+    }
 }

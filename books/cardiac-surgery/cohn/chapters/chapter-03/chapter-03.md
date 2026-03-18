@@ -693,24 +693,58 @@ The blood flow pattern from a coronary artery perfusing the left ventricle, meas
 In contrast to the phasic nature of blood flow in the left coronary artery, blood flow in the right coronary artery is relatively constant during the cardiac cycle. The constancy of blood flow is related to the lower intramural pressures and the near absence of extravascular compressive forces in the right ventricle compared with the left ventricle.
 </div></details>
 
+<details class="med-details"><summary>
+  
+### Control of Coronary Blood Flow</summary><div class="details-content">
 
-## Control of Coronary Blood Flow
+Coronary blood flow is tightly coupled to the metabolic needs of the heart. Under normal conditions, 70% of the oxygen available in coronary arterial blood is extracted, near the physiologic maximum. Any increase in oxygen delivery comes mostly from an increase in blood flow. To maximize efficiency, local coronary blood flow is precisely controlled by a balance of vasodilator and vasoconstrictor mechanisms, including: (1) a metabolic vasodilator system; (2) a neurogenic control system; and (3) the vascular endothelium. Blood flow is controlled by moment-to-moment adjustment of coronary tone of the resistance vessels, that is, arterioles and precapillary sphincters.
 
-Coronary blood flow is tightly coupled to the metabolic needs of the heart. Under normal conditions, 70% of the oxygen available in coronary arterial blood is extracted, near the physiologic maximum. Any increase in oxygen delivery comes mostly from an increase in blood flow. To maximize efficiency, local coronary blood flow is precisely controlled by a balance of vasodilator and vasoconstrictor mechanisms, including: (1) a metabolic vasodilator system; (2) aneurogenic control system; and (3) the vascular endothelium. <sup>53</sup> Blood flow is controlled by moment-to-moment adjustment of coronary tone of the resistance vessels, that is, arterioles and precapillary sphincters.
+<details class="med-details"><summary>
+  
+#### Metabolic vasodilator mechanism</summary><div class="details-content">
+The metabolic vasodilator mechanism responds rapidly when local blood flow is insufficient to meet metabolic demand. The primary mediator is adenosine generated within the myocyte and released into the interstitial compartment. Adenosine relaxes arteriolar smooth muscle cells by activation of  A<sub>2</sub>  receptors. Adenosine is formed when the oxygen supply cannot sustain the rapid rephosphorylation of ADP to ATP. Once sufficient oxygen is supplied to the myocardium, less adenosine is formed. Adenosine is therefore the coupling agent between oxygen demand and supply. Other local vasodilators that influence coronary blood flow are carbon dioxide, lactic acid, and histamine.
+</div>
+</details>
 
-The metabolic vasodilator mechanism responds rapidly when local blood flow is insufficient to meet metabolic demand. The primary mediator is adenosine generated within the myocyte and released into the interstitial compartment. Adenosine relaxes arteriolar smooth muscle cells by activation of  $A_2$  receptors. Adenosine is formed when the oxygen supply cannot sustain the rapid rephosphorylation of ADP to ATP. Once sufficient oxygen is supplied to the myocardium, less adenosine is formed. Adenosine is therefore the coupling agent between oxygen demand and supply. Other local vasodilators that influence coronary blood flow are carbon dioxide, lactic acid, and histamine.
-
+<details class="med-details"><summary>
+  
+#### Sympathetic nervous system</summary><div class="details-content">
 The sympathetic nervous system acts through alpha receptors (vasoconstriction) and beta receptors (vasodilation). There are direct innervations of the large conductance vessels and lesser direct innervations of the smaller resistance vessels. Sympathetic receptors on the smooth muscle cells of the resistance vessels respond to humoral catecholamines. Alpha receptors predominate over beta receptors such that when norepinephrine is released from the sympathetic nerve endings, vasoconstriction ordinarily occurs.
+</div>
+</details>
 
-Endothelium-dependent regulation of coronary artery blood flow is a dynamic balance between vasodilating and vasoconstricting factors. Vasodilators include nitric oxide (NO) synthesized from L-arginine by endothelial nitric oxide synthase, and endothelially released adenosine. The principal vasoconstrictor is the endothelially derived constricting peptide endothelin-1. Other vasoconstrictors include angiotensin II and superoxide free radical.<sup>54</sup> NO is dominant in the local regulation of coronary arterial tone. NO is released by the coronary vascular endothelium by both soluble factors (acetylcholine, adenosine, and ATP) and mechanical signals (shear stress and pulsatile stress secondary to increased intraluminal blood flow). If the endothelium is intact, acetylcholine from the sympathetic nerves causes vasodilation through generation of NO. If the endothelium is not functionally intact, acetylcholine causes vasoconstriction by direct stimulation of the vascular smooth muscle. NO is a potent inhibitor of platelet aggregation and neutrophil function (superoxide generation, adherence, and migration), which has implications in the anti-inflammatory response to ischemia-reperfusion and cardiopulmonary bypass.
+<details class="med-details"><summary>
+  
+#### Vascular endothelium</summary><div class="details-content">
+Endothelium-dependent regulation of coronary artery blood flow is a dynamic balance between vasodilating and vasoconstricting factors. Vasodilators include nitric oxide (NO) synthesized from L-arginine by endothelial nitric oxide synthase, and endothelially released adenosine. The principal vasoconstrictor is the endothelially derived constricting peptide endothelin-1. Other vasoconstrictors include angiotensin II and superoxide free radical. 
 
-Endothelin-1 interacts principally with specific endothelin receptors, ET<sub>A</sub>, on vascular smooth muscle, and causes smooth muscle vasoconstriction. Endothelin-1 counteracts the vasodilator effects of endogenous adenosine, NO, and prostacyclin (PGI<sub>2</sub>). Endothelin-1 is rapidly synthesized in the vascular endothelium, particularly during ischemia, hypoxia, and other stress conditions, where it acts in a paracrine fashion. ET-1 has a short half-life (4 to 7 minutes), which exceeds that of adenosine (8 to12 seconds) and NO (microseconds). However, the avid binding of ET-1 to ET<sub>A</sub> receptors prolongs its effects beyond its half-life. Human coronary arteries demonstrate abundant endothelin-1 binding sites, suggesting that ET-1 has an important role in the control of coronary blood flow in humans.<sup>55</sup> The levels of ET-1 have been observed to increase with myocardial ischemia-reperfusion and after cardiac surgery.
+<details class="med-details"><summary>
+  
+##### NO</summary><div class="details-content">
+NO is dominant in the local regulation of coronary arterial tone. NO is released by the coronary vascular endothelium by both soluble factors (acetylcholine, adenosine, and ATP) and mechanical signals (shear stress and pulsatile stress secondary to increased intraluminal blood flow). If the endothelium is intact, acetylcholine from the sympathetic nerves causes vasodilation through generation of NO. If the endothelium is not functionally intact, acetylcholine causes vasoconstriction by direct stimulation of the vascular smooth muscle. NO is a potent inhibitor of platelet aggregation and neutrophil function (superoxide generation, adherence, and migration), which has implications in the anti-inflammatory response to ischemia-reperfusion and cardiopulmonary bypass.
+</div></details>
 
-Under ordinary circumstances the metabolic vasodilator system is the dominant force acting on the resistance vessels. For example, the increased metabolic activity caused by sympathetic stimulation leads to vasodilation of the coronary arterioles through the metabolic system, despite a direct vasoconstriction effect of norepinephrine. <sup>56-58</sup>
+<details class="med-details"><summary>
+  
+##### Endothelin-1</summary><div class="details-content">
+Endothelin-1 interacts principally with specific endothelin receptors, ET<sub>A</sub>, on vascular smooth muscle, and causes smooth muscle vasoconstriction. Endothelin-1 counteracts the vasodilator effects of endogenous adenosine, NO, and prostacyclin (PGI<sub>2</sub>). Endothelin-1 is rapidly synthesized in the vascular endothelium, particularly during ischemia, hypoxia, and other stress conditions, where it acts in a paracrine fashion. ET-1 has a short half-life (4 to 7 minutes), which exceeds that of adenosine (8 to12 seconds) and NO (microseconds). However, the avid binding of ET-1 to ET<sub>A</sub> receptors prolongs its effects beyond its half-life. Human coronary arteries demonstrate abundant endothelin-1 binding sites, suggesting that ET-1 has an important role in the control of coronary blood flow in humans. The levels of ET-1 have been observed to increase with myocardial ischemia-reperfusion and after cardiac surgery.
+</div></details>
 
+</div></details>
+
+Under ordinary circumstances the metabolic vasodilator system is the dominant force acting on the resistance vessels. For example, the increased metabolic activity caused by sympathetic stimulation leads to vasodilation of the coronary arterioles through the metabolic system, despite a direct vasoconstriction effect of norepinephrine. 
+
+<details class="med-details"><summary>
+  
+##### Perfusion pressure</summary><div class="details-content">
 Coronary artery blood flow is also determined by perfusion pressure. However, in the coronary vasculature blood flow can remain constant over a range of perfusion pressures. The control mechanisms described allow autoregulation of blood flow adjusting vascular resistance to match blood flow requirements. The autoregulatory "plateau" occurs between approximately 60 and 120 mm Hg perfusion pressure. If distal coronary artery perfusion pressure is reduced by a critical stenosis or hypotension, vasodilator capacity will be exhausted and coronary blood flow will decrease, following a linear relationship with perfusion pressure. Because the subendocardial region of the left ventricle has a lower coronary vascular reserve, maximal dilation is reached in this region before the subepicardial tissue, and a preferential hypoperfusion of the subendocardial tissue results.
+</div></details>
 
-## Hemodynamic Effect of Coronary Artery Stenosis
+</div></details>
+
+<details class="med-details"><summary>
+  
+### Hemodynamic Effect of Coronary Artery Stenosis</summary><div class="details-content">
 
 Surgically treatable atherosclerotic disease primarily affects the large conductance vessels of the heart. The hemodynamic effect of a stenosis is determined by Poiseuille's law, which describes the resistance of a viscous fluid to laminar flow through a cylindrical tube; specifically:
 
@@ -748,6 +782,9 @@ Atherosclerosis also alters normal vascular regulatory mechanisms. The endotheli
 As noted, when a stenosis is less than 60%, little change is flow is noted. This is due to compensation by the coronary flow reserve of the resistance vessels distal to the stenotic conductance vessel. As resistance to flow is additive, a decrease in distal resistance will balance an increase in proximal resistance and flow will be unchanged. As flow reserve decreases, any stimulus that increases myocardial oxygen demand (such a tachycardia, hypertension, or exercise) cannot be met by dilation of the distal vasculature, and myocardial ischemia results.<sup>53</sup>
 
 In the human, coronary arterial vessels are end vessels with little collateral flow between major branches except in pathologic situations. With sudden coronary occlusion, although there is usually modest collateral flow through very small vessels (20 to 200 µm in size), this flow is generally insufficient to maintain cellular viability. Collateral flow gradually begins to increase over the next 8 to 24 hours, doubling by about the third day after total occlusion. Collateral blood flow development appears to be nearly complete after 1 month, restoring normal or nearly normal resting flow to the surviving myocardium in the ischemic region. Previous ischemic events or gradually developing stenoses can lead to larger preexisting collaterals in the human heart. The presence of these pre-existing collaterals has been shown to be important in the prevention of ischemic damage if coronary occlusion should occur.62
+</div>
+</details>
+
 
 ## **Endothelial Dysfunction**
 
