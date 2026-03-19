@@ -4,6 +4,83 @@
 
 <details class="med-details"><summary>
   
+## Executive Summary</summary><div class="details-content">
+
+### Cellular Activation & Action Potential
+*   **Resting Membrane Potential:** Determined mainly by K+ gradient (via Na<sup>+</sup>/K<sup>+</sup> ATPase). Typical value ~ -90 mV.
+*   **Phases (Myocyte):**
+    *   **Phase 0 (Depolarization):** Fast Na<sup>+</sup> channels open (inward current).
+    *   **Phase 1 (Early repolarization):** Transient K<sup>+</sup> current.
+    *   **Phase 2 (Plateau):** L-type Ca<sup>2+</sup> channels open (inward Ca<sup>2+</sup> sustains contraction). Inactivation gates close slowly.
+    *   **Phase 3 (Repolarization):** Ca<sup>2+</sup> channels close; delayed rectifier K<sup>+</sup> channels open.
+    *   **Phase 4 (Resting):** Maintained by K<sup>+</sup> channels (iK<sub>1</sub>).
+*   **Pacemaker Cells (SA/AV Node):** No fast Na<sup>+</sup> channels. Phase 4 shows spontaneous diastolic depolarization (pacemaker potential) driven by funny current (If) and Ca<sup>2+</sup> influx.
+*   **Refractory Periods:**
+    *   **Absolute:** No new action potential possible (Na<sup>+</sup> channels inactivated).
+    *   **Relative:** Only strong stimuli can excite (some Na<sup>+</sup> channels recovered).
+
+### Key Ion Channels & Pumps
+*   **Na<sup>+</sup>/K<sup>+</sup> ATPase:** Pumps 3 Na<sup>+</sup> out, 2 K<sup>+</sup> in; contributes -10 mV to resting potential.
+*   **Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger (NCX):** Primary Ca<sup>2+</sup> extrusion mechanism (3 Na<sup>+</sup> in / 1 Ca<sup>2+</sup> out). Can reverse in ischemia (Ca<sup>2+</sup> overload).
+*   **Ryanodine Receptor (RyR):** SR Ca<sup>2+</sup> release channel; activated by Ca<sup>2+</sup> influx ("calcium-induced calcium release").
+*   **SERCA:** SR Ca<sup>2+</sup> uptake pump; regulated by **Phospholamban** (inhibits; phosphorylation by PKA relieves inhibition → lusitropy).
+
+### Regulation of Function
+*   **Beta-1 Receptors:** Gs → ↑ cAMP → PKA → ↑ Ca<sup>2+</sup> channel opening, ↑ SR Ca<sup>2+</sup> release, ↑ SERCA activity. Results in:
+    *   Positive **chronotropy** (HR)
+    *   Positive **inotropy** (contractility)
+    *   Positive **dromotropy** (conduction velocity)
+    *   Positive **lusitropy** (relaxation)
+*   **Beta-Blockers:** Reduce MvO<sub>2</sub>; cause receptor upregulation.
+*   **Phosphodiesterase Inhibitors (Milrinone):** ↓ cAMP breakdown → ↑ inotropy + vasodilation (inodilator); synergistic with beta-agonists.
+*   **Adenosine:** A1 receptor → ↓ cAMP, opens K+ channels (hyperpolarization); used to slow AV conduction.
+*   **Acetylcholine (Parasympathetic):** Gi → ↓ cAMP; opens K+ channels → hyperpolarization (slows HR).
+*   **Acidosis:** ↓ Ca<sup>2+</sup> release, ↓ myofilament Ca<sup>2+</sup> sensitivity, desensitizes beta-receptors → ↓ contractility.
+*   **Other Regulators:** Angiotensin II (vasoconstriction, aldosterone), NO (vasodilation, regulates Ca<sup>2+</sup> handling), Endothelin-1 (vasoconstriction).
+
+### The Sarcomere & Contraction
+*   **Sliding Filament Theory:** Ca<sup>2+</sup> binds to **TnC** → tropomyosin shifts → exposes actin binding site → myosin head forms cross-bridge (ATPase activated) → power stroke.
+*   **Length-Tension Relationship (Frank-Starling):** ↑ Sarcomere length (up to 2.2-2.4 μm) → ↑ Ca<sup>2+</sup> sensitivity of TnC → ↑ force. Best clinical correlate: ↑ Preload → ↑ Stroke Volume.
+
+### Ventricular Mechanics (Pressure-Volume Loops)
+*   **Key Loops Points:**
+    *   **Aortic Valve Opens:** End of isovolumic contraction.
+    *   **Aortic Valve Closes:** End-systole (dicrotic notch).
+    *   **Mitral Valve Opens:** Start of filling.
+*   **ESPVR (End-Systolic Pressure-Volume Relationship):**
+    *   **Slope (Ees):** Gold standard index of **contractility**. ↑ Slope = ↑ Inotropy.
+*   **EDPVR (End-Diastolic Pressure-Volume Relationship):**
+    *   **Slope:** Index of **compliance** (lusitropy). ↑ Slope = Stiffer ventricle.
+*   **Preload Recruitable Stroke Work (PRSW):** Load-independent contractility index (stroke work vs. EDV).
+
+### Preload, Afterload, Compliance
+*   **Preload:** End-diastolic volume (surrogate: filling pressure). Determined by venous return and atrial systole.
+*   **Afterload:** Ventricular wall stress during ejection. Simplified as: **Wall Stress (σ) = (P × r) / (2 × w)** (Laplace). ↑ Radius or ↑ Pressure → ↑ Wall Stress → ↑ MvO<sub>2</sub>.
+*   **Compliance (dV/dP):** Stiffness (dP/dV) is increased in hypertrophy, fibrosis, ischemia, tamponade.
+
+### Coronary Blood Flow
+*   **Left Coronary Flow:** **Phasic** (mostly in diastole) due to systolic compression.
+*   **Subendocardium at Risk:** Highest wall tension, perfused only in diastole. Vulnerable to hypotension, tachycardia (↓ diastole), high LVEDP (compression).
+*   **Autoregulation Plateau:** Flow constant between MAP ~60-120 mmHg.
+*   **Poiseuille's Law (Stenosis):** Resistance ∝ **1 / r⁴**. 90% stenosis → resistance **256x** > 60% stenosis.
+*   **Coronary Flow Reserve:** Maximal increase in flow (3-4x normal).
+
+### Myocardial Protection & Injury
+*   **Stunning:** Post-ischemic dysfunction despite restored flow; weeks to recover (↓ myofilament Ca<sup>2+</sup> sensitivity).
+*   **Hibernation:** Chronic hypoperfusion → downregulation; reversible with revascularization.
+*   **Preconditioning:** Brief ischemia protects against subsequent prolonged ischemia.
+*   **Reperfusion Injury:** Ca<sup>2+</sup> overload, oxidative stress, endothelial dysfunction, no-reflow.
+
+### Heart Failure Physiology
+*   **Systolic Failure:** ↓ Ees; LV dilates (right shift on PV loop); EF ↓.
+*   **Diastolic Failure:** ↑ EDPVR (stiff); high filling pressures; preserved EF.
+*   **Maladaptive Responses:** Chronic neurohumoral activation (RAAS, SNS) → fibrosis, remodeling, beta-receptor downregulation, arrhythmias.
+*   **BNP:** Secreted in response to stretch; diagnostic marker.
+</div>
+</details>
+
+<details class="med-details"><summary>
+  
 ## CELLULAR COMPONENTS AND CELLULAR ACTIVATION
 </summary><div class="details-content">
 
@@ -579,7 +656,11 @@ Ejection fraction is used by many clinicians as a measure of contractility. Howe
 ##### Law of Laplace</summary><div class="details-content">
 The left ventricle is a pressurized, irregularly shaped chamber. During systole, wall stress develops to overcome afterload and eject the blood. The pressure within the chamber and the geometry of the ventricle determine the tension in the wall. A model of the ventricle as a cylinder can be used to examine the effects of chamber size and wall thickness on wall stress. In this model, circumferential stress is based on the law of Laplace:
 
-σ = (P·r)/w
+
+$$
+σ = \frac{P·r}{w}
+$$
+
 
 where σ is wall stress (≈  tension), P is transmural pressure, r is radius, and w is wall thickness. 
   
@@ -634,7 +715,11 @@ The availability of ADP is the primary determinant of the rate of oxidative phos
 
 Because nearly all the energy used by the heart is generated by oxidative metabolism, the rate of oxygen consumption  (MvO<sub>2</sub>)  is indicative of the metabolic rate of the heart:
 
-MvO<sub>2</sub> = ((CaO<sub>2</sub> - CvO<sub>2</sub>)/CBF)/ Mass
+
+$$
+MvO_{2} = \frac{CaO_{2}-CvO_{2}}{CBF}/ Mass
+$$
+
 
 where  MvO<sub>2</sub>  is myocardial oxygen consumption,  CaO<sub>2</sub>  is arterial oxygen content in mL  O<sub>2</sub>/100 mL blood,  CvO<sub>2</sub>  is coronary venous oxygen content in mL  O<sub>2</sub>/100 mL blood, CBF is coronary blood flow in mL/min. Because the bulk of the energy is expended on contraction, changes in the rate of oxygen consumption of the heart are directly related to changes in the contraction cycle and workload. Energy utilization can be increased by an increase in cardiac workload or a decrease in the efficiency of conversion of chemical to mechanical energy.
 
@@ -746,96 +831,136 @@ Coronary artery blood flow is also determined by perfusion pressure. However, in
   
 ### Hemodynamic Effect of Coronary Artery Stenosis</summary><div class="details-content">
 
-Surgically treatable atherosclerotic disease primarily affects the large conductance vessels of the heart. The hemodynamic effect of a stenosis is determined by Poiseuille's law, which describes the resistance of a viscous fluid to laminar flow through a cylindrical tube; specifically:
+Surgically treatable atherosclerotic disease primarily affects the large conductance vessels of the heart. 
+  
+  The hemodynamic effect of a stenosis is determined by <strong>Poiseuille's law</strong>, which describes the resistance of a viscous fluid to laminar flow through a cylindrical tube; specifically:
 
 $$Q = \frac{\pi(\Delta P)}{8\eta} \cdot \frac{r^4}{l}$$
 
-where Q is the flow,  $\Delta P$  is the pressure change,  $\eta$  is the viscosity, r is the radius, and l is the length of the resistance segment. Resistance (pressure change/flow):
+where Q is the flow,  $\Delta P$  is the pressure change,  $\eta$  is the viscosity, r is the radius, and l is the length of the resistance segment. 
+  
+Resistance (pressure change/flow):
 
 $$R = \frac{(\Delta P)}{Q} = \frac{8\eta}{\pi} \cdot \frac{1}{r^4}$$
 
-is inversely proportional to the *fourth* power of the radius and directly proportional to the length of the narrowing. Therefore, a small change in diameter has a magnified effect on vascular resistance (Table 3-2). Conductance vessels are sufficiently large that a 50% reduction in the diameter of the vessel has minimal hemodynamic effect. A 60% reduction in the diameter of the vessel has only a very small hemodynamic effect. As the stenosis progresses beyond 60%, small decreases in diameter have significant effects on blood flow. For a given segment length, an 80% stenosis has a resistance that is 16 times greater a 60% stenosis. For a 90% stenosis, the resistance is 256 times greater than for a 60% stenosis.<sup>59</sup> Furthermore, for successive stenoses in the same vessel the resistance is additive. An additional factor in resistance to flow is turbulence. Stenotic lesions can cause conversion from laminar to turbulent flow. 60 With laminar flow the pressure drop is proportional to flow rate Q; with turbulent flow pressure drop is
+is inversely proportional to the *fourth* power of the radius and directly proportional to the length of the narrowing. Therefore, a small change in diameter has a magnified effect on vascular resistance (Table 3-2). Conductance vessels are sufficiently large that a 50% reduction in the diameter of the vessel has minimal hemodynamic effect. A 60% reduction in the diameter of the vessel has only a very small hemodynamic effect. As the stenosis progresses beyond 60%, small decreases in diameter have significant effects on blood flow. For a given segment length, an 80% stenosis has a resistance that is 16 times greater a 60% stenosis. For a 90% stenosis, the resistance is 256 times greater than for a 60% stenosis. Furthermore, for successive stenoses in the same vessel the resistance is additive. An additional factor in resistance to flow is turbulence. Stenotic lesions can cause conversion from laminar to turbulent flow. 60 With laminar flow the pressure drop is proportional to flow rate Q; with turbulent flow pressure drop is proportional to  $Q^2$ . For all of these reasons, patients who have had a small progression in the degree of coronary stenosis may experience a rapid acceleration of symptoms.
+  
+<details class="med-details"><summary>
+  
+#### TABLE 3-2: Effect of Degree and Length of Stenosis on Resistance to Flow Based on Poiseuille's Law</summary><div class="details-content">
 
-## TABLE 3-2: Effect of Degree and Length of Stenosis on Resistance to Flow Based on Poiseuille's Law
+| % Stenosis of a 1-cm-diameter vessel   | Radius (in cm) | Proportional resistance for various segment lengths (cm) |       |       | 
+|--|--|--|--|--|
+||| 0.25 cm | 1 cm | 2 cm |
+| 0 | 0.5 | 1 | 4 | 8 |
+| 50 | 0.25 | 16 | 64 | 128 |
+| 60 | 0.2 | 39 | 156 | 313 |
+| 70 | 0.15 | 123 | 494 | 988 |
+| 80 | 0.1 | 625 | 2500 | 5000 |
+| 90 | 0.05 | 10000 | 40000 | 80000 |
+| Proportional increase in resistance 80% versus 60% stenosis|||| 16 |
+| Proportional increase in resistance 90% versus 60% stenosis|||| 256 |
 
-| % Stenosis of a 1-cm-diameter vessel           | Radius (in cm) | Proportional resistance for various segment lengths (cm) |       |       |  |
-|------------------------------------------------|----------------|----------------------------------------------------------|-------|-------|--|
-|                                                | 6              |                                                          | . 6   |       |  |
-|                                                |                | 0.25 cm                                                  | 1 cm  | 2 cm  |  |
-| 0                                              | 0.5            | 1                                                        | 4     | 8     |  |
-| 50                                             | 0.25           | 16                                                       | 64    | 128   |  |
-| 60                                             | 0.2            | 39                                                       | 156   | 313   |  |
-| 70                                             | 0.15           | 123                                                      | 494   | 988   |  |
-| 80                                             | 0.1            | 625                                                      | 2500  | 5000  |  |
-| 90                                             | 0.05           | 10000                                                    | 40000 | 80000 |  |
-| Proportional increase in resistance 80% versus |                |                                                          |       | 16    |  |
-| 60% stenosis                                   |                |                                                          |       |       |  |
-| Proportional increase in resistance 90% versus |                |                                                          |       | 256   |  |
-| 60% stenosis                                   |                |                                                          | 0.    |       |  |
-
-The value for a reference vessel of length 0.25 cm with 0% stenosis (in the box) is set to 1 for comparison.
-
-proportional to  $Q^2$ . For all of these reasons, patients who have had a small progression in the degree of coronary stenosis may experience a rapid acceleration of symptoms.
-
-Atherosclerosis also alters normal vascular regulatory mechanisms. The endothelium is often destroyed or damaged, so vasoconstrictor mechanisms are relatively unopposed by the impaired vasodilator mechanism; constriction is exaggerated and responses to stimuli that require dilatation are blunted.<sup>61</sup>
-
-As noted, when a stenosis is less than 60%, little change is flow is noted. This is due to compensation by the coronary flow reserve of the resistance vessels distal to the stenotic conductance vessel. As resistance to flow is additive, a decrease in distal resistance will balance an increase in proximal resistance and flow will be unchanged. As flow reserve decreases, any stimulus that increases myocardial oxygen demand (such a tachycardia, hypertension, or exercise) cannot be met by dilation of the distal vasculature, and myocardial ischemia results.<sup>53</sup>
-
-In the human, coronary arterial vessels are end vessels with little collateral flow between major branches except in pathologic situations. With sudden coronary occlusion, although there is usually modest collateral flow through very small vessels (20 to 200 µm in size), this flow is generally insufficient to maintain cellular viability. Collateral flow gradually begins to increase over the next 8 to 24 hours, doubling by about the third day after total occlusion. Collateral blood flow development appears to be nearly complete after 1 month, restoring normal or nearly normal resting flow to the surviving myocardium in the ischemic region. Previous ischemic events or gradually developing stenoses can lead to larger preexisting collaterals in the human heart. The presence of these pre-existing collaterals has been shown to be important in the prevention of ischemic damage if coronary occlusion should occur.62
+###### The value for a reference vessel of length 0.25 cm with 0% stenosis (in the box) is set to 1 for comparison.
 </div>
 </details>
 
+Atherosclerosis also alters normal vascular regulatory mechanisms. The endothelium is often destroyed or damaged, so vasoconstrictor mechanisms are relatively unopposed by the impaired vasodilator mechanism; constriction is exaggerated and responses to stimuli that require dilatation are blunted.
 
-## **Endothelial Dysfunction**
+As noted, when a stenosis is less than 60%, little change is flow is noted. This is due to compensation by the coronary flow reserve of the resistance vessels distal to the stenotic conductance vessel. As resistance to flow is additive, a decrease in distal resistance will balance an increase in proximal resistance and flow will be unchanged. As flow reserve decreases, any stimulus that increases myocardial oxygen demand (such a tachycardia, hypertension, or exercise) cannot be met by dilation of the distal vasculature, and myocardial ischemia results.
 
-As previously noted, nitric oxide, adenosine, and endothelin-1 are synthesized and released by the endothelium. 63,64 Ischemia-reperfusion, hypertension, diabetes, and hypercholesterolemia can impair generation of NO and vasoconstriction may predominate, mediated by the relative overexpression of endothelin-1. Reperfusion after temporary myocardial ischemia is one situation in which NO production may be impaired, leading to a vicious cycle in which the vasodilator reserve of the resistance vessels is reduced with a consequent and progressive "low-flow" or "no-flow" phenomenon. The coronary vascular NO system may also be impaired in some cases after coronary artery bypass surgery.
+In the human, coronary arterial vessels are end vessels with little collateral flow between major branches except in pathologic situations. With sudden coronary occlusion, although there is usually modest collateral flow through very small vessels (20 to 200 µm in size), this flow is generally insufficient to maintain cellular viability. Collateral flow gradually begins to increase over the next 8 to 24 hours, doubling by about the third day after total occlusion. Collateral blood flow development appears to be nearly complete after 1 month, restoring normal or nearly normal resting flow to the surviving myocardium in the ischemic region. Previous ischemic events or gradually developing stenoses can lead to larger preexisting collaterals in the human heart. The presence of these pre-existing collaterals has been shown to be important in the prevention of ischemic damage if coronary occlusion should occur.
+</div></details>
 
-The endothelium helps prevent cell-cell interactions between blood-borne inflammatory cells (ie, leukocytes and platelets) that initiate a local or systemic inflammatory reaction. Inflammatory cascades occur with sepsis, ischemia-reperfusion, and cardiopulmonary bypass. Under normal conditions, the vascular endothelium resists interaction with neutrophils and platelets by tonically releasing adenosine and NO, which have potent antineutrophil and platelet inhibitory
+<details class="med-details"><summary>
 
-effects. Damage to the endothelium lowers the resistance to neutrophil adhesion. Neutrophils can damage the endothelium by adhesion to its surface, and subsequent release of oxygen radicals and proteases. This amplifies the inflammatory response and decreases the tonic generation and release of adenosine and NO, which then permits further interaction with activated inflammatory cells. The products released by activated neutrophils have downstream physiologic consequences on other tissues, notably the heart, including increasing vascular permeability, creating blood flow defects (no-reflow phenomenon), and promoting the pathogenesis of necrosis and apoptosis.<sup>65</sup>
+### **Endothelial Dysfunction**</summary><div class="details-content">
 
-The triggers of these inflammatory reactions in the heart include cytokines (IL-1, IL-6, IL-8), complement fragments (C3a, C5a, membrane attack complex), oxygen radicals, and thrombin, which upregulate adhesion molecules expressed on both inflammatory cells (CD11a/CD18) and endothelium (P-selectin, E-selectin, and intercellular adhesion molecule-1 (ICAM-1)). The release of cytokines and complement fragments during cardiopulmonary bypass activates the vascular endothelium on a systemic basis, which contributes to the inflammatory response to cardiopulmonary bypass. <sup>66</sup> Both adenosine and NO have been used therapeutically to reduce the inflammatory responses to cardiopulmonary bypass, and to reduce ischemic-reperfusion injury and endothelial damage. <sup>67,68</sup>
+As previously noted, nitric oxide, adenosine, and endothelin-1 are synthesized and released by the endothelium. Ischemia-reperfusion, hypertension, diabetes, and hypercholesterolemia can impair generation of NO and vasoconstriction may predominate, mediated by the relative overexpression of endothelin-1. Reperfusion after temporary myocardial ischemia is one situation in which NO production may be impaired, leading to a vicious cycle in which the vasodilator reserve of the resistance vessels is reduced with a consequent and progressive "low-flow" or "no-flow" phenomenon. The coronary vascular NO system may also be impaired in some cases after coronary artery bypass surgery.
 
-## The Sequelae of Myocardial Hypoperfusion: Infarction, Myocardial Stunning, and Myocardial Hibernation
+The endothelium helps prevent cell-cell interactions between blood-borne inflammatory cells (ie, leukocytes and platelets) that initiate a local or systemic inflammatory reaction. Inflammatory cascades occur with sepsis, ischemia-reperfusion, and cardiopulmonary bypass. Under normal conditions, the vascular endothelium resists interaction with neutrophils and platelets by tonically releasing adenosine and NO, which have potent antineutrophil and platelet inhibitory effects. Damage to the endothelium lowers the resistance to neutrophil adhesion. Neutrophils can damage the endothelium by adhesion to its surface, and subsequent release of oxygen radicals and proteases. This amplifies the inflammatory response and decreases the tonic generation and release of adenosine and NO, which then permits further interaction with activated inflammatory cells. The products released by activated neutrophils have downstream physiologic consequences on other tissues, notably the heart, including increasing vascular permeability, creating blood flow defects (no-reflow phenomenon), and promoting the pathogenesis of necrosis and apoptosis.
 
-As oxygen delivery is reduced, contraction strength decreases rapidly (within 8 to 10 heart beats). This is seen acutely in response to ischemia and is rapidly reversed with reperfusion. If the extent of reduction of coronary blood flow is severe, mild-to-moderate abnormalities in cellular homeostasis occur. Reduced cellular levels of ATP lead to a loss of adenine nucleotides from the cell. If the reduction in coronary flow is sustained, progressive loss of adenine nucleotides and the elevation of intracellular and intramitochondrial calcium may lead to cellular death and subsequent necrosis. Increased intramitochondrial calcium uncouples oxidative phosphorylation, creating a vicious cycle. 69 If the myocyte is reperfused before subcellular organelles are irreversibly damaged, the myocyte may slowly recover. A period of days is necessary for full recovery of myocyte ATP levels as adenine nucleotides must be resynthesized. During this time contractile processes are impaired. This impairment is related to reversible damage to the contractile proteins such that their responsiveness to cytosolic levels of calcium is diminished. The magnitude of the cytosolic pulse of calcium with each heartbeat appears to be nearly normal, but the magnitude of the consequent contraction is greatly reduced. Over a period of 1 to 2 weeks this myocardium gradually recovers. This viable but dysfunctional myocardium is called stunned myocardium.<sup>70-72</sup>
+The triggers of these inflammatory reactions in the heart include cytokines (IL-1, IL-6, IL-8), complement fragments (C3a, C5a, membrane attack complex), oxygen radicals, and thrombin, which upregulate adhesion molecules expressed on both inflammatory cells (CD11a/CD18) and endothelium (P-selectin, E-selectin, and intercellular adhesion molecule-1 (ICAM-1)). The release of cytokines and complement fragments during cardiopulmonary bypass activates the vascular endothelium on a systemic basis, which contributes to the inflammatory response to cardiopulmonary bypass. Both adenosine and NO have been used therapeutically to reduce the inflammatory responses to cardiopulmonary bypass, and to reduce ischemic-reperfusion injury and endothelial damage. 
+</div></details>
 
-With chronic hypoperfusion, oxygen delivery is at a reduced level but above the level required for cell viability. This can cause a chronic hypocontractile state known as hibernation. Hibernation appears to be associated with a decrease in the magnitude of the pulse of calcium involved in the excitation-contraction process such that the calcium levels developed within the cytosol during each heartbeat are inadequate for effective contraction to occur. Histologic examination shows islets in the subendocardium where there is a loss of contractile proteins, sarcoplasmic reticulum, and alterations of other subcellular structures. 73,74 With reperfusion, hibernating myocardium can very quickly resume normal and effective contraction, though complete recovery may be delayed for several months. 70,75-77 This is of particular importance for patients with poor ventricular function but viable heart muscle.78
+<details class="med-details"><summary>
+  
+### The Sequelae of Myocardial Hypoperfusion: Infarction, Myocardial Stunning, and Myocardial Hibernation</summary><div class="details-content">
 
-Reperfusion of acutely ischemic myocardium may cause further cellular damage and necrosis rather than lead to immediate recovery. The etiology of reperfusion injury is multifactorial. Damaged endothelium in the reperfused region fails to prevent adhesion and activation of leukocytes and platelets. Oxygen-free radicals are released. Derangement of the ATP-dependent sodium-potassium pump disrupts cell volume regulation with consequent leakage of water into the cell, explosive cell swelling, and rupture of the cell membrane. Techniques applied to reduce reperfusion injury, minimize adverse sequelae, and preserve myocytes include leukocyte depletion or inactivation, prevention of endothelial activation, free radical scavenging, reperfusion with solutions low in calcium content, and reperfusion with hyperosmolar solutions.<sup>79,80</sup> Both adenosine and low-dose NO are potent cardioprotective agents that attenuate neutrophil-mediated damage, infarction, and apoptosis.81
 
-The metabolic changes that occur with ischemia-reperfusion represent a complex system of adaptive mechanisms that allow the myocyte to survive despite a temporary reduction in oxygen delivery. These adaptive mechanisms may be triggered by a very brief coronary occlusion (as short as 5 minutes) such that the negative sequelae of a subsequent prolonged coronary occlusion are greatly minimized. This phenomenon has been called ischemic preconditioning. A coronary occlusion that might cause as much as 40% myocyte death in a region subjected to prolonged ischemia may be reduced to only 10% myocyte death if the prolonged period of ischemia is preceded by a 5-minute interval of "preconditioning" coronary occlusion.<sup>79,82,83</sup>
+<details class="med-details"><summary>
+  
+#### Stunned myocardium</summary><div class="details-content">
+As oxygen delivery is reduced, contraction strength decreases rapidly (within 8 to 10 heart beats). This is seen acutely in response to ischemia and is rapidly reversed with reperfusion. If the extent of reduction of coronary blood flow is severe, mild-to-moderate abnormalities in cellular homeostasis occur. Reduced cellular levels of ATP lead to a loss of adenine nucleotides from the cell. If the reduction in coronary flow is sustained, progressive loss of adenine nucleotides and the elevation of intracellular and intramitochondrial calcium may lead to cellular death and subsequent necrosis. Increased intramitochondrial calcium uncouples oxidative phosphorylation, creating a vicious cycle. If the myocyte is reperfused before subcellular organelles are irreversibly damaged, the myocyte may slowly recover. A period of days is necessary for full recovery of myocyte ATP levels as adenine nucleotides must be resynthesized. During this time contractile processes are impaired. This impairment is related to reversible damage to the contractile proteins such that their responsiveness to cytosolic levels of calcium is diminished. The magnitude of the cytosolic pulse of calcium with each heartbeat appears to be nearly normal, but the magnitude of the consequent contraction is greatly reduced. Over a period of 1 to 2 weeks this myocardium gradually recovers. This viable but dysfunctional myocardium is called stunned myocardium.
 </div>
 </details>
 
+<details class="med-details"><summary>
+  
+#### Hibernation</summary><div class="details-content">
+With chronic hypoperfusion, oxygen delivery is at a reduced level but above the level required for cell viability. This can cause a chronic hypocontractile state known as hibernation. Hibernation appears to be associated with a decrease in the magnitude of the pulse of calcium involved in the excitation-contraction process such that the calcium levels developed within the cytosol during each heartbeat are inadequate for effective contraction to occur. Histologic examination shows islets in the subendocardium where there is a loss of contractile proteins, sarcoplasmic reticulum, and alterations of other subcellular structures. With reperfusion, hibernating myocardium can very quickly resume normal and effective contraction, though complete recovery may be delayed for several months. This is of particular importance for patients with poor ventricular function but viable heart muscle.
+</div>
+</details>
 
+<details class="med-details"><summary>
+  
+#### Reperfusion injury</summary><div class="details-content">
+Reperfusion of acutely ischemic myocardium may cause further cellular damage and necrosis rather than lead to immediate recovery. The etiology of reperfusion injury is multifactorial. Damaged endothelium in the reperfused region fails to prevent adhesion and activation of leukocytes and platelets. Oxygen-free radicals are released. Derangement of the ATP-dependent sodium-potassium pump disrupts cell volume regulation with consequent leakage of water into the cell, explosive cell swelling, and rupture of the cell membrane. Techniques applied to reduce reperfusion injury, minimize adverse sequelae, and preserve myocytes include leukocyte depletion or inactivation, prevention of endothelial activation, free radical scavenging, reperfusion with solutions low in calcium content, and reperfusion with hyperosmolar solutions. Both adenosine and low-dose NO are potent cardioprotective agents that attenuate neutrophil-mediated damage, infarction, and apoptosis.
+</div>
+</details>
 
-<details class="med-details">
-<summary>PHYSIOLOGY OF HEART FAILURE</summary>
-<div class="details-content">
-#### PHYSIOLOGY OF HEART FAILURE
+<details class="med-details"><summary>
+  
+#### Ischemic preconditioning</summary><div class="details-content">
+The metabolic changes that occur with ischemia-reperfusion represent a complex system of adaptive mechanisms that allow the myocyte to survive despite a temporary reduction in oxygen delivery. These adaptive mechanisms may be triggered by a very brief coronary occlusion (as short as 5 minutes) such that the negative sequelae of a subsequent prolonged coronary occlusion are greatly minimized. This phenomenon has been called ischemic preconditioning. A coronary occlusion that might cause as much as 40% myocyte death in a region subjected to prolonged ischemia may be reduced to only 10% myocyte death if the prolonged period of ischemia is preceded by a 5-minute interval of "preconditioning" coronary occlusion.
+</div></details>
 
-#### **Definition and Classification**
+</div></details>
 
-Heart failure is the inability of the heart to deliver adequate blood to the tissues to meet end-organ metabolic needs at rest or during mild to moderate exercise. Processes that cause heart failure can impair systolic function (the ability to contract and empty) or diastolic function (the ability to relax and fill) or both. The acute and chronic stages of a myocardial infarction involving a large area of the left ventricle cause systolic heart failure. The acute loss of contractile function compromises the ability of the ventricle to maintain a normal stroke volume (Figure 3-12F). As the infarction heals, the adaptive response of ventricular dilation reduces the heart's systolic functional reserve. Cardiomyopathies affect the myocardium globally leading to reduced systolic function. Long-standing valvular insufficiency alters ventricular geometry and muscular function leading to ventricular failure. In all these examples, the left ventricle dilates, which causes the pressure-volume relationship of the left ventricle to shift to the right (Figure 3-12G). In these situations, the diastolic portion of the pressure-volume curves is not greatly changed. However, the global systolic performance of the heart (ie, the ability to pump blood) maybe inadequate to meet even resting needs.84,85
+</div></details>
 
-Diastolic failure may occur without an impairment of systolic contractility if the myocardium becomes fibrotic or hypertrophied, or if there is an external constraint on filling such as with pericardial tamponade. <sup>86</sup> Increased stiffness of the left ventricular myocardium is associated with an excessive upward shift in the diastolic pressure-volume curve (Figure 3-12C and Figure 3-12E). The most common cause of increased myocardial stiffness is chronic hypertension with consequent left ventricular hypertrophy and diastolic stiffness (related both to myocyte hypertrophy and increased fibrosis of the ventricle). <sup>87,88</sup>
+<details class="med-details"><summary>
+  
+## PHYSIOLOGY OF HEART FAILURE</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+### **Definition and Classification**</summary><div class="details-content">
+
+Heart failure is the inability of the heart to deliver adequate blood to the tissues to meet end-organ metabolic needs at rest or during mild to moderate exercise. Processes that cause heart failure can impair systolic function (the ability to contract and empty) or diastolic function (the ability to relax and fill) or both. 
+<details class="med-details"><summary>
+  
+#### Sistolic failure</summary><div class="details-content">
+The acute and chronic stages of a myocardial infarction involving a large area of the left ventricle cause systolic heart failure. The acute loss of contractile function compromises the ability of the ventricle to maintain a normal stroke volume (Figure 3-12F). As the infarction heals, the adaptive response of ventricular dilation reduces the heart's systolic functional reserve. Cardiomyopathies affect the myocardium globally leading to reduced systolic function. Long-standing valvular insufficiency alters ventricular geometry and muscular function leading to ventricular failure. In all these examples, the left ventricle dilates, which causes the pressure-volume relationship of the left ventricle to shift to the right (Figure 3-12G). In these situations, the diastolic portion of the pressure-volume curves is not greatly changed. However, the global systolic performance of the heart (ie, the ability to pump blood) maybe inadequate to meet even resting needs.
+</div>
+</details>
+
+<details class="med-details"><summary>
+  
+#### Diastolic failure</summary><div class="details-content">
+Diastolic failure may occur without an impairment of systolic contractility if the myocardium becomes fibrotic or hypertrophied, or if there is an external constraint on filling such as with pericardial tamponade. Increased stiffness of the left ventricular myocardium is associated with an excessive upward shift in the diastolic pressure-volume curve (Figure 3-12C and Figure 3-12E). The most common cause of increased myocardial stiffness is chronic hypertension with consequent left ventricular hypertrophy and diastolic stiffness (related both to myocyte hypertrophy and increased fibrosis of the ventricle). 
+</div></details>
 
 It should be noted from these examples that although one process may predominate, most patients with heart failure manifest both systolic and diastolic dysfunction.
 
-## Early Cardiac and Systemic Sequelae of Heart Failure
+</div></details>
 
-The adaptive homeostatic reactions of the body leading to heart failure depend on the duration of the ongoing pathologic process. When cardiac function acutely deteriorates and cardiac output diminishes, neurohumoral reflexes attempt to restore both cardiac output and blood pressure. Activation of the sympathetic adrenergic system in the heart and in the peripheral vasculature causes systemic vasoconstriction and increases heart rate and contractility. A variety of mediators formed during this adaptive stage, including norepinephrine, angiotensin II, vasopressin, B-type natriuretic peptic, and endothelin, not only promote renal retention of salt and water leading to volume expansion but also cause vasoconstriction. Aldosterone output is increased, conserving sodium. The concerted responses of the adrenergic system and the renin-angiotensin system alter the primary determinants of stroke volume and cardiac output-preload, afterload, and contractility. The heart responds to loss of systolic function by progressively dilating. This dilation leads to preservation of stroke volume by Frank-Starling mechanisms but increased stroke volume is achieved at the expense of ejection fraction, as shown in Figure 3-12G, as a right shift in
+<details class="med-details"><summary>
+  
+### Early Cardiac and Systemic Sequelae of Heart Failure</summary><div class="details-content">
 
-the pressure-volume relationship of the left ventricle with an increase in end-diastolic volume (and pressure). In addition to a global dilation response, acute alterations in cardiac geometry may occur early after a large myocardial infarction, with thinning of the left ventricular wall in the region of the infarct as well as expansion of overall left ventricular cavity size. As volume expansion occurs, production of the cardiac atrial natriuretic peptide is increased, which tends to prevent excessive sodium retention and inhibit activation of the renin-angiotensin and aldosterone systems. <sup>89-93</sup>
+The adaptive homeostatic reactions of the body leading to heart failure depend on the duration of the ongoing pathologic process. When cardiac function acutely deteriorates and cardiac output diminishes, neurohumoral reflexes attempt to restore both cardiac output and blood pressure. Activation of the sympathetic adrenergic system in the heart and in the peripheral vasculature causes systemic vasoconstriction and increases heart rate and contractility. A variety of mediators formed during this adaptive stage, including norepinephrine, angiotensin II, vasopressin, B-type natriuretic peptic, and endothelin, not only promote renal retention of salt and water leading to volume expansion but also cause vasoconstriction. Aldosterone output is increased, conserving sodium. The concerted responses of the adrenergic system and the renin-angiotensin system alter the primary determinants of stroke volume and cardiac output-preload, afterload, and contractility. The heart responds to loss of systolic function by progressively dilating. This dilation leads to preservation of stroke volume by Frank-Starling mechanisms but increased stroke volume is achieved at the expense of ejection fraction, as shown in Figure 3-12G, as a right shift in the pressure-volume relationship of the left ventricle with an increase in end-diastolic volume (and pressure). In addition to a global dilation response, acute alterations in cardiac geometry may occur early after a large myocardial infarction, with thinning of the left ventricular wall in the region of the infarct as well as expansion of overall left ventricular cavity size. As volume expansion occurs, production of the cardiac atrial natriuretic peptide is increased, which tends to prevent excessive sodium retention and inhibit activation of the renin-angiotensin and aldosterone systems. 
+</div></details>
 
-## Cardiac and Systemic Maladaptive Consequences of Chronic Heart Failure
+<details class="med-details"><summary>
+  
+### Cardiac and Systemic Maladaptive Consequences of Chronic Heart Failure</summary><div class="details-content">
 
-The acute phase response is initially beneficial but becomes maladaptive and contributes to long-term problems in patients with heart failure (Figure 3-15). In the latter stages of heart failure, the kidneys tend to retain sodium and become hyporesponsive to atrial natriuretic peptide and B-type natriuretic peptide. 90 Desensitization of beta-adrenergic receptors is a consequence of sustained stimulation with a reduced response to elevated circulating catecholamine levels. 19
+The acute phase response is initially beneficial but becomes maladaptive and contributes to long-term problems in patients with heart failure (Figure 3-15). In the latter stages of heart failure, the kidneys tend to retain sodium and become hyporesponsive to atrial natriuretic peptide and B-type natriuretic peptide.  Desensitization of beta-adrenergic receptors is a consequence of sustained stimulation with a reduced response to elevated circulating catecholamine levels. 
 
 Left ventricular dilation is caused by hypertrophy of the myocytes as well as lengthening of the myocytes as sarcomeres are added. However, there is significant slippage of myofibrils leading to dilation without an increase in the number of myocytes. Progressive dilation of the heart leads to an increase in oxygen consumption during systole. Ventricular remodeling leads to progressive fibrosis.
 
-Angiotensin and aldosterone stimulate collagen formulation and proliferation of fibroblasts in the heart, leading to an increase in the ratio of interstitial tissue to myocardial tissue in the noninfarcted regions of the heart. <sup>94</sup> The impact of aldosterone has been documented by the effectiveness of aldosterone receptor antagonists in improving the morbidity and mortality of patients with heart failure. <sup>95</sup>
+Angiotensin and aldosterone stimulate collagen formulation and proliferation of fibroblasts in the heart, leading to an increase in the ratio of interstitial tissue to myocardial tissue in the noninfarcted regions of the heart. The impact of aldosterone has been documented by the effectiveness of aldosterone receptor antagonists in improving the morbidity and mortality of patients with heart failure. 
 
 ![](_page_24_Figure_8.jpeg)
 
@@ -843,8 +968,9 @@ Angiotensin and aldosterone stimulate collagen formulation and proliferation of 
 
 The progressive fibrosis leads to increased diastolic stiffness which limits diastolic filling and increase end-diastolic pressure. Fibrosis and increased ventricular size predispose to reentry ventricular arrhythmias that are a common cause of death in the late stages of heart failure. Hence, heart failure progresses as a result of a vicious cycle of left ventricular dilatation and remodeling, responses that decrease cardiac performance further.
 
-Evidence has accumulated over the past decade that suggests endothelial dysfunction, release of cytokines, and apoptotic cell death may participate in the development of heart failure as a maladaptive reaction (Figure 3-15). Reduced availability of nitric oxide and increased production of vasoconstrictor agents such as endothelin and angiotensin II has been reported in failing hearts. <sup>97</sup> Heart failure is often accompanied by changes in the endogenous antioxidant defense mechanisms of the heart as well as evidence of oxidative injury to the myocardium. Cytokines, released from systemic and local inflammatory responses in the failing heart, directly activate inflammatory cells to release superoxide radicals and cause endothelial dysfunction by augmenting inflammatory cell-endothelial cell interactions. Cytokines may also directly induce necrotic and apoptotic myocyte cell death. <sup>98</sup>
+Evidence has accumulated over the past decade that suggests endothelial dysfunction, release of cytokines, and apoptotic cell death may participate in the development of heart failure as a maladaptive reaction (Figure 3-15). Reduced availability of nitric oxide and increased production of vasoconstrictor agents such as endothelin and angiotensin II has been reported in failing hearts.  Heart failure is often accompanied by changes in the endogenous antioxidant defense mechanisms of the heart as well as evidence of oxidative injury to the myocardium. Cytokines, released from systemic and local inflammatory responses in the failing heart, directly activate inflammatory cells to release superoxide radicals and cause endothelial dysfunction by augmenting inflammatory cell-endothelial cell interactions. Cytokines may also directly induce necrotic and apoptotic myocyte cell death. 
 
 Cardiac secretion of B-type natriuretic peptide (BNP) has been shown to be increased with heart failure. BNP is a cardiac neurohormone released as preproBNP that is enzymatically cleaved to N-terminal-proBNP and BNP upon ventricular myocyte stretch. The physiologic effects of BNP include natriuresis, vasodilation and neurohumoral changes. Measurement of plasma BNP is a useful and cost-effective marker for heart failure. Other factors rather than stretch may stimulate BNP release including fibrosis, arrhythmias, ischemia, endothelial dysfunction, and cardiac hypertrophy.
-</div>
-</details>
+</div></details>
+
+</div></details>
