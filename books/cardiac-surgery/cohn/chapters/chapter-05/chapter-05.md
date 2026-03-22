@@ -2,11 +2,7 @@
 
 ##### Cardiovascular pathology defines the morphology and mechanisms of cardiovascular disease in individual patients and patient cohorts, both along the natural history of a disease and following surgery and interventions. The data derived through cardiovascular pathology thereby facilitate evidence-based choices among surgical or catheter-based interventional options and optimize short- and long-term patient management. Beyond implicit clinical benefit for individual patients, the discipline of cardiovascular pathology is a cornerstone of modern cardiovascular research and the preclinical development and clinical implementation of innovative drugs, devices, and other therapeutic options.
 
-<<<<<<< HEAD
 ##### This chapter summarizes pathologic anatomy, clinicopathologic correlations, and pathophysiologic mechanisms in the various forms of structural heart disease most relevant to surgery and catheter-based interventions used to diagnose and treat the major forms of acquired structural cardiovascular disease. In view of space limitations, several important areas (eg, aortic disease) are necessarily omitted from discussion and others (eg, cardiac assist and replacement devices) are focused on details not covered elsewhere in this book. Moreover, although we have not included the key considerations herein, we are mindful that the number of adults with congenital heart disease is increasing rapidly and that they have unique and important clinical and pathologic concerns.
-=======
-This chapter summarizes pathologic anatomy, clinicopathologic correlations, and pathophysiologic mechanisms in the various forms of structural heart disease most relevant to surgery and catheter-based interventions used to diagnose and treat the major forms of acquired structural cardiovascular disease. In view of space limitations, several important areas (eg, aortic disease) are necessarily omitted from discussion and others (eg, cardiac assist and replacement devices) are focused on details not covered elsewhere in this book. Moreover, although we have not included the key considerations herein, we are mindful that the number of adults with congenital heart disease is increasing rapidly and that they have unique and important clinical and pathologic concerns.
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 <details class="med-details"><summary>
   
@@ -60,12 +56,7 @@ This chapter summarizes pathologic anatomy, clinicopathologic correlations, and 
 *   **Saphenous vein graft patency:** ~60% at 10 years; failure mechanisms: early thrombosis, intimal hyperplasia at 1 month–1 year, atherosclerosis beyond 1–3 years.
 *   **IMA graft superiority:** >90% patency at 10 years; minimal preexisting atherosclerosis, artery-to-artery anastomosis, maintains nutrient blood supply.
 
-<<<<<<< HEAD
 </div></details>
-=======
-</div>
-</details>
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 <details class="med-details"><summary>
   
@@ -79,7 +70,6 @@ This chapter summarizes pathologic anatomy, clinicopathologic correlations, and 
 
 ![](_page_1_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-1** Summary of the gross and microscopic changes in cardiac hypertrophy. (A) Gross photo of heart with hypertrophy caused by aortic stenosis. The wall of the left ventricle is thick and the chamber is not dilated. The left ventricle is on the lower right in this apical four-chamber view of the heart. (B) Altered cardiac configuration in left ventricular hypertrophy without and with dilation, viewed in transverse heart sections. Compared with a normal heart (center of this panel), a pressure overloaded heart, caused for example by aortic valve stenosis (left), has increased mass and a thick left ventricular wall, whereas a volume overloaded heart, caused for example by mitral valve regurgitation, is both hypertrophied and dilated (right), having increased mass with a near normal or diminished wall thickness. (C) Photomicrograph of normal myocardium. (D) Photomicrograph of hypertrophied myocardium at same magnification as (C), showing large cells with enlarged nuclei. ([B] 
 
 The pattern of hypertrophy reflects the nature of the stimulus (see Fig. 5-1B).
@@ -87,11 +77,6 @@ The pattern of hypertrophy reflects the nature of the stimulus (see Fig. 5-1B).
 - In contrast, volume overload (eg, in aortic or mitral regurgitation, myocardial infarction, or dilated cardiomyopathy) promotes hypertrophy accompanied by chamber dilation, in which both ventricular radius and total mass are increased. 
   
   The chamber wall is affected globally by the increased chamber pressure of hypertension, the pressure or volume overload of valvular heart disease, and in dilated cardiomyopathy. In contrast, the ischemic myocyte necrosis and loss of contractile tissue myocardial infarction induce hypertrophy only in noninfarcted regions of myocardium. The terms *concentric*, *eccentric*, and *compensatory* have previously been used to describe pressure, volume, and ischemic injury-related hypertrophy, respectively.
-=======
-**FIGURE 5-1** Summary of the gross and microscopic changes in cardiac hypertrophy. (A) Gross photo of heart with hypertrophy caused by aortic stenosis. The wall of the left ventricle is thick and the chamber is not dilated. The left ventricle is on the lower right in this apical four-chamber view of the heart. (B) Altered cardiac configuration in left ventricular hypertrophy without and with dilation, viewed in transverse heart sections. Compared with a normal heart (center of this panel), a pressure overloaded heart, caused for example by aortic valve stenosis (left), has increased mass and a thick left ventricular wall, whereas a volume overloaded heart, caused for example by mitral valve regurgitation, is both hypertrophied and dilated (right), having increased mass with a near normal or diminished wall thickness. (C) Photomicrograph of normal myocardium. (D) Photomicrograph of hypertrophied myocardium at same magnification as (C), showing large cells with enlarged nuclei. ([B] Reproduced with permission from Allen HD, Gutgesell HP, Clark EB, et al: *Moss and Adams' Heart Disease in Infants, Children, and Adolescents: Including the Fetus and Young Adults.* 6th ed. Philadelphia: Lippincott Williams & Wilkins; 2001. [C and D] Reproduced with permission from Kumar V, Fausto N, Abbas A, et al: *Robbins/Cotran Pathologic Basis of Disease,* 8th ed. Philadelphia, WB Saunders, 2010.)
-
-The pattern of hypertrophy reflects the nature of the stimulus (see Fig. 5-1B). Pressure overload (eg, in systemic hypertension or aortic stenosis) induces an increased ventricular mass, increased wall thickness, and increased ratio of wall thickness to cavity radius without dilation. In contrast, volume overload (eg, in aortic or mitral regurgitation, myocardial infarction, or dilated cardiomyopathy) promotes hypertrophy accompanied by chamber dilation, in which both ventricular radius and total mass are increased. The chamber wall is affected globally by the increased chamber pressure of hypertension, the pressure or volume overload of valvular heart disease, and in dilated cardiomyopathy. In contrast, the ischemic myocyte necrosis and loss of contractile tissue myocardial infarction induce hypertrophy only in noninfarcted regions of myocardium. The terms *concentric*, *eccentric*, and *compensatory* have previously been used to describe pressure, volume, and ischemic injury-related hypertrophy, respectively.
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 The constellation of changes that occur regionally following myocardial infarction, or more globally in pressure and volume overload, is called *ventricular remodeling*. At a cell level, pressure overload promotes augmentation of cell width via parallel addition of sarcomeres; in contrast, volume overload and/or dilation stimulate augmentation of both cell width and length via both parallel and series addition of sarcomeres.
 
@@ -105,11 +90,7 @@ Heart failure can occur with pressure or volume overload of many causes, owing t
 
 ![](_page_2_Picture_3.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-2** Cardiac failure necessitating heart transplantation. (A) Ischemic heart disease, with a large anteroapical-septal myocardial infarct (with mural thrombus) noted to the left of center of the photo (arrow). (B) Four years following mitral valve replacement with a porcine bioprosthesis for congenital deformity causing mitral regurgitation. ([A] 
-=======
-**FIGURE 5-2** Cardiac failure necessitating heart transplantation. (A) Ischemic heart disease, with a large anteroapical-septal myocardial infarct (with mural thrombus) noted to the left of center of the photo (arrow). (B) Four years following mitral valve replacement with a porcine bioprosthesis for congenital deformity causing mitral regurgitation. ([A] Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -136,7 +117,6 @@ Dilated cardiomyopathy is characterized by cardiomegaly usually two to three tim
 ![](_page_3_Picture_4.jpeg)
 
 ![](_page_3_Picture_5.jpeg)
-<<<<<<< HEAD
   
 ![](_page_4_Picture_2.jpeg)
 
@@ -156,31 +136,6 @@ The clinical course of HCM is variable. Complications include atrial fibrillatio
 
 </div></details>
 
-=======
-
-**FIGURE 5-3** Cardiomyopathies. (A and B) Dilated cardiomyopathy. (A) Gross photo showing four-chamber dilation and hypertrophy. (B) Photomicrograph of myocardium in dilated cardiomyopathy, demonstrating irregular hypertrophy and interstitial fibrosis. (C–F) Hypertrophic cardiomyopathy. (C) Gross photo, showing septal muscle bulging into the left ventricular outflow tract. In the gross photo shown in (D) the anterior mitral leaflet has been moved away from the septum to reveal a fibrous endocardial plaque, caused by systolic anterior motion (see text). In (A) and (C), the LV is on the right side of the photo; in (D) the LV is on the left. (E) Gross photo of left ventricular outflow tract of patient with extensive fibrosis owing to remote surgical septal myotomy/myectomy. (F) Photomicrograph of myocardium in hypertrophic cardiomyopathy demonstrating myofiber disarray, with marked hypertrophy, abnormal branching of myocytes, and interstitial fibrosis. (G and H) Arrhythmogenic right ventricular cardiomyopathy. (G) Gross photograph, showing dilation of the right ventricle (on the right) and near transmural replacement of the right ventricular free-wall myocardium by fat and fibrosis. (H) Photomicrograph of the right ventricular free wall in arrhythmogenic right ventricular cardiomyopathy, demonstrating focal transmural replacement of myocardium by fibrosis and fat. Fibrosis (collagen) is blue in the Masson trichrome stain in parts (B), (F), and (H).
-
-![](_page_4_Picture_2.jpeg)
-
-**FIGURE 5-3** *(Continued)*
-
-Dilated cardiomyopathy has a genetic and often familial basis in approximately 25 to 50% of cases, and our knowledge of the relevant molecular biology is increasing rapidly. Mutations most commonly involve genes encoding proteins of the cardiac myocyte cytoskeleton and sarcomere. Alcoholism, pregnancy-associated nutritional deficiency, and myocarditis can yield a dilated phenotype.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Hypertrophic Cardiomyopathy</summary><div class="details-content">
-
-Hypertrophic cardiomyopathy is characterized macroscopically by massive myocardial hypertrophy, usually without dilation (see Fig. 5-3C), and often with disproportionate thickening of the ventricular septum relative to the free wall of the left ventricle (ratio > 1.3) (termed *asymmetric septal hypertrophy*). In some patients, the basal septum is markedly thickened at the level of the mitral valve, and the outflow of the left ventricle may be narrowed during systole, yielding dynamic left ventricular outflow tract obstruction. In such cases, contact between the left ventricular outflow tract and the anterior mitral leaflet during ventricular systole (observed by echocardiography as systolic anterior motion of the mitral valve) results in outflow tract endocardial thickening, in a configuration that mirrors the anterior leaflet of the mitral valve (see Fig. 5-3D). The most important microscopic features in HCM include (1) disorganized myocytes and contractile elements within cells (myofiber disarray); (2) extreme myocyte hypertrophy, with myocyte diameters frequently more than 40 μm (normal approximately 15 to 20 μm); and (3) interstitial and replacement fibrosis (see Fig. 5-3F).
-
-Hypertrophic cardiomyopathy usually has a genetic basis. In many patients the disease is familial; remaining cases are sporadic. Over 1500 mutations have been identified in at least 11 genes; almost all occur in genes for sarcomeric proteins, most commonly β-myosin heavy chain and myosin-binding protein C. Occasional cases mimicking HCM are a result of deposition (eg, Fabry's disease).
-
-The clinical course of HCM is variable. Complications include atrial fibrillation with potential mural thrombus formation and embolization, infective endocarditis of the mitral valve, intractable cardiac failure, and sudden death. End-stage heart failure can be accompanied by cardiac dilation. Sudden death is common, with risk related to the degree of hypertrophy and specific gene mutations. Reduced stroke volume results from decreased diastolic filling of the massively hypertrophied left ventricle. Patients with left ventricular obstruction may benefit from septal reduction by surgical myotomy/myectomy or chemical ablation.
-
-</div></details>
-
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 <details class="med-details"><summary>
   
 #### Restrictive Cardiomyopathy</summary><div class="details-content">
@@ -219,11 +174,7 @@ Although veins are usually spared from atherosclerosis, venous grafts interposed
 
 <details class="med-details"><summary>
   
-<<<<<<< HEAD
 ### Pathogenesis</summary><div class="details-content">
-=======
-#### Pathogenesis</summary><div class="details-content">
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 The prevailing theory of lesion formation in atherosclerosis centers on interactions among arterial wall endothelial and vascular smooth muscle cells, circulating monocytes, platelets, and plasma lipoproteins. A key contributor to atherosclerosis is endothelial cell injury induced by chronic hypercholesterolemia, homocystinemia, chemicals in cigarette smoke, viruses, localized hemodynamic forces, systemic hypertension, hyperglycemia, or the local effects of cytokines. These factors cause phenotypic and hence functional changes in endothelial cells, called *endothelial dysfunction*. Endothelial dysfunction causes (1) vasoconstriction owing to decreased production of the vasodilator nitric oxide; (2) increased permeability to lipoproteins; (3) expression of tissue factor leading to thrombosis; and (4) expression of certain injury-induced adhesion molecules leading to adherence of platelets and inflammatory cells.
 
@@ -235,29 +186,17 @@ Clinical manifestations of advanced coronary arterial atherosclerosis occur thro
 
 ![](_page_6_Figure_8.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-4** Acute plaque rupture with superimposed thrombus complicating coronary arterial atherosclerosis and triggering fatal myocardial infarction. (A) Gross photo. (B) Photomicrograph. (The arrow demonstrates the site of plaque rupture.) ([B] 
 
 ![](_page_7_Figure_2.jpeg)
 
 **FIGURE 5-5** Schematic diagram summarizing the morphology, pathogenesis, and complications of atherosclerosis. Plaques usually develop slowly and insidiously over many years, beginning in childhood or shortly thereafter and exerting clinical effect in middle age or later. As described in the text, lesions may progress from a fatty streak to a fibrous plaque and then to plaque complications that lead to disease. ECM = extracellular matrix; SMC = smooth muscle cell. 
-=======
-**FIGURE 5-4** Acute plaque rupture with superimposed thrombus complicating coronary arterial atherosclerosis and triggering fatal myocardial infarction. (A) Gross photo. (B) Photomicrograph. (The arrow demonstrates the site of plaque rupture.) ([B] Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989.)
-
-![](_page_7_Figure_2.jpeg)
-
-**FIGURE 5-5** Schematic diagram summarizing the morphology, pathogenesis, and complications of atherosclerosis. Plaques usually develop slowly and insidiously over many years, beginning in childhood or shortly thereafter and exerting clinical effect in middle age or later. As described in the text, lesions may progress from a fatty streak to a fibrous plaque and then to plaque complications that lead to disease. ECM = extracellular matrix; SMC = smooth muscle cell. (Reproduced with permission from Kumar V, Fausto N, Abbas A, et al: *Robbins/Cotran Pathologic Basis of Disease,* 8th ed. Philadelphia, WB Saunders, 2010.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
 <details class="med-details"><summary>
   
-<<<<<<< HEAD
 ### Role of Acute Plaque Change</summary><div class="details-content">
-=======
-#### Role of Acute Plaque Change</summary><div class="details-content">
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 The onset and prognosis of ischemic heart disease are not well predicted by the angiographically determined extent and severity of luminal obstructions. The conversion of chronic stable angina or an asymptomatic state to an *acute coronary syndrome* (ie, myocardial infarction, unstable angina, and sudden coronary death) is dependent on dynamic vascular changes, such as fracture or rupture of the fibrous cap, exposing deep plaque constituents, and subsequent thrombus, either occlusive, or partial, sometimes with emboli. Less commonly, the change is erosion and/or ulceration of the fibrous cap, setting the stage for platelet aggregation and mural or total thrombosis.
 
@@ -271,7 +210,6 @@ The clinical manifestations of ischemic heart disease most frequently reflect th
 
 </div></details>
 
-<<<<<<< HEAD
 <details class="med-details"><summary>
   
 ### Progression of Ischemic Myocardial Injury</summary><div class="details-content">
@@ -302,41 +240,6 @@ The changes in the myocardium following the onset of myocardial ischemia are seq
 
 ###### *ATP = adenosine triphosphate.
 </div></details>
-=======
-</div></details>
-
-<details class="med-details"><summary>
-  
-### Progression of Ischemic Myocardial Injury</summary><div class="details-content">
-
-The changes in the myocardium following the onset of myocardial ischemia are sequential and the cellular consequences are primarily determined by the severity and duration of flow deprivation (Table 5-1). Within seconds of onset, ischemia induces a transition from aerobic metabolism to anaerobic glycolysis in cardiac myocytes, leading to inadequate production of high-energy phosphates such as ATP, and the accumulation of metabolites such as lactic acid, causing intracellular acidosis. Myocardial function is exquisitely sensitive to these biochemical consequences, with total loss of contraction within 2 minutes in severe ischemia. Nevertheless, ischemic changes in an individual cell are not immediately lethal, and short duration injury is potentially reversible. Irreversible injury of cardiac myocytes marked by cell membrane structural defects occurs only after 20 to 40 minutes within the most severely ischemic area (Fig. 5-6). Lethal injury to clusters of cells owing to severe prolonged ischemia causes *myocardial infarction*.
-
-<details class="med-details"><summary>
-
-#### TABLE 5-1: Approximate Time of Onset and Recognition of Key Features of Ischemic Myocardial Injury</summary><div class="details-content">
-
-| Event/process | Time of onset |
-|---|---|
-| Onset of anaerobic metabolism | Within seconds |
-| Loss of contractility | <2 min |
-| ATP* reduced to 50% of normal | 10 min |
-| ATP* reduced to 10% of normal | 40 min |
-| Irreversible cell injury | 20–40 min |
-| Microvascular injury | >1 h |
-
-| Pathologic feature | Time of recognition |
-|---|---|
-| Ultrastructural features of reversible injury | 5–10 min |
-| Ultrastructural features of irreversible damage | 20–40 min |
-| Wavy fibers | 1–3 h |
-| Staining defect with tetrazolium dye | 2–3 h |
-| Classic histologic features of necrosis | 6–12 h |
-| Gross alterations | 12–24 h |
-
-###### *ATP = adenosine triphosphate.
-</div>
-</details>
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 ![](_page_8_Figure_10.jpeg)
 
@@ -474,13 +377,9 @@ Revascularization early after acute myocardial infarction is rationalized as fol
 
 Percutaneous coronary intervention can restore blood flow through a diseased portion of the coronary circulation obstructed by atherosclerotic plaque and/or thrombotic deposits, and in obstructions in saphenous vein grafts, IMA grafts, and occasionally, coronary arteries in transplanted hearts.
 
-<<<<<<< HEAD
 <details class="med-details"><summary>
   
 ##### Percutaneous Transluminal Coronary Angioplasty (PTCA)</summary><div class="details-content">
-=======
-##### Percutaneous Transluminal Coronary Angioplasty (PTCA)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 In percutaneous transluminal coronary angioplasty (PTCA), the plaque splits at its weakest point and enlargement of the lumen occurs by plaque fracture (the predominant mechanism); and by embolization, compression, redistribution of the plaque contents, and overall mechanical expansion of the vessel wall can also occur. The split extends to the intimal-medial border and often into the media, is accompanied by variable circumferential and longitudinal medial dissection, and can induce a flap that impinges on the lumen. These changes can result in local flow abnormalities and generation of new, thrombogenic blood-contacting surfaces (to some extent similar to what is observed with spontaneously disrupted plaque) and contribute to the propensity for acute thrombotic closure.
 
@@ -488,17 +387,12 @@ The long-term success of PTCA is limited by the development of progressive reste
 
 Although not widely used today, coronary atherectomy of primary or restenosis lesions mechanically can remove obstructive tissue by excision. Deep arterial resection, including medial and even adventitial elements, occurs frequently but has not been associated with acute symptomatic complications. The morphology of arterial vessel healing after directional or rotational atherectomy is similar to that following angioplasty.
 
-<<<<<<< HEAD
 </div></details>
 
 <details class="med-details"><summary>
   
 ##### Stents</summary><div class="details-content">
 
-=======
-##### Stents
-
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 Stents are expandable tubes of metallic or polymeric mesh that are used to split open the vessel wall at the site of balloon angioplasty and thereby mitigate the negative sequelae of PTCA. Stents preserve luminal patency and provide a larger and more regular lumen by acting as a scaffold to support the disrupted vascular wall and minimize flow disruption and thrombus formation. Placement of a stent yields outcomes superior to angioplasty alone in vessels greater than 3 mm in diameter, chronic total occlusions, stenotic vein grafts, restenotic lesions after angioplasty alone, and in patients with myocardial infarction.
 
 Stent technology has undergone a rapid evolution, including sequentially: (1) bare-metal stents (BMS); and (2) drug-eluting stents (DES), both used extensively in clinical interventional cardiology; and more recently (3) completely resorbable/biodegradable stents (RBS). Bare-metal stents for coronary implantation are short tubular segments of metal mesh composed of balloon-expandable 316L stainless steel or nickel-titanium alloy (Nitinol) that range from approximately 2.5 to 3.5 mm in diameter and approximately 1 to 3 cm in length. Development has focused on permitting stents to become more flexible and more easily delivered and deployed, allowing the treatment of a greater number and variety of lesions.
@@ -514,10 +408,7 @@ Drug-eluting stents, which impart the controlled release of drugs from durable p
 **FIGURE 5-10** Stent pathology. (A) Thrombosis. H&E stain. (B) Thickened proliferative neointima separating the stent wires (*black structure*) from the lumen, with bare metal coronary artery stent implanted long term. Movat stain. (Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. Philadelphia: Churchill Livingstone/Elsevier; 2001.)
 
 In contrast to the permanent presence of a foreign body in BMS and DES, RBS provide a scaffold and then ultimately disappear by resorption of foreign scaffold material that may potentiate a thrombotic event, permit more versatility in subsequent therapies, and not interfere with the diagnostic evaluation by noninvasive imaging such as cardiac magnetic resonance and CT. Several RBS are in development or in clinical trials. The key challenge is to balance biomechanics (strength, deliverability, and lesion crossing), potential for side-branch occlusion (owing to thicker struts), durability and biocompatibility, and to control the kinetics of stent degradation at a rate appropriate to maintain mechanical strength to limit recoil.
-<<<<<<< HEAD
 </div></details>
-=======
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -537,21 +428,13 @@ The patency of saphenous vein grafts is reported as 60% at 10 years; occlusion r
 
 ![](_page_15_Picture_3.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-11** Atherosclerosis of saphenous vein bypass graft. (A) Fibrous cap (*between arrows*) is attenuated over the necrotic core (*large asterisk*). Lumen is at upper right. (B) Saphenous vein graft aneurysm. Hematoxylin and eosin (A) 100×; Gross photo. Verhoff von Giesen stain (for elastin) 10×. ([A] Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989. [B] 
-=======
-**FIGURE 5-11** Atherosclerosis of saphenous vein bypass graft. (A) Fibrous cap (*between arrows*) is attenuated over the necrotic core (*large asterisk*). Lumen is at upper right. (B) Saphenous vein graft aneurysm. Hematoxylin and eosin (A) 100×; Gross photo. Verhoff von Giesen stain (for elastin) 10×. ([A] Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989. [B] Reproduced with permission from Liang BT, Antman EM, Taus R, et al: Atherosclerotic aneurysms of aortocoronary vein grafts, *Am J Cardiol.* 1988 Jan 1;61(1):185-188.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 In contrast to saphenous vein grafts, IMA grafts have greater than 90% patency at 10 years (Fig. 5-12). Multiple factors likely contribute to the remarkably higher long-term patency of IMA grafts compared with vein grafts. Although free saphenous vein grafts sustain disruption of their vasa vasorum and nerves, endothelial damage, medial ischemia, and acutely increased internal pressure, an IMA graft generally has minimal preexisting atherosclerosis and requires minimal surgical manipulation, maintains its nutrient blood supply, is adapted to arterial pressures, needs no proximal anastomosis, and has an artery-to-artery distal anastomosis. Graft and recipient vessel have comparable sizes with the IMA but are disparate (graft substantially larger) with saphenous vein. The advent of off-pump and minimally invasive coronary artery bypass grafting has stimulated efforts to facilitate sutureless anastomosis of the graft to the aorta.
 
 ![](_page_15_Picture_5.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-12** Internal mammary artery as coronary artery bypass graft removed 13 years following surgery, demonstrating near-normal morphology, including an intact internal elastic lamina (*arrow*). Verhoff von Giesen stain (for elastin, black) 60×. 
-=======
-**FIGURE 5-12** Internal mammary artery as coronary artery bypass graft removed 13 years following surgery, demonstrating near-normal morphology, including an intact internal elastic lamina (*arrow*). Verhoff von Giesen stain (for elastin, black) 60×. (Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Although advances in medical therapy and PCI have contributed to fewer CABGs performed each year, challenges remain and new technologies are under consideration to make the procedure safer and more efficacious. For example, patients needing revascularization have a much more complicated combination of disease processes and many of the patients have extensive CAD with prior attempts at revascularization. The future of coronary artery bypass grafting may benefit from smaller incisions and potentially robotic endoscopic CABG, facilitated by novel anastomotic devices and intraoperative determination of graft patency. Hybrid surgical/catheterization suites that allow for simultaneous staged CABG and PCI are currently under development.
 
@@ -559,11 +442,8 @@ Although advances in medical therapy and PCI have contributed to fewer CABGs per
 
 </div></details>
   
-<<<<<<< HEAD
 </div></details>
   
-=======
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 <details class="med-details"><summary>
   
 ## VALVULAR HEART DISEASE</summary><div class="details-content">
@@ -590,11 +470,7 @@ All four cardiac valves have a similar microscopically inhomogeneous architectur
 
 ![](_page_17_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-13** Normal mitral and aortic valves. In (A), opened left ventricle of the normal heart, demonstrating mitral valve and components of the mitral apparatus. (B) Aortic valve viewed from distal aspect in open (*bottom*) and closed (*top*) phases. (C) Normal aortic valve histology, demonstrating layered structure, including the fibrosa (f), spongiosa (s), and ventricularis (v) layers. The inflow surface is at bottom. 
-=======
-**FIGURE 5-13** Normal mitral and aortic valves. In (A), opened left ventricle of the normal heart, demonstrating mitral valve and components of the mitral apparatus. (B) Aortic valve viewed from distal aspect in open (*bottom*) and closed (*top*) phases. (C) Normal aortic valve histology, demonstrating layered structure, including the fibrosa (f), spongiosa (s), and ventricularis (v) layers. The inflow surface is at bottom. Verhoeff van Giesen (stain for elastin, black) 150×. ([A] Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989. [B and C] Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Best developed in aortic valve, key specializations facilitating valve function include crimp of collagen fibers along their length, bundles of collagen in the fibrous layer oriented toward the commissures, and grossly visible corrugations; these allow cusps to be extremely soft and pliable when unloaded in systole, but taut and stiff when stretched in diastole. Moreover, the orientation of connective tissue and other architectural elements is nonrandom in the plane of the cusp, yielding greater compliance in the radial than circumferential direction. The fibrous network within the cusps effectively transfers the stresses of the closed phase to the annulus and aortic wall. This minimizes sagging of the cusp centers, preserves maximum coaptation, and prevents regurgitation. Additionally, for the mitral valve, the subvalvular apparatus including tendinous cords and papillary muscles is a critical mechanism of valve competency.
 
@@ -617,19 +493,12 @@ Two types of cells are present in the aortic valve: endothelial cells located su
 ### Pathologic Anatomy of Valvular Heart Disease</summary><div class="details-content">
 
 Cardiac valve operations utilizing replacement or repair usually are undertaken for dysfunction caused by calcification, fibrosis, fusion, retraction, perforation, rupture, stretching, infection, dilation, or congenital malformations of the valve leaflets/cusps or associated structures. Valvular *stenosis*, defined as inhibition of forward flow secondary to obstruction caused by failure of a valve to open completely, is almost always caused by a cuspal abnormality that induces a chronic disease process. In contrast, valvular *insufficiency*, defined as reverse flow caused by failure of a valve to close completely, may result from intrinsic disease of the cusps/leaflets and/or damage to or distortion of the supporting structures (eg, the aorta, mitral annulus, chordae tendineae, papillary muscles, and ventricular free wall). Thus, regurgitation can appear either precipitously, as with cordal rupture, or gradually, as with leaflet scarring and retraction. Both stenosis and insufficiency can coexist in a single valve. The most commonly encountered types of valvular heart disease are illustrated in Figs. 5-14 and 5-15.
-<<<<<<< HEAD
   
 </div></details>
 
 <details class="med-details"><summary>
   
 ### Calcific Aortic Valve Stenosis</summary><div class="details-content">
-=======
-
-<details class="med-details"><summary>
-  
-#### Calcific Aortic Valve Stenosis</summary><div class="details-content">
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Aortic stenosis (AS) is the most common valvular heart disease in Western countries and has serious consequences. The prevalence of AS increases with age, reaching about 3% after the age of 75 in the United States. Thus, the global burden of AS is expected to double within the next 50 years as life expectancy lengthens. The limited available understanding of AS mechanisms and pathobiology has precluded development of effective noninvasive medical treatments. Symptomatic severe AS not treated promptly by corrective surgery has a high mortality as well as high and accelerating symptom burden.
 
@@ -652,49 +521,6 @@ Aortic stenosis induces a pressure gradient across the valve, which may reach 75
 Aortic valve calcification has been traditionally considered a wholly degenerative, dystrophic, and passive process. However, recent studies suggest active regulation of calcification in aortic valves, with mechanisms that include inflammation, lipid infiltration, and phenotypic modulation of VIC to an osteoblastic phenotype, and risk factors overlapping with those of arterial atherosclerosis. Similarities to atherosclerosis have stimulated interest in the possibility that statin drugs may decrease the rate of AS progression; however, benefit of statins for AS has not been supported by clinical studies.
 
 </div></details>
-<<<<<<< HEAD
-=======
-
-<details class="med-details"><summary>
-  
-#### Congenitally Bicuspid Aortic Valve (BAV)</summary><div class="details-content">
-
-Bicuspid aortic valve (BAV) typically has two cusps of unequal size, with the larger (conjoined) cusp having a midline raphe, representing an incomplete separation or congenital fusion of two cusps. Less frequently, the cusps are of equal size (see Fig. 5-14B). Neither stenotic nor symptomatic at birth or throughout early life, BAV are predisposed to accelerated calcification; ultimately, almost all become stenotic. Aortic pathology, including dilation and/or dissection, commonly accompanies BAV. Despite a prevalence of approximately 1%, BAV and other congenital valve abnormalities underlie over two-thirds of AS in children and almost 50% in adults. Infrequently, BAV become purely incompetent, or complicated by infective endocarditis, even when the valve is hemodynamically normal. Only rarely is an uncomplicated BAV encountered incidentally at autopsy.
-
-Recent studies have confirmed previous reports of familial clustering of BAV and left ventricular outflow tract obstruction malformations, and their association with other cardiovascular malformations. For example, mutations in the signaling and transcriptional regulator NOTCH1 caused a spectrum of developmental aortic valve abnormalities and severe calcification in two families with nonsyndromic familial aortic valve disease.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Mitral Annular Calcification</summary><div class="details-content">
-
-Calcific deposits also can develop in the ring (annulus) of the mitral valve of elderly individuals, especially women. Although generally asymptomatic, the calcific nodules may lead to regurgitation by interference with systolic contraction of the mitral valve ring or, very rarely, stenosis by impairing mobility of the mitral leaflets during opening. Occasionally, the calcium deposits may penetrate sufficiently deeply to impinge on the atrioventricular conduction system to produce arrhythmias (and rarely sudden death). Patients with mitral annular calcification have an increased risk of stroke, and the calcific nodules, especially if ulcerated, can be the nidus for thrombotic deposits or infective endocarditis. Mitral annular calcification can also mimic a left ventricular neoplasm.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Rheumatic Heart Disease</summary><div class="details-content">
-
-Rheumatic fever is an acute, often recurrent, inflammatory disease that generally follows a pharyngeal infection with group A beta-hemolytic streptococci, principally in children. In the past several decades, rheumatic fever and rheumatic heart disease have declined markedly but not disappeared in the United States and other developed countries. Evidence strongly suggests that rheumatic fever is the result of an immune response to streptococcal antigens, inciting either a cross-reaction to tissue antigens or a streptococcal-induced autoimmune reaction to normal tissue antigens.
-
-Chronic rheumatic heart disease most frequently affects the mitral and to a lesser extent the aortic and/or the tricuspid valves. Usually dominated by mitral stenosis, chronic rheumatic valve disease is characterized by fibrous or fibrocalcific thickening of leaflets and tendinous cords, and commissural and chordal fusion (see Fig. 5-15A and B). Stenosis results from leaflet and chordal fibrous thickening and commissural fusion, with or without secondary calcification. Regurgitation usually results from postinflammatory scarring-induced retraction of cords and leaflets. Combinations of lesions may yield valves that are both stenotic and regurgitant. Although considered the pathognomonic inflammatory myocardial lesions in acute rheumatic fever, Aschoff nodules are found infrequently in myocardium sampled at autopsy or at valve replacement surgery, most likely reflecting the extended interval from acute disease to critical functional impairment.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Degeneration of the Mitral Valve (Mitral Valve Prolapse)</summary><div class="details-content">
-
-Degenerative mitral valve disease (mitral valve prolapse) causes chronic, pure, isolated mitral regurgitation by leaflet stretching and prolapse into the left atrium and occasionally cordal rupture. Owing to improved imaging technology and large community studies, a prevalence of mitral valve prolapse (MVP) of approximately 2% has been established. Potentially serious complications include progressive congestive heart failure, infective endocarditis, stroke, or other manifestation of thromboembolism, sudden death, or atrial fibrillation. Mitral valve prolapse is the most common indication for mitral valve repair or replacement.
-
-In MVP, one or both mitral leaflets are enlarged, redundant, or floppy and will prolapse or balloon back into the left atrium during ventricular systole (see Fig. 5-15C). The three characteristic anatomic changes in MVP are: (1) intercordal ballooning (hooding) of the mitral leaflets or portions thereof (most frequently involving the posterior leaflet), sometimes accompanied by elongated, thinned, or ruptured cords; (2) rubbery diffuse leaflet thickening that hinders adequate coaptation and interdigitation of leaflet tissue during valve closure; and (3) annular dilation, with diameters and circumferences that may exceed 3.5 and 11.0 cm, respectively (see Fig. 5-15D). Pathologic mitral annular enlargement predominates in and may be confined to the posterior leaflet, because the anterior leaflet is firmly anchored by the fibrous tissue at the aortic valve and is far less distensible. The key microscopic change is myxomatous degeneration with attenuation or focal disruption of the fibrous layer of the valve, weakening the leaflet. Focal or diffuse thickening of the spongy layer by proteoglycan deposition gives the tissue an edematous, blue appearance on microscopy (called myxomatous by pathologists). Concomitant involvement of the tricuspid valve is present in some cases, and the aortic and pulmonary valves are rarely affected.
-
-Secondary changes may occur, including (1) fibrous thickening along both surfaces of the valve leaflets; (2) linear thickening of the subjacent mural endocardium of the left ventricle as a consequence of friction-induced injury by cordal hamstringing of the prolapsing leaflets; (3) thrombi on the atrial surfaces of the leaflets, particularly in the recesses behind the ballooned leaflet segments; (4) calcification along the base of the posterior mitral leaflet; and (5) cordal thickening and fusion that can resemble postrheumatic disease.
-
-Although the pathogenesis of mitral valve degeneration is uncertain, this valvular abnormality is a common feature of Marfan's syndrome and occasionally other hereditary connective tissue disorders such as Ehlers-Danlos syndrome, suggesting an analogous connective tissue defect. In heritable disorders of connective tissue, including Marfan's syndrome, MVP is usually associated with mutations in fibrillin-1 (FBN-1); recent evidence also has implicated abnormal TGF-β signaling (similar to the aortic abnormalities in the pathogenesis of Marfan's syndrome and related disorders). Although it is unlikely that more than 1 to 2% of patients with MVP have an identifiable connective tissue disorder, studies utilizing genetic linkage analysis have mapped families with autosomal dominant MVP to specific chromosomal abnormalities, several of which involve genes that could be involved in valvular tissue remodeling.
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 <details class="med-details"><summary>
   
@@ -702,7 +528,6 @@ Although the pathogenesis of mitral valve degeneration is uncertain, this valvul
 
 Bicuspid aortic valve (BAV) typically has two cusps of unequal size, with the larger (conjoined) cusp having a midline raphe, representing an incomplete separation or congenital fusion of two cusps. Less frequently, the cusps are of equal size (see Fig. 5-14B). Neither stenotic nor symptomatic at birth or throughout early life, BAV are predisposed to accelerated calcification; ultimately, almost all become stenotic. Aortic pathology, including dilation and/or dissection, commonly accompanies BAV. Despite a prevalence of approximately 1%, BAV and other congenital valve abnormalities underlie over two-thirds of AS in children and almost 50% in adults. Infrequently, BAV become purely incompetent, or complicated by infective endocarditis, even when the valve is hemodynamically normal. Only rarely is an uncomplicated BAV encountered incidentally at autopsy.
 
-<<<<<<< HEAD
 Recent studies have confirmed previous reports of familial clustering of BAV and left ventricular outflow tract obstruction malformations, and their association with other cardiovascular malformations. For example, mutations in the signaling and transcriptional regulator NOTCH1 caused a spectrum of developmental aortic valve abnormalities and severe calcification in two families with nonsyndromic familial aortic valve disease.
 
 </div></details>
@@ -769,36 +594,6 @@ Infective endocarditis is characterized by colonization or invasion of the heart
 
 The clinical classification into acute and subacute forms is based on the severity and tempo of the disease, virulence of the infecting microorganism, and presence of underlying cardiac disease. *Acute endocarditis* is a destructive infection by a highly virulent organism, often involving a previously normal heart valve, and leading to death within days to weeks in more than 50% of patients if left untreated. In contrast, in a more indolent lesion, called *subacute endocarditis*, organisms of low virulence cause infection on previously deformed valves; in this situation, the infection may pursue a protracted course of weeks to months during which the infection may be undetected and untreated.
 
-=======
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Ischemic Mitral Regurgitation (IMR)</summary><div class="details-content">
-
-In ischemic mitral regurgitation (IMR), also called functional mitral regurgitation, myocardial structure and function are altered by ischemic injury; in contrast to degenerative valve disease, the leaflets are intrinsically normal. Present in many patients with CAD, IMR worsens prognosis following myocardial infarction, with reduced survival directly related to the severity of the regurgitation. Mechanisms of IMR include an ischemic papillary muscle that fails to tighten the cords during systole, and fibrotic, shortened papillary muscle that fixes the chordae deeply within the ventricle. Nevertheless, papillary muscle dysfunction alone is generally insufficient to produce IMR, and regional dysfunction and dilation with an increasing spherical shape of the left ventricle, which pulls the papillary muscles down and away from the center of the chamber, usually contributes. Although there is substantial interest in developing surgical and/or percutaneous approaches to the repair of IMR, the degree to which correcting IMR improves survival and/or symptoms remains uncertain.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Carcinoid and Drug-Induced Valve Disease</summary><div class="details-content">
-
-Patients with the carcinoid syndrome often develop plaque-like intimal thickenings of the endocardium of the tricuspid valve, right ventricular outflow tract, and pulmonary valve superimposed on otherwise unaltered endocardium. The left side of the heart is usually unaffected. These lesions are related to elaboration by carcinoid tumors (most often primary in the gut) of bioactive products, including serotonin, which cause valvular endothelial cell proliferation but are inactivated by passage through the lung.
-
-Left-sided but similar valve lesions have been reported to complicate the administration of fenfluramine and phentermine (fen-phen), appetite suppressants used for the treatment of obesity, which may affect systemic serotonin metabolism. Typical diet drug-associated plaques have proliferation of myofibroblast-like cells in a myxoid stroma. Similar left-sided plaques may be found in patients who receive methysergide or ergotamine therapy for migraine headaches; these serotonin analogs are metabolized to serotonin as they pass through the pulmonary vasculature. Moreover, drug-related valve disease has been reported in patients taking pergolide mesylate, an ergot-derived dopamine receptor agonist used to treat Parkinson's disease and restless leg syndrome.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Infective Endocarditis</summary><div class="details-content">
-
-Infective endocarditis is characterized by colonization or invasion of the heart valves, mural endocardium, aorta, aneurysmal sacs, or other blood vessels, by a microbiologic agent, leading to the formation of friable vegetations laden with organisms, fibrin, and inflammatory cells (Fig. 5-16). Although virtually any type of microbiologic agent can cause infective endocarditis, most cases are bacterial.
-
-The clinical classification into acute and subacute forms is based on the severity and tempo of the disease, virulence of the infecting microorganism, and presence of underlying cardiac disease. *Acute endocarditis* is a destructive infection by a highly virulent organism, often involving a previously normal heart valve, and leading to death within days to weeks in more than 50% of patients if left untreated. In contrast, in a more indolent lesion, called *subacute endocarditis*, organisms of low virulence cause infection on previously deformed valves; in this situation, the infection may pursue a protracted course of weeks to months during which the infection may be undetected and untreated.
-
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 *Staphylococcus aureus* is the leading cause of acute endocarditis and produces necrotizing, ulcerative, invasive, and highly destructive valvular infections. The subacute form is usually caused by *Streptococcus viridans*. Cardiac abnormalities, such as chronic rheumatic heart disease, congenital heart disease (particularly anomalies that have small shunts or tight stenoses creating high-velocity jet streams), degenerative mitral valves, BAVs, and artificial valves and their sewing rings predispose to endocarditis. In intravenous drug abusers, left-sided lesions predominate, but right-sided valves are commonly affected. In about 5 to 20% of all cases of endocarditis, no organism can be isolated from the blood (*culture-negative endocarditis*), often because of prior antibiotic therapy or organisms difficult to culture.
 
 The modified Duke criteria provide a standardized assessment of patients with suspected infective endocarditis that integrates factors predisposing patients to the development of infective endocarditis, blood-culture evidence of infection, echocardiographic findings, and clinical and laboratory information. The previously important clinical findings of petechiae, subungual hemorrhages, Janeway's lesions, Osler's nodes, and Roth's spots in the eyes (secondary to retinal microemboli) have now become uncommon owing to the shortened clinical course of the disease as a result of antibiotic therapy.
@@ -817,23 +612,12 @@ The complications of endocarditis include valvular insufficiency (rarely stenosi
 
 </div></details>
 
-<<<<<<< HEAD
 <details class="med-details"><summary>
   
 ### Valve Reconstruction and Repair</summary><div class="details-content">
 
 Reconstructive procedures to repair mitral insufficiency of various etiologies and to minimize the severity of rheumatic mitral stenosis are now highly effective and commonplace. Reconstructive therapy of selected patients with aortic insufficiency (AI) and aortic dilation may also be done in some cases, but repair of AS has been notably more challenging. The major advantage of repair over replacement relates to the elimination of both prosthesis-related complications and the need for chronic anticoagulation therapy. Other reported advantages include a lower hospital mortality, better long-term function owing to the ability to maintain the continuity of the mitral apparatus, and a lower rate of postoperative endocarditis. Figures 5-17 and 5-18 illustrate the pathologic anatomy of various open and catheter-based mitral valve reconstruction procedures. Figure 5-19 illustrates a key difficulty of surgical repairs for AS, in that the cuspal calcification extends nearly to the inflow surface.
 
-=======
-</div></details>
-
-<details class="med-details"><summary>
-  
-### Valve Reconstruction and Repair</summary><div class="details-content">
-
-Reconstructive procedures to repair mitral insufficiency of various etiologies and to minimize the severity of rheumatic mitral stenosis are now highly effective and commonplace. Reconstructive therapy of selected patients with aortic insufficiency (AI) and aortic dilation may also be done in some cases, but repair of AS has been notably more challenging. The major advantage of repair over replacement relates to the elimination of both prosthesis-related complications and the need for chronic anticoagulation therapy. Other reported advantages include a lower hospital mortality, better long-term function owing to the ability to maintain the continuity of the mitral apparatus, and a lower rate of postoperative endocarditis. Figures 5-17 and 5-18 illustrate the pathologic anatomy of various open and catheter-based mitral valve reconstruction procedures. Figure 5-19 illustrates a key difficulty of surgical repairs for AS, in that the cuspal calcification extends nearly to the inflow surface.
-
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 <details class="med-details"><summary>
   
 #### Mitral Stenosis: Commissurotomy and Valvuloplasty</summary><div class="details-content">
@@ -850,11 +634,7 @@ Percutaneous balloon mitral valvuloplasty has been used to treat mitral stenosis
 
 ![](_page_24_Picture_5.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-17** Open surgical reconstructive procedures for mitral valve disease. (A) Mitral commissurotomy in mitral stenosis; incised commissures are indicated by arrows. (B) Mitral valve repair with annuloplasty ring. (C) Dehiscence of mitral annuloplasty ring (*arrow*). (D) ePTFE suture replacement (*arrow*) of ruptured cord in myxomatous mitral valve. ([A] 
-=======
-**FIGURE 5-17** Open surgical reconstructive procedures for mitral valve disease. (A) Mitral commissurotomy in mitral stenosis; incised commissures are indicated by arrows. (B) Mitral valve repair with annuloplasty ring. (C) Dehiscence of mitral annuloplasty ring (*arrow*). (D) ePTFE suture replacement (*arrow*) of ruptured cord in myxomatous mitral valve. ([A] Reproduced with permission from Schoen FJ. Surgical pathology of removed natural and prosthetic heart valves, *Hum Pathol.* 1987 Jun;18(6):558-67. [C] Used with permission from William A. Muller, MD, PhD, Northwestern University School of Medicine, Chicago.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -870,11 +650,7 @@ Percutaneous approaches currently being evaluated for mitral regurgitation attem
 
 ![](_page_25_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-18** Percutaneous correction of mitral regurgitation. (A) Schematic approach utilizing the proximity of the coronary sinus to the posterior mitral annulus to effect a simulated annuloplasty. Diagram showing the relationship of the coronary sinus and the posterior leaflet of the mitral valve. A remodeling device is seen within the coronary sinus. (B) The Monarc device consists of two anchoring stents with a bridge connector that shortens approximately 25% over the space of weeks with the intention of reducing the dimensions of the mitral annulus. (C and D) Edge-to-edge approximation of the anterior and posterior leaflets of the mitral valve is achieved by deployment of clip (Evalve mitral clip device) that is analogous to an Alfieri stitch, thereby creating a double orifice with improved leaflet coaptation. 
-=======
-**FIGURE 5-18** Percutaneous correction of mitral regurgitation. (A) Schematic approach utilizing the proximity of the coronary sinus to the posterior mitral annulus to effect a simulated annuloplasty. Diagram showing the relationship of the coronary sinus and the posterior leaflet of the mitral valve. A remodeling device is seen within the coronary sinus. (B) The Monarc device consists of two anchoring stents with a bridge connector that shortens approximately 25% over the space of weeks with the intention of reducing the dimensions of the mitral annulus. (C and D) Edge-to-edge approximation of the anterior and posterior leaflets of the mitral valve is achieved by deployment of clip (Evalve mitral clip device) that is analogous to an Alfieri stitch, thereby creating a double orifice with improved leaflet coaptation. (Reproduced with permission from McManus BM, Braunwald E: *Atlas of Cardiovascular Pathology for the Clinician.* Philadelphia: Current Medicine; 2008.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -892,11 +668,7 @@ In calcific AS, the calcific deposits arise deep in the valve fibrous layer (see
 
 ![](_page_26_Picture_4.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-19** Reconstructive procedures for aortic stenosis. (A) Aortic valve balloon valvuloplasty for degenerative calcific aortic stenosis, demonstrating fractures of nodular deposits of calcifications highlighted by tapes. (B and C) Operative decalcification of the aortic valve. (B) Aortic valve after operative mechanical decalcification demonstrating perforated cusp. (C) Low-power photomicrograph of cross-section of aortic valve cusp after decalcification with lithotripter. Weigert elastic stain. Ca = calcium. ([A] 
-=======
-**FIGURE 5-19** Reconstructive procedures for aortic stenosis. (A) Aortic valve balloon valvuloplasty for degenerative calcific aortic stenosis, demonstrating fractures of nodular deposits of calcifications highlighted by tapes. (B and C) Operative decalcification of the aortic valve. (B) Aortic valve after operative mechanical decalcification demonstrating perforated cusp. (C) Low-power photomicrograph of cross-section of aortic valve cusp after decalcification with lithotripter. Weigert elastic stain. Ca = calcium. ([A] Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001. [B and C] Reproduced with permission from Schoen FJ: *Interventional and Surgical Cardiovascular Pathology: Clinical Correlations and Basic Principles.* Philadelphia: Saunders; 1989.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -920,11 +692,7 @@ Improvement in late outcome has occurred predominantly from earlier referral of 
 
 ![](_page_28_Picture_4.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-20** Photographs of the widely used types of heart valve substitutes. (A) Bileaflet tilting disk mechanical heart valve (St. Jude Medical, St. Jude Medical Inc., St. Paul, MN). (B) Porcine aortic valve bioprosthesis (Hancock, Medtronic Heart Valves, Santa Ana, CA). (C) Bovine pericardial bioprosthesis 
-=======
-**FIGURE 5-20** Photographs of the widely used types of heart valve substitutes. (A) Bileaflet tilting disk mechanical heart valve (St. Jude Medical, St. Jude Medical Inc., St. Paul, MN). (B) Porcine aortic valve bioprosthesis (Hancock, Medtronic Heart Valves, Santa Ana, CA). (C) Bovine pericardial bioprosthesis (Carpentier-Edwards, Edwards Life Sciences, Santa Ana, CA). (Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 <details class="med-details"><summary>
 
@@ -940,15 +708,11 @@ Improvement in late outcome has occurred predominantly from earlier referral of 
 | Heterograft/xenograft bioprostheses | Carpentier-Edwards (porcine and bovine pericardial), Hancock (porcine), Ionescu-Shiley (bovine pericardial), Mitroflow (bovine pericardial) | ++ | +++ | ++ |
 | Homograft/allograft | Cryopreserved human aortic/pulmonary valve | ++++ | ++++ | ++ |
 
-<<<<<<< HEAD
 ###### Presently or previously. 
 - †Except Bjork-Shiley 60°/70° convexo-concave valve (see text). 
 - ‡Except previous model of Edwards-Duromedics valve (see text). 
 ##### Performance criteria: 
 - *+* = least favorable to ++++ = most favorable. 
-=======
-###### Presently or previously. †Except Bjork-Shiley 60°/70° convexo-concave valve (see text). ‡Except previous model of Edwards-Duromedics valve (see text). Performance criteria: + = least favorable to ++++ = most favorable. Data from Vongpatanasin, et al.
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 </div>
 </details>
 
@@ -969,20 +733,12 @@ Although early prosthetic valve–associated complications are unusual, prosthet
 | Structural dysfunction (intrinsic) | Wear; Fracture; Poppet escape; Cuspal tear; Calcification; Commissural region dehiscence |
 | Nonstructural dysfunction (most extrinsic) | Pannus (tissue overgrowth); Entrapment by suture or tissue; Paravalvular leak; Disproportion; Hemolytic anemia; Noise |
 
-<<<<<<< HEAD
 </div></details>
 
 <details class="med-details">
 <summary>
   
 ##### Thrombosis and Thromboembolism</summary><div class="details-content">
-=======
-###### Modified with permission from Schoen FJ, Levy RJ, Piehler HR: Pathological considerations in replacement cardiac valves, *Cardiovasc Pathol.* 1992 Jan-Mar;1(1):29-52.
-</div>
-</details>
-
-##### Thrombosis and Thromboembolism
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Thromboembolic complications are the major valve-related cause of mortality and morbidity after replacement with mechanical valves, and patients receiving them require lifetime chronic therapeutic anticoagulation with warfarin derivatives. Thrombotic deposits on a prosthetic valve can immobilize the occluder(s) or cusps, or shed emboli (Fig. 5-21). Owing to biologic material and central flow, tissue valves are less thrombogenic than mechanical valves; their recipients generally do not require long-term anticoagulation in the absence of another specific indication, such as atrial fibrillation. Nevertheless, the rate of thromboembolism in patients with mechanical valves on anticoagulation is not widely different from that in patients with bioprosthetic valves without anticoagulation (2 to 4% per year). Chronic oral anticoagulation also carries a risk of hemorrhage. Anticoagulation is particularly difficult to manage in pregnant women. The risk of thromboembolism is potentiated by preoperative or postoperative cardiac functional impairment.
 
@@ -997,14 +753,10 @@ Although platelet deposition dominates initial blood-surface interaction, and pr
 **FIGURE 5-21** Thrombotic occlusion of substitute heart valves. (A) Bileaflet tilting disk prosthesis, with thrombus initiated in the region of the pivot guard, causing near-total occluder immobility. (B) Porcine bioprosthesis, with thrombus filling the bioprosthetic sinuses of Valsalva. ([A] Reproduced with permission from Buchart EG, Bodnar E: *Thrombosis, Embolism, and Bleeding.* London: ICR Publishers; 1992. [B] 
 </div></details>
 
-<<<<<<< HEAD
 <details class="med-details"><summary>
   
 ##### Prosthetic Valve Endocarditis</summary>
 <div class="details-content">
-=======
-##### Prosthetic Valve Endocarditis
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Prosthetic valve infective endocarditis (Fig. 5-22) occurs in 3 to 6% of recipients of substitute valves. Infection can occur early or late. The microbial etiology of early prosthetic valve endocarditis (<60 days postoperative) is dominated by *Staphylococcus epidermidis* and *S. aureus*, even though prophylactic regimens used today target these microorganisms. The clinical course of early prosthetic valve endocarditis tends to be fulminant. In the generally less virulent late endocarditis, a source of infection and/or bacteremia can often be found; the most frequent initiators are dental procedures, urologic infections and interventions, and indwelling catheters. The most common organisms in these late infections are *S. epidermidis*, *S. aureus*, *S. viridans*, and enterococci. Rates of infection of bioprostheses and mechanical valves are similar, and previous endocarditis on a natural or substitute valve markedly increases the risk.
 
@@ -1019,14 +771,10 @@ Infections associated with mechanical prosthetic valves and some with bioprosthe
 **FIGURE 5-22** Prosthetic valve endocarditis. (A) Endocarditis with large ring abscess (*arrow*) observed from ventricular surface of aortic Bjork-Shiley tilting disk prosthesis in patient who died suddenly. Ring abscess impinged on proximal atrioventricular conduction system. (B and C) Bioprosthetic valve endocarditis viewed from inflow (B) and outflow (C) aspects. 
 </div></details>
 
-<<<<<<< HEAD
 <details class="med-details"><summary>
   
 ##### Structural Valve Dysfunction</summary>
 <div class="details-content">
-=======
-##### Structural Valve Dysfunction
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Prosthetic valve dysfunction owing to materials degradation can necessitate reoperation or cause prosthesis-associated death (Fig. 5-23). Durability considerations vary widely for mechanical valves and bioprostheses, specific types of each, different models of a particular prosthesis (utilizing different materials or having different design features), and even for the same model prosthesis placed in the aortic rather than the mitral site. Mechanical valve structural failure is often catastrophic and may be life threatening; in contrast, bioprosthetic valve failure generally causes progressive symptomatic deterioration.
 
@@ -1044,18 +792,12 @@ The morphology and determinants of calcification of bioprosthetic valve tissue h
 
 ![](_page_31_Picture_10.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-23** Structural valve dysfunction. (A) Disk fracture and escape in a Hemex-Duramedics heart valve prosthesis. (B and C) Porcine valve primary tissue failure owing to calcification with severe stenosis. (B) Gross photograph. (C) Photomicrograph demonstrating predominant site of calcification in cells of the residual porcine valve matrix (*arrows*). (D) Clinical porcine bioprosthesis with noncalcific tear of one cusp (*arrow*). ([A] 
 </div></details>
 
 <details class="med-details"><summary>
   
 ##### Nonstructural Dysfunction</summary><div class="details-content">
-=======
-**FIGURE 5-23** Structural valve dysfunction. (A) Disk fracture and escape in a Hemex-Duramedics heart valve prosthesis. (B and C) Porcine valve primary tissue failure owing to calcification with severe stenosis. (B) Gross photograph. (C) Photomicrograph demonstrating predominant site of calcification in cells of the residual porcine valve matrix (*arrows*). (D) Clinical porcine bioprosthesis with noncalcific tear of one cusp (*arrow*). ([A] Reproduced with permission from Schoen FJ, Levy RJ, Piehler HR: Pathological considerations in replacement cardiac valves, *Cardiovasc Pathol.* 1992 Jan-Mar;1(1):29-52. [B] Reproduced with permission from Schoen FJ, et al: Long-term failure rate and morphologic correlations in porcine bioprosthetic heart valves, *Am J Cardiol.* 1983 Mar 15;51(6):957-964. [C] Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001.)
-
-##### Nonstructural Dysfunction
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 Nonstructural dysfunction of substitute heart valves are illustrated in Fig. 5-24. Paravalvular defects may be clinically inconsequential, may aggravate hemolysis, or may cause heart failure through regurgitation. Early paravalvular leaks may be related to suture knot failure, inadequate suture placement, or separation of sutures from a pathologic annulus in endocarditis with ring abscess, myxomatous valvular degeneration, or calcified valvular annulus as in calcific AS or mitral annular calcification. Late small paravalvular leaks usually are caused by tissue retraction from the sewing ring between sutures during healing. Small paravalvular defects are difficult to locate by surgical or pathologic examination (see Fig. 5-24A).
 
@@ -1071,12 +813,8 @@ Extrinsic factors can mediate late prosthetic valve stenosis or regurgitation, i
 
 ![](_page_33_Picture_6.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-24** Nonstructural dysfunction of prosthetic heart valves. (A) Paravalvular leak adjacent to mitral valve prosthesis (*arrow*). (B) Tissue overgrowth compromising inflow orifice of porcine bioprosthesis. (C) Tissue overgrowth incorporating and resultant retraction and obliteration of bioprosthetic valve cusps. (D) Immobility of tilting disk leaflet by impingement of retained component of submitral apparatus (*arrow*) that had moved through orifice late following mitral valve replacement surgery. (E) Suture (*arrow*) looped around central strut of a Hall-Medtronic tilting disk valve causing disk immobility. ([A and C] 
 </div></details>
-=======
-**FIGURE 5-24** Nonstructural dysfunction of prosthetic heart valves. (A) Paravalvular leak adjacent to mitral valve prosthesis (*arrow*). (B) Tissue overgrowth compromising inflow orifice of porcine bioprosthesis. (C) Tissue overgrowth incorporating and resultant retraction and obliteration of bioprosthetic valve cusps. (D) Immobility of tilting disk leaflet by impingement of retained component of submitral apparatus (*arrow*) that had moved through orifice late following mitral valve replacement surgery. (E) Suture (*arrow*) looped around central strut of a Hall-Medtronic tilting disk valve causing disk immobility. ([A and C] Reproduced with permission from Schoen FJ, Gimbrone MA: *Cardiovascular Pathology: Clinicopathologic Correlations and Pathogenetic Mechanisms.* Philadelphia: Williams & Wilkins; 1995. [B] Reproduced with permission from Schoen FJ, Levy RJ, Piehler HR: Pathological considerations in replacement cardiac valves, *Cardiovasc Pathol.* 1992 Jan-Mar;1(1):29-52. [D] Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001. [E] Used with permission from the Chief Medical Examiner, New York City.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -1102,11 +840,7 @@ Often called the *Ross operation* in recognition of its originator, Sir Donald R
 
 ![](_page_34_Figure_4.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-25** Morphology of valve allografts (homografts) and pulmonary valve autografts. (A) Gross photograph of pulmonary valve allograft removed following 7 years for conduit stenosis in a child. The pulmonary arterial wall is heavily calcified but the cusps are not. (B) Gross appearance of cryopreserved aortic valve allograft removed at 3 years for aortic insufficiency. (C) Comparative morphologic features of autografts and homografts obtained from the same patients. Autograft valves had near-normal structure and cellular population (a, c, e), in contrast, homografts from the same patients (b, d, f) had a progressive collagen hyalinization and loss of cellularity. Bar = 200 μm ×400. 
-=======
-**FIGURE 5-25** Morphology of valve allografts (homografts) and pulmonary valve autografts. (A) Gross photograph of pulmonary valve allograft removed following 7 years for conduit stenosis in a child. The pulmonary arterial wall is heavily calcified but the cusps are not. (B) Gross appearance of cryopreserved aortic valve allograft removed at 3 years for aortic insufficiency. (C) Comparative morphologic features of autografts and homografts obtained from the same patients. Autograft valves had near-normal structure and cellular population (a, c, e), in contrast, homografts from the same patients (b, d, f) had a progressive collagen hyalinization and loss of cellularity. Bar = 200 μm ×400. (Reproduced with permission from Rabkin-Aikawa E, Aikawa M, Farber M, et al: Clinical pulmonary autograft valves: pathological evidence of adaptive remodeling in the aortic site, *J Thorac Cardiovasc Surg.* 2004 Oct;128(4):552-561.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -1164,11 +898,7 @@ Transcatheter heart valves (THVs) are susceptible to failure modes typical to th
 
 ![](_page_36_Picture_6.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-26** Transcatheter valves. (A) The Cribier-Edwards/Sapien valve consists of three equine pericardial leaflets fixed to a balloon-expandable steel stent. It is hand crimped over a delivery balloon prior to deployment. (B) The CoreValve system is constructed of porcine pericardium attached to a self-expanding nickel-titanium alloy (nitinol) stent. The ventricular portion has a high radial force to compress the native valve. The midportion is tapered to avoid interference with the coronary arteries. The aortic portion is flared to provide additional fixation against the wall of the ascending aorta. (C) The Melody pulmonary valve is constructed from a bovine jugular venous valve attached with sutures to a platinum-iridium alloy stent. Its use is primarily in failed surgically constructed right ventricular to pulmonary artery conduits in the pediatric population. (D) Postmortem photograph from a patient who died following percutaneous valve implantation. The valve prosthesis can be seen to be fully expanded within the left ventricular outflow tract with good leaflet coaptation. The interventricular septum can be seen to the left and the anterior leaflet of the mitral valve to the right. (E) Specimen from a patient who had a valve-in-valve procedure. 
-=======
-**FIGURE 5-26** Transcatheter valves. (A) The Cribier-Edwards/Sapien valve consists of three equine pericardial leaflets fixed to a balloon-expandable steel stent. It is hand crimped over a delivery balloon prior to deployment. (B) The CoreValve system is constructed of porcine pericardium attached to a self-expanding nickel-titanium alloy (nitinol) stent. The ventricular portion has a high radial force to compress the native valve. The midportion is tapered to avoid interference with the coronary arteries. The aortic portion is flared to provide additional fixation against the wall of the ascending aorta. (C) The Melody pulmonary valve is constructed from a bovine jugular venous valve attached with sutures to a platinum-iridium alloy stent. Its use is primarily in failed surgically constructed right ventricular to pulmonary artery conduits in the pediatric population. (D) Postmortem photograph from a patient who died following percutaneous valve implantation. The valve prosthesis can be seen to be fully expanded within the left ventricular outflow tract with good leaflet coaptation. The interventricular septum can be seen to the left and the anterior leaflet of the mitral valve to the right. (E) Specimen from a patient who had a valve-in-valve procedure. (Reproduced with permission from McManus BM, Braunwald E: *Atlas of Cardiovascular Pathology for the Clinician.* Philadelphia: Current Medicine; 2008.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -1216,23 +946,9 @@ Improved immunosuppressive regimens in heart transplant patients have substantia
 
 Acute cellular rejection is characterized histologically by an inflammatory cell infiltrate, with or without damage to cardiac myocytes; in late stages, vascular injury may become prominent (Fig. 5-28). The current International Society for Heart and Lung Transplantation (ISHLT) grading system for acute cellular rejection, revised (denoted by "R") in 2004 from the 1990 version, is: Grade 0R — no rejection; Grade 1R — mild rejection (1990 grades 1A, 1B, and 2); Grade 2R — moderate rejection (1990 grade 3A); and Grade 3R — severe rejection (1990 grades 3B and 4). The 1990 and 2004 formulations are compared in Table 5-4.
 
-</div></details>
-
-<details class="med-details"><summary>
-  
-#### Rejection</summary><div class="details-content">
-
-Improved immunosuppressive regimens in heart transplant patients have substantially decreased the incidence and severity of rejection episodes. Hyperacute rejection occurs rarely, most often when a major blood group incompatibility exists between donor and recipient, and acute rejection is unusual earlier than 2 to 4 weeks postoperatively. Although acute rejection episodes occur largely in the first several months after transplantation, rejection can occur years postoperatively, rationalizing the practice of many transplant centers to continue late surveillance biopsies at late but widely spaced intervals.
-
-Acute cellular rejection is characterized histologically by an inflammatory cell infiltrate, with or without damage to cardiac myocytes; in late stages, vascular injury may become prominent (Fig. 5-28). The current International Society for Heart and Lung Transplantation (ISHLT) grading system for acute cellular rejection, revised (denoted by "R") in 2004 from the 1990 version, is: Grade 0R — no rejection; Grade 1R — mild rejection (1990 grades 1A, 1B, and 2); Grade 2R — moderate rejection (1990 grade 3A); and Grade 3R — severe rejection (1990 grades 3B and 4). The 1990 and 2004 formulations are compared in Table 5-4.
-
 ![](_page_39_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-28** Histologic features of cardiac transplant rejection, designated as International Society for Heart and Lung Transplantation (ISHLT), 2004 Formulation, grades of rejection. (A–C) Grade 1R (mild). Focal perivascular lymphocytic and diffuse interstitial lymphocytic infiltrate without damage to adjacent myocytes, and up to one focus of dense lymphocytic infiltrate with associated myocyte damage, respectively. (D) Grade 2R (moderate). Multiple foci of dense lymphocytic infiltrates with associated myocyte damage and intervening areas of uninvolved myocardium. (E and F) Grade 3R (severe). Diffuse infiltrate with associated myocyte damage and polymorphous infiltrate with extensive myocyte damage, edema, and hemorrhage, respectively. 
-=======
-**FIGURE 5-28** Histologic features of cardiac transplant rejection, designated as International Society for Heart and Lung Transplantation (ISHLT), 2004 Formulation, grades of rejection. (A–C) Grade 1R (mild). Focal perivascular lymphocytic and diffuse interstitial lymphocytic infiltrate without damage to adjacent myocytes, and up to one focus of dense lymphocytic infiltrate with associated myocyte damage, respectively. (D) Grade 2R (moderate). Multiple foci of dense lymphocytic infiltrates with associated myocyte damage and intervening areas of uninvolved myocardium. (E and F) Grade 3R (severe). Diffuse infiltrate with associated myocyte damage and polymorphous infiltrate with extensive myocyte damage, edema, and hemorrhage, respectively. (H&E stain). (Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 <details class="med-details"><summary>
 
@@ -1285,11 +1001,7 @@ Early diagnosis of graft vasculopathy is limited by the lack of clinical symptom
 
 ![](_page_41_Picture_5.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-29** Gross and microscopic features of graft coronary disease and graft arteriosclerosis-induced myocardial pathology in heart transplant recipients. (A) Gross photograph of transverse cross-section of heart from patient who died of graft arteriosclerosis. Severe concentric stenosis of an epicardial coronary is apparent with only a pinhole lumen (*arrow*). (B) Histologic appearance of graft arteriosclerosis as low-power photomicrograph of vessel cross-section, demonstrating severe, near-complete, and predominantly concentric intimal proliferation with nearly intact internal elastic lamina (*arrow*). Verhoff van Gieson stain (for elastin) 60×. (C) Myocardial microinfarct indicative of disease of small intramural arteries (*outlined by arrows*). Hematoxylin and eosin. (D) Subendocardial myocyte vacuolization indicative of severe chronic ischemia. Trichrome stain, 375×. ([B] 
-=======
-**FIGURE 5-29** Gross and microscopic features of graft coronary disease and graft arteriosclerosis-induced myocardial pathology in heart transplant recipients. (A) Gross photograph of transverse cross-section of heart from patient who died of graft arteriosclerosis. Severe concentric stenosis of an epicardial coronary is apparent with only a pinhole lumen (*arrow*). (B) Histologic appearance of graft arteriosclerosis as low-power photomicrograph of vessel cross-section, demonstrating severe, near-complete, and predominantly concentric intimal proliferation with nearly intact internal elastic lamina (*arrow*). Verhoff van Gieson stain (for elastin) 60×. (C) Myocardial microinfarct indicative of disease of small intramural arteries (*outlined by arrows*). Hematoxylin and eosin. (D) Subendocardial myocyte vacuolization indicative of severe chronic ischemia. Trichrome stain, 375×. ([B] Reproduced with permission from Salomon RN, Hughes CWH, Schoen FJ, et al: Human coronary transplantation-associated arteriosclerosis: evidence for a chronic immune reaction to activated graft endothelial cells, *Am J Pathol.* 1991 Apr;138(4):791-798.)
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 <details class="med-details"><summary>
 
@@ -1308,13 +1020,7 @@ Early diagnosis of graft vasculopathy is limited by the lack of clinical symptom
 | Primary immunologic mechanism(s) | Complicated stimuli |
 | Difficult to treat; retransplant usually only option | Revascularization by angioplasty, stents, aortocoronary bypass |
 
-<<<<<<< HEAD
 </div></details>
-=======
-###### Reproduced with permission from Schoen FJ, Libby P: Cardiac transplant graft arteriosclerosis, *Trends Cardiovasc Med.* 1991 Jul-Aug;1(5):216-223.
-</div>
-</details>
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 
 </div></details>
 
@@ -1346,7 +1052,6 @@ Left ventricular assist device implantation can allow for reverse remodeling (se
 
 ![](_page_43_Picture_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-30** Complications of left ventricular assist devices (LVADs). (A) Circumferential thrombus (*arrows*) on the inflow bearing of the impeller of a Thoratec HeartMate II LVAD. (B) Thrombus (*arrows*) on the outer aspect of the inflow cannula of a HeartWare HVAD within the left ventricular cavity. (C) Fungal infection in LVAD outflow graft. (D) Inflow cannula of a HeartWare HVAD impinging on the posterior left ventricular wall resulting in obstruction. 
 Long-term LVADs are primarily used as a bridge to transplantation because cardiac transplantation currently offers a better long-term outlook for most patients. In a subset of patients, support by LVAD results in improved cardiac function, with heart transplantation no longer necessary even after removal of the LVAD (bridge to recovery). Left ventricular assist device support is now recognized to offer potential for myocardial recovery, a favorable outcome that is further enhanced by combination with pharmacologic therapy. LVADs lead to lowered cardiac pressure and volume overload in the myocardium followed by decreased ventricular wall tension, reduced cardiomyocyte hypertrophy, improved coronary perfusion, and decreased chronic ischemia.
 
@@ -1380,42 +1085,6 @@ Complications from the use of pacemakers include lead displacement, vascular or 
 
 Ablation involves the directed destruction of arrhythmogenic myocardium, accessory pathways, or conduction system structures to control or cure a variety of arrhythmias, including atrial flutter and fibrillation, ventricular tachycardias, and paroxysmal supraventricular tachycardias that are refractory to medical management. Ablation can be carried out as part of a surgical procedure, or through percutaneous catheter means. Electrophysiologic (EP) studies can be used to (1) provide information on the type and location of rhythm disturbance, (2) terminate a tachycardia by electrical stimulation, (3) evaluate the effects of therapy, (4) ablate myocardium involved in the tachycardia, and (5) identify patients at risk for sudden cardiac death.
 
-=======
-**FIGURE 5-30** Complications of left ventricular assist devices (LVADs). (A) Circumferential thrombus (*arrows*) on the inflow bearing of the impeller of a Thoratec HeartMate II LVAD. (B) Thrombus (*arrows*) on the outer aspect of the inflow cannula of a HeartWare HVAD within the left ventricular cavity. (C) Fungal infection in LVAD outflow graft. (D) Inflow cannula of a HeartWare HVAD impinging on the posterior left ventricular wall resulting in obstruction. (Reproduced with permission from Silver MD, Gotlieb AI, Schoen FJ: *Cardiovascular Pathology,* 3rd ed. New York: Churchill Livingstone/Elsevier; 2001.)
-
-Long-term LVADs are primarily used as a bridge to transplantation because cardiac transplantation currently offers a better long-term outlook for most patients. In a subset of patients, support by LVAD results in improved cardiac function, with heart transplantation no longer necessary even after removal of the LVAD (bridge to recovery). Left ventricular assist device support is now recognized to offer potential for myocardial recovery, a favorable outcome that is further enhanced by combination with pharmacologic therapy. LVADs lead to lowered cardiac pressure and volume overload in the myocardium followed by decreased ventricular wall tension, reduced cardiomyocyte hypertrophy, improved coronary perfusion, and decreased chronic ischemia.
-
-To what extent recovery of myocardial function can occur during VAD implantation is uncertain. Many pathophysiologic changes occur during the progression to end-stage heart failure, ranging from the subcellular (eg, abnormal mitochondrial function and calcium metabolism) to the organ and system level (eg, ventricular dilation, decreased ejection fraction, and neurohormonal changes), leading to the signs and symptoms of congestive failure. Implantation of an LVAD can reverse many of these changes (reverse remodeling), leading to increased cardiac output, decreased ventricular end-diastolic volume, and normalization of neurohormonal status such that a small fraction of patients can be weaned from the device without the need for subsequent cardiac transplantation. Current research focuses on the mechanisms of cardiac recovery, identification of patients who could achieve recovery, and specifics such as the timing and duration of therapy; a key goal is to identify potential predictors and novel therapeutic targets capable of enhancing myocardial repair.
-
-</div></details>
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-## ARRHYTHMIAS</summary><div class="details-content">
-
-Arrhythmias generally occur as a result of disorders of electrical impulse formation, disorders of electrical impulse conduction, or a combination of the two. The underlying anatomic substrates for arrhythmogenesis are many. Many cardiomyopathies can present with arrhythmias, including those with genetic (eg, HCM, ARVC, and the ion channelopathies), mixed (eg, dilated cardiomyopathy), and acquired (eg, myocarditis, sarcoidosis and amyloidosis) etiologies. A common cause of arrhythmias and sudden death (especially in the older adult population) is ischemic heart disease, both in patients with and without a prior myocardial infarction. Myocardial hypertrophy and fibrosis of any etiology (eg, secondary to valvular heart disease, hypertension, or a remote infarction) also can provide the anatomical and functional substrate for the development of an arrhythmia. These underlying processes and pathologic anatomy increase the risk of spontaneous lethal arrhythmias in the setting of acute initiating events such as acute ischemia, neurohormonal activation, changes in electrolytes, and other metabolic stressors.
-
-Treatments for arrhythmias and their complications include pharmacologic therapy, device therapy (eg, pacemakers, defibrillators), and ablation therapy.
-
-<details class="med-details"><summary>
-  
-### Pacemakers and Implantable Cardioverter-Defibrillators (ICDs)</summary><div class="details-content">
-
-Modern cardiac pacing is achieved by a system of interconnected components consisting of (1) a pulse generator that includes a power source and electric circuitry to initiate the electric stimulus and to sense normal activity; (2) one or more electrically insulated conductors leading from the pulse generator to the heart, with a bipolar electrode at the distal end of each; and (3) a tissue, or blood and tissue, interface between electrode and adjacent stimulatable myocardial cells, which is of critical importance in the proper functioning of the pacemaker. Typically, a layer of nonexcitable fibrous tissue forms around the tip of the electrode. This fibrosis may be induced by the electrode itself or may result from myocardial scarring from some other cause, most commonly a healed myocardial infarction. The thickness of this nonexcitable tissue between the electrode and excitable tissue determines the stimulus threshold, or the strength of the pacing stimulus required to initiate myocyte depolarization, and thus the amount of energy required from the pacemaker. Attempts to reduce the thickness of this layer (thereby extending battery life) include improved lead designs with active fixation and the use of slow, local release of corticosteroids from the lead tip. Implantable cardioverter-defibrillators (ICDs) are used in the treatment of patients who have life-threatening ventricular arrhythmias that are refractory to medical management and unsuitable for other surgical or ablative therapy, and have similar components to the pacemaker described in the preceding. These devices sense arrhythmias that can lead to sudden death and deliver therapy in the form of rapid ventricular pacing and/or a defibrillation current to terminate the dysrhythmic episode. ICDs also must overcome the barrier posed by the interfacial fibrosis at the electrode tip.
-
-Complications from the use of pacemakers include lead displacement, vascular or cardiac perforation leading to hemothorax, pneumothorax or tamponade, lead entrapment, infection, erosion of the device into adjacent tissues owing to pressure necrosis, rotation of the device within the pocket, thrombosis and/or thromboembolism, and lead fracture, in addition to malfunction of the device itself. If the lead needs to be extracted for chronic infection or device-related defects, damage to the myocardium and/or tricuspid valve may occur secondary to encasement of the lead in fibrous tissue. Similar complications affect ICDs, with additional considerations being the consequences of repeated defibrillations on the myocardium and vascular structures, including myocardial necrosis, and the risk of oversensing (with resultant unnecessary shocks) or undersensing (with resultant sudden death). Increased attention has been paid of late to malfunctioning ICDs because of electrical flaws in a specific model that resulted in failure to terminate fatal arrhythmias.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-### Ablation</summary><div class="details-content">
-
-Ablation involves the directed destruction of arrhythmogenic myocardium, accessory pathways, or conduction system structures to control or cure a variety of arrhythmias, including atrial flutter and fibrillation, ventricular tachycardias, and paroxysmal supraventricular tachycardias that are refractory to medical management. Ablation can be carried out as part of a surgical procedure, or through percutaneous catheter means. Electrophysiologic (EP) studies can be used to (1) provide information on the type and location of rhythm disturbance, (2) terminate a tachycardia by electrical stimulation, (3) evaluate the effects of therapy, (4) ablate myocardium involved in the tachycardia, and (5) identify patients at risk for sudden cardiac death.
-
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 Radiofrequency ablation acutely produces coagulation necrosis within the myocardium directly underneath the source tip, eliminating the source or pathway of the arrhythmia. The characteristic histologic changes include loss of myocyte striations, loss or pyknosis of nuclei, hypereosinophilia, and contraction bands. The edge of the fresh lesion is often hemorrhagic with interstitial edema (Fig. 5-31) and inflammation. The area undergoes the usual progression of healing similar to that in an infarct, with an early neutrophilic infiltrate, followed by macrophages to handle the necrotic debris, followed by granulation tissue formation and eventual scarring. Through the use of irrigated, cooled catheters, the lesions can penetrate deeply into the myocardium. Techniques using other forms of energy, including cryoablation, microwave, and lasers, have been used to create lesions in the myocardium for the treatment of arrhythmias.
 
 ![](_page_45_Picture_2.jpeg)
@@ -1518,7 +1187,6 @@ Biomaterial-tissue interactions comprise effects of both the implant on the host
 
 ![](_page_48_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 5-33** Overview of potential interactions of biomaterials with tissue, comprising local, distant, and systemic effects of the biomaterial on the host tissue, as well as the physical and biologic effects of the environment on the materials and the device. These interactions comprise the pathophysiologic basis for device complications and failure modes. 
 <details class="med-details"><summary>
   
@@ -1546,36 +1214,6 @@ Healing of a vascular graft, heart valve sewing cuff, or endovascular stent deri
 
 Exuberant fibrous tissue can occur at a vascular anastomosis as an overactive but physiologic repair response (Fig. 5-34). Synthetic and biologic vascular grafts often fail because of generalized or anastomotic narrowing mediated by connective tissue proliferation in the intima, and heart valve prostheses can have excessive pannus that occludes the orifice. Intimal hyperplasia results primarily from smooth muscle cell migration, proliferation, and ECM elaboration following and possibly mediated by acute or ongoing endothelial cell injury. Important contributing factors include (1) surface thrombogenesis; (2) delayed or incomplete endothelialization of the fabric; (3) disturbed flow across the anastomosis; and (4) mechanical "mismatch" at the junction of implant and host tissues.
 
-=======
-**FIGURE 5-33** Overview of potential interactions of biomaterials with tissue, comprising local, distant, and systemic effects of the biomaterial on the host tissue, as well as the physical and biologic effects of the environment on the materials and the device. These interactions comprise the pathophysiologic basis for device complications and failure modes. (Modified with permission from Ratner BD, Hoffman AS, Schoen FJ, et al: *Biomaterials Science: An Introduction to Materials in Medicine,* 2nd ed. Orlando: Elsevier; 2004.)
-
-<details class="med-details"><summary>
-  
-### Blood-Surface Interaction</summary><div class="details-content">
-
-Thromboembolic complications of cardiovascular devices cause significant mortality and morbidity. Thrombotic deposits can impede the function of a prosthetic heart valve, vascular graft, or blood pump, or cause distal emboli. As in the cardiovascular system in general, surface thrombogenicity, hypercoagulability, and locally static blood flow (called *Virchow's triad*), present individually or in combination, determine both the relative propensity toward thrombus formation and the location of thrombotic deposits with specific devices. No known synthetic or modified biologic surface is as thromboresistant as the normal, unperturbed endothelium. Like a blood vessel denuded of endothelium, foreign materials on contact with blood spontaneously and rapidly (within seconds) absorb a film of plasma components, primarily protein, followed by platelet adhesion. If conditions of relatively static flow are present, macroscopic thrombus can ensue. The specific physical and chemical characteristics of materials that regulate the outcomes of blood-surface interaction are incompletely understood.
-
-Coagulation proteins, complement products, other proteins, and platelets are activated, damaged, and consumed by blood-material interactions. The clinical approach to control of thrombosis in cardiovascular devices is generally through systemic anticoagulants, particularly Coumadin (warfarin) or antiplatelet agents. Coumadin inhibits thrombin formation but does not inhibit platelet-mediated thrombosis and induces a risk of hemorrhage. Coumadin is also teratogenic, causing a risk of fetal malformations in pregnant women. Hemolysis (damage to red blood cells) in implants and extracorporeal circulatory systems can result from both cell-surface contact and turbulence-induced shear forces.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-### Tissue-Biomaterials Interaction</summary><div class="details-content">
-
-Synthetic biomaterials elicit a *foreign body reaction*, a special form of nonimmune inflammatory response with an infiltrate predominantly composed of macrophages. For most biomaterials implanted into solid tissue, encapsulation by a relatively thin fibrous tissue capsule (composed of collagen and fibroblasts) resembling a scar ultimately occurs, often with a fine capillary network at its junction with normal tissue. Ongoing mild chronic inflammation associated with this fibrous capsule is common with clinical implants. Although immunologic reactions have been proposed rarely for synthetic biomaterial-tissue interactions, and antibodies can be elicited by implantation of some materials in finely pulverized form, proven clinical cardiovascular device failure owing to immunologic reactivity is rare.
-
-</div></details>
-
-<details class="med-details"><summary>
-  
-### Healing of a Vascular Graft, Heart Valve Sewing Cuff, or Endovascular Stent</summary><div class="details-content">
-
-Healing of a vascular graft, heart valve sewing cuff, or endovascular stent derives principally from overgrowth from the host vessel across anastomotic sites; this tissue is called *pannus*. Grafts, fabrics, and stents used as cardiovascular implants heal primarily by ingrowth of endothelium and smooth muscle cells from the cut edges of the adjacent artery, and contact points with vessels and/or myocardium; where endothelium is present, the tissue is called a *neointima*. Additional potential mechanisms of endothelialization include (1) tissue ingrowth through the fabric of a graft with interstices large enough to permit ingrowth of fibrovascular elements arising from capillaries extending from outside to inside the graft, which may permit endothelial cells to migrate to the luminal surface at a large distance from the anastomosis; and (2) deposition of functional endothelial cell progenitors from the circulating blood.
-
-Exuberant fibrous tissue can occur at a vascular anastomosis as an overactive but physiologic repair response (Fig. 5-34). Synthetic and biologic vascular grafts often fail because of generalized or anastomotic narrowing mediated by connective tissue proliferation in the intima, and heart valve prostheses can have excessive pannus that occludes the orifice. Intimal hyperplasia results primarily from smooth muscle cell migration, proliferation, and ECM elaboration following and possibly mediated by acute or ongoing endothelial cell injury. Important contributing factors include (1) surface thrombogenesis; (2) delayed or incomplete endothelialization of the fabric; (3) disturbed flow across the anastomosis; and (4) mechanical "mismatch" at the junction of implant and host tissues.
-
->>>>>>> 87c7ec751e8e2f59e525bdf6bdae000d520c9e0d
 Diminished healing also is clinically important in certain circumstances, such as periprosthetic leak associated with heart valve prostheses. Moreover, markedly diminished endothelialization owing to toxicity of the cytostatic agents paclitaxel and sirolimus has been implicated in late thrombosis of drug-eluting coronary stents. For uncertain reasons, humans have a limited ability to completely endothelialize cardiovascular prostheses beyond a zone near an anastomosis, typically 10 to 15 mm, thereby allowing healing of intracardiac fabric patches and prosthetic valve sewing rings, but not long vascular grafts. Thus, except adjacent to an anastomosis of a vascular graft, a compacted platelet-fibrin aggregate (pseudointima) comprises the inner lining, even after long-term implantation. Because firm adherence of such linings to the underlying graft may be impossible, dislodgment of the lining and formation of a flap-valve can occur and cause obstruction.
 
 ![](_page_49_Figure_7.jpeg)
