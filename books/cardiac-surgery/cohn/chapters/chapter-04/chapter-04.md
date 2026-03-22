@@ -359,168 +359,199 @@ Mediator-induced vasodilation often is poorly responsive to catecholamines, and 
   
 ## **VASODILATORS**</summary><div class="details-content">
 
-Different pharmacologic approaches are available to produce vasodilation (Table 4-1). Potential therapeutic approaches include (1) blockade of alpha<sub>1</sub>-adrenergic receptors, ganglionic transmission, and calcium channel receptors; (2) stimulation of central alpha<sub>2</sub>-adrenergic receptors or vascular guanylate cyclase and adenylate cyclase; and (3) inhibition of phosphodiesterase enzymes and ACEs. <sup>112</sup> Adenosine in low concentrations is also a potent vasodilator with a short half-life, but it is used, as noted earlier, for its ability to inhibit AV conduction. Losartan, a novel angiotensin II (AII) antagonist, has just been released for treating hypertension but is not available for intravenous use.
+Different pharmacologic approaches are available to produce vasodilation (Table 4-1). Potential therapeutic approaches include 
+- (1) blockade of alpha<sub>1</sub>-adrenergic receptors, ganglionic transmission, and calcium channel receptors; 
+- (2) stimulation of central alpha<sub>2</sub>-adrenergic receptors or vascular guanylate cyclase and adenylate cyclase; 
+- (3) inhibition of phosphodiesterase enzymes and ACEs. 
+  
+Adenosine in low concentrations is also a potent vasodilator with a short half-life, but it is used, as noted earlier, for its ability to inhibit AV conduction. Losartan, a novel angiotensin II (AII) antagonist, has just been released for treating hypertension but is not available for intravenous use.
 
-# Stimulation of Adenylate Cyclase (Cyclic AMP)
+<details class="med-details"><summary>
+  
+### TABLE 4-1: Vasodilators Used in the Treatment of Hypertension, Pulmonary Hypertension, and Heart Failure</summary><div class="details-content">
 
-Prostacyclin, prostaglandin E<sub>1</sub>, and isoproterenol increase cyclic nucleotide formation (eg, adenosine-3',5'-monophosphate and cyclic AMP) in vascular smooth muscle to produce calcium mobilization out of vascular smooth muscle. Inhibiting the breakdown of cyclic AMP by phosphodiesterase also will increase cyclic AMP. 112 Increasing cyclic AMP in vascular smooth muscle facilitates calcium uptake by intracellular storage sites, thus decreasing calcium available for contraction. The net effect of increasing calcium uptake is to produce vascular smooth muscle relaxation and hence vasodilation. However, most catecholamines with beta, adrenergic activity (eg, isoproterenol) and phosphodiesterase inhibitors have positive inotropic and other side effects that include tachycardia, glycogenolysis, and kaluresis. 113 Prostaglandins (ie, prostacyclin and prostaglandin E<sub>1</sub>) are potent inhibitors of platelet aggregation and activation. Catecholamines with beta,-adrenergic activity, phosphodiesterase inhibitors, and prostaglandin E, and prostacyclin have been used to vasodilate the pulmonary circulation in patients with pulmonary hypertension and right ventricular failure (see Table 4-1).113
+- Angiotensin-converting enzyme inhibitors 
+- Angiotensin II antagonists 
+- Alpha<sub>1</sub>-adrenergic antagonists (prazosin) 
+- Alpha<sub>2</sub>-adrenergic agonists (clonidine)
+- Endothelin antagonists
+- Nitrates
+- Nitric oxide
+- Hydralazine
+- Phosphodiesterase inhibitors (milrinone, sildenafil)
+- Prostacyclin, PGE<sub>2</sub>
+- Calcium channel blockers
+- Dihydropyridine agents (clevidipine, nicardipine, amlodipine)
+</div></details>
+  
+<details class="med-details"><summary>
+  
+### Stimulation of Adenylate Cyclase (Cyclic AMP)</summary>
+<div class="details-content">
+  
+Prostacyclin, prostaglandin E<sub>1</sub>, and isoproterenol increase cyclic nucleotide formation (eg, adenosine-3',5'-monophosphate and cyclic AMP) in vascular smooth muscle to produce calcium mobilization out of vascular smooth muscle. Inhibiting the breakdown of cyclic AMP by phosphodiesterase also will increase cyclic AMP. Increasing cyclic AMP in vascular smooth muscle facilitates calcium uptake by intracellular storage sites, thus decreasing calcium available for contraction. The net effect of increasing calcium uptake is to produce vascular smooth muscle relaxation and hence vasodilation. However, most catecholamines with beta<sub>2</sub> adrenergic activity (eg, isoproterenol) and phosphodiesterase inhibitors have positive inotropic and other side effects that include tachycardia, glycogenolysis, and kaluresis. Prostaglandins (ie, prostacyclin and prostaglandin E<sub>1</sub>) are potent inhibitors of platelet aggregation and activation. Catecholamines with beta<sub>2</sub>-adrenergic activity, phosphodiesterase inhibitors, and prostaglandin E, and prostacyclin have been used to vasodilate the pulmonary circulation in patients with pulmonary hypertension and right ventricular failure (see Table 4-1).
+</div></details>
 
-![](_page_11_Figure_6.jpeg)
+<details class="med-details"><summary>
+  
+### Nitrates, Nitrovasodilators, and Stimulation of Guanylyl Cyclase (Cyclic GMP)</summary><div class="details-content">
 
-TABLE 4-1: Vasodilators Used in the Treatment of Hypertension, Pulmonary Hypertension, and Heart Failure
+The vascular endothelium modulates vascular relaxation by releasing both nitric oxide and prostacyclin. Inflammatory mediators also can stimulate the vascular endothelium to release excessive amounts of endothelium-derived relaxing factor (EDRF, or nitric oxide), which activates guanylyl cyclase to generate cyclic GMP. Nitrates and sodium nitroprusside, however, generate nitric oxide directly, independent of vascular endothelium. The active form of any nitrovasodilator is nitric oxide (NO), in which the nitrogen is in a +2 oxidation state. For any nitrovasodilator to be active, it first must be converted to NO. For nitroprusside, this is easily accomplished because nitrogen is in a +3 oxidation state, with the nitric oxide molecule bound to the charged iron molecule in an unstable manner, allowing nitroprusside to readily donate its nitric oxide moiety. For nitroglycerin, nitrogen molecules exist in a +5 oxidation state, and thus they must undergo significant metabolic transformations before they are converted to an active molecule. Nitroglycerin is a selective coronary vasodilator and does not produce coronary steal compared with nitroprusside because the small intracoronary resistance vessels, those less than 100 µm thick, lack whatever metabolic transformation pathway is required to convert nitroglycerin into its active form of nitric oxide. Chronic nitrate therapy can produce tolerance through different mechanisms. Sodium nitroprusside and nitroglycerin are effective vasodilators that produce venodilation that contributes significantly to the labile hemodynamic state.  Intravenous volume administration often is required with nitroprusside owing to the relative intravascular hypovolemia.
+</div></details>
 
-Angiotensin-converting enzyme inhibitors Angiotensin II antagonists Alpha<sub>1</sub>-adrenergic antagonists (prazosin) Alpha<sub>2</sub>-adrenergic agonists (clonidine) Endothelin antagonists
+<details class="med-details"><summary>
+  
+### Dihydropyridine Calcium Channel Blockers</summary><div class="details-content">
+  
+Dihydropyridine calcium channel blockers are direct arterial vasodilators. Nifedipine was the first dihydropyridine calcium channel blocker, and intravenous forms studied in cardiac surgery include clevidipine, isradipine, and nicardipine. These agents are selective arterial vasodilators that have no effects on the vascular capacitance bed, AV nodal conduction, or negative inotropic effects. Clevidipine and nicardipine are available in the United States and offer novel and important therapeutic options to treat perioperative hypertension following cardiac surgery. Also, intravenous dihydropyridines can be used to treat acute hypertension that occurs during the perioperative period (ie, intubation, extubation, CPB-induced hypertension, and aortic cross-clamping) and postoperative hypertension.
+</div></details>
 
-Nitrates
+<details class="med-details"><summary>
+  
+### Phosphodiesterase Inhibitors</summary><div class="details-content">
 
-Nitric oxide
+Two major classes of phosphodiesterase inhibitors are currently available for use. Milrinone is a prototypic type III inhibitor that is cyclic AMP specific, as previously described, and produces both positive inotropic effects and vasodilation. When administered to patients with ventricular dysfunction, milrinone increases cardiac output, venodilates, vasodilates, and is a pulmonary vasodilator. Sildenafil is a type V-specific inhibitor that is cyclic GMP specific and is a pulmonary and systemic vasodilator without a primary inotropic response, although isotypes for phosphodiesterases exist. Because of their unique mechanisms of vasodilation, these agents are especially useful for patients with acute pulmonary vasoconstriction and right ventricular dysfunction. Multiple forms of the drug are available including bipyridines (eg, amrinone and milrinone), imidazolones (eg, enoximone), and methylxanthines (eg, aminophylline), and sildenafil. Papaverine, a benzyl isoquinolinium derivative isolated from opium, is a nonspecific phosphodiesterase inhibitor and vasodilator used by cardiac surgeons for its ability to dilate the internal mammary artery. 
+</div></details>
 
-Hydralazine
-
-Phosphodiesterase inhibitors (milrinone, sildenafil)
-
-Prostacyclin, PGE,
-
-Calcium channel blockers
-
-Dihydropyridine agents (clevidipine, nicardipine, amlodipine)
-
-#### Nitrates, Nitrovasodilators, and Stimulation of Guanylyl Cyclase (Cyclic GMP)
-
-The vascular endothelium modulates vascular relaxation by releasing both nitric oxide and prostacyclin. 114-116 Inflammatory mediators also can stimulate the vascular endothelium to release excessive amounts of endothelium-derived relaxing factor (EDRF, or nitric oxide), which activates guanylyl cyclase to generate cyclic GMP.89,90 Nitrates and sodium nitroprusside, however, generate nitric oxide directly, independent of vascular endothelium. 115,116 The active form of any nitrovasodilator is nitric oxide (NO), in which the nitrogen is in a +2 oxidation state. For any nitrovasodilator to be active, it first must be converted to NO. For nitroprusside, this is easily accomplished because nitrogen is in a +3 oxidation state, with the nitric oxide molecule bound to the charged iron molecule in an unstable manner, allowing nitroprusside to readily donate its nitric oxide moiety. For nitroglycerin, nitrogen molecules exist in a +5 oxidation state, and thus they must undergo significant metabolic transformations before they are converted to an active molecule. Nitroglycerin is a selective coronary vasodilator and does not produce coronary steal compared with nitroprusside because the small intracoronary resistance vessels, those less than 100 µm thick, lack whatever metabolic transformation pathway is required to convert nitroglycerin into its active form of nitric oxide. 115,116 Chronic nitrate therapy can produce tolerance through different mechanisms. 114-118 Sodium nitroprusside and nitroglycerin are effective vasodilators that produce venodilation that contributes significantly to the labile hemodynamic state. 114 Intravenous volume administration often is required with nitroprusside owing to the relative intravascular hypovolemia.
-
-# Dihydropyridine Calcium Channel Blockers
-
-Dihydropyridine calcium channel blockers are direct arterial vasodilators. <sup>119</sup> Nifedipine was the first dihydropyridine calcium channel blocker, and intravenous forms studied in cardiac surgery include clevidipine, isradipine, and nicardipine. These agents are selective arterial vasodilators that have no effects on the vascular capacitance bed, AV nodal conduction, or negative inotropic effects. <sup>120-125</sup> Clevidipine and nicardipine are available in the United States and offer novel and important therapeutic options to treat perioperative hypertension following cardiac surgery. Also, intravenous dihydropyridines can be used to treat acute hypertension that occurs during the perioperative period (ie, intubation, extubation, CPB-induced hypertension, and aortic cross-clamping) and postoperative hypertension.
-
-# Phosphodiesterase Inhibitors
-
-Two major classes of phosphodiesterase inhibitors are currently available for use. Milrinone is a prototypic type III inhibitor that is cyclic AMP specific, as previously described, and
-
-produces both positive inotropic effects and vasodilation.<sup>126</sup> When administered to patients with ventricular dysfunction, milrinone increases cardiac output, venodilates, vasodilates, and is a pulmonary vasodilator. Sildenafil is a type V-specific inhibitor that is cyclic GMP specific and is a pulmonary and systemic vasodilator without a primary inotropic response, although isotypes for phosphodiesterases exist. Because of their unique mechanisms of vasodilation, these agents are especially useful for patients with acute pulmonary vasoconstriction and right ventricular dysfunction. Multiple forms of the drug are available including bipyridines (eg, amrinone and milrinone), imidazolones (eg, enoximone), and methylxanthines (eg, aminophylline), and sildenafil. Papaverine, a benzyl isoquinolinium derivative isolated from opium, is a nonspecific phosphodiesterase inhibitor and vasodilator used by cardiac surgeons for its ability to dilate the internal mammary artery. 126
-
-# Angiotensin-Converting Enzyme Inhibitors
+<details class="med-details"><summary>
+  
+### Angiotensin-Converting Enzyme Inhibitors</summary><div class="details-content">
 
 ACE inhibitors have growing use in managing HF, and more patients are receiving these drugs. The ACE inhibitors prevent the conversion of angiotensin I to angiotensin II by inhibiting an enzyme called kininase in the pulmonary and systemic vascular endothelium. This enzyme is also important for the metabolism of bradykinin, a potent endogenous vasodilator, and for release of EDRF. Although there are little data in the literature regarding the preoperative management of patients receiving these drugs, withholding them on the day of surgery has been our clinical practice based on their potential to produce excessive vasodilation during CPB. Although Tuman was unable to find any difference in blood pressure during CPB in patients receiving ACE inhibitors, contact activation during CPB has the ability to generate bradykinin and thus amplify the potential for vasodilation. The vasoconstrictor requirements were increased after bypass in his study.
+</div></details>
 
-# Angiotensin II-Receptor Blockers
+<details class="med-details"><summary>
+  
+### Angiotensin II-Receptor Blockers</summary><div class="details-content">
 
-ACE inhibitors may not be tolerated in some patients owing to cough (common) and angioedema (rare). Inhibition of kininase II by ACE inhibitors leads to bradykinin accumulation in the lungs and vasculature, causing cough and vasodilation. Alternative treatment with angiotensin II-receptor blockers (ARBs) may be associated less frequently with these side effects because ARBs do not affect kinin metabolism. Six ARBs are currently available for antihypertensive therapy in the United States: losartan (Cozaar), valsartan (Diovan), irbesartan (Avapro), candesartan (Atacand), eprosartan (Teveten), and telmisartan (Micardis). Mortality in chronic HF is related to activation of the autonomic nervous and renin-angiotensin systems, and ACE inhibitor therapy seems to attenuate progression of myocardial dysfunction and remodeling. ACE inhibitors do not completely block angiotensin II (A-II) production, 127 and may even increase circulating A-II levels in patients with HF. It was thought initially that ARBs might offer advantages over ACE inhibitors for heart failure therapy in terms of tolerability and more complete A-II blockade. Although ARBs were better tolerated, all-cause mortality and the number of sudden deaths or resuscitated cardiac arrests were not different when losartan (Cozaar) and captopril (Capoten) were compared in patients (>60 years of age, New York Heart Association (NYHA) classes II to IV, left-ventricular ejection fraction (LVEF) <40%). Perioperative hypotension may be encountered in ARB-treated patients as well as ACE inhibitor-treated patients, and increased inotropic support may be required.
-</div>
-</details>
+ACE inhibitors may not be tolerated in some patients owing to cough (common) and angioedema (rare). Inhibition of kininase II by ACE inhibitors leads to bradykinin accumulation in the lungs and vasculature, causing cough and vasodilation. Alternative treatment with angiotensin II-receptor blockers (ARBs) may be associated less frequently with these side effects because ARBs do not affect kinin metabolism. Six ARBs are currently available for antihypertensive therapy in the United States: losartan (Cozaar), valsartan (Diovan), irbesartan (Avapro), candesartan (Atacand), eprosartan (Teveten), and telmisartan (Micardis). Mortality in chronic HF is related to activation of the autonomic nervous and renin-angiotensin systems, and ACE inhibitor therapy seems to attenuate progression of myocardial dysfunction and remodeling. ACE inhibitors do not completely block angiotensin II (A-II) production, and may even increase circulating A-II levels in patients with HF. It was thought initially that ARBs might offer advantages over ACE inhibitors for heart failure therapy in terms of tolerability and more complete A-II blockade. Although ARBs were better tolerated, all-cause mortality and the number of sudden deaths or resuscitated cardiac arrests were not different when losartan (Cozaar) and captopril (Capoten) were compared in patients (>60 years of age, New York Heart Association (NYHA) classes II to IV, left-ventricular ejection fraction (LVEF) <40%). Perioperative hypotension may be encountered in ARB-treated patients as well as ACE inhibitor-treated patients, and increased inotropic support may be required.
+</div></details>
 
+</div></details>
 
-
-<details class="med-details">
-<summary>## BETA-ADRENERGIC RECEPTOR BLOCKERS</summary>
-<div class="details-content">
-# BETA-ADRENERGIC RECEPTOR BLOCKERS
+<details class="med-details"><summary>
+  
+## BETA-ADRENERGIC RECEPTOR BLOCKERS</summary><div class="details-content">
 
 Not surprisingly, most of the effects observed after administration of a beta-adrenergic receptor blocker reflect the reduced responsiveness of tissues containing beta-adrenergic receptors to catecholamines present in the vicinity of those receptors. Hence the intensity of the effects of beta-blockers depends on both the dose of the blocker and the receptor concentrations of catecholamines, primarily epinephrine and norepinephrine. In fact, a purely competitive interaction of beta-blockers and catecholamines can be demonstrated in normal human volunteers as well as in isolated tissues studied in the laboratory. The presence of disease and other types of drugs modifies the responses to beta-blockers observed in patients, but the underlying competitive interaction is still operative. The key to successful use of beta-adrenergic receptor blockers is to titrate the dose to the desired degree of effect and to remember that excessive effects from larger than necessary doses of beta-adrenergic receptor blockers can be overcome by (1) administering a catecholamine to compete at the blocked receptors; and/or (2) administering other types of drugs to reduce the activity of counterbalancing autonomic mechanisms that are unopposed in the presence of beta-receptor blockade. An example of the latter is propranolol-induced bradycardia, which reflects the increased dominance of the vagal cholinergic mechanism on cardiac nodal tissue. Excessive bradycardia may be relieved by administering atropine to block the cholinergic receptors, which are also located in the SA and AV nodes (see Table 4-2).
+  
+<details class="med-details"><summary>
+  
+### TABLE 4-2: Location and Actions of Beta-Adrenergic Receptors</summary><div class="details-content">
 
-Knowledge of the type, location, and action of beta receptor is fundamental to understanding and predicting effects of beta-adrenergic receptor-blocking drugs<sup>129</sup> (see Table 4-2). Beta-adrenergic receptor blockers are competitive inhibitors; hence, the intensity of blockade depends on both the dose of the drug and the receptor concentrations of catecholamines, primarily epinephrine and norepinephrine.
+| Tissue | Receptor | Action | Opposing Actions |
+|--|--|--|--|
+| **Heart** | | | |
+| Sinus and AV nodes | 1 | ↑ Automaticity | Cholinergic receptors |
+| Conduction pathways | 1 | ↑ Conduction velocity   | Cholinergic receptors |
+|  | | ↑ Automaticity | Cholinergic receptors |
+| Myofibrils | 1 | ↑ Contractility| -  |
+||| ↑ Automaticity| - |
+| Vascular smooth muscle (arterial, venous) | 2 | Vasodilation | Alpha-adrenergic receptors |
+| Bronchial smooth muscle  | 2 | Bronchodilation | Cholinergic receptors |
+| Kidneys  | 1 | ↑ Renin release (juxtaglomerular cells) | Alpha<sub>1</sub>-adrenergic receptors |
+| Liver | 2 | ↑ Glucose metabolism | Alpha<sub>1</sub>-adrenergic receptors |
+||| ↑ Lipolysis ||
+| Fat/adipose tissue | 3 | ↑ Lipolysis | - |
+| Skeletal muscle | 2 | Potassium uptake glycogenolysis         | - |
+| Eye, ciliary muscle  | 2  | Relaxation | Cholinergic receptors  |
+| GI tract | 2 | ↑ Motility | Cholinergic receptors |
+| Gallbladder  | 2 | Relaxation | Cholinergic receptors |
+| Urinary bladder detrussor muscle | 2 | Relaxation | Cholinergic receptors |
+| Uterus  | 2 | Relaxation | Oxytocin |
+| Platelets | 2  | ↓ Aggregation | Alpha<sub>2</sub> -adrenergic receptors (aggregation)|
+</div></details>
 
-Beta-adrenergic receptor antagonists (blockers) include many drugs (Table 4-3) that typically are classified by their relative selectivity for beta<sub>1</sub> and beta<sub>2</sub> receptors (ie, cardioselective or nonselective), the presence or absence of agonistic activity, membrane-stabilizing properties, alpha-receptor-blocking efficacy, and various pharmacokinetic features (eg, lipid solubility, oral bioavailability, and elimination half-time).<sup>129</sup> The
+Knowledge of the type, location, and action of beta receptor is fundamental to understanding and predicting effects of beta-adrenergic receptor-blocking drugs (see Table 4-2). Beta-adrenergic receptor blockers are competitive inhibitors; hence, the intensity of blockade depends on both the dose of the drug and the receptor concentrations of catecholamines, primarily epinephrine and norepinephrine.
 
-![](_page_13_Picture_2.jpeg)
+Beta-adrenergic receptor antagonists (blockers) include many drugs (Table 4-3) that typically are classified by their relative selectivity for beta<sub>1</sub> and beta<sub>2</sub> receptors (ie, cardioselective or nonselective), the presence or absence of agonistic activity, membrane-stabilizing properties, alpha-receptor-blocking efficacy, and various pharmacokinetic features (eg, lipid solubility, oral bioavailability, and elimination half-time). The practitioner must realize that the selectivity of individual drugs for beta<sub>1</sub> and beta<sub>2</sub> receptors is relative, not absolute. For example, the risk of inducing bronchospasm with a beta<sub>1</sub>-adrenergic (cardioselective) blocker (eg, esmolol or metoprolol) may be relatively less than that with a nonselective blockers (eg, propranolol); however, the risk is still present.
+  
+<details class="med-details"><summary>
+  
+### TABLE 4-3: Beta-Adrenergic Receptors Blockers</summary><div class="details-content">
 
-#### TABLE 4-2: Location and Actions of Beta-Adrenergic Receptors
+| Generic<br>Name   | Trade<br>Name | Dosage<br>Forms | Beta₁-<br>Selective |
+|--|--|--|--|
+| Acebutolol  | Sectral| PO| Yes |
+| Atenolol  | Tenormin | IV, PO | Yes |
+| Betaxolol | Kerlone | PO | Yes |
+| Bisoprolol | Zebeta | PO | Yes |
+| Esmolol | Brevibloc | IV | Yes |
+| Metoprolol | Lopressor,<br>Toprol-XL  | IV, PO  | Yes |
+| Carvedilol* | Coreg | PO | No |
+| Carteolol | Cartrol | PO | No |
+| Labetalol* | Normodyne,<br>Trandate | IV, PO | No |
+| Nadolol | Corgard | PO | No |
+| Penbutolol | Levatol | PO | No |
+| Pindolol | Visken | PO | No |
+| Propranolol | Inderal | IV, PO | No |
+| Sotalol | Betapace | PO | No |
+| Timolol | Blocadren | PO| No |
 
-| Tissue                                    | Receptor | Action                                  | Opposing Actions                         |
-|-------------------------------------------|----------|-----------------------------------------|------------------------------------------|
-| Heart                                     | O        | .,00                                    | 70                                       |
-| Sinus and AV nodes                        | 1        | ↑ Automaticity                          | Cholinergic receptors                    |
-| Conduction pathways                       | 1        | ↑ Conduction velocity                   | Cholinergic receptors                    |
-| . ,                                       |          | ↑ Automaticity                          | Cholinergic receptors                    |
-| Myofibrils                                | 1        | ↑ Contractility                         | _                                        |
-|                                           |          | ↑ Automaticity                          |                                          |
-| Vascular smooth muscle (arterial, venous) | 2        | Vasodilation                            | Alpha-adrenergic receptors               |
-| Bronchial smooth muscle                   | 2        | Bronchodilation                         | Cholinergic receptors                    |
-| Kidneys                                   | 1        | ↑ Renin release (juxtaglomerular cells) | Alpha,-adrenergic receptors              |
-| Liver                                     | 2        | ↑ Glucose metabolism                    | Alpha,-adrenergic receptors              |
-|                                           |          | ↑ Lipolysis                             |                                          |
-| Fat/adipose tissue                        | 3        | ↑ Lipolysis                             | _                                        |
-| Skeletal muscle                           | 2        | Potassium uptake glycogenolysis         | _                                        |
-| Eye, ciliary muscle                       | 2        | Relaxation                              | Cholinergic receptors                    |
-| GI tract                                  | 2        | ↑ Motility                              | Cholinergic receptors                    |
-| Gallbladder                               | 2        | Relaxation                              | Cholinergic receptors                    |
-| Urinary bladder detrussor muscle          | 2        | Relaxation                              | Cholinergic receptors                    |
-| Uterus                                    | 2        | Relaxation                              | Oxytocin                                 |
-| Platelets                                 | 2        | ↓ Aggregation                           | Alpha <sub>2</sub> -adrenergic receptors |
-|                                           |          |                                         | (aggregation)                            |
+<sup>\*</sup>Alpha<sub>1</sub>: beta-adrenergic blocking ratio; carvedilol 1:10, labetalol 1:3 (oral)/1:7.
+</div></details>
 
-practitioner must realize that the selectivity of individual drugs for beta<sub>1</sub> and beta<sub>2</sub> receptors is relative, not absolute. For example, the risk of inducing bronchospasm with a beta<sub>1</sub>-adrenergic (cardioselective) blocker (eg, esmolol or metoprolol) may be relatively less than that with a nonselective blockers (eg, propranolol); however, the risk is still present.
+<details class="med-details"><summary>
+  
+### **Acute Myocardial Infarction**</summary><div class="details-content">
 
-### **Acute Myocardial Infarction**
+Earlier clinical trials of intravenous beta-adrenergic blockers in the early phases of acute myocardial infarction suggest they decrease mortality. Following myocardial infarction, chronic oral beta-blocking agents reduce the incidence of recurrent myocardial infarction (see Table 4-3).
+</div></details>
 
-Earlier clinical trials of intravenous beta-adrenergic blockers in the early phases of acute myocardial infarction suggest they decrease mortality. Following myocardial infarction, chronic oral beta-blocking agents reduce the incidence of recurrent myocardial infarction (see Table 4-3).<sup>130</sup>
+<details class="med-details"><summary>
+  
+### Supraventricular Tachycardias and Ventricular Dysrhythmias</summary><div class="details-content">
 
-# Supraventricular Tachycardias and Ventricular Dysrhythmias
+Beta-adrenergic blocking agents are Vaughan Williams class II antidysrhythmics that primarily block cardiac responses to catecholamines. Metoprolol and esmolol are used commonly for this indication. Beta-blocking agents decrease spontaneous depolarization in the SA and AV nodes, decrease automaticity in Purkinje fibers, increase AV nodal refractoriness, increase threshold for fibrillation (but not for depolarization), and decrease ventricular slow responses that depend on catecholamines. Amiodarone, a class III agent, also exerts noncompetitive alpha- and beta-adrenergic blockade, which may contribute its antidysrhythmic and antihypertensive actions. Sotalol is another class III antidysrhythmic with nonselective beta-blocking action. Beta-adrenergic blocking agents also decrease intramyocardial conduction in ischemic tissue and reduce the risks of dysrhythmias to the extent that they decrease myocardial ischemia.
+</div></details>
 
-Beta-adrenergic blocking agents are Vaughan Williams class II antidysrhythmics that primarily block cardiac responses to catecholamines. Metoprolol and esmolol are used commonly for this indication. Beta-blocking agents decrease spontaneous depolarization in the SA and AV nodes, decrease automaticity in Purkinje fibers, increase AV nodal refractoriness, increase threshold for fibrillation (but not for depolarization), and decrease ventricular slow responses that depend on catecholamines. Amiodarone, a class III agent, also exerts noncompetitive alpha- and beta-adrenergic blockade, which may contribute its antidysrhythmic and antihypertensive actions. Sotalol is another class III antidysrhythmic with nonselective
+<details class="med-details"><summary>
+  
+### Hypertension</summary><div class="details-content">
 
-beta-blocking action. Beta-adrenergic blocking agents also decrease intramyocardial conduction in ischemic tissue and reduce the risks of dysrhythmias to the extent that they decrease myocardial ischemia.
+Hypertension, if not treated, is a major risk factor for myocardial infarction, stroke, renal failure and death, and patients often present for cardiac surgery with poorly controlled blood pressure (BP) management. The recently published recommendations of Eighth Joint National Committee (JNC 8) provide an evidence-based approach to recommend treatment thresholds, goals and specific therapy for management of hypertension, and have been liberalized since the last report. They recommend treating patients aged >60 years with <150/90 mm Hg whereas younger patients 30 to 59 years to a diastolic goal of <90 mm Hg, and in younger patients a BP of <140/90 mm Hg, whether or not they have diabetes or chronic kidney disease (CKD). They suggest initiating therapy with an ACE inhibitor, angiotensin receptor blocker, calcium channel blocker, or thiazide-type diuretic in the nonblack hypertensive population, including those with diabetes. In the black hypertensive population, a calcium channel blocker or thiazide-type diuretic is recommended as initial therapy. There is moderate evidence to support initial or add-on antihypertensive therapy with an ACE inhibitor or angiotensin receptor blocker in persons with CKD to improve kidney outcomes. Of note, they emphasize the importance of clinical judgment as a critical component. 
+</div></details>
 
-![](_page_13_Picture_11.jpeg)
-
-# TABLE 4-3: Beta-Adrenergic Receptors Blockers
-
-| Generic<br>Name   | Trade<br>Name | Dosage<br>Forms | Beta₁-<br>Selective |  |
-|-------------------|---------------|-----------------|---------------------|--|
-|                   |               |                 |                     |  |
-| Acebutolol        | Sectral       | PO              | Yes                 |  |
-| Atenolol          | Tenormin      | IV, PO          | Yes                 |  |
-| Betaxolol         | Kerlone       | PO              | Yes                 |  |
-| Bisoprolol        | Zebeta        | PO              | Yes                 |  |
-| Esmolol           | Brevibloc     | IV              | Yes                 |  |
-| Metoprolol        | Lopressor,    | IV, PO          | Yes                 |  |
-|                   | Toprol-XL     |                 |                     |  |
-| Carvedilol*       | Coreg         | PO              | No                  |  |
-| Carteolol         | Cartrol       | PO              | No                  |  |
-| Labetalol*        | Normodyne,    | IV, PO          | No                  |  |
-|                   | Trandate      |                 |                     |  |
-| Nadolol           | Corgard       | PO              | No                  |  |
-| Penbutolol        | Levatol       | PO              | No                  |  |
-| Pindolol          | Visken        | PO              | No                  |  |
-| Propranolol       | Inderal       | IV, PO          | No                  |  |
-| Sotalol           | Betapace      | PO              | No                  |  |
-| Timolol Blocadren |               | PO              | No                  |  |
-
-<sup>\*</sup>Alpha,: beta-adrenergic blocking ratio; carvedilol 1:10, labetalol 1:3 (oral)/1:7 (IV).
-
-#### Hypertension
-
-Hypertension, if not treated, is a major risk factor for myocardial infarction, stroke, renal failure and death, and patients often present for cardiac surgery with poorly controlled blood pressure (BP) management. The recently published recommendations of Eighth Joint National Committee (JNC 8) provide an evidence-based approach to recommend treatment thresholds, goals and specific therapy for management of hypertension, and have been liberalized since the last report.<sup>131</sup> They recommend treating patients aged >60 years with <150/90 mm Hg whereas younger patients 30 to 59 years to a diastolic goal of <90 mm Hg, and in younger patients a BP of <140/90 mm Hg, whether or not they have diabetes or chronic kidney disease (CKD). They suggest initiating therapy with an ACE inhibitor, angiotensin receptor blocker, calcium channel blocker, or thiazide-type diuretic in the nonblack hypertensive population, including those with diabetes. In the black hypertensive population, a calcium channel blocker or thiazide-type diuretic is recommended as initial therapy. There is moderate evidence to support initial or add-on antihypertensive therapy with an ACE inhibitor or angiotensin receptor blocker in persons with CKD to improve kidney outcomes. Of note, they emphasize the importance of clinical judgment as a critical component. 131,132
-
-# Hypertenisve Emergencies and Urgencies
+<details class="med-details"><summary>
+  
+### Hypertenisve Emergencies and Urgencies</summary><div class="details-content">
 
 Hypertensive emergencies/crises include multiple clinical presentations where uncontrolled hypertension leads to progressive or impending end-organ dysfunction requiring BP to be lowered aggressively over minutes to hours. Neurologic endorgan dysfunction due to uncontrolled hypertension includes encephalopathy, cerebral vascular infarction, subarachnoid hemorrhage, and/or intracranial hemorrhage. Cardiovascular end-organ injury includes myocardial ischemia and/or infarction, acute HF, pulmonary edema, and/or aortic dissection. Other organ systems may also be affected by uncontrolled hypertension, which may lead to acute renal failure/insufficiency, eclampsia, or coagulopathy. In hypertensive emergencies, intravenous therapy with specific BP titration is the cornerstone of therapy.
 
 Hypertensive urgencies are seen in a clinical setting where patients present asymptomatically with high blood pressures that should be treated but with oral therapies, restarting on their medications or therapy initiated with care to avoid overshoot and hypotenstion. Hypertensive urgencies are common in cardiac surgery where BP is maintained at specific arbitrary levels based on concerns about bleeding and/or suture line disruption.
+</div></details>
 
-# Acute Dissecting Aortic Aneurysm
+<details class="med-details"><summary>
+  
+### Acute Dissecting Aortic Aneurysm</summary><div class="details-content">
 
-The primary goal in managing dissecting aneurysms is to reduce stress on the dissected aortic wall by reducing the systolic acceleration of blood flow. Beta-blockers reduce cardiac
+The primary goal in managing dissecting aneurysms is to reduce stress on the dissected aortic wall by reducing the systolic acceleration of blood flow. Beta-blockers reduce cardiac inotropy and ventricular ejection fraction. They also may limit reflex sympathetic responses to vasodilators used to control systemic arterial pressure.
+</div></details>
 
-inotropy and ventricular ejection fraction. They also may limit reflex sympathetic responses to vasodilators used to control systemic arterial pressure.
-
-#### Pheochromocytoma
+<details class="med-details"><summary>
+  
+### Pheochromocytoma</summary><div class="details-content">
 
 The presence of catecholamine-secreting tissue is tantamount to the continuous or intermittent infusion of a varying mixture of norepinephrine and epinephrine. It is absolutely essential that virtually complete alpha-adrenergic receptor blockade be established prior to administering the beta-blocker to prevent exacerbation of hypertensive episodes by unopposed alpha-adrenergic receptor activity in vascular smooth muscle.
+</div></details>
 
-#### **Chronic Heart Failure**
+<details class="med-details"><summary>
+  
+### **Chronic Heart Failure**</summary><div class="details-content">
 
-It is now understood that activation of the autonomic nervous system (ANS) and renin-angiotensin system (RAS) as compensatory mechanisms for the failing heart actually may contribute to deterioration of myocardial function. Mortality in chronic HF seems related to activation of ANS and RAS. Progression of myocardial dysfunction and remodeling may be attenuated by the use of beta-blocking agents and ACE inhibitors. Carvedilol (Coreg) is a beta-blocker approved by the FDA to treat patients with HF. It has an alpha, - and nonselective beta-blocking activity (alpha:beta = 1:10). It is contraindicated in severe decompensated HF and asthma. In patients with AF and left-sided HF treated with carvedilol, improved ejection fraction, and a trend toward a decreased incidence of death and chronic HF hospitalization were observed in a retrospective analysis of a US carvedilol study. There are several ongoing clinical trials with carvedilol, metoprolol (Toprol), and bisoprolol (Zebeta). The results of these studies may provide answers as to which betablocking agent would be most successful in the treatment of specific patient populations.
-
-#### Other Indications
+It is now understood that activation of the autonomic nervous system (ANS) and renin-angiotensin system (RAS) as compensatory mechanisms for the failing heart actually may contribute to deterioration of myocardial function. Mortality in chronic HF seems related to activation of ANS and RAS. Progression of myocardial dysfunction and remodeling may be attenuated by the use of beta-blocking agents and ACE inhibitors. Carvedilol (Coreg) is a beta-blocker approved by the FDA to treat patients with HF. It has an alpha<sub>1</sub> - and nonselective beta-blocking activity (alpha:beta = 1:10). It is contraindicated in severe decompensated HF and asthma. In patients with AF and left-sided HF treated with carvedilol, improved ejection fraction, and a trend toward a decreased incidence of death and chronic HF hospitalization were observed in a retrospective analysis of a US carvedilol study. There are several ongoing clinical trials with carvedilol, metoprolol (Toprol), and bisoprolol (Zebeta). The results of these studies may provide answers as to which betablocking agent would be most successful in the treatment of specific patient populations.
+</div></details>
+  
+<details class="med-details"><summary>
+  
+### Other Indications</summary><div class="details-content">
 
 The other clinical applications of beta-adrenergic receptor blockers listed in Table 4-4 are based on largely symptomatic treatment or empirical trials of beta-adrenergic antagonists.
+  
 
-# Side Effects and Toxicity
-
-The most obvious and immediate signs of a toxic overdose of a beta-adrenergic receptor blocker are hypotension, bradycardia, congestive HF, decreased AV conduction, and a widened QRS complex on the electrocardiogram. Treatment is aimed at blocking the cholinergic receptor responses to vagal nerve activity (eg, atropine) and administering a sympathomimetic to compete with the beta-blockers at adrenergic receptors. In patients with asthma and chronic obstructive pulmonary disease (COPD), beta-blockers may cause bronchospasm. Beta-blockers may increase levels of plasma triglycerides and reduce levels of high-density lipoprotein (HDL) cholesterol. Rarely, beta-blockers may mask the symptoms of hypoglycemia in
-
-# TABLE 4-4: Clinical Applications of Beta-Adrenergic Receptor Blockers
+<details class="med-details"><summary>
+  
+#### TABLE 4-4: Clinical Applications of Beta-Adrenergic Receptor Blockers</summary><div class="details-content">
 
 Angina pectoris
 
@@ -549,49 +580,70 @@ Acute panic attack
 Alcohol withdrawal syndrome
 
 Glaucoma (topically)
+</div></details>
 
-diabetic patients. Other side effects include mental depression, physical fatigue, altered sleep patterns, sexual dysfunction, and gastrointestinal symptoms, including indigestion, constipation, and diarrhea (see Table 4-4).
+</div></details>
 
-### **Drug Interactions**
+<details class="med-details"><summary>
+  
+### Side Effects and Toxicity</summary><div class="details-content">
 
-Pharmacokinetic drug interactions include reduced gastrointestinal absorption of the beta-blocker (eg, aluminum-containing antacids and cholestyramine), increased biotransformation of the beta-blocker (eg, phenytoin, phenobarbital, rifampin, and smoking), and increased bioavailability owing to decreased biotransformation (eg, cimetidine and hydralazine). Pharmacodynamic interactions include an additive effect with calcium channel blockers to decrease conduction in the heart and a reduced antihypertensive effect of beta-blockers when administered with some of the nonsteroidal anti-inflammatory drugs (NSAIDs).
+The most obvious and immediate signs of a toxic overdose of a beta-adrenergic receptor blocker are hypotension, bradycardia, congestive HF, decreased AV conduction, and a widened QRS complex on the electrocardiogram. Treatment is aimed at blocking the cholinergic receptor responses to vagal nerve activity (eg, atropine) and administering a sympathomimetic to compete with the beta-blockers at adrenergic receptors. In patients with asthma and chronic obstructive pulmonary disease (COPD), beta-blockers may cause bronchospasm. Beta-blockers may increase levels of plasma triglycerides and reduce levels of high-density lipoprotein (HDL) cholesterol. Rarely, beta-blockers may mask the symptoms of hypoglycemia in diabetic patients. Other side effects include mental depression, physical fatigue, altered sleep patterns, sexual dysfunction, and gastrointestinal symptoms, including indigestion, constipation, and diarrhea (see Table 4-4).
+</div></details>
+
+<details class="med-details"><summary>
+  
+### **Drug Interactions**</summary><div class="details-content">
+
+- Pharmacokinetic drug interactions include reduced gastrointestinal absorption of the beta-blocker (eg, aluminum-containing antacids and cholestyramine), increased biotransformation of the beta-blocker (eg, phenytoin, phenobarbital, rifampin, and smoking), and increased bioavailability owing to decreased biotransformation (eg, cimetidine and hydralazine). 
+- Pharmacodynamic interactions include an additive effect with calcium channel blockers to decrease conduction in the heart and a reduced antihypertensive effect of beta-blockers when administered with some of the nonsteroidal anti-inflammatory drugs (NSAIDs).
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+## **DIURETICS**</summary><div class="details-content">
+
+Diuretics are drugs that act directly on the kidneys to increase urine volume and produce a net loss of solute (principally sodium and other electrolytes) and water. Diuretics and betablockers are initial drugs of choice for uncomplicated hypertension in patients younger than 65 years. The currently available diuretic drugs have a number of other uses in medicine (eg, glaucoma and increased intracranial pressure). The principal indications for the use of diuretics by intravenous administration in the perioperative period are to: 
+- (1) increase urine flow in oliguria; 
+- (2) reduce intravascular volume in patients at risk for acute HF from excessive fluid administration or acute HF;
+- (3) mobilize edema.
+
+Renal function depends on adequate renal perfusion to maintain the integrity of renal cells and provide the hydrostatic pressure that produces glomerular filtration. There are no drugs that act directly on the renal glomerulus to affect glomerular filtration rate (GFR). In the normal adult human of average size, GFR averages 125 mL/min and urine production approximates 1 mL/min. In other words, 99% of the glomerular filtrate is reabsorbed. Diuretics act primarily on specific segments of the renal tubule to alter reabsorption of electrolytes, principally sodium, and water.
+
+<details class="med-details"><summary>
+  
+### Two basic mechanisms</summary><div class="details-content">
+There are two basic mechanisms behind the renal tubular reabsorption of sodium. 
+- First, sodium is extruded from the tubular cell into peritubular fluid primarily by active transport of the sodium ion, which reflects the action of the Na<sup>+</sup>, K<sup>+</sup> ATPase pump, as well as the bicarbonate reabsorption mechanism (see the following). This extrusion of sodium creates an electrochemical gradient that causes diffusion of sodium from the tubular lumen into the tubular cell. 
+- Second, sodium moves from the glomerular filtrate in the tubular fluid into the peritubular fluid by several different mechanisms. The most important quantitatively is the sodium electrochemical gradient created by the active extrusion of sodium from the tubular cell into the peritubular fluid. In addition, sodium is coupled with organic solutes and phosphate ions, exchanged for hydrogen ions diffusing from the tubular cell into the tubular lumen, and coupled to the transfer of a chloride ion or a combination of potassium and two chloride ions (Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransport) from the tubular fluid into the tubular cell. Diuretics are classified by their principal site of action in the nephron and by the primary mechanism of their natriuretic effect (Table 4-5).
+</div></details>
+ 
+<details class="med-details"><summary>
+  
+### TABLE 4-5: Classification of Diuretics</summary><div class="details-content">
+
+| Site of Action | Mechanism   | |
+|--|--|--|
+| Osmotic | Proximal convoluted and late proximal for Na<sup>+</sup> diffusion from tubular fluid into tubular cell | ↓ Electrochemical gradient |
+| | Late proximal tubule | ↓ Gradient for Cl<sup>⁻</sup> (accompanying Na<sup>⁺</sup> diffusion) |
+| | Thick ascending loop of Henle | ↓ Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransport |
+| Carbonic | Proximal convoluted tubule anhydrase inhibitors     | ↓ Na<sup>+</sup>-H<sup>+</sup> exchange|
+| Thiazides  | Distal convoluted tubule  | ↓ Na<sup>⁺</sup>-Cl<sup>⁻</sup> cotransport  |
+| High-ceiling loop diuretics | Thick ascending loop of Henle  | ↓ Na <sup>+</sup> -K <sup>+</sup> -2Cl <sup>-</sup> cotransport |
+| Potassium-sparing diuretics | Late distal tubule and collecting duct | ↓ Electrogenic Na <sup>+</sup> entry into cells (driving) force for K <sup>+</sup> secretion)|
 </div>
 </details>
 
-
-
-<details class="med-details">
-<summary>## **DIURETICS**</summary>
-<div class="details-content">
-#### **DIURETICS**
-
-Diuretics are drugs that act directly on the kidneys to increase urine volume and produce a net loss of solute (principally sodium and other electrolytes) and water. Diuretics and betablockers are initial drugs of choice for uncomplicated hypertension in patients younger than 65 years. The currently available diuretic drugs have a number of other uses in medicine (eg, glaucoma and increased intracranial pressure). The principal indications for the use of diuretics by intravenous administration in the perioperative period are to: (1) increase urine flow in oliguria; (2) reduce intravascular volume in patients at risk for acute HF from excessive fluid administration or acute HF; and (3) mobilize edema.
-
-Renal function depends on adequate renal perfusion to maintain the integrity of renal cells and provide the
-
-hydrostatic pressure that produces glomerular filtration. There are no drugs that act directly on the renal glomerulus to affect glomerular filtration rate (GFR). In the normal adult human of average size, GFR averages 125 mL/min and urine production approximates 1 mL/min. In other words, 99% of the glomerular filtrate is reabsorbed. Diuretics act primarily on specific segments of the renal tubule to alter reabsorption of electrolytes, principally sodium, and water.
-
-There are two basic mechanisms behind the renal tubular reabsorption of sodium. First, sodium is extruded from the tubular cell into peritubular fluid primarily by active transport of the sodium ion, which reflects the action of the Na+, K+ ATPase pump, as well as the bicarbonate reabsorption mechanism (see the following). This extrusion of sodium creates an electrochemical gradient that causes diffusion of sodium from the tubular lumen into the tubular cell. Second, sodium moves from the glomerular filtrate in the tubular fluid into the peritubular fluid by several different mechanisms. The most important quantitatively is the sodium electrochemical gradient created by the active extrusion of sodium from the tubular cell into the peritubular fluid. In addition, sodium is coupled with organic solutes and phosphate ions, exchanged for hydrogen ions diffusing from the tubular cell into the tubular lumen, and coupled to the transfer of a chloride ion or a combination of potassium and two chloride ions (Na+-K+-2Cl- cotransport) from the tubular fluid into the tubular cell. Diuretics are classified by their principal site of action in the nephron and by the primary mechanism of their natriuretic effect (Table 4-5).
 
 #### **Osmotic Diuretics**
 
 Mannitol is the principal example of this type of diuretic, which is used for two primary indications: (1) prophylaxis and early treatment of acute renal failure that is characterized by a decrease in GFR leading to a decreased urine volume and an increase in the concentration of toxic substances in the renal tubular fluid; and (2) enhancing the actions of other diuretics by retaining water and solutes in the tubular lumen, thereby providing the substrate for the action of other types of diuretics. Normally, 80% of the glomerular filtrate is reabsorbed isosmotically in the proximal tubules. By its osmotic effect, mannitol limits the reabsorption of water and dilutes the proximal tubular fluid. This reduces the electrochemical gradient for sodium and limits its reabsorption so that more is delivered to the distal portions of the nephron. Mannitol produces a prostaglandin-mediated increase in renal blood flow that partially washes out the medullary hypertonicity, which is essential for the countercurrent mechanism promoting the reabsorption of water in the late distal tubules and collecting system under the influence of antidiuretic hormone (ADH). Mannitol is used often (25 to 50 g) as part of the priming solution of CPB for the above-mentioned indications. The principal toxicity of mannitol is acute expansion of the extracellular fluid volume leading to HF in the patient with compromised cardiac function (see Table 4-5).
 
-![](_page_16_Picture_2.jpeg)
 
-#### TABLE 4-5: Classification of Diuretics
 
-| Site of Action              | Mechanism                                                                                       | 94                                                              |
-|-----------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| Osmotic                     | Proximal convoluted and late proximal for Na* diffusion<br>from tubular fluid into tubular cell | ↓ Electrochemical gradient                                      |
-|                             | Late proximal tubule                                                                            | ↓ Gradient for Cl⁻ (accompanying                                |
-|                             |                                                                                                 | Na⁺ diffusion)                                                  |
-|                             | Thick ascending loop of Henle                                                                   | ↓ Na+-K+-2Cl- cotransport                                       |
-| Carbonic                    | Proximal convoluted tubule anhydrase inhibitors                                                 | ↓ Na+-H+ exchange                                               |
-| Thiazides                   | Distal convoluted tubule                                                                        | ↓ Na⁺-Cl⁻ cotransport                                           |
-| High-ceiling loop diuretics | Thick ascending loop of Henle                                                                   | ↓ Na <sup>+</sup> -K <sup>+</sup> -2Cl <sup>-</sup> cotransport |
-| Potassium-sparing diuretics | Late distal tubule and collecting duct                                                          | ↓ Electrogenic Na <sup>+</sup> entry into cells (driving)       |
-| (40)                        |                                                                                                 | force for K <sup>+</sup> secretion)                             |
+
 
 #### High-Ceiling (Loop) Diuretics
 
