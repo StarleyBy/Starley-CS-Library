@@ -6,56 +6,157 @@
 
 <details class="med-details"><summary>
   
-## Executive Summary</summary><div class="details-content">
+### Executive Summary</summary><div class="details-content">
 
-### Myocardial Hypertrophy and Ventricular Remodeling
-*   **Myocardial hypertrophy:** The compensatory response to increased work; accompanies nearly all forms of heart disease. Initially adaptive but becomes deleterious when excessive or prolonged.
-*   **Pressure overload hypertrophy (concentric):** Increased wall thickness, increased ventricular mass, no dilation — classic in systemic hypertension and aortic stenosis.
-*   **Volume overload hypertrophy (eccentric):** Chamber dilation with increased radius and total mass — seen in aortic/mitral regurgitation and dilated cardiomyopathy.
-*   **Ventricular remodeling:** Constellation of structural changes following MI (regional) or pressure/volume overload (global); at cell level, pressure overload → parallel sarcomere addition (cell widening); volume overload → parallel + series addition (cell widening and lengthening).
-*   **Deleterious mechanisms of hypertrophy:** Ischemia vulnerability (inadequate vascular proliferation), fibrosis, impaired energetics, reduced adrenergic responsiveness, decreased Ca<sup>2+</sup> availability, apoptosis.
-*   **Hypertrophy as independent risk factor:** For sudden death and cardiac mortality; an independent risk factor regardless of etiology.
+### Myocardial Hypertrophy & Remodeling
+*   **Pressure overload** (hypertension, AS): **Concentric hypertrophy** — increased wall thickness, no dilation.
+*   **Volume overload** (regurgitation, DCM): **Eccentric hypertrophy** — chamber dilation, increased radius.
+*   **Ventricular remodeling:** Regional (post-MI) or global changes; at cellular level: pressure → parallel sarcomere addition (widening); volume → parallel + series addition (widening + lengthening).
+*   **Deleterious mechanisms:** Ischemia vulnerability (inadequate vascular proliferation), fibrosis, impaired energetics, reduced adrenergic responsiveness, apoptosis.
+*   **Hypertrophy** is an independent risk factor for sudden death and cardiac mortality.
 
 ### Cardiomyopathies
-*   **Dilated cardiomyopathy (DCM):** Four-chamber dilation; cardiomegaly 2–3× normal; LV systolic dysfunction; genetic/familial basis in ~25–50%; mutations in cytoskeletal/sarcomeric genes; also alcohol, pregnancy, myocarditis.
-*   **Hypertrophic cardiomyopathy (HCM):** Massive hypertrophy without dilation; asymmetric septal hypertrophy (septum/free wall ratio >1.3); myofiber disarray; myocyte diameter >40 μm (normal ~15–20 μm); >1500 mutations in ≥11 sarcomeric genes, most commonly β-myosin heavy chain and myosin-binding protein C. Complications: atrial fibrillation, sudden death, LVOT obstruction (systolic anterior motion of mitral valve).
-*   **Restrictive cardiomyopathy:** Heart failure with preserved EF (diastolic dysfunction); biatrial dilation; causes include amyloidosis, Fabry's disease, eosinophilic endomyocardial disease, postirradiation fibrosis.
-*   **Arrhythmogenic right ventricular cardiomyopathy (ARVC):** Dilated, thinned RV; fatty infiltration with myocyte loss and fibrosis; right-sided failure; sudden death in athletes; mutations in cell-adhesion genes.
+| Type | Key Features | Genetics/Notes |
+|------|--------------|----------------|
+| **Dilated (DCM)** | 4-chamber dilation; cardiomegaly 2–3× normal; systolic dysfunction | 25–50% familial; cytoskeletal/sarcomeric gene mutations |
+| **Hypertrophic (HCM)** | Massive hypertrophy, no dilation; asymmetric septal hypertrophy (septum/free wall ratio >1.3); myocyte diameter >40 μm (normal 15–20 μm) | >1500 mutations in ≥11 sarcomeric genes (β-MHC, MyBP-C most common); complications: AF, sudden death, LVOT obstruction (SAM of mitral valve) |
+| **Restrictive (RCM)** | Heart failure with preserved EF; biatrial dilation | Causes: amyloidosis, Fabry's, postirradiation, eosinophilic endomyocardial disease |
+| **ARVC** | Dilated, thinned RV; fatty infiltration, myocyte loss, fibrosis; right-sided failure; sudden death in athletes | Mutations in cell-adhesion genes (desmosomal) |
 
-### Coronary Artery Disease and Atherosclerosis
-*   **Atherosclerosis:** Chronic, progressive intimal disease; fatty streak → fibrous plaque → vulnerable plaque. Key mechanism: endothelial dysfunction → monocyte adhesion/infiltration, smooth muscle cell proliferation, lipid accumulation, foam cell formation, ECM production, calcification.
-*   **Endothelial dysfunction:** Caused by hypercholesterolemia, hypertension, smoking, hyperglycemia; results in decreased NO production, increased lipoprotein permeability, pro-thrombotic surface, leukocyte adhesion.
-*   **Vulnerable plaque:** Thin fibrous cap, abundant macrophages producing matrix metalloproteinases (MMPs), large necrotic lipid core — prone to rupture even at <50% stenosis. Hemodynamically significant stenosis begins at ~75% luminal area reduction; critical at ~90%.
-*   **Acute plaque rupture:** Key mechanism triggering acute coronary syndrome (ACS); conversion of stable angina to ACS depends on fibrous cap disruption, thrombus formation, vasospasm, and platelet aggregation.
+### Coronary Artery Disease & Atherosclerosis
+*   **Pathogenesis:** Endothelial dysfunction → monocyte adhesion, smooth muscle proliferation, lipid accumulation, foam cells, ECM production, calcification.
+*   **Endothelial dysfunction causes:** ↓ NO, ↑ lipoprotein permeability, prothrombotic surface, leukocyte adhesion.
+*   **Vulnerable plaque:** Thin fibrous cap, abundant macrophages (MMP production), large necrotic lipid core — prone to rupture even at <50% stenosis.
+*   **Hemodynamic stenosis:** 75% luminal area reduction limits exertion; 90% limits resting flow.
+*   **Acute plaque rupture** is the key mechanism triggering ACS.
 
-### Ischemic Myocardial Injury
-*   **Temporal sequence of ischemic injury:** Anaerobic metabolism within seconds → loss of contractility <2 min → ATP reduced to 50% at 10 min, 10% at 40 min → irreversible cell injury at 20–40 min → microvascular injury >1 h.
-*   **Pathologic recognition:** Ultrastructural reversible changes at 5–10 min; ultrastructural irreversible damage at 20–40 min; wavy fibers at 1–3 h; TTC staining defect at 2–3 h; classic histologic necrosis at 6–12 h; gross changes at 12–24 h.
-*   **Infarct progression (wavefront):** Necrosis begins in subendocardium/papillary muscles and progresses outward; ~50% of area at risk becomes necrotic in 3–4 h; final transmural extent established within 6–12 h.
-*   **Tissue repair after MI:** PMN exudate at 6–12 h; macrophage infiltrate at 3–5 days; collagen production begins at 7–10 days; dense scar fully mature by 6–8 weeks.
+### Ischemic Myocardial Injury (Timeline)
+| Event | Time |
+|-------|------|
+| Anaerobic metabolism | Seconds |
+| Loss of contractility | <2 min |
+| ATP 50% | 10 min |
+| ATP 10% | 40 min |
+| Irreversible cell injury | 20–40 min |
+| Microvascular injury | >1 h |
+
+| Pathologic finding | Onset |
+|-------------------|-------|
+| Wavy fibers | 1–3 h |
+| TTC staining defect | 2–3 h |
+| Histologic necrosis | 6–12 h |
+| Gross changes | 12–24 h |
+
+*   **Wavefront phenomenon:** Necrosis begins in subendocardium, progresses outward; 50% of area at risk necrotic by 3–4 h; transmural extent complete by 6–12 h.
+*   **Healing:** PMNs 6–12 h → macrophage peak 3–5 days → collagen begins 7–10 days → dense scar by 6–8 weeks.
 
 ### Reperfusion, Stunning, Hibernation, Preconditioning
-*   **Reperfusion window:** Irreversible injury begins at ~20 min; reperfusion ≤3–4 h offers significant myocardial salvage; "door-to-balloon" clinical goal is 90 min.
-*   **Reperfusion injury features:** Contraction bands (hypercontracted sarcomeres from massive Ca<sup>2+</sup> influx), hemorrhage from microvascular damage, no-reflow phenomenon, arrhythmias; stone heart syndrome in severe global ischemia.
-*   **Myocardial stunning:** Reversible postischemic dysfunction persisting hours to days despite restored flow; occurs also with PCI, CPB, unstable angina.
-*   **Myocardial hibernation:** Chronic dysfunction in viable myocardium with reduced blood flow; characterized by wall motion abnormality, low flow, residual viability; reversible with revascularization.
-*   **Ischemic preconditioning:** Brief ischemia/reperfusion cycles confer protection against subsequent prolonged ischemia; mechanism uncertain; pharmacologic mimicry under investigation.
+*   **Reperfusion window:** Irreversible injury ~20 min; salvage possible ≤3–4 h; clinical goal **door-to-balloon 90 min**.
+*   **Reperfusion injury:** Contraction bands (Ca²⁺ overload), hemorrhage, no-reflow, arrhythmias.
+*   **Myocardial stunning:** Reversible dysfunction hours–days despite restored flow; seen after PCI, CPB, unstable angina.
+*   **Myocardial hibernation:** Chronic dysfunction with reduced flow; viable myocardium; reversible with revascularization.
+*   **Ischemic preconditioning:** Brief ischemia protects against subsequent prolonged ischemia.
 
-### Myocardial Infarction and Complications
-*   **Transmural (Q-wave) MI:** Full-thickness necrosis in the territory of a single coronary artery; from plaque rupture + thrombosis.
-*   **Subendocardial (non-Q-wave) MI:** Inner 1/3–1/2 of ventricular wall; from global ischemia, hypotension, hypoxemia, or interrupted wavefront.
-*   **In-hospital mortality:** Declined from ~30% (1950s) to ≤7% today with aggressive reperfusion; 50% of MI deaths occur within 1st hour.
-*   **Cardiac rupture syndromes (see Fig. 5-9):** (1) Free wall rupture (most common) → hemopericardium/tamponade; (2) ventricular septal rupture → acquired VSD; (3) papillary muscle rupture → acute severe MR; most within 24 h to 5 days post-MI.
-*   **Infarct extension vs expansion:** Extension = new necrosis in same distribution; expansion = disproportionate thinning/dilation without additional necrosis → aneurysm substrate.
-*   **Cardiogenic shock:** Indicates large infarct (often >40% LV); VADs used as bridge.
+### Myocardial Infarction Complications
+*   **Transmural (Q-wave) MI:** Full-thickness necrosis from plaque rupture + thrombosis.
+*   **Subendocardial (non-Q-wave) MI:** Inner 1/3–1/2 of wall from global ischemia or interrupted wavefront.
+*   **Mortality:** Declined from ~30% (1950s) to ≤7% today; 50% of MI deaths occur within first hour.
+*   **Cardiac rupture syndromes (post-MI):**
+    1.  **Free wall rupture** (most common) → tamponade
+    2.  **Ventricular septal rupture** → acquired VSD
+    3.  **Papillary muscle rupture** → acute severe MR
+    *   Timing: most within 24 h – 5 days post-MI.
+*   **Infarct extension:** New necrosis in same distribution.
+*   **Infarct expansion:** Disproportionate thinning/dilation without new necrosis → aneurysm substrate.
+*   **Cardiogenic shock:** Indicates large infarct (>40% LV).
 
-### Revascularization: PCI and CABG
-*   **PTCA mechanism:** Plaque fracture (dominant) ± embolization, compression, vessel wall expansion; restenosis in 30–50% within 4–6 months, driven by smooth muscle cell proliferation.
-*   **BMS vs DES vs RBS:** Bare-metal stents → in-stent restenosis 50% at 6 months; drug-eluting stents (sirolimus, paclitaxel) effectively reduce restenosis but carry stent thrombosis risk requiring prolonged dual antiplatelet therapy; resorbable stents under investigation.
-*   **CABG indications and outcomes:** Improves survival in left main CAD, 3-vessel (possibly 2-vessel) disease, reduced LV function; hospital mortality ~1% in low-risk patients; <3% perioperative MI.
-*   **Saphenous vein graft patency:** ~60% at 10 years; failure mechanisms: early thrombosis, intimal hyperplasia at 1 month–1 year, atherosclerosis beyond 1–3 years.
-*   **IMA graft superiority:** >90% patency at 10 years; minimal preexisting atherosclerosis, artery-to-artery anastomosis, maintains nutrient blood supply.
+### Revascularization
+*   **PTCA mechanism:** Plaque fracture (dominant), compression, vessel wall expansion.
+*   **Restenosis:** 30–50% at 4–6 months; driven by smooth muscle proliferation and ECM production.
+*   **Stents:**
+    *   **BMS:** In-stent restenosis 50% at 6 months.
+    *   **DES:** Sirolimus/paclitaxel reduce restenosis; risk of late stent thrombosis requiring prolonged DAPT.
+    *   **RBS:** Biodegradable; under investigation.
+*   **CABG:** Improves survival in left main CAD, 3-vessel disease, reduced LV function. Hospital mortality ~1% (low-risk).
+*   **Saphenous vein graft patency:** ~60% at 10 years. Failure mechanisms: early thrombosis → intimal hyperplasia (1 mo–1 yr) → atherosclerosis (>1–3 yr).
+*   **IMA graft patency:** >90% at 10 years; superior due to minimal preexisting disease, artery-to-artery anastomosis, preserved nutrient supply.
 
+### Valvular Heart Disease
+#### Calcific Aortic Stenosis
+*   Most common valvular disease in Western countries; prevalence ~3% after age 75.
+*   **Morphology:** Calcified masses in cuspal fibrosa; bicuspid valves present earlier (6th–7th decade) vs tricuspid (7th–9th decade).
+*   **Pathogenesis:** Active process (inflammation, lipid infiltration, osteoblastic VIC phenotype), not passive degeneration.
+*   **Clinical threshold:** Symptoms (angina, syncope, HF) herald poor prognosis; AVR indicated.
+
+#### Mitral Valve Prolapse
+*   Prevalence ~2%; most common indication for mitral repair/replacement.
+*   **Anatomic changes:** Intercordal hooding, leaflet thickening, annular dilation (posterior leaflet predominance).
+*   **Histology:** Myxomatous degeneration (proteoglycan accumulation in spongiosa).
+*   **Complications:** Progressive HF, endocarditis, thromboembolism, sudden death, AF.
+
+#### Infective Endocarditis
+| Feature | Acute | Subacute |
+|---------|-------|----------|
+| Organism | *S. aureus* | *S. viridans* |
+| Valve | Often normal | Preexisting disease |
+| Course | Days–weeks | Weeks–months |
+| Pathology | Destructive, ulcerative | Indolent, vegetations |
+
+*   **Duke criteria:** Standardized diagnosis integrating blood cultures, echo, clinical findings.
+*   **Complications:** Valvular insufficiency, ring abscess, fistulae, embolization.
+
+#### Prosthetic Valve Complications
+| Category | Examples |
+|----------|----------|
+| Thromboembolism | Thrombosis, systemic emboli; mechanical valves require lifelong anticoagulation |
+| Infection | Prosthetic valve endocarditis (early: *S. epidermidis*; late: *S. viridans*, *S. aureus*) |
+| Structural dysfunction | Mechanical: fracture (Bjork-Shiley); Bioprosthetic: calcification (50% fail by 15–20 yr) |
+| Nonstructural | Paravalvular leak, pannus overgrowth, suture impingement |
+
+### Cardiac Transplantation
+*   **Indications:** Idiopathic DCM (50%), end-stage ischemic heart disease (40%).
+*   **Survival:** 1-year ~90%, 5-year ~70%.
+*   **Rejection grading (ISHLT 2004):**
+    *   0R: None
+    *   1R: Mild (focal lymphocytic infiltrate ± 1 focus myocyte damage)
+    *   2R: Moderate (multifocal infiltrate + myocyte damage)
+    *   3R: Severe (diffuse infiltrate + myocyte damage ± vascular injury)
+*   **Antibody-mediated rejection (AMR):** pAMR grading based on histology + C4d staining.
+*   **Graft vasculopathy:** Concentric intimal proliferation; affects epicardial + intramural vessels; leading cause of late mortality; distinct from atherosclerosis (diffuse, concentric, immunologic).
+*   **Posttransplant lymphoproliferative disorder (PTLD):** ~2% of recipients; EBV-associated B-cell proliferation; reduced immunosuppression is first-line therapy.
+
+### Cardiac Assist Devices
+*   **Complications:**
+    *   **Hemorrhage:** Perioperative coagulopathy, hepatic dysfunction, CPB effects.
+    *   **Thrombosis:** Pump thrombosis (HeartMate II incidence increasing); requires anticoagulation.
+    *   **Infection:** Driveline infections; biofilm-forming organisms (*S. epidermidis*, *S. aureus*).
+    *   **Structural:** Inflow obstruction from reverse remodeling, allosensitization.
+*   **Reverse remodeling:** LVAD support may allow myocardial recovery; subset of patients weaned (bridge to recovery).
+
+### Arrhythmias: Ablation & Devices
+*   **RF ablation:** Produces coagulation necrosis with contraction bands; healing proceeds as infarct (neutrophils → macrophages → granulation → scar).
+*   **Pacemaker/ICD complications:** Lead displacement, perforation, infection, lead fracture, device malfunction.
+*   **Fibrosis at electrode tip** determines stimulus threshold; corticosteroids at tip reduce fibrosis, extend battery life.
+
+### Cardiac Tumors
+| Tumor | Features |
+|-------|----------|
+| **Myxoma** | Most common primary; left atrium (80%); pedunculated, can cause obstruction; Carney complex (PRKAR1α mutation) |
+| **Papillary fibroelastoma** | Valve surface (aortic > mitral); sea anemone-like; embolic source |
+| **Lipoma** | Mature adipocytes; lipomatous hypertrophy of IAS (nonneoplastic) |
+| **Rhabdomyoma** | Most common in children; associated with tuberous sclerosis; spider cells |
+| **Angiosarcoma** | Most common malignant; right atrium; rapidly progressive |
+
+### Biomaterials & Tissue Engineering
+*   **Biomaterial-tissue interactions:**
+    *   Blood-surface: thrombosis, thromboembolism (Virchow's triad)
+    *   Foreign body reaction: fibrous encapsulation, chronic inflammation
+    *   Healing: pannus ingrowth from anastomoses; intimal hyperplasia (SMC migration/proliferation)
+*   **Device infection:** Biofilm formation (S. epidermidis, S. aureus); often requires device removal.
+*   **Tissue engineering applications:**
+    *   Vascular grafts: cell-seeded biodegradable scaffolds; pulsatile conditioning improves properties
+    *   Myocardial regeneration: stem cells (resident cardiac, bone marrow); paracrine effects may predominate
+    *   TEHV: living valves from autologous cells; decellularized scaffolds; challenges include immune response, durability, translation
 </div></details>
 
 <details class="med-details"><summary>
