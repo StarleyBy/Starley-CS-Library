@@ -633,118 +633,142 @@ There are two basic mechanisms behind the renal tubular reabsorption of sodium.
 | Thiazides  | Distal convoluted tubule  | ↓ Na<sup>⁺</sup>-Cl<sup>⁻</sup> cotransport  |
 | High-ceiling loop diuretics | Thick ascending loop of Henle  | ↓ Na <sup>+</sup> -K <sup>+</sup> -2Cl <sup>-</sup> cotransport |
 | Potassium-sparing diuretics | Late distal tubule and collecting duct | ↓ Electrogenic Na <sup>+</sup> entry into cells (driving) force for K <sup>+</sup> secretion)|
-</div>
-</details>
+</div></details>
 
+<details class="med-details"><summary>
+  
+### **Osmotic Diuretics**</summary><div class="details-content">
 
-#### **Osmotic Diuretics**
+Mannitol is the principal example of this type of diuretic, which is used for two primary indications: 
+- (1) prophylaxis and early treatment of acute renal failure that is characterized by a decrease in GFR leading to a decreased urine volume and an increase in the concentration of toxic substances in the renal tubular fluid; 
+- (2) enhancing the actions of other diuretics by retaining water and solutes in the tubular lumen, thereby providing the substrate for the action of other types of diuretics. Normally, 80% of the glomerular filtrate is reabsorbed isosmotically in the proximal tubules. By its osmotic effect, mannitol limits the reabsorption of water and dilutes the proximal tubular fluid. This reduces the electrochemical gradient for sodium and limits its reabsorption so that more is delivered to the distal portions of the nephron. Mannitol produces a prostaglandin-mediated increase in renal blood flow that partially washes out the medullary hypertonicity, which is essential for the countercurrent mechanism promoting the reabsorption of water in the late distal tubules and collecting system under the influence of antidiuretic hormone (ADH). Mannitol is used often (25 to 50 g) as part of the priming solution of CPB for the above-mentioned indications. The principal toxicity of mannitol is acute expansion of the extracellular fluid volume leading to HF in the patient with compromised cardiac function (see Table 4-5).
 
-Mannitol is the principal example of this type of diuretic, which is used for two primary indications: (1) prophylaxis and early treatment of acute renal failure that is characterized by a decrease in GFR leading to a decreased urine volume and an increase in the concentration of toxic substances in the renal tubular fluid; and (2) enhancing the actions of other diuretics by retaining water and solutes in the tubular lumen, thereby providing the substrate for the action of other types of diuretics. Normally, 80% of the glomerular filtrate is reabsorbed isosmotically in the proximal tubules. By its osmotic effect, mannitol limits the reabsorption of water and dilutes the proximal tubular fluid. This reduces the electrochemical gradient for sodium and limits its reabsorption so that more is delivered to the distal portions of the nephron. Mannitol produces a prostaglandin-mediated increase in renal blood flow that partially washes out the medullary hypertonicity, which is essential for the countercurrent mechanism promoting the reabsorption of water in the late distal tubules and collecting system under the influence of antidiuretic hormone (ADH). Mannitol is used often (25 to 50 g) as part of the priming solution of CPB for the above-mentioned indications. The principal toxicity of mannitol is acute expansion of the extracellular fluid volume leading to HF in the patient with compromised cardiac function (see Table 4-5).
+</div></details>
 
+<details class="med-details"><summary>
+  
+### High-Ceiling (Loop) Diuretics</summary><div class="details-content">
 
-
-
-
-#### High-Ceiling (Loop) Diuretics
-
-Furosemide (Lasix), bumetanide (Bumex), and ethacrynic acid (Edecrin) are three chemically dissimilar compounds that have the same primary diuretic mechanism of action. They act on the tubular epithelial cell in the thick ascending loop of Henle to inhibit the Na+-K+-2Cl- cotransport mechanism. Their peak diuretic effect is far greater than that of the other diuretics currently available. Administered intravenously, they have a rapid onset and relatively short duration of action, the latter reflecting both the pharmacokinetics of the drugs and the body's compensatory mechanisms to the consequences of diuresis.
+Furosemide (Lasix), bumetanide (Bumex), and ethacrynic acid (Edecrin) are three chemically dissimilar compounds that have the same primary diuretic mechanism of action. They act on the tubular epithelial cell in the thick ascending loop of Henle to inhibit the Na<sup>+</sup>-K<sup>+</sup>-2Cl<sup>-</sup> cotransport mechanism. Their peak diuretic effect is far greater than that of the other diuretics currently available. Administered intravenously, they have a rapid onset and relatively short duration of action, the latter reflecting both the pharmacokinetics of the drugs and the body's compensatory mechanisms to the consequences of diuresis.
 
 These three diuretics increase renal blood flow without increasing GFR and redistribute blood flow from the medulla to the cortex and within the renal cortex. These changes in renal blood flow are also short-lived, reflecting the reduced extracellular fluid volume resulting from diuresis. Minor actions, including carbonic anhydrase inhibition by furosemide and bumetanide and actions on the proximal tubule and on sites distal to the ascending limb, remain controversial. All three of the loop diuretics increase the release of renin and prostaglandin, and indomethacin blunts the release as well as the augmentation in renal blood flow and natriuresis. All three of the loop diuretics produce an acute increase in venous capacitance for a brief period of time after the first intravenous dose is administered, and this effect is also blocked by indomethacin.
 
 Potassium, magnesium, and calcium excretion is increased in proportion to the increase in sodium excretion. In addition, there is augmentation of titratable acid and ammonia excretion by the distal tubules leading to metabolic alkalosis, which is also produced by contraction of the extracellular volume. Hyperuricemia can occur but usually is of little physiologic significance. The nephrotoxicity of cephaloridine, and possibly other cephalosporins, is increased. A rare but serious side effect of the loop diuretics is deafness, which may reflect electrolyte changes in the endolymph.
 
 Because of their high degree of efficacy, prompt onset, and relatively short duration of action, the high-ceiling or loop diuretics are favored for intravenous administration in the perioperative period to treat the three principal problems cited earlier. Dosage requirements vary considerably among patients. Some may only require furosemide 3 to 5 mg (IV) to produce a good diuresis. And for some patients, the less potent benzothiazides may be sufficient.
+</div></details>
 
-#### **Benzothiazides**
+<details class="med-details"><summary>
+  
+### **Benzothiazides**</summary><div class="details-content">
 
 Hydrochlorothiazide (HCTZ) is the prototype of more than a dozen currently available diuretics in this class. Although the drugs differ in potency, they all act by the same mechanism of action and have the same maximum efficacy. All are actively secreted into the tubular lumen by tubular cells and act in the early distal tubules to decrease the electroneutral Na+-Cl- cotransport reabsorption of sodium. Their moderate efficacy probably reflects the fact that more than 90% of the filtrated sodium is reabsorbed before reaching the distal tubules. Their action is enhanced by their combined administration with an osmotic diuretic such as mannitol. The benziothiazides increase urine volume and the excretion of sodium, chloride, and potassium. The decreased reabsorption of potassium reflects the higher rate of urine flow through the distal tubule (diminished reabsorption time).
 
 This class of diuretics produces the least disturbance of extracellular fluid composition, reflecting their moderate efficacy as diuretics and perhaps suggesting their usefulness when a moderate degree of diuretic effect is indicated. Their principal side effects include hyperuricemia, decreased calcium excretion, and enhanced magnesium loss. Hyperglycemia can occur and reflects multiple variables. With prolonged use and development of a contracted extracellular fluid volume, urine formation decreases (ie, tolerance develops to their diuretic actions). These agents also have a direct action on the renal vasculature to decrease GFR.
+</div></details>
 
-### Carbonic Anhydrase Inhibitors
+<details class="med-details"><summary>
+  
+### Carbonic Anhydrase Inhibitors</summary><div class="details-content">
 
 Acetazolamide (Diamox) is the only diuretic of this class available for intravenous administration. Its use is directed primarily toward alkalinization of urine in the presence of metabolic alkalosis, which is a common consequence of prolonged diuretic therapy. It acts in the proximal convoluted tubule to inhibit carbonic anhydrase in the brush border of the tubular epithelium, thereby reducing the destruction of bicarbonate ions (ie, conversion to CO<sub>2</sub> that diffuses into the tubular cell). The carbonic anhydrase enzyme in the cytoplasm of the tubular cell is also inhibited, and as a consequence, conversion of CO<sub>2</sub> to carbonic acid is reduced markedly, as is the availability of hydrogen ions for the Na-H exchange mechanism. Hence the reabsorption of both sodium and bicarbonate in the proximal tubules is diminished. However, more than half the bicarbonate is reabsorbed in more distal segments of the nephron, thereby limiting the overall efficacy of this class of diuretics.
+</div></details>
 
-### Potassium-Sparing Diuretics
+<details class="med-details"><summary>
+  
+### Potassium-Sparing Diuretics</summary><div class="details-content">
 
+<details class="med-details"><summary>
+  
+#### Spironolactone (Aldactone)</summary><div class="details-content">
 Spironolactone (Aldactone) is a competitive antagonist of aldosterone. Spironolactone binds to the cytoplasmic aldosterone receptor and prevents its conformational change to the active form, thereby aborting the synthesis of active transport proteins in the late distal tubules and collecting system in which the reabsorption of sodium and secretion of potassium are reduced.
+</div></details>
 
+<details class="med-details"><summary>
+  
+#### Triamterene (Dyrenium) and amiloride (Midamor)</summary><div class="details-content">
 Triamterene (Dyrenium) and amiloride (Midamor) are potassium-sparing diuretics with a mechanism of action independent of the mineralocorticoids. They have a moderate natriuretic effect leading to an increased excretion of sodium and chloride with little change or a slight increase in potassium excretion when the latter is low. When potassium secretion is high, they produce a sharp reduction in the electrogenic entry of sodium ions into the distal tubular cells and thereby reduce the electrical potential that is the driving force for potassium secretion.
+</div></details>
 
 Both types of potassium-sparing diuretics are used primarily in combination with other diuretics to reduce potassium loss. Their principal side effect is hyperkalemia. It is appropriate to limit the intake of potassium when using this type of diuretic. It is also appropriate to use this type of diuretic cautiously in patients taking ACE inhibitors, which decrease aldosterone formation and consequently increase serum potassium concentrations.
+</div></details>
 
-### Other Measures to Enhance Urine Output and Mobilization of Edema Fluid
+<details class="med-details"><summary>
+  
+### Other Measures to Enhance Urine Output and Mobilization of Edema Fluid</summary><div class="details-content">
 
-The infusion of albumin (5–25% solutions) or other plasma volume expanders (eg, hetastarch) is often employed in an attempt to draw water and its accompanying electrolytes (ie, edema fluid) osmotically from the tissues into the circulating blood and thereby enhance their delivery to the kidneys for excretion. In the presence of a reduced circulating blood volume, this approach seems to be a logical method to increase the circulating blood volume and renal perfusion. The limiting feature of this approach to enhancing diuresis
+<details class="med-details"><summary>
+  
+#### Albumin, mannitol</summary>
+<div class="details-content">
+The infusion of albumin (5–25% solutions) or other plasma volume expanders (eg, hetastarch) is often employed in an attempt to draw water and its accompanying electrolytes (ie, edema fluid) osmotically from the tissues into the circulating blood and thereby enhance their delivery to the kidneys for excretion. In the presence of a reduced circulating blood volume, this approach seems to be a logical method to increase the circulating blood volume and renal perfusion. The limiting feature of this approach to enhancing diuresis relates to the fact that the osmotic effect of albumin and plasma expanders is transient because they can diffuse (at a rate slower than water) from blood through capillary membranes into tissue. The albumin or plasma expander then tends to hold water and its accompanying electrolytes in tissue (ie, rebound edema). The same limiting feature applies to osmotic diuretics such as mannitol, which may transiently draw water and its accompanying electrolytes from tissues into the circulating blood for delivery to the kidneys, where the mannitol passes through the glomerulus and delays the reabsorption of water and its accompanying electrolytes from the proximal tubular fluid. Although this mechanism may enhance the actions of other diuretics, it is a transient effect that is limited by the diffusion of mannitol from blood into tissues with the production of rebound edema.
+</div></details>
 
-relates to the fact that the osmotic effect of albumin and plasma expanders is transient because they can diffuse (at a rate slower than water) from blood through capillary membranes into tissue. The albumin or plasma expander then tends to hold water and its accompanying electrolytes in tissue (ie, rebound edema). The same limiting feature applies to osmotic diuretics such as mannitol, which may transiently draw water and its accompanying electrolytes from tissues into the circulating blood for delivery to the kidneys, where the mannitol passes through the glomerulus and delays the reabsorption of water and its accompanying electrolytes from the proximal tubular fluid. Although this mechanism may enhance the actions of other diuretics, it is a transient effect that is limited by the diffusion of mannitol from blood into tissues with the production of rebound edema.
-
+<details class="med-details"><summary>
+  
+#### Dopamine</summary><div class="details-content">
 Dopamine, at doses from 1 to 3 µg/kg per minute, has been used conventionally to support mesenteric and renal perfusion as "renal dose dopamine." Vasodilation at low doses is mediated via vascular dopamine 1 ( $D_1$ ) receptors in coronary, mesenteric, and renal vascular beds. By activating adenyl cyclase and raising intracellular concentrations of cyclic AMP,  $D_1$ -receptor agonists cause vasodilatation. There are also dopamine 2 ( $D_2$ ) receptors that antagonize  $D_1$ -receptor stimulation. Fenoldopam (Corlopam), a parenteral  $D_1$ -receptor-specific agonist, is also available as a therapy. However, there are no data supporting its use to improve renal function other than by increasing cardiac output, and it also increases the risk of postoperative AF. Infusion of fenoldopam (0.1 to 0.3 µg/kg per minute) causes an increase in GFR, renal blood flow, and Na+ excretion.
 
-Clinical trials of dopamine failed to show improvement in renal function, which probably is a result of the nonspecificity of dopamine. As a catecholamine and a precursor in the metabolic synthesis of norepinephrine and epinephrine, dopamine has inotropic and chronotropic effects on the heart. The inotropic effect is mediated by beta, -adrenergic receptors and usually requires infusion rates higher than those able to produce enhanced renal perfusion and diuresis. However, there are varied pharmacokinetic responses to dopamine infusion even in healthy subjects; therefore, the use of a "renal dose" dopamine regimen may not always result in the desirable effects. Stimulation of catecholamine receptors and D, receptors antagonizes the effects of D<sub>1</sub>-receptor stimulation. Current data do not consistently demonstrate improved renal outcomes with use of the D<sub>1</sub>-receptor-specific agonist fenoldopam.
+Clinical trials of dopamine failed to show improvement in renal function, which probably is a result of the nonspecificity of dopamine. As a catecholamine and a precursor in the metabolic synthesis of norepinephrine and epinephrine, dopamine has inotropic and chronotropic effects on the heart. The inotropic effect is mediated by beta<sub>1</sub> -adrenergic receptors and usually requires infusion rates higher than those able to produce enhanced renal perfusion and diuresis. However, there are varied pharmacokinetic responses to dopamine infusion even in healthy subjects; therefore, the use of a "renal dose" dopamine regimen may not always result in the desirable effects. Stimulation of catecholamine receptors and D, receptors antagonizes the effects of D<sub>1</sub>-receptor stimulation. Current data do not consistently demonstrate improved renal outcomes with use of the D<sub>1</sub>-receptor-specific agonist fenoldopam.
 </div>
 </details>
 
+</div>
+</details>
 
+</div>
+</details>
 
-<details class="med-details">
-<summary>## **HERBAL MEDICINE**</summary>
-<div class="details-content">
-#### **HERBAL MEDICINE**
+<details class="med-details"><summary>
+  
+## **HERBAL MEDICINE**</summary><div class="details-content">
 
-A large number of Americans take herbal remedies for their health. Most of these herbal therapies are not supported by clear scientific evidence and are not under rigorous control by the FDA.<sup>134-136</sup> Patients who take alternative remedies may not necessarily disclose this information to their physicians.<sup>135</sup> There are increasing concerns regarding serious drug interactions between herbal therapy and prescribed medication.
-
-| Name              | Common Uses                                        | Side Effects/Drug Interactions                                                           |
-|-------------------|----------------------------------------------------|------------------------------------------------------------------------------------------|
-| Cayenne (paprika) | Muscle spasm, GI disorders                         | Skin ulcers/blistering                                                                   |
-| , 11              | . 0                                                | Hypothermia                                                                              |
-| Echinacea         | Common cold, antitussive, urinary tract infections | May cause hepatotoxicity                                                                 |
-|                   |                                                    | May decrease effects of steroids and cyclosporine                                        |
-| Ephedra (Mahuang) | Antitussive, bacteriostatic                        | Enhanced sympathomimetic effects with guanethidine or monoamine oxidase inhibitor (MAOI) |
-|                   |                                                    | Arrhythmias with halothane or digoxin                                                    |
-|                   |                                                    | Hypertension with oxytocin                                                               |
-| Feverfew          | Migraine, antipyretic                              | Platelet inhibition, rebound headache, aphthous ulcers,                                  |
-|                   | 0 - 17                                             | GI irritation                                                                            |
-| Garlic            | Lipid-lowering, antihypertensive antithrombotic    | May potentiate warfarin                                                                  |
-| Ginger            | Antinauseant, antispasmodic                        | May potentiate aspirin and warfarin                                                      |
-| Ginkgo            | Improve circulation                                | May potentiate aspirin and warfarin                                                      |
-| Ginseng           | Adaptogenic, enhance energy level, antioxidant     | Ginseng abuse syndrome: sleepiness, hypertonia, edema                                    |
-|                   |                                                    | May cause mania in patients on phenelzine                                                |
-|                   |                                                    | May decrease effects of warfarin                                                         |
-|                   |                                                    | Postmenopausal bleeding                                                                  |
-|                   |                                                    | Mastalgia                                                                                |
-| Goldenseal        | Diuretic, anti-inflammatory, laxative,             | Overdose may cause paralysis; aquaretic (no sodium excretion);                           |
-|                   | hemostatic                                         | may worsen edema/hypertension                                                            |
-| Kava-kava         | Anxiolytic                                         | Potentiates barbiturates and benzodiazepines                                             |
-|                   |                                                    | Potentiates ethanol                                                                      |
-|                   |                                                    | May increase suicide risk in depression                                                  |
-| Licorice          | Antitussive, gastric ulcers                        | High blood pressure, hypokalemia, and edema                                              |
-| Saw palmetto      | Benign prostatic hypertrophy,                      | Additive effects with other hormone replacement therapy                                  |
-|                   | antiandrogenic                                     | (eg, HRT)                                                                                |
-| St. John's wort   | Antidepressant, anxiolytic                         | Possible interaction with MAOIs                                                          |
-|                   |                                                    | Decreases metabolism of fentanyl and ondansetron                                         |
-| Valerian          | Mild sedative, anxiolytic                          | Potentiates barbiturates and benzodiazepines                                             |
-
+A large number of Americans take herbal remedies for their health. Most of these herbal therapies are not supported by clear scientific evidence and are not under rigorous control by the FDA. Patients who take alternative remedies may not necessarily disclose this information to their physicians. There are increasing concerns regarding serious drug interactions between herbal therapy and prescribed medication.
 Some of the most common herbal remedies and drug interactions are summarized in Table 4-6.
-</div>
-</details>
+  
+<details class="med-details"><summary>
+  
+### TABLE 4-6: Commonly Used Herbal Remedies</summary><div class="details-content">
 
+| Name  | Common Uses | Side Effects/Drug Interactions  |
+|--|--|--|
+| Cayenne (paprika) | Muscle spasm, GI disorders | Skin ulcers/blistering<br>Hypothermia |
+| Echinacea         | Common cold, antitussive, urinary tract infections | May cause hepatotoxicity |
+| Ephedra (Mahuang) | Antitussive, bacteriostatic | May decrease effects of steroids and cyclosporine<br>Enhanced sympathomimetic effects with guanethidine or monoamine oxidase inhibitor (MAOI)<br>Arrhythmias with halothane or digoxin<br>Hypertension with oxytocin |
+| Feverfew          | Migraine, antipyretic | Platelet inhibition, rebound headache, aphthous ulcers, GI irritation |
+| Garlic            | Lipid-lowering, antihypertensive antithrombotic    | May potentiate warfarin |
+| Ginger            | Antinauseant, antispasmodic| May potentiate aspirin and warfarin |
+| Ginkgo | Improve circulation| May potentiate aspirin and warfarin  |
+| Ginseng | Adaptogenic, enhance energy level, antioxidant     | Ginseng abuse syndrome: sleepiness, hypertonia, edema<br>May cause mania in patients on phenelzine<br>Postmenopausal bleeding<br>Mastalgia |
+| Goldenseal        | Diuretic, anti-inflammatory, laxative, hemostatic | Overdose may cause paralysis; aquaretic (no sodium excretion); may worsen edema/hypertension|
+| Kava-kava         | Anxiolytic  | Potentiates barbiturates and benzodiazepines<br>Potentiates ethanol<br>May increase suicide risk in depression |
+| Licorice | Antitussive, gastric ulcers | High blood pressure, hypokalemia, and edema  |
+| Saw palmetto | Benign prostatic hypertrophy, antiandrogenic  | Additive effects with other hormone replacement therapy eg, HRT) |
+| St. John's wort   | Antidepressant, anxiolytic  | Possible interaction with MAOIs<br>Decreases metabolism of fentanyl and ondansetron   |
+| Valerian | Mild sedative, anxiolytic | Potentiates barbiturates and benzodiazepines  |
+</div></details>
 
+</div></details>
 
-<details class="med-details">
-<summary>## **AIRWAY MANAGEMENT**</summary>
-<div class="details-content">
-#### **AIRWAY MANAGEMENT**
+<details class="med-details"><summary>
+  
+## **AIRWAY MANAGEMENT**</summary><div class="details-content">
 
-Airway management in cardiovascular surgical patients is important because patients often present with coexisting conditions that may complicate endotracheal intubation. For example, a patient with morbid obesity and sleep apnea may require awake intubation with a fiberoptic bronchoscope, or a history of smoking and COPD may make the patient susceptible to rapid desaturation and/or bronchospasm. Airway management in the perioperative period is a primary responsibility of the anesthesiologist, but the surgeon becomes involved in the absence of the anesthesiologist or in assisting the anesthesiologist in difficult situations. Airway management involves instrumentation and mechanics (not discussed here) and employs pharmacologic approaches to overcome
+Airway management in cardiovascular surgical patients is important because patients often present with coexisting conditions that may complicate endotracheal intubation. For example, a patient with morbid obesity and sleep apnea may require awake intubation with a fiberoptic bronchoscope, or a history of smoking and COPD may make the patient susceptible to rapid desaturation and/or bronchospasm. Airway management in the perioperative period is a primary responsibility of the anesthesiologist, but the surgeon becomes involved in the absence of the anesthesiologist or in assisting the anesthesiologist in difficult situations. Airway management involves instrumentation and mechanics (not discussed here) and employs pharmacologic approaches to overcome pathophysiologic problems contributing to airway obstruction and to facilitate manipulation and instrumentation of the airway. Pharmacologic agents are considered at the end of this section.
 
-pathophysiologic problems contributing to airway obstruction and to facilitate manipulation and instrumentation of the airway. Pharmacologic agents are considered at the end of this section.
+Five major challenges may be encountered in airway management. Each of these is described succinctly below to facilitate understanding of the roles that drugs play in meeting the challenges. The five challenges are 
+- (1) overcoming airway obstruction, 
+- (2) preventing pulmonary aspiration, 
+- (3) performing endotracheal intubation, 
+- (4) maintaining intermittent positive-pressure ventilation (IPPV),
+- (5) reestablishing spontaneous ventilation and airway protective reflexes.
 
-Five major challenges may be encountered in airway management. Each of these is described succinctly below to facilitate understanding of the roles that drugs play in meeting the challenges. The five challenges are (1) overcoming airway obstruction, (2) preventing pulmonary aspiration, (3) performing endotracheal intubation, (4) maintaining intermittent positive-pressure ventilation (IPPV), and (5) reestablishing spontaneous ventilation and airway protective reflexes.
-
-### **Airway Obstruction**
+<details class="med-details"><summary>
+  
+### **Airway Obstruction**</summary><div class="details-content">
 
 Obstruction to gas flow can occur from the entry of a foreign object (including food) into the airway and as a result of pathophysiologic processes involving airway structures (eg, trauma and edema). In the anesthetized or comatose patient, the loss of muscle tone can allow otherwise normal tissues (eg, tongue and epiglottis) to collapse into the airway and cause obstruction. The first measure in relieving such obstructions involves manipulation of the head and jaw, insertion of an artificial nasal or oral airway device, and evacuation of obstructing objects and substances (eg, blood, secretions, or food particles). Except for drugs used to facilitate endotracheal intubation (see the following), the only drug useful to improve gas flow through a narrowed airway is a mixture of helium and oxygen (Heliox), which has a much reduced viscosity resulting in reduced resistance to gas flow.
+</div></details>
 
 ### **Aspiration**
 
