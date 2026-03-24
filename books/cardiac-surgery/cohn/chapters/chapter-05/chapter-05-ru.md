@@ -538,6 +538,8 @@
 
 </div></details>
 
+</div></details>
+
 <details class="med-details"><summary>
 
 ## ПОРОКИ КЛАПАНОВ СЕРДЦА</summary><div class="details-content">
