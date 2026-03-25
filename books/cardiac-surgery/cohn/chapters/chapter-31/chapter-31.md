@@ -77,29 +77,17 @@ IE of the aortic valve not only causes destruction of the aortic cusps, paravalv
 
 ![](_page_1_Figure_10.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 31-1** Native and prosthetic valve endocarditis. (A) Active aortic native valve endocarditis: Excised aortic valve cusps illustrating vegetations and disintegration, precluding valve repair. (B) Large vegetations attached on an excised aortic valve bioprosthesis in a patient with preoperative embolic stroke. 
-=======
-**FIGURE 31-1** Native and prosthetic valve endocarditis. (A) Active aortic native valve endocarditis: Excised aortic valve cusps illustrating vegetations and disintegration, precluding valve repair. (B) Large vegetations attached on an excised aortic valve bioprosthesis in a patient with preoperative embolic stroke. *(Reproduced with permission from Pettersson GB, Hussain ST, Shrestha NK, et al: Infective endocarditis: an atlas of disease progression for describing, staging, coding, and understanding the pathology, J Thorac Cardiovasc Surg. 2014 Apr;147(4):1142-1149.e2.)*
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 
 Infection of a bioprosthetic valve, porcine or pericardial, may involve the cusps, the sewing ring, or both (Fig. 31-1). Infection of aortic valve allografts and pulmonary autografts resembles that of the native aortic valves: It may begin on the aortic cusps and destroy them, causing aortic regurgitation, or it may start at old suture lines and extend into surrounding structures (Fig. 31-2). Infection of a mechanical heart valve is usually located along the sewing ring (Fig. 31-3). Endocarditis after replacement with a prosthesis frequently causes dehiscence of the prosthesis from the annulus, with consequent development of ventricular-aortic separation.
 
 ![](_page_2_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 31-2** Allograft endocarditis with heart block. (A) Endocarditis with sepsis and heart block in patient with a history of aortic allograft root replacement. Allograft cusps are not affected, but vegetations are present on proximal aortic suture line (arrow). (B) Same patient: Cauliflower vegetation (arrow) next to atrioventricular node marking penetration into right atrium. (C) Same cauliflower vegetation (arrow) next to atrioventricular node after opening aortic and right atrial (RA) walls down to vegetation. (D) Complete removal of allograft and debridement discloses extent of peri-allograft infection, which extends from right coronary artery (RCA) counterclockwise to membranous septum and atrioventricular node (arrow). Root is ready for reconstruction. *CS*, Coronary sinus; *LCA*, left coronary artery; *LVOT*, left ventricular outflow tract; *TV*, tricuspid valve. 
 
 ![](_page_2_Figure_4.jpeg)
 
 **FIGURE 31-3** Mechanical prosthesis endocarditis. (A) Infected mechanical aortic valve prosthesis showing circumferential involvement of sewing ring, with some vegetations attaching on both sides of prosthesis. (B) After removal of prosthesis, the vegetations were present both above and beneath the prosthesis, and circumferential invasion is obvious. (C) Although the aortic annulus is disintegrated with atrioventricular discontinuity, the left ventricular outflow tract (LVOT) appears well preserved after debridement. LCA, Left coronary artery; RCA, right coronary artery. 
-=======
-**FIGURE 31-2** Allograft endocarditis with heart block. (A) Endocarditis with sepsis and heart block in patient with a history of aortic allograft root replacement. Allograft cusps are not affected, but vegetations are present on proximal aortic suture line (arrow). (B) Same patient: Cauliflower vegetation (arrow) next to atrioventricular node marking penetration into right atrium. (C) Same cauliflower vegetation (arrow) next to atrioventricular node after opening aortic and right atrial (RA) walls down to vegetation. (D) Complete removal of allograft and debridement discloses extent of peri-allograft infection, which extends from right coronary artery (RCA) counterclockwise to membranous septum and atrioventricular node (arrow). Root is ready for reconstruction. *CS*, Coronary sinus; *LCA*, left coronary artery; *LVOT*, left ventricular outflow tract; *TV*, tricuspid valve. *(Reproduced with permission from Pettersson GB, Hussain ST, Shrestha NK, et al: Infective endocarditis: an atlas of disease progression for describing, staging, coding, and understanding the pathology, J Thorac Cardiovasc Surg. 2014 Apr;147(4):1142-1149.e2.)*
-
-![](_page_2_Figure_4.jpeg)
-
-**FIGURE 31-3** Mechanical prosthesis endocarditis. (A) Infected mechanical aortic valve prosthesis showing circumferential involvement of sewing ring, with some vegetations attaching on both sides of prosthesis. (B) After removal of prosthesis, the vegetations were present both above and beneath the prosthesis, and circumferential invasion is obvious. (C) Although the aortic annulus is disintegrated with atrioventricular discontinuity, the left ventricular outflow tract (LVOT) appears well preserved after debridement. LCA, Left coronary artery; RCA, right coronary artery. *(Reproduced with permission from Pettersson GB, Hussain ST, Shrestha NK, et al: Infective endocarditis: an atlas of disease progression for describing, staging, coding, and understanding the pathology, J Thorac Cardiovasc Surg. 2014 Apr;147(4):1142-1149.e2.)*
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 
 Heart block with aortic valve IE is caused by destruction of the atrioventricular node and the bundle of His. This happens when the infection invades the right atrium and the triangle of Koch (Fig. 31-2).
 
@@ -115,21 +103,12 @@ IE caused by Gram-negative bacteria is less common, but these organisms are ofte
 
 ![](_page_3_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 31-4** Fungal endocarditis. (A) Fungal endocarditis with large vegetations on aortic valve. (B) After complete debridement, no destruction or invasion is observed. 
   
 The microbiology of prosthetic aortic valve IE is somewhat different from that of the native valve. Prosthetic valve IE is classified as *early* when it occurs within the first year after surgery and *late* when it occurs after 1 year. Early prosthetic valve IE is likely caused by contamination of the valve by perioperative bacteremia or contamination of the operative field at the time of implantation. This may be particularly true when the infection is caused by coagulase-negative staphylococci and the HACEK group of bacteria. *Staphylococcus epidermidis*, *S. aureus*, and *Enterococcus faecalis* are more common microorganisms responsible for early prosthetic valve IE. The sources of late prosthetic valve IE are more difficult to determine. Although streptococci and staphylococci are commonly encountered in these patients, a myriad of microorganisms can cause late prosthetic valve IE. Nosocomial infections are often caused by *S. aureus* or other staphylococci.
 
 In a small proportion of cases of aortic valve IE, no microorganism can be cultured from either the blood or surgical specimens. This is called "culture-negative endocarditis," but in these cases it is important to rule out fastidious microorganisms, and every effort should be made to identify them. Valve sequencing (universal bacterial, mycobacterial, or fungal polymerase chain reaction [PCR]) is successful in identifying the causative organism in most cases.
 
-=======
-**FIGURE 31-4** Fungal endocarditis. (A) Fungal endocarditis with large vegetations on aortic valve. (B) After complete debridement, no destruction or invasion is observed. *(Reproduced with permission from Pettersson GB, Hussain ST, Shrestha NK, et al: Infective endocarditis: an atlas of disease progression for describing, staging, coding, and understanding the pathology, J Thorac Cardiovasc Surg. 2014 Apr;147(4):1142-1149.e2.)*
-
-The microbiology of prosthetic aortic valve IE is somewhat different from that of the native valve. Prosthetic valve IE is classified as *early* when it occurs within the first year after surgery and *late* when it occurs after 1 year. Early prosthetic valve IE is likely caused by contamination of the valve by perioperative bacteremia or contamination of the operative field at the time of implantation. This may be particularly true when the infection is caused by coagulase-negative staphylococci and the HACEK group of bacteria. *Staphylococcus epidermidis*, *S. aureus*, and *Enterococcus faecalis* are more common microorganisms responsible for early prosthetic valve IE. The sources of late prosthetic valve IE are more difficult to determine. Although streptococci and staphylococci are commonly encountered in these patients, a myriad of microorganisms can cause late prosthetic valve IE. Nosocomial infections are often caused by *S. aureus* or other staphylococci.
-
-In a small proportion of cases of aortic valve IE, no microorganism can be cultured from either the blood or surgical specimens. This is called "culture-negative endocarditis," but in these cases it is important to rule out fastidious microorganisms, and every effort should be made to identify them. Valve sequencing (universal bacterial, mycobacterial, or fungal polymerase chain reaction [PCR]) is successful in identifying the causative organism in most cases.
-
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 </div></details>
 
 <details class="med-details"><summary>
@@ -206,11 +185,6 @@ Clinical investigators from Duke University proposed certain criteria for confir
 
 HACEK group = *Haemophilus*, *Actinobacillus*, *Cardiobacterium*, *Eikenella*, and *Kingella*; IE = infective endocarditis; TEE = transesophageal echocardiography; TTE = transthoracic echocardiography
 
-<<<<<<< HEAD
-=======
-*Reproduced with permission from Li JS, Sexton DJ, Mick N, et al: Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis, Clin Infect Dis. 2000 Apr;30(4):633-638.*
-
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 </div></details>
 
 </div></details>
@@ -278,11 +252,6 @@ Level of evidence C: Consensus of opinion of the experts or small studies, retro
 †Surgery may be preferred if procedure preserving the native valve is feasible.
 IE, infective endocarditis; PVE, prosthetic valve endocarditis.
 
-<<<<<<< HEAD
-=======
-*Reproduced with permission from Thuny F, Habib G: When should we operate on patients with acute infective endocarditis? Heart. 2010 Jun;96(11):892-897.*
-
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 </div></details>
 
 </div></details>
@@ -323,11 +292,7 @@ If the infection is invasive beyond the cusps or leaflets, radical resection of 
 
 ![](_page_7_Figure_2.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 31-5** Prosthetic valve endocarditis with sepsis and heart block. (A) Infected mechanical prosthesis with vegetations on sewing ring (arrow). (B) Same patient with perforation visible in right atrium (RA; arrow). (C) After debridement, destruction in location of atrioventricular node is seen. This infection has worked its way around the aorta counterclockwise over an extended period, displaying a pseudoaneurysm stage anteriorly and an active cellulitis stage posteriorly and into right atrium. Left ventricular outflow tract (LVOT) is intact and ready for reconstruction. (D) After complete debridement of all infected tissue, RA is reconstructed with autologous pericardium (arrow). (E) Aortic allograft is sutured to LVOT with running monofilament suture. (F) Allograft is tied down and well seated, allowing debrided infected areas to communicate and drain to pericardium. CFB, central fibrous body; CS, coronary sinus; LCA, left coronary artery; RCA, right coronary artery; TV, tricuspid valve. 
-=======
-**FIGURE 31-5** Prosthetic valve endocarditis with sepsis and heart block. (A) Infected mechanical prosthesis with vegetations on sewing ring (arrow). (B) Same patient with perforation visible in right atrium (RA; arrow). (C) After debridement, destruction in location of atrioventricular node is seen. This infection has worked its way around the aorta counterclockwise over an extended period, displaying a pseudoaneurysm stage anteriorly and an active cellulitis stage posteriorly and into right atrium. Left ventricular outflow tract (LVOT) is intact and ready for reconstruction. (D) After complete debridement of all infected tissue, RA is reconstructed with autologous pericardium (arrow). (E) Aortic allograft is sutured to LVOT with running monofilament suture. (F) Allograft is tied down and well seated, allowing debrided infected areas to communicate and drain to pericardium. CFB, central fibrous body; CS, coronary sinus; LCA, left coronary artery; RCA, right coronary artery; TV, tricuspid valve. *(Reproduced with permission from Pettersson GB, Hussain ST, Shrestha NK, et al: Infective endocarditis: an atlas of disease progression for describing, staging, coding, and understanding the pathology, J Thorac Cardiovasc Surg. 2014 Apr;147(4):1142-1149.e2.)*
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 
 Aortic root destruction extending into the intervalvular fibrosa or a prosthetic mitral valve is a difficult and not uncommon issue. An alternative technique some prefer when the aortic annulus is involved is patching the defect after resection of the necrotic or inflamed area, before a prosthetic valve is implanted. Use of fresh autologous pericardium to patch small defects (1 or 2 cm wide) and glutaraldehyde-fixed bovine pericardium for larger defects has been suggested. Some surgeons also use polyester fabric to reconstruct the aortic root, and a pulmonary autograft has been used as an alternative to an allograft in young patients. Use of freestyle root replacement for complex destructive aortic valve IE has been reported as well. Specimens are divided and sent for microbiologic and pathologic examination and also considered for PCR.
 
@@ -359,11 +324,7 @@ In 2014, we published our current results of surgery for IE in 395 consecutive p
 
 ![](_page_8_Figure_7.jpeg)
 
-<<<<<<< HEAD
 **FIGURE 31-6** Survival after surgery for aortic valve endocarditis. (A) Survival after surgery for left-sided infective endocarditis (IE), stratified by the involved valve. Each *symbol* represents a death, and *vertical bars* represent the 68% confidence limits, equivalent to ±1 standard error in each figure. *Filled circles* indicate aortic valve IE alone; *open circles*, mitral valve IE alone; and *triangles*, aortic and mitral valve IE. Survival was significantly lower in the mitral and combined groups than in the isolated aortic patients (*p* < .0001). (B) Survival after surgery for native (*solid green lines*) or prosthetic (*dashed orange lines*) aortic valve IE. (C) Survival after surgery for invasive (*solid red lines*) versus noninvasive (*solid blue lines*) aortic valve IE. 
-=======
-**FIGURE 31-6** Survival after surgery for aortic valve endocarditis. (A) Survival after surgery for left-sided infective endocarditis (IE), stratified by the involved valve. Each *symbol* represents a death, and *vertical bars* represent the 68% confidence limits, equivalent to ±1 standard error in each figure. *Filled circles* indicate aortic valve IE alone; *open circles*, mitral valve IE alone; and *triangles*, aortic and mitral valve IE. Survival was significantly lower in the mitral and combined groups than in the isolated aortic patients (*p* < .0001). (B) Survival after surgery for native (*solid green lines*) or prosthetic (*dashed orange lines*) aortic valve IE. (C) Survival after surgery for invasive (*solid red lines*) versus noninvasive (*solid blue lines*) aortic valve IE. *(Reproduced with permission from Hussain ST, Shrestha NK, Gordon SM, et al: Residual patient, anatomic, and surgical obstacles in treating active left-sided infective endocarditis, J Thorac Cardiovasc Surg. 2014 Sep;148(3):981-988.e4.)*
->>>>>>> 5f495c7e52d4b8e13e35f9e9eaedbd28596bfb42
 
 </div></details>
 
