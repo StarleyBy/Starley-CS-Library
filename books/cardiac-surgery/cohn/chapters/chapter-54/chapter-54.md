@@ -1,266 +1,475 @@
 # Surgery for Atrial Fibrillation
 
-Matthew C. Henn • Spencer J. Melby • Ralph J. Damiano, Jr.
+##### Atrial fibrillation (AF) remains the most common arrhythmia in the world. It is associated with significant morbidity and mortality secondary to its detrimental sequelae: (1) palpitations resulting in patient discomfort and anxiety; (2) loss of atrioventricular (AV) synchrony, which can compromise cardiac hemodynamics, resulting in various degrees of ventricular dysfunction; (3) stasis of blood flow in the left atrium, increasing the risk of thromboembolism and stroke.
 
-Atrial fibrillation (AF) remains the most common arrhythmia in the world. It is associated with significant morbidity and mortality secondary to its detrimental sequelae: (1) palpitations resulting in patient discomfort and anxiety; (2) loss of atrioventricular (AV) synchrony, which can compromise cardiac hemodynamics, resulting in various degrees of ventricular dysfunction; (3) stasis of blood flow in the left atrium, increasing the risk of thromboembolism and stroke. <sup>2-11</sup>
+##### Medical treatment of AF has had many shortcomings including both the inefficacy of many of the antiarrhythmic drugs and their unwanted side effects. Because of this, interest in nonpharmacologic treatment approaches led to the development of catheter-based and surgical techniques beginning in the 1980s. Initial attempts aimed at providing rate control failed to address the detrimental hemodynamic and thromboembolic sequelae of AF. The early attempts at finding a surgical treatment culminated in the introduction of the Maze procedure in 1987, which became the surgical gold standard for decades.
 
-Medical treatment of AF has had many shortcomings including both the inefficacy of many of the antiarrhythmic drugs and their unwanted side effects. Because of this, interest in nonpharmacologic treatment approaches led to the development of catheter-based and surgical techniques beginning in the 1980s. Initial attempts aimed at providing rate control failed to address the detrimental hemodynamic and thromboembolic sequelae of AF. The early attempts at finding a surgical treatment culminated in the introduction of the Maze procedure in 1987, which became the surgical gold standard for decades.
+##### The following sections describe the historical aspects and the current status of surgery for AF, including the introduction of minimally invasive techniques.
 
-The following sections describe the historical aspects and the current status of surgery for AF, including the introduction of minimally invasive techniques.
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-### **HISTORICAL ASPECTS**
+### Historical Evolution
+*   **Left Atrial Isolation (1980):** First procedure specifically for AF; confined AF to left atrium but did not eliminate thromboembolic risk.
+*   **AV Node Ablation (1982):** Controlled ventricular rate but required pacemaker; did not address hemodynamics or stroke risk.
+*   **Corridor Procedure (1985):** Isolated septal strip; abandoned due to persistent AF in atria and no hemodynamic benefit.
+*   **Atrial Transection (1985):** First attempt to terminate AF; laid foundation for Maze procedure.
 
-### The Left Atrial Isolation Procedure
+### The Cox-Maze Procedure
+*   **Maze III ("Cut-and-Sew"):** Gold standard for decades. Long-term freedom from symptomatic AF: **97%** at mean 5.4 years.
+*   **Maze IV (Ablation-Assisted):** Uses bipolar RF and cryoablation to replace incisions. Freedom from AF: **91%** at 6 months, **90%** at 24 months.
+*   **Stroke Reduction:** Post-Maze stroke rate **0.2%/year**; most patients discontinue anticoagulation.
 
-The first surgical procedure designed specifically to eliminate AF, the *left atrial isolation*, was described in 1980 in the laboratory of Dr. James Cox at Duke University. This approach confined AF to the left atrium, and restored the remainder of the heart to sinus rhythm (Fig. 54-1).<sup>12</sup> This reestablished a regular ventricular rate without requiring a permanent pacemaker. Isolating the left atrium allowed the right atrium and the right ventricle to contract in synchrony, providing a normal right-sided cardiac output. This effectively restored normal hemodynamics.
+### Ablation Technologies
+*   **Cryoablation:** Freezes tissue (‑89.5°C with N₂O, ‑185.7°C with Ar); preserves collagen; long ablation time (1–3 min); risk of coronary stenosis.
+*   **RF Energy:** Unipolar RF unreliable on beating heart (only 10% transmural). **Bipolar RF clamps** achieve transmural lesions on beating heart; superior safety profile.
 
-However, by confining AF to the left atrium, the left atrial isolation procedure only eliminated two of the three detrimental sequelae of AF: an irregular heartbeat and compromised
+### Surgical Techniques
+*   **Cox-Maze IV:** Biatrial lesion set; performed on cardiopulmonary bypass via sternotomy or right minithoracotomy. Bipolar RF for most lesions; cryoablation for mitral/tricuspid annulus.
+*   **Left Atrial Procedures:** PVI + mitral isthmus line; avoids right atrial lesions. Success rates lower than biatrial approach (73% vs 87%).
+*   **PVI:** Stand-alone minimally invasive; isolates pulmonary veins. Success: 66–88% for paroxysmal AF; only 35% for persistent AF at 6 months.
 
-cardiac hemodynamics. It did not eliminate the thromboembolic risk because the left atrium usually remained in fibrillation. This procedure never achieved clinical acceptance, and was only performed in a single patient.
+### Indications
+*   Symptomatic AF undergoing other cardiac surgery (Class I)
+*   Stand-alone ablation for symptomatic patients preferring surgery, failed catheter ablation, or not catheter candidates
+*   Relative: contraindication to anticoagulation with CHADS₂ ≥2
 
-# Catheter Ablation of the Atrioventricular Node-His Bundle Complex
+### Future Directions
+*   **ECGI (Electrocardiographic Imaging):** Noninvasive mapping of AF mechanisms; allows patient-specific lesion design.
+*   **Hybrid Procedures:** Combine epicardial surgical and endocardial catheter ablation; promising early results (74% freedom at 24 months).
 
-In 1982, Scheinman and coworkers introduced *catheter fulgu- ration of the His bundle*, a procedure that controlled the irregular cardiac rhythm associated with AF and other refractory supraventricular arrhythmias.<sup>13</sup> This procedure electrically isolated the fibrillation to the atria. Unfortunately, ablating the bundle of His required permanent ventricular pacemaker implantation to restore a normal ventricular rate.
+</div>
+</details>
 
-The shortcoming of this intervention was that it only eliminated the irregular heartbeat. Both atria remained in fibrillation, and the risk of thromboembolism persisted. AV contraction remained desynchronized, compromising cardiac hemodynamics. In addition, patients become pacemaker dependant for the remainder of their lives. Nevertheless, AV node ablation has remained a common treatment for medically refractory AF.
+<details class="med-details"><summary>
+  
+## HISTORICAL ASPECTS</summary><div class="details-content">
 
-#### The Corridor Procedure
+<details class="med-details"><summary>
+  
+#### The Left Atrial Isolation Procedure</summary><div class="details-content">
 
-In 1985, Guiraudon and associates developed the *corridor procedure* for the treatment of AF.<sup>14</sup> This operation isolated a strip of atrial septum harboring both the sinoatrial (SA) node and the AV node, allowing the SA node to drive both the ventricles. This procedure effectively eliminated the irregular heartbeat associated with AF, but both atria either remained in fibrillation or developed their own asynchronous intrinsic rhythm because they were isolated from the septal "corridor." Furthermore, the atria were isolated from their respective ventricles, thereby preventing AV synchrony. The corridor procedure was abandoned because it had no effect on the hemodynamic compromise or the risk of thromboembolism associated with AF.
+The first surgical procedure designed specifically to eliminate AF, the *left atrial isolation*, was described in 1980 in the laboratory of Dr. James Cox at Duke University. This approach confined AF to the left atrium, and restored the remainder of the heart to sinus rhythm (Fig. 54-1). This reestablished a regular ventricular rate without requiring a permanent pacemaker. Isolating the left atrium allowed the right atrium and the right ventricle to contract in synchrony, providing a normal right-sided cardiac output. This effectively restored normal hemodynamics.
 
 ![](_page_1_Picture_2.jpeg)
 
-**FIGURE 54-1** Standard left atriotomy, demonstrating incisions to the mitral valve annulus at both the 10 and 2 o'clock positions. The superior and inferior vena cavae are seen with tourniquets, and the pulmonary vein orifices are seen inferiorly. Cryoablation is used to complete the line of conduction block at the valve annuli. (Adapted with permission from Williams JM, Ungerleider RM, Lofland GK, Cox JL: Left atrial isolation: new technique for the treatment of supraventricular arrhythmias, *J Thorac Cardiovasc Surg.* 1980 Sep;80(3):373-380.)
+**FIGURE 54-1** Standard left atriotomy, demonstrating incisions to the mitral valve annulus at both the 10 and 2 o'clock positions. The superior and inferior vena cavae are seen with tourniquets, and the pulmonary vein orifices are seen inferiorly. Cryoablation is used to complete the line of conduction block at the valve annuli. *(Adapted with permission from Williams JM, Ungerleider RM, Lofland GK, Cox JL: Left atrial isolation: new technique for the treatment of supraventricular arrhythmias, J Thorac Cardiovasc Surg. 1980 Sep;80(3):373-380.)*
 
-## The Atrial Transection Procedure
+However, by confining AF to the left atrium, the left atrial isolation procedure only eliminated two of the three detrimental sequelae of AF: an irregular heartbeat and compromised cardiac hemodynamics. It did not eliminate the thromboembolic risk because the left atrium usually remained in fibrillation. This procedure never achieved clinical acceptance, and was only performed in a single patient.
 
-In 1985, Dr. James Cox and associates described the first procedure that attempted to terminate rather than simply isolate or confine AF to the atria. <sup>15</sup> Using a canine model, they found that a single long incision around both atria and down into the septum could terminate AF. This *atrial transection procedure* effectively prevented AF or atrial flutter in animals. <sup>16</sup> Although this procedure was not effective clinically and was soon abandoned, it laid the foundation for the development of the Cox-Maze procedure.
+</div></details>
 
-#### THE COX-MAZE PROCEDURE
+<details class="med-details"><summary>
+  
+#### Catheter Ablation of the Atrioventricular Node-His Bundle Complex</summary><div class="details-content">
 
-The Maze procedure was clinically introduced in 1987 by Dr. Cox after extensive animal investigation. <sup>16-18</sup> The Cox-Maze procedure was originally developed to interrupt any and all macro-reentrant circuits that were felt to cause AF, thereby precluding the ability of the atrium to flutter or fibrillate (Fig. 54-2). Unlike previous procedures, the Cox-Maze procedure successfully restored both AV synchrony and sinus rhythm, thus potentially reducing the risk of thromboembolism and stroke. <sup>19</sup> The operation consisted of creating an array of surgical incisions across both the right and left atria. These incisions were placed so that the SA node could still direct the propagation of the sinus impulse throughout both atria. It allowed for most of the atrial myocardium to be activated, resulting in preservation of atrial transport function in animals and in most patients. <sup>20</sup>
+In 1982, Scheinman and coworkers introduced *catheter fulguration of the His bundle*, a procedure that controlled the irregular cardiac rhythm associated with AF and other refractory supraventricular arrhythmias. This procedure electrically isolated the fibrillation to the atria. Unfortunately, ablating the bundle of His required permanent ventricular pacemaker implantation to restore a normal ventricular rate.
 
-The first iteration of the Maze procedure was modified because of problems with late chronotropic incompetence
+The shortcoming of this intervention was that it only eliminated the irregular heartbeat. Both atria remained in fibrillation, and the risk of thromboembolism persisted. AV contraction remained desynchronized, compromising cardiac hemodynamics. In addition, patients become pacemaker dependent for the remainder of their lives. Nevertheless, AV node ablation has remained a common treatment for medically refractory AF.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### The Corridor Procedure</summary><div class="details-content">
+
+In 1985, Guiraudon and associates developed the *corridor procedure* for the treatment of AF. This operation isolated a strip of atrial septum harboring both the sinoatrial (SA) node and the AV node, allowing the SA node to drive both the ventricles. This procedure effectively eliminated the irregular heartbeat associated with AF, but both atria either remained in fibrillation or developed their own asynchronous intrinsic rhythm because they were isolated from the septal "corridor." Furthermore, the atria were isolated from their respective ventricles, thereby preventing AV synchrony. The corridor procedure was abandoned because it had no effect on the hemodynamic compromise or the risk of thromboembolism associated with AF.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### The Atrial Transection Procedure</summary><div class="details-content">
+
+In 1985, Dr. James Cox and associates described the first procedure that attempted to terminate rather than simply isolate or confine AF to the atria. Using a canine model, they found that a single long incision around both atria and down into the septum could terminate AF. This *atrial transection procedure* effectively prevented AF or atrial flutter in animals. Although this procedure was not effective clinically and was soon abandoned, it laid the foundation for the development of the Cox-Maze procedure.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+## THE COX-MAZE PROCEDURE</summary><div class="details-content">
+
+The Maze procedure was clinically introduced in 1987 by Dr. Cox after extensive animal investigation. The Cox-Maze procedure was originally developed to interrupt any and all macro-reentrant circuits that were felt to cause AF, thereby precluding the ability of the atrium to flutter or fibrillate (Fig. 54-2). Unlike previous procedures, the Cox-Maze procedure successfully restored both AV synchrony and sinus rhythm, thus potentially reducing the risk of thromboembolism and stroke. The operation consisted of creating an array of surgical incisions across both the right and left atria. These incisions were placed so that the SA node could still direct the propagation of the sinus impulse throughout both atria. It allowed for most of the atrial myocardium to be activated, resulting in preservation of atrial transport function in animals and in most patients.
 
 ![](_page_1_Picture_9.jpeg)
 
-**FIGURE 54-2** By creating a myriad of surgical incisions in the atria, the Maze procedure was designed to prevent atrial fibrillation. AVN = atrioventricular node; LAA = left atrial appendage; PVs = pulmonary veins; RAA = right atrial appendage; SAN = sinoatrial node. (Reproduced with permission from Cox JL, Schuessler RB, D'Agostino HJ Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure, *J Thorac Cardiovasc Surg.* 1991 Apr;101(4):569-583.)
+**FIGURE 54-2** By creating a myriad of surgical incisions in the atria, the Maze procedure was designed to prevent atrial fibrillation. AVN = atrioventricular node; LAA = left atrial appendage; PVs = pulmonary veins; RAA = right atrial appendage; SAN = sinoatrial node. *(Reproduced with permission from Cox JL, Schuessler RB, D'Agostino HJ Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure, J Thorac Cardiovasc Surg. 1991 Apr;101(4):569-583.)*
 
-and a high incidence of pacemaker implantation. The resulting Maze II procedure, however, was technically difficult to perform, and was soon replaced by the Maze III procedure (Fig. 54-3).<sup>21,22</sup>
-
-The Cox-Maze III procedure—often referred to as the "cut-and-sew" Maze—became the gold standard for the surgical treatment of AF. In a long-term study of patients who underwent the Cox-Maze III procedure at our institution, 97% of the patients at late follow-up were free of symptomatic AF.<sup>23</sup> These excellent results have been reproduced by other groups.<sup>24-26</sup>
-
-Although the Cox-Maze III procedure was effective in eliminating AF, it was technically difficult and required a lengthy period of aortic cross-clamping. This limited adoption and only a handful of cardiac surgeons still perform the cut-and-sew operation.
-
-Over the last 15 years, the field of AF surgery was revolutionized by the introduction of a variety of ablation devices that have been used to replicate the surgical incisions on the atrium. This has made AF ablation much simpler to perform. These ablation-assisted procedures have greatly expanded the field of AF surgery and have resulted in a much wider adoption.<sup>27</sup> With present ablation technology, surgery can be performed with low morbidity and mortality and often through less invasive approaches.
-
-### SURGICAL ABLATION TECHNOLOGY
-
-The development of surgical ablation technology has transformed a difficult and time-consuming operation that few surgeons were willing to perform into a procedure that is
+The first iteration of the Maze procedure was modified because of problems with late chronotropic incompetence and a high incidence of pacemaker implantation. The resulting Maze II procedure, however, was technically difficult to perform, and was soon replaced by the Maze III procedure (Fig. 54-3).
 
 ![](_page_2_Picture_2.jpeg)
 
-**FIGURE 54-3** The lesions set of the traditional cut-and-sew Cox-Maze III procedure. (Reproduced with permission from Cox JL, Schuessler RB, D'Agostino HJ Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure, *J Thorac Cardiovasc Surg*. 1991 Apr;101(4):569-583.)
+**FIGURE 54-3** The lesion set of the traditional cut-and-sew Cox-Maze III procedure. *(Reproduced with permission from Cox JL, Schuessler RB, D'Agostino HJ Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure, J Thorac Cardiovasc Surg. 1991 Apr;101(4):569-583.)*
 
-technically easier, shorter, and less invasive. Several ablation technologies exist, each with its relative advantages and disadvantages.
+The Cox-Maze III procedure—often referred to as the "cut-and-sew" Maze—became the gold standard for the surgical treatment of AF. In a long-term study of patients who underwent the Cox-Maze III procedure at our institution, **97%** of the patients at late follow-up were free of symptomatic AF. These excellent results have been reproduced by other groups.
 
-For an ablation technology to successfully replace surgical incisions, it must meet several criteria. First, it must reliably produce bidirectional conduction block across the line of ablation. This is the mechanism by which incisions prevent AF, by either blocking macro-reentrant or micro-reentrant circuits or isolating focal triggers. Our laboratory and others have shown that this requires a transmural lesion, as even small gaps in ablation lines can conduct both sinus and fibrillatory impulses.<sup>28-30</sup> Second, the ablation device must be safe. This requires a precise definition of dose-response curves to limit excessive or inadequate ablation, and potential injury to surrounding vital cardiac structures, such as the coronary sinus, coronary arteries, and valvular structures. Third, the ablation device should make AF surgery simpler and require less time to perform. This requires the device to create lesions rapidly, be simple to use, and have adequate length and flexibility. The following sections will briefly summarize the two current ablation technologies in clinical use: cryoablation and radiofrequency (RF) ablation.
+Although the Cox-Maze III procedure was effective in eliminating AF, it was technically difficult and required a lengthy period of aortic cross-clamping. This limited adoption and only a handful of cardiac surgeons still perform the cut-and-sew operation.
 
-## Cryoablation
+Over the last 15 years, the field of AF surgery was revolutionized by the introduction of a variety of ablation devices that have been used to replicate the surgical incisions on the atrium. This has made AF ablation much simpler to perform. These ablation-assisted procedures have greatly expanded the field of AF surgery and have resulted in a much wider adoption. With present ablation technology, surgery can be performed with low morbidity and mortality and often through less invasive approaches.
 
-Cryoablation technology is unique in that it destroys myocardial tissue by freezing rather than heating. It has the benefit of preserving the myocardial fibrous skeleton and collagen structure and is thus one of the safest energy sources available. These devices work by pumping a refrigerant to the electrode tip where it undergoes transformation from a liquid to a gas phase, and in so doing absorbs heat energy from the tissue in
+</div></details>
 
-contact with the tip. The formation of intracellular and extracellular ice crystals disrupts the cell membrane and causes cell death. There is also evidence that the induction of apoptosis plays a role in late lesion expansion. Lesion size depends on the temperature of the probe and thermal conductivity and temperature of the tissue.<sup>31</sup>
+<details class="med-details"><summary>
+  
+## SURGICAL ABLATION TECHNOLOGY</summary><div class="details-content">
 
-There are currently two commercially available sources of cryothermal energy that are being used in cardiac surgery. The older technology, based on nitrous oxide, is manufactured by AtriCure (Cincinnati, OH). More recently, devices using argon have been developed, and are currently distributed by Medtronic (Minneapolis, MN). At 1 atmosphere of pressure, nitrous oxide is capable of cooling tissue to -89.5°C, whereas argon has a minimum temperature of -185.7°C. The nitrous oxide technology has a well-defined efficacy and safety profile and is generally excellent except around the coronary arteries.32,33 Experimental and clinical studies have shown intimal hyperplasia and coronary stenosis after cryoablation. 33-35 The potential disadvantage of cryoablation, however, is its relatively long time required to create lesions (1-3 minutes). There is also difficulty in creating lesions on the beating heart because of the "heat sink" of the circulating blood volume.<sup>36</sup> Furthermore, if blood is frozen during epicardial ablation on the beating heart, it may coagulate, creating a potential thromboembolic risk.
+The development of surgical ablation technology has transformed a difficult and time-consuming operation that few surgeons were willing to perform into a procedure that is technically easier, shorter, and less invasive. Several ablation technologies exist, each with its relative advantages and disadvantages.
 
-## Radiofrequency Energy
+<details class="med-details"><summary>
+  
+#### Criteria for Ideal Ablation Technology</summary><div class="details-content">
 
-RF energy has been used for cardiac ablation for many years in the electrophysiology laboratory, and was one of the first energy sources to be applied in the operating room.<sup>37</sup> Resistive RF energy can be delivered by either unipolar or bipolar
+For an ablation technology to successfully replace surgical incisions, it must meet several criteria:
+1. **Reliably produce bidirectional conduction block** across the line of ablation. This requires a **transmural lesion**, as even small gaps can conduct both sinus and fibrillatory impulses.
+2. **Be safe.** Requires precise definition of dose-response curves to limit excessive or inadequate ablation, and potential injury to surrounding vital cardiac structures (coronary sinus, coronary arteries, valvular structures).
+3. **Make AF surgery simpler and less time-consuming.** Requires rapid lesion creation, ease of use, adequate length, and flexibility.
 
-electrodes, and the electrodes can be either dry or irrigated. With unipolar RF devices, the energy is dispersed between the electrode tip and an indifferent electrode, usually the grounding pad applied to the patient. In bipolar RF devices, alternating current is passed between two closely approximated electrodes. The lesion size depends on electrode-tissue contact area, the interface temperature, the current and voltage (power), and the duration of delivery. The depth of the lesion can be limited by char formation, epicardial fat, myocardial and endocavity blood flow, and tissue thickness.
+</div></details>
 
-There have been numerous unipolar RF devices developed for ablation. These include both dry and irrigated devices and devices that incorporate suction. Although dry unipolar RF has been shown to create transmural lesions on the arrested heart in animals with sufficiently long ablation times, it has not been consistently successful in humans. After 2-minute endocardial ablations during mitral valve surgery, only 20% of the in vivo lesions were transmural.<sup>38</sup> Epicardial ablation on the beating heart has been even more problematic. Animal studies have consistently shown that unipolar RF is incapable of creating epicardial transmural lesions on the beating heart. 39,40 Epicardial RF ablation in humans resulted in only 10% of the lesions being transmural. 41 This deficiency of unipolar RF ablation has been felt to be caused by the heat sink of the circulating blood.<sup>42</sup> This has led industry to examine adding both irrigation and suction to improve lesion formation. Although these additions have improved depth of penetration, there has been no unipolar RF device that has been shown by independent laboratories to be capable of creating reliable transmural lesions on the beating heart.
+<details class="med-details"><summary>
+  
+#### Cryoablation</summary><div class="details-content">
 
-To overcome this problem, bipolar RF clamps were developed. With bipolar RF, the electrodes are embedded in the jaws of a clamp to focus the delivery of energy. By shielding the electrodes from the circulating blood pool, this improves and shortens lesion formation and limits collateral injury. Bipolar ablation has been shown to be capable of creating transmural lesions on the beating heart both in animals and humans with short ablation times. 43-45 Two companies (AtriCure, West Chester, OH and Medtronic, Minneapolis, MN) currently market bipolar RF devices.
+Cryoablation technology is unique in that it destroys myocardial tissue by freezing rather than heating. It has the benefit of preserving the myocardial fibrous skeleton and collagen structure and is thus one of the safest energy sources available. These devices work by pumping a refrigerant to the electrode tip where it undergoes transformation from a liquid to a gas phase, absorbing heat energy from the tissue. The formation of intracellular and extracellular ice crystals disrupts the cell membrane and causes cell death. There is also evidence that the induction of apoptosis plays a role in late lesion expansion.
 
-Another advantage of bipolar RF energy over unipolar RF is its safety profile. A number of clinical complications of unipolar RF devices have been reported, including coronary artery injuries, cerebrovascular accidents, and esophageal perforation leading to atrioesophageal fistula. 46-49 Bipolar RF technology has virtually eliminated this collateral damage; there have been no injuries described with these devices despite extensive clinical use. The Cobra Fusion TM (AtriCure, West Chester, OH) is a new device that combines bipolar and unipolar RF into a single suction-assisted device. Early experimental results have shown consistency in creating transmural epicardial lesions on the beating heart. 50
+**Commercially available cryothermal energy sources:**
+| Source | Temperature | Manufacturer |
+|--------|-------------|--------------|
+| Nitrous oxide | ‑89.5°C | AtriCure (Cincinnati, OH) |
+| Argon | ‑185.7°C | Medtronic (Minneapolis, MN) |
 
-Other types of devices utilizing microwave, laser, and ultrasound energy have been used clinically, but limitations of each technology have led to limited use and withdrawal of these devices from the market. 42,51-55
+**Advantages:**
+- Preserves fibrous skeleton and collagen
+- Well-defined efficacy and safety profile (except around coronary arteries)
+- Excellent for lesions near valves
 
-In summary, ablation technology has made significant progress over the past decade and has allowed for a broader application of surgical ablation. As new devices and techniques are developed, continued research investigating their effects on atrial hemodynamics, function, and electrophysiology is imperative.
+**Disadvantages:**
+- Relatively long time to create lesions (1–3 minutes)
+- Difficulty creating lesions on beating heart due to "heat sink" of circulating blood
+- If blood freezes during epicardial ablation, may coagulate (thromboembolic risk)
+- Experimental and clinical studies show intimal hyperplasia and coronary stenosis after cryoablation around coronary arteries
 
-## **SURGICAL TECHNIQUES**
+</div></details>
 
-There are three categories of procedures that presently are performed to surgically treat AF: the Cox-Maze procedure, left atrial lesion sets, and pulmonary vein isolation (PVI). Each of these approaches is described in the following sections.
+<details class="med-details"><summary>
+  
+#### Radiofrequency Energy</summary><div class="details-content">
 
-## The Cox-Maze IV Procedure
+RF energy has been used for cardiac ablation for many years in the electrophysiology laboratory, and was one of the first energy sources to be applied in the operating room. Resistive RF energy can be delivered by either unipolar or bipolar electrodes, and the electrodes can be either dry or irrigated.
 
-The original "cut-and-sew" Cox-Maze III procedure is rarely performed today. At most centers, the surgical incisions have been replaced with lines of ablation using a variety of energy sources. At our institution, bipolar RF energy and cryoablation has been used successfully to replace most of the surgical incisions of the Cox-Maze III procedure. Our current RF ablation-assisted procedure, termed the Cox-Maze IV, incorporates the lesions of the Cox-Maze III (Fig. 54-4). <sup>56</sup> Our clinical results have shown that this modified procedure has significantly shortened operative time while maintaining the high success rate of the original Cox-Maze III procedure. <sup>57,58</sup>
+**Unipolar RF**
+- Energy dispersed between electrode tip and indifferent electrode (grounding pad)
+- Lesion size depends on electrode-tissue contact, interface temperature, power, and duration
+- Depth limited by char formation, epicardial fat, myocardial and endocavity blood flow, tissue thickness
 
-The Cox-Maze IV procedure is performed on cardiopulmonary bypass with central or femoral cannulation. The operation can be done either through a median sternotomy or a less invasive (4-5 cm) right minithoracotomy. The right and left pulmonary veins (PVs) are bluntly dissected. If the patient is in AF, amiodarone is administered and the patient is electrically cardioverted. Pacing thresholds are obtained from each PV. Using a bipolar RF ablation device, the PVs are individually isolated by ablating a cuff of atrial tissue surrounding the right and left PVs. Proof of electrical isolation is confirmed after ablation by demonstrating exit block from each PV.
+**Limitations of Unipolar RF:**
+- After 2-minute endocardial ablations during mitral valve surgery, only **20%** of lesions were transmural
+- Epicardial ablation on beating heart: only **10%** of lesions transmural
+- Deficiency attributed to heat sink of circulating blood
+- Clinical complications reported: coronary artery injuries, cerebrovascular accidents, atrioesophageal fistula
 
-The right atrial lesion set is performed on the beating heart. A bipolar RF clamp is used to create most of the lesions (Fig. 54-5). A unipolar device, either cryoablation or RF energy, is used to complete the ablation lines endocardially down to the tricuspid annulus because of the difficulty of clamping in this area.
+**Bipolar RF**
+- Electrodes embedded in jaws of a clamp to focus energy delivery
+- Shielding electrodes from circulating blood improves and shortens lesion formation
+- Limits collateral injury
+- **Capable of creating transmural lesions on beating heart** with short ablation times
+- **No injuries described** despite extensive clinical use
 
-The remaining left-sided lesion set (Fig. 54-6) is performed on the arrested heart. First, the left atrial appendage is amputated and an ablation is performed through the amputated left atrial appendage into one of the left PVs. A standard left atriotomy is performed and extended inferiorly around the right inferior PV and superiorly onto the dome of the left atrium. Connecting lesions are made with the bipolar RF device into the left superior and inferior PVs and a final ablation is performed down toward the mitral annulus. Our group has shown that isolating the entire posterior left atrium with ablation lines into both left PVs resulted in a
+**Bipolar RF devices:**
+- AtriCure (West Chester, OH)
+- Medtronic (Minneapolis, MN)
+
+**Cobra Fusion™ (AtriCure):** New device combining bipolar and unipolar RF into single suction-assisted device; early experimental results show consistency in creating transmural epicardial lesions on beating heart.
+
+**Other technologies** (microwave, laser, ultrasound) have been used clinically but limitations have led to limited use and withdrawal from the market.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+## SURGICAL TECHNIQUES</summary><div class="details-content">
+
+There are three categories of procedures that presently are performed to surgically treat AF: the Cox-Maze procedure, left atrial lesion sets, and pulmonary vein isolation (PVI).
+
+<details class="med-details"><summary>
+  
+#### The Cox-Maze IV Procedure</summary><div class="details-content">
+
+The original "cut-and-sew" Cox-Maze III procedure is rarely performed today. At most centers, the surgical incisions have been replaced with lines of ablation using a variety of energy sources. At our institution, bipolar RF energy and cryoablation has been used successfully to replace most of the surgical incisions of the Cox-Maze III procedure. Our current RF ablation-assisted procedure, termed the **Cox-Maze IV**, incorporates the lesions of the Cox-Maze III (Fig. 54-4). This modified procedure has significantly shortened operative time while maintaining the high success rate of the original Cox-Maze III procedure.
 
 ![](_page_4_Picture_2.jpeg)
 
-**FIGURE 54-4** The Cox-Maze IV lesion sets. IVC = inferior vena cava; SVC = superior vena cava. (Reproduced with permission from Cox JL, Schuessler RB, D'Agostino HJ Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure, *J Thorac Cardiovasc Surg.* 1991 Apr;101(4):569-583.)
+**FIGURE 54-4** The Cox-Maze IV lesion sets. IVC = inferior vena cava; SVC = superior vena cava. *(Reproduced with permission from Cox JL, Schuessler RB, D'Agostino HJ Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure, J Thorac Cardiovasc Surg. 1991 Apr;101(4):569-583.)*
 
-better drug-free freedom from AF at 6 and 12 months than a single connecting lesion.<sup>59</sup> Unipolar cryoablation is used to connect the lesion to the mitral annulus and complete the left atrial isthmus line.
+**Procedure:**
+- Performed on cardiopulmonary bypass with central or femoral cannulation
+- Through median sternotomy or less invasive (4–5 cm) right minithoracotomy
+- Right and left pulmonary veins (PVs) bluntly dissected
+- If patient in AF, amiodarone administered and electrical cardioversion performed
+- Pacing thresholds obtained from each PV
 
-## **Left Atrial Procedures**
-
-Over the past decade, there have been a number of new surgical procedures introduced in attempt to cure AF. The results have been variable and have had a wide range of success rates. 55,60-67 Various ablation technologies have been used to create a large number of different lesion patterns. All of
-
-**FIGURE 54-5** Illustration of the right atrial lesion set. White lines indicate bipolar RF ablation. Cryoablation is used to complete the ablation line at the tricuspid valve annulus.
-
-these procedures have generally involved some subset of the left atrial lesion set of the Cox-Maze procedure. Results have been dependent on the technology used, the lesion set, and the patient population. From a technical standpoint, all of the approaches have attempted to isolate the PVs. The importance of the rest of the left atrial Cox-Maze lesion set has also been generally established. However, Gillinov et al. published
+**Right Atrial Lesion Set (Fig. 54-5):**
+- Performed on beating heart
+- Bipolar RF clamp creates most lesions
+- Unipolar device (cryoablation or RF) completes endocardial ablation lines down to tricuspid annulus (due to difficulty clamping this area)
 
 ![](_page_4_Figure_10.jpeg)
 
-**FIGURE 54-6** Illustration of the left atrial lesion set. White lines indicate RF bipolar ablation. Cryoablation is used to complete the ablation line at the mitral valve annulus.
+**FIGURE 54-5** Illustration of the right atrial lesion set. White lines indicate bipolar RF ablation. Cryoablation is used to complete the ablation line at the tricuspid valve annulus.
 
-a large series demonstrating that the omission of the left atrial isthmus lesion resulted in a significantly higher incidence of recurrent AF in patients with permanent AF.<sup>68</sup> To complete this lesion, it is mandatory to also ablate the coronary sinus in line with the endocardial lesion. In addition, our clinical results have shown that it is critically important to isolate the entire posterior left atrium and it is not enough just to isolate the PVs.<sup>59</sup>
+**Left Atrial Lesion Set (Fig. 54-6):**
+- Performed on arrested heart
+- Left atrial appendage amputated
+- Ablation performed through amputated appendage into one of the left PVs
+- Standard left atriotomy extended inferiorly around right inferior PV and superiorly onto dome of left atrium
+- Bipolar RF device creates connecting lesions into left superior and inferior PVs
+- Final ablation down toward mitral annulus
+- Unipolar cryoablation completes left atrial isthmus line
 
-## **Pulmonary Vein Isolation**
+![](_page_4_Figure_10.jpeg) *(Note: Image reference for Fig. 54-6 is similar to Fig. 54-5 in source; Fig. 54-6 shows left atrial lesion set)*
 
-PVI is an attractive therapeutic strategy because the procedure can be done without cardiopulmonary bypass and with minimally invasive techniques, using either a thoracoscopic approach or small incisions. It can also be easily and quickly added to other cardiac surgery procedures (eg, coronary bypass graft or a valve procedure). Based on the original report of Hassaiguerre, it has been well documented that the triggers for paroxysmal AF originate from the PVs in the majority of cases. However, it is important to remember that up to 30% of triggers may originate outside the PVs. In an attempt to increase efficacy, some investigators have added ablation of the ganglionic plexi (GP). T1-T3
+**Important:** Isolating the entire posterior left atrium with ablation lines into both left PVs results in better drug-free freedom from AF at 6 and 12 months than a single connecting lesion.
 
-The PVs can be isolated separately or as a box (Fig. 54-7). The most common approach for treatment of lone AF uses an endoscopic, port-based approach to minimize incision size and pain for the patient. At our center, bipolar RF clamps are favored to isolate the PVs, but unipolar RF, cryoablation, and HIFU devices have also been used. 53,74,75 Accumulating data suggest that a box isolation of the entire posterior left atrium is the more effective strategy. 59,76
+</div></details>
 
-Patient preparation begins with double-lumen endotracheal intubation. A transesophageal echocardiogram is performed to confirm the absence of thrombus in the left atrial appendage. If a thrombus is found, the procedure is either aborted or converted to an open procedure, in which the risk of systemic thromboembolism from left atrial clot can be minimized. External defibrillator pads are placed on the patient and the patient is positioned with the right side turned upward 45 to 60° and the right arm positioned above the head to expose the right axilla.
+<details class="med-details"><summary>
+  
+#### Left Atrial Procedures</summary><div class="details-content">
+
+Over the past decade, a number of new surgical procedures have been introduced to cure AF. The results have been variable with a wide range of success rates. Various ablation technologies have been used to create a large number of different lesion patterns.
+
+All of these procedures have generally involved some subset of the left atrial lesion set of the Cox-Maze procedure. From a technical standpoint, all approaches have attempted to isolate the PVs. The importance of the rest of the left atrial Cox-Maze lesion set has also been generally established.
+
+**Key findings:**
+- Gillinov et al demonstrated that omission of the **left atrial isthmus lesion** resulted in significantly higher incidence of recurrent AF in patients with permanent AF
+- To complete this lesion, it is mandatory to also ablate the coronary sinus in line with the endocardial lesion
+- Our clinical results show that isolating the **entire posterior left atrium** is critically important—it is not enough to just isolate the PVs
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### Pulmonary Vein Isolation</summary><div class="details-content">
+
+PVI is an attractive therapeutic strategy because the procedure can be done **without cardiopulmonary bypass** and with minimally invasive techniques, using either a thoracoscopic approach or small incisions. It can also be easily and quickly added to other cardiac surgery procedures (eg, coronary bypass graft or valve procedure).
+
+Based on the original report of Haissaguerre, it has been well documented that the triggers for paroxysmal AF originate from the PVs in the majority of cases. However, up to **30% of triggers** may originate outside the PVs. In an attempt to increase efficacy, some investigators have added ablation of the ganglionic plexi (GP).
+
+The PVs can be isolated separately or as a box (Fig. 54-7).
 
 ![](_page_5_Figure_7.jpeg)
 
 **FIGURE 54-7** Diagram illustrating the methods to isolate the pulmonary veins, either separately (A), with a connecting lesion (B), or as a box isolation of the entire posterior left atrium (C).
 
-An initial port for the thoracoscopic camera is placed at the sixth intercostal space. Under thoracoscopic vision, a small working port can then be placed in either the third or fourth intercostal space at the midaxillary line depending on surgeon preference and patient anatomy. The right phrenic nerve is identified to avoid injury to this structure. An incision is made in the pericardium, anterior and parallel to the phrenic nerve, to expose the heart from the superior vena cava to the diaphragm. Through this pericardiotomy, the space above and below the right PVs is dissected to allow enough room for insertion of a specialized thoracoscopic dissector. This includes opening into the oblique sinus and dissecting the space between the right superior PV and the right pulmonary artery. The dissector and a guiding sheath is introduced through a second port, either lateral or medial to the scope port, and guided into the space between the right superior PV and right pulmonary artery. After the dissector is carefully removed from the chest, the sheath remains in place as a guide for the insertion of the bipolar RF clamp. At this point, the patient is cardioverted into sinus rhythm so that pacing thresholds can be obtained. As with a Cox-Maze IV procedure, it is critical to document pacing thresholds from the PVs before isolation. Some surgeons also use the opportunity provided by surgical exposure to test and ablate ganglionated plexi but there are no data to support this and it is not performed at our institution.
+**Technique:**
+- Double-lumen endotracheal intubation
+- TEE to confirm absence of thrombus in left atrial appendage
+- External defibrillator pads placed
+- Patient positioned with right side elevated 45–60°, right arm above head
 
-The sheath is attached to the lower jaw of a bipolar RF clamp. The clamp is introduced into the chest, and the left atrium surrounding the PVs is clamped and ablated. After confirmation of exit block by pacing, the instruments are removed from the right chest and the right chest ports are closed.
+**Right-sided approach:**
+- Thoracoscopic camera port at sixth intercostal space
+- Working port at third or fourth intercostal space
+- Right phrenic nerve identified and protected
+- Pericardial incision anterior and parallel to phrenic nerve
+- Dissection of space above and below right PVs
+- Dissector and guiding sheath introduced through second port
+- Patient cardioverted to sinus rhythm; pacing thresholds documented
+- Bipolar RF clamp introduced via sheath; left atrium surrounding PVs clamped and ablated
+- Exit block confirmed by pacing
 
-The approach to the left chest is similar to the right. The patient is repositioned such that the left chest is elevated 45 to 60° and the left arm is held up to expose the left axilla. A port for the thoracoscopic camera is placed in the sixth intercostal space, slightly more posterior than on the right side. With thoracoscopic visualization, a left-sided working port is created in the third or fourth intercostal space. The left phrenic nerve is identified, and the pericardium is opened posterior to the course of the nerve. The ligament of Marshall is identified and divided. The dissector is then introduced through a second port, also in the sixth intercostal space. This port site is placed to allow for a straight-line introduction of the dissector around the PVs. The guiding sheath is used to position the RF clamp around the left PVs, and they are isolated. Again, conduction block is confirmed with pacing.
+**Left-sided approach:**
+- Patient repositioned with left side elevated 45–60°
+- Thoracoscopic camera port at sixth intercostal space (more posterior)
+- Working port at third or fourth intercostal space
+- Left phrenic nerve identified; pericardium opened posterior to nerve
+- Ligament of Marshall identified and divided
+- Dissector introduced through second port (sixth intercostal space)
+- Bipolar RF clamp positioned around left PVs; isolation performed
+- Conduction block confirmed with pacing
 
-The procedure is not complete until the left atrial appendage has been addressed. Historically, this has been done by stapling across the base of the left atrial appendage with an endoscopic stapler. This requires careful surgical technique and attention because it can result in tears and bleeding.<sup>77</sup> Clip devices have been designed to address this difficulty, and they are used exclusively at our center because of their improved efficacy and safety when compared to staplers.<sup>78,79</sup> After ablation of the left PVs and exclusion of the left atrial appendage, the left side of the pericardium is closed.
+**Left Atrial Appendage Management:**
+- Historically stapled across base with endoscopic stapler (risk of tears and bleeding)
+- **Clip devices** used exclusively at our center due to improved efficacy and safety
 
-## **SURGICAL RESULTS**
+</div></details>
 
-## The Cox-Maze Procedure
+</div></details>
 
-The Cox-Maze III procedure has had excellent long-term results. In our series at Washington University, 97% of 198 consecutive patients who underwent the procedure with a mean follow-up of 5.4 years were free from symptomatic AF. There was no difference in the cure rates between patients undergoing a stand-alone Cox-Maze procedure and those undergoing concomitant procedures.<sup>23</sup> Similar results have been obtained from other institutions around the world with the traditional "cut-and-sew" method.<sup>24,26,80</sup>
+<details class="med-details"><summary>
+  
+## SURGICAL RESULTS</summary><div class="details-content">
 
-Our results from patients who underwent the Cox-Maze IV procedure have been encouraging as well. In a prospective, single-center trial from our institution, 91% of patients at the 6-month follow-up were free from AF. 43,58 The Cox-Maze IV procedure has significantly shortened the mean cross-clamp times for a lone Cox-Maze from 93 ± 34 minutes for the Cox-Maze III to  $47 \pm 26$  minutes for the Cox-Maze IV (p < .001), and from 122 ± 37 minutes for a concomitant Cox-Maze III procedure to 92  $\pm$  37 minutes (p < .005) in those undergoing the Cox-Maze IV procedure concomitantly with another cardiac operation.<sup>43</sup> A propensity analysis performed by our group has shown that there was no significant difference in the freedom from AF at 3, 6, or 12 months between the Cox-Maze III and IV groups.<sup>58</sup> A more recent prospective study in 100 consecutive patients who underwent the Cox-Maze IV procedure demonstrated postoperative freedom from AF at 93, 90, and 90% at 6, 12, and 24 months, respectively.81 We also recently reported over two decades of experience at our institution with both the Cox-Maze III and Cox-Maze IV procedures. Freedom from AF was 93% and freedom from AF and AADs was 82% at a mean follow-up time of 3.6 years, while freedom from symptomatic AF was 85% at 10 years.<sup>82</sup>
+<details class="med-details"><summary>
+  
+#### The Cox-Maze Procedure</summary><div class="details-content">
 
-The Cox-Maze IV procedure worked as well in patients with paroxysmal as for long-standing persistent AF. The 6-month freedom for AF was 91% in the paroxysmal group compared with 88% in the persistent group (p = .53). The drug-free success rate was also similar.<sup>83</sup> Our present series consists of 532 consecutive patients undergoing a Cox-Maze IV between January 2002 and September 2014. All patients have been followed with ECGs or prolonged monitoring. Our 12-month freedom from AF was 92%, with 82% of patients also off all antiarrhythmic drugs, while our 5-year freedom from AF was 77%, with 64% of patients also off all antiarrhythmic drugs (unpublished data).
+**Cox-Maze III ("Cut-and-Sew"):**
+- Washington University series (198 consecutive patients, mean follow-up 5.4 years): **97%** free from symptomatic AF
+- No difference in cure rates between stand-alone and concomitant procedures
+- Similar results reproduced by other institutions worldwide
 
-The Cox-Maze procedure has also been very successful in reducing the incidence of stroke. In patients undergoing the Cox-Maze procedure, the preoperative incidence of neurological events has been high due to inherent risk in patients with AF. In a report from our institution, 57 out of 389 patients (14%) had experienced a neurological event before surgery. Despite this, there were only six neurological events during long-term follow-up (mean,  $6.6 \pm 5.0$  years) in this cohort. The long-term stroke rate after the Cox-Maze procedure has been 0.2% per year despite the fact that the great majority of patients were able to discontinue anticoagulation.<sup>84</sup>
+**Cox-Maze IV (Ablation-Assisted):**
+- Prospective single-center trial: **91%** free from AF at 6 months
+- Cross-clamp time reduced:
+  - Lone Maze: 93 ± 34 minutes (Maze III) → 47 ± 26 minutes (Maze IV) (p < .001)
+  - Concomitant: 122 ± 37 minutes (Maze III) → 92 ± 37 minutes (Maze IV) (p < .005)
+- Propensity analysis: no significant difference in freedom from AF at 3, 6, or 12 months between Maze III and IV
+- Prospective study (100 patients):
+  - 93% free from AF at 6 months
+  - 90% at 12 months
+  - 90% at 24 months
+- Two decades of experience (532 patients, 2002–2014):
+  - 12-month freedom from AF: **92%** (82% off antiarrhythmic drugs)
+  - 5-year freedom from AF: **77%** (64% off antiarrhythmic drugs)
 
-The Cox-Maze procedure is being increasingly used as a concomitant procedure.<sup>27</sup> Previous studies from our institution and others have documented high rates of restoration of sinus rhythm without increasing morbidity following concomitant procedures including coronary artery bypass, mitral valve surgery, and tricuspid valve surgery.<sup>85-91</sup> Surgical ablation should be considered in all patients with AF undergoing concomitant cardiac procedures, and a biatrial Cox-Maze IV lesion set is recommended in most cases. A recent study from Dr. Ad and his colleagues have shown that adding a Cox-Maze procedure to either aortic valve replacement or coronary artery bypass grafting did not increase operative morbidity or mortality.<sup>92</sup>
+**Paroxysmal vs Persistent AF (Cox-Maze IV):**
+- 6-month freedom: 91% (paroxysmal) vs 88% (persistent) (p = .53)
+- Drug-free success rate similar
 
-In an effort to decrease operative morbidity, a minimally invasive Cox-Maze IV lesion set has been introduced through a right minithoracotomy. <sup>93,94</sup> In both the stand-alone Cox-Maze IV and concomitant population, this approach has been shown to be equally effective at restoring sinus rhythm while significantly decreasing major complications, operative mortality, intensive care unit length of stay, and hospital length of stay when compared to sternotomy approach. <sup>95</sup>
+**Stroke Reduction:**
+- Preoperative neurological events: 14% (57/389 patients)
+- Postoperative stroke rate: **0.2% per year**
+- Great majority of patients able to discontinue anticoagulation
+- No difference in stroke rate between CHADS₂ scores above or below 2
 
-## Left Atrial Lesion Sets
+**Concomitant Procedures:**
+- Adding Cox-Maze to aortic valve replacement or CABG does not increase operative morbidity or mortality
+- Biatrial Cox-Maze IV lesion set recommended in most cases
 
-A number of centers around the world have suggested performing ablation confined to the left atrium only to cure AF. This concept is supported by the fact that the majority of paroxysmal AF appears to originate around the PVs and the posterior left atrium. A left atrial lesion set typically involves PVI with a lesion to the mitral annulus as well as removal of the left atrial appendage. One advantage of avoiding right atrial lesions is a potentially lower rate of postoperative pacemaker implantation. Many ablation technologies have been used to create these lesion sets with varied degrees of success. 48,60-67
+**Minimally Invasive Approach:**
+- Right minithoracotomy approach equally effective at restoring sinus rhythm
+- Significantly decreased major complications, operative mortality, ICU length of stay, and hospital length of stay compared to sternotomy
 
-There have been no randomized trials of biatrial versus left atrial ablation only in the surgical population. Because of this, the importance of the right atrial lesions of the traditional Cox-Maze procedure is difficult to precisely determine. A meta-analysis of the published literature by Barnett and Ad revealed that a biatrial lesion set resulted in a significantly higher late freedom from AF when compared with a left atrial lesion set alone (87 vs 73%, p = .05). This is not surprising considering the results of intraoperative mapping of patients with AF. Both our group and others have shown that AF can originate from the right atrium in 10 to 30% of cases. 97-100
+</div></details>
 
-Of the specific left atrial lesions of the Cox-Maze procedure, it is difficult to determine the precise importance of each ablation line. All surgeons agree on the importance of isolating the PVs. As stated previously, work from Gillinov et al has shown the importance of the left atrial isthmus in a retrospective study. Moreover, omitting the lesion to the mitral annulus leaves the patient at risk for the development of late left atrial flutter. In a rare randomized trial, Gaita and coauthors examined PVI alone versus two alternate lesion sets that both included ablation of the left atrial isthmus. In this study, normal sinus rhythm at 2-year follow-up was only seen in 20% in the PVI group versus 57% in the other groups (p < .006).
+<details class="med-details"><summary>
+  
+#### Left Atrial Lesion Sets</summary><div class="details-content">
 
-Finally, our group has shown that isolating the entire posterior left atrium significantly improved our drug-free freedom from AF at 6 months (54 vs 79%, p = .011) in a retrospective analysis of our results.<sup>59</sup> Thus, it is our opinion that most of the left atrial Cox-Maze lesion set is needed to ensure a high success rate.
+A number of centers have suggested performing ablation confined to the left atrium only to cure AF, supported by the fact that the majority of paroxysmal AF originates around the PVs and posterior left atrium.
 
-## **Pulmonary Vein Isolation**
+**Meta-analysis (Barnett and Ad):**
+- Biatrial lesion set: **87%** late freedom from AF
+- Left atrial lesion set alone: **73%** late freedom from AF (p = .05)
 
-The results of PVI alone have been variable and have been dependent on patient selection and the energy source utilized. In the first report of surgical PVI, Wolf and colleagues reported that 91% of patients undergoing a video-assisted bilateral PVI and left atrial appendage exclusion were free from AF at three months follow-up. <sup>101</sup> However, this was a small study with very limited follow-up. Edgerton et al reported on 57 patients undergoing PVI with GP ablation with more thorough follow-up and found 82% of their patients with paroxysmal AF to be free from AF at 6 months, with 74% off antiarrhythmic drugs. <sup>102</sup>
+**Rationale:**
+- Intraoperative mapping shows AF can originate from the right atrium in **10–30%** of cases
+- Omission of left atrial isthmus lesion increases recurrent AF in permanent AF
+- Isolating entire posterior left atrium significantly improves drug-free freedom from AF (79% vs 54% at 6 months, p = .011)
 
-Subsequent studies have shown encouraging results in patients with paroxysmal AF. In a study involving 21 patients with paroxysmal AF undergoing PVI with GP ablation, McClelland et al reported 88% freedom from AF at 1 year without antiarrhythmic drugs.<sup>72</sup> A larger, single-center trial recently reported a 65% single-procedure success at 1 year in a series of 45 patients undergoing PVI with GP ablation, including patients with persistent and paroxysmal AF.<sup>103</sup> A multicenter trial reported 87% normal sinus rhythm rate in a more diverse patient population, including some patients with long-standing persistent AF; however, those patients with long-standing persistent AF only had a 71% incidence of normal sinus rhythm. 104 The FAST trial, a more recent multicenter randomized trial, compared 63 patients who received linear antral PVI by way of catheter ablation and 61 patients who received bipolar RF PVI and ganglionated plexi ablation. Most patients in both groups had paroxysmal AF. At 1 year, freedom from left atrial arrhythmias >30 seconds evaluated by a 7-day Holter without antiarrhythmic drugs was 66% for surgical ablation versus 37% for catheter ablation (p = .002).<sup>105</sup>
+**Randomized trial (Gaita et al):**
+- PVI alone: 20% normal sinus rhythm at 2 years
+- PVI + left atrial isthmus lesion: 57% normal sinus rhythm at 2 years (p < .006)
 
-In patients with long-standing or persistent AF, the results have been worse. In a study from Edgerton and his group, only 35% of patients were free from AF and antiarrhythmic drugs at 6 months follow-up. 106 Long-term data for PVI with ganglion plexus ablation are equally disappointing. One group reported 139 patients with up to 5 years of followup: freedom from AF and antiarrhythmic drugs was 52, 28, and 29% for paroxysmal, persistent, and long-standing persistent AF.<sup>107</sup> With concomitant procedures, the success rate of PVI is also low. Of 23 patients undergoing mitral valve surgery or coronary revascularization with concomitant PVI, only half of patients were free from AF at a follow-up of 57 ± 37 months. <sup>108</sup> In the setting of mitral valve disease, Tada and colleagues report only 17% freedom from AF and antiarrhythmic drugs in their series of 66 patients undergoing PVI. 109 In patients undergoing aortic valve replacement and
+</div></details>
 
-PVI, freedoms from AF and antiarrhythmic drugs was only 50% at two years at our institution. 110
+<details class="med-details"><summary>
+  
+#### Pulmonary Vein Isolation</summary><div class="details-content">
 
-## INDICATIONS FOR SURGICAL ABLATION
+Results of PVI alone have been variable and dependent on patient selection and energy source.
 
-The indications for surgery have been defined in a recent consensus statement.<sup>111</sup> These presently include (1) All symptomatic patients with documented atrial fibrillation undergoing other cardiac surgical procedures; (2) selected asymptomatic patients with atrial fibrillation undergoing cardiac surgery in which the ablation can be performed with minimal risk in experienced centers; and (3) stand-alone atrial fibrillation ablation should be considered for symptomatic patients with atrial fibrillation who either prefer a surgical approach, have failed one or more attempts at catheter ablation, or are not candidates for catheter ablation.
+**Paroxysmal AF:**
+- Wolf et al (initial report): 91% free from AF at 3 months (small study, limited follow-up)
+- Edgerton et al (PVI + GP ablation): 82% free from AF at 6 months, 74% off antiarrhythmic drugs
+- McClelland et al (21 patients): 88% freedom from AF at 1 year without antiarrhythmic drugs
+- Single-center trial (45 patients): 65% single-procedure success at 1 year (including persistent and paroxysmal)
+- FAST trial (multicenter, randomized):
+  - Surgical PVI + GP ablation: 66% freedom from left atrial arrhythmias at 1 year
+  - Catheter ablation: 37% (p = .002)
 
-There is still controversy regarding the referral of patients for surgery with medically refractory, symptomatic AF in lieu of catheter ablation. In these instances, clinical decisions should be made based on the individual institution's experience with catheter and surgical ablation, the relative outcomes and risks of each in the individual patient, and patient preference. Programs involved in the surgical treatment of AF should develop a team approach to these patients, including both electrophysiologists and surgeons, to ensure appropriate selection of patients.
+**Persistent/Long-Standing AF:**
+- Edgerton et al: only **35%** free from AF and antiarrhythmic drugs at 6 months
+- Long-term data (139 patients, up to 5 years):
+  - Paroxysmal: 52% freedom from AF and AADs
+  - Persistent: 28%
+  - Long-standing persistent: 29%
 
-There are relative indications for surgery that were not included in the consensus statement. The first is a contraindication to long-term anticoagulation in patients with persistent AF and a high risk for stroke (CHADS score  $\geq$  2). Up to one-third of patients with AF screened for participation in clinical trials of warfarin were deemed ineligible for chronic anticoagulation, mainly because of a high perceived risk for bleeding complications. 112-114 In one study, the annual rate of intracranial hemorrhage in anticoagulated patients with AF was 0.9% per year, and the overall major bleeding complication rate was 2.3% per year. 114 The stroke rate following the Cox-Maze procedure off anticoagulation has been remarkably low, even in high-risk patients. At our institution, only 5 of 450 patients had a stroke after a mean follow-up of  $6.9 \pm 5.1$  years. There was no difference in stroke rate in those patients with CHADS scores above or below 2.115 This low risk of stroke after the Cox-Maze procedure has been noted in other series. 19,116,117 The decrease in stroke risk is likely due to the high cure rate, as well as the obliteration of the left atrial appendage. Surgical treatment for AF with amputation of the left atrial appendage also should be considered in patients with chronic AF who have suffered a cerebrovascular accident despite adequate anticoagulation, as these patients are at high risk for repeat neurologic events.
+**Concomitant Procedures:**
+- Mitral valve surgery or coronary revascularization + PVI: only 50% free from AF at 57 ± 37 months
+- Mitral valve disease + PVI (Tada et al): 17% freedom from AF and AADs
+- Aortic valve replacement + PVI: 50% freedom from AF and AADs at 2 years
 
-#### **HYBRID ABLATIONS**
+</div></details>
 
-Although the Cox-Maze procedure achieves high rates of success and recent technological advances have made it easier to perform through less invasive incisions, it still requires
+</div></details>
 
-cardiopulmonary bypass. Several groups have started performing epicardial ablations with the aid of suction based RF and cryoablation probes, which can be placed through thoracoscopic ports. However, these probes do not achieve the same degree of transmurality achieved with bipolar probes. <sup>118</sup> This led to the idea of combining both endocardial ablation via transcatheter techniques and epicardial ablation via surgical techniques in a "hybrid" approach.
+<details class="med-details"><summary>
+  
+## INDICATIONS FOR SURGICAL ABLATION</summary><div class="details-content">
 
-Though specific lesion sets and approaches vary greatly from institution to institution, early results are promising. <sup>119,120</sup> In one study, 78 consecutive patients underwent thoracoscopic hybrid ablation and 74% were free of AF off antiarrhythmic drugs without further ablations at 24 months follow-up. <sup>121</sup> Another group utilized a similar lesion set via a pericardioscopic hybrid approach in 101 consecutive patients, and demonstrated a freedom from AF in 66% at one year. <sup>122</sup> However, with increasing data on these newer procedures, important safety concerns including high rates of conversion to sternotomy and reoperation for bleeding have been reported. <sup>123</sup>
+The indications for surgery have been defined in a recent consensus statement:
 
-Though new minimally invasive and hybrid techniques have yet to be standardized, they hold promise and require continued clinical investigation to determine their precise role.
+1. **All symptomatic patients with documented AF undergoing other cardiac surgical procedures**
+2. **Selected asymptomatic patients with AF undergoing cardiac surgery** in which ablation can be performed with minimal risk in experienced centers
+3. **Stand-alone AF ablation** should be considered for symptomatic patients with AF who either:
+   - Prefer a surgical approach
+   - Have failed one or more attempts at catheter ablation
+   - Are not candidates for catheter ablation
 
-## **FUTURE DIRECTIONS IN AF SURGERY**
+**Controversy:** Referral for surgery vs catheter ablation for medically refractory, symptomatic AF should be based on individual institution's experience, relative outcomes and risks, and patient preference. Programs should develop a team approach with electrophysiologists and surgeons.
 
-The ideal surgical procedure for AF would be a minimally invasive operation that does not require cardiopulmonary bypass. Such a procedure should preserve normal atrial physiology, have minimal morbidity, and a have a high success rate. Achieving this goal will require progress in understanding the mechanism of AF in individual patients, and tailoring of treatment approaches. The surgical approach may need to be redesigned based on a better understanding of the mechanisms and the effects of surgical ablation on atrial electrophysiology.
+**Relative Indications (not in consensus statement):**
+- **Contraindication to long-term anticoagulation** in patients with persistent AF and high stroke risk (CHADS₂ ≥2)
+  - Up to one-third of AF patients ineligible for warfarin trials due to bleeding risk
+  - Annual major bleeding on warfarin: 2.3%; intracranial hemorrhage: 0.9%
+  - Post-Maze stroke rate remarkably low even in high-risk patients
+- **Cerebrovascular accident despite adequate anticoagulation**—high risk for repeat neurologic events
 
-It is now known that there are multiple different possible mechanisms of AF. Multipoint mapping is necessary to describe this complex arrhythmia. 98,100,101,124,125 Epicardial activation sequence mapping has been the traditional gold standard for mapping of AF, but is both invasive and time consuming, limiting its clinical use. 18 A newer noninvasive technique, electrocardiographic imaging (ECGI), offers a potentially useful way to describe the atrial activation sequence and determine mechanistic information from conscious patients. 126 The technique uses body surface potentials, measured by surface electrodes, and anatomical data obtained through computed tomographic scanning to indirectly calculate the surface potentials on the surface of the heart. This technique has been shown to work well for normal sinus rhythm and atrial flutter as well as ventricular arrhythmias. 127-130 This modality has also been tested in a variety of patient populations including patients with heart failure undergoing biventricular pacing therapy or heart transplant, 131 patients with different substrates of AF, 132 and patients undergoing open-heart surgery. 133 In one particular study, 26 patients with AF underwent ECGI. AF complexity (including number of wavelets, focal sites, and rotor activity)
+</div></details>
 
-increased with longer clinical history of AF, although the degree of complexity of nonparoxysmal AF varied widely. This highlights the coexistence of a variety of mechanisms and variable complexity among patients, which could be targeted by patient-specific ablation approaches. <sup>132</sup> Currently our group is testing the technique in patients with AF and mitral valve disease, with a goal of further identifying the mechanisms of AF in this population.
+<details class="med-details"><summary>
+  
+## HYBRID ABLATIONS</summary><div class="details-content">
 
-The information acquired from ECGI can be analyzed to determine activation sequence and frequency maps for individual patients noninvasively. Using these data, a strategy for designing patient-specific optimal lesion sets is being developed, taking into account the patient's atrial geometry, conduction velocity, and refractory period. Previous work has demonstrated that a critical mass is necessary to maintain AF, and initial lesions could be determined by a calculation of the critical area needed to maintain AF in the individual patient. This could be done using mechanistic information derived from activation data and anatomical data from a CT scan. It will also allow identification of focal sources that can then be either isolated or ablated in the electrophysiologic laboratory or operating room.
+Although the Cox-Maze procedure achieves high success rates and recent technological advances have made it easier to perform through less invasive incisions, it still requires cardiopulmonary bypass. Several groups have started performing epicardial ablations with suction-based RF and cryoablation probes placed through thoracoscopic ports. However, these probes do not achieve the same degree of transmurality as bipolar probes.
 
-In instances in which a specific mechanism of AF cannot be defined, the goal will be to create a lesion pattern that will make the atria unable to fibrillate. Failures of the Cox-Maze III and IV procedures have been seen in patients with increasing left atrial size or long-standing AE. 116,135,136 A study performed by our laboratory on a canine model found that the probability of maintaining AF is correlated with increasing atrial tissue areas, widths, and weights, as well as the length of the effective refractory period and the conduction velocity of the tissue. 134 All of these data can be acquired noninvasively through magnetic resonance imaging scans and ECGI. Using these data may allow surgeons to design custom operations for each patient based on the mechanism of their arrhythmia and their specific atrial anatomy or electrophysiology.
+This led to the concept of combining **endocardial ablation via transcatheter techniques** and **epicardial ablation via surgical techniques** in a "hybrid" approach.
 
-Finally, the limitations of present ablation devices have impeded the development of a truly minimally invasive procedure. Unfortunately, the creation of reliable transmural lines of ablation on the beating heart has been difficult. This has been because of the heat sink of the circulating endocardial blood pool.<sup>42</sup> Future advances may be anticipated with devices that overcome this limitation, but the introduction of hybrid procedures in which surgeons and electrophysiologists work together to complete lines of block with avoiding cardiopulmonary bypass may also circumvent this issue and have shown early promise.
+**Early Results:**
+- Thoracoscopic hybrid ablation (78 patients): **74%** free from AF off antiarrhythmic drugs without further ablations at 24 months
+- Pericardioscopic hybrid approach (101 patients): **66%** freedom from AF at 1 year
 
-In conclusion, the development of ablation technologies has dramatically changed the field of AF surgery. The replacement of the surgical incisions with linear lines of ablation has transformed a complex, technically demanding procedure into one accessible to the majority of surgeons. More importantly, these new ablation technologies have introduced minimally invasive surgery for AF, prompting efforts to develop simpler procedures that can be performed epicardially on the beating heart. However, surgeons must remember that the
+**Safety Concerns:**
+- High rates of conversion to sternotomy and reoperation for bleeding reported with increasing data on newer procedures
 
-Cox-Maze procedure has excellent efficacy in these patients and can be performed using a small thoracotomy with low morbidity.<sup>95</sup> It is imperative for surgeons trying new procedures to carefully follow their results and publish them in peer-reviewed journals. For surgeons performing AF ablation, it is mandatory to adhere to the recently published guidelines for follow-up of patients and for determining success or failure after these procedures.<sup>111</sup> As we learn more about the mechanisms of AF and develop improved preoperative diagnostic technologies capable of precisely identifying mechanisms, it may become possible to tailor specific lesion sets and ablation modalities to individual patients, making the surgical treatment of AF more effective and available to an even larger population of patients.
+Though new minimally invasive and hybrid techniques have yet to be standardized, they hold promise and require continued clinical investigation.
 
-## **REFERENCES**
+</div></details>
 
-- Andrade J, Khairy P, Dobrev D, Nattel S: The clinical profile and pathophysiology of atrial fibrillation: relationships among clinical features, epidemiology, and mechanisms. Circ Res 2014; 114:1453-1468.
-- Wolf PA, Benjamin EJ, Belanger AJ, Kannel WB, Levy D, D'Agostino RB: Secular trends in the prevalence of atrial fibrillation: The Framingham Study. Am Heart J 1996; 131:790-795.
-- Wolf PA, Abbott RD, Kannel WB: Atrial fibrillation as an independent risk factor for stroke: the Framingham Study. Stroke; J Cerebral Circ 1991; 22:983-988.
-- Wolf PA, Abbott RD, Kannel WB: Atrial fibrillation: a major contributor to stroke in the elderly. The Framingham Study. Arch Intern Med 1987; 147:1561-1564.
-- Steger C, Pratter A, Martinek-Bregel M, et al: Stroke patients with atrial fibrillation have a worse prognosis than patients without: data from the Austrian Stroke registry. Eur Heart J 2004; 25:1734-1740.
-- Sherman DG, Kim SG, Boop BS, National Heart, Lung and Blood Institute AFFIRM Investigators et al: Occurrence and characteristics of stroke events in the Atrial Fibrillation Follow-up Investigation of Sinus Rhythm Management (AFFIRM) study. Arch Intern Med 2005; 165:1185-1191.
-- 7. Hart RG, Halperin JL, Pearce LA, and Stroke Prevention in Atrial Fibrillation I et al: Lessons from the Stroke Prevention in Atrial Fibrillation trials. *Ann Intern Med* 2003; 138:831-838.
-- 8. Glader EL, Stegmayr B, Norrving B, et al: Large variations in the use of oral anticoagulants in stroke patients with atrial fibrillation: a Swedish national perspective. *J Intern Med* 2004; 255:22-32.
-- Cairns JA: Stroke prevention in atrial fibrillation trial. Circulation 1991; 84:933-935.
-- Benjamin EJ, Levy D, Vaziri SM, D'Agostino RB, Belanger AJ, Wolf PA: Independent risk factors for atrial fibrillation in a population-based cohort. The Framingham Heart Study. *JAMA* 1994; 271:840-844.
-- Laupacis A, Boysen G, Connolly S, et al: Risk factors for stroke and efficacy
-  of antithrombotic therapy in atrial fibrillation. Analysis of pooled data from
-  five randomized controlled trials. Arch Intern Med 1994; 154:1449-1457.
-- Williams JM, Ungerleider RM, Lofland GK, Cox JL: Left atrial isolation: new technique for the treatment of supraventricular arrhythmias. J Thorac Cardiovasc Surg 1980; 80:373-380.
-- Scheinman MM, Morady F, Hess DS, Gonzalez R: Catheter-induced ablation of the atrioventricular junction to control refractory supraventricular arrhythmias. *JAMA* 1982; 248:851-855.
-- Guiraudon G, Campbell CS, Jones DL: Combined sinoatrial node atrioventricular node isolation: a surgical alternative to His bundle ablation in patients with atrial fibrillation. *Circulation* 1985; 72.
-- Smith PK, Holman WL, Cox JL: Surgical treatment of supraventricular tachyarrhythmias. Surg Clin North Am 1985; 65:553-570.
-- Cox JL, Schuessler RB, D'Agostino HJ, Jr, et al: The surgical treatment of atrial fibrillation. III. Development of a definitive surgical procedure. J Thorac Cardiovasc Surg 1991; 101:569-583.
-- Cox JL: The surgical treatment of atrial fibrillation. IV. Surgical technique. J Thorac Cardiovasc Surg 1991; 101:584-592.
-- 18. Cox JL, Canavan TE, Schuessler RB, et al: The surgical treatment of atrial fibrillation. II. Intraoperative electrophysiologic mapping and
+<details class="med-details"><summary>
+  
+## FUTURE DIRECTIONS IN AF SURGERY</summary><div class="details-content">
 
-- description of the electrophysiologic basis of atrial flutter and atrial fibrillation. *J Thorac Cardiovasc Surg* 1991; 101:406-426.
-- Cox JL, Ad N, Palazzo T: Impact of the maze procedure on the stroke rate in patients with atrial fibrillation. *J Thorac Cardiovasc Surg* 1999; 118:833-840.
-- Feinberg MS, Waggoner AD, Kater KM, Cox JL, Lindsay BD, Perez JE: Restoration of atrial function after the maze procedure for patients with atrial fibrillation. Assessment by Doppler echocardiography. *Circulation* 1994; 90:II285-II292.
-- Cox JL, Boineau JP, Schuessler RB, Jaquiss RD, Lappas DG: Modification of the maze procedure for atrial flutter and atrial fibrillation. I. Rationale and surgical results. *J Thorac Cardiovasc Surg* 1995; 110:473-484.
-- Cox JL: The minimally invasive Maze-III procedure. Op Techn Thorac Cardiovasc Surg 2000; 5.
-- Prasad SM, Maniar HS, Camillo CJ, et al: The Cox Maze III procedure for atrial fibrillation: long-term efficacy in patients undergoing lone versus concomitant procedures. J Thorac Cardiovasc Surg 2003; 126:1822-1828.
-- McCarthy PM, Gillinov AM, Castle L, Chung M, Cosgrove D, 3rd: The Cox-Maze procedure: the Cleveland Clinic experience. Semin Thorac Cardiovasc Surg 2000; 12:25-29.
-- Raanani E, Albage A, David TE, Yau TM, Armstrong S: The efficacy of the Cox/Maze procedure combined with mitral valve surgery: a matched control study. Eur J Cardiothorac Surg 2001; 19:438-442.
-- Schaff HV, Dearani JA, Daly RC, Orszulak TA, Danielson GK: Cox-Maze procedure for atrial fibrillation: Mayo Clinic experience. Semin Thorac Cardiovasc Surg 2000; 12:30-37.
-- Gammie JS, Haddad M, Milford-Beland S, et al: Atrial fibrillation correction surgery: lessons from the Society of Thoracic Surgeons National Cardiac Database. *Ann Thorac Surg* 2008; 85:909-914.
-- Inoue H, Zipes DP: Conduction over an isthmus of atrial myocardium in vivo: a possible model of Wolff-Parkinson-White syndrome. Circulation 1987; 76:637-647.
-- Ishii Y, Nitta T, Sakamoto S, Tanaka S, Asano G: Incisional atrial reentrant tachycardia: experimental study on the conduction property through the isthmus. J Thorac Cardiovasc Surg 2003; 126:254-262.
-- Melby SJ, Lee AM, Zierer A, et al: Atrial fibrillation propagates through gaps in ablation lines: implications for ablative treatment of atrial fibrillation. *Heart Rhythm* 2008; 5:1296-1301.
-- 31. Melby SJ, Lee AM, Damiano RJ Jr.: Advances in surgical ablation devices for atrial fibrillation. Boston: Blackwell Futura; 2005.
-- 32. Gage AM, Montes M, Gage AA: Freezing the canine thoracic aorta in situ. *J Surg Res* 1979; 27:331-340.
-- Holman WL, Ikeshita M, Ungerleider RM, Smith PK, Ideker RE, Cox JL: Cryosurgery for cardiac arrhythmias: acute and chronic effects on coronary arteries. Am J Cardiol 1983; 51:149-155.
-- 34. Watanabe H, Hayashi J, Aizawa Y: Myocardial infarction after cryoablation surgery for Wolff-Parkinson-White syndrome. *Jpn J Thorac Cardiovasc Surg: Official Publication of the Japanese Association for Thoracic Surgery—Nihon Kyobu Geka Gakkai zasshi* 2002; 50:210-212.
-- Manasse E, Colombo P, Roncalli M, Gallotti R: Myocardial acute and chronic histological modifications induced by cryoablation. Eur J Cardiothorac Surg 2000; 17:339-340.
-- Aupperle H, Doll N, Walther T, et al: Ablation of atrial fibrillation and esophageal injury: effects of energy source and ablation technique. J Thorac Cardiovasc Surg 2005; 130:1549-1554.
-- Viola N, Williams MR, Oz MC, Ad N: The technology in use for the surgical ablation of atrial fibrillation. Semin Thorac Cardiovasc Surg 2002; 14:198-205.
-- Santiago T, Melo JQ, Gouveia RH, Martins AP: Intra-atrial temperatures in radiofrequency endocardial ablation: histologic evaluation of lesions. *Ann Thorac Surg* 2003; 75:1495-1501.
-- Thomas SP, Guy DJ, Boyd AC, Eipper VE, Ross DL, Chard RB: Comparison of epicardial and endocardial linear ablation using handheld probes. *Ann Thorac Surg* 2003; 75:543-548.
-- Hoenicke EM, Strange RG, Patel H, et al: Initial experience with epicardial radiofrequency ablation catheter in an ovine model: moving towards an endoscopic Maze procedure. Surg Forum 2000; 51:79-82.
-- Santiago T, Melo J, Gouveia RH, et al: Epicardial radiofrequency applications: in vitro and in vivo studies on human atrial myocardium. Eur J Cardiothorac Surg 2003; 24:481-486; discussion 486.
-- 42. Melby SJ, Zierer A, Kaiser SP, Schuessler RB, Damiano RJ, Jr: Epicardial microwave ablation on the beating heart for atrial fibrillation: the
+The ideal surgical procedure for AF would be a minimally invasive operation that does not require cardiopulmonary bypass, preserves normal atrial physiology, has minimal morbidity, and has a high success rate. Achieving this goal requires progress in understanding the mechanism of AF in individual patients and tailoring treatment approaches.
+
+**Electrocardiographic Imaging (ECGI):**
+- Noninvasive technique using body surface potentials and CT anatomical data to calculate surface potentials on the heart
+- Works well for normal sinus rhythm, atrial flutter, and ventricular arrhythmias
+- Can determine activation sequence and frequency maps for individual patients
+- AF complexity (wavelets, focal sites, rotor activity) increases with longer clinical history
+- Coexistence of varied mechanisms and variable complexity among patients can be targeted by patient-specific ablation approaches
+
+**Patient-Specific Lesion Sets:**
+- Using ECGI data, activation sequence and frequency maps can be analyzed
+- Strategy for designing patient-specific optimal lesion sets based on:
+  - Atrial geometry
+  - Conduction velocity
+  - Refractory period
+- Critical mass necessary to maintain AF can be calculated for individual patients
+- Identification of focal sources that can be isolated or ablated
+
+**Future Advances:**
+- All necessary data can be acquired noninvasively through MRI scans and ECGI
+- Limitations of present ablation devices (creation of reliable transmural lines on beating heart) impede truly minimally invasive procedures
+- Hybrid procedures (surgeons and electrophysiologists working together) may circumvent this issue
+
+The development of ablation technologies has dramatically changed the field of AF surgery. Replacement of surgical incisions with linear lines of ablation has transformed a complex, technically demanding procedure into one accessible to the majority of surgeons. It is imperative for surgeons to carefully follow results and adhere to published guidelines for follow-up and determining success/failure. As we learn more about mechanisms of AF and develop improved preoperative diagnostic technologies, it may become possible to tailor specific lesion sets and ablation modalities to individual patients.
+
+</div></details>
