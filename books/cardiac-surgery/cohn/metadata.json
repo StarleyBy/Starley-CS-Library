@@ -8,6 +8,12 @@
     "authors": [
       "Lawrence H. Cohn, MD, David H. Adams, MD"
     ],
+    "versions": {
+      "original": true,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
     "chapters": [
       {
         "file": "chapter-01.md",
