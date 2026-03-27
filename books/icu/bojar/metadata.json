@@ -11,9 +11,9 @@
   ],
   "versions": {
       "original": true,
-      "russian": true,
-      "starley": true,
-      "hebrew": true
+      "russian": false,
+      "starley": false,
+      "hebrew": false
     },
   "chapters": [
     {
