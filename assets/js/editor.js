@@ -253,8 +253,14 @@ function updatePreview() {
         mathStore.push({ id, tex, display });
         return id;
     }
+    // \[...\] display (must be before $$ to avoid conflicts)
+    md = md.replace(/\\\[\s*([\s\S]*?)\s*\\\]/g, (_, tex) => storeMath(tex, true));
+    // $$...$$ display
     md = md.replace(/\$\$([\s\S]*?)\$\$/g, (_, tex) => storeMath(tex, true));
-    md = md.replace(/\$([^\n$][^$]*?)\$/g,  (_, tex) => storeMath(tex, false));
+    // \(...\) inline
+    md = md.replace(/\\\(\s*([\s\S]*?)\s*\\\)/g, (_, tex) => storeMath(tex, false));
+    // $...$ inline
+    md = md.replace(/\$([^\n$][^$]*?)\$/g, (_, tex) => storeMath(tex, false));
 
     // Обновляем HTML
     previewContainer.innerHTML = marked.parse(md);

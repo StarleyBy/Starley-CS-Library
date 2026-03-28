@@ -239,7 +239,10 @@ async function loadChapter(bookPath, chapterId, edition) {
         const rawMd = md; // preserve original for line counting
 
         // --- Protect LaTeX math from marked.js mangling ---
-        // Extract $$...$$ (display) and $...$ (inline) before marked touches them
+        // Order matters: longer/more specific patterns first
+        // 1. Display math: $$...$$ and \[...\]
+        // 2. Inline math:  $...$ and \(...\)
+        // Must run BEFORE marked.parse and BEFORE [[...]] oval replacement
         const mathStore = [];
         function storeMath(tex, display) {
             const id = '\x02MATH' + mathStore.length + '\x03';
@@ -247,9 +250,13 @@ async function loadChapter(bookPath, chapterId, edition) {
             return id;
         }
 
-        // Display math first ($$...$$) — must come before inline to avoid conflicts
+        // \[...\] display math (multiline)
+        md = md.replace(/\\\[\s*([\s\S]*?)\s*\\\]/g, (_, tex) => storeMath(tex, true));
+        // $$...$$ display math
         md = md.replace(/\$\$([\s\S]*?)\$\$/g, (_, tex) => storeMath(tex, true));
-        // Inline math ($...$) — only single $ not preceded/followed by $
+        // \(...\) inline math
+        md = md.replace(/\\\(\s*([\s\S]*?)\s*\\\)/g, (_, tex) => storeMath(tex, false));
+        // $...$ inline math — only single $ not preceded/followed by $
         md = md.replace(/\$([^\n$][^$]*?)\$/g, (_, tex) => storeMath(tex, false));
 
         // Custom styling parser
