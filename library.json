@@ -1,6 +1,14 @@
 {
   "categories": [
     {
+      "id": "summary",
+      "title": "Summary",
+      "path": "books/summary",
+      "books": [
+        { "folder": "mysummary" }
+      ]
+    },
+    {
       "id": "icu",
       "title": "Intensive therapy",
       "path": "books/icu",
