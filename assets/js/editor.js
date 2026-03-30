@@ -307,6 +307,16 @@ document.addEventListener('DOMContentLoaded', () => {
     
     setTimeout(() => {
         initPreview();
+        // Re-render preview once KaTeX is definitely ready
+        // (handles slow CDN case where katex loads after DOMContentLoaded)
+        if (typeof katex === 'undefined') {
+            const check = setInterval(() => {
+                if (typeof katex !== 'undefined') {
+                    clearInterval(check);
+                    updatePreview();
+                }
+            }, 100);
+        }
     }, 100);
 });
 
