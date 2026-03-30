@@ -1030,6 +1030,8 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ![](_page_42_Figure_6.jpeg)
 
+**FIGURE A1** Technique of Thoracentesis
+
 </div></details>
 
 <details class="med-details"><summary>
@@ -1040,12 +1042,18 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ![](_page_43_Figure_2.jpeg)
 
+**FIGURE A2** Technique for Tube Thoracostomy
+
 **2. Pleural entry.** The dissection is carried down to and through the intercostal muscles with a Kelly clamp, the parietal pleura is penetrated, and the pleural cavity is entered. Finger dissection should be used only if loculations are known to be present.
 
 ![](_page_43_Figure_5.jpeg)
 
+**FIGURE A3** Technique for Tube Thoracostomy
+
 **3. Chest tube placement.** The chest tube is inserted and directed towards the apex for air and posteriorly for fluid. The tube should be clamped during insertion if fluid is being drained. The tube is then secured with a 2-0 silk suture. A trocar should **never** be used to penetrate the pleura.
 
 ![](_page_44_Figure_2.jpeg)
+
+**FIGURE A4** Technique for Tube Thoracostomy
 
 </div></details>
