@@ -25,13 +25,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/xml-fold.min.js"></script>
 </head>
 <body>
-    <header>
-        <h1>📚 Medical library</h1>
-        <nav>
-            <a href="index.html">Library</a>
-            <a href="editor.html">Editor</a>
-        </nav>
+    <header id="editor-header" class="editor-header">
+        <div class="editor-header-inner">
+            <span class="editor-header-title">📚 Starley Medical Editor</span>
+            <nav class="editor-header-nav">
+                <a href="index.html">Library</a>
+                <a href="editor.html">Editor</a>
+            </nav>
+            <button id="header-toggle" class="header-collapse-btn" title="Hide header">▲</button>
+        </div>
     </header>
+    <div id="header-show-tab" title="Show header">▼ editor</div>
     <div class="editor-shell">
         <aside class="editor-toolbar">
             <!-- Загрузка файлов -->

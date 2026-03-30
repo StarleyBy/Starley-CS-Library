@@ -1,10 +1,101 @@
+/* ============= GLOBAL LAYOUT — NO BODY SCROLL ============= */
+:root {
+    --editor-header-h: 34px;
+}
+:root.header-hidden {
+    --editor-header-h: 0px;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;   /* kill the global scroll entirely */
+    margin: 0;
+    padding: 0;
+}
+
+/* Compact collapsible header */
+.editor-header {
+    height: var(--editor-header-h);
+    overflow: hidden;
+    background: #1a1a1a;
+    border-bottom: 1px solid #3a3a3a;
+    transition: height 0.2s ease;
+    flex-shrink: 0;
+}
+
+.editor-header-inner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 10px;
+    height: 34px;
+    white-space: nowrap;
+}
+
+.editor-header-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #3498db;
+}
+
+.editor-header-nav {
+    display: flex;
+    gap: 8px;
+}
+
+.editor-header-nav a {
+    color: #aaa;
+    text-decoration: none;
+    font-size: 0.78rem;
+    padding: 2px 8px;
+    border-radius: 3px;
+    border: 1px solid #444;
+    transition: all 0.15s;
+}
+.editor-header-nav a:hover { color: white; border-color: #3498db; }
+
+.header-collapse-btn {
+    margin-left: auto;
+    background: none;
+    border: none;
+    color: #666;
+    cursor: pointer;
+    font-size: 0.7rem;
+    padding: 2px 6px;
+    border-radius: 3px;
+    transition: color 0.15s;
+}
+.header-collapse-btn:hover { color: #aaa; }
+
+/* Show tab when header is hidden */
+#header-show-tab {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1a1a1a;
+    border: 1px solid #3a3a3a;
+    border-top: none;
+    color: #555;
+    font-size: 0.65rem;
+    padding: 1px 12px;
+    cursor: pointer;
+    border-radius: 0 0 5px 5px;
+    z-index: 1000;
+    display: none;
+    transition: color 0.15s;
+}
+#header-show-tab:hover { color: #aaa; }
+
 /* Общая структура */
 .editor-shell { 
-    display: flex; 
-    height: 100vh; 
+    display: flex;
+    /* Fill remaining height after header */
+    height: calc(100% - var(--editor-header-h));
     overflow: hidden; 
     background: #1e1e1e; 
-    color: #eee; 
+    color: #eee;
+    transition: height 0.2s ease;
 }
 
 .editor-toolbar { 
