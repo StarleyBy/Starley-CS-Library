@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="assets/css/editor.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
     <!-- CodeMirror CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
@@ -25,13 +25,17 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/xml-fold.min.js"></script>
 </head>
 <body>
-    <header>
-        <h1>📚 Medical library</h1>
-        <nav>
-            <a href="index.html">Library</a>
-            <a href="editor.html">Editor</a>
-        </nav>
+    <header id="editor-header" class="editor-header">
+        <div class="editor-header-inner">
+            <span class="editor-header-title">📚 Starley Medical Editor</span>
+            <nav class="editor-header-nav">
+                <a href="index.html">Library</a>
+                <a href="editor.html">Editor</a>
+            </nav>
+            <button id="header-toggle" class="header-collapse-btn" title="Hide header">▲</button>
+        </div>
     </header>
+    <div id="header-show-tab" title="Show header">▼ editor</div>
     <div class="editor-shell">
         <aside class="editor-toolbar">
             <!-- Загрузка файлов -->

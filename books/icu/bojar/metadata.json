@@ -11,7 +11,7 @@
   ],
   "versions": {
       "original": true,
-      "russian": false,
+      "russian": true,
       "starley": false,
       "hebrew": false
     },

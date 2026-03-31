@@ -1,181 +1,358 @@
-# Chapter 18
+# Heart Failure
 
-### Heart failure
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Definition and Clinical Presentation
+
+*   **Heart failure (HF):** Complex clinical syndrome resulting from structural or functional cardiac disorder impairing ventricular filling or ejection, leading to inadequate cardiac output for metabolic demands.
+*   **Left heart failure symptoms:** Dyspnea, orthopnea, paroxysmal nocturnal dyspnea, fatigue, reduced exercise tolerance, weight loss, cold peripheries.
+*   **Right heart failure symptoms:** Peripheral edema, ascites, hepatic congestion, distended varicose veins.
+*   **Key signs:** Peripheral cyanosis, pulsus alternans (severe cases), raised JVP, displaced apex beat, third heart sound (gallop rhythm), hepatomegaly, pleural effusions.
+
+### Classification Systems
+
+*   **NYHA functional classification (I–IV):** I = no limitations; II = slight limitation (comfortable at rest); III = marked limitation (comfortable only at rest); IV = symptoms at rest.
+*   **AHA staging (A–D):** A = at risk (HTN/CAD); B = asymptomatic with structural changes (LVH/systolic dysfunction); C = symptomatic with structural changes; D = refractory HF.
+
+### Pathophysiology
+
+*   **Neuroendocrine activation:** Sympathetic nervous system, renin-angiotensin system, release of noradrenaline, ADH (vasopressin), and endothelin → fluid retention and increased afterload.
+*   **Natriuretic peptides (ANP/BNP):** Released in response to fluid overload; promote natriuresis/diuresis, vasodilation, inhibit ADH/aldosterone — but overwhelmed by neuroendocrine activation.
+
+### Etiology
+
+*   **Increased preload (volume overload):** Mitral/aortic regurgitation, septal defects
+*   **Reduced contractility:** CAD, dilated/restrictive cardiomyopathy, myocarditis
+*   **Increased afterload (pressure overload):** Aortic stenosis, hypertension, coarctation
+*   **Impaired rhythm:** Atrial/ventricular tachyarrhythmias
+*   **Impaired filling:** Tamponade, constrictive pericarditis, mitral stenosis
+*   **High-output failure:** Anemia, sepsis, AV fistula, hyperthyroidism, pregnancy
+
+### Myocardial Viability
+
+*   **Viable myocardium:** Cardiac muscle amenable to revascularization (hibernating, stunned, ischemic)
+*   **Hibernating myocardium:** Hypocontractility during chronic hypoperfusion that recovers after revascularization
+*   **Myocardial stunning:** Dysfunction after ischemia-reperfusion (may last up to 2 weeks)
+*   **Identification of hibernating myocardium:**
+    *   Dobutamine stress echo: biphasic response (↑ contractility with low dose, not with high dose)
+    *   MRI: no thinning (<6 mm), delayed hyperenhancement
+    *   PET: normal <sup>18</sup>FDG uptake with decreased <sup>13</sup>N-ammonia/<sup>15</sup>O-water uptake
+    *   <sup>201</sup>Thallium: increased uptake on late redistribution
+
+### Surgical Treatments for HF
+
+*   **CABG indications in HF:** CAD with reasonable targets, myocardial ischemia, viability >20% of LV. CASS Registry: 5-year survival 41% (medical) vs. 62% (surgical) for EF <25%. Contraindications: poor targets, pulmonary hypertension (>60 mm Hg), severe RV dysfunction.
+*   **Cardiac resynchronization therapy (CRT/Biventricular pacing):** Indicated for HF ≥6 weeks on maximal therapy, NYHA III/IV, EF <35%, QRS >150 ms.
+*   **ICD indications:** Primary prevention after MI with EF <35% + non-sustained VT or inducible VT; secondary prevention for hemodynamically significant VT with EF <35%.
+*   **Batista procedure (partial left ventriculectomy):** Resects posterolateral LV wall to reduce volume and wall stress (Laplace's law) — no sustained benefit shown.
+*   **Dynamic cardiomyoplasty:** Latissimus dorsi wrap around ventricles with pacemaker stimulation — C‑SMART trial showed no survival benefit at 12 months.
+*   **Surgical ventricular restoration (SVR):** Excludes non-functioning LV, restores elliptical shape. RESTORE registry (n=1198): 30-day mortality 5.3%, 5-year survival 69%, EF improved from 29% to 39%.
+*   **Passive ventricular constraint devices (CorCap®):** Reduce further dilation and wall stress. Acorn trial: improved QOL, LV volumes, sphericity index.
+
+### Cardiac Transplantation
+
+*   **Survival:** 1 month 93%, 1 year 85%, 5 year 72%, 10 year 55%. 25% mortality on waiting list; 50–60% receive heart within 2 years.
+*   **Heart Failure Survival Score (HFSS) components:** Ischemic cardiomyopathy, heart rate, LVEF, MAP, conduction delay, VO₂ max, serum sodium. 1-year survival: low risk (>8.1) 93%, medium risk (7.2–8.1) 73%, high risk (<7.2) 43%.
+*   **Definite indications (ISHLT):** High-risk HFSS, VO₂ max <10 mL/kg/min, NYHA IV refractory, recurrent hospitalization, refractory ischemia with EF <20% not amenable to revascularization, refractory VT.
+*   **Contraindications:** Age >65, active infection, diabetes with end-organ damage, recent malignancy (need 5-year disease-free), excessive obesity, Cr >250 mmol/L or CrCl <50 mL/min, bilirubin >25 mmol/L, irreversible pulmonary hypertension (PAP >60 mm Hg or PVR >5 Wood units or TPG <18 mm Hg), drug abuse within 6 months, non-compliance risk.
+*   **Donor criteria:** Brain stem death, consent, no CAD or prior MI, no other cardiac disease, no malignancies (except CNS tumors), no refractory infection.
+*   **Immunosuppression:** Induction (ATG, azathioprine, corticosteroids); maintenance (cyclosporine A/tacrolimus + azathioprine/MMF + corticosteroids); newer agents (OKT3, daclizumab, basiliximab, sirolimus).
+
+### Left Ventricular Assist Devices (LVADs)
+
+*   **Classification:** Pulsatile (HeartMate I, Novacor) vs. non-pulsatile/continuous flow (HeartMate II, Jarvik 2000, DeBakey VAD); location (implantable, paracorporeal, percutaneous).
+*   **Uses:** Bridge to transplantation, bridge to recovery, destination therapy.
+*   **Complications:** Mortality 5–10% at 30 days, bleeding, infection (driveline/pocket), RV failure, thromboembolism, hemolysis.
+*   **REMATCH trial (n=129, NYHA IV, EF <25%, VO₂ max <12):** LVAD vs. medical therapy — 1-year survival 52% vs. 25%, 2-year survival 23% vs. 8%. More adverse events with LVAD. Conclusion: acceptable alternative for non-transplant candidates.
+
+### Key Clinical Trials
+
+| Trial | Population | Intervention | Outcome |
+|-------|------------|--------------|---------|
+| **MADIT** | Prior MI, EF <35%, non-sustained VT or inducible VT | ICD vs. medical | 27% mortality reduction with ICD |
+| **MUSTIC** | NYHA III/IV, EF <35%, QRS >150 ms | CRT (3 months on/off) | Improved QOL, 23% ↑ exercise tolerance, reduced hospitalizations |
+| **STICH (hypothesis 2)** | CAD, EF <35%, anterior akinesia/dyskinesia | CABG + SVR vs. CABG alone | No difference in death or cardiac hospitalization |
+| **HeartMate II** | Advanced HF, transplant-ineligible | Continuous-flow (HM II) vs. pulsatile (HM XVE) | 2-year survival 58% vs. 24%; fewer adverse events with continuous-flow |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 1. Definition and Clinical Presentation of Heart Failure</summary><div class="details-content">
 
 #### What is heart failure?
 
- Heart failure is a complex clinical syndrome resulting from any structural or functional cardiac disorder, that impairs the ability of the ventricle to fill with or eject blood, and results in a cardiac output which is inadequate to meet the metabolic demands of the body.
+Heart failure is a complex clinical syndrome resulting from any structural or functional cardiac disorder that impairs the ability of the ventricle to fill with or eject blood, resulting in a cardiac output inadequate to meet the metabolic demands of the body.
 
-### 2 What are the symptoms of left heart failure?
+#### Symptoms of Left Heart Failure
 
-- Dyspnoea, orthopnoea and paroxysmal nocturnal dyspnoea.
-- Fatigue and reduced exercise tolerance.
-- Weight loss and muscle wasting, which may progress to cachexia.
-- Cold peripheries.
-- Systemic embolism.
+*   Dyspnea, orthopnea, and paroxysmal nocturnal dyspnea
+*   Fatigue and reduced exercise tolerance
+*   Weight loss and muscle wasting (may progress to cachexia)
+*   Cold peripheries
+*   Systemic embolism
 
-### 3 What are the symptoms of right heart failure?
+#### Symptoms of Right Heart Failure
 
-- Peripheral oedema.
-- Ascites.
-- Hepatic congestion and pain.
-- Distended varicose veins.
-- Epistaxis.
+*   Peripheral edema
+*   Ascites
+*   Hepatic congestion and pain
+*   Distended varicose veins
+*   Epistaxis
 
-### 4 What are the signs of heart failure?
+#### Signs of Heart Failure
 
-- Peripheral cyanosis with cold peripheries.
-- Low pulse volume, resting tachycardia or pulsus alternans (in severe cases).
-- Hypotension with low pulse pressure.
-- Raised systemic venous pressure, resulting in a prominent jugular venous pulse, and prominent veins over the chest, abdomen and legs.
-- Displaced apex beat.
-- Right ventricular heave.
-- 3rd heart sound (gallop rhythm).
+*   Peripheral cyanosis with cold peripheries
+*   Low pulse volume, resting tachycardia, or **pulsus alternans** (in severe cases)
+*   Hypotension with low pulse pressure
+*   Raised systemic venous pressure → prominent jugular venous pulse and prominent veins over chest, abdomen, and legs
+*   Displaced apex beat
+*   Right ventricular heave
+*   **Third heart sound** (gallop rhythm)
+*   Pleural effusions
+*   Smooth hepatomegaly
+*   Ascites
+*   Peripheral edema
 
-- Pleural effusions.
-- Smooth hepatomegaly.
-- Ascites.
-- Peripheral oedema.
+</div></details>
 
-## 5 What is the New York Heart Association (NYHA) classification?
+---
 
-- It is a functional classification that relates the patient's symptoms (dyspnoea or fatigue) and the ability to perform activities:
-  - a) I: no limitations of physical activity and no symptoms with ordinary activity;
-  - b) II: slight limitation of physical activity but comfortable at rest or mild exertion;
-  - III: marked limitation of physical activity and comfortable only at rest;
-  - d) IV: symptoms of heart failure at rest.
+<details class="med-details"><summary>
 
-#### 6 How is heart failure classified?
+## 2. Classification of Heart Failure</summary><div class="details-content">
 
-- According to the American Heart Association (AHA) classification of heart failure:
-  - a) stage A: asymptomatic patient at risk of developing heart failure (e.g. hypertension or coronary artery disease);
-  - stage B: asymptomatic patient with ventricular changes of heart failure (e.g. left ventricular hypertrophy or systolic dysfunction);
-  - c) stage C: patients with a current or past history of symptomatic heart failure associated with structural changes;
-  - d) stage D: patients with refractory heart failure.
+#### New York Heart Association (NYHA) Functional Classification
 
-### 7 What is the pathophysiology of chronic heart failure?
+A functional classification relating the patient's symptoms (dyspnea or fatigue) and ability to perform activities:
 
-- The inadequate cardiac output associated with heart failure triggers neuro-endocrine activation, including:
-  - a) activation of the sympathetic nervous system;
-  - b) activation of the renin-angiotensin system;
-  - c) the release of endogenous noradrenaline, antidiuretic hormone (vasopressin) and endothelin.
+*   **Class I:** No limitations of physical activity; no symptoms with ordinary activity
+*   **Class II:** Slight limitation of physical activity; comfortable at rest or with mild exertion
+*   **Class III:** Marked limitation of physical activity; comfortable only at rest
+*   **Class IV:** Symptoms of heart failure at rest
 
-This results in fluid retention and an inappropriately high afterload.
+#### American Heart Association (AHA) Staging Classification
 
-- In response to fluid overload associated with heart failure, atrial and brain natriuretic peptides (ANP and BNP) are released. Their actions include:
-  - a) natriuresis and diuresis;
-  - b) arterial and venous dilation;
-  - c) inhibition of ADH and aldosterone release.
+*   **Stage A:** Asymptomatic patient at risk of developing heart failure (e.g., hypertension or coronary artery disease)
+*   **Stage B:** Asymptomatic patient with ventricular changes of heart failure (e.g., left ventricular hypertrophy or systolic dysfunction)
+*   **Stage C:** Patients with current or past history of symptomatic heart failure associated with structural changes
+*   **Stage D:** Patients with refractory heart failure
 
-Their effects, however, are overwhelmed by the neuro-endocrine activation.
+</div></details>
 
-### 8 **What are the main causes of heart failure?**
+---
 
-- Increased pre-load (volume overload), secondary to mitral or aortic regurgitation, atrial or ventricular septal defects.
-- Reduced contractility, secondary to coronary artery disease, dilated cardiomyopathy, restrictive cardiomyopathy or myocarditis.
-- Increased afterload (pressure overload), secondary to aortic stenosis, hypertension or aortic coarctation.
-- Impaired cardiac rhythm, secondary to atrial or ventricular tachyarrhythmias.
-- Impaired ventricular filling, secondary to pericardial tamponade, constrictive pericarditis or mitral stenosis.
-- High-output heart failure, secondary to anaemia, sepsis, arteriovenous fistula, hyperthyroidism or pregnancy.
+<details class="med-details"><summary>
 
-### 9 **What are the principles of treatment in heart failure and the studies that investigated their therapeutic efficacy?**
+## 3. Pathophysiology of Chronic Heart Failure</summary><div class="details-content">
 
-- Treat the underlying cause:
-  - a) coronary artery bypass grafting (CASS);
-  - b) mitral valve surgery;
-  - c) aortic valve replacement.
-- Reduce pre-load:
-  - a) diuretics;
-  - b) aldosterone antagonism (RALES).
-- Left ventricular volume reduction (SAVER, RESTORE and STICH).
-- Improve contractility mechanical or biological:
-  - a) cardiac resynchronization therapy (MUSTIC);
-  - b) implantable cardioverter defibrillator (MADIT);
+#### Neuroendocrine Activation
 
-- c) ventricular assist devices (REMATCH);
-- d) dynamic cardiomyoplasty (C-SMART);
-- e) cardiac transplantation (COCPIT);
-- f) cellular cardiomyoplasty (MAGIC).
+Inadequate cardiac output triggers:
 
-### • Reduce afterload:
+*   Activation of the sympathetic nervous system
+*   Activation of the renin-angiotensin system
+*   Release of endogenous noradrenaline, antidiuretic hormone (vasopressin), and endothelin
 
-- a) angiotensin-converting enzyme inhibitors (SOLVD, CONSENSUS);
-- b) angiotensin receptor blockers (CHARM, Val-HeFT);
-- c) b-blockers (COPERNICUS);
-- d) intra-aortic balloon pump;
-- e) ventricular septal myectomy (Morrow operation) for hypertrophic cardiomyopathy.
+**Result:** Fluid retention and inappropriately high afterload
 
-(Please refer to the abbreviation list on pages x-xvi for the full trial names.)
+#### Natriuretic Peptides
 
-## 10 **What is viable myocardium?**
+In response to fluid overload, atrial and brain natriuretic peptides (ANP and BNP) are released. Their actions include:
 
-- Viable myocardium is defined as cardiac muscle amenable to revascularisation. This includes:
-  - a) hibernating myocardium;
-  - b) stunned myocardium;
-  - c) ischaemic myocardium.
+*   Natriuresis and diuresis
+*   Arterial and venous dilation
+*   Inhibition of ADH and aldosterone release
 
-### 11 **What is hibernating myocardium?**
+**Clinical note:** Their effects are overwhelmed by neuroendocrine activation.
 
-• Hibernating myocardium is defined as the state of myocardial hypocontractility during chronic hypoperfusion, which recovers functionally upon revascularisation.
+</div></details>
 
-### 12 **What is myocardial stunning?**
+---
 
-• Myocardial stunning is defined as cardiac dysfunction following a period of ischaemia-reperfusion. It may last up to 2 weeks.
+<details class="med-details"><summary>
 
-### 13 **How is hibernating myocardium identified?**
+## 4. Main Causes of Heart Failure</summary><div class="details-content">
 
-• Dobutamine stress echocardiography - a biphasic response (demonstrating increased contractility with low-dose dobutamine but not with high-dose dobutamine) is indicative of hibernating myocardium.
+| Mechanism | Underlying Conditions |
+|-----------|----------------------|
+| **Increased preload (volume overload)** | Mitral regurgitation, aortic regurgitation, atrial septal defect, ventricular septal defect |
+| **Reduced contractility** | Coronary artery disease, dilated cardiomyopathy, restrictive cardiomyopathy, myocarditis |
+| **Increased afterload (pressure overload)** | Aortic stenosis, hypertension, aortic coarctation |
+| **Impaired cardiac rhythm** | Atrial tachyarrhythmias, ventricular tachyarrhythmias |
+| **Impaired ventricular filling** | Pericardial tamponade, constrictive pericarditis, mitral stenosis |
+| **High-output heart failure** | Anemia, sepsis, arteriovenous fistula, hyperthyroidism, pregnancy |
 
-- Magnetic resonance imaging (MRI) signs indicative of hibernating myocardium include:
-  - a) absence of myocardial thinning (<6mm) on perfusion MRI;
-  - b) delayed hyperenhancement on gadolinium-enhanced MRI;
-  - c) a biphasic response on dobutamine stress MRI.
-- Positron emission tomography (PET) scanning normal uptake with 18FDG (marker of metabolism) but decreased uptake of 13N ammonia or 15O water (markers of perfusion).
-- 201Thallium nuclear medicine scan increased uptake on late redistribution.
+</div></details>
 
-### 14 **What are the indications for coronary artery bypass grafting in patients with heart failure?**
+---
 
-- Indications include:
-  - a) coronary artery disease with reasonable target vessels to graft;
-  - b) myocardial ischaemia (evidenced by chest pain);
-  - c) myocardial viability (evidenced by hibernating myocardium see above); >20% of left ventricle demonstrating viability.
-- The evidence for treating these patients was provided by the CASS Registry, with the 5-year survival for patients with ischaemic cardiomyopathy (coronary artery disease and ejection fraction <25%) being 41% for patients treated medically and 62% for those undergoing surgery.
-- Further evidence may be provided by the STICH trial hypothesis I.
-- The survival advantage from coronary artery bypass surgery in these patients increases as the ejection fraction decreases.
-- The relative contra-indications to coronary artery bypass surgery in these patients include:
-  - a) poor target vessels;
-  - b) pulmonary hypertension (>60mm Hg);
-  - c) significantly impaired right ventricular function.
+<details class="med-details"><summary>
 
-### 15 **What are the main principles of biventricular pacing (cardiac resynchronization therapy, Figure 1)?**
+## 5. Principles of Treatment in Heart Failure</summary><div class="details-content">
 
-• Ventricular dyssynchrony often results from left bundle branch block (LBBB) as earlier contraction of the right ventricle and paradoxical
+#### Treat the Underlying Cause
+
+*   Coronary artery bypass grafting (CASS)
+*   Mitral valve surgery
+*   Aortic valve replacement
+
+#### Reduce Preload
+
+*   Diuretics
+*   Aldosterone antagonism (RALES)
+*   Left ventricular volume reduction (SAVER, RESTORE, STICH)
+
+#### Improve Contractility — Mechanical or Biological
+
+*   Cardiac resynchronization therapy (MUSTIC)
+*   Implantable cardioverter defibrillator (MADIT)
+*   Ventricular assist devices (REMATCH)
+*   Dynamic cardiomyoplasty (C‑SMART)
+*   Cardiac transplantation (COCPIT)
+*   Cellular cardiomyoplasty (MAGIC)
+
+#### Reduce Afterload
+
+*   Angiotensin-converting enzyme inhibitors (SOLVD, CONSENSUS)
+*   Angiotensin receptor blockers (CHARM, Val‑HeFT)
+*   β‑blockers (COPERNICUS)
+*   Intra-aortic balloon pump
+*   Ventricular septal myectomy (Morrow operation) for hypertrophic cardiomyopathy
+
+*(Please refer to the abbreviation list on pages x‑xvi for full trial names.)*
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 6. Myocardial Viability</summary><div class="details-content">
+
+#### What is Viable Myocardium?
+
+Viable myocardium is defined as cardiac muscle amenable to revascularization. This includes:
+
+*   Hibernating myocardium
+*   Stunned myocardium
+*   Ischemic myocardium
+
+#### What is Hibernating Myocardium?
+
+Hibernating myocardium is defined as the state of myocardial hypocontractility during chronic hypoperfusion that recovers functionally upon revascularization.
+
+#### What is Myocardial Stunning?
+
+Myocardial stunning is defined as cardiac dysfunction following a period of ischemia-reperfusion. It may last up to 2 weeks.
+
+#### How is Hibernating Myocardium Identified?
+
+**Dobutamine stress echocardiography:**
+A biphasic response (increased contractility with low-dose dobutamine but not with high-dose dobutamine) is indicative of hibernating myocardium.
+
+**Magnetic resonance imaging (MRI):**
+Signs indicative of hibernating myocardium include:
+*   Absence of myocardial thinning (<6 mm) on perfusion MRI
+*   Delayed hyperenhancement on gadolinium-enhanced MRI
+*   Biphasic response on dobutamine stress MRI
+
+**Positron emission tomography (PET) scanning:**
+Normal uptake with <sup>18</sup>FDG (marker of metabolism) but decreased uptake of <sup>13</sup>N‑ammonia or <sup>15</sup>O‑water (markers of perfusion)
+
+**<sup>201</sup>Thallium nuclear medicine scan:**
+Increased uptake on late redistribution
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 7. Coronary Artery Bypass Grafting in Heart Failure</summary><div class="details-content">
+
+#### Indications for CABG in Patients with Heart Failure
+
+*   Coronary artery disease with reasonable target vessels to graft
+*   Myocardial ischemia (evidenced by chest pain)
+*   Myocardial viability evidenced by hibernating myocardium — **>20% of left ventricle demonstrating viability**
+
+#### Evidence
+
+The CASS Registry demonstrated 5-year survival for patients with ischemic cardiomyopathy (CAD and ejection fraction <25%):
+*   Medical treatment: 41%
+*   Surgical treatment: 62%
+
+Further evidence may be provided by the STICH trial hypothesis I.
+
+**Key principle:** The survival advantage from CABG in these patients increases as the ejection fraction decreases.
+
+#### Relative Contraindications to CABG in These Patients
+
+*   Poor target vessels
+*   Pulmonary hypertension (>60 mm Hg)
+*   Significantly impaired right ventricular function
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 8. Biventricular Pacing (Cardiac Resynchronization Therapy)</summary><div class="details-content">
+
+#### Mechanism
+
+Ventricular dyssynchrony often results from left bundle branch block (LBBB), as earlier contraction of the right ventricle and paradoxical ventricular septal motion lead to impaired left ventricular filling and systolic function.
+
+Biventricular pacing induces simultaneous left and right ventricular contraction, thereby increasing the efficacy of ventricular contractility without increasing myocardial oxygen consumption.
 
 ![](_page_5_Figure_2.jpeg)
 
-**Figure 1. Biventricular pacing. A) Left bundle branch block (LBBB) causes delayed left ventricular contraction with paradoxical septal motion in systole. B) Biventricular pacing induces synchronous contraction of the left and right ventricles and improved contribution of the septum to left ventricular contraction.**
+**Figure 1. Biventricular pacing.** A) Left bundle branch block (LBBB) causes delayed left ventricular contraction with paradoxical septal motion in systole. B) Biventricular pacing induces synchronous contraction of the left and right ventricles and improved contribution of the septum to left ventricular contraction.
 
-- ventricular septal motion leads to impaired left ventricular filling and impaired left ventricular systolic function.
-- Biventricular pacing induces simultaneous left and right ventricular contraction, thereby increasing the efficacy of ventricular contractility without increasing myocardial oxygen consumption.
-- Biventricular pacing is indicated in patients with:
-  - a) heart failure for at least 6 weeks on maximal medical therapy;
-  - b) NYHA functional status III or IV;
-  - c) left ventricular ejection fraction <35%;
-  - d) QRS interval >150ms.
+#### Indications for Biventricular Pacing
 
-### 16 **What are the indications for an implantable cardiodefibrillator in heart failure?**
+*   Heart failure for at least 6 weeks on maximal medical therapy
+*   NYHA functional status III or IV
+*   Left ventricular ejection fraction <35%
+*   QRS interval >150 ms
 
-- Primary prevention, in patients who have sustained a previous myocardial infarction with an ejection fraction of <35%, with:
-  - a) non-sustained ventricular tachycardia; or
-  - b) inducible ventricular tachycardia on electro-physiological studies.
-- Secondary prevention, in patients with haemodynamically significant ventricular tachyarrhythmias and an ejection fraction of <35%.
-- It is important to treat any underlying causes including drug toxicity, electrolyte disturbance, and reversible ischaemia, before implanting a cardio-defibrillator device.
+</div></details>
 
-### 17 **What is partial left ventriculectomy (Batista procedure, Figure 2)?**
+---
 
-- The Batista procedure involves resection of the posterolateral left ventricular wall between the anterior and posterior papillary muscles from the apex to the mitral valve annulus. The papillary muscles may also be resected or re-implanted to ensure an adequate portion of the left ventricle is removed. Subsequent mitral valve annuloplasty or replacement may be required to ensure competency of the valve.
-- The principal aim of the procedure is to reduce left ventricular volume and wall stress (Laplace's law), thereby improving overall ventricular contractility.
-- Although initial results from Batista suggested improved survival and symptoms, subsequent studies in ischaemic cardiomyopathic patients failed to show a sustained benefit of this procedure. This may have been caused by resection of viable sections of the lateral left ventricular wall.
+<details class="med-details"><summary>
+
+## 9. Implantable Cardioverter Defibrillator in Heart Failure</summary><div class="details-content">
+
+#### Indications for ICD
+
+**Primary prevention** in patients who have sustained a previous myocardial infarction with ejection fraction <35%, with:
+*   Non-sustained ventricular tachycardia, **or**
+*   Inducible ventricular tachycardia on electrophysiological studies
+
+**Secondary prevention** in patients with hemodynamically significant ventricular tachyarrhythmias and ejection fraction <35%
+
+#### Important Note
+
+Treat underlying causes including drug toxicity, electrolyte disturbance, and reversible ischemia before implanting an ICD device.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 10. Partial Left Ventriculectomy (Batista Procedure)</summary><div class="details-content">
+
+#### Surgical Technique
+
+The Batista procedure involves resection of the posterolateral left ventricular wall between the anterior and posterior papillary muscles from the apex to the mitral valve annulus. The papillary muscles may also be resected or re‑implanted to ensure adequate portion of the left ventricle is removed. Subsequent mitral valve annuloplasty or replacement may be required to ensure competency of the valve.
 
 ![](_page_7_Picture_2.jpeg)
 
@@ -183,349 +360,484 @@ Their effects, however, are overwhelmed by the neuro-endocrine activation.
 
 ![](_page_7_Picture_4.jpeg)
 
-**Figure 2. Batista procedure. A) Lateral view of the left ventricle. B) Resection of the lateral left ventricular wall between the LAD and OM1, whilst preserving the papillary muscles of the mitral valve. C) Remodelled left ventricle with a two-layered ventriculotomy closure. OM1 = 1st obtuse marginal artery; LAD = left anterior descending artery; Ao = aorta; PA = pulmonary artery; LA = left atrium; LV= left ventricle.**
+**Figure 2. Batista procedure.** A) Lateral view of the left ventricle. B) Resection of the lateral left ventricular wall between the LAD and OM1, whilst preserving the papillary muscles of the mitral valve. C) Remodeled left ventricle with a two-layered ventriculotomy closure. OM1 = 1st obtuse marginal artery; LAD = left anterior descending artery; Ao = aorta; PA = pulmonary artery; LA = left atrium; LV = left ventricle.
 
-### 18 **What is dynamic cardiomyoplasty (Figure 3)?**
+#### Principle
 
-- Dynamic cardiomyoplasty involves mobilisation of the latissimus dorsi muscle on its neurovascular pedicle. Following transposition into the chest through a small left thoracotomy, the muscle is wrapped around the left and right ventricles.
-- Concomitant implantation of a pacemaker coupled to a neurotransmitter electrically stimulates the muscle to contract in synchrony with ventricular systole.
-- Over time, pacing of the skeletal muscle induces transformation from fast twitch to slow twitch muscle, which is less fatigable.
-- The mechanisms of action of dynamic cardiomyoplasty include:
-  - a) augmenting muscular pump function resulting in increased stroke volume;
-  - b) girdling of the ventricles as an external constraint device, resulting in reduced ventricular dilation and wall stress (Laplace's law);
+Reduce left ventricular volume and wall stress (Laplace's law: $T = P \times r$), thereby improving overall ventricular contractility.
+
+#### Outcomes
+
+Although initial results from Batista suggested improved survival and symptoms, subsequent studies in ischemic cardiomyopathy patients failed to show a sustained benefit. This may be caused by resection of viable sections of the lateral left ventricular wall.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 11. Dynamic Cardiomyoplasty</summary><div class="details-content">
+
+#### Surgical Technique
+
+Dynamic cardiomyoplasty involves mobilization of the latissimus dorsi muscle on its neurovascular pedicle. Following transposition into the chest through a small left thoracotomy, the muscle is wrapped around the left and right ventricles.
+
+Concomitant implantation of a pacemaker coupled to a neurotransmitter electrically stimulates the muscle to contract in synchrony with ventricular systole.
+
+Over time, pacing of the skeletal muscle induces transformation from fast‑twitch to slow‑twitch muscle, which is less fatigable.
 
 ![](_page_8_Picture_9.jpeg)
 
-**Figure 3. Dynamic cardiomyoplasty. The left latissimus dorsi muscle is transposed into the left hemi-thorax and wrapped around the left and right ventricles.**
+**Figure 3. Dynamic cardiomyoplasty.** The left latissimus dorsi muscle is transposed into the left hemi-thorax and wrapped around the left and right ventricles.
 
-- c) arresting the remodelling process of heart failure, resulting in reduced deterioration in ventricular systolic and diastolic function.
-- The Cardiomyoplasty-Skeletal Muscle Assist Randomised Trial (C-SMART) was a prospective, randomised controlled trial that compared dynamic cardiomyoplasty with medical therapy alone. It was, however, terminated due to poor recruitment of approximately 100 patients and showed no survival benefit after 12 months with dynamic cardiomyoplasty.
+#### Mechanisms of Action
 
-### 19 **What are the principles of the surgical ventricular restoration procedure (Figures 4 and 5)?**
+*   Augmenting muscular pump function → increased stroke volume
+*   Girdling of the ventricles as an external constraint device → reduced ventricular dilation and wall stress (Laplace's law: $T = P \times r$)
+*   Arresting the remodeling process of heart failure → reduced deterioration in ventricular systolic and diastolic function
 
-- The surgical ventricular restoration procedure excludes areas of nonfunctioning left ventricle, resulting in reduced left ventricular volume and wall stress (Laplace's law), and return of an elliptical shape to the left ventricle.
-- During the procedure, coronary artery disease and mitral valve disease are also addressed.
-- The operative procedure is usually performed for akinesia or dyskinesia of the anterior left ventricular wall and involves:
-  - a) a left ventriculotomy through scar tissue, 2cm lateral to the left anterior descending artery;
-  - b) subtotal endocardial resection over the septum and posterior wall, and cryotherapy at the limits of the resection for patients with recurrent ventricular arrhythmias;
-  - c) a circumferential endoventricular (Fontan) circular suture is passed 1-2cm outside the limit of healthy muscle and then tied around a balloon mannequin to reduce the size of the left ventricle to a diastolic volume of 50-60mL/m2;
-  - d) the residual apical defect is closed with a Dacron® patch to produce an elliptical-shaped left ventricle;
-  - e) the ventriculotomy is then closed with two-layered 2/0 Prolene® buttressed by Teflon® strips.
+#### Clinical Evidence
+
+The Cardiomyoplasty‑Skeletal Muscle Assist Randomised Trial (C‑SMART) was a prospective, randomized controlled trial comparing dynamic cardiomyoplasty with medical therapy alone. It was terminated due to poor recruitment (approximately 100 patients) and showed **no survival benefit after 12 months**.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 12. Surgical Ventricular Restoration Procedure</summary><div class="details-content">
+
+#### Principles
+
+The surgical ventricular restoration (SVR) procedure excludes areas of non‑functioning left ventricle, resulting in:
+*   Reduced left ventricular volume and wall stress (Laplace's law: $T = P \times r$)
+*   Return of an elliptical shape to the left ventricle
+
+During the procedure, coronary artery disease and mitral valve disease are also addressed.
+
+#### Operative Technique (for akinesia or dyskinesia of the anterior left ventricular wall)
+
+1.  Left ventriculotomy through scar tissue, 2 cm lateral to the left anterior descending artery
+2.  Subtotal endocardial resection over the septum and posterior wall, and cryotherapy at the limits of resection for patients with recurrent ventricular arrhythmias
+3.  Circumferential endoventricular (Fontan) circular suture passed 1‑2 cm outside the limit of healthy muscle, tied around a balloon mannequin to reduce LV size to a diastolic volume of **50‑60 mL/m²**
+4.  Residual apical defect closed with a Dacron® patch to produce an elliptical‑shaped left ventricle
+5.  Ventriculotomy closed with two‑layered 2/0 Prolene® buttressed by Teflon® strips
 
 ![](_page_10_Picture_2.jpeg)
 
-**Figure 4. Surgical ventricular restoration. A) Aneurysmal dilation of the antero-apical left ventricular wall with a line of demarcation between viable muscle and scar tissue. B) Following ventriculotomy, a balloon mannequin is placed and inflated within the left ventricle. The left ventricular apex is then repositioned using a Fontan stitch and plication of the scar tissue. C) An elliptical shape of the left ventricle is produced by using a Dacron® patch attached from the ventricular septum to the ventriculotomy.**
+**Figure 4. Surgical ventricular restoration.** A) Aneurysmal dilation of the antero-apical left ventricular wall with a line of demarcation between viable muscle and scar tissue. B) Following ventriculotomy, a balloon mannequin is placed and inflated within the left ventricle. The left ventricular apex is then repositioned using a Fontan stitch and plication of the scar tissue. C) An elliptical shape of the left ventricle is produced by using a Dacron® patch attached from the ventricular septum to the ventriculotomy.
 
 ![](_page_11_Picture_2.jpeg)
 
-**Figure 5. Operative images of the surgical ventricular restoration procedure. A) A linear incision is made 2cm lateral to the left anterior descending artery. B) Following remodelling of the left ventricle, a Dacron® patch is placed from the ventricular septum to the ventriculotomy. C) Twolayered ventriculotomy closure.**
+**Figure 5. Operative images of the surgical ventricular restoration procedure.** A) A linear incision is made 2 cm lateral to the left anterior descending artery. B) Following remodeling of the left ventricle, a Dacron® patch is placed from the ventricular septum to the ventriculotomy. C) Two-layered ventriculotomy closure.
 
-### 20 **Describe the mechanisms of action of passive ventricular constraint devices (Figure 6)**
+</div></details>
 
-- Passive constraint devices (such as CorCap®) are designed to promote reverse ventricular remodelling by reducing further ventricular dilation and hence ventricular wall stress (Laplace's law).
-- The Acorn Clinical Trial was a multi-centre, prospective, randomised trial with 300 patients using a passive ventricular constraint device, which showed improvement in quality of life, composite endpoint (death, progression of heart failure), left ventricular dilation, left ventricular end-systolic volume and left ventricular sphericity index.
+---
+
+<details class="med-details"><summary>
+
+## 13. Passive Ventricular Constraint Devices</summary><div class="details-content">
+
+#### Mechanisms of Action
+
+Passive constraint devices (such as CorCap®) are designed to promote reverse ventricular remodeling by reducing further ventricular dilation and hence ventricular wall stress (Laplace's law: $T = P \times r$).
 
 ![](_page_12_Picture_5.jpeg)
 
 **Figure 6. Passive ventricular constraint device.**
 
-## 21 What is the long-term survival of patients following cardiac transplantation?
+#### Clinical Evidence
 
-- 1 month 93%.
-- 1 year 85%.
-- 3 year 78%.
-- 5 year 72%.
-- 7 year 66%.
-- 10 year 55%.
-- Whilst on a waiting list, patients have a 25% mortality but 50-60% of patients receive a heart within 2 years.
+The **Acorn Clinical Trial** was a multi‑center, prospective, randomized trial with 300 patients using a passive ventricular constraint device, which showed improvement in:
+*   Quality of life
+*   Composite endpoint (death, progression of heart failure)
+*   Left ventricular dilation
+*   Left ventricular end‑systolic volume
+*   Left ventricular sphericity index
 
-## 22 What are the components of the heart failure survival score (HFSS)?
+</div></details>
 
-- Ischaemic cardiomyopathy.
-- Heart rate.
-- Left ventricular ejection fraction.
-- Mean arterial blood pressure.
-- Interventricular conduction delay.
-- Peak myocardial oxygen consumption (VO<sub>2</sub> max).
-- Serum sodium.
-- Using a complex algorithm, the heart failure survival score is calculated and patients are categorized according to risk (Table 1).
-- Patients with a medium or high-risk HFSS would benefit from transplantation as the 1-year survival for transplantation is approximately 85%.
+---
 
-| Table 1. One-year survival according to the heart failure survival score. |                 |                 |
-|---------------------------------------------------------------------------|-----------------|-----------------|
-| Risk                                                                      | HFSS            | 1-year survival |
-| Low risk<br>Medium risk                                                   | >8.1<br>7.2-8.1 | 93%<br>73%      |
-| High risk                                                                 | <7.2            | 43%             |
+<details class="med-details"><summary>
 
-### 23 What are the indications for cardiac transplantation?
+## 14. Cardiac Transplantation: Survival and Risk Stratification</summary><div class="details-content">
 
-- According to the International Society for Heart and Lung Transplantation (ISHLT):
-  - a) definite indications:
-    - i) high-risk heart failure survival score;
+#### Long‑Term Survival Following Cardiac Transplantation
 
-- ii) peak myocardial oxygen consumption <10mL/kg/min after reaching the anaerobic threshold;
-- iii) NYHA class IV heart failure, refractory to maximal medical treatment:
-- iv) recurrent hospitalisation for heart failure;
-- refractory ischaemia, a left ventricular ejection fraction of <20% and coronary artery disease not amenable to revascularisation;
-- vi) recurrent symptomatic ventricular arrhythmias refractory to medical treatment, implantable cardio-defibrillator or surgery;
-- b) probable indications:
-  - medium-risk heart failure survival score;
-  - ii) NYHA class III heart failure, refractory to medical treatment:
-  - iii) recent hospitalisations for heart failure;
-  - iv) peak myocardial oxygen consumption <14mL/kg/min and severe functional limitations:
-  - recurrent unstable ischaemia, a left ventricular ejection fraction of <25% and coronary artery disease not amenable to revascularisation;
-- c) inadequate indications:
-  - i) low-risk heart failure survival score;
-  - ii) peak myocardial oxygen consumption >15mL/kg/min without other indications;
-  - iii) a left ventricular ejection fraction of <20% alone;
-  - iv) history of NYHA class III/IV symptoms alone;
-  - v) history of ventricular arrhythmias alone.
+| Time Point | Survival |
+|------------|----------|
+| 1 month | 93% |
+| 1 year | 85% |
+| 3 years | 78% |
+| 5 years | 72% |
+| 7 years | 66% |
+| 10 years | 55% |
 
-## 24 What are the contra-indications for cardiac transplantation?
+**Waiting list mortality:** 25% while on waiting list; 50‑60% of patients receive a heart within 2 years.
 
-- Age >65 years.
-- Active infection.
-- Diabetes with end-organ damage or brittle diabetes.
-- Significant symptomatic carotid or peripheral vascular disease.
-- Active or recent malignancy. Ideally the patient should have a 5-year disease-free interval.
-- Excessive obesity.
-- Chronic renal failure with a creatinine level of >250mmol/L or creatinine clearance of <50mL/min.</li>
-- Hepatic impairment, with a bilirubin level of >25mmol/L or an ALT/AST ratio >2, not due to congestion.
-- Significant chronic lung disease.
+#### Components of the Heart Failure Survival Score (HFSS)
 
-- a) systolic pulmonary artery pressure >60mmHq;
-- b) pulmonary vascular resistance >5 woods units;
-- c) transpulmonary gradient <18mmHg.
-- Evidence of drug abuse within 6 months.
-- High risk of non-compliance or lack of family and social support.
-- Active psychiatric illness.
-- Recent peptic ulcer disease.
-- Significant coagulopathy.
+*   Ischemic cardiomyopathy
+*   Heart rate
+*   Left ventricular ejection fraction
+*   Mean arterial blood pressure
+*   Interventricular conduction delay
+*   Peak myocardial oxygen consumption (VO₂ max)
+*   Serum sodium
 
-## 25 Describe the donor criteria for cardiac transplantation (Figure 7)
+Using a complex algorithm, the HFSS is calculated and patients are categorized according to risk. Patients with medium or high‑risk HFSS benefit from transplantation (1‑year survival post‑transplant ~85%).
 
-- Brain stem death.
-- Consent (donor card or family approval).
+<details class="med-details"><summary>
+
+#### TABLE 1: One-Year Survival According to the Heart Failure Survival Score</summary><div class="details-content">
+
+| Risk | HFSS | 1‑Year Survival |
+|------|------|-----------------|
+| Low risk | >8.1 | 93% |
+| Medium risk | 7.2–8.1 | 73% |
+| High risk | <7.2 | 43% |
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 15. Indications for Cardiac Transplantation (ISHLT)</summary><div class="details-content">
+
+#### Definite Indications
+
+*   High‑risk heart failure survival score
+*   Peak myocardial oxygen consumption <10 mL/kg/min after reaching the anaerobic threshold
+*   NYHA class IV heart failure, refractory to maximal medical treatment
+*   Recurrent hospitalization for heart failure
+*   Refractory ischemia, LVEF <20%, and CAD not amenable to revascularization
+*   Recurrent symptomatic ventricular arrhythmias refractory to medical treatment, ICD, or surgery
+
+#### Probable Indications
+
+*   Medium‑risk heart failure survival score
+*   NYHA class III heart failure, refractory to medical treatment
+*   Recent hospitalizations for heart failure
+*   Peak myocardial oxygen consumption <14 mL/kg/min and severe functional limitations
+*   Recurrent unstable ischemia, LVEF <25%, and CAD not amenable to revascularization
+
+#### Inadequate Indications
+
+*   Low‑risk heart failure survival score
+*   Peak myocardial oxygen consumption >15 mL/kg/min without other indications
+*   LVEF <20% alone
+*   History of NYHA class III/IV symptoms alone
+*   History of ventricular arrhythmias alone
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 16. Contraindications for Cardiac Transplantation</summary><div class="details-content">
+
+#### Absolute/Relative Contraindications
+
+*   Age >65 years
+*   Active infection
+*   Diabetes with end‑organ damage or brittle diabetes
+*   Significant symptomatic carotid or peripheral vascular disease
+*   Active or recent malignancy (ideally 5‑year disease‑free interval)
+*   Excessive obesity
+*   Chronic renal failure: creatinine >250 mmol/L or CrCl <50 mL/min
+*   Hepatic impairment: bilirubin >25 mmol/L or ALT/AST ratio >2 (not due to congestion)
+*   Significant chronic lung disease
+*   **Irreversible pulmonary hypertension** with:
+    *   Systolic pulmonary artery pressure >60 mm Hg, or
+    *   Pulmonary vascular resistance >5 Wood units, or
+    *   Transpulmonary gradient <18 mm Hg
+*   Evidence of drug abuse within 6 months
+*   High risk of non‑compliance or lack of family/social support
+*   Active psychiatric illness
+*   Recent peptic ulcer disease
+*   Significant coagulopathy
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 17. Donor Criteria and Matching for Cardiac Transplantation</summary><div class="details-content">
+
+#### Donor Criteria
+
+**Required:**
+*   Brain stem death
+*   Consent (donor card or family approval)
+
+**Absence of:**
+*   Coronary artery disease or previous myocardial infarction
+*   Other cardiac disease including refractory ventricular arrhythmias
+*   Malignancies (except central nervous system tumors)
+*   Refractory infection
 
 ![](_page_15_Picture_13.jpeg)
 
-**Figure 7.** Explanted heart prior to cardiac transplantation. Ao = aorta; PA = pulmonary artery; LAA = left atrial appendage; LV = left ventricle; RV = right ventricle; LAD = left anterior descending artery;  $OM_{1/2} = 1st / 2nd$  obtuse marginal artery.
+**Figure 7. Explanted heart prior to cardiac transplantation.** Ao = aorta; PA = pulmonary artery; LAA = left atrial appendage; LV = left ventricle; RV = right ventricle; LAD = left anterior descending artery; OM<sub>1/2</sub> = 1st/2nd obtuse marginal artery.
 
-398
+#### Donor‑Recipient Matching Criteria
 
-#### Absence of:
+*   **Geographical location** — to limit organ ischemia time
+*   **Candidate status:**
+    *   **Ia:** Mechanical circulatory support for acute hemodynamic decompensation, mechanical ventilation, high‑dose IV inotropes, or significant device‑related complication
+    *   **Ib:** Ventricular assist device implanted or continuous IV inotropes
+    *   **II:** All other patients
+*   ABO blood group compatibility
+*   Human leukocyte antigen (HLA) compatibility
+*   Size matching (height and weight)
+*   Time on waiting list
+*   CMV positive donors → CMV positive recipients
+*   Organ matching usually arranged through central transplant coordination (e.g., UNOS)
 
-- a) coronary artery disease or previous myocardial infarction;
-- b) other cardiac disease including refractory ventricular arrhythmias;
-- c) malignancies (except central nervous system tumours);
-- d) refractory infection.
+</div></details>
 
-## 26 Describe the criteria used for matching donor to recipient in cardiac transplantation
+---
 
-- Geographical location, to limit the organ ischaemia time.
-- Candidate status:
-  - a) la: patients requiring mechanical circulatory support for acute haemodynamic decompensation, mechanical ventilation, highdose intravenous inotropes or with evidence of a significant device-related complication;
-  - b) Ib: patients with a ventricular-assist device implanted or on a continuous infusion of intravenous inotropes;
-  - c) II: all other patients.
-- ABO blood group compatibility.
-- Human leucocyte antigen (HLA) compatibility.
-- Matching patient's size (height and weight).
-- Time on waiting list.
-- Cytomegalovirus (CMV) positive donors given to CMV positive recipients.
-- Organ matching is usually arranged through a central transplant coordination list, such as the United Network for Organ Sharing (UNOS).
+<details class="med-details"><summary>
 
-## 27 Describe the operative sequence for cardiac transplantation (Figure 8)
+## 18. Operative Sequence for Cardiac Transplantation</summary><div class="details-content">
 
-- The recipient procedure begins about 90 minutes before the donor heart is due to arrive, to minimize the organ ischaemia time.
-- Following a median sternotomy, cardiopulmonary bypass is instituted via the ascending aorta and snared venous cannulae, which are positioned directly into both venae cavae.
-- The donor heart is inspected for a foramen ovale, palpable coronary artery disease or dilated cardiac chambers. If the donor heart is
+#### Timing
+
+The recipient procedure begins about **90 minutes** before the donor heart is due to arrive to minimize organ ischemia time.
+
+#### Cardiopulmonary Bypass
+
+Following median sternotomy, cardiopulmonary bypass is instituted via the ascending aorta and snared venous cannulae positioned directly into both venae cavae.
+
+#### Donor Heart Inspection
+
+The donor heart is inspected for patent foramen ovale, palpable CAD, or dilated cardiac chambers.
+
+#### Recipient Heart Explantation (if donor heart suitable)
+
+*   Right atrium excised at the junction with the inferior and superior venae cavae
+*   Aorta and pulmonary artery divided just above the sino‑tubular junction
+*   Left atrium excised to leave an island of pulmonary veins
 
 ![](_page_17_Picture_2.jpeg)
 
-**Figure 8. Cardiac transplantation. A) Dilated native heart excised with incisions (dotted lines) in the inferior vena cava, superior vena cava, aorta, pulmonary artery and left atrium (not seen). B) Pericardial cavity with native great vessels following explantation of the native heart. C) Implantation of donor heart with anastomosis of the left atrium (not seen), inferior vena cava, superior vena cava, pulmonary artery and aorta.**
+**Figure 8. Cardiac transplantation.** A) Dilated native heart excised with incisions (dotted lines) in the inferior vena cava, superior vena cava, aorta, pulmonary artery and left atrium (not seen). B) Pericardial cavity with native great vessels following explantation of the native heart. C) Implantation of donor heart with anastomosis of the left atrium (not seen), inferior vena cava, superior vena cava, pulmonary artery and aorta.
 
-suitable for transplantation, the recipient heart can then be explanted using the following steps:
+#### Donor Heart Implantation (Modified Bicaval Technique — order of anastomoses)
 
-- a) the right atrium is excised at the junction with the inferior and superior venae cavae;
-- b) the aorta and pulmonary artery are divided just above the sino-tubular junction;
-- c) the left atrium is excised to leave an island of pulmonary veins.
-- The donor heart is then implanted in the following order (modified bicaval technique):
-  - a) left atrium;
-  - b) inferior vena cava;
-  - c) superior vena cava;
-  - d) pulmonary artery;
-  - e) aorta.
+1.  Left atrium
+2.  Inferior vena cava
+3.  Superior vena cava
+4.  Pulmonary artery
+5.  Aorta
 
-## 28 What are the complications of cardiac transplantation and immunosuppression?
+</div></details>
 
-- Early graft failure.
-- Rejection (see below).
-- Infection.
-- Allograft vasculopathy 50% over 5 years.
-- Malignancy especially lymphomas and malignant tumours of the skin (e.g. Kaposi's sarcoma).
+---
 
-### 29 What is the classification of organ rejection?
+<details class="med-details"><summary>
 
-- Hyperacute rejection, which is a complement-mediated response by pre-existing antibodies that are circulating in the recipient. They bind to donor ABO blood group antigens.
-- Acute rejection, where the T-lymphocytes respond to differences between the human leucocyte antigens (HLA) of the donor and recipient.
-- Chronic rejection, which manifests itself as allograft vasculopathy with diffuse initmal hyperplasia in the coronary arteries of a transplanted heart.
+## 19. Complications of Cardiac Transplantation and Immunosuppression</summary><div class="details-content">
 
-### 30 **What are the agents used for immunosuppression following cardiac transplantation?**
+#### Complications
 
-- Short induction phase (first 3 days following transplantation):
-  - a) anti-thymocyte globulin (ATG);
-  - b) azathioprine;
-  - c) corticosteroids.
+*   Early graft failure
+*   Rejection (see classification below)
+*   Infection
+*   Allograft vasculopathy — **50% over 5 years**
+*   Malignancy — especially lymphomas and malignant skin tumors (e.g., Kaposi's sarcoma)
 
-### • Permanent maintenance phase:
+#### Classification of Organ Rejection
 
-- a) cyclosporine A or tacrolimus, which are calcineurin inhibitors that inhibit the transcription of interleukin-2 (IL-2) and Tlymphocyte signal transduction;
-- b) azathioprine or mycophenolate mofetil (MMF), which are purine synthesis inhibitors;
-- c) corticosteroids, which inhibit the production of cytokines (such as IL-1, TNF-a and interferons).
+| Type | Mechanism |
+|------|-----------|
+| **Hyperacute rejection** | Complement‑mediated response by pre‑existing antibodies circulating in the recipient; bind to donor ABO blood group antigens |
+| **Acute rejection** | T‑lymphocytes respond to differences between donor and recipient HLA |
+| **Chronic rejection** | Allograft vasculopathy with diffuse intimal hyperplasia in coronary arteries of transplanted heart |
 
-### • Newer agents include:
+</div></details>
 
-- a) OKT3, which is a monoclonal antibody that binds to the CD3 receptor on T-lymphocytes;
-- b) daclizumab and basiliximab, which are monoclonal antibodies that bind to the IL-2 receptors of T-lymphocytes;
-- c) sirolimus (rapamycin), which stops IL-2-induced activation of Tlymphocytes.
+---
 
-### 31 **How are left ventricular assist devices (LVAD) classified (Figure 9)?**
+<details class="med-details"><summary>
 
-- Mechanism of action:
-  - a) pulsatile electric or pneumatic, such as the Thoratec HeartMate I® or Novacor®;
-  - b) non-pulsatile (continuous flow) centrifugal or axial flow, such as the Thoratec Heart Mate II®, Jarvik 2000 or Micromed DeBakey VAD®.
+## 20. Immunosuppression Agents Following Cardiac Transplantation</summary><div class="details-content">
 
-### • Location:
+#### Short Induction Phase (First 3 Days)
 
-- a) totally implantable thoracic or abdominal;
-- b) paracorporeal;
-- c) percutaneous.
+*   Anti‑thymocyte globulin (ATG)
+*   Azathioprine
+*   Corticosteroids
+
+#### Permanent Maintenance Phase
+
+*   **Cyclosporine A or tacrolimus** — calcineurin inhibitors that inhibit transcription of IL‑2 and T‑lymphocyte signal transduction
+*   **Azathioprine or mycophenolate mofetil (MMF)** — purine synthesis inhibitors
+*   **Corticosteroids** — inhibit production of cytokines (IL‑1, TNF‑α, interferons)
+
+#### Newer Agents
+
+| Agent | Mechanism |
+|-------|-----------|
+| OKT3 | Monoclonal antibody binds to CD3 receptor on T‑lymphocytes |
+| Daclizumab, basiliximab | Monoclonal antibodies bind to IL‑2 receptors of T‑lymphocytes |
+| Sirolimus (rapamycin) | Stops IL‑2‑induced activation of T‑lymphocytes |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 21. Left Ventricular Assist Devices: Classification and Uses</summary><div class="details-content">
+
+#### Classification of LVADs
+
+**By mechanism of action:**
+*   **Pulsatile** — electric or pneumatic (e.g., Thoratec HeartMate I®, Novacor®)
+*   **Non‑pulsatile (continuous flow)** — centrifugal or axial flow (e.g., Thoratec HeartMate II®, Jarvik 2000, Micromed DeBakey VAD®)
+
+**By location:**
+*   Totally implantable (thoracic or abdominal)
+*   Paracorporeal
+*   Percutaneous
 
 ![](_page_20_Figure_2.jpeg)
 
-**Figure 9. Left ventricular assist devices. A) Pre-operative, B) intraoperative, and C) radiographical images of a pulsatile left ventricular assist device (Thoratec HeartMate I®). D) Pre-operative, E) intraoperative and F) radiographical images of an axial flow left ventricular assist device (Thoratec HeartMate II®).**
+**Figure 9. Left ventricular assist devices.** A) Pre‑operative, B) intra‑operative, and C) radiographical images of a pulsatile left ventricular assist device (Thoratec HeartMate I®). D) Pre‑operative, E) intra‑operative and F) radiographical images of an axial flow left ventricular assist device (Thoratec HeartMate II®).
 
-- Power source and driveline:
-  - a) transabdominal;
-  - b) transcranial:
-  - c) transcutaneous.
+#### Main Uses of LVAD
 
-## 32 What are the main uses of a left ventricular assist device?
+*   **Bridge to transplantation** — increases survival following cardiac transplantation
+*   **Bridge to recovery** — following acute myocardial injury, post‑cardiac surgery, or viral myocarditis
+*   **Destination therapy** — for patients with end‑stage heart failure ineligible for cardiac transplantation
 
-- Bridge to transplantation, which has been shown to increase the survival of patients following cardiac transplantation.
-- Bridge to recovery, following an acute myocardial injury, post-cardiac surgery or viral myocarditis.
-- Destination therapy, for patients with end-stage heart failure ineligible for cardiac transplantation.
+#### Complications of LVADs
 
-## 33 What are the complications of left ventricular assist devices?
+*   Mortality — 5‑10% at 30 days
+*   Bleeding
+*   Infection (driveline, pocket)
+*   Right ventricular failure
+*   Thromboembolic events
+*   Hemolysis
+*   Device malfunction (rare)
 
-- Mortality (5-10% at 30 days).
-- Bleeding.
-- Infection (driveline, pocket).
-- Right ventricular failure.
-- Thrombo-embolic events.
-- Haemolysis.
-- Device malfunction (rare).
+</div></details>
 
-#### 34 What did the REMATCH trial show?
+---
 
-- REMATCH = Randomised Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure.
-- The REMATCH trial was a prospective, randomised controlled study in 129 patients with:
-  - a) end-stage heart failure (NYHA class IV);
-  - b) a left ventricular ejection fraction <25%;
-  - c) VO<sub>2</sub> max <12mL/min/kg.
-- The patients were randomised to either:
-  - a) group I (n=68) left ventricular assist device (Thoratec HeartMate  $I^{\otimes}$ ); or
-  - b) group II (n=61) optimal medical therapy.
+<details class="med-details"><summary>
 
-- The study demonstrated a survival advantage for patients in the LVAD group:
-  - a) 1-year survival LVAD 52% vs. optimal medical treatment 25%;
-  - b) 2-year survival LVAD 23% vs. optimal medical treatment 8%.
-- There were, however, more adverse serious events in the LVAD group, such as infection, bleeding, haemolysis, thrombo-embolism, neurological dysfunction and device failure.
-- The study concluded that LVAD therapy is an acceptable alternative in selected patients who are not candidates for cardiac transplantation.
+## 22. Key Clinical Trials in Heart Failure</summary><div class="details-content">
 
-#### 35 What did the MADIT trial show?
+#### REMATCH Trial
 
-- MADIT = Multicenter Automatic Defibrillator Implantation Trial.
-- The MADIT trial was a prospective, randomised controlled study in 196 patients with:
-  - a) previous myocardial infarction;
-  - b) a left ventricular ejection fraction of <35%;
-  - c) a documented episode of asymptomatic unsustained ventricular tachycardia or an inducible, non-suppressible ventricular arrhythmia on electrophysiologic study.
-- The patients were randomised to either an implanted defibrillator (ICD, n=95) or conventional medical therapy with anti-arrhythmic drugs (n=101).
-- The study demonstrated an overall 27% reduction in mortality in patients in the ICD group (15 deaths) compared to standard medical therapy (39 deaths).
-- The study concluded that an ICD leads to improved survival in patients with a previous myocardial infarction, low ejection fraction and at high risk for ventricular tachyarrhythmia.
+**REMATCH** = Randomised Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure
 
-### 36 What did the MUSTIC trial show?
+**Population (n=129):** End‑stage HF (NYHA IV), LVEF <25%, VO₂ max <12 mL/kg/min
 
-- MUSTIC = Multisite Stimulation in Cardiomyopathies.
-- The MUSTIC trial was a prospective, randomised controlled study in 48 patients with:
-  - a) severe heart failure (NYHA III or IV);
-  - b) a left ventricular ejection fraction of <35%;
-  - c) normal sinus rhythm with a QRS interval >150msec.
+**Randomization:**
+*   Group I (n=68): LVAD (Thoratec HeartMate I®)
+*   Group II (n=61): Optimal medical therapy
 
-- Patients received transvenous atrio-biventricular pacemakers and the study compared the response to 3-month periods with or without pacing in the same patients.
-- The study concluded that biventricular pacing leads to an improved quality of life and exercise tolerance (improved by 23%), and reduced hospitalisations.
+**Results:**
+| Endpoint | LVAD | Medical |
+|----------|------|---------|
+| 1‑year survival | 52% | 25% |
+| 2‑year survival | 23% | 8% |
 
-### 37 What did the STICH trial (hypothesis 2) show?
+**Adverse events:** More in LVAD group (infection, bleeding, hemolysis, thromboembolism, neurological dysfunction, device failure)
 
-- STICH = Surgical Treatment for Ischaemic Heart Failure.
-- The STICH trial was a prospective, randomised study in 2800 patients with:
-  - a) coronary artery disease amenable to revascularisation;
-  - b) a left ventricular ejection fraction of <35%;
-  - c) dominant akinesia or dyskinesia of the anterior left ventricular wall amenable to surgical ventricular restoration.
-- Patients were sub-divided into different strata and then randomised to:
-  - a) medical therapy alone;
-  - b) coronary artery bypass grafting (CABG) and medical therapy;
-  - c) surgical ventricular restoration (SVR), coronary artery bypass grafting and medical therapy.
-- Hypothesis 1 CABG with intensive medical therapy improves longterm survival compared to survival with medical therapy alone.
-- Hypothesis 2 SVR when added to CABG decreases the rate of death or hospitalisation for a cardiac event as compared with CABG alone.
-- The results of the hypothesis 2 study at a median of 48-month followup showed no significant difference in:
-  - a) primary outcome (death from any cause or hospitalisation for cardiac causes);
-  - b) acute myocardial infarction;
-  - c) stroke;
-  - d) symptoms (angina class, NYHA dyspnoea class, 6-minute walk test).
+**Conclusion:** LVAD therapy is an acceptable alternative in selected patients who are not candidates for cardiac transplantation.
 
-### 38 What did the RESTORE group show?
+---
 
-• RESTORE = Reconstructive Endoventricular Surgery returning Torsion Original Radius Elliptical shape to the left ventricle.
+#### MADIT Trial
 
-- The RESTORE group assessed the effects of surgical ventricular restoration with a prospective registry study in 1198 patients with:
-  - a) previous anterior myocardial infarction;
-  - b) significant ventricular dilation (left ventricular end-systolic volume index >60mL/m2);
-  - c) a regional asynergic (non-contractile) LV circumference of >35%.
+**MADIT** = Multicenter Automatic Defibrillator Implantation Trial
 
-### • The study demonstrated:
+**Population (n=196):** Prior MI, LVEF <35%, documented asymptomatic non‑sustained VT or inducible non‑suppressible VT on electrophysiologic study
 
-- a) overall 30-day mortality was 5.3% (8.7% with mitral repair, 4.0% without repair);
-- b) overall 5-year survival was 69%;
-- c) 5-year freedom from hospital admissions for heart failure was 78%;
-- d) improvement in NYHA functional status with 85% of patients in class I-II postoperatively;
-- e) left ventricular ejection fraction improved from 29% to 39%;
-- f) left ventricular end-systolic volume index decreased from 80 to 57mL/m2.
-- The study concluded that surgical ventricular restoration improves ventricular function and symptom status in patients with ischaemic cardiomyopathy.
+**Randomization:** ICD (n=95) vs. conventional medical therapy with antiarrhythmics (n=101)
 
-### 39 **What did the Heartmate II® trial show?**
+**Result:** 27% reduction in mortality with ICD (15 deaths vs. 39 deaths)
 
-- The Heartmate II® trial was a prospective randomised study in 200 patients with advanced heart failure who were ineligible for transplantation.
-- The patients were randomised, in a 2:1 ratio, to:
-  - a) group I (n=134) implantation of a continuous flow left ventricular assist device (Thoratec Heartmate II®); or
-  - b) group II (n=66) implantation of a pulsatile flow left ventricular assist device (Thoratec Heartmate XVE®).
+**Conclusion:** ICD improves survival in patients with prior MI, low EF, and high risk for VT.
 
-### • The study demonstrated:
+---
 
-- a) survival advantage at 2 years for patients in the continuous flow LVAD (Heartmate II®) group (Heartmate II® 58% vs. Heartmate I ® 24%);
-- b) reduced adverse events for patients in the continuous flow LVAD (Heartmate II®) group.
+#### MUSTIC Trial
 
-• The study concluded that treatment with a continuous flow LVAD in patients with advanced heart failure significantly improved the probability of survival free from mortality, stroke and device failure as compared to a pulsatile flow device.
+**MUSTIC** = Multisite Stimulation in Cardiomyopathies
 
-#### **Recommended reading**
+**Population (n=48):** Severe HF (NYHA III/IV), LVEF <35%, normal sinus rhythm with QRS >150 ms
 
-- 1. Dor V, Sabatier M, Di Donato M, Montiglio F, Toso A, Maioli M. Efficacy of endoventricular patch plasty in large postinfarction akinetic scar and severe left ventricular dysfunction: comparison with a series of large dyskinetic scars. J Thorac Cardiovasc Surg 1998; 116:.
-- 2. Athanasuleas CL, Stanley AW Jr, Buckberg GD, Dor V, DiDonato M, Blackstone EH. Surgical Anterior Ventricular Endocardial Restoration (SAVER) in the dilated remodelled ventricle after anterior myocardial infarction: RESTORE group [Reconstructive Endoventricular Surgery, returning Torsion Original Radius Elliptical shape to the LV]. J Am Coll Cardiol 2001; 37:.
-- 3. Athanasuleas CL, Buckberg GD, Dor V, RESTORE group. Surgical ventricular restoration in the treatment of congestive heart failure due to post-infarction ventricular dilation. J Am Coll Cardiol 2004; 44:.
-- 4. Menicanti L, Castelvecchio S, Ranucci M, Frigiola A, Santambrogio C, de Vincentiis C, Brankovic J, Di Donato M. Surgical therapy for ischemic heart failure: single centre experience with surgical anterior ventricular restoration. J Thorac Cardiovasc Surg 2007; 134:.
-- 5. Bolling SF, Pagani FD, Deeb GM, Bach DS. Intermediate-term outcome of mitral reconstruction in cardiomyopathy. J Thorac Cardiovasc Surg 1998; 115:.
-- 6. Batista RJ, Verde J, Nery P, Bocchino L, Takeshita N, Bhayana JN, Bergsland J, Graham S, Houck JP, Salerno TA. Partial left ventriculectomy to treat end-stage heart disease. Ann Thorac Surg 1997; 64:.
-- 7. Batista R. Partial left ventriculectomy: the Batista procedure. Eur J Cardiothorac Surg 1999; 15:.
-- 8. Jones RH, Velazquez EJ, Michler RE, Sopko G, Oh JK, O'Connor CM, Hill JA, Menicanti L, Sadowski Z, Desvigne-Nickens P, Rouleau JL, Lee KL; STICH Hypothesis 2 Investigators. Coronary bypass surgery with or without surgical ventricular reconstruction. N Engl J Med 2009; 360:.
-- 9. Rose EA, Gelijns AC, Moskowitz AJ, Heitjan DF, Stevenson LW, Dembitsky W, Long JW, Ascheim DD, Tierney AR, Levitan RG, Watson JT, Meier P, Ronan NS, Shapiro PA, Lazar RM, Miller LW, Gupta L, Frazier OH, Desvigne-Nickens P, Oz MC, Poirier VL; Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure (REMATCH) Study Group. Long-term mechanical left ventricular assistance for end-stage heart failure. N Engl J Med 2001; 345:.
-- 10. Cazeau S, Leclercq C, Lavergne T, Walker S, Varma C, Linde C, Garrigue S, Kappenberger L, Haywood GA, Santini M, Bailleul C, Daubert JC; Multisite Stimulation in Cardiomyopathies (MUSTIC) Study Investigators. Effects of multisite
+**Design:** Transvenous atrio‑biventricular pacemakers; compared 3‑month periods with or without pacing (crossover)
+
+**Results:** Improved quality of life, exercise tolerance (↑23%), reduced hospitalizations
+
+---
+
+#### STICH Trial (Hypothesis 2)
+
+**STICH** = Surgical Treatment for Ischaemic Heart Failure
+
+**Population (n=2800):** CAD amenable to revascularization, LVEF <35%, dominant anterior akinesia/dyskinesia amenable to SVR
+
+**Randomization strata:**
+*   Medical therapy alone
+*   CABG + medical therapy
+*   SVR + CABG + medical therapy
+
+**Hypothesis 2:** SVR added to CABG decreases death or hospitalization for cardiac events vs. CABG alone
+
+**Result at 48 months:** No significant difference in:
+*   Primary outcome (death from any cause or hospitalization for cardiac causes)
+*   Acute MI
+*   Stroke
+*   Symptoms (angina class, NYHA dyspnea class, 6‑minute walk test)
+
+---
+
+#### RESTORE Group
+
+**RESTORE** = Reconstructive Endoventricular Surgery returning Torsion Original Radius Elliptical shape to the LV
+
+**Population (prospective registry, n=1198):** Prior anterior MI, significant ventricular dilation (LVESVI >60 mL/m²), regional asynergic LV circumference >35%
+
+**Results:**
+*   30‑day mortality: 5.3% (8.7% with mitral repair, 4.0% without)
+*   5‑year survival: 69%
+*   5‑year freedom from HF hospitalization: 78%
+*   NYHA class I‑II postoperatively: 85%
+*   LVEF: 29% → 39%
+*   LVESVI: 80 → 57 mL/m²
+
+**Conclusion:** SVR improves ventricular function and symptom status in ischemic cardiomyopathy.
+
+---
+
+#### HeartMate II® Trial
+
+**Population (n=200):** Advanced HF, transplant‑ineligible
+
+**Randomization (2:1 ratio):**
+*   Group I (n=134): Continuous‑flow LVAD (Thoratec HeartMate II®)
+*   Group II (n=66): Pulsatile‑flow LVAD (Thoratec HeartMate XVE®)
+
+**Results:**
+*   2‑year survival: HeartMate II® 58% vs. HeartMate I® 24%
+*   Reduced adverse events with continuous‑flow device
+
+**Conclusion:** Continuous‑flow LVAD significantly improves probability of survival free from mortality, stroke, and device failure compared to pulsatile‑flow device.
+
+</div></details>

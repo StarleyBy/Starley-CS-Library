@@ -250,7 +250,9 @@ function updatePreview() {
     const mathStore = [];
     function storeMath(tex, display) {
         const id = '\x02MATH' + mathStore.length + '\x03';
-        mathStore.push({ id, tex, display });
+        // % is LaTeX comment char — escape any unescaped % so KaTeX doesn't truncate
+        const safeTex = tex.replace(/(?<!\\)%/g, '\\%');
+        mathStore.push({ id, tex: safeTex, display });
         return id;
     }
     // \[...\] display (must be before $$ to avoid conflicts)
@@ -304,9 +306,18 @@ document.addEventListener('DOMContentLoaded', () => {
     initExporter();
     initGitHubSave();
     initFormulaEditor();
+    initHeaderToggle();
     
     setTimeout(() => {
         initPreview();
+        if (typeof katex === 'undefined') {
+            const check = setInterval(() => {
+                if (typeof katex !== 'undefined') {
+                    clearInterval(check);
+                    updatePreview();
+                }
+            }, 100);
+        }
     }, 100);
 });
 
@@ -810,4 +821,49 @@ function fmTab(clickedTab, panelId) {
     clickedTab.classList.add('fm-tab-active');
     const panel = document.getElementById(panelId);
     if (panel) panel.classList.add('fm-panel-active');
+}
+
+// ==========================================================================
+//  HEADER TOGGLE
+// ==========================================================================
+
+function initHeaderToggle() {
+    const header   = document.getElementById('editor-header');
+    const colBtn   = document.getElementById('header-toggle');
+    const showTab  = document.getElementById('header-show-tab');
+
+    if (!header || !colBtn) return;
+
+    // Restore saved state
+    if (localStorage.getItem('editor_header_hidden') === '1') {
+        _hideHeader(header, colBtn, showTab);
+    }
+
+    colBtn.addEventListener('click', () => {
+        if (header.classList.contains('header-hidden')) {
+            _showHeader(header, colBtn, showTab);
+        } else {
+            _hideHeader(header, colBtn, showTab);
+        }
+    });
+
+    showTab?.addEventListener('click', () => {
+        _showHeader(header, colBtn, showTab);
+    });
+}
+
+function _hideHeader(header, btn, tab) {
+    header.classList.add('header-hidden');
+    document.documentElement.classList.add('header-hidden');
+    if (btn) btn.textContent = '▼';
+    if (tab) tab.style.display = 'block';
+    localStorage.setItem('editor_header_hidden', '1');
+}
+
+function _showHeader(header, btn, tab) {
+    header.classList.remove('header-hidden');
+    document.documentElement.classList.remove('header-hidden');
+    if (btn) btn.textContent = '▲';
+    if (tab) tab.style.display = 'none';
+    localStorage.setItem('editor_header_hidden', '0');
 }

@@ -96,40 +96,13 @@
       {
         "file": "chapter-22.md",
         "title": "22. Postoperative management"
-      },
-      {
-        "file": "chapter-Appendix 1.md",
-        "title": "Appendix 1. Transoesophageal echocardiographic views"
-      },
-      {
-        "file": "chapter-Appendix 2.md",
-        "title": "Appendix 2. Transthoracic echocardiographic views"
-      },
-      {
-        "file": "chapter-Appendix 3.md",
-        "title": "Appendix 3. Normal echocardiographic values"
-      },
-      {
-        "file": "chapter-Appendix 4.md",
-        "title": "Appendix 4. Standard coronary angiographic views"
-      },
-      {
-        "file": "chapter-Appendix 5.md",
-        "title": "Appendix 5. Normal arterial blood gas values"
-      },
-      {
-        "file": "chapter-Appendix 6.md",
-        "title": "Appendix 6. Normal cardiac physiological values"
-      },
-      {
-        "file": "chapter-Appendix 7.md",
-        "title": "Appendix 7. AHA guidelines for quantifying the severity of valvular disease"
-      },
-      {
-        "file": "chapter-Appendix 8.md",
-        "title": "Appendix 8. EuroSCORE"
       }
     ],
-    "appendices": []
+    "appendices":  [
+    {
+      "file": "appendix.md",
+      "title": "Appendices"
+    }
+  ]
   }
 ]

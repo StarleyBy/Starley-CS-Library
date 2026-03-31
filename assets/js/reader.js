@@ -246,7 +246,9 @@ async function loadChapter(bookPath, chapterId, edition) {
         const mathStore = [];
         function storeMath(tex, display) {
             const id = '\x02MATH' + mathStore.length + '\x03';
-            mathStore.push({ id, tex, display });
+            // % is LaTeX comment char — escape any unescaped % so KaTeX doesn't truncate
+            const safeTex = tex.replace(/(?<!\\)%/g, '\\%');
+            mathStore.push({ id, tex: safeTex, display });
             return id;
         }
 
