@@ -1,239 +1,414 @@
-# Chapter 22
+# Postoperative Management
 
-### Postoperative management
+<details class="med-details"><summary>
 
-- What are the causes of postoperative hypertension?
-- Anxiety and pain.
-- Inotropes (dopamine, noradrenaline, adrenaline, vasopressin).
-- Vasoconstriction and shivering from hypothermia.
-- Hyperdynamic syndrome following aortic valve replacement or coronary artery bypass grafting (following afterload reduction or revascularisation, respectively).
-- Abnormal baroreceptor function following aortic dissection.
-- Autonomic neuropathy associated with diabetes.
+## Executive Summary</summary><div class="details-content">
 
-### 2 What are the commonest arrhythmias in the postoperative period?
+### Hypertension and Arrhythmias
 
-- Sinus tachycardia.
-- Atrial fibrillation.
-- Heart block (especially following valve surgery).
-- Ventricular and atrial ectopics.
-- Ventricular tachycardia.
-- Sinus bradycardia.
+*   **Causes of postoperative hypertension:** Anxiety/pain, inotropes (dopamine, noradrenaline, adrenaline, vasopressin), hypothermia-induced vasoconstriction, hyperdynamic syndrome (post-AVR/CABG), abnormal baroreceptor function (aortic dissection), autonomic neuropathy (diabetes).
+*   **Common arrhythmias:** Sinus tachycardia, atrial fibrillation, heart block (especially post-valve surgery), ventricular/atrial ectopics, ventricular tachycardia, sinus bradycardia.
+*   **Causes of sinus tachycardia:** β-blocker withdrawal, fever/sepsis, anxiety/pain, hypovolaemia, inotropes, anaemia.
 
-### 3 What are the causes of sinus tachycardia following cardiac surgery?
+### Acidosis
 
-- Withdrawal of β-blockade.
-- Fever and sepsis.
-- Anxiety and pain.
-- Hypovolaemia.
-- Inotropes (dopamine, noradrenaline, adrenaline, isoprenaline).
-- Anaemia.
+*   **Metabolic acidosis causes:** Hypoperfusion → lactic acidosis (hypovolaemia, low CO, myocardial dysfunction, excessive vasoconstriction, sepsis); increased metabolic activity (adrenaline, sepsis); renal impairment; splanchnic/limb ischaemia; endocrine (hyperglycaemia, thyrotoxic crisis).
+*   **Respiratory acidosis:** CO₂ retention.
+*   **Management:** Identify underlying cause, optimise cardiac output, reduce vasopressors, restore normothermia, optimise renal function, consider sodium bicarbonate (50 mL 8.4%) or dialysis.
 
-### 4 What are the causes of acidosis following cardiac surgery?
+### Electrolyte Disturbances
 
-- Metabolic acidosis:
-  - a) reduced tissue perfusion producing lactic acidosis, secondary to:
-    - i) hypovolaemia;
-    - ii) low cardiac output;
-    - iii) myocardial dysfunction;
-    - iv) excessive vasoconstriction (noradrenaline, vasopressin, methylene blue, hypothermia);
-    - v) sepsis;
-  - b) increased metabolic activity (adrenaline, sepsis);
-  - c) renal impairment (failure to excrete hydrogen ions);
-  - splanchnic or limb ischaemia (excess production of hydrogen ions);
-  - e) endocrine hyperglycaemia, thyrotoxic crisis.
-- Respiratory acidosis CO<sub>2</sub> retention.
+**Hyperkalaemia:**
+*   **Causes:** Excess K⁺ administration, K⁺-sparing diuretics, ACEI/ARB, renal failure, tissue ischaemia.
+*   **Treatment:** Re-check K⁺, cardiac monitoring, stop K⁺-sparing drugs and supplements, calcium resonium; shift K⁺ into cells (insulin/dextrose, NaHCO₃, β-agonist); increase excretion (furosemide, dialysis); calcium gluconate (membrane stabiliser).
 
-#### What are the principles of managing acidosis postcardiac surgery?
+**Hypokalaemia:**
+*   **Causes:** Diuresis without supplementation, insulin, alkalosis, excessive NG drainage.
+*   **Treatment:** Re-check K⁺, cardiac monitoring, K⁺ supplementation, K⁺-sparing medications, reduce insulin/β-agonists, reduce furosemide.
 
-- Identify the underlying cause:
-  - a) assess for clinical aetiology as described above (e.g. volume status, temperature, inotropy, urine output);
-  - b) determine pH, pCO<sub>2</sub>, base excess, lactate, anion gap, blood glucose, urinary ketones, phosphate.
-- Treat the underlying cause:
-  - a) increase the respiratory rate or tidal volume (i.e. minute volume to increase CO<sub>2</sub> expiration) to treat respiratory acidosis;
-  - b) optimise cardiac output;
-  - c) reduce noradrenaline and adrenaline if possible;
-  - d) restore normothermia with a warming blanket;
-  - e) optimise renal function with volume, furosemide or dopamine;
-  - f) consider sodium bicarbonate (50mL 8.4%) or dialysis.
+**Hyponatraemia:**
+*   **Hypervolaemic:** Excess 5% dextrose, renal failure → fluid restriction, replace dextrose with saline, loop diuretics.
+*   **Euvolaemic:** SIADH (urinary Na >20 mmol/L, serum Na <130 mmol/L, serum osmolality <270 mOsm/kg, urinary osmolality >100 mOsm/L) → demeclocycline, vasopressin antagonist (conivaptan), sodium supplements.
+*   **Hypovolaemic:** Thiazides, ACEI/ARB, diarrhoea/vomiting → stop offending drugs, fluid replacement with normal saline.
 
-### What are the causes of hyperkalaemia following cardiac surgery?
+**Hypernatraemia:**
+*   **Causes:** Pure water depletion (diabetes insipidus), water depletion exceeding sodium depletion (diarrhoea), sodium excess (normal saline), drugs (amphotericin, phenytoin, lithium, gentamicin).
+*   **Treatment:** Check urine/plasma Na and osmolality, treat underlying cause, 5% dextrose, vasopressin for diabetes insipidus.
 
-- Excess intravenous or oral potassium administration.
-- Potassium-sparing diuretics (e.g. amiloride).
-- Aldosterone antagonist (e.g. spironolactone).
-- Angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin receptor blockers (ARBs).
+### Hypoxia
 
-- Reduced renal excretion of potassium with renal failure or oliguria.
-- Tissue ischaemia causing increased potassium release from cells.
+*   **Causes of poor gas exchange:** Atelectasis (anaesthesia, CPB, IMA harvesting, pain, secretions), pulmonary oedema (cardiogenic, SIRS, transfusion), pleural effusion, bronchospasm, pneumothorax, phrenic nerve injury (iced slush, direct trauma, IMA harvest).
+*   **Inadequate oxygen delivery:** Low FiO₂, inadequate ventilator settings, misplaced ETT, low cardiac output, anaemia, increased demand (shivering, sepsis).
 
-#### How is hyperkalaemia treated following cardiac surgery?
+### Oliguria
 
-- Re-check the serum potassium level (ensure the sample is not haemolysed).
-- Cardiac monitoring.
-- Reduce potassium uptake:
-  - a) stop potassium-sparing medications (ACEI, ARB, aldosterone antagonists);
-  - b) stop potassium supplementation (oral and intravenous);
-  - c) calcium resonium® to reduce gastro-intestinal absorption of potassium.
-- Increase potassium movement from plasma into the cells:
-  - a) insulin (give 50mL 50% dextrose and 15U insulin IV);
-  - b) sodium bicarbonate;
-  - c) aerosolized  $\beta$ -agonist.
-- Increase potassium excretion:
-  - a) loop diuretic (e.g. furosemide);
-  - b) dialysis.
-- Calcium gluconate (myocyte membrane stabiliser).
-- 8 What are the causes of hypokalaemia following cardiac surgery?
-- Diuresis without potassium supplementation.
-- Insulin.
-- Alkalosis.
-- Excessive nasogastric drainage.
-- 9 How is hypokalaemia treated following cardiac surgery?
-- Re-check the serum potassium level.
-- Cardiac monitoring.
-- Increase potassium uptake:
-  - a) potassium-sparing medications (e.g. ACEI, ARB, aldosterone antagonists);
-  - b) potassium supplementation (e.g. oral and intravenous).
+*   **Pre-renal:** Hypovolaemia, low cardiac output, renal artery disease (aortic dissection).
+*   **Renal:** Pre-existing renal disease, nephrotoxins (gentamicin, NSAIDs), CPB-induced nephropathy, sepsis.
+*   **Post-renal:** Catheter blockage/kinking.
+*   **Management:** Ensure catheter patent, optimise myocardial function (preload, contractility, afterload, dysrhythmias, IABP), diuretics (bolus → infusion), renal-dose dopamine (1–5 μg/kg/min), dialysis for hyperkalaemia, acidosis, fluid overload.
 
-- Reduce potassium movement from plasma into the cells (caused by insulin and aerosolized b-agonist).
-- Reduce potassium excretion caused by loop diuretics (e.g. furosemide).
+### Enteral Feeding
 
-### 10 **What are the causes of hyponatraemia following cardiac surgery?**
+*   **Requirements:** 25 kcal/kg/day (catabolic: 30 kcal/kg/day)
+*   **Initiation:** If not extubated or eating within 48 hours
+*   **Standard feeds:** 1–1.2 kcal/mL; high-energy: 1.5–2 kcal/mL
+*   **Renal failure:** Low-protein feeds (except on RRT → high-protein), high-energy low-volume, low-electrolyte
+*   **Administration:** 16–20 hours with 4–8 hour rest period
+*   **TPN:** If not absorbing or contraindication to enteral feeding
 
-- Hypervolaemic hyponatraemia:
-  - a) excess 5% dextrose administered as maintenance fluid;
-  - b) renal failure.
-- Euvolaemic hyponatraemia:
-  - a) syndrome of inappropriate anti-diuretic hormone (SIADH) which can be diagnosed by:
-    - i) urinary sodium >20mmol/L;
-    - ii) serum sodium <130mmol/L;
-    - iii) serum osmolality <270mOsm/kg;
-    - iv) urinary osmolality >100mOsm/L;
-    - v) normal serum potassium and bicarbonate.
-- Hypovolaemic hyponatraemia:
-  - a) thiazide diuretics;
-  - b) angiotensin-converting enzyme inhibitors (ACEIs);
-  - c) angiotensin receptor blockers (ARBs);
-  - b) diarrhoea and vomiting.
+### Sternal Wound Infections
 
-### 11 **How is hyponatraemia treated following cardiac surgery?**
+*   **Prevention:** Antibiotic prophylaxis (cefuroxime 30 min pre-incision, vancomycin for MRSA risk), infection control.
+*   **Superficial:** Drainage, VAC pump.
+*   **Deep/mediastinitis:** Debridement, VAC or irrigation, targeted antibiotics, reconstruction after infection controlled (sternal rewiring, pectoral flaps, latissimus dorsi, rectus abdominis, omentum).
 
-- Management depends on the underlying cause and volume status.
-- Hypervolaemic hyponatraemia:
-  - a) fluid restriction (1-1.5L/day);
-  - b) replace any 5% dextrose with normal hypertonic saline;
-  - c) loop diuretics may be used to excrete free water.
-- Euvolaemic hyponatraemia:
-  - a) demeclocycline which reduces the effect of ADH on the distal renal tubules;
+### Anticoagulation (AHA Guidelines)
 
-- b) arginine vasopressin antagonist (e.g. Conivaptan), which increases free water renal excretion;
-- c) sodium supplements (slow Na).
-- Hypovolaemic hyponatraemia:
-  - a) stop ACEI, ARB and thiazide diuretics;
-  - b) fluid replacement with normal saline.
+| Indication | Target INR |
+|------------|-----------|
+| Coronary endarterectomy | 2.0–3.0 |
+| Atrial fibrillation | 2.0–3.0 |
+| Mechanical aortic valve | 2.0–3.0 |
+| Mechanical mitral valve | 2.5–3.5 |
+| Bioprosthetic valve | Aspirin alone, or warfarin 3 months (INR 2.0–3.0) then aspirin |
 
-## 12 What are the causes of hypernatraemia following cardiac surgery?
+### Secondary Prevention of CAD
 
-- Pure water depletion diabetes insipidus.
-- Water depletion exceeding sodium depletion diarrhoea.
-- Sodium excess excess normal saline.
-- Drugs amphotericin, phenytoin, lithium, gentamicin.
+*   **Aspirin:** Antiplatelet — reduces coronary thrombosis risk
+*   **Statin:** HMG-CoA reductase inhibitor — reduces cholesterol deposition in coronaries and grafts
+*   **β-blocker:** Reduces LV work (contractility, afterload)
+*   **ACEI:** Reduces afterload, promotes LV reverse remodelling
 
-### 13 How is hypernatraemia treated following cardiac surgery?
+</div></details>
 
-- Check urine and plasma sodium and osmolality.
-- Treat the underlying cause.
-- 5% dextrose.
-- Vasopressin (anti-diuretic hormone) for diabetes insipidus.
+---
 
-### 14 What are the common causes of hypoxia in the immediate postoperative period?
+<details class="med-details"><summary>
 
-- Atelectasis caused by:
-  - a) general anaesthesia;
-  - b) cardiopulmonary bypass secondary to:
-    - i) inadequate surfactant from pulmonary hypoperfusion;
-    - ii) small airway closure from vasoactive mediators;
-    - iii) increased interstitial oedema due to increased alveolar endothelial permeability;
-  - c) left internal mammary artery harvesting.
-- Pleural effusion.
-- Bronchospasm.
-- Pneumonia.
-- Pneumothorax.
-- Cardiogenic pulmonary oedema.
-- Non-cardiogenic interstitial pulmonary oedema caused by systemic inflammatory response syndrome (SIRS) secondary to complement
+## 1. Hypertension and Arrhythmias</summary><div class="details-content">
 
-- activation, cytokine release, oxygen-free radicals and blood transfusion products.
-- Diaphragmatic dysfunction phrenic nerve injury, which can be caused by iced pericardial slush or direct injury.
+#### Causes of Postoperative Hypertension
 
-### 15 What are the common causes of oliguria in the immediate postoperative period?
+*   Anxiety and pain
+*   Inotropes (dopamine, noradrenaline, adrenaline, vasopressin)
+*   Vasoconstriction and shivering from hypothermia
+*   Hyperdynamic syndrome following aortic valve replacement (after afterload reduction) or coronary artery bypass grafting (after revascularisation)
+*   Abnormal baroreceptor function following aortic dissection
+*   Autonomic neuropathy associated with diabetes
 
-- Pre-renal:
-  - a) hypovolaemia (intravascular volume depletion);
-  - b) low cardiac output;
-  - c) renal artery disease especially following aortic dissection.
+#### Common Postoperative Arrhythmias
 
-#### Renal:
+*   Sinus tachycardia
+*   Atrial fibrillation
+*   Heart block (especially following valve surgery)
+*   Ventricular and atrial ectopics
+*   Ventricular tachycardia
+*   Sinus bradycardia
 
-- a) pre-operative renal disease hypertensive, diabetic, contrast nephropathy;
-- b) nephrotoxic drugs gentamicin, non-steroidal anti-inflammatory drugs;
-- c) cardiopulmonary bypass-induced nephropathy;
-- d) sepsis.
-- Post-renal rare as most patients are catheterised but may be caused by blockage or kinking of the urinary catheter.
+#### Causes of Sinus Tachycardia
 
-### 16 How is oliguria managed?
+*   Withdrawal of β-blockade
+*   Fever and sepsis
+*   Anxiety and pain
+*   Hypovolaemia
+*   Inotropes (dopamine, noradrenaline, adrenaline, isoprenaline)
+*   Anaemia
 
-- Ensure the urinary catheter is patent.
-- Optimise myocardial function to ensure adequate renal perfusion:
-  - a) preload fluid boluses;
-  - b) improve contractility with inotropes;
-  - c) reduce elevated afterload;
-  - d) manage any dysrhythmias;
-  - e) intra-aortic balloon pump if necessary.
-- Diuretics initially with boluses followed by an infusion if unsuccessful.
-- Renal-dose dopamine (1-5μg/kg/min).
-- Renal dialysis for hyperkalaemia, acidosis, excessive fluid retention (e.g. pulmonary oedema).
+</div></details>
 
-### 17 **What are the principles of enteral feeding in cardiac surgical patients?**
+---
 
-- Most cardiac surgical patients require approximately 25kCal/kg/day.
-- Patients in a catabolic state (such as with multi-organ failure) have increased nutritional requirements (approximately 30kCal/kg/day).
-- Enteral (nasogastric) feeding should be commenced if a patient is not extubated or is not able to eat within 48 hours of surgery.
-- Standard feeds provide.2kCal/mL with high-energy feeds providing 1.5-2kCal/mL.
-- Patients with renal failure require low-protein feeds, except those requiring renal replacement therapy, who require high-protein feeds (as haemofiltration and haemodialysis remove protein). These patients also require high-energy (low volume) and low-electrolyte feeds.
-- Enteral feeding is usually given over hours with a 4-8-hour rest period.
-- Total parenteral nutrition should be used if the patient is not absorbing or if there is any contra-indication to enteral feeding.
+<details class="med-details"><summary>
 
-### 18 **What are the principles of managing sternal wound infections post-cardiac surgery?**
+## 2. Acidosis: Causes and Management</summary><div class="details-content">
 
-- Prevention:
-  - a) antibiotic prophylaxis cefuroxime administered 30 minutes before incision or vancomycin if the patient is at risk of methicillin-resistant Staphylococcus aureus (MRSA);
-  - b) infection control avoid cross-contamination between patients.
-- Isolate the organism and treat with the appropriate antibiotic therapy.
-- Superficial sternal wound infection can be treated with drainage but may require vacuum-assisted closure (VAC) pump insertion.
-- Deep sternal wound infection and mediastinitis, however, requires:
-  - a) sternal debridement and VAC pump insertion or closure with a continuous irrigation system;
-  - b) antibiotic therapy tailored to the infecting organism;
-  - c) sternal reconstruction is performed once inflammatory markers have normalised and the infecting organism has been eradicated as demonstrated by negative microbiological swabs, with:
-    - i) sternal rewiring;
-    - ii) pectoral advancement flaps;
-    - iii) plastic surgical flap reconstruction using latissimus dorsi, pectoralis major, rectus abdominis or the omentum.
+#### Causes of Acidosis
 
-#### 19 **What are the standard anticoagulation regimes following cardiac surgery?**
+**Metabolic acidosis:**
+*   Reduced tissue perfusion → lactic acidosis:
+    *   Hypovolaemia
+    *   Low cardiac output
+    *   Myocardial dysfunction
+    *   Excessive vasoconstriction (noradrenaline, vasopressin, methylene blue, hypothermia)
+    *   Sepsis
+*   Increased metabolic activity (adrenaline, sepsis)
+*   Renal impairment (failure to excrete hydrogen ions)
+*   Splanchnic or limb ischaemia (excess production of hydrogen ions)
+*   Endocrine: hyperglycaemia, thyrotoxic crisis
 
-- According to the American Heart Association (AHA) guidelines, the following INRs (international normalized ratios) are recommended using warfarin:
-  - a) coronary endarterectomy 2.0-3.0;
-  - b) atrial fibrillation 2.0-3.0;
-  - c) mechanical aortic valve 2.0-3.0;
-  - d) mechanical mitral valve 2.5-3.5.
-- For patients with bioprosthetic valves, aspirin alone can be used or 3 months of warfarin (with optimal INR 2.0-3.0) followed by aspirin alone.
+**Respiratory acidosis:**
+*   CO₂ retention
 
-### 20 **What medications are important for secondary prevention of coronary artery disease?**
+#### Management of Acidosis
 
-- Aspirin (antiplatelet agent), which reduces the risk of subsequent coronary thrombosis.
-- Statin (HMG CoA reductase inhibitor), which reduces hepatic production of cholesterol and subsequent deposition in the coronary arteries and vein grafts.
-- b-blocker, which decreases left ventricular work by reducing left ventricular contractility and afterload.
-- Angiotensin-converting enzyme inhibitor, which reduces left ventricular afterload and encourages left ventricular reverse remodelling.
+**Identify the underlying cause:**
+*   Assess clinical aetiology (volume status, temperature, inotropy, urine output)
+*   Determine pH, pCO₂, base excess, lactate, anion gap, blood glucose, urinary ketones, phosphate
 
-#### **Recommended reading**
+**Treat the underlying cause:**
+*   Increase minute volume (RR or TV) for respiratory acidosis
+*   Optimise cardiac output
+*   Reduce noradrenaline and adrenaline if possible
+*   Restore normothermia with a warming blanket
+*   Optimise renal function with volume, furosemide, or dopamine
+*   Consider sodium bicarbonate (50 mL 8.4%) or dialysis
 
-- 1. Bonow RO, Carabello BA, Kanu C, de Leon AC Jr, Faxon DP, Freed MD, Gaasch WH, Lytle BW, Nishimura RA, O'Gara PT, O'Rourke RA, Otto CM, Shah PM, Shanewise JS, Smith SC Jr, Jacobs AK, Adams CD, Anderson JL, Antman EM, Faxon DP, Fuster V, Halperin JL, Hiratzka LF, Hunt SA, Lytle BW, Nishimura R, Page RL, Riegel B. ACC/AHA 2006 Guidelines for the management of patients with valvular heart disease. Circulation 2006; 114; e84-e231.
-- 2. Smith SC Jr, Allen J, Blair SN, Bonow RO, Brass LM, Fonarow GC, Grundy SM, Hiratzka L, Jones D, Krumholz HM, Mosca L, Pasternak RC, Pearson T, Pfeffer MA, Taubert KA; AHA/ACC; National Heart, Lung, and Blood Institute. AHA/ACC Guidelines for secondary prevention for patients with coronary and other atherosclerotic vascular disease: 2006 update: endorsed by the National Heart, Lung, and Blood Institute. Circulation 2006; 113:.
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 3. Electrolyte Disturbances</summary><div class="details-content">
+
+#### Hyperkalaemia
+
+**Causes:**
+*   Excess intravenous or oral potassium administration
+*   Potassium-sparing diuretics (e.g., amiloride)
+*   Aldosterone antagonists (e.g., spironolactone)
+*   ACE inhibitors or angiotensin receptor blockers (ARBs)
+*   Reduced renal excretion (renal failure, oliguria)
+*   Tissue ischaemia (increased K⁺ release from cells)
+
+**Treatment:**
+1.  Re-check serum potassium (exclude haemolysed sample)
+2.  Cardiac monitoring
+3.  **Reduce K⁺ uptake:**
+    *   Stop K⁺-sparing medications (ACEI, ARB, aldosterone antagonists)
+    *   Stop K⁺ supplementation (oral and IV)
+    *   Calcium resonium® (reduces GI absorption)
+4.  **Shift K⁺ into cells:**
+    *   Insulin: 50 mL 50% dextrose + 15U insulin IV
+    *   Sodium bicarbonate
+    *   Aerosolised β-agonist
+5.  **Increase K⁺ excretion:**
+    *   Loop diuretic (e.g., furosemide)
+    *   Dialysis
+6.  **Calcium gluconate** — myocyte membrane stabiliser
+
+---
+
+#### Hypokalaemia
+
+**Causes:**
+*   Diuresis without potassium supplementation
+*   Insulin
+*   Alkalosis
+*   Excessive nasogastric drainage
+
+**Treatment:**
+*   Re-check serum potassium
+*   Cardiac monitoring
+*   **Increase K⁺ uptake:**
+    *   K⁺-sparing medications (ACEI, ARB, aldosterone antagonists)
+    *   K⁺ supplementation (oral and IV)
+*   **Reduce movement into cells:** adjust insulin/β-agonists
+*   **Reduce excretion:** reduce loop diuretics (e.g., furosemide)
+
+---
+
+#### Hyponatraemia
+
+**Classification and causes:**
+
+| Type | Causes |
+|------|--------|
+| **Hypervolaemic** | Excess 5% dextrose as maintenance fluid; renal failure |
+| **Euvolaemic** | SIADH (see diagnostic criteria below) |
+| **Hypovolaemic** | Thiazide diuretics, ACEI, ARB, diarrhoea, vomiting |
+
+**SIADH diagnostic criteria:**
+*   Urinary sodium >20 mmol/L
+*   Serum sodium <130 mmol/L
+*   Serum osmolality <270 mOsm/kg
+*   Urinary osmolality >100 mOsm/L
+*   Normal serum potassium and bicarbonate
+
+**Treatment by type:**
+
+| Type | Treatment |
+|------|-----------|
+| **Hypervolaemic** | Fluid restriction (1–1.5 L/day), replace 5% dextrose with normal saline, loop diuretics |
+| **Euvolaemic** | Demeclocycline (reduces ADH effect), vasopressin antagonist (conivaptan), sodium supplements (slow Na) |
+| **Hypovolaemic** | Stop ACEI/ARB/thiazides, fluid replacement with normal saline |
+
+---
+
+#### Hypernatraemia
+
+**Causes:**
+*   Pure water depletion — diabetes insipidus
+*   Water depletion exceeding sodium depletion — diarrhoea
+*   Sodium excess — excess normal saline
+*   Drugs — amphotericin, phenytoin, lithium, gentamicin
+
+**Treatment:**
+*   Check urine and plasma sodium and osmolality
+*   Treat underlying cause
+*   5% dextrose
+*   Vasopressin (ADH) for diabetes insipidus
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 4. Hypoxia: Causes in the Immediate Postoperative Period</summary><div class="details-content">
+
+#### Poor Gas Exchange
+
+| Category | Specific Causes |
+|----------|-----------------|
+| **Atelectasis** | General anaesthesia; CPB (inadequate surfactant, small airway closure, increased interstitial oedema); left IMA harvesting |
+| **Pulmonary oedema** | Cardiogenic (LV dysfunction); non-cardiogenic (SIRS — complement activation, cytokine release, oxygen-free radicals, blood transfusion) |
+| **Pleural effusion** | — |
+| **Bronchospasm** | — |
+| **Pneumonia** | — |
+| **Pneumothorax** | — |
+| **Diaphragmatic dysfunction** | Phrenic nerve injury (iced pericardial slush, direct trauma, IMA harvesting) |
+
+#### Inadequate Oxygen Delivery
+
+*   Low FiO₂
+*   Inadequate ventilator settings (low PEEP, malfunction)
+*   Misplaced endotracheal tube
+*   Low cardiac output syndrome
+*   Anaemia
+*   Increased oxygen demand (shivering, sepsis)
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 5. Oliguria: Causes and Management</summary><div class="details-content">
+
+#### Causes of Oliguria
+
+**Pre-renal:**
+*   Hypovolaemia (intravascular volume depletion)
+*   Low cardiac output
+*   Renal artery disease (especially following aortic dissection)
+
+**Renal:**
+*   Pre-operative renal disease (hypertensive, diabetic, contrast nephropathy)
+*   Nephrotoxic drugs (gentamicin, NSAIDs)
+*   Cardiopulmonary bypass-induced nephropathy
+*   Sepsis
+
+**Post-renal:**
+*   Rare as most patients are catheterised
+*   May be caused by blockage or kinking of urinary catheter
+
+#### Management of Oliguria
+
+1.  Ensure urinary catheter is patent
+2.  Optimise myocardial function for renal perfusion:
+    *   Preload — fluid boluses
+    *   Contractility — inotropes
+    *   Afterload — reduce if elevated
+    *   Manage dysrhythmias
+    *   Intra-aortic balloon pump if necessary
+3.  Diuretics — boluses → infusion if unsuccessful
+4.  Renal-dose dopamine (1–5 μg/kg/min)
+5.  Renal dialysis for hyperkalaemia, acidosis, excessive fluid retention (e.g., pulmonary oedema)
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 6. Enteral Feeding in Cardiac Surgical Patients</summary><div class="details-content">
+
+#### Nutritional Requirements
+
+*   Most cardiac surgical patients: **25 kcal/kg/day**
+*   Catabolic state (multi-organ failure): **30 kcal/kg/day**
+
+#### Initiation of Enteral Feeding
+
+*   Commence if patient is not extubated or unable to eat within **48 hours** of surgery
+
+#### Feed Types
+
+| Type | Caloric Content |
+|------|-----------------|
+| Standard feeds | 1–1.2 kcal/mL |
+| High-energy feeds | 1.5–2 kcal/mL |
+
+#### Special Considerations
+
+*   **Renal failure:** Low-protein feeds (except on RRT → high-protein, as haemofiltration/dialysis remove protein); high-energy low-volume, low-electrolyte feeds
+*   **Administration:** Usually over **16–20 hours** with **4–8 hour rest period**
+*   **Total parenteral nutrition (TPN):** Use if patient is not absorbing or contraindication to enteral feeding
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 7. Management of Sternal Wound Infections</summary><div class="details-content">
+
+#### Prevention
+
+*   **Antibiotic prophylaxis:** Cefuroxime administered 30 minutes before incision; vancomycin for MRSA risk
+*   **Infection control:** Avoid cross-contamination between patients
+
+#### Superficial Sternal Wound Infection
+
+*   Drainage
+*   May require vacuum-assisted closure (VAC) pump insertion
+
+#### Deep Sternal Wound Infection and Mediastinitis
+
+1.  **Debridement:** Sternal debridement
+2.  **Wound management:** VAC pump insertion or continuous irrigation system
+3.  **Antibiotics:** Tailored to the infecting organism
+4.  **Reconstruction** (once inflammatory markers normalised and negative microbiology swabs):
+    *   Sternal rewiring
+    *   Pectoral advancement flaps
+    *   Plastic surgical flap reconstruction (latissimus dorsi, pectoralis major, rectus abdominis, omentum)
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 8. Anticoagulation Regimes Following Cardiac Surgery (AHA Guidelines)</summary><div class="details-content">
+
+#### Target INRs for Warfarin Therapy
+
+| Indication | Target INR |
+|------------|-----------|
+| Coronary endarterectomy | 2.0–3.0 |
+| Atrial fibrillation | 2.0–3.0 |
+| Mechanical aortic valve | 2.0–3.0 |
+| Mechanical mitral valve | 2.5–3.5 |
+
+#### Bioprosthetic Valves
+
+*   Aspirin alone, **or**
+*   Warfarin for 3 months (INR 2.0–3.0) followed by aspirin alone
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 9. Secondary Prevention of Coronary Artery Disease</summary><div class="details-content">
+
+| Drug Class | Mechanism |
+|------------|-----------|
+| **Aspirin** | Antiplatelet agent — reduces risk of subsequent coronary thrombosis |
+| **Statin** (HMG-CoA reductase inhibitor) | Reduces hepatic production of cholesterol and subsequent deposition in coronary arteries and vein grafts |
+| **β-blocker** | Decreases left ventricular work by reducing contractility and afterload |
+| **ACE inhibitor** | Reduces left ventricular afterload and encourages left ventricular reverse remodelling |
+
+</div></details>
