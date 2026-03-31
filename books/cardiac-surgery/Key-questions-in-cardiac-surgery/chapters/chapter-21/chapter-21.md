@@ -1,495 +1,957 @@
-# Chapter 21
-
-# Cardiac anaesthesia and intensive care management
-
-### Describe the monitoring used during cardiac anaesthesia
-
-- Electrocardiogram limb leads and V5.
-- Arterial oxygen saturations.
-- End-tidal carbon dioxide levels.
-- Arterial blood pressure (invasive and non-invasive).
-- Central venous pressure.
-- Central (core) and peripheral temperature.
-- Urine output.
-- Cardiac output, using invasive (Swan-Ganz catheter) and noninvasive techniques (LiDCO).
-- Pulmonary artery pressure.
-- Transoesophageal echocardiogram.
-
-## 2 What are the principles of cardiac anaesthesia?
-
-- Prior to arrival in the anaesthetic room, most elective patients have fasted for hours and have been given a premedication. An example includes using a benzodiazepine (such as temazepam) and an opiate (such as morphine), to reduce anxiety-induced tachycardia and hypertension, and to help facilitate analgesia.
-- There are three components to anaesthesia, which include:
-  - a) hypnosis to produce a reversible state of non-awareness and amnesia, using:
-    - i) intravenous sedatives, such as propofol;
-    - i) inhaled anaesthetic agents, such as isoflurane;
-  - analgesia to reduce the responses to pain encountered during surgery. Typically, an opiate such as fentanyl or remifentanyl is used, in preference over morphine, as it has less cardiac side effects and is short-acting;
-  - c) muscle relaxation using:
-    - non-depolarising agents (such as vecuronium or rocuronium), which are competitive inhibitors of the acetylcholine receptor at the neuromuscular junction. They have an onset time of minutes, last between 20
-
-- to 60 minutes and can be reversed by an anticholinesterase (such as neostigmine); or
-- ii) a depolarising agent (such as suxamethonium), which non-competitively binds with the acetylcholine receptor resulting in depolarisation of the neuromuscular junction. It has a rapid onset of action producing paralysis that lasts for minutes and cannot be reversed.
-- The conduct of anaesthesia includes three phases:
-  - a) induction:
-    - i) hypnosis propofol;
-    - ii) analgesia fentanyl or remifentanyl;
-    - iii) muscle relaxation suxamethonium;
-  - b) maintenance:
-    - i) hypnosis propofol and isoflurane;
-    - ii) analgesia fentanyl or remifentanyl;
-    - iii) muscle relaxation vecuronium or rocuronium;
-  - c) reversal.
-- During the different stages of cardiac anaesthesia it is important to minimise myocardial oxygen consumption by controlling the heart rate and blood pressure, and optimising preload and afterload. This allows the myocardial work to be kept to a minimum in patients with cardiac disease.
-- 3 Describe the American Society of Anesthesiologists (ASA) pre-operative scoring system
-- Grade I: healthy patient.
-- Grade II: mild systemic disease but no functional limitation.
-- Grade III: moderate systemic disease with definite functional limitation.
-- Grade IV: severe systemic disease with a constant threat to life.
-- Grade V: moribund patient, not expected to survive 24 hours with or without surgery.
-
-### 4 Describe the different grades of intubation
-
-- The different grades of intubation are determined by the degree to which the vocal cords and upper airway can be visualised at the time of intubation and guides future anaesthetists to the degree of difficulty of intubation:
-  - a) Grade I: vocal cords visible;
-  - b) Grade II: vocal cords partially visible;
-
-- c) Grade III: vocal cords not visible; only the epiglottis can be seen;
-- d) Grade IV: vocal cords and epiglottis not visible.
-- In the pre-anaesthesia assessment, the difficulty of intubation is assessed using the Mallampati system, by asking the patient to open their mouth wide open:
-  - a) I: faucial pillars, soft palate and uvula visible;
-  - b) II: faucial pillars and soft palate visible;
-  - c) III: only the soft palate visible;
-  - d) IV: none of the above soft tissues are visible.
-
-# What are important considerations when transferring a patient from the operating room to the intensive care unit?
-
-- Before transfer, it is important to ensure that the patient is monitored (arterial pressure, central venous pressure, oxygen saturation, cardiac rate and rhythm), haemodynamically stable and not bleeding.
-- All intravenous infusions should be checked and refilled if appropriate.
-- During transfer, it is important to have:
-  - a) monitoring directly visible by the anaesthetist;
-  - respiratory equipment including an oxygen tank, connection tubing and a 3L self-inflating reservoir bag connected to the endotracheal tube;
-  - c) intravenous infusions and boluses available of sedatives, inotropes and antihypertensives;
-  - d) a portable cardiac defibrillator.
-- On admission to ITU, all monitoring is recalibrated, the drains are connected to 20cm H<sub>2</sub>O wall suction and a full set of investigations are ordered (including full blood count, urea and electrolytes, coagulation screen, arterial blood gas, electrocardiogram and chest radiograph).
-- There should be a clear hand-over of the patient to the intensive care unit team, including pre-operative findings, the intra-operative procedure and a postoperative plan.
-
-# 6 Describe the standard monitoring in the intensive care unit following cardiac surgery
-
-- Electrocardiogram limb leads and V5.
-- Arterial oxygen saturation.
-- End-tidal carbon dioxide levels.
-
-- Arterial blood pressure (invasive and non-invasive).
-- Central venous pressure.
-- Central (core) and peripheral temperature.
-- Urine output and fluid input.
-- Mediastinal drainage.
-- Pulmonary artery pressure and cardiac output measurements.
-
-# What are the common causes of mediastinal bleeding in the immediate postoperative period?
-
-- Surgical:
-  - a) anastomotic suture lines and cannulation sites;
-  - b) side branches of arterial or venous conduits;
-  - c) sternal sites, including the periosteum, sternal wire holes and bone marrow;
-  - d) raw surfaces, including the internal mammary artery bed, pericardium and thymus.
-
-#### Coagulopathy:
-
-- residual heparin, secondary to inadequate protamine reversal or heparin rebound;
-- thrombocytopaenia, secondary to a low platelet count preoperatively and haemodilution on cardiopulmonary bypass (which can drop platelet counts by 20-50%, especially with long bypass times);
-- c) platelet dysfunction, secondary to pre-operative medications (aspirin, ticlopidine, clopidogrel) and damage caused by cardiopulmonary bypass (especially with deep hypothermia);
-- d) coagulation factor depletion, secondary to pre-operative factors (residual warfarin effect, hepatic dysfunction and von Willebrand disease) and haemodilution with cardiopulmonary bypass and cell salvage;
-- e) fibrinolysis, secondary to pre-operative thrombolytic agents and plasminogen activation on cardiopulmonary bypass.
-
-# 8 What are the principles of managing mediastinal bleeding post-cardiac surgery?
-
-- Assessment to help distinguish surgical causes from coagulopathy:
-  - a) blood tests haemoglobin, activated clotting time (ACT), international normalized ratio (INR), activated partial thromboplastin time ratio (APTTR), platelet count, fibrinogen levels and thrombo-elastogram (TEG);
-
-- b) radiology chest radiograph and echocardiogram (TOE preferably) to check for pleural and pericardial collections;
-- c) drainage rate of bleeding (sudden or gradual, 'dump' when rolled) and patency of tubes;
-- d) haemodynamic status, especially to identify tamponade.
-
-#### • Treatment:
-
-- a) correct hypothermia;
-- b) calcium chloride 1g (10mL of 10%) intravenously if ionised calcium is low (<1.2mmol/L);
-- c) treat hypertension;
-- d) consider increasing the positive end expiratory pressure (PEEP) to 12cm H2O, which increases the intrathoracic pressure to 'tamponade' the bleeding;
-- e) protamine should be given in patients with mediastinal bleeding and an APTTR >1.3 or ACT >110% of baseline. Doses of 25- 100mg should be given slowly depending on the degree of residual heparin effect;
-- f) platelets should be given in patients with mediastinal bleeding and a platelet count <100 x 109 per litre or if platelet dysfunction is indicated on the thrombo-elastogram. One unit of platelets (50mL) should increase the platelet count by x 109 per litre. The standard transfusion dose recommended is 1 unit per 10kg. One pool of platelets contains units of platelets. They are stored at room temperature, can be used for 5 days and should be ABO compatible but do not need to be cross-matched;
-- g) fresh frozen plasma (FFP) should be given in patients with mediastinal bleeding and an INR >1.3. FFP contains all coagulation factors but no platelets. The standard dose is 2-4U (5-10mL/kg), as each unit contains 250mL. It is stored at - 18°C, thawed over 20 minutes and should be used within 2 hours. FFP should be ABO compatible but does not need to be cross-matched. It is also used to treat heparin resistance with anti-thrombin III (ATIII) deficiency. Beriplex® can also be used as a concentrated form of coagulation factors with 500- 1000 units representing 2-4U of FFP;
-- h) cryoprecipitate should be given in patients with mediastinal bleeding and a fibrinogen level <150mg/dL. It contains fibrinogen, Factor VII, Factor VIII and Factor XIII. One pool (200mL) contains five units and should increase the fibrinogen levels by 50mg/dL. The standard dose is 0.1U/kg (1-2 pools
-
-- for a 70kg patient). Cryoprecipitate should be ABO compatible but does not need to be cross-matched;
-- i) blood should be given if the haemoglobin is <8g/dL. One unit of packed red blood cells (300-350mL) should increase the haemoglobin by 1g/dL. Large volumes of stored blood may cause hypocalcaemia, hyperkalaemia and a dilutional coagulopathy. Blood should be ABO compatible and crossmatched;
-- j) cell saver blood, which has been washed of all platelets and coagulation factors;
-- k) desmopressin can be used to increase the release of von Willebrand Factor from endothelial stores to aid platelet function. Some studies have shown its effectiveness in patients taking antiplatelet agents up to the time of surgery;
-- l) urgent mediastinal re-exploration is required for tamponade, haemodynamically significant hypovolaemia or persistent mediastinal bleeding (>500mL/hr for 1 hour, >400mL/hr for 2 hours or >300mL/hr for 3 hours).
-
-#### 9 **What are the common causes of low cardiac output syndrome and sustained hypotension in the immediate postoperative period?**
-
-- Reduced preload, caused by:
-  - a) hypovolaemia, secondary to haemorrhage, polyuria or inadequate fluid replacement;
-  - b) restricted cardiac filling, secondary to tamponade or tension pneumothorax;
-  - c) tachyarrhythmias, which reduce ventricular diastolic filling time and loss of atrial transport (in patients with atrial fibrillation);
-  - d) vasodilation (see below).
-
-### • Impaired myocardial contractility, secondary to:
-
-- a) negative inotropes, such as calcium channel blockers and bblockers;
-- b) hypoxia, hypercarbia, acidosis, hyperkalaemia and hypothermia;
-- c) myocardial stunning, caused by cardiopulmonary bypass and pre-operative myocardial damage;
-- d) coronary ischaemia (coronary or conduit spasm or thrombosis);
-- e) mechanical causes, such as incomplete valve repair, systolic anterior motion of the mitral valve and valve thrombosis.
-
-### • Reduced afterload, caused by:
-
-- a) rewarming;
-- b) vasoplegia, secondary to cardiopulmonary bypass-induced systemic inflammatory response syndrome (SIRS);
-- c) protamine;
-- d) blood products;
-- e) glyceryl trinitrate and sodium nitroprusside;
-- f) sepsis;
-- g) anaphylaxis.
-- Excessive afterload, caused by hypothermia, acidosis, pressors and pain can also cause low cardiac output by increasing the workload of the heart.
-- The most serious causes of low cardiac output in the immediate postoperative period include massive bleeding, tamponade and myocardial ischaemia. The treatment of all three causes may require returning to the operating theatre immediately.
-- It is also important to consider pre-operative (recent myocardial infarction, pulmonary hypertension) and intra-operative causes (poor myocardial protection, residual valvular regurgitation and incomplete de-airing) that may be contributing to postoperative low cardiac output syndrome.
-
-### 10 **What are the principles in managing low cardiac output syndrome?**
-
-- The ideal goal in managing low cardiac output syndrome is to identify and treat the underlying aetiology and achieve a cardiac index >2.5L/min/m2.
-- If cardiac output monitoring is not available, the following can be used as markers of adequate organ perfusion:
-  - a) mean arterial blood pressure >70mmHg;
-  - b) urine output >1mL/kg/hr;
-  - c) skin temperature >36.5°C;
-  - d) base excess >-2mmol/L.
-
-#### • Optimise preload:
-
-a) fluid resuscitation to achieve right and left atrial filling pressures of 10-14mmHg. Some patients require high filling pressures, such as those with left ventricular hypertrophy, diastolic dysfunction, pulmonary hypertension and tricuspid regurgitation;
-
-- b) urgently treat tension pneumothorax and cardiac tamponade with needle thoracocentesis and re-sternotomy, respectively;
-- c) anti-arrhythmics and electrical cardioversion to restore sinus rhythm and aid rate control in the presence of tachyarrhythmias.
-- Optimise myocardial contractility:
-  - a) treat acidosis, hypoxia, hypercarbia and hyperkalaemia;
-  - b) support the myocardium with positive inotropic agents such as epinephrine, dopamine and milrinone;
-  - c) coronary vasodilators such as glyceryl trinitrate, may be required for coronary artery or arterial conduit spasm;
-  - d) reoperation for occluded coronary artery bypass grafts or severe valvular regurgitation may be necessary.
-- Optimise afterload with vasodilators (glyceryl trinitrate, sodium nitroprusside) or vasoconstrictors (noradrenaline, vasopressin) depending on the underlying aetiology.
-- Increase the heart rate if the patient has bradycardia or heart block, using the epicardial pacing leads placed at surgery.
-- Intra-aortic balloon pumps should also be considered as an efficient method of improving myocardial oxygen supply without increasing myocardial oxygen consumption.
-- In certain situations, left ventricular assist devices are required to support the heart until the myocardium recovers.
-
-#### 11 **What are the causes of right ventricular failure following cardiac surgery?**
-
-- Right ventricular dysfunction, caused by:
-  - a) poor myocardial protection during cardiopulmonary bypass;
-  - b) right ventricular stunning following ischaemia reperfusion injury;
-  - c) ischaemia, secondary to right coronary artery disease or a graft problem;
-  - d) pre-operative right ventricular dysfunction.
-- Pulmonary hypertension, secondary to:
-  - a) left heart disease, such as severe mitral regurgitation or left ventricular failure;
-  - b) pulmonary disease;
-  - c) pulmonary embolism;
-  - d) adult respiratory distress syndrome (ARDS).
-
-### 12 **What are the principles of management of patients with right ventricular failure post-cardiac surgery?**
-
-- Optimise right ventricular preload:
-  - a) volume;
-  - b) atrioventricular sequential pacing;
-  - c) restore sinus rhythm, if possible.
-- Optimise right ventricular contractility:
-  - a) epinephrine;
-  - b) phosphodiesterase inhibitor, such as milrinone.
-- Optimise right ventricular afterload:
-  - a) correct hypoxia, hypercarbia and acidosis, which cause pulmonary vasoconstriction;
-  - b) phosphodiesterase inhibitor, such as sildenafil or milrinone;
-  - c) inhaled nitric oxide (20-40 parts per million);
-  - d) nesiritide (recombinant brain natriuretic peptide);
-  - e) right ventricular assist device.
-
-### 13 **What are the indications for an intra-aortic balloon pump in the peri-operative period with regards to cardiac surgery?**
-
-- Elective in patients with significantly impaired pre-operative cardiac function.
-- Peri-operative ischaemia.
-- Unloading of the left ventricle following a mechanical complication of myocardial infarction, such as a ventricular septal rupture or acute myocardial regurgitation.
-- Low cardiac output syndrome, unresponsive to inotropic support.
-- Acute myocardial deterioration, as a bridge to revascularization, left ventricular assist device or transplantation.
-- Contra-indications to intra-aortic balloon pump insertion include the presence of:
-  - a) aortic regurgitation;
-  - b) aortic dissection;
-  - c) severe peripheral atherosclerosis.
-
-#### 14 Describe the North American Society of Pacing and Electrophysiology / British Pacing and Electrophysiology Group (NASPE/BPEG) five-position pacemaker classification system
-
-- I: chamber paced O (none), A (atrium), V (ventricle), D (dual A+V),
-  S (single A or V).
-- II: chamber sensed O (none), A (atrium), V (ventricle), D (dual A+V), S (single A or V).
-- III: response to sensing O (none), T (triggered), I (inhibited), D (dual).
-- IV: programmability O (none), R (rate modulation).
-- V: multisite pacing O (none), A (atrium), V (ventricle), D (dual A+V).
-
-# 15 What are the typical temporary epicardial pacemaker settings following cardiac surgery?
-
-- Rate 90 bpm.
-- Atrial output 5mA.
-- Atrial sensitivity 1.0mV.
-- Ventricular output 5mA.
-- Ventricular sensitivity 2.0mV.
-- Atrioventricular delay (AVD) 150msec.
-- Mode DDD (see above).
-
-#### 16 What are the different ventilation modes available?
-
-- Volume-preset modes:
-  - a) assist control ventilation (AC), where the ventilator delivers a breath triggered by the patient's respiratory effort or at preset intervals if no breath occurs;
-  - intermittent mandatory ventilation (IMV), where the patient receives positive pressure ventilation at a preset tidal volume and respiratory rate;
-  - c) synchronised intermittent mandatory ventilation (SIMV), where the patient breathes spontaneously but at preset intervals the next spontaneous breath is augmented by the ventilator to a preset tidal volume.
-
-#### Pressure-preset modes:
-
- a) pressure controlled ventilation (PCV), where the peak airway pressure and inspiratory time are set at a fixed respiratory rate; b) pressure support ventilation (PS), where the patient's inspiratory effort is augmented by a selected level of inspiratory pressure. Hence, the patient sets the respiratory rate, flow rate and inspiratory time.
-
-# 17 What are the typical ventilator settings in a patient following cardiac surgery?
-
-- Synchronized intermittent mandatory ventilation (SIMV) or assist control (AC).
-- Inspired oxygen concentration (FiO<sub>2</sub>) is initially set at 100% following transfer and is then progressively weaned to 40% whilst maintaining the PaO<sub>2</sub> >10kPa.
-- Tidal volume (TV) 6-10mL/kg. Higher tidal volumes should be used with caution as they can cause over-stretching of an anastomosed internal mammary artery.
-- Respiratory rate (RR) breaths/minute.
-- Minute volume (= respiratory rate x tidal volume) 100-120mL/kg/min.
-  If the patient develops hypercapnia, it can be treated by increasing the minute volume (by raising either the respiratory rate or the tidal volume).
-- Positive end expiratory pressure (PEEP) 5cmH<sub>2</sub>O. This helps to reduce atelectasis. Higher levels can be used to help 'tamponade' mediastinal bleeding (up to 12cm H<sub>2</sub>O) but should be used with caution as these levels can impair venous return and ventricular function.
-- I:E ratio 1:2. In patients with chronic obstructive pulmonary disease, a ratio of 1:3 may help to reduce the risk of air trapping.
-- Peak inflation pressures <35cmH<sub>2</sub>O. Higher peak airway pressures suggest airway resistance, secondary to a mucous plug, a kinked endotracheal tube, bronchospasm or coughing.
-
-# 18 What are the exclusion criteria for fast-tracking patients to early extubation following cardiac surgery?
-
-- Poor left ventricular function, recent myocardial infarction or pulmonary oedema.
-- Redo sternotomy (previous cardiac surgery).
-- Severe respiratory dysfunction (FEV<sub>1</sub> <75% of predicted).</li>
-- Severe pulmonary hypertension (systolic pulmonary artery pressure >60mmHg).
-- Severe renal or hepatic insufficiency.
-- Previous cerebrovascular accident.
-
-- Problematic intubation.
-- Prolonged operation or deep hypothermic circulatory arrest.
-- High-dose inotropic requirement intra-operatively.
-- On-going mediastinal bleeding.
-- If patients are deemed appropriate for fast tracking for early extubation, shorter-acting anaesthetic agents are used, and early analgesia and rapid weaning of inotropes are employed.
-- If the patient is haemodynamically stable, with good ventilation parameters and mediastinal bleeding is under control, the aim is to extubate within hours.
-
-## 19 What are the disadvantages of prolonged ventilation?
-
-- Cardiovascular side effects of sedatives and narcotics, necessitating increased pressor and volume requirements.
-- Impaired right ventricular function from positive pressure ventilation.
-- Ventilator-associated morbidity (such as pneumonia).
-- Cost.
-
-## 20 What are the disadvantages of early extubation?
-
-- Increased work of breathing, resulting in increased myocardial oxygen demand.
-- Increased pain and higher metabolism, resulting in increased cardiac work.
-
-# 21 What are the criteria for extubation following cardiac surgery?
-
-- Cardiac:
-  - a) cardiac index >2.2L/min/m<sup>2</sup>;
-  - b) mean arterial blood pressure >70mmHg;
-  - c) no haemodynamically significant arrhythmias.
-
-#### Respiratory:
-
-- a) partial pressure of oxygen in arterial blood (PaO<sub>2</sub>) >10kPa and arterial oxygen saturation (SaO<sub>2</sub>) >92% with an FiO<sub>2</sub> <50%;</li>
-- b) PEEP <5cm H<sub>2</sub>O;
-- c) respiratory rate <20 per minute;
-- d) pressure support <10cm  $H_2O$ .
-
-- Mediastinal drainage <50mL/hr with haemoglobin >8g/dL.
-- Urine output >1mL/kg/hr.
-- Neurological:
-  - a) awake with stimulation and no residual neuromuscular blockade;
-  - b) able to lift head off the bed;
-  - c) able to cough and clear secretions to maintain own airway.
-- Core temperature >36°C.
-- Once the sedation has been stopped, the patient's ventilator settings are maintained with an FiO<sub>2</sub> at 50% and PEEP of 5mmHg, and the IMV rate is reduced by two breaths every 30 minutes checking arterial blood gases and then removing the endotracheal tube if the patient maintains cardiorespiratory stability. Alternatively, a trial of continuous positive airway pressure (CPAP) with the endotracheal tube *in situ* is performed to assess whether the patient is able to self-ventilate.
-- Poor prognostic factors for weaning include:
-  - a) tidal volume <5mL/kg;
-  - b) minute volume <10L/min;
-  - c) maximum inspiratory pressure <-20cm H<sub>2</sub>O;
-  - d) shallow breathing index (respiratory rate/tidal volume) >100.
-
-# 22 What are the common causes of hypoxia and respiratory impairment in the immediate postoperative period?
-
-- Poor gas exchange:
-  - a) atelectasis, caused by:
-    - i) general anaesthesia;
-    - ii) compression of the lung during left internal mammary artery harvesting;
-    - iii) reduced surfactant production during cardiopulmonary bypass;
-    - iv) inadequate lung expansion following extubation due to pain;
-    - v) retained secretions or sputum plug, associated with pre-operative smoking or pneumonia;
-
-- b) pulmonary oedema, caused by:
-  - i) left ventricular dysfunction;
-  - ii) systemic inflammatory response caused by cardiopulmonary bypass;
-  - iii) massive transfusion of blood products;
-- c) pleural effusion, secondary to:
-  - i) heart failure;
-  - ii) undrained postoperative blood;
-- d) bronchospasm secondary to:
-  - i) pre-operative asthma or chronic obstructive pulmonary disease (COPD);
-  - ii) medications, such as b-blockers;
-  - iii) anaphylaxis;
-- e) pneumothorax;
-- f) diaphragmatic dysfunction, secondary to phrenic nerve injury caused by:
-  - i) iced cold slush;
-  - ii) direct trauma to the phrenic nerve during pericardiectomy or pericardial window formation;
-  - iii) injury during harvesting of the internal mammary artery.
-- Inadequate oxygen delivery:
-  - a) low inspired oxygen concentration (FiO2);
-  - b) inadequate ventilator settings, such as low PEEP or ventilator malfunction;
-  - c) misplaced endotracheal tube;
-  - d) low cardiac output syndrome;
-  - e) anaemia;
-  - f) increased oxygen demand with shivering or sepsis.
-
-#### 23 **What are the principles of management of patients with respiratory impairment post-cardiac surgery?**
-
-- Assessment to identify underlying cause:
-  - a) respiratory examination inspect, palpate, percuss and auscultate;
-  - b) arterial blood gases pH, PaO2, PaCO2, base deficit;
-  - c) chest radiograph lung pathology, endotracheal tube placement;
-  - d) ventilator settings FiO2, PEEP, RR, TV, pressure support, peak airway pressures.
-
-#### Treatment for specific aetiology:
-
-- a) atelectasis:
-  - i) chest physiotherapy:
-  - ii) CPAP or increase PEEP;
-  - iii) antibiotics;
-  - iv) bronchoscopic clearance of secretions and plugs;
-- b) pulmonary oedema:
-  - i) diuresis for cardiogenic aetiology;
-  - ii) for non-cardiogenic aetiology, use an adult respiratory distress syndrome (ARDS) protocol with low tidal volumes to reduce the risk of barotrauma. Prone ventilation and nitric oxide may also be needed:
-- c) pleural effusion thoracocentesis or chest drain;
-- d) bronchospasm nebulisers ( $\beta$ -agonists and ipratropium bromide);
-- e) pneumothorax chest drain;
-- f) phrenic nerve injury supportive care with chest physiotherapy or diaphragmatic plication in severe cases;
-- g) inadequate oxygen delivery or ventilation:
-  - i) increase FiO<sub>2</sub> or PEEP for a low PaO<sub>2</sub>;
-  - ii) increase RR or TV for a low PaCO<sub>2</sub>;
-  - iii) manual ventilation for ventilator malfunction;
-  - iv) reposition endotracheal tube (ideally 2cm above the carina);
-  - v) low cardiac output syndrome optimise preload, contractility and afterload;
-  - vi) anaemia give blood if haemoglobin is <8g/dL.
-
-# 24 What are the criteria that suggest a diagnosis of adult respiratory distress syndrome (ARDS)?
-
-- Acute onset of severe hypoxia refractory to oxygen therapy, with a PaO<sub>2</sub>: FiO<sub>2</sub> ratio of <200mmHg.</li>
-- Bilateral infiltrates on the chest radiograph.
-- Absence of cardiogenic pulmonary oedema (pulmonary capillary wedge pressure <18mmHg).</li>
-- Reduced pulmonary compliance.
-- Predisposing aetiology such as cardiopulmonary bypass, sepsis, aspiration, trauma and fat embolism.
-
-### 25 **What are the effects of cardiopulmonary bypass on postoperative fluid balance?**
-
-- Excess fluid in the interstitial space secondary to:
-  - a) increased capillary permeability caused by systemic inflammatory response;
-  - b) vasodilation, caused by rewarming;
-  - c) reduced intravascular oncotic pressure, caused by haemodilution of plasma proteins and increased capillary leak.
-- Increased total body fluid secondary to:
-  - a) cardiopulmonary bypass prime volume (1.5-2.0L);
-  - b) activation of the renin-angiotensin system, resulting in water retention;
-  - c) anti-diuretic hormone production, stimulated by intravascular hypovolaemia (excess fluid in the interstitial space), resulting in water retention;
-  - d) stress response producing cortisol, resulting in sodium and water retention.
-
-### 26 **What are the risk factors for renal impairment in the immediate postoperative period?**
-
-- Pre-operative risk factors:
-  - a) pre-operative creatinine >150mmol/L;
-  - b) increasing age;
-  - c) left ventricular dysfunction;
-  - d) emergency operations;
-  - e) low cardiac output states (post-MI or mechanical complications of MI);
-  - f) hypertension;
-  - g) diabetes mellitus;
-  - h) renal artery disease;
-  - i) sepsis;
-  - j) pre-operative nephrotoxins, such as contrast dye, gentamicin, non-steroidal anti-inflammatory drugs and angiotensin-converting enzyme inhibitors.
-
-- Intra-operative risk factors:
-  - a) prolonged cardiopulmonary bypass time;
-  - b) periods of systemic hypoperfusion or circulatory arrest;
-  - c) aprotinin therapy.
-- Postoperative risk factors:
-  - a) acute tubular necrosis caused by hypovolaemia or low cardiac output syndrome;
-  - b) excessive vasoconstriction;
-  - c) sepsis;
-  - d) nephrotoxins (as above).
-- Normal values of renal function vary depending on the laboratory:
-  - a) serum creatinine 60-120mmol/L;
-  - b) serum urea 3.5-6.5mmol/L;
-  - c) creatinine clearance 90-140mL/min;
-  - d) glomerular filtration rate 90-140mL/min.
-- Creatinine clearance can be measured with 24-hour urine collection or estimated using the Cockcroft-Gault formula:
-  - a) actual creatinine clearance = UCr x Uvol PCr x 24 x 60
-  - b) estimated creatinine clearance for men
-
-$$= \frac{\text{(140-age) x wt in kg}}{72 \text{ x P}_{\text{Cr}}}$$
-
-c) estimated creatinine clearance for women
-
-$$= \frac{0.85 \text{ x (140-age) x wt in kg}}{72 \text{ x P}_{Cr}}$$
-
-where UCr = urinary creatinine concentration, Uvol = urine volume over 24 hours, PCr = plasma creatinine (in mg/dL).
-
-### 27 **What are the principles of managing established renal failure in the immediate postoperative period?**
-
-- Identify and treat the underlying cause, if feasible (consider a renal ultrasound).
-- Optimise the patient's haemodynamic status, especially to restore the pre-operative mean arterial pressure.
-
-- Monitor daily weights and fluid balance.
-- Monitor electrolytes, acid-base status and glucose levels.
-- Eliminate nephrotoxic drugs.
-- Adjust drugs that are excreted by the kidney, such as digoxin and antibiotics.
-- Consider removing the urinary catheter if the patient is anuric.
-- Renal replacement therapy to treat hyperkalaemia, acidosis, volume overload or uraemia.
-
-## 28 What are the principles of renal replacement therapy?
-
-- There are two common techniques used in patients after cardiac surgery:
-  - a) haemodialysis. Blood and crystalloid fluid flow on either side of a semi-permeable membrane, thereby allowing solutes to be removed by diffusion, with molecules moving from a higher to a lower concentration. Larger molecules are not efficiently removed as smaller molecules move faster. Fluid in the dialysis compartment moves in a counter-current direction, thereby maintaining a concentration gradient;
-  - haemofiltration. Water is pushed across a filter by a pressure gradient and carries dissolved solutes with it (solute drag).
-     Larger molecules (up to 20,000MW) are removed at a similar rate.
-- Both require double-lumen central venous access.
-- Although arteriovenous renal replacement therapy is also possible, it is rarely performed in patients with a low cardiac output state as it is dependent on arterial pressure.
-- As circulating inflammatory mediators are also removed from the plasma, the patient may not exhibit a pyrexial reaction in the presence of sepsis.
-- Although renal replacement therapy can be performed without anticoagulation, heparin is usually used to reduce the risk of the filter or membrane clotting.
-- In patients with hypotension, renal replacement therapy may not be possible because of large fluid shifts.
-
-# 29 What are the causes of hypothermia during cardiac surgery?
-
-- Peripheral vasodilation, caused by anaesthetic agents.
-- Reduced metabolic heat production.
-
-- Increased heat loss.
-- Thermoregulatory threshold lowered by 3-4°C during general anaesthesia.
-- Neuromuscular blocking drugs prevent shivering.
-- Cooling effect of cold anaesthetic gases.
-- Cooling effect of cold intravenous fluid infusion.
-- Active cooling on cardiopulmonary bypass using a heat exchanger.
-
-# 30 What are the effects of hypothermia in the immediate postoperative period following cardiac surgery?
-
-- Vasoconstriction, causing increased cardiac afterload and therefore myocardial oxygen consumption.
-- Increased risk of arrhythmias.
-- Coagulopathy.
-- Left shift of the oxygen dissociation curve, thereby impairing tissue oxygen delivery.
-- Increased postoperative stress response, producing hyperglycaemia.
-
-#### Recommended reading
-
-- Westaby S, Pillai R, Parry A, O'Regan D, Giannopoulos N, Grebenik K, Sinclair M, Fisher A. Does modern cardiac surgery require conventional intensive care? Eur J Cardiothorac Surg 1993; 7:.
-- 2. Fry AC, Farrington K. Management of acute renal failure. *Postgrad Med J* 2006; 82:.
-- Field ML, Rengarajan A, Khan O, Spyt T, Richens D. Preoperative intra-aortic balloon pumps in patients undergoing coronary artery bypass grafting. *Cochrane Database* Syst Rev 2007; 24: CD004472.
+# Cardiac Anaesthesia and Intensive Care Management
+
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Anaesthetic Monitoring and Principles
+
+*   **Standard monitoring:** ECG (limb leads + V5), arterial oxygen saturation, end-tidal CO₂, invasive/non-invasive arterial BP, CVP, core/peripheral temperature, urine output, cardiac output (Swan-Ganz, LiDCO), pulmonary artery pressure, TOE.
+*   **Pre-operative preparation:** Fast 6–8 hours, premedication (benzodiazepine + opiate) to reduce anxiety-induced tachycardia/hypertension.
+*   **Three components of anaesthesia:**
+    *   **Hypnosis:** propofol (IV), isoflurane (inhaled)
+    *   **Analgesia:** fentanyl or remifentanil (preferred over morphine — fewer cardiac effects, short-acting)
+    *   **Muscle relaxation:** non-depolarising (vecuronium, rocuronium — 2–3 min onset, 20–60 min duration, reversed by neostigmine) or depolarising (suxamethonium — 5–10 min, not reversible)
+*   **Goal:** Minimise myocardial oxygen consumption by controlling heart rate, BP, preload, and afterload.
+
+### ASA Classification
+
+| Grade | Description |
+|-------|-------------|
+| I | Healthy patient |
+| II | Mild systemic disease, no functional limitation |
+| III | Moderate systemic disease with definite functional limitation |
+| IV | Severe systemic disease, constant threat to life |
+| V | Moribund, not expected to survive 24 hours |
+
+### Intubation Grades
+
+*   **Cormack-Lehane:** I (vocal cords visible), II (partially visible), III (only epiglottis), IV (neither visible)
+*   **Mallampati (pre-op assessment):** I (faucial pillars, soft palate, uvula visible), II (pillars + soft palate), III (only soft palate), IV (none visible)
+
+### Transfer to ICU and Monitoring
+
+*   **Before transfer:** Haemodynamically stable, no bleeding, infusions checked, portable monitoring, oxygen tank, self-inflating bag, IV boluses available, defibrillator.
+*   **ICU monitoring:** ECG, SpO₂, EtCO₂, arterial BP, CVP, temperature, urine output, mediastinal drainage, cardiac output, pulmonary artery pressure.
+
+### Mediastinal Bleeding
+
+*   **Surgical causes:** Anastomotic suture lines, cannulation sites, conduit side branches, sternal sites, raw surfaces (IMA bed, pericardium, thymus).
+*   **Coagulopathy causes:** Residual heparin, thrombocytopenia (CPB reduces platelets 20–50%), platelet dysfunction (aspirin, clopidogrel, CPB), factor depletion (warfarin, liver disease, haemodilution), fibrinolysis (thrombolytics, CPB).
+*   **Management thresholds:**
+    *   **Protamine:** if APTTR >1.3 or ACT >110% baseline
+    *   **Platelets:** if <100 × 10⁹/L or TEG dysfunction — 1 unit/10 kg (increases count by 7–10 × 10⁹/L)
+    *   **FFP:** if INR >1.3 — 2–4 units (5–10 mL/kg)
+    *   **Cryoprecipitate:** if fibrinogen <150 mg/dL — 0.1 U/kg (1–2 pools)
+    *   **RBCs:** if Hb <8 g/dL — 1 unit increases Hb by 1 g/dL
+    *   **Re-exploration:** tamponade, haemodynamic instability, or bleeding >500 mL/hr ×1 h, >400 mL/hr ×2 h, or >300 mL/hr ×3 h
+
+### Low Cardiac Output Syndrome
+
+*   **Causes:**
+    *   Reduced preload: hypovolaemia, tamponade, tension pneumothorax, tachyarrhythmias
+    *   Impaired contractility: negative inotropes, hypoxia/acidosis, stunning, ischaemia, mechanical (valve dysfunction)
+    *   Altered afterload: vasoplegia (SIRS, rewarming, protamine) or excessive afterload (hypothermia, pressors)
+*   **Management:**
+    *   Target cardiac index >2.5 L/min/m²
+    *   Optimise preload (filling pressures 10–14 mm Hg)
+    *   Inotropes: epinephrine, dopamine, milrinone
+    *   Afterload management: vasodilators (GTN, nitroprusside) or vasoconstrictors (noradrenaline, vasopressin)
+    *   IABP for refractory cases
+
+### Right Ventricular Failure
+
+*   **Causes:** Poor myocardial protection, stunning, ischaemia (RCA), pre-existing RV dysfunction, pulmonary hypertension (left heart disease, pulmonary disease, PE, ARDS)
+*   **Management:**
+    *   Preload: volume, AV sequential pacing, sinus rhythm
+    *   Contractility: epinephrine, milrinone
+    *   Afterload: correct hypoxia/hypercarbia/acidosis, sildenafil, milrinone, inhaled nitric oxide (20–40 ppm), nesiritide, RVAD
+
+### Intra-Aortic Balloon Pump (IABP)
+
+*   **Indications:** Elective (poor pre-op function), peri-operative ischaemia, mechanical complications of MI, low cardiac output refractory to inotropes, bridge to revascularisation/VAD/transplant
+*   **Contraindications:** Aortic regurgitation, aortic dissection, severe peripheral atherosclerosis
+
+### Pacemaker Classification (NASPE/BPEG)
+
+| Position | Meaning | Codes |
+|----------|---------|-------|
+| I | Chamber paced | O, A, V, D, S |
+| II | Chamber sensed | O, A, V, D, S |
+| III | Response to sensing | O, T, I, D |
+| IV | Programmability | O, R |
+| V | Multisite pacing | O, A, V, D |
+
+*   **Typical temporary settings:** Rate 90 bpm, atrial output 5 mA, atrial sensitivity 1.0 mV, ventricular output 5 mA, ventricular sensitivity 2.0 mV, AVD 150 ms, mode DDD.
+
+### Ventilation
+
+*   **Modes:** Volume-preset (AC, IMV, SIMV); pressure-preset (PCV, PS)
+*   **Typical settings:** SIMV or AC, FiO₂ 100% → wean to 40%, TV 6–10 mL/kg, RR 12–18/min, minute volume 100–120 mL/kg/min, PEEP 5 cmH₂O, I:E 1:2, peak pressure <35 cmH₂O
+*   **Fast-tracking exclusion:** Poor LV function, redo sternotomy, severe respiratory dysfunction (FEV₁ <75%), severe pulmonary hypertension (PAP >60 mm Hg), severe renal/hepatic insufficiency, CVA, difficult intubation, prolonged operation, high-dose inotropes, ongoing bleeding
+
+### Extubation Criteria
+
+*   **Cardiac:** CI >2.2 L/min/m², MAP >70 mm Hg, no significant arrhythmias
+*   **Respiratory:** PaO₂ >10 kPa, SaO₂ >92% on FiO₂ <50%, PEEP <5 cmH₂O, RR <20/min, pressure support <10 cmH₂O
+*   **Other:** Mediastinal drainage <50 mL/hr, Hb >8 g/dL, urine output >1 mL/kg/hr, awake, able to lift head, cough, core temperature >36°C
+*   **Poor weaning predictors:** TV <5 mL/kg, minute volume <10 L/min, max inspiratory pressure <-20 cmH₂O, shallow breathing index >100
+
+### Respiratory Impairment
+
+*   **Causes of poor gas exchange:** Atelectasis (anaesthesia, IMA harvesting, reduced surfactant, pain, secretions), pulmonary oedema (cardiogenic, SIRS, transfusion), pleural effusion, bronchospasm, pneumothorax, phrenic nerve injury (iced slush, trauma, IMA harvest)
+*   **ARDS criteria:** Acute onset, PaO₂:FiO₂ <200 mm Hg, bilateral infiltrates, no cardiogenic oedema (PCWP <18 mm Hg), reduced compliance, predisposing factor (CPB, sepsis, aspiration, trauma)
+
+### Fluid Balance and Renal Function
+
+*   **CPB effects:** Increased capillary permeability, vasodilation, reduced oncotic pressure → interstitial fluid excess; prime volume (1.5–2.0 L), RAAS activation, ADH, cortisol → total body fluid increase.
+*   **Renal risk factors:** Pre-op (Cr >150 μmol/L, age, LV dysfunction, emergency, low output, HTN, DM, nephrotoxins), intra-op (prolonged CPB, hypoperfusion, aprotinin), post-op (ATN, vasoconstriction, sepsis)
+*   **Cockcroft-Gault formula:**
+    *   Men: $\frac{(140 - \text{age}) \times \text{wt (kg)}}{72 \times P_{\text{Cr}}}$
+    *   Women: $0.85 \times \frac{(140 - \text{age}) \times \text{wt (kg)}}{72 \times P_{\text{Cr}}}$
+*   **Renal replacement therapy:** Haemodialysis (diffusion) or haemofiltration (convection — removes larger molecules up to 20,000 MW); requires double-lumen central access
+
+### Hypothermia
+
+*   **Causes:** Anaesthetic-induced vasodilation, reduced metabolism, increased heat loss, lowered thermoregulatory threshold (3–4°C), neuromuscular blockade prevents shivering, cold gases/IV fluids, active CPB cooling
+*   **Effects:** Vasoconstriction (↑ afterload, ↑ MVO₂), arrhythmias, coagulopathy, left-shifted ODC (↓ tissue O₂ delivery), ↑ stress response (hyperglycaemia)
+
+### Postoperative Complications
+
+*   **Hypertension causes:** Anxiety/pain, inotropes, hypothermia, hyperdynamic syndrome (post-AVR/CABG), abnormal baroreceptors, autonomic neuropathy
+*   **Acidosis:** Metabolic (hypoperfusion → lactic acidosis, renal failure, sepsis, hyperglycaemia) or respiratory (CO₂ retention)
+*   **Hyperkalaemia:** Excess K⁺ administration, K⁺-sparing diuretics, ACEI/ARB, renal failure, tissue ischaemia. Treatment: calcium gluconate, insulin/dextrose, β-agonist, furosemide, dialysis
+*   **Hypokalaemia:** Diuresis, insulin, alkalosis, NG drainage. Treatment: K⁺ supplementation, K⁺-sparing agents
+*   **Hyponatraemia:** Hypervolaemic (excess 5% dextrose, renal failure), euvolaemic (SIADH), hypovolaemic (thiazides, ACEI, diarrhoea)
+*   **Hypernatraemia:** Water depletion (diabetes insipidus, diarrhoea), sodium excess (normal saline), drugs
+*   **Oliguria:** Pre-renal (hypovolaemia, low CO, renal artery disease), renal (pre-existing disease, nephrotoxins, CPB, sepsis), post-renal (catheter blockage)
+
+### Enteral Feeding
+
+*   **Requirements:** 25 kcal/kg/day (catabolic: 30 kcal/kg/day)
+*   **Start:** If not extubated or eating within 48 hours
+*   **Renal failure:** Low-protein feeds (except on RRT → high-protein), high-energy low-volume, low-electrolyte
+
+### Sternal Wound Infection
+
+*   **Prevention:** Antibiotic prophylaxis (cefuroxime or vancomycin for MRSA)
+*   **Superficial:** Drainage, VAC pump
+*   **Deep/mediastinitis:** Debridement, VAC or irrigation, antibiotics, reconstruction (sternal rewiring, pectoral flaps, latissimus dorsi, rectus abdominis, omentum) after infection controlled
+
+### Anticoagulation (AHA Guidelines)
+
+| Indication | Target INR |
+|------------|-----------|
+| Coronary endarterectomy | 2.0–3.0 |
+| Atrial fibrillation | 2.0–3.0 |
+| Mechanical aortic valve | 2.0–3.0 |
+| Mechanical mitral valve | 2.5–3.5 |
+| Bioprosthetic valve | Aspirin alone, or warfarin 3 months (INR 2.0–3.0) then aspirin |
+
+### Secondary Prevention of CAD
+
+*   **Aspirin:** Antiplatelet
+*   **Statin:** Reduces cholesterol deposition
+*   **β-blocker:** Reduces LV work (contractility, afterload)
+*   **ACEI:** Reduces afterload, promotes reverse remodelling
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 1. Anaesthetic Monitoring and Principles</summary><div class="details-content">
+
+#### Monitoring During Cardiac Anaesthesia
+
+*   Electrocardiogram — limb leads and V5
+*   Arterial oxygen saturations
+*   End-tidal carbon dioxide levels
+*   Arterial blood pressure (invasive and non-invasive)
+*   Central venous pressure
+*   Central (core) and peripheral temperature
+*   Urine output
+*   Cardiac output — invasive (Swan-Ganz catheter) and non-invasive (LiDCO)
+*   Pulmonary artery pressure
+*   Transoesophageal echocardiogram
+
+#### Principles of Cardiac Anaesthesia
+
+**Pre-operative preparation:**
+Prior to arrival in the anaesthetic room, most elective patients have fasted for **6–8 hours** and have been given a premedication (e.g., benzodiazepine such as temazepam and an opiate such as morphine) to reduce anxiety-induced tachycardia and hypertension, and to facilitate analgesia.
+
+**Three components of anaesthesia:**
+
+| Component | Agents |
+|-----------|--------|
+| **Hypnosis** (reversible non-awareness, amnesia) | IV sedatives (propofol), inhaled anaesthetic agents (isoflurane) |
+| **Analgesia** (reduce pain response) | Fentanyl or remifentanil (preferred over morphine — fewer cardiac side effects, short-acting) |
+| **Muscle relaxation** | Non-depolarising (vecuronium, rocuronium) — competitive AChR inhibitors, onset 2–3 min, duration 20–60 min, reversed by neostigmine; Depolarising (suxamethonium) — non-competitive, onset rapid, duration 5–10 min, not reversible |
+
+**Conduct of anaesthesia — three phases:**
+
+| Phase | Hypnosis | Analgesia | Muscle Relaxation |
+|-------|----------|----------|-------------------|
+| **Induction** | Propofol | Fentanyl/remifentanil | Suxamethonium |
+| **Maintenance** | Propofol + isoflurane | Fentanyl/remifentanil | Vecuronium/rocuronium |
+| **Reversal** | — | — | Neostigmine |
+
+**Key principle:** Minimise myocardial oxygen consumption by controlling heart rate and blood pressure, and optimising preload and afterload. This keeps myocardial work to a minimum in patients with cardiac disease.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 2. Pre-operative Assessment: ASA and Intubation Grades</summary><div class="details-content">
+
+#### American Society of Anesthesiologists (ASA) Classification
+
+| Grade | Description |
+|-------|-------------|
+| I | Healthy patient |
+| II | Mild systemic disease but no functional limitation |
+| III | Moderate systemic disease with definite functional limitation |
+| IV | Severe systemic disease with constant threat to life |
+| V | Moribund patient, not expected to survive 24 hours with or without surgery |
+
+#### Intubation Grades (Cormack-Lehane)
+
+Determined by the degree to which the vocal cords and upper airway can be visualised at intubation; guides future anaesthetists to the degree of difficulty:
+
+| Grade | Finding |
+|-------|---------|
+| I | Vocal cords visible |
+| II | Vocal cords partially visible |
+| III | Vocal cords not visible; only epiglottis seen |
+| IV | Vocal cords and epiglottis not visible |
+
+#### Mallampati Classification (Pre-operative Assessment)
+
+Assessed by asking the patient to open their mouth wide:
+
+| Class | Structures Visible |
+|-------|-------------------|
+| I | Faucial pillars, soft palate, and uvula |
+| II | Faucial pillars and soft palate |
+| III | Only the soft palate |
+| IV | None of the above soft tissues visible |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 3. Transfer to Intensive Care Unit and Standard Monitoring</summary><div class="details-content">
+
+#### Considerations for Transfer from Operating Room to ICU
+
+**Before transfer:**
+*   Patient monitored (arterial pressure, CVP, oxygen saturation, cardiac rate and rhythm)
+*   Haemodynamically stable and not bleeding
+*   All intravenous infusions checked and refilled if appropriate
+
+**Equipment during transfer:**
+*   Monitoring directly visible by anaesthetist
+*   Respiratory equipment: oxygen tank, connection tubing, 3L self-inflating reservoir bag connected to endotracheal tube
+*   IV infusions and boluses of sedatives, inotropes, and antihypertensives
+*   Portable cardiac defibrillator
+
+**On admission to ICU:**
+*   All monitoring recalibrated
+*   Drains connected to **20 cmH₂O** wall suction
+*   Investigations ordered: full blood count, urea and electrolytes, coagulation screen, arterial blood gas, ECG, chest radiograph
+*   Clear handover to ICU team: pre-operative findings, intra-operative procedure, post-operative plan
+
+#### Standard Monitoring in ICU Following Cardiac Surgery
+
+*   Electrocardiogram — limb leads and V5
+*   Arterial oxygen saturation
+*   End-tidal carbon dioxide levels
+*   Arterial blood pressure (invasive and non-invasive)
+*   Central venous pressure
+*   Central (core) and peripheral temperature
+*   Urine output and fluid input
+*   Mediastinal drainage
+*   Pulmonary artery pressure and cardiac output measurements
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 4. Mediastinal Bleeding: Causes and Management</summary><div class="details-content">
+
+#### Common Causes of Mediastinal Bleeding
+
+**Surgical causes:**
+*   Anastomotic suture lines and cannulation sites
+*   Side branches of arterial or venous conduits
+*   Sternal sites (periosteum, sternal wire holes, bone marrow)
+*   Raw surfaces (internal mammary artery bed, pericardium, thymus)
+
+**Coagulopathy causes:**
+*   **Residual heparin** — inadequate protamine reversal or heparin rebound
+*   **Thrombocytopenia** — low pre-operative count + haemodilution on CPB (drops platelet counts by 20–50%, especially with long bypass times)
+*   **Platelet dysfunction** — pre-operative medications (aspirin, ticlopidine, clopidogrel) + CPB damage (especially with deep hypothermia)
+*   **Coagulation factor depletion** — pre-operative factors (residual warfarin, hepatic dysfunction, von Willebrand disease) + haemodilution from CPB and cell salvage
+*   **Fibrinolysis** — pre-operative thrombolytic agents + plasminogen activation on CPB
+
+#### Management of Mediastinal Bleeding
+
+**Assessment to distinguish surgical from coagulopathy causes:**
+*   Blood tests: haemoglobin, ACT, INR, APTTR, platelet count, fibrinogen, TEG
+*   Radiology: chest radiograph, TOE (for pleural/pericardial collections)
+*   Drainage: rate (sudden/gradual, "dump" when rolled), tube patency
+*   Haemodynamic status (especially to identify tamponade)
+
+**Treatment:**
+
+| Intervention | Indication | Details |
+|--------------|------------|---------|
+| **Correct hypothermia** | — | — |
+| **Calcium chloride** | Ionised Ca <1.2 mmol/L | 1 g (10 mL of 10%) IV |
+| **Treat hypertension** | — | — |
+| **Increase PEEP** | — | Up to 12 cmH₂O to "tamponade" bleeding |
+| **Protamine** | APTTR >1.3 or ACT >110% baseline | 25–100 mg slowly |
+| **Platelets** | Platelets <100 × 10⁹/L or TEG dysfunction | 1 unit/10 kg; 1 unit (50 mL) increases count by 7–10 × 10⁹/L |
+| **FFP** | INR >1.3 | 2–4 units (5–10 mL/kg); also for ATIII deficiency (heparin resistance) |
+| **Cryoprecipitate** | Fibrinogen <150 mg/dL | 0.1 U/kg (1–2 pools); contains fibrinogen, FVII, FVIII, FXIII |
+| **Packed RBCs** | Hb <8 g/dL | 1 unit (300–350 mL) increases Hb by 1 g/dL |
+| **Cell saver** | — | Washed of all platelets and coagulation factors |
+| **Desmopressin** | Antiplatelet agents pre-op | Increases vWF release |
+| **Re-exploration** | Tamponade, haemodynamic instability, or bleeding >500 mL/hr ×1 h, >400 mL/hr ×2 h, >300 mL/hr ×3 h | Urgent |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 5. Low Cardiac Output Syndrome</summary><div class="details-content">
+
+#### Common Causes of Low Cardiac Output and Sustained Hypotension
+
+**Reduced preload:**
+*   Hypovolaemia (haemorrhage, polyuria, inadequate fluid replacement)
+*   Restricted cardiac filling (tamponade, tension pneumothorax)
+*   Tachyarrhythmias (reduced diastolic filling time, loss of atrial transport)
+*   Vasodilation
+
+**Impaired myocardial contractility:**
+*   Negative inotropes (calcium channel blockers, β-blockers)
+*   Hypoxia, hypercarbia, acidosis, hyperkalaemia, hypothermia
+*   Myocardial stunning (CPB, pre-operative damage)
+*   Coronary ischaemia (coronary/conduit spasm or thrombosis)
+*   Mechanical causes (incomplete valve repair, SAM of mitral valve, valve thrombosis)
+
+**Reduced afterload:**
+*   Rewarming
+*   Vasoplegia (CPB-induced SIRS)
+*   Protamine, blood products, GTN, sodium nitroprusside
+*   Sepsis, anaphylaxis
+
+**Excessive afterload:**
+*   Hypothermia, acidosis, pressors, pain (increases cardiac workload)
+
+**Most serious causes:** Massive bleeding, tamponade, myocardial ischaemia — all may require return to operating theatre.
+
+**Pre-operative and intra-operative contributors:**
+*   Recent MI, pulmonary hypertension
+*   Poor myocardial protection, residual valvular regurgitation, incomplete de-airing
+
+#### Management of Low Cardiac Output Syndrome
+
+**Goal:** Identify and treat underlying aetiology; achieve **cardiac index >2.5 L/min/m²**
+
+**Markers of adequate organ perfusion (if cardiac output monitoring unavailable):**
+*   Mean arterial pressure >70 mm Hg
+*   Urine output >1 mL/kg/hr
+*   Skin temperature >36.5°C
+*   Base excess >–2 mmol/L
+
+**Optimise preload:**
+*   Fluid resuscitation to achieve RA/LA filling pressures **10–14 mm Hg** (higher in LVH, diastolic dysfunction, pulmonary hypertension, tricuspid regurgitation)
+*   Treat tension pneumothorax (needle thoracocentesis) and tamponade (re-sternotomy)
+*   Anti-arrhythmics and cardioversion for tachyarrhythmias
+
+**Optimise contractility:**
+*   Correct acidosis, hypoxia, hypercarbia, hyperkalaemia
+*   Positive inotropes: epinephrine, dopamine, milrinone
+*   Coronary vasodilators (GTN) for conduit spasm
+*   Reoperation for occluded grafts or severe valvular regurgitation
+
+**Optimise afterload:**
+*   Vasodilators (GTN, nitroprusside) or vasoconstrictors (noradrenaline, vasopressin) based on aetiology
+
+**Other measures:**
+*   Increase heart rate (epicardial pacing for bradycardia/heart block)
+*   IABP (improves myocardial oxygen supply without increasing consumption)
+*   LVAD for myocardial recovery
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 6. Right Ventricular Failure</summary><div class="details-content">
+
+#### Causes of Right Ventricular Failure Following Cardiac Surgery
+
+**Right ventricular dysfunction:**
+*   Poor myocardial protection during CPB
+*   Right ventricular stunning following ischaemia-reperfusion
+*   Ischaemia (right coronary artery disease, graft problem)
+*   Pre-operative right ventricular dysfunction
+
+**Pulmonary hypertension:**
+*   Left heart disease (severe mitral regurgitation, LV failure)
+*   Pulmonary disease
+*   Pulmonary embolism
+*   Adult respiratory distress syndrome (ARDS)
+
+#### Management of Right Ventricular Failure
+
+**Optimise RV preload:**
+*   Volume
+*   Atrioventricular sequential pacing
+*   Restore sinus rhythm if possible
+
+**Optimise RV contractility:**
+*   Epinephrine
+*   Phosphodiesterase inhibitor (milrinone)
+
+**Optimise RV afterload:**
+*   Correct hypoxia, hypercarbia, acidosis (cause pulmonary vasoconstriction)
+*   Phosphodiesterase inhibitors (sildenafil, milrinone)
+*   Inhaled nitric oxide (20–40 ppm)
+*   Nesiritide (recombinant BNP)
+*   Right ventricular assist device (RVAD)
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 7. Intra-Aortic Balloon Pump and Pacemaker Classification</summary><div class="details-content">
+
+#### Indications for Intra-Aortic Balloon Pump (IABP)
+
+**Indications:**
+*   Elective in patients with significantly impaired pre-operative cardiac function
+*   Peri-operative ischaemia
+*   Unloading of left ventricle following mechanical complications of MI (VSR, acute mitral regurgitation)
+*   Low cardiac output syndrome unresponsive to inotropic support
+*   Acute myocardial deterioration — bridge to revascularisation, LVAD, or transplantation
+
+**Contraindications:**
+*   Aortic regurgitation
+*   Aortic dissection
+*   Severe peripheral atherosclerosis
+
+#### NASPE/BPEG Five-Position Pacemaker Classification
+
+| Position | Meaning | Codes |
+|----------|---------|-------|
+| I | Chamber paced | O (none), A (atrium), V (ventricle), D (dual A+V), S (single A or V) |
+| II | Chamber sensed | O (none), A (atrium), V (ventricle), D (dual A+V), S (single A or V) |
+| III | Response to sensing | O (none), T (triggered), I (inhibited), D (dual) |
+| IV | Programmability | O (none), R (rate modulation) |
+| V | Multisite pacing | O (none), A (atrium), V (ventricle), D (dual A+V) |
+
+#### Typical Temporary Epicardial Pacemaker Settings
+
+| Parameter | Setting |
+|-----------|---------|
+| Rate | 90 bpm |
+| Atrial output | 5 mA |
+| Atrial sensitivity | 1.0 mV |
+| Ventricular output | 5 mA |
+| Ventricular sensitivity | 2.0 mV |
+| Atrioventricular delay (AVD) | 150 ms |
+| Mode | DDD |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 8. Ventilation Modes and Settings</summary><div class="details-content">
+
+#### Ventilation Modes
+
+**Volume-preset modes:**
+*   **Assist control ventilation (AC):** Ventilator delivers breath triggered by patient's effort or at preset intervals if no breath occurs
+*   **Intermittent mandatory ventilation (IMV):** Patient receives positive pressure ventilation at preset tidal volume and rate
+*   **Synchronised intermittent mandatory ventilation (SIMV):** Patient breathes spontaneously; at preset intervals, next spontaneous breath is augmented to preset tidal volume
+
+**Pressure-preset modes:**
+*   **Pressure controlled ventilation (PCV):** Peak airway pressure and inspiratory time set at fixed rate
+*   **Pressure support ventilation (PS):** Patient's inspiratory effort augmented by selected inspiratory pressure; patient sets rate, flow rate, and inspiratory time
+
+#### Typical Ventilator Settings Following Cardiac Surgery
+
+| Parameter | Setting | Notes |
+|-----------|---------|-------|
+| Mode | SIMV or AC | — |
+| FiO₂ | 100% → wean to 40% | Maintain PaO₂ >10 kPa |
+| Tidal volume (TV) | 6–10 mL/kg | Higher volumes may over-stretch IMA anastomosis |
+| Respiratory rate (RR) | 12–18 breaths/min | — |
+| Minute volume | 100–120 mL/kg/min | = RR × TV |
+| PEEP | 5 cmH₂O | Reduces atelectasis; up to 12 cmH₂O for tamponade (caution: impairs venous return) |
+| I:E ratio | 1:2 | 1:3 for COPD (reduces air trapping) |
+| Peak inflation pressure | <35 cmH₂O | Higher suggests airway resistance (mucus plug, kinked ETT, bronchospasm, coughing) |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 9. Fast-Tracking and Extubation</summary><div class="details-content">
+
+#### Exclusion Criteria for Fast-Tracking to Early Extubation
+
+*   Poor left ventricular function, recent MI, or pulmonary oedema
+*   Redo sternotomy (previous cardiac surgery)
+*   Severe respiratory dysfunction (FEV₁ <75% predicted)
+*   Severe pulmonary hypertension (systolic PAP >60 mm Hg)
+*   Severe renal or hepatic insufficiency
+*   Previous cerebrovascular accident
+*   Problematic intubation
+*   Prolonged operation or deep hypothermic circulatory arrest
+*   High-dose inotropic requirement intra-operatively
+*   Ongoing mediastinal bleeding
+
+**Fast-tracking strategy:** Shorter-acting anaesthetic agents, early analgesia, rapid weaning of inotropes. If haemodynamically stable, good ventilation, bleeding controlled → extubate within **4–6 hours**.
+
+#### Disadvantages of Prolonged Ventilation
+
+*   Cardiovascular side effects of sedatives/narcotics → increased pressor/volume requirements
+*   Impaired RV function from positive pressure ventilation
+*   Ventilator-associated morbidity (pneumonia)
+*   Cost
+
+#### Disadvantages of Early Extubation
+
+*   Increased work of breathing → increased myocardial oxygen demand
+*   Increased pain and higher metabolism → increased cardiac work
+
+#### Criteria for Extubation
+
+**Cardiac:**
+*   Cardiac index >2.2 L/min/m²
+*   Mean arterial pressure >70 mm Hg
+*   No haemodynamically significant arrhythmias
+
+**Respiratory:**
+*   PaO₂ >10 kPa, SaO₂ >92% with FiO₂ <50%
+*   PEEP <5 cmH₂O
+*   Respiratory rate <20/min
+*   Pressure support <10 cmH₂O
+
+**Other:**
+*   Mediastinal drainage <50 mL/hr with haemoglobin >8 g/dL
+*   Urine output >1 mL/kg/hr
+*   Neurological: awake with stimulation, no residual neuromuscular blockade, able to lift head, able to cough and clear secretions
+*   Core temperature >36°C
+
+**Weaning process:**
+*   Stop sedation
+*   Maintain FiO₂ 50%, PEEP 5 cmH₂O
+*   Reduce IMV rate by 2 breaths every 30 minutes with ABG checks
+*   Alternative: CPAP trial with ETT in situ
+
+**Poor prognostic factors for weaning:**
+*   Tidal volume <5 mL/kg
+*   Minute volume <10 L/min
+*   Maximum inspiratory pressure <–20 cmH₂O
+*   Shallow breathing index (RR/TV) >100
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 10. Respiratory Impairment: Causes and Management</summary><div class="details-content">
+
+#### Common Causes of Hypoxia and Respiratory Impairment
+
+**Poor gas exchange:**
+
+| Category | Specific Causes |
+|----------|-----------------|
+| **Atelectasis** | General anaesthesia, lung compression (IMA harvesting), reduced surfactant (CPB), inadequate lung expansion (pain), retained secretions/sputum plug (smoking, pneumonia) |
+| **Pulmonary oedema** | LV dysfunction, SIRS from CPB, massive transfusion |
+| **Pleural effusion** | Heart failure, undrained postoperative blood |
+| **Bronchospasm** | Pre-existing asthma/COPD, β-blockers, anaphylaxis |
+| **Pneumothorax** | — |
+| **Diaphragmatic dysfunction** | Phrenic nerve injury (iced slush, direct trauma during pericardiectomy, IMA harvesting) |
+
+**Inadequate oxygen delivery:**
+*   Low FiO₂
+*   Inadequate ventilator settings (low PEEP, malfunction)
+*   Misplaced endotracheal tube
+*   Low cardiac output syndrome
+*   Anaemia
+*   Increased oxygen demand (shivering, sepsis)
+
+#### Management of Respiratory Impairment
+
+**Assessment to identify underlying cause:**
+*   Respiratory examination: inspect, palpate, percuss, auscultate
+*   Arterial blood gases: pH, PaO₂, PaCO₂, base deficit
+*   Chest radiograph: lung pathology, ETT placement
+*   Ventilator settings: FiO₂, PEEP, RR, TV, pressure support, peak pressures
+
+**Treatment by aetiology:**
+
+| Aetiology | Treatment |
+|-----------|-----------|
+| **Atelectasis** | Chest physiotherapy, CPAP or ↑ PEEP, antibiotics, bronchoscopic clearance |
+| **Pulmonary oedema (cardiogenic)** | Diuresis |
+| **Pulmonary oedema (non-cardiogenic)** | ARDS protocol (low tidal volumes), prone ventilation, nitric oxide |
+| **Pleural effusion** | Thoracocentesis or chest drain |
+| **Bronchospasm** | Nebulised β-agonists, ipratropium bromide |
+| **Pneumothorax** | Chest drain |
+| **Phrenic nerve injury** | Supportive care, physiotherapy; diaphragmatic plication for severe cases |
+| **Low PaO₂** | ↑ FiO₂ or PEEP |
+| **Low PaCO₂** | ↑ RR or TV |
+| **Ventilator malfunction** | Manual ventilation |
+| **Misplaced ETT** | Reposition (ideally 2 cm above carina) |
+| **Low cardiac output** | Optimise preload, contractility, afterload |
+| **Anaemia** | Transfuse if Hb <8 g/dL |
+
+#### Adult Respiratory Distress Syndrome (ARDS) — Diagnostic Criteria
+
+*   Acute onset of severe hypoxia refractory to oxygen therapy — **PaO₂:FiO₂ ratio <200 mm Hg**
+*   Bilateral infiltrates on chest radiograph
+*   Absence of cardiogenic pulmonary oedema (PCWP <18 mm Hg)
+*   Reduced pulmonary compliance
+*   Predisposing aetiology: CPB, sepsis, aspiration, trauma, fat embolism
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 11. Fluid Balance and Renal Function</summary><div class="details-content">
+
+#### Effects of Cardiopulmonary Bypass on Postoperative Fluid Balance
+
+**Excess fluid in interstitial space:**
+*   Increased capillary permeability (systemic inflammatory response)
+*   Vasodilation (rewarming)
+*   Reduced intravascular oncotic pressure (haemodilution of plasma proteins, capillary leak)
+
+**Increased total body fluid:**
+*   CPB prime volume (1.5–2.0 L)
+*   RAAS activation → water retention
+*   ADH production (stimulated by intravascular hypovolaemia despite interstitial fluid excess)
+*   Stress response → cortisol → sodium and water retention
+
+#### Risk Factors for Renal Impairment
+
+**Pre-operative:**
+*   Creatinine >150 μmol/L
+*   Increasing age
+*   Left ventricular dysfunction
+*   Emergency operations
+*   Low cardiac output states (post-MI, mechanical complications)
+*   Hypertension, diabetes mellitus
+*   Renal artery disease, sepsis
+*   Pre-operative nephrotoxins (contrast, gentamicin, NSAIDs, ACEI)
+
+**Intra-operative:**
+*   Prolonged CPB time
+*   Periods of systemic hypoperfusion or circulatory arrest
+*   Aprotinin therapy
+
+**Postoperative:**
+*   Acute tubular necrosis (hypovolaemia, low CO)
+*   Excessive vasoconstriction
+*   Sepsis
+*   Nephrotoxins
+
+**Normal renal function values (typical ranges):**
+| Parameter | Normal Range |
+|-----------|--------------|
+| Serum creatinine | 60–120 μmol/L |
+| Serum urea | 3.5–6.5 mmol/L |
+| Creatinine clearance | 90–140 mL/min |
+| GFR | 90–140 mL/min |
+
+**Cockcroft-Gault formula (estimated creatinine clearance):**
+
+*   Men: $\frac{(140 - \text{age}) \times \text{wt (kg)}}{72 \times P_{\text{Cr}}}$
+*   Women: $0.85 \times \frac{(140 - \text{age}) \times \text{wt (kg)}}{72 \times P_{\text{Cr}}}$
+
+where $P_{\text{Cr}}$ = plasma creatinine (mg/dL). Actual creatinine clearance = $\frac{U_{\text{Cr}} \times U_{\text{vol}}}{P_{\text{Cr}} \times 24 \times 60}$ (24-hour urine collection).
+
+#### Management of Established Renal Failure
+
+*   Identify and treat underlying cause (consider renal ultrasound)
+*   Optimise haemodynamic status — restore pre-operative MAP
+*   Monitor daily weights and fluid balance
+*   Monitor electrolytes, acid-base, glucose
+*   Eliminate nephrotoxic drugs
+*   Adjust renally excreted drugs (digoxin, antibiotics)
+*   Consider removing urinary catheter if anuric
+*   Renal replacement therapy for hyperkalaemia, acidosis, volume overload, uraemia
+
+#### Renal Replacement Therapy
+
+**Two common techniques:**
+
+| Technique | Mechanism | Characteristics |
+|-----------|-----------|-----------------|
+| **Haemodialysis** | Diffusion — solutes move from higher to lower concentration across semi-permeable membrane | Smaller molecules removed more efficiently; counter-current flow maintains gradient |
+| **Haemofiltration** | Convection (solute drag) — water pushed across filter by pressure gradient, carries dissolved solutes | Larger molecules (up to 20,000 MW) removed at similar rate |
+
+**Both require double-lumen central venous access.**
+
+**Arteriovenous RRT:** Rare in low CO states (dependent on arterial pressure).
+
+**Considerations:**
+*   Circulating inflammatory mediators removed → patient may not exhibit fever with sepsis
+*   Can be performed without anticoagulation, but heparin reduces filter/membrane clotting
+*   May not be possible in hypotension due to large fluid shifts
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 12. Hypothermia: Causes and Effects</summary><div class="details-content">
+
+#### Causes of Hypothermia During Cardiac Surgery
+
+*   Peripheral vasodilation (anaesthetic agents)
+*   Reduced metabolic heat production
+*   Increased heat loss
+*   Thermoregulatory threshold lowered by **3–4°C** during general anaesthesia
+*   Neuromuscular blocking drugs prevent shivering
+*   Cooling effect of cold anaesthetic gases
+*   Cooling effect of cold intravenous fluid infusion
+*   Active cooling on CPB (heat exchanger)
+
+#### Effects of Hypothermia in the Immediate Postoperative Period
+
+| Effect | Consequence |
+|--------|-------------|
+| Vasoconstriction | Increased afterload → increased myocardial oxygen consumption |
+| Arrhythmias | Increased risk |
+| Coagulopathy | Impaired haemostasis |
+| Left shift of oxygen dissociation curve | Impaired tissue oxygen delivery |
+| Increased stress response | Hyperglycaemia |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 13. Postoperative Complications: Hypertension, Arrhythmias, Acidosis, Electrolytes</summary><div class="details-content">
+
+#### Causes of Postoperative Hypertension
+
+*   Anxiety and pain
+*   Inotropes (dopamine, noradrenaline, adrenaline, vasopressin)
+*   Vasoconstriction and shivering from hypothermia
+*   Hyperdynamic syndrome (following AVR or CABG — after afterload reduction or revascularisation)
+*   Abnormal baroreceptor function (following aortic dissection)
+*   Autonomic neuropathy (diabetes)
+
+#### Common Postoperative Arrhythmias
+
+*   Sinus tachycardia
+*   Atrial fibrillation
+*   Heart block (especially following valve surgery)
+*   Ventricular and atrial ectopics
+*   Ventricular tachycardia
+*   Sinus bradycardia
+
+**Causes of sinus tachycardia:**
+*   Withdrawal of β-blockade
+*   Fever and sepsis
+*   Anxiety and pain
+*   Hypovolaemia
+*   Inotropes (dopamine, noradrenaline, adrenaline, isoprenaline)
+*   Anaemia
+
+#### Causes of Acidosis
+
+**Metabolic acidosis:**
+*   Reduced tissue perfusion → lactic acidosis (hypovolaemia, low CO, myocardial dysfunction, excessive vasoconstriction, sepsis)
+*   Increased metabolic activity (adrenaline, sepsis)
+*   Renal impairment (failure to excrete H⁺)
+*   Splanchnic or limb ischaemia
+*   Endocrine: hyperglycaemia, thyrotoxic crisis
+
+**Respiratory acidosis:** CO₂ retention
+
+**Management:**
+*   Identify underlying cause (volume status, temperature, inotropy, urine output, pH, pCO₂, base excess, lactate, anion gap, glucose)
+*   Treat underlying cause
+*   Increase minute volume for respiratory acidosis
+*   Optimise cardiac output, reduce vasopressors, restore normothermia
+*   Optimise renal function (volume, furosemide, dopamine)
+*   Consider sodium bicarbonate (50 mL 8.4%) or dialysis
+
+#### Electrolyte Disturbances
+
+**Hyperkalaemia — causes:**
+*   Excess IV/oral K⁺
+*   K⁺-sparing diuretics (amiloride), aldosterone antagonists (spironolactone)
+*   ACEI/ARB
+*   Reduced renal excretion (renal failure, oliguria)
+*   Tissue ischaemia
+
+**Hyperkalaemia — treatment:**
+1.  Re-check K⁺ (exclude haemolysed sample)
+2.  Cardiac monitoring
+3.  Reduce K⁺ uptake: stop K⁺-sparing drugs, stop supplementation, calcium resonium
+4.  Shift K⁺ into cells: insulin/dextrose (50 mL 50% dextrose + 15U insulin), sodium bicarbonate, nebulised β-agonist
+5.  Increase excretion: furosemide, dialysis
+6.  Calcium gluconate (myocyte membrane stabiliser)
+
+**Hypokalaemia — causes:**
+*   Diuresis without supplementation
+*   Insulin
+*   Alkalosis
+*   Excessive nasogastric drainage
+
+**Hypokalaemia — treatment:**
+*   Re-check K⁺
+*   Cardiac monitoring
+*   Increase uptake: K⁺-sparing medications, K⁺ supplementation
+*   Reduce movement into cells: adjust insulin/β-agonists
+*   Reduce excretion: reduce furosemide
+
+**Hyponatraemia — classification and causes:**
+| Type | Causes |
+|------|--------|
+| **Hypervolaemic** | Excess 5% dextrose, renal failure |
+| **Euvolaemic** | SIADH (urinary Na >20 mmol/L, serum Na <130 mmol/L, serum osmolality <270 mOsm/kg, urinary osmolality >100 mOsm/L, normal K⁺/HCO₃) |
+| **Hypovolaemic** | Thiazide diuretics, ACEI/ARB, diarrhoea/vomiting |
+
+**Hyponatraemia — treatment:**
+*   Hypervolaemic: fluid restriction (1–1.5 L/day), replace 5% dextrose with normal saline, loop diuretics
+*   Euvolaemic: demeclocycline, vasopressin antagonist (conivaptan), sodium supplements
+*   Hypovolaemic: stop ACEI/ARB/thiazides, fluid replacement with normal saline
+
+**Hypernatraemia — causes:**
+*   Pure water depletion: diabetes insipidus
+*   Water depletion exceeding sodium depletion: diarrhoea
+*   Sodium excess: excess normal saline
+*   Drugs: amphotericin, phenytoin, lithium, gentamicin
+
+**Hypernatraemia — treatment:**
+*   Check urine and plasma sodium/osmolality
+*   Treat underlying cause
+*   5% dextrose
+*   Vasopressin for diabetes insipidus
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 14. Oliguria, Enteral Feeding, and Sternal Wound Infections</summary><div class="details-content">
+
+#### Common Causes of Oliguria
+
+**Pre-renal:**
+*   Hypovolaemia (intravascular volume depletion)
+*   Low cardiac output
+*   Renal artery disease (especially after aortic dissection)
+
+**Renal:**
+*   Pre-operative renal disease (hypertensive, diabetic, contrast nephropathy)
+*   Nephrotoxic drugs (gentamicin, NSAIDs)
+*   CPB-induced nephropathy
+*   Sepsis
+
+**Post-renal:**
+*   Rare — most patients catheterised; may be caused by blockage or kinking of urinary catheter
+
+#### Management of Oliguria
+
+*   Ensure urinary catheter is patent
+*   Optimise myocardial function for renal perfusion:
+    *   Preload: fluid boluses
+    *   Contractility: inotropes
+    *   Afterload: reduce if elevated
+    *   Manage dysrhythmias
+    *   IABP if necessary
+*   Diuretics: boluses → infusion if unsuccessful
+*   Renal-dose dopamine (1–5 μg/kg/min)
+*   Renal dialysis for hyperkalaemia, acidosis, fluid overload (e.g., pulmonary oedema)
+
+#### Principles of Enteral Feeding
+
+*   **Requirements:** ~25 kcal/kg/day (catabolic: ~30 kcal/kg/day)
+*   **Initiation:** If not extubated or unable to eat within 48 hours
+*   **Standard feeds:** 1–1.2 kcal/mL; high-energy feeds: 1.5–2 kcal/mL
+*   **Renal failure:** Low-protein feeds (except on RRT → high-protein), high-energy low-volume, low-electrolyte feeds
+*   **Administration:** Usually over 16–20 hours with 4–8 hour rest period
+*   **TPN:** If not absorbing or contraindication to enteral feeding
+
+#### Management of Sternal Wound Infections
+
+**Prevention:**
+*   Antibiotic prophylaxis: cefuroxime 30 minutes before incision (vancomycin for MRSA risk)
+*   Infection control: avoid cross-contamination
+
+**Superficial infection:**
+*   Drainage
+*   May require VAC pump
+
+**Deep sternal wound infection / mediastinitis:**
+1.  Sternal debridement
+2.  VAC pump insertion or continuous irrigation system
+3.  Antibiotic therapy tailored to organism
+4.  Reconstruction after inflammatory markers normalised and negative microbiology swabs:
+    *   Sternal rewiring
+    *   Pectoral advancement flaps
+    *   Plastic surgical flap reconstruction (latissimus dorsi, pectoralis major, rectus abdominis, omentum)
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 15. Anticoagulation and Secondary Prevention</summary><div class="details-content">
+
+#### Standard Anticoagulation Regimes Following Cardiac Surgery (AHA Guidelines)
+
+| Indication | Target INR |
+|------------|-----------|
+| Coronary endarterectomy | 2.0–3.0 |
+| Atrial fibrillation | 2.0–3.0 |
+| Mechanical aortic valve | 2.0–3.0 |
+| Mechanical mitral valve | 2.5–3.5 |
+| Bioprosthetic valve | Aspirin alone, or warfarin 3 months (INR 2.0–3.0) then aspirin |
+
+#### Medications for Secondary Prevention of Coronary Artery Disease
+
+| Drug Class | Mechanism |
+|------------|-----------|
+| **Aspirin** | Antiplatelet — reduces risk of coronary thrombosis |
+| **Statin** | HMG-CoA reductase inhibitor — reduces hepatic cholesterol production, deposition in coronary arteries and vein grafts |
+| **β-blocker** | Decreases LV work by reducing contractility and afterload |
+| **ACEI** | Reduces LV afterload, encourages LV reverse remodelling |
+
+</div></details>
