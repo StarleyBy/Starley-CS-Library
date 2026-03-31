@@ -72,7 +72,7 @@
 
 ## Appendix I: Transoesophageal Echocardiographic Views</summary><div class="details-content">
 
-![](_page_0_Figure_3.jpeg)
+![](appendix_i_toe_views.jpeg)
 
 **FIGURE A1** Standard transoesophageal echocardiographic (TOE) views. TOE provides high-resolution imaging of cardiac structures from the oesophagus and is essential for intra-operative assessment of valve morphology, ventricular function, and detection of complications such as aortic dissection or intracardiac thrombus.
 
@@ -84,7 +84,7 @@
 
 ## Appendix II: Transthoracic Echocardiographic Views</summary><div class="details-content">
 
-![](_page_0_Picture_3.jpeg)
+![](appendix_ii_tte_views.jpeg)
 
 **FIGURE A2** Standard transthoracic echocardiographic (TTE) views. TTE is the primary non-invasive imaging modality for pre-operative assessment of ventricular function, valve disease, and pericardial pathology.
 
@@ -113,7 +113,7 @@
 | Left atrium (cm) | 2.0–4.0 |
 | Left ventricular end-diastolic volume (mL) | 80–140 |
 | Left ventricular end-systolic volume (mL) | 25–65 |
-
+appendix_iv_ventricular_segments
 </div></details>
 
 ---
@@ -122,11 +122,11 @@
 
 ## Appendix IV: Standard Coronary Angiographic Views</summary><div class="details-content">
 
-![](_page_0_Figure_3.jpeg)
+![](appendix_iv_coronary_views_left.jpeg)
 
 **FIGURE A3A** Standard coronary angiographic views of the left coronary artery system. AP 0° cranial 40°, LAO 50° caudal 30°, LAO 50° cranial 30°, and RAO views demonstrating the left main coronary artery (LMCA), left anterior descending artery (LAD), diagonal branches (D1), septal branches, and circumflex artery (Cx) with obtuse marginal branches (OM1, OM2).
 
-![](_page_1_Figure_1.jpeg)
+![](appendix_iv_ventricular_segments.jpeg)
 
 **FIGURE A3B** Schematic representation of left ventricular segments in relation to coronary artery territories. Anterobasal, anterior, apical, inferobasal, and inferior segments with corresponding coronary artery supply.
 
