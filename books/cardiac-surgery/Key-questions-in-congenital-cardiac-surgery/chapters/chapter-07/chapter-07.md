@@ -1,603 +1,987 @@
-# **Chapter 7**
+# Anaesthesia and Congenital Heart Disease
 
-## Anaesthesia and congenital heart disease
+<details class="med-details"><summary>
 
-**Michael Puntis, Sian Jaggar**
+## Executive Summary</summary><div class="details-content">
 
-- 1 **Describe the involvement of anaesthetists in the care of patients with congenital heart disease**
-- During pre-operative planning and peri-operative care of patients undergoing cardiac surgical interventions.
-- Providing general anaesthesia or sedation for patients undergoing percutaneous interventions in the cardiac catheter laboratory.
-- Providing intensive care support for both adult and paediatric patients.
-- Providing anaesthesia for non-cardiac interventions, including:
-  - a) specialist interventions such as pain management or vascular access;
-  - b) general surgical interventions unrelated to the cardiac disease;
-  - c) obstetric interventions where the greatly increased physiological demands of pregnancy may precipitate cardiac problems, requiring close liaison between medical, obstetric and anaesthetic staff.
-- 2 **Describe the factors that determine the use of anaesthesia or sedation**
-- Patient factors:
-  - a) age;
-  - b) comorbidity;
-  - c) cognitive and psychological considerations.
-- Procedural factors:
-  - a) position required;
-  - b) duration;
-  - c) degree of invasiveness.
+### Role of Anaesthetists
 
-## 3 **What are the differences between neonates and older children from an anaesthetic point of view?**
+Anaesthetists are involved in:
+*   Pre-operative planning and peri-operative care for cardiac surgery
+*   Anaesthesia/sedation for percutaneous interventions in catheter laboratory
+*   Intensive care support for adult and paediatric patients
+*   Non-cardiac interventions: pain management, vascular access, general surgery, obstetrics (pregnancy increases physiological demands)
 
-- Airway the neonatal airway is more challenging to manage because the:
-  - a) prominent occiput pushes the neck into flexion when supine;
-  - b) tongue is relatively large;
-  - c) epiglottis is floppy and U-shaped, and the larynx is relatively cephalad.
-- Breathing in the neonate, hypoxia occurs much more rapidly; this is affected by:
-  - a) neonatal respiratory centres which although mature are more easily suppressed by drugs or hypothermia;
-  - b) intercostal and diaphragmatic muscles which contain fewer Type I (slowly contracting, highly oxidative) muscle fibres and are easily fatigued;
-  - c) reduced mechanical advantage as the ribs are relatively horizontal, requiring a greater contribution from the diaphragm;
-  - d) reduced functional residual capacity (FRC) which usually provides a store of oxygen. This results from low lung compliance, despite a relatively compliant chest wall;
-  - e) higher airway resistance with increased work of breathing which consumes more of the inspired oxygen;
-  - f) foetal-type acetylcholine receptors, expressed in neonates which are more sensitive to depolarising muscle relaxants, hence, normal respiratory function may take longer to recover.
-- Circulation which requires different management because:
-  - a) neonatal cardiac output is particularly rate-dependent, as stroke volume cannot readily be increased;
-  - b) neonatal myocardium is relatively stiff and less able to increase contractility or respond to preload;
-  - c) neonates have a proportionally much greater cardiac output, due to an increased heart rate (400mL/kg/min at birth, 150mL/kg/min at 8 weeks and 70mL/kg/min at puberty).
+### Neonatal vs Older Children — Key Differences
 
-- Pharmacology where many important pharmacokinetic factors are less well developed, including:
-  - a) absorption neonatal drug absorption is altered by increased gastric pH, slower gastric emptying and increased intestinal transit time;
-  - b) distribution the blood-brain barrier is less well developed and sedative drugs may cross more easily;
-  - c) metabolism neonates can metabolise most drugs but more slowly than older children;
-  - d) excretion renal excretion is impaired, especially in the preterm neonate. Some drugs, such as aminoglycosides, need to be administered less frequently.
-- Temperature control neonates and infants have an increased surface area to volume ratio, favouring heat loss. Steps to maintain normothermia include ensuring adequate ambient temperature and the use of forced air warmers. Generating heat to maintain body temperature causes a dramatic increase in metabolic demands on the neonate.
-- Communication as cognitive function develops, a child's ability to understand, communicate and reason improves. The developmental stage impacts upon interaction with both the child and parents.
-- 4 **What are the principles of pre-operative assessment and preparation of paediatric cardiac surgical patients for anaesthetists?**
-- Information should be gathered first, including:
-  - a) history review of the case notes and discussion with the patient/parents for information about the cardiac diagnosis, other related comorbidity and history of any previous anaesthesia (both for the child and family members);
-  - b) examination especially considering ease of airway management and potential vascular access sites;
-  - c) investigations especially those relevant to the cardiovascular and respiratory status.
-- All correctable medical conditions should be optimised prior to surgery and any issues that cannot be changed must be accepted.
-- The risk level should be stratified to plan for peri-operative care. Critical care is mandatory for most cardiac surgical procedures and
+| System | Neonate Characteristics |
+|--------|-------------------------|
+| **Airway** | Prominent occiput (neck flexion), large tongue, floppy U-shaped epiglottis, cephalad larynx |
+| **Breathing** | Rapid hypoxia (immature respiratory centres, easily fatigued muscles, horizontal ribs ↓mechanical advantage, low FRC, ↑airway resistance, foetal ACh receptors → delayed recovery from depolarising relaxants) |
+| **Circulation** | Rate-dependent CO (stroke volume fixed); stiff myocardium; CO: 400 mL/kg/min at birth → 150 at 8 weeks → 70 at puberty |
+| **Pharmacology** | ↑gastric pH, slower emptying, ↑transit; blood-brain barrier immature; slower metabolism; impaired renal excretion (preterm) |
+| **Temperature** | ↑surface area:volume → rapid heat loss; forced air warmers essential |
+| **Communication** | Developmental stage impacts interaction |
 
-- more common for many other procedures than for patients without congenital heart disease.
-- Rapport must be established with both the patient and their family. Anxious patients suffer more adverse events, such as laryngospasm, during anaesthesia and premedication may help.
-- Induction using intravenous or inhalational agents should be discussed with the child and parents, to aid compliance. Patients and parents should be aware of and accept the risks associated with the planned techniques, including invasive monitoring.
-- Details of starvation times should be documented, especially as patients with congenital heart disease are at particular risk from dehydration, potentially caused by excessive starvation times. The usual rules are:
-  - a) clear (non-fizzy) fluids 1 hour before anaesthesia;
-  - b) breast milk 4 hours before anaesthesia;
-  - c) other milk or food 6 hours before anaesthesia.
-- Options for analgesia and their relevant risks should also be discussed.
+### Pre-operative Assessment
 
-## 5 **Which investigations are helpful to the anaesthetist in the pre-operative assessment?**
+**History:** Cardiac diagnosis, comorbidities, previous anaesthesia (patient and family)
 
-- Many routine investigations are performed to screen for unidentified problems and to provide a baseline assessment of the patient's physiology and metabolic status. Although most pre-operative investigations are performed primarily for surgical reasons, they provide useful anaesthetic information.
-- Blood tests, including:
-  - a) full blood count (FBC) which establishes the presence of polycythaemia or anaemia. Cyanotic patients require higher haemoglobin levels for adequate oxygen delivery;
-  - b) haemoglobinopathy screen (including HbSS) which should be performed in the relevant patient groups, especially if cooling is planned, which may cause a sickle crisis. In cases where hypothermia presents significant risks, the surgeons, anaesthetists and perfusionists may agree to maintain a normal body temperature on bypass;
-  - c) platelet count and coagulation studies especially as cyanotic patients are prone to bleeding, even when laboratory findings are normal. Ordering products early helps to ensure rapid and effective management;
+**Examination:** Airway assessment, vascular access sites
 
-- d) urea & electrolytes as abnormalities increase the risk of myocardial irritability or indicate underlying renal dysfunction. Arrhythmias are particularly important when cardiac function is borderline;
-- e) pregnancy test which is indicated for all female patients post-menarche. Careful communication is vital for these patients.
-- Electrocardiogram (ECG) to identify signs of any conduction abnormalities or arrhythmias, which may require peri-operative pacing interventions (temporary or permanent).
-- Chest radiograph (CXR) which provides information regarding the:
-  - a) lower airway including the size of the lungs;
-  - b) other anatomical abnormalities such as sequestrated lung or diaphragm anomalies;
-  - c) respiratory disease such as acute airways or parenchymal infections requiring treatment;
-  - d) non-infectious lung disease which may or may not require therapy but might affect peri-operative risk or affect prognosis.
-- Specific investigations, such as cardiac catheterisation and echocardiography, which define abnormal anatomy and physiology can also identify high-risk lesions that may influence the conduct or risk of anaesthesia.
+**Investigations:**
+*   FBC: polycythaemia (cyanotic patients require higher Hb) vs anaemia
+*   Haemoglobinopathy screen: if cooling planned (sickle crisis risk)
+*   Coagulation: cyanotic patients prone to bleeding even with normal labs
+*   U&Es: arrhythmia risk
+*   Pregnancy test: all post-menarche females
+*   ECG: conduction abnormalities, arrhythmias
+*   CXR: lung size, anatomical abnormalities, respiratory disease
 
-## 6 **What psychological, social and legal issues may arise when assessing paediatric patients for anaesthesia?**
+**Starvation guidelines:**
+*   Clear fluids: 1 hour
+*   Breast milk: 4 hours
+*   Other milk/food: 6 hours
 
-- A patient's understanding varies quite considerably, depending on age, educational level, cognitive ability and complexity of the lesion. Some patients have great insight into their condition, while others will have little or none.
-- Anxieties or phobias may develop following multiple interventions and admissions. These should be actively managed prior to further intervention and the anaesthetist should be involved at an early stage.
-- Younger patients and those with learning difficulties may need information provided in differing formats, including for postoperative care and appropriate pain-scoring tools.
-- Language barriers can present insurmountable obstacles to communication, and in these cases, interpreters are required during anaesthetic assessment, as they are during surgical consenting.
+### Classification of CHD for Anaesthetic Management
 
-## 7 **Which comorbidities or patient factors should be discussed with the anaesthetic team early?**
+| Type | Physiology | Examples | Key Anaesthetic Concerns |
+|------|------------|----------|-------------------------|
+| **↑PBF (L→R shunt)** | Volume overload, initially acyanotic | ASD, VSD, AVSD, PDA | Avoid ↓PVR, manage heart failure, pulmonary hypertension may develop |
+| **↓PBF (R→L shunt)** | Cyanotic | TOF, PA ± VSD, DORV (TOF type) | Maintain balance between PVR and SVR; avoid ↓SVR or ↑PVR |
+| **↓SBF** | Systemic hypoperfusion | Coarctation, HLHS, severe AS, obstructed TAPVC, TGA with restrictive ASD/PDA | Support systemic perfusion, maintain ductal patency (PGE₁) |
+| **Balanced parallel** | Total mixing, single ventricle | HLHS (pre-Norwood), truncus arteriosus, unbalanced AVSD | Balance PVR/SVR; avoid disruption of equilibrium |
 
-- Some situations require additional planning and surgery may be delayed if the anaesthetist is unaware of issues until the day of surgery.
-- Abnormal airways patients with congenital heart disease may have associated abnormal airway anatomy, making conventional laryngoscopy difficult. Further airway assessment or alternative techniques may need to be planned. In adults, a number of tests are able to predict difficult intubation, although none are particularly specific or sensitive. Similar tests are not validated in children. Conditions known to be associated with difficult intubation include:
-  - a) trisomy 21;
-  - b) Pierre-Robin syndrome;
-  - c) DiGeorge syndrome.
-- Significant comorbidity, such as pulmonary disease, may necessitate prolonged postoperative critical care and therefore require advanced planning. Patients with congenital heart disease with varying degrees of learning difficulties, or other neuropsychological issues, may be poorly compliant with postoperative care, including respiratory care, mobility and medications.
-- Psychological problems, such as anxiety or needle phobia, may require addressing pre-operatively. Older children and patients in transitional age may present significant problems with compliance, especially those with previous surgical experiences.
+### Principles of Anaesthesia for CHD
 
-## 8 **Describe how congenital heart disease is broadly classified for planning of anaesthetic management**
+**Key destabilising factors:**
+*   Reduced venous return (hypovolaemia from starvation + anaesthetic vasodilation)
+*   Reduced myocardial function (balanced technique: opioids + sedatives + muscle relaxant minimises suppression)
+*   Increased PVR (hypoventilation, hypercapnia, PEEP)
+*   Decreased SVR (impairs coronary perfusion)
+*   Temperature and glucose abnormalities
 
-- A normal circulation is characterised by equal pulmonary and systemic flow in functionally serial circulations. This may be disrupted in patients with congenital heart disease.
-- Pathology can be considered in terms of how changes in pulmonary and systemic vascular resistances influence flow:
-  - a) increased pulmonary blood flow with systemic to pulmonary shunting of blood (Figure 1). This type of shunt lesion includes:
-    - i) atrial septal defects (ASD);
-    - ii) ventricular septal defects (VSD);
-    - iii) atrioventricular septal defects (AVSD);
-    - iv) patent ductus arteriosus (PDA);
+**High-risk periods:** Induction and extubation (hypoventilation, hypercapnia → ↑PVR)
+
+**Special considerations:**
+*   Endocarditis prophylaxis
+*   Paradoxical emboli risk (intravenous injections)
+
+### Cyanotic Lesions — Management
+
+Cyanosis worsens with: ↓pulmonary vein saturation (V/Q mismatch) or ↑R→L shunting
+
+**R→L shunting increased by:** ↑PVR (hypoxia, hypercarbia, acidosis, PEEP) or ↓SVR (anaesthetic agents)
+
+**Strategies:**
+*   Avoid hypoxia, hypercarbia, acidosis
+*   May require systemic vasopressors to maintain PVR/SVR balance
+*   Extubation challenging: early extubation avoids coughing (↑PVR) but risks hypoxia/hypercarbia
+
+### Specific Lesions
+
+| Lesion | Key Anaesthetic Risks | Management Principles |
+|--------|----------------------|----------------------|
+| **Ebstein's anomaly** | Poor CO, R→L shunt (interatrial), arrhythmias | Minimise PVR, optimise preload, maintain contractility, sinus rhythm; small dose vasopressor (avoid fluid overload) |
+| **HLHS (pre-Norwood)** | Balance PVR/SVR critical; PDA-dependent systemic circulation | PGE₁, maintain SVR low, PVR high; modify ventilation; NIRS monitoring |
+| **Single ventricle (post-Glenn/Fontan)** | Passive pulmonary flow; hypovolaemia poorly tolerated; arrhythmias | Avoid ↑PVR (hypoxia, hypercarbia, acidosis, ketamine); maintain sinus rhythm; systemic RV may have poor function |
+| **Coarctation with poor LV function** | Upper body hypertension; cross-clamp may require vasodilators; avoid hyperventilation | Monitor BP above and below coarctation (right radial and femoral); pre-op inotropes; heparin; intercostal blocks for post-op analgesia |
+| **PA-IVS** | RV hypertrophy, supra-systemic pressures; coronary sinusoids (myocardial perfusion dependent on intracavitary pressure) | Avoid inotropes (↑subpulmonary gradient); PGE₁ for PDA; radiofrequency perforation risk (tamponade) |
+| **PDA ligation (preterm)** | Respiratory disease; lung retraction impairs ventilation; bleeding risk | Full cardiac assessment (associated lesions); adequate vascular access; post-op inotropic support; recurrent laryngeal nerve injury |
+| **Obstructed TAPVC** | Low CO, pulmonary oedema, right heart failure | IPPV pre-op; monitor RAP and LAP post-bypass; pulmonary vasodilators (milrinone, NO); atrial fenestration if needed; delayed sternal closure |
+
+### Eisenmenger Syndrome — Anaesthetic Risk
+
+**High mortality** — avoid unless essential
+
+**Precautions:**
+*   Strict starvation guidelines
+*   Avoid ↓SVR (anaesthesia) or ↑PVR (hypoxia, hypercarbia, inadequate analgesia)
+*   Avoid ↑SVR (pain, anxiety) → ↑L→R shunt, RV dilatation, arrhythmias
+*   Convert oral anticoagulants to short-acting IV agents
+
+### Haemostasis and Transfusion
+
+**Coagulation abnormalities in cyanotic CHD:**
+*   Thrombocytopenia, reduced fibrinogen, ↑fibrinolysis, ↓factors V and VIII
+
+**CPB effects:** Haemodilution, synthetic surface exposure → platelet dysfunction, coagulation abnormalities
+
+**Transfusion considerations:**
+*   Previous transfusions → antibody formation
+*   Point-of-care testing (TEG®, SpHb) guides product administration
+*   Cyanotic patients may require higher haematocrit; over-transfusion causes hyperviscosity and fluid overload
+
+### Weaning from Cardiopulmonary Bypass
+
+**Critical factors:**
+*   Adequate repair — residual lesions poorly tolerated
+*   **Pressure overload:** residual stenosis (RVOT, mitral, LVOT) → ventricular failure
+*   **Volume overload:** residual VSD, significant AV valve regurgitation, large PDA → pulmonary overflow, cerebral/myocardial hypoperfusion
+
+**Early signs of myocardial dysfunction:**
+*   Poor BP with normal afterload/adequate preload
+*   High venous pressures, inadequate systemic pressure
+*   Low end-tidal CO₂
+*   Direct observation (poor contraction, mottled epicardium, distended ventricles)
+*   TOE evidence
+
+**Management:**
+*   Optimise filling pressures (LAP may be needed — PVR varies in children)
+*   Ionised calcium (neonatal myocardium immature)
+*   Inotropes (milrinone common in infants — RV hypertrophy, reactive pulmonary vasculature)
+*   Rewarming (coagulation, vascular tone)
+*   Mechanical assist (ECMO, VAD) if pharmacological measures fail
+
+### Monitoring
+
+**Minimum standards (italics):**
+*   **Airway:** Airway pressure, disconnection alarms; expired CO₂
+*   **Breathing:** *Pulse oximetry*, tidal volumes, airway pressure, respiratory rate, inspired O₂, volatile agent concentration
+*   **Circulation:** *ECG*, blood pressure (arterial line for beat-to-beat), filling pressure (right internal jugular ± left atrial line post-bypass), TOE if indicated
+*   **Neurological:** NIRS (cerebral oximetry), BIS, nerve stimulators
+*   **Renal:** Urinary catheter, NIRS (flank)
+*   **Metabolism:** Temperature (central/peripheral), blood gases
+
+**Cerebral oximetry (NIRS):**
+*   Uses near-infrared light (730 nm and 810 nm) — oxyhaemoglobin and deoxyhaemoglobin absorb differently
+*   Does not require pulsatile flow (usable on CPB)
+*   Reflects cerebral perfusion; guides manipulation of systemic blood flow, cerebral vascular tone, haematocrit
+
+### Central Venous Access Risks
+
+| Timing | Risks |
+|--------|-------|
+| **Immediate** | Vessel trauma (aberrant anatomy), arterial cannulation, arrhythmias, air embolus (paradoxical in shunts), catheter/guidewire embolisation |
+| **Early** | Blood loss (concealed), pneumothorax, haemothorax, hydrothorax |
+| **Medium-term** | Infection, venous thrombosis (especially subclavian) |
+| **Long-term** | Vessel occlusion, stenosis (critical in passive circulations — Fontan) |
+
+**Risk reduction:** Ultrasound, Trendelenburg position, sterile precautions, remove lines promptly
+
+### Transoesophageal Echocardiography (TOE)
+
+**Indications:**
+*   Anatomy when TTE non-diagnostic or impossible
+*   Diagnosing pathology (endocarditis, thrombus)
+*   Immediate evaluation of surgical results
+*   Guiding percutaneous device placement (ASD occlusion, pulmonary valve replacement, transseptal puncture)
+
+**Risks:**
+*   Airway: trauma, ETT displacement
+*   Breathing: airway compression
+*   Circulation: arrhythmias (vagal/sympathetic stimulation)
+*   Trauma: teeth, pharynx, oesophagus, stomach
+*   Ischaemic injury (pressure/heat)
+*   Bacteraemia
+
+**Risk reduction:** Dedicated, trained TOE operator
+
+### Thromboelastogram (TEG®)
+
+| Parameter | What It Measures | Clinical Action |
+|-----------|-----------------|-----------------|
+| **R time (reaction time)** | Clot initiation | Prolonged → hypofibrinogenaemia, factor deficiency → FFP, cryoprecipitate, fibrinogen concentrate |
+| **K time, alpha angle** | Clot propagation speed | Deranged → hypofibrinogenaemia, factor deficiency → cryoprecipitate, FFP |
+| **MA (maximum amplitude)** | Clot strength (platelet function) | Reduced → platelet transfusion |
+| **LY30, LY60** | Fibrinolysis | >7.5% → antifibrinolytics (tranexamic acid, aprotinin) |
+
+Heparinase samples distinguish heparin effect; temperature-adjusted samples differentiate hypothermia-associated coagulopathy.
+
+### Early vs Prolonged Ventilation
+
+| Early Extubation | Prolonged Ventilation |
+|------------------|----------------------|
+| Shorter hospital stay | Ventilator-associated pneumonia |
+| Increased comfort, parental satisfaction | Subglottic stenosis |
+| Early recovery of communication, feeding, mobility | Accidental extubation, kinking, obstruction |
+| — | Sedation side effects |
+
+**Contraindications to early extubation:** Prolonged CPB time, significant inotrope requirement, significant comorbidities (PHT, heart failure, chronic lung disease, liver failure), high risk of TRALI/ARDS/MOF
+
+### Handover to PICU — Key Information
+
+*   Patient identifiers (hospital number, DOB, age, weight)
+*   Diagnostic issues (underlying condition, pre-op status, previous procedures, allergies)
+*   Procedure performed (repair/palliation, residual lesions, CPB details, blood products, arrhythmias, pacing, drains)
+*   Airway (mask ventilation ease, laryngoscopy, ETT size/depth)
+*   Ventilator (mode, pressures, O₂, nitric oxide)
+*   Circulatory (lines, CPB duration, cross-clamp, DHCA, inotropes, pacing, blood products, results, ultrafiltration)
+*   Antibiotics, analgesia, fluids administered
+*   Plan (ideal haemodynamics)
+*   Contact details
+
+### Postoperative Pain — Negative Effects
+
+| System | Effects |
+|--------|---------|
+| **Cardiovascular** | ↑HR, ↑SVR, ↑PVR, ↑O₂ demand; crying ↑intrathoracic pressure → ↑PVR → altered shunting |
+| **Respiratory** | Atelectasis → pneumonia; hypocapnia with prolonged crying |
+| **CNS** | Aversion to future procedures, impaired communication |
+| **General** | Impaired wound healing (↓subcutaneous O₂), poor mobilisation → delayed discharge |
+
+### Quality Control
+
+**Quality improvement cycle:** Identify problem → define standard → collect data → implement change → evaluate impact
+
+**Challenges:** Complexity of healthcare makes meaningful metrics difficult; QIP may identify resource deficiencies or educational needs but frequent changes risk staff disengagement
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 1. Role of Anaesthetists and Pre-operative Assessment</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Involvement of Anaesthetists in Care of Patients with Congenital Heart Disease</summary><div class="details-content">
+
+*   Pre-operative planning and peri-operative care for cardiac surgical interventions
+*   General anaesthesia or sedation for percutaneous interventions in cardiac catheter laboratory
+*   Intensive care support for adult and paediatric patients
+*   Anaesthesia for non-cardiac interventions:
+    *   Specialist interventions (pain management, vascular access)
+    *   General surgical interventions unrelated to cardiac disease
+    *   Obstetric interventions (pregnancy increases physiological demands, requiring close liaison between medical, obstetric, and anaesthetic staff)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Factors Determining Use of Anaesthesia or Sedation</summary><div class="details-content">
+
+**Patient factors:**
+*   Age
+*   Comorbidity
+*   Cognitive and psychological considerations
+
+**Procedural factors:**
+*   Position required
+*   Duration
+*   Degree of invasiveness
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Differences Between Neonates and Older Children</summary><div class="details-content">
+
+**Airway:**
+*   Prominent occiput pushes neck into flexion when supine
+*   Tongue relatively large
+*   Epiglottis floppy and U-shaped
+*   Larynx relatively cephalad
+
+**Breathing — hypoxia occurs more rapidly due to:**
+*   Neonatal respiratory centres more easily suppressed by drugs or hypothermia
+*   Intercostal and diaphragmatic muscles contain fewer Type I fibres (slowly contracting, highly oxidative) → easily fatigued
+*   Reduced mechanical advantage (ribs horizontal) → greater diaphragmatic contribution
+*   Reduced functional residual capacity (FRC) from low lung compliance despite compliant chest wall
+*   Higher airway resistance → increased work of breathing
+*   Foetal-type acetylcholine receptors → more sensitive to depolarising muscle relaxants (longer recovery)
+
+**Circulation:**
+*   Cardiac output rate-dependent (stroke volume cannot readily be increased)
+*   Neonatal myocardium stiff, less able to increase contractility or respond to preload
+*   Proportionally greater cardiac output due to increased heart rate: 400 mL/kg/min at birth, 150 mL/kg/min at 8 weeks, 70 mL/kg/min at puberty
+
+**Pharmacology — less developed:**
+*   **Absorption:** Increased gastric pH, slower gastric emptying, increased intestinal transit time
+*   **Distribution:** Blood-brain barrier less developed → sedatives cross more easily
+*   **Metabolism:** Most drugs metabolised slower than older children
+*   **Excretion:** Renal excretion impaired (especially preterm) → drugs like aminoglycosides require less frequent administration
+
+**Temperature control:**
+*   Increased surface area:volume ratio → rapid heat loss
+*   Maintain normothermia with adequate ambient temperature, forced air warmers
+*   Generating heat dramatically increases metabolic demands
+
+**Communication:**
+*   Developmental stage impacts interaction with child and parents
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Principles of Pre-operative Assessment and Preparation</summary><div class="details-content">
+
+**Information gathering:**
+*   **History:** Review case notes, discuss with patient/parents — cardiac diagnosis, comorbidities, previous anaesthesia (patient and family)
+*   **Examination:** Airway management ease, potential vascular access sites
+*   **Investigations:** Cardiovascular and respiratory status relevant
+
+**Optimisation:** Correctable medical conditions optimised; uncorrectable issues accepted
+
+**Risk stratification:** Critical care mandatory for most cardiac surgical procedures
+
+**Rapport:** Establish with patient and family; anxious patients have more adverse events (e.g., laryngospasm); premedication may help
+
+**Induction:** Discuss IV vs inhalational agents with child and parents; ensure acceptance of risks (including invasive monitoring)
+
+**Starvation times (patients with CHD at particular risk of dehydration):**
+*   Clear (non-fizzy) fluids: 1 hour
+*   Breast milk: 4 hours
+*   Other milk or food: 6 hours
+
+**Analgesia:** Discuss options and risks
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Helpful Investigations</summary><div class="details-content">
+
+**Blood tests:**
+*   **Full blood count (FBC):** Polycythaemia (cyanotic patients require higher Hb for O₂ delivery) vs anaemia
+*   **Haemoglobinopathy screen (including HbSS):** If cooling planned (sickle crisis risk); may agree to maintain normothermia on bypass
+*   **Platelet count and coagulation studies:** Cyanotic patients prone to bleeding even with normal labs; order products early
+*   **Urea & electrolytes:** Abnormalities increase risk of myocardial irritability, indicate renal dysfunction (arrhythmias important when cardiac function borderline)
+*   **Pregnancy test:** All female patients post-menarche
+
+**Electrocardiogram (ECG):** Conduction abnormalities, arrhythmias → may require peri-operative pacing (temporary or permanent)
+
+**Chest radiograph (CXR):**
+*   Lower airway: lung size
+*   Anatomical abnormalities: sequestrated lung, diaphragm anomalies
+*   Respiratory disease: acute airways/parenchymal infections
+*   Non-infectious lung disease: may affect peri-operative risk or prognosis
+
+**Specific investigations:** Cardiac catheterisation, echocardiography define abnormal anatomy/physiology; identify high-risk lesions
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Psychological, Social, and Legal Issues</summary><div class="details-content">
+
+*   Patient understanding varies with age, education, cognitive ability, lesion complexity
+*   Anxieties/phobias may develop after multiple interventions → active management pre-intervention
+*   Younger patients and those with learning difficulties need information in differing formats (including postoperative care, pain-scoring tools)
+*   Language barriers → interpreters required
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Comorbidities and Patient Factors to Discuss Early</summary><div class="details-content">
+
+**Abnormal airways (associated with CHD):**
+*   Trisomy 21
+*   Pierre-Robin syndrome
+*   DiGeorge syndrome
+
+**Significant comorbidity:** Pulmonary disease → prolonged postoperative critical care; learning difficulties/neuropsychological issues → poor compliance with postoperative care
+
+**Psychological problems:** Anxiety, needle phobia → address pre-operatively; older children/transitional age patients may have compliance issues (especially with previous surgical experiences)
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 2. Classification and Principles of Anaesthesia for CHD</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Classification of Congenital Heart Disease for Anaesthetic Planning</summary><div class="details-content">
+
+Normal circulation: equal pulmonary and systemic flow in functionally serial circulations.
+
+**Classification based on how changes in PVR and SVR influence flow:**
+
+| Type | Physiology | Examples | Key Features |
+|------|------------|----------|--------------|
+| **Increased pulmonary blood flow (L→R shunt)** | Systemic to pulmonary shunting (Figure 1) | ASD, VSD, AVSD, PDA | Initially acyanotic; volume overload, congestive heart failure; pulmonary hypertension may develop → shunt reversal → cyanosis |
+| **Decreased pulmonary blood flow (R→L shunt)** | Pulmonary to systemic shunting (Figure 2) | TOF, PA ± VSD, DORV (tetralogy type), DORV (TGA type) | Cyanotic; mixing of systemic venous return into systemic circulation; degree of mixing varies with outflow tract obstruction |
+| **Decreased systemic blood flow** | Systemic hypoperfusion (Figure 3) | Coarctation, HLHS, severe AS, obstructed TAPVC, TGA with small PDA/restrictive ASD | — |
+| **Balanced parallel circulation** | Pulmonary and systemic flows balanced but not necessarily equal (Figure 4) | Functionally single ventricle (HLHS, absent IVS, unbalanced AVSD, HRHS), truncus arteriosus with large VSD | Balancing depends on relative resistance of vascular beds; mechanical obstruction may prevent pulmonary overflow |
 
 ![](_page_6_Picture_2.jpeg)
 
-**247 Figure 1. Systemic to pulmonary (left to right) shunt through an atrial septal defect causes increased pulmonary blood flow, as well as right atrial and right ventricular volume overload. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
-
-These are usually initially acyanotic conditions, mostly characterised by volume overload and congestive heart failure but pulmonary hypertension (PHT) may appear and cause reversal of the shunt and cyanosis;
-
-- b) decreased pulmonary blood flow with pulmonary to systemic (often right to left) shunting of blood (Figure 2). This occurs when the resistance to flow is higher through the pulmonary than the systemic circulation and includes:
-  - i) tetralogy of Fallot;
-  - ii) pulmonary atresia with or without VSD;
-  - iii) double-outlet right ventricle (DORV) of tetralogy type;
-  - iv) DORV of transposition of the great arteries (TGA) type.
-
-These are typically cyanotic lesions, due to the mixing of blood from the systemic venous return into the systemic circulation. In some cases, the mixing is obligated and complete (such as in pulmonary atresia), whereas in others, the degree of mixing depends on the degree of obstruction of the outflow tract and can vary in different physiological conditions (such as in tetralogy of Fallot);
+**Figure 1. Systemic to pulmonary (left to right) shunt through an atrial septal defect causes increased pulmonary blood flow, RA and RV volume overload. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
 
 ![](_page_7_Picture_2.jpeg)
 
-**Figure 2. Higher resistance to pulmonary blood flow (mechanical or physiological) results in pulmonary to systemic (right to left) shunting (through an atrial septal defect) and reduced arterial oxygen saturations. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
-
-- c) decreased systemic blood flow which is often associated with systemic hypoperfusion (Figure 3). This condition is associated with a few anomalies, such as:
-  - i) coarctation of the aorta;
-  - ii) hypoplastic left heart syndrome (HLHS);
-  - iii) congenital severe aortic stenosis;
-  - iv) total anomalous pulmonary venous connections (TAPVC) with obstruction to left atrial inflow;
-  - v) TGA with a small PDA or restrictive ASD;
-- d) balanced parallel circulation where pulmonary and systemic blood flow are well balanced but not necessarily equal (Figure
-  - 4). This type of physiology is seen in:
-  - i) functionally single-ventricle circulations HLHS, absent interventricular septum, unbalanced AVSD, hypoplastic right heart syndrome (HRHS);
-  - ii) truncus arteriosus with a large VSD.
-
-In these cases, the balancing of the two circulations is due to the relative resistance of the two vascular beds. In some cases, there may be a mechanical obstruction to the pulmonary circulation preventing the circulation to overflow to the lungs.
+**Figure 2. Higher resistance to pulmonary blood flow (mechanical or physiological) results in pulmonary to systemic (right to left) shunting (through ASD) and reduced arterial oxygen saturations. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
 
 ![](_page_8_Picture_2.jpeg)
 
-**Figure 3. Decreased systemic blood flow distal to an obstruction (left ventricular outflow tract obstruction). RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
+**Figure 3. Decreased systemic blood flow distal to an obstruction (LVOT obstruction). RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
 
 ![](_page_8_Picture_4.jpeg)
 
-**Figure 4. Balanced circulation with total mixing of blood in a 'common ventricular cavity'. The oxygen saturations of blood entering the systemic and pulmonary circulations are the same. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
+**Figure 4. Balanced circulation with total mixing of blood in a 'common ventricular cavity'. Oxygen saturations entering systemic and pulmonary circulations are the same. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle.**
 
-Many precipitants, such as infection, pulmonary hypertension or systemic vasodilatation, acutely disrupt this equilibrium, exacerbating cyanosis or congestive heart failure.
+Many precipitants (infection, pulmonary hypertension, systemic vasodilation) acutely disrupt equilibrium, exacerbating cyanosis or congestive heart failure.
 
-## 9 **What are the principles of anaesthesia for patients with congenital heart disease?**
+</div></details>
 
-- The circulation may be destabilised by many events that occur during anaesthesia, including:
-  - a) reduced venous return to the right ventricle;
-  - b) reduced myocardial function;
-  - c) increased pulmonary vascular resistance with subsequent reduced venous return to the left ventricle;
-  - d) decreased systemic vascular resistance with reduced aortic root pressure, potentially impairing coronary artery blood flow;
-  - e) abnormal temperature or glucose availability altering enzyme function in the myocardium and other tissues.
-- As patients are usually hypovolaemic, secondary to pre-operative starvation and vasodilatation caused by anaesthetic agents, venous return must be carefully monitored.
-- Excess bleeding, potentially due to failed haemostatic management, may cause reduced preload and circulatory instability.
-- Many anaesthetic agents suppress myocardial function. These effects are minimised by balanced anaesthetic techniques, typically utilising opioids, sedatives and a muscle relaxant.
-- Induction and extubation are high-risk periods, requiring extra vigilance, as both hypoventilation and positive intrathoracic pressure causing hypercapnia can increase pulmonary vascular resistance (PVR).
-- Hypothermia and hyperthermia are a hazard to the circulation and metabolic homeostasis. Effective temperature control includes active warming or cooling, both off and on cardiopulmonary bypass. Adequate temperature control helps to minimise coagulation abnormalities.
-- Neonates have minimal ability to store glycogen and glucosecontaining fluids may be required.
-- Endocarditis is a risk and prophylactic antibiotics should always be considered.
-- Patients with abnormal connections between the left and right heart are at risk of paradoxical emboli from intravenous injections.
+<details class="med-details"><summary>
 
-## 10 **What are the principles of anaesthesia in the presence of a cyanotic lesion?**
+#### Principles of Anaesthesia for Patients with Congenital Heart Disease</summary><div class="details-content">
 
-- Cyanosis occurs when arterial blood contains deoxyhaemoglobin at concentrations greater than 20g/L. In cyanotic lesions, it can worsen when:
-  - a) oxygen saturation in the pulmonary veins is reduced due to a ventilation-perfusion mismatch, such as with ventilatory failure, pulmonary oedema or pneumonia;
-  - b) excessive right-to-left shunting.
-- Management of cyanosis involves manipulation of ventilation and vascular resistance.
-- Right-to-left shunting is encouraged by a rise in PVR, a fall in systemic vascular resistance (SVR) or a combination of both.
-- PVR elevation may be caused by hypoxia, hypercarbia or acidosis. Positive end-expiratory pressure (PEEP) during intermittent positive pressure ventilation (IPPV) directly increases PVR but may indirectly decrease it by avoiding alveolar collapse and subsequent hypoxia.
-- Poor fluid resuscitation results in acidosis and increased PVR, whereas fluid overload causes pulmonary oedema, hypoxia and increased PVR.
-- Extubation is a particularly challenging period. Although early extubation avoids coughing and increased PVR, due to irritation from the endotracheal tube, it risks hypoxia and hypercarbia.
-- Anaesthetic agents frequently reduce SVR and systemic vasopressors may be needed to maintain the balance between PVR and SVR.
+**Circulation may be destabilised by:**
+*   Reduced venous return to RV
+*   Reduced myocardial function
+*   Increased PVR → reduced venous return to LV
+*   Decreased SVR → reduced aortic root pressure → impaired coronary blood flow
+*   Abnormal temperature or glucose availability
 
-## 11 **What are the principles of management in <sup>a</sup> patient undergoing repair of an Ebstein's anomaly?**
+**Key considerations:**
+*   Patients usually hypovolaemic (pre-operative starvation + anaesthetic vasodilation) → monitor venous return carefully
+*   Excess bleeding → reduced preload → circulatory instability
+*   Anaesthetic agents suppress myocardial function → minimise with balanced techniques (opioids, sedatives, muscle relaxant)
+*   **High-risk periods:** Induction and extubation (hypoventilation, positive intrathoracic pressure → hypercapnia → ↑PVR)
+*   Temperature control: active warming/cooling (off and on CPB) minimises coagulation abnormalities
+*   Neonates have minimal glycogen stores → glucose-containing fluids may be required
+*   Endocarditis prophylaxis
+*   Patients with abnormal L→R connections at risk of paradoxical emboli from IV injections
 
-- Ebstein's anomaly occurs when the tricuspid valve leaflets fail to delaminate from the myocardium. The functional annulus is displaced into the right ventricle with varying degrees of 'atrialisation' of the right ventricle, tricuspid regurgitation and right atrial dilatation. Cardiac output may fall due to increased regurgitant flow.
-- The main anaesthetic risks include:
-  - a) poor cardiac output;
-  - b) right-to-left shunting through an interatrial communication;
-  - c) increased susceptibility to arrhythmias.
+</div></details>
 
-- The goals are to minimise PVR, optimise preload and maintain myocardial contractility.
-- Maintaining sinus rhythm and right ventricular preload more effectively supports cardiac output than using inotropes or vasopressors.
-- Some authors advocate the use of a small dose of a vasopressor agent to maintain adequate systemic perfusion pressure and avoid the administration of a large amount of fluid, thus preventing further dilatation of the right ventricle.
+<details class="med-details"><summary>
 
-## 12 **What are the principles of managing <sup>a</sup> neonate with hypoplastic left heart syndrome?**
+#### Principles of Anaesthesia in Cyanotic Lesions</summary><div class="details-content">
 
-- Neonates with HLHS have a single functional (right) ventricle. Mixed pulmonary and systemic venous blood is ejected into systemic and pulmonary circulations (Figure 5). Flow distribution to the two circulations is dependent on PVR and SVR.
-- In these patients, neonatal PVR is too high to allow passive pulmonary flow, making conversion to a parallel circulation impossible.
-- The first operation is usually a Norwood procedure with a neo-aorta constructed from pulmonary artery and is performed within the first week of life. The pulmonary circulation is provided by a Blalock-Taussig shunt or a RV-to-PA conduit (Sano modification, Figure 6).
-- Pre-operatively, the goals are to optimise:
-  - a) pulmonary function, especially to avoid infection;
-  - b) systemic perfusion, by:
-    - i) maintaining a patent ductus arteriosus using prostaglandin E2;
-    - ii) keeping the SVR low and PVR high to maintain balance;
-    - iii) using inotropes.
+Cyanosis occurs when arterial blood contains deoxyhaemoglobin >20 g/L. Worsens with:
+*   Reduced O₂ saturation in pulmonary veins (V/Q mismatch: ventilatory failure, pulmonary oedema, pneumonia)
+*   Excessive right-to-left shunting
 
-## • The peri-operative challenges include:
+**Management:**
+*   Right-to-left shunting encouraged by: ↑PVR, ↓SVR, or both
+*   **PVR elevation causes:** Hypoxia, hypercarbia, acidosis, PEEP (direct); PEEP may indirectly ↓PVR by avoiding alveolar collapse → hypoxia
+*   Poor fluid resuscitation → acidosis → ↑PVR
+*   Fluid overload → pulmonary oedema → hypoxia → ↑PVR
+*   Extubation challenging: early extubation avoids coughing (↑PVR) but risks hypoxia/hypercarbia
+*   Anaesthetic agents frequently ↓SVR → may need systemic vasopressors to maintain PVR/SVR balance
 
-- a) balancing pulmonary and systemic perfusion in the context of pulmonary hyper-reactivity. This can potentially be achieved by modifying ventilation parameters;
-- b) managing myocardial dysfunction and ischaemia;
-- c) minimising cerebral hypoxia during circulatory arrest which can be improved by increasing the:
-  - i) perfusion pressure;
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 3. Specific Lesions — Management Principles</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Ebstein's Anomaly</summary><div class="details-content">
+
+**Pathophysiology:** Tricuspid valve leaflets fail to delaminate; functional annulus displaced into RV → atrialisation of RV, tricuspid regurgitation, RA dilatation → ↓CO
+
+**Anaesthetic risks:**
+*   Poor cardiac output
+*   Right-to-left shunting through interatrial communication
+*   Increased susceptibility to arrhythmias
+
+**Management goals:**
+*   Minimise PVR
+*   Optimise preload
+*   Maintain myocardial contractility
+*   Maintaining sinus rhythm and RV preload more effective than inotropes/vasopressors
+*   Some authors advocate small dose vasopressor to maintain systemic perfusion pressure without fluid overload (prevents further RV dilatation)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Hypoplastic Left Heart Syndrome (HLHS) — Neonate</summary><div class="details-content">
+
+**Pathophysiology:** Single functional (right) ventricle; mixed pulmonary and systemic venous blood ejected into systemic and pulmonary circulations (Figure 5). Flow distribution depends on PVR and SVR.
+
+**Pre-operative management:**
+*   PVR too high for passive pulmonary flow → parallel circulation impossible
+*   First operation: Norwood procedure (neo-aorta from pulmonary artery) within first week
+*   Pulmonary circulation: Blalock-Taussig shunt or RV-PA conduit (Sano modification, Figure 6)
+*   Pre-op goals: optimise pulmonary function, maintain PDA with PGE₂, keep SVR low and PVR high, inotropes
 
 ![](_page_12_Picture_2.jpeg)
 
-**Figure 5. Hypoplastic left heart syndrome, characterised by hypoplasia of the mitral valve, aortic valve, left ventricle and ascending aorta. The systemic circulation is maintained by flow across a large patent ductus arteriosus. Blood circulates both antegradely in the descending aorta and retrogradely into the aortic arch and coronary arteries. A drop in pulmonary vascular resistance will favour circulation into the lungs and reduce flow into the systemic circulation. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle; IVC = inferior vena cava; SVC = superior vena cava; Asc Ao = ascending aorta; PDA = patent ductus arteriosus; MPA = main pulmonary artery.**
-
-- ii) haemoglobin;
-- iii) arterial carbon dioxide tension.
-- Near-infrared spectroscopy (NIRS) is useful to monitor cerebral saturations.
+**Figure 5. HLHS: hypoplasia of mitral valve, aortic valve, LV, ascending aorta. Systemic circulation maintained by flow across large PDA. Blood circulates antegrade in descending aorta and retrograde into arch and coronaries. Drop in PVR favours pulmonary circulation → reduced systemic flow. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle; IVC = inferior vena cava; SVC = superior vena cava; Asc Ao = ascending aorta; PDA = patent ductus arteriosus; MPA = main pulmonary artery.**
 
 ![](_page_13_Picture_2.jpeg)
 
-**Figure 6. Circulation following the Norwood procedure, where pulmonary venous (red) and systemic venous (blue) blood mix in the atria via an atrial septal defect, resulting in mixed blood ejected into common outflow with a balanced circulation. RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle; IVC = inferior vena cava; SVC = superior vena cava; Neo-Ao = neo-aorta; BTS = Blalock-Taussig shunt.**
+**Figure 6. Circulation following Norwood: pulmonary venous (red) and systemic venous (blue) blood mix in atria via ASD → mixed blood ejected into common outflow (balanced circulation). RA = right atrium; RV = right ventricle; LA = left atrium; LV = left ventricle; IVC = inferior vena cava; SVC = superior vena cava; Neo-Ao = neo-aorta; BTS = Blalock-Taussig shunt.**
 
-## 13 **What are the anaesthetic considerations for <sup>a</sup> patient with a single ventricle?**
+**Peri-operative challenges:**
+*   Balance pulmonary and systemic perfusion (pulmonary hyper-reactivity) → modify ventilation parameters
+*   Manage myocardial dysfunction and ischaemia
+*   Minimise cerebral hypoxia during circulatory arrest: ↑perfusion pressure, ↑haemoglobin, ↑arterial CO₂ tension
+*   Near-infrared spectroscopy (NIRS) useful for monitoring cerebral saturations
 
-- Single ventricles provide flow to both the pulmonary and systemic circulations, acting as systems in parallel, with flow depending on the relative resistances in the circuits.
-- A bidirectional Glenn procedure (Figure 7) can usually be performed by the age of 6 months. Pressure monitoring from internal jugular lines then reflects pulmonary artery pressures.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Single Ventricle — Anaesthetic Considerations</summary><div class="details-content">
+
+**General principles:**
+*   Single ventricle provides flow to both circulations (parallel systems); flow depends on relative resistances
+
+**Bidirectional Glenn procedure (Figure 7):**
+*   Usually performed by 6 months
+*   SVC anastomosed to PA
+*   Pressure monitoring from internal jugular lines reflects PA pressures
 
 ![](_page_14_Picture_2.jpeg)
 
-**Figure 7. Bidirectional Glenn procedure, where the superior vena cava is anastomosed to the pulmonary artery. Oxygenated blood (red) enters the right atrium through an atrial septal defect and mixed blood (purple) is ejected into the systemic circulation. BTS = Blalock-Taussig shunt; PA = pulmonary artery; SVC = superior vena cava.**
+**Figure 7. Bidirectional Glenn: SVC anastomosed to PA. Oxygenated blood (red) enters RA through ASD; mixed blood (purple) ejected into systemic circulation. BTS = Blalock-Taussig shunt; PA = pulmonary artery; SVC = superior vena cava.**
 
-- Total cavopulmonary connection (TCPC) is usually achieved by 4 years. As blood flow through the lungs is then entirely passive, minimising the PVR is vital (Figure 8).
-- When managing a TCPC circulation, it is important to avoid an elevation in PVR due to:
-  - a) hypoxia;
-  - b) hypercarbia;
-  - c) acidosis;
-  - d) drugs (e.g. ketamine).
+**Total cavopulmonary connection (TCPC, Figure 8):**
+*   Usually achieved by 4 years
+*   Blood flow through lungs entirely passive → minimising PVR vital
 
 ![](_page_15_Picture_2.jpeg)
 
-**Figure 8. Total cavopulmonary connection (TCPC) circulation, where venous blood (blue) flows passively from the superior and inferior vena cavae into the pulmonary circulation. Oxygenated blood (red) returns to the right ventricle via an atrial septal defect and is ejected into the systemic circulation. PA = pulmonary artery; IVC = inferior vena cava; SVC = superior vena cava.**
+**Figure 8. TCPC: venous blood (blue) flows passively from SVC and IVC into pulmonary circulation. Oxygenated blood (red) returns to RV via ASD → ejected into systemic circulation. PA = pulmonary artery; IVC = inferior vena cava; SVC = superior vena cava.**
 
-- Hypovolaemia is poorly tolerated in passive circulations.
-- As the risk of arrhythmias is increased in this patient population and is poorly tolerated, maintenance of sinus rhythm is paramount. This is particularly problematic where the whole right atrium is within the circuit (classical Fontan) rather than only the vena cavae (TCPC).
-- Often the function of the systemic ventricle, which is a morphological right ventricle, is impaired and responds poorly to increased metabolic demand. Over time, hypertrophy and dilatation occur and response to inotropes is poor.
+**Management principles:**
+*   Avoid ↑PVR (hypoxia, hypercarbia, acidosis, drugs like ketamine)
+*   Hypovolaemia poorly tolerated in passive circulations
+*   Maintain sinus rhythm (arrhythmias poorly tolerated; problematic in classical Fontan where whole RA in circuit)
+*   Systemic ventricle often morphological RV with impaired function → responds poorly to increased metabolic demand; hypertrophy/dilatation over time; poor response to inotropes
+*   Central venous lines risk thrombosis or post-surgical line obstruction to venous drainage
 
-• Central venous lines are a very significant risk, especially for thrombosis or post-surgical line obstruction to venous drainage.
+</div></details>
 
-## 14 **What are the principles of anaesthesia in <sup>a</sup> patient undergoing repair of coarctation of the aorta with poor left ventricular function?**
+<details class="med-details"><summary>
 
-- All obstructions to systemic blood flow causing a severe increase in afterload lead to upper body hypertension and congestive heart failure. In patients with coarctation of the aorta, the obstruction can cause severe impairment of left ventricular function in the early days, especially when the PDA spontaneously closes.
-- When preparing for surgery in these patients, the blood pressure may be monitored above and below the coarctation via the right radial and femoral arteries.
-- Pre-operative inotropes may be required to support ventricular contractility and cardiac output.
-- Significant proximal hypertension with cross-clamping of the aorta may require vasodilators.
-- Some centres use a small dose of heparin during the procedure to prevent stasis-related clotting in the proximity of the vascular clamps.
-- Hyperventilation should be avoided throughout, as it causes vasoconstriction with reduced cerebral and spinal perfusion.
-- Postoperative analgesia provides comfort and control of hypertension. Intercostal blocks can be sited under direct vision intra-operatively to effect this.
+#### Coarctation of Aorta with Poor LV Function</summary><div class="details-content">
 
-## 15 **What are the principles of anaesthesia for <sup>a</sup> patient with pulmonary atresia and an intact ventricular septum?**
+**Pathophysiology:** Obstruction → severe afterload increase → upper body hypertension, congestive heart failure; LV function severely impaired, especially when PDA closes spontaneously
 
-- Pulmonary atresia with intact ventricular septum (PA-IVS) is one of the most challenging conditions that an anaesthetist might need to face (Figure 9).
-- It is characterised by right ventricular hypertrophy and hypoplasia, capable of generating supra-systemic pressures, and varying degrees of tricuspid valve hypoplasia.
-- The degree of hypoplasia of the tricuspid valve is directly linked to the presence of coronary sinusoids. These ventriculo-coronary fistulae render myocardial perfusion dependent on intracavitary pressures.
-- As a result, any change in preload, central venous pressure and systemic vascular resistance, can affect myocardial perfusion, especially when coronary arteries present with significant stenoses.
+**Management:**
+*   Monitor BP above and below coarctation (right radial and femoral arteries)
+*   Pre-operative inotropes may be required
+*   Significant proximal hypertension with aortic cross-clamping → vasodilators
+*   Some centres use small dose heparin to prevent stasis-related clotting near clamps
+*   Avoid hyperventilation (causes vasoconstriction → reduced cerebral and spinal perfusion)
+*   Post-operative analgesia: intercostal blocks under direct vision
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Pulmonary Atresia with Intact Ventricular Septum (PA-IVS) (Figure 9)</summary><div class="details-content">
+
+**Pathophysiology:**
+*   RV hypertrophy and hypoplasia (can generate supra-systemic pressures)
+*   Variable tricuspid valve hypoplasia
+*   **Coronary sinusoids** (ventriculo-coronary fistulae) — degree of tricuspid hypoplasia directly linked to presence; myocardial perfusion dependent on intracavitary pressures
+
+**Implications:** Any change in preload, CVP, or SVR affects myocardial perfusion (especially with coronary stenoses)
 
 ![](_page_17_Picture_2.jpeg)
 
-**Figure 9. Pulmonary atresia with intact ventricular septum. As blood cannot be ejected from the right ventricle, all pulmonary flow occurs through a patent ductus arteriosus. Venous blood (blue) enters the left atrium via an atrial septal defect, mixing with oxygenated blood (red) from the pulmonary veins. Note the right ventricular dependent sinusoids feeding the coronary circulation. ASD = atrial septal defect; PDA = patent ductus arteriosus.**
+**Figure 9. PA-IVS: no RV ejection; all pulmonary flow through PDA. Venous blood (blue) enters LA via ASD, mixes with oxygenated blood (red) from pulmonary veins. Note RV-dependent sinusoids feeding coronary circulation. ASD = atrial septal defect; PDA = patent ductus arteriosus.**
 
-- Pulmonary flow is PDA-dependent, requiring pre-operative prostaglandin E2.
-- Although radiofrequency perforation and dilatation of the valve may be possible, tamponade is a recognised risk and adequate vascular access is required pre-procedure.
-- Total atresia of the infundibulum requires a modified Blalock-Taussig shunt (BTS) to produce a balanced circulation.
-- Inotropes are associated with an increased subpulmonary gradient and should be avoided where possible.
+**Management:**
+*   Pulmonary flow PDA-dependent → pre-operative PGE₂
+*   Radiofrequency perforation and dilatation possible (tamponade risk → adequate vascular access)
+*   Total infundibular atresia → modified Blalock-Taussig shunt (BTS) for balanced circulation
+*   **Avoid inotropes** (associated with increased subpulmonary gradient)
 
-## 16 **What are the principles of anaesthesia for ligation of <sup>a</sup> patent ductus arteriosus in a preterm neonate?**
+</div></details>
 
-- Patency of the ductus arteriosus in preterm infants is inversely proportional to gestational age. Approximately 50% of preterm infants <1200g will have a PDA.
-- Preterm neonates are challenging to anaesthetise and full cardiac assessment is necessary, as PDA is associated with other conditions, such as coarctation of the aorta, ventricular septal defect, pulmonary stenosis and aortic stenosis.
-- Respiratory disease and intermittent positive pressure ventilation (IPPV) elevate PVR, inhibiting closure of the PDA.
-- Although PDA ligation is usually a short procedure with minimal blood loss, significant bleeding may occur if the pulmonary artery, aorta or ductus are torn. Sufficient vascular access should be in place.
-- Although retraction of the lung during surgical exposure is unavoidable, it further impairs ventilation and is poorly tolerated.
-- Inotropic support may be necessary postoperatively.
-- Recurrent laryngeal nerve injury may cause stridor following extubation.
-- Some cases can now be undertaken in the cardiac catheter laboratory.
+<details class="med-details"><summary>
 
-## 17 **What are the principles of anaesthesia for <sup>a</sup> patient with an obstructed total anomalous pulmonary venous connection?**
+#### PDA Ligation in Preterm Neonate</summary><div class="details-content">
 
-- In obstructed TAPVC, the pulmonary venous return is limited by the severity of the obstruction. Significant stenosis has several catastrophic consequences, including:
-  - a) low cardiac output and shock, due to a lack of LV preload;
-  - b) pulmonary oedema due to pulmonary venous hypertension;
-  - c) right heart failure and systemic venous congestion due to pulmonary arterial hypertension.
-- Presenting features include cyanosis, tachypnoea, acidosis, pulmonary oedema, pulmonary hypertension and right heart failure.
-- Management of pulmonary hypertension by IPPV to improve oxygenation may be necessary pre-operatively.
-- Arterial access is required for monitoring of both cardiovascular and metabolic status.
+**Epidemiology:** PDA inversely proportional to gestational age; ~50% of preterm infants <1200 g have PDA
 
-- In addition to systemic blood pressure, both right and left atrial pressure should be monitored post-bypass.
-- Pulmonary hypertension may persist post-bypass but may be managed by ventilation and pulmonary vasodilators, such as milrinone and nitric oxide. If these fail, atrial fenestration allows decompression through a right-left shunt.
-- Delayed sternal closure may be required to improve right ventricular function.
-- Special care is necessary during any transfers.
+**Challenges:**
+*   Full cardiac assessment necessary (associated conditions: coarctation, VSD, PS, AS)
+*   Respiratory disease and IPPV elevate PVR, inhibiting PDA closure
+*   Significant bleeding if pulmonary artery, aorta, or ductus torn → adequate vascular access
+*   Lung retraction impairs ventilation (poorly tolerated)
+*   Inotropic support may be needed post-operatively
+*   Recurrent laryngeal nerve injury → stridor post-extubation
+*   Some cases now undertaken in cardiac catheter laboratory
 
-## 18 **Describe how the risk of anaesthesia can be minimised in a patient with Eisenmenger syndrome**
+</div></details>
 
-- Anaesthesia in a patient with Eisenmenger syndrome carries significant mortality and should not be performed unless essential.
-- Adequate venous return is crucial in pulmonary hypertension. Preoperative starvation should not exceed international recommendations:
-  - a) solid food and milk 6 hours;
-  - b) clear fluids 1 hour.
-- Systemic arterial pressure fluctuates with variations in SVR and PVR.
-- When intracardiac communications are present, right-to-left shunting and worsening cyanosis will be exacerbated by a:
-  - a) fall in SVR, such as caused by anaesthesia;
-  - b) rise in PVR, such as caused by hypoxia, hypercarbia or inadequate anaesthesia/analgesia.
-- Similarly, left-to-right shunting, which occurs with RV dilatation, further dysfunction and increased risk of arrhythmias, increases with elevation in the SVR, such as caused by pain, anxiety or inadequate anaesthesia.
-- Fluctuations in the heart rate and myocardial contractility should be avoided. Effective communication between the surgeon and anaesthetist allows responses to surgical stimuli to be minimised.
-- Oral anticoagulants should be converted to short-acting intravenous agents peri-operatively, to avoid both thrombosis and excessive bleeding.
+<details class="med-details"><summary>
 
-## 19 **How does the presence of congenital heart disease influence haemostasis?**
+#### Obstructed Total Anomalous Pulmonary Venous Connection (TAPVC)</summary><div class="details-content">
 
-- Coagulation in congenital heart disease, especially cyanotic lesions with polycythaemia, is modified by a number of factors, including:
-  - a) thrombocytopaenia;
-  - b) reduced fibrinogen levels;
-  - c) increased fibrinolysis;
-  - d) decreased levels of factors V and VIII, possibly secondary to liver hypoperfusion.
-- Polycythaemia and hyperviscosity cause impaired flow, which is implicated in thrombus formation.
-- Cardiopulmonary bypass causes haemodilution and exposes blood to synthetic surfaces. Inflammatory and coagulation pathways are activated, causing platelet dysfunction and coagulation abnormalities independent of heparin.
+**Catastrophic consequences:**
+*   Low cardiac output and shock (lack of LV preload)
+*   Pulmonary oedema (pulmonary venous hypertension)
+*   Right heart failure and systemic venous congestion (pulmonary arterial hypertension)
 
-## 20 **What are the implications of congenital heart disease for peri-operative blood transfusion?**
+**Presenting features:** Cyanosis, tachypnoea, acidosis, pulmonary oedema, pulmonary hypertension, right heart failure
 
-- Previous transfusions are common, increasing the risk of antibody formation and making cross-matching more complex than usual.
-- Rapid, point-of-care testing including HemoCue®, SpHb and thromboelastography® (TEG®) can guide the administration of blood products and reduce the exposure to risk from excessive bleeding or thromboembolic events, especially in complex redo procedures or surgery for single-ventricle palliation.
-- Cyanotic patients with poor cardiac output may require an increased haematocrit. Over-transfusion, however, causes hyperviscosity and fluid overload, in addition to recognised risks, such as transfusionassociated lung injury (TRALI).
+**Management:**
+*   IPPV pre-operatively to improve oxygenation
+*   Arterial access for cardiovascular and metabolic monitoring
+*   Monitor both right and left atrial pressure post-bypass
+*   Pulmonary hypertension may persist post-bypass → ventilation, pulmonary vasodilators (milrinone, nitric oxide)
+*   Atrial fenestration if these fail (R→L shunt decompression)
+*   Delayed sternal closure may be required
+*   Special care during transfers
 
-## 21 **What are the anaesthetic considerations for percutaneous device closure of an atrial septal defect?**
+</div></details>
 
-- Although small ASDs may be closed percutaneously, the cardiac catheterisation laboratory environment can be challenging for the anaesthetist because:
-  - a) access to the patient is limited by conflicting equipment requirements;
+<details class="med-details"><summary>
 
-- b) ambient light is low, to improve contrast on the display screens;
-- c) temperature control is often not as effective as in the operating theatre;
-- d) anaesthetic gas scavenging, gas supply and air-change rates rarely reach operating theatre standards.
-- Vascular access sites and consent for transoesophageal echocardiography (TOE) should be confirmed pre-procedure.
-- Blood loss from the puncture sites may be underestimated.
-- Device displacement or embolisation are rare complications, with a reported rate of 0.55%, necessitating percutanous retrieval or open surgery.
+#### Minimising Risk in Eisenmenger Syndrome</summary><div class="details-content">
 
-## 22 **What strategies may be used to improve weaning from cardiopulmonary bypass?**
+**High mortality** — avoid anaesthesia unless essential
 
-- Weaning from cardiopulmonary bypass is one of the most critical phases of the entire operation and must be managed with maximal communication and clarity of action. The anaesthetist, surgeon and perfusionist should operate according to one common strategy and sequence of events.
-- One of the most important factors for a successful wean is achieving an adequate repair. Residual lesions are generally poorly tolerated, both from a haemodynamic balancing and myocardial function standpoint.
-- It is paramount that attention is placed at identifying any early signs of myocardial dysfunction and circulatory imbalance. Ventilation and pulmonary function need to be optimised prior to initiating the weaning procedures.
-- Most groups adopt agreed weaning protocols, to eliminate misunderstandings and adverse events.
-- The effects of residual lesions are numerous and can be severe, including:
-  - a) pressure overload in the presence of residual stenoses, such as RVOT obstruction, mitral stenosis or LVOT obstruction; this will worsen the oxygen supply-demand balance, leading to right ventricular failure, left ventricular failure or biventricular failure, which can have catastrophic consequences;
-  - b) volume overload in the presence of a residual VSD, significant atrioventricular valve regurgitation or an untreated
+**Precautions:**
+*   Adequate venous return crucial
+*   Strict starvation: solid food/milk 6 hours; clear fluids 1 hour
+*   Systemic arterial pressure fluctuates with variations in SVR and PVR
 
-large PDA; this will reduce systemic cardiac output and/or result in pulmonary overflow at the expense of systemic perfusion, leading to both cerebral and myocardial hypoperfusion, and early ventricular failure.
+**Shunt changes:**
+*   Right-to-left shunting (cyanosis) worsened by: ↓SVR (anaesthesia), ↑PVR (hypoxia, hypercarbia, inadequate anaesthesia/analgesia)
+*   Left-to-right shunting (RV dilatation, dysfunction, arrhythmias) increased by: ↑SVR (pain, anxiety, inadequate anaesthesia)
 
-- Early signs of myocardial dysfunction may be identified by:
-  - a) poor systemic blood pressure in the presence of a normal afterload and adequate preload;
-  - b) high venous pressures (including left atrial pressure when indicated) and inadequate systemic pressure;
-  - c) poor pulmonary blood flow as indicated by low end-tidal CO2;
-  - d) decreasing arterial oxygen saturation;
-  - e) direct observation of a poorly contracting heart, mottled epicardium, distended ventricles and ensuing bradycardia;
-  - f) TOE or epicardial echocardiographic evidence.
-- Arrhythmias have a significant impact on cardiac function, including:
-  - a) bradycardia which causes a linear reduction in cardiac output in children;
-  - b) tachyarrhythmias which reduce diastolic filling time and coronary perfusion, and increase myocardial work;
-  - c) epicardial pacing which may be required to achieve optimal rate and rhythm.
-- Filling pressures should be optimised. As PVR varies more in children, right atrial pressure (RAP) may not reflect left-sided filling pressures, and hence it may be necessary to directly monitor left atrial pressure (LAP).
-- Calcium handling in the neonatal myocardium is immature and extracellular calcium has a more significant role. Ionised calcium levels must be targeted to optimise contractility.
-- Inotropes may be required, with the choice of agent depending on the underlying pathology. In view of the relative hypertrophy of the RV and reactive pulmonary vasculature, milrinone is commonly used in infants.
-- Temperature and adequate rewarming procedures are paramount to maintain control of vascular tone, ventricular afterload and enzymatic function, especially for the coagulation system.
-- Failure to respond to pharmacological measures may necessitate the use of mechanical assist devices, usually extracorporeal membrane oxygenation (ECMO) or ventricular assist devices (VAD).
+**Management:**
+*   Avoid fluctuations in heart rate and myocardial contractility
+*   Effective communication between surgeon and anaesthetist
+*   Convert oral anticoagulants to short-acting IV agents peri-operatively
 
-## 23 **Describe the monitoring used for anaesthesia on patients with congenital heart disease**
+</div></details>
 
-• Minimum monitoring standards are set for all patients undergoing general anaesthesia (including transfer) and are shown in italics below. They ensure both safety and lack of awareness and pain (Figure 10).
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 4. Haemostasis, Transfusion, and Procedural Considerations</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Influence of Congenital Heart Disease on Haemostasis</summary><div class="details-content">
+
+**Coagulation modifications in cyanotic lesions with polycythaemia:**
+*   Thrombocytopenia
+*   Reduced fibrinogen levels
+*   Increased fibrinolysis
+*   Decreased levels of factors V and VIII (possibly secondary to liver hypoperfusion)
+
+**Other factors:**
+*   Polycythaemia and hyperviscosity → impaired flow → thrombus formation
+*   CPB: haemodilution, synthetic surface exposure → platelet dysfunction, coagulation abnormalities independent of heparin
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Implications for Peri-operative Blood Transfusion</summary><div class="details-content">
+
+*   Previous transfusions common → antibody formation → complex cross-matching
+*   Point-of-care testing: HemoCue®, SpHb, thromboelastography® (TEG®) guides product administration, reduces risk from excessive bleeding/thromboembolic events (especially complex redo procedures, single-ventricle palliation)
+*   Cyanotic patients with poor CO may require increased haematocrit
+*   Over-transfusion causes hyperviscosity and fluid overload (plus TRALI risk)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Anaesthetic Considerations for Percutaneous ASD Closure</summary><div class="details-content">
+
+**Catheter laboratory challenges:**
+*   Limited patient access (conflicting equipment)
+*   Low ambient light (improves display contrast)
+*   Less effective temperature control than operating theatre
+*   Anaesthetic gas scavenging, gas supply, air-change rates rarely meet operating theatre standards
+
+**Pre-procedure:**
+*   Confirm vascular access sites and consent for TOE
+*   Blood loss from puncture sites may be underestimated
+
+**Complications:** Device displacement/embolisation (0.55%) → percutaneous retrieval or open surgery
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Strategies to Improve Weaning from Cardiopulmonary Bypass</summary><div class="details-content">
+
+**Critical factors:**
+*   Adequate repair — residual lesions poorly tolerated (haemodynamic balancing, myocardial function)
+*   Identify early signs of myocardial dysfunction and circulatory imbalance
+*   Optimise ventilation and pulmonary function before weaning
+*   Adopt agreed weaning protocols
+
+**Residual lesion effects:**
+
+| Type | Consequence |
+|------|-------------|
+| **Pressure overload** | Residual stenosis (RVOT, mitral, LVOT) → worsens O₂ supply-demand balance → RV failure, LV failure, biventricular failure |
+| **Volume overload** | Residual VSD, significant AV valve regurgitation, large PDA → ↓systemic CO, pulmonary overflow at expense of systemic perfusion → cerebral/myocardial hypoperfusion, early ventricular failure |
+
+**Early signs of myocardial dysfunction:**
+*   Poor BP with normal afterload and adequate preload
+*   High venous pressures (including LAP when indicated) with inadequate systemic pressure
+*   Low end-tidal CO₂
+*   Decreasing arterial oxygen saturation
+*   Direct observation: poorly contracting heart, mottled epicardium, distended ventricles, bradycardia
+*   TOE or epicardial echo evidence
+
+**Arrhythmia management:**
+*   Bradycardia → linear reduction in CO in children
+*   Tachyarrhythmias → reduced diastolic filling time, coronary perfusion, increased myocardial work
+*   Epicardial pacing may be required
+
+**Optimisation:**
+*   Filling pressures: PVR varies more in children → RAP may not reflect left-sided filling → LAP monitoring may be necessary
+*   Ionised calcium: neonatal myocardium immature, extracellular calcium more significant
+*   Inotropes: choice depends on underlying pathology; milrinone common in infants (RV hypertrophy, reactive pulmonary vasculature)
+*   Rewarming: maintain vascular tone, ventricular afterload, enzymatic function (coagulation)
+*   Mechanical assist (ECMO, VAD) if pharmacological measures fail
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 5. Monitoring, Access, and Post-operative Care</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Monitoring for Anaesthesia in Congenital Heart Disease (Figure 10)</summary><div class="details-content">
+
+Minimum monitoring standards for all patients undergoing general anaesthesia (including transfer) are shown in italics.
 
 ![](_page_23_Picture_4.jpeg)
 
-**Figure 10. Standard anaesthetic monitoring with many physiological parameters easily viewed, including electrocardiogram (white), invasive blood pressure (red), right atrial pressure (yellow), oxygen saturations (blue), anaesthetic gases (purple), respiratory gases (green), temperature and near-infrared spectroscopy (bottom right corner).**
+**Figure 10. Standard anaesthetic monitoring: ECG (white), invasive BP (red), right atrial pressure (yellow), oxygen saturations (blue), anaesthetic gases (purple), respiratory gases (green), temperature, NIRS (bottom right).**
 
-## • Airway:
+**Airway:**
+*   *Airway pressure, disconnection alarms*
+*   *Expired CO₂ concentration* (confirms ETT placement)
 
-- a) ~áêï~ó éêÉëëìêÉI ÇáëÅçååÉÅíáçå ~ä~êãë;
-- b) ÉñéáêÉÇ Å~êÄçå ÇáçñáÇÉ ÅçåÅÉåíê~íáçå (confirming that the endotracheal tube is placed in the trachea).
+**Breathing:**
+*   *Pulse oximetry*
+*   Tidal volumes and airway pressure
+*   Respiratory rate
+*   Inspired O₂ concentration
+*   Volatile anaesthetic agent concentration
 
-## • Breathing:
+**Circulation:**
+*   *ECG*
+*   Blood pressure (arterial line if beat-to-beat measurement needed)
+*   Filling pressure (right internal jugular line ± left atrial line post-bypass); pulmonary artery catheters rarely used
+*   TOE if indicated
 
-- a) éìäëÉ çñáãÉíêó;
-- b) íáÇ~ä îçäìãÉë ~åÇ ~áêï~ó éêÉëëìêÉ;
-- c) êÉëéáê~íçêó ê~íÉ;
+**Neurological function:**
+*   Near-infrared spectroscopy (NIRS) — cerebral oxygenation
+*   Bispectral index (BIS) — depth of anaesthesia
+*   Nerve stimulators — neuromuscular function (muscle relaxants)
 
-- d) áåëéáêÉÇ çñóÖÉå ÅçåÅÉåíê~íáçå;
-- e) îçä~íáäÉ ~å~ÉëíÜÉíáÅ ~ÖÉåí ÅçåÅÉåíê~íáçå.
+**Renal perfusion:**
+*   Urinary catheter
+*   NIRS applied to flank (overlying kidney)
 
-## • Circulation:
+**Metabolism:**
+*   Temperature (central and peripheral)
+*   Blood gases (arterial and central venous)
 
-- a) b`d;
-- b) \_äççÇ éêÉëëìêÉ (arterial line if beat-to-beat measurement is needed);
-- c) Filling pressure (right internal jugular line +/- left atrial line postbypass). Pulmonary artery catheters are rarely used due to the added risks;
-- d) TOE, if indicated.
+Monitoring lines also provide treatment options: central lines for drug administration, urinary catheters for cold fluids if extra cooling required.
 
-## • Neurological function:
+</div></details>
 
-- a) near-infrared spectroscopy (NIRS) which assesses cerebral oxygenation;
-- b) bispectral index (BIS) which provides information on the depth of anaesthesia;
-- c) åÉêîÉ ëíáãìä~íçêë which monitor neuromuscular function when muscle relaxants are administered.
+<details class="med-details"><summary>
 
-## • Renal perfusion:
+#### Principles of Cerebral Oximetry (NIRS)</summary><div class="details-content">
 
-- a) urinary catheter;
-- b) NIRS which can be applied to the flank overlying the kidney.
-
-## • Metabolism:
-
-- a) qÉãéÉê~íìêÉ (central and peripheral);
-- b) Blood gases (arterial and central venous).
-- Monitoring lines may also be used to provide treatment options, such as:
-  - a) central lines which may be used to administer drugs;
-  - b) urinary catheters which may be used to administer cold fluids if extra cooling is required.
-
-## 24 **What are the principles behind cerebral oximetry monitoring in congenital cardiac surgery?**
-
-• Unlike haemoglobin, bone and tissue are largely transparent to nearinfrared (IR) light.
-
-• Oxyhaemoglobin and deoxyhaemoglobin absorb different wavelengths of IR light maximally (Figure 11). The relative absorption of IR light at 730nm and 810nm by oxygenated and deoxygenated haemoglobin is estimated from the proportion of reflected light.
+*   Bone and tissue largely transparent to near-infrared (IR) light
+*   Oxyhaemoglobin and deoxyhaemoglobin absorb different wavelengths of IR light maximally (Figure 11)
+*   Relative absorption at 730 nm and 810 nm estimated from proportion of reflected light
 
 ![](_page_25_Figure_3.jpeg)
 
-**Figure 11. Oxygenated and deoxygenated haemoglobin absorbs IR light to different extents at different wavelengths. The relative proportions of each can therefore be measured.**
+**Figure 11. Oxygenated and deoxygenated haemoglobin absorb IR light differently at different wavelengths. Relative proportions can therefore be measured.**
 
-- Unlike conventional pulse oximtery, cerebral oximetry does not require pulsatile flow. It can therefore be used during cardiopulmonary bypass
-- Regional oxygen saturation is measured by placing a light-emitting source and a photo-detector over adjacent portions of skin. With the oximeter on the forehead, cerebral cortex oxygenation can be estimated (Figure 12).
-- Cerebral oxygenation can be used as a marker of cerebral perfusion. Manipulation of systemic blood flow, cerebral vascular tone and haematocrit aids optimisation.
+*   Unlike pulse oximetry, cerebral oximetry does **not** require pulsatile flow → usable during CPB
+*   Regional oxygen saturation measured by light-emitting source and photo-detector over adjacent skin (forehead for cerebral cortex; Figure 12)
+*   Cerebral oxygenation as marker of cerebral perfusion → manipulate systemic blood flow, cerebral vascular tone, haematocrit
 
 ![](_page_26_Picture_2.jpeg)
 
-**Figure 12. The display of the INVOS™ machine (Medtronic, Watford, UK), which is used to measure tissue oxygenation. There are four possible channels, potentially allowing monitoring of both cerebral hemispheres and intra-abdominal viscera bilaterally.**
+**Figure 12. INVOS™ machine display (Medtronic) for tissue oxygenation. Four channels allow monitoring of both cerebral hemispheres and intra-abdominal viscera bilaterally.**
 
-## 25 **What are the risks with central venous access in <sup>a</sup> patient with congenital heart disease (Figure 13)?**
+</div></details>
 
-- Although rare, complications may be fatal and must be considered prior to line placement. The frequency of complications is inversely proportional to the patient's weight.
-- Immediate risks include:
-  - a) trauma to vessels (aberrant anatomy increases risk);
-  - b) arterial cannulation;
-  - c) arrhythmias particularly if lines or wires enter the atrium;
-  - d) air embolus which may become paradoxical in the presence of shunts, especially in spontaneously ventilated patients;
-  - e) embolisation of catheter or guidewire parts, if multiple lines are inserted.
+<details class="med-details"><summary>
 
-## • Early risks include:
+#### Risks with Central Venous Access (Figure 13)</summary><div class="details-content">
 
-- a) blood loss which may be concealed under the drapes;
-- b) pneumothorax, haemothorax or hydrothorax especially when internal jugular or subclavian vessels are cannulated.
+Complications inversely proportional to patient weight.
+
+| Timing | Risks |
+|--------|-------|
+| **Immediate** | Vessel trauma (aberrant anatomy increases risk), arterial cannulation, arrhythmias (especially if lines/wires enter atrium), air embolus (paradoxical in shunts, especially spontaneously ventilating patients), embolisation of catheter/guidewire parts |
+| **Early** | Blood loss (may be concealed under drapes), pneumothorax, haemothorax, hydrothorax (especially internal jugular/subclavian) |
+| **Medium-term** | Infection, venous thrombosis (especially subclavian) |
+| **Long-term** | Vessel occlusion (problems for future catheterisation/surgery), vessel stenosis (critical in passive circulations — Fontan — venous return and CO impaired) |
 
 ![](_page_27_Picture_2.jpeg)
 
-**<sup>268</sup> Figure 13. <sup>A</sup> 5.5Fr, 8cm triple-lumen catheter (Arrow®, Teleflex, NC, USA). The blue-coloured tip is made from very pliable material that minimises vessel trauma. Insertion is performed over a 'J' tip guidewire using the Seldinger technique.**
+**Figure 13. 5.5Fr, 8 cm triple-lumen catheter (Arrow®, Teleflex). Blue tip made from pliable material minimises vessel trauma. Insertion over 'J' tip guidewire using Seldinger technique.**
 
-## • Medium-term risks include:
+**Risk reduction:**
+*   Ultrasound (reduces mechanical complications)
+*   Trendelenburg position (minimises air embolus)
+*   Sterile precautions (as per 'Matching Michigan')
+*   Remove lines as soon as possible
 
-- a) infection;
-- b) venous thrombosis especially with subclavian lines.
+</div></details>
 
-## • Long-term risks include:
+<details class="med-details"><summary>
 
-- a) vessel occlusion which may result in problems for future catheterisation or surgery;
-- b) vessel stenosis which is particularly important in passive circulations where venous return (and therefore cardiac output) may be impaired.
-- Risks can be reduced by simple manoeuvres, including:
-  - a) ultrasound which reduces the risk of mechanical complications;
-  - b) Trendelenburg position which minimises the chance of air embolus;
+#### Indications and Risks of Transoesophageal Echocardiography (Figure 14)</summary><div class="details-content">
 
-- c) sterile precautions during line insertion and subsequent use, as per 'Matching Michigan';
-- d) leaving lines áå ëáíì for the shortest possible time.
-
-## 26 **What are the indications and risks associated with transoesophageal echocardiography?**
-
-• TOE allows dynamic imaging of the heart and great vessels. Probes are available for children heavier than 3.5kg (Figure 14).
+Probes available for children >3.5 kg.
 
 ![](_page_28_Picture_6.jpeg)
 
-**Figure 14. A 7mm paediatric TOE probe. The close-up shows the articulated scanning tip, which allows movement through a wide range of angles.**
+**Figure 14. 7 mm paediatric TOE probe. Close-up shows articulated scanning tip for wide range of angles.**
 
-- The indications are wide ranging and include:
-  - a) assessment of anatomy when transthoracic echocardiography (TTE) is non-diagnostic, or impossible due to patient compliance, surgical access or poor windows;
-  - b) diagnosing pathology, including endocarditis or thrombus, prior to cardioversion;
-  - c) immediate evaluation of surgical results in theatre;
+**Indications:**
+*   Anatomy assessment when TTE non-diagnostic or impossible (patient compliance, surgical access, poor windows)
+*   Diagnosing pathology (endocarditis, thrombus) prior to cardioversion
+*   Immediate evaluation of surgical results in theatre
+*   Guiding percutaneous device placement (ASD occlusion, pulmonary valve replacement, transseptal atrial line placement)
 
-- d) guiding percutaneous device placement for procedures, such as ASD occlusion, pulmonary valve replacement or transseptal atrial line placement.
-- Complications associated with TOE are uncommon but can be serious and include:
-  - a) airway direct trauma or displacement of the endotracheal tube by the probe;
-  - b) breathing compression of airways by the probe, which may impair ventilation;
-  - c) circulation arrhythmias that may be induced during probe insertion, mediated by stimulation of the vagus nerve or sympathetic chain;
-  - d) trauma to the teeth, pharynx, oesophagus or stomach;
-  - e) ischaemic injury which may be caused by pressure and heat generated from the probe;
-  - f) bacteraemia.
-- The risks are reduced by having a dedicated, trained TOE operator, which also helps to avoid distractions to the anaesthetist from their primary responsibilities.
+**Complications (uncommon but serious):**
+*   **Airway:** Direct trauma, ETT displacement
+*   **Breathing:** Airway compression → impaired ventilation
+*   **Circulation:** Arrhythmias (vagal or sympathetic stimulation)
+*   **Trauma:** Teeth, pharynx, oesophagus, stomach
+*   **Ischaemic injury:** Pressure and heat from probe
+*   **Bacteraemia**
 
-## 27 **Describe the principles of <sup>a</sup> thromboelastogram (TEG®)**
+**Risk reduction:** Dedicated, trained TOE operator (prevents distractions to anaesthetist)
 
-- A thromboelastogram (TEG®) provides near real-time information about blood clot dynamics (Figure 15), guiding peri-operative management to avoid excessive transfusion and associated complications.
-- Heparinase samples distinguish the effects of heparinisation, suggesting protamine rather than coagulation factor use.
-- Temperature-adjusted samples differentiate hypothermia-associated coagulopathy.
-- A number of quantitative measures are described, including:
-  - a) clot time which is denoted by the reaction time (R) that indicates how rapidly a clot is initiated. A prolonged R time suggests hypofibrinogenaemia or deficient clotting factors. Fresh frozen plasma (FFP), cryoprecipitate or fibrinogen concentrate may improve coagulation;
-  - b) clot kinetics which is denoted by the K time and alpha angle (α) that provide a measure of speed of clot propagation. Derangement suggests hypofibrinogenaemia or clotting factor
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Principles of Thromboelastogram (TEG®) (Figure 15)</summary><div class="details-content">
+
+Provides near real-time information about blood clot dynamics; guides peri-operative management to avoid excessive transfusion and complications.
 
 ![](_page_30_Picture_2.jpeg)
 
-**Figure 15. A thromboelastogram (TEG®), where the R time is the period until a clot first starts to form, when the lines begin to separate; the K time is from the end of R time until a 20mm amplitude is reached; the alpha angle is formed between the slope of the two lines (at R and K); MA is the greatest width between the two curves; and LY30 is the percentage change in width during the 30 minutes after MA.**
+**Figure 15. Thromboelastogram (TEG®): R time = period until clot starts to form; K time = from end of R until 20 mm amplitude; alpha angle = slope between two lines (at R and K); MA = greatest width between curves; LY30 = percentage change in width during 30 minutes after MA.**
 
-deficiency. This may be corrected with cryoprecipitate, FFP or a specific factor replacement;
+**Special samples:**
+*   Heparinase samples: distinguish heparin effect (suggests protamine rather than factor use)
+*   Temperature-adjusted samples: differentiate hypothermia-associated coagulopathy
 
-- c) clot strength that is defined by:
-  - i) maximum amplitude (MA) which is predominately a marker of platelet function. Reduction in MA suggests platelet transfusion may be required;
-  - ii) G which is a global measure of clot elasticity but unhelpful in the choice of treatment product;
-  - d) clot lysis which is defined by the markers of fibrinolysis (LY30 and LY60). Values >7.5% suggest antifibrinolytics (such as tranexamic acid or aprotinin) may be required.
+**Quantitative measures:**
 
-#### 28 **What are the advantages and disadvantages of early tracheal extubation following surgery for congenital heart disease?**
+| Parameter | What It Measures | Clinical Action |
+|-----------|-----------------|-----------------|
+| **R time (reaction time)** | Clot initiation | Prolonged → hypofibrinogenaemia, factor deficiency → FFP, cryoprecipitate, fibrinogen concentrate |
+| **K time, alpha angle** | Clot propagation speed | Deranged → hypofibrinogenaemia, factor deficiency → cryoprecipitate, FFP, specific factor replacement |
+| **MA (maximum amplitude)** | Clot strength (platelet function) | Reduced → platelet transfusion |
+| **G** | Global clot elasticity | Not helpful for treatment choice |
+| **LY30, LY60** | Fibrinolysis | >7.5% → antifibrinolytics (tranexamic acid, aprotinin) |
 
-• Patients are routinely ventilated following complex cardiac surgery. Prolonged ventilation increases the risk of complications.
+</div></details>
 
-- Pulmonary blood flow, particularly passive flow, such as in a Fontan circulation, is determined by the pressure gradient between the pulmonary arteries and capillaries. This is reduced by intermittent positive pressure ventilation and a return to spontaneous ventilation improves pulmonary blood flow and cardiac output.
-- Reducing the duration of ventilation is associated with:
-  - a) shorter hospital stay;
-  - b) increased patient comfort and parental satisfaction;
-  - c) early recovery of communication, feeding, bowel function and mobility.
-- Prolonged ventilation is associated with complications, including:
-  - a) ventilator-associated pneumonia (VAP);
-  - b) subglottic stenosis;
-  - c) adverse events, such as accidental extubation, kinking or obstruction;
-  - d) side effects of sedation and neuromuscular blockade, which are necessary to facilitate toleration of the endotracheal tube.
-- For some patients, early extubation is inappropriate and a more gradual weaning from mechanical ventilation is required, including in patients with:
-  - a) prolonged cardiopulmonary bypass time;
-  - b) significant inotrope requirement;
-  - c) significant comorbidities such as pulmonary hypertension, heart failure, chronic lung disease or liver failure;
-  - d) a high risk of TRALI, acute respiratory distress syndrome (ARDS) or multi-organ failure (MOF) — who tolerate reintubation poorly and early extubation may not be helpful.
-- 29 **What are the features of an effective handover from anaesthesia to the paediatric intensive care unit team?**
-- Although personal styles vary, certain key information must be conveyed in a concise and relevant summary, including:
-  - a) basic patient identifiers, including hospital number, date of birth, age and weight;
-  - b) diagnostic issues, including underlying condition, pre-operative conditions, previous procedures and allergies;
+<details class="med-details"><summary>
 
-- c) information on the procedure performed, including repair or palliation, current anatomical and physiological status, presence or absence of residual lesions and their description, relevant information on cardiopulmonary bypass, information regarding the use of blood and blood products, presence or absence of arrhythmias, need for pacing, and position and function of drains;
-- d) airway issues:
-  - i) ease of mask ventilation and laryngoscopy;
-  - ii) endotracheal tube size and depth;
-- e) ventilator requirements:
-  - i) ventilator mode and airway pressures;
-  - ii) oxygen requirement;
-  - iii) need for nitric oxide;
-- f) circulatory issues:
-  - i) site and size of intravascular lines;
-  - ii) details of cardiopulmonary bypass, including duration of bypass, cross-clamp and deep hypothermic circulatory arrest;
-  - iii) inotrope and pacing requirements, including underlying rhythm and function;
-  - iv) use of blood and products and current availability;
-  - v) available or outstanding results;
-  - vi) use of ultrafiltration;
-- g) antibiotics, analgesia and fluids administered;
-- h) plans should be discussed, including ideal haemodynamic parameters;
-- i) contact details should problems arise.
+#### Advantages and Disadvantages of Early Tracheal Extubation</summary><div class="details-content">
 
-## 30 **What are the negative effects of poorly controlled postoperative pain?**
+**Pulmonary physiology:** Passive flow (Fontan) determined by pressure gradient between pulmonary arteries and capillaries. IPPV reduces gradient; spontaneous ventilation improves pulmonary blood flow and CO.
 
-- Pain stimulates a neuroendocrine stress response with wide-ranging adverse physiological and emotional consequences. Many effects reflect increased levels of circulating catecholamines, including:
-  - a) cardiovascular:
-    - i) increased myocardial workload due to increased heart rate, SVR, PVR and oxygen requirements;
-    - ii) PVR is increased by raised intrathoracic pressure induced by crying. Shunting may be altered;
-  - b) respiratory:
-    - i) increased atelectasis, increasing the risk of pneumonia;
-    - ii) hypocapnia (and altered PVR) with prolonged crying;
+**Advantages of reducing ventilation duration:**
+*   Shorter hospital stay
+*   Increased patient comfort, parental satisfaction
+*   Early recovery of communication, feeding, bowel function, mobility
 
-- c) central nervous system:
-  - i) aversion to future procedures complicating ongoing care;
-  - ii) impaired communication;
-- d) general:
-  - i) impaired wound healing due to reduced subcutaneous oxygen partial pressure;
-  - ii) poor mobilisation, increasing complications and delaying discharge from ICU and hospital.
+**Disadvantages of prolonged ventilation:**
+*   Ventilator-associated pneumonia (VAP)
+*   Subglottic stenosis
+*   Adverse events: accidental extubation, kinking, obstruction
+*   Sedation and neuromuscular blockade side effects
 
-## 31 **What systems may be used to ensure quality control in anaesthesia services for congenital heart disease?**
+**Contraindications to early extubation (more gradual weaning required):**
+*   Prolonged CPB time
+*   Significant inotrope requirement
+*   Significant comorbidities: pulmonary hypertension, heart failure, chronic lung disease, liver failure
+*   High risk of TRALI, ARDS, or multi-organ failure (reintubation poorly tolerated)
 
-- Quality can be defined as "the degree to which health services increase the likelihood of desired health outcomes and are consistent with current professional knowledge".
-- Assessing quality requires robust, relevant and measurable outcomes. The complexity of healthcare makes this difficult. Currently, popular parameters include outcome data, such as mortality, complications and satisfaction surveys.
-- Measuring quality in anaesthesia is challenging. Confounding factors make identifying meaningful measurable metrics, specific to the delivery of anaesthesia, difficult.
-- Committing to ongoing quality improvement programmes (QIP) leads to maintenance of high standards. Areas for improvement may be identified from the analysis of adverse events, anecdotal reports or morbidity and mortality reviews.
-- Once a problem has been identified, a proposed standard should be defined. Data should be collected defining current practice and suggesting improvements.
-- Following any change, the process must be repeated to evaluate impact (Figure 16).
-- The QIP cycle may have both positive and negative effects:
-  - a) positive such as identify resource deficiencies or educational needs to increase efficiency;
-  - b) negative such as frequent changes in practice come at a cost, including staff disengagement.
-- The costs and benefits must be balanced. Identifying key improvement areas will yield the greatest benefits.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Features of Effective Handover from Anaesthesia to PICU Team</summary><div class="details-content">
+
+**Essential information (concise, relevant summary):**
+
+| Category | Details |
+|----------|---------|
+| **Basic identifiers** | Hospital number, DOB, age, weight |
+| **Diagnostic issues** | Underlying condition, pre-op status, previous procedures, allergies |
+| **Procedure** | Repair/palliation, current anatomy/physiology, residual lesions (description), CPB details, blood products, arrhythmias, pacing, drains (position/function) |
+| **Airway** | Ease of mask ventilation, laryngoscopy; ETT size and depth |
+| **Ventilator** | Mode, airway pressures, O₂ requirement, nitric oxide need |
+| **Circulatory** | Lines (site/size), CPB duration, cross-clamp, DHCA, inotropes, pacing, rhythm/function, blood products (use and availability), results, ultrafiltration |
+| **Medications** | Antibiotics, analgesia, fluids administered |
+| **Plan** | Ideal haemodynamic parameters |
+| **Contact** | Details if problems arise |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Negative Effects of Poorly Controlled Postoperative Pain</summary><div class="details-content">
+
+Pain stimulates neuroendocrine stress response (increased circulating catecholamines):
+
+| System | Effects |
+|--------|---------|
+| **Cardiovascular** | ↑HR, ↑SVR, ↑PVR, ↑O₂ demand; crying ↑intrathoracic pressure → ↑PVR → altered shunting |
+| **Respiratory** | Atelectasis → pneumonia risk; hypocapnia with prolonged crying |
+| **CNS** | Aversion to future procedures (complicates ongoing care), impaired communication |
+| **General** | Impaired wound healing (↓subcutaneous O₂ partial pressure); poor mobilisation → delayed ICU/hospital discharge |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Quality Control in Anaesthesia Services</summary><div class="details-content">
+
+**Quality definition:** "The degree to which health services increase the likelihood of desired health outcomes and are consistent with current professional knowledge"
+
+**Assessing quality:** Requires robust, relevant, measurable outcomes; popular parameters: mortality, complications, satisfaction surveys
+
+**Quality improvement cycle (Figure 16):**
+1.  Identify problem (from adverse events, anecdotal reports, morbidity/mortality reviews)
+2.  Define proposed standard
+3.  Collect data (current practice)
+4.  Suggest improvements
+5.  Implement change
+6.  Evaluate impact (repeat process)
 
 ![](_page_34_Figure_2.jpeg)
 
-**Figure 16. The quality improvement cycle (previously known as the audit cycle).**
+**Figure 16. The quality improvement cycle (previously audit cycle).**
 
-## **Recommended reading**
+**Effects:**
+*   **Positive:** Identify resource deficiencies, educational needs, increase efficiency
+*   **Negative:** Frequent changes costly, may cause staff disengagement
 
-- 1. Yamamoto T, Schindler E. Anaesthesia management for non-cardiac surgery in children with congenital heart disease. ^å~ÉëíÜÉëáçä fåíÉåëáîÉ qÜÉê 2016; 48: 305- 13.
-- 2. Subramaniam R. Anaesthetic concerns in preterm and term neonates. fåÇá~å g ^å~ÉëíÜ 2019; 63:.
-- 3. Checketts MR, Alladi R, Ferguson K, Gemmell L, Handy J, Klein A, Love N, Misra U, Morris C, Nathanson M, Rodney G, Verma R, Pandit J. Standards of monitoring during anaesthesia and recovery. London, UK: The Association of Anaesthetists of Great Britain and Ireland, 2015.
-- 4. Odegard KC, Vincent R, Baijal R, Daves S, Gray R, Javois A, Love B, Moore P, Nykanen D, Riegger L, Walker SG, Wilson EC. SCAI/CCAS/SPA expert consensus statement for anesthesia and sedation practice: recommendations for patients undergoing diagnostic and therapeutic procedures in pediatric and congenital cardiac catheterization laboratory. `~íÜÉíÉê `~êÇáçî~ëÅ fåíÉêî 2016; 88:.
-- 5. Liu Y, Chen K, Mei W. Neurological complications after cardiac surgery: anesthetic considerations based on outcome evidence. `ìêê léáå ^å~ÉëíÜÉëáçä 2019; 32:.
-- 6. Shen L, Tabaie S, Ivascu N. Viscoelastic testing inside and beyond the operating room. g qÜçê~Å aáë 2017; 9(suppl4): S299-S308.
-- 7. Andropoulos DB. Effect of anesthesis on the developing brain: infant and fetus. cÉí~ä aá~Öå qÜÉê 2018; 43:.
+Balance costs and benefits; identify key improvement areas for greatest benefits.
+
+</div></details>
+
+</div></details>
