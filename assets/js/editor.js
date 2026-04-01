@@ -307,6 +307,8 @@ document.addEventListener('DOMContentLoaded', () => {
     initGitHubSave();
     initFormulaEditor();
     initHeaderToggle();
+    initToolGroupPins();
+    initSync();
     
     setTimeout(() => {
         initPreview();
@@ -559,6 +561,11 @@ function initPreview() {
     editor.on('change', function() {
         updatePreview();
     });
+
+    // Attach sync listener if sync was already enabled
+    if (typeof window._attachSyncToEditor === 'function') {
+        window._attachSyncToEditor(editor);
+    }
     
     // Первоначальное обновление preview
     updatePreview();
@@ -866,4 +873,134 @@ function _showHeader(header, btn, tab) {
     if (btn) btn.textContent = '▲';
     if (tab) tab.style.display = 'none';
     localStorage.setItem('editor_header_hidden', '0');
+}
+
+// ==========================================================================
+//  TOOL GROUP PIN BUTTONS
+// ==========================================================================
+
+function initToolGroupPins() {
+    document.querySelectorAll('.tool-group-pin').forEach(btn => {
+        const group = btn.closest('.tool-group');
+        if (!group) return;
+
+        // Restore pinned state
+        const key = 'editor_pin_' + group.querySelector('h4')?.textContent?.trim().slice(0,20);
+        if (localStorage.getItem(key) === '1') group.classList.add('pinned');
+
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            group.classList.toggle('pinned');
+            const pinned = group.classList.contains('pinned');
+            if (key) localStorage.setItem(key, pinned ? '1' : '0');
+        });
+    });
+}
+
+// ==========================================================================
+//  EDITOR ↔ PREVIEW SCROLL SYNC
+// ==========================================================================
+
+let _syncEnabled   = false;
+let _syncInProgress = false;
+
+function initSync() {
+    const btn1 = document.getElementById('sync-toggle');
+    const btn2 = document.getElementById('sync-toggle-2');
+    const preview = document.getElementById('editor-preview');
+
+    [btn1, btn2].forEach(btn => {
+        if (!btn) return;
+        btn.addEventListener('click', () => {
+            _syncEnabled = !_syncEnabled;
+            [btn1, btn2].forEach(b => {
+                if (!b) return;
+                b.classList.toggle('active', _syncEnabled);
+            });
+        });
+    });
+
+    if (!preview) return;
+
+    // When cursor moves in CodeMirror → scroll preview
+    // We attach this after editor is ready (called from initPreview via hook)
+    window._attachSyncToEditor = function(cm) {
+        cm.on('cursorActivity', () => {
+            if (!_syncEnabled || _syncInProgress) return;
+            const line = cm.getCursor().line;
+            _syncPreviewToLine(cm, line, preview);
+        });
+    };
+
+    // When user clicks in preview → find line in editor
+    preview.addEventListener('click', (e) => {
+        if (!_syncEnabled || !editor) return;
+        const el = e.target.closest('p,h1,h2,h3,h4,h5,li,td,blockquote,pre');
+        if (!el) return;
+        _syncEditorToPreviewEl(el);
+    });
+}
+
+function _syncPreviewToLine(cm, lineNum, preview) {
+    // Get text of current line (stripped of markdown syntax)
+    const lineText = cm.getLine(lineNum);
+    if (!lineText || lineText.trim().length < 4) return;
+
+    // Try to find a matching element in preview
+    const needle = lineText
+        .replace(/^#+\s*/, '')           // strip heading markers
+        .replace(/<[^>]+>/g, '')          // strip HTML tags
+        .replace(/[*_`[\]]/g, '')         // strip markdown
+        .trim()
+        .slice(0, 50)
+        .toLowerCase();
+
+    if (needle.length < 3) return;
+
+    const allEls = preview.querySelectorAll('p,h1,h2,h3,h4,h5,li,td,blockquote,pre,summary');
+    let best = null, bestScore = 0;
+
+    allEls.forEach(el => {
+        const text = el.textContent.replace(/\s+/g, ' ').trim().slice(0, 50).toLowerCase();
+        if (!text) return;
+        // Overlap score
+        const shorter = needle.length < text.length ? needle : text;
+        const longer  = needle.length < text.length ? text : needle;
+        if (longer.includes(shorter.slice(0, Math.min(30, shorter.length)))) {
+            const score = shorter.length;
+            if (score > bestScore) { bestScore = score; best = el; }
+        }
+    });
+
+    if (best && bestScore > 5) {
+        _syncInProgress = true;
+        best.scrollIntoView({ block: 'center', behavior: 'smooth' });
+        // Flash highlight
+        best.style.transition = 'background 0.15s';
+        best.style.background = 'rgba(52,152,219,0.18)';
+        setTimeout(() => {
+            best.style.background = '';
+            setTimeout(() => { _syncInProgress = false; }, 300);
+        }, 600);
+    }
+}
+
+function _syncEditorToPreviewEl(el) {
+    if (!editor) return;
+    const needle = el.textContent.replace(/\s+/g, ' ').trim().slice(0, 40).toLowerCase();
+    if (needle.length < 3) return;
+
+    for (let i = 0; i < editor.lineCount(); i++) {
+        const line = editor.getLine(i)
+            .replace(/<[^>]+>/g, '').replace(/[*_`#[\]]/g, '')
+            .trim().slice(0, 40).toLowerCase();
+        if (line.includes(needle.slice(0, 25)) || needle.includes(line.slice(0, 25))) {
+            if (line.length > 3) {
+                editor.setCursor({ line: i, ch: 0 });
+                editor.scrollIntoView({ line: i, ch: 0 }, 100);
+                editor.focus();
+                break;
+            }
+        }
+    }
 }

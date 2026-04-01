@@ -40,8 +40,9 @@
         <aside class="editor-toolbar">
             <!-- Загрузка файлов -->
             <div class="tool-group loader-group">
-                <h4>📂 Load</h4>
-                <select id="select-book"><option value="">Select a book...</option></select>
+                <h4>📂 Load <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<select id="select-book"><option value="">Select a book...</option></select>
                 <select id="select-chapter" disabled><option value="">Select a chapter...</option></select>
                 
                 <div class="icon-grid" style="margin-top: 10px;">
@@ -50,24 +51,30 @@
                     <button id="btn-load-starley" class="btn-load" style="background: #27ae60;" title="Load Starley Version">⭐</button>
                     <button id="btn-load-hebrew" class="btn-load" style="background: #2980b9;" title="Load Hebrew Version">עברית</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Цветные овалы -->
             <div class="tool-group">
-                <h4>⭕ Color Oval (3D)</h4>
-                <div class="color-grid" id="oval-colors"></div>
+                <h4>⭕ Color Oval (3D) <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="color-grid" id="oval-colors"></div>
+            </div></div>
             </div>
 
             <!-- Маркеры -->
             <div class="tool-group">
-                <h4>🖍️ Marker</h4>
-                <div class="color-grid" id="marker-colors"></div>
+                <h4>🖍️ Marker <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="color-grid" id="marker-colors"></div>
+            </div></div>
             </div>
 
             <!-- Специальные эффекты -->
             <div class="tool-group">
-                <h4>✨ Special Effects</h4>
-                <div class="icon-grid">
+                <h4>✨ Special Effects <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
                     <button onclick="wrapInEffect('luminous-blue')" title="Luminous Blue">💎</button>
                     <button onclick="wrapInEffect('luminous-green')" title="Luminous Green">💚</button>
                     <button onclick="wrapInEffect('luminous-red')" title="Luminous Red">❤️</button>
@@ -79,12 +86,14 @@
                     <button onclick="wrapInBlock('luminous-cyan')" title="Luminous Cyan">💠</button>
                     <button onclick="wrapInBlock('luminous-amber')" title="Luminous Amber">🔥</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Info Boxes -->
             <div class="tool-group">
-                <h4>📦 Info Boxes</h4>
-                <div class="icon-grid">
+                <h4>📦 Info Boxes <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
                     <button onclick="wrapInInfoBox('info-box')" title="Default Info Box">📦</button>
                     <button onclick="wrapInInfoBox('info-box info-box-info')" title="Info Box">ℹ️</button>
                     <button onclick="wrapInInfoBox('info-box info-box-success')" title="Success Box">✅</button>
@@ -92,18 +101,22 @@
                     <button onclick="wrapInInfoBox('info-box info-box-danger')" title="Danger Box">🚨</button>
                     <button onclick="addDetails()" title="Hidden Text (Details)">▶️</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Цвета текста -->
             <div class="tool-group">
-                <h4>🎨 Text Color</h4>
-                <div class="color-grid" id="text-colors"></div>
+                <h4>🎨 Text Color <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="color-grid" id="text-colors"></div>
+            </div></div>
             </div>
 
             <!-- Стандартные блоки -->
             <div class="tool-group">
-                <h4>📦 Standard Blocks</h4>
-                <div class="icon-grid">
+                <h4>📦 Standard Blocks <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
                     <button onclick="insertAdmonition('note', 'Примечание')" title="Note Block">ℹ️</button>
                     <button onclick="insertAdmonition('tip', 'Совет')" title="Tip Block">💡</button>
                     <button onclick="insertAdmonition('info', 'Информация')" title="Info Block">📌</button>
@@ -111,12 +124,14 @@
                     <button onclick="insertAdmonition('danger', 'Опасность')" title="Danger Block">🚨</button>
                     <button onclick="insertAdmonition('caution', 'Осторожно')" title="Caution Block">⚡</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Медицинские блоки -->
             <div class="tool-group">
-                <h4>🏥 Medical Blocks</h4>
-                <div class="icon-grid-2">
+                <h4>🏥 Medical Blocks <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid-2">
                     <button onclick="insertAdmonition('dosage', 'Дозировка')" title="Dosage Block">💉</button>
                     <button onclick="insertAdmonition('contraindication', 'Противопоказания')" title="Contraindication Block">🚫</button>
                     <button onclick="insertAdmonition('side-effect', 'Побочные эффекты')" title="Side Effect Block">⚠️</button>
@@ -128,12 +143,14 @@
                     <button onclick="insertAdmonition('evidence', 'Доказательства')" title="Evidence Block">📊</button>
                     <button onclick="insertAdmonition('protocol', 'Протокол')" title="Protocol Block">📋</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Формулы -->
             <div class="tool-group">
-                <h4>∑ Math Formulas</h4>
-                <div class="icon-grid">
+                <h4>∑ Math Formulas <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
                     <button onclick="insertFormulaBlock()" title="Insert display formula ($$...$$)">∑</button>
                     <button onclick="insertFormulaInline()" title="Insert inline formula ($...$)">∫</button>
                     <button onclick="insertFormulaTemplate('fraction')" title="Fraction \frac{a}{b}">ᵃ⁄ᵦ</button>
@@ -144,32 +161,38 @@
                     <button onclick="insertFormulaTemplate('superscript')" title="Superscript x^{n}">xⁿ</button>
                     <button onclick="openFormulaEditor()" title="Open formula editor with preview">🔬</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Навигация -->
             <div class="tool-group">
-                <h4>🔗 Navigation</h4>
-                <div class="icon-grid">
+                <h4>🔗 Navigation <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
                     <button onclick="insertLink()" title="Создать ссылку на термин">🔗</button>
                     <button onclick="insertAnchor()" title="Создать якорь в месте определения">⚓</button>
                     <button onclick="insertBackLink()" title="Умная кнопка - вернет к любой ссылке">↩️</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Инструменты редактора -->
             <div class="tool-group">
-                <h4>🔧 Fold Controls</h4>
-                <div class="icon-grid">
+                <h4>🔧 Fold Controls <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
                     <button onclick="if(editor){editor.setOption('foldGutter',true);editor.setOption('gutters',['CodeMirror-linenumbers','CodeMirror-foldgutter']);editor.refresh();}" title="Восстановить стрелки сворачивания">🔄</button>
                     <button onclick="if(editor){CodeMirror.commands.foldAll(editor);}" title="Свернуть все блоки">📦</button>
                     <button onclick="if(editor){CodeMirror.commands.unfoldAll(editor);}" title="Развернуть все блоки">📂</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Размер шрифта и заголовки -->
             <div class="tool-group">
-                <h4>📤 Font Size & Headers</h4>
-                <div class="icon-grid-4" style="margin-bottom: 8px;">
+                <h4>📤 Font Size & Headers <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid-4" style="margin-bottom: 8px;">
                     <button onclick="wrapInFontSize(60)" title="60% Font Size" style="font-size: 0.9em;">A⁻</button>
                     <button onclick="wrapInFontSize(75)" title="75% Font Size" style="font-size: 1em;">A⁻</button>
                     <button onclick="wrapInFontSize(90)" title="90% Font Size" style="font-size: 1.1em;">A</button>
@@ -190,22 +213,24 @@
                     <button onclick="wrapInBold()" title="Bold (полужирный)" style="font-weight: bold; font-size: 1.2em;">B</button>
                     <button onclick="wrapInItalic()" title="Italic (курсив)" style="font-style: italic; font-size: 1.2em;">I</button>
                 </div>
+            </div></div>
             </div>
 
             <!-- Символы и эмодзи -->
             <div class="tool-group">
-                <h4 class="symbols-header" onclick="toggleSymbolsPanel()" style="cursor: pointer; user-select: none;">
-                    🔣 Symbols & Emoji <span id="symbols-toggle">▼</span>
-                </h4>
-                <div id="symbols-panel" class="symbols-panel">
+                <h4>🔣 Symbols & Emoji <span id="symbols-toggle">▼</span> <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div id="symbols-panel" class="symbols-panel">
                     <!-- Панель будет заполнена через JavaScript -->
                 </div>
+            </div></div>
             </div>
 
             <!-- Сохранение -->
             <div class="tool-group export-group">
-                <h4>💾 Save</h4>
-                <input type="text" id="export-filename" placeholder="chapter-01-starley.md">
+                <h4>💾 Save <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<input type="text" id="export-filename" placeholder="chapter-01-starley.md">
                 <button id="btn-download" class="btn-success" title="Download Markdown File">📤 Download</button>
                 <button id="btn-save-github" class="btn-github" title="Save directly to GitHub repository">🐙 Save to GitHub</button>
                 <div id="github-token-row" style="margin-top:6px; display:none">
@@ -214,16 +239,17 @@
                     <p style="font-size:0.7rem; color:#888; margin-top:4px;">Token needs <code>repo</code> scope. Stored in localStorage.</p>
                 </div>
                 <div id="github-status" style="font-size:0.78rem; margin-top:5px; color:#aaa;"></div>
+            </div></div>
             </div>
         </aside>
 
         <main class="editor-main">
-            <div class="pane-header">Markdown Source</div>
+            <div class="pane-header"><span>Markdown Source</span><button class="sync-btn" id="sync-toggle" title="Sync scroll: click in editor to jump preview"><span class="sync-dot"></span>Sync</button></div>
             <textarea id="markdown-input" placeholder="Text will appear here after loading or paste it manually..."></textarea>
         </main>
 
         <section class="editor-preview-pane">
-            <div class="pane-header">Live Preview</div>
+            <div class="pane-header"><span>Live Preview</span><button class="sync-btn" id="sync-toggle-2" title="Sync scroll"><span class="sync-dot"></span>Sync</button></div>
             <div id="editor-preview" class="content"></div>
         </section>
     </div>

@@ -98,13 +98,15 @@ html, body {
     transition: height 0.2s ease;
 }
 
-.editor-toolbar { 
-    width: 280px; 
-    background: #252526; 
-    padding: 15px; 
-    overflow-y: auto; 
-    border-right: 1px solid #333; 
+.editor-toolbar {
+    width: 220px;
+    background: #252526;
+    padding: 6px 0;
+    overflow-y: auto;
+    overflow-x: visible;
+    border-right: 1px solid #333;
     flex-shrink: 0;
+    /* Toolbar itself doesn't need padding — groups handle it */
 }
 
 .editor-main, .editor-preview-pane { 
@@ -161,20 +163,79 @@ html, body {
 }
 
 /* ============= ОПТИМИЗИРОВАННЫЕ ИНСТРУМЕНТЫ ============= */
-.tool-group { 
-    margin-bottom: 15px; 
-    padding-bottom: 12px; 
-    border-bottom: 1px solid #404040;
+/* ============= HOVER-EXPAND TOOL GROUPS ============= */
+.tool-group {
+    position: relative;
+    border-bottom: 1px solid #333;
 }
 
-.tool-group h4 { 
-    margin-bottom: 8px; 
-    font-size: 0.85rem; 
-    color: #3498db; 
+/* Header — always visible, acts as trigger */
+.tool-group h4 {
+    margin: 0;
+    padding: 6px 10px;
+    font-size: 0.75rem;
+    color: #7aadcb;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.4px;
     font-weight: 600;
+    cursor: default;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+    transition: background 0.15s, color 0.15s;
+    white-space: nowrap;
 }
+.tool-group h4::after {
+    content: '›';
+    font-size: 0.9rem;
+    color: #555;
+    transition: transform 0.2s, color 0.15s;
+    margin-left: 4px;
+}
+.tool-group:hover h4 {
+    background: #2d2d2d;
+    color: #3498db;
+}
+.tool-group:hover h4::after {
+    color: #3498db;
+    transform: rotate(90deg);
+}
+
+/* Content — hidden by default, appears on hover */
+.tool-group-content {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.2s ease;
+    background: #2a2a2a;
+}
+.tool-group:hover .tool-group-content,
+.tool-group.pinned .tool-group-content {
+    grid-template-rows: 1fr;
+}
+.tool-group-content-inner {
+    overflow: hidden;
+    padding: 0 8px;
+}
+.tool-group:hover .tool-group-content-inner,
+.tool-group.pinned .tool-group-content-inner {
+    padding: 6px 8px 8px;
+}
+
+/* Pin button — keeps group open */
+.tool-group-pin {
+    background: none;
+    border: none;
+    color: #555;
+    cursor: pointer;
+    font-size: 0.75rem;
+    padding: 0 2px;
+    line-height: 1;
+    transition: color 0.15s;
+    flex-shrink: 0;
+}
+.tool-group-pin:hover { color: #f9a825; }
+.tool-group.pinned .tool-group-pin { color: #f9a825; }
 
 /* Tooltip на чистом CSS */
 .tool-group button[title]:hover::after {
@@ -1222,4 +1283,44 @@ html, body {
     font-size: 0.85rem;
     text-align: center;
     justify-content: center;
+}
+
+/* ============= SYNC BUTTON ============= */
+.pane-header {
+    background: #333;
+    padding: 4px 10px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: #aaa;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.sync-btn {
+    background: none;
+    border: 1px solid #555;
+    color: #777;
+    cursor: pointer;
+    font-size: 0.68rem;
+    padding: 2px 7px;
+    border-radius: 3px;
+    white-space: nowrap;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.sync-btn:hover { border-color: #3498db; color: #3498db; }
+.sync-btn.active { border-color: #27ae60; color: #27ae60; background: rgba(39,174,96,0.1); }
+.sync-btn.active .sync-dot { background: #27ae60; }
+
+.sync-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #555;
+    flex-shrink: 0;
 }
