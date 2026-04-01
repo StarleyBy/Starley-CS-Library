@@ -356,20 +356,18 @@ function initColorPalettes() {
 // 2. Initialize symbols panel
 function initSymbolsPanel() {
     const symbolsPanel = document.getElementById('symbols-panel');
-    
-    const grid = document.createElement('div');
-    grid.className = 'symbols-grid';
-    
+    if (!symbolsPanel) return;
+
+    // Render directly — outer tool-group hover handles show/hide
+    symbolsPanel.innerHTML = '';
     symbols.forEach(symbol => {
         const btn = document.createElement('button');
         btn.className = 'symbol-btn';
         btn.textContent = symbol;
         btn.title = `Insert ${symbol}`;
         btn.onclick = () => insertSymbol(symbol);
-        grid.appendChild(btn);
+        symbolsPanel.appendChild(btn);
     });
-    
-    symbolsPanel.appendChild(grid);
 }
 
 // 3. Load files

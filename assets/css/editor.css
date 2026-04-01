@@ -1118,16 +1118,14 @@ html, body {
 }
 
 /* ============= СИМВОЛЫ И ЭМОДЗИ ============= */
+/* symbols-panel: old toggle mechanism disabled — now controlled by
+   parent .tool-group-content hover mechanism */
 .symbols-panel {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease-out;
+    max-height: none;
+    overflow: visible;
 }
-
-.symbols-panel.expanded {
-    max-height: 500px;
-    overflow-y: auto;
-}
+/* keep .expanded class harmless if JS still adds it */
+.symbols-panel.expanded { max-height: none; }
 
 .symbols-grid {
     display: grid;
@@ -1162,15 +1160,8 @@ html, body {
     transform: translateY(0);
 }
 
-#symbols-toggle {
-    float: right;
-    font-size: 0.8em;
-    transition: transform 0.3s;
-}
-
-#symbols-toggle.rotated {
-    transform: rotate(180deg);
-}
+/* symbols-toggle: hidden — header collapse handled by tool-group mechanism */
+#symbols-toggle { display: none; }
 
 /* ============= СВОРАЧИВАНИЕ <details> В CODEMIRROR ============= */
 /* Стили для сворачиваемых блоков CodeMirror */
@@ -1323,4 +1314,11 @@ html, body {
     border-radius: 50%;
     background: #555;
     flex-shrink: 0;
+}
+
+/* Symbols panel inside hover group — grid directly, no nested collapse */
+.symbols-grid-direct {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 3px;
 }
