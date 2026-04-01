@@ -1,457 +1,696 @@
-# **Chapter 2**
+# Congenital Cardiac Physiology
 
-# Congenital cardiac physiology
+<details class="med-details"><summary>
 
-**Carin van Doorn, Hatem Hosny**
+## Executive Summary</summary><div class="details-content">
 
-## 1 **Describe the foetal circulation (Figure 1)**
+### Foetal Circulation
 
-- The fundamental difference between the foetal circulation and adult circulation is that gas exchange occurs in the placenta and not in the lungs.
-- The placenta receives the foetal deoxygenated blood via the umbilical arteries and returns oxygen-rich blood via the umbilical vein to the foetal circulation.
-- The foetal circulation flows as follows:
-  - a) oxygenated blood returning from the placenta via the umbilical vein bypasses the liver through the ductus venosus to drain into the inferior vena cava (IVC), with oxygen saturation levels of approximately 70%;
-  - b) IVC blood streams by the Eustachian valve to cross from the right atrium (RA) to the left atrium (LA) through the patent foramen ovale;
-  - c) LA blood passes into the left ventricle (LV), from where it is pumped into the ascending aorta (supplying the coronary arteries) and aortic arch (supplying the head vessels);
-  - d) deoxygenated blood from the superior vena cava (SVC), with oxygen saturation levels of approximately 40%, preferentially enters the right ventricle (RV), and from there it is pumped into the pulmonary artery (PA);
-  - e) most of the blood from the PA is diverted through the ductus arteriosus to the descending aorta (as the pulmonary vascular resistance in the foetus is high) and returns to the placenta via the umbilical arteries.
-- Most of the highly oxygenated blood is delivered to myocardium and brain. This is achieved by preferential streaming, and intracardiac and extracardiac shunting.
+*   **Key difference from adult:** Gas exchange occurs in the placenta, not the lungs.
+*   **Oxygenated blood (70%):** Umbilical vein → ductus venosus (bypasses liver) → IVC → RA → foramen ovale → LA → LV → ascending aorta (coronaries, head vessels).
+*   **Deoxygenated blood (40%):** SVC → RA → RV → PA → ductus arteriosus → descending aorta → placenta via umbilical arteries.
+*   **Four shunts:** Placenta (low resistance), ductus venosus, foramen ovale, ductus arteriosus.
+
+### Transition at Birth
+
+*   **Lung expansion + high alveolar PO₂** → sharp decline in pulmonary vascular resistance (PVR).
+*   **Ductus arteriosus closure:** Smooth muscle contraction (O₂, ↓PGE₂) → permanent after 3 weeks (endothelial/subintimal changes).
+*   **Foramen ovale closure:** LA pressure rises as pulmonary blood flow increases → passive closure; PFO in ~20% (no significant L→R shunt).
+*   **Ductus venosus closure:** Sphincter closes, forcing blood through liver.
+
+### Ductus Arteriosus
+
+*   **Duct-dependent circulations:**
+    *   **Left-sided obstruction (coarctation):** R→L ductal flow maintains lower body perfusion (differential cyanosis).
+    *   **Right-sided obstruction (pulmonary atresia):** Retrograde ductal flow fills pulmonary arteries.
+    *   **Transposition:** Ductal patency aids mixing between parallel circulations.
+*   **Regulation:**
+    *   **Closure:** Indomethacin/ibuprofen (cyclooxygenase inhibitors) promote closure in preterms.
+    *   **Patency:** Prostaglandin E₁ infusion (0.005–0.1 μg/kg/min) maintains ductal patency.
+
+### Pulmonary Vascular Resistance
+
+*   **Normal development:**
+    *   Immediately after birth: PVR ≈ systemic vascular resistance (SVR).
+    *   First 6–8 weeks: Gradual decline in PVR.
+    *   After 2 years: PVR reaches adult levels (0.25–1.5 Wood units).
+*   **Vasodilators:** Oxygen, hypocapnia, alkalosis, nitric oxide (NO), milrinone (PDE3 inhibitor), sildenafil (PDE5 inhibitor), prostacyclin analogues.
+*   **Vasoconstrictors:** Hypoxia, hypercapnia, acidosis, endothelin-1.
+
+### Normal Values (Paediatric)
+
+| Parameter | Neonate | Infant | Toddler | School-age | Adolescent |
+|-----------|---------|--------|---------|------------|------------|
+| Heart rate (bpm) | 100–205 | 100–190 | 98–140 | 75–118 | 60–100 |
+| Respiratory rate | 30–53 | 30–53 | 22–37 | 18–25 | 12–20 |
+| Systolic BP (mmHg) | 67–84 | 72–104 | 86–106 | 97–115 | 110–131 |
+
+*   **Circulating blood volume:** Premature 95 mL/kg, term 85 mL/kg, infant 80 mL/kg, adult male 75 mL/kg, adult female 65 mL/kg.
+
+### Haemodynamics
+
+*   **Flow-resistance relationship:** $Q = \Delta P / R$
+*   **Poiseuille equation:** $R = 8L\eta / \pi r^4$ (resistance ∝ 1/r⁴)
+*   **Systemic vascular resistance (SVR):** $SVR = (MAP - CVP) \times 80 / CO$ (normal: 770–1500 dyne·sec/cm⁵)
+*   **Pulmonary vascular resistance (PVR):** $PVR = (MPAP - LAP) \times 80 / CO$ (normal: 20–120 dyne·sec/cm⁵)
+*   **Compliance:** $C = \Delta V / \Delta P$ (venous compliance 10–20× greater than arterial)
+
+### Cardiac Shunts
+
+*   **Left-to-right shunt:** Oxygenated blood recirculates to lungs; patient pink (acyanotic).
+*   **Right-to-left shunt:** Deoxygenated blood enters systemic circulation; patient cyanotic.
+*   **Qp/Qs ratio:**
+    *   Qp/Qs = 1: No shunt or balanced circulations
+    *   Qp/Qs > 1: Left-to-right shunt
+    *   Qp/Qs < 1: Right-to-left shunt
+    *   Qp/Qs > 1.5: Haemodynamically significant
+
+### Chamber Dilatation in Left-to-Right Shunts
+
+| Defect | Dilated Chambers |
+|--------|------------------|
+| ASD | RA, RV, PA |
+| VSD | PA, pulmonary veins, LA, LV |
+| PDA | PA, pulmonary veins, LA, LV, aorta (proximal) |
+
+### Streaming vs Mixing
+
+*   **Streaming:** Preferential flow without complete mixing; oxygen saturation differs in great arteries (e.g., DORV with subaortic vs subpulmonic VSD).
+*   **Mixing:** Complete blending; oxygen saturation equal in both great arteries (e.g., tricuspid atresia).
+
+### Ventricular Circulations
+
+*   **Biventricular:** Two adequate ventricles in series; each supports one circulation.
+*   **Single-ventricle (Fontan):** Systemic venous return connected directly to PA without ventricular interposition; Qp/Qs ≈ 1; systemic veins at high pressure.
+*   **One-and-a-half-ventricle:** SVC to PA (Glenn shunt) + small RV pumps IVC return; for patients with small RV (e.g., PA-IVS, Ebstein anomaly).
+
+### Qp/Qs Calculation (Fick Principle)
+
+$$\frac{Qp}{Qs} = \frac{Ao\ O_2\ sats - RA\ O_2\ sats}{PV\ O_2\ sats - PA\ O_2\ sats}$$
+
+*   RA saturation = (3×SVC sats + 1×IVC sats)/4
+*   PV saturation assumed 100%
+
+### Eisenmenger Syndrome
+
+*   **Definition:** Obstructive pulmonary vascular disease from longstanding large L→R shunt; PVR approaches or exceeds SVR.
+*   **Shunt reversal:** R→L shunt → cyanosis.
+*   **Early development:** Truncus arteriosus, common AVSD, VSD, PDA, TGA (ASD less established).
+*   **CXR:** Decreased cardiac shadow, oligaemic lung fields, enlarged PA shadow.
+*   **Median survival:** 20–50 years.
+
+### Oxygen-Haemoglobin Dissociation Curve
+
+*   **Sigmoid shape:** Flat above 60 mm Hg (8 kPa); steep below.
+*   **Left shift (↑ affinity):** Foetal haemoglobin, alkalosis, hypothermia, ↓2,3-DPG.
+*   **Right shift (↓ affinity):** Acidosis, hyperthermia, ↑CO₂, ↑2,3-DPG (tissue oxygen delivery).
+
+### Cyanosis
+
+*   **Manifest:** ≥5 g/dL deoxyhaemoglobin.
+*   **Central:** Arterial desaturation (cardiac or pulmonary).
+*   **Peripheral:** Normal arterial saturation; increased tissue extraction (shock, hypovolaemia, cold).
+*   **Hyperoxia test:** Pulmonary causes → PaO₂ >100 mm Hg; cardiac causes → rise of 10–30 mm Hg, not >100 mm Hg.
+
+### Oxygen Content
+
+$$\text{O}_2\ \text{content} = (1.34 \times \text{Hb} \times \text{SaO}_2) + (0.003 \times \text{PaO}_2)$$
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 1. Foetal Circulation and Transition at Birth</summary><div class="details-content">
+
+#### Foetal Circulation (Figure 1)
+
+The fundamental difference between foetal and adult circulation is that **gas exchange occurs in the placenta**, not the lungs.
+
+The placenta receives foetal deoxygenated blood via the **umbilical arteries** and returns oxygen-rich blood via the **umbilical vein** to the foetal circulation.
+
+**Flow of foetal circulation:**
+*   Oxygenated blood (70%) returning from the placenta via the umbilical vein bypasses the liver through the **ductus venosus** to drain into the inferior vena cava (IVC)
+*   IVC blood streams by the **Eustachian valve** to cross from the right atrium (RA) to the left atrium (LA) through the **patent foramen ovale**
+*   LA blood passes into the left ventricle (LV), then pumped into the ascending aorta (coronary arteries) and aortic arch (head vessels)
+*   Deoxygenated blood (40%) from the superior vena cava (SVC) preferentially enters the right ventricle (RV), then the pulmonary artery (PA)
+*   Most blood from the PA is diverted through the **ductus arteriosus** to the descending aorta (high foetal PVR) and returns to the placenta via umbilical arteries
 
 ![](_page_1_Figure_2.jpeg)
 
 **Figure 1. Foetal circulation.**
 
-- The foetal circulation allows shunting at four points, including the:
-  - a) placenta which has a low vascular resistance and receives about 55% of the combined left and right ventricular foetal cardiac output;
-  - b) ductus venosus which allows shunting from the umbilical vein to the IVC, bypassing the liver;
-  - c) foramen ovale which allows unidirectional shunting of blood from the RA to the LA by a valve-like flap;
+**Four shunts in foetal circulation:**
+*   **Placenta:** Low vascular resistance; receives ~55% of combined ventricular output
+*   **Ductus venosus:** Shunts from umbilical vein to IVC, bypassing liver
+*   **Foramen ovale:** Unidirectional RA→LA shunt via valve-like flap
+*   **Ductus arteriosus:** Shunts from PA to aorta
 
-d) ductus arteriosus — which allows shunting from the PA to the aorta.
+#### Circulatory Changes at Birth (Figure 2)
 
-## 2 **Describe the circulatory changes that occur at birth**
+At birth, the neonate starts breathing → lung expansion + high alveolar PO₂ → **sharp decline in pulmonary vascular resistance**.
 
-- At birth, the neonate starts breathing that results in lung expansion, which together with the pulmonary vasodilatation caused by a high alveolar PO2, leads to a sharp decline in pulmonary vascular resistance.
-- As pulmonary vascular resistance decreases, more blood from the PA enters the lungs instead of the descending aorta (Figure 2).
+As PVR decreases, more blood from the PA enters the lungs instead of the descending aorta.
 
 ![](_page_2_Figure_6.jpeg)
 
-**Figure 2. Pressure, blood flow and resistance in the pulmonary circulation before, at and after birth. The progressive decline in pulmonary vascular resistance can be seen over the first weeks after birth.**
+**Figure 2. Pressure, blood flow and resistance in the pulmonary circulation before, at and after birth. The progressive decline in pulmonary vascular resistance can be seen over the first 5–7 weeks after birth.**
 
-- As the intracardiac shunts close, the systemic and pulmonary circulation are now separated, including:
-  - a) closure of the ductus arteriosus, as a result of smooth muscle contraction in its wall in response to increased arterial oxygen saturation levels and decreased levels of circulating prostaglandin (which came from the placenta);
-  - b) clamping of the umbilical cord and the removal of the low resistance placenta can result in increased systemic vascular resistance and reduced return to the IVC and RA;
-  - c) closure of the sphincter of the ductus venosus, which forces blood to return via the liver to the RA;
-  - d) closure of the flap valve foramen ovale as LA pressure rises, as a result of the increased pulmonary blood flow.
-- The ductus arteriosus initially functionally closes due to smooth muscle contraction. This becomes permanent after 3 weeks because of anatomical changes in the endothelium and subintimal layers of the ductus. Ductal closure can be manipulated in the initial period with the use of prostaglandins.
-- The foramen ovale closes passively by the increased LA pressure and is permanently closed in most infants within 6 months. In about 20% of cases, complete fusion of the foramen ovale flap does not occur, leaving a patent foramen ovale (PFO), which does not normally allow for significant shunting from left-to-right due to the valve-like mechanism.
+**Closure of intracardiac shunts:**
+*   **Ductus arteriosus:** Smooth muscle contraction in response to ↑arterial O₂ and ↓circulating PGE₂ (from placenta). Initially functional closure; permanent after 3 weeks (endothelial/subintimal changes).
+*   **Umbilical cord clamping:** Removes low-resistance placenta → ↑SVR and ↓return to IVC/RA.
+*   **Ductus venosus:** Sphincter closes, forcing blood through liver to RA.
+*   **Foramen ovale:** LA pressure rises (↑pulmonary blood flow) → flap valve closes passively. Permanently closed in most infants within 6 months; PFO persists in ~20% (no significant L→R shunt due to valve mechanism).
 
-## 3 **What is the ductus arteriosus?**
+</div></details>
 
-- The ductus arteriosus, which is also known as the ductus Botalli, is a vascular channel connecting the main pulmonary vascular trunk with the descending aorta.
-- During foetal life, the ductus arteriosus allows shunting of mostly deoxygenated blood from the PA to the aorta.
-- Maintaining ductal patency after birth can be lifesaving as initial palliation in neonates with duct-dependent congenital heart disease.
-- In patients with left-sided obstruction, such as severe aortic coarctation, right-to-left shunting through the ductus maintains lower body perfusion. Percutaneous oxygen measurement will show a differential in oxygen saturation levels, with lower saturations in the lower body compared to the upper body (duct-dependent systemic circulation).
+---
 
-- In those with right-sided obstruction, such as pulmonary atresia, retrograde flow through the ductus allows filling of the pulmonary arteries (duct-dependent pulmonary circulation).
-- In transposition of the great arteries, where there are parallel circulations, ductal patency aids mixing between the systemic and pulmonary circulations (duct-dependent mixing).
+<details class="med-details"><summary>
 
-## 4 **How is ductal closure and opening regulated?**
+## 2. Ductus Arteriosus</summary><div class="details-content">
 
-- In full-term infants, the ductus closes hours after birth due to an increase in arterial pO2, breakdown of circulating PGE2 in the lungs, and lowering of intraluminal ductal pressure due to falling pulmonary vascular resistance.
-- In preterm infants, the ductus is less responsive to oxygen, which explains the higher incidence of duct patency in these young babies. Prolonged patency of the ductus results in pulmonary overflow and low systemic perfusion.
-- Ductal constriction can be promoted through inhibition of prostaglandin synthesis via the cyclo-oxygenase pathway. The cyclooxygenase inhibitors, indomethacin and ibuprofen, are used in clinical practice to promote ductal closure in premature infants.
-- To maintain ductal patency in a neonate with a duct-dependent circulation, a continuous intravenous infusion of synthetic prostaglandin E1 is used (0.005-0.1µg/kg/min).
+#### What is the Ductus Arteriosus?
 
-### 5 **Describe the changes in pulmonary vascular resistance that occur during normal development**
+The ductus arteriosus (ductus Botalli) is a vascular channel connecting the main pulmonary trunk with the descending aorta. During foetal life, it allows shunting of mostly deoxygenated blood from PA to aorta.
 
-- In the full-term foetus, the lungs are collapsed and there is minimal blood flow through the pulmonary vascular bed.
-- After birth, lung expansion and increased alveolar PO2 cause <sup>a</sup> rapid initial decline in the pulmonary vascular resistance (PVR). In the fullterm infant shortly after birth, the PVR is nearly equal to the systemic vascular resistance.
-- During the first weeks of life, there is a gradual decrease in PVR with reduction in PA pressures. If any intracardiac communications are present, there will be increasing shunting from the left to the right side of the circulation, with resultant pulmonary overflow.
-- A further fall in PVR occurs after 2 years of age, when it will reach levels that remain constant throughout adulthood.
+Maintaining ductal patency after birth can be **lifesaving** as initial palliation in neonates with duct-dependent congenital heart disease:
 
-- Persistent neonatal pulmonary hypertension, also called persistent foetal circulation, can be caused by:
-  - a) lack of normal physiological relaxation of the pulmonary vascular bed, such as due to hypoxaemia or acidaemia;
-  - b) increased vascular smooth muscle in the pulmonary vascular bed;
-  - c) inadequate number of blood vessels in the lung parenchyma.
-- Persistent neonatal pulmonary hypertension needs to be distinguished from morphological cardiac defects that cause pulmonary venous obstruction, such as obstruction of pulmonary venous return, veno-occlusive disease or mitral stenosis.
+| Condition | Duct Role |
+|-----------|----------|
+| **Left-sided obstruction** (e.g., severe coarctation) | Right-to-left shunting maintains lower body perfusion; differential cyanosis (lower body O₂ < upper body) |
+| **Right-sided obstruction** (e.g., pulmonary atresia) | Retrograde flow through ductus fills pulmonary arteries |
+| **Transposition of the great arteries** | Ductal patency aids mixing between parallel circulations |
 
-#### 6 **Describe the factors that control pulmonary vascular resistance**
+#### Regulation of Ductal Closure and Opening
 
-- Oxygen, hypocapnia and alkalosis act as pulmonary arterial vasodilators, whereas hypoxia, hypercapnia and acidosis are associated with vasoconstriction.
-- Pharmacological treatment of arterial pulmonary hypertension involves manipulation of endothelium-derived vasodilators (such as nitric oxide) and vasoconstrictors (such as endothelin-1).
-- Nitric oxide (NO):
-  - a) endothelium-derived NO which is produced locally in the lungs and has profound effects on smooth muscle relaxation and proliferation;
-  - b) exogenous NO which can be administered in closed ventilation circuits at parts per million for use as a shortacting pulmonary vasodilator.
-- Phosphodiesterase (PDE) inhibitors:
-  - a) milrinone which is a PDE Type 3 inhibitor that increases the bioavailability of cyclic adenosine monophosphate (cAMP), resulting in smooth muscle relaxation, with resultant pulmonary and systemic vasodilatation. Intravenous milrinone is widely used as an inodilator in neonates;
-  - b) sildenafil which is a PDE Type 5 inhibitor that prevents the hydrolysis of cyclic guanosine monophosphate (cGMP), the second messenger of nitric oxide, allowing a more sustained effect of endogenous nitric oxide.
+**Full-term infants:**
+*   Ductus closes 24–48 hours after birth due to:
+    *   ↑Arterial pO₂
+    *   Breakdown of circulating PGE₂ in lungs
+    *   ↓Intraluminal ductal pressure (falling PVR)
 
-#### Prostacyclines:
+**Preterm infants:**
+*   Ductus less responsive to oxygen → higher incidence of patent ductus arteriosus (PDA)
+*   Prolonged patency → pulmonary overflow + low systemic perfusion
 
-- a) prostacyclin which is a naturally occurring prostaglandin synthesised in the vascular endothelium from arachnidonic acid via the cyclo-oxygenase pathway. It is a short-acting, potent vasodilator throughout the vascular system, and also has antiplatelet effects;
-- b) synthetic prostacyclin analogues which can be delivered via a continuous intravenous infusion, such as epoprostenol, or intermittent inhalation, such as iloprost.
-- Endothelin receptor antagonists (ERA) which are used to block the action of endothelin-1, a peptide that is produced by the vascular endothelium with potent vasoconstrictive and proliferative paracrine actions on vascular smooth muscle cells. An example is bosentan, which is administered orally.
+**Pharmacological manipulation:**
+*   **Promote closure:** Cyclooxygenase inhibitors (indomethacin, ibuprofen) inhibit prostaglandin synthesis
+*   **Maintain patency:** Continuous IV prostaglandin E₁ (0.005–0.1 μg/kg/min) for duct-dependent circulations
 
-# What are the normal values for vital signs in the paediatric population (Table 1)?
+</div></details>
 
-| Table 1. Normal values for heart rate, respiratory rate and blood pressure, according to age. |                     |                        |                                |                                 |  |  |  |  |
-|-----------------------------------------------------------------------------------------------|---------------------|------------------------|--------------------------------|---------------------------------|--|--|--|--|
-| Age                                                                                           | Heart rate<br>(bpm) | Respiratory rate (rpm) | Systolic<br>pressure<br>(mmHg) | Diastolic<br>pressure<br>(mmHg) |  |  |  |  |
-| Neonate<br>(<28 days)                                                                         |             |                 |                          |                           |  |  |  |  |
-| Infant<br>(1 month-1 year)                                                                    |             |                  |                         |                           |  |  |  |  |
-| Toddler<br>(1-2 years)                                                                        |              |                  |                         |                           |  |  |  |  |
-| Preschool<br>(3-5 years)                                                                      |              |                  |                         |                           |  |  |  |  |
-| School-age<br>(6-11 years)                                                                    |              |                  |                         |                           |  |  |  |  |
-| Adolescent<br>(12-15 years)                                                                   |              |                  |                        |                           |  |  |  |  |
+---
 
-# 8 What are the normal values for weight, height and body surface area in the paediatric population (Table 2)?
+<details class="med-details"><summary>
 
-| Table 2. Normal values for weight, height and body surface area, according to age *. |                    |         |                    |         |                                  |         |  |  |  |
-|--------------------------------------------------------------------------------------|--------------------|---------|--------------------|---------|----------------------------------|---------|--|--|--|
-| Age                                                                                  | Median weight (kg) |         | Median height (cm) |         | Median body<br>surface area (m²) |         |  |  |  |
-|                                                                                      | Males              | Females | Males              | Females | Males                            | Females |  |  |  |
-| Neonate<br>(<28 days)                                                                | 3.2                | 3.0     | 51                 | 51      | 0.21                             | 0.21    |  |  |  |
-| Infant<br>(1 month-1 year)                                                           | 5.6                | 5.7     | 60                 | 58      | 0.30                             | 0.31    |  |  |  |
-| Toddler<br>(1-2 years)                                                               | 14                 | 12      | 94                 | 87.5    | 0.60                             | 0.53    |  |  |  |
-| Preschool<br>(3-5 years)                                                             | 19                 | 17.5    | 110                | 107.5   | 0.76                             | 0.73    |  |  |  |
-| School-age<br>(6-11 years)                                                           | 30                 | 29      | 137                | 136     | 1.07                             | 1.05    |  |  |  |
+## 3. Pulmonary Vascular Resistance</summary><div class="details-content">
 
-174
+#### Changes During Normal Development
 
-162
+*   **Full-term foetus:** Lungs collapsed; minimal pulmonary blood flow
+*   **Immediately after birth:** Lung expansion + ↑alveolar PO₂ → rapid initial decline in PVR; PVR ≈ SVR
+*   **First 6–8 weeks:** Gradual decrease in PVR with reduction in PA pressures; if intracardiac communications present → increasing L→R shunt and pulmonary overflow
+*   **After 2 years:** PVR reaches adult levels (remains constant throughout adulthood)
 
-1.75
+#### Factors Controlling PVR
 
-1.54
+| Vasodilators | Vasoconstrictors |
+|--------------|------------------|
+| Oxygen | Hypoxia |
+| Hypocapnia | Hypercapnia |
+| Alkalosis | Acidosis |
+| Nitric oxide (NO) | Endothelin-1 |
+| Milrinone (PDE3 inhibitor) | — |
+| Sildenafil (PDE5 inhibitor) | — |
+| Prostacyclin analogues | — |
 
-- 9 What is the average circulating blood volume in the paediatric population?
-- Premature neonates 95mL/kg.
+**Pharmacological agents:**
+*   **Nitric oxide (NO):** Endothelium-derived; exogenous NO (20–40 ppm) as short-acting pulmonary vasodilator
+*   **Phosphodiesterase inhibitors:**
+    *   Milrinone (PDE3 inhibitor): ↑cAMP → smooth muscle relaxation; inodilator
+    *   Sildenafil (PDE5 inhibitor): Prevents cGMP hydrolysis → sustained endogenous NO effect
+*   **Prostacyclin analogues:** Epoprostenol (IV), iloprost (inhaled); vasodilator + antiplatelet effects
+*   **Endothelin receptor antagonists:** Bosentan (oral); blocks endothelin-1 (potent vasoconstrictor)
 
-63
+#### Persistent Neonatal Pulmonary Hypertension (Persistent Foetal Circulation)
 
-52
+Causes:
+*   Lack of normal physiological relaxation of pulmonary vascular bed (hypoxaemia, acidaemia)
+*   Increased vascular smooth muscle in pulmonary vascular bed
+*   Inadequate number of blood vessels in lung parenchyma
 
-- Full term neonates 85mL/kg.
-- Infants 80mL/kg.
+Must distinguish from morphological cardiac defects causing pulmonary venous obstruction (obstructed pulmonary venous return, veno-occlusive disease, mitral stenosis).
 
-Adolescent
+</div></details>
 
-(12-15 years)
+---
 
-- Adult male 75mL/kg.
-- Adult female 65mL/kg.
+<details class="med-details"><summary>
 
-<sup>\*</sup> Height and weight are affected by genetic make-up, nutrition, hormones, activity levels and medical conditions.
+## 4. Normal Values in the Paediatric Population</summary><div class="details-content">
 
-#### 10 **Describe the relationship between blood flow and vascular resistance**
+#### Vital Signs (Table 1)
 
-- Blood flow (Q) is the amount of blood volume passing through a vessel per unit time and is often expressed as mL/min.
-- Blood flow is directly proportionate to the pressure drop (P) over the vessel and inversely proportionate to the vascular resistance (R), as per the equation:
+<details class="med-details"><summary>
 
-$$Q = \underline{\Delta P}$$
-R
+##### TABLE 1: Normal Heart Rate, Respiratory Rate, and Blood Pressure by Age</summary><div class="details-content">
 
-- In the normal adult circulation, the pulmonary vascular resistance is much lower than the systemic vascular resistance, hence the pressure required for the blood to cross the pulmonary circulation is much lower than that required for the same amount of blood for the systemic circulation.
-- This is also reflected in that the muscle mass of the right ventricle is substantially less than that of the left ventricle.
-- In the neonate, as the pulmonary vascular resistance is high and equals systemic vascular resistance, both the right and left ventricles need to generate high pressure. As the pulmonary vascular resistance drops in the early weeks of life, there is a concomitant reduction in right ventricular pressure, and this is accompanied by a reduction in the right ventricular mass. In patients with transposition of the great arteries, in whom the morphological left ventricle is the subpulmonary ventricle, it is the left ventricle that will reduce in mass.
+| Age | Heart Rate (bpm) | Respiratory Rate (rpm) | Systolic BP (mmHg) | Diastolic BP (mmHg) |
+|-----|------------------|----------------------|--------------------|--------------------|
+| Neonate (<28 days) | 100–205 | 30–53 | 67–84 | 35–53 |
+| Infant (1 month–1 year) | 100–190 | 30–53 | 72–104 | 37–56 |
+| Toddler (1–2 years) | 98–140 | 22–37 | 86–106 | 42–63 |
+| Preschool (3–5 years) | 80–120 | 20–28 | 89–112 | 46–72 |
+| School-age (6–11 years) | 75–118 | 18–25 | 97–115 | 57–76 |
+| Adolescent (12–15 years) | 60–100 | 12–20 | 110–131 | 64–83 |
 
-#### 11 **What are the anatomical characteristics of the normal adult circulation?**
+</div></details>
 
-- The normal circulation consists of a systemic circulation and a pulmonary circulation, each supported by a dedicated pumping chamber (i.e. a biventricular circulation).
-- All the usual cardiovascular structures are present and of normal size, and are connected in normal sequence, with the SVC and IVC connecting to the right atrium, then right ventricle, pulmonary artery, pulmonary vascular bed, left atrium, pulmonary veins, left ventricle, aorta and systemic vascular bed.
-- The systemic and pulmonary circulations are separated, with no intracardiac communications.
-- The systemic and pulmonary blood flow are in series, where the blood goes sequentially through the systemic then pulmonary vascular bed.
-- Blood that leaves the heart via the aorta is distributed to major organ arteries, including the carotid, brachial, superior mesenteric, renal and iliac arteries, which are in parallel with each other.
+#### Weight, Height, and Body Surface Area (Table 2)
 
-- The exception are the gut and hepatic circulations, which are partly in series as the venous drainage from the intestines drains into the portal vein that supplies most of the inflow to the liver.
-- Within each organ, there is a microcirculation arranged as a series of in-parallel and in-series vessels (Figure 3).
+<details class="med-details"><summary>
 
-![](_page_9_Figure_4.jpeg)
+##### TABLE 2: Normal Weight, Height, and Body Surface Area by Age</summary><div class="details-content">
 
-**Figure 3. Normal adult circulation.**
+| Age | Median Weight (kg) | Median Height (cm) | Median BSA (m²) |
+|-----|-------------------|-------------------|-----------------|
+| | Male | Female | Male | Female | Male | Female |
+| Neonate (<28 days) | 3.2 | 3.0 | 51 | 51 | 0.21 | 0.21 |
+| Infant (1 month–1 year) | 5.6 | 5.7 | 60 | 58 | 0.30 | 0.31 |
+| Toddler (1–2 years) | 14 | 12 | 94 | 87.5 | 0.60 | 0.53 |
+| Preschool (3–5 years) | 19 | 17.5 | 110 | 107.5 | 0.76 | 0.73 |
+| School-age (6–11 years) | 30 | 29 | 137 | 136 | 1.07 | 1.05 |
+| Adolescent (12–15 years) | 63 | 52 | 174 | 162 | 1.75 | 1.54 |
 
-## 12 **What are the principles of <sup>a</sup> biventricular circulation?**
+</div></details>
 
-- A biventricular circulation has two adequately sized functioning ventricles.
-- One ventricle supports the pulmonary circulation, the other supports the systemic circulation and, in the absence of any intracardiac shunts, these circulations are connected in series.
-- Usually, the morphological right ventricle is the subpulmonary ventricle and the morphological left ventricle is the subaortic ventricle.
-- Each ventricle provides a step-up in blood pressure that allows the propulsion of blood through the downstream vascular bed.
+#### Average Circulating Blood Volume
 
-• As the systemic circulation normally has a much higher resistance than the pulmonary circulation, the subaortic ventricle needs to generate a much higher step-up in blood pressure than the subpulmonary ventricle (Figure 4).
+| Population | Blood Volume |
+|------------|--------------|
+| Premature neonate | 95 mL/kg |
+| Full-term neonate | 85 mL/kg |
+| Infant | 80 mL/kg |
+| Adult male | 75 mL/kg |
+| Adult female | 65 mL/kg |
 
-![](_page_10_Figure_3.jpeg)
+</div></details>
 
-**Figure 4. Step-up in systemic and pulmonary blood pressure by the left and right ventricles.**
+---
 
-#### 13 **Describe the principles of calculating systemic and pulmonary vascular resistance**
+<details class="med-details"><summary>
 
-- Vascular resistance represents the opposition to blood flow in the circulation.
-- Although resistance cannot be directly measured, vascular resistance is calculated as:
+## 5. Haemodynamics: Flow, Resistance, and Compliance</summary><div class="details-content">
 
-$$R = \underline{\Delta P}$$
+#### Relationship Between Blood Flow and Vascular Resistance
 
-R = resistance; P = change in pressure across the circulation loop from its beginning (immediately after exiting the ventricle) to its end (entering the atrium); Q = flow through the vasculature.
+Blood flow (Q) is directly proportional to the pressure drop (ΔP) and inversely proportional to vascular resistance (R):
 
-• Systemic vascular resistance (SVR) can be calculated as:
+$$Q = \frac{\Delta P}{R}$$
 
-SVR (dynes.sec/cm<sup>5</sup>) = 
-$$\frac{\text{(MAP - CVP)}}{\text{CO}} \times 80$$
+In normal adult circulation, PVR ≪ SVR → pressure required for pulmonary circulation much lower than for systemic circulation. This is reflected in RV muscle mass being substantially less than LV.
 
-SVR (Wood units) = 
-$$\frac{(MAP - CVP)}{CO}$$
+In the neonate, PVR is high and equals SVR → both ventricles generate high pressure. As PVR drops in early weeks, RV pressure and mass decrease. In TGA (LV is subpulmonary), LV mass decreases.
 
-MAP = mean arterial pressure (mmHg); CVP = central venous pressure (mmHg); CO = cardiac output (L/min).
+#### Calculation of Systemic and Pulmonary Vascular Resistance
 
-Normal SVR is dynes.sec/cm5 or WU.
+**Systemic vascular resistance (SVR):**
 
-• Pulmonary vascular resistance (PVR) can be calculated as:
+$$SVR\ (\text{dynes●sec/cm}^5) = \frac{(\text{MAP} - \text{CVP}) \times 80}{\text{CO}}$$
 
-$$PVR (dynes.sec/cm^5) = \frac{(MPAP - LAP)}{CO} \times 80$$
+$$SVR\ (\text{Wood units}) = \frac{\text{MAP} - \text{CVP}}{\text{CO}}$$
 
-$$PVR (Wood units) = \frac{(MPAP - LAP)}{CO}$$
+*MAP = mean arterial pressure (mmHg); CVP = central venous pressure (mmHg); CO = cardiac output (L/min)*
 
-MPAP = mean pulmonary arterial pressure (mmHg); LAP = left atrial pressure (or pulmonary venous wedge pressure) (mmHg); CO = cardiac output (L/min).
+Normal SVR: 770–1500 dynes·sec/cm⁵ or 10–20 Wood units.
 
-Normal PVR is dynes.sec/cm5 or 0.25-1.5 WU.
+**Pulmonary vascular resistance (PVR):**
 
-#### 14 **Discuss the regulation of peripheral vascular resistance in the systemic circulation**
+$$PVR\ (\text{dynes●sec/cm}^5) = \frac{(\text{MPAP} - \text{LAP}) \times 80}{\text{CO}}$$
 
-- Within the body as a whole, and in individual organs, the circulation is made up of both in-series and in-parallel vascular elements.
-- The major distributing arteries from the aorta (e.g. carotid, brachial, superior mesenteric, renal, iliac) are in parallel with each other. The notable exception is the liver, which is partly in series with the gut.
-- Within individual organs, the arteries branch out, terminating in microvascular vascular beds comprising of small arteries (A), arterioles (a), capillaries (c), venules (v) and veins (V) (Figure 5).
-- The Poiseuille equation (R = 8Lη/.r4 ) dictates that resistance in an individual segment of vessel (R) is directly proportional to the length (L) of the vessel and inversely proportional to the radius to the fourth power (r4).
+$$PVR\ (\text{Wood units}) = \frac{\text{MPAP} - \text{LAP}}{\text{CO}}$$
+
+*MPAP = mean pulmonary arterial pressure (mmHg); LAP = left atrial pressure (mmHg); CO = cardiac output (L/min)*
+
+Normal PVR: 20–120 dynes·sec/cm⁵ or 0.25–1.5 Wood units.
+
+#### Regulation of Peripheral Vascular Resistance
+
+**Poiseuille equation:** $R = \frac{8L\eta}{\pi r^4}$
+
+Resistance ∝ 1/r⁴ → small changes in radius have profound effects on resistance.
+
+**Series vs parallel arrangement (Figures 5–7):**
+*   **Series:** Total resistance = sum of individual resistances
+*   **Parallel:** Total resistance decreases as more vessels are added
+
+**Typical microvascular bed contributions to total resistance:**
+*   Small arteries (A): 20%
+*   Arterioles (a): 50% — **major determinant of vascular resistance**
+*   Capillaries (c): 20%
+*   Venules (v): 6%
+*   Veins (V): 4%
+
+Large distributing arteries comprise only ~1% of total SVR → changes in their diameter have relatively small effect on total resistance.
 
 ![](_page_12_Picture_2.jpeg)
 
 **Figure 5. Distribution of systemic blood flow.**
 
-- When vascular segments are connected in series, the total vascular resistance in this system equals the sum of the individual resistances.
-- In the typical microvascular bed, the relative contributions to the total resistance (RT) of the bed are approximately RA = 20%, Ra = 50%, Rc = 20%, Rv = 6%, RV = 4% (Figure 6).
-- Small arteries and arterioles comprise approximately 70% of the total resistance in most organs, and changes in the diameter, and therefore resistance, of these arteries are the major determinants of the vascular resistance in an organ.
-- For body arteries that are in a parallel arrangement, including the distribution of the aortic blood flow, the total resistance of such vascular networks can be calculated (Figure 7).
-
-**74**
-
 ![](_page_13_Figure_2.jpeg)
 
-$$R_T = R_A + R_a + R_c + R_v + R_V$$
-
-**Figure 6. Calculation of the vascular resistance with vessels in series.**
+**Figure 6. Calculation of vascular resistance with vessels in series.**
 
 ![](_page_13_Figure_5.jpeg)
 
 **Figure 7. Calculation of vascular resistance with vessels in parallel.**
 
-- In principle, adding a vascular bed in series to a circulation increases its total vascular resistance, while adding a vascular bed in parallel decreases the total resistance.
-- For the body as a whole, the large distributing arteries comprise only approximately 1% of the total vascular resistance, and therefore, unlike arterioles, changes in the diameter have a relatively small effect on total resistance. Although a 50% reduction in radius should
+#### Compliance
 
-increase the resistance in the individual vessel 16-fold according to the Poiseuille equation, the overall resistance will only increase by about 15% as the relative contribution of the vessel to the overall resistance is small.
+Compliance describes how easily a chamber or vessel adapts volume without increasing pressure:
 
-## 15 **What is collateral circulation?**
+$$C = \frac{\Delta V}{\Delta P}$$
 
-- A collateral circulation is an alternate circulation, which develops around an obstruction or occasionally lack of development, of an artery or vein. Some examples encountered in congenital cardiac surgery include the:
-  - a) collateral arterial circulation that develops via intercostal arteries in patients with coarctation of the aorta, which provides blood flow to organs distal to the coarctation;
-  - b) veno-veno collateral vessels in patients with a superior vena cava to pulmonary artery shunt (Glenn shunt), with blood flowing from the higher pressure SVC to the lower pressure IVC territory. The resultant bypassing of the pulmonary vascular bed results in desaturation;
-  - c) major aortopulmonary collateral arteries (MAPCAs), which are systemic collateral arteries from the aorta or subclavian artery, that perfuse the lung parenchyma if the central pulmonary arteries are underdeveloped or absent, thereby enabling blood delivery for pulmonary gas exchange. Longstanding highpressure MAPCAs lead to the development of pulmonary vascular disease;
-  - d) arteriovenous malformations in the lung, which are abnormal connections between pulmonary arteries and veins bypassing the capillary system and leading to central cyanosis.
-- The collateral circulation connects a high-pressure proximal vascular bed to a lower-pressure vascular bed. In the event of an arterial occlusion, it helps to provide oxygenated blood to the downstream area.
-- The collateral blood flow may occur via pre-existing redundancy or via new branches formed between adjacent blood vessels (neovascularisation).
-- Collateral blood flow may result in significant volume loading of the circulation.
-
-## 16 **What is cardiac output?**
-
-- Cardiac output (CO) is the volume of blood ejected by the heart per unit of time, and is usually expressed as litres/minute (L/min).
-- Cardiac output can be calculated as:
-
-CO = Stroke volume x Heart rate.
-
-- Stroke volume is the volume of blood ejected by the ventricle in a single beat.
-- In neonates, as ventricular volumes are small and the ventricles are poorly compliant, the stroke volume is fixed within narrow margins. Hence, any decrease in heart rate will result in a decrease in cardiac output.
-- In adults, however, the ventricles are much more compliant. When the heart rate decreases, there will be more blood entering the heart, and thus stroke volume will increase (according to Starling's law) and cardiac output remains unaffected (within limits).
-
-## 17 **What are the principles of cardiac shunting?**
-
-- In the normally connected circulation, the pulmonary and systemic blood flow are separated and arranged in series. The blood must pass through the pulmonary vascular bed to reach the systemic circulation, and vice versa.
-- In the absence of shunts, the amount of pulmonary blood flow (Qp) is equal to that of systemic blood flow (Qs), hence the ratio of pulmonary to systemic flow (Qp/Qs) = 1.
-- Shunting of blood between the systemic and pulmonary circulations occurs when the normal flow of blood is diverted because of an intracardiac communication and the blood goes back to the same capillary bed that it came from.
-- Some cardiac shunting may occur in normal states, including:
-  - a) anatomic shunting which occurs when bronchial arterial blood returns to the left atrium;
-  - b) physiological shunting which occurs in the lungs due to the effect of gravity, where more blood flows to the lung bases, which are not well ventilated, and bypasses the alveoli.
-- Cardiac shunts are common in congenital heart disease. They can present as communications at the level of the:
-  - a) atria atrial septal defect (ASD);
-
-- b) ventricles ventricular septal defect (VSD);
-- c) great arteries patent ductus arteriosus (PDA).
-- The blood flow across the shunt is pressure driven. In the case of a VSD, this is directly related to the pressure difference between the ventricles at any time during the cardiac cycle, whereas for an ASD, the pressure difference between the atria is governed by the ventricular end-diastolic pressure. Since this pressure is normally higher in the thick-walled, relatively non-compliant left ventricle, an ASD will usually shunt from the left to right atrium.
-- In patients with a cardiac communication and otherwise normally connected circulation, oxygenated blood will shunt from the highpressure left side to the low-pressure right side, representing a leftto-right shunt, where the patient is not cyanosed (pink).
-- If a VSD is associated with severe pulmonary stenosis, such as in tetralogy of Fallot, the obstruction to pulmonary blood flow forces the blood to pass through the VSD from the RV to the LV, representing a right-to-left shunt, where the patient is cyanosed (blue).
-
-## 18 **Describe the changing physiology of a cardiac shunt in the first few months following birth**
-
-- In patients with congenital heart disease, changes in pulmonary vascular resistance in the neonatal period affect the direction and magnitude of the shunt flow.
-- Immediately after birth, as pulmonary vascular resistance is high and there is little difference between pulmonary and systemic pressure, there will be minimal overall blood flow across the cardiac communication.
-- After the pulmonary vascular resistance drops in the first few weeks of life, the pressure difference between the systemic and pulmonary circulations increases, causing an increase in flow from left to right across the shunt, with a Qp/Qs ratio of >1.
-- Patients with a right-to-left shunt have lower pulmonary flow than systemic flow, with a Qp/Qs ratio of <1.
-
-## 19 **What is the difference between cardiac streaming and cardiac mixing?**
-
-• Cardiac streaming refers to the preferential flow of blood when the systemic and pulmonary circulations meet without a physical barrier within the cardiac chambers. In this case, as complete mixing of blood does not take place, oxygen saturation levels at the outlets (great arteries) will be different and determined by the specific anatomical setting.
-
-- For example, in the foetal circulation when oxygenated blood from the ductus venosus enters the right atrium, it preferentially flows to the left atrium. Most of the deoxygenated blood returning from the SVC will enter the right atrium.
-- Streaming is common in patients with double-outlet right ventricle, a condition where both great arteries arise completely or predominantly from the right ventricle. If the VSD is subaortic, the oxygenated blood from the LV will be ejected into the aorta just above it, and the deoxygenated blood will enter the pulmonary artery (Figure 8A). If the VSD is subpulmonic (Taussig-Bing anomaly), however, the oxygenated blood from the LV will predominantly enter the pulmonary artery, while the deoxygenated blood will enter the aorta and the patient will be cyanosed (Figure 8B). This is a similar clinical picture to transposition of the great arteries and VSD, except in this condition the aorta comes from the RV and the PA from the LV.
-
-![](_page_17_Picture_4.jpeg)
-
-**Figure 8. Streaming in double-outlet right ventricle, with a: A) subaortic ventricular septal defect; and B) subpulmonic ventricular septal defect.**
-
-• In cardiac mixing, the systemic and pulmonary circulations totally blend when they meet inside the cardiac chambers, and the oxygen saturations will be the same in both great arteries. An example of this is tricuspid atresia, where there is no connection between the RA and RV, and all systemic venous return crosses an ASD to enter the LA and mixes with pulmonary venous return (Figure 9).
-
-![](_page_18_Picture_3.jpeg)
-
-**Figure 9. Total mixing in tricuspid atresia.**
-
-- 20 **Describe the difference between the arrangement of systemic and pulmonary circulations in series and in parallel**
-- Normally, the systemic and pulmonary circulations are arranged in series, each supported by a pumping ventricle. In the absence of
-
-- shunts, the venous return from one circulation has to flow to the other circulation, with a Qp/Qs=1. As there is no blood mixing, the oxygen saturation in the aorta is 100%.
-- In some conditions, such as tricuspid atresia, the systemic and pulmonary venous return drain to a functionally single ventricle, which pumps the blood into both circulations. The circulations in such case are arranged in parallel. The amount of blood flow to each circulation is determined by its vascular resistance, in proportion to the other circulation, and the presence of any obstruction to flow. Qp/Qs can be >1 or <1. As there is total mixing of blood, the oxygen saturation in the aorta is always <100%. The single ventricle is subjected to volume overload because it receives the venous return from both circulations.
-
-# 21 What are the forces driving the systemic venous return in a normal two-ventricle circulation?
-
-- Pumping action of the systemic ventricle (normally LV).
-- Active relaxation of the pulmonary ventricle (normally RV) draws the blood from the atria and systemic veins.
-- Negative intrathoracic pressure.
-- Gravity which aids venous return from the upper half of the body.
-- Muscle contraction in the lower limbs which compresses the venous sinusoids inside the muscles, together with the venous valves in lower limb veins to direct the blood upwards towards the chest (muscle pump).
-
-## 22 What are the principles of single-ventricle circulation?
-
-- In patients with a functionally single ventricle, the systemic venous return is connected to the pulmonary arteries without the interposition of a ventricle.
-- In contemporary practice, this is most often achieved by sequentially connecting the SVC and IVC to the PA (total cavopulmonary connection TCPC). Despite the absence of a pumping chamber to drive the pulmonary circulation, the blood continues to flow to the lungs driven by the systemic circulation. This transforms the circulation (the Fontan circulation) to having the:
-  - a) systemic and pulmonary circulations arranged in series without a pumping chamber in between (Figure 10). The Qp/Qs is almost 1;
-
-![](_page_20_Picture_2.jpeg)
-
-**Figure 10. A) Normal two-ventricle circulation. B) Single-ventricle Fontan circulation. LV = left ventricle; Ao = aorta; S = systemic circulation; RA = right atrium; RV = right ventricle; PA = pulmonary artery; PV = pulmonary vein; LA = left atrium; LV = left ventricle; V = single ventricle; CV = caval veins.**
-
-- b) there is almost no mixing (except if there is a fenestration), so oxygen saturation in the aorta is nearly 100%;
-- c) single ventricle subjected to less volume load (since it receives only the pulmonary venous drainage) but more afterload (since it has to support both circulations in series);
-- d) high pressure in the systemic veins (more than pulmonary artery pressure), which in the long term may lead to:
-  - i) protein-losing enteropathy and hypoalbuminaemia;
-  - ii) pleural effusions due to high hydrostatic pressure and low plasma oncotic pressure;
-  - iii) plastic bronchitis;
-  - iv) liver cirrhosis due to chronic parenchymal venous congestion;
-  - v) venous stasis that predisposes to subclinical thrombosis and pulmonary embolism, which further increases the pulmonary vascular resistance leading to more venous stasis and a vicious circle.
-
-### 23 **What are the principles of a one-and-a-half-ventricle circulation?**
-
-• In patients with less than adequate RV size but with a normal LV, a two-ventricle circulation is not possible because the RV is too small
-
-- to pump the whole cardiac output, which is maintained by a right-toleft shunt at atrial level, at the cost of cyanosis.
-- In such patients, septation can still be achieved with a strategy of one-and-a-half-ventricle circulation. This is established by connecting the SVC to the PA (bi-directional Glenn shunt) after pulmonary vascular resistance has fallen.
-- In this arrangement, the small RV only pumps the systemic venous drainage from the lower half of the body, while the systemic venous blood from the upper half of the body passes directly through the Glenn shunt to the PA.
-- Other shunts (such as ASD and PDA) can then be closed.
-- Examples for this strategy include pulmonary atresia with intact ventricular septum and small RV, and in some cases of Ebstein anomaly with severe displacement of the septal leaflet of the tricuspid valve and a small RV. Occasionally, a one-and-a-half-ventricle strategy may be considered in patients with severe RV failure and low PA pressure.
-
-#### 24 **What are the effects of pressure load and volume load on cardiac chambers and blood vessels?**
-
-- Acute severe pressure or volume load is poorly tolerated by the heart. The cardiac chambers acutely dilate, as the heart continues to fill but cannot adequately empty. Contractility rapidly deteriorates, as the acute increase in preload causes the myocardium to overstretch ('beyond the top of the Starling curve').
-- Acute congestion occurs in the cardiovascular bed upstream from the haemodynamic load, such as acute liver congestion in a pulmonary hypertensive crisis. The cardiovascular bed downstream from the load will be underfilled, with associated hypotension.
-- More gradual onset of pressure and volume overload will lead to adaptive changes in the heart. Volume load, such as from a shunt and valvar regurgitation, leads to dilatation of the cardiac chambers, while pressure load, such as from an obstruction to flow and increased resistance, leads to hypertrophy.
-- For a cardiac chamber to dilate because of volume load, the excess volume needs to stay long enough in that chamber to stretch its walls. For example, in the presence of a VSD, excess blood volume continuously reaches the left atrium but can only be released to the left ventricle during diastole. As a result, there will be dilatation of the left atrium. In the presence of a large ASD, however, the excess blood volume will continuously be offloaded to the right atrium and the left atrium will not dilate.
-
-• Both volume and pressure load lead to dilatation of blood vessels, such as post-stenotic dilatation of the aorta, associated with aortic stenosis or coarctation.
-
-## 25 **What is compliance?**
-
-• Compliance (C) is used to describe how easily a chamber of the heart or the lumen of a blood vessel adapts volume of blood (V) without an increase in pressure (P), where:
-
-$$C = \underline{\Delta V}$$
-
-$$\underline{\Delta P}$$
-
-- Compliance decreases with increased wall thickness. So, normally, LV compliance is lower than RV compliance. Therefore, LV enddiastolic pressure (LVEDP) is normally higher than RV end-diastolic pressure (RVEDP).
-- In the neonatal heart, both ventricles are thick and non-compliant, whereas in adulthood, LV compliance reduces with advancing age. As shunting through an ASD is driven by ventricular compliance, a similar sized ASD will result in a higher left-to-right shunt with older age.
-
-### 26 **Describe the compliance of the arterial bed and venous bed**
-
-- At higher pressure and volume, the compliance of blood vessels decreases, with the vessels becoming stiffer (Figure 11).
-- The compliance of arteries is less than that of veins. At lower pressures (venous pressure is usually less than 15mmHg), the compliance of a vein is about 10 to 20 times greater than an artery. Therefore, veins can accommodate large changes in blood volume with only small changes in pressure.
-- The compliance is affected by the vascular tone in the vessel. Hence, the higher vascular tone in small arteries and arterioles (resistance vessels) determines the vascular resistance and cardiac afterload, whilst the lower vascular tone in small and large veins (capacitance vessels) determine the venous pressure and cardiac preload.
+*   **Decreases with increased wall thickness** → LV compliance < RV compliance (LVEDP > RVEDP normally)
+*   **Neonatal heart:** Both ventricles thick and non-compliant
+*   **Arterial vs venous compliance:** At low pressures (<15 mmHg), venous compliance 10–20× greater than arterial (Figure 11)
 
 ![](_page_23_Figure_2.jpeg)
 
 **Figure 11. The volume-pressure relationship (compliance) for an artery and a vein: A) an increase in volume in the compliant venous system is accommodated by a much smaller rise in pressure compared to that of the arterial system; B) the effect of increasing vascular tone (reducing compliance) in the arterial and venous systems.**
 
-### 27 **What is the difference between <sup>a</sup> restrictive and nonrestrictive cardiac defect?**
+</div></details>
 
-- A non-restrictive defect is one that is large enough so that it does not restrict blood flow across it. The defect allows equalisation of pressures on both sides, with no pressure drop (gradient). For example, a large VSD allows communication between the left and the right ventricles, and since the defect offers no resistance to flow, pressures equalise on both sides of the interventricular septum.
-- A restrictive defect, however, is small enough to restrict blood flow across it, so that there is a significant pressure gradient across it. For example, a small VSD restricts blood flow, so the pressure in the right ventricle is still significantly lower than that in the left ventricle.
+---
 
-#### 28 **What are the symptoms and clinical signs of a significant left-to-right shunt in infants?**
+<details class="med-details"><summary>
 
-- Increased pulmonary blood flow leads to increased hydrostatic pressure in the pulmonary capillaries, which leads to increased filtration of fluid in the pulmonary interstitial space and impaired exchange of gases across the alveolar-capillary membrane, resulting in dyspnoea and tachypnoea.
-- This dyspnoea causes young infants to interrupt feeding. In addition, the combination of increased effort of breathing and inadequate systemic circulation, due to steal into the pulmonary circulation, can lead to a failure to thrive.
-- The majority of infants with a large left-to-right shunt and congestive heart failure are stunted in growth, if not malnourished, due to a combination of high energy expenditure that exceeds caloric intake and reduced absorption due to venous congestion of the gut.
-- The increased fluid in the pulmonary interstitial space also predisposes to recurrent chest infections.
+## 6. Collateral Circulation and Cardiac Output</summary><div class="details-content">
 
-## 29 **Describe the pathophysiology of an atrial septal defect**
+#### Collateral Circulation
 
-- In most cases of an ASD, there is a net left-to-right shunt from the LA to the RA. The extra volume of blood passes to the RV, then the PA and back via the pulmonary veins to the LA.
-- The volume overload caused by the ASD results in dilatation of the RA, RV and PA, as these chambers and vessels operate as the compliant reservoir of volume overload.
-- The dominant effect of dilatation is usually on the right ventricle, as the right atrium is able to quickly discharge the overload as a compliant chamber (Figure 12). When ventricular dilatation reaches a point of decreased compliance and end-diastolic pressure increases, the right atrium starts dilating. This process, which could lead to a net reduction of the shunt once compliance on the right side equates to that of the left side, is usually very slow and can take decades.
-- Conditions with an increased degree of shunting, such as ASD associated with partial pulmonary venous return, produce right ventricular dilatation earlier and to a more severe degree. Although the volume of blood that enters the LA is increased, the LA does not dilate because the increased volume does not stay in the LA long enough to stretch its walls, as it gets directly shunted through the ASD to the RA.
+A collateral circulation is an alternate circulation developing around an obstruction or lack of development of an artery or vein.
+
+**Examples in congenital cardiac surgery:**
+*   **Collateral arterial circulation:** Via intercostal arteries in coarctation of aorta; supplies organs distal to obstruction
+*   **Veno-veno collaterals:** In patients with Glenn shunt (SVC→PA); blood flows from high-pressure SVC to lower-pressure IVC territory, bypassing pulmonary vascular bed → desaturation
+*   **Major aortopulmonary collateral arteries (MAPCAs):** From aorta or subclavian artery to lung parenchyma when central pulmonary arteries are underdeveloped or absent; longstanding high-pressure MAPCAs lead to pulmonary vascular disease
+*   **Arteriovenous malformations:** Abnormal PA→PV connections bypassing capillaries → central cyanosis
+
+Collateral circulation connects a high-pressure proximal vascular bed to a lower-pressure distal bed. Blood flow may occur via pre-existing redundancy or neovascularisation. May result in significant volume loading.
+
+#### Cardiac Output
+
+Cardiac output (CO) = Stroke volume × Heart rate
+
+**Neonates:** Ventricular volumes small, ventricles poorly compliant → stroke volume fixed within narrow margins → any decrease in heart rate decreases CO.
+
+**Adults:** Ventricles more compliant → decreased heart rate allows more filling → increased stroke volume (Starling's law) → CO maintained (within limits).
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 7. Principles of Cardiac Shunting</summary><div class="details-content">
+
+#### Normal Circulation
+
+In normally connected circulation, pulmonary and systemic blood flow are **separated** and arranged **in series**. Blood must pass through pulmonary vascular bed to reach systemic circulation, and vice versa. In absence of shunts, Qp = Qs → Qp/Qs = 1.
+
+#### Shunt Definition
+
+Shunting occurs when normal blood flow is diverted due to an intracardiac communication, and blood returns to the same capillary bed it came from.
+
+**Normal shunting:**
+*   **Anatomic shunting:** Bronchial arterial blood returns to left atrium
+*   **Physiological shunting:** In lungs due to gravity; more blood flows to lung bases (less ventilated), bypassing alveoli
+
+#### Types of Cardiac Shunts
+
+| Level | Communication |
+|-------|---------------|
+| Atria | Atrial septal defect (ASD) |
+| Ventricles | Ventricular septal defect (VSD) |
+| Great arteries | Patent ductus arteriosus (PDA) |
+
+**Pressure-driven shunting:**
+*   VSD: Pressure difference between ventricles during cardiac cycle
+*   ASD: Pressure difference between atria (governed by ventricular end-diastolic pressure); normally higher in left ventricle → L→R shunt
+
+**Left-to-right shunt:** Oxygenated blood shunts from high-pressure left side to low-pressure right side → patient **pink (acyanotic)**.
+
+**Right-to-left shunt:** Deoxygenated blood enters systemic circulation → patient **cyanotic** (e.g., tetralogy of Fallot with severe pulmonary stenosis → blood forced through VSD from RV to LV).
+
+#### Changing Physiology After Birth
+
+Immediately after birth: PVR high, little difference between pulmonary and systemic pressure → minimal flow across communication.
+
+First few weeks: PVR drops → pressure difference increases → L→R shunt increases (Qp/Qs > 1).
+
+Right-to-left shunt: Qp/Qs < 1.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 8. Cardiac Streaming vs Mixing</summary><div class="details-content">
+
+#### Cardiac Streaming
+
+Preferential flow of blood when systemic and pulmonary circulations meet without a physical barrier within cardiac chambers. Complete mixing does not occur; oxygen saturations at great arteries differ and are determined by anatomical setting.
+
+**Example:** Foetal circulation — oxygenated blood from ductus venosus preferentially flows to left atrium; deoxygenated blood from SVC enters right atrium.
+
+**Example: Double-outlet right ventricle (DORV) (Figure 8):**
+*   **Subaortic VSD:** Oxygenated LV blood ejected into aorta; deoxygenated blood enters PA → pink
+*   **Subpulmonic VSD (Taussig-Bing):** Oxygenated LV blood enters PA; deoxygenated blood enters aorta → cyanotic (similar to TGA with VSD)
+
+![](_page_17_Picture_4.jpeg)
+
+**Figure 8. Streaming in double-outlet right ventricle, with: A) subaortic ventricular septal defect; and B) subpulmonic ventricular septal defect.**
+
+#### Cardiac Mixing
+
+Systemic and pulmonary circulations totally blend when they meet inside cardiac chambers; oxygen saturations equal in both great arteries.
+
+**Example:** Tricuspid atresia (Figure 9) — no RA→RV connection; all systemic venous return crosses ASD to LA and mixes with pulmonary venous return.
+
+![](_page_18_Picture_3.jpeg)
+
+**Figure 9. Total mixing in tricuspid atresia.**
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 9. Series vs Parallel Circulation</summary><div class="details-content">
+
+#### Normal (Series) Circulation
+
+Systemic and pulmonary circulations arranged in series, each supported by a dedicated pumping ventricle. In absence of shunts, venous return from one circulation must flow to the other (Qp/Qs = 1). No blood mixing → aortic O₂ saturation = 100%.
+
+#### Parallel Circulation (e.g., Tricuspid Atresia)
+
+Systemic and pulmonary venous return drain to a functionally single ventricle, which pumps blood into both circulations. Qp/Qs determined by relative vascular resistances and obstructions; can be >1 or <1. Total mixing → aortic O₂ saturation <100%. Single ventricle subjected to volume overload (receives venous return from both circulations).
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 10. Ventricular Circulations</summary><div class="details-content">
+
+#### Forces Driving Systemic Venous Return (Normal Two-Ventricle)
+
+*   Pumping action of systemic ventricle (LV)
+*   Active relaxation of pulmonary ventricle (RV) draws blood from atria and systemic veins
+*   Negative intrathoracic pressure
+*   Gravity (aids return from upper body)
+*   Muscle pump (lower limb muscle contraction compresses venous sinusoids; venous valves direct blood upward)
+
+#### Principles of Single-Ventricle Circulation (Fontan)
+
+Systemic venous return connected to pulmonary arteries without interposition of a ventricle (total cavopulmonary connection — TCPC). Despite no pumping chamber, blood flows to lungs driven by systemic circulation (Figure 10).
+
+**Characteristics:**
+*   Systemic and pulmonary circulations in series without interposed pumping chamber; Qp/Qs ≈ 1
+*   Almost no mixing (except fenestration) → aortic O₂ saturation nearly 100%
+*   Single ventricle subjected to less volume load (only pulmonary venous drainage) but more afterload (supports both circulations in series)
+*   High systemic venous pressure (>PA pressure) → long-term complications:
+    *   Protein-losing enteropathy, hypoalbuminaemia
+    *   Pleural effusions (high hydrostatic pressure + low oncotic pressure)
+    *   Plastic bronchitis
+    *   Liver cirrhosis (chronic venous congestion)
+    *   Venous stasis → thrombosis, PE → ↑PVR → vicious circle
+
+![](_page_20_Picture_2.jpeg)
+
+**Figure 10. A) Normal two-ventricle circulation. B) Single-ventricle Fontan circulation. LV = left ventricle; Ao = aorta; S = systemic circulation; RA = right atrium; RV = right ventricle; PA = pulmonary artery; PV = pulmonary vein; LA = left atrium; V = single ventricle; CV = caval veins.**
+
+#### Principles of One-and-a-Half-Ventricle Circulation
+
+For patients with small RV but normal LV where two-ventricle circulation not possible (cyanosis maintained by R→L shunt at atrial level).
+
+**Strategy:**
+*   Connect SVC to PA (bi-directional Glenn shunt) after PVR has fallen
+*   Small RV pumps only IVC return (lower body)
+*   SVC blood passes directly to PA
+*   Other shunts (ASD, PDA) can be closed
+
+**Examples:** Pulmonary atresia with intact ventricular septum (PA-IVS) with small RV; Ebstein anomaly with severe septal leaflet displacement and small RV; occasionally severe RV failure with low PA pressure.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 11. Effects of Pressure Load and Volume Load</summary><div class="details-content">
+
+#### Acute Load
+
+Poorly tolerated:
+*   Cardiac chambers acutely dilate (heart fills but cannot empty adequately)
+*   Contractility deteriorates rapidly (myocardium overstretches — beyond Starling curve top)
+*   Upstream congestion (e.g., acute liver congestion in pulmonary hypertensive crisis)
+*   Downstream underfilling with hypotension
+
+#### Chronic Load
+
+| Load Type | Effect |
+|-----------|--------|
+| **Volume load** (shunt, valvar regurgitation) | Chamber dilatation |
+| **Pressure load** (obstruction, increased resistance) | Chamber hypertrophy |
+
+**Mechanism of dilatation:** Excess volume must stay long enough in chamber to stretch its walls:
+*   VSD: Excess blood reaches LA but only released to LV during diastole → LA dilates
+*   Large ASD: Excess blood continuously offloaded to RA → LA does not dilate
+
+Both volume and pressure load lead to vessel dilatation (e.g., post-stenotic aortic dilatation in aortic stenosis or coarctation).
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 12. Restrictive vs Non-Restrictive Defects</summary><div class="details-content">
+
+#### Non-Restrictive Defect
+
+Large enough that it does not restrict blood flow; allows equalisation of pressures on both sides (no gradient).
+
+**Example:** Large VSD — pressures equalise on both sides of interventricular septum.
+
+#### Restrictive Defect
+
+Small enough to restrict blood flow; significant pressure gradient across defect.
+
+**Example:** Small VSD — RV pressure remains significantly lower than LV pressure.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 13. Pathophysiology of Left-to-Right Shunts</summary><div class="details-content">
+
+#### Symptoms and Signs of Significant Left-to-Right Shunt in Infants
+
+*   **Dyspnoea, tachypnoea:** ↑PVR → ↑hydrostatic pressure in pulmonary capillaries → ↑filtration into interstitium → impaired gas exchange
+*   **Feeding difficulties:** Dyspnoea interrupts feeding
+*   **Failure to thrive:** Increased work of breathing + systemic steal into pulmonary circulation + high energy expenditure exceeding caloric intake + reduced absorption (gut venous congestion)
+*   **Recurrent chest infections:** Increased interstitial fluid predisposes to infection
+
+#### Atrial Septal Defect (ASD) (Figure 12)
+
+*   Net L→R shunt (LA→RA)
+*   Extra volume → RV → PA → pulmonary veins → LA
+*   Volume overload → dilatation of RA, RV, PA (compliant reservoir)
+*   Dominant effect on RV (RA quickly discharges overload)
+*   LA does not dilate (increased volume shunted directly to RA, not retained)
+*   Shunt reduction occurs slowly (decades) when right-sided compliance equals left-sided
 
 ![](_page_25_Picture_2.jpeg)
 
 **Figure 12. Cardiac chambers affected by volume overload, secondary to an atrial septal defect. The right atrium empties into a low-resistance chamber, thus delaying its dilatation, with the right ventricle becoming the capacitant chamber.**
 
-### 30 **Describe the pathophysiology of <sup>a</sup> ventricular septal defect**
+#### Ventricular Septal Defect (VSD) (Figure 13)
 
-- A VSD is associated with a left-to-right shunt from the LV to the RV. The extra volume of blood passes to the PA and back via pulmonary veins to the LA then the LV.
-- The volume overload resulting from the VSD results in dilatation of the PA, pulmonary veins, LA and LV. Although the volume of blood that enters the RV increases, the RV does not dilate because the shunting occurs in systole, when the ventricle is contracting. Thus, the blood passes through the RV into the PA, without causing it to dilate (Figure 13).
+*   L→R shunt (LV→RV)
+*   Extra volume → PA → pulmonary veins → LA → LV
+*   Volume overload → dilatation of PA, pulmonary veins, LA, LV
+*   RV does NOT dilate (shunting occurs in systole when ventricle contracting; blood passes through RV into PA)
 
 ![](_page_26_Picture_2.jpeg)
 
 **Figure 13. Left ventricular overload secondary to a ventricular septal defect. As the blood is immediately ejected into the pulmonary circulation, the right ventricle (RV) is rarely affected. The increased preload, however, results in dilatation of the left atrium (LA), left ventricle (LV), and pulmonary artery (PA). Ao = aorta; RA = right atrium.**
 
-• If pulmonary vascular disease with pulmonary hypertension develops secondary to the VSD, then the RV becomes hypertrophic (not dilated).
+If pulmonary vascular disease with pulmonary hypertension develops → RV becomes hypertrophic (not dilated).
 
-#### 31 **Describe the pathophysiology of a patent ductus arteriosus**
+#### Patent Ductus Arteriosus (PDA) (Figure 14)
 
-- A PDA is associated with a left-to-right shunt from the aorta to the PA. The extra volume of blood passes to the PA branches and back via the pulmonary veins to the LA, then the LV and the aorta.
-- The volume overload resulting from the PDA results in dilatation of the PA, pulmonary veins, LA, LV and aorta, proximal to the PDA (Figure 14).
-- In summary, in left-to-right shunts, the PA and pulmonary veins are dilated. In ASD, the right side of the heart is dilated, while in VSD and PDA the left side of the heart is dilated. It is important to remember that patients may have multiple congenital cardiac defects.
+*   L→R shunt (aorta→PA)
+*   Extra volume → PA branches → pulmonary veins → LA → LV → aorta (proximal to PDA)
+*   Volume overload → dilatation of PA, pulmonary veins, LA, LV, aorta (proximal)
 
-![](_page_27_Figure_2.jpeg)
+![](_page_27_Picture_2.jpeg)
 
 **Figure 14. Mechanism of progressive congestive heart failure in a patient with a high-flow patent ductus arteriosus.**
 
-### 32 **Describe the findings of <sup>a</sup> left-to-right shunt on noninvasive cardiac imaging**
+**Summary of chamber dilatation in left-to-right shunts:**
+*   **ASD:** RA, RV, PA dilated
+*   **VSD:** PA, pulmonary veins, LA, LV dilated
+*   **PDA:** PA, pulmonary veins, LA, LV, aorta (proximal) dilated
 
-- Chest radiograph (Figure 15) which may demonstrate:
-  - a) cardiomegaly;
-  - b) enlarged PA shadow;
-  - c) pulmonary plethora.
-- Echocardiography (Figure 16) which may demonstrate:
-  - a) chamber dilatation (RA and RV in ASD; LA and LV in VSD; LA and LV in PDA);
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 14. Imaging of Left-to-Right Shunts</summary><div class="details-content">
+
+#### Chest Radiograph (Figure 15)
+
+*   Cardiomegaly
+*   Enlarged PA shadow
+*   Pulmonary plethora
 
 ![](_page_28_Picture_2.jpeg)
 
-**Figure 15. Chest radiograph of a patient with a nonrestrictive ventricular septal defect causing a significant left-to-right shunt, demonstrating cardiomegaly, an enlarged pulmonary artery shadow and pulmonary plethora.**
+**Figure 15. Chest radiograph of a patient with a non-restrictive ventricular septal defect causing a significant left-to-right shunt, demonstrating cardiomegaly, an enlarged pulmonary artery shadow and pulmonary plethora.**
+
+#### Echocardiography (Figure 16)
+
+*   Chamber dilatation (RA+RV in ASD; LA+LV in VSD/PDA)
+*   Presence of defect and direction of shunting
+*   Pressure gradient estimation: high velocity jet = high gradient = restrictive communication
 
 ![](_page_28_Picture_4.jpeg)
 
 **Figure 16. Parasternal short-axis echocardiographic view demonstrating: A) a non-restrictive ventricular septal defect (arrow); and B) a left-to-right shunt across the ventricular septal defect on the corresponding colour flow Doppler image.**
 
-- b) presence of the defect and the direction of the shunting;
-- c) pressure gradient estimation across the defect where a high velocity jet is representative of a high-pressure gradient and suggestive of a restrictive communication.
-- Cardiac computed tomography which may demonstrate:
-  - a) chamber dilatation;
-  - b) presence of the defect.
-- Cardiac magnetic resonance imaging which may demonstrate:
-  - a) chamber dilatation;
-  - b) presence of the defect and the direction of the shunting;
-  - c) flow estimation. A phase contrast imaging sequence allows direct measurement of the net blood flow through the aortic and pulmonary valves during the whole cardiac cycle (mL/cardiac cycle). Qp/Qs represents the ratio of the net flow through the pulmonary and aortic valves (Figure 17).
+#### Cardiac Computed Tomography
+
+*   Chamber dilatation
+*   Presence of defect
+
+#### Cardiac Magnetic Resonance Imaging (Figure 17)
+
+*   Chamber dilatation
+*   Presence of defect and direction of shunting
+*   Flow estimation: phase contrast imaging measures net flow through aortic and pulmonary valves (mL/cardiac cycle) → Qp/Qs ratio
 
 ![](_page_29_Figure_11.jpeg)
 
@@ -459,217 +698,232 @@ $$\underline{\Delta P}$$
 
 **Figure 17. Cardiac magnetic resonance imaging calculation of Qp/Qs by direct measurement of the net blood flow through the aortic and pulmonary valves during the whole cardiac cycle.**
 
-#### 33 **Describe how <sup>a</sup> left-to-right shunt is detected during cardiac catheterisation**
+</div></details>
 
-- An intracardiac shunt can be detected and localised by measuring the oxygen saturation levels of blood samples obtained at different sites, including the SVC, IVC, RA, RV, and PA, with an 'oximetry run'.
-- An increase in oxygen saturation levels ('oxygen step-up') localises the level of the left-to-right shunt (Figure 18).
+---
+
+<details class="med-details"><summary>
+
+## 15. Detection of Left-to-Right Shunt During Cardiac Catheterisation</summary><div class="details-content">
+
+#### Oximetry Run (Figure 18)
+
+Intracardiac shunt detected and localised by measuring oxygen saturation at different sites (SVC, IVC, RA, RV, PA). An **'oxygen step-up'** localises the level of left-to-right shunt.
 
 ![](_page_30_Picture_5.jpeg)
 
-**Figure 18. An 'oximetry run' with: A) an atrial septal defect, where the 'stepup' is detected in the right atrium, denoting the left-to-right shunt to be at an atrial level; and B) a ventricular septal defect, where the 'step-up' is detected in the right ventricle, denoting the left-to-right shunt to be at a ventricular level.**
+**Figure 18. An 'oximetry run' with: A) an atrial septal defect, where the 'step-up' is detected in the right atrium, denoting the left-to-right shunt to be at an atrial level; and B) a ventricular septal defect, where the 'step-up' is detected in the right ventricle, denoting the left-to-right shunt to be at a ventricular level.**
 
-## 34 **How is the Qp/Qs ratio calculated during cardiac catheterisation?**
+#### Calculation of Qp/Qs Ratio (Fick Principle)
 
-• Cardiac output is calculated using the Fick principle, where:
+$$\text{Flow} = \frac{\text{O}_2\ \text{consumption}}{\text{Arteriovenous O}_2\ \text{concentration difference}}$$
 
-Flow = 
-$$O_2$$
- consumption   
-Arteriovenous  $O_2$  concentration difference
+$$\text{Flow} = \frac{\text{O}_2\ \text{consumption}}{(\text{Arteriovenous O}_2\ \text{sats difference}) \times \text{Hb} \times 1.34}$$
 
-Flow = 
-$$O_2$$
- consumption
+$$\text{Pulmonary flow} = \frac{\text{O}_2\ \text{consumption}}{(\text{PV O}_2\ \text{sats} - \text{PA O}_2\ \text{sats}) \times \text{Hb} \times 1.34}$$
 
-Arteriovenous  $O_2$  sats difference x Hb x 1.34
+$$\text{Systemic flow} = \frac{\text{O}_2\ \text{consumption}}{(\text{Ao O}_2\ \text{sats} - \text{RA O}_2\ \text{sats}) \times \text{Hb} \times 1.34}$$
 
-Pulmonary flow = 
-$$\frac{O_2 \text{ consumption}}{(PV O_2 \text{ sats} - PA O_2 \text{ sats}) \text{ x Hb x 1.34}}$$
+As O₂ consumption and Hb are the same in both equations:
 
-Systemic flow = 
-$$\frac{O_2 \text{ consumption}}{(\text{Ao } O_2 \text{ sats} - \text{RA } O_2 \text{ sats}) \text{ x Hb x 1.34})}$$
+$$\frac{\text{Qp}}{\text{Qs}} = \frac{\text{Ao O}_2\ \text{sats} - \text{RA O}_2\ \text{sats}}{\text{PV O}_2\ \text{sats} - \text{PA O}_2\ \text{sats}}$$
 
-As O2 consumption and Hb are the same in both equations, the pulmonary blood flow to systemic blood flow ratio can be expressed as:
+PV O₂ sats usually assumed to be 100%.
 
-$$\frac{\mathsf{Op}}{\mathsf{Os}} = \frac{\mathsf{Ao}\ \mathsf{O}_2\ \mathsf{sats} - \mathsf{RA}\ \mathsf{O}_2\ \mathsf{sats}}{\mathsf{PV}\ \mathsf{O}_2\ \mathsf{sats} - \mathsf{PA}\ \mathsf{O}_2\ \mathsf{sats}}$$
+$$\text{RA sats} = \frac{(3 \times \text{SVC sats}) + (1 \times \text{IVC sats})}{4}$$
 
-In addition, PV O2 sats are usually assumed to be 100%.
+**Example:** RA sats 60%, PA sats 80%, PV sats 100%, Ao sats 100%
 
-RA sats = 
-$$\underbrace{(3 \times SVC \text{ sats}) + (1 \times IVC \text{ sats})}_{4}$$
+$$\frac{\text{Qp}}{\text{Qs}} = \frac{100 - 60}{100 - 80} = \frac{40}{20} = 2\ (2:1)$$
 
-where PV = pulmonary vein, PA = pulmonary artery, Ao = aorta, RA = right atrium, SVC = superior vena cava, IVC = inferior vena cava, Hb = haemoglobin, sats = oxygen saturation levels.
+**Interpretation:**
+*   Qp/Qs < 1 → Right-to-left shunt
+*   Qp/Qs > 1 → Left-to-right shunt
+*   Qp/Qs > 1.5 → Haemodynamically significant
 
-• For example:
+#### Relationship Between Arterial Oxygen Saturation and Qp/Qs in Total Mixing
 
-If RA sats are 60%, PA sats 80%, PV sats 100%, Ao sats 100%.
+**If Qp = Qs (1:1):**
+*   Pulmonary venous return = Systemic venous return = (1×100%) + (1×60%)
+*   O₂ saturation = (100 + 60)/2 = 80%
 
-$$\frac{\text{Op}}{\text{Os}} = \frac{\text{Ao O}_2 \text{ sats} - \text{RA O}_2 \text{ sats}}{\text{PV O}_2 \text{ sats} - \text{PA O}_2 \text{ sats}} = \frac{100 - 60}{100 - 80} = \frac{40}{20} = 20$$
+**If Qp:Qs = 4:1:**
+*   O₂ saturation = (4×100 + 1×60)/5 = 460/5 = 92%
 
-therefore the Qp:Qs is 2:1.
+**Conclusions:**
+*   Balanced circulation (Qp/Qs = 1) → O₂ saturation ≈ 80%
+*   O₂ saturation never reaches 100%, even with very high Qp/Qs
 
-- In terms of significance:
-  - a) Qp/Qs <1 indicates a right-to-left shunt;
+**Assumptions (may not be valid):**
+*   PV saturation nearly 100% (invalid in pneumonia, lung collapse)
+*   Systemic venous saturation nearly 60% (invalid in low CO)
+*   Total mixing (invalid in intracardiac streaming)
 
-- b) Qp/Qs >1 indicates a left-to-right shunt;
-- c) Qp/Qs >1.5 is considered haemodynamically significant.
-- 35 **Describe the relationship between arterial oxygen saturation and Qp/Qs in patients with total mixing**
-- If Qp = 1: Qs
+</div></details>
 
-Pulmonary blood flow = Systemic blood flow
+---
 
-Pulmonary venous return = Systemic venous return (1 x 100%) (1 x 60%)
+<details class="med-details"><summary>
 
-Oxygen saturation = (1 x 100) + (1 x 60) 2
+## 16. Eisenmenger Syndrome</summary><div class="details-content">
 
-$$=\frac{160}{2}=80\%$$
+#### Definition
 
-If 
-$$\frac{Qp}{Qs} = 4$$
-:
+Obstructive pulmonary vascular disease developing as consequence of longstanding large left-to-right shunt, causing **irreversible increase in PVR** that approaches or exceeds systemic levels. Pulmonary artery pressures become systemic or supra-systemic; when supra-systemic, shunting reverses to R→L → cyanosis.
 
-Pulmonary blood flow: Systemic blood flow = 4:1
+#### Risk Factors
 
-Pulmonary venous return: Systemic venous return = 4:1 (4 x 100%) (1 x 60%)
+| Higher Risk | Lower Risk |
+|-------------|------------|
+| Persistent truncus arteriosus | ASD (less established cause-effect) |
+| Common AVSD | — |
+| VSD | — |
+| PDA | — |
+| TGA | — |
+| Down's syndrome (earlier development) | — |
 
-Oxygen saturation = (4 x 100) + (1 x 60) 5
+High PVR usually established by 2 years, but may develop earlier.
 
-$$=$$
- $\frac{460}{5}$  $=$ 92%
+#### Pathophysiology
 
-- From these calculations, it can be seen that patients with total mixing:
-  - a) are nearly balanced, with a Qp/Qs = 1, when oxygen saturation is approximately 80%;
-  - b) cannot have oxygen saturations of 100%, even when the Qp/Qs ratio is very high.
-- These calculations are based on three assumptions, that:
-  - a) pulmonary venous saturation is nearly 100%, which is not valid in patients with pneumonia and lung collapse;
+Longstanding increased tension on pulmonary arterial and capillary walls → damage to pulmonary vasculature → reactive adaptation:
+*   Fibrous perivascular deposits
+*   Reduced NO production
+*   Interstitial changes → stiff lung parenchyma → reduced gas exchange efficiency + ↑PVR
 
-- b) systemic venous saturation is nearly 60%, which is not valid in patients with a low cardiac output state;
-- c) there is total mixing, which is not valid in patients with intracardiac streaming.
+#### Clinical Course
 
-## 36 **What is Eisenmenger syndrome?**
+1.  Initially, ↑PVR reduces pulmonary overflow → improvement in congestive heart failure symptoms
+2.  PVR continues to rise → becomes supra-systemic → shunt reversal → cyanosis
 
-- Eisenmenger syndrome is defined as an obstructive pulmonary vascular disease that develops as a consequence of a longstanding large left-to-right shunt causing an irreversible increase in pulmonary vascular resistance that approaches and at times exceeds systemic levels.
-- As a consequence, pulmonary artery pressures can be systemic or supra-systemic. In patients with supra-systemic pressures, there is shunting from right to left and resultant cyanosis.
-- The likelihood for Eisenmenger syndrome to develop in a patient depends on the specific underlying cardiac defect and any operative interventions that have taken place.
-- Early development of Eisenmenger syndrome is more commonly associated in patients with persistent truncus arteriosus, common atrioventricular septal defect, VSD, PDA and TGA. Although some patients with ASD develop Eisenmenger syndrome, the cause-effect relationship in this patient cohort is less well established.
-- The high pulmonary vascular resistance is usually established by 2 years of age but sometimes may develop earlier.
-- Eisenmenger syndrome may also develop earlier in patients with Down's syndrome.
-- Differential diagnoses for Eisenmenger syndrome include primary pulmonary hypertension and congenital heart disease with cyanosis and elevated right heart pressures, such as tetralogy of Fallot.
-- The development of Eisenmenger syndrome seems to correlate with damage to the pulmonary vasculature as a result of longstanding increased tension on the arterial and capillary walls.
-- This reactive adaptation produces an increasing amount of fibrous perivascular deposits and a reduction in the production of NO. Interstitial changes contribute to the stiffness of the lung parenchyma, which reduces the efficiency of gas exchange and increases vascular resistance.
-- Patients that develop Eisenmenger syndrome initially experience an improvement of their symptoms of congestive heart failure, as the increasing pulmonary vascular resistance reduces the pulmonary overflow. Ultimately, the pulmonary pressure continues to rise and becomes supra-systemic, resulting in shunt reversal and cyanosis.
+**Closure of intracardiac shunt after Eisenmenger development → RV failure (high afterload).**
 
-- Closure of an intracardiac shunt after the development of Eisenmenger syndrome is associated with RV failure due to the high RV afterload.
-- On chest radiograph, the cardiac shadow decreases in size and lung fields become oligaemic, whilst the PA shadow remains enlarged (Figure 19).
+#### Imaging and Haemodynamics
+
+*   **CXR (Figure 19):** Decreased cardiac shadow, oligaemic lung fields, enlarged PA shadow
+*   **Echocardiography:** RV hypertrophy, non-dilated LV, R→L shunt
+*   **Catheterisation:** Qp/Qs < 1.5, PVR index >8 Wood units/m² (unresponsive to vasodilators)
 
 ![](_page_34_Picture_4.jpeg)
 
 **Figure 19. Chest radiograph of a patient with Eisenmenger syndrome demonstrating a decreased cardiac shadow, oligaemic lung fields and enlarged pulmonary artery shadows.**
 
-- Echocardiography may show evidence of RV hypertrophy, a nondilated LV and a right-to-left shunt across the defect.
-- On cardiac catheterisation, the Qp/Qs ratio is usually <1.5, with the pulmonary vascular resistance index >8 Wood unit/m2 that does not respond to pulmonary vasodilators.
-- The median survival of a patient with Eisenmenger syndrome is 20- 50 years of age.
+#### Prognosis and Treatment
 
-• The use of novel pulmonary vasodilators may have some benefits in remodelling the pulmonary vascular bed in the early stages of pulmonary vascular disease.
+*   Median survival: 20–50 years
+*   Novel pulmonary vasodilators may benefit early-stage pulmonary vascular disease
 
-#### 37 **Describe the principles of measuring oxygen saturation levels**
+</div></details>
 
-- Oxygen saturation levels represents the percentage of haemoglobin (Hb) binding sites in the blood occupied by oxygen.
-- Normal arterial oxygen saturation levels (SaO2) are 95-100%, while mixed venous oxygen saturation levels (SvO2) are 65-75%.
-- Oxygen saturation is measured non-invasively by pulse oximetry, where a sensor device is placed on a thin part of the patient's body, usually a fingertip or earlobe. The device emits two wavelengths of light through the body part to a photodetector, which measures the changing absorbance at each of the wavelengths, allowing it to determine the absorbance due to the pulsing arterial blood.
-- The accuracy of pulse oximetry is best with oxygen saturation levels of 70-100%, with reduced accuracy in the range of 50-70% and is considered inaccurate below 50%.
-- False pulse oximetry readings can also occur with hypoperfusion, vasoconstriction, cold limbs, dark-coloured skin, excessive movements (such as shivering) and incorrect sensor application.
-- In addition, false readings can also occur if the haemoglobin binds to a molecule other than oxygen, such as in carbon monoxide poisoning and methaemoglobinaemia.
-- Blood gas analysis can be used to invasively measure the oxygen saturation levels, in addition to the other measurements, such as oxygen tension (PO2), pH, PCO2, base deficit, blood lactate and electrolytes.
+---
 
-## 38 **What is cyanosis?**
+<details class="med-details"><summary>
 
-- Cyanosis represents a bluish discolouration of the skin and mucous membranes due to presence of at least 5g/dL of deoxyhaemoglobin.
-- Cyanosis associated with desaturation of arterial blood is termed central cyanosis, while cyanosis with normal arterial oxygen saturation is termed peripheral cyanosis.
-- Peripheral cyanosis is caused by increased extraction of oxygen by peripheral tissues, such as in circulatory shock, hypovolaemia or vasoconstriction from cold.
-- Blood haemoglobin levels significantly affect the occurrence of cyanosis. Normally, 2g/dL of deoxyhaemoglobin are present at the venules, so an additional 3g/dL of deoxyhaemoglobin from arterial blood can produce cyanosis.
+## 17. Oxygen Saturation and Cyanosis</summary><div class="details-content">
 
-- In a patient with polycythemia who has an Hb level of 20g/dL, 3g/dL of deoxyhaemoglobin, cyanosis will be manifest with an oxygen saturation of 85% (20-3 = 17; 17/20 = 0.85). Whilst in an anaemic patient with an Hb level of 6, 3g/dL deoxyhaemoglobin cyanosis will be manifest with oxygen saturation of 50% (6-3 = 3; 3/6 = 0.5).
-- Cyanotic congenital heart diseases (Table 3) are associated with central cyanosis, caused by deoxygenated blood passing into the systemic circulation. This is due to either a right-to-left shunt (such as tetralogy of Fallot), mixing (such as tricuspid atresia) or parallel systemic and pulmonary circulations (such as TGA).
+#### Measurement of Oxygen Saturation
 
-#### Table 3. Common acyanotic and cyanotic congenital heart diseases.
+Oxygen saturation = percentage of haemoglobin binding sites occupied by oxygen.
 
-#### Acyanotic heart diseases
+**Normal values:**
+*   Arterial (SaO₂): 95–100%
+*   Mixed venous (SvO₂): 65–75%
 
-## Cyanotic heart diseases
+**Pulse oximetry:**
+*   Emits two wavelengths through thin body part (finger, earlobe)
+*   Measures changing absorbance → absorbance due to pulsing arterial blood
+*   Best accuracy 70–100%; reduced accuracy 50–70%; inaccurate <50%
+*   False readings: hypoperfusion, vasoconstriction, cold, dark skin, movement, incorrect sensor application, abnormal haemoglobin (CO, methaemoglobin)
 
-#### Left-to-right shunts:
+#### Cyanosis
 
-- ASD
-- VSD
-- AVSD
-- PDA
+Bluish discolouration of skin and mucous membranes due to **≥5 g/dL deoxyhaemoglobin**.
 
-- Truncus arteriosus
-- Transposition of great arteries (TGA)
-- Tricuspid atresia
-- Tetralogy of Fallot
-- Total anomalous pulmonary venous drainage (TAPVD)
+| Type | Definition | Causes |
+|------|------------|--------|
+| **Central cyanosis** | Arterial desaturation | R→L shunt, mixing, parallel circulations (cardiac); pulmonary disease |
+| **Peripheral cyanosis** | Normal arterial saturation | Increased tissue O₂ extraction (shock, hypovolaemia, cold) |
 
-#### Obstruction to flow:
+**Effect of haemoglobin level:**
+*   Polycythaemia (Hb 20 g/dL): 3 g/dL deoxyhaemoglobin → O₂ saturation 85%
+*   Anaemia (Hb 6 g/dL): 3 g/dL deoxyhaemoglobin → O₂ saturation 50%
 
-- Aortic stenosis
-- Pulmonary stenosis
-- Coarctation of the aorta
-- Using the hyperoxia test, which detects the changes of arterial oxygen tension (PaO<sub>2</sub>) to 100% oxygen inhalation, allows the differentiation of cyanosis caused by cardiac or pulmonary disease, where:
-  - a) pulmonary causes of cyanosis produce an increase in PaO<sub>2</sub> to >100mmHg;
-  - cardiac causes of cyanosis only produce a slight rise in PaO<sub>2</sub> of 10-30mmHg and it does not go above 100mmHg, because of the deoxygenated blood that continues to bypass the lung.
+**Hyperoxia test:**
+*   Pulmonary cause → PaO₂ >100 mm Hg with 100% O₂
+*   Cardiac cause → PaO₂ rise of 10–30 mm Hg, not >100 mm Hg
 
-## 39 What are the sequelae of chronic cyanosis?
+**Cyanotic congenital heart diseases:**
+*   Truncus arteriosus, TGA, tricuspid atresia, tetralogy of Fallot, total anomalous pulmonary venous drainage (TAPVD)
 
-- Polycythemia.
-- Clubbing.
+<details class="med-details"><summary>
 
-- Central nervous system complications, such as a brain abscess and cerebrovascular stroke.
-- Bleeding tendency, as well as increased risk of thromboembolism.
-- Hypercyanotic spells.
-- Hyperuricaemia and gout.
+##### TABLE 3: Common Acyanotic and Cyanotic Congenital Heart Diseases</summary><div class="details-content">
 
-# 40 Describe the oxygen-haemoglobin dissociation curve (Figure 20)
+| Acyanotic Heart Diseases | Cyanotic Heart Diseases |
+|--------------------------|-------------------------|
+| **Left-to-right shunts:** ASD, VSD, AVSD, PDA | Truncus arteriosus |
+| **Obstruction to flow:** Aortic stenosis, pulmonary stenosis, coarctation of aorta | Transposition of great arteries (TGA) |
+| | Tricuspid atresia |
+| | Tetralogy of Fallot |
+| | Total anomalous pulmonary venous drainage (TAPVD) |
 
-• The oxygen-haemoglobin dissociation curve describes the relationship between the partial pressure of oxygen (PO<sub>2</sub>) and
+</div></details>
+
+#### Sequelae of Chronic Cyanosis
+
+*   Polycythaemia
+*   Clubbing
+*   CNS complications: brain abscess, cerebrovascular stroke
+*   Bleeding tendency + increased thromboembolism risk
+*   Hypercyanotic spells
+*   Hyperuricaemia, gout
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 18. Oxygen-Haemoglobin Dissociation Curve</summary><div class="details-content">
+
+The oxygen-haemoglobin dissociation curve describes the relationship between PO₂ and oxygen saturation (Figure 20).
 
 ![](_page_37_Figure_8.jpeg)
 
-**Figure 20.** Oxygen-haemoglobin dissociation curve, where a left shift represents a greater affinity of haemoglobin for oxygen (blue curve) and a right shift represents a reduced affinity of haemoglobin for oxygen (red curve). DPG = disphosphoglycerate.
+**Figure 20. Oxygen-haemoglobin dissociation curve, where a left shift represents a greater affinity of haemoglobin for oxygen (blue curve) and a right shift represents a reduced affinity of haemoglobin for oxygen (red curve). DPG = diphosphoglycerate.**
 
-- oxygen saturations (percentage of haemoglobin binding to oxygen), which is not linear but rather sigmoid.
-- Above <sup>a</sup> PO2 of 8kPa (60mmHg), changes in the PO2 make very little difference to oxygen saturation levels.
-- Below <sup>a</sup> PO2 of 8kPa (60mmHg), however, <sup>a</sup> small drop in the PO2 produces a large fall in the oxygen saturation levels.
-- The PO2 at which 50% of haemoglobin is saturated has been chosen as the reference point, called P50.
-- The position of the dissociation curve is an expression of the affinity of haemoglobin for oxygen.
-- Shift of the curve to the left denotes an increased affinity of haemoglobin to oxygen, where the same oxygen saturation levels occur at a lower PO2 and more oxygen is bound to haemoglobin.
-- Shift to the right denotes decreased affinity of haemoglobin to oxygen.
-- Foetal haemoglobin has a higher affinity to oxygen (shifting of the curve to the left) to allow better oxygen extraction from the placenta.
-- Factors that causes the curve to be shifted to the right (less affinity of haemoglobin to oxygen) include low pH, high temperature, high CO2 and high levels of 2,3-disphosphoglycerate (2,3-DPG). These factors occur at tissue level, so more oxygen is released from haemoglobin to be taken up by the tissues.
+#### Key Features
 
-## 41 **Describe how oxygen content in blood is calculated**
+*   **Sigmoid shape**
+*   **Above 60 mm Hg (8 kPa):** Flat portion — changes in PO₂ have little effect on saturation
+*   **Below 60 mm Hg:** Steep portion — small drop in PO₂ produces large fall in saturation
+*   **P50:** PO₂ at which 50% of haemoglobin is saturated (reference point)
 
-- Oxygen content represents the actual amount of oxygen present per volume of blood.
-- Oxygen is carried in blood either bound to haemoglobin or dissolved in plasma. Dissolved oxygen accounts for only 2% of the total oxygen content in blood.
-- Dissolved oxygen concentration is rather constant at 0.003mL O2/100mL blood/mmHg but is dependent on its partial pressure. Thus, with a PO2 of 100mmHg, the concentration of dissolved oxygen will increase to 0.3mL O2/100mL.
-- The remaining 98% of the total oxygen content of blood is reversibly bound to haemoglobin.
-- The oxygen-binding capacity of haemoglobin is the maximum amount of oxygen that can be bound to haemoglobin per volume of blood. Assuming that haemoglobin is 100% saturated, 1g of haemoglobin can bind 1.34mL oxygen.
+#### Shifts in the Curve
 
-• Hence, to calculate the amount of oxygen per volume of blood:
+| Shift | Affinity | Causes | Effect |
+|-------|----------|--------|--------|
+| **Left shift** | ↑ Affinity | Foetal haemoglobin, alkalosis, hypothermia, ↓2,3-DPG | More O₂ bound; less released to tissues |
+| **Right shift** | ↓ Affinity | Acidosis, hyperthermia, ↑CO₂, ↑2,3-DPG | More O₂ released to tissues |
 
-Oxygen content = (oxygen-binding capacity x O2 saturation) + dissolved oxygen
+</div></details>
 
-Oxygen content = (1.34 x Hb [g/dL] x O2 saturation) + (0.003 x PO2)
+---
 
-#### **Acknowledgement**
+<details class="med-details"><summary>
 
-We would like to thank Soha Romeih for her help with the cardiac imaging.
+## 19. Calculation of Oxygen Content</summary><div class="details-content">
 
-#### **Recommended reading**
+Oxygen content = actual amount of oxygen present per volume of blood.
 
-- 1. Kappanayil M, Kannan R, Kumar RK. Understanding the physiology of complex congenital heart disease using cardiac magnetic resonance imaging. ^åå= mÉÇá~íê `~êÇáçä 2011; 4:.
-- 2. Sommer RJ, Hijazi ZM, Rhodes JF. Pathophysiology of congenital heart disease in the adult: part III: complex congenital heart disease. `áêÅìä~íáçå 2008; 117:.
-- 3. Rhodes JF, Hijazi ZM, Sommer RJ. Pathophysiology of congenital heart disease in the adult, part II. Simple obstructive lesions. `áêÅìä~íáçå 2008; 117:.
-- 4. Sommer RJ, Hijazi ZM, Rhodes JF Jr. Pathophysiology of congenital heart disease in the adult: part I: Shunt lesions. `áêÅìä~íáçå 2008; 117:.
-- 5. Chowdhury D. Pathophysiology of congenital heart diseases. ^åå= `~êÇ= ^å~ÉëíÜ 2007; 10:.
+**Components:**
+*   **Dissolved oxygen (2%):** 0.003 mL O₂/100 mL blood/mmHg PO₂
+*   **Bound to haemoglobin (98%):** 1.34 mL O₂/g Hb at 100% saturation
+
+**Formula:**
+
+$$\text{O}_2\ \text{content} = (1.34 \times \text{Hb} \times \text{SaO}_2) + (0.003 \times \text{PaO}_2)$$
+
+*Hb = haemoglobin (g/dL); SaO₂ = arterial oxygen saturation (%); PaO₂ = arterial oxygen tension (mmHg)*
+
+</div></details>
