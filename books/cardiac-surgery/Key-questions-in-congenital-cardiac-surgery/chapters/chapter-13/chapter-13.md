@@ -4,54 +4,54 @@
   
 ## Executive Summary</summary><div class="details-content">
 
-### Определение и классификация
-*   **Atrial septal defect (ASD):** Врождённое сообщение между левым и правым предсердиями с шунтированием крови.
-*   **Истинные ASD (эмбриологически):** только дефекты в области fossa ovalis (ostium secundum, PFO, vestibular defect) — 75–76%.
-*   **Хирургически к ASD относят:** ostium primum (15–20%, частичный AVSD), sinus venosus (5–10%, чаще у SVC), coronary sinus (1%, unroofed coronary sinus).
-*   **Ostium secundum:** вызывается аномальной резорбцией septum primum или неполным перекрытием septum secundum.
-*   **Ostium primum:** неполное сращение septum primum с эндокардиальными подушками.
-*   **Sinus venosus:** неполное слияние sinus venosus с межпредсердной перегородкой.
+### Definition and Classification
+*   **Atrial septal defect (ASD):** A congenital lesion resulting in communication and shunting of blood between the left and right atria.
+*   **True ASDs (embryologically):** only defects in the region of the fossa ovalis (ostium secundum, PFO, vestibular defect) — 75–76%.
+*   **Surgically referred to as ASDs:** ostium primum (15–20%, partial AVSD), sinus venosus (5–10%, most commonly at SVC junction), coronary sinus (1%, unroofed coronary sinus).
+*   **Ostium secundum:** caused by abnormal reabsorption of the septum primum or incomplete overlap of the septum secundum with the septum primum.
+*   **Ostium primum:** caused by incomplete fusion of the septum primum with the endocardial cushions.
+*   **Sinus venosus:** caused by incomplete fusion of the embryological sinus venosus with the atrial septum.
 
-### Эпидемиология и ассоциации
-*   7% всех врождённых пороков сердца (2-е место после двустворчатого аортального клапана).
-*   Соотношение ж:м = 2:1. Чаще при синдроме Дауна.
-*   В 10 раз чаще встречается с другими аномалиями, чем изолированно.
+### Epidemiology and Associations
+*   Account for 7% of all congenital cardiac abnormalities (second only to bicuspid aortic valve).
+*   Female to male ratio is 2:1. Increased incidence in Down's syndrome.
+*   Ten times more likely to occur with other anomalies than as an isolated defect.
 
-### Патофизиология и естественное течение
-*   Шунт слева направо (из-за разницы в растяжимости желудочков) → объёмная перегрузка правых отделов → дилатация ПП, ПЖ, лёгочной артерии.
-*   При нелеченном ASD — укорочение продолжительности жизни, осложнения: предсердные аритмии, дисфункция ПЖ, лёгочная гипертензия, инсульт (парадоксальная эмболия), редко — Eisenmenger.
+### Pathophysiology and Natural History
+*   Left-to-right shunt (due to differences in ventricular compliance) → right-sided volume overload → enlargement of RA, RV, and pulmonary artery.
+*   If uncorrected: reduced life expectancy, complications include atrial arrhythmias, RV dysfunction, pulmonary hypertension, stroke (paradoxical embolism), rarely Eisenmenger syndrome.
 
-### Диагностика
-*   **ЭКГ:** неполная блокада ПНПГ (rSR' в V1). Ostium secundum — правый тип отклонения оси; primum и sinus venosus — левый тип.
-*   **Рентген:** кардиомегалия (ПП+ПЖ), усиление лёгочного рисунка.
-*   **Эхокардиография:** золотой стандарт — тип дефекта, шунт (допплер), последствия (дилатация ПЖ), ассоциированные аномалии.
-*   **Bubble test:** при внутривенном введении взболтанного физраствора появление пузырьков в левом предсердии указывает на ASD/PFO.
-*   **Катетеризация:** step-up O₂ на уровне ПП (таблица 1). Qp:Qs > 1.5 — гемодинамически значимый шунт.
+### Diagnosis
+*   **ECG:** incomplete RBBB (rSR' in V1). Ostium secundum — right axis deviation; primum and sinus venosus — left axis deviation.
+*   **Chest radiography:** cardiomegaly (RA + RV enlargement), increased pulmonary vascular markings.
+*   **Echocardiography:** gold standard — defect type, shunt quantification (Doppler), haemodynamic consequences (RV dilatation), associated anomalies.
+*   **Bubble test:** intravenous injection of agitated saline — bubbles in the left atrium indicate ASD/PFO.
+*   **Catheterisation:** step-up in oxygen saturation at the RA level (Table 1). Qp:Qs >1.5 is haemodynamically significant.
 
-### Расчёт шунта (Qp:Qs)
-*   По принципу Фика: 
+### Shunt Calculation (Qp:Qs)
+*   Using the Fick principle: 
     $Qp:Qs = \frac{(Ao\ sats - RA\ sats)}{(PV\ sats - PA\ sats)}$
 *   RA sats = (3×SVC sats + 1×IVC sats)/4.
-*   Клинически значимый: Qp:Qs > 1.5; показание к закрытию: Qp:Qs > 2.
+*   Clinically significant: Qp:Qs >1.5; indication for closure: Qp:Qs >2.
 
-### Показания и противопоказания к закрытию
-*   **Показания:** Qp:Qs > 2; предсердная аритмия; обратимые ЛГ; дисфункция ПЖ; PFO с право-левым шунтом и рецидивирующими парадоксальными эмболиями.
-*   **Противопоказания:** асимптомный Qp:Qs < 1.5; фиксированная ЛГ (PASP > 60 мм рт.ст., PVR > 12 WU, шунт справа налево).
+### Indications and Contraindications for Closure
+*   **Indications:** Qp:Qs >2; atrial arrhythmia; reversible pulmonary hypertension; RV dysfunction; PFO with right-to-left shunt and recurrent paradoxical cerebral emboli.
+*   **Contraindications:** asymptomatic patient with Qp:Qs <1.5; fixed pulmonary hypertension (PASP >60 mmHg, PVR >12 WU, shunt reversal).
 
-### Методы закрытия
-*   **Чрескожное (device closure):** только ostium secundum, rim ≥5 мм до клапанов/вен, дефект <40 мм. Устройства: AMPLATZER™, CardioSEAL®, HELEX®.
-*   **Хирургическое:** все типы ASD. Доступы: срединная стернотомия, мини-торакотомия, торакоскопия/робот.
+### Closure Methods
+*   **Percutaneous (device closure):** only ostium secundum defects, 5 mm rim from defect to valves/veins, defect <40 mm. Devices: AMPLATZER™, CardioSEAL®, HELEX®.
+*   **Surgical:** all ASD types. Approaches: median sternotomy, mini-thoracotomy, thoracoscopic/robotic.
 
-### Особенности хирургии по типам
-*   **Ostium secundum:** правая атриотомия, ушивание или заплата (аутоперикард).
-*   **Ostium primum:** заплата на гребень МЖП с обходом AV-узла и пучка Гиса + пластика митрального клапана (closure of cleft).
-*   **Sinus venosus:** перикардиальный baffle для перенаправления аномальных лёгочных вен в ЛП; возможен Warden procedure (отсечение и реимплантация ВПВ).
-*   **Coronary sinus:** восстановление крыши КС + закрытие дефекта второй заплатой.
+### Surgical Principles by Defect Type
+*   **Ostium secundum:** right atriotomy, closure with autologous pericardium or direct suture.
+*   **Ostium primum:** patch attached to the crest of the ventricular septum, avoiding AV node and bundle of His + concomitant left AV valve repair (closure of anterior cleft).
+*   **Sinus venosus:** pericardial baffle to redirect anomalous pulmonary veins to the left atrium; Warden procedure (SVC detachment and reimplantation) may be used.
+*   **Coronary sinus:** re-roofing of the coronary sinus + closure of the interatrial defect with a second patch.
 
-### Риски и исходы
-*   **Летальность:** дети <1%; взрослые до 10% (факторы риска — сопутствующие пороки, ЛГ, ФП).
-*   **Осложнения:** AV-блокада (ostium primum, coronary sinus), митральная регургитация (ostium primum), обструкция системного венозного возврата (sinus venosus), остаточный шунт.
-*   **Долгосрочные исходы:** при закрытии в возрасте <25 лет — выживаемость как в популяции. Пожилой возраст и предоперационная СН III–IV (NYHA) — независимые предикторы поздней смертности.
+### Risks and Outcomes
+*   **Mortality:** children <1%; adults up to 10% (risk factors — coexistent malformations, pulmonary hypertension, atrial fibrillation).
+*   **Complications:** AV block (ostium primum, coronary sinus), mitral regurgitation (ostium primum), systemic venous obstruction (sinus venosus), residual shunt.
+*   **Long-term outcomes:** closure at age <25 years — survival comparable to age-matched population. Older age at repair and preoperative NYHA Class III/IV heart failure are independent predictors of late mortality.
 
 </div>
 </details>
@@ -874,4 +874,3 @@ The principles of repair in these patients includes:
 *   **Older age at repair** and pre-operative **New York Heart Association Class III or IV heart failure** are independent predictors of late mortality.
 
 </div></details>
-
