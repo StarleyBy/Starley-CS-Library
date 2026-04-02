@@ -1,100 +1,484 @@
-## **Chapter 11**
+# Extracorporeal Membrane Oxygenation
 
-### Extracorporeal membrane oxygenation
+<details class="med-details"><summary>
 
-**Spiros Loggos, Attilio A. Lotto**
+## Executive Summary</summary><div class="details-content">
 
-### 1 **What is extracorporeal life support?**
+### Definitions and Types
 
-- Extracorporeal life support (ECLS) is a general term used to describe any form of extracorporeal support to the heart and/or lungs, when they are failing and not responsive to conventional treatments, and includes:
-  - a) extracorporeal membrane oxygenation (ECMO);
-  - b) ventricular assist devices (VAD);
-  - c) cardiopulmonary bypass (CPB).
+*   **Extracorporeal life support (ECLS):** Any form of extracorporeal support to failing heart/lungs unresponsive to conventional treatments — includes ECMO, VAD, CPB.
+*   **Extracorporeal membrane oxygenation (ECMO):** ECLS technique draining venous blood, passing through oxygenator (O₂ added, CO₂ removed), returning oxygenated blood to patient.
+*   **VV ECMO:** Venous drainage → oxygenator → venous return (pre-pulmonary). Respiratory support only; uses native cardiac output.
+*   **VA ECMO:** Venous drainage → oxygenator → arterial return (systemic). Cardiac + respiratory support; provides high O₂ delivery, reduces preload but increases afterload.
+*   **AV ECMO:** Uses patient's arterial pressure (or pump) to drive blood across oxygenator; partial respiratory support (CO₂ removal).
+*   **ECPR (Extracorporeal CPR):** Rapid ECMO deployment during cardiac arrest when conventional CPR fails to achieve ROSC within expected time frame. Studies show superiority over conventional CPR for survival and neurological outcome.
 
-### 2 **What is extracorporeal membrane oxygenation?**
+### ECMO vs CPB (Table 1)
 
-- Extracorporeal membrane oxygenation (ECMO) is an extracorporeal life support circulation (ECLS) technique, utilised to provide cardiac, respiratory or combined support to patients, whose lungs are unable to provide an adequate gas exchange to sustain life, and/or to patients whose heart is unable to sustain adequate cardiac output.
-- The circuit involves draining blood from the venous circulation, pumping it through an oxygenator, where oxygen (O2) is added and carbon dioxide (CO2) is removed, and then returning the oxygenated blood back to the patient with an adequate pressure, to either the venous or arterial circulation, depending on the mode of cannulation used.
+| Feature | CPB | ECMO |
+|---------|-----|------|
+| Ideal use | Cardiac operating theatre | Bedside |
+| Portability | Large, poorly mobile | Small, highly mobile |
+| Pump | Roller pump | Centrifugal pump |
+| Priming volume | Large | Small |
+| Arterial filter | Yes | No |
+| Venous reservoir | Yes | No |
+| Anticoagulation | High (ACT >400) | Low (ACT 150–220) |
+| Duration | Few hours | Few days |
 
-### 3 **Describe the history of extracorporeal membrane oxygenation**
+### Circuit Components (Figures 1–5)
 
-- ECMO as we intend it nowadays has evolved significantly and has expanded its indications to a larger group of patients.
-- The first prolonged extracorporeal support was reported by Hill and colleagues in 1972, and historically, was developed for adult patients with acute respiratory failure refractory to conventional mechanical ventilation.
+*   **Arterial and venous cannulae**
+*   **Centrifugal pump** (magnetically levitating impeller) — preload-dependent, afterload-sensitive (Figures 2, 6, 7)
+*   **Membrane oxygenator** with heat exchanger (Figure 3)
+*   **Air/O₂ blender** and sweep gas regulator (Figure 4)
+*   **Bridge** between venous and arterial sides (Figure 5)
+*   **Side ports (pigtails):** Heparin infusion, pressure monitoring, blood gas sampling, CVVH connection
 
-- In 1976, the first successful support for a neonate who was treated for meconium aspiration syndrome and severe respiratory failure was reported by Robert Bartlett. She was supported on ECMO for 3 days and recovered fully.
-- Subsequently, it has been employed in younger patients and also in patients with post-cardiotomy heart failure, unable to wean from CPB following a cardiac operation.
-- In the current era, most cardiac units worldwide are able to provide ECMO support. Several technical advances have made ECMO use safer and easier, with new membrane oxygenators, cannulae and the introduction of centrifugal pumps, representing some of the developments.
+### Key Phenomena
 
-### 4 **What are the types of extracorporeal membrane oxygenation?**
+*   **Pump cavitation:** Negative pressure causes venous collapse → intermittent flow. First intervention: reduce pump rpm. Also correct hypovolaemia, reposition patient, check cannula position/patency.
+*   **Recirculation (VV ECMO, Figure 8):** Oxygenated blood withdrawn through venous drainage cannula without reaching systemic circulation. Solutions: reposition cannulae, add extra drainage cannula, decrease ECMO flow.
+*   **Harlequin syndrome (VA ECMO):** Residual native cardiac output with impaired gas exchange → upper body perfused by poorly oxygenated blood (native ejection), lower body by oxygenated blood (ECMO arterial cannula). Solutions: increase ECMO flow, increase ventilation, reposition arterial cannula proximally, add axillary cannula, left atrial decompression.
 
-- Veno-venous (VV) ECMO where blood is drawn with the use of a centrifugal pump from a systemic vein, passed through a membrane oxygenator and returned to the venous system, ideally near the right atrium. It provides respiratory support, as it returns oxygenated blood to the pre-pulmonary circulation and uses the cardiac function to maintain adequate cardiac output.
-- Veno-arterial (VA) ECMO where blood is drawn with the use of a centrifugal pump from the venous system passed through a membrane oxygenator and returned to the arterial system with an adequate pressure. It is used for primary cardiac support but also in heart failure secondary to respiratory failure.
-- Arteriovenous (AV) ECMO which uses the patient's own arterial pressure or incorporates a pump to drive blood across an oxygenator to partially support the respiratory system by effectively removing CO2.
+### Cannulation Strategies (Tables 2, 3; Figures 9–13)
 
-### 5 **What is ECPR?**
+| Strategy | Indications | Details |
+|----------|-------------|---------|
+| **Central** (median sternotomy) | Post-cardiotomy failure, ECPR | Arterial cannula in ascending aorta; venous cannula in RA; optional LV vent |
+| **Neck** | Non-post-cardiotomy neonates/infants | VA: RCCA + RIJV; VV: double-lumen catheter in RIJV (Avalon Elite®, ParaGlide™) |
+| **Femoral** | Larger patients | VA: femoral artery + vein (opposite sides); leg ischaemia risk mitigated by side graft or retrograde reperfusion catheter |
 
-- Extracorporeal cardiopulmonary resuscitation (ECPR) refers to the rapid deployment of an ECMO circuit to provide circulatory and respiratory support during cardiac arrest, when conventional cardiopulmonary resuscitation (CPR) has failed to provide return of spontaneous circulation within the expected time frame.
-- Many studies have shown a superiority of ECPR over conventional CPR in improving survival and neurologic outcome.
+**Venous cannulae larger than arterial** (prevents venous collapse, accommodates higher venous distensibility).
 
-### 6 **What are the differences between extracorporeal membrane oxygenation and cardiopulmonary bypass (Table 1)?**
+### Priming Solution
 
-- CPB is mainly intended to be used during cardiac operations in theatre and consists of a large machine, which requires considerable priming volume and a larger dose of heparin (300-400 IU/kg), with a desired activated clotting time (ACT) of >400 seconds. It is prone to haemolysis and haemodilution, utilises an arterial filter and its oxygenator can be only used for a relatively short time. Traditionally, it uses a roller pump and has a blood reservoir (except in mini-bypass circuits) and is able to provide a wide range of temperature change.
-- ECMO, however, can only be used to perform a limited number of extracardiac procedures and not open heart procedures but is a smaller machine, portable and usable by the patient's bedside, which only requires a small amount of priming volume and smaller doses of heparin (50-100 IU/kg), with a lower desired ACT of seconds. It has limited haemolytic effects and limited haemodilution, no separate arterial filter and its oxygenator can be used for longterm support. It has a centrifugal pump, no reservoir and a limited capability to cool or warm patients.
+1.  CO₂ flush (displaces atmospheric O₂/N₂)
+2.  Crystalloid prime (balanced solution)
+3.  Albumin (coats prosthetic surfaces, ↓platelet/fibrinogen adherence)
+4.  Blood (prevents haemodilution; target Hct 30–40%)
+5.  Heparin (100 units per unit of PRBCs)
+6.  Buffer (sodium bicarbonate)
 
-**Table 1. Differences between cardiopulmonary bypass (CPB) and extracorporeal membrane oxygenation (ECMO). ACT = activated clotting time.**
+### Indications for Left Heart Vent in VA ECMO
 
-|                                    | `m_                             | b`jl                       |
-|------------------------------------|---------------------------------|----------------------------|
-|                                    |                                 |                            |
-| Ideal<br>use                       | Cardiac<br>operating<br>theatre | Bedside                    |
-| Size<br>and<br>portability         | Large,<br>poorly<br>mobile      | Small,<br>highly<br>mobile |
-| Pumping<br>mechanism               | Roller<br>pumps                 | Centrifugal<br>pump        |
-| Priming<br>volume                  | Large                           | Small                      |
-| Arterial<br>filters                | Yes                             | No                         |
-| Venous<br>reservoir                | Yes                             | No                         |
-| Thermoregulation                   | Wide<br>range                   | Limited<br>range           |
-| Anticoagulation<br>requirements    | High<br>(ACT<br>>400)           | Low<br>(ACT<br>150-220)    |
-| Haemodilution/haemolysis           | Few<br>hours                    | Few<br>days                |
-| Adaptable<br>to<br>haemofiltration | No                              | Yes                        |
-| Risk<br>of<br>air<br>embolism      | Low                             | High                       |
-|                                    |                                 |                            |
+*   Severe LV dysfunction with prolonged lack of ejection
+*   Mitral regurgitation (volume overload)
+*   Cyanotic patients (increased pulmonary return from collaterals)
+*   Significant ventricular return without adequate interatrial shunting
+*   Single ventricle circulations (deoxygenated blood may enter coronaries)
+*   Severe ventricular arrhythmias
+*   When percutaneous septal fenestration cannot be obtained
 
-### 7 **What are the differences between veno-arterial and veno-venous extracorporeal membrane oxygenation?**
+**Access routes:** Right upper pulmonary vein, Waterston's groove, left atrial roof, left atrial appendage, left ventricular apex (uncommon).
 
-- VA ECMO can be used to support a patient with both respiratory and cardiac failure, maintain higher systemic blood pressures, provide a variable degree of circulatory support but requires venous and arterial cannulation. It provides a high O2 delivery capacity, has a low pulse pressure on full flow, and reduces cardiac workload by reducing preload but it increases the afterload. Coronary perfusion can be affected by ejection of deoxygenated blood; if not appropriately vented it can provoke LV distension, and may cause LV stunning on prolonged use.
-- VV ECMO, however, cannot be used to support cardiac failure, does not affect directly systemic blood pressure but only requires venous cannulation (either single or double cannulation). It only provides a moderate O2 delivery capability, does not reduce cardiac workload, the pulse pressure is unaffected but increases O2 delivery to the coronary and pulmonary circulation.
+### Transition from CPB to ECMO
 
-### 8 **What are the components of an extracorporeal membrane oxygenation circuit?**
+**Indications (after excluding residual surgical lesions):**
+*   Severe RV/LV failure unable to separate from CPB
+*   Rapid haemodynamic deterioration unresponsive to inotropes/vasopressors
+*   Rapid respiratory deterioration unresponsive to conventional ventilation
+*   Severe pulmonary hypertensive crisis unresponsive to iNO
+*   Cardiac arrest post-chest closure unresponsive to reopening/CPR
 
-- A typical VA ECMO circuit is a complex system (Figure 1), composed of:
-  - a) arterial and venous cannulae;
-  - b) circuit to connect the venous cannula draining from the patient to the centrifugal pump; from the pump to the oxygenator; and from the oxygenator to the arterial cannula;
-  - c) magnetically levitating impeller (centrifugal pump) mounted on a rotating magnet device, controlled by a console (Figure 2);
-  - d) membrane oxygenator to which both the venous and arterial sides of the circuit are connected (Figure 3);
-  - e) heat exchanger for temperature regulation;
-  - f) air and O2 mixer (blender) and sweep gas flow regulator to optimise O2 and CO2 gas exchange (Figure 4);
-  - g) side ports (pigtails) used for a wide variety of functions, including:
-    - i) administration of heparin continuously;
-    - ii) pressure monitoring before and after the oxygenator;
-    - iii) sampling for blood gas analysis;
-    - iv) connecting the venous and arterial sides of the circuit (bridge) to temporarily isolate the patient from the ECMO pump without stopping the flow (Figure 5);
+**Transition methods:**
+*   Complete wean from CPB → protamine → controlled ECMO transition (for predominantly respiratory failure)
+*   Immediate transition (ACT ~200 sec) — for patients who cannot separate from CPB
+
+**Note:** Heparin-free ECMO run for limited time acceptable to limit severe blood loss.
+
+### Indications for ECMO in ICU
+
+*   Post-cardiac surgery haemodynamic/respiratory support
+*   Acute medical cardiac conditions (myocarditis, malignant arrhythmias, cardiac arrest, neonatal failure)
+*   Acute medical non-cardiac conditions (sepsis)
+*   Respiratory failure
+
+**Two main scenarios:**
+1.  **Cardiac arrest/CPR:** If no return of function after 5 minutes internal CPR → ECPR with central VA cannulation. For non-surgical patients or high bleeding risk → neck cannulation.
+2.  **Progressive deterioration despite full support:** Controlled cannulation → VA ECMO (neck for non-surgical, central for surgical if acceptable bleeding risk).
+
+### Exclusion Criteria
+
+**Neonatal:**
+*   Gestational age <34 weeks
+*   Body weight <2 kg
+*   Chronic lung disease >15 days on ventilator
+*   Uncontrolled bleeding/coagulopathy
+*   Intracranial haemorrhage Grade III
+*   Non-correctable cardiac lesions
+*   Non-cardiac congenital anomalies incompatible with life
+*   Severe CNS trauma
+
+**Paediatric (ELSO guidelines):**
+*   Cardiac: unrepairable CHD, severe AR, unrepaired aortic dissection, severe peripheral vascular disease, prolonged arrest >60 min, repeated arrests, failed CPR with severe MOF, unwitnessed arrest, out-of-hospital arrest (some centres)
+*   Respiratory: >7–10 days on ventilator, escalating settings (PEEP >15, mean airway pressure >25, PIP >45), severe anatomical lesions, fixed elevated PVR, chronic lung disease
+*   Haematological: major haemorrhage, uncontrolled coagulopathy, immunosuppression, DIC
+*   Neurological: severe CNS injury, infection, hypoxic damage, trauma, toxic insult
+*   Metabolic: severe chronic organ dysfunction, severe metabolic failure, poor prognosis oncological diseases, chromosomal abnormalities
+*   Infective: uncontrolled septic shock
+
+### Imaging on ECMO
+
+*   **CXR (Figure 14):** Cannula position, dislodgment, malposition, kinks, ETT position, lung pathology, pleural collections
+*   **Echocardiography (Figure 15):** Cannula position, cardiac function, atrial communications, congenital defects, weaning progress
+*   **CT:** Cardiac/respiratory/CNS assessment; CT angiography with brief flow reduction
+*   **Angiography:** Anatomy visualisation, cardiac interventions
+*   **Ultrasound/Doppler:** CNS, intra-abdominal organs, distal limb perfusion (femoral cannulation)
+
+### Ventilation on ECMO
+
+**Rest settings:** FiO₂ 30%, PEEP 3–5 cmH₂O, RR 5–10 rpm, TV 5–10 mL/kg.
+
+**Note:** On VA ECMO with cardiac ejection, increase ventilation (increased pulmonary venous return for coronary perfusion).
+
+### Anticoagulation Management
+
+*   **Target ACT:** 220–250 sec (180–200 sec if bleeding)
+*   **Loading:** Heparin 100 IU/kg pre-cannulation
+*   **Infusion:** 0.5 mL/hr or 10 IU/kg/hr, titrated
+*   **Monitoring:** q15 min ×2 hours, q30 min ×1 hour, then hourly
+*   **Higher ACT required:** Clot/fibrin in circuit, suboptimal flows, during weaning
+*   **Lower ACT:** Persistent bleeding (can stop heparin temporarily; heparin-coated circuits can run days without heparin)
+*   **Bleeding management:** Platelets, FFP, cryoprecipitate; IV tranexamic acid; surgical exploration
+
+### Weaning from ECMO
+
+**Pre-weaning evaluation:**
+*   Pulmonary: CXR, lung compliance (manual ventilation), consider iNO for elevated PVR
+*   Cardiac: Serial echocardiography; "stress echo" (increase ACT to 250 sec, start ventilation, reduce flow by 25% decrements to stop for 30–60 sec) — assesses recovery and timing
+*   Renal: Plan alternative RRT if needed
+*   Fluid balance: Increase oncotic pressure, vasopressors
+*   Metabolic: Worsening lactic acidosis, unstable glucose, worsening MOF = poor predictors
+*   Neurological: Head US/MRI
+*   Infective: Worsening sepsis = poor predictor
+
+**Weaning process:**
+*   Increase ACT to 300 sec
+*   Reduce flow in 25% steps over 1–2 hours
+*   Regular blood gases, monitor lactate
+*   **Completion:** Clamp venous line → unclamp bridge → clamp arterial line → child isolated from circuit
+*   Cannulae left in place, circuit runs via bridge (flush q15–20 min)
+
+**Signs of early failure:**
+*   Poor haemodynamics (↓systemic BP)
+*   ↑RA and/or LA pressure
+*   Poor ventricular function on echo
+*   Arrhythmias
+*   Poor peripheral perfusion (↑lactate, hypoxia, hypercarbia, acidosis)
+*   Poor oxygenation, high end-tidal CO₂
+
+**"One-way wean":** ECMO not reinstituted in early failure — senior MDT decision, involve parents.
+
+**Decannulation:**
+*   Central → delayed sternal closure
+*   Neck → vessel reconstruction (ligation if patency not obtained)
+*   Protamine to achieve ACT 100–120 sec
+
+### Outcomes (Table 4 — ELSO 2018)
+
+| Population | Total Runs | Survived ECLS | Survived to Discharge |
+|------------|------------|---------------|----------------------|
+| **Neonatal Pulmonary** | 30,934 | 84% | 73% |
+| **Neonatal Cardiac** | 7,794 | 64% | 42% |
+| **Neonatal ECPR** | 1,718 | 66% | 41% |
+| **Paediatric Pulmonary** | 8,820 | 67% | 58% |
+| **Paediatric Cardiac** | 10,462 | 68% | 52% |
+| **Paediatric ECPR** | 3,946 | 57% | 42% |
+
+**Post-cardiac surgery survival to discharge:** 40–50%
+
+**Risk factors for mortality:**
+*   Increased ECMO duration (beyond 7 days, +12% mortality per extra day)
+*   Low weight, preterm birth, pre-operative NEC
+*   Post-op complications: renal failure requiring RRT, neurological impairment, bleeding, NEC on ECMO
+*   Longer CPB (>400 min) and DHCA use
+
+### Complications
+
+**Cannulation-related:**
+*   Vessel damage/dissection, haemothorax, pneumothorax (Figure 16), haemopericardium/tamponade, cannula dislodgement/malposition, limb ischaemia (especially femoral)
+
+**On-ECMO:**
+*   Bleeding (minor/major)
+*   Circuit thrombus, haemolysis
+*   Air in circuit
+*   Pump/console/motor failure
+*   Oxygenator failure
+*   Tubing rupture
+*   Cerebral bleed (Figure 17), infarction, oedema
+*   Infection
+*   Accidental decannulation (Figure 18)
+*   Renal/GI complications, general ICU complications
+
+### Emergency Scenario Management
+
+| Problem | Actions |
+|---------|---------|
+| **VV ECMO hypoxia** | Pump flow >⅔ CO; FiO₂ 100% (pO₂ >150); ↑pump flow; ↑ventilation; cool; muscle relaxants; maintain Hb; add second access line |
+| **VV ECMO hypercarbia** | Pump flow >⅔ CO; ↑O₂ flow to oxygenator (×2 pump flow rate); ↑pump flow; ↑ventilation; cool; muscle relaxants |
+| **VV ECMO recirculation** | Check cannula position; pre-membrane pO₂ <50; reposition cannula |
+| **VA ECMO hypoxaemia** | Check right radial ABG; oxygenator return line pO₂ >150; ↑pump flow; ↑ventilation, PEEP, FiO₂; readjust/replace arterial line |
+| **VA ECMO hypercarbia** | Pump flow >⅔ CO; O₂ flow to oxygenator ×2 pump flow rate; ↑pump flow; ↑ventilation; cool; muscle relaxant |
+| **VA ECMO bleeding** | Prevention (meticulous haemostasis, monitoring); APTT 50–75 sec (heparin can be withheld); transfuse platelets, cryo, FFP, RBCs; IV tranexamic acid; surgical exploration |
+| **Haemolysis** | Monitor Hb, LFTs, U&Es, clotting; replace volume; adjust pump flow; TOE check cannulae; circuit change if needed |
+| **Unable to maintain flow** | Check cannula position/volume; check kinking; pre/post-oxygenator blood sample; echo + CXR; optimise fluid/preload/afterload/contractility; decrease pump speed then increase smoothly |
+| **Pump failure** | Call for help; conventional ventilation; inotropes/vasoconstrictors; use back-up console; hand cranking; replace pump head |
+| **Cardiac arrest (VV)** | Call for help; CPR; reversible causes; DC shock |
+| **Cardiac arrest (VA)** | Call for help; DC shock (arrest has little effect on ECMO if flows maintained) |
+| **Accidental decannulation** | Call for help; clamp circuit; stop pump; CPR; ventilate; volume + CV support; prepare for surgery |
+| **Air in circuit** | Clamp arterial line; stop pump; head-down position; inotropes/ventilation/volume; examine entry points |
+| **Circuit rupture** | Clamp circuit; stop pump; call for help; CV + respiratory support; replace volume; prepare for surgery/circuit change |
+| **Thrombus in circuit** | Maintain optimal ACT; monitor circuit; clean/change affected component |
+
+### Stopping and Recommencing ECMO
+
+**Roller pump circuit:**
+*   Stop: Clamp venous line above bridge → open bridge clamp → clamp arterial line above bridge → stop flow
+*   Restart: Open arterial clamp → clamp bridge → open venous cannula → return to previous rpm
+
+**Centrifugal pump circuit:**
+*   Stop: Close post-oxygenator clamp → clamp venous line above bridge → open bridge → clamp arterial line → release post-oxygenator clamp → maintain flow through bridge
+*   Restart: Close post-oxygenator clamp → clamp bridge → open arterial clamp → open venous clamp → increase rpm → remove post-oxygenator clamp → clear bridge
+
+### General Parameter Guidelines (Paediatric)
+
+| Parameter | Target |
+|-----------|--------|
+| ACT | 160–220 sec |
+| PaO₂ (VA) | 60–80 mmHg |
+| PaO₂ (VV) | 45–80 mmHg |
+| Haemoglobin (VA) | 13–15 g/dL |
+| Haemoglobin (VV) | 15 g/dL |
+| Haematocrit (VA) | >40 |
+| Haematocrit (VV) | >45 |
+| pH | 7.35–7.45 |
+| PaCO₂ | 35–45 mmHg |
+| Platelets | >75 × 10⁹/L |
+| Urine output | >2 mL/kg/hr |
+| Heparin | 25–50 units/kg/hr (adjust for renal function, bleeding, haemofilter) |
+| Venous O₂ saturation | 70–75% |
+| VA ECMO flow | 80 mL/kg/min (80% of estimated CO) |
+| VV ECMO flow | 80–120 mL/kg/min (adjust for recirculation) |
+
+### Commencing ECMO — Steps
+
+1.  Check circuit, cannula position, secure cannulae
+2.  Open venous line clamp (above bridge)
+3.  Close bridge clamp
+4.  Open arterial line clamp (above bridge)
+5.  Slowly increase blood flow
+6.  Monitor cardiovascular response
+7.  Wean ventilation support
+8.  Wean inotropic support
+9.  Re-evaluate for air bubbles
+10. Check connections and ports
+11. Verify console, transducers, electrical components operational
+12. Perform flow, sweep, FiO₂, drug/fluid calculations
+13. Check ACT/APTT, adjust heparin
+14. Optimise clotting profile
+15. Inform team of set parameters and alarms
+16. Recheck cannula security
+17. Request echo and CXR as appropriate
+
+### Daily Management Principles
+
+**General:**
+*   Check cannulation site, cannulae, circuit (mechanical + electrical)
+*   Patient head position: midline, up to 30°
+
+**Cardiovascular:**
+*   Maintain systemic perfusion and intravascular volume
+*   Monitor urine output, CVP, perfusion signs, body weight
+*   Echocardiography as required
+*   Check circuit for clots and integrity
+*   Regular ECG and blood tests
+
+**Respiratory:**
+*   Ventilation settings
+*   ABGs and CXR
+*   Pulmonary hygiene, flexible bronchoscopy as needed
+
+**Renal:**
+*   First 48 hours: high incidence of ATN and oliguria → thereafter urine output usually >2 mL/kg/hr
+*   If renal function does not improve → add CRRT to circuit
+*   Daily renal blood tests as indicated
+
+**CNS:**
+*   Avoid paralytic agents
+*   Regular sedation holds, neurological examinations (pupils, reflexes, LOC, movements)
+*   Head US or CT as required (CT requires transport on ECMO)
+
+**Infection control:**
+*   Aseptic technique for all procedures
+*   Check all sites for infection
+*   Cultures (blood, sputum, urine)
+*   Antibiotics as indicated
+
+**Fluids, electrolytes, nutrition:**
+*   Regular monitoring of electrolytes (Mg²⁺, Ca²⁺, PO₄³⁻)
+*   Close fluid balance monitoring, high-calorie intake, nutritional support
+
+**Surgical team:** Daily checks of cannulation site, cannulae, circuit; assist with dressing changes; available for transport and invasive procedures.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 1. Definitions and Types of ECMO</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### What is Extracorporeal Life Support?</summary><div class="details-content">
+
+Extracorporeal life support (ECLS) is a general term used to describe any form of extracorporeal support to the heart and/or lungs, when they are failing and not responsive to conventional treatments, and includes:
+
+*   Extracorporeal membrane oxygenation (ECMO)
+*   Ventricular assist devices (VAD)
+*   Cardiopulmonary bypass (CPB)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### What is Extracorporeal Membrane Oxygenation?</summary><div class="details-content">
+
+Extracorporeal membrane oxygenation (ECMO) is an ECLS technique utilised to provide cardiac, respiratory or combined support to patients whose lungs are unable to provide adequate gas exchange to sustain life, and/or whose heart is unable to sustain adequate cardiac output.
+
+The circuit involves draining blood from the venous circulation, pumping it through an oxygenator (where O₂ is added and CO₂ is removed), and then returning the oxygenated blood back to the patient with adequate pressure, to either the venous or arterial circulation, depending on the mode of cannulation used.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### History of Extracorporeal Membrane Oxygenation</summary><div class="details-content">
+
+*   First prolonged extracorporeal support reported by Hill and colleagues in 1972; developed for adult patients with acute respiratory failure refractory to conventional mechanical ventilation
+*   In 1976, Robert Bartlett reported the first successful support for a neonate treated for meconium aspiration syndrome and severe respiratory failure (supported on ECMO for 3 days, recovered fully)
+*   Subsequently employed in younger patients and in patients with post-cardiotomy heart failure unable to wean from CPB
+*   Currently, most cardiac units worldwide provide ECMO support
+*   Technical advances: new membrane oxygenators, cannulae, centrifugal pumps
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Types of Extracorporeal Membrane Oxygenation</summary><div class="details-content">
+
+**Veno-venous (VV) ECMO:**
+*   Blood drawn from systemic vein with centrifugal pump → passed through membrane oxygenator → returned to venous system (ideally near right atrium)
+*   Provides respiratory support (returns oxygenated blood to pre-pulmonary circulation)
+*   Uses native cardiac function to maintain cardiac output
+
+**Veno-arterial (VA) ECMO:**
+*   Blood drawn from venous system → membrane oxygenator → returned to arterial system with adequate pressure
+*   Used for primary cardiac support but also in heart failure secondary to respiratory failure
+
+**Arteriovenous (AV) ECMO:**
+*   Uses patient's own arterial pressure or incorporates a pump to drive blood across an oxygenator
+*   Partially supports respiratory system by effectively removing CO₂
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### What is ECPR?</summary><div class="details-content">
+
+Extracorporeal cardiopulmonary resuscitation (ECPR) refers to the rapid deployment of an ECMO circuit to provide circulatory and respiratory support during cardiac arrest, when conventional CPR has failed to provide return of spontaneous circulation within the expected time frame.
+
+Many studies have shown superiority of ECPR over conventional CPR in improving survival and neurologic outcome.
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 2. ECMO vs CPB and VA vs VV Differences</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Differences Between ECMO and Cardiopulmonary Bypass (Table 1)</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+##### TABLE 1: Differences Between Cardiopulmonary Bypass (CPB) and Extracorporeal Membrane Oxygenation (ECMO)</summary><div class="details-content">
+
+| Feature | CPB | ECMO |
+|---------|-----|------|
+| Ideal use | Cardiac operating theatre | Bedside |
+| Size and portability | Large, poorly mobile | Small, highly mobile |
+| Pumping mechanism | Roller pumps | Centrifugal pump |
+| Priming volume | Large | Small |
+| Arterial filters | Yes | No |
+| Venous reservoir | Yes | No |
+| Thermoregulation | Wide range | Limited range |
+| Anticoagulation requirements | High (ACT >400) | Low (ACT 150–220) |
+| Haemodilution/haemolysis | Few hours | Few days |
+| Adaptable to haemofiltration | No | Yes |
+| Risk of air embolism | Low | High |
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Differences Between Veno-Arterial and Veno-Venous ECMO</summary><div class="details-content">
+
+| Feature | VA ECMO | VV ECMO |
+|---------|---------|---------|
+| Support type | Cardiac + respiratory | Respiratory only |
+| Cannulation | Venous + arterial | Venous only (single or double) |
+| Systemic BP effect | Maintains higher BP | No direct effect |
+| O₂ delivery capacity | High | Moderate |
+| Pulse pressure on full flow | Low | Unaffected |
+| Cardiac workload | Reduces preload, increases afterload | No reduction |
+| Coronary perfusion | Affected by ejection of deoxygenated blood; may cause LV stunning if not vented | Increased O₂ delivery |
+| LV distension risk | Yes (if not appropriately vented) | No |
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 3. ECMO Circuit Components and Physics</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Components of an ECMO Circuit (Figures 1–5)</summary><div class="details-content">
 
 ![](_page_4_Picture_2.jpeg)
 
-**Figure 1. Veno-arterial extracorporeal membrane oxygenator (VA ECMO) circuit: with pigtail 1 used for the venous side of the bridge; pigtail 2 used for inlet pressure monitoring and a large air and fluid line; pigtail 3 used for activated clotting time (ACT) measurement and central venovenous haemofiltration (CVVH) access; pigtail 4 used for CVVH return; pigtail 5 used for pre-membrane pressure monitoring and heparin infusion; pigtail 6 used for air removal and addition of volume; pigtail 7 used for post-membrane pressure, gas samples, clotting products (if there is no patient access); and pigtail 8 used for the arterial side of the bridge.**
+**Figure 1. Veno-arterial extracorporeal membrane oxygenator (VA ECMO) circuit: with pigtail 1 used for the venous side of the bridge; pigtail 2 used for inlet pressure monitoring and a large air and fluid line; pigtail 3 used for ACT measurement and CVVH access; pigtail 4 used for CVVH return; pigtail 5 used for pre-membrane pressure monitoring and heparin infusion; pigtail 6 used for air removal and addition of volume; pigtail 7 used for post-membrane pressure, gas samples, clotting products; and pigtail 8 used for the arterial side of the bridge.**
 
-- v) connecting the circuit to a continuous renal replacement unit (CVVH);
-- h) flow sensors.
+A typical VA ECMO circuit is composed of:
+
+*   **Arterial and venous cannulae**
+*   **Circuit tubing** connecting venous cannula → centrifugal pump → oxygenator → arterial cannula
+*   **Magnetically levitating impeller (centrifugal pump)** mounted on rotating magnet device, controlled by a console (Figure 2)
+*   **Membrane oxygenator** (Figure 3)
+*   **Heat exchanger** for temperature regulation
+*   **Air and O₂ mixer (blender)** and sweep gas flow regulator (Figure 4)
+*   **Side ports (pigtails)** for: continuous heparin administration, pressure monitoring (pre- and post-oxygenator), blood gas sampling, bridge connection (Figure 5), CVVH connection
+*   **Flow sensors**
 
 ![](_page_5_Picture_2.jpeg)
 
-**Figure 2. Centrifugal pump consisting of control monitors, primary and back-up control panels, rotating driver devices and centrifugal impellers.** *Reproduced with permission from Abbott, © 2020. All rights reserved. CentriMag™, Thoratec Corporation and Thoratec Corporation Logo are trademarks of Abbott or its related companies.*
+**Figure 2. Centrifugal pump consisting of control monitors, primary and back-up control panels, rotating driver devices and centrifugal impellers.** *Reproduced with permission from Abbott.*
 
 ![](_page_6_Picture_2.jpeg)
 
 ![](_page_6_Picture_3.jpeg)
 
-**Figure 3. Membrane oxygenator and its connections. = vent port; 2 = water outlet; 3 = oxygen supply tube; 4 = membrane oxygenator; 5 = water inlet; 6 = sampling ports; 7 = recirculation port; 8 = arterial outlet; 9 = flow sensor; 10 = venous inlet.**
+**Figure 3. Membrane oxygenator and its connections. 1 = vent port; 2 = water outlet; 3 = oxygen supply tube; 4 = membrane oxygenator; 5 = water inlet; 6 = sampling ports; 7 = recirculation port; 8 = arterial outlet; 9 = flow sensor; 10 = venous inlet.**
 
 ![](_page_7_Picture_2.jpeg)
 
@@ -104,99 +488,148 @@
 
 **Figure 5. Bridge between the arterial and venous cannulae in an open state.**
 
-- 9 **Describe the different types of pump that are used in an extracorporeal membrane oxygenation circuit**
-- Semi-occlusive roller pumps are rarely used currently, as they are more traumatic to blood components, especially when used for longer periods.
+</div></details>
 
-• They have been replaced by magnetically levitated centrifugal pumps, which are mounted on a rotating magnet driver (Figure 6).
+<details class="med-details"><summary>
+
+#### Types of Pumps Used in ECMO Circuits (Figures 6, 7)</summary><div class="details-content">
 
 ![](_page_8_Picture_3.jpeg)
 
 **Figure 6. Centrifugal propeller.**
 
-- This pump provides less trauma to blood components and can be employed for longer period of times.
-- By spinning, a vortex effect is created with low pressure in the apex of the pump removing blood from the patient. The vortex creates a positive pressure at the bottom of the pump, returning blood to the patient.
-- Therefore, centrifugal pumps are preload-dependent and afterloadsensitive.
-- Given the prolonged use and dependency of the patient's circulation and respiratory function, drivers are always provided with a back-up for quick replacement in case of failure (Figure 7).
-
 ![](_page_9_Picture_2.jpeg)
 
 **Figure 7. Centrifugal pump mounted on the rotating magnetic device, with the mandatory back-up device adjacent for immediate transfer of the propeller.**
 
-### 10 **What are the main factors affecting extracorporeal membrane oxygenation flow?**
+*   **Semi-occlusive roller pumps:** Rarely used currently; more traumatic to blood components, especially with prolonged use
+*   **Magnetically levitated centrifugal pumps:** Mounted on rotating magnet driver; provide less trauma to blood components; can be employed for longer periods
+*   **Mechanism:** Spinning creates vortex effect with low pressure in pump apex (removing blood from patient) and positive pressure at pump bottom (returning blood to patient)
+*   **Characteristics:** Preload-dependent and afterload-sensitive
+*   **Back-up:** Drivers always provided with back-up for quick replacement in case of failure
 
-- The pump provides a blood flow rate (L/min) delivered at a given amount of revolutions per minute (rpm).
-- Factors that can affect the blood flow rate include:
-  - a) preload and afterload;
-  - b) size of the cannulae;
-  - c) size of the cannulated vessels and compliance;
-  - d) body surface area (BSA) of the patient;
-  - e) haematocrit;
-  - f) transmembrane gradient (which represents the pressure gradient across the oxygenator).
+</div></details>
 
-### 11 **What is pump cavitation?**
+<details class="med-details"><summary>
 
-- The pump generates a negative pressure on the patient's venous side, which drives the flow rate, as it provides the inflow into the propeller.
-- Past the point of maximal inflow, the negative pressure in the venous system causes the venous vessels or the right atrial wall to temporarily collapse, potentially occluding blood inflow altogether.
-- When the pressure in the venous side builds back up again, the pump is able to flow again, which might generate a pulsing blood flow and cavitation of the pump.
-- The first intervention to avoid further cavitation is to reduce the pump rpm and therefore the suction effect on the venous return.
+#### Main Factors Affecting ECMO Flow</summary><div class="details-content">
 
-- Other manoeuvres that might be needed to maintain pump blood flow include:
-  - a) correcting the hypovolaemia status;
-  - b) changing the positioning of the patient;
-  - c) ensuring that there is no kinking or malposition of the cannula;
-  - d) checking for the presence of thrombus or clotting in the circuit;
-  - e) increasing the size of the venous cannulae or adding additional venous access for drainage.
+The pump provides a blood flow rate (L/min) delivered at a given amount of revolutions per minute (rpm). Factors affecting flow:
 
-### 12 **What is recirculation?**
+*   Preload and afterload
+*   Size of cannulae
+*   Size of cannulated vessels and compliance
+*   Body surface area (BSA) of the patient
+*   Haematocrit
+*   Transmembrane gradient (pressure gradient across the oxygenator)
 
-• Recirculation is a phenomenon that occurs in VV ECMO when a single intra-atrial double-lumen cannula is used, where reinfused oxygenated blood is withdrawn through the venous drainage cannula and therefore does not reach the systemic circulation (Figure 8).
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Pump Cavitation</summary><div class="details-content">
+
+*   The pump generates negative pressure on the patient's venous side, driving flow rate by providing inflow into the propeller
+*   Past maximal inflow, negative pressure causes venous vessels or right atrial wall to temporarily collapse → potentially occluding blood inflow altogether
+*   When venous pressure builds back up, pump flows again → may generate pulsing flow and cavitation
+
+**First intervention:** Reduce pump rpm (reduces suction effect on venous return)
+
+**Other manoeuvres:**
+*   Correct hypovolaemia
+*   Change patient positioning
+*   Ensure no kinking or malposition of cannula
+*   Check for thrombus or clotting in circuit
+*   Increase size of venous cannulae or add additional venous access for drainage
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Recirculation (Figure 8)</summary><div class="details-content">
 
 ![](_page_10_Picture_10.jpeg)
 
-**Figure 8. Flow within a single VV ECMO double-lumen cannula: A) in the correct position and functioning properly, the cannula draws deoxygenated blood from the inferior vena cava and right atrium, while the outlet lumen ejects fully oxygenated blood towards the tricuspid valve. This increases forward flow with high oxygen saturation across the pulmonary circulation to reach the left atrium; B) recirculation occurring with the arterial output drained from the cannula instead of reaching the right ventricle, resulting in reduced forward flow to the pulmonary valve and reduced oxygen saturation. RA = right atrium; RV = right ventricle.**
+**Figure 8. Flow within a single VV ECMO double-lumen cannula: A) correct position — cannula draws deoxygenated blood from IVC and RA, outlet lumen ejects fully oxygenated blood towards tricuspid valve; B) recirculation — arterial output drained from cannula instead of reaching right ventricle, reducing forward flow and oxygen saturation. RA = right atrium; RV = right ventricle.**
 
-- If the patient is dependent on ECMO for oxygenation, recirculation can pose a clinical problem. In this situation, solutions to be considered include:
-  - a) changing the position of the cannulae;
-  - b) changing the configuration of the cannulae by adding an extra drainage cannula;
-  - c) changing the position of the reinfusion cannula;
-  - d) decreasing ECMO flow (if possible).
+*   Phenomenon occurring in VV ECMO when a single intra-atrial double-lumen cannula is used
+*   Reinfused oxygenated blood is withdrawn through the venous drainage cannula and does not reach systemic circulation
 
-### 13 **What is Harlequin syndrome?**
+**Solutions:**
+*   Change position of cannulae
+*   Change cannulae configuration (add extra drainage cannula)
+*   Change position of reinfusion cannula
+*   Decrease ECMO flow (if possible)
 
-- Harlequin syndrome represents a phenomenon occurring in VA ECMO, when there is significant residual native cardiac output with impaired native gas exchange.
-- In such cases, poorly oxygenated blood ejected from the heart will supply the upper body, whereas the lower body is perfused by oxygenated blood from the arterial cannula of the ECMO circuit, in particular when a femoral cannula is employed.
-- Blood returning to the venous drainage is more saturated than expected and may be interpreted as a form of recirculation, but as the blood has already passed through the systemic circulation, it is not considered recirculation.
-- Possible solutions to this include:
-  - a) increasing the ECMO flow;
-  - b) increasing ventilation support (if possible);
-  - c) repositioning the arterial cannula more proximally in the aorta (if central cannulation has been used) or adding an additional arterial cannula for the upper body, such as an axillary artery cannula;
-  - d) improving left atrial decompression with a left atrial vent or atrial septostomy.
+</div></details>
 
-### 14 **Describe the types of extracorporeal membrane oxygenation arterial cannulae that are used**
+<details class="med-details"><summary>
 
-- ECMO is instituted using specific cannulae that are produced to be site-specific. Most centres use a uniform size to flow ratio, according to the patient's body weight or body surface area (Tables 2 and 3).
-- The size and shape of the venous and arterial cannulae vary when used for central or neck cannulation, as compared to peripheral sites, such as the femoral vein (Figures 9 and 10).
-- The use of heparin-coated cannulae and heparin-bonded circuits is variable.
+#### Harlequin Syndrome</summary><div class="details-content">
 
-**Table 2. Arterial cannula size chart according to flow and body weight.**
+*   Phenomenon occurring in VA ECMO when there is significant residual native cardiac output with impaired native gas exchange
+*   Poorly oxygenated blood ejected from heart supplies upper body; lower body perfused by oxygenated blood from ECMO arterial cannula (especially with femoral cannulation)
+*   Blood returning to venous drainage is more saturated than expected (may be misinterpreted as recirculation, but blood has passed through systemic circulation)
 
-| cäçï<br>EãiLãáåF | páòÉ<br>EcêF | bñíÉêå~ä<br>Çá~ãÉíÉê<br>EããF | _çÇó<br>ïÉáÖÜí<br>EâÖF | `~ååìä~<br>ëáòÉ<br>EcêF |
-|------------------|--------------|------------------------------|------------------------|-------------------------|
-|            | 8            | 2.66                         | <2                     | 8<br>to<br>10           |
-|          | 10           | 3.33                         |                    | 10<br>to<br>14          |
-|         | 12           | 4                            |                   | 12<br>to<br>16          |
-|        | 14           | 4.66                         |                  | 14<br>to<br>19          |
-|        | 15           | 5                            |                  | 17<br>to<br>21          |
-|        | 17           | 5.66                         | >40                    | >21                     |
-|        | 19           | 6.33                         |                        |                         |
-| >3500            | >21          | >7                           |                        |                         |
+**Solutions:**
+*   Increase ECMO flow
+*   Increase ventilation support (if possible)
+*   Reposition arterial cannula more proximally in aorta (if central cannulation) or add additional arterial cannula for upper body (e.g., axillary artery cannula)
+*   Improve left atrial decompression with left atrial vent or atrial septostomy
 
-**Table 3. Venous cannula size chart according to flow and body weight.**
+</div></details>
 
-| cäçï<br>EãiLãáåF                                                                                                                    | páòÉ<br>EcêF                                                  | bñíÉêå~ä<br>Çá~ãÉíÉê<br>EããF                                             | _çÇó<br>ïÉáÖÜí<br>EâÖF                     | `~ååìä~<br>ëáòÉ<br>EcêF                                                                                 |
-|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 0-350<br>350-600<br>600-1000<br>1000-1400<br>750-1000<br>1000-1500<br>1500-2000<br>2000-2500<br>2500-3000<br>3000-3600<br>3600-4500 | 8<br>10<br>12<br>14<br>15<br>17<br>19<br>21<br>23<br>25<br>27 | 2.66<br>3.33<br>4<br>4.66<br>5<br>5.66<br>6.33<br>7<br>7.66<br>8.33<br>9 | <2<br>2-5<br>5-10<br>10-20<br>20-30<br>>40 | 8<br>to<br>10<br>10<br>to<br>16<br>14<br>to<br>17<br>17<br>to<br>19<br>19<br>to<br>23<br>21<br>to<br>28 |
-| 4500-                                                                                                                               | 29                                                            | 9.66                                                                     |                                            |                                                                                                         |
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 4. Cannulation Strategies and Hardware</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Types of ECMO Arterial Cannulae (Tables 2, 3; Figures 9–12)</summary><div class="details-content">
+
+ECMO is instituted using site-specific cannulae. Most centres use uniform size-to-flow ratio according to patient's body weight or BSA.
+
+<details class="med-details"><summary>
+
+##### TABLE 2: Arterial Cannula Size Chart According to Flow and Body Weight</summary><div class="details-content">
+
+| Flow (mL/min) | Size (Fr) | External Diameter (mm) | Body Weight (kg) | Cannula Size (Fr) |
+|---------------|-----------|------------------------|------------------|-------------------|
+| 0–400 | 8 | 2.66 | <2 | 8 to 10 |
+| 400–700 | 10 | 3.33 | 2–5 | 10 to 14 |
+| 700–1200 | 12 | 4 | 5–10 | 12 to 16 |
+| 1200–1700 | 14 | 4.66 | 10–20 | 14 to 19 |
+| 1700–2000 | 15 | 5 | 20–30 | 17 to 21 |
+| 2000–2500 | 17 | 5.66 | >40 | >21 |
+| 2500–3500 | 19 | 6.33 | | |
+| >3500 | >21 | >7 | | |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### TABLE 3: Venous Cannula Size Chart According to Flow and Body Weight</summary><div class="details-content">
+
+| Flow (mL/min) | Size (Fr) | External Diameter (mm) | Body Weight (kg) | Cannula Size (Fr) |
+|---------------|-----------|------------------------|------------------|-------------------|
+| 0–350 | 8 | 2.66 | <2 | 8 to 10 |
+| 350–600 | 10 | 3.33 | 2–5 | 10 to 16 |
+| 600–1000 | 12 | 4 | 5–10 | 14 to 17 |
+| 1000–1400 | 14 | 4.66 | 10–20 | 17 to 19 |
+| 750–1000 | 15 | 5 | 20–30 | 19 to 23 |
+| 1000–1500 | 17 | 5.66 | >40 | 21 to 28 |
+| 1500–2000 | 19 | 6.33 | | |
+| 2000–2500 | 21 | 7 | | |
+| 2500–3000 | 23 | 7.66 | | |
+| 3000–3600 | 25 | 8.33 | | |
+| 3600–4500 | 27 | 9 | | |
+| 4500– | 29 | 9.66 | | |
+
+</div></details>
 
 ![](_page_13_Picture_2.jpeg)
 
@@ -206,16 +639,14 @@
 
 ![](_page_13_Picture_5.jpeg)
 
-**Figure 9. Arterial cannulae used for paediatric extracorporeal membrane oxygenators: A) an 8Fr cannula used for central and neck cannulation, with a single orifice at the cannula tip, which is placed in the aortic arch or root of the right brachiocephalic artery; B) a 15Fr cannula used for femoral cannulation, with a multi-orifice tip, that is more effective in the abdominal aorta.**
-
-- Generally, venous cannulae tend to be larger than the arterial cannulae to prevent venous collapse and to accommodate the higher distensibility of the venous vessels.
-- In respiratory ECMO, when the VA set is used, the cannulae tend to be of the same size.
+**Figure 9. Arterial cannulae used for paediatric ECMO: A) 8Fr cannula for central and neck cannulation (single orifice at tip, placed in aortic arch or root of right brachiocephalic artery); B) 15Fr cannula for femoral cannulation (multi-orifice tip, more effective in abdominal aorta).**
 
 ![](_page_14_Figure_2.jpeg)
 
-**Figure 10. Venous cannulae used for paediatric extracorporeal membrane oxygenators: A) an 8Fr cannula used for neck cannulation, with multiple openings and markers to identify the cannula position within the superior vena cava, right atrium (RA) and inferior vena cava (IVC); B) a long 15Fr cannula used for femoral vein cannulation, with a multiorifice tip, that is placed at the RA-IVC area.**
+**Figure 10. Venous cannulae used for paediatric ECMO: A) 8Fr cannula for neck cannulation (multiple openings, markers for SVC, RA, IVC position); B) long 15Fr cannula for femoral vein cannulation (multi-orifice tip, placed at RA-IVC area).**
 
-• Although single cannulae (double-lumen) are used in VV ECMO, their use in small babies is limited (Figures 11 and 12).
+*   Venous cannulae tend to be larger than arterial cannulae (prevents venous collapse, accommodates higher distensibility of venous vessels)
+*   In respiratory ECMO with VA set, cannulae tend to be the same size
 
 ![](_page_15_Picture_2.jpeg)
 
@@ -223,553 +654,687 @@
 
 ![](_page_15_Picture_4.jpeg)
 
-**Figure 12. ParaGlide™ ECLS adult veno-veno doublelumen cannula (Chalise Medical, Worksop, UK).**
+**Figure 12. ParaGlide™ ECLS adult veno-veno double-lumen cannula (Chalise Medical, Worksop, UK).**
 
-### 15 **Describe the priming solution used for the institution of extracorporeal membrane oxygenation**
+Single cannulae (double-lumen) are used in VV ECMO; their use in small babies is limited.
 
-- Priming of the entire circuit, oxygenator and pump is performed before cannulating the patient.
-- Carbon dioxide is flushed through the circuit to displace atmospheric oxygen and nitrogen, followed by an infusion of a balanced crystalloid prime.
-- Albumin is then added to coat the prosthetic surfaces and decrease platelet and fibrinogen adherence.
+</div></details>
 
-- Finally, blood is used to displace the crystalloid to prevent haemodilution, especially in small patients, with the ideal haematocrit between 30-40%.
-- A blood gas analysis of the priming solution is made before connecting the patient to the circuit, with adjustments of the priming pH and electrolytes frequently required.
-- When blood is added to the prime, heparin is added to initiate anticoagulation (100 units of heparin per unit of packed red blood cells), followed by a buffer solution, such as sodium bicarbonate.
+<details class="med-details"><summary>
 
-### 16 **What are the different cannulation strategies for extracorporeal membrane oxygenation?**
+#### Priming Solution for ECMO Institution</summary><div class="details-content">
 
-- Central cannulation which is performed via a median sternotomy and usually involves an arterial cannula in the ascending aorta and a right-angled venous cannula in the right atrium. In some cases, an additional cannula is inserted through the left atrial appendage or the right upper pulmonary vein to vent the left atrium. Indications include:
-  - a) post-cardiotomy heart failure, refractory to increasing inotropic support;
-  - b) post cardiac arrest, refractory to conventional CPR (ECPR).
-- Neck cannulation which can be used for:
-  - a) VA ECMO where the arterial cannula is placed in the right common carotid artery (RCCA) and advanced to the aortic arch, and the venous cannula is placed in the right internal jugular vein (RIJV) and advanced to the right atrium-IVC junction. It is mostly used in non-post-cardiotomy neonates and infants requiring both cardiac and respiratory support. The right-sided vessels are preferred but in exceptional circumstances the left neck vessels can be used. If this cannulation is employed, it is important to ensure patency of the contralateral arterial and venous vessels;
-  - b) VV ECMO where a double-lumen cannula is inserted in the right internal jugular vein and advanced into the right atrium. In neonates and infants, this is performed by open dissection of the vessels. In larger patients, the cannulation can be done percutaneously, using the Seldinger wire technique.
-- Femoral cannulation which is used for larger patients, where higher flows are needed both on the venous and/or arterial side. In VA ECMO, the arterial cannula is placed in the femoral artery and the
+1.  **CO₂ flush:** Through circuit to displace atmospheric oxygen and nitrogen
+2.  **Crystalloid prime:** Balanced solution infusion
+3.  **Albumin:** Added to coat prosthetic surfaces, decrease platelet and fibrinogen adherence
+4.  **Blood:** Displaces crystalloid to prevent haemodilution (especially in small patients); ideal haematocrit 30–40%
+5.  **Blood gas analysis** of priming solution before connecting patient; adjustments of pH and electrolytes frequently required
+6.  **Heparin:** When blood added to prime (100 units of heparin per unit of packed red blood cells)
+7.  **Buffer solution** (e.g., sodium bicarbonate)
 
-venous cannula in the femoral vein, preferably on the opposite side. In patients who are supported with ECMO for a prolonged period, the risk of leg ischaemia, distal to the femoral artery cannulation site, can be significant. This can be mitigated by the (Figure 13):
+</div></details>
 
-- a) use of a side graft anastomosed on the femoral artery, which is subcutaneously tunnelled and exteriorised 4 to 5cm inferiorly, with a separate incision;
-- b) positioning of a retrograde reperfusion catheter (smaller in size to restrict the flow) in the superficial femoral artery, connected to the femoral arterial cannula.
+<details class="med-details"><summary>
+
+#### Different Cannulation Strategies for ECMO (Figure 13)</summary><div class="details-content">
+
+**Central cannulation (median sternotomy):**
+*   Arterial cannula in ascending aorta; right-angled venous cannula in right atrium
+*   Optional additional cannula through left atrial appendage or right upper pulmonary vein to vent left atrium
+*   **Indications:** Post-cardiotomy heart failure refractory to inotropes; post-cardiac arrest refractory to conventional CPR (ECPR)
+
+**Neck cannulation:**
+*   **VA ECMO:** Arterial cannula in right common carotid artery (RCCA) advanced to aortic arch; venous cannula in right internal jugular vein (RIJV) advanced to RA-IVC junction
+*   **VV ECMO:** Double-lumen cannula inserted in RIJV advanced into right atrium
+*   Mostly used in non-post-cardiotomy neonates and infants requiring both cardiac and respiratory support
+*   Right-sided vessels preferred (left neck vessels can be used in exceptional circumstances)
+*   Important to ensure patency of contralateral arterial and venous vessels
+*   In neonates/infants: open dissection of vessels; larger patients: percutaneous Seldinger wire technique
+
+**Femoral cannulation (larger patients):**
+*   **VA ECMO:** Arterial cannula in femoral artery; venous cannula in femoral vein (preferably opposite side)
+*   Risk of leg ischaemia distal to femoral artery cannulation site with prolonged support
 
 ![](_page_17_Picture_5.jpeg)
 
-**Figure 13. Strategies to reduce the risk of leg ischaemia during prolonged periods of ECMO, including: A) an arterial cannula inserted into an interposition graft anastomosed to the femoral artery, which prevents occlusion of the artery; and B) a retrograde reperfusion cannula inserted in the superficial femoral artery to provide distal perfusion. FA = femoral artery; FV = femoral vein; SFA = superficial femoral artery.**
+**Figure 13. Strategies to reduce risk of leg ischaemia during prolonged ECMO: A) arterial cannula inserted into interposition graft anastomosed to femoral artery (prevents occlusion); B) retrograde reperfusion cannula inserted in superficial femoral artery for distal perfusion. FA = femoral artery; FV = femoral vein; SFA = superficial femoral artery.**
 
-• In VV ECMO, if a double-lumen cannula is not used via the right internal jugular vein in larger children, bilateral femoral venous
+**Leg ischaemia mitigation:**
+*   Side graft anastomosed on femoral artery, subcutaneously tunnelled and exteriorised 4–5 cm inferiorly with separate incision
+*   Retrograde reperfusion catheter (smaller size) in superficial femoral artery connected to femoral arterial cannula
 
-- cannulation is used, to drain venous blood from one, and infuse oxygenated blood into the other.
-- A combination of neck and femoral vein cannulation can be used to improve venous drainage.
+**VV ECMO (if double-lumen cannula not used in larger children):** Bilateral femoral venous cannulation (drain from one, infuse into the other)
 
-### 17 **What are the indications for <sup>a</sup> left heart vent in venoarterial extracorporeal membrane oxygenation?**
+**Combination:** Neck and femoral vein cannulation can improve venous drainage.
 
-- Adequate drainage of the right atrium should reduce left ventricular preload, so that even in the absence of significant ejection, the left ventricle should not distend.
-- In certain circumstances, however, the left ventricle can distend significantly, even when the pulmonary forward flow is substantially reduced, where a left atrial vent is beneficial, including:
-  - a) severe LV dysfunction with a prolonged lack of contraction and ejection — where venting may support recovery by reducing cardiac workload;
-  - b) mitral regurgitation where the ejecting ventricles are subject to volume overload;
-  - c) cyanotic patients where the pulmonary return may be increased due to arteriovenous collaterals;
-  - d) significant ventricular return and lack of adequate interatrial shunting;
-  - e) single ventricle circulations where deoxygenated blood, due to mixing, could be ejected into the coronary system, affecting myocardial recovery;
-  - f) severe ventricular arrhythmias;
-  - g) any situation requiring venting, where percutaneous septal fenestration cannot be obtained.
-- These indications are weighted against adding a second inflow line to the venous drainage with a 'Y' connector and the consequent increased risk of air embolisation in the circuit.
-- The left atrium can be accessed via the:
-  - a) right upper pulmonary vein;
-  - b) Waterston's groove;
-  - c) left atrial roof;
-  - d) let atrial appendage;
-  - e) left ventricular apex (uncommon).
+</div></details>
 
-### 18 **What are the principles of transitioning <sup>a</sup> patient from cardiopulmonary bypass to extracorporeal membrane oxygenation?**
+</div></details>
 
-- Following cardiac surgery with the patient still in the operating theatre, mechanical support should be considered when cardiac function is inadequate despite maximal medical therapy.
-- The institution of ECMO, however, should only be considered when the causes of failure are not attributable to residual surgical lesions, in which case these should be addressed first. The decision should be a multidisciplinary team decision, involving the surgeon, anaesthetist, cardiologist and intensivist.
-- Once all correctable lesions have been excluded, ECMO may be indicated with:
-  - a) severe right or left ventricular failure (normally myocardial stunning), with the inability to separate from CPB;
-  - b) rapid haemodynamic deterioration, unresponsive to increasing inotropic and vasopressor support;
-  - c) rapid deterioration in respiratory function, unresponsive to conventional ventilation;
-  - d) severe pulmonary hypertensive crisis, unresponsive to inhaled nitric oxide;
-  - e) cardiac arrest immediately after chest closure, unresponsive to chest reopening and CPR, or responsive but with residual myocardial stunning.
-- One of the challenges faced in such conditions is the choice of the transition method from CPB onto ECMO and depends mainly on the haemodynamic and respiratory status of the patient. The options include:
-  - a) completely weaning from CPB, administration of protamine with blood products and then controlled transition to ECMO. This is usually used for patients where respiratory failure is the predominant issue;
-  - b) immediate (or almost immediate) transition from CPB to ECMO, administering protamine to reach an ACT of approximately 200 seconds. This is usually used for patients who do not separate from CPB.
-- Blood loss while on ECMO cannot be saved and reinfused, leading to multiple blood transfusions and ECMO flow instability. In addition, surgical haemostasis is more difficult whilst on ECMO and surgical
+---
 
-manipulation of the heart can impair ECMO flow. A heparin-free run on ECMO for a limited period of time is an acceptable strategy to limit severe blood loss in these circumstances.
+<details class="med-details"><summary>
 
-### 19 **What are the indications for the use of extracorporeal membrane oxygenation in the intensive care unit?**
+## 5. Indications, Contraindications, and Clinical Scenarios</summary><div class="details-content">
 
-- According to current national standards, fully operational congenital heart disease surgical units are expected to provide ECMO support for a range of clinical situations, including:
-  - a) haemodynamic and/or respiratory support for patients with congenital heart disease following cardiac surgery;
-  - b) support for patients with or without structural heart disease, with acute medical cardiac conditions, such as myocarditis, malignant arrhythmias, cardiac arrest or failure of the newborn;
-  - c) support for patients with or without structural heart disease with acute medical non-cardiac conditions, such as sepsis;
-  - d) respiratory support for patients with respiratory failure.
-- There are two main scenarios in which ECMO is initiated and these can present on the basis on any of the above conditions:
-  - a) cardiac arrest and cardiopulmonary resuscitation where ECMO is normally instituted due to a failure to re-establish an adequate circulation or to support a stunned heart following the arrest. If after 5 minutes of internal CPR, the heart function has not regained, an ECPR protocol is deployed with central cardiac VA cannulation and initiation of ECMO. In non-surgical patients, cardiac surgical patients in whom established adhesions may delay central cannulation or patients with a significant risk of bleeding, closed massage and VA ECMO via neck cannulation should be considered;
-  - b) progressive deterioration of haemodynamic and/or respiratory function despite full medical support — where controlled cannulation and initiation of VA ECMO should be performed, with:
-    - i) neck cannulation for non-cardiac surgical patients;
-    - ii) central cannulation for cardiac surgical patients, provided there is an acceptable risk of bleeding.
-- In the majority of units, paediatric cardiac surgeons provide surgical support for institution of ECMO, including participating in the decision-making process and the provision of surgical cannulation.
+<details class="med-details"><summary>
 
-- Non-cardiac ECMO cannulation is also provided by general surgeons, interventional cardiologists and cardiac anaesthetists.
-- 20 What additional cardiorespiratory support is required for a patient whilst on veno-arterial extracorporeal membrane oxygenation?
-- In general, VA ECMO provides cardiorespiratory support and the need for inotropic, vasopressive and respiratory treatments are reduced.
-- After initiation of ECMO, cardiorespiratory medical support is gradually weaned, according to the haemodynamic state of the patient and ECMO flows.
-- Whilst adrenaline can be reduced to small doses in the first hour, vasopressors are often still needed in the first few hours following initiation of ECMO support and in some cases, longer. It is required to counteract vasodilatation that non-pulsatile flow induces on organ perfusion, with a non-ejecting heart, especially if concomitant sepsis is present, where severe vasodilatation could be seen after starting ECMO flow.
-- Once ECMO flow balance between preload and afterload is achieved, the need for vasopressor and inotropic support is reduced.
-- After initiation of ECMO, respiratory support is also reduced but minimal ventilation (on the resting setting) is maintained to guarantee oxygenation of the blood reaching the left heart, which will allow oxygenated blood to perfuse the coronary arteries, in case of heart ejection.
-- The circulatory management of respiratory VV ECMO can be quite different from the cardiac support required with VA ECMO in the surgical population.
-- Patients with patent BT shunts may require increased flows and the medical support needed to compensate for the resulting left-to-right shunting and reduction in systemic perfusion.
-- Patients with a single-ventricle circulation may require more afterload reduction to compensate for desaturation and limited systemic output.
-- 21 What are the exclusion criteria for neonatal extracorporeal membrane oxygenation support?
-- Gestational age <34 weeks.</li>
-- Body weight <2kg (limited by venous cannula size).</li>
-- Chronic lung disease >15 days on the ventilator.
+#### Indications for Left Heart Vent in Veno-Arterial ECMO</summary><div class="details-content">
 
-- Uncontrolled bleeding or coagulopathy.
-- Intracranial haemorrhage (Grade III).
-- Known non-correctable cardiac lesions before or after cardiac surgery.
-- Known non-cardiac congenital anomalies incompatible with life, including chromosomal abnormalities.
-- Severe trauma involving the central nervous system.
+Adequate RA drainage should reduce LV preload, preventing LV distension. However, left ventricle can distend significantly even with substantially reduced pulmonary forward flow. Left atrial vent is beneficial in:
 
-### 22 What are the indications for extracorporeal membrane oxygenation in the paediatric population?
+*   Severe LV dysfunction with prolonged lack of contraction and ejection (venting supports recovery by reducing cardiac workload)
+*   Mitral regurgitation (ejecting ventricles subject to volume overload)
+*   Cyanotic patients (pulmonary return increased due to arteriovenous collaterals)
+*   Significant ventricular return and lack of adequate interatrial shunting
+*   Single ventricle circulations (deoxygenated blood due to mixing could be ejected into coronary system, affecting myocardial recovery)
+*   Severe ventricular arrhythmias
+*   Any situation requiring venting where percutaneous septal fenestration cannot be obtained
 
-- In infants and older children, the indications for ECMO include:
-  - a) post-cardiotomy cardiac failure, including failure to separate from CPB;
-  - b) respiratory failure following cardiac surgery;
-  - c) acute cardiac failure following:
-    - i) intractable arrhythmias;
-    - ii) acute myocarditis;
-    - iii) pulmonary hypertensive crisis;
-    - iv) drugs and medication overdose;
-    - v) massive pulmonary embolism;
-  - d) cardiac arrest unresponsive to conventional CPR or myocardial stunning post-CPR:
-    - pre-operatively, in patients with a correctable cardiac condition;
-    - ii) postoperatively, following cardiac surgery;
-  - e) end-stage cardiac failure, as a bridge to VAD or transplantation;
-  - f) acute rejection of a transplanted heart or lung;
-  - g) acute medical conditions with failed escalating medical support, including sepsis or acute anaphylaxis;
-  - h) oncology patients or post-bone marrow transplantation, not responding to maximal medical support, with survival potential;
-  - i) peri-procedural support for high-risk percutaneous cardiac interventions.
+**Trade-off:** Adding second inflow line to venous drainage with 'Y' connector increases risk of air embolisation in circuit.
 
-## 23 What are the exclusion criteria for extracorporeal membrane oxygenation support in the paediatric population?
+**Left atrium access routes:**
+*   Right upper pulmonary vein
+*   Waterston's groove
+*   Left atrial roof
+*   Left atrial appendage
+*   Left ventricular apex (uncommon)
 
- Although exclusion criteria may vary according to institutional protocols developed to account for the local patient population, expertise and resources, general guidelines provided by the Extracorporeal Life Support Organization (ELSO) include:
+</div></details>
 
-- a) cardiac conditions, such as:
-  - i) unrepairable congenital heart disease;
-  - ii) severe aortic regurgitation;
-  - iii) unrepaired aortic dissection;
-  - iv) severe peripheral vascular disease, in older patients requiring VA ECMO;
-  - v) prolonged cardiac arrest >60 minutes;
-  - vi) repeated cardiac arrests;
-  - vii) failed CPR with evidence of severe multi-organ failure;
-  - viii) unwitnessed cardiac arrest;
-  - ix) out-of-hospital arrest (in some centres);
-- b) respiratory conditions, such as:
-  - i) >7-10 days on the ventilator, depending on age;
-  - ii) escalating ventilator settings, with PEEP >15cmH2O, mean airway pressure >25cm H2O, peak inspiratory pressure >45cm H2O;
-  - iii) severe anatomical lesions or injury;
-  - iv) fixed elevated PVR;
-  - v) chronic lung disease;
-- c) haematological conditions, such as:
-  - i) major life-threatening haemorrhage;
-  - ii) uncontrolled coagulopathy;
-  - iii) immunosuppression;
-  - iv) disseminated intravascular coagulopathy;
-- d) neurological conditions, such as:
-  - i) severe central nervous system injury;
-  - ii) infection;
-  - iii) hypoxic damage;
-  - iv) trauma;
-  - v) toxic insult;
-- e) metabolic conditions, such as:
-  - i) severe chronic organ dysfunction, involving the hepatobiliary, renal and respiratory systems;
-  - ii) severe metabolic failure (autoimmune disease);
-  - iii) oncological diseases of poor prognosis;
-  - iv) chromosomal abnormalities;
-- f) infective conditions, such as:
-  - i) uncontrolled septic shock.
+<details class="med-details"><summary>
 
-### 24 **Which imaging modalities are used for patients whilst on extracorporeal membrane oxygenation?**
+#### Transitioning a Patient from Cardiopulmonary Bypass to ECMO</summary><div class="details-content">
 
-• Chest radiography can be used to confirm the position of cannulae (Figure 14), immediately after cannulation and thereafter at set intervals depending on institutional protocols. It is important to note that cannulae differ slightly in their appearance on the chest radiograph.
+**Indications (after excluding residual surgical lesions):**
+*   Severe RV or LV failure (normally myocardial stunning) with inability to separate from CPB
+*   Rapid haemodynamic deterioration unresponsive to increasing inotropes/vasopressors
+*   Rapid deterioration in respiratory function unresponsive to conventional ventilation
+*   Severe pulmonary hypertensive crisis unresponsive to inhaled nitric oxide
+*   Cardiac arrest immediately after chest closure, unresponsive to chest reopening and CPR (or responsive but with residual myocardial stunning)
+
+**Transition methods:**
+*   **Complete wean from CPB → protamine with blood products → controlled transition to ECMO** (for predominantly respiratory failure)
+*   **Immediate (or almost immediate) transition from CPB to ECMO** with protamine to reach ACT ~200 seconds (for patients who do not separate from CPB)
+
+**Important considerations:**
+*   Blood loss on ECMO cannot be saved and reinfused → multiple transfusions, ECMO flow instability
+*   Surgical haemostasis more difficult on ECMO; surgical manipulation of heart can impair ECMO flow
+*   **Heparin-free run on ECMO for limited time** is acceptable strategy to limit severe blood loss
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Indications for ECMO in the Intensive Care Unit</summary><div class="details-content">
+
+According to current national standards, fully operational congenital heart disease surgical units provide ECMO support for:
+
+*   Haemodynamic and/or respiratory support for patients with congenital heart disease following cardiac surgery
+*   Support for patients with or without structural heart disease with acute medical cardiac conditions (myocarditis, malignant arrhythmias, cardiac arrest, failure of the newborn)
+*   Support for patients with or without structural heart disease with acute medical non-cardiac conditions (sepsis)
+*   Respiratory support for patients with respiratory failure
+
+**Two main initiation scenarios:**
+1.  **Cardiac arrest and CPR:** If after 5 minutes of internal CPR heart function has not regained → ECPR protocol with central cardiac VA cannulation. For non-surgical patients, cardiac surgical patients with established adhesions, or high bleeding risk → closed massage and VA ECMO via neck cannulation
+2.  **Progressive deterioration despite full medical support:** Controlled cannulation and VA ECMO (neck for non-cardiac surgical patients; central for cardiac surgical patients with acceptable bleeding risk)
+
+Paediatric cardiac surgeons provide surgical support for institution of ECMO (decision-making + surgical cannulation).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Additional Cardiorespiratory Support on VA ECMO</summary><div class="details-content">
+
+*   VA ECMO provides cardiorespiratory support; need for inotropic, vasopressive and respiratory treatments is reduced
+*   Cardiorespiratory support gradually weaned according to haemodynamic state and ECMO flows
+*   Adrenaline can be reduced to small doses in first hour
+*   Vasopressors often still needed in first few hours (counteracts vasodilatation induced by non-pulsatile flow, especially with non-ejecting heart or concomitant sepsis)
+*   Once ECMO flow balance between preload and afterload achieved, need for vasopressor and inotropic support reduced
+*   Minimal ventilation (resting setting) maintained to guarantee oxygenation of blood reaching left heart (allows oxygenated blood to perfuse coronaries in case of heart ejection)
+*   **Patients with patent BT shunts:** May require increased flows to compensate for left-to-right shunting and reduced systemic perfusion
+*   **Single-ventricle circulation:** May require more afterload reduction to compensate for desaturation and limited systemic output
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Exclusion Criteria for Neonatal ECMO Support</summary><div class="details-content">
+
+*   Gestational age <34 weeks
+*   Body weight <2 kg (limited by venous cannula size)
+*   Chronic lung disease >15 days on ventilator
+*   Uncontrolled bleeding or coagulopathy
+*   Intracranial haemorrhage (Grade III)
+*   Known non-correctable cardiac lesions before or after cardiac surgery
+*   Known non-cardiac congenital anomalies incompatible with life (including chromosomal abnormalities)
+*   Severe trauma involving the central nervous system
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Indications for ECMO in the Paediatric Population</summary><div class="details-content">
+
+*   Post-cardiotomy cardiac failure (including failure to separate from CPB)
+*   Respiratory failure following cardiac surgery
+*   Acute cardiac failure: intractable arrhythmias, acute myocarditis, pulmonary hypertensive crisis, drug overdose, massive pulmonary embolism
+*   Cardiac arrest unresponsive to conventional CPR or myocardial stunning post-CPR (pre-operatively in patients with correctable cardiac condition; postoperatively following cardiac surgery)
+*   End-stage cardiac failure (bridge to VAD or transplantation)
+*   Acute rejection of transplanted heart or lung
+*   Acute medical conditions with failed escalating medical support (sepsis, acute anaphylaxis)
+*   Oncology patients or post-bone marrow transplantation not responding to maximal medical support (with survival potential)
+*   Peri-procedural support for high-risk percutaneous cardiac interventions
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Exclusion Criteria for ECMO Support in the Paediatric Population (ELSO Guidelines)</summary><div class="details-content">
+
+**Cardiac conditions:**
+*   Unrepairable congenital heart disease
+*   Severe aortic regurgitation
+*   Unrepaired aortic dissection
+*   Severe peripheral vascular disease (older patients requiring VA ECMO)
+*   Prolonged cardiac arrest >60 minutes
+*   Repeated cardiac arrests
+*   Failed CPR with evidence of severe multi-organ failure
+*   Unwitnessed cardiac arrest
+*   Out-of-hospital arrest (in some centres)
+
+**Respiratory conditions:**
+*   >7–10 days on ventilator (depending on age)
+*   Escalating ventilator settings (PEEP >15 cmH₂O, mean airway pressure >25 cmH₂O, PIP >45 cmH₂O)
+*   Severe anatomical lesions or injury
+*   Fixed elevated PVR
+*   Chronic lung disease
+
+**Haematological conditions:**
+*   Major life-threatening haemorrhage
+*   Uncontrolled coagulopathy
+*   Immunosuppression
+*   Disseminated intravascular coagulopathy
+
+**Neurological conditions:**
+*   Severe CNS injury, infection, hypoxic damage, trauma, toxic insult
+
+**Metabolic conditions:**
+*   Severe chronic organ dysfunction (hepatobiliary, renal, respiratory systems)
+*   Severe metabolic failure (autoimmune disease)
+*   Oncological diseases of poor prognosis
+*   Chromosomal abnormalities
+
+**Infective conditions:**
+*   Uncontrolled septic shock
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 6. Monitoring, Imaging, and Daily Management</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Imaging Modalities for Patients on ECMO (Figures 14, 15)</summary><div class="details-content">
 
 ![](_page_24_Picture_4.jpeg)
 
-**Figure 14. Chest radiograph in different patients on veno-arterial extracorporeal membrane oxygenation, immediately following: A) central cannulation, with a right-angled venous cannula in the right atrium and a straight arterial cannula in the aorta; and B) neck cannulation, with the venous cannula longer, reaching the RA, and armed until approximately 5cm from the tip, which is not radiopaque.**
+**Figure 14. Chest radiograph on VA ECMO: A) central cannulation (right-angled venous cannula in RA, straight arterial cannula in aorta); B) neck cannulation (venous cannula longer, reaching RA, armed until ~5 cm from tip — not radiopaque).**
 
-- It is often the first line of investigation to assess cannula dislodgment or malposition, and can also identify any kinks or damage.
-- It can also be helpful to visualise the endotracheal tube, lung pathology, pleural collections and cardiac shadow.
-- Echocardiography is critical to confirm the position of the cannulae, cardiac function, the presence of any atrial communication and the diagnosis of any congenital defect not yet identified (Figure 15).
-- Importantly, it is also used to indicate the progression of the patient on ECMO and allows plans to be made for weaning and disconnection from ECMO support.
+**Chest radiography:**
+*   Confirms cannula position (immediately after cannulation and at set intervals)
+*   Cannulae differ slightly in appearance on CXR
+*   First-line investigation for cannula dislodgment, malposition, kinks, damage
+*   Visualises endotracheal tube, lung pathology, pleural collections, cardiac shadow
 
 ![](_page_25_Picture_2.jpeg)
 
-**Figure 15. Echocardiographic images demonstrating venous cannula position for: A) veno-veno extracorporeal membrane oxygenation; and B) veno-arterial extracorporeal membrane oxygenation. RA = right atrium.**
+**Figure 15. Echocardiographic images demonstrating venous cannula position for: A) VV ECMO; B) VA ECMO. RA = right atrium.**
 
-- Computed tomography (CT) scanning can be used to investigate the cardiac and respiratory systems, whilst the patient is on ECMO. It is also useful in assessing the central nervous system, if any neurological symptoms are present.
-- CT angiography allows visualisation of cardiac structures and the adequacy of surgical repair. In such cases, a brief period of reduced or no ECMO flow can be employed to fill the cardiac structures, while ventilating the patient fully.
-- Angiography is occasionally used to visualise anatomy and also to perform cardiac interventions, as required.
-- Ultrasound scanning is used to diagnose involvement of the central nervous system and intra-abdominal organs, and Doppler scanning to visualise distal limb perfusion in patients with femoral cannulation.
+**Echocardiography:**
+*   Critical to confirm cannula position, cardiac function, presence of atrial communications, diagnosis of unidentified congenital defects
+*   Indicates progression of patient on ECMO; allows plans for weaning and disconnection
 
-### 25 **What are the ventilation settings on extracorporeal membrane oxygenation?**
+**Computed tomography (CT):**
+*   Investigates cardiac and respiratory systems; CNS if neurological symptoms present
+*   CT angiography with brief period of reduced or no ECMO flow to fill cardiac structures (while ventilating fully)
 
-- Whilst on ECMO, full gas exchange in the lung is not required and ventilation is usually adjusted to rest settings.
-- This allows for the lungs to be ventilated with lower volumes and pressures, facilitating lung recovery by preventing barotrauma.
-- The usual settings of <sup>a</sup> patient on ECMO are FiO2 30%, PEEP 3- 5cm H2O, respiratory rate rpm, tidal volume 5-10mL/kg, with adjustments made according to the patient's requirements.
+**Angiography:** Visualises anatomy; performs cardiac interventions as required
 
-In patients with cardiac ejection whilst on VA ECMO, it is advisable
-to increase the mechanical ventilation settings, given the increased
-pulmonary venous return, to allow for adequate coronary perfusion
-with oxygenated blood.
+**Ultrasound scanning:** Diagnoses CNS and intra-abdominal organ involvement
 
-### 26 What procedures can be performed whilst on extracorporeal membrane oxygenation?
+**Doppler scanning:** Visualises distal limb perfusion (patients with femoral cannulation)
 
-- Chest drain insertion for pneumothorax, haemothorax or chylothorax.
-- Insertion of central lines, arterial lines or a vascular catheter (for haemofiltration).
-- Orotracheal intubation.
-- Balloon atrial septostomy.
-- Diagnostic or interventional cardiac catheterisation.
-- Computed tomography scan.
-- Transoesophageal and transthoracic echocardiogram.
-- Bronchoscopy.
-- Abdominal procedures and peritoneal dialysis catheter placement.
+</div></details>
 
-# 27 Describe the principles of anticoagulation management whilst on extracorporeal membrane oxygenation
+<details class="med-details"><summary>
 
-- One major advantage of ECMO compared to CPB is the lower heparin requirement and lower activated clotting time (ACT). The ACT, however, needs to be checked regularly to avoid under- or overheparinisation.
-- Generally, an ACT of 250 seconds is required to start ECMO and this is obtained with heparin 100 IU/kg administered just prior to cannulation, depending on local protocols.
-- Regular checks are carried out at 15-minute intervals for the first 2 hours, every 30 minutes for the next hour and finally hourly if the ACT is within the desired parameters.
-- A heparin infusion is then started at 0.5mL/hr or 10 IU/kg/hr and titrated accordingly, to maintain an ACT of seconds (or seconds, if bleeding is present).
-- In the event of a low ACT, the heparin infusion is increased by 0.2mL/hr and the ACT is checked every 15 minutes until stable.
-- If a bolus is required, IU/kg is administered in addition to increasing the infusion by 0.2mL/hr and the ACT is rechecked every 15 minutes.
+#### Ventilation Settings on ECMO</summary><div class="details-content">
 
-- A higher ACT may be required when:
-  - a) increasing clot or fibrin formation is visible within the circuit;
-  - b) less than ideal flows are reached;
-  - c) during weaning and trial off ECMO.
-- A lower ACT may be required in the presence of persistent bleeding, despite optimising clotting factors or after surgical intervention.
-- If bleeding is persistent, the heparin infusion can be stopped, and correction of the coagulation status is achieved by administration of platelets, fresh frozen plasma and cryoprecipitate, according to the clotting results.
-- Careful management of the circuit with monitoring of clot formation and fibrous strands within the circuit should be performed. The membrane oxygenator is the most vulnerable component of the circuit at risk of clotting. Monitoring of the transmembrane gradient is paramount to prevent sudden clotting of the oxygenator, causing the pump to acutely fail.
-- Once bleeding is corrected, the heparin infusion should be restarted, as above.
+*   Full gas exchange not required; ventilation adjusted to rest settings
+*   Allows lungs to be ventilated with lower volumes and pressures, facilitating recovery by preventing barotrauma
 
-### 28 **What are the principles of weaning <sup>a</sup> patient from extracorporeal membrane oxygenation?**
+**Usual settings:**
+*   FiO₂ 30%
+*   PEEP 3–5 cmH₂O
+*   Respiratory rate 5–10 rpm
+*   Tidal volume 5–10 mL/kg
 
-- Weaning a patient from ECMO is a complex and difficult procedure, which requires a multidisciplinary team approach. The respiratory, cardiac, renal and general status of the patient need to be taken into consideration before attempting separation from cardiorespiratory support.
-- Prior to the commencement of a weaning trial, the following conditions should be evaluated:
-  - a) pulmonary function to assess chest mechanics, the presence of any pleural effusions, pneumothorax, pleural effusions, residual lesions and airway problems by chest radiography, and lung compliance by manual ventilation of the patient. Occasional, inhaled nitric oxide may be required to reduce pulmonary vascular resistance;
-  - b) cardiac function by serial echocardiography to assess regional and global function, myocardial contractility and ventricular compliance at rest before the weaning process. In cases where ECMO is required for cardiac failure, a more indepth analysis of cardiac function in response to progressive loading might be required before embarking on a full weaning process (i.e. hours before). This is called a 'stress echo'
+**Adjustments made according to patient's requirements**
 
-and it is achieved by temporarily increasing the ACT to 250 seconds, starting conventional ventilation and progressively reducing the flow by 25% decrements until the circulation is stopped for seconds. In cases where a left heart vent is present, it is reasonable to clamp it for the duration of the stress echo which should be kept short (2-3 minutes) to avoid clot formation in the circuit. While the ECMO flows are reducing, an echocardiogram is continuously performed to assess myocardial systolic and diastolic function, global and regional contractility and any valve dysfunction. In our experience, a stress echo provides important information about progression in the recovery of cardiac function and the timing of the ECMO wean;
+**Note:** In patients with cardiac ejection on VA ECMO, increase mechanical ventilation settings (increased pulmonary venous return requires adequate coronary perfusion with oxygenated blood)
 
-- c) renal function where alternative strategies should be considered following a successful weaning (peritoneal dialysis, peripheral CVVH), if replacement therapy was used on ECMO via the side ports;
-- d) fluid balance increasing oncotic pressure and the use of vasopressor drugs may be required to limit or reverse fluid extravasation as a consequence of the inflammatory response to ECMO;
-- e) vascular function with inotropic and vasopressor support, started before an attempt at weaning;
-- f) metabolic status with worsening lactic acidosis, unstable glycaemia and evidence of worsening multi-organ failure on ECMO being poor predictors of a successful wean;
-- g) neurologic status where head ultrasound or magnetic resonance imaging may be required to document intracranial anatomy and functional status;
-- h) infective conditions where worsening signs of sepsis prior to weaning is a poor predictor of outcomes.
-- The ACT is generally raised to 300 seconds by increasing the heparin infusion, to reduce clot formation in the cannulae and circuit whilst reducing flow.
-- The process of weaning requires a gradual reduction of the flow, so that over the course of hours, the ECMO flow is reduced in steps of 25%.
-- During the weaning period, blood gas analysis is performed regularly and the ventilation parameters are adjusted accordingly. Systemic lactate levels are taken into account as part of the assessment of systemic perfusion.
-- Weaning from the ECMO circuit is completed by clamping the venous line, unclamping the bridge and then clamping the arterial line, following which the child is isolated from the circuit and the heart takes over the systemic perfusion.
+</div></details>
 
-- The cannulae are left in place and the ECMO circuit continues to run via the bridge, in case the child fails the weaning trial.
-- Every minutes, the cannulae are flushed to avoid blood stagnation and clot formation.
-- Signs of early failure of an ECMO weaning trial include:
-  - a) poor haemodynamic performance with declining systemic arterial pressure;
-  - b) increasing right and/or left atrial pressure;
-  - c) poor ventricular function on echocardiogram;
-  - d) arrhythmias;
-  - e) poor peripheral perfusion with increasing systemic lactate, hypoxia, hypercarbia and acidosis;
-  - f) poor oxygenation and high end-tidal CO2.
-- In some cases, a 'one-way wean' strategy is adopted, where ECMO will not be reinstituted in the case of early failure. This is a difficult decision that must be taken by the most senior multidisciplinary team and adopted in cases of manifest inadequacy of the native cardiorespiratory system. Given the nature of active withdrawal of care, it is important to involve the parents in the decision-making process.
-- If the trial is successful, the patient is decannulated. In patients with central cannulation via a median sternotomy, a policy of 'delayed sternal closure' is employed. In patients with neck decannulation, vessel reconstruction should be attempted but if no reasonable patency is obtained, vessel ligation may be required.
-- An ACT is then performed and protamine is administered to reverse heparin to reach an ACT of seconds.
+<details class="med-details"><summary>
 
-### 29 **What are the outcomes of patients undergoing extracorporeal membrane oxygenation following paediatric cardiac surgery?**
+#### Procedures That Can Be Performed on ECMO</summary><div class="details-content">
 
-- In general, survival to hospital discharge following cardiac ECMO is 40-50% and is influenced by several factors:
-  - a) time spent on ECMO where increased duration of ECMO support is associated with a lower survival. Beyond an ECMO duration of 7 days, the odds of mortality increase by 12% per every extra day on ECMO;
-  - b) pre-operative conditions where low weight, preterm birth, pre-operative necrotising enterocolitis are recognised risk factors for mortality;
-  - c) postoperative complications where renal failure requiring renal replacement therapy, neurological impairment, bleeding and developing necrotising enterocolitis whilst on ECMO, all carry higher mortality;
+*   Chest drain insertion (pneumothorax, haemothorax, chylothorax)
+*   Central line, arterial line, vascular catheter (for haemofiltration) insertion
+*   Orotracheal intubation
+*   Balloon atrial septostomy
+*   Diagnostic or interventional cardiac catheterisation
+*   Computed tomography scan
+*   Transoesophageal and transthoracic echocardiogram
+*   Bronchoscopy
+*   Abdominal procedures and peritoneal dialysis catheter placement
 
-- d) neurological sequelae where longer CPB (>400 minutes) and the use of deep hypothermic circulatory arrest at the cardiac operation, are determinants of an increased risk of a neurological insult, if the patient needs VA ECMO postoperatively.
-- 30 **What are the outcomes of extracorporeal membrane oxygenationintheneonatalpaediatricpopulation(Table4)?**
+</div></details>
 
-**Table 4. Outcomes following paediatric extracorporeal membrane oxygenation produced by the Extracorporeal Life Support Organization (ELSO) in 2018.**
+<details class="med-details"><summary>
 
-|            | qçí~ä<br>êìåë | pìêîáîÉÇ<br>b`ip |     | pìêîáîÉÇ<br>íç<br>ÇáëÅÜ~êÖÉ<br>çê<br>íê~åëÑÉê |     |
-|------------|---------------|------------------|-----|-----------------------------------------------|-----|
-| Neonatal   |               |                  |     |                                               |     |
-| Pulmonary  |        |           | 84% |                                        | 73% |
-| Cardiac    | 7794          | 5063             | 64% | 3281                                          | 42% |
-| ECPR       | 1718          | 1140             | 66% | 708                                           | 41% |
-| Paediatric |               |                  |     |                                               |     |
-| Pulmonary  | 8820          | 5953             | 67% | 5131                                          | 58% |
-| Cardiac    |        | 7177             | 68% | 5447                                          | 52% |
-| ECPR       | 3946          | 2262             | 57% | 1675                                          | 42% |
-|            |               |                  |     |                                               |     |
+#### Principles of Anticoagulation Management on ECMO</summary><div class="details-content">
 
-### 31 **What are the potential complications of extracorporeal membrane oxygenation?**
+*   Major advantage of ECMO over CPB: lower heparin requirement and lower ACT
+*   ACT must be checked regularly to avoid under- or over-heparinisation
 
-- As complications of ECMO are common, each patient is likely to develop an ECMO-related complication. Although circuit-related complications are rare, they are significant.
-- Complications that occur during cannulation include:
-  - a) damage to the cannulating vessels, including dissection;
-  - b) haemothorax, pneumothorax (Figure 16);
-  - c) haemopericardium and tamponade;
-  - d) accidental dislodgement of the cannulae or malposition;
-  - e) limb ischaemia, especially in femoral cannulation.
-- Complications that occur whilst the child is on ECMO include:
-  - a) bleeding (both minor and major);
-  - b) thrombus in the circuit (tubing, oxygenator), or haemolysis;
+**Target ACT:**
+*   250 seconds to start ECMO (heparin 100 IU/kg just prior to cannulation)
+*   220–250 seconds maintenance (180–200 seconds if bleeding present)
+
+**Monitoring schedule:**
+*   q15 minutes × first 2 hours
+*   q30 minutes × next hour
+*   Then hourly if ACT within desired parameters
+
+**Heparin infusion:** Start at 0.5 mL/hr or 10 IU/kg/hr, titrated accordingly
+
+**Low ACT management:**
+*   Increase infusion by 0.2 mL/hr; check ACT q15 minutes until stable
+*   If bolus required: 5–10 IU/kg + increase infusion by 0.2 mL/hr
+
+**Higher ACT required when:**
+*   Increasing clot or fibrin formation visible in circuit
+*   Less than ideal flows reached
+*   During weaning and trial off ECMO
+
+**Lower ACT (persistent bleeding despite optimising clotting factors or after surgical intervention):**
+*   Heparin infusion can be stopped
+*   Correct coagulation status with platelets, FFP, cryoprecipitate (according to clotting results)
+
+**Circuit monitoring:**
+*   Membrane oxygenator is most vulnerable component at risk of clotting
+*   Monitoring transmembrane gradient is paramount to prevent sudden oxygenator clotting → pump acutely fails
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### General Parameter Guidelines for Paediatric ECMO Support</summary><div class="details-content">
+
+| Parameter | Target |
+|-----------|--------|
+| ACT | 160–220 seconds |
+| PaO₂ (VA) | 60–80 mmHg |
+| PaO₂ (VV) | 45–80 mmHg |
+| Haemoglobin (VA) | 13–15 g/dL |
+| Haemoglobin (VV) | 15 g/dL |
+| Haematocrit (VA) | >40 |
+| Haematocrit (VV) | >45 |
+| pH | 7.35–7.45 |
+| PaCO₂ | 35–45 mmHg |
+| Platelet count | >75 × 10⁹/L |
+| Urine output | >2 mL/kg/hour |
+| Heparin | 25–50 units/kg/hour (adjust for renal function, bleeding, haemofilter) |
+| Venous O₂ saturation | 70–75% |
+| Fluid requirements | 20–100 mL/kg/day (<10 kg: 100 mL; 10–20 kg: 50 mL; >20 kg: 20 mL) |
+| Calorie requirements | 60–90/kg/day |
+| VA ECMO flow | 100 mL/kg/min × 0.8 (80% of estimated CO) |
+| VV ECMO flow | 80–120 mL/kg/min (adjust for recirculation and effective flow) |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Steps When Commencing ECMO</summary><div class="details-content">
+
+1.  After completing cannulation, check circuit, cannula position, patient, ensure cannulae secure
+2.  Open clamp on venous line above bridge
+3.  Close clamp on bridge
+4.  Open clamp on arterial line above bridge
+5.  Slowly increase blood flow
+6.  Monitor cardiovascular response
+7.  Wean off ventilation support
+8.  Wean off inotropic support
+9.  Re-evaluate circuit for air bubbles
+10. Check all connections and ports
+11. Check console, transducers, all other electrical components are operational
+12. Perform calculations regarding flow, sweep, FiO₂, drug and fluid infusions
+13. Check ACT or APTT; adjust heparin as appropriate
+14. Optimise clotting profile
+15. Inform all personnel about set parameters and alarms
+16. Recheck cannulae are secure
+17. Request echocardiogram and chest radiograph as appropriate
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Principles of Daily Management for a Patient on ECMO</summary><div class="details-content">
+
+**General:**
+*   Regularly check cannulation site, cannulae, circuit (mechanical and electrical components)
+*   Patient head position: midline, up to 30°
+
+**Cardiovascular system:**
+*   Maintain systemic perfusion and intravascular volume
+*   Monitor urine output, CVP, physical signs of perfusion, body weight
+*   Use echocardiography as required
+*   Check circuit for clots and overall integrity
+*   Regular ECG and relevant blood tests
+
+**Respiratory system:**
+*   Ventilation settings
+*   Evaluate ABGs and chest radiograph
+*   Avoid secretion build-up in ETT; pulmonary hygiene with flexible bronchoscopy as required
+
+**Renal system:**
+*   First 48 hours: high incidence of acute tubular necrosis and oliguria. Thereafter, urine output usually increases to >2 mL/kg/hr
+*   If renal function does not improve → add CRRT to circuit
+*   Renal blood test may be required daily according to function
+
+**Central nervous system:**
+*   Avoid paralytic agents
+*   Regular sedation holds and neurological examinations (pupil size/reaction, reflexes, LOC, normal/abnormal movements)
+*   Head US or CT as required (CT requires transport to radiology on ECMO)
+
+**Infection control:**
+*   All procedures and interventions follow aseptic techniques
+*   Check all sites for infection
+*   Send appropriate cultures (blood, sputum, urine)
+*   Antibiotics as indicated
+
+**Fluids, electrolytes, nutrition:**
+*   Regular monitoring of electrolytes (Mg²⁺, Ca²⁺, PO₄³⁻)
+*   Close monitoring of fluid balance, high calorie intake, nutritional support as required
+
+**Surgical team:**
+*   Daily checks of cannulation site, cannulae, circuit
+*   Assist in dressing changes
+*   Available to transport patient
+*   Available to perform any invasive procedure
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## 7. Weaning, Outcomes, and Complications</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Principles of Weaning a Patient from ECMO</summary><div class="details-content">
+
+Weaning requires multidisciplinary team approach. Respiratory, cardiac, renal and general status must be considered before attempting separation.
+
+**Pre-weaning evaluation:**
+
+| System | Assessment |
+|--------|------------|
+| **Pulmonary** | CXR (pleural effusions, pneumothorax, residual lesions, airway problems); lung compliance (manual ventilation); consider iNO for elevated PVR |
+| **Cardiac** | Serial echocardiography (regional/global function, contractility, compliance). "Stress echo" (12–24 hours before): increase ACT to 250 sec, start conventional ventilation, reduce flow by 25% decrements to stop for 30–60 sec; continuous echo to assess systolic/diastolic function, contractility, valve dysfunction |
+| **Renal** | Alternative strategies (peritoneal dialysis, peripheral CVVH) if RRT used on ECMO via side ports |
+| **Fluid balance** | Increase oncotic pressure; vasopressor drugs may be required |
+| **Vascular** | Inotropic and vasopressor support started before weaning attempt |
+| **Metabolic** | Worsening lactic acidosis, unstable glycaemia, worsening MOF on ECMO = poor predictors |
+| **Neurologic** | Head US or MRI for intracranial anatomy and functional status |
+| **Infective** | Worsening signs of sepsis = poor predictor |
+
+**Weaning process:**
+*   ACT raised to 300 seconds (increase heparin infusion) to reduce clot formation in cannulae and circuit while reducing flow
+*   Reduce flow in steps of 25% over 1–2 hours
+*   Regular blood gas analysis; adjust ventilation parameters accordingly
+*   Systemic lactate levels assessed as part of systemic perfusion evaluation
+*   **Completion:** Clamp venous line → unclamp bridge → clamp arterial line → child isolated from circuit, heart takes over systemic perfusion
+*   Cannulae left in place; ECMO circuit continues to run via bridge (in case of weaning failure)
+*   Cannulae flushed every 15–20 minutes (prevents blood stagnation and clot formation)
+
+**Signs of early weaning failure:**
+*   Poor haemodynamic performance (declining systemic arterial pressure)
+*   Increasing right and/or left atrial pressure
+*   Poor ventricular function on echocardiogram
+*   Arrhythmias
+*   Poor peripheral perfusion with increasing lactate, hypoxia, hypercarbia, acidosis
+*   Poor oxygenation and high end-tidal CO₂
+
+**"One-way wean" strategy:** ECMO not reinstituted in case of early failure. Difficult decision by most senior MDT, in cases of manifest inadequacy of native cardiorespiratory system. Involve parents in decision-making.
+
+**If successful:**
+*   Decannulation
+*   Central cannulation (median sternotomy) → delayed sternal closure
+*   Neck decannulation → vessel reconstruction (ligation if reasonable patency not obtained)
+*   ACT performed; protamine administered to reverse heparin to ACT 100–120 seconds
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Outcomes of Patients on ECMO Following Paediatric Cardiac Surgery</summary><div class="details-content">
+
+*   **Survival to hospital discharge following cardiac ECMO: 40–50%**
+
+**Factors influencing survival:**
+*   **Time spent on ECMO:** Increased duration associated with lower survival. Beyond 7 days, odds of mortality increase by 12% per extra day
+*   **Pre-operative conditions:** Low weight, preterm birth, pre-operative necrotising enterocolitis = recognised risk factors
+*   **Postoperative complications:** Renal failure requiring RRT, neurological impairment, bleeding, developing NEC on ECMO = higher mortality
+*   **Neurological sequelae:** Longer CPB (>400 minutes) and use of DHCA = determinants of increased risk of neurological insult if patient needs VA ECMO postoperatively
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Outcomes of ECMO in the Neonatal Paediatric Population (Table 4 — ELSO 2018)</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+##### TABLE 4: Outcomes Following Paediatric Extracorporeal Membrane Oxygenation (ELSO 2018)</summary><div class="details-content">
+
+| Population | Total Runs | Survived ECLS | Survived to Discharge/Transfer |
+|------------|------------|---------------|-------------------------------|
+| **Neonatal Pulmonary** | 30,934 | 84% | 73% |
+| **Neonatal Cardiac** | 7,794 | 64% | 42% |
+| **Neonatal ECPR** | 1,718 | 66% | 41% |
+| **Paediatric Pulmonary** | 8,820 | 67% | 58% |
+| **Paediatric Cardiac** | 10,462 | 68% | 52% |
+| **Paediatric ECPR** | 3,946 | 57% | 42% |
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Potential Complications of ECMO (Figures 16–18)</summary><div class="details-content">
+
+Complications are common; each patient likely to develop an ECMO-related complication. Circuit-related complications are rare but significant.
+
+**Cannulation-related:**
+*   Damage to cannulating vessels (including dissection)
+*   Haemothorax, pneumothorax (Figure 16)
+*   Haemopericardium and tamponade
+*   Accidental dislodgement or malposition of cannulae
+*   Limb ischaemia (especially femoral cannulation)
 
 ![](_page_31_Picture_2.jpeg)
 
-**<sup>416</sup> Figure 16. Chest radiograph demonstrating <sup>a</sup> pneumothorax following venous cannulation for extracorporeal membrane oxygenation.**
+**Figure 16. Chest radiograph demonstrating a pneumothorax following venous cannulation for ECMO.**
+
+**On-ECMO complications:**
+*   Bleeding (minor and major)
+*   Thrombus in circuit (tubing, oxygenator); haemolysis
+*   Air within circuit
+*   Motor failure, pump failure, console failure
+*   Oxygenator failure
+*   Tubing rupture or line component failure
+*   Cerebral bleed (Figure 17), infarction, oedema
+*   Infection
+*   Accidental displacement and decannulation (Figure 18)
+*   Complications from other systems (especially renal and gastrointestinal)
+*   General ICU-related complications
 
 ![](_page_31_Picture_4.jpeg)
 
-**Figure 17. An axial computed tomography scan demonstrating a significant cerebral bleed in a child whilst on extracorporeal membrane oxygenation.**
-
-- c) air within the circuit;
-- d) motor failure, pump failure or console failure;
-- e) oxygenator failure;
-- f) tubing rupture or failure of the line components;
-- g) cerebral bleed, infarction or oedema (Figure 17);
-- h) infection;
-- i) accidental displacement and decannulation (Figure 18);
-- j) complications from other systems, especially renal and gastrointestinal;
-- k) general ICU-related complications.
+**Figure 17. Axial CT scan demonstrating a significant cerebral bleed in a child on ECMO.**
 
 ![](_page_32_Picture_11.jpeg)
 
-**Figure 18. Chest radiograph demonstrating accidental arterial decannulation of a child whilst on extracorporeal membrane oxygenation.**
+**Figure 18. Chest radiograph demonstrating accidental arterial decannulation of a child on ECMO.**
 
-### 32 **Describe the principles of managing emergency extracorporeal membrane oxygenation scenarios**
+</div></details>
 
-- Veno-veno ECMO hypoxia:
-  - a) check that the pump flow is over two-thirds of the patient's cardiac output;
+</div></details>
 
-- b) administer 100% FiO2 from the oxygenator, aiming to achieve a pO2 >150mmHg;
-- c) increase pump flow;
-- d) increase ventilation;
-- e) cool the patient;
-- f) administer muscle relaxants;
-- g) maintain haemoglobin levels;
-- h) add a second access line to reduce the shunt.
+---
 
-### • Veno-veno ECMO hypercarbia:
+<details class="med-details"><summary>
 
-- a) check that the pump flow is over two-thirds of the patient's cardiac output;
-- b) increase the O2 flow to the oxygenator to twice the pump flow rate;
-- c) increase the pump flow rate (otherwise consider that recirculation may be occurring);
-- d) increase ventilation;
-- e) cool the patient;
-- f) administer muscle relaxants.
+## 8. Emergency Scenarios and Technical Procedures</summary><div class="details-content">
 
-### • Veno-veno ECMO shunting or recirculation:
+<details class="med-details"><summary>
 
-- a) observe the cannula position as pump flow may not improve oxygenation;
-- b) check that the pre-membrane (venous) pO2 is <50mmHg;
-- c) reposition the cannula (if required).
+#### Principles of Managing Emergency ECMO Scenarios</summary><div class="details-content">
 
-### • Veno-arterial ECMO hypoxaemia:
+**VV ECMO hypoxia:**
+*   Check pump flow >⅔ patient's cardiac output
+*   Administer 100% FiO₂ from oxygenator (aim pO₂ >150 mmHg)
+*   Increase pump flow
+*   Increase ventilation
+*   Cool the patient
+*   Administer muscle relaxants
+*   Maintain haemoglobin levels
+*   Add second access line to reduce shunt
 
-- a) check the arterial blood gas from the right radial arterial line and O2 saturation measured on the right hand or forehead;
-- b) ensure proper functioning of the oxygenator return line pO2 >150mmHg;
-- c) increase the pump flow as high as possible;
-- d) increase ventilation, PEEP and inspired O2 concentration;
-- e) readjust or replace the arterial line, if required.
+**VV ECMO hypercarbia:**
+*   Check pump flow >⅔ patient's cardiac output
+*   Increase O₂ flow to oxygenator to twice pump flow rate
+*   Increase pump flow rate (otherwise consider recirculation)
+*   Increase ventilation
+*   Cool the patient
+*   Administer muscle relaxants
 
-### • Veno-arterial ECMO hypercarbia:
+**VV ECMO shunting or recirculation:**
+*   Observe cannula position (pump flow may not improve oxygenation)
+*   Check pre-membrane (venous) pO₂ <50 mmHg
+*   Reposition cannula if required
 
-- a) check for adequate pump flow (over two-thirds of the patient's cardiac output);
-- b) adjust the supply of O2 to the oxygenator, to twice the pump flow rate;
+**VA ECMO hypoxaemia:**
+*   Check ABG from right radial arterial line and O₂ saturation on right hand or forehead
+*   Ensure oxygenator return line pO₂ >150 mmHg
+*   Increase pump flow as high as possible
+*   Increase ventilation, PEEP, and inspired O₂ concentration
+*   Readjust or replace arterial line if required
 
-- c) increase the pump flow rate;
-- d) increase ventilation;
-- e) cool the patient;
-- f) administer a muscle relaxant.
+**VA ECMO hypercarbia:**
+*   Check for adequate pump flow (>⅔ patient's cardiac output)
+*   Adjust O₂ supply to oxygenator to twice pump flow rate
+*   Increase pump flow rate
+*   Increase ventilation
+*   Cool the patient
+*   Administer muscle relaxant
 
-### • Veno-arterial ECMO bleeding:
+**VA ECMO bleeding:**
+*   Prevention = primary objective (meticulous haemostasis, monitoring coagulation status: ACT, APTT, FBC, D-dimer, fibrinogen)
+*   Maintain APTT 50–75 seconds with heparin infusion (can be withheld if patient bleeding; heparin-coated circuits can run days without heparin)
+*   Transfuse platelets, cryoprecipitate, FFP, packed cells as needed
+*   Administer antifibrinolytic agents (e.g., IV tranexamic acid)
+*   Consider surgical exploration
 
-- a) prevention is the primary objective by meticulous haemostasis and monitoring coagulation status (ACT, APTT, FBC, D-dimer, fibrinogen);
-- b) maintain an APTT of seconds with a heparin infusion (but can be withheld if the patient is bleeding). Heparin-coated circuits can run for a couple days without heparin;
-- c) transfuse platelets, cryoprecipitate, FFP, packed cells as needed;
-- d) administer antifibrinolytic agents, such as IV tranexamic acid;
-- e) consider surgical exploration.
-- Veno-arterial ECMO haemolysis which may be caused by a clot in the circuit or near the cannula orifice, obstruction at the circuit, increased speed of the pump, deranged coagulation cascade or liver dysfunction. Presenting signs include haematuria, hyperkalaemia, renal failure, jaundice (late sign) and shaking of the lines due to changes in pressure (cavitating). Management includes the following:
-  - a) monitor haemoglobin, liver function tests, urea & electrolytes and clotting screen;
-  - b) replace the volume;
-  - c) adjust the pump flow;
-  - d) a transoesophageal echocardiogram (TOE) to ensure that the cannulae are not obstructed;
-  - e) circuit change, if required.
+**VA ECMO haemolysis:**
+*   Causes: clot in circuit/near cannula orifice, circuit obstruction, increased pump speed, deranged coagulation cascade, liver dysfunction
+*   Presenting signs: haematuria, hyperkalaemia, renal failure, jaundice (late sign), shaking of lines (cavitating)
+*   Management: monitor Hb, LFTs, U&Es, clotting screen; replace volume; adjust pump flow; TOE to ensure cannulae not obstructed; circuit change if required
 
-### • Unable to maintain veno-arterial ECMO flow:
+**Unable to maintain VA ECMO flow:**
+*   Check cannula position and volume status; improve if possible
+*   Check for kinking of lines or cannulae
+*   Blood sample from pre- and post-oxygenator
+*   Echocardiogram and CXR to identify intracardiac cannula position
+*   Optimise fluid status, preload, afterload, contractility
+*   Decrease pump speed to reduce suction on catheter, then increase speed to normal smoothly and quickly
+*   Consider changing faulty components
 
-- a) check the position of the cannulae and volume status and improve if possible;
-- b) check for any kinking of the lines or cannulae;
-- c) blood sample from pre- and post-oxygenator;
-- d) perform an echocardiogram and chest radiograph to identify the intracardiac position of the cannulae;
-- e) optimise fluid status, preload, afterload and contractility;
-- f) decrease the pump speed to reduce the suction on the catheter, followed by increasing the speed to normal as smoothly and quickly as possible;
+**Pump failure:**
+*   Call for help (PICU, surgical, perfusion teams)
+*   Conventional ventilation to support respiratory system
+*   Haemodynamic support with inotropes and vasoconstrictors
+*   If no flow, consider thrombus risk while ECMO not working
+*   If pump head failure: use back-up console, battery, check wall power
+*   If electrical issue: clamp lines, turn off pump, commence hand cranking, evaluate pump head integrity. Consider changing pump head, turn to minimal rpm (1000–1500), remove clamps, gradually increase rpm. Check for thrombus
+*   If pump head failure: clamp lines, stop pump, replace pump head, turn to minimal rpm (1000–1500), remove clamps, gradually increase rpm. Check for thrombus
 
-- g) consider changing faulty components.
-- Pump failure:
-  - a) call for help from the PICU, surgical and perfusion teams;
-  - b) ventilate conventionally to support the respiratory system;
-  - c) haemodynamic support with inotropes and vasoconstrictor agents;
-  - d) if there is no flow, consider the risk of thrombus formation whilst the ECMO is not working;
-  - e) if pump head failure is the cause, use the back-up console, battery and check the wall power;
-  - f) if an electrical issue is the cause, clamp the lines and turn off the pump, commence hand cranking and evaluate the integrity of the pump head. Consider changing the pump head, turning the pump to the minimal settings of rpm, remove the clamps, and then gradually increase the rpm. Check for thrombus;
-  - g) if pump head failure is the cause, clamp the lines and stop the pump, replace the pump head, turn the pump to the minimal settings of rpm, remove the clamps, and then gradually increase the rpm. Check for thrombus.
-- Cardiac arrest on VV ECMO:
-  - a) call for help;
-  - b) CPR;
-  - c) consider and check for reversible causes;
-  - d) DC shock if in shockable rhythm.
-- Cardiac arrest on VA ECMO. Cardiac arrest has little effect on ECMO support, if flows are maintained:
-  - a) call for help;
-  - b) DC shock if in shockable rhythm.
-- Accidental decannulation. On VV ECMO, it may be accompanied by profound hypoxia, hypovolaemic shock and cardiac arrest, whereas VA ECMO may be accompanied by cardiac arrest and hypovolaemic shock:
-  - a) call for help;
-  - b) clamp the circuit;
-  - c) turn off the pump;
-  - d) commence cardiopulmonary resuscitation;
+**Cardiac arrest on VV ECMO:**
+*   Call for help
+*   CPR
+*   Consider and check for reversible causes
+*   DC shock if shockable rhythm
 
-- e) ventilate;
-- f) administer volume and cardiovascular support;
-- g) prepare for surgical intervention.
-- Air in the circuit. Air can find its way through various ports, connections, as well as faults in the circuit and cannulae. The presence of a significant amount of air will compromise ECMO flows and performance:
-  - a) clamp the arterial line;
-  - b) stop the pump;
-  - c) place the patient in a head-down position;
-  - d) commence inotropic and ventilatory support, including volume replacement;
-  - e) examine possible entry points and call for help, if required.
-- Circuit rupture, which is accompanied by massive blood loss, air entry to the circuit, and haemodynamic and respiratory compromise:
-  - a) clamp the circuit;
-  - b) stop the pump;
-  - c) call for help;
-  - d) support the cardiovascular and respiratory systems;
-  - e) replace volume lost;
-  - f) prepare for surgical intervention if required or change all or parts of the circuit.
-- Thrombus in the circuit. Although this is the most common complication, meticulous management of anticoagulation can help to reduce the risk. Some small-size thrombi may cause problems with the ECMO support. Thrombi of any size pose a danger when present in the outflow portion of the circuit but less so when in the inlet portion, unless large, as they will end up in the oxygenator. Management involves maintaining an optimal ACT, monitoring the circuit for thrombus, and if required, clean or change the affected component of the circuit
+**Cardiac arrest on VA ECMO:** (Arrest has little effect on ECMO support if flows maintained)
+*   Call for help
+*   DC shock if shockable rhythm
 
-### 33 **Describe the steps when stopping and recommencing extracorporeal membrane oxygenation**
+**Accidental decannulation:**
+*   VV ECMO: may be accompanied by profound hypoxia, hypovolaemic shock, cardiac arrest
+*   VA ECMO: may be accompanied by cardiac arrest and hypovolaemic shock
+*   Call for help; clamp circuit; turn off pump; commence CPR; ventilate; administer volume and cardiovascular support; prepare for surgical intervention
 
-- In a circuit with a roller head pump:
-  - a) clamp the venous line above the bridge;
-  - b) open the bridge clamp;
+**Air in circuit:**
+*   Air can enter through various ports, connections, circuit faults, cannulae
+*   Significant amount compromises ECMO flows and performance
+*   Clamp arterial line; stop pump; place patient head-down; commence inotropic/ventilatory support and volume replacement; examine possible entry points; call for help if required
 
-- c) clamp the arterial line above the bridge;
-- d) stop the flow.
-- To return to ECMO flow:
-  - a) open the arterial clamp;
-  - b) clamp the bridge;
-  - c) open the venous cannula;
-  - d) return to the previous pump head speed (rpm).
-- In a circuit with a centrifugal pump:
-  - a) close the post-oxygenator clamp;
-  - b) clamp the venous line above the bridge;
-  - c) open the bridge;
-  - d) clamp the arterial line;
-  - e) release the post-oxygenator clamp;
-  - f) maintain ECMO flow through the bridge.
-- To return to ECMO flow:
-  - a) close the post-oxygenator clamp;
-  - b) clamp the bridge;
-  - c) open the arterial clamp;
-  - d) open the venous clamp;
-  - e) increase the pump head speed (rpm);
-  - f) remove the post-oxygenator clamp;
-  - g) clear the bridge.
-- 34 What are the general parameter guidelines for paediatric extracorporeal membrane oxygenation support?
-- ACT seconds.
-- PaO<sub>2</sub> 60-80mmHg (VA), 45-80mmHg (VV).
-- Haemoglobin 13-15g/dL (VA), 15g/dL (VV).
-- Haematocrit >40 (VA), >45 (VV).
-- pH 7.35-7.45.
-- PaCO<sub>2</sub> 35-45mmHg.
-- Platelet count >75 x 10<sup>9</sup>/L.
-- Urine output >2mL/kg/hour.
-- Heparin units/kg/hour (but may need to be adjusted according to renal function, bleeding and the presence of a haemofilter).
+**Circuit rupture:**
+*   Accompanied by massive blood loss, air entry, haemodynamic and respiratory compromise
+*   Clamp circuit; stop pump; call for help; support cardiovascular and respiratory systems; replace volume lost; prepare for surgical intervention if required or change all/parts of circuit
 
-- Venous O<sub>2</sub> saturation 70-75%.
-- Fluid requirements 20-100mL/kg/day (<10kg 100mL, 10-20kg 50mL, and >20kg 20mL).
-- Calorie requirements 60-90/kg/day.
-- Maintain serum sodium, potassium and calcium levels at normal values.
-- VA ECMO flow 100mL/kg/min x 0.8 (80% of estimated cardiac output).
-- VV ECMO flow 80-120mL/kg/min (but may need to be adjusted according to the recirculation flow and the effective flow).
+**Thrombus in circuit:**
+*   Most common complication; meticulous anticoagulation management reduces risk
+*   Small thrombi may cause problems; any size dangerous in outflow portion (less so in inlet unless large → will end up in oxygenator)
+*   Management: maintain optimal ACT; monitor circuit for thrombus; if required, clean or change affected component
 
-### 35 Describe the steps when commencing extracorporeal membrane oxygenation
+</div></details>
 
-- After completing the cannulation process, check the circuit, including the position of the cannulae and the patient, ensuring that the cannulae are secure.
-- Open the clamp on the venous line above the bridge.
-- Close the clamp on the bridge.
-- Open the clamp on the arterial line above the bridge.
-- Slowly increase the blood flow.
-- Monitor the cardiovascular response.
-- Wean off the ventilation support.
-- Wean off the inotropic support.
-- Re-evaluate the circuit for the presence of air bubbles.
-- Check all the connections and ports.
-- Check that the console, transducers and all other electrical components are operational.
-- Perform the calculations regarding flow, sweep, FiO<sub>2</sub>, drug and fluid infusions.
-- Check the ACT or APTT and adjust heparin, as appropriate.
-- Optimise the clotting profile.
-- Inform all personnel involved about the set parameters and alarms.
-- Recheck that the cannulae are secure.
-- Request an echocardiogram and chest radiograph, as appropriate.
+<details class="med-details"><summary>
 
-## 36 What are the principles of daily management for a patient requiring extracorporeal membrane oxygenation?
+#### Steps When Stopping and Recommencing ECMO</summary><div class="details-content">
 
- Daily routine checks and evaluation of all the organ systems are crucial not only for optimal support but also for survival.
+**Roller head pump circuit:**
+*   **Stop:** Clamp venous line above bridge → open bridge clamp → clamp arterial line above bridge → stop flow
+*   **Restart:** Open arterial clamp → clamp bridge → open venous cannula → return to previous pump head speed (rpm)
 
-- It is important to regularly check the cannulation site, cannulae and circuit (mechanical and electrical components). Ensure that the position of the patient's head is in the midline, up to 30°.
-- Cardiovascular system:
-  - a) maintain systemic perfusion and intravascular volume;
-  - b) monitor urine output, central venous pressure, physical signs of perfusion, and body weight;
-  - c) use echocardiography, as required;
-  - d) check the circuit for the presence of clots and overall integrity;
-  - e) regular ECG and relevant blood tests.
+**Centrifugal pump circuit:**
+*   **Stop:** Close post-oxygenator clamp → clamp venous line above bridge → open bridge → clamp arterial line → release post-oxygenator clamp → maintain ECMO flow through bridge
+*   **Restart:** Close post-oxygenator clamp → clamp bridge → open arterial clamp → open venous clamp → increase pump head speed (rpm) → remove post-oxygenator clamp → clear bridge
 
-### • Respiratory system:
+</div></details>
 
-- a) ventilation settings;
-- b) evaluate arterial blood gases and chest radiograph;
-- c) avoid build-up of secretions in the endotracheal tube and pulmonary hygiene with flexible bronchoscopy, as required.
-
-### • Renal system:
-
-- a) in the first 48 hours, there is a high incidence of acute tubular necrosis and oliguria. Thereafter, the urine output usually increases to >2mL/kg/hr;
-- b) if renal function does not improve, however, renal support can be added to the circuit with continuous renal replacement therapy (CRRT);
-- c) a renal blood test may be required daily, according to function.
-
-### • Central nervous system (CNS):
-
-- a) avoid paralytic agents;
-- b) perform regular sedation holding and neurologic examinations, including pupil size and reaction, reflexes, level of consciousness, and the presence of normal or abnormal movements;
-- c) a head US or CT may be required, although CT requires transporting the patient to the radiology department on ECMO.
-
-### • Infection control:
-
-a) all procedures and interventions should follow aseptic techniques;
-
-- b) check all sites for infection;
-- c) send appropriate cultures of blood, sputum and urine;
-- d) antibiotics, as indicated.
-- Fluids, electrolytes and nutrition:
-  - a) regular monitoring of electrolytes, including magnesium, calcium and phosphorus levels;
-  - b) close monitoring of fluid balance, high calorie intake and nutritional support, as required.
-- The surgical team should perform daily checks of the cannulation site, cannulae, circuit, assist in dressing changes, be available to transport the patient, and be available to perform any invasive procedure.
-
-#### **Recommended reading**
-
-- 1. Brogan TV, Lequier L, Lorusso R, MacLaren G, Peek G. bñíê~ÅçêéçêÉ~ä iáÑÉ pìééçêíW qÜÉ bipl oÉÇ \_ççâ, 5th ed. MI, USA: Extracorporeal Life Support Organization (ELSO); 2017.
-- 2. Short BL, Williams L. b`jl péÉÅá~äáëí qê~áåáåÖ j~åì~ä. MI, USA: Extracorporeal Life Support Organization (ELSO); 2010.
-- 3. Pappalardo F, Montisci A. What is extracorporeal cardiopulmonary resuscitation? g qÜçê~Å aáë 2017; 9:.
-- 4. Schmidt M, Pellegrino V, Combes A, Scheinkestel C, Cooper DJ, Hodgson C. Mechanical ventilation during extracorporeal membrane oxygenation. `êáí `~êÉ 2014; 18: 203.
-- 5. Barbaro RP, Guner Y. Pediatric Extracorporeal Life Support Organization Registry International Report 2016. ^p^fl g 2017; 63:.
-- 6. Yam N, McMullan DM. Extracorporeal cardiopulmonary resuscitation. ^åå qê~åëä jÉÇ 2017; 5: 72.
-- 7. Chan T, Thiagarajan RR, Frank D, Bratton SL. Survival after extracorporeal cardiopulmonary resuscitation in infants and children with heart disease. g qÜçê~Å `~êÇáçî~ëÅ pìêÖ 2008; 136:.
-- 8. Kane DA, Thiagarajan RR, Wypij D, Scheurer MA, Fynn-Thompson F, Emani S, del Nido PJ, Betit P, Laussen PC. Rapid-response extracorporeal membrane oxygenation to support cardiopulmonary resuscitation in children with cardiac disease. `áêÅìä~íáçå 2010; 122(11 Suppl): S241-8.
-- 9. Extracorporeal Life Support Organization. Guidelines for ECMO centres, training and continuous education. Available at [http://www.elso.org.](http://www.elso.org) Accessed 26.02.21.
+</div></details>
