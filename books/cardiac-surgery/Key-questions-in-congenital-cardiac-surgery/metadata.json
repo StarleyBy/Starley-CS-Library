@@ -9,6 +9,12 @@
     "authors": [
       "Narain Moorjani, Nicola Viola, Christopher A. Caldarone"
     ],
+    "versions": {
+      "original": true,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
     "chapters": [
       {
         "file": "chapter-01.md",
