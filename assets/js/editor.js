@@ -250,8 +250,18 @@ function updatePreview() {
     const mathStore = [];
     function storeMath(tex, display) {
         const id = '\x02MATH' + mathStore.length + '\x03';
-        // % is LaTeX comment char — escape any unescaped % so KaTeX doesn't truncate
-        const safeTex = tex.replace(/(?<!\\)%/g, '\\%');
+        let safeTex = tex;
+        // % is LaTeX comment char — escape unescaped %
+        safeTex = safeTex.replace(/(?<!\\)%/g, '\\%');
+        // Unicode middle dot · → \cdot
+        safeTex = safeTex.replace(/·/g, '\\cdot ');
+        // Unicode × → \times (outside \text{})
+        safeTex = safeTex.replace(/×/g, '\\times ');
+        // Unicode minus − → -
+        safeTex = safeTex.replace(/−/g, '-');
+        // Unicode superscript digits → ^{n}
+        const supMap = {'⁰':'0','¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9','⁻':'-'};
+        safeTex = safeTex.replace(/[⁰¹²³⁴⁵⁶⁷⁸⁹⁻]+/g, m => '^{' + m.split('').map(c => supMap[c]||c).join('') + '}');
         mathStore.push({ id, tex: safeTex, display });
         return id;
     }
