@@ -1,340 +1,716 @@
-# Chapter 29
+# Truncus Arteriosus
 
-#### Truncus arteriosus
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-Antonio F. Corno, Saravanan Durairaj, Simone Speggiorin
+### Definition and Anatomy
+- **Truncus arteriosus (common arterial trunk):** Single great artery arises from ventricular mass, gives origin to coronary, systemic, and pulmonary circulations (Figure 1)
+- **Major anatomical features:**
+  - Single arterial trunk with truncal valve (1–6 cusps; tricuspid 42–61%, quadricuspid 24–31%, bicuspid 5%)
+  - Almost constant VSD (absent infundibular septum; high, anterior, unrestrictive)
+  - Variable pulmonary artery branching and origin
+  - Variable coronary artery pattern (independent of leaflet number)
+  - Conduction system variations (dependent on VSD location)
 
-#### What is truncus arteriosus?
+### Classification
+- **Collett & Edwards (1949):** Types I–IV (Type IV now considered pulmonary atresia with VSD)
+- **Van Praagh (1965):** Types A1–A4 (A4 includes interrupted aortic arch)
+- **Jacobs (modified):** A1–A3 = predominantly aortic characteristics; A4 = predominantly pulmonary characteristics with interrupted arch
+- **Type 1.5 (common clinical language):** Between Type 1 and 2 — origins of both PAs very close but still separated (Figure 4)
 
- Truncus arteriosus (or common arterial trunk) is a cardiac malformation where only one great artery (trunk) arises from the ventricular mass branching and gives origin to the coronary, systemic and pulmonary circulations (Figure 1).
+### Associated Anomalies
+| Anomaly | Incidence |
+|---|---|
+| Right aortic arch | 18–36% |
+| Truncal valve regurgitation | 23% |
+| Coronary artery abnormalities | 18% (single coronary, intramural course) |
+| Aortic arch interruption (Type B) | 11–14% |
+| Non-confluent PAs | 5% |
+| 22q11 microdeletion | ~35% |
+| DiGeorge syndrome (velocardiofacial, CATCH-22) | 30–35% |
+
+### Embryology and Genetics
+- **Primary defects:** Complete absence of pulmonary infundibulum; complete/partial absence of aortopulmonary septum
+- **Neural crest cells:** Ablation in chick embryos → truncus arteriosus
+- **Genetic regulators:** Tbx3, Pax3 (neural crest migration); Tbx1 (22q11, outflow tract development)
+- **Signalling pathways:** Wnt pathway implicated
+
+### Epidemiology
+- Incidence: 0.16–1.27 per 10,000 births
+- Represents 0.4–4.0% of all congenital heart defects
+
+### Pathophysiology
+- **Complete mixing** at ventricular and ventriculo-arterial junction levels → same saturations in aorta and PAs
+- **Qp:Qs** depends on PVR:SVR ratio
+- **First days of life:** Elevated PVR → reduced PBF → cyanosis (saturations 75–80%)
+- **First weeks:** PVR falls → pulmonary over-circulation (L→R shunt) → reduced diastolic/mean aortic pressure → coronary steal
+- **Clinical consequences:** Cyanosis, congestive heart failure (LV volume overload + RV pressure overload), myocardial ischaemia
+
+### Natural History
+- **Without treatment:** 50% die within first month, 80% within first 3 months
+- Sudden death from myocardial ischaemia + dysfunctional truncal valve
+- Survival beyond infancy with PVD is very rare
+
+### Clinical Presentation
+- **Symptoms:** Poor feeding, shortness of breath, wheezing, grunting, restlessness, mild–moderate cyanosis
+- **Signs:** Tachypnoea, nasal flaring, bounding pulses, tachycardia, hyperdynamic praecordium, ejection click at LUSB, single S₂, diastolic murmur (regurgitation) or loud systolic ejection murmur (stenosis)
+
+### Diagnostic Imaging
+| Modality | Key Findings |
+|---|---|
+| **ECG** | Non-specific; RV, LV, or biventricular hypertrophy ± ST-T changes; LA enlargement (pulmonary over-circulation) |
+| **CXR** | Cardiomegaly, narrow superior mediastinum (absent pulmonary trunk), increased PAV, lung hyperinflation; airway compression with right arch |
+| **Echocardiography** | Gold standard. Views: single great artery, PA origin (Figures 6–7), truncal valve function (Figures 8–9), VSD, AV valve relationships (Figure 10), coronary origins (Figure 11), arch position/interruption |
+| **Catheterisation** | Not routine; poorly tolerated in sick neonates; used for unclear anatomy (Figure 12) or PVR assessment (late presenters) |
+| **CT/MRI** | When echo insufficient. Delineate: precise morphology (Figures 13–16), anomalous PV connections, arch anomalies, PA anomalies, airway compression (Figure 17) |
+
+### Indications for Surgery
+- **Absolute indication** unless severe comorbidities
+- Prenatal counselling to prepare parents
+
+### Pre-operative Management
+- First days: stable (high PVR); as PVR drops → pulmonary over-circulation
+- **Oxygen can be detrimental** (increases pulmonary overflow, reduces systemic perfusion)
+- **Prostaglandin infusion** essential if arch interruption (11–14%)
+- Parenteral feeding for arch interruption patients
+- **Irradiated blood** for all neonates (before 22q11 results)
+
+### Surgical Repair
+**Single-stage complete repair** (preferred in high-volume centres)
+
+**Staged approach** (bilateral PA banding/plication) for severe comorbidities (infection, very low birth weight)
+
+**Myocardial protection:** Occlude both PA branches during antegrade cardioplegia (avoid run-off) (Figures 18–19)
+
+**Arch reconstruction first** (DHCA with regional brain/coronary perfusion) if interrupted arch (Figure 20)
+
+**Three major steps (Figures 21–22):**
+1. Separate PA component from truncus (→ neo-aorta)
+2. Close VSD with patch (through longitudinal right ventriculotomy; avoid truncal valve and conduction system)
+3. Connect RV to PA component with biological valved conduit (homograft, bovine jugular vein, Hancock™)
+
+**Truncal reconstruction into neo-aorta:** Direct closure or patch (pericardium/PTFE) — patch preferred
+
+**Alternative:** REV procedure (direct posterior wall anastomosis + pericardial/PTFE roof ± monocusp) — best for Type A1
+
+**Truncal valve plasty:** Reduction plasty (quadrileaflet → three leaflets) for regurgitation; stenosis may require replacement (homograft/mechanical)
+
+### Outcomes
+| Source | Hospital Mortality |
+|---|---|
+| Recent series (selected patients) | 3–5% |
+| EACTS registry (1,224 cases) | 17.7% |
+| STS registry (572 cases) | 10.9% |
+| With truncal valve surgery | Up to 30% |
+| With aortic arch interruption | Up to 60% |
+
+Staged strategy outcomes limited to small series; risk increased with low birth weight
+
+### Postoperative Complications
+- Residual VSD
+- Residual/progressive truncal valve stenosis/regurgitation (Figure 23)
+- Residual RVOT obstruction (Figure 24)
+- Arrhythmias
+- Complete AV block (permanent pacemaker)
+- Airway compression (especially with right arch, coarctation, arch interruption)
+- Pulmonary hypertensive crisis
+
+### Long-term Outcomes
+**Regular follow-up essential** (echo, catheterisation, CT, MRI) for:
+
+| Structure | Potential Issues |
+|---|---|
+| Neo-aortic valve | Progressive regurgitation, neo-aortic dilatation (Figure 25) |
+| RVOT/conduit | Proximal/distal anastomosis obstruction (calcification/outgrowth) (Figure 26); aneurysmal dilatation (Figure 27) |
+| Aortic arch | Obstruction after coarctation/arch interruption repair |
+| Airways | Extrinsic compression (right arch, previous arch surgery) (Figure 28) |
+| Coronaries | Function (Figure 30) |
+| Ventricles | Volumes, function, mass (Figure 29) |
+| Branch PAs | Hypoplasia (Figure 31) |
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition and Major Anatomical Features</summary><div class="details-content">
+
+#### What is Truncus Arteriosus?
+
+**Truncus arteriosus (common arterial trunk)** is a cardiac malformation where only one great artery (trunk) arises from the ventricular mass, branching to give origin to the coronary, systemic, and pulmonary circulations (Figure 1).
 
 ![](_page_0_Picture_6.jpeg)
 
-Figure 1. Anatomical specimens demonstrating truncus arteriosus, with the pulmonary component originating from the left lateral side of the truncus. LA = left atrium; LV = left ventricle; RA = right atrium; RV = right ventricle; IVS = interventricular septum; TV = tricuspid valve; VSD = ventricular septal defect; PC = pulmonary component; AC = aortic component. Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.
+**FIGURE 1.** Anatomical specimens of truncus arteriosus with pulmonary component originating from left lateral side of truncus. LA = left atrium; LV = left ventricle; RA = right atrium; RV = right ventricle; IVS = interventricular septum; TV = tricuspid valve; VSD = ventricular septal defect; PC = pulmonary component; AC = aortic component. *Reproduced with permission from Corno AF.*
 
-# What are the major anatomical features of truncus arteriosus?
+#### Major Anatomical Features
 
-- Truncus arteriosus is defined anatomically by the:
-  - a) presence of a single arterial trunk and its truncal valve;
-  - b) almost constant presence of an interventricular communication;
+Truncus arteriosus is defined anatomically by:
 
-- c) intrapericardial branching pattern of the pulmonary arteries;
-- d) coronary artery pattern;
-- e) pattern of the conduction system.
-- The trunk usually has only one semilunar valve (truncal valve) with a number of cusps ranging from one to six. A tricuspid valve is the most frequent type (42-61% of cases), followed by quadricuspid (24-31% of cases) and bicuspid (5% of cases) (Figure 2). Truncal valves with one, five or six leaflets are extremely rare. The semilunar truncal valve is generally located above a ventricular septal defect, and can present with dysplastic thickened and deformed cusps, resulting in stenosis, regurgitation (in at least 20% of cases) or both.
+| Feature | Description |
+|---|---|
+| **Single arterial trunk and truncal valve** | One semilunar valve with 1–6 cusps; tricuspid most frequent (42–61%), quadricuspid (24–31%), bicuspid (5%). One-, five-, or six-leaflet valves extremely rare. Valve located above VSD; dysplastic, thickened, deformed cusps → stenosis, regurgitation (≥20%), or both (Figure 2) |
+| **Interventricular communication** | Almost invariably present; caused by absence of infundibular septum; generally high, anterior, unrestrictive; additional VSDs occasionally seen; absence of VSD rarely reported |
+| **Intrapericardial branching pattern of PAs** | Greatly variable; basis for classifications. Type IV (no PA branches from truncus) now considered pulmonary atresia with VSD |
+| **Coronary artery pattern** | Variable, independent of number of truncal valve leaflets |
+| **Conduction system** | Rare variations; mostly dependent on VSD location and extent |
 
 ![](_page_1_Picture_6.jpeg)
 
-**Figure 2. Anatomical specimen demonstrating a quadricuspid truncal valve (arrows).** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 2.** Anatomical specimen: Quadricuspid truncal valve (arrows). *Reproduced with permission from Corno AF.*
 
-- A ventricular septal defect, which is almost invariably present, is caused by the absence of the infundibular septum. It is generally high, anterior and unrestrictive, with additional defects occasionally seen. Absence of a ventricular septal defect is rarely reported.
-- The pulmonary arteries branching and origin can vary greatly. It provides the basis for the commonly used classifications. Most authors agree that the so called truncus arteriosus Type IV, with neither pulmonary arterial branch arising from the truncus arteriosus, is not considered as a true type of truncus arteriosus, but rather a variant of pulmonary atresia with ventricular septal defect.
+**Additional features:**
+- Stenosis at origin of one or both PA branches: **2–10%**
 
-- Stenosis at the origin of one or both branches of the pulmonary arteries is reported in 2-10% of patients.
-- The origin of coronary arteries presents with a variable pattern, independent of the number of truncal valve leaflets.
-- The conduction system can rarely present with variations, which are mostly dependent upon the location and extent of the ventricular septal defect.
+</div></details>
 
-# 3 **Describe the classification of truncus arteriosus**
+---
 
-- A few classifications have been published and used for several decades. The first was proposed by Collett and Edwards in 1949. It focused on the anatomy of the origin of the pulmonary branches but did not account for several variations. It is rarely used today.
-- The second, proposed by Van Praagh in 1965, reported some modifications, including the Type A4, with interruption of the aortic arch.
-- The most recent classification, by Jacobs on behalf of the Congenital Heart Surgery Nomenclature and Database Project, is a modification of the Van Praagh classification. It focuses on a description principle of the lesion as observed, redefining it as truncus arteriosus with either predominantly aortic or pulmonary arterial characteristics. This definition allows for description of all the anatomical possibilities associated (Figure 3).
+<details class="med-details"><summary>
+  
+## 2. Classification of Truncus Arteriosus</summary><div class="details-content">
+
+#### Historical Classifications
+
+| Classification | Description |
+|---|---|
+| **Collett & Edwards (1949)** | Types I–IV based on PA origin anatomy; rarely used today |
+| **Van Praagh (1965)** | Modified Collett & Edwards; added Type A4 (interrupted aortic arch) |
+| **Jacobs (CHS Nomenclature Project)** | Modification of Van Praagh; focuses on description principle: truncus arteriosus with predominantly **aortic** (A1–A3) or **pulmonary** (A4) characteristics; allows description of all anatomical possibilities (Figure 3) |
 
 ![](_page_2_Figure_9.jpeg)
 
-**Figure 3. Classifications of truncus arteriosus. Jacobs' Types A1 to A3 describe a truncus arteriosus with predominantly aortic characteristics, while A4 describes truncus arteriosus with predominantly pulmonary characteristics and an interrupted aortic arch.**
+**FIGURE 3.** Classifications of truncus arteriosus. Jacobs Types A1–A3: predominantly aortic characteristics; A4: predominantly pulmonary characteristics with interrupted aortic arch.
 
-• In clinical practice, the most frequently observed form is somewhere in between Type 1 and 2, where the origins of the two pulmonary arteries are very close but still separated, and in the common language this has been categorised as Type 1.5 (Figure 4).
+#### Type 1.5 (Figure 4)
+
+In clinical practice, the most frequently observed form is somewhere between Type 1 and Type 2 — origins of both pulmonary arteries are **very close but still separated**. In common language, this is categorised as **Type 1.5**.
 
 ![](_page_3_Picture_3.jpeg)
 
-**Figure 4.** Truncus arteriosus Type 1.5, where the origin of the two pulmonary arteries are very close but still separated.
+**FIGURE 4.** Truncus arteriosus Type 1.5 — origins of both PAs very close but still separated.
 
-# 4 Which cardiac anomalies are associated with truncus arteriosus?
+</div></details>
 
-- Right aortic arch is frequent (18-36%).
-- Truncal valve regurgitation (23%) or stenosis.
-- Coronary artery abnormalities (18%), including single coronary artery and intramural course.
-- Aortic arch interruption (Figure 5), usually of Type B (11-14%), and aortic coarctation are accompanied by patent ductus arteriosus, when associated with truncus arteriosus.
+---
+
+<details class="med-details"><summary>
+  
+## 3. Associated Cardiac Anomalies</summary><div class="details-content">
+
+| Anomaly | Incidence | Notes |
+|---|---|---|
+| **Right aortic arch** | 18–36% | Frequent |
+| **Truncal valve regurgitation** | 23% | Often requires intervention |
+| **Truncal valve stenosis** | Variable | Dysplastic leaflets |
+| **Coronary artery abnormalities** | 18% | Single coronary artery, intramural course |
+| **Aortic arch interruption** | 11–14% | Usually Type B; accompanied by PDA (Figure 5) |
+| **Aortic coarctation** | Variable | Accompanied by PDA |
+| **Non-confluent pulmonary arteries** | 5% | One PA originates from PDA or major aortopulmonary collateral artery |
+| **22q11 microdeletion** | ~35% | — |
+| **DiGeorge syndrome** | 30–35% | Velocardiofacial syndrome, CATCH-22 (Cardiac defect, Craniofacial dysmorphism, Thymic/Parathyroid hypoplasia) |
 
 ![](_page_4_Picture_2.jpeg)
 
-**Figure 5. Truncus arteriosus associated with aortic arch interruption Type B after surgery.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004: 71- 81.*
+**FIGURE 5.** Truncus arteriosus associated with aortic arch interruption Type B after surgery. *Reproduced with permission from Corno AF.*
 
-- Non-confluent pulmonary arteries occasionally occur with truncus arteriosus (5%), where one of the pulmonary arteries originates either from a patent ductus arteriosus or from a major aortopulmonary collateral artery.
-- Persistent left superior vena cava, total anomalous pulmonary venous connection, tricuspid atresia, complete atrioventricular septal defect, single ventricle, double aortic arch, anomalous origin of circumflex coronary artery from right pulmonary artery, situs inversus and dextrocardia have also been reported in rare occasions.
-- Approximately 35% of children with truncus arteriosus have 22q11 microdeletion, while 30-35% present with DiGeorge syndrome (velocardiofacial syndrome), which is also called CATCH-22 that includes a cardiac defect, craniofacial dysmorphism, and hypoplasia of the thymus and parathyroid gland.
+#### Rare Associations
 
-#### 5 **Describe the embryology and molecular genetics of truncus arteriosus**
+- Persistent left superior vena cava
+- Total anomalous pulmonary venous connection
+- Tricuspid atresia
+- Complete atrioventricular septal defect
+- Single ventricle
+- Double aortic arch
+- Anomalous origin of circumflex coronary artery from right pulmonary artery
+- Situs inversus
+- Dextrocardia
 
-- Truncus arteriosus is characterised by two primary defects:
-  - a) complete absence of the pulmonary infundibulum;
-  - b) complete or partial absence of the aorticopulmonary septum.
+</div></details>
 
-- Recent experimental studies confirmed the importance of neural crest cells in the embryology of truncus arteriosus. A specific population of neural crest cells in chick embryos migrate to the region of the aorticopulmonary septum, and the ablation of this region of the neural crest resulted in the formation of a truncus arteriosus.
-- Investigations into the genetic basis of the conotruncal anomalies, such as truncus arteriosus and tetralogy of Fallot, have identified genetic regulators of neural crest cell function and migration necessary for the outflow tract septation, including Tbx3 and Pax3. Tbx1, a T-box transcription factor located on chromosome 22q11, has been implicated in the development of DiGeorge syndrome, present in 33% of neonates with truncus arteriosus. Tbx1 is necessary for the adequate development of the outflow tract and the pulmonary infundibulum, and is also a regulator of neural crest migration, further linking it to the process of outflow tract septation.
-- The development and septation of the outflow tract are quite complex, with numerous other signalling pathways implicated, including the Wnt signalling pathway.
+---
 
-# 6 **What is the epidemiology of truncus arteriosus?**
+<details class="med-details"><summary>
+  
+## 4. Embryology and Molecular Genetics</summary><div class="details-content">
 
-- Truncus arteriosus is a rare congenital heart defect, with a reported incidence of 0.16-1.27 per births.
-- It represents 0.4-4.0% of all congenital heart defects.
+#### Primary Defects
 
-# 7 **What is the pathophysiology of truncus arteriosus?**
+1. **Complete absence of the pulmonary infundibulum**
+2. **Complete or partial absence of the aortopulmonary septum**
 
-- Truncus arteriosus is a malformation with complete blood mixing at both the ventricular and ventriculo-arterial junction levels, resulting in the same oxygen saturations in the aorta and pulmonary arteries.
-- The balance between systemic and pulmonary blood flow, and the subsequent level of systemic oxygen saturation, depends upon the ratio between systemic and pulmonary vascular resistance.
-- In the immediate postnatal period, pulmonary blood flow is reduced by the presence of elevated pulmonary vascular resistance, causing subsequent cyanosis, with systemic oxygen saturation around 75- 80%.
-- With the exception of the rare group (<10%) with obstruction to the pulmonary blood flow due to a stenotic origin of the pulmonary artery component, the decrease of pulmonary vascular resistance over the first few weeks of life is usually accompanied by an increase in the total pulmonary blood flow. This pulmonary over-circulation (left-to-
+#### Neural Crest Cells
 
-right shunt) can frequently become very significant, reducing the diastolic and mean aortic pressure and resulting in reduced coronary artery perfusion.
+- Specific population of neural crest cells in chick embryos migrates to the region of the aortopulmonary septum
+- **Ablation of this region** → formation of truncus arteriosus
 
-- The clinical consequences of this pathophysiological pattern are:
-  - a) cyanosis which is caused by mixing of desaturated and oxygenated blood in the truncus arteriosus;
-  - b) congestive heart failure which is caused by the significant left ventricular volume overload and right ventricular pressure overload;
-  - c) myocardial ischaemia which is caused by the left-to-right shunt towards the pulmonary circulation resulting in coronary artery steal.
-- The result of pulmonary over-circulation and increased myocardial work is an increased resting oxygen demand and decreased metabolic reserve, with progressive metabolic acidosis and myocardial dysfunction.
+#### Genetic Regulators
 
-# 8 **What is the natural history of truncus arteriosus?**
+| Gene | Function |
+|---|---|
+| **Tbx3** | Regulator of neural crest cell function and migration |
+| **Pax3** | Regulator of neural crest cell function and migration |
+| **Tbx1** | T-box transcription factor on chromosome 22q11; necessary for outflow tract and pulmonary infundibulum development; regulator of neural crest migration; implicated in DiGeorge syndrome (33% of neonates with truncus arteriosus) |
 
-- Truncus arteriosus left untreated carries a very high mortality in early infancy, due to congestive heart failure and myocardial ischaemia.
-- Without treatment, 50% of patients will die within the first month of life and 80% within the first 3 months.
-- Sudden death can also occur during infancy, secondary to the combination of myocardial ischaemia and a malformed dysfunctional truncal valve, with either severe stenosis or regurgitation.
-- The presentation of a young adult or older patient with truncus arteriosus surviving beyond infancy with the development of pulmonary vascular obstructive disease is very rare.
+#### Signalling Pathways
 
-#### 9 **Describe the clinical presentation of <sup>a</sup> patient with truncus arteriosus**
+- **Wnt signalling pathway** implicated in outflow tract development and septation
 
-- Symptoms are variable, depending upon the specific anatomical features and age at presentation, including poor feeding, shortness of breath, wheezing, grunting, restlessness and mild to moderate cyanosis.
-- Physical examination may reveal tachypnoea, nasal flaring or respiratory distress, usually due to airway compression and pulmonary congestion.
+</div></details>
 
-- Cardiovascular signs include bounding peripheral pulses, tachycardia, hyperdynamic praecordium, an ejection click at the left upper sternal border and a single 2nd heart sound (due to the single outlet). The presence of a conspicuous diastolic murmur or loud systolic ejection murmur suggests the presence of severe regurgitation or stenosis of the truncal valve, respectively.
-- Hepatic and jugular venous distension, and facial swelling may occur in the presence of congestive heart failure.
+---
 
-#### 10 **What are the electrocardiographic features of truncus arteriosus?**
+<details class="med-details"><summary>
+  
+## 5. Epidemiology</summary><div class="details-content">
 
-- Although electrocardiographic (ECG) findings are not specific to allow the diagnosis of truncus arteriosus, right, left or biventricular hypertrophy may be present, with or without ST-T changes, depending on the presence of truncal valve abnormalities and/or myocardial ischaemia.
-- Left atrial enlargement may be seen in patients with substantial pulmonary over-circulation.
+- **Incidence:** 0.16–1.27 per 10,000 births
+- Represents **0.4–4.0%** of all congenital heart defects
+- Rare congenital heart defect
 
-#### 11 **What are the chest radiographical features of truncus arteriosus?**
+</div></details>
 
-- Chest radiograph generally shows cardiomegaly, with a narrow superior mediastinum, due to the absence of the pulmonary trunk segment, increased pulmonary arterial vascularity and lung hyperinflation.
-- In patients with a right aortic arch (18-36% of cases), airways compression, particularly of the left bronchus, may be seen.
+---
 
-#### 12 **What are the echocardiographic features of truncus arteriosus?**
+<details class="med-details"><summary>
+  
+## 6. Pathophysiology</summary><div class="details-content">
 
-- Echocardiography is the gold standard for the diagnosis of truncus arteriosus in almost all patients, providing all the information needed for surgical decision-making.
-- The parasternal long-axis and subcostal views show the single great artery arising from the ventricles, with variable override of the ventricular septum, the origin of the pulmonary arteries (Figure 6), their intrapericardial morphology and the presence of any potential stenosis (Figure 7).
+#### Complete Mixing
+
+- Truncus arteriosus has complete blood mixing at both ventricular and ventriculo-arterial junction levels
+- **Same oxygen saturations** in aorta and pulmonary arteries
+
+#### Determinants of Qp:Qs
+
+Balance between systemic and pulmonary blood flow depends on the **ratio between systemic and pulmonary vascular resistance (SVR:PVR)** .
+
+#### Postnatal Course
+
+| Time | PVR | PBF | Clinical |
+|---|---|---|---|
+| **First days of life** | Elevated | Reduced | Cyanosis (systemic O₂ saturation 75–80%) |
+| **First weeks of life** | Falls | Increases | Pulmonary over-circulation (L→R shunt) |
+
+**Exception:** <10% have obstruction to PBF (stenotic PA origin)
+
+#### Consequences of Pulmonary Over-circulation
+
+- Reduces diastolic and mean aortic pressure
+- **Reduced coronary artery perfusion**
+
+#### Clinical Consequences
+
+| Consequence | Mechanism |
+|---|---|
+| **Cyanosis** | Mixing of desaturated and oxygenated blood in truncus |
+| **Congestive heart failure** | LV volume overload + RV pressure overload |
+| **Myocardial ischaemia** | L→R shunt → coronary steal |
+
+#### Metabolic Effects
+
+- Increased resting oxygen demand
+- Decreased metabolic reserve
+- Progressive metabolic acidosis
+- Myocardial dysfunction
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 7. Natural History</summary><div class="details-content">
+
+- **Untreated truncus arteriosus** carries very high mortality in early infancy
+- **Without treatment:**
+  - 50% die within first month of life
+  - 80% die within first 3 months
+- **Sudden death** can occur during infancy (myocardial ischaemia + malformed dysfunctional truncal valve with severe stenosis or regurgitation)
+- Survival beyond infancy with pulmonary vascular obstructive disease is **very rare**
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 8. Clinical Presentation</summary><div class="details-content">
+
+#### Symptoms
+
+Variable, depending on specific anatomy and age:
+- Poor feeding
+- Shortness of breath
+- Wheezing
+- Grunting
+- Restlessness
+- Mild to moderate cyanosis
+
+#### Physical Examination Signs
+
+| System | Findings |
+|---|---|
+| **Respiratory** | Tachypnoea, nasal flaring, respiratory distress (airway compression + pulmonary congestion) |
+| **Cardiovascular** | Bounding peripheral pulses, tachycardia, hyperdynamic praecordium, ejection click at left upper sternal border, **single S₂** (single outlet); conspicuous diastolic murmur (severe regurgitation) or loud systolic ejection murmur (stenosis) |
+| **Heart failure** | Hepatic distension, jugular venous distension, facial swelling |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 9. Diagnostic Imaging</summary><div class="details-content">
+
+#### Electrocardiogram (ECG)
+
+- Findings are **not specific** for diagnosis
+- Right, left, or biventricular hypertrophy ± ST-T changes (depending on truncal valve abnormalities and/or myocardial ischaemia)
+- Left atrial enlargement (substantial pulmonary over-circulation)
+
+#### Chest Radiograph (CXR)
+
+| Finding | Cause |
+|---|---|
+| Cardiomegaly | — |
+| Narrow superior mediastinum | Absence of pulmonary trunk segment |
+| Increased pulmonary arterial vascularity | Pulmonary over-circulation |
+| Lung hyperinflation | — |
+| Airway compression (especially left bronchus) | Right aortic arch (18–36% of cases) |
+
+#### Echocardiography — Gold Standard (Figures 6–11)
+
+**Provides all information needed for surgical decision-making**
+
+**Views and structures assessed:**
+
+| View | Structures |
+|---|---|
+| **Parasternal long-axis, subcostal** | Single great artery arising from ventricles, variable VSD override, PA origin (Figure 6), intrapericardial morphology, stenosis (Figure 7) |
+| **Parasternal short-axis, apical, subcostal** | Truncal valve function, stenosis/regurgitation grading (Figures 8–9) |
+| **Subcostal** | Additional VSDs, AV valve relationship with VSD and truncal valve (Figure 10) |
+| **Parasternal short-axis** | Origin and course of proximal coronary arteries (Figure 11) |
+| **High parasternal, suprasternal** | Aortic arch position, arch interruption |
 
 ![](_page_8_Figure_2.jpeg)
 
-**Figure 6. A) Echocardiographic short-axis view of a patient with truncus arteriosus demonstrating a common origin of the pulmonary arteries from the truncus; B) with the corresponding colour flow Doppler image. LPA = left pulmonary artery; RPA = right pulmonary artery.**
+**FIGURE 6.** Echocardiography short-axis: A) Common origin of PAs from truncus; B) Colour flow Doppler. LPA = left pulmonary artery; RPA = right pulmonary artery.
 
 ![](_page_8_Figure_4.jpeg)
 
-**Figure 7. A) Echocardiographic short-axis view of a patient with truncus arteriosus demonstrating adjacent origins of the pulmonary arteries (C-E Type II) with hypoplastic right pulmonary artery; B) with the corresponding colour flow Doppler image showing turbulent flow in the right pulmonary artery. LPA = left pulmonary artery; RPA = right pulmonary artery.**
-
-• The parasternal short-axis view, as well as the apical and subcostal views, allow the truncal valve function to be evaluated, with colour flow Doppler grading the presence of stenosis or regurgitation (Figures 8 and 9).
+**FIGURE 7.** Echocardiography short-axis: A) Adjacent PA origins (C-E Type II) with hypoplastic RPA; B) Turbulent flow in RPA on colour Doppler. LPA = left pulmonary artery; RPA = right pulmonary artery.
 
 ![](_page_9_Figure_2.jpeg)
 
-**Figure 8. A) Echocardiographic subcostal view demonstrating a stenotic truncal valve, with B) turbulent flow on the corresponding colour flow Doppler image.**
+**FIGURE 8.** Echocardiography subcostal: A) Stenotic truncal valve; B) Turbulent flow on colour Doppler.
 
 ![](_page_9_Figure_4.jpeg)
 
-**Figure 9. A) Echocardiographic subcostal view demonstrating a stenotic truncal valve, with B) mild regurgitation on the corresponding colour flow Doppler image.**
-
-- These images also allow identification of other anatomical features, including:
-  - a) any additional ventricular septal defects;
-  - b) relationship of the atrioventricular valves with the ventricular septal defect and the truncal valve (Figure 10);
-  - c) origin and course of the proximal coronary arteries (Figure 11).
+**FIGURE 9.** Echocardiography subcostal: A) Stenotic truncal valve; B) Mild regurgitation on colour Doppler.
 
 ![](_page_10_Picture_2.jpeg)
 
-**Figure 10. Echocardiographic subcostal shortaxis view demonstrating the relationships of the right and left atrioventricular valves with the truncal valve and ventricular septal defect. MV = mitral valve; TV = tricuspid valve; VSD = ventricular septal defect.**
+**FIGURE 10.** Echocardiography subcostal short-axis: Relationships of right and left AV valves with truncal valve and VSD. MV = mitral valve; TV = tricuspid valve; VSD = ventricular septal defect.
 
 ![](_page_10_Picture_4.jpeg)
 
-**Figure 11. Echocardiographic parasternal short-axis view demonstrating: A) quadricuspid truncal valve; and B) the separate origin of the coronary arteries. LMCA = left main coronary artery; RCA = right coronary artery.**
+**FIGURE 11.** Echocardiography parasternal short-axis: A) Quadricuspid truncal valve; B) Separate origin of coronary arteries. LMCA = left main coronary artery; RCA = right coronary artery.
 
-• The high parasternal and suprasternal view can be used to define the position of the aortic arch and the presence of any aortic arch interruption.
+#### Cardiac Catheterisation (Figure 12)
 
-#### 13 **What are the indications for cardiac catheterisation in a patient with truncus arteriosus?**
+- **Not usually part of standard preoperative assessment**
+- Poorly tolerated in very sick neonates
+- Used if CT/MRI unavailable, or for:
+  - Further anatomical evaluation when echo uncertain
+  - Ruling out uncommon associated defects
+  - Quantifying degree and reversibility of pulmonary hypertension (late presenters with elevated PVR) — test reactivity to O₂, nitric oxide
+  - Ruling out PVD in older children
 
-- Cardiac catheterisation is not usually part of the standard preoperative assessment.
-- It is poorly tolerated in very sick neonates and is only used if CT or MRI scanning are not available.
-- It may also be required for further anatomical evaluation, where uncertain findings on echocardiography are identified or to rule out uncommon associated defects (Figure 12).
+**Note:** Calculation of pulmonary and systemic blood flow and resistance is **difficult** because of complete mixing.
 
 ![](_page_11_Picture_6.jpeg)
 
-**Figure 12. Cardiac catheterisation angiography anteroposterior views with contrast injection in the root of the truncus arteriosus demonstrating: A) the truncus arteriosus giving origin to the aorta, pulmonary arteries, coronary arteries and the right aortic arch; and B) no visualisation of the left pulmonary artery from the truncus arteriosus. Ao = aorta; LPA = left pulmonary artery; RPA = right pulmonary artery; TA = truncus arteriosus; RAA = right aortic arch.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 12.** Catheterisation angiography: A) Truncus giving origin to aorta, PAs, coronaries, and right aortic arch; B) No visualisation of LPA from truncus. Ao = aorta; LPA = left pulmonary artery; RPA = right pulmonary artery; TA = truncus arteriosus; RAA = right aortic arch. *Reproduced with permission from Corno AF.*
 
-- For physiological evaluation, in borderline cases of infants with late presentation and elevated pulmonary vascular resistance, cardiac catheterisation can quantify the degree and reversibility of pulmonary hypertension, by testing the reactivity of the pulmonary circulation to intravenous or inhaled pulmonary vasodilators, such as oxygen and nitric oxide.
-- In older children, cardiac catheterisation can be used to rule out the presence of pulmonary vascular obstructive disease.
+#### Cross-Sectional Imaging (CT/MRI) (Figures 13–17)
 
-• Calculation of pulmonary and systemic blood flow and resistance is difficult because of complete mixing.
+**Performed when:**
+- Echocardiography not sufficient
+- Evaluating occasional older patient with unrepaired lesion
 
-#### 14 **Describe the role of cross-sectional imaging in <sup>a</sup> patient with truncus arteriosus**
+**Helps delineate:**
 
-- Computed tomography (CT) and magnetic resonance imaging (MRI) scanning are performed during pre-operative evaluation in selected groups of infants with truncus arteriosus when echocardiography is not sufficient or during the work-up of the occasional older patient with an unrepaired lesion.
-- They can help to delineate the:
-  - a) precise morphology of the truncus arteriosus, including the identification of the origin of the pulmonary arteries, the distance between the origin of the pulmonary component and the origin of the left main coronary artery, and potential anomalies of the coronary arteries (Figures 13-16);
+| Structure | Specifics |
+|---|---|
+| **Precise truncus morphology** | PA origin, distance between PA component and LMCA origin, coronary anomalies (Figures 13–16) |
+| **Anomalous pulmonary venous connections** | — |
+| **Aortic arch anomalies** | Coarctation, interruption, arch branch anomalies |
+| **Pulmonary artery anomalies** | Disconnections, "absent" PA (originating from ductus or MAPCA) |
+| **Mediastinal relations** | Airway/oesophageal compression (especially with right arch) (Figure 17); congenital airway anomalies (complete rings, malformed cartilages, malacia) |
 
 ![](_page_12_Picture_7.jpeg)
 
-**Figure 13. Computed tomography scan axial view demonstrating truncus arteriosus with a quadricuspid truncal valve and single origin of the coronary arteries at the level of the posterior commissure (arrow). LCA = left coronary artery; RCA = right coronary artery.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 13.** CT axial: Truncus with quadricuspid truncal valve and single coronary origin at posterior commissure (arrow). LCA = left coronary artery; RCA = right coronary artery. *Reproduced with permission from Corno AF.*
 
 ![](_page_13_Picture_2.jpeg)
 
-**Figure 14. Computed tomography angiogram 3D reconstruction posterior cranial view demonstrating the origin and anatomy of the pulmonary arteries. LPA = left pulmonary artery; RPA = right pulmonary artery.**
+**FIGURE 14.** CT angiogram 3D reconstruction posterior cranial view: PA origin and anatomy. LPA = left pulmonary artery; RPA = right pulmonary artery.
 
 ![](_page_13_Picture_4.jpeg)
 
-**Figure 15. Computed tomography angiogram 3D reconstruction left lateral view demonstrating the origin and anatomy of the pulmonary artery component. IA = innominate artery; LPA = left pulmonary artery; PA = pulmonary artery; RPA = right pulmonary artery.**
+**FIGURE 15.** CT angiogram 3D reconstruction left lateral view: PA component origin and anatomy. IA = innominate artery; LPA = left pulmonary artery; PA = pulmonary artery; RPA = right pulmonary artery.
 
 ![](_page_14_Picture_2.jpeg)
 
-**921 Figure 16. Magnetic resonance imaging contrast angiography demonstrating a separate origin of relatively small pulmonary arteries from the lateral and posterior aspect of the truncus arteriosus, and severe kinking of the transverse aortic arch on: A) coronal posterior; and B) anterior views.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
-
-- b) anomalous pulmonary venous connections;
-- c) presence of any aortic coarctation, aortic arch interruption or anomalies of the arch branches;
-- d) anomalies of the pulmonary arteries, such as disconnections or 'absent' pulmonary artery, where either the left or the right pulmonary artery originates from a ductus arteriosus or from a major aortopulmonary collateral artery.
-- In particular, cross-sectional imaging is useful to determine the mediastinal relations of truncus arteriosus, including:
-  - a) airway or oesophageal compression, which is particularly frequent with right aortic arch (Figure 17);
-  - b) congenital anomalies of the airways, such as complete rings, malformed cartilages, or malacia.
+**FIGURE 16.** MRI contrast angiography: Separate origin of small PAs from lateral/posterior truncus, severe kinking of transverse aortic arch. A) Coronal posterior; B) Anterior views. *Reproduced with permission from Corno AF.*
 
 ![](_page_15_Picture_2.jpeg)
 
-**Figure 17. Magnetic resonance imaging scan demonstrating severe narrowing of the trachea, caused by external compression from the transverse aortic arch.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 17.** MRI: Severe tracheal narrowing from external compression by transverse aortic arch. *Reproduced with permission from Corno AF.*
 
-#### 15 **What are the indications for surgical repair of truncus arteriosus?**
+</div></details>
 
-- The diagnosis of truncus arteriosus constitutes an absolute indication for surgical repair, unless severe comorbidities are identified.
-- Several centres have reported favourable results with the repair, and when possible, prenatal counselling should prepare the parents for the surgical strategy.
+---
 
-#### 16 **What are the principles of pre-operative management for truncus arteriosus?**
+<details class="med-details"><summary>
+  
+## 10. Indications for Surgery and Pre-operative Management</summary><div class="details-content">
 
-- Neonates tend to be stable during the first days of life, due to the high pulmonary vascular resistance.
-- With the drop in pulmonary vascular resistance, pulmonary overcirculation generally occurs, with congestive heart failure and
+#### Indications for Surgical Repair
 
-- potential coronary artery steal due to the large shunt distal to the arterial valve.
-- Signs such as tachypnoea, dyspnoea, tachycardia and myocardial dysfunction can accompany cyanosis. Oxygen administration is not necessary but also can be detrimental because it may increase pulmonary overflow, reduce systemic perfusion and cause ventricular volume overload.
-- Failure of medical therapy and non-invasive positive pressure respiratory support may indicate urgent intervention.
-- In the 11-14% of neonates with associated aortic arch interruption, it is essential to maintain ductal patency with a prostaglandin infusion. In these patients, parenteral feeding should be considered, as enteral feeding may be associated with complications.
-- Truncal valve dysfunction represents a challenging risk factor. When considering pre-operative stratification, the feasibility of valve repair needs to be taken into account.
-- In the absence of the results of chromosome 22q11 investigation, irradiated blood should be prepared for all neonates undergoing surgery.
+- **Absolute indication** unless severe comorbidities identified
+- Several centres report favourable results
+- Prenatal counselling should prepare parents for surgical strategy
 
-#### 17 **What are the principles of surgery for truncus arteriosus?**
+#### Pre-operative Management
 
-- The majority of units offer a single-stage complete repair of the lesion, especially high-volume centres.
-- The staged approach, with bilateral pulmonary artery banding or plication of the origin of the pulmonary artery component, with or without strategies to maintain ductal patency in cases with interrupted aortic arch, is still a valid alternative in cases with severe comorbidities, such as infection precluding the use of cardiopulmonary bypass and very low birth weight.
-- Although standard preparation is used for cardiopulmonary bypass, specific attention needs to be given to myocardial protection. Antegrade trunk-injection of cardioplegia can be only effective with the occlusion of both pulmonary branches to avoid run-off (Figures 18 and 19).
-- When interrupted aortic arch is present, the arch reconstruction should be performed first, during deep hypothermic circulatory arrest with regional perfusion of the brain and coronary arteries, with the remainder of the repair performed during slow rewarming (Figure 20).
+**First days of life:** Stable (high PVR)
+
+**As PVR drops:**
+- Pulmonary over-circulation occurs
+- Congestive heart failure
+- Potential coronary steal (large shunt distal to arterial valve)
+
+**Warning signs:** Tachypnoea, dyspnoea, tachycardia, myocardial dysfunction accompanying cyanosis
+
+**Oxygen:** Not necessary; **can be detrimental** (increases pulmonary overflow, reduces systemic perfusion, causes ventricular volume overload)
+
+**Failure of medical therapy + non-invasive positive pressure respiratory support** → urgent intervention
+
+**Aortic arch interruption (11–14%):**
+- **Essential to maintain ductal patency with prostaglandin infusion**
+- Consider parenteral feeding (enteral feeding may have complications)
+
+**Truncal valve dysfunction:** Challenging risk factor; feasibility of valve repair must be considered pre-operatively
+
+**Irradiated blood:** Prepare for all neonates before 22q11 investigation results available
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 11. Surgical Repair</summary><div class="details-content">
+
+#### General Approach
+
+- **Single-stage complete repair** preferred (especially high-volume centres)
+- **Staged approach** (bilateral PA banding or plication of PA origin ± ductal patency strategies for interrupted arch) — valid alternative for severe comorbidities (infection precluding CPB, very low birth weight)
+
+#### Myocardial Protection (Figures 18–19)
+
+- Standard CPB preparation with specific attention to myocardial protection
+- **Antegrade trunk injection of cardioplegia only effective with occlusion of both PA branches** (avoid run-off)
 
 ![](_page_17_Picture_2.jpeg)
 
-**Figure 18. Operative images demonstrating truncus arteriosus with a sizeable common pulmonary component (A1), viewed: A) anteriorly; and B) from the right side. Both branches of the pulmonary component have been controlled by tourniquets (black ties). LAD = left anterior descending coronary artery; LV = left ventricle; PA = pulmonary artery; AC = aortic component; PC = pulmonary component; RA = right atrium; RV = right ventricle; TA = truncus arteriosus.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 18.** Truncus with sizable common PA component (A1): A) Anterior view; B) Right side view. Both PA branches controlled by tourniquets (black ties). LAD = left anterior descending coronary artery; LV = left ventricle; PA = pulmonary artery; AC = aortic component; PC = pulmonary component; RA = right atrium; RV = right ventricle; TA = truncus arteriosus. *Reproduced with permission from Corno AF.*
 
 ![](_page_17_Picture_4.jpeg)
 
-**Figure 19. Operative images demonstrating truncus arteriosus with adjacent origins of the pulmonary arteries (A2): A) the two pulmonary arteries have been controlled with blue elastic vessel loops; B) cardiopulmonary bypass has been instituted, pulmonary arteries snared, aortic cross-clamping applied and cardioplegia administered. Ao = aorta; LPA = left pulmonary artery; RA = right atrium; RPA = right pulmonary artery; RV = right ventricle, TA = truncus arteriosus; PC = pulmonary component.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 19.** Truncus with adjacent PA origins (A2): A) Two PAs controlled with blue elastic vessel loops; B) CPB instituted, PAs snared, aortic cross-clamping applied, cardioplegia administered. Ao = aorta; LPA = left pulmonary artery; RA = right atrium; RPA = right pulmonary artery; RV = right ventricle; TA = truncus arteriosus; PC = pulmonary component. *Reproduced with permission from Corno AF.*
+
+#### Arch Reconstruction (Figure 20)
+
+**When interrupted aortic arch present:** Arch reconstruction first during deep hypothermic circulatory arrest with regional brain and coronary perfusion; remainder of repair during slow rewarming.
 
 ![](_page_18_Picture_2.jpeg)
 
-**Figure 20. Truncus arteriosus (Type A4) and interrupted aortic arch (Type A). Ao = aorta; IAA = interrupted aortic arch; PDA = patent ductus arteriosus; RA = right atrium; RV = right ventricle; TA = truncus arteriosus; PC = pulmonary component.**
+**FIGURE 20.** Truncus arteriosus Type A4 and interrupted aortic arch Type A. Ao = aorta; IAA = interrupted aortic arch; PDA = patent ductus arteriosus; RA = right atrium; RV = right ventricle; TA = truncus arteriosus; PC = pulmonary component.
 
-- The surgical technique consists of three major steps, including:
-  - a) separation of the pulmonary artery component from the truncus, which at this point becomes the neo-aorta (Figure 21);
-  - b) closure of the ventricular defect with a patch, normally through a longitudinal right ventriculotomy (Figure 22A);
-  - c) connection of the right ventricle to the pulmonary artery component with a biological valved conduit (Figure 22B).
-- Truncal reconstruction into a neo-aorta can be obtained either directly or with a patch (pericardium or PTFE), depending on the size, vicinity of the coronary ostia, need for root plasty and any interventions required on the valve. Patch closure is the preferred technique.
+#### Three Major Surgical Steps (Figures 21–22)
+
+| Step | Description |
+|---|---|
+| **1. Separation of PA component** | From truncus (becomes neo-aorta) (Figure 21) |
+| **2. VSD closure** | With patch through longitudinal right ventriculotomy (Figure 22A) |
+| **3. RV-PA connection** | With biological valved conduit (Figure 22B) |
 
 ![](_page_19_Picture_2.jpeg)
 
-**Figure 21. Operative images demonstrating: A) opening of the truncus arteriosus, with initial separation of the origin of the pulmonary artery component, and visualisation of the truncal valve and of the origin of the left coronary artery immediately underneath the pulmonary artery component; and B) completed separation of the origin of the pulmonary artery component. PA = pulmonary artery; TV = truncal valve.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 21.** Operative images: A) Opening truncus, initial separation of PA component origin, visualisation of truncal valve and LMCA origin immediately underneath PA component; B) Completed separation of PA component origin. PA = pulmonary artery; TV = truncal valve. *Reproduced with permission from Corno AF.*
 
 ![](_page_19_Picture_4.jpeg)
 
-**Figure 22. Operative images demonstrating: A) closure of the residual opening in the truncus arteriosus (now aorta) with a PTFE patch (black asterisk), following separation of the pulmonary component; and B) interposition of an 18mm Contegra® biological valved conduit between the right ventricle and pulmonary component. PA = pulmonary artery; Ao = aorta; RA = right atrium; RV = right ventricle.** *Reproduced with permission from Corno AF. Truncus arteriosus. In: Congenital Heart Defects: Decision Making for Surgery. Volume 2. Less Common Defects. Corno AF, Ed. Darmstadt, Germany: Steinkopff Verlag, 2004:.*
+**FIGURE 22.** Operative images: A) Closure of residual opening in truncus (now aorta) with PTFE patch (black asterisk) after PA component separation; B) Interposition of 18 mm Contegra® biological valved conduit between RV and PA component. PA = pulmonary artery; Ao = aorta; RA = right atrium; RV = right ventricle. *Reproduced with permission from Corno AF.*
 
-- VSD closure can be performed through the right ventriculotomy in most cases, given the subarterial position of the defect, which avoids damage to the truncal valve and conduction system. Additional muscular VSDs when present can be closed via the right atrium.
-- Valveless conduits are rarely used as a connection between the right ventricle and pulmonary artery. Most centres use valved conduits, such as homografts, bovine jugular vein and Hancock™ valves. Size and availability may direct the choice of conduit.
-- Alternatively, it is possible to perform a direct anastomosis of the posterior wall of the pulmonary component to the posterior edge of the right ventriculotomy, completing the connection with a pericardial or PTFE roof, with or without a monocusp pulmonary valve (which is known as the réparation à l'étage ventriculaire [REV] procedure). This technique is best suited in Type A1 truncus arteriosus, where a suitable common pulmonary trunk is available.
-- Associated lesions are treated during the same procedure, especially in the presence of aortic coarctation or interrupted aortic arch.
-- Truncal valve plasty is a challenging part of the procedure. In the presence of moderate to severe truncal valve regurgitation, particularly with a quadrileaflet valve, a reduction plasty to three leaflets with leaflet excision and annular remodelling can substantially reduce the degree of valvular regurgitation.
-- In patients with a stenotic truncal valve, reconstructive truncal valve surgery is more difficult and replacement with a homograft or mechanical valve may be required.
+#### Truncal Reconstruction into Neo-aorta
 
-### 18 **What are the outcomes of repair for truncus arteriosus?**
+- Direct closure or patch (pericardium or PTFE)
+- Choice depends on size, vicinity of coronary ostia, need for root plasty, valve interventions
+- **Patch closure is preferred technique**
 
-- As truncus arteriosus is a rare congenital heart defect, there are only a few surgical series with a large number of patients, with historical data reporting wide ranging hospital mortality rates.
-- Recent series report hospital mortality between 3-5% in selected patients.
-- The European Association for Cardiothoracic Surgery (EACTS) registry reports a hospital mortality of 17.7% (181 deaths over 1224 reported cases).
-- The Society of Thoracic Surgeons' registry reports a hospital mortality of 10.9% (62 deaths over 572 cases).
-- In all reports, the hospital mortality substantially increases with associated lesions, such as when surgery of the truncal valve is required (up to 30%) or in the presence of aortic arch interruption (up to 60%).
+#### VSD Closure
 
-• Reporting on a staged strategy is limited to small series and case reports, with the pre-operative risk being increased with comorbidities, such as low birth weight.
+- Through right ventriculotomy in most cases (subarterial position avoids damage to truncal valve and conduction system)
+- Additional muscular VSDs can be closed via right atrium
 
-#### 19 **What are the potential complications following surgical repair of truncus arteriosus?**
+#### RV-PA Conduit
 
-- In the immediate postoperative period, echocardiography is the most suitable investigation to rule out any residual defects, including:
-  - a) residual ventricular septal defect;
-  - b) residual or progressive truncal valve stenosis or regurgitation (Figure 23);
+- Valveless conduits rarely used
+- Most centres use **valved conduits:** homografts, bovine jugular vein, Hancock™ valves
+- Size and availability direct choice
+
+#### Alternative: REV Procedure
+
+- Direct anastomosis of posterior wall of PA component to posterior edge of right ventriculotomy
+- Completed with pericardial or PTFE roof ± monocusp pulmonary valve
+- **Best suited for Type A1** truncus (suitable common pulmonary trunk available)
+
+#### Associated Lesions
+
+Treated during same procedure (especially aortic coarctation or interrupted arch)
+
+#### Truncal Valve Plasty
+
+- **Challenging part** of procedure
+- **Moderate-severe regurgitation (especially quadrileaflet):** Reduction plasty to three leaflets with leaflet excision + annular remodelling → substantially reduces regurgitation
+- **Stenotic truncal valve:** Reconstructive surgery more difficult; replacement with homograft or mechanical valve may be required
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 12. Outcomes of Repair</summary><div class="details-content">
+
+#### Hospital Mortality
+
+| Source | Mortality |
+|---|---|
+| Recent series (selected patients) | 3–5% |
+| EACTS registry (1,224 cases) | 17.7% (181 deaths) |
+| STS registry (572 cases) | 10.9% (62 deaths) |
+
+#### Risk Factors for Increased Mortality
+
+| Factor | Mortality |
+|---|---|
+| Truncal valve surgery | Up to 30% |
+| Aortic arch interruption | Up to 60% |
+| Low birth weight (staged strategy) | Increased risk (small series) |
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 13. Postoperative Complications</summary><div class="details-content">
+
+#### Immediate Postoperative Assessment
+
+**Echocardiography** most suitable to rule out residual defects:
+
+| Complication | Figure |
+|---|---|
+| Residual VSD | — |
+| Residual or progressive truncal valve stenosis/regurgitation | Figure 23 |
+| Residual RVOT obstruction | Figure 24 |
 
 ![](_page_21_Figure_7.jpeg)
 
-**Figure 23. Postoperative echocardiogram demonstrating: A) the ventricular septal defect closed with a patch; and B) residual degree of truncal valve regurgitation, on the corresponding colour flow Doppler image. Ao = aorta; LA = left atrium; LV = left ventricle; VSD = ventricular septal defect.**
-
-- c) residual right ventricular outflow tract obstruction (Figure 24).
-- Other complications include:
-  - a) arrhythmias;
-  - b) complete atrioventricular block requiring permanent pacemaker;
-  - c) airway compression, especially in the presence of right aortic arch and aortic coarctation or aortic arch interruption;
-  - d) pulmonary hypertensive crisis.
+**FIGURE 23.** Postoperative echocardiography: A) VSD closed with patch; B) Residual truncal valve regurgitation on colour Doppler. Ao = aorta; LA = left atrium; LV = left ventricle; VSD = ventricular septal defect.
 
 ![](_page_22_Picture_2.jpeg)
 
-**Figure 24. Postoperative echocardiogram demonstrating: A) the presence of a homograft between the right ventricle and pulmonary artery; and B) mild stenosis of the pulmonary artery branches on the corresponding colour flow Doppler image. Ao = aorta; LPA = left pulmonary artery; PA = pulmonary artery; RPA = right pulmonary artery.**
+**FIGURE 24.** Postoperative echocardiography: A) Homograft between RV and PA; B) Mild PA branch stenosis on colour Doppler. Ao = aorta; LPA = left pulmonary artery; PA = pulmonary artery; RPA = right pulmonary artery.
 
-#### 20 **What are the long-term outcomes for patients with truncus arteriosus?**
+#### Other Complications
 
-- The importance of a regular clinical follow-up in patients after repair of truncus arteriosus increases with their age, because of potential anatomical and functional issues, requiring appropriate investigation with echocardiography, cardiac catheterisation with angiography, CT scan and MRI.
-- Potential late complications include:
-  - a) progressive neo-aortic valve dysfunction, particularly regurgitation, with potential dilatation of the neo-aorta (Figure 25);
-  - b) right ventricular outflow tract obstruction at the level of the proximal or distal anastomosis (Figure 26). This is due in most cases to calcification or outgrowth, with potential aneurysmal dilatation of the right ventricular outflow tract (Figure 27);
-  - c) aortic arch obstruction, especially after surgery for associated aortic coarctation or arch interruption;
-  - d) extrinsic compression of the airway (Figure 28), especially in the presence of a right aortic arch or previous aortic arch surgery.
+- Arrhythmias
+- Complete AV block requiring permanent pacemaker
+- Airway compression (especially with right aortic arch, coarctation, or arch interruption)
+- Pulmonary hypertensive crisis
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 14. Long-term Outcomes</summary><div class="details-content">
+
+#### Importance of Regular Follow-up
+
+Regular clinical follow-up increases with age due to potential anatomical and functional issues. Requires appropriate investigation with:
+- Echocardiography
+- Cardiac catheterisation with angiography
+- CT scan
+- MRI
+
+#### Potential Late Complications (Figures 25–28)
+
+| Structure | Complication |
+|---|---|
+| **Neo-aortic valve** | Progressive regurgitation, neo-aortic dilatation (Figure 25) |
+| **RVOT/conduit** | Proximal or distal anastomosis obstruction (calcification/outgrowth) (Figure 26); aneurysmal dilatation (Figure 27) |
+| **Aortic arch** | Obstruction after coarctation/arch interruption repair |
+| **Airways** | Extrinsic compression (especially with right arch or previous arch surgery) (Figure 28) |
 
 ![](_page_23_Picture_2.jpeg)
 
-**Figure 25. Follow-up cardiac magnetic resonance imaging scan demonstrating mild dilatation of the aortic root after repair of truncus arteriosus.**
+**FIGURE 25.** Follow-up MRI: Mild aortic root dilatation after truncus repair.
 
 ![](_page_23_Figure_4.jpeg)
 
-**Figure 26. Follow-up cardiac magnetic resonance imaging scan demonstrating proximal stenosis of the implanted homograft and some dilatation of the left pulmonary artery, on: A) cine image; and B) 3D volume rendered image. LPA = left pulmonary artery; RPA = right pulmonary artery; LV = left ventricle; PA = pulmonary artery, RV = right ventricle; RVOT = right ventricular outflow tract.**
+**FIGURE 26.** Follow-up MRI: Proximal homograft stenosis and LPA dilatation. A) Cine image; B) 3D volume rendered. LPA = left pulmonary artery; RPA = right pulmonary artery; LV = left ventricle; PA = pulmonary artery; RV = right ventricle; RVOT = right ventricular outflow tract.
 
 ![](_page_24_Picture_2.jpeg)
 
-**Figure 27. Follow-up 3D volume rendering computed tomography angiogram demonstrating a large aneurysm of the right ventricular outflow tract. Ao = aorta; IA = innominate artery; LA = left atrium; LPA = left pulmonary artery; LV = left ventricle; MPA = main pulmonary artery; RPA = right pulmonary artery; RV = right ventricle; RVOT = right ventricular outflow tract.**
+**FIGURE 27.** Follow-up 3D CT angiogram: Large aneurysm of RVOT. Ao = aorta; IA = innominate artery; LA = left atrium; LPA = left pulmonary artery; LV = left ventricle; MPA = main pulmonary artery; RPA = right pulmonary artery; RV = right ventricle; RVOT = right ventricular outflow tract.
 
 ![](_page_24_Picture_4.jpeg)
 
-**Figure 28. Follow-up computed tomography scan demonstrating a dilated right aortic arch and tracheal compression requiring long-term intubation, on: A) axial image; and B) 3D volume rendered posteroanterior image.**
+**FIGURE 28.** Follow-up CT: Dilated right aortic arch and tracheal compression requiring long-term intubation. A) Axial image; B) 3D volume rendered posteroanterior.
 
-- The goals of an adequate long-term postoperative follow-up include assessing the adequacy of:
-  - a) left and right ventricular volumes, function and mass;
-  - b) neo-aortic valve function (Figure 29);
-  - c) function of the coronary arteries (Figure 30);
-  - d) right ventricular outflow tract, valved conduit and branch pulmonary arteries (Figure 31);
-  - e) aortic arch and isthmus;
-  - f) airways.
+#### Goals of Long-term Postoperative Follow-up (Figures 29–31)
+
+| Goal | Figure |
+|---|---|
+| LV and RV volumes, function, mass | — |
+| Neo-aortic valve function | Figure 29 |
+| Coronary artery function | Figure 30 |
+| RVOT, valved conduit, branch PAs | Figure 31 |
+| Aortic arch and isthmus | — |
+| Airways | — |
 
 ![](_page_25_Figure_9.jpeg)
 
-**Figure 29. Follow-up cardiac magnetic resonance imaging scan demonstrating the left ventricular outflow tract with a well-functioning neo-aortic valve. Ao = aorta; LV = left ventricle; PAs = pulmonary arteries; RA = right atrium; SVC = superior vena cava.**
+**FIGURE 29.** Follow-up MRI: LVOT with well-functioning neo-aortic valve. Ao = aorta; LV = left ventricle; PAs = pulmonary arteries; RA = right atrium; SVC = superior vena cava.
 
 ![](_page_26_Picture_2.jpeg)
 
-**Figure 30. Follow-up 3D magnetic resonance imaging scan demonstrating the morphology of the coronaries arteries. Ao = aorta; LCA = left coronary artery; RCA = right coronary artery.**
+**FIGURE 30.** Follow-up 3D MRI: Coronary artery morphology. Ao = aorta; LCA = left coronary artery; RCA = right coronary artery.
 
 ![](_page_26_Picture_4.jpeg)
 
-**Figure 31. Follow-up cardiac magnetic resonance imaging scan demonstrating the implanted right ventricle to pulmonary artery conduit with a hypoplastic right pulmonary artery.**
+**FIGURE 31.** Follow-up MRI: Implanted RV-PA conduit with hypoplastic RPA.
+
+</div></details>
