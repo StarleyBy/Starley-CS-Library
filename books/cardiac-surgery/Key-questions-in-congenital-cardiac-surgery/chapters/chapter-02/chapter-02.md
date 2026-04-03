@@ -318,7 +318,7 @@ In the neonate, PVR is high and equals SVR → both ventricles generate high pre
 
 **Systemic vascular resistance (SVR):**
 
-$$SVR\ (\text{dynes●sec/cm}^5) = \frac{(\text{MAP} - \text{CVP}) \times 80}{\text{CO}}$$
+$$SVR\ (\text{dynes $\cdot$ sec/cm}^5) = \frac{(\text{MAP} - \text{CVP}) \times 80}{\text{CO}}$$
 
 $$SVR\ (\text{Wood units}) = \frac{\text{MAP} - \text{CVP}}{\text{CO}}$$
 
@@ -328,7 +328,7 @@ Normal SVR: 770–1500 dynes·sec/cm⁵ or 10–20 Wood units.
 
 **Pulmonary vascular resistance (PVR):**
 
-$$PVR\ (\text{dynes●sec/cm}^5) = \frac{(\text{MPAP} - \text{LAP}) \times 80}{\text{CO}}$$
+$$PVR\ (\text{dynes $\cdot$ sec/cm}^5) = \frac{(\text{MPAP} - \text{LAP}) \times 80}{\text{CO}}$$
 
 $$PVR\ (\text{Wood units}) = \frac{\text{MPAP} - \text{LAP}}{\text{CO}}$$
 
