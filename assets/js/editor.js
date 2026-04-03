@@ -253,13 +253,9 @@ function updatePreview() {
         let safeTex = tex;
         // % is LaTeX comment char — escape unescaped %
         safeTex = safeTex.replace(/(?<!\\)%/g, '\\%');
-        // Unicode middle dot · → \cdot
-        safeTex = safeTex.replace(/·/g, '\\cdot ');
-        // Unicode × → \times (outside \text{})
-        safeTex = safeTex.replace(/×/g, '\\times ');
-        // Unicode minus − → -
+        // Unicode minus − (U+2212) → ASCII minus (KaTeX needs ASCII)
         safeTex = safeTex.replace(/−/g, '-');
-        // Unicode superscript digits → ^{n}
+        // Unicode superscript digits outside \text → ^{n}
         const supMap = {'⁰':'0','¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9','⁻':'-'};
         safeTex = safeTex.replace(/[⁰¹²³⁴⁵⁶⁷⁸⁹⁻]+/g, m => '^{' + m.split('').map(c => supMap[c]||c).join('') + '}');
         mathStore.push({ id, tex: safeTex, display });

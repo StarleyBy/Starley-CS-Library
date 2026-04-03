@@ -249,12 +249,7 @@ async function loadChapter(bookPath, chapterId, edition) {
             let safeTex = tex;
             // % is LaTeX comment char — escape unescaped %
             safeTex = safeTex.replace(/(?<!\\)%/g, '\\%');
-            // Unicode middle dot → \cdot
-            safeTex = safeTex.replace(/·/g, '\\cdot ');
-            // Unicode multiplication × inside math (outside \text) → \times
-            // Only replace × that are NOT inside \text{...}
-            safeTex = safeTex.replace(/(?<!\\text\{[^}]*)×(?![^{]*\})/g, '\\times ');
-            // Unicode minus − → - 
+            // Unicode minus − (U+2212) → ASCII minus (KaTeX requires ASCII)
             safeTex = safeTex.replace(/−/g, '-');
             // Unicode superscript digits → ^{n}
             const supMap = {'⁰':'0','¹':'1','²':'2','³':'3','⁴':'4','⁵':'5','⁶':'6','⁷':'7','⁸':'8','⁹':'9','⁻':'-'};
