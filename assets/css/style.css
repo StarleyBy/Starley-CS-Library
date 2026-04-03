@@ -128,7 +128,7 @@ main {
 /* ─── neon-info panel ─── */
 .neon-info {
     position: relative;
-    padding: 8px 8px;
+    padding: 8px 8px 10px;
     border-radius: 4px;
     background-color: rgba(255, 255, 255, 0.95);
     transition: all 0.3s ease;
@@ -137,9 +137,9 @@ main {
     border: 1px solid rgba(100, 100, 100, 0.3);
     animation: neonPulse 2s infinite alternate;
     color: inherit;
-    /* увеличен с 70px → 90px, чтобы вместить 2 строки названия + 2 строки авторов */
-    max-height: 90px;
-    overflow: hidden;
+    /* убираем фиксированный max-height — пусть высота определяется содержимым */
+    min-height: 60px;
+    overflow: visible;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -148,7 +148,7 @@ main {
 /* ─── book-title ─── */
 .book-title {
     font-size: clamp(0.65rem, 2.2vw, 0.95rem);
-    margin: 0 0 2px 0;
+    margin: 0 0 4px 0;
     font-weight: bold;
     /* white-space: normal — разрешаем перенос строк */
     white-space: normal;
