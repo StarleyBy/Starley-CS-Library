@@ -1,186 +1,483 @@
-# **Chapter 35**
+# Interrupted Aortic Arch
 
-#### Interrupted aortic arch
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-**Harold M. Burkhart**
+### Definition and Anatomy
+- **Interrupted aortic arch (IAA):** Discontinuity in the lumen of the aortic arch
+- Accounts for **1.5%** of all congenital heart disease
+- **Three anatomical segments:**
+  - Proximal segment: between innominate artery and left common carotid artery (LCCA)
+  - Distal segment: from LCCA to left subclavian artery (LSCA)
+  - Aortic isthmus: beyond LSCA to proximal descending aorta (area of ductus arteriosus)
 
-- 1 **What is interrupted aortic arch?**
-- Interrupted aortic arch (IAA) is a discontinuity in the lumen of the aortic arch.
-- It accounts for 1.5% of all congenital heart disease.
+### Classification (Figure 1)
+| Type | Interruption site | Frequency |
+|---|---|---|
+| **Type A** | Isthmus (beyond LSCA) | ~30% |
+| **Type B** | Between LCCA and LSCA | ~65% (most common) |
+| **Type C** | Between innominate artery and LCCA | <5% (rare) |
 
-#### 2 **What are the three anatomical segments of the aortic arch?**
+### Embryology
+- Proximal arch: aortic sac
+- Distal arch: 4th embryonic arch
+- Isthmus: junction of 6th and 4th arches + left dorsal aorta
+- Most common brachiocephalic anomaly: aberrant right subclavian artery from proximal descending aorta
 
-- The proximal segment lies between the innominate artery and the left common carotid artery.
-- The distal segment extends from the left common carotid artery to the left subclavian artery.
-- The aortic isthmus is the area beyond the left subclavian artery to the proximal descending aorta in the area of the ductus arteriosus.
+### Associated Cardiac Anomalies
+| Anomaly | Incidence |
+|---|---|
+| Ventricular septal defect (VSD) | 72–85% |
+| Truncus arteriosus | 9–18% |
+| Aortic valve stenosis | 10% |
+| Transposition of great arteries | 4–6% |
+| Aortopulmonary window | 3–5% |
 
-#### 3 **Describe the classification system used for interrupted aortic arch (Figure 1)**
+### Left Ventricular Outflow Tract Obstruction (LVOTO) in IAA
+Factors contributing (Figure 2):
+- Posterior malalignment of conal septum relative to VSD
+- Bicuspid aortic valve
+- Hypoplasia of aortic annulus
+- Prominent muscle of Moulaert
 
-• Type A — interruption at the isthmus.
+### Associated Syndromes
+- **DiGeorge syndrome (22q11 deletion):** 25–35% of IAA patients
+- Features: hypocalcaemia, absent thymus, low CD4 T-lymphocyte count, dysmorphic facial features
+
+### Clinical Presentation (Neonate)
+Depends on ductal patency:
+| Ductus | Presentation |
+|---|---|
+| **Closed** | Poor lower body perfusion → acidosis, renal/hepatic failure, poor gut perfusion |
+| **Open** | Congestive heart failure (as PVR drops → unrestricted pulmonary blood flow) |
+
+### Medical Management
+- **Primary goal:** Maintain ductal patency → **intravenous prostaglandin** (maintains and re-establishes patency)
+- Ventilator management to decrease PBF and promote peripheral perfusion
+- **Avoid:** High levels of oxygen and hyperventilation
+- Aggressive resuscitation before surgery (correct acidosis, renal failure, hepatic failure)
+
+### Diagnostic Imaging
+**Echocardiography (investigation of choice):** Assesses:
+- Site and distance of interruption
+- Diameter of aortic valve and ascending aorta
+- Presence of VSD, conal septal anatomy
+- LVOTO presence
+- Location of aortic arch branches
+
+**Other modalities:**
+- **Cardiac catheterisation:** When anatomy unclear; for associated anomaly intervention (e.g., balloon septostomy in TGA); postoperative assessment/intervention
+- **MRI/CT with 3D reconstruction:** Define arch anatomy and surrounding vascular relationships (Figure 3)
+
+### Surgical Options
+**After resuscitation, surgical repair undertaken as:**
+
+| Approach | Description |
+|---|---|
+| **One-stage** | Arch reconstruction + VSD closure in single procedure |
+| **Two-stage** | Arch reconstruction (left thoracotomy or median sternotomy) + PA banding (if VSD non-restrictive); VSD repaired at second operation |
+
+### Cardiopulmonary Bypass for One-Stage Repair (Figures 4–5)
+- Median sternotomy, excise thymus
+- Identify and control aorta and all arch vessels
+- **Arterial cannulation options:**
+  - Direct into ascending aorta
+  - 3.5 mm graft to innominate artery (allows low-flow cerebral perfusion during arch reconstruction)
+- **Second arterial cannula** into MPA or ductus (Y-configuration for lower body cooling)
+- **Bicaval cannulation** for VSD repair (or single venous cannula with DHCA)
+- Cool to **18°C**, arrest heart with cardioplegia
+
+### Aortic Arch Reconstruction (Figures 6–9)
+- At deep hypothermia: ligate and divide ductus
+- Arch reconstruction under **DHCA** or **low-flow cerebral perfusion** (via innominate artery) + coronary perfusion when possible (Figure 6)
+- Complete mobilisation of arch components (may divide LSCA or aberrant RSCA)
+- Assess distance between arch components → direct anastomosis vs augmented patch repair (Figure 7)
+- Incision on left lateral aspect of distal ascending aorta
+- Resect all ductal tissue from distal arch
+- **Direct anastomosis:** When ends close enough, suture with fine monofilament (Figure 8)
+- **Patch augmentation:** Patch (homograft, pericardium) used anteriorly (Figure 9)
+
+### VSD Repair (Figure 10)
+- Patch closure
+- **Approach:**
+  - Via right atrium (if conal septum well developed)
+  - Via transverse incision in MPA (if conal septum hypoplastic)
+
+### Severe LVOTO with IAA
+- If adequate ventricles + unrestrictive VSD → two-ventricle repair still possible
+- **Damus-Kaye-Stansel reconstruction** of ascending aorta and MPA
+- Baffle VSD to include pulmonary valve
+- RV to PA conduit (**Yasui operation**)
+- Can be staged (wait for growth in borderline LV)
+
+### Early Complications of IAA Repair
+- Recurrent laryngeal nerve injury
+- Phrenic nerve injury
+- Persistent aortic arch obstruction
+- Left bronchial obstruction
+- Atrioventricular block (following VSD repair)
+
+### Outcomes
+- **Early mortality (one-stage repair):** ~10%
+- **Survival:** 1-year 75–80%; 5-year 70–75%
+- **18-year freedom from aortic arch obstruction:** 46%
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition, Anatomy, and Classification</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 1. What is interrupted aortic arch?</summary><div class="details-content">
+
+**Interrupted aortic arch (IAA)** is a discontinuity in the lumen of the aortic arch.
+
+It accounts for **1.5%** of all congenital heart disease.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 2. What are the three anatomical segments of the aortic arch?</summary><div class="details-content">
+
+| Segment | Boundaries |
+|---|---|
+| **Proximal segment** | Between innominate artery and left common carotid artery (LCCA) |
+| **Distal segment** | From left common carotid artery to left subclavian artery (LSCA) |
+| **Aortic isthmus** | Beyond left subclavian artery to proximal descending aorta (area of ductus arteriosus) |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 3. Describe the classification system used for interrupted aortic arch (Figure 1)</summary><div class="details-content">
+
+| Type | Interruption site | Frequency |
+|---|---|---|
+| **Type A** | Isthmus (beyond left subclavian artery) | ~30% |
+| **Type B** | Between left common carotid artery and left subclavian artery | ~65% (most common) |
+| **Type C** | Between innominate artery and left common carotid artery | <5% (rare) |
 
 ![](_page_0_Picture_13.jpeg)
 
-**Figure 1. Classification system for IAA.** *Reproduced with permission from the Mayo Foundation for Medical Education and Research; all rights reserved.*
+**FIGURE 1.** Classification system for IAA. *Reproduced with permission from the Mayo Foundation for Medical Education and Research; all rights reserved.*
 
-- Type B interruption between the left common carotid artery and the left subclavian artery, which accounts for approximately twothirds of all IAA cases.
-- Type C discontinuity between the innominate artery and the left common carotid artery, which is rare (<5% of cases).</li>
+</div></details>
 
-#### 4 What is the embryologic origin of the aortic arch?
+<details class="med-details"><summary>
+  
+#### 4. What is the embryologic origin of the aortic arch?</summary><div class="details-content">
 
-- The proximal aortic arch develops from the aortic sac.
-- The distal arch is derived from the 4th embryonic arch.
-- The isthmus is derived from the junction of the 6th embryonic arch with the 4th embryonic arch and left dorsal aorta.
-- Origins of the brachiocephalic vessel may be abnormal in IAA. The most common anomaly is an aberrant right subclavian artery arising from the proximal descending aorta.
+| Structure | Embryologic origin |
+|---|---|
+| **Proximal aortic arch** | Aortic sac |
+| **Distal arch** | 4th embryonic arch |
+| **Isthmus** | Junction of 6th embryonic arch with 4th embryonic arch and left dorsal aorta |
 
-## 5 What are the most common cardiac anomalies associated with an interrupted aortic arch?
+**Brachiocephalic anomalies in IAA:** Origins may be abnormal. Most common is an **aberrant right subclavian artery** arising from the proximal descending aorta.
 
-- Ventricular septal defect (VSD, 72-85%).
-- Truncus arteriosus (9-18%).
-- Aortic valve stenosis (10%).
-- Transposition of the great arteries (4-6%).
-- Aortopulmonary window (3-5%).
+</div></details>
 
-### 6 What factors may contribute to left ventricular outflow tract obstruction in interrupted aortic arch?
+</div></details>
 
-- Posterior malalignment of the conal septum relative to the VSD.
-- Bicuspid aortic valve.
-- Hypoplasia of the aortic annulus.
-- Prominent muscle of Moulaert (Figure 2).
+---
 
-#### Which syndromes are associated with interrupted aortic arch?
+<details class="med-details"><summary>
+  
+## 2. Associated Anomalies and Syndromes</summary><div class="details-content">
 
- DiGeorge syndrome (22q11 deletion) is associated with IAA and occurs in 25-35% of patients. The syndrome is associated with hypocalcaemia, absent thymus, a low CD4 T-lymphocyte count and dysmorphic facial features.
+<details class="med-details"><summary>
+  
+#### 5. What are the most common cardiac anomalies associated with an interrupted aortic arch?</summary><div class="details-content">
+
+| Anomaly | Incidence |
+|---|---|
+| Ventricular septal defect (VSD) | 72–85% |
+| Truncus arteriosus | 9–18% |
+| Aortic valve stenosis | 10% |
+| Transposition of the great arteries | 4–6% |
+| Aortopulmonary window | 3–5% |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 6. What factors may contribute to left ventricular outflow tract obstruction in interrupted aortic arch?</summary><div class="details-content">
+
+Factors contributing to LVOTO in IAA (Figure 2):
+- Posterior malalignment of the conal septum relative to the VSD
+- Bicuspid aortic valve
+- Hypoplasia of the aortic annulus
+- **Prominent muscle of Moulaert**
 
 ![](_page_2_Picture_2.jpeg)
 
-**1049 Figure 2. Left ventricular outflow tract obstruction in interrupted aortic arch. VSD = ventricular septal defect.** *Reproduced with permission from the Mayo Foundation for Medical Education and Research; all rights reserved.*
+**FIGURE 2.** Left ventricular outflow tract obstruction in interrupted aortic arch. VSD = ventricular septal defect. *Reproduced with permission from the Mayo Foundation for Medical Education and Research; all rights reserved.*
 
-#### 8 **What is the clinical presentation of <sup>a</sup> neonate with interrupted aortic arch?**
+</div></details>
 
-- The presentation of a neonate with IAA depends on the patency of the ductus arteriosus.
-- If the ductus arteriosus closes, the neonate will present with poor perfusion in the lower half of the body, resulting in acidosis, renal and hepatic failure, and poor perfusion of the gut.
-- If the ductus arteriosus remains open, the neonate will present with congestive heart failure, as the pulmonary resistance naturally drops allowing unrestricted pulmonary blood flow.
+<details class="med-details"><summary>
+  
+#### 7. Which syndromes are associated with interrupted aortic arch?</summary><div class="details-content">
 
-#### 9 **Describe the medical management of <sup>a</sup> neonate presenting with interrupted aortic arch**
+**DiGeorge syndrome (22q11 deletion)** is associated with IAA and occurs in **25–35%** of patients.
 
-- The primary goal of pre-operative medical management of a baby with IAA is maintenance of ductus arteriosus patency. This involves instituting intravenous prostaglandin.
-- In the neonate, prostaglandin is able to maintain and also re-establish ductal patency.
-- Ventilator management can also be utilised to decrease pulmonary blood flow and promote peripheral perfusion.
+**Features of DiGeorge syndrome:**
+- Hypocalcaemia
+- Absent thymus
+- Low CD4 T-lymphocyte count
+- Dysmorphic facial features
 
-- High levels of oxygen and hyperventilation should be avoided.
-- Prior to operating, the baby should be aggressively resuscitated with the correction of any acidosis, renal failure and hepatic failure.
+</div></details>
 
-### 10 What are the echocardiographic features of interrupted aortic arch?
+</div></details>
 
-- Echocardiography is the investigation of choice for the diagnosis of IAA to establish the:
-  - a) site and distance of the interruption;
-  - b) diameter of the aortic valve and ascending aorta;
-  - c) presence of any VSD;
-  - d) conal septal anatomy;
-  - e) presence of any left ventricular outflow tract obstruction;
-  - f) location of the aortic arch branches.
+---
 
-### Describe the use of other imaging modalities in a neonate with interrupted aortic arch
+<details class="med-details"><summary>
+  
+## 3. Clinical Presentation and Medical Management</summary><div class="details-content">
 
-- Cardiac catheterisation is indicated where:
-  - a) anatomy of the cardiac anomaly is unclear;
+<details class="med-details"><summary>
+  
+#### 8. What is the clinical presentation of a neonate with interrupted aortic arch?</summary><div class="details-content">
+
+Presentation depends on **patency of the ductus arteriosus**:
+
+| Ductus status | Presentation |
+|---|---|
+| **Closed** | Poor perfusion in lower half of body → acidosis, renal failure, hepatic failure, poor gut perfusion |
+| **Open** | Congestive heart failure (as pulmonary resistance drops → unrestricted pulmonary blood flow) |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 9. Describe the medical management of a neonate presenting with interrupted aortic arch</summary><div class="details-content">
+
+**Primary goal:** Maintain ductus arteriosus patency
+
+**Interventions:**
+- **Intravenous prostaglandin** — can maintain and re-establish ductal patency
+- **Ventilator management** — decrease pulmonary blood flow and promote peripheral perfusion
+- **Avoid:** High levels of oxygen and hyperventilation
+- **Aggressive resuscitation** before surgery — correct acidosis, renal failure, hepatic failure
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 4. Diagnostic Imaging</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 10. What are the echocardiographic features of interrupted aortic arch?</summary><div class="details-content">
+
+**Echocardiography is the investigation of choice** for IAA diagnosis.
+
+**Assesses:**
+- Site and distance of interruption
+- Diameter of aortic valve and ascending aorta
+- Presence of any VSD
+- Conal septal anatomy
+- Presence of any LVOTO
+- Location of aortic arch branches
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 11. Describe the use of other imaging modalities in a neonate with interrupted aortic arch</summary><div class="details-content">
+
+**Cardiac catheterisation indicated when:**
+- Anatomy of cardiac anomaly is unclear
+- Cardiac intervention required for associated anomaly (e.g., balloon septostomy in TGA)
+- Postoperatively: to assess aortic arch and intervene if necessary
+
+**MRI and CT with 3D reconstruction (Figure 3):**
+- Helpful in defining arch anatomy and relationships of surrounding vascular structures
 
 ![](_page_3_Figure_15.jpeg)
 
 ![](_page_3_Figure_16.jpeg)
 
-**Figure 3.** Magnetic resonance images of a Type C interrupted aortic arch from an: A) anterior view; and B) posterior view. CORSA = cervical origin of the right subclavian artery; LCCA = left common carotid artery; LSCA = left subclavian artery; PDA = patent ductus arteriosus; RSCA = right subclavian artery; RCCA = right common carotid artery; IAA = interrupted aortic arch; Desc Ao = descending aorta.
+**FIGURE 3.** MRI of Type C interrupted aortic arch: A) Anterior view; B) Posterior view. CORSA = cervical origin of right subclavian artery; LCCA = left common carotid artery; LSCA = left subclavian artery; PDA = patent ductus arteriosus; RSCA = right subclavian artery; RCCA = right common carotid artery; IAA = interrupted aortic arch; Desc Ao = descending aorta.
 
-- b) cardiac intervention is required for an associated cardiac anomaly, such as balloon septostomy in associated transposition of the great arteries;
-- c) postoperatively, to assess the aortic arch and intervene, if necessary.
-- Magnetic resonance imaging (Figure 3) and computed tomography with 3D reconstruction can be helpful in defining the arch anatomy and relationships of surrounding vascular structures.
+</div></details>
 
-### 12 What are the surgical options for a neonate with interrupted aortic arch?
+</div></details>
 
-- Following resuscitation of the neonate, surgical repair should be undertaken. This can be achieved as a:
-  - a) one-stage approach where the arch is reconstructed and the VSD is closed in one surgical procedure;
-  - b) two-stage approach where the arch is reconstructed via a left thoracotomy or median sternotomy and a pulmonary artery band is placed, if the VSD is non-restrictive. The VSD is repaired at the time of the second operation.
+---
 
-### 13 Describe the principles of cardiopulmonary bypass for a one-stage repair of interrupted aortic arch
+<details class="med-details"><summary>
+  
+## 5. Surgical Management</summary><div class="details-content">
 
-- Following median sternotomy, the thymus is excised.
-- The aorta and all arch vessels are identified and controlled (Figure 4).
-- An arterial cannula is usually inserted directly into the ascending aorta. Alternatively, a 3.5mm graft may be sutured to the innominate artery (Figure 5). The graft can then be cannulated, keeping the cannula out of the ascending aorta and allows for low-flow cerebral perfusion during arch reconstruction.
-- A second arterial cannula, employed to maximise body cooling, is inserted into the main pulmonary artery or ductus arteriosus. Both arterial cannulae are connected together in a Y-configuration into the arterial line of the cardiopulmonary bypass circuit.
-- Bicaval cannulation is usually employed for venous drainage to allow for VSD repair. Alternatively, a single venous cannula may be employed and the VSD repair performed with hypothermic circulatory arrest.
-- The pulmonary arteries are controlled once cardiopulmonary bypass is instituted. The patient is cooled to 18°C and the heart is arrested with cardioplegia.
+<details class="med-details"><summary>
+  
+#### 12. What are the surgical options for a neonate with interrupted aortic arch?</summary><div class="details-content">
+
+After resuscitation, surgical repair should be undertaken:
+
+| Approach | Description |
+|---|---|
+| **One-stage approach** | Arch reconstruction + VSD closure in one surgical procedure |
+| **Two-stage approach** | Arch reconstruction (left thoracotomy or median sternotomy) + PA banding (if VSD non-restrictive); VSD repaired at second operation |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 13. Describe the principles of cardiopulmonary bypass for a one-stage repair of interrupted aortic arch (Figures 4–5)</summary><div class="details-content">
+
+**Preparation:**
+- Median sternotomy, excise thymus
+- Identify and control aorta and all arch vessels (Figure 4)
 
 ![](_page_5_Picture_2.jpeg)
 
-**Figure 4. Operative image following dissection and identification of the vessels and their position in the mediastinum. Asc Ao = ascending aorta; RBCA = right brachiocephalic artery; LCCA = left common carotid artery; MPA = main pulmonary artery.**
+**FIGURE 4.** Operative image after dissection: Asc Ao = ascending aorta; RBCA = right brachiocephalic artery; LCCA = left common carotid artery; MPA = main pulmonary artery.
+
+**Arterial cannulation (Figure 5):**
+- Usually direct into ascending aorta
+- **Alternative:** 3.5 mm graft sutured to innominate artery (keeps cannula out of ascending aorta, allows low-flow cerebral perfusion during arch reconstruction)
+- **Second arterial cannula** into MPA or ductus arteriosus (maximises body cooling)
+- Both cannulae connected in Y-configuration to arterial line of CPB circuit
 
 ![](_page_5_Picture_4.jpeg)
 
-**Figure 5. Operative images demonstrating arterial cannulation for interrupted aortic arch: A) a Gore-Tex™ tube graft (normally 3.5mm) is used as an interposition graft to cannulate the arterial circulation when the ascending aorta is too small; B) the anastomosis is performed on the right brachiocephalic artery (RBCA), with the help of a side-clamp; C) a second cannula is inserted with a Y-configuration into the patent ductus arteriosus to enable cooling of the lower body. A right atrial cannula completes the circuit. PTFE = polytetrafluorethylene; PDA = patent ductus arteriosus; RA = right atrium.**
+**FIGURE 5.** Arterial cannulation for IAA: A) Gore-Tex™ graft (3.5 mm) as interposition graft; B) Anastomosis on RBCA with side-clamp; C) Second cannula in Y-configuration into PDA for lower body cooling. PTFE = polytetrafluoroethylene; PDA = patent ductus arteriosus; RA = right atrium.
 
-#### 14 **Describe the principles of aortic arch reconstruction in interrupted aortic arch**
+**Venous drainage:**
+- **Bicaval cannulation** (allows VSD repair)
+- **Alternative:** Single venous cannula + VSD repair under hypothermic circulatory arrest
 
-- Once the temperature has reached deep hypothermia, the ductus arteriosus is ligated and divided.
-- The arch reconstruction is carried out under hypothermic circulatory arrest or utilising low-flow cerebral perfusion via the innominate artery and when possible, coronary perfusion to avoid cardiac arrest (Figure 6).
+**Cooling:**
+- Control pulmonary arteries after CPB instituted
+- Cool to **18°C**
+- Arrest heart with cardioplegia
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 14. Describe the principles of aortic arch reconstruction in interrupted aortic arch (Figures 6–9)</summary><div class="details-content">
+
+**At deep hypothermia:**
+- Ligate and divide ductus arteriosus (Figure 6A)
+- Arch reconstruction under **DHCA** or **low-flow cerebral perfusion** (via innominate artery) + coronary perfusion when possible (Figure 6B)
 
 ![](_page_6_Picture_5.jpeg)
 
-**Figure 6. Operative images demonstrating: A) division of the ductus arteriosus; and B) institution of deep hypothermic circulatory arrest (DHCA), with regional perfusion to the cerebral and coronary circulations.**
+**FIGURE 6.** A) Division of ductus arteriosus; B) DHCA with regional perfusion to cerebral and coronary circulations.
 
-- The aortic arch components are completely mobilised. Often, this involves dividing the left subclavian artery or an aberrant right subclavian artery. The distance between the two components of the arch is assessed to decide on the type of repair, either direct anastomosis or augmented patch repair (Figure 7).
-- An incision is made on the left lateral aspect of the distal ascending aorta. All ductal tissue is resected from the distal aortic arch. When the two ends are close enough, they are sutured together with a fine monofilament suture (Figure 8).
-- A patch may be used anteriorly to augment the anastomosis (Figure 9).
+**Reconstruction steps:**
+1. Complete mobilisation of arch components (may divide LSCA or aberrant RSCA)
+2. Assess distance between arch components → direct anastomosis vs augmented patch repair (Figure 7)
 
 ![](_page_7_Picture_2.jpeg)
 
 ![](_page_7_Picture_3.jpeg)
 
-**Figure 7. Operative images demonstrating identification and mobilisation of all vessels followed by measurement of the distance between the arch components. Asc Ao = ascending aorta; RBCA = right brachiocephalic artery; LCCA = left common carotid artery; MPA = main pulmonary artery; LSCA = left subclavian artery.**
+**FIGURE 7.** Identification and mobilisation of vessels, measuring distance between arch components. Asc Ao = ascending aorta; RBCA = right brachiocephalic artery; LCCA = left common carotid artery; MPA = main pulmonary artery; LSCA = left subclavian artery.
+
+3. Incision on left lateral aspect of distal ascending aorta
+4. Resect all ductal tissue from distal aortic arch
+
+**Direct anastomosis (Figure 8):**
+- When ends close enough, suture with fine monofilament suture
 
 ![](_page_7_Picture_5.jpeg)
 
 ![](_page_7_Picture_6.jpeg)
 
-**Figure 8. Operative image demonstrating interrupted aortic arch repair by direct anastomosis: A) the distal arch is identified, as well as the position of the left subclavian artery. The duct is then divided and the ductal tissue is removed from the arch; B) the distal arch is anastomosed to the ascending aorta with a direct suture (white asterisk). PDA = patent ductus arteriosus; LCCA = left common carotid artery.**
+**FIGURE 8.** Direct anastomosis repair: A) Distal arch identified, duct divided, ductal tissue removed; B) Distal arch anastomosed to ascending aorta with direct suture (white asterisk). PDA = patent ductus arteriosus; LCCA = left common carotid artery.
+
+**Patch augmentation (Figure 9):**
+- Patch used anteriorly (homograft, pericardium)
 
 ![](_page_8_Picture_2.jpeg)
 
-**Figure 9. Operative image demonstrating patch repair of the aortic arch, with: A) the patch (**∗∗**) initially anastomosed to the under-surface of the distal arch; and B) the repair completed with the patch anastomosis to the ascending aorta (**∗**).**
+**FIGURE 9.** Patch repair: A) Patch (*) anastomosed to under-surface of distal arch; B) Completed repair with patch anastomosis to ascending aorta (*).
 
-#### 15 **Describe the principles of ventricular septal defect repair in patients with interrupted aortic arch**
+</div></details>
 
-- A patch is typically utilised to repair the VSD.
-- If the conal septum is well developed, the surgical approach is via the right atrium.
-- If there is hypoplasia of the conal septum, the VSD may be better approached through a transverse incision in the main pulmonary artery (Figure 10).
+<details class="med-details"><summary>
+  
+#### 15. Describe the principles of ventricular septal defect repair in patients with interrupted aortic arch (Figure 10)</summary><div class="details-content">
+
+- **Patch closure** typically used
+- **Approach depends on conal septum:**
+
+| Conal septum | Approach |
+|---|---|
+| Well developed | Via right atrium |
+| Hypoplastic | Via transverse incision in main pulmonary artery (Figure 10) |
 
 ![](_page_8_Picture_8.jpeg)
 
 ![](_page_8_Picture_9.jpeg)
 
-**Figure 10. Operative image demonstrating: A) the ventricular septal defect (VSD) visualised through the main pulmonary artery (MPA); and B) a pericardial patch used to close the ventricular septal defect.**
+**FIGURE 10.** A) VSD visualised through MPA; B) Pericardial patch used to close VSD.
 
-### 16 What can be done if severe left ventricular outflow tract obstruction is present with interrupted aortic arch?
+</div></details>
 
-- If adequate sized ventricles are present and the VSD is unrestrictive, a two-ventricle repair is still an option, even in the face of severe left ventricular outflow tract obstruction (LVOTO).
-- A Damus-Kaye-Stansel reconstruction of the ascending aorta and main pulmonary artery can be performed. The VSD can be baffled to include the pulmonary valve. A right ventricle to pulmonary artery conduit is then performed (Yasui operation).
-- This can be done in stages, waiting to close the VSD after growth in a borderline left ventricle.
+<details class="med-details"><summary>
+  
+#### 16. What can be done if severe left ventricular outflow tract obstruction is present with interrupted aortic arch?</summary><div class="details-content">
 
-### 17 What are the possible early complications of interrupted aortic arch repair?
+If adequate sized ventricles present and VSD unrestrictive → **two-ventricle repair still possible** despite severe LVOTO.
 
-- Recurrent laryngeal nerve injury.
-- Phrenic nerve injury.
-- Persistent aortic arch obstruction.
-- Left bronchial obstruction.
-- Atrioventricular block (following VSD repair).
+**Damus-Kaye-Stansel (DKS) reconstruction:**
+- Reconstruct ascending aorta and main pulmonary artery
+- Baffle VSD to include pulmonary valve
+- RV to PA conduit (**Yasui operation**)
 
-### 18 What are the outcomes following interrupted aortic arch repair?
+Can be done in stages — wait for growth in borderline left ventricle before VSD closure.
 
-- The early mortality for a one-stage repair is approximately 10%, with the 1- and 5-year survival 75-80% and 70-75%, respectively.
-- The 18-year freedom from aortic arch obstruction is 46%.
+</div></details>
 
-#### Recommended reading
+</div></details>
 
-- McCrindle BW, Tchervenkov CI, Konstantinov IE, Williams WG, Neirotti RA, Jacobs ML, Blackstone EH. Risk factors associated with mortality and interventions in 472 neonates with interrupted aortic arch: a Congenital Heart Surgeons' Society study. J Thorac Cardiovasc Surg 2005; 129:.
-- 2. Brown JW, Ruzmetov M, Okada Y, Vijay P, Rodefeld MD, Turrentine MW. Outcomes in patients with interrupted aortic arch and associated anomalies: a 20-year experience. *Eur J Cardiothorac Surg* 2006; 29:.
-- Erez E, Tam VK, Kanter KR, Fyfe DA. Successful biventricular repair after initial Norwood operation for interrupted aortic arch with severe left ventricular outflow tract obstruction. *Ann Thorac Surg* 2001; 71:.
-- Hussein A, Iyengar AJ, Jones B, Donath SM, Konstantinov IE, Grigg LE, Wheaton G, Bullock A, Brizard CP, d'Udekem Y. Twenty-three years of single-stage end-to-side anastomosis repair of interrupted aortic arch. J Thorac Cardiovasc Surg 2010; 139:.
+---
+
+<details class="med-details"><summary>
+  
+## 6. Complications and Outcomes</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 17. What are the possible early complications of interrupted aortic arch repair?</summary><div class="details-content">
+
+- Recurrent laryngeal nerve injury
+- Phrenic nerve injury
+- Persistent aortic arch obstruction
+- Left bronchial obstruction
+- Atrioventricular block (following VSD repair)
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 18. What are the outcomes following interrupted aortic arch repair?</summary><div class="details-content">
+
+| Outcome | Rate |
+|---|---|
+| **Early mortality (one-stage repair)** | ~10% |
+| **1-year survival** | 75–80% |
+| **5-year survival** | 70–75% |
+| **18-year freedom from aortic arch obstruction** | 46% |
+
+</div></details>
+
+</div></details>
