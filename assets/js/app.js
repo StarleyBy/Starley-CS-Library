@@ -4,10 +4,9 @@
 let IMAGES_BASE_URL = './';
 
 if (window.location.hostname.includes('github.io')) {
-    // Для GitHub Pages используем полный URL к репозиторию для изображений
     const pathParts = window.location.pathname.split('/');
-    const repoName = pathParts[1]; // имя репозитория из URL
-    if (repoName && !repoName.includes('.')) { // проверяем, что это имя репозитория, а не домен
+    const repoName = pathParts[1];
+    if (repoName && !repoName.includes('.')) {
         IMAGES_BASE_URL = `./`;
     } else {
         IMAGES_BASE_URL = './';
@@ -90,43 +89,32 @@ function renderCategory(category, booksHtml) {
     `;
 }
 
-// Функция для получения изображения по умолчанию, если обложка не указана
 function getDefaultCoverImage(bookPath) {
-    // Попробуем найти любое изображение в папке книги для использования в качестве обложки
-    // Возвращаем null, так как конкретное изображение будет определено в шаблоне
     return null;
 }
 
 function generateNeonColor(bookTitle) {
-    // Генерируем уникальный цвет на основе названия книги
     let hash = 0;
     for (let i = 0; i < bookTitle.length; i++) {
         hash = bookTitle.charCodeAt(i) + ((hash << 5) - hash);
     }
-    
-    // Конвертируем хэш в цвета
     const r = Math.abs((hash >> 16) & 0xFF) % 256;
     const g = Math.abs((hash >> 8) & 0xFF) % 256;
     const b = Math.abs(hash & 0xFF) % 256;
-    
-    // Возвращаем цвет в формате RGB
     return `rgb(${r}, ${g}, ${b})`;
 }
 
 function renderBookCard(bookPath, bookMeta) {
-    // Определить путь к обложке
     const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
-    
-    // Используем правильный базовый URL для изображений
     const coverImagePath = coverImage ? `${IMAGES_BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
-    
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
-    
-    // Генерируем цвет для неонового эффекта
     const neonColor = generateNeonColor(bookMeta.title);
-    
+
+    // Всегда добавляем data-full-title — tooltip будет для всех книг
+    const escapedTitle = bookMeta.title.replace(/"/g, '&quot;');
+
     return `
-        <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}">
+        <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}" data-full-title="${escapedTitle}">
             <div class="book-cover-wrapper">
                 <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
                      onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');"
@@ -156,7 +144,6 @@ function attachBookClickHandlers() {
 function setupSearch() {
     const searchInput = document.getElementById('search');
     
-    // Keep the live filtering for immediate feedback
     searchInput.addEventListener('input', (e) => {
         const searchTerm = e.target.value.toLowerCase();
         document.querySelectorAll('.book-card').forEach(card => {
@@ -171,7 +158,6 @@ function setupSearch() {
         });
     });
 
-    // Add global search redirection on Enter key
     searchInput.addEventListener('keyup', (e) => {
         if (e.key === 'Enter') {
             const searchTerm = e.target.value.trim();
@@ -182,104 +168,49 @@ function setupSearch() {
     });
 }
 
-// Функция для адаптации размера шрифта под размер контейнера
-function adjustFontSize(element, maxFontSize = 16, minFontSize = 10) {
-    if (!element) return;
-    
-    let fontSize = maxFontSize;
-    element.style.fontSize = fontSize + 'px';
-    
-    // Уменьшаем шрифт, пока текст не поместится в контейнер
-    while (element.scrollWidth > element.offsetWidth && fontSize > minFontSize) {
-        fontSize -= 1;
-        element.style.fontSize = fontSize + 'px';
-    }
-}
+// Отключаем adjustFontSize — управление через CSS
+window.adjustFontSize = function() {};
+window.adjustAllFontSizes = function() {};
 
-// Функция для адаптации размера шрифта для всех элементов
-function adjustAllFontSizes() {
-    // Добавляем небольшую задержку, чтобы элементы точно отрисовались
-    setTimeout(() => {
-        document.querySelectorAll('.book-title, .book-authors').forEach(element => {
-            const maxFontSize = element.classList.contains('book-title') ? 16 : 14;
-            const minFontSize = element.classList.contains('book-title') ? 8 : 6;
-            adjustFontSize(element, maxFontSize, minFontSize);
-        });
-    }, 100);
-}
-
-// ПАТЧИМ функцию renderBookCard для отображения баджей версий
+// Патч renderBookCard для version badges
 const originalRenderBookCard = window.renderBookCard;
 
 window.renderBookCard = function(bookPath, bookMeta) {
     let html = originalRenderBookCard(bookPath, bookMeta);
-    
+
     const versions = bookMeta.versions || {};
-    
-    // Создаём badge только если есть хотя бы одна доступная версия
+
     if (versions.original || versions.russian || versions.starley || versions.hebrew) {
         let badgesHtml = '<div class="version-badges">';
-        
-        // EN badge только если явно указан original: true
+
         if (versions.original === true) {
             badgesHtml += '<span class="version-badge en">EN</span>';
         }
-        
         if (versions.russian === true) {
             badgesHtml += '<span class="version-badge ru">RU</span>';
         }
-        
         if (versions.starley === true) {
             badgesHtml += '<span class="version-badge star">⭐</span>';
         }
-        
         if (versions.hebrew === true) {
             badgesHtml += '<span class="version-badge he">HE</span>';
         }
-        
+
         badgesHtml += '</div>';
-        
+
         html = html.replace(
             '<div class="book-cover-wrapper">',
             '<div class="book-cover-wrapper">' + badgesHtml
         );
     }
-    
-    const titleLength = bookMeta.title.length;
-    if (titleLength > 80) {
-        html = html.replace('class="book-title"', 'class="book-title very-long-title"');
-        html = html.replace(
-            'class="book-card"',
-            `class="book-card" data-full-title="${bookMeta.title.replace(/"/g, '&quot;')}"`
-        );
-    } else if (titleLength > 50) {
-        html = html.replace('class="book-title"', 'class="book-title long-title"');
-        html = html.replace(
-            'class="book-card"',
-            `class="book-card" data-full-title="${bookMeta.title.replace(/"/g, '&quot;')}"`
-        );
-    }
-    
+
     return html;
 };
 
-// ОТКЛЮЧАЕМ adjustFontSize и adjustAllFontSizes для предотвращения конфликта со стилями
-const originalAdjustFontSize = window.adjustFontSize;
-const originalAdjustAllFontSizes = window.adjustAllFontSizes;
-
-window.adjustFontSize = function() {
-    // Ничего не делаем
-};
-
-window.adjustAllFontSizes = function() {
-    // Ничего не делаем
-};
-
-// После загрузки DOM удаляем все inline стили с font-size
+// Удаляем inline font-size после рендера (на случай если что-то его выставило)
 document.addEventListener('DOMContentLoaded', function() {
     setTimeout(function() {
         document.querySelectorAll('.book-title, .book-authors').forEach(element => {
-            // Удаляем только font-size из inline стилей
             if (element.style.fontSize) {
                 element.style.fontSize = '';
             }
@@ -287,11 +218,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 200);
 });
 
-// После загрузки библиотеки вызываем адаптацию   шрифтов
 function loadLibraryAndAdjustFonts() {
-    loadLibrary().then(() => {
-        adjustAllFontSizes();
-    }).catch(error => {
+    loadLibrary().catch(error => {
         console.error('Error loading library:', error);
     });
 }
