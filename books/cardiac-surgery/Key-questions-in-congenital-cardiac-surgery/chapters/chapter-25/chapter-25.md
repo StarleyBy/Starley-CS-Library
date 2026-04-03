@@ -1,151 +1,311 @@
-# **Chapter 25**
+# Double-Outlet Right Ventricle
 
-## Double-outlet right ventricle
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-**Adrian Crucean, Natasha E. Khan**
+### Definition and General Concepts
+- **Double-outlet right ventricle (DORV)** is a ventriculo-arterial connection in which both great arteries arise **entirely or predominantly** from the morphologic right ventricle (RV).
+- The **"50% rule"** : >50% of the cross-sectional area of each great artery must be supported by the RV. The key word is **"predominantly"** .
+- DORV is **not a single phenotype** but a heterogeneous group united by one type of ventriculo-arterial connection.
+- **Embryology:** Persistence of the early developmental phase when both outflow tracts are supported by the developing RV.
 
-## 1 **What is the definition of double-outlet right ventricle?**
+### Associated Anomalies
+- **Common:** RVOT obstruction (most frequent), ASD, coarctation/hypoplastic arch, LVOTO, AVSD (Type C Rastelli), LV hypoplasia.
+- **Rare:** Discordant AV connections, straddling valves, RV hypoplasia, isomerism-associated anomalies.
 
-- Double-outlet right ventricle (DORV) is a type of ventriculo-arterial connection in which both great arteries arise entirely or predominantly from the morphological right ventricle (RV).
-- More than 50% of the cross-sectional area of the pulmonary valve and more than 50% of the cross-sectional area of the aortic valve must be supported by the RV (the '50% rule'). The exact percentage has been debated in the past and the key word in the definition is 'predominantly' (Figure 1).
+### Taussig-Bing Anomaly
+- DORV with **subpulmonary VSD**, side-by-side great arteries, bilateral conuses.
+- Spectrum from DORV to TGA depending on degree of pulmonary trunk overriding.
+- Almost always requires **arterial switch operation**.
+
+### Anatomical Classification (by VSD position)
+| Type | VSD location |
+|---|---|
+| Subaortic | Beneath aortic valve |
+| Subpulmonary (Taussig-Bing) | Beneath pulmonary valve |
+| Doubly-committed (juxta-arterial) | Fibrous continuity between aortic and pulmonary leaflets |
+| Non-committed | Remote (inlet or apical), not directed to either outflow |
+
+### Key Anatomical Modifiers
+- **Outlet septum (OS):** Displaced, becomes intracavitary RV structure.
+- **Septomarginal trabeculation (SMT):** Constant muscle bundle from outlet to RV apex.
+- **Ventriculo-infundibular fold (VIF):** Forms muscular infundibulum below pulmonary valve.
+- **Conduction tissue:** Usually runs in posteroinferior border of VSD; safe in muscular defects.
+
+### Pathophysiology (depends on VSD position)
+- **Subaortic VSD (VSD-type):** Behaves like VSD → pulmonary over-circulation. With PS → tetralogy of Fallot-type.
+- **Subpulmonary VSD (TGA-type):** LV blood → PA, RV/mixed blood → aorta → cyanosis + pulmonary over-circulation.
+- **Streaming:** Directed flow from LV across VSD into a specific outflow tract.
+
+### Diagnosis
+- **CXR:** Cardiomegaly + plethoric lungs (VSD-type); normal heart + oligemic lungs (TOF-type).
+- **Echocardiography** — mainstay. Systematic sequential segmental analysis: atrial situs, AV valves, ventricular morphology, VSD location/size/number, 50% rule, infundibular morphology, coronary anatomy, arch anatomy.
+- **CT/MRI:** Intracardiac/extracardiac anatomy, coronary anomalies, 3D printing for complex cases.
+
+### Neonatal Palliative Interventions
+- **To restrict PBF (no PS):** Pulmonary artery banding. Trusler's law: `18–21 mm + weight (kg)`. Goal: peak velocity 3–4 m/s, distal PA pressure <50% systemic.
+- **To augment PBF (PS/atresia):**
+  - RV→PA shunt (5–6 mm Gore-Tex®)
+  - Modified BT shunt (3–4 mm)
+  - Ductus arteriosus stent
+  - RVOT stent
+
+### Surgical Repair by Type
+| VSD type | Repair |
+|---|---|
+| Subaortic / doubly-committed | Intraventricular baffle (tunnel) from LV → aorta; RVOT augmentation if PS |
+| Subpulmonary (Taussig-Bing) | Arterial switch + VSD closure; if side-by-side arteries → intraventricular tunnel; if subpulmonary stenosis → Rastelli or REV |
+| Non-committed | Often functionally univentricular palliation |
+
+### Outcomes
+- **Biventricular repair:** Mortality <5% (simple) to 20–25% (complex). 30-day reintervention 10–15%. 5-year survival 85–90%.
+- **Univentricular palliation:** 5-year survival ~70%, 10-year post-Fontan ~80%.
+- **Common reoperations at 5 years:** LVOTO, RV→PA conduit replacement, redo AVSD.
+
+### Burden in Practice
+- Only 1% of congenital defects, but disproportionately complex. High reintervention rates, ongoing burden of reoperations for LVOT and RVOT obstruction.
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition and General Concepts</summary><div class="details-content">
+
+#### What is Double-Outlet Right Ventricle?
+
+**Double-outlet right ventricle (DORV)** is a type of ventriculo-arterial connection in which **both great arteries arise entirely or predominantly from the morphologic right ventricle (RV)** .
+
+More than 50% of the cross-sectional area of the pulmonary valve and more than 50% of the cross-sectional area of the aortic valve must be supported by the RV — the **"50% rule"** . The exact percentage has been debated, and the key word in the definition is **"predominantly"** (Figure 1).
 
 ![](_page_0_Figure_7.jpeg)
 
-**Figure 1. Cardiac computed tomography 3-dimensional volume-rendered reconstructions of double-outlet right ventricle. Assessment of the great artery orifice override is obtained in a cross-sectional view based on the cord subtended by the interventricular crest of the muscular septum (white arrow in image A and asterisk in image B), with: A) demonstrating a more balanced division (50% rule); whereas in B) the arterial orifice is firmly overriding the right ventricle (RV).** *Reproduced with permission from Professor Anthony Hlavacek, Medical University of South Carolina, USA.*
+**FIGURE 1.** Cardiac CT 3D volume-rendered reconstructions of DORV. Assessment of great artery orifice override is obtained in a cross-sectional view based on the cord subtended by the interventricular crest of the muscular septum (white arrow in A, asterisk in B). A) More balanced division (50% rule); B) Arterial orifice firmly overriding the RV. *Reproduced with permission from Professor Anthony Hlavacek, Medical University of South Carolina, USA.*
 
-#### 2 **Is double-outlet right ventricle <sup>a</sup> single congenital phenotypical malformation?**
+#### Is DORV a Single Congenital Phenotype?
 
-- DORV does not represent a specific phenotype but comprises hearts with very heterogeneous cardiac and extracardiac anatomy simply united by one variety of ventriculo-arterial connection.
-- It can exist with other forms of atrial arrangements, atrioventricular connections and arterial relationships.
-- It cannot exist with another form of ventriculo-arterial connection.
-- The great arteries may be arranged normally relative to each other, or they may be 'malposed'.
+**No.** DORV does not represent a specific phenotype but comprises hearts with very heterogeneous cardiac and extracardiac anatomy simply united by one variety of ventriculo-arterial connection.
 
-#### 3 **Is double-outlet right ventricle an abnormality of the position of the great arteries or an abnormality of the outlet septum?**
+- It can exist with other forms of atrial arrangements, atrioventricular connections, and arterial relationships.
+- It **cannot** exist with another form of ventriculo-arterial connection.
+- The great arteries may be arranged normally relative to each other, or they may be **"malposed"** .
 
-- Many have tried to define DORV with one main characteristic. As a result, several definitions are currently found in the literature, including:
-  - a) fibrous discontinuity between the mitral and aortic valves;
-  - b) malposition of the great arteries;
-  - c) the presence of bilateral infundibula;
-  - d) the position of the outlet septum (OS) relative to the great arteries.
-- All the above features are variable in themselves and hence, it is better to use a single objective criterion for diagnosis, i.e. the ventriculo-arterial connections.
+#### Is DORV an Abnormality of Position or Outlet Septum?
 
-#### 4 **Describe the embryological development of doubleoutlet right ventricle**
+Many have tried to define DORV with one main characteristic. Several definitions exist in the literature, including:
 
-- There is a normal early phase during any human embryo heart when both outflow tracts are entirely supported by the developing RV with the embryonic interventricular communication being the only outlet of the developing left ventricle (LV) into the RV.
-- Further remodelling of this interventricular communication and a complex transfer process of translocation and rotation of the septated aortic root towards the LV ensures the normal heart develops its separate connections.
-- If the early developmental phase persists, then the definitive RV will retain its connection with both arterial outlets even after their septation.
-- This explains why DORV is far more frequent than the double-outlet left ventricle. There is good evidence for this ontogenetic developmental theory; however, it is not yet clear whether DORV
+- Fibrous discontinuity between the mitral and aortic valves
+- Malposition of the great arteries
+- Presence of bilateral infundibula
+- Position of the outlet septum (OS) relative to the great arteries
 
-reflects a simple arrested development phase or whether there are active factors involved in the various phenotypes.
+All the above features are variable. It is better to use a **single objective criterion** for diagnosis: the **ventriculo-arterial connections**.
 
-#### 5 **Which congenital anomalies are associated with double-outlet right ventricle?**
+#### Embryological Development
 
-#### • Common:
+There is a normal early phase during any human embryo heart when **both outflow tracts are entirely supported by the developing RV**, with the embryonic interventricular communication being the only outlet of the developing LV into the RV.
 
-- a) RV outflow tract obstruction at valvular or subvalvular level is the most frequent (rarely seen in Taussig-Bing anomaly), ranging from pulmonary stenosis to pulmonary atresia;
-- b) atrial septal defect (ASD);
-- c) coarctation of the aorta and hypoplastic aortic arch or even arch interruption/atresia;
-- d) valvular or subvalvular LV outflow tract obstruction;
-- e) atrioventricular septal defect (AVSD), usually 'Type C' Rastelli;
-- f) hypoplasia of the LV.
+Further remodeling of this interventricular communication and a complex transfer process (translocation and rotation of the septated aortic root toward the LV) ensures the normal heart develops separate connections.
 
-#### • Rare:
+**If the early developmental phase persists**, the definitive RV will retain its connection with both arterial outlets even after their septation. This explains why DORV is far more frequent than double-outlet left ventricle. It is not yet clear whether DORV reflects simple arrested development or whether active factors are involved.
 
-- a) discordant atrioventricular connections;
-- b) atrioventricular valve malformations, such as straddling, hypoplasia or stenosis (for example, mitral straddling in Taussig-Bing anomaly);
-- c) RV hypoplasia;
-- d) mitral stenosis;
-- e) twisted atrioventricular connections;
-- f) complex anomalies and combinations of the above, including right atrial isomerism, total anomalous pulmonary venous connections, unbalanced common atrioventricular junction, RV obstruction, pulmonary atresia, aortic arch obstruction;
-- g) comorbidities associated with isomerism (gut malrotation, asplenia or polysplenia, renal anomalies).
+</div></details>
 
-### 6 **What is the Taussig-Bing anomaly?**
+---
 
-- Helen Taussig and Richard Bing first described a case of DORV in 1949 as "DORV with the aorta arising almost entirely from the RV and an overriding pulmonary trunk, side-by-side great arteries, bilateral conuses of almost equal height, and a large subpulmonary VSD".
-- Currently, the definition extends to include a spectrum of hearts with subpulmonary VSD via a malaligned outlet septum into the RV. Based on the degree of pulmonary trunk overriding, it ranges from DORV to discordant ventriculo-arterial connections (transposition of the great arteries [TGA]).
+<details class="med-details"><summary>
+  
+## 2. Associated Congenital Anomalies</summary><div class="details-content">
+
+#### Common Associated Anomalies
+
+- **RV outflow tract obstruction** at valvular or subvalvular level — the most frequent (rarely seen in Taussig-Bing anomaly), ranging from pulmonary stenosis to pulmonary atresia
+- **Atrial septal defect (ASD)**
+- **Coarctation of the aorta** and hypoplastic aortic arch, or even arch interruption/atresia
+- **Valvular or subvalvular LV outflow tract obstruction**
+- **Atrioventricular septal defect (AVSD)** , usually Rastelli Type C
+- **Hypoplasia of the LV**
+
+#### Rare Associated Anomalies
+
+- Discordant atrioventricular connections
+- Atrioventricular valve malformations: straddling, hypoplasia, or stenosis (e.g., mitral straddling in Taussig-Bing anomaly)
+- RV hypoplasia
+- Mitral stenosis
+- Twisted atrioventricular connections
+- Complex anomalies and combinations: right atrial isomerism, total anomalous pulmonary venous connections, unbalanced common atrioventricular junction, RV obstruction, pulmonary atresia, aortic arch obstruction
+- Comorbidities associated with isomerism: gut malrotation, asplenia or polysplenia, renal anomalies
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 3. Taussig-Bing Anomaly</summary><div class="details-content">
+
+#### Definition
+
+Helen Taussig and Richard Bing first described a case of DORV in 1949 as:
+> "DORV with the aorta arising almost entirely from the RV and an overriding pulmonary trunk, side-by-side great arteries, bilateral conuses of almost equal height, and a large subpulmonary VSD."
+
+**Current definition** extends to include a spectrum of hearts with **subpulmonary VSD** via a malaligned outlet septum into the RV. Based on the degree of pulmonary trunk overriding, it ranges from DORV to discordant ventriculo-arterial connections (transposition of the great arteries, TGA).
+
+#### Characteristics
 
 - Any type of infundibulum and great artery arrangements are included.
-- Frequently, there are associated anomalies, including subaortic obstruction, aortic arch hypoplasia, obstruction or coarctation, mitral valve cleft and/or straddling, and anomalies of the coronary arteries.
-- These hearts almost always require an arterial switch operation for their repair.
-- 7 **What is the anatomical classification of double-outlet right ventricle?**
-- Based on the VSD phenotype and topography, the following types of DORV exist:
-  - a) DORV with subaortic VSD where the RV aspect of the VSD lies beneath the aortic valve (Figures 2 and 3);
+- Frequently associated anomalies:
+  - Subaortic obstruction
+  - Aortic arch hypoplasia, obstruction, or coarctation
+  - Mitral valve cleft and/or straddling
+  - Coronary artery anomalies
+
+#### Surgical Implication
+
+These hearts almost always require an **arterial switch operation** for their repair.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 4. Anatomical Classification by VSD Position</summary><div class="details-content">
+
+Based on the VSD phenotype and topography, the following types of DORV exist (Figures 2–4):
+
+#### Subaortic VSD
+
+The RV aspect of the VSD lies **beneath the aortic valve** (Figures 2 and 3). This is the most common type.
 
 ![](_page_3_Figure_8.jpeg)
 
-**Figure 2. Human heart specimen demonstrating double-outlet right ventricle (DORV) with subaortic ventricular septal defect (VSD) and subpulmonary infundibulum, as viewed from the RV septal surface. There is no subaortic infundibulum. Ao = aorta; PT = pulmonary trunk; black triline = septomarginal trabeculation with its two limbs embracing the VSD (asterisk); OS = outlet septum, separating the pulmonary leaflets from other valves.** *Reproduced with permission from Professor Robert H. Anderson, Biosciences Institute, Newcastle University, Newcastle-upon-Tyne, UK.*
+**FIGURE 2.** Human heart specimen: DORV with subaortic VSD and subpulmonary infundibulum, viewed from RV septal surface. No subaortic infundibulum. Ao = aorta; PT = pulmonary trunk; black triline = septomarginal trabeculation (SMT) with two limbs embracing the VSD (asterisk); OS = outlet septum separating pulmonary leaflets from other valves. *Reproduced with permission from Professor Robert H. Anderson.*
 
 ![](_page_4_Picture_2.jpeg)
 
-**Figure 3. Human heart specimen demonstrating double-outlet right ventricle (DORV) with subaortic ventricular septal defect (VSD), as viewed from the RV septal surface. Note the displaced outlet septum attached to the cephalad rim of the septal band (black tri-line). The VSD opens between the rims of the septal band. The aortic and pulmonary leaflets are separated from the tricuspid valve. The pulmonary valve is far from the mitral valve but the continuity between the aortic and mitral leaflets cannot be assessed in this image, hence there is a clear subpulmonary infundibulum. LV = left ventricle; Ao = aorta; PT = pulmonary trunk; black tri-line = septomarginal trabeculation with its two limbs embracing the VSD.** *Reproduced with permission from Professor Robert H. Anderson, Biosciences Institute, Newcastle University, Newcastle-upon-Tyne, UK.*
+**FIGURE 3.** Human heart specimen: DORV with subaortic VSD. Displaced outlet septum attached to cephalad rim of septal band (black tri-line). VSD opens between rims of septal band. Aortic and pulmonary leaflets separated from tricuspid valve. Clear subpulmonary infundibulum. LV = left ventricle; Ao = aorta; PT = pulmonary trunk. *Reproduced with permission from Professor Robert H. Anderson.*
 
-- b) DORV with subpulmonary VSD (Taussig-Bing anomaly) where the RV aspect of the VSD lies beneath the pulmonary valve (Figure 4);
-- c) DORV with doubly-committed VSD (rare) where there is a fibrous continuity between the pulmonary and aortic leaflets at the roof of the VSD. This entity, however, should more appropriately be named juxta-arterial VSD; (All the above VSDs are outlet defects. Based on their border morphology, the first two categories can be perimembranous or muscular. The third category can sometimes extend to the
-- d) DORV with 'non-committed' VSD (rare) where the VSD is usually located in the apical or in the inlet portion of the RV septum.
+#### Subpulmonary VSD (Taussig-Bing Anomaly)
 
-perimembranous area);
+The RV aspect of the VSD lies **beneath the pulmonary valve** (Figure 4).
 
 ![](_page_5_Picture_2.jpeg)
 
-Subaortic infundibulum
+**FIGURE 4.** Human heart specimen: DORV with subpulmonary VSD and bilateral infundibula. LV = left ventricle; Ao = aorta; PT = pulmonary trunk; black tri-line = SMT with limbs embracing VSD; OS = outlet septum. *Reproduced with permission from Professor Robert H. Anderson.*
 
-Subpulmonary infundibulum
+#### Doubly-Committed (Juxta-Arterial) VSD
 
-Tricuspid valve in fibrous continuity with the mitral valve
+- Rare variant.
+- Fibrous continuity between pulmonary and aortic leaflets at the roof of the VSD.
+- More appropriately named **juxta-arterial VSD**.
+- Can sometimes extend to the perimembranous area.
 
-Subpulmonary VSD with the mitral valve seen in the LV
+#### Non-Committed VSD
 
-The VSD is within the extensions of the septal band but the OS is attached to the caudal branch
+- Rare.
+- VSD located in the **apical** or **inlet** portion of the RV septum.
+- Remote from both the pulmonary and aortic valves.
 
-**Figure 4. Human heart specimen demonstrating double-outlet right ventricle (DORV) with subpulmonary ventricular septal defect (VSD) and bilateral infundibula, as viewed from the RV septal surface. LV = left ventricle; Ao = aorta; PT = pulmonary trunk; black tri-line = septomarginal trabeculation with its two limbs embracing the VSD; OS = outlet septum.** *Reproduced with permission from Professor Robert H. Anderson, Biosciences Institute, Newcastle University, Newcastle-upon-Tyne, UK.*
+</div></details>
 
-#### 8 **What are the key anatomical modifiers of doubleoutlet right ventricle?**
+---
 
-- The most important morphological features of DORV that influence the surgical treatment include:
-  - a) anatomy of the interventricular communication;
-  - b) relationship of the great arteries;
-  - c) location of the conduction tissue.
-- An interventricular communication is present in the great majority of cases and is a better term than the simple geometric named VSD. These communications are complex 3D multiplane channels with a right and left ventricular entrance to the VSD channel.
-- In the normal heart, when looking at the RV side of the septum, the outlet septum is in the same plane as the rest of the septal structures. The outlet septum is normally embedded between the cranial and
+<details class="med-details"><summary>
+  
+## 5. Key Anatomical Modifiers</summary><div class="details-content">
 
-caudal limbs of the septomarginal trabeculation (SMT, septal band) and in continuity with the ventriculo-infundibular fold (VIF) of the inner heart curvature (IHC). The latter two structures take part in forming the muscular infundibulum (conus) below the pulmonary valve. There is no complete infundibulum below the aortic valve because of the fibrous aorto-mitral curtain.
+The most important morphological features of DORV that influence surgical treatment include:
 
-- In the normal heart, the outlet septum separates the subaortic and subpulmonary outlets. The infundibulum separates the leaflets of the atrioventricular and arterial valves. The septomarginal trabeculation is a relatively constant muscle bundle on the RV side of the septum that runs from the outlet to the RV apex.
-- In contrast, in DORV, the defect involves displacement of the outlet septum, which becomes an intracavitary RV structure. Therefore, the continuity of the outlet septum with the rest of the RV septal plane is lost. The displacement of the outlet septum is accompanied by changes in the position of the great arteries (Figure 5).
+- Anatomy of the **interventricular communication** (better term than simple geometric "VSD")
+- **Relationship of the great arteries**
+- **Location of the conduction tissue**
+
+#### Normal Anatomy vs. DORV
+
+In the normal heart:
+- The **outlet septum (OS)** is in the same plane as the rest of the septal structures.
+- OS is embedded between the cranial and caudal limbs of the **septomarginal trabeculation (SMT, septal band)** and in continuity with the **ventriculo-infundibular fold (VIF)** of the inner heart curvature.
+- VIF and SMT form the muscular infundibulum (conus) below the pulmonary valve.
+- No complete infundibulum below the aortic valve due to the fibrous aorto-mitral curtain.
+
+In **DORV**:
+- The defect involves **displacement of the outlet septum**, which becomes an intracavitary RV structure.
+- Continuity of the OS with the rest of the RV septal plane is **lost**.
+- Displacement of OS is accompanied by changes in the position of the great arteries (Figure 5).
 
 ![](_page_6_Picture_5.jpeg)
 
-**lp** — safe to resect if well formed. In doubly-committed subarterial VSD it can be absent or a fibrous remnant.
+**FIGURE 5.** Pitfalls during DORV surgery. Septal structures as seen from RV side (usual atrial arrangement, right-hand RV topology). Orange = conduction axis (AV node, non-branching segment, right bundle branch); yellow = SMT; blue = OS; green = VIF and infundibulum. VSD = ventricular septal defect. *Modified and reproduced with permission from Professor Robert H. Anderson.*
 
-**sfc** — safe to partially resect if well formed. Aggressive resection will penetrate the ventricular wall into the pericardial space.
+#### Great Artery Relationships
 
-**spa** opens between the limbs of SMT. Usually, if the OS is attached to the cephalad limb then the VSD is subaortic. If attached to the caudal limb, the VSD is subpulmonary.
+In the normal heart, each great artery arises **100%** from its corresponding ventricle. In DORV, a variable part of the circumference of each great artery becomes supported by the RV.
 
-Cephalad or anterior limb of the **pjq**. Safe to resect but the perforator artery may be embedded near the anterior interventricular groove.
+Important points:
+- **Normal relations** (aorta posterior and to the right of pulmonary trunk) — usually found with subaortic or doubly-committed VSD.
+- **Side-by-side great arteries** — do not predict VSD location.
+- **Anterior aorta** — frequent with subpulmonary VSD (but this is **not** "transposition"). Anterior and left-sided aorta is usually found in subaortic VSD.
 
-Caudal or posterior limb of the **pjq** — if it is short, then it allows for arterial to tricuspid continuity and the **ÅçåÇìÅíáçå ~ñáë** is superficial and at risk during VSD closure. If well developed, then it fuses to the VIF and the conduction axis will be away from the posteroinferior muscular rim.
+#### Conduction Tissue
 
-Body of **pjq** — safe to resect.
+- Usually runs in the **posteroinferior border** of the VSD.
+- If the defect is **muscular**, the conduction bundle is **not vulnerable** in the posteroinferior position.
+- If VSD enlargement is necessary, the position of the conduction tissue must be considered.
 
-**Figure 5. Pitfalls during double-outlet right ventricle surgery. Septal structures as seen from the right ventricular side in a usual atrial arrangement and right-hand RV topology. Orange = conduction axis, including atrioventricular node, non-branching segment and right bundle branch; yellow = septomarginal trabeculation (SMT); blue = outlet septum (OS); green = ventriculo-infundibular fold (VIF) and infundibulum. VSD = ventricular septal defect.** *Modified and reproduced with permission from Professor Robert H. Anderson, Biosciences Institute, Newcastle University, Newcastle-upon-Tyne, UK.*
+#### Surgical Decision Point
 
-- In the normal heart, each great artery arises 100% from its corresponding ventricle. When a VSD is present, as in DORV, the arterial tracts may arise from the non-corresponding ventricle to various degrees. There is a morphological continuum in which the great arteries change their normal one-to-one connection with their corresponding ventricles towards a setting where a variable part of the circumference of each of the great arteries becomes supported by the RV.
-- DORV comprises hearts at the end of this spectrum in which the majority of the great artery roots are supported by the RV.
-- In terms of relationships of the great arteries, the following should be remembered:
-  - a) normal relations (with the aorta posterior and to the right of the pulmonary trunk) are usually found with subaortic or doublycommitted VSD;
-  - b) side-by-side great arteries do not predict the location of the VSD;
-  - c) anterior aorta is frequent with a subpulmonary VSD but this arrangement is not 'transposition'; an anterior and left-sided aorta is usually found in subaortic VSD. The term 'malposed great arteries' may be used in DORV if followed by their precise description.
-- The conduction tissue usually runs in the posteroinferior border of the VSD. If the defect is muscular, the conduction bundle will not be vulnerable in the posteroinferior position. If VSD enlargement is necessary, the position of the conduction tissue must be considered.
-- Pre-operative imaging or intra-operative inspection will allow a decision to be made whether to close the VSD on its RV or LV entrance. In the first situation, the patient has either a VSD type or TOF type of DORV. In the latter situation, a Taussig-Bing type of DORV is present and an arterial switch is needed.
-- 9 **What are the common physiological consequences of double-outlet right ventricle?**
-- The physiology depends largely on the position and anatomy of the VSD (Figure 6). The VSD may be committed or non-committed.
-- Committed VSD where flow across the VSD is directed predominantly into a particular outflow tract. This preferentially
+Pre-operative imaging or intra-operative inspection determines whether to close the VSD on its **RV entrance** (VSD-type or TOF-type DORV) or **LV entrance** (Taussig-Bing type → arterial switch needed).
 
-#### Subaortic VSD (VSD-type), with flow from the LV to the aorta via the VSD (red arrow) and no RV outflow tract obstruction. ABC
+</div></details>
 
-#### Subaortic VSD (TOF-type), with flow from the LV to the aorta via the VSD and RV outflow tract obstruction (red asterisks).
+---
 
-Subpulmonary VSD (Taussig-Bing anomaly), with flow from the LV to the pulmonary trunk via the VSD (red arrow) and flow to the aorta from the RV (blue arrow).
+<details class="med-details"><summary>
+  
+## 6. Pathophysiology</summary><div class="details-content">
+
+The physiology depends largely on the **position and anatomy of the VSD** (Figures 6 and 7).
+
+#### Committed vs. Non-Committed VSD
+
+**Committed VSD** — flow across the VSD is directed **predominantly into a particular outflow tract** ("streaming"):
+
+| Type | Direction of LV flow | Clinical consequence |
+|---|---|---|
+| Subaortic VSD | LV → VSD → aorta | Oxygenated blood → systemic circulation |
+| Subpulmonary VSD | LV → VSD → pulmonary artery | Oxygenated blood → pulmonary circulation; desaturated blood → aorta |
+| Doubly-committed | LV → VSD → both great arteries | Mixed |
+
+**Non-committed VSD** — flow is **not directed** toward either outflow tract. The VSD is remote (inlet or apical), and flow goes into the RV cavity rather than into an outflow tract.
+
+#### Physiological Types (Figure 7)
+
+**Subaortic VSD (VSD-type):**
+- Both great arteries arise from RV, but LV blood passes across VSD into aorta.
+- Pulmonary artery arises entirely from RV.
+- RV pressure = LV pressure (due to VSD).
+- Lower pulmonary vascular resistance → **pulmonary over-circulation**.
+- Without PS: behaves like **VSD**.
+- With PS: behaves like **tetralogy of Fallot** (balanced if PS protects pulmonary vasculature).
+- Severe PS or atresia: **cyanosis** (right-to-left shunt).
+- Pulmonary atresia: only outlet is aorta; PDA required for survival.
+
+**Subpulmonary VSD (TGA-type):**
+- LV blood → VSD → pulmonary artery.
+- Aorta arises entirely from RV.
+- Physiology similar to **TGA**.
+- Without PS: pulmonary over-circulation + cyanosis (RV blood → aorta).
+- Degree of cyanosis depends on mixing (ASD, VSD, or PDA).
+
+#### Spectrum of DORV Physiology
+
+From **Fallot-type** (subaortic VSD) to **transposition-type** (subpulmonary VSD). In their simplest forms:
+- Fallot-type → VSD closure + RVOT augmentation
+- Transposition-type → arterial switch operation
 
 ![](_page_8_Picture_5.jpeg)
 
@@ -153,242 +313,332 @@ Subpulmonary VSD (Taussig-Bing anomaly), with flow from the LV to the pulmonary 
 
 ![](_page_8_Picture_7.jpeg)
 
-Doubly-committed or juxta-arterial VSD with no infundibulum (white asterisk). Flow from the LV can enter both great arteries.
-
-D E
-
-Non-committed VSD or multiple VSDs, with flow from the LV (red arrows) via the VSDs mixing with the RV blood (blue arrow) before entering the arterial roots.
-
 ![](_page_8_Picture_12.jpeg)
 
 ![](_page_8_Picture_13.jpeg)
 
-**Figure 6. Subtypes of double-outlet right ventricle (DORV) according to the position of the ventricular septal defect (VSD): A) subaortic VSD (VSD type); B) subaortic VSD (tetralogy of Fallot type); C) subpulmonary VSD (Taussig-Bing anomaly); D) doubly-committed VSD or juxta-arterial VSD with no infundibulum; and E) non-committed or multiple VSD. Ao = aorta; MPA = main pulmonary artery; SMT = septomarginal trabecula; TV = tricuspid valve; TOF = tetralogy of Fallot.**
-
-directed flow is often called 'streaming'. These are subcategorised as:
-
-- a) subaortic VSD where LV blood flow across the VSD is directed into the aorta, hence oxygenated blood flows correctly into the systemic circulation;
-- b) subpulmonary VSD where LV blood flow across the VSD is directed into the pulmonary artery, hence oxygenated blood flows back to the pulmonary circulation, while relatively desaturated blood flows into the aorta and systemic circulation;
-- c) doubly-committed juxta-arterial VSD where the flow across the VSD is directed into both the aorta and pulmonary artery.
-- Non-committed VSD where the blood flow through the VSD is not directed towards either of the outflows of the heart. It is remote from both the pulmonary and aortic valves, usually being an inlet or apical VSD. The flow across this VSD is directed into the RV cavity rather than into an outflow tract and then into a great artery. This is an uncommon type of DORV.
-- From the above description, the physiology may be elucidated (Figure 7):
-  - a) DORV with subaortic VSD. Although both great arteries arise from the RV, LV blood passes across the VSD into the aorta. The pulmonary artery arises entirely from the RV. The RV pressure is equal to the LV pressure due to the VSD, and the lower vascular resistance in the pulmonary vascular bed leads to pulmonary over-circulation. Thus, if DORV with subaortic VSD exists without pulmonary stenosis, it behaves like a VSD, whereas in the presence of pulmonary stenosis, it behaves like tetralogy of Fallot. In the latter case, the patient may be well balanced, with the pulmonary stenosis protecting the pulmonary vasculature from over-circulation. If the pulmonary stenosis is severe, or if there is pulmonary atresia, the patient will be cyanotic due to right-to-left shunting. If pulmonary stenosis is absent or mild, the patient will suffer from pulmonary over-circulation. In the case of pulmonary atresia, the only outlet from the heart is into the aorta, and an alternative source of pulmonary blood flow, such as a patent ductus arteriosus (PDA), will have to be present for survival;
-  - b) DORV with subpulmonary VSD. LV blood flows across the VSD into the pulmonary artery. The aorta arises entirely from
+**FIGURE 6.** Subtypes of DORV according to VSD position: A) Subaortic VSD (VSD-type); B) Subaortic VSD (TOF-type); C) Subpulmonary VSD (Taussig-Bing); D) Doubly-committed (juxta-arterial) VSD; E) Non-committed or multiple VSD. Ao = aorta; MPA = main pulmonary artery; SMT = septomarginal trabecula; TV = tricuspid valve; TOF = tetralogy of Fallot.
 
 ![](_page_10_Picture_2.jpeg)
 
-**791 Figure 7. Physiological behaviour based on the position of the ventricular septal defect (VSD). In the VSD-type, there is a net left-to-right shunt at ventricular level, causing the main pulmonary arterial saturation to be near systemic. In tetralogy of Fallot (TOF)-type, right ventricular outflow tract (RVOT) obstruction can drive bidirectional or right-to-left shunting at ventricular level, with overall cyanosis. In transposition of the great arteries (TGA)-type (with subpulmonary VSD), streaming of blood mimics the physiology of TGA.**
+**FIGURE 7.** Physiological behavior based on VSD position. VSD-type: net left-to-right shunt, main PA saturation near systemic. TOF-type: RVOT obstruction → bidirectional or right-to-left shunting, cyanosis. TGA-type (subpulmonary VSD): streaming mimics TGA physiology.
 
-the RV. This is similar to the physiology in TGA, with LV blood flowing into the pulmonary artery, and RV or mixed blood flowing into the aorta. As above, if there is no mechanical obstruction to blood flow into the pulmonary artery, there will be pulmonary over-circulation. As RV blood flows into the aorta, however, these babies are cyanotic. The degree of cyanosis will depend on the efficiency of 'mixing', which may happen through an ASD, VSD, or even across a PDA.
+</div></details>
 
-• The above two arrangements show the spectrum of DORV, from Fallot-type (subaortic VSD) to transposition-type (subpulmonary VSD) of physiology. In their simplest forms, these lesions are treated according to their physiology, with Fallot-type by closure of the VSD and augmentation of the RVOT, and transposition-type by arterial switch operation.
+---
 
-• In the context of DORV, 'committability' refers to the flow pattern into the great arteries. It is an evolving term depending on surgical abilities, whereas 'remoteness' is an anatomical term. They are not totally interchangeable.
+<details class="med-details"><summary>
+  
+## 7. Epidemiology and Natural History</summary><div class="details-content">
 
-#### 10 **What is the epidemiology and natural history of patients with double-outlet right ventricle?**
+- DORV is rare, detected in approximately **0.5–1.5%** of postnatal congenital heart disease.
+- Natural history differs with associated anatomy and pathophysiology, mirroring the evolution of untreated VSD, TOF, arch obstruction, or other associated conditions.
 
-- DORV is rare and detected in approximately 0.5-1.5% of postnatal congenital heart disease.
-- The natural history will differ with the associated anatomy and pathophysiology of this heterogeneous group, mirroring the evolution of untreated VSD, TOF, arch obstruction or other associated conditions.
+</div></details>
 
-#### 11 **Describe the presentation of <sup>a</sup> patient with doubleoutlet right ventricle**
+---
 
-- Patients usually present in the neonatal period with:
-  - a) an antenatal diagnosis;
-  - b) obvious extracardiac anomalies;
-  - c) circulatory collapse caused by aortic arch hypoplasia/interruption;
-  - d) cyanosis caused by restricted pulmonary blood flow or poor mixing;
-  - e) heart failure caused by pulmonary over-circulation.
+<details class="med-details"><summary>
+  
+## 8. Clinical Presentation</summary><div class="details-content">
 
-#### 12 **What are the chest radiographical features of doubleoutlet right ventricle?**
+Patients usually present in the **neonatal period** with:
 
-- Cardiomegaly and plethoric lungs in VSD-type DORV.
-- Mild or no cardiomegaly and reduced pulmonary vascular markings in TOF-type DORV.
+- An **antenatal diagnosis**
+- Obvious **extracardiac anomalies**
+- **Circulatory collapse** caused by aortic arch hypoplasia/interruption
+- **Cyanosis** caused by restricted pulmonary blood flow or poor mixing
+- **Heart failure** caused by pulmonary over-circulation
 
-#### 13 **What are the echocardiographic features of doubleoutlet right ventricle?**
+</div></details>
 
-• Echocardiography is the most important diagnostic tool because it provides a comprehensive analysis of the morphological and physiological features.
+---
 
-- The echocardiographic approach should address the diagnosis with a systematic sequential segmental analysis of the heart as a whole, including:
-  - a) atrial morphology and systemic/pulmonary venous return which is particularly important in isomeric hearts;
-  - b) atrioventricular valves where there may be a common atrioventricular valve, absent connections or straddling (Figure 8);
+<details class="med-details"><summary>
+  
+## 9. Diagnostic Imaging</summary><div class="details-content">
+
+#### Chest Radiography
+
+- **VSD-type DORV:** Cardiomegaly + plethoric lungs
+- **TOF-type DORV:** Mild or no cardiomegaly + reduced pulmonary vascular markings
+
+#### Echocardiography — Mainstay of Diagnosis
+
+Echocardiography provides comprehensive analysis of morphological and physiological features. A **systematic sequential segmental analysis** should include:
+
+- **Atrial morphology** and systemic/pulmonary venous return (especially important in isomeric hearts)
+- **Atrioventricular valves** — common AV valve, absent connections, or straddling (Figure 8)
 
 ![](_page_12_Figure_5.jpeg)
 
-**Figure 8. Parasternal long-axis echocardiographic view of double-outlet right ventricle with a common atrioventricular valve (CAVV). LA = left atrium; LV = left ventricle; RV = right ventricle; MPA = main pulmonary artery; Ao = aorta.**
+**FIGURE 8.** Parasternal long-axis echocardiographic view of DORV with common atrioventricular valve (CAVV). LA = left atrium; LV = left ventricle; RV = right ventricle; MPA = main pulmonary artery; Ao = aorta.
 
-- c) ventricular morphology and size;
-- d) VSD location, size and number according to topography and phenotype (Figure 9);
-- e) confirmation of the abnormal ventriculo-arterial connection using the '50% rule'. The line projected by the geometric plane of septation cranially continued as to cross the circumference of the overriding great artery (Figure 10);
-- f) infundibular morphology and obstruction (Figure 11);
-- g) size and position of the arterial roots and valves, and coronary artery anatomy (important for RV incisions and arterial switch procedure);
+- **Ventricular morphology and size**
+- **VSD location, size, and number** according to topography and phenotype (Figure 9)
 
 ![](_page_13_Figure_2.jpeg)
 
-**Figure 9. Echocardiographic image demonstrating multiple ventricular septal defects (VSD). mLV = morphological left ventricle; mRV = morphological right ventricle; MPA = main pulmonary artery; Ao = aorta.**
+**FIGURE 9.** Echocardiographic image demonstrating multiple VSDs. mLV = morphologic LV; mRV = morphologic RV; MPA = main pulmonary artery; Ao = aorta.
+
+- Confirmation of abnormal ventriculo-arterial connection using the **"50% rule"** — the line projected by the geometric plane of septation cranially continued to cross the circumference of the overriding great artery
+- **Infundibular morphology and obstruction** (Figures 10, 11)
 
 ![](_page_13_Figure_4.jpeg)
 
-**Figure 10. Echocardiographic images demonstrating: A) infundibular obstruction in tetralogy of Fallot-type double-outlet right ventricle; and B) flow acceleration in the main pulmonary artery bifurcation on the corresponding colour flow Doppler image. MPA = main pulmonary artery; Ao = aorta; MV = mitral valve; TV = tricuspid valve.**
-
-- h) anatomy of the aortic arch, pulmonary trunk and branches (Figure 12).
-- 3D echocardiography can be useful in clarifying the relationship between the VSD and the great arteries.
+**FIGURE 10.** Echocardiographic images demonstrating: A) Infundibular obstruction in TOF-type DORV; B) Flow acceleration in MPA bifurcation on color flow Doppler. MPA = main pulmonary artery; Ao = aorta; MV = mitral valve; TV = tricuspid valve.
 
 ![](_page_14_Picture_2.jpeg)
 
-**Figure 11. Echocardiographic image demonstrating double-outlet right ventricle, ventricular septal defect (VSD) and right ventricular outflow tract (RVOT) obstruction. RV = right ventricle; TV = tricuspid valve.**
+**FIGURE 11.** Echocardiographic image demonstrating DORV, VSD, and RVOT obstruction. RV = right ventricle; TV = tricuspid valve.
+
+- **Size and position of arterial roots and valves** and **coronary artery anatomy** (important for RV incisions and arterial switch)
+- **Anatomy of the aortic arch, pulmonary trunk, and branches** (Figure 12)
 
 ![](_page_14_Figure_4.jpeg)
 
-**Figure 12. Echocardiographic image demonstrating double-outlet right ventricle associated with aortic arch hypoplasia.**
+**FIGURE 12.** Echocardiographic image demonstrating DORV associated with aortic arch hypoplasia.
 
-• It is the short, not the long, axis of the ventricular mass that must be used in any imaging method to assign the extent of overriding of the arterial root circumference.
+**Important technical note:** It is the **short axis**, not the long axis, of the ventricular mass that must be used to assign the extent of overriding of the arterial root circumference.
 
-#### 14 **What is the role of cross-sectional imaging in doubleoutlet right ventricle?**
+**3D echocardiography** can be useful in clarifying the relationship between the VSD and the great arteries.
 
-- Cardiac catheterisation is rarely required but can be used to characterise the systemic and pulmonary venous return, coronary anatomy, pressure gradients, or to measure the pulmonary vascular resistance and relative systemic and pulmonary blood flows.
-- Computed tomography (CT) is indicated for the evaluation of intracardiac anatomy (Figures 13 and 14) and extracardiac vascular anatomy, including arch and pulmonary arteries, coronary anatomy (Figure 15), and suitability of VSD closure.
-- Cardiac magnetic resonance imaging (MRI) is used in a few selected patients to measure the pulmonary vascular resistance, and relative systemic and pulmonary blood flows.
+#### Cross-Sectional Imaging (CT, MRI, 3D Printing)
+
+**Cardiac catheterization** is rarely required but can characterize:
+- Systemic and pulmonary venous return
+- Coronary anatomy
+- Pressure gradients
+- Pulmonary vascular resistance and Qp:Qs
+
+**Computed tomography (CT)** is indicated for evaluation of:
+- Intracardiac anatomy (Figures 13, 14)
+- Extracardiac vascular anatomy (arch, pulmonary arteries)
+- Coronary anatomy (Figure 15)
+- Suitability of VSD closure
 
 ![](_page_15_Picture_6.jpeg)
 
-**Figure 13. Computed tomography (CT) angiogram demonstrating the relationship between the ventricular chambers and both the aortic and pulmonary trunks in double-outlet right ventricle. The size and position of the ventricular septal defect is also shown, as well as the relationship between the aortic and tricuspid valves. mLV = morphological left ventricle; mRV = morphological right ventricle; MPA = main pulmonary artery; Ao = aorta; RA = right atrium; IVS = interventricular septum; VSD = ventricular septal defect.** *Images courtesy of Dr. Charles Peebles, University Hospital Southampton, UK.*
+**FIGURE 13.** CT angiogram demonstrating relationship between ventricular chambers and both arterial trunks in DORV. Size and position of VSD, relationship between aortic and tricuspid valves. mLV = morphologic LV; mRV = morphologic RV; MPA = main pulmonary artery; Ao = aorta; RA = right atrium; IVS = interventricular septum; VSD = ventricular septal defect. *Images courtesy of Dr. Charles Peebles.*
 
 ![](_page_16_Picture_2.jpeg)
 
-**Figure 14. Computed tomography (CT) 3D reconstruction of double-outlet right ventricle demonstrating: A) both arterial trunks emerging from the right ventricle to the right of the interventricular septum (IVS); and B) virtual endocardioscopy of the same heart. MPA = main pulmonary artery; Ao = aorta; RV = right ventricle; LV = left ventricle.** *Images courtesy of Dr. Charles Peebles, University Hospital Southampton, UK.*
+**FIGURE 14.** CT 3D reconstruction of DORV: A) Both arterial trunks emerging from RV to the right of IVS; B) Virtual endocardioscopy of same heart. MPA = main pulmonary artery; Ao = aorta; RV = right ventricle; LV = left ventricle. *Images courtesy of Dr. Charles Peebles.*
 
 ![](_page_16_Picture_4.jpeg)
 
-**Figure 15. Computed tomography (CT) angiography of the aortic and pulmonary trunks: A) coronary anomaly with the left anterior descending (LAD) coronary artery emerging anteriorly from the right coronary artery (RCA); B) stenosis of the right pulmonary artery (RPA) and aneurysmal dilatation of the left pulmonary artery (LPA). Cx = circumflex coronary artery.** *Images courtesy of Dr. Charles Peebles, University Hospital Southampton, UK.*
+**FIGURE 15.** CT angiography of aortic and pulmonary trunks: A) Coronary anomaly — LAD emerging anteriorly from RCA; B) Stenosis of RPA and aneurysmal dilatation of LPA. Cx = circumflex coronary artery. *Images courtesy of Dr. Charles Peebles.*
 
-• They can also form the base for 3D printing models in order to guide the surgical therapy, in particular when complex septation on the ventricles is suspected or complex closure of the VSD is to be undertaken, such as cases of a restrictive VSD needing enlargement (Figure 16), non-committed and/or multiple defects (Figure 17).
+**Cardiac MRI** is used in selected patients to measure pulmonary vascular resistance and relative systemic/pulmonary blood flows.
+
+**3D printing models** guide surgical therapy, especially for:
+- Complex septation suspected
+- Complex VSD closure (restrictive VSD needing enlargement — Figure 16)
+- Non-committed and/or multiple defects (Figure 17)
 
 ![](_page_17_Picture_2.jpeg)
 
-**Figure 16. Small subaortic ventricular septal defect (VSD) in the context of double-outlet right ventricle with pulmonary atresia. During the pre-operative planning, the exact location of a VSD-enlarging incision was identified on the surface of the interventricular septum (red asterisk). Ao = aorta; RA = right atrium; RV = right ventricle.** *Reproduced with permission from the Wessex Heartbeat 3D Heart Library, courtesy of Dr. Tara Bharucha, University Hospital Southampton, UK.*
+**FIGURE 16.** Small subaortic VSD in DORV with pulmonary atresia. Pre-operative planning identified VSD-enlarging incision location on IVS surface (red asterisk). Ao = aorta; RA = right atrium; RV = right ventricle. *Reproduced with permission from Wessex Heartbeat 3D Heart Library, courtesy of Dr. Tara Bharucha.*
 
 ![](_page_17_Picture_4.jpeg)
 
-**Figure 17. Infant with double-outlet right ventricle, pulmonary atresia and a non-committed inlet ventricular septal defect (VSD). Note the interposition of a thick inferior limb of the septomarginal trabecula (SMT) between the VSD and the aortic outflow. RA = right atrium; Ao = aorta; RV = right ventricle.** *Reproduced with permission from the Wessex Heartbeat 3D Heart Library, courtesy of Dr. Tara Bharucha, University Hospital Southampton, UK.*
+**FIGURE 17.** Infant with DORV, pulmonary atresia, and non-committed inlet VSD. Note thick inferior limb of SMT interposed between VSD and aortic outflow. RA = right atrium; Ao = aorta; RV = right ventricle. *Reproduced with permission from Wessex Heartbeat 3D Heart Library, courtesy of Dr. Tara Bharucha.*
 
-#### 15 **Describe the early interventions for neonates with double-outlet right ventricle**
+</div></details>
 
-- Most babies with DORV present early, with the majority having had an antenatal diagnosis.
-- Early complete repair is often not indicated due to the DORV morphology, or due to patient comorbidities.
-- In these patients, an early intervention is required to create a 'balanced' circulation with optimal pulmonary blood flow and systemic blood flow to achieve adequate oxygen delivery for the metabolic needs of the patient.
-- This can be achieved by reducing or augmenting pulmonary blood flow.
-- It is usually clear from imaging at the neonatal stage if a twoventricle circulation is not possible. If the child is clearly going down the path of functionally univentricular palliation, an assessment must be made of the child's comorbidities to decide whether this will be possible, such as the severe airway abnormalities associated with CHARGE syndrome may preclude a successful functionally single-ventricle circulation.
-- The aim of interventions in neonates who will require functionally univentricular palliation is to secure the systemic outflow while protecting the pulmonary vascular bed as far as possible. These interventions or palliations will be designed to last until the child is months old, when the first of the two-stage total cavopulmonary connections (TCPC) can be undertaken.
+---
 
-#### 16 **What are the principles of surgery to restrict pulmonary blood flow?**
+<details class="med-details"><summary>
+  
+## 10. Neonatal Palliative Interventions</summary><div class="details-content">
 
-- In patients where there is no pulmonary stenosis, there may be 'over-circulation' into the pulmonary vascular bed across the VSD.
-- These patients will have increasing heart failure as the pulmonary vascular resistance falls in the first weeks after birth, leading to increasing Qp:Qs.
-- To protect the pulmonary vascular bed, and to reduce the symptoms of over-circulation (tachypnoea, failure to thrive, greater vulnerability to respiratory infections), pulmonary blood flow must be restricted.
-- This is most commonly achieved by applying a pulmonary artery band (using umbilical tape, Gore-Tex® suture/band or a silicone
+Most babies with DORV present early, with the majority having an antenatal diagnosis. Early complete repair is often **not indicated** due to DORV morphology or patient comorbidities.
 
-- sheet) to the main pulmonary artery, thereby mechanically reducing the diameter and cross-sectional area of the pulmonary outflow.
-- Pulmonary artery banding is usually performed via a median sternotomy but if a thoracotomy is being performed for another intervention, such as coarctation or arch repair, the band may be sited through this incision, although this is rare in DORV.
-- The circumference of the band is determined using the formula 18- 21mm + patient's weight (Trusler's law).
-- This starting circumference depends on the underlying pathology. For example, if preparing for a functionally single-ventricle circulation, the band may be tighter for optimal pulmonary vascular protection. If preparing for a complete repair in the future where patient size is optimally larger, the band may initially be looser to allow growth of the child.
-- Echocardiography is used to monitor band tightness, with the peak velocity across the band of 3-4m/s and direct measurement of distal pulmonary artery pressure to achieve less than 50% the systemic pressure.
-- The band tightness varies with changing pulmonary vascular resistance, such as an awake, distressed child has a significantly different pulmonary vascular pressure than a paralysed, sedated child. The conditions in the operating theatre when the band is applied are very different than those of the child when awake and extubated, feeding or crying, and the band may have to be adjusted in a minority of cases.
+Early intervention aims to create a **"balanced" circulation** with optimal pulmonary and systemic blood flow to achieve adequate oxygen delivery.
 
-#### 17 **What are the principles of surgery to enhance pulmonary blood flow?**
+#### Determining Ventricular Strategy
 
-- In children born with DORV and tight pulmonary stenosis, there may be severe hypoxia due to excessive right-to-left shunting and inadequate pulmonary blood flow.
-- Pulmonary outflow tract obstruction is a common feature of DORV with subaortic VSD, and may lead to a nicely balanced circulation, allowing delay in the need for complete repair until the neonate is older and bigger.
-- Where there is significant pulmonary outflow obstruction, or pulmonary atresia, however, a secure source of blood flow to the lungs must be established early.
+If a two-ventricle circulation is **not possible** (clear from neonatal imaging), the child will require functionally univentricular palliation. Assessment of comorbidities is essential (e.g., severe airway abnormalities in CHARGE syndrome may preclude successful single-ventricle circulation).
 
-- The choice is dependent on the underlying anatomy and condition of the patient, and includes a:
-  - a) RV to pulmonary artery shunt where a 5-6mm Gore-Tex® tube is anastomosed from the RV to the main pulmonary trunk or one of the branch pulmonary arteries. It may be combined with augmentation of the branch pulmonary arteries, as required, and is performed through a median sternotomy, with the use of cardiopulmonary bypass and ischaemic arrest of the heart. This creates a more stable circulation than the traditional modified systemic to pulmonary shunt but may not be technically feasible in all patients;
-  - b) modified Blalock-Taussig (BT) shunt where a 3-4mm Gore-Tex® tube is anastomosed from the brachiocephalic or subclavian artery to a branch pulmonary artery. Although traditionally performed through a thoracotomy, it is now more commonly performed through a median sternotomy to allow the use of cardiopulmonary bypass in unstable, small neonates. An inherently unstable circulation is created with diastolic run-off into the shunt potentially jeopardising the coronary circulation, hence the high surgical mortality of 5- 10% from this procedure;
-  - c) ductus arteriosus stent which is undertaken in the catheter laboratory using a coronary artery stent that is placed in the ductus arteriosus to maintain patency and provide stable blood flow to the pulmonary arteries. This creates a similar circulation to a modified BT shunt but is not associated with the same mortality. This intervention may not be technically feasible in all patients, depending on ductal and pulmonary artery anatomy;
-  - d) RV outflow tract stent which is more commonly used in tetralogy of Fallot, where the outflow tract anatomy is more favourable but in some cases may be appropriate in DORV. A stent is placed in the outflow tract to maintain patency of the muscular infundibulum (Figure 18) and may cross the pulmonary valve, if necessary. This stent may be further dilated at a later stage to allow further growth of the child before complete repair. When patient selection is optimal, this intervention has excellent results.
+The aim of interventions in neonates requiring univentricular palliation is to **secure systemic outflow** while **protecting the pulmonary vascular bed**. These interventions are designed to last until 3–4 months of age, when the first stage of total cavopulmonary connection (TCPC) can be undertaken.
+
+#### Restricting Pulmonary Blood Flow (PA Banding)
+
+**Indication:** No pulmonary stenosis → pulmonary over-circulation as PVR falls → increasing heart failure, tachypnea, failure to thrive.
+
+**Procedure:** Apply a **pulmonary artery band** (umbilical tape, Gore-Tex® suture/band, or silicone sheet) to the main pulmonary artery to mechanically reduce diameter and cross-sectional area.
+
+**Approach:** Median sternotomy (rarely via thoracotomy for concurrent arch repair).
+
+**Band circumference (Trusler's law):**
+```
+18–21 mm + patient's weight (kg)
+```
+This starting circumference depends on underlying pathology:
+- Preparing for single ventricle → tighter band
+- Preparing for future complete repair → looser band to allow growth
+
+**Monitoring:**
+- Echocardiography: peak velocity across band **3–4 m/s**
+- Direct distal PA pressure measurement: **<50% systemic pressure**
+
+**Note:** Band tightness varies with PVR. An awake, distressed child has different pulmonary vascular pressure than a paralysed, sedated child. Adjustment may be required in a minority of cases.
+
+#### Augmenting Pulmonary Blood Flow (for PS/Atresia)
+
+**Indication:** Tight pulmonary stenosis or atresia → severe hypoxia from excessive right-to-left shunting and inadequate PBF.
+
+**Options:**
+
+| Procedure | Description | Notes |
+|---|---|---|
+| **RV→PA shunt** | 5–6 mm Gore-Tex® tube from RV to main PA or branch PA. Median sternotomy, CPB, ischemic arrest. | More stable circulation than BT shunt, but not always technically feasible. |
+| **Modified BT shunt** | 3–4 mm Gore-Tex® tube from brachiocephalic/subclavian artery to branch PA. Now often via sternotomy with CPB. | Diastolic run-off → coronary jeopardy. Mortality 5–10%. |
+| **Ductus arteriosus stent** | Coronary stent placed in ductus in catheter lab. | Similar circulation to BT shunt, lower mortality. Not always anatomically feasible. |
+| **RVOT stent** | Stent placed in RV outflow tract (Figure 18). More common in TOF. | Can be dilated later for growth. Excellent results with optimal selection. |
 
 ![](_page_21_Figure_2.jpeg)
 
-**Figure 18. Right ventricular outflow tract (RVOT) stenting: A) anteroposterior; and B) lateral views demonstrating a short infundibulum and hypoplastic main pulmonary artery; C) anteroposterior; and D) lateral views demonstrating deployment of the stent across the RVOT and pulmonary valve annulus, resulting in an augmented calibre.** *Images courtesy of Dr. Trevor Richens, University Hospital Southampton, UK.*
+**FIGURE 18.** RVOT stenting: A,B) Short infundibulum and hypoplastic MPA; C,D) Stent deployment across RVOT and pulmonary valve annulus resulting in augmented caliber. *Images courtesy of Dr. Trevor Richens.*
 
-- 18 **What are the principles of surgery for double-outlet right ventricle with a subaortic or doubly-committed ventricular septal defect?**
-- Repair of these lesions consists of placing a baffle around the VSD in such a way as to separate the ventricular outflow tracts (Figure 19).
-- The geometric VSD is not closed, as the VSD opening is required to allow flow from the LV, through the VSD, into the aorta.
-- The baffle creates an LV outflow tract to direct blood into the aorta.
-- The VSD must be large enough to allow unrestricted flow into the aorta but if not, must be enlarged.
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 11. Surgical Repair by VSD Type</summary><div class="details-content">
+
+#### Subaortic or Doubly-Committed VSD (Figure 19)
+
+**Principle:** Place a **baffle** around the VSD to separate the ventricular outflow tracts. The VSD is **not closed** — it allows flow from LV through VSD into aorta.
+
+**Technique:**
+- The baffle (tunnel) creates an LV outflow tract directing blood into the aorta.
+- The VSD must be large enough for unrestricted flow; if not, it must be **enlarged**.
+- The patch/baffle must be capacious to avoid restriction (may use a large Gore-Tex®/IMPRA™ tube).
+- If pulmonary obstruction exists, augment the RV outflow tract: pulmonary valvuloplasty, infundibulectomy, transannular patch, or valved conduit.
 
 ![](_page_22_Picture_2.jpeg)
 
-**803 Figure 19. Surgical repair for double-outlet right ventricle with subaortic ventricular septal defect. A tunnelling patch (yellow) is used to direct flow from the left ventricle into the aorta. Attention is paid to avoid flow restriction under the patch and damage to the conduction system.**
+**FIGURE 19.** Surgical repair for DORV with subaortic VSD. A tunnelling patch (yellow) directs flow from LV into aorta. Attention to avoid flow restriction under the patch and damage to conduction system.
 
-- The patch or baffle used to create the new LV outflow tract (often called a tunnel) must be capacious enough not to restrict flow and may consist of a patch or part of a large GoreTex®/IMPRA™ tube to improve the capacity of the tunnel.
-- When there is pulmonary obstruction, the RV outflow tract must be augmented. This may range from simple pulmonary valvuloplasty, to infundibulectomy, augmentation with a transannular patch, or the use of a valved conduit to reconstruct the RV outflow tract and pulmonary artery.
-- Outcomes for the repair of uncomplicated DORV with subaortic VSD are good, comparable to repair of tetralogy of Fallot, with an early mortality of 2-3%.
-- Late reoperation will almost always be required for pulmonary valve insufficiency.
-- 19 **What are the principles of surgery for double-outlet right ventricle with a subpulmonary ventricular septal defect?**
-- The repair in this group of patients is dependent on the arrangement of the great arteries.
+**Outcomes:** Comparable to TOF repair. Early mortality **2–3%** . Late reoperation almost always required for pulmonary valve insufficiency.
 
-• In patients with an anteroposterior arrangement, an arterial switch operation with the Lecompte manoeuvre is performed, with the VSD baffle separating the outflow tracts (Figure 20).
+#### Subpulmonary VSD (Taussig-Bing)
+
+Repair depends on the **arrangement of the great arteries**.
+
+**Anteroposterior arrangement (Figure 20):**
+- **Arterial switch operation** with Lecompte maneuver.
+- VSD baffle separates outflow tracts.
 
 ![](_page_23_Picture_3.jpeg)
 
-**Figure 20. Surgical repair of a simple double-outlet right ventricle (DORV) with a subpulmonary ventricular septal defect (VSD) and transposition of the great arteries, where: A) pre-operatively, the pulmonary artery (PA) can be seen closer ('committed') to the left ventricle and the aorta committed entirely to the right ventricle; and B) postoperatively, the VSD has been closed and the consequent ventriculo-arterial discordance has been corrected with an arterial switch operation. As a result, the neo-aorta now emerges from the left ventricle and the neopulmonary trunk from the right ventricle. RA = right atrium; Ao = aorta; PA = pulmonary artery; LA = left atrium; LV = left ventricle; DORV = double-outlet right ventricle; nPA = neopulmonary artery; nAo = neo-aorta; RV = right ventricle.**
+**FIGURE 20.** Surgical repair of simple DORV with subpulmonary VSD and TGA. A) Pre-op: PA committed to LV, aorta committed to RV. B) Post-op: VSD closed, arterial switch performed. Neo-aorta from LV, neopulmonary trunk from RV. RA = right atrium; Ao = aorta; PA = pulmonary artery; LA = left atrium; LV = left ventricle; nPA = neopulmonary artery; nAo = neo-aorta; RV = right ventricle.
 
-- If the great arteries are side-by-side, an arterial switch procedure may be more difficult, hence an intraventricular repair with tunnelling of the aorta to the LV through the VSD may be more suitable. Where possible, an arterial switch operation is preferred as it is associated with better results.
-- The Taussig-Bing anomaly is often associated with unusual coronary artery patterns and aortic arch abnormalities, and may require more complex surgery (Figure 21).
+**Side-by-side arrangement:**
+- Arterial switch is more difficult.
+- **Intraventricular repair** with tunnelling of aorta to LV through VSD may be more suitable.
+- Where possible, arterial switch is preferred (better results).
+
+**Complex Taussig-Bing (Figure 21):**
+- Often associated with unusual coronary patterns and aortic arch abnormalities.
+- May require more complex surgery.
 
 ![](_page_24_Picture_2.jpeg)
 
-**Figure 21. Surgical repair of a Taussig-Bing anomaly: A) external anatomy consistent with transposition of the great arteries and malposition, where the aorta is anterior and to the left of a posteriorly placed pulmonary artery. The aortic arch is hypoplastic and the left subclavian artery emerges from the descending aorta. A large patent ductus arteriosus can also be seen. The coronary arrangement is 1LCx, 2R; B) internal inspection shows a subpulmonary ventricular septal defect in the perimembranous position; C) while on deep hypothermic circulatory arrest and regional antegrade perfusion to the brain and coronary arteries, the aortic arch is reconstructed with a porcine pericardial patch. The aorta is then transected; D) the arterial switch operation is performed, with division of the pulmonary trunk, coronary transfer to the neo-aortic root (rightward) and reconstruction of the neopulmonary artery with an autologous patch; E) the VSD is generally repaired with a porcine pericardial patch through the pulmonary valve (neo-aortic valve) and the ASD is repaired in the same fashion; F) the operation is completed with the reconstruction of both arterial trunks. Given the initial latero-lateral position of the vessels, the pulmonary artery is reconstructed with extensive patch arterioplasty.**
+**FIGURE 21.** Surgical repair of Taussig-Bing anomaly: A) External anatomy: aorta anterior and left of posterior PA. Hypoplastic arch, LSA from descending aorta, large PDA. Coronary arrangement 1LCx,2R. B) Subpulmonary VSD in perimembranous position. C) Arch reconstruction with porcine pericardial patch under DHCA and regional antegrade perfusion. D) Arterial switch: division of pulmonary trunk, coronary transfer to neo-aortic root, neopulmonary reconstruction with autologous patch. E) VSD repair through pulmonary valve (neo-aortic valve). F) Reconstruction of both arterial trunks with extensive patch arterioplasty.
 
-• If there is coexisting subpulmonary stenosis, an arterial switch operation is not possible, as the LV outflow tract will be narrowed in the switched heart. In this case, the options are a Rastelli operation (Figure 22) or a REV (réparation à l'etage ventriculaire) operation.
+**With coexisting subpulmonary stenosis:**
+- Arterial switch is **not possible** (LV outflow tract would be narrowed in switched heart).
+- Options: **Rastelli operation** (Figure 22) or **REV** (réparation à l'étage ventriculaire).
 
 ![](_page_25_Picture_3.jpeg)
 
-**Figure 22. Rastelli operation for double-outlet right ventricle with hypoplasia or atresia of the pulmonary valve. The ventricular septal defect (VSD) patch (yellow) tunnels the LV into the aorta (Ao). The right ventricle (RV) to pulmonary artery (PA) continuity is usually achieved through a valved conduit.**
+**FIGURE 22.** Rastelli operation for DORV with hypoplasia/atresia of pulmonary valve. VSD patch (yellow) tunnels LV into aorta (Ao). RV→PA continuity achieved through valved conduit.
 
-- In both these techniques, the LV is baffled through the VSD to both outflow tracts (forming a 'double-outlet LV'), where the VSD baffle does not separate the two outflow tracts.
-- Flow to the pulmonary arteries from the RV is restored with an RV-PA conduit in the Rastelli procedure. In the REV, a Lecompte procedure is used to bring the PA bifurcation in front of the aorta, and a direct anastomosis of the pulmonary trunk bifurcation to the right ventriculotomy, anteriorly augmented with a patch. In the REV, there
+**Rastelli vs. REV:**
+- Both techniques baffle LV through VSD to **both** outflow tracts ("double-outlet LV") — the VSD baffle does **not** separate the two outflow tracts.
+- **Rastelli:** Restores RV→PA flow with valved conduit.
+- **REV:** Lecompte maneuver brings PA bifurcation in front of aorta; direct anastomosis of PA bifurcation to right ventriculotomy, anteriorly augmented with patch; further augmentation by resecting residual outflow septum.
 
-- is further augmentation of both outflow tracts by resection of any residual outflow septum.
-- Outcomes for uncomplicated DORV and subpulmonary VSD are good, with early mortality, even in combination with aortic arch repair, approximately 5%.
-- Late reoperation may be required for RVOT obstruction, subaortic stenosis, neo-aortic incompetence and root dilatation.
+**Outcomes for uncomplicated DORV with subpulmonary VSD:** Good. Early mortality even with arch repair approximately **5%** .
 
-#### 20 **What are the principles of surgery for double-outlet right ventricle with a non-committed ventricular septal defect?**
+**Late reoperation** may be required for RVOT obstruction, subaortic stenosis, neo-aortic incompetence, and root dilatation.
 
-- This lesion may not be amenable to repair, and a large proportion may require functionally single-ventricle palliation.
-- Often there is an inlet VSD, too remote from either great vessel to allow intraventricular baffling or arterial switch. There may be straddling of the tricuspid or mitral valve apparatus across the VSD rendering it unseptatable (Figure 23), or there may be multiple muscular VSDs.
+#### Non-Committed VSD (Figure 23)
+
+This lesion may **not be amenable to biventricular repair**. A large proportion require **functionally single-ventricle palliation**.
+
+**Reasons:**
+- Inlet VSD too remote from either great vessel
+- Straddling of tricuspid or mitral valve apparatus across VSD (rendering it unseptatable)
+- Multiple muscular VSDs
 
 ![](_page_26_Picture_8.jpeg)
 
-**Figure 23. Examples of an unseptatable ventricle in double-outlet right ventricle: A) tricuspid valve chordae attached to the crest of the ventricular septal defect, making the tunnelling from the morphological left ventricle to the aorta too narrow; B) straddling mitral valve.**
+**FIGURE 23.** Examples of unseptatable ventricle in DORV: A) Tricuspid valve chordae attached to VSD crest, making LV→aorta tunnel too narrow; B) Straddling mitral valve.
 
-• Often, an early palliative procedure may allow growth to determine the ultimate feasibility of septation.
+An early palliative procedure may allow growth to determine the ultimate feasibility of septation.
 
-#### 21 **What are the outcomes of surgery in patients with double-outlet right ventricle?**
+</div></details>
 
-- Surgical results for biventricular repair in congenital anomalies with DORV are good, both in cases of primary repair and in those with staged repair.
-- Surgical mortality is low in the modern era, ranging from <5% in less complicated variants, but rising to 20-25% in more complex forms.
-- Early reinterventions (within 30 days) are required in up to 10-15% of cases, with the 5-year survival 85-90%.
-- The commonest causes for reoperation at 5 years are LV outflow tract obstruction, the need for RV to pulmonary artery conduit replacement, and previous repair of AVSD.
+---
 
-#### 22 **Describe the therapeutic options for double-outlet right ventricle with functionally univentricular physiology**
+<details class="med-details"><summary>
+  
+## 12. Outcomes of Surgery</summary><div class="details-content">
 
-- Where DORV occurs in hearts with a remote VSD that precludes septation, unbalanced ventricles, complex atrioventricular valvular abnormalities or multiple VSDs, a functionally single-ventricle palliation route may be necessary.
-- Early evidence suggesting a systemic morphological LV may have better outcomes as a functionally single ventricle has been superseded by outcomes in hypoplastic left heart syndrome, in which all systemic ventricles are a morphological RV.
-- In general, the 5-year survival from birth is approximately 70%. The 10-year survival after Fontan/TCPC completion is approximately 80%.
+#### Biventricular Repair
 
-#### 23 **What is the burden of double-outlet right ventricle in congenital surgical practice?**
+- Surgical results are **good** for both primary and staged repair.
+- Surgical mortality in the modern era:
+  - **<5%** in less complicated variants
+  - **20–25%** in more complex forms
+- Early reinterventions (within 30 days): **10–15%**
+- **5-year survival:** 85–90%
 
-- Although DORV appears in only 1% of congenital cardiac defects, the more complex cardiac anomalies with this form of ventriculoarterial connection take up a disproportionate focus of multidisciplinary team meetings and surgical team decision-making.
-- Neonatal repair in DORV hearts may be complex due to the intracardiac baffling required, with potential narrowing in both outflow tracts, jeopardy of the conduction pathways, and the risk of myocardial injury due to long ischaemic times and unusual coronary patterns.
+#### Common Causes for Reoperation at 5 Years
 
-• This is reflected in the high 30-day reintervention rates. As these children grow, there is an ongoing burden of reoperations for both left and right ventricular outflow tract obstruction.
+- LV outflow tract obstruction
+- Need for RV→PA conduit replacement
+- Previous repair of AVSD
 
-#### **Recommended reading**
+#### Functionally Univentricular Palliation
 
-- 1. Wilcox BR, Ho SY, Macartney FJ, Becker AE, Gelis LM, Anderson RH. Surgical anatomy of double-outlet right ventricle with situs solitus and atrioventricular concordance. g qÜçê~Å `~êÇáçî~ëÅ pìêÖ 1981; 82:.
-- 2. Kleinert S, Sano T, Weintraub RG, Mee RB, Karl TR, Wilkinson JL. Anatomic features and surgical strategies in double outlet right ventricle. `áêÅìä~íáçå 1997; 96:.
-- 3. Griselli M, McGuirk SP, Ko CS, Clarke AJ, Barron DJ, Brawn WJ. Arterial switch operation in patients with Taussig-Bing anomaly: influence of staged repair and coronary anatomy on outcome. bìê g `~êÇáçíÜçê~Å pìêÖ 2007; 31:.
-- 4. Serraf A, Belli E, Lacour-Gayet F, Zoghbi J, Planché C. Biventricular repair for doubleoutlet right ventricle. pÉãáå qÜçê~Å `~êÇáçî~ëÅ pìêÖ mÉÇá~íê `~êÇ pìêÖ ^ååì 2000; 3:.
-- 5. Lacour-Gayet F. Intracardiac repair of double outlet right ventricle. pÉãáå qÜçê~Å `~êÇáçî~ëÅ pìêÖ mÉÇá~íê `~êÇ pìêÖ ^ååì 2008; 11:.
-- 6. Ebadi A, Spicer DE, Backer CL, Fricker FJ, Anderson RH. Double-outlet right ventricle revisited. g qÜçê~Å `~êÇáçî~ëÅ pìêÖ 2017; 154:.
+**Indications:**
+- Remote VSD precluding septation
+- Unbalanced ventricles
+- Complex AV valvular abnormalities
+- Multiple VSDs
+
+**Outcomes:**
+- 5-year survival from birth: approximately **70%**
+- 10-year survival after Fontan/TCPC completion: approximately **80%**
+
+**Note:** Early evidence suggesting better outcomes with systemic morphologic LV has been superseded by outcomes in hypoplastic left heart syndrome (systemic RV).
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 13. Burden of DORV in Congenital Surgical Practice</summary><div class="details-content">
+
+Although DORV appears in only **1%** of congenital cardiac defects, the more complex cardiac anomalies with this form of ventriculo-arterial connection take up a **disproportionate focus** of multidisciplinary team meetings and surgical decision-making.
+
+**Challenges:**
+- Neonatal repair may be complex due to:
+  - Intracardiac baffling required
+  - Potential narrowing in both outflow tracts
+  - Jeopardy of conduction pathways
+  - Long ischemic times
+  - Unusual coronary patterns
+
+**Consequences:**
+- High 30-day reintervention rates
+- Ongoing burden of reoperations for both LVOT and RVOT obstruction as children grow
+
+</div></details>
