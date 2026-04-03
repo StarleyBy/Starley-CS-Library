@@ -1,229 +1,479 @@
-# **Chapter 32**
+# Vascular Rings and Slings
 
-# Vascular rings and slings
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-**Harold M. Burkhart, Jess L. Thompson**
+### Definition and Embryology
+- **Vascular ring:** Anomaly of aortic arch and great vessels that encircles trachea and oesophagus
+- Symptomatic rings account for **1%** of all cardiovascular anomalies
+- **Embryology:** Formed when regression and persistence of aortic arches occurs abnormally (Figure 1)
+- **Double aortic arch:** Both left and right 4th arches and both dorsal aortas fail to regress
 
-# 1 **What is <sup>a</sup> vascular ring?**
+### Classification of Vascular Rings
+| Type | Description |
+|---|---|
+| **Double aortic arch** | Complete ring around trachea and oesophagus (Figure 2) |
+| **Right aortic arch with left ligamentum** | Requires left-sided ductus/ligamentum for complete ring (Figure 3) |
 
-- A vascular ring represents an anomaly of the aortic arch and great vessels that encircles the trachea and oesophagus.
-- Although asymptomatic rings are more common, symptomatic rings account for 1% of all cardiovascular anomalies.
+### Most Common Anomaly (Not a True Ring)
+- **Left aortic arch with aberrant right subclavian artery and left-sided ligamentum** — occurs in **0.5%** of population; majority asymptomatic
 
-# 2 **What is the embryological origin of vascular rings?**
+### Compression Syndromes (No Complete Ring)
+- **Innominate artery compression** — aberrant origin compresses anterior trachea
+- **Pulmonary artery sling** — LPA arises from RPA, courses between trachea and oesophagus (Figure 4); associated with **complete tracheal rings in 50%**
 
-- In normal embryology, the:
-  - a) left 4th arch becomes the aortic arch;
-  - b) right 4th arch contributes to the innominate artery;
-  - c) distal left 6th arch becomes the ductus arteriosus;
-  - d) proximal 6th arches bilaterally contribute to the proximal branch pulmonary arteries;
-  - e) left dorsal aorta becomes the descending thoracic aorta;
-  - f) dorsal intersegmental arteries bilaterally become the subclavian arteries.
-- Vascular rings are formed when the process of regression and persistence does not occur normally (Figure 1), potentially resulting in vascular encirclement of the trachea and oesophagus.
-- A double aortic arch is formed when both the left and right 4th arches, as well as both dorsal aortas, fail to regress and remain present.
+### Associated Cardiac Anomalies (10–30%)
+- VSD, TOF, PDA, congenitally corrected TGA
+
+### Double Aortic Arch Dominance
+- Right-sided dominant: **70–75%**
+- Left-sided dominant: **20%**
+- Codominant: **5–10%**
+
+### Right Aortic Arch with Left Ligamentum
+- Persistence of right 4th arch, regression of left arch
+- May have mirror-image branching or aberrant left subclavian artery
+- **Diverticulum of Kommerell:** Remnant of left 4th arch at base of left subclavian artery; may become aneurysmal
+
+### Pulmonary Artery Sling
+- LPA from RPA → courses between trachea and oesophagus → compresses distal trachea or right main bronchus
+- **50% associated with complete tracheal rings**
+
+### Innominate Artery Compression Syndrome
+- Aberrant origin of innominate artery → anterior tracheal compression
+- May present with stridor, cyanosis, respiratory arrest in infants
+- Compression worsened by large thymus
+
+### Clinical Presentation
+- **Most important:** Accurate history
+- **Respiratory (first 6 months):** Apnoea, respiratory distress, stridor, cough
+- **Gastrointestinal:** Dysphagia, oesophageal motility symptoms, prolonged feeding, regurgitation, vomiting
+- Earliest presentation: **double aortic arch**
+
+### Diagnostic Imaging
+| Modality | Findings |
+|---|---|
+| **CXR** | Poor aortic knuckle delineation, tracheal narrowing, unilateral hyperinflation |
+| **CT with 3D reconstruction** | **Investigation of choice** — delineates anatomy and compression (Figures 5–9) |
+| **Echocardiography** | Rules out associated cardiac anomalies |
+| **Barium swallow** | For dysphagia symptoms (Figure 10) |
+| **Bronchoscopy** | For suspected airway compression |
+
+### Indications for Surgery
+- Symptomatic patients with anatomical narrowing on imaging
+- Asymptomatic patients with **>50% anatomical narrowing** on imaging
+- Pulmonary artery sling (usually dictates intervention)
+
+### Surgical Principles
+| Condition | Approach | Key steps |
+|---|---|---|
+| **Double aortic arch** | Left thoracotomy or VATS | Divide fibrous tissue along trachea/oesophagus; identify anatomy; test clamp non-dominant arch; divide non-dominant arch; divide ligamentum/PDA (Figures 11–13) |
+| **Right aortic arch with left ligamentum** | Left thoracotomy or VATS | Divide ligamentum; suture to prevertebral fascia; resect dilated Kommerell diverticulum if present; anastomose LSCA to LCCA |
+| **Pulmonary artery sling** | Median sternotomy (usually CPB) | Divide LPA from RPA; move LPA anterior to trachea; reimplant into MPA; sliding tracheoplasty if complete tracheal rings or significant stenosis |
+| **Innominate artery compression** | Left/right thoracotomy, sternotomy, or VATS | Thymectomy; attach innominate artery and distal ascending aorta to posterior sternum; confirm tracheal lumen improvement with bronchoscopy; or translocate innominate artery |
+
+### Outcomes
+- **Low hospital mortality**
+- Majority experience symptomatic improvement
+- **Complications (uncommon):** Chylothorax (thoracic duct injury), diaphragmatic paresis/paralysis (phrenic nerve), vocal cord paresis/paralysis (recurrent laryngeal nerve), pneumothorax, oesophageal injury
+- Persistent respiratory symptoms possible (young infants with severe pre-op symptoms, tracheomalacia)
+- Recurrent symptoms from scarring or dilated Kommerell diverticulum
+- Post-PA sling repair: possible need for catheter-based LPA dilatation
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition and Embryology</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 1. What is a vascular ring?</summary><div class="details-content">
+
+A **vascular ring** represents an anomaly of the aortic arch and great vessels that **encircles the trachea and oesophagus**.
+
+Although asymptomatic rings are more common, symptomatic rings account for **1%** of all cardiovascular anomalies.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 2. What is the embryological origin of vascular rings?</summary><div class="details-content">
+
+**Normal embryology:**
+
+| Structure | Embryological origin |
+|---|---|
+| Aortic arch | Left 4th arch |
+| Innominate artery | Right 4th arch |
+| Ductus arteriosus | Distal left 6th arch |
+| Proximal branch PAs | Proximal 6th arches (bilateral) |
+| Descending thoracic aorta | Left dorsal aorta |
+| Subclavian arteries | Dorsal intersegmental arteries (bilateral) |
+
+**Formation of vascular rings:**
+- Occur when the process of **regression and persistence** does not occur normally (Figure 1)
+- Potentially results in vascular encirclement of trachea and oesophagus
+- **Double aortic arch:** Both left and right 4th arches, as well as both dorsal aortas, fail to regress and remain present
 
 ![](_page_1_Figure_2.jpeg)
 
-**Figure 1.** Aortic arch anomalies caused by abnormal embryological arch regression. RSCA = right subclavian artery; LSCA = left subclavian artery; RCCA = right common carotid artery; LCCA = left common carotid artery; LAA = left aortic arch; RAA = right aortic arch; DAA = double aortic arch.
+**FIGURE 1.** Aortic arch anomalies caused by abnormal embryological arch regression. RSCA = right subclavian artery; LSCA = left subclavian artery; RCCA = right common carotid artery; LCCA = left common carotid artery; LAA = left aortic arch; RAA = right aortic arch; DAA = double aortic arch.
 
-#### 3 What is the classification system for vascular rings?
+</div></details>
 
-- Double aortic arch (Figure 2).
-- Right aortic arch with left ligamentum (Figure 3).
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 2. Classification of Vascular Rings and Compression Syndromes</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 3. What is the classification system for vascular rings?</summary><div class="details-content">
+
+**Vascular rings:**
+- **Double aortic arch** (Figure 2)
+- **Right aortic arch with left ligamentum** (Figure 3)
 
 ![](_page_2_Picture_2.jpeg)
 
-**981 Figure 2. Double aortic arch resulting in a vascular ring around the trachea and oesophagus.**
+**FIGURE 2.** Double aortic arch resulting in a vascular ring around the trachea and oesophagus.
 
 ![](_page_2_Picture_4.jpeg)
 
-**Figure 3. A) Right aortic arch with left ligamentum arteriosum and mirror-image branching. B) Right aortic arch with left ligamentum arteriosum and aberrant left subclavian artery.**
+**FIGURE 3.** A) Right aortic arch with left ligamentum arteriosum and mirror-image branching. B) Right aortic arch with left ligamentum arteriosum and aberrant left subclavian artery.
 
-# 4 **What is the most common aortic arch anomaly?**
+</div></details>
 
-- Left aortic arch with an aberrant right subclavian artery and left-sided ligamentum is the most common arch anomaly and occurs in 0.5% of the population.
-- The right subclavian artery arises from the descending aorta and travels behind the oesophagus to the right upper extremity.
-- The majority of individuals with this anomaly are asymptomatic.
+<details class="med-details"><summary>
+  
+#### 4. What is the most common aortic arch anomaly?</summary><div class="details-content">
 
-# 5 **What are compression syndromes?**
+**Left aortic arch with an aberrant right subclavian artery and left-sided ligamentum** is the most common arch anomaly and occurs in **0.5%** of the population.
 
-- Compression syndromes represent vascular anomalies where the trachea and oesophagus are compressed by vascular structures but in the absence of a complete ring. They include:
-  - a) innominate artery compression;
-  - b) pulmonary artery sling (Figure 4).
+- The right subclavian artery arises from the descending aorta and travels **behind the oesophagus** to the right upper extremity
+- The **majority of individuals with this anomaly are asymptomatic**
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 5. What are compression syndromes?</summary><div class="details-content">
+
+**Compression syndromes** represent vascular anomalies where the trachea and oesophagus are compressed by vascular structures but **in the absence of a complete ring**.
+
+They include:
+- **Innominate artery compression**
+- **Pulmonary artery sling** (Figure 4)
 
 ![](_page_3_Picture_10.jpeg)
 
-**Figure 4. Pulmonary artery sling caused by the left pulmonary artery arising from the right pulmonary artery and travelling behind the trachea.**
+**FIGURE 4.** Pulmonary artery sling caused by the left pulmonary artery arising from the right pulmonary artery and travelling behind the trachea.
 
-# 6 What are the most common cardiac anomalies associated with vascular rings and compression anomalies?
+</div></details>
 
-- Ventricular septal defect.
-- Tetralogy of Fallot.
-- Patent ductus arteriosus.
-- Congenitally corrected transposition of the great arteries.
-- The overall incidence of associated cardiac anomalies is 10-30%.
+<details class="med-details"><summary>
+  
+#### 7. Which aortic arch is dominant in double aortic arch?</summary><div class="details-content">
 
-#### Which gortic arch is dominant in double gortic arch?
+| Dominance | Percentage |
+|---|---|
+| Right-sided aortic arch | 70–75% |
+| Left-sided aortic arch | 20% |
+| Codominant | 5–10% |
 
-- Right-sided aortic arch in 70-75% of cases.
-- Left-sided aortic arch in 20% of cases.
-- Codominant in 5-10% of cases.
+</div></details>
 
-# 8 Describe the anatomy and origin of a right aortic arch with left ligamentum (Figure 3)
+<details class="med-details"><summary>
+  
+#### 8. Describe the anatomy and origin of a right aortic arch with left ligamentum (Figure 3)</summary><div class="details-content">
 
-- Persistence of the right 4th aortic arch.
-- Regression of the left aortic arch.
-- A left-sided ductus or ligamentum arteriosum is required for a complete ring.
-- It may be associated with a mirror-image branching or an aberrant left subclavian artery.
+- **Persistence** of the right 4th aortic arch
+- **Regression** of the left aortic arch
+- A **left-sided ductus or ligamentum arteriosum** is required for a complete ring
+- May be associated with:
+  - Mirror-image branching
+  - Aberrant left subclavian artery
 
-#### 9 What is a diverticulum of Kommerell?
+</div></details>
 
-- A diverticulum of Kommerell is a remnant of the left 4th aortic arch, located at the base of the left subclavian artery where the ligamentum is attached.
-- The diverticulum may become aneurysmal contributing to compressive symptoms.
+<details class="med-details"><summary>
+  
+#### 9. What is a diverticulum of Kommerell?</summary><div class="details-content">
 
-# 10 What is a pulmonary artery sling?
+A **diverticulum of Kommerell** is a remnant of the **left 4th aortic arch**, located at the base of the left subclavian artery where the ligamentum is attached.
 
-- A pulmonary artery sling is where the left pulmonary artery arises from the right pulmonary artery.
-- It courses from the right pulmonary artery between the trachea and oesophagus to the left lung, thereby compressing the distal trachea or right main stem bronchus (Figure 4).
-- A pulmonary artery sling is associated with complete tracheal rings in 50% of cases.
+The diverticulum may become **aneurysmal**, contributing to compressive symptoms.
 
-# 11 **What is innominate artery compression syndrome?**
+</div></details>
 
-- Innominate artery compression syndrome is caused by an aberrant origin of the innominate artery from the aorta resulting in compression of the anterior trachea.
-- Patients with the syndrome may present with stridor, cyanosis or respiratory arrest in infants.
-- The compression may be worsened if a large thymus is present.
+<details class="med-details"><summary>
+  
+#### 10. What is a pulmonary artery sling?</summary><div class="details-content">
 
-# 12 **Describe the clinical presentation of patients with <sup>a</sup> vascular sling or ring**
+A **pulmonary artery sling** is where the left pulmonary artery arises from the **right pulmonary artery**.
 
-- The most important element of assessment of patients with these lesions is an accurate and complete history.
-- Suspicion should be raised in neonates or infants with persistent or chronic respiratory symptoms or feeding issues.
-- Respiratory symptoms are often present in the first 6 months and include:
-  - a) apnoea;
-  - b) respiratory distress;
-  - c) stridor;
-  - d) cough.
-- Gastrointestinal problems can appear early but may persist if early diagnosis is not made. These symptoms include:
-  - a) dysphagia;
-  - b) oesophageal motility symptoms;
-  - c) need for prolonged feeding with processed food;
-  - d) regurgitation;
-  - e) vomiting.
-- The earliest presentation is normally produced by a double aortic arch.
-- Occasionally, a combination of respiratory and oesophageal symptoms occur depending on the anomaly.
+- It courses from the right pulmonary artery **between the trachea and oesophagus** to the left lung
+- This compresses the **distal trachea** or **right main stem bronchus** (Figure 4)
+- A pulmonary artery sling is associated with **complete tracheal rings in 50%** of cases
 
-### 13 **What are the findings on investigation in <sup>a</sup> patient with a vascular sling or ring?**
+</div></details>
 
-- A chest radiograph may demonstrate:
-  - a) poor delineation of the aortic knuckle;
+<details class="med-details"><summary>
+  
+#### 11. What is innominate artery compression syndrome?</summary><div class="details-content">
 
-- b) tracheal narrowing;
-- c) hyperinflation of one lung.
-- A computed tomography (CT) scan with three-dimensional reconstruction is the investigation of choice to clearly delineate the underlying anatomy and any resultant compression (Figures 5-9).
+**Innominate artery compression syndrome** is caused by an aberrant origin of the innominate artery from the aorta, resulting in compression of the **anterior trachea**.
+
+- Patients may present with **stridor, cyanosis, or respiratory arrest** in infants
+- Compression may be **worsened if a large thymus** is present
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 3. Associated Anomalies and Clinical Presentation</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 6. What are the most common cardiac anomalies associated with vascular rings and compression anomalies?</summary><div class="details-content">
+
+- Ventricular septal defect (VSD)
+- Tetralogy of Fallot (TOF)
+- Patent ductus arteriosus (PDA)
+- Congenitally corrected transposition of the great arteries (ccTGA)
+
+The overall incidence of associated cardiac anomalies is **10–30%**.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 12. Describe the clinical presentation of patients with a vascular sling or ring</summary><div class="details-content">
+
+**Most important element of assessment:** Accurate and complete history
+
+**Suspicion raised in:** Neonates or infants with persistent or chronic respiratory symptoms or feeding issues
+
+**Respiratory symptoms (often in first 6 months):**
+- Apnoea
+- Respiratory distress
+- Stridor
+- Cough
+
+**Gastrointestinal symptoms (may persist if early diagnosis not made):**
+- Dysphagia
+- Oesophageal motility symptoms
+- Need for prolonged feeding with processed food
+- Regurgitation
+- Vomiting
+
+**Earliest presentation:** Normally produced by a **double aortic arch**
+
+Occasionally, a combination of respiratory and oesophageal symptoms occur depending on the anomaly.
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 4. Diagnostic Imaging</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 13. What are the findings on investigation in a patient with a vascular sling or ring?</summary><div class="details-content">
+
+| Modality | Findings / Role |
+|---|---|
+| **Chest radiograph** | Poor delineation of aortic knuckle; tracheal narrowing; hyperinflation of one lung |
+| **CT with 3D reconstruction** | **Investigation of choice** — clearly delineates underlying anatomy and any resultant compression (Figures 5–9) |
+| **Echocardiography** | Rules out associated cardiac anomalies |
+| **Barium swallow** | Investigates symptoms of dysphagia (Figure 10) |
+| **Bronchoscopy** | Investigates suspected airway compression |
 
 ![](_page_6_Picture_5.jpeg)
 
 ![](_page_6_Picture_6.jpeg)
 
-**Figure 5. Computed tomography scan: A) axial image; and B) 3D reconstruction demonstrating a double aortic arch with a right aortic arch (RAA) and left aortic arch (LAA) originating from the ascending aorta (Asc Ao), encircling the trachea and oesophagus.**
+**FIGURE 5.** CT scan: A) Axial image; B) 3D reconstruction — double aortic arch with RAA and LAA originating from ascending aorta, encircling trachea and oesophagus.
 
 ![](_page_7_Picture_2.jpeg)
 
 ![](_page_7_Picture_3.jpeg)
 
-**Figure 6. Computed tomography scan demonstrating a right aortic arch (RAA) with an aberrant right subclavian artery (ARSA), with: A) the trachea (Tr) and oesophagus (Oe) both clearly seen; and B) the oesophagus collapsed at a lower level due to the compression.**
-
-- Echocardiography is used to rule out associated cardiac anomalies.
-- A barium swallow may be required to investigate symptoms of dysphagia (Figure 10).
-- Bronchoscopy may be required to investigate patients with suspected airway compression.
+**FIGURE 6.** CT scan: Right aortic arch with aberrant right subclavian artery (ARSA). A) Trachea (Tr) and oesophagus (Oe) both clearly seen; B) Oesophagus collapsed at lower level due to compression.
 
 ![](_page_8_Picture_2.jpeg)
 
-**Figure 7. 3D computed tomography demonstrating a right aortic arch (RAA) with an aberrant left subclavian artery, originating from a prominent Kommerell's diverticulum. Asc Ao = ascending aorta; RSCA = right subclavian artery; RCCA = right common carotid artery; LSCA = left subclavian artery; LCCA = left common carotid artery; Desc Ao = descending aorta.** *Images courtesy of Dr. James Shambrook, University Hospital Southampton, UK***.**
+**FIGURE 7.** 3D CT: Right aortic arch with aberrant left subclavian artery originating from prominent Kommerell diverticulum. Asc Ao = ascending aorta; RSCA = right subclavian artery; RCCA = right common carotid artery; LSCA = left subclavian artery; LCCA = left common carotid artery; Desc Ao = descending aorta. *Images courtesy of Dr. James Shambrook.*
 
 ![](_page_9_Picture_2.jpeg)
 
 ![](_page_9_Picture_3.jpeg)
 
-**Figure 8. Computed tomography scan: A) axial image; and B) 3D reconstruction demonstrating an aberrant innominate artery (IA) compressing the anterior trachea (Tr).**
+**FIGURE 8.** CT scan: A) Axial image; B) 3D reconstruction — aberrant innominate artery (IA) compressing anterior trachea (Tr).
 
 ![](_page_10_Picture_2.jpeg)
 
 ![](_page_10_Picture_3.jpeg)
 
-**Figure 9. Computed tomography scan: A) axial image; and B) 3D reconstruction demonstrating a pulmonary artery sling. The right pulmonary artery (RPA) travels its normal course from the main pulmonary artery (MPA), whereas the left pulmonary artery (LPA) can be seen arising from the RPA and travelling behind the trachea.**
+**FIGURE 9.** CT scan: A) Axial image; B) 3D reconstruction — pulmonary artery sling. RPA travels normal course from MPA; LPA arises from RPA and travels behind trachea.
 
 ![](_page_11_Picture_2.jpeg)
 
-**Figure 10. A barium swallow demonstrating posterior oesophageal compression in a patient with a right aortic arch and an aberrant right subclavian artery.**
+**FIGURE 10.** Barium swallow: Posterior oesophageal compression in patient with right aortic arch and aberrant right subclavian artery.
 
-# 14 **What are the indications for surgical intervention in <sup>a</sup> patient with a vascular sling or ring?**
+</div></details>
 
-- Patients with symptoms of airway or oesophageal compression with anatomical narrowing on imaging.
-- Asymptomatic patients with anatomical narrowing >50% on imaging.
-- The presence of a pulmonary artery sling also usually dictates surgical intervention.
+</div></details>
 
-#### 15 **What are the principles of surgery for <sup>a</sup> double aortic arch?**
+---
 
-- Following left thoracotomy or a video-assisted thoracoscopic approach, the fibrous tissue along the trachea and oesophagus is divided, with the overlying pleura left open.
-- Anatomy of the double aortic arch is then identified (Figure 11).
-- The non-dominant aortic arch is then divided (Figure 12). Prior to surgical division, it is important to test clamp and confirm appropriate pulses are present.
-- The ligamentum arteriosum or patent ductus arteriosus should also be divided (Figure 13).
+<details class="med-details"><summary>
+  
+## 5. Indications for Surgical Intervention</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 14. What are the indications for surgical intervention in a patient with a vascular sling or ring?</summary><div class="details-content">
+
+- Patients with **symptoms** of airway or oesophageal compression with anatomical narrowing on imaging
+- **Asymptomatic** patients with anatomical narrowing **>50%** on imaging
+- The presence of a **pulmonary artery sling** also usually dictates surgical intervention
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 6. Surgical Principles</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 15. What are the principles of surgery for a double aortic arch?</summary><div class="details-content">
+
+**Approach:** Left thoracotomy or video-assisted thoracoscopic surgery (VATS)
+
+**Steps (Figures 11–14):**
+1. Divide fibrous tissue along trachea and oesophagus; leave overlying pleura open
+2. Identify anatomy of double aortic arch (Figure 11)
+3. **Test clamp** the non-dominant arch and confirm appropriate pulses are present
+4. Divide the non-dominant aortic arch (Figure 12)
+5. Divide the ligamentum arteriosum or patent ductus arteriosus (Figure 13)
+
+**Postoperative:** Follow-up CT scan indicated to verify resolution of anatomical compression, especially if symptoms persist (Figure 14)
 
 ![](_page_12_Picture_2.jpeg)
 
-**Figure 11. Operative image with pictogram demonstrating a double aortic arch. The mediastinum is accessed via a left posterior thoracotomy. The lung is retracted anteriorly and the mediastinum accessed along the vagus nerve. The anterior left aortic arch and descending aorta are dissected, and the oesophagus is exposed.**
+**FIGURE 11.** Operative image with pictogram: Double aortic arch. Left posterior thoracotomy; lung retracted anteriorly; mediastinum accessed along vagus nerve; anterior left arch and descending aorta dissected; oesophagus exposed.
 
 ![](_page_12_Picture_4.jpeg)
 
-**Figure 12. Operative image with pictogram demonstrating the left anterior, non-dominant arch being dissected and double ligated with silk ties. Vascular clamps can be used to improve haemostatic control.**
-
-• A follow up CT scan is indicated to verify the resolution of the anatomical compression, especially if symptoms persist (Figure 14).
+**FIGURE 12.** Operative image with pictogram: Left anterior, non-dominant arch dissected and double ligated with silk ties. Vascular clamps can improve haemostatic control.
 
 ![](_page_13_Picture_2.jpeg)
 
-**Figure 13. The arch and ligamentum are divided to maximise relaxation of the oesophagus and trachea.**
+**FIGURE 13.** Arch and ligamentum divided to maximise relaxation of oesophagus and trachea.
 
 ![](_page_13_Picture_4.jpeg)
 
-**Figure 14. Computed tomography scan following division of a right dominant double aortic arch: A) pre-operative scan demonstrating the diagnostic '4 vessels sign' (red circle); B) double aortic arch with right, posterior dominance (green arrows); C) following division of the anterior left arch, the wide mediastinal opening to the left can be visualised (red arrow); D) the distal arch remnant (red asterisk) is still present and is a potential source of compression. arch regression. RCCA = right common carotid artery; LCCA = left common carotid artery; RSCA = right subclavian artery; LSCA = left subclavian artery.** *Images courtesy of Dr. James Shambrook, University Hospital Southampton, UK.*
+**FIGURE 14.** CT following division of right dominant double aortic arch: A) Pre-op — diagnostic '4 vessels sign' (red circle); B) Double arch with right posterior dominance (green arrows); C) Post-op — wide mediastinal opening to left (red arrow); D) Distal arch remnant (red asterisk) — potential source of compression. RCCA = right common carotid artery; LCCA = left common carotid artery; RSCA = right subclavian artery; LSCA = left subclavian artery. *Images courtesy of Dr. James Shambrook.*
 
-#### 16 **What are the principles of surgery for <sup>a</sup> right aortic arch with left ligamentum arteriosum?**
+</div></details>
 
-- Following a left thoracotomy or video-assisted thoracoscopic approach, the fibrous tissue along the trachea and oesophagus is divided.
-- The ligamentum arteriosum or patent ductus arteriosus should be divided and can be sutured to the prevertebral fascia to reduce the risk of recurrence.
-- The overlying pleura is left open.
-- If a dilated diverticulum of Kommerell is present, it should be resected and the left subclavian artery can be anastomosed to the left common carotid artery.
+<details class="med-details"><summary>
+  
+#### 16. What are the principles of surgery for a right aortic arch with left ligamentum arteriosum?</summary><div class="details-content">
 
-# 17 **What are the principles of surgery for <sup>a</sup> pulmonary artery sling?**
+**Approach:** Left thoracotomy or VATS
 
-- The operation is performed via a median sternotomy, usually with cardiopulmonary bypass.
-- The left pulmonary artery is divided from the right pulmonary artery.
-- The left pulmonary artery is moved anterior to the trachea and reimplanted into the main pulmonary artery.
-- In the presence of complete tracheal rings or significant tracheal stenosis, tracheal reconstruction should be performed with a sliding tracheoplasty.
+**Steps:**
+1. Divide fibrous tissue along trachea and oesophagus
+2. Divide ligamentum arteriosum or PDA; can be sutured to **prevertebral fascia** to reduce recurrence risk
+3. Leave overlying pleura open
+4. If **dilated diverticulum of Kommerell** present: resect it and anastomose left subclavian artery to left common carotid artery
 
-### 18 **What are the principles of surgery for innominate artery compression syndrome?**
+</div></details>
 
-- The surgical approach can be a left thoracotomy, right thoracotomy, partial or full median sternotomy, or video-assisted thoracoscopy.
-- Following thymectomy, the innominate artery and distal ascending aorta are attached to the posterior sternum.
-- Improvement of the tracheal lumen is confirmed with intra-operative bronchoscopy.
-- Alternatively, the innominate artery can be translocated to a different location on the ascending aorta to relieve the compression.
+<details class="med-details"><summary>
+  
+#### 17. What are the principles of surgery for a pulmonary artery sling?</summary><div class="details-content">
 
-# 19 **What are the outcomes following surgical correction of a vascular sling or ring?**
+**Approach:** Median sternotomy, usually with cardiopulmonary bypass
 
-• Surgery for a vascular sling or ring is associated with a low hospital mortality, with the majority of patients experiencing symptomatic improvement.
+**Steps:**
+1. Divide left pulmonary artery from right pulmonary artery
+2. Move left pulmonary artery **anterior to the trachea**
+3. Reimplant left pulmonary artery into main pulmonary artery
+4. In the presence of **complete tracheal rings** or significant tracheal stenosis: perform **sliding tracheoplasty**
 
-- Complications following surgery are uncommon but include:
-  - a) chylothorax resulting from injury to the thoracic duct;
-  - b) diaphragmatic paresis or paralysis secondary to phrenic nerve injury;
-  - c) vocal cord paresis or paralysis secondary to recurrent laryngeal nerve injury;
-  - d) pneumothorax;
-  - e) oesophageal injury.
-- Persistent respiratory symptoms and signs may be present, especially in very young infants with severe pre-operative symptoms and tracheomalacia.
-- Recurrent symptoms may also be caused by scarring or compression from a dilated Kommerell's diverticulum.
-- Catheter-based dilatation of the left pulmonary artery may be required after the repair of a pulmonary artery sling.
+</div></details>
 
-#### **994 Recommended reading**
+<details class="med-details"><summary>
+  
+#### 18. What are the principles of surgery for innominate artery compression syndrome?</summary><div class="details-content">
 
-- 1. Backer CL, Mavroudis C, Rigsby CK, Holinger LD. Trends in vascular ring surgery. g qÜçê~Å `~êÇáçî~ëÅ pìêÖ 2005; 129:.
-- 2. Backer CL, Russell HM, Wurlitzer KC, Rastatter JC, Rigsby CK. Primary resection of Kommerell diverticulum and left subclavian artery transfer. ^åå qÜçê~Å pìêÖ 2012; 94:.
-- 3. Fiore AC, Brown JW, Weber TR, Turrentine MW. Surgical treatment of pulmonary artery sling and tracheal stenosis. ^åå qÜçê~Å pìêÖ 2005; 79:.
-- 4. Jones DT, Jonas RA, Healy GB. Innominate artery compression of the trachea in áåÑ~åíëK ^åå líçä oÜáåçä i~êóåÖçä 1994; 103:.
+**Approach options:** Left thoracotomy, right thoracotomy, partial or full median sternotomy, or VATS
+
+**Technique:**
+1. Thymectomy
+2. Attach innominate artery and distal ascending aorta to **posterior sternum**
+3. Confirm improvement of tracheal lumen with **intra-operative bronchoscopy**
+
+**Alternative:** Translocate innominate artery to a different location on the ascending aorta to relieve compression
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 7. Outcomes and Complications</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 19. What are the outcomes following surgical correction of a vascular sling or ring?</summary><div class="details-content">
+
+**Overall:**
+- Surgery associated with **low hospital mortality**
+- Majority of patients experience **symptomatic improvement**
+
+**Complications (uncommon):**
+
+| Complication | Cause |
+|---|---|
+| Chylothorax | Thoracic duct injury |
+| Diaphragmatic paresis/paralysis | Phrenic nerve injury |
+| Vocal cord paresis/paralysis | Recurrent laryngeal nerve injury |
+| Pneumothorax | — |
+| Oesophageal injury | — |
+
+**Persistent symptoms:**
+- May be present, especially in very young infants with severe pre-operative symptoms and **tracheomalacia**
+- Recurrent symptoms may be caused by **scarring** or compression from a **dilated Kommerell diverticulum**
+
+**Post-pulmonary artery sling repair:**
+- Catheter-based dilatation of the left pulmonary artery may be required
+
+</div></details>
+
+</div></details>
