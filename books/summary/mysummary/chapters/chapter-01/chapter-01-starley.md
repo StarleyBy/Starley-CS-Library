@@ -176,36 +176,69 @@ The development of the intra-aortic balloon pump (IABP), ventricular assist devi
 <details class="med-details">
 <summary>
 
-## Chapter 2: Surgical Anatomy of the Heart
+## <span class="t-red">C</span>hapter <span class="ov-gold">2</span>: <span class="t-green">Surgical Anatomy of the Heart</span>
 </summary>
 <div class="details-content">
 
-### Location and Spatial Relationships
+<div class="admonition admonition-anatomy">
+  <div class="admonition-title">Location and Spatial Relationships</div>
+  <div class="admonition-content">
 
 *   **Shape and position:** Heart is a three-sided pyramid in the middle mediastinum. One-third lies right of midline, two-thirds left. Long axis: left epigastrium to right shoulder. Short axis (atrioventricular groove plane): closer to vertical than horizontal.
-*   **Surfaces:** Acute margin (inferior, sharp angle between sternocostal and diaphragmatic surfaces), obtuse margin (superior, diffuse), and unnamed posterior margin.
-*   **Relations:** Anterior: sternum and costal cartilages (ribs 3–5). Lateral: lungs (right lung reaches midline; left lung has cardiac notch). Posterior: esophagus, tracheal bifurcation, bronchi. Inferior: diaphragm.
-*   **Pericardium:** Visceral epicardium encases heart; parietal pericardium lines fibrous sac. Transverse sinus (between aorta/pulmonary trunk posteriorly and interatrial groove anteriorly). Oblique sinus (cul-de-sac behind left atrium).
-*   **Mediastinal nerves:**
-    *   **Phrenic nerve:** Anterior scalene → posterior to internal thoracic artery at thoracic inlet. Right: lateral SVC; left: lateral to left-sided SVC if present. Vulnerable during IMA dissection and venous cannulation.
-    *   **Vagus nerve:** Posterior to phrenic. Right: gives recurrent laryngeal around right subclavian. Left: crosses aortic arch, gives recurrent laryngeal around arterial ligament.
+*   **Surfaces:** <mark class="m-lime">Acute margin</mark> (inferior, sharp angle between sternocostal and diaphragmatic surfaces), <mark class="m-lime">obtuse margin</mark> (superior, diffuse), and unnamed <mark class="m-lime">posterior margin</mark>.
+*   **Relations:** Anterior: sternum and costal cartilages (ribs 3–5). Lateral: lungs (right lung reaches midline; <mark class="m-grey">left lung has cardiac notch</mark>). Posterior: esophagus, tracheal bifurcation, bronchi. Inferior: diaphragm.
+*   **Pericardium:** Visceral epicardium encases heart; parietal pericardium lines fibrous sac. <mark class="m-green">Transverse sinus</mark> (between aorta/pulmonary trunk posteriorly and interatrial groove anteriorly). <mark class="m-green">Oblique sinus</mark> (cul-de-sac behind left atrium).
 
-### Surgical Incisions
+<div class="admonition admonition-note">
+  <div class="admonition-title">Mediastinal nerves</div>
+  <div class="admonition-content">
+
+*   **Phrenic nerve:** Anterior scalene → posterior to internal thoracic artery at thoracic inlet. Right: lateral SVC; left: lateral to left-sided SVC if present. Vulnerable during IMA dissection and venous cannulation.
+*   **Vagus nerve:** Posterior to phrenic. Right: gives recurrent laryngeal around right subclavian. Left: crosses aortic arch, gives recurrent laryngeal around arterial ligament.
+  </div>
+</div>
+
+  </div>
+</div>
+
+<div class="admonition admonition-surgery">
+  <div class="admonition-title">Surgical Incisions</div>
+  <div class="admonition-content">
 
 *   **Median sternotomy:** Most common approach. Jugular notch to xiphoid. Extensions: neck for aortic arch exposure; third intercostal space for proximal descending aorta.
 *   **Clamshell (bilateral transverse thoracosternotomy):** Fourth or fifth intercostal space. Bilateral submammary incision with transverse sternal division. Used for bilateral lung transplants, heart-lung transplants, aortic arch/descending aorta.
 *   **Anterolateral thoracotomy:** Right side for tricuspid/mitral valves, right coronary artery. Left side for circumflex bypass or mitral valve exposure.
 *   **Posterolateral thoracotomy:** Left side for distal aortic arch and descending thoracic aorta; requires femoral cannulation for CPB.
+  </div>
+</div>
 
-### Atrial Anatomy
+<div class="admonition admonition-anatomy">
+  <div class="admonition-title">Atrial Anatomy</div>
+  <div class="admonition-content">
 
-*   **Right atrium:** Three parts: appendage (pectinate muscles), vestibule (smooth wall inserting into tricuspid valve), venous component (receives SVC, IVC, coronary sinus). Terminal groove marks junction of appendage and venous component.
+*   **Right atrium:** 
+
+    Three parts: 
+    * appendage (pectinate muscles) 
+    * vestibule (smooth wall inserting into tricuspid valve)
+    * venous component (receives SVC, IVC, coronary sinus). 
+    
+    Terminal groove marks junction of appendage and venous component.
 *   **Sinus node:** Located at anterior-superior terminal groove (SVC-atrial appendage junction). Blood supply: RCA (55%) or circumflex (45%). Nodal artery courses along anterior interatrial groove; variable at cavoatrial junction.
 *   **Atrial septum:** True septum confined to oval fossa. Superior rim (septum secundum) is infolding between right atrium and right pulmonary veins. Inferior rim continuous with sinus septum (separates IVC and coronary sinus).
 *   **Triangle of Koch:** Borders: tendon of Todaro, septal leaflet of tricuspid valve, coronary sinus orifice. Contains atrioventricular node and conduction axis. Apex marks penetration of His bundle.
-*   **Left atrium:** Appendage (pectinate muscles confined within), vestibule (continuous with mural leaflet of mitral valve), venous component (receives four pulmonary veins). Approaches: interatrial groove (right of and parallel to), dome (between atrial appendages), or trans-septal via right atrium.
+*   **Left atrium:** 
+    * appendage (pectinate muscles confined within)
+    * vestibule (continuous with mural leaflet of mitral valve)
+    * venous component (receives four pulmonary veins). 
+    
+    Approaches: interatrial groove (right of and parallel to), dome (between atrial appendages), or trans-septal via right atrium.
+  </div>
+</div>
 
-### Ventricular and Valvular Anatomy
+<div class="admonition admonition-anatomy">
+  <div class="admonition-title">Ventricular and Valvular Anatomy</div>
+  <div class="admonition-content">
 
 *   **Tricuspid valve:** Three leaflets (septal, anterosuperior, inferior). No discrete collagenous annulus; separated from atrial/ventricular myocardium by fibrofatty tissue of atrioventricular groove. Entire parietal attachment encircled by right coronary artery.
 *   **Mitral valve:** Two leaflets: aortic (anterior, short, square, in fibrous continuity with aortic valve) and mural (posterior, shallow, two-thirds of circumference). Dense collagenous annulus. Circumflex artery adjacent to left half; coronary sinus adjacent to right half. Dominant circumflex may course extensively within left atrioventricular groove.
@@ -213,21 +246,31 @@ The development of the intra-aortic balloon pump (IABP), ventricular assist devi
 *   **Pulmonary valve:** Semilunar, no discrete annulus. Three rings: sinotubular ridge, ventriculoarterial junction, basal attachments to infundibulum. Semilunar attachments cross musculoarterial junction.
 *   **Left ventricle:** Inlet (mitral valve), apical trabecular (fine trabeculations), outlet (supports aortic valve). Left bundle enters outflow tract posterior to membranous septum.
 *   **Aortic valve:** Semilunar, central position related to all cardiac chambers. Fibrous continuity with mitral valve (aortomitral curtain). Noncoronary leaflet related to right atrium; right coronary leaflet related to central fibrous body. Konno-Rastan procedure: incision through commissure between right and left coronary leaflets; enlarges aortic root via ventricular septal defect patch.
+  </div>
+</div>
 
-### Coronary Arteries
+<div class="admonition admonition-anatomy">
+  <div class="admonition-title">Coronary Arteries</div>
+  <div class="admonition-content">
 
 *   **Right dominance (85–90%):** RCA supplies inferior interventricular artery (posterior descending).
 *   **Left main coronary artery:** 10–20 mm length. Divides into left anterior descending (LAD) and circumflex.
 *   **LAD:** Anterior interventricular groove to apex. Branches: diagonals (anterolateral LV), septal perforators (anterior 2/3 septum, perpendicular orientation is angiographic marker), right ventricular branches.
 *   **Circumflex:** Left atrioventricular groove. Branches: obtuse marginals (lateral LV, posteromedial papillary muscle). Supplies sinus node in 40–50%; atrioventricular node in left dominance.
 *   **RCA:** Right atrioventricular groove, acute margin, crux (U-turn). Branches: acute marginals (anterior RV), inferior interventricular artery (inferior septum), right posterolateral artery (posterior LV). Supplies sinus node in 50–60%; atrioventricular node in right dominance.
+  </div>
+</div>
 
-### Coronary Veins
+<div class="admonition admonition-anatomy">
+  <div class="admonition-title">Coronary Veins</div>
+  <div class="admonition-content">
 
 *   **Coronary sinus:** Drains 85% of coronary venous blood. Lies in posterior atrioventricular groove; empties into right atrium at lateral border of triangle of Koch.
 *   **Tributaries:** Great cardiac vein (anterior interventricular vein → left atrioventricular groove), middle cardiac vein (inferior interventricular groove), small cardiac vein (right atrioventricular groove).
 *   **Anterior right ventricular veins:** Drain directly into right atrium or coalesce into small cardiac vein.
 *   **Thebesian veins:** Small tributaries draining directly into cardiac chambers (primarily right atrium and ventricle).
+  </div>
+</div>
 
 </div>
 </details>
@@ -235,47 +278,76 @@ The development of the intra-aortic balloon pump (IABP), ventricular assist devi
 <details class="med-details">
 <summary>
 
-## Chapter 3: Cardiac Surgical Physiology
+## <span class="t-red">C</span>hapter <span class="ov-gold">3</span>: <span class="t-green">Cardiac Surgical Physiology</span>
 </summary>
 <div class="details-content">
 
-### Cellular Activation & Action Potential
-*   **Resting Membrane Potential:** Determined mainly by K+ gradient (via Na<sup>+</sup>/K<sup>+</sup> ATPase). Typical value ~ -90 mV.
-*   **Phases (Myocyte):**
-    *   **Phase 0 (Depolarization):** Fast Na<sup>+</sup> channels open (inward current).
-    *   **Phase 1 (Early repolarization):** Transient K<sup>+</sup> current.
-    *   **Phase 2 (Plateau):** L-type Ca<sup>2+</sup> channels open (inward Ca<sup>2+</sup> sustains contraction). Inactivation gates close slowly.
-    *   **Phase 3 (Repolarization):** Ca<sup>2+</sup> channels close; delayed rectifier K<sup>+</sup> channels open.
-    *   **Phase 4 (Resting):** Maintained by K<sup>+</sup> channels (iK<sub>1</sub>).
+<div class="admonition admonition-physiology">
+  <div class="admonition-title">Cellular Activation & Action Potential</div>
+  <div class="admonition-content">
+    
+*   **Resting Membrane Potential:** Determined mainly by K<sup>+</sup> gradient (via Na<sup>+</sup>/K<sup>+</sup> ATPase). Typical value ~ -90 mV.
+
+<div class="admonition admonition-tip">
+  <div class="admonition-title">Phases (Myocyte)</div>
+  <div class="admonition-content">
+
+*   **Phase 0 (Depolarization):** Fast Na<sup>+</sup> channels open (inward current).
+*   **Phase 1 (Early repolarization):** Transient K<sup>+</sup> current.
+*   **Phase 2 (Plateau):** L-type Ca<sup>2+</sup> channels open (inward Ca<sup>2+</sup> sustains contraction). Inactivation gates close slowly.
+*   **Phase 3 (Repolarization):** Ca<sup>2+</sup> channels close; delayed rectifier K<sup>+</sup> channels open.
+*   **Phase 4 (Resting):** Maintained by K<sup>+</sup> channels (iK<sub>1</sub>).
+  </div>
+</div>
 *   **Pacemaker Cells (SA/AV Node):** No fast Na<sup>+</sup> channels. Phase 4 shows spontaneous diastolic depolarization (pacemaker potential) driven by funny current (If) and Ca<sup>2+</sup> influx.
 *   **Refractory Periods:**
-    *   **Absolute:** No new action potential possible (Na<sup>+</sup> channels inactivated).
-    *   **Relative:** Only strong stimuli can excite (some Na<sup>+</sup> channels recovered).
+   *   **Absolute:** No new action potential possible (Na<sup>+</sup> channels inactivated).
+   *   **Relative:** Only strong stimuli can excite (some Na<sup>+</sup> channels recovered).
+  </div>
+</div>
 
-### Key Ion Channels & Pumps
+<div class="admonition admonition-info">
+  <div class="admonition-title">Key Ion Channels & Pumps</div>
+  <div class="admonition-content">
+    
 *   **Na<sup>+</sup>/K<sup>+</sup> ATPase:** Pumps 3 Na<sup>+</sup> out, 2 K<sup>+</sup> in; contributes -10 mV to resting potential.
 *   **Na<sup>+</sup>/Ca<sup>2+</sup> Exchanger (NCX):** Primary Ca<sup>2+</sup> extrusion mechanism (3 Na<sup>+</sup> in / 1 Ca<sup>2+</sup> out). Can reverse in ischemia (Ca<sup>2+</sup> overload).
 *   **Ryanodine Receptor (RyR):** SR Ca<sup>2+</sup> release channel; activated by Ca<sup>2+</sup> influx ("calcium-induced calcium release").
 *   **SERCA:** SR Ca<sup>2+</sup> uptake pump; regulated by **Phospholamban** (inhibits; phosphorylation by PKA relieves inhibition → lusitropy).
+  </div>
+</div>
 
-### Regulation of Function
+<div class="admonition admonition-physiology">
+  <div class="admonition-title">Regulation of Function</div>
+  <div class="admonition-content">
+
 *   **Beta-1 Receptors:** Gs → ↑ cAMP → PKA → ↑ Ca<sup>2+</sup> channel opening, ↑ SR Ca<sup>2+</sup> release, ↑ SERCA activity. Results in:
-    *   Positive **chronotropy** (HR)
-    *   Positive **inotropy** (contractility)
-    *   Positive **dromotropy** (conduction velocity)
-    *   Positive **lusitropy** (relaxation)
+    *   Positive **<span class="t-blue">chronotropy</span>** (<span class="ov-blue">HR</span>)
+    *   Positive **<span class="t-green">inotropy</span>** (<span class="ov-green">contractility</span>)
+    *   Positive **<span class="t-red">dromotropy</span>** (<span class="ov-red">conduction velocity</span>)
+    *   Positive **<span class="t-orange">lusitropy</span>** (<span class="ov-orange">relaxation</span>)
 *   **Beta-Blockers:** Reduce MvO<sub>2</sub>; cause receptor upregulation.
 *   **Phosphodiesterase Inhibitors (Milrinone):** ↓ cAMP breakdown → ↑ inotropy + vasodilation (inodilator); synergistic with beta-agonists.
 *   **Adenosine:** A1 receptor → ↓ cAMP, opens K+ channels (hyperpolarization); used to slow AV conduction.
 *   **Acetylcholine (Parasympathetic):** Gi → ↓ cAMP; opens K+ channels → hyperpolarization (slows HR).
 *   **Acidosis:** ↓ Ca<sup>2+</sup> release, ↓ myofilament Ca<sup>2+</sup> sensitivity, desensitizes beta-receptors → ↓ contractility.
 *   **Other Regulators:** Angiotensin II (vasoconstriction, aldosterone), NO (vasodilation, regulates Ca<sup>2+</sup> handling), Endothelin-1 (vasoconstriction).
+  </div>
+</div>
 
-### The Sarcomere & Contraction
+<div class="admonition admonition-note">
+  <div class="admonition-title">The Sarcomere & Contraction</div>
+  <div class="admonition-content">
+
 *   **Sliding Filament Theory:** Ca<sup>2+</sup> binds to **TnC** → tropomyosin shifts → exposes actin binding site → myosin head forms cross-bridge (ATPase activated) → power stroke.
 *   **Length-Tension Relationship (Frank-Starling):** ↑ Sarcomere length (up to 2.2-2.4 μm) → ↑ Ca<sup>2+</sup> sensitivity of TnC → ↑ force. Best clinical correlate: ↑ Preload → ↑ Stroke Volume.
+  </div>
+</div>
 
-### Ventricular Mechanics (Pressure-Volume Loops)
+<div class="admonition admonition-side-effect">
+  <div class="admonition-title">Ventricular Mechanics (Pressure-Volume Loops)</div>
+  <div class="admonition-content">
+    
 *   **Key Loops Points:**
     *   **Aortic Valve Opens:** End of isovolumic contraction.
     *   **Aortic Valve Closes:** End-systole (dicrotic notch).
@@ -285,30 +357,53 @@ The development of the intra-aortic balloon pump (IABP), ventricular assist devi
 *   **EDPVR (End-Diastolic Pressure-Volume Relationship):**
     *   **Slope:** Index of **compliance** (lusitropy). ↑ Slope = Stiffer ventricle.
 *   **Preload Recruitable Stroke Work (PRSW):** Load-independent contractility index (stroke work vs. EDV).
+  </div>
+</div>
 
-### Preload, Afterload, Compliance
+<div class="admonition admonition-note">
+  <div class="admonition-title">Preload, Afterload, Compliance</div>
+  <div class="admonition-content">
+
 *   **Preload:** End-diastolic volume (surrogate: filling pressure). Determined by venous return and atrial systole.
 *   **Afterload:** Ventricular wall stress during ejection. Simplified as: **Wall Stress (σ) = (P × r) / (2 × w)** (Laplace). ↑ Radius or ↑ Pressure → ↑ Wall Stress → ↑ MvO<sub>2</sub>.
 *   **Compliance (dV/dP):** Stiffness (dP/dV) is increased in hypertrophy, fibrosis, ischemia, tamponade.
+  </div>
+</div>
 
-### Coronary Blood Flow
+<div class="admonition admonition-physiology">
+  <div class="admonition-title">Coronary Blood Flow</div>
+  <div class="admonition-content">
+
 *   **Left Coronary Flow:** **Phasic** (mostly in diastole) due to systolic compression.
 *   **Subendocardium at Risk:** Highest wall tension, perfused only in diastole. Vulnerable to hypotension, tachycardia (↓ diastole), high LVEDP (compression).
 *   **Autoregulation Plateau:** Flow constant between MAP ~60-120 mmHg.
 *   **Poiseuille's Law (Stenosis):** Resistance ∝ **1 / r⁴**. 90% stenosis → resistance **256x** > 60% stenosis.
 *   **Coronary Flow Reserve:** Maximal increase in flow (3-4x normal).
+  </div>
+</div>
 
-### Myocardial Protection & Injury
+<div class="admonition admonition-tip">
+  <div class="admonition-title">Myocardial Protection & Injury</div>
+  <div class="admonition-content">
+
 *   **Stunning:** Post-ischemic dysfunction despite restored flow; weeks to recover (↓ myofilament Ca<sup>2+</sup> sensitivity).
 *   **Hibernation:** Chronic hypoperfusion → downregulation; reversible with revascularization.
 *   **Preconditioning:** Brief ischemia protects against subsequent prolonged ischemia.
 *   **Reperfusion Injury:** Ca<sup>2+</sup> overload, oxidative stress, endothelial dysfunction, no-reflow.
+  </div>
+</div>
 
-### Heart Failure Physiology
+<div class="admonition admonition-danger">
+  <div class="admonition-title">Heart Failure Physiology</div>
+  <div class="admonition-content">
+
 *   **Systolic Failure:** ↓ Ees; LV dilates (right shift on PV loop); EF ↓.
 *   **Diastolic Failure:** ↑ EDPVR (stiff); high filling pressures; preserved EF.
 *   **Maladaptive Responses:** Chronic neurohumoral activation (RAAS, SNS) → fibrosis, remodeling, beta-receptor downregulation, arrhythmias.
 *   **BNP:** Secreted in response to stretch; diagnostic marker.
+  </div>
+</div>
+
 
 </div>
 </details>
