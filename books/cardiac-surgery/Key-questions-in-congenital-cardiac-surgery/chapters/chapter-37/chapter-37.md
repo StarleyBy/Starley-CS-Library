@@ -1,264 +1,591 @@
-# **Chapter 37**
+# Surgical Palliation in Congenital Heart Disease
 
-# Surgical palliation in congenital heart disease
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-**Vanessa J. C. Rogers, Nigel E. Drury**
+### Definition of Palliation
+- **Palliation:** Alleviation of symptoms without correction of underlying pathology
+- Used when total surgical correction is not possible or not indicated at present
+- **Goals:**
+  - Increase/provide reliable pulmonary blood flow (e.g., BT shunt)
+  - Restrict/prevent excessive pulmonary blood flow (e.g., PA banding)
+  - Allow increased mixing of oxygenated/deoxygenated blood (e.g., atrial septostomy)
+  - Prepare for or allow growth to enable future repair
 
-- 1 **What is palliation in the context of congenital heart disease?**
-- Palliation represents the alleviation of symptoms without correction of the underlying pathology.
-- It is used to manage symptoms when total surgical correction or repair is not possible or is not indicated at the present time.
-- Depending on the underlying congenital cardiac lesion, it can be used to:
-  - a) increase or provide a reliable pulmonary blood flow, such as with a Blalock-Taussig (BT) shunt;
-  - b) restrict or prevent excessive pulmonary blood flow, such as with pulmonary artery (PA) banding;
-  - c) allow increased mixing of oxygenated and deoxygenated blood, such as with an atrial septostomy or septectomy;
-  - d) prepare for or allow growth to enable future surgical repair.
+### Strategies to Increase/Provide Reliable PBF
+**Systemic-to-PA shunts:**
+- Blalock-Taussig shunt (classic and modified)
+- Central systemic-to-PA shunt
+- RV-to-PA shunt (Sano shunt)
+- Classic Glenn shunt
+- Bidirectional Glenn shunt
 
-## 2 **Describe the strategies that can be used to increase or provide reliable pulmonary blood flow**
+**Maintain ductal patency:**
+- Stenting
+- Prostaglandin infusion
 
-- Systemic to pulmonary artery shunts, including a:
-  - a) Blalock-Taussig (BT) shunt (classic and modified) also known as a Blalock-Thomas-Taussig (BTT) shunt;
-  - b) central systemic to pulmonary artery shunt;
-  - c) right ventricle (RV) to pulmonary artery (PA) shunt (Sano shunt);
-  - d) classic Glenn shunt;
-  - e) bidirectional Glenn shunt.
-- Maintaining patency of the ductus arteriosus by:
-  - a) stenting;
-  - b) prostaglandin infusion.
+### Ideal Systemic-to-PA Shunt Characteristics
+- Suitable for all anatomical variations
+- Technically simple
+- Minimal morbidity/mortality
+- Increased but not excessive PBF
+- Maintains adequate preload/afterload and coronary flow
+- Good patency and longevity with growth
+- Easy to close at repair
+- No residual defect
 
-# 3 Describe the characteristics of an ideal systemic to pulmonary artery shunt
+### Blalock-Taussig Shunt (Figures 1)
+**Classic BT shunt:** End-to-side anastomosis of subclavian artery to contralateral PA (classically right-sided)
+**Modified BT shunt:** Prosthetic interposition graft between subclavian artery and ipsilateral PA
 
-- Suitable for all anatomical variations.
-- Technically simple to perform.
-- Minimal early and late morbidity and mortality.
-- Increased but not excessive pulmonary blood flow, which may lead to congestive heart failure and pulmonary hypertension.
-- Maintains adequate preload and afterload, and therefore coronary blood flow.
-- Good patency and longevity, maintaining adequate pulmonary blood flow with the growth of the child.
-- Easy to close at the time of total repair.
-- Leaves no residual defect after closure.
+**Approaches:** Median sternotomy or thoracotomy (right side, opposite aortic arch, with azygos vein ligation/division to reduce adhesions)
 
-## 4 Describe the principles of a Blalock-Taussia shunt
+**Indications:** TOF (including pulmonary atresia type), tricuspid atresia, PA-IVS, HLHS, other complex anomalies with restricted PBF
 
-- A classic BT shunt consists of an end-to-side anastomosis of the subclavian artery to the pulmonary artery on the opposite side to the aortic arch. It was originally described on the left but is classically performed on the right (Figure 1A).
-- A modified BT shunt uses a prosthetic interposition graft between the subclavian artery and the ipsilateral pulmonary artery to augment pulmonary blood flow (Figure 1B).
+**Classic BT shunt — Advantages:**
+- Predictable flow (subclavian diameter limits excessive PBF)
+- No prosthetic material
+- Potential adaptive growth
+
+**Classic BT shunt — Disadvantages:**
+- Shunt thrombosis (limited diameter)
+- Sacrifice of subclavian artery (arm ischaemia risk)
+- Extensive dissection (phrenic nerve injury risk)
+
+**Postoperative management:**
+- Anticoagulation: heparin → aspirin (prevent thrombosis)
+- Maintain Hb 140–160 g/L (higher viscosity)
+- Maintain adequate mean/diastolic pressures (prevent coronary steal)
+
+**Complications:**
+| Problem | Signs | Management |
+|---|---|---|
+| Thrombosis/too small | ↓ O₂ sat, loss of shunt murmur | Echo to exclude other causes; remove clip if present; urgent refashioning if thrombosed |
+| Too large | O₂ sat >90%, low diastolic pressure, pulmonary congestion, hypoperfusion, ↑ lactate, oliguria | ↓ FiO₂, allow ↑ PaCO₂, transfusion to ↑ viscosity; clip to reduce diameter |
+
+### Other Systemic-to-PA Shunts (Figure 2)
+| Shunt | Description | Limitations |
+|---|---|---|
+| **Potts** | Descending aorta to LPA | Difficult takedown, high PH incidence |
+| **Waterston-Cooley** | Ascending aorta to RPA (extra- or intrapericardial) | Difficult size determination, single lung over-circulation, difficult takedown |
+| **Central shunt** | Short prosthetic tube graft between ascending aorta and MPA | Requires pericardial entry; not for patients without PDA/other PBF source |
+| **Melbourne (Mee) shunt** | Central end-to-side: transected MPA to ascending aorta | For PA atresia + VSD with confluent but diminutive PAs to encourage growth |
+
+### Modified BT Shunt Flow Dynamics (Poiseuille's Law)
+$$Q = \frac{\Delta P \times \pi \times r^4}{8 \times \eta \times L}$$
+
+| Parameter | Effect on Flow |
+|---|---|
+| ↑ Pressure gradient (↑ systemic pressure or ↓ pulmonary pressure) | ↑ Flow |
+| ↓ Radius (halved) | Resistance ↑ 16×, Flow ↓ 16× |
+| ↓ Length (halved) | Resistance halved, Flow doubles |
+| ↑ Viscosity (↑ haematocrit) | ↓ Flow |
+
+Flow predominantly during diastole → over-shunting managed by increasing heart rate (↓ diastolic time)
+
+### Glenn Shunt (Figures 3–4)
+**Classic Glenn:** End-to-side anastomosis between SVC and RPA, with RPA disconnected from main PA trunk
+**Bidirectional Glenn (BCPS):** SVC disconnected from RA and anastomosed end-to-side to RPA → venous blood flows to both lungs
+
+**Advantages over systemic-to-PA shunts:** No increase in ventricular workload or volume loading
+
+**Clinical applications:**
+- Stage II of three-stage palliation for univentricular conditions (HLHS, tricuspid atresia)
+- Definitive procedure for patients unsuitable for Fontan
+- One-and-a-half repair for functionally inadequate RV (Ebstein's anomaly, RV hypoplasia)
+
+**Post-BCPS management:**
+- Most patients more stable; inter-stage mortality low
+- Oxygen desaturation worsens with activity → indication for Fontan
+- **Pulmonary arteriovenous malformations** may develop (lack of "hepatic factor") → progressive cyanosis (regress after Fontan)
+
+### Pulmonary Artery Banding
+**Indications (large L→R shunt, pulmonary over-circulation, unable to undergo full correction):**
+- Large or multiple VSDs
+- AVSD
+- Tricuspid atresia
+- HLHS (hybrid procedure)
+
+**Reasons for staged approach:**
+- Small body size (contraindicates complex repair)
+- Severe comorbidities (contraindicate CPB)
+- Duct-dependent complex lesions
+
+**Ventricular training:** PA banding to train subpulmonary ventricle before arterial switch (late TGA) or double switch (ccTGA)
+
+**Sizing (Trusler's formula):**
+$$Band\ circumference = 20\ mm + 1\ mm/kg\ body\ weight$$
+
+**Complications:**
+- PA impingement/stenosis → lung underdevelopment
+- Pulmonary valve distortion → dysplasia
+- Coronary artery impingement (if band very proximal; circumflex most common)
+- PA erosion (rare; scarring limits haemorrhage)
+- PA pseudoaneurysm
+- Ineffectual banding → ongoing pulmonary congestion, PVD
+
+### Atrial Septectomy/Septostomy
+**Techniques:** Surgical atrial septectomy or catheter balloon atrial septostomy (Rashkind procedure)
+
+**Indications:**
+- TGA with intact or restrictive ASD
+- HLHS
+- TAPVD with restrictive ASD
+- Tricuspid atresia with restrictive ASD
+- PA-IVS
+- Univentricular heart (as part of Glenn/Fontan)
+- ECMO (to decompress LA)
+
+### Fontan Circulation (Figure 5)
+**Definition:** Surgically constructed pathway where functioning ventricle supports systemic circulation with passive blood flow in series to lungs via superior cavopulmonary shunt (Glenn) and inferior caval connection (Fontan)
+
+**Types:** Atriopulmonary connection, baffled lateral tunnel, extracardiac TCPC (prosthetic conduit)
+
+**Fenestration:** "Blow-off valve" to mitigate ↑ systemic venous pressure (at expense of ↓ O₂ sat)
+
+**Indications:** Any functionally univentricular malformation where one ventricle insufficiently developed/compromised (HLHS, tricuspid atresia, DILV, unbalanced AVSD)
+
+**Favourable characteristics for Fontan:**
+- Low transpulmonary gradient (<12 mmHg)
+- Competent systemic AV valve
+- Unobstructed systemic outflow
+- Preserved systemic ventricular function (adequate EDV, good EF)
+- Low Fontan pathway venous pressure
+- Normal/near-normal O₂ sat (>93%)
+
+### Palliation for Congenital Mitral Stenosis
+- Balloon mitral valvuloplasty (less invasive)
+- Surgical mitral valvuloplasty (favoured for supravalvular stenosis)
+- If associated with small ventricular chamber → univentricular palliation pathway
+
+### Palliation for Congenital Aortic Stenosis
+- Balloon or surgical valvotomy
+- High reintervention rate (repeat valvotomy, prosthetic AVR, Ross procedure)
+- If associated with aortic/ventricular dysplasia → staged univentricular palliation
+
+### Hybrid Procedures
+**Definition:** Combined catheter and surgical interventions (one sitting or sequentially within 24 hours)
+
+**Primary use:** Alternative to Norwood for Stage I HLHS palliation (requires comprehensive Stage II repair)
+
+**Non-HLHS applications (severe comorbidities, low birth weight <2.5 kg, very ill neonate):**
+- IAA + truncus arteriosus
+- Truncus arteriosus with normal arch
+- Taussig-Bing anomaly
+
+**Technique:** PDA stenting (secure systemic flow) + PA banding (prevent over-circulation) ± atrial septostomy/septectomy
+
+**Other hybrid applications:**
+- Multiple VSDs: surgical repair of perimembranous defect + percutaneous closure of muscular defects
+- Transcatheter pulmonary valve replacement via direct surgical sheath
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition and Strategies to Increase Pulmonary Blood Flow</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 1. What is palliation in the context of congenital heart disease?</summary><div class="details-content">
+
+**Palliation** represents the alleviation of symptoms without correction of the underlying pathology.
+
+It is used to manage symptoms when total surgical correction or repair is not possible or is not indicated at the present time.
+
+Depending on the underlying congenital cardiac lesion, it can be used to:
+- **Increase or provide reliable pulmonary blood flow** (e.g., Blalock-Taussig shunt)
+- **Restrict or prevent excessive pulmonary blood flow** (e.g., pulmonary artery banding)
+- **Allow increased mixing of oxygenated and deoxygenated blood** (e.g., atrial septostomy or septectomy)
+- **Prepare for or allow growth** to enable future surgical repair
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 2. Describe the strategies that can be used to increase or provide reliable pulmonary blood flow</summary><div class="details-content">
+
+**Systemic to pulmonary artery shunts:**
+- Blalock-Taussig (BT) shunt (classic and modified) — also known as Blalock-Thomas-Taussig (BTT) shunt
+- Central systemic to pulmonary artery shunt
+- Right ventricle (RV) to pulmonary artery (PA) shunt (Sano shunt)
+- Classic Glenn shunt
+- Bidirectional Glenn shunt
+
+**Maintaining patency of the ductus arteriosus:**
+- Stenting
+- Prostaglandin infusion
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 2. Ideal Shunt Characteristics and Blalock-Taussig Shunt</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 3. Describe the characteristics of an ideal systemic to pulmonary artery shunt</summary><div class="details-content">
+
+- Suitable for all anatomical variations
+- Technically simple to perform
+- Minimal early and late morbidity and mortality
+- Increased but not excessive pulmonary blood flow (which may lead to congestive heart failure and pulmonary hypertension)
+- Maintains adequate preload and afterload, and therefore coronary blood flow
+- Good patency and longevity, maintaining adequate pulmonary blood flow with the growth of the child
+- Easy to close at the time of total repair
+- Leaves no residual defect after closure
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 4. Describe the principles of a Blalock-Taussig shunt (Figure 1)</summary><div class="details-content">
+
+- **Classic BT shunt:** End-to-side anastomosis of the subclavian artery to the pulmonary artery on the **opposite side** to the aortic arch. Originally described on the left but classically performed on the right (Figure 1A).
+- **Modified BT shunt:** Uses a prosthetic interposition graft between the subclavian artery and the **ipsilateral** pulmonary artery (Figure 1B).
 
 ![](_page_1_Picture_14.jpeg)
 
-**Figure 1.** A) Classic right Blalock-Taussig shunt. B) Modified left Blalock-Taussig shunt. PA = pulmonary artery; Ao = aorta.
+**FIGURE 1.** A) Classic right Blalock-Taussig shunt; B) Modified left Blalock-Taussig shunt. PA = pulmonary artery; Ao = aorta.
 
-#### It can be performed via a:
+**Approaches:**
+- Median sternotomy
+- Thoracotomy (usually on the right, opposite side to the aortic arch) — with ligation and division of the azygos vein, reducing the risk of adhesions for a future midline approach
 
-- a) median sternotomy;
-- b) thoracotomy which is usually on the right (opposite side to the aortic arch), with ligation and division of the azygos vein, thereby reducing the risk of adhesions for a future midline approach.
+</div></details>
 
-# Describe the conditions in which a Blalock-Taussig shunt may be used
+<details class="med-details"><summary>
+  
+#### 5. Describe the conditions in which a Blalock-Taussig shunt may be used</summary><div class="details-content">
 
-- Tetralogy of Fallot (and pulmonary atresia of the tetralogy type).
-- Tricuspid atresia.
-- Pulmonary atresia with intact ventricular septum.
-- Hypoplastic left heart syndrome.
-- Other rarer complex anomalies with restricted pulmonary blood flow.
+- Tetralogy of Fallot (and pulmonary atresia of the tetralogy type)
+- Tricuspid atresia
+- Pulmonary atresia with intact ventricular septum
+- Hypoplastic left heart syndrome
+- Other rarer complex anomalies with restricted pulmonary blood flow
 
-# What are the advantages and disadvantages of the classic Blalock-Taussig shunt?
+</div></details>
 
-#### Advantages:
+<details class="med-details"><summary>
+  
+#### 6. What are the advantages and disadvantages of the classic Blalock-Taussig shunt?</summary><div class="details-content">
 
-- a) predictable flow as the diameter of the subclavian artery limits excessive pulmonary blood flow;
-- b) does not require the use of prosthetic material;
-- c) potential adaptive growth with the child.
+**Advantages:**
+- Predictable flow (diameter of subclavian artery limits excessive pulmonary blood flow)
+- Does not require the use of prosthetic material
+- Potential adaptive growth with the child
 
-#### Disadvantages:
+**Disadvantages:**
+- Shunt thrombosis due to limited diameter
+- Involves sacrifice of the subclavian artery, with the potential for arm ischaemia
+- Requires extensive surgical dissection which may result in phrenic nerve injury
 
-- a) shunt thrombosis due to limited diameter;
-- b) involves sacrifice of the subclavian artery, with the potential for arm ischaemia;
-- c) requires extensive surgical dissection which may result in phrenic nerve injury.
+</div></details>
 
-# What factors should be considered in the postoperative management of a patient with a Blalock-Taussig shunt?
+<details class="med-details"><summary>
+  
+#### 7. What factors should be considered in the postoperative management of a patient with a Blalock-Taussig shunt?</summary><div class="details-content">
 
- Anticoagulation, which is initially with heparin, then aspirin, to reduce the risk of early or late shunt thrombosis.
+- **Anticoagulation:** Initially heparin, then aspirin (to reduce risk of early or late shunt thrombosis)
+- **Maintain haemoglobin of 140–160 g/L** (ensures higher viscosity of blood)
+- **Maintain adequate mean and diastolic pressures** with inotropes and gentle filling (to prevent myocardial ischaemia due to coronary steal)
 
-- Maintain a haemoglobin of 140-160g/L, to ensure a higher viscosity of blood.
-- Maintain adequate mean and diastolic pressures with inotropes and gentle filling, to prevent myocardial ischaemia due to coronary steal.
+</div></details>
 
-## 8 **What are the complications of <sup>a</sup> Blalock-Taussig shunt?**
+<details class="med-details"><summary>
+  
+#### 8. What are the complications of a Blalock-Taussig shunt?</summary><div class="details-content">
 
-- Shunt thrombosis or a shunt too small which will result in a:
-  - a) fall in the arterial oxygen saturation levels;
-  - b) loss of the shunt murmur, which is normally auscultated over the ipsilateral 2nd intercostal space.
+**Shunt thrombosis or shunt too small:**
+- Signs: Fall in arterial oxygen saturation levels; loss of shunt murmur (normally auscultated over ipsilateral 2nd intercostal space)
+- Management: Echocardiogram to exclude other causes; if shunt clipped, remove clip to increase PBF; if thrombosis present, urgent refashioning
 
-Its management should involve excluding other causes of decreased oxygen saturation levels by performing an echocardiogram. If the shunt has been clipped, removing the clip may increase pulmonary blood flow and improve oxygenation. If there is thrombosis in the shunt, it must be refashioned urgently.
+**Shunt too large:**
+- Signs: Pulmonary over-circulation; arterial oxygen saturations >90%; low diastolic pressure → pulmonary congestion (often one-sided), systemic hypoperfusion, increasing arterial lactate, oliguria
+- Management: Reduce inspired oxygen concentration and ventilator rate (allow PaCO₂ to rise slightly); consider transfusion to increase blood viscosity; clip shunt to reduce diameter
 
-- Shunt too large which will result in:
-  - a) pulmonary over-circulation;
-  - b) arterial oxygen saturations >90%;
-  - c) low diastolic pressure resulting in pulmonary congestion (often one-sided), systemic hypoperfusion, increasing arterial lactate and oliguria.
+</div></details>
 
-Its management should involve reducing the inspired oxygen concentration and ventilator rate to allow the arterial carbon dioxide levels to rise slightly, and considering transfusion to increase the blood viscosity. The shunt may also be clipped to reduce its diameter.
+</div></details>
 
-### 9 **Describe the other types of systemic to pulmonary arterial shunts (Figure 2)**
+---
 
-- A Potts shunt (also known as a Potts-Smith-Gibson shunt) connects the descending aorta to the left pulmonary artery. It is not widely used, as it is technically difficult to take down and is associated with a high incidence of pulmonary hypertension.
-- A Waterston-Cooley shunt is a side-to-side anastomosis between the ascending aorta and right pulmonary artery, which is either extrapericardial (Waterston) or intrapericardial (Cooley). It has similar
+<details class="med-details"><summary>
+  
+## 3. Other Systemic-to-Pulmonary Artery Shunts</summary><div class="details-content">
 
-- properties to the Potts shunt with difficulty in determining the correct size of the anastomosis, potentially resulting in pulmonary overcirculation to a single lung, and is technically difficult to take down.
-- A central shunt is the term used to describe a short prosthetic tube graft between the ascending aorta and the main pulmonary artery. It is mainly used in small neonates, especially when the pulmonary arteries are small, and provides 'equal' blood flow to both lungs, with a low occlusion rate and is readily repairable. However, it requires entry into the pericardium and is not suitable for patients without a patent ductus arteriosus or other source of pulmonary blood flow.
-- A Melbourne shunt (also known as a Mee shunt) is a central end-toside shunt used to connect the transected main pulmonary artery to the ascending aorta. It is typically used in pulmonary atresia with a ventricular septal defect (VSD) and confluent but diminutive pulmonary arteries, to encourage sufficient pulmonary artery growth to enable a complete repair.
+<details class="med-details"><summary>
+  
+#### 9. Describe the other types of systemic to pulmonary arterial shunts (Figure 2)</summary><div class="details-content">
 
 ![](_page_4_Picture_5.jpeg)
 
-**Figure 2. The anatomical locations of systemic to pulmonary arterial shunts. LPA = left pulmonary artery; RPA = right pulmonary artery.**
+**FIGURE 2.** Anatomical locations of systemic to pulmonary arterial shunts. LPA = left pulmonary artery; RPA = right pulmonary artery.
 
-#### 10 **What are the parameters that govern the flow in <sup>a</sup> modified Blalock-Taussig shunt?**
+| Shunt | Description | Limitations |
+|---|---|---|
+| **Potts shunt** (Potts-Smith-Gibson) | Descending aorta to left pulmonary artery | Not widely used; technically difficult to take down; high incidence of pulmonary hypertension |
+| **Waterston-Cooley shunt** | Side-to-side anastomosis between ascending aorta and RPA (extrapericardial Waterston or intrapericardial Cooley) | Difficulty determining correct size; potential pulmonary over-circulation to single lung; technically difficult to take down |
+| **Central shunt** | Short prosthetic tube graft between ascending aorta and main PA | Mainly in small neonates with small PAs; provides "equal" flow to both lungs; low occlusion rate; readily repairable. Requires entry into pericardium; not suitable without PDA/other PBF source |
+| **Melbourne shunt (Mee shunt)** | Central end-to-side shunt connecting transected main PA to ascending aorta | For pulmonary atresia with VSD and confluent but diminutive PAs; encourages PA growth to enable complete repair |
 
-- A modified Blalock-Taussig shunt (mBT shunt) is a procedure whereby a synthetic shunt is fashioned between the systemic and pulmonary circulation, commonly using a Gore-Tex® tube from the subclavian artery to the pulmonary artery.
-- It is a palliative procedure indicated in a subset of patients with cyanotic heart disease not amenable to primary repair at the time of presentation.
-- As over- and under-shunting are frequently seen in the postoperative period, an understanding of the parameters that guide shunt flow help to manage these situations.
-- The parameters that govern the flow in an mBT shunt are defined by Poiseuille's law:
+</div></details>
 
-$$Q = \frac{(\Delta P)}{R}$$
+<details class="med-details"><summary>
+  
+#### 10. What are the parameters that govern the flow in a modified Blalock-Taussig shunt?</summary><div class="details-content">
 
-and since R = 
-$$\frac{(8 \times \eta \times L)}{(\pi \times r^4)}$$
+Flow in an mBT shunt is defined by **Poiseuille's law**:
 
 $$Q = \frac{\Delta P \times \pi \times r^4}{8 \times \eta \times L}$$
 
-where Q = flow across the shunt; DP = change in pressure across the shunt; R = resistance of the shunt, r = radius of the shunt; h = viscosity of blood flowing through the shunt; L = length of the shunt.
+where:
+- Q = flow across the shunt
+- ΔP = change in pressure across the shunt
+- r = radius of the shunt
+- η = viscosity of blood
+- L = length of the shunt
 
-- Increasing the pressure gradient across the shunt increases the flow, which can be achieved by:
-  - a) increasing the pressure in the systemic compartment, such as with vasoconstrictors;
-  - b) decreasing the pressure in the pulmonary compartment, such as with pulmonary vasodilators.
-- If the radius of the shunt halves, the resistance increases by a factor of 16 and the flow decreases by a factor of 16.
-- On the other hand, if the length of the shunt halves, the resistance halves and the flow doubles.
-- Increasing blood viscosity by increasing the haematocrit value, results in a decrease in the flow across the shunt.
+**Clinical implications:**
 
-• As flow through the mBT shunt predominantly takes place during diastole, over-shunting can also be managed by reducing the diastolic phase of the cardiac cycle, such as by increasing the heart rate.
+| Intervention | Effect on flow |
+|---|---|
+| ↑ Pressure gradient (↑ systemic pressure with vasoconstrictors OR ↓ pulmonary pressure with pulmonary vasodilators) | ↑ Flow |
+| Radius halves | Resistance ↑ 16×, Flow ↓ 16× |
+| Length halves | Resistance halves, Flow doubles |
+| ↑ Blood viscosity (↑ haematocrit) | ↓ Flow |
 
-# 11 **Describe the principles of <sup>a</sup> Glenn shunt**
+**Additional management:** Flow through mBT shunt predominantly during diastole → over-shunting can be managed by increasing heart rate (decreasing diastolic phase)
 
-• A classic Glenn shunt represents an end-to-side anastomosis between the superior vena cava (SVC) and the right pulmonary artery, with disconnection of the right pulmonary artery from the main pulmonary trunk (Figure 3).
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 4. Glenn Shunt</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 11. Describe the principles of a Glenn shunt (Figures 3–4)</summary><div class="details-content">
+
+**Classic Glenn shunt (Figure 3):**
+- End-to-side anastomosis between superior vena cava (SVC) and right pulmonary artery
+- Disconnection of RPA from main pulmonary trunk
+- Used to increase pulmonary blood flow in cyanotic CHD
 
 ![](_page_6_Picture_5.jpeg)
 
-**Figure 3. Classic Glenn shunt. PA = pulmonary artery; RPA = right pulmonary artery; SVC = superior vena cava; RA = right atrium.**
+**FIGURE 3.** Classic Glenn shunt. PA = pulmonary artery; RPA = right pulmonary artery; SVC = superior vena cava; RA = right atrium.
 
-- It is used to increase pulmonary blood flow in patients with cyanotic congenital heart disease.
-- In a bidirectional Glenn shunt (or bidirectional cavopulmonary shunt — BCPS), the SVC is disconnected from the right atrium and anastomosed end-to-side to the right pulmonary artery, enabling venous blood from the SVC to flow to both the right and left lungs (Figure 4).
+**Bidirectional Glenn shunt (BCPS) (Figure 4):**
+- SVC disconnected from right atrium and anastomosed end-to-side to RPA
+- Enables venous blood from SVC to flow to both right and left lungs
 
 ![](_page_7_Picture_2.jpeg)
 
-**1080 Figure 4. Bidirectional Glenn shunt. PA = pulmonary artery; RPA = right pulmonary artery; SVC = superior vena cava; RA = right atrium.**
+**FIGURE 4.** Bidirectional Glenn shunt. PA = pulmonary artery; RPA = right pulmonary artery; SVC = superior vena cava; RA = right atrium.
 
-- Both the classic Glenn and BCPS enable venous blood to drain into the pulmonary circulation and therefore do not cause the increase in ventricular workload or volume loading seen with systemic to pulmonary arterial shunts.
-- A BCPS is often performed as the second stage of a three-stage palliation for functionally univentricular conditions, such as hypoplastic left heart syndrome or tricuspid atresia, to reduce the volume loading on the ventricle and improve oxygen saturations.
-- A BCPS may also be used as a definitive procedure in patients who are unsuitable for a Fontan completion or as a one-and-a-half repair in those with a functionally inadequate right ventricle (for example, Ebstein's anomaly or hypoplasia of the right ventricle).
+**Advantages over systemic-to-PA shunts:** Venous blood drains into pulmonary circulation → no increase in ventricular workload or volume loading
 
-#### 12 **What are the principles of management following <sup>a</sup> bidirectional cavopulmonary shunt?**
+**Clinical applications:**
+- Stage II of three-stage palliation for functionally univentricular conditions (HLHS, tricuspid atresia) — reduces volume loading and improves oxygen saturations
+- Definitive procedure for patients unsuitable for Fontan completion
+- One-and-a-half repair for functionally inadequate RV (e.g., Ebstein's anomaly, RV hypoplasia)
 
-- Most patients are more stable with a Glenn shunt than they were beforehand and the inter-stage mortality prior to Fontan completion is low.
-- As the child becomes more active, progressing from crawling to walking to running, oxygen desaturation becomes more severe,
+</div></details>
 
-- especially during exercise and is commonly used as an indication for the Fontan procedure.
-- Some children may develop progressive cyanosis due to the development of pulmonary arteriovenous malformations resulting in a right-to-left shunt. This is thought to be due to a lack of the so called 'hepatic factor', as the hepatic effluent passes into the systemic circulation bypassing the lungs, although the precise mechanism is yet to be elucidated. These malformations typically regress and the cyanosis resolves following Fontan completion.
+<details class="med-details"><summary>
+  
+#### 12. What are the principles of management following a bidirectional cavopulmonary shunt?</summary><div class="details-content">
 
-# 13 **Describe the principles of pulmonary artery banding**
+- Most patients are more stable with a Glenn shunt than beforehand; inter-stage mortality prior to Fontan completion is low
+- As child becomes more active (crawling → walking → running), oxygen desaturation becomes more severe, especially during exercise → commonly used as indication for Fontan procedure
 
-- PA banding is indicated in patients with a large left-to-right shunt and pulmonary over-circulation, who are unable to undergo full correction, including:
-  - a) large or multiple VSDs;
-  - b) atrioventricular septal defect;
-  - c) tricuspid atresia;
-  - d) hypoplastic left heart syndrome (as part of a hybrid procedure).
-- In these cases, it is rarely a definitive solution but can remain in place for prolonged periods of time (months or even years).
-- The reasons for employing a staged approach (pulmonary artery banding followed by repair and debanding) include:
-  - a) small body size contraindicating complex intracardiac repair;
-  - b) severe comorbidities contraindicating the use of cardiopulmonary bypass;
-  - c) use of pulmonary artery branch banding in the context of ductdependent complex lesions.
-- PA banding is also used in patients to train the subpulmonary ventricle prior to an arterial switch in transposition (late referral) or double switch in congenitally corrected transposition.
-- A PA band is appropriately sized using Trusler's formula:
+**Pulmonary arteriovenous malformations (PAVMs):**
+- Some children develop progressive cyanosis due to PAVMs causing R→L shunt
+- Thought to be due to lack of "hepatic factor" (hepatic effluent passes into systemic circulation bypassing lungs)
+- These malformations typically regress and cyanosis resolves following Fontan completion
 
-Band circumference = 20mm + 1mm/kg of body weight
+</div></details>
 
-### 14 **What are the complications of pulmonary artery banding?**
+</div></details>
 
-• Pulmonary artery impingement or stenosis — which can result in the underdevelopment of the affected lung, if left untreated.
+---
 
-- Pulmonary valve distortion which can result in valve dysplasia that may affect future surgical repair, if left untreated.
-- Coronary artery impingement which may occur if the band is placed very proximally and the coronary circulation is anomalous, with the circumflex coronary artery most commonly affected.
-- Pulmonary artery erosion which rarely leads to significant haemorrhage because of the underlying scarring and fibrosis.
-- Pulmonary artery pseudoaneurysm.
-- Ineffectual PA banding with unrestricted pulmonary blood flow which may lead to ongoing pulmonary congestion and pulmonary vascular disease.
+<details class="med-details"><summary>
+  
+## 5. Pulmonary Artery Banding</summary><div class="details-content">
 
-## 15 **Describe the principles of an atrial septectomy or septostomy**
+<details class="med-details"><summary>
+  
+#### 13. Describe the principles of pulmonary artery banding</summary><div class="details-content">
 
-- Increased mixing of oxygenated and deoxygenated blood can be achieved by creating an opening in the atrial septum, using a:
-  - a) surgical atrial septectomy;
-  - b) catheter balloon atrial septostomy (Rashkind procedure).
-- It is indicated in patients with:
-  - a) transposition of the great arteries with an intact atrial septum or restrictive atrial septal defect (ASD);
-  - b) hypoplastic left heart syndrome;
-  - c) total anomalous pulmonary venous drainage (TAPVD) with a restrictive ASD;
-  - d) tricuspid atresia with a restrictive ASD;
-  - e) pulmonary atresia with an intact ventricular septum;
-  - f) univentricular heart, as part of a Glenn or Fontan procedure;
-  - g) extracorporeal membrane oxygenator (ECMO) to decompress the left atrium.
+**Indications (large L→R shunt, pulmonary over-circulation, unable to undergo full correction):**
+- Large or multiple VSDs
+- Atrioventricular septal defect
+- Tricuspid atresia
+- Hypoplastic left heart syndrome (as part of hybrid procedure)
 
-## 16 **Describe the principles of <sup>a</sup> Fontan circulation**
+**Staged approach (PA banding → repair and debanding):**
+- Small body size contraindicating complex intracardiac repair
+- Severe comorbidities contraindicating use of cardiopulmonary bypass
+- Use of PA branch banding in duct-dependent complex lesions
 
-• A Fontan circulation is a surgically-constructed pathway in which the functioning ventricle is used to support the systemic circulation, with passive blood flow in series to the lungs, via a superior cavopulmonary shunt (Glenn) and an inferior caval connection (Fontan), either as a direct anastomosis (atriopulmonary connection or baffled lateral tunnel) or using a prosthetic conduit (extracardiac total cavopulmonary connection) (Figure 5).
+**Ventricular training:** PA banding used to train subpulmonary ventricle prior to arterial switch in transposition (late referral) or double switch in congenitally corrected transposition
+
+**Sizing — Trusler's formula:**
+$$Band\ circumference = 20\ mm + 1\ mm/kg\ body\ weight$$
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 14. What are the complications of pulmonary artery banding?</summary><div class="details-content">
+
+- **PA impingement or stenosis** → underdevelopment of affected lung (if left untreated)
+- **Pulmonary valve distortion** → valve dysplasia (may affect future repair)
+- **Coronary artery impingement** (if band placed very proximally and coronary circulation anomalous; circumflex most commonly affected)
+- **PA erosion** (rarely leads to significant haemorrhage due to scarring and fibrosis)
+- **PA pseudoaneurysm**
+- **Ineffectual PA banding** with unrestricted PBF → ongoing pulmonary congestion and pulmonary vascular disease
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 6. Atrial Septectomy/Septostomy and Fontan Circulation</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 15. Describe the principles of an atrial septectomy or septostomy</summary><div class="details-content">
+
+**Techniques:**
+- Surgical atrial septectomy
+- Catheter balloon atrial septostomy (Rashkind procedure)
+
+**Indications:**
+- Transposition of the great arteries with intact atrial septum or restrictive ASD
+- Hypoplastic left heart syndrome
+- Total anomalous pulmonary venous drainage (TAPVD) with restrictive ASD
+- Tricuspid atresia with restrictive ASD
+- Pulmonary atresia with intact ventricular septum
+- Univentricular heart (as part of Glenn or Fontan procedure)
+- Extracorporeal membrane oxygenator (ECMO) to decompress left atrium
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 16. Describe the principles of a Fontan circulation (Figure 5)</summary><div class="details-content">
+
+**Fontan circulation:** Surgically constructed pathway where functioning ventricle supports systemic circulation with passive blood flow in series to lungs via superior cavopulmonary shunt (Glenn) and inferior caval connection (Fontan)
+
+**Types:**
+- Direct anastomosis: atriopulmonary connection or baffled lateral tunnel
+- Prosthetic conduit: extracardiac total cavopulmonary connection
 
 ![](_page_10_Picture_2.jpeg)
 
-**Figure 5. A fenestrated Fontan circulation following a three-stage repair for hypoplastic left heart syndrome. RPA = right pulmonary artery; LPA = left pulmonary artery; SVC = superior vena cava; Ao = aorta; TV = tricuspid valve; RV = right ventricle; IVC = inferior vena cava.**
+**FIGURE 5.** Fenestrated Fontan circulation following three-stage repair for HLHS. RPA = right pulmonary artery; LPA = left pulmonary artery; SVC = superior vena cava; Ao = aorta; TV = tricuspid valve; RV = right ventricle; IVC = inferior vena cava.
 
-• In most cases, a fenestration is used as a 'blow-off valve' to mitigate against a rise in systemic venous pressure, at the expense of reduced systemic oxygen saturations.
+**Fenestration:** "Blow-off valve" to mitigate against rise in systemic venous pressure (at expense of reduced systemic oxygen saturations)
 
-## 17 **What are the indications for <sup>a</sup> Fontan circulation?**
+</div></details>
 
-- Any functionally univentricular malformation in which one of the ventricles is insufficiently developed or compromised, such that it is unable to support an adequate cardiac output.
-- These include hypoplastic left heart syndrome, tricuspid atresia, double-inlet left ventricle, and unbalanced atrioventricular septal defect.
+<details class="med-details"><summary>
+  
+#### 17. What are the indications for a Fontan circulation?</summary><div class="details-content">
 
-# 18 What are the physiological characteristics associated with favourable instigation and good prognosis for a Fontan circulation?
+Any functionally univentricular malformation where one ventricle is insufficiently developed or compromised, such that it is unable to support an adequate cardiac output:
+- Hypoplastic left heart syndrome
+- Tricuspid atresia
+- Double-inlet left ventricle
+- Unbalanced atrioventricular septal defect
 
-- Low transpulmonary gradient, ideally <12mmHg.</li>
-- Competent atrioventricular valve in the systemic pathway.
-- Unobstructed outflow in the systemic pathway.
-- Preserved systemic ventricular function, with an adequate enddiastolic volume and a good ejection fraction.
-- Low venous pressure in the Fontan pathway.
-- Normal or near-normal arterial oxygen saturations (>93%).
+</div></details>
 
-# 19 What palliative procedures can be used to manage congenital mitral stenosis?
+<details class="med-details"><summary>
+  
+#### 18. What are the physiological characteristics associated with favourable instigation and good prognosis for a Fontan circulation?</summary><div class="details-content">
 
-- It is important to consider the nature of the mitral stenosis and associated anomalies when considering treatment.
-- Palliation is common due to the limited scope of prostheses for mitral valve replacement and includes:
-  - a) balloon mitral valvuloplasty which can relieve the stenosis and is less invasive;
-  - b) surgical mitral valvuloplasty which tends to be favoured for supravalvular stenosis.
-- If mitral stenosis is associated with a small ventricular chamber, a univentricular palliation pathway may offer the best prognosis.
+- Low transpulmonary gradient, ideally **<12 mmHg**
+- Competent atrioventricular valve in the systemic pathway
+- Unobstructed outflow in the systemic pathway
+- Preserved systemic ventricular function (adequate end-diastolic volume, good ejection fraction)
+- Low venous pressure in the Fontan pathway
+- Normal or near-normal arterial oxygen saturations **(>93%)**
 
-# 20 What palliative procedures can be used to manage congenital aortic stenosis?
+</div></details>
 
-- Balloon or surgical valvotomy may be used.
-- Both procedures can relieve the stenosis but the need for further intervention, including repeat balloon or surgical valvotomy, prosthetic valve replacement or the Ross procedure, is high, especially in those presenting as a neonate.
-- Similarly, if aortic stenosis is associated with aortic or ventricular dysplasia, staged univentricular palliation may be the best option.
+</div></details>
 
-# 21 Describe palliative hybrid procedures that can be used in congenital heart disease
+---
 
- Hybrid cardiac surgery is defined as combined catheter and surgical interventions, either at one sitting or sequentially within 24 hours.
+<details class="med-details"><summary>
+  
+## 7. Palliation for Specific Valvular Lesions and Hybrid Procedures</summary><div class="details-content">
 
-- It is most commonly considered as an alternative to the Norwood procedure for stage I palliation in neonates with hypoplastic left heart syndrome but requires a comprehensive stage II repair.
-- Hybrid procedures involving maintaining patency of the ductus arteriosus and restricting pulmonary blood flow are used to treat non-HLHS lesions, where severe comorbidities and low birth weight make a full repair in one stage unsuitable, such as:
-  - a) interrupted aortic arch plus truncus arteriosus;
-  - b) truncus arteriosus with a normal aortic arch;
-  - c) Taussig-Bing anomaly;
-  - d) very small (<2.5kg) neonate;
-  - e) very ill neonate.
-- It involves stenting of the patent ductus arteriosus to secure systemic blood flow, PA banding to prevent pulmonary over-circulation, and in some patients an atrial septostomy or septectomy.
-- A hybrid approach may also be used for:
-  - a) multiple VSDs with surgical repair of a perimembranous defect and percutaneous closure of muscular defects;
-  - b) transcatheter pulmonary valve replacement via a direct surgical sheath.
+<details class="med-details"><summary>
+  
+#### 19. What palliative procedures can be used to manage congenital mitral stenosis?</summary><div class="details-content">
 
-#### **Recommended reading**
+- **Balloon mitral valvuloplasty** (less invasive)
+- **Surgical mitral valvuloplasty** (favoured for supravalvular stenosis)
 
-- 1. Blalock A, Taussig HB. The surgical treatment of malformations of the heart in which there is pulmonary stenosis or pulmonary atresia. g ^ã jÉÇ ^ëëçÅ 1945; 128: 189- 202.
-- 2. Kiran U, Aggarwal S, Choudhary A, Uma B, Kapoor PM. The Blalock and Taussig shunt revisited. ^åå `~êÇ ^å~ÉëíÜ 2017; 20:.
-- 3. Watterson KG, Wilkinson JL, Karl TR, Mee RB. Very small pulmonary arteries: central end-to-side shunt. ^åå qÜçê~Å pìêÖ 1991; 52:.
-- 4. Mumtaz MA, Rosenthal G, Qureshi A, Prieto L, Preminger T, Lorber R, Latson L, Duncan BW. Melbourne shunt promotes growth of diminutive central pulmonary arteries in patients with pulmonary atresia, ventricular septal defect, and systemic-topulmonary collateral arteries. ^åå qÜçê~Å pìêÖ 2008; 85:.
-- 5. Dorobantu DM, Pandey R, Sharabiani MT, Mahani AS, Angelini GD, Martin RP, Stoica SC. Indications and results of systemic to pulmonary shunts: results from a national database. bìê g `~êÇáçíÜçê~Å pìêÖ 2016; 49:.
-- 6. Sharma R. Pulmonary artery banding: rationale and possible indications in the current era. ^åå mÉÇá~íê `~êÇáçä 2012; 5:.
+If mitral stenosis is associated with a small ventricular chamber, a **univentricular palliation pathway** may offer the best prognosis.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 20. What palliative procedures can be used to manage congenital aortic stenosis?</summary><div class="details-content">
+
+- **Balloon valvotomy**
+- **Surgical valvotomy**
+
+Both procedures can relieve stenosis but the need for further intervention (repeat valvotomy, prosthetic valve replacement, or Ross procedure) is high, especially in neonates.
+
+If aortic stenosis is associated with aortic or ventricular dysplasia, **staged univentricular palliation** may be the best option.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 21. Describe palliative hybrid procedures that can be used in congenital heart disease</summary><div class="details-content">
+
+**Hybrid cardiac surgery:** Combined catheter and surgical interventions, either at one sitting or sequentially within 24 hours
+
+**Primary use:** Alternative to Norwood procedure for Stage I palliation in neonates with HLHS (requires comprehensive Stage II repair)
+
+**Non-HLHS applications (severe comorbidities, low birth weight <2.5 kg, very ill neonate):**
+- Interrupted aortic arch + truncus arteriosus
+- Truncus arteriosus with normal aortic arch
+- Taussig-Bing anomaly
+
+**Technique:**
+- Stenting of patent ductus arteriosus (secure systemic blood flow)
+- PA banding (prevent pulmonary over-circulation)
+- Atrial septostomy or septectomy (in some patients)
+
+**Other hybrid applications:**
+- Multiple VSDs: surgical repair of perimembranous defect + percutaneous closure of muscular defects
+- Transcatheter pulmonary valve replacement via direct surgical sheath
+
+</div></details>
+
+</div></details>
