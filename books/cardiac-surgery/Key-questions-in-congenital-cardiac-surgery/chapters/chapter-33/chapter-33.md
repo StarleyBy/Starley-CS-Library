@@ -1,365 +1,712 @@
-# **Chapter 33**
+# Patent Ductus Arteriosus
 
-### Patent ductus arteriosus
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-#### **Michael Lavrsen**
+### Definition and Embryology
+- **Ductus arteriosus (DA):** Vascular structure connecting aorta to main pulmonary artery; essential for foetal circulation; normally closes spontaneously after birth
+- **Patent ductus arteriosus (PDA):** Persistence of ductal patency after a few weeks of life
+- **Embryology:** DA derives from distal part of left 6th aortic arch; connects left pulmonary artery with left dorsal aorta
 
-#### 1 **What is the ductus arteriosus?**
+### Normal Foetal Circulation and Postnatal Closure
+- 65% of foetal cardiac output from RV; majority passes through DA into descending aorta; only 5–10% passes through lungs
+- **Foetal patency:** Low oxygen tension + high PGE₂/PGI₂ (placental production, decreased foetal lung metabolism)
+- **Postnatal closure:** ↑ oxygen tension → inhibits K⁺ channels → Ca²⁺ influx → constriction; ↓ prostaglandins; functional closure within 24–48 hours; permanent fibrosis over 2–3 weeks → ligamentum arteriosum
 
-- The ductus arteriosus (DA) is a vascular structure connecting the aorta to the main pulmonary artery and is an essential part of the foetal circulation that normally closes spontaneously after birth.
-- Persistency of patency of the ductus arteriosus (PDA) presenting in isolation is considered a congenital lesion producing a systemic to pulmonary shunt (Figure 1).
-- A persistently patent ductus arteriosus, however, can also present in the context of other complex lesions, in which case it represents an important mechanism to maintain adequate pulmonary or systemic blood flow.
-- Malformations where the ductus arteriosus maintains pulmonary blood flow include:
-  - a) tetralogy of Fallot spectrum;
-  - b) pulmonary atresia with or without a ventricular septal defect (VSD);
-  - c) tricuspid atresia;
-  - d) hypoplastic right heart;
-  - e) transposition of the great arteries (TGA) with pulmonary stenosis or atresia;
-  - f) congenitally corrected TGA with pulmonary stenosis or atresia;
-  - g) other forms of single-ventricle circulation with reduced pulmonary flow.
-- Malformations where the ductus arteriosus maintains systemic blood flow include:
-  - a) coarctation of the aorta;
-  - b) interrupted aortic arch (IAA);
-  - c) truncus arteriosus and IAA;
-  - d) hypoplastic left heart syndrome.
+### Epidemiology
+- Incidence: **1:2000 live births** (1:500 if silent PDAs included); female:male **2:1**
+- Accounts for **5–10%** of all congenital heart disease
+- Preterm incidence increased by 20–30% (Table 1)
+
+### Aetiology
+- **Genetic factors:** Trisomy 21, 14q-, 4p-; Carpenter/Holt-Oram; X-linked; autosomal recessive with incomplete penetrance. One affected child → 3% recurrence; two affected → 10%; affected parent → 45× population risk
+- **Environmental (first trimester):** Rubella, amphetamines, valproate, hydantoin, alcohol
+
+### Anatomy (Krichenko/Toronto classification, Figure 3)
+- Length 2–8 mm, diameter 4–12 mm (average 7 mm); conical (aortic end larger)
+- Types A–E based on angiographic appearance
+
+### Pathophysiology
+- Flow depends on PVR:SVR gradient; larger unrestrictive ductus → L→R shunt → pulmonary overcirculation → LV volume overload → CHF
+- **Subendocardial ischaemia:** ↓ diastolic BP (diastolic run-off) + ↑ myocardial O₂ demand
+- **Eisenmenger syndrome:** Untreated large PDA → pulmonary arteriolar hypertension → shunt reversal (may develop as early as 6 months)
+
+### Clinical Presentation
+- Asymptomatic murmur (most common) to severe CHF or Eisenmenger
+- Large shunt: FTT, feeding difficulty, recurrent URIs
+- **Hallmark sign:** Continuous "machinery" murmur at LUSB, 2nd ICS
+- Eisenmenger: differential cyanosis (toes cyanotic/clubbed, fingers spared)
+
+### Diagnostic Imaging
+| Modality | Findings |
+|---|---|
+| **CXR** | Normal (small shunt) or cardiomegaly, increased PVM, pulmonary oedema (large shunt) |
+| **ECG** | Normal (small); LA enlargement, LVH (moderate/large); biventricular hypertrophy (equal pressures) |
+| **Echocardiography** | Principal tool; 2D defines geometry; Doppler detects flow (Figures 5–6); can estimate PA pressures |
+| **MRI** | Unusual ductal geometry, associated arch anomalies |
+| **Angiography** | Pre-transcatheter closure: define minimum diameter, length, type (Figure 7) |
+
+### Natural History
+- **Small/moderate PDA:** Often asymptomatic; may develop CHF in 3rd decade + atrial fibrillation
+- **Large PDA:** LV failure by 3 months; sudden death possible; irreversible PH if untreated
+- **Infective endarteritis:** 1%/year (pre-antibiotic era); vegetations at PA end → recurrent pulmonary emboli
+- **Ductal aneurysm:** Up to 8%; 25% with underlying syndrome; 20% mortality (rupture/embolism)
+
+### Medical Treatment
+- Symptom management: digoxin, diuretics, ventilation, inotropes, antibiotics (endarteritis)
+- **Preterm infants:** Indomethacin 0.1–0.2 mg/kg t.d.s. × 3 doses (contraindicated: renal dysfunction, hyperbilirubinaemia, bleeding disorders)
+
+### Indications for Closure
+- **Preterm:** Failure of indomethacin (40–50%), large PDA with echo evidence, ventilator dependency
+- **Children/adults:** Symptomatic L→R shunt; asymptomatic with left heart enlargement; small/incidental PDA controversial (endarteritis reported)
+
+### Surgical Ligation (Figure 9–10)
+| Weight | Approach | Technique |
+|---|---|---|
+| <1000 g | Left thoracotomy (3rd/4th ICS) | Titanium clip at aortic end |
+| >1000 g | Left thoracotomy | Double/triple silk ligation |
+| Older infants | Left thoracotomy | Division + oversewing if too short for two ligatures |
+| Adults | May require CPB/DHCA | Primary or patch closure via PA (calcified duct) |
+
+- **Mortality:** 95–100% survival (neonate/infant); preterm hospital mortality 10–20% (respiratory failure, NEC, IVH, coagulopathy)
+- **Complications:** Bleeding, pneumothorax, recurrent laryngeal nerve injury (1–4% → vocal cord paralysis), phrenic nerve injury (4% → hemidiaphragm elevation), chylothorax, Horner's syndrome, false aneurysm
+
+### Transcatheter Closure (Figures 11–14)
+- **Treatment of choice** at most centres for children and adults
+- **Devices:** Nit-Occlud® coil (biconical), AMPLATZER™ duct occluder (mushroom-shaped), AMPLATZER Piccolo™ (premature babies)
+- **Complete closure rate:** >90–95%
+- **Complications:** Device embolisation (Figure 13A), haemolysis (high-velocity residual shunt), flow disturbance
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition, Embryology and Normal Physiology</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 1. What is the ductus arteriosus?</summary><div class="details-content">
+
+The **ductus arteriosus (DA)** is a vascular structure connecting the aorta to the main pulmonary artery and is an essential part of the foetal circulation that normally closes spontaneously after birth.
+
+**Persistence of patency of the ductus arteriosus (PDA)** presenting in isolation is considered a congenital lesion producing a **systemic to pulmonary shunt** (Figure 1).
+
+A persistently patent ductus arteriosus can also present in the context of other complex lesions, where it represents an important mechanism to maintain adequate pulmonary or systemic blood flow.
+
+**Malformations where DA maintains pulmonary blood flow:**
+- Tetralogy of Fallot spectrum
+- Pulmonary atresia ± VSD
+- Tricuspid atresia
+- Hypoplastic right heart
+- TGA with pulmonary stenosis/atresia
+- Congenitally corrected TGA with pulmonary stenosis/atresia
+- Single-ventricle circulation with reduced pulmonary flow
+
+**Malformations where DA maintains systemic blood flow:**
+- Coarctation of the aorta
+- Interrupted aortic arch (IAA)
+- Truncus arteriosus with IAA
+- Hypoplastic left heart syndrome
 
 ![](_page_1_Picture_2.jpeg)
 
-**996 Figure 1. Persistent ductus arteriosus seen through a left thoracotomy. The aortic arch, ductus arteriosus and descending aorta have been dissected and exposed in preparation of repair of a coarctation. The recurrent laryngeal nerve is seen through the reflected parietal pleura which has been suspended with sutures. PDA = patent ductus arteriosus; LSCA = left subclavian artery; Ao arch = aortic arch.** *Image courtesy of Mr. Nicola Viola, University Hospital Southampton, UK.*
+**FIGURE 1.** Persistent ductus arteriosus seen through left thoracotomy. PDA = patent ductus arteriosus; LSCA = left subclavian artery; Ao arch = aortic arch. *Image courtesy of Mr. Nicola Viola.*
 
-#### 2 **What is patent or persistent ductus arteriosus (PDA)?**
+</div></details>
 
-- Functional closure of the DA normally happens within hours of birth in term neonates with normal cardiac structure.
-- Persistence of ductal patency after a few weeks of life is abnormal and referred to as patent ductus arteriosus.
-- At 8 weeks of age, 88% of ducts have closed spontaneously and referred to as prolonged patency.
-- Persistent patency represents failure to close at 12 weeks.
+<details class="med-details"><summary>
+  
+#### 2. What is patent or persistent ductus arteriosus (PDA)?</summary><div class="details-content">
 
-#### 3 **Describe the embryological origin of the ductus arteriosus (Figure 2)**
+- **Functional closure** of the DA normally happens within **24–48 hours** of birth in term neonates with normal cardiac structure
+- Persistence of ductal patency after a few weeks of life is abnormal → **patent ductus arteriosus**
+- At **8 weeks** of age: **88%** of ducts have closed spontaneously (prolonged patency)
+- **Persistent patency** = failure to close at **12 weeks**
 
-- The DA derives from the distal part of the left 6th aortic arch (with the proximal part giving rise to the proximal branch pulmonary arteries).
-- It connects the left pulmonary artery with the left dorsal aorta.
-- Normally, the distal right 6th aortic arch degenerates and loses its connection to the dorsal aortic arch. This transformation is completed by 8 weeks of foetal life.
-- Persistence of both 6th arches, forming bilateral DA, is rare and always associated with intracardiac anomalies.
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 3. Describe the embryological origin of the ductus arteriosus (Figure 2)</summary><div class="details-content">
+
+- The DA derives from the **distal part of the left 6th aortic arch** (proximal part gives rise to proximal branch pulmonary arteries)
+- It connects the **left pulmonary artery** with the **left dorsal aorta**
+- Normally, the distal right 6th aortic arch degenerates and loses its connection to the dorsal aortic arch (completed by **8 weeks** of foetal life)
+- Persistence of both 6th arches (bilateral DA) is **rare** and always associated with intracardiac anomalies
 
 ![](_page_2_Picture_7.jpeg)
 
-**Figure 2. Embryology of the aortic arch and ductus arteriosus. The initial aortic arches connecting the dorsal and ventral aortas are not present at the same time. The 1st, 2nd and 5th aortic arches involute bilaterally, whereas the 6th aortic arch involutes on the right side only. Portions of the dorsal and ventral aorta bilaterally contribute to the formation of the aortic arch and epiaortic vessels. The ductus arteriosus results from the persistence of the 6th aortic arch and contributes to the formation of the proximal pulmonary arteries. IA = intersegmental artery; PA = pulmonary artery; Ao = aorta.**
+**FIGURE 2.** Embryology of the aortic arch and ductus arteriosus. IA = intersegmental artery; PA = pulmonary artery; Ao = aorta.
 
-### 4 **Describe the normal foetal circulation**
+</div></details>
 
-• Normally, 65% of foetal cardiac output is derived from the right ventricle (RV), with the majority of the RV output passing through the DA into the descending aorta and only 5-10% passing through the lungs.
+<details class="med-details"><summary>
+  
+#### 4. Describe the normal foetal circulation</summary><div class="details-content">
 
-• The DA is essential to normal foetal development, allowing RV output to bypass the high-resistance pulmonary circulation. Premature constriction or closure may lead to right heart failure, resulting in foetal hydrops.
+- **65%** of foetal cardiac output is derived from the right ventricle (RV)
+- Majority of RV output passes through the **DA into the descending aorta**
+- Only **5–10%** passes through the lungs
+- The DA is essential to normal foetal development, allowing RV output to bypass the high-resistance pulmonary circulation
+- **Premature constriction or closure** may lead to right heart failure → foetal hydrops
 
-#### 5 **How does the ductus arteriosus maintain patency during foetal life?**
+</div></details>
 
-- Low foetal oxygen tension and circulating prostaglandins maintain ductal patency during the foetal period.
-- Prostaglandin (PGE2) and prostacyclin (PGI <sup>2</sup>) levels are high in the foetus due to production by the placenta and decreased metabolism in the foetal lungs. They cause vasodilatation of the DA via interaction with ductal prostanoid receptors.
+<details class="med-details"><summary>
+  
+#### 5. How does the ductus arteriosus maintain patency during foetal life?</summary><div class="details-content">
 
-### 6 **What happens to the ductus arteriosus after birth?**
+- **Low foetal oxygen tension** and **circulating prostaglandins** maintain ductal patency
+- Prostaglandin (PGE₂) and prostacyclin (PGI₂) levels are high in the foetus due to:
+  - Production by the placenta
+  - Decreased metabolism in the foetal lungs
+- They cause vasodilatation of the DA via interaction with ductal prostanoid receptors
 
-- The abrupt increase in oxygen tension inhibits ductal smooth muscle voltage-dependent potassium channels, which results in an influx of calcium leading to ductal constriction.
-- Prostaglandin and prostacyclin levels fall because of the increased metabolism in the newly functioning lungs and elimination of the placental source.
-- Contraction of the medial smooth muscle fibres result in thickening of the ductal wall, lumen obliteration and shortening of the DA.
-- In term neonates, functional closure is usually complete within hours of birth. Over the following weeks, endothelial infolding, subintimal disruption and proliferation result in fibrosis and a permanent seal.
-- Eventually the ductus converts into a fibrous strand, the ligamentum arteriosum, which may become calcified. Approximately 66% are normally obliterated by 2 weeks.
+</div></details>
 
-#### 7 **Is <sup>a</sup> ductus arteriosus always present in the foetus?**
+<details class="med-details"><summary>
+  
+#### 6. What happens to the ductus arteriosus after birth?</summary><div class="details-content">
 
-- The presence of a significant aortopulmonary connection with a large left-to-right shunt, such as aortopulmonary window or truncus arteriosus, normally leads to the DA to disappear early in foetal life.
-- The DA is also commonly absent in the presence of tetralogy of Fallot with an absent pulmonary valve and dilated pulmonary arteries.
+| Event | Mechanism |
+|---|---|
+| **Abrupt ↑ oxygen tension** | Inhibits ductal smooth muscle voltage-dependent K⁺ channels → Ca²⁺ influx → ductal constriction |
+| **↓ Prostaglandin levels** | Increased metabolism in newly functioning lungs + elimination of placental source |
+| **Medial smooth muscle contraction** | Thickening of ductal wall, lumen obliteration, shortening of DA |
+| **Functional closure** | Usually complete within **24–48 hours** in term neonates |
+| **Permanent seal** | Over following 2–3 weeks: endothelial infolding, subintimal disruption, proliferation → fibrosis |
+| **Final structure** | Ligamentum arteriosum (may become calcified) |
 
-#### 8 **What is the incidence of patent ductus arteriosus?**
+Approximately **66%** are normally obliterated by 2 weeks.
 
-- 1:2000 live births with a female/male ratio of 2:1. If silent PDAs (found incidentally for another reason) are included, the incidence rises to 1 in 500.
-- Persistent patency of the ductus accounts for 5-10% of all congenital heart disease.
-- The incidence in preterm infants is increased by 20-30% in comparison to full-term infants (Table 1).
+</div></details>
 
-| Table<br>1.<br>Prevalence<br>of<br>patent<br>ductus<br>arteriosus<br>among<br>preterm<br>neonates,<br>stratified<br>by<br>gestational<br>age<br>and<br>birth<br>weight. |     |                                     |     |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-------------------------------------|-----|
-| ^ÖÉ<br>~í<br>ÄáêíÜ<br>EïÉÉâëF                                                                                                                                           |     | PQJPS===========PNJPP===========YPM |     |
-| Prevalence<br>(%<br>of<br>live<br>newborns)                                                                                                                             | 21% | 44%                                 | 77% |
-| tÉáÖÜí<br>~í<br>ÄáêíÜ<br>EÖF                                                                                                                                            |     | YNTRM==========YNOMM==========      |     |
-| Prevalence<br>(%<br>of<br>live<br>newborns)                                                                                                                             | 50% | 80%                                 |     |
+<details class="med-details"><summary>
+  
+#### 7. Is a ductus arteriosus always present in the foetus?</summary><div class="details-content">
 
-#### 9 **What is the aetiology of <sup>a</sup> persistently patent ductus arteriosus?**
+- **No.** The presence of a significant aortopulmonary connection with a large L→R shunt (aortopulmonary window, truncus arteriosus) normally leads to the DA disappearing early in foetal life
+- The DA is also commonly absent in **tetralogy of Fallot with absent pulmonary valve** and dilated pulmonary arteries
 
-- The factors responsible for persistent patency of the DA beyond the first hours of neonatal life are not entirely understood.
-- Prematurity increases the incidence due to physiological factors rather than an inherent abnormality of the duct.
-- In term infants, cases most often occur sporadically, but there is increasing evidence that genetic factors play a role in the development of PDA.
+</div></details>
 
-#### 10 **Which genetic factors are involved in the aetiology of patent ductus arteriosus?**
+</div></details>
 
-- In premature infants, PDA is more often due to developmental immaturity, whereas in term infants, it likely results from structural abnormality.
-- Chromosomal aberrations (trisomy 21, 14q- and 4p- syndrome), single-gene mutations (Carpenter's and Holt-Oram syndrome), and
+---
 
-X-linked mutations are associated with an increased prevalence of PDA.
+<details class="med-details"><summary>
+  
+## 2. Epidemiology and Aetiology</summary><div class="details-content">
 
-- Most cases of PDA seem sporadic but many are believed to be due to multifactorial inheritance, with genetic predisposition and environmental triggers occurring at a vulnerable time.
-- Autosomal recessive inheritance with incomplete penetrance may be the genetic mechanism.
-- In a family having one child with a PDA, there is a 3% risk of PDA in subsequent offspring. If two children have been affected, the risk increases to 10% for further children.
-- If one parent has been affected, the risk for the offspring increases to 45 times that of the general population.
+<details class="med-details"><summary>
+  
+#### 8. What is the incidence of patent ductus arteriosus?</summary><div class="details-content">
 
-#### 11 **What are the environmental factors affecting development of patent ductus arteriosus?**
+- **1:2000 live births** with female:male ratio **2:1**
+- If silent PDAs (found incidentally) are included: incidence rises to **1 in 500**
+- Persistent patency accounts for **5–10%** of all congenital heart disease
+- Incidence in **preterm infants** is increased by **20–30%** compared to full-term infants (Table 1)
 
-- A number of agents are associated with a higher incidence of PDA, especially with exposure during the first trimester, including:
-  - a) viral infections such as rubella;
-  - b) drugs such as amphetamines, valproate and hydantoin;
-  - c) alcohol intake.
-- The histology in those cases resembles that of a very immature duct, with extensive growth of the subendothelial elastic membrane, which is incompatible with a spontaneous anatomical sealing.
+**Table 1. Prevalence of PDA among preterm neonates**
 
-#### 12 **What is the anatomy of the ductus arteriosus?**
+| Gestational age (weeks) | 34–36 | 31–33 | <30 |
+|---|---|---|---|
+| Prevalence (% of live newborns) | 21% | 44% | 77% |
 
-- In the normal heart with a left-sided aortic arch, the DA connects the left pulmonary artery near its origin to the descending aorta, just distal to the left subclavian artery.
-- The origin and insertion can be very variable, bilateral or absent.
-- The length varies from 2-8mm with a diameter of 4-12mm, averaging 7mm. Usually the aortic end of the PDA is larger than the pulmonary artery end, resulting in a conical configuration.
-- The size, configuration and relationship to the adjacent structures are important, in terms of determining the degree of shunting and possible transcatheter intervention.
-- Two main classifications exist, both based on the angiographic appearances of the duct. Krichenko classifies ducts in five main types (A-E). A modification of this classification has been proposed by the Hospital for Sick Children in Toronto (Figure 3).
+| Birth weight (g) | <1750 | <1200 |
+|---|---|---|
+| Prevalence (% of live newborns) | 50% | 80% |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 9. What is the aetiology of a persistently patent ductus arteriosus?</summary><div class="details-content">
+
+- Factors responsible for persistent patency beyond the first 24–48 hours are not entirely understood
+- **Prematurity** increases incidence due to physiological factors (not inherent ductal abnormality)
+- In term infants, cases most often occur sporadically, but increasing evidence that **genetic factors** play a role
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 10. Which genetic factors are involved in the aetiology of patent ductus arteriosus?</summary><div class="details-content">
+
+- **Premature infants:** PDA more often due to developmental immaturity
+- **Term infants:** Likely results from structural abnormality
+
+**Associated genetic conditions:**
+- Chromosomal aberrations: trisomy 21, 14q-, 4p- syndrome
+- Single-gene mutations: Carpenter syndrome, Holt-Oram syndrome
+- X-linked mutations
+
+**Inheritance pattern:**
+- Most cases sporadic; many believed multifactorial (genetic predisposition + environmental triggers at vulnerable time)
+- Autosomal recessive with incomplete penetrance may be the mechanism
+
+**Recurrence risk:**
+- One affected child → **3%** risk for subsequent offspring
+- Two affected children → **10%** risk
+- One affected parent → risk **45 times** that of general population
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 11. What are the environmental factors affecting development of patent ductus arteriosus?</summary><div class="details-content">
+
+Agents associated with higher incidence of PDA, especially with exposure during the **first trimester**:
+
+- **Viral infections:** Rubella
+- **Drugs:** Amphetamines, valproate, hydantoin
+- **Alcohol intake**
+
+**Histology:** Resembles very immature duct with extensive growth of subendothelial elastic membrane (incompatible with spontaneous anatomical sealing)
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 3. Anatomy and Pathophysiology</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 12. What is the anatomy of the ductus arteriosus?</summary><div class="details-content">
+
+In the normal heart with left-sided aortic arch:
+- DA connects **left pulmonary artery** (near its origin) to **descending aorta** (just distal to left subclavian artery)
+- Origin and insertion can be variable, bilateral, or absent
+- **Length:** 2–8 mm
+- **Diameter:** 4–12 mm (average 7 mm)
+- **Configuration:** Usually conical (aortic end larger than pulmonary end)
+
+**Classification (Krichenko/Toronto, Figure 3):** Five main types (A–E) based on angiographic appearance
 
 ![](_page_6_Picture_2.jpeg)
 
-**Figure 3. Variations in the configuration of patent ductus arteriosus (Toronto/Krichenko).**
+**FIGURE 3.** Variations in configuration of PDA (Toronto/Krichenko).
 
-#### 13 **What is the haemodynamic impact of patent ductus arteriosus?**
+</div></details>
 
-- The length, diameter, shape and configuration of the DA determines the resistance to flow from the systemic circulation.
-- The amount of flow across depends on the gradient between pulmonary vascular resistance (PVR) and systemic vascular resistance (SVR).
-- The impact of PVR and SVR is greater in a larger unrestrictive ductus, where left-to-right shunting results in pulmonary overcirculation and left heart volume overload with subsequent progressive congestive heart failure.
+<details class="med-details"><summary>
+  
+#### 13. What is the haemodynamic impact of patent ductus arteriosus?</summary><div class="details-content">
 
-- Increased flow returning to the left heart results in increased left atrial and left ventricular end-diastolic pressures. The left ventricle compensates by increasing the stroke volume.
-- Increased sympathetic activity and circulating catecholamines result in increased contractility and heart rate.
-- Subendocardial ischaemia may occur secondary to:
-  - a) reduced coronary perfusion as a result of decreased diastolic blood pressure (due to diastolic flow through the PDA) and a shorter diastolic time (due to tachycardia);
-  - b) increased myocardial oxygen demand as a result of increased intra-myocardial tension from LV dilatation.
-- If left untreated, a large PDA may lead to pulmonary arteriolar hypertension with eventual shunt reversal (Eisenmenger syndrome). Significant elevation in PVR may develop as early as 6 months of life and result in suprasystemic pulmonary artery pressures.
+**Determinants of flow:**
+- Length, diameter, shape, configuration of DA → resistance to flow
+- Amount of flow depends on **gradient between PVR and SVR**
+- Impact of PVR and SVR is greater in larger unrestrictive ductus
 
-#### 14 **Describe the clinical presentation of <sup>a</sup> patient with patent ductus arteriosus**
+**Consequences of L→R shunt:**
+- Pulmonary overcirculation + left heart volume overload → progressive CHF
+- Increased flow returning to left heart → ↑ LA pressure, ↑ LVEDP → LV compensates with ↑ stroke volume
+- ↑ Sympathetic activity + catecholamines → ↑ contractility, ↑ HR
 
-- This varies from completely asymptomatic to severe congestive heart failure or Eisenmenger syndrome.
-- Most patients present for evaluation of an asymptomatic heart murmur.
-- Occasionally, there may be a history of prematurity, whereas others are detected incidentally by an echocardiogram.
-- Children with a large shunt may fail to thrive, have difficulty with feeding and suffer from recurrent upper respiratory tract infections.
-- Most patients compensate well even with a moderate left-to-right shunt and remain asymptomatic. Many years of volume overload may lead to congestive heart failure.
-- The onset of atrial fibrillation may be the first symptom, resulting from progressive left atrial enlargement.
-- A well tolerated PDA may become clinically significant when its effects are combined with acquired conditions, such as aortic stenosis and ischaemic heart disease.
+**Subendocardial ischaemia (two mechanisms):**
+1. **Reduced coronary perfusion:** ↓ diastolic BP (diastolic flow through PDA) + shorter diastolic time (tachycardia)
+2. **Increased myocardial O₂ demand:** ↑ intra-myocardial tension from LV dilatation
 
-#### 15 **Describe the physical signs in <sup>a</sup> patient with patent ductus arteriosus**
+**Long-term:**
+- If untreated, large PDA → pulmonary arteriolar hypertension → eventual shunt reversal (**Eisenmenger syndrome**)
+- Significant PVR elevation may develop as early as **6 months** of life → suprasystemic PA pressures
 
-• The hallmark finding is a continuous (machinery) murmur, located at the left sternal border in the 2nd intercostal space.
+</div></details>
 
-- If the shunt is moderate or large, the LV impulse might be prominent, the pulse pressure increased and peripheral pulses bounding.
-- Infants often have an enlarged liver.
-- Preterm infants frequently display respiratory distress and require mechanical ventilation. Patients with Eisenmenger syndrome are cyanotic and may have differential cyanosis (cyanosis and clubbing of the toes but not the fingers because the right-to-left ductal shunt is distal to the subclavian arteries). This may be more profound in hot weather or after exercise when the SVR is decreased.
+</div></details>
 
-#### 16 **What are the radiological features of patent ductus arteriosus?**
+---
 
-• The chest radiograph findings depend on the amount of shunting and may be completely normal or demonstrate cardiomegaly, when the flow to the lungs is close to twice systemic flow or greater (Figure 4).
+<details class="med-details"><summary>
+  
+## 4. Clinical Presentation and Natural History</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 14. Describe the clinical presentation of a patient with patent ductus arteriosus</summary><div class="details-content">
+
+Presentation varies from **completely asymptomatic** to **severe CHF** or **Eisenmenger syndrome**.
+
+- Most patients present for evaluation of an **asymptomatic heart murmur**
+- Occasional history of prematurity
+- Others detected incidentally by echocardiogram
+
+**Large shunt:**
+- Failure to thrive
+- Difficulty with feeding
+- Recurrent upper respiratory tract infections
+
+**Compensated patients:**
+- Most compensate well even with moderate L→R shunt and remain asymptomatic
+- Many years of volume overload may lead to CHF
+- Onset of **atrial fibrillation** may be first symptom (progressive LA enlargement)
+
+A well-tolerated PDA may become clinically significant when combined with acquired conditions (aortic stenosis, ischaemic heart disease).
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 15. Describe the physical signs in a patient with patent ductus arteriosus</summary><div class="details-content">
+
+- **Hallmark finding:** Continuous ("machinery") murmur at **left sternal border, 2nd intercostal space**
+- Moderate/large shunt: prominent LV impulse, increased pulse pressure, bounding peripheral pulses
+- Infants: often have enlarged liver
+- Preterm infants: frequently display respiratory distress, require mechanical ventilation
+
+**Eisenmenger syndrome:**
+- Cyanotic
+- **Differential cyanosis:** cyanosis and clubbing of toes but not fingers (R→L ductal shunt is distal to subclavian arteries)
+- May be more profound in hot weather or after exercise (↓ SVR)
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 21. What is the natural history of untreated patent ductus arteriosus?</summary><div class="details-content">
+
+| Type | Natural History |
+|---|---|
+| **Small to moderate PDA** | Often asymptomatic during infancy/childhood; some never develop symptoms. Moderate PDA maintain modestly elevated PVR → limits shunting. Those with chronic LV volume overload may develop CHF in 3rd decade + atrial flutter/fibrillation |
+| **Large PDA** | LV failure with onset before 3 months (tachypnoea, pulmonary oedema). Signs of RV failure (hepatomegaly) appear later. May respond to diuretics temporarily. Occasional sudden death in medically treated infants |
+| **If untreated** | Some develop irreversible pulmonary hypertension (pressure overload). Many cases related to coincidental primary pulmonary vascular disease. Even after ductal closure, PVD may progress and prove fatal |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 22. What is the incidence of patent ductus arteriosus-associated infective endarteritis?</summary><div class="details-content">
+
+- In developing countries with limited healthcare access: continues to be significant health issue
+- Pre-antibiotic era: reported as **1% per year**
+- Vegetations usually occur at **pulmonary artery end** of ductus → recurrent pulmonary emboli → clinical picture suggesting recurrent pneumonia
+- Routine closure of PDAs + widespread antibiotics + improved dental care has **dramatically decreased** incidence
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 23. What is the incidence of ductus arteriosus aneurysm?</summary><div class="details-content">
+
+- Reported as high as **8%**
+- Most present in infancy; reported in adults
+- May develop after endarteritis, surgical closure, or transcatheter coil occlusion
+- **~25%** have underlying disorder: trisomy 21/13, Type IV Ehlers-Danlos, Smith-Lemli-Opitz, Marfan syndrome
+- **20%** of cases → rupture or embolism → death
+- Rarely presents with symptoms of thoracic mass: hoarseness (recurrent laryngeal nerve compression) or left bronchial obstruction → indication for surgical excision
+- Dissection and infection may also occur
+- **Prompt surgical removal advisable** (frequency of life-threatening complications)
+- Percutaneous occlusion not established; covered stent in aorta to exclude aneurysm + occlude ductus is promising technique
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 5. Diagnostic Imaging</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 16. What are the radiological features of patent ductus arteriosus?</summary><div class="details-content">
+
+Chest radiograph findings depend on amount of shunting:
+- May be completely normal
+- Cardiomegaly when flow to lungs is close to **twice systemic flow or greater** (Figure 4)
+
+**Large PDA:**
+- LA and LV enlargement
+- Increased pulmonary vascular markings
+- Pulmonary oedema
+- Pulmonary trunk often bulging at left border of cardiac silhouette
+- Aorta also prominent
 
 ![](_page_8_Picture_7.jpeg)
 
-**Figure 4. Chest radiographs of a patient with a large patent ductus arteriosus: A) pre-operative radiograph demonstrating marked pulmonary plethora and an enlarged cardiac silhouette, consistent with a significant systemic to pulmonary shunt and heart failure; B) postoperative radiograph following duct ligation using a titanium clip (red arrow), where the lung field appears less congested and the cardiac size is reduced.**
+**FIGURE 4.** Chest radiographs of patient with large PDA: A) Pre-op — marked pulmonary plethora, enlarged cardiac silhouette; B) Post-op after duct ligation with titanium clip (red arrow) — less congested, reduced cardiac size.
 
-• A large PDA results in LA and LV enlargement, with increased pulmonary vascular markings and pulmonary oedema. The pulmonary trunk is often bulging at the left border of the cardiac silhouette and the aorta is also prominent.
+</div></details>
 
-#### 17 **What are the electrocardiographic features of patent ductus arteriosus?**
+<details class="med-details"><summary>
+  
+#### 17. What are the electrocardiographic features of patent ductus arteriosus?</summary><div class="details-content">
 
-- In patients with a small ductal shunt, the electrocardiogram (ECG) is often normal.
-- In patients with a moderate or large shunt, the ECG may demonstrate sinus tachycardia, and have some evidence of LA enlargement and LV hypertrophy.
-- Atrial fibrillation is seldom observed.
-- When the duct is large enough to equalise the systemic and pulmonary arterial pressures, signs of right atrial enlargement and biventricular hypertrophy are frequently present.
+| Shunt size | ECG findings |
+|---|---|
+| **Small** | Often normal |
+| **Moderate/large** | Sinus tachycardia, LA enlargement, LV hypertrophy |
+| **Equal pressures (large PDA)** | Right atrial enlargement, biventricular hypertrophy |
 
-#### 18 **What are the echocardiographic features of patent ductus arteriosus?**
+Atrial fibrillation is seldom observed.
 
-- Echo is the principal diagnostic tool and will help rule out other structural cardiac malformations.
-- The position and geometry of the duct is best demonstrated with 2D imaging.
-- Pulsed wave and colour flow Doppler are invariably used to ascertain the direction of flow, degree of shunting and any possible acceleration of flow. It can detect the presence of even small ducts with colour flow signal entering the pulmonary artery (Figures 5 and 6).
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 18. What are the echocardiographic features of patent ductus arteriosus?</summary><div class="details-content">
+
+- **Principal diagnostic tool** — rules out other structural cardiac malformations
+- **2D imaging:** Position and geometry of ductus
+- **Pulsed wave + colour flow Doppler:** Direction of flow, degree of shunting, acceleration of flow; detects even small ducts (Figures 5, 6)
+- **M-mode:** Cardiac chamber sizes, LV systolic function
+
+**Additional assessments:**
+- Unexplained RV hypertrophy, septal flattening, high-velocity PR → thorough investigation for PDA
+- Contrast echocardiography (agitated saline in descending aorta) for ductal R→L shunting
+- From spectral Doppler signal of ductal flow → complete PA pressure curve
+- RV pressure estimated from TR jet peak velocity
+- PA diastolic pressure estimated from PR Doppler velocity
+- Degree of L→R shunt calculated from Doppler-derived mean flow velocities + outflow tract cross-sectional areas
 
 ![](_page_9_Figure_11.jpeg)
 
-**Figure 5. Echocardiographic suprasternal view of the main pulmonary artery and ductus arteriosus, demonstrating: A) a large turbulent shunt in systole from the distal aortic arch into the main pulmonary artery; and B) the presence of a high-velocity flow (4m/sec) with reduced systolicdiastolic variation, indicating continuous flow mainly left to right throughout the cardiac cycle, on pulsed wave Doppler interrogation.** *Images courtesy of Dr. Tara Bharucha, University Hospital Southampton, UK.*
+**FIGURE 5.** Echocardiographic suprasternal view: A) Large turbulent shunt in systole from distal aortic arch into MPA; B) High-velocity flow (4 m/sec) with reduced systolic-diastolic variation → continuous L→R flow. *Images courtesy of Dr. Tara Bharucha.*
 
 ![](_page_10_Picture_2.jpeg)
 
-**Figure 6. Echocardiographic image demonstrating a patent ductus arteriosus on colour flow Doppler, with an approximate measurement made of the narrowest point along the duct.**
+**FIGURE 6.** Colour flow Doppler: PDA with approximate measurement of narrowest point along duct.
 
-- In patients with equal vascular resistances and a low velocity, it may be difficult to demonstrate even a moderate PDA with colour flow.
-- M-mode echocardiography is used to measure the cardiac chamber sizes and quantitate LV systolic function.
-- Unexplained RV hypertrophy, septal flattening and high-velocity pulmonary regurgitation should prompt a thorough investigation for a PDA. In this setting, contrast echocardiography with intravenous injection of agitated saline in the descending but not the ascending aorta (from ductal right-to-left shunting) might be helpful.
-- From the spectral Doppler signal of the ductal flow, a complete pulmonary artery pressure curve can be generated.
-- The RV pressure can be estimated from the peak velocity of the tricuspid regurgitation jet, and the pulmonary artery diastolic pressure can be estimated from the Doppler velocity of the pulmonary regurgitation flow, if present.
-- Using Doppler-derived mean flow velocities and the outflow tract crosssectional areas, the degree of left-to-right shunt can be calculated.
+</div></details>
 
-#### 19 **Describe when cross-sectional imaging is used to investigate patent ductus arteriosus**
+<details class="med-details"><summary>
+  
+#### 19. Describe when cross-sectional imaging is used to investigate patent ductus arteriosus</summary><div class="details-content">
 
-• Magnetic resonance imaging (MRI) can provide important anatomical detail and is useful in patients with unusual ductal geometry or associated aortic arch abnormalities, such as a ductal aneurysm, vascular ring, or cervical or right aortic arch.
+**MRI:** Provides important anatomical detail; useful for:
+- Unusual ductal geometry
+- Associated aortic arch abnormalities (ductal aneurysm, vascular ring, cervical or right aortic arch)
 
-• In an adult with PDA, a computed tomography (CT) scan can help to assess the degree of calcification.
+**CT:** In adults with PDA, can assess degree of calcification
 
-#### 20 **Describe the cardiac catheterisation findings in patent ductus arteriosus**
+</div></details>
 
-• Catheterisation is not considered a necessary diagnostic procedure for children with typical clinical findings.
+<details class="med-details"><summary>
+  
+#### 20. Describe the cardiac catheterisation findings in patent ductus arteriosus</summary><div class="details-content">
+
+- **Not considered necessary** for children with typical clinical findings
+- **Angiography** (Figure 7): Useful to define PDA anatomy in detail before transcatheter closure (minimum diameter, largest diameter at aortic ampulla, length, relationship to tracheal shadow)
+- **Complete haemodynamic assessment** important in adults to prevent closure in presence of irreversible pulmonary hypertension
+- **Response to vasodilators** (O₂, nifedipine, prostacyclin, sildenafil, nitric oxide) + temporary test occlusion with balloon → help determine suitability of closure
+- **Catheter-based occlusion** with coils or other devices is currently **treatment of choice** at most centres for children and adults
 
 ![](_page_11_Figure_5.jpeg)
 
-**Figure 7. Angiographic images demonstrating the anatomical variants of patent ductus arteriosus, with: A) narrowing at the pulmonary end; B) complex or tortuous type; C) window type; D) tubular type; E) conical type; and F) elongated type.** *Images courtesy of Dr. Trevor Richens, University Hospital Southampton, UK.*
+**FIGURE 7.** Angiographic variants of PDA: A) Narrowing at pulmonary end; B) Complex/tortuous; C) Window type; D) Tubular; E) Conical; F) Elongated. *Images courtesy of Dr. Trevor Richens.*
 
-- Angiography can be useful to define the anatomy of the PDA in detail before transcatheter closure to determine the size and type of the device to be used (Figure 7).
-- Important features include the minimum diameter, largest diameter (usually at the aortic ampulla), length and relationship to the tracheal shadow.
-- Complete assessment of the haemodynamic parameters before transcatheter closure is particularly important in adults, to prevent closure of a shunt in the presence of irreversible pulmonary hypertension.
-- The response to vasodilating agents, such as oxygen, nifedipine, prostacyclin, sildenafil and nitric oxide, as well as temporary test occlusion with a balloon may be helpful in determining the suitability of closure.
-- Catheter-based occlusion of the duct with coils or other devices is currently the treatment of choice at most centres for children and adults with PDA.
+</div></details>
 
-#### 21 **What is the natural history of untreated patent ductus arteriosus?**
+</div></details>
 
-- Small to moderate PDA often remain asymptomatic during infancy and childhood, and some may never develop symptoms.
-- Moderate PDA maintain a modestly elevated PVR, which limits the shunting sufficiently to lessen the physiological impact and permit survival and growth. Those with significant chronic volume overload of the left heart may develop congestive heart failure in adulthood, starting in the third decade. This is frequently associated with atrial flutter or fibrillation.
-- Large PDA usually result in left heart failure with an onset before the age of 3 months, presenting with tachypnoea and pulmonary oedema. Signs of right heart failure with hepatomegaly appears later. The patient may initially respond to diuretics but this is rarely maintained and closure is advisable.
-- Occasional sudden death in infants treated medically further encourages early intervention. If untreated, some of these develop irreversible pulmonary hypertension, as a result of pressure overload. Many cases appear to be related to coincidental primary pulmonary vascular disease. Even after closure of the ductus, pulmonary vascular disease may progress and eventually prove fatal.
+---
 
-## 22 What is the incidence of patent ductus arteriosus-associated infective endarteritis?
+<details class="med-details"><summary>
+  
+## 6. Medical Treatment</summary><div class="details-content">
 
-- In developing countries with limited access to healthcare, this
-  continues to be a significant health issue. In the era before routine
-  surgical closure and the use of antibiotics, it was reported to be 1%
-  per year.
-- Vegetations usually occur at the pulmonary artery end of the ductus and may give rise to recurrent pulmonary emboli, with the clinical picture suggesting recurrent pneumonia.
-- Routine closure of PDAs and widespread use of antibiotics, along with improved dental care, has dramatically decreased the incidence.
+<details class="med-details"><summary>
+  
+#### 24. What is the initial medical treatment of patent ductus arteriosus?</summary><div class="details-content">
 
-#### 23 What is the incidence of ductus arteriosus aneurysm?
+**Symptom-focused treatment:**
+- Digoxin
+- Diuretics
+- Ventilation (as required)
+- Inotropes (as required)
+- Antibiotics (if presenting with endarteritis)
 
-- This has been reported as high as 8%.
-- Most present in infancy but it has been reported in adults and may develop after endarteritis, surgical closure or transcatheter coil occlusion.
-- Approximately 25% of patients have an underlying disorder, such as trisomy 21 or 13, Type IV Ehlers-Danlos, Smith-Lemli-Opitz or Marfan syndrome. In 20% of cases, rupture or embolism results in death.
-- Rarely, it may present with symptoms of a thoracic mass, including hoarseness related to compression of the recurrent laryngeal nerve or left bronchial obstruction, and is an indication for surgical excision.
-- Dissection and infection may also occur. In view of the frequency of life-threatening complications, prompt surgical removal is advisable.
-- Although percutaneous occlusion has not been established, placement of a covered stent in the aorta to simultaneously exclude the aneurysm and occlude the ductus arteriosus, is potentially a promising technique.
+**Preterm infants — indomethacin:**
+- Dose: **0.1–0.2 mg/kg t.d.s. for 3 doses** (may be repeated 1–2 more times)
+- **Contraindications:** Renal dysfunction, hyperbilirubinaemia, bleeding disorders
+- **Strong relative contraindications:** Severe CHF, sepsis, inadequate tissue perfusion, organ failure
 
-# 24 What is the initial medical treatment of patent ductus arteriosus?
+</div></details>
 
-- Initial treatment is focused on symptoms and includes:
-  - a) digoxin;
-  - b) diuretics;
-  - c) ventilation (as required);
-  - d) inotropes (as required);
-  - e) antibiotics, if presenting with symptoms of endarteritis.
+</div></details>
 
-• In premature infants, indomethacin 0.1-0.2mg/kg, t.d.s. for three doses (although may be repeated more times) can be used. It is, however, contraindicated in the presence of renal dysfunction, hyperbilirubinaemia and bleeding disorders. In addition, the presence of severe congestive heart failure, sepsis, inadequate tissue perfusion or organ failure is a strong relative contraindication.
+---
 
-#### 25 **What are the interventional options for patent ductus arteriosus?**
+<details class="med-details"><summary>
+  
+## 7. Indications for Closure</summary><div class="details-content">
 
-- Although ligation or division of the ductus has become a simple procedure associated with almost no morbidity or mortality, the complication of operative haemorrhage from a torn or insufficiently sutured ductus is so serious that the operation should always be approached with respect, proper planning and meticulous technique.
-- Transcatheter occlusion was pioneered by Portsmann and Raskind/Cuaso, who reported initial results using an umbrella-type device.
-- After Cambier reported the use of Gianturco coils, transcatheter coil occlusion soon became a widely used technique for closure of a small to moderate PDA.
-- Subsequent newer devices have developed such that moderate to large PDA are now usually amenable to transcatheter occlusion.
-- In institutions with active interventional cardiology, transcatheter device closure is routinely and effectively used for infants, children and adults with PDA.
-- Primary surgical closure is usually reserved for premature neonates of very small body weight and those older patients with large ducts who have had a failed attempt at device closure.
+<details class="med-details"><summary>
+  
+#### 26. What are the indications for surgery in the preterm infant?</summary><div class="details-content">
 
-#### 26 **What are the indications for surgery in the preterm infant?**
+**Risk factors for complications:**
+- Extreme prematurity (<25 weeks)
+- Very low birth weight (<800 g) → severe risks of end-organ failure (bronchopulmonary dysplasia, NEC, retinopathy of prematurity, intraventricular haemorrhage)
 
-- Extreme prematurity (<25 weeks' gestation at birth) and particularly low birth weight (<800g) presents severe risks for complications of end-organ failure, including bronchopulmonary dysplasia, necrotising enterocolitis (NEC), retinopathy of prematurity and intraventricular haemorrhage.
-- Failure of indomethacin treatment (which occurs in 40-50% of cases).
-- Echocardiographic demonstration of a large PDA with collapsing pulses, Doppler evidence of a large left-to-right shunt or signs of leftsided chamber enlargement.
+**Indications:**
+- Failure of indomethacin treatment (occurs in **40–50%** of cases)
+- Echocardiographic demonstration of large PDA with collapsing pulses, Doppler evidence of large L→R shunt, or signs of left-sided chamber enlargement
+- Respiratory distress with ventilator dependency and need for high FiO₂ in absence of important shunt
 
-- Respiratory distress with ventilator dependency and the need for a high FiO2 in the absence of an important shunt.
-- Several studies have so far failed to provide strong evidence in favour of intervention as compared to medical therapy. Surgical ligation carries significant mortality (around 8-10%) usually secondary to respiratory failure (Figure 8).
+**Note:** Several studies have failed to provide strong evidence favouring intervention over medical therapy. Surgical ligation carries significant mortality (~8–10%), usually secondary to respiratory failure (Figure 8).
 
 ![](_page_15_Picture_4.jpeg)
 
 ![](_page_15_Picture_5.jpeg)
 
-**Figure 8. Chest radiographs demonstrating: A) severe lung congestion and opacification in a severely premature (<25 weeks) baby with patent ductus arteriosus; and B) persistent pulmonary injury despite successful ligation, with hypoxia and pulmonary hypertension.**
+**FIGURE 8.** CXR in severely premature (<25 weeks) baby with PDA: A) Severe lung congestion and opacification; B) Persistent pulmonary injury despite successful ligation (hypoxia, pulmonary hypertension).
 
-#### 27 **What are the indications for closure of patent ductus arteriosus in children and adults?**
+</div></details>
 
-- Ductal closure is indicated for any child or adult who is symptomatic from significant left-to-right shunting through the PDA.
-- In asymptomatic patients with significant left-to-right shunting that results in left heart enlargement, closure is indicated to reduce the risk of complications in the future.
-- The indications for closure of a PDA with a small shunt, including incidental, are less certain, particularly in older adults.
-- Endarteritis of a clinically silent PDA has been reported.
+<details class="med-details"><summary>
+  
+#### 27. What are the indications for closure of patent ductus arteriosus in children and adults?</summary><div class="details-content">
 
-#### 28 **What are the principles of surgery for patent ductus arteriosus?**
+- **Symptomatic** patients with significant L→R shunting → closure indicated
+- **Asymptomatic** patients with significant L→R shunting resulting in **left heart enlargement** → closure indicated (to reduce future complication risk)
+- **Small/incidental PDA:** Indications less certain, particularly in older adults (endarteritis of clinically silent PDA has been reported)
 
-#### *Very low birth weight (<1000g) premature neonate*
+</div></details>
 
-• Usually approached via a small left posterolateral thoracotomy through the 3rd or 4th intercostal space. In extremely small babies, it
+</div></details>
 
-- may be difficult to ventilate due to the underlying lung prematurity and often the procedure is carried out while on manual ventilation to maintain adequate oxygen saturation levels.
-- A pleural incision is made over the aorta, posterior to the vagus nerve, and carried up to the subclavian artery in order to adequately expose the distal arch. The vagus nerve is reflected anteriorly.
-- The pleural edges are suspended to the wound towels and sharp dissection is used to open planes above and below the ductus, and behind the aorta above and below the ductus. Tissue around the ductus is gripped for retraction. It is best to avoid gripping the ductus itself, particularly in the infant. The course of the recurrent laryngeal nerve is determined.
-- An appropriately sized metal haemoclip on a manual applier is carefully positioned around the ductus at its aortic end (Figure 9). A rise in blood pressure in the lower extremity is confirmed. Haemostasis is secured and the ribs are reapproximated using absorbable paracostal sutures.
-- The soft tissue is closed in layers with a running absorbable suture.
+---
+
+<details class="med-details"><summary>
+  
+## 8. Surgical Ligation</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 25. What are the interventional options for patent ductus arteriosus?</summary><div class="details-content">
+
+- Ligation/division is simple with almost no morbidity/mortality, but haemorrhage from torn or insufficiently sutured ductus is serious → approach with respect, proper planning, meticulous technique
+- **Transcatheter occlusion:** Pioneered by Portsmann (1967) and Raskind/Cuaso (1979). After Cambier (1992) reported Gianturco coils, transcatheter coil occlusion became widely used for small to moderate PDA
+- Newer devices → moderate to large PDA now usually amenable to transcatheter occlusion
+- In institutions with active interventional cardiology → transcatheter device closure routinely and effectively used for infants, children, adults
+- **Primary surgical closure** usually reserved for:
+  - Premature neonates of very small body weight
+  - Older patients with large ducts who have failed device closure
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 28. What are the principles of surgery for patent ductus arteriosus?</summary><div class="details-content">
+
+**Very low birth weight (<1000 g) premature neonate (Figure 9):**
+- Small left posterolateral thoracotomy (3rd or 4th ICS); may require manual ventilation
+- Pleural incision over aorta posterior to vagus nerve, carried to subclavian artery; reflect vagus anteriorly
+- Suspend pleural edges; sharp dissection to open planes above/below ductus and behind aorta
+- Avoid gripping ductus itself; determine recurrent laryngeal nerve course
+- Titanium clip at aortic end; confirm BP rise in lower extremity
 
 ![](_page_16_Picture_7.jpeg)
 
-**Figure 9. Surgical ligation of a patent ductus arteriosus, with: A) exposure of the ductus in the posterior mediastinum; and B) application of a titanium clip. LSCA = left subclavian artery; PDA = patent ductus arteriosus.**
+**FIGURE 9.** Surgical ligation of PDA: A) Exposure of ductus in posterior mediastinum; B) Application of titanium clip. LSCA = left subclavian artery; PDA = patent ductus arteriosus.
 
-#### *Patients weighing >1000g*
-
-• In these patients, a double or triple ligation is performed.
-
-• Somewhat more dissection is carried out proximally and distally to the ductus, and the pedicle containing the vagus and recurrent laryngeal nerves is mobilised more medially. A right-angle instrument is passed underneath the ductus and a couple of silk ligatures tied with a short distance between them (Figure 10). In large ducts, one or more transfixion sutures can be used to secure the ligatures.
+**Patients >1000 g (Figure 10):**
+- Double or triple ligation
+- More dissection proximally and distally; mobilise pedicle containing vagus and recurrent laryngeal nerves medially
+- Pass right-angle instrument under ductus; tie silk ligatures with short distance between them
+- Large ducts: one or more transfixion sutures to secure ligatures
 
 ![](_page_17_Picture_3.jpeg)
 
-**Figure 10. Simple surgical ligation of a patent ductus arteriosus. Following full dissection of the duct and surrounding structures, a double silk ligature is used to secure complete occlusion of the duct. LSCA = left subclavian artery; PDA = patent ductus arteriosus.**
+**FIGURE 10.** Simple surgical ligation: Following full dissection, double silk ligature secures complete occlusion. LSCA = left subclavian artery; PDA = patent ductus arteriosus.
 
-#### *Older infants*
+**Older infants:**
+- If ductus very large but short (placing two ligatures separated by few mm difficult) → **divide** the ductus
+- Oversew each end with 5/0 Prolene® (mattress + over-and-over)
 
-- Whenever the ductus is very large but so short that placing two ligatures, separated by a few millimetres becomes difficult, the ductus should be divided.
-- Each end is oversewn with a 5/0 Prolene® suture, using a mattress technique followed by an over-and-over stitch.
+**Adult patients:**
+- Persistent PDA not amenable to transcatheter approach → surgical ligation
+- Often requires CPB; occasionally DHCA
+- Ductus seldom ligated (calcification); closure via main PA (primary or patch closure of pulmonary end)
 
-#### *Adult patients*
+</div></details>
 
-- In cases of a persistent patent duct not amenable for a transcatheter approach, surgical ligation may be indicated.
-- This often requires the use of cardiopulmonary bypass and on occasion deep hypothermic circulatory arrest (DHCA).
+<details class="med-details"><summary>
+  
+#### 29. What are the outcomes and complications of ligation of patent ductus arteriosus?</summary><div class="details-content">
 
-• The duct is seldom ligated, due to calcification, but closure is easily obtained with primary or patch closure of the pulmonary end, via the main pulmonary artery.
+**Survival:**
+- Neonates and infants: **95–100%** (published reports)
 
-#### 29 **What are the outcomes and complications of ligation of patent ductus arteriosus?**
+**Complications:**
+| Complication | Notes |
+|---|---|
+| Bleeding | — |
+| Pneumothorax | — |
+| Infection | — |
+| Ligation of LPA or aorta | Rare |
+| Left vocal cord paralysis | Recurrent laryngeal nerve injury (1–4%; higher in low birth weight) |
+| Hemidiaphragm elevation | Phrenic nerve injury (4%) |
+| Horner's syndrome, false aneurysm, chylothorax | Rare |
 
-- Survival following surgical ligation in the neonate and infant in published reports range from 95-100%.
-- Important complications include:
-  - a) bleeding;
-  - b) pneumothorax;
-  - c) infection;
-  - d) ligation of the left pulmonary artery or aorta (rare);
-  - e) left vocal cord paralysis from recurrent laryngeal nerve injury (in 1-4% of cases, with a higher prevalence among infants with low birth weight);
-  - f) elevation of the hemidiaphragm from phrenic nerve injury (in 4% of cases);
-  - g) Horner's syndrome, false aneurysm and chylothorax are rare complications.
-- Currently, the prevalence of recanalisation approaches zero when division or appropriate ligation techniques are used.
-- Hospital mortality following surgical ligation in the premature baby can be as high as 10-20%. This is not related to the interval between birth and the operation but is probably related to other circumstances in preterm infants, such as birth weight and gestational age.
-- Death rarely occurs during the immediate perioperative period and has been attributed to:
-  - a) continuing respiratory distress;
-  - b) intracranial haemorrhage;
-  - c) necrotising enterocolitis;
-  - d) diffuse coagulopathy.
+**Reanalisation:** Prevalence approaches zero with division or appropriate ligation techniques
 
-#### 30 **What are the principles of transcatheter closure of patent ductus arteriosus?**
+**Hospital mortality (premature babies):** Can be as high as **10–20%** — not related to interval between birth and operation, but to other circumstances (birth weight, gestational age)
 
-• A catheter or delivery sheath is advanced across the PDA from either the pulmonary artery or the aorta and a closure device is positioned in the ductus (Figure 11).
+**Causes of death (rarely immediate perioperative):**
+- Continuing respiratory distress
+- Intracranial haemorrhage
+- Necrotising enterocolitis (NEC)
+- Diffuse coagulopathy
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 9. Transcatheter Closure</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 30. What are the principles of transcatheter closure of patent ductus arteriosus?</summary><div class="details-content">
+
+- Catheter or delivery sheath advanced across PDA from either PA or aorta; closure device positioned in ductus (Figure 11)
+
+**Devices (Figure 11, 13B):**
+
+| Device | Characteristics |
+|---|---|
+| **Nit-Occlud® coil** | Specifically designed for PDA; biconical shape suitable for conical shape of most PDA |
+| **AMPLATZER™ PDA Occluder** | Nitinol wire woven into mesh (mushroom-shaped plug); for moderate to large PDA (Figure 13B) |
+| **AMPLATZER Piccolo™ Occluder** | For premature babies (Figure 11B) |
+| **AMPLATZER™ septal occluder** | For larger Type B (short) ductus |
 
 ![](_page_19_Picture_2.jpeg)
 
-**Figure 11. Patent ductus arteriosus occluding devices** *in situ***: A) AMPLATZER™ PDA Occluder (Abbott Laboratories, Abbott Park, IL) deployed via the main pulmonary artery; B) AMPLATZER Piccolo™ Occluder (Abbott Laboratories, Abbott Park, IL) deployed via the main pulmonary artery in a premature baby; and C) Nit-Occlud® coil occlusion system deployed via the descending aorta.** *Images courtesy of Dr. Andrew Ho, University Hospital Southampton, UK.*
+**FIGURE 11.** PDA occluding devices in situ: A) AMPLATZER™ PDA Occluder via MPA; B) AMPLATZER Piccolo™ Occluder in premature baby; C) Nit-Occlud® coil via descending aorta. *Images courtesy of Dr. Andrew Ho.*
 
-- Since the initial experience with non-detachable Gianturco coils, which occasionally migrated, several new techniques and devices have been developed, including:
-  - a) Nit-Occlud® coil occlusion system which was specifically designed for PDA closure. The coil has a biconical shape that is suitable for the conical shape of most PDA;
-
-- b) AMPLATZER™ duct occluder which is frequently used for closure of moderate to large PDA. This device is made of nitinol wire woven into a mesh in the configuration of a mushroom-shaped plug. For a larger Type B (short) ductus, the AMPLATZER™ septal occluder device may be effective. Newer devices and modifications are in the process of being developed and tested.
-- Complete closure rates at follow-up generally exceed 90-95% (Figure 12).
+**Complete closure rate at follow-up:** Generally exceeds **90–95%** (Figure 12)
 
 ![](_page_20_Picture_4.jpeg)
 
-**Figure 12. Successful total occlusion of a patent ductus arteriosus with an AMPLATZER™ PDA Occluder (Abbott Laboratories, Abbott Park, IL): A) the duct is first inspected and measured on a lateral view and proximal arch injection; B) the device is deployed via the main pulmonary artery with femoral vein access; C) complete occlusion is demonstrated with a second arch injection, which demonstrates the absence of contrast in the pulmonary circulation and no significant obstruction of the aortic isthmus.** *Images courtesy of Dr. Trevor Richens, University Hospital Southampton, UK.*
+**FIGURE 12.** Successful total occlusion with AMPLATZER™ PDA Occluder: A) Duct inspected and measured; B) Device deployed via MPA; C) Complete occlusion — no contrast in pulmonary circulation, no significant aortic isthmus obstruction. *Images courtesy of Dr. Trevor Richens.*
 
-- The most common complications include:
-  - a) device embolisation (Figure 13A);
-  - b) haemolysis from high-velocity residual shunting (Figure 14);
-  - c) flow disturbance from a protruding device.
+**Common complications (Figures 13A, 14):**
+- Device embolisation (Figure 13A)
+- Haemolysis from high-velocity residual shunting (Figure 14)
+- Flow disturbance from protruding device
 
 ![](_page_21_Picture_2.jpeg)
 
-**Figure 13. Patent ductus arteriosus occluding devices: A) AMPLATZER Piccolo™ Occluder (Abbott Laboratories, Abbott Park, IL), harvested from the right pulmonary artery following inadvertent migration in a 1.3kg neonate; B) AMPLATZER™ PDA Occluder (Abbott Laboratories, Abbott Park, IL) prior to insertion.**
+**FIGURE 13.** A) AMPLATZER Piccolo™ Occluder harvested from RPA after inadvertent migration in 1.3 kg neonate; B) AMPLATZER™ PDA Occluder prior to insertion.
 
 ![](_page_21_Picture_4.jpeg)
 
-**Figure 14. Coiling of an elongated patent ductus arteriosus in a small neonate: A) the duct is first inspected and measured on a lateral view and proximal arch injection; B) the device is deployed via the descending aorta with femoral artery access; C) near-complete occlusion is demonstrated with a second arch injection, which shows a small amount of contrast in the pulmonary circulation, partial filling of the duct, but no significant obstruction of the aortic isthmus.** *Images courtesy of Dr. Trevor Richens, University Hospital Southampton, UK.*
+**FIGURE 14.** Coiling of elongated PDA in small neonate: A) Duct inspected and measured; B) Device deployed via descending aorta; C) Near-complete occlusion — small amount of contrast in pulmonary circulation, partial duct filling, no significant aortic isthmus obstruction. *Images courtesy of Dr. Trevor Richens.*
+
+</div></details>
+
+</div></details>
