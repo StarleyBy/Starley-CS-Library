@@ -1,387 +1,764 @@
-# **Chapter 34**
+# Aortic Coarctation
 
-### Aortic coarctation
+<details class="med-details"><summary>
+  
+## Executive Summary</summary><div class="details-content">
 
-**Antonio F. Corno, Saravanan Durairaj, Branko Mimic, Simone Speggiorin**
+### Definition and Anatomy
+- **Aortic coarctation:** Congenital narrowing of the aortic lumen, usually between the origin of the left subclavian artery and the aortic origin of the ductus arteriosus
+- **Morphology:** Discrete (posterior/diaphragm-like shelf, often pin-hole orifice) or elongated tract (Figure 1)
+- **Subtypes by ductal relationship (Figure 2):** Preductal, paraductal, postductal
+- **Arch hypoplasia:** Frequently associated (proximal, mid, or distal arch) (Figure 3)
+- **Pseudocoarctation:** Redundant, kinked aorta with trivial or mild pressure gradient (Figure 4)
 
-### 1 **What is aortic coarctation?**
+### Genetics
+- **Environmental factors:** Prenatal solvent exposure, maternal phenylketonuria (high phenylalanine)
+- **Familial aggregation:** Sibling recurrence up to 30%; autosomal dominant with reduced penetrance possible
+- **NOTCH1 mutations:** Associated with LVOT obstruction; all individuals with coarctation and NOTCH1 mutation have bicuspid aortic valve
+- **15q26.2 deletions:** Identified in some patients
+- **Associated syndromes:** Noonan, Williams, Takayasu, Moyamoya
 
-- Aortic coarctation is defined as a congenital narrowing of the aortic lumen, usually situated between the origin of the left subclavian artery and the aortic origin of the ductus arteriosus.
-- When coarctation is an isolated finding, the wall of the aorta is narrowed, with the ascending and descending portions of the arch usually expanded above and below the site of coarctation, with distal displacement of the origin of the left subclavian artery.
-- The narrowing may be discrete or an elongated tract, proximal to the ductus arteriosus. In the former case, there is often a posterior or diaphragm-like shelf of fibrous tissue protruding into the lumen, often with a pin-hole orifice (Figure 1).
+### Associated Cardiac Anomalies
+- **Most frequent:** PDA, ASD/PFO, VSD, bicuspid aortic valve (Figure 5), subvalvular/valvular AS, arch hypoplasia
+- **Less frequent:** AVSD, double-inlet ventricle, mitral stenosis, HLHS, Shone's syndrome, TGA, DORV, anomalous right subclavian artery
+- **Rare:** ccTGA, truncus arteriosus, anomalous coronary arteries, intracranial aneurysm, abdominal coarctation, TOF
+
+### Epidemiology
+- **6th most common congenital defect**
+- **4–7%** of all congenital defects
+- **0.2–0.6/1000 live births**
+- More frequent in males
+
+### Pathophysiology
+- **Collateral circulation:** Develops with severity and duration; can reduce pressure gradient and upper-lower limb differential (Figure 6)
+- **Ductus arteriosus:** Critical in neonates; flow depends on PVR:SVR; preductal vs postductal position important
+- **Associated lesions:** VSD → volume overload; AS or arch hypoplasia → aggravates LV failure or hypertrophy
+
+### Natural History
+**Neonates/infants:**
+- 30–40% present within first 3 months
+- 80–90% of those presenting at <3 months have severe CHF/shock
+- Without treatment: 80–100% with associated defects die before 1 year
+- Untreated coarctation carries **40% mortality within first year**
+
+**Children/adults:**
+- Present with upper body hypertension, LV pressure overload
+- Beyond 30 years: CHF in ~66% over 40
+- Infective endocarditis: ~25% of deaths (mainly on bicuspid AV)
+- Aortic dissection: ~18% of deaths
+- Berry aneurysm rupture: ~12% of deaths (subarachnoid haemorrhage)
+- Few untreated survive beyond 50 years (oldest reported 94)
+
+### Clinical Presentation
+- **Signs:** Weak/absent femoral pulses (diagnostic), upper-lower limb BP differential, systolic murmur at left interscapular space
+- **Neonates:** Severe CHF, poor perfusion, metabolic acidosis, oliguria
+- **ECG:** Neonates — RVH + RAD; Children — normal or LVH; Adults — LVH ± strain
+- **CXR:** Neonates — cardiomegaly, lung congestion; Older children/adults — rib notching (collaterals) (Figure 7)
+
+### Echocardiography (Principal modality in neonates/young children)
+**Assessment includes (Figure 8):**
+- Coarctation at isthmus with flow acceleration
+- Descending aortic flow: reduced systolic upstroke + continuous forward flow in diastole (**"diastolic tail"** ) (Figure 9)
+- Spatial relation between coarctation and ductus
+- Ductal patency/morphology
+- Arch morphology and hypoplastic segments
+- Epiaortic branches (bovine trunk, aberrant subclavian)
+- Aortic valve morphology, subaortic region, aortic root
+- LV function and hypertrophy
+- Associated intracardiac malformations
+
+### Cross-Sectional Imaging (CT/MRI) (Figures 10–12)
+**Provides accurate information on:**
+- Location and extent of coarctation
+- Discrete vs tubular hypoplasia
+- Extreme coarctation vs interruption (implications for intervention)
+- Collateral artery formation
+- Associated aortic anomalies, arch sidedness, branching pattern
+- 3D reconstructions for surgical planning and tailored patches
+- Extracardiac lesions (intracranial aneurysms, abdominal aorta/renal arteries)
+
+### Cardiac Catheterisation
+- Limited diagnostic role (when CT/MRI unavailable)
+- **Interventional angiography:** Established tool; primary ballooning in neonates/infants (few centres); mainly for adults and recoarctation
+
+### Treatment Principles
+- **Diagnosis alone is indication for treatment**
+- Additional indications: Refractory hypertension, endocarditis, heart failure
+- **Neonates (duct-dependent):** Urgent/emergency surgery ± medical stabilisation (PGE₁, ventilation, correction of acidosis, inotropes)
+- **Infants/children:** Elective surgery shortly after diagnosis
+- **Adults:** Multidisciplinary discussion (congenital cardiac surgeons, thoracic/vascular surgeons, interventional cardiologists, radiologists); options: surgical repair, intravascular stenting (Figure 13), hybrid procedures, staged approaches
+
+### Surgical Principles
+**Goals:** Complete resolution of arch stenosis; all procedures ligate/divide ductus (systemic circulation becomes entirely dependent on arch patency)
+
+**Classification (two-ventricle circulations):**
+| Type | Definition |
+|---|---|
+| **Simple coarctation** | Confined to isthmus, no proximal arch hypoplasia, simple/no associated lesions |
+| **Complex coarctation** | Proximal arch hypoplasia and/or complex intracardiac lesions |
+
+### Simple Coarctation Repair
+**Neonates/infants/children:**
+- Left thoracotomy (beating heart, full ventilation)
+- May add PA banding for associated VSD/AVSD/DORV (staged strategy)
+
+**Adults:**
+- Percutaneous intravascular intervention (preferred); hybrid procedures; surgery rarely performed
+
+**Techniques (Figures 16–18):**
+- **Simple coarctectomy + end-to-end anastomosis** (Figure 16) — for distal coarctation, late referral
+- **Extended end-to-end anastomosis** (Figure 17) — most utilised in neonates/infants (mobilise arch to near diaphragm, extend incision along undersurface of arch to LCCA origin)
+- **Antegrade subclavian flap** (Figure 18) — for arch hypoplasia distal to LSCA
+- **Reverse subclavian flap** — for mid-arch hypoplasia (between LCCA and LSCA)
+- **Synthetic tubular prosthesis** — for complex/recurrent coarctation or pseudocoarctation
+
+### Complex Coarctation Repair (with proximal arch hypoplasia)
+- **Proximal arch hypoplasia requires anterior approach** (thoracotomy from side will fail to relieve proximal stenosis) (Figure 14)
+- **Neonates/infants/children:** Median sternotomy, CPB, deep hypothermic circulatory arrest ± regional brain/coronary perfusion
+- **Total arch reconstruction with patch arterioplasty** (Figure 19) — homograft, porcine pericardium, decellularised matrix
+- May require staged approach if patient not big enough for single-stage repair
+- **Adults:** Highly complex; hybrid approaches, full arch and descending aortic reconstructions, often staged (Figure 15)
+
+### Outcomes
+**Generally good, especially for isolated coarctation**
+
+**Higher early mortality with:**
+- Premature and low birth weight (<2.5 kg) neonates
+- Aortic arch hypoplasia
+- Associated complex lesions
+- Inability to reverse severe pre-operative shock/CHF (rare)
+
+**Mortality reduction in recent years** due to improved perioperative care (PGE₁ stabilisation, ventilation, acidosis correction, inotropes)
+
+### Surgical Complications
+**Most frequent:**
+- Pneumohaemothorax
+- Recurrent laryngeal nerve injury
+- Phrenic nerve palsy
+- Chylothorax
+- Bleeding
+- Post-coarctectomy syndrome (paradoxical hypertension, abdominal pain, mesenteric/necrotising vasculitis)
+- Residual or recurrent coarctation (Figure 20)
+
+**Infrequent:**
+- Left upper arm ischaemia (after subclavian flap)
+- Horner's syndrome (after subclavian flap)
+- Paraplegia
+
+### Long-term Outcomes and Complications
+- Late mortality depends on age at surgery and resolution of stenosis
+- **80–90% of late deaths** due to cardiovascular complications (recoarctation/aortic valve surgery, ruptured aneurysm, endocarditis, MI, stroke, subarachnoid haemorrhage, CHF, sudden death)
+- **Late potential problems:** Recoarctation, inadequate arch growth, aneurysm formation, persistent hypertension despite treatment
+- **Survival:** Surgery in infants/children better than untreated; patients operated between 15–40 years show marked improvement (best cases approach normal population); patients operated after 40 show substantial improvement but less dramatic
+
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 1. Definition and Anatomy</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 1. What is aortic coarctation?</summary><div class="details-content">
+
+**Aortic coarctation** is defined as a congenital narrowing of the aortic lumen, usually situated between the origin of the left subclavian artery and the aortic origin of the ductus arteriosus.
+
+**Key features:**
+- When isolated: aortic wall narrowed; ascending and descending portions of arch usually expanded above and below coarctation; left subclavian artery origin displaced distally
+- Narrowing may be **discrete** (posterior or diaphragm-like shelf of fibrous tissue protruding into lumen, often pin-hole orifice; Figure 1) or **elongated tract** proximal to ductus
+- Coarctation may be located proximal or distal to aortic orifice of ductus arteriosus (Figure 2)
+- **Aortic arch hypoplasia** of various degrees frequently associated (Figure 3)
+- **Collateral circulation** between aorta proximal and distal to coarctation varies with severity and patient age
+- **Pseudocoarctation:** Aorta redundant and severely kinked opposite ligamentum arteriosum, with trivial/mild pressure gradient (Figure 4)
 
 ![](_page_0_Picture_8.jpeg)
 
-**Figure 1. Surgically resected aortic isthmus in a patient with coarctation of the aorta, characterised by a pin-hole orifice representing the only communication between the proximal and distal aortic segments.** *Reproduced with permission from Corno AF. Aortic coarctation. In: Congenital Heart Defects: Decision Making for Surgery. Volume 1. Common defects. Darmstadt, Germany: Steinkopff Verlag, 2003:.*
-
-• In some cases, the coarctation can be located proximal or distal to the aortic orifice of the ductus arteriosus (Figure 2).
+**FIGURE 1.** Surgically resected aortic isthmus with pin-hole orifice representing only communication between proximal and distal aortic segments. *Reproduced with permission from Corno AF.*
 
 ![](_page_1_Picture_3.jpeg)
 
-**Figure 2. Coarctation of the aorta subtypes characterised by the relative position of the posterior shelf in the coarctation and the aortic orifice of the ductus arteriosus, which has an important effect on the direction of shunting (blue arrows): A) preductal coarctation; B) paraductal coarctation; and C) postductal coarctation.**
-
-• Aortic arch hypoplasia of various degrees is frequently associated with aortic coarctation (Figure 3).
+**FIGURE 2.** Coarctation subtypes by ductal relationship: A) Preductal; B) Paraductal; C) Postductal (blue arrows = shunting direction).
 
 ![](_page_1_Picture_6.jpeg)
 
-**Figure 3. Coarctation and arch hypoplasia, where the proximal arch (red) is between the right brachiocephalic artery and left common carotid artery, the mid-arch (orange) is between the left common carotid artery and left subclavian artery, and the distal arch (green) is distal to the left subclavian artery. CoA = coarctation of the aorta.**
-
-- The presence of a collateral circulation between the aorta proximal and distal to the coarctation varies with the severity of the narrowing and with the age of the patient.
-- Occasionally, the aorta may be redundant and severely kinked opposite the ligamentum arteriosum, with a trivial or mild pressure gradient ('pseudocoarctation', Figure 4).
+**FIGURE 3.** Coarctation and arch hypoplasia: proximal arch (red) — between R brachiocephalic and LCCA; mid-arch (orange) — between LCCA and LSCA; distal arch (green) — distal to LSCA. CoA = coarctation of the aorta.
 
 ![](_page_2_Picture_4.jpeg)
 
-**Figure 4. Magnetic resonance angiography with multi-imaging plane reconstruction of an aortic pseudocoarctation, where the aortic arch and descending aorta are stretched, with mild 'kinking' but no obstruction. Ao arch = aortic arch; Asc Ao = ascending aorta; Desc Ao = descending aorta.** *Reproduced with permission from Corno AF, Festa P. Aortic coarctation. In: Congenital Heart Defects: Decision Making for Surgery. Volume 3. CT scan and MRI. Darmstadt, Germany: Steinkopff Verlag, 2009: 94- 105.*
+**FIGURE 4.** MRI angiography: Aortic pseudocoarctation — aortic arch and descending aorta stretched, mild "kinking" but no obstruction. Ao arch = aortic arch; Asc Ao = ascending aorta; Desc Ao = descending aorta. *Reproduced with permission from Corno AF, Festa P.*
 
-#### 2 **Describe the molecular genetics associated with aortic coarctation**
+</div></details>
 
-- Both environmental and genetic factors have been implicated in the development of left ventricular outflow tract obstruction, of which coarctation is considered a component.
-- Prenatal exposure to solvents or high levels of phenylalanine (secondary to maternal phenylketonuria) is associated with higher rates of these defects.
-- Epidemiology studies have demonstrated a rate differential by gender, ethnicity and geographical location.
-- Familial aggregation of all malformations with left ventricular outflow tract obstruction, including the presence of a bicuspid aortic valve, is well recognised, and diverse genetic mechanisms with extensive locus and allelic heterogeneity are likely.
-- The existence of families with multiple occurrences of the full range of left ventricular outflow tract lesions strongly suggests the existence of a single genetic defect (G661S) underlying diverse phenotypic outcomes, governed by complex genetic inheritance, involving from one to six loci.
-- The strong genetic component for left ventricular outflow tract obstruction malformations is responsible for an estimated sibling recurrence rate of up to 30%. The reported studies also suggested that an autosomal dominant inheritance with reduced penetrance may operate in some families.
-- A highly conserved local signalling pathway involved in multiple developmental processes is known as NOTCH. Mutations in NOTCH1 (NCBI GeneID 4851) have been described in families with different types of left ventricular outflow tract obstructions, including aortic coarctation.
-- One variant (G661S) was found in various types of left ventricular outflow tract obstruction (aortic valve stenosis, aortic coarctation and hypoplastic left heart syndrome), as well as in patients with a bicuspid aortic valve. Although there does not appear to be an obvious genotype-phenotype correlation, all individuals with aortic coarctation who have a NOTCH1 mutation also have a bicuspid aortic valve.
-- Among patients with aortic coarctation, many individuals with large deletions of 15q26.2 (MIM#612626) have been identified with diagnostic array-based comparative genomic hybridisation analysis, confirmed by fluorescence áå ëáíì hybridization (FISH) analysis.
-- Aortic coarctation can be associated with Noonan syndrome, Williams syndrome, Takayasu syndrome and Moyamoya disease.
+</div></details>
 
-#### 3 **Which cardiac anomalies are associated with aortic coarctation?**
+---
 
-- The most frequently associated cardiac malformations are:
-  - a) patent ductus arteriosus;
-  - b) atrial septal defect (or patent foramen ovale);
-  - c) ventricular septal defect;
-  - d) bicuspid aortic valve (Figure 5);
-  - e) subvalvular and valvular aortic stenosis;
-  - f) aortic arch hypoplasia.
+<details class="med-details"><summary>
+  
+## 2. Genetics and Associated Anomalies</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 2. Describe the molecular genetics associated with aortic coarctation</summary><div class="details-content">
+
+**Environmental factors:**
+- Prenatal exposure to solvents
+- High levels of phenylalanine (secondary to maternal phenylketonuria)
+
+**Epidemiology:** Rate differential by gender, ethnicity, and geographical location
+
+**Familial aggregation:**
+- Strong genetic component for LVOT obstruction malformations
+- Estimated **sibling recurrence rate up to 30%**
+- Autosomal dominant inheritance with reduced penetrance may operate in some families
+- Single genetic defect (G661S) may underlie diverse phenotypic outcomes (1–6 loci)
+
+**NOTCH pathway:**
+- Highly conserved signalling pathway involved in multiple developmental processes
+- **NOTCH1 mutations** described in families with various LVOT obstructions (aortic stenosis, coarctation, HLHS) and bicuspid aortic valve
+- All individuals with coarctation and NOTCH1 mutation have bicuspid aortic valve (no obvious genotype-phenotype correlation)
+
+**Chromosomal abnormalities:**
+- Large deletions of **15q26.2** identified in some patients
+
+**Associated syndromes:**
+- Noonan syndrome
+- Williams syndrome
+- Takayasu syndrome
+- Moyamoya disease
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 3. Which cardiac anomalies are associated with aortic coarctation?</summary><div class="details-content">
+
+**Most frequent:**
+- Patent ductus arteriosus (PDA)
+- Atrial septal defect / patent foramen ovale
+- Ventricular septal defect (VSD)
+- **Bicuspid aortic valve** (Figure 5)
+- Subvalvular and valvular aortic stenosis
+- Aortic arch hypoplasia
 
 ![](_page_4_Picture_10.jpeg)
 
-**Figure 5. Bicuspid aortic valve demonstrated on: A) echocardiography short-axis view; and B) magnetic resonance imaging, with associated flow acceleration.**
+**FIGURE 5.** Bicuspid aortic valve: A) Echocardiography short-axis view; B) MRI with flow acceleration.
 
-- Less frequently associated anomalies include:
-  - a) atrioventricular septal defect;
-  - b) double-inlet ventricle;
-  - c) supravalvular or valvular mitral stenosis;
-  - d) hypoplastic left heart syndrome;
-  - e) multi-level stenotic lesions of the left heart (Shone's syndrome);
-  - f) transposition of the great arteries (usually with ventricular septal defect);
-  - g) double-outlet right ventricle;
-  - h) anomalous right subclavian artery.
+**Less frequent:**
+- Atrioventricular septal defect (AVSD)
+- Double-inlet ventricle
+- Supravalvular or valvular mitral stenosis
+- Hypoplastic left heart syndrome (HLHS)
+- Multi-level stenotic lesions of left heart (Shone's syndrome)
+- Transposition of the great arteries (usually with VSD)
+- Double-outlet right ventricle (DORV)
+- Anomalous right subclavian artery
 
-- Rarely associated anomalies include:
-  - a) double discordance (congenitally corrected transposition of the great arteries, ccTGA);
-  - b) truncus arteriosus;
-  - c) anomalous origin of coronary arteries;
-  - d) intracranial aneurysm;
-  - e) coarctation of the abdominal aorta;
-  - f) tetralogy of Fallot.
+**Rare:**
+- Double discordance (congenitally corrected TGA)
+- Truncus arteriosus
+- Anomalous origin of coronary arteries
+- Intracranial aneurysm
+- Coarctation of abdominal aorta
+- Tetralogy of Fallot
 
-#### 4 Describe the epidemiology of aortic coarctation
+</div></details>
 
-- Aortic coarctation is the 6th most common congenital defect.
-- It ranges from 4-7% of all congenital defects and is the predominant feature in 0.2-0.6/1000 live births.
-- Aortic coarctation is more frequent in males.
+<details class="med-details"><summary>
+  
+#### 4. Describe the epidemiology of aortic coarctation</summary><div class="details-content">
 
-#### 5 What is the pathophysiology of aortic coarctation?
+- **6th most common congenital defect**
+- Ranges from **4–7%** of all congenital defects
+- Predominant feature in **0.2–0.6/1000 live births**
+- More frequent in **males**
 
-- The pathophysiology of aortic coarctation depends upon the:
-  - a) extent of a collateral circulation;
-  - b) presence of a patent ductus arteriosus and physiological changes in the pulmonary vascular resistance;
-  - c) presence of associated lesions.
-- The development of a collateral circulation is directly dependent on the severity and duration of the coarctation. As the narrowing becomes significant, increasing collaterals develop. The amount of collaterals can become extensive enough to significantly reduce the pressure gradient across the coarctation and significantly reduce the upper-lower limb pressure differential (Figure 6).
-- Patency of the ductus arteriosus is critical, especially in the neonatal period. Flow across the ductus depends on the relative resistance of the systemic and pulmonary circulation.
-- The position of the coarctation in relation to the ductus is also important. In a preductal coarctation, systemic flow will remain dependent on pulmonary vascular resistance but in rarer cases of postductal coarctation, patency of the ductus or changes in vascular resistance will have little effect on systemic circulation, which will remain limited.
-- The association of any lesions causing systemic to pulmonary shunting, such as a ventricular septal defect, can cause increased volume overload on the left ventricle.
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 3. Pathophysiology</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 5. What is the pathophysiology of aortic coarctation?</summary><div class="details-content">
+
+**Pathophysiology depends on:**
+1. Extent of collateral circulation
+2. Presence of PDA and physiological changes in PVR
+3. Presence of associated lesions
+
+**Collateral circulation (Figure 6):**
+- Develops directly dependent on severity and duration of coarctation
+- As narrowing becomes significant, increasing collaterals develop
+- Can become extensive enough to significantly reduce pressure gradient and upper-lower limb pressure differential
 
 ![](_page_6_Picture_2.jpeg)
 
-**Figure 6. Computed tomography angiogram demonstrating aortic coarctation with associated extensive collateral circulation.**
+**FIGURE 6.** CT angiogram: Aortic coarctation with extensive collateral circulation.
 
-- Additional obstruction to flow, such as aortic valve stenosis or hypoplastic aortic arch, can aggravate or accelerate left ventricular failure, or in less acute cases result in hypertrophy.
-- The association with complex congenital heart defects, such as 'functionally' univentricular hearts, presents an increased level of complexity, although they all share the need of ductal patency to maintain systemic perfusion.
+**Ductus arteriosus:**
+- Patency critical, especially in neonatal period
+- Flow across ductus depends on relative resistance of systemic and pulmonary circulation
+- **Preductal coarctation:** Systemic flow remains dependent on PVR
+- **Postductal coarctation:** Ductal patency or changes in vascular resistance have little effect on systemic circulation
 
-#### 6 **What is the natural history of untreated aortic coarctation?**
+**Associated lesions:**
+- Lesions causing systemic-to-pulmonary shunting (e.g., VSD) → increased LV volume overload
+- Additional obstruction (aortic valve stenosis, hypoplastic arch) → aggravates/accelerates LV failure or hypertrophy
+- Complex defects (functionally univentricular hearts) → increased complexity; all share need for ductal patency to maintain systemic perfusion
 
-• The severity and duration of the presence of isolated aortic coarctation and the relative pathophysiology will dictate the clinical presentation, with significant differences between ages.
+</div></details>
 
-#### *Neonates and small infants*
+</div></details>
 
-- At first, in the presence of a patent ductus arteriosus, the elevated pulmonary resistance maintains systemic perfusion with systolic right-to-left shunting. The subsequent drop in pulmonary vascular resistance and/or the spontaneous closure of the ductus, however, leads to poor perfusion of the lower body and particularly inadequate renal perfusion, with subsequent metabolic acidosis.
-- About 30-40% of neonates with isolated coarctation of the aorta present within the first 3 months of age. Most of these neonates have associated cardiac defects, such as a ventricular septal defect or 'functionally' univentricular heart, intensifying the symptoms.
-- About 80-90% of patients presenting at <3 months of age have severe congestive heart failure, shock or both, and many are moribund at the time of hospital admission.
-- Without treatment, 80-100% of those with associated cardiac defects die before 1 year of age, whilst the outlook is better for neonates with isolated aortic coarctation.
+---
 
-#### *Children and adults*
+<details class="med-details"><summary>
+  
+## 4. Natural History</summary><div class="details-content">
 
-- Those who have survived beyond infancy can present during childhood or even in adulthood. The majority will present with upper body hypertension and signs of left ventricular pressure overload.
-- In children, the presentation is usually asymptomatic or mildly symptomatic.
-- Beyond 30 years of age, congestive heart failure is more common, occurring in approximately 66% of patients over 40.
-- Infective endocarditis is more frequent in older patients and accounts for approximately 25% of all deaths in this cohort. Vegetations occur mainly on the associated bicuspid aortic valve, more frequently than in the post-stenotic aortic segment. Mycotic aneurysms can occur more distally in the aorta or in peripheral arteries, including in the cerebral circulation.
-- Aortic dissection with subsequent rupture accounts for another 18% of deaths in older patients, generally affecting the ascending aorta. It is not clear if this is a result of bicuspid aortic valve-associated ascending aortopathy or directly linked to coarctation of the aorta.
-- Neurological lesions can occur due to a ruptured berry aneurysm of the circle of Willis, potentially associated with aortic coarctation. Berry aneurysms are probably more frequent than in the normal population but they are more likely to rupture because of the systemic hypertension.
+<details class="med-details"><summary>
+  
+#### 6. What is the natural history of untreated aortic coarctation?</summary><div class="details-content">
 
-- Subarachnoid haemorrhages, uncommon in children less than 10 years of age and more frequent after 40 years of age, are the cause of death in about 12% of these patients.
-- Rarely, spinal cord lesions may result from compression by or rupture of aneurysms of regional arteries.
-- When untreated, coarctation of the aorta carries a 40% mortality within the first year of age. Few untreated patients have survived beyond 50 years of age, although the oldest reported was 94 years of age.
-- In those surviving infancy, the reported survival curves from autopsy data are remarkably similar to those of the normal population, and approximately 25% of the survivors die from causes unrelated to the coarctation.
+**Neonates and small infants:**
+- Initially (with PDA): elevated PVR maintains systemic perfusion with systolic R→L shunting
+- Subsequent drop in PVR and/or spontaneous ductal closure → poor lower body perfusion (especially renal) → metabolic acidosis
+- **30–40%** of neonates with isolated coarctation present within first 3 months (most have associated defects intensifying symptoms)
+- **80–90%** of patients presenting at <3 months have severe CHF, shock, or both; many moribund at admission
+- Without treatment: **80–100%** of those with associated defects die before 1 year (outlook better for isolated coarctation)
 
-### What are signs and symptoms of a patient with coarctation of the aorta?
+**Children and adults:**
+- Majority present with upper body hypertension and signs of LV pressure overload
+- Children: usually asymptomatic or mildly symptomatic
+- Beyond 30 years: CHF more common (~66% of patients over 40)
+- **Infective endocarditis:** ~25% of deaths; vegetations mainly on bicuspid aortic valve
+- **Aortic dissection with rupture:** ~18% of deaths; generally affecting ascending aorta
+- **Berry aneurysm rupture:** Subarachnoid haemorrhage ~12% of deaths (more frequent after 40 years)
+- Rare: spinal cord lesions from compression/rupture of regional artery aneurysms
+- **Untreated coarctation carries 40% mortality within first year**
+- Few untreated survive beyond 50 years (oldest reported 94)
+- In those surviving infancy: survival curves similar to normal population; ~25% die from causes unrelated to coarctation
 
-- On examination, palpation and comparison of upper and lower limb pulses are vital.
-- A heart murmur can usually be heard over the praecordium and back at the left interscapular space. The murmur is systolic but may continue into early distole, related to the delay of arterial valve closure.
-- Severe congestive heart failure, poor peripheral perfusion, metabolic acidosis, oliguria and weak or absent femoral pulses can be seen in symptomatic neonates.
-- Weak or absent femoral pulses can be the diagnsotic sign in children and adults.
-- Endocarditis, aneurysm of intercostal arteries, cerebrovascular accidents, absent or weak femoral pulses and left ventricle failure have all been reported modes of presentation in adults.
+</div></details>
 
-## 8 What are the electrocardiographic features of a patient with coarctation of the aorta?
+</div></details>
 
-- Neonates right ventricular hypertrophy and right axis deviation.
-- Children normal or left ventricular hypertrophy.
-- Adults evidence of left ventricular hypertrophy with or without strain.
+---
 
-#### 9 **What are the chest radiographical features of <sup>a</sup> patient with coarctation of the aorta?**
+<details class="med-details"><summary>
+  
+## 5. Clinical Presentation and Diagnostic Imaging</summary><div class="details-content">
 
-- Neonates cardiomegaly, lung congestion or rarely pulmonary oedema.
-- Children normal or mild cardiomegaly.
-- Older children and adults rib notching (due to the extensive development of a collateral circulation [Figure 7]).
+<details class="med-details"><summary>
+  
+#### 7. What are signs and symptoms of a patient with coarctation of the aorta?</summary><div class="details-content">
+
+**Examination:**
+- Palpation and comparison of upper and lower limb pulses are **vital**
+- Heart murmur: usually heard over praecordium and back at left interscapular space; systolic (may continue into early diastole — delayed arterial valve closure)
+
+**Neonates (symptomatic):**
+- Severe congestive heart failure
+- Poor peripheral perfusion
+- Metabolic acidosis
+- Oliguria
+- Weak or absent femoral pulses
+
+**Children and adults:**
+- Weak or absent femoral pulses (diagnostic sign)
+- Endocarditis
+- Aneurysm of intercostal arteries
+- Cerebrovascular accidents
+- Left ventricle failure
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 8. What are the electrocardiographic features of a patient with coarctation of the aorta?</summary><div class="details-content">
+
+| Age | ECG findings |
+|---|---|
+| **Neonates** | Right ventricular hypertrophy, right axis deviation |
+| **Children** | Normal or left ventricular hypertrophy |
+| **Adults** | Left ventricular hypertrophy with or without strain |
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 9. What are the chest radiographic features of a patient with coarctation of the aorta?</summary><div class="details-content">
+
+| Age | CXR findings |
+|---|---|
+| **Neonates** | Cardiomegaly, lung congestion, rarely pulmonary oedema |
+| **Children** | Normal or mild cardiomegaly |
+| **Older children/adults** | **Rib notching** (lower edge of ribs) — due to extensive collateral circulation (Figure 7) |
 
 ![](_page_9_Picture_6.jpeg)
 
-**Figure 7. Chest radiograph demonstrating rib notching (white arrow) in the lower edge of the ribs, due to the extensive development of collateral vessels.**
+**FIGURE 7.** Chest radiograph: Rib notching (white arrow) from extensive collateral vessels.
 
-#### 10 **What are the echocardiographic features of <sup>a</sup> patient with coarctation of the aorta?**
+</div></details>
 
-- Echocardiography is the principal diagnostic modality in neonates and young children. Its use in older children and adults is limited due to poor windows. Prenatal echocardiographic diagnosis of coarctation also presents some challenges.
-- Echocardiography should always provide an accurate and complete assessment of the heart and great vessels as per sequential segmental anatomy, including (Figure 8):
-  - a) aortic coarctation at the isthmus and associated flow acceleration;
+<details class="med-details"><summary>
+  
+#### 10. What are the echocardiographic features of a patient with coarctation of the aorta?</summary><div class="details-content">
+
+**Echocardiography** is the principal diagnostic modality in neonates and young children (limited in older children/adults due to poor windows; prenatal diagnosis challenging)
+
+**Assessment must include (Figures 8–9):**
+- Aortic coarctation at isthmus and associated flow acceleration (Figure 8A)
+- **Descending aortic flow:** Normally rapid systolic upstroke + brief early diastolic retrograde flow; with coarctation → reduced systolic upstroke + continuous forward flow in diastole (**"diastolic tail"** ) (Figures 8D, 9)
+- Spatial relation between coarctation and ductus arteriosus
+- Patency and morphology of ductus arteriosus
+- Morphology of aortic arch and any hypoplastic segments
+- Morphology of epiaortic branches (bovine trunk — single origin for R innominate and LCCA; aberrant subclavian arteries)
+- Screening for associated anomalies
+- Aortic valve morphology, subaortic region, aortic root
+- LV function and presence of hypertrophy
+- Other associated intracardiac malformations
 
 ![](_page_10_Figure_2.jpeg)
 
-**Figure 8. Echocardiographic images demonstrating: A) severe coarctation <sup>1029</sup> and aortic arch hypoplasia on a suprasternal view; B) significant left ventricular hypertrophy on a parasternal long-axis view; C) severe coarctation (red arrow) with turbulent distal flow, as well as flow from the ductus arteriosus into the descending aorta on colour flow Doppler image; and D) the presence of a 'diastolic tail' in the descending thoracic aorta on continuous wave Doppler interrogation.**
-
-b) descending aortic flow (Figure 9) — which normally has a rapid upstroke in systole and brief retrograde flow in early diastole, but in the presence of aortic coarctation, the systolic
+**FIGURE 8.** Echocardiographic images: A) Severe coarctation and arch hypoplasia (suprasternal view); B) Significant LV hypertrophy (parasternal long-axis); C) Severe coarctation (red arrow) with turbulent distal flow + ductal flow into descending aorta (colour Doppler); D) "Diastolic tail" in descending thoracic aorta (continuous wave Doppler).
 
 ![](_page_10_Figure_5.jpeg)
 
-**Figure 9. Echocardiographic and corresponding colour flow Doppler images assessing aortic flow in a neonate with severe paraductal coarctation and reduced pulmonary vascular resistance: A) forward flow in the descending aorta in systole; and B) retrograde flow in diastole due to left-toright shunting through the ductus arteriosus.**
+**FIGURE 9.** Echocardiographic and colour Doppler in neonate with severe paraductal coarctation and reduced PVR: A) Forward flow in descending aorta in systole; B) Retrograde flow in diastole (L→R shunting through ductus).
 
-- upstroke is reduced with continuous forward flow in diastole, demonstrated by the characteristic diastolic tail;
-- c) spatial relation between the coarctation and ductus arteriosus;
-- d) patency and morphology of the ductus arteriosus;
-- e) morphology of the aortic arch and presence of any associated hypoplastic segments;
-- f) morphology of epiaortic branches to detect the presence of a 'bovine trunk' (single origin for the right innominate artery and left common carotid artery) or aberrant subclavian arteries;
-- g) screening for associated anomalies;
-- h) aortic valve morphology, subaortic region and aortic root;
-- i) left ventricular function and the presence of any hypertrophy;
-- j) other associated intracardiac malformation.
+</div></details>
 
-#### 11 **Describe the role of cardiac catheterisation in <sup>a</sup> patient with coarctation of the aorta**
+<details class="med-details"><summary>
+  
+#### 11. Describe the role of cardiac catheterisation in a patient with coarctation of the aorta</summary><div class="details-content">
 
-- Although cardiac catheterisation has a very limited indication for diagnostic purposes, it can be used to visualise the morphology of the coarctation and aortic arch, when computed tomography (CT) scans or magnetic resonance imaging (MRI) are not available.
-- Interventional angiography is an established tool used in most centres.
-- Although a few centres also perform primary ballooning of aortic coarctation in neonates and infants, most provide intravascular interventions for coarctation in the adult and in cases of recoarctation.
+- **Diagnostic:** Very limited indication; can visualise morphology of coarctation and aortic arch when CT/MRI unavailable
+- **Interventional angiography:** Established tool in most centres
+- **Primary ballooning of coarctation:** Performed in neonates/infants by few centres
+- **Main use:** Intravascular interventions for coarctation in adults and in cases of **recoarctation**
 
-#### 12 **What are the features on cross-sectional imaging of <sup>a</sup> patient with coarctation of the aorta?**
+</div></details>
 
-- CT scans and cardiac MRI provide reliable, non-invasive imaging modalities to diagnose and assess aortic coarctation and arch hypoplasia.
-- Cardiac MRI and CT angiogram with imaging planes customised to the course of the aorta can provide accurate information on the:
-  - a) location and the extent of the coarctation;
-  - b) type of the coarctation discrete versus tubular hypoplasia (Figure 10);
-  - c) presence of extreme coarctation or interruption of the aortic arch — which has important implications on the amenability of any interventional therapy (Figure 11);
+<details class="med-details"><summary>
+  
+#### 12. What are the features on cross-sectional imaging of a patient with coarctation of the aorta?</summary><div class="details-content">
+
+**CT and cardiac MRI** provide reliable, non-invasive diagnosis and assessment (Figures 10–12)
+
+**Accurate information on:**
+- Location and extent of coarctation
+- Type: discrete vs tubular hypoplasia (Figure 10)
+- Presence of extreme coarctation or interruption (implications for intervention) (Figure 11)
+- Extent of collateral artery formation
+- Associated aortic anomalies
+- Arch sidedness
+- Arch branching pattern (including anomalous subclavian arteries) (Figure 12)
+
+**Additional MRI information:**
+- Flow and cardiac function
+- 3D reconstructions enhance surgical planning and preparation of tailored patches for complex arch reconstructions
+
+**CT/MRI also reveal:** Intracranial aneurysms, lesions of abdominal aorta or renal arteries
 
 ![](_page_12_Picture_2.jpeg)
 
-**Figure 10. Magnetic resonance imaging scans demonstrating: A) a 'discrete' shelf clearly seen at the level of the isthmus; and B) an elongated type of aortic coarctation.**
-
-- d) extent of collateral artery formation;
-- e) associated aortic anomalies;
-- f) arch sidedness;
-- g) arch branching pattern, including an anomalous origin of the subclavian arteries (Figure 12).
-- Cardiac MRI provides additional information about the flow and cardiac function, with 3D reconstructions enhancing surgical planning and assisting preparation of tailored patches for complex arch reconstructions.
-- CT and MRI may also reveal the presence of any extracardiac lesions, such as intracranial aneurysms and lesions of the abdominal aorta or the renal arteries.
+**FIGURE 10.** MRI: A) Discrete shelf at isthmus; B) Elongated type of coarctation.
 
 ![](_page_13_Figure_2.jpeg)
 
-**Figure 11. Volume rendered 3D computed tomography angiograms demonstrating: A) a long tubular form of aortic coarctation; and B) insertion of a small aortic arch with coarctation on the 'ductal arch'. Volume rendered 3D magnetic resonance imaging angiograms demonstrating: C) severe aortic coarctation with near interruption; and D) aortic coarctation and extensive collateral circulation.** *Reproduced with permission from Corno AF, Festa P. Aortic coarctation. In: Congenital Heart Defects: Decision Making for Surgery. Volume 3. CT scan and MRI. Darmstadt, Germany: Steinkopff Verlag, 2009:.*
+**FIGURE 11.** Volume rendered 3D CT/MRI: A) Long tubular coarctation; B) Small aortic arch with coarctation on "ductal arch"; C) Severe coarctation with near interruption; D) Coarctation with extensive collaterals. *Reproduced with permission from Corno AF, Festa P.*
 
 ![](_page_14_Picture_2.jpeg)
 
-**Figure 12. Magnetic resonance angiogram 3D reconstructions demonstrating: A) severe aortic coarctation and bicuspid aortic valveassociated proximal aortopathy; and B) severe aortic coarctation with anomalous origin of a retro-oesophageal right subclavian artery.**
+**FIGURE 12.** MRI 3D reconstructions: A) Severe coarctation and bicuspid AV-associated proximal aortopathy; B) Severe coarctation with anomalous retro-oesophageal right subclavian artery.
 
-#### 13 **What are the principles of treating coarctation of the aorta?**
+</div></details>
 
-- Diagnosis of coarctation is per se an indication for treatment.
-- Other indications include systemic hypertension refractory to medical therapy and complications, such as endocarditis or heart failure.
-- In neonates with a duct-dependent circulation, urgent or emergency surgery is performed, with or without a period of medical stabilisation (prostaglandin E1 infusion, mechanical ventilation, correction of metabolic acidosis and inotropic support, when indicated) to improve clinical conditions and reduce operative mortality.
-- The timing of surgery may depend on the ability to maintain ductal patency, availability of specialist surgical services and the exclusion of other cofactors or comorbidities, such as neurological conditions.
-- In infants and children, elective surgery is usually performed shortly after establishing the diagnosis.
-- Surgery is the treatment of choice in nearly all neonates and infants, and in most children.
-- Late presentations of coarctation, recoarctation or complications of previous repairs in adults are discussed at a congenital
+</div></details>
 
-- multidisciplinary team meeting to get input from congenital cardiac surgeons, thoracic aortic surgeons, vascular surgeons, interventional cardiologists and radiologists.
-- Treatment options may include a full surgical repair, intravascular stenting (Figure 13), hybrid procedures and staged approaches.
+---
+
+<details class="med-details"><summary>
+  
+## 6. Treatment Principles</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 13. What are the principles of treating coarctation of the aorta?</summary><div class="details-content">
+
+- **Diagnosis of coarctation is per se an indication for treatment**
+- Additional indications: Systemic hypertension refractory to medical therapy, complications (endocarditis, heart failure)
+
+**Neonates (duct-dependent circulation):**
+- Urgent/emergency surgery ± medical stabilisation (PGE₁ infusion, mechanical ventilation, correction of metabolic acidosis, inotropic support) to improve clinical conditions and reduce operative mortality
+- Timing depends on ability to maintain ductal patency, availability of specialist surgical services, exclusion of cofactors/comorbidities
+
+**Infants and children:**
+- Elective surgery usually performed shortly after diagnosis
+
+**Adults (late presentations, recoarctation, complications of previous repairs):**
+- Multidisciplinary discussion (congenital cardiac surgeons, thoracic/vascular surgeons, interventional cardiologists, radiologists)
+- Treatment options: Full surgical repair, intravascular stenting (Figure 13), hybrid procedures, staged approaches
 
 ![](_page_15_Picture_4.jpeg)
 
-**Figure 13. A) Computed tomography angiogram (lateral projection) demonstrating inadequate growth of the aortic arch several years after a subclavian flap procedure for aortic coarctation. B) Cardiac catheterisation (lateral projection), in the same patient, demonstrating relief of the narrowing following percutaneous stent implantation.**
+**FIGURE 13.** A) CT angiogram: Inadequate arch growth years after subclavian flap procedure; B) Cardiac catheterisation: Relief of narrowing after percutaneous stent implantation.
 
-#### 14 **What are the principles of surgery for coarctation of the aorta?**
+</div></details>
 
-- All surgical procedures for aortic coarctation aim for the complete resolution of aortic arch stenosis, as:
-  - a) all procedures ligate or divide the ductus arteriosus; therefore, the systemic circulation will be thereafter entirely dependent on the patency of the arch;
-  - b) failing to resolve the stenosis will maintain a high afterload on the left ventricle thus leading to hypertrophy or failure;
+<details class="med-details"><summary>
+  
+#### 14. What are the principles of surgery for coarctation of the aorta?</summary><div class="details-content">
 
-- c) residual arch stenosis may result in malignant systemic hypertension and its sequelae, including significant mortality.
-- The choice of the surgical approach and technique vary significantly, and are dependent on the:
-  - a) presence and position of arch hypoplasia;
-  - b) presence and type of associated intracardiac lesions;
-  - c) size and status of the patient at the time of intervention.
-- Excluding coarctation of the aorta in the context of a single ventricle (for example, hypoplastic left heart syndrome), coarctation in the context of two-ventricle circulations can be divided into:
-  - simple coarctation which is usually confined to the isthmus region, in the absence of proximal arch hypoplasia and has simple or no associated intracardiac lesions;
-  - b) complex coarctation which is defined as coarctation when proximal arch hypoplasia is detected and/or complex intracardiac lesions are present.
+**All surgical procedures aim for complete resolution of aortic arch stenosis:**
+- All procedures ligate or divide the ductus arteriosus → systemic circulation becomes entirely dependent on arch patency
+- Failure to resolve stenosis → high LV afterload → hypertrophy or failure
+- Residual arch stenosis → malignant systemic hypertension + sequelae (including significant mortality)
 
-### 15 What are the principles of surgery for simple coarctation of the aorta?
+**Choice of approach and technique depends on:**
+- Presence and position of arch hypoplasia
+- Presence and type of associated intracardiac lesions
+- Size and status of patient at intervention
 
-#### Neonates, infants and children
+**Classification (excluding single-ventricle circulations like HLHS):**
 
-- Coarctation is generally treated with a single-stage procedure.
-- Left thoracotomy is the access of choice.
-- The procedure is performed on a beating heart and full ventilation.
-- In some cases, pulmonary artery banding is added, such as with an associated ventricular septal defect (VSD), atrioventricular septal defect (AVSD) or double-outlet right ventricle (DORV), leading to a staged strategy, where the intracardiac lesion is corrected later.
+| Type | Definition |
+|---|---|
+| **Simple coarctation** | Confined to isthmus region, no proximal arch hypoplasia, simple or no associated intracardiac lesions |
+| **Complex coarctation** | Proximal arch hypoplasia detected and/or complex intracardiac lesions present |
 
-#### Adults
+</div></details>
 
-- Coarctation is generally treated with a percutaneous intravascular intervention.
-- Hybrid procedures may be indicated.
-- Surgery is rarely performed.
+</div></details>
 
-#### 16 **What are the principles of surgery for complex coarctation of the aorta?**
+---
 
-• The presence of proximal arch hypoplasia alone indicates an anterior approach, as repair from the side will invariably fail to relieve the proximal stenosis, therefore requiring a full arch reconstruction (Figure 14).
+<details class="med-details"><summary>
+  
+## 7. Simple Coarctation Repair</summary><div class="details-content">
 
-![](_page_17_Picture_4.jpeg)
+<details class="med-details"><summary>
+  
+#### 15. What are the principles of surgery for simple coarctation of the aorta?</summary><div class="details-content">
 
-**Figure 14. Positioning of vascular clamps during thoracotomy repair of coarctation of the aorta: A) with a normal arch, the proximal clamp can be positioned anywhere as long as flow to the right brachiocephalic artery is preserved; B) and C) in the presence of distal and mid-arch hypoplasia, the proximal clamp can still be positioned to allow arch reconstruction and flow to the right brachiocephalic artery; D) with proximal arch hypoplasia, however, this is not possible and circulatory support is warranted. CoA = coarctation of the aorta.**
+**Neonates, infants, children:**
+- Single-stage procedure
+- **Left thoracotomy** (access of choice)
+- Procedure on beating heart, full ventilation
+- May add PA banding for associated VSD/AVSD/DORV → staged strategy (intracardiac lesion corrected later)
 
-#### *Neonates, infants and children*
+**Adults:**
+- Percutaneous intravascular intervention (generally preferred)
+- Hybrid procedures may be indicated
+- Surgery rarely performed
 
-• A median sternotomy tends to be the access of choice, with the procedure performed on bypass, often with the aid of deep hypothermic circulatory arrest, with or without regional perfusion of the brain and coronary arteries.
+</div></details>
 
-• Although these complex scenarios may be correctable with a singlestage procedure, when the patient is big enough and the intracardiac lesion is amenable for repair, it may require a staged approach.
+<details class="med-details"><summary>
+  
+#### 17. What are the most common techniques for repair of simple coarctation of the aorta?</summary><div class="details-content">
 
-#### *Adults*
+**Approach:** Left posterolateral thoracotomy (3rd or 4th intercostal space); lung retracted anteriorly; mediastinal pleura opened over descending thoracic aorta; LSCA, descending aorta, arch, collaterals dissected and controlled; PDA/ligamentum ligated and divided.
 
-- These tend to be highly complex scenarios, requiring a highly tailored multidisciplinary approach and integrated pathways in tertiary centres with colocated services.
-- They may require hybrid approaches, full arch and descending aortic reconstructions, often in staged procedures (Figure 15).
+**Techniques (Figures 16–18):**
 
-![](_page_18_Picture_6.jpeg)
-
-**Figure 15. Computed tomography 3D reconstruction images demonstrating complex coarctation of the aorta in adult patients: A) with a large collateral network and associated hypoplasia of the arch, making intravascular stenting challenging; and B) requiring concomitant aortic valve and ascending aortic surgery.**
-
-#### 17 **What are the most common techniques for repair of simple coarctation of the aorta?**
-
-- Following a left posterolateral thoracotomy through the 3rd or 4th intercostal space, the lung is retracted anteriorly and the mediastinal pleura is opened longitudinally over the descending thoracic aorta.
-- The left subclavian artery, descending thoracic aorta, aortic arch and collateral arteries are dissected free and controlled with elastic loops.
-- The patent ductus arteriosus or ligamentum must invariably be ligated and divided.
-
-• In cases of distal coarctation and in children referred late for surgery, a simple aortic coarctectomy can be performed. Clamps are positioned on the aortic arch and distal aorta. All ductal tissue is removed and an end-to-end anastomosis is completed with a continuous suture (Figure 16). Generally, this should take between minutes with no significant risk.
+**Simple coarctectomy + end-to-end anastomosis (Figure 16):**
+- For distal coarctation and children referred late
+- Clamps on aortic arch and distal aorta; remove all ductal tissue; end-to-end anastomosis with continuous suture (10–20 minutes, no significant risk)
 
 ![](_page_19_Picture_3.jpeg)
 
-**Figure 16. Resection and end-to-end anastomosis repair of coarctation of the aorta: A) incisions proximal and distal to the coarctation are made to remove all ductal tissue; B) anastomosis of the posterior wall with a continuous suture; C) anastomosis of the anterior wall with interrupted sutures.** *Reproduced with permission from Corno AF. Aortic coarctation. In: Congenital Heart Defects: Decision Making for Surgery. Volume 1. Common defects. Darmstadt, Germany: Steinkopff Verlag, 2003:.*
+**FIGURE 16.** Resection and end-to-end anastomosis: A) Incisions proximal and distal to coarctation remove all ductal tissue; B) Posterior wall anastomosis with continuous suture; C) Anterior wall with interrupted sutures. *Reproduced with permission from Corno AF.*
 
-• In neonates and small infants, the most utilised technique is an extended end-to-end anastomosis (Figure 17), which involves:
+**Extended end-to-end anastomosis (Figure 17) — most utilised in neonates/infants:**
+- Mobilise aortic arch completely and descending aorta to near diaphragm
+- Position proximal clamp between first two branches
+- Remove all ductal tissue
+- Extend incision along undersurface of arch to LCCA origin
+- Bevelled incision on descending aorta; long anastomosis with continuous sutures
 
 ![](_page_20_Figure_3.jpeg)
 
-**Figure 17. Repair of coarctation with an extended end-to-end anastomosis: A) all vessels are dissected, widely mobilised and looped; B) a proximal clamp is positioned over the left subclavian artery (LSCA) and left common carotid artery (LCCA) followed by division of the patent ductus arteriosus (PDA); C) all ductal tissue is removed; D) an incision is made on the undersurface of the aortic arch; E) the extended anastomosis is completed; F) the clamps are removed and the distal pulse is confirmed.** *Images courtesy of Mr. Antonio Ravaglioli, University Hospital Southampton, UK.*
+**FIGURE 17.** Extended end-to-end anastomosis: A) Vessels dissected, mobilised, looped; B) Proximal clamp over LSCA and LCCA, PDA divided; C) All ductal tissue removed; D) Incision on undersurface of arch; E) Extended anastomosis completed; F) Clamps removed, distal pulse confirmed. *Images courtesy of Mr. Antonio Ravaglioli.*
 
-- a) mobilising the aortic arch completely and the descending aorta to near the diaphragm;
-- b) positioning the proximal clamp between the first two branches;
-- c) removing all ductal tissue;
-- d) extending the incision along the undersurface of the arch to the level of the origin of the left common carotid artery;
-- e) making a bevelled incision on the descending aorta and completing a long anastomosis with continuous sutures.
-- In cases of coarctation with arch hypoplasia distal to the left subclavian artery, an antegrade subclavian flap is performed, which involves:
-  - a) dividing the left subclavian artery before the origin of the vertebral artery and opening the proximal stump longitudinally;
-  - b) extending the incision onto the dorsal part of the distal arch;
-  - c) removing all ductal tissue and the coarctation;
-  - d) anastomosing the flap onto the distal arch;
-  - e) performing an end-to-end or extended anastomosis (Figure 18).
-- In cases of coarctation with hypoplasia of the mid-arch (between the left common carotid artery and left subclavian artery), a reverse subclavian flap can be performed, which involves:
-  - a) mobilising the left subclavian artery (as above) carefully positioning the proximal clamp over the distal left common carotid artery and proximal arch;
-  - b) opening the proximal stump of the left subclavian artery longitudinally on its medial side and extending the incision on the dorsal aspect of the arch towards the left common carotid artery;
-  - c) augmenting the arch with the flap using a continuous suture;
-  - d) performing an extended end-to-end anastomosis.
-- Rarely, in the presence of complex or recurrent aortic coarctation or in the case of pseudocoarctation (aortic kinking without collateral circulation), a synthetic tubular prosthesis may be implanted between the ascending aorta (through an extended left thoracotomy) or the left subclavian artery (through a standard left thoracotomy) and the distal descending thoracic aorta.
-- If necessary, the main pulmonary artery can be accessed with a pericardial incision above the phrenic nerve and a band placed at its truncal level.
+**Antegrade subclavian flap (Figure 18) — for arch hypoplasia distal to LSCA:**
+- Divide LSCA before vertebral artery origin; open proximal stump longitudinally
+- Extend incision onto dorsal part of distal arch
+- Remove all ductal tissue and coarctation
+- Anastomose flap onto distal arch
+- Perform end-to-end or extended anastomosis
 
 ![](_page_22_Figure_2.jpeg)
 
-**Figure 18. Antegrade subclavian flap procedure: A) the left subclavian artery is dissected and divided; B) an incision is made on the artery proximal stump and the distal arch; C) the anastomosis is completed to enlarge the aortic isthmus.** *Reproduced with permission from Corno AF. Aortic coarctation. In: Congenital Heart Defects: Decision Making for Surgery. Volume 1. Common defects. Darmstadt, Germany: Steinkopff Verlag, 2003:.*
+**FIGURE 18.** Antegrade subclavian flap: A) LSCA dissected and divided; B) Incision on artery proximal stump and distal arch; C) Anastomosis completed to enlarge aortic isthmus. *Reproduced with permission from Corno AF.*
 
-#### 18 **What are the most common techniques for repair of complex coarctation with hypoplastic aortic arch?**
+**Reverse subclavian flap — for mid-arch hypoplasia (between LCCA and LSCA):**
+- Mobilise LSCA; position proximal clamp over distal LCCA and proximal arch
+- Open LSCA proximal stump longitudinally on medial side; extend incision on dorsal aspect of arch towards LCCA
+- Augment arch with flap using continuous suture
+- Perform extended end-to-end anastomosis
 
-• Diffuse hypoplasia of the arch requires an anterior approach, cardiopulmonary bypass, deep hypothermic circulatory arrest,
+**Synthetic tubular prosthesis — for complex/recurrent coarctation or pseudocoarctation:**
+- Implant between ascending aorta (via extended left thoracotomy) or LSCA (via standard left thoracotomy) and distal descending thoracic aorta
+
+**PA banding:** If necessary, access main PA via pericardial incision above phrenic nerve
+
+</div></details>
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+  
+## 8. Complex Coarctation Repair</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 16. What are the principles of surgery for complex coarctation of the aorta?</summary><div class="details-content">
+
+- **Proximal arch hypoplasia alone indicates anterior approach** — repair from the side will invariably fail to relieve proximal stenosis (Figure 14)
+
+![](_page_17_Picture_4.jpeg)
+
+**FIGURE 14.** Vascular clamp positioning during thoracotomy repair: A) Normal arch — proximal clamp anywhere preserving R brachiocephalic flow; B,C) Distal/mid-arch hypoplasia — clamp can still allow arch reconstruction; D) Proximal arch hypoplasia — not possible, circulatory support warranted.
+
+**Neonates, infants, children:**
+- Median sternotomy (access of choice)
+- Procedure on CPB, often with deep hypothermic circulatory arrest ± regional brain and coronary perfusion
+- Single-stage correction possible if patient big enough and intracardiac lesion amenable; may require staged approach
+
+**Adults:**
+- Highly complex scenarios; require tailored multidisciplinary approach in tertiary centres with colocated services
+- May require hybrid approaches, full arch and descending aortic reconstructions, often staged (Figure 15)
+
+![](_page_18_Picture_6.jpeg)
+
+**FIGURE 15.** CT 3D reconstruction: A) Complex coarctation with large collateral network and arch hypoplasia (stenting challenging); B) Requiring concomitant aortic valve and ascending aortic surgery.
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 18. What are the most common techniques for repair of complex coarctation with hypoplastic aortic arch?</summary><div class="details-content">
+
+**Diffuse arch hypoplasia requires (Figure 19):**
+- Anterior approach
+- Cardiopulmonary bypass
+- Deep hypothermic circulatory arrest
+- Regional perfusion with antegrade flow to cerebral and coronary circulation
+- Beating heart
+- LV vent may be necessary during cardiac activity with ascending aorta clamped
+
+**Reconstruction techniques (similar to interrupted aortic arch or Norwood procedure):**
+- Patches: homograft tissue, porcine pericardium, decellularised matrix
+
+**Total arch reconstruction with patch arterioplasty (Figure 19):**
+- Divide PDA and completely remove from descending aorta together with coarctation area
+- Long incision opens undersurface of arch onto ascending aorta
+- Anastomose posterior wall of distal arch and descending aorta
+- Implant appropriately shaped patch with continuous sutures along incised arch margins
+- Complete repair with patch closure after arch venting by retrograde filling
 
 ![](_page_23_Picture_4.jpeg)
 
-**Figure 19. Total aortic arch reconstruction with patch arterioplasty (the red dotted lines indicate the sites of incision and resection): A) the patent ductus arteriosus is divided and completely removed from the descending aorta together with the coarctation area. A long incision is used to open up the undersurface of the arch onto the ascending aorta; B) the posterior wall of the distal arch and descending aorta are anastomosed to create tissue continuity; C) an appropriately shaped patch is implanted with continuous sutures along the margins of the incised arch; D) the repair is completed with closure of the patch after venting of the arch by retrograde filling.**
+**FIGURE 19.** Total arch reconstruction with patch arterioplasty (red dotted lines = incision/resection sites). *Reproduced with permission from Corno AF.*
 
-- regional perfusion with antegrade flow to the cerebral and coronary circulation, and a beating heart.
-- A left ventricular vent may be necessary during the period of cardiac activity with clamping of the ascending aorta.
-- The reconstruction techniques are often similar to those used to repair interrupted aortic arch or during the Norwood procedure. Patches of homograft tissue, porcine pericardium and decellularised matrix are normally used (Figure 19).
-- When the ascending aorta is small (Shone's complex, low birth weight), antegrade flow can be provided with a side arm (generally a PTFE tube) to the right brachiocephalic artery.
-- In cases of severe coarctation, a second arterial arm can be used to perfuse the lower body via the ductus arteriosus until deep hypothermia is reached.
-- The complete exclusion of the aortic arch allows for a full reconstruction and the repair of additional anomalies, such as aberrant origin and course of the aortic branches.
-- Upon completion of the repair, while reperfusion and rewarming are carried out, the pulmonary artery can be banded. Alternatively, cardioplegic arrest can be obtained and intracardiac repairs can be completed.
+**Special considerations:**
+- Small ascending aorta (Shone's complex, low birth weight): side arm (PTFE tube) to R brachiocephalic artery for antegrade flow
+- Severe coarctation: second arterial arm to perfuse lower body via ductus until deep hypothermia reached
+- Complete exclusion of aortic arch allows full reconstruction and repair of additional anomalies (aberrant aortic branches)
+- Upon completion: while reperfusion/rewarming, PA banding can be performed; or cardioplegic arrest for intracardiac repairs
 
-#### 19 **What are the outcomes of surgery for coarctation of the aorta?**
+</div></details>
 
-- The surgical outcomes are generally good, especially in patients with isolated aortic coarctation.
-- Early mortality remains higher with:
-  - a) premature and low birth weight (<2.5kg) neonates;
-  - b) aortic arch hypoplasia;
-  - c) associated complex lesions;
-  - d) rare occurrence of the inability to reverse severe pre-operative shock and congestive heart failure.
-- Even in these groups of patients, there has been a marked reduction in mortality in recent years, mostly associated with improved perioperative care, particularly with the pre-operative stabilisation of the critical conditions of the neonates before surgery with a prostaglandin infusion, mechanical ventilation, correction of metabolic acidosis and inotropic support.
+</div></details>
 
-#### 20 **What are the potential surgical complications of surgery for coarctation of the aorta?**
+---
 
-- The most frequent postoperative complications include:
-  - a) pneumohaemothorax;
-  - b) recurrent laryngeal nerve injury;
-  - c) phrenic nerve palsy;
-  - d) chylothorax;
-  - e) bleeding;
-  - f) post-coarctectomy syndrome with paradoxical arterial hypertension, abdominal pain and mesentery (necrotising) vasculitis;
-  - g) residual or recurrent aortic coarctation (Figure 20).
+<details class="med-details"><summary>
+  
+## 9. Outcomes and Complications</summary><div class="details-content">
+
+<details class="med-details"><summary>
+  
+#### 19. What are the outcomes of surgery for coarctation of the aorta?</summary><div class="details-content">
+
+- **Generally good**, especially for isolated coarctation
+
+**Higher early mortality with:**
+- Premature and low birth weight (<2.5 kg) neonates
+- Aortic arch hypoplasia
+- Associated complex lesions
+- Inability to reverse severe pre-operative shock and CHF (rare)
+
+**Marked reduction in mortality in recent years** — mostly due to improved perioperative care (PGE₁ stabilisation, mechanical ventilation, acidosis correction, inotropic support)
+
+</div></details>
+
+<details class="med-details"><summary>
+  
+#### 20. What are the potential surgical complications of surgery for coarctation of the aorta?</summary><div class="details-content">
+
+**Most frequent:**
+- Pneumohaemothorax
+- Recurrent laryngeal nerve injury
+- Phrenic nerve palsy
+- Chylothorax
+- Bleeding
+- **Post-coarctectomy syndrome:** Paradoxical arterial hypertension, abdominal pain, mesenteric (necrotising) vasculitis
+- Residual or recurrent aortic coarctation (Figure 20)
 
 ![](_page_25_Figure_11.jpeg)
 
-**Figure 20. Echocardiographic images following an extended end-to-end repair of coarctation demonstrating: A) laminar flow across the arch with; B) a mild gradient on continuous wave Doppler interrogation, consistent with the mild residual narrowing in the mid-arch.** *Images courtesy of Dr. Tara Bharucha, University Hospital Southampton, UK.*
+**FIGURE 20.** Postoperative echocardiography after extended end-to-end repair: A) Laminar flow across arch; B) Mild gradient on CW Doppler (mild residual narrowing in mid-arch). *Images courtesy of Dr. Tara Bharucha.*
 
-- More infrequent complications include:
-  - a) left upper arm ischaemia (after subclavian flap);
-  - b) Horner's syndrome (after subclavian flap);
-  - c) paraplegia.
+**Infrequent:**
+- Left upper arm ischaemia (after subclavian flap)
+- Horner's syndrome (after subclavian flap)
+- Paraplegia
 
-#### 21 **What are the long-term outcomes and complications following surgery for coarctation of the aorta?**
+</div></details>
 
-- Overall, the late mortality depends on the age at the time of surgery and the resolution of the stenosis.
-- Late potential problems include recoarctation, inadequate growth of the aortic arch, aneurysmal formation and persistent arterial hypertension despite medical treatment.
-- About 80-90% of deaths at late follow-up are due to cardiovascular complications, including operation for recoarctation or aortic valve disease, ruptured aneurysm, infective endocarditis, myocardial infarction, stroke, subarachnoid haemorrhage, congestive heart failure or sudden death.
-- Overall survival following surgery in infants and children is better than in untreated patients. Survival curves for patients with aortic coarctation operated between 15 and 40 years of age show marked improvement compared to the natural history, with the best cases approaching the natural history of the normal population.
-- In patients operated after 40 years of age, the survival curves also show a substantial improvement on the natural history but less dramatic when compared to earlier interventions.
+<details class="med-details"><summary>
+  
+#### 21. What are the long-term outcomes and complications following surgery for coarctation of the aorta?</summary><div class="details-content">
 
-#### **Recommended reading**
+- Late mortality depends on **age at surgery** and **resolution of stenosis**
 
-- 1. Campbell M. Natural history of coarctation of the aorta. \_ê eÉ~êí g 1970; 32: 633.
-- 2. Corno AF, Botta U, Hurni M, Payot M, Sekarski N, Tozzi P, von Segesser LK. Surgery for aortic coarctation: a 30 years experience. bìê g `~êÇáçíÜçê~Å pìêÖ 2001; 20:.
-- 3. Corno AF. Aortic coarctation. In: `çåÖÉåáí~ä eÉ~êí aÉÑÉÅíëK aÉÅáëáçå j~âáåÖ Ñçê pìêÖÉêóK Volume 1. Common defects. Darmstadt, Germany: Steinkopff Verlag, 2003:.
-- 4. Corno AF, Festa P. Aortic coarctation. In: `çåÖÉåáí~ä eÉ~êí aÉÑÉÅíëK aÉÅáëáçå j~âáåÖ Ñçê pìêÖÉêó. Volume 3. CT scan and MRI. Darmstadt, Germany: Steinkopff Verlag, 2009:.
-- 5. Gross RE. Surgical correction for coarctation of the aorta. pìêÖÉêó 1945; 18: 673.
-- 6. Hoffman JIE. Aortic coarctation. In: qÜÉ k~íìê~ä ~åÇ råå~íìê~ä eáëíçêó çÑ `çåÖÉåáí~ä eÉ~êí aáëÉ~ëÉ. Oxford, UK: Wiley-Blackwell, 2009, 28:.
-- 7. Sakurai T, Stickley J, Stumper O, Khan N, Jones TJ, Barron DJ, Brawn WJ. Repair of isolated aortic coarctation over two decades: impact of surgical approach and associated arch hypoplasia. fåíÉê~Åí `~êÇáçî~ëÅ qÜçê~Å pìêÖ 2012; 15:.
-- 8. St Louis JD, Harvey BA, Menk JS, O'Brien JE, Kochilas LK. Mortality and operative management for patients undergoing repair of coarctation of the aorta: a retrospective review of the pediatric cardiac care consortium. tçêäÇ g mÉÇá~íê `çåÖÉåáí eÉ~êí pìêÖ 2015; 6:.
+**Late potential problems:**
+- Recoarctation
+- Inadequate growth of aortic arch
+- Aneurysm formation
+- Persistent arterial hypertension despite medical treatment
+
+**Late mortality:**
+- **80–90%** of deaths at late follow-up due to cardiovascular complications:
+  - Operation for recoarctation or aortic valve disease
+  - Ruptured aneurysm
+  - Infective endocarditis
+  - Myocardial infarction
+  - Stroke
+  - Subarachnoid haemorrhage
+  - Congestive heart failure
+  - Sudden death
+
+**Survival:**
+- Surgery in infants and children → better than untreated patients
+- Patients operated between 15–40 years → marked improvement (best cases approach normal population)
+- Patients operated after 40 years → substantial improvement but less dramatic than earlier interventions
+
+</div></details>
+
+</div></details>
