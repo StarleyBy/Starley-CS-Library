@@ -245,6 +245,36 @@ footer {
         margin: 0.5rem 0;
         text-align: center;
     }
+
+    .neon-info {
+        padding: 6px 6px 8px;
+        min-height: 50px;
+    }
+
+    .book-title {
+        font-size: 0.72rem;
+        line-height: 1.2;
+        margin: 0 0 3px 0;
+    }
+
+    .book-authors {
+        font-size: 0.62rem;
+        line-height: 1.15;
+    }
+}
+
+@media (max-width: 480px) {
+    .neon-info {
+        padding: 5px 5px 7px;
+    }
+
+    .book-title {
+        font-size: 0.68rem;
+    }
+
+    .book-authors {
+        font-size: 0.58rem;
+    }
 }
 
 .loading {
