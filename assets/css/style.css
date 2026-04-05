@@ -848,21 +848,6 @@ a[data-back="true"]:active {
     -webkit-line-clamp: 3;
 }
 
-.book-authors {
-    font-size: 0.82rem;
-    color: #7f8c8d;
-    line-height: 1.3;
-    margin: 0;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    text-overflow: ellipsis;
-    white-space: normal;
-    word-break: break-word;
-    hyphens: auto;
-}
-
 .version-badges {
     position: absolute;
     top: 8px;
@@ -1141,4 +1126,38 @@ a[data-back="true"]:active {
 
 .book-cover-wrapper {
     position: relative;
+}
+
+/* ─── Мобильные переопределения — ДОЛЖНЫ БЫТЬ В КОНЦЕ ФАЙЛА ─── */
+@media (max-width: 768px) {
+    .neon-info {
+        padding: 6px 6px 8px;
+        min-height: unset;
+    }
+
+    .book-title {
+        font-size: 0.75rem !important;
+        line-height: 1.25 !important;
+        -webkit-line-clamp: 3 !important;
+        max-height: none !important;
+    }
+
+    .book-authors {
+        font-size: 0.65rem !important;
+        line-height: 1.2 !important;
+        display: block !important;
+        overflow: visible !important;
+        -webkit-line-clamp: unset !important;
+        max-height: none !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .book-title {
+        font-size: 0.7rem !important;
+    }
+
+    .book-authors {
+        font-size: 0.62rem !important;
+    }
 }
