@@ -1,4 +1,4 @@
-# Chapter 2: Hypothermia, Circulatory Arrest, and Cardiopulmonary Bypass
+# Hypothermia, Circulatory Arrest, and Cardiopulmonary Bypass
 
 <details class="med-details"><summary>
   
