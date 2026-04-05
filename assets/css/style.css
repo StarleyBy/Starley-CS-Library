@@ -251,29 +251,21 @@ footer {
         min-height: 50px;
     }
 
+    /* На мобиле разрешаем 3 строки для названия */
     .book-title {
-        font-size: 0.72rem;
-        line-height: 1.2;
+        font-size: 0.75rem;
+        line-height: 1.25;
         margin: 0 0 3px 0;
+        -webkit-line-clamp: 3;
     }
 
+    /* Авторов не обрезаем — пусть переносятся на столько строк, сколько нужно */
     .book-authors {
-        font-size: 0.62rem;
-        line-height: 1.15;
-    }
-}
-
-@media (max-width: 480px) {
-    .neon-info {
-        padding: 5px 5px 7px;
-    }
-
-    .book-title {
-        font-size: 0.68rem;
-    }
-
-    .book-authors {
-        font-size: 0.58rem;
+        font-size: 0.65rem;
+        line-height: 1.2;
+        display: block;
+        -webkit-line-clamp: unset;
+        overflow: visible;
     }
 }
 
