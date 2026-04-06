@@ -43,7 +43,7 @@
 
 Accurate description and diagnosis of acquired heart disease and congenital heart defects (for the latter, see Chapter 26) depend in part on identifying cardiac chambers and major vessels by their morphology, regardless of their spatial positions (Fig. 1.1).
 
-![](_page_1_Picture_9.jpeg)
+![](_page_1_Picture_3.jpeg)
 
 **• Figure 1.1** Surface anatomy of heart. Left atrial appendage is long and narrow, whereas right atrial appendage is short and blunt. Aorta originates posterior and to the right of the pulmonary trunk at the base of the heart but is anterior and to the right by the pericardial reflection (not shown). Right ventricle occupies most of anterior aspect of heart, with left ventricle forming the apex and posterior aspects.
 
@@ -53,11 +53,11 @@ Accurate description and diagnosis of acquired heart disease and congenital hear
 
 The right atrium (Fig. 1.2) is the heart chamber that normally receives systemic venous drainage from inferior and superior venae cavae. It also normally receives the major portion of coronary venous drainage from the coronary sinus. Morphologic characteristics important for identifying the right atrium are presence of the limbus of the fossa ovalis, which surrounds the valve of the fossa ovalis (*septum primum*) superiorly, anteriorly, and posteriorly; a wide-based, blunt-ended, right-sided atrial appendage (*auricle*); eustachian valve at the orifice of the inferior vena cava and thebesian valve at the orifice of the coronary sinus; and crista terminalis, which separates trabeculated from nontrabeculated (venous) portions of the atrium (Fig. 1.3).
 
-![](_page_2_Picture_2.jpeg)
+![](_page_1_Picture_9.jpeg)
 
 **• Figure 1.2** Interior of normal right atrium, viewed from right side at operation. *AA,* Atrial appendage; *AnMV,* position of mitral valve anulus on other side of septum, indicated by dotted line; *AnTV,* anulus of tricuspid valve, indicated by dotted line; *ASCTV,* anteroseptal commissure of tricuspid valve; *CS,* coronary sinus orifice; *CT,* crista terminalis (inside of sulcus terminalis); *EuV,* eustachian valve; *FO,* fossa ovalis (sometimes called *septum primum*); *IVC,* inferior vena cava orifice; *LFO,* limbus of fossa ovalis (C-shaped, extending anteriorly and posteriorly to enclose fossa ovalis); *SLTV,* septal leaflet of tricuspid valve; *SVC,* superior vena cava orifice; *ThV,* thebesian valve; *TT,* tendon of Todaro; *X,* muscular portion of atrioventricular septum; *Z,* membranous portion of atrioventricular septum.
 
-![](_page_2_Picture_4.jpeg)
+![](_page_2_Picture_2.jpeg)
 
 **• Figure 1.3** Interior of right atrium, oriented as at operation. Right atrium receives superior and inferior venae cavae. Its trabeculated portion is separated from its smooth portion by the crista terminalis. Fossa ovalis is located in center of atrial septum, surrounded on its superior, anterior, and posterior aspects by the limbus. Coronary sinus is positioned inferiorly. Coronary sinus, along with tendon of Todaro and anulus of septal leaflet of tricuspid valve, form the boundaries of triangle of Koch. Atrioventricular node and proximal portions of bundle of His, portions of the specialized conduction system, lie within the triangle of Koch. Right coronary artery lies in atrioventricular groove, the anatomic point of separation of right atrium and right ventricle.
 
