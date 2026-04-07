@@ -1,20 +1,41 @@
-# Chapter
-
 # 5 CISTERNA CHYLI AND THORACIC DUCT
 
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Cisterna Chyli
+* **Location:** Typically between the distal thoracic/upper abdominal aorta and azygos vein in the right posterior mediastinum or retrocrural space, posterior to the right diaphragmatic crus.
+* **Tributaries:** Receives lymph from right and left lumbar lymphatic trunks, intestinal lymphatic trunk, and inferior intercostal lymph nodes.
+* **Clinical note:** Inconsistently visualized on thoracic CT; well seen in this patient.
+
+### Thoracic Duct
+* **Origin and course:** Arises from cisterna chyli; ascends in posterior mediastinum, usually on the right side of midline adjacent to azygos vein and posterior to esophagus.
+* **Midline crossing:** Typically crosses to the left of midline at approximately the level of the 5th thoracic vertebral body (may occur more inferiorly).
+* **Termination:** Empties into the junction of the left subclavian and left internal jugular veins; drains lymph from the entire body except the right head/neck, right thorax, and right arm.
+* **Imaging appearance:** Not always visible on CT but clearly demonstrated here; courses adjacent to azygos vein and descending thoracic aorta.
+
+### Coronal Anatomy Correlation
+* **Key relations:** Seen to the left of midline superiorly, crossing midline inferiorly; close proximity to esophagus, azygos vein, and descending thoracic aorta throughout its course.
+* **Surgical/clinical relevance:** Critical landmark for thoracic duct injuries, chylothorax, and lymphatic drainage pathways.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT AXIAL 1</summary><div class="details-content">
+
 ![](_page_0_Picture_2.jpeg)
-
-AXIAL 190
-
-![](_page_0_Picture_4.jpeg)
-
-CORONAL 200
 
 ![](_page_1_Picture_1.jpeg)
 
 A normal structure is shown—the cisterna chyli—which is inconsistently seen on clinical thoracic CT scans. The cisterna chyli is typically located between the distal thoracic or upper abdominal aorta and azygos vein in the right posterior mediastinum or retrocrural space, posterior to the right diaphragmatic crus. The cisterna chyli receives lymph from the right and left lumbar lymphatic trunks, the intestinal lymphatic trunk, and the inferior intercostal lymph nodes. The cisterna chyli gives rise to the thoracic duct, whose course will be shown on subsequent images.
 
-## **Cisterna Chyli/Thoracic Duct Axial 1**
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT AXIAL 2</summary><div class="details-content">
 
 ![](_page_2_Picture_1.jpeg)
 
@@ -24,7 +45,11 @@ A normal structure is shown—the cisterna chyli—which is inconsistently seen 
 
 The thoracic duct is not always visible on thoracic CT scans, but is well seen in this patient. The thoracic duct originates from the cisterna chyli and ascends within the posterior mediastinum. The thoracic duct is well visualized adjacent to the azygos vein, posterior to the esophagus. Caudally, it usually ascends on the right side, often crossing to the left of midline at approximately the level of the 5th thoracic vertebral body. In this patient, the thoracic duct crossed midline at a more inferior level than is typically seen.
 
-## **Cisterna Chyli/Thoracic Duct Axial 2**
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT AXIAL 3</summary><div class="details-content">
 
 ![](_page_4_Picture_1.jpeg)
 
@@ -34,7 +59,11 @@ The thoracic duct is not always visible on thoracic CT scans, but is well seen i
 
 The thoracic duct is again seen coursing within the posterior mediastinum adjacent to the azygos vein and descending thoracic aorta and posterior to the esophagus.
 
-# CISTERNA CHYLI/THORACIC DUCT AXIAL 3
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT AXIAL 4</summary><div class="details-content">
 
 ![](_page_6_Picture_1.jpeg)
 
@@ -44,7 +73,11 @@ The thoracic duct is again seen coursing within the posterior mediastinum adjace
 
 At the level of the aortic arch at the cranial aspect of the azygos vein, the thoracic duct is again seen to the left of midline, posterior to the esophagus.
 
-## **Cisterna Chyli/Thoracic Duct Axial 4**
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT AXIAL 5</summary><div class="details-content">
 
 ![](_page_8_Picture_1.jpeg)
 
@@ -54,7 +87,13 @@ At the level of the aortic arch at the cranial aspect of the azygos vein, the th
 
 Within the superior mediastinum, the thoracic duct is visible to the left of midline. The thoracic duct courses cranially and eventually empties into the junction of the left subclavian and left internal jugular veins. The thoracic duct drains lymph from the entire body except for the right head and neck, right thorax, and right arm.
 
-# CISTERNA CHYLI/THORACIC DUCT AXIAL 5
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT CORONAL 1</summary><div class="details-content">
+
+![](_page_0_Picture_4.jpeg)
 
 ![](_page_10_Picture_1.jpeg)
 
@@ -64,6 +103,12 @@ Within the superior mediastinum, the thoracic duct is visible to the left of mid
 
 This coronal image, and those that follow, accompanies Cisterna Chyli/Thoracic Duct Axial 1-5 above and shows the position of the *cisterna chyli* and course of the *thoracic duct* in the coronal plane. The thoracic duct is not always visible on thoracic CT scans, but is well seen in this patient. The thoracic duct originates from the cisterna chyli and ascends within the posterior mediastinum. In this image, the thoracic duct is well visualized to the left of midline, in proximity to the azygos vein. The thoracic duct usually ascends on the right side, often crossing to the left of midline at approximately the level of the 5th thoracic vertebral body.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT CORONAL 2</summary><div class="details-content">
+
 ![](_page_12_Picture_1.jpeg)
 
 ![](_page_12_Picture_2.jpeg)
@@ -71,6 +116,12 @@ This coronal image, and those that follow, accompanies Cisterna Chyli/Thoracic D
 ![](_page_13_Picture_1.jpeg)
 
 The thoracic duct is again seen coursing within the posterior mediastinum to the left of midline superiorly, in close proximity to the esophagus. Inferiorly, the thoracic duct is again visible medial to the azygos vein as it is crossing midline from right to left.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT CORONAL 3</summary><div class="details-content">
 
 ![](_page_14_Picture_1.jpeg)
 
@@ -80,6 +131,12 @@ The thoracic duct is again seen coursing within the posterior mediastinum to the
 
 Slightly anterior to the two preceding views, the thoracic duct is shown on both sides of midline, to the right inferiorly and to the left superiorly.
 
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT CORONAL 4</summary><div class="details-content">
+
 ![](_page_16_Picture_1.jpeg)
 
 ![](_page_16_Picture_2.jpeg)
@@ -87,6 +144,12 @@ Slightly anterior to the two preceding views, the thoracic duct is shown on both
 ![](_page_17_Picture_1.jpeg)
 
 Still slightly more anteriorly located than preceding views, portions of the central pulmonary arteries and veins are shown. At this level, the thoracic duct is seen inferiorly, to the right of midline, adjacent to the descending thoracic aorta.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT CORONAL 5</summary><div class="details-content">
 
 ![](_page_18_Picture_1.jpeg)
 
@@ -96,7 +159,11 @@ Still slightly more anteriorly located than preceding views, portions of the cen
 
 The left superior pulmonary vein is shown as it enters the left atrium. The cisterna chyli is now visible posteriorly on the right at the thoracoabdominal junction. The cranial portion of the thoracic duct is visible to the left of midline, adjacent to the esophagus and thoracic aorta.
 
-# CISTERNA CHYLI/THORACIC DUCT CORONAL 5
+</div></details>
+
+<details class="med-details"><summary>
+
+## CISTERNA CHYLI/THORACIC DUCT CORONAL 8</summary><div class="details-content">
 
 ![](_page_20_Picture_1.jpeg)
 
@@ -122,8 +189,6 @@ Again, the cranial portion of the thoracic duct is shown in close proximity to t
 
 This view, anteriorly located relative to preceding views, shows the cranial portion of the thoracic duct adjacent to the esophagus, cranial to the thoracic aortic arch.
 
-# CISTERNA CHYLI/THORACIC DUCT CORONAL 8
-
 ![](_page_26_Picture_1.jpeg)
 
 ![](_page_26_Picture_2.jpeg)
@@ -135,3 +200,5 @@ The most anteriorly positioned of the preceding views, detailing the course of t
 ![](_page_28_Picture_1.jpeg)
 
 ![](_page_28_Picture_2.jpeg)
+
+</div></details>
