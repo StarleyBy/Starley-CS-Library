@@ -1,40 +1,44 @@
-### SEPTAL DEFECTS
+# Lesions with normal segmental connections
 
-Understanding the anatomy of septal defects is greatly facilitated if the heart is thought of as having three distinct septal structures: the atrial septum. the atrioventricular septum, and the ventricular septum (Figure 7.1). The normal atrial septum is relatively small. It is made up, for the most part, by the floor of the oval fossa. When viewed from the right atrial aspect, the fossa has a floor, surrounded by rims. The floor is derived from the primary atrial septum, or septum primum. Although often considered to represent a secondary septum, or septum secundum, the larger parts of the rims, specifically the superior, anterosuperior, and posterior components, are formed by infoldings of the adjacent right and left atrial walls. Inferoanteriorly, in contrast, the rim of the fossa is a true muscular septum (Figure 7.2). This part of the rim is contiguous with the atrioventricular septum, which is the superior component of the fibrous membranous septum. In the normal heart, this fibrous septum is also contiguous with the atrial wall of the
+<details class="med-details"><summary>
+  
+## SEPTAL DEFECTS</summary><div class="details-content">
 
-triangle of Koch (Figure 7.3). In the past, we considered this component of the atrial wall, which overlaps the upper part of the ventricular musculature between the attachments of the leaflets of the tricuspid and mitral valves, as the muscular atrioventricular septum. As we discussed in Chapter 2, we now know that it is better viewed as a sandwich<sup>1</sup>. This is because, throughout the floor of the triangle of Koch, the fibroadipose tissue of the inferior atrioventricular groove separates the layers of atrial and ventricular myocardium (Figure 7.4). From the stance of understanding septal defects, nonetheless, it is helpful to consider the entire area comprising the fibrous septum and the muscular sandwich as an atrioventricular separating structure, as it is absent in the hearts we describe as having atrioventricular septal defects.
-
-The ventricular septum is usually seen by the surgeon only from its right ventricular aspect. For this and other reasons we will discuss, holes between the ventricles are best considered in terms of their right ventricular landmarks. Taken overall, the ventricular septum is made up of a small fibrous element, specifically the interventricular part of the membranous septum, and a much larger muscular part. The muscular part. which is significantly curved, is more complex geometrically than the other septal structures, which lie almost completely in the coronal plane. At first sight, it seems possible to divide the muscular septum into inlet, apical trabecular, and outlet components, each of these parts seemingly corresponding with the components of the right ventricle, and abutting centrally on the membranous septum (Figure 7.5). Closer inspection shows that such analysis is simplistic. By virtue of the deeply wedged location of the subaortic outflow tract, much of the septum delimited on the right ventricular aspect by the septal leaflet of the tricuspid valve separates the inlet of the right ventricle from the outlet of the left (Figure 7.6). The muscular wall forming the back of the subpulmonary infundibulum is, at first sight, an outlet septum. Only a small part of this wall, however, interposes between the cavities of the right and left ventricles. This is because most of the subpulmonary infundibulum is a freestanding muscular sleeve, which forms part
-
+Understanding the anatomy of septal defects is greatly facilitated if the heart is thought of as having three distinct septal structures: the atrial septum. the atrioventricular septum, and the ventricular septum (**Figure 7.1**). 
+  
 ![](_page_0_Picture_7.jpeg)
 
-**Fig. 7.1** The four-chamber section through the heart, in anatomical orientation, shows the atrial and ventricular septal components, along with the location of the muscular structures that separate the cavities of the right atrium and left ventricle. We had previously considered the latter area to be an atrioventricular (AV) muscular septum. We now recognise it to be a sandwich of fibroadipose tissue, located between the layers of atrial and ventricular musculature (see Figure 7.3). It is this area that is deficient in the setting of a common atrioventricular junction. Note also that the superior rim of the oval fossa (arrow) is an infolding between the right and left atrial walls.
-
+**Fig. 7.1** The four-chamber section through the heart, in anatomical orientation, shows the atrial and ventricular septal components, along with the location of the muscular structures that separate the cavities of the right atrium and left ventricle. We had previously considered the latter area to be an atrioventricular (AV) muscular septum. We now recognise it to be a sandwich of fibroadipose tissue, located between the layers of atrial and ventricular musculature (see **Figure 7.3**). It is this area that is deficient in the setting of a common atrioventricular junction. Note also that the superior rim of the oval fossa (arrow) is an infolding between the right and left atrial walls.
+  
+<details class="med-details"><summary>
+  
+### Normal atrial septum</summary><div class="details-content">
+  
+The normal atrial septum is relatively small. It is made up, for the most part, by the floor of the oval fossa. When viewed from the right atrial aspect, the fossa has a floor, surrounded by rims. The floor is derived from the primary atrial septum, or septum primum. Although often considered to represent a secondary septum, or septum secundum, the larger parts of the rims, specifically the superior, anterosuperior, and posterior components, are formed by infoldings of the adjacent right and left atrial walls. Inferoanteriorly, in contrast, the rim of the fossa is a true muscular septum (**Figure 7.2**). This part of the rim is contiguous with the atrioventricular septum, which is the superior component of the fibrous membranous septum. In the normal heart, this fibrous septum is also contiguous with the atrial wall of the **triangle of Koch** (**Figure 7.3**). In the past, we considered this component of the atrial wall, which overlaps the upper part of the ventricular musculature between the attachments of the leaflets of the tricuspid and mitral valves, as the muscular atrioventricular septum. As we discussed in **Chapter 2**, we now know that it is better viewed as a sandwich. This is because, throughout the floor of the triangle of Koch, the fibroadipose tissue of the inferior atrioventricular groove separates the layers of atrial and ventricular myocardium (**Figure 7.4**). From the stance of understanding septal defects, nonetheless, it is helpful to consider the entire area comprising the fibrous septum and the muscular sandwich as an atrioventricular separating structure, as it is absent in the hearts we describe as having atrioventricular septal defects.
+  
 ![](_page_1_Picture_2.jpeg)
 
-Sup. Fig. 7.2 The heart has been sectioned in the four-chamber plane, showing that the superior rim of the oval fossa is a deep infolding (arrow) between the origin of the superior caval vein from the right atrium (red star), and the entry of the right superior pulmonary vein into the left atrium (white star). It is the floor of the oval fossa, along with the anteroinferior muscular buttress, which are the components of the atrial septum.
+**Fig. 7.2** The heart has been sectioned in the four-chamber plane, showing that the superior rim of the oval fossa is a deep infolding (arrow) between the origin of the superior caval vein from the right atrium (red star), and the entry of the right superior pulmonary vein into the left atrium (white star). It is the floor of the oval fossa, along with the anteroinferior muscular buttress, which are the components of the atrial septum.
 
 ![](_page_1_Picture_4.jpeg)
 
-Fig. 7.3 The surgical view, through a right atriotomy, shows the landmarks of the triangle of Koch (triangle). This area is the atrial aspect of the muscular atrioventricular sandwich. Note that this patient also has a defect within the oval fossa.
-
-of the supraventricular crest (Figure 7.7). The small septal component interposing between the ventricular outlets is inextricably linked with the more extensive component of the crest, the
-
-ventriculoinfundibular fold, or inner heart curvature (Figure 7.8). It is the muscular wall separating the apical trabecular components, therefore, which forms the greater part of the muscular ventricular
-
-septum. This part extends to the apex in curvilinear fashion, reflecting the interrelationships of the banana-shaped right ventricle and the conical left ventricle. Reinforcing the right ventricular aspect of
+**Fig. 7.3** The surgical view, through a right atriotomy, shows the landmarks of the triangle of Koch (triangle). This area is the atrial aspect of the muscular atrioventricular sandwich. Note that this patient also has a defect within the oval fossa.
 
 ![](_page_2_Picture_2.jpeg)
 
-Fig. 7.4 This four-chamber section of a normal heart, taken across the floor of the triangle of Koch, illustrates the differential attachments of the atrioventricular valves (arrows). Note the adipose tissue interposed between the right atrial wall and the crest of the ventricular septum, which forms the 'meat' in the atrioventricular muscular sandwich.
+**Fig. 7.4** This four-chamber section of a normal heart, taken across the floor of the triangle of Koch, illustrates the differential attachments of the atrioventricular valves (arrows). Note the adipose tissue interposed between the right atrial wall and the crest of the ventricular septum, which forms the 'meat' in the atrioventricular muscular sandwich.
+</div>
+</details>
+  
+<details class="med-details"><summary>
+  
+### Ventricular septum</summary><div class="details-content">
+  
+The ventricular septum is usually seen by the surgeon only from its right ventricular aspect. For this and other reasons we will discuss, holes between the ventricles are best considered in terms of their right ventricular landmarks. Taken overall, the ventricular septum is made up of a small fibrous element, specifically the interventricular part of the membranous septum, and a much larger muscular part. The muscular part. which is significantly curved, is more complex geometrically than the other septal structures, which lie almost completely in the coronal plane. At first sight, it seems possible to divide the muscular septum into inlet, apical trabecular, and outlet components, each of these parts seemingly corresponding with the components of the right ventricle, and abutting centrally on the membranous septum (**Figure 7.5**). Closer inspection shows that such analysis is simplistic. By virtue of the deeply wedged location of the subaortic outflow tract, much of the septum delimited on the right ventricular aspect by the septal leaflet of the tricuspid valve separates the inlet of the right ventricle from the outlet of the left (**Figure 7.6**). The muscular wall forming the back of the subpulmonary infundibulum is, at first sight, an outlet septum. Only a small part of this wall, however, interposes between the cavities of the right and left ventricles. This is because most of the subpulmonary infundibulum is a freestanding muscular sleeve, which forms part of the supraventricular crest (**Figure 7.7**). The small septal component interposing between the ventricular outlets is inextricably linked with the more extensive component of the crest, the ventriculoinfundibular fold, or inner heart curvature (**Figure 7.8**). It is the muscular wall separating the apical trabecular components, therefore, which forms the greater part of the muscular ventricular septum. This part extends to the apex in curvilinear fashion, reflecting the interrelationships of the banana-shaped right ventricle and the conical left ventricle. Reinforcing the right ventricular aspect of this part of the septum is the septomarginal trabeculation, or septal band. This muscular strap has a body and limbs, the latter extending to the base of the heart to clasp the supraventricular crest. A series of septoparietal trabeculations extend from its anterocephalad surface and reach the parietal ventricular wall. One of these, the moderator band, is particularly prominent. It crosses from the septomarginal trabeculation to join the anterior papillary muscle (**Figure 7.9**).
 
 ![](_page_2_Picture_4.jpeg)
 
-Fig. 7.5 The dissection, seen in anatomical orientation, shows how the ventricular septum can be separated from the remainder of the heart, and divided into fibrous and muscular parts. The muscular part has been further divided into segments corresponding to the components of the right ventricle. Apart from the apical part, however, these parts of the right ventricle do not correlate with comparable components on the left side of the heart.
-
-this part of the septum is the septomarginal trabeculation, or septal band. This muscular strap has a body and limbs, the latter extending to the base of the heart to clasp the supraventricular crest. A series of septoparietal trabeculations extend from its anterocephalad surface and reach the parietal ventricular wall. One of these, the
-
-moderator band, is particularly prominent. It crosses from the septomarginal trabeculation to join the anterior papillary muscle (Figure 7.9).
+**Fig. 7.5** The dissection, seen in anatomical orientation, shows how the ventricular septum can be separated from the remainder of the heart, and divided into fibrous and muscular parts. The muscular part has been further divided into segments corresponding to the components of the right ventricle. Apart from the apical part, however, these parts of the right ventricle do not correlate with comparable components on the left side of the heart.
 
 ![](_page_3_Picture_2.jpeg)
 
@@ -51,131 +55,101 @@ moderator band, is particularly prominent. It crosses from the septomarginal tra
 ![](_page_4_Figure_4.jpeg)
 
 **Fig. 7.9** The septal surface of the right ventricle has been displayed by making a window in the anterior wall to show the septomarginal trabeculation, or septal band (black Y). The supraventricular crest inserts between its basal limbs. The moderator band takes origin from the apical part of its body, crossing the cavity of the ventricle to become continuous with the anterior papillary muscle. The band is but one of a series of septoparietal trabeculations that arise from the anterior margin of the major septomarginal trabeculation.
+</div>
+</details>
 
-### Interatrial communications
-
-There are several lesions that permit interatrial shunting (Figure 7.10). Although collectively termed atrial septal defects, not all are within the confines of
-
-the normal atrial septum<sup>1</sup>. Only the holes within the floor of the oval fossa<sup>2</sup>, and the much more rare vestibular defects found within the muscular anteroinferior buttress<sup>3</sup>, are true
-
-deficiencies of the septal components (Figure 7.2). The ostium primum defect is the consequence of deficient atrioventricular septation. Its cardinal feature is the commonality of the
+<details class="med-details"><summary>
+  
+### Interatrial communications</summary><div class="details-content">
+  
+There are several lesions that permit interatrial shunting (**Figure 7.10**). Although collectively termed atrial septal defects, not all are within the confines of the normal atrial septum. Only the holes within the floor of the oval fossa, and the much more rare vestibular defects found within the muscular anteroinferior buttress, are true deficiencies of the septal components (**Figure 7.2**). The **ostium primum defect** is the consequence of deficient atrioventricular septation. Its cardinal feature is the commonality of the atrioventricular junction. It will be considered in our next section. **Sinus venosus defects**, representing an anomalous connection of a pulmonary vein, which has retained its left atrial connection, are found at the mouths of the caval veins. The rare defect found at the mouth of the coronary sinus is the consequence of the disappearance of the muscular walls that usually separate the component of the coronary sinus running through the left atrioventricular junction from the cavity of the left atrium.
 
 ![](_page_5_Picture_2.jpeg)
 
 **Fig. 7.10** The cartoon shows the various holes that permit interatrial shunting. Only the holes in the oval fossa and the rare vestibular defects are true deficiencies of atrial septal structures.
 
-atrioventricular junction<sup>4</sup>. It will be considered in our next section. Sinus venosus defects, representing an anomalous connection of a pulmonary vein, which has retained its left atrial connection<sup>5</sup>, are found at the mouths of the caval veins<sup>5–8</sup>. The rare defect found at the mouth of the coronary sinus is the consequence of the disappearance of the muscular walls that usually separate the component of the coronary sinus running through the left atrioventricular junction from the cavity of the left atrium<sup>9</sup>.
-
-Defects within the oval fossa are often called secundum defects. Because they represent persistence of the secondary atrial foramen, rather than deficiencies of the secondary atrial septum, they should properly be called ostium secundum defects. We prefer to consider them as defects within the oval fossa. They are, by far, the most common type of interatrial communication. They can be caused by deficiency (Figure 7.11), perforation (Figure 7.12), or absence (Figure 7.13) of the floor of the fossa. The floor is formed by the flap valve of the oval foramen, itself derived from the primary atrial septum. When the haemodynamics of the shunt across such a defect dictate surgical closure, the hole is rarely likely to be small enough
-
-to permit direct suture. Now, all but very large defects within the oval fossa are likely to be closed by the interventional cardiologist. If attempts are made to close, directly, defects large enough to justify surgical intervention, the results may so distort atrial anatomy as to result in dehiscence. Irrespective of the size of the septal deficiency, it is always possible to secure a patch to the margins of the oval fossa. When placing sutures, the likeliest potential danger relative to the rims is to the artery supplying the sinus node (Figure 7.14). This artery can course intramyocardially through the anterior margin of the oval fossa, or lie deep within the superior interatrial fold. There is also a remote chance of damaging the aorta when placing stitches anteriorly, as this part of the rim is related on its epicardial aspect to the aortic root (Figures 7.14, 7.15). On occasion, deficiency of the posteroinferior rims of the oval fossa permits holes within the fossa to extend into the mouth of the inferior caval vein (Figure 7.16). In these circumstances, care must be taken not to mistake a well-formed Eustachian valve for the posteroinferior margin of the defect. A patch attached to the Eustachian valve would connect the inferior caval vein to the left atrium. It is always prudent, therefore,
-
-to ensure continuity of the inferior caval vein and right atrium following placement of a patch used to close a deficiency of the floor of the oval fossa.
-
-Sinus venosus defects are more rare than defects within the oval fossa, and present greater problems in repair. The defect adjacent to the inferior caval vein (Figure 7.17) is relatively rare<sup>5</sup>. It opens into the mouth of the inferior caval vein posterior to the confines of the oval fossa. Usually the fossa itself is intact, but it can be deficient or probe patent. The essence of the defect is an anomalous connection of the right inferior pulmonary vein to the inferior caval vein, the pulmonary vein retaining its left atrial connection<sup>5</sup>. It is much more frequent to find sinus venosus defects adjacent to the mouth of the superior caval vein<sup>6,8</sup>. These defects, again, are due to an anomalous connection of one or more of the right pulmonary veins to the superior caval vein, the pulmonary veins retaining their left atrial connection<sup>6</sup>. The defects are outside the confines of the oval fossa, and hence are interatrial communications rather than atrial septal defects (Figure 7.18)<sup>1,2</sup>.
-
-When sinus venosus defects are found in relation to the superior caval vein, the orifice of the vein usually overrides the
-
+<details class="med-details"><summary>
+  
+#### Ostium secundum defects</summary><div class="details-content">
+  
+Defects within the oval fossa are often called secundum defects. Because they represent persistence of the secondary atrial foramen, rather than deficiencies of the secondary atrial septum, they should properly be called **ostium secundum defects**. We prefer to consider them as defects within the oval fossa. They are, by far, the most common type of interatrial communication. They can be caused by deficiency (**Figure 7.11**), perforation (**Figure 7.12**), or absence (**Figure 7.13**) of the floor of the fossa. The floor is formed by the flap valve of the oval foramen, itself derived from the primary atrial septum. When the haemodynamics of the shunt across such a defect dictate surgical closure, the hole is rarely likely to be small enough to permit direct suture. Now, all but very large defects within the oval fossa are likely to be closed by the interventional cardiologist. If attempts are made to close, directly, defects large enough to justify surgical intervention, the results may so distort atrial anatomy as to result in dehiscence. Irrespective of the size of the septal deficiency, it is always possible to secure a patch to the margins of the oval fossa. When placing sutures, the likeliest potential danger relative to the rims is to the **artery supplying the sinus node** (**Figure 7.14**). This artery can course intramyocardially through the anterior margin of the oval fossa, or lie deep within the superior interatrial fold. There is also a remote chance of damaging the aorta when placing stitches anteriorly, as this part of the rim is related on its epicardial aspect to the aortic root (**Figures 7.14**, **7.15**). On occasion, deficiency of the posteroinferior rims of the oval fossa permits holes within the fossa to extend into the mouth of the inferior caval vein (**Figure 7.16**). In these circumstances, care must be taken not to mistake a well-formed **Eustachian valve** for the posteroinferior margin of the defect. A patch attached to the Eustachian valve would connect the inferior caval vein to the left atrium. It is always prudent, therefore, to ensure continuity of the inferior caval vein and right atrium following placement of a patch used to close a deficiency of the floor of the oval fossa.
+  
 ![](_page_6_Picture_2.jpeg)
 
-Fig. 7.11 The surgical view through a right atriotomy shows a deficiency in the flap valve of the oval fossa (star).
+**Fig. 7.11** The surgical view through a right atriotomy shows a deficiency in the flap valve of the oval fossa (star).
 
 ![](_page_6_Picture_4.jpeg)
 
-Fig. 7.12 The surgical view through a right atriotomy shows three perforations (arrows) in the flap valve of the oval fossa.
-
-superior rim of the oval fossa (Figures 7.19, 7.20). More rarely, such defects can be found when the caval vein is committed exclusively to the right atrium (Figure 7.21)<sup>6</sup>. All the defects are
-
-associated with anomalous connections of the right superior pulmonary veins, which drain into the superior caval vein (Figures 7.22, 7.23), often through more than one orifice (Figure 7.19), while retaining their left atrial connection (Figure 7.20). The difficulty encountered during surgical repair reflects the need to reconstruct the anatomy so as to reroute the venous return and, at the same time, close
+**Fig. 7.12** The surgical view through a right atriotomy shows three perforations (arrows) in the flap valve of the oval fossa.
 
 ![](_page_7_Picture_2.jpeg)
 
-Fig. 7.13 The surgical view through a right atriotomy shows the absence of the entire flap valve of the oval fossa.
+**Fig. 7.13** The surgical view through a right atriotomy shows the absence of the entire flap valve of the oval fossa.
 
 ![](_page_7_Picture_4.jpeg)
 
 **Fig. 7.14** The dissection, made by transecting the atrial chambers, and illustrated in anatomical orientation, shows the relationship of the artery supplying the sinus node to the anterosuperior rim of the oval fossa. Note also the proximity of the rim to the aortic root. The arrow shows the infolded anterior rim of the fossa.
-
-the interatrial communication. This must be done without obstructing venous flow or, in the case of a superior defect, damaging the sinus node. The sinus node is related to the anterolateral quadrant of the cavoatrial junction. It lays immediately subepicardially within the terminal groove (Figure 7.23). Its location should be considered both when making the atriotomy, and when placing sutures in the atrial walls. Problems arise should it be necessary either to suture in the area of the
-
-node when rerouting the pulmonary venous return, or if there is need to enlarge the orifice of the caval vein. The former risk can be minimised with judicious superficial placement of the sutures. The latter problem is much greater. Because the
-
+  
 ![](_page_8_Picture_2.jpeg)
 
-Fig. 7.15 The computed tomogram shows the adjacency of the anterosuperior margin of the oval fossa (yellow brace) and the adjacent atrial walls to the aortic root.
+**Fig. 7.15** The computed tomogram shows the adjacency of the anterosuperior margin of the oval fossa (yellow brace) and the adjacent atrial walls to the aortic root.
 
 ![](_page_8_Picture_4.jpeg)
 
 **Fig. 7.16** The surgical view through a right atriotomy shows a defect within the oval fossa (large star) extending into the mouth of the inferior caval vein (arrow). Note the location of the triangle of Koch (small star).
-
-artery to the sinus node may pass either in front of or behind the caval vein, the entire cavoatrial junction is a potentially dangerous area. Incisions across the cavoatrial junction carry a high risk of damaging the artery, or even the node
-
-itself. Should it be deemed necessary to cut across the junction, a much better option is to perform the Warden operation <sup>10</sup>. This involves detaching the superior caval vein, and reattaching it to the excised tip of the right atrial appendage <sup>11</sup>.
-
-Another defect that permits interatrial shunting, but which is outside the confines of the true atrial septum, is part of a constellation of lesions termed unroofing of the coronary sinus (Figure 7.24)<sup>9</sup>. In this setting, a persistent left superior caval vein
-
+</div>
+</details>
+ 
+<details class="med-details"><summary>
+  
+#### Sinus venosus defects</summary><div class="details-content">
+  
+**Sinus venosus defects** are more rare than defects within the oval fossa, and present greater problems in repair. The defect adjacent to the inferior caval vein (**Figure 7.17**) is relatively rare. It opens into the mouth of the inferior caval vein posterior to the confines of the oval fossa. Usually the fossa itself is intact, but it can be deficient or probe patent. The essence of the defect is an anomalous connection of the right inferior pulmonary vein to the inferior caval vein, the pulmonary vein retaining its left atrial connection. It is much more frequent to find sinus venosus defects adjacent to the mouth of the superior caval vein. These defects, again, are due to an anomalous connection of one or more of the right pulmonary veins to the superior caval vein, the pulmonary veins retaining their left atrial connection. The defects are outside the confines of the oval fossa, and hence are interatrial communications rather than atrial septal defects (**Figure 7.18**).
+  
 ![](_page_9_Picture_2.jpeg)
 
-Fig. 7.17 The specimen, viewed in anatomical orientation, shows the features of an inferior sinus venosus defect. The margins of the oval fossa are intact. The defect is due to an anomalous connection of the middle and inferior right pulmonary veins to the inferior caval vein. The anomalously connected veins retain their left atrial connection.
+**Fig. 7.17** The specimen, viewed in anatomical orientation, shows the features of an inferior sinus venosus defect. The margins of the oval fossa are intact. The defect is due to an anomalous connection of the middle and inferior right pulmonary veins to the inferior caval vein. The anomalously connected veins retain their left atrial connection.
 
 ![](_page_9_Picture_4.jpeg)
 
-Fig. 7.18 The surgical view through a right atriotomy shows a defect at the mouth of the inferior caval vein. There is anomalous drainage of the right inferior pulmonary vein, which retains its left atrial connection. The oval fossa is intact. This is a typical example of the inferior sinus venosus defect.
+**Fig. 7.18** The surgical view through a right atriotomy shows a defect at the mouth of the inferior caval vein. There is anomalous drainage of the right inferior pulmonary vein, which retains its left atrial connection. The oval fossa is intact. This is a typical example of the inferior sinus venosus defect.  
 
-usually drains directly to the left atrial roof (Figure 7.25), entering the chamber between the appendage and the left pulmonary veins. Because of the unroofing of the coronary sinus into the cavity of the left atrium, the mouth of the coronary sinus functions as an
-
-interatrial communication (Figure 7.26). Evidence is frequently seen of the walls of the coronary sinus and left atrium along the anticipated course of the left superior caval vein into and through the left atrioventricular groove (Figure 7.24).
-
-Sometimes the mouth of the coronary sinus can seem to open normally to the right atrium, but in the absence of its component usually occupying the left atrioventricular groove, and without persistence of a left superior caval vein draining to the left atrial
-
+When sinus venosus defects are found in relation to the superior caval vein, the orifice of the vein usually overrides the superior rim of the oval fossa (**Figures 7.19**, **7.20**). More rarely, such defects can be found when the caval vein is committed exclusively to the right atrium (**Figure 7.21**). All the defects are associated with anomalous connections of the right superior pulmonary veins, which drain into the superior caval vein (**Figures 7.22**, **7.23**), often through more than one orifice (**Figure 7.19**), while retaining their left atrial connection (**Figure 7.20**). 
+  
 ![](_page_10_Picture_2.jpeg)
 
-Fig. 7.19 The specimen, viewed in anatomical orientation, shows a superior sinus venosus defect with overriding of the orifice of the superior caval vein (SCV). The probe (stars) has been passed through the fibroadipose tissue occupying the intact superior margin of the oval fossa. There is anomalous drainage of the two right upper pulmonary veins, which have retained their left atrial connection.
+**Fig. 7.19** The specimen, viewed in anatomical orientation, shows a superior sinus venosus defect with overriding of the orifice of the superior caval vein (SCV). The probe (stars) has been passed through the fibroadipose tissue occupying the intact superior margin of the oval fossa. There is anomalous drainage of the two right upper pulmonary veins, which have retained their left atrial connection.
 
 ![](_page_10_Picture_4.jpeg)
 
-Fig. 7.20 The computed tomogram shows how, most frequently, the mouth of the superior caval vein overrides the crest of the atrial septum in the setting of a superior sinus venosus defect. Note that the right pulmonary veins drain anomalously to the superior caval vein while retaining their left atrial connection (white doubleheaded arrow).
-
-roof. In this setting, the left ventricular coronary veins drain directly into the cavity of the left atrium. In these circumstances, the mouth of the coronary sinus again functions as an interatrial communication. This lesion is the extreme form of the spectrum of
-
-fenestration of the walls of the coronary sinus, providing communications with the cavity of the left atrium (see Chapter 9).
-
-Surgical treatment of interatrial communications through the mouth of the coronary sinus is dictated by the presence,
-
-and connections, of the left superior caval vein. If it is present, and in free communication with the right superior caval vein, or if there is no left-sided superior caval vein, the mouth of the coronary sinus can simply be closed. If the
-
+**Fig. 7.20** The computed tomogram shows how, most frequently, the mouth of the superior caval vein overrides the crest of the atrial septum in the setting of a superior sinus venosus defect. Note that the right pulmonary veins drain anomalously to the superior caval vein while retaining their left atrial connection (white doubleheaded arrow).
+  
 ![](_page_11_Picture_2.jpeg)
 
-Fig. 7.21 The specimen, viewed in anatomical orientation, shows a superior sinus venosus defect without overriding of the orifice of the superior caval vein. As in the specimen shown in Figure 7.18, there is anomalous drainage of the right upper pulmonary (pulm.) vein, which has retained its left atrial connection. Note the distance between the defect and the oval fossa (double-headed arrow). Note also the intact rims of the oval fossa.
+**Fig. 7.21** The specimen, viewed in anatomical orientation, shows a superior sinus venosus defect without overriding of the orifice of the superior caval vein. As in the specimen shown in Figure 7.18, there is anomalous drainage of the right upper pulmonary (pulm.) vein, which has retained its left atrial connection. Note the distance between the defect and the oval fossa (double-headed arrow). Note also the intact rims of the oval fossa.
 
 ![](_page_11_Figure_4.jpeg)
 
-Fig. 7.22 This surgical view through a right atriotomy shows a superior sinus venosus defect, recognised because it is outside the confines of the intact oval fossa.
-
-right atrial mouth of the sinus is to be closed, decisions must be made concerning the treatment of the left superior caval vein. In the presence of an adequate venous channel communicating with the brachiocephalic vein, the left caval vein can be ligated. If, in contrast, the left-sided
-
-channel has no anastomoses with the right side, consideration should be given to construction of a left-sided cavopulmonary anastomosis, the Glenn shunt. Alternatively, a channel can be constructed
-
-along the posteroinferior wall of the left atrium, connecting the left atrial opening of the left-sided vein with the mouth of the coronary sinus.
-
-# Atrioventricular septal defects
-
-It is becoming increasingly frequent for the anomalies variously described as
-
+**Fig. 7.22** This surgical view through a right atriotomy shows a superior sinus venosus defect, recognised because it is outside the confines of the intact oval fossa.
+  
 ![](_page_12_Picture_2.jpeg)
 
-Fig. 7.23 This surgical view, through a median sternotomy of the heart shown in Figure 7.20, illustrates the anomalous connection of the right superior pulmonary vein. Note the site of the sinus node lying in the terminal groove.
+**Fig. 7.23** This surgical view, through a median sternotomy of the heart shown in Figure 7.20, illustrates the anomalous connection of the right superior pulmonary vein. Note the site of the sinus node lying in the terminal groove.
+  
+The difficulty encountered during surgical repair reflects the need to reconstruct the anatomy so as to reroute the venous return and, at the same time, close the interatrial communication. This must be done without obstructing venous flow or, in the case of a superior defect, damaging the sinus node. The **sinus node** is related to the anterolateral quadrant of the cavoatrial junction. It lays immediately subepicardially within the terminal groove (**Figure 7.23**). Its location should be considered both when making the atriotomy, and when placing sutures in the atrial walls. Problems arise should it be necessary either to suture in the area of the node when rerouting the pulmonary venous return, or if there is need to enlarge the orifice of the caval vein. The former risk can be minimised with judicious superficial placement of the sutures. The latter problem is much greater. Because the artery to the sinus node may pass either in front of or behind the caval vein, the entire cavoatrial junction is a potentially dangerous area. Incisions across the cavoatrial junction carry a high risk of damaging the artery, or even the node itself. Should it be deemed necessary to cut across the junction, a much better option is to perform the Warden operation. This involves detaching the superior caval vein, and reattaching it to the excised tip of the right atrial appendage.
+</div>
+</details>
 
+<details class="med-details"><summary>
+  
+#### Unroofing of the coronary sinus</summary><div class="details-content">
+  
+Another defect that permits interatrial shunting, but which is outside the confines of the true atrial septum, is part of a constellation of lesions termed unroofing of the coronary sinus (**Figure 7.24**). In this setting, a persistent left superior caval vein usually drains directly to the left atrial roof (**Figure 7.25**), entering the chamber between the appendage and the left pulmonary veins. Because of the unroofing of the coronary sinus into the cavity of the left atrium, the mouth of the coronary sinus functions as an interatrial communication (**Figure 7.26**). Evidence is frequently seen of the walls of the coronary sinus and left atrium along the anticipated course of the left superior caval vein into and through the left atrioventricular groove (**Figure 7.24**).
+  
 ![](_page_12_Figure_4.jpeg)
 
-Fig. 7.24 The heart is shown from the left side in anatomical orientation. There is unroofing of the coronary sinus as it courses through the left atrioventricular groove, draining a persistent left superior caval vein, with filigreed remnants (stars) showing the site of the walls that initially separated the vein from the left atrium.
-
-endocardial cushion defects, atrioventricular canal defects, or a persistent atrioventricular canal, to be described as atrioventricular septal
-
-defects12. This is entirely apppropiate because, in anatomical terms, the malformations are due to not only the absence of the membranous
-
-atrioventricular septum, but also the overlapping region of atrial and ventricular musculatures that normally forms the floor of the triangle of Koch. The structures are
-
+**Fig. 7.24** The heart is shown from the left side in anatomical orientation. There is unroofing of the coronary sinus as it courses through the left atrioventricular groove, draining a persistent left superior caval vein, with filigreed remnants (stars) showing the site of the walls that initially separated the vein from the left atrium.
+  
 ![](_page_13_Picture_2.jpeg)
 
 **Fig. 7.25** The computed tomogram shows a persistent left superior caval vein draining to the roof of the left atrium, in the absence of the walls that usually separate the course of the vein through the left atrioventricular groove to the mouth of the coronary sinus.
@@ -184,218 +158,156 @@ atrioventricular septum, but also the overlapping region of atrial and ventricul
 
 **Fig. 7.26** The right atrium from the heart illustrated in Figure 7.24 is shown. Because of the unroofing of the walls of the persistent left superior caval vein (SCV), the mouth of the coronary sinus functions as an interatrial communication.
 
-absent because the unifying feature of the group is the commonality of the atrioventricular junction (Figure 7.27)<sup>4</sup>. The optimal title for the group, therefore, would be atrioventricular septal defect with common atrioventricular junction. This is
+Sometimes the mouth of the coronary sinus can seem to open normally to the right atrium, but in the absence of its component usually occupying the left atrioventricular groove, and without persistence of a left superior caval vein draining to the left atrial roof. In this setting, the left ventricular coronary veins drain directly into the cavity of the left atrium. In these circumstances, the mouth of the coronary sinus again functions as an interatrial communication. This lesion is the extreme form of the spectrum of fenestration of the walls of the coronary sinus, providing communications with the cavity of the left atrium (see Chapter 9).
 
-because, on rare occasions, defects of the membranous atrioventricular septum can be found in the setting of separate right and left atrioventricular junctions. These defects, first described by Gerbode and colleagues<sup>13</sup>, and often called Gerbode
+Surgical treatment of interatrial communications through the mouth of the coronary sinus is dictated by the presence, and connections, of the left superior caval vein. If it is present, and in free communication with the right superior caval vein, or if there is no left-sided superior caval vein, the mouth of the coronary sinus can simply be closed. If the right atrial mouth of the sinus is to be closed, decisions must be made concerning the treatment of the left superior caval vein. In the presence of an adequate venous channel communicating with the brachiocephalic vein, the left caval vein can be ligated. If, in contrast, the left-sided channel has no anastomoses with the right side, consideration should be given to construction of a left-sided cavopulmonary anastomosis, the Glenn shunt. Alternatively, a channel can be constructed along the posteroinferior wall of the left atrium, connecting the left atrial opening of the left-sided vein with the mouth of the coronary sinus.
+</div></details>
+  
+</div></details>
 
-defects, can take two forms. The more frequent variant exists when shunting across a ventricular septal defect enters the right atrium through a deficient tricuspid valve (Figure 7.28). The more rare variant is a true deficiency of the atrioventricular
+<details class="med-details"><summary>
+  
+### Atrioventricular septal defects</summary><div class="details-content">
 
+It is becoming increasingly frequent for the anomalies variously described as endocardial cushion defects, atrioventricular canal defects, or a persistent atrioventricular canal, to be described as atrioventricular septal defects. This is entirely apppropiate because, in anatomical terms, the malformations are due to not only the absence of the membranous atrioventricular septum, but also the overlapping region of atrial and ventricular musculatures that normally forms the floor of the triangle of Koch. The structures are absent because the unifying feature of the group is the commonality of the atrioventricular junction (**Figure 7.27**). The optimal title for the group, therefore, would be **atrioventricular septal defect with common atrioventricular junction**. This is because, on rare occasions, defects of the membranous atrioventricular septum can be found in the setting of separate right and left atrioventricular junctions. 
+  
 ![](_page_14_Picture_2.jpeg)
 
-Fig. 7.27 The section of a specimen, cut in the four-chamber orientation, shows a common atrioventricular junction (doubleheaded arrow) guarded by a common atrioventricular valve in a heart with deficient atrioventricular septation. The black brace shows the atrioventricular septal defect, between the leading edge of the atrial septum and the crest of the muscular ventricular septum (stars).
-
+**Fig. 7.27** The section of a specimen, cut in the four-chamber orientation, shows a common atrioventricular junction (doubleheaded arrow) guarded by a common atrioventricular valve in a heart with deficient atrioventricular septation. The black brace shows the atrioventricular septal defect, between the leading edge of the atrial septum and the crest of the muscular ventricular septum (stars).
+  
+These defects, first described by Gerbode and colleagues, and often called **Gerbode defects**, can take two forms.   
+- The more frequent variant exists when shunting across a ventricular septal defect enters the right atrium through a deficient tricuspid valve (**Figure 7.28**).
+  
 ![](_page_14_Figure_4.jpeg)
 
-Fig. 7.28 The cartoon shows how, when there is a deficiency of the septal leaflet of the tricuspid valve, shunting across a ventricular septal defect (VSD) can also produce left ventricular to right atrial shunting. This is the so-called indirect Gerbode defect.
-
-component of the membranous septum (Figures 7.29–7.32)14. The key to differentiating the true defects from those involving passage via a deficient ventricular septum is to demonstrate the competence of the tricuspid valve (Figure 7.32).
-
-Although atrioventricular septal defects do exist in the form of the Gerbode defect
-
-in the setting of separate right and left atrioventricular junctions, now it is usual to presume the presence of a common atrioventricular junction when considering
-
+**Fig. 7.28** The cartoon shows how, when there is a deficiency of the septal leaflet of the tricuspid valve, shunting across a ventricular septal defect (VSD) can also produce left ventricular to right atrial shunting. This is the so-called indirect Gerbode defect.
+  
+- The more rare variant is a true deficiency of the atrioventricular component of the membranous septum (**Figures 7.29**–**7.32**).
+  
 ![](_page_15_Picture_2.jpeg)
-
-echocardiographic four-chamber cut, shows how the septal leaflet of the tricuspid valve divides the membranous septum into interventricular and atrioventricular components. It is deficiency of the atrioventricular component (white double-headed arrow) that underscores the existence of the direct Gerbode defect.
-
+  
+**Fig. 7.29** The section through the heart, replicating the echocardiographic four-chamber cut, shows how the septal leaﬂet of the tricuspid valve divides the membranous septum into interventricular and atrioventricular components. It is deﬁciency of the atrioventricular component (white double-headed arrow) that underscores the existence of the direct Gerbode defect.
+  
 ![](_page_15_Picture_4.jpeg)
 
-Fig. 7.30 The cartoon shows how a deficiency of the atrioventricular component of the membranous septum produces the setting for direct shunting from the left ventricle to right atrium. This is the direct Gerbode defect.
-
-deficient atrioventricular septation. The presence of the common junction fundamentally distorts the overall anatomy when compared to the normally separate
-
-right and left atrioventricular junctions (compare Figures 7.27 and 7.33).
-
-Because of the lack of the membranous and muscular atrioventricular structures,
-
-there is no septal atrioventricular junction. Instead, the leading edges of the atrial septum and the ventricular septum, the latter usually covered by the
-
+**Fig. 7.30** The cartoon shows how a deficiency of the atrioventricular component of the membranous septum produces the setting for direct shunting from the left ventricle to right atrium. This is the direct Gerbode defect.
+  
 ![](_page_16_Picture_2.jpeg)
 
-Fig. 7.31 The image, taken in the operating room, shows a deficiency of the atrioventricular component of the membranous septum.
+**Fig. 7.31** The image, taken in the operating room, shows a deficiency of the atrioventricular component of the membranous septum.
 
 ![](_page_16_Picture_4.jpeg)
 
-Fig. 7.32 In the heart of the patient illustrated in Figure 7.31, insufflations of saline in the right ventricle reveals a competent tricuspid valve, showing that the shunting from the left ventricle to right atrium is across a deficiency of the atrioventricular part of the membranous septum; in other words, a direct Gerbode defect.
+**Fig. 7.32** In the heart of the patient illustrated in **Figure 7.31**, insufflations of saline in the right ventricle reveals a competent tricuspid valve, showing that the shunting from the left ventricle to right atrium is across a deficiency of the atrioventricular part of the membranous septum; in other words, a direct Gerbode defect.
+  
+The key to differentiating the true defects from those involving passage via a deficient ventricular septum is to demonstrate the **competence of the tricuspid valve** (**Figure 7.32**).
 
-atrioventricular valvar leaflets, meet at the superior and inferior margins of the common atrioventricular junction (Figure 7.34). These meeting points of the septal structures typically divide the common junction into more-or-less equal right and left sides. An eccentric location of
-
-the septal structures relative to the junction produces ventricular imbalance, or a double-outlet atrium.
-
-It is the overall anatomy produced by the common atrioventricular junction that distorts the disposition of the atrioventricular conduction axis. An
-
-analogue of the triangle of Koch can be seen within the leading edge of the atrial septum15. Because of the common atrioventricular junction, however, the atrial septal myocardium makes contact with the ventricular myocardium only superiorly and inferiorly (Figure 7.34).
-
+Although atrioventricular septal defects do exist in the form of the Gerbode defect in the setting of separate right and left atrioventricular junctions, now it is usual to presume the presence of a common atrioventricular junction when considering deficient atrioventricular septation. The presence of the common junction fundamentally distorts the overall anatomy when compared to the normally separate right and left atrioventricular junctions (compare **Figures 7.27** and **7.33**).
+  
 ![](_page_17_Picture_2.jpeg)
 
-Fig. 7.33 This normal heart has also been sectioned in fourchamber orientation. It shows the right and left atrioventricular junctions (double-headed arrows with red borders) guarded by separate atrioventricular valves (compare with Figure 7.27). The white double-headed arrow shows the separating atrioventricular structures.
+**Fig. 7.33** This normal heart has also been sectioned in fourchamber orientation. It shows the right and left atrioventricular junctions (double-headed arrows with red borders) guarded by separate atrioventricular valves (compare with **Figure 7.27**). The white double-headed arrow shows the separating atrioventricular structures.
 
+Because of the lack of the membranous and muscular atrioventricular structures, there is no septal atrioventricular junction. Instead, the leading edges of the atrial septum and the ventricular septum, the latter usually covered by the atrioventricular valvar leaflets, meet at the superior and inferior margins of the common atrioventricular junction (**Figure 7.34**). These meeting points of the septal structures typically divide the common junction into more-or-less equal right and left sides. An eccentric location of the septal structures relative to the junction produces ventricular imbalance, or a double-outlet atrium.
+  
 ![](_page_17_Picture_4.jpeg)
 
-Fig. 7.34 The specimen, seen in anatomical orientation, has been prepared to show the right side of the heart with deficient atrioventricular septation and separate right and left atrioventricular orifices, the lesion also known as an ostium primum defect. It is the conjoined bridging leaflets that produce the separate valvar orifices. The septal defect occupies the site of the normal atrioventricular separating structures. Note that the atrial septum itself is virtually normal, and the oval fossa is intact, although the leading edge of the septum is bowed from the atrioventricular junction in the margin of the septal defect. The stars show how the meeting points of the septal structures divide the common junction into its right and left sides.
+**Fig. 7.34** The specimen, seen in anatomical orientation, has been prepared to show the right side of the heart with deficient atrioventricular septation and separate right and left atrioventricular orifices, the lesion also known as an ostium primum defect. It is the conjoined bridging leaflets that produce the separate valvar orifices. The septal defect occupies the site of the normal atrioventricular separating structures. Note that the atrial septum itself is virtually normal, and the oval fossa is intact, although the leading edge of the septum is bowed from the atrioventricular junction in the margin of the septal defect. The stars show how the meeting points of the septal structures divide the common junction into its right and left sides.
 
-Usually the atrioventricular node is displaced inferiorly. It typically lies in a nodal triangle, but not the triangle of Koch. When seen by the surgeon, the nodal triangle has the coronary sinus at its base, with the atrial septum to the left-hand side, and the attachment of the leaflets of the
+It is the overall anatomy produced by the common atrioventricular junction that distorts the disposition of the atrioventricular conduction axis. An analogue of the triangle of Koch can be seen within the leading edge of the atrial septum. Because of the common atrioventricular junction, however, the atrial septal myocardium makes contact with the ventricular myocardium only superiorly and inferiorly (**Figure 7.34**).
 
-effectively common atrioventricular valve to the right-hand side (Figures 7.35, 7.36). The atrioventricular conduction axis penetrates the apex of the triangle. It then courses on the crest of the muscular ventricular septum, covered by the inferior bridging leaflet of the atrioventricular valve
-
-(Figure 7.37). The proximity of the coronary sinus to the apex of the nodal triangle is pertinent to surgical closure of the septal defect. Ideally, the surgeon will place a patch so as to leave the coronary sinus draining to the systemic venous atrium. The best option is to deviate the
+Usually the atrioventricular node is displaced inferiorly. It typically lies in a nodal triangle, but not the triangle of Koch. When seen by the surgeon, the nodal triangle has the coronary sinus at its base, with the atrial septum to the left-hand side, and the attachment of the leaflets of the effectively common atrioventricular valve to the right-hand side (**Figures 7.35**, **7.36**). The atrioventricular conduction axis penetrates the apex of the triangle. It then courses on the crest of the muscular ventricular septum, covered by the inferior bridging leaflet of the atrioventricular valve (**Figure 7.37**). The proximity of the coronary sinus to the apex of the nodal triangle is pertinent to surgical closure of the septal defect. Ideally, the surgeon will place a patch so as to leave the coronary sinus draining to the systemic venous atrium. The best option is to deviate the suture line towards the left-hand side of the inferior bridging leaflet at its junction with the atrial septum, using superficial surgical bites (green line in **Figure 7.35**). An alternative is to stay on the right-hand side, but place the suture line within the mouth of the coronary sinus so as to reach the edge of the atrial septum (yellow line in **Figure 7.35**). The safety of this approach depends on the margin between the mouth of the coronary sinus and the apex of the nodal triangle (compare **Figures 7.35** and **7.36**). A further alternative is to keep the suture line to the right of the mouth of the coronary sinus, placing the sinus to the left of the atrial patch (blue lines in **Figures 7.35** and **7.36**). Occasionally, the inferior portion of the atrial septum itself can be deficient. The coronary sinus then opens more posteriorly and medially through the left atrial wall. The conduction axis, however, follows the course of the muscular ventricular septum, with the node formed at the site of its union with the inferior atrioventricular junction (**Figure 7.38**).
 
 ![](_page_18_Picture_2.jpeg)
 
-Fig. 7.35 This view through a right atriotomy shows the surgeon's view of the atrial septal surface in a heart with an atrioventricular septal defect and separate right and left atrioventricular orifices, or the ostium primum defect. Koch's triangle is well formed (red star), but no longer contains the atrioventricular node. The node is displaced posteroinferiorly to the apex of a new nodal triangle (white star). The three dashed lines show the options for placement of sutures so as to avoid traumatising the atrioventricular conduction axis. The green line runs directly from the inferior bridging leaflet to the inferior margin of the leading edge of the atrial septum. The yellow line courses from the inferior bridging leaflet to the right side of the atrioventricular node and skirts the margins of the coronary sinus, keeping the orifice of the sinus to its right side. The blue line courses to the right side of the atrioventricular node, but is placed so as to leave the coronary sinus draining to the left atrium.
+**Fig. 7.35** This view through a right atriotomy shows the surgeon's view of the atrial septal surface in a heart with an atrioventricular septal defect and separate right and left atrioventricular orifices, or the ostium primum defect. Koch's triangle is well formed (red star), but no longer contains the atrioventricular node. The node is displaced posteroinferiorly to the apex of a new nodal triangle (white star). The three dashed lines show the options for placement of sutures so as to avoid traumatising the atrioventricular conduction axis. The green line runs directly from the inferior bridging leaflet to the inferior margin of the leading edge of the atrial septum. The yellow line courses from the inferior bridging leaflet to the right side of the atrioventricular node and skirts the margins of the coronary sinus, keeping the orifice of the sinus to its right side. The blue line courses to the right side of the atrioventricular node, but is placed so as to leave the coronary sinus draining to the left atrium.
 
 ![](_page_18_Figure_4.jpeg)
 
-Fig. 7.36 In this heart, again shown as seen by the surgeon through a right atriotomy, there is less room around the coronary sinus to place a patch so as to leave the sinus draining to the right side (yellow dashed line). The site of the atrioventricular node is shown again by the white star (compare with Figure 7.35). Note that it is not within the well-formed triangle of Koch (red star). The green and blue lines show the alternate options for placement of the suture line, as indicated in Figure 7.35.
-
-suture line towards the left-hand side of the inferior bridging leaflet at its junction with the atrial septum, using superficial surgical bites (green line in Figure 7.35)<sup>15</sup>. An alternative is to stay on the right-hand side,
-
-but place the suture line within the mouth of the coronary sinus so as to reach the edge of the atrial septum (yellow line in Figure 7.35). The safety of this approach depends on the margin between the
-
-mouth of the coronary sinus and the apex of the nodal triangle (compare Figures 7.35 and 7.36). A further alternative is to keep the suture line to the right of the mouth of the coronary sinus,
+**Fig. 7.36** In this heart, again shown as seen by the surgeon through a right atriotomy, there is less room around the coronary sinus to place a patch so as to leave the sinus draining to the right side (yellow dashed line). The site of the atrioventricular node is shown again by the white star (compare with Figure 7.35). Note that it is not within the well-formed triangle of Koch (red star). The green and blue lines show the alternate options for placement of the suture line, as indicated in Figure 7.35.
 
 ![](_page_19_Picture_2.jpeg)
 
-Fig. 7.37 The cartoon shows the usual disposition of the atrioventricular (AV) conduction axis in hearts with an atrioventricular septal defect and common atrioventricular junction. The variant with a common valvar orifice is illustrated.
+**Fig. 7.37** The cartoon shows the usual disposition of the atrioventricular (AV) conduction axis in hearts with an atrioventricular septal defect and common atrioventricular junction. The variant with a common valvar orifice is illustrated.
 
 ![](_page_19_Picture_4.jpeg)
 
-Inf. Fig. 7.38 In this atrioventricular septal defect with separate right and left valvar orifices, the atrial septum is grossly deficient. The atrioventricular node is found at the point where the muscular ventricular septum joins the inferior atrioventricular junction (star).
+**Fig. 7.38** In this atrioventricular septal defect with separate right and left valvar orifices, the atrial septum is grossly deficient. The atrioventricular node is found at the point where the muscular ventricular septum joins the inferior atrioventricular junction (star).
 
-placing the sinus to the left of the atrial patch (blue lines in Figures 7.35 and 7.36). Occasionally, the inferior portion of the atrial septum itself can be deficient. The coronary sinus then opens more posteriorly and medially through the left
-
-atrial wall. The conduction axis, however, follows the course of the muscular ventricular septum, with the node formed at the site of its union with the inferior atrioventricular junction (Figure 7.38)<sup>16</sup> .
-
-The feature that distinguishes between the various forms of atrioventricular septal defects is the morphology of the leaflets of the atrioventricular valve that guard the common atrioventricular junction, together with their relationship to the
+The feature that distinguishes between the various forms of atrioventricular septal defects is the morphology of the leaflets of the atrioventricular valve that guard the common atrioventricular junction, together with their relationship to the septal structures bordering the defect. In any heart that lacks the separating atrioventricular structures, the common atrioventricular valve has five leaflets. The arrangement is seen most readily when the valve itself has a common orifice (**Figure 7.39**). Two of the leaflets extend across the ventricular septum, with their tension apparatus attached in both ventricles. These are the superior and inferior bridging leaflets. Two other leaflets are contained entirely within the right ventricle. They are the anterosuperior and inferior mural leaflets. The fifth leaflet is contained exclusively within the left ventricle, and is also a mural leaflet. Although the two leaflets found within the right ventricle are comparable to similar leaflets of the tricuspid valve seen in the normal heart, the left ventricular leaflets of the common atrioventricular valve (**Figure 7.40**) bear no resemblance to a normal mitral valve. In the normal mitral valve, found with separate atrioventricular junctions, the ends of the solitary zone of apposition between the leaflets, and the papillary muscles supporting them, are situated inferoanteriorly and superoposteriorly within the left ventricle (**Figure 7.41**). With this arrangement, the extensive mural leaflet guards two-thirds of the circumference of the valvar orifice. The left ventricular outflow tract then interposes between the aortic leaflet of the mitral valve and the ventricular septal surface. In atrioventricular septal defects with a common atrioventricular junction, in contrast, the left ventricular papillary muscles are deviated laterally, being positioned superiorly and inferiorly. Because of this, the mural leaflet is relatively insignificant, and guards much less than one-third of the circumference of the left atrioventricular orifice. The left orifice, in effect, is guarded by a valve possessing three leaflets, these being the small mural leaflet, and the more extensive left ventricular components of the superior and inferior bridging leaflets (**Figure 7.42**)
 
 ![](_page_20_Picture_2.jpeg)
 
 **Fig. 7.39** This atrioventricular septal defect, positioned anatomically and viewed from above, and with a common valvar orifice, has been dissected to show the arrangement of the five leaflets that guard the common atrioventricular junction. The white double-headed arrow shows the zone of apposition between the two bridging leaflets.
 
-septal structures bordering the defect<sup>17</sup>. In any heart that lacks the separating atrioventricular structures, the common atrioventricular valve has five leaflets. The arrangement is seen most readily when the valve itself has a common orifice (Figure 7.39). Two of the leaflets extend across the ventricular septum, with their tension apparatus attached in both ventricles. These are the superior and inferior bridging leaflets. Two other leaflets are contained entirely within the right ventricle. They are the anterosuperior and inferior mural leaflets. The fifth leaflet is contained exclusively within the left ventricle, and is also a mural leaflet. Although the two leaflets found within the right ventricle are comparable to similar leaflets of the tricuspid valve seen in the normal heart, the left ventricular leaflets of the common atrioventricular valve (Figure 7.40) bear no resemblance to a normal mitral valve. In the normal mitral valve, found with separate atrioventricular junctions, the ends of the solitary zone of apposition between the leaflets, and the papillary muscles supporting them, are situated inferoanteriorly and superoposteriorly within the left ventricle (Figure 7.41). With this arrangement, the
-
-extensive mural leaflet guards two-thirds of the circumference of the valvar orifice. The left ventricular outflow tract then interposes between the aortic leaflet of the mitral valve and the ventricular septal surface. In atrioventricular septal defects with a common atrioventricular junction, in contrast, the left ventricular papillary muscles are deviated laterally, being positioned superiorly and inferiorly <sup>12,17</sup>. Because of this, the mural leaflet is relatively insignificant, and guards much less than one-third of the circumference of the left atrioventricular orifice. The left orifice, in effect, is guarded by a valve possessing three leaflets, these being the small mural leaflet, and the more extensive left ventricular components of the superior and inferior bridging leaflets (Figure 7.42).
-
-It had originally been suggested by Rastelli and colleagues<sup>18</sup> that the common valve possessed four rather than five leaflets. They argued that the differing morphology to be found in the setting of a common valvar orifice reflected the morphology of the anterior common leaflet, which is now usually described as the superior bridging leaflet. In the arrangement they described as Type A, they considered the anterior common
-
-leaflet to be divided, with the two components both attached to the ventricular septum. They considered their Type B variant again to have a divided anterior common leaflet, but with both parts attached to an anomalous papillary muscle in the right ventricle. In their Type C malformation, they interpreted the arrangement in terms of an undivided common anterior leaflet, which was freefloating and attached in the right ventricle to an apical papillary muscle. In reality, the purported division of the anterior common leaflet is the site of coaptation between the right ventricular part of the superior bridging leaflet and the anterosuperior leaflet of the right ventricle (Figure 7.43). In the Rastelli Type A variant, the point of coaptation is supported by the medial papillary muscle of the right ventricle. The variation noted by Rastelli and his colleagues<sup>18</sup> is then readily explained on the basis of increased commitment of the superior bridging leaflet to the right ventricle, with concomitant diminution in size of the anterosuperior leaflet of the right ventricle (Figure 7.44). As the superior bridging leaflet becomes increasingly committed to the right ventricle, its site of coaptation with the anterosuperior leaflet
-
 ![](_page_21_Picture_2.jpeg)
 
 **Fig. 7.40** This operative view through a right atriotomy shows the typical trifoliate formation of the left atrioventricular valve in a heart with a deficient atrioventricular septation and common atrioventricular junction. It bears no resemblance to the formation of the leaflets as seen in the normal mitral valve. Note the extensive zone of apposition between the two leaflets that bridge the ventricular septum (dashed white double-headed arrow).
-
-moves towards the right ventricular apex (Figures 7.45, 7.46)<sup>17</sup>. A further difference between the hearts at either end of the spectrum identified by Rastelli and colleagues<sup>18</sup> is that, with minimal bridging, the superior bridging leaflet is tethered by cords to the crest of the ventricular septum (Figure 7.43). With extreme commitment of the supporting papillary muscle to the right ventricle, in contrast, the superior bridging leaflet is always free-floating. The variation noted by Rastelli and colleagues reflected the changing morphology of the superior bridging leaflet. There is also variation in the arrangement of the inferior bridging leaflet. This does not, however, reflect its commitment to the two ventricles, which is usually balanced. The leaflet is often divided along the inferior edge of the ventricular septum, with the attachments of the two components providing a relatively clear zone of separation. The edges are most frequently attached to the septal crest, but there can be a ventricular component to the defect through intercordal spaces. Such potential for shunting beneath the inferior bridging leaflet is almost always found when the superior bridging leaflet is free-floating.
-
-It is the morphology of the bridging leaflets themselves that accounts for much
-
-of the remaining variability in atrioventricular septal defects with a common atrioventricular junction. The overall valvar morphology is comparable in all hearts with this specific phenotype. The variability depends on the relationship of the two bridging leaflets to each other, or their relationships, on the one hand, to the lower edge of the atrial septum and, on the other hand, to the crest of the muscular ventricular septum. If these two features are described separately, there is no need to use terms such as 'complete', 'partial', and 'intermediate' when seeking to subdivide the group. It is the use of these terms that, in the past, has created most confusion in description. From the surgical stance, if it is possible to visualise a bare area at the midportion of the ventricular septal crest; this would constitute a complete lesion. If the crest of the septum is covered by a tongue of tissue that joins the bridging leaflets together, then the lesion is considered either partial or intermediate. The intermediate variant is characterised by the presence of shunting at both atrial and ventricular levels, but with separate valvar orifices within the common atrioventricular junction.
-
-The partial variant, with no ventricular shunting, is also well described as the
-
-ostium primum variant. The bridging leaflets are joined to each other along the crest of the ventricular septum by a connecting tongue of leaflet tissue (Figure 7.47). The essence of the ostium primum defect, therefore, is the presence of separate valvar orifices for the right and left ventricles within the common atrioventricular junction. Because the heart of necessity possesses a common atrioventricular iunction, the left valve has three leaflets, with an extensive zone of apposition between the left ventricular components of the superior and inferior bridging leaflets. This area, in the past, was frequently described as a cleft. It has no morphological similarity to the cleft found in the aortic leaflet of the mitral valve in hearts with normal atrioventricular septation and separate right and left atrioventricular junctions<sup>19</sup>. It is necessary surgically to close part, or all, of this zone of apposition when repairing ostium primum defects (Figure 7.48). The resulting closure, nonetheless, does not recreate a leaflet comparable to the aortic leaflet of the normal mitral valve (Figure 7.49).
-
-The options for haemodynamic shunting across the atrioventricular septal defects, which largely colour the clinical
-
+  
 ![](_page_22_Picture_2.jpeg)
 
-Fig. 7.41 This view of the left ventricle, taken from the apex with the ventricular mass sectioned in its short axis, shows the interrelationship of the normal mitral valve and the outflow tract to the aorta. Note the oblique position of the papillary muscles supporting the solitary zone of apposition between the leaflets of the mitral valve, along with the extensive space between the aortic leaflet of the mitral valve and the septal surface of the left ventricle (star).
+**Fig. 7.41** This view of the left ventricle, taken from the apex with the ventricular mass sectioned in its short axis, shows the interrelationship of the normal mitral valve and the outflow tract to the aorta. Note the oblique position of the papillary muscles supporting the solitary zone of apposition between the leaflets of the mitral valve, along with the extensive space between the aortic leaflet of the mitral valve and the septal surface of the left ventricle (star).
 
 ![](_page_22_Figure_4.jpeg)
 
-Fig. 7.42 This view of the left atrioventricular valve and the outflow tract in a heart with an atrioventricular septal defect is taken in comparable fashion to the normal heart seen in Figure 7.41, showing the short axis of the left ventricle. Note that the left valve in the heart with deficient atrioventricular septation has three leaflets, with papillary muscles positioned directly superiorly and inferiorly, rather than being obliquely positioned as in the normal heart. There is an extensive zone of apposition between the bridging leaflets (dashed white double-headed arrow). Note also the way that the outflow tract is squeezed between the superior bridging leaflet and the superior margin of the left ventricle (star).
+**Fig. 7.42** This view of the left atrioventricular valve and the outflow tract in a heart with an atrioventricular septal defect is taken in comparable fashion to the normal heart seen in **Figure 7.41**, showing the short axis of the left ventricle. Note that the left valve in the heart with deficient atrioventricular septation has three leaflets, with papillary muscles positioned directly superiorly and inferiorly, rather than being obliquely positioned as in the normal heart. There is an extensive zone of apposition between the bridging leaflets (dashed white double-headed arrow). Note also the way that the outflow tract is squeezed between the superior bridging leaflet and the superior margin of the left ventricle (star).
+
+It had originally been suggested by **Rastelli** and colleagues that the common valve possessed four rather than five leaflets. They argued that the differing morphology to be found in the setting of a common valvar orifice reflected the morphology of the anterior common leaflet, which is now usually described as the superior bridging leaflet. In the arrangement they described as **Type A**, they considered the anterior common leaflet to be divided, with the two components both attached to the ventricular septum. They considered their **Type B** variant again to have a divided anterior common leaflet, but with both parts attached to an anomalous papillary muscle in the right ventricle. In their **Type C** malformation, they interpreted the arrangement in terms of an undivided common anterior leaflet, which was freefloating and attached in the right ventricle to an apical papillary muscle. In reality, the purported division of the anterior common leaflet is the site of coaptation between the right ventricular part of the superior bridging leaflet and the anterosuperior leaflet of the right ventricle (**Figure 7.43**). In the Rastelli Type A variant, the point of coaptation is supported by the medial papillary muscle of the right ventricle. The variation noted by Rastelli and his colleagues is then readily explained on the basis of increased commitment of the superior bridging leaflet to the right ventricle, with concomitant diminution in size of the anterosuperior leaflet of the right ventricle (**Figure 7.44**). As the superior bridging leaflet becomes increasingly committed to the right ventricle, its site of coaptation with the anterosuperior leaflet moves towards the right ventricular apex (**Figures 7.45**, **7.46**). A further difference between the hearts at either end of the spectrum identified by Rastelli and olleagues is that, with minimal bridging, the superior bridging leaflet is tethered by cords to the crest of the ventricular septum (**Figure 7.43**). With extreme commitment of the supporting papillary muscle to the right ventricle, in contrast, the superior bridging leaflet is always free-floating. The variation noted by Rastelli and colleagues reflected the changing morphology of the superior bridging leaflet. There is also variation in the arrangement of the inferior bridging leaflet. This does not, however, reflect its commitment to the two ventricles, which is usually balanced. The leaflet is often divided along the inferior edge of the ventricular septum, with the attachments of the two components providing a relatively clear zone of separation. The edges are most frequently attached to the septal crest, but there can be a ventricular component to the defect through intercordal spaces. Such potential for shunting beneath the inferior bridging leaflet is almost always found when the superior bridging leaflet is free-floating.
 
 ![](_page_23_Picture_2.jpeg)
 
-Fig. 7.43 The image shows the location of the line of coaptation between the superior bridging and anterosuperior leaflet of the common atrioventricular valve as seen from the atrial aspect in an atrioventricular septal defect with a common valvar orifice (white arrow). This arrangement, with minimal bridging of the superior leaflet, produces the so-called 'Rastelli Type A' malformation. The star shows the atrial component of the septal defect. Note that there is the potential for multiple shunts through intercordal spaces to occur at the ventricular level beneath the superior bridging leaflet. Note also the presence of anterosuperior and inferior leaflets in the right ventricle. The white arrow shows the zone of apposition between the leftward margin of the anterosuperior leaflet and the right ventricular component of the superior bridging leaflet. It is a mistake to consider this arrangement to represent a divided common anterior leaflet.
+**Fig. 7.43** The image shows the location of the line of coaptation between the superior bridging and anterosuperior leaflet of the common atrioventricular valve as seen from the atrial aspect in an atrioventricular septal defect with a common valvar orifice (white arrow). This arrangement, with minimal bridging of the superior leaflet, produces the so-called 'Rastelli Type A' malformation. The star shows the atrial component of the septal defect. Note that there is the potential for multiple shunts through intercordal spaces to occur at the ventricular level beneath the superior bridging leaflet. Note also the presence of anterosuperior and inferior leaflets in the right ventricle. The white arrow shows the zone of apposition between the leftward margin of the anterosuperior leaflet and the right ventricular component of the superior bridging leaflet. It is a mistake to consider this arrangement to represent a divided common anterior leaflet.
 
 ![](_page_23_Figure_4.jpeg)
 
-Fig. 7.44 The cartoon is shown as seen in anatomical orientation and viewed from above (compare with Figure 7.39). It shows the spectrum of bridging of the superior leaflet in hearts with an atrioventricular septal defect and common orifice that underlies the classification introduced by Rastelli and his colleagues<sup>18</sup>. As the superior bridging leaflet (pink) extends further into the right ventricle, there is concomitant diminution in size of the anterosuperior leaflet (pink, crosshatched), and fusion of the anterior and medial papillary muscles of the right ventricle, which increasingly are attached towards the right ventricular apex.
-
-features, depend upon the relationship of the bridging leaflets to the septal structures<sup>4</sup>. When there is a common valvar orifice, it is extremely rare for the
-
-leaflets to be attached directly to the crest of the ventricular septum, although the extent of their tethering by tendinous cords can vary markedly. When the bridging leaflets lack direct attachments to the septal structures, the potential exists for shunting at both atrial and ventricular levels, the magnitude of the shunts depending on the
-
+**Fig. 7.44** The cartoon is shown as seen in anatomical orientation and viewed from above (compare with **Figure 7.39**). It shows the spectrum of bridging of the superior leaflet in hearts with an atrioventricular septal defect and common orifice that underlies the classification introduced by Rastelli and his colleagues. As the superior bridging leaflet (pink) extends further into the right ventricle, there is concomitant diminution in size of the anterosuperior leaflet (pink, crosshatched), and fusion of the anterior and medial papillary muscles of the right ventricle, which increasingly are attached towards the right ventricular apex. 
+  
 ![](_page_24_Picture_2.jpeg)
 
-Fig. 7.45 The image is taken in the same orientation as in Figure 7.43. It shows how, in the Rastelli Type B variant of the common valvar orifice, the line of coaptation between the superior bridging leaflet and the anterosuperior leaflet of the right ventricle (white arrow) is displaced into the right ventricle. The papillary muscle supporting the zone of coaptation has moved down the ventricular septum towards the apex of the right ventricle. The anterosuperior leaflet itself is smaller than in the Rastelli Type A variant, but there is also an inferior leaflet in the right ventricle, displaced upwards because of the opened right atrioventricular junction. The star shows the atrioventricular septal defect.
+**Fig. 7.45** The image is taken in the same orientation as in **Figure 7.43**. It shows how, in the Rastelli Type B variant of the common valvar orifice, the line of coaptation between the superior bridging leaflet and the anterosuperior leaflet of the right ventricle (white arrow) is displaced into the right ventricle. The papillary muscle supporting the zone of coaptation has moved down the ventricular septum towards the apex of the right ventricle. The anterosuperior leaflet itself is smaller than in the Rastelli Type A variant, but there is also an inferior leaflet in the right ventricle, displaced upwards because of the opened right atrioventricular junction. The star shows the atrioventricular septal defect.
 
 ![](_page_24_Figure_4.jpeg)
 
-Fig. 7.46 The image, taken to parallel the views seen in Figures 7.43 and 7.45, but showing only the right ventricular component of the superior bridging leaflet, illustrates the Rastelli Type C arrangement. Its line of coaptation with the anterosuperior leaflet of the right ventricle has moved even further into the right ventricle (white arrow), with a concomitant decrease in size of the anterosuperior leaflet. The papillary muscle (PM) supporting the line of coaptation is further towards the apex of the right ventricle. The star shows the location of the muscular ventricular septum.(The image is reproduced by kind permission of Mr. Bill Devine, Children's Hospital of Pittsburgh.)
+**Fig. 7.46** The image, taken to parallel the views seen in **Figures 7.43** and **7.45**, but showing only the right ventricular component of the superior bridging leaflet, illustrates the Rastelli Type C arrangement. Its line of coaptation with the anterosuperior leaflet of the right ventricle has moved even further into the right ventricle (white arrow), with a concomitant decrease in size of the anterosuperior leaflet. The papillary muscle (PM) supporting the line of coaptation is further towards the apex of the right ventricle. The star shows the location of the muscular ventricular septum.(The image is reproduced by kind permission of Mr. Bill Devine, Children's Hospital of Pittsburgh.) 
+  
+It is the morphology of the bridging leaflets themselves that accounts for much of the remaining variability in atrioventricular septal defects with a common atrioventricular junction. The overall valvar morphology is comparable in all hearts with this specific phenotype. The variability depends on the relationship of the two bridging leaflets to each other, or their relationships, on the one hand, to the lower edge of the atrial septum and, on the other hand, to the crest of the muscular ventricular septum. If these two features are described separately, there is no need to use terms such as 'complete', 'partial', and 'intermediate' when seeking to subdivide the group. It is the use of these terms that, in the past, has created most confusion in description. From the surgical stance, if it is possible to visualise a bare area at the midportion of the ventricular septal crest; this would constitute a complete lesion. If the crest of the septum is covered by a tongue of tissue that joins the bridging leaflets together, then the lesion is considered either partial or intermediate. The intermediate variant is characterised by the presence of shunting at both atrial and ventricular levels, but with separate valvar orifices within the common atrioventricular junction.
 
-prevailing haemodynamic conditions, together with the extent of the tethering. If the leaflets are firmly attached to the ventricular septum, shunting will be
-
-confined at atrial level. This is the arrangement found most frequently in the typical ostium primum defect, with separate right and left valvar orifices within
-
-the common junction, but with both bridging leaflets firmly fused to the crest of the ventricular septum (Figure 7.50). Much less frequently, the bridging leaflets
+The partial variant, with no ventricular shunting, is also well described as the ostium primum variant. The bridging leaflets are joined to each other along the crest of the ventricular septum by a connecting tongue of leaflet tissue (**Figure 7.47**). The essence of the ostium primum defect, therefore, is the presence of separate valvar orifices for the right and left ventricles within the common atrioventricular junction. Because the heart of necessity possesses a common atrioventricular iunction, the left valve has three leaflets, with an extensive zone of apposition between the left ventricular components of the superior and inferior bridging leaflets. This area, in the past, was frequently described as a cleft. It has no morphological similarity to the cleft found in the aortic leaflet of the mitral valve in hearts with normal atrioventricular septation and separate right and left atrioventricular junctions. It is necessary surgically to close part, or all, of this zone of apposition when repairing ostium primum defects (**Figure 7.48**). The resulting closure, nonetheless, does not recreate a leaflet comparable to the aortic leaflet of the normal mitral valve (**Figure 7.49**).
 
 ![](_page_25_Picture_2.jpeg)
 
-Fig. 7.47 This heart with an atrioventricular septal defect and separate right and left valvar orifices is viewed in anatomical orientation from above, after removal of the atrial chambers and the arterial trunks (compare with Figure 7.39). The common atrioventricular junction is guarded by a valve with separate orifices for the right and left ventricle. This is because a tongue of leaflet tissue (star) joins together the facing surfaces of the bridging leaflets (compare with Fig. 7.39). The white doubleheaded arrow shows the zone of apposition between the left ventricular components of the bridging leaflets.
+**Fig. 7.47** This heart with an atrioventricular septal defect and separate right and left valvar orifices is viewed in anatomical orientation from above, after removal of the atrial chambers and the arterial trunks (compare with **Figure 7.39**). The common atrioventricular junction is guarded by a valve with separate orifices for the right and left ventricle. This is because a tongue of leaflet tissue (star) joins together the facing surfaces of the bridging leaflets (compare with **Fig. 7.39**). The white doubleheaded arrow shows the zone of apposition between the left ventricular components of the bridging leaflets.
 
 ![](_page_25_Picture_4.jpeg)
 
-Fig. 7.48 This view, taken through a right atriotomy, shows the trifoliate configuration of the left atrioventricular valve subsequent to repair of the zone of apposition between the left ventricular components of the bridging leaflets (dashed black double-headed arrow). Even after the surgical repair, the valve has no similarity to the normal mitral valve (see Figure 7.49).
-
-can be firmly attached to the underside of the atrial septum (Figure 7.51). This arrangement will confine the potential for shunting at the ventricular level. It
-
-produces the true ventricular septal defect of atrioventricular canal variety, as the valve guarding the common atrioventricular junction will have the
-
-characteristics of a common atrioventricular valve, rather than tricuspid and mitral valves (Figures 7.51–7.55). The potential also exists, nonetheless, for the
-
+**Fig. 7.48** This view, taken through a right atriotomy, shows the trifoliate configuration of the left atrioventricular valve subsequent to repair of the zone of apposition between the left ventricular components of the bridging leaflets (dashed black double-headed arrow). Even after the surgical repair, the valve has no similarity to the normal mitral valve (see **Figure 7.49**).  
+  
 ![](_page_26_Picture_2.jpeg)
 
-Fig. 7.49 This view through a right atriotomy shows a normal mitral valve. The structure bears no comparison to the trifoliate valve shown in Figure 7.48.
+**Fig. 7.49** This view through a right atriotomy shows a normal mitral valve. The structure bears no comparison to the trifoliate valve shown in **Figure 7.48**.
+    
+The options for haemodynamic shunting across the atrioventricular septal defects, which largely colour the clinical features, depend upon the relationship of the bridging leaflets to the septal structures. When there is a common valvar orifice, it is extremely rare for the leaflets to be attached directly to the crest of the ventricular septum, although the extent of their tethering by tendinous cords can vary markedly. When the bridging leaflets lack direct attachments to the septal structures, the potential exists for shunting at both atrial and ventricular levels, the magnitude of the shunts depending on the prevailing haemodynamic conditions, together with the extent of the tethering. If the leaflets are firmly attached to the ventricular septum, shunting will be confined at atrial level. This is the arrangement found most frequently in the typical ostium primum defect, with separate right and left valvar orifices within the common junction, but with both bridging leaflets firmly fused to the crest of the ventricular septum (**Figure 7.50**). Much less frequently, the bridging leaflets can be firmly attached to the underside of the atrial septum (**Figure 7.51**). This arrangement will confine the potential for shunting at the ventricular level. It produces the true ventricular septal defect of atrioventricular canal variety, as the valve guarding the common atrioventricular junction will have the characteristics of a common atrioventricular valve, rather than tricuspid and mitral valves (**Figures 7.51**–**7.55**). The potential also exists, nonetheless, for the leaflets to be free-floating even in the presence of separate valvar orifices (**Figure 7.56**). Most would consider the lesion shown in **Figure 7.56** as an intermediate defect. If the variability in terms of attachment of the bridging leaflets is described, along with information concerning the presence of a common valvar orifice or separate right and left orifices, there is no need to introduce the concept of intermediate or transitional variants. We recognise, nonetheless, the value of the shorthand terms of partial, intermediate, and complete variants, providing that all working on the same team understand the definitions used for the different types.
 
 ![](_page_26_Picture_4.jpeg)
 
-Fig. 7.50 This heart with a common atrioventricular junction and separate right and left valvar orifices is shown from the left side in anatomical orientation. The bridging leaflets are firmly fused to the crest of the ventricular septum (red dotted line), confining shunting through the atrioventricular septal defect at the atrial level. The white double-headed arrow shows the zone of apposition between the left ventricular components of the bridging leaflets. This is the essence of the ostium primum defect.
-
-leaflets to be free-floating even in the presence of separate valvar orifices (Figure 7.56). Most would consider the lesion shown in Figure 7.56 as an
-
-intermediate defect. If the variability in terms of attachment of the bridging leaflets is described, along with information concerning the presence of a common
-
-valvar orifice or separate right and left orifices, there is no need to introduce the concept of intermediate or transitional variants. We recognise, nonetheless, the
+**Fig. 7.50** This heart with a common atrioventricular junction and separate right and left valvar orifices is shown from the left side in anatomical orientation. The bridging leaflets are firmly fused to the crest of the ventricular septum (red dotted line), confining shunting through the atrioventricular septal defect at the atrial level. The white double-headed arrow shows the zone of apposition between the left ventricular components of the bridging leaflets. This is the essence of the ostium primum defect.
 
 ![](_page_27_Picture_2.jpeg)
 
-Fig. 7.51 The four-chamber section is through an anatomical specimen from a patient with deficient atrioventricular septation and a common atrioventricular junction (dashed white doubleheaded arrow). The inferior bridging leaflet is firmly fused to the undersurface of the atrial septum (star), confining shunting through the atrioventricular septal defect at the ventricular level (solid white double-headed arrow).
+**Fig. 7.51** The four-chamber section is through an anatomical specimen from a patient with deficient atrioventricular septation and a common atrioventricular junction (dashed white doubleheaded arrow). The inferior bridging leaflet is firmly fused to the undersurface of the atrial septum (star), confining shunting through the atrioventricular septal defect at the ventricular level (solid white double-headed arrow).
 
 ![](_page_27_Picture_4.jpeg)
 
-Fig. 7.52 The specimen is viewed in anatomical orientation from the right side. The defect permits shunting at the ventricular level only, because although the leaflets of the atrioventricular valve form a bridge across the crest of the ventricular septum into the left ventricle, the atrial septum is intact (star).
-
-value of the shorthand terms of partial, intermediate, and complete variants, providing that all working on the same team understand the definitions used for the different types.
-
-Thus, in many patients with so-called partial defects, with separate right and left valvar orifices within the common junction, echo Doppler interrogation reveals the potential for interventricular shunting
-
-beneath the tongue that joins together the bridging leaflets, or otherwise through intercordal spaces tethering the bridging leaflets themselves. Such patients are well described as having separate valvar
+**Fig. 7.52** The specimen is viewed in anatomical orientation from the right side. The defect permits shunting at the ventricular level only, because although the leaflets of the atrioventricular valve form a bridge across the crest of the ventricular septum into the left ventricle, the atrial septum is intact (star).
 
 ![](_page_28_Picture_2.jpeg)
 
-Fig. 7.53 The image shows the left-sided aspect of another heart with deficient atrioventricular septation and a common atrioventricular junction. This picture clearly shows the attachments of the bridging leaflets to the leading edge of the atrial septum, confining shunting at the ventricular level. Note the typical configuration of the left ventricular outflow tract (star).
+**Fig. 7.53** The image shows the left-sided aspect of another heart with deficient atrioventricular septation and a common atrioventricular junction. This picture clearly shows the attachments of the bridging leaflets to the leading edge of the atrial septum, confining shunting at the ventricular level. Note the typical configuration of the left ventricular outflow tract (star).
 
 ![](_page_28_Picture_4.jpeg)
 
-Fig. 7.54 This picture, taken in the operating room, shows the right atrial aspect of an atrioventricular septal defect with a common atrioventricular junction, in which shunting is confined at the ventricular level because the bridging leaflets are firmly attached to the underside of the atrial septum. In this image, the septal defect itself is not obvious.
-
-orifices, with predominantly atrial shunting, but with the potential for minimal ventricular shunting. The basic morphology of the deficient ventricular septum, therefore, is comparable in all patients having atrioventricular septal
-
-defects with a common atrioventricular junction12. As already emphasised, it is this disposition that determines the course of the ventricular conduction pathways (Figure 7.34)13,20. Although the hallmark of the malformation is the
-
-common atrioventricular junction, coupled with the absence of the atrioventricular muscular and membranous separating structures, there is also hypoplasia of the muscular ventricular septum to a greater or lesser extent. This
-
+**Fig. 7.54** This picture, taken in the operating room, shows the right atrial aspect of an atrioventricular septal defect with a common atrioventricular junction, in which shunting is confined at the ventricular level because the bridging leaflets are firmly attached to the underside of the atrial septum. In this image, the septal defect itself is not obvious.
+  
 ![](_page_29_Picture_2.jpeg)
 
 **Fig. 7.55** This image shows how, when the surgeon separated the right ventricular components of the bridging leaflets of the heart shown in Figure 7.54, the common atrioventricular junction is seen, with shunting at the ventricular level across the atrioventricular septal defect.
@@ -404,9 +316,7 @@ common atrioventricular junction, coupled with the absence of the atrioventricul
 
 **Fig. 7.56** In this heart from a patient with an atrioventricular septal defect (white double-headed arrow), with separate valvar orifices and shown in anatomical orientation, the bridging leaflets and the connecting tongue float free of both atrial and ventricular septal structures so that there are both atrial and ventricular defects.
 
-involves disproportion between the inlet and outlet dimensions of the ventricular septum when compared to the normal heart (compare Figures 7.57 and 7.58). The degree of septal hypoplasia also varies with regard to the extent of scooping of the septum (Figure 7.58). The scooping is greater in hearts with a common valvar orifice than in those with separate right and left orifices. Although the scooping is
-
-greater in hearts with a common valvar orifice, thus increasing the likelihood of there being a ventricular component to the defect, variability is still found among these hearts. When there is minimal scooping, it
+Thus, in many patients with so-called partial defects, with separate right and left valvar orifices within the common junction, echo Doppler interrogation reveals the potential for interventricular shunting beneath the tongue that joins together the bridging leaflets, or otherwise through intercordal spaces tethering the bridging leaflets themselves. Such patients are well described as having separate valvar orifices, with predominantly atrial shunting, but with the potential for minimal ventricular shunting. The basic morphology of the deficient ventricular septum, therefore, is comparable in all patients having atrioventricular septal defects with a common atrioventricular junction. As already emphasised, it is this disposition that determines the course of the ventricular conduction pathways (**Figure 7.34**). Although the hallmark of the malformation is the common atrioventricular junction, coupled with the absence of the atrioventricular muscular and membranous separating structures, there is also hypoplasia of the muscular ventricular septum to a greater or lesser extent. This involves disproportion between the inlet and outlet dimensions of the ventricular septum when compared to the normal heart (compare **Figures 7.57** and **7.58**). The degree of septal hypoplasia also varies with regard to the extent of scooping of the septum (**Figure 7.58**). The scooping is greater in hearts with a common valvar orifice than in those with separate right and left orifices. Although the scooping is greater in hearts with a common valvar orifice, thus increasing the likelihood of there being a ventricular component to the defect, variability is still found among these hearts. When there is minimal scooping, it is certainly possible to close the ventricular component of the septal defect by attaching the bridging leaflets directly to the right ventricular aspect of the ventricular septum. This manoeuvre, in fact, is feasible in all patients with a common valvar orifice, although not all are convinced of its utility. Thus, the use of the modified single patch approach remains controversial. Some consider that the technique creates potential narrowing of the left ventricular outflow tract. There may be subtle technical differences that produce the different results.
 
 ![](_page_30_Picture_2.jpeg)
 
@@ -414,25 +324,20 @@ greater in hearts with a common valvar orifice, thus increasing the likelihood o
 
 ![](_page_30_Figure_4.jpeg)
 
-Fig. 7.58 The valvar leaflets have been removed from the ventricular mass in this heart with deficient atrioventricular septation and a common atrioventricular junction. The heart is viewed from the left side and shown in anatomical orientation. Because the leaflets have been removed, there is no way of knowing whether, originally, there was a common atrioventricular orifice, or separate valvar orifices for the right and left ventricles. Note the scooping of the ventricular septum (yellow doubleheaded arrow), and the disproportion between inlet (blue doubleheaded arrow) and outlet (red double-headed arrow) dimensions of the ventricular mass.
+**Fig. 7.58** The valvar leaflets have been removed from the ventricular mass in this heart with deficient atrioventricular septation and a common atrioventricular junction. The heart is viewed from the left side and shown in anatomical orientation. Because the leaflets have been removed, there is no way of knowing whether, originally, there was a common atrioventricular orifice, or separate valvar orifices for the right and left ventricles. Note the scooping of the ventricular septum (yellow doubleheaded arrow), and the disproportion between inlet (blue doubleheaded arrow) and outlet (red double-headed arrow) dimensions of the ventricular mass.
 
-is certainly possible to close the ventricular component of the septal defect by attaching the bridging leaflets directly to the right ventricular aspect of the ventricular septum<sup>21</sup>. This manoeuvre, in fact, is feasible in all patients with a common valvar orifice<sup>22,23</sup>, although not all are
-
-convinced of its utility. Thus, the use of the modified single patch approach remains controversial. Some consider that the technique creates potential narrowing of the left ventricular outflow tract. There may be subtle technical differences that produce the different results.
-
-If the technique is used, care must be taken not to damage the exposed conduction tissues along the septal crest. The non-branching bundle runs down the crest of the scooped-out septum, and is covered by the inferior bridging leaflet. The inferior leaflet itself is often divided by
-
-a midline raphe immediately above the vulnerable non-branching bundle. The branching component of the conduction axis is found astride the midportion of the septal crest. This is usually covered by the connecting tongue and leaflet tissue in hearts with separate right and left valvar orifices. It is exposed in the presence of a common orifice and free-floating leaflets. The right bundle branch then runs towards the medial papillary muscle. Anterior to this point, the septum is devoid of conduction tissue (Figures 7.59, 7.60)<sup>15</sup>.
-
-Although not readily evident to the surgeon during operation, the left ventricular outflow tract in atrioventricular septal defects is intrinsically narrow<sup>24</sup>. It is much longer in hearts with separate orifices. This is because of the attachment of the superior bridging leaflet to the ventricular septal crest (compare
-
+If the technique is used, care must be taken not to damage the exposed conduction tissues along the septal crest. The non-branching bundle runs down the crest of the scooped-out septum, and is covered by the inferior bridging leaflet. The inferior leaflet itself is often divided by a midline raphe immediately above the vulnerable non-branching bundle. The branching component of the conduction axis is found astride the midportion of the septal crest. This is usually covered by the connecting tongue and leaflet tissue in hearts with separate right and left valvar orifices. It is exposed in the presence of a common orifice and free-floating leaflets. The right bundle branch then runs towards the medial papillary muscle. Anterior to this point, the septum is devoid of conduction tissue (**Figures 7.59**, **7.60**).
+  
 ![](_page_31_Picture_5.jpeg)
 
 **Fig. 7.59** This heart came from a patient with an atrioventricular septal defect with a common atrioventricular junction and shunting confined at the atrial level; in other words, an ostium primum defect. The disposition of the atrioventricular conduction axis has been superimposed in red on the picture, as seen from the right side.
 
 ![](_page_31_Picture_7.jpeg)
 
-**Fig. 7.60** The photograph shows the left ventricular aspect of the heart illustrated in Figure 7.59, again with the location of the atrioventricular conduction axis superimposed on the picture. Note that the left ventricular outflow tract (star) is distant from the conduction tissues.
+**Fig. 7.60** The photograph shows the left ventricular aspect of the heart illustrated in **Figure 7.59**, again with the location of the atrioventricular conduction axis superimposed on the picture. Note that the left ventricular outflow tract (star) is distant from the conduction tissues.
+
+Although not readily evident to the surgeon during operation, the left ventricular outflow tract in atrioventricular septal defects is intrinsically narrow. It is much longer in hearts with separate orifices. This is because of the attachment of the superior bridging leaflet to the ventricular septal crest (compare **Figures 7.61** and **7.62**). The area is prone to postoperative obstruction, and surgical enlargement may be necessary. Obstruction may be due to naturally occurring lesions, or to injudicious placement of a prosthesis used to replace the left atrioventricular valve. If a prosthesis must be employed, the anatomy dictates insertion of a model with low profile, otherwise resection of the shelf that exists between the hingepoint of the superior bridging leaflet and the attachment of the aortic valve. The superior bridging leaflet can also be liberated from the septal crest, inserting a gusset to enlarge the outflow tract (**Figures 7.63** and **7.64**).
+
 
 ![](_page_32_Picture_2.jpeg)
 
@@ -440,39 +345,29 @@ Although not readily evident to the surgeon during operation, the left ventricul
 
 ![](_page_32_Figure_4.jpeg)
 
-**Fig. 7.62** In this heart, again shown in anatomical orientation from the left side (compare with Figure 7.61), the outflow tract (black double-headed arrow) is much shorter in the presence of a common atrioventricular valvar orifice. The star shows the zone of apposition between the bridging leaflets.
-
-Figures 7.61 and 7.62). The area is prone to postoperative obstruction, and surgical enlargement may be necessary. Obstruction may be due to naturally occurring lesions<sup>25</sup>, or to injudicious placement of a prosthesis used to replace the left atrioventricular valve. If a prosthesis must be employed, the anatomy dictates
-
-insertion of a model with low profile, otherwise resection of the shelf that exists between the hingepoint of the superior bridging leaflet and the attachment of the aortic valve<sup>24</sup>. The superior bridging leaflet can also be liberated from the septal crest, inserting a gusset to enlarge the outflow tract (Figures 7.63 and 7.64).
-
-Further variability is found in the commitment of the common atrioventricular junction to the ventricular mass. Usually it is shared equally, giving a balanced arrangement (Figure 7.27). Should the common junction favour one or other ventricle, producing so-called right or left ventricular
+**Fig. 7.62** In this heart, again shown in anatomical orientation from the left side (compare with **Figure 7.61**), the outflow tract (black double-headed arrow) is much shorter in the presence of a common atrioventricular valvar orifice. The star shows the zone of apposition between the bridging leaflets.
 
 ![](_page_33_Picture_2.jpeg)
 
-Fig. 7.63 This heart has an atrioventricular septal defect with a common atrioventricular orifice, but with the superior bridging leaflet tethered across the subaortic outflow tract (crossed black arrows). It is photographed in anatomical orientation from the left side.
+**Fig. 7.63** This heart has an atrioventricular septal defect with a common atrioventricular orifice, but with the superior bridging leaflet tethered across the subaortic outflow tract (crossed black arrows). It is photographed in anatomical orientation from the left side.
 
 ![](_page_33_Picture_4.jpeg)
 
-Fig. 7.64 An incision has been made in the superior bridging leaflet of the heart shown in Figure 7.63, at the same time detaching the leaflet from the crest of the ventricular septum. The incision makes it possible to insert a patch so as to widen the outflow tract (crossed black arrows).
+**Fig. 7.64** An incision has been made in the superior bridging leaflet of the heart shown in **Figure 7.63**, at the same time detaching the leaflet from the crest of the ventricular septum. The incision makes it possible to insert a patch so as to widen the outflow tract (crossed black arrows).
 
-dominance, the other ventricle is often severely hypoplastic. This can have a major influence on the outcome of surgery, and should always be assessed preoperatively.
+Further variability is found in the commitment of the common atrioventricular junction to the ventricular mass. Usually it is shared equally, giving a balanced arrangement (**Figure 7.27**). Should the common junction favour one or other ventricle, producing so-called right or left ventricular dominance, the other ventricle is often severely hypoplastic. This can have a major influence on the outcome of surgery, and should always be assessed preoperatively.
 
-In the setting of right ventricular dominance, there is usually alignment between the atrial and ventricular septal structures at the crux. The essence of left ventricular dominance, in contrast, is malalignment between the atrial septum and the muscular ventricular septum (Figure 7.65). This produces an
+In the setting of right ventricular dominance, there is usually alignment between the atrial and ventricular septal structures at the crux. The essence of left ventricular dominance, in contrast, is malalignment between the atrial septum and the muscular ventricular septum (**Figure 7.65**). This produces an arrangement analogous to straddling of the tricuspid valve. As with straddling the tricuspid valve, this has major consequence for the disposition of the atrioventricular conduction axis. Because of the septal malalignment, the connecting atrioventricular node is no longer to be found at the crux. It continues to be formed at the point where the malaligned muscular ventricular septum meets the atrioventricular junction (**Figure 7.66**). This particular arrangement must be identified preoperatively, as it can be exceedingly difficult to recognise during surgery. If unrecognised, it is likely that a standard repair will damage the conduction axis. Septal malalignment, therefore, should be excluded in all cases of atrioventricular septal defect with left ventricular dominance. This arrangement should also be distinguished from those hearts in which the atrial septum is absent, and the coronary sinus terminates in the left atrium.
 
 ![](_page_34_Picture_2.jpeg)
 
-Fig. 7.65 In this specimen from a patient with an atrioventricular septal defect and common atrioventricular junction, shown in anatomical orientation, there is gross malalignment between the muscular ventricular septum (red dotted double-headed arrow) and the atrial septum (black double-headed arrow). As a consequence, the atrioventricular conduction axis originates from an anomalous node (star) in the inferior aspect of the right atrioventricular junction, rather than at the crux of the heart.
+**Fig. 7.65** In this specimen from a patient with an atrioventricular septal defect and common atrioventricular junction, shown in anatomical orientation, there is gross malalignment between the muscular ventricular septum (red dotted double-headed arrow) and the atrial septum (black double-headed arrow). As a consequence, the atrioventricular conduction axis originates from an anomalous node (star) in the inferior aspect of the right atrioventricular junction, rather than at the crux of the heart.
 
 ![](_page_34_Picture_4.jpeg)
 
 **Fig. 7.66** The cartoon shows how, when there is malalignment between the atrial septum and the muscular ventricular septum, with left ventricular dominance, the atrioventricular node is formed at the point where the ventricular septum meets the inferior atrioventricular junction.
-
-arrangement analogous to straddling of the tricuspid valve<sup>26</sup>. As with straddling the tricuspid valve, this has major consequence for the disposition of the atrioventricular conduction axis<sup>27</sup>. Because of the septal malalignment, the connecting atrioventricular node is no longer to be found at the crux. It continues to be formed
-
-at the point where the malaligned muscular ventricular septum meets the atrioventricular junction (Figure 7.66). This particular arrangement must be identified preoperatively, as it can be exceedingly difficult to recognise during surgery. If unrecognised, it is likely that a standard repair will damage the conduction
-
-axis. Septal malalignment, therefore, should be excluded in all cases of atrioventricular septal defect with left ventricular dominance. This arrangement should also be distinguished from those hearts in which the atrial septum is absent, and the coronary sinus terminates in the left atrium<sup>16</sup>.
+</div>
+</details>
 
 ### Ventricular septal defects
 
@@ -649,7 +544,14 @@ Although the descriptions thus far have related to ventricular septal defects in
 patients having concordant atrioventricular and ventriculoarterial connections, this topology, and the guidance it gives to the site of the conduction axis, is equally valid for patients with concordant atrioventricular connections, but abnormal ventriculoarterial connections (see Chapter 8). The only exception to the rules we have described for recognition of the location of the atrioventricular conduction axis is produced by overriding and straddling of the tricuspid valve (see later). This arrangement results in a particular type of defect that opens into the inlet of the right ventricle. As we have described, defects with markedly different phenotypical features, and with markedly different dispositions of the atrioventricular conduction axis, can open towards the inlet of the morphologically right ventricle. This is why it is insufficient simply to describe them as inlet defects<sup>35</sup>. The commonest defects opening into the right ventricular inlet are probably the ones that are perimembranous (Figure 7.74). These, and the ones associated with straddling and overriding of the tricuspid valve, have been described as being of the atrioventricular canal type. It is certainly the case that hearts with a common
 
 atrioventricular iunction can exist with shunting exclusively at the ventricular level (Figure 7.52). Patients with this morphology, however, need to be distinguished from those with either perimembranous defects opening into the right ventricular inlet, or those associated with straddling and overriding of the tricuspid valve, as both the latter variants are found in the setting of separate atrioventricular junctions. All of these variants must be distinguished from muscular defects opening into the inlet of the right ventricle (Figure 7.80). There is similar phenotypical variability among defects opening into the right ventricular outlet, but the major feature of surgical significance in this latter setting is to determine whether a muscular bar is interposed between the caudal rim of the defect and the atrioventricular conduction axis (compare Figures 7.88 and 7.90).
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>MALFORMATIONS OF THE ATRIOVENTRICULAR VALVES</summary>
+<div class="details-content">
 # MALFORMATIONS OF THE ATRIOVENTRICULAR VALVES
 
 The pathological lesions that affect atrioventricular valves, both acquired and congenital, are legion. Not all are amenable to surgical repair. We will concentrate on features of immediate surgical relevance.
@@ -789,7 +691,14 @@ Fig. 7.109 This heart with deficient atrioventricular septation, a common atriov
 ![](_page_58_Picture_4.jpeg)
 
 Fig. 7.110 This specimen, removed at surgery, shows the socalled 'parachute' arrangement of the mitral valve. There is fusion of the papillary muscles, along with thickening and fusion of the tendinous cords.
+</div>
+</details>
 
+
+
+<details class="med-details">
+<summary>MALFORMATIONS OF THE ARTERIAL VALVES AND OUTFLOW TRACTS</summary>
+<div class="details-content">
 # MALFORMATIONS OF THE ARTERIAL VALVES AND OUTFLOW TRACTS
 
 In this section, we consider the surgical aspects of subvalvar obstruction of the ventricular outflow tracts, valvar stenosis, and atresia of the outflow. In the normally connected heart, obstruction in the left ventricular outflow tract produces subaortic stenosis. It must be remembered that the same anatomical lesions will produce subpulmonary obstruction in the patient with discordant ventriculoarterial connections. Similarly, obstruction of the right ventricular outflow tract produces subpulmonary obstruction in the heart with normal segmental connections, but subaortic stenosis when the ventriculoarterial connections are discordant. When both outflow tracts are connected to the same ventricle, the anatomical problems are more discrete. These are considered separately in Chapter 8.
@@ -990,6 +899,13 @@ Fig. 7.139 This operative view, taken through an incision in the pulmonary trunk
 
 Fig. 7.140 The view, taken in the operating room, shows the external narrowing (arrows) at the sinutubular junction of the pulmonary valve demonstrated in Figure 7.139.
 
+</div>
+</details>
+
+
+<details class="med-details">
+<summary>TETRALOGY OF FALLOT</summary>
+<div class="details-content">
 ## TETRALOGY OF FALLOT
 
 One form of obstruction of the right ventricular outflow tract is so clearly demarcated that it constitutes an entity in its own right, namely tetralogy of Fallot.
@@ -1205,33 +1121,5 @@ efficacy of replacement of the valve with or without arterial plication has not 
 ![](_page_90_Picture_2.jpeg)
 
 **Fig. 7.169** This operative view of the patient shown in Figures 7.166 and 7.167 shows the grossly enlarged left pulmonary artery, which is as large as the aorta.
-
-#### References cited
-
-- Anderson RH, Brown NA. The anatomy of the heart revisited. Anat Rec 1996; 246: 1–7.
-- Anderson RH, Webb S, Brown NA. Clinical anatomy of the atrial septum with reference to its developmental components. *Clin Anat* 1999; 12: 362–374.
-- Sharratt GP, Webb S, Anderson RH. The vestibular defect: an interatrial communication due to a deficiency in the atrial septal component derived from the vestibular spine. *Cardiol Young* 2003; 13: 184–190.
-- Anderson RH, Ho SY, Falcao S, Daliento L, Rigby ML. The diagnostic features of atrioventricular septal defect with common atrioventricular junction. *Cardiol Young* 1998; 8: 33–49.
-- Crystal MA, Al Najashi K, Williams WG, Redington AN, Anderson RH. Inferior sinus venosus defect: echocardiographic diagnosis and surgical approach. J Thorac Cardiovasc Surg 2009; 137: 1349–1355.
-- Butts RJ, Crean AM, Hlavacek AM, et al. Veno-venous bridges: the forerunners of the sinus venosus defect. *Cardiol Young* 2011; 21: 623–630
-- Ettedgui JA, Siewers RD, Anderson RH, Zuberbuhler JR. Diagnostic echocardiographic features of the sinus venous defect. *Br Heart J* 1990; 64: 329–331.
-
-- 8. Al Zaghal AM, Li J, Anderson RH, et al. Anatomic criteria for the diagnosis of sinus venosus defects. *Heart* 1997; 78: 298–304.
-- Knauth A, McCarthy KP, Webb S, et al. Interatrial communication through the mouth of the coronary sinus defect. *Cardiol Young* 2002; 12: 364–372.
-- Warden HE, Gustafson RA, Tarnay TJ, Neal WA. An alternative method for repair of partial anomalous venous connection to the superior vena cava. *Ann Thorac Surg* 1984; 38: 601–605.
-- Stewart RD, Bailliard F, Kelle AM, et al. Evolving surgical strategy for sinus venosus atrial septal defect: effect in sinus node function and late venous obstruction. *Ann Thorac Surg* 2007; 84: 1651–1658.
-- Becker AE, Anderson RH. Atrioventricular septal defects. What's in a name? J Thorac Cardiovasc Surg 1982; 83: 461–469.
-- Gerbode F, Hultgren H, Melrose D, Osborn J. Syndrome of left ventricular–right atrial shunt, successful surgical repair of defect in five cases with observation of bradycardia on closure. *Ann* Surg 1958; 148: 433–446.
-- Kelle AM, Young L, Kaushal S, et al. The Gerbode defect: the significance of a left ventricular to right atrial shunt. *Cardiol Young* 2009; 19(Suppl 2): 96–99.
-- Lacour-Gayet F, Campbell DN, Mitchell M, Malhotta S, Anderson RH. Surgical repair of atrioventricular septal defect with
-
-- common atrioventricular junction. *Cardiol Young* 2006; **16**(Suppl 3): 52–58.
-- Wilcox BR, Anderson RH, Henry GW, Mattos SS. Unusual opening of coronary sinus in atrioventricular septal defects. *Ann Thorac Surg* 1990; 50: 767–770.
-- Penkoske PA, Neches WH, Anderson RH, Zuberbuhler JR. Further observations on the morphology of atrioventricular septal defects. J Thorac Cardiovasc Surg 1985; 90: 611–622.
-- 18. Rastelli GC, Kirklin JW, Titus JL.
-  Anatomic observations on complete form of persistent common atrioventricular canal with special reference to atrioventricular valves. *Proc Staff Meet Mayo Clin* 1966; 41: 296–308.
-- 19. Sigfusson G, Ettedgui JA, Silverman NH, Anderson RH. Is a cleft in the anterior leaflet of an otherwise normal mitral valve an atrioventricular canal malformation? *J Am Coll Cardiol* 1995; **26**: 508–515.
-- Thiene G, Wenink ACG, Frescura C, et al.
-   The surgical anatomy of conduction tissues in atrioventricular defects. J Thorac Cardiovasc Surg 1981; 82: 928–937.
-- 21. Wilcox BR, Jones DR, Frantz EG, et al. An anatomically sound, simplified approach to repair of "complete" atrioventricular septal defect. *Ann Thorac Surg* 1997; **64**: 487–494.
-- Nicholson IA, Nunn GR, Sholler GF, et al. Simplified single patch technique for the repair of atrioventricular septal defect. J Thorac Cardiovasc Surg 1999; 118: 642–646.
+</div>
+</details>
