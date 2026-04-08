@@ -366,52 +366,49 @@ In the setting of right ventricular dominance, there is usually alignment betwee
 ![](_page_34_Picture_4.jpeg)
 
 **Fig. 7.66** The cartoon shows how, when there is malalignment between the atrial septum and the muscular ventricular septum, with left ventricular dominance, the atrioventricular node is formed at the point where the ventricular septum meets the inferior atrioventricular junction.
-</div>
-</details>
+</div></details>
 
-### Ventricular septal defects
+<details class="med-details"><summary>
+  
+### Ventricular septal defects</summary><div class="details-content">
 
-When asked to close a clinically significant hole between the ventricles, the primary concern of the surgeon is to ensure that the task can be achieved in a safe and secure fashion. The important anatomical considerations reflect the location of the defect relative to the landmarks of the right ventricle. These features determine the proximity of the defect to the atrioventricular conduction axis, and to the leaflets of the atrioventricular and arterial valves. One categorisation of the defects<sup>28</sup> was designed specifically to focus the attention of the surgeon on these pertinent features. The essence of the system was that, according to the anatomical features of the margins of the defects as seen from the morphologically right ventricle, all the holes fitted into one of three groups.
+When asked to close a clinically significant hole between the ventricles, the primary concern of the surgeon is to ensure that the task can be achieved in a safe and secure fashion. The important anatomical considerations reflect the location of the defect relative to the landmarks of the right ventricle. These features determine the proximity of the defect to the atrioventricular conduction axis, and to the leaflets of the atrioventricular and arterial valves. 
 
-The first group included all those holes that, when viewed from the right ventricle, had exclusively muscular borders (Figure 7.67). The phenotypical feature of the second group was that part of the right ventricular border was composed of fibrous continuity between the leaflets of an atrioventricular valve and an arterial valve (Figure 7.68). The patients falling in the
+<details class="med-details"><summary>
+  
+#### Сategorisation by morphologically right ventricle</summary>
+<div class="details-content">
+One categorisation of the defects was designed specifically to focus the attention of the surgeon on these pertinent features. The essence of the system was that, according to the anatomical features of the margins of the defects as seen from the morphologically right ventricle, all the holes fitted into one of three groups.
 
-third group were unified because part of their right ventricular borders was made up of fibrous continuity between the leaflets of the aortic and pulmonary valves (Figure 7.69), with holes of this third type showing additional variability depending on whether the fibrous continuity extended to include the leaflet of an atrioventricular valve. The defects in the patients making up the third group, of necessity open between the outflow tracts of the ventricles. Defects within the other groups, however, need further description depending on whether they open primarily to the inlet, to the apical, or to the outlet components of the right ventricle. There is thus an additional feature that always requires description, if present, namely malalignment between the septal components.
-
-There are, of course, other categorisations available for distinguishing between types of holes between the ventricles. One time-honoured system identified four variants, and grouped them in numerical fashion<sup>29</sup>. Another popular system used developmental considerations so as to distinguish between the different holes<sup>30</sup>. We prefer the system designed specifically to emphasise the
-
-surgical considerations (Figure 7.70). When using this system, nonetheless, the borders of the holes between the ventricles must be assessed as seen by the surgeon working through the morphologically right ventricle (Figures 7.67–7.69).
-
-The essence of the largest group of defects requiring surgical closure is that part of the central fibrous body, specifically the area of fibrous continuity between the leaflets of the mitral, aortic, and tricuspid valves, that forms a direct part of the rim of the defect as seen from the right ventricle (Figure 7.68). This fibrous area incorporates the atrioventricular component of the membranous septum, which retains its integrity when ventricular septation is incomplete, being an integral part of the central fibrous body. The defects, therefore, surround the membranous part of the septum, and are described, justifiably, as being perimembranous. In many instances, the interventricular component of the membranous septum is found as a fold of fibrous tissue in the posteroinferior margin of the defect (Figure 7.71).
-
-The defects themselves represent the unclosed embryonic interventricular
-
+The first group included all those holes that, when viewed from the right ventricle, had exclusively muscular borders (**Figure 7.67**). The phenotypical feature of the second group was that part of the right ventricular border was composed of fibrous continuity between the leaflets of an atrioventricular valve and an arterial valve (**Figure 7.68**). The patients falling in the third group were unified because part of their right ventricular borders was made up of fibrous continuity between the leaflets of the aortic and pulmonary valves (**Figure 7.69**), with holes of this third type showing additional variability depending on whether the fibrous continuity extended to include the leaflet of an atrioventricular valve. The defects in the patients making up the third group, of necessity open between the outflow tracts of the ventricles. Defects within the other groups, however, need further description depending on whether they open primarily to the inlet, to the apical, or to the outlet components of the right ventricle. There is thus an additional feature that always requires description, if present, namely malalignment between the septal components.
+  
 ![](_page_35_Picture_10.jpeg)
 
 **Fig. 7.67** This view through a right atriotomy, and across the orifice of the tricuspid valve, shows a hole between the ventricles that is enclosed by the walls of the muscular ventricular septum (star).
 
 ![](_page_36_Picture_2.jpeg)
 
-Fig. 7.68 This view, again through a right atriotomy with retraction of the leaflets of the tricuspid valve, shows the fibrous tissue of the atrioventricular septum forming part of the right ventricular border, as viewed by the surgeon. This is the criterion that permits the defect to be categorised as being perimembranous.
+**Fig. 7.68** This view, again through a right atriotomy with retraction of the leaflets of the tricuspid valve, shows the fibrous tissue of the atrioventricular septum forming part of the right ventricular border, as viewed by the surgeon. This is the criterion that permits the defect to be categorised as being perimembranous.
 
 ![](_page_36_Figure_4.jpeg)
 
-Fig. 7.69 This surgical view, through a right ventriculotomy, shows a hole between the ventricles that, at its cranial border, has fibrous continuity between the leaflets of the aortic and pulmonary valves (black dotted line). The defect, opening into the ventricular outlets between the limbs of the septomarginal trabeculation, is doubly committed and directly juxta-arterial.
+**Fig. 7.69** This surgical view, through a right ventriculotomy, shows a hole between the ventricles that, at its cranial border, has fibrous continuity between the leaflets of the aortic and pulmonary valves (black dotted line). The defect, opening into the ventricular outlets between the limbs of the septomarginal trabeculation, is doubly committed and directly juxta-arterial.
+</div>
+</details>
 
-communication (Figure 7.72). They presumably result from a deficiency of the muscular ventricular septum forming the apical and cranial rims of the persisting hole. Defects requiring surgical closure will always be considerably larger than the area occupied by the interventricular membranous septum of the normal heart. The degree of septal deficiency has important consequences for the disposition of the axis of atrioventricular conduction tissue31. In the normally formed heart, the axis penetrates the atrioventricular membranous septum to reach the crest of the muscular septum. Having penetrated, it
+There are, of course, other categorisations available for distinguishing between types of holes between the ventricles. One time-honoured system identified four variants, and grouped them in numerical fashion. Another popular system used developmental considerations so as to distinguish between the different holes. We prefer the system designed specifically to emphasise the surgical considerations (**Figure 7.70**). When using this system, nonetheless, the borders of the holes between the ventricles must be assessed as seen by the surgeon working through the morphologically right ventricle (**Figures 7.67**–**7.69**).
 
 ![](_page_37_Figure_2.jpeg)
 
-Fig. 7.70 The cartoon, shown in surgical orientation, illustrates the categorisation used for differentiating the phenotypical variations for holes between the ventricles. It combines the phenotypical features shown in Figures 7.67 to 7.69 with the location of the hole relative to the components of the right ventricle.
+**Fig. 7.70** The cartoon, shown in surgical orientation, illustrates the categorisation used for differentiating the phenotypical variations for holes between the ventricles. It combines the phenotypical features shown in **Figures 7.67** to **7.69** with the location of the hole relative to the components of the right ventricle.
+  
+The essence of the largest group of defects requiring surgical closure is that part of the central fibrous body, specifically the area of fibrous continuity between the leaflets of the mitral, aortic, and tricuspid valves, that forms a direct part of the rim of the defect as seen from the right ventricle (**Figure 7.68**). This fibrous area incorporates the atrioventricular component of the membranous septum, which retains its integrity when ventricular septation is incomplete, being an integral part of the central fibrous body. The defects, therefore, surround the membranous part of the septum, and are described, justifiably, as being perimembranous. In many instances, the interventricular component of the membranous septum is found as a fold of fibrous tissue in the posteroinferior margin of the defect (**Figure 7.71**).
 
 ![](_page_37_Picture_4.jpeg)
 
-through the orifice of the tricuspid valve, a remnant of the interventricular membranous septum is present in the posteroinferior margin of the perimembranous defect.
-
-is sandwiched between the muscular septum and the interventricular component of the membranous septum (Figure 7.73). In perimembranous defects, when the atrioventricular connections are concordant, so as to reach the crest of the
-
-muscular ventricular septum, the axis penetrates the area of continuity between the leaflets of the aortic and tricuspid valves (Figure 7.74). When a remnant of the interventricular membranous septum is present, it lies immediately on top of the
-
-atrioventricular bundle (Figure 7.74). If such a remnant is seen at operation (Figure 7.71), and is substantial, it may safely be used for anchorage of sutures placed superficially to anchor a surgical patch.
+**Fig. 7.71** In this heart, viewed through a right atriotomy and through the oriﬁce of the tricuspid valve, a remnant of the interventricular membranous septum is present in the posteroinferior margin of the perimembranous defect.
+  
+The defects themselves represent the unclosed embryonic interventricular communication (**Figure 7.72**). They presumably result from a deficiency of the muscular ventricular septum forming the apical and cranial rims of the persisting hole. Defects requiring surgical closure will always be considerably larger than the area occupied by the interventricular membranous septum of the normal heart. The degree of septal deficiency has important consequences for the disposition of the axis of atrioventricular conduction tissue. In the normally formed heart, the axis penetrates the atrioventricular membranous septum to reach the crest of the muscular septum. Having penetrated, it is sandwiched between the muscular septum and the interventricular component of the membranous septum (**Figure 7.73**). In perimembranous defects, when the atrioventricular connections are concordant, so as to reach the crest of the muscular ventricular septum, the axis penetrates the area of continuity between the leaflets of the aortic and tricuspid valves (**Figure 7.74**). When a remnant of the interventricular membranous septum is present, it lies immediately on top of the atrioventricular bundle (**Figure 7.74**). If such a remnant is seen at operation (**Figure 7.71**), and is substantial, it may safely be used for anchorage of sutures placed superficially to anchor a surgical patch.
 
 ![](_page_38_Picture_2.jpeg)
 
@@ -420,76 +417,52 @@ atrioventricular bundle (Figure 7.74). If such a remnant is seen at operation (F
 ![](_page_38_Figure_4.jpeg)
 
 **Fig. 7.73** This four-chamber section, shown in anatomical orientation, reveals the position of the penetrating atrioventricular bundle (star) in the normal heart. It is sandwiched between the central fibrous body and the crest of the muscular ventricular septum.
-
-The location of the medial papillary muscle, together with the apex of the triangle of Koch, provides the guide for predicting the location of the conduction axis in almost all holes that are
-
-perimembranous, in other words the holes bordered posteroinferiorly by fibrous continuity between the leaflets of the aortic and tricuspid valves (Figure 7.75). The only exceptions to this rule are the defects associated with straddling and overriding of the tricuspid valve<sup>27</sup>. The proximity of the conduction tissues to the leaflets of the aortic and atrioventricular valves, however, varies depending upon the precise area of
-
+  
 ![](_page_39_Picture_2.jpeg)
 
-Fig. 7.74 This 'four-chamber' section, again seen in anatomical orientation, shows the position of the penetrating atrioventricular bundle (star) in a heart with a perimembranous ventricular septal defect (black brace). The black dotted line shows the area of fibrous continuity between the leaflets of the aortic and tricuspid valves.
+**Fig. 7.74** This 'four-chamber' section, again seen in anatomical orientation, shows the position of the penetrating atrioventricular bundle (star) in a heart with a perimembranous ventricular septal defect (black brace). The black dotted line shows the area of fibrous continuity between the leaflets of the aortic and tricuspid valves.
+
+The location of the medial papillary muscle, together with the apex of the triangle of Koch, provides the guide for predicting the location of the conduction axis in almost all holes that are perimembranous, in other words the holes bordered posteroinferiorly by fibrous continuity between the leaflets of the aortic and tricuspid valves (**Figure 7.75**). The only exceptions to this rule are the defects associated with straddling and overriding of the tricuspid valve. The proximity of the conduction tissues to the leaflets of the aortic and atrioventricular valves, however, varies depending upon the precise area of deficiency of the muscular septum. It is likely that all parts are deficient to a certain extent. It can usually be determined, nonetheless, which part is most affected. When a perimembranous defect extends to open mostly into the inlet of the right ventricle, its atrial margin, as viewed through the tricuspid valve, is an area of fibrous continuity between the leaflets of the aortic and tricuspid valves, but the fibrous continuity also extends to involve the leaflets of the mitral valve (**Figure 7.75**). The apex of the triangle of Koch is usually deviated inferiorly towards the coronary sinus. It is thus to the right-hand side of the surgeon working through the atrium. The axis of atrioventricular conduction tissue penetrates this corner of the defect. Usually, the non-branching and branching bundles are carried on the left ventricular aspect of the muscular septum as they descend the right-hand margin of the defect. The right bundle branch then courses intramvocardially, surfacing beneath the medial papillary muscle, which is usually at the left-hand margin of the defect. The non-coronary leaflet of the aortic valve is more to the left, and usually distant from the rim of the defect, although it often maintains fibrous continuity with the septal leaflet of the tricuspid valve (**Figure 7.76**).
 
 ![](_page_39_Figure_4.jpeg)
 
-Fig. 7.75 This hole between the ventricles, shown in anatomical orientation, is viewed from its right ventricular aspect. The posteroinferior margin of the defect is made up of a fibrous continuity between the leaflets of the aortic and tricuspid valves (black dotted line). In this setting, which makes the defect perimembranous, the course of the conduction axis, shown by the red dotted line originating from the triangle of Koch (white triangle), is always positioned posteroinferiorly. Note that the axis lies directly beneath a membranous flap. The septal leaflet of the tricuspid valve has been retracted.
-
-deficiency of the muscular septum. It is likely that all parts are deficient to a certain extent. It can usually be determined, nonetheless, which part is most affected. When a perimembranous defect extends to
-
-open mostly into the inlet of the right ventricle, its atrial margin, as viewed through the tricuspid valve, is an area of fibrous continuity between the leaflets of the aortic and tricuspid valves, but the
-
-fibrous continuity also extends to involve the leaflets of the mitral valve (Figure 7.75). The apex of the triangle of Koch is usually deviated inferiorly towards the coronary sinus. It is thus to the right-hand side of the surgeon working through the atrium. The axis of atrioventricular conduction tissue penetrates this corner of the defect. Usually, the non-branching and branching bundles are carried on the left ventricular aspect of the muscular septum as they descend the right-hand margin of the defect. The right bundle branch then courses intramvocardially, surfacing beneath the medial papillary muscle, which is usually at the left-hand margin of the defect. The non-coronary leaflet of the aortic valve is more to the left, and usually distant from the rim of the defect, although it often maintains fibrous continuity with the septal leaflet of the tricuspid valve (Figure 7.76).
-
-When perimembranous defects requiring surgical closure are located so as to open mostly towards the ventricular apex, they are large. They typically open additionally towards the inlet and outlet components, and hence are confluent defects. The triangle of Koch is not deviated as far towards the coronary sinus in such defects as when they open primarily to the right ventricular inlet, but the right-hand rim is still the major area at risk. The medial papillary muscle tends to be at the apex of such defects, and the non-coronary leaflet of the aortic valve is more closely
-
-related to the atrial margin. The septal leaflet of the tricuspid valve is often cleft or deficient, an arrangement that may permit shunting from the left ventricle to right atrium, and hence producing an indirect Gerbode defect (see Figure 7.28)<sup>14</sup>. If the cleft in the septal leaflet of the tricuspid valve requires surgical closure, it should be remembered that the penetrating atrioventricular bundle is located at its apex.
-
-The third type of perimembranous defect extends mostly so as to open into the outlet of the right ventricle. The outlet septum, along with the free-standing subpulmonary infundibulum, can thus be recognised separating the leaflets of the aortic and pulmonary valves, being malaligned relative to the rest of the septum (Figure 7.77). It is this type of defect that others describe as being conoventricular<sup>30</sup>. In the presence of anterocephalad malalignment of the muscular outlet septum, the aortic root overrides the crest of the muscular ventricular septum (Figures 7.78, 7.79). The medial papillary muscle is on the right-hand margin of the defect, and the axis of atrioventricular conduction tissue is more distant from the edge, being carried well down on the left surface of the ventricular septum. The
-
-non-coronary and right coronary leaflets of the aortic valve are much more closely related to the left-hand margin (Figure 7.79), and may prolapse towards the right ventricle<sup>32</sup>.
-
-The essential feature of muscular defects is that, when viewed from the right ventricle, they have exclusively muscular borders (Figure 7.67). They can open into the inlet, apical, or outlet parts of the right ventricle. Always, nonetheless, ventricular musculature will interpose between the edges of the defect and the attachments of the leaflets of the valves. When a muscular defect opens into the inlet of the right ventricle (Figure 7.80), it is inferior to the atrioventricular axis of conduction tissue. When viewed by the surgeon through the tricuspid valve (Figures 7.81, 7.82), the conduction axis is located on the left-hand margin of the defect. The proximity of the axis to the edge depends upon the adjacency of the defect to the intact membranous septum. The basal margin of the muscular septum, interposing between the edge of the defect and the atrial septum, separates the septal leaflet of the tricuspid valve from the mitral valve, preserving the off-setting of the valvar hinges. Its size will determine whether it is suitable to be an anchorage for sutures.
+**Fig. 7.75** This hole between the ventricles, shown in anatomical orientation, is viewed from its right ventricular aspect. The posteroinferior margin of the defect is made up of a fibrous continuity between the leaflets of the aortic and tricuspid valves (black dotted line). In this setting, which makes the defect perimembranous, the course of the conduction axis, shown by the red dotted line originating from the triangle of Koch (white triangle), is always positioned posteroinferiorly. Note that the axis lies directly beneath a membranous flap. The septal leaflet of the tricuspid valve has been retracted.
 
 ![](_page_40_Figure_8.jpeg)
 
-**Fig. 7.76** This illustration, seen in anatomical orientation, shows the left ventricular aspect of the perimembranous defect that opened primarily to the inlet of the right ventricle shown in Figure 7.75. The black dotted line shows the fibrous continuity between the non-coronary leaflet of the aortic valve and the tricuspid valve, via the membranous flap.
+**Fig. 7.76** This illustration, seen in anatomical orientation, shows the left ventricular aspect of the perimembranous defect that opened primarily to the inlet of the right ventricle shown in **Figure 7.75**. The black dotted line shows the fibrous continuity between the non-coronary leaflet of the aortic valve and the tricuspid valve, via the membranous flap.
 
+When perimembranous defects requiring surgical closure are located so as to open mostly towards the ventricular apex, they are large. They typically open additionally towards the inlet and outlet components, and hence are confluent defects. The triangle of Koch is not deviated as far towards the coronary sinus in such defects as when they open primarily to the right ventricular inlet, but the right-hand rim is still the major area at risk. The medial papillary muscle tends to be at the apex of such defects, and the non-coronary leaflet of the aortic valve is more closely related to the atrial margin. The septal leaflet of the tricuspid valve is often cleft or deficient, an arrangement that may permit shunting from the left ventricle to right atrium, and hence producing an indirect Gerbode defect (**see Figure 7.28**). If the cleft in the septal leaflet of the tricuspid valve requires surgical closure, it should be remembered that the penetrating atrioventricular bundle is located at its apex.
+
+The third type of perimembranous defect extends mostly so as to open into the outlet of the right ventricle. The outlet septum, along with the free-standing subpulmonary infundibulum, can thus be recognised separating the leaflets of the aortic and pulmonary valves, being malaligned relative to the rest of the septum (**Figure 7.77**). It is this type of defect that others describe as being conoventricular. In the presence of anterocephalad malalignment of the muscular outlet septum, the aortic root overrides the crest of the muscular ventricular septum (**Figures 7.78**, **7.79**). The medial papillary muscle is on the right-hand margin of the defect, and the axis of atrioventricular conduction tissue is more distant from the edge, being carried well down on the left surface of the ventricular septum. The non-coronary and right coronary leaflets of the aortic valve are much more closely related to the left-hand margin (**Figure 7.79**), and may prolapse towards the right ventricle.
+  
 ![](_page_41_Picture_2.jpeg)
 
-Fig. 7.77 This heart, shown in anatomical orientation, has been sectioned to replicate the subcostal oblique long axis echocardiographic projection. The perimembranous defect (star) opens towards the outlet of the right ventricle. The muscular outlet septum is now recognised in its own right. It is malaligned relative to the muscular ventricular septum, and attached anterocephalad relative to the septomarginal trabeculation.
-
+**Fig. 7.77** This heart, shown in anatomical orientation, has been sectioned to replicate the subcostal oblique long axis echocardiographic projection. The perimembranous defect (star) opens towards the outlet of the right ventricle. The muscular outlet septum is now recognised in its own right. It is malaligned relative to the muscular ventricular septum, and attached anterocephalad relative to the septomarginal trabeculation.
+  
 ![](_page_41_Picture_4.jpeg)
 
-Right Left Fig. 7.78 This is the heart shown in Figure 7.77 prior to making the section to correlate with the echocardiographic plane. The ventricular septal defect opens into the outlet of the right ventricle, with the aortic valve overriding the crest of the ventricular septum.
-
-Defects opening through the apical part of the septum can be single (Figure 7.83), double, or multiple (Figure 7.84). They are unrelated to the proximal parts of the
-
-conduction tissue axis, but may be related to ramifications of the distal bundle branches. The right ventricular aspect of such defects is frequently obscured by the coarse apical trabeculations. Multiple defects, if small, may not be visible through a right ventriculotomy. The septal deficiencies are much more readily
-
+**Fig. 7.78** This is the heart shown in Figure 7.77 prior to making the section to correlate with the echocardiographic plane. The ventricular septal defect opens into the outlet of the right ventricle, with the aortic valve overriding the crest of the ventricular septum.
+  
 ![](_page_42_Picture_2.jpeg)
 
 **Fig. 7.79** This view is through a right atriotomy, subsequent to making an incision at the junction of the septal and anterosuperior leaflets of the tricuspid valve. It shows a perimembranous defect opening into the outlet of the right ventricle. The leaflets of the aortic valve are overriding the ventricular septal crest to the left-hand margin of the defect.
 
+The essential feature of muscular defects is that, when viewed from the right ventricle, they have exclusively muscular borders (**Figure 7.67**). They can open into the inlet, apical, or outlet parts of the right ventricle. Always, nonetheless, ventricular musculature will interpose between the edges of the defect and the attachments of the leaflets of the valves. When a muscular defect opens into the inlet of the right ventricle (**Figure 7.80**), it is inferior to the atrioventricular axis of conduction tissue. When viewed by the surgeon through the tricuspid valve (**Figures 7.81**, **7.82**), the conduction axis is located on the left-hand margin of the defect. The proximity of the axis to the edge depends upon the adjacency of the defect to the intact membranous septum. The basal margin of the muscular septum, interposing between the edge of the defect and the atrial septum, separates the septal leaflet of the tricuspid valve from the mitral valve, preserving the off-setting of the valvar hinges. Its size will determine whether it is suitable to be an anchorage for sutures.
+
 ![](_page_42_Picture_4.jpeg)
 
-Fig. 7.80 This heart, photographed from the right side in anatomical orientation, has a muscular ventricular septal defect opening into the inlet of the right ventricle. The atrioventricular conduction axis (black dotted line) runs anterocephalad relative to the defect. In this instance, it is well removed from the superior margin of the hole (star).
-
-identified from the left ventricular aspect. Inspection from the left side will often demonstrate that the defect is a solitary hole (Figure 7.85). The multiple right
-
-ventricular openings (Figure 7.84) simply reflect crossing of the solitary defect by the right ventricular apical trabeculations<sup>33</sup>. Multiple small defects, nonetheless, can
-
-involve the entirety of the apical ventricular septum. This produces the 'swiss-cheese' septum, an arrangement that can be notoriously difficult to close surgically.
-
+**Fig. 7.80** This heart, photographed from the right side in anatomical orientation, has a muscular ventricular septal defect opening into the inlet of the right ventricle. The atrioventricular conduction axis (black dotted line) runs anterocephalad relative to the defect. In this instance, it is well removed from the superior margin of the hole (star).
+  
 ![](_page_43_Picture_2.jpeg)
 
-Fig. 7.81 This surgical view shows a muscular defect opening into the inlet of the right ventricle, viewed through the orifice of the tricuspid valve. The conduction axis (black dotted line), arising from the apex of the triangle of Koch (cross-hatched triangle), is seen to the left-hand side of the surgeon working through the tricuspid valve.
+**Fig. 7.81** This surgical view shows a muscular defect opening into the inlet of the right ventricle, viewed through the orifice of the tricuspid valve. The conduction axis (black dotted line), arising from the apex of the triangle of Koch (cross-hatched triangle), is seen to the left-hand side of the surgeon working through the tricuspid valve.
 
 ![](_page_43_Picture_4.jpeg)
 
-Fig. 7.82 This view of the heart shown in Figure 7.81, again seen through a right atriotomy and the orifice of the tricuspid valve, shows the musculature of the ventricular septum interposing between the basal margin of the defect (star) and the hinge of the septal leaflet of the tricuspid valve. The triangle of Koch (crosshatched triangle) is to the left-hand side of the surgeon relative to the defect.
-
-Muscular defects opening into the outlet of the right ventricle are relatively rare in patients with concordant atrioventricular and ventriculoarterial connections. If small, the endocardium may appear to be heaped up at the edges to produce a fibrous rim (Figure 7.86). Larger defects opening into the right ventricular outlet typically show malalignment of the muscular outlet septum (Figure 7.87). Close inspection will show whether the posterocaudal limb of the septomarginal trabeculation is fused with the ventriculoinfundibular fold to form a
-
-muscular posteroinferior rim to the defect, thus distinguishing the hole from a perimembranous defect with outlet extension. When present, the fusion of these muscle bars separates the edge of the defect from the axis of atrioventricular conduction tissue. The superior rim is
+**Fig. 7.82** This view of the heart shown in **Figure 7.81**, again seen through a right atriotomy and the orifice of the tricuspid valve, shows the musculature of the ventricular septum interposing between the basal margin of the defect (star) and the hinge of the septal leaflet of the tricuspid valve. The triangle of Koch (crosshatched triangle) is to the left-hand side of the surgeon relative to the defect.
+   
+Defects opening through the apical part of the septum can be single (**Figure 7.83**), double, or multiple (**Figure 7.84**). They are unrelated to the proximal parts of the conduction tissue axis, but may be related to ramifications of the distal bundle branches. The right ventricular aspect of such defects is frequently obscured by the coarse apical trabeculations. Multiple defects, if small, may not be visible through a right ventriculotomy. The septal deficiencies are much more readily identified from the left ventricular aspect. Inspection from the left side will often demonstrate that the defect is a solitary hole (**Figure 7.85**). The multiple right ventricular openings (**Figure 7.84**) simply reflect crossing of the solitary defect by the right ventricular apical trabeculations. Multiple small defects, nonetheless, can involve the entirety of the apical ventricular septum. This produces the 'swiss-cheese' septum, an arrangement that can be notoriously difficult to close surgically.
 
 ![](_page_44_Picture_2.jpeg)
 
@@ -498,170 +471,124 @@ muscular posteroinferior rim to the defect, thus distinguishing the hole from a 
 ![](_page_44_Picture_4.jpeg)
 
 **Fig. 7.84** In this heart, viewed in anatomical orientation, it seems that there are three muscular defects (arrows) opening anteriorly into the apical trabecular component of the right ventricle. Note, however, the presence of the septoparietal trabeculations (stars).
-
-the muscular outlet septum, combined with the free-standing subpulmonary infundibulum. These tissues separate the leaflets of the pulmonary valve from the right coronary leaflet of the aortic valve, the latter attached to its left ventricular surface. If this superior muscular rim is attenuated, the leaflet of the aortic valve may again prolapse through the defect (Figure 7.87).
-
-The third type of ventricular septal defect is the one that is doubly committed and juxta-arterial. The phenotypical feature of this defect is absence of both the muscular outlet septum, and the posterior
-
+  
 ![](_page_45_Picture_2.jpeg)
 
-**Fig. 7.85** The left ventricular view, seen in anatomical orientation, shows the left ventricular aspect of the heart illustrated in Figure 7.83. In reality, there is a solitary defect (star) in the muscular septum but it is crossed by the septoparietal trabeculations on the right side, giving the spurious impression of multiple defects.
-
+**Fig. 7.85** The left ventricular view, seen in anatomical orientation, shows the left ventricular aspect of the heart illustrated in **Figure 7.83**. In reality, there is a solitary defect (star) in the muscular septum but it is crossed by the septoparietal trabeculations on the right side, giving the spurious impression of multiple defects.
+  
+Muscular defects opening into the outlet of the right ventricle are relatively rare in patients with concordant atrioventricular and ventriculoarterial connections. If small, the endocardium may appear to be heaped up at the edges to produce a fibrous rim (**Figure 7.86**). Larger defects opening into the right ventricular outlet typically show malalignment of the muscular outlet septum (**Figure 7.87**). Close inspection will show whether the posterocaudal limb of the septomarginal trabeculation is fused with the ventriculoinfundibular fold to form a muscular posteroinferior rim to the defect, thus distinguishing the hole from a perimembranous defect with outlet extension. When present, the fusion of these muscle bars separates the edge of the defect from the axis of atrioventricular conduction tissue. The superior rim is the muscular outlet septum, combined with the free-standing subpulmonary infundibulum. These tissues separate the leaflets of the pulmonary valve from the right coronary leaflet of the aortic valve, the latter attached to its left ventricular surface. If this superior muscular rim is attenuated, the leaflet of the aortic valve may again prolapse through the defect (**Figure 7.87**).
+  
 ![](_page_45_Picture_4.jpeg)
 
 **Fig. 7.86** The heart is photographed in anatomical orientation, showing a muscular defect (star) opening into the outlet of the right ventricle. Note the accretion of fibrous tissue at the edges of the defect, reducing its size.
-
-aspect of the free-standing subpulmonary infundibulum. Because of the absence of these structures, the facing leaflets of the aortic and pulmonary valves are in fibrous continuity, producing a fibrous raphe that forms the superior rim of the defect (Figures 7.69, 7.88). The leaflets can be attached at the same level, albeit that in
-
-some hearts part of the aortic sinus may interpose between them, producing valvar off-setting. In either event, sutures can be secured in the region of fibrous continuity.
-
+  
 ![](_page_46_Picture_2.jpeg)
 
-Fig. 7.87 In this heart, viewed in anatomical orientation, the right coronary leaflet of the aortic valve prolapses minimally through a muscular defect that opens into the outlet of the right ventricle.
+**Fig. 7.87** In this heart, viewed in anatomical orientation, the right coronary leaflet of the aortic valve prolapses minimally through a muscular defect that opens into the outlet of the right ventricle.
+
+The third type of ventricular septal defect is the one that is doubly committed and juxta-arterial. The phenotypical feature of this defect is absence of both the muscular outlet septum, and the posterior aspect of the free-standing subpulmonary infundibulum. Because of the absence of these structures, the facing leaflets of the aortic and pulmonary valves are in fibrous continuity, producing a fibrous raphe that forms the superior rim of the defect (**Figures 7.69**, **7.88**). The leaflets can be attached at the same level, albeit that in some hearts part of the aortic sinus may interpose between them, producing valvar off-setting. In either event, sutures can be secured in the region of fibrous continuity.
 
 ![](_page_46_Picture_4.jpeg)
 
-Fig. 7.88 In this heart, the defect opening into the outlet of the right ventricle (star) is doubly committed and juxta-arterial, due to failure of muscularisation of the subpulmonary infundibulum. The roof of the defect is made up of a fibrous continuity between the leaflets of the aortic and pulmonary valves (black dotted line). Note the extensive muscular posteroinferior rim to the defect that protects the atrioventricular conduction axis.
+**Fig. 7.88** In this heart, the defect opening into the outlet of the right ventricle (star) is doubly committed and juxta-arterial, due to failure of muscularisation of the subpulmonary infundibulum. The roof of the defect is made up of a fibrous continuity between the leaflets of the aortic and pulmonary valves (black dotted line). Note the extensive muscular posteroinferior rim to the defect that protects the atrioventricular conduction axis.
 
-The doubly committed defect can also be found with overriding of the orifice of the aortic valve (Figure 7.89). In most instances, the inferior rim of the defect is
-
-similar to that found in the muscular defect that opens into the outlet part of the right ventricle, the posterocaudal limb of the septomarginal trabeculation fusing with the ventriculoinfundibular fold (Figure 7.88). When present, this muscular rim separates the axis of atrioventricular conduction tissue from the edge of the defect.
+The doubly committed defect can also be found with overriding of the orifice of the aortic valve (**Figure 7.89**). In most instances, the inferior rim of the defect is similar to that found in the muscular defect that opens into the outlet part of the right ventricle, the posterocaudal limb of the septomarginal trabeculation fusing with the ventriculoinfundibular fold (**Figure 7.88**). When present, this muscular rim separates the axis of atrioventricular conduction tissue from the edge of the defect.
 
 ![](_page_47_Picture_2.jpeg)
 
 **Fig. 7.89** This heart, photographed in anatomical orientation, also has a doubly committed and juxta-arterial ventricular septal defect opening into the outlet of the right ventricle in the absence of muscularisation of the muscular subpulmonary infundibulum. There is fibrous continuity between the leaflets of the arterial valves (blue dotted line). Note the extensive overriding of the orifice of the aortic valve.
 
+Occasionally, the muscular bundles do not fuse. The defect then extends to be bordered by fibrous continuity between the leaflets of the aortic and tricuspid valves, making it perimembranous as well as doubly committed (Figure 7.90). The conduction axis, therefore, is much closer to its inferior corner. It is the doubly committed variant that is particularly prone to set the scene for prolapse of the leaflets of the aortic valve. Such defects are also much more frequent in oriental as opposed to occidental populations.
+  
 ![](_page_47_Figure_4.jpeg)
 
 **Fig. 7.90** This doubly committed and juxta-arterial ventricular septal defect (star), shown in anatomical orientation, extends so that its posteroinferior margin is formed by a fibrous continuity between the leaflets of the aortic and tricuspid valves, making it additionally perimembranous. The pathognomonic feature is the fibrous continuity between the leaflets of the aortic and pulmonary valves.
 
-Occasionally, the muscular bundles do not fuse. The defect then extends to be bordered by fibrous continuity between the leaflets of the aortic and tricuspid valves, making it perimembranous as well as doubly committed (Figure 7.90). The conduction axis, therefore, is much closer to its inferior corner. It is the doubly committed variant that is particularly prone to set the scene for prolapse of the leaflets of
+Although the descriptions thus far have related to ventricular septal defects in patients having concordant atrioventricular and ventriculoarterial connections, this topology, and the guidance it gives to the site of the conduction axis, is equally valid for patients with concordant atrioventricular connections, but abnormal ventriculoarterial connections (see Chapter 8). The only exception to the rules we have described for recognition of the location of the atrioventricular conduction axis is produced by overriding and straddling of the tricuspid valve (see later). This arrangement results in a particular type of defect that opens into the inlet of the right ventricle. As we have described, defects with markedly different phenotypical features, and with markedly different dispositions of the atrioventricular conduction axis, can open towards the inlet of the morphologically right ventricle. This is why it is insufficient simply to describe them as inlet defects. The commonest defects opening into the right ventricular inlet are probably the ones that are perimembranous (**Figure 7.74**). These, and the ones associated with straddling and overriding of the tricuspid valve, have been described as being of the atrioventricular canal type. It is certainly the case that hearts with a common atrioventricular iunction can exist with shunting exclusively at the ventricular level (**Figure 7.52**). Patients with this morphology, however, need to be distinguished from those with either perimembranous defects opening into the right ventricular inlet, or those associated with straddling and overriding of the tricuspid valve, as both the latter variants are found in the setting of separate atrioventricular junctions. All of these variants must be distinguished from muscular defects opening into the inlet of the right ventricle (**Figure 7.80**). There is similar phenotypical variability among defects opening into the right ventricular outlet, but the major feature of surgical significance in this latter setting is to determine whether a muscular bar is interposed between the caudal rim of the defect and the atrioventricular conduction axis (compare **Figures 7.88** and **7.90**).
+</div></details>
 
-the aortic valve<sup>32</sup>. Such defects are also much more frequent in oriental as opposed to occidental populations<sup>34</sup>.
+</div></details>
 
-Although the descriptions thus far have related to ventricular septal defects in
-
-patients having concordant atrioventricular and ventriculoarterial connections, this topology, and the guidance it gives to the site of the conduction axis, is equally valid for patients with concordant atrioventricular connections, but abnormal ventriculoarterial connections (see Chapter 8). The only exception to the rules we have described for recognition of the location of the atrioventricular conduction axis is produced by overriding and straddling of the tricuspid valve (see later). This arrangement results in a particular type of defect that opens into the inlet of the right ventricle. As we have described, defects with markedly different phenotypical features, and with markedly different dispositions of the atrioventricular conduction axis, can open towards the inlet of the morphologically right ventricle. This is why it is insufficient simply to describe them as inlet defects<sup>35</sup>. The commonest defects opening into the right ventricular inlet are probably the ones that are perimembranous (Figure 7.74). These, and the ones associated with straddling and overriding of the tricuspid valve, have been described as being of the atrioventricular canal type. It is certainly the case that hearts with a common
-
-atrioventricular iunction can exist with shunting exclusively at the ventricular level (Figure 7.52). Patients with this morphology, however, need to be distinguished from those with either perimembranous defects opening into the right ventricular inlet, or those associated with straddling and overriding of the tricuspid valve, as both the latter variants are found in the setting of separate atrioventricular junctions. All of these variants must be distinguished from muscular defects opening into the inlet of the right ventricle (Figure 7.80). There is similar phenotypical variability among defects opening into the right ventricular outlet, but the major feature of surgical significance in this latter setting is to determine whether a muscular bar is interposed between the caudal rim of the defect and the atrioventricular conduction axis (compare Figures 7.88 and 7.90).
-</div>
-</details>
-
-
-
-<details class="med-details">
-<summary>MALFORMATIONS OF THE ATRIOVENTRICULAR VALVES</summary>
-<div class="details-content">
-# MALFORMATIONS OF THE ATRIOVENTRICULAR VALVES
+<details class="med-details"><summary>
+  
+## MALFORMATIONS OF THE ATRIOVENTRICULAR VALVES</summary><div class="details-content">
 
 The pathological lesions that affect atrioventricular valves, both acquired and congenital, are legion. Not all are amenable to surgical repair. We will concentrate on features of immediate surgical relevance.
 
 The anatomy of atrioventricular valves themselves indicates that problems may be encountered at the atrioventricular junction, which is contiguous with the valvar annulus, in the leaflets, or in the tension apparatus. Sometimes all the components of the valve, along with the entire atrioventricular connection, are totally absent. This produces the commonest variant of atrioventricular valvar atresia, which is discussed in Chapter 8. The lesions to be considered in this section can involve either the morphologically tricuspid or mitral valves. Because the tricuspid valve usually functions in an environment of low pressure, the lesions are more frequently manifest when affecting the mitral valve. We will deal with the respective lesions in turn, indicating their proclivity towards one or the other valve.
 
-Of considerable surgical significance is overriding of the atrioventricular junction. This means that the valvar orifice is looking into both ventricles, positioned astride a septal defect (Figure 7.91)<sup>27</sup>. Almost always, this is
+Of considerable surgical significance is overriding of the atrioventricular junction. This means that the valvar orifice is looking into both ventricles, positioned astride a septal defect (**Figure 7.91**). Almost always, this is associated with straddling of the valvar tension apparatus, with the tendinous cords attached to both sides of the muscular ventricular septum (**Figure 7.91**). Although it is the mode of insertion of the tension apparatus across the septum that determines the surgical options, the degree of override is also important. Overriding of the tricuspid valve typically is associated with malalignment between the atrial and ventricular septums, and this has major consequences in terms of arrangement of the conduction tissues. Straddling and overriding, nonetheless, can affect either valve, and can occur in various segmental combinations. Straddling in the setting of a double-inlet ventricle, and with discordant atrioventricular connections, is considered in Chapter 8. Here, the concern is with straddling valves coexisting with concordant atrioventricular connections.
 
 ![](_page_48_Picture_9.jpeg)
 
-Fig. 7.91 This heart has been sectioned to replicate the 'four-chamber' echocardiographic view, and is shown in anatomical orientation. There is overriding of the orifice of the tricuspid valve (white double-headed arrow), and straddling of its tension apparatus (white arrows). Note the gross malalignment between the atrial and ventricular septal structures, the star marking the crest of the muscular ventricular septum.
+**Fig. 7.91** This heart has been sectioned to replicate the 'four-chamber' echocardiographic view, and is shown in anatomical orientation. There is overriding of the orifice of the tricuspid valve (white double-headed arrow), and straddling of its tension apparatus (white arrows). Note the gross malalignment between the atrial and ventricular septal structures, the star marking the crest of the muscular ventricular septum.
 
-associated with straddling of the valvar tension apparatus, with the tendinous cords attached to both sides of the muscular ventricular septum (Figure 7.91)27. Although it is the mode of insertion of the tension apparatus across the septum that determines the surgical options, the degree of override is also important. Overriding of the tricuspid valve typically is associated with malalignment between the atrial and ventricular septums, and this has major consequences in terms of arrangement of the conduction tissues. Straddling and overriding, nonetheless, can affect either valve, and can occur in various segmental combinations<sup>27</sup> . Straddling in the setting of a double-inlet ventricle, and with discordant atrioventricular connections, is considered in Chapter 8. Here, the concern is with straddling valves coexisting with concordant atrioventricular connections.
-
-When the mitral valve straddles, it does so through an interventricular communication that opens into the outlet of the right ventricle (Figure 7.92)27. This
-
-arrangement does not produce atrioventricular septal malalignment, so that the muscular ventricular septum is normally related to the atrial septum at the crux, and the atrioventricular conduction axis is normally disposed. It is the superior papillary muscle of the mitral valve that is abnormally attached within the right ventricle. It typically arises from the septomarginal trabeculation alongside, but separate from, the anterior papillary muscle of the tricuspid valve. This arrangement, seen with either discordant ventriculoarterial connections, or a doubleoutlet right ventricle with a subpulmonary defect, producing the Taussig–Bing malformation, can seriously compromise surgical repair. We discuss the problems in greater detail in Chapter 8.
-
-Straddling of the tricuspid valve is found when the ventricular septal defect opens into the inlet of the right ventricle (Figure 7.93)27. It can exist as an isolated lesion, or be found with tetralogy of Fallot, or other abnormal ventriculoarterial connections such as transposition. The phenotypical feature is that the muscular ventricular septum is
-
-malaligned relative to the atrial septum, no longer inserting at the crux (Figure 7.91). The conduction axis, which is carried on the muscular ventricular septum, originates from an anomalous node in the inferolateral margin of the right atrioventricular junction27, found at the point where the muscular septum comes into contact with the junction (Figures 7.94, 7.95). There is a rudimentary node found within the regular triangle of Koch, but it makes no contact with the ventricular musculature. The septal leaflet of the tricuspid valve is usually tethered to the enlarged inferoseptal papillary muscle of the mitral valve (Figure 7.96). A miniseptation procedure is often necessary for complete ventricular repair, which carries a high risk of producing heart block36. It is possible, nonetheless, to place a patch by sewing the stitches exclusively in the straddling leaflet of the tricuspid valve (Figures 7.97, 7.98). This ensures avoidance of the conduction tissues. An alternative option is to convert the patient to the Fontan circulation.
-
+When the mitral valve straddles, it does so through an interventricular communication that opens into the outlet of the right ventricle (**Figure 7.92**). This arrangement does not produce atrioventricular septal malalignment, so that the muscular ventricular septum is normally related to the atrial septum at the crux, and the atrioventricular conduction axis is normally disposed. It is the superior papillary muscle of the mitral valve that is abnormally attached within the right ventricle. It typically arises from the septomarginal trabeculation alongside, but separate from, the anterior papillary muscle of the tricuspid valve. This arrangement, seen with either discordant ventriculoarterial connections, or a doubleoutlet right ventricle with a subpulmonary defect, producing the Taussig–Bing malformation, can seriously compromise surgical repair. We discuss the problems in greater detail in Chapter 8.
+  
 ![](_page_49_Picture_7.jpeg)
 
-Fig. 7.92 This heart has concordant atrioventricular and discordant ventriculoarterial connections. It is viewed in anatomical orientation, showing straddling of the tension apparatus of the mitral valve through a defect opening into the outlet of the right ventricle.
+**Fig. 7.92** This heart has concordant atrioventricular and discordant ventriculoarterial connections. It is viewed in anatomical orientation, showing straddling of the tension apparatus of the mitral valve through a defect opening into the outlet of the right ventricle.
+
+Straddling of the tricuspid valve is found when the ventricular septal defect opens into the inlet of the right ventricle (**Figure 7.93**). It can exist as an isolated lesion, or be found with tetralogy of Fallot, or other abnormal ventriculoarterial connections such as transposition. The phenotypical feature is that the muscular ventricular septum is malaligned relative to the atrial septum, no longer inserting at the crux (**Figure 7.91**). The conduction axis, which is carried on the muscular ventricular septum, originates from an anomalous node in the inferolateral margin of the right atrioventricular junction, found at the point where the muscular septum comes into contact with the junction (**Figures 7.94**, **7.95**). There is a rudimentary node found within the regular triangle of Koch, but it makes no contact with the ventricular musculature. The septal leaflet of the tricuspid valve is usually tethered to the enlarged inferoseptal papillary muscle of the mitral valve (**Figure 7.96**). A miniseptation procedure is often necessary for complete ventricular repair, which carries a high risk of producing heart block. It is possible, nonetheless, to place a patch by sewing the stitches exclusively in the straddling leaflet of the tricuspid valve (**Figures 7.97**, **7.98**). This ensures avoidance of the conduction tissues. An alternative option is to convert the patient to the Fontan circulation.
 
 ![](_page_50_Picture_2.jpeg)
 
-Fig. 7.93 The heart is photographed in anatomical orientation. It showsthe right atrial aspect of a straddling and overriding tricuspid valve in the setting of concordant atrioventricular connections. There is gross malalignment between the muscular ventricular septum, which carries the atrioventricular conduction axis (black dotted line), and the atrial septum. Because of this, the connecting atrioventricular node is formed inferiorly in the atrioventricular junction (star), and is not in the regular triangle of Koch (triangle).
+**Fig. 7.93** The heart is photographed in anatomical orientation. It showsthe right atrial aspect of a straddling and overriding tricuspid valve in the setting of concordant atrioventricular connections. There is gross malalignment between the muscular ventricular septum, which carries the atrioventricular conduction axis (black dotted line), and the atrial septum. Because of this, the connecting atrioventricular node is formed inferiorly in the atrioventricular junction (star), and is not in the regular triangle of Koch (triangle).
 
 ![](_page_50_Figure_4.jpeg)
 
-Fig. 7.94 The image shows an operative picture through a right atriotomy in a patient with concordant atrioventricular connections complicated by straddling and overriding of the tricuspid valve with basically concordant atrioventricular connections. Note the malalignment of the muscular ventricular septum, which carries the atrioventricular conduction axis (white dotted line). The axis arises from an anomalous posteroinferior atrioventricular node (star).
-
-Dilation of the atrioventricular junction occurs almost exclusively as an acquired lesion. A dilated mitral valvar orifice is most frequently secondary to
-
-myocarditis. When surgical narrowing of the orifice is indicated, it can be accomplished using various annuloplasty techniques, without resorting to
-
-replacement of the valve. Dilation of the tricuspid valvar orifice is seen most frequently as a result of right heart failure.
-
+**Fig. 7.94** The image shows an operative picture through a right atriotomy in a patient with concordant atrioventricular connections complicated by straddling and overriding of the tricuspid valve with basically concordant atrioventricular connections. Note the malalignment of the muscular ventricular septum, which carries the atrioventricular conduction axis (white dotted line). The axis arises from an anomalous posteroinferior atrioventricular node (star).
+  
 ![](_page_51_Picture_2.jpeg)
 
 **Fig. 7.95** The cartoon shows the anomalous location of the atrioventricular conduction axis, as seen by the surgeon operating through a right atriotomy in the setting of straddling and overriding of the tricuspid valve. The rudimentary node found at the apex of the regular triangle of Koch does not make contact with the ventricular musculature.
 
 ![](_page_51_Picture_4.jpeg)
 
-**Fig. 7.96** This picture, taken in anatomical orientation, shows the left ventricular aspect of the heart shown in Figure 7.93. Note the straddling part of the tension apparatus supporting the tricuspid valve.
-
-More of a challenge surgically is the dilation that accompanies Ebstein's malformation<sup>37</sup>. The crucial feature of this anomaly is the attachment of the hingepoint of the septal and mural leaflets of the tricuspid valve towards the junction of the
-
-inlet and apical trabecular components of the right ventricle, rather than at the atrioventricular junction (Figure 7.99)<sup>38</sup>. The displacement is usually described as being downwards. In reality, there is rotational displacement of the valvar orifice around the area of the central fibrous body. The anterosuperior leaflet is less affected in terms of its junctional attachment, but shows important variations in its distal attachments<sup>39</sup>. These can be focal (Figure 7.100). In more severe cases, the
-
+**Fig. 7.96** This picture, taken in anatomical orientation, shows the left ventricular aspect of the heart shown in **Figure 7.93**. Note the straddling part of the tension apparatus supporting the tricuspid valve.
+  
 ![](_page_52_Picture_2.jpeg)
 
-Fig. 7.97 In this heart, from a patient with straddling and overriding of the tricuspid valve, and shown here from the left ventricle in anatomical orientation, the surgeon placed a patch to close the malalignment of the ventricular septal defect, keeping his sutures in the leaflets of the overriding valve, and avoiding the abnormally located atrioventricular conduction axis (white dotted line [axis] and cross-hatched area [node] superimposed on the photograph). (Compare with Figure 7.96.)
+**Fig. 7.97** In this heart, from a patient with straddling and overriding of the tricuspid valve, and shown here from the left ventricle in anatomical orientation, the surgeon placed a patch to close the malalignment of the ventricular septal defect, keeping his sutures in the leaflets of the overriding valve, and avoiding the abnormally located atrioventricular conduction axis (white dotted line [axis] and cross-hatched area [node] superimposed on the photograph). (Compare with **Figure 7.96**.)
 
 ![](_page_52_Picture_4.jpeg)
 
-**Fig. 7.98** The image shows the right atrial aspect of the heart seen also in Figure 7.97. It is photographed in anatomical orientation, demonstrating how the surgeon was able to close the ventricular septal defect successfully, at the same time avoiding the atrioventricular conduction axis (black dotted line). The site of the abnormal atrioventricular node is shown by the star.
+**Fig. 7.98** The image shows the right atrial aspect of the heart seen also in **Figure 7.97**. It is photographed in anatomical orientation, demonstrating how the surgeon was able to close the ventricular septal defect successfully, at the same time avoiding the atrioventricular conduction axis (black dotted line). The site of the abnormal atrioventricular node is shown by the star.
 
-leading edge of the leaflet is attached in linear fashion, severely restricting antegrade flow into the pulmonary trunk (Figure 7.101). In the most severe form, the anterosuperior leaflet completely blocks this junction, producing tricuspid atresia in the
+Dilation of the atrioventricular junction occurs almost exclusively as an acquired lesion. A dilated mitral valvar orifice is most frequently secondary to myocarditis. When surgical narrowing of the orifice is indicated, it can be accomplished using various annuloplasty techniques, without resorting to replacement of the valve. Dilation of the tricuspid valvar orifice is seen most frequently as a result of right heart failure.
 
-setting of Ebstein's malformation (see also Chapter 8).
-
-Ebstein's malformation requires surgical treatment when there is significant dilation of the true atrioventricular junction, and when the wall of the inlet component of the right ventricle is both dilated and thinned. Reparative operations often require placement of sutures in the area of thinning. Particular care should be taken to avoid the right coronary artery and its branches. In the septal area, the triangle of Koch remains
-
+More of a challenge surgically is the dilation that accompanies Ebstein's malformation. The crucial feature of this anomaly is the attachment of the hingepoint of the septal and mural leaflets of the tricuspid valve towards the junction of the inlet and apical trabecular components of the right ventricle, rather than at the atrioventricular junction (**Figure 7.99**). The displacement is usually described as being downwards. In reality, there is rotational displacement of the valvar orifice around the area of the central fibrous body. The anterosuperior leaflet is less affected in terms of its junctional attachment, but shows important variations in its distal attachments. These can be focal (**Figure 7.100**). In more severe cases, the leading edge of the leaflet is attached in linear fashion, severely restricting antegrade flow into the pulmonary trunk (**Figure 7.101**). In the most severe form, the anterosuperior leaflet completely blocks this junction, producing tricuspid atresia in the setting of Ebstein's malformation (see also Chapter 8).
+  
 ![](_page_53_Picture_2.jpeg)
 
-Fig. 7.99 The heart is photographed from the right side in anatomical orientation. The hinge line of the septal leaflet of the tricuspid valve has been displaced rotationally (red dotted line) away from the atrioventricular junction, shown by the black dotted line. This feature, incorrectly described as 'downwards displacement', is the hallmark of Ebstein's malformation. Note also the marked dysplasia of the septal leaflet. The black doubleheaded arrow shows the thinned wall of the atrialised component of the right ventricular inlet.
+**Fig. 7.99** The heart is photographed from the right side in anatomical orientation. The hinge line of the septal leaflet of the tricuspid valve has been displaced rotationally (red dotted line) away from the atrioventricular junction, shown by the black dotted line. This feature, incorrectly described as 'downwards displacement', is the hallmark of Ebstein's malformation. Note also the marked dysplasia of the septal leaflet. The black doubleheaded arrow shows the thinned wall of the atrialised component of the right ventricular inlet.
 
 ![](_page_53_Picture_4.jpeg)
 
-**Fig. 7.100** This picture, photographed in anatomical orientation from the right ventricle, shows the ventricular aspect of the heart demonstrated in Figure 7.99. The anterosuperior leaflet of the abnormal tricuspid valve is tethered in focal fashion, with normal attachments to the medial and anterior papillary muscles. The rotational displacement has produced a bifoliate valve hinged at the junction of the inlet and apical trabecular components of the right ventricle.
-
-the guide to the atrioventricular conduction axis (Figure 7.102). Ebstein's malformation involving the left-sided morphologically tricuspid valve when the atrioventricular connections are discordant is discussed in Chapter 8. Rarely, the normally located morphologically mitral valve can show Ebstein's malformation. It is the hinge
-
-of the mural leaflet that is displaced away from the atrioventricular junction.
-
-Malformations of the leaflets can be summarised in terms of dysplasia, prolapse,
-
+**Fig. 7.100** This picture, photographed in anatomical orientation from the right ventricle, shows the ventricular aspect of the heart demonstrated in **Figure 7.99**. The anterosuperior leaflet of the abnormal tricuspid valve is tethered in focal fashion, with normal attachments to the medial and anterior papillary muscles. The rotational displacement has produced a bifoliate valve hinged at the junction of the inlet and apical trabecular components of the right ventricle.
+  
 ![](_page_54_Picture_2.jpeg)
 
-**Fig. 7.101** This heart also has Ebstein's malformation, and is photographed in anatomical orientation to show the ventricular aspect of the abnormal tricuspid valve. In this example, the anterosuperior leaflet has grossly abnormal linear attachments towards the apex of the right ventricle. The valvar orifice is a mere keyhole (white double-headed arrow), opening directly into the subpulmonary infundibulum.
+**Fig. 7.101** This heart also has Ebstein's malformation, and is photographed in anatomical orientation to show the ventricular aspect of the abnormal tricuspid valve. In this example, the anterosuperior leaflet has grossly abnormal linear attachments towards the apex of the right ventricle. The valvar orifice is a mere keyhole (white double-headed arrow), opening directly into the subpulmonary infundibulum.  
 
+Ebstein's malformation requires surgical treatment when there is significant dilation of the true atrioventricular junction, and when the wall of the inlet component of the right ventricle is both dilated and thinned. Reparative operations often require placement of sutures in the area of thinning. Particular care should be taken to avoid the right coronary artery and its branches. In the septal area, the triangle of Koch remains the guide to the atrioventricular conduction axis (**Figure 7.102**). Ebstein's malformation involving the left-sided morphologically tricuspid valve when the atrioventricular connections are discordant is discussed in Chapter 8. Rarely, the normally located morphologically mitral valve can show Ebstein's malformation. It is the hinge of the mural leaflet that is displaced away from the atrioventricular junction.
+  
 ![](_page_54_Figure_4.jpeg)
 
-Fig. 7.102 This heart with Ebstein's malformation, viewed in anatomical orientation as seen from the right atrium, shows how the triangle of Koch (cross-hatched triangle) remains the guide to the atrial components of the atrioventricular conduction tissue axis, despite the abnormal attachments of the septal leaflet. Note again the rotational displacement of the hinge of the septal leaflet (red dotted line) relative to the atrioventricular junction (black dotted line).
+**Fig. 7.102** This heart with Ebstein's malformation, viewed in anatomical orientation as seen from the right atrium, shows how the triangle of Koch (cross-hatched triangle) remains the guide to the atrial components of the atrioventricular conduction tissue axis, despite the abnormal attachments of the septal leaflet. Note again the rotational displacement of the hinge of the septal leaflet (red dotted line) relative to the atrioventricular junction (black dotted line).
 
-and clefting. Dysplastic valves show thickening and heaping up of the substance of the leaflets, usually with obliteration of the intercordal spaces. A dysplastic valve may pose a significant surgical problem. It is seen frequently with atresia of the outflow tract, and is an integral part of Ebstein's malformation<sup>42</sup>. Isolated dysplasia (Figure 7.103) is exceedingly rare except in neonatal life<sup>43</sup>, when it is often a fatal lesion.
-
-Prolapse occurs more frequently, and usually involves the mitral valve (Figure 7.104). It is usually associated with deficiency of the tension apparatus<sup>44</sup>,
-
-particularly elongation of the tendinous cords (Figure 7.105). It may be sufficiently severe to warrant valvar replacement, but the prolapsing leaflets can be repaired by various techniques, including cordal shortening (Figure 7.106), and insertion of annular rings (Figure 7.107).
-
+Malformations of the leaflets can be summarised in terms of dysplasia, prolapse, and clefting. Dysplastic valves show thickening and heaping up of the substance of the leaflets, usually with obliteration of the intercordal spaces. A dysplastic valve may pose a significant surgical problem. It is seen frequently with atresia of the outflow tract, and is an integral part of Ebstein's malformation. Isolated dysplasia (**Figure 7.103**) is exceedingly rare except in neonatal life, when it is often a fatal lesion.
+  
 ![](_page_55_Picture_2.jpeg)
 
-Fig. 7.103 The right ventricle in this heart is opened in clam-shell-like fashion and photographed from the ventricular apex. The tricuspid valve, although grossly dysplastic, has normal junctional attachments (black dotted lines). This is not Ebstein's malformation.
+**Fig. 7.103** The right ventricle in this heart is opened in clam-shell-like fashion and photographed from the ventricular apex. The tricuspid valve, although grossly dysplastic, has normal junctional attachments (black dotted lines). This is not Ebstein's malformation.  
+
+Prolapse occurs more frequently, and usually involves the mitral valve (**Figure 7.104**). It is usually associated with deficiency of the tension apparatus, particularly elongation of the tendinous cords (**Figure 7.105**). It may be sufficiently severe to warrant valvar replacement, but the prolapsing leaflets can be repaired by various techniques, including cordal shortening (**Figure 7.106**), and insertion of annular rings (**Figure 7.107**).
 
 ![](_page_55_Picture_4.jpeg)
 
-Fig. 7.104 This surgical view of the mitral valve, taken through the dome of the left atrium, shows prolapse of the aortic leaflet.
-
-The true cleft of the aortic leaflet of the mitral valve can be repaired simply by reconstituting its edges. Such an isolated cleft of the aortic leaflet (Figure 7.108) has to be distinguished from the lesion often described as a cleft in the setting of
-
-atrioventricular septal defects19. The latter entity (Figure 7.109) is the zone of apposition between the left ventricular components of the bridging leaflets of the common atrioventricular valve. Along with the short mural leaflet, the bridging leaflets
-
-guard the left side of the common atrioventricular junction in trifoliate fashion.
-
-We have already discussed some of the abnormalities of the tension apparatus that accompany malformations of the junction
-
+**Fig. 7.104** This surgical view of the mitral valve, taken through the dome of the left atrium, shows prolapse of the aortic leaflet.
+  
 ![](_page_56_Picture_2.jpeg)
 
 **Fig. 7.105** In this specimen, photographed in anatomical orientation, there is gross elongation of the cords supporting the middle scallop of the mural leaflet of the mitral valve (arrow), which is prolapsed (star).
@@ -669,75 +596,59 @@ We have already discussed some of the abnormalities of the tension apparatus tha
 ![](_page_56_Picture_4.jpeg)
 
 **Fig. 7.106** As shown in Fig. 7.105, when the leaflets of the mitral valve are prolapsed, the cords supporting them are usually elongated. This view shows how the surgeon has shortened the elongated cords by incising the papillary muscle and suturing the cords within the muscle (arrow).
-
-or leaflets, such as straddling tension apparatus. Of those which remain, the so-called parachute deformity is probably the most worrisome lesion, apart from rare anomalies such as arcade lesions<sup>45</sup>. Some confusion exists about the definition of a parachute valve. It is considered logically as fusion of the papillary muscle groups
-
-(Figure 7.110), so that all the cords insert into a common muscle mass<sup>46</sup>. In the original description<sup>47</sup>, in contrast, the parachute lesion was defined on the basis of
-
+  
 ![](_page_57_Picture_2.jpeg)
 
 **Fig. 7.107** Having shortened the cords of the prolapsed mitral valve, as shown in Figure 7.106, the surgeon has completed the repair by inserting an annular ring to support the atrioventricular junction, which has been reduced by annuloplasty.
-
+  
+The true cleft of the aortic leaflet of the mitral valve can be repaired simply by reconstituting its edges. Such an isolated cleft of the aortic leaflet (**Figure 7.108**) has to be distinguished from the lesion often described as a cleft in the setting of atrioventricular septal defects. The latter entity (**Figure 7.109**) is the zone of apposition between the left ventricular components of the bridging leaflets of the common atrioventricular valve. Along with the short mural leaflet, the bridging leaflets guard the left side of the common atrioventricular junction in trifoliate fashion.
+  
 ![](_page_57_Picture_4.jpeg)
 
-**Fig. 7.108** This specimen, seen from the inlet aspect of the left ventricle in anatomical orientation, has a cleft (arrow) in the aortic leaflet of an otherwise normally structured mitral valve. This lesion should be distinguished from the space between the left ventricular bridging leaflets, or the so-called 'cleft', found in the left atrioventricular valve of hearts with deficient atrioventricular septation and a common atrioventricular junction (see Figure 7.109).
+**Fig. 7.108** This specimen, seen from the inlet aspect of the left ventricle in anatomical orientation, has a cleft (arrow) in the aortic leaflet of an otherwise normally structured mitral valve. This lesion should be distinguished from the space between the left ventricular bridging leaflets, or the so-called 'cleft', found in the left atrioventricular valve of hearts with deficient atrioventricular septation and a common atrioventricular junction (see **Figure 7.109**).
+  
+ ![](_page_58_Picture_2.jpeg)
 
-gross hypoplasia of one end of the zone of apposition between the leaflets, together with an absence of its supporting papillary muscle. Irrespective of how the lesion is defined, surgical reconstruction is difficult, and valvar replacement is likely to be necessary<sup>48</sup>. Parachute deformity of the mitral valve may be complicated further by other lesions, such as a supravalvar left atrial stenosing ring, and coarctation of the aorta. The combinations are known as Shone's syndrome<sup>47</sup>. Parachute malformation of the tricuspid valve can occur, but is rarely of clinical significance<sup>49</sup>.
+**Fig. 7.109** This heart with deficient atrioventricular septation, a common atrioventricular junction, and shunting exclusively at the ventricular level, the so-called 'ostium primum' defect, is photographed from the left side in anatomical orientation. Note the difference between the zone of apposition between the left ventricular components of the bridging leaflets (arrow), the socalled 'cleft', and the true cleft of the aortic leaflet of an otherwise normal mitral valve shown in **Figure 7.108**. 
 
-![](_page_58_Picture_2.jpeg)
-
-Fig. 7.109 This heart with deficient atrioventricular septation, a common atrioventricular junction, and shunting exclusively at the ventricular level, the so-called 'ostium primum' defect, is photographed from the left side in anatomical orientation. Note the difference between the zone of apposition between the left ventricular components of the bridging leaflets (arrow), the socalled 'cleft', and the true cleft of the aortic leaflet of an otherwise normal mitral valve shown in Figure 7.108.
+We have already discussed some of the abnormalities of the tension apparatus that accompany malformations of the junction or leaflets, such as straddling tension apparatus. Of those which remain, the so-called parachute deformity is probably the most worrisome lesion, apart from rare anomalies such as arcade lesions. Some confusion exists about the definition of a parachute valve. It is considered logically as fusion of the papillary muscle groups (**Figure 7.110**), so that all the cords insert into a common muscle mass. In the original description, in contrast, the parachute lesion was defined on the basis of gross hypoplasia of one end of the zone of apposition between the leaflets, together with an absence of its supporting papillary muscle. Irrespective of how the lesion is defined, surgical reconstruction is difficult, and valvar replacement is likely to be necessary. Parachute deformity of the mitral valve may be complicated further by other lesions, such as a supravalvar left atrial stenosing ring, and coarctation of the aorta. The combinations are known as Shone's syndrome. Parachute malformation of the tricuspid valve can occur, but is rarely of clinical significance.
 
 ![](_page_58_Picture_4.jpeg)
 
-Fig. 7.110 This specimen, removed at surgery, shows the socalled 'parachute' arrangement of the mitral valve. There is fusion of the papillary muscles, along with thickening and fusion of the tendinous cords.
-</div>
-</details>
+**Fig. 7.110** This specimen, removed at surgery, shows the socalled 'parachute' arrangement of the mitral valve. There is fusion of the papillary muscles, along with thickening and fusion of the tendinous cords.
+</div></details>
 
-
-
-<details class="med-details">
-<summary>MALFORMATIONS OF THE ARTERIAL VALVES AND OUTFLOW TRACTS</summary>
-<div class="details-content">
-# MALFORMATIONS OF THE ARTERIAL VALVES AND OUTFLOW TRACTS
+<details class="med-details"><summary>
+  
+## MALFORMATIONS OF THE ARTERIAL VALVES AND OUTFLOW TRACTS</summary><div class="details-content">
 
 In this section, we consider the surgical aspects of subvalvar obstruction of the ventricular outflow tracts, valvar stenosis, and atresia of the outflow. In the normally connected heart, obstruction in the left ventricular outflow tract produces subaortic stenosis. It must be remembered that the same anatomical lesions will produce subpulmonary obstruction in the patient with discordant ventriculoarterial connections. Similarly, obstruction of the right ventricular outflow tract produces subpulmonary obstruction in the heart with normal segmental connections, but subaortic stenosis when the ventriculoarterial connections are discordant. When both outflow tracts are connected to the same ventricle, the anatomical problems are more discrete. These are considered separately in Chapter 8.
 
-Stenosis of the aortic valve can occur at valvar, subvalvar, and supravalvar levels. Aortic regurgitation is ultimately a valvar problem, and the perivalvar anatomy is often of great importance. To understand the substrates for stenosis and regurgitation
-
-across the arterial valves fully, it is essential to have a firm grasp of the arrangement of the valvar leaflets at the ventriculoarterial junction. As described in Chapters 2 and 3, the arterial valves do not possess an annulus in the sense of a circular ring of collagen that supports the leaflets in the fashion of a circle. The only ring within the valvar complex, aside from the sinutubular junction, is the circular area over which the fibrous wall of the great arterial trunk is supported by the underlying ventricular structures<sup>50</sup>. Surgeons do not define this ring, however, as the annulus<sup>51</sup>. The junctions are partly muscular and partly fibrous in the left ventricle (Figure 7.111)<sup>52</sup>, but exclusively muscular at the right ventriculoarterial junction (Figure 7.112)<sup>50</sup>. The attachments of the leaflets are arranged as half moons, with the bases of the leaflets attached to ventricular muscle, but the apex of the leaflets attached to the fibrous wall of the arterial trunk at the sinutubular junction. When seen in the closed position, the three leaflets coapt snugly along their zones of apposition, which extend from the circumferential margins of the arterial wall to the centre of the valve (Figure 7.113). It is on the basis of perturbation of this coaptation of the leaflets under pressure of the diastolic
-
-column of blood that stenosis or regurgitation occurs within the valvar complex.
-
-Valvar aortic stenosis may occur with unicuspid, bicuspid, tricuspid and, rarely, even quadricuspid configurations. Dysplastic lesions are also seen in the aortic valve, but only rarely can surgery provide the answer to this problem. The unicuspid valve has two raphes at the ends of abortive zones of apposition (Figure 7.114). The leaflets are also abnormally attached in linear rather than semilunar fashion (Figure 7.115). Surgical opening of the raphes in the conjoined leaflets typically results in valvar incompetence. The creation of new interleaflet triangles, supplementing the leaflet tissue so as to create new semilunar hinges, is likely to produce greater clinical success.
-
-A valve with two effective leaflets is seen most frequently in the adult patient. Perhaps this is because such a bicuspid valve, in itself, is not usually intrinsically stenotic. It is only with the effects of time and turbulence that the bifoliate valves become manifestly obstructive. If the valvar morphology has not been totally obscured by calcific deposits, a bicuspid valve seen at operation will take one of two forms. Occasionally the two leaflets are of
-
+Stenosis of the aortic valve can occur at valvar, subvalvar, and supravalvar levels. Aortic regurgitation is ultimately a valvar problem, and the perivalvar anatomy is often of great importance. To understand the substrates for stenosis and regurgitation across the arterial valves fully, it is essential to have a firm grasp of the arrangement of the valvar leaflets at the ventriculoarterial junction. As described in Chapters 2 and 3, the arterial valves do not possess an annulus in the sense of a circular ring of collagen that supports the leaflets in the fashion of a circle. The only ring within the valvar complex, aside from the sinutubular junction, is the circular area over which the fibrous wall of the great arterial trunk is supported by the underlying ventricular structures. Surgeons do not define this ring, however, as the annulus. The junctions are partly muscular and partly fibrous in the left ventricle (**Figure 7.111**), but exclusively muscular at the right ventriculoarterial junction (**Figure 7.112**). The attachments of the leaflets are arranged as half moons, with the bases of the leaflets attached to ventricular muscle, but the apex of the leaflets attached to the fibrous wall of the arterial trunk at the sinutubular junction. When seen in the closed position, the three leaflets coapt snugly along their zones of apposition, which extend from the circumferential margins of the arterial wall to the centre of the valve (**Figure 7.113**). It is on the basis of perturbation of this coaptation of the leaflets under pressure of the diastolic column of blood that stenosis or regurgitation occurs within the valvar complex.
+  
 ![](_page_59_Figure_9.jpeg)
 
 **Fig. 7.111** The aortic outflow tract has been spread open and is photographed from the ventricular aspect in anatomical orientation. The arterial valvar leaflets are attached in semilunar fashion, taking their origin in part from fibrous tissue, and in part from the muscular ventricular septum.
 
 ![](_page_60_Picture_2.jpeg)
 
-**Fig. 7.112** In this anatomical specimen, the subpulmonary infundibulum has been opened and photographed in anatomical orientation, the leaflets of the pulmonary valve having been removed. Note that the semilunar attachments of the leaflets cross the circular anatomical ventriculoarterial junction. This is more obvious than in the subaortic outflow tract (see Fig. 7.111), but the basic arrangement is comparable.
+**Fig. 7.112** In this anatomical specimen, the subpulmonary infundibulum has been opened and photographed in anatomical orientation, the leaflets of the pulmonary valve having been removed. Note that the semilunar attachments of the leaflets cross the circular anatomical ventriculoarterial junction. This is more obvious than in the subaortic outflow tract (see **Fig. 7.111**), but the basic arrangement is comparable.
 
 ![](_page_60_Picture_4.jpeg)
 
 **Fig. 7.113** In this specimen, the aortic valve is photographed from above in its closed position. The three zones of apposition between the leaflets (red double-headed arrows) extend from the sinutubular junction at the periphery (stars) to the centre of the valvar orifice (red oval). The leaflets are closed by the hydrostatic pressure of the column of blood they support.
 
-equal size, the solitary zone of apposition between them bisecting the aortic root (Figure 7.116). This type of valve is frequently found in patients with coarctation of the aorta. In the other form, the leaflets are unequal, with the large, or conjoined, leaflet usually exhibiting a raphe, which can be eccentrically placed (Figure 7.117) or centrally positioned (Figure 7.118) within the conjoined leaflet. If the conjoined leaflet is produced by fusion of the leaflets guarding the aortic
-
-sinuses giving rise to the coronary arteries, then both arteries will arise from the conjoined sinus. Alternatively, when the conjoined sinus is formed from the right coronary and non-coronary aortic sinuses, the coronary arteries will be
-
+Valvar aortic stenosis may occur with unicuspid, bicuspid, tricuspid and, rarely, even quadricuspid configurations. Dysplastic lesions are also seen in the aortic valve, but only rarely can surgery provide the answer to this problem. The unicuspid valve has two raphes at the ends of abortive zones of apposition (**Figure 7.114**). The leaflets are also abnormally attached in linear rather than semilunar fashion (**Figure 7.115**). Surgical opening of the raphes in the conjoined leaflets typically results in valvar incompetence. The creation of new interleaflet triangles, supplementing the leaflet tissue so as to create new semilunar hinges, is likely to produce greater clinical success.
+  
 ![](_page_61_Picture_2.jpeg)
 
-Fig. 7.114 This view of an abnormal aortic valve seen through an aortotomy shows the so-called unicuspid and unicommissural arrangement. Fusion of two of the putative zones of apposition during development leaves the persisting zone of apposition as the eccentric valvar orifice.
+**Fig. 7.114** This view of an abnormal aortic valve seen through an aortotomy shows the so-called unicuspid and unicommissural arrangement. Fusion of two of the putative zones of apposition during development leaves the persisting zone of apposition as the eccentric valvar orifice.
 
 ![](_page_61_Picture_4.jpeg)
 
-Fig. 7.115 This picture of the aortic valve, taken in a specimen with the left ventricular outflow tract having been opened, shows the unicuspid and unicommissural arrangement as demonstrated in Fig. 7.114. There is loss of the semilunar suspension of the leaflets (black dotted line), so that paradoxically they are attached in true annular fashion. The solitary zone of apposition (red arrow) points backwards towards the mitral valve. Note the marked reduction in height of the remaining interleaflet triangles (white arrows).
+**Fig. 7.115** This picture of the aortic valve, taken in a specimen with the left ventricular outflow tract having been opened, shows the unicuspid and unicommissural arrangement as demonstrated in **Fig. 7.114**. There is loss of the semilunar suspension of the leaflets (black dotted line), so that paradoxically they are attached in true annular fashion. The solitary zone of apposition (red arrow) points backwards towards the mitral valve. Note the marked reduction in height of the remaining interleaflet triangles (white arrows).
 
-positioned so that one coronary artery arises from the conjoined sinuses, and the other from the third sinus53. It is increasingly recognised that the two phenotypes carry significant differences with regard to anticipated problems during follow-up. When the conjoined leaflet is made up of the right and non-coronary aortic leaflets, it is common to find degenerative disease of the aortic walls. If valves with two effective leaflets are seen before they become rigid and distorted by calcification, some relief from the stenosis can be obtained by careful enlargement of the ends of the solitary zone of apposition. Careful follow-up is essential, especially when the phenotype points towards degenerative disease.
+A valve with two effective leaflets is seen most frequently in the adult patient. Perhaps this is because such a bicuspid valve, in itself, is not usually intrinsically stenotic. It is only with the effects of time and turbulence that the bifoliate valves become manifestly obstructive. If the valvar morphology has not been totally obscured by calcific deposits, a bicuspid valve seen at operation will take one of two forms. Occasionally the two leaflets are of equal size, the solitary zone of apposition between them bisecting the aortic root (**Figure 7.116**). This type of valve is frequently found in patients with coarctation of the aorta. In the other form, the leaflets are unequal, with the large, or conjoined, leaflet usually exhibiting a raphe, which can be eccentrically placed (**Figure 7.117**) or centrally positioned (**Figure 7.118**) within the conjoined leaflet. If the conjoined leaflet is produced by fusion of the leaflets guarding the aortic sinuses giving rise to the coronary arteries, then both arteries will arise from the conjoined sinus. Alternatively, when the conjoined sinus is formed from the right coronary and non-coronary aortic sinuses, the coronary arteries will be positioned so that one coronary artery arises from the conjoined sinuses, and the other from the third sinus. It is increasingly recognised that the two phenotypes carry significant differences with regard to anticipated problems during follow-up. When the conjoined leaflet is made up of the right and non-coronary aortic leaflets, it is common to find degenerative disease of the aortic walls. If valves with two effective leaflets are seen before they become rigid and distorted by calcification, some relief from the stenosis can be obtained by careful enlargement of the ends of the solitary zone of apposition. Careful follow-up is essential, especially when the phenotype points towards degenerative disease.
 
 ![](_page_62_Picture_2.jpeg)
 
@@ -746,28 +657,21 @@ positioned so that one coronary artery arises from the conjoined sinuses, and th
 ![](_page_62_Picture_4.jpeg)
 
 **Fig. 7.117** This picture, taken in the operating room through an aortotomy, shows a bicuspid aortic valve with a raphe (star) in one of the leaflets.
-
-Aortic stenosis also occurs in patients with valves having three leaflets, but is not usually seen until later in life. A possible cause of such stenosis is the unequal size of the leaflets in the otherwise normal aortic valve. This, coupled with the high pressure
-
-in the aortic root, may lead to the development of calcification and stenosis in the elderly (Figure 7.119)<sup>54</sup>.
-
-Subvalvar stenosis may be fibrous, fibromuscular, or muscular, reflecting the fact that the left ventricular outflow tract is
-
-partly muscular and partly fibrous. The muscular portion comprises the ventriculoinfundibular fold anterolaterally, the small outlet component of the muscular septum anteriorly, and the upper edge of the apical part of the muscular septum
-
+  
 ![](_page_63_Picture_2.jpeg)
 
 **Fig. 7.118** In this specimen, the aortic valve is photographed from behind in anatomical orientation, the left ventricular outflow tract through the mitral valve having been opened. The two leaflets arising from the sinuses giving rise to the coronary arteries have fused, with the line of fusion represented by the raphe (star).
 
+Aortic stenosis also occurs in patients with valves having three leaflets, but is not usually seen until later in life. A possible cause of such stenosis is the unequal size of the leaflets in the otherwise normal aortic valve. This, coupled with the high pressure in the aortic root, may lead to the development of calcification and stenosis in the elderly (**Figure 7.119**).
+
+  
 ![](_page_63_Picture_4.jpeg)
 
 **Fig. 7.119** This abnormal aortic valve, photographed from the aortic aspect, has fusion of two of the zones of apposition (black dotted lines) between the leaflets, with calcification also present. This is the typical substrate of aortic stenosis as seen in the elderly.
+  
+Subvalvar stenosis may be fibrous, fibromuscular, or muscular, reflecting the fact that the left ventricular outflow tract is partly muscular and partly fibrous. The muscular portion comprises the ventriculoinfundibular fold anterolaterally, the small outlet component of the muscular septum anteriorly, and the upper edge of the apical part of the muscular septum posteriorly. The fibrous part comprises the central fibrous body, the area of continuity between the leaflets of the aortic and mitral valves, and the left fibrous trigone. Subvalvar stenoses may also be either fixed or dynamic in nature.
 
-posteriorly. The fibrous part comprises the central fibrous body, the area of continuity between the leaflets of the aortic and mitral valves, and the left fibrous trigone. Subvalvar stenoses may also be either fixed or dynamic in nature.
-
-Of the variants producing fixed stenosis, a subvalvar fibrous shelf is perhaps most easily approached surgically. It appears circular when viewed through the usually normal aortic valve (Figure 7.120). Indeed, it can be
-
-circular. This is not always the case. A relatively thin shelf of tissue sometimes runs from beneath the non-coronary leaflet of the aortic valve, originating over the site of the penetrating bundle, then extending to the septal musculature,
+Of the variants producing fixed stenosis, a subvalvar fibrous shelf is perhaps most easily approached surgically. It appears circular when viewed through the usually normal aortic valve (**Figure 7.120**). Indeed, it can be circular. This is not always the case. A relatively thin shelf of tissue sometimes runs from beneath the non-coronary leaflet of the aortic valve, originating over the site of the penetrating bundle, then extending to the septal musculature, eventually coursing over the ventriculoinfundibular fold. The shelf can also extend laterally to involve the aortic leaflet of the mitral valve (**Figure 7.121**). If dissection is performed carefully, taking particular care where the shelf intimately overlies the conduction tissues, a circumferential lesion can be removed completely (**Figure 7.122**). Too vigorous an attack on the side of the mitral valve may lead to detachment of that structure. In cases where the ventricular septum appears to be playing a part in causing the stenosis, it may be prudent to remove a segment of muscle (**Figure 7.123**).
 
 ![](_page_64_Picture_2.jpeg)
 
@@ -777,15 +681,9 @@ circular. This is not always the case. A relatively thin shelf of tissue sometim
 
 **Fig. 7.121** This specimen is opened anteriorly through the subaortic outflow tract, and is photographed in anatomical orientation. Note the extensive shelf-like lesion producing subvalvar stenosis, and extending onto the aortic leaflet of the mitral valve (arrows).
 
-eventually coursing over the ventriculoinfundibular fold. The shelf can also extend laterally to involve the aortic leaflet of the mitral valve (Figure 7.121). If dissection is performed carefully<sup>55</sup>, taking
-
-particular care where the shelf intimately overlies the conduction tissues, a circumferential lesion can be removed completely (Figure 7.122). Too vigorous an attack on the side of the mitral valve
-
-may lead to detachment of that structure. In cases where the ventricular septum appears to be playing a part in causing the stenosis, it may be prudent to remove a segment of muscle (Figure 7.123).
-
 ![](_page_65_Picture_2.jpeg)
 
-**Fig. 7.122** This specimen is the subaortic shelf shown in Figure 7.120 subsequent to its surgical removal. Note the horseshoe configuration.
+**Fig. 7.122** This specimen is the subaortic shelf shown in **Figure 7.120** subsequent to its surgical removal. Note the horseshoe configuration.
 
 ![](_page_65_Picture_4.jpeg)
 
@@ -793,138 +691,130 @@ may lead to detachment of that structure. In cases where the ventricular septum 
 
 In cases where complete removal proves difficult, interruption of the fibrous shelf in the safe area over the ventriculoinfundibular fold will result in a safe and satisfactory relief of the stenosis. The same rules apply when resecting the variant of aortic stenosis producing a fibromuscular tunnel. Surgical correction, however, may be less successful than with a simple shelf, because the tunnel extends farther into the left ventricle, making the obstruction it produces more difficult to relieve.
 
-A much more rare form of fixed subaortic obstruction is produced by hypertrophy of the usually inconspicuous anterolateral muscle bundle<sup>56</sup>. This muscle runs down the outflow tract from the ventriculoinfundibular fold to the
+A much more rare form of fixed subaortic obstruction is produced by hypertrophy of the usually inconspicuous anterolateral muscle bundle. This muscle runs down the outflow tract from the ventriculoinfundibular fold to the ventricular septum. In its course over the parietal wall, it would not be expected to involve the conduction tissues.
 
-ventricular septum. In its course over the parietal wall, it would not be expected to involve the conduction tissues.
+Anomalous attachment of the left atrioventricular valve can also cause fixed obstruction, as can a deviated muscular outlet septum. The former is usually seen with atrioventricular septal defect. The latter occurs only in the presence of a ventricular septal defect (**Figure 7.124**).
+  
+ ![](_page_66_Picture_7.jpeg)
 
-Anomalous attachment of the left atrioventricular valve can also cause fixed obstruction, as can a deviated muscular outlet septum. The former is usually seen with atrioventricular septal defect. The latter occurs only in the presence of a ventricular septal defect (Figure 7.124).
+**Fig. 7.124** This anatomical specimen shows the left ventricle opened in clam-shell-like fashion, and viewed from the apex of the left ventricle. There is a fixed subaortic obstruction produced by the posterior deviation of the muscular outlet septum through a ventricular septal defect. 
 
-The fixed type of subaortic obstruction is also produced by so-called tissue tags. These can herniate from any adjacent fibrous tissue structure, but are exceedingly rare as an isolated lesion in the normally connected heart<sup>57</sup>. They can produce significant obstruction of the left ventricular outflow tract in hearts with an atrioventricular septal defect (Figure 7.125), or with discordant ventriculoarterial connections (see Chapter 8).
-
-![](_page_66_Picture_7.jpeg)
-
-**Fig. 7.124** This anatomical specimen shows the left ventricle opened in clam-shell-like fashion, and viewed from the apex of the left ventricle. There is a fixed subaortic obstruction produced by the posterior deviation of the muscular outlet septum through a ventricular septal defect.
+The fixed type of subaortic obstruction is also produced by so-called tissue tags. These can herniate from any adjacent fibrous tissue structure, but are exceedingly rare as an isolated lesion in the normally connected heart. They can produce significant obstruction of the left ventricular outflow tract in hearts with an atrioventricular septal defect (**Figure 7.125**), or with discordant ventriculoarterial connections (see Chapter 8).
 
 ![](_page_66_Picture_9.jpeg)
 
 **Fig. 7.125** This heart is opened through the subaortic outflow tract, and photographed in anatomical orientation. There is an atrioventricular septal defect with a common atrioventricular junction, with subaortic obstruction due to tissue tags (arrows).
 
-Dynamic subvalvar obstruction is a result of thickening of the septal musculature abutting the aortic leaflet of the mitral valve during ventricular systole. This usually creates a ridge of thickened endocardium, easily seen through the aortic valve. If an operation becomes necessary, the hypertrophied muscle bundle can be resected, offering satisfactory relief of the obstruction<sup>58</sup>. Again the surgeon must scrupulously avoid the conduction tissue as it emerges beneath the zone of apposition between the right and non-coronary leaflets and descends on the muscular ventricular septum (Figure 7.126). Interventionists are now able to offer alternative therapy by injecting alcohol into the first septal perforating artery.
-
-Supravalvar aortic stenosis occurs in hourglass, membranous, and more diffuse tubular variants. All forms are rare. Fortunately, the severe tubular type is extremely unusual. Two problems are shared by all three varieties because of narrowing of the aorta at the junction of the sinuses with the ascending tubular aorta<sup>59</sup>. Firstly, the aortic sinuses, which usually contain the coronary arteries, may be converted into high pressure zones, in which the arteries provide the only run-off other than through the distal stenosis. This can produce marked dilation of both the
-
-sinuses and the coronary arteries. Secondly, the circumferential narrowing at the sinutubular junction (Figure 7.127) tends to tether the three aortic leaflets at the ends of their zones of apposition in such a way that it is rarely enough to perform a simple aortoplasty <sup>60</sup>. If possible, all three sinuses should be opened to release the tethering of the leaflets. This can be accomplished by resecting the thickened sinutubular junction, and inserting pericardial patches in each sinus (Figures 7.128–7.131).
-
-Aortic valvar insufficiency may be due to congenital malformation of the valve (Figure 7.132), its supporting structures (Figure 7.133), or both. It may also be secondary to an infectious process in the aortic root (Figure 7.134), or to degenerative disease of the aortic walls. Occasionally, aortic insufficiency may be due to trauma. Its frequent association with the doubly committed and juxtaarterial ventricular septal defect suggests that deficiency in the structures supporting the leaflets plays some role in these problems. Prolapse of the leaflets, and insufficiency, may occur with other types of ventricular septal defect (Figure 7.135). Prolapse can be found even when the ventricular septum is intact, the latter situation usually being associated with a bicuspid aortic valve.
-
-The critical importance of the anatomy of this region perhaps is best demonstrated by the problems exhibited by patients with endocarditis of the aortic valve<sup>61</sup>. Because the valve is the keystone to all the other valves and chambers of the heart (Figure 7.136), an eroding abscess in the aortic root may lead to formation of a fistula involving any of these adjacent structures. The patient may present with findings of left heart failure, left-to-right shunting, complete heart block, or any combination of these, in addition to the usual signs of sepsis. Surgical management requires a detailed knowledge of this area, as the surgeon may be faced with virtual disruption of the ventriculoarterial connection<sup>61</sup>. A similar problem can occur when the aortic root, or the fibrous coronet, is severely damaged by dissection or marked degeneration of its fibrous structure.
-
-As with aortic stenosis, stenosis of the right ventricular outflow can occur at the valvar, supravalvar, or subvalvar levels. The latter is discussed in association with tetralogy of Fallot (see later). Dysplasia of the valvar leaflets is most often seen as marked distortion and thickening, although three discrete leaflets can sometimes be recognised (Figure 7.137). It can be associated with insufficiency as well as stenosis.
-
+Dynamic subvalvar obstruction is a result of thickening of the septal musculature abutting the aortic leaflet of the mitral valve during ventricular systole. This usually creates a ridge of thickened endocardium, easily seen through the aortic valve. If an operation becomes necessary, the hypertrophied muscle bundle can be resected, offering satisfactory relief of the obstruction. Again the surgeon must scrupulously avoid the conduction tissue as it emerges beneath the zone of apposition between the right and non-coronary leaflets and descends on the muscular ventricular septum (**Figure 7.126**). Interventionists are now able to offer alternative therapy by injecting alcohol into the first septal perforating artery.
+  
 ![](_page_67_Picture_8.jpeg)
 
 **Fig. 7.126** The cartoon shows the location of the atrioventricular conduction axis as it would be visualised by the surgeon working through the aortic valve.
 
+Supravalvar aortic stenosis occurs in hourglass, membranous, and more diffuse tubular variants. All forms are rare. Fortunately, the severe tubular type is extremely unusual. Two problems are shared by all three varieties because of narrowing of the aorta at the junction of the sinuses with the ascending tubular aorta. Firstly, the aortic sinuses, which usually contain the coronary arteries, may be converted into high pressure zones, in which the arteries provide the only run-off other than through the distal stenosis. This can produce marked dilation of both the sinuses and the coronary arteries. Secondly, the circumferential narrowing at the sinutubular junction (**Figure 7.127**) tends to tether the three aortic leaflets at the ends of their zones of apposition in such a way that it is rarely enough to perform a simple aortoplasty. If possible, all three sinuses should be opened to release the tethering of the leaflets. This can be accomplished by resecting the thickened sinutubular junction, and inserting pericardial patches in each sinus (**Figures 7.128**–**7.131**).
+  
 ![](_page_68_Picture_2.jpeg)
 
-Fig. 7.127 In this specimen, photographed in anatomical orientation, there is severe narrowing at the level of the sinutubular junction (arrows). Although usually termed 'supravalvar', the obstruction involves the attachment of the valvar leaflets (stars) at the sinutubular junction.
+**Fig. 7.127** In this specimen, photographed in anatomical orientation, there is severe narrowing at the level of the sinutubular junction (arrows). Although usually termed 'supravalvar', the obstruction involves the attachment of the valvar leaflets (stars) at the sinutubular junction.
 
 ![](_page_68_Picture_4.jpeg)
 
-Fig. 7.128 This picture, taken in the operating room through a median sternotomy, shows narrowing (arrows) of the aorta at the level of the sinutubular junction.
-
-Isolated pulmonary stenosis typically is found in the form of a dome-shaped valve with three well-developed but fused commissures (Figure 7.138)50. Typically, the leaflets are attached to the wall of the pulmonary trunk along the peripheral ends of the zones of apposition between them, leaving only a restricted central
-
-opening (Figure 7.139).The arterial root is narrowed at the sinutubular junction. This is an integral part of the valvar mechanism, although such narrowing is
-
+**Fig. 7.128** This picture, taken in the operating room through a median sternotomy, shows narrowing (arrows) of the aorta at the level of the sinutubular junction.
+  
 ![](_page_69_Picture_2.jpeg)
 
-**Fig. 7.129** In the patient shown in Figure 7.128, the surgeon has made an extensive vertical incision into the non-coronary sinus or the aortic root, revealing the marked constriction at the sinutubular junction, with a particularly narrow entry to the left coronary aortic sinus, which is guarded by the edge of the valvar leaflet.
+**Fig. 7.129** In the patient shown in **Figure 7.128**, the surgeon has made an extensive vertical incision into the non-coronary sinus or the aortic root, revealing the marked constriction at the sinutubular junction, with a particularly narrow entry to the left coronary aortic sinus, which is guarded by the edge of the valvar leaflet.
 
 ![](_page_69_Picture_4.jpeg)
 
-**Fig. 7.130** The attachments of the left and non-coronary leaflets at the thickened sinutubular junction, as shown in Figure 7.129, have been liberated (arrow), thus releasing the left coronary leaflet so as to allow its full excursion.
-
-often described as being supravalvar. These areas of tethering can be dissected from the arterial wall and incised, providing a particularly satisfactory relief of the obstruction. The effectiveness of surgery is best measured six to nine months after operation, as significant secondary muscular
-
-obstruction at the subvalvar level may maintain a pressure gradient across the outflow tract. This muscular hypertrophy will almost always regress with time<sup>62</sup>.
-
+**Fig. 7.130** The attachments of the left and non-coronary leaflets at the thickened sinutubular junction, as shown in **Figure 7.129**, have been liberated (arrow), thus releasing the left coronary leaflet so as to allow its full excursion.
+  
 ![](_page_70_Picture_2.jpeg)
 
-helical pericardial patch (white double-headed arrow) has been inserted in the incision to the non-coronary sinus, thus enlarging the sinutubular junction and the ascending aorta.
+**Fig. 7.131** In the patient shown in **Figures 7.129** and **7.130**, a helical pericardial patch (white double-headed arrow) has been inserted in the incision to the non-coronary sinus, thus enlarging the sinutubular junction and the ascending aorta.  
 
+Aortic valvar insufficiency may be due to congenital malformation of the valve (**Figure 7.132**), its supporting structures (**Figure 7.133**), or both. It may also be secondary to an infectious process in the aortic root (**Figure 7.134**), or to degenerative disease of the aortic walls. Occasionally, aortic insufficiency may be due to trauma. Its frequent association with the doubly committed and juxtaarterial ventricular septal defect suggests that deficiency in the structures supporting the leaflets plays some role in these problems. Prolapse of the leaflets, and insufficiency, may occur with other types of ventricular septal defect (**Figure 7.135**). Prolapse can be found even when the ventricular septum is intact, the latter situation usually being associated with a bicuspid aortic valve.
+  
 ![](_page_70_Picture_4.jpeg)
 
-Fig. 7.132 This view, taken in the operating room through an aortotomy, shows a regurgitant aortic valve as the consequence of tethering of one of its leaflets (arrow).
-
-Despite the excellent results of surgery, treatment of congenital pulmonary valvar stenosis has become largely the province of the interventional cardiologist. It is
-
-doubtful, however, whether inflation of a balloon will ever rival the anatomical precision achieved by the competent surgeon.
-
-True supravalvar stenosis usually takes the form of a waist-like narrowing of the pulmonary trunk distal to the sinutubular junction (Figure 7.140),
-
+**Fig. 7.132** This view, taken in the operating room through an aortotomy, shows a regurgitant aortic valve as the consequence of tethering of one of its leaflets (arrow).
+  
 ![](_page_71_Picture_2.jpeg)
 
-Fig. 7.133 This anatomical specimen is photographed from above, showing failure of central coaptation of the leaflets of the aortic valve because of dilation at the sinutubular junction.
+**Fig. 7.133** This anatomical specimen is photographed from above, showing failure of central coaptation of the leaflets of the aortic valve because of dilation at the sinutubular junction.
 
 ![](_page_71_Picture_4.jpeg)
 
-Fig. 7.134 This operative view, taken through an aortotomy, shows a perforation (arrow) in one leaflet of a bicuspid aortic valve, due to infective endocarditis.
-
+**Fig. 7.134** This operative view, taken through an aortotomy, shows a perforation (arrow) in one leaflet of a bicuspid aortic valve, due to infective endocarditis.
+  
 ![](_page_72_Picture_2.jpeg)
 
-ventriculotomy, shows prolapse of the leaflets of the aortic valve (star) in the setting of a perimembranous ventricular septal defect opening into the outlet of the right ventricle.
+**Fig. 7.135** This operative view, seen through a right ventriculotomy, shows prolapse of the leaﬂets of the aortic valve (star) in the setting of a perimembranous ventricular septal defect opening into the outlet of the right ventricle.  
 
+The critical importance of the anatomy of this region perhaps is best demonstrated by the problems exhibited by patients with endocarditis of the aortic valve. Because the valve is the keystone to all the other valves and chambers of the heart (**Figure 7.136**), an eroding abscess in the aortic root may lead to formation of a fistula involving any of these adjacent structures. The patient may present with findings of left heart failure, left-to-right shunting, complete heart block, or any combination of these, in addition to the usual signs of sepsis. Surgical management requires a detailed knowledge of this area, as the surgeon may be faced with virtual disruption of the ventriculoarterial connection. A similar problem can occur when the aortic root, or the fibrous coronet, is severely damaged by dissection or marked degeneration of its fibrous structure.
+  
 ![](_page_72_Picture_4.jpeg)
 
-Fig. 7.136 The short axis of the ventricular mass has been displayed by removing the atrial musculature and the arterial trunks, showing the 'keystone' location of the centrally positioned aortic valve (star).
+**Fig. 7.136** The short axis of the ventricular mass has been displayed by removing the atrial musculature and the arterial trunks, showing the 'keystone' location of the centrally positioned aortic valve (star).
+
+As with aortic stenosis, stenosis of the right ventricular outflow can occur at the valvar, supravalvar, or subvalvar levels. The latter is discussed in association with tetralogy of Fallot (see later). Dysplasia of the valvar leaflets is most often seen as marked distortion and thickening, although three discrete leaflets can sometimes be recognised (**Figure 7.137**). It can be associated with insufficiency as well as stenosis.
 
 ![](_page_73_Picture_2.jpeg)
 
-Fig. 7.137 This operative view, taken through an incision in the pulmonary trunk, shows gross dysplasia of the leaflets of the pulmonary valve.
+**Fig. 7.137** This operative view, taken through an incision in the pulmonary trunk, shows gross dysplasia of the leaflets of the pulmonary valve.
+
+Isolated pulmonary stenosis typically is found in the form of a dome-shaped valve with three well-developed but fused commissures (**Figure 7.138**). Typically, the leaflets are attached to the wall of the pulmonary trunk along the peripheral ends of the zones of apposition between them, leaving only a restricted central opening (**Figure 7.139**).The arterial root is narrowed at the sinutubular junction. This is an integral part of the valvar mechanism, although such narrowing is often described as being supravalvar. These areas of tethering can be dissected from the arterial wall and incised, providing a particularly satisfactory relief of the obstruction. The effectiveness of surgery is best measured six to nine months after operation, as significant secondary muscular obstruction at the subvalvar level may maintain a pressure gradient across the outflow tract. This muscular hypertrophy will almost always regress with time.
 
 ![](_page_73_Picture_4.jpeg)
 
-Fig. 7.138 This pulmonary valve is viewed from above in anatomical orientation. There is extensive fusion of the zones of apposition between the leaflets, leaving a domed membrane with a central orifice the size of a pinhole. Note the tethering of the domed valvar tissue to the walls of the pulmonary trunk at the sites of fusion of the leaflets (arrows).
-
-although it may occur at the sinutubular junction, or anywhere at one or more locations within the pulmonary arterial tree. Narrowing has also been reported within collateral
-
-arteries supplying the lung directly from the aorta in cases of tetralogy of Fallot with pulmonary atresia63. Very rarely, the obstructions may be membrane-like, but the usual lesion is more akin to a segment of tubular hypoplasia. These lesions, if anatomically accessible, are amenable to enlargement using a simple patch.
+**Fig. 7.138** This pulmonary valve is viewed from above in anatomical orientation. There is extensive fusion of the zones of apposition between the leaflets, leaving a domed membrane with a central orifice the size of a pinhole. Note the tethering of the domed valvar tissue to the walls of the pulmonary trunk at the sites of fusion of the leaflets (arrows).
 
 ![](_page_74_Picture_2.jpeg)
 
-Fig. 7.139 This operative view, taken through an incision in the pulmonary trunk, shows fusion of the zones of apposition between the leaflets of the pulmonary valve, with tethering of the fused leaflets to the wall of the pulmonary trunk (arrows), leaving a constricted central opening (star).
+**Fig. 7.139** This operative view, taken through an incision in the pulmonary trunk, shows fusion of the zones of apposition between the leaflets of the pulmonary valve, with tethering of the fused leaflets to the wall of the pulmonary trunk (arrows), leaving a constricted central opening (star).
+
+Despite the excellent results of surgery, treatment of congenital pulmonary valvar stenosis has become largely the province of the interventional cardiologist. It is doubtful, however, whether inflation of a balloon will ever rival the anatomical precision achieved by the competent surgeon.
+
+True supravalvar stenosis usually takes the form of a waist-like narrowing of the pulmonary trunk distal to the sinutubular junction (**Figure 7.140**), although it may occur at the sinutubular junction, or anywhere at one or more locations within the pulmonary arterial tree. Narrowing has also been reported within collateral arteries supplying the lung directly from the aorta in cases of tetralogy of Fallot with pulmonary atresia. Very rarely, the obstructions may be membrane-like, but the usual lesion is more akin to a segment of tubular hypoplasia. These lesions, if anatomically accessible, are amenable to enlargement using a simple patch.
 
 ![](_page_74_Picture_4.jpeg)
 
-Fig. 7.140 The view, taken in the operating room, shows the external narrowing (arrows) at the sinutubular junction of the pulmonary valve demonstrated in Figure 7.139.
+**Fig. 7.140** The view, taken in the operating room, shows the external narrowing (arrows) at the sinutubular junction of the pulmonary valve demonstrated in **Figure 7.139**.
+</div></details>
 
-</div>
-</details>
-
-
-<details class="med-details">
-<summary>TETRALOGY OF FALLOT</summary>
-<div class="details-content">
-## TETRALOGY OF FALLOT
+<details class="med-details"><summary>
+  
+## TETRALOGY OF FALLOT</summary><div class="details-content">
 
 One form of obstruction of the right ventricular outflow tract is so clearly demarcated that it constitutes an entity in its own right, namely tetralogy of Fallot.
 
-When there is extreme overriding of the aortic valvar orifice, it can also show the abnormal ventriculoarterial connection of a double-outlet right ventricle, but it is convenient to discuss the entity at this point of our narrative. Its anatomical
-
-hallmark is anterocephalad deviation of the insertion of the muscular or fibrous outlet septum, combined with subpulmonary obstruction due to hypertrophy of septoparietal trabeculations64. In the normal heart
+When there is extreme overriding of the aortic valvar orifice, it can also show the abnormal ventriculoarterial connection of a double-outlet right ventricle, but it is convenient to discuss the entity at this point of our narrative. Its anatomical hallmark is anterocephalad deviation of the insertion of the muscular or fibrous outlet septum, combined with subpulmonary obstruction due to hypertrophy of septoparietal trabeculations. In the normal heart (**Figure 7.141**), the muscular outlet septum is inconspicuous, being the small area of the supraventricular crest inserted between the limbs of the septomarginal trabeculation. In this position, it is fused with the much more extensive ventriculoinfundibular fold, the crest itself supporting the distal free-standing infundibular sleeve.
 
 ![](_page_75_Picture_2.jpeg)
 
 **Fig. 7.141** The normal right ventricle is photographed in anatomical orientation, showing the septal aspect. The supraventricular crest inserts between the limbs of the septomarginal trabeculation. Although when, using dissection, it is possible to create a direct communication with the left ventricular outflow tract through the muscle inserted between the limbs of the septomarginal trabeculation, it is not possible, in the normal heart, to distinguish where the septal component finishes, and where the musculature becomes that of the parietal ventricular wall.
 
-(Figure 7.141), the muscular outlet septum is inconspicuous, being the small area of the supraventricular crest inserted between the limbs of the septomarginal trabeculation. In this position, it is fused with the much more extensive ventriculoinfundibular fold, the crest itself supporting the distal free-standing infundibular sleeve.
+In tetralogy of Fallot, the outlet part of the septum is malaligned anterocephalad to the anterior limb of the septomarginal trabeculation, becoming recognisable in its own right. The deviated position of the septum, combined with hypertrophy of the septoparietal trabeculations, serves to narrow the subpulmonary outflow tract. At the same time, it leaves an interventricular communication that is overridden by the leaflets of the aortic valve (**Figure 7.142**).
+  
+![](_page_76_Picture_2.jpeg)
 
-In tetralogy of Fallot, the outlet part of the septum is malaligned anterocephalad to the anterior limb of the septomarginal trabeculation, becoming recognisable in its own right. The deviated position of the septum, combined with hypertrophy of the septoparietal trabeculations, serves to narrow the subpulmonary outflow tract. At the same time, it leaves an interventricular communication that is overridden by the leaflets of the aortic valve (Figure 7.142).
+**Fig. 7.142** This view of the outlet of the right ventricle of the heart from a patient with tetralogy of Fallot, taken in anatomical orientation, shows the divorce of the muscular structures that combine to form the normal subpulmonary outflow tract.
 
-The interventricular communication, therefore, is positioned beneath the ventricular outlets in association with malalignment of the muscular outlet septum. Therefore, it is the rightwards margin of the cone of space subtended by the overriding valvar leaflets that should be defined as the ventricular septal defect. There can be fibrous continuity between
+The interventricular communication, therefore, is positioned beneath the ventricular outlets in association with malalignment of the muscular outlet septum. Therefore, it is the rightwards margin of the cone of space subtended by the overriding valvar leaflets that should be defined as the ventricular septal defect. There can be fibrous continuity between the leaflets of the aortic and tricuspid valves in the inferocaudal quadrant of the defect thus defined, making it perimembranous (**Figure 7.143**). Alternatively, the inferocaudal rim can be muscular when the ventriculoinfundibular fold fuses with the caudal limb of the septomarginal trabeculation (**Figure 7.144**). These features have the same implications for protection of the axis of atrioventricular conduction tissue as they do in isolated ventricular septal defects (see earlier). When the inferocaudal margin is fibrous, the atrioventricular conduction axis penetrates beneath the atrioventricular membranous septal component of this area (**Figure 7.145**). Often this is overlain by the membranous flap, or pseudoflaps derived from the tricuspid valve. Usually, in tetralogy of Fallot, the nonbranching and branching components of the atrioventricular bundle are carried down the left ventricular side of the septum, being positioned some distance from the septal crest. In a minority of cases, the bundle can branch directly astride the septum. It can then be traumatised (**Figure 7.146**) by sutures placed directly through the septal crest (**Figure 7.147**).
+  
+![](_page_76_Figure_4.jpeg)
 
-the leaflets of the aortic and tricuspid valves in the inferocaudal quadrant of the defect thus defined, making it perimembranous (Figure 7.143). Alternatively, the inferocaudal rim can be muscular when the ventriculoinfundibular fold fuses with the caudal limb of the septomarginal trabeculation (Figure 7.144)<sup>65</sup>. These features have the same implications for protection of the axis of atrioventricular conduction tissue as they do in isolated ventricular septal defects (see earlier). When the inferocaudal margin is fibrous, the atrioventricular conduction axis penetrates beneath the atrioventricular membranous septal component of this area (Figure 7.145). Often this is overlain by the membranous flap, or pseudoflaps derived from the tricuspid valve<sup>66</sup>. Usually, in tetralogy of Fallot, the nonbranching and branching components of the atrioventricular bundle are carried down the left ventricular side of the septum, being positioned some distance from the septal crest. In a minority of cases, the bundle can branch directly astride the septum<sup>67,68</sup>. It can then be traumatised (Figure 7.146) by sutures placed directly through the septal crest (Figure 7.147).
+**Fig. 7.143** This view of an anatomical specimen, photographed in anatomical orientation, shows the usual variant of the ventricular septal defect in tetralogy of Fallot, in which the posteroinferior border is formed by a fibrous continuity between the leaflets of the aortic and tricuspid valves, thus making it perimembranous. The star shows the deviated muscular outlet septum, which supports a sleeve of free-standing subpulmonary infundibular musculature (arrow).
+  
+![](_page_77_Picture_2.jpeg)
+
+**Fig. 7.144** In this specimen with tetralogy of Fallot, photographed in anatomical orientation, the defect (star), as seen from the right ventricle, has exclusively muscular borders, because of fusion posteroinferiorly between the caudal limb of the septomarginal trabeculation and the ventriculoinfundibular fold
+
+![](_page_77_Picture_4.jpeg)
+
+**Fig. 7.145** This anatomical specimen with tetralogy of Fallot, photographed in anatomical orientation, has been prepared by removal of the septal leaflet of the tricuspid valve. It shows the site of the remnant of the interventricular membranous septum, known as the membranous flap, and illustrates the relationships of the atrioventricular conduction axis (red dotted line) when the ventricular septal defect is perimembranous. The star shows the ventricular septal defect.
+  
+  
 
 The cases in which the posterior limb of the septomarginal trabeculation has fused with the ventriculoinfundibular fold superior to an intact interventricular membranous septum (Figure 7.144), thus protecting the atrioventricular conduction tissues, account for about one-fifth of the overall population with this lesion. In this setting, superficial sutures can be placed along the entire muscular margin of the right ventricular aspect of these defects without fear of traumatising the conduction axis.
 
@@ -932,13 +822,9 @@ In rare cases, more frequently encountered in Asia or South America<sup>69,70</s
 
 While it is clearly important to close the ventricular septal defect securely in patients with tetralogy of Fallot, patching the aorta into the left ventricle,
 
-![](_page_76_Picture_2.jpeg)
 
-heart from a patient with tetralogy of Fallot, taken in anatomical orientation, shows the divorce of the muscular structures that combine to form the normal subpulmonary outflow tract.
 
-![](_page_76_Figure_4.jpeg)
 
-Fig. 7.143 This view of an anatomical specimen, photographed in anatomical orientation, shows the usual variant of the ventricular septal defect in tetralogy of Fallot, in which the posteroinferior border is formed by a fibrous continuity between the leaflets of the aortic and tricuspid valves, thus making it perimembranous. The star shows the deviated muscular outlet septum, which supports a sleeve of free-standing subpulmonary infundibular musculature (arrow).
 
 probably the most important feature for a successful surgical outcome, is relief of the subpulmonary obstruction. One of the major determinants of this
 
@@ -946,21 +832,15 @@ success is the size of the pulmonary trunk. Tables are available for preoperativ
 
 successfully without incising across the ventriculoarterial junction71,72. Such incisions are usually described as being transannular.
 
-![](_page_77_Picture_2.jpeg)
 
-photographed in anatomical orientation, the defect (star), as seen from the right ventricle, has exclusively muscular borders, because of fusion posteroinferiorly between the caudal limb of the septomarginal trabeculation and the ventriculoinfundibular fold.
-
-![](_page_77_Picture_4.jpeg)
-
-Fig. 7.145 This anatomical specimen with tetralogy of Fallot, photographed in anatomical orientation, has been prepared by removal of the septal leaflet of the tricuspid valve. It shows the site of the remnant of the interventricular membranous septum, known as the membranous flap, and illustrates the relationships of the atrioventricular conduction axis (red dotted line) when the ventricular septal defect is perimembranous. The star shows the ventricular septal defect.
 
 ![](_page_78_Picture_2.jpeg)
 
-the left ventricle, the defect in a patient with tetralogy of Fallot was repaired by placing sutures directly through the crest of the muscular ventricular septum. Note the haemorrhage produced at the septal crest.
+Fig. 7.146 In this heart, viewed in anatomical orientation from the left ventricle, the defect in a patient with tetralogy of Fallot was repaired by placing sutures directly through the crest of the muscular ventricular septum. Note the haemorrhage produced at the septal crest.
 
 ![](_page_78_Figure_4.jpeg)
 
-Right Left. Fig. 7.147 The histological section is taken across the ventricular septum in the heart shown in Figure 7.146. The atrioventricular (AV) conduction tissue axis in this heart branched directly astride the septum. The atrioventricular bundle was traumatised by a suture (arrow) securing the patch, producing atrioventricular block.
+Fig. 7.147 The histological section is taken across the ventricular septum in the heart shown in Figure 7.146. The atrioventricular (AV) conduction tissue axis in this heart branched directly astride the septum. The atrioventricular bundle was traumatised by a suture (arrow) securing the patch, producing atrioventricular block.
 
 An understanding of the precise anatomy of the subpulmonary outflow tract is also vital if the surgeon is to plan a reproducible operation for successful relief of the muscular obstruction accurately. This is the consequence of formation of a constrictive muscular ring at the mouth of
 
