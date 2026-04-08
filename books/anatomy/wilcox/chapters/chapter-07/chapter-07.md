@@ -814,107 +814,70 @@ The interventricular communication, therefore, is positioned beneath the ventric
 
 **Fig. 7.145** This anatomical specimen with tetralogy of Fallot, photographed in anatomical orientation, has been prepared by removal of the septal leaflet of the tricuspid valve. It shows the site of the remnant of the interventricular membranous septum, known as the membranous flap, and illustrates the relationships of the atrioventricular conduction axis (red dotted line) when the ventricular septal defect is perimembranous. The star shows the ventricular septal defect.
   
-  
-
-The cases in which the posterior limb of the septomarginal trabeculation has fused with the ventriculoinfundibular fold superior to an intact interventricular membranous septum (Figure 7.144), thus protecting the atrioventricular conduction tissues, account for about one-fifth of the overall population with this lesion. In this setting, superficial sutures can be placed along the entire muscular margin of the right ventricular aspect of these defects without fear of traumatising the conduction axis.
-
-In rare cases, more frequently encountered in Asia or South America<sup>69,70</sup>, the outlet septum is fibrous rather than muscular, with failure of formation of the posterior aspect of the free-standing subpulmonary infundibular sleeve. The defect is thus doubly committed and juxta-arterial (Figure 7.148). The significant surgical feature in these cases is again the relationship of the conduction axis in the inferior border of the defect, which may be either muscular or perimembranous.
-
-While it is clearly important to close the ventricular septal defect securely in patients with tetralogy of Fallot, patching the aorta into the left ventricle,
-
-
-
-
-
-probably the most important feature for a successful surgical outcome, is relief of the subpulmonary obstruction. One of the major determinants of this
-
-success is the size of the pulmonary trunk. Tables are available for preoperative evaluation to select those patients who can be corrected
-
-successfully without incising across the ventriculoarterial junction71,72. Such incisions are usually described as being transannular.
-
-
-
 ![](_page_78_Picture_2.jpeg)
 
-Fig. 7.146 In this heart, viewed in anatomical orientation from the left ventricle, the defect in a patient with tetralogy of Fallot was repaired by placing sutures directly through the crest of the muscular ventricular septum. Note the haemorrhage produced at the septal crest.
+**Fig. 7.146** In this heart, viewed in anatomical orientation from the left ventricle, the defect in a patient with tetralogy of Fallot was repaired by placing sutures directly through the crest of the muscular ventricular septum. Note the haemorrhage produced at the septal crest.
 
 ![](_page_78_Figure_4.jpeg)
 
-Fig. 7.147 The histological section is taken across the ventricular septum in the heart shown in Figure 7.146. The atrioventricular (AV) conduction tissue axis in this heart branched directly astride the septum. The atrioventricular bundle was traumatised by a suture (arrow) securing the patch, producing atrioventricular block.
+**Fig. 7.147** The histological section is taken across the ventricular septum in the heart shown in **Figure 7.146**. The atrioventricular (AV) conduction tissue axis in this heart branched directly astride the septum. The atrioventricular bundle was traumatised by a suture (arrow) securing the patch, producing atrioventricular block.
+  
+The cases in which the posterior limb of the septomarginal trabeculation has fused with the ventriculoinfundibular fold superior to an intact interventricular membranous septum (**Figure 7.144**), thus protecting the atrioventricular conduction tissues, account for about one-fifth of the overall population with this lesion. In this setting, superficial sutures can be placed along the entire muscular margin of the right ventricular aspect of these defects without fear of traumatising the conduction axis.
 
-An understanding of the precise anatomy of the subpulmonary outflow tract is also vital if the surgeon is to plan a reproducible operation for successful relief of the muscular obstruction accurately. This is the consequence of formation of a constrictive muscular ring at the mouth of
-
-the subpulmonary infundibulum, with its parietal segment produced by hypertrophy of free-standing septoparietal trabeculations. Knowledge of this feature is important to the surgeon when deciding which muscle to resect so as to widen the narrowed outflow tract. The major limiting structure is always the hypertrophied septal insertion of the outlet septum, which can be incised without fear of damaging vital structures. At the same time, any free-standing septoparietal trabeculations should be identified and removed (Figures 7.149, 7.150). They, too, never
-
+In rare cases, more frequently encountered in Asia or South America, the outlet septum is fibrous rather than muscular, with failure of formation of the posterior aspect of the free-standing subpulmonary infundibular sleeve. The defect is thus doubly committed and juxta-arterial (**Figure 7.148**). The significant surgical feature in these cases is again the relationship of the conduction axis in the inferior border of the defect, which may be either muscular or perimembranous.
+  
 ![](_page_79_Picture_2.jpeg)
 
-Fig. 7.148 This specimen, viewed in anatomical orientation from the apex of the right ventricle, shows tetralogy of Fallot with a doubly committed and juxta-arterial defect due to failure of formation of the muscular subpulmonary infundibulum. Note the fibrous continuity between the leaflets of the aortic and pulmonary valves, showing that the defect is also perimembranous. VSD, ventricular septal defect.
+**Fig. 7.148** This specimen, viewed in anatomical orientation from the apex of the right ventricle, shows tetralogy of Fallot with a doubly committed and juxta-arterial defect due to failure of formation of the muscular subpulmonary infundibulum. Note the fibrous continuity between the leaflets of the aortic and pulmonary valves, showing that the defect is also perimembranous. VSD, ventricular septal defect.
+
+While it is clearly important to close the ventricular septal defect securely in patients with tetralogy of Fallot, patching the aorta into the left ventricle, probably the most important feature for a successful surgical outcome, is relief of the subpulmonary obstruction. One of the major determinants of this success is the size of the pulmonary trunk. Tables are available for preoperative evaluation to select those patients who can be corrected successfully without incising across the ventriculoarterial junction. Such incisions are usually described as being transannular.
+
+An understanding of the precise anatomy of the subpulmonary outflow tract is also vital if the surgeon is to plan a reproducible operation for successful relief of the muscular obstruction accurately. This is the consequence of formation of a constrictive muscular ring at the mouth of the subpulmonary infundibulum, with its parietal segment produced by hypertrophy of free-standing septoparietal trabeculations. Knowledge of this feature is important to the surgeon when deciding which muscle to resect so as to widen the narrowed outflow tract. The major limiting structure is always the hypertrophied septal insertion of the outlet septum, which can be incised without fear of damaging vital structures. At the same time, any free-standing septoparietal trabeculations should be identified and removed (**Figures 7.149**, **7.150**). They, too, never contain vital structures. The body of the outlet septum usually contributes to obstruction, and it is tempting to resect this structure. Excessive resection, however, may lead to damage to the leaflets of the aortic valve arising from its left ventricular aspect.
 
 ![](_page_79_Figure_4.jpeg)
 
-Fig. 7.149 This view, taken in the operating room through a right infundibulotomy, shows the stenotic orifice of the subpulmonary infundibulum in a patient with tetralogy of Fallot. The stenosis is formed in part by the hypertrophied outlet septum, and also by septoparietal trabeculations.
-
-contain vital structures. The body of the outlet septum usually contributes to obstruction, and it is tempting to resect this structure. Excessive resection, however, may lead to damage to the leaflets of the
-
-aortic valve arising from its left ventricular aspect.
-
-It is also usual to resect the parietal insertion of the outlet septum (Fig. 7.151). This fuses with the ventriculoinfundibular fold, which is the inner curvature of the heart. Care must be taken not to perforate to the right-sided atrioventricular groove in this region. Dissection, or injudicious placement of sutures, can damage the
+**Fig. 7.149** This view, taken in the operating room through a right infundibulotomy, shows the stenotic orifice of the subpulmonary infundibulum in a patient with tetralogy of Fallot. The stenosis is formed in part by the hypertrophied outlet septum, and also by septoparietal trabeculations.
 
 ![](_page_80_Picture_2.jpeg)
 
-**Fig. 7.150** In the patient shown in Figure 7.149, the surgeon was able to liberate the septoparietal trabeculations. They could then be excised.
+**Fig. 7.150** In the patient shown in **Figure 7.149**, the surgeon was able to liberate the septoparietal trabeculations. They could then be excised.
+
+It is also usual to resect the parietal insertion of the outlet septum (**Fig. 7.151**). This fuses with the ventriculoinfundibular fold, which is the inner curvature of the heart. Care must be taken not to perforate to the right-sided atrioventricular groove in this region. Dissection, or injudicious placement of sutures, can damage the right coronary artery. It is very unusual for the septomarginal trabeculation itself to contribute to the subpulmonary obstruction. Thus, it is usually unnecessary to resect its limbs. Its body, and the moderator band, nonetheless, may be hypertrophied, particularly when the latter structure has a high take-off. Severe hypertrophy produces a two-chambered right ventricle, when the intervening muscle band may require resection (**Figure 7.152**). The anterior papillary muscle of the tricuspid valve often arises from the inlet aspect of the obstructing shelf. Care must be taken, therefore, not to damage this muscle during resection.
 
 ![](_page_80_Picture_4.jpeg)
 
-**Fig. 7.151** In the patients shown in Figures 7.149 and 7.150, the obstruction at the mouth of the infundibulum was completely relieved by resecting the parietal extension of the outlet septum.
-
-right coronary artery<sup>73</sup>. It is very unusual for the septomarginal trabeculation itself to contribute to the subpulmonary obstruction. Thus, it is usually unnecessary to resect its limbs. Its body, and the moderator band, nonetheless, may be
-
-hypertrophied, particularly when the latter structure has a high take-off. Severe hypertrophy produces a two-chambered right ventricle<sup>74</sup>, when the intervening muscle band may require resection (Figure 7.152). The anterior papillary
-
-muscle of the tricuspid valve often arises from the inlet aspect of the obstructing shelf. Care must be taken, therefore, not to damage this muscle during resection.
-
-The final variable in tetralogy of Fallot is the connection of the leaflets of the
+**Fig. 7.151** In the patients shown in **Figures 7.149** and **7.150**, the obstruction at the mouth of the infundibulum was completely relieved by resecting the parietal extension of the outlet septum.
 
 ![](_page_81_Picture_2.jpeg)
 
-shown in anatomical orientation, there is hypertrophy of the body of the septomarginal trabeculation (star), separating the apical trabecular component into two parts (arrows). This is the so-called 'two-chambered right ventricle'.
+**Fig. 7.152** In this heart from a patient with tetralogy of Fallot, shown in anatomical orientation, there is hypertrophy of the body of the septomarginal trabeculation (star), separating the apical trabecular component into two parts (arrows). This is the so-called
+‘two-chambered right ventricle’.
 
-overriding aortic valve. Depending on this feature, the aorta can be connected mostly to the left ventricle, making the ventriculoarterial connection concordant, or connected mostly to the right ventricle, and hence producing a double-outlet connection. The degree of override should not affect the surgical procedure markedly. With greater commitment of the aorta to the right ventricle, nonetheless, the placement of the patch tunnelling the aorta to the left ventricle, and closing the ventricular septal defect, becomes more important. The internal conduit constructed from the left ventricle to the aorta may complicate relief of the obstruction to the right ventricular outflow tract further, because it is always necessary to ensure an adequate outlet from the left ventricle.
+The final variable in tetralogy of Fallot is the connection of the leaflets of the overriding aortic valve. Depending on this feature, the aorta can be connected mostly to the left ventricle, making the ventriculoarterial connection concordant, or connected mostly to the right ventricle, and hence producing a double-outlet connection. The degree of override should not affect the surgical procedure markedly. With greater commitment of the aorta to the right ventricle, nonetheless, the placement of the patch tunnelling the aorta to the left ventricle, and closing the ventricular septal defect, becomes more important. The internal conduit constructed from the left ventricle to the aorta may complicate relief of the obstruction to the right ventricular outflow tract further, because it is always necessary to ensure an adequate outlet from the left ventricle.
 
 Although the primary obstruction in tetralogy of Fallot is at the infundibular level, the pulmonary valve is frequently stenotic, being bifoliate in the majority of patients. Any stenosis must be relieved during operative repair. The sequels of postoperative pulmonary regurgitation only now are becoming evident. It could be that, in the long term, they will be just as troublesome as residual pulmonary stenosis, and less easy to relieve.
 
-Patients with tetralogy of Fallot can have multiple associated lesions, such as straddling and overriding of the tricuspid valve, or deficient atrioventricular septation. The end point is then a combination of the anatomical lesions already discussed. One of the most important associated lesions is the presence of pulmonary atresia rather than pulmonary stenosis. This combination is often described as pulmonary atresia with ventricular septal defect, which is not an incorrect designation. The variant found with the intracardiac anatomy of the tetralogy, however, is so distinctive that it should be described as tetralogy of Fallot with valvar or infundibular pulmonary atresia75. The intracardiac anatomy includes deviation of the muscular outlet septum sufficient to block the subpulmonary infundibulum completely (Figure 7.153). The anatomy of the ventricular septal defect can vary as in tetralogy of Fallot, with the same surgical connotations. The feature that dominates the surgical options is the morphology of the pulmonary arteries. Exceedingly rarely, the pulmonary arteries may be supplied through a persistent fifth arch76, an aortopulmonary window, or coronary arterial fistulas77. In most instances, nonetheless, the lungs are supplied either through a persistently patent arterial duct (Figure 7.154), or through major aortopulmonary collateral arteries78. It is rare to find such collateral arteries supplying the pulmonary circulation except when the intracardiac anatomy is that of tetralogy of Fallot. Additionally, only very rarely, will a duct and collateral arteries supply the same lung, although these two sources of flow can supply separate lungs (Figure 7.155). When a duct is present, and the pulmonary arteries are confluent, the arteries supply the entirety of the lung parenchyma (Figure 7.155), although they may be variably developed. The degree of hypoplasia determines whether total correction is feasible.
-
-When the right and left pulmonary arteries are not confluent, or when major aortopulmonary collateral arteries are present, the situation is more complex. Non-confluent pulmonary arteries can be supplied independently by bilateral ducts, or one lung can be supplied by a duct and the other through collateral arteries (Figure 7.156). It is more usual for
-
+Patients with tetralogy of Fallot can have multiple associated lesions, such as straddling and overriding of the tricuspid valve, or deficient atrioventricular septation. The end point is then a combination of the anatomical lesions already discussed. One of the most important associated lesions is the presence of pulmonary atresia rather than pulmonary stenosis. This combination is often described as pulmonary atresia with ventricular septal defect, which is not an incorrect designation. The variant found with the intracardiac anatomy of the tetralogy, however, is so distinctive that it should be described as tetralogy of Fallot with valvar or infundibular pulmonary atresia. The intracardiac anatomy includes deviation of the muscular outlet septum sufficient to block the subpulmonary infundibulum completely (**Figure 7.153**). The anatomy of the ventricular septal defect can vary as in tetralogy of Fallot, with the same surgical connotations. The feature that dominates the surgical options is the morphology of the pulmonary arteries. Exceedingly rarely, the pulmonary arteries may be supplied through a persistent fifth arch, an aortopulmonary window, or coronary arterial fistulas. In most instances, nonetheless, the lungs are supplied either through a persistently patent arterial duct (**Figure 7.154**), or through major aortopulmonary collateral arteries. It is rare to find such collateral arteries supplying the pulmonary circulation except when the intracardiac anatomy is that of tetralogy of Fallot. Additionally, only very rarely, will a duct and collateral arteries supply the same lung, although these two sources of flow can supply separate lungs (**Figure 7.155**). When a duct is present, and the pulmonary arteries are confluent, the arteries supply the entirety of the lung parenchyma (**Figure 7.155**), although they may be variably developed. The degree of hypoplasia determines whether total correction is feasible.
+  
 ![](_page_82_Picture_2.jpeg)
 
-Fig. 7.153 In this heart from a patient with tetralogy of Fallot with pulmonary atresia, viewed in anatomical orientation, there are confluent pulmonary arteries supplied by an arterial duct. Note the extreme anterocephalad deviation of the muscular outlet septum (star), with muscular atresia at the ventriculoarterial junction.
+**Fig. 7.153** In this heart from a patient with tetralogy of Fallot with pulmonary atresia, viewed in anatomical orientation, there are confluent pulmonary arteries supplied by an arterial duct. Note the extreme anterocephalad deviation of the muscular outlet septum (star), with muscular atresia at the ventriculoarterial junction.  
+  
+ ![](_page_82_Picture_4.jpeg)
 
-![](_page_82_Picture_4.jpeg)
-
-patient with tetralogy of Fallot and pulmonary atresia shows confluent pulmonary arteries fed through a persistently patent arterial duct.
-
-collateral arteries to supply both lungs with no duct being present.
-
-Well-developed confluent pulmonary arteries usually coexist within the pericardial sac even when there are
-
-collateral arteries (Figure 7.157). It is important to establish how much of the pulmonary parenchyma is connected to the intrapericardial pulmonary arteries, and how much is supplied directly by collateral arteries. It is known that collateral arteries can anastomose with the pulmonary arteries at the hilum (Figure 7.158), or extend into the parenchyma to supply lobar or segmental arteries directly.
-
+**Fig. 7.154** The computed tomographic angiogram from a patient with tetralogy of Fallot and pulmonary atresia shows confluent pulmonary arteries fed through a persistently patent arterial duct.
+  
 ![](_page_83_Picture_2.jpeg)
 
-Fig. 7.155 In this specimen of tetralogy of Fallot with pulmonary atresia, viewed from behind, the pulmonary arteries are discontinuous. The left pulmonary artery was initially supplied by an arterial duct, which has become ligametous (star). The right lung is supplied through systemic-to-pulmonary collateral arteries (arrows).
+**Fig. 7.155** In this specimen of tetralogy of Fallot with pulmonary atresia, viewed from behind, the pulmonary arteries are discontinuous. The left pulmonary artery was initially supplied by an arterial duct, which has become ligametous (star). The right lung is supplied through systemic-to-pulmonary collateral arteries (arrows). 
 
+When the right and left pulmonary arteries are not confluent, or when major aortopulmonary collateral arteries are present, the situation is more complex. Non-confluent pulmonary arteries can be supplied independently by bilateral ducts, or one lung can be supplied by a duct and the other through collateral arteries (**Figure 7.156**). It is more usual for collateral arteries to supply both lungs with no duct being present.
+  
 ![](_page_83_Picture_4.jpeg)
 
-Fig. 7.156 The pulmonary arteries in the heart shown in Figure 7.153, fed by the arterial duct (star), have a normal segmental distribution.
+**Fig. 7.156** The pulmonary arteries in the heart shown in **Figure 7.153**, fed by the arterial duct (star), have a normal segmental distribution.
 
-Intersegmental anastomoses also occur. The object of preoperative evaluation, therefore, should be to establish precisely how much of each lung is supplied by the intrapericardial pulmonary arteries, as
-
-this is the ultimate determinant of the success of any attempted total correction. Cases can be found with supply exclusively from collateral arteries (Figure 7.159). In this setting, the arterial trunk is best described as a solitary structure (see later).
-
-In contrast to tetralogy of Fallot with pulmonary atresia, where initial survival is good, and the results of surgery are
+Well-developed confluent pulmonary arteries usually coexist within the pericardial sac even when there are collateral arteries (**Figure 7.157**). It is important to establish how much of the pulmonary parenchyma is connected to the intrapericardial pulmonary arteries, and how much is supplied directly by collateral arteries. It is known that collateral arteries can anastomose with the pulmonary arteries at the hilum (**Figure 7.158**), or extend into the parenchyma to supply lobar or segmental arteries directly.
 
 ![](_page_84_Picture_2.jpeg)
 
@@ -924,39 +887,27 @@ In contrast to tetralogy of Fallot with pulmonary atresia, where initial surviva
 
 **Fig. 7.158** In this heart from a patient with tetralogy of Fallot and pulmonary atresia, shown in anatomical orientation, the intrapericardial arteries extending to enter the right lung (arrow) are supplied by a large systemic-to-pulmonary collateral artery (star).
 
-continually improving, attempted surgical correction of patients with pulmonary atresia and an intact ventricular septum continues to be disappointing. The anatomy of the lesion itself accounts for the dismal outcome<sup>79–81</sup>.
-
-The atresia can be due either to an imperforate pulmonary valvar membrane (Figure 7.160), or to muscular infundibular atresia. In the latter situation, the pulmonary trunk is blind-ending, with no vestiges of
-
-leaflets of the pulmonary valve (Figure 7.161). The cavities of the outlet and trabecular component parts of the right ventricle are more-or-less completely obliterated by gross hypertrophy of the
-
+Intersegmental anastomoses also occur. The object of preoperative evaluation, therefore, should be to establish precisely how much of each lung is supplied by the intrapericardial pulmonary arteries, as this is the ultimate determinant of the success of any attempted total correction. Cases can be found with supply exclusively from collateral arteries (**Figure 7.159**). In this setting, the arterial trunk is best described as a solitary structure (see later).
+  
 ![](_page_85_Picture_2.jpeg)
 
-Fig. 7.159 The computed tomographic angiogram from a patient with tetralogy of Fallot and pulmonary atresia shows the systemicto-pulmonary collateral arteries arising from the descending aorta that supply the entirety of the pulmonary parenchyma. In this patient, there was absence of the intrapericardial pulmonary arteries.
+**Fig. 7.159** The computed tomographic angiogram from a patient with tetralogy of Fallot and pulmonary atresia shows the systemicto-pulmonary collateral arteries arising from the descending aorta that supply the entirety of the pulmonary parenchyma. In this patient, there was absence of the intrapericardial pulmonary arteries.  
+
+In contrast to tetralogy of Fallot with pulmonary atresia, where initial survival is good, and the results of surgery are continually improving, attempted surgical correction of patients with pulmonary atresia and an intact ventricular septum continues to be disappointing. The anatomy of the lesion itself accounts for the dismal outcome.
+
+The atresia can be due either to an imperforate pulmonary valvar membrane (**Figure 7.160**), or to muscular infundibular atresia. In the latter situation, the pulmonary trunk is blind-ending, with no vestiges of leaflets of the pulmonary valve (**Figure 7.161**). The cavities of the outlet and trabecular component parts of the right ventricle are more-or-less completely obliterated by gross hypertrophy of the ventricular wall. In consequence, the cavity is effectively represented by only the hypoplastic inlet portion (**Figure 7.162**). This cavity is unlikely ever to perform a useful function, particularly when fistulous communications extend to the coronary arteries. The right ventricle probably should be disregarded when deciding surgical treatment. When there is a pulmonary valve present, but its leaflets are imperforate, a spectrum is seen in terms of the size of the right ventricular cavity. In some hearts, hypertrophy of the right ventricular myocardium obliterates the apical trabecular part of the cavity (**Figure 7.163**). It is questionable if these ventricles will ever grow and become useful, although attempts have been made to resect apical trabeculations and rehabilitate the ventricle. In the most favourable situation, the cavity is less hypoplastic, and has well-developed inlet, apical, and outlet components (**Figure 7.164**). These cases are those which are most amenable to total operative correction, although increasingly they are treated by the interventional cardiologist, who will perforate the valvar membrane before dilating it with balloons.
 
 ![](_page_85_Picture_4.jpeg)
 
-Fig. 7.160 In this heart from a patient with pulmonary atresia and an intact ventricular septum, viewed from above, dissection of the ventriculopulmonary junction shows an imperforate pulmonary valvar membrane.
-
-ventricular wall. In consequence, the cavity is effectively represented by only the hypoplastic inlet portion (Figure 7.162). This cavity is unlikely ever to perform a
-
-useful function, particularly when fistulous communications extend to the coronary arteries. The right ventricle probably should be disregarded when deciding surgical
-
-treatment. When there is a pulmonary valve present, but its leaflets are imperforate, a spectrum is seen in terms of the size of the right ventricular cavity82. In some hearts,
+**Fig. 7.160** In this heart from a patient with pulmonary atresia and an intact ventricular septum, viewed from above, dissection of the ventriculopulmonary junction shows an imperforate pulmonary valvar membrane.
 
 ![](_page_86_Picture_2.jpeg)
 
-Fig. 7.161 In this heart from a patient with pulmonary atresia and an intact ventricular septum, there is no evidence of valvar tissue in the blind-ending pulmonary root (compare with Figure 7.160).
+**Fig. 7.161** In this heart from a patient with pulmonary atresia and an intact ventricular septum, there is no evidence of valvar tissue in the blind-ending pulmonary root (compare with **Figure 7.160**).
 
 ![](_page_86_Picture_4.jpeg)
 
-Fig. 7.162 In this heart from a patient with pulmonary atresia and an intact ventricular septum, viewed anatomically, the cavity of the right ventricle is effectively represented by the inlet component alone, due to gross hypertrophy of the walls of the apical trabecular and outlet components. Note the fistulous communication extending through the wall to the anterior interventricular coronary artery (white arrow).
-
-hypertrophy of the right ventricular myocardium obliterates the apical trabecular part of the cavity (Figure 7.163). It is questionable if these ventricles will ever grow and become useful, although attempts have been made to resect apical trabeculations and rehabilitate the ventricle83. In the most favourable situation, the cavity is less hypoplastic, and has well-developed inlet, apical, and outlet components (Figure 7.164). These cases are those which are most amenable to total operative
-
-correction, although increasingly they are treated by the interventional cardiologist, who will perforate the valvar membrane before dilating it with balloons.
-
-Whatever the intracardiac anatomy, it is rare that one finds the thread-like
+**Fig. 7.162** In this heart from a patient with pulmonary atresia and an intact ventricular septum, viewed anatomically, the cavity of the right ventricle is effectively represented by the inlet component alone, due to gross hypertrophy of the walls of the apical trabecular and outlet components. Note the fistulous communication extending through the wall to the anterior interventricular coronary artery (white arrow).
 
 ![](_page_87_Picture_2.jpeg)
 
@@ -966,40 +917,29 @@ Whatever the intracardiac anatomy, it is rare that one finds the thread-like
 
 **Fig. 7.164** This heart is once more from a patient having pulmonary atresia with an intact ventricular septum. It shows the most favourable variant, in which the pulmonary valve is imperforate (arrow), but the mural hypertrophy has barely obliterated any of the right ventricular cavity.
 
-pulmonary arteries seen so frequently with tetralogy of Fallot and pulmonary atresia. Furthermore, the flow of pulmonary blood is almost always duct dependent. With prostaglandins now available to improve ductal flow, the pulmonary arteries are almost always of sufficient size to permit construction of a systemic-pulmonary shunt. Other options, such as the need for pulmonary valvotomy, should be decided after assessment of the precise anatomy of the individual case.
+Whatever the intracardiac anatomy, it is rare that one finds the thread-like pulmonary arteries seen so frequently with tetralogy of Fallot and pulmonary atresia. Furthermore, the flow of pulmonary blood is almost always duct dependent. With prostaglandins now available to improve ductal flow, the pulmonary arteries are almost always of sufficient size to permit construction of a systemic-pulmonary shunt. Other options, such as the need for pulmonary valvotomy, should be decided after assessment of the precise anatomy of the individual case.
 
-Pulmonary valvar insufficiency may be congenital or acquired, the latter usually secondary to surgical intervention or pulmonary hypertension. Congenital pulmonary valvar insufficiency may be associated with marked deformity of the valvar tissue, as in valvar dysplasia, or with purported absence of the valvar tissue altogether. In reality, rudimentary leaflets
+Pulmonary valvar insufficiency may be congenital or acquired, the latter usually secondary to surgical intervention or pulmonary hypertension. Congenital pulmonary valvar insufficiency may be associated with marked deformity of the valvar tissue, as in valvar dysplasia, or with purported absence of the valvar tissue altogether. In reality, rudimentary leaflets are almost always present in the so-called absent pulmonary valve syndrome. This can rarely be seen with an intact ventricular septum, but more usually in combination with a ventricular septal defect (**Figure 7.165**). It is another of the associated lesions found in combination with tetralogy of Fallot.
 
 ![](_page_88_Picture_2.jpeg)
 
-from a patient with tetralogy of Fallot, there is rudimentary formation of the leaflets of the pulmonary valve (arrow), with gross dilation of the pulmonary trunk and pulmonary arteries (stars).
+**Fig. 7.165** In this specimen, seen in anatomical orientation, from a patient with tetralogy of Fallot, there is rudimentary formation of the leaflets of the pulmonary valve (arrow), with gross dilation of the pulmonary trunk and pulmonary arteries (stars).
 
+While gross pulmonary valvar insufficiency may be relatively well tolerated by the right heart, it can result in marked enlargement of the pulmonary trunk and arteries, and usually is associated with an absence of the arterial duct. Compromise of the tracheobronchial tree by these grossly enlarged vessels (**Figures 7.166**–**7.169**) results in most patients presenting with symptoms of respiratory distress. Because only a limited number of cases have come to surgical correction, the efficacy of replacement of the valve with or without arterial plication has not been proved. Perhaps fortunately, socalled absence of the pulmonary valvar leaflets is a rare condition.
+  
 ![](_page_88_Figure_4.jpeg)
 
-Fig. 7.166 This operative view shows the right ventriculopulmonary arterial junction in a patient with tetralogy of Fallot. Note the grossly abnormal leaflets of the pulmonary valve (arrows).
-
-are almost always present in the so-called absent pulmonary valve syndrome. This can rarely be seen with an intact ventricular septum84,85, but more usually in
-
-combination with a ventricular septal defect (Figure 7.165). It is another of the associated lesions found in combination with tetralogy of Fallot.
-
-While gross pulmonary valvar insufficiency may be relatively well tolerated by the right heart, it can result in marked enlargement of the
+**Fig. 7.166** This operative view shows the right ventriculopulmonary arterial junction in a patient with tetralogy of Fallot. Note the grossly abnormal leaflets of the pulmonary valve (arrows).
 
 ![](_page_89_Picture_2.jpeg)
 
-Fig. 7.167 In the patient shown in Figure 7.166, there was gross dilation of the pulmonary trunk and the pulmonary arteries.
+**Fig. 7.167** In the patient shown in **Figure 7.166**, there was gross dilation of the pulmonary trunk and the pulmonary arteries.
 
 ![](_page_89_Picture_4.jpeg)
 
-Fig. 7.168 This posterior view of the hilum of the left lung of the heart from the patient seen in Fig. 7.165 shows the obstruction produced by the gross dilation of the left pulmonary artery (star) as it crosses the narrowed bronchus (double-headed arrow).
-
-pulmonary trunk and arteries, and usually is associated with an absence of the arterial duct85. Compromise of the tracheobronchial tree by these grossly enlarged vessels
-
-(Figures 7.166–7.169) results in most patients presenting with symptoms of respiratory distress. Because only a limited number of cases have come to surgical correction, the
-
-efficacy of replacement of the valve with or without arterial plication has not been proved. Perhaps fortunately, socalled absence of the pulmonary valvar leaflets is a rare condition.
+**Fig. 7.168** This posterior view of the hilum of the left lung of the heart from the patient seen in **Fig. 7.165** shows the obstruction produced by the gross dilation of the left pulmonary artery (star) as it crosses the narrowed bronchus (double-headed arrow).
 
 ![](_page_90_Picture_2.jpeg)
 
-**Fig. 7.169** This operative view of the patient shown in Figures 7.166 and 7.167 shows the grossly enlarged left pulmonary artery, which is as large as the aorta.
-</div>
-</details>
+**Fig. 7.169** This operative view of the patient shown in **Figures 7.166** and **7.167** shows the grossly enlarged left pulmonary artery, which is as large as the aorta.
+</div></details>
