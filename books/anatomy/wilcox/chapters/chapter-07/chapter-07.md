@@ -1,6 +1,48 @@
 # Lesions with normal segmental connections
 
 <details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Septal Anatomy
+* **Atrial septum:** Primarily the floor of the oval fossa (septum primum); superior, anterosuperior and posterior rims are infoldings of atrial walls; only inferoanterior rim is true muscular septum contiguous with atrioventricular septum.
+* **Atrioventricular separating structures:** Fibrous membranous septum superiorly and muscular sandwich (fibroadipose tissue in floor of triangle of Koch); absent in atrioventricular septal defects.
+* **Ventricular septum:** Small interventricular membranous septum and large muscular portion; best analysed from right ventricular aspect; includes septomarginal trabeculation with body and limbs, septoparietal trabeculations and moderator band.
+
+### Interatrial Communications
+* **Ostium secundum defects:** Most common; deficiency, perforation or absence of oval fossa floor; patch closure preferred; risk to sinus node artery (anterior rim or superior fold) and aortic root.
+* **Sinus venosus defects:** Superior (usually overriding SVC with anomalous right superior pulmonary veins) and inferior (rarer); outside true atrial septum; require pulmonary vein rerouting without venous obstruction or sinus node injury.
+* **Unroofing of coronary sinus:** Often with persistent left superior caval vein; coronary sinus mouth functions as interatrial communication; closure depends on left SVC drainage (ligation, Glenn shunt or left atrial channel).
+
+### Atrioventricular Septal Defects
+* **Unifying feature:** Common atrioventricular junction with absence of AV separating structures.
+* **Gerbode defects:** Rare with separate junctions — indirect (via deficient tricuspid leaflet) or direct (deficiency of AV component of membranous septum).
+* **Valve morphology:** Five-leaflet common AV valve with superior and inferior bridging leaflets; left AV valve is trifoliate with extensive zone of apposition between bridging components.
+* **Rastelli classification:** Reflects degree of right ventricular commitment of superior bridging leaflet (Types A–C).
+* **Shunting:** Atrial, ventricular or both depending on attachments of bridging leaflets to atrial and ventricular septa.
+* **Conduction axis:** Displaced inferiorly to apex of new nodal triangle (base at coronary sinus); protected by specific suture strategies relative to coronary sinus and inferior bridging leaflet.
+* **Left ventricular outflow tract:** Often narrow and elongated; risk of postoperative obstruction; modified single-patch technique controversial.
+
+### Malformations of Atrioventricular Valves
+* **Straddling and overriding:** Tension apparatus or valvar orifice crosses ventricular septum; anomalous conduction axis follows malaligned septum.
+* **Ebstein’s malformation:** Rotational displacement of septal and mural tricuspid leaflet hinge points away from AV junction; atrialised right ventricular inlet.
+* **Other lesions:** Dilation of AV junction, leaflet dysplasia, prolapse (elongated cords), true cleft of mitral aortic leaflet, parachute deformity (often in Shone’s syndrome).
+
+### Malformations of Arterial Valves and Outflow Tracts
+* **Aortic stenosis:** Unicuspid (unicommissural), bicuspid (equal or unequal with raphe), tricuspid (calcific in elderly); subvalvar (fibrous shelf, fibromuscular tunnel, dynamic) or supravalvar (sinutubular junction tethering).
+* **Aortic regurgitation:** Congenital, post-endocarditis (root abscess with fistula risk), or associated with VSD and leaflet prolapse.
+* **Pulmonary stenosis:** Dome-shaped fused commissures (valvar) or waist-like narrowing (supravalvar); excellent surgical relief with later regression of secondary infundibular hypertrophy.
+* **Pulmonary atresia with intact ventricular septum:** Spectrum of right ventricular hypoplasia; usually duct-dependent.
+
+### Tetralogy of Fallot
+* **Hallmark anatomy:** Anterocephalad malalignment of outlet septum plus septoparietal trabecular hypertrophy causing subpulmonary obstruction; overriding aorta with perimembranous or muscular VSD.
+* **Surgical priorities:** Secure VSD closure (tunnelling aorta to left ventricle) and complete relief of RVOT obstruction (resection of outlet septum and septoparietal trabeculations).
+* **Pulmonary atresia variant:** Pulmonary supply via arterial duct or major aortopulmonary collateral arteries; success determined by adequacy of confluent intrapericardial pulmonary arteries.
+* **Absent pulmonary valve syndrome:** Rudimentary leaflets with massive pulmonary arterial dilation causing tracheobronchial compression.
+
+</div></details>
+
+<details class="med-details"><summary>
   
 ## SEPTAL DEFECTS</summary><div class="details-content">
 
