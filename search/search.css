@@ -1,104 +1,344 @@
-/* search/search.css - Search-specific styles */
+/* search/search.css - Enhanced Search Styles */
+
+/* ==================== SEARCH BOX ==================== */
 
 .search-container {
     display: flex;
     gap: 10px;
     width: 100%;
+    margin-bottom: 1.5rem;
 }
 
 #searchInput {
     flex-grow: 1;
-    padding: 0.8rem 1rem;
+    padding: 0.9rem 1.2rem;
     font-size: 1.1rem;
     border: 2px solid var(--border-color);
     border-radius: 8px;
     outline: none;
-    transition: border-color 0.3s;
+    transition: border-color 0.3s, box-shadow 0.3s;
 }
 
 #searchInput:focus {
     border-color: var(--secondary-color);
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
 }
 
-#searchButton {
-    white-space: nowrap;
+/* ==================== FILTERS ==================== */
+
+.filters-section {
+    background: #f8f9fa;
+    padding: 1.2rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--border-color);
+}
+
+.filters-header {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
-    padding: 0 1.5rem;
-    font-weight: 600;
+    margin-bottom: 1rem;
 }
 
-#resultsContainer {
-    margin-top: 2rem;
+.filters-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: var(--primary-color);
 }
+
+.filters-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.filter-group label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.filter-group select {
+    padding: 0.6rem 0.8rem;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-size: 0.95rem;
+    background: white;
+    cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+.filter-group select:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+/* ==================== RESULTS INFO ==================== */
+
+.results-info {
+    padding: 0.8rem 0;
+    color: #666;
+    font-size: 0.95rem;
+    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 1.5rem;
+}
+
+/* ==================== RESULT ITEMS ==================== */
 
 .result-item {
     background: white;
     border: 1px solid var(--border-color);
-    padding: 20px;
-    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    margin-bottom: 1.2rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
     cursor: pointer;
 }
 
 .result-item:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     border-color: var(--secondary-color);
 }
 
-.result-title {
-    margin-top: 0;
-    margin-bottom: 10px;
-    color: var(--primary-color);
-    font-size: 1.25rem;
+.result-header {
+    margin-bottom: 1rem;
 }
 
-.result-title small {
-    font-size: 0.8rem;
-    color: #999;
-    font-weight: normal;
-    margin-left: 10px;
+.result-title {
+    margin: 0 0 0.5rem 0;
+    color: var(--primary-color);
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.result-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    font-size: 0.85rem;
+}
+
+.result-book,
+.result-category,
+.result-edition,
+.result-score {
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    background: #f0f0f0;
+    color: #555;
+}
+
+.result-score {
+    background: #fff3cd;
+    color: #856404;
+    font-weight: 600;
+}
+
+.result-edition {
+    text-transform: capitalize;
+}
+
+.result-snippets {
+    margin: 1rem 0;
 }
 
 .snippet {
-    font-style: normal;
-    color: #555;
-    line-height: 1.6;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    color: #444;
+    line-height: 1.7;
+    margin-bottom: 0.8rem;
+    padding: 0.8rem;
+    background: #fafafa;
+    border-left: 3px solid var(--secondary-color);
+    border-radius: 4px;
+    font-size: 0.95rem;
 }
 
 .snippet mark {
     background-color: var(--highlight-yellow);
-    padding: 0 2px;
+    padding: 0 3px;
     border-radius: 2px;
-    font-weight: bold;
+    font-weight: 600;
     color: #000;
 }
 
-/* Modal Enhancements */
+.loading-snippet {
+    color: #999;
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+.result-footer {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+}
+
+/* ==================== BUTTONS ==================== */
+
+.button {
+    padding: 0.7rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.button-primary {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.button-primary:hover {
+    background-color: #2980b9;
+    transform: translateY(-1px);
+}
+
+.button-secondary {
+    background-color: #ecf0f1;
+    color: #333;
+    border: 1px solid #bdc3c7;
+}
+
+.button-secondary:hover {
+    background-color: #d5dbdb;
+    border-color: #95a5a6;
+}
+
+.button-small {
+    padding: 0.4rem 1rem;
+    font-size: 0.85rem;
+}
+
+.button:active {
+    transform: scale(0.98);
+}
+
+/* ==================== PAGINATION ==================== */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--border-color);
+    flex-wrap: wrap;
+}
+
+.pagination .button {
+    min-width: 40px;
+    padding: 0.6rem 1rem;
+}
+
+.pagination .ellipsis {
+    padding: 0.6rem;
+    color: #999;
+}
+
+/* ==================== STATES ==================== */
+
+.loading {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+.info {
+    text-align: center;
+    padding: 3rem;
+    color: #888;
+    font-size: 1.1rem;
+}
+
+.no-results {
+    text-align: center;
+    padding: 3rem;
+    color: #e74c3c;
+    font-size: 1.1rem;
+}
+
+.no-results strong {
+    display: block;
+    font-size: 1.3rem;
+    margin-bottom: 0.5rem;
+}
+
+.error {
+    text-align: center;
+    padding: 2rem;
+    color: #e74c3c;
+    background: #fee;
+    border: 1px solid #fcc;
+    border-radius: 8px;
+}
+
+.error code {
+    background: #f5f5f5;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+}
+
+/* ==================== SPINNER ==================== */
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(0,0,0,0.1);
+    border-top: 4px solid var(--secondary-color);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-bottom: 1rem;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* ==================== MODAL ==================== */
+
 .modal {
-    display: none; 
-    position: fixed; 
-    z-index: 2000; /* Higher than header if needed */
+    display: none;
+    position: fixed;
+    z-index: 2000;
     left: 0;
     top: 0;
-    width: 100%; 
-    height: 100%; 
-    overflow: hidden; /* Scroll inside modal body instead */
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
     background-color: rgba(0,0,0,0.7);
     backdrop-filter: blur(4px);
 }
 
 .modal-content {
     background-color: #fff;
-    margin: 2% auto; 
+    margin: 2% auto;
     border: none;
     width: 90%;
     max-width: 1000px;
@@ -136,6 +376,7 @@
     line-height: 1;
     cursor: pointer;
     transition: color 0.2s;
+    flex-shrink: 0;
 }
 
 .close-button:hover {
@@ -151,7 +392,8 @@
 
 .modal-body mark {
     background-color: var(--highlight-yellow);
-    padding: 0 2px;
+    padding: 0 3px;
+    border-radius: 2px;
 }
 
 .modal-footer {
@@ -162,50 +404,7 @@
     border-radius: 0 0 12px 12px;
 }
 
-.button {
-    background-color: var(--secondary-color);
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 6px;
-    text-decoration: none;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: background-color 0.2s, transform 0.1s;
-}
-
-.button:hover {
-    background-color: #2980b9;
-}
-
-.button:active {
-    transform: scale(0.98);
-}
-
-/* Loading Spinner */
-#loadingIndicator {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 3rem;
-    color: #666;
-}
-
-.spinner {
-    width: 40px;
-    height: 40px;
-    border: 4px solid rgba(0,0,0,0.1);
-    border-top: 4px solid var(--secondary-color);
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
-    margin-bottom: 1rem;
-}
-
-@keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-}
+/* ==================== RESPONSIVE ==================== */
 
 @media (max-width: 768px) {
     .modal-content {
@@ -213,20 +412,38 @@
         margin: 5% auto;
         height: 85vh;
     }
-    
+
     .modal-body {
         padding: 1rem;
     }
-    
+
     .modal-header {
         padding: 1rem;
     }
-    
+
     .search-container {
         flex-direction: column;
     }
-    
+
     #searchButton {
         padding: 0.8rem;
+    }
+
+    .filters-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .result-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .pagination {
+        gap: 0.3rem;
+    }
+
+    .pagination .button {
+        padding: 0.5rem 0.8rem;
+        font-size: 0.9rem;
     }
 }

@@ -19,22 +19,54 @@
 
     <main>
         <section class="category-section">
-            <h2 class="category-title">Global Search</h2>
-            
+            <h2 class="category-title">🔍 Global Search</h2>
+
             <div class="search-box">
                 <div class="search-container">
                     <input type="text" id="searchInput" placeholder="Enter your search query (e.g. anatomy, heart, аорта)..." autofocus>
-                    <button id="searchButton" class="button">Search</button>
+                    <button id="searchButton" class="button button-primary">Search</button>
+                </div>
+            </div>
+
+            <div id="filtersSection" class="filters-section" style="display: none;">
+                <div class="filters-header">
+                    <h3>Filters</h3>
+                    <button id="clearFilters" class="button button-secondary button-small">Clear All</button>
+                </div>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label for="filterBook">📚 Book</label>
+                        <select id="filterBook">
+                            <option value="">All Books</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterLanguage">🌐 Language</label>
+                        <select id="filterLanguage">
+                            <option value="">All Languages</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filterCategory">📁 Category</label>
+                        <select id="filterCategory">
+                            <option value="">All Categories</option>
+                        </select>
+                    </div>
                 </div>
             </div>
 
             <div id="loadingIndicator" class="loading" style="display: none;">
-                Loading search index...
+                <div class="spinner"></div>
+                <span>Loading search index...</span>
             </div>
 
+            <div id="resultsInfo" class="results-info"></div>
+
             <div id="resultsContainer">
-                <div class="loading">Please enter a search term above.</div>
+                <div class="info">Enter a search query above to begin searching.</div>
             </div>
+
+            <div id="paginationContainer"></div>
         </section>
     </main>
 
@@ -59,7 +91,6 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-    <script src="https://unpkg.com/lunr/lunr.min.js"></script>
     <script src="search.js"></script>
 </body>
 </html>
