@@ -515,4 +515,888 @@ This paradigm shift will hopefully be accelerated by professional organizations,
 
 #### **References**
 
-Complete references in this chapter can be accessed in the online version.
+Complete references in this chapter can be accessed in the online version.# Congenital Heart Surgery in Low-Resource Settings
+
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Epidemiology and Global Burden
+* **Global Birth Prevalence:** Congenital heart defects (CHD) affect approximately 1 per 100 live births, resulting in roughly 1.3 million new cases annually.
+* **Geographic Disparity:** Approximately 90% of children born with CHD are in low- and middle-income countries (LMICs), where treatment is suboptimal or unavailable.
+* **Excess Mortality:** Between 2006 and 2016, global CHD mortality decreased by 21%, yet 91% of deaths (171,762) were considered preventable. 96.4% of excess CHD mortality occurred in LMICs.
+* **Africa's Future Burden:** Africa's child population is projected to reach 1 billion by 2055, with 42% of global births by 2050. This will make Africa the epicenter of CHD without massive healthcare investment.
+* **Under-5 Mortality (U5MR):** CHD contributes ~50% of deaths from congenital birth defects, which account for 9.4% of global under-5 deaths. Timely CHD treatment could potentially reduce global under-5 deaths by ~4.7%.
+
+### Definition and Scope of Low-Resource Settings
+* **Definition:** An institution or country where the capability to provide comprehensive treatment for the whole spectrum of CHDs is restricted in volume, scope, and/or accessibility.
+* **Nine Major Themes:** Suboptimal service delivery, financial constraints, underdeveloped infrastructure, human resource limitations, inadequate knowledge, inadequate research, restricted social resources, geographical challenges, and unhelpful beliefs/practices.
+* **GNI as a Proxy:** Gross National Income (GNI) per capita correlates with health outcomes, but income inequality (Gini index) reveals disparate access. South Africa (Gini 0.68) has twice the inequality of India (Gini 0.35), despite similar cardiac surgery volumes.
+* **Beyond National Income:** Resource limitations can be institution-specific. Some centers in high-income countries (e.g., Argentina) have constraints similar to LMICs.
+
+### Optimal Resources for Congenital Heart Surgery (EACTS Guidelines)
+* **Leadership:** Headed by a fully trained cardiac surgeon with interdisciplinary team (surgeons, anesthesiologists, intensivists, cardiologists, perfusionists, nurses).
+* **Case Volume:** >250 operations per year, covering full spectrum from neonate to adult, serving a catchment area of 4–6 million inhabitants.
+* **Manpower:** At least two fully qualified surgeons (≥125 procedures/year each), specialized anesthetists and perfusionists, dedicated pediatric ICU nurses (1:1 ratio for complex patients).
+* **Infrastructure:** Two fully equipped ORs (1 per 250 major cases), dedicated PICU (6–8 beds per 250 cases), step-down unit (2–4 intermediate beds), pediatric ward (10–12 beds per 250 cases), rooming-in facilities.
+* **Public Health Justification:** CHD treatment impacts UN SDG 3.2 targets (neonatal mortality <12/1000, U5MR <25/1000 by 2030).
+
+### Current Resource Capacity by Region
+* **Global Center Distribution:** North America: 1 center per 120,000 people. Europe/Australia: 1 per 1 million. Asia: 1 per 16 million. Africa: 1 per 33 million (excluding South Africa: 1 per 33.3 million, unchanged since 1999).
+* **Sub-Saharan Africa:** 24 of 28 low-income countries. Only 3% of children with CHD receive needed surgery. 1.6 open heart operations per million population (vs. need for ~100 per million).
+* **North Africa:** Egypt leads with 48 centers performing ~16,000 cases/year, supported by government health insurance and recent USD 5.51 billion health sector investment.
+* **Asia (South Asia):** India performs 150,000–200,000 cardiac operations/year, yet only 2% of Indian children with CHD get treated. Cost: <USD 2000 per case, but 35% self-funded, 40% government scheme.
+* **Asia (Southeast Asia):** Indonesia: 40,500 CHD births/year, only 706 operations in 2005. ASO mortality for TGA ~50%. Cambodia: 55.6% lost to follow-up at 30 days.
+* **Latin America:** South America has 195 surgeons performing ~17,000 operations/year (42 operations/million). An estimated 58% (24,000) of children needing CHD surgery do not receive it.
+* **Mexico:** Upper-middle-income but <33% access. RACHS 6 mortality 44% vs. 2.9% in select centers. Fragmented system with "nomad" surgical groups.
+* **Costa Rica (Model Program):** Unified health system, universal coverage. Infant CHD mortality decreased 41% (2000–2019). 2019 U5MR 7.9/1000 (below UN target). Mandatory pulse oximetry screening since 2016.
+
+### Access and Expedient Solutions
+* **Outbound Medical Travel (Medical Tourism):** Africans spent ~USD 6 billion in 2016. Nigerians alone: USD 1 billion. Sub-Saharan Africans are largest contributors to Indian OMT market.
+* **Humanitarian Cardiac Surgery:** 86 NGOs operate in 96 low-resource settings, median 100 operations/year (range 4–837), operating for median 21 years.
+* **Cost-Effectiveness:** USD 171 per DALY averted. Each patient gains 39.9 life-years, 3.5 schooling years, USD 159,533 GNI per capita. Highly cost-effective (comparable to circumcision: USD 13/DALY, hydrocephalus: USD 109/DALY).
+* **Program Types:** Short-term ("surgical safaris"): 1–2 weeks/year, low sustainability. Long-term: skills transfer, local team development, ultimate independence.
+* **Training:** WSPCHS Global Council for Education. World University for Pediatric and Congenital Heart Surgery (WUPCHS): 50 webinars, 40,000 registrations.
+
+### Delays and Late Presentation
+* **Delayed Diagnosis Prevalence:** Switzerland ~10% vs. Ethiopia ~95%, Pakistan ~85%, Indonesia ~61%.
+* **Consequences:** Advanced disease with end-organ damage. 69% of CHD deaths (180,624) in 2017 occurred in infancy. YLDs from CHD >589,000 (on par with peptic ulcer disease).
+* **Late Presenting VSD/Shunts:** Pulmonary hypertension common. VSD closure worthwhile even with moderately elevated PVR. ASD closure with PVRi 4–8 Wood units·m² has acceptable mortality if tricuspid gradient <64 mmHg.
+* **Late Presenting TOF:** Complete repair is goal unless branch pulmonary artery hypoplasia exists.
+* **Late Presenting TGA:** 80% single-stage ASO, 20% atrial switch or 2-stage. Age >30 days in 50% of cases. Late primary ASO preferred up to 3 months; atrial switch beyond 3 months.
+* **Single Ventricle:** Glenn after 4 years (vs. 3–6 months in HICs). Operative mortality: BT shunt 45.2%, Glenn 16.7%, Fontan 20% (Angola data). Loss to follow-up 33.7%.
+
+### Ethics in Low-Resource Settings
+* **Principlism (Beneficence):** Providing lifesaving surgery is good. Nonmaleficence: Resources consumed may come at expense of other children (e.g., malnutrition, diarrhea).
+* **Consequentialism (Cost/Benefit):** CHD surgery is highly cost-effective, on par with BCG vaccination and HIV prevention. ASD repair in Brazil yields highest societal economic benefit (USD 313,866).
+* **Public Health Ethics (Utilitarian):** "Best outcomes" vs. "fair chances" dilemma. Palliating single ventricle vs. treating malnutrition in same setting saves more lives but denies expensive-to-treat patients.
+* **Humanitarian Mission Ethics – Patient Selection:** Sickest first? Youngest first? First-come, first-served? Maximize total life-years? No perfect solution.
+* **Humanitarian Mission Ethics – Disclosure:** Who bears responsibility for error disclosure? Visiting "expert" vs. local team. Full disclosure may destroy nascent program confidence.
+* **Humanitarian Mission Ethics – Follow-Up:** Short-term teams leave local teams incapable of independent follow-up, causing harm (violation of nonmaleficence).
+* **"Surgical Safari" Problem:** Failure to develop local capacity violates beneficence (skills transfer). Exit plans required before partnership.
+* **Research Ethics ("Safari Research"):** Data from developing countries published without local authors. Inadequate follow-up prevents quality improvement.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Introduction</summary><div class="details-content">
+
+##### The unifying characteristics of congenital heart surgery in lowresource settings are restricted access to appropriate care that is often unavailable or unaffordable to the majority, a tendency toward late presentation, delayed treatment, and suboptimal care.
+
+##### Current guidelines do not specifically cover these challenges confronting our specialty in low-resource settings. As caregivers, we uphold the Vision expressed by the World Society for Pediatric and Congenital Heart Surgery (wspchs.org) that "every child born anywhere in the world with a congenital heart defect (CHD) should have access to appropriate medical and surgical care." And yet the dimensions of access are not in the monopoly of surgeons and cardiologists. Access encompasses four dimensions: service availability, affordability, reasonable distance to care, and cultural acceptability.
+
+##### In the current era, a child born in the United States (population 340 million in 2023) with a CHD has access to more than 120 pediatric cardiac surgery programs performing over 40,000 surgical and catheter-based interventions annually. Another child born in Sweden (population 10 million in 2022) would have had access to two complete university-affiliated congenital heart care units where all congenital heart surgery is performed through a publicly financed healthcare system, with a greater than 97% chance of surviving into adulthood. The situation in most of sub-Saharan Africa is very different. For example, an infant with paroxysms of shortness of breath and a heart murmur might wait three months for an echocardiogram. Such delays for a patient with tetralogy of Fallot are known to increase the likelihood of progressive cyanosis, polycythemia, cardioembolic strokes, and cerebral infarctions (Fig. 55.1). Such devastating adverse events before repair may have permanent, debilitating consequences.
+
+##### The healthcare system generally relies on out-of-pocket spending to cover the costs of heart surgery–USD 8000 for tetralogy repair. Only 20% of parents in similar circumstances can finance the operation within 12 months of diagnosis. The alternative is a systemic-pulmonary artery shunt at a cost of USD 2000 and buy time to raise funds for the complete repair in 2 years. Philanthropic support is a requirement for most corrective cardiac operations.
+
+![](_page_1_Figure_12.jpeg)
+
+**Figure 55.1** Child with tetralogy of Fallot after a cardioembolic stroke showing right cerebral infarction suffered 40 months earlier.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Financial Resources for Congenital Heart Surgery</summary><div class="details-content">
+
+##### The capital requirements for congenital heart surgery centers in terms of infrastructure, equipment, and consumables are enormous and represent major impediments in developing countries. In addition, congenital heart surgery requires highly skilled manpower trained over many years with considerable financial input. CHDs are among the leading causes of pediatric hospitalization, expenditure, and mortality. The spectrum of defects is broad, and case complexity profoundly affects resource utilization and treatment costs. In the United States, analysis of the Society of Thoracic Surgeons and Pediatric Health Information Systems Databases (2006–2010) indicate that median cost per case increases with operation complexity from atrial septal defect repair (USD 25,499) to the Norwood operation (USD 165,168). In another study, each hospitalization of a patient with CHD, on average, resulted in more than 10 times the charge of a patient without CHD. For CHD admissions, adjusted median charges were greater than non-CHD admissions (USD 48,426 vs. USD 4697). Although the operative costs of openheart surgery are quite high in the United States, costs are USD 6000–USD 11,000 in Nigeria, less than USD 10,000 in Brazil, USD 2000–USD 5000 in Vietnam, and less than USD 2000 in India. Costs are particularly high for operating room and intensive care overhead and consumables in low and middle income countries (LMICs). Such intensive resource requirements make it extremely difficult for LMICs with many competing economic issues to prioritize congenital heart surgery.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Low-Resource Settings</summary><div class="details-content">
+
+##### The term "low-resource settings" appears in roughly 5000 healthcare titles. Generally, the term describes countries or healthcare institutions where treatment capabilities are restricted in volume, scope, or accessibility.
+
+##### Umbrella terms such as "low- and middle-income countries," "developing countries," and "emerging economies" are used interchangeably with varying themes. In a systematic review of the literature, nine major themes relating to the term "low-resource setting" emerged: suboptimal healthcare service delivery, financial constraints, underdeveloped infrastructure, human resource limitations, inadequate knowledge, inadequate research, restricted social resources, geographical and environmental challenges, and unhelpful beliefs and practices. These themes may be applied to congenital heart surgery as shown in Table 55.1.
+
+##### These themes evolved from vaguely described assumptions reported in the literature in the early 1990s. The first to use the term "low-resource setting" in a manuscript's title was Renee Holt in 1992 in discussing the appropriateness of using prostaglandin for pregnancy termination in some developing countries–Cuba, India, China, Singapore, and Zambia. What constituted a low-resource setting was not explicitly defined, but the implied meaning was a developing country with healthcare financing challenges, skilled workforce shortages, healthcare safety lapses, and inadequate regulation of healthcare service provision. Subsequently, several proxy terms (such as resource-limited setting; resource-poor setting; resource-constrained setting; underfunded health system; and others) appeared in the literature. In pediatric and congenital heart surgery, the use of "low-resource setting" and its proxies occurred relatively late, the first being probably that of Reddy and coworkers in 2015.
+
+<details class="med-details"><summary>
+
+#### TABLE 55.1: Themes Covering Low-Resource Settings in Congenital Heart Surgery</summary><div class="details-content">
+
+| Theme | Descriptors |
+|-------|-------------|
+| 1. Suboptimal Service Delivery | Higher than expected mortality and complications after congenital heart surgery; long waiting lists; surgical procedures restricted in volume and scope. |
+| 2. Financial Constraints | Low national income per capita; unaffordable cost of congenital heart care; insufficient health expenditure per capita; dependence on out-of-pocket health financing; no prepaid financing; poor government support. |
+| 3. Underdeveloped Infrastructure | High population to cardiac center ratios; poorly-equipped cardiac surgery centers; supply chain issues; electric power, water, and oxygen supply deficiencies. |
+| 4. Human Resource Limitations | Shortage of skilled cardiac team personnel and supporting staff; very low surgeon to population ratios; low government capacity for healthcare management and regulation; brain drain of trained personnel to higher income countries. |
+| 5. Inadequate Knowledge | Suboptimal training and certification; information technology deficits; low health literacy; limited publications on context-specific information for patients. |
+| 6. Inadequate Research | Low research priority and funding; low research capacity; underdeveloped or absent context-specific guidelines; dependence on early outcomes research and single center experiences; low international collaborations. |
+| 7. Restricted Social Resources | Rooming-in facilities not often provided at care centers; high cost of accommodation facilities for parents near care centers; weak social welfare systems; political instability; war-ravaged environments. |
+| 8. Geographical Challenges | Transportation difficulties (poor roads and lack of suitable transport); hazardous travel terrain; long distances to care centers; rurality; remoteness from follow-up sites. |
+| 9. Unhelpful Beliefs & Practices | Poor healthcare seeking behaviors; blaming mothers for birth outcomes; disease-related stigma; consideration of surgery and anesthesia as taboo. |
+
+</div></details>
+
+##### Because financial constraint is the fundamental issue in resource limitation, authors have often described a country's healthcare resource capacity using measures of national income. Gross national income (GNI) per capita, as reported by the World Bank is a standardized proxy measure for healthcare resource capacity and health outcomes. The GNI profoundly affects health outcomes but does not account for income distribution within countries. For example, a 1% rise in national income is associated with a 1.17% reduction in infant mortality and an overall increase in life expectancy of about 22 days, but when income inequality within a country diminishes, the same 1% increase in national income is associated with a 1.51% fall in child mortality and an increased average life expectancy of 51 days. Income inequality within countries is usually expressed by the Gini index, a summary statistic of income dispersion across the entire national distribution. The Gini index ranges from 0, indicating perfect equality (where everyone receives an equal share of national income), to 1 (100%), complete inequality (where only one group of individuals receives all the income). The Gini index compared between countries may suggest very different levels of access across socioeconomic classes even though gross cardiac surgery access may be comparable. For example, South Africa (Gini index 0.68) and India (Gini index 0.35) share similar levels of cardiac surgery (159 vs. 154 operations/million). Still, the Gini index suggests almost twice as much inequality in South Africa compared to India. The largest service discrepancies within countries occur between the public and private sectors. In South Africa, only 17% of the population has access to private medical care, but this group receives 12 times the number of operations per million population than the 83% who depend on the public sector. In terms of staffing supply, it translates to 7.1 cardiac surgeons providing surgery to a million private patients compared to 0.7 cardiac surgeons per million patients in the public sector.
+
+##### National income is only moderately correlated with investment in healthcare resources, and this is shown by better-than-expected health outcomes in several countries with low GNI per capita. Resource limitations may be country-specific, institution-specific, or both. Individual healthcare institutions may be severely resource-constrained despite operating in high-income or otherwise resource-adequate countries, with the converse also true. For example, in a 2019 study, some congenital heart centers in Argentina (typically rated as high-income) had resource limitations similar to centers in LMICs. It is overly simplistic to define a low-resource setting based solely on national income or other proxies of economic development; financial considerations alone are not sufficiently nuanced to explain the many lapses in service delivery characteristic of low-resource settings. Additionally, simply addressing a single "resource" constraint is unlikely to result in the delivery of comprehensive world-class care. The interconnected nature of institutional and national factors that underlie outcomes of congenital heart interventions are reflected in the themes emerging from the scoping review of low-resource settings.
+
+##### Thus, *a low-resource setting for CHD* can be defined as an institution or country where the capability to provide comprehensive treatment for the whole spectrum of CHDs is restricted in volume, scope, and/or accessibility.
+
+##### What then constitutes optimal resources for congenital heart surgery regarding volume, scope, and accessibility? How do the best-performing centers in the world appropriate resources to obtain optimal results in survival and long-term quality of life?
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Optimal Resources for Congenital Heart Surgery</summary><div class="details-content">
+
+##### At the national level, recommendations from NHS England suggest that health system resource provision for congenital heart care should adopt a holistic view involving the whole patient pathway to include adequate staffing and skills; facilities; interdependencies; training and education; organization, governance, and audit; research; communication with patients; transition of patients across the age brackets; pregnancy and contraception; fetal diagnosis; palliative care and bereavement, and dental care. Attention to these domains is important in national healthcare planning for CHD treatment.
+
+##### At the institutional level, professional associations have led in developing guidelines for excellence in congenital heart surgery. The Congenital Heart Disease Committee of the European Association for Cardiothoracic Surgery (EACTS) proposed that the optimal congenital heart surgery unit or department should be within a university setting or within a center of a comparable scientific level possessing the capabilities of neonatal cardiac surgery, complex repairs in addition to the more usual standard repairs, cardiac assist devices, and transplantation.
+
+<details class="med-details"><summary>
+
+### Leadership and Approach</summary><div class="details-content">
+
+##### The EACTS recommended such a center be headed by a fully trained cardiac surgeon with appropriate national certification and experience in the full spectrum of congenital heart repairs. The defining feature is the necessity of an interdisciplinary approach requiring the participation of several disciplines and professionals—surgeons, cardiac anesthesiologists, intensive care specialists, pediatricians, pediatric and interventional cardiologists, imaging experts, neonatologists, perfusionists, scrub nurses, ICU and ward nurses, and administrators.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Case Volume and Catchment Area</summary><div class="details-content">
+
+##### The procedures should exceed 250 operations per year, covering the full spectrum of congenital cardiac pathology for a catchment area of 4 to 6 million inhabitants, from the neonate to the adult. Research facilities for advanced educational needs and specialty development are recommended. An advanced quality assurance system and public reporting of results are essential.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Manpower</summary><div class="details-content">
+
+##### Staffing requirements include at least two fully qualified surgeons, each performing a minimum of 125 procedures annually, a specialized team of anesthetists devoted to congenital heart surgery, a specialized team of perfusionists, and an entire supporting paramedical staff including dedicated physiotherapists and a psychologist consultant to cater for the needs of patients and parents. Pediatric nurses trained to run the wards, operating rooms, and intensive care units are a special requirement.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Infrastructure</summary><div class="details-content">
+
+##### At least two fully equipped operating rooms should be available based on one operating room per 250 major cardiac procedures per year. A dedicated pediatric intensive care unit is staffed variably by pediatric cardiologists, neonatologists, pediatric intensivists, and pediatric anesthetists working closely with the congenital heart surgeons. Depending on the complexity, the average number of beds required is 6 to 8 per 250 cardiac patients per year. The nurse/patient ratio in this ICU should be 1:1 full-time equivalent for complex patients and 0.5:1 for uncomplicated patients.
+
+##### In addition, a step-down unit of 2 to 4 intermediate beds equipped with monitoring and telemetry is necessary. There should be a dedicated pediatric/neonatal ward. Optimally, there should be 10 to 12 beds per 250 patients per year with at least one wound treatment room.
+
+##### Rooming-in facilities allowing the permanent presence of the mother or another family member should be available.
+
+##### Rehabilitation facilities for children should be available. Outpatient facilities should be available for echocardiography, electrocardiography, and radiology.
+
+##### On-site support facilities should include a department of general pediatrics, a department of pediatric cardiology with all diagnostic and therapeutic facilities, and a unit of cardiac pathology.
+
+##### Centers should also have access to neonatology, adult cardiology, electrophysiology, an adult cardiologist specialized in congenital heart disease, staff with special experience in extracorporeal membrane oxygenation (ECMO) and mechanical assist devices, and specialized laboratories relevant to subspecialty work such as transplant immunology, virology, and others.
+
+##### The justification for investment in CHD treatment is the longterm survival and quality of life afforded to affected children. The public health significance of the interventions is the impact on child mortality, specifically neonatal, infant, and under-5 mortality rates (U5MR).
+
+##### From a public health and policy perspective, child health interventions, particularly in LMICs, are judged based on their impact on the United Nations (UN) sustainable development goals (SDG) 3.2—to reduce neonatal mortality to less than 12 per 1000 live births and U5MR to below 25 per 1000 live births by 2030. For CHD treatment to have any meaningful impact on the SDG 3.2, resources devoted to CHD care must be commensurate with the disease burden in the country.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Burden of Congenital Heart Defects in Low-Resource Settings</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Birth Prevalence and Future Projections</summary><div class="details-content">
+
+##### CHD affects approximately 1 newborn per 100 live births, with a relatively stable incidence worldwide, amounting to roughly 1,300,000 new cases annually. Roughly 90% of births affected by CHD occur in LMICs where treatment is either suboptimal or unavailable, resulting in about 66% of preventable deaths from congenital malformations in these countries.
+
+##### Regarding disease burden, Africa represents a special case with important future implications. Africa's child population is estimated to reach 1 billion by 2055, making it the largest child population among all continents. Since 2017, sub-Saharan Africa has been the region with the highest number of births; this trend is forecasted to persist for the rest of the century. The population of sub-Saharan Africa has grown consistently between 2.6% and 2.8% per annum in the last 20 years compared to the current global rate of 1.18% per year. Hans Rosling drew attention to Africa's dramatic rise in population when he labeled it "the biggest change of our time." On current trends, Africa is projected to have 730 million births between 2015 and 2030 and approximately 1.8 billion births between 2015 and 2050, by which time Africa will account for 42% of all global births. The implications of the persistently high fertility rate for the burden of CHD in Africa will be enormous in the coming decades because children account for nearly half (47%) of Africa's population.
+
+##### South Asia ranks second on the population growth charts, but even here, there has been a decline (from 2% to 1.5% per annum) in the last 20 years. Rapid population growth poses a major problem for access to CHD treatment as the number of new cases per year exceeds the facilities available to provide care.
+
+##### The concern is that for sub-Saharan Africa, where healthcare investment has been essentially stagnant in the last 20 years, infrastructure and service delivery must now grow more than 2.8% per annum to make gains in improving access to congenital heart surgery. Based on UN population projections, Africa will become the epicenter of CHDs by 2050 simply because of the percentage of global births expected in Africa. Substantial and strategic healthcare investments are needed to meet the UN's SDG 3.2 target of reducing the U5MR to less than 25 per 1000 live births. The changing demographics in Africa will require an additional 4.2 million health workers above current growth to meet World Health Organization (WHO) minimum standards by 2030.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Excess Mortality Attributable to CHD</summary><div class="details-content">
+
+##### The distribution of pediatric cardiac surgeons is heavily skewed in favor of high-income economies. The global average is a density of 1.99 pediatric cardiac surgeons per million children under 15 years of age but varies from 11.1 in North America to 0.19 in sub-Saharan Africa. Between 2006 and 2016, the estimated global mortality from CHD in the pediatric population decreased by 21% (from 239,399 to 188,426), yet 91% (171,762) of the deaths in 2016 were considered preventable. Roughly 76% (130,767) of preventable deaths occurred in infancy, half of which occurred in the neonatal period alone. This indicates that public health efforts to reduce U5MR attributable to CHD are best targeted at neonates and infants. The average daily mortality rate during the neonatal period is nearly 30-fold higher than during the postneonatal period.
+
+##### While 96.4% (165,609) of the 2016 excess mortality occurred in LMICs, 10 countries—India, China, Nigeria, Indonesia, Pakistan, Sudan, the Philippines, Afghanistan, Brazil, and Mexico made up the largest burden (roughly 59% or 100,557) of excess CHD mortality in 2016. Mortality for CHD remains unacceptably high in low-resource settings, principally because the disease burden far outstrips resources made available for its treatment.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Current State of Resource Capacity in Low-Resource Settings</summary><div class="details-content">
+
+##### Among the 193 member states of the UN, 54 are in Africa, 48 in Asia, 44 in Europe, 33 in Latin America and the Caribbean, 14 in Oceania, and 2 in Northern America.
+
+##### The World Bank has used GNI per capita calculated using the Atlas method to define income groupings of these countries into four categories shown in Table 55.2. The availability, access, and financing of pediatric cardiac surgery vary substantially across countries. Two extremes are conceivable—countries where congenital heart surgery is available and financially accessible to most children born with CHD and countries where the service is neither available nor accessible to most children in need. Between these two extremes, financing modalities and infrastructural development combine to create a spectrum of access to congenital heart surgery within the country's healthcare system. Congenital heart surgery centers are abundant in North America, Europe, and the industrialized portion of the Pacific Rim. Gross deficiencies exist in much of Africa, Asia, and some Latin American countries.
+
+##### No comprehensive record of hospitals offering congenital heart surgery in LMICs is available. Some information may be gleaned from published reports, reports of nongovernmental organizations (NGOs) collaborating with centers in low-resource settings, the records of the Cardiothoracic Surgery Network (CTSNet), and the International Quality Improvement Collaborative (IQIC) for Congenital Heart Disease, which provides benchmarking data for congenital heart surgery in the developing world.
+
+<details class="med-details"><summary>
+
+#### TABLE 55.2: GNI, Health Expenditure, and Under-5 Mortality</summary><div class="details-content">
+
+| Income | Countries | GNI/Cap (USD) | THE/Cap (USD) | U5MR |
+|--------|-----------|---------------|---------------|------|
+| Low-income | 28 | ≤1085 | 35 | 66 |
+| Lower middle-income | 54 | 1086–4255 | 97 | 45 |
+| Upper middle-income | 54 | 4256–13,205 | 552 | 11 |
+| High-income | 81 | >13,205 | 5639 | 5 |
+| **Region** | | | | |
+| East Asia & Pacific | 38 | 12,740 | 751 | 14 |
+| Europe & Central Asia | 58 | 26,421 | 2334 | 8 |
+| Latin America & Caribbean | 42 | 8024 | 662 | 16 |
+| Middle East & North Africa | 21 | 7049 | 513 | 21 |
+| North America | 3 | 68,152 | 10,318 | 6 |
+| South Asia | 8 | 2104 | 61 | 39 |
+| Sub-Saharan Africa | 48 | 1578 | 79 | 73 |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### National Income and Health Outcomes</summary><div class="details-content">
+
+##### Although GNI does not completely summarize a country's development level or its citizens' welfare, it is a valuable indicator correlating with nonincome welfare measures such as life expectancy at birth and child mortality. Especially significant is its correlation with U5MR (Table 55.2), the ultimate target of child health interventions, and, specifically, the UN's SDG 3.2. Geographically, the World Bank describes seven regions in four income groupings. For the 2023 fiscal year, the thresholds are as shown in Table 55.2. Countries are reassigned on July 1 each year based on their GNI per capita estimate for the previous calendar year. On the basis of financial resources available for development of congenital heart care, the world's most underserved regions are countries in the low-income and lower-middle-income brackets where total health expenditure (THE) is less than USD 100 per capita per year (Fig. 55.2 and Table 55.2). This contrasts with USD 552 per capita per year in upper-middle-income countries and USD 5639 per year in high-income countries.
+
+##### Admittedly, there are essential differences in healthcare service pricing across the different countries and regions of the world. That notwithstanding, there is only so much one can do with purchasing health care if all that is available is USD 100 or less per person per year.
+
+##### Because resource limitation is more consistent in low- and lower-middle income countries, our narrative focuses on these countries (found in Africa, Asia, and Latin America; Fig. 55.2). There are 82 countries in the low-income and lower middleincome country categories; sub-Saharan Africa has the highest concentration of countries in the low-income category (24 out of 28) where THE averages USD 35 per capita per year. The gross financial constraints in low- and lower-middle-income countries impose severe limitations of human and material resources for healthcare delivery, particularly for congenital heart surgery along the whole patient care pathway.
+
+##### Resource constraints in many pediatric cardiac surgery centers in these countries lead to restricted access to congenital heart surgery or higher standardized mortality ratios (SMR) for congenital heart surgery. Analysis of data from 31 IQIC sites in 17 low-resource settings (Afghanistan, Argentina, Brazil, China, Colombia, Costa Rica, Guatemala, India, Malaysia, Mexico, Pakistan, Peru, Russia, Serbia, Uganda, Ukraine and Vietnam), some in upper-middle-income countries, showed an overall inhospital mortality rate of 5.0% (at least 50% of cases in Risk Adjustment for Congenital Heart Surgery [RACHS] category 1 or 2). Country-level mortality rate ranged from 1.7% to 25.0%, and SMRs ranged from 0.40 to 4.85. There was a general trend toward lower SMR with increased national income and health expenditure per capita. There was a clear demonstration that even for similar levels of national income per capita, substantial variation in SMRs exists. For example, Afghanistan and Pakistan have much higher SMRs (3.0 and 2.6) than India (0.9), although they are at similar income per capita levels. Similarly, China, Serbia, and Peru have similar income per capita levels yet vary widely in SMR: 0.46, 1.6, and 4.85, respectively.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Access to Cardiac Surgery Centers</summary><div class="details-content">
+
+##### Geographical access is fundamentally dependent on availability of facilities and trained personnel. Clear differences exist in the availability of cardiac surgery centers in high income versus lowincome countries. An earlier survey showed significant inequality in distribution of the approximately 4000 cardiac surgical centers in the world. In North America, each center was serving approximately 120,000 people. In Europe and Australia, the corresponding figure was 1 center per 1 million people. In Asia, it was 1 center per 16 million people, while in Africa the figure was 1 center per 33 million people.
+
+##### The Society of Thoracic Surgeons (STS) Congenital Heart Surgery Database includes 95% of congenital heart surgery centers in the United States, with almost 40,000 operations per year. The overall mortality after congenital heart surgery in the United States for children, infants, and neonates is 1%, 2.8%, and 8.8% respectively. Perioperative outcomes after congenital heart surgery in Europe are comparable. One of the major factors responsible for the improvement in mortality from CHD in highincome economies is the creation of highly specialized multidisciplinary units for medical and surgical care of these patients.
+
+##### However, in many LMICs, the situation is quite different, with gross inadequacies in geographic and financial access to surgical repair that limit survival of children born with CHD. The 2017 Global Burden of Disease report showed that CHD mortality in low-income countries declined by only 6% since 1990, compared to a steady decline of over 50% in high-income countries.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Availability of Cardiac Surgery Centers in Low-Resource Settings</summary><div class="details-content">
+
+##### The current status of center availability is of interest, particularly in the lowest-income regions of the world (Fig. 55.2). Countries in Africa, Asia, and a few countries in Latin America are the most constrained regarding resources, and the inadequacies are not uniform in these regions. Countries in the sub-Saharan regions excluding South Africa are most affected in Africa. In Asia, some countries in the Middle East, South Asia, East Asia, and the Pacific are most constrained. Only a few countries in Latin America belong to the lower middle-income category; the majority are far better off even though centers from several of these countries (like Brazil, Argentina, and Mexico) still report their results as coming from low-resource settings. Our narrative will largely focus on low- and lower-middle-income countries because of their pressing need.
+
+![](_page_5_Figure_11.jpeg)
+
+**Figure 55.2** Low-income and lower middle-income economies of 2023 fiscal year.
+
+<details class="med-details"><summary>
+
+#### Africa</summary><div class="details-content">
+
+**Sub-Saharan Africa.** Data from a 2012 survey in Africa (excluding Egypt and Sudan) documented 113 cardiac centers performing regular open-heart surgeries—57 in sub-Saharan Africa (35 in South Africa alone) and 56 in North Africa (Algeria, Morocco, Tunisia, and Libya). In another report, there were 48 centers in Egypt alone. These translate to one center serving a population of 8.5 million in Africa (excluding Egypt and Sudan), an improvement of the situation reported in 1999 of 1/33 million population.
+
+A closer examination, however, shows the improvement occurred only in the northern and southern regions of the continent. If South Africa's 35 centers are excluded from the sub-Saharan Africa total, the situation remains identical to the 1999 figure—one center serving a population of 33.3 million. This is in spite of the fact that some new cardiac centers have been established in the region (Nigeria, Cameroon, Angola, Namibia, and others) after 1995, when the original survey was conducted. The situation is understood if one considers that sub-Saharan Africa is home to 24 of the 28 low-income countries and its capital investment in health care over the period has been insufficient. In April 2001, heads of state of 52 African Union (AU) countries committed to improving health care by pledging to allocate at least 15% of their annual budget to the health sector. The median government health expenditure from domestic sources in AU countries was USD 10 (USD 0.38–USD 380). In 2011, when the WHO assessed progress of 46 AU member states, only one country (Tanzania) had achieved the 15% target. The median per capita government spending on health rose marginally from USD 10 to USD 13.4 (USD 0.47–USD 316). Health expenditure as a percentage of gross domestic product (GDP) in sub-Saharan Africa was 5.41% in 2001 and 4.97% in 2019.
+
+In addition to inadequate healthcare investments, the population of sub-Saharan Africa increased from 583 million in 1995 to over 917 million in 2012, an increase of nearly 54%. Data from the UN's 2015 World Population Prospects suggests that more than half of global population growth between 2015 and 2050 is expected to occur in Africa—of the projected 2.4 billion increase in the global population between 2015 and 2050, 1.3 billion will be in Africa. Such rapid population growth will cancel out any small gains in access to congenital heart surgery that would otherwise occur with the marginal increase in number of cardiac surgery centers in the region.
+
+To put the figures in the context of access to congenital heart surgery, there is one pediatric cardiac surgeon per 3.5 million people in the United States compared to 1 per 38 million in Africa (often doing both pediatric and adult cardiac surgery, including rheumatic valves and coronary surgeries). If a constant birth prevalence of CHD is assumed, then the need for surgery is calculated to be approximately 100 operations per million population. The survey of Yankah and colleagues conducted in 2012 showed that in that year, 1277 open heart operations were conducted in sub-Saharan Africa, excluding the Republic of South Africa, translating into 1.6 open heart operations per million population. Based on available cardiac surgery services, only 3% of children with CHD in sub-Saharan Africa who need cardiac surgery receive it.
+
+**Northern Africa.** According to the Africa Union designation, the countries in these regions include Egypt, Tunisia, Algeria, Libya, Morocco, Mauritania, and the Sahrawi Republic. Egypt has the largest number of cardiac surgery centers in all of Africa.
+
+In North Africa, 56 cardiac centers were reported in Algeria, Morocco, Tunisia, and Libya in 2014. Egypt (104 million population in 2021) is the third largest economy in Africa and has the highest human development index (HDI) of 0.69. Egypt alone had 48 open heart surgery centers in 2018 and performed the greatest number of cases (roughly 16,000 per year) on the continent, ahead of South Africa (8500 per year; 35 centers) and Nigeria (100 per year; 10 centers). In Egypt, healthcare financing is well organized to facilitate the high caseload. The public sector hospitals (university hospitals, ministry of health public hospitals, and others) serve more than half of all Egyptian patients and offer full reimbursement for all essential diagnostic and therapeutic interventions. The private sector hospitals cater to out-of-pocket payers and those with private insurance.
+
+In 2018, the government of Egypt allocated an unprecedented USD 5.51 billion to the health sector to develop it through initiatives targeted at improving public hospitals, healthcare financing, and the largest-ever campaign to eliminate Hepatitis C. The new Health Insurance Law required the government to fully cover indigent citizens and hospitals to eliminate patient waiting lists for surgery and critical medical interventions within 6 months. The procedures included in the initiative included transplantation (kidney, liver), cochlear implants, and others pertaining to the heart. In 2022, three new specialties were added—thoracic surgery, surgery for congenital defects in children, and bone marrow transplantation. The result is that Egyptian children probably enjoy the highest access to congenital heart surgery in Africa.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Asia</summary><div class="details-content">
+
+##### Among Asia's low and lower-middle-income countries, congenital heart surgery center data are sparse. The CTSNet database provides information on surgeons self-identifying as practicing congenital heart surgery (not necessarily in an exclusive sense) and their cities of affiliation: Iran (13) and Iraq (10) have the most cities with institutions for congenital heart surgery in LMICs of the Middle East.
+
+##### Many low- and lower-middle-income countries of Asia are in South Asia, East Asia, and the Pacific. The 1.8 billion people of South Asia, approximately 24% of the world population (2015) live in 8 countries (Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka, and Maldives), over roughly 3% of the Earth's land area, making this the most densely populated region of the world. Indonesia, The Philippines, Vietnam, and Cambodia are the lower middle-income countries in South-East Asia and the Pacific. North Korea is classified as a low-income country, but very little exists in the English language literature regarding congenital heart surgery in the country.
+
+<details class="med-details"><summary>
+
+##### Lebanon</summary><div class="details-content">
+
+In 2011, pediatric cardiac operations were being performed in five cardiac centers in Lebanon (6.7 million population in 2021) with five cardiac surgeons and eight pediatric cardiologists in practice. Currently, the full spectrum of pediatric and adult congenital cardiothoracic surgical procedures is provided at the Children's Heart Center, American University of Beirut. A financing model based on a tripartite partnership between public, private, and philanthropy (43%, 30%, and 25%) funding complements parents' 2% out-of-pocket payment to provide excellent care to children with CHD. Between 2014 and 2018, 856 consecutive patients underwent 993 surgical procedures (22.5% neonates), with results comparable to the expected mortalities in RACHS-1 scores and overall mortality of 2.8%. The average cost per patient, including neonates, was USD 19,800.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Jordan</summary><div class="details-content">
+
+In Jordan (10.2 million population, 2021), the Queen Alia Heart Institute is the principal public sector hospital offering pediatric cardiac surgery. In the public sector, average age of the congenital open-heart cases was 3.8 years between 1990 and 1995. The overall mortality in the simpler congenital group was 3.1%. Neonatal repairs (arterial switch operations [ASOs], repair of total anomalous pulmonary venous drainage [TAPVD], large ventricular septal defects [VSDs], etc.) were offered from 1985. The overall early mortality for the neonatal repairs was 21% in that period up till 1998. More recent outcome data are lacking. The private sector cardiac surgery practice in the country facilitates congenital heart surgery through visiting missions, performing less than 100 cases per year. Visiting international teams collaborate with eight different hospitals in the capital city of Amman and the Jordan University Hospital.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Syria</summary><div class="details-content">
+
+Prior to the Syrian political unrest of 2011, the Damascus University Cardiovascular Surgical Center had 12 cardiac surgeons, a formal 6-year surgical residency program, a pediatric cardiac unit, and an annual caseload of 1600. Almost all 110 cardiac surgeons then active in Syria either passed through or completed training at the center. From the time of the 2011 crisis, millions of Syrians fled to neighboring countries such as Jordan and Lebanon. Children with heart disease who became refugees and those born to refugees in these countries face peculiar challenges. In Jordan, the main University Hospital has been the principal site receiving referrals, the costs of surgery being covered by NGOs (65%), private donors (22%), and the United Nation High Commissioner for Refugees (UNHCR) (13%). The surgical teams were either foreign visiting teams through surgical missions (69%), local surgical teams from Jordan (22%), or teams abroad (9%). For 181 patients in whom surgical procedures were recommended as initial therapy, 121 (66%) underwent operation after a mean waiting period of 222 days; 26 (14%) patients died while awaiting surgery.
+
+Among the Syrian migrants in Lebanon, 439 refugee children (mean age at presentation 4 years) were evaluated at the American University of Beirut Medical Center between 2012 and 2017; surgery was performed in 176 (40.1%) patients with an operative mortality of 10.1%, compared to a rate of 2.9% among non-Syrian children. The average cost per surgical procedure was USD 15,160, a substantial financial burden on the refugees and the host country's limited resources. The Syrian cohort had more complex cardiac lesions, presented late, had additional comorbidities, and a substantially elevated operative mortality. Although congenital heart surgery continues to be offered in Syria, mainly at the Damascus University Hospital, the political crisis has substantially diminished access, scope, and affordability of congenital heart surgery in Syria.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Iran</summary><div class="details-content">
+
+Iran is currently classified as a lower-middle-income country. Although its healthcare system is relatively well-established, facilities for corrective cardiac surgery in neonates and specialists for cardiac surgery anesthesia are insufficient. The Shahid Rajaie Cardiovascular Medical and Research Center in Tehran, founded in 1976, is one of Asia's largest referral heart hospitals. The pediatric cardiology department has 138 inpatient beds and provides educational, therapeutic, and research services. About 1400 congenital heart operations are performed in the department each year. Like many developing nations, the country lacks reliable data on CHDs. The Persian Registry Of cardio-Vascular diseasE (PROVE/CHD) was begun in the Iranian city of Isfahan in 2016 to define the incidence of CHD in five outpatient clinics. The registry enrolled 1252 patients between 2016 and 2019. The diagnosis of CHD was made in 621 (49.6%) patients during the neonatal period, compared with 17.1% in Pakistan and 24.9% in Saudi Arabia, and the most common lesions were VSD (39.3%), atrial septal defect (29.7%), and patent ductus arteriosus (25.4%). Approximately 2.8% of the patients were diagnosed prenatally, lower than the European average of 25.5%. Corrective operations were performed on 401 (32.0%) patients, and palliative procedures (Glenn shunts and pulmonary artery bands) on 165 (13.1%). Interventional catheterization (closure of ASD and PDA mainly) was carried out in 185 (14.7%) patients.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### India</summary><div class="details-content">
+
+The total number of cardiac operations performed in 2019 in South Asian countries was estimated to be between 250,000 and 300,000. Of this number, 150,000 to 200,000 operations were performed in India alone.
+
+India (1.34 billion population—2016) performed an estimated 150,000 (113.8 per million) cardiac operations in 2016 across 174 open heart centers (1 center per 7.6 million), including 22 pediatric cardiac programs. India is the leader in congenital heart surgery in South Asia, providing the full spectrum of services and quality comparable to the best in the world, and yet represents a unique case of restricted access where the demand for congenital heart surgery far outstrips availability and affordability. Although classified as a lower-middle-income country, India is a hub for so-called medical tourism even though only 2% of Indian children requiring intervention for CHD get treated. The majority of congenital heart operations in the country are conducted in private hospitals where the cost is roughly three times the government hospital rate; few local patients can afford to pay this out-of-pocket. The government introduced several financing schemes to enable access to needy patients, but reimbursement to enrolling hospitals is generally unattractive, often delayed, and hardly sufficient for basic cost recovery. Private medical insurance does not cover any congenital condition in the country, CHD included. An estimated 35% of cardiac operations are self-funded, 40% are government scheme-funded, and 20% are funded through private donations and fundraising. Both private and government facilities providing congenital heart surgery are concentrated in metropolitan cities, accentuating the restricted access already imposed by financial constraints.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Pakistan, Bangladesh, Sri Lanka, and Nepal</summary><div class="details-content">
+
+In Pakistan (193 million population), the estimated number of cardiac surgery centers in 2019 was 49 (1 center per 3.9 million), and estimated number of cardiac operations performed was 28,000 (145.1 per million).
+
+In Bangladesh (162 million population), a total of 28 hospitals (1 center per 5.8 million) were offering regular cardiac surgical services in 2019 and performed 12,926 operations (79.8 per million), 20% of the operations being for CHDs.
+
+The approximate number of cardiac operations performed in Sri Lanka (20.7 million population) in 2019 was 6500 (265 per million) in 11 centers (1 center per 1.9 million).
+
+The number of cardiac surgical procedures in Nepal (28.9 million population) was around 2800 (69.2 per million) in 2016 in 5 centers (1 center per 5.8 million).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Afghanistan</summary><div class="details-content">
+
+In Afghanistan, French doctors performed the first open heart surgery in 2006 and also helped to train the first cardiac surgeon in the country at the French Medical Institute for Children in Kabul. The French Institute popularly known as Mother and Children Hospital was inaugurated in April 2005 as a joint project run by the Agha Khan Development Network, "La Chaine de L'Espoir et Enfants Afghans," and the Afghan government. But the health sector in Afghanistan has suffered serious setbacks from years of conflict. An exclusive facility for pediatric heart surgery opened at the Indira Gandhi hospital based in Kabul reportedly in February of 2022 with doctors trained in India. Plans for the facility had been created since 2012 but stalled for several reasons. Scant information is available on the status of congenital heart surgery in Afghanistan.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Bhutan and the Maldives</summary><div class="details-content">
+
+In the small nations of Bhutan and Maldives, there have been attempts to start cardiac surgery. These two nations reportedly attempted collaboration with international teams back in 2003, but those initiatives have not yet been successful.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Indonesia</summary><div class="details-content">
+
+The Pediatric Cardiac Surgery Unit of the National Cardiovascular Center Harapan Kita in Indonesia (276.4 million, 2021) was established in 1985, but numerous problems remain. Only 1% of children with congenital heart disease had access to treatment in 1998. Roughly 40,500 infants with congenitally malformed hearts are born yearly in the country. The total number of surgical procedures for congenital cardiac malformations in the whole country in 2005 was 706 for both infants and older children. From 2003 through 2005, 1366 patients underwent open and closed cardiac surgical procedures at the National Cardiovascular Center in Jakarta with an operative mortality of 5.6% (Aristotle complexity score of 6.25). More than 20% of patients referred from sites outside the precincts of the National Hospital are lost to follow-up, frequently because of remoteness and limited communication facility.
+
+The outcomes of children undergoing cardiac surgery at the national referral hospital of cardiac surgery (Dr. Cipto Mangunkusumo National General Hospital) in Indonesia were evaluated between April 2014 and March 2015. There were 257 patients, and the most common procedures were VSD repair (28.7%) and tetralogy of Fallot (24.4%) repair. The majority (84.4%) were in RACHS-1 category 2. The 30-day mortality was 35 (13.6%). The highest mortality occurred following the ASO for transposition of the great arteries (TGA; 50%).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### The Philippines</summary><div class="details-content">
+
+Three congenital heart surgery centers in the Philippines (111 million population, 2021) are listed on the European Congenital Heart Association (ECHSA) database—Philippine Heart Center (Manila), Center for Congenital Heart Disease at St. Luke's Medical Center (Taguig), and Congenital Heart Center, National Children's Hospital (Quezon City). The Philippine Heart Center (PHC) inaugurated on February 14, 1975, is the country's premier hospital for managing cardiovascular diseases and has produced hundreds of specialists serving the nation. In the Philippine Pediatric Society Registry, tetralogy of Fallot made up 0.1% (1603 admitted cases) of the total pediatric admissions nationwide from January 2007 to December 2011. The Philippine Heart Center performed 52, 59, and 69 tetralogy repairs in 2010, 2011, and 2012, respectively. Like many developing countries, there are challenges with outcomes of cardiac surgery in complex neonatal procedures. For example, the ASO remains a significantly high-risk procedure with a mortality rate of 48% among 60 patients (70% neonates) undergoing the procedure between January 2013 to December 2017.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Vietnam</summary><div class="details-content">
+
+In Vietnam (98.2 million population, 2021), pediatric cardiac surgery is available in at least six centers (3 in Ho Chi Minh City, 2 in Hanoi, 1 in Hue). The average cost for heart surgery is USD 1500 to USD 4500 for congenital heart disease. The central government program provides financial support for children less than 6 years of age with CHD undergoing open heart surgery. However, this support is not consistent. Out-of-pocket cost per patient ranges from USD 200 to USD 500. An estimated 5000 congenital heart operations are performed annually.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Cambodia</summary><div class="details-content">
+
+In Cambodia (17 million population, 2021), several pediatric cardiac surgery NGOs–including Chaîne de l'Espoir, France–built a partnership with the Centre de Cardiologie de Phnom Penh in the capital. The Hospital has two operating theatres, 8 intensive care beds, and 32 hospital beds. Between 2001 and 2011, this was the only center providing cardiac surgery in Cambodia. During that period, 1332 patients (834 congenital, 490 rheumatic) of median age at first surgery 11 years (IQR 4–14) were seen. The number of patients lost to follow-up reached 741 (55.63%) at 30 days, remoteness being the only significant influencing factor. Among patients with known vital status, the early (<30 days) postoperative mortality rate was 18 (3.1%). Overall, 109 (8.18%) patients underwent re-do surgery; a further 34 per 591 (5.75%) patients died at a median of 11.5 months (IQR 6–54.5). There are clear indicators from this study that patient outcomes after cardiac surgery in Cambodia remain difficult to ascertain, given the strikingly high numbers lost to follow-up. Between 2012 and 2019, the Italian NGO, Mission Bambini conducted surgery on 128 patients at the Angkor Hospital for Children at Siem Reap, Cambodia. Also, from 2012, a group composed of a partnership involving the teams of the University Children's Hospital Zurich, Switzerland; Chaîne de l'Espoir, Paris, France; and Fondation le Petit Coeur, Zurich established in Siem Reap Angkor an interventional cardiology service and cardiac surgery for more complex congenital malformations. A preliminary report by the group based in the capital on their first 17 months' experience showed 322 patients underwent surgery for congenital and valvular heart disease. The commonest operated congenital lesions were left-to-right shunts (71%) and tetralogy of Fallot (24%).
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Latin America</summary><div class="details-content">
+
+##### Latin America is generally considered as comprising South America, Central America, Mexico, and the islands of the Caribbean. Most countries here are in the upper middleincome category (see Fig. 55.2), but congenital heart surgery in this region provides important contextual insights applicable to low-resource settings. Brazil, Colombia, and Argentina account for the highest numbers of the more than 58,000 children born yearly with CHD in South America. Changes in healthcare policy in South America have favorably altered access to care for children with CHD. In Chile and Uruguay, almost 80% to 90% of children with CHD in need of surgery will receive it, and in Argentina, the figure is close to 80%. Coverage in Brazil and Colombia approximates 40%, primarily because of geographical difficulties in accessing treatment centers. Venezuela's approach is based on supporting private institutions and creating a national referral center. Peru has two large referral centers performing high-volume surgery of very complex procedures. In Ecuador, a combination of private and state-funded hospitals are utilized. In Paraguay, only a small number of operations are carried out. Congenital heart surgery in Bolivia is based in a center outside the capital city, probably because of the unfavorable altitude at the capital.
+
+##### Overall, South America has more than 195 surgeons performing approximately 17,000 congenital heart operations (42 operations/million) in 138 centers (1 center per 2.9 million people), an improvement of what was earlier reported. As in many developing world regions, these surgeons are not exclusively dedicated to pediatric or congenital heart surgery. An estimated 58% (24,000) of children in need of congenital heart operations in South America do not receive it (Table 55.3).
+
+##### Three countries in this region (all in the upper middle-income category) should not be included in discussion of countries with lesser resources but are included because several centers here have reported significant resource constraints in spite of their higher national income.
+
+<details class="med-details"><summary>
+
+#### TABLE 55.3: Pediatric and Congenital Heart Surgery in Selected South American Countries</summary><div class="details-content">
+
+| Country | Surgeons | Centers | Centers/Million | Congenital Heart Operations/Million |
+|---------|----------|---------|-----------------|-------------------------------------|
+| Brazil | 83 | 81 | 2.3 | 42 |
+| Colombia | 24 | 20 | 2.3 | 52 |
+| Argentina | 31 | 10 | 3.9 | 76 |
+| Peru | 8 | 2 | 13.9 | 21 |
+| Venezuela | 15 | 7 | 3.9 | 31 |
+| Chile | 9 | 3 | 5.5 | 73 |
+| Ecuador | 7 | 5 | 2.6 | 16 |
+| Bolivia | 6 | 3 | 3.1 | 26 |
+| Paraguay | 5 | 4 | 1.5 | 19 |
+| Uruguay | 6 | 2 | 1.6 | 73 |
+| Guyana | 1 | 1 | 2.5 | – |
+| **Overall** | **195** | **138** | **2.7** | **44** |
+
+###### From Sandoval N, Kreutzer C, Jatene M, et al. Pediatric cardiovascular surgery in South America: current status and regional differences. *World J Pediatr Congenit Heart Surg*. 2010;1(3):321-327.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Mexico</summary><div class="details-content">
+
+Mexico is an upper middle-income country, but several institutions report important, instructive resource constraints. Approximately 18,000 to 21,000 children are born each year with a cardiac malformation, and CHD is the second commonest cause of death among children under 5 years of age. In spite of its relatively important contribution to U5MR, less than a third of children born with CHD have access to treatment, and when available, it is frequently suboptimal. For example, in the western Mexican state of Jalisco (population 8.3 million in 2020), there is only one facility that has the human and material resources to operate on CHD patients. Between 2015 and 2018, a total of 289 operations were performed in this center—mostly in the RACHS 1–3 categories—with an overall mortality of 59 patients (20.4%), which contrasts sharply with the 2.9% operative mortality reported in Mexico City from a different institution. Mexico faces the same challenges with data on congenital heart surgery as other developing world countries. To address this issue, the Mexican Association of Specialists in Congenital Heart Diseases instituted the Pediatric Cardiovascular Surgical Database Registry (PCSDR) [Registro Nacional de Cirugía Cardiaca Pediátrica (RENACCAPE)] to obtain data on congenital heart disease treatment in the country. The first report provided data on patients younger than 18 years of age enrolled from August 1, 2011, to July 31, 2012. Data on 880 patients (10% neonates, 42% infants) and 943 operations performed in seven participating institutions across the country showed overall surgical mortality of 66 (7.5%) broken down into RACHS categories as follows: RACHS 1, 2%; RACHS 2, 6%; RACHS 3, 8%; RACHS 4, 19%; RACHS 5, 25%; RACHS 6, 44%; and nonclassifiable, 9%.
+
+Regarding financing treatment, 5% to 8% of the population rely on private insurance and receive care in private, mostly forprofit, hospitals. Approximately 40% have access to specific government-run hospitals through employer-based social security coverage, and the rest of the population relies on public welfare medical institutions for care, with or without government-based social insurance.
+
+Public hospitals in the country have a considerable patient load but work under important financial, administrative, and quality control bottlenecks. Constant changes in medical and nursing staff who work fixed 8-hour shifts and labor union determinations of staff allocation to hospitals result in poor team integration clinically and administratively. Poor staff remuneration drives physicians and nurses to move between public and private sectors for opportunities to enhance incomes. The situation undermines accountability, team integration, and quality control in the care of CHD patients.
+
+Private hospitals, on the other hand, tend to have better quality control systems but insufficient caseloads to support financial sustainability. As such, they have adopted a model allowing multiple surgical groups (with their professional staff) to perform congenital heart surgery as needed in their facilities. This has created a chaotic system with "nomad" groups performing surgery at different institutions without uniform standards of care, and suboptimal outcome is the obvious result. Low government capacity for healthcare legislation and regulation is prevalent in many low-resource settings, which allows the evolution of a fragmented healthcare system with widely variable outcomes within the same country.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Guatemala</summary><div class="details-content">
+
+Guatemala (population 17.1 million, 2021) is a Central American upper middle-income country. In 1997, a new comprehensive program in Guatemala for pediatric cardiac surgery was established under the leadership of pioneering surgeon Aldo Castañeda. Because of limited governmental financial support, the Aldo Castañeda Foundation was set up to ensure sustainability of the program. The cardiovascular program expanded in 2005 to two cardiac operating rooms, one cardiac catheterization laboratory, one cardiac echo lab, four out-patient clinics, a six-bed intensive care unit, a four-bed step-down unit, a 20-bed general ward (2 beds/room), and a genetics laboratory. The center has become a referral point for children from Central America. A total of 2630 surgical procedures were performed between 1997 and 2007; overall mortality was 218 (8.3%). During the past 10 years, clinical research produced 36 publications; 14 in Guatemalan journals and 22 in refereed American and European journals. The team addressed the important question central to all such efforts in LMICs: Is there justification for treating children born with congenital cardiac defects in a low-income country where undernourishment, infectious and parasitic diseases, extreme poverty, and social inequalities are responsible for a very high infant and childhood mortality, overall shortened life expectancy, and inhuman living conditions of the majority of the population? It may be argued that in a country where resources are really scarce some of these arguments may be considered redundant.
+
+And although operative mortality after congenital heart surgery has been reduced substantially in Guatemala, the authors concede that it is difficult to identify and quantify objective factors that might influence a reduction in overall child mortality.
+
+A follow-up study reported in 2011 noted that neonates with complex congenital cardiac lesions were inadequately managed in Guatemala. Between 1997 and 2009, 79 patients underwent operations for TGA. During this 13-year period, a low volume of surgery for TGA was performed with a relatively high surgical mortality; 51 (63.3%) had an ASO, and 28 (36%) an atrial switch operation (ATSO). Approximately 37% were beyond 1 month of age, and many exhibited increased preoperative risk factors. Inhospital mortality was 47% for the ASO and 25% for the ATSO group. The authors noted that many patients with TGA in Guatemala are either never referred for surgery or referred late. They concluded that strategies to improve outcomes for neonates with TGA in Guatemala must include early diagnosis countrywide and prompt referral. The persistent difficulties underscore the important contribution that must come from government. The outcomes of these children are not only dependent on institutional excellence but the whole national health system. Without addressing both institutional and national dependencies, outcomes on a larger scale will remain suboptimal.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Costa Rica</summary><div class="details-content">
+
+We include Costa Rica in the narrative principally because it serves as a model of what is achievable in LMICs through judicious planning and prioritization of child health and economic growth. Their healthcare success trajectory starts from the 1980s and shows the value of strategic planning, commitment, and patient work required to improve health care in LMICs.
+
+Costa Rica (5.1 million population, 2021) is a Central American upper middle-income country with a unified health system and universal national coverage achieved through a unique national health insurance program widely considered a model for other developing countries. The country has only one national referral center for CHD that offers interventional cardiology and covers roughly 96% of all pediatric cardiac surgery. Improvements in data quality and quality of care for CHDs were implemented in 2000 to reduce the infant mortality rate attributable to CHD. Costa Rica is one of the few countries in the developing world (though on the wealthier end of the spectrum) where the impact of CHD interventions on national child mortality rates has been assessed. The UN's SDG 3.2 target is to reduce neonatal mortality to below 12 per 1000 live births and U5MR to below 25 per 1000 live births by 2030. Infant deaths from CHD contributed to 12% of infant mortality rate. The infant mortality attributed to CHD decreased by 41% between 2000 and 2019, while neonatal mortality attributed to CHD decreased by 38% in the same period. The main causes of CHD-related deaths were total anomalous pulmonary venous connection, hypoplastic left heart syndrome, and double inlet ventricle. The 2019 neonatal, infant, and U5MRs were 5.6, 6.7, and 7.9 per 1000 live births, respectively, well below the UN targets. Costa Rica is exemplary among the LMICs in prioritizing child health and CHD treatment.
+
+The political will to invest in social sectors was elaborated in the Constitution of the Republic of 1949, prioritizing state investment in education, health, housing, and sanitation as a development strategy. This is a feature missing in the legislation of many developing countries. This strategy has evolved into the country's current universal healthcare model and improved household living conditions. Specific policies and plans have been established to protect children affected by perinatal conditions, infectious diseases, and congenital defects. The strategies implemented in the national plan to reduce infant mortality since the 1970s include guidelines to update the immunization schedule; increase the coverage and quality of prenatal, childbirth and post-partum care, neonatal transport and the quality of preterm newborn care; enrich foods with micronutrients including folic acid to prevent neuraltube defects; monitor infant growth and development as an integrating element through prevention actions such as training of childcare workers; and detect and intervene in cases of growth and development problems.
+
+In 2006, the classification and proper registration of CHD were revised and promoted by the National Children's Hospital authorities. In 2010, they created the "Cardiac Unit," emphasizing postoperative management. In 2014, a critical evaluation of the pediatric cardiac surgery program was conducted in collaboration with the Children's Hospital of Colorado, leading to the initiation of interdisciplinary interventions focused on perioperative management. In 2016, a neonatal screening program using pulse oximetry was made mandatory to detect critical CHD. Between 1997 and 2009, the absolute number of infant deaths declined from 1160 in 1997 to 663 in 2009, a decrease of 43%.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Targets and Lapses in Low-Resource Settings</summary><div class="details-content">
+
+##### The U5MR is an indicator of overall child health and represents the outcome of child health intervention efforts as a pointer to how many children under 5 years of age were kept alive. High U5MR results from many preventable and treatable causes of child mortality so that the rate reflects, better than any other measure, a lack of access to critical and fundamental quality healthcare for children within that age bracket.
+
+<details class="med-details"><summary>
+
+### The United Nations' Sustainable Development Goal – SDG 3.2</summary><div class="details-content">
+
+##### The Sustainable Development Goals (SDGs) adopted by the UN in 2015 were developed to promote healthy lives and well-being for all children, the principal metrics being the neonatal mortality rate (NMR) and the U5MR. From a resource allocation perspective, every child health intervention is judged on its potential and actual contribution to lowering the U5MR. According to WHO country data, global U5MRs in 2020 ranged from 2 per 1000 live births to 115 per 1000 live births; the rate in the highest-mortality country was about 65 times higher than in the lowest-mortality country. Globally, infectious diseases, including pneumonia, diarrhea and malaria, along with pre-term birth complications, birth asphyxia/trauma, and congenital anomalies remain the leading contributors to U5MR.
+
+##### The SDG Goal 3.2 has two targets: (1) Reduce NMR to less than 12 per 1000 live births in every country and (2) Reduce U5MR to less than 25 per 1000 live births in every country. U5MR contributes to 85% of all deaths to children under age 15; NMR is responsible for 38% of U5MR. The global U5MR in 2020 was 37/1000 live births (5 million under-5 deaths in 2020); sub-Saharan Africa and southern Asia accounted for 53% of global births but more than 80% of under-5 deaths. Half of all under-5 deaths in 2020 occurred in five countries: Nigeria, India, Pakistan, the Democratic Republic of Congo, and Ethiopia; Nigeria and India alone account for almost a third of all deaths. Sub-Saharan Africa continues to have the highest U5MR worldwide at 74 per 1000 live births—14 times higher than Europe and North America. As of 2020, 125 countries had already met the SDG target for U5MR and 16 more countries were expected to do so by 2030. However, 54 countries were offtrack and not expected to achieve the target by 2030 on current trends. Strategic efforts are still lacking in sub-Saharan Africa and southern Asia.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Contribution of CHD to Global and Regional U5MR</summary><div class="details-content">
+
+##### The leading causes of global under-5 deaths in 2019 were neonatal disorders (37.3%), lower respiratory infections (13.3%), diarrheal diseases (9.9%), congenital birth defects (9.4%), and malaria (7.1%). CHDs are major contributors to the deaths attributable to congenital birth defects (9.4%) but the size of the contribution exhibits geographical variation. Globally, CHD deaths are responsible for approximately 50% of the deaths due to all congenital birth defects but varies from as low as 25% in sub-Saharan Africa, to about 50% in South Asia, to a high of 70% in East Asia. Thus potentially, appropriate treatment for CHD delivered in a timely manner could reduce global under-5 deaths by about 4.7% (half of 9.4%). The global optimum U5MR is 1.44 per 1000 live births. If all countries reduced mortality to the global optimum, the contribution of congenital anomalies to U5MR will substantially increase, making it the second commonest cause of under-5 death after neonatal disorders. The implication is that the further away from optimum the U5MR is, the smaller the potential impact of birth defects (and thus CHD) on the U5MR. Low-income countries with competing health priorities and limited resources often face crucial tradeoffs on the pathway to SDG 3.2 target of getting U5MR below 25 per 1000 live births. CHD care often comes off worse in the tradeoffs. Unless strategic advocacy is undertaken to bring CHD to the national healthcare agenda in these countries, the outlook for children born with CHD will remain perennially bleak.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### National Health Systems Planning in Low-Resource Settings</summary><div class="details-content">
+
+##### Weak and often dysfunctional national health systems characterize many low-resource countries. The health system consists of *resources*, their *organization* and *management*, and the *financing mechanisms* available to purchase *service delivery*. Managing these five principal health system components requires health planning, administration, regulation, and legislation. Options for financing health care include governmental tax revenues, foreign aid (in some low-income countries), statutory social insurance, voluntary insurance, charity, and out-of-pocket spending (OOPS) by individual households. Fundamentally flawed processes are often employed in many low-income countries to organize and manage healthcare resources. The result is a dysfunctional health system that underperforms its resources.
+
+##### Many low-resource countries lack clear national health policies integrated with national development components. Their national health plans lack a clear strategy with well-defined goals and policies. Health planning efforts tend to be fragmentary and not directed toward supporting a broad national agenda. Furthermore, clear and logical healthcare priorities are rarely laid down apart from those prescribed by international donors and funders. Realistic criteria for the development of priorities are formulated even more rarely. The most important drawbacks include lack of an overall health policy, political will to provide the necessary resources, and an effective executive structure to implement the decisions.
+
+<details class="med-details"><summary>
+
+#### Healthcare Planning</summary><div class="details-content">
+
+##### Healthcare planning involves the generation of both strategic and operational plans. Strategic plans are the future national health sector goals and the long-term plans (often 5 years or more) to achieve them. They are the responsibility of government health ministries. Operational plans are action plans that guide day-to-day work, developed by frontline managers for implementation of the strategic plan.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Healthcare Administration</summary><div class="details-content">
+
+##### Healthcare administration is the business side of delivering healthcare services. It involves the business management of all the nonclinical functions involved in operating healthcare facilities to ensure the health system's success. It involves human resources management, financial management, cost accounting, data collection and analysis, marketing, advocacy, social services organization, and the organization's maintenance functions.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Healthcare Regulation</summary><div class="details-content">
+
+##### Regulation is the government's use of coercive power to impose a full range of legal constraints (laws, administrative rules, and guidelines issued by delegated professional associations) on healthcare organizations and individual actors
+
+##### Low-resource settings typically lack a coherent regulatory framework on health care. Some countries rely on coercive government power to enforce regulations while others adopt a policy of benign neglect. Structural deficiencies and lack of communication between different government agencies often exacerbate the lack of regulatory capability in the public health system. The inadequate regulatory environment makes quality inconsistent among the different providers; costs show extensive variation, and access for the poor is often restricted.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Healthcare Legislation</summary><div class="details-content">
+
+##### Legislation creates rules or policies governing healthcare delivery and its chief actors. Health legislation is used to formalize commitment to national health goals. It may also be used to create different healthcare organizations and healthcare business relationships. In turn, organizations (health ministries, the private sector or civil society) have mandates, policies and strategies based on legal rules guiding their work. Health legislation involves processes through which ideas, knowledge, interests, power, and institutions influence how health problems are addressed.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### The Priority of Representation in National Health Strategic Plans</summary><div class="details-content">
+
+##### Promoting access to congenital heart surgery in low-resource settings as a national priority will require significant buy-in from political and community leaders leading to distinct representation in national health strategic plans (NHSP). The process will involve building and communicating a compelling, evidence-based report on how congenital heart care contributes to national health and economic targets. Congenital heart surgery has been widely excluded from national and international health agendas and poorly represented in NHSPs, mainly because its significance in attaining national health targets (such as the infant and U5MRs in SDG 3.2) is poorly communicated and appreciated.
+
+##### Compared to communicable diseases, priority given to diseases amenable to surgical care is low in developing countries. This is evident when NHSPs of these countries are scrutinized. For example, in a 2014 systematic review of the NHSPs of 43 sub-Saharan African states, HIV and malaria had 3772 mentions across all the policies, compared to 376 for surgery. And of the total 4064 health targets mentioned, only 2% were related to surgical conditions or surgical care. The NHSP defines the nation's health status and sets out action plans to achieve priority targets and performance indicators for monitoring and evaluation.
+
+##### In the last decade, attention was drawn to the heavy burden of surgical disease worldwide, particularly in LMICs. In 2015, the high burden of disease amenable to surgical treatment in low-resource settings was highlighted in several publications based on the work of the Lancet Commission on Global Surgery. Subsequently, the World Health Assembly Resolution 68.15 on strengthening emergency and essential surgical care and anesthesia as a component of universal health coverage was passed in support. As a result, several developing countries rallied to the call for increasing access to surgical, obstetric, and anesthesia care with the development of national surgical, obstetric, and anesthesia plans (NSOAPs) to be incorporated into their country's NHSP. The NSOAPs have been developed as a policy strategy for countries to increase access to treatment of diseases amenable to surgical care and are now recognized components of universal health coverage necessary for a resilient health system. Planning begins with defining the gaps in access to safe, timely, affordable, and quality surgical care, identifying and prioritizing solutions, and creating a costed and funded implementation plan.
+
+##### Strategic planning addressing six domains—infrastructure; workforce; service delivery; financing; information management; and governance—is needed to improve access to surgical care at the national level. Guidelines for developing NSOAPs have been published and may be adapted for prioritizing congenital heart care. A handful of low-resource countries, principally in Africa, have thus far developed and launched their NSOAPs. Still, almost all the published NSOAPs distinctly lack cardiac (including congenital heart) surgery representation.
+
+##### To improve access to CHD treatment, congenital heart surgery must be specifically prioritized and not implicitly buried within other health strategies. Meanwhile, our congenital heart surgery community and professional associations must seek more active participation in advocacy for high-level political commitment to congenital heart care.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Expedient Solutions to Restricted Access in Low-Resource Settings</summary><div class="details-content">
+
+##### In an attempt to address the restricted access to congenital heart care in low-resource settings, families with financial resources travel abroad in search of the needed care. Humanitarian organizations have also sought to bring care to the deprived areas and provide educational and training opportunities for local team capacity development. These makeshift solutions (outbound medical travel [OMT] and humanitarian missions for treatment and training) have thus become prominent features of the congenital heart surgery landscape in low-resource settings.
+
+<details class="med-details"><summary>
+
+### Outbound Medical Travel</summary><div class="details-content">
+
+##### Otherwise known as medical tourism, OMT is where patients and their families travel from their home country to another to seek health care. It has become a widespread phenomenon thriving in destination countries (such as India, Thailand, Malaysia, South Africa, and Turkey) and attracting significant expenditure in countries of origin, some of which spend as much as 12% of their entire national health budget in sending patients abroad for cardiac surgical care. In 2016, Africans spent roughly USD 6 billion on OMT (Nigerians alone spent USD 1 billion). Not surprisingly, sub-Saharan Africans constitute the largest contributors to the Indian OMT market in numbers and revenue.
+
+##### In the last two decades, OMT has assumed important status for congenital heart patients. For example, between May and October of 2009, 11% of 1372 patients admitted to one Indian congenital heart center were from outside India. The majority were from Malaysia (45%), Nigeria (23%), and Tanzania (15%). Ages ranged from 1 month to 39 years (mean 61 months). Cheaper cost and superior expertise compared to the home country were the two main drivers of OMT. Patients were either self-funded or obtained funding from governments and philanthropists. It seems counter-intuitive that LMICs would serve as medical tourism destinations. However, much of the "business" driving OMT in countries such as India is based in the private sector of destination countries, and locals may not have the financial means to access the services that foreigners can afford. In 2010, an average of 3000 Nigerians traveled to India for medical purposes each month, spending around USD 200 million for medical care.
+
+##### OMT is sometimes organized and funded by governments. In Malaysia, poor availability of pediatric cardiac services compounded by long waiting times and high costs led the government to allocate funds through the Pediatric Cardiothoracic Program (PCP), in which patients are transported to India for heart care. Between August 2008 and September 2012, 241 Malaysian patients received care in India through the PCP. The postoperative mortality rate was 1.7%, and the program was considered beneficial to patients and the government.
+
+##### While OMT provides access to otherwise unavailable care, problems with hidden costs, postoperative follow-up, quality of care, and adverse outcomes have become important concerns. OMT provides a useful avenue for patients with sufficient financial resources to avoid waiting lists or obtain treatment otherwise unavailable in their home countries, but the practice has also raised important ethical issues, including the large financial contribution of the poorest continent (Africa) to OMT revenue in countries such as India, the lack of available high-quality care to most citizens of some destination countries who have no health insurance coverage for the same services, and the investment of public funds used to train local providers. Further, OMT may subsidize the construction of for-profit hospitals, effectively transferring benefits from local indigent patients to comparatively wealthier international ones.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Humanitarian Cardiac Surgery</summary><div class="details-content">
+
+##### The overwhelming burden of pediatric cardiac surgery needs in humanitarian settings has prompted mutual interest between humanitarian organizations and pediatric cardiac surgeons in lowresource settings. This collaboration has arisen from the realization that provision of congenital heart surgery requires expensive structured programs and consistent, high-level economic support. Several humanitarian cardiology and cardiac surgery programs have been developed to meet this need in low-resource settings. In 2014, a survey identified 80 NGOs working in 92 low-resource countries.
+
+##### Most of these NGOs had headquarters in the United States, Europe, and Asia-Western Pacific regions (outside of the regions where they run programs). Still, a substantial proportion (29%) represented local initiatives or in-country subsidiaries of multinational NGOs. The majority (42%) operated in South and Central America. Africa had 18%, Europe and Asia had 17% each, while Asia-Western Pacific had 6% of NGO activity.
+
+##### Roughly half (51%) of the NGOs organized 2 to 5 missions annually. Most (87%) NGOs provided education, diagnostics, surgical, and/or catheter-based interventions. Most (59%) focused on operations in children and infants, but 41% performed neonatal operations not requiring cardiopulmonary bypass. In between missions, 26% of partner sites did not perform interventions.
+
+##### In 2020, another survey identified 86 NGOs providing cardiac surgery services in 96 low-resource settings. Five performed adult cardiac surgery only, 56 performed pediatric cardiac surgery only, and 25 performed both adult and pediatric cardiac surgery. Of the 38 NGOs exclusively performing pediatric cardiac surgery with available volume data (67.9%), a median of 100 operations (4–837) per year were performed. As of May 2020, these NGOs had been operating for a median of 21 years (IQR: 15-29) funded by individual donations (n=58), corporations (n=37), foundations (n=36), and fundraising campaigns or events (n=14).
+
+##### The impact of humanitarian cardiac surgery has been assessed, including outcomes, cost-effectiveness, and impact on disease burden. Outcomes of congenital heart surgery programs in lowresource settings may be gleaned from the registry of the International Quality Improvement Collaborative (IQIC) published for enrolling institutions between 2013 and 2015 for 31 sites in 17 countries (Afghanistan, Argentina, Brazil, China, Colombia, Costa Rica, Guatemala, India, Malaysia, Mexico, Pakistan, Peru, Russia, Serbia, Uganda, Ukraine, and Vietnam). The data included 24,917 operations performed in children (<18 years of age). The overall in-hospital mortality (number of deaths before hospital discharge divided by the total number of RACHSclassified surgical cases) was 5.0%, but country-level mortality rate ranged from 1.7% to 25.0%. There was variation in the proportion of RACHS categories, but all countries had at least 50% of cases in low-complexity categories (RACHS 1 or 2). SMR—observed in-hospital mortality rate divided by the mortality rate that would be expected given the country's patient case mix—was the main outcome measure; an SMR greater than 1.0 indicates higher than expected mortality based on patient case mix and vice versa. Country level SMRs ranged from 0.40 to 4.85 with significant variation, including superior results in many countries with low national income per capita. The SMR was less than 1.0 in institutions based in 47% (eight: China, Ukraine, Vietnam, Russia, Colombia, Malaysia, Argentina, and India) of the 17 countries studied.
+
+##### Several factors combine to affect the outcomes of humanitarian congenital heart surgery adversely. Delayed diagnosis and referral in low-resource settings ensure that pathology is often significantly advanced when the patient reaches the surgical team. Important comorbidities relevant in the postoperative period may not have been identified before the commencement of the mission or during the short period available for evaluation by the visiting team. Infectious disease, malnutrition, and anemia are common in many low-resource settings, which may impair postoperative recovery. Financial constraints limit the ability of patients and families to pay for items not covered by humanitarian assistance (like hospital stay, boarding, and lodging for parents and guardians) and also compromise compliance with appropriate follow-up. All these may combine in less endowed settings to increase mortality and morbidity associated with humanitarian cardiac surgery missions.
+
+##### Questions about cost, resource allocation, and cost-effectiveness always arise in discussions of congenital heart surgery in low-resource settings. The competing healthcare needs in these settings make such discussions unavoidable. Much of the funds made available by Western governments, international public health organizations, and philanthropic corporations go toward global health interventions deemed to be highly cost-effective, and these fall in the categories of infectious disease prevention or treatment, maternal and child care, sanitation, and clean water provision among others. Congenital heart surgery, perceived as expensive, unaffordable, and of low public health significance in low-income countries, does not make the list of priorities. In addition, cost-effectiveness data on which to base recommendations for resource allocation toward congenital heart surgery have been sparse.
+
+##### Such data are only recently becoming available from analyzing humanitarian missions in low-resource settings. From one such report in 2015, a total of 446 patients underwent congenital heart surgery in 10 LMICs at a mean age of 3.7 ± 5.4 years (37 neonates, 156 patients younger than 1 year), and estimated cost per procedure was USD 6831. There were 27 uniquely identifiable cardiac malformations—atrial septal defect, VSD, patent ductus arteriosus, tetralogy of Fallot, and single ventricle being the commonest. The estimated cost-effectiveness of an intervention was USD 171 per disability-adjusted life year (DALY) averted. Each patient potentially gained 39.9 years of life expectancy, 3.5 years of schooling, and USD 159,533 GNI per capita.
+
+##### In context, recent reviews reported cost-effectiveness values of USD 13 (per DALY) for circumcision, USD 109 for procedures for hydrocephalus, USD 136 for ophthalmic surgery, and USD 82 for other common general surgical operations. The results support the notion that congenital heart surgery is highly cost-effective in LMICs, offers substantial societal benefits, and should be considered among "Essential Pediatric Surgical Procedures" for its considerable economic value. Generally, interventions with a maximum cost-effectiveness ratio (CER) of less than that country's GDP per capita are considered very cost-effective; those with a CER of less than three times the GDP per capita are cost-effective, and all others are judged not cost-effective.
+
+##### From the outset, most humanitarian efforts primarily aim to provide clinical services at the patient level and then assist the local team in establishing independent programs. Yet, from a policy and sustainability perspective, public health impact on disease burden is often limited for humanitarian missions with marginal caseloads and where local team surgical activity is minimal between missions. One center in Nigeria reported their experience with six different teams visiting at different periods over 7 years conducting 266 open-heart operations (38 cases per year) in children and adults. At the end of the period, local team gains were judged as far from desirable because of inadequate skills transfer.
+
+##### In terms of treatment access, missions only benefit a lucky few. Nigeria has the heaviest burden of congenital heart disease prevalence in Africa (more than 50,000 CHD births a year; Fig. 55.3); the impact of humanitarian cardiac surgery on the burden of disease in such a country and many other LMICs is minimal unless long-term measures link these efforts to scalability.
+
+##### According to Dearani and colleagues, two different types of programs are evident—short-term oriented and long-term oriented. Short-term-oriented programs are characterized by yearly or twice-yearly visits lasting 1 to 2 weeks per visit, typically in countries without locally established heart surgery programs. Long-term-oriented programs operate in countries with some degree of pre-existing program development and collaborate for skills transfer, local team capacity development, and ultimate independence. Short-term-oriented programs, so-called "surgical safaris", provide clinical benefits for the fortunate few selected for intervention during missions but generally do not lead to sustainable local team capacity development. Long-term-oriented programs are more challenging to deploy but provide an avenue for sustainability and long-term value for the investment. Local team members benefit from skills transfer and enhanced capability to manage more complex cases.
+
+##### It has become increasingly clear that a comprehensive training strategy for all team members is the mainstay for successful program development. This includes all key stakeholders—governments, hospital administrators, professional leaders, and a committed and motivated faculty with requisite skills, incentives, and resources. However, none of these aspirations will be more generally fulfilled unless physicians and surgeons actively engage in advocacy to serve the cardiac healthcare interests of the underprivileged worldwide.
+
+![](_page_14_Figure_10.jpeg)
+
+**Figure 55.3** Estimated birth prevalence of congenital heart defects in Africa.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Training Local Teams</summary><div class="details-content">
+
+##### The critical role of providing education and training for the local team during humanitarian missions is clear. Without the educational and training component, humanitarian missions are rarely sustainable over the long term. But optimal training of such a highly specialized team remains challenging due to the lack of structured programs for training, evaluation, and maintenance of competence in many low-resource settings where humanitarian missions are deployed.
+
+##### The World Society for Pediatric and Congenital Heart Surgery (WSPCHS), in collaboration with sister societies around the globe, established the Global Council for Education in Congenital Heart Surgery to address the gross disparities in different parts of the world regarding training approaches and standards. The Global Council has established that there is a dire need to develop a system of structured training and certification for all countries, particularly those in the low- and middle-income groups.
+
+##### Much of the education for congenital heart teams occurs in the operating room when surgical procedures are performed. Such opportunities are understandably limited in low-resource settings; thus, other educational tools are essential for training. Heart University and Congenital Heart Academy provide such tools. The World Society for Pediatric and Congenital Heart Surgery established the online World University for Pediatric and Congenital Heart Surgery (WUPCHS), focusing on running monthly curriculum webinars on pediatric and congenital heart surgery/disease. Since 2020, the World University has organized 50 Webinars with close to 40,000 registrations from all regions of the world.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Delays in Care Provision</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Delayed Diagnosis, Late Presentation, and Advanced Disease</summary><div class="details-content">
+
+##### Delayed diagnosis inevitably leads to late presentation for treatment, which is harmful to patients, entails greater hospital costs, and is associated with increased resource utilization. Patients who present late have higher rates of complicated cardiac lesions, perioperative morbidity, and mortality. The longer it takes for a definitive diagnosis, the longer intervention is delayed when clinically indicated, and the worse the patient outcome.
+
+<details class="med-details"><summary>
+
+#### Delayed Diagnosis</summary><div class="details-content">
+
+##### Antenatal detection of CHD is now considered standard of care in developed countries; the standard fetal sonographic examination with outflow tract views is associated with detection rates of structural heart disease of 65% to 90% sensitivity. In limited resource settings, such a standard of care is uncommon, as delays in diagnosis for both acyanotic and cyanotic defects occur well into childhood. The critical nature of most cyanotic CHD implies that diagnosis occurring after the birth hospitalization can be considered delayed.
+
+##### For acyanotic defects, diagnosis is considered delayed when it occurs beyond the age recommended for elective primary repair, or when immediate treatment is indicated at initial evaluation (because of hemodynamic status). This is generally greater than 10 years of age for a child with ASD, greater than 6 months for complete AVSD or large VSD, greater than 18 months for a patent ductus, and greater than 3 years for isolated coarctation. For less severe acyanotic defects, diagnosis after the onset of symptoms or complications is considered delayed.
+
+##### Substantial differences exist in the prevalence of delayed diagnosis between high and limited-resource settings. In Switzerland, for example, the prevalence of delayed recognition of CHD remained stable at roughly 10% between 2001 and 2011; whereas it was roughly 95% in Ethiopia, 85% in Pakistan, and 61% in Indonesia.
+
+##### The key factors responsible for the delay were delivery outside hospital settings, delayed first consultation to a doctor, delayed diagnosis at the first consulting facility, delayed referral to a tertiary care hospital, financial constraints, and antagonistic sociocultural factors. In the Indonesian study, heart failure (49%) and pulmonary hypertension (16%) were already present at the time of diagnosis in some patients.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Late Presentation</summary><div class="details-content">
+
+##### The indications for and timing of surgical intervention are determined by the natural history of the defect, being chosen based on the potential for the lowest postoperative morbidity and mortality. Late presentation undermines this potential because of clinical disease progression during treatment.
+
+##### The various forms of CHD differ substantially in their natural histories. For example, the natural history of an isolated ASD is compatible with survival into early adulthood and a reasonable chance of cure with a single intervention; presentation of a patient with ASD in late childhood would, therefore, not be considered late. On the other hand, the optimal timing for elective repair of tetralogy of Fallot based on recent reports appears to be between the ages of 3 to 6 months of age; presentation of tetralogy of Fallot in a 9-month-old infant with cardioembolic stroke would be considered not only late, but also advanced.
+
+##### Iyer and associates defined late-presenting CHD as presentation late in the natural history of the defect, with consequent transient or irreversible hemodynamic and pathologic alterations that would impact the medical and surgical approach, risk, and outcome. Late presentation is thus differentiated from adult congenital heart disease. The critical distinction is the natural history and not the patient's age. Presentation beyond the optimal timing of repair that has repercussions on treatment options and outcome is the decisive factor.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Advanced Disease</summary><div class="details-content">
+
+##### Delayed diagnosis is a major contributor to delayed presentation and advanced disease in those with unrepaired CHD. A substantial number of late presenters are seen at a time in the natural history when there is already end-organ damage and a significantly elevated risk of surgical mortality from end-organ dysfunction or failure. Such patients constitute a distinct group that should be designated as advanced CHD, not just late-presenting CHD. Late presenters with advanced disease face elevated discharge mortality and are identified by patient-specific preoperative factors. In neonates, infants, and children, mechanical circulatory support, renal dysfunction, shock, and mechanical ventilation are predictive of advanced disease and elevated operative mortality; in adults with CHD, preoperative mechanical ventilation and preoperative neurologic deficit are similarly predictive.
+
+##### In a recent meta-analysis, the global prevalence of unrepaired CHD in school children was reported as 3.8 per 1000, higher in the LMICs of Asia and Africa than in higher-income countries (3.8 per 1000 vs. 1.8 per 1000). There has been a nearly threefold rise in the prevalence of unrepaired CHD in school-age children since 1995, from roughly 1.7/1000 in the 1995–1999 period to 4.8/1000 in the 2010–2014 period. This is mainly accounted for by increased diagnosis of left-to-right shunting defects (VSD 30.3%; ASD 24.5%; and PDA 13.9%) in Asia and Africa. This suggests that substantially increased numbers of diagnoses, especially of simple defects in infancy and childhood, are being made in these countries. Although many of such simpler forms of CHD may not need intervention, the capacity for their follow-up is restricted in low-resource settings. Yet continued surveillance for these children is essential to prevent late presentation with complications, including infective endocarditis, a cardiovascular crisis in pregnancy, or the development of hypertensive pulmonary vascular obstructive disease.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Social Consequences of Late Presentation</summary><div class="details-content">
+
+##### Late presentation has consequences for society and the parents of affected children. The fatal and non-fatal burden of CHD is highly concentrated in infancy, and society pays the price in exaggerated resource utilization (extended hospital stays, higher admission costs), absenteeism of workers caring for affected children, and a higher burden of years lived with disability (YLD). Roughly 69% (180,624) of all CHD deaths in 2017 occurred in infancy, with the highest rates seen in the low-resource regions. The total number of YLDs from CHD in 2017 was estimated to be more than 589,000, which is on par with peptic ulcer disease and lower respiratory infections. Cardiac, pulmonary, nutritional, hematologic, and gastrointestinal complications all contribute to YLD. The highest rates of infant YLD from CHD in 2017 occurred in sub-Saharan Africa, central and southeast Asia, China, and India.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Management of Late Presentation</summary><div class="details-content">
+
+##### A detailed discussion of these malformations and their surgical treatment in adults is covered in Chapter 54. Comments specific for resource-limited settings are included here.
+
+<details class="med-details"><summary>
+
+#### Late Presenting VSD and Other Left to Right Shunts</summary><div class="details-content">
+
+##### These are among the commonest defects seen among late-presenting patients. Pulmonary hypertension is commonly present in varying degrees of severity. When pulmonary hypertension progresses beyond the threshold of reversibility, clinical decision-making regarding the advisability of shunt closure is challenging. At such a stage in the natural history, the defect essentially functions as a safety valve for unloading right ventricular hypertension; defect closure then may lead to an increased mortality risk and a worse prognosis. There is little consensus regarding which preoperative factors predict mortality, morbidity, and resolution of pulmonary hypertension after repair. The preoperative responsiveness of the pulmonary vasculature to oxygen does not predict operative survival or postoperative pulmonary vascular resistance.
+
+##### The general consensus is that VSD closure is worthwhile even among older patients with VSD and moderately elevated pulmonary vascular resistance.
+
+##### The outlook for patients presenting late with ASD is more encouraging. The in-hospital mortality is not elevated in those with pulmonary vascular resistance index between 4 to 8 Wood units·m<sup>2</sup>, but if the tricuspid valve gradient is elevated as well (≥64 mmHg), the immediate postoperative outcomes are suboptimal; pulmonary hypertension crisis, prolonged ICU stay, and prolonged mechanical ventilation time become significant, which may compromise outcomes if postoperative care resources are limited. Preoperative institution of medical therapy for pulmonary hypertension may significantly improve hemodynamic and clinical parameters to allow subsequent delayed ASD closure.
+
+##### ASD with restrictive left ventricular (LV) physiology can lead to pulmonary venous hypertension, manifesting as life-threatening acute pulmonary edema following surgical or device closure. This may be the result of markedly impaired left ventricular compliance associated with left ventricular diastolic dysfunction or hypoplasia (in younger patients). Recent data point to the risk of serious acute left ventricular dysfunction leading to pulmonary edema immediately after surgical or transcatheter ASD closure in some elderly patients. In such patients, it is recommended to perform balloon testing and carefully weigh the benefit of ASD closure against the potential negative impact of eliminating the shunt. All high-risk candidates prone to this complication should be prepared with diuretics and vasodilators before closure.
+
+##### For late-presenting patients with PDA and severe pulmonary hypertension, there is no accurate means of determining persistent post-procedural pulmonary hypertension after PDA closure. Preoperative pulmonary vascular resistance and pulmonary-to-systemic flow and resistance ratios do not reliably predict operative outcomes. A 2014 catheter intervention study showed that a post-trial occlusion systolic pulmonary-to-systemic pressure ratio >0.5 might be a valid hemodynamic parameter for identifying patients with borderline pulmonary hypertension who have a high risk of postprocedural PAH after transcatheter patent ductus arteriosus closure. For the open surgical patient, this may require on-table trial occlusion testing.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Late Presenting Tetralogy of Fallot</summary><div class="details-content">
+
+##### In low-resource settings, patients with tetralogy of Fallot commonly present for the first time during childhood, adolescence, or even late adulthood. Some would be natural survivors of more favorable tetralogy anatomy, with minimal cyanosis and limited consequences of chronic cyanosis. Most patients, however, are markedly cyanotic and have a poorly compliant right ventricle resulting from longstanding hypertrophy. The morphology and repair in adults are detailed in Chapter 54. Unless contraindications exist, such as gross hypoplasia of the branch pulmonary arteries, definitive complete repair is the goal for all patients.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Late Presenting Transposition of Great Arteries</summary><div class="details-content">
+
+##### Many children born with TGA in low-resource settings do not have access to any form of surgical treatment. Left untreated, TGA is associated with mortality between 85% and 90% in the first year of life.
+
+##### For those children fortunate enough to be born in lowresource settings where surgical intervention is available, 80% undergo single-stage ASOs while 20% receive either an atrial switch or 2-stage ASO (pulmonary artery band followed by ASO). Age at operation is greater than 30 days in half of the cases; only 10% receive surgical intervention in the first week of life.
+
+##### Earlier experience suggested an excess mortality for the primary ASO when performed after the third week of life. Currently the usual practice in developed countries is single-stage ASO in the first week of life. One study suggests that 3 days of age is the ideal time for an ASO; presentation beyond the first week of life would thus be considered late presenting TGA.
+
+##### Preoperatively, a substantial number of these children have cardiovascular deterioration, malnutrition, and infection. Many patients (48%) are below the 5th percentile for World Health Organization body mass index-for-age percentile; 22% present with a major infection, and 9% are characterized as having a major medical illness. Preceding septostomy is reported in only 16% of cases.
+
+##### Preoperative preparation requires treatment of infection and cardiovascular stabilization. The options for surgical repair in a child deemed stable enough to undergo intervention are singlestage ASO, two-stage ASO, or an atrial switch procedure (Senning or Mustard). In low-resource settings, the proportion of operations are 80% single-stage ASO, 7% two-stage ASO, and 13% atrial switch. Because a large proportion (51%) of surgery for TGA in low-resource settings occurs after 1 month of age (45% between 1 month and 1 year), case selection for the operations can be challenging. A primary arterial switch can be performed until 8 weeks of age with outcomes comparable to those of earlier repair.
+
+##### Data from developing world centers performing surgery for TGA suggests the late primary arterial switch in infants, even up to 3 months of age in a borderline regressed left ventricle is preferred to a two-stage switch, whereas the atrial switch procedures are favored beyond 3 months of age.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Late Presenting Functionally Univentricular Heart</summary><div class="details-content">
+
+##### There is little data on surgery outcomes for functionally single ventricles in low-resource settings. In addition to operating room skills and appropriate infrastructure, embarking upon a single ventricle palliation program requires continuity of care beyond hospital discharge and regular follow-up care to achieve suitable outcomes. The major resource investments for multiple operative interventions and ongoing long-term morbidity combine to relegate management of these conditions to the low-priority end of the healthcare spectrum in low-resource settings.
+
+##### In high-income countries, the Glenn procedure is performed between 3 and 6 months of age; more than 60% of Fontan operations are performed between ages 2 and 4 years. Data from the 32 International Quality Improvement Collaborative (IQIC) sites in low-and-middle countries show that only 14% underwent Glenn surgery before 6 months of age, and 75% of Fontan operations were performed after 4 years. Operations for functionally single ventricle ranged from 1% to 16% of surgical volume. They consisted of systemic-to-pulmonary shunts (7%), pulmonary artery banding (6%), stage 1 Norwood palliation (5%), Glenn (53%), and Fontan (27%) with an overall survival of 89%. Individual centers present different results based on the country's characteristics and program structure. For example, in Angola, a sub-Saharan African country, operative mortality was particularly high for initial palliations, 45.2% for the modified Blalock-Taussig shunt and 11.7% for pulmonary artery banding. The Glenn and Fontan procedures also had high operative mortality (16.7% and 20%, respectively). In addition, there was a substantial loss of follow-up (33.7%) compared to 13% reported in similar settings.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Ethics of Managing CHD in Low-Resource Settings</summary><div class="details-content">
+
+##### The ethical challenges facing clinicians in low-resource settings regarding decision-making in managing CHD differ remarkably from those encountered in settings with adequate resources. There are no formal guidelines to help inform relevant stakeholders of how to navigate the ethical challenges and considerations. The principal ethical issues relate to prioritization of congenital heart surgery and ethical conduct of humanitarian cardiac surgery missions which have become integral to ongoing efforts to meet local cardiac surgery needs of countries with inadequate resources.
+
+<details class="med-details"><summary>
+
+### Ethics of Prioritization of Congenital Heart Surgery</summary><div class="details-content">
+
+##### In one sub-Saharan African country of roughly 24 million people (2017), malaria, diarrhea, acute respiratory infection, and malnutrition are the leading causes of child mortality. Sixty-six percent of children under 5 suffer from anemia; only 49% of children with pneumonia and 53% of those with diarrhea are able to access and receive treatment. Would it be justifiable to encourage the leaders of this country to prioritize congenital heart surgery? Iyer's 2013 editorial on the management decisions regarding hypoplastic left heart syndrome in emerging economies raises similar concerns:
+
+##### *"In developing countries like India, CHD remains largely untreated. Available facilities and resources fall way short of the demand, as a result of which the majority of patients even with simple CHD perish without receiving surgery... In this milieu, there is need to allocate resources in a responsible way ... Many would argue that every child deserves a chance to live and that by this logic we should not be performing open heart surgery at all in a land where hundreds of thousands of children die every year of diarrhea, malnutrition, and infectious disorders."*
+
+##### Prioritization of congenital heart surgery in low-resource settings is particularly problematic considering that given ample resources, there would be no debate regarding whether surgery should be offered. But how should resources be allocated in a manner that would be considered ethical and most responsible in such settings?
+
+##### The commonly used ethical approach is principlism – respect for persons, beneficence, nonmaleficence, and justice. Consequentialism (the outcome yielding the most benefit at the lowest cost) and public health ethics provide additional layers to refine the decision-making.
+
+<details class="med-details"><summary>
+
+#### Principlism</summary><div class="details-content">
+
+##### The principle of beneficence suggests that providing the needed lifesaving and disability-reducing surgery for all children affected by CHD is a good thing. If evidence-based treatment is available for a condition, there should be no debate regarding whether that treatment should be offered to anyone in need.
+
+##### The principle of respect for persons implies this surgery should be provided in a family-centered, culturally acceptable manner. By extension, respect for autonomy means community or national leaders should be accorded the respect to make decisions and set priorities that reflect the values and preferences of their communities.
+
+##### Nonmaleficence mandates caregivers to provide surgery that achieves its objectives with optimal outcomes in terms of mortality and morbidity. But nonmaleficence must also be considered from the perspective of other stakeholders in the healthcare enterprise. Will the surgery on one child worsen others even though the index patient obtains the best possible outcome? Will the resources consumed in the performance of this surgery come at the expense of other children who could have been saved with the same resources? It must also be noted that performing interventions without the requisite human and material resources predisposes patients and their families to harm. The material costs incurred in such endeavors represent unfair loss of opportunity for other patients.
+
+##### The principle of nonmaleficence in this context is linked with the principle of justice (fair and equitable distribution). It underscores the previous questions related to single ventricle palliation: will investment in developing pediatric cardiac surgery programs cause harm to other patients because the applicable funds are no longer available for their care? It can be argued that devoting funds to congenital heart surgery does not necessarily divert funds from other healthcare needs because governments do not automatically reallocate them to those healthcare needs. Furthermore, a substantial proportion of funding for pediatric heart surgery in low-resource settings is derived from philanthropists and NGOs; these funds would not be made available for other needs. In Ghana, for example, the Children's Heart Foundation has been raising funds to pay for pediatric heart surgery for over 13 years. During this period, the Foundation raised USD 2,128,000 and paid for the operations in 266 children. It is doubtful that these funds would have been available for other healthcare conditions.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Consequentialism</summary><div class="details-content">
+
+##### In the consequentialist view of ethics, a decision is right or wrong based on the actual or expected outcome rather than the decision itself. The tilt of the cost/benefit consideration is the critical factor. The benefit side of congenital heart surgery may be the length of survival after surgery, quality of life achieved, productivity, and the like. On the cost side would be the financial and material resources consumed in the provision of care plus the opportunity cost of care—the best alternative use to which these resources could have been employed, like in the care of patients with other medical problems. We must also add poor results to the cost side; needless morbidity or mortality experienced in poorly conceived cardiac programs clearly undermine the program's justification. This does not mean overlooking the obligatory learning curve of nascent congenital heart programs, but every program needs to be assessed to ensure that adverse outcomes are not instances of avoidable harm and that there is a definite institutional commitment to continuous quality improvement.
+
+##### The use of cost-effectiveness analysis brings some quantitative elements to the consequentialist perspective. The societal economic benefit equates the value of a human life to the discounted market value of the economic output produced by an individual over an expected lifetime and is frequently used by WHO for cost analyses. By these standards, both surgery in general and congenital heart surgery in particular, appear highly cost-effective, on par with distribution of condoms to prevent the spread of human immunodeficiency virus, and BCG vaccination to prevent tuberculosis. The intervention with the highest societal economic benefit is reportedly atrial septal defect repair in Brazil (USD 313,866)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Public Health Ethics</summary><div class="details-content">
+
+##### The health decisions of policymakers are undertaken from the perspective of population health rather than that of an individual patient. Public health ethics applies the relevant principles and values to public health decision-making. In low-resource settings, the dominant health priorities are not in congenital heart surgery, raising the stakes of ethical dilemmas of distributive justice relating to those in need of congenital heart surgery.
+
+##### Policymakers promote decisions that demonstrably improve outcomes for population health. Although surgeons may focus on improving outcomes for a particular technical procedure on patients, the questions policymakers are concerned with relate to the population incidence of the ailment requiring that procedure, the impact of the procedure on the life expectancy of the population, and the cost at which that survival advantage is obtained. It must be added that public opinion and advocacy are essential considerations in prioritizing healthcare investment. Public health ethics are thus principally utilitarian, aimed at obtaining the greatest benefit for the majority at the lowest cost while trying to eliminate health inequality and operate transparently. There is a heavy dependence on measures of economic analysis and cost-effectiveness in public health ethics, often creating a conflict with equity. For example, the financial cost of palliating a child with a functionally single ventricle in a low-resource setting will yield substantially more lives saved and at higher quality if the resources are instead devoted to treating childhood malnutrition in the same setting. In terms of population health, this would be the "best outcomes" approach to resource allocation. But this approach runs counter to the prospects of patients with "expensive-to-treat" illnesses such as CHD. Caregivers of such patients argue from the "fair chances" position—that every child has the right to a fair chance of getting treatment regardless of the diagnosis, incidence, or cost of treatment.
+
+##### Should policymakers in low-resource settings advocate against congenital heart surgery to improve allocative efficiency or should they consider the "fair chances" position as well and to what degree? Notably, the general public does not share the concern with allocative efficiency, the principal criterion used by health economists. The best outcomes/fair chances dilemma currently has no satisfactory solution. The answer may lie somewhere between the two extremes—finding a way to do a bit of both. Costeffective analysis tends to deprioritize the prospects of those with "expensive-to-treat" illness from having a fair chance at treatment in favor of allocative efficiency. Decisions made on that basis alone are unacceptable to the general population on whose behalf those decisions are made.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Ethical Conduct of Humanitarian Cardiac Surgery</summary><div class="details-content">
+
+##### Humanitarian cardiac surgery missions have become integral to the effort to address the deficit of pediatric heart surgery in lowresource settings, and many ethical dilemmas continue to generate discussion. But what are the predominant ethical dilemmas in humanitarian cardiac surgery missions and what ethical principles aid their resolution? Ethical issues in service provision, education/training, and research may be considered.
+
+<details class="med-details"><summary>
+
+#### Service Provision</summary><div class="details-content">
+
+**Patient selection.** Probably the most vexing ethical issue in the service provision domain is selecting a relative minority from the numerous patients that stream to the host institution in the hope of selection for lifesaving surgery. What selection criteria would be in keeping with the principle of justice and equity when one must select 10 patients out of a potential 200 for lifesaving surgery when there is just one visiting team, one temporary intensive care unit, and roughly 10 days to work? But this happens when the visiting team's arrival is well advertised, and the lead surgeon is allowed to meet the host country's president to present the mission. Then dozens of needy children and their parents travel hundreds of kilometers over long hours for the preoperative evaluation, ultimately leading to the selection of a dozen or so fortunate children for lifesaving surgery. The unfortunate majority are sent home to reappear for the same evaluation at the next mission; only this time, their chances are much worse because the "word" has spread, and there is a larger patient pool to select the dozen from.
+
+##### How would you choose 10 children from this lot for lifesaving heart surgery? Suppose your criteria were to select 10 of the sickest who were expected to have a safe and fast recovery after their operation and a meaningful, productive life after that. Would you have chosen fairly and equitably? It has been argued that when faced with allocation of very scarce medical interventions, three values should be given priority:
+- (1) Treat patients who are the worst off—sickest first, youngest first;
+- (2) Treat patients equally—give everyone a fair chance of getting selected, and select based on first-come, first-served; and
+- (3) Promote utility by maximizing total benefits—save the most lives with the most life-years.
+
+**Credit and disclosure.** In most missions, the visiting and hosting teams see parents and patients together in a joint effort toward obtaining informed consent. But ethical issues have arisen relating to outcomes, both positive and negative. For example, how is credit apportioned between the visiting and hosting teams for the mission's success? And when adverse outcomes are encountered if the child does not survive the operation or a medical error occurs—who bears responsibility for the disclosure? Visiting teams are often portrayed as the "experts" who have come to "save" the children. This inadvertent misrepresentation adversely affects patient confidence in the host country's providers, it creates significant ethical problems when disclosing errors or other adverse outcomes to parents.
+
+##### For example, there was hot debate on the ethics of disclosure in one sub-Saharan residency program journal club discussion over a reported accidental ligation of the aorta when it was mistaken for the equally large patent ductus arteriosus during a surgical mission. Although participants commended the honest reporting and recognized that any surgeon could make the error, the dynamics of the envisaged disclosure meeting were the major issue of contention. Although none of the debate participants had firsthand knowledge of the case, some argued "don't lie, but don't tell the whole truth"; on the basis that if this is a nascent pediatric cardiac program, full disclosure will needlessly destroy the confidence of patients and public goodwill for the program. Others countered that this approach would be abusing the therapeutic privilege, but then "if the program has been marketed as visiting experts passing on skills for potentially developing a local and independent program, who should lead the disclosure encounter with the parents?" Presumably, the host team has better cultural awareness. It is thus probably better positioned to deliver the news, but how would it align the news with the expectation of parents who have waited 2 long years to get a chance at corrective surgery by the experts?
+
+**Inadequate Follow-Up.** Inadequate patient follow-up causes harm and violates the principle of nonmaleficence. Teams that visit on a short-term basis typically stay 1 or 2 weeks. How does one navigate postoperative management of complications when the visiting team departs and leaves a local team not yet capable of independent follow-up care? Some aspects of postoperative management can be sorted by long-distance communication between the local and visiting teams after their departure, provided the patients maintain contact with the host team for follow-up. But what happens to other children whose parents cannot afford regular follow-up at the host institution for financial reasons or because they live so far away? It is noted that complications are often attributable to insufficient screening of patients or inadequate follow-up, and local physicians who can offer preoperative insight and postoperative continuity are essential to the continued success of the missions.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Education and Training</summary><div class="details-content">
+
+##### Local teams receiving missions from abroad consider benefits not only in terms of what accrues to patients in terms of survival and quality of life but also capacity development and sustainability of the service between missions. Out of frustration, failure to develop local capacity has led some host country teams to label these humanitarian efforts as "surgical safaris." For such local teams, the ethical principle of beneficence seems to have been violated, at least regarding skills transfer. Such failure may result from several factors (alone or in combination): lack of a structured educational component for transferring knowledge and/or skills, unavailable resources needed to readily and consistently implement skills taught, visiting team unfamiliarity with advanced disease in the host country, insufficient number of patients to permit active, hands-on participation of host team, and others. Ethical conflicts have arisen from debates regarding how long a missions program should continue when no clear capacitybuilding strategy is demonstrable. It is generally accepted that there is the need to create mutually agreeable exit (transition) plans before even commencing a partnership.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Research</summary><div class="details-content">
+
+##### Research activities arising from humanitarian surgical missions may either fail to involve host team members or may not sufficiently credit host team members in publications. Outcomes are frequently reported with little emphasis on the role of the local team or their previous efforts at providing care in a resource-limited environment. The focus of reports instead tends to center on "success" stories that state or imply that no treatment was otherwise available. This is not in keeping with respect for the contribution of others. Research inequity already exists and is demonstrable by the general under-representation of developing countries in the research literature. Meanwhile, a small but significant number of articles with data from the developing world are without a single author from these countries, a finding that some refer to as "safari research."
+
+##### Inadequacies in follow-up care also create ethical issues with research in low-resource settings. Humanitarian surgical missions may fail to monitor and study postoperative complications and surgical outcomes for ongoing quality and process improvement. This makes it extremely difficult for the evaluation of long-term outcomes and program objectives to inform policy.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Conclusions</summary><div class="details-content">
+
+##### In many parts of the developing world, if you were born today with CHD, your chance of survival into adulthood is slightly better than in the presurgical era when no correction was available worldwide. The majority of the roughly 1.3 million children born worldwide each year with CHD are in low-resource settings where the staffing and infrastructure to treat them are scarce, leaving 90% of affected infants without access to treatment. Health policy is a fundamental requirement for improving the survival of children born with CHD in any nation, especially in a low-resource setting. Yet congenital heart surgery is poorly represented in current national health plans of many low-resource economies.
+
+##### The approach by cardiac surgeons toward CHD care in lowresource settings has focused more on the institutional and technical dimensions of the problem, such as hands-on training and technical competence, surgical outcomes, refinement of surgical techniques, and choosing the most effective surgical interventions. Cardiac surgeons have traditionally been far less active in health policy and health systems change. The CHD care provider community needs to transform its moral and technical authority into political power to motivate policymakers into action. A paradigm shift is needed to get congenital heart surgery recognized as an essential service around the world!
+
+##### This paradigm shift will hopefully be accelerated by professional organizations, such as the World Society for Pediatric and Congenital Heart Surgery and the recently established African Society for Pediatric and Congenital Heart Surgery.
+
+</div></details>
