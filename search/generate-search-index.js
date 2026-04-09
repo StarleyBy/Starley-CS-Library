@@ -190,6 +190,8 @@ async function generateSearchIndex() {
                         id: `${bookId}|${chapterBaseName}|${editionKey}`,
                         b: bookId,
                         c: chapterBaseName,
+                        ct: chapter.title,
+                        bt: bookMetadata.title,
                         e: editionKey,
                         l: language,
                         len: plainText.length,

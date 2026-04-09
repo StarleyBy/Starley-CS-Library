@@ -185,6 +185,104 @@
     gap: 0.5rem;
 }
 
+/* ==================== BOOK GROUPS ==================== */
+
+.book-group {
+    background: white;
+    border: 2px solid var(--border-color);
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+
+.book-group:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    border-color: var(--secondary-color);
+}
+
+.book-group-header {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.book-title {
+    margin: 0 0 0.5rem 0;
+    color: var(--primary-color);
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.book-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    font-size: 0.9rem;
+}
+
+.chapter-count,
+.book-meta .result-score {
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    background: #e3f2fd;
+    color: #1976d2;
+    font-weight: 600;
+}
+
+.chapter-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.chapter-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.8rem 1rem;
+    background: #f9f9f9;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    border-left: 3px solid transparent;
+}
+
+.chapter-item:hover {
+    background: #f0f7ff;
+    border-left-color: var(--secondary-color);
+    transform: translateX(5px);
+}
+
+.chapter-title-link {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+    flex-grow: 1;
+}
+
+.chapter-score {
+    font-size: 0.85rem;
+    color: #856404;
+}
+
+.more-chapters {
+    text-align: center;
+    padding: 0.8rem;
+    color: #999;
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+.book-group-snippet {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+}
+
 /* ==================== BUTTONS ==================== */
 
 .button {

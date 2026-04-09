@@ -248,8 +248,11 @@ document.addEventListener('DOMContentLoaded', () => {
             const searchResult = searchDocument(query, doc);
             if (searchResult) {
                 scoredResults.push({
+                    docId: doc.id,
                     bookId: doc.b,
                     chapterId: doc.c,
+                    chapterTitle: doc.ct || doc.c,
+                    bookTitle: doc.bt || doc.b,
                     edition: doc.e,
                     language: doc.l,
                     contentLength: doc.len,
@@ -266,16 +269,40 @@ document.addEventListener('DOMContentLoaded', () => {
         const endTime = performance.now();
         const searchTime = ((endTime - startTime) / 1000).toFixed(2);
 
+        // Группируем по книгам для лучшей навигации
+        const groupedResults = groupResultsByBook(scoredResults);
+
         // Отображаем результаты
-        displayResults(scoredResults, searchTime);
+        displayResults(groupedResults, scoredResults.length, searchTime);
     }
 
     // ==================== DISPLAY RESULTS ====================
 
-    function displayResults(results, searchTime) {
+    function groupResultsByBook(results) {
+        const bookMap = new Map();
+        
+        for (const result of results) {
+            if (!bookMap.has(result.bookId)) {
+                bookMap.set(result.bookId, {
+                    bookId: result.bookId,
+                    bookTitle: result.bookTitle,
+                    language: result.language,
+                    edition: result.edition,
+                    chapters: [],
+                    bestScore: result.score
+                });
+            }
+            bookMap.get(result.bookId).chapters.push(result);
+        }
+        
+        // Конвертируем в массив и сортируем по лучшему score в каждой книге
+        return Array.from(bookMap.values()).sort((a, b) => b.bestScore - a.bestScore);
+    }
+
+    function displayResults(groupedResults, totalResults, searchTime) {
         resultsContainer.innerHTML = '';
         
-        if (results.length === 0) {
+        if (totalResults === 0 || groupedResults.length === 0) {
             resultsContainer.innerHTML = `
                 <div class="no-results">
                     <strong>No results found</strong><br>
@@ -287,17 +314,21 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        const totalPages = Math.ceil(results.length / RESULTS_PER_PAGE);
+        const totalPages = Math.ceil(totalResults / RESULTS_PER_PAGE);
         const startIdx = (currentPage - 1) * RESULTS_PER_PAGE;
-        const endIdx = Math.min(startIdx + RESULTS_PER_PAGE, results.length);
-        const pageResults = results.slice(startIdx, endIdx);
+        const endIdx = Math.min(startIdx + RESULTS_PER_PAGE, totalResults);
 
-        resultsInfo.textContent = `Found ${results.length} results in ${searchTime}s (showing ${startIdx + 1}-${endIdx})`;
+        resultsInfo.textContent = `Found ${totalResults} results in ${searchTime}s (showing ${startIdx + 1}-${endIdx})`;
 
-        pageResults.forEach(result => {
-            const resultItem = createResultItem(result);
-            resultsContainer.appendChild(resultItem);
-        });
+        // Показываем книги с их главами
+        let displayedCount = 0;
+        for (const bookGroup of groupedResults) {
+            if (displayedCount >= RESULTS_PER_PAGE) break;
+            
+            const bookItem = createBookGroupItem(bookGroup);
+            resultsContainer.appendChild(bookItem);
+            displayedCount += bookGroup.chapters.length;
+        }
 
         renderPagination(totalPages);
     }
@@ -305,7 +336,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function createResultItem(result) {
         const resultItem = document.createElement('div');
         resultItem.className = 'result-item';
-        resultItem.dataset.docId = result.id;
+        resultItem.dataset.docId = result.docId;
         resultItem.dataset.bookId = result.bookId;
         resultItem.dataset.chapterId = result.chapterId;
         resultItem.dataset.edition = result.edition;
@@ -325,7 +356,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="result-score">⭐ ${result.score.toFixed(1)}</span>
                 </div>
             </div>
-            <div class="result-snippets" id="snippets-${result.id}">
+            <div class="result-snippets" id="snippets-${result.docId}">
                 <div class="loading-snippet">Loading snippets...</div>
             </div>
             <div class="result-footer">
@@ -340,21 +371,19 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function loadSnippets(result) {
-        const container = document.getElementById(`snippets-${result.id}`);
+        const container = document.getElementById(`snippets-${result.docId}`);
         if (!container) return;
 
-        const doc = result;
-        const editionSuffix = EDITION_SUFFIX_MAP[doc.edition] || '.md';
-        const markdownPath = `../${doc.bookId}/chapters/${doc.chapterId}/${doc.chapterId}${editionSuffix}`;
+        const editionSuffix = EDITION_SUFFIX_MAP[result.edition] || '.md';
+        const markdownPath = `../${result.bookId}/chapters/${result.chapterId}/${result.chapterId}${editionSuffix}`;
 
         try {
-            // Проверяем кэш
-            let content = contentCache[doc.id];
+            let content = contentCache[result.docId];
             if (!content) {
                 const response = await fetch(markdownPath);
                 if (!response.ok) throw new Error('Failed to load');
                 content = await response.text();
-                contentCache[doc.id] = content;
+                contentCache[result.docId] = content;
             }
 
             const snippets = extractSnippets(content, result, currentQuery);
@@ -362,6 +391,68 @@ document.addEventListener('DOMContentLoaded', () => {
         } catch (error) {
             container.innerHTML = '<div class="error">Could not load snippets</div>';
         }
+    }
+
+    function createBookGroupItem(bookGroup) {
+        const bookItem = document.createElement('div');
+        bookItem.className = 'book-group';
+        
+        const bestChapter = bookGroup.chapters[0];
+        const chapterCount = bookGroup.chapters.length;
+        
+        bookItem.innerHTML = `
+            <div class="book-group-header">
+                <h3 class="book-title">📚 ${bookGroup.bookTitle}</h3>
+                <div class="book-meta">
+                    <span class="chapter-count">📄 ${chapterCount} chapter${chapterCount > 1 ? 's' : ''}</span>
+                    <span class="result-score">⭐ ${bookGroup.bestScore.toFixed(1)}</span>
+                </div>
+            </div>
+            <div class="chapter-list">
+                ${bookGroup.chapters.slice(0, 5).map(ch => `
+                    <div class="chapter-item" 
+                         data-doc-id="${ch.docId}"
+                         data-book-id="${ch.bookId}"
+                         data-chapter-id="${ch.chapterId}"
+                         data-edition="${ch.edition}"
+                         data-book-title="${ch.bookTitle}"
+                         data-chapter-title="${ch.chapterTitle}">
+                        <span class="chapter-title-link">${ch.chapterTitle}</span>
+                        <span class="chapter-score">⭐ ${ch.score.toFixed(1)}</span>
+                    </div>
+                `).join('')}
+                ${bookGroup.chapters.length > 5 ? `<div class="more-chapters">+${bookGroup.chapters.length - 5} more chapters...</div>` : ''}
+            </div>
+            <div class="book-group-snippet"></div>
+        `;
+
+        // Загружаем сниппеты для лучшей главы
+        if (bookGroup.chapters.length > 0) {
+            loadSnippetsForBookGroup(bookItem, bestChapter);
+        }
+
+        return bookItem;
+    }
+
+    function loadSnippetsForBookGroup(container, result) {
+        const editionSuffix = EDITION_SUFFIX_MAP[result.edition] || '.md';
+        const markdownPath = `../${result.bookId}/chapters/${result.chapterId}/${result.chapterId}${editionSuffix}`;
+
+        fetch(markdownPath)
+            .then(res => res.text())
+            .then(content => {
+                const snippets = extractSnippets(content, result, currentQuery);
+                const snippetContainer = container.querySelector('.book-group-snippet');
+                if (snippetContainer) {
+                    snippetContainer.innerHTML = snippets;
+                }
+            })
+            .catch(() => {
+                const snippetContainer = container.querySelector('.book-group-snippet');
+                if (snippetContainer) {
+                    snippetContainer.innerHTML = '<div class="error">Could not load preview</div>';
+                }
+            });
     }
 
     function extractSnippets(fullMarkdown, result, query) {
@@ -545,6 +636,12 @@ document.addEventListener('DOMContentLoaded', () => {
             if (resultItem) {
                 openModal(resultItem.dataset, currentQuery);
             }
+        }
+        
+        // Chapter item в book group
+        if (e.target.closest('.chapter-item')) {
+            const chapterItem = e.target.closest('.chapter-item');
+            openModal(chapterItem.dataset, currentQuery);
         }
         
         // Click on result item itself
