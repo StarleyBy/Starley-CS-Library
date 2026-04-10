@@ -291,6 +291,36 @@
     color: #856404;
 }
 
+.chapter-score.phrase-match {
+    color: #28a745;
+    font-weight: 700;
+}
+
+.phrase-badge {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-left: 0.5rem;
+    text-transform: uppercase;
+}
+
+.phrase-badge.exact {
+    background: #28a745;
+    color: white;
+}
+
+.phrase-badge.proximity {
+    background: #17a2b8;
+    color: white;
+}
+
+.phrase-badge.ordered {
+    background: #ffc107;
+    color: #333;
+}
+
 .more-chapters {
     text-align: center;
     padding: 0.8rem;

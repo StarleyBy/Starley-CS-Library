@@ -234,11 +234,96 @@ document.addEventListener('DOMContentLoaded', () => {
         return {
             score: Math.round(score * 10) / 10,
             matchedTerms,
-            totalOccurrences: sumOccurrences
+            totalOccurrences: sumOccurrences,
+            hasAllTerms: matchedTerms.length === queryTerms.length
         };
     }
 
-    function performSearch(query, resetPage = true) {
+    // Проверяет наличие точной фразы в тексте и возвращает бонус
+    function checkPhraseInText(text, query) {
+        const lowerText = text.toLowerCase();
+        const lowerQuery = query.toLowerCase().trim();
+        
+        // Проверяем точную фразу
+        if (lowerText.includes(lowerQuery)) {
+            return { bonus: 500, type: 'exact' }; // Огромный бонус за точную фразу!
+        }
+        
+        // Проверяем близость слов (слова в пределах 8 слов друг от друга)
+        const terms = tokenizeQuery(query);
+        if (terms.length < 2) return { bonus: 0, type: 'none' };
+        
+        // Создаем regex для проверки близости слов
+        const escapedTerms = terms.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'));
+        const proximityRegex = new RegExp(
+            escapedTerms.join('\\s+(?:\\w+\\s+){0,8}'),
+            'i'
+        );
+        
+        if (proximityRegex.test(lowerText)) {
+            return { bonus: 300, type: 'proximity' }; // Большой бонус за близкое расположение
+        }
+        
+        // Проверяем порядок слов (не обязательно рядом)
+        let lastIndex = -1;
+        let allInOrder = true;
+        for (const term of terms) {
+            const index = lowerText.indexOf(term, lastIndex + 1);
+            if (index === -1 || index < lastIndex) {
+                allInOrder = false;
+                break;
+            }
+            lastIndex = index;
+        }
+        
+        if (allInOrder && terms.length >= 2) {
+            return { bonus: 150, type: 'ordered' }; // Бонус за правильный порядок
+        }
+        
+        return { bonus: 0, type: 'none' };
+    }
+
+    async function enhanceResultsWithPhraseSearch(results, query) {
+        // Для топ-50 результатов проверяем точные фразы
+        const topResults = results.slice(0, 50);
+        const enhancements = new Map();
+        
+        await Promise.all(topResults.map(async (result, index) => {
+            const editionSuffix = EDITION_SUFFIX_MAP[result.edition] || '.md';
+            const markdownPath = `../${result.bookId}/chapters/${result.chapterId}/${result.chapterId}${editionSuffix}`;
+            
+            try {
+                let content = contentCache[result.docId];
+                if (!content) {
+                    const response = await fetch(markdownPath);
+                    if (!response.ok) return;
+                    content = await response.text();
+                    contentCache[result.docId] = content;
+                }
+                
+                const phraseResult = checkPhraseInText(content, query);
+                if (phraseResult.bonus > 0) {
+                    enhancements.set(result.docId, {
+                        bonus: phraseResult.bonus,
+                        type: phraseResult.type,
+                        originalScore: result.score
+                    });
+                    result.score = Math.round((result.score + phraseResult.bonus) * 10) / 10;
+                    result.phraseMatch = phraseResult.type === 'exact' || phraseResult.type === 'proximity';
+                    result.phraseType = phraseResult.type;
+                }
+            } catch (error) {
+                // Игнорируем ошибки загрузки
+            }
+        }));
+        
+        // Пересортировываем результаты с учетом бонусов
+        results.sort((a, b) => b.score - a.score);
+        
+        return results;
+    }
+
+    async function performSearch(query, resetPage = true) {
         if (!searchIndex) return;
 
         if (resetPage) {
@@ -286,9 +371,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // Сортируем по релевантности (score)
+        // Сортируем по начальному score
         scoredResults.sort((a, b) => b.score - a.score);
         currentResults = scoredResults;
+
+        // Улучшаем результаты фразовым поиском (если запрос содержит 2+ слов)
+        if (tokens.length >= 2) {
+            showLoading('Checking phrase matches...');
+            await enhanceResultsWithPhraseSearch(scoredResults, query);
+            hideLoading();
+        }
 
         const endTime = performance.now();
         const searchTime = ((endTime - startTime) / 1000).toFixed(2);
@@ -392,7 +484,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     <span class="result-book">📚 ${result.bookTitle}</span>
                     ${categoryInfo ? `<span class="result-category">${categoryInfo.title}</span>` : ''}
                     <span class="result-edition">🏷️ ${result.edition}</span>
-                    <span class="result-score">⭐ ${result.score.toFixed(1)}</span>
+                    ${result.phraseType ? createPhraseBadge(result.phraseType) : ''}
+                    <span class="result-score ${result.phraseMatch ? 'phrase-match' : ''}">⭐ ${result.score.toFixed(1)}</span>
                 </div>
             </div>
             <div class="result-snippets" id="snippets-${result.docId}">
@@ -432,20 +525,45 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function createPhraseBadge(phraseType) {
+        if (!phraseType || phraseType === 'none') return '';
+        
+        const badges = {
+            'exact': '<span class="phrase-badge exact">✓ Exact Phrase</span>',
+            'proximity': '<span class="phrase-badge proximity">✓ Near Phrase</span>',
+            'ordered': '<span class="phrase-badge ordered">✓ In Order</span>'
+        };
+        
+        return badges[phraseType] || '';
+    }
+
+    function getPhraseSymbol(phraseType) {
+        const symbols = {
+            'exact': '🎯',
+            'proximity': '📍',
+            'ordered': '➡️'
+        };
+        return symbols[phraseType] || '';
+    }
+
     function createBookGroupItem(bookGroup) {
         const bookItem = document.createElement('div');
         bookItem.className = 'book-group';
         
         const bestChapter = bookGroup.chapters[0];
         const chapterCount = bookGroup.chapters.length;
-        const maxVisibleChapters = 3; // Показываем максимум 3 главы на книгу
+        const maxVisibleChapters = 3;
+        
+        // Проверяем есть ли фразовые совпадения
+        const hasPhraseMatch = bookGroup.chapters.some(ch => ch.phraseMatch);
         
         bookItem.innerHTML = `
             <div class="book-group-header">
                 <h3 class="book-title">📚 ${bookGroup.bookTitle}</h3>
                 <div class="book-meta">
                     <span class="chapter-count">📄 ${chapterCount} chapter${chapterCount > 1 ? 's' : ''} matched</span>
-                    <span class="result-score">⭐ ${bookGroup.bestScore.toFixed(1)}</span>
+                    ${hasPhraseMatch ? createPhraseBadge(bestChapter.phraseType) : ''}
+                    <span class="result-score ${hasPhraseMatch ? 'phrase-match' : ''}">⭐ ${bookGroup.bestScore.toFixed(1)}</span>
                 </div>
             </div>
             <div class="chapter-list">
@@ -458,7 +576,10 @@ document.addEventListener('DOMContentLoaded', () => {
                          data-book-title="${ch.bookTitle}"
                          data-chapter-title="${ch.chapterTitle}">
                         <span class="chapter-title-link">${ch.chapterTitle}</span>
-                        <span class="chapter-score">⭐ ${ch.score.toFixed(1)}</span>
+                        <span class="chapter-score ${ch.phraseMatch ? 'phrase-match' : ''}">
+                            ⭐ ${ch.score.toFixed(1)}
+                            ${ch.phraseType ? getPhraseSymbol(ch.phraseType) : ''}
+                        </span>
                     </div>
                 `).join('')}
                 ${chapterCount > maxVisibleChapters ? `<div class="more-chapters">+${chapterCount - maxVisibleChapters} more chapters in this book...</div>` : ''}
