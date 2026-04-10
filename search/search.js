@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const RESULTS_PER_PAGE = 20;
     let currentQuery = '';
     let contentCache = {};
+    let viewMode = 'book'; // 'book' или 'all'
 
     const EDITION_SUFFIX_MAP = {
         'original': '.md',
@@ -159,6 +160,29 @@ document.addEventListener('DOMContentLoaded', () => {
     filterLanguage.addEventListener('change', applyFilters);
     filterCategory.addEventListener('change', applyFilters);
 
+    // View mode toggle
+    const viewToggle = document.getElementById('viewToggle');
+    const viewByBookBtn = document.getElementById('viewByBook');
+    const viewAllBtn = document.getElementById('viewAll');
+
+    viewByBookBtn.addEventListener('click', () => {
+        viewMode = 'book';
+        viewByBookBtn.classList.add('active');
+        viewAllBtn.classList.remove('active');
+        if (currentQuery) {
+            performSearch(currentQuery, false);
+        }
+    });
+
+    viewAllBtn.addEventListener('click', () => {
+        viewMode = 'all';
+        viewAllBtn.classList.add('active');
+        viewByBookBtn.classList.remove('active');
+        if (currentQuery) {
+            performSearch(currentQuery, false);
+        }
+    });
+
     // ==================== SEARCH ALGORITHM ====================
 
     function searchDocument(query, doc) {
@@ -269,11 +293,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const endTime = performance.now();
         const searchTime = ((endTime - startTime) / 1000).toFixed(2);
 
-        // Группируем по книгам для лучшей навигации
-        const groupedResults = groupResultsByBook(scoredResults);
-
-        // Отображаем результаты
-        displayResults(groupedResults, scoredResults.length, searchTime);
+        // Отображаем результаты в зависимости от режима
+        if (viewMode === 'book') {
+            const groupedResults = groupResultsByBook(scoredResults);
+            displayResults(groupedResults, scoredResults.length, searchTime, 'book');
+        } else {
+            displayResults(scoredResults, scoredResults.length, searchTime, 'all');
+        }
     }
 
     // ==================== DISPLAY RESULTS ====================
@@ -299,10 +325,10 @@ document.addEventListener('DOMContentLoaded', () => {
         return Array.from(bookMap.values()).sort((a, b) => b.bestScore - a.bestScore);
     }
 
-    function displayResults(groupedResults, totalResults, searchTime) {
+    function displayResults(results, totalResults, searchTime, mode) {
         resultsContainer.innerHTML = '';
         
-        if (totalResults === 0 || groupedResults.length === 0) {
+        if (totalResults === 0 || results.length === 0) {
             resultsContainer.innerHTML = `
                 <div class="no-results">
                     <strong>No results found</strong><br>
@@ -311,8 +337,12 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             resultsInfo.textContent = '0 results';
             paginationContainer.innerHTML = '';
+            viewToggle.style.display = 'none';
             return;
         }
+
+        // Показываем toggle только если есть результаты
+        viewToggle.style.display = 'flex';
 
         const totalPages = Math.ceil(totalResults / RESULTS_PER_PAGE);
         const startIdx = (currentPage - 1) * RESULTS_PER_PAGE;
@@ -320,14 +350,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
         resultsInfo.textContent = `Found ${totalResults} results in ${searchTime}s (showing ${startIdx + 1}-${endIdx})`;
 
-        // Показываем книги с их главами
-        let displayedCount = 0;
-        for (const bookGroup of groupedResults) {
-            if (displayedCount >= RESULTS_PER_PAGE) break;
-            
-            const bookItem = createBookGroupItem(bookGroup);
-            resultsContainer.appendChild(bookItem);
-            displayedCount += bookGroup.chapters.length;
+        if (mode === 'book') {
+            // Режим: группировка по книгам
+            let displayedCount = 0;
+            for (const bookGroup of results) {
+                if (displayedCount >= RESULTS_PER_PAGE) break;
+                
+                const bookItem = createBookGroupItem(bookGroup);
+                resultsContainer.appendChild(bookItem);
+                displayedCount++;
+            }
+        } else {
+            // Режим: все результаты подряд
+            const pageResults = results.slice(startIdx, endIdx);
+            pageResults.forEach(result => {
+                const resultItem = createResultItem(result);
+                resultsContainer.appendChild(resultItem);
+            });
         }
 
         renderPagination(totalPages);
@@ -399,17 +438,18 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const bestChapter = bookGroup.chapters[0];
         const chapterCount = bookGroup.chapters.length;
+        const maxVisibleChapters = 3; // Показываем максимум 3 главы на книгу
         
         bookItem.innerHTML = `
             <div class="book-group-header">
                 <h3 class="book-title">📚 ${bookGroup.bookTitle}</h3>
                 <div class="book-meta">
-                    <span class="chapter-count">📄 ${chapterCount} chapter${chapterCount > 1 ? 's' : ''}</span>
+                    <span class="chapter-count">📄 ${chapterCount} chapter${chapterCount > 1 ? 's' : ''} matched</span>
                     <span class="result-score">⭐ ${bookGroup.bestScore.toFixed(1)}</span>
                 </div>
             </div>
             <div class="chapter-list">
-                ${bookGroup.chapters.slice(0, 5).map(ch => `
+                ${bookGroup.chapters.slice(0, maxVisibleChapters).map(ch => `
                     <div class="chapter-item" 
                          data-doc-id="${ch.docId}"
                          data-book-id="${ch.bookId}"
@@ -421,7 +461,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="chapter-score">⭐ ${ch.score.toFixed(1)}</span>
                     </div>
                 `).join('')}
-                ${bookGroup.chapters.length > 5 ? `<div class="more-chapters">+${bookGroup.chapters.length - 5} more chapters...</div>` : ''}
+                ${chapterCount > maxVisibleChapters ? `<div class="more-chapters">+${chapterCount - maxVisibleChapters} more chapters in this book...</div>` : ''}
             </div>
             <div class="book-group-snippet"></div>
         `;
@@ -648,6 +688,21 @@ document.addEventListener('DOMContentLoaded', () => {
         const resultItem = e.target.closest('.result-item');
         if (resultItem && !e.target.classList.contains('button')) {
             openModal(resultItem.dataset, currentQuery);
+        }
+    });
+
+    // Добавляем обработчик для chapter-item с делегированием
+    resultsContainer.addEventListener('click', (e) => {
+        const chapterItem = e.target.closest('.chapter-item');
+        if (chapterItem) {
+            openModal({
+                docId: chapterItem.dataset.docId,
+                bookId: chapterItem.dataset.bookId,
+                chapterId: chapterItem.dataset.chapterId,
+                edition: chapterItem.dataset.edition,
+                bookTitle: chapterItem.dataset.bookTitle,
+                chapterTitle: chapterItem.dataset.chapterTitle
+            }, currentQuery);
         }
     });
 

@@ -87,7 +87,29 @@
     color: #666;
     font-size: 0.95rem;
     border-bottom: 1px solid var(--border-color);
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.view-toggle {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    width: fit-content;
+}
+
+.view-toggle .button {
+    opacity: 0.6;
+    transition: all 0.2s;
+}
+
+.view-toggle .button.active {
+    opacity: 1;
+    background: var(--secondary-color);
+    color: white;
+    border-color: var(--secondary-color);
 }
 
 /* ==================== RESULT ITEMS ==================== */
