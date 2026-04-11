@@ -2,7 +2,7 @@
 
 <details class="med-details"><summary>
 
-## Executive Summary</summary><div class="details-content">
+## Краткое содержание</summary><div class="details-content">
 
 ### Аномалии системных вен
 
