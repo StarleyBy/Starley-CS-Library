@@ -1,6 +1,9 @@
-# Executive Summaries: Bojar - ICU
+# Executive Summaries:  MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD
 
-## Chapter 1: Synopsis of Adult Cardiac Surgical Disease
+<details>
+<summary>
+
+## Chapter 1: Synopsis of Adult Cardiac Surgical Disease</summary>
 
 ### Coronary Artery Disease
 *   **SIHD Management:** Optimal medical therapy first; PCI for symptom relief; CABG improves survival in left main disease, three-vessel disease, and diabetes. SYNTAX score (0–22 low risk, 23–32 intermediate, >32 high) guides revascularization choice.
@@ -42,9 +45,14 @@
 ### Advanced Heart Failure
 *   CABG for ischemic cardiomyopathy with viable myocardium. CRT for EF ≤35%, QRS >150 ms. ICD for EF ≤35%. LVAD or transplant for Stage D.
 
+</details>
+
 ---
 
-## Chapter 2: Diagnostic Techniques in Cardiac Surgery
+<details>
+<summary>
+
+## Chapter 2: Diagnostic Techniques in Cardiac Surgery</summary>
 
 ### Chest Radiography
 - **PA and lateral chest x-ray** is mandatory before cardiac surgery. It confirms the clinical diagnosis (LV enlargement in volume overload, LVH in AS/hypertension, enlarged cardiac silhouette in pericardial effusion, large left atrium in MS, wide mediastinum in aortic dissection/aneurysm) and identifies additional pathology (pulmonary disease, pleural effusions, prior surgical changes).
@@ -100,9 +108,14 @@
 - **CT scanning:** Primary for aortic disease. Indications: aortic dissection (type A/B), aortic size assessment (centerline analysis for true diameter), ascending aortic calcification (noncontrast), reoperative planning (RV/aorta/graft proximity to sternum), iliofemoral evaluation pre-TAVR (size, calcification, tortuosity), retroperitoneal hematoma, pericardial/pleural effusions, intracardiac masses.
 - **CMR:** Most sensitive/specific for aortic dissection. **Late gadolinium enhancement (LGE)** patterns differentiate ischemic (subendocardial/transmural) from nonischemic cardiomyopathies (midwall, epicardial). **MRA** with gadolinium defines aortic arch aneurysms. **Cine CMR** differentiates blood from tissue for ventricular function, valvular pathology, masses. Distinguishes restrictive from constrictive pericarditis.
 
+</details>
+
 ---
 
-## Chapter 3: General Preoperative Considerations and Preparation of the Patient for Surgery
+<details>
+<summary>
+
+## Chapter 3: General Preoperative Considerations and Preparation of the Patient for Surgery</summary>
 
 ### Preoperative Evaluation Overview
 - **Comprehensive assessment** of medical condition and comorbidities is essential before cardiac surgery. The **STS risk calculator** (www.sts.org) provides predicted operative mortality (PROM) and risks of major complications (re-exploration, stroke, prolonged ventilation, renal failure). **EuroSCORE II** is used in other countries.
@@ -160,9 +173,14 @@
   - Re-exploration for bleeding: 13%
   - Deep sternal infection: 11%
 
+</details>
+
 ---
 
-## Chapter 4: Cardiac Anesthesia
+<details>
+<summary>
+
+## Chapter 4: Cardiac Anesthesia</summary>
 
 ### Preoperative Visit and Medication Management
 - **Preoperative evaluation** by anesthesiologist includes history (cardiac symptoms, comorbidities, prior anesthesia), examination (Mallampati score, thyromental distance, neck mobility), and medication review.
@@ -230,9 +248,14 @@
 - **Point-of-care testing:** Thromboelastography (TEG) or rotational thromboelastometry (ROTEM) guide targeted therapy.
 - **Transfusion triggers:** Platelets for antiplatelet drugs; FFP for warfarin/hepatic dysfunction; cryoprecipitate for low fibrinogen; prothrombin complex concentrate (PCC) for rapid reversal.
 
+</details>
+
 ---
 
-## Chapter 5: Cardiopulmonary Bypass
+<details>
+<summary>
+
+## Chapter 5: Cardiopulmonary Bypass</summary>
 
 ### General Concepts
 - **CPB** provides systemic perfusion of oxygenated blood when the heart and lungs are not functional. It involves normovolemic hemodilution and nonpulsatile flow.
@@ -297,9 +320,14 @@
 - **Complications:** bleeding (maintain ACT >180 sec), renal failure (50%), LV distention (consider venting or Impella), Harlequin syndrome (differential oxygenation on VA ECMO).
 - **Prognosis:** 30-day survival 50–70% for ARDS, 20–35% for postcardiotomy shock/cardiac arrest.
 
+</details>
+
 ---
 
-## Chapter 6: Myocardial Protection
+<details>
+<summary>
+
+## Chapter 6: Myocardial Protection</summary>
 
 ### Principles of Myocardial Protection
 - **Ischemic arrest** without protection → irreversible damage after 15–20 minutes due to anaerobic metabolism, ATP depletion, lactate accumulation, and intracellular calcium overload.
@@ -359,9 +387,14 @@
   6. For valve cases after initial antegrade: continuous warm RCP or intermittent cold RCP
 - **Del Nido:** single dose for clamp <90 min; redose 10 mL/kg after 45–90 min if longer clamp anticipated
 
+</details>
+
 ---
 
-## Chapter 7: Admission to the ICU and Monitoring Techniques
+<details>
+<summary>
+
+## Chapter 7: Admission to the ICU and Monitoring Techniques</summary>
 
 ### Admission to the ICU
 - **Safe transfer** from OR to ICU requires coordinated handoff, battery-powered infusion pumps, transport monitor displaying ECG, arterial pressure, and SpO₂.
@@ -393,9 +426,14 @@
 - **Chest tubes:** when drainage <100 mL/8h; remove off suction
 - **Foley:** POD#2; earlier if no longer needed
 
+</details>
+
 ---
 
-## Chapter 8: Early Postoperative Care
+<details>
+<summary>
+
+## Chapter 8: Early Postoperative Care</summary>
 
 ### Basic Features of Early Postoperative Period
 - **Early extubation** (within 6 hours) is feasible in most patients using short-acting anesthetics (remifentanil, sevoflurane) and sedation (propofol, dexmedetomidine). Criteria: hemodynamic stability, normothermia, minimal bleeding, adequate gas exchange.
@@ -444,9 +482,14 @@
 | **Mechanical mitral** | Warfarin INR 3.0 + aspirin; heparin bridge |
 | **Mitral repair ring** | VKA for 3 months per guidelines; aspirin may be sufficient |
 
+</details>
+
 ---
 
-## Chapter 9: Mediastinal Bleeding
+<details>
+<summary>
+
+## Chapter 9: Mediastinal Bleeding</summary>
 
 ### Overview
 - **CPB** causes significant coagulation disruption: hemodilution, platelet activation, coagulation cascade activation, fibrinolysis. Heparin alone induces platelet dysfunction and fibrinolysis.
@@ -534,9 +577,14 @@
 - **Internal massage:** compress between both hands; avoid avulsing LITA to LAD
 - **Stabilize in ICU before OR transfer if possible**
 
+</details>
+
 ---
 
-## Chapter 10: Respiratory Management
+<details>
+<summary>
+
+## Chapter 10: Respiratory Management</summary>
 
 ### General Principles
 - **Early extubation** (within 4–6 hours) is desirable and safe in most patients, reducing pulmonary complications, ICU stay, and costs. OR extubation is feasible in low-risk patients.
@@ -600,9 +648,14 @@
 - **Chylothorax:** rare; milky fluid with triglycerides >110 mg/dL. Conservative treatment: fat-free diet, octreotide; refractory cases require thoracic duct ligation.
 - **Bronchospasm:** treat with albuterol ± ipratroprium; steroids for refractory cases. β-blockers generally safe in COPD patients.
 
+</details>
+
 ---
 
-## Chapter 11: Cardiovascular Management
+<details>
+<summary>
+
+## Chapter 11: Cardiovascular Management</summary>
 
 ### Hemodynamic Principles
 - **Cardiac Output (CO)** is determined by stroke volume and heart rate. Stroke volume depends on three major factors: **preload** (LV end-diastolic volume, approximated by filling pressures), **afterload** (systemic vascular resistance, SVR), and **contractility** (intrinsic strength of contraction).
@@ -672,9 +725,14 @@
 - **Class IV agents (Diltiazem, Verapamil)** are primarily for rate control.
 - **Digoxin** is used less frequently; toxicity manifests as various arrhythmias (PVCs, AV block, PAT with block).
 
+</details>
+
 ---
 
-## Chapter 12: Fluid Management, Renal, Metabolic, and Endocrine Problems
+<details>
+<summary>
+
+## Chapter 12: Fluid Management, Renal, Metabolic, and Endocrine Problems</summary>
 
 ### Body Water Distribution and Fluid Management
 - Body water constitutes 60% of body weight (50% in women), with two‑thirds intracellular and one‑third extracellular. The extracellular space is divided into interstitial (two‑thirds) and intravascular (one‑third) compartments.
@@ -720,9 +778,14 @@
 - **Adrenal insufficiency:** Suspect in vasopressor‑dependent hypotension. Diagnosis: low cortisol, failure to respond to cosyntropin. Treatment: hydrocortisone 100 mg q8h.
 - **Pituitary abnormalities:** Pituitary apoplexy (headache, visual loss, ophthalmoplegia) after CPB; diabetes insipidus (polyuria, hypernatremia) treated with desmopressin.
 
+</details>
+
 ---
 
-## Chapter 13: Post-ICU Care and Other Complications
+<details>
+<summary>
+
+## Chapter 13: Post-ICU Care and Other Complications</summary>
 
 ### Postoperative Recovery Framework
 *   **Fast-track protocols** standardize care but do not replace careful patient evaluation. Most patients transfer to the floor on POD#1.
@@ -797,5 +860,6 @@
 *   **Lifestyle modification:** weight loss, smoking cessation, glycemic control, blood pressure control.
 *   **Follow-up:** arrange INR monitoring for warfarin patients. Contact patient at 30 days for outcomes data.
 
----
+</details>
+
 
