@@ -193,15 +193,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const matchedTerms = [];
         const totalOccurrences = [];
 
-        // Проверяем совпадения отдельных терминов
+        // Проверяем совпадения отдельных терминов (только значимые слова)
         for (const term of queryTerms) {
             if (doc.w && doc.w[term]) {
                 const count = doc.w[term];
                 matchedTerms.push(term);
                 totalOccurrences.push(count);
                 
-                // Бонус за длину совпавшего слова
-                score += Math.min(20, term.length * 2);
+                // Бонус за длину совпавшего слова (более длинные слова важнее)
+                score += Math.min(15, term.length * 1.5);
             }
         }
 
@@ -210,24 +210,26 @@ document.addEventListener('DOMContentLoaded', () => {
             return null;
         }
 
-        // Бонус за совпадение всех терминов
+        // Бонус за совпадение ВСЕХ значимых терминов
         if (matchedTerms.length === queryTerms.length) {
-            score += 50;
+            score += 100; // Увеличенный бонус
         }
 
-        // Бонус за совпадение большинства терминов
+        // Бонус за совпадение большинства терминов (пропорционально)
         const matchRatio = matchedTerms.length / queryTerms.length;
-        score += Math.floor(matchRatio * 30);
+        score += Math.floor(matchRatio * 50); // Увеличенный бонус
 
         // TF (term frequency) - плотность совпадений
         const sumOccurrences = totalOccurrences.reduce((a, b) => a + b, 0);
         const termDensity = sumOccurrences / doc.len;
-        score += Math.min(25, Math.floor(termDensity * 1000));
+        score += Math.min(30, Math.floor(termDensity * 1000)); // Увеличенный лимит
 
         // Бонус за короткие документы (более релевантные)
         if (doc.len < 1000) {
-            score += 10;
+            score += 15;
         } else if (doc.len < 3000) {
+            score += 10;
+        } else if (doc.len < 5000) {
             score += 5;
         }
 
@@ -242,26 +244,50 @@ document.addEventListener('DOMContentLoaded', () => {
     // Проверяет наличие точной фразы в тексте и возвращает бонус
     function checkPhraseInText(text, query) {
         const lowerText = text.toLowerCase();
-        const lowerQuery = query.toLowerCase().trim();
+        const terms = tokenizeQuery(query);
         
-        // Проверяем точную фразу
-        if (lowerText.includes(lowerQuery)) {
-            return { bonus: 500, type: 'exact' }; // Огромный бонус за точную фразу!
+        // Фильтруем только значимые слова (исключаем стоп-слова уже исключены в tokenizeQuery)
+        if (terms.length < 1) return { bonus: 0, type: 'none' };
+        
+        // Для одиночных слов проверяем обычное вхождение
+        if (terms.length === 1) {
+            if (lowerText.includes(terms[0])) {
+                return { bonus: 100, type: 'single' };
+            }
+            return { bonus: 0, type: 'none' };
         }
         
-        // Проверяем близость слов (слова в пределах 8 слов друг от друга)
-        const terms = tokenizeQuery(query);
-        if (terms.length < 2) return { bonus: 0, type: 'none' };
+        // Для фраз из 2+ слов: проверяем точную фразу (без стоп-слов)
+        const exactPhrase = terms.join(' ');
+        if (lowerText.includes(exactPhrase)) {
+            // Огромный бонус за точное совпадение значимых слов!
+            return { bonus: 1000, type: 'exact' };
+        }
         
-        // Создаем regex для проверки близости слов
+        // Проверяем близость слов (в пределах 3 слов друг от друга)
+        // Это очень строгая проверка - слова должны быть рядом
         const escapedTerms = terms.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'));
-        const proximityRegex = new RegExp(
-            escapedTerms.join('\\s+(?:\\w+\\s+){0,8}'),
-            'i'
-        );
         
-        if (proximityRegex.test(lowerText)) {
-            return { bonus: 300, type: 'proximity' }; // Большой бонус за близкое расположение
+        // Для 2 слов: проверяем близость в пределах 2 слов
+        if (terms.length === 2) {
+            const proximityRegex = new RegExp(
+                escapedTerms[0] + '\\s+(?:\\w+\\s+){0,2}' + escapedTerms[1],
+                'i'
+            );
+            if (proximityRegex.test(lowerText)) {
+                return { bonus: 500, type: 'proximity' };
+            }
+        }
+        
+        // Для 3+ слов: проверяем что все слова в пределах 5 слов
+        if (terms.length >= 3) {
+            const proximityRegex = new RegExp(
+                escapedTerms.join('\\s+(?:\\w+\\s+){0,5}'),
+                'i'
+            );
+            if (proximityRegex.test(lowerText)) {
+                return { bonus: 600, type: 'proximity' };
+            }
         }
         
         // Проверяем порядок слов (не обязательно рядом)
@@ -277,7 +303,13 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         
         if (allInOrder && terms.length >= 2) {
-            return { bonus: 150, type: 'ordered' }; // Бонус за правильный порядок
+            return { bonus: 200, type: 'ordered' };
+        }
+        
+        // Если слова есть но не в порядке - маленький бонус
+        const allTermsFound = terms.every(term => lowerText.includes(term));
+        if (allTermsFound && terms.length >= 2) {
+            return { bonus: 100, type: 'scattered' };
         }
         
         return { bonus: 0, type: 'none' };
@@ -529,9 +561,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!phraseType || phraseType === 'none') return '';
         
         const badges = {
-            'exact': '<span class="phrase-badge exact">✓ Exact Phrase</span>',
-            'proximity': '<span class="phrase-badge proximity">✓ Near Phrase</span>',
-            'ordered': '<span class="phrase-badge ordered">✓ In Order</span>'
+            'exact': '<span class="phrase-badge exact">🎯 Exact Phrase</span>',
+            'proximity': '<span class="phrase-badge proximity">📍 Words Nearby</span>',
+            'ordered': '<span class="phrase-badge ordered">➡️ In Order</span>',
+            'scattered': '<span class="phrase-badge scattered">🔵 All Words Found</span>',
+            'single': '<span class="phrase-badge single">✓ Found</span>'
         };
         
         return badges[phraseType] || '';
@@ -541,7 +575,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const symbols = {
             'exact': '🎯',
             'proximity': '📍',
-            'ordered': '➡️'
+            'ordered': '➡️',
+            'scattered': '🔵',
+            'single': '✓'
         };
         return symbols[phraseType] || '';
     }

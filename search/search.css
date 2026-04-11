@@ -321,6 +321,17 @@
     color: #333;
 }
 
+.phrase-badge.scattered {
+    background: #007bff;
+    color: white;
+    font-size: 0.7rem;
+}
+
+.phrase-badge.single {
+    background: #6c757d;
+    color: white;
+}
+
 .more-chapters {
     text-align: center;
     padding: 0.8rem;
@@ -558,17 +569,62 @@
 
 @media (max-width: 768px) {
     .modal-content {
-        width: 95%;
-        margin: 5% auto;
-        height: 85vh;
+        width: 100%;
+        margin: 0;
+        height: 100vh;
+        max-height: 100vh;
+        border-radius: 0;
+    }
+
+    .modal-header {
+        padding: 0.8rem 1rem;
+        border-radius: 0;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: #f8f9fa;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+
+    .modal-header h2 {
+        font-size: 1rem;
+        flex: 1;
+        min-width: 0;
+        white-space: normal;
+        padding-right: 10px;
+    }
+
+    .close-button {
+        font-size: 2.5rem;
+        padding: 0.5rem;
+        flex-shrink: 0;
+        position: static;
     }
 
     .modal-body {
         padding: 1rem;
+        padding-bottom: 80px;
+        -webkit-overflow-scrolling: touch;
+        font-size: 15px;
+        line-height: 1.7;
     }
 
-    .modal-header {
+    .modal-footer {
         padding: 1rem;
+        border-radius: 0;
+        position: sticky;
+        bottom: 0;
+        z-index: 10;
+        background: #f8f9fa;
+        display: flex;
+        justify-content: center;
+        box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+    }
+
+    .modal-footer .button {
+        width: 100%;
+        justify-content: center;
     }
 
     .search-container {
@@ -590,11 +646,144 @@
 
     .pagination {
         gap: 0.3rem;
+        flex-wrap: wrap;
     }
 
     .pagination .button {
         padding: 0.5rem 0.8rem;
         font-size: 0.9rem;
+    }
+
+    /* Оптимизация результатов для мобильных */
+    .book-group {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .book-title {
+        font-size: 1.1rem;
+    }
+
+    .chapter-item {
+        padding: 0.8rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .chapter-score {
+        align-self: flex-end;
+    }
+
+    .view-toggle {
+        flex-direction: row;
+        width: 100%;
+    }
+
+    .view-toggle .button {
+        flex: 1;
+        font-size: 0.85rem;
+        padding: 0.6rem 0.8rem;
+    }
+
+    /* Улучшение читаемости на мобильных */
+    .modal-body h1,
+    .modal-body h2,
+    .modal-body h3 {
+        line-height: 1.3;
+        margin-top: 1rem;
+    }
+
+    .modal-body table {
+        font-size: 0.85rem;
+        overflow-x: auto;
+        display: block;
+    }
+
+    .modal-body pre,
+    .modal-body code {
+        font-size: 0.85rem;
+        overflow-x: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+    }
+
+    .modal-body img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Оптимизация details для мобильных */
+    details.search-highlighted {
+        margin: 0.8rem 0 !important;
+    }
+
+    details.search-highlighted::before {
+        font-size: 0.65rem;
+        padding: 0.15rem 0.5rem;
+        left: 10px;
+        top: -8px;
+        max-width: calc(100% - 20px);
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .search-details-info {
+        font-size: 0.85rem;
+        padding: 0.8rem 1rem;
+        margin-bottom: 1rem;
+    }
+}
+
+/* Маленькие экраны (портрет) */
+@media (max-width: 480px) {
+    .modal-header h2 {
+        font-size: 0.9rem;
+    }
+
+    .modal-body {
+        padding: 0.8rem;
+        font-size: 14px;
+    }
+
+    .book-group {
+        padding: 0.8rem;
+    }
+
+    .book-title {
+        font-size: 1rem;
+    }
+
+    .chapter-title-link {
+        font-size: 0.9rem;
+    }
+
+    .book-meta {
+        font-size: 0.8rem;
+    }
+
+    .results-info {
+        font-size: 0.85rem;
+    }
+}
+
+/* Landscape mode на мобильных */
+@media (max-width: 768px) and (orientation: landscape) {
+    .modal-content {
+        height: 100vh;
+    }
+
+    .modal-header {
+        padding: 0.5rem 1rem;
+    }
+
+    .modal-body {
+        padding: 0.8rem;
+    }
+
+    .modal-header h2 {
+        font-size: 0.95rem;
     }
 }
 
