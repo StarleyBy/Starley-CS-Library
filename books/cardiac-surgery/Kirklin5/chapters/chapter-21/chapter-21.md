@@ -1629,7 +1629,9 @@ On January 7, 2022, the University of Maryland Medical Center surgical team unde
 </div></details>
 
 </div></details>
-
+  
+</div></details>
+  
 </div></details>
 
 <details class="med-details"><summary>
@@ -2419,8 +2421,6 @@ The natural history of Eisenmenger syndrome—characterized by excessive muscula
 - Right ventricular failure—particularly with marked ascites and peripheral edema—that is unresponsive to diuretic therapy
 - Worsening oxygen saturation, particularly once it reaches 60% with exertion
 - Progressive fatigue and dyspnea, particularly if repeated phlebotomy is required
-
-</div></details>
 
 </div></details>
 
