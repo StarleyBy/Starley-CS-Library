@@ -87,19 +87,21 @@ function extractSummaries(book) {
                             }
                         }
                         
-                        if (endIndex !== -1) {
-                            const fullBlock = content.substring(detailsStart, endIndex);
-                            const divStart = fullBlock.indexOf('<div class="details-content">');
-                            if (divStart !== -1) {
-                                const contentStartIndex = divStart + '<div class="details-content">'.length;
-                                const contentEndIndex = fullBlock.lastIndexOf('</div>');
-                                const summaryContent = fullBlock.substring(contentStartIndex, contentEndIndex).trim();
-                                combinedContent += `## Chapter ${chapterNum}: ${title}\n\n${summaryContent}\n\n---\n\n`;
-                                foundSummary = true;
-                                console.log(`  Successfully processed Chapter ${chapterNum}`);
-                                break;
+                            if (endIndex !== -1) {
+                                const fullBlock = content.substring(detailsStart, endIndex);
+                                const divStart = fullBlock.indexOf('<div class="details-content">');
+                                if (divStart !== -1) {
+                                    const contentStartIndex = divStart + '<div class="details-content">'.length;
+                                    const contentEndIndex = fullBlock.lastIndexOf('</div>');
+                                    const summaryContent = fullBlock.substring(contentStartIndex, contentEndIndex).trim();
+                                    
+                                    combinedContent += `<details>\n<summary>\n\n## Chapter ${chapterNum}: ${title}</summary>\n\n${summaryContent}\n\n</details>\n\n---\n\n`;
+                                    
+                                    foundSummary = true;
+                                    console.log(`  Successfully processed Chapter ${chapterNum}`);
+                                    break;
+                                }
                             }
-                        }
                     }
                 }
             }

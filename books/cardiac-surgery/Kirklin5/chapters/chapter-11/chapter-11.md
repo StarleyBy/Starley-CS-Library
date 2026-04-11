@@ -1,6 +1,6 @@
 # Mitral Valve Disease
 
-##### This chapter describes surgical aspects of acquired mitral valve disease, excluding ischemic mitral regurgitation (see Chapter 10). Associated or secondary tricuspid valve disease is also considered (see Section III of this chapter and Chapter 13), as is concomitant coronary artery surgery in patients with nonischemic mitral valve disease (see Section IV of this chapter).
+##### This chapter describes surgical aspects of acquired mitral valve disease, excluding ischemic mitral regurgitation (see Chapter 10). Associated or secondary tricuspid valve disease is also considered (see Section II of this chapter and Chapter 13), as is concomitant coronary artery surgery in patients with nonischemic mitral valve disease (see Section III of this chapter).
 
 <details class="med-details"><summary>
 
@@ -108,14 +108,14 @@
 * **Anticoagulation management for prosthetic valves:** Mechanical: INR 2.5–3.5 indefinitely. Bioprosthetic + risk factors (AF, prior TE, LV dysfunction, hypercoagulable state): warfarin INR 2.0–3.0 + aspirin 81–100 mg/day. Isolated MV repair without AF: low-dose aspirin 75–100 mg/day (warfarin not beneficial per meta-analysis). Excessive anticoagulation (INR >5): withhold warfarin; low-dose oral vitamin K (1–2.5 mg) if reversal needed. Interruption for surgery: bridge with IV heparin or LMWH when INR falls <2.0; stop 4–6 hours before procedure.
 * **Valve thrombosis treatment:** Reoperation for cardiogenic shock, pannus underlying thrombus, or contraindication to thrombolysis. Fibrinolytic therapy (tPA, slow infusion): 25 mg over 6 hours, repeat up to six times (max 150 mg). Multicenter study: thrombolysis successful in 90% of patients; 3-month mortality 2.4% vs. 18.7% with reoperation. ACC/AHA 2020: fibrinolytic therapy first-line for right-sided valve thrombosis (NYHA III/IV), left-sided thrombosis with NYHA I/II and small clot, or left-sided thrombosis with NYHA III/IV if emergent surgery risk is excessive.
 
-### Section II — Coexisting Tricuspid Valve Disease
+### Coexisting Tricuspid Valve Disease (Section II)
 
 * Nearly half of patients undergoing MV surgery have some tricuspid regurgitation; 80% functional/secondary, 20% organic/rheumatic. Secondary TR disappeared spontaneously after MV surgery in only 47% of patients in Duran's series — in all patients with low postoperative Rp, but in no patients with high late Rp.
 * Incremental risk factors for persistent/worsening TR after MV surgery without tricuspid repair: persistent/recurrent mitral disease; severe TR with fixed anular dilation; irreversible RV enlargement; organic (rheumatic) etiology; AF; high Rp.
 * A dilated tricuspid anulus (≥4 cm in adults, or diastolic diameter ≥21 mm/m²) should undergo tricuspid anuloplasty whether or not important regurgitation is present (ACC/AHA and ESC/EACTS guidelines).
 * Tricuspid anuloplasty associated with better survival than valve replacement. Tricuspid repair at time of MV surgery reduces late progression of TR (98% <2+ TR at 7 years in surgical group vs. 46% in balloon valvotomy group). Late tricuspid reoperation after MV surgery: perioperative mortality often >20%, poor late survival.
 
-### Section III — Coexisting Ischemic Heart Disease
+### Coexisting Ischemic Heart Disease (Section III)
 
 * About 15–20% of patients undergoing MV surgery for nonischemic disease require concomitant CABG. Combined MVR + CABG associated with worse in-hospital outcomes than isolated procedures.
 * Gillinov et al.: in patients with degenerative disease undergoing MV surgery + CABG, survival at 5 and 10 years was 79%/59% (repair) vs. 70%/37% (replacement); MVR was a risk factor for late death beginning ~2 years after surgery.
@@ -123,17 +123,25 @@
 
 </div></details>
 
----
+<details class="med-details"><summary>
 
-## SECTION I: MITRAL VALVE DISEASE
+## SECTION I: MITRAL VALVE DISEASE</summary><div class="details-content">
 
-### Definition
+<details class="med-details"><summary>
 
-This chapter describes surgical aspects of acquired mitral valve disease, excluding ischemic mitral regurgitation (see Chapter 10). Associated or secondary tricuspid valve disease is also considered (see Section III of this chapter and Chapter 13), as is concomitant coronary artery surgery in patients with nonischemic mitral valve disease (see Section IV of this chapter).
+### Definition</summary><div class="details-content">
 
-### Historical Note
+This chapter describes surgical aspects of acquired mitral valve disease, excluding ischemic mitral regurgitation (see Chapter 10). Associated or secondary tricuspid valve disease is also considered (see Section II of this chapter and Chapter 13), as is concomitant coronary artery surgery in patients with nonischemic mitral valve disease (see Section III of this chapter).
 
-#### Mitral Stenosis
+</div></details>
+
+<details class="med-details"><summary>
+
+### Historical Note</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Mitral Stenosis</summary><div class="details-content">
 
 Sir Lauder Brunton was among the first to consider surgical treatment of mitral stenosis in his "preliminary note" in *The Lancet* in 1902. In 1923, Cutler and Levine reported an operation via median sternotomy in which a special curved knife was inserted through the left ventricular (LV) apex to cut a stenotic mitral valve. In 1925, Souttar digitally opened a stenotic mitral valve through the left atrial appendage.
 
@@ -141,11 +149,19 @@ An effective closed surgical approach to mitral stenosis began with Harken and c
 
 In 1955, surgeons began to think of opening stenosed mitral valves by intracardiac techniques on cardiopulmonary bypass (CPB). However, closed-heart operations produced such generally good results that the open-heart technique did not come into wide use until after 1970.
 
-#### Mitral Regurgitation
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mitral Regurgitation</summary><div class="details-content">
 
 Although a few ingenious *closed* methods of surgically improving mitral regurgitation were reported during the 1950s, particularly by Bailey, Davila, Nichols, and their colleagues, an effective *open* approach using CPB was not made until 1957 by Lillehei and colleagues and Merendino and Bruce. McGoon described an effective repair for mitral regurgitation due to ruptured chordae in 1960. In subsequent years, several surgeons contributed technical advances in the repair of mitral regurgitation, particularly Carpentier, Duran, Frater, Reed, and their colleagues.
 
-#### Mitral Valve Replacement
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mitral Valve Replacement</summary><div class="details-content">
 
 Several surgeons very early realized the need to replace some diseased mitral valves. However, Starr and Edwards from the University of Oregon Medical Center, in 1961, first reported successful mitral valve replacement using a mechanical prosthesis.
 
@@ -153,17 +169,29 @@ Although the Starr-Edwards valve became the "gold standard" in prosthetic valves
 
 Biological or tissue prosthetic valves have been in development since the 1950s, and in the 1960s, formalin fixation was introduced to sterilize and fix heterograft tissue. When investigators became aware of the tendency of formalin fixation to induce collagen breakdown in valve cusps with resultant fibrosis, calcification, and degeneration, tissue fixation of porcine valves with glutaraldehyde rapidly became the standard. The first commercially available bioprosthetic valves were developed by Hancock in the United States and Carpentier in Paris (1970).
 
-### Morphology
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Morphology</summary><div class="details-content">
 
 The anatomy of the mitral valve is discussed in detail in Chapter 1. Several features are of particular importance in considering valve pathology and reparative techniques. The anterior leaflet is conveniently divided into three sectors: A<sub>1</sub> laterally, A<sub>2</sub> centrally, and A<sub>3</sub> medially. The posterior leaflet is also divided into three sectors: P<sub>1</sub> laterally, P<sub>2</sub> centrally, and P<sub>3</sub> medially (Fig. 11-1A). When the cause of regurgitation is prolapse of the posterior leaflet, sectors P<sub>2</sub> and P<sub>3</sub> are usually involved. Similarly, A<sub>2</sub> and/or A<sub>3</sub> prolapse is common in degenerative anterior leaflet disease. Additionally, there is usually some degree of anular dilation.
+
+![](_page_4_Picture_4.jpeg)
 
 **FIGURE 11-1** (A) Segmental leaflet anatomy of mitral valve. Anterior leaflet has three segments: A<sub>1</sub>, nearest the anterolateral commissure; A<sub>2</sub>, in the mid-leaflet; and A<sub>3</sub>, nearest the posteromedial commissure. Corresponding sectors of posterior leaflet are P<sub>1</sub>, P<sub>2</sub>, and P<sub>3</sub>. (Modified from Woo YJ, Seeburger J, Mohr FW: Minimally invasive valve surgery. *Semin Thorac Cardiovasc Surg.* 2007;19(4):289-298.) (B) Right fibrous trigone is part of the central fibrous body and adjacent to the posteromedial commissure at the intersection of the membranous septum, mitral and tricuspid anulus, and aortic anulus. The left fibrous trigone is near the aortic anulus under the left aortic cusp, adjacent to the anterolateral commissure.
 
 The right fibrous trigone is adjacent to the posteromedial commissure and is part of the central fibrous body located at the intersection of the membranous septum, mitral and tricuspid anulus, and aortic anulus (Fig. 11-1B). The left fibrous trigone is located near the aortic anulus under the left aortic cusp and adjacent to the anterolateral commissure. The posteromedial and anterolateral papillary muscles give rise to chordae tendineae going to both leaflets (Fig. 11-2). The chords are generally categorized into three groups: *first-order chordae* originate near the tips of the papillary muscles and insert on the free edge of the leaflets. These chordae prevent valve edge prolapse during systole; when elongated or ruptured, mitral regurgitation occurs. *Second-order chordae* (including two or more longer strut chordae) insert on the ventricular surface of the leaflets at the junction of the rough zone (closer to the free edge) and clear zone, which is demarcated by a ridge that corresponds to the line of leaflet coaptation. *Third-order chordae,* inserted on the posterior leaflet near the anulus, originate from the underlying ventricular wall. In addition, distinct commissural chordae exist at the commissures, arising from each papillary muscle.
 
+![](_page_4_Picture_7.jpeg)
+
 **FIGURE 11-2** Mitral valve and subvalvar apparatus. (Modified from Woo YJ, Seeburger J, Mohr FW: Minimally invasive valve surgery. *Semin Thorac Cardiovasc Surg.* 2007;19(4):289-298.)
 
-#### Mitral Stenosis
+<details class="med-details"><summary>
+
+#### Mitral Stenosis</summary><div class="details-content">
 
 Acquired mitral stenosis usually results from rheumatic heart disease, as does mixed stenosis and regurgitation. It is an isolated valvar condition in 40% of patients with rheumatic heart disease.
 
@@ -175,49 +203,93 @@ In pure mitral stenosis, the left atrium is enlarged, usually not severely. LV v
 
 Pulmonary vascular resistance (Rp) may increase in patients with severe mitral stenosis. This increase may result from spasm in the pulmonary arterioles, presumably a reflex from left atrial hypertension. Organic pulmonary vascular disease may also increase Rp in patients with long-standing mitral stenosis. Rarely, the vascular disease may progress to obliteration of pulmonary arterioles. Increased Rp produces a rise in pulmonary artery and right ventricular (RV) pressure out of proportion to the valve stenosis and left atrial pressure increase, which leads to RV dilation and secondary tricuspid regurgitation. Finally, RV dysfunction occurs.
 
-#### Mitral Stenosis and Regurgitation
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mitral Stenosis and Regurgitation</summary><div class="details-content">
 
 Mixed mitral stenosis and regurgitation are primarily rheumatic in origin. Stenosis is produced by varying degrees of commissural fusion and chordal thickening. Regurgitation results from fibrous retraction of the central unfused portion of the leaflets and either chordal shortening or chordal elongation. Occasionally, chordae rupture as a result of the rheumatic process.
 
-#### Mitral Regurgitation
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mitral Regurgitation</summary><div class="details-content">
 
 Regurgitation may also be due to rheumatic valve disease but has numerous other causes and morphologic patterns.
 
-##### Rheumatic Mitral Regurgitation
+<details class="med-details"><summary>
+
+##### Rheumatic Mitral Regurgitation</summary><div class="details-content">
 
 Mitral regurgitation may occur as a severe lesion (sometimes combined with aortic regurgitation) during the acute rheumatic process associated with extensive myocarditis and sometimes pericarditis and pancarditis. Anular dilation is the primary cause of regurgitation in this circumstance, with the valve leaflets frequently showing edema only and virtually normal chordae. After remission of the acute process, regurgitation may spontaneously regress, the heart becomes smaller, and anular dilation regresses. In most cases, however, there is progressive leaflet thickening, particularly of the posterior leaflet, which becomes retracted and rolled with shortening of chordae. The anterior leaflet is less thickened, and major chordae are frequently elongated, allowing leaflet prolapse. The posterior commissural leaflets are obliterated and fused, but the commissures remain more or less open. Calcification is uncommon. Anular dilation is almost invariably progressive and produces increasing regurgitation.
 
-##### Mitral Valve Prolapse
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Mitral Valve Prolapse</summary><div class="details-content">
 
 Mitral valve prolapse is a billowing of one or both leaflets into the left atrium during ventricular systole, with or without mitral regurgitation. Prolapse of a mitral valve leaflet occurring as an isolated abnormality\* is a relatively common and complex entity, occurring in 1% to 2.5% of the population. Familial mitral valve prolapse is inherited as an autosomal trait. Primary mitral valve prolapse occurs with increased frequency in patients with Marfan syndrome and certain other connective tissue disorders. The classification of Carpentier and others has enhanced our understanding of the anatomic details of prolapsing anterior and posterior leaflet components. In its severe form, mitral prolapse results in important mitral regurgitation (10% of patients). Nonetheless, in the United States, mitral valve prolapse has been reported as the most common cause of surgically treated isolated mitral regurgitation.
 
-###### \*Variously termed *myxomatous mitral valve prolapse, myxomatous mitral valve degeneration, floppy valve,* "the symptom complex of midsystolic click and late systolic murmur," and *Barlow syndrome.*
+\*Variously termed *myxomatous mitral valve prolapse, myxomatous mitral valve degeneration, floppy valve,* "the symptom complex of midsystolic click and late systolic murmur," and *Barlow syndrome.*
 
 The primary pathologic conditions are *leaflet redundancy* and *myxomatous thickening*. The redundant and elongated leaflets no longer meet properly to support each other during systole and begin to overshoot into the left atrium. Not only is the valve thereby rendered regurgitant, but abnormal strain is also placed on the chordae. The chordae elongate and, ultimately, some rupture, increasing regurgitation. These histologic changes and severe valve redundancy are especially pronounced in younger patients with Barlow syndrome. Older patients with degenerative mitral regurgitation are more likely to have fibroelastic deficiency and less redundant valve tissue. These differences have important surgical implications because marked leaflet redundancy with more severe myxomatous changes requires more extensive reconstructive techniques. Calcifications may occur in the mitral anulus but do not appear to contribute to mitral valve dysfunction.
 
-##### "Idiopathic" Chordal Rupture
+</div></details>
+
+<details class="med-details"><summary>
+
+##### "Idiopathic" Chordal Rupture</summary><div class="details-content">
 
 "Idiopathic" and more or less localized chordal rupture is usually a variant of mitral valve prolapse syndrome, in which a considerable portion of leaflet tissue is uninvolved by the myxomatous process. In most cases, the posteromedial portion of the posterior leaflet (P<sub>2</sub> and P<sub>3</sub>) is involved; after chordal rupture, this becomes redundant and flail. More extensive posterior chordal rupture sometimes occurs. Localized chordal rupture may also occur in patients with Marfan syndrome.
 
-##### Mitral Anular Calcification
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Mitral Anular Calcification</summary><div class="details-content">
 
 Mitral anular calcification may occur in older patients without evident disease of the leaflets or chordae, but it may be more common in patients with myxomatous degeneration and prolapse of the mitral leaflets. Anular calcification is probably a degenerative disease, more common in elderly patients and, apparently, in females. It is also seen in patients with LV hypertrophy, particularly those with obstructive hypertrophic cardiomyopathy (see Chapter 19). The process involves the posterior portion of the anulus more often than other portions. Degenerative anular calcification often extends into the adjacent ventricular myocardium, and it may secondarily produce mitral regurgitation or stenosis by displacing or immobilizing the posterior leaflet. Anular calcification considerably complicates mitral repair or replacement.
 
-##### Ischemic Papillary Muscle Dysfunction or Rupture
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Ischemic Papillary Muscle Dysfunction or Rupture</summary><div class="details-content">
 
 Papillary muscle dysfunction or rupture resulting from myocardial infarction or ischemic fibrosis can produce severe mitral regurgitation (see Chapter 10).
 
-##### Infective Endocarditis
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Infective Endocarditis</summary><div class="details-content">
 
 Endocarditis is a relatively uncommon cause of pure mitral regurgitation compared with its etiologic frequency in aortic regurgitation. When the aortic valve is infected and regurgitant, the regurgitant jet may infect the central portion of the anterior mitral leaflet, often producing perforation and mitral regurgitation. In the absence of aortic valve disease, a normal or abnormal mitral valve may become infected, with the destruction of cusps, chordae, or both (see Chapter 14).
 
-##### Submitral Left Ventricular Aneurysms
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Submitral Left Ventricular Aneurysms</summary><div class="details-content">
 
 Submitral LV aneurysms frequently result in mitral regurgitation. This unusual type of aneurysm is not ischemic in origin and occurs most often among the southern and western African Black population. It may be multiloculated and have a well-defined neck immediately beneath the posterior mitral leaflet. Mitral regurgitation often coexists because of aneurysmal distortion of the posterior leaflet and leaflet prolapse. In rare instances, the aneurysm bulges into the left atrium from behind, partly obstructing the mitral orifice.
 
-### Clinical Features and Diagnostic Criteria
+</div></details>
 
-#### Mitral Stenosis
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Clinical Features and Diagnostic Criteria</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Mitral Stenosis</summary><div class="details-content">
 
 The normal mitral valve orifice area in an adult is 4.0 to 5.0 cm². Most symptomatic patients have a mitral valve area of less than 2.0 cm². The diastolic transmitral gradient is the fundamental physiologic expression of mitral stenosis. At any given orifice size, the transmitral gradient is a function of the square of the transvalvar flow rate and diastolic filling time. Thus, for example, doubling the flow rate quadruples the transvalvar gradient. This explains the importance of exertion or other causes of increased cardiac output in the development of dyspnea (induced by increased left atrial and pulmonary venous pressure) during the initial stages of mitral stenosis. As heart rate increases, during atrial fibrillation, for example, diastolic filling time is greatly reduced, thereby increasing the gradient and left atrial pressure.
 
@@ -241,6 +313,10 @@ The ECG is not diagnostic but often shows P-wave abnormalities characteristic of
 
 Two-dimensional (2D) echocardiography is highly reliable for diagnosing and quantifying the severity of mitral stenosis. It demonstrates the degree of stenosis, leaflet mobility, thickening and possible calcification, and any subvalvar obstruction. As detailed in Chapter 6, Doppler echocardiography, enhanced by color flow imaging to identify precise flow direction, is valuable for estimating stenosis. Currently, these methods suffice for estimating mitral valve area, morphology, and gradient across the valve. An echocardiographic grading system for mitral stenosis has been implemented and endorsed in the ACC/AHA guidelines, which is helpful in identifying patient suitability for valvotomy (balloon catheter), surgical commissurotomy, or valve replacement (TABLE 11-1). Greater leaflet mobility, less subvalvular involvement, and less leaflet calcification (grade 1) increase the likelihood of successful valvotomy or commissurotomy.
 
+<details class="med-details"><summary>
+
+#### TABLE 11-1: Determinants of Echocardiographic Mitral Valve Score</summary><div class="details-content">
+
 | Grade | Mobility | Subvalvar Thickening | Thickening | Calcification |
 |-------|----------|---------------------|------------|---------------|
 | 1 | Highly mobile valve with only leaflet tips restricted | Minimal thickening just below mitral leaflets | Leaflets near normal in thickness (4 to 5 mm) | A single area of increased echo brightness |
@@ -250,13 +326,19 @@ Two-dimensional (2D) echocardiography is highly reliable for diagnosing and quan
 
 ###### Modified from Wilkins GT, Weyman AE, Abascal VM, Block PC, Palacios IF. Percutaneous balloon dilatation of the mitral valve. *Br Heart J.* 1988;60:299-308.
 
-**TABLE 11-1** Determinants of Echocardiographic Mitral Valve Score
+</div></details>
 
 Cardiac catheterization is usually unnecessary for diagnosing mitral stenosis and estimating its severity. Catheterization is necessary in patients older than about age 35 to study the coronary arteries, however, because about 25% of patients older than 40 with mitral stenosis without angina have important coronary artery disease. When balloon valvotomy is used, prevalvotomy and postvalvotomy measurements are easily made by classic catheterization techniques or echocardiography. *Pulmonary capillary wedge pressure* (PPCW) is measured to determine the severity of pulmonary venous hypertension. PPCW (similar to left atrial pressure) is compared with directly measured LV diastolic pressure to determine transmitral gradient; a resting end-diastolic gradient of 10 mmHg or more indicates important mitral stenosis. Mitral valve area is calculated from Gorlin's modified orifice equation.
 
-#### Mitral Regurgitation
+</div></details>
 
-##### Chronic
+<details class="med-details"><summary>
+
+#### Mitral Regurgitation</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+##### Chronic</summary><div class="details-content">
 
 Patients with mitral regurgitation are often asymptomatic for many years, during which time LV size may steadily increase and LV contractility decrease. Eventually, effort intolerance develops, and symptoms of pulmonary venous hypertension evolve. Fluid retention and chronic heart failure, occasionally with cardiac cachexia, are characteristic of the late stage of the disease; by then, atrial fibrillation and secondary tricuspid regurgitation are usually evident.
 
@@ -268,15 +350,31 @@ As with mitral stenosis, 2D echocardiography demonstrates the details of leaflet
 
 Left ventriculography also demonstrates the regurgitant process at the mitral valve and can show leaflet prolapse. The degree of regurgitation can usually be estimated with reasonable accuracy, although if left atrial or LV enlargement is severe, the estimate is less valid. Magnetic resonance imaging (MRI) has become a standard method for noninvasive quantification of mitral regurgitation (MR) and may be especially helpful in assessing valve regurgitation when there are multiple jets or poor imaging windows that complicate assessment by Doppler echocardiography. Mitral RV is calculated from MRI as the difference between left ventricular stroke volume (LVSV) and forward flow. With cardiac MRI, it is possible to check for errors in quantification with aortic (Ao) and pulmonary artery (PA) flows and LVSV. In the absence of an intracardiac shunt, Ao and PA flows are similar, and if there is no valvular regurgitation, then the LVSV = right ventricular stroke volume. Some studies suggest that MRI is more accurate than echocardiography in assessing the severity of MR.
 
-##### Acute
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Acute</summary><div class="details-content">
 
 Mitral regurgitation may develop acutely because of chordal rupture or infective endocarditis or may complicate the course of acute myocardial infarction (see Chapter 10). Symptoms and signs of severe pulmonary venous hypertension suddenly appear. The left atrium and left ventricle are normal in size or only slightly enlarged. The chest radiograph is dominated by signs of pulmonary venous hypertension, and left atrial pressure is high, as is the *v* wave. A mitral regurgitation murmur is often midsystolic and higher pitched compared with the pansystolic murmur of chronic mitral regurgitation.
 
-### Natural History
+</div></details>
 
-#### Mitral Stenosis
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Natural History</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Mitral Stenosis</summary><div class="details-content">
 
 Rheumatic mitral stenosis develops slowly after the initial rheumatic involvement of the valve. This disease is now almost nonexistent in the developed world. But in endemic areas of the globe, rheumatic heart disease may occur in young children aged 5 to 10 years. Progression of valvar fibrosis and eventual calcification is partly related to repeated episodes of rheumatic fever, but mechanical trauma and deposition of platelets and other blood substances resulting from stenosis-induced alterations of flow patterns also play a role. This progression is a major factor in increasing symptoms, ultimately causing death.
+
+![](_page_7_Picture_6.jpeg)
 
 **FIGURE 11-3** Survival of patients with nonsurgically treated mitral stenosis, according to symptomatic status at initial observation. (Modified from Rowe JC, Bland EF, Sprague HB, White PD. The course of mitral stenosis without surgery: ten- and twenty-year perspectives. *Ann Intern Med.* 1960;52:741.)
 
@@ -294,17 +392,27 @@ Systemic *arterial emboli*, most of which lodge in cerebral arteries, can sudden
 
 In fact, the aforementioned features and criteria do not truly represent the "natural" (i.e., untreated) history of mitral stenosis, but rather the spectrum of mitral stenosis in *surgically untreated* patients receiving medical treatment available in the mid-20th century. Patients with mitral stenosis may develop tricuspid valve regurgitation, which also affects natural history (see Section II).
 
-#### Mitral Regurgitation
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mitral Regurgitation</summary><div class="details-content">
 
 The natural history of mitral regurgitation is difficult to define because (1) etiology is variable, (2) age at onset is variable, (3) mitral regurgitation may be mild and nonprogressive for many years, and (4) LV function, an important determinant of symptoms and survival, deteriorates at different rates.
 
 Patients with mild to moderate mitral regurgitation may remain asymptomatic for many years. When mitral regurgitation becomes severe, the LV end-diastolic volume increases to maintain a normal forward stroke volume. Previously, it was thought that changes in global LV systolic function were related to abnormally low afterload on the ventricle. This may be true to some extent, but the commonly observed decrease in LV systolic function following correction of chronic severe mitral valve regurgitation is likely related to a compensatory mechanism to maintain normal forward stroke volume in the presence of an enlarged LV cavity. In late follow-up after correction of mitral regurgitation, there is reverse remodeling of the left ventricle and ejection fraction increases. Patients have a greater likelihood of a follow-up ejection fraction of more than 60% if the preoperative ejection fraction is more than 65% (hazard ratio, 1.7) or the LV end-systolic dimension is less than 36 mm (hazard ratio, 2.0).
 
-##### Rheumatic Mitral Regurgitation
+<details class="med-details"><summary>
+
+##### Rheumatic Mitral Regurgitation</summary><div class="details-content">
 
 Patients with rheumatic mitral regurgitation are more likely to have had a previous severe attack of rheumatic fever than those with mitral stenosis. The interval before the appearance of regurgitation also is shorter than for stenosis. Patients with surgically untreated but hemodynamically important rheumatic mitral regurgitation survive similarly to those with mitral stenosis. The curve is different in different environmental and genetic situations, as it is in mitral stenosis. In San Francisco, for example, the survival of such patients 5 years after initial evaluation was 80%, with a 10-year survival of 60%, whereas in Venezuela, 5-year survival was only 46%. Accelerated forms of rheumatic mitral regurgitation also occur in the same geographic areas where severe mitral stenosis appears in the pediatric population (Sub-Saharan Africa, Polynesian in New Zealand, African and Indian Subcontinent) with important symptoms by age 10 years.
 
-##### Degenerative Mitral Valve Prolapse
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Degenerative Mitral Valve Prolapse</summary><div class="details-content">
 
 The natural history of isolated mitral valve prolapse without regurgitation is highly variable, and the majority of patients have age-adjusted survival similar to that of the general population. However, moderate to severe mitral regurgitation is the major predictor of cardiac mortality. Mitral regurgitation associated with mitral valve prolapse has a complex natural history that entails more than leakage of the mitral valve. Serious but rarely fatal arrhythmias may occur in patients with only mild regurgitation, and in some patients, symptoms of anxiety may mimic thyrotoxicosis, hyperadrenergic states, or hypoglycemia. Patients often have higher than normal catecholamine levels and other evidence of high adrenergic tone. Patients with hyperthyroidism have an increased prevalence of mitral prolapse.
 
@@ -314,9 +422,15 @@ Severe mitral regurgitation requiring valve surgery rarely develops before age 5
 
 Because of the increasing ability of cardiac surgeons to repair mitral regurgitation successfully, the natural history of severe mitral regurgitation secondary to mitral valve prolapse is of considerable importance. Two Mayo Clinic studies in the mid-1990s called attention to the increased mortality in patients with chronic flail leaflets treated medically. A 2008 multicenter European study examined the natural history of severe regurgitation caused by one or both flail leaflets. Involvement was confined to the posterior leaflet in 314 patients (79%), anterior leaflet in 31 (8%), both in 46 (12%), and unspecified in 3 (1%). The long-term outcome with medical treatment included an important likelihood of major adverse events by 8 years, including atrial fibrillation, heart failure, and cardiovascular death (Fig. 11-4). The need for mitral valve surgery (or death from cardiovascular causes) was nearly unavoidable 8 years after diagnosis. A subgroup analysis of *asymptomatic* patients with normal ventricular systolic function revealed a 5-year survival of 97% with medical treatment, but the combined occurrence of atrial fibrillation, heart failure, or cardiovascular death was 42% at 8 years. A Mayo Clinic analysis of asymptomatic patients with severe organic mitral regurgitation identified an effective regurgitant orifice (by echocardiography) >40 mm² as a major predictor of late mortality.
 
+![](_page_9_Picture_8.jpeg)
+
 **FIGURE 11-4** Cumulative incidence of atrial fibrillation (AFib), heart failure (HF), or mitral valve (MV) surgery/cardiovascular death (CVD) during nonsurgical management of patients (n = 394) with mitral regurgitation due to flail leaflet. (From Grigioni F, Tribouilloy C, Avierinos JF, et al. Outcomes in mitral regurgitation due to flail leaflets a multicenter European study. *JACC Cardiovasc Imaging.* 2008;1:133-141.)
 
-##### Ruptured Chordae Tendineae
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Ruptured Chordae Tendineae</summary><div class="details-content">
 
 Patients with mitral regurgitation and ruptured chordae tendineae may have a slow, insidious development of symptoms. Ruptured chordae of the anterior or posterior leaflet or both are often found at operation, and the mitral valve leaflets have the appearance of myxomatous degeneration. Ruptured chordae may be present in patients with prolapse without important symptoms. Grenadier and colleagues found 11 (8%) of 134 patients with mitral valve prolapse to have ruptured chordae and few or no symptoms.
 
@@ -324,14 +438,19 @@ By contrast, important mitral regurgitation produced acutely by chordal rupture 
 
 In other patients with severe acute manifestations, symptoms improve only mildly with intense medical treatment. Although most patients survive, LV and left atrial enlargement progress steadily in the months after onset. Such patients have a large mitral regurgitant flow, and without surgical intervention, they die within 2 to 5 years.
 
-##### Infective Endocarditis
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Infective Endocarditis</summary><div class="details-content">
 
 Infective endocarditis on a previously mildly abnormal mitral valve may produce acute mitral regurgitation. The natural history of that condition is similar to that described for acute chordal rupture, except that early mortality is higher. Infrequently, death is related to uncontrolled infection. Infective endocarditis is discussed in detail in Chapter 14.
 
-Tricuspid valve regurgitation may be associated with any type of mitral valve disease. Consequently, tricuspid anuloplasty or, rarely, replacement may have to be performed concomitantly with mitral valve surgery. Techniques for these operations are described in Chapter 13.
-<details class="med-details"><summary>
+</div></details>
 
-## SECTION I: MITRAL VALVE DISEASE (continued)</summary><div class="details-content">
+</div></details>
+
+</div></details>
 
 <details class="med-details"><summary>
 
@@ -361,6 +480,8 @@ After the usual preparations and median sternotomy, pericardial stay sutures are
 
 The left atrium is opened vertically from the right side (Fig. 11-5A). Superiorly, the incision is extended beneath the superior vena cava. Inferiorly, the incision may be extended by cutting behind the freed vena caval–right atrial junction. Rarely, when exposure remains poor because of the small size of the left atrium, the superior vena cava is transected on the atrial side of the cannulation site, and the incision is carried farther to the superior aspect of the left atrium. A superior approach through the left atrial roof, between the vena cava and the aorta, may give excellent exposure and is preferred by some surgeons (see later), but the approach risks loss of normal sinus rhythm because of the section of the sinus node artery. A Cooley left atrial retractor or Deaver retractor is inserted (Fig. 11-5B). An intracardiac sump sucker, placed through the incision, is positioned in the orifice of one of the left pulmonary veins to keep the operative field dry.
 
+![](_page_11_Picture_5.jpeg)
+
 **FIGURE 11-5** Open mitral commissurotomy. (A) Exposure is through a median sternotomy. Left atrium is opened from right side in front of right pulmonary veins. (B) Cooley left atrial retractor is positioned. With traction on stay sutures in each leaflet, valve is well exposed for commissurotomy. An incision is made from valve orifice into posteromedial commissure; line to be incised is located by staying in leaflet tissue overlying center of underlying nest of chordae to posterior papillary muscle. Note that correctly placed incision curves anteriorly. As incision is made, chordae beneath commissure are visualized and used as a guide for keeping incision in leaflet tissue over micelles of chordal network. *Inset,* Alternatively, incision in the fused commissure is begun about 2 mm away from anulus and, as indicated by *arrow*, is carried centrally. A similar procedure is carried out at anterolateral commissure, where a longer commissural incision is usually possible. (C) After opening valve at commissures, fused chordae beneath them can be separated. Incision is carried vertically down into the papillary muscles to attain a larger orifice. *SVC,* superior vena cava.
 
 The mitral valve is examined to determine its suitability for commissurotomy, and judgment is made as to whether the leaflets will be sufficiently pliable after commissurotomy to open adequately at a low left atrial pressure. Determination is straightforward when the leaflets are pliable and noncalcified and there is little or no coalescence of chordae. However, mitral commissurotomy can often yield reasonably good results when the valve is less ideal and even partially calcified. Thus, if some reasonable degree of mobility remains in the central portion of the anterior leaflet, persistent attempts should be made to open the valve widely by commissurotomy.
@@ -379,13 +500,15 @@ Alternatively, after completion of the commissurotomy, the aortic clamp is relea
 
 #### Repair of Mitral Regurgitation</summary><div class="details-content">
 
-Repair can most confidently be performed when chordae are ruptured in a limited portion of the posterior leaflet and the anterior leaflet is essentially normal, or when there is simply prolapse of the posterior leaflet. Regurgitation from ruptured chordae to the anterior leaflet can also be successfully repaired in most cases. Rheumatic mitral regurgitation can often be repaired when distortion of the valve leaflets is minimal, as can certain cases of combined stenosis and regurgitation when commissurotomy precedes the repair. Regurgitation caused by infective endocarditis, with resultant chordal rupture or a perforated cusp, is also reparable if valve destruction is not advanced.
-
 When regurgitation is associated with mitral valve prolapse, myxomatous degeneration, or chordal rupture, Carpentier's techniques have proven reproducible and durable. Carpentier and Kumar (of Duran's group) and their colleagues clarified the pathologic anatomy of the mitral valve. Their observations are fundamental considerations for a repair. As observed by echocardiography or at operation, the disease process of the mitral apparatus can be classified as restrictive, normal with anular dilation, or degenerative (leaflet prolapse) (Fig. 11-6).
+
+![](_page_12_Picture_6.jpeg)
 
 **FIGURE 11-6** Carpentier classification. (Carpentier A, Adams DH, Filsoufi F. Carpentier's reconstructive valve surgery. Philadelphia: Saunders/Elsevier; 2010.)
 
 Thus, with the mitral valve exposed as usual and with saline distention of the left ventricle, areas of prolapse and regurgitation are identified and compared with intraoperative echocardiographic findings. With forceps and blunt hooks (crochet hooks), each element of the valve apparatus (anulus, leaflets, chordae, papillary muscle) is examined for pathologic changes. In particular, the normal primary chordae are distinguished from the abnormal stretched or ruptured chordae to the offending prolapsed portion (Figs. 11-7 and 11-8A).
+
+![](_page_13_Picture_2.jpeg)
 
 **FIGURE 11-7** Systematic analysis and inspection. After pathologic condition of valve is determined by careful inspection, the flail or prolapsing portion is isolated for excision. (Carpentier A, Adams DH, Filsoufi F. Carpentier's reconstructive valve surgery. Philadelphia: Saunders/Elsevier; 2010.)
 
@@ -395,9 +518,13 @@ Thus, with the mitral valve exposed as usual and with saline distention of the l
 
 A triangular or rectangular excision of the prolapsed sector of the posterior leaflet restores the leaflet architecture (Fig. 11-8B–I). This can involve 15% to 25% of the posterior leaflet. Further mobilization of the remaining leaflet may be accomplished by resecting some adjacent secondary and tertiary chordae. A triangular resection avoids the need for a sliding anuloplasty that is sometimes necessary if a wide portion of the posterior leaflet is excised near the anulus.
 
+![](_page_14_Picture_2.jpeg)
+
 **FIGURE 11-8** (A–I) Carpentier technique for triangular resection. The targeted resection of the prolapsed segment of P<sub>2</sub> should be no more than one-third the total segment length, and the height slightly longer than the base of the triangle. Stay sutures are placed around bordering normal chordae and 4-0 or 5-0 interrupted sutures are placed to restore continuity. (Carpentier A, Adams DH, Filsoufi F. Carpentier's reconstructive valve surgery. Philadelphia: Saunders/Elsevier; 2010.)
 
 Usually, an anuloplasty ring is then sutured into place to both support the repair and narrow the anulus (Fig. 11-9). The ring must re-create the normal anteroposterior depth of the anulus, which typically is the anteroposterior length of the splayed anterior leaflet. Thus, the size of the anterior leaflet rather than the intercommissural distance can be used to select the appropriate ring size. However, there is no uniform agreement about the technique or the need to measure anterior leaflet dimensions precisely for ring selection. Brown and colleagues from the Mayo Clinic reported reproducibly good outcomes using a standard 63-mm posterior band in adult patients without specific measurements. A propensity-matched analysis by Gillinov and colleagues demonstrated an accelerated return of mitral regurgitation when mitral valve repair was performed without an anuloplasty band or ring.
+
+![](_page_15_Picture_2.jpeg)
 
 **FIGURE 11-9** Edwards Physio mitral anuloplasty ring. (Edwards Lifesciences, Irvine CA).
 
@@ -411,9 +538,15 @@ An alternative approach of implantation of artificial chordae avoids leaflet res
 
 *Anterior leaflet prolapse* repair (sector A<sub>2</sub>) is slightly more difficult and less successful than posterior leaflet repair. In the past, a triangular wedge of the involved leaflet was resected, the leaflet reconstructed, and a ring placed (Fig. 11-10). To preserve available anterior leaflet for proper coaptation, the triangular resection should extend no more than one-third of the distance between the free edge of the anterior leaflet and the mitral anulus. However, anterior leaflet resection has now been discouraged in most circumstances, and anterior leaflet repair often involves other techniques. Currently, chordal transfer (Fig. 11-11) and shortening techniques have been largely replaced by *chordal replacement*, using artificial chords made of 3-0 or 4-0 expanded polytetrafluoroethylene (PTFE) sutures (Fig. 11-12). A double-armed suture is passed twice through the usually fibrous tip of the papillary muscle; each arm is then passed through the area of the leaflet where the abnormal native chordae are inserted, usually in a figure-of-eight fashion with each suture, and then tied. Many alternative maneuvers for placing the artificial chordae have been described to facilitate determination of length and tying. Long-term results with this technique have been good.
 
+![](_page_15_Picture_5.jpeg)
+
 **FIGURE 11-10** Repair of mitral regurgitation from occasional isolated prolapse of anterior mitral leaflet or flail anterior leaflet from ruptured chordae. Valvuloplasty involves triangular resection, shown here for A<sub>2</sub>, with repair of the leaflet using interrupted fine sutures (B), complemented by insertion of an anuloplasty ring (C). The triangular excision should not extend more than one third of the distance from the free edge to the anulus.
 
+![](_page_16_Picture_2.jpeg)
+
 **FIGURE 11-11** Repair of mitral regurgitation due to ruptured chordae to the anterior leaflet by chordal transfer. (A and D) Projected area of posterior leaflet to be resected and transferred to anterior leaflet. The ruptured chordae visible on leading edge of A<sub>2</sub>–A<sub>3</sub> are resected. (B and E) A small facing portion of normal posterior leaflet with its intact chordae is removed as a rectangular flap. (C and F) Flap of posterior leaflet is flipped over to close defect in anterior leaflet, anchoring anterior leaflet with intact chordae. Base of flipped posterior leaflet segment is sutured to deepest aspect of anterior leaflet defect using fine polypropylene sutures. (D) Quadrangular defect left in posterior leaflet is closed and the repair supported with an anuloplasty ring (not shown, see Fig. 11-9.)
+
+![](_page_16_Picture_4.jpeg)
 
 **FIGURE 11-12** Use of 4-0 polytetrafluoroethylene (PTFE) sutures to create artificial chordae tendineae has largely supplanted chordal shortening or flip-over techniques as additions to classic mitral repair. Shown here are three chordal replacement techniques: interrupted, running, and loop. (From Marin-Cuartas M, Imbrie-Moore AM, Zhu Y, et al. Biomechanical engineering analysis of commonly utilized mitral neochordae. *JTCVS Open.* 2021;8:263-275.)
 
@@ -424,6 +557,8 @@ An alternative approach of implantation of artificial chordae avoids leaflet res
 ##### Papillary Muscle Repositioning</summary><div class="details-content">
 
 Dreyfus and colleagues have described an extensive experience with *papillary muscle repositioning* for anterior leaflet prolapse. The anterior head of the anterolateral papillary muscle is repositioned for A<sub>1</sub>/A<sub>2</sub> prolapse, and the anterior head of the posteromedial papillary is repositioned for A<sub>2</sub>/A<sub>3</sub> prolapse (Fig. 11-13).
+
+![](_page_17_Picture_2.jpeg)
 
 **FIGURE 11-13** Schematic drawing of papillary muscle repositioning for anterior leaflet prolapse. (A) Resection of attachments between ventricular wall and posterior head of papillary muscle. (B) Posterior head is split from intermediate head. (C) A "U" stitch is placed in both anterior and posterior head. (D) Anterior head is brought down, fixing the anterior prolapse. (From Dreyfus GD, Souza Neto O, Aubert S. Papillary muscle repositioning for repair of anterior leaflet prolapse caused by chordal elongation. *J Thorac Cardiovasc Surg.* 2006;132:578-584.)
 
@@ -437,6 +572,8 @@ Alfieri and colleagues have described a simple technique that may be useful for 
 
 When the prolapse is in the central portion of the valve, one or two edge-to-edge leaflet-approximating sutures create a double-orifice mitral valve that functions adequately in most cases. Because mitral stenosis is a possible complication of this technique, it should probably be applied mainly in degenerative mitral valve disease. The resultant orifices should be at least 2 cm in diameter. This technique may be a useful bailout maneuver if the results of initial repair methods are imperfect.
 
+![](_page_17_Picture_5.jpeg)
+
 **FIGURE 11-14** "Edge-to-edge" repair of ischemic mitral regurgitation. (A) Pericardial buttressed horizontal mattress sutures of polypropylene are placed in leading edges of central portion (area of prolapse) of each leaflet and pulled together to create a double-orifice mitral valve. Resulting tethering effect, along with systolic leaflet apposition, prevents regurgitation. (B) Edge-to-edge repair of prolapse of anterior leaflet involving its posteromedial portion (A<sub>3</sub>), bringing anterior and posterior leaflet tissue together to tether and shorten prolapsed leaflet. (Modified from Alfieri O, Maisano F. An effective technique to correct anterior mitral leaflet prolapse. *J Card Surg.* 1999;14:468.)
 
 </div></details>
@@ -448,6 +585,8 @@ When the prolapse is in the central portion of the valve, one or two edge-to-edg
 When there is *bileaflet prolapse* without anterior chordal pathology, often posterior leaflet repair and ring anuloplasty alone serve to correct the regurgitation, providing a durable repair without an additional procedure directed at the anterior leaflet. Similarly, a simple ring or posterior band anuloplasty is effective in correcting regurgitation in cases of balanced mitral valve prolapse.
 
 When repair rather than replacement is done for *rheumatic mitral regurgitation* in adults, anuloplasty (generally using Carpentier's method, including a pre-shaped anuloplasty ring) has been the technique employed in most cases (see Fig. 11-9). In most cases of pure regurgitation, there is prolapse of the anterior leaflet, usually in A<sub>2</sub>. In these cases, chordal replacement, as described earlier, has proven efficacious and reliable. When anuloplasty is necessary in young children with years of growth ahead, an anuloplasty ring may not be used. Instead, an asymmetric measured suture anuloplasty is done using the technique described by Reed and colleagues, or by the semicircular Kay-Wooler or Paneth-Burr methods (Fig. 11-15). This operation, as with most repairs of mitral regurgitation, is based on the fact that the anterior mitral anulus is less prone to enlarge, and the central portion of the anterior mitral leaflet is usually pliable and of good quality. Its leading edge forms the line of closure for the repaired valve, both in the suture anuloplasties and after insertion of a Carpentier ring.
+
+![](_page_18_Picture_2.jpeg)
 
 **FIGURE 11-15** Asymmetric measured anuloplasty. (A) Suture placement. (B) Completed repair. (From Reed GE, Kloth HH, Kiely B, Danilowicz DA, Rader B, Doyle EF. Long-term results of mitral anuloplasty in children with rheumatic mitral regurgitation. *Circulation.* 1974;50:II189; Reed GE, Tice DA, Clauss RH. Asymmetric exaggerated mitral anuloplasty: repair of mitral insufficiency with hemodynamic predictability. *J Thorac Cardiovasc Surg.* 1965;49:752.)
 
@@ -473,13 +612,19 @@ Determining competence of the repaired valve while the left atrium remains open 
 
 Mitral valve replacement begins with exposure of the mitral valve as described for mitral commissurotomy or repair, using one or two valve hooks to display the leaflets. To excise the valve, an incision is begun with the knife in the center of the anterior mitral leaflet at approximately the 12-o'clock position about 2 mm from the anulus because, at that point, the leaflet tissue is typically pliable and free of disease (Fig. 11-16). The incision is carried leftward and rightward with a knife or scissors and onto the commissural leaflet tissue at the anterolateral and posteromedial commissures. The incisions through the commissural leaflet tissue are kept next to the anulus so that the anterior and posterior leaflets stay together. The underlying papillary muscle and fused chordae are cut just in front of the incision for better exposure.
 
+![](_page_18_Picture_7.jpeg)
+
 **FIGURE 11-16** Mitral valve replacement: Access to the left atrium and exposure of the valve as for repair (see Figure 11-5). As described in the text, incision in mitral leaflet is begun with knife anteriorly and about 2 mm from anulus, where leaflet usually is pliable and relatively free of disease. As incision is carried leftward with knife or scissors toward anterolateral commissure, underlying papillary muscle and fused chordae come into view and are incised. As incision is carried across anterolateral (illustrated here) and posteromedial commissural areas, care is taken to stay close to anulus so valve is kept in one piece. This greatly facilitates completing the valve excision. *Ao,* Ascending aorta; *SVC,* superior vena cava.
 
 Classically, the excision is continued to the posterior leaflet from both sides. Ordinarily, the posterior leaflet and its chordae are left in place when they are thin and pliable. Thus, only the anterior leaflet is fully excised (but see "Chordal Sparing Procedure" later in this section). If this is not possible because of extensive disease, the secondary chordae that tether the posterior leaflet to the underlying ventricular myocardium are cut. Ideally, at least the tertiary chordae attached to the anulus should be preserved. Preservation of the subvalvular apparatus of the mitral valve has been linked to better LV performance and patient survival (see later). When subanular calcification is present and can be excised without disturbing the anulus or the myocardium, it is removed. Otherwise, calcification should be left in situ because overzealous efforts may damage the circumflex coronary artery or precipitate postrepair ventricular rupture.
 
 The mechanical prosthesis or bioprosthesis can be sewn into place with well-distributed interrupted simple sutures, with horizontal mattress sutures using pledgets on the atrial side, or with a continuous size 0 polypropylene suture (Figs. 11-17 and 11-18). All methods are associated with an extremely low prevalence of periprosthetic leakage (see "Periprosthetic Leakage" under Modes of Death later in this section). A technique employing interrupted pledgeted mattress sutures with the pledgets on the ventricular side may be chosen when heavy calcification remains in some areas of the anulus or, rarely, when exposure is particularly difficult. With these techniques, all sutures are placed in the heart first and then passed through the valve sewing ring. The prosthesis can then be lowered into position, and the sutures tied and cut. Care is to be taken to avoid protruding suture ends as they can damage the leaflets of bioprostheses or impinge the leaflets of mechanical valves.
 
+![](_page_19_Picture_2.jpeg)
+
 **FIGURE 11-17** Mitral valve replacement: continuous suture technique. (A) One end of a double-armed size 0 polypropylene (or polyester) suture buttressed with a felt pledget is passed through mitral anulus just posterior to anterolateral commissure. Suture is then passed through prosthetic sewing ring, and valve without holder is lowered into place. Using about four throws, suture line is carried to the left, anteriorly passing stitches from anulus to sewing ring and taking deep bites, but avoiding noncoronary cusp of aortic valve. Suture is held midway across distance to posteromedial commissure. (B) Other end of the suture, having been placed through mitral anulus as a mattress, is placed into prosthetic sewing ring and continued from anulus to sewing ring with four or five throws. It is helpful to move prosthesis in and out of anulus to accommodate needle passage. Suture is held. A second double-armed pledgeted suture is begun as a horizontal mattress just posterior to posteromedial commissure. Its ends are carried with four or five throws in each direction, first anteriorly and then posteriorly, to meet and tie with previously held ends. Knots then lie behind leaflet guards of the St. Jude Medical prosthesis depicted here.
+
+![](_page_20_Picture_2.jpeg)
 
 **FIGURE 11-18** Mitral valve replacement: interrupted suture technique. (A) Double-armed size 0 polyester sutures are generally placed with pledgets on atrial aspect of anulus. It is convenient to place one arm of a mattress suture just behind posteromedial commissure, reserving other end for placement later and holding suture for exposure. (B) Posterior sutures are sequentially placed counterclockwise beginning at anterolateral commissure and may either be held or placed in prosthetic sewing ring. (C) Anterior suture line usually proceeds clockwise from anterolateral commissure to posteromedial commissure. Along whole circumference, suture bites encompass base of residual leaflet. Clockwise from anterolateral commissure are the aortic cusps, conduction system, atrioventricular septum, coronary sinus, and circumflex coronary artery, which are at risk when bites are taken too deeply. With all sutures in place and on tension, valve is lowered into place and sutures tied, with about 12 mattress sutures used. Before tying, device struts are inspected to ensure that no suture is looped around a strut or caught within the device. If the tissues have good consistency, single-bite interrupted sutures, from anulus to prosthesis, can also be used, with extra care for uniform spacing.
 
@@ -492,6 +637,8 @@ After completing the valve insertion, a catheter is passed through the valve int
 ##### Chordal Sparing Procedure</summary><div class="details-content">
 
 Information based on experimental observation and clinical experience indicates that retention (rather than resection) of the mitral tensor apparatus at mitral valve replacement results in better LV function postoperatively (see "Cardiac Performance" later in this section). To insert a prosthesis while retaining both the anterior and posterior chordal attachments, the anterior leaflet may be split centrally, or using a triangular resection of A<sub>2</sub>, and folded laterally, and the posterior leaflet left as is (Fig. 11-19A–F). Alternatively, both the intact anterior and intact posterior leaflets can be folded toward their bases, and then a prosthesis inserted. These maneuvers (including folding the anterior leaflet) do not result in LV outflow tract obstruction or prosthetic obstruction when done for mitral regurgitation. The operative decision should be individualized based on the patient's anatomy, pathology, and ventricular function; therefore, surgeons should be familiar with more than one surgical preservation technique. Although appropriate for functional and degenerative mitral regurgitation, the role of chordal sparing in rheumatic valve disease is less well understood, with limited evidence supporting total chordal sparing.
+
+![](_page_21_Picture_2.jpeg)
 
 **FIGURE 11-19** Mitral valve replacement: chordal sparing procedure. (A–B) When it is appropriate to preserve anterior (and posterior) tensor apparatus, midportion of anterior leaflet is removed as a trapezoid, triangle, or rectangle. Lateral and medial aspects of anterior leaflet remain and retain their chordal attachments. (C–F) Residual portions of leaflet are folded back to be sutured to anulus. Leaving anterior leaflet totally intact may risk left ventricular outflow tract obstruction or, in the case of replacement for mitral stenosis, residual left ventricular *inflow* obstruction. Prosthesis is sutured into place using previously described interrupted or continuous suture technique. In either case, sutures surround retained leaflets, adding strength and purchase to the repair.
 
@@ -513,6 +660,8 @@ In patients older than about 65 years, quality of life may be better with a biop
 
 An alternative approach to mitral valve substitute devices is use of a cryopreserved stentless allograft. Early reports suggest good hemodynamic performance and adequate freedom from thromboembolism (in the absence of anticoagulation), but the method does not have general acceptance. The important issue is durability. The incidence of structural valve deterioration appears comparable to that of bioprosthetic structural valve deterioration (SVD). There are also scattered reports describing placement of a pulmonary valve autograft in the mitral position. The valve is implanted as a cylinder ("top hat") using two suture lines augmented with an atrial cuff.
 
+![](_page_22_Picture_3.jpeg)
+
 **FIGURE 11-20** Mortality after mitral valve replacement with biologic or mechanical prosthesis. (From Goldstone AB, Chiu P, Baiocchi M, et al. Mechanical or biologic prostheses for aortic-valve and mitral-valve replacement. *N Engl J Med.* 2017;377(19):1847-1857.)
 
 <details class="med-details"><summary>
@@ -523,7 +672,11 @@ The design of mechanical valve prostheses has evolved over the last 5 decades. A
 
 The major types of mechanical heart valves were ball and cage, tilting disc, and bileaflet valves. The first two designs are no longer used. The *Starr-Edwards (S-E) mitral ball-valve prosthesis* (model 6120; Fig. 11-21), introduced in 1965; the *Bjork-Shiley Monostrut valve* (Fig. 11-22), in the market since 1982; the Medtronic-Hall valve (1978); and the Omniscience/Omnicarbon valves (1978) have since been discontinued. Bileaflet valves have variable design features, but all contain two leaflets that swing apart during opening, providing three separate flow areas. The leaflets are guided by a hinge or pivot mechanism that acts to retain the leaflets and defines their opening angle. Nearly all valves are rotatable following implantation to address potential impingement on leaflet closure by surrounding tissues.
 
+![](_page_23_Picture_2.jpeg)
+
 **FIGURE 11-21** Starr-Edwards mitral ball-valve prosthesis.
+
+![](_page_23_Picture_4.jpeg)
 
 **FIGURE 11-22** Bjork-Shiley Monostrut mitral valve prosthesis.
 
@@ -531,21 +684,13 @@ Current mechanical valve design has focused on excellent hemodynamics, lifetime 
 
 The *St. Jude Medical (SJM) mitral valve* (Fig. 11-23), available worldwide, was first implanted in October 1977. It is a bileaflet device, and both the leaflets and orifice ring are fabricated from pyrolytic carbon. The leaflets are orifice oriented, and a pivot system supports closing forces. The pivot guards are raised above the housing, and leaflet motion is by rotation. Two relatively high-velocity regurgitant jets (seen on echocardiography) wash the pivot recess, producing approximately 10% regurgitation. The original SJM was not rotatable, but the newer Masters Series allows rotation to an "anatomic" or "antianatomic" position of the leaflets. The sewing cuff on the mitral prosthesis has a supraanular configuration and is provided in a standard (M-101) or expanded (MEC-102) polyester fiber cuff. It is also available with a PTFE fiber cuff (MT-103). Hemodynamic performance is excellent, as reflected in a relatively large effective orifice area. The favorable hemodynamics in the smaller sizes is an advantage in small children. Regurgitant flow may be greater than optimal, particularly at low heart rates. Between 88% and 96% of patients with device placement in the mitral position are free from a *thromboembolic* event at 5 years after operation (Fig. 11-24 and TABLE 11-2). Linearized rate of the first thromboembolic event is about 1.5% to 1.75% per patient-year. Up to 75% of thromboembolic episodes occur when anticoagulation is inadequate (INR <2.5). *Thrombosis* is uncommon. Incidence is approximately 0.1% per patient-year and is usually associated with inadequate anticoagulation. Mechanical failure is uncommon. The SJM mitral valve is provided in sizes 19 to 33 mm.
 
+![](_page_23_Picture_7.jpeg)
+
 **FIGURE 11-23** St. Jude Medical mitral valve prosthesis.
 
+![](_page_24_Picture_2.jpeg)
+
 **FIGURE 11-24** Freedom from major thromboembolism (including thrombosis and fatal) following mitral valve replacement with CarboMedics and St. Jude Medical prostheses. *CM,* CarboMedics; *PNS,* not statistically significant; *SE,* standard error; *SJM,* St. Jude Medical. (From Jamieson WR, Miyagishima RT, Tyers GF, Lichenstein SV, Munro AI, Burr LH. Bileaflet mechanical prostheses in mitral and multiple valve replacement surgery: influence of anticoagulant management on performance. *Circulation.* 1997;96:II134.)
-
-The *CarboMedics (Livanova) mitral valve* (Fig. 11-25) is a low-profile bileaflet prosthesis constructed of pyrolytic carbon. It has been in use since 1985 and was approved by the Food and Drug Administration (FDA) in 1992. The leaflet retention mechanism is within the pyrolyte housing and has no pivot guards, struts, or orifice projections. Leaflet motion is by rotation, with relatively complete seating but allowing four small regurgitant jets (typically noted on echocardiography). The valve housing is rotatable within a carbon-coated polyester sewing ring. A modification of the sewing ring in another model (CarboMedics Optiform) allows flexibility in supra- or subanular implantation. The valve has a favorable record for freedom from *thromboembolism*, with about 93% of patients event-free at 3 years (see TABLE 11-2 and Fig. 11-24), and the linearized rate of thromboembolism is 1.0% to 2.5% per patient-year. Thrombosis is uncommon. Prevalence is approximately 0.5 per 100 patient-years. Hemodynamics are generally good with this valve, but the 25-mm CarboMedics valve has been found to have a higher diastolic gradient than other bileaflet prostheses, especially at high flows. This valve is not recommended for patients with a small mitral valve orifice. The mitral device is provided in sizes 23 to 33 mm (small sizes also available).
-
-**FIGURE 11-25** CarboMedics mitral valve prosthesis.
-
-The *Medtronic Open Pivot,* a successor of the *ATS valve,* in clinical use since 2000, is a bileaflet (Fig. 11-26) solid pyrolytic carbon valve with a unique pivot design in which the pivot areas are entirely within the orifice ring, and the valve leaflets hinge on convex pivot guides on the ring. This differs from other mechanical valves that have cavities in the hinge area. The open pivot design feature is intended to decrease blood stasis and thrombus formation near the hinge points. The valve design minimizes overall valve height and generates a larger orifice area. Valve noise is reportedly reduced by this design. The mitral prosthesis is available in sizes 25 to 33 mm.
-
-**FIGURE 11-26** Medtronic ATS mitral valve prosthesis.
-
-The *On-X mechanical valve* (CryoLife) (Fig. 11-27), approved by the FDA in 2002, is a pure pyrolytic carbon valve prosthesis with a bileaflet design similar to other bileaflet prosthetic valves. The pyrolytic carbon structure is stronger than the silicon-alloyed pyrolytic carbon used in other mechanical prostheses. The On-X valve contains a flared inlet that produces a higher volume of flow with increased washing to minimize flow stagnation. The leaflets open 90 degrees, with "soft landing" leaflets designed to reduce blood element stress. The aortic On-X valve is currently considered to be the least thrombogenic of all bileaflet valves. Indeed, the On-X aortic prosthesis is the only mechanical valve with FDA and CE approval for use with lower INR (1.5 to 2.0). The AHA and ACC guidelines state that a lower INR may be reasonable for patients with the mechanical On-X Aortic Valve, but it is unclear whether this indication applies to the mitral prostheses. The On-X mitral prosthesis comes in sizes 23 to 33 mm and is available with an intra- and supraanular sewing ring.
-
-**FIGURE 11-27** On-X mechanical mitral valve prosthesis.
 
 <details class="med-details"><summary>
 
@@ -553,17 +698,33 @@ The *On-X mechanical valve* (CryoLife) (Fig. 11-27), approved by the FDA in 2002
 
 | Replacement Device | 5 Years | 10 Years | 15 Years | Linearized Rate of First Event (%/patient-year) |
 |--------------------|---------|----------|----------|-------------------------------------------------|
-| Starr-Edwards | 73–78 | 60 | 54–57 | 4.5–5.7<sup>a</sup> |
+| Starr-Edwards | 73–78 | 60 | 54–57 | 4.5–5.7 |
 | Bjork-Shiley Monostrut | 95 (3y) | — | — | 2.6–3.8 |
 | St. Jude Medical | 88–96 | — | — | 1.5–1.75 |
 | Omniscience | 93 | — | — | 0.9–7.6 |
 | CarboMedics | 94 | — | — | 1.0–2.5 |
-| Carpentier-Edwards | 78 | 80<sup>b</sup> | — | — |
+| Carpentier-Edwards | 78 | 80 | — | — |
 | Medtronic-Hancock | 92 | — | — | 1.5–2.0 |
 
-###### <sup>a</sup> Rate 9.5% when multiple events included. <sup>b</sup> In patients 51 to 65 years of age at insertion.
-
 </div></details>
+
+The *CarboMedics (Livanova) mitral valve* (Fig. 11-25) is a low-profile bileaflet prosthesis constructed of pyrolytic carbon. It has been in use since 1985 and was approved by the Food and Drug Administration (FDA) in 1992. The leaflet retention mechanism is within the pyrolyte housing and has no pivot guards, struts, or orifice projections. Leaflet motion is by rotation, with relatively complete seating but allowing four small regurgitant jets (typically noted on echocardiography). The valve housing is rotatable within a carbon-coated polyester sewing ring. A modification of the sewing ring in another model (CarboMedics Optiform) allows flexibility in supra- or subanular implantation. The valve has a favorable record for freedom from *thromboembolism*, with about 93% of patients event-free at 3 years (see TABLE 11-2 and Fig. 11-24), and the linearized rate of thromboembolism is 1.0% to 2.5% per patient-year. Thrombosis is uncommon. Prevalence is approximately 0.5 per 100 patient-years. Hemodynamics are generally good with this valve, but the 25-mm CarboMedics valve has been found to have a higher diastolic gradient than other bileaflet prostheses, especially at high flows. This valve is not recommended for patients with a small mitral valve orifice. The mitral device is provided in sizes 23 to 33 mm (small sizes also available).
+
+![](_page_24_Picture_4.jpeg)
+
+**FIGURE 11-25** CarboMedics mitral valve prosthesis.
+
+The *Medtronic Open Pivot,* a successor of the *ATS valve,* in clinical use since 2000, is a bileaflet (Fig. 11-26) solid pyrolytic carbon valve with a unique pivot design in which the pivot areas are entirely within the orifice ring, and the valve leaflets hinge on convex pivot guides on the ring. This differs from other mechanical valves that have cavities in the hinge area. The open pivot design feature is intended to decrease blood stasis and thrombus formation near the hinge points. The valve design minimizes overall valve height and generates a larger orifice area. Valve noise is reportedly reduced by this design. The mitral prosthesis is available in sizes 25 to 33 mm.
+
+![](_page_24_Picture_7.jpeg)
+
+**FIGURE 11-26** Medtronic ATS mitral valve prosthesis.
+
+The *On-X mechanical valve* (CryoLife) (Fig. 11-27), approved by the FDA in 2002, is a pure pyrolytic carbon valve prosthesis with a bileaflet design similar to other bileaflet prosthetic valves. The pyrolytic carbon structure is stronger than the silicon-alloyed pyrolytic carbon used in other mechanical prostheses. The On-X valve contains a flared inlet that produces a higher volume of flow with increased washing to minimize flow stagnation. The leaflets open 90 degrees, with "soft landing" leaflets designed to reduce blood element stress. The aortic On-X valve is currently considered to be the least thrombogenic of all bileaflet valves. Indeed, the On-X aortic prosthesis is the only mechanical valve with FDA and CE approval for use with lower INR (1.5 to 2.0). The AHA and ACC guidelines state that a lower INR may be reasonable for patients with the mechanical On-X Aortic Valve, but it is unclear whether this indication applies to the mitral prostheses. The On-X mitral prosthesis comes in sizes 23 to 33 mm and is available with an intra- and supraanular sewing ring.
+
+![](_page_25_Picture_2.jpeg)
+
+**FIGURE 11-27** On-X mechanical mitral valve prosthesis.
 
 </div></details>
 
@@ -579,13 +740,19 @@ The *Medtronic-Hancock glutaraldehyde-preserved porcine xenograft (standard mode
 
 The *Medtronic Mosaic* bioprosthetic mitral valve (Fig. 11-28) is a porcine stented tissue valve introduced into the United States in 2000. It incorporates the stent of the Medtronic Hancock II valve, with the addition of α-amino-oleic acid treatment to reduce the potential for calcification.
 
+![](_page_25_Picture_7.jpeg)
+
 **FIGURE 11-28** Medtronic Mosaic mitral valve prosthesis.
 
 The *Carpentier-Edwards PERIMOUNT mitral pericardial valve* (Fig. 11-29) is a glutaraldehyde-fixed stent-mounted valve introduced into clinical use in 1984 and approved by the FDA in 2000. It has a profile and configuration similar to the Carpentier-Edwards aortic pericardial device. Hemodynamic performance is comparable with other mitral bioprostheses. Ten-year freedom from thromboembolism was 93% ± 3.0% in the series reported by Poirer and colleagues. Freedom from structural valve deterioration at 10 years was 81% ± 7.0%, although no failures were noted in patients aged 70 years or older. The newer *Magna and Magna Ease mitral valve* adds a nonreversible fixation process (ThermaFix) to reduce residual glutaraldehyde and phospholipids that contribute to pericardial leaflet calcification. In addition, the Magna Mitral bioprosthesis is designed with an asymmetric sewing cuff to maximize anular conformity. It is available in sizes 25 through 33 mm.
 
+![](_page_26_Picture_2.jpeg)
+
 **FIGURE 11-29** Carpentier-Edwards PERIMOUNT Plus mitral valve prosthesis. (Courtesy Edwards Lifesciences, Irvine, Calif.)
 
 The *St. Jude Medical/Abbott Biocor stented porcine heterograft* (Fig. 11-30) incorporates three separate porcine leaflets with low-pressure fixation. Actuarial freedom from reoperation due to structural valve degeneration has been reported at 96% at 15 years for patients older than age 60. This prosthesis is characterized by low stent posts in the mitral position. This prosthesis was recently withdrawn from the market and substituted by the *St. Jude Epic stented porcine valve* that carries the same design as the Biocor valve, with the addition of a proprietary anticalcification treatment designed to increase valve durability. To date, no long-term data are available on the effect of this anticalcification treatment on valve durability in humans. In 2021, the FDA approved the St. Jude Epic Plus, an enhanced design of both the valve and the holder.
+
+![](_page_26_Picture_4.jpeg)
 
 **FIGURE 11-30** St. Jude Medical Biocor stented mitral valve prosthesis.
 
@@ -615,6 +782,8 @@ More recently, numerous reports have recommended a small right anterior thoracot
 
 Although certain details are variable among experienced surgeons, the following principles are generally applicable. The small right thoracotomy is usually performed through a 4- to 6-cm right inframammary incision (Fig. 11-31), and the chest is usually entered through the fourth intercostal space (occasionally the third). Double-lumen endotracheal tube intubation is employed to enhance visualization, and use of a TEE probe is routine. Right femoral artery cannulation for CPB is most commonly employed, although direct aortic cannulation can be nearly routinely applied through a third intercostal space approach.
 
+![](_page_26_Picture_9.jpeg)
+
 **FIGURE 11-31** Minimally invasive exposure and cannulation technique via right anterolateral thoracotomy. Additional subcentimeter ports are added for cardiotomy suction, Chitwood clamp, camera, and retraction.
 
 A long, vacuum-assisted, femoral vein cannula designed for vacuum-assisted venous return, with or without a second 15 Fr to 17 Fr cannula, is inserted via the right internal jugular vein using the Seldinger technique. In primary cases, aortic occlusion is managed with direct external clamping (often with a flexible clamp or Chitwood clamp) or endoaortic balloon occlusion (less reliable). Cardioplegia can be administered antegradely directly into the ascending aorta (and the catheter subsequently used for de-airing procedures) or retrogradely via a catheter placed through the right atrium into the coronary sinus under TEE guidance. Alternatively, a coronary sinus catheter for retrograde cardioplegia can be inserted through the internal jugular vein with positioning by TEE, but this requires anesthesiologist expertise and is less reliable for routine use. A left atrial incision in the right interatrial groove anterior to the entrance of the right pulmonary veins provides exposure of the mitral valve. De-airing is facilitated by flooding the surgical field with CO<sub>2</sub>, placing a urinary catheter or vent across the mitral valve during initial de-airing, and venting the ascending aorta through the antegrade cardioplegia catheter.
@@ -641,6 +810,8 @@ The first robotic endoscopic mitral valve repair was performed by Carpentier in 
 
 Cross clamp time was not statistically significant between robotic endoscopic and classic endoscopic groups, 148 ± 37 and 133 ± 42 minutes, respectively. Longer CPB and ischemic times remain a problem, but with experience, these times are expected to decrease. Both techniques introduce a degree of complexity to the procedure, hence requiring experienced surgeons and mandating careful patient selection.
 
+![](_page_27_Picture_4.jpeg)
+
 **FIGURE 11-32** Patients undergoing robotic mitral valve repair had significantly longer CPB time compared to traditional endoscopic approaches. (From Rao A, Tauber K, Szeto WY, et al. Robotic and endoscopic mitral valve repair for degenerative disease. *Ann Cardiothorac Surg.* 2022;11(6):614-621.)
 
 </div></details>
@@ -655,6 +826,8 @@ The mitral valve is found to be very accessible; often, only stay sutures are re
 
 The superior approach is also useful when using a short, limited upper sternotomy. A single-stage venous cannula is inserted through the right atrial appendage, and distal ascending aortic cannulation is combined with antegrade cardioplegia.
 
+![](_page_28_Picture_4.jpeg)
+
 **FIGURE 11-33** "Superior approach" involves retracting superior vena cava laterally and aorta to the left. Roof of left atrium is opened with incision directed leftward and posteriorly, leaving an adequate rim of atrial tissue anteriorly so as not to infringe on the mitral anulus.
 
 </div></details>
@@ -667,7 +840,11 @@ Approach through the right atrium and across the atrial septum can be useful, es
 
 Good results have also been reported with a "minitransseptal" incision in the atrial septum extending from the inferomedial edge of the fossa ovalis up toward the medial base of the superior vena cava without incising the superior surface of the left or right atrium.
 
+![](_page_29_Picture_2.jpeg)
+
 **FIGURE 11-34** Biatrial approach of Guiraudon and colleagues, or "transplant" incision. (A–B) Right atrium is opened transversely near atrioventricular groove. Atrial septum is incised vertically through fossa ovalis, and incision is extended superiorly to meet the right atrial incision. Where these two incisions meet, incision is directed leftward through roof of left atrium toward left atrial appendage. Walls of atrial septum and left atrium are deflected by stay sutures. Mitral valve exposure is excellent. (C) Atrial septum and roof of left atrium are closed with separate sutures, meeting superiorly. Right atrial portion is then closed. *Ao,* Ascending aorta; *LA,* left atrium; *PT,* pulmonary trunk; *RA,* right atrium.
+
+</div></details>
 
 </div></details>
 
@@ -691,13 +868,6 @@ Evaluation of mitral valve repair or replacement by 2D and Doppler echocardiogra
 
 </div></details>
 
-</div></details>
-
-</div></details>
-<details class="med-details"><summary>
-
-## SECTION I: MITRAL VALVE DISEASE (continued)</summary><div class="details-content">
-
 <details class="med-details"><summary>
 
 ### Results</summary><div class="details-content">
@@ -714,7 +884,11 @@ In the current era, *hospital mortality* after either closed or open commissurot
 
 Mitral commissurotomy is not curative with either open or closed (or balloon) commissurotomy, with survival progressively diverging from that of the general population (Fig. 11-36). However, few late deaths result directly from the effects of recurrent or residual mitral stenosis or regurgitation. Rather, they result from thromboembolism or early or later sequelae of reoperation and mitral valve replacement.
 
+![](_page_30_Picture_6.jpeg)
+
 **FIGURE 11-35** Survival considering cardiovascular-related deaths after percutaneous mitral commissurotomy. Survival was poorer in patients who had poor immediate results, and notably, only 19% ± 4.0% were alive and free from surgery at 5 years (curve not shown). (From Iung B, Garbarz E, Michaud P, et al. Late results of percutaneous mitral commissurotomy in a series of 1024 patients. *Circulation.* 1999;99:3272.)
+
+![](_page_30_Picture_8.jpeg)
 
 **FIGURE 11-36** Survival after mitral commissurotomy by either closed or open technique. (A) Survival. Each *circle* represents a death, positioned according to Kaplan-Meier estimator, *vertical bars* represent 70% confidence limits (CL), and *numbers in parentheses* are patients at risk. *Blue line enclosed within dashed CLs* is the parametric survival estimate. *Red curve* is survival of an age/gender/ethnicity–matched general population. (B) Hazard function for death. Note steadily rising single hazard phase. *Dashed lines* are CLs. *Red line* is hazard for an age-gender-ethnicity–matched general population. (From Hickey MS, Blackstone EH, Kirklin JW, Dean LS. Outcome probabilities and life history after surgical mitral commissurotomy: implications for balloon commissurotomy. *J Am Coll Cardiol.* 1991;17:29.)
 
@@ -725,6 +899,8 @@ Mitral commissurotomy is not curative with either open or closed (or balloon) co
 ##### Mitral Regurgitation</summary><div class="details-content">
 
 Mitral regurgitation is a risk of mitral commissurotomy by any technique but occurs in only 2% to 5% of patients who undergo open commissurotomy and in about 10% of patients who undergo closed commissurotomy. Rarely does the newly developed regurgitation require immediate operation, but it may lead to reoperation within a few months. Mild postcommissurotomy mitral regurgitation has little effect on survival or need for mitral valve replacement, but important postcommissurotomy regurgitation adversely affects both (Fig. 11-37). Prevalence of new important mitral regurgitation is about 10% after percutaneous balloon mitral commissurotomy and may require early surgery.
+
+![](_page_31_Picture_2.jpeg)
 
 **FIGURE 11-37** Nomograms representing solutions of multivariable equations, illustrating effect of postcommissurotomy mitral regurgitation on (A) risk-adjusted survival, and (B) freedom from mitral valve replacement. *Dashed lines* are 70% confidence limits. *OR,* Operating room. (For details of equations, see Hickey MS, Blackstone EH, Kirklin JW, Dean LS. Outcome probabilities and life history after surgical mitral commissurotomy: implications for balloon commissurotomy. *J Am Coll Cardiol.* 1991;17:29.)
 
@@ -741,6 +917,8 @@ Somewhat better orifices can be obtained by open than closed commissurotomy. Ant
 A secondary effect of increased orifice size is lowering of left atrial pressure, although it frequently remains above normal. On average, left atrial pressure at rest is about 12 mmHg after valvotomy, increasing to about 17 mmHg on exercise. LV end-diastolic pressure often is modestly higher after commissurotomy.
 
 Cardiac output is usually increased by operation, and the increase at rest and exercise correlates well with the increase in calculated valve area. Rp usually falls immediately, especially in young patients, as verified by Block and Palacios during percutaneous balloon commissurotomy. Pulmonary artery pressure usually falls, which correlates well with the decrease in left atrial pressure and Rp.
+
+![](_page_31_Picture_7.jpeg)
 
 **FIGURE 11-38** Post open mitral commissurotomy areas, before, after and at late follow-up. Note that after commissurotomy, areas are significantly greater than those commonly reported after balloon commissurotomy. Mean valve area was still 2.37 cm² after a 10-year follow-up. (From Antunes MJ, Magalhães MP, Colsen PR, Kinsley RH. Long-term follow-up of open mitral commissurotomy: the continuing role for surgical treatment in developing countries. *J Heart Valve Dis.* 2001;9(4):472–477.)
 
@@ -760,6 +938,8 @@ Successful mitral commissurotomy may reduce the likelihood of thromboembolism, a
 
 In properly selected patients, successful open or closed mitral commissurotomy results in dramatic relief of symptoms. More than 90% of patients are in NYHA functional class I or II during the first 1 or 2 postoperative years (Fig. 11-39). Redevelopment of symptoms results from gradual loss of leaflet pliability, progression of subvalvar pathology, and increase of valvar calcification resulting from continuing rheumatic activity and scarring process. Although recurrence of rheumatic fever may accelerate this pathology, progression seems to occur even without further rheumatic episodes. Thus, NYHA functional class correlates well with estimated area of the mitral orifice late postoperatively; the mean value is 2.0 cm² in class I patients, 1.7 in class II, and 1.6 in class III. Eventually, although not until 20 years postoperatively in some patients, most patients lose their good functional status and return with restenosis or new-onset regurgitation. Absence of leaflet pliability in the presence of valvar calcification is a risk factor for the rate of decline in functional status after all types of commissurotomy. Type of surgical commissurotomy (open or closed) has not been shown to be a risk factor.
 
+![](_page_32_Picture_2.jpeg)
+
 **FIGURE 11-39** Comparison of preoperative and postoperative New York Heart Association functional status in 123 patients surviving an average of 48 months after open mitral commissurotomy. Class IIa, Breathlessness with unusually strenuous activity; class IIb, breathlessness with ordinary activity. (From Smith WM, Neutze JM, Barratt-Boyes BG, Low JB. Open mitral valvotomy: effect of preoperative factors on result. *J Thorac Cardiovasc Surg.* 1981;82:738.)
 
 </div></details>
@@ -771,6 +951,8 @@ In properly selected patients, successful open or closed mitral commissurotomy r
 As a consequence of this, most patients undergoing mitral commissurotomy by any technique will require another procedure at some time, generally mitral valve replacement, because of gradual loss of leaflet pliability, progression of subvalvar pathology, and increase of valvar calcification. About 20% of patients undergoing surgical commissurotomy require valve replacement within 10 years, and about half require it by 20 years (Fig. 11-40).
 
 The same variables that cause survival to vary probably cause prevalence of postcommissurotomy mitral valve replacement to vary (TABLE 11-3). Again, type of surgical commissurotomy (open or closed) has not been demonstrated to be a risk factor for subsequent mitral valve replacement. Morphology of the mitral valve powerfully affects the time-related prevalence of mitral valve replacement after surgical commissurotomy as well as after percutaneous balloon valvotomy. Management strategy for patients with mitral stenosis is illustrated in Fig. 11-41.
+
+![](_page_32_Picture_5.jpeg)
 
 **FIGURE 11-40** Mitral valve replacement after open or closed commissurotomy. (A) Time-related freedom. (B) Hazard function for mitral valve replacement after mitral commissurotomy. (From Hickey MS, Blackstone EH, Kirklin JW, Dean LS. Outcome probabilities and life history after surgical mitral commissurotomy: implications for balloon commissurotomy. *J Am Coll Cardiol.* 1991;17:29.)
 
@@ -790,6 +972,8 @@ The same variables that cause survival to vary probably cause prevalence of post
 
 </div></details>
 
+![](_page_33_Picture_2.jpeg)
+
 **FIGURE 11-41** Management strategy for patients with mitral stenosis. *Repair, commissurotomy, or valve replacement. *AF,* atrial fibrillation; *CVC,* Comprehensive Valve Center; *MR,* mitral regurgitation; *MS,* mitral stenosis; *MV,* mitral valve; *MVA,* mitral valve area; *NYHA,* New York Heart Association; *PASP,* pulmonary artery systolic pressure; *PMBC,* percutaneous mitral balloon commissurotomy. (From Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of Patients with Valvular Heart Disease. *Circulation.* 2021;143(5):e72-e227.)
 
 </div></details>
@@ -801,6 +985,8 @@ The same variables that cause survival to vary probably cause prevalence of post
 #### Repair of Mitral Regurgitation</summary><div class="details-content">
 
 In general, early-, intermediate-, and long-term results of repair of mitral valve regurgitation have been good, and surgical repair is supported by the most recent AHA guidelines published in 2020 (Fig. 11-42).
+
+![](_page_34_Picture_3.jpeg)
 
 **FIGURE 11-42** Management strategy for patients with chronic severe mitral regurgitation. *CVC,* Comprehensive Valve Center; *ERO,* effective regurgitant orifice; *ESD,* end-systolic dimension; *LVEF,* ejection fraction; *MR,* mitral regurgitation; *MV,* mitral valve; *MVR,* mitral valve replacement; *RF,* regurgitant fraction; *RVol,* regurgitant volume; *VC,* vena contracta. (From Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of Patients with Valvular Heart Disease. *Circulation.* 2021;143(5):e72-e227.)
 
@@ -816,7 +1002,11 @@ Variability in survival among reports and improved survival after repair compare
 
 The results of mitral repair in rheumatic mitral regurgitation are somewhat inferior to those after repair of nonrheumatic patients but, in most series, still superior to those of valve replacement. These studies support repair of the rheumatic mitral valve in the young.
 
+![](_page_34_Picture_8.jpeg)
+
 **FIGURE 11-43** Overall survival comparison for patients in New York Heart Association (NYHA) functional class I-II and those in class III-IV who had mitral valve replacement (left) or repair (right). (From Pezzella AT. Operative approaches to the left atrium and mitral valve: An update. *J Card Surg.* 1998;3(2):74–94.)
+
+![](_page_35_Picture_2.jpeg)
 
 **FIGURE 11-44** Overall survival comparison for mitral valve repair and replacement patients (P = .0004). *Blue line* represents expected survival for the general population. Numbers at the bottom indicate number of patients at risk for each interval. (From Enriquez-Sarano M, Schaff HV, Orszulak TA, Tajik AJ, Bailey KR, Frye RL. Valve repair improves the outcome of surgery for mitral regurgitation. A multivariate analysis. *Circulation.* 1995;91:1022.)
 
@@ -837,6 +1027,8 @@ Incremental risk factors for premature death after repair of mitral regurgitatio
 Most patients have little or no residual mitral regurgitation after repair. Alvarez and colleagues reported that only 4.5% of 155 repair patients experienced repair failure within 6 months. In a group of more than 1000 patients analyzed for late failure, only 30 repair patients needed late reoperation (freedom from reoperation at 10 years 93%; CL 91%–94%). Recurrent regurgitation in these and other series is caused by either disease progression or inadequate operation, including suture dehiscence. In most patients, residual regurgitation is present immediately after repair rather than developing later. Although rate of reoperation may underestimate the prevalence of late regurgitation, various groups report freedom from reoperation of 80% to 96% at 10- to 15-year follow-up, suggesting good durability of repair. David and colleagues recently reported an incidence of reoperation on the MV of 4.6% after 20 years of follow-up.
 
 A clear relationship has not been established between technique of repair and prevalence of residual regurgitation. However, repair is clearly more effective for patients with *degenerative* (myxomatous) disease than for those with *restrictive* (rheumatic) disease (Fig. 11-45). The best results may be in patients with ruptured chordae to the posterior leaflet (P<sub>2</sub>), although Orszulak and colleagues have found almost equally good results when the ruptured chordae belong to the anterior leaflet. Lawrie and colleagues reported a contemporary experience in which outcomes were equally good for artificial chord replacement in anterior leaflet prolapse as in posterior leaflet prolapse. For complex repairs and those involving the anterior leaflet, chordal replacement is superior to chordal shortening. Historically, surgical repair of posterior leaflet prolapse has been more durable than repair of anterior leaflet prolapse, but results of the latter have improved in the current era. In patients with isolated posterior leaflet prolapse, chordal replacement plus anuloplasty ring appears to provide midterm valve competence equivalent to that of traditional quadrangular resection plus ring. Others have extended leaflet resection to the severely prolapsing anterior leaflet with good midterm valve function. Many surgeons avoid leaflet resection and utilize artificial chordae to repair both anterior and posterior leaflet prolapse (i.e., "respect rather than resect.")
+
+![](_page_35_Picture_7.jpeg)
 
 **FIGURE 11-45** Freedom from reoperation after mitral valve repair in patients with rheumatic and degenerative etiologies for mitral regurgitation. A number of patients at risk in each group is shown below curves. *Vertical bars* indicate one standard deviation. (From Lessana A, Carbone C, Romano A, et al. Mitral valve repair: results and the decision-making process in reconstruction. Report of 275 cases. *J Thorac Cardiovasc Surg.* 1990;99:622.)
 
@@ -892,7 +1084,11 @@ Factors that may increase risk of reoperation late after repair include rheumati
 
 The *hazard function* of reoperation after repair of mitral regurgitation is low, constant, and different from that of replacement (Fig. 11-47). Mitral valve repair does not have the peaking early hazard phase for reoperation, which is related to periprosthetic leakage and prosthetic valve endocarditis following mitral replacement. Furthermore, no rising late hazard phase for reoperation after repair has been demonstrated, indicating the durability of this approach. In fact, in a 20-year experience reported by the Mayo Clinic, the absolute prevalence of reoperation in the current era was 5% ± 2% for posterior leaflet repair and 10% ± 2% for anterior leaflet repair at 10 years. A more recent analysis from the Mayo Clinic examined reoperations after mitral valve repair over 35 years. New pathology was the cause for reoperation in about 55% of patients, and failure of mitral repair in most of the remainder. Mitral valve re-repair was possible in 44% of patients.
 
+![](_page_36_Picture_6.jpeg)
+
 **FIGURE 11-46** Freedom from reoperation after mitral valve repair in children younger than age 12 years. *Vertical bars* represent one standard error. (From Chauvaud S, Fuzellier JF, Houel R, Berrebi A, Mihaileanu S, Carpentier A. Reconstructive surgery in congenital mitral valve insufficiency (Carpentier's techniques): long-term results. *J Thorac Cardiovasc Surg.* 1998;115:84.)
+
+![](_page_36_Picture_8.jpeg)
 
 **FIGURE 11-47** Separately determined hazards for mitral valve reoperation in patients with mitral regurgitation who have undergone repair or replacement (UAB group, 1975 to July 1983). (From Sand ME, Naftel DC, Blackstone EH, Kirklin JW, Karp RB. A comparison of repair and replacement for mitral valve incompetence. *J Thorac Cardiovasc Surg.* 1987;94:208.)
 
@@ -926,9 +1122,15 @@ Survival, both early and late after reoperation, is less than that after the ori
 
 Mitral valve replacement in children and adolescents has low early mortality, and time-related survival is probably equal to or superior to that of adults. However, mitral replacement in the first year of life may carry a higher risk; 9 of 25 patients died (36%; CL 25%–48%) in the experience of Kadoba and colleagues. Seven of the deaths were in patients with AV septal defects. Recent experience with improved repair of the left AV valve in AV septal defects, better myocardial management, and supraanular placement of the prosthesis have reduced early risk in infants considerably (see Results in Chapter 32). Time-related morbidity is attributable to reoperation associated with bioprosthetic tissue degeneration and acquired prosthetic stenosis associated with somatic growth. A report of 97 patients with a median age of 8 years (2 weeks–18 years) indicated an early mortality of 6% and a 35-year actuarial survival of 71%.
 
+![](_page_37_Picture_7.jpeg)
+
 **FIGURE 11-48** Patients undergoing primary isolated and combined mitral valve replacement. (A) Survival. *Red curve* is survival of an age/gender/ethnicity–matched general population. (B) Hazard function for death (UAB group, 1975 to July 1983; n = 819; deaths = 222).
 
+![](_page_37_Picture_9.jpeg)
+
 **FIGURE 11-49** Nonparametric and parametric depictions of survival after mitral valve replacement for nonischemic mitral valve disease according to whether replacement was an isolated procedure (with or without previous mitral repair operation) or was performed with concomitant coronary artery bypass grafting (CABG) or tricuspid valve anuloplasty (TVA). (UAB group, 1975 to July 1983; n = 819).
+
+![](_page_38_Picture_2.jpeg)
 
 **FIGURE 11-50** Survival after original and subsequent valve replacements. (From Blackstone EH, Kirklin JW. Death and other time-related events after valve replacement. *Circulation.* 1985;72:753.)
 
@@ -959,17 +1161,17 @@ Some of the incremental risk factors for death that existed during the earliest 
 | | African American | | • |
 | (Higher) | NYHA functional class | • | |
 | | **Valve disease** | | |
-| | Nonischemic MV regurgitation<sup>b</sup> | | • |
+| | Nonischemic MV regurgitation | | • |
 | | Ischemic MV regurgitation | | • |
 | | Important TV disease | | • |
 | (Greater) | LV enlargement (grades 0–6) | • | |
 | (Greater) | Left atrial enlargement | | • |
-| | **Surgical**<sup>c</sup> | | |
+| | **Surgical** | | |
 | | Previous CABG | | • |
 | | Concomitant LV resection in ischemic MVD | • | |
 | (Longer) | Global myocardial ischemic time using cardioplegia | • | |
 
-###### <sup>a</sup> Based in part on patients with or without concomitant procedures from a UAB study, 1975 to July 1983; n = 819; deaths = 222. <sup>b</sup> P-value for nonischemic mitral regurgitation = .098. <sup>c</sup> Concomitant CABG was not a risk factor. *CABG,* Coronary artery bypass grafting; *LV,* left ventricular; *MV,* mitral valve; *MVD,* mitral valve disease; *NYHA,* New York Heart Association; *TV,* tricuspid valve.
+###### Based in part on patients with or without concomitant procedures from a UAB study, 1975 to July 1983; n = 819; deaths = 222. *CABG,* Coronary artery bypass grafting; *LV,* left ventricular; *MV,* mitral valve; *MVD,* mitral valve disease; *NYHA,* New York Heart Association; *TV,* tricuspid valve.
 
 </div></details>
 
@@ -987,9 +1189,11 @@ Some of the incremental risk factors for death that existed during the earliest 
 
 **Global Myocardial Ischemic Time.** Prolonged global myocardial ischemic time using cold cardioplegia is an incremental risk factor for death in the early phase after operation. This can be seen from predicted 30-day mortality of 6% or less when global myocardial ischemic time is 120 minutes or shorter (Fig. 11-51). Almost all mitral valve operations, including those with concomitant CABG and tricuspid anuloplasty, can be accomplished within that time. Different methods of cardioplegia may improve myocardial protection.
 
-Incremental risks of concomitant tricuspid anuloplasty and CABG are discussed separately under "Results" in Sections III and IV.
+Incremental risks of concomitant tricuspid anuloplasty and CABG are discussed separately under "Results" in Sections II and III.
 
 **Devices.** No device currently in use has been clearly shown to be a risk factor for premature death after mitral valve replacement. Earlier, the "high profile" of caged-ball valves were alleged to be an incremental risk factor because of its supposed obstructive effect and detrimental effect on LV function. This may have been true, in view of the superior early results from 1970 to 1973 using a stent-mounted aortic allograft valve, suggesting that a nonobstructive device with a central orifice flow pattern is optimal. Modern bileaflet mechanical prostheses appear to have better late survivals. Previous closed or open mitral valve repair or percutaneous balloon valvotomy cannot be considered incremental risk factors.
+
+![](_page_39_Picture_10.jpeg)
 
 **FIGURE 11-51** Nomogram representing probability of death within 30 days of mitral valve replacement, with or without concomitant cardiac procedures, in patients with mitral stenosis, according to length of global myocardial ischemic (aortic clamp) time when cold cardioplegia is used. (From Ferrazzi P, McGiffin DC, Kirklin JW, Blackstone EH, Bourge RC. Have the results of mitral valve replacement improved? *J Thorac Cardiovasc Surg.* 1986;92:186.)
 
@@ -1008,6 +1212,8 @@ Sudden elimination of mitral regurgitation by mitral valve replacement triggers 
 These findings apply to conventional mitral valve replacement in which the tensor apparatus (chordae tendineae) of the native valve is excised or transected. Miller termed the effect of an intact tensor apparatus on optimal global ventricular function "valvular-ventricular interaction." Deterioration of function after division of the chordae resulted from an exacerbated mismatch of ventricular-arterial coupling with increased load-resisting shortening (Fig. 11-52). Chordal sparing was first suggested by Lillehei in 1964, then later disputed by some. However, David and colleagues in 1983 and later Daenen, Miki, Goor, and Hennein and their colleagues produced clinical results suggesting that chordal sparing during mitral valve replacement improved hospital survival and global LV function. Carabello's group again documented preservation of systolic ejection performance in mitral valve replacement with intact tensor apparatus compared with otherwise similar mitral valve replacement patients without chordal preservation. Chordal preservation resulted in postoperative decrease in diastolic volume, reduced end-systolic stress, and no reduction of ejection indices. Others have demonstrated a beneficial effect of chordal sparing on LV performance following mitral valve replacement for regurgitation.
 
 Hence, it is apparent that some form of chordal continuity, especially to the posterior anulus, is desirable in mitral valve replacement for regurgitation.
+
+![](_page_41_Picture_2.jpeg)
 
 **FIGURE 11-52** Effect of chordal division on left ventricular systolic performance in experimental animals, as reflected by the slope of end-systolic pressure volume and end-systolic stress volume relationships *(open circles)*. Group mean values are also shown *(closed circles)*. Vertical error bars indicate mean ± 1 standard deviation. *E*es, End-systolic pressure volume; *M*s, end-systolic stress volume. (From Yun KL, Rayhill SC, Niczyporuk MA, et al. Mitral valve replacement in dilated canine hearts with chronic mitral regurgitation: importance of the mitral subvalvular apparatus. *Circulation.* 1991;84:III112.)
 
@@ -1137,6 +1343,8 @@ Symptoms are reduced, and functional capacity is increased in most patients. How
 
 Reoperation, usually for periprosthetic leakage with or without infectious endocarditis or for bioprosthetic degeneration, has been required within 5 years of the original operation in about 5% of patients. However, as discussed earlier, modern methods of percutaneous transcatheter therapy, using different plugs/occluders, are now considered the first option in selected patients in some experienced centers. Prevalence, particularly the hazard function for reoperation, differs for mechanical and bioprosthetic devices; only bioprostheses exhibit degeneration and a late-rising hazard function (Fig. 11-53). Risk of death after reoperation, both early and intermediate-term (see Fig. 11-50), as well as the risk of reoperation, subsequent prosthetic valve endocarditis, and periprosthetic leakage, increases with each succeeding reoperation.
 
+![](_page_43_Picture_2.jpeg)
+
 **FIGURE 11-53** Hazard function for reoperation for mechanical prostheses and bioprostheses, determined by separate analyses. Hazard function for mechanical prostheses has an early peaking phase and a constant phase. Hazard function for bioprostheses has an early peaking phase and a second, late rising phase. (From Blackstone EH, Kirklin JW. Death and other time-related events after valve replacement. *Circulation.* 1985;72:753.)
 
 </div></details>
@@ -1191,13 +1399,9 @@ The recommendation for early operation (assuming mitral valve repair is highly l
 
 The ACC/AHA guidelines also recommend that mitral valve repair be considered in asymptomatic patients with severe mitral regurgitation and preserved function in the presence of new-onset atrial fibrillation or pulmonary artery systolic pressure greater than 50 mmHg at rest or greater than 60 mmHg with exercise.
 
-**FIGURE 11-54** Time-dependent analysis in asymptomatic patients with severe mitral regurgitation and normal ventricular function (n = 102) (after adjusting for age) shows favorable associations between prompt surgery (vs. no or delayed surgery) and heart failure and the combined endpoint heart failure/cardiovascular death (only cardiovascular death failed to reach statistical significance). Mitral valve repair in asymptomatic patients with normal ventricular function seems to prevent cardiac morbidity. Prompt surgery was defined as an operation performed less than 12 months after echocardiography (delayed surgery was longer than 12 months). *HR,* Hazard ratio; *MV,* mitral valve. (From Grigioni F, Tribouilloy C, Avierinos JF, et al. Outcomes in mitral regurgitation due to flail leaflets a multicenter European study. *JACC Cardiovasc Imaging.* 2008;1:133-141.)
+![](_page_44_Picture_7.jpeg)
 
-| End-point | Adjusted HR [95% CI] for early surgery performed | P value |
-|---|---|---|
-| Cardiovascular death (CVD) | 0.38 [0.05–3.33] | 0.386 |
-| Heart failure (HF) | 0.20 [0.05–0.89] | 0.035 |
-| HF/CVD | 0.26 [0.08–0.89] | 0.032 |
+**FIGURE 11-54** Time-dependent analysis in asymptomatic patients with severe mitral regurgitation and normal ventricular function (n = 102) (after adjusting for age) shows favorable associations between prompt surgery (vs. no or delayed surgery) and heart failure and the combined endpoint heart failure/cardiovascular death (only cardiovascular death failed to reach statistical significance). Mitral valve repair in asymptomatic patients with normal ventricular function seems to prevent cardiac morbidity. Prompt surgery was defined as an operation performed less than 12 months after echocardiography (delayed surgery was longer than 12 months). *HR,* Hazard ratio; *MV,* mitral valve. (From Grigioni F, Tribouilloy C, Avierinos JF, et al. Outcomes in mitral regurgitation due to flail leaflets a multicenter European study. *JACC Cardiovasc Imaging.* 2008;1:133-141.)
 
 The adverse natural history of severe mitral regurgitation secondary to mitral valve prolapse with flail leaflet supports this condition as an isolated indication for operation, even in asymptomatic patients. The decision to recommend operation in the subset of patients with mild or no symptoms is predicated on the assumption that a successful valve repair with mild or less postoperative mitral regurgitation can be accomplished with a 90% or higher likelihood. Therefore, asymptomatic patients with severe mitral regurgitation and a *floppy valve* (prolapse as opposed to ischemic or restrictive functional anatomy) are excellent candidates for early operation because operative mortality is low (<1%), chance of reparability is high (>90%), and long-term survival is good.
 
@@ -1351,6 +1555,8 @@ Although the results of percutaneous methods for mitral valve repair have not be
 
 As stated earlier, the mitral valve is much less amenable to percutaneous replacement than the aortic valve because of the physical properties and dynamics of the anulus. Several challenges, mostly related to the complex anatomy of the mitral valve, have impeded a more rapid spread of the technique. The major technical challenges for TMVR are difficulty in anchoring the device and avoiding LV outflow tract due to anterior displacement of the retained mitral leaflet. Although substantial effort has been invested into the TMVR, it has not achieved nearly the same degree of success as TAVR. Over 30 TMVR devices are under development, and the field continues to expand. Some models are directed at transapical implantation, whereas others are designed for transfemoral/transseptal approach (Fig. 11-55). Currently, clinical use of TMVR is utilized mainly for patients who are poor candidates for open heart surgery, and a meta-analysis of 12 published studies found that 30-day mortality was 8%, and risks of stroke and major bleeding 3% and 16%, respectively.
 
+![](_page_49_Picture_2.jpeg)
+
 **FIGURE 11-55** Current TMVR devices under development and clinical evaluation. (A) CardiAQ/EVOQUE (Edwards Lifesciences Inc.); (B) Tiara (Neovasc Inc.); (C) FORTIS (Edwards Lifesciences Inc.); (D) Tendyne (Abbott Inc.); (E) Intrepid (Medtronic Inc.); (F) Caisson (LivaNova); (G) HighLife Bioprosthesis and Subannular Implant (HighLife SAS); (H) Sapien M3 (Edwards Lifesciences Inc.); (I) Cardiovalve (Cardiovalve); (J) Navigate (Navigate Cardiac Structures Inc.). *TMVR,* transcatheter mitral valve replacement. (From Testa L, Popolo Rubbio A, Casenghi M, Pero G, Latib A, Bedogni F. Transcatheter mitral valve replacement in the transcatheter aortic valve replacement era. *J Am Heart Assoc.* 2019;8(22):e013352.)
 
 </div></details>
@@ -1369,7 +1575,7 @@ Anchoring of an expandable percutaneous valve is also facilitated by a rigid anu
 
 | Edge-to-Edge Repair | Anuloplasty | Mitral Valve Replacement | Other Approaches |
 |---|---|---|---|
-| MitraClip\*\* (Abbott Vascular; Abbott Park, IL) | Cardioband (Edwards Lifesciences; Irvine, CA) | Tendyne (Abbott Vascular; Santa Clara, CA) | NeoChord DS1000 (NeoChord, Inc.; St. Louis Park, MN) |
+| MitraClip** (Abbott Vascular; Abbott Park, IL) | Cardioband (Edwards Lifesciences; Irvine, CA) | Tendyne (Abbott Vascular; Santa Clara, CA) | NeoChord DS1000 (NeoChord, Inc.; St. Louis Park, MN) |
 | PASCAL (Edwards Lifesciences; Irvine, CA) | Millipede IRIS (Millipede, Inc.; Santa Rosa, CA) | Tiara (Neovasc Inc; Richmond, B.C. Canada) | Harpoon TDS-5 (Edwards Lifesciences; Irvine, CA) |
 | Valve clamp | Carillon (Cardiac Dimensions; Kirkland, WA) | EVOQUE (Edwards Lifesciences; Irvine, CA) | ChordArt (CoreMedic; Tübingen, Germany) |
 | Mitral stitch | ARTO (MVRx, Inc.; San Mateo, CA) | Intrepid (Medtronic; Minneapolis, MN) | V-Chordal (Valtech Cardio Ltd.; Or-Yehuda, Israel) |
@@ -1381,7 +1587,7 @@ Anchoring of an expandable percutaneous valve is also facilitated by a rigid anu
 | | | NAVI (NaviGate Cardiac Structures Inc.; Lake Forest, CA) | |
 | | | AltaValve (4C Medical Technologies Inc.; Maple Grove, MN) | |
 
-###### \*From Ghrair. ACC, 2020 (https://www.acc.org/latest-in-cardiology/articles/2020/07/31/08/28/percutaneous-mitral-valve-therapies). \*\*Only MitraClip is FDA-approved for use in the United States.
+###### *From Ghrair. ACC, 2020 (https://www.acc.org/latest-in-cardiology/articles/2020/07/31/08/28/percutaneous-mitral-valve-therapies). **Only MitraClip is FDA-approved for use in the United States.
 
 </div></details>
 
@@ -1438,6 +1644,8 @@ Incremental risk factors for persisting or worsening tricuspid regurgitation aft
 De Bonis and colleagues identified RV dilation, preoperative RV dysfunction, higher tricuspid regurgitation grade at discharge, and pulmonary hypertension as strong predictors of late significant tricuspid regurgitation. Presence of atrial fibrillation at the first operation and rheumatic etiology are also risk factors for late tricuspid regurgitation. A dilated tricuspid anulus (≥4 cm in adults) is also predictive of important tricuspid regurgitation, irrespective of level of regurgitation at operation. In fact, tricuspid anular dilation is probably the most important factor in development of late tricuspid regurgitation. Normal dimensions of the tricuspid valve are discussed in Chapters 1 and 13.
 
 The presence of tricuspid regurgitation late after mitral valve surgery is clearly associated with poor long-term survival and reduced functional capacity. Whether the reduced survival is caused by the tricuspid regurgitation itself or the pathogenic factors that produce late regurgitation (see Morphology earlier in this section) is unknown, but it is likely a combination of both. Among patients with moderate or severe tricuspid regurgitation late after mitral valve surgery, pulmonary artery systolic pressure greater than 40 mmHg, depressed LV function (EF <50%), depressed RV function, and RV dilation are predictive of reduced survival. In the setting of balloon valvuloplasty for rheumatic mitral stenosis, increasing severity of tricuspid regurgitation at the time of the procedure is associated with a progressive decrement in midterm survival (Fig. 11-56).
+
+![](_page_50_Picture_7.jpeg)
 
 **FIGURE 11-56** Event-free survival after balloon mitral valvotomy by severity of tricuspid regurgitation. Events were defined as death, New York Heart Association functional class III or IV, mitral valve surgery, or repeat mitral valve balloon valvotomy (n = 318). (From Shiran A, Sagie A. Tricuspid regurgitation in mitral valve disease incidence, prognostic implications, mechanism, and management. *J Am Coll Cardiol.* 2009;53:401-408.)
 
@@ -1538,6 +1746,8 @@ Hospital mortality of patients undergoing mitral valve replacement or repair and
 Intermediate-term survival is less satisfactory, and the hazard function for death in the constant phase is greater in patients undergoing mitral valve surgery and concomitant CABG than in those undergoing mitral surgery without concomitant CABG and thus presumably without coexisting ischemic heart disease. This finding is partly explained by coexistence of two diseases but also partly by older age at operation of patients with the two existing diseases. On the other hand, in the study by Gillinov and colleagues, comparing patients with degenerative disease who had mitral valve repair or replacement in combination with CABG, survival was 79% and 59% at 5 and 10 years for the mitral repair group, and 70% and 37%, for the mitral replacement group, respectively (Fig. 11-57A). The unadjusted survival curves diverged at about 4 years because of earlier divergence (<2 years) of the late-rising phase of hazard (Fig. 11-57B), with patients undergoing mitral valve replacement having a marked increase in mortality risk compared with those undergoing repair. Valve replacement was identified as a risk factor for death in the late hazard phase, beginning about 2 years after surgery.
 
 Additional information regarding mitral regurgitation caused by ischemic heart disease is available in Chapter 10, and this section deals mainly with coronary artery disease in patients with degenerative and rheumatic mitral valve disease. However, it is important to emphasize the deleterious effect of coronary artery disease on postoperative outcomes even when concomitant revascularization is performed. Dahlberg and colleagues reported that among 302 patients undergoing mitral valve surgery and coronary artery bypass, 10-year survival was 33% in patients with an ischemic etiology of mitral regurgitation compared to 52% in patients with degenerative mitral disease. And in multivariable analysis adjusting for age and LV function, etiology of mitral valve regurgitation had no significant impact on late outcome.
+
+![](_page_52_Picture_3.jpeg)
 
 **FIGURE 11-57** Time-related survival after coronary artery bypass grafting (CABG) and either mitral valve repair or replacement. (A) Each symbol represents a death according to the Kaplan-Meier estimator. Vertical bars enclose asymmetric 68% confidence limits. Solid lines represent parametric survival estimates enclosed between dashed 68% confidence limits. Numbers in parentheses are numbers of patients traced beyond that point. (B) Hazard functions (instantaneous risk) for death after CABG and mitral valve repair or replacement. (From Gillinov AM, Faber C, Houghtaling PL, et al. Repair versus replacement for degenerative mitral valve disease with coexisting ischemic heart disease. *J Thorac Cardiovasc Surg.* 2003;125:1350-1362.)
 

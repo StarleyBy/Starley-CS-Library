@@ -1,4 +1,4 @@
-# Executive Summaries: Cardiac Surgery in the Adult, Fifth Edition 
+# Executive Summaries: Cardiac Surgery in the Adult, Fifth Edition by Lawrence H. Cohn, MD, David H. Adams, MD
 
 
 <details class="med-details">

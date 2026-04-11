@@ -1,4 +1,4 @@
-# Executive Summaries: Key Questions in Congenital Cardiac Surgery
+# Executive Summaries: Key Questions in Congenital Cardiac Surgery by Narain Moorjani, Nicola Viola, Christopher A. Caldarone
 
 <details>
 <summary>
