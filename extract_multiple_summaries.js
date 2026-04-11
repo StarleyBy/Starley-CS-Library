@@ -3,21 +3,56 @@ const path = require('path');
 
 const books = [
     {
+        id: 'cohn',
+        title: 'Executive Summaries: Cardiac Surgery in the Adult (Cohn)',
+        baseDir: 'books/cardiac-surgery/cohn/chapters',
+        outputFile: 'Executive_Summaries_Cohn.md',
+        chapterIndex: 0,
+        metaTitle: '1. Cardiac Surgery in the Adult, Fifth Edition by Lawrence H. Cohn, MD, David H. Adams, MD'
+    },
+    {
+        id: 'bojar',
         title: 'Executive Summaries: Bojar - ICU',
         baseDir: 'books/icu/bojar/chapters',
-        outputFile: 'Executive_Summaries_Bojar.md'
+        outputFile: 'Executive_Summaries_Bojar.md',
+        chapterIndex: 1,
+        metaTitle: '2. MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD'
     },
     {
-        title: 'Executive Summaries: Key Questions in Cardiac Surgery',
-        baseDir: 'books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters',
-        outputFile: 'Executive_Summaries_Key_Questions_Cardiac.md'
-    },
-    {
+        id: 'congenital',
         title: 'Executive Summaries: Key Questions in Congenital Cardiac Surgery',
         baseDir: 'books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery/chapters',
-        outputFile: 'Executive_Summaries_Key_Questions_Congenital.md'
+        outputFile: 'Executive_Summaries_Key_Questions_Congenital.md',
+        chapterIndex: 2,
+        metaTitle: '3. Key Questions in Congenital Cardiac Surgery by Narain Moorjani, Nicola Viola, Christopher A. Caldarone'
+    },
+    {
+        id: 'cardiac',
+        title: 'Executive Summaries: Key Questions in Cardiac Surgery',
+        baseDir: 'books/cardiac-surgery/Key-questions-in-cardiac-surgery/chapters',
+        outputFile: 'Executive_Summaries_Key_Questions_Cardiac.md',
+        chapterIndex: 3,
+        metaTitle: '4. Key Questions in Cardiac Surgery by Narain Moorjani, Nicola Viola, Sunil K. Ohri'
+    },
+    {
+        id: 'netter',
+        title: 'Executive Summaries: Netter Cardiothoracic Anatomy',
+        baseDir: 'books/anatomy/Netter-Cardiothoracic-Anatomy/chapters',
+        outputFile: 'Executive_Summaries_Netter.md',
+        chapterIndex: 4,
+        metaTitle: '5. Netter Cardiothoracic Anatomy by Florentino J. Neto'
+    },
+    {
+        id: 'wilcox',
+        title: 'Executive Summaries: Wilcox - Surgical Anatomy',
+        baseDir: 'books/anatomy/wilcox/chapters',
+        outputFile: 'Executive_Summaries_Wilcox.md',
+        chapterIndex: 5,
+        metaTitle: '6. Surgical Anatomy of the Heart by Benson R. Wilcox'
     }
 ];
+
+const summaryBookDir = 'books/summary/mysummary';
 
 function extractSummaries(book) {
     console.log(`Processing: ${book.title}`);
@@ -26,7 +61,7 @@ function extractSummaries(book) {
 
     if (!fs.existsSync(fullBaseDir)) {
         console.error(`Error: Directory not found ${fullBaseDir}`);
-        return;
+        return null;
     }
 
     const chapters = fs.readdirSync(fullBaseDir)
@@ -48,8 +83,6 @@ function extractSummaries(book) {
             const title = titleMatch ? titleMatch[1] : `Chapter ${chapterNum}`;
 
             let foundSummary = false;
-            
-            // Find all <summary> tags
             const summaryRegex = /<summary>([\s\S]*?)<\/summary>/gi;
             let match;
             
@@ -62,7 +95,6 @@ function extractSummaries(book) {
                     const detailsStart = content.lastIndexOf('<details', summaryStart);
                     
                     if (detailsStart !== -1) {
-                        // Find the end of this details block (balanced)
                         let depth = 0;
                         let currentIndex = detailsStart;
                         let endIndex = -1;
@@ -71,9 +103,7 @@ function extractSummaries(book) {
                         while (currentIndex < content.length) {
                             const nextOpen = lowerContent.indexOf('<details', currentIndex);
                             const nextClose = lowerContent.indexOf('</details>', currentIndex);
-                            
                             if (nextClose === -1) break;
-                            
                             if (nextOpen !== -1 && nextOpen < nextClose) {
                                 depth++;
                                 currentIndex = nextOpen + 8;
@@ -87,33 +117,75 @@ function extractSummaries(book) {
                             }
                         }
                         
-                            if (endIndex !== -1) {
-                                const fullBlock = content.substring(detailsStart, endIndex);
-                                const divStart = fullBlock.indexOf('<div class="details-content">');
-                                if (divStart !== -1) {
-                                    const contentStartIndex = divStart + '<div class="details-content">'.length;
-                                    const contentEndIndex = fullBlock.lastIndexOf('</div>');
-                                    const summaryContent = fullBlock.substring(contentStartIndex, contentEndIndex).trim();
-                                    
-                                    combinedContent += `<details>\n<summary>\n\n## Chapter ${chapterNum}: ${title}</summary>\n\n${summaryContent}\n\n</details>\n\n---\n\n`;
-                                    
-                                    foundSummary = true;
-                                    console.log(`  Successfully processed Chapter ${chapterNum}`);
-                                    break;
-                                }
+                        if (endIndex !== -1) {
+                            const fullBlock = content.substring(detailsStart, endIndex);
+                            const divStart = fullBlock.indexOf('<div class="details-content">');
+                            if (divStart !== -1) {
+                                const contentStartIndex = divStart + '<div class="details-content">'.length;
+                                const contentEndIndex = fullBlock.lastIndexOf('</div>');
+                                const summaryContent = fullBlock.substring(contentStartIndex, contentEndIndex).trim();
+                                
+                                combinedContent += `<details>\n<summary>\n\n## Chapter ${chapterNum}: ${title}</summary>\n\n${summaryContent}\n\n</details>\n\n---\n\n`;
+                                
+                                foundSummary = true;
+                                console.log(`  Successfully processed Chapter ${chapterNum}`);
+                                break;
                             }
+                        }
                     }
                 }
-            }
-
-            if (!foundSummary) {
-                console.warn(`  Warning: Could not find Executive Summary in ${filePath}`);
             }
         }
     });
 
     fs.writeFileSync(book.outputFile, combinedContent);
-    console.log(`  Done! Saved to ${book.outputFile}\n`);
+    return combinedContent;
 }
 
-books.forEach(extractSummaries);
+function updateSummaryBook(book, content) {
+    if (!content) return;
+    const chapterNum = book.chapterIndex + 1;
+    const chapterFolderName = `chapter-${chapterNum.toString().padStart(2, '0')}`;
+    const chapterDirPath = path.join(summaryBookDir, 'chapters', chapterFolderName);
+    const chapterFilePath = path.join(chapterDirPath, `${chapterFolderName}.md`);
+
+    if (!fs.existsSync(chapterDirPath)) {
+        fs.mkdirSync(chapterDirPath, { recursive: true });
+    }
+
+    fs.writeFileSync(chapterFilePath, content);
+    console.log(`  Updated ${chapterFolderName} in mysummary`);
+}
+
+function updateMetadata() {
+    const metadataPath = path.join(summaryBookDir, 'metadata.json');
+    if (!fs.existsSync(metadataPath)) return;
+
+    const metadataArray = JSON.parse(fs.readFileSync(metadataPath, 'utf8'));
+    const metadata = metadataArray[0];
+    
+    books.forEach(book => {
+        const chapterNum = book.chapterIndex + 1;
+        const fileName = `chapter-${chapterNum.toString().padStart(2, '0')}.md`;
+        
+        if (metadata.chapters[book.chapterIndex]) {
+            metadata.chapters[book.chapterIndex].file = fileName;
+            metadata.chapters[book.chapterIndex].title = book.metaTitle;
+        } else {
+            metadata.chapters[book.chapterIndex] = {
+                file: fileName,
+                title: book.metaTitle
+            };
+        }
+    });
+
+    fs.writeFileSync(metadataPath, JSON.stringify(metadataArray, null, 2));
+    console.log(`Metadata updated successfully.`);
+}
+
+books.forEach(book => {
+    const content = extractSummaries(book);
+    updateSummaryBook(book, content);
+});
+
+updateMetadata();

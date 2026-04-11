@@ -1,6 +1,9 @@
-# Executive Summaries: Cardiac Surgery in the Adult, Fifth Edition
+# Executive Summaries: Cardiac Surgery in the Adult (Cohn)
 
-## Chapter 1: History of Cardiac Surgery
+<details>
+<summary>
+
+## Chapter 1: History of Cardiac Surgery</summary>
 
 ### Origins and Trauma
 *   **First Heart Wound Surgeries:** The field began with the repair of cardiac wounds. **Dr. Daniel Hale Williams** (1893) performed the first successful documented surgery involving the pericardium and heart, though he did not suture the heart itself. **Dr. Ludwig Rehn** (1896) performed the first successful suture of a human heart wound.
@@ -31,9 +34,14 @@
 *   **Heart Transplantation:** The first human-to-human heart transplant was performed by **Christiaan Barnard** in 1967. While initial outcomes were poor, the development of better immunosuppressive drugs like **cyclosporine** led to the establishment of heart transplantation as a standard therapy for end-stage heart failure.
 *   **Mechanical Circulatory Support:** The development of the intra-aortic balloon pump (IABP), ventricular assist devices (VADs), and the total artificial heart provided essential support for patients in cardiogenic shock, often as a bridge to transplantation.
 
+</details>
+
 ---
 
-## Chapter 2: Surgical Anatomy of the Heart
+<details>
+<summary>
+
+## Chapter 2: Surgical Anatomy of the Heart</summary>
 
 ### Location and Spatial Relationships
 
@@ -84,9 +92,14 @@
 *   **Anterior right ventricular veins:** Drain directly into right atrium or coalesce into small cardiac vein.
 *   **Thebesian veins:** Small tributaries draining directly into cardiac chambers (primarily right atrium and ventricle).
 
+</details>
+
 ---
 
-## Chapter 3: Cardiac Surgical Physiology
+<details>
+<summary>
+
+## Chapter 3: Cardiac Surgical Physiology</summary>
 
 ### Cellular Activation & Action Potential
 *   **Resting Membrane Potential:** Determined mainly by K+ gradient (via Na<sup>+</sup>/K<sup>+</sup> ATPase). Typical value ~ -90 mV.
@@ -159,9 +172,14 @@
 *   **Maladaptive Responses:** Chronic neurohumoral activation (RAAS, SNS) → fibrosis, remodeling, beta-receptor downregulation, arrhythmias.
 *   **BNP:** Secreted in response to stretch; diagnostic marker.
 
+</details>
+
 ---
 
-## Chapter 4: Cardiac Surgical Pharmacology
+<details>
+<summary>
+
+## Chapter 4: Cardiac Surgical Pharmacology</summary>
 
 ### Cellular Pharmacology Overview
 *   **Intracellular calcium** is the central mediator of both myocardial contractility (via troponin C) and vascular smooth muscle tone (via calmodulin).
@@ -285,9 +303,14 @@
 | **St. John's wort** | Decreased drug effect | Induces CYP450; reduces fentanyl, ondansetron levels |
 | **Kava, Valerian** | Sedation | Potentiates benzodiazepines, barbiturates, ethanol |
 
+</details>
+
 ---
 
-## Chapter 5: Cardiovascular Pathology
+<details>
+<summary>
+
+## Chapter 5: Cardiovascular Pathology</summary>
 
 ### Myocardial Hypertrophy & Remodeling
 *   **Pressure overload** (hypertension, AS): **Concentric hypertrophy** — increased wall thickness, no dilation.
@@ -439,9 +462,14 @@
     *   Myocardial regeneration: stem cells (resident cardiac, bone marrow); paracrine effects may predominate
     *   TEHV: living valves from autologous cells; decellularized scaffolds; challenges include immune response, durability, translation
 
+</details>
+
 ---
 
-## Chapter 6: Computed Tomography of the Adult Cardiac Surgery Patient: Principles and Applications
+<details>
+<summary>
+
+## Chapter 6: Computed Tomography of the Adult Cardiac Surgery Patient: Principles and Applications</summary>
 
 ### Technical Principles of Cardiac CT
 
@@ -486,9 +514,14 @@
 *   **Constrictive pericarditis:** CT best demonstrates calcification extent, pericardial thickening, and effusion. 3D volume rendering aids preoperative planning for pericardial stripping.
 *   **Cardiac masses:** CT evaluates extra-cardiac thoracic extension, calcification, and fat-containing lesions. MRI preferred for tissue characterization when not contraindicated.
 
+</details>
+
 ---
 
-## Chapter 7: Risk Assessment and Performance Improvement in Cardiac Surgery
+<details>
+<summary>
+
+## Chapter 7: Risk Assessment and Performance Improvement in Cardiac Surgery</summary>
 
 ### Foundational Concepts in Quality Assessment
 
@@ -542,9 +575,14 @@
 *   **Electronic medical records:** CPOE systems show mixed results—may reduce errors but can introduce new ones. Veterans Health Affairs system demonstrates successful implementation.
 *   **Public reporting:** STS partnership with Consumers Union publishes composite CABG measures; transparency has public appeal but effect on consumer behavior remains uncertain.
 
+</details>
+
 ---
 
-## Chapter 8: Simulation in Cardiac Surgery
+<details>
+<summary>
+
+## Chapter 8: Simulation in Cardiac Surgery</summary>
 
 ### Definition and Historical Context
 
@@ -598,9 +636,14 @@
 *   **New technology integration:** Simulation for OR opening, new procedure introduction, and new technology adoption before clinical use.
 *   **Expanded pathology repertoire:** Need for more technically accurate and biologically diverse simulations to develop pre- and intra-procedure judgment.
 
+</details>
+
 ---
 
-## Chapter 9: The Integrated Cardiovascular Center
+<details>
+<summary>
+
+## Chapter 9: The Integrated Cardiovascular Center</summary>
 
 ### Evolution of Cardiovascular Care Organization
 
@@ -644,9 +687,14 @@
 *   **TAVR:** Hybrid OR as optimal setting for transcatheter aortic valve replacement.
 *   **The Hybrid Paradigm:** Cardiovascular subspecialists increasingly identify as "cardiovascular proceduralists," transcending traditional boundaries.
 
+</details>
+
 ---
 
-## Chapter 10: Preoperative Evaluation for Cardiac Surgery
+<details>
+<summary>
+
+## Chapter 10: Preoperative Evaluation for Cardiac Surgery</summary>
 
 ### Risk Assessment Framework
 
@@ -698,9 +746,14 @@
 *   **Definition:** Lack of medical efficacy (therapy unlikely to produce intended clinical result) OR lack of meaningful survival (judged by patient values).
 *   **TAVR context:** Some patients die soon after or have minimal quality-of-life improvement despite successful procedure. Futility decisions should be collaborative; declining invasive treatment does not equate to abandonment of care.
 
+</details>
+
 ---
 
-## Chapter 11: Cardiac Anesthesia
+<details>
+<summary>
+
+## Chapter 11: Cardiac Anesthesia</summary>
 
 ### Myocardial Oxygen Supply-Demand Balance
 
@@ -766,9 +819,14 @@
 *   **TAVR:** Indicated for STS risk score >8%. Devices: Sapien XT (balloon-expandable, rapid pacing required), CoreValve (self-expanding). Alternative access: transapical, transaortic, subclavian.
 *   **MitraClip:** For high-risk degenerative MR; mimics Alfieri stitch; requires TEE guidance.
 
+</details>
+
 ---
 
-## Chapter 12: Echocardiography in Cardiac Surgery
+<details>
+<summary>
+
+## Chapter 12: Echocardiography in Cardiac Surgery</summary>
 
 ### Basic Principles and Safety
 
@@ -824,9 +882,14 @@
 *   **Epicardial views:** ASE guidelines define standard views (AV short/long axis, LV basal/mid SAX, LV long axis, two-chamber, RV outflow tract) for when TEE contraindicated.
 *   **Intracardiac air detection:** Post-CPB views include left atrial dome, pulmonary veins, left atrial appendage, LV apex.
 
+</details>
+
 ---
 
-## Chapter 13: Extracorporeal Circulation
+<details>
+<summary>
+
+## Chapter 13: Extracorporeal Circulation</summary>
 
 ### Perfusion Systems and Circuit Components
 *   **CPB Circuit Basics:** Blood drains by gravity from the SVC/IVC to a venous reservoir, is pumped through a membrane oxygenator (gas exchange), and returned to the systemic circulation via an arterial cannula (aorta, femoral, or axillary artery).
@@ -857,9 +920,14 @@
 *   **Temperature:** Mild hypothermia (32–34°C) is preferred to balance organ protection and avoid hyperthermic rewarming injury.
 *   **ACT:** Target >400 seconds before CPB; re-dose heparin every hour (⅓ initial dose).
 
+</details>
+
 ---
 
-## Chapter 14: Transfusion Therapy and Blood Conservation
+<details>
+<summary>
+
+## Chapter 14: Transfusion Therapy and Blood Conservation</summary>
 
 ### Rationale for Blood Conservation
 
@@ -909,9 +977,14 @@
     *   **Recombinant activated factor VII (rFVIIa):** May be considered for intractable nonsurgical bleeding unresponsive to conventional therapies. Off-label use associated with higher arterial thrombotic events (5.5% vs. 3.2%).
     *   **Prothrombin complex concentrates (PCCs):** Vitamin K-dependent factor concentrates. Useful for rapid reversal of oral anticoagulants; faster and with less bleeding than FFP. Early data suggest possible benefit for post-CPB coagulopathy.
 
+</details>
+
 ---
 
-## Chapter 15: Deep Hypothermic Circulatory Arrest
+<details>
+<summary>
+
+## Chapter 15: Deep Hypothermic Circulatory Arrest</summary>
 
 ### Historical Context
 
@@ -971,9 +1044,14 @@
 *   **Mannitol:** Osmotic diuretic; free radical scavenger; anti-apoptotic. Reduces mortality in multivariate analysis.
 *   **Barbiturates (thiopental):** Reduce cerebral O₂ consumption, produce EEG silence, minimize edema. Evidence inconclusive; not recommended based on current data.
 
+</details>
+
 ---
 
-## Chapter 16: Myocardial Protection
+<details>
+<summary>
+
+## Chapter 16: Myocardial Protection</summary>
 
 ### Ischemia/Reperfusion Injury
 
@@ -1073,9 +1151,14 @@
 *   **Trial design:** Low event rates require very large sample sizes. Surrogate markers (troponin, CK-MB) correlate with long-term mortality but FDA requires morbidity/mortality endpoints.
 *   **Timing:** Agents effective pre-ischemia may fail when given at reperfusion (only clinically feasible approach for acute MI).
 
+</details>
+
 ---
 
-## Chapter 17: Postoperative Care of Cardiac Surgery Patients
+<details>
+<summary>
+
+## Chapter 17: Postoperative Care of Cardiac Surgery Patients</summary>
 
 ### Hemodynamic Assessment and Goals
 
@@ -1156,9 +1239,14 @@
 *   **Deep sternal wound infection (mediastinitis):** 1–2% incidence; mortality ~10%. Risk factors: obesity, diabetes, COPD, renal dysfunction, prolonged CPB, transfusion, bilateral IMA harvest, hyperglycemia. Treatment: debridement, IV antibiotics, muscle/omental flap, vacuum-assisted closure.
 *   **Nutrition:** Cachectic patients (albumin <3.5 g/dL, weight loss >10%) at high risk. Postoperative requirements: 25–40 kcal/kg/day.
 
+</details>
+
 ---
 
-## Chapter 18: Temporary Mechanical Circulatory Support
+<details>
+<summary>
+
+## Chapter 18: Temporary Mechanical Circulatory Support</summary>
 
 ### Intra-Aortic Balloon Pump (IABP)
 
@@ -1207,9 +1295,14 @@
 *   **Multidisciplinary approach:** Cardiogenic shock requires collaboration between surgery, cardiology, perfusion, critical care.
 *   **Early recognition:** Failure to escalate from IABP to direct support when shock persists is associated with high mortality.
 
+</details>
+
 ---
 
-## Chapter 19: Myocardial Revascularization with Percutaneous Devices
+<details>
+<summary>
+
+## Chapter 19: Myocardial Revascularization with Percutaneous Devices</summary>
 
 ### Balloon Angioplasty Principles
 
@@ -1269,9 +1362,14 @@
 *   **Components:** Lesion characteristics (total occlusion, bifurcation/trifurcation, aorto-ostial, tortuosity, length >20 mm, calcification, thrombus, diffuse disease) and clinical factors (LV function, renal function, lung disease).
 *   **Application:** Objective decision-making tool to match patient to optimal revascularization strategy.
 
+</details>
+
 ---
 
-## Chapter 20: Myocardial Revascularization with Cardiopulmonary Bypass
+<details>
+<summary>
+
+## Chapter 20: Myocardial Revascularization with Cardiopulmonary Bypass</summary>
 
 ### Indications for Surgical Revascularization (2011 ACCF/AHA Guidelines)
 
@@ -1327,9 +1425,14 @@
 *   **Long-term outcomes (KU Leuven, n=9600):** Freedom from angina: 95% at 1 year, 82% at 5 years, 61% at 10 years, 38% at 15 years. Freedom from MI: 97% at 30 days, 94% at 5 years, 86% at 10 years. Survival: 98% at 30 days, 92% at 5 years, 81% at 10 years, 66% at 15 years, 51% at 20 years.
 *   **Bilateral ITA grafting:** Improves 10-year survival (86% vs. 71% for single ITA) and reoperation-free survival (77% vs. 62%) in retrospective studies.
 
+</details>
+
 ---
 
-## Chapter 21: Myocardial Revascularization Without Cardiopulmonary Bypass
+<details>
+<summary>
+
+## Chapter 21: Myocardial Revascularization Without Cardiopulmonary Bypass</summary>
 
 ### Rationale and Historical Context
 *   **Off-pump CABG (OPCAB):** Developed to avoid the systemic inflammatory effects of cardiopulmonary bypass (CPB) and aortic manipulation, which are linked to stroke, renal failure, and respiratory failure.
@@ -1375,9 +1478,14 @@
 *   **2011 ACCF/AHA:** OPCAB to reduce bleeding/transfusion (Class IIa, A) and for renal dysfunction (Class IIb, B).
 *   **2014 ESC/EACTS:** OPCAB in high-risk patients at experienced centers (Class IIa, B); OPCAB in patients with ascending aortic atherosclerosis (Class I, B); routine intraoperative graft flow measurement (Class IIa, C).
 
+</details>
+
 ---
 
-## Chapter 22: Myocardial Revascularization after Acute Myocardial Infarction
+<details>
+<summary>
+
+## Chapter 22: Myocardial Revascularization after Acute Myocardial Infarction</summary>
 
 ### Pathophysiology and Myocardial States
 - **Acute Coronary Occlusion:** Within 60 seconds of occlusion, the ischemic zone shifts from active systolic shortening to passive lengthening. Reperfusion after <20 minutes causes reversible stunning; after >40 minutes, salvageable myocardium decreases from 60–70% to ~10% by 3 hours.
@@ -1401,9 +1509,14 @@
 - **Management:** Early revascularization (PCI or CABG) within 12 hours is a Class I recommendation and improves survival. The SHOCK trial demonstrated a 6-year survival benefit for early revascularization (32.8%) over initial medical stabilization (19.6%).
 - **Mechanical Circulatory Support (MCS):** IABP use has been downgraded (Class IIa) after the IABP-Shock II trial showed no mortality benefit. VA-ECMO and percutaneous VADs (Impella, TandemHeart) are used for stabilization, end-organ preservation, and as a bridge to recovery or durable LVAD/transplant.
 
+</details>
+
 ---
 
-## Chapter 23: Minimally Invasive Myocardial Revascularization
+<details>
+<summary>
+
+## Chapter 23: Minimally Invasive Myocardial Revascularization</summary>
 
 ### Off-Pump Coronary Artery Bypass (OPCAB) Grafting
 *   **Definition:** CABG performed on a beating heart without cardiopulmonary bypass (CPB).
@@ -1432,9 +1545,14 @@
 *   **Endoscopic Vein Harvest:** Reduces wound complications by up to 69% compared to the open technique, with no proven difference in graft patency in most studies.
 *   **Endoscopic Radial Artery Harvest:** Associated with lower wound infection rates and improved patient satisfaction, with comparable graft integrity and patency.
 
+</details>
+
 ---
 
-## Chapter 24: Coronary Artery Reoperations
+<details>
+<summary>
+
+## Chapter 24: Coronary Artery Reoperations</summary>
 
 ### Incidence and Changing Population
 - **Incidence:** Cumulative incidence of reoperation is 3% at 5 years, 10% at 10 years, and 25% at 20 years after primary bypass.
@@ -1462,9 +1580,14 @@
 - **Late Survival:** 10-year survival for hospital survivors is ~69%. Predictors of decreased late survival: LV dysfunction, advanced age, smoking, hypertension, and left main or triple-vessel disease.
 - **Multiple Reoperations:** Higher risk, but long-term outcomes remain favorable.
 
+</details>
+
 ---
 
-## Chapter 25: Surgical Treatment of Complications of Myocardial Infarction, Ventricular Septal Defect, Myocardial Rupture, and Left Ventricular Aneurysm
+<details>
+<summary>
+
+## Chapter 25: Surgical Treatment of Complications of Myocardial Infarction, Ventricular Septal Defect, Myocardial Rupture, and Left Ventricular Aneurysm</summary>
 
 ### Postinfarction Ventricular Septal Defect (VSD)
 - **Incidence:** Occurs in 1–2% of acute MIs, typically 3–5 days post-infarction. Anterior infarctions account for 70% of cases.
@@ -1489,9 +1612,14 @@
     - **Endoventricular Patch (Dor procedure):** Intracavitary patch to exclude the infarct, preserving geometry and the LAD. Increasingly preferred.
 - **Outcomes:** Operative mortality is 3–7% in modern series. The STICH trial showed no survival benefit for SVR added to CABG in patients with moderate LV dysfunction, but post-hoc analysis suggests benefit if postoperative LVESVI < 70 mL/m².
 
+</details>
+
 ---
 
-## Chapter 26: Pathophysiology of Aortic Valve Disease
+<details>
+<summary>
+
+## Chapter 26: Pathophysiology of Aortic Valve Disease</summary>
 
 ### Anatomy and Mechanics
 - **Structure:** The normal AV has three semilunar leaflets (right, left, posterior coronary cusps) attached in a crown-like fashion, with the sinuses of Valsalva above each cusp. The leaflets consist of three layers: fibrosa (collagen), spongiosa (loose CT), and ventricularis (elastic fibers).
@@ -1510,9 +1638,14 @@
     - **Chronic AR:** Eccentric LV hypertrophy and dilation maintain forward stroke volume for years. Wide pulse pressure is classic. Eventually, afterload mismatch and fibrosis lead to systolic dysfunction.
 - **Indications for Surgery:** Symptoms, LVEF ≤ 50%, or progressive LV dilation (LVESD ≥ 50 mm, LVEDD ≥ 65 mm) in asymptomatic patients. Valve repair is preferred over replacement when feasible.
 
+</details>
+
 ---
 
-## Chapter 27: Aortic Valve Replacement with a Mechanical Cardiac Valve Prosthesis
+<details>
+<summary>
+
+## Chapter 27: Aortic Valve Replacement with a Mechanical Cardiac Valve Prosthesis</summary>
 
 ### Historical Evolution
 - **First-generation:** Ball-and-cage valves (Starr-Edwards) introduced in the 1960s, durable for up to 40 years but required intense anticoagulation and had suboptimal hemodynamics.
@@ -1546,9 +1679,14 @@
 - **Younger Patients:** Low event rates; excellent long-term survival (~88% at 20 years). Durability is paramount.
 - **Stopping Anticoagulation:** Limited data support antiplatelet-only therapy in highly selected patients, but this remains investigational.
 
+</details>
+
 ---
 
-## Chapter 28: Stented Bioprosthetic Aortic Valve Replacement
+<details>
+<summary>
+
+## Chapter 28: Stented Bioprosthetic Aortic Valve Replacement</summary>
 
 ### Natural History and Indications for Aortic Stenosis (AS)
 - **Prevalence:** Degenerative calcific AS is most common in patients >70 years; bicuspid AS in those <70 years. Prevalence increases with age: 0.6% (55–64), 1.4% (65–74), 4.6% (≥75).
@@ -1581,9 +1719,14 @@
 - **Prosthesis Selection:** Mechanical valves preferred for patients <60 years, bioprostheses for >70 years. Shared decision-making is critical for patients aged 60–70. Absolute anticoagulation requirements favor mechanical valves; contraindications favor bioprostheses.
 - **TAVR:** Indicated for inoperable patients (Class I) and high-risk operable patients (Class IIa). Decision-making requires a multidisciplinary Heart Team.
 
+</details>
+
 ---
 
-## Chapter 29: Stentless Aortic Valve and Root Replacement
+<details>
+<summary>
+
+## Chapter 29: Stentless Aortic Valve and Root Replacement</summary>
 
 ### Historical Context and Current Options
 - **Homografts:** First used in 1962 (Ross, Barratt-Boyes). Cryopreservation became standard in 1975. Offer excellent hemodynamics and low endocarditis risk but limited availability and durability inversely related to recipient age.
@@ -1601,9 +1744,14 @@
 - **Outcomes:** Operative mortality 1–3% in experienced centers. Long-term survival approximates age-matched normal population. Freedom from autograft reoperation ~75–88% at 20 years; freedom from homograft reoperation ~80–89% at 20 years. The Ross provides superior exercise hemodynamics compared to other bioprostheses.
 - **Reoperation:** Safe in experienced centers with low mortality for elective cases. Options include valve-sparing root repair, Bentall procedure, or transcatheter valve-in-valve for failed homografts.
 
+</details>
+
 ---
 
-## Chapter 30: Aortic Valve Repair and Aortic Valve-Sparing Operations
+<details>
+<summary>
+
+## Chapter 30: Aortic Valve Repair and Aortic Valve-Sparing Operations</summary>
 
 ### Functional Anatomy of the Aortic Root
 - **Components:** The aortic root consists of the aortoventricular junction (annulus), aortic cusps, aortic sinuses (of Valsalva), and sinotubular junction. The triangles beneath the commissures are also critical for valve function.
@@ -1638,9 +1786,14 @@
 - **Aortic Root Aneurysm (David series):** 18-year survival 76.8%; freedom from moderate/severe AR 78%; freedom from reoperation 94.8%. Results similar for remodeling and reimplantation.
 - **General Principle:** Aortic valve repair and valve-sparing operations provide excellent long-term outcomes in experienced centers but are technically demanding.
 
+</details>
+
 ---
 
-## Chapter 31: Surgical Treatment of Aortic Valve Endocarditis
+<details>
+<summary>
+
+## Chapter 31: Surgical Treatment of Aortic Valve Endocarditis</summary>
 
 ### Epidemiology and Predisposing Factors
 - **Incidence:** Native aortic valve IE: 1.7–7.0 episodes per 100,000 person-years. Prosthetic valve IE: 0.2–1.4 episodes per 100 patient-years. Early prosthetic valve IE (<1 year) occurs in ~1.4% of AVR patients.
@@ -1687,9 +1840,14 @@
 - Not recommended for genitourinary or gastrointestinal procedures.
 - Our practice: Dental clearance preoperatively; prophylaxis for dental extractions.
 
+</details>
+
 ---
 
-## Chapter 32: Minimally Invasive Aortic Valve Surgery
+<details>
+<summary>
+
+## Chapter 32: Minimally Invasive Aortic Valve Surgery</summary>
 
 ### Principles and Benefits
 - **Benefits:** Cosmetically superior incision, reduced postoperative pain, faster recovery, improved respiratory function (preserved sternal integrity), comparable mortality to full sternotomy, and facilitated future reoperations.
@@ -1719,9 +1877,14 @@
 - **Operative Strategy:** Upper hemisternotomy with right pleural opening; peripheral cannulation (axillary or femoral); posterior sternal division on CPB; systemic hyperkalemia to arrest LIMA-perfused territory; retrograde cardioplegia; modified aortotomy (lazy S or lateral vertical) to avoid grafts.
 - **Outcomes:** Facilitates safe reoperation with reduced dissection and graft injury.
 
+</details>
+
 ---
 
-## Chapter 33: Percutaneous Treatment of Aortic Valve Disease
+<details>
+<summary>
+
+## Chapter 33: Percutaneous Treatment of Aortic Valve Disease</summary>
 
 ### Historical Context
 - **Pioneers:** Andersen (1980s animal experiments), Cribier (first human TAVR 2002), Mack/Dewey/Svensson (transapical development), Webb (retrograde transfemoral approach).
@@ -1752,9 +1915,14 @@
 - **Intermediate Risk:** PARTNER 2A showed TAVR noninferior to surgery; FDA approved TAVR for intermediate risk in August 2016.
 - **Low Risk:** PARTNER-3 trial currently underway; randomized controlled trials needed before routine use.
 
+</details>
+
 ---
 
-## Chapter 34: Pathophysiology of Mitral Valve Disease
+<details>
+<summary>
+
+## Chapter 34: Pathophysiology of Mitral Valve Disease</summary>
 
 ### Normal Mitral Valve Anatomy and Function
 - **Anatomy:** The mitral valve has two leaflets: anterior (aortic, larger) and posterior (mural, with three scallops: P1, P2, P3). The annulus is saddle-shaped (hyperbolic paraboloid), with the highest point anteriorly (saddle horn) and low points at the commissures.
@@ -1776,9 +1944,14 @@
 - **Surgical Indications (Primary MR):** Symptoms, LVEF ≤60%, or LVESD ≥40 mm (Class I). Early repair (Class IIa) if LVEF >60%, LVESD <40 mm, high repair likelihood (≥90%), and low surgical risk (<1%).
 - **Surgical Indications (Secondary MR):** Ongoing symptoms despite optimal medical therapy, coronary revascularization, or CRT. Operative risk is higher; outcomes are driven by LV function and comorbidities. Complete chordal-sparing MVR may be preferred over annuloplasty in severe tethering or high-risk patients.
 
+</details>
+
 ---
 
-## Chapter 35: Mitral Valve Repair
+<details>
+<summary>
+
+## Chapter 35: Mitral Valve Repair</summary>
 
 ### Historical Perspective
 - **First Repair:** Elliot Carr Cutler performed the first successful mitral valve repair (transventricular commissurotomy) in 1923. Henry Souttar performed a transatrial finger commissurotomy in 1925.
@@ -1824,9 +1997,14 @@
 - **Thromboembolism:** Exceedingly low; no long-term anticoagulation required unless atrial fibrillation present.
 - **Etiology as Determinant:** Myxomatous repair has excellent long-term outcomes; rheumatic disease has higher late reoperation rates.
 
+</details>
+
 ---
 
-## Chapter 36: Mitral Valve Repair: Rheumatic
+<details>
+<summary>
+
+## Chapter 36: Mitral Valve Repair: Rheumatic</summary>
 
 ### Epidemiology and Pathophysiology
 - **Global Burden:** RHD affects up to 19.6 million people globally, with 282,000 new cases per year. Peak incidence in individuals aged 25–35 years, with female predominance in developing countries.
@@ -1851,9 +2029,14 @@
 - **Durability:** Failure rate is 2–5% per year (vs. 1–2% for degenerative disease). Reoperation rates are higher due to progressive fibrosis and calcification of the subvalvular apparatus.
 - **Key Advantage:** Meta-analyses confirm lower operative mortality for repair compared to replacement (OR 2.98, CI 95% 1.45–6.15).
 
+</details>
+
 ---
 
-## Chapter 37: Surgery for Functional Mitral Regurgitation
+<details>
+<summary>
+
+## Chapter 37: Surgery for Functional Mitral Regurgitation</summary>
 
 ### Definition and Impact
 - **FMR:** Nonorganic MR caused by LV remodeling, dilation, and dysfunction, not intrinsic valve disease. Leads to papillary muscle displacement and annular dilation.
@@ -1889,9 +2072,14 @@
 - Patients with LVEDD >65 mm, severe RV dysfunction, or high pulmonary pressures have poor outcomes and may not benefit from surgery.
 - If repair is chosen, durable repair (no recurrence) is critical; patients at high risk for recurrence should undergo valve-sparing replacement.
 
+</details>
+
 ---
 
-## Chapter 38: Surgical Treatment of Mitral Valve Endocarditis
+<details>
+<summary>
+
+## Chapter 38: Surgical Treatment of Mitral Valve Endocarditis</summary>
 
 ### Epidemiology and Pathology
 *   **Incidence:** Mitral valve infective endocarditis (IE) is less common than aortic valve IE. Overall incidence has increased over the past 3 decades due to predisposing factors like degenerative valve disease, prosthetic valves, hemodialysis, and IV drug abuse.
@@ -1912,9 +2100,14 @@
 *   **Prosthetic Valve:** Surgery involves reoperation via sternotomy. The David technique, using an autologous pericardial patch, is key for reconstructing the mitral annulus after abscess debridement. For extensive infections involving the fibrous trigones, combined aortic and mitral valve replacement with reconstruction is required.
 *   **Postoperative Care:** All patients with active infection receive 6 weeks of postoperative antibiotics. Fungal infections require lifelong oral antifungal suppression.
 
+</details>
+
 ---
 
-## Chapter 39: Mitral Valve Repair for Congenital Mitral Valve Disease in the Adult
+<details>
+<summary>
+
+## Chapter 39: Mitral Valve Repair for Congenital Mitral Valve Disease in the Adult</summary>
 
 ### Epidemiology and Clinical Context
 *   **Rarity in Adults:** Isolated, non-reoperative congenital mitral valve abnormalities are rare in adults. More commonly, mitral pathology is concurrent with other anomalies, such as an ostium primum atrial septal defect, where almost all cases have an associated mitral valve cleft.
@@ -1946,9 +2139,14 @@
     *   **Cleft Repair:** Simple closure is effective if adequate leaflet tissue is present. For deficiencies, patch augmentation with or without artificial chordae is used. Complex cases may require leaflet detachment and patch augmentation.
     *   **Posterior Leaflet:** Quadrangular resection and reduction annuloplasty are adjuncts to improve coaptation.
 
+</details>
+
 ---
 
-## Chapter 40: Minimally Invasive and Robotic Mitral and Tricuspid Valve Surgery
+<details>
+<summary>
+
+## Chapter 40: Minimally Invasive and Robotic Mitral and Tricuspid Valve Surgery</summary>
 
 ### Evolution and Definition
 *   **Definition:** Minimally invasive mitral valve surgery (MIS) encompasses techniques and technologies designed to lessen surgical trauma. It includes direct-vision, video-assisted (endoscopic), and robot-assisted approaches via a right minithoracotomy.
@@ -1976,9 +2174,14 @@
 *   **Complications:** Specific risks include phrenic nerve injury, unilateral pulmonary edema, and retrograde perfusion-related complications (stroke, dissection). Careful screening and technique minimize these risks.
 *   **Future:** The future lies in even less invasive approaches, including transcatheter therapies (MitraClip, neochord, annuloplasty) and continued refinement of robotic techniques.
 
+</details>
+
 ---
 
-## Chapter 41: Percutaneous Catheter-based Mitral Valve Repair
+<details>
+<summary>
+
+## Chapter 41: Percutaneous Catheter-based Mitral Valve Repair</summary>
 
 ### Introduction and Rationale
 *   **Background:** Mitral valve repair (MVR) is the standard of care for severe mitral regurgitation (MR). While transcatheter aortic valve replacement (TAVR) has advanced rapidly, percutaneous correction of MR has progressed more slowly due to complex valve anatomy, diverse etiologies, and challenges in delivery and anchoring.
@@ -1999,9 +2202,14 @@
 *   **Transcatheter Mitral Valve Replacement (TMVR):** An intriguing concept to eliminate MR recurrence, especially in secondary MR. Challenges include anchoring in a non-calcified annulus and avoiding LV outflow tract obstruction. Valve-in-valve (VinV) and valve-in-ring (VinR) procedures are established, and dedicated TMVR devices (CardiAQ, Tiara, Tendyne, Fortis) are in early feasibility trials.
 *   **Guidelines:** 2012 ESC/EACTS guidelines give a Class IIb recommendation for MitraClip in symptomatic patients with severe primary or secondary MR who are inoperable or at high risk. 2014 ACC/AHA guidelines restrict it to prohibitive-risk primary MR.
 
+</details>
+
 ---
 
-## Chapter 42: Mitral Valve Replacement
+<details>
+<summary>
+
+## Chapter 42: Mitral Valve Replacement</summary>
 
 ### Epidemiology and Indications
 *   **Mitral Stenosis (MS):** Almost exclusively rheumatic. Severe MS is defined as a valve area ≤1.5 cm². Percutaneous balloon valvuloplasty is first-line for suitable anatomy (Wilkins score ≤8). Mitral valve replacement (MVR) is indicated for severe symptomatic MS when valvuloplasty is not feasible or has failed, or for moderate/severe MS during other cardiac surgery.
@@ -2027,9 +2235,14 @@
 *   **Morbidity:** Thromboembolism (1.5–2.0%/patient-year) and anticoagulant-related hemorrhage are major risks with mechanical valves. SVD is the main complication for bioprostheses.
 *   **Paravalvular Leak:** Occurs in 7–17% of MVRs. Symptomatic leaks can be managed with percutaneous closure (using Amplatzer devices) or reoperative surgical repair.
 
+</details>
+
 ---
 
-## Chapter 43: Tricuspid Valve Disease
+<details>
+<summary>
+
+## Chapter 43: Tricuspid Valve Disease</summary>
 
 ### Anatomy and Pathophysiology
 *   **Tricuspid Valve Anatomy:** The tricuspid valve consists of three leaflets (anterior, posterior, septal), two discrete papillary muscles, chordae tendineae, and a fibrous annulus. The septal leaflet is fixed, making annular sizing based on the base of the septal leaflet.
@@ -2057,9 +2270,14 @@
 *   **Mortality:** Operative mortality for combined mitral and tricuspid surgery is 5–10%. Survival at 10 years is approximately 55%.
 *   **Conduction Abnormalities:** Complete heart block is a risk; performing tricuspid procedure on the beating heart minimizes this. Late heart block has a 25% actuarial incidence at 10 years for patients with mitral and tricuspid prostheses.
 
+</details>
+
 ---
 
-## Chapter 44: Multiple Valve Disease
+<details>
+<summary>
+
+## Chapter 44: Multiple Valve Disease</summary>
 
 ### Epidemiology and Pathophysiology
 *   **Incidence:** Multiple valve procedures account for ~15% of all valve surgeries, with 80% involving the aortic and mitral positions.
@@ -2079,9 +2297,14 @@
 *   **Morbidity:** Thromboembolism rates are 1–7% per patient-year. Anticoagulant-related hemorrhage and prosthetic valve endocarditis are significant risks.
 *   **Bioprosthetic Durability:** Structural valve deterioration is more rapid in the mitral position than the aortic position, influencing the choice of prosthesis in double-valve replacement.
 
+</details>
+
 ---
 
-## Chapter 45: Valvular and Ischemic Heart Disease
+<details>
+<summary>
+
+## Chapter 45: Valvular and Ischemic Heart Disease</summary>
 
 ### Epidemiology and Clinical Impact
 *   **Combined Disease:** Concomitant valvular heart disease and coronary artery disease (CAD) is increasingly common in an aging population, with patients often presenting with complex comorbidities and worse ventricular function.
@@ -2112,9 +2335,14 @@
 *   **AS+MR+CAD:** Functional MR often improves after AVR alone. If intrinsic mitral disease is present, repair is performed after AVR. Operative mortality 12–16%.
 *   **AR+MR+CAD:** Preoperative assessment of myocardial viability is critical. Mitral regurgitation is often secondary to ventricular dilation and may require only annuloplasty. Operative mortality is high in this group.
 
+</details>
+
 ---
 
-## Chapter 46: Reoperative Valve Surgery
+<details>
+<summary>
+
+## Chapter 46: Reoperative Valve Surgery</summary>
 
 ### Epidemiology and Risk Factors
 *   **Increasing Incidence:** The number of reoperative valve surgeries is rising due to an aging population and increased use of bioprostheses with finite durability.
@@ -2142,9 +2370,14 @@
 *   **High Risk:** TVR is associated with high operative mortality (~22%). Functional etiology and pulmonary hypertension are major risk factors.
 *   **Endocarditis:** Tricuspid valvectomy without replacement is tolerated initially but leads to late right-sided failure. Delayed replacement (3-9 months) is an option.
 
+</details>
+
 ---
 
-## Chapter 47: Chapter 47
+<details>
+<summary>
+
+## Chapter 47: Chapter 47</summary>
 
 ## Classification & Timing
 *   **Stanford Type A:** Involves ascending aorta (60-75% of cases).
@@ -2230,9 +2463,14 @@
 *   **Re-intervention:** ~20-40% of chronic patients require surgery for aneurysm progression.
 Thoracic aortic dissection occurs when an intimal tear allows redirection of blood flow from the aorta (true lumen) through the intimal defect into the media of the aortic wall (false lumen). A dissection plane that separates the intima from the overlying adventitia forms within the media. The acute form of aortic dissection is often rapidly lethal; whereas, those surviving the initial event go on to develop a chronic dissection with more protean manifestations. The purpose of this chapter is to review the etiology and pathogenesis of aortic dissection, examine current diagnostic algorithms, and provide detailed descriptions of contemporary surgical techniques for treatment. Additional information regarding follow-up and the subsequent management of these patients is presented to provide a comprehensive understanding of a clinical entity that has challenged physicians and surgeons for centuries.
 
+</details>
+
 ---
 
-## Chapter 48: Ascending and Arch Aortic Aneurysms
+<details>
+<summary>
+
+## Chapter 48: Ascending and Arch Aortic Aneurysms</summary>
 
 ## Key Etiologies & Genetics
 *   **Marfan Syndrome (MFS):** Autosomal dominant (FBN1 gene); incidence 1:3,000-10,000. Results in aortoannular ectasia. Losartan (ARB) may slow aortic growth (TGF-β antagonism).
@@ -2308,9 +2546,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Reoperation:** Freedom 86-90% at 10 years. Higher in MFS, inclusion technique, or inadequate initial resection.
 *   **Graft Infection:** 0.9-6%; mortality 25-75%. Treatment: Graft explant, homograft, omental flap.
 
+</details>
+
 ---
 
-## Chapter 49: Descending and Thoracoabdominal Aortic Aneurysms
+<details>
+<summary>
+
+## Chapter 49: Descending and Thoracoabdominal Aortic Aneurysms</summary>
 
 ### Definitions and Classification
 *   **Descending Thoracic Aortic Aneurysm (DTAA):** Aneurysm limited to the chest, distal to the left subclavian artery.
@@ -2347,9 +2590,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Blood Pressure Control:** Critical to balance hypertension (risk of bleeding) and hypotension (risk of spinal cord ischemia). Target mean arterial pressure (MAP) is 80–90 mm Hg.
 *   **Lifelong Surveillance:** Annual CT or MR imaging is recommended to detect new aneurysms in other aortic segments or pseudoaneurysms, especially in patients with connective tissue disorders or residual distal aortic dissection.
 
+</details>
+
 ---
 
-## Chapter 50: Endovascular Therapy for the Treatment of Thoracic Aortic Disease
+<details>
+<summary>
+
+## Chapter 50: Endovascular Therapy for the Treatment of Thoracic Aortic Disease</summary>
 
 ### Historical Development
 *   **Pioneering Era:** Endovascular stent-graft technology was first introduced by Parodi for abdominal aortic aneurysms. At Stanford, a collaborative effort produced the first homemade thoracic stent graft using Gianturco Z stents covered with woven Dacron, implanted in 1992.
@@ -2389,9 +2637,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   Unibranch grafts for proximal repairs into the aortic arch; multibranch and fenestrated grafts for thoracoabdominal aneurysms.
 *   Lifelong surveillance is mandatory, as even completely thrombosed sacs can elongate with late Type I endoleaks.
 
+</details>
+
 ---
 
-## Chapter 51: Trauma to the Great Vessels
+<details>
+<summary>
+
+## Chapter 51: Trauma to the Great Vessels</summary>
 
 ### Epidemiology and Outcomes
 *   **Incidence:** Blunt thoracic aortic injury (BTAI) occurs in 7500–8000 cases/year in the US, with 75–90% dying at the scene. Mortality is 46% for nonoperative management, 19% for open repair, and 9% for endovascular repair.
@@ -2426,9 +2679,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Open Repair:** Paraplegia risk reduced with lower body perfusion (centrifugal pump, partial left heart bypass). Cross-clamp time < 30 minutes critical with clamp-and-sew technique.
 *   **TEVAR:** Requires proximal landing zone ≥ 1.5 cm; left subclavian coverage safe in most patients. Oversizing 10–20%. Long-term surveillance with CTA at 1, 3, and 12 months, then every 3–5 years.
 
+</details>
+
 ---
 
-## Chapter 52: Pulmonary Embolism and Pulmonary Thromboendarterectomy
+<details>
+<summary>
+
+## Chapter 52: Pulmonary Embolism and Pulmonary Thromboendarterectomy</summary>
 
 ### Epidemiology
 *   **Incidence:** PE occurs in >630,000 symptomatic cases/year in the US (third leading cause of death). DVT affects ~2.5 million Americans annually.
@@ -2456,9 +2714,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Outcomes:** Mortality <5% in recent series (>3000 patients since 1990), <2% in last 5 years. 95% of patients in NYHA class I–II at 1 year. Survival 75% at ≥6 years.
 *   **Complications:** Reperfusion injury (10%), persistent pulmonary hypertension (Type IV disease), delirium (if circulatory arrest >55 min).
 
+</details>
+
 ---
 
-## Chapter 53: Interventional Therapy for Atrial and Ventricular Arrhythmias
+<details>
+<summary>
+
+## Chapter 53: Interventional Therapy for Atrial and Ventricular Arrhythmias</summary>
 
 ### Ablation Technologies
 *   **Surgical Ablation:** First successful surgical elimination of accessory pathway reported in 1968; limited by thoracotomy morbidity.
@@ -2503,9 +2766,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   Cost-effective with incremental cost-effectiveness ratio ~USD50,000/QALY.
 *   Future directions: force-sensing catheters, remote navigation, left atrial appendage occlusion devices.
 
+</details>
+
 ---
 
-## Chapter 54: Surgery for Atrial Fibrillation
+<details>
+<summary>
+
+## Chapter 54: Surgery for Atrial Fibrillation</summary>
 
 ### Historical Evolution
 *   **Left Atrial Isolation (1980):** First procedure specifically for AF; confined AF to left atrium but did not eliminate thromboembolic risk.
@@ -2536,9 +2804,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **ECGI (Electrocardiographic Imaging):** Noninvasive mapping of AF mechanisms; allows patient-specific lesion design.
 *   **Hybrid Procedures:** Combine epicardial surgical and endocardial catheter ablation; promising early results (74% freedom at 24 months).
 
+</details>
+
 ---
 
-## Chapter 55: Surgical Implantation of Pacemakers and Automatic Defibrillators
+<details>
+<summary>
+
+## Chapter 55: Surgical Implantation of Pacemakers and Automatic Defibrillators</summary>
 
 ### Pacemaker Fundamentals
 *   **Components:** Generator (battery, telemetry, integrated circuits) + leads (endocardial or epicardial).
@@ -2567,9 +2840,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Congenital Heart Disease:** Persistent left SVC, Fontan physiology, Mustard procedure require specialized lead placement.
 *   **EMI Management:** Unipolar cautery can inhibit pacemaker; reprogram to VOO/DOO during surgery. MRI-compatible systems available.
 
+</details>
+
 ---
 
-## Chapter 56: Surgery for Adult Congenital Heart Disease
+<details>
+<summary>
+
+## Chapter 56: Surgery for Adult Congenital Heart Disease</summary>
 
 ### Philosophy and Systems
 *   **Cumulative Trauma Reduction:** Multidisciplinary team approach selecting least traumatic effective therapy first (e.g., device closure before surgical repair for ASD).
@@ -2614,9 +2892,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 ### Outcomes
 *   Pediatric congenital heart surgeons have lower mortality for ACHD surgery (1.87%) vs adult cardiac surgeons (4.84%, p < .0001). Arrhythmia leading cause of death in cyanotic lesions; myocardial infarction now leading cause in noncyanotic ACHD.
 
+</details>
+
 ---
 
-## Chapter 57: Pericardial Disease
+<details>
+<summary>
+
+## Chapter 57: Pericardial Disease</summary>
 
 ### Anatomy and Function
 *   **Structure:** Fibroserous sac with two layers (serous visceral/parietal and fibrous). Normal fluid volume 10–20 mL.
@@ -2664,9 +2947,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 ### Key Outcomes
 *   Pericardiectomy survival depends on etiology; worst with radiation-induced CP (concurrent RCM).
 
+</details>
+
 ---
 
-## Chapter 58: Cardiac Neoplasms
+<details>
+<summary>
+
+## Chapter 58: Cardiac Neoplasms</summary>
 
 ### Epidemiology
 *   **Incidence:** Primary cardiac tumors 0.17–0.19% at autopsy. 75% benign, 25% malignant. Benign: 50% myxomas. Malignant: 75% sarcomas.
@@ -2708,9 +2996,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Renal cell carcinoma with IVC extension:** 10% invade IVC, 40% reach RA. Surgical resection with 75% 5-year survival.
 *   **Multidisciplinary approach:** Essential for sarcomas; diagnostic algorithm (Fig. 58-37).
 
+</details>
+
 ---
 
-## Chapter 59: Immunobiology of Heart and Lung Transplantation
+<details>
+<summary>
+
+## Chapter 59: Immunobiology of Heart and Lung Transplantation</summary>
 
 ### Major Histocompatibility Complex (MHC/HLA)
 *   **Structure:** Class I (HLA-A, B, C) on all nucleated cells; Class II (HLA-DR, DQ, DP) on APCs. HLA genes on chromosome 6; >5000 alleles.
@@ -2749,9 +3042,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Allomap:** Gene expression profiling; may reduce need for surveillance biopsies in low-risk patients.
 *   **ImmuKnow:** Measures ATP in activated T cells; <200 ng/mL associated with infection risk.
 
+</details>
+
 ---
 
-## Chapter 60: Heart Transplantation
+<details>
+<summary>
+
+## Chapter 60: Heart Transplantation</summary>
 
 ### Historical Milestones
 *   **1905:** Alexis Carrel and Charles Guthrie performed the first heterotopic canine heart transplant. Frank Mann (Mayo Clinic, 1930s) proposed the concept of allograft rejection as leukocytic infiltration.
@@ -2826,9 +3124,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Late causes (>1 year):** CAV and malignancy.
 *   **Favorable predictors of long-term survival:** Recipient age <55 years, shorter ischemic time, younger donor age, annual center volume >9 (centers >40/year: 30-day mortality <5%).
 
+</details>
+
 ---
 
-## Chapter 61: Lung Transplantation and Heart-lung Transplantation
+<details>
+<summary>
+
+## Chapter 61: Lung Transplantation and Heart-lung Transplantation</summary>
 
 ### History and Epidemiology
 *   **First human lung transplant:** 1963 (Hardy, University of Mississippi) — 18-day survival. First successful series: 1986 (Toronto Lung Transplant Group).
@@ -2890,9 +3193,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **Heart-lung transplant survival (ISHLT 1982–2012):** Median 3.3 years; conditional median 10.0 years; 72% at 3 months, 64% at 1 year.
 *   **Cardiac complications of heart-lung transplant:** Sinus node dysfunction in 10–20%; isoproterenol/pacing for HR 90–110 bpm. Graft CAD: diffuse concentric intimal proliferation; 89% of heart-lung recipients free at 5 years vs 73% of cardiac transplant recipients alone.
 
+</details>
+
 ---
 
-## Chapter 62: Long-term Mechanical Circulatory Support and the Total Artificial Heart
+<details>
+<summary>
+
+## Chapter 62: Long-term Mechanical Circulatory Support and the Total Artificial Heart</summary>
 
 ### Epidemiology and Clinical Burden of Heart Failure
 *   **Prevalence:** Approximately 5.1 million Americans live with HF; lifetime risk for Americans over 40 is ~20%. Annual US healthcare costs exceed $30 billion.
@@ -2973,9 +3281,14 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   **AbioCor:** Self-contained electrohydraulic TAH with transcutaneous energy transfer. Stroke volume 65 mL; CO up to 12 L/min. 14 patients enrolled; longest survival 512 days. FDA HDE 2006; no implants since feasibility study due to economic barriers.
 *   **CF TAH (BiVACOR):** Single magnetically levitated rotor; no bearings or valves; impellers on both sides of rotor. Dynamic speed profiles allow pulsatility. >70 calf implants; 2 animals survived >90 days. Human trials anticipated.
 
+</details>
+
 ---
 
-## Chapter 63: Tissue Engineering for Cardiac Valve Surgery
+<details>
+<summary>
+
+## Chapter 63: Tissue Engineering for Cardiac Valve Surgery</summary>
 
 ### Clinical Need and Rationale for Tissue Engineering
 *   **Scope of Problem:** Approximately 60,000 cardiac surgical procedures per year in the United States address diseases of heart valves and large conduit arteries.
@@ -3020,6 +3333,8 @@ Thoracic aortic dissection occurs when an intimal tear allows redirection of blo
 *   Advanced imaging (MRI, echocardiography) enables real-time monitoring of post-implantation remodeling.
 *   Bioreactor preconditioning can reduce in vitro culture times and allow pre-implantation functional evaluation.
 *   Ultimate goal: a clinically translatable valve replacement with lifelong durability and intrinsic growth capacity.
+
+</details>
 
 ---
 

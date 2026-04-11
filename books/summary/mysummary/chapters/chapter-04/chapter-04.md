@@ -1,4 +1,4 @@
-# Executive Summaries: Key Questions in Cardiac Surgery by Narain Moorjani, Nicola Viola, Sunil K. Ohri
+# Executive Summaries: Key Questions in Cardiac Surgery
 
 <details>
 <summary>

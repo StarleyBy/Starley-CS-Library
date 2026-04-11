@@ -1,78 +1,80 @@
-[{
-  "title": "EXECUTIVE SUMMARIES BY STARLEY",
-  "cover_image": "cover.jpg",
-  "category": [
-    "cardiology",
-    "cardiac-surgery",
-    "icu"
-  ],
-  "authors": [
-    "Starley"
-  ],
-  "versions": {
+[
+  {
+    "title": "EXECUTIVE SUMMARIES BY STARLEY",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiology",
+      "cardiac-surgery",
+      "icu"
+    ],
+    "authors": [
+      "Starley"
+    ],
+    "versions": {
       "original": true,
       "russian": false,
       "starley": false,
       "hebrew": false
     },
-  "chapters": [
-    {
-      "file": "chapter-01.md",
-      "title": "1. Cardiac Surgery in the Adult, Fifth Edition by Lawrence H. Cohn, MD, David H. Adams, MD"
-    },
-    {
-      "file": "chapter-02.md",
-      "title": "2. MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD"
-    },
-    {
-      "file": "chapter-03.md",
-      "title": "3. Key Questions in Congenital Cardiac Surgery by Narain Moorjani, Nicola Viola, Christopher A. Caldarone"
-    },
-    {
-      "file": "chapter-04.md",
-      "title": "4. Key Questions in Cardiac Surgery by Narain Moorjani, Nicola Viola, Sunil K. Ohri"
-    },
-    {
-      "file": "chapter-05.md",
-      "title": "5. Coming soon"
-    },
-    {
-      "file": "chapter-06.md",
-      "title": "6. Coming soon"
-    },
-    {
-      "file": "chapter-07.md",
-      "title": "7. Coming soon"
-    },
-    {
-      "file": "chapter-08.md",
-      "title": "8. Coming soon"
-    },
-    {
-      "file": "chapter-09.md",
-      "title": "9. Coming soon"
-    },
-    {
-      "file": "chapter-10.md",
-      "title": "10. Coming soon"
-    },
-    {
-      "file": "chapter-11.md",
-      "title": "11. Coming soon"
-    },
-    {
-      "file": "chapter-12.md",
-      "title": "12. Coming soon"
-    },
-    {
-      "file": "chapter-13.md",
-      "title": "13. Coming soon"
-    }
-  ],
-  "appendices": [
-    {
-      "file": "appendix.md",
-      "title": "Appendices. Coming soon"
-    }
-  ]
-}]
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Cardiac Surgery in the Adult, Fifth Edition by Lawrence H. Cohn, MD, David H. Adams, MD"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Key Questions in Congenital Cardiac Surgery by Narain Moorjani, Nicola Viola, Christopher A. Caldarone"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Key Questions in Cardiac Surgery by Narain Moorjani, Nicola Viola, Sunil K. Ohri"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Netter Cardiothoracic Anatomy by Florentino J. Neto"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Surgical Anatomy of the Heart by Benson R. Wilcox"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Coming soon"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Coming soon"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Coming soon"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Coming soon"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Coming soon"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Coming soon"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Coming soon"
+      }
+    ],
+    "appendices": [
+      {
+        "file": "appendix.md",
+        "title": "Appendices. Coming soon"
+      }
+    ]
+  }
+]

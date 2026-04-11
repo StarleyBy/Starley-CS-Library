@@ -1,4 +1,4 @@
-# Executive Summaries:  MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD
+# Executive Summaries: Bojar - ICU
 
 <details>
 <summary>
@@ -862,4 +862,5 @@
 
 </details>
 
+---
 
