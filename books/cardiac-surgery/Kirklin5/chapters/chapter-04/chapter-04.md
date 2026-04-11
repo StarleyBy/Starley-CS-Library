@@ -2073,7 +2073,7 @@ Importantly, McPherson and colleagues reported that the use of chemical restrain
 
 * The time point from at least 30 days when the effects of anaesthesia and surgery should have resolved.
 ** The postoperative specifier will be applied where delirium is persistent beyond hospital discharge.
-# Also applies to assessments prior to medical readiness for discharge, although it should be noted any decline prior to readiness for discharge is unlikely to represent a delay in recovery.
+##### Also applies to assessments prior to medical readiness for discharge, although it should be noted any decline prior to readiness for discharge is unlikely to represent a delay in recovery.
 Adapted with permission from Evered L, Silbert B, Knopman DS, et al. Recommendations for the Nomenclature of Cognitive Change Associated with Anaesthesia and Surgery-2018. *Anaesthesiology*. 2018;129(5):872-879
 
 *NCD,* neurocognitive disorder.
@@ -2546,6 +2546,8 @@ In summary, a combination of patient and hospital factors contribute to perioper
 </div></details>
 
 </div></details>
+  
+</div></details>
 
 ---
 
@@ -2985,7 +2987,5 @@ Adapted from Salenger et al.
 - 3. If low compliance, address with nursing leadership AND ask front line staff challenges □
 - 4. Review PDSA □
 - 5. Plan for expansion of program/further innovation □
-
-</div></details>
 
 </div></details>
