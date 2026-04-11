@@ -871,8 +871,107 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const baseUrlForAssets = `../books/`;
         modalBody.innerHTML = marked.parse(highlightedText, { baseUrl: baseUrlForAssets });
+        
+        // Раскрываем и подсвечиваем <details> с искомым текстом
+        if (query) {
+            const highlightedCount = highlightAndOpenDetails(query);
+            
+            // Показываем информацию о найденных контейнерах
+            if (highlightedCount > 0) {
+                const infoBar = document.createElement('div');
+                infoBar.className = 'search-details-info';
+                infoBar.innerHTML = `
+                    🔍 <strong>${highlightedCount} section${highlightedCount > 1 ? 's' : ''}</strong> found with search terms. 
+                    They are highlighted in green and automatically expanded.
+                `;
+                modalBody.insertBefore(infoBar, modalBody.firstChild);
+            }
+        }
+        
         modal.style.display = 'block';
         modalBody.scrollTop = 0;
+    }
+
+    function highlightAndOpenDetails(query) {
+        const terms = tokenizeQuery(query);
+        if (terms.length === 0) return 0;
+
+        const detailsElements = modalBody.querySelectorAll('details');
+        let hasMatchedDetails = false;
+        let matchedCount = 0;
+
+        detailsElements.forEach(detailsEl => {
+            const detailsContent = detailsEl.querySelector('.details-content') || detailsEl;
+            const textContent = detailsContent.textContent.toLowerCase();
+            
+            // Проверяем есть ли хотя бы один термин в этом details
+            const matchedTerms = terms.filter(term => 
+                textContent.includes(term.toLowerCase())
+            );
+
+            if (matchedTerms.length > 0) {
+                hasMatchedDetails = true;
+                matchedCount++;
+                
+                // Раскрываем контейнер
+                detailsEl.setAttribute('open', '');
+                detailsEl.classList.add('search-highlighted');
+                
+                // Добавляем информацию о найденных терминах
+                const searchTerm = matchedTerms.slice(0, 3).join(', ');
+                detailsEl.dataset.searchTerms = searchTerm;
+
+                // Добавляем подсветку к первым вхождениям
+                highlightTermsInElement(detailsContent, terms);
+            }
+        });
+
+        // Если есть подсвеченные details, скроллим к первому
+        if (hasMatchedDetails) {
+            const firstHighlighted = modalBody.querySelector('details.search-highlighted');
+            if (firstHighlighted) {
+                setTimeout(() => {
+                    firstHighlighted.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }, 100);
+            }
+        }
+
+        return matchedCount;
+    }
+
+    function highlightTermsInElement(element, terms) {
+        // Находим все текстовые узлы и подсвечиваем термины
+        const walker = document.createTreeWalker(
+            element,
+            NodeFilter.SHOW_TEXT,
+            null
+        );
+
+        const textNodes = [];
+        let node;
+        while (node = walker.nextNode()) {
+            textNodes.push(node);
+        }
+
+        textNodes.forEach(textNode => {
+            const text = textNode.textContent;
+            let modified = false;
+            let newText = text;
+
+            terms.forEach(term => {
+                const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
+                if (regex.test(text)) {
+                    newText = newText.replace(regex, '<mark class="details-highlight">$1</mark>');
+                    modified = true;
+                }
+            });
+
+            if (modified) {
+                const span = document.createElement('span');
+                span.innerHTML = newText;
+                textNode.parentNode.replaceChild(span, textNode);
+            }
+        });
     }
 
     closeButton.addEventListener('click', () => {

@@ -597,3 +597,92 @@
         font-size: 0.9rem;
     }
 }
+
+/* ==================== SEARCH HIGHLIGHTED DETAILS ==================== */
+
+.search-details-info {
+    background: linear-gradient(135deg, #e8f5e9 0%, #ffffff 100%);
+    border: 2px solid #28a745;
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    color: #2e7d32;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    box-shadow: 0 3px 10px rgba(40, 167, 69, 0.15);
+}
+
+.search-details-info strong {
+    color: #1b5e20;
+    font-weight: 700;
+}
+
+details.search-highlighted {
+    border: 2px solid #28a745 !important;
+    border-radius: 8px;
+    margin: 1rem 0 !important;
+    background: linear-gradient(135deg, #f0fff0 0%, #ffffff 100%);
+    box-shadow: 0 0 15px rgba(40, 167, 69, 0.2);
+    position: relative;
+    overflow: visible !important;
+}
+
+details.search-highlighted::before {
+    content: '🔍 Contains search terms: ' attr(data-search-terms);
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    background: #28a745;
+    color: white;
+    padding: 0.2rem 0.8rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    z-index: 10;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+details.search-highlighted summary {
+    background: #e8f5e9 !important;
+    padding: 1rem !important;
+    border-radius: 8px 8px 0 0;
+    font-weight: 600;
+    color: #2e7d32 !important;
+}
+
+details.search-highlighted .details-content {
+    padding: 1.5rem !important;
+}
+
+details.search-highlighted mark.details-highlight {
+    background: #ffeb3b;
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-weight: 700;
+    box-shadow: 0 0 5px rgba(255, 235, 59, 0.5);
+    animation: highlight-pulse 2s ease-in-out infinite;
+}
+
+@keyframes highlight-pulse {
+    0%, 100% {
+        box-shadow: 0 0 5px rgba(255, 235, 59, 0.5);
+    }
+    50% {
+        box-shadow: 0 0 12px rgba(255, 235, 59, 0.8);
+    }
+}
+
+/* Подсказка для пользователя */
+details.search-highlighted::after {
+    content: '✏️ Click to expand/collapse';
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+    background: #f8f9fa;
+    color: #666;
+    font-size: 0.8rem;
+    border-top: 1px solid #dee2e6;
+    border-radius: 0 0 8px 8px;
+}
