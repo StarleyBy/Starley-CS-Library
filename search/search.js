@@ -908,6 +908,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const baseUrlForAssets = `../books/`;
         modalBody.innerHTML = marked.parse(highlightedText, { baseUrl: baseUrlForAssets });
         
+        // Принудительно ограничиваем ширину всего контента
+        enforceMobileWidth();
+        
         // Раскрываем и подсвечиваем <details> с искомым текстом
         if (query) {
             const highlightedCount = highlightAndOpenDetails(query);
@@ -926,6 +929,47 @@ document.addEventListener('DOMContentLoaded', () => {
         
         modal.style.display = 'block';
         modalBody.scrollTop = 0;
+    }
+
+    // Принудительно ограничивает ширину элементов внутри модалки
+    function enforceMobileWidth() {
+        const isMobile = window.innerWidth <= 768;
+        if (!isMobile) return;
+
+        // Принудительно ограничиваем все элементы
+        const elements = modalBody.querySelectorAll('*');
+        elements.forEach(el => {
+            el.style.maxWidth = '100%';
+            el.style.boxSizing = 'border-box';
+        });
+
+        // Особая обработка для таблиц
+        const tables = modalBody.querySelectorAll('table');
+        tables.forEach(table => {
+            const wrapper = document.createElement('div');
+            wrapper.style.overflowX = 'auto';
+            wrapper.style.maxWidth = '100%';
+            wrapper.style.webkitOverflowScrolling = 'touch';
+            table.parentNode.insertBefore(wrapper, table);
+            wrapper.appendChild(table);
+        });
+
+        // Обработка для pre блоков
+        const preBlocks = modalBody.querySelectorAll('pre');
+        preBlocks.forEach(pre => {
+            pre.style.overflowX = 'auto';
+            pre.style.maxWidth = '100%';
+            pre.style.whiteSpace = 'pre-wrap';
+            pre.style.wordWrap = 'break-word';
+        });
+
+        // Обработка для изображений
+        const images = modalBody.querySelectorAll('img');
+        images.forEach(img => {
+            img.style.maxWidth = '100%';
+            img.style.height = 'auto';
+            img.style.display = 'block';
+        });
     }
 
     function highlightAndOpenDetails(query) {
