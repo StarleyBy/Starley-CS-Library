@@ -9,6 +9,12 @@
     "authors": [
       "Robert H. Anderson, BSc, MD, FRCPath, Diane E. Spicer, BS, PA(ASCP), Anthony M. Hlavacek, MD"
     ],
+     "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
     "chapters": [
       {
         "file": "chapter-01.md",
