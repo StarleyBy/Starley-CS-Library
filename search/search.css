@@ -615,12 +615,125 @@
 }
 
 .modal-footer {
-    padding: 1.2rem 2rem;
+    padding: 1rem 1.5rem;
     border-top: 1px solid var(--border-color);
-    text-align: right;
-    background: #f8f9fa;
+    background: linear-gradient(to bottom, #f8f9fa, #ffffff);
     border-radius: 0 0 12px 12px;
     flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    box-shadow: 0 -2px 8px rgba(0,0,0,0.05);
+}
+
+.modal-footer .button {
+    flex-shrink: 0;
+    padding: 0.8rem 1.5rem;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+/* CTA кнопка в футере */
+.footer-cta-button {
+    background: linear-gradient(135deg, var(--secondary-color), #2980b9) !important;
+    box-shadow: 0 3px 10px rgba(52, 152, 219, 0.3) !important;
+    transition: all 0.2s ease !important;
+}
+
+.footer-cta-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4) !important;
+}
+
+.footer-cta-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3) !important;
+}
+
+.modal-footer-text {
+    font-size: 0.85rem;
+    color: #666;
+    line-height: 1.4;
+}
+
+/* Мобильная оптимизация футера */
+@media (max-width: 768px) {
+    .modal-footer {
+        padding: 0.8rem;
+        border-radius: 0;
+        position: sticky;
+        bottom: 0;
+        z-index: 10;
+        background: #ffffff;
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 0.5rem;
+        box-shadow: 0 -3px 12px rgba(0,0,0,0.1);
+        flex-shrink: 0;
+        max-width: 100%;
+        border-top: 2px solid var(--secondary-color);
+    }
+
+    .modal-footer .button {
+        width: 100%;
+        justify-content: center;
+        padding: 1rem;
+        font-size: 1.05rem;
+        font-weight: 700;
+        letter-spacing: 0.3px;
+    }
+
+    .footer-cta-button {
+        padding: 1.1rem !important;
+        font-size: 1.1rem !important;
+        background: linear-gradient(135deg, #3498db, #2980b9) !important;
+        box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4) !important;
+    }
+
+    .modal-footer-text {
+        font-size: 0.75rem;
+        text-align: center;
+        color: #888;
+        padding: 0.2rem 0;
+    }
+}
+
+/* Ещё более компактный футер для маленьких экранов */
+@media (max-width: 480px) {
+    .modal-footer {
+        padding: 0.6rem;
+        gap: 0.4rem;
+        border-top-width: 1.5px;
+    }
+
+    .modal-footer .button {
+        padding: 0.9rem 0.8rem;
+        font-size: 1rem;
+    }
+
+    .modal-footer-text {
+        font-size: 0.7rem;
+    }
+}
+
+/* Landscape mode - компактный футер */
+@media (max-width: 768px) and (orientation: landscape) {
+    .modal-footer {
+        padding: 0.5rem 0.8rem;
+        flex-direction: row;
+        gap: 0.8rem;
+    }
+
+    .modal-footer .button {
+        width: auto;
+        padding: 0.7rem 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    .modal-footer-text {
+        font-size: 0.7rem;
+    }
 }
 
 /* ==================== RESPONSIVE ==================== */

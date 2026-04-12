@@ -30,7 +30,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById('chapterModal');
     const modalTitle = document.getElementById('modalTitle');
     const modalBody = document.getElementById('modalBody');
-    const readFullButton = document.getElementById('readFullButton');
     const closeButton = document.querySelector('.close-button');
 
     // ==================== DETECTION & TOKENIZATION ====================
@@ -868,7 +867,22 @@ document.addEventListener('DOMContentLoaded', () => {
         modalBody.innerHTML = '<div class="loading"><div class="spinner"></div>Loading chapter content...</div>';
 
         const readerLink = `../reader.html?book=${data.bookId}&chapter=${data.chapterId}&edition=${data.edition}`;
-        readFullButton.href = readerLink;
+        
+        // Создаем футер с кнопкой и текстом
+        const footerHTML = `
+            <button class="button button-primary footer-cta-button" onclick="window.open('${readerLink}', '_blank')">
+                📖 Open Full Chapter
+            </button>
+            <div class="modal-footer-text">
+                Opens in new tab with full navigation
+            </div>
+        `;
+        
+        // Обновляем футер
+        const modalFooter = document.querySelector('.modal-footer');
+        if (modalFooter) {
+            modalFooter.innerHTML = footerHTML;
+        }
 
         const editionSuffix = EDITION_SUFFIX_MAP[data.edition] || '.md';
         const chapterFileName = `${data.chapterId}${editionSuffix}`;
