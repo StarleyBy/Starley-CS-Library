@@ -9,8 +9,8 @@
       "James K. Kirklin, MD, Hartzell V. Schaff, MD, Eugene H. Blackstone, MD, Christo I. Tchervenkov, MD, CM, FRCSC, Francis D. Pagani, MD, PhD"
     ],
     "versions": {
-      "original": false,
-      "russian": false,
+      "original": true,
+      "russian": true,
       "starley": false,
       "hebrew": false
     },
