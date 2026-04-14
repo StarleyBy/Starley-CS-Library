@@ -27,7 +27,7 @@
         { "folder": "cohn" },
         { "folder": "Kirklin5" },
         { "folder": "Spray6" },
-        { "folder": "Kirklin4" },
+        { "folder": "Kirklin4", "visibility": "admin-only" },
         { "folder": "sellke" },
         { "folder": "Key-questions-in-congenital-cardiac-surgery" },
         { "folder": "Key-questions-in-cardiac-surgery" }    
