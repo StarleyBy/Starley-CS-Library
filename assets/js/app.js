@@ -57,7 +57,14 @@ async function loadLibrary() {
 
 async function renderBooksForCategory(category) {
     let booksHtml = '';
-    const isAdmin = window.AuthSystem && window.AuthSystem.isAdmin();
+    
+    // Проверяем права пользователя с ожиданием инициализации AuthSystem
+    let isAdmin = false;
+    if (window.AuthSystem) {
+        isAdmin = window.AuthSystem.isAdmin();
+    } else {
+        console.warn('AuthSystem not available yet, treating as non-admin');
+    }
 
     for (const book of category.books) {
         try {
@@ -69,6 +76,7 @@ async function renderBooksForCategory(category) {
                 // Проверяем видимость книги
                 const visibility = book.visibility || 'all';
                 if (visibility === 'admin-only' && !isAdmin) {
+                    console.log(`Hidden admin-only book: ${book.folder}`);
                     continue; // Пропускаем книги только для админов
                 }
 
