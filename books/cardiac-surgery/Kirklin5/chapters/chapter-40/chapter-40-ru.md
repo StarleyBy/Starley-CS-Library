@@ -93,7 +93,7 @@
 
 <details class="med-details"><summary>
 
-## SECTION I: КОАРКТАЦИЯ АОРТЫ</summary><div class="details-content">
+## РАЗДЕЛ I: КОАРКТАЦИЯ АОРТЫ</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -1079,7 +1079,7 @@
 
 <details class="med-details"><summary>
 
-## SECTION II: ПРЕРЫВАНИЕ ДУГИ АОРТЫ</summary><div class="details-content">
+## РАЗДЕЛ II: ПРЕРЫВАНИЕ ДУГИ АОРТЫ</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
