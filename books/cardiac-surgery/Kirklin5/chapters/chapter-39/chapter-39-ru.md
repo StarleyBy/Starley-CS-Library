@@ -60,7 +60,7 @@
 
 <details class="med-details"><summary>
 
-## SECTION I: СОСУДИСТЫЕ КОЛЬЦА</summary><div class="details-content">
+## РАЗДЕЛ I: СОСУДИСТЫЕ КОЛЬЦА</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
@@ -404,7 +404,7 @@
 
 <details class="med-details"><summary>
 
-## SECTION II: ЛЕГОЧНАЯ АРТЕРИАЛЬНАЯ ПЕТЛЯ</summary><div class="details-content">
+## РАЗДЕЛ II: ЛЕГОЧНАЯ АРТЕРИАЛЬНАЯ ПЕТЛЯ</summary><div class="details-content">
 
 <details class="med-details"><summary>
 
