@@ -5,7 +5,7 @@
       "title": "Summary",
       "path": "books/summary",
       "books": [
-        { "folder": "mysummary" }
+        { "folder": "mysummary", "visibility": "admin-only" }
       ]
     },
     {

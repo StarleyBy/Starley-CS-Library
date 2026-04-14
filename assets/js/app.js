@@ -57,14 +57,23 @@ async function loadLibrary() {
 
 async function renderBooksForCategory(category) {
     let booksHtml = '';
+    const isAdmin = window.AuthSystem && window.AuthSystem.isAdmin();
+
     for (const book of category.books) {
         try {
             const bookPath = `${category.path}/${book.folder}`;
             const metaResponse = await fetch(`${BASE_URL}${bookPath}/metadata.json`);
             if (metaResponse.ok) {
                 const bookMeta = (await metaResponse.json())[0];
+
+                // Проверяем видимость книги
+                const visibility = book.visibility || 'all';
+                if (visibility === 'admin-only' && !isAdmin) {
+                    continue; // Пропускаем книги только для админов
+                }
+
                 try {
-                    booksHtml += renderBookCard(bookPath, bookMeta);
+                    booksHtml += renderBookCard(bookPath, bookMeta, visibility);
                 } catch (renderError) {
                     console.error(`Failed to render book card for: ${book.folder}`, renderError);
                 }
@@ -104,7 +113,7 @@ function generateNeonColor(bookTitle) {
     return `rgb(${r}, ${g}, ${b})`;
 }
 
-function renderBookCard(bookPath, bookMeta) {
+function renderBookCard(bookPath, bookMeta, visibility = 'all') {
     const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
     const coverImagePath = coverImage ? `${IMAGES_BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
@@ -113,8 +122,11 @@ function renderBookCard(bookPath, bookMeta) {
     // Всегда добавляем data-full-title — tooltip будет для всех книг
     const escapedTitle = bookMeta.title.replace(/"/g, '&quot;');
 
+    // Добавляем класс для admin-only книг
+    const adminOnlyClass = visibility === 'admin-only' ? ' admin-only-book' : '';
+
     return `
-        <div class="book-card" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}" data-full-title="${escapedTitle}">
+        <div class="book-card${adminOnlyClass}" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}" data-full-title="${escapedTitle}" data-visibility="${visibility}">
             <div class="book-cover-wrapper">
                 <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
                      onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');"
@@ -175,8 +187,8 @@ window.adjustAllFontSizes = function() {};
 // Патч renderBookCard для version badges
 const originalRenderBookCard = window.renderBookCard;
 
-window.renderBookCard = function(bookPath, bookMeta) {
-    let html = originalRenderBookCard(bookPath, bookMeta);
+window.renderBookCard = function(bookPath, bookMeta, visibility = 'all') {
+    let html = originalRenderBookCard(bookPath, bookMeta, visibility);
 
     const versions = bookMeta.versions || {};
 
