@@ -85,9 +85,9 @@
       ]
     },
     {
-      "id": "service",
+      "id": "work",
       "title": "Service",
-      "path": "books/service",
+      "path": "books/work",
       "books": [
             { "folder": "wolfson", "visibility": "admin-only"  }
       ]
