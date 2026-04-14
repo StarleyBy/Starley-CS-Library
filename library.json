@@ -83,6 +83,14 @@
             { "folder": "drugs-in-icu-oxford" },
             { "folder": "opie's-cardiovascular-drugs" }
       ]
+    },
+    {
+      "id": "service",
+      "title": "Service",
+      "path": "books/service",
+      "books": [
+            { "folder": "wolfson", "visibility": "admin-only"  }
+      ]
     }
   ]
 }
