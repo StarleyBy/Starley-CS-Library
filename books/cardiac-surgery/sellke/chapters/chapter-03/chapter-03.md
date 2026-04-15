@@ -120,18 +120,21 @@ A standard median sternotomy is performed. To facilitate harvest of the IMA, a v
 
 ![](_page_5_Picture_2.jpeg)
 
+<span id="fig-3-1"></span>
 **Figure 3.1**
 
 GSV harvest should take place concurrently with IMA harvest. Three techniques are commonly used: full open harvest with a longitudinal leg incision, a semiopen (bridged) technique with interrupted sequential leg incisions, and an endoscopic approach. Most GSV harvests performed currently use an endoscopic approach. Once the vein has been isolated, the proximal and distal ends are ligated with silk suture, and the vein is transected and removed from the leg. The distal aspect of the vein is cannulated to allow for gentle pressurization of the vein and branches and areas of leak, or it is clipped or oversewn with fine polypropylene sutures. A longitudinal mark may be applied with a skin marker to prevent unrecognized torsion of the vessel when constructing proximal anastomoses.
 
 ![](_page_5_Picture_4.jpeg)
 
+<span id="fig-3-2"></span>
 **Figure 3.2**
 
 The radial artery is usually harvested from the nondominant arm to minimize functional consequences should nerve injury occur. The artery may be harvested endoscopically, as with GSV, or an open technique may be used. Here we describe the open technique. A longitudinal incision is created from 2 cm proximal to the styloid process of the radius and extended proximally to 2 cm proximal to the antecubital fossa, extending medially toward the biceps tendon. The artery lies between the flexor carpi radialis muscle and brachioradialis muscle. The subcutaneous tissue is divided with electrocautery, and the deep fascia is incised sharply. The distal end of the radial artery (closest to the wrist) should gently be occluded transiently to ensure good collateral flow to the hand, which can be monitored with a pulse oximetry probe on the finger. The deep fascia should be incised sharply over the artery. Vascular branches are divided in sequence using clips, electrocautery, or a harmonic scalpel. As dissection proceeds proximally toward the brachial artery, the brachioradialis muscle can be retracted laterally. Care must be taken to avoid the lateral antebrachial cutaneous and superficial radial nerves. After systemic heparinization, the proximal and distal ends of the artery are ligated, and the vessel is placed in a heparinized solution with nitroglycerin and/or a calcium channel blocker to minimize vasospasm.
 
 ![](_page_7_Picture_2.jpeg)
 
+<span id="fig-3-3"></span>
 **Figure 3.3**
 
 </div></details>
@@ -144,6 +147,7 @@ After harvesting of the conduit, a sternal retractor is placed, and the pericard
 
 ![](_page_7_Picture_4.jpeg)
 
+<span id="fig-3-4"></span>
 **Figure 3.4**
 
 The aorta should be palpated for calcium plaques and visually inspected for anticipated cannulation, cross-clamp, and proximal anastomotic site placement. Systemic heparin should be administered. Two concentric pursestring sutures are placed in a diamond shape in the distal ascending aorta, sized to match the appropriately selected arterial cannula. Once appropriate levels of systemic anticoagulation have been achieved, the systemic blood pressure should be lowered to between 100 and 110 mm Hg systolic and the ascending aortic cannula inserted and secured with tourniquets.
@@ -152,6 +156,7 @@ Venous drainage may be obtained by cannulation of the right atrial appendage aft
 
 ![](_page_9_Picture_2.jpeg)
 
+<span id="fig-3-5"></span>
 **Figure 3.5**
 
 After confirmation of appropriate systemic anticoagulation and aortic cannula line pressure, CPB is initiated; once venous drainage is sufficient, ventilation is discontinued. Systemic cooling may be initiated at the discretion of the surgeon.
@@ -170,15 +175,16 @@ After clearing the epicardial fat from the anterior surface of the target vessel
 
 ![](_page_11_Picture_2.jpeg)
 
+<span id="fig-3-6"></span>
 **Figure 3.6**
 
+<span id="fig-3-7"></span>
 **Figure 3.7**  
   
+<span id="fig-3-8"></span>
 **Figure 3.8**
 
 When performing an IMA anastomosis with a pedicled graft, proximal inflow may be interrupted with a soft bulldog-style clamp. An incision in the pericardium may be created to allow for the IMA to pass to the distal target without kinking or stretching. Care should be taken to avoid injuring the phrenic nerve when creating the pericardial opening. Once the arteriotomy site for the distal anastomosis has been selected, the graft should be transected after delineating the appropriate length to avoid redundancy. The IMA anastomosis is performed in a similar fashion as described previously. Prior to completing the anastomosis, the IMA clamp should be transiently released to confirm good flow in the conduit. On completion of the anastomosis, release of the IMA clamp may allow for visualization of distal target artery filling, although this is not always visible. If a pedicled graft is used, the lateral edges of the graft may be secured to the epicardial fat with polypropylene sutures to prevent later torsion.
-
-
 
 </div></details>
 
@@ -190,16 +196,19 @@ On occasion, when distal targets are small, the conduit is limited, or proximal 
 
 ![](_page_13_Picture_2.jpeg)
 
+<span id="fig-3-9"></span>
 **Figure 3.9**
 
 ![](_page_13_Picture_4.jpeg)
 
+<span id="fig-3-10"></span>
 **Figure 3.10**
 
 As noted previously, in certain cases for which insufficient conduit is available, and there is concern over conduit to aortic mismatch between the conduit and aorta or there is limited room on the aorta for proximal anastomosis, consideration should be given to Y or T grafting techniques. These use an end-to-side anastomosis on a bypass graft for proximal inflow with a standard distal anastomosis for outflow, resulting in a Y- or T-shaped appearance of the proximal anastomosis.
 
 ![](_page_15_Picture_2.jpeg)
 
+<span id="fig-3-11"></span>
 **Figure 3.11**
 
 </div></details>
@@ -212,19 +221,13 @@ Proximal anastomoses may be fashioned after the completion of each distal anasto
 
 ![](_page_15_Picture_4.jpeg)
 
+<span id="fig-3-12"></span>
 **Figure 3.12** 
   
 ![](_page_15_Picture_4.jpeg)
-  
+
+<span id="fig-3-13"></span>
 **Figure 3.13**
-
-</div></details>
-
-<details class="med-details"><summary>
-
-### Reperfusion and Weaning from CPB</summary><div class="details-content">
-
-During the reperfusion period, metabolic parameters and hemodynamics should be optimized. All anastomotic sites and conduits should be inspected for hemostasis and kinking because visualizing the inferior and lateral walls of the heart may be difficult after separation from CPB. Once all parameters are optimized, the electrocardiographic tracing is reviewed, and hemodynamics and echocardiographic imaging are satisfactory, weaning from CPB should commence. During weaning from CPB, the grafts should be monitored closely as anatomic positioning may change with lung insufflation and ventricular filling. After separation from CPB, protamine may be administered and the patient decannulated in standard fashion. The IMA harvest sites should be secondarily inspected for hemostasis with retraction of the sternal edge. Standard sternal closure may then be performed, with particular attention to hemodynamics, because alterations in graft positioning may occur with sternal closure.
 
 </div></details>
 

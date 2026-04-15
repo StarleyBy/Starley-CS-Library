@@ -1,100 +1,204 @@
 # Surgery for Atrial Fibrillation
 
-Hoda Javadikasgari, Edward G. Soltesz, and A. Marc Gillinov
+<details class="med-details"><summary>
 
-#### **Atrial Fibrillation**
+## Atrial Fibrillation</summary><div class="details-content">
 
-- ◆ Atrial fibrillation (AF) is a supraventricular tachyarrhythmia that is projected to affect 12 million patients in the United States by 2050; prevalence is increased in older people and in patients with hypertension, heart failure, coronary artery disease (CAD), valvular heart disease, obesity, diabetes mellitus, and chronic kidney disease (CKD).1 AF is present in up to 50% of patients undergoing mitral valve surgery and also in 1% to 6% of patients presenting for coronary artery bypass graft (CABG) surgery.2
-- ◆ Hemodynamic consequences of AF result from uncoordinated atrial contraction, suboptimal ventricular filling, and sympathetic activation.3 The mechanisms of AF vary among affected individuals and so, too, do clinical presentations.4 In patients with mitral stenosis, hypertension, hypertrophic cardiomyopathy (HCM), or restrictive cardiomyopathy, diastolic ventricular filling is already impaired, and loss of atrial contraction caused by concomitant AF may markedly decrease cardiac output.5 AF is an independent risk factor for cardiac mortality and morbidity and is associated with reduced early and long-term survival and a fivefold increased risk of stroke.2
-- ◆ Although left atrial enlargement, longer duration of AF, and advanced age have been associated with reduced success, they do not contraindicate surgical ablation.6 The 2012 Expert Consensus Statement on Catheter and Surgical Ablation of Atrial Fibrillation has recommended consideration of AF ablation in all patients with symptomatic AF undergoing other cardiac surgery (Class IIa, level of evidence C). The guidelines also suggest consideration of stand-alone AF surgery for symptomatic AF patients who prefer a surgical approach, who have failed one or more attempts at catheter ablation, or who are not candidates for catheter ablation (Class IIb, level of evidence C).7
+Atrial fibrillation (AF) is a supraventricular tachyarrhythmia that is projected to affect 12 million patients in the United States by 2050; prevalence is increased in older people and in patients with hypertension, heart failure, coronary artery disease (CAD), valvular heart disease, obesity, diabetes mellitus, and chronic kidney disease (CKD). AF is present in up to 50% of patients undergoing mitral valve surgery and also in 1% to 6% of patients presenting for coronary artery bypass graft (CABG) surgery.
 
-#### **Abstract**
+Hemodynamic consequences of AF result from uncoordinated atrial contraction, suboptimal ventricular filling, and sympathetic activation. The mechanisms of AF vary among affected individuals and so, too, do clinical presentations. In patients with mitral stenosis, hypertension, hypertrophic cardiomyopathy (HCM), or restrictive cardiomyopathy, diastolic ventricular filling is already impaired, and loss of atrial contraction caused by concomitant AF may markedly decrease cardiac output. AF is an independent risk factor for cardiac mortality and morbidity and is associated with reduced early and long-term survival and a fivefold increased risk of stroke.
 
-Untreated atrial fibrillation is associated with increased morbidity and decreased early and late survival. Biatrial lesion set of the Cox-Maze procedures, including wide pulmonary vein isolation, a mitral isthmus lesion, and right atrial lesions is the most successful approach. In addition, surgical ablation includes exclusion of the left atrial appendage. Herein, we discuss the current status of atrial fibrillation surgery as a concomitant or standalone procedure.
+Although left atrial enlargement, longer duration of AF, and advanced age have been associated with reduced success, they do not contraindicate surgical ablation. The 2012 Expert Consensus Statement on Catheter and Surgical Ablation of Atrial Fibrillation has recommended consideration of AF ablation in all patients with symptomatic AF undergoing other cardiac surgery (Class IIa, level of evidence C). The guidelines also suggest consideration of stand-alone AF surgery for symptomatic AF patients who prefer a surgical approach, who have failed one or more attempts at catheter ablation, or who are not candidates for catheter ablation (Class IIb, level of evidence C).
 
-# **Keywords**
+</div></details>
 
-atrial fibrillation Cox-Maze left atrial appendage
+<details class="med-details"><summary>
 
-# **Step 1. Surgical Anatomy**
+## Executive Summary</summary><div class="details-content">
 
-- ◆ The pulmonary veins and posterior left atrium are the critical anatomic sites in patients with isolated AF. However, some patients also manifest right atrial focal or reentrant activation. Around 60% of AF is paroxysmal AF, which is initiated by focal pulmonary vein or atrial triggers. The remaining 40% of AF is classified as persistent or long-standing persistent AF and is due to well-established, self-perpetuating, macroreentrant circuits that generally have little or nothing to do with these focal atrial or pulmonary vein triggers.8 Data from the Society of Thoracic Surgeons (STS) database have demonstrated that preoperative AF is present in 11% of patients presenting for nonemergent, first-time cardiac surgery.9 In patients with concomitant AF secondary to left heart pathology (e.g., mitral valve disease, aortic valve disease, CAD), the mechanism of concomitant persistent and long-standing persistent AF may not be due to pulmonary vein triggers alone, and simple pulmonary vein isolation may not be adequate. Although controversial, most authorities have agreed that persistent and long-standing persistent AF, whether stand-alone or concomitant, requires additional linear lesions to accompany pulmonary vein isolation to attain long-term freedom from AF.8
-- ◆ Routine real-time intraoperative mapping is currently not available to guide AF ablation in cardiac surgery patients. Therefore, an anatomic approach is the foundation for the surgical ablation of AF.
+### Epidemiology and Impact
+* **Projected prevalence:** 12 million US patients by 2050. AF present in up to 50% of mitral valve surgery patients, 1-6% of CABG patients.
+* **Hemodynamic consequences:** Uncoordinated atrial contraction, suboptimal ventricular filling, sympathetic activation.
+* **Risk:** AF is independent risk factor for mortality/morbidity, fivefold increased risk of stroke.
 
-# **Step 2. Preoperative Considerations**
+### Surgical Anatomy
+* **Critical sites:** Pulmonary veins and posterior left atrium (isolated AF). Some patients have right atrial focal or reentrant activation.
+* **Paroxysmal AF (60%):** Initiated by focal pulmonary vein or atrial triggers.
+* **Persistent/long-standing persistent AF (40%):** Self-perpetuating macroreentrant circuits. Requires additional linear lesions beyond pulmonary vein isolation.
+* **Intraoperative mapping:** Not routinely available → anatomic approach is foundation.
 
-- ◆ The two settings in which cardiac surgeons encounter patients seeking ablation of AF are AF in patients undergoing concomitant cardiac surgery and isolated AF as an indication for a stand-alone procedure.
-- ◆ In the concomitant setting, ablation is usually performed in patients with mitral valve disease and AF. Almost all such patients should have a combined procedure that includes correction of the mitral valve dysfunction and ablation of AF. An exception might be made in a very high-risk patient undergoing a complex and lengthy reoperative procedure; in that case, it might be prudent to close the left atrial appendage (LAA) but forgo ablation to minimize cross-clamp time.
-- ◆ Stand-alone surgical ablation is uncommon, and there are few data documenting long-term results of newer, less invasive procedures. Stand-alone surgical ablation is indicated in the following cases: (1) patients who fail medical therapy and catheter ablation; (2) patients who fail medical therapy and have contraindications to catheter ablation (e.g., left atrial thrombus, discontinuous inferior vena cava, contraindication to warfarin); and (3) selected highly symptomatic individuals who desire the procedure with the highest probability of success. Surgical approaches in these patients include the full Cox-Maze IV procedure performed on cardiopulmonary bypass or an off-pump procedure centered on bilateral pulmonary vein isolation, generally incorporating additional lesions. Long-term results of the Cox-Maze IV operation suggest 2-year freedom from AF of 65% to 85%.10-12 In patients with left atrial thrombus, the Cox-Maze IV procedure with cardiopulmonary bypass is indicated because less invasive, off-pump approaches may result in the dislodgment of thrombus.
+### Preoperative Considerations
+* **Concomitant setting:** Almost all mitral valve + AF patients should have combined procedure (repair + ablation). Exception: very high-risk reoperative cases (close LAA only).
+* **Stand-alone ablation indications:** (1) Failed medical therapy and catheter ablation; (2) Failed medical therapy with contraindications to catheter ablation (LA thrombus, discontinuous IVC, warfarin contraindication); (3) Highly symptomatic patients desiring highest success probability.
+* **Cox-Maze IV results:** 2-year freedom from AF 65-85%.
 
-### **Step 3. Operative Steps**
+### Operative Technique — Cox-Maze IV
+* **Pulmonary vein isolation:** On arrested heart after bicaval cannulation. Bipolar RF clamp around PVs, four overlapping lesions proximal to PV orifice (avoid stenosis). Both right and left PVs.
+* **Box lesion (posterior LA):** Connecting lesions between right and left PVs using RF clamp (one jaw inside heart, one on epicardium). Two overlapping lesions each.
+* **Left atrial isthmus lesion:** From right inferior PV to P3 region of mitral annulus. Bipolar RF (clamp angled toward P3) + cryoprobe at annulus. Sandwich coronary sinus and annulus with endocardial and epicardial cryolesions.
+* **Right atrial lesions:** Intercaval lesion (SVC to IVC, avoid SA node), T lesion to tricuspid annulus, lateral RA lesion to RAA tip. Cryoprobe, avoid phrenic nerve. Performed during rewarming (cross-clamp removed).
+* **Left atrial appendage:** 60-90% of strokes originate from LAA. Complete isolation mandatory. Excision with stump <1 cm or epicardial occlusion device. Suture exclusion less successful (frequent recurrent communication).
 
-◆ The Maze procedure is the gold standard for the surgical treatment of AF and is the most effective curative therapy for AF yet devised.13,14 This procedure includes isolation of the pulmonary veins and multiple left and right lesions to interrupt the reentrant circuits of AF, as well as excision or exclusion of the LAA to reduce the risk of thromboembolism. A left atrium-based procedure that includes an encircling lesion around all four pulmonary veins with a lesion to the mitral annulus eliminates AF in 60% to 90% of mitral valve patients.15 The addition of right atrial lesions in these patients is simple and likely increases the rate of cure while simultaneously decreasing the risk of typical right atrial flutter.16,17 Therefore, AF ablation should probably entail treatment of both atria whenever feasible.15
+### Choice of Lesion Set by Procedure
+* **Mitral valve surgery:** Full Maze for all mitral patients regardless of AF type. If LA enlargement >6 cm, widely placed lesions or LA reduction.
+* **CABG:** Biatrial lesions superior in meta-analysis (5885 patients). Minimal increase in cross-clamp/CPB time, no increased morbidity/mortality. Paroxysmal AF: PV isolation + LAA management. Persistent/long-standing persistent AF: complete biatrial Maze + LAA treatment.
+* **Aortic valve surgery:** Same as CABG. Paroxysmal: PV isolation + LAA. Persistent/long-standing: full Maze (requires opening LA).
+* **Stand-alone AF:** Options from full Cox-Maze IV to minimally invasive (thoracoscopic or minithoracotomy). Full lesion set through 6-cm right thoracotomy with peripheral bicaval cannulation and arrested heart.
 
-#### **1. Isolation of Pulmonary Veins**
+### Postoperative Care
+* **Early arrhythmias:** AF (30-60%), atrial flutter, junctional bradycardia. By 3 months, 85% return to sinus rhythm. In-hospital trial of antiarrhythmics or cardioversion for AF/flutter.
+* **Pacemaker:** Wait at least 1 week for bradycardia (sinus node recovery may take days).
+* **Medications:** Continue preoperative beta blockers. Additional antiarrhythmics for 4-6 weeks for postablation AF.
+* **Anticoagulation:** Warfarin for 3 months (target INR 2.0). Discontinue if no AF at 3 months, no LA spontaneous contrast, well-controlled LAA, no other indication.
+* **Cardioversion:** Attempt at 3 months for persistent AF.
 
-- ◆ Pulmonary vein isolation is most easily performed on the arrested decompressed heart. After establishing cardiopulmonary bypass via bicaval cannulation, the aorta is cross-clamped and the heart is arrested. The posterior surface of the right and left pulmonary veins is bluntly dissected. Beginning from the right pulmonary veins, a bipolar radiofrequency (RF) clamp (AtriCure, West Chester, OH) is positioned around the pulmonary veins and advanced toward the left atrium to isolate as much atrial tissue as possible [\(Fig. 28.1A](#page-4-0)). Four overlapping ablation lines are created on the left atrium proximal to the left atrium–pulmonary vein junction.
-- ◆ The heart is retracted to the right to expose the left pulmonary veins. The same procedure is performed using the bipolar RF clamp (see [Fig. 28.1B\)](#page-4-0). As before, four overlapping lesions are created on the left atrial tissue proximal to the pulmonary vein orifice to avoid pulmonary vein stenosis.
+### Pearls and Pitfalls
+* Biatrial lesion set has greatest success probability.
+* LAA must be removed or carefully excluded in all patients.
+* Early postoperative arrhythmias are common and do not indicate failure.
 
-# **2. Left Atrial Lesions**
+</div></details>
 
-◆ The procedure for left-sided lesions is performed on the arrested heart through a standard left atriotomy anterior to the right pulmonary veins. To complete the so-called box lesion in the posterior left atrium, connecting lesions between the right and left pulmonary veins are created with the RF clamp (see [Fig. 28.1C and D\)](#page-4-0). For each connecting lesion, one jaw of the clamp is placed inside the heart, and one jaw rests on the epicardial surface of the atrium. Each of these lesions entails the creation of two overlapping lesions, which generally suffices for the relatively thin atrium in these regions.
+<details class="med-details"><summary>
 
-<span id="page-4-0"></span>![](_page_4_Picture_2.jpeg)
+## Step 1. Surgical Anatomy</summary><div class="details-content">
 
-Box lesions in left atrium. (A) Isolation of right pulmonary veins. (B) Isolation of left pulmonary veins. (C) Connection lesions between inferior pulmonary veins. (D) Connection lesions between superior pulmonary veins. **Figure 28.1**
+The pulmonary veins and posterior left atrium are the critical anatomic sites in patients with isolated AF. However, some patients also manifest right atrial focal or reentrant activation. Around 60% of AF is paroxysmal AF, which is initiated by focal pulmonary vein or atrial triggers. The remaining 40% of AF is classified as persistent or long-standing persistent AF and is due to well-established, self-perpetuating, macroreentrant circuits that generally have little or nothing to do with these focal atrial or pulmonary vein triggers. Data from the Society of Thoracic Surgeons (STS) database have demonstrated that preoperative AF is present in 11% of patients presenting for nonemergent, first-time cardiac surgery. In patients with concomitant AF secondary to left heart pathology (e.g., mitral valve disease, aortic valve disease, CAD), the mechanism of concomitant persistent and long-standing persistent AF may not be due to pulmonary vein triggers alone, and simple pulmonary vein isolation may not be adequate. Although controversial, most authorities have agreed that persistent and long-standing persistent AF, whether stand-alone or concomitant, requires additional linear lesions to accompany pulmonary vein isolation to attain long-term freedom from AF.
 
-◆ The left atrial isthmus lesion is then created using both a bipolar RF clamp and a cryoprobe. This is a connecting lesion from the right inferior pulmonary vein to the P3 region of the mitral annulus. The first part of the lesion is created with bipolar RF, with the clamp angled toward the P3 segment of the mitral valve ([Fig. 28.2A\)](#page-7-0). At the mitral annulus, the lesion is completed with a cryoprobe. The coronary sinus and mitral annulus are sandwiched by creating overlapping cryolesions on the endocardial and epicardial aspects, thereby ensuring a transmural lesion (see [Fig. 28.2B\)](#page-7-0).
+Routine real-time intraoperative mapping is currently not available to guide AF ablation in cardiac surgery patients. Therefore, an anatomic approach is the foundation for the surgical ablation of AF.
 
-# **3. Right Atrial Lesions**
+</div></details>
 
-◆ The right atrial lesion set includes an intercaval lesion, T lesion to the tricuspid annulus, and lateral right atrial lesion from this T lesion to the tip of the right atrial appendage. The intercaval lesion is created between the superior vena cava and inferior vena cava, avoiding the sinoatrial node. The lesions to the tricuspid annulus are created with a cryoprobe. Care is taken at this point to avoid contact between the cryoprobe and phrenic nerve ([Fig. 28.3](#page-7-1)). These three lesions can be placed in a matter of minutes during the rewarming phase of the operation with the patient still on cardiopulmonary bypass and the cross-clamp removed.
+<details class="med-details"><summary>
 
-#### **4. Left Atrial Appendage**
+## Step 2. Preoperative Considerations</summary><div class="details-content">
 
-◆ Between 60% and 90% of strokes in AF patients originate from the LAA. Therefore, management of the LAA is mandatory and requires its complete isolation. If the LAA is excised, the residual stump must be less than 1 cm in length. New epicardial occlusion devices enable safe, rapid, and complete LAA exclusion. Suture exclusion of the LAA is generally less successful because recurrent communication between the LAA and left atrium is frequent.18
+The two settings in which cardiac surgeons encounter patients seeking ablation of AF are AF in patients undergoing concomitant cardiac surgery and isolated AF as an indication for a stand-alone procedure.
 
-![](_page_7_Picture_2.jpeg)
+In the concomitant setting, ablation is usually performed in patients with mitral valve disease and AF. Almost all such patients should have a combined procedure that includes correction of the mitral valve dysfunction and ablation of AF. An exception might be made in a very high-risk patient undergoing a complex and lengthy reoperative procedure; in that case, it might be prudent to close the left atrial appendage (LAA) but forgo ablation to minimize cross-clamp time.
 
-<span id="page-7-1"></span><span id="page-7-0"></span>![](_page_7_Picture_3.jpeg)
+Stand-alone surgical ablation is uncommon, and there are few data documenting long-term results of newer, less invasive procedures. Stand-alone surgical ablation is indicated in the following cases: (1) patients who fail medical therapy and catheter ablation; (2) patients who fail medical therapy and have contraindications to catheter ablation (e.g., left atrial thrombus, discontinuous inferior vena cava, contraindication to warfarin); and (3) selected highly symptomatic individuals who desire the procedure with the highest probability of success. Surgical approaches in these patients include the full Cox-Maze IV procedure performed on cardiopulmonary bypass or an off-pump procedure centered on bilateral pulmonary vein isolation, generally incorporating additional lesions. Long-term results of the Cox-Maze IV operation suggest 2-year freedom from AF of 65% to 85%. In patients with left atrial thrombus, the Cox-Maze IV procedure with cardiopulmonary bypass is indicated because less invasive, off-pump approaches may result in the dislodgment of thrombus.
 
-**Figure 28.3**
+</div></details>
 
-**Figure 28.2** Left atrial isthmus lesion. (A) Radiofrequency. (B) Cryoablation.
+<details class="med-details"><summary>
 
-Right atrial lesions. **Figure 28.3**
+## Step 3. Operative Steps</summary><div class="details-content">
 
-### **Step 4. Choice of Lesion Set**
+The Maze procedure is the gold standard for the surgical treatment of AF and is the most effective curative therapy for AF yet devised. This procedure includes isolation of the pulmonary veins and multiple left and right lesions to interrupt the reentrant circuits of AF, as well as excision or exclusion of the LAA to reduce the risk of thromboembolism. A left atrium-based procedure that includes an encircling lesion around all four pulmonary veins with a lesion to the mitral annulus eliminates AF in 60% to 90% of mitral valve patients. The addition of right atrial lesions in these patients is simple and likely increases the rate of cure while simultaneously decreasing the risk of typical right atrial flutter. Therefore, AF ablation should probably entail treatment of both atria whenever feasible.
 
-◆ The discussion about the correct surgical approach for each patient with AF begins with the lesion set. Although we do not have the ability to tailor the AF ablation strategy for each individual, recent studies have suggested that the biatrial Cox-Maze IV procedure for all patients with AF in the concomitant setting is the most successful technique.19-21
+<details class="med-details"><summary>
 
-# **1. Mitral Valve Surgery**
+### 1. Isolation of Pulmonary Veins</summary><div class="details-content">
 
-◆ Because the left atrium is opened for mitral valve procedures, the full Maze procedure should be performed for all mitral valve patients, regardless of the type of AF. In patients with left atrial enlargement (> 6 cm), widely placed lesions or left atrial reduction may increase the chance of sinus rhythm restoration.22
+Pulmonary vein isolation is most easily performed on the arrested decompressed heart. After establishing cardiopulmonary bypass via bicaval cannulation, the aorta is cross-clamped and the heart is arrested. The posterior surface of the right and left pulmonary veins is bluntly dissected. Beginning from the right pulmonary veins, a bipolar radiofrequency (RF) clamp (AtriCure, West Chester, OH) is positioned around the pulmonary veins and advanced toward the left atrium to isolate as much atrial tissue as possible ([Fig. 28.1A](#fig-28-1)). Four overlapping ablation lines are created on the left atrium proximal to the left atrium–pulmonary vein junction.
 
-### **2. Coronary Artery Bypass Graft**
+The heart is retracted to the right to expose the left pulmonary veins. The same procedure is performed using the bipolar RF clamp (see [Fig. 28.1B](#fig-28-1)). As before, four overlapping lesions are created on the left atrial tissue proximal to the pulmonary vein orifice to avoid pulmonary vein stenosis.
 
-- ◆ Many surgeons are reluctant to open the left atrium when performing AF ablation in patients undergoing an isolated CABG procedure. Several reports have documented good results with left atrial lesions alone.21,23 However, a subsequent meta-analysis of 5885 patients has demonstrated superior long-term freedom from AF in patients receiving lesions in both atria.16
-- ◆ It is important to remember that adding a Maze procedure only minimally increases crossclamp and cardiopulmonary bypass times and does not increase morbidity or mortality in patients undergoing a CABG procedure.24 The consensus is that isolation of the pulmonary veins with LAA management is recommended for high-risk patients or patients with paroxysmal AF. A complete biatrial Maze procedure and LAA treatment are recommended for CABG patients with persistent or long-standing persistent AF.
+</div></details>
 
-#### **3. Aortic Valve Surgery**
+<details class="med-details"><summary>
 
-◆ These patients should be handled in exactly the same manner as those undergoing a CABG procedure and concomitant AF surgery. If the patient has concomitant paroxysmal AF, pulmonary vein isolation with LAA management is sufficient. If the patient has concomitant persistent or long-standing persistent AF, the surgeon is faced with the same dilemma as mentioned previously in regard to whether or not to open the left atrium to perform a full Maze procedure, which is the strategy most likely to treat AF successfully.
+### 2. Left Atrial Lesions</summary><div class="details-content">
 
-# **4. Stand-Alone Atrial Fibrillation**
+The procedure for left-sided lesions is performed on the arrested heart through a standard left atriotomy anterior to the right pulmonary veins. To complete the so-called box lesion in the posterior left atrium, connecting lesions between the right and left pulmonary veins are created with the RF clamp (see [Fig. 28.1C and D](#fig-28-1)). For each connecting lesion, one jaw of the clamp is placed inside the heart, and one jaw rests on the epicardial surface of the atrium. Each of these lesions entails the creation of two overlapping lesions, which generally suffices for the relatively thin atrium in these regions.
 
-- ◆ When the surgeon performs ablation of AF as a stand-alone procedure, options range from the Cox-Maze IV procedure to a variety of minimally invasive procedures. Minimally invasive procedures may include unilateral or bilateral thoracoscopic approaches, or unilateral or bilateral minithoracotomies.15
-- ◆ A full Cox-Maze IV lesion set can be created through a 6-cm right thoracotomy [\(Fig. 28.4A](#page-11-0)), with the heart arrested after establishing cardiopulmonary bypass through peripheral bicaval cannulation (see [Fig. 28.4B](#page-11-0)). The approach is endocardial and biatrial and may use one of several different alternative energy sources.
+![](_page_5_Picture_2.jpeg)
 
-## **Step 5. Postoperative Care**
+<span id="fig-28-1"></span>**Figure 28.1** Box lesions in left atrium. (A) Isolation of right pulmonary veins. (B) Isolation of left pulmonary veins. (C) Connection lesions between inferior pulmonary veins. (D) Connection lesions between superior pulmonary veins.
 
-- ◆ Common early postoperative arrhythmias include AF, atrial flutter, and junctional bradycardia. Postablation AF occurs in 30% to 60% of patients; however, by 3 months after surgery, up to 85% of these patients have returned to normal sinus rhythm. When AF or flutter develops, an in-hospital trial of antiarrhythmic agents or electrical cardioversion is indicated. Permanent pacemakers should not be placed for bradycardia until at least 1 week after ablation because the return of sinus node function may take several days.
-- ◆ Preoperative beta blockers should be continued in all patients who do not have a contraindication. Additional antiarrhythmic medication is recommended for patients with postablation AF for 4 to 6 weeks. All patients are discharged on warfarin for 3 months with a target international normalized ratio (INR) of 2.0. If a patient has no AF on a long-term monitor determined at 3 months, no left atrial spontaneous echocardiographic contrast (or "smoke") on echocardiography, a well-controlled LAA, and no other indication for anticoagulation, we believe that it is reasonable to discontinue warfarin. Electrical cardioversion is attempted at 3 months postoperatively for patients who remain in AF.
+The left atrial isthmus lesion is then created using both a bipolar RF clamp and a cryoprobe. This is a connecting lesion from the right inferior pulmonary vein to the P3 region of the mitral annulus. The first part of the lesion is created with bipolar RF, with the clamp angled toward the P3 segment of the mitral valve ([Fig. 28.2A](#fig-28-2)). At the mitral annulus, the lesion is completed with a cryoprobe. The coronary sinus and mitral annulus are sandwiched by creating overlapping cryolesions on the endocardial and epicardial aspects, thereby ensuring a transmural lesion (see [Fig. 28.2B](#fig-28-2)).
 
-### **Step 6. Pearls and Pitfalls**
+![](_page_8_Picture_2.jpeg)
 
-◆ A biatrial lesion set has the greatest probability of success in AF treatment. The LAA should be removed or carefully excluded in all patients undergoing surgical ablation. Early postoperative arrhythmias are common and do not indicate failure. Advances necessary to improve AF ablation in cardiac surgical patients include the use of uniform definitions and methodology for reporting results, improved technology to facilitate ablation and its intraoperative assessment, and refinement of minimally invasive procedures.
+<span id="fig-28-2"></span>**Figure 28.2** Left atrial isthmus lesion. (A) Radiofrequency. (B) Cryoablation.
 
-<span id="page-11-0"></span>![](_page_11_Picture_2.jpeg)
+</div></details>
 
-**Figure 28.4** (A) Right thoracotomy. (B) The heart is arrested after establishing cardiopulmonary bypass through peripheral bicaval cannulation.
+<details class="med-details"><summary>
+
+### 3. Right Atrial Lesions</summary><div class="details-content">
+
+The right atrial lesion set includes an intercaval lesion, T lesion to the tricuspid annulus, and lateral right atrial lesion from this T lesion to the tip of the right atrial appendage. The intercaval lesion is created between the superior vena cava and inferior vena cava, avoiding the sinoatrial node. The lesions to the tricuspid annulus are created with a cryoprobe. Care is taken at this point to avoid contact between the cryoprobe and phrenic nerve ([Fig. 28.3](#fig-28-3)). These three lesions can be placed in a matter of minutes during the rewarming phase of the operation with the patient still on cardiopulmonary bypass and the cross-clamp removed.
+
+![](_page_8_Picture_4.jpeg)
+
+<span id="fig-28-3"></span>**Figure 28.3** Right atrial lesions.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4. Left Atrial Appendage</summary><div class="details-content">
+
+Between 60% and 90% of strokes in AF patients originate from the LAA. Therefore, management of the LAA is mandatory and requires its complete isolation. If the LAA is excised, the residual stump must be less than 1 cm in length. New epicardial occlusion devices enable safe, rapid, and complete LAA exclusion. Suture exclusion of the LAA is generally less successful because recurrent communication between the LAA and left atrium is frequent.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Step 4. Choice of Lesion Set</summary><div class="details-content">
+
+The discussion about the correct surgical approach for each patient with AF begins with the lesion set. Although we do not have the ability to tailor the AF ablation strategy for each individual, recent studies have suggested that the biatrial Cox-Maze IV procedure for all patients with AF in the concomitant setting is the most successful technique.
+
+<details class="med-details"><summary>
+
+### 1. Mitral Valve Surgery</summary><div class="details-content">
+
+Because the left atrium is opened for mitral valve procedures, the full Maze procedure should be performed for all mitral valve patients, regardless of the type of AF. In patients with left atrial enlargement (> 6 cm), widely placed lesions or left atrial reduction may increase the chance of sinus rhythm restoration.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 2. Coronary Artery Bypass Graft</summary><div class="details-content">
+
+Many surgeons are reluctant to open the left atrium when performing AF ablation in patients undergoing an isolated CABG procedure. Several reports have documented good results with left atrial lesions alone. However, a subsequent meta-analysis of 5885 patients has demonstrated superior long-term freedom from AF in patients receiving lesions in both atria.
+
+It is important to remember that adding a Maze procedure only minimally increases cross-clamp and cardiopulmonary bypass times and does not increase morbidity or mortality in patients undergoing a CABG procedure. The consensus is that isolation of the pulmonary veins with LAA management is recommended for high-risk patients or patients with paroxysmal AF. A complete biatrial Maze procedure and LAA treatment are recommended for CABG patients with persistent or long-standing persistent AF.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 3. Aortic Valve Surgery</summary><div class="details-content">
+
+These patients should be handled in exactly the same manner as those undergoing a CABG procedure and concomitant AF surgery. If the patient has concomitant paroxysmal AF, pulmonary vein isolation with LAA management is sufficient. If the patient has concomitant persistent or long-standing persistent AF, the surgeon is faced with the same dilemma as mentioned previously in regard to whether or not to open the left atrium to perform a full Maze procedure, which is the strategy most likely to treat AF successfully.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### 4. Stand-Alone Atrial Fibrillation</summary><div class="details-content">
+
+When the surgeon performs ablation of AF as a stand-alone procedure, options range from the Cox-Maze IV procedure to a variety of minimally invasive procedures. Minimally invasive procedures may include unilateral or bilateral thoracoscopic approaches, or unilateral or bilateral minithoracotomies.
+
+A full Cox-Maze IV lesion set can be created through a 6-cm right thoracotomy ([Fig. 28.4A](#fig-28-4)), with the heart arrested after establishing cardiopulmonary bypass through peripheral bicaval cannulation (see [Fig. 28.4B](#fig-28-4)). The approach is endocardial and biatrial and may use one of several different alternative energy sources.
+
+![](_page_11_Picture_2.jpeg)
+
+<span id="fig-28-4"></span>**Figure 28.4** (A) Right thoracotomy. (B) The heart is arrested after establishing cardiopulmonary bypass through peripheral bicaval cannulation.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Step 5. Postoperative Care</summary><div class="details-content">
+
+Common early postoperative arrhythmias include AF, atrial flutter, and junctional bradycardia. Postablation AF occurs in 30% to 60% of patients; however, by 3 months after surgery, up to 85% of these patients have returned to normal sinus rhythm. When AF or flutter develops, an in-hospital trial of antiarrhythmic agents or electrical cardioversion is indicated. Permanent pacemakers should not be placed for bradycardia until at least 1 week after ablation because the return of sinus node function may take several days.
+
+Preoperative beta blockers should be continued in all patients who do not have a contraindication. Additional antiarrhythmic medication is recommended for patients with postablation AF for 4 to 6 weeks. All patients are discharged on warfarin for 3 months with a target international normalized ratio (INR) of 2.0. If a patient has no AF on a long-term monitor determined at 3 months, no left atrial spontaneous echocardiographic contrast (or "smoke") on echocardiography, a well-controlled LAA, and no other indication for anticoagulation, we believe that it is reasonable to discontinue warfarin. Electrical cardioversion is attempted at 3 months postoperatively for patients who remain in AF.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Step 6. Pearls and Pitfalls</summary><div class="details-content">
+
+A biatrial lesion set has the greatest probability of success in AF treatment. The LAA should be removed or carefully excluded in all patients undergoing surgical ablation. Early postoperative arrhythmias are common and do not indicate failure. Advances necessary to improve AF ablation in cardiac surgical patients include the use of uniform definitions and methodology for reporting results, improved technology to facilitate ablation and its intraoperative assessment, and refinement of minimally invasive procedures.
+
+</div></details>
