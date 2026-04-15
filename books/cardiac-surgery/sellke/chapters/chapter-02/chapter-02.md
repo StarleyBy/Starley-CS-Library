@@ -40,13 +40,13 @@
 
 ### 1. Ascending Aorta</summary><div class="details-content">
 
-Cannulation sites on the ascending aorta should be as high as safely possible. Surgeons today more frequently perform complete arterial revascularization, which in some cases may require delicate proximal anastomoses of arterial conduits (e.g., free internal thoracic arteries, radial arteries) directly to the aorta. These anastomoses are more difficult to construct if the aorta is under tension and distorted, such as may occur with a partial occluding clamp. A landmark for cannulation that is consistently successful for this approach is the pericardial reflection on the left anterolateral surface of the aorta, just below the innominate vein (Fig. 2.1). This reflection can be divided to expose an area approximately 1 cm in diameter.
+Cannulation sites on the ascending aorta should be as high as safely possible. Surgeons today more frequently perform complete arterial revascularization, which in some cases may require delicate proximal anastomoses of arterial conduits (e.g., free internal thoracic arteries, radial arteries) directly to the aorta. These anastomoses are more difficult to construct if the aorta is under tension and distorted, such as may occur with a partial occluding clamp. A landmark for cannulation that is consistently successful for this approach is the pericardial reflection on the left anterolateral surface of the aorta, just below the innominate vein ([Fig. 2.1](#fig-2-1)). This reflection can be divided to expose an area approximately 1 cm in diameter.
 
 Higher sites of cannulation (arch) may be desirable in cases of demonstrated aortic disease, and this form of cannulation may be associated with fewer neurologic problems. If there is extensive aortic disease or a hemiarch replacement is considered, the innominate artery can also be cannulated.
 
 ![](_page_2_Picture_2.jpeg)
 
-**Figure 2.1**
+<span id="fig-2-1"></span>**Figure 2.1**
 
 </div></details>
 
@@ -54,13 +54,13 @@ Higher sites of cannulation (arch) may be desirable in cases of demonstrated aor
 
 ### 2. Femoral and Iliac Vessels</summary><div class="details-content">
 
-It is essential that all trainees be familiar with the anatomy of the common femoral artery, with emphasis on its branches and its relationship to the inguinal ligament and common femoral vein (Fig. 2.2). We believe that it is critical to identify the superficial femoral and profunda femoris arteries to ensure cannulation of the common femoral artery proper.
+It is essential that all trainees be familiar with the anatomy of the common femoral artery, with emphasis on its branches and its relationship to the inguinal ligament and common femoral vein ([Fig. 2.2](#fig-2-2)). We believe that it is critical to identify the superficial femoral and profunda femoris arteries to ensure cannulation of the common femoral artery proper.
 
 In some cases, part of the inguinal ligament may need to be divided to provide safe control of the proximal aspect of the vessel. However, this is not commonly required because of the availability of easier sites for cannulation (e.g., axillary artery).
 
 ![](_page_2_Figure_4.jpeg)
 
-**Figure 2.2**
+<span id="fig-2-2"></span>**Figure 2.2**
 
 </div></details>
 
@@ -68,11 +68,11 @@ In some cases, part of the inguinal ligament may need to be divided to provide s
 
 ### 3. Axillary Artery</summary><div class="details-content">
 
-Cardiac surgeons should also be familiar with the pertinent anatomy of the axillary artery. In particular, the axillary vein is anterosuperior to the artery, and the brachial plexus is posterolateral (Fig. 2.3).
+Cardiac surgeons should also be familiar with the pertinent anatomy of the axillary artery. In particular, the axillary vein is anterosuperior to the artery, and the brachial plexus is posterolateral ([Fig. 2.3](#fig-2-3)).
 
 ![](_page_4_Picture_2.jpeg)
 
-**Figure 2.3**
+<span id="fig-2-3"></span>**Figure 2.3**
 
 </div></details>
 
@@ -106,23 +106,23 @@ Finally, with regard to venous cannulation, our practice has been to use two sin
 
 #### Ascending Aortic Cannulation</summary><div class="details-content">
 
-The target area should be digitally palpated. The cannula should be inserted so that its flow direction and jet are away from the arch vessels (Fig. 2.4).
+The target area should be digitally palpated. The cannula should be inserted so that its flow direction and jet are away from the arch vessels ([Fig. 2.4](#fig-2-4)).
 
 Two sets of purse-string sutures (braided nonabsorbable 2-0) are placed around the target (8 to 10 mm diameter), with the free ends controlled with tourniquets on each side.
 
-There are several options for the actual cannulation, using a no. 15 or no. 11 blade. Some surgeons prefer to incise transmurally and control the opening with their finger, passing the tip of the cannula under the digit into the aortic opening (Fig. 2.5). Some cut in an oblique manner but control the resulting flap with the forceps, directing the cannula under control into the opening. Another elegant method involves incising only the adventitia and media, leaving the paper-thin intima to be punctured by the cannula (Fig. 2.6).
+There are several options for the actual cannulation, using a no. 15 or no. 11 blade. Some surgeons prefer to incise transmurally and control the opening with their finger, passing the tip of the cannula under the digit into the aortic opening ([Fig. 2.5](#fig-2-5)). Some cut in an oblique manner but control the resulting flap with the forceps, directing the cannula under control into the opening. Another elegant method involves incising only the adventitia and media, leaving the paper-thin intima to be punctured by the cannula ([Fig. 2.6](#fig-2-6)).
 
 ![](_page_6_Picture_2.jpeg)
 
-**Figure 2.4**
+<span id="fig-2-4"></span>**Figure 2.4**
 
 ![](_page_6_Picture_3.jpeg)
 
-**Figure 2.5**
+<span id="fig-2-5"></span>**Figure 2.5**
 
 ![](_page_6_Picture_4.jpeg)
 
-**Figure 2.6**
+<span id="fig-2-6"></span>**Figure 2.6**
 
 </div></details>
 
@@ -130,21 +130,21 @@ There are several options for the actual cannulation, using a no. 15 or no. 11 b
 
 #### Femoral Artery Cannulation</summary><div class="details-content">
 
-The safest skin incision for femoral cannulation is a vertical incision overlying and just slightly medial to the femoral pulse (Fig. 2.7). An alternative incision is a slightly oblique incision aligned with the inguinal ligament to facilitate healing.
+The safest skin incision for femoral cannulation is a vertical incision overlying and just slightly medial to the femoral pulse ([Fig. 2.7](#fig-2-7)). An alternative incision is a slightly oblique incision aligned with the inguinal ligament to facilitate healing.
 
 Lymphatic vessels should be carefully cauterized or ligated to prevent the formation of a lymphocele and persistent drainage.
 
-Proximal and distal control of the femoral artery should be obtained. A target site for the arteriotomy should be chosen after considering where the proximal clamp may be safely placed and how the repair will be accomplished when the cannula is removed (Fig. 2.8, A). The distal vessels may be occluded with separate clamps or tapes (see Fig. 2.8, B).
+Proximal and distal control of the femoral artery should be obtained. A target site for the arteriotomy should be chosen after considering where the proximal clamp may be safely placed and how the repair will be accomplished when the cannula is removed ([Fig. 2.8](#fig-2-8), A). The distal vessels may be occluded with separate clamps or tapes (see [Fig. 2.8](#fig-2-8), B).
 
 The arteriotomy should be made in a transverse fashion and the femoral cannula gently introduced while an assistant releases the proximal clamp. The cannula is then secured by tying it to the proximal snare, with a second suture securing the tubing to the surface of the thigh.
 
 ![](_page_6_Picture_8.jpeg)
 
-**Figure 2.7**
+<span id="fig-2-7"></span>**Figure 2.7**
 
 ![](_page_8_Picture_2.jpeg)
 
-**Figure 2.8**
+<span id="fig-2-8"></span>**Figure 2.8**
 
 </div></details>
 
@@ -152,23 +152,23 @@ The arteriotomy should be made in a transverse fashion and the femoral cannula g
 
 #### Axillary Artery Cannulation</summary><div class="details-content">
 
-A 5- to 8-cm transverse incision is made about 2 cm below the clavicle, overlying the deltopectoral groove (Fig. 2.9). The dissection is continued between the fibers of the pectoralis major. There is often soft fat in this space, and the area should be dissected gently to avoid tearing of vessels and blood staining. The exposure is further aided by two self-retaining retractors. In an emergency, it is often necessary to sacrifice small nerves to the pectoralis major.
+A 5- to 8-cm transverse incision is made about 2 cm below the clavicle, overlying the deltopectoral groove ([Fig. 2.9](#fig-2-9)). The dissection is continued between the fibers of the pectoralis major. There is often soft fat in this space, and the area should be dissected gently to avoid tearing of vessels and blood staining. The exposure is further aided by two self-retaining retractors. In an emergency, it is often necessary to sacrifice small nerves to the pectoralis major.
 
 The cephalic vein is identified in this space, where it penetrates the fascia to join the axillary vein. The clavipectoral fascia is incised, and the pectoralis minor muscle is retracted laterally or partially dissected. The axillary vein should be encircled with loops and gently retracted cephalad.
 
 The artery, which lies superior and deep to the vein, can be identified by palpation and then exposed and controlled proximally and distally with tapes. Arterial branches of the thoracoacromial trunk may be encountered and should be controlled with silk snares. Care must be taken to avoid touching the medial and lateral brachial plexus cords.
 
-After heparin is administered, the artery can be controlled with clamps, but we prefer to use a partial occluding clamp at the arteriotomy site. An 8-mm tube graft should be anastomosed to this site (Fig. 2.10) and the arterial cannula inserted into the tube graft. The cannula is not advanced into the axillary artery proper, but rather perfuses from within the graft.
+After heparin is administered, the artery can be controlled with clamps, but we prefer to use a partial occluding clamp at the arteriotomy site. An 8-mm tube graft should be anastomosed to this site ([Fig. 2.10](#fig-2-10)) and the arterial cannula inserted into the tube graft. The cannula is not advanced into the axillary artery proper, but rather perfuses from within the graft.
 
 At the end of the procedure, the stump can be controlled with several very large hemoclips applied transversely and then oversewn with 4-0 polypropylene sutures.
 
 ![](_page_8_Picture_4.jpeg)
 
-**Figure 2.9**
+<span id="fig-2-9"></span>**Figure 2.9**
 
 ![](_page_8_Picture_6.jpeg)
 
-**Figure 2.10**
+<span id="fig-2-10"></span>**Figure 2.10**
 
 </div></details>
 
@@ -176,7 +176,7 @@ At the end of the procedure, the stump can be controlled with several very large
 
 #### Transapical Cannulation</summary><div class="details-content">
 
-This technique is extremely useful in situations of severe atherosclerotic disease of the aorta (porcelain aorta) or for a type A dissection in an emergency (Fig. 2.11).
+This technique is extremely useful in situations of severe atherosclerotic disease of the aorta (porcelain aorta) or for a type A dissection in an emergency ([Fig. 2.11](#fig-2-11)).
 
 Venous (right atrial) cannulation should be obtained first to allow for the rapid institution of bypass after cannulating the apex. Similarly, if possible, the right superior pulmonary vein should be cannulated first for venting because it is difficult to mobilize the heart after the cannula is in place for fear of left ventricular tearing. An easy alternative is to vent the pulmonary artery.
 
@@ -184,7 +184,7 @@ Manipulation of the apex may cause instability, so the equipment should be ready
 
 A 14 F needle is inserted in the apex, and a guidewire is passed across the aortic valve with transesophageal echocardiography (TEE) guidance. A laparotomy pad is placed under the left ventricular apex to stabilize the heart.
 
-There is no need to predilate the opening. A wire-reinforced cannula with an inner dilator is passed over the guidewire and positioned across the aortic valve. The cannula is then connected to the circuit and de-aired, and bypass is commenced. Its position can be verified by TEE (Fig. 2.12).
+There is no need to predilate the opening. A wire-reinforced cannula with an inner dilator is passed over the guidewire and positioned across the aortic valve. The cannula is then connected to the circuit and de-aired, and bypass is commenced. Its position can be verified by TEE ([Fig. 2.12](#fig-2-12)).
 
 It is not recommended to place purse-string sutures in the epicardium until after bypass has started because beating of the heart may cause tearing. Once the heart is on bypass, however, with the heart decompressed, we place two large, braided, pledgeted purse strings, controlled with a tourniquet. The cannula is tied to these tourniquets and is also fixed to the skin to prevent motion.
 
@@ -192,11 +192,11 @@ The strategy to deal with the relevant aortic pathology (e.g., dissection) shoul
 
 ![](_page_10_Picture_2.jpeg)
 
-**Figure 2.11**
+<span id="fig-2-11"></span>**Figure 2.11**
 
 ![](_page_10_Picture_4.jpeg)
 
-**Figure 2.12**
+<span id="fig-2-12"></span>**Figure 2.12**
 
 </div></details>
 
@@ -240,7 +240,7 @@ Direct cannulation of the SVC may be necessary, particularly with high atrial se
 
 #### Retrograde Coronary Sinus Cannulation</summary><div class="details-content">
 
-A purse-string suture (4-0 polypropylene) is placed on the right atrial wall, caudal to the IVC cannulation site and about 1 cm from the atrioventricular junction, at the level of the acute margin of the right ventricle (Fig. 2.13).
+A purse-string suture (4-0 polypropylene) is placed on the right atrial wall, caudal to the IVC cannulation site and about 1 cm from the atrioventricular junction, at the level of the acute margin of the right ventricle ([Fig. 2.13](#fig-2-13)).
 
 The cannula is passed through a stab in the purse string and is rotated so that the tip abuts on the atrial septum at a point just medial to the IVC and curls toward the left shoulder as the cannula is advanced. Proper placement is indicated by easy passage of the cannula tip and by external palpation of the cannula in the coronary sinus medial to the IVC. The pressure tracing from the tip of the cannula will also be characteristic, and the position can be confirmed using TEE.
 
@@ -248,7 +248,7 @@ If the cannula cannot be easily inserted, after snaring down the two single-stag
 
 ![](_page_12_Picture_2.jpeg)
 
-**Figure 2.13**
+<span id="fig-2-13"></span>**Figure 2.13**
 
 </div></details>
 
@@ -256,7 +256,7 @@ If the cannula cannot be easily inserted, after snaring down the two single-stag
 
 #### Right Superior Pulmonary Vein Cannulation for Venting</summary><div class="details-content">
 
-A purse-string suture (4-0 polypropylene) is placed on the right superior pulmonary vein with the medial suture line placed into the left atrium (Fig. 2.14).
+A purse-string suture (4-0 polypropylene) is placed on the right superior pulmonary vein with the medial suture line placed into the left atrium ([Fig. 2.14](#fig-2-14)).
 
 The vent can be placed prior to or after cross-clamp application. If the vent is placed prior to application of the cross-clamp, the surgeon must ensure that the left ventricle is not ejecting to avoid possible air embolization during vent placement.
 
@@ -268,7 +268,7 @@ Less common alternative sites for ventricular venting include the superior aspec
 
 ![](_page_14_Picture_2.jpeg)
 
-**Figure 2.14**
+<span id="fig-2-14"></span>**Figure 2.14**
 
 </div></details>
 
@@ -286,11 +286,11 @@ Prior to performing venous-venous extracorporeal membrane oxygenation (ECMO), ap
 
 The femoral vein is punctured with an 18-G needle by palpating the femoral artery and directing the needle just medial to the artery or via ultrasound. A J-tipped guidewire is advanced through the needle and should be visualized in the right atrium–IVC junction. A series of graduated dilators are used, and the venous cannula is placed over the guidewire. A similar approach is achieved for the jugular vein.
 
-A novel method of achieving venous-venous ECMO is via a double-lumen catheter, which can be placed in the right jugular vein. Ultrasound-guided venous puncture of the right jugular vein is achieved with an 18-G needle, and a stiff, J-tipped guidewire is placed and should be anchored deep into the IVC. TEE is essential, but to minimize complications, fluoroscopy is required. A series of graduated dilators are used, and the double-lumen catheter is placed so that the upper and lower drainage holes are located at the SVC and IVC, respectively (Fig. 2.15). The return (oxygenated blood) port is found in the mid–right atrium, and the oxygenated blood is directed toward the tricuspid valve.
+A novel method of achieving venous-venous ECMO is via a double-lumen catheter, which can be placed in the right jugular vein. Ultrasound-guided venous puncture of the right jugular vein is achieved with an 18-G needle, and a stiff, J-tipped guidewire is placed and should be anchored deep into the IVC. TEE is essential, but to minimize complications, fluoroscopy is required. A series of graduated dilators are used, and the double-lumen catheter is placed so that the upper and lower drainage holes are located at the SVC and IVC, respectively ([Fig. 2.15](#fig-2-15)). The return (oxygenated blood) port is found in the mid–right atrium, and the oxygenated blood is directed toward the tricuspid valve.
 
 ![](_page_14_Picture_4.jpeg)
 
-**Figure 2.15**
+<span id="fig-2-15"></span>**Figure 2.15**
 
 </div></details>
 
@@ -302,11 +302,11 @@ Venous cannulation is achieved as described previously, generally in the femoral
 
 Arterial cannulation is achieved via the ultrasound-guided Seldinger technique in the common femoral artery. A small 15 F or 17 F arterial cannula should be used to allow some distal limb perfusion.
 
-To ensure adequate distal limb perfusion, an antegrade catheter can be placed in the superficial femoral artery, or a small retrograde catheter can be placed in the posterior tibial artery (Fig. 2.16).
+To ensure adequate distal limb perfusion, an antegrade catheter can be placed in the superficial femoral artery, or a small retrograde catheter can be placed in the posterior tibial artery ([Fig. 2.16](#fig-2-16)).
 
 ![](_page_17_Picture_2.jpeg)
 
-**Figure 2.16**
+<span id="fig-2-16"></span>**Figure 2.16**
 
 </div></details>
 
