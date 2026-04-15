@@ -5,7 +5,7 @@
       "title": "Summary",
       "path": "books/summary",
       "books": [
-        { "folder": "mysummary" }
+        { "folder": "mysummary", "visibility": "admin-only" }
       ]
     },
     {
@@ -27,7 +27,7 @@
         { "folder": "cohn" },
         { "folder": "Kirklin5" },
         { "folder": "Spray6" },
-        { "folder": "Kirklin4" },
+        { "folder": "Kirklin4", "visibility": "admin-only" },
         { "folder": "sellke" },
         { "folder": "Key-questions-in-congenital-cardiac-surgery" },
         { "folder": "Key-questions-in-cardiac-surgery" }    
@@ -82,6 +82,14 @@
       "books": [
             { "folder": "drugs-in-icu-oxford" },
             { "folder": "opie's-cardiovascular-drugs" }
+      ]
+    },
+    {
+      "id": "work",
+      "title": "Service",
+      "path": "books/work",
+      "books": [
+            { "folder": "wolfson", "visibility": "admin-only"  }
       ]
     }
   ]
