@@ -221,16 +221,24 @@ async function loadChapter(bookPath, chapterId, edition) {
         if (edition === 'russian') suffix = '-ru';
         if (edition === 'hebrew') suffix = '-he';
 
-        let url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${suffix}.md`;
-        
+        // Определяем родительскую папку для подглав
+        // chapter-01-01 -> chapter-01, chapter-05 -> chapter-05
+        let parentFolder = chapterId;
+        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
+        if (subchapterMatch) {
+            parentFolder = subchapterMatch[1];
+        }
+
+        let url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${suffix}.md`;
+
         let response = await fetch(url);
-        
+
         if (!response.ok) {
             console.warn(`${edition} version not found, falling back to original.`);
-            url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}.md`;
+            url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}.md`;
             response = await fetch(url);
         }
-        
+
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -276,7 +284,7 @@ async function loadChapter(bookPath, chapterId, edition) {
 
         // Set the base URL for relative image paths to the chapter's images folder
         marked.setOptions({
-            baseUrl: `${BASE_URL}${bookPath}/chapters/${chapterId}/images/`
+            baseUrl: `${BASE_URL}${bookPath}/chapters/${parentFolder}/images/`
         });
         
         // Set html lang for correct hyphenation
