@@ -39,7 +39,7 @@
 
 The most essential consideration in performing a sternotomy is that it is done through the midline. The suprasternal notch and xyphoid process are used as landmarks. The latter sometimes has an asymmetric configuration and therefore it is helpful to control the edge of the ribs on both sides to find the middle. A paramedian sternotomy may be harmful to the sternum and is a significant risk factor for sternum instability, which could lead to disturbances in wound healing.
 
-The patient is placed supine on the operating table. A linear incision is made from just above the sternal angle to the level of the xiphoid process. Subcutaneous fat and presternal fascia are divided, and the linea alba is divided inferiorly about 2 to 3 cm to obtain adequate exposure of the pericardium (Fig. 1.1). It is essential to divide the interclavicular ligament at the top of the suprasternal notch using electrocautery. Special attention should be taken to identify the veins crossing this area—the jugular venous arch. Injury of the veins in this area could injure other important structures, such as the trachea or brachiocephalic artery, if the bleeding is not controlled, especially if the view is limited due to small incisions. There are also veins crossing the upper part of the xiphoid cartilage, which should be identified and cauterized. The midline of the sternum is marked by electrocautery. Scissors could be used to divide the xiphoid process separately. The sternum is divided with a saw in a caudocranial fashion, with close attention paid to staying on the midline. The sternum could also be divided in a craniocaudal fashion, changing the direction of the saw blade.
+The patient is placed supine on the operating table. A linear incision is made from just above the sternal angle to the level of the xiphoid process. Subcutaneous fat and presternal fascia are divided, and the linea alba is divided inferiorly about 2 to 3 cm to obtain adequate exposure of the pericardium ([Fig. 1.1](#fig-1-1)). It is essential to divide the interclavicular ligament at the top of the suprasternal notch using electrocautery. Special attention should be taken to identify the veins crossing this area—the jugular venous arch. Injury of the veins in this area could injure other important structures, such as the trachea or brachiocephalic artery, if the bleeding is not controlled, especially if the view is limited due to small incisions. There are also veins crossing the upper part of the xiphoid cartilage, which should be identified and cauterized. The midline of the sternum is marked by electrocautery. Scissors could be used to divide the xiphoid process separately. The sternum is divided with a saw in a caudocranial fashion, with close attention paid to staying on the midline. The sternum could also be divided in a craniocaudal fashion, changing the direction of the saw blade.
 
 It is prudent to ask the anesthesiologist to stop the mechanical ventilation to avoid unnecessary opening of the pleura with the saw. The saw should be lifted slightly against the posterior plate of the sternum, and care should be taken to avoid injury to the pericardium, thymus, and innominate vein. If the peritoneum is opened accidentally, it is important to close the peritoneum expeditiously to avoid fluid incorporation and subsequent adhesion in the peritoneum. Extension of the incision cranially facilitates exposure of the arch and supraaortic vessels. On the other hand, the gastroepiploic artery could be harvested, extending the incision into the peritoneal space.
 
@@ -51,7 +51,7 @@ In redo cases, it is crucial to dissect the attachment to the edge of the sternu
 
 ![](_page_3_Picture_2.jpeg)
 
-**Figure 1.1** Standard median sternotomy. Identification and division at the middle of the sternum is the A and O. The skin incision could be reduced to ca. 10 cm and still divide the sternum completely.
+<span id="fig-1-1"></span>**Figure 1.1** Standard median sternotomy. Identification and division at the middle of the sternum is the A and O. The skin incision could be reduced to ca. 10 cm and still divide the sternum completely.
 
 </div></details>
 
@@ -59,13 +59,13 @@ In redo cases, it is crucial to dissect the attachment to the edge of the sternu
 
 ### Step 2. Partial Sternotomy</summary><div class="details-content">
 
-An upper or lower partial sternotomy may be used for certain procedures, such as isolated aortic or mitral valve repair or replacement or bypass surgery with certain target vessels. The sternum could be divided into different patterns through the third or fourth intercostal space—J shape, L shape, or inverted T shape (Fig. 1.2). The fourth intercostal space usually enables a good exposure of the aorta and root to be obtained. Access to the right atrium could be limited, which makes direct insertion of the venous cannula into the appendage of the right atrium laborious. It is important to have the option to cannulate the femoral vein if exposure of the right atrium is not sufficient, especially in the case of a smaller incision through the third intercostal space. Venting through the pulmonary artery may be useful in select cases with limited access to the upper right pulmonary vein.
+An upper or lower partial sternotomy may be used for certain procedures, such as isolated aortic or mitral valve repair or replacement or bypass surgery with certain target vessels. The sternum could be divided into different patterns through the third or fourth intercostal space—J shape, L shape, or inverted T shape ([Fig. 1.2](#fig-1-2)). The fourth intercostal space usually enables a good exposure of the aorta and root to be obtained. Access to the right atrium could be limited, which makes direct insertion of the venous cannula into the appendage of the right atrium laborious. It is important to have the option to cannulate the femoral vein if exposure of the right atrium is not sufficient, especially in the case of a smaller incision through the third intercostal space. Venting through the pulmonary artery may be useful in select cases with limited access to the upper right pulmonary vein.
 
 A small incision has the advantage of reducing the wound area and preventing wound infections due to sternum instability, reducing the requirement for a blood transfusion, and shortening the stay in the intensive care unit. Small incisions are also preferred by the patients for cosmetic reasons.
 
 ![](_page_6_Picture_2.jpeg)
 
-**Figure 1.2** A partial sternotomy gives good exposure of the aortic root and could be selected to reduce the incidence of sternum instability and wound infection.
+<span id="fig-1-2"></span>**Figure 1.2** A partial sternotomy gives good exposure of the aortic root and could be selected to reduce the incidence of sternum instability and wound infection.
 
 </div></details>
 
@@ -77,11 +77,11 @@ At the end of the procedure, chest drains are placed through separate stab incis
 
 After thorough hemostasis and placement of chest drains, the sternum is closed using six to eight stainless steel wires. Consideration for ensuring the stability of the manubrium is essential. The risk of cutting by wires could be reduced through placement of the wires through the intercostal space. Care should be taken to stay close to the edge to minimize the risk of injury to the internal thoracic artery. Bands or plates could be used as an alternative to the wires to stabilize a fragile sternum with osteoporosis, or a paramedian sternotomy could be carried out in select cases.
 
-The insertion sites of the wires are controlled for bleeding. The wires are tied individually or by putting two together in a figure-of-eight fashion. Reinforcement of the sternum edge is advisable in case of asymmetric division of the sternum by placing an extra-longitudinal wire at both sides of the sternum to avoid cutting through the wire, as proposed by Robicsek et al. (Fig. 1.3). Wire tips are then buried in the presternal fascia. The linea alba is closed using running or interrupted fascia closure sutures, and the subcutaneous tissue is closed using absorbable sutures. Skin closure is performed using subcuticular sutures or skin staples.
+The insertion sites of the wires are controlled for bleeding. The wires are tied individually or by putting two together in a figure-of-eight fashion. Reinforcement of the sternum edge is advisable in case of asymmetric division of the sternum by placing an extra-longitudinal wire at both sides of the sternum to avoid cutting through the wire, as proposed by Robicsek et al. ([Fig. 1.3](#fig-1-3)). Wire tips are then buried in the presternal fascia. The linea alba is closed using running or interrupted fascia closure sutures, and the subcutaneous tissue is closed using absorbable sutures. Skin closure is performed using subcuticular sutures or skin staples.
 
 ![](_page_6_Picture_5.jpeg)
 
-**Figure 1.3** Closure of the sternum with additional bilateral longitudinal wires for reinforcement introduced from Robicsek.
+<span id="fig-1-3"></span>**Figure 1.3** Closure of the sternum with additional bilateral longitudinal wires for reinforcement introduced from Robicsek.
 
 </div></details>
 
@@ -111,11 +111,11 @@ The insertion sites of the wires are controlled for bleeding. The wires are tied
 
 #### Supramammary Anterolateral Thoracotomy</summary><div class="details-content">
 
-The patient is placed supine on the operating table and the ipsilateral side is elevated 30 to 45 degrees with the arm placed at the side. An incision is made above the upper edge of the third rib, and the pectoralis major and minor muscles are divided using electrocautery (Fig. 1.4). The desired intercostal space (mostly second, occasionally third) is entered after dividing the intercostal muscles on top of the rib and the rib is disattached from the sternum using an oscillating saw and then pushed into the thoracic space to facilitate exposure. The right internal thoracic artery should be detected and sacrificed with metal clips at this step. With assistance of a video scope and an extra site for the aortic clamp, the supramammary incision could be shifted lateral and the procedure could be performed through the intercostal space without resection and dislocation of the rib.
+The patient is placed supine on the operating table and the ipsilateral side is elevated 30 to 45 degrees with the arm placed at the side. An incision is made above the upper edge of the third rib, and the pectoralis major and minor muscles are divided using electrocautery ([Fig. 1.4](#fig-1-4)). The desired intercostal space (mostly second, occasionally third) is entered after dividing the intercostal muscles on top of the rib and the rib is disattached from the sternum using an oscillating saw and then pushed into the thoracic space to facilitate exposure. The right internal thoracic artery should be detected and sacrificed with metal clips at this step. With assistance of a video scope and an extra site for the aortic clamp, the supramammary incision could be shifted lateral and the procedure could be performed through the intercostal space without resection and dislocation of the rib.
 
 ![](_page_10_Picture_2.jpeg)
 
-**Figure 1.4** Supramammary anterolateral thoracotomy. Excellent exposure of the aortic valve could be obtained with reduced incidence of wound healing disturbance.
+<span id="fig-1-4"></span>**Figure 1.4** Supramammary anterolateral thoracotomy. Excellent exposure of the aortic valve could be obtained with reduced incidence of wound healing disturbance.
 
 </div></details>
 
@@ -123,11 +123,11 @@ The patient is placed supine on the operating table and the ipsilateral side is 
 
 #### Submammary Anterolateral Thoracotomy</summary><div class="details-content">
 
-The patient is placed supine on the operating table, and the ipsilateral side is elevated 30 to 45 degrees, with the patient's arm placed at the side. A submammary incision is made, and the pectoralis major muscle is divided using electrocautery (Fig. 1.5). The serratus anterior muscle is divided using electrocautery. The dorsal latissimus muscle could be divided or retracted and preserved as well. The desired intercostal space (fourth or fifth) is entered after dividing the intercostal muscles on top of the rib to avoid injury of the intercostal neurovascular bundle. A partial rib resection may be performed to facilitate exposure.
+The patient is placed supine on the operating table, and the ipsilateral side is elevated 30 to 45 degrees, with the patient's arm placed at the side. A submammary incision is made, and the pectoralis major muscle is divided using electrocautery ([Fig. 1.5](#fig-1-5)). The serratus anterior muscle is divided using electrocautery. The dorsal latissimus muscle could be divided or retracted and preserved as well. The desired intercostal space (fourth or fifth) is entered after dividing the intercostal muscles on top of the rib to avoid injury of the intercostal neurovascular bundle. A partial rib resection may be performed to facilitate exposure.
 
 ![](_page_10_Picture_4.jpeg)
 
-**Figure 1.5** Submammary anterolateral thoracotomy. The most common approach for minimally invasive mitral and tricuspid valve surgery. Assistance with video thoracoscope facilitates the procedure and enables minimization of the skin incision.
+<span id="fig-1-5"></span>**Figure 1.5** Submammary anterolateral thoracotomy. The most common approach for minimally invasive mitral and tricuspid valve surgery. Assistance with video thoracoscope facilitates the procedure and enables minimization of the skin incision.
 
 </div></details>
 
@@ -137,7 +137,7 @@ The patient is placed supine on the operating table, and the ipsilateral side is
 
 The patient is placed in the lateral decubitus position, with a roll placed underneath the dependent axilla. After the patient is secured to the operating table and adequate cushioning is provided to dependent areas, the upper arm is extended anteriorly and cephalad.
 
-A curvilinear incision is started in the submammary region and extended posterolaterally, traversing 1 to 2 cm below the tip of the scapula and extending craniad midway between the spine and scapula (Fig. 1.6).
+A curvilinear incision is started in the submammary region and extended posterolaterally, traversing 1 to 2 cm below the tip of the scapula and extending craniad midway between the spine and scapula ([Fig. 1.6](#fig-1-6)).
 
 The subcutaneous tissue and trapezius muscles are divided using electrocautery. The serratus anterior muscle is divided but may be preserved and retracted. The latissimus dorsi muscle is similarly retracted away from the surgical field. The incision may be continued posteriorly up to the level of the paraspinous muscle.
 
@@ -145,7 +145,7 @@ The thoracic cavity may be entered through the fourth or fifth interspace at the
 
 ![](_page_11_Figure_1.jpeg)
 
-**Figure 1.6** Posterolateral thoracotomy and the possible extension of the skin incision for extended aortic surgery. The patient is positioned in lateral decubitus position. The groin is slightly rotated to maintain access to the femoral vessels.
+<span id="fig-1-6"></span>**Figure 1.6** Posterolateral thoracotomy and the possible extension of the skin incision for extended aortic surgery. The patient is positioned in lateral decubitus position. The groin is slightly rotated to maintain access to the femoral vessels.
 
 </div></details>
 
@@ -179,11 +179,11 @@ An intrapericardial implantation of a left ventricular assist device in the youn
 
 ### Step 2. Other Incisions</summary><div class="details-content">
 
-Other incisions are used occasionally for extended exposure of the great vessels. The clamshell approach (Fig. 1.7) enables access to the hilum of each lung and is an option for bilateral lung transplantation or heart-lung transplantation. This approach provides an excellent exposure of the heart and descending aorta, and may be used for select cases that require extended aortic surgery.
+Other incisions are used occasionally for extended exposure of the great vessels. The clamshell approach ([Fig. 1.7](#fig-1-7)) enables access to the hilum of each lung and is an option for bilateral lung transplantation or heart-lung transplantation. This approach provides an excellent exposure of the heart and descending aorta, and may be used for select cases that require extended aortic surgery.
 
 ![](_page_13_Picture_2.jpeg)
 
-**Figure 1.7** By the clamshell approach, the sternum is transversally divided at the level between the 3rd and 5th intercostal space. The upper part of the thorax is opened like a clamshell with retractors. Sternum wires and PDS pericostal sutures are used to close and stabilize the thorax at the end of the procedure.
+<span id="fig-1-7"></span>**Figure 1.7** By the clamshell approach, the sternum is transversally divided at the level between the 3rd and 5th intercostal space. The upper part of the thorax is opened like a clamshell with retractors. Sternum wires and PDS pericostal sutures are used to close and stabilize the thorax at the end of the procedure.
 
 </div></details>
 

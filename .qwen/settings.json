@@ -7,7 +7,9 @@
       "Bash(git pull *)",
       "Bash(git tag *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git checkout *)",
+      "Bash(mkdir *)"
     ]
   },
   "$version": 3

@@ -18,12 +18,7 @@
   "chapters": [
     {
       "file": "chapter-01.md",
-      "title": "1. Synopsis of Adult Cardiac Surgical Disease",
-      "subchapters": [
-        { "file": "chapter-01-01.md", "title": "1.1 Coronary Artery Disease" },
-        { "file": "chapter-01-02.md", "title": "1.2 Valvular Heart Disease" },
-        { "file": "chapter-01-03.md", "title": "1.3 Aortic Disease" }
-      ]
+      "title": "1. Synopsis of Adult Cardiac Surgical Disease"
     },
     {
       "file": "chapter-02.md",
