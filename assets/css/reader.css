@@ -1261,6 +1261,115 @@ body.font-mono        { --reader-font-family: 'JetBrains Mono', 'Fira Code', 'Co
 .chapter-picker-item:hover  { background: #f0f4ff; }
 .chapter-picker-item.active { background: #e3f2fd; color: #1976d2; font-weight: 600; }
 
+/* ==========================================================================  
+   SUBCHAPTERS - SIDEBAR & PICKER
+   ========================================================================== */
+
+/* Sidebar subchapter styles */
+.chapter-item.has-subchapters {
+    font-weight: 600;
+    cursor: pointer;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+.chapter-item.has-subchapters .chapter-toggle {
+    position: absolute;
+    left: 0.5rem;
+    font-size: 0.7rem;
+    transition: transform 0.2s ease;
+    color: #666;
+}
+
+.chapter-item.has-subchapters.expanded .chapter-toggle {
+    transform: rotate(90deg);
+}
+
+.subchapter-list {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.subchapter-list.expanded {
+    max-height: 2000px; /* Достаточно для 20+ подглав */
+}
+
+.chapter-item.subchapter {
+    padding-left: 2.5rem;
+    font-size: 0.9rem;
+    color: #666;
+    font-weight: 400;
+    border-left: 2px solid #e0e0e0;
+    margin-left: 1rem;
+}
+
+.chapter-item.subchapter:hover {
+    background: #f5f5f5;
+}
+
+.chapter-item.subchapter.active {
+    background: #e3f2fd;
+    color: #1976d2;
+    font-weight: 600;
+    border-left-color: #1976d2;
+}
+
+/* Chapter picker subchapter styles */
+.chapter-picker-item.has-subchapters {
+    font-weight: 600;
+    position: relative;
+}
+
+.chapter-picker-item.has-subchapters::after {
+    content: ' ▸';
+    position: absolute;
+    right: 8px;
+    font-size: 0.7rem;
+}
+
+.chapter-picker-item.has-subchapters.expanded::after {
+    content: ' ▾';
+}
+
+.subchapter-picker {
+    margin-left: 1rem;
+    border-left: 2px solid #e0e0e0;
+    padding-left: 0.5rem;
+    display: none;
+}
+
+.subchapter-picker .chapter-picker-item {
+    font-size: 0.78rem;
+    padding: 5px 8px;
+    padding-left: 1.2rem;
+}
+
+/* Night mode subchapter styles */
+body.night-mode .chapter-item.subchapter {
+    color: #aaa;
+    border-left-color: #2d4060;
+}
+
+body.night-mode .chapter-item.subchapter.active {
+    background: #1a3a5c;
+    color: #64b5f6;
+    border-left-color: #64b5f6;
+}
+
+body.night-mode .subchapter-picker {
+    border-left-color: #2d4060;
+}
+
+body.night-mode .chapter-picker-item.subchapter {
+    color: #aaa;
+}
+
+body.night-mode .chapter-picker-item.subchapter.active {
+    background: #1a3a5c;
+    color: #64b5f6;
+}
+
 body.night-mode #chapter-picker,
 body.night-mode #edition-picker {
   background: #1e2a3a;

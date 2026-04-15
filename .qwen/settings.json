@@ -3,7 +3,10 @@
     "allow": [
       "Bash(dir *)",
       "Bash(node *)",
-      "Bash(del *)"
+      "Bash(del *)",
+      "Bash(git pull *)",
+      "Bash(git tag *)",
+      "Bash(git add *)"
     ]
   },
   "$version": 3

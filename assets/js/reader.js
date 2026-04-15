@@ -777,30 +777,81 @@ function _populateChapterPicker() {
 
     const params  = new URLSearchParams(window.location.search);
     const edition = params.get('edition') || 'original';
+    const bookPath = params.get('book');
 
-    // Read chapters from the already-rendered sidebar chapter-list
-    document.querySelectorAll('#chapter-list .chapter-item').forEach(item => {
-        const chId    = item.dataset.chapterId;
-        const title   = item.textContent.replace(/●/g, '').trim(); // strip read dots
-        const isActive = (chId === _currentChapterId);
+    // Получаем метаданные книги
+    const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json`;
+    
+    fetch(metadataUrl)
+        .then(r => r.json())
+        .then(data => {
+            const bookMeta = data[0];
+            const allChapters = [...bookMeta.chapters, ...(bookMeta.appendices || [])];
 
-        const btn = document.createElement('button');
-        btn.className = 'chapter-picker-item' + (isActive ? ' active' : '');
-        btn.textContent = title;
-        btn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            document.getElementById('chapter-picker')?.classList.remove('visible');
-            _closeMenu();
-            if (typeof updateUrl === 'function') {
-                updateUrl(params.get('book'), chId, edition);
+            allChapters.forEach(ch => {
+                const chId = ch.file.replace('.md', '');
+                const isActive = (chId === _currentChapterId);
+                const hasSubchapters = ch.subchapters && ch.subchapters.length > 0;
+
+                // Главная глава
+                const btn = document.createElement('button');
+                btn.className = 'chapter-picker-item' + (isActive && !hasSubchapters ? ' active' : '') + (hasSubchapters ? ' has-subchapters' : '');
+                btn.textContent = ch.title;
+                btn.addEventListener('click', (e) => {
+                    e.stopPropagation();
+                    if (!hasSubchapters) {
+                        document.getElementById('chapter-picker')?.classList.remove('visible');
+                        _closeMenu();
+                        if (typeof updateUrl === 'function') {
+                            updateUrl(bookPath, chId, edition);
+                        }
+                    } else {
+                        // Тогл подглав
+                        btn.classList.toggle('expanded');
+                        const subList = btn.nextElementSibling;
+                        if (subList && subList.classList.contains('subchapter-picker')) {
+                            subList.style.display = subList.style.display === 'none' ? 'block' : 'none';
+                        }
+                    }
+                });
+                list.appendChild(btn);
+
+                // Подглавы
+                if (hasSubchapters) {
+                    const subListDiv = document.createElement('div');
+                    subListDiv.className = 'subchapter-picker';
+                    subListDiv.style.display = isActive ? 'block' : 'none';
+                    
+                    ch.subchapters.forEach(sub => {
+                        const subId = sub.file.replace('.md', '');
+                        const isSubActive = (subId === _currentChapterId);
+                        
+                        const subBtn = document.createElement('button');
+                        subBtn.className = 'chapter-picker-item subchapter' + (isSubActive ? ' active' : '');
+                        subBtn.textContent = '↳ ' + sub.title;
+                        subBtn.addEventListener('click', (e) => {
+                            e.stopPropagation();
+                            document.getElementById('chapter-picker')?.classList.remove('visible');
+                            _closeMenu();
+                            if (typeof updateUrl === 'function') {
+                                updateUrl(bookPath, subId, edition);
+                            }
+                        });
+                        subListDiv.appendChild(subBtn);
+                    });
+                    
+                    list.appendChild(subListDiv);
+                }
+            });
+
+            if (!list.children.length) {
+                list.innerHTML = '<div style="padding:8px;color:#999;font-size:0.8rem">No chapters loaded</div>';
             }
+        })
+        .catch(err => {
+            console.error('Failed to load chapter picker:', err);
+            list.innerHTML = '<div style="padding:8px;color:#e53935;font-size:0.8rem">Error loading chapters</div>';
         });
-        list.appendChild(btn);
-    });
-
-    if (!list.children.length) {
-        list.innerHTML = '<div style="padding:8px;color:#999;font-size:0.8rem">No chapters loaded</div>';
-    }
 }
 
 function _syncEditionPickerUI() {
