@@ -1,8 +1,62 @@
-# [Intraoperative myocardial protection](#page--1-0)
+# Intraoperative myocardial protection
 
-# RICHARD D. WEISEL AND TERRENCE M. YAU
+<details class="med-details"><summary>
 
-# **HISTORY**
+## Executive Summary</summary><div class="details-content">
+
+### History and Evolution
+* **Hypothermia (Bigelow, 1950s):** First method to protect the heart during cardiac surgery.
+* **Melrose (1955):** First induced cardioplegic arrest using high‑dose potassium (240 mEq/L) – caused myocardial necrosis, abandoned.
+* **Gay & Ebert (1973):** Reintroduced low‑dose potassium cardioplegia (1/10 of Melrose’s concentration) – eliminated inflammatory lesions.
+* **Crystalloid cardioplegia (1970s):** Formulations by Tyers, Roe, Gay, Bretschneider.
+* **Blood cardioplegia (1980s):** Follette & Buckberg – blood as superior vehicle (better oxygen delivery, buffering, oncoticity, free‑radical scavengers). Fremes (Toronto) – better outcomes in unstable angina.
+* **Warm blood cardioplegia (1990s):** Introduced in Toronto; combined antegrade/retrograde techniques.
+
+### Blood vs Crystalloid Cardioplegia
+* **Blood cardioplegia advantages:** Maintains aerobic metabolism during cross‑clamp, reduces lactate production, decreases perioperative MI/low output/death in high‑risk patients.
+* **Single‑dose crystalloid (del Nido, Custodiol):** Used in paediatric and adult valve surgery; limited safety data in coronary disease.
+* **Microplegia (66:1 blood:crystalloid vs 8:1):** Reduces crystalloid load (45±32 mL vs 437±88 mL), independently reduces low cardiac output syndrome (Yau, Toronto).
+* **Metabolic additives (glutamate, aspartate, lactate):** Theoretical benefit (Krebs‑cycle intermediates), but no unequivocal clinical benefit – not widely adopted.
+
+### Cardioplegic Temperature
+* **Cold cardioplegia (<10°C):** Minimises metabolic demand, allows assessment of delivery by regional cooling. Topical slush – possible phrenic nerve palsy.
+* **Warm induction + terminal “hot shot” (Rosenkranz, Teoh):** Improves metabolic recovery, facilitates early mitochondrial function and ATP generation.
+* **Warm heart surgery (Lichtenstein, 1991):** Continuous normothermic (37°C) blood cardioplegia. Myocardial O₂ consumption reduced from 5.6→1.1 mL/min/100g at 37°C; further cooling to 18°C gives minimal additional benefit (0.31 mL/min/100g).
+* **Clinical trials:** Normothermic vs hypothermic cardioplegia – no difference in mortality/MI, but lower low cardiac output syndrome with normothermia. Improved end‑systolic elastance, preload recruitable stroke work, and diastolic relaxation.
+* **Tepid cardioplegia (29°C):** Compromise between warm and cold. Less anaerobic lactate release than warm, better functional recovery than cold, and offers additional protection during cardioplegic interruptions.
+
+### Cardioplegic Delivery
+* **Antegrade (aortic root, 70‑100 mmHg, 12‑gauge cannula):** Initial dose 500‑1000 mL. Maintenance every 15‑20 min (valve surgery) or via completed vein grafts (CABG).
+  * Limitations: Hypoperfusion distal to severe coronary stenoses; risk of vein graft embolisation in reoperations; ineffective in aortic regurgitation (LV distention).
+* **Retrograde (coronary sinus):** Preferred for valve surgery and reoperative CABG. Catheter via right atrial pursestring, balloon occlusion, pressure ≤40 mmHg. Confirm position by palpation, coronary sinus pressure (25‑35 cm H₂O). Right ventricle protection is relatively reduced.
+* **Combined antegrade + retrograde:** Most consistent and homogeneous perfusion (anterior LV and RV). Can give retrograde continuously + antegrade down completed vein grafts. Contrast TEE can quantify perfusion adequacy.
+* **Direct ostial cannulation (4‑7Fr):** When aorta is opened (aortic valve/root). Intermittent or continuous low‑flow antegrade. Very low risk of late coronary stenosis. Retrograde avoids field clutter.
+
+### Adjunctive Strategies
+* **Ischaemic preconditioning:** Brief ischaemia protects against prolonged ischaemia. Intermittent aortic cross‑clamping not proven beneficial, may be dangerous.
+* **Remote ischaemic conditioning (RIC):** Blood pressure cuff on arm/leg – 3 cycles of 5 min inflation (200 mmHg)/deflation. Can be applied before (preconditioning), during (perconditioning), or after (postconditioning) ischaemia. Early trial: 43% reduction in troponin T release. Mechanism: humoral factor (blood‑borne), recruits endothelial progenitor and stem cells. Commercial devices available; large trials pending.
+* **Pharmacological preconditioning mimetics:** Adenosine, adrenergic agonists, bradykinin, amiloride, opioids – often toxic or have side effects.
+  * **Adenosine cardioplegia:** Reduces perioperative MI and IABP requirement (multicentre trial), but did not reduce inotrope need (primary endpoint). Dose not established.
+  * **Adenosine‑lidocaine / adenosine‑procaine:** Polarised arrest – reduces Na⁺/Ca²⁺ loading, vasoconstriction, stunning – small trials only.
+* **Acadesine (RED‑CABG, n=3080):** No reduction in mortality, non‑fatal stroke, or severe LV dysfunction.
+* **Cariporide (NHE‑1 inhibitor, EXPEDITION, n=5761):** Reduced MI (19%→14%, p=0.000005) but increased stroke (4.5% vs 2.5%, p=0.02) and mortality – not clinically usable.
+* **Insulin cardioplegia (10 IU/L):** Stimulates pyruvate dehydrogenase, converts anaerobic→aerobic metabolism. Improves LV stroke work index postop. In 1126 urgent CABG patients, no significant reduction in low output syndrome or enzymatic MI (30% vs 26%, p=0.2).
+* **Pexelizumab (anti‑C5, PRIMO‑CABG I & II):** Blocks C5a and C5b‑9. PRIMO‑CABG I: 18% risk reduction in death/MI (p=0.07) in high‑risk patients. PRIMO‑CABG II (n=4254, ≥2 risk factors): no difference in death/MI (15% vs 16%, p=0.2).
+
+### Alternative Methods (when cardioplegia not feasible)
+* **Intermittent ischaemic arrest:** Cross‑clamp for distal anastomoses, then reperfusion for equal time. Ventricular fibrillation increases O₂ demand; repeated clamping risks atheroemboli.
+* **Hypothermic fibrillatory arrest:** Vented, hypothermic, spontaneously fibrillating heart perfused at 80‑100 mmHg. Akins series (n=3085, 1980‑1993): mortality 1.6%, MI 2.5%, IABP 2.5%. Useful in severe aortic atherosclerosis – proximal anastomoses to mammary grafts, innominate, subclavian.
+
+### Conclusions
+* Low‑risk elective patients already have excellent outcomes with current techniques.
+* High‑risk patients (poor LV function, persistent ischaemia) may benefit from future refinements.
+* Ideal cardioplegic resuscitation method not yet identified – ongoing research.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## HISTORY</summary><div class="details-content">
 
 Bigelow in Toronto introduced hypothermia to protect the heart for cardiac surgery in the 1950s. Deep hypothermia and circulatory arrest facilitated the repair of complex congenital cardiac defects. The initial attempt at induced cardiac arrest to facilitate intracardiac procedures was performed by Melrose in 1955. Unfortunately, the high potassium concentrations produced myocardial necrosis, which resulted in the early abandonment of induced cardioplegic arrest. Direct coronary perfusion and induced ventricular fibrillation were employed to protect the heart, but poor visualization and reports of myocardial injury encouraged cardiac surgeons to discover alternate approaches. For coronary surgery, sequential aortic cross-clamping was employed for the construction of distal coronary anastomoses, but the need for the intra-aortic balloon pump or fatal subendocardial necrosis were concerning.
 
@@ -10,13 +64,23 @@ In the 1970s, crystalloid cardioplegia was introduced to cool and protect the he
 
 This chapter reviews current concepts of myocardial protection and the metabolic and physiological rationale behind them. The advantages and disadvantages of differing delivery methods are discussed and the relative merits of various cardioplegic additives are reviewed. The cardiac surgeon has a unique opportunity not only to prevent damage during cardiac arrest but also to resuscitate the ischemic myocardium and restore myocardial metabolism and ventricular function to normal following the cardiac surgical procedure.
 
-## **CARDIOPLEGIA**
+</div></details>
 
-# **Evolution of potassium cardioplegia**
+<details class="med-details"><summary>
+
+## CARDIOPLEGIA</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Evolution of potassium cardioplegia</summary><div class="details-content">
 
 Potassium cardioplegia was introduced by Melrose and colleagues in 1955 and their formulation contained nearly 240 mEq/L of potassium. In 1957, Donald Effler was one of the first surgeons to use potassium citrate to induce cardioplegic arrest in patients. Unfortunately, the technique was soon abandoned when pathological evidence of severe myocardial injury was demonstrated. In 1973, Gay and Ebert reintroduced hyperkalemic cardioplegic arrest using concentrations of potassium which were one-tenth of those used by Melrose and Effler. Not surprisingly, the focal myocardial inflammatory lesions noted with earlier cases were eliminated. Thereafter, low-dose potassium cardioplegia administered in a crystalloid solution became the most commonly used clinical method of achieving mechanical arrest during cardiac surgical procedures.
 
-# **Blood and crystalloid cardioplegia**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Blood and crystalloid cardioplegia</summary><div class="details-content">
 
 Initial approaches to optimize crystalloid cardioplegia included oxygenation of the crystalloid solution. This approach was soon followed by the introduction of blood as the primary cardioplegic vehicle. In addition to functioning as a more efficient oxygen carrier, whole blood offered the added benefits of a more efficient buffering capacity, a reduction in myocardial edema (due to increased oncoticity) and less hemodilution. Furthermore, whole blood contained a number of endogenous free-radical scavengers which may aid in the attenuation of ischemia-reperfusion injury.
 
@@ -24,61 +88,105 @@ These properties led many surgeons to adopt blood-based cardioplegia in the earl
 
 Conversely, some surgeons have reported good outcomes with the use of single-dose crystalloid cardioplegic formulations including del Nido cardioplegia (an extracellular solution) and Custodial (an intracellular solution). These solutions have been used primarily in pediatric surgery or for valvular surgery in adults, but there is as yet little data on their safety and efficacy in patients with coronary artery disease, where suboptimal protection or delivery may have greater consequences.
 
-## **Dilution of blood cardioplegia**
+</div></details>
 
-Using separate rolling pumps and heat exchangers, the original blood cardioplegic techniques combined cold oxygenated blood from the bypass circuit with a crystalloid solution at a 2:1, 4:1, or 8:1 ratio. Since the early 1990s, blood cardioplegic solutions with even higher concentrations of blood have been used as the level of hypothermia decreased. Indeed, some surgeons currently use a blood-only cardioplegic solution supplemented with essential electrolytes, including potassium and magnesium. Menasche demonstrated that this technique of undiluted blood cardioplegia effectively reduced the volume of crystalloid administration from 750mL to less than 100mL. Moreover, the intrinsic buffering capacity of blood-only cardioplegia precluded the need for additional buffering agents. Since Menasche reported his results, the crystalloid component of cardioplegia has been simplified, now consisting of only potassium, magnesium, and dextrose.
+<details class="med-details"><summary>
 
-Yau in Toronto compared the results with 8 : 1 blood cardioplegia with microplegia (66 : 1) during isolated CABG. A propensity matching of 1980 patients in each group revealed a significant reduction in the amount of crystalloid delivered (437±88 mL in the 8 : 1 group and 45 ±32 mL in the microplegia group). Reducing the crystalloid load may have reduced the amount of cardiac edema because the microplegia group had a significant independent reduction in the need for high-dose inotropes or intra-aortic balloon pumps (low cardiac output syndrome) following CABG surgery.
+### Dilution of blood cardioplegia</summary><div class="details-content">
 
-#### **Metabolic substrate-enhanced cardioplegia**
+Using separate rolling pumps and heat exchangers, the original blood cardioplegic techniques combined cold oxygenated blood from the bypass circuit with a crystalloid solution at a 2:1, 4:1, or 8:1 ratio. Since the early 1990s, blood cardioplegic solutions with even higher concentrations of blood have been used as the level of hypothermia decreased. Indeed, some surgeons currently use a blood-only cardioplegic solution supplemented with essential electrolytes, including potassium and magnesium. Menasche demonstrated that this technique of undiluted blood cardioplegia effectively reduced the volume of crystalloid administration from 750 mL to less than 100 mL. Moreover, the intrinsic buffering capacity of blood-only cardioplegia precluded the need for additional buffering agents. Since Menasche reported his results, the crystalloid component of cardioplegia has been simplified, now consisting of only potassium, magnesium, and dextrose.
+
+Yau in Toronto compared the results with 8:1 blood cardioplegia with microplegia (66:1) during isolated CABG. A propensity matching of 1980 patients in each group revealed a significant reduction in the amount of crystalloid delivered (437±88 mL in the 8:1 group and 45±32 mL in the microplegia group). Reducing the crystalloid load may have reduced the amount of cardiac edema because the microplegia group had a significant independent reduction in the need for high-dose inotropes or intra-aortic balloon pumps (low cardiac output syndrome) following CABG surgery.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Metabolic substrate‑enhanced cardioplegia</summary><div class="details-content">
 
 Preclinical investigations found that prolonged ischemic arrest resulted in depletion in Krebs-cycle intermediates (including **glutamate and aspartate**). This metabolic depletion may contribute to the delayed recovery of postoperative myocardial metabolism and function seen with cold blood cardioplegia. In a trial by Rosenkranz and colleagues, hearts arrested with glutamate- and aspartate-supplemented cardioplegia achieved earlier metabolic recovery. However, other reports found that glutamate and aspartate supplementation was not associated with improved recovery of myocardial metabolism or ventricular function in patients undergoing CABG.
 
 The addition of **lactate** to blood cardioplegia is another metabolic intervention which has been studied in clinical trials. During cardioplegic arrest, myocardial oxidation of fatty acids and glucose (the predominant substrates for aerobic metabolism) is impaired, and lactate, which is readily metabolized to pyruvate, is the preferred substrate for aerobic metabolism during reperfusion. In a randomized clinical trial, the infusion of Ringer's lactate prior to and during cardioplegic arrest was associated with improved cardiac metabolic and functional recovery and a reduction in perioperative ischemic injury compared to controls. Although many metabolic additives have been investigated over the years with varying results, metabolic additives in general have not been widely adopted due to a lack of unequivocal clinical benefit.
 
-# **CARDIOPLEGIC TEMPERATURE**
+</div></details>
 
-# **Normothermic cardioplegia**
+</div></details>
 
-Traditional cardioplegic methods employed intermittent infusions of hypothermic (less than 10 °C) blood or crystalloid cardioplegic solutions during aortic cross-clamping. Cold cardioplegia, in addition to minimizing myocardial metabolic requirements, enabled an immediate assessment of cardioplegic delivery based on the degree of regional cooling. Some surgeons preferred to augment myocardial cooling with the direct application of topical saline slush or with a cooling jacket apparatus. However, the benefits of additional topical cooling have been difficult to demonstrate and were occasionally associated with postoperative phrenic nerve palsy or an increased incidence of respiratory compromise.
+<details class="med-details"><summary>
+
+## CARDIOPLEGIC TEMPERATURE</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Normothermic cardioplegia</summary><div class="details-content">
+
+Traditional cardioplegic methods employed intermittent infusions of hypothermic (less than 10 °C) blood or crystalloid cardioplegic solutions during aortic cross-clamping. Cold cardioplegia, in addition to minimizing myocardial metabolic requirements, enabled an immediate assessment of cardioplegic delivery based on the degree of regional cooling. Some surgeons preferred to augment myocardial cooling with the direct application of topical saline slush or with a cooling jacket apparatus. However, the benefits of additional topical cooling have been difficult to demonstrate and were occasionally associated with postoperative phrenic nerve palsy or an increased incidence of respiratory compromise.
 
 Although hypothermia provides excellent protection to the arrested heart, functional recovery with reperfusion is often delayed, presumably due to the hypothermic inhibition of myocardial enzymes that may remain inactive for hours following cardioplegic arrest. In 1982, Rosenkranz demonstrated that an initial warm induction of cardioplegic arrest prior to administration of hypothermic cardioplegia improved myocardial metabolic and functional recovery. Similarly, Teoh demonstrated that a terminal infusion of warm blood cardioplegia just prior to cross-clamp removal (the cardioplegic "hot shot") facilitated early myocardial metabolic recovery while maintaining electromechanical arrest. Presumably, normothermic reperfusion enables an early resumption of temperature-dependent mitochondrial enzymatic function and a quick return to aerobic metabolism with a resultant increase in adenosine triphosphate (ATP) generation. Moreover, the persistent non-contractile state of the heart enables the use of available ATP for the repair of cellular injury and the repletion of energy stores rather than the maintenance of unnecessary contractile activity. By the late 1980s, the standard technique of myocardial protection in Toronto consisted of intermittent cold blood cardioplegia with a terminal hot shot. In cases of severe preoperative ischemia, warm induction with a substrate-enhanced cardioplegic solution was used.
 
-# **Development of warm heart surgery**
+</div></details>
 
-As early as 1978, Behrendt demonstrated that the basic cardioprotective effects of cardioplegia were independent of hypothermia. Lowering the heart temperature did not reduce myocardial oxygen requirements much beyond that observed with hyperkalemic arrest alone. In 1991, Lichtenstein and colleagues in Toronto extrapolated the benefits of initial and terminal warm cardioplegia to introduce the concept of warm heart surgery. Citing the well-documented deleterious effects of hypothermic cardioplegia (including impairment of mitochondrial energy generation, poor substrate utilization and membrane injury), Lichtenstein suggested that the heart could be maintained at a temperature of 37°C throughout the cross-clamp period to facilitate the recovery of myocardial metabolism and function following cross-clamp removal. In turn, the metabolic needs of the heart would be met by nearcontinuous infusions of blood cardioplegia. Buckberg and colleagues demonstrated the feasibility and potential efficacy of this approach in a canine heart model. Myocardial oxygen consumption was reduced from 5.6mL/min/100g to 1.1mL/ min/100g when the heart was arrested at 37 °C. Lowering the heart temperature to 18 °C provided little additional benefit, with a reduction in myocardial oxygen consumption from 1.1mL/min/100 g to 0.31mL/min/100 g.
+<details class="med-details"><summary>
+
+### Development of warm heart surgery</summary><div class="details-content">
+
+As early as 1978, Behrendt demonstrated that the basic cardioprotective effects of cardioplegia were independent of hypothermia. Lowering the heart temperature did not reduce myocardial oxygen requirements much beyond that observed with hyperkalemic arrest alone. In 1991, Lichtenstein and colleagues in Toronto extrapolated the benefits of initial and terminal warm cardioplegia to introduce the concept of warm heart surgery. Citing the well-documented deleterious effects of hypothermic cardioplegia (including impairment of mitochondrial energy generation, poor substrate utilization and membrane injury), Lichtenstein suggested that the heart could be maintained at a temperature of 37 °C throughout the cross-clamp period to facilitate the recovery of myocardial metabolism and function following cross-clamp removal. In turn, the metabolic needs of the heart would be met by near-continuous infusions of blood cardioplegia. Buckberg and colleagues demonstrated the feasibility and potential efficacy of this approach in a canine heart model. Myocardial oxygen consumption was reduced from 5.6 mL/min/100 g to 1.1 mL/min/100 g when the heart was arrested at 37 °C. Lowering the heart temperature to 18 °C provided little additional benefit, with a reduction in myocardial oxygen consumption from 1.1 mL/min/100 g to 0.31 mL/min/100 g.
 
 In 1991, Lichtenstein and colleagues presented the results of surgery in 121 consecutive patients receiving normothermic antegrade blood cardioplegia during CABG. In comparison to a historical cohort of 133 patients receiving hypothermic antegrade blood cardioplegia, warm heart patients had a lower incidence of perioperative myocardial infarction and fewer patients required the intra-aortic balloon pump after surgery. Although mortality was also lower in the normothermic group (0.9% versus 2.2% in the hypothermic group), this difference did not reach statistical significance. In 1994, Naylor in Toronto reported the results of a prospective clinical trial involving nearly 2000 CABG patients randomized to receive either normothermic or hypothermic cardioplegia. Although no difference in mortality or myocardial infarction was found between groups, patients in the normothermic group had a significantly lower incidence of postoperative low cardiac output syndrome. Similarly, Yau and colleagues in Toronto demonstrated improved early postoperative myocardial end-systolic elastance, preload recruitable stroke work, and postoperative early diastolic relaxation in patients receiving normothermic compared to hypothermic cardioplegia.
 
-## **Optimal cardioplegic temperature**
+</div></details>
 
-Normothermic cardioplegia offered the promise of resuscitating the ischemic heart while facilitating early postoperative recovery of myocardial metabolism and function. Unfortunately, inadequate distribution of cardioplegia and the necessity to interrupt the cardioplegic infusion during distal anastomoses resulted in substantial anaerobic metabolic activity and warm ischemic injury. To avoid these detrimental effects, Yau and colleagues compared the results of tepid (29 °C) blood cardioplegia to those of warm (37 °C) and cold (4 °C) blood cardioplegia (producing myocardial temperatures of 37 °C or 18 °C, respectively) in 72 patients undergoing isolated CABG. Myocardial oxygen consumption and anaerobic lactate release were greatest during warm, intermediate during tepid, and least during cold cardioplegic arrest. They also found that warm retrograde and tepid retrograde techniques resulted in greater lactic acid washout during reperfusion. Left ventricular stroke work indices were best after warm antegrade and tepid antegrade in comparison to cold antegrade cardioplegia. Thus, both warm and tepid techniques were beneficial. However, unlike warm cardioplegia, tepid antegrade cardioplegia offered additional protection during cardioplegic interruptions. Moreover, by preventing cold-related injury, myocardial functional recovery with tepid infusions was more rapid than with cold cardioplegia. Based on these studies, most surgeons have not attempted to cool the heart as much during cold blood cardioplegic arrest. Instead, warmer heart temperatures have been tolerated. Those surgeons who prefer warmer blood cardioplegia currently allow the heart temperatures to drift. These compromises may simultaneously optimize both cerebral and myocardial protection.
+<details class="med-details"><summary>
 
-# **CARDIOPLEGIC DELIVERY**
+### Optimal cardioplegic temperature</summary><div class="details-content">
 
-# **Antegrade cardioplegic delivery**
+Normothermic cardioplegia offered the promise of resuscitating the ischemic heart while facilitating early postoperative recovery of myocardial metabolism and function. Unfortunately, inadequate distribution of cardioplegia and the necessity to interrupt the cardioplegic infusion during distal anastomoses resulted in substantial anaerobic metabolic activity and warm ischemic injury. To avoid these detrimental effects, Yau and colleagues compared the results of tepid (29 °C) blood cardioplegia to those of warm (37 °C) and cold (4 °C) blood cardioplegia (producing myocardial temperatures of 37 °C or 18 °C, respectively) in 72 patients undergoing isolated CABG. Myocardial oxygen consumption and anaerobic lactate release were greatest during warm, intermediate during tepid, and least during cold cardioplegic arrest. They also found that warm retrograde and tepid retrograde techniques resulted in greater lactic acid washout during reperfusion. Left ventricular stroke work indices were best after warm antegrade and tepid antegrade in comparison to cold antegrade cardioplegia. Thus, both warm and tepid techniques were beneficial. However, unlike warm cardioplegia, tepid antegrade cardioplegia offered additional protection during cardioplegic interruptions. Moreover, by preventing cold-related injury, myocardial functional recovery with tepid infusions was more rapid than with cold cardioplegia. Based on these studies, most surgeons have not attempted to cool the heart as much during cold blood cardioplegic arrest. Instead, warmer heart temperatures have been tolerated. Those surgeons who prefer warmer blood cardioplegia currently allow the heart temperatures to drift. These compromises may simultaneously optimize both cerebral and myocardial protection.
 
-Standard cardioplegic delivery involves the administration of antegrade infusions into the aortic root at perfusion pressures of 70–100mmHg. Delivery is accomplished through a 12-gauge cardioplegia cannula positioned in the mid ascending aorta. The same cannula can be used for aortic venting between cardioplegic infusions. To achieve electromechanical arrest, initial doses of 500–1000mL are usually required (more if left ventricular hypertrophy is present). Thereafter, arrest is maintained by intermittent antegrade infusions into the aortic root as well as through each completed vein graft at the completion of each distal and/or proximal anastomosis. During valvular surgery, maintenance doses are generally administered every 15–20 minutes.
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## CARDIOPLEGIC DELIVERY</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Antegrade cardioplegic delivery</summary><div class="details-content">
+
+Standard cardioplegic delivery involves the administration of antegrade infusions into the aortic root at perfusion pressures of 70–100 mmHg. Delivery is accomplished through a 12-gauge cardioplegia cannula positioned in the mid ascending aorta. The same cannula can be used for aortic venting between cardioplegic infusions. To achieve electromechanical arrest, initial doses of 500–1000 mL are usually required (more if left ventricular hypertrophy is present). Thereafter, arrest is maintained by intermittent antegrade infusions into the aortic root as well as through each completed vein graft at the completion of each distal and/or proximal anastomosis. During valvular surgery, maintenance doses are generally administered every 15–20 minutes.
 
 The concern with antegrade cardioplegia, however, is the possibility of hypoperfusion of distal vascular beds due to severe proximal obstructions of the coronary arteries (when vein grafts have yet to be completed or when internal mammary arterial grafts are anastomosed to the left anterior descending artery last). Moreover, antegrade cardioplegia may be detrimental in reoperative coronary bypass surgery because of the risk of saphenous vein graft embolization when cardioplegia is delivered via the aortic root. Additional limitations may exist during valvular operations. In patients with significant aortic regurgitation, antegrade cardioplegic delivery via the aortic root may be ineffective, leading to ventricular distention. In these patients, the aorta must be opened soon after cross-clamp application to enable direct cardioplegic administration via the coronary ostia. Subsequent ostial infusions, however, may obscure the operative field and be cumbersome during valve implantation.
 
-# **Retrograde coronary sinus cardioplegia**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Retrograde coronary sinus cardioplegia</summary><div class="details-content">
 
 Retrograde cardioplegic delivery via the coronary sinus was first introduced in the early 1980s. Experimental studies demonstrated the feasibility of this approach, which has since been widely adopted, especially for patients undergoing valve replacement or reoperative CABG surgery. In aortic valve surgery, retrograde cardioplegia may obviate the need for antegrade cardioplegic delivery via the coronary ostia. In mitral valve surgery, retrograde cardioplegia is not impeded by mitral retraction, as is often the case with antegrade cardioplegic delivery. For reoperative CABG surgery, retrograde cardioplegia is believed to be beneficial because embolization from old vein grafts may be prevented.
 
-For effective retrograde coronary sinus cardioplegia, a catheter is introduced through a right atrial pursestring and directed into the coronary sinus. Catheter position is confirmed by palpation and by direct measurement of coronary sinus pressures. Maintenance of acceptable perfusion pressures (40mmHg or less) is achieved with a soft self-inflating occlusive balloon designed to maintain adequate myocardial perfusion while preventing perivascular hemorrhage, edema or coronary sinus rupture. If the right atrium is opened and the coronary sinus directly cannulated, placement of a pursestring suture at the base of the coronary sinus prevents catheter dislodgement and minimizes reflux into the right atrium.
+For effective retrograde coronary sinus cardioplegia, a catheter is introduced through a right atrial pursestring and directed into the coronary sinus. Catheter position is confirmed by palpation and by direct measurement of coronary sinus pressures. Maintenance of acceptable perfusion pressures (40 mmHg or less) is achieved with a soft self-inflating occlusive balloon designed to maintain adequate myocardial perfusion while preventing perivascular hemorrhage, edema or coronary sinus rupture. If the right atrium is opened and the coronary sinus directly cannulated, placement of a pursestring suture at the base of the coronary sinus prevents catheter dislodgement and minimizes reflux into the right atrium.
 
-# **Combined antegrade and retrograde cardioplegia**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Combined antegrade and retrograde cardioplegia</summary><div class="details-content">
 
 Although delivery of antegrade cardioplegia may be limited by native coronary stenoses, distribution of retrograde cardioplegia may be unreliable to the right ventricle and inhomogeneous to the left ventricle. To overcome such inherent limitations, a combined antegrade and retrograde approach has been demonstrated to be effective in a number of randomized clinical trials. Another approach is to combine antegrade and retrograde cardioplegic delivery. Retrograde cardioplegia can be administered continuously throughout the cross-clamp period or stopped when necessary to facilitate visualization. At the completion of each proximal anastomosis, antegrade cardioplegia can be given into the native coronary circulation as well as all completed vein grafts. The disadvantage of this approach is the need to de-air the aortic root before each antegrade bolus, an added step that can be time-consuming and potentially hazardous if air is incompletely removed from the aorta.
 
-Another technique is to combine continuous retrograde cardioplegia with infusions down each completed vein graft. Determination of the adequacy of cardioplegic delivery can be accomplished with contrast transesophageal echocardiograpy. Real-time assessment and quantification of myocardial perfusion permits the surgeon to modify the technique to ensure homogeneous cardioplegic distribution. In one study with this imaging technique, antegrade cardioplegic delivery provided more homogeneous perfusion compared to retrograde delivery at similar flow rates. Right ventricular perfusion was poor regardless of the direction of cardioplegic administration. In this study, simultaneous delivery provided the most consistent results and offered the best perfusion of the anterior left ventricle and right ventricle in comparison to antegrade or retrograde routes alone.
+Another technique is to combine continuous retrograde cardioplegia with infusions down each completed vein graft. Determination of the adequacy of cardioplegic delivery can be accomplished with contrast transesophageal echocardiography. Real-time assessment and quantification of myocardial perfusion permits the surgeon to modify the technique to ensure homogeneous cardioplegic distribution. In one study with this imaging technique, antegrade cardioplegic delivery provided more homogeneous perfusion compared to retrograde delivery at similar flow rates. Right ventricular perfusion was poor regardless of the direction of cardioplegic administration. In this study, simultaneous delivery provided the most consistent results and offered the best perfusion of the anterior left ventricle and right ventricle in comparison to antegrade or retrograde routes alone.
 
-# **Technical aspects of cardioplegia administration**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Technical aspects of cardioplegia administration</summary><div class="details-content">
 
 Following aortic and venous cannulation, a simple 4-0 polypropylene pursestring suture is placed either at the midlevel of the right atrium (2–3 cm lateral to the atrioventricular groove) or at the base of the right atrial appendage to anchor the retrograde cardioplegia cannula. Another 4-0 polypropylene mattress or figure-eight suture is placed on the anterior aspect of the mid ascending aorta to secure the antegrade cardioplegia cannula. The typical antegrade cannula is a 12-gauge device with a two-limbed connector enabling both cardioplegic delivery and aortic root venting. The aortic root vent provides for effective decompression of the left heart during CABG procedures with either antegrade or retrograde infusions. During valve procedures, either the LA or the LV is usually vented directly.
 
-After insertion of the antegrade cannula and preferably prior to initiation of cardiopulmonary bypass, the retrograde cardioplegia cannula can be inserted through the atrial pursestring. The catheter is advanced carefully into the coronary sinus orifice with the position of the cannula tip verified by digital palpation behind the heart. Elevating the heart slightly anteriorly (with the inferior vena cava fixed in place by the previously positioned venous cannula) can facilitate this catheter-positioning maneuver. Once the catheter is positioned appropriately, irrigation of the pressure lumen expands the self-inflating balloon near the tip of the catheter. The central catheter lumen is then aspirated, flushed through a tubing extension which is connected to a pressure transducer, and zeroed in preparation for subsequent use. If the cannula is placed too deeply into the coronary sinus, the balloon may occlude the orifice of the posterior interventricular vein and lead to poor regional perfusion. When the catheter is properly deployed, coronary sinus pressures typically range between 25 cm and 35 cm H2O. Care must be taken when displacing the heart, particularly when accessing the lateral LV for grafting, not to dislodge the coronary sinus cannula. Continuous monitoring of coronary sinus pressures and attention from the perfusionist are required to ensure reliable retrograde cardioplegic delivery.
+After insertion of the antegrade cannula and preferably prior to initiation of cardiopulmonary bypass, the retrograde cardioplegia cannula can be inserted through the atrial pursestring. The catheter is advanced carefully into the coronary sinus orifice with the position of the cannula tip verified by digital palpation behind the heart. Elevating the heart slightly anteriorly (with the inferior vena cava fixed in place by the previously positioned venous cannula) can facilitate this catheter-positioning maneuver. Once the catheter is positioned appropriately, irrigation of the pressure lumen expands the self-inflating balloon near the tip of the catheter. The central catheter lumen is then aspirated, flushed through a tubing extension which is connected to a pressure transducer, and zeroed in preparation for subsequent use. If the cannula is placed too deeply into the coronary sinus, the balloon may occlude the orifice of the posterior interventricular vein and lead to poor regional perfusion. When the catheter is properly deployed, coronary sinus pressures typically range between 25 cm and 35 cm H₂O. Care must be taken when displacing the heart, particularly when accessing the lateral LV for grafting, not to dislodge the coronary sinus cannula. Continuous monitoring of coronary sinus pressures and attention from the perfusionist are required to ensure reliable retrograde cardioplegic delivery.
 
 When the aorta is opened for aortic valve or root procedures, cardioplegia may be delivered via flexible cannulae, ranging in size from 4Fr to 7Fr, directly into the coronary ostia. Frequently this is given intermittently, which requires attention from the surgeon but which avoids prolonged cannulation of the coronaries. Prolonged cannulation has been associated with a very low incidence of coronary injury, usually presenting several months later with a new proximal coronary artery stenosis just at or beyond where the tip of the cannula would have been. Nonetheless, for complex and lengthy operations, and particularly aortic root operations where coronary buttons are excised and mobilized, cannulae can be placed into the coronary ostia, snared or tied in with a 5-0 polypropylene suture, and left in place to facilitate continuous low-flow-rate antegrade cardioplegia. This permits excellent myocardial protection, requires no further attention from the surgeon, and keeps cardioplegic effluent out of the operative field.
 
@@ -86,66 +194,94 @@ Alternatively, many surgeons prefer to use retrograde cardioplegia for aortic va
 
 During CABG, particularly in patients with ongoing ischemia, vein grafts may be connected to a cardioplegic perfusion system after completion of the distal anastomoses, facilitating rapid antegrade reperfusion. While the optimal cardioplegic flow rate to reperfuse an acute infarction is not known, low pressures and flow rates may limit the no-reflow phenomenon.
 
-# **ADJUNCTIVE STRATEGIES FOR MYOCARDIAL PROTECTION**
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## ADJUNCTIVE STRATEGIES FOR MYOCARDIAL PROTECTION</summary><div class="details-content">
 
 Early methods aimed at minimizing the risks associated with coronary bypass surgery primarily involved the manipulation of the conditions of ischemia and reperfusion. Parameters such as cardioplegic composition, temperature, flow direction, and flow rate have been extensively evaluated resulting in near-optimal conditions for current myocardial protection. Not surprisingly, healthy patients presenting for elective coronary bypass surgery face a very low risk of perioperative cardiac morbidity and mortality. Despite such advances, however, conventional cardioplegic techniques may be insufficient in high-risk patients undergoing cardiac surgery. Improvements in the management of such patients may require pharmacologic manipulation as well as the application of cardioplegic additives to further improve cardiac protection.
 
-## **Myocardial preconditioning**
+<details class="med-details"><summary>
+
+### Myocardial preconditioning</summary><div class="details-content">
 
 **Ischemic preconditioning** describes the phenomenon whereby brief episodes of myocardial ischemia afford protection against the adverse effects of a subsequent, more prolonged episode of ischemia. Ischemic preconditioning is the most powerful endogenously mediated form of myocardial protection. Preconditioning can be induced prior to coronary bypass surgery by intermittently cross-clamping the aorta. However, this approach has not been shown to be beneficial and may be dangerous.
 
 **Remote ischemic conditioning** (RIC) has been demonstrated to induce the cardioprotective effects of preconditioning by producing brief periods of ischemia of the arm or leg before cardiac surgery. The discovery that the RIC stimulus could be induced non-invasively with a standard blood pressure cuff placed on the upper arm or leg has permitted the clinical application of this approach. Importantly, the timing of the RIC stimulus can accommodate most clinical settings of acute ischemia and reperfusion injury, as it has been reported to protect the heart whether applied prior to (termed remote ischemic preconditioning), after the onset of ischemia (termed remote ischemic perconditioning), or even at the time of reperfusion (termed remote ischemic postconditioning). Commercial devices are now available to produce RIC automatically before cardiac surgery. The mechanisms responsible for the benefits of RIC have not been identified. A blood-borne factor conveying the cardioprotective signal from the site of the RIC to the organ protected has been supported by two observations: (1) coronary effluent from the ischemic conditioned heart or blood from a conditioned animal was shown to protect a native recipient heart from ischemic and reperfusion injury, suggesting the transfer of protective humoral factors; and (2) a period of reperfusion of the remote conditioned organ was required for protection suggesting that protective stimulus required the washout of protective blood-borne humoral factors generated in the conditioned site and transported through the circulation to the organ protected. Studies have also demonstrated that RIC was able to recruit endogenous endothelial progenitor cells as well as mesenchymal and hematopoietic stem cells to the infarcted myocardium resulting in a reduction in infarct size, increased angiogenesis and improved cardiac function in animal models. Future studies will be required to identify the mechanisms responsible for the beneficial effects of RIC in humans.
 
-An early clinical trial demonstrated that RIC (three 5min inflations and deflations of a cuff placed on the upper arm to 200mmHg) administered prior to cardiac surgery reduced perioperative myocardial injury (43% less troponin T release) in adults undergoing elective CABG surgery. Subsequent studies reported mixed results and large-scale randomized trials will be required to establish the benefits of RIC.
+An early clinical trial demonstrated that RIC (three 5 min inflations and deflations of a cuff placed on the upper arm to 200 mmHg) administered prior to cardiac surgery reduced perioperative myocardial injury (43% less troponin T release) in adults undergoing elective CABG surgery. Subsequent studies reported mixed results and large-scale randomized trials will be required to establish the benefits of RIC.
 
-Several **pharmacological agents** have been shown to
+Several **pharmacological agents** have been shown to mimic the beneficial effects of preconditioning without the need for an ischemic stimulus. Such agents include adenosine, adrenergic agonists, bradykinin, amiloride, and opioids. Unfortunately, many of these agents are either toxic or produce unwanted side effects.
 
-mimic the beneficial effects of preconditioning without the need for an ischemic stimulus. Such agents include adenosine, adrenergic agonists, bradykinin, amiloride, and opioids. Unfortunately, many of these agents are either toxic or produce unwanted side effects.
+**Adenosine**, believed to be an intermediary in the ischemic preconditioning phenomenon, may afford significant myocardial protection during ischemia and reperfusion by multiple mechanisms. Adenosine reduces experimental myocardial infarct size by activating cardiac myocyte A1 and A3 receptors, improving postischemic myocardial energetics and reducing platelet and neutrophil adherence to the coronary endothelium. In clinical studies, adenosine added to blood cardioplegia during CABG in a dose which did not lower vascular resistance increased postoperative cardiac ATP concentrations, improved cardiac function and reduced creatine kinase MB isoenzyme release in comparison to randomized controls. A large multi-institutional randomized, double-blinded, placebo-controlled trial reported that adenosine cardioplegia reduced the incidence of perioperative myocardial infarction and the requirement for intra-aortic balloon pump assistance. However, adenosine cardioplegia did not reduce the need for inotropic agents, the prespecified primary endpoint for the trial. Adenosine cardioplegia may improve the recovery from cardiac ischemia, but the appropriate dose and delivery circumstances have not been determined.
 
-**Adenosine**, believed to be an intermediary in the ischemic preconditioning phenomenon, may afford significant myocardial protection during ischemia and reperfusion by multiple mechanisms. Adenosine reduces experimental myocardial infarct size by activating cardiac myocyte A1 and A3 receptors, improving postischemic myocardial energetics and reducing platelet and neutrophil adherence to the coronary endothelium. In clinical studies, adenosine added to blood cardioplegia during CABG in a dose which did not lower vascular resistance increased postoperative cardiac ATP concentrations, improved cardiac function and reduced creatine kinase MB isoenzyme release in comparison to randomized controls. A large multi-institutional randomized, doubleblinded, placebo-controlled trial reported that adenosine cardioplegia reduced the incidence of perioperative myocardial infarction and the requirement for intra-aortic balloon pump assistance. However, adenosine cardioplegia did not reduce the need for inotropic agents, the prespecified primary endpoint for the trial. Adenosine cardioplegia may improve the recovery from cardiac ischemia, but the appropriate dose and delivery circumstances have not been determined.
-
-**Adenosine-lidocaine** and **adenosine-procaine** cardioplegia have been suggested to improve myocardial protection in small single-center clinical trials. Polarized arrest has been proposed to reduce Na+ and Ca2+ loading, vasoconstriction, endothelial dysfunction, reperfusion arrhythmias and contractile stunning. However, large controlled trials will be required to determine the benefit of these approaches.
+**Adenosine-lidocaine** and **adenosine-procaine** cardioplegia have been suggested to improve myocardial protection in small single-center clinical trials. Polarized arrest has been proposed to reduce Na⁺ and Ca²⁺ loading, vasoconstriction, endothelial dysfunction, reperfusion arrhythmias and contractile stunning. However, large controlled trials will be required to determine the benefit of these approaches.
 
 **Acadesine** is an adenosine-regulating agent which protects the heart by increasing adenosine concentrations only in ischemic tissues. The RED-CABG trial was a multinational, randomized, double-blind, placebo-controlled investigation in 3080 high-risk CABG patients which evaluated the cardioprotective effect of acadesine. This agent did not reduce mortality, non-fatal stroke or severe left ventricular dysfunction.
 
-**Preventing calcium overload** may reduce ischemic and reperfusion injury. A purinergic (P2) receptor antagonist was evaluated in the MEND-CABG II trial, which did not reduce mortality or non-fatal MI (a creatine kinase MB isoenzyme fraction of at least 100ng/mL or new Q waves) in 3023 highrisk patients undergoing CABG. Although this approach to prevent calcium accumulation during reperfusion showed great promise in preclinical studies, the appropriate dose and delivery of the agent to protect the heart during cardiac surgery has not been established.
+**Preventing calcium overload** may reduce ischemic and reperfusion injury. A purinergic (P2) receptor antagonist was evaluated in the MEND-CABG II trial, which did not reduce mortality or non-fatal MI (a creatine kinase MB isoenzyme fraction of at least 100 ng/mL or new Q waves) in 3023 high-risk patients undergoing CABG. Although this approach to prevent calcium accumulation during reperfusion showed great promise in preclinical studies, the appropriate dose and delivery of the agent to protect the heart during cardiac surgery has not been established.
 
-#### **Insulin cardioplegia**
+</div></details>
 
-Aortic cross-clamping induces anaerobic metabolism, and persistent lactate release during reperfusion indicates a delay in the recovery of aerobic metabolism which is predictive of postoperative ventricular dysfunction. By stimulating the rate-limiting enzyme pyruvate dehydrogenase, **insulin**  has been demonstrated in experimental studies to facilitate the conversion from anaerobic to aerobic metabolism early during reperfusion enabling rapid recovery of myocardial ATP synthesis. A placebo-controlled randomized trial of insulin (10 IU/L) cardioplegia in 56 elective CABG patients demonstrated rapid conversion to aerobic cardiac lactate extraction in the insulin group compared to persistent lactate release in the placebo group. Two hours postoperatively, left ventricular stroke work indices were higher in the insulin cardioplegia patients at similar filling pressures. In a placebo-controlled randomized trial in 1126 patients undergoing urgent CABG for unstable angina, the primary composite outcome of low output syndrome and/or enzymatic myocardial infarction was not different between groups (insulin 30%, placebo 26%, *p* = 0.2). Although insulin to control glucose levels has become routine, the appropriate dose and method of delivery to protect the heart has not been established.
+<details class="med-details"><summary>
 
-## **Cariporide**
+### Insulin cardioplegia</summary><div class="details-content">
+
+Aortic cross-clamping induces anaerobic metabolism, and persistent lactate release during reperfusion indicates a delay in the recovery of aerobic metabolism which is predictive of postoperative ventricular dysfunction. By stimulating the rate-limiting enzyme pyruvate dehydrogenase, **insulin** has been demonstrated in experimental studies to facilitate the conversion from anaerobic to aerobic metabolism early during reperfusion enabling rapid recovery of myocardial ATP synthesis. A placebo-controlled randomized trial of insulin (10 IU/L) cardioplegia in 56 elective CABG patients demonstrated rapid conversion to aerobic cardiac lactate extraction in the insulin group compared to persistent lactate release in the placebo group. Two hours postoperatively, left ventricular stroke work indices were higher in the insulin cardioplegia patients at similar filling pressures. In a placebo-controlled randomized trial in 1126 patients undergoing urgent CABG for unstable angina, the primary composite outcome of low output syndrome and/or enzymatic myocardial infarction was not different between groups (insulin 30%, placebo 26%, *p* = 0.2). Although insulin to control glucose levels has become routine, the appropriate dose and method of delivery to protect the heart has not been established.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Cariporide</summary><div class="details-content">
 
 **Cariporide** inhibits the sodium–hydrogen exchanger (NHE-1 isoform) which limits intracellular Na accumulation, prevents calcium overload following ischemic injury, reduces infarct size and accelerates the recovery of ventricular function. The Expedition trial was a multinational, double-blind, placebo-controlled randomized investigation of cariporide during CABG in 5761 high-risk patients. The study was terminated early by the Data and Safety Monitoring Board because of a marked reduction in the incidence of MI. At 5 days, the incidence of MI declined from 19% in the placebo group to 14% in the treatment group (*p* = 0.000005). However, more focal persistent cerebrovascular events were observed with cariporide (4.5%) than with placebo (2.5%, *p* = 0.02) and were associated with an increase in mortality. Cariporide reduced ischemic injury but increased the risk of stroke. The reasons were not determined and sodium–hydrogen exchange inhibitors are unlikely to be employed clinically for myocardial protection.
 
-#### **Reducing Inflammation**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Reducing Inflammation</summary><div class="details-content">
 
 Complement activation during cardiac surgery (via complement components C3 and C5) contributes to perioperative inflammation, vasoconstriction, vascular leakage, leukocyte activation, and cardiac injury. The inhibition of complement activation can modulate inflammation and the resultant tissue damage. **Pexelizumab** is an anti-C5 antibody fragment that effectively blocks C5, thus blocking the formation of C5a and C5b-9 (membrane attack complex). The PRIMO-CABG I trial demonstrated that the use of pexelizumab yielded an 18% risk reduction in death or myocardial infarction (*p* = 0.07) compared with placebo in patients undergoing CABG surgery. Subgroup analysis showed that patients with two or more risk factors derived the greatest benefit. The PRIMO-CABG II trial randomized 4254 patients with two or more risk factors undergoing CABG with or without valve replacement. The investigators found no significant difference between the groups for the incidence of the combined endpoint of death and MI (15% vs 16%, respectively; *p* = 0.2) or for any of the individual endpoints.
 
-# **ALTERNATIVE METHODS OF MYOCARDIAL PROTECTION**
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## ALTERNATIVE METHODS OF MYOCARDIAL PROTECTION</summary><div class="details-content">
 
 The evolution of myocardial protection over the past three decades has focused primarily on the optimization of cardioplegia-induced electromechanical arrest. Despite remarkable advances, however, alternative, more traditional techniques are still used by some surgeons and have merit under circumstances where cardioplegic arrest may not be feasible.
 
-#### **Intermittent ischemic arrest**
+<details class="med-details"><summary>
+
+### Intermittent ischemic arrest</summary><div class="details-content">
 
 Cardiac surgery can be accomplished with intermittent cross-clamping of the aorta for short periods without the use of cardioplegia. Although a relatively dry operative field may result, complete mechanical arrest is seldom achieved. During coronary bypass surgery, the cross-clamp is applied for construction of distal anastomoses. Then the cross-clamp is removed and reperfusion is undertaken for a period equal to that of the cross-clamp time. This practice facilitates repayment of the oxygen debt. Systemic hypothermia may be employed as an adjunctive measure to further reduce myocardial oxygen demands during the periods of ischemia. Proximal anastomoses are usually constructed during periods of reperfusion with the help of a partial occluding clamp applied to the anterior ascending aorta.
 
-Although this technique may also afford ischemic preconditioning by virtue of the multiple brief ischemic episodes, the technique has some disadvantages. Despite the use of systemic hypothermia, ventricular fibrillation usually ensues during cross-clamping, resulting in increased myocardial oxygen demands and exacerbation of ischemia in regions distal to severe coronary obstructions. Moreover, exposure of the heart to repeated episodes of ischemia-reperfusion injury may be increase ischemic injury. The requirement for repeated aortic cross-clamping may also be hazardous in patients with diffuse atherosclerotic disease of the aorta, due to the risk of cerebral atheroemboli. Nonetheless, despite such potential drawbacks, some surgeons report excellent results even in high-risk patients comparable to those observed with cardioplegic arrest.
+Although this technique may also afford ischemic preconditioning by virtue of the multiple brief ischemic episodes, the technique has some disadvantages. Despite the use of systemic hypothermia, ventricular fibrillation usually ensues during cross-clamping, resulting in increased myocardial oxygen demands and exacerbation of ischemia in regions distal to severe coronary obstructions. Moreover, exposure of the heart to repeated episodes of ischemia-reperfusion injury may increase ischemic injury. The requirement for repeated aortic cross-clamping may also be hazardous in patients with diffuse atherosclerotic disease of the aorta, due to the risk of cerebral atheroemboli. Nonetheless, despite such potential drawbacks, some surgeons report excellent results even in high-risk patients comparable to those observed with cardioplegic arrest.
 
-# **Hypothermic fibrillatory arrest**
+</div></details>
 
-Experimental evidence suggests that subendocardial ischemia can be minimized if the hypothermic, vented, spontaneously fibrillating heart is perfused at pressures of 80–100mmHg. In these circumstances, coronary bypass surgery can be performed with local vessel control thus avoiding the potential complications of cardiac arrest. A study by Akins and colleagues reported the results of hypothermic fibrillatory arrest in 3085 patients who underwent cardiac operations between 1980 and 1993. The overall mortality in this series was 1.6%, with a 2.5% incidence of perioperative myocardial infarction, and a requirement for intra-aortic balloon pump support of 2.5%. Of note, this series also included 371 patients (12%) who underwent emergent surgery for complications of cardiac catheterization. Hypothermic fibrillatory arrest provides a viable option for patients at high risk of aortic cross-clamping due to severe atherosclerotic disease. Distal anastomoses can be performed during fibrillatory arrest, whereas proximal anastomoses can be constructed to pedicled mammary arterial grafts, the innominate artery, the aortic arch, or the subclavian artery.
+<details class="med-details"><summary>
 
-#### **CONCLUSIONS**
+### Hypothermic fibrillatory arrest</summary><div class="details-content">
+
+Experimental evidence suggests that subendocardial ischemia can be minimized if the hypothermic, vented, spontaneously fibrillating heart is perfused at pressures of 80–100 mmHg. In these circumstances, coronary bypass surgery can be performed with local vessel control thus avoiding the potential complications of cardiac arrest. A study by Akins and colleagues reported the results of hypothermic fibrillatory arrest in 3085 patients who underwent cardiac operations between 1980 and 1993. The overall mortality in this series was 1.6%, with a 2.5% incidence of perioperative myocardial infarction, and a requirement for intra-aortic balloon pump support of 2.5%. Of note, this series also included 371 patients (12%) who underwent emergent surgery for complications of cardiac catheterization. Hypothermic fibrillatory arrest provides a viable option for patients at high risk of aortic cross-clamping due to severe atherosclerotic disease. Distal anastomoses can be performed during fibrillatory arrest, whereas proximal anastomoses can be constructed to pedicled mammary arterial grafts, the innominate artery, the aortic arch, or the subclavian artery.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## CONCLUSIONS</summary><div class="details-content">
 
 Current techniques of intraoperative myocardial protection are constantly evolving. To date, changes in cardioplegic composition, temperature and delivery have been successful in optimizing intraoperative myocardial protection, such that stable patients presenting for elective cardiac surgery face a remarkably low risk of perioperative morbidity or mortality. Although such patients likely have little to gain from additional intraoperative protective measures, future improvements may be crucial in reducing the morbidity and mortality in high-risk patients presenting with poor ventricular function and/or persistent preoperative ischemia. A variety of cardioplegic additives have been tested in large number of patients undergoing cardiac surgery. Unfortunately, the ideal approach to resuscitate the ischemic heart and restore myocardial metabolism and ventricular function has not yet been determined. However, investigations continue with the hope that soon the heart can be returned to normal during cardioplegic arrest.
 
-# **FURTHER READING**
-
-#### **Development of cardioplegia**
-
-Cohen G, Borger MA, Weisel RD, Rao V. Intraoperative myocardial protection: current trends and future perspectives. *Ann Thorac Surg.* 1999; 68: 1995–2001.
-
-Fremes SE, Christakis GT, Weisel RD, et al. A clinical trial of blood and crystalloid cardioplegia. *J Thorac Cardiovasc Surg.* 1984; 88: 726–41.
-
-Guru V, Omura J, Alghamdi AA, et al. Is blood superior to crystalloid cardioplegia? A meta-analysis of randomized clinical trials. *Circulation.* 2006; 114(Suppl I): 331–8.
+</div></details>
