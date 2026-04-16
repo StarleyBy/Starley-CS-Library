@@ -8,6 +8,12 @@
     "authors": [
       "Frank W. Sellke, MD, Marc Ruel, MD, MPH"
     ],
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
     "chapters": [
       {
         "file": "chapter-01.md",
