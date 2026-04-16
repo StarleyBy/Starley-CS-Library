@@ -129,7 +129,7 @@ In particularly high-risk cases with elevated concern for cardiovascular collaps
 
 Although employment of minimally invasive operations is constantly increasing, most cardiac operations are still performed via median sternotomy ([Fig. 2.2a](#fig-2-2a)). Adequate access is feasible through a skin incision starting 3 cm below the sternal notch and ending above the inferior tip of the xiphoid process. For a standard sternotomy, the sternum is completely divided in the midline with a reciprocating sternal saw.
 
-<span id="fig-2-2a"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-2-2a"></span>![](_page_2_Picture_12.jpeg)
 
 **FIGURE 2.2a**
 
@@ -183,17 +183,17 @@ Bicaval venous cannulation is typically preferred for right-sided intracardiac c
 
 Once an adequate ACT is reached, the ascending aorta is cannulated for bypass. The surgeon should ensure that the systolic blood pressure is below 100 mmHg prior to proceeding. A number 11 blade is used to create a transverse aortotomy of adequate size to accommodate the cannula at the center of the pursestring sutures ([Fig. 2.5a](#fig-2-5a)). The incised adventitia is held over the aortotomy with forceps to prevent excess blood loss while the surgeon inserts the aortic cannula, directed initially perpendicular to the aorta and then towards the descending thoracic aorta. The pursestrings are tightened and secured to the cannula, which should be anchored to the surgical field with a stay suture. TEE evaluation confirms the intraluminal position of the cannula. The aortic cannula is carefully de-aired and connected to the bypass circuit on the field. After connection, the arterial pressure and pulse in the circuit are checked by the perfusionist. Poor pulse amplitude or high pressure in the arterial cannula raises suspicion for malposition of the aortic cannula including placement against the aortic wall, into an arch vessel, or iatrogenic aortic dissection.
 
-<span id="fig-2-5a"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-2-5a"></span>![](_page_5_Picture_5.jpeg)
 
 **FIGURE 2.5a**
 
 Alternatively, the aorta can be accessed with a large bore needle followed by a flexible J-tipped wire advanced into the descending thoracic aorta ([Fig. 2.5b](#fig-2-5b)). After TEE visualization of the wire in the descending aorta, the needle is removed and serial dilators are advanced over the wire into the aorta via Seldinger technique, followed by the aortic cannula. This technique may be used in the setting of Stanford type A aortic dissection to allow central access with reliable cannulation of the true lumen, as verified by TEE visualization of the wire within the true lumen of the descending thoracic aorta ([Fig. 2.5c](#fig-2-5c)).
 
-<span id="fig-2-5b"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-2-5b"></span>![](_page_5_Picture_6.jpeg)
 
 **FIGURE 2.5b**
 
-<span id="fig-2-5c"></span>![](_page_6_Picture_8.jpeg)
+<span id="fig-2-5c"></span>![](_page_6_Picture_2.jpeg)
 
 **FIGURE 2.5c**
 
@@ -205,21 +205,21 @@ Alternatively, the aorta can be accessed with a large bore needle followed by a 
 
 Dual-stage cannulation of the right atrium is performed via amputation of the tip of the appendage and division of atrial trabeculations with scissors. The cannula is placed into the atrium, directed inferiorly and posteriorly towards the IVC, and secured ([Fig. 2.6a](#fig-2-6a) and [b](#fig-2-6b)). TEE visualization ensures that the cannula has not advanced into the hepatic veins, which will hinder venous drainage. The venous cannula is de-aired and connected to the bypass circuit.
 
-<span id="fig-2-6a"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-2-6a"></span>![](_page_6_Picture_6.jpeg)
 
 **FIGURE 2.6a**
 
-<span id="fig-2-6b"></span>![](_page_7_Picture_4.jpeg)
+<span id="fig-2-6b"></span>![](_page_6_Picture_7.jpeg)
 
 **FIGURE 2.6b**
 
 Right-angled or straight cannulae are placed separately in the SVC and IVC positions ([Fig. 2.7a](#fig-2-7a)) and connected via a Y-connector to the venous line. Right-sided operations are aided by the placement of caval snares to minimize blood return into the operative field and air entrainment into the bypass circuit ([Fig. 2.7b](#fig-2-7b)). The SVC is circumferentially mobilized by dividing the pericardial reflection superiorly and laterally. The medial aspect is mobilized, taking care to avoid damage to the underlying right pulmonary artery. The IVC is easily mobilized by dividing the thin pericardial reflection between the right inferior pulmonary vein and the IVC.
 
-<span id="fig-2-7a"></span>![](_page_8_Picture_2.jpeg)
+<span id="fig-2-7a"></span>![](_page_7_Picture_2.jpeg)
 
 **FIGURE 2.7a**
 
-<span id="fig-2-7b"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-2-7b"></span>![](_page_7_Picture_3.jpeg)
 
 **FIGURE 2.7b**
 
@@ -235,13 +235,13 @@ Right-angled or straight cannulae are placed separately in the SVC and IVC posit
 
 Systemic perfusion via the right axillary artery may be desirable for certain operations (e.g. aortic dissection or aortic arch replacement, porcelain aortas, some minimally invasive operations). A 4 cm incision is made parallel to and just below the lateral one-third of the right clavicle, and the pectoralis major fibers and clavipectoral fascia are divided longitudinally ([Fig. 2.8a](#fig-2-8a)). The axillary vein is encountered first, and may be retracted medially to expose the underlying artery. Proximal and distal vessel control is secured with vessel loops. A side-biting clamp or two straight clamps can alternatively be used to minimize this dissection. A bolus of 5000 units of heparin is administered prior to arteriotomy.
 
-<span id="fig-2-8a"></span>![](_page_9_Picture_2.jpeg)
+<span id="fig-2-8a"></span>![](_page_8_Picture_2.jpeg)
 
 **FIGURE 2.8a**
 
 Once proximal and distal control is obtained, a longitudinal arteriotomy is prepared for end-to-side anastomosis of an 8 mm Dacron graft with running 5-0 polypropylene suture ([Fig. 2.8b](#fig-2-8b)). This "chimney-graft" method is preferred to direct axillary cannulation due to the risk of vascular injury and/or malperfusion to the distal upper extremity with direct cannulation. The perfusion graft can then be de-aired and connected to the bypass pump by inserting an aortic cannula into the graft or attaching standard tubing connectors to the graft.
 
-<span id="fig-2-8b"></span>![](_page_9_Picture_5.jpeg)
+<span id="fig-2-8b"></span>![](_page_8_Picture_5.jpeg)
 
 **FIGURE 2.8b**
 
@@ -253,13 +253,13 @@ Once proximal and distal control is obtained, a longitudinal arteriotomy is prep
 
 Peripheral cannulation may be preferred to enable minimally invasive operations via right or left anterolateral thoracotomy, thoracoscopic, or robotic approaches. Extrathoracic placement of arterial and venous lines maximizes operative exposure while maintaining a small incision. The femoral vessels are accessed via a 2 cm oblique incision midway between the inguinal ligament and inguinal crease to ensure exposure of the common femoral artery proximal to its bifurcation ([Fig. 2.9a](#fig-2-9a)). After oblique division of the subcutaneous tissues, the femoral sheath is identified and opened longitudinally, exposing the femoral vessels.
 
-<span id="fig-2-9a"></span>![](_page_9_Picture_9.jpeg)
+<span id="fig-2-9a"></span>![](_page_8_Picture_8.jpeg)
 
 **FIGURE 2.9a**
 
 The artery is circumferentially dissected and a single, 4-0 polypropylene pursestring suture is placed midway between the umbilical ligament and the takeoff of the superficial femoral artery (SFA) ([Fig. 2.9b](#fig-2-9b)) and secured with a tourniquet. The anterior aspect of the femoral vein can also be easily exposed for cannulation with this dissection. The femoral artery is cannulated peripherally via needle arteriotomy. A wire is advanced into the descending thoracic aorta in retrograde fashion and visualized with TEE. Serial dilation with Seldinger technique is performed and the tapered arterial cannula is advanced into the abdominal aorta.
 
-<span id="fig-2-9b"></span>![](_page_10_Picture_2.jpeg)
+<span id="fig-2-9b"></span>![](_page_9_Picture_4.jpeg)
 
 **FIGURE 2.9b**
 
@@ -267,7 +267,7 @@ Alternatively, percutaneous arterial puncture and serial dilation may be used in
 
 Peripheral venous cannulation via open exposure or percutaneous access is performed with Seldinger technique and TEE verification of cannula placement ([Fig. 2.9c](#fig-2-9c)). The femoral cannula is advanced into the right atrium enabling adequate drainage for CPB. Bicaval cannulation can be performed with extrathoracic cannulae for minimally invasive operations. The addition of a second cannula placed percutaneously in the right internal jugular vein produces excellent venous drainage. Venous suction may be used to obviate the need for caval snares.
 
-<span id="fig-2-9c"></span>![](_page_10_Picture_5.jpeg)
+<span id="fig-2-9c"></span>![](_page_9_Picture_5.jpeg)
 
 **FIGURE 2.9c**
 
@@ -285,13 +285,13 @@ Peripheral venous cannulation via open exposure or percutaneous access is perfor
 
 An antegrade cardioplegia cannulation site is selected proximal enough to the aortic cannula to allow for placement of an aortic cross-clamp placement. A pledgeted 4-0 polypropylene horizontal mattress suture is placed allowing for puncture with the cardioplegia needle-catheter ([Fig. 2.10a](#fig-2-10a)). The inner needle is withdrawn, allowing blood to flush and de-air the cannula, and the catheter is secured with a tourniquet. The aortic root catheter, which also serves as an aortic root vent for de-airing purposes, is then connected to the bypass circuit with a Y-connector to enable connection to both suction and cardioplegia lines from the pump. Delivery of antegrade cardioplegia allows for rapid induction of cardiac arrest and ensures perfusion of cardioplegia solution into both the right and left circulation. The surgeon must be aware of flow-limiting coronary stenoses, which may limit distal circulation of cardioplegia. The presence of aortic valve insufficiency raises the risk of left ventricular distention with antegrade cardioplegia administration. Additionally, procedures requiring aortotomy (aortic valve, aortic aneurysm repair) or significant cardiac retraction which may distort aortic root geometry (e.g. mitral valve) will require an alternative cardioplegia strategy for re-dosing, and either retrograde cardioplegia or direct ostial perfusion with handheld catheters should be considered to supplement myocardial protection.
 
-<span id="fig-2-10a"></span>![](_page_10_Picture_9.jpeg)
+<span id="fig-2-10a"></span>![](_page_10_Picture_2.jpeg)
 
 **FIGURE 2.10a**
 
 The use of an endoaortic occlusion balloon catheter obviates the need for transthoracic aortic cross-clamp (Chitwood clamp) placement during minimally invasive operations. The balloon catheter is advanced peripherally over a wire from the femoral arterial catheter side port access into the ascending aorta ([Fig. 2.10b](#fig-2-10b)). Inflation of the balloon distal to the sinotubular junction and proximal to the innominate artery enables occlusion of flow, permitting delivery of antegrade cardioplegia via the tip of the catheter proximal to the balloon. The catheter tip can also be used as a root vent when not administering cardioplegia. Proper positioning and appropriate inflation of the balloon are crucial. Positioning can be directed by TEE and/or fluoroscopy. Maintaining proper position throughout the procedure is aided by the use of bilateral radial arterial lines. If the left arterial line dampens or decreases compared to the right, the balloon is likely obstructing the origin of the innominate artery, potentially causing cerebral hypoperfusion. Ensuring there is no slack or redundancy in the length of the catheter after positioning will prevent the balloon from migrating too proximally during the case. A bolus of adenosine at the initiation of cardioplegia and the resultant asystole allows the cardioplegia to be instilled with limited cardiac output, stabilizing the balloon and ensuring adequate myocardial protection.
 
-<span id="fig-2-10b"></span>![](_page_11_Picture_2.jpeg)
+<span id="fig-2-10b"></span>![](_page_10_Picture_3.jpeg)
 
 **FIGURE 2.10b**
 
@@ -303,7 +303,7 @@ The use of an endoaortic occlusion balloon catheter obviates the need for transt
 
 Placement of a coronary sinus cannula enables administration of retrograde cardioplegia through the venous circulation ([Fig. 2.11](#fig-2-11)). A non-pledgeted mattress stitch is placed in the anterior and inferior aspect of the right atrium, which is incised with a number 11 blade. The balloon-tipped cannula is conformed to a slight bend by its inner stylet and guided through the atriotomy into the coronary sinus by directing the tip posteriorly and slightly medial to the IVC–RA junction. TEE visualization, direct palpation of the balloon within the coronary sinus, and the return of dark, highly deoxygenated blood verify proper cannula placement. The catheter can then be secured with a tourniquet, de-aired, and connected to the cardioplegia line and pressure-monitoring lines. A right ventricle tracing on the pressure monitoring line further confirms proper placement. While retrograde cardioplegia administration allows for intermittent delivery without disrupting operative workflow, the surgeon must remain cognizant that right ventricle myocardial protection is relatively reduced with retrograde delivery.
 
-<span id="fig-2-11"></span>![](_page_12_Picture_2.jpeg)
+<span id="fig-2-11"></span>![](_page_11_Picture_5.jpeg)
 
 **FIGURE 2.11**
 
@@ -317,7 +317,7 @@ Placement of a coronary sinus cannula enables administration of retrograde cardi
 
 Intraoperative venting of the left ventricle (LV) is utilized to facilitate surgical exposure, prevent LV distention, and reduce myocardial rewarming. Contributors of LV filling on bypass include venous return from the bronchial circulation, cardiac Thebesian veins, and blood not suctioned by venous cannulae and circulated through the lungs. Most commonly, a pursestring suture is placed in the right superior pulmonary vein, which is incised for placement of a semi-flexible cannula ([Fig. 2.12](#fig-2-12)). The cannula is advanced across the mitral valve into the LV and secured with a tourniquet. Placement of a pulmonary artery vent reduces circulation from the right heart, but does not address additional sources of LV filling. The use of ventricular apical vents has been largely abandoned due to the risk of myocardial injury or hemorrhage, but they can be used to emergently empty a distended ventricle.
 
-<span id="fig-2-12"></span>![](_page_12_Picture_6.jpeg)
+<span id="fig-2-12"></span>![](_page_11_Picture_6.jpeg)
 
 **FIGURE 2.12**
 
@@ -375,19 +375,19 @@ The profound systemic inflammatory response to CPB results from activation of bo
 
 Factor XII (Hageman factor), a critical activator of the contact pathway, is activated by the presence of the nonendothelial surface of the circuit and autocleaved into its active form, XIIa. Factor XIIa subsequently activates the intrinsic coagulation cascade and drives the conversion of high-molecular-weight kinogen (HK) to bradykinin and its subsequent prostacyclin-mediated vasodilatory response. Factor XIIa also activates kallikrein, leading to activation of neutrophils, fibrinolysis, and positive feedback upregulation of factor XII activation. The process is represented in [Fig. 2.14](#fig-2-14).
 
-<span id="fig-2-14"></span>![](_page_15_Figure_3.jpeg)
+<span id="fig-2-14"></span>![](_page_14_Figure_7.jpeg)
 
 **FIGURE 2.14**
 
 The complement system, illustrated in [Fig. 2.15](#fig-2-15), serves as a biologic adjuvant to antibody-mediated response to pathogens via inflammatory amplification and assembly of the cytotoxic membrane attack complex (MAC). Complement may be activated via antibody-dependent (classic) and independent pathways (alternative), ultimately resulting in activation of the C3 protease via cleavage into C3a and C3b components. Activation of the alternative pathway during CPB results from exposure to the foreign surface of the circuit, leading to C3 cleavage, plasma protein factor B activation and cleavage of C5 to C5a and C5b. These components drive the physiologic responses of the complement pathway: direct neutrophil activation by C5a and formation of the MAC, a cytotoxic transmembrane channel composed of C5b and C6, C7, C8, and C9 polymers. Clinically, these processes contribute to direct end-organ injury via MAC-mediated cell lysis as well as vasodilation and tissue edema mediated by activated complement proteins.
 
-<span id="fig-2-15"></span>![](_page_15_Figure_6.jpeg)
+<span id="fig-2-15"></span>![](_page_15_Figure_3.jpeg)
 
 **FIGURE 2.15**
 
 Complex interactions between the vascular endothelium and white blood cells govern many of the clinical sequelae following CPB ([Fig. 2.16](#fig-2-16)). Neutrophil activation by contact and complement systems results in both cell-mediated tissue injury and the release of toxic granules containing reactive oxygen species (ROS), proteases, and arachidonic acid metabolites. Monocyte activation following bypass results in excretion of pro- and anti-inflammatory cytokines including TNF-α. In response to activated plasma inflammatory pathways and cytokines, endothelial cells upregulate expression of selectins and integrins to promote neutrophil adhesion. Recruited neutrophils aggregate within microvasculature leading to occlusion and microischemic changes. Aggregation of activated platelets in complexes with fibrin and/or leukocytes creates intravascular microemboli that further contribute to end-organ damage. Neutrophils also facilitate late-phase tissue damage via transmigration across the endothelial layer into the interstitial space and release of toxic granules.
 
-<span id="fig-2-16"></span>![](_page_17_Figure_2.jpeg)
+<span id="fig-2-16"></span>![](_page_16_Figure_2.jpeg)
 
 **FIGURE 2.16**
 
