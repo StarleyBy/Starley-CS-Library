@@ -160,7 +160,7 @@ Extended or total arterial grafting requires accurate preoperative planning. Com
 
 Aortic calcification is also noted to predict whether it is appropriate to place proximals to the aorta, and any abnormality may be confirmed by intraoperative epiaortic scanning. In patients who have a severely diseased or calcified aorta, off-pump coronary bypass surgery using one or both *in situ* ITA grafts and an RA graft minimizes the risk of cerebral atheroembolism ([Fig. 7.1](#fig-7-1)). The grafting strategy will depend upon all of these assessments, although the preoperative plan formulated is subject to change on examination of the epicardial vessels and the conduits which have been prepared.
 
-<span id="fig-7-1"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-7-1"></span>![](_page_1_Picture_15.jpeg)
 
 **FIGURE 7.1**
 
@@ -196,17 +196,17 @@ The ITA arises from the first part of the subclavian artery in the root of the n
 
 The pericardiacophrenic artery is the first branch of the ITA and usually divides near the upper limit of the mobilization of the ITA. This branch lies immediately behind the lateral or inferior border of the subclavian vein, where it accompanies and supplies the phrenic nerve. Several other branches arise from the upper ITA to supply the manubrium, the sternothyroid muscle, and the mediastinum.
 
-<span id="fig-7-2a"></span>![](_page_3_Picture_5.jpeg)
+<span id="fig-7-2a"></span>![](_page_2_Picture_11.jpeg)
 
 **FIGURE 7.2a**
 
-<span id="fig-7-2b"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-7-2b"></span>![](_page_2_Picture_12.jpeg)
 
 **FIGURE 7.2b**
 
 In the anterior intercostal spaces, the perforating, sternal, and intercostal branches of the ITA form a rich anastomosis that supplies the sternum ([Fig. 7.3](#fig-7-3), modified from de Jesus RA, Acland RD. Anatomic study of the collateral blood supply of the sternum. *Ann Thorac Surg.* 1996; 59(1): 163–8). The ITA branches are connected with the posterior intercostal arteries and terminal branches of the superior, epigastric, and musculophrenic arteries. Branches should be divided near the ITA to preserve the collateral supply of the sternum and minimize the risk of sternal ischemia.
 
-<span id="fig-7-3"></span>![](_page_4_Picture_3.jpeg)
+<span id="fig-7-3"></span>![](_page_3_Picture_2.jpeg)
 
 **FIGURE 7.3**
 
@@ -218,37 +218,37 @@ In the anterior intercostal spaces, the perforating, sternal, and intercostal br
 
 The ITA can be harvested using a pedicled, semiskeletonized or skeletonized technique. The hemisternum is elevated and the pleura separated from the chest wall to a point lateral to the ITA ([Fig. 7.4a and b](#fig-7-4a)). Skeletonization or semiskeletonization provides additional length compared to the pedicled method, with the added advantage of preserving the collateral blood supply of the chest wall ([Fig. 7.5](#fig-7-5)). Our preference is skeletonization, which is particularly important in elderly and diabetic patients, in whom sternal ischemia is more likely to cause infection.
 
-<span id="fig-7-4a"></span>![](_page_4_Picture_8.jpeg)
+<span id="fig-7-4a"></span>![](_page_3_Picture_3.jpeg)
 
 **FIGURE 7.4a**
 
-<span id="fig-7-4b"></span>![](_page_4_Picture_9.jpeg)
+<span id="fig-7-4b"></span>![](_page_3_Picture_5.jpeg)
 
 **FIGURE 7.4b**
 
-<span id="fig-7-5"></span>![](_page_4_Picture_11.jpeg)
+<span id="fig-7-5"></span>![](_page_3_Picture_8.jpeg)
 
 **FIGURE 7.5**
 
 Using low-power cautery, the fascia between the medial internal thoracic vein and the ITA is scored along its length and the ITA is exposed. The vein is pushed upwards to allow the development of a plane between it and the ITA ([Fig. 7.6](#fig-7-6)). Grasping the lateral edge of the divided endothoracic allows for atraumatic retraction of the ITA while cautery is used to free its fibrous attachments and branches are divided with fine scissors between proximally and distally placed hemoclips.
 
-<span id="fig-7-6"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-7-6"></span>![](_page_4_Picture_5.jpeg)
 
 **FIGURE 7.6**
 
 The proximal extent of dissection is the upper border of the subclavian vein, at least above the branch to the first intercostal space ([Fig. 7.7](#fig-7-7)). In the upper two intercostal spaces the ITA is separated from the pleura only by endothoracic fascia and, if the ITA is harvested carefully, the technique can be performed entirely extrapleurally. The dissection is extended distal to the level of the bifurcation into the musculophrenic or superior epigastric artery, and the latter ideally may be left intact if length is adequate.
 
-<span id="fig-7-7"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-7-7"></span>![](_page_4_Picture_9.jpeg)
 
 **FIGURE 7.7**
 
 The right ITA (RITA) is normally mobilized after the left side has been completed ([Fig. 7.8a and b](#fig-7-8a)). Because of the asymmetry of the heart, achieving the maximum length of the RITA is desirable so that left-sided coronary arteries or distal right coronary artery (RCA) branches can be anastomosed directly. The technique proceeds in a similar fashion to that of the left; however, at the proximal end, additional dissection is required to obtain maximal length. After the second and first perforating branches are divided, the ITA dissection is continued proximally until it disappears beneath the inferior border of the right brachiocephalic vein. Division of the right internal thoracic vein may be necessary for improved exposure of the proximal RITA. Division of the pericardiacophrenic, manubrial, sternothyroid, and mediastinal branches in the triangle formed by the ITA and internal thoracic vein and the phrenic nerve is important. Division of these branches and mobilization of the ITA above and behind the lower border of the brachiocephalic vein provides an additional 1 cm in length.
 
-<span id="fig-7-8a"></span>![](_page_5_Picture_8.jpeg)
+<span id="fig-7-8a"></span>![](_page_4_Picture_7.jpeg)
 
 **FIGURE 7.8a**
 
-<span id="fig-7-8b"></span>![](_page_5_Picture_9.jpeg)
+<span id="fig-7-8b"></span>![](_page_4_Picture_10.jpeg)
 
 **FIGURE 7.8b**
 
@@ -272,7 +272,7 @@ Following harvest of the left ITA (LITA) and/or RITA and after systemic heparini
 
 The RA arises from the bifurcation of the brachial artery in the cubital fossa and terminates by forming the deep palmar arch in the hand. It lies immediately beneath the deep fascia, surrounded by collateral veins. The brachioradialis muscle and the lateral cutaneous nerve of the forearm cover its proximal portion. The terminal sensory branch of the radial nerve lies immediately lateral to the proximal third of the RA ([Fig. 7.9](#fig-7-9)).
 
-<span id="fig-7-9"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-7-9"></span>![](_page_5_Picture_8.jpeg)
 
 **FIGURE 7.9**
 
@@ -290,17 +290,17 @@ Three structures may be damaged during harvesting: the lateral cutaneous nerves 
 
 The artery is exposed through an incision overlying and slightly medial to the RA ([Fig. 7.10a](#fig-7-10a)). After the deep fascia is divided, the RA can be seen with its paired venae comitantes. To mobilize the RA, the deep fascia should be divided just lateral to the tendon of the flexor carpi radialis muscle ([Fig. 7.10b](#fig-7-10b)). A few small branches pass vertically and supply the brachioradialis muscle. These branches may cause a hematoma if damaged. The RA is semiskeletonized and is mobilized with its venae comitantes. Side branches are divided between metal clips and clipped close to the artery, whereas smaller branches can be cauterized. Experience with ultrasonic shears (Harmonic Focus®; Ethicon Endo-Surgery Inc., Cincinnati, OH) to harvest the RA has been encouraging, being both expeditious and atraumatic. The use of endoscopic RA harvesting is also becoming more common and, while we have limited experience with this technique, non-randomized observational reports have suggested that this is a safe alternative to open harvest.
 
-<span id="fig-7-10a"></span>![](_page_6_Picture_12.jpeg)
+<span id="fig-7-10a"></span>![](_page_5_Picture_14.jpeg)
 
 **FIGURE 7.10a**
 
-<span id="fig-7-10b"></span>![](_page_6_Picture_13.jpeg)
+<span id="fig-7-10b"></span>![](_page_5_Picture_16.jpeg)
 
 **FIGURE 7.10b**
 
 The distal end of the RA is divided approximately 2 cm above the wrist, after the distal end of the wound is elevated. The proximal end of the RA can be followed to the bifurcation of the brachial artery ([Fig. 7.11](#fig-7-11)). The bifurcation is heralded by the presence of the radial recurrent artery and a complex of large veins. Once the distal end has been divided, a solution of papaverine mixed with an equal amount of blood or Ringer's lactate may be injected into the distal end of the artery. The distal end is then clipped and allowed to dilate under arterial pressure while the upper end of the dissection is completed. The RA is usually divided approximately 1 cm distal to the bifurcation of the brachial artery; if extra length is required, the recurrent branch can be divided. The RA is then flushed with and subsequently stored in the papaverine solution until required.
 
-<span id="fig-7-11"></span>![](_page_7_Picture_4.jpeg)
+<span id="fig-7-11"></span>![](_page_6_Picture_10.jpeg)
 
 **FIGURE 7.11**
 
@@ -328,7 +328,7 @@ The gastroepiploic artery is sometimes used as a third *in situ* arterial graft 
 
 The right gastroepiploic artery (RGEA) is the largest terminal branch of the gastroduodenal artery. The RGEA lies between the posterior surface of the duodenum and the anterior surface of the pancreas and travels along the greater curvature of the stomach between the two layers of the greater omentum, along with the gastroepiploic veins. The RGEA terminates by anastomosing with the left gastroepiploic artery, which arises from the splenic artery near the hilum of the spleen ([Fig. 7.12](#fig-7-12)).
 
-<span id="fig-7-12"></span>![](_page_7_Picture_10.jpeg)
+<span id="fig-7-12"></span>![](_page_6_Picture_11.jpeg)
 
 **FIGURE 7.12**
 
@@ -360,23 +360,23 @@ The size and length of the inferior epigastric artery (IEA) vary and, in many pa
 
 The final plan of how best to deploy the arterial grafts is made after harvesting, following assessment of the epicardial targets. [Fig. 7.13a–e](#fig-7-13a) summarizes the principle grafting configurations. Assuming triple-vessel disease, the configuration depends upon the selection of the best conduit for the LAD. Traditionally, the LITA has been regarded as the gold-standard graft for the left anterior descending (LAD). The LITA may also form the basis for a sequential or Y-graft to a diagonal branch if the latter is separately diseased, or in order to backfill the mid LAD where tandem LAD lesions exist. Under this standard configuration, a mid or distal circumflex (Cx) marginal branch may be grafted with an *in situ* RITA passed posteriorly through the transverse sinus, a relatively complex maneuver. Alternatively, it may be passed across the midline deep to the thymic fat, lying on the innominate vein, to reach the left side where it then runs into the pericardium adjacent to the LITA to run to a proximal marginal branch lying close to the left atrial appendage. Any second obtuse marginal branch may be grafted with an aortocoronary RA graft, or as a Y-graft off the RITA using an RA fragment. Finally, the posterior descending or posterolateral branch of the RCA may be grafted with an aortocoronary RA graft, or with an *in situ* gastroepiploic artery in centers with expertise in this.
 
-<span id="fig-7-13a"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-7-13a"></span>![](_page_7_Picture_7.jpeg)
 
 **FIGURE 7.13a**
 
-<span id="fig-7-13b"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-7-13b"></span>![](_page_7_Picture_8.jpeg)
 
 **FIGURE 7.13b**
 
-<span id="fig-7-13c"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-7-13c"></span>![](_page_7_Picture_10.jpeg)
 
 **FIGURE 7.13c**
 
-<span id="fig-7-13d"></span>![](_page_8_Picture_7.jpeg)
+<span id="fig-7-13d"></span>![](_page_7_Picture_11.jpeg)
 
 **FIGURE 7.13d**
 
-<span id="fig-7-13e"></span>![](_page_9_Picture_2.jpeg)
+<span id="fig-7-13e"></span>![](_page_8_Picture_2.jpeg)
 
 **FIGURE 7.13e**
 
@@ -404,37 +404,33 @@ Irrespective of whether the procedure is performed on or off pump, it may be pos
 
 A 4–5 mm coronary arteriotomy (two or three times the diameter of the native coronary artery) is placed at the point that is free from disease. The end of the arterial graft is fashioned so that the circumference of the graft just exceeds that of the native coronary artery ([Fig. 7.14a–c](#fig-7-14a)).
 
-<span id="fig-7-14a"></span>![](_page_10_Picture_4.jpeg)
+<span id="fig-7-14a"></span>![](_page_9_Picture_8.jpeg)
 
-**FIGURE 7.14a**
+**FIGURE 7.14a** and **7.14b**
 
-<span id="fig-7-14b"></span>![](_page_10_Picture_5.jpeg)
-
-**FIGURE 7.14b**
-
-<span id="fig-7-14c"></span>![](_page_10_Picture_6.jpeg)
+<span id="fig-7-14c"></span>![](_page_9_Picture_9.jpeg)
 
 **FIGURE 7.14c**
 
 The native coronary artery is orientated away from the surgeon. Through the use of a two-arm suture the anastomosis is commenced at the proximal end of the coronary arteriotomy at the point furthest from the surgeon ([Fig. 7.15a](#fig-7-15a)). One suture is passed from the lumen to the exterior of the coronary artery and clipped ([Fig. 7.15b](#fig-7-15b)); the other arm is placed through the heel of the arterial graft ([Fig. 7.15c](#fig-7-15c)). After two or three sutures have been inserted, the graft is then approximated to the native vessel. Suturing, using a forehand technique, is then continued from outside to inside the lumen of the coronary artery until the distal end of the arteriotomy is reached ([Fig. 7.15d](#fig-7-15d)). The apex of the graft is rotated to expose the distal end of the arteriotomy. Commencing proximally, the surgeon sews the second suture from outside the graft through the anastomosis to the outside of the coronary artery. This suture is continued to the distal end of the anastomosis ([Fig. 7.15e](#fig-7-15e)). Placement of the apical sutures at the distal end is facilitated by traction on the last loop of the first suture.
 
-<span id="fig-7-15a"></span>![](_page_11_Picture_2.jpeg)
+<span id="fig-7-15a"></span>![](_page_10_Picture_2.jpeg)
 
 **FIGURE 7.15a**
 
-<span id="fig-7-15b"></span>![](_page_11_Picture_4.jpeg)
+<span id="fig-7-15b"></span>![](_page_10_Picture_4.jpeg)
 
 **FIGURE 7.15b**
 
-<span id="fig-7-15c"></span>![](_page_11_Picture_5.jpeg)
+<span id="fig-7-15c"></span>![](_page_10_Picture_6.jpeg)
 
 **FIGURE 7.15c**
 
-<span id="fig-7-15d"></span>![](_page_12_Picture_2.jpeg)
+<span id="fig-7-15d"></span>![](_page_11_Picture_3.jpeg)
 
 **FIGURE 7.15d**
 
-<span id="fig-7-15e"></span>![](_page_12_Picture_3.jpeg)
+<span id="fig-7-15e"></span>![](_page_11_Picture_5.jpeg)
 
 **FIGURE 7.15e**
 
@@ -454,7 +450,7 @@ The technique of a parallel anastomosis is almost identical to the standard tech
 
 The site for anastomosis of the LITA with the diagonal branch is chosen with the heart distended and lying in its normal position. Sufficient length of ITA proximal to the side-to-side anastomosis should be left so that the heart can be elevated without putting tension on the graft. The first sutures are placed from within the native vessel and graft and are continued using a forehand technique down the left side of the anastomosis to the heel ([Fig. 7.16](#fig-7-16)). The distal (free) end of the ITA graft is elevated to facilitate placement of the heel sutures. The second suture is then continued down the medial side of the anastomosis to the heel, where the two ends are tied. A stay suture is placed distal to the side-to-side anastomosis to maintain the alignment of the LITA graft. The end-to-side anastomosis between the distal LITA and the LAD completes the sequential graft.
 
-<span id="fig-7-16"></span>![](_page_12_Picture_9.jpeg)
+<span id="fig-7-16"></span>![](_page_11_Picture_12.jpeg)
 
 **FIGURE 7.16**
 
@@ -468,7 +464,7 @@ The diamond technique is useful for grafting the Cx marginal coronary artery bra
 
 The arteriotomies should be small to avoid distortion of the native artery or the graft at the site of the anastomosis. In general, the length of the arteriotomies should be similar to or only marginally greater than the diameter of the native coronary artery or conduit. The side-to-side anastomosis can be performed before or after the end-to-side technique. Our preference when grafting the marginal branches is to perform the distal anastomosis first and then to allow the graft to rotate away from the surgeon to expose the site for the side-to-side anastomosis ([Fig. 7.17](#fig-7-17)). The proximal anastomosis is performed last. Suturing is commenced at a point farthest from the surgeon, at the apex of the native coronary artery. Three or four sutures are placed before the graft and native vessels are approximated. The lateral side of the anastomosis is sutured to the distal end of the native arteriotomy. Elevation of the graft as the suture is continued around the right-hand side of the anastomosis, finishing at the point nearest the surgeon, facilitates this maneuver. The other suture is used to complete the anastomosis. The suture is tied after the graft is distended with blood to minimize the risk of stricture or narrowing of the anastomosis. Occluding the vessel beyond the anastomosis checks hemostasis. Additional tacking sutures are not usually required with a diamond technique.
 
-<span id="fig-7-17"></span>![](_page_13_Picture_2.jpeg)
+<span id="fig-7-17"></span>![](_page_12_Picture_10.jpeg)
 
 **FIGURE 7.17**
 
@@ -494,7 +490,7 @@ The anastomosis is commenced on the aorta at a point furthest from the surgeon, 
 
 The anastomosis is performed on the chest wall side of the LITA, at a point just distal to its entry into the pericardial cavity. With experience it is possible to construct such composite grafts prior to establishment of cardiopulmonary bypass (CPB). The LITA is placed on the left side of the skin incision. A 4–5 mm incision is made in the ITA and the arterial free graft (AFG; e.g. RA or a segment of distal ITA) is then cut obliquely and the arteriotomy matched to that of the ITA. Suturing is usually commenced at the distal end of the ITA and the free graft (the heel of the anastomosis) and continued proximally using a forehand technique ([Fig. 7.18](#fig-7-18)). The proximal sutures are placed more accurately if the free graft is elevated to expose the toe. The suture line is completed using a forehand technique down the opposite side of the anastomosis to the toe, where the sutures are tied.
 
-<span id="fig-7-18"></span>![](_page_14_Picture_4.jpeg)
+<span id="fig-7-18"></span>![](_page_13_Picture_4.jpeg)
 
 **FIGURE 7.18**
 
@@ -508,7 +504,7 @@ If the length of the RITA is insufficient to reach the terminal branches of the 
 
 The distal end of the RITA and proximal end of the AFG are transected at an approximate 45-degree angle after having been dilated previously with the papaverine solution. Suturing is usually commenced at the apex of the AFG, which is joined to the heel of the *in situ* ITA graft ([Fig. 7.19](#fig-7-19)). Sutures continue around the left side of the anastomosis to the apex. Rotating the anastomosis through 180 degrees exposes the sutures in the heel of the free graft. The second suture is placed along the opposite side of the anastomosis, and the sutures are tied after release of the clamp to distend the pedicle. Additional stay sutures are placed on either side of the anastomosis to prevent rotation at the anastomotic site. Distal flow is checked before the terminal end-to-side anastomosis is commenced.
 
-<span id="fig-7-19"></span>![](_page_14_Picture_8.jpeg)
+<span id="fig-7-19"></span>![](_page_13_Picture_8.jpeg)
 
 **FIGURE 7.19**
 
