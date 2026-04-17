@@ -75,15 +75,15 @@ Currently, three methods of tissue stabilization exist:
 
 The stabilizer may be retractor-based or operation table rail-based.
 
-<span id="fig-6-1a"></span>![](_page_2_Picture_5.jpeg)
+<span id="fig-6-1a"></span>![](_page_1_Picture_6.jpeg)
 
 **FIGURE 6.1a** Suction‑based Octopus stabiliser.
 
-<span id="fig-6-1b"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-6-1b"></span>![](_page_1_Picture_8.jpeg)
 
 **FIGURE 6.1b** Pressure fixation.
 
-<span id="fig-6-1c"></span>![](_page_2_Picture_9.jpeg)
+<span id="fig-6-1c"></span>![](_page_1_Picture_10.jpeg)
 
 **FIGURE 6.1c** Vessel loop‑plate fixation.
 
@@ -149,65 +149,63 @@ At our institution, anticoagulation regimens vary according to surgeon preferenc
 
 The most commonly used access ([Fig. 6.2](#fig-6-2)) is currently the sternotomy (A) because it offers wide access to all major coronary artery segments. In addition, better understanding of the pump function of the displaced heart and particularly the advent of new "tricks" to subluxate the beating heart without compromising the pump function favor this approach. Currently, the anterior thoracostomy (B), the subxiphoid laparotomy (median) (C), and the posterior thoracotomy (E) are used for subsets of patients with limited one-vessel disease. In favorable topography, the anterior thoracostomy (B), the distal sternotomy (D), the transverse curved laparotomy (F), and the left posterior thoracotomy allow multiple grafting, provided that the vessels are nearby and, in the case of the anterior thoracotomy, no wide-angled diagonal–left anterior descending (LAD) fork is present.
 
-<span id="fig-6-2"></span>![](_page_4_Picture_5.jpeg)
+<span id="fig-6-2"></span>![](_page_3_Picture_10.jpeg)
 
 **FIGURE 6.2** Access routes: A – sternotomy; B – anterior thoracostomy; C – subxiphoid laparotomy (median); D – distal sternotomy; E – posterior thoracotomy; F – transverse curved laparotomy.
 
 A second, major advantage of the sternotomy is that the internal mammary arteries (IMAs) can be harvested in the usual familiar way using a table-based retractor (Rultract, Cleveland, OH) ([Fig. 6.3a–c](#fig-6-3a)). Our preference is to skeletonize the internal thoracic arteries (ITAs) in order to maximize the length, favor Y- and T-anastomosis, and preserve the vein drainage of the thoracic wall minimizing the risk of wound infection.
 
-<span id="fig-6-3a"></span>![](_page_4_Picture_8.jpeg)
+<span id="fig-6-3a"></span>![](_page_3_Picture_12.jpeg)
 
 **FIGURE 6.3a**
 
-<span id="fig-6-3b"></span>![](_page_4_Picture_9.jpeg)
+<span id="fig-6-3b"></span>![](_page_3_Picture_14.jpeg)
 
 **FIGURE 6.3b**
 
-<span id="fig-6-3c"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-6-3c"></span>![](_page_4_Picture_2.jpeg)
 
 **FIGURE 6.3c**
 
-Preferentially, grafts are used as an *in situ* graft. T- and Y-anastomoses are constructed with free IMA and radial artery or 5–10 cm saphenous vein on a stable pulmonary artery (folded towel or suction stabilizer on the common pulmonary artery can serve as a stable platform) ([Fig. 6.4a](#fig-6-4a)). The T- or Y-anastomosis may be constructed at first or as a final anastomosis. It is constructed preferably using a two-needle technique, the back suture first ([Fig. 6.4b](#fig-6-4b)). This technique enables economic use of graft material (skeletonization favors jump grafting) and reduces or may avoid touching the ascending aorta. In practice, complete arterial revascularization in OPCABG can be achieved in almost all patients, using up to five-vessel arterial revascularization with intense use of both IMAs.
+Preferentially, grafts are used as an *in situ* graft. T- and Y-anastomoses are constructed with free IMA and radial artery or 5–10 cm saphenous vein on a stable pulmonary artery (folded towel or suction stabilizer on the common pulmonary artery can serve as a stable platform) ([Fig. 6.4a](#fig-6-4a)). The T- or Y-anastomosis may be constructed at first or as a final anastomosis. It is constructed preferably using a two-needle technique, the back suture first (Fig. 6.4b). This technique enables economic use of graft material (skeletonization favors jump grafting) and reduces or may avoid touching the ascending aorta. In practice, complete arterial revascularization in OPCABG can be achieved in almost all patients, using up to five-vessel arterial revascularization with intense use of both IMAs.
 
-<span id="fig-6-4a"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-6-4a"></span>![](_page_4_Picture_5.jpeg)
 
 **FIGURE 6.4a** T‑anastomosis construction on stable platform.
-
-<span id="fig-6-4b"></span>![](_page_5_Picture_7.jpeg)
 
 **FIGURE 6.4b** Two‑needle technique – back suture first.
 
 In the sternotomy approach the procedure should always start with a deep pericardial stitch 3 cm laterally from the confluence of the two pulmonary veins, using a braided-two stitch. With this stitch, a long sling is lowered with a snugger so that a tripod retractor is created to improve stability of displacement ([Fig. 6.5a and b](#fig-6-5a)).
 
-<span id="fig-6-5a"></span>![](_page_5_Picture_10.jpeg)
+<span id="fig-6-5a"></span>![](_page_4_Picture_7.jpeg)
 
 **FIGURE 6.5a** Deep pericardial stitch placement.
 
-<span id="fig-6-5b"></span>![](_page_5_Picture_11.jpeg)
+<span id="fig-6-5b"></span>![](_page_4_Picture_9.jpeg)
 
 **FIGURE 6.5b** Tripod retractor created.
 
 The stabilizer is mounted on the sternotomy-retractor. The heart is displaced, and the stabilizer is positioned to the target and fixed. Suction-fixation takes ±15 seconds before it is effective. The three parts of the tripod are then fixed to the towel dressing. Finally, the target exposure can be adjusted to expose the three major territories: the anterior wall ([Fig. 6.6a](#fig-6-6a)), the inferior wall ([Fig. 6.6b](#fig-6-6b)), and the posterior wall ([Fig. 6.6c](#fig-6-6c)). The distal right coronary artery (RCA) itself can be exposed, leaving the heart in its cradle. An additional suction device on the apex can support the positioning of the heart for lateral and inferior wall exposure. It stabilizes the upright position of the heart and helps to maintain the geometry of the beating heart. This is an important tool to support hemodynamics in off-pump revascularization in the impaired and dilated ventricle ([Fig. 6.6d](#fig-6-6d)).
 
-<span id="fig-6-6a"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-6-6a"></span>![](_page_5_Picture_3.jpeg)
 
 **FIGURE 6.6a** Anterior wall exposure (LAD).
 
-<span id="fig-6-6b"></span>![](_page_6_Picture_4.jpeg)
+<span id="fig-6-6b"></span>![](_page_5_Picture_4.jpeg)
 
 **FIGURE 6.6b** Inferior wall exposure (RCA/PDA).
 
-<span id="fig-6-6c"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-6-6c"></span>![](_page_5_Picture_6.jpeg)
 
 **FIGURE 6.6c** Posterior wall exposure (circumflex).
 
-<span id="fig-6-6d"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-6-6d"></span>![](_page_5_Picture_7.jpeg)
 
 **FIGURE 6.6d** Apical suction device for dilated ventricle.
 
 Displacement should always be preceded by intravenous volume supplementation to achieve a right atrial pressure in the range of 8–10 cm H₂O and to increase the preload by head-down and right lateral tilt of the operating table (Trendelenburg maneuver) to avoid inflow obstruction ([Fig. 6.7](#fig-6-7)). The thin-walled right atrium and ventricle may "kink" or "get compressed" easily. Transesophageal echocardiography is an ideal monitor of this inflow obstruction. If compression of the heart is the main problem, the right pericardium can be incised towards the inferior caval vein and the pleura opened to allow the heart to drop in the right pleural cavity. However, slackening of the right pericardial stay suture can be tried at first. Unless the ventricle is impaired, hemodynamic stabilization can usually be obtained within 1–2 minutes without any inotropes. A mean arterial blood pressure of 60–80 mmHg is recommended. If necessary, inotropic support of first choice is phenylephrine as a bolus dose, because it is non-chronotropic. When continuous support is anticipated, dopamine in low dosage, i.e. 2–4 µg/kg per minute, is started before displacement. This stage of the procedure requires close cooperation between surgeon and anesthetist. If the circulation does not improve promptly, the heart must be repositioned. Too much inotropic drug support should also be avoided because the stabilizer will lose its grip on the "hard" myocardium. Volume load of 1000–1500 mL causes approximately the same "water damage" as on-pump surgery.
 
-<span id="fig-6-7"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-6-7"></span>![](_page_6_Picture_8.jpeg)
 
 **FIGURE 6.7** Trendelenburg positioning for preload optimisation.
 
@@ -225,29 +223,29 @@ Marginal targets are generally left until last due to the manipulation of the he
 
 We found that in almost all vessels the "clamp and sew" technique is warranted. If hemodynamic instability occurs, a prompt use of shunt with releasing of the proximal snare is the best next step to adopt ([Fig. 6.8a](#fig-6-8a)). Routine use of the shunt is not our standard because this increases the surgical complexity and compromises the quality of the distal target.
 
-<span id="fig-6-8a"></span>![](_page_7_Picture_9.jpeg)
+<span id="fig-6-8a"></span>![](_page_6_Picture_9.jpeg)
 
 **FIGURE 6.8a** Shunt placement.
 
 Temporary occlusion can be performed in several ways: an atraumatic microvascular clamp (Acland [Landmark Surgical Instrumentation and Equipment, Merseyside, UK]; [Fig. 6.8b](#fig-6-8b)), Silastic snare ([Fig. 6.8c](#fig-6-8c)), buttressed suture ([Fig. 6.8d](#fig-6-8d)), or disposable clip ([Fig. 6.8e](#fig-6-8e)). Occluding the vessel also distally using atraumatic microvascular clamps (Acland) produces a dry anastomosis site and imitates clean globally arrested heart surgery. Preferably, the clamps should be positioned from aside in order not to compromise the suture-loop handling. This has an additional advantage of preserving the collateral flow to the distal myocardium. Alternatively, a blower/mister should be used to maintain a clear view ([Fig. 6.8f](#fig-6-8f)).
 
-<span id="fig-6-8b"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-6-8b"></span>![](_page_7_Picture_3.jpeg)
 
 **FIGURE 6.8b** Acland microvascular clamp.
 
-<span id="fig-6-8c"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-6-8c"></span>![](_page_7_Picture_5.jpeg)
 
 **FIGURE 6.8c** Silastic snare.
 
-<span id="fig-6-8d"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-6-8d"></span>![](_page_7_Picture_4.jpeg)
 
 **FIGURE 6.8d** Buttressed suture.
 
-<span id="fig-6-8e"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-6-8e"></span>![](_page_7_Picture_6.jpeg)
 
 **FIGURE 6.8e** Disposable clip.
 
-<span id="fig-6-8f"></span>![](_page_9_Picture_3.jpeg)
+<span id="fig-6-8f"></span>![](_page_8_Picture_3.jpeg)
 
 **FIGURE 6.8f** Blower/mister for clear view.
 
@@ -259,7 +257,7 @@ Temporary occlusion can be performed in several ways: an atraumatic microvascula
 
 A single, running 8-0 or 7-0 suture is used, usually with a one-needle technique. In grafting of the diagonal sequential to the LAD, the side anastomosis is performed using a two-needle technique, starting with the back wall first, suturing the coronary artery from outside to inside ([Fig. 6.8g](#fig-6-8g)). This method is used because of the orientation of the vessel to the surgeon. In the distal RCA anastomosis, the toe is most distal and therefore is done first, using the two-needle technique.
 
-<span id="fig-6-8g"></span>![](_page_9_Picture_6.jpeg)
+<span id="fig-6-8g"></span>![](_page_8_Picture_6.jpeg)
 
 **FIGURE 6.8g** Two‑needle technique – back wall first.
 
@@ -283,17 +281,17 @@ Intraoperative quality assessment can be performed by angiography or, more pract
 
 Isolated revascularization of the most important coronary artery, the LAD, is most suitable via a small left anterior thoracotomy in the fourth or fifth intercostal space. The patient is intubated using a double-lumen tube. Through this incision the left IMA can be harvested either directly or video-assisted ([Fig. 6.9a](#fig-6-9a)).
 
-<span id="fig-6-9a"></span>![](_page_9_Picture_12.jpeg)
+<span id="fig-6-9a"></span>![](_page_8_Picture_12.jpeg)
 
 **FIGURE 6.9a** Left anterior thoracotomy incision.
 
 Usually, the pleura is opened, and the left lung is deflated. In the incision the left IMA is identified carefully. The left accompanying vein is clipped and cut. More length is gained caudally and cranial by meticulous dissection while the wound is gradually opened with a small retractor ([Fig. 6.9b](#fig-6-9b)). Harvesting in the skeletonized way using fine DeBakey forceps and the cautery spatula is preferred. The endothoracic fascia is gradually opened, and small strands are cauterized using low-energy coagulation ("coagulation/fulgurate"). All branches are clipped and cut in between to avoid thermal damage. By hoisting the cranial ribs by a retractor attached to the table rail or by a thoracic wall tilting device which in turn is attached to the wound retractor, dissection can be completed up to the level of the first intercostal space. High dissection is particularly necessary in planned jump grafts to the diagonal branch and LAD. If additional length is necessary distally, the cartilage of the caudal rib is cut with a knife from the inside to enable easy healing and to avoid damaging the IMA. The cartilage is sutured at closure. The least invasive technique is the Cohn "H-graft" preparation. In this technique a graft is used as an interposition graft without dissection of the IMA ([Fig. 6.9c](#fig-6-9c)). Resection of cartilage may be necessary in this H-graft. Careful wound closure is important to prevent lung herniation.
 
-<span id="fig-6-9b"></span>![](_page_10_Picture_3.jpeg)
+<span id="fig-6-9b"></span>![](_page_9_Picture_7.jpeg)
 
 **FIGURE 6.9b** Skeletonised IMA harvest.
 
-<span id="fig-6-9c"></span>![](_page_10_Picture_4.jpeg)
+<span id="fig-6-9c"></span>![](_page_9_Picture_8.jpeg)
 
 **FIGURE 6.9c** Cohn H‑graft (interposition graft without IMA dissection).
 
@@ -305,7 +303,7 @@ The Cohn graft may be particularly suitable to perform a salvage revascularizati
 
 Alternatively, for off-pump single LAD grafting in redo cases or in the absence of an IMA, the subclavian artery or preferably the proximal axillary artery can be used as the inflow conduit, utilizing a saphenous vein graft or radial artery ([Fig. 6.9d](#fig-6-9d)). The artery is exposed via an infraclavicular incision, retracting the pectoralis major muscle and pectoralis minor muscle, median to the deltoid muscle. The artery is identified above the vein, encircled, and segmentally clamped. After the proximal anastomosis at the caudal–dorsal aspect (to prevent kinking) has been completed, the left lung is deflated. The adjacent intercostal space is opened with a curved forceps for 2–3 cm (in case of a narrow space through the bed of the locally resected second or third rib). Using a long-grasping forceps, the surgeon passes the graft to the small left anterior thoracotomy. A light cable may help with this, and also to check for hemostasis of the intercostal space. The LAD anastomosis is then performed as described (see [Fig. 6.9a](#fig-6-9a)).
 
-<span id="fig-6-9d"></span>![](_page_11_Picture_2.jpeg)
+<span id="fig-6-9d"></span>![](_page_10_Picture_2.jpeg)
 
 **FIGURE 6.9d** Axillary artery inflow for redo LAD grafting.
 
@@ -319,7 +317,7 @@ Graft flow is measured, preferably with the stabilizer removed, as this may affe
 
 Left posterior thoracotomy is useful for redo surgery. The patient is in the right lateral position. Double-lumen intubation is recommended. A 15 cm posterior thoracotomy in the fifth or sixth intercostal space exposes the circumflex artery branches well ([Fig. 6.10](#fig-6-10)). The pericardium is opened posterior to the phrenic nerve. For the diagonal branch and the LAD grafting, the thoracotomy incision should be extended anteriorly and the pericardium also opened ventrally to the phrenic nerve. The quality of the descending aorta as the inflow conduit is sometimes disappointing. Alternative inflow conduits have been discussed previously. The radial artery and saphenous vein can be used. Tissue stabilization can be retractor-based (thoracotomy retractor) or table rail-based.
 
-<span id="fig-6-10"></span>![](_page_11_Picture_8.jpeg)
+<span id="fig-6-10"></span>![](_page_10_Picture_8.jpeg)
 
 **FIGURE 6.10** Left posterior thoracotomy for circumflex exposure.
 
