@@ -181,7 +181,7 @@ We have found the routine use of TEE to be essential in the performance of CABG.
 
 The incision is made from the midpoint of the sternal notch and sternal angle down to the tip of the xyphoid ([Fig. 5.1](#fig-5-1)). Retraction in the sternal notch allows careful division of the clavicular-clavicular ligament. Careful attention is paid to the position of the innominate artery, which is typically superior and deep to this. Dissection is stopped when a finger carefully goes under the table of the sternum. The sternal saw should be inserted from the top, with the saw guard facing the patient's neck and the saw blade on the caudal side. After division and retraction of the sternum, it is occasionally necessary to extend the incision cephalad to avoid undue tension on the midline skin and subcutaneous tissue when the sternum is fully retracted. The edges of the sternum are carefully cauterized for hemostasis. A minimal amount of bone wax is used to stop bleeding in the marrow. The thymic tissues, subcutaneous tissue, and any muscle is divided up to the inferior edge of the brachiocephalic vein.
 
-<span id="fig-5-1"></span>![](_page_4_Picture_5.jpeg)
+<span id="fig-5-1"></span>![](_page_3_Picture_5.jpeg)
 
 **FIGURE 5.1**
 
@@ -193,19 +193,19 @@ The incision is made from the midpoint of the sternal notch and sternal angle do
 
 The mammary artery arises from the left subclavian artery close to the thyrocervical trunk and under the sternal end of the clavicle ([Fig. 5.2](#fig-5-2)). It extends on the inside of the anterior chest wall just lateral to the sternum and costosternal cartilages from the clavicle down to the costochondral junction. The IMA branches form the intercostal arteries and, at the fifth or sixth interspace, the mammary artery divides into the musculophrenic and superior epigastric branches. The IMA is accompanied by two veins with tributaries from the intercostal vascular pedicle and adjacent chest wall. These veins enter the left subclavian vein just below the origin of the mammary artery from the subclavian artery. The phrenic nerve enters the thorax close to the origin of the IMA and traverses behind the subclavian vein. This nerve can be injured by electrocautery near the origin of the IMA.
 
-<span id="fig-5-2"></span>![](_page_4_Picture_9.jpeg)
+<span id="fig-5-2"></span>![](_page_3_Picture_10.jpeg)
 
 **FIGURE 5.2**
 
 Prior to heparinization, a mammary retractor is placed to lift the left hemisternum. The proximal blade is placed under the manubrium and the distal blade is placed just above the xyphoid ([Fig. 5.3](#fig-5-3)). The hemisternum is slowly elevated and the table is rotated to the left for improved visualization. We like to open the left pleural space wide at this time. This allows for the pedicled IMA graft to fall away from the midline. A 1 cm wide pedicle that includes the IMA and accompanying veins is isolated using cautery and metal clips. With the left chest wall elevated, parallel cuts are made in the endothoracic fascia medial and lateral to the visualized or palpated mammary artery. We begin the dissection plane proximally, at the level of the third rib.
 
-<span id="fig-5-3"></span>![](_page_4_Picture_12.jpeg)
+<span id="fig-5-3"></span>![](_page_3_Picture_12.jpeg)
 
 **FIGURE 5.3**
 
 Once the first portion of the pedicle, including the artery and vein, is gently separated from the chest wall, traction placed on the pedicle allows visualization of the venous and arterial side branches ([Fig. 5.4](#fig-5-4)). Care is taken not to grasp the mammary artery. Downward retraction with closed forceps is useful. Side branches on the arterial side are clipped with small hemaclips and the chest wall side is carefully cauterized on low power. The pedicle is mobilized proximally to the level of the subclavian vein and distally past the IMA bifurcation for sufficient length. We carefully check the chest wall and bed of the IMA pedicle for hemostasis. The patient is heparinized at this point and the distal pedicle is divided after placing large clips across the IMA bifurcation. The flow in the IMA is assessed at this point. A soft-jaw bulldog retractor is placed on the distal end of the IMA pedicle and papaverine is injected on the pedicle. The pedicle is carefully placed in the left chest cavity, avoiding twisting. Some surgeons occlude the pedicled graft at its cut end with a hemaclip, allowing for flow throughout the length of the mammary artery to avoid distal artery vasospasm and, hopefully, to dilate the artery.
 
-<span id="fig-5-4"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-5-4"></span>![](_page_4_Picture_6.jpeg)
 
 **FIGURE 5.4**
 
@@ -217,7 +217,7 @@ Once the first portion of the pedicle, including the artery and vein, is gently 
 
 Both lower extremities are circumferentially prepped and draped into the field for harvesting of the saphenous vein. Many find it useful to use ultrasound preoperatively to evaluate the size of the saphenous vein and mark its location. The legs are placed in a frog-leg position to expose the vein. An assistant is typically harvesting the saphenous vein at the same time as mobilization of the IMA pedicle. It is important to convey to the assistant the anticipated number of venous bypasses to be used. A good rule of thumb is that a sufficient length of vein extends from the tip of the thumb to the tip of the little finger with the fingers extended. The greater saphenous vein courses along the medial thigh and leg in a sufficiently constant pattern that, once the vein is identified either distally or proximally, skip incisions can be made to avoid a long and deforming scar down the entire length of the lower extremity ([Fig. 5.5](#fig-5-5)). If multiple incisions and tunneling are used, it is important to avoid traction injury to the vein. A vessel loop placed around the vein can be used for careful traction. The vein should be irrigated and flushed so that it does not dry out and injure the endothelium.
 
-<span id="fig-5-5"></span>![](_page_5_Picture_8.jpeg)
+<span id="fig-5-5"></span>![](_page_4_Picture_7.jpeg)
 
 **FIGURE 5.5**
 
@@ -229,15 +229,15 @@ Both lower extremities are circumferentially prepped and draped into the field f
 
 Endoscopic saphenous vein harvesting ([Fig. 5.6a–c](#fig-5-6a)) has supplanted open vein harvesting in most practices. A variety of devices, retractors, and maneuvers has been described and used clinically. In many patients, it is possible to make two small incisions, one in the medial thigh just above the knee and the other in the infrainguinal upper thigh area, to harvest a long segment of saphenous vein. A long tubular scope is placed in the lower incision and CO<sub>2</sub> insufflation is used for visualization. Through the use of a combination of blunt dissection and gentle traction, the venous side branches can be divided as far away from the saphenous as allowed. The scope can be reversed and dissection continued down the lower leg if necessary. Once adequate vein is mobilized, the vein is divided proximally and distally. A vein cannula is placed in the proximal portion and secured to orient the flow in the vein ([Fig. 5.6b and c](#fig-5-6b)).
 
-<span id="fig-5-6a"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-5-6a"></span>![](_page_5_Picture_6.jpeg)
 
 **FIGURE 5.6a**
 
-<span id="fig-5-6b"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-5-6b"></span>![](_page_5_Picture_7.jpeg)
 
 **FIGURE 5.6b**
 
-<span id="fig-5-6c"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-5-6c"></span>![](_page_5_Picture_8.jpeg)
 
 **FIGURE 5.6c**
 
@@ -251,7 +251,7 @@ The vein is prepared by double-clipping the side branches directly against the s
 
 In preparation for cardiopulmonary bypass (CPB) ([Fig. 5.7](#fig-5-7)), pericardial traction sutures are placed bilaterally to elevate and expose the heart. The phrenic nerve is visualized on the outer surface of the pericardium and a T-shaped incision or window is made to allow the IMA pedicle to come through under no tension. The ascending aorta is carefully palpated for calcium, plaque, or wall thickening. Two pursestring sutures are placed in the proximal aortic arch at the level of the innominate artery. If there is concern for plaque in the ascending aorta via TEE or manual palpation, epiaortic ultrasound can be used to find an acceptable spot for cannulation. Rarely, the innominate artery or axillary artery must be used for arterial cannulation in this setting. Single venous cannulation is performed through the right atrial appendage with a dual-stage cannula, the tip of which is placed in the inferior vena cava. It is important at this point to think about the placement of the cross-clamp and leaving enough room for the cardioplegia cannula and proximal graft sites. A combined antegrade cardioplegia/root vent cannula is placed in the mid ascending aorta. A retrograde coronary sinus catheter is not routinely placed in patients with well-compensated left ventricular function and no evidence of aortic insufficiency but can be easily added. A temperature monitoring probe can be inserted into the septum, to the right of the LAD.
 
-<span id="fig-5-7"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-5-7"></span>![](_page_6_Picture_4.jpeg)
 
 **FIGURE 5.7**
 
@@ -275,23 +275,25 @@ It is easier to evaluate bypass targets prior to cardioplegic arrest. A careful 
 
 In conventional CABG, construction of the venous bypass is performed first so that undue tension is not placed on the LIMA to LAD anastomosis. In addition, placing the distal vein grafts sequentially allows for direct cardioplegia administration into areas of obstructed arterial flow. For visualization of the distal right coronary artery, right posterior descending artery or distal right posterolateral branches, the patient can be placed in a slight Trendelenburg position with traction applied to the acute margin of the heart. Options for improved exposure include the use of silastic tapes placed under the artery, use of the HeartNet, or use of an assistant for retraction ([Fig. 5.8a](#fig-5-8a)). Once the anastomotic area is stabilized, the epicardium overlying the artery is incised and the artery entered ([Fig. 5.8b](#fig-5-8b)). We use CO<sub>2</sub> insufflation to help distend the artery and help visualize entry into the vessel. The arteriotomy is extended for a distance of 6–8 mm. The vein graft is beveled approximately 30 degrees. The arteriotomy should match the beveled conduit diameter and be at least 1.5 times the diameter of the distal coronary artery. The anastomosis is completed with a single 7-0 Prolene suture ([Fig. 5.8c](#fig-5-8c)).
 
-<span id="fig-5-8a"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-5-8a"></span>![](_page_7_Picture_6.jpeg)
 
 **FIGURE 5.8a**
 
-<span id="fig-5-8b"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-5-8b"></span>![](_page_7_Picture_4.jpeg)
 
 **FIGURE 5.8b**
 
-<span id="fig-5-8c"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-5-8c"></span>![](_page_7_Picture_7.jpeg)
 
 **FIGURE 5.8c**
 
 With the distal end of the vein held open by the assistant with two fine forceps, a continuous anastomosis is constructed beginning either at the toe or the heel. Four or five suture throws are placed through the vein and the coronary artery, after which the vein is lowered into place and the anastomosis completed ([Fig. 5.8d and e](#fig-5-8d)). A fine nerve hook can be used to snug up the continuous suture to avoid leaking. A small probe (1.5 mm) can be placed prior to completion of the suture line to evaluate the toe of the anastomosis. The vein graft is filled with 50 mL cold blood cardioplegia to evaluate for anastomotic leakage as well as for myocardial protection. The vein graft can then be occluded distally with a soft-jaw bulldog clamp, filled with heparinized saline, and sized appropriately for a tension-free graft. We typically fill the heart by partial occlusion of the venous return line when sizing the vein graft. The proximal vein graft anastomosis can be completed at this point or saved for the end. Additional antegrade or retrograde cardioplegia can be given while the heart is repositioned for additional inferior wall or lateral wall targets.
 
-<span id="fig-5-8d"></span>![](_page_9_Picture_2.jpeg)
+<span id="fig-5-8d"></span>![](_page_8_Picture_7.jpeg)
+  
+<span id="fig-5-8d"></span>![](_page_8_Picture_9.jpeg)
 
-**FIGURE 5.8d** and **5.8e** (combined image)
+**FIGURE 5.8d** and **5.8e** 
 
 For lateral wall grafts, a cold lap pad is placed behind the heart to retract the apex of the left ventricle gently to the right, exposing the vessels of the lateral wall. Exact positioning is dependent on the sites that are chosen for distal anastomoses and, using either gentle manual traction or silastic tapes, the portion of the obtuse marginal or other lateral arterial branches are stabilized and incised. The anastomoses are completed in a similar heel-to-toe fashion as described above.
 
@@ -303,31 +305,31 @@ For lateral wall grafts, a cold lap pad is placed behind the heart to retract th
 
 Following completion of all the distal vein graft anastomoses, the pedicled IMA is retrieved from the lateral pericardial space or left pleural cavity. Care is taken to ensure no twisting of the mammary pedicle. The distal clip or proximal clamp is removed and flow is assessed. The soft clamp is then replaced to the very proximal IMA and the arterial graft is brought through the pericardial window or T incision into the surgical field. An appropriate graft site is chosen on the LAD and stabilized with silastic tapes or a spring retractor ([Fig. 5.9a](#fig-5-9a)). The IMA pedicled graft is brought down to the proposed graft site to ensure a tension-free anastomosis. If there is any concern for stretch, the fascia and muscle of the pedicle can be incised in several spots, gaining an additional 5–10 mm of length for each fascial incision ([Fig. 5.9b](#fig-5-9b)).
 
-<span id="fig-5-9a"></span>![](_page_9_Picture_5.jpeg)
+<span id="fig-5-9a"></span>![](_page_8_Picture_10.jpeg)
 
 **FIGURE 5.9a**
 
-<span id="fig-5-9b"></span>![](_page_9_Picture_6.jpeg)
+<span id="fig-5-9b"></span>![](_page_8_Picture_12.jpeg)
 
 **FIGURE 5.9b**
 
-Once an adequate pedicle length is determined, the LAD is incised and the mammary artery incised on an angle at an appropriate distal site ([Fig. 5.10a](#fig-5-10a)). Every attempt should be made to transect the mammary artery as proximal as possible where the caliber is largest. We tend to leave a small segment of distal mammary artery attached to use as a handle to grasp the artery. This small segment is transected when completing the toe of the anastomosis ([Fig. 5.10b and c](#fig-5-10b)).
+Once an adequate pedicle length is determined, the LAD is incised and the mammary artery incised on an angle at an appropriate distal site ([Fig. 5.10a and 5.10b](#fig-5-10a)). Every attempt should be made to transect the mammary artery as proximal as possible where the caliber is largest. We tend to leave a small segment of distal mammary artery attached to use as a handle to grasp the artery. This small segment is transected when completing the toe of the anastomosis ([Fig. 5.10c](#fig-5-10c)).
 
-<span id="fig-5-10a"></span>![](_page_10_Picture_2.jpeg)
+<span id="fig-5-10a"></span>![](_page_9_Picture_2.jpeg)
 
-**FIGURE 5.10a**
+**FIGURE 5.10a** and **5.10b**
 
-<span id="fig-5-10b"></span>![](_page_10_Picture_4.jpeg)
+<span id="fig-5-10c"></span>![](_page_9_Picture_3.jpeg)
 
-**FIGURE 5.10b** and **5.10c** (combined)
+**FIGURE 5.10c**
 
 Avoiding any direct contact with the endothelial surface of the mammary artery or the LAD, the assistant retracts the pedicle and the small handle of the mammary to allow exposure for the operative surgeon. A 7-0 Prolene suture is used to construct a parachuted anastomosis of 4–5 mm in length ([Fig. 5.11a](#fig-5-11a)). After between three and five suture throws, the heel of the anastomosis is brought down onto the surface of the heart, the suture line is gently snugged up, and the remainder completed ([Fig. 5.11b](#fig-5-11b)). The suture line is tied and the proximal clamp removed to evaluate for hemostasis. Our practice is to secure both sides of the mammary pedicle to the epicardial surface with a 6-0 suture to prevent movement and take tension off the suture line.
 
-<span id="fig-5-11a"></span>![](_page_10_Picture_7.jpeg)
+<span id="fig-5-11a"></span>![](_page_9_Picture_5.jpeg)
 
 **FIGURE 5.11a**
 
-<span id="fig-5-11b"></span>![](_page_10_Picture_8.jpeg)
+<span id="fig-5-11b"></span>![](_page_9_Picture_7.jpeg)
 
 **FIGURE 5.11b**
 
@@ -341,13 +343,13 @@ Avoiding any direct contact with the endothelial surface of the mammary artery o
 
 Systemic cooling is reversed during construction of the IMA to LAD anastomosis. The proximal vein graft anastomoses are constructed at this point if not already done ([Fig. 5.12a–c](#fig-5-12a)). This can be done with the cross-clamp still in place or with a side-biting aortic clamp. We prefer to perform the proximals with the original cross-clamp in place to avoid aortic manipulation and risk stroke. This also allows for reperfusion of the entire heart at the same time once the cross-clamp and IMA clamp are removed. The aortotomy is made with a 3.5 mm or 4 mm aortic punch. If the aortic wall appears excessively thick, another site is chosen and the aortotomy closed with a 4-0 Prolene suture. The proximal anastomoses are completed with a 5-0 Prolene suture starting at the outside three o'clock position of the vein graft (if looking at the end down the vein graft opening) and then a back-handed suture at the three o'clock position on the aorta. This is parachuted counterclockwise and brought down once the nine o'clock position is reached. The suture at the nine o'clock position is then brought around and tied to the three o'clock suture.
 
-<span id="fig-5-12a"></span>![](_page_11_Picture_2.jpeg)
+<span id="fig-5-12a"></span>![](_page_10_Picture_4.jpeg)
 
 **FIGURE 5.12a**
 
-<span id="fig-5-12b"></span>![](_page_11_Picture_3.jpeg)
+<span id="fig-5-12b"></span>![](_page_10_Picture_8.jpeg)
 
-**FIGURE 5.12b** and **5.12c** (combined)
+**FIGURE 5.12b** and **5.12c**
 
 </div></details>
 
@@ -357,27 +359,25 @@ Systemic cooling is reversed during construction of the IMA to LAD anastomosis. 
 
 In instances where vein graft length is limited or when there is concern for multiple anastomoses on the ascending aorta, one can construct two or more distal touchdown sites with a single vein graft ([Fig. 5.13a–e](#fig-5-13a)). The optimal spatial relationships of vein graft to artery may be difficult to assess in the decompressed arrested heart. One should avoid tension or excessive length between the end vein segment to the distal coronary artery anastomosis site and the side-to-side vein graft coronary artery anastomotic site that creates the second or third touchdown point for a single vein graft. The distal end-to-side anastomosis is typically created first. The easiest orientation for the more proximal side-to-side anastomosis is with the vein parallel to the artery. The anastomosis is begun at the heel and the far wall is completed open. It is then parachuted down and the front wall is completed. Others prefer a technique of perpendicular sequential side-to-side anastomosis. Care must be taken not to make the arteriotomy or vein graftotomy too long or a gull-wing deformity can occur.
 
-<span id="fig-5-13a"></span>![](_page_12_Picture_2.jpeg)
+<span id="fig-5-13a"></span>![](_page_11_Picture_4.jpeg)
 
 **FIGURE 5.13a**
 
-<span id="fig-5-13b"></span>![](_page_12_Picture_3.jpeg)
+<span id="fig-5-13b"></span>![](_page_11_Picture_5.jpeg)
 
 **FIGURE 5.13b**
 
-<span id="fig-5-13c"></span>![](_page_12_Picture_4.jpeg)
+<span id="fig-5-13c-e"></span>![](_page_11_Picture_6.jpeg)
 
-**FIGURE 5.13c**
-
-<span id="fig-5-13d"></span>![](_page_12_Picture_5.jpeg)
-
-**FIGURE 5.13d** and **5.13e** (combined)
+**FIGURE 5.13c-e**
 
 In the somewhat uncommon situation in which it is necessary to construct more than one distal touchdown site with the pedicled IMA, the order of grafting is reversed and the side-to-side anastomosis is completed first, so that the mammary artery pedicle that remains attached to its origin can be freely manipulated ([Fig. 5.14a and b](#fig-5-14a)). Again the artery is carefully measured, the overlying fascia on the pedicle is freed up and a 3–4 mm longitudinal side-to-side anastomosis is completed. The major concern with this technique is that, if not measured correctly, the distal end to side IMA to LAD anastomosis can be under tension. Given the importance of this anastomosis, we only use this technique under extenuating circumstances.
 
-<span id="fig-5-14a"></span>![](_page_13_Picture_2.jpeg)
+<span id="fig-5-14a"></span>![](_page_12_Picture_4.jpeg)
+  
+<span id="fig-5-14b"></span>![](_page_12_Picture_5.jpeg)
 
-**FIGURE 5.14a** and **5.14b** (combined)
+**FIGURE 5.14a** and **5.14b** 
 
 </div></details>
 
@@ -389,21 +389,19 @@ Occasionally, one encounters such a diffusely diseased coronary artery that coro
 
 The endarterectomy technique ([Fig. 5.15a–e](#fig-5-15a)) is begun by establishing a dissection plane between the hard luminal plaque and the outer media of the arterial wall. A fine tissue elevator can be used to initiate the plaque dissection, with care being taken to avoid disrupting the outer arterial wall. Once the atheromatous luminal plaque is encircled bluntly, the core is grasped firmly and peanut dissectors can be used laterally to provide countertraction as the plaque is being gently retracted. On the proximal end, once a reasonable portion of core plaque is retracted or resistance met, the core should be transected and the proximal plaque allowed to retract up into the artery. Distally the same process is performed, with the hope of removing a tapered distal cast of the artery. After the endarterectomy core is removed, the arterial wall is carefully inspected for injury or residual plaque. At this point an anastomosis can be constructed to a relatively disease-free artery.
 
-<span id="fig-5-15a"></span>![](_page_14_Picture_2.jpeg)
+<span id="fig-5-15a"></span>![](_page_13_Picture_4.jpeg)
 
 **FIGURE 5.15a**
 
-<span id="fig-5-15b"></span>![](_page_14_Picture_3.jpeg)
+<span id="fig-5-15b"></span>![](_page_13_Picture_5.jpeg)
 
 **FIGURE 5.15b**
 
-<span id="fig-5-15c"></span>![](_page_14_Picture_4.jpeg)
+<span id="fig-5-15c"></span>![](_page_14_Picture_6.jpeg)
 
-**FIGURE 5.15c**
+**FIGURE 5.15c-e**
 
-<span id="fig-5-15d"></span>![](_page_14_Picture_5.jpeg)
 
-**FIGURE 5.15d** and **5.15e** (combined)
 
 Following completion of all vein graft anastomoses, the pump flow is decreased and the aortic cross-clamp or side-biting aortic clamp is removed. Next, the vein graft, which should be occluded distally, is de-aired by fine-needle puncture to avoid entrapped air. Blood flow is then established into the distal coronary arteries. The aortic root vent is started for de-airing. We typically place both arterial and venous wires for pacing at this point. After appropriate reperfusion and return of a normal, stable cardiac rhythm, CPB is discontinued. The venous cannula is removed and snared down in case of the need to go back on bypass. The root vent and retrograde cardioplegia or LV vent are removed and the sites oversewn. Right-angle 32 Fr chest tubes are placed posterior to the heart and in the left pleural space overlying the diaphragm. The angled tube posterior to the heart is angled out of the way of any inferior graft sites. The aortic cannula is then removed and the site oversewn. A 28 Fr straight chest tube is placed in the left pleural apex and one in the anterior mediastinum prior to closure.
 
