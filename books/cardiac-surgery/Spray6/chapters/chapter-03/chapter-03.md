@@ -87,7 +87,7 @@ Standard arterial, central venous, and pulmonary artery catheter access and moni
 
 Several methods of cerebral monitoring have been used throughout the last few decades. Neuronal electrical activity can be measured by electroencephalographic (EEG) monitors or somatosensory evoked potentials (SSEPs) as well as motor evoked potentials (MEPs). Modern bispectral index (BIS) monitors are single-channel EEG processors which give an easy-to-interpret and reliable measure of cerebral activity, while MEPs and SSEPs are more challenging and time-consuming when utilized on a routine basis. Cerebral perfusion can be measured directly with a jugular bulb venous saturation catheter; however, more centers, including our own, are moving towards bilateral transcranial non-invasive cerebral oximetry monitoring. Although there was initial concern over the reliability of these monitors, interventions based on saturation trends from baseline throughout the case can be valuable to maintenance of adequate cerebral perfusion and oxygenation.
 
-<span id="fig-3-1"></span>![](_page_2_Picture_11.jpeg)
+<span id="fig-3-1"></span>![](_page_1_Picture_11.jpeg)
 
 **FIGURE 3.1**
 
@@ -120,7 +120,7 @@ Operative details are described in other chapters, but certain points should be 
 
 Once arterial and venous cannulation is achieved based on the planned strategy for cerebral protection (DHCA ± RCP or SACP), cardiopulmonary bypass is initiated with flow rates of ~2–2.5 L/min/m<sup>2</sup> ([Fig. 3.2](#fig-3-2)). Perfusion pressure of 65 mmHg is generally targeted, but is kept higher if concerns for renal or cerebral perfusion predominate, with liberal use of alpha-agonists as needed. Minimal dissection and manipulation of the aortic tissue is performed prior to initiation of CPB. Cooling using the integrated heat exchanger is commenced immediately, with a maximum 10 °C gradient between blood inflow and water bath temperature. Target temperature is determined based on nasopharyngeal temperature, as this is the closest measure of true cerebral temperature. Bladder temperature is another useful measure of core temperature, but this is reliant on adequate urine production and does not correlate well with cerebral temperature. Goal cooling for DHCA is <18 °C with or without RCP which often requires 45 minutes of cooling, and for cases using SACP we generally cool to nasopharyngeal temperature of 26 °C. Complete EEG silence should be achieved prior to initiation of circulatory arrest, particularly if using DHCA alone or in combination with RCP.
 
-<span id="fig-3-2"></span>![](_page_3_Picture_8.jpeg)
+<span id="fig-3-2"></span>![](_page_2_Picture_15.jpeg)
 
 **FIGURE 3.2**
 
@@ -134,7 +134,7 @@ Once target temperature is reached, corporeal inflow from the bypass circuit is 
 
 For total arch reconstruction, a multi-branched graft should be used to reconstruct the arch vessels, with the left subclavian reconstruction being done during the arrest period and left carotid and innominate reconstruction being done during rewarming ([Fig. 3.3](#fig-3-3)). Access to suture lines can be challenging once the anastomosis is complete, so we generally reinforce both anterior and posterior running portions with interrupted sutures as well. Upon completion of the distal anastomoses, air and debris are evacuated under pressure from the bypass circuit either via a graft sidearm or through the axillary cannulation site. Once satisfactory de-airing is complete, a cross-clamp is placed on the proximal graft and full cardiopulmonary bypass flow is resumed.
 
-<span id="fig-3-3"></span>![](_page_4_Picture_6.jpeg)
+<span id="fig-3-3"></span>![](_page_3_Picture_8.jpeg)
 
 **FIGURE 3.3**
 
@@ -148,19 +148,19 @@ In retrograde cerebral perfusion (RCP), flow in the SVC is reversed to provide c
 
 RCP can be set up with bicaval venous cannulation and essentially any arterial cannulation site (femoral, axillary, or ascending aortic) ([Fig. 3.4a](#fig-3-4a)). The arterial circuit is Y-branched to allow for eventual side-arm cannulation and one branch of the "Y" is connected to the SVC cannula. A 3/8-inch bridge is placed connecting the arterial and venous lines of the SVC cannula and is occluded during the cooling and warming periods.
 
-<span id="fig-3-4a"></span>![](_page_4_Picture_12.jpeg)
+<span id="fig-3-4a"></span>![](_page_3_Picture_6.jpeg)
 
 **FIGURE 3.4a**
 
 Upon initiation of circulatory arrest once the temperature nadir is reached, pump outflow lines are clamped, and the clamp on the arteriovenous bridge is removed ([Fig. 3.4b](#fig-3-4b)). Venous drainage from the SVC is stopped, and the inferior vena cava (IVC) line is clamped after partially exsanguinating the patient into the pump reservoir. Pump outflow, now retrograde through the venous line into the SVC, is initiated at a slow rate and gradually increased to 500 mL/min at a maximum pressure of 25–30 mmHg. Pump suction lines are used to scavenge blood emanating from the head vessels during this period.
 
-<span id="fig-3-4b"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-3-4b"></span>![](_page_4_Picture_6.jpeg)
 
 **FIGURE 3.4b**
 
 If necessary during circulatory arrest, RCP flow can be interrupted to aid in visualization for construction of the distal aortic anastomosis. Once complete, normal venous drainage is resumed, arterial inflow through a side arm of the aortic graft is commenced, and the arteriovenous bridge is clamped ([Fig. 3.4c](#fig-3-4c)). Standard cardiopulmonary bypass is thus resumed, and rewarming begins.
 
-<span id="fig-3-4c"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-3-4c"></span>![](_page_4_Picture_7.jpeg)
 
 **FIGURE 3.4c**
 
@@ -174,13 +174,13 @@ Selective arterial cerebral perfusion (SACP) is a technique to perfuse the brain
 
 Some groups cannulate the innominate artery after sternal entry. We find that using the axillary artery provides the added benefit of keeping the arterial cannula out of the operative field. The axillary artery is approached through a separate incision in the right deltopectoral groove. An 8 mm Gortex graft is sewn to the axillary artery and a perfusion cannula is inserted ([Fig. 3.5a](#fig-3-5a)). Venous drainage is achieved with a two-stage right atrial cannula, and cooling is initiated upon institution of CPB. During cooling, the innominate and left carotid artery origins must be isolated and prepared for clamping. The innominate vein can be transected for better visualization, but this is rarely necessary.
 
-<span id="fig-3-5a"></span>![](_page_6_Picture_2.jpeg)
+<span id="fig-3-5a"></span>![](_page_5_Picture_6.jpeg)
 
 **FIGURE 3.5a**
 
 Once target temperature is reached, arterial inflow is lowered to 10 mL/kg/min. The aorta is transected, and the innominate artery is clamped ([Fig. 3.5b](#fig-3-5b)). We routinely also clamp the left carotid artery to improve cerebral perfusion pressure through extracranial collaterals; alternatively, the left carotid can be left open while monitoring the cerebral oximeter and then clamped if the left-sided cerebral oximetry saturations diminish. Upon completion of arch reconstruction, the innominate clamp is removed as the CPB flow is slowly increased to full flow. Once de-airing is complete, the proximal graft is clamped and the distal suture line is checked for hemostasis after pressurization. Rewarming is then commenced.
 
-<span id="fig-3-5b"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-3-5b"></span>![](_page_5_Picture_7.jpeg)
 
 **FIGURE 3.5b**
 
@@ -192,7 +192,7 @@ Once target temperature is reached, arterial inflow is lowered to 10 mL/kg/min. 
 
 Rewarming to near-normothermia is as critical a step as cooling and circulatory arrest. Careful attention to all parameters of mean arterial pressure, pH, glycemia, hematocrit, and cerebral oximetry is necessary to avoid further cerebral ischemia-reperfusion injury. In the case of RCP or DHCA, antegrade perfusion is recommenced through a cannula in a side arm of the distal aortic graft used for arch reconstruction ([Fig. 3.6](#fig-3-6)) and, in cases using SACP, perfusion is resumed at full flow through the axillary artery cannulation site once the innominate artery clamp is removed. Larger patients or those with small arch vessels may require an additional cannula placed in an aortic graft side arm to provide adequate bypass circuit flows for optimum cardiac output.
 
-<span id="fig-3-6"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-3-6"></span>![](_page_6_Picture_5.jpeg)
 
 **FIGURE 3.6**
 
