@@ -117,11 +117,11 @@ Alternatively, postinfarction VSD closure with multiple patches has been reporte
 
 When technically possible, the free wall infarct may be excluded with a 2-0 polypropylene pursestring suture placed around the endocardial base of the infarcted myocardium, similar to a Dor procedure for left ventricular aneurysmectomy ([Fig. 9.1b](#fig-9-1b)). Viable myocardium is reapproximated with felt-reinforced mattress sutures. Large defects are covered with a pericardial or synthetic patch. The septal defect is closed separately.
 
-<span id="fig-9-1a"></span>![](_page_3_Picture_2.jpeg)
+<span id="fig-9-1a"></span>![](_page_2_Picture_1.jpeg)
 
 **FIGURE 9.1a** Patch repair for anterior VSD.
 
-<span id="fig-9-1b"></span>![](_page_3_Picture_3.jpeg)
+<span id="fig-9-1b"></span>![](_page_2_Picture_2.jpeg)
 
 **FIGURE 9.1b** Infarct exclusion (Dor‑type) for anterior VSD.
 
@@ -133,7 +133,7 @@ When technically possible, the free wall infarct may be excluded with a 2-0 poly
 
 Posterior VSDs are approached through a left ventriculotomy parallel to the posterior descending artery near the base of the heart ([Fig. 9.2](#fig-9-2)). These repairs are more complex, due to the challenging nature of the exposure and the close proximity of the mitral valve annulus, subvalvular apparatus, and posteromedial papillary muscle. We favor infarct exclusion as the method of repair for posterior VSDs. Initially reported by David et al., this method of repair consists of limited debridement and placement of an entirely intracardiac pericardial or synthetic patch circumferentially along the left ventricular endocardium, thus excluding the septal defect from the reconstructed left ventricular cavity. Meticulous care is taken to maintain normal ventricular dimensions and to prevent distortion of adjacent structures. This technique offers the potential advantage of decreased manipulation of the right ventricle and often friable septum.
 
-<span id="fig-9-2"></span>![](_page_4_Picture_5.jpeg)
+<span id="fig-9-2"></span>![](_page_3_Picture_9.jpeg)
 
 **FIGURE 9.2** Left ventriculotomy for posterior VSD (parallel to posterior descending artery).
 
