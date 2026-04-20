@@ -117,7 +117,7 @@ Preoperative assessment for patients undergoing an upper hemisternotomy MIS proc
 
 Preoperative pulmonary function tests should be performed in all patients undergoing a right anterolateral mini-thoracotomy MIS approach. In addition, a preoperative CT exam should be performed in order to rule out a leftward shift of the ascending aorta for such procedures. At least part of the ascending aorta should lie right of the sternal border at the level of the pulmonary bifurcation ([Fig. 12.1](#fig-12-1)). In addition, the distance from the right second intercostal space to the aortic valve should be 10 cm or less at the level of the pulmonary bifurcation in the sagittal view.
 
-<span id="fig-12-1"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-12-1"></span>![](_page_12_Picture_1.jpeg)
 
 **FIGURE 12.1** Preoperative computed tomography examination confirming that the ascending aorta lies at least partially to the right of the sternum at the level of the pulmonary bifurcation.
 
@@ -145,19 +145,19 @@ Patients can be extubated according to institutional protocol. Although extubati
 
 A skin incision 6–8 cm in length is made starting 1–2 cm above the sternal manubrium junction and extending 5–7 cm toward the xiphoid ([Fig. 12.2](#fig-12-2)). The incision is continued from the skin down to the sternum with electrocautery. An oscillating sternal saw is used to divide the sternum midline from the sternal notch to the level of the fourth intercostal space. Division of the sternum is then either continued as a "J" or "T" to the fourth intercostal space.
 
-<span id="fig-12-2"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-12-2"></span>![](_page_12_Picture_2.jpeg)
 
 **FIGURE 12.2** Skin incision for upper hemisternotomy.
 
 Four pericardial stay sutures are placed at the four "corners" of the incision, then pulled up with force in order to bring the mediastinal structures closer to the skin. The position of the right atrial appendage (RAA) relative to the exposed operative field is then carefully examined, in order to decide on the optimal venous cannulation technique ([Fig. 12.3](#fig-12-3)).
 
-<span id="fig-12-3"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-12-3"></span>![](_page_12_Picture_3.jpeg)
 
 **FIGURE 12.3** Exposure of the right atrial appendage.
 
 The venous cannula can be carefully tunneled between the pericardium and posterior sternum, prior to insertion in the RAA ([Fig. 12.4](#fig-12-4)). Other options include direct cannulation of the atrial appendage through the incision, or percutaneous cannulation of the femoral vein under echocardiographic guidance.
 
-<span id="fig-12-4"></span>![](_page_3_Picture_10.jpeg)
+<span id="fig-12-4"></span>![](_page_12_Picture_4.jpeg)
 
 **FIGURE 12.4** Tunnelling of venous cannula between pericardium and sternum.
 
@@ -177,7 +177,7 @@ A Finochietto retractor is inserted, pericardial stay sutures are placed, and th
 
 Two pursestring sutures are placed on the distal ascending aorta or aortic arch, while the assistant gently retracts the aorta inferiorly using a curved Adson retractor ([Fig. 12.5](#fig-12-5)). Aortic cannulation is performed in the standard manner thereafter, while the assistant continues to apply gentle downward traction. We prefer an 18 Fr or 20 Fr FemFlex cannula (Edwards Lifesciences, Irvine, CA), although caution must be employed in order to avoid damaging the posterior aortic wall with the tip of the obturator. A needle vent (DLP 14 g Aortic Root Cannula, Medtronic, Minneapolis, MN) is used for administering antegrade cardioplegia, as well as to assist in de-airing the heart at the conclusion of the case. In patients with more than mild aortic regurgitation, we prefer to fibrillate the heart with a fibrillator, followed by transverse aortotomy and direct cardioplegia delivery via the coronary ostia. Direct antegrade cardioplegia can be administered via indwelling Polystan catheters (Vitalcor, Medical Technology in Motion, Westmont, IL) or temporary placement of "hockey sticks" (Sorin, Mirandola, Italy). We do not use retrograde cardioplegia because of difficulties in positioning the catheter via the MIS approach, as well as obscuring of the operative field from blood that runs out of the coronary ostia.
 
-<span id="fig-12-5"></span>![](_page_4_Picture_7.jpeg)
+<span id="fig-12-5"></span>![](_page_12_Picture_5.jpeg)
 
 **FIGURE 12.5** Arterial pursestrings with assistant retracting aorta.
 
@@ -189,7 +189,7 @@ Placement of the left ventricular vent via the right superior pulmonary vein can
 - via the main pulmonary artery (although not as effective in venting the left ventricle)
 - through the dome of the left atrium (approached between the aorta and right atrium) ([Fig. 12.6](#fig-12-6)).
 
-<span id="fig-12-6"></span>![](_page_4_Picture_10.jpeg)
+<span id="fig-12-6"></span>![](_page_12_Picture_6.jpeg)
 
 **FIGURE 12.6** Alternative LV vent placement through dome of left atrium.
 
@@ -201,7 +201,7 @@ Placement of the left ventricular vent via the right superior pulmonary vein can
 
 Once the patient is on CPB, the distal ascending aorta is clamped using a standard aortic cross-clamp, although a low-profile, flexible clamp (Cygnet, Vitalitec, Plymouth, MA) may result in less obstruction of the surgical field. An aortotomy is performed according to the surgeon's preference. We prefer a transverse aortotomy 1 cm superior to the ostium of the right coronary artery. Cardioplegia is given down the ostia using mushroom-tip or hockey-stick catheters in patients with aortic insufficiency ([Fig. 12.7](#fig-12-7)). Once the aorta is opened, the surgical field is continuously flooded with carbon dioxide in order to lower the risk of subsequent air embolization.
 
-<span id="fig-12-7"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-12-7"></span>![](_page_12_Picture_7.jpeg)
 
 **FIGURE 12.7** Direct ostial cardioplegia with hockey‑stick catheter.
 
@@ -213,19 +213,19 @@ Once the patient is on CPB, the distal ascending aorta is clamped using a standa
 
 Standard resection of the aortic valve cusps is performed using valve scissors ([Fig. 12.8](#fig-12-8)). The aortic annulus is thoroughly debrided of calcium using a rongeur. At this point, we prefer to flush the left ventricle of any debris using a bulb syringe. The left ventricular vent should be stopped and a wall sucker positioned in front of the left main ostium during flushing of the ventricle. Three stay sutures may be placed at the top of each commissure in order to improve valve exposure, but we do not find this necessary. Annular non-everting pledgeted mattress sutures are placed in a standard fashion, with the pledgets on the ventricular side of the annulus ([Figs. 12.9 and 12.10](#fig-12-9)). The valve prosthesis is lowered into place using a "shoehorn" technique, then force is applied with the fingertip to the sewing ring between each strut, while maintaining upward tension on the annular sutures. Once the valve sutures have been tied, the coronary ostia are gently probed with a medium right-angle clamp to ensure patency ([Fig. 12.11](#fig-12-11)). The space between the annulus and the sewing ring is also probed circumferentially, in order to assess for a possible paravalvular leak. The use of sutureless aortic valves and automatic knotting devices may simplify these stages of the procedure.
 
-<span id="fig-12-8"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-12-8"></span>![](_page_12_Picture_8.jpeg)
 
 **FIGURE 12.8** Resection of aortic valve cusps.
 
-<span id="fig-12-9"></span>![](_page_6_Picture_2.jpeg)
+<span id="fig-12-9"></span>![](_page_12_Picture_9.jpeg)
 
 **FIGURE 12.9** Annular pledgeted mattress sutures (pledgets on ventricular side).
 
-<span id="fig-12-10"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-12-10"></span>![](_page_12_Picture_10.jpeg)
 
 **FIGURE 12.10** Completed annular suture placement.
 
-<span id="fig-12-11"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-12-11"></span>![](_page_12_Picture_11.jpeg)
 
 **FIGURE 12.11** Probing coronary ostia after valve implantation.
 
@@ -237,17 +237,17 @@ Standard resection of the aortic valve cusps is performed using valve scissors (
 
 The aortotomy is closed with a double layer in order to ensure hemostasis. We prefer a 4-0 polypropylene suture with a horizontal mattress technique for the first layer, followed by an over-and-over running baseball stitch ([Fig. 12.12](#fig-12-12)).
 
-<span id="fig-12-12"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-12-12"></span>![](_page_12_Picture_12.jpeg)
 
 **FIGURE 12.12** Double‑layer aortotomy closure.
 
 Prior to removal of the aortic cross-clamp, de-airing techniques are performed. The heart is filled with venous blood, the left ventricle is compressed with a sponge stick, and the lungs are inflated with sustained positive pressure. In addition, manual compression over the left ventricular apex may be applied externally. The left ventricular vent is stopped prior to these maneuvers, and the needle vent is applied to high suction immediately prior to opening of the cross-clamp. The left ventricular vent is applied to gentle suction following cross-clamp removal ([Fig. 12.13](#fig-12-13)). Once the aortic cross clamp is removed, intracavitary air is assessed by transesophageal echocardiography (TEE). Pacing wires should be placed on the right ventricle while it is completely decompressed, prior to coming off CPB. Care must be taken in avoiding the mammary vessels when passing the pacing wires through the parasternal space and skin ([Fig. 12.14](#fig-12-14)). When TEE confirms adequate de-airing of the left ventricle, the patient is weaned from CPB in a standard fashion.
 
-<span id="fig-12-13"></span>![](_page_7_Picture_5.jpeg)
+<span id="fig-12-13"></span>![](_page_12_Picture_13.jpeg)
 
 **FIGURE 12.13** Needle vent suction during de‑airing.
 
-<span id="fig-12-14"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-12-14"></span>![](_page_12_Picture_14.jpeg)
 
 **FIGURE 12.14** Pacing wire placement avoiding mammary vessels.
 
@@ -259,13 +259,13 @@ Prior to removal of the aortic cross-clamp, de-airing techniques are performed. 
 
 Once surgical hemostasis has been confirmed, protamine is administered. In those patients in whom the venous cannula was tunneled through the subxiphoid space, the chest tube is sutured to the end of the venous cannula with a heavy stitch. The chest tube is then exteriorized by pulling on the subxiphoid portion of the venous cannula ([Fig. 12.15](#fig-12-15)). Pacing wires can also be tunneled in the same fashion.
 
-<span id="fig-12-15"></span>![](_page_8_Picture_7.jpeg)
+<span id="fig-12-15"></span>![](_page_12_Picture_15.jpeg)
 
 **FIGURE 12.15** Exteriorising chest tube via tunnelled venous cannula.
 
 The sternum is closed using six sternal wires: one pair at the manubrium, one pair below the manubrium, and one pair at the "T" portion of the sternal incision. Each pair is fastened together in a figure-eight fashion ([Fig. 12.16](#fig-12-16)). The skin and subcutaneous tissue are closed using a standard technique.
 
-<span id="fig-12-16"></span>![](_page_8_Picture_10.jpeg)
+<span id="fig-12-16"></span>![](_page_12_Picture_16.jpeg)
 
 **FIGURE 12.16** Sternal closure with figure‑eight wires.
 
