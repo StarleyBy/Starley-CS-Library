@@ -106,7 +106,7 @@ It is the authors' strong belief that plans for alternate cannulation need to be
 
 Draping of the patient must be wide and extensive to fully reflect this philosophy. Both the common femoral and axillary arteries provide excellent alternatives and the selection of which to use must be made according to the patient's anatomy. The benefit of groin cannulation ([Fig. 8.1](#fig-8-1)) is relative expediency as the vessel merely needs to be exposed. Severe peripheral vascular disease, or the presence of bulky mural thrombus in the descending thoracic aorta which might embolize into the cerebrovascular tree with retrograde flow from below, might prompt one to consider an axillary approach. The disadvantages of an axillary cannula are that many feel most comfortable with the placement of a Dacron graft versus direct cannulation of the vessel itself. This takes additional time and does require the initiation of some level of anticoagulation up front to prevent graft thrombosis possibly leading to increased bleeding. Preferential flow to the ipsilateral upper extremity is also something to be aware of when considering this approach.
 
-<span id="fig-8-1"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-8-1"></span>![](_page_1_Picture_10.jpeg)
 
 **FIGURE 8.1** Groin cannulation.
 
@@ -116,17 +116,17 @@ If an axillary arterial cannulation approach is selected, an incision is made on
 
 Once cannulation preparations have been made, the old scar is incised ([Fig. 8.2](#fig-8-2)). Clipped wires are left in place to provide tactile feedback when the oscillating saw breaches the posterior table of the sternum. Another approach is to divide up to the posterior table and then utilize heavy scissors to gently divide this final layer under direct vision. It is very important in this approach that the scissor tips are not directed down into the myocardium to avoid injury.
 
-<span id="fig-8-2"></span>![](_page_3_Picture_2.jpeg)
+<span id="fig-8-2"></span>![](_page_2_Picture_4.jpeg)
 
 **FIGURE 8.2** Incision of old scar.
 
 Upon successful sternal division, the process of dissection of the mediastinal contents off the posterior table can begin ([Fig. 8.3a and b](#fig-8-3a)). Either electrocautery or sharp dissection can be utilized. We perform electrocautery to have a dry surgical field and reduce postoperative bleeding.
 
-<span id="fig-8-3a"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-8-3a"></span>![](_page_2_Picture_8.jpeg)
 
 **FIGURE 8.3a** Dissection off posterior table.
 
-<span id="fig-8-3b"></span>![](_page_3_Picture_7.jpeg)
+<span id="fig-8-3b"></span>![](_page_2_Picture_10.jpeg)
 
 **FIGURE 8.3b** Continued dissection.
 
@@ -136,13 +136,13 @@ Should one encounter myocardial bleeding it is imperative to avoid the temptatio
 
 A cautionary word when dissecting free the ascending aorta is warranted ([Fig. 8.4](#fig-8-4)). Beware the overly "clean" dissection plane as this often connotes an exarterectomization of the vessel. This leaves behind an exceedingly fragile partial medial and intimal layer that can rupture either at that time or with subsequent minimal manipulation. A true plane is usually identified by its rather tenacious nature. One should know which of the vein grafts originating off the aorta are patent to avoid their injury or the risk of distal embolization of thrombotic material. In certain cases, when atheromatous vein graft disease is known to exist, transecting them early to avoid potential distal embolization of debris with their manipulation should be considered. Enough aorta needs to be dissected to allow ample room for safe cannulation, aortic root vent/cardioplegia needle placement, and cross-clamping.
 
-<span id="fig-8-4"></span>![](_page_4_Picture_2.jpeg)
+<span id="fig-8-4"></span>![](_page_3_Picture_3.jpeg)
 
 **FIGURE 8.4** Dissecting the ascending aorta.
 
 If the left internal mammary artery (LIMA) has been utilized and is patent, one must be able to isolate and clamp it to prevent washout of cardioplegia and early myocardial recovery in between arresting doses ([Fig. 8.5](#fig-8-5)). In those rare situations where the patent LIMA is inaccessible, deep hypothermia along with systemic hyperkalemia and intermittent retrograde cardioplegia administration may be employed. It has been documented that, when the risk of graft injury precludes the safe mobilization and clamping of the LIMA, alternative strategies such as these have met with equal outcomes. A useful technique to control flow in the IMA is to encircle the vessel with an elastic vessel loop with a blunt needle. Tightening the double loop will control flow through the vessel without the need to dissect it completely free circumferentially.
 
-<span id="fig-8-5"></span>![](_page_4_Picture_6.jpeg)
+<span id="fig-8-5"></span>![](_page_3_Picture_4.jpeg)
 
 **FIGURE 8.5** Isolating and clamping a patent LIMA.
 
@@ -168,25 +168,19 @@ With the heart in full diastolic arrest, one can now commence revascularization.
 
 ### Distal anastomoses</summary><div class="details-content">
 
-There are many options for distal anastomoses. If the hood of the previous saphenous bypass graft is open, one can sew to the original hood ([Fig. 8.6a](#fig-8-6a)) or a remnant of the vein graft left behind after it is transected ([Fig. 8.6b](#fig-8-6b)). If disease involves the previous anastomosis, then a site distally is selected and bypassed using conventional techniques. In the setting of a patent but diseased vein conduit, ligation of the old graft should be considered to prevent potential atheromatous embolization ([Fig. 8.6c](#fig-8-6c)).
+There are many options for distal anastomoses. If the hood of the previous saphenous bypass graft is open, one can sew to the original hood ([Fig. 8.6a](#fig-8-6a)) or a remnant of the vein graft left behind after it is transected ([Fig. 8.6b](#fig-8-6a)). If disease involves the previous anastomosis, then a site distally is selected and bypassed using conventional techniques. In the setting of a patent but diseased vein conduit, ligation of the old graft should be considered to prevent potential atheromatous embolization ([Fig. 8.6c](#fig-8-6a)).
 
-<span id="fig-8-6a"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-8-6a"></span>![](_page_4_Picture_8.jpeg)
 
 **FIGURE 8.6a** Sewing to original hood.
 
-<span id="fig-8-6b"></span>![](_page_5_Picture_3.jpeg)
-
 **FIGURE 8.6b** Sewing to remnant of transected vein graft.
 
-<span id="fig-8-6c"></span>![](_page_5_Picture_4.jpeg)
-
 **FIGURE 8.6c** Ligation of diseased patent vein graft.
-
-A dilemma exists, however, when a LIMA was not used during the original operation and is now being utilized to replace a diseased vein graft ([Fig. 8.7](#fig-8-7)). The same survival advantage seen in first-time CABGs of the LIMA to LAD has been documented in the reoperative cohort as well. The compelling data behind IMA usage even extend to recycling a LIMA conduit that may have developed disease at the distal anastomosis but is otherwise patent. Its successful usage, however relies on a tension-free anastomosis to a target vessel with adequate run-off.
-
-<span id="fig-8-7"></span>![](_page_5_Picture_7.jpeg)
-
+  
 **FIGURE 8.7** LIMA replacing a diseased vein graft.
+
+A dilemma exists, however, when a LIMA was not used during the original operation and is now being utilized to replace a diseased vein graft ([Fig. 8.7](#fig-8-6a)). The same survival advantage seen in first-time CABGs of the LIMA to LAD has been documented in the reoperative cohort as well. The compelling data behind IMA usage even extend to recycling a LIMA conduit that may have developed disease at the distal anastomosis but is otherwise patent. Its successful usage, however relies on a tension-free anastomosis to a target vessel with adequate run-off.
 
 One important consideration is that flow down an immature IMA conduit may be insufficient in the immediate peri- and postoperative periods. It is therefore recommended that an existing vein graft is not ligated in these situations. If the previous venous conduit must be ligated, a new vein graft may be placed proximally or on a diagonal branch to bridge a patient until such time when the new IMA can provide adequate blood flow. It is unknown, however, what deleterious effect on IMA patency may be seen with competitive flow with this strategy.
 
@@ -198,7 +192,7 @@ One important consideration is that flow down an immature IMA conduit may be ins
 
 The proximal orifices of vein grafts are rarely occluded. Therefore the hood of previous vein grafts is often a convenient area to situate the proximal anastomoses to the new vein conduits. When there is insufficient conduit, a concession is often made by performing the proximal anastomosis to the midbody of an existing SVG in an end-to-side fashion ([Fig. 8.8](#fig-8-8)). Sequential grafting also provides an option to deal with inadequate conduit and to reduce the number of proximal anastomoses.
 
-<span id="fig-8-8"></span>![](_page_5_Picture_12.jpeg)
+<span id="fig-8-8"></span>![](_page_4_Picture_9.jpeg)
 
 **FIGURE 8.8** Proximal anastomosis to midbody of existing SVG.
 
