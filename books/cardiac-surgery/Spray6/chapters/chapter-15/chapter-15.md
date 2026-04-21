@@ -152,11 +152,11 @@ Patients undergo mitral valve replacement under general anesthesia using standar
 
 There are several different incisions that can be used to replace the mitral valve. The standard incision is complete median sternotomy. Many surgeons use this routinely. In our practice, its use is limited to those with a contraindication to minimally invasive approaches (very low ejection fraction, dense right chest adhesions, severe MAC, concomitant CAD requiring bypass, ascending aorta >40 mm). [Fig. 15.1a](#fig-15-1a) demonstrates the incision and [Fig. 15.1b](#fig-15-1b) the associated exposure. Also demonstrated is standard bicaval cannulation along with antegrade and retrograde cardioplegia.
 
-<span id="fig-15-1a"></span>![](_page_2_Picture_6.jpeg)
+<span id="fig-15-1a"></span>![](_page_15_Picture_1a.jpeg)
 
 **FIGURE 15.1a** Complete median sternotomy incision.
 
-<span id="fig-15-1b"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-15-1b"></span>![](_page_15_Picture_1b.jpeg)
 
 **FIGURE 15.1b** Exposure with bicaval cannulation.
 
@@ -168,7 +168,7 @@ There are several different incisions that can be used to replace the mitral val
 
 An upper mini-sternotomy incision, as illustrated in [Fig. 15.2](#fig-15-2), can also be used to approach the mitral valve. Access to the valve must be obtained via the left atrial dome as will be detailed later in this chapter. Cannulation can be performed either directly through the incision or peripherally. Bicaval cannulation is unnecessary with this approach given that the right atrium is not entered and the superior vena cava is not occluded by retraction.
 
-<span id="fig-15-2"></span>![](_page_3_Picture_3.jpeg)
+<span id="fig-15-2"></span>![](_page_15_Picture_2.jpeg)
 
 **FIGURE 15.2** Upper mini‑sternotomy incision.
 
@@ -180,7 +180,7 @@ An upper mini-sternotomy incision, as illustrated in [Fig. 15.2](#fig-15-2), can
 
 A lower mini-sternotomy incision ([Fig. 15.3](#fig-15-3)) may be used to perform a minimally invasive mitral valve replacement. A 6–8 cm skin incision is employed over the lower sternum. The lower mini-sternotomy is executed by cutting the sternum from the xiphoid up to the second intercostal space combined with a "T" or upside-down "L", leaving the manubrium intact. Access to the left atrium is gained via Waterston's groove or transeptally and is aided by use of a "McCarthy" mini-sternotomy mitral retractor (Kapp Surgical Instruments, Cleveland, OH). Cannulation can be peripheral or central.
 
-<span id="fig-15-3"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-15-3"></span>![](_page_15_Picture_3.jpeg)
 
 **FIGURE 15.3** Lower mini‑sternotomy incision.
 
@@ -192,7 +192,7 @@ A lower mini-sternotomy incision ([Fig. 15.3](#fig-15-3)) may be used to perform
 
 Mitral valve surgery was performed in the 1960s through a standard generous right anterior–lateral fourth or fifth interspace thoracotomy ([Fig. 15.4](#fig-15-4)) as this approach afforded the easiest access to the mitral valve based on the angle of the valve. Although largely abandoned in favor of median sternotomy, it still has a valuable role for patients with prior surgery, particularly with patent bypass grafts, at centers without experience in advanced minimally invasive right chest approaches to the valve. A Waterston's groove approach is used and cold fibrillatory arrest may be employed with this technique in redo patients (26 °C). Cannulation can be peripheral or central.
 
-<span id="fig-15-4"></span>![](_page_3_Picture_9.jpeg)
+<span id="fig-15-4"></span>![](_page_15_Picture_4.jpeg)
 
 **FIGURE 15.4** Right anterior‑lateral thoracotomy.
 
@@ -204,11 +204,11 @@ Mitral valve surgery was performed in the 1960s through a standard generous righ
 
 Alternatively, a "mini"-thoracotomy ([Fig. 15.5a](#fig-15-5a)) into the right anterior–lateral chest may be employed (fourth or fifth interspace). These incisions are typically 5–10 cm in size although frequently a much larger rib interspace incision is employed to allow for greater rib spreading, improving exposure. Soft-tissue retractors such as the Alexis retractor (Applied Medical, Rancho Santa Margarita, CA) or the CardioVations soft-tissue retractor (Edwards Lifesciences, Irvine, CA) are usually employed. Adjunctive techniques to assist with these smaller incisions are numerous. Long endoscopic instruments are usually used. An endoscopic camera is often employed to improve valve visualization. Peripheral cannulation (femoral artery and vein) is fairly standard in this approach although some centers still employ central cannulation with this technique. Cardiac arrest may be obtained with either a transthoracic aortic clamp or use of the CardioVations Intraclude catheter (Edwards Lifesciences) along with percutaneous coronary sinus retrograde cardioplegia. In addition, many surgeons employ robotic assistance in combination with these "mini"-thoracotomies in order to make the valve portion of the procedure easier, given the increased range of motion of the robotic instruments over standard straight-shafted endoscopic instruments. [Fig. 15.5b](#fig-15-5b) demonstrates the positions of incisions.
 
-<span id="fig-15-5a"></span>![](_page_4_Picture_3.jpeg)
+<span id="fig-15-5a"></span>![](_page_15_Picture_5a.jpeg)
 
 **FIGURE 15.5a** Mini‑thoracotomy incision.
 
-<span id="fig-15-5b"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-15-5b"></span>![](_page_15_Picture_5b.jpeg)
 
 **FIGURE 15.5b** Port positions for mini‑thoracotomy with robotic assistance.
 
@@ -220,11 +220,11 @@ Alternatively, a "mini"-thoracotomy ([Fig. 15.5a](#fig-15-5a)) into the right an
 
 Select centers such as ours routinely employ a "totally endoscopic robotic" approach to isolated mitral valve replacement ([Fig. 15.6a and b](#fig-15-6a)) in which an extremely small working port (35 mm in length) is used in conjunction with the robot, peripheral cannulation, and the endoclamp and percutaneous retrograde system. The port size is larger than that used for repair (15 mm) in order to fit the prosthetic valve into the chest. This procedure requires extensive training and team preparation.
 
-<span id="fig-15-6a"></span>![](_page_4_Picture_8.jpeg)
+<span id="fig-15-6a"></span>![](_page_15_Picture_6a.jpeg)
 
 **FIGURE 15.6a** Totally endoscopic robotic port placement.
 
-<span id="fig-15-6b"></span>![](_page_4_Picture_9.jpeg)
+<span id="fig-15-6b"></span>![](_page_15_Picture_6b.jpeg)
 
 **FIGURE 15.6b** Robotic arms docked.
 
@@ -240,25 +240,25 @@ Sutures are placed in the annulus and exteriorized in a linear fashion at the bo
 
 The classic intracardiac exposure ([Fig. 15.7](#fig-15-7)) of the mitral valve is performed through the intra-atrial groove. Either limited dissection with lateral entry into the left atrium may be performed or the groove can be more extensively dissected medially, which may improve exposure and reduce the risk of pulmonary vein narrowing.
 
-<span id="fig-15-7"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-15-7"></span>![](_page_15_Picture_7.jpeg)
 
 **FIGURE 15.7** Intra‑atrial groove approach.
 
 Although not commonly employed in most centers, a simple way to expose the mitral valve is via the left atrial dome ([Fig. 15.8](#fig-15-8)) between the superior vena cava and the aorta, approximately 1 cm away from the base of the aorta. The aorta is completely encircled and retracted leftward by silastic tubing and by rotation of the aortic cross-clamp leftward. The dome incision is started in the middle then carried toward the superior vena cava then lateral (away from the ventricle) to the left atrial appendage. Stay sutures are placed and handheld "spoon" or "nerve root" retractors are used to expose the valve. This approach does not require bicaval cannulation. It can be used through an upper mini-sternotomy.
 
-<span id="fig-15-8"></span>![](_page_5_Picture_5.jpeg)
+<span id="fig-15-8"></span>![](_page_15_Picture_8.jpeg)
 
 **FIGURE 15.8** Left atrial dome approach.
 
 The mitral valve can easily be exposed via an incision into the atrial septum after making a right atriotomy (transeptal incision, [Fig. 15.9](#fig-15-9)). Bicaval cannulation is performed in combination with caval tapes. The right atrial incision is a standard one starting near the right atrial appendage then carried down to the inferior vena cava (IVC) lateral to the cannula. An incision is then made in the fossa ovalis (never medial to it) and extended superiorly and inferiorly, making sure not to approach the tricuspid valve or coronary sinus/triangle of Koch. Stay sutures are used in four quadrants on both the right atriotomy and the septotomy with hand-held "spoon" retractors as an adjunct.
 
-<span id="fig-15-9"></span>![](_page_5_Picture_8.jpeg)
+<span id="fig-15-9"></span>![](_page_15_Picture_9.jpeg)
 
 **FIGURE 15.9** Transeptal approach.
 
 In cases where exposure is anticipated to be difficult, there is no open technique with better exposure to the mitral valve than the extended superior transeptal approach ([Fig. 15.10](#fig-15-10)). It is essentially a combination of the transeptal approach (see [Fig. 15.9](#fig-15-9)) and the dome approach (see [Fig. 15.8](#fig-15-8)). A right atrial incision is made extending from lateral to the IVC cannula inferiorly up into the right atrial appendage. Stay sutures are placed. A transeptal incision is made into the fossa ovalis of the septum then carried superiorly up and through the middle of the right atrial appendage onto the dome of the left atrium 1 cm lateral to the aorta and then just lateral to the left atrial appendage. Additional stay sutures are then placed into the left atrial/septal incision. Limited manual traction with "spoon" retractors is applied by the assistant.
 
-<span id="fig-15-10"></span>![](_page_6_Picture_2.jpeg)
+<span id="fig-15-10"></span>![](_page_15_Picture_10.jpeg)
 
 **FIGURE 15.10** Extended superior transeptal approach.
 
@@ -272,31 +272,27 @@ We employ this approach in cases where exposure is anticipated to be difficult a
 
 The surgeon must be aware of the important structures surrounding the mitral valve ([Fig. 15.11](#fig-15-11)), particularly when placing sutures in those areas. The challenge is that one cannot see the structures directly but must "know" where they are generally located and avoid them. A common complication is injury or kinking of the circumflex coronary artery (particularly dangerous in right-dominant coronary circulation). This can be caused by the valve sutures as well as the sutures used to close the left atrial appendage. Also seen is massive aortic insufficiency after removal of the aortic cross-clamp caused by catching the non-coronary or left coronary leaflet of the aortic valve. Placing suture bites too high above the anterior leaflet and aortomitral continuity is the usual cause. Less common complications include sewing-in a retrograde coronary sinus cardioplegia cannula or injuring the conducting system.
 
-<span id="fig-15-11"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-15-11"></span>![](_page_15_Picture_11.jpeg)
 
 **FIGURE 15.11** Surrounding structures of the mitral valve.
 
 When feasible, mitral valve replacement should be performed using "chordal sparing" techniques ([Fig. 15.12a–c](#fig-15-12a)). The advantage of this is that it preserves the mechanical scaffolding of the left ventricle, which has been shown to reduce long-term dilatation of the ventricle as well as improve short- and long-term survival. Additionally, incorporating anterior and posterior leaflet tissue into the annular suture line of a replacement likely helps to prevent perivalvular leaks and atrioventricular disruption. There are a variety of ways to accomplish this, as detailed in the figure. Our preferred approach is simply to detach the anterior leaflet off the annulus, drop it on top of the posterior leaflet (where it belongs at end-systole), and incorporate anterior and posterior leaflet tissue into the posterior valve sutures (non-everting, pledgets on ventricular side). The anterior leaflet tissue is trimmed if necessary.
 
-<span id="fig-15-12a"></span>![](_page_6_Picture_10.jpeg)
+<span id="fig-15-12a"></span>![](_page_15_Picture_12.jpeg)
 
 **FIGURE 15.12a** Chordal‑sparing technique – anterior leaflet detached.
 
-<span id="fig-15-12b"></span>![](_page_6_Picture_11.jpeg)
-
 **FIGURE 15.12b** Anterior leaflet dropped onto posterior leaflet.
-
-<span id="fig-15-12c"></span>![](_page_6_Picture_12.jpeg)
 
 **FIGURE 15.12c** Incorporation of leaflet tissue into annular sutures.
 
 Mitral valve replacement may be performed with either everting (intra-annular, with pledgets on the atrial side, [Fig. 15.13](#fig-15-13)) or non-everting (supra-annular, with pledgets on the ventricular side, [Fig. 15.14](#fig-15-14)). Each has advantages and disadvantages. Advantages of the everting technique include a decreased chance of residual valve tissue interfering with mechanical valve function. Different types of mechanical valves may be more or less prone to this problem. The everting technique may be more protective of a perivalvular leak, although this is highly debatable. The everting technique does put much more stress on the atrioventricular groove and may have the disadvantage of being more likely to be associated with atrioventricular disruption, although this is unproven. Also, a smaller valve may be required with an intra-annular technique. On the other hand, the non-everting technique is simple, reduces stress on the atrioventricular groove, and is applicable to either bioprosthetic or mechanical valves.
 
-<span id="fig-15-13"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-15-13"></span>![](_page_15_Picture_13.jpeg)
 
 **FIGURE 15.13** Everting (intra‑annular) technique – pledgets on atrial side.
 
-<span id="fig-15-14"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-15-14"></span>![](_page_15_Picture_14.jpeg)
 
 **FIGURE 15.14** Non‑everting (supra‑annular) technique – pledgets on ventricular side.
 
