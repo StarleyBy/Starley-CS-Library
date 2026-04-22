@@ -126,7 +126,7 @@ Double lumen endotracheal tubes are preferable as the right lung is deflated whe
 
 The patient is positioned in a modified 30-degree left lateral decubitus position with the aid of a large bump tucked under the right torso. The patient should be shifted towards the right side of the operating room table to minimize the distance from the operating surgeon. Prior to draping the patient, we routinely mark with a sterile pen the suprasternal notch, the xiphoid process, the midline of the sternum, the inferior border of the right clavicle, the costal margins, the anterior axillary line, the border of the nipple circumferentially, and the femoral arterial pulse, preferably in the right groin ([Fig. 17.1](#fig-17-1)).
 
-<span id="fig-17-1"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-17-1"></span>![](_page_17_Picture_1.jpeg)
 
 **FIGURE 17.1** Preoperative skin markings for MAMVS.
 
@@ -140,7 +140,7 @@ An oblique right groin incision overlying the femoral vessels at the inguinal li
 
 The right mini-thoracotomy is the initial incision that is made in the chest ([Fig. 17.2](#fig-17-2)). In males, this is a 6 cm incision that is made under the nipple and extending laterally. In females, this is also a 6 cm incision but is made just superior to the inframammary crease. We have found that placing the incision just above the crease causes less discomfort as bras sit right in the crease and cause irritation if the incision is made there. After skin incision, the subcutaneous tissue is divided with electrocautery and the fourth interspace entered with the right lung deflated. A small thoracotomy is made first and the surgeon's index finger is inserted to palpate the proximity of the diaphragm. Occasionally, we will enter an interspace above if the incision is made too close to the diaphragm. After confirming that the interspace is suitable, the thoracotomy is extended medially and laterally.
 
-<span id="fig-17-2"></span>![](_page_2_Picture_9.jpeg)
+<span id="fig-17-2"></span>![](_page_17_Picture_2.jpeg)
 
 **FIGURE 17.2** Right mini‑thoracotomy incision.
 
@@ -156,7 +156,7 @@ A Weitlaner retractor is placed in the right groin incision and a 4-0 Prolene pu
 
 A needle with a syringe is then inserted into the femoral vein, a long wire is fed into the inferior vena cava and then right atrium under echocardiographic guidance, and the vein is dilated with a dilator. We typically use a 25-French venous cannula over the wire and position it under echocardiographic guidance. This cannula is then connected with the superior vena cava cannula via a Y-connector ([Fig. 17.3](#fig-17-3)). We usually do not secure the femoral venous cannula with any stitches as repositioning is often necessary.
 
-<span id="fig-17-3"></span>![](_page_3_Picture_3.jpeg)
+<span id="fig-17-3"></span>![](_page_17_Picture_3.jpeg)
 
 **FIGURE 17.3** Femoral venous cannula connected to SVC cannula via Y‑connector.
 
@@ -180,7 +180,7 @@ If the endoballoon is used, the balloon is inflated via the blue port with a 30�
 
 After adequate cardioplegia has been delivered, a long handled #11 blade is used to incise the left atrium. A pump sucker is placed inside the left atrium and Potts scissors are used to extend the atriotomy cephalad towards the SVC and inferiorly between the right inferior pulmonary vein and the inferior vena cava. A Ti-Cron suture is placed on the upper lip of the atriotomy in the middle in a figure-eight fashion and then secured on a suture guide. The left hand of the surgeon is placed inside the chest to palpate the right internal mammary artery and the edge of the sternum and an incision is made with a #11 blade just on the right edge of the sternum. A krile is introduced into the chest via this incision. The metal obturator for the left atrial retractor is then placed in this incision and the retractor is introduced into the chest via the mini-thoracotomy on a long holder ([Fig. 17.4](#fig-17-4)). The obturator is screwed onto the retractor and the retractor placed inside the left atrium, with retraction upwards to expose the mitral valve. The metal piece is then secured to an arm holder that is attached to the left-sided rail of the operating table to keep the retractor in place. A floppy sucker is placed through the CO₂ port and into the left inferior pulmonary vein. The 0-degree camera is exchanged for a 30-degree camera.
 
-<span id="fig-17-4"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-17-4"></span>![](_page_17_Picture_4.jpeg)
 
 **FIGURE 17.4** Left atrial retractor in place via mini‑thoracotomy.
 
