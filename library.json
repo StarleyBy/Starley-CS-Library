@@ -56,7 +56,8 @@
       "title": "Cardiovascular System",
       "path": "books/cardiovascular-system",
       "books": [
-            { "folder": "cardiovascular-system-glance" }
+            { "folder": "cardiovascular-system-glance" },
+            { "folder": "handbook-of-cardiac-anatomy" }
       ]
     },
      {
