@@ -80,51 +80,51 @@ Assessment considerations are divided into cardiac and non-cardiac consideration
 
 Hemodynamic monitoring is performed using a pulmonary artery catheter, arterial line, and TEE. After induction and skin preparation, a midline sternotomy incision is performed. A preperitoneal pocket is made using sharp and blunt dissection in the case of HMII implantation ([Fig. 26.1](#fig-26-1)). As VAD placements are most often repeat sternotomies, extra care must be taken during the dissection of the LV from the scar tissue. Following this dissection, the patient is systemically heparinized.
 
-<span id="fig-26-1"></span>![](_page_2_Picture_4.jpeg)
+<span id="fig-26-1"></span>![](_page_26_Picture_1.jpeg)
 
 **FIGURE 26.1** Preperitoneal pocket created for HeartMate II implantation.
 
 Aortic cannulation should be placed as high as possible, close to the arch ([Fig. 26.2](#fig-26-2)). Single two-stage venous cannulation will suffice in the majority of cases, but bicaval cannulation may afford better drainage and, in the case of a right ventricular device, the appendage can be used for venous return with the VAD cannula. Cardiopulmonary bypass (CPB) is then initiated. If more dissection of the LV is needed, it is performed at this time with the heart beating but decompressed. At this point, the driveline is tunneled percutaneously under the rectus muscle to exit usually over the left upper quadrant of the abdomen ([Fig. 26.3](#fig-26-3)).
 
-<span id="fig-26-2"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-26-2"></span>![](_page_26_Picture_2.jpeg)
 
 **FIGURE 26.2** Cannulation strategy for cardiopulmonary bypass.
 
-<span id="fig-26-3"></span>![](_page_2_Picture_8.jpeg)
+<span id="fig-26-3"></span>![](_page_26_Picture_3.jpeg)
 
 **FIGURE 26.3** Driveline tunnelled out through upper abdomen using device tunneller (far enough from costal margin to prevent rubbing).
 
 The heart is then elevated, bringing the LV to the midline of the wound. Pledgeted Ethibond® sutures are placed circumferentially around a chosen spot for the inflow cannula ([Fig. 26.4a‑b](#fig-26-4a)). Proper orientation of the inflow cannula is crucial to postoperative success: it must be pointed towards the left ventricular outflow tract for optimal flow and placed at the apex. Sutures are then placed through the sewing ring, which is then seated.
 
-<span id="fig-26-4a"></span>![](_page_3_Picture_2.jpeg)
+<span id="fig-26-4a"></span>![](_page_26_Picture_4a.jpeg)
 
 **FIGURE 26.4a** Suture placement for HeartMate II sewing ring.
 
-<span id="fig-26-4b"></span>![](_page_3_Picture_3.jpeg)
+<span id="fig-26-4b"></span>![](_page_26_Picture_4b.jpeg)
 
 **FIGURE 26.4b** Suture placement for HVAD sewing ring.
 
 At this point, the patient is placed in Trendelenberg position in preparation for coring. The heart is emptied and a cruciate incision is made at the apex. The coring tool is used to perform the left ventriculotomy ([Fig. 26.5a‑b](#fig-26-5a)). Following coring, the ventricle is inspected for crossing fibers, thrombus, or muscle, and any identified is resected. Once clear, the heart is de-aired and the inflow cannula of the pump is inserted ([Fig. 26.6a‑b](#fig-26-6a)). The pump is secured after proper orientation is confirmed, and the heart is then placed back in its normal anatomic position in the chest.
 
-<span id="fig-26-5a"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-26-5a"></span>![](_page_26_Picture_5a.jpeg)
 
 **FIGURE 26.5a** Coring for HeartMate II.
 
-<span id="fig-26-5b"></span>![](_page_3_Picture_7.jpeg)
+<span id="fig-26-5b"></span>![](_page_26_Picture_5b.jpeg)
 
 **FIGURE 26.5b** Coring for HVAD.
 
-<span id="fig-26-6a"></span>![](_page_3_Picture_9.jpeg)
+<span id="fig-26-6a"></span>![](_page_26_Picture_6a.jpeg)
 
 **FIGURE 26.6a** Inflow cannula insertion – HeartMate II.
 
-<span id="fig-26-6b"></span>![](_page_3_Picture_10.jpeg)
+<span id="fig-26-6b"></span>![](_page_26_Picture_6b.jpeg)
 
 **FIGURE 26.6b** Inflow cannula insertion – HVAD.
 
 Further de-airing is then performed through the outflow graft. The graft is then measured, clamped, and cut. A partial occluding clamp is placed on the greater curvature of the ascending aorta. After aortotomy, a running end-to-side anastomosis with 4-0 Prolene is performed ([Fig. 26.7](#fig-26-7)).
 
-<span id="fig-26-7"></span>![](_page_4_Picture_5.jpeg)
+<span id="fig-26-7"></span>![](_page_26_Picture_7.jpeg)
 
 **FIGURE 26.7** Aortic anastomosis (end‑to‑side with running Prolene).
 
