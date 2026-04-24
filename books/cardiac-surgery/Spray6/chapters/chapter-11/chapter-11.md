@@ -187,7 +187,7 @@ We use mild systemic hypothermia (34 °C). Cold blood cardioplegia (4 °C) i
 
 For stentless AVR or the Ross procedure, complete transection of the aorta above the sinotubular junction (STJ) offers ideal aortic root exposure. For stented AVR, transverse or oblique (hockey-stick) aortotomy is preferred ([Fig. 11.1](#fig-11-1)). In both techniques, the incision is started anteriorly 1 cm above the STJ. In cases where the STJ is narrow, extending the incision obliquely into the non-coronary sinus allows easier passage of a large valve prosthesis. This incision can be extended into the aortic annulus or further into the anterior mitral leaflet in cases requiring aortic root enlargement. Commissural sutures are pulled outward to improve valve and root exposure.
 
-<span id="fig-11-1"></span>![](_page_3_Picture_2.jpeg)
+<span id="fig-11-1"></span>![](_page_2_Picture_10.jpeg)
 
 **FIGURE 11.1** Transverse aortotomy for stented AVR.
 
@@ -199,13 +199,13 @@ For stentless AVR or the Ross procedure, complete transection of the aorta above
 
 Valve leaflets excision is started at the commissures. Using scissors, the aortic valve leaflets are resected en bloc at their hinge point ([Fig. 11.2](#fig-11-2)). Further debridement is carefully performed using a rongeur. The aim is to remove all calcium at the level of the annulus in order to suture the prosthesis into pliable tissues, which reduces the risk of paravalvular leaks. Care should be taken to avoid disruption of the annulus in cases of generous debridement, as well as preventing calcium fragments from falling into the left ventricle, as these may embolize systemically or into the coronary ostia.
 
-<span id="fig-11-2"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-11-2"></span>![](_page_2_Picture_11.jpeg)
 
 **FIGURE 11.2** En bloc resection of aortic valve leaflets.
 
 The annulus is then sized ([Fig. 11.3](#fig-11-3)) and an appropriate prosthesis chosen. Patient body surface area (BSA) and valve effective orifice area (EOA) characteristics should be considered to avoid PPM. If PPM is anticipated, a root enlargement procedure should be performed to fit a larger prosthesis. An alternative to root enlargement procedures is full root replacement using a stentless bioprosthetic root, which eliminates the risk of PPM. In addition, the importance of implanting a large stented bioprosthesis at first operation is increasingly important should a valve-in-valve procedure be considered.
 
-<span id="fig-11-3"></span>![](_page_3_Picture_8.jpeg)
+<span id="fig-11-3"></span>![](_page_3_Picture_2.jpeg)
 
 **FIGURE 11.3** Annular sizing.
 
@@ -221,35 +221,35 @@ The annulus is then sized ([Fig. 11.3](#fig-11-3)) and an appropriate prosthesis
 
 Pledgeted Ticron 2-0 U-stitches are used to secure the prosthesis to the annulus ([Fig. 11.4](#fig-11-4)). Typically, four or five pledgeted sutures are needed per sinus. The sutures should be strong enough but not include too much annular tissue to avoid crowding the space beneath the prosthesis, which may cause turbulence and favor pannus formation. Attention should be given when placing the sutures at the level of the right and non-coronary cusp commissure to avoid injury to the conduction tissue. These sutures should follow the crown shape of the annulus instead of a straight line in the subcommissural triangle. Pledgets can be placed on the aortic side or ventricular side. We prefer placing them on the ventricular side because it allows a larger prosthetic valve in a supraaortic position. However, when implanting mechanical prostheses, pledgets are placed on the aortic side to ensure proper placement of the prosthesis and avoid losing any pledgets in the ventricular cavity.
 
-<span id="fig-11-4"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-11-4"></span>![](_page_3_Picture_6.jpeg)
 
 **FIGURE 11.4** Pledgeted sutures placed in the annulus.
 
 Once all sutures are placed in the sewing ring, the prosthesis is lowered onto the annulus ([Fig. 11.5](#fig-11-5)). Care should be taken not to force the prosthesis to avoid aortic tearing or prosthesis deformation. Sutures are tied at the nadir of each sinus first to ensure proper placement of the prosthesis and avoid obstruction of the coronary ostia.
 
-<span id="fig-11-5"></span>![](_page_4_Picture_6.jpeg)
+<span id="fig-11-5"></span>![](_page_3_Picture_7.jpeg)
 
 **FIGURE 11.5** Prosthesis lowered onto the annulus.
 
 After the prosthesis is tied in place, the coronary ostia should be visible ([Fig. 11.6](#fig-11-6)). In case of doubt about potential paravalvular leaks, a small right-angle clamp is used to probe the spaces between the sutures.
 
-<span id="fig-11-6"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-11-6"></span>![](_page_11_Picture_6.jpeg)
 
 **FIGURE 11.6** Completed stented prosthesis with visible coronary ostia.
 
 In patients with a small aortic annulus, annular enlargement should be considered. To do this, the aortotomy is extended toward the nadir of the non-coronary sinus. Depending on the targeted degree of annular enlargement, the incision can be continued into the aortic annulus, or further into the anterior leaflet of the mitral valve ([Fig. 11.7](#fig-11-7)).
 
-<span id="fig-11-7"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-11-7"></span>![](_page_11_Picture_7.jpeg)
 
 **FIGURE 11.7** Aortotomy extension into non‑coronary sinus and anterior mitral leaflet.
 
 Once the incision has been prolonged, the space is filled with a diamond-shaped patch of Dacron or bovine pericardium, sutured first to the anterior leaflet of the mitral valve ([Fig. 11.8](#fig-11-8)). When both limbs of the suture have passed beyond the native aortic annulus, the prosthesis is sutured into place as previously described. The non-coronary sinus is then sutured to the interposition graft ([Fig. 11.9](#fig-11-9)), before the aortotomy is fully closed. Extending the incision into the anterior leaflet of the mitral valve allows the placing of a prosthesis one or two sizes larger than the original measurement.
 
-<span id="fig-11-8"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-11-8"></span>![](_page_11_Picture_8.jpeg)
 
 **FIGURE 11.8** Diamond‑shaped patch sutured to anterior mitral leaflet.
 
-<span id="fig-11-9"></span>![](_page_5_Picture_7.jpeg)
+<span id="fig-11-9"></span>![](_page_11_Picture_9.jpeg)
 
 **FIGURE 11.9** Non‑coronary sinus sutured to interposition patch.
 
@@ -263,23 +263,23 @@ Stentless AVR can be performed using the total root or the subcoronary technique
 
 First, the sinuses of Valsalva from the xenograft root are resected, leaving 2–3 mm of sinus wall at the attachment of the leaflets ([Fig. 11.10](#fig-11-10)). Three 4-0 polypropylene sutures are then placed at each commissure, and through the stentless root ([Fig. 11.11](#fig-11-11)). The stentless root is lowered and the proximal suture line is performed at the level of the aortic annulus ([Fig. 11.12](#fig-11-12)). The second suture line is then performed following the crown shape of the xenograft onto the native sinus wall ([Fig. 11.13](#fig-11-13)), ensuring coronary ostial permeability ([Fig. 11.14](#fig-11-14)).
 
-<span id="fig-11-10"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-11-10"></span>![](_page_11_Picture_10.jpeg)
 
 **FIGURE 11.10** Resection of xenograft sinuses, leaving 2‑3 mm sinus wall.
 
-<span id="fig-11-11"></span>![](_page_6_Picture_4.jpeg)
+<span id="fig-11-11"></span>![](_page_11_Picture_11.jpeg)
 
 **FIGURE 11.11** Commissural sutures placed through stentless root.
 
-<span id="fig-11-12"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-11-12"></span>![](_page_11_Picture_12.jpeg)
 
 **FIGURE 11.12** Proximal suture line at aortic annulus.
 
-<span id="fig-11-13"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-11-13"></span>![](_page_11_Picture_13.jpeg)
 
 **FIGURE 11.13** Second suture line following crown shape onto native sinus wall.
 
-<span id="fig-11-14"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-11-14"></span>![](_page_11_Picture_14.jpeg)
 
 **FIGURE 11.14** Completed stentless root with patent coronary ostia.
 

@@ -110,11 +110,11 @@ Once a patient is diagnosed with severe AS (Stage D), the first step is risk str
 
 Every TAVR evaluation begins with a transthoracic echocardiogram (TTE). Based on this test, aortic valve morphology (tricuspid vs bicuspid), valve function, aortic sinus/root anatomy and size can be determined. It is not absolutely necessary to obtain a transesophageal echocardiogram (TEE) unless the TTE is inadequate due to body habitus or valve calcification. While the TTE can provide some details in determining aortic annular size, the standard of care is to use a gated cardiac computed tomography angiogram (CTA) for annular sizing. The area, circumference/perimeter, and the major and minor axes of the annulus are calculated. Sapien valves are determined based on the annular area whereas Evolut R valves are based on annular perimeter measurements ([Fig. 13.1a‑b](#fig-13-1a)). In addition to the annular dimensions, the sinus of Valsalva, sinotubular junction, and coronary ostia heights above the annulus should be measured. For access planning, a CTA of the chest, abdomen, and pelvis is also indicated to evaluate the entire aorta and aortobifemoral anatomy for tortuosity and should be completed at the same time as the gated cardiac CTA. The iliofemoral vessels should be assessed for the location and morphology of calcification, degree of vessel tortuosity, and minimum diameters. Patients must also undergo coronary angiography to determine the presence of coronary artery disease. Flow-limiting stenosis in one or more coronary arteries should be discussed with the heart team to determine treatment options, including percutaneous coronary intervention pre/post TAVR, CABG, and SAVR, or hybrid options. Currently, there is a lack of evidence to direct decision-making in regards to revascularization approach and TAVR.
 
-<span id="fig-13-1a"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-13-1a"></span>![](_page_13_Picture_1a.jpeg)
 
 **FIGURE 13.1a** Annular area measurement for Sapien valve sizing.
 
-<span id="fig-13-1b"></span>![](_page_2_Picture_8.jpeg)
+<span id="fig-13-1b"></span>![](_page_13_Picture_1b.jpeg)
 
 **FIGURE 13.1b** Coronal view – annular, STJ, and ascending aortic diameters.
 
@@ -126,11 +126,11 @@ Every TAVR evaluation begins with a transthoracic echocardiogram (TTE). Based on
 
 Multiple studies have demonstrated that transfemoral TAVR has the best outcomes and least complications when iliofemoral anatomy is suitable. As delivery devices have decreased in size, approximately 75–85% of patients undergoing TAVR evaluation have suitable anatomy for a transfemoral approach via percutaneous or direct femoral cutdown. In the transfemoral approach, mild to moderate (non-circumferential) calcifications of the iliofemoral arteries are acceptable and diameters must be at least 5.5–6.0 mm, depending on device. Moderate to severe tortuosity of the iliac arteries with significant calcification is prohibitive to sheath advancement due to risk of arterial rupture, and alternative access sites are indicated. However, severely tortuous iliac arteries without calcifications can usually be straightened with a stiff guidewire ([Fig. 13.2a‑b](#fig-13-2a)).
 
-<span id="fig-13-2a"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-13-2a"></span>![](_page_13_Picture_2a.jpeg)
 
 **FIGURE 13.2a** Significant right iliac tortuosity without calcification.
 
-<span id="fig-13-2b"></span>![](_page_3_Picture_5.jpeg)
+<span id="fig-13-2b"></span>![](_page_13_Picture_2b.jpeg)
 
 **FIGURE 13.2b** After stiff guidewire – straightened iliac artery.
 
@@ -142,11 +142,11 @@ If the iliofemoral arteries are severely calcified, tortuous, and too small for 
 
 There are several considerations for valve choice. In the United States, there are two TAVR valves commercially available: the balloon-expandable Sapien family (S3) (Edwards Lifesciences, Irvine, CA) made of bovine pericardium mounted in a cylindrical, short cobalt chromium stent ([Fig. 13.3](#fig-13-3)), and the self-expanding CoreValve Evolut PRO (Medtronic, Minneapolis, MN) made from porcine pericardium and mounted in a tall nitinol stent ([Fig. 13.4](#fig-13-4)). There are few absolute reasons for device preference and decision-making should be based on valve characteristics in reference to various anatomical considerations and user experience. The balloon-expandable Sapien S3 valve is generally preferable in patients with a severely angulated ascending aorta (>70 degrees) or a dilated ascending aorta (>43 mm). Additionally, the Sapien valve is the only commercially available valve approved in the United States for the transapical approach. The self-expanding CoreValve Evolut PRO is preferred in a heavily calcified aortic annulus due to theoretical risk of rupture with a balloon-expandable valve, the ability to recapture the valve prior to final deployment, and its smaller 14 Fr access sheath, which accommodates femoral arteries ≥5.5 mm (as compared to the 16 Fr sheath used for the Sapien valve that mandates vessels ≥6.0 mm).
 
-<span id="fig-13-3"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-13-3"></span>![](_page_13_Picture_3.jpeg)
 
 **FIGURE 13.3** Balloon‑expandable Edwards Sapien 3 valve.
 
-<span id="fig-13-4"></span>![](_page_4_Picture_5.jpeg)
+<span id="fig-13-4"></span>![](_page_13_Picture_4.jpeg)
 
 **FIGURE 13.4** Self‑expanding CoreValve Evolut PRO valve.
 
@@ -174,7 +174,7 @@ One of the main complications of TAVR intraoperatively is hemodynamic collapse o
 
 Transfemoral access is the least invasive and should be the preferred approach with suitable anatomy. Based upon the CTA or aortobifemoral angiogram, the femoral artery with less calcification and tortuosity should be used for the device and the contralateral femoral artery for diagnostic catheters. After the patient is prepped and draped, the fluoroscopic C-arm should be positioned over the patient. The first step is to obtain femoral arterial access with a 6 Fr sheath and femoral venous access and 7 Fr sheath on the non-device side. A temporary pacing wire is advanced through the femoral vein to the apex of the right ventricle, and pacing thresholds and capture should be verified. Next, with fluoroscopic guidance, a 6 Fr pigtail catheter is advanced through the femoral arterial sheath into the right coronary cusp for balloon expandable valves or the non-coronary cusp for self-expanding valves. Aortography is then performed to determine the optimal fluoroscopic working angle for device deployment ([Fig. 13.5](#fig-13-5)). It is critical to obtain a coplanar view with the inferior aspect of all three coronary cusps on the same plane. Femoral access on the device side is then obtained with a 6 Fr sheath. An ultrasound can be used to locate the common femoral artery, ensuring the artery is entered above the profunda and areas of calcification are avoided. Single arterial puncture in the common femoral artery on the device side cannot be overemphasized and is the most important step to minimize arterial complications and the need for surgical cutdown. Percutaneous access approaches are always favored at our institution unless there is significant atherosclerotic disease and calcification. If percutaneously accessed, two Perclose ProGlide (Abbot Vascular, Santa Clara, CA) devices are used to pre-close the puncture site. Alternatively, a surgical cutdown to obtain femoral arterial access can be performed. A 160 cm 0.35-inch J wire is inserted into the femoral artery and serial dilators are used to accommodate a 16 Fr sheath for the Sapien S3 and a 14 Fr sheath for the CoreValve Evolut R valve. Heparin is then administered to achieve an activated clotting time (ACT) of 250–300 seconds.
 
-<span id="fig-13-5"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-13-5"></span>![](_page_13_Picture_5.jpeg)
 
 **FIGURE 13.5** Aortogram to determine coplanar view (LCC, RCC, NCC).
 
@@ -184,11 +184,11 @@ Next, the valve-delivery system is inserted over the wire and advanced to the ao
 
 The optimal landing zone is dependent on the type of valve being used and it is important to follow each manufacturer's instructions for use. Positioning is done using fluoroscopic guidance and TEE if available. The CoreValve Evolut PRO should be positioned 3–5 mm below the annulus ([Fig. 13.6](#fig-13-6)), while the Sapien S3 valve is positioned so that 20% of the valve is below the annulus in the LV and 80% of the valve is on the aortic side after deployment ([Fig. 13.7](#fig-13-7)). An aortogram is generally performed to verify correct placement before deployment is started.
 
-<span id="fig-13-6"></span>![](_page_6_Picture_4.jpeg)
+<span id="fig-13-6"></span>![](_page_13_Picture_6.jpeg)
 
 **FIGURE 13.6** CoreValve Evolut PRO positioning (3‑5 mm below annulus).
 
-<span id="fig-13-7"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-13-7"></span>![](_page_13_Picture_7.jpeg)
 
 **FIGURE 13.7** Sapien S3 positioning (20% below annulus, dashed line).
 
@@ -208,11 +208,11 @@ The transaxillary approach is the second preferred option as it is the least inv
 
 First, a femoral artery is accessed and a pigtail catheter is placed for an aortogram catheter, and a transvenous pacing wire is placed through the femoral vein into the apex of the right ventricle. The left or right axillary artery can be used but the left provides more stability for the delivery system with less concern for carotid occlusion with the delivery sheath. The incision should be approximately one fingerbreadth below the clavicle in the midclavicular line. Surgical cutdown is performed by separating the pectoralis major muscle fibers longitudinally and then retracting the pectoralis minor laterally or dividing it for optimal exposure. It is critical to avoid injury to the medial and lateral cords of the brachial plexus, which usually are superior to the artery. There are perforating pectoral nerves from the brachial plexus that can be excised with minimal morbidity if necessary. Vessel loops are placed proximally and distally around the axillary artery and a pursestring suture without felt pledgets is placed around the expected arteriotomy site. Heparin is given for an ACT greater than 250 seconds. Using the Seldinger technique, the axillary artery is accessed and a 7 Fr sheath inserted. As aforementioned, the aortic valve is crossed with a 6 Fr AL1 catheter and then a 0.35-inch diameter Amplatz Extra Stiff J guidewire with a broad pigtail coil is placed within the LV. The 7 Fr sheath is then removed and exchanged for the valve manufacturer's device sheath, which is 14 Fr for the CoreValve system or 16 Fr for the Edwards Sapien device. The valve is then advanced over the stiff wire under fluoroscopic guidance ([Fig. 13.8](#fig-13-8)). When the left axillary artery is used, the most proximal end of the sheath should be positioned in the aorta at the origin of the innominate artery. When the right axillary artery is used, it is possible to occlude the right carotid with the delivery sheath and the sheath should only be advanced to the ostium of the right subclavian artery. Once the valve is positioned across the annulus, deployment is similar as described previously. [Fig. 13.9](#fig-13-9) illustrates device deployment for the Edwards Sapien valve.
 
-<span id="fig-13-8"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-13-8"></span>![](_page_13_Picture_8.jpeg)
 
 **FIGURE 13.8** Left transaxillary approach – CoreValve Evolut PRO advanced over stiff wire.
 
-<span id="fig-13-9"></span>![](_page_7_Picture_5.jpeg)
+<span id="fig-13-9"></span>![](_page_13_Picture_9.jpeg)
 
 **FIGURE 13.9** Left transaxillary device deployment.
 
@@ -228,17 +228,17 @@ A transaortic approach is a good option when the femoral and axillary arteries a
 
 The patient is positioned supine with a shoulder roll to provide neck extension. As previously described, the femoral artery and vein are accessed for an aortogram and right ventricular pacing wire, respectively. A 5 cm skin incision (3 cm above the sternomanubrial junction to 2 cm below) is made and a mini-sternotomy is performed as a "J" into the right second intercostal space ([Fig. 13.10](#fig-13-10)). A child's chest retractor is inserted, the aorta is exposed and the pericardium is sutured to the skin for optimal exposure. The innominate vein is identified and mobilized to expose the distal ascending aorta. Heparin is administered to achieve an ACT above 250 seconds. After digital palpation of the aorta to avoid areas of calcification, two aortic pursestrings are placed near the base of the innominate artery. An 18-gauge needle is used to enter the aorta within the center of the pursestring, and a 7 Fr sheath is inserted over a short 0.35-inch J wire. A soft-tipped straight 0.35-inch wire and 6 Fr AL1 catheter are used to cross the aortic valve. The wire is then exchanged for a 0.35-inch Amplatz Extra Stiff J guidewire with a broad pigtail coil. The valve manufacturer's specific transaortic sheath should be inserted 2 cm into the aorta and the valve should be slowly advanced to cross the aortic annulus and deployed ([Fig. 13.11](#fig-13-11)).
 
-<span id="fig-13-10"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-13-10"></span>![](_page_13_Picture_10.jpeg)
 
 **FIGURE 13.10** Incision locations – transaortic (J mini‑sternotomy) and transapical (5th intercostal).
 
-<span id="fig-13-11"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-13-11"></span>![](_page_13_Picture_11.jpeg)
 
 **FIGURE 13.11** Deployed Edwards Sapien 3 valve (transaortic).
 
 [Fig. 13.12](#fig-13-12) shows the Edwards Sapien 3 valve being deployed under fluoroscopy. It is important to verify that the balloon is completely outside the sheath before inflation. For this reason, when using a balloon-expandable valve, it is important to have at least 6 cm from the aortic annulus to the access site on the ascending aorta. Valve positioning, deployment, and post-deployment evaluation are then completed as described previously in the transfemoral approach. Anticoagulation is reversed, and the wires and sheath are removed. The pursestring sutures are then tied and a chest tube is inserted through the right third intercostal space and placed anterior to the aorta. Two or three sternal wires are placed in the sternum and the chest and skin are closed.
 
-<span id="fig-13-12"></span>![](_page_8_Picture_9.jpeg)
+<span id="fig-13-12"></span>![](_page_13_Picture_12.jpeg)
 
 **FIGURE 13.12** Transaortic deployment – balloon outside sheath before inflation.
 
@@ -252,27 +252,27 @@ The transapical approach is the fourth access route and recent meta-analyses hav
 
 As mentioned above, aortogram is completed from the femoral artery and a transvenous pacer is passed and secured in the RV apex from the femoral vein. A 5 cm left thoracotomy is made in the fifth intercostal space to expose the LV apex (as seen in [Fig. 13.10](#fig-13-10)). The exact location of LV apex access is critical to the success of this technique and fluoroscopic guidance and TEE are very useful. Two 3-0 Prolene perpendicular large pledgeted mattress sutures are placed deep within the myocardium but not full-thickness, making sure to avoid the left anterior descending artery ([Fig. 13.13](#fig-13-13)).
 
-<span id="fig-13-13"></span>![](_page_9_Picture_3.jpeg)
+<span id="fig-13-13"></span>![](_page_13_Picture_13.jpeg)
 
 **FIGURE 13.13** Left thoracotomy with pledgeted mattress sutures at LV apex.
 
 A new FDA-approved device called Permaseal (Micro Interventional Devices, Newtown, PA) simplifies transapical closure. After obtaining ventricular access, this device is placed over a wire and instantaneously delivers eight anchored 2-0 braided polyester sutures with pre-tied knots into the myocardium ([Fig. 13.14](#fig-13-14)). To obtain access, an 18-gauge needle is inserted into the apex, centered within the pursestrings, and a 0.35-inch soft J wire is used to cross the aortic valve under fluoroscopy. Heparin is administered to achieve an ACT of greater than 250 seconds. A 7 Fr right Judkins catheter is used to direct the wire into the descending aorta, and the wire is advanced to the abdominal aorta. The wire is exchanged for a 260 cm 0.35-inch Extra Stiff Amplatz wire with a soft J tip. The Judkins catheter is exchanged for the Edwards transapical sheath and is inserted into the left ventricular cavity approximately 4 cm. The valve should be inspected under fluoroscopy before insertion to check that it has been placed on the delivery device for antegrade deployment, as this valve orientation is different from the other approaches. [Fig. 13.15](#fig-13-15) shows the device sheath through the center of the pledgeted sutures on the LV apex. The valve is then inserted antegrade across the annulus ([Fig. 13.16](#fig-13-16)).
 
-<span id="fig-13-14"></span>![](_page_9_Picture_6.jpeg)
+<span id="fig-13-14"></span>![](_page_13_Picture_14.jpeg)
 
 **FIGURE 13.14** Permaseal device – eight anchored sutures with pre‑tied knots.
 
-<span id="fig-13-15"></span>![](_page_9_Picture_8.jpeg)
+<span id="fig-13-15"></span>![](_page_13_Picture_15.jpeg)
 
 **FIGURE 13.15** Valve inserted through LV apex.
 
-<span id="fig-13-16"></span>![](_page_10_Picture_2.jpeg)
+<span id="fig-13-16"></span>![](_page_13_Picture_16.jpeg)
 
 **FIGURE 13.16** Fluoroscopy – Edwards Sapien 3 valve in annulus (transapical).
 
 Valve positioning, deployment, and post-deployment evaluation are completed as described previously for the transfemoral approach ([Fig. 13.17](#fig-13-17)). Anticoagulation is reversed, and the wires and sheath are removed. Rapid-rate ventricular pacing is initiated to a rate of 120–160 beats/minute to decompress the LV while tying the mattress sutures on the apex. A chest tube is placed in the left pleural space through a separate stab incision and, if possible, the pericardium is closed over the LV. The ribs are reapproximated with a 2-0 pericostal suture and thoracotomy incision closed in the normal fashion.
 
-<span id="fig-13-17"></span>![](_page_10_Picture_5.jpeg)
+<span id="fig-13-17"></span>![](_page_13_Picture_17.jpeg)
 
 **FIGURE 13.17** Edwards Sapien 3 valve post‑deployment (transapical).
 

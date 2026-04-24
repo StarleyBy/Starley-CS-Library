@@ -125,11 +125,11 @@ The aortic annulus is dissected 2 mm below the nadir of the ventriculoaortic j
 
 We prefer the reimplantation method over the remodeling method as it allows the entire aortic root apparatus to be seated within a single graft. The length and the depth of each post-repair cusp determine the size of the graft and in turn the final internal annular diameter. This diameter is based on our reimplantation formula, adapted from seminal work performed by Milton Swanson and Richard Clarke, which revealed dimension relationships of the aortic root apparatus. The details of the formula and validation have been described previously. Simply, the constant measurement in the aortic root apparatus will be the height of the cusp. The simplified formula ensures that the graft size is approximately twice the size of the height of the cusp and 1–2 mm are added to round up to achieve the accurate graft size. A straight polyester woven graft is then chosen and neosinuses created after calculating the final annular diameter. This is done by dividing the cusp height by a constant of 0.7. Typical cusp heights of 13–18 mm will yield graft sizes of approximately 28–38 mm ([Fig. 22.1a‑b](#fig-22-1a)).
 
-<span id="fig-22-1a"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-22-1a"></span>![](_page_22_Picture_1a.jpeg)
 
 **FIGURE 22.1a** Formula for graft sizing: d′ = 2 × (0.73 × d) = 2h + 1‑2 mm.
 
-<span id="fig-22-1b"></span>![](_page_2_Picture_8.jpeg)
+<span id="fig-22-1b"></span>![](_page_22_Picture_1b.jpeg)
 
 **FIGURE 22.1b** Tailored graft with neosinuses.
 
@@ -137,11 +137,11 @@ Once the aortic root is appropriately dissected as described above, 21 non-pledg
 
 The subannular sutures are then passed through the graft in a similar coronet fashion ([Fig. 22.2a](#fig-22-2a)). A groove is cut within the graft to accommodate insertion at the left–right commissure. The graft is then lowered down to the VAJ and secured by tying the knots in place ([Fig. 22.2b](#fig-22-2b)). This completes the annuloplasty. The commissures are then suspended high onto the graft at the sinotubular junction.
 
-<span id="fig-22-2a"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-22-2a"></span>![](_page_22_Picture_2a.jpeg)
 
 **FIGURE 22.2a** Subannular sutures passed through the graft.
 
-<span id="fig-22-2b"></span>![](_page_3_Picture_5.jpeg)
+<span id="fig-22-2b"></span>![](_page_22_Picture_2b.jpeg)
 
 **FIGURE 22.2b** Graft lowered to VAJ and secured.
 
@@ -181,15 +181,11 @@ Prolapse of the aortic cusp can occur in one or all three cusps. A bicuspid aort
 
 This is the hemostatic suture line and care must be taken to do it with precision. A 4-0 polypropylene suture is used to form the nadir of each neosinus to the commissure in a back and forth manner until the entire annulus is incorporated into the graft. We will occasionally place interrupted sutures if necessary to ensure hemostasis. Careful suturing is needed so as not to distort the annulus and hence the cusps after valve repair ([Fig. 22.3a–c](#fig-22-3a)).
 
-<span id="fig-22-3a"></span>![](_page_4_Picture_3.jpeg)
+<span id="fig-22-3a"></span>![](_page_22_Picture_3a-c.jpeg)
 
 **FIGURE 22.3a** Intraoperative view of secondary suture line.
 
-<span id="fig-22-3b"></span>![](_page_4_Picture_4.jpeg)
-
 **FIGURE 22.3b** Cartoon of secondary suture line with neosinuses.
-
-<span id="fig-22-3c"></span>![](_page_4_Picture_5.jpeg)
 
 **FIGURE 22.3c** Imaging view of completed neosinuses.
 

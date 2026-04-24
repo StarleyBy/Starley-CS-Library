@@ -173,75 +173,57 @@ If a redo sternotomy is to be done, careful dissection is carried out, especiall
 
 The distal ascending aorta is completely dissected out. The arterial cannulation site is usually chosen distal to the origin of the innominate artery. Retrograde cardioplegia cannula is inserted into the coronary sinus. Cardiopulmonary bypass is initiated and a left ventricular vent is inserted through the right superior pulmonary vein. Cross-clamping is applied and retrograde cold blood cardioplegia is delivered while the ascending aorta is opened. Once the coronary ostia are visualized, cardioplegia delivery is switched to antegrade mode.
 
-The aorta is transected completely if an aortic root replacement is planned ([Fig. 21.1a](#fig-21-1a)). The distal aorta is then dissected free of the posterior right pulmonary artery and retracted cranially. The next step is the complete mobilization of the root. The plane between the pulmonary artery and aortic root is developed carefully to avoid damaging the left coronary ([Fig. 21.1b](#fig-21-1b)).
+The aorta is transected completely if an aortic root replacement is planned ([Fig. 21.1a](#fig-21-1a)). The distal aorta is then dissected free of the posterior right pulmonary artery and retracted cranially. The next step is the complete mobilization of the root. The plane between the pulmonary artery and aortic root is developed carefully to avoid damaging the left coronary ([Fig. 21.1b](#fig-21-1a)).
 
-<span id="fig-21-1a"></span>![](_page_3_Picture_3.jpeg)
+<span id="fig-21-1a"></span>![](_page_21_Picture_1a-b.jpeg)
 
 **FIGURE 21.1a** Complete transection of the aorta.
-
-<span id="fig-21-1b"></span>![](_page_3_Picture_4.jpeg)
 
 **FIGURE 21.1b** Mobilisation of the root – developing plane between PA and aorta.
 
 The aortic valve is then inspected and the extent of infection is assessed. The anterior mitral leaflet is inspected to assess for any infectious extension onto it. The coronary buttons are excised from the respective sinuses and mobilized sufficiently for a later tension-free anastomosis to the new root ([Fig. 21.2a–c](#fig-21-2a)).
 
-<span id="fig-21-2a"></span>![](_page_4_Picture_3.jpeg)
+<span id="fig-21-2a"></span>![](_page_21_Picture_2a-c.jpeg)
 
 **FIGURE 21.2a** Excision of coronary buttons.
 
-<span id="fig-21-2b"></span>![](_page_4_Picture_4.jpeg)
-
 **FIGURE 21.2b** Mobilised left coronary button.
-
-<span id="fig-21-2c"></span>![](_page_4_Picture_5.jpeg)
 
 **FIGURE 21.2c** Mobilised right coronary button.
 
 The tissues may be fragile and friable. Radical debridement of all the infected tissue is of vital importance for a successful outcome. The valve leaflets are excised and the annulus is debrided until we reach healthy margins ([Fig. 21.3a–c](#fig-21-3a)). The residual left ventricular outflow tract (LVOT) is again completely examined for any residual tissue of questionable nature. A thorough irrigation with saline is then performed. If the tissue removed was grossly infected, we also use povidone iodine solution to thoroughly irrigate the field insuring that all pump suckers are turned off.
 
-<span id="fig-21-3a"></span>![](_page_4_Picture_8.jpeg)
+<span id="fig-21-3a"></span>![](_page_21_Picture_3a-d.jpeg)
 
 **FIGURE 21.3a** Debridement of annulus.
 
-<span id="fig-21-3b"></span>![](_page_4_Picture_9.jpeg)
-
 **FIGURE 21.3b** Debridement – continuing.
 
-<span id="fig-21-3c"></span>![](_page_4_Picture_10.jpeg)
-
 **FIGURE 21.3c** Healthy margins achieved.
-
-The aortic root is then sized for the appropriate root replacement. If significant missing tissue is noted, to allow a standard root replacement, bovine pericardium may be used as patch material to reconstruct the LVOT, the membranous septum, or the anterior leaflet of the mitral valve ([Fig. 21.3d](#fig-21-3d)).
-
-<span id="fig-21-3d"></span>![](_page_4_Picture_12.jpeg)
-
+  
 **FIGURE 21.3d** Bovine pericardial patch reconstruction.
 
+The aortic root is then sized for the appropriate root replacement. If significant missing tissue is noted, to allow a standard root replacement, bovine pericardium may be used as patch material to reconstruct the LVOT, the membranous septum, or the anterior leaflet of the mitral valve ([Fig. 21.3d](#fig-21-3a)).
+
 Pledgeted 2-0 ethibond sutures are then passed through the LVOT, membranous septum, and anterior leaflet of the mitral valve in a circumferential intra-annular fashion. It is important that sutures be taken with adequate depth and optimum spacing as the tissue quality may be suboptimal. Between 15 and 18 mattress sutures are typically placed ([Fig. 21.4a and b](#fig-21-4a)).
-
-<span id="fig-21-4a"></span>![](_page_5_Picture_2.jpeg)
-
-**FIGURE 21.4a** Placement of pledgeted annular sutures.
-
-<span id="fig-21-4b"></span>![](_page_5_Picture_3.jpeg)
-
-**FIGURE 21.4b** Completed annular suture placement.
-
+  
 Once all the sutures are in place, each suture is then passed through the sewing cuff of the chosen root. When implanting a porcine root, we would typically tie the sutures over a Hegar's dilator to avoid pursestringing or overtying the muscular tissue. The few sutures along the pulmonary artery are usually tied without the Hegar's dilator because of the awkward angle that the dilator causes with respect to the LVOT, which may lead to tissue tearing.
 
 The left coronary button is then anastomosed with 5-0 Prolene in a continuous fashion, followed by the right coronary button ([Fig. 21.4c](#fig-21-4c)). We generally avoid any glue or permanent hemostatic agents around the root as we believe these may cause a late pseudoaneurysm or potentially become a focus for persistent or future infection. It is therefore of extreme importance that each suture be placed with meticulous care to avoid deep root bleeding.
 
-<span id="fig-21-4c"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-21-4a"></span>![](_page_21_Picture_4a-c.jpeg)
 
+**FIGURE 21.4a** Placement of pledgeted annular sutures.
+
+**FIGURE 21.4b** Completed annular suture placement.
+  
 **FIGURE 21.4c** Coronary button anastomosis.
 
 Once the buttons are in place, ascending aorta to the porcine root anastomosis is completed with a running Prolene 4-0 suture ([Fig. 21.5a and b](#fig-21-5a)).
 
-<span id="fig-21-5a"></span>![](_page_6_Picture_2.jpeg)
+<span id="fig-21-5a"></span>![](_page_21_Picture_5a-b.jpeg)
 
 **FIGURE 21.5a** Distal anastomosis – start.
-
-<span id="fig-21-5b"></span>![](_page_6_Picture_3.jpeg)
 
 **FIGURE 21.5b** Completed distal anastomosis.
 
@@ -255,11 +237,11 @@ Once the buttons are in place, ascending aorta to the porcine root anastomosis i
 
 If the IE lesion is localized to a particular leaflet or there is a small perforation that can be primarily repaired using a pericardial patch, one should opt for repair given the superior long-term results and increased resistance to recurrent IE. An infected prosthetic valve should be excised in its entirety including all pledget and suture material. Once excision is complete, the mitral annulus should be carefully assessed. It should be debrided until healthy margins are achieved. If need be, the annulus can be reconstructed using a pericardial (autologous or bovine) strip. The strip needs to be wide enough to cover the debrided annulus and also have a redundant margin that can be used as a sewing cuff for the prosthetic valve. 4-0 Prolene in a continuous fashion is used to suture the pericardial strip to the atrial side superiorly and ventricular side inferiorly ([Fig. 21.6a and b](#fig-21-6a)). The valve is sized and the valve sutures are then placed using 2-0 ethibond sutures, following which the valve is seated.
 
-<span id="fig-21-6a"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-21-6a"></span>![](_page_21_Picture_6a.jpeg)
 
 **FIGURE 21.6a** Pericardial strip reconstruction of mitral annulus – atrial side.
 
-<span id="fig-21-6b"></span>![](_page_7_Picture_4.jpeg)
+<span id="fig-21-6b"></span>![](_page_21_Picture_6b.jpeg)
 
 **FIGURE 21.6b** Pericardial strip – ventricular side.
 

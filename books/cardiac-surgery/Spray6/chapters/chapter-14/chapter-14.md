@@ -110,7 +110,7 @@ However, until recently, aortic valve repair has not been widely embraced. This 
 
 The aortic root complex operates as a unit, and understanding the surgical anatomy and intricate geometric relationships is necessary for successful aortic valve repair and aortic root reconstruction. The aortic root consists of four distinct anatomic components: the aortic annulus (AA), the aortic leaflet cusps, the aortic sinuses of Valsalva, and the sinotubular junction (STJ). The entire circumference of the ventriculoaortic junction (VAJ) is defined by a band of connective tissue, which is referred to as the *aortic annulus*. The AA joins the aortic root to the left ventricle (LV) outflow tract. The annulus is attached to interventricular muscle for approximately 45% of the circumference and to fibrous structures for 55%. Histology demonstrates that the aortic root has a fibrous continuity with the anterior leaflet of the mitral valve and membranous septum, whereas it is attached to the muscular interventricular septum by fibrous strands. The anatomic AA does not remain in the same horizontal plane, but rather has a scalloped shape. The recently defined concept of "functional aortic annulus" has been considered to include the STJ, the VAJ, and the anatomic crown-shaped annulus demarcated by the insertion point of each of the aortic valve leaflets ([Fig. 14.1](#fig-14-1)).
 
-<span id="fig-14-1"></span>![](_page_1_Picture_10.jpeg)
+<span id="fig-14-1"></span>![](_page_14_Picture_1.jpeg)
 
 **FIGURE 14.1** Functional aortic annulus: ventriculoaortic junction (VAJ), crown‑shaped anatomic annulus, and sinotubular junction (STJ). R, right; L, left; NC, non‑coronary.
 
@@ -130,16 +130,9 @@ The aortic sinuses are important to maintain coronary artery blood flow througho
 
 Efforts at aortic valve repair have been hampered by the lack of a standardized approach to classify mechanisms of AI. Analogous to the Carpentier classification for mitral valve disease, El Khoury devised a classification system to categorize the etiology of aortic insufficiency ([Fig. 14.2](#fig-14-2)). This classification scheme offers a mechanistic understanding for all causes of AI while also establishing a common nomenclature. Furthermore, the classification provides a systematic approach to guide repair techniques.
 
-<span id="fig-14-2"></span>
+<span id="fig-14-2"></span>![](_page_14_Picture_2.jpeg)
 
-| AI class | Type 1 – Normal cusp motion with FAA dilation or cusp perforation | | | | Type II – Cusp prolapse | Type III – Cusp restriction |
-|----------|-------------------------------------------------------------------|-|-|-|--------------------------|----------------------------|
-| | Ia | Ib | Ic | Id | | |
-| **Mechanism** | STJ dilation (ascending aneurysm) | Sinus + STJ dilation | VAJ dilation | Cusp perforation | Excess free margin | Restriction (scarring, calcification) |
-| **Repair techniques (primary)** | STJ remodelling / ascending graft | Valve‑sparing: reimplantation or remodelling + SCA | Annuloplasty | Patch repair (autologous/bovine pericardium) | Plication, triangular resection, free margin resuspension, patch | Leaflet shaving, decalcification, patch |
-| **(Secondary)** | SCA | | STJ annuloplasty | Annuloplasty | Annuloplasty | SCA |
-
-**FIGURE 14.2** El Khoury classification of aortic insufficiency. FAA, functional aortic annulus; SCA, subcommissural annuloplasty. (Reprinted from Boodhwani M, de Kerchove L, Glineur D, et al. Repair‑oriented classification of aortic insufficiency: impact on surgical techniques and clinical outcomes. *J Thorac Cardiovasc Surg.* 2009; 137: 286–94 with permission.)
+**FIGURE 14.2** El Khoury classification of aortic insufficiency. FAA, functional aortic annulus; SCA, subcommissural annuloplasty. 
 
 Type I AI occurs in the presence of normal leaflet structure and mobility, and it is attributable to dilation of one or more components of the functional aortic annulus or cusp perforation, as seen with endocarditis or trauma. In type Ia insufficiency, aneurysms of the ascending aorta cause outward displacement of the commissural posts at the level of the STJ, which impairs central coaptation of valve leaflets. This is the mechanism of AI in patients with ascending aortic aneurysm, mega-aorta syndrome, and long-standing hypertension causing a dilated and elongated ascending aorta. Type Ib insufficiency involves dilation of the sinuses of Valsalva and the STJ. Type Ic arises from dilation of the VAJ. In types Ia–c without concomitant type II or type III insufficiency, the jet of AI will be directed centrally. In types Id, II, or III, the AI jet will have an eccentric direction. It is important to bear in mind that multiple simultaneous pathogenic mechanisms may occur in a given patient, leading to a component of both central and eccentric regurgitation.
 
@@ -223,9 +216,9 @@ There are several overarching technical objectives to achieve a durable aortic v
 - correction of leaflet abnormalities
 - optimization of effective leaflet height and coaptation zones. Effective leaflet height is defined as the highest point of coaptation and the annular plane in long axis on TEE. The coaptation zone is the length of aortic leaflets that are touching during the midpoint of diastole ([Fig. 14.3](#fig-14-3)).
 
-<span id="fig-14-3"></span>![](_page_4_Picture_2.jpeg)
+<span id="fig-14-3"></span>![](_page_14_Picture_3.jpeg)
 
-**FIGURE 14.3** Echocardiographic measurements: a – aortic annulus; b – sinuses of Valsalva; c – STJ; d – ascending aorta; e – sinus height; f – distance from coaptation tips to aortic wall; g – leaflet billowing; h – effective height; i – coaptation zone. (From le Polain de Waroux JB, et al. *JACC Cardiovasc Imaging.* 2009;2:931‑9.)
+**FIGURE 14.3** Echocardiographic measurements: a – aortic annulus; b – sinuses of Valsalva; c – STJ; d – ascending aorta; e – sinus height; f – distance from coaptation tips to aortic wall; g – leaflet billowing; h – effective height; i – coaptation zone. 
 
 Aortic valve repair is performed via median sternotomy. While less invasive approaches such as upper partial sternotomy have been described for aortic valve and aortic root operations, adequate visualization is critical to successful repair. CPB is established by cannulating the distal ascending aorta or transverse aortic arch, venous cannulation, retrograde cardioplegia cannulation, and LV vent placement. Multiple approaches are described for adequate LV venting but we prefer a catheter via the right superior pulmonary vein. Regardless of the aortic valve or aortic root pathology, the optimal approach to expose the aortic valve for repair is through a generous transverse aortotomy at least 1 cm above the commissures. Even in the absence of aortic aneurysm, we prefer to transect the aorta completely to facilitate aortic root mobilization. The selection of cardioplegia solution is generally institution-specific. In the setting of severe insufficiency, we achieve electromechanical arrest by providing an initial dose of retrograde cardioplegia, topical hypothermia, and then ostial antegrade coronary perfusion after opening the aorta. Myocardial protection during the period of myocardial ischemia is accomplished using a combination of retrograde cardioplegia and intermittent doses of cold blood cardioplegia delivered directly into the coronary artery orifices. We prefer handheld ostial cardioplegia catheters, but soft, self-inflating balloon cannulae can be used by securing them to the adjacent aortic wall.
 
@@ -235,11 +228,11 @@ Aortic valve repair is performed via median sternotomy. While less invasive appr
 
 The components of the aortic root are carefully assessed. The key determinant of aortic valve repair is the quality of the aortic leaflets. The number of leaflets, their tissue quality, thickness and pliability, and the presence of fenestrations are observed. Leaflet mobility is best determined by suspending each commissure to a normal position. To accomplish this, individual pledgeted 4-0 polypropylene horizontal mattress sutures are placed at the top of each commissure, and retracted using clamps ([Fig. 14.4](#fig-14-4)). This permits application of gentle traction as well as a dynamic evaluation of valve anatomy. If leaflet prolapse exists, this can be corrected by one of the methods described below. The lengths of the free margins of the cusps are measured ([Fig. 14.5](#fig-14-5)). Free margin equalization is conceptually critical in order to address leaflet prolapse. The diameters of the VAJ and STJ should be smaller than the average length of the free margins of the aortic cusps. If not, surgical reduction should be part of the valve repair.
 
-<span id="fig-14-4"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-14-4"></span>![](_page_14_Picture_4.jpeg)
 
 **FIGURE 14.4** Commissural traction sutures (4‑0 polypropylene) to assess valve anatomy.
 
-<span id="fig-14-5"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-14-5"></span>![](_page_14_Picture_5.jpeg)
 
 **FIGURE 14.5** Identifying reference (non‑prolapsing) leaflets and measuring free margin lengths.
 
@@ -253,13 +246,13 @@ Type Ia lesions arise in the setting of supracoronary ascending aortic aneurysm 
 
 Prolapse of an aortic leaflet is corrected by shortening the free margin. This maneuver involves plicating the central portion of the cusp with full-thickness fine polypropylene (Prolene) or Gore-Tex sutures. To delineate the amount of prolapsed leaflet requiring plication, a 7-0 polypropylene suture is placed in the middle of the reference cusps which are not prolapsed. Light axial traction is applied, and the prolapsed leaflet is stretched gently in the parallel direction to the reference cusp. A 5-0 polypropylene suture is placed from the aortic to the ventricular side of the prolapsed leaflet, at the site where it meets the center of the reference leaflet. The angle of traction is then reversed and the same suture is placed from the ventricular to the aortic side of the leaflet where it is aligned with the center of the reference leaflet. The leaflet distance spanning the two ends of this 5-0 suture represents the amount of excess free margin. This excess leaflet is plicated upon tying this suture ([Fig. 14.6a–d](#fig-14-6a)). Additional plication sutures are placed as needed until the leaflet free margin lengths have equalized.
 
-<span id="fig-14-6a"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-14-6a"></span>![](_page_14_Picture_6.jpeg)
 
 **FIGURE 14.6a–d** Technique of free margin plication for leaflet prolapse. (a) 7‑0 suture in reference leaflets; (b) 5‑0 suture placed through prolapsed leaflet at meeting point; (c,d) suture tied, plicating excess tissue on aortic side.
 
 If the leaflet is very thin, horizontal mattress sutures with a fine strip of pericardial pledget on each side can be used. The degree of free margin shortening depends on the lengths of the free margins of the other cusps. Minor prolapse of a thinned-out cusp or of a cusp with a fenestration along its commissural attachment can be corrected by weaving a double layer of a 6-0 expanded polytetrafluoroethylene (PTFE) suture along the free margin from commissure to commissure ([Fig. 14.7](#fig-14-7)).
 
-<span id="fig-14-7"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-14-7"></span>![](_page_14_Picture_7.jpeg)
 
 **FIGURE 14.7** PTFE suture along free margin for minor prolapse or fenestrated cusp.
 
@@ -275,7 +268,7 @@ Early reports on aortic valve repair suggested that patients with subcommissural
 
 In patients with non-aneurysmal ascending aorta or sinus of Valsalva segment but dilated VAJ, annuloplasty alone should achieve the desired annular reduction and stabilization. There are various options for annuloplasty including both internal and external approaches. The HAART 300 aortic annuloplasty device (BioStable Science & Engineering, Austin, TX) is a commercially available internal annuloplasty device designed to restore root geometry and provide annular stabilization. In Europe, a commercially manufactured external annuloplasty ring is available (Extra-Aortic™, CORONEO Inc., Montreal, Canada). However, we prefer to perform external annuloplasty by determining the desired size annuloplasty ring and selecting a woven straight Dacron graft in that size. Four or five rings of the graft are cut and serve as the ring. A deep root dissection is performed using electrocautery, with particular emphasis to dissect down along the interventricular muscle region, taking care not to enter the right ventricular chamber. It is important to carry dissection down low to the level of the VAJ so that adequate annular stabilization is accomplished with placement of the external ring. A deep subcoronary dissection is also performed and vessel loops are placed around each coronary artery. Several 2-0 Tycron horizontal mattress sutures are then placed in subannular fashion from inside to outside the LV outflow tract, approximately 2 mm below the VAJ. We avoid placing sutures immediately below both coronary arteries. Care should also be taken in the region of the membranous system to avoid the conduction system. The cut ends of the selected Dacron graft are then tunneled underneath each coronary artery, and the integrity of the ring re-established using a 5-0 polypropylene suture to join the cut ends. Both ends of each subannular suture are then sequentially placed through the Dacron ring and tied down ([Fig. 14.8a–e](#fig-14-8a)). The ring can be tied down over a Hegar dilator (Jarit Instruments, Hawthorne, NY) positioned in the LV outflow tract in order to prevent a narrowed VAJ. Once this has been completed, the valve leaflets are reassessed to ensure that the annuloplasty has not induced prolapse.
 
-<span id="fig-14-8a"></span>![](_page_7_Picture_5.jpeg)
+<span id="fig-14-8a"></span>![](_page_14_Picture_8.jpeg)
 
 **FIGURE 14.8a–e** External ring annuloplasty. (a,b) Subannular horizontal mattress sutures (5‑9 sutures). (c) Ring cut to pass under coronary arteries. (d) Circumferential integrity re‑established with 5‑0 polypropylene. (e) Sutures tied over Hegar dilator. LC, left coronary; NC, non‑coronary; RC, right coronary.
 
@@ -285,7 +278,9 @@ Another strategy for annular reduction and stabilization is a suture annuloplast
 
 An additional technique for external annular stabilization in the setting of root aneurysm is the Florida sleeve procedure. An extensive root mobilization is performed; however, the aortic sinus segments and coronary buttons are left intact to the level of the STJ. Any concomitant leaflet pathology is addressed. Six subannular sutures are placed 2 mm below the level of the leaflet insertion points from the ventricle side to the aorta, and then passed through the woven Dacron graft. These are tied with a presized dilator across the annulus to prevent excessive narrowing of the annulus. Openings in the graft to accommodate the coronary arteries are created with slits below them to create "keyholes" ([Fig. 14.9a‑b](#fig-14-9a)). These slits are then repaired by simple sutures below the coronary arteries. At the distal part of the sleeve graft at the level of the STJ a horizontal mattress suture secures the aorta to the graft, again taking care to recreate proper commissural alignment. The appeal of this procedure is a simplified technique without the need for coronary reimplantation, although long-term data are not yet available.
 
-<span id="fig-14-9a"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-14-9a"></span>![](_page_14_Picture_9a.jpeg)
+  
+<span id="fig-14-9a"></span>![](_page_14_Picture_9b.jpeg)
 
 **FIGURE 14.9a‑b** Florida sleeve procedure. (a) Subannular sutures, keyholes for coronaries. (b) Distal horizontal mattress suture recreates STJ.
 

@@ -83,7 +83,7 @@
 
 The tricuspid valve structure consists of three leaflets, the fibrous tricuspid annulus, the subvalvular apparatus including the chordae tendineae and papillary muscles, the right atrium, and the right ventricle ([Fig. 19.1](#fig-19-1)).
 
-<span id="fig-19-1"></span>![](_page_0_Picture_11.jpeg)
+<span id="fig-19-1"></span>![](_page_19_Picture_1.jpeg)
 
 **FIGURE 19.1** Tricuspid valve anatomy – leaflets (septal, anterior, posterior), papillary muscles, chordae tendineae.
 
@@ -93,7 +93,7 @@ While there are many variations, the papillary muscles are divided into three gr
 
 The tricuspid valve annulus is not a planar configuration but a complex three-dimensional (3D) structure composed of intermixed fibroelastic fibers in continuity with the leaflets, the atrium, and the ventricle ([Fig. 19.2](#fig-19-2)). The lowest portion of the annulus is the anteroseptal commissure, and the highest portion is around the middle of the annulus of the anterior leaflet which corresponds to the right ventricular outflow tract. During the cardiac cycle, the annular circumference and the annular area vary, with reductions of up to 20% and 30% respectively.
 
-<span id="fig-19-2"></span>![](_page_1_Picture_6.jpeg)
+<span id="fig-19-2"></span>![](_page_19_Picture_2.jpeg)
 
 **FIGURE 19.2** Three‑dimensional anatomy of the tricuspid annulus.
 
@@ -116,13 +116,13 @@ As with the mitral valve, the Carpentier functional classification is frequently
 - *Type IIIa* tricuspid regurgitation with restricted leaflet motion in diastole
 - *Type IIIb* tricuspid regurgitation with restricted leaflet motion in systole.
 
-<span id="fig-19-3"></span>![](_page_2_Picture_5.jpeg)
+<span id="fig-19-3"></span>![](_page_19_Picture_3.jpeg)
 
 **FIGURE 19.3** Carpentier classification of tricuspid regurgitation.
 
 Functional tricuspid regurgitation is the most frequent cause of tricuspid valve dysfunction. The main pathology of functional tricuspid regurgitation is annular dilatation (Type I). Because the septal leaflet is directly attached to the fibrous trigone and therefore spared from annular dilatation, dilatation of the tricuspid annulus occurs only in the annulus of the anterior and posterior leaflet ([Fig. 19.4](#fig-19-4)). The causes of functional tricuspid regurgitation include right ventricular dysfunction, pulmonary artery hypertension resulting from any cause, and left-sided valvular lesions. In addition, many other "reversible" factors contribute to the degree of functional tricuspid regurgitation including cardiac output, ventricular contractility, blood volume, and systemic afterload. This often makes it difficult to assess the indication of surgical interventions of the tricuspid valve.
 
-<span id="fig-19-4"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-19-4"></span>![](_page_19_Picture_4.jpeg)
 
 **FIGURE 19.4** Annular dilatation in functional TR – septal leaflet spared, anterior and posterior annulus dilated.
 
@@ -198,23 +198,23 @@ De Vega annuloplasty can be used for mild to moderate tricuspid valve, especiall
 
 A double-armed 2-0 or 3-0 polyester suture with Teflon felt pledget is used. The pursestring bites are placed at the junction of the annulus and right ventricular free wall (1–2 mm from the hinge of the leaflets), running around the anterior and posterior leaflets from the posteroseptal commissure to the anteroseptal commissure, avoiding the septal leaflet annulus ([Fig. 19.5](#fig-19-5)). The second limb of the suture is placed through the pledget and runs parallel and 1–3 mm above the first suture line in the same counterclockwise direction in an alternative sequence ([Fig. 19.6](#fig-19-6)). The suture depth should be 2–3 mm and 10–12 bites are typically needed for each limb. Both needles are then passed through a second pledget at the anteroseptal commissure for a buttress. The suture is tightened, producing a pursestring effect and reducing the length of the anterior and posterior annulus. The annular size should be reduced to the point at which two or three fingerbreadths fit snugly through the orifice. An annuloplasty sizer, Hegar sizer, or equivalent can be used as an alternative ([Fig. 19.7](#fig-19-7)). Often a sufficient repair can be done applying the aforementioned stitch only in the lateral portion of the annulus ([Figs. 19.8 and 19.9](#fig-19-8)).
 
-<span id="fig-19-5"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-19-5"></span>![](_page_19_Picture_5.jpeg)
 
 **FIGURE 19.5** De Vega annuloplasty – first suture line placement.
 
-<span id="fig-19-6"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-19-6"></span>![](_page_19_Picture_6.jpeg)
 
 **FIGURE 19.6** De Vega annuloplasty – second parallel suture line.
 
-<span id="fig-19-7"></span>![](_page_5_Picture_5.jpeg)
+<span id="fig-19-7"></span>![](_page_19_Picture_7.jpeg)
 
 **FIGURE 19.7** De Vega annuloplasty – tightening over sizer.
 
-<span id="fig-19-8"></span>![](_page_6_Picture_2.jpeg)
+<span id="fig-19-8"></span>![](_page_19_Picture_8.jpeg)
 
 **FIGURE 19.8** De Vega annuloplasty – lateral plication.
 
-<span id="fig-19-9"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-19-9"></span>![](_page_19_Picture_9.jpeg)
 
 **FIGURE 19.9** Completed De Vega annuloplasty.
 
@@ -228,11 +228,11 @@ Ring or band annuloplasties are usually preferred for moderate or severe tricusp
 
 A series of horizontal mattress sutures is placed circumferentially using 3-0 Ticron sutures, with wider bites on the annulus and smaller corresponding bites through the ring or band, thus producing annular plication ([Fig. 19.10](#fig-19-10)). Gentle tension by grasping the leaflet tissue transversely should be applied to identify the hinge. The depth of the bites should be substantial to avoid tearing. At the same time, care needs to be taken not to injure important surrounding structures (i.e. the aortic root, right coronary artery, AV conduction system). In order to avoid those injuries, it is helpful to place sutures with the tip of needle oriented toward the direction to the right ventricular side. Then, the ring/band is lowered in place and the sutures tied ([Fig. 19.11](#fig-19-11)). The reduction in the annular size is mainly along the annulus of the posterior leaflet. At the end of the procedure the tricuspid valve orifice is primarily occluded by the leaflet tissue of the anterior and septal leaflets.
 
-<span id="fig-19-10"></span>![](_page_6_Picture_8.jpeg)
+<span id="fig-19-10"></span>![](_page_19_Picture_10.jpeg)
 
 **FIGURE 19.10** Ring annuloplasty – suture placement.
 
-<span id="fig-19-11"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-19-11"></span>![](_page_19_Picture_11.jpeg)
 
 **FIGURE 19.11** Completed ring annuloplasty.
 
@@ -244,7 +244,7 @@ A series of horizontal mattress sutures is placed circumferentially using 3-0 Ti
 
 A third and less used option is bicuspidization of the tricuspid valve. By plicating the annulus over the posterior tricuspid valve leaflet, this leaflet is excluded, thus converting the tricuspid valve into a bicuspid valve. Technically, a 2-0 monofilament polypropylene suture with pledget is passed through the annulus at the anteroposterior commissure, through the annulus at the center of the posterior leaflet, and then through the annulus at the posteroseptal commissure ([Fig. 19.12](#fig-19-12)). It is often necessary to place a second suture to reduce the annulus and reinforce it. It is also an option to simply place some figure-eight stitches to exclude the entire posterior annulus (Kay technique). The repair is not at the area of the AV node, but care needs to be taken not to place sutures away from the coronary sinus. At the end of the repair the tricuspid valve should reach normal diameter.
 
-<span id="fig-19-12"></span>![](_page_7_Picture_6.jpeg)
+<span id="fig-19-12"></span>![](_page_19_Picture_12.jpeg)
 
 **FIGURE 19.12** Bicuspidization (Kay technique).
 
@@ -260,11 +260,11 @@ As a general and important principle, tricuspid valve repair is preferable to tr
 
 Interrupted 2-0 polyester sutures with Teflon felt pledget are placed through the annulus with the exception of the area of the septal leaflet where sutures should be passed through the leaflet tissue to avoid damage to the conduction system. The sutures are then passed through the sewing ring of the prosthetic valve ([Fig. 19.13](#fig-19-13)). The prosthetic valve is lowered onto the annulus and the sutures are tied. Care needs to be taken not to injure the interventricular septum with the struts if a bioprosthetic valve is chosen. It is also an option to place pledgeted mattress sutures only in the septal leaflet area, followed by continuous running sutures along the anterior and posterior annulus ([Fig. 19.14](#fig-19-14)). As a less frequently utilized technique, the suture line can go around the atrial aspect of the coronary sinus to avoid the conduction system. The surgeon should consider placing permanent epicardial ventricular pacing leads at the time of tricuspid valve replacement because there is a persistent risk of late heart block, especially when concomitantly performed with mitral valve replacement. The epicardial leads can be buried in a pocket in the left upper quadrant abdominal wall for later permanent pacemaker implant if indicated.
 
-<span id="fig-19-13"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-19-13"></span>![](_page_19_Picture_13.jpeg)
 
 **FIGURE 19.13** Tricuspid valve replacement – interrupted pledgeted sutures.
 
-<span id="fig-19-14"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-19-14"></span>![](_page_19_Picture_14.jpeg)
 
 **FIGURE 19.14** Continuous running suture technique for replacement.
 

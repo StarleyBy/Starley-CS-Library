@@ -143,7 +143,7 @@ Transesophageal echocardiography (TEE) is an essential tool for monitoring overa
 
 There is currently only one surgical robot available on the market which provides sufficient performance to undertake TECAB (please see [www.intuitivesurgical.com](http://www.intuitivesurgical.com)). Surgeons performing TECAB mainly use the third-generation da Vinci® surgical system (Si version). [Fig. 10.1](#fig-10-1) shows the surgeon's position behind the robotic console. Using so-called "masters," the surgical manual maneuvers are translated into intrathoracic robotic instrument movements and robotic 3D camera positions. Foot pedals allow switching between camera and instrument control as well as for electrocautery. Surgical vision is provided by a 3D binocular system. Not all TECAB instruments are yet available for the fourth-generation system (Xi version).
 
-<span id="fig-10-1"></span>![](_page_2_Picture_11.jpeg)
+<span id="fig-10-1"></span>![](_page_1_Picture_20.jpeg)
 
 **FIGURE 10.1** Surgeon at the da Vinci console.
 
@@ -173,11 +173,11 @@ The patient is placed on the operating table in the standard supine position. Th
 
 The ports are inserted into the patient's left chest and ideally should be placed by the most experienced team member as the correct port access is essential for the operation. Port access requires complete left lung deflation to avoid organ injury and must be confirmed by the anesthetic team before placement attempt. The camera port is situated in the fifth intercostal space at the anterior axillary line and CO₂ is insufflated at a pressure of 8 mmHg. In case of hemodynamic compromise (e.g. sudden hypotension) during this phase, the CO₂ pressure should be adequately adjusted to avoid further disturbance in the venous return. The thoracic cavity is then inspected, and under scope vision the right and left instrument ports are placed cranially and caudally four fingerbreadths away from the camera port, midway between the anterior axillary line and the midclavicular line. Next the surgical robot is docked to the patient and a robotic cautery spatula is inserted by the right manipulator arm and DeBakey forceps via left arm. [Fig. 10.2](#fig-10-2) indicates the port arrangement and correct placement of the instruments in the chest, and in the photograph in [Fig. 10.3](#fig-10-3) the robotic arms can be seen docked to the patient.
 
-<span id="fig-10-2"></span>![](_page_3_Picture_3.jpeg)
+<span id="fig-10-2"></span>![](_page_2_Picture_11.jpeg)
 
 **FIGURE 10.2** Port arrangement for TECAB.
 
-<span id="fig-10-3"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-10-3"></span>![](_page_2_Picture_13.jpeg)
 
 **FIGURE 10.3** Robotic arms docked to the patient.
 
@@ -189,11 +189,11 @@ The ports are inserted into the patient's left chest and ideally should be place
 
 In the "camera up" position of the 30-degree angled robotic camera, the internal mammary artery (IMA) can be identified by the visible pulsations in the usual vessel run-off. The electrocautery is set to 15–20 watts, and the endothoracic fascia and muscle layer over the IMA are removed. The superficially freed IMA is harvested with the skeletonizing technique, applying mild mechanical traction and concomitant cauterization of side branches on the adjacent chest wall ([Fig. 10.4a‑b](#fig-10-4a)). Liga-clipping is seldom necessary to close up large branches, although sometimes it is required to settle side-branch bleeding. If both IMAs have to be harvested, the right pleura can be accessed for opening following generous robotic endoscopic retrosternal dissection. The easier approach in double IMA harvesting settings is for the right IMA to be taken down prior to the left; in a reverse sequence the left artery could compromise vision and access. Following heparin administration the IMA distal end can be clipped, then divided by robotic Potts scissors, and dropped into the left thoracic cavity, allowing autodilation.
 
-<span id="fig-10-4a"></span>![](_page_4_Picture_2.jpeg)
+<span id="fig-10-4a"></span>![](_page_3_Picture_3.jpeg)
 
 **FIGURE 10.4a** Skeletonised IMA harvest – early dissection.
 
-<span id="fig-10-4b"></span>![](_page_4_Picture_3.jpeg)
+<span id="fig-10-4b"></span>![](_page_3_Picture_5.jpeg)
 
 **FIGURE 10.4b** Completed IMA harvest.
 
@@ -255,29 +255,29 @@ In a similar way to conventional bypass grafting, DeBakey forceps and a robotic 
 
 The initial stitch is placed back-hand on the toe of the coronary artery in an inside-out fashion. The needle is parked safely away in the epicardium. The suture line is continued with the contralateral needle, but now from the toe of the graft inside-out and the coronary artery site will follow as outside-in. After the first three throws the graft is parachuted down to the coronary level and the stitching procedure becomes easier. It is essential to apply adequate suture line tension in order to avoid leaks on the back wall, which are more challenging to correct than on the facing front side. [Fig. 10.5](#fig-10-5) shows the back-wall suturing process.
 
-<span id="fig-10-5a"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-10-5a"></span>![](_page_4_Picture_13.jpeg)
 
 **FIGURE 10.5a** Back‑wall suturing – early stage.
 
-<span id="fig-10-5b"></span>![](_page_5_Picture_5.jpeg)
+<span id="fig-10-5b"></span>![](_page_4_Picture_15.jpeg)
 
 **FIGURE 10.5b** Back‑wall suturing – completed.
 
 [Figs. 10.6](#fig-10-6a) and [10.7](#fig-10-7a) show the suturing sequence and its completion.
 
-<span id="fig-10-6a"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-10-6a"></span>![](_page_5_Picture_11.jpeg)
 
 **FIGURE 10.6a** Anastomosis – parachuting the graft.
 
-<span id="fig-10-6b"></span>![](_page_6_Picture_4.jpeg)
+<span id="fig-10-6b"></span>![](_page_5_Picture_13.jpeg)
 
 **FIGURE 10.6b** Anastomosis – completing the suture line.
 
-<span id="fig-10-7a"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-10-7a"></span>![](_page_5_Picture_15.jpeg)
 
 **FIGURE 10.7a** Final inspection of anastomosis.
 
-<span id="fig-10-7b"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-10-7b"></span>![](_page_5_Picture_17.jpeg)
 
 **FIGURE 10.7b** Completed anastomosis.
 

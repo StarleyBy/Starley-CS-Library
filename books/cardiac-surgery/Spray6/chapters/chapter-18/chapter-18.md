@@ -155,56 +155,23 @@ The preoperative evaluation of patients for robot mitral valve surgery is simila
 
 The importance of transesophageal echocardiography (TEE) guidance in making mitral valve repair decisions cannot be overemphasized and has been well established. We use the Carpentier functional and topographic classifications to describe TEE evaluations. Pre-incision 2D ([Fig. 18.1](#fig-18-1) and [18.2](#fig-18-2)) and 3D TEE ([Fig. 18.3](#fig-18-3)) studies are essential to formulate a repair plan. Also, quantitative mitral valve 3D echo modeling ([Fig. 18.4](#fig-18-4)) has been a very useful adjunct. [Fig. 18.5](#fig-18-5) shows the 2D and 3D TEE measurements that we use to develop an intraoperative "blueprint" for every mitral repair. The direction of each jet (leak) is mapped, and both the mobility and the level of leaflet prolapse/restriction are determined. Each leaflet segment (P1–P3, A1–A3) is measured with specific attention to both the A2 length and P1–P3 heights (annulus to coapting edge). Adding 7 mm to the A2 length in the 120-degree midesophageal view guides us during annuloplasty band size selection ([Fig. 18.1](#fig-18-1)). The planar angle between the aortic and mitral valve annulus is determined ([Fig. 18.2](#fig-18-2)). Finally, the annular diameter, outflow tract septal thickness, and coaptation point to septal (C–sept) distances are measured. All TEE studies can be transmitted to the operating console Tile-Pro™ (Intuitive Surgical, Sunnyvale, CA) for intraoperative visualization during the repair. The TEE also alerts us to the presence of aortic regurgitation and left ventricular hypertrophy, both of which warrant adjustment in myocardial preservation strategy.
 
-<span id="fig-18-1"></span>![](_page_2_Picture_2.jpeg)
+<span id="fig-18-1"></span>![](_page_18_Picture_1.jpeg)
 
 **FIGURE 18.1** The 120° midesophageal TEE view for measuring the anterior mitral valve leaflet length.
 
-<span id="fig-18-2"></span>![](_page_2_Picture_4.jpeg)
+<span id="fig-18-2"></span>![](_page_18_Picture_2.jpeg)
 
 **FIGURE 18.2** Measuring the aortomitral angle for assessing the risk of postoperative systolic anterior motion (SAM).
 
-<span id="fig-18-3"></span>![](_page_2_Picture_6.jpeg)
+<span id="fig-18-3"></span>![](_page_18_Picture_3.jpeg)
 
 **FIGURE 18.3** 3D echo showing P2 prolapse.
 
-<span id="fig-18-4"></span>![](_page_2_Figure_8.jpeg)
+<span id="fig-18-4"></span>![](_page_18_Picture_4.jpeg)
 
 **FIGURE 18.4** 3D model of mitral valve generated using MVQ™ (Philips) software.
 
-<span id="fig-18-5"></span>
-
-| Measurement | Reference / Value |
-|-------------|-------------------|
-| **120° ME long axis** | |
-| LVOT | <2.2 cm (divided by 0.8 = intertrigonal estimate) |
-| A2 | 2.5–3.0 cm, early diastole, leaflet extended |
-| P2 | 1.0–1.5 cm, early diastole, leaflet extended |
-| Annulus (short/high) | <3.8 cm, early diastole, leaflets open |
-| Annular calcium? | |
-| **60° ME commissural** | |
-| P1 | 1–1.5 cm, early diastole, leaflet extended |
-| P3 | 1–1.5 cm, early diastole, leaflet extended |
-| Annulus (long/low) | <4.0 cm |
-| Annular calcium? | |
-| **0° ME 4 chamber** | |
-| Left atrium | <5.2 cm, end systole |
-| **3D Model** | |
-| Annulus long/low (cm) (DAIPm) | Height (mm) |
-| Annulus short/high (cm) (DAP) | |
-| Aortic–mitral angle | want >120° |
-| Commissure length (mm) | |
-| Leaflets total lengths = L3OT (mm) | Exposed lengths = L3OE (mm) |
-| A2 | P1 |
-| P2 | P3 |
-| Max prolapse (mm) | |
-| MR type | 1 – central; 2 – prolapse; 3 – restricted (A – rheum, B – ischemic) |
-| **3D Live** | |
-| Commissural leaflet? | Clefts? |
-| **Increased SAM risk** | |
-| AL >3.0 | C–sept <2.5 cm (septum to anterior coaptation, LA side) |
-| PL >1.6 | MV/Ao <120° |
-| AL/PL <1.3 | |
-| **Estimates of ring/valve size** | LVOT/0.8, commissural distance, short annular height, anterior leaflet area |
+<span id="fig-18-5"></span>![](_page_18_Picture_5.jpeg)
 
 **FIGURE 18.5** Mitral valve repair checklist for planning the repair.
 
@@ -218,11 +185,11 @@ The importance of transesophageal echocardiography (TEE) guidance in making mitr
 
 Patient positioning is typically supine with the right thorax elevated ([Fig. 18.6](#fig-18-6)). To improve surgical exposure, the right arm is positioned by the side, allowing the shoulder to become displaced posteriorly. To avoid brachial plexus and neck stress, the right shoulder should be supported. External defibrillator pads should be applied, crossing the cardiac mass, and connected before starting the procedure. As a right anterolateral mini-thoracotomy working port is used, right lung isolation is essential. The most common techniques for achieving lung isolation are with either a double-lumen endotracheal tube (DLT) or a right-sided bronchial blocker. After separation from CPB, single-lung ventilation is often needed to check surgically for bleeding. [Fig. 18.7](#fig-18-7) illustrates the anesthetic preparation that is typical for these and includes a DLT, a TEE probe, a Swan–Ganz pulmonary artery catheter, and the right internal jugular superior vena cava (SVC) cannula.
 
-<span id="fig-18-6"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-18-6"></span>![](_page_18_Picture_6.jpeg)
 
 **FIGURE 18.6** Patient positioning for right anterolateral thoracotomy approach with port and access sites marked.
 
-<span id="fig-18-7"></span>![](_page_4_Picture_6.jpeg)
+<span id="fig-18-7"></span>![](_page_18_Picture_7.jpeg)
 
 **FIGURE 18.7** Anesthetic setup showing the double-lumen endotracheal tube, TEE probe, Swan–Ganz catheter and right internal jugular SVC cannula (arrow) in place.
 
@@ -238,7 +205,7 @@ Patient positioning is typically supine with the right thorax elevated ([Fig. 18
 
 Venous return to the CPB circuit can be achieved in several ways. We establish inferior vena caval (IVC) drainage using either a 23 Fr or 25 Fr RAP™ femoral venous cannula (Estech, San Ramon, CA). After accessing the femoral vein, a guidewire is advanced into the right atrium under TEE guidance, and the cannula is inserted over the wire using the Seldinger technique. Also, we prefer to place a thin-walled (15 Fr or 17 Fr) Bio-Medicus™ cannula (Medtronic, Minneapolis, MN) through the right internal jugular vein (double-puncture method) and position it in the distal SVC. [Figs. 18.7](#fig-18-7) and [18.8](#fig-18-8) show the venous cannulae in place. Vacuum assistance is used to assist venous drainage. Long percutaneous cannulae and vacuum assistance can increase venous return by 20–40%. In contradistinction, adequate total body venous drainage can be achieved with a single femoral venous cannula as long as the major side holes reside within the mid right atrium with the tip passed into the proximal SVC. The dynamic atrial retractor can impede venous drainage and repositioning will usually solve this problem. The placement of a large-bore drainage catheter in the neck is not without potential risks. Care must be taken when inserting this cannula to avoid the internal jugular vein (IJ) or SVC perforation. TEE guidance for both wire and cannula placement is essential for safety. A small dose of heparin should be administered just before IJ cannulation. When the right atrium must be opened for a concomitant tricuspid valve repair, caval tapes are applied to prevent air entrainment.
 
-<span id="fig-18-8"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-18-8"></span>![](_page_18_Picture_8.jpeg)
 
 **FIGURE 18.8** Right groin cannulae comprising the femoral arterial and the femoral venous cannulae. The femoral venous cannula is positioned in the right atrium using TEE guidance.
 
@@ -246,11 +213,11 @@ During femoral artery cannulation, the guidewire should be passed into the dista
 
 When using peripheral arterial cannulation, we monitor oxygen saturation in both legs to decrease the risk of ischemia. By using the NIRS probe (INVOS® Cerebral/Somatic Oximeter, Medtronic, Minneapolis, MN) and a dual-chamber monitor to record simultaneously cerebral and leg arterial saturations ([Fig. 18.9a‑b](#fig-18-9a)), we are alerted to any significant drop in peripheral saturation (to less than 20% baseline). In this instance we shunt the affected leg by introducing a 5 Fr sheath into the distal femoral artery. This technique has prevented us from having any patients with devastating limb injury. Complications associated with vascular access and retrograde arterial perfusion using endoballoon aortic occlusion devices were reported by Mohr and colleagues. New York University surgeons described a decrease in neurologic events from 4.7% to 1.2% by using central aortic cannulation during minimally invasive valve surgery. Murphy and colleagues report the use of a screening protocol to identify and avoid femoral cannulation in patients considered at higher risk for retrograde embolization.
 
-<span id="fig-18-9a"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-18-9a"></span>![](_page_18_Picture_9a.jpeg)
 
 **FIGURE 18.9a** Setup for monitoring peripheral leg saturations.
 
-<span id="fig-18-9b"></span>![](_page_5_Picture_5.jpeg)
+<span id="fig-18-9b"></span>![](_page_18_Picture_9b.jpeg)
 
 **FIGURE 18.9b** NIRS monitor.
 
@@ -292,27 +259,27 @@ A 4 cm working port (mini-thoracotomy) is made in the right fourth interspace,
 
 The da Vinci™ robotic instrument cart is docked at the left side of the table and instruments are passed through these trocars. The 30-degree 3D HD endoscopic camera is positioned looking up through either the working port or a separate fifth interspace port. We use the following robotic instruments for mitral valve surgery: Resano (8 mm) Endowrist™ forceps, which are deployed through the left trocar, and either curved Endowrist™ scissors or Suture-cut™ needle holders, both of which are inserted through the right port. Lastly, the dynamic retractor is positioned in the chest before initiating cardiopulmonary perfusion.
 
-<span id="fig-18-10"></span>![](_page_6_Picture_10.jpeg)
+<span id="fig-18-10"></span>![](_page_18_Picture_10.jpeg)
 
 **FIGURE 18.10** Typical setup for a robot-assisted mitral valve repair with the da Vinci system docked.
 
 After systemic perfusion (28 °C) has decompressed the heart, the pericardium is opened linearly 3 cm anterior to the phrenic nerve. To expose the aorta, the right superior pulmonary vein, and interatrial groove, three transthoracic 2-0 braided suture loops are placed along the posterior pericardial edge and passed through the chest wall to distract it laterally ([Fig. 18.11](#fig-18-11)). For the cardioplegia vent catheter a 3-0 pledgeted H-shaped PTFE suture is placed robotically in the ascending aorta just proximal to the fatty fold of Rindfleisch. A long Medtronic catheter (Medtronic, Minneapolis, MN) is inserted through either the incision or a separate port and secured ([Fig. 18.12a‑d](#fig-18-12a)). The tableside assistant then introduces the transthoracic aortic cross-clamp through the third interspace at the posterior axillary line, passing it across the SVC–pericardial junction. With robotic instruments lifting the aorta and under videoscopic guidance, the posterior clamp time is passed through the transverse sinus ([Fig. 18.13a‑c](#fig-18-13a)). The right pulmonary artery and left atrial appendage should be viewed at this time. After aortic clamping, 25 mL/kg of HTK Bretschneider solution is administered with an additional small dose of cardioplegia given after 1 hour.
 
-<span id="fig-18-11"></span>![](_page_6_Picture_14.jpeg)
+<span id="fig-18-11"></span>![](_page_18_Picture_11.jpeg)
 
 **FIGURE 18.11** Pericardial retraction suture using Leyla loops.
 
-<span id="fig-18-12a"></span>![](_page_7_Picture_4.jpeg)
+<span id="fig-18-12a"></span>![](_page_18_Picture_12a-d.jpeg)
 
 **FIGURE 18.12a‑d** A 3-0 Gore‑Tex cardioplegia stitch and the antegrade cardioplegia cannula in situ.
 
-<span id="fig-18-13a"></span>![](_page_7_Picture_6.jpeg)
+<span id="fig-18-13a"></span>![](_page_18_Picture_13a-c.jpeg)
 
 **FIGURE 18.13a‑c** Chitwood transthoracic clamp: insertion and placement.
 
 Using the curved Endowrist™ scissors, minimal dissection is performed along the right superior pulmonary vein and toward the interatrial groove. The left atrium is opened radially, being careful not to damage either pulmonary vein. Thereafter, the dynamic retractor ([Fig. 18.14](#fig-18-14)) is positioned in the left atrium to expose the mitral apparatus, and a transthoracic sump sucker is placed in the left superior pulmonary vein. At the end of the repair the atriotomy is closed using 4-0 PTFE suture loops.
 
-<span id="fig-18-14"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-18-14"></span>![](_page_18_Picture_14.jpeg)
 
 **FIGURE 18.14** Dynamic left atrial retractor.
 
@@ -324,35 +291,49 @@ Using the curved Endowrist™ scissors, minimal dissection is performed along th
 
 All of our leaflet repairs are based on the preoperative TEE measurements shown in [Fig. 18.5](#fig-18-5). With degenerative mitral insufficiency, 80% of pathology relates to posterior leaflet defects. In many circumstances a simple triangular resection will correct isolated segmental prolapse ([Fig. 18.15a‑b](#fig-18-15a)). We suggest using this method first to correct isolated scallops having mid-prolapse or ruptured chords, and then testing the repair early with ventricular saline filling. Leaflet segments that remain longer than 2 cm should be reduced in height using either a folding-plasty ([Fig. 18.16](#fig-18-16)) or an additional triangular resection. Additional techniques can be used to provide a uniform coaptation line.
 
-<span id="fig-18-15a"></span>![](_page_8_Picture_8.jpeg)
+<span id="fig-18-15a"></span>![](_page_18_Picture_15a.jpeg)
+  
+<span id="fig-18-15b"></span>![](_page_18_Picture_15b.jpeg)
 
 **FIGURE 18.15a‑b** Triangular leaflet resection and repair.
 
-<span id="fig-18-16"></span>![](_page_9_Figure_2.jpeg)
+<span id="fig-18-16"></span>![](_page_18_Picture_16.jpeg)
 
 **FIGURE 18.16** Posterior leaflet folding-plasty.
 
 In the presence of diminutive P1 and P2 scallops and a very large P2, one should consider either the "haircut" resection technique ([Fig. 18.17a‑d](#fig-18-17a)) or insertion of several PTFE neochords. For multiple prolapsing scallops or those longer than 2 cm, several folding-plasties can be adjusted to create the best coaptation line. Final scallop height folding adjustments are made after the annuloplasty band has been implanted. An alternative to several triangular resections or folding-plasties is multiple PTFE neochord replacements, using the Frater–David technique ([Fig. 18.18a‑b](#fig-18-18a)). In severely prolapsing Barlow's valves with very elongated scallops, we still defer to a classic mid-scallop (P2) resection with a posterior leaflet annular sliding-plasty ([Fig. 18.19a‑c](#fig-18-19a)). However, multiple triangular resections, folding-plasties and/or multiple neochords can be used to repair moderately severe Barlow's valves.
 
-<span id="fig-18-17a"></span>![](_page_10_Picture_3.jpeg)
+<span id="fig-18-17a"></span>![](_page_18_Picture_17a.jpeg)
+  
+<span id="fig-18-17b"></span>![](_page_18_Picture_17b.jpeg)
+  
+<span id="fig-18-17c"></span>![](_page_18_Picture_17c.jpeg)
+  
+<span id="fig-18-17d"></span>![](_page_18_Picture_17d.jpeg)
 
 **FIGURE 18.17a‑d** “Haircut” P2 resection and repair for large prolapsing P2.
 
-<span id="fig-18-18a"></span>![](_page_11_Picture_2.jpeg)
+<span id="fig-18-18a"></span>![](_page_18_Picture_18a.jpeg)
+  
+<span id="fig-18-18b"></span>![](_page_18_Picture_18b.jpeg)
 
 **FIGURE 18.18a‑b** Robot-assisted neochord implantation.
 
-<span id="fig-18-19a"></span>![](_page_12_Picture_1.jpeg)
+<span id="fig-18-19a"></span>![](_page_18_Picture_19a.jpeg)
+  
+<span id="fig-18-19b"></span>![](_page_18_Picture_19b.jpeg)
+  
+<span id="fig-18-19c"></span>![](_page_18_Picture_19c.jpeg)
 
 **FIGURE 18.19a‑c** Posterior leaflet sliding-plasty.
 
 Most of our mitral repairs have been supported by a trigone-to-trigone Cosgrove™ annuloplasty band (Edwards Lifesciences, Irvine, CA). We prefer to use multipoint band fixation, using deep braided sutures (2-0 Cardioflon, Peters, Paris, France) secured by Cor-Knot™ (LSI Solutions, Victor, NY) titanium clips ([Figs. 18.20 and 18.21](#fig-18-20)). Some robotic surgeons prefer to use a running suture technique with extracorporeal knot tying.
 
-<span id="fig-18-20"></span>![](_page_13_Picture_8.jpeg)
+<span id="fig-18-20"></span>![](_page_18_Picture_20.jpeg)
 
 **FIGURE 18.20** Intraoperative view showing annuloplasty ring being secured with Cor‑Knot™ (arrow).
 
-<span id="fig-18-21"></span>![](_page_13_Picture_9.jpeg)
+<span id="fig-18-21"></span>![](_page_18_Picture_21.jpeg)
 
 **FIGURE 18.21** Intraoperative view of a completed annuloplasty, secured using Cor‑Knot™.
 
@@ -364,17 +345,29 @@ Most of our mitral repairs have been supported by a trigone-to-trigone Cosgrove�
 
 With an isolated uniform anterior leaflet prolapse of less than 2–3 mm, we place the annuloplasty band first and then saline test to determine the level of coaptation. Most of these will be corrected by insertion of the band. When significant anterior prolapse exists, individual leaflet zones can be addressed by a local triangular resection, a secondary chord transfer, insertion of PTFE neochords, or a combination of these ([Fig. 18.22a‑c](#fig-18-22a)). In elderly patients, especially with significant comorbid conditions, we may perform an (“Alfieri”) edge-to-edge mid-leaflet repair combined with an annuloplasty. When a large anterior leaflet prolapsing segment is related to multiple chords from an elongated papillary muscle, correction can be accomplished either by muscle shortening (folding) ([Fig. 18.23a‑d](#fig-18-23a)) or by insertion of several PTFE chords. For large areas of uniform anterior leaflet prolapse, a leading edge strip (rough zone) can be incised and advanced along the anterior leaflet toward the annulus. We perform a saline test after each individual repair maneuver.
 
-<span id="fig-18-22a"></span>![](_page_14_Figure_2.jpeg)
+<span id="fig-18-22a"></span>![](_page_18_Picture_22a.jpeg)
+  
+<span id="fig-18-22b"></span>![](_page_18_Picture_22b.jpeg)
+  
+<span id="fig-18-22c"></span>![](_page_18_Picture_22c.jpeg)
 
 **FIGURE 18.22a‑c** Anterior leaflet repair using triangular resection and secondary chord transfer.
 
-<span id="fig-18-23a"></span>![](_page_15_Figure_2.jpeg)
+<span id="fig-18-23a"></span>![](_page_18_Picture_23a.jpeg)
+  
+<span id="fig-18-23b"></span>![](_page_18_Picture_23b.jpeg)
+  
+<span id="fig-18-23c"></span>![](_page_18_Picture_23c.jpeg)
+  
+<span id="fig-18-23d"></span>![](_page_18_Picture_23d.jpeg)
 
 **FIGURE 18.23a‑d** Papillary muscle folding-plasty.
 
 In most circumstances commissure prolapse can be corrected by closure with a Carpentier “magic” stitch (Lembert edge-to-edge suture) ([Fig. 18.24a‑b](#fig-18-24a)) or by insertion of commissural PTFE chords, or papillary muscle folding. The latter can correct an elongated papillary muscle that originates chords to both anterior and posterior leaflet edges. Rarely, a leaflet sliding-plasty is used to correct a single posterior scallop commissure prolapse.
 
-<span id="fig-18-24a"></span>![](_page_16_Picture_2.jpeg)
+<span id="fig-18-24a"></span>![](_page_18_Picture_24a.jpeg)
+  
+<span id="fig-18-24b"></span>![](_page_18_Picture_24b.jpeg)
 
 **FIGURE 18.24a‑b** Commissural prolapse being corrected with a “magic” stitch.
 

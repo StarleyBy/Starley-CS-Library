@@ -146,17 +146,17 @@ There are three techniques for implanting the pulmonary autograft:
 
 **1.** The *subcoronary position* using two suture lines ([Fig. 20.1](#fig-20-1a)). This technique has the advantage of retaining normal aortic wall around the autograft. This is believed to prevent progressive dilatation of the aortic root.
 
-<span id="fig-20-1a"></span>![](_page_3_Picture_5.jpeg)
+<span id="fig-20-1a"></span>![](_page_20_Picture_1a.jpeg)
 
 **FIGURE 20.1a** Subcoronary implantation technique.
 
-<span id="fig-20-1b"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-20-1b"></span>![](_page_20_Picture_1b.jpeg)
 
 **FIGURE 20.1b** Subcoronary implantation – second suture line.
 
 **2.** The *inclusion technique*, which theoretically keeps both autograft root and original aortic root intact. This technique is not suitable for the small aortic root ([Fig. 20.2](#fig-20-2)).
 
-<span id="fig-20-2"></span>![](_page_3_Picture_9.jpeg)
+<span id="fig-20-2"></span>![](_page_20_Picture_2.jpeg)
 
 **FIGURE 20.2** Inclusion technique.
 
@@ -164,13 +164,13 @@ There are three techniques for implanting the pulmonary autograft:
 
 Before arresting the heart, mobilization of the fat pad at the proximal aorta to identify the origin of the right coronary artery is advisable, and dissection of the pulmonary artery away from the ascending aorta with limited mobilization of the pulmonary artery branches is useful to facilitate reconstruction of the right ventricular outflow tract (RVOT) after the autograft has been harvested ([Fig. 20.3](#fig-20-3)).
 
-<span id="fig-20-3"></span>![](_page_4_Picture_5.jpeg)
+<span id="fig-20-3"></span>![](_page_20_Picture_3.jpeg)
 
 **FIGURE 20.3** Dissection of pulmonary artery away from ascending aorta.
 
 With the aorta cross-clamped and after cardioplegia administration, a transverse aortotomy is made approximately 1.5 cm distal to the origin of the right coronary artery and the aortic valve is examined. If the aortic valve is not repairable, the valve is excised and additional cardioplegia is injected antegrade into the coronary ostia as necessary ([Fig. 20.4](#fig-20-4)).
 
-<span id="fig-20-4"></span>![](_page_4_Picture_7.jpeg)
+<span id="fig-20-4"></span>![](_page_20_Picture_4.jpeg)
 
 **FIGURE 20.4** Transverse aortotomy and valve excision.
 
@@ -180,19 +180,19 @@ With the aorta cross-clamped and after cardioplegia administration, a transverse
 
 The pulmonary artery is incised and transected a few millimeters above the valve commissures. Careful examination is performed to ensure that the pulmonary valve is anatomically normal and therefore usable as an autograft valve replacement ([Fig. 20.5a](#fig-20-5a)). If the pulmonary valve is bicuspid but otherwise anatomically suitable, and if the Ross procedure is definitely the preferred procedure, then use of the bicuspid pulmonary valve can be considered, but we do not recommend this, not least because the later results of the use of these valves are not known. More significant valvular abnormalities, such as abnormal commissural attachments or extra or diminutive cusps, have been associated with early failure, and the valve should not be used in this circumstance. If the pulmonary valve is abnormal, the pulmonary artery can be closed, and valve replacement of the aortic valve is performed with any of the numerous other potential prosthetic valve options.
 
-<span id="fig-20-5a"></span>![](_page_4_Picture_10.jpeg)
+<span id="fig-20-5a"></span>![](_page_20_Picture_5a.jpeg)
 
 **FIGURE 20.5a** Inspection of pulmonary valve.
 
 If the autograft is usable, the pulmonary valve is retracted anteriorly, and initial dissection is begun on the posterior aspect of the proximal pulmonary artery adjacent to the pulmonary artery until septal myocardium is encountered. Staying close to the posterior aspect of the pulmonary valve will avoid the left coronary artery. Use of electrocautery dissection in this area is advantageous to cauterize any small epicardial vessels that may cause troublesome postoperative bleeding ([Fig. 20.5b](#fig-20-5b)).
 
-<span id="fig-20-5b"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-20-5b"></span>![](_page_20_Picture_5b.jpeg)
 
 **FIGURE 20.5b** Dissection of posterior aspect of pulmonary artery.
 
 After mobilization of the posterior aspect of the pulmonary valve, a right-angle clamp is placed through the pulmonary valve approximately 4–5 mm below the pulmonary valve annulus where the anterior aspect of the right ventricular RVOT can be identified, and a small transverse incision is made below the pulmonary valve annulus in the outflow tract ([Fig. 20.5c](#fig-20-5c)).
 
-<span id="fig-20-5c"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-20-5c"></span>![](_page_20_Picture_5c.jpeg)
 
 **FIGURE 20.5c** Initial incision in RVOT.
 
@@ -200,23 +200,23 @@ Once the incision is made in the right ventricle (RV) and the pulmonary valve le
 
 Completion of the enucleation of the pulmonary autograft from the RVOT is performed by partially incising the posterior ventricular muscle of the septum. A fat pad and plane of dissection are usually present in the place of penetration of the first septal perforator off the anterior descending coronary artery, which traverses the septal musculature toward the conal papillary muscle of the tricuspid valve. Care must be taken to avoid interference with this vessel; if the dissection is carefully kept in the plane adjacent to the anterior muscle of the septum, it can be readily avoided. Often a fibrous tissue connection (i.e. the conus tendon) is present between the pulmonary artery and the aortic annulus, which may require sharp division to complete the enucleation of the autograft ([Fig. 20.5d](#fig-20-5d)).
 
-<span id="fig-20-5d"></span>![](_page_6_Picture_2.jpeg)
+<span id="fig-20-5d"></span>![](_page_20_Picture_5d.jpeg)
 
 **FIGURE 20.5d** Division of conus tendon.
 
 After enucleation of the pulmonary valve and pulmonary artery, the muscle beneath the pulmonary valve should be trimmed 2–3 mm below the valve annulus. It is often advantageous to bevel the muscle to thin the muscular annulus, which will then be placed in the left ventricular outflow tract (LVOT) to avoid potential subaortic narrowing ([Fig. 20.6a and b](#fig-20-6a)).
 
-<span id="fig-20-6a"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-20-6a"></span>![](_page_20_Picture_6a.jpeg)
 
 **FIGURE 20.6a** Trimming infundibular muscle.
 
-<span id="fig-20-6b"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-20-6b"></span>![](_page_20_Picture_6b.jpeg)
 
 **FIGURE 20.6b** Beveled muscular annulus.
 
 The left and right coronary ostia are then mobilized and excised with a large button of aortic wall for reimplantation into the autograft. If feasible, the non-coronary sinus is kept intact as it can provide support for the autograft ([Fig. 20.7](#fig-20-7)).
 
-<span id="fig-20-7"></span>![](_page_6_Picture_9.jpeg)
+<span id="fig-20-7"></span>![](_page_20_Picture_7.jpeg)
 
 **FIGURE 20.7** Coronary buttons excised, non‑coronary sinus preserved.
 
@@ -228,63 +228,57 @@ The left and right coronary ostia are then mobilized and excised with a large bu
 
 A major consideration for the pulmonary autograft implantation is the size-matching between the autograft valve and the aortic annulus. A maximum of 3–4 mm discrepancy is allowed. One should not try to compensate for an existing discrepancy between a large aortic annulus and a smaller pulmonary valve annulus by harvesting more RV muscle below the pulmonary valve. This may lead to progressive dilatation and autograft failure. The autograft should also be short and only a few millimeters above the commissures. (If the ascending aorta is dilated and needs replacement, an interposition graft should be used.) Although annular reduction is feasible and there are many ways to do it, we do not recommend it: basically, patients with a dilated aortic annulus to more than 27 mm are not good candidates for the Ross procedure.
 
-If the pulmonary autograft is larger than the aortic annulus, which is often the case when doing the procedure for AS with a small aortic annulus, the excision of the aortic valve usually allows the annulus to dilate to match the autograft. Cutting the aortic annulus 5–6 mm to the left of the right coronary ostium will allow enlargement of the annulus to match the autograft in most cases. In patients with complex LVOTO associated with AS ([Fig. 20.8a](#fig-20-8a)) generous septal myomectomy should be performed. With both the aortic and pulmonary valves excised, the exposure is excellent. The resection can be guided by palpating the ventricular septum between the fingers to avoid creating a ventricular septal defect (mini Ross–Konno technique). Enlarging the LVOT just enough to match the pulmonary autograft is adequate as the autograft will grow, resulting in no recurrence of stenosis ([Fig. 20.8b–d](#fig-20-8b)).
+If the pulmonary autograft is larger than the aortic annulus, which is often the case when doing the procedure for AS with a small aortic annulus, the excision of the aortic valve usually allows the annulus to dilate to match the autograft. Cutting the aortic annulus 5–6 mm to the left of the right coronary ostium will allow enlargement of the annulus to match the autograft in most cases. In patients with complex LVOTO associated with AS ([Fig. 20.8a](#fig-20-8a)) generous septal myomectomy should be performed. With both the aortic and pulmonary valves excised, the exposure is excellent. The resection can be guided by palpating the ventricular septum between the fingers to avoid creating a ventricular septal defect (mini Ross–Konno technique). Enlarging the LVOT just enough to match the pulmonary autograft is adequate as the autograft will grow, resulting in no recurrence of stenosis ([Fig. 20.8b–d](#fig-20-8a)).
 
-<span id="fig-20-8a"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-20-8a"></span>![](_page_20_Picture_8a-d.jpeg)
 
 **FIGURE 20.8a** Complex LVOTO.
 
-<span id="fig-20-8b"></span>![](_page_7_Picture_4.jpeg)
-
 **FIGURE 20.8b** Septal myomectomy (mini Ross‑Konno).
 
-<span id="fig-20-8c"></span>![](_page_7_Picture_5.jpeg)
-
 **FIGURE 20.8c** Enlarged LVOT.
-
-<span id="fig-20-8d"></span>![](_page_7_Picture_6.jpeg)
 
 **FIGURE 20.8d** Autograft seated in enlarged annulus.
 
 Implantation of the autograft is performed by orienting the autograft such that the pulmonary valve sinuses line up with the reimplantation sites for the coronary ostia. A suture is placed at the base of each commissure of the pulmonary autograft and positioned in the aortic annulus, trifurcated by the three sutures. Because the pulmonary valve sinuses are equal in size and the AV sinuses are rarely equal in AV pathology, adjustment of these sutures is necessary to align the autograft in the aortic annulus. Whether an interrupted or a continuous suturing is utilized, the suture should strictly follow the original level of the AV annulus ([Fig. 20.9](#fig-20-9)).
 
-<span id="fig-20-9"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-20-9"></span>![](_page_20_Picture_9.jpeg)
 
 **FIGURE 20.9** Commissural sutures placed at original annulus level.
 
 While suturing the autograft, the needle is placed at the bottom of the sinus very close to the autograft leaflet insertion, ensuring that no RV muscle is incorporated in the suture line. This allows the hinge mechanism of the pulmonary autograft to be supported by the native aortic annulus ([Fig. 20.10a and b](#fig-20-10a)).
 
-<span id="fig-20-10a"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-20-10a"></span>![](_page_20_Picture_10a.jpeg)
 
 **FIGURE 20.10a** Suture placement at bottom of sinus.
 
-<span id="fig-20-10b"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-20-10b"></span>![](_page_20_Picture_10b.jpeg)
 
 **FIGURE 20.10b** Completed suture line – no RV muscle incorporated.
 
 If the annulus is to be fixed, as is recommended in virtually all patients with borderline dilated annulus undergoing the Ross procedure, the sutures should be replaced through a continuous strip of Dacron or Teflon felt; alternatively, with the interrupted technique, the sutures can be tied over a strip of Dacron graft material to fix the aortic annulus at a set size. Care is taken to inspect the AV leaflets all the time to ensure that no injury has occurred ([Fig. 20.11](#fig-20-11)). Annular fixation is usually not done in young children.
 
-<span id="fig-20-11"></span>![](_page_8_Picture_8.jpeg)
+<span id="fig-20-11"></span>![](_page_20_Picture_11.jpeg)
 
 **FIGURE 20.11** Annular fixation with Dacron strip.
 
 Both the right and left coronary arteries can be implanted at this time, or the left coronary can be initially implanted and the distal suture line created to allow the pulmonary autograft to distend to better judge the location for reimplantation of the right coronary, which can be higher than normal on the autograft wall ([Fig. 20.12](#fig-20-12)).
 
-<span id="fig-20-12"></span>![](_page_9_Picture_3.jpeg)
+<span id="fig-20-12"></span>![](_page_20_Picture_12.jpeg)
 
 **FIGURE 20.12** Coronary reimplantation.
 
 After completion of the coronary implantation, the distal suture line to the ascending aorta is created. It may be necessary to tailor the distal aortic size to be equal to the autograft diameter by excision of a wedge of tissue anteriorly. It is also preferable to reinforce the aortic suture line using a strip of Teflon felt or Dacron graft material if there is any potential size discrepancy (sinotubular junction reinforcement, [Fig. 20.13a–c](#fig-20-13a)). This is usually not necessary in children. After completion of the reconstruction, cardioplegia can be injected through the aortic suture line just before tying to ensure dilation of the aortic root without autograft insufficiency and to check for any potential bleeding sites.
 
-<span id="fig-20-13a"></span>![](_page_9_Picture_6.jpeg)
+<span id="fig-20-13a"></span>![](_page_20_Picture_13a.jpeg)
 
 **FIGURE 20.13a** Distal anastomosis.
 
-<span id="fig-20-13b"></span>![](_page_9_Picture_7.jpeg)
+<span id="fig-20-13b"></span>![](_page_20_Picture_13b.jpeg)
 
 **FIGURE 20.13b** STJ reinforcement.
 
-<span id="fig-20-13c"></span>![](_page_9_Picture_8.jpeg)
+<span id="fig-20-13c"></span>![](_page_20_Picture_13c.jpeg)
 
 **FIGURE 20.13c** Completed reconstruction.
 
@@ -298,7 +292,7 @@ At this time, the aortic clamp can be released, if desired, to test the integrit
 
 The RV outflow tract is reconstructed with use of a pulmonary homograft ([Fig. 20.14](#fig-20-14)). Recent modifications of cryopreservation have improved the lack of antigenicity of homografts, which may improve late results. A pulmonary homograft of a suitable adult size is selected, thawed, and then trimmed to match the length and width of the subpulmonary muscle tissue, the excised pulmonary autograft. After the aortic clamp is released, the distention of the autograft may actually make exposure to the pulmonary bifurcation more difficult for suturing of the pulmonary homograft; for this reason we prefer to do the entire procedure with the aorta cross-clamped. The distal anastomosis of the homograft is then created, and the proximal anastomosis of the homograft to the RVOT is created with a running polypropylene suture, with care being taken to place the posterior suture line superficially in the septal muscle to avoid interference with the septal perforators of the anterior descending coronary artery. If homograft is not available, other substitutes can be used, such as the Contegra® bovine jugular vein valved xenograft.
 
-<span id="fig-20-14"></span>![](_page_10_Picture_3.jpeg)
+<span id="fig-20-14"></span>![](_page_20_Picture_14.jpeg)
 
 **FIGURE 20.14** Pulmonary homograft reconstruction of RVOT.
 

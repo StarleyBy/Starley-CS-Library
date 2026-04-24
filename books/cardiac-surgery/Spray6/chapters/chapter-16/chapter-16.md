@@ -145,14 +145,7 @@ There are no specific changes to anesthetic management versus other open-heart p
 
 Structural lesions cause MR or MS by reducing leaflet coaptation or impairing leaflet opening respectively. An exhaustive interrogation (identification, localization, and magnitude) for mitral lesions is essential to determine the chances of successful valve repair and to proceed with a tailored therapeutic plan for each patient. As mentioned above, Carpentier described a systematic analytic approach to patients with MR known as the "pathophysiologic triad of mitral valve regurgitation." Besides emphasizing the importance of distinguishing between etiology, lesions, and dysfunction, the triad also represents a very consistent way to elucidate which are the most appropriate techniques to achieve a successful repair. Given the very generic characteristics of mitral valve repair as an operative procedure, in part due to the vast armamentarium of techniques available, we use the classification of mitral valve disease based on the presence of abnormal leaflet motion (dysfunction) ([Fig. 16.1](#fig-16-1)) in order to describe and analyze every technique in an organized fashion.
 
-<span id="fig-16-1"></span>
-
-| Dysfunction | Frequently encountered lesions | Schematic |
-|-------------|-------------------------------|-----------|
-| **Type I** – Normal leaflet motion | Annular dilation (central jet), leaflet perforation (endocarditis) | (Image) |
-| **Type II** – Increased leaflet motion (prolapse) | Chordal elongation/rupture (fibroelastic deficiency, Barlow’s) | (Image) |
-| **Type IIIa** – Restricted leaflet motion (restricted opening) | Commissural fusion, leaflet thickening/retraction, chordal thickening/shortening/fusion (rheumatic) | (Image) |
-| **Type IIIb** – Restricted leaflet motion (restricted closure – tethering) | Papillary muscle displacement (ischaemic or dilated cardiomyopathy) | (Image) |
+<span id="fig-16-1"></span>![](_page_16_Picture_1.jpeg)
 
 **FIGURE 16.1** Carpentier classification of mitral valve dysfunction.
 
@@ -172,25 +165,25 @@ Perfect exposure of the mitral valve is essential before any procedure is attemp
 
 The interatrial groove is dissected and both atria are divided up to the fossa ovalis. The right atrium can be retracted medially and anteriorly. The right superior pulmonary vein at its junction to the left atrium is exposed ([Fig. 16.2a](#fig-16-2a)).
 
-<span id="fig-16-2a"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-16-2a"></span>![](_page_16_Picture_2a.jpeg)
 
 **FIGURE 16.2a** Dissection of interatrial groove.
 
 The dissection exposes the roof of the left atrium, which is opened at the midpoint between the right superior pulmonary vein insertion and the groove. During this maneuver, it is important not to inadvertently injure the posterior wall of the left atrium ([Fig. 16.2b](#fig-16-2b)).
 
-<span id="fig-16-2b"></span>![](_page_4_Picture_6.jpeg)
+<span id="fig-16-2b"></span>![](_page_16_Picture_2b.jpeg)
 
 **FIGURE 16.2b** Opening the roof of the left atrium.
 
 The curvilinear incision is extended longitudinally both superiorly to 1 cm from the superior vena cava and inferiorly to the midpoint between the right inferior pulmonary vein and the inferior vena cava ([Fig. 16.2c](#fig-16-2c)).
 
-<span id="fig-16-2c"></span>![](_page_4_Picture_7.jpeg)
+<span id="fig-16-2c"></span>![](_page_16_Picture_2c.jpeg)
 
 **FIGURE 16.2c** Extension of left atriotomy.
 
 If further exposure of the left atrium is required, the pericardial reflection on both vena cavae can be released and blunt dissection can be used to free the lateral aspects of both veins for about 2–3 cm ([Fig. 16.2d](#fig-16-2d)).
 
-<span id="fig-16-2d"></span>![](_page_4_Picture_8.jpeg)
+<span id="fig-16-2d"></span>![](_page_16_Picture_2d.jpeg)
 
 **FIGURE 16.2d** Release of pericardial reflections.
 
@@ -202,7 +195,7 @@ If further exposure of the left atrium is required, the pericardial reflection o
 
 Valve analysis starts with the echocardiogram. Intraoperative valve inspection, performed in a systematic fashion (annulus, leaflets, chordae, and papillary muscles), confirms echocardiographic findings or further characterizes the existent lesions ([Fig. 16.3](#fig-16-3)). This allows an accurate assessment of repair feasibility and helps to plan a surgical strategy and to choose the most appropriate techniques. Initially, the endocardium of the left atrium is carefully examined for jet lesions, thickening, thrombus, and areas of calcification. In the presence of large distended leaflets, placement of posterior annular sutures might be undertaken first to allow adequate exposure for valve analysis.
 
-<span id="fig-16-3"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-16-3"></span>![](_page_16_Picture_3.jpeg)
 
 **FIGURE 16.3** Systematic valve analysis with nerve hook.
 
@@ -216,25 +209,25 @@ The mitral annulus is then evaluated first to assess shape, symmetry, and any de
 
 Every patient undergoing mitral valve repair requires a remodeling annuloplasty in order to restore the native annular size and shape allowing full leaflet motion, and preventing any risk of recurrence by stabilizing the annulus (especially the posterior aspect) with a prosthetic device. Those valves with type I dysfunction and isolated annular dilation can be successfully repaired with only a remodeling annuloplasty ([Fig. 16.4a](#fig-16-4a)).
 
-<span id="fig-16-4a"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-16-4a"></span>![](_page_16_Picture_4a.jpeg)
 
 **FIGURE 16.4a** Remodelling annuloplasty – ring placement.
 
 Placement of the annular sutures (12–15 2-0 braided polyester mattress sutures) mandates complete visualization and identification of the mitral annulus (located approximately 2 mm away from the leaflet hinge). Grasping the leaflets transversally (as close to the annulus as possible) while applying traction towards the ventricle provides exposure and facilitates positioning of the sutures. Placing sutures along the anterior leaflet should be done using a backhand position with the needle tip oriented towards the ventricle (avoiding the aortic cusps). Sutures within the posterior annulus follow the same premises but require slightly deeper bites to reach the fibrous skeleton. For sutures along the posterior commissure, sutures are placed using a forehand position and oriented downwards. Finally, placing sutures within the anterior commissure requires a forehand position and the needle tip must be oriented towards the ventricle in order to avoid the circumflex artery ([Fig. 16.4b](#fig-16-4b)).
 
-<span id="fig-16-4b"></span>![](_page_6_Picture_3.jpeg)
+<span id="fig-16-4b"></span>![](_page_16_Picture_4b.jpeg)
 
 **FIGURE 16.4b** Suture placement technique – anterior commissure (avoid circumflex artery).
 
 Selection of the ring size is based on the assessment of the base (intercommissural distance) and height of the anterior leaflet ([Fig. 16.4c](#fig-16-4c)).
 
-<span id="fig-16-4c"></span>![](_page_6_Picture_5.jpeg)
+<span id="fig-16-4c"></span>![](_page_16_Picture_4c.jpeg)
 
 **FIGURE 16.4c** Ring sizing – intercommissural distance and anterior leaflet height.
 
 After remodeling annuloplasty, saline testing should show a competent valve, with a symmetric and posterior line of coaptation ([Fig. 16.4d](#fig-16-4d)).
 
-<span id="fig-16-4d"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-16-4d"></span>![](_page_16_Picture_4d.jpeg)
 
 **FIGURE 16.4d** Saline test – competent valve with symmetric posterior coaptation line.
 
@@ -246,19 +239,19 @@ After remodeling annuloplasty, saline testing should show a competent valve, wit
 
 The second most common lesion leading to type I dysfunction is leaflet perforation, mostly due to bacterial endocarditis. The infection process usually leads to the formation of a vegetation-abscess on the body of the anterior leaflet (atrial side) that eventually becomes a true aneurysm, often with perforation ([Fig. 16.5a](#fig-16-5a)).
 
-<span id="fig-16-5a"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-16-5a"></span>![](_page_16_Picture_5a.jpeg)
 
 **FIGURE 16.5a** Leaflet perforation due to endocarditis.
 
 Early surgical intervention should be performed after isolation and identification of the organism and initiation of the appropriate antibiotic therapy. Debridement of the infected tissue mandates a minimum of 2 mm margins of macroscopically healthy tissue ([Fig. 16.5b](#fig-16-5b)).
 
-<span id="fig-16-5b"></span>![](_page_7_Picture_4.jpeg)
+<span id="fig-16-5b"></span>![](_page_16_Picture_5b.jpeg)
 
 **FIGURE 16.5b** Debridement to healthy tissue margins.
 
 A piece of autologous pericardium is immersed in 0.625% buffered glutaraldehyde solution (Poly Scientific, Bay Shore, NY) for 10 minutes. Afterwards, the patch is rinsed in saline solution. The patch is then tailored to match the shape of the leaflet defect (accounting for 2–3 mm of margin for the suturing) and then secured using a 5-0 continuous polypropylene suture ([Fig. 16.5c](#fig-16-5c)).
 
-<span id="fig-16-5c"></span>![](_page_7_Picture_6.jpeg)
+<span id="fig-16-5c"></span>![](_page_16_Picture_5c.jpeg)
 
 **FIGURE 16.5c** Pericardial patch repair.
 
@@ -270,35 +263,35 @@ A piece of autologous pericardium is immersed in 0.625% buffered glutaraldehyde 
 
 Due to its anatomy, the anterior leaflet does not allow aggressive margin resections. Every surgical strategy to address anterior leaflet prolapse therefore includes minimal or non-resection techniques. Non-resection techniques mainly comprise chordal transfer, chordal transposition, and polytetrafluoroethylene neochordoplasty (loop technique and its variants). If resection is necessary, a triangular resection limited to the rough area of the leaflet (so as not to compromise the leaflet body) should be carefully performed ([Fig. 16.6a](#fig-16-6a)).
 
-<span id="fig-16-6a"></span>![](_page_7_Picture_9.jpeg)
+<span id="fig-16-6a"></span>![](_page_16_Picture_6a.jpeg)
 
 **FIGURE 16.6a** Triangular resection of anterior leaflet (limited to rough zone).
 
 *Chordal transfer* describes the mobilization of strong secondary chordae to the free margin of the prolapsed area (using a 5-0 polypropylene suture). Alternatively, *chordal transposition or posterior leaflet flip technique* involves the mobilization of an isolated chord or a segment of the posterior leaflet (usually the one opposed to the prolapsing area of the anterior leaflet in order to match the chordal length) with its marginal chordae. After complete mobilization and inspection of the chordae, the strip of posterior leaflet is attached to the free edge of the anterior leaflet using 5-0 polypropylene sutures ([Fig. 16.6b](#fig-16-6b)).
 
-<span id="fig-16-6b"></span>![](_page_7_Picture_11.jpeg)
+<span id="fig-16-6b"></span>![](_page_16_Picture_6b.jpeg)
 
 **FIGURE 16.6b** Chordal transposition (posterior leaflet flip).
 
 Polytetrafluoroethylene neochordoplasty has been increasingly used in mitral valve repair. First, a CV-5 double-armed polytetrafluoroethylene suture is passed and looped through the fibrous tip of the papillary muscle. Next, the two ends of the artificial chord are passed through the leaflet margin (with a distance of approximately 3 mm between them) and two slip knots are tied ([Fig. 16.6c](#fig-16-6c)).
 
-<span id="fig-16-6c"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-16-6c"></span>![](_page_16_Picture_6c.jpeg)
 
 **FIGURE 16.6c** PTFE neochordoplasty – papillary muscle to leaflet margin.
 
 In the setting of isolated anterior leaflet prolapse, we generally proceed with a remodeling annuloplasty first. Functional (using saline testing) adjustment of the final length of the neochordae can then be performed always after remodeling annuloplasty. A catheter is attached to a bulb syringe and saline is pushed into the ventricle. A nerve hook is used to adjust the length of the artificial chord. A minimum of six knots are then completed to secure the chord ([Fig. 16.6d](#fig-16-6d)).
 
-<span id="fig-16-6d"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-16-6d"></span>![](_page_16_Picture_6d.jpeg)
 
 **FIGURE 16.6d** Functional adjustment of neochordae length with saline test.
 
 The loop technique was introduced to avoid problems of functional adjustment of the neochordae (inadvertent alteration of the chordal length during fixation). Three pre-measured CV-5 polytetrafluoroethylene loops are attached to the body of the papillary muscle (mandatory use of pledgets) and the free margin of the prolapsing leaflet (using 5-0 polypropylene sutures) ([Fig. 16.6e](#fig-16-6e)) to complete the repair ([Fig. 16.6f](#fig-16-6f)).
 
-<span id="fig-16-6e"></span>![](_page_8_Picture_7.jpeg)
+<span id="fig-16-6e"></span>![](_page_16_Picture_6e.jpeg)
 
 **FIGURE 16.6e** Loop technique – pre‑measured loops attached to papillary muscle.
 
-<span id="fig-16-6f"></span>![](_page_8_Picture_8.jpeg)
+<span id="fig-16-6f"></span>![](_page_16_Picture_6f.jpeg)
 
 **FIGURE 16.6f** Completed loop neochordae repair.
 
@@ -310,77 +303,77 @@ The loop technique was introduced to avoid problems of functional adjustment of 
 
 Posterior leaflet prolapse (particularly isolated P2 prolapse) is the most common cause of mitral valve regurgitation ([Fig. 16.7a](#fig-16-7a)).
 
-<span id="fig-16-7a"></span>![](_page_9_Picture_3.jpeg)
+<span id="fig-16-7a"></span>![](_page_16_Picture_7a.jpeg)
 
 **FIGURE 16.7a** Isolated P2 prolapse.
 
 Several approaches have been suggested including chordal techniques (see previous section), leaflet plication techniques (McGoon's), and resection techniques (triangular and quadrangular resection). McGoon's technique is used to repair very limited prolapses and involves the placement of two imbricated "magic" 5-0 polypropylene sutures to plicate the prolapsing leaflet segment ([Fig. 16.7b and c](#fig-16-7b)).
 
-<span id="fig-16-7b"></span>![](_page_9_Picture_6.jpeg)
+<span id="fig-16-7b"></span>![](_page_16_Picture_7b.jpeg)
 
 **FIGURE 16.7b** McGoon plication – suture placement.
 
-<span id="fig-16-7c"></span>![](_page_9_Picture_7.jpeg)
+<span id="fig-16-7c"></span>![](_page_16_Picture_7c.jpeg)
 
 **FIGURE 16.7c** Completed plication.
 
 Triangular resection is a very useful technique. The resection is generally limited to within a few millimeters of good marginal chords, and extends to the midpoint of the belly of the leaflet ([Fig. 16.8a](#fig-16-8a)).
 
-<span id="fig-16-8a"></span>![](_page_9_Picture_9.jpeg)
+<span id="fig-16-8a"></span>![](_page_16_Picture_8a.jpeg)
 
 **FIGURE 16.8a** Triangular resection of P2.
 
 Leaflet continuity is restored using either interrupted or continuous 5-0 polypropylene sutures, depending on the pliability of the tissue ([Fig. 16.8b](#fig-16-8b)). A continuous suture technique is best avoided in the setting of leaflet calcification or retraction. After completion of the sutures, a nerve hook is utilized to assess leaflet continuity and to detect residual defects.
 
-<span id="fig-16-8b"></span>![](_page_9_Picture_11.jpeg)
+<span id="fig-16-8b"></span>![](_page_16_Picture_8b.jpeg)
 
 **FIGURE 16.8b** Closure of triangular resection.
 
 In the presence of a more extensive (excess tissue) posterior leaflet prolapse, more aggressive resection techniques are needed including quadrangular resection, annular plication, and sliding leaflet plasty. In this regard, quadrangular resection is the most frequently used technique in posterior leaflet prolapse. However, with the growing adoption of chordal techniques, many surgeons have decided to respect as much tissue as possible and abandon more complex techniques that involve large resections. After valve analysis, a quadrangular resection of the prolapsing area is carried out to the annulus ([Fig. 16.9a](#fig-16-9a)).
 
-<span id="fig-16-9a"></span>![](_page_10_Picture_4.jpeg)
+<span id="fig-16-9a"></span>![](_page_16_Picture_9a.jpeg)
 
 **FIGURE 16.9a** Quadrangular resection of posterior leaflet.
 
 Generally, the tallest portion of the leaflet is excised, and well within the margin of normal chordae. Clefts or indentations are often targeted as one margin of the resection ([Fig. 16.9b](#fig-16-9b)).
 
-<span id="fig-16-9b"></span>![](_page_10_Picture_5.jpeg)
+<span id="fig-16-9b"></span>![](_page_16_Picture_9b.jpeg)
 
 **FIGURE 16.9b** Resection margins including cleft.
 
 If the residual leaflet defect is less than 2 cm, plication techniques are applied in order to avoid excess leaflet tension. Interrupted 2-0 braided polyester sutures are placed through the annulus at the limit of the resected area ([Fig. 16.9c](#fig-16-9c)).
 
-<span id="fig-16-9c"></span>![](_page_10_Picture_6.jpeg)
+<span id="fig-16-9c"></span>![](_page_16_Picture_9c.jpeg)
 
 **FIGURE 16.9c** Annular plication.
 
 The leaflet continuity is restored using 5-0 polypropylene sutures ([Fig. 16.9d](#fig-16-9d)).
 
-<span id="fig-16-9d"></span>![](_page_10_Picture_7.jpeg)
+<span id="fig-16-9d"></span>![](_page_16_Picture_9d.jpeg)
 
 **FIGURE 16.9d** Restoration of leaflet continuity.
 
 Sliding leaflet plasty is a useful technique to avoid excess height and tension and is often employed in scenarios of more diffuse prolapse and leaflet myxomatous changes ([Fig. 16.10a](#fig-16-10a)).
 
-<span id="fig-16-10a"></span>![](_page_11_Picture_4.jpeg)
+<span id="fig-16-10a"></span>![](_page_16_Picture_10a.jpeg)
 
 **FIGURE 16.10a** Diffuse posterior leaflet prolapse.
 
 A targeted (including deep indentations if present) leaflet quadrangular resection is usually performed where the prolapse is greatest or leaflet is tallest ([Fig. 16.10b](#fig-16-10b)). This resection is typically about 1 cm wide (additional excess tissue can be removed later). It is important not to remove all abnormal tissue. In the setting of additional deep indentations, we close these first with a figure-eight suture in order to treat the segments as one.
 
-<span id="fig-16-10b"></span>![](_page_11_Picture_6.jpeg)
+<span id="fig-16-10b"></span>![](_page_16_Picture_10b.jpeg)
 
 **FIGURE 16.10b** Quadrangular resection in diffuse prolapse.
 
 If the height is more than 15 mm in any residual leaflet segment, a sliding leaflet plasty (asymmetric in this case) to reduce the residual leaflet height to 12–15 mm needs to be performed. Specially angled scissors are used to detach the leaflet remnant, starting from the remaining left position of P2 and going to the anterior commissure ([Fig. 16.10c](#fig-16-10c)). At this point, the leaflet is suspended by the primary and secondary chordae with the basal chordae remaining on the annular side. Secondary chordae are detached to maintain free mobility of segments after advancement. This prevents secondary chords from restricting the leaflet after leaflet advancement. Additionally, at this stage, further resection of the base of P1–P2 may be considered in order to re-establish a uniform leaflet height.
 
-<span id="fig-16-10c"></span>![](_page_11_Picture_8.jpeg)
+<span id="fig-16-10c"></span>![](_page_16_Picture_10c.jpeg)
 
 **FIGURE 16.10c** Detachment of leaflet from annulus.
 
 A double layer of 4-0 polypropylene running suture is used to reattach the leaflet to the annulus, assuring no excess tension on either segment. Excess height is compensated for by taking sutures up to 5 mm deep into the leaflet; in areas of adequate height, sutures are taken just 1–2 mm from the leaflet edge. The two leaflet margins are then joined using a running 5-0 polypropylene suture ([Fig. 16.10d](#fig-16-10d)). The margins of the reconstructed posterior leaflet are examined to ensure that all segments are adequately supported. Any gaps in support, or areas supported by thinned out chordae (even in the absence of prolapse), are reinforced by transposition of previously detached secondary chordae, or now more commonly implantation of artificial neochordae.
 
-<span id="fig-16-10d"></span>![](_page_11_Picture_10.jpeg)
+<span id="fig-16-10d"></span>![](_page_16_Picture_10d.jpeg)
 
 **FIGURE 16.10d** Reattachment of leaflet and margin closure.
 
@@ -392,19 +385,19 @@ A double layer of 4-0 polypropylene running suture is used to reattach the leafl
 
 The majority of lesions leading to type IIIa (commissural fusion, leaflet thickening and retraction, and chordal thickening and shortening or fusion) have a rheumatic origin. The limitation of the leaflet excursion often results in combined valve stenosis and regurgitation. In this scenario, commissurotomy is the technique of choice. Traction of the commissure with a nerve hook helps to identify the commissural line (incision). An 11 blade is then used to make an incision about 5 mm from the annulus ([Fig. 16.11a](#fig-16-11a)).
 
-<span id="fig-16-11a"></span>![](_page_12_Picture_5.jpeg)
+<span id="fig-16-11a"></span>![](_page_16_Picture_11a.jpeg)
 
 **FIGURE 16.11a** Commissurotomy incision 5 mm from annulus.
 
 The incision is completed leaving one chord on each side of the defect. The papillary muscle is then split in order to create a subcommissural orifice which will avoid future refusion ([Fig. 16.11b](#fig-16-11b)).
 
-<span id="fig-16-11b"></span>![](_page_12_Picture_6.jpeg)
+<span id="fig-16-11b"></span>![](_page_16_Picture_11b.jpeg)
 
 **FIGURE 16.11b** Splitting of papillary muscle.
 
 In cases of combined valve stenosis and regurgitation or pure stenosis and concomitant annular dilation, the commissures may need reconstruction (commissurotomy may contribute to further annular dilation and MR). In this scenario, also seen in diffuse leaflet prolapse or acute bacterial endocarditis, the optimal technique is the "magic suture" or commissuroplasty. This is performed using 5-0 polypropylene sutures ([Fig. 16.11c](#fig-16-11c)).
 
-<span id="fig-16-11c"></span>![](_page_12_Picture_8.jpeg)
+<span id="fig-16-11c"></span>![](_page_16_Picture_11c.jpeg)
 
 **FIGURE 16.11c** Commissuroplasty (“magic suture”).
 
@@ -416,25 +409,25 @@ In cases of combined valve stenosis and regurgitation or pure stenosis and conco
 
 Leaflet retraction in the context of type IIIa dysfunction is mainly due to abnormalities of the subvalvular apparatus (chordal thickening and shortening or fusion). In this case, leaflet mobilization should be achieved by resecting secondary chords, splitting fused hypertrophic chords and fenestrating isolated thickened chords ([Fig. 16.12a](#fig-16-12a)).
 
-<span id="fig-16-12a"></span>![](_page_13_Picture_4.jpeg)
+<span id="fig-16-12a"></span>![](_page_16_Picture_12a.jpeg)
 
 **FIGURE 16.12a** Subvalvular release – resecting secondary chordae.
 
 When leaflet mobilization cannot be achieved with subvalvular techniques, pericardial patch extension of the leaflet is indicated. Traction sutures (5-0 polypropylene) are placed in order to unfold the leaflet as much as possible and the incision is made about 5 mm from and parallel to the annulus ([Fig. 16.12b](#fig-16-12b)). The extent of the incision depends on the degree of leaflet retraction.
 
-<span id="fig-16-12b"></span>![](_page_13_Picture_6.jpeg)
+<span id="fig-16-12b"></span>![](_page_16_Picture_12b.jpeg)
 
 **FIGURE 16.12b** Incision for patch extension.
 
 All secondary chordae are resected to free the leaflet and achieve adequate mobilization ([Fig. 16.12c](#fig-16-12c)).
 
-<span id="fig-16-12c"></span>![](_page_13_Picture_7.jpeg)
+<span id="fig-16-12c"></span>![](_page_16_Picture_12c.jpeg)
 
 **FIGURE 16.12c** Resection of secondary chordae.
 
 A semilunar autologous pericardial patch (see previous section for further details) is tailored to the leaflet defect adding a 2 mm margin for suturing. The patch is then sutured using continuous 4-0 polypropylene sutures. Interlocked bites are used on the leaflet side to prevent a potential pursestring effect ([Fig. 16.12d](#fig-16-12d)).
 
-<span id="fig-16-12d"></span>![](_page_13_Picture_9.jpeg)
+<span id="fig-16-12d"></span>![](_page_16_Picture_12d.jpeg)
 
 **FIGURE 16.12d** Pericardial patch extension – interlocked sutures.
 
@@ -446,19 +439,19 @@ A semilunar autologous pericardial patch (see previous section for further detai
 
 The primary ventricular alteration leading to ischemic MR is papillary muscle displacement. The papillary muscle tips are displaced away from the midseptal (anterior) annulus, i.e. posterolaterally, apically, and away from each other. Papillary muscle tethering leads to apical tenting of the leaflets (restriction of the motion of the free margins of the leaflets), which prevents them from rising to the plane of the annulus to provide good coaptation ([Fig. 16.13a](#fig-16-13a)).
 
-<span id="fig-16-13a"></span>![](_page_14_Picture_4.jpeg)
+<span id="fig-16-13a"></span>![](_page_16_Picture_13a.jpeg)
 
 **FIGURE 16.13a** Apical tenting due to papillary muscle displacement.
 
 Because leaflet restriction in ischemic MR results in less leaflet tissue available for coaptation, it is necessary to downsize a complete remodeling ring by one or two sizes or to use a true-sized asymmetric ring to ensure an adequate surface of coaptation following annuloplasty. The potential increased tension with associated annular dilation mandates placing the sutures very close together along the annulus, and suture crossover may be warranted, especially in the P3 area ([Fig. 16.13b](#fig-16-13b)).
 
-<span id="fig-16-13b"></span>![](_page_14_Picture_5.jpeg)
+<span id="fig-16-13b"></span>![](_page_16_Picture_13b.jpeg)
 
 **FIGURE 16.13b** Downsized ring annuloplasty with close suture placement.
 
 The battery of adjunct techniques to downsized rigid ring annuloplasty include cutting of the secondary strut chord to the anterior leaflet in the setting of a "hockey-stick" deformity of the closure line, closure of all clefts and indentations in the posterior leaflet if severe leaflet tethering is present, and cutting restricted marginal chords if a residual leak is still present (replacing them with chordal transfer or artificial neochordae) ([Fig. 16.13c](#fig-16-13c)).
 
-<span id="fig-16-13c"></span>![](_page_14_Picture_6.jpeg)
+<span id="fig-16-13c"></span>![](_page_16_Picture_13c.jpeg)
 
 **FIGURE 16.13c** Adjunct techniques – secondary chord cutting and cleft closure.
 
