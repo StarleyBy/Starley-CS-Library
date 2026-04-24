@@ -155,7 +155,7 @@ The donor procurement process begins with a thorough review of all necessary doc
 
 A median sternotomy is performed and the bilateral pleural spaces are opened wide. The pericardium is then opened and tied off widely at the base near the diaphragm to maximize exposure, and pericardial 0-silk stay sutures are placed and secured to the drapes with hemostats. Manual inspection and palpation of the coronary arteries is performed and any anatomic abnormalities are noted. The superior vena cava (SVC) is mobilized medially and laterally and the azygous vein is identified and ligated with 0-silk sutures and divided. The pericardium is mobilized off the inferior vena cava (IVC). The aortopulmonary window is developed to allow placement of an aortic cross-clamp. An antegrade cardioplegia catheter is inserted into the ascending aorta and the cardioplegia circuit de-aired and connected ([Fig. 23.1](#fig-23-1)).
 
-<span id="fig-23-1"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-23-1"></span>![](_page_23_Picture_1.jpeg)
 
 **FIGURE 23.1** Antegrade cardioplegia catheter in donor ascending aorta.
 
@@ -171,13 +171,13 @@ After cardioplegia delivery, the ice is removed from the chest. The aortic cross
 
 The bicaval technique for heart transplantation is the most commonly utilized and our preference, and will be described here. In patients bridged with a ventricular assist device or with other prior open-heart surgery, a preoperative CT scan should be reviewed to evaluate the proximity of critical structures including the aorta, innominate vein, outflow graft, coronary bypass grafts, and right ventricle and atrium, to the posterior sternum. Percutaneous access to the femoral vein and femoral artery should be obtained at a minimum. In cases where critical structures are in close proximity, some surgeons will perform surgical exposure of the femoral vessels and obtain wire access and leave the wires in holders. This will minimize time to emergent CPB if there is inadvertent injury to the outflow graft or right ventricle, for instance. The outflow graft is ideally placed to the right of midline at the time of ventricular assist device implantation ([Fig. 23.2](#fig-23-2)).
 
-<span id="fig-23-2"></span>![](_page_6_Picture_4.jpeg)
+<span id="fig-23-2"></span>![](_page_23_Picture_2.jpeg)
 
 **FIGURE 23.2** VAD outflow graft positioned to the right of midline.
 
 After sternotomy (and adhesiolysis in reoperative cases), intravenous heparin is administered and aortic and bicaval cannulation (or femoral cannulation) is performed. Rummel tourniquets are placed around the superior and inferior venae cavae ([Fig. 23.3](#fig-23-3)). If groin cannulation is performed, we prefer to centrally cannulate the SVC and Y-connect this to the groin-cannulated IVC cannula. In reoperative cases, adhesiolysis around the apex of the heart is usually best tolerated on CPB.
 
-<span id="fig-23-3"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-23-3"></span>![](_page_23_Picture_3.jpeg)
 
 **FIGURE 23.3** Rummel tourniquets around SVC and IVC.
 
@@ -193,35 +193,35 @@ The SVC is transected at its junction with the right atrium, and the posterior s
 
 The donor heart is removed from its packaging and placed in a bowl with ice. The heart is evaluated for damage. In particular, the IVC cuff should be evaluated and the coronary sinus identified. The SVC and suture-ligated azygous vein should be in view as well. The intervening soft tissue between the aorta and pulmonary artery is divided. The aorta is trimmed to exclude the aortic arch. The confluence of the right and left pulmonary artery is opened and the pulmonary artery is then transected to approximately 5 mm above each commissure ([Fig. 23.4](#fig-23-4)). If left-sided venting was achieved through the pulmonary veins, then a forcep is placed through the orifice of one of the pulmonary veins to the orifice of another pulmonary vein, and the intervening tissue is divided with scissors. This is repeated until each of the pulmonary veins is opened to create the left atrial cuff, which can then be trimmed as necessary. If venting was done through the left atrial appendage, it is closed in two layers with 4-0 polypropylene suture.
 
-<span id="fig-23-4"></span>![](_page_7_Picture_3.jpeg)
+<span id="fig-23-4"></span>![](_page_23_Picture_4.jpeg)
 
 **FIGURE 23.4** Donor pulmonary artery transected 5 mm above commissures.
 
 The donor heart is anatomically oriented. The left atrial anastomosis is started with a long 3-0 polypropylene suture and aligned such that the donor left atrial appendage matches with the recipient left superior pulmonary vein. The sutures in the posterior row should be imbricated so that there is endocardium-to-endocardium apposition. The left ventricular vent can be repositioned through the donor mitral valve and into the left ventricle then secured. After the left atrial anastomosis is completed, the IVC is anastomosed with 4-0 polypropylene suture. We typically place a stay suture on the right side at 9 o’clock to avoid kinking and to help with size matching. The suture line is started on the left side at 3 o’clock and the posterior suture line completed first ([Fig. 23.5](#fig-23-5)). If there are concerns of a narrow anastomosis or substantial size mismatch, the donor IVC size can be increased by making a slit anteriorly into the right atrium. In cases where narrowing persists, the anastomosis can be augmented with a bovine pericardial patch.
 
-<span id="fig-23-5"></span>![](_page_7_Picture_5.jpeg)
+<span id="fig-23-5"></span>![](_page_23_Picture_5.jpeg)
 
 **FIGURE 23.5** IVC anastomosis.
 
 The donor SVC is then stretched and transected after sizing, and the SVC anastomosis is performed with 5-0 polypropylene starting at 3 o’clock ([Fig. 23.6](#fig-23-6)). A stay suture is similarly used on the right side at 9 o’clock to prevent a pursestring effect and to help in size matching. This anastomosis can also be performed as the last anastomosis after removing the aortic cross-clamp if there is concern for prolonged ischemic time.
 
-<span id="fig-23-6"></span>![](_page_8_Picture_3.jpeg)
+<span id="fig-23-6"></span>![](_page_23_Picture_6.jpeg)
 
 **FIGURE 23.6** SVC anastomosis.
 
 The pulmonary artery anastomosis is completed with 4-0 polypropylene suture after placing a stay suture on the right side ([Fig. 23.7a](#fig-23-7a)). Excessive length of the anastomosed pulmonary artery should be avoided to prevent kinking. Systemic rewarming is initiated and the aortic anastomosis is performed with 4-0 polypropylene ([Fig. 23.7b](#fig-23-7b)). Some redundancy is acceptable with the aortic anastomosis because it will allow for access to the posterior suture line if repair sutures are needed for hemostasis.
 
-<span id="fig-23-7a"></span>![](_page_8_Picture_5.jpeg)
+<span id="fig-23-7a"></span>![](_page_23_Picture_7a.jpeg)
 
 **FIGURE 23.7a** Pulmonary artery anastomosis.
 
-<span id="fig-23-7b"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-23-7b"></span>![](_page_23_Picture_7b.jpeg)
 
 **FIGURE 23.7b** Aortic anastomosis.
 
 After completion of the anastomoses, 500 mg of Solu‑Medrol is given, an aortic root vent is placed, the aortic cross-clamp removed, and temporary atrial and ventricular pacing wires placed ([Fig. 23.8](#fig-23-8)). After a period of adequate reperfusion, CPB is weaned and the patient is decannulated in standard fashion.
 
-<span id="fig-23-8"></span>![](_page_8_Picture_8.jpeg)
+<span id="fig-23-8"></span>![](_page_23_Picture_8.jpeg)
 
 **FIGURE 23.8** Temporary pacing wires placed on donor heart.
 
