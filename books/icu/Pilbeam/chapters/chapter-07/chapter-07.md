@@ -1,979 +1,982 @@
-# **Final Considerations in Ventilator Setup**
+# Final Considerations in Ventilator Setup
+
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Fractional Inspired Oxygen (F<sub>I</sub>O<sub>2</sub>)
+* **Goal:** Achieve PₐO₂ 60‑100 mm Hg. Use baseline ABG if available. If not, start F<sub>I</sub>O₂ ≥0.5 (often 1.0) and taper quickly.
+* **Desired F<sub>I</sub>O₂ equation:** Desired F<sub>I</sub>O₂ = [PₐO₂(desired) × F<sub>I</sub>O₂(known)] / PₐO₂(known). Extrapolates from current ABG.
+* **Titrate** using pulse oximetry (target SₚO₂ >92%). Obtain ABG within 10‑20 min after start.
+* If F<sub>I</sub>O₂ >0.5 needed to maintain oxygenation, consider PEEP to avoid O₂ toxicity.
 
-#### **OUTLINE**
+### Sensitivity (Trigger) Setting
+* **Pressure trigger:** typically –1 to –2 cm H₂O. **Flow trigger:** 1‑10 L/min below base flow. Flow triggering has faster response time (Key Point 7.1).
+* **Auto‑PEEP (intrinsic PEEP)** greatly increases work of triggering. Patient must generate effort = auto‑PEEP + trigger threshold (e.g., +10 auto‑PEEP plus –1 sensitivity = 11 cm H₂O effort) (Box 7.1, Fig. 7.1).
+* **Solution for auto‑PEEP:** add extrinsic PEEP up to ~80% of auto‑PEEP (but not exceeding it) to reduce pressure gradient. Monitor PIP – if PIP rises, PEEP is too high. Also increase inspiratory flow, shorten T<sub>I</sub>, reduce V<sub>T</sub> or rate.
 
-**SELECTION OF ADDITIONAL PARAMETERS AND FINAL VENTILATOR SETUP, 103** 
+### Humidification
+* **Isothermic saturation boundary** (ISB) normally at 4th‑5th generation bronchi (Fig. 7.2). Intubation bypasses upper airway – must add humidity.
+* **Heated humidifiers:** deliver 30‑37 mg H₂O/L at 33‑37°C. Closed‑feed systems reduce contamination. **Rainout** (condensate) occurs when circuit temperature < humidifier temperature. Use heated wire circuits to reduce rainout. Never let condensate drain into patient (Key Point 7.2).
+* **Heat‑moisture exchangers (HMEs):** provide 10‑34 mg/L. **Contraindications** (Box 7.2): thick secretions, small V<sub>T</sub> (<400 mL), high minute ventilation (>10 L/min), hypothermia, bronchopleural fistula. Add dead space (50‑100 mL). Change every 2‑3 days or if secretions thicken. Do not use HME with heated humidifier simultaneously (Key Point 7.3).
 
-Selection of Fractional Concentration of Inspired Oxygen, 103 **SENSITIVITY SETTING, 104** 
+### Alarms (Box 7.3)
+* **Level 1 (immediately life‑threatening):** power failure, no gas delivery, exhalation valve failure.
+* **Level 2 (potentially life‑threatening):** circuit leak/obstruction, heater failure, wrong O₂, auto‑cycling, inappropriate PEEP.
+* **Level 3 (non‑life‑threatening but harmful):** changes in compliance/resistance, high rate, auto‑PEEP, altered drive.
+* **Practical alarm settings:** low V<sub>T</sub> 10‑15% below set; low minute volume 10‑15% below average; F<sub>I</sub>O₂ ±5%; apnea 20 sec max. High‑pressure alarm set 10 cm H₂O above PIP.
+* **Action on alarm:** disconnect patient, manually ventilate, silence alarm, call for help. Replace ventilator if needed (Box 7.4).
 
-**Humidification, 106** 
+### Sigh Breaths / Periodic Hyperinflation
+* **Historical context** (Box 7.5): Bendixen (1963) used sighs to reverse microatelectasis. Later studies questioned benefit; low levels of PEEP may be superior.
+* **Current status:** sigh breaths **not** recommended if P<sub>plat</sub> >30 cm H₂O. May be used before/after suctioning, bronchoscopy, extubation, chest physiotherapy, or as a **recruitment maneuver** (sustained high pressure 35‑45 cm H₂O for 40‑60 sec) in ARDS (Key Point 7.5).
 
-Heated Humidifiers, 106
+### Final Equipment Check Before Initiation
+* Check circuit leaks, humidifier (set 31‑35°C or HME), F<sub>I</sub>O₂, V<sub>T</sub>/pressure, rate, alarms.
+* Have ECG monitor, emergency airway tray, suction, volume monitor, O₂ analyzer, manual resuscitation bag.
+* Prepare patient (explain, reduce anxiety). Establish airway (orotracheal, nasotracheal, or tracheostomy). Provide manual ventilation, stabilize cardiovascular status, then set ventilator.
 
-Heat-Moisture Exchangers, 107
+### Selecting an Appropriate Ventilator (essential capabilities)
+* Modes: VC‑CMV, PC‑CMV, VC‑IMV, PC‑IMV, CPAP/PSV.
+* V<sub>T</sub> range 100‑2000 mL, rate 1‑60/min, pressure 0‑100 cm H₂O, PEEP/CPAP 0‑30 cm H₂O, flow 10‑180 L/min, F<sub>I</sub>O₂ 21‑100% in 1‑2% increments.
+* Alarms: apnea, pressure limit, power failure, gas source, low/high pressure, high rate, low V<sub>T</sub>, low/high minute volume.
+* Bench test (lung analog) before purchase; regular maintenance and calibration after purchase.
 
-ALARMS, 107
+### Initial Settings for Specific Pathologies (Table 7.1)
 
-Action During Ventilator Alarm Situations, 109 PERIODIC HYPERINFLATION OR SIGHING, 109
+#### Chronic Obstructive Pulmonary Disease (COPD)
+* **Goal:** reduce air trapping, synchrony. Prefer noninvasive (BiPAP) if possible.
+* **If intubated:** VC‑CMV or PC‑CMV. **V<sub>T</sub>** 6‑8 mL/kg, **rate** 8‑16/min, **T<sub>I</sub>** 0.6‑1.2 s, **flow** >60 L/min (descending).
+* **PEEP** initially ≤5 cm H₂O or ~50‑80% of auto‑PEEP (monitor PIP – if PIP rises, reduce PEEP). Maintain P<sub>plat</sub> <30 cm H₂O.
+* **Accept permissive hypercapnia** targeting patient’s baseline PₐCO₂ (often 50‑60 mm Hg, pH 7.3‑7.4). Provide longest possible T<sub>E</sub>.
+* **Clinical scenario:** 65‑year‑old male, BSA 1.85, IBW 75.5 kg. Initial noninvasive BiPAP: IPAP 14, EPAP 4, rate 8, I/E 1:6.5.
 
-FINAL CONSIDERATIONS IN VENTILATOR EQUIPMENT SETUP, 110
+#### Acute Severe Asthma
+* **Indications for ventilation (Box 7.6):** exhaustion, silent chest, severe hypoxemia, rising PₐCO₂ with falling pH, altered mental status, dysrhythmias, arrest.
+* **Mode:** VC‑CMV or PC‑CMV (PC‑CMV easier to control pressure). **V<sub>T</sub>** 6‑8 mL/kg, **rate** ≤8/min, **T<sub>I</sub>** ≤1 s, **flow** 80‑100 L/min descending.
+* **Permissive hypercapnia** (PₐCO₂ 45‑80 mm Hg) if pH ≥7.2. **PEEP** only to offset auto‑PEEP (about 80% of measured auto‑PEEP, but use cautiously – may worsen hyperinflation). If PIP increases with PEEP, decrease it.
+* **Monitor for barotrauma** (pneumothorax). Sedation and paralysis may be needed.
 
-Preparing the Patient, 110 Establishing an Interface, 110
+#### Neuromuscular Disorders
+* **Examples:** Guillain‑Barré, myasthenia gravis, ALS, muscular dystrophy, spinal cord injury.
+* **Often normal lungs** – low barotrauma risk. **Full or partial support** with VC‑CMV. **V<sub>T</sub>** 6‑8 mL/kg, **rate** 8‑16/min, **flow** ≥60 L/min (constant or descending), **PEEP** 5 cm H₂O if needed, **F<sub>I</sub>O₂** 0.21.
+* Monitor MIP, VC, ABGs. Intubate if MIP < –20 to –30 cm H₂O, VC <10‑15 mL/kg, or acute respiratory acidosis.
+* In myasthenia gravis scenario: IBW 115 lb, V<sub>T</sub> 420 mL, rate 13/min, flow 60 L/min → T<sub>I</sub> 0.42 s, T<sub>E</sub> 5.58 s → normal C<sub>L</sub> 46 mL/cm H₂O.
 
-Manual Ventilation, 110 Cardiovascular Stabilization, 110
+#### Closed Head Injury
+* **Goals:** maintain cerebral perfusion pressure (CPP = MAP – ICP). Normal CPP 80‑85 mm Hg. Keep ICP low, MAP normal.
+* **Indications for ventilation (Box 7.7):** respiratory depression, additional injuries, neurogenic pulmonary edema, airway compromise.
+* **Iatrogenic hyperventilation** (lower PₐCO₂ to 25‑30 mm Hg) for acute ICP elevation – temporary (24‑48 h). Otherwise maintain PₐCO₂ 35‑40 mm Hg.
+* **Mode:** VC‑CMV or PC‑CMV. **V<sub>T</sub>** 6‑8 mL/kg, **rate** 15‑20/min, **flow** >60 L/min (descending or constant), **PEEP** ≤5 cm H₂O (use only if needed for hypoxemia – can increase ICP). **F<sub>I</sub>O₂** start 1.0, titrate to keep PₐO₂ 70‑100 mm Hg.
+* **Suctioning and chest physiotherapy** can increase ICP – perform cautiously.
 
-Ventilator Needs, 110
+#### Acute Respiratory Distress Syndrome (ARDS)
+* **Diagnostic criteria (Box 7.9):** bilateral infiltrates, PₐO₂/F<sub>I</sub>O₂ ≤300 with ≥5 cm H₂O PEEP, cardiac failure excluded. Precipitating factors (Box 7.10): sepsis, aspiration, trauma, transfusions, etc.
+* **Lung‑protective ventilation:** **V<sub>T</sub>** 4‑6 mL/kg (to keep P<sub>plat</sub> <30 cm H₂O), **rate** 15‑25/min, **flow** ≥60 L/min descending.
+* **PEEP** required to prevent alveolar collapse (open‑lung approach). Use high PEEP (>15 cm H₂O often) – titrate to oxygenation and hemodynamics.
+* **Permissive hypercapnia** acceptable (PₐCO₂ up to 80 mm Hg, pH ≥7.20). Consider **recruitment maneuvers** (sustained high pressure). Prone positioning, sedation, paralysis may be needed.
+* **No proven superiority** of PC‑CMV vs. VC‑CMV. Acceptable endpoints: PₐCO₂ 40‑80 mm Hg, pH 7.20‑7.40, PₐO₂ 60‑100 mm Hg.
 
-Treating the Cause of Respiratory Failure, 110
+#### Congestive Heart Failure / Cardiogenic Pulmonary Edema
+* **Common causes (Box 7.11):** acute MI, hypertension, rapid heart rates, valve disease, fluid overload.
+* **Noninvasive CPAP or BiPAP** often first line – reduces preload, afterload, work of breathing, improves oxygenation.
+* **If intubated:** VC‑CMV or PC‑CMV. **V<sub>T</sub>** 6‑8 mL/kg, **rate** ≥10/min, **flow** ≥60 L/min, **T<sub>I</sub>** 1‑1.5 s.
+* **PEEP** 5‑10 cm H₂O beneficial (reduces preload, improves left ventricular function) – but monitor hemodynamics (Box 7.12). Start F<sub>I</sub>O₂ 1.0, titrate to SₚO₂ >90‑92%.
+* **Case example:** 63‑year‑old male with CHF – initial BiPAP failed; intubation with VC‑CMV, then improvement.
 
-**SELECTING THE APPROPRIATE VENTILATOR, 110** 
+</div></details>
 
-**EVALUATION OF VENTILATOR PERFORMANCE, 111** 
+<details class="med-details"><summary>
 
-Initial Ventilator Settings for Specific Patient Situations, 111 **CHRONIC OBSTRUCTIVE PULMONARY DISEASE, 111** 
+## SELECTION OF ADDITIONAL PARAMETERS AND FINAL VENTILATOR SETUP</summary><div class="details-content">
 
-**Guidelines for Patients With Chronic Obstructive Pulmonary** Disease, 111
+<details class="med-details"><summary>
 
-ASTHMA, 113
+### Selection of Fractional Concentration of Inspired Oxygen</summary><div class="details-content">
 
-Guidelines for Patients With Asthma, 114 **NEUROMUSCULAR DISORDERS, 114** 
+The goal of selecting a specific F<sub>I</sub>O₂ for a patient is to achieve a clinically acceptable arterial O₂ tension (e.g., 60‑100 mm Hg). To accomplish this goal, a baseline arterial blood gas (ABG) should be performed. If the patient’s partial pressure of arterial O₂ (PₐO₂) is within the desired range before beginning ventilatory support, the F<sub>I</sub>O₂ that the patient is receiving at the time of the baseline ABG can be used when mechanical ventilation is initiated. If the PₐO₂ is not within the desired range, the following equation can be used to determine the needed F<sub>I</sub>O₂:
 
-Guidelines for Patients With Neuromuscular Disorders, 115 **CLOSED HEAD INJURY, 115** 
+$$Desired\;F_IO_2 = \frac{[P_aO_2(desired) \times F_IO_2(known)]}{P_aO_2(known)}$$
 
-Guidelines for Patients With a Closed Head Injury, 116 **ACUTE RESPIRATORY DISTRESS SYNDROME, 117** 
+This relationship is based on the assumption that the patient’s cardiopulmonary function will not radically change from the time of the baseline ABG to the time when mechanical ventilation is initiated. Some changes will obviously occur because the application of positive pressure ventilation can affect a patient’s cardiopulmonary status.
 
-**Guidelines for Patients With ARDS, 117** 
+If a baseline ABG is not available, it is advisable to select a high initial F<sub>I</sub>O₂ setting (≥0.50) for patients with presumed severe hypoxemia. This can provide a way of restoring normal oxygenation and replacing tissue O₂ storage when O₂ debt and lactic acid accumulation have occurred. Clinicians often start with an F<sub>I</sub>O₂ of 1.0 and then reduce it as quickly as possible. Extended use of 100% O₂ is not recommended because it can quickly result in absorption atelectasis and, in the long term, can lead to O₂ toxicity. It is important to state, however, that 100% O₂ should not be withheld if the patient is seriously ill and requires a high F<sub>I</sub>O₂. Indeed, any procedure that places the patient at risk for developing hypoxemia should be performed with the patient breathing 100% O₂. For example, administering 100% O₂ before and after suctioning and also during bronchoscopy is a common practice.
 
-**ACUTE CARDIOGENIC PULMONARY EDEMA AND CONGESTIVE HEART FAILURE, 119** 
+Titrating the F<sub>I</sub>O₂ using pulse oximetry and ABG findings can minimize the risk for administering too much O₂. The F<sub>I</sub>O₂ can be adjusted after ventilation is started, based initially on the pulse oximetry saturation (SₚO₂). An SₚO₂ greater than 92% (PₐO₂ ≥60 mm Hg) is a common and acceptable goal. Within 10 to 20 minutes of beginning ventilation, an ABG sample should be collected to assess the adequacy of ventilation and oxygenation. Appropriate ventilator changes based on ABG results are reviewed in Chapters 12 and 13.
 
-Guidelines for Patients With Congestive Heart Failure, 119 SUMMARY, 120
+The equation for obtaining a desired F<sub>I</sub>O₂ previously shown in this section can also be used to adjust the F<sub>I</sub>O₂. In cases in which an F<sub>I</sub>O₂ greater than 0.50 is required to maintain oxygenation, positive end‑expiratory pressure (PEEP) may be indicated (see Chapter 13). It is important to emphasize that an F<sub>I</sub>O₂ of 0.50 or greater increases the risk for O₂ toxicity and intrapulmonary shunting that occurs with O₂‑induced atelectasis.
 
-#### **KEY TERMS**
+</div></details>
 
-- · Acute severe asthma
-- Barotrauma
-- Cushing response
+</div></details>
 
-- · Humidity deficit
-- Isothermic saturation boundary
-- Pulsus paradoxus
+<details class="med-details"><summary>
 
-· Relative humidity
+## SENSITIVITY SETTING</summary><div class="details-content">
 
-#### **LEARNING OBJECTIVES**
+Ventilator sensitivity is normally set at a level that the patient can easily flow‑trigger or pressure‑trigger a breath (see Chapter 3). Flow triggering is set in a range of 1 to 10 L/min below the base flow, depending on the selected ventilator. Pressure sensitivity is commonly set between –1 and –2 cm H₂O.
 
-On completion of this chapter, the reader will be able to do the following:
+Many clinicians prefer using flow triggering because it provides a slightly faster response time compared with pressure triggering, for two main reasons. First, the exhalation valve does not have to close during flow triggering. With pressure triggering, the exhalation valve must close and the patient’s inspiratory effort has to be sufficient to reduce the circuit pressure to the trigger setting. Second, during pressure triggering, the circuit pressure must drop before the inspiratory valve opens and flow goes to the patient. In contrast, with flow triggering, the pressure does not need to drop because the inspiratory valve remains open and the patient receives almost immediate support (Key Point 7.1).
 
-- 1. Recommend fractional inspired oxygen concentration (F<sub>1</sub>O<sub>2</sub>) settings when initiating mechanical ventilation. 2. Discuss the pros and cons of using the sigh function during
-- mechanical ventilation. 3. Compare the use of sigh with the concept of a recruitment
-- maneuver in acute respiratory distress syndrome.
-- 4. List the actions necessary for final ventilator setup.
-- 5. Explain the concept of using extrinsic positive end-expiratory pressure in patients with airflow obstruction and air trapping who have trouble triggering a breath during mechanical ventilation.
-- 6. Calculate the desired F<sub>1</sub>O<sub>2</sub> setting given the current partial pressure of arterial oxygen (PaO2) and FIO2 values.
-- 7. List the essential capabilities of an adult intensive care unit ventilator.
-- Provide initial ventilator settings from the guidelines for patient management for any of the following patient conditions: chronic obstructive pulmonary disease, acute asthma exacerbation, neuromuscular disorders, closed head injuries, acute respiratory distress syndrome, and acute cardiogenic pulmonary edema.
+**Key Point 7.1** Flow triggering has a slightly faster response time compared with pressure triggering.
 
-everal issues must be considered after decisions about the type of ventilator to be used, mode selection, and settings for pressure and volume have been made. These issues include selecting appropriate ventilator settings for the fractional concentration of inspired oxygen (F<sub>1</sub>O<sub>2</sub>), sensitivity, sigh breaths, alarms, and monitors, in addition to concerns regarding humidification of inspired gases. Only after these issues have been addressed can mechanical ventilation be initiated.
+If auto‑PEEP (intrinsic PEEP [PEEP<sub>I</sub>]) is present, patients often have difficulty triggering a breath. Indeed, in cases in which auto‑PEEP is high, patients may be unable to trigger a breath. A relatively simple method of assessing if auto‑PEEP is present is to palpate the accessory muscles of inspiration (e.g., sternocleidomastoid muscles). Therefore it can be particularly difficult when a high level of auto‑PEEP is present to adjust the ventilator sensitivity so that it senses patient effort. Furthermore, the cause of the problem often goes unsolved unless auto‑PEEP is detected and measured (Box 7.1).
 
-This chapter provides a summary of these issues and also addresses the initial settings for patients with specific pathological conditions, such as chronic obstructive pulmonary disease (COPD), asthma, neuromuscular diseases, and acute respiratory distress syndrome (ARDS).
+##### BOX 7.1 Definitions of Positive End‑Expiratory Pressure (PEEP)
 
-### **SELECTION OF ADDITIONAL PARAMETERS AND** FINAL VENTILATOR SETUP
+- **PEEP:** Positive end‑expiratory pressure; airway pressure greater than zero at the end of exhalation.
+- **Extrinsic PEEP (PEEP<sub>E</sub>):** The level of PEEP set by the operator on the ventilator.
+- **Auto‑PEEP (intrinsic PEEP, or PEEP<sub>I</sub>):** The amount of pressure in the lungs at the end of exhalation when expiration is incomplete (i.e., expiratory flow is still occurring) and no PEEP<sub>E</sub> is present (PEEP<sub>E</sub> is excluded from this value).
 
-#### Selection of Fractional Concentration of **Inspired Oxygen**
+Intrinsic PEEP can occur in three situations: Strong active expiration, often with normal or even with low lung volumes (e.g., Valsalva maneuver); high minute ventilation (>20 L/min), where expiratory time (T<sub>E</sub>) is too short to allow exhalation to functional residual capacity; or expiratory flow limitation as a result of increased airway resistance, as may occur in patients with chronic obstructive pulmonary disease on mechanical ventilation or with small endotracheal tubes or obstructed (clogged) expiratory filters.
 
-The goal of selecting a specific F<sub>I</sub>O<sub>2</sub> for a patient is to achieve a clinically acceptable arterial O<sub>2</sub> tension (e.g., 60–100 mm Hg). To accomplish this goal, a baseline arterial blood gas (ABG) should be performed. If the patient's partial pressure of arterial O<sub>2</sub> (P<sub>a</sub>O<sub>2</sub>) is within the desired range before beginning ventilatory support, the F<sub>1</sub>O<sub>2</sub> that the patient is receiving at the time of the baseline ABG can be used when mechanical ventilation is initiated. If the PaO2 is not within the desired range, the following equation can be used to
+Total PEEP = PEEP<sub>E</sub> + auto‑PEEP
 
-$$Desired \; F_IO_2 \; = \; \frac{[P_aO_2(desired) \times F_IO_2(known)]}{P_aO_2(known)} \label{eq:partial}$$
+When auto‑PEEP occurs in mechanically ventilated, spontaneously breathing patients with airflow obstruction (e.g., in COPD), setting the extrinsic PEEP (PEEP<sub>E</sub>) level to equal about 80% of the patient’s auto‑PEEP level may improve the ventilator’s response (i.e., sensitivity) to the patient’s inspiratory efforts. [Fig. 7.1](#fig-7-1)A and B helps illustrate this problem. Imagine that you are trying to sip water through a straw from a glass in which the water level is 10 cm below your mouth. You would have to generate at least –10 cm H₂O to draw the water into your mouth. A similar situation occurs in patients on ventilation with air trapping who are trying to trigger a breath. The patient must create a pressure gradient between the alveolus and mouth by decreasing alveolar pressure (P<sub>alv</sub>) to zero or lower so that mouth pressure (P<sub>M</sub>) is greater than P<sub>alv</sub>. This gradient allows air to flow into the lungs. For example, if +10 cm H₂O of auto‑PEEP was present, the patient would have to generate an effort equal to –10 cm H₂O to achieve a P<sub>alv</sub> of zero. Then the patient must generate an additional –1 to –2 cm H₂O to trigger inspiratory flow.
 
-This relationship is based on the assumption that the patient's cardiopulmonary function will not radically change from the time of the baseline ABG to the time when mechanical ventilation is initiated.<sup>1,2</sup> Some changes will obviously occur because the application of positive pressure ventilation can affect a patient's cardiopulmonary status.
+<span id="fig-7-1"></span>![](./_page_3_Figure_3.jpeg)
 
-If a baseline ABG is not available, it is advisable to select a high initial  $F_1O_2$  setting ( $\geq 0.50$ ) for patients with presumed severe hypoxemia. This can provide a way of restoring normal oxygenation and replacing tissue O2 storage when O2 debt and lactic acid accumulation have occurred. Clinicians often start with an F<sub>1</sub>O<sub>2</sub> of 1.0 and then reduce it as quickly as possible. Extended use of 100% O<sub>2</sub> is not recommended because it can quickly result in absorption atelectasis and, in the long term, can lead to O2 toxicity. It is important to state, however, that 100% O2 should not be withheld if the patient is seriously ill and requires a high F<sub>1</sub>O<sub>2</sub>. Indeed, any procedure that places the patient at risk for developing hypoxemia should be performed with the patient breathing 100% O2. For example, administering 100% O2 before and after suctioning and also during bronchoscopy is a common practice.
+**FIGURE 7.1** Representation of a patient with air trapping (auto‑PEEP) and airway collapse trying to trigger a ventilator breath. (A) 10 cm H₂O of auto‑PEEP at end exhalation. (B) The patient’s alveolar pressure (P<sub>alv</sub>) must drop to –1 cm H₂O to trigger a ventilator breath. The effort required is the sum of the auto‑PEEP level plus the trigger sensitivity setting of the ventilator, +10 cm H₂O (auto‑PEEP) plus 1 cm H₂O (sensitivity), equals 11 cm H₂O of effort. (C) Extrinsic PEEP (PEEP<sub>E</sub>) set to +10 cm H₂O helps open airways and, for this example, did not increase peak inspiratory pressure. (D) Triggering is accomplished with only –1 cm H₂O of effort.
 
-Titrating the F<sub>I</sub>O<sub>2</sub> using pulse oximetry and ABG findings can minimize the risk for administering too much  $O_2$ , <sup>3-5</sup> The  $F_1O_2$  can be adjusted after ventilation is started, based initially on the pulse oximetry saturation (S<sub>p</sub>O<sub>2</sub>).<sup>6</sup> An S<sub>p</sub>O<sub>2</sub> greater than 92% (P<sub>a</sub>O<sub>2</sub> ≥60 mm Hg) is a common and acceptable goal. Within 10 to 20 minutes of beginning ventilation, an ABG sample should be collected to assess the adequacy of ventilation and oxygenation. Appropriate ventilator changes based on ABG results are reviewed in Chapters 12 and 13.
+Another approach to solving the straw‑sipping problem is to fill the glass with more water, which in turn would bring the water level closer to the mouth. Similarly, the problem that patients with auto‑PEEP have with triggering a breath can be solved by increasing pressure at the mouth (PEEP) until it equals P<sub>alv</sub> (i.e., the pressure gradient between the mouth and the alveolus is reduced). This reduction is accomplished by applying PEEP with the ventilator (see [Fig. 7.1](#fig-7-1)C). PEEP can be added until most of the airways are no longer collapsed, and the patient only has to generate enough pressure to trigger the ventilator based on the sensitivity setting. Note that this technique will not be effective if the auto‑PEEP is the result of a high minute ventilation (V̇<sub>E</sub>) and if there is insufficient expiratory time (T<sub>E</sub>).
 
-The equation for obtaining a desired F<sub>I</sub>O<sub>2</sub> previously shown in this section can also be used to adjust the F<sub>I</sub>O<sub>2</sub>. In cases in which an F<sub>I</sub>O<sub>2</sub> greater than 0.50 is required to maintain oxygenation, positive end-expiratory pressure (PEEP) may be indicated (see Chapter 13). It is important to emphasize that an F<sub>I</sub>O<sub>2</sub> of 0.50 or greater increases the risk for O2 toxicity and intrapulmonary shunting that occurs with O2 induced atelectasis.
+There are several relatively easy ways to estimate the amount of PEEP<sub>E</sub> to add, if auto‑PEEP cannot be measured. The clinician can increase PEEP<sub>E</sub> until peak inspiratory pressure (PIP) begins to increase. This increase in PIP is an indication that more pressure and volume have been added to the lung. Another technique of estimating the amount of PEEP<sub>E</sub> to add is to observe whether activity of the accessory muscles of breathing (e.g., sternocleidomastoids) decreases as PEEP<sub>E</sub> is added (Case Study 7.1). Still another technique involves comparing the number of triggered breaths with the number of patient efforts. As the level of set PEEP is increased, the number of triggered breaths should match the patient’s efforts. Chapters 13 and 17 provide additional information about the complications associated with auto‑PEEP, its causes, and methods to reduce auto‑PEEP.
 
-#### **SENSITIVITY SETTING**
+It is important to mention that the type of humidifier system being used can also influence the sensitivity. If the humidifier is located between the patient and the point at which the ventilator detects triggering, the patient has to work harder to trigger a breath. When the trigger device is located proximal to the patient’s airway, this is less of a problem.
 
-Ventilator sensitivity is normally set at a level that the patient can easily flow-trigger or pressure-trigger a breath (see Chapter 3). Flow triggering is set in a range of 1 to 10 L/min below the base flow, depending on the selected ventilator. Pressure sensitivity is commonly set between -1 and -2 cm  $H_2O$ .
+<details class="med-details"><summary>
 
-Many clinicians prefer using flow triggering because it provides a slightly faster response time compared with pressure triggering, for two main reasons. First, the exhalation valve does not have to close during flow triggering. With pressure triggering, the exhalation valve must close and the patient's inspiratory effort has to be sufficient to reduce the circuit pressure to the trigger setting. Second, during pressure triggering, the circuit pressure must drop
+#### Case Study 7.1: Auto‑PEEP and Triggering</summary><div class="details-content">
 
-**Key Point** 7.1 Flow triggering has a slightly faster response time compared with pressure triggering.
+A 60‑year‑old man with COPD is receiving pressure‑supported ventilation (PSV). He appears to be having difficulty triggering ventilator breaths. Auto‑PEEP is measured at +8 cm H₂O, and no PEEP<sub>E</sub> is being used. Sensitivity is set at –1 cm H₂O. How much of an effort (in cm H₂O) must the patient generate to trigger a breath?
 
-# BOX 7.1
+</div></details>
 
-#### **Definitions of Positive End-Expiratory** Pressure (PEEP)
+</div></details>
 
-PEEP: Positive end-expiratory pressure; airway pressure greater than zero at the end of exhalation
+<details class="med-details"><summary>
 
-Extrinsic PEEP (PEEPE): The level of PEEP set by the operator on the ventilator
+## HUMIDIFICATION</summary><div class="details-content">
 
-Auto-PEEP (intrinsic PEEP, or PEEP<sub>1</sub>): The amount of pressure in the lungs at the end of exhalation when expiration is incomplete (i.e., expiratory flow is still occurring) and no PEEP<sub>E</sub> is present (PEEP<sub>E</sub> is excluded from this value)
+A spontaneously breathing individual’s inspired air is typically conditioned down to the fourth or fifth generation of subsegmental bronchi (i.e., the **isothermic saturation boundary**) ([Fig. 7.2](#fig-7-2)). Under normal circumstances, conditioning of inspired air occurs as air passes through the nose and upper airway. Because these are bypassed during invasive ventilation, a humidity source must be added to the ventilator circuit.
 
-Intrinsic PEEP can occur in three situations: Strong active expiration, often with normal or even with low lung volumes (e.g., Valsalva maneuver); high minute ventilation (>20 L/min), where expiratory time ( $T_E$ ) is too short to allow exhalation to functional residual capacity; or expiratory flow limitation as a result of increased airway resistance, as may occur in patients with chronic obstructive pulmonary disease on mechanical ventilation or with small endotracheal tubes or obstructed (clogged) expiratory filters.
+The humidification system used during mechanical ventilation should provide at least 30 mg H₂O/L of absolute humidity at a temperature range of about 33° to 37° C for all available flows up to a V̇<sub>E</sub> of 20 to 30 L/min. Some clinicians prefer a delivered temperature range of 35° to 37° C.
 
- $Total PEEP = PEEP_F + auto-PEEP$ 
+<span id="fig-7-2"></span>![](./_page_4_Figure_3.jpeg)
 
-before the inspiratory valve opens and flow goes to the patient. In contrast, with flow triggering, the pressure does not need to drop because the inspiratory valve remains open and the patient receives almost immediate support (Key Point 7.1).
+**FIGURE 7.2** Position of the isothermic saturation boundary (ISB) during normal nose breathing and during inhalation of dry gases (during intubation). (Redrawn from Branson RD, Campbell RS, Johannigman JA, et al.: Comparison of conventional heated humidification with a new active hygroscopic heat and moisture exchanger in mechanically ventilated patients, *Respir Care* 44:912‑917, 1999.)
 
-If auto-PEEP (intrinsic PEEP [PEEP<sub>I</sub>]) is present, patients often have difficulty triggering a breath. Indeed, in cases in which auto-PEEP is high, patients may be unable to trigger a breath. A relatively simple method of assessing if auto-PEEP if present is to palpate the accessory muscles of inspiration (e.g., sternocleidomastoid muscles). Therefore it can be particularly difficult when a high level of auto-PEEP is present to adjust the ventilator sensitivity so that it senses patient effort. Furthermore, the cause of the problem often goes unsolved unless auto-PEEP is detected and measured (Box 7.1).
+<details class="med-details"><summary>
 
-When auto-PEEP occurs in mechanically ventilated, spontaneously breathing patients with airflow obstruction (e.g., in COPD), setting the extrinsic PEEP (PEEP<sub>E</sub>) level to equal about 80% of the patient's auto-PEEP level may improve the ventilator's response (i.e., sensitivity) to the patient's inspiratory efforts. Fig. 7.1A and B helps illustrate this problem. Imagine that you are trying to sip water through a straw from a glass in which the water level is 10 cm below your mouth. You would have to generate at least -10 cm H<sub>2</sub>O to draw the water into your mouth. A similar situation occurs in patients on ventilation with air trapping who are trying to trigger a breath. The patient must create a pressure gradient between the alveolus and mouth by decreasing alveolar pressure (Palv) to zero or lower so that mouth pressure (PM) is greater than Paly. This gradient allows air to flow into the lungs. For example, if +10 cm H<sub>2</sub>O of auto-PEEP was present, the patient would have to generate an effort equal to -10 cm H<sub>2</sub>O to achieve a Palv of zero. Then the patient must generate an additional -1 to -2 cm  $H_2O$  to trigger inspiratory flow.
+### Heated Humidifiers</summary><div class="details-content">
 
-![](_page_2_Figure_3.jpeg)
+Humidity can be provided by a variety of heated humidification systems. Devices in this category include the following types of humidifiers: pass‑over, vapor phase, wick, and active heat and moisture exchanger. Refilling heated humidifiers is best accomplished by using a closed‑feed system. With a closed‑feed system, the water level in the reservoir is maintained manually by adding water from a bag through a fill port or by a float‑feed system that maintains a relatively constant water level. (Notice that another advantage of the closed‑feed system is that the water temperature can be better regulated.) Both types avoid the need to open the ventilator circuit to refill the device and thus reduce the risk for potential contamination.
 
-Fig. 7.1 Representation of a patient with air trapping (auto-PEEP) and airway collapse trying to trigger a ventilator breath. (A) 10 cm  $H_2O$  of auto-PEEP at end exhalation. (B) The patient's alveolar pressure ( $P_{alv}$ ) must drop to -1 cm  $H_2O$  to trigger a ventilator breath. The effort required is the sum of the auto-PEEP level plus the trigger sensitivity setting of the ventilator, +10 cm  $H_2O$  (auto-PEEP) plus 1 cm  $H_2O$  (sensitivity), equals 11 cm  $H_2O$  of effort. (C) Extrinsic PEEP (PEEP<sub>E</sub>) set to +10 cm  $H_2O$  helps open airways and, for this example, did not increase peak inspiratory pressure. (D) Triggering is accomplished with only -1 cm  $H_2O$  of effort.
+Heated humidifiers typically include a servo‑controlled heater with a temperature probe that is placed close to the patient’s airway. These devices are typically equipped with a temperature display and temperature alarm. The high‑temperature alarm is set at 37° C. A minimum alarm setting of 30° C is appropriate.
 
-Another approach to solving the straw-sipping problem is to fill the glass with more water, which in turn would bring the water level closer to the mouth. Similarly, the problem that patients with auto-PEEP have with triggering a breath can be solved by increasing pressure at the mouth (PEEP) until it equals  $P_{alv}$  (i.e., the pressure gradient between the mouth and the alveolus is reduced). This reduction is accomplished by applying PEEP with the ventilator (see Fig. 7.1C). PEEP can be added until most of the airways are no longer collapsed, and the patient only has to generate enough pressure to trigger the ventilator based on the sensitivity setting. Note that this technique will not be effective if
+Whenever the temperature in the patient circuit is less than the temperature of the gas leaving the humidifier, condensate accumulates in the circuit. Notice that condensate accumulation (rainout) increases as the room temperature becomes cooler. (Using heated wire circuits on the inspiratory and expiratory lines of the circuit can significantly reduce the amount of rainout.)
 
-the auto-PEEP is the result of a high minute ventilation ( $\dot{V}_E$ ) and if there is insufficient expiratory time ( $T_E$ ).<sup>4</sup>
+It is important to understand that if the temperature of the gas in the patient circuit is higher than in the humidifier, the **relative humidity** in the circuit decreases (Critical Care Concept 7.1). (This can occur when using heated wire circuits.) Drying of secretions can occur if a deficit exists between the amount of humidity provided and the amount needed by the patient. Assessing whether a **humidity deficit** is present can be easily determined by examining the patient’s secretions. For example, thick secretions that are difficult to suction or the presence of bronchial casts and mucous plugs are signs of drying of the airways.
 
-There are several relatively easy ways to estimate the amount of PEEP $_{\rm E}$  to add, if auto-PEEP cannot be measured. The clinician can increase PEEP $_{\rm E}$  until peak inspiratory pressure (PIP) begins to increase. This increase in PIP is an indication that more pressure and volume have been added to the lung. Another technique of estimating the amount of PEEP $_{\rm E}$  to add is to observe whether activity of the accessory muscles of breathing (e.g., sternocleidomastoids) decreases as PEEP $_{\rm E}$  is added (Case Study 7.1). Still another technique involves comparing the number of triggered
+Without a heated wire circuit, the humidifier may need to be heated to as much as 50° C for the gas temperature to come near to body temperature (37° C) by the time it reaches the patient’s upper airway. As the highly saturated and warm gas passes through the ventilator circuit, ambient air surrounding the circuit tubing cools this gas and condensate forms in the circuit. Placing water traps at gravity‑dependent parts of the circuit to capture excessive rainout can help alleviate this problem. Water traps should be emptied regularly in a manner that protects the practitioner from any aerosolized spray that may be produced when the trap is opened. Some water traps have spring‑loaded caps that seal the circuit when they are unscrewed. Others have suction ports from which excess water can be suctioned. Water traps that remain sealed during emptying help avoid interruption in ventilation during the process (Key Point 7.2). Maintaining a seal prevents breaking the circuit and thus reduces the risk for introducing contaminants.
 
-![](_page_3_Picture_3.jpeg)
+**Key Point 7.2** Condensate in the circuit tubing can potentially be a source of accidental lavage when the patient is turned. This water should be directed away from the patient and never allowed to enter the patient’s airway.
 
-#### Case Study 7.1
-
-#### **Auto-PEEP and Triggering**
-
-A 60-year-old man with COPD is receiving pressure-supported ventilation (PSV). He appears to be having difficulty triggering ventilator breaths. Auto-PEEP is measured at +8 cm  $H_2O$ , and no PEEP<sub>E</sub> is being used. Sensitivity is set at -1 cm  $H_2O$ . How much of an effort (in cm  $H_2O$ ) must the patient generate to trigger a breath?
-
-breaths with the number of patient efforts. As the level of set PEEP is increased, the number of triggered breaths should match the patient's efforts. Chapters 13 and 17 provide additional information about the complications associated with auto-PEEP, its causes, and methods to reduce auto-PEEP.
-
-It is important to mention that the type of humidifier system being used can also influence the sensitivity. If the humidifier is located between the patient and the point at which the ventilator detects triggering, the patient has to work harder to trigger a breath. When the trigger device is located proximal to the patient's airway, this is less of a problem.<sup>3</sup>
-
-#### **Humidification**
-
-A spontaneously breathing individual's inspired air is typically conditioned down to the fourth or fifth generation of subsegmental bronchi (i.e., the **isothermic saturation boundary**) (Fig. 7.2). Under normal circumstances, conditioning of inspired air occurs as air passes through the nose and upper airway. Because these are bypassed during invasive ventilation, a humidity source must be added to the ventilator circuit.
-
-The humidification system used during mechanical ventilation should provide at least 30 mg  $H_2O/L$  of absolute humidity at a temperature range of about 33° to 37° C for all available flows up to a  $\dot{V}_E$  of 20 to 30 L/min.  $^{9,10}$  Some clinicians prefer a delivered temperature range of 35° to 37° C.  $^5$ 
-
-#### **Heated Humidifiers**
-
-Humidity can be provided by a variety of heated humidification systems. Devices in this category include the following types of humidifiers: pass-over, vapor phase, wick, and active heat and moisture exchanger. Refilling heated humidifiers is best accomplished by using a closed-feed system. With a closed-feed system, the water level in the reservoir is maintained manually by adding water from a bag through a fill port or by a float-feed system that maintains a relatively constant water level. (Notice that another advantage of the closed-feed system is that the water temperature can be better regulated.) Both types avoid the need to open the ventilator circuit to refill the device and thus reduce the risk for potential contamination.
-
-Heated humidifiers typically include a servo-controlled heater with a temperature probe that is placed close to the patient's airway. These devices are typically equipped with a temperature display and temperature alarm. The high-temperature alarm is set at 37° C. A minimum alarm setting of 30° C is appropriate.<sup>8,9,13</sup>
-
-Whenever the temperature in the patient circuit is less than the temperature of the gas leaving the humidifier, condensate accumulates in the circuit. Notice that condensate accumulation (rainout) increases as the room temperature becomes cooler.<sup>14,15</sup>
-
-![](_page_3_Picture_16.jpeg)
-
-**Fig. 7.2** Position of the isothermic saturation boundary (ISB) during normal nose breathing and during inhalation of dry gases (during intubation). (Redrawn from Branson RD, Campbell RS, Johannigman JA, et al.: Comparison of conventional heated humidification with a new active hygroscopic heat and moisture exchanger in mechanically ventilated patients, *Respir Care* 44:912—917, 1999.)
-
-# 8
-
-#### **CRITICAL CARE CONCEPT 7.1**
-
-#### **Changes in Relative Humidity**
+##### Critical Care Concept 7.1: Changes in Relative Humidity
 
 Gas leaves a heated humidifier at a temperature of 34° C and 100% relative humidity. The absolute humidity is 37 mg/L. The gas enters a heated wire circuit that is heated to 37° C at the proximal airway. What is the absolute humidity of the gas that is 100% saturated at normal body temperature? What is the humidity deficit (i.e., the difference between what is provided by the humidifier and the amount of humidity required by the patient)? What happens to the relative humidity of the gas as it leaves the humidifier and enters the circuit?
 
-(Using heated wire circuits on the inspiratory and expiratory lines of the circuit can significantly reduce the amount of rain-out.)
+</div></details>
 
-It is important to understand that if the temperature of the gas in the patient circuit is higher than in the humidifier, the **relative humidity** in the circuit decreases (Critical Care Concept 7.1).<sup>8</sup> (This can occur when using heated wire circuits.) Drying of secretions can occur if a deficit exists between the amount of
+<details class="med-details"><summary>
 
-humidity provided and the amount needed by the patient. Assessing whether a **humidity deficit** is present can be easily determined by examining the patient's secretions. For example, thick secretions that are difficult to suction or the presence of bronchial casts and mucous plugs are signs of drying of the airways.
+### Heat‑Moisture Exchangers</summary><div class="details-content">
 
-Without a heated wire circuit, the humidifier may need to be heated to as much as 50° C for the gas temperature to come near to body temperature (37° C) by the time it reaches the patient's upper airway. As the highly saturated and warm gas passes through the ventilator circuit, ambient air surrounding the circuit tubing cools this gas and condensate forms in the circuit. Placing water traps at gravity-dependent parts of the circuit to capture excessive rain-out can help alleviate this problem. Water traps should be emptied regularly in a manner that protects the practitioner from any aerosolized spray that may be produced when the trap is opened. Some water traps have spring-loaded caps that seal the circuit when they are unscrewed. Others have suction ports from which excess water can be suctioned. Water traps that remain sealed during emptying help avoid interruption in ventilation during the process (Key Point 7.2). Maintaining a seal prevents breaking the circuit and thus reduces the risk for introducing contaminants.
+Heat‑moisture exchangers (HMEs), or artificial noses, can also be used for humidification in patients receiving mechanical ventilation. However, there are some circumstances in which HMEs should *not* be used (Box 7.2). HMEs can provide 10 to 14 mg/L of water at tidal volumes (V<sub>T</sub>s) of 500 to 1000 mL. More efficient hygroscopic heat and moisture exchangers (HHMEs) can provide 22 to 34 mg/L at similar volumes. Because a net heat and water loss occurs when HMEs are used for extended periods, the patient should be assessed for signs of drying secretions.
 
-**Key Point 7.2** Condensate in the circuit tubing can potentially be a source of accidental lavage when the patient is turned. This water should be directed away from the patient and never allowed to enter the patient's airway.
+Most HMEs have a resistance to flow between 2.5 and 3.5 cm H₂O/L/min. During extended use, HMEs can accumulate moisture and secretions, resulting in an increased resistance to flow. This increased resistance can cause gas trapping (i.e., auto‑PEEP) and increase expiratory work of breathing (WOB). If more than four HMEs are used during a 24‑hour period because of secretion buildup, it is probably advisable to change to a heated humidifier that provides 100% relative humidity at 31° to 35° C.
 
-#### **Heat-Moisture Exchangers**
+It is also important to recognize that HMEs add mechanical dead space (V<sub>Dmech</sub>) to the ventilator circuit. The dead space for most HMEs ranges from about 50 to 100 mL. This is an important consideration when HMEs are used on patients with low V<sub>T</sub>, such as infants, children, and adult patients with V<sub>T</sub> of 400 mL or less (Key Point 7.3).
 
-Heat-moisture exchangers (HMEs), or artificial noses, can also be used for humidification in patients receiving mechanical ventilation. However, there are some circumstances in which HMEs should *not* be used (Box 7.2).  $^{9,13,16}$  HMEs can provide 10 to 14 mg/L of water at tidal volumes (V<sub>T</sub>s) of 500 to 1000 mL. More efficient hygroscopic heat and moisture exchangers (HHMEs) can provide
+**Key Point 7.3** Passive humidifiers (heat‑moisture exchangers) placed at the endotracheal tube should not be used simultaneously with heated humidifiers. Water produced by the heated humidifier can occlude the filter and significantly reduce airflow to the patient.
 
-### BOX **7.2**
+HMEs should be taken out of line during delivery of an aerosolized medication. It should be kept in mind, however, that circuit disconnection increases the risk for circuit contamination. An alternative approach is to use a metered‑dose inhaler (MDI) with an MDI adapter placed between the HME and endotracheal tube (ET). If a spacer is used with the MDI on the inspiratory line, the HME must still be removed. Another solution is to use a circuit adapter that does not require the HME to be removed during aerosol treatments ([Fig. 7.3](#fig-7-3)).
 
-#### Contraindications for Heat-Moisture Exchangers
+Although some manufacturers recommend changing HMEs every 24 hours, replacement may be required only every 2 to 3 days if the HME is not partially obstructed with secretions. Clinicians have reported using HMEs for up to 5 days without difficulties. However, if secretions appear thick after two consecutive suctioning procedures, the HME should be removed and the patient switched to a heated humidification system. For critically ill patients requiring more than 5 days of ventilation, it is probably better to use a heated humidification system that will optimize humidification and help prevent secretion retention. Long‑term use (longer than 7 days) of HMEs for the critically ill patient can increase the rate of ET occlusion. On the other hand, patients in long‑term care facilities with tracheostomy tubes in place can use artificial noses for more extended periods without difficulty, as long as secretions do not present a problem.
 
-- The presence of thick, copious, or bloody secretions. These secretions can accumulate on the heat-moisture exchanger (HME) and increase both inspiratory and expiratory resistance.
-- 2. The patient's exhaled tidal volume  $(V_T)$  is less than 70% of inhaled  $V_T$  (e.g., in bronchopleural fistulas or when endotracheal tube cuffs are absent).
-- 3. Body temperatures below 32° C (hypothermia).
-- 4. Spontaneous high minute ventilation  $(\dot{V}_E)$  is greater than 10 L/min.
-- 5. An aerosolized medication must be given.
-- 6. Very small  $V_T$  must be delivered (lung protective ventilation), in which case the HME may significantly increase mechanical dead space ( $V_{Dmech}$ ) and compromise  $CO_2$  clearance. Notice that large  $V_T$  delivery may compromise the ability of the HME to humidify inspired gases.
+<span id="fig-7-3"></span>![](./_page_5_Figure_3.jpeg)
 
-22 to 34 mg/L at similar volumes.<sup>8</sup> Because a net heat and water loss occurs when HMEs are used for extended periods, the patient should be assessed for signs of drying secretions.
+**FIGURE 7.3** The CircuVent ventilator circuit adapter. Aerosol delivery can be accomplished with a heat‑moisture exchanger (HME) in line without breaking (disconnecting) the circuit. The practitioner turns the dial to redirect flow during medication delivery. (From DHD Healthcare, Wampsville, N.Y.)
 
-Most HMEs have a resistance to flow between 2.5 and 3.5 cm  $\rm H_2O/L/min.^8$  During extended use, HMEs can accumulate moisture and secretions, resulting in an increased resistance to flow. This increased resistance can cause gas trapping (i.e., auto-PEEP) and increase expiratory work of breathing (WOB). If more than four HMEs are used during a 24-hour period because of secretion buildup, it is probably advisable to change to a heated humidifier that provides 100% relative humidity at 31° to 35°  $\rm C.^{17}$ 
+##### BOX 7.2 Contraindications for Heat‑Moisture Exchangers
 
-It is also important to recognize that HMEs add mechanical dead space ( $V_{\rm Dmech}$ ) to the ventilator circuit. The dead space for most HMEs ranges from about 50 to 100 mL. This is an important consideration when HMEs are used on patients with low  $V_T$ , such as infants, children, and adult patients with  $V_T$  of 400 mL or less (Key Point 7.3).
+1. The presence of thick, copious, or bloody secretions. These secretions can accumulate on the heat‑moisture exchanger (HME) and increase both inspiratory and expiratory resistance.
+2. The patient’s exhaled tidal volume (V<sub>T</sub>) is less than 70% of inhaled V<sub>T</sub> (e.g., in bronchopleural fistulas or when endotracheal tube cuffs are absent).
+3. Body temperatures below 32° C (hypothermia).
+4. Spontaneous high minute ventilation (V̇<sub>E</sub>) is greater than 10 L/min.
+5. An aerosolized medication must be given.
+6. Very small V<sub>T</sub> must be delivered (lung protective ventilation), in which case the HME may significantly increase mechanical dead space (V<sub>Dmech</sub>) and compromise CO₂ clearance. Notice that large V<sub>T</sub> delivery may compromise the ability of the HME to humidify inspired gases.
 
-**Key Point 7.3** Passive humidifiers (heat-moisture exchangers) placed at the endotracheal tube should not be used simultaneously with heated humidifiers. Water produced by the heated humidifier can occlude the filter and significantly reduce airflow to the patient.<sup>8</sup>
+</div></details>
 
-HMEs should be taken out of line during delivery of an aerosolized medication. It should be kept in mind, however, that circuit disconnection increases the risk for circuit contamination. An alternative approach is to use a metered-dose inhaler (MDI) with an MDI adapter placed between the HME and endotracheal tube (ET). If a spacer is used with the MDI on the inspiratory line, the HME must still be removed. Another solution is to use a circuit adapter that does not require the HME to be removed during aerosol treatments (Fig. 7.3).
+</div></details>
 
-Although some manufacturers recommend changing HMEs every 24 hours, replacement may be required only every 2 to 3 days if the HME is not partially obstructed with secretions. Clinicians have reported using HMEs for up to 5 days without difficulties. However, if secretions appear thick after two consecutive suctioning procedures, the HME should be removed and the patient switched to a heated humidification system. For critically ill patients requiring more than 5 days of ventilation, it is probably better to use a heated humidification system that will optimize humidification and help prevent secretion retention. Long-term use (longer than 7 days) of HMEs for the critically ill patient can increase the rate of ET occlusion. On the other hand, patients in long-term care facilities with tracheostomy tubes in place can use artificial noses for more extended periods without difficulty, as long as secretions do not present a problem. 19
+<details class="med-details"><summary>
 
-#### **ALARMS**
+## ALARMS</summary><div class="details-content">
 
-Audible and visible alarm systems are designed to alert the clinician of potential dangers related to the patient-ventilator interaction. This section reviews the most commonly used ventilator alarms and how they are set by most clinicians. Box 7.3 shows the various levels of alarms and gives some examples of what causes them to become activated.
+Audible and visible alarm systems are designed to alert the clinician of potential dangers related to the patient‑ventilator interaction. This section reviews the most commonly used ventilator alarms and how they are set by most clinicians. Box 7.3 shows the various levels of alarms and gives some examples of what causes them to become activated.
 
-![](_page_5_Picture_3.jpeg)
+Low‑pressure alarms are usually set about 5 to 10 cm H₂O below PIP. These alarms are useful for detecting patient disconnections and leaks in the system. High‑pressure alarms are set about 10 cm H₂O above PIP. High‑pressure alarms can be activated when the patient coughs and if secretions increase, compliance drops, or there are kinks in the ET or circuit tubing. Low PEEP/continuous positive airway pressure (CPAP) alarms are usually set about 2 to 5 cm H₂O below the PEEP level. Activation of these latter alarms usually indicates the presence of a leak in the patient‑ventilator circuit.
 
-Fig. 7.3 The CircuVent ventilator circuit adapter. Aerosol delivery can be accomplished with a heat-moisture exchanger (HME) in line without breaking (disconnecting) the circuit. The practitioner turns the dial to redirect flow during medication delivery. Hygroscopic condenser humidifier (HCH). (From DHD Healthcare, Wampsville, N.Y.)
+Apnea alarms are used to monitor mandatory or spontaneous breaths. An apnea period of 20 seconds is the highest accepted maximum. In some situations, apnea alarms are set so that the patient will not miss two consecutive machine breaths (apnea time > total cycle time [TCT] and < [TCT × 2]). Apnea settings provide full ventilatory support for the patient if apnea occurs and should be set appropriately (e.g., V<sub>T</sub> 6‑8 mL/kg ideal body weight [IBW], rate 10‑20 breaths/min with a high percentage of O₂ [80%‑100%]).
 
-### BOX **7.3**
+Most ventilators also have an alarm or indicator that alerts the operator when the inspiratory time (T<sub>I</sub>) is more than half the set TCT. Some ventilators, such as the Servo‑i, will automatically end inspiration if the T<sub>E</sub> is so short that the patient does not have time to exhale. The shortest possible T<sub>E</sub> is 20% of any cycle time unless the patient is receiving bilevel positive airway pressure (bilevel PAP) and can be activated or inactivated.
 
-#### Levels of Alarm and Example Events During Mechanical Ventilation
+Low‑source gas alarms alert the operator that the available high‑pressure gas source is not functioning. This alarm is critical for microprocessor ventilators that rely on high‑pressure gas to function, particularly for ventilators that do not have a built‑in compressor (Key Point 7.4).
 
-#### **Level 1: Immediately Life-Threatening**
+Most ventilators also include alarms for low V<sub>T</sub>, low and high V̇<sub>E</sub>, low and high respiratory rates (f), and low and high O₂ F<sub>I</sub>O₂. Alarms should not be set so sensitively that they are constantly being triggered. The following suggestions can be used as a guide:
+- Low exhaled V<sub>T</sub>: 10% to 15% below set V<sub>T</sub>
+- Low exhaled minute volume: 10% to 15% below‑average minute volume
+- F<sub>I</sub>O₂: 5% above and below set O₂ percentage
 
-Example events:
+Other alarms are available for detecting low battery levels, if the ventilator is inoperative, ventilator circuit malfunction, exhalation valve leaks, and inappropriately set parameters. For example, a set parameter (e.g., V<sub>T</sub>) may be outside the range of the ventilator.
 
-- · Electrical power failure
-- · No gas delivery to patient
-- · Exhalation valve failure
-- · Excessive gas delivery to patient
-- · Timing failure
+Unfortunately, because there are so many alarms and warning indicators on intensive care unit (ICU) equipment, many clinicians can become desensitized to audible alarms, causing the clinicians to respond slowly or not at all to these alerts.
 
-#### **Level 2: Potentially Life-Threatening**
+**Key Point 7.4** Low‑source gas alarms cannot be silenced if gas is critical to ventilator operation.
 
-Example events:
+##### BOX 7.3 Levels of Alarm and Example Events During Mechanical Ventilation
 
+**Level 1: Immediately Life‑Threatening**
+- Electrical power failure
+- No gas delivery to patient
+- Exhalation valve failure
+- Excessive gas delivery to patient
+- Timing failure
+
+**Level 2: Potentially Life‑Threatening**
 - Circuit leak
 - Circuit partially obstructed
 - Heater/humidifier malfunction
-- Inspiratory-to-expiratory (I/E) ratio inappropriate
-- Inappropriate O<sub>2</sub> level (gas/blender failure)
+- Inspiratory‑to‑expiratory (I/E) ratio inappropriate
+- Inappropriate O₂ level (gas/blender failure)
 - Autocycling
 - Inappropriate PEEP/CPAP level (too low/too high)
 
-# Level 3: Not Life-Threatening but a Potential Source of Patient Harm
-
-Example events:
-
+**Level 3: Not Life‑Threatening but a Potential Source of Patient Harm**
 - Changes in lung characteristics (compliance/resistance)
-- · High respiratory rates
-- Auto-PEEP
+- High respiratory rates
+- Auto‑PEEP
 - Changes in ventilatory drive (e.g., central nervous system or muscle function)
 
-Sources: Hess D: Noninvasive monitoring in respiratory care—present, past and future: an overview, *Respir Care* 35:482–499, 1990; and MacIntyre NR, Day S: Essentials for ventilator-alarm systems, *Respir Care* 37:1108–1112, 1992.
+<details class="med-details"><summary>
 
-Low-pressure alarms are usually set about 5 to 10 cm  $H_2O$  below PIP. These alarms are useful for detecting patient disconnections and leaks in the system. High-pressure alarms are set
+### Action During Ventilator Alarm Situations</summary><div class="details-content">
 
-about 10 cm  $\rm H_2O$  above PIP. High-pressure alarms can be activated when the patient coughs and if secretions increase, compliance drops, or there are kinks in the ET or circuit tubing. Low PEEP/continuous positive airway pressure (CPAP) alarms are usually set about 2 to 5 cm  $\rm H_2O$  below the PEEP level. Activation of these latter alarms usually indicates the presence of a leak in the patient-ventilator circuit.
+When a ventilator malfunction occurs during use, the clinician must first ensure that the patient is receiving ventilation. When in doubt, the practitioner should disconnect the patient from the ventilator and begin manual ventilation using a manual resuscitation bag, silence the alarms, and call for help. If the practitioner cannot immediately correct the problem, it may be necessary to replace the ventilator (Box 7.4). The operating manuals provided with ventilators usually have troubleshooting sections to solve most problems and can be consulted when time permits. If a ventilator problem cannot be resolved by the in‑house biomedical technician support team, it will be necessary to call the local maintenance representative for the company.
 
-Apnea alarms are used to monitor mandatory or spontaneous breaths. An apnea period of 20 seconds is the highest accepted maximum. In some situations, apnea alarms are set so that the patient will not miss two consecutive machine breaths (apnea time > total cycle time [TCT] and < [TCT  $\times$  2]). Apnea settings provide full ventilatory support for the patient if apnea occurs and should be set appropriately (e.g.,  $V_T$  6–8 mL/kg ideal body weight [IBW], rate 10–20 breaths/min with a high percentage of  $O_2$  [80%–100%]).
+##### BOX 7.4 Alarm Failure?
 
-Most ventilators also have an alarm or indicator that alerts the operator when the inspiratory time  $(T_I)$  is more than half the set TCT. Some ventilators, such as the Servo-i will automatically end inspiration if the  $T_E$  is so short that the patient does not have time to exhale. The shortest possible  $T_E$  is 20% of any cycle time unless the patient is receiving bilevel positive airway pressure (bilevel PAP) and can be activated or inactivated.
+An intensive care unit (ICU) patient receiving mechanical ventilatory support is on an air‑filled mattress, and there is a fan in his room to help cool him. He has a pleural drainage system with suction in place.
 
-Low-source gas alarms alert the operator that the available high-pressure gas source is not functioning. This alarm is critical for microprocessor ventilators that rely on high-pressure gas to function, particularly for ventilators that do not have a built-in compressor (Key Point 7.4).
+A nurse at the ICU station hears the ECG monitor alarm, which shows a pattern of asystole. She goes to the patient’s bedside, begins cardiopulmonary resuscitation, and a normal sinus rhythm is quickly restored.
 
-Most ventilators also include alarms for low  $V_T$ , low and high  $\dot{V}_E$ , low and high respiratory rates (f), and low and high  $O_2$   $F_1O_2$ . Alarms should not be set so sensitively that they are constantly being triggered. The following suggestions can be used as a guide:
-
-Low exhaled V<sub>T</sub>: 10% to 15% below set V<sub>T</sub>
-
-**Key Point 7.4** Low-source gas alarms cannot be silenced if gas is critical to ventilator operation.
-
-### BOX 7.4 Alarm Failure?
-
-An intensive care unit (ICU) patient receiving mechanical ventilatory support is on an air-filled mattress, and there is a fan in his room to help cool him. He has a pleural drainage system with suction in place.
-
-A nurse at the ICU station hears the ECG monitor alarm, which shows a pattern of asystole. She goes to the patient's bedside, begins cardiopulmonary resuscitation, and a normal sinus rhythm is quickly restored.
-
-The nurse notes that the patient had been disconnected from the ventilator and attributed the life-threatening event to this occurrence. The nurse also notes that when the ventilator alarm was sounding, it could barely be heard. When confronted with the nurse's concerns about alarm failure, the respiratory therapist notices that the alarm's volume adjustment is on the lowest setting and resets it to a higher volume.
+The nurse notes that the patient had been disconnected from the ventilator and attributed the life‑threatening event to this occurrence. The nurse also notes that when the ventilator alarm was sounding, it could barely be heard. When confronted with the nurse’s concerns about alarm failure, the respiratory therapist notices that the alarm’s volume adjustment is on the lowest setting and resets it to a higher volume.
 
 This scenario occurs all too frequently in the clinical setting and represents a critical medical error that can be avoided. What would you suggest to prevent a recurrence of this situation?
 
-- Low exhaled minute volume: 10% to 15% below-average minute volume
-- F<sub>1</sub>O<sub>2</sub>: 5% above and below set O<sub>2</sub> percentage
+</div></details>
 
-Other alarms are available for detecting low battery levels, if the ventilator is inoperative, ventilator circuit malfunction, exhalation valve leaks, and inappropriately set parameters. For example, a set parameter (e.g.,  $V_T$ ) may be outside the range of the ventilator.
+</div></details>
 
-Unfortunately, because there are so many alarms and warning indicators on intensive care unit (ICU) equipment, many clinicians can become desensitized to audible alarms, causing the clinicians to respond slowly or not at all to these alerts.<sup>21</sup>
+<details class="med-details"><summary>
 
-#### **Action During Ventilator Alarm Situations**
+## PERIODIC HYPERINFLATION OR SIGHING</summary><div class="details-content">
 
-When a ventilator malfunction occurs during use, the clinician must first ensure that the patient is receiving ventilation. When in doubt, the practitioner should disconnect the patient from the ventilator and begin manual ventilation using a manual resuscitation bag, silence the alarms, and call for help. If the practitioner cannot immediately correct the problem, it may be necessary to replace the ventilator (Box 7.4). The operating manuals provided with ventilators usually have troubleshooting sections to solve most problems and can be consulted when time permits. If a ventilator problem cannot be resolved by the in-house biomedical technician support team, it will be necessary to call the local maintenance representative for the company.
+A *sigh* is a deep breath that occurs regularly as part of a normal breathing pattern. It is used occasionally during mechanical ventilation and related maneuvers (e.g., deep breaths or sighs are used before and after suctioning a patient) (Box 7.5).
 
-#### PERIODIC HYPERINFLATION OR SIGHING
+The sigh or deep breath was a popular idea that was introduced during the 1960s. Ventilators developed in the 1970s and 1980s incorporated sigh breaths into their designs, although traditional sigh breaths had not been shown to be clinically beneficial. These ventilators were capable of providing one or more deep breaths at periodic timed intervals (i.e., three or four times per hour or once every 10 minutes), depending on the ventilator. Because a normal sigh in a spontaneously breathing, nonintubated person occurs about every 6 minutes, ventilator manufacturers designed their machines to deliver sighs at a similar frequency. Sigh volumes were set at 1.5 to 2 times the regular low V<sub>T</sub> setting. (Interestingly, low V<sub>T</sub> settings [e.g., 5‑7 mL/kg IBW] were popular at the time.)
 
-A *sigh* is a deep breath that occurs regularly as part of a normal breathing pattern. It is used occasionally during mechanical ventilation and related maneuvers (e.g., deep breaths or sighs are used before and after suctioning a patient) (Box 7.5).<sup>22-30</sup>
+Other investigators found that large V<sub>T</sub> (10‑15 mL/kg) in anesthetized patients reduced atelectasis. As already discussed, using these higher volumes for patients with acute respiratory failure can cause alveolar overdistention and increase the risk for ventilator‑induced lung injury. Mechanical ventilator sigh breaths are therefore *not* recommended in the presence of P<sub>plat</sub> pressures greater than 30 cm H₂O.
 
-The sigh or deep breath was a popular idea that was introduced during the 1960s. Ventilators developed in the 1970s and 1980s incorporated sigh breaths into their designs, although traditional sigh breaths had not been shown to be clinically beneficial. These ventilators were capable of providing one or more deep breaths at periodic
+Mild hypoxemia sometimes occurs in patients receiving pressure support ventilation (PSV) with low volumes (4‑6 mL/kg). Studies of the use of sigh breaths in these patients may be worth examining. However, sigh breaths are not indicated for these patients and may be harmful to spontaneously breathing patients receiving CPAP for the treatment of hypoxemia.
 
-### BOX 7.5 History of Sighs and Mechanical Ventilation
+With the advent of low V<sub>T</sub> strategy in patients with ARDS, another ventilator strategy called *lung recruitment* has been successfully used in selected patients. The recruitment maneuver is not unlike sigh breaths. The recruitment maneuver, which is used to expand collapsed areas of the lung, involves using a sustained high pressure of 35 to 45 cm H₂O for 40 to 60 seconds. Interestingly, the sigh breaths used by Bendixen and colleagues in 1963, more than 50 years ago, were as follows:
+- One breath at 20 cm H₂O for 10 seconds
+- A second breath at 30 cm H₂O for 15 seconds
+- A third breath at 40 cm H₂O for 15 seconds
 
-Bendixen and colleagues demonstrated that anesthetized and intubated surgical patients developed increased intrapulmonary shunting, decreased PaO2 values, and reduced compliance after mechanical ventilation. They attributed these findings to microatelectasis from constant low tidal volumes.<sup>22</sup> When patients were given periodic deep breaths (sighs), these changes were reversed. Unfortunately, the effectiveness of periodic hyperinflation (sighing) continues to be debated because subsequent studies did not entirely support Bendixen's findings. The decrease in lung compliance (CL) and in P<sub>a</sub>O<sub>2</sub> values seen in surgical patients may actually be a result of a loss of functional residual capacity in the supine position and the effects of anesthetics, muscle relaxants, and similar medications on diaphragm and intercostal muscle function. It has been suggested that this decrease in C<sub>1</sub> and P<sub>a</sub>O<sub>2</sub> can often be improved by the addition of low levels of PEEP.<sup>29,30</sup>
-
-timed intervals (i.e., three or four times per hour or once every 10 minutes), depending on the ventilator. Because a normal sigh in a spontaneously breathing, nonintubated person occurs about every 6 minutes, ventilator manufacturers designed their machines to deliver sighs at a similar frequency. Sigh volumes were set at 1.5 to 2 times the regular low  $V_T$  setting. (Interestingly, low  $V_T$  settings [e.g., 5–7 mL/kg IBW] were popular at the time.)
-
-Other investigators found that large  $V_T$  (10–15 mL/kg) in anesthetized patients reduced atelectasis. As already discussed, using these higher volumes for patients with acute respiratory failure can cause alveolar overdistention and increase the risk for ventilator-induced lung injury. Mechanical ventilator sigh breaths are therefore *not* recommended in the presence of  $P_{plat}$  pressures greater than 30 cm  $H_2O$ .
-
-Mild hypoxemia sometimes occurs in patients receiving pressure support ventilation (PSV) with low volumes (4–6 mL/kg). Studies of the use of sigh breaths in these patients may be worth examining.<sup>29</sup> However, sigh breaths are not indicated for these patients and may be harmful to spontaneously breathing patients receiving CPAP for the treatment of hypoxemia.<sup>33</sup>
-
-With the advent of low  $V_T$  strategy in patients with ARDS, another ventilator strategy called *lung recruitment* has been successfully used in selected patients. The recruitment maneuver is not unlike sigh breaths. The recruitment maneuver, which is used to expand collapsed areas of the lung, involves using a sustained high pressure of 35 to 45 cm  $H_2O$  for 40 to 60 seconds. Interestingly, the sigh breaths used by Bendixen and colleagues in 1963,  $^{22}$  more than 50 years ago, were as follows:
-
-- · One breath at 20 cm H<sub>2</sub>O for 10 seconds
-- A second breath at 30 cm H<sub>2</sub>O for 15 seconds
-- A third breath at 40 cm H<sub>2</sub>O for 15 seconds
-
-These sustained high-pressure maneuvers are not unlike the recruitment maneuvers that are used in the management of patients with ARDS (Key Point 7.5).
+These sustained high‑pressure maneuvers are not unlike the recruitment maneuvers that are used in the management of patients with ARDS (Key Point 7.5).
 
 **Key Point 7.5** When low tidal volumes are used, such as in patients with acute respiratory distress syndrome, a recruitment maneuver may be an effective method to avoid atelectasis.
 
 Sighs or deep breaths may be appropriate in the following situations:
-
 - Before and after suctioning
 - Before and after bronchoscopy
-- · During an extubation procedure
+- During an extubation procedure
 - During chest physiotherapy
-- $\bullet \quad \text{During low } V_T \text{ ventilation} \\$
-- · As a recruitment maneuver in some patients with ARDS
+- During low V<sub>T</sub> ventilation
+- As a recruitment maneuver in some patients with ARDS
 
-# FINAL CONSIDERATIONS IN VENTILATOR EQUIPMENT SETUP
+##### BOX 7.5 History of Sighs and Mechanical Ventilation
+
+Bendixen and colleagues demonstrated that anesthetized and intubated surgical patients developed increased intrapulmonary shunting, decreased PₐO₂ values, and reduced compliance after mechanical ventilation. They attributed these findings to microatelectasis from constant low tidal volumes. When patients were given periodic deep breaths (sighs), these changes were reversed. Unfortunately, the effectiveness of periodic hyperinflation (sighing) continues to be debated because subsequent studies did not entirely support Bendixen’s findings. The decrease in lung compliance (C<sub>L</sub>) and in PₐO₂ values seen in surgical patients may actually be a result of a loss of functional residual capacity in the supine position and the effects of anesthetics, muscle relaxants, and similar medications on diaphragm and intercostal muscle function. It has been suggested that this decrease in C<sub>L</sub> and PₐO₂ can often be improved by the addition of low levels of PEEP.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## FINAL CONSIDERATIONS IN VENTILATOR EQUIPMENT SETUP</summary><div class="details-content">
 
 Before initiating mechanical ventilation, the respiratory therapist should perform a final check of the equipment to be used. This check should include the following steps:
-
 - Check ventilator and circuit function to ensure the ventilator is functioning properly and no significant leaks are present.
 - Ensure the humidifier is filled with sterile water and set the humidifier temperature so that the final gas temperature at the airway will be approximately 31° to 35° C or place an HME in line.
-- Place a temperature-monitoring device near the patient connector when heated humidification is used.
-- Check the F<sub>I</sub>O<sub>2</sub>, set V<sub>T</sub> (or inspiratory pressure) and f.
-- · Adjust the alarms.
+- Place a temperature‑monitoring device near the patient connector when heated humidification is used.
+- Check the F<sub>I</sub>O₂, set V<sub>T</sub> (or inspiratory pressure) and f.
+- Adjust the alarms.
 - Ensure the patient is connected to an electrocardiographic monitor.
-- Have an emergency airway tray available at the bedside in case the patient's airway is removed or damaged.
-- · Check that suctioning equipment is available and functioning.
-- Select a volume-monitoring device and an O<sub>2</sub> analyzer if one is not available with the ventilator.
+- Have an emergency airway tray available at the bedside in case the patient’s airway is removed or damaged.
+- Check that suctioning equipment is available and functioning.
+- Select a volume‑monitoring device and an O₂ analyzer if one is not available with the ventilator.
 - Ensure that a manual resuscitation bag is available and easily accessible.
 
 Once the decision has been made to connect the patient to a ventilator, several steps should be taken, including the following:
-
-- · Preparing the patient
-- · Establishing an airway interface
+- Preparing the patient
+- Establishing an airway interface
 - Providing manual ventilation to the patient
-- · Ensuring the patient's cardiovascular status is stable
+- Ensuring the patient’s cardiovascular status is stable
 - Meeting ventilation needs
-- · Treating the cause of respiratory failure
+- Treating the cause of respiratory failure
 
-#### **Preparing the Patient**
+<details class="med-details"><summary>
 
-Mental preparation of a patient who will require mechanical ventilation is an obvious part of preoperative planning for patients who will likely need short-term postoperative ventilatory support. It is an important part of patient preparation because it can significantly reduce the patient's anxiety and discomfort.
+### Preparing the Patient</summary><div class="details-content">
+
+Mental preparation of a patient who will require mechanical ventilation is an obvious part of preoperative planning for patients who will likely need short‑term postoperative ventilatory support. It is an important part of patient preparation because it can significantly reduce the patient’s anxiety and discomfort.
 
 Before initiating mechanical ventilation, conscious patients must be prepared for what to expect once they are connected to the ventilator. The clinician should give a brief explanation about how the ventilator works and why it is being used. The patient also must be informed that the use of an artificial airway will inhibit verbal communication.
 
-Unconscious patients should be informed about their situation as soon as they regain consciousness. This is crucial because these patients will be unable to speak and may be completely unaware of what has occurred. Often the explanation will need to be repeated because sedatives and similar agents can alter a patient's mental status.
+Unconscious patients should be informed about their situation as soon as they regain consciousness. This is crucial because these patients will be unable to speak and may be completely unaware of what has occurred. Often the explanation will need to be repeated because sedatives and similar agents can alter a patient’s mental status.
 
-#### **Establishing an Interface**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Establishing an Interface</summary><div class="details-content">
 
 For noninvasive ventilation, a face or nasal mask is properly fitted (see Chapter 19). During invasive ventilation, the three most commonly used artificial airways are orotracheal, nasotracheal, and tracheostomy tubes. Orotracheal tubes are used for emergencies and are generally kept in place for several days. Nasotracheal tubes provide better patient comfort but may require more insertion time. Nasotracheal tubes usually have smaller diameters than orotracheal tubes and are associated with increased incidence of sinus infections. Tracheostomy tubes must be inserted surgically, but these tubes can be used for extended periods. They also allow for easier pulmonary hygiene and are apparently most comfortable for the patient, even allowing the patient to talk in some cases.
 
-#### **Manual Ventilation**
+</div></details>
 
-Before initiating mechanical ventilation, the patient's ventilatory requirements can be supported by using a manual resuscitation bag. These devices are easy to operate and allow the clinician to monitor closely the patient's breathing efforts and changes in airway resistance ( $R_{aw}$ ) or lung compliance ( $C_{I}$ ).
+<details class="med-details"><summary>
 
-#### **Cardiovascular Stabilization**
+### Manual Ventilation</summary><div class="details-content">
 
-The combined stress of acute or impending respiratory failure and endotracheal intubation can reveal undiagnosed cardiovascular complications that may already be present. For example, patients with existing or borderline myocardial ischemia may develop cardiac dysrhythmias. The effects of any of the pharmacological agents used during intubation (e.g., topical anesthetics, sedatives, narcotics, and muscle-paralyzing agents) can lead to hypotension and relative hypovolemia, resulting in reduced venous return and cardiac output. Appropriate cardiovascular support is therefore essential to a successful outcome.
+Before initiating mechanical ventilation, the patient’s ventilatory requirements can be supported by using a manual resuscitation bag. These devices are easy to operate and allow the clinician to monitor closely the patient’s breathing efforts and changes in airway resistance (R<sub>aw</sub>) or lung compliance (C<sub>L</sub>).
 
-#### **Ventilator Needs**
+</div></details>
 
-After the patient's cardiovascular status is stabilized and primary ventilatory needs are being met, the clinician can then select the appropriate mechanical ventilator mode and appropriate ventilator settings (see Chapter 6).
+<details class="med-details"><summary>
 
-#### **Treating the Cause of Respiratory Failure**
+### Cardiovascular Stabilization</summary><div class="details-content">
 
-Once a life-threatening situation no longer exists, attention can be turned to treating the initial problems that caused the patient to require ventilation. Mechanical ventilation is not curative; the underlying problem must be resolved regardless of whether it is the result of central nervous system or neuromuscular problems or increased WOB caused by trauma, ARDS, or COPD with complications. It makes little sense to be overly aggressive with palliative methods if the underlying pathologic process is irreversible.
+The combined stress of acute or impending respiratory failure and endotracheal intubation can reveal undiagnosed cardiovascular complications that may already be present. For example, patients with existing or borderline myocardial ischemia may develop cardiac dysrhythmias. The effects of any of the pharmacological agents used during intubation (e.g., topical anesthetics, sedatives, narcotics, and muscle‑paralyzing agents) can lead to hypotension and relative hypovolemia, resulting in reduced venous return and cardiac output. Appropriate cardiovascular support is therefore essential to a successful outcome.
 
-#### **SELECTING THE APPROPRIATE VENTILATOR**
+</div></details>
 
-Specific ventilator selection depends on not only theoretical but also practical considerations. The ventilators available at an institution and the familiarity of personnel with this equipment usually determine ventilator choice. Detailed descriptions of many available ventilators and their features are available from other sources. 38
+<details class="med-details"><summary>
 
-The selected ventilator should offer a variety of modes of ventilation, including volume-controlled or pressure-controlled
+### Ventilator Needs</summary><div class="details-content">
 
-continuous mandatory ventilation (VC-CMV or PC-CMV), volume-controlled or pressure-controlled intermittent mandatory ventilation (VC-IMV or PC-IMV), and spontaneous CPAP/PSV.
+After the patient’s cardiovascular status is stabilized and primary ventilatory needs are being met, the clinician can then select the appropriate mechanical ventilator mode and appropriate ventilator settings (see Chapter 6).
 
-Adult ventilators are typically capable of delivering  $V_T$  in the range of 100 to 2000 mL and respiratory rate from 1 to 60 breaths/min. Pressures from 0 to 100 cm  $H_2O$  are adequate, and the driving pressure must be high enough to maintain the gas flow pattern throughout inspiration regardless of how high peak pressures may rise. PEEP/CPAP should be in the range of 0 to 30 cm  $H_2O$ . Flow rates should range from 10 to 180 L/min. Constant (square/rectangular) flow or descending flow patterns probably have more clinical benefit than others and should be included.<sup>37</sup> An inspiratory-to-expiratory (I/E) ratio display may be useful in the management of patients who are difficult to oxygenate.
+</div></details>
 
-Response time, patient circuits, exhalation valves, PEEP, and demand valves should be designed to reduce WOB and patient resistance to inspiration and expiration. Two important ventilatory adjuncts are inflation hold and expiratory pause. Inflation hold is used to measure  $P_{\text{plat}}$ , which is used to calculate static compliance. Expiratory pause is used for auto-PEEP measurements.
+<details class="med-details"><summary>
 
-The mechanical ventilator should be able to deliver  $F_1O_2$  values from 21% to 100% in increments of 1% to 2%. Alarms should include apnea, pressure limit, power failure, gas source, and lowand high-pressure alarms. If available, high f, low  $V_T$ , and high and low  $\dot{V}_E$  alarms are particularly important for monitoring pressure-targeted ventilation and spontaneous modes such as PC-CMV, PC-IMV, CPAP, and PSV.
+### Treating the Cause of Respiratory Failure</summary><div class="details-content">
+
+Once a life‑threatening situation no longer exists, attention can be turned to treating the initial problems that caused the patient to require ventilation. Mechanical ventilation is not curative; the underlying problem must be resolved regardless of whether it is the result of central nervous system or neuromuscular problems or increased WOB caused by trauma, ARDS, or COPD with complications. It makes little sense to be overly aggressive with palliative methods if the underlying pathologic process is irreversible.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## SELECTING THE APPROPRIATE VENTILATOR</summary><div class="details-content">
+
+Specific ventilator selection depends on not only theoretical but also practical considerations. The ventilators available at an institution and the familiarity of personnel with this equipment usually determine ventilator choice. Detailed descriptions of many available ventilators and their features are available from other sources.
+
+The selected ventilator should offer a variety of modes of ventilation, including volume‑controlled or pressure‑controlled continuous mandatory ventilation (VC‑CMV or PC‑CMV), volume‑controlled or pressure‑controlled intermittent mandatory ventilation (VC‑IMV or PC‑IMV), and spontaneous CPAP/PSV.
+
+Adult ventilators are typically capable of delivering V<sub>T</sub> in the range of 100 to 2000 mL and respiratory rate from 1 to 60 breaths/min. Pressures from 0 to 100 cm H₂O are adequate, and the driving pressure must be high enough to maintain the gas flow pattern throughout inspiration regardless of how high peak pressures may rise. PEEP/CPAP should be in the range of 0 to 30 cm H₂O. Flow rates should range from 10 to 180 L/min. Constant (square/rectangular) flow or descending flow patterns probably have more clinical benefit than others and should be included. An inspiratory‑to‑expiratory (I/E) ratio display may be useful in the management of patients who are difficult to oxygenate.
+
+Response time, patient circuits, exhalation valves, PEEP, and demand valves should be designed to reduce WOB and patient resistance to inspiration and expiration. Two important ventilatory adjuncts are inflation hold and expiratory pause. Inflation hold is used to measure P<sub>plat</sub>, which is used to calculate static compliance. Expiratory pause is used for auto‑PEEP measurements.
+
+The mechanical ventilator should be able to deliver F<sub>I</sub>O₂ values from 21% to 100% in increments of 1% to 2%. Alarms should include apnea, pressure limit, power failure, gas source, and low‑ and high‑pressure alarms. If available, high f, low V<sub>T</sub>, and high and low V̇<sub>E</sub> alarms are particularly important for monitoring pressure‑targeted ventilation and spontaneous modes such as PC‑CMV, PC‑IMV, CPAP, and PSV.
 
 It is important to recognize that these are the fundamental features of adult ventilators, not a description of an ideal ventilator. In fact, most microprocessor ventilators may be equipped with additional modes and features.
 
-### **EVALUATION OF VENTILATOR PERFORMANCE**
+</div></details>
 
-The cost of purchasing a particular ventilator and the specific needs of the patients served by the institution should be considered before purchasing a new ventilator—specifically, whether these patients will require short- or long-term ventilation. The needs of the medical staff should also warrant consideration. For example, the amount of in-service training that will be required to ensure that the respiratory therapy staff is proficient in the use of the equipment should be part of the selection process.
+<details class="med-details"><summary>
 
-A performance evaluation, or bench test, must be conducted on every ventilator brand before purchase and certainly before patient connection. Forms for conducting these tests are available from the Joint Commission and American National Standards Institute. A bench test requires the use of a lung analog, which can simulate alterations in respiratory system function. Instruments for measuring volume, pressure, flow, and time are also needed. Bench tests examine ventilator performance during changes in compliance and resistance and leak conditions and check general features, parameter ranges, and alarm systems. These tests must also account for various simulated conditions, such as very low and very high  $\dot{V}_{\rm E}$  values, air trapping (auto-PEEP), function during added nebulization, and CPAP function.
+## EVALUATION OF VENTILATOR PERFORMANCE</summary><div class="details-content">
+
+The cost of purchasing a particular ventilator and the specific needs of the patients served by the institution should be considered before purchasing a new ventilator – specifically, whether these patients will require short‑ or long‑term ventilation. The needs of the medical staff should also warrant consideration. For example, the amount of in‑service training that will be required to ensure that the respiratory therapy staff is proficient in the use of the equipment should be part of the selection process.
+
+A performance evaluation, or bench test, must be conducted on every ventilator brand before purchase and certainly before patient connection. Forms for conducting these tests are available from the Joint Commission and American National Standards Institute. A bench test requires the use of a lung analog, which can simulate alterations in respiratory system function. Instruments for measuring volume, pressure, flow, and time are also needed. Bench tests examine ventilator performance during changes in compliance and resistance and leak conditions and check general features, parameter ranges, and alarm systems. These tests must also account for various simulated conditions, such as very low and very high V̇<sub>E</sub> values, air trapping (auto‑PEEP), function during added nebulization, and CPAP function.
 
 Once purchased, ventilators must be checked regularly with maintenance, testing, and calibration programs. Records must be maintained for each ventilator, as well as documentation of personnel training for ventilator use.
 
-# **Initial Ventilator Settings for Specific Patient Situations**
+</div></details>
+
+<details class="med-details"><summary>
+
+## INITIAL VENTILATOR SETTINGS FOR SPECIFIC PATIENT SITUATIONS</summary><div class="details-content">
 
 The following cases offer the reader some guidance for making initial ventilator settings. The study questions at the end of the chapter provide additional practice in this area.
 
 A number of published reviews along with several other textbooks provide information about currently accepted practices for managing various pulmonary disorders requiring mechanical ventilation. The settings recommended in the following cases reflect the standard of practice suggested by these sources.
 
-#### **CHRONIC OBSTRUCTIVE PULMONARY DISEASE**
+</div></details>
 
-Patients with COPD have increased  $R_{\rm aw}$  and may also have increased  $C_{\rm L}$ , which, when combined, cause significant expiratory obstruction, lengthen the time constant, and lead to air trapping. When patients with COPD require mechanical ventilation, it is often because their chronic disease has been coupled with another problem, such as a respiratory infection, leading to acute-on-chronic respiratory failure.
+<details class="med-details"><summary>
 
-Mechanical ventilation in COPD is associated with increased morbidity because of air trapping, nosocomial infections, barotrauma and volutrauma, cardiac problems, aspiration, and difficulty weaning. The goals of mechanical ventilation are to maximize patient-ventilator synchrony, reduce WOB and patient anxiety, and avoid the complications associated with mechanical ventilation, such as ventilator-associated pneumonia and ventilator-induced lung injury.
+## CHRONIC OBSTRUCTIVE PULMONARY DISEASE</summary><div class="details-content">
 
-# Guidelines for Patients With Chronic Obstructive Pulmonary Disease
+Patients with COPD have increased R<sub>aw</sub> and may also have increased C<sub>L</sub>, which, when combined, cause significant expiratory obstruction, lengthen the time constant, and lead to air trapping. When patients with COPD require mechanical ventilation, it is often because their chronic disease has been coupled with another problem, such as a respiratory infection, leading to acute‑on‑chronic respiratory failure.
 
-Basic guidelines for mechanically ventilating patients with COPD have been established. <sup>3-5,40-45</sup> These guidelines include the following:
+Mechanical ventilation in COPD is associated with increased morbidity because of air trapping, nosocomial infections, barotrauma and volutrauma, cardiac problems, aspiration, and difficulty weaning. The goals of mechanical ventilation are to maximize patient‑ventilator synchrony, reduce WOB and patient anxiety, and avoid the complications associated with mechanical ventilation, such as ventilator‑associated pneumonia and ventilator‑induced lung injury.
 
+<details class="med-details"><summary>
+
+### Guidelines for Patients With Chronic Obstructive Pulmonary Disease</summary><div class="details-content">
+
+Basic guidelines for mechanically ventilating patients with COPD have been established. These guidelines include the following:
 - If possible, use noninvasive ventilation to avoid problems associated with artificial airways. Bilevel positive airway pressure (bilevel PAP) is ideal for patients with chronic pulmonary disorders (see Chapter 19).
 - If intubation is necessary, an orotracheal intubation is recommended.
-- The clinician can select a ventilator mode that he or she thinks is most familiar. It has been noted, however, that VC-CMV or PC-CMV may unload the work of the respiratory muscles more than IMV.<sup>44</sup> Using patient-triggered CMV in an alert patient with COPD may increase the risk for hyperinflation and elevated lung pressures. This mode should be monitored carefully.<sup>44</sup>
-- Adjust the peak inspiratory flow to meet the patient's demand in VC-CMV using the descending flow pattern: flow greater than 60 L/min.
-- In patients with COPD and asthma, in whom airway obstruction and resistance are high, an initial  $V_T$  of 6 to 8 mL/kg with a rate of 8 to 16 breaths/min and  $T_I$  0.6 to 1.2 seconds is acceptable.
-- PEEP of 5 cm H<sub>2</sub>O or lower, or about 50% of auto-PEEP, should be used initially.
-- Monitor for and minimize dynamic hyperinflation (auto-PEEP) by setting the lowest possible  $\dot{V}_E$  that produces acceptable gas exchange, targeting the patient's baseline  $P_aCO_2$  and  $pH_a$ .
+- The clinician can select a ventilator mode that he or she thinks is most familiar. It has been noted, however, that VC‑CMV or PC‑CMV may unload the work of the respiratory muscles more than IMV. Using patient‑triggered CMV in an alert patient with COPD may increase the risk for hyperinflation and elevated lung pressures. This mode should be monitored carefully.
+- Adjust the peak inspiratory flow to meet the patient’s demand in VC‑CMV using the descending flow pattern: flow greater than 60 L/min.
+- In patients with COPD and asthma, in whom airway obstruction and resistance are high, an initial V<sub>T</sub> of 6 to 8 mL/kg with a rate of 8 to 16 breaths/min and T<sub>I</sub> 0.6 to 1.2 seconds is acceptable.
+- PEEP of 5 cm H₂O or lower, or about 50% of auto‑PEEP, should be used initially.
+- Monitor for and minimize dynamic hyperinflation (auto‑PEEP) by setting the lowest possible V̇<sub>E</sub> that produces acceptable gas exchange, targeting the patient’s baseline PₐCO₂ and pHₐ.
+- Provide the longest expiratory time (T<sub>E</sub>) possible. This may include decreasing T<sub>I</sub>, increasing T<sub>E</sub>, reducing f or V<sub>T</sub>, and accepting hypercapnia (PₐCO₂ higher than the patient’s normal). (NOTE: Patients with COPD usually receive ventilation in their normal PₐCO₂ range [e.g., PₐCO₂ = 50‑60 mm Hg; pH 7.3‑7.4].)
+- If the patient is initiating inspiration once ventilation has started and auto‑PEEP is present, set PEEP near 80% of the auto‑PEEP level but do not exceed it (3‑5 cm H₂O is often adequate). If PIP begins to rise because PEEP is increased, the safe PEEP level has probably been exceeded and will result in lung overinflation. Several other strategies that may be used to address the issue of auto‑PEEP include decreasing the inspiratory time, increasing the peak flow, and administering a bronchodilator.
+- P<sub>plat</sub> should be monitored and maintained below 30 cm H₂O to avoid alveolar overdistention and, consequently, lung injury. Accurate measurement of P<sub>plat</sub> may require sedation and paralysis. The decision to medicate patients is generally based on physician preference and institutional policy.
+- Maintain PₐO₂ at 55 to 75 mm Hg or near the patient’s normal PₐO₂, with F<sub>I</sub>O₂ less than 0.5, unless the patient’s condition worsens and he or she requires more O₂.
 
-- Provide the longest expiratory time (T<sub>E</sub>) possible. This may include decreasing T<sub>L</sub>, increasing T<sub>E</sub>, reducing f or V<sub>T</sub>, and accepting hypercapnia (PaCO2 higher than the patient's normal). (NOTE: Patients with COPD usually receive ventilation in their normal  $P_aCO_2$  range [e.g.,  $P_aCO_2 = 50-60$  mm Hg; pH 7.3-7.4].)
-- If the patient is initiating inspiration once ventilation has started and auto-PEEP is present, set PEEP near 80% of the auto-PEEP level but do not exceed it (3-5 cm H<sub>2</sub>O is often adequate). If PIP begins to rise because PEEP is increased, the safe PEEP level has probably been exceeded and will result in lung overinflation. Several other strategies that may be used to address the issue of auto-PEEP include decreasing the inspiratory time, increasing the peak flow, and administering a bronchodilator.
-- P<sub>plat</sub> should be monitored and maintained below 30 cm H<sub>2</sub>O to avoid alveolar overdistention and, consequently, lung injury. Accurate measurement of Pplat may require sedation and paralysis. The decision to medicate patients is generally based on physician preference and institutional policy.
-- Maintain P<sub>a</sub>O<sub>2</sub> at 55 to 75 mm Hg or near the patient's normal PaO2, with F1O2 less than 0.5, unless the patient's condition worsens and he or she requires more O2.
+PC‑CMV may be ideal for this group of patients for several reasons. PC‑CMV provides flow on demand to meet the patient’s needs. T<sub>I</sub> can be set along with a backup rate, but patient triggering is still permitted. PC‑CMV has a distinct advantage over PSV for this patient population because inspiration during PSV can be too long or too short, depending on the patient’s active breathing patterns. This can result in increased WOB and poor patient‑ventilator synchrony. Auto‑PEEP can be a lethal complication. Current ventilators that allow an adjustable expiratory flow cycle may allow for the use of PSV in COPD.
 
-PC-CMV may be ideal for this group of patients for several reasons. PC-CMV provides flow on demand to meet the patient's needs. T<sub>I</sub> can be set along with a backup rate, but patient triggering is still permitted. PC-CMV has a distinct advantage over PSV for this patient population because inspiration during PSV can be too long or too short, depending on the patient's active breathing patterns. This can result in increased WOB and poor patientventilator synchrony. Auto-PEEP can be a lethal complication. Current ventilators that allow an adjustable expiratory flow cycle may allow for the use of PSV in COPD.
+Volume‑assured pressure support or volume support (Servo‑i) can also provide pressure ventilation with a set targeted volume delivery. Although these modes are also well suited for patients with COPD, clinicians must be familiar with their use.
 
-Volume-assured pressure support or volume support (Servo-i) can also provide pressure ventilation with a set targeted volume delivery. Although these modes are also well suited for patients with COPD, clinicians must be familiar with their use.
+An important part of patient care is providing adequate hydration and pharmacological therapy (i.e., bronchodilators and corticosteroids) to reverse airflow limitation. Secretions must be mobilized and removed, and if infections are present, appropriate antibiotic therapy must be administered. The primary problem necessitating ventilation must be corrected to ensure weaning will be successful. Because many of these patients are malnourished, an evaluation of their nutritional needs must be part of any follow‑up program.
 
-An important part of patient care is providing adequate hydration and pharmacological therapy (i.e., bronchodilators and corticosteroids) to reverse airflow limitation. Secretions must be mobilized and removed, and if infections are present, appropriate antibiotic therapy must be administered. The primary problem necessitating ventilation must be corrected to ensure weaning will be successful. Because many of these patients are malnourished, an evaluation of their nutritional needs must be part of any follow-up program.
+</div></details>
 
-#### Clinical Scenario: Chronic Obstructive Pulmonary Disease
+<details class="med-details"><summary>
 
-A 65-year-old man with a history of COPD is brought to the emergency department (ED) complaining of severe shortness of breath. The following information was obtained during an initial patient assessment. The S<sub>D</sub>O<sub>2</sub> of 75% obtained while he was breathing room air is low. Because pulse oximetry may be inaccurate in this range, an ABG was obtained. A 28% airentrainment mask was placed on the patient.
+#### Clinical Scenario: Chronic Obstructive Pulmonary Disease</summary><div class="details-content">
 
-#### Initial Patient Assessment on Admission: History of COPD
+A 65‑year‑old man with a history of COPD is brought to the emergency department (ED) complaining of severe shortness of breath. The following information was obtained during an initial patient assessment. The SₚO₂ of 75% obtained while he was breathing room air is low. Because pulse oximetry may be inaccurate in this range, an ABG was obtained. A 28% air‑entrainment mask was placed on the patient.
 
-The patient is a retired salesman and lives at home with his wife. He has a 40-pack-year history of cigarette smoking. .....
+**Initial Patient Assessment on Admission:**
+- **Mental Status:** Alert and oriented but shows signs of fatigue; speaks in halting sentences and appears to be catching his breath between efforts to talk.
+- **Physical Appearance:** Tall and thin; barrel chest; pale skin; pitting edema of the ankles; prolonged expiration through pursed lips with labored breathing; sitting in a chair, leaning forward with his arms on the chair arms; active use of the sternocleidomastoid muscles.
+- **Vital Signs:** f = 35 to 40 breaths/min; heart rate = 135 beats/min; blood pressure = 185/110 mm Hg; temperature = 37° C.
+- **Breath Sounds:** Bilateral wheezes, crackles in the bases, hyperresonance to percussion bilaterally.
+- **Cough:** Weak, producing a moderate amount of thick, yellow secretions. SₚO₂ 75% on room air.
+- **Chest Radiograph:** Increased bilateral radiolucency, flattened diaphragm, widened rib spaces; scattered infiltrates in both bases.
 
-#### **Mental Status**
+The patient is given an aerosol treatment with albuterol by small‑volume nebulizer followed by an aerosolized mucolytic. He does not tolerate the treatment well and is unable to take a deep breath or perform a breath‑hold maneuver. His dyspnea persists. ABGs on an F<sub>I</sub>O₂ of 0.28 are pHₐ = 7.24; PₐCO₂ = 97 mm Hg; PₐO₂ = 38 mm Hg; and HCO₃⁻ = 41 mEq/L.
 
-- · Alert and oriented but shows signs of fatigue
-- Speaks in halting sentences and appears to be catching his breath between efforts to talk
+The ABGs indicate chronic CO₂ retention (elevated HCO₃⁻) that has now progressed to an acute‑on‑chronic phase (elevated PₐCO₂ and low pHₐ). His ABG results indicate severe hypoxemia. The infiltrates in the lower lung fields and the production of thick yellow sputum suggest the presence of a respiratory infection, but the absence of an elevated temperature is confusing. (NOTE: Elderly patients, particularly those with chronic health problems, do not always develop a fever. If patients take aspirin or nonsteroidal or steroidal anti‑inflammatory medications, an elevated temperature may be masked.) A sputum specimen is sent to the laboratory for culture and sensitivity testing.
 
-#### Physical Appearance
+On the basis of the assessment, a decision is made to begin mechanical ventilatory support. The patient is 5‑ft, 10‑in tall and weighs 148 lb. What are his body surface area (BSA) and IBW? What initial settings for V̇<sub>E</sub>, f, T<sub>I</sub>, and flow would be appropriate? Would you use pressure or volume ventilation?
 
-- · Tall and thin
-- Barrel chest
-- Pitting edema of the ankles
-- Prolonged expiration through pursed lips with labored breathing
-- · Sitting in a chair, leaning forward with his arms on the chair
-- · Active use of the sternocleidomastoid muscles
-
-#### Vital Signs
-
-- f = 35 to 40 breaths/min
-- Heart rate = 135 beats/min
-- Blood pressure = 185/110 mm Hg
-- Temperature = 37° C
-
-#### **Breath Sounds**
-
-· Bilateral wheezes, crackles in the bases, hyperresonance to percussion bilaterally
-
-#### Couah
-
-- · Weak, producing a moderate amount of thick, yellow secretions
-- $S_pO_2$ 75% on room air
-
-#### **Chest Radiograph**
-
-Increased bilateral radiolucency, flattened diaphragm, widened rib spaces; scattered infiltrates in both bases.
-
-The patient is given an aerosol treatment with albuterol by small-volume nebulizer followed by an aerosolized mucolytic. He does not tolerate the treatment well and is unable to take a deep breath or perform a breath-hold maneuver. His dyspnea persists. ABGs on an  $F_1O_2$  of 0.28 are  $pH_a = 7.24$ ;  $P_aCO_2 =$ 97 mm Hg;  $P_aO_2 = 38$  mm Hg; and  $HCO_3 = 41$  mEq/L.
-
-The ABGs indicate chronic CO<sub>2</sub> retention (elevated HCO<sub>3</sub>–) that has now progressed to an acute-on-chronic phase (elevated P<sub>a</sub>CO<sub>2</sub> and low pH<sub>a</sub>). His ABG results indicate severe hypoxemia. The infiltrates in the lower lung fields and the production of thick yellow sputum suggest the presence of a respiratory infection, but the absence of an elevated temperature is confusing. (NOTE: Elderly patients, particularly those with chronic health problems, do not always develop a fever. If patients take aspirin or nonsteroidal or steroidal antiinflammatory medications, an elevated temperature may be masked.) A sputum specimen is sent to the laboratory for culture and sensitivity testing.
-
-On the basis of the assessment, a decision is made to begin mechanical ventilatory support. The patient is 5-ft, 10-in tall and weighs 148 lb. What are his body surface area (BSA) and IBW? What initial settings for  $\dot{V}_E$ , f,  $T_I$ , and flow would be appropriate? Would you use pressure or volume ventilation?
-
-The following section answers these questions and provides the initial settings selected in this case.<sup>45</sup>
-
-#### **Initial Ventilator Settings: COPD Patient**
-
-- BSA =  $1.85 \text{ m}^2$
-- IBW = 106 + 6 = 166 lb (75.5 kg)
-- Initial  $\dot{V}_E = 4 \times 1.85 = 7.4 \text{ L/min}$
-- Because of concern for air trapping, consider a lower set  $\dot{V}_E$ .
+**Initial Ventilator Settings: COPD Patient**
+- BSA = 1.85 m²
+- IBW = 106 + 6(10) = 166 lb (75.5 kg)
+- Initial V̇<sub>E</sub> = 4 × 1.85 = 7.4 L/min
+- Because of concern for air trapping, consider a lower set V̇<sub>E</sub>.
 - Attempt to synchronize the ventilator with the patient.
 - Noninvasive ventilation is appropriate.
 
-A Philips Respironics BiPAP ventilator is selected. With this ventilator, a low level of CPAP/PEEP (2 cm  $H_2O$ ) is maintained in the airway even when the expiratory positive airway pressure (EPAP) control is minimal.
+A Philips Respironics BiPAP ventilator is selected. With this ventilator, a low level of CPAP/PEEP (2 cm H₂O) is maintained in the airway even when the expiratory positive airway pressure (EPAP) control is minimal.
 
-- \* Rate is set at 8 breaths/min, TCT =60/8=7.5 seconds, and  $T_{\rm I}=13\%$  of TCT
-- I/E ratio = 1:6.5,  $T_I = 1.0$  seconds, and  $T_E = 6.5$  seconds
-- Inspiratory positive airway pressure (IPAP) = 10 cm  $H_2O$  initially and is titrated to obtain an exhaled  $V_T$  of 600 mL (0.6 L).
-- Final IPAP is 14 cm H₂O.
-- EPAP = set at 4 cm H<sub>2</sub>O
-- Spontaneous/timed setting is selected, providing a backup rate, at which point time-triggered breaths are modified pressure control (PC) breaths; spontaneous breaths are pressure support (PS) breaths.
-- $O_2$  is titrated to  $\geq 90\%$   $O_2$  saturation measured by pulse oximetry ( $S_pO_2$ ).
+- Rate is set at 8 breaths/min, TCT = 60/8 = 7.5 seconds, and T<sub>I</sub> = 13% of TCT.
+- I/E ratio = 1:6.5, T<sub>I</sub> = 1.0 seconds, and T<sub>E</sub> = 6.5 seconds.
+- Inspiratory positive airway pressure (IPAP) = 10 cm H₂O initially and is titrated to obtain an exhaled V<sub>T</sub> of 600 mL (0.6 L). Final IPAP is 14 cm H₂O.
+- EPAP = set at 4 cm H₂O.
+- Spontaneous/timed setting is selected, providing a backup rate, at which point time‑triggered breaths are modified pressure control (PC) breaths; spontaneous breaths are pressure support (PS) breaths.
+- O₂ is titrated to ≥90% O₂ saturation measured by pulse oximetry (SₚO₂).
 
-The patient is transferred to the ICU, and the settings are maintained for 2 hours. It becomes increasingly difficult for the patient to clear secretions, and he continues to try to remove the mask. He eventually consents to intubation and is intubated using a size 8-Fr orotracheal ET. The physician asks the respiratory therapist to maintain similar settings but wants to use Dräger Evita Infinity V500 in the VC-CMV
+The patient is transferred to the ICU, and the settings are maintained for 2 hours. It becomes increasingly difficult for the patient to clear secretions, and he continues to try to remove the mask. He eventually consents to intubation and is intubated using a size 8‑Fr orotracheal ET. The physician asks the respiratory therapist to maintain similar settings but wants to use Dräger Evita Infinity V500 in the VC‑CMV mode.
 
-mode. The following section shows the selected ventilator settings.
+**VC‑CMV Settings: Patient With COPD**
+- Pressure required during inspiration was 14 cm H₂O.
+- PEEP at 4 cm H₂O, as previously present.
+- Set rate at 8 breaths/min.
+- V<sub>T</sub> (set) of 600 mL (0.6 L) to match previous setting.
+- Flow at 80 L/min to start.
+- Flow waveform is constant (the current recommended setting for this mode).
+- F<sub>I</sub>O₂ at 0.3 to 0.5, because exact setting is unknown; titrate to achieve SₚO₂ ≥90%.
 
-. . . . . . . . . . . . . . . . . . . .
+The following information is noted after assessment:
+- The patient triggers every breath but at a rate above 8 breaths/min. TCT is about 2.5 seconds.
+- T<sub>I</sub> is about 1 second and T<sub>E</sub> is about 1.5 seconds.
+- Expiratory flow does not return to zero before the next breath, indicating the presence of auto‑PEEP.
+- During inspiration, following an initial high flow, flow drops to 80 L/min and stays there until V<sub>T</sub> is delivered. This flow may not be adequate to keep T<sub>I</sub> short.
 
-#### VC-CMV Settings: Patient With COPD
+Possible solutions to minimize air trapping may include:
+- Switching to PC‑CMV with a short T<sub>I</sub>.
+- Setting a lower V<sub>T</sub>.
+- Checking the patient’s airway to be sure it is clear of secretions and possibly administering a bronchodilator.
+- Increasing inspiratory flow.
 
-- Pressure required during inspiration was 14 cm H<sub>2</sub>O
-- PEEP at 4 cm H<sub>2</sub>O, as previously present
-- Set rate at 8 breaths/min
-- V<sub>T</sub> (set) of 600 mL (0.6 L) to match previous setting
-- Flow at 80 L/min to start
-- Flow waveform is constant (the current recommended setting for this mode)
-- $F_1O_2$  at 0.3 to 0.5, because exact setting is unknown; titrate to achieve  $SpO_2$  of  $\geq 90\%$
-- The following information is noted after assessment:
-  - The patient triggers every breath but at a rate above 8 breaths/min. TCT is about 2.5 seconds.
-  - T<sub>I</sub> is about 1 second and T<sub>E</sub> is about 1.5 seconds.
-  - Expiratory flow does not return to zero before the next breath, indicating the presence of auto-PEEP.
-  - During inspiration, following an initial high flow, flow drops to 80 L/min and stays there until  $V_{\text{T}}$  is delivered.
-- This flow may not be adequate to keep T<sub>1</sub> short.
-- Possible solutions to minimize air trapping may include:
-  - · Switching to PC-CMV with a short T<sub>I</sub>.
-  - Setting a lower V<sub>T</sub>.
-  - Checking the patient's airway to be sure it is clear of secretions and possibly administering a bronchodilator.
-  - Increasing inspiratory flow.
+Appropriate adjustments are made, and the patient is successfully managed using PC‑CMV. The respiratory infection is resolved 5 days later. Secretion clearance is improved. Occasional scattered crackles are heard on auscultation, but otherwise breath sounds have cleared. Infiltrates are no longer present on chest radiographs. Weaning should now be considered for this patient.
 
-Appropriate adjustments are made, and the patient is successfully managed using PC-CMV. The respiratory infection is resolved 5 days later. Secretion clearance is improved. Occasional scattered crackles are heard on auscultation, but otherwise breath sounds have cleared. Infiltrates are no longer present on chest radiographs. Weaning should now be considered for this patient.
+</div></details>
 
-#### **ASTHMA**
+</div></details>
 
-Patients presenting an exacerbation of acute severe asthma that requires mechanical ventilation are among the most difficult to manage. Increased  $R_{\rm aw}$  from bronchospasm, increased secretions, and mucosal edema increase the incidence of air trapping. Trapped air can cause uneven hyperexpansion of various lung units, which can rupture or compress other areas of the lungs, leading to pneumothorax, pneumomediastinum, subcutaneous emphysema, and other forms of barotrauma.
+<details class="med-details"><summary>
 
-During an asthma exacerbation, the patient struggles to breathe while trying to move air against increasing airway resistance. The result is dramatic changes in intrapleural pressures (P<sub>pl</sub>) during inspiration and expiration that affect gas distribution in the lungs and also alter cardiac function, resulting in **pulsus paradoxus**. Progressive hypoxemia further enhances the patient's drive to breathe and compounds anxiety. Even aggressive treatment with bronchodilators and steroids might not be enough to reverse the course of an acute asthma exacerbation.
+## ASTHMA</summary><div class="details-content">
 
-Box 7.6 lists indications for mechanical ventilation for this group of patients. The primary goal during mechanical ventilation of these patients is to focus on reversing the high  $R_{\rm aw}$  while avoiding or reducing air trapping. If the patient has anxiety and the drive to breathe produces patient-ventilator asynchrony during
+Patients presenting an exacerbation of acute severe asthma that requires mechanical ventilation are among the most difficult to manage. Increased R<sub>aw</sub> from bronchospasm, increased secretions, and mucosal edema increase the incidence of air trapping. Trapped air can cause uneven hyperexpansion of various lung units, which can rupture or compress other areas of the lungs, leading to pneumothorax, pneumomediastinum, subcutaneous emphysema, and other forms of barotrauma.
 
-### BOX **7.6**
+During an asthma exacerbation, the patient struggles to breathe while trying to move air against increasing airway resistance. The result is dramatic changes in intrapleural pressures (P<sub>pl</sub>) during inspiration and expiration that affect gas distribution in the lungs and also alter cardiac function, resulting in **pulsus paradoxus**. Progressive hypoxemia further enhances the patient’s drive to breathe and compounds anxiety. Even aggressive treatment with bronchodilators and steroids might not be enough to reverse the course of an acute asthma exacerbation.
 
-#### Indications for Mechanical Ventilation in Acute Exacerbation of Asthma
+Box 7.6 lists indications for mechanical ventilation for this group of patients. The primary goal during mechanical ventilation of these patients is to focus on reversing the high R<sub>aw</sub> while avoiding or reducing air trapping. If the patient has anxiety and the drive to breathe produces patient‑ventilator asynchrony during mechanical ventilation, sedation and possibly paralysis may be required. (NOTE: The use of certain paralytics may result in a neuropathy that can produce prolonged paralysis, which can hinder weaning from ventilatory support. Indeed, prolonged paralysis can have long‑term effects, such as reducing a patient’s ability to ambulate for several weeks or months. [This can be a particularly serious complication in patients with renal insufficiency or hepatic disease, particularly when paralytic agents and corticosteroids are used in combination for extended periods.])
 
-- Exhaustion (e.g., respiratory rate progressively decreases and level of consciousness is altered), with developing metabolic acidosis and decreasing pH in the presence of a normal or rising CO<sub>2</sub> pressure (P<sub>a</sub>CO<sub>2</sub>).
-- If audible, bilateral wheezes become distant as air trapping increases (e.g., breath sounds absent, chest hyperresonant to percussion or fixed on palpation).
-- Severe hypoxemia while receiving O<sub>2</sub> (e.g., inability to oxygenate with supplemental O<sub>2</sub>).
-- 4. Chest radiograph with depression of the hemidiaphragms and increased radiolucency, suggestive of air trapping.
-- Altered mental status, confusion, or decreased level of consciousness.
-- 6. Life-threatening dysrhythmias.
-- P<sub>a</sub>CO<sub>2</sub> rises while pH declines (e.g., ≥40 mm Hg; pH ≤7.25 [progressive respiratory acidosis superimposed on metabolic acidosis]).
-- 8. Cardiac or respiratory arrest.
+##### BOX 7.6 Indications for Mechanical Ventilation in Acute Exacerbation of Asthma
 
-mechanical ventilation, sedation and possibly paralysis may be required. (NOTE: The use of certain paralytics may result in a neuropathy that can produce prolonged paralysis, which can hinder weaning from ventilatory support. Indeed, prolonged paralysis can have long-term effects, such as reducing a patient's ability to ambulate for several weeks or months. [This can be a particularly serious complication in patients with renal insufficiency or hepatic disease, particularly when paralytic agents and corticosteroids are used in combination for extended periods.])
+1. Exhaustion (e.g., respiratory rate progressively decreases and level of consciousness is altered), with developing metabolic acidosis and decreasing pH in the presence of a normal or rising CO₂ pressure (PₐCO₂).
+2. If audible, bilateral wheezes become distant as air trapping increases (e.g., breath sounds absent, chest hyperresonant to percussion or fixed on palpation).
+3. Severe hypoxemia while receiving O₂ (e.g., inability to oxygenate with supplemental O₂).
+4. Chest radiograph with depression of the hemidiaphragms and increased radiolucency, suggestive of air trapping.
+5. Altered mental status, confusion, or decreased level of consciousness.
+6. Life‑threatening dysrhythmias.
+7. PₐCO₂ rises while pH declines (e.g., ≥40 mm Hg; pH ≤7.25 [progressive respiratory acidosis superimposed on metabolic acidosis]).
+8. Cardiac or respiratory arrest.
 
-#### **Guidelines for Patients With Asthma**
+<details class="med-details"><summary>
 
-The following guidelines provide suggestions for mechanically ventilating patients with asthma.<sup>3-5,41-43,45-50</sup>
+### Guidelines for Patients With Asthma</summary><div class="details-content">
 
-- VC-CMV and PC-CMV are acceptable modes immediately after intubation. It is easier to control airway pressure with PC-CMV.
-- Maintain peak and plateau pressures at minimal levels. PIP may be high because of the high R<sub>aw</sub> and the use of high inspiratory gas flows. Alveolar (plateau) pressures must still be maintained at less than 30 cm H<sub>2</sub>O despite the high PIP.
-- Ensure that the patient's oxygenation status is adequate by using an  $F_1O_2$  as needed to achieve a  $P_aO_2$  from 60 to 100 mm Hg (usually  $F_1O_2 \ge 0.5$ ). Monitor hemodynamic status to ensure cardiac output is stable.
-- Permissive hypercapnia ( $P_aCO_2$  45–80 mm Hg) is acceptable as long as pH is acceptable (i.e.,  $\geq$ 7.2). (NOTE: Trishydroxymethyl-aminomethane or bicarbonate is administered by some physicians to keep pH >7.2. The preference between these agents varies among physicians.)
-- If the ventilator settings cannot accommodate the patient's needs, the use of sedatives and paralytics may be necessary.
-   The use of sedation and paralysis may permit resting of fatigued respiratory muscles, particularly during the first 24 hours.
-- When patients are spontaneously breathing and having trouble triggering breaths, setting the PEEP<sub>E</sub> at about 80% of intrinsic PEEP may allow for easier triggering of ventilator breaths. (NOTE: PEEP<sub>E</sub> is indicated in only a few situations, because these patients already have an increased functional residual capacity.) In some cases, applied PEEP may recruit lung units that are collapsed (even in the presence of auto-PEEP) and may also assist with expired gas flows.<sup>51</sup> In other cases it may worsen the patient's condition. If PIP increases with the application of PEEP<sub>E</sub>, decrease the level of PEEP<sub>E</sub>.
-- Reduce the incidence of air trapping by providing long expiratory times:
-  - f=<8 breaths/min;  $V_T=6$  to 8 mL/kg;  $T_I=\leq 1$  sec; inspiratory gas flow = 80 to 100 L/min descending flow waveform. <sup>51</sup>
+The following guidelines provide suggestions for mechanically ventilating patients with asthma.
+- VC‑CMV and PC‑CMV are acceptable modes immediately after intubation. It is easier to control airway pressure with PC‑CMV.
+- Maintain peak and plateau pressures at minimal levels. PIP may be high because of the high R<sub>aw</sub> and the use of high inspiratory gas flows. Alveolar (plateau) pressures must still be maintained at less than 30 cm H₂O despite the high PIP.
+- Ensure that the patient’s oxygenation status is adequate by using an F<sub>I</sub>O₂ as needed to achieve a PₐO₂ from 60 to 100 mm Hg (usually F<sub>I</sub>O₂ ≥0.5). Monitor hemodynamic status to ensure cardiac output is stable.
+- Permissive hypercapnia (PₐCO₂ 45‑80 mm Hg) is acceptable as long as pH is acceptable (i.e., ≥7.2). (NOTE: Tris‑hydroxymethyl‑aminomethane or bicarbonate is administered by some physicians to keep pH >7.2. The preference between these agents varies among physicians.)
+- If the ventilator settings cannot accommodate the patient’s needs, the use of sedatives and paralytics may be necessary. The use of sedation and paralysis may permit resting of fatigued respiratory muscles, particularly during the first 24 hours.
+- When patients are spontaneously breathing and having trouble triggering breaths, setting the PEEP<sub>E</sub> at about 80% of intrinsic PEEP may allow for easier triggering of ventilator breaths. (NOTE: PEEP<sub>E</sub> is indicated in only a few situations, because these patients already have an increased functional residual capacity.) In some cases, applied PEEP may recruit lung units that are collapsed (even in the presence of auto‑PEEP) and may also assist with expired gas flows. In other cases it may worsen the patient’s condition. If PIP increases with the application of PEEP<sub>E</sub>, decrease the level of PEEP<sub>E</sub>.
+- Reduce the incidence of air trapping by providing long expiratory times: f = <8 breaths/min; V<sub>T</sub> = 6 to 8 mL/kg; T<sub>I</sub> = ≤1 sec; inspiratory gas flow = 80 to 100 L/min descending flow waveform.
 - The occurrence of barotrauma in the form of pneumothorax, for example, is not uncommon in these patients. Regular assessment of breath sounds and diagnostic chest percussion, along with chest radiographs, can help guide therapy to avoid this potential problem.
 
-#### (A) Clinical Scenario: Patient With Asthma
+</div></details>
 
-A 13-year-old girl with a history of severe persistent asthma is brought to the ED at 2:30 a.m. Wheezing is audible without the use of a stethoscope. Auscultation of the chest confirms that the wheezing is bilateral. The patient has used
+<details class="med-details"><summary>
 
-her albuterol MDI 10 times (20 puffs) in the past 4 hours. Current peak expiratory flow rate (PEFR) is 150 L/min. A chest radiograph shows increased radiolucency and depressed hemidiaphragms. ABGs on a 2-L/min nasal cannula are pH = 7.43;  $P_a CO_2 = 25 \ mm$  Hg;  $P_a O_2 = 43 \ mm$  Hg;  $HCO_3-=17 \ mEq/L$ . Her  $S_p O_2$  is 73%. She is started on bronchodilators (albuterol and Atrovent) via continuous aerosol and intravenous corticosteroids (Solu-Medrol).
+#### Clinical Scenario: Patient With Asthma</summary><div class="details-content">
 
-The patient's condition does not improve over the next 5 hours, in spite of therapy. Her breath sounds are more distant, and there is hyperresonance to percussion of the chest wall. She is cyanotic and anxious, and her breaths are labored. On a 4-L/min  $O_2$  nasal cannula, ABGs are pH = 7.25;  $P_aCO_2 = 59$  mm Hg;  $P_aO_2 = 53$  mm Hg;  $HCO_3 - 25$  mEq/L.  $S_pO_2$  is 79%. PEFR is 120 L/min and f is 16 breaths/min (down from 30 breaths/min on admission). Blood pressure is 160/100 and heart rate is 175 beats/min. She is transferred to the ICU, and the decision is made to intubate her and begin mechanical ventilatory support. To calculate initial settings, see the following section.
+A 13‑year‑old girl with a history of severe persistent asthma is brought to the ED at 2:30 a.m. Wheezing is audible without the use of a stethoscope. Auscultation of the chest confirms that the wheezing is bilateral. The patient has used her albuterol MDI 10 times (20 puffs) in the past 4 hours. Current peak expiratory flow rate (PEFR) is 150 L/min. A chest radiograph shows increased radiolucency and depressed hemidiaphragms. ABGs on a 2‑L/min nasal cannula are pH = 7.43; PₐCO₂ = 25 mm Hg; PₐO₂ = 43 mm Hg; HCO₃⁻ = 17 mEq/L. Her SₚO₂ is 73%. She is started on bronchodilators (albuterol and Atrovent) via continuous aerosol and intravenous corticosteroids (Solu‑Medrol).
 
-# Initial Ventilator Settings: Patient With Acute Asthma
+The patient’s condition does not improve over the next 5 hours, in spite of therapy. Her breath sounds are more distant, and there is hyperresonance to percussion of the chest wall. She is cyanotic and anxious, and her breaths are labored. On a 4‑L/min O₂ nasal cannula, ABGs are pH = 7.25; PₐCO₂ = 59 mm Hg; PₐO₂ = 53 mm Hg; HCO₃⁻ = 25 mEq/L. SₚO₂ is 79%. PEFR is 120 L/min and f is 16 breaths/min (down from 30 breaths/min on admission). Blood pressure is 160/100 and heart rate is 175 beats/min. She is transferred to the ICU, and the decision is made to intubate her and begin mechanical ventilatory support.
 
-On the basis of this patient's history and size (5 ft, 3 in [63 in], 108 lb [49 kg]):
+**Initial Ventilator Settings: Patient With Acute Asthma**
 
-- IBW = 105 + 5 = 120 lb (54.5 kg)
-- BSA =  $1.5 \text{ m}^2$
-- Initial  $\dot{V}$  E = 1.50 × 3.5 = 5.25 L/min
-- Targeted V<sub>T</sub> (6-8 mL/kg); 327 to 435 mL
-- $f = V E/V_T = (5.25 L/min)/0.435 L = 12 breaths/min.$
+On the basis of this patient’s history and size (5 ft, 3 in [63 in], 108 lb [49 kg]):
+- IBW = 105 + 5(3) = 120 lb (54.5 kg)
+- BSA = 1.5 m²
+- Initial V̇<sub>E</sub> = 1.5 × 3.5 = 5.25 L/min
+- Targeted V<sub>T</sub> (6‑8 mL/kg): 327 to 435 mL
+- f = V̇<sub>E</sub>/V<sub>T</sub> = (5.25 L/min)/0.435 L = 12 breaths/min.
 
-#### **NEUROMUSCULAR DISORDERS**
+</div></details>
 
-It is not unusual for patients with neuromuscular disorders to require ventilatory support. Examples of disorders that are included in this category are myasthenia gravis, amyotrophic lateral sclerosis, muscular dystrophy, Guillain-Barré syndrome, tetanus, cervical spinal cord injury, postpolio syndrome, and botulism. Patients with ventilatory failure because of a neuromuscular disorder usually have a normal ventilatory drive and normal or near-normal lung function. Most of the neuromuscular disorders cited cause respiratory muscle weakness, which can limit these patients' abilities to cough and clear secretions. As a result, they tend to develop atelectasis and pneumonia. If the glottic response is weak, they may also have an increased risk for aspiration. Mechanical ventilation is most often required if progressive respiratory muscle weakness will eventually lead to respiratory failure.
+</div></details>
+
+<details class="med-details"><summary>
+
+## NEUROMUSCULAR DISORDERS</summary><div class="details-content">
+
+It is not unusual for patients with neuromuscular disorders to require ventilatory support. Examples of disorders that are included in this category are myasthenia gravis, amyotrophic lateral sclerosis, muscular dystrophy, Guillain‑Barré syndrome, tetanus, cervical spinal cord injury, postpolio syndrome, and botulism. Patients with ventilatory failure because of a neuromuscular disorder usually have a normal ventilatory drive and normal or near‑normal lung function. Most of the neuromuscular disorders cited cause respiratory muscle weakness, which can limit these patients’ abilities to cough and clear secretions. As a result, they tend to develop atelectasis and pneumonia. If the glottic response is weak, they may also have an increased risk for aspiration. Mechanical ventilation is most often required if progressive respiratory muscle weakness will eventually lead to respiratory failure.
 
 Patients with neuromuscular problems can be effectively ventilated with either positive or negative pressure ventilation. In the hospital environment, positive pressure ventilation is most often selected and can be either noninvasive or invasive. Negative pressure ventilation is rarely used.
 
-The patients most often seen in hospitals are those with a rapid onset of their disease that requires admission (e.g., Guillain-Barré syndrome, myasthenia gravis). Because these patients often have normal lung function, they are at low risk for barotrauma and are most comfortable when ventilated with higher  $V_T$  values (i.e., mL/kg) and high inspiratory flow rates greater than 60
+The patients most often seen in hospitals are those with a rapid onset of their disease that requires admission (e.g., Guillain‑Barré syndrome, myasthenia gravis). Because these patients often have normal lung function, they are at low risk for barotrauma and are most comfortable when ventilated with higher V<sub>T</sub> values (i.e., 6‑8 mL/kg) and high inspiratory flow rates greater than 60 L/min using a constant flow or descending flow pattern when VC‑CMV is used. (NOTE: Some clinicians prefer starting with a lower V<sub>T</sub> and adjusting the volume as needed.) Patients with spinal cord injuries resulting in quadriplegia require full ventilatory support. Patients with myasthenia gravis usually require only partial support until their own breathing capacity returns.
 
-L/min using a constant flow or descending flow pattern when VC-CMV is used. (NOTE: Some clinicians prefer starting with a lower  $V_{\rm T}$  and adjusting the volume as needed.) Patients with spinal cord injuries resulting in quadriplegia require full ventilatory support. Patients with myasthenia gravis usually require only partial support until their own breathing capacity returns.
+<details class="med-details"><summary>
 
-# **Guidelines for Patients With Neuromuscular Disorders**
+### Guidelines for Patients With Neuromuscular Disorders</summary><div class="details-content">
 
-The following guidelines are recommended for mechanically ventilating patients with neuromuscular disorders<sup>3-5,41-42</sup>:
-
+The following guidelines are recommended for mechanically ventilating patients with neuromuscular disorders:
 - Full or partial support
-- · Positive or negative pressure ventilation
+- Positive or negative pressure ventilation
 - Noninvasive or invasive ventilation
-- VC-CMV
-- \*  $V_T$  (6–8 mL/kg) while maintaining the Pplat at less than 30 cm  $H_2O$
+- VC‑CMV
+- V<sub>T</sub> (6‑8 mL/kg) while maintaining the P<sub>plat</sub> at less than 30 cm H₂O
 - f = 8 to 16 breaths/min
-- Inspiratory flow rates  $\geq$ 60 L/min to meet patient need ( $T_{\rm I} \sim$ 1 second to start)
+- Inspiratory flow rates ≥60 L/min to meet patient need (T<sub>I</sub> ~1 second to start)
 - Flow waveform: Constant or descending flow pattern
-- PEEP = 5 cm  $H_2O$  may be needed to relieve dyspnea
-- $F_IO_2 = 0.21$
+- PEEP = 5 cm H₂O may be needed to relieve dyspnea
+- F<sub>I</sub>O₂ = 0.21
 
-### Clinical Scenario: Neuromuscular Disorder
+</div></details>
 
-A 5-ft, 2-in, 115-lb, 67-year-old woman with a history of myasthenia gravis was brought to her physician's office by her daughter. She complained of progressive muscle weakness. Physical examination revealed that she demonstrated drooping eyelids and difficulty talking and swallowing. She was unable to walk more than a step or two. She was transferred to the hospital, where she was given edrophonium (Tensilon), which improved her muscle function for 10 to 15 minutes. On admission, her vital signs were unremarkable. Her maximum inspiratory pressure (MIP) was  $-35~{\rm cm}~{\rm H}_2{\rm O}$ , and her vital capacity (VC) was 1.8 L (predicted was 3.3 L). Her  ${\rm S}_{\rm p}{\rm O}_2$  on room air was 96%.
+<details class="med-details"><summary>
 
-Anticholinesterase therapy was administered, and MIP and VC were monitored every 8 hours. The nursing staff reported that the patient was having trouble swallowing when she ate and they feared that she would aspirate. MIP and VC values progressively declined. After being hospitalized for 24 hours, her MIP was -25 cm  $H_2O$  and VC was 1.0 L. ABGs on room air were pH = 7.36;  $P_aCO_2 = 48$  mm Hg;  $P_aO_2 = 62$  mm Hg;  $HCO_3-=27$  mEq/L. The following section provides a summary of the therapeutic intervention used for this patient. Could noninvasive positive pressure ventilation (NIV) be used in this situation?
+#### Clinical Scenario: Neuromuscular Disorder</summary><div class="details-content">
 
-### Initial Ventilator Settings: Patient With Neuromuscular Disorder (Myasthenia Gravis)
+A 5‑ft, 2‑in, 115‑lb, 67‑year‑old woman with a history of myasthenia gravis was brought to her physician’s office by her daughter. She complained of progressive muscle weakness. Physical examination revealed that she demonstrated drooping eyelids and difficulty talking and swallowing. She was unable to walk more than a step or two. She was transferred to the hospital, where she was given edrophonium (Tensilon), which improved her muscle function for 10 to 15 minutes. On admission, her vital signs were unremarkable. Her maximum inspiratory pressure (MIP) was –35 cm H₂O, and her vital capacity (VC) was 1.8 L (predicted was 3.3 L). Her SₚO₂ on room air was 96%.
+
+Anticholinesterase therapy was administered, and MIP and VC were monitored every 8 hours. The nursing staff reported that the patient was having trouble swallowing when she ate and they feared that she would aspirate. MIP and VC values progressively declined. After being hospitalized for 24 hours, her MIP was –25 cm H₂O and VC was 1.0 L. ABGs on room air were pH = 7.36; PₐCO₂ = 48 mm Hg; PₐO₂ = 62 mm Hg; HCO₃⁻ = 27 mEq/L.
+
+**Initial Ventilator Settings: Patient With Neuromuscular Disorder (Myasthenia Gravis)**
 
 The patient was intubated because of increased risk for aspiration. (Invasive mechanical ventilation was initiated rather than NIV because her ability to swallow was compromised and she showed signs of acute respiratory failure despite anticholinesterase therapy.)
 
-The patient is 5-ft, 2-in tall and weighs 115 lb, so:
-
-• IBW = 105 + 5 = 115 lb (52 kg)
-
-- BSA is 1.5 m<sup>2</sup>
-- Estimated  $\dot{V}$  E is 3.5  $\times$  1.5 = 5.25 L
-- $V_T = 420 \text{ mL} (8 \text{ mL/kg}) (VC\text{-CMV})$
+The patient is 5‑ft, 2‑in tall and weighs 115 lb, so:
+- IBW = 105 + 5(2) = 115 lb (52 kg)
+- BSA is 1.5 m²
+- Estimated V̇<sub>E</sub> = 3.5 × 1.5 = 5.25 L
+- V<sub>T</sub> = 420 mL (8 mL/kg) (VC‑CMV)
 - Rate = 13 breaths/min
 - Flow = 60 L/min using a constant waveform
-- PEEP = 2 cm  $H_2O$  and  $F_1O_2 = 0.21$
-- Calculate T<sub>I</sub> and T<sub>E</sub>
-- $T_1 = VT/flow (L/s) = 0.420 L/(1 L/s) = 0.42 second$
-- TCT = 60 s/12 = 5.0 seconds
-- $T_E = 6.0 0.42 = 5.58$  seconds
-- $PIP = 20 \text{ cm H}_2O$
-- Pplat = 12 cm  $H_2O$
-- What is the transairway pressure?  $20 12 = 8 \text{ cm H}_2\text{O}$
-- What is the patient's C<sub>L</sub> and is it normal?
-  - \*  $C_L = V_T/(P_{plat} PEEP) = 0.420/(12 3) = 0.046 \text{ L/cm H}_2O$  or 46 mL/cm  $H_2O$
-  - C<sub>L</sub> is normal
+- PEEP = 2 cm H₂O and F<sub>I</sub>O₂ = 0.21
+- Calculate T<sub>I</sub> and T<sub>E</sub>:
+  - T<sub>I</sub> = V<sub>T</sub>/flow (L/s) = 0.420 L/(1 L/s) = 0.42 second
+  - TCT = 60 s/12 = 5.0 seconds
+  - T<sub>E</sub> = 5.0 – 0.42 = 4.58 seconds
+- PIP = 20 cm H₂O; P<sub>plat</sub> = 12 cm H₂O
+- Transairway pressure = 20 – 12 = 8 cm H₂O
+- C<sub>L</sub> = V<sub>T</sub>/(P<sub>plat</sub> – PEEP) = 0.420/(12 – 2) = 0.042 L/cm H₂O or 42 mL/cm H₂O (normal)
 
 Ventilatory support was maintained for a total of 10 days, with one occurrence of a respiratory infection that responded to antibiotic therapy. She was successfully weaned and extubated on the 10th day.
 
-#### **CLOSED HEAD INJURY**
+</div></details>
 
-Closed head injury is an injury to the brain in which the skull remains intact. It is most commonly caused by trauma to the head from falls, automobile accidents, and blows to the head. Because the skull is a closed container, bruising the brain tissue can result in swelling (edema) and increased intracranial pressure (ICP). Similar effects may occur after surgery (postcraniotomy), medical accidents (i.e., cerebrovascular accident [stroke], and postresuscitation hypoxemia.)<sup>3,37,41,42</sup>
+</div></details>
 
-The cranial vault contains the brain, blood, and cerebrospinal fluid. Assessment of cerebral blood flow is important because the brain relies on steady blood flow to provide  $O_2$ . Maintaining sufficient cerebral blood flow requires an adequate cerebral perfusion pressure (CPP). CPP is defined by this equation: CPP = mean arterial pressure (MAP) — ICP. Normal values for MAP are 90 to 95 mm Hg and ICP less than 10 mm Hg. Normal CPP is 80 to 85 mm Hg. Values of CPP lower than 60 mm Hg indicate poor cerebral perfusion.
+<details class="med-details"><summary>
 
-Clinically, it is important to keep ICP low and MAP in the normal range to maintain CPP in brain-injured patients. Several techniques can be used to accomplish this goal. Mannitol infusion can be used to increase osmotic pressures and reduce ICP in acute situations; diuretics can reduce fluid volume (may reduce MAP, which may reduce CPP); and barbiturates can be used to reduce cerebral O<sub>2</sub> demand and lower ICP when conventional therapy fails. Patients should be maintained with their head in a neutral position and the head of the bed elevated by 30 degrees.
+## CLOSED HEAD INJURY</summary><div class="details-content">
 
-Iatrogenic hyperventilation, or the deliberate lowering of  $P_aCO_2$ , is sometimes used to reduce ICP, but its effectiveness remains controversial. The theory is that acute reductions in  $P_aCO_2$  are thought to result in cerebral vasoconstriction, reducing cerebral blood volume and ICP. (NOTE: a decreasing  $CO_2$  is associated with an increase in pH.) The effect of  $CO_2$  and pH change on ICP is most pronounced when it is acute and loses its effect as the pH of the cerebrospinal fluid becomes normalized. Therefore  $P_aCO_2$  should be normalized as soon as possible, depending on ICP response. It is important to mention that not all physicians
+Closed head injury is an injury to the brain in which the skull remains intact. It is most commonly caused by trauma to the head from falls, automobile accidents, and blows to the head. Because the skull is a closed container, bruising the brain tissue can result in swelling (edema) and increased intracranial pressure (ICP). Similar effects may occur after surgery (postcraniotomy), medical accidents (i.e., cerebrovascular accident [stroke]), and postresuscitation hypoxemia.
 
-## BOX **7.7**
+The cranial vault contains the brain, blood, and cerebrospinal fluid. Assessment of cerebral blood flow is important because the brain relies on steady blood flow to provide O₂. Maintaining sufficient cerebral blood flow requires an adequate cerebral perfusion pressure (CPP). CPP is defined by this equation: CPP = mean arterial pressure (MAP) – ICP. Normal values for MAP are 90 to 95 mm Hg and ICP less than 10 mm Hg. Normal CPP is 80 to 85 mm Hg. Values of CPP lower than 60 mm Hg indicate poor cerebral perfusion.
 
-# Indications for Mechanical Ventilation in Patients With Head Injuries
+Clinically, it is important to keep ICP low and MAP in the normal range to maintain CPP in brain‑injured patients. Several techniques can be used to accomplish this goal. Mannitol infusion can be used to increase osmotic pressures and reduce ICP in acute situations; diuretics can reduce fluid volume (may reduce MAP, which may reduce CPP); and barbiturates can be used to reduce cerebral O₂ demand and lower ICP when conventional therapy fails. Patients should be maintained with their head in a neutral position and the head of the bed elevated by 30 degrees.
 
-#### **Assisted Ventilation**
+Iatrogenic hyperventilation, or the deliberate lowering of PₐCO₂, is sometimes used to reduce ICP, but its effectiveness remains controversial. The theory is that acute reductions in PₐCO₂ are thought to result in cerebral vasoconstriction, reducing cerebral blood volume and ICP. (NOTE: a decreasing CO₂ is associated with an increase in pH.) The effect of CO₂ and pH change on ICP is most pronounced when it is acute and loses its effect as the pH of the cerebrospinal fluid becomes normalized. Therefore PₐCO₂ should be normalized as soon as possible, depending on ICP response. It is important to mention that not all physicians advocate the use of this technique. Furthermore, if an increased ICP is not present, iatrogenic hyperventilation is not indicated (current standards suggest that the PₐCO₂ should be maintained between 35 and 40 mm Hg). When a high ICP is present, iatrogenic hyperventilation can be used for a short time. Box 7.7 lists the indications for mechanical ventilation in patients with head injury. Box 7.8 provides information on the Glasgow Coma Scale score mentioned in Box 7.7.
 
-- Respiratory depression associated with injury. It may be manifested as Cheyne-Stokes respiration, central neurogenic hyperventilation, or apnea.
-- 2. Additional injuries to the chest, abdomen, back, or neck.
-- 3. Use of medications that depress respiration.
-- Neurogenic pulmonary edema (an acute respiratory distress syndrome—like pattern that can occur after head trauma).
-- 5. Impending or actual cardiac arrest.
-- 6. Upper airway compromise (e.g., presence of stridor or loss of airway clearance mechanisms).
-- 7. Aspiration at the time of loss of consciousness.
+##### BOX 7.7 Indications for Mechanical Ventilation in Patients With Head Injuries
 
-#### **Airway Management (Intubation)**
+**Assisted Ventilation**
+1. Respiratory depression associated with injury. It may be manifested as Cheyne‑Stokes respiration, central neurogenic hyperventilation, or apnea.
+2. Additional injuries to the chest, abdomen, back, or neck.
+3. Use of medications that depress respiration.
+4. Neurogenic pulmonary edema (an acute respiratory distress syndrome‑like pattern that can occur after head trauma).
+5. Impending or actual cardiac arrest.
+6. Upper airway compromise (e.g., presence of stridor or loss of airway clearance mechanisms).
+7. Aspiration at the time of loss of consciousness.
 
-- 1. Head injury (particularly with Glasgow Coma Scale score\* of  $\leq$ 8).
-- 2. Face, jaw, neck injuries with bleeding.
+**Airway Management (Intubation)**
+1. Head injury (particularly with Glasgow Coma Scale score ≤8).
+2. Face, jaw, neck injuries with bleeding.
 
-#### **Oxygen Delivery**
+**Oxygen Delivery**
+1. Head injury.
+2. Pulmonary contusion, edema, or both.
 
-- 1. Head injury.
-- 2. Pulmonary contusion, edema, or both.
+##### BOX 7.8 Glasgow Coma Scale Score
 
-\*See Box 7.8.
+**Verbal Response**
+1 = None
+2 = Incomprehensible sounds
+3 = Inappropriate words
+4 = Confused
+5 = Oriented
 
-advocate the use of this technique. Furthermore, if an increased ICP is not present, iatrogenic hyperventilation is not indicated (current standards suggest that the P<sub>a</sub>CO<sub>2</sub> should be maintained between 35 and 40 mm Hg). When a high ICP is present, iatrogenic hyperventilation can be used for a short time. Box 7.7 lists the indications for mechanical ventilation in patients with head injury.<sup>3</sup> Box 7.8 provides information on the Glasgow Coma Scale score mentioned in Box 7.7.
+**Eye Opening**
+1 = None
+2 = To pain
+3 = To speech
+4 = Spontaneously
 
-# **Guidelines for Patients With a Closed Head Injury**
+**Motor Response**
+1 = None
+2 = Abnormal extension to pain
+3 = Abnormal flexion to pain
+4 = Withdraws from pain
+5 = Localizes pain
+6 = Follows commands
 
-The following guidelines are recommended for mechanically ventilation in patients with closed head injuries<sup>3-5,41-42</sup>:
+*The Glasgow Coma Scale score evaluates a patient’s verbal, eye, and motor responses. Scores range from 3 to 15.
 
+<details class="med-details"><summary>
+
+### Guidelines for Patients With a Closed Head Injury</summary><div class="details-content">
+
+The following guidelines are recommended for mechanically ventilation in patients with closed head injuries:
 - After head injury, protect the airway because patients with altered levels of consciousness may be unable to do so. There is a high risk for vomiting and aspiration. Orotracheal intubation is often required.
-- PC-CMV and PEEP can actually increase ICP. These patients
-  often have normal lungs, so high P<sub>alv</sub> can be transmitted to
-  the blood vessels, thus affecting venous return from the head.
-  Monitoring for elevated ICP can help evaluate this effect.
+- PC‑CMV and PEEP can actually increase ICP. These patients often have normal lungs, so high P<sub>alv</sub> can be transmitted to the blood vessels, thus affecting venous return from the head. Monitoring for elevated ICP can help evaluate this effect.
 - Monitor for increased ICP and hypoxemia so that a rapid increase in ventilation and oxygenation can be instituted if needed or if recommended by institutional policy.
-- When there is acute uncontrolled increased ICP, maintain P<sub>a</sub>CO<sub>2</sub> from 25 to 30 mm Hg or titrate the ICP if it is being monitored.
-
-### BOX **7.8**
-
-#### Glasgow Coma Scale Score\*
-
-#### **Verbal Response**
-
-- 1 = None
-- 2 = Incomprehensible sounds
-- 3 = Inappropriate words
-- 4 = Confused
-- 5 = Oriented
-
-#### **Eye Opening**
-
-- 1 = None
-- 2 = To pain
-- 3 = To speech
-- 4 = Spontaneously
-
-#### **Motor Response**
-
-- 1 = None
-- 2 = Abnormal extension to pain
-- 3 = Abnormal flexion to pain
-- 4 = Withdraws from pain
-- 5 = Localizes pain
-- 6 = Follows commands
-
-\*The Glasgow Coma Scale score evaluates a patient's verbal, eye, and motor responses. Scores range from 3 to 15.
-
-- If iatrogenic hyperventilation is used, this should be only temporary, with P<sub>a</sub>CO<sub>2</sub> gradually returning to normal levels in 24 to 48 hours, allowing acid-base balance to restore itself. Sudden increases in P<sub>a</sub>CO<sub>2</sub> could trigger increases in cerebral blood flow and ICP. A normal response to acute increases in ICP is hypertension with bradycardia, which is called the Cushing response.<sup>3</sup>
-- · Ventilator settings include the following:
+- When there is acute uncontrolled increased ICP, maintain PₐCO₂ from 25 to 30 mm Hg or titrate the ICP if it is being monitored.
+- If iatrogenic hyperventilation is used, this should be only temporary, with PₐCO₂ gradually returning to normal levels in 24 to 48 hours, allowing acid‑base balance to restore itself. Sudden increases in PₐCO₂ could trigger increases in cerebral blood flow and ICP. A normal response to acute increases in ICP is hypertension with bradycardia, which is called the **Cushing response**.
+- Ventilator settings include the following:
   - Provide full ventilatory support to start.
-  - · Either PC-CMV or VC-CMV can be used.
-  - Maintain  $V_T$  from 6 to 8 mL/kg IBW while maintaining  $P_{plat}$  less than 30 cm  $H_2O$ .
-  - An f of 15 to 20 breaths/min to provide normal acid-base status, as long as auto-PEEP is avoided.
-  - $F_IO_2=1.0$  initially and titrate as needed to keep  $P_aO_2$  from 70 to 100 mm Hg to avoid hypoxemia.
-  - High inspiratory flow (>60 L/min) to keep  $T_{\rm I}$  short, about 1 second (avoid auto-PEEP) using a descending ramp pattern or constant flow pattern.
-  - PEEP =  $\leq$ 5 cm H<sub>2</sub>O, as long as ICP is being measured and is  $\leq$ 10 mm Hg. Because PEEP can increase ICP, it is used only if necessary to avoid severe hypoxemia.
+  - Either PC‑CMV or VC‑CMV can be used.
+  - Maintain V<sub>T</sub> from 6 to 8 mL/kg IBW while maintaining P<sub>plat</sub> less than 30 cm H₂O.
+  - An f of 15 to 20 breaths/min to provide normal acid‑base status, as long as auto‑PEEP is avoided.
+  - F<sub>I</sub>O₂ = 1.0 initially and titrate as needed to keep PₐO₂ from 70 to 100 mm Hg to avoid hypoxemia.
+  - High inspiratory flow (>60 L/min) to keep T<sub>I</sub> short, about 1 second (avoid auto‑PEEP) using a descending ramp pattern or constant flow pattern.
+  - PEEP = ≤5 cm H₂O, as long as ICP is being measured and is ≤10 mm Hg. Because PEEP can increase ICP, it is used only if necessary to avoid severe hypoxemia.
 - Suctioning and chest physiotherapy can dramatically increase ICP, but maintaining a clear airway is also essential. Consequently, bronchial hygiene therapy must be done with extreme caution.
 - Monitor for complications of pulmonary infections and pulmonary emboli.
 
-![](_page_14_Picture_3.jpeg)
+</div></details>
 
-#### (🔨) Clinical Scenario: Acute Head Injury
+<details class="med-details"><summary>
 
-A 23-year-old man is admitted to the ED after hitting his head against a tree in a skiing accident. He is unconscious on admission. There are no fractures to his head, neck, thorax, or limbs, but some bruising is present on his arms and legs. On admission, his vital signs are blood pressure = 150/90 mm Hg; heart rate = 110 beats/min and regular; f = 12 breaths/min; and temperature =  $35.6^{\circ}$  C. Breath sounds are equal and clear bilaterally. He withdraws from painful stimuli but is otherwise unresponsive. His pupils respond equally to light.
+#### Clinical Scenario: Acute Head Injury</summary><div class="details-content">
 
-The decision is made to intubate the young man to protect his airway. A computed tomogram of the head reveals an intracranial hemorrhage. After neurosurgery, the patient is transferred to the ICU; an ICP monitor is in place, along with an arterial line and a pulmonary artery catheter. He is receiving phenobarbital (a barbiturate) and midazolam (a short-acting benzodiazepine). The patient is 6 ft, 4 in (76 in) and weighs 225 lb (102 kg). ICP is 15 mm Hg, and hemodynamic data are within normal limits. The following section provides suggestions for his initial ventilator setting.
+A 23‑year‑old man is admitted to the ED after hitting his head against a tree in a skiing accident. He is unconscious on admission. There are no fractures to his head, neck, thorax, or limbs, but some bruising is present on his arms and legs. On admission, his vital signs are blood pressure = 150/90 mm Hg; heart rate = 110 beats/min and regular; f = 12 breaths/min; and temperature = 35.6° C. Breath sounds are equal and clear bilaterally. He withdraws from painful stimuli but is otherwise unresponsive. His pupils respond equally to light.
 
-# Suggesting Initial Ventilator Settings: Patient With Head Injury
+The decision is made to intubate the young man to protect his airway. A computed tomogram of the head reveals an intracranial hemorrhage. After neurosurgery, the patient is transferred to the ICU; an ICP monitor is in place, along with an arterial line and a pulmonary artery catheter. He is receiving phenobarbital (a barbiturate) and midazolam (a short‑acting benzodiazepine). The patient is 6 ft, 4 in (76 in) and weighs 225 lb (102 kg). ICP is 15 mm Hg, and hemodynamic data are within normal limits.
 
-- Patient's IBW: 106 + 6 = 202 lb (92 kg)
-- Patient's BSA: 2.32 m<sup>2</sup>
-- Settings:  $V_T = 552$  to 736 mL (range of 6–8 mL/kg IBW)
-- Normal  $\dot{V}_{E} = 4 \times 2.32 = 9.28 \text{ L/min}$
-- · Lung condition assumed to be normal at this time
+**Initial Ventilator Settings: Patient With Head Injury**
+- Patient’s IBW: 106 + 6(16) = 202 lb (92 kg)
+- Patient’s BSA: 2.32 m²
+- Settings: V<sub>T</sub> = 552 to 736 mL (range of 6‑8 mL/kg IBW)
+- Normal V̇<sub>E</sub> = 4 × 2.32 = 9.28 L/min
+- Lung condition assumed to be normal at this time
 
-#### **Possible Initial Settings**
+**Possible Initial Settings**
+- VC‑CMV, V<sub>T</sub> = 0.6 L; f = 15 breaths/min; flow = 60 L/min using descending ramp
+- F<sub>I</sub>O₂ = 1.0; PEEP = 3 cm H₂O
 
-- VC-CMV,  $V_T=0.6$  L; f=15 breaths/min; flow =60 L/min using descending ramp
-- $F_1O_2 = 1.0$ ;  $PEEP = 3 \text{ cm } H_2O$
+After 30 minutes on the initial settings, ABGs are pH = 7.43; PₐCO₂ = 36 mm Hg; PₐO₂ = 450 mm Hg; and HCO₃⁻ = 24 mEq/L. ICP = 18 mm Hg. F<sub>I</sub>O₂ is reduced to 0.5, and the patient is maintained on these settings until reevaluation in 2 hours. Additional changes should be directed toward reducing ICP.
 
-After 30 minutes on the initial settings, ABGs are pH = 7.43;  $P_aCO_2=36\ mm$  Hg;  $P_aO_2=450\ mm$  Hg; and HCO\_3 $-=24\ mEq/L.$  ICP = 18 mm Hg.  $F_IO_2$  is reduced to 0.5, and the patient is maintained on these settings until reevaluation in 2 hours. Additional changes should be directed toward reducing ICP.
+</div></details>
 
-#### **ACUTE RESPIRATORY DISTRESS SYNDROME**
+</div></details>
 
-ARDS is recognized as one of the most complex pulmonary disorders to manage. Mortality rates have been reported to range from 30% to 70%. Box 7.9 lists the diagnostic criteria for ARDS, and Box 7.10 lists some precipitating factors leading to this disorder. The characteristic pathophysiological findings associated with ARDS include hypoxemia, increased pulmonary vascular permeability, bilateral radiographic opacities, venous admixture, increased lung weight, and decreased lung compliance. ARDS has been described as having two phases: an early phase (first 7–10 days), which is characterized by increased vascular permeability, lung water, and lung protein; and a later phase (after 10 days), which is accompanied by extensive lung fibrosis. Management of ARDS inevitably includes mechanical ventilatory support. 55
+<details class="med-details"><summary>
 
-# BOX **7.9**
+## ACUTE RESPIRATORY DISTRESS SYNDROME</summary><div class="details-content">
 
-# Diagnostic Criteria for Acute Respiratory Distress Syndrome
+ARDS is recognized as one of the most complex pulmonary disorders to manage. Mortality rates have been reported to range from 30% to 70%. Box 7.9 lists the diagnostic criteria for ARDS, and Box 7.10 lists some precipitating factors leading to this disorder. The characteristic pathophysiological findings associated with ARDS include hypoxemia, increased pulmonary vascular permeability, bilateral radiographic opacities, venous admixture, increased lung weight, and decreased lung compliance. ARDS has been described as having two phases: an early phase (first 7‑10 days), which is characterized by increased vascular permeability, lung water, and lung protein; and a later phase (after 10 days), which is accompanied by extensive lung fibrosis. Management of ARDS inevitably includes mechanical ventilatory support.
+
+##### BOX 7.9 Diagnostic Criteria for Acute Respiratory Distress Syndrome
 
 - History of precipitating condition (see Box 7.10) that occurs within 1 week of a known clinical insult
 - Diffuse bilateral alveolar infiltrates on chest radiograph (or computed tomography scan) not fully explained by effusions, lobar/lung collapse, or nodules
 - Pulmonary edema not fully explained by cardiac failure or fluid overload. Objective assessment to verify if no risk factor is present
-- Reduced lung compliance ( $C_L$ ) (<40 mL/cm  $H_2O$ )
-- Refractory hypoxemia (reduced partial pressure of arterial oxygen [P<sub>a</sub>O<sub>2</sub>]/fractional inspired oxygen concentration [F<sub>1</sub>O<sub>2</sub>])
-- Mild  $$\leq 200$  mm Hg  $P_aO_2/$   $F_lO_2 \leq \!\! 300$  mm Hg with 5 cm  $H_2O$  PEEP
-- Moderate <100 mm Hg  $\le$ 200 mm Hg with 5 cm H<sub>2</sub>O
-- Severe  $\leq$ 100 mm Hg with 5 cm H<sub>2</sub>O PEEP
+- Reduced lung compliance (C<sub>L</sub>) (<40 mL/cm H₂O)
+- Refractory hypoxemia (reduced partial pressure of arterial oxygen [PₐO₂]/fractional inspired oxygen concentration [F<sub>I</sub>O₂])
+  - Mild: ≤200 mm Hg PₐO₂/F<sub>I</sub>O₂ ≤300 mm Hg with 5 cm H₂O PEEP
+  - Moderate: <100 mm Hg ≤200 mm Hg with 5 cm H₂O PEEP
+  - Severe: ≤100 mm Hg with 5 cm H₂O PEEP
 
-# BOX **7.10**
-
-# Examples of Conditions Associated With Development of Acute Respiratory Distress Syndrome
+##### BOX 7.10 Examples of Conditions Associated With Development of Acute Respiratory Distress Syndrome
 
 - Sepsis
-- · Aspiration of gastric contents
-- · Thoracic and nonthoracic trauma
-- · Heroin or other drug overdose
-- · Massive blood transfusions
+- Aspiration of gastric contents
+- Thoracic and nonthoracic trauma
+- Heroin or other drug overdose
+- Massive blood transfusions
 - Fat emboli
-- · Smoke inhalation or chemically induced lung injury
-- · Pulmonary vasculitis
+- Smoke inhalation or chemically induced lung injury
+- Pulmonary vasculitis
 - Burns
 - Pancreatitis
-- Near-drowning
+- Near‑drowning
 - Interstitial viral pneumonitis
-- · Disseminated intravascular coagulation
-- O<sub>2</sub> toxicity
-- · Prolonged cardiopulmonary bypass
+- Disseminated intravascular coagulation
+- O₂ toxicity
+- Prolonged cardiopulmonary bypass
 
-#### **Guidelines for Patients With ARDS**
+<details class="med-details"><summary>
 
-For patients with ARDS, a  $V_T$  of 6 to 8 mL/kg with a respiratory rate of 15 to 25 breaths/min is indicated. Use of lower than normal  $V_{TS}$  ( $V_T=4-6$  mL/kg) may be necessary to maintain the  $P_{plat}$  below 30 cm  $H_2O$ . This protective lung strategy has been shown to reduce the risk for ventilator-induced lung injury and improve outcomes for ARDS patients. As discussed in earlier chapters, it is important to remember that the use of high respiratory rates and low  $V_T$  may not provide sufficient time for exhalation and ultimately lead to air being trapped in the lungs during exhalation (auto-PEEP).
+### Guidelines for Patients With ARDS</summary><div class="details-content">
 
-The following guidelines are suggested for ventilation in patients with  $ARDS^{3-5,34-36,43,52-55}$ :
+For patients with ARDS, a V<sub>T</sub> of 6 to 8 mL/kg with a respiratory rate of 15 to 25 breaths/min is indicated. Use of lower than normal V<sub>T</sub>s (V<sub>T</sub> = 4‑6 mL/kg) may be necessary to maintain the P<sub>plat</sub> below 30 cm H₂O. This protective lung strategy has been shown to reduce the risk for ventilator‑induced lung injury and improve outcomes for ARDS patients. As discussed in earlier chapters, it is important to remember that the use of high respiratory rates and low V<sub>T</sub> may not provide sufficient time for exhalation and ultimately lead to air being trapped in the lungs during exhalation (auto‑PEEP).
 
-- Choose a mode capable of supporting oxygenation and ventilation, such as PC-CMV or VC-CMV.
-- Maintain S<sub>a</sub>O<sub>2</sub> at 88% to 90% or greater. Start at 100% O<sub>2</sub>. To support oxygenation, use PEEP<sub>E</sub> at a level that prevents alveolar collapse but minimizes overdistention to prevent lung damage. PEEP<sub>E</sub> may allow reduction of F<sub>I</sub>O<sub>2</sub> to safe levels.
-- When oxygenation is inadequate, sedate, paralyze, and consider prone positioning. Cardiac output and hemoglobin levels should be optimized. High PEEP<sub>E</sub> levels greater than 15 cm H<sub>2</sub>O may be required in ARDS.
-- Keep  $P_{plat}$  below 30 cm  $H_2O$  by lowering  $V_T$  to 4 to 6 mL/kg, if necessary. Allow  $P_aCO_2$  to rise above normal (permissive hypercapnia) if necessary, unless there is a risk for increased ICP or contraindications exist that demand a normal  $P_aCO_2$  or pH. Rapid rises in  $P_aCO_2$  should be avoided.
+The following guidelines are suggested for ventilation in patients with ARDS:
+- Choose a mode capable of supporting oxygenation and ventilation, such as PC‑CMV or VC‑CMV.
+- Maintain SₐO₂ at 88% to 90% or greater. Start at 100% O₂. To support oxygenation, use PEEP<sub>E</sub> at a level that prevents alveolar collapse but minimizes overdistention to prevent lung damage. PEEP<sub>E</sub> may allow reduction of F<sub>I</sub>O₂ to safe levels.
+- When oxygenation is inadequate, sedate, paralyze, and consider prone positioning. Cardiac output and hemoglobin levels should be optimized. High PEEP<sub>E</sub> levels greater than 15 cm H₂O may be required in ARDS.
+- Keep P<sub>plat</sub> below 30 cm H₂O by lowering V<sub>T</sub> to 4 to 6 mL/kg, if necessary. Allow PₐCO₂ to rise above normal (permissive hypercapnia) if necessary, unless there is a risk for increased ICP or contraindications exist that demand a normal PₐCO₂ or pH. Rapid rises in PₐCO₂ should be avoided.
 
-There is no evidence to date that PC-CMV is superior to VC-CMV, or vice versa. The selection of one mode over the other may depend on clinician comfort levels. If VC-CMV is selected, the clinician should use the descending flow waveform to help ensure early delivery of  $V_{\rm T}$  and provide a higher mean airway pressure  $(P_{aw})$  than a constant flow pattern, which may benefit oxygenation and minimizes the difference between PIP and  $P_{\rm plat}$ 
+There is no evidence to date that PC‑CMV is superior to VC‑CMV, or vice versa. The selection of one mode over the other may depend on clinician comfort levels. If VC‑CMV is selected, the clinician should use the descending flow waveform to help ensure early delivery of V<sub>T</sub> and provide a higher mean airway pressure (P<sub>aw</sub>) than a constant flow pattern, which may benefit oxygenation and minimizes the difference between PIP and P<sub>plat</sub>.
 
-During the acute phase of the disease, patients typically require high levels of ventilatory support, although full support is usually not necessary. These levels can be attained with either CMV or IMV + PSV. Adequate ventilation can generally be provided with  $V_T$  in the range of 4 to 6 mL/kg while  $P_{plat}$  is maintained at below 30 cm  $H_2O$  with rates of 15 to 25 breaths/min. Use flow greater than 60 L/min for volume-controlled ventilation. During pressure-controlled ventilation, use a  $T_I$  that is long enough to enhance oxygenation but short enough to allow adequate  $T_E$  to avoid auto-PEEP (e.g.,  $T_I$  <1 second). Because time constants are short for many lung units (decreased compliance), this is usually not difficult even for I/E ratios of 1:1.5 or higher (e.g., 1:1 or 2:1).
+During the acute phase of the disease, patients typically require high levels of ventilatory support, although full support is usually not necessary. These levels can be attained with either CMV or IMV + PSV. Adequate ventilation can generally be provided with V<sub>T</sub> in the range of 4 to 6 mL/kg while P<sub>plat</sub> is maintained at below 30 cm H₂O with rates of 15 to 25 breaths/min. Use flow greater than 60 L/min for volume‑controlled ventilation. During pressure‑controlled ventilation, use a T<sub>I</sub> that is long enough to enhance oxygenation but short enough to allow adequate T<sub>E</sub> to avoid auto‑PEEP (e.g., T<sub>I</sub> <1 second). Because time constants are short for many lung units (decreased compliance), this is usually not difficult even for I/E ratios of 1:1.5 or higher (e.g., 1:1 or 2:1).
 
-PEEP<sub>E</sub> is required for the management of ARDS to prevent the opening and closing of alveoli during each breath. This opening and closing can cause lung injury from the shear stress (frictional forces) between alveoli that have different time constants and may also result in surfactant being "milked" from the alveoli (Fig. 7.4). During the early phase of ARDS, it is important to keep PEEPE high enough at least to exceed the inflection point on a slow or static pressure-volume curve (see Chapter 13).55,56 It is generally accepted by clinicians that the deflation limb of a slow pressure-volume loop best approximates the end-expiratory pressure range required to prevent alveolar collapse.<sup>57</sup> Maintaining PEEP<sub>E</sub> above this pressure range helps prevent opening and closing of small airways and alveoli (i.e., this is often referred to as the open lung approach to ventilator management). Even if a ventilator does not have a graphics package, this curve can be graphed by hand. PEEPE may also be beneficial in later stages of ARDS to maintain oxygenation and reduce the  $F_1O_2$  levels (<0.5). More information about the management of ARDS is presented in Chapter 13.
+PEEP<sub>E</sub> is required for the management of ARDS to prevent the opening and closing of alveoli during each breath. This opening and closing can cause lung injury from the shear stress (frictional forces) between alveoli that have different time constants and may also result in surfactant being “milked” from the alveoli ([Fig. 7.4](#fig-7-4)). During the early phase of ARDS, it is important to keep PEEP<sub>E</sub> high enough at least to exceed the inflection point on a slow or static pressure‑volume curve (see Chapter 13). It is generally accepted by clinicians that the deflation limb of a slow pressure‑volume loop best approximates the end‑expiratory pressure range required to prevent alveolar collapse. Maintaining PEEP<sub>E</sub> above this pressure range helps prevent opening and closing of small airways and alveoli (i.e., this is often referred to as the open lung approach to ventilator management). Even if a ventilator does not have a graphics package, this curve can be graphed by hand. PEEP<sub>E</sub> may also be beneficial in later stages of ARDS to maintain oxygenation and reduce the F<sub>I</sub>O₂ levels (<0.5). More information about the management of ARDS is presented in Chapter 13.
 
-Acceptable endpoints for the management of ARDS based on ABGs are  $P_aCO_2=40$  to 80 mm Hg; pH=7.20 to 7.40;  $P_aO_2=60$  to 100 mm Hg. Note that these values may vary across institutions. Some physicians prefer to use tris-hydroxymethyl-aminomethane or sodium bicarbonate when pH drops below 7.20.  $^{42,59}$ 
+Acceptable endpoints for the management of ARDS based on ABGs are PₐCO₂ = 40 to 80 mm Hg; pH = 7.20 to 7.40; PₐO₂ = 60 to 100 mm Hg. Note that these values may vary across institutions. Some physicians prefer to use tris‑hydroxymethyl‑aminomethane or sodium bicarbonate when pH drops below 7.20.
 
-![](_page_15_Picture_12.jpeg)
+<span id="fig-7-4"></span>![](./_page_16_Figure_3.jpeg)
 
-**Fig. 7.4** The volume from a positive pressure breath distributes homogeneously throughout the lung with normal lung compliance ( $C_L$ ) (*left panel*). In a lung with low regional  $C_L$ , the volume from a positive pressure breath distributes preferentially to the regions with more normal  $C_L$  (*right panel*). Thus a tidal volume ( $V_T$ ) of normal size in a lung with regions of low  $C_L$  can overdistend the healthier regions. This may create shear stress (frictional forces) between adjacent lung units. (Redrawn from MacIntyre NR: Minimizing alveolar stretch injury during mechanical ventilation, *Respir Care* 41:318—326, 1996.)
+**FIGURE 7.4** The volume from a positive pressure breath distributes homogeneously throughout the lung with normal lung compliance (C<sub>L</sub>) (*left panel*). In a lung with low regional C<sub>L</sub>, the volume from a positive pressure breath distributes preferentially to the regions with more normal C<sub>L</sub> (*right panel*). Thus a tidal volume (V<sub>T</sub>) of normal size in a lung with regions of low C<sub>L</sub> can overdistend the healthier regions. This may create shear stress (frictional forces) between adjacent lung units. (Redrawn from MacIntyre NR: Minimizing alveolar stretch injury during mechanical ventilation, *Respir Care* 41:318‑326, 1996.)
 
-### Clinical Scenario: Patient With Acute Respiratory Distress Syndrome
+</div></details>
 
-A 60-year-old man sustained multiple lacerations from a motor vehicle crash. Admission to the ED for evaluation revealed a fractured left femur, a deep laceration of the right arm, an open pneumothorax on the right side of the chest, and abdominal bruising. There was evidence of injury to the head or neck. The patient was taken to surgery for repair of internal injuries; a chest tube with pleural drainage was inserted for the pneumothorax.
+<details class="med-details"><summary>
 
-The patient developed a fever of 39.5° C and severe refractory hypoxemia 4 days after surgery. A chest radiograph showed resolution of the pneumothorax and the presence of bilateral fluffy infiltrates. ABGs on a nonrebreathing mask at the time were pH = 7.29;  $P_aCO_2=51~mm$  Hg;  $P_aO_2=76~mm$  Hg;  $HCO_3-=24.8~mEq/L$ . Vital signs were blood pressure = 148/90 mm Hg; heart rate = 152 beats/min; f=40~to~42~breaths/min and labored. The patient was restless and anxious. Mask CPAP was initiated with  $F_1O_2=1.0$  and greater than 10 cm  $H_2O$ . The face mask was not well tolerated. The patient, who was 6 ft, 2 in (72 in) and weighed 258 lb (117 kg), was sedated, paralyzed, orally intubated, and placed on ventilatory support (Case Study 7.2). (NOTE: The progress of this patient is continued in Chapter 13.)
+#### Clinical Scenario: Patient With Acute Respiratory Distress Syndrome</summary><div class="details-content">
 
-![](_page_16_Picture_3.jpeg)
+A 60‑year‑old man sustained multiple lacerations from a motor vehicle crash. Admission to the ED for evaluation revealed a fractured left femur, a deep laceration of the right arm, an open pneumothorax on the right side of the chest, and abdominal bruising. There was evidence of injury to the head or neck. The patient was taken to surgery for repair of internal injuries; a chest tube with pleural drainage was inserted for the pneumothorax.
 
-### Case Study 7.2
+The patient developed a fever of 39.5° C and severe refractory hypoxemia 4 days after surgery. A chest radiograph showed resolution of the pneumothorax and the presence of bilateral fluffy infiltrates. ABGs on a nonrebreathing mask at the time were pH = 7.29; PₐCO₂ = 51 mm Hg; PₐO₂ = 76 mm Hg; HCO₃⁻ = 24.8 mEq/L. Vital signs were blood pressure = 148/90 mm Hg; heart rate = 152 beats/min; f = 40 to 42 breaths/min and labored. The patient was restless and anxious. Mask CPAP was initiated with F<sub>I</sub>O₂ = 1.0 and greater than 10 cm H₂O. The face mask was not well tolerated. The patient, who was 6 ft, 2 in (72 in) and weighed 258 lb (117 kg), was sedated, paralyzed, orally intubated, and placed on ventilatory support (Case Study 7.2). (NOTE: The progress of this patient is continued in Chapter 13.)
 
-#### Key Questions for Acute Respiratory Distress Syndrome (ARDS) Patient
+<details class="med-details"><summary>
 
-- 1. What were the indications for ventilation of this patient?
-- 2. What clinical information suggests this patient may have developed ARDS?
-- 3. What would be appropriate initial ventilator settings for this patient?
+##### Case Study 7.2: Key Questions for Acute Respiratory Distress Syndrome (ARDS) Patient</summary><div class="details-content">
 
-# ACUTE CARDIOGENIC PULMONARY EDEMA AND CONGESTIVE HEART FAILURE
+1. What were the indications for ventilation of this patient?
+2. What clinical information suggests this patient may have developed ARDS?
+3. What would be appropriate initial ventilator settings for this patient?
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## ACUTE CARDIOGENIC PULMONARY EDEMA AND CONGESTIVE HEART FAILURE</summary><div class="details-content">
 
 Cardiovascular disease is the most common cause of death in the United States (Centers for Disease Control and Prevention). It is not surprising that many patients with cardiovascular problems seek medical help in both EDs and urgent care centers. These problems can take the form of shortness of breath with or without accompanying chest pain.
 
 Patients with congestive heart failure (CHF) can rapidly develop acute pulmonary edema. Box 7.11 lists the most common causes of cardiogenic pulmonary edema.
 
-Much of the treatment of acute heart failure is based on medical management. For example, diuretics are given to reduce vascular fluid load, positive inotropic agents are given to improve cardiac contractility, and vasodilators can improve myocardial oxygenation and reduce preload and afterload. Many patients can be successfully managed with drug therapy and do not require mechanical ventilatory support. However, mechanical ventilation may be indicated when severe heart failure leads to increased myocardial work, increased WOB, and hypoxemia. In patients with left ventricular failure the use of positive pressure, particularly PEEP (Box 7.12, 1 through 4), can effectively reduce the size of the heart and therefore reduce venous return and reduce preload to left ventricles.3,37 Reducing the size of an overdistended left ventricle can improve the relationship of left ventricular length to tension and allow for an increase in stroke volume. PEEP increases intrathoracic pressures and reduces venous return, thus reducing preload to the heart.
+Much of the treatment of acute heart failure is based on medical management. For example, diuretics are given to reduce vascular fluid load, positive inotropic agents are given to improve cardiac contractility, and vasodilators can improve myocardial oxygenation and reduce preload and afterload. Many patients can be successfully managed with drug therapy and do not require mechanical ventilatory support. However, mechanical ventilation may be indicated when severe heart failure leads to increased myocardial work, increased WOB, and hypoxemia. In patients with left ventricular failure the use of positive pressure, particularly PEEP (Box 7.12, 1 through 4), can effectively reduce the size of the heart and therefore reduce venous return and reduce preload to left ventricles. Reducing the size of an overdistended left ventricle can improve the relationship of left ventricular length to tension and allow for an increase in stroke volume. PEEP increases intrathoracic pressures and reduces venous return, thus reducing preload to the heart.
 
-# **Guidelines for Patients With Congestive Heart Failure**
+##### BOX 7.11 Common Causes of Acute Pulmonary Edema
 
-The following guidelines are recommended for mechanical ventilation in patients with acute cardiogenic pulmonary edema and  $\mathrm{CHF}^{3-5,41-43}$ :
-
-## BOX 7.11
-
-# Common Causes of Acute Pulmonary Edema
-
-- · Acute myocardial infarction
+- Acute myocardial infarction
 - Hypertension
-- · Rapid heart rates with inadequate filling time
-- · Valvular heart disease
+- Rapid heart rates with inadequate filling time
+- Valvular heart disease
 - Fluid overload
 
-- Select a mode of ventilation that reduces WOB. This may be as simple as noninvasive mask CPAP. NIV by mask CPAP may improve oxygenation, reduce P<sub>a</sub>CO<sub>2</sub>, reduce the WOB, and reduce myocardial work. NIV in patients with CHF may allow sufficient time for pharmacological treatment to become effective.
-- When life-threatening hypoxemia occurs with severe CHF, PEEP or positive pressure ventilation may have beneficial effects on myocardial function and improve oxygenation.
-- Careful evaluation of the effects of positive pressure ventilation
-  on hemodynamics is essential. This may include the use of a
-  pulmonary artery catheter in severe cases, particularly if PEEP<sub>E</sub>
-  greater than 10 to 15 cm H<sub>2</sub>O is used. However, the use of pulmonary catheters carries a risk for increased mortality and
-  morbidity and is controversial (see Chapter 11 for more details
-  about hemodynamic monitoring).
-- The use of VC-CMV or PC-CMV is recommended to minimize spontaneous breathing, which may divert increased blood flow and O<sub>2</sub> consumption to the respiratory muscles.
-- V<sub>T</sub> range is moderate from 6 to 8 mL/kg: set f from 10 or more breaths/min and peak flows 60 L/min or greater using either descending or constant waveforms. T<sub>I</sub> range is 1 to 1.5 seconds.
-- Set a PEEP of 5 to 10 cm H<sub>2</sub>O to support the cardiac function.
-- Start  $F_1O_2$  at 1.0 and titrate quickly with  $S_pO_2$  to maintain  $S_pO_2$  greater than 90% to 92%.
-- Monitor S<sub>p</sub>O<sub>2</sub>, ABGs, urine output, electrolytes, and systemic hemodynamic status.
+##### BOX 7.12 Potential Effects of PEEP in Left Ventricular Dysfunction
 
-### BOX 7.12
+1. Increased mean airway pressure (P<sub>aw</sub>) and intrathoracic pressure lead to reduced venous return, which can reduce preload to a failing heart, improving its function.
+2. Increased functional residual capacity from PEEP leads to increased pulmonary vascular resistance and increased afterload to the right heart and decreased left heart filling. Increased right heart pressures with the increased afterload may shift the interventricular septum to the left. This does not seem to alter right ventricular contractility until values for pulmonary artery pressure are critical.
+3. With the left shift of the interventricular septum, the left ventricular volume is reduced. This may reduce the load it must pump. However, it may also affect the compliance of the left ventricle and either increase or decrease left heart function (the response varies).
+4. The mechanical compression of the heart and aorta by the pleural pressure surrounding them can also alter ventricular function. The vascular pressure in the heart and thoracic aorta is transiently increased relative to the extrathoracic aorta (i.e., left ventricular afterload decreases). This response is not always consistent, and cardiac tamponade from PEEP can negatively alter myocardial compliance as well.
+5. If ventilator modes increase work of breathing, this increases O₂ demand and can lead to increased myocardial ischemia and a reduction in left ventricular compliance.
 
-#### Potential Effects of PEEP in Left Ventricular Dysfunction
+<details class="med-details"><summary>
 
-- Increased mean airway pressure (P<sub>aw</sub>) and intrathoracic pressure lead to reduced venous return, which can reduce preload to a failing heart, improving its function.
-- 2. Increased functional residual capacity from PEEP leads to increased pulmonary vascular resistance and increased afterload to the right heart and decreased left heart filling. Increased right heart pressures with the increased afterload may shift the interventricular septum to the left. This does not seem to alter right ventricular contractility until values for pulmonary artery pressure are critical.
-- 3. With the left shift of the interventricular septum, the left ventricular volume is reduced. This may reduce the load it must pump. However, it may also affect the compliance of the left ventricle and either increase or decrease left heart function (the response varies).
-- 4. The mechanical compression of the heart and aorta by the pleural pressure surrounding them can also alter ventricular function. The vascular pressure in the heart and thoracic aorta is transiently increased relative to the extrathoracic aorta (i.e., left ventricular afterload decreases). This response is not always consistent, and cardiac tamponade from PEEP can negatively alter myocardial compliance as well.
-- 5. If ventilator modes increase work of breathing, this increases  $O_2$  demand and can lead to increased myocardial ischemia and a reduction in left ventricular compliance.
+### Guidelines for Patients With Congestive Heart Failure</summary><div class="details-content">
 
-![](_page_17_Picture_3.jpeg)
+The following guidelines are recommended for mechanical ventilation in patients with acute cardiogenic pulmonary edema and CHF:
+- Select a mode of ventilation that reduces WOB. This may be as simple as noninvasive mask CPAP. NIV by mask CPAP may improve oxygenation, reduce PₐCO₂, reduce the WOB, and reduce myocardial work. NIV in patients with CHF may allow sufficient time for pharmacological treatment to become effective.
+- When life‑threatening hypoxemia occurs with severe CHF, PEEP or positive pressure ventilation may have beneficial effects on myocardial function and improve oxygenation.
+- Careful evaluation of the effects of positive pressure ventilation on hemodynamics is essential. This may include the use of a pulmonary artery catheter in severe cases, particularly if PEEP greater than 10 to 15 cm H₂O is used. However, the use of pulmonary catheters carries a risk for increased mortality and morbidity and is controversial (see Chapter 11 for more details about hemodynamic monitoring).
+- The use of VC‑CMV or PC‑CMV is recommended to minimize spontaneous breathing, which may divert increased blood flow and O₂ consumption to the respiratory muscles.
+- V<sub>T</sub> range is moderate from 6 to 8 mL/kg; set f from 10 or more breaths/min and peak flows 60 L/min or greater using either descending or constant waveforms. T<sub>I</sub> range is 1 to 1.5 seconds.
+- Set a PEEP of 5 to 10 cm H₂O to support cardiac function.
+- Start F<sub>I</sub>O₂ at 1.0 and titrate quickly with SₚO₂ to maintain SₚO₂ greater than 90% to 92%.
+- Monitor SₚO₂, ABGs, urine output, electrolytes, and systemic hemodynamic status.
 
-#### Clinical Scenario: Patient With Congestive Heart Failure
+</div></details>
 
-A 63-year-old man who is complaining of severe shortness of breath is brought by ambulance to the ED. He is 5 ft, 11 in (71 in) and weighs 175 lb (79.5 kg). His vital signs are blood pressure = 175/115 mm Hg, heart rate = 140 beats/min and the rhythm is irregular, f=22 to 24 breaths/min, and normal temperature. His lips are cyanotic, his neck veins are distended, and both of his ankles show evidence of pitting edema. Breath sounds reveal bilateral basilar crackles and wheezes. He has a productive cough with small amounts of pink, frothy secretions. He is anxious and refuses to lie down on the gurney, saying, "I get too short of breath when I lie down."
+<details class="med-details"><summary>
 
-A chest radiograph shows cardiomegaly and dense, fluffy opacities in the lower lung fields. The electrocardiogram reveals atrial fibrillation with a ventricular rate of 138 to 140 beats/min and occasional premature ventricular contractions. The respiratory therapist places a pulse oximeter sensor on the patient's left index finger and notices that the patient's hand is cold. The respiratory therapist is unable to obtain an accurate pulse oximeter reading (Case Study 7.3). After placing the sensor on the right index finger and rubbing the hand to warm it, an SpO2 reading of 87% is obtained.
+#### Clinical Scenario: Patient With Congestive Heart Failure</summary><div class="details-content">
 
-The patient is started on a nasal cannula at 2 L/min and given intravenous furosemide, dobutamine, and digitalis. ABGs obtained 1 hour later are pH = 7.16;  $P_aCO_2 = 79$  mm Hg;  $P_aO_2 = 33$  mm Hg; and  $HCO_3 - 28$  mEq/L on 2 L/min by nasal cannula. The patient's urine output was 580 mL in the past hour, and he remained cyanotic. The 2 L/min nasal cannula was not adequate. He is slow to respond to verbal commands. The following information provides an alternative therapeutic approach using NIV.
+A 63‑year‑old man who is complaining of severe shortness of breath is brought by ambulance to the ED. He is 5 ft, 11 in (71 in) and weighs 175 lb (79.5 kg). His vital signs are blood pressure = 175/115 mm Hg, heart rate = 140 beats/min and the rhythm is irregular, f = 22 to 24 breaths/min, and normal temperature. His lips are cyanotic, his neck veins are distended, and both of his ankles show evidence of pitting edema. Breath sounds reveal bilateral basilar crackles and wheezes. He has a productive cough with small amounts of pink, frothy secretions. He is anxious and refuses to lie down on the gurney, saying, “I get too short of breath when I lie down.”
 
-#### Alternative Solution to Patient Treatment: CHF
+A chest radiograph shows cardiomegaly and dense, fluffy opacities in the lower lung fields. The electrocardiogram reveals atrial fibrillation with a ventricular rate of 138 to 140 beats/min and occasional premature ventricular contractions. The respiratory therapist places a pulse oximeter sensor on the patient’s left index finger and notices that the patient’s hand is cold. The respiratory therapist is unable to obtain an accurate pulse oximeter reading (Case Study 7.3). After placing the sensor on the right index finger and rubbing the hand to warm it, an SₚO₂ reading of 87% is obtained.
 
-Noninvasive ventilation is started for this patient using a full-face mask and bilevel PAP with IPAP at 9 cm  $H_2O$ , EPAP at 3 cm  $H_2O$ , and  $F_1O_2$  of approximately 0.5. The patient's spontaneous respiratory rate on these settings is 25 breaths/min, and the  $S_pO_2$  is now 88%.
+The patient is started on a nasal cannula at 2 L/min and given intravenous furosemide, dobutamine, and digitalis. ABGs obtained 1 hour later are pH = 7.16; PₐCO₂ = 79 mm Hg; PₐO₂ = 33 mm Hg; and HCO₃⁻ = 28 mEq/L on 2 L/min by nasal cannula. The patient’s urine output was 580 mL in the past hour, and he remained cyanotic. The 2 L/min nasal cannula was not adequate. He is slow to respond to verbal commands.
 
-......
+**Alternative Solution to Patient Treatment: CHF**
 
-To reduce f and  $S_pO_2$ , the IPAP and EPAP are increased. After several adjustments, the final values for adequate ventilation are IPAP = 15 cm  $H_2O$ ; EPAP = 5 cm  $H_2O$ ; approximate  $F_IO_2$  = 0.6; f = 16 breaths/min; and  $V_T$  = 760 mL.  $S_pO_2$  = 95%.
+Noninvasive ventilation is started for this patient using a full‑face mask and bilevel PAP with IPAP at 9 cm H₂O, EPAP at 3 cm H₂O, and F<sub>I</sub>O₂ of approximately 0.5. The patient’s spontaneous respiratory rate on these settings is 25 breaths/min, and the SₚO₂ is now 88%.
 
-The patient's condition improves with treatment. Urine output is 850 mL over a 2-hour period. Breath sounds reveal a moderate amount of crackles in the lung bases. The patient's color improves and he is alert, responsive, and cooperative. The pressure support levels are gradually reduced. The patient is alternately tested with a 50%  $O_2$  mask and returned to the noninvasive ventilator until he is stable on the 50% mask. ABGs on an  $F_1O_2=0.5$  are pH=7.38;  $P_aCO_2=45$  mm Hg;  $P_aO_2=73$  mm Hg; and  $HCO_3-26$  mEq/L. The patient is monitored over the next 24 hours, stabilized on medication, and discharged into the care of his wife.
+To reduce f and improve SₚO₂, the IPAP and EPAP are increased. After several adjustments, the final values for adequate ventilation are IPAP = 15 cm H₂O; EPAP = 5 cm H₂O; approximate F<sub>I</sub>O₂ = 0.6; f = 16 breaths/min; and V<sub>T</sub> = 760 mL. SₚO₂ = 95%.
+
+The patient’s condition improves with treatment. Urine output is 850 mL over a 2‑hour period. Breath sounds reveal a moderate amount of crackles in the lung bases. The patient’s color improves and he is alert, responsive, and cooperative. The pressure support levels are gradually reduced. The patient is alternately tested with a 50% O₂ mask and returned to the noninvasive ventilator until he is stable on the 50% mask. ABGs on an F<sub>I</sub>O₂ = 0.5 are pH = 7.38; PₐCO₂ = 45 mm Hg; PₐO₂ = 73 mm Hg; and HCO₃⁻ = 26 mEq/L. The patient is monitored over the next 24 hours, stabilized on medication, and discharged into the care of his wife.
 
 Although NIV was successful in this individual, it is important to recognize that it is not always successful. Some patients with decompensated heart failure will temporarily improve with NIV but then worsen and may even go into cardiac arrest. Some clinicians prefer to intubate and provide invasive ventilation rather than NIV in this patient population because invasive ventilation provides more controlled conditions.
 
-![](_page_17_Picture_13.jpeg)
+<details class="med-details"><summary>
 
-#### Case Study 7.3
-
-#### **Troubleshooting: The Pulse Oximeter**
+##### Case Study 7.3: Troubleshooting: The Pulse Oximeter</summary><div class="details-content">
 
 Why was the therapist unable to get an initial reading from the pulse oximeter? What would you suggest to alleviate this situation?
 
-![](_page_17_Picture_17.jpeg)
+</div></details>
 
-- Numerous issues must be considered before connecting a patient to a mechanical ventilator. These include selecting appropriate ventilator settings for F<sub>1</sub>O<sub>2</sub>, sensitivity, sigh breaths, alarms, and monitors, as well as concerns regarding humidification of inspired gases.
-- Once the patient is connected to the ventilator, the clinician should perform a careful assessment of the patient's response to these initial parameters.
+</div></details>
 
-- Titrating the F<sub>I</sub>O<sub>2</sub> using pulse oximetry and ABG findings can minimize the risk for administering too much O<sub>2</sub>.
-- Ventilator sensitivity is normally set so that patients can easily flow-trigger or pressure-trigger a breath.
-- It can be particularly difficult to adjust the ventilator sensitivity so that it senses a patient's effort when auto-PEEP is present.
-- Humidity can be provided by a variety of humidification systems. Devices in this category include the following types of humidifiers: pass-over, vapor phase, wick, and active heat and moisture exchangers.
-- Audible and visible alarm systems are designed to alert the operator of potential dangers related to the patient-ventilator interaction.
-- Initial ventilator setting should be based on the patient's condition. Table 7.1 provides a summary of initial ventilator settings for patients commonly encountered in the clinical setting.
-- Mechanical breaths of  $V_T$  6 to 8 mL/kg IBW are usually effective, but lower  $V_T$ s may be required for patients with ARDS to maintain  $P_{plat}$  below 30 cm  $H_2O$ . Low levels of PEEP (3–5 cm  $H_2O$ ) can reduce atelectasis formation.
+</div></details>
 
-### TABLE **7.1**
+<details class="med-details"><summary>
 
-### Initial Ventilator Settings Based on Pulmonary Disorder<sup>a</sup>
+## SUMMARY</summary><div class="details-content">
 
-| Lung Disease              | Mode              | V <sub>T</sub><br>(mL/kg<br>IBW) | Rate<br>(breaths/<br>min) | Flow<br>(L/min)  | Flow<br>Waveform       | T <sub>1</sub> (s) | PEEP (cm H <sub>2</sub> O)                                    | F <sub>I</sub> O <sub>2</sub> |
-|---------------------------|-------------------|----------------------------------|---------------------------|------------------|------------------------|--------------------|---------------------------------------------------------------|-------------------------------|
-| Normal lungs              | VC- or PC-<br>CMV |                              | 10—15                     | 60               | Descending or constant | 1                  | ≤5                                                            | ≤0.5                          |
-| COPD <sup>b</sup>         | VC- or PC-<br>CMV |                              |                      | >60 (80<br>-100) | Descending or constant | 0.6-1.2            | ≥5 or 50% of<br>intrinsic PEEP                                | <0.5                          |
-| Neuromuscular<br>disorder | VC-CMV            |                              |                      | ≥60              | Descending or constant | 1                  | 5                                                             | 0.21                          |
-| Asthma                    | VC- or PC-<br>CMV |                              |                     |            | Descending             | ≤1                 | Only to offset<br>intrinsic PEEP<br>and improve<br>triggering | ≥0.5                          |
-| Closed head injury        | PC- or VC-<br>CMV |                              | 15—20                     | 60               | Descending or constant | 1                  | with caution Only in severe hypoxemia                     | 1.0                           |
-| ARDS                      | PC- or VC-<br>CMV |                              |                     | ≥60              | Descending or constant | 1                  | 5 to >15                                                      | 1.0                           |
-| CHF                       | VC- or PC-<br>CMV |                              | ≥10                       | ≥60              | Descending or constant |.5              |                                                          | 1.0                           |
+- Numerous issues must be considered before connecting a patient to a mechanical ventilator. These include selecting appropriate ventilator settings for F<sub>I</sub>O₂, sensitivity, sigh breaths, alarms, and monitors, as well as concerns regarding humidification of inspired gases.
+- Once the patient is connected to the ventilator, the clinician should perform a careful assessment of the patient’s response to these initial parameters.
+- Titrating the F<sub>I</sub>O₂ using pulse oximetry and ABG findings can minimize the risk for administering too much O₂.
+- Ventilator sensitivity is normally set so that patients can easily flow‑trigger or pressure‑trigger a breath.
+- It can be particularly difficult to adjust the ventilator sensitivity so that it senses a patient’s effort when auto‑PEEP is present.
+- Humidity can be provided by a variety of humidification systems. Devices in this category include the following types of humidifiers: pass‑over, vapor phase, wick, and active heat and moisture exchangers.
+- Audible and visible alarm systems are designed to alert the operator of potential dangers related to the patient‑ventilator interaction.
+- Initial ventilator settings should be based on the patient’s condition. [Table 7.1](#table-7-1) provides a summary of initial ventilator settings for patients commonly encountered in the clinical setting.
+- Mechanical breaths of V<sub>T</sub> 6 to 8 mL/kg IBW are usually effective, but lower V<sub>T</sub>s may be required for patients with ARDS to maintain P<sub>plat</sub> below 30 cm H₂O. Low levels of PEEP (3‑5 cm H₂O) can reduce atelectasis formation.
 
-<sup>&</sup>lt;sup>a</sup>For all disorders it is important that the plateau pressure be maintained lower than 30 cm H<sub>2</sub>O.
+<span id="table-7-1"></span>**TABLE 7.1 Initial Ventilator Settings Based on Pulmonary Disorder**<sup>a</sup>
 
-ARDS, acute respiratory distress syndrome; CHF, congestive heart failure; CMV, continuous mandatory ventilation;  $F_1O_2$ , fractional inspired oxygen concentration; IBW, ideal body weight; PC, pressure control; PEEP, positive end-expiratory pressure;  $V_C$ , volume control;  $V_T$ , tidal volume.
+| Lung Disease | Mode | V<sub>T</sub> (mL/kg IBW) | Rate (breaths/min) | Flow (L/min) | Flow Waveform | T<sub>I</sub> (s) | PEEP (cm H₂O) | F<sub>I</sub>O₂ |
+|--------------|------|--------------------------|--------------------|--------------|---------------|------------------|----------------|-----------------|
+| Normal lungs | VC‑ or PC‑CMV | 6‑8 | 10‑15 | 60 | Descending or constant | 1 | ≤5 | ≤0.5 |
+| COPD<sup>b</sup> | VC‑ or PC‑CMV | 6‑8 | 8‑16 | >60 (80‑100) | Descending or constant | 0.6‑1.2 | ≤5 or ~50% of intrinsic PEEP | <0.5 |
+| Neuromuscular disorder | VC‑CMV | 6‑8 | 8‑16 | ≥60 | Descending or constant | 1 | 5 | 0.21 |
+| Asthma | VC‑ or PC‑CMV | 6‑8 | ≤8 | 80‑100 | Descending | ≤1 | Only to offset intrinsic PEEP and improve triggering | ≥0.5 |
+| Closed head injury | PC‑ or VC‑CMV | 6‑8 | 15‑20 | >60 | Descending or constant | 1 | ≤5 (use with caution, only in severe hypoxemia) | 1.0 |
+| ARDS | PC‑ or VC‑CMV | 4‑6 | 15‑25 | ≥60 | Descending or constant | <1 | 5 to >15 | 1.0 |
+| CHF | VC‑ or PC‑CMV | 6‑8 | ≥10 | ≥60 | Descending or constant | 1‑1.5 | 5‑10 | 1.0 |
 
-Sources: Meade MO, Herridge MS: An evidence-based approach to acute respiratory distress syndrome, *Respir Care* 46:1368–1376, 2001; and Slutsky AS, Ranieri M. Ventilator-induced lung injury, *N Engl J Med*. 2013;369:2126–236, 2013.
+<sup>a</sup>For all disorders it is important that the plateau pressure be maintained lower than 30 cm H₂O.
+<sup>b</sup>An initial attempt at bilevel PAP should be tried using NIV with IPAP = 10‑12 cm H₂O and EPAP = 2‑3 cm H₂O before intubation is considered. An exception would be a critical emergency with these patients.
 
-#### **REVIEW QUESTIONS** (See Appendix A for answers.)
+</div></details>
 
-| 1. | A male patient has a BSA of 1.5 m <sup>2</sup> ; is 5 ft, 8 in; and weighs 175 |
-|----|--------------------------------------------------------------------------------|
-|    | lb. The patient has a history of lung damage resulting from old                |
-|    | tuberculosis scars. He demonstrates a restricted breathing                     |
-|    | pattern. What ventilator settings would you select for this                    |
-|    | patient?                                                                       |
-|    | N.                                                                             |
+<details class="med-details"><summary>
 
-| V <sub>E</sub> : |  |
-|------------------|--|
-| V <sub>T</sub> : |  |
-| f:               |  |
+## REVIEW QUESTIONS</summary><div class="details-content">
 
-- **2.** A patient with COPD is on ventilation with a PB 980 ventilator. Ventilator parameters are VC-CMV: flow = 40 L/min with descending ramp flow waveform;  $V_T = 0.65$ ;  $F_1O_2 = 0.3$ . At 2:00 p.m., total f = 10 breaths/min, PIP = 28 cm  $H_2O$ , there are no assisted breaths, and the pressure-time curve is normal. At 4:00 p.m., total f = 20 breaths/min, PIP = 37 cm  $H_2O$ , the patient is actively assisting and using accessory muscles to breathe, and the pressure-time graphic shows a concave appearance. What do you think has caused the changes in the patient's condition? What would you do to correct this situation?
-- **3.** An 83-year-old man with COPD is being treated in the ED. His wife, who brought him in, states, "He's been so short of breath and pale and I'm worried."  $O_2$  by a 28% air-entrainment mask is begun. The patient is given an aerosol treatment with albuterol. Despite continued therapy, the patient does not improve and continues to use accessory muscles to breathe. He is diaphoretic and pale, and his temperature is  $102^{\circ}$  F. The decision is made to begin noninvasive ventilation. A BiPAP unit is set up with initial pressures of inspiratory positive airway pressure (IPAP) = 6 cm  $H_2O$  and expiratory positive airway pressure (EPAP) = 2 cm  $H_2O$ . These were then adjusted on the basis of pulse oximetry and
+*(See Appendix A for answers.)*
 
-patient f. With an IPAP/EPAP ratio of 12 cm  $H_2O$  to 4 cm  $H_2O$  and a measured  $F_1O_2$  of 0.3, the patient has a rate of 25 breaths/min and  $S_pO_2$  of 87%. Vital signs,  $S_pO_2$ , and respiratory rate remain fairly stable.
+1. A male patient has a BSA of 1.5 m²; is 5 ft, 8 in; and weighs 175 lb. The patient has a history of lung damage resulting from old tuberculosis scars. He demonstrates a restricted breathing pattern. What ventilator settings would you select for this patient?
+   - V̇<sub>E</sub>: ______
+   - V<sub>T</sub>: ______
+   - f: ______
 
-Two hours later, the patient's respiratory rate has increased to 35 breaths/min. ABGs reveal pH = 7.21;  $P_aCO_2 = 105$  mm Hg;  $P_aO_2 = 47$  mm Hg; and HCO $_3-=40$  mEq/L. Repeated adjustments of the IPAP/EPAP ratio fail to improve the patient's condition; the decision is made to intubate him and provide him with volume-targeted ventilation. The patient is 5 ft, 8 in and weighs 148 lb (IBW = 70 kg). BSA = 1.78 m². The VC-IMV mode is selected.
+2. A patient with COPD is on ventilation with a PB 980 ventilator. Ventilator parameters are VC‑CMV: flow = 40 L/min with descending ramp flow waveform; V<sub>T</sub> = 0.65 L; F<sub>I</sub>O₂ = 0.3. At 2:00 p.m., total f = 10 breaths/min, PIP = 28 cm H₂O, there are no assisted breaths, and the pressure‑time curve is normal. At 4:00 p.m., total f = 20 breaths/min, PIP = 37 cm H₂O, the patient is actively assisting and using accessory muscles to breathe, and the pressure‑time graphic shows a concave appearance. What do you think has caused the changes in the patient’s condition? What would you do to correct this situation?
 
-What initial  $V_T$ ,  $\dot{V}_E$ , and f would you select?
+3. An 83‑year‑old man with COPD is being treated in the ED. His wife, who brought him in, states, “He’s been so short of breath and pale and I’m worried.” O₂ by a 28% air‑entrainment mask is begun. The patient is given an aerosol treatment with albuterol. Despite continued therapy, the patient does not improve and continues to use accessory muscles to breathe. He is diaphoretic and pale, and his temperature is 102° F. The decision is made to begin noninvasive ventilation. A BiPAP unit is set up with initial pressures of IPAP = 6 cm H₂O and EPAP = 2 cm H₂O. These were then adjusted on the basis of pulse oximetry and patient f. With an IPAP/EPAP ratio of 12 cm H₂O to 4 cm H₂O and a measured F<sub>I</sub>O₂ of 0.3, the patient has a rate of 25 breaths/min and SₚO₂ of 87%. Vital signs, SₚO₂, and respiratory rate remain fairly stable.
+   
+   Two hours later, the patient’s respiratory rate has increased to 35 breaths/min. ABGs reveal pH = 7.21; PₐCO₂ = 105 mm Hg; PₐO₂ = 47 mm Hg; and HCO₃⁻ = 40 mEq/L. Repeated adjustments of the IPAP/EPAP ratio fail to improve the patient’s condition; the decision is made to intubate him and provide him with volume‑targeted ventilation. The patient is 5 ft, 8 in and weighs 148 lb (IBW = 70 kg). BSA = 1.78 m². The VC‑IMV mode is selected.
+   
+   What initial V<sub>T</sub>, V̇<sub>E</sub>, and f would you select?
+   
+   After initiating mechanical ventilation, the following values are noted: PIP = 33 cm H₂O; P<sub>plat</sub> = 25 cm H₂O; transairway pressure (P<sub>TA</sub>) = 33 – 25 = 8 cm H₂O. The patient is spontaneously breathing an additional 10 breaths/min with a V<sub>T</sub> of 200 mL. The decision is made to add pressure support for the spontaneous breaths to overcome the WOB imposed by the artificial airway.
+   
+   What is an estimated resistance on this patient, assuming a constant flow of 80 L/min is used for calculation? Where would you set pressure support?
 
-After initiating mechanical ventilation, the following values are noted: PIP = 33 cm H<sub>2</sub>O; P<sub>plat</sub> = 25 cm H<sub>2</sub>O; transairway pressure (P<sub>TA</sub>) = 33 – 25 = 8 cm H<sub>2</sub>O. The patient is spontaneously breathing an additional 10 breaths/min with a V<sub>T</sub> of 200 mL. The decision is made to add pressure support for the spontaneous breaths to overcome the WOB imposed by the artificial airway.
+4. A 50‑year‑old patient is receiving VC‑CMV after surgery for a bowel resection. He is in the recovery room. The patient has an IBW of 80 kg and a BSA of 1.8 m². This patient’s lungs are normal. What initial settings would be appropriate?
 
-What is an estimated resistance on this patient, assuming a constant flow of 80 L/min is used for calculation? Where would you set pressure support?
-
-**4.** A 50-year-old patient is receiving VC-CMV after surgery for a bowel resection. He is in the recovery room. The patient has an IBW of 80 kg and a BSA of 1.8 m<sup>2</sup>. This patient's lungs are normal. What initial settings would be appropriate?
-
-<sup>&</sup>lt;sup>b</sup>An initial attempt at bilevel PAP should be tried using NIV with IPAP = 10–12 cm H<sub>2</sub>O and EPAP = 2–3 cm H<sub>2</sub>O before intubation is considered. An exception would be a critical emergency with these patients.
+</div></details>
