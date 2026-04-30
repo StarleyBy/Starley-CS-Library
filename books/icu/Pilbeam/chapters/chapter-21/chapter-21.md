@@ -29,7 +29,7 @@
 * **LTMV definition (ACCP):** Mechanical ventilation ≥6 hours/day for ≥21 days.
 * **Patient groups requiring LTMV:** (1) Recovering from acute illness (prolonged weaning, likely to recover); (2) Chronic disorders requiring partial support (e.g., nocturnal only); (3) Continuous support required for survival (complete loss of ventilatory function, progressive disorders).
 * **Mortality rates:** 2-year mortality 57%; 5-year mortality 66–97%. Successful liberation and decannulation improve survival.
-* **Number of VAIs (2002):** ~11,419 in US, annual cost ~\$3.2 billion.
+* **Number of VAIs (2002):** ~11,419 in US, annual cost ~USD3.2 billion.
 
 ### Goals of LTMV
 * Enhance living potential, improve physical/physiological function, reduce morbidity, lessen hospitalizations, extend life, provide cost-effective care.
@@ -73,7 +73,7 @@
 * **Body suit (jacket ventilator):** More portable than tank, but less efficient, difficult to seal, can cause musculoskeletal pain.
 * **Rocking bed:** Motorized bed moving 40–60°, rate 12–22/min (optimal 12–16). Expiration with head down. Not effective in obesity, thin patients, severe chest wall deformities, infants, intrinsic lung disease.
 * **Pneumobelt (intermittent abdominal pressure ventilator):** Inflatable bladder over abdomen, patient must be seated ≥45°. Bladder inflation pushes diaphragm upward → exhalation; deflation → inhalation. Pressure 30 cm H₂O upward. Best for daytime use, high spinal cord lesions, bilateral diaphragmatic paralysis.
-* **Diaphragm pacing:** Phrenic nerve electrodes → implanted receiver → radiofrequency transmitter. Limited application, expensive (>\$300,000). Best for children with high spinal cord injury or central hypoventilation.
+* **Diaphragm pacing:** Phrenic nerve electrodes → implanted receiver → radiofrequency transmitter. Limited application, expensive (>\USD300,000). Best for children with high spinal cord injury or central hypoventilation.
 * **CPAP for OSA:** Nasal mask/nasal pillows/oral mask. Home CPAP units (2.5–20 cm H₂O) with electronic pressure transducers.
 * **Complications of mask CPAP/NIV (Table 21.1):** Aerophagia (↓PIP, use PSV, alter sleeping position, abdominal strap); Hypoxemia/desaturation (correct mouth leaks, ↑CPAP); Nasal dryness/congestion (↑humidification, saline spray); Eye irritation (correct mask leaks, alternate interfaces); Patient discomfort (alternate interfaces); Nasal/dental pain (alternate interfaces).
 * **Glossopharyngeal breathing ("frog breathing"):** Trapping 50–100 mL air in oropharynx, raising jaw/larynx, forcing air into trachea. 10–15 rapid swallows in ~10 seconds, 10–12 breaths/min. Requires good tongue strength, intact gag reflex, no tracheostomy. May increase inspiratory capacity and cough.
@@ -261,8 +261,6 @@ Other considerations include the ability to clear secretions (either spontaneous
 - Complications of infectious pneumonias
 - Pulmonary fibrotic diseases
 
-From Make BJ, Hill NS, Goldberg AI, et al.: Mechanical ventilation beyond the intensive care unit: report of a consensus conference of the American College of Chest Physicians, *Chest* 113:289S–344S, 1998.
-
 </div></details>
 
 <span id="box-21-3"></span><details class="med-details"><summary>
@@ -274,8 +272,6 @@ Infants and children being considered for home mechanical ventilation may have a
 - Stamina for periods of play while ventilated
 - Family determined to be suitable candidates, as shown by their awareness of potential stresses of long-term homecare and commitment to implementing the program
 - Adequate family support from home nurses, homemaker aids, and family and friends
-
-From American Thoracic Society Board of Directors: Official statement, *Am Rev Respir Dis* 141:258–259, 1990.
 
 </div></details>
 
@@ -367,8 +363,6 @@ The electrical system must provide adequate amperage for the ventilation, suctio
 4. Turn off the first circuit and note the appliances affected (they will be off). Mark the circuit number by the receptacles and lights in that room on the drawing for that room.
 5. Turn that circuit back on and turn off the next circuit in the numbering sequence.
 6. Continue until all appliances or lights in all rooms have been assigned to a circuit.
-
-From May D: *Rehabilitation and continuity of care in pulmonary disease*, St. Louis, MO, 1990, Mosby.
 
 </div></details>
 
@@ -715,8 +709,6 @@ As previously noted, critically ill patients who cannot be easily weaned from ve
 - Tracheal stenosis, malacia, or dilation
 - Tracheoinnominate or tracheoesophageal fistula formation
 
-From Chatila WM, Criner GJ: Complications of long-term mechanical ventilation, *Respir Care Clin N Am* 8:631, 2002.
-
 </div></details>
 
 </div></details>
@@ -841,7 +833,7 @@ The pneumobelt is best used for daytime and, like the rocking bed, may be effect
 
 Some patients with respiratory failure caused by high spinal cord lesions or central hypoventilation can benefit from diaphragmatic pacing. With this therapeutic intervention, the phrenic nerve is electrically stimulated through surgically implanted phrenic electrodes connected to an implanted receiver. The receiver obtains signal transmissions from an extracorporeal radiofrequency transmitter and antenna.
 
-This technology has limited application. Not all patients will respond to this type of intervention because of inadequate phrenic nerve and diaphragm function. In addition, some patients experience obstructive apnea and a drop in S<sub>p</sub>O₂ during sleep when using this technology. Diaphragmatic pacing systems do not have alarms, although failure can occur. This technology is also expensive, with initial costs in excess of \$300,000.
+This technology has limited application. Not all patients will respond to this type of intervention because of inadequate phrenic nerve and diaphragm function. In addition, some patients experience obstructive apnea and a drop in S<sub>p</sub>O₂ during sleep when using this technology. Diaphragmatic pacing systems do not have alarms, although failure can occur. This technology is also expensive, with initial costs in excess of $300,000.
 
 Although diaphragmatic pacing equipment is much smaller than a portable ventilator, it does not provide many additional advantages. Patients can learn to talk and eat with a TT in place by using a portable ventilator. The use of phrenic pacing is probably best reserved for children with high spinal cord injuries or central hypoventilation who cannot use other noninvasive methods to assist ventilation.
 
@@ -891,10 +883,6 @@ All forms of positive pressure ventilation have associated risks and complicatio
 | Eye irritation | Correct mask leaks; Use other interfaces |
 | Patient discomfort from head straps | Alternate other interfaces |
 | Nasal or dental pain, dental deformities | Alternate other interfaces |
-
-CPAP, Continuous positive airway pressure; PSV, pressure support ventilation.
-
-Compiled from Bach JR, Saporito BA: Indications and criteria for decannulation and transition from invasive to noninvasive long-term ventilatory support, *Respir Care* 39:515–528.
 
 </div></details>
 
