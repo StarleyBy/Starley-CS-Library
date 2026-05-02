@@ -1,172 +1,156 @@
-# Extrapulmonary Effects of Mechanical Ventilation
+# Effects of Positive Pressure Ventilation on the Pulmonary System
 
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
 
-### Cardiovascular Effects
+### Ventilator-Induced Lung Injury (VILI) and Protective Strategies
+* **VALI vs VILI:** VALI (ventilator-associated lung injury) refers to clinically identifiable consequences in humans (VAP, pneumothorax, asynchrony). VILI occurs at the acinar level (biotrauma, shear stress, surfactant depletion) and can only be studied in animal models.
+* **Volutrauma vs Barotrauma:** Lung injury results from high distending volumes (volutrauma) rather than high pressures alone. Overdistention causes alveolar stretch, edema, and release of inflammatory mediators (biotrauma). Barotrauma refers to extraalveolar air leaks (pneumothorax, subcutaneous emphysema, pneumomediastinum, pneumoperitoneum, pneumopericardium).
+* **Safe plateau pressure:** Maintain P<sub>plat</sub> < 30 cm H<sub>2</sub>O to avoid overdistention. However, transpulmonary pressure (P<sub>alv</sub> – P<sub>pl</sub>) determines actual distending force; chest wall stiffness (obesity, ascites, prone positioning) can allow higher airway pressures without lung injury.
+* **Atelectrauma:** Repeated opening and closing of alveoli (recruitment-derecruitment) generates shear stress. Mead’s model showed that a transpulmonary pressure of 30 cm H<sub>2</sub>O can create 140 cm H<sub>2</sub>O stress between adjacent alveoli, tearing epithelium and endothelium.
+* **Surfactant alteration:** Alveolar collapse squeezes surfactant molecules out of the monolayer; newly secreted surfactant is required to restabilise the unit. Overdistention also impairs surfactant function.
+* **Biotrauma and MODS:** Overstretched epithelial cells and alveolar macrophages release cytokines (TNF-α, IL-1β, PAF, thromboxane B₂). These mediators enter the circulation and can cause multiple organ dysfunction syndrome (MODS).
+* **PEEP for lung protection:** PEEP prevents cyclic collapse and reopening, restoring FRC. Optimal PEEP exceeds opening pressure of recruitable alveoli but avoids overinflation of already patent units. Low V<sub>T</sub> (6 mL/kg ideal body weight) plus adequate PEEP reduces mortality in ARDS.
+* **Ventilator-induced diaphragm weakness:** Complete diaphragmatic inactivity (controlled ventilation for 18–69 hours) leads to marked diaphragmatic atrophy via oxidative stress and protein degradation pathways. This impairs weaning.
 
-* **Thoracic pump mechanism:** Spontaneous inspiration → negative intrapleural pressure → draws blood into thoracic vessels and heart → ↑ RV preload → ↑ RV stroke volume (Frank-Starling). Positive pressure inspiration → ↑ intrapleural pressure → compresses intrathoracic vessels → ↑ CVP → ↓ venous return → ↓ RV preload → ↓ RV stroke volume.
-* **Mean airway pressure (\(\overline{P}_{aw}\))** is the major determinant of cardiovascular depression. Higher \(\overline{P}_{aw}\) → greater transmission to intrapleural space → greater hemodynamic effect.
-* **Increased PVR:** High V<sub>T</sub> or high PEEP stretches and narrows pulmonary capillaries → ↑ PVR → ↑ RV afterload. In patients with compromised RV function → RV dilation → interventricular septum shifts left → ↓ LV filling → ↓ cardiac output.
-* **Coronary blood flow:** Reduced by ↓ cardiac output, ↓ BP, coronary compression from high intrathoracic pressure. Coronary perfusion pressure = mean aortic diastolic pressure – LV end-diastolic pressure. Decreased gradient → myocardial ischemia.
-* **Compensatory mechanisms in normal cardiovascular function:** ↓ SV → ↑ sympathetic tone → tachycardia, ↑ SVR, venoconstriction → maintains BP. Reflexes can be impaired by sympathetic blockade, spinal anesthesia, polyneuritis → risk of hypotension.
-* **Beneficial effects in LV dysfunction:** Positive pressure ↓ preload and ↓ transmural LV systolic pressure (↓ afterload). Improved oxygenation from PEEP may also help.
+### Effects on Gas Distribution and Pulmonary Blood Flow
+* **Ventilation shifts to nondependent lung:** During anaesthesia and paralysis, positive pressure displaces the diaphragm cephalad, preferentially ventilating nondependent (anterior) regions. Dependent (posterior) regions receive most blood flow, worsening V/Q mismatch and increasing dead space.
+* **Peripheral vs central ventilation:** Spontaneous breathing favours peripheral lung zones; positive pressure passive inflation preferentially fills central peribronchial areas.
+* **Dead space changes:** Positive pressure increases conductive airway size (anatomical dead space) and may cause alveolar overdistension with capillary compression (alveolar dead space). Improved V/Q matching can reduce dead space.
+* **Pulmonary blood flow redistribution:** PEEP can decrease cardiac output and shift perfusion to the lung periphery. Squeezing blood out of nondependent zones increases shunting and hypoxemia. Conversely, PEEP reduces intrapulmonary shunting in ARDS by recruiting collapsed units.
+* **PVR effects:** High PEEP compresses pulmonary capillaries, increasing PVR. However, if hypoxic vasoconstriction is relieved by improved oxygenation, PVR may decrease. No predictable net effect.
 
-### Factors Influencing Cardiovascular Effects
+### Acid-Base Complications
+* **Hypoventilation** → PaCO₂ ↑, pH ↓ (respiratory acidosis). Causes right shift of ODC (improves tissue unloading but reduces lung loading). Hyperkalemia (peaked T waves, widened QRS) can occur. Permissive hypercapnia may be beneficial in ARDS (antioxidant, anti-inflammatory).
+* **Hyperventilation** → PaCO₂ ↓, pH ↑ (respiratory alkalosis). Left shift of ODC (impaired tissue O₂ delivery). Hypokalemia (prolonged QT, flat T waves). Prolonged hyperventilation makes weaning difficult due to altered central chemoreceptor set point and CSF bicarbonate depletion.
+* **Metabolic acidosis** (low pH with normal PaCO₂): Bicarbonate replacement calculated as (1/3 × kg × BE)/2. Give slowly; avoid if ventilation inadequate (CO₂ retention worsens acidosis).
+* **Metabolic alkalosis** (high pH with normal PaCO₂): Usually from GI or renal acid loss. Table 17.1 summarises electrolyte changes: alkalosis → ↓ chloride, ↓ or normal potassium; acidosis → ↑ chloride, ↑ or normal potassium.
 
-* **Lung compliance:** Stiff lungs (ARDS, fibrosis) → less pressure transmitted to pleural space → less hemodynamic effect.
-* **Chest wall compliance:** Stiff chest wall → more pressure transmitted → greater cardiovascular effect.
-* **Airway resistance (R<sub>aw</sub>):** High R<sub>aw</sub> (bronchospasm, secretions) → high PIP but much pressure lost in airways → less transmitted to pleura → less hemodynamic effect. However, may cause air trapping (auto-PEEP) which is hazardous.
+### Auto-PEEP (Air Trapping)
+* **Definition:** Unintentional PEEP when a new breath starts before expiratory flow ends. Also called intrinsic PEEP, breath stacking. Total PEEP = set PEEP + auto-PEEP.
+* **Mechanism:** Expiratory time (T<sub>E</sub>) less than 3–4 time constants prevents complete lung emptying. Dynamic hyperinflation increases FRC. In flow-limited patients (COPD, asthma), increased expiratory effort only raises alveolar pressure without improving flow.
+* **Risk factors:** COPD, high minute ventilation (>10–20 L/min), age >60, increased airway resistance, high respiratory rate, short T<sub>E</sub> (I:E ≥ 1:1), low inspiratory flow, large V<sub>T</sub>.
+* **Identification:** Flow-time curve shows expiratory flow not returning to zero before next inspiration. Flow-volume loop fails to close. Physical exam: decreased breath sounds, hyperresonance. Chest radiograph: increased radiolucency.
+* **Consequences:** Increased inspiratory WOB, difficulty triggering ventilator, barotrauma, reduced venous return and cardiac output, falsely elevated pulmonary artery occlusion pressure.
+* **Measurement:** End-expiratory occlusion (ventilator pause button) or Braschi valve (T-piece with one-way valve). Requires relaxed, controlled ventilation (no spontaneous effort).
+* **Reduction strategies:** Increase inspiratory flow (shorten inspiratory time, prolong T<sub>E</sub>), decrease V<sub>T</sub> and respiratory rate, use large ET tubes, low-resistance exhalation valves. Permissive hypercapnia if severe obstruction.
 
-### Minimizing Cardiovascular Complications
+### Oxygen Hazards
+* **Oxygen toxicity:** F<sub>I</sub>O₂ > 0.6 for >48 hours or PaO₂ > 80 mm Hg in neonates can cause pulmonary O₂ toxicity. 100% O₂ can induce changes in 6 hours. Clinical signs: decreased surfactant production, compliance, diffusing capacity; capillary injury, absorption atelectasis.
+* **Absorption atelectasis:** >70% O₂ leads to rapid collapse of hypoventilated lung units. Recruitment manoeuvres followed by 40% O₂ sustain expansion; 100% O₂ causes collapse within minutes.
+* **Depression of ventilation:** In COPD patients with chronic CO₂ retention, high O₂ can increase PaCO₂ via Haldane effect and relief of hypoxic vasoconstriction.
 
-* **Reduce \(\overline{P}_{aw}\)** by:
-  * **Inspiratory flow:** Higher flow → delivers V<sub>T</sub> faster → lower \(\overline{P}_{aw}\) (triangular waveform). But very high flow risks uneven ventilation, increased dead space, and alveolar rupture.
-  * **I/E ratio:** Shorter inspiratory time (T<sub>I</sub>) and longer expiratory time (T<sub>E</sub>) → lower \(\overline{P}_{aw}\). I/E 1:2 to 1:4 is acceptable; 1:1 or inverse ratio increases \(\overline{P}_{aw}\), air trapping, and hemodynamic compromise.
-  * **Inflation hold (inspiratory pause):** Increases T<sub>I</sub> and \(\overline{P}_{aw}\) → use only for measuring P<sub>plat</sub> (static compliance), not for therapy.
-  * **PEEP:** Increases \(\overline{P}_{aw}\). However, in stiff lungs with low FRC, high PEEP may restore FRC without significantly ↓ cardiac output.
-  * **IMV:** Reduces mandatory breath frequency → lowers \(\overline{P}_{aw}\) but patient assumes part of WOB. Risk of fatigue.
+### Work of Breathing (WOB) and Patient-Ventilator Asynchrony
+* **Normal WOB:** Approximately 0.5 J/L (0.05 kg-m/L). Fatigue likely when WOB > 1.5 J/L or >15 J/L/min.
+* **System-imposed WOB:** During VC-IMV, WOB can be higher than with PSV. ET tube resistance (especially small bore, long tubes) increases WOB. Tracheostomy reduces WOB due to shorter length. Automatic tube compensation (ATC) helps.
+* **Trigger asynchrony:** Ventilator does not sense patient effort (insensitive trigger) or auto-PEEP prevents triggering. Flow triggering generally reduces WOB compared to pressure triggering. Shadow triggering (Respironics) uses mathematical model but may cause auto-triggering.
+* **Flow asynchrony:** Constant flow during volume control may not meet patient demand → concave pressure-time scalar. Increase flow or use descending flow pattern. Pressure-targeted modes (PC, PS) provide high initial flow; adjust rise time.
+* **Cycle asynchrony:** Patient exhales before ventilator finishes inspiration (T<sub>I</sub> too long). Increase flow or shorten T<sub>I</sub>. In PSV, adjust flow cycle percentage (especially in COPD).
+* **Mode asynchrony:** VC-IMV with mixed breath types confuses patient’s respiratory centre. Change to PC-CMV or PSV.
+* **PEEP asynchrony:** Too low PEEP → atelectasis and dyspnoea; too high PEEP → overdistention and discomfort.
+* **Closed-loop asynchrony:** Dual-control modes (volume support, PRVC) may misinterpret active inspiration as improved compliance and reduce pressure support exactly when patient needs it most.
+* **Reducing WOB:** Optimise ET size, set appropriate sensitivity and flow (60–100 L/min), ensure synchrony, reduce minute ventilation demands (treat fever, pain, agitation), improve compliance (diuretics, pleural drainage, semi-Fowler position).
 
-### Effects on Intracranial Pressure (ICP)
+### Mechanical Hazards and Artificial Airway Complications
+* **Common mechanical failures:** Disconnection from power source, alarm failure, circuit disconnection (52% of incidents in Joint Commission report), leaks, expiratory valve malfunction.
+* **Artificial airway complications:** Include damage to nasal passages, oropharynx, larynx, trachea; tube dislodgement (26% of incidents); cuff problems; tracheostomy complications (bleeding, infection, tracheoarterial fistula).
+* **Humidifier hazards:** Electrical shock, thermal injury, inadvertent tracheal lavage, increased airway resistance, hypoventilation from mucus plugging.
 
-* **Cerebral perfusion pressure (CPP) = MABP – ICP.**
-* Positive pressure may ↓ MABP (↓ cardiac output) and ↑ CVP (impedes venous drainage from head) → ↑ ICP → ↓ CPP.
-* Greatest risk in patients with already elevated ICP (closed head injury, cerebral tumors, post-neurosurgery).
-* Hyperventilation (PaCO<sub>2</sub> 32–35 mm Hg) → cerebral vasoconstriction → transient ↓ ICP, but benefit controversial; not routine.
-* PEEP may be lifesaving for hypoxemia even in brain-injured patients – monitor ICP.
+</div></details>
 
-### Renal Effects
+---
 
-* **Hemodynamic:** ↓ cardiac output → ↓ renal blood flow, ↓ GFR. However, restoring CO does not fully correct urine output – other factors involved.
-* **Intrarenal blood redistribution:** Flow shifts from outer cortex to juxtamedullary nephrons (more efficient at Na<sup>+</sup> reabsorption) → ↓ Na<sup>+</sup> and water excretion → oliguria, sodium retention.
-* **Hormonal:**
-  * **ADH (vasopressin):** Positive pressure → stimulates ADH release (via left atrial volume receptors and baroreceptors) → water retention → oliguria. Negative pressure ventilation inhibits ADH → diuresis.
-  * **ANF (ANP):** Positive pressure reduces atrial stretch → ↓ ANF secretion → ↓ natriuresis/diuresis → sodium and water retention.
-  * **Renin-angiotensin-aldosterone:** ↑ sympathetic tone → ↑ renin → aldosterone → Na<sup>+</sup> and water retention.
-* **Blood gases:** PaO<sub>2</sub> < 40 mm Hg or acute PaCO<sub>2</sub> > 65 mm Hg → severely impairs renal function.
-* **Clinical implications:** Weight gain, pulmonary edema, prolonged drug effects (sedatives, NMBAs excreted by kidney).
+<span id="fig-17-1"></span>![](_page_2_Picture_3.jpeg)
 
-### Liver and GI Function
+**FIGURE 17.1** Artist's conception of the development of interstitial emphysema. (From Samuelson WM, Fulkerson WJ. Barotrauma in mechanical ventilation. In: Fulkerson WJ, MacIntyre NR, editors: *Problems in respiratory care: complications of mechanical ventilation,* Philadelphia, PA, 1991, Lippincott Williams & Wilkins.)
 
-* **Hepatic:** ↓ cardiac output, increased diaphragmatic pressure on liver, ↓ portal flow → ↑ serum bilirubin (>2.5 mg/dL) → hepatic ischemia.
-* **Splanchnic:** Increased splanchnic resistance, ↓ venous outflow → gastric mucosal ischemia → risk of GI bleeding and ulcers.
-* **Gastric distention:** From air swallowing (leak around ETT cuff) or mask ventilation → nasal/orogastric tube decompression.
-* **Stress ulcer prophylaxis:** Antacids/H<sub>2</sub> blockers ↑ gastric pH → ↑ risk of nosocomial pneumonia. Sucralfate does not alter pH but controversial; not routinely recommended.
+<details class="med-details"><summary>
 
-### Nutritional Complications
+## LUNG INJURY WITH MECHANICAL VENTILATION</summary><div class="details-content">
 
-* **Malnutrition causes:** Inadequate intake (due to endotracheal tube, critical illness), hypermetabolism (fever, wound healing). Many patients already malnourished from chronic disease.
-* **Effects of malnutrition (Box 16.2):** Reduced hypoxic/hypercapnic ventilatory drive, muscle atrophy (including respiratory muscles), impaired immunity (infections), ↓ surfactant → atelectasis, ↓ epithelial healing, low albumin → pulmonary edema.
-* **Overfeeding dangers:** ↑ V̇O<sub>2</sub>, ↑ V̇CO<sub>2</sub> → ↑ minute ventilation and WOB.
-* **Nutritional assessment (Box 16.3):** Body composition, actual vs. predicted weight, anthropometrics, protein status (creatinine/height index, serum albumin <3.5 g/dL, transferrin <300 mg), immunodeficiency (skin test).
-* **Feeding routes:** Enteral (preferable: oral, nasogastric, jejunal) → if not possible, parenteral (peripheral or central vein). Careful to avoid overfeeding and line infections.
+A number of inherent risks and complications are associated with the use of mechanical ventilators. These include ventilator-associated and ventilator-induced lung injury, the effects of positive pressure ventilation on gas distribution and pulmonary blood flow, **hypoventilation** and **hyperventilation**, air trapping, oxygen (O₂) toxicity, increased work of breathing (WOB), patient-ventilator asynchrony, mechanical problems, and complications of the artificial airway. This chapter reviews the causes and adverse effects of these complications.
+
+It was not uncommon in the latter part of the 20th century for patients to receive ventilation with pressures greater than 45 cm H₂O. Indeed, nearly 20% of patients diagnosed with acute respiratory distress syndrome (ARDS), at some point in their management, received ventilation with pressures of 80 cm H₂O or greater and volumes in the range of 10 to 12 mL/kg. This is interesting considering that it has been known for more than three decades that using these high levels of pressure and volume can cause lung injury, referred to as **barotrauma** or **volutrauma**.
+
+Barotrauma implies trauma that results from using high pressures. Volutrauma implies damage from high distending volumes rather than high pressures. Evidence suggests that high distending volumes result in **overdistention** and lung injury, whereas high distending pressures alone do not cause lung injury. Overdistention causes the release of inflammatory mediators from the lungs that can lead to multiorgan failure. This latter response has been termed *biotrauma*.
+
+Repeated opening and closing of lung units, also called recruitment-derecruitment, generates shear stress, which results in direct tissue injury at the alveolar and pulmonary capillary level, and the loss of surfactant from these unstable lung units. Shear stress injury and loss of surfactant have been termed *atelectrauma*. The following section provides a summary of these various aspects of lung injury as they relate to mechanical ventilation.
+
+<details class="med-details"><summary>
+
+### Ventilator-Associated Lung Injury Versus Ventilator-Induced Lung Injury</summary><div class="details-content">
+
+The terms *ventilator-associated lung injury (VALI)* and *ventilator-induced lung injury (VILI)* have been used frequently in the literature with some inconsistency regarding their meaning. The term *VALI* is generally used when referring to lung injury occurring in humans that has been identified as a consequence of mechanical ventilation. The most common forms of VALI include ventilator-associated pneumonia (VAP), air trapping, patient-ventilator asynchrony, and extraalveolar gas (barotrauma), such as pneumothorax and pneumomediastinum. (See Chapter 14 for a discussion of VAP.)
+
+VILI is lung injury that occurs at the level of the acinus. It is the microscopic level of injury that includes biotrauma, shear stress, and surfactant depletion (atelectrauma). VILI can be specifically studied only in animal models because ventilator strategies that will potentially harm the lung cannot be performed on human subjects during research investigations.
+
+VILI is a form of lung injury that resembles ARDS. It has been studied using animal models and apparently occurs in patients receiving inappropriate mechanical ventilation. VILI is difficult to identify in humans because its appearance is based on radiological and clinical findings, which overlap with findings that occur with the underlying pulmonary pathology such as ARDS. In fact, it is reasonable to assume that acute lung injury and ARDS may be partially the result of ventilator management rather than the progression of the disease. This supports the idea that mechanical ventilation saves lives and also has the potential to worsen pre-existent lung injury.
+
+The following section defines and describes the various forms of VALI and VILI (Key Point 17.1).
+
+**Key Point 17.1** It is the practitioner's responsibility to do no harm and to use appropriate settings when managing patients on mechanical ventilation.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## EFFECTS OF POSITIVE PRESSURE VENTILATION ON THE HEART AND THORACIC VESSELS</summary><div class="details-content">
+### Barotrauma or Extraalveolar Air</summary><div class="details-content">
 
-The physiological effects of mechanical ventilation are well documented. Laboratory and clinical studies have demonstrated that positive pressure ventilation can significantly alter cardiovascular, pulmonary, neurological, renal, and gastrointestinal (GI) function. (See Chapter 17 for information on the pulmonary effects and complications of mechanical ventilation.) Thus every attempt should be made to minimize its adverse effects. Understanding the physiological effects and potential complications of positive pressure ventilation is therefore essential for clinicians involved with ventilator management.
+As mentioned, it has been known for some time that positive pressure ventilation increases the risk for *barotrauma*. This type of injury involves the formation of extraalveolar gas, such as subcutaneous emphysema, pneumothorax, pneumomediastinum, pneumoperitoneum, and pneumopericardium.
+
+The risk for rupture to the lung is greater for patients with lung bullae or chest wall injury. A number of conditions can predispose a patient to barotrauma (extraalveolar air), including the following:
+
+- High peak airway pressures with low end-expiratory pressures
+- Bullous lung disease such as may occur with emphysema or a history of tuberculosis
+- High levels of positive end-expiratory pressure (PEEP) with high tidal volumes (V<sub>T</sub>s)
+- Aspiration of gastric acid
+- Necrotizing pneumonias
+- ARDS
+
+Barotrauma occurs when the delivery of positive pressure ventilation causes alveolar rupture. Air is forced into the interstitium of an adjacent bronchovascular (**perivascular**) sheath in the area of the distal noncartilaginous airways. The "escaped" air moves along the sheath toward the hilum and mediastinum, causing a pneumomediastinum ([Fig. 17.1](#fig-17-1)). Air can then break through the pleural surface of the mediastinum into the intrapleural space, resulting in a pneumothorax. Pneumothorax may be unilateral or bilateral. Air in the mediastinum may also dissect along tissue planes, producing subcutaneous emphysema. Pneumoperitoneum may follow pneumomediastinum and occurs when air dissects initially into the retroperitoneum. Air that is trapped under the diaphragm in the peritoneum may interfere with effective ventilation.
+
+From its location in the mediastinum, air can also dissect along tissue planes near the heart and form a pneumopericardium. The escaped air can be reabsorbed into adjacent tissues and resolve itself. If it is not reabsorbed by the body, evacuation by a drainage system may be required. Failure to remove this extraalveolar air can lead to life-threatening problems, such as tension pneumothorax or pneumopericardium.
+
+<details class="med-details"><summary>
+
+#### Subcutaneous Emphysema</summary><div class="details-content">
+
+Subcutaneous emphysema can be easily detected during physical examination. It may be visible as a puffing of the skin in the patient's neck, face, or chest and may even be present in distal areas such as the feet and abdomen. The skin feels crepitant to the touch. Subcutaneous emphysema typically occurs without complication and tends to clear without treatment as mean airway pressures are reduced. However, if it is present with dyspnea, cyanosis, and increased peak pressures, it may be accompanied by a pneumothorax.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## ADVERSE CARDIOVASCULAR EFFECTS OF POSITIVE PRESSURE VENTILATION</summary><div class="details-content">
+#### Pneumomediastinum</summary><div class="details-content">
 
-Positive pressure ventilation can significantly change physiological pressures in the thorax. The extent of these changes depends on the amount of positive pressure applied to the airways and a patient’s cardiopulmonary status (Key Point 16.1).
-
-<details class="med-details"><summary>
-
-### The Thoracic Pump Mechanism During Normal Spontaneous Breathing and During Positive Pressure Ventilation</summary><div class="details-content">
-
-It has been known for several decades that positive pressure ventilation can reduce cardiac output. This phenomenon can be understood in part by comparing intrapleural (i.e., intrathoracic) pressure changes that occur during normal spontaneous or negative pressure breathing with those occurring during positive pressure ventilation.
-
-During spontaneous breathing, the fall in intrapleural pressure that draws air into the lungs during inspiration also draws blood into the major thoracic vessels and heart (Fig. 16.1). With this increased return of blood to the right side of the heart and the stretching and enlargement of the right heart volume, the right ventricular (RV) preload increases, resulting in an increased RV stroke volume (SV; i.e., Frank-Starling mechanism). Conversely, during a spontaneous (passive) expiration, intrapleural pressure rises (i.e., becomes less negative), causing a reduction in venous return and RV preload, which in turn leads to a decrease in RV SV). Note that these pressure changes affect left heart volumes in a similar fashion.
-
-![](_page_1_Figure_10.jpeg)
-
-**Fig. 16.1** The negative intrapleural pressures that occur during spontaneous inspiration are transmitted to the intrathoracic vessels. A reduction in pressure in the vena cava increases the pressure gradient back to the heart, and venous return increases.
-
-The effects on intrathoracic pressures and venous return are quite different when positive pressure is applied to the airway (Fig. 16.2). During inspiration, increases in airway pressure are transmitted to the intrapleural space and the great vessels and other structures in the thorax. As the airway pressure rises, the intrapleural pressure rises and intrathoracic blood vessels become compressed, causing the central venous pressure (CVP) to increase. This increase in CVP reduces the pressure gradient between systemic veins and the right side of the heart, which reduces venous return to the right side of the heart and thus RV filling (preload). As a result, RV SV decreases.
-
-Notice that vascular pressures within the thorax generally increase in proportion to increases in mean airway pressure (\(\overline{P}_{aw}\)) and intrapleural pressure (i.e., the higher the \(\overline{P}_{aw}\), the greater the effects). This phenomenon is particularly evident when one considers the effect of adding positive end-expiratory pressure (PEEP) during positive pressure ventilation. Because PEEP further increases \(\overline{P}_{aw}\) during positive pressure ventilation, it is reasonable to assume that reductions in venous return and cardiac output are greater during positive pressure ventilation with PEEP than with positive pressure ventilation alone. Furthermore, the addition of PEEP during an assisted breath decreases cardiac output more than when PEEP is used with intermittent mandatory ventilation (IMV) or continuous positive airway pressure alone.
-
-![](_page_1_Figure_17.jpeg)
-
-**Fig. 16.2** Positive pressure ventilation increases lung and intrapleural (intrathoracic) pressures. This positive pressure is transmitted to the intrathoracic vessels. A rise in the pressure in the vena cava reduces venous return to the heart.
+Pneumomediastinum can lead to compression of the esophagus, great vessels, and heart. It can usually be easily identified on chest radiographs. Treatment depends on the severity of the problem and its effect on adjacent structures. In severe cases, pneumomediastinum can cause **cardiac tamponade**. If the air is not removed, cardiac tamponade can ultimately lead to cardiopulmonary arrest.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Increased Pulmonary Vascular Resistance and Altered Right and Left Ventricular Function</summary><div class="details-content">
+#### Pneumothorax</summary><div class="details-content">
 
-During inspiration with high tidal volumes (V<sub>T</sub>s) or when high levels of PEEP are used, the pulmonary capillaries that interlace the alveoli are stretched and narrowed. As a result, resistance to blood flow through the pulmonary circulation increases (Fig. 16.3). This increases RV afterload (i.e., pulmonary vascular resistance [PVR] and the resting volume of the right ventricle). In normal healthy individuals, RV SV is maintained in the face of increased PVR because RV contractile function is not severely impaired. However, in patients with compromised RV function, the right ventricle cannot overcome these increases in PVR, and overdistention of the right ventricle occurs, resulting in a decrease in RV output.
+Early clinical studies suggested that the most common clinical manifestation of extraalveolar air was pneumothorax. Although studies have shown that the incidence of barotrauma is relatively low (2.9%), results vary across studies. Interestingly, the reduced incidence of barotrauma may be associated with use of lower V<sub>T</sub> and lower airway pressures.
 
-![](_page_2_Picture_3.jpeg)
+Pneumothorax may lead to lung collapse with mediastinal shifting occurring away from the affected side. Pneumothorax can also be detected by a resonant or hyperresonant percussion note and absence of breath sounds on the affected side, and chest radiographs will indicate lack of vascular markings on the affected side. Treatment usually requires thoracotomy and placement of a chest tube. Because pleural air rises to the highest (nondependent) area of the thorax, the affected area will depend on the patient's position. In the supine patient this is an area over the anterior surface of the lung. When evaluating a chest radiograph taken with the patient supine, detection of a small pneumothorax can be difficult (Case Study 17.1).
 
-**Fig. 16.3** Overfilling of an alveolus. The result is thinning and compression of the pulmonary capillary. Pulmonary vascular resistance is increased.
+Another way of detecting a pneumothorax in patients on mechanical ventilation is to observe progressive changes in peak pressure. Increases in peak pressure occurring within a short period, such as a few minutes to a few hours, may signal the presence of pneumothorax of either rapid onset or one caused by a slow, insidious leak. Physical examination and a chest radiograph should be used to confirm the diagnosis.
 
-Dilation of the right ventricle can also force the interventricular septum to move to the left. This phenomenon usually occurs when high \(\overline{P}_{aw}\) values (>15 cm H<sub>2</sub>O) are used and the patient’s blood volume is depleted. When this occurs, the left ventricular end-diastolic volume is encroached upon and LV SV may decrease because its ability to fill is limited. Septal shifting can significantly decrease cardiac output in patients with compromised LV function or in patients who are volume depleted. In this latter group of patients, intravascular volume expansion may help restore output from the left side of the heart by returning LV preload to normal.
+Because a simple pneumothorax can develop into a tension pneumothorax, careful monitoring is essential. Administering excessive amounts of positive pressure may aggravate the presence of air in the pleural space, so manual ventilation with a resuscitation bag on 100% O₂ may be advisable until the problem can be treated. However, it is important for the clinician to avoid using excessive pressure with manual compression of a resuscitation bag.
 
-The LV output may also be decreased when high V<sub>T</sub>s are used during positive pressure ventilation, because the heart is compressed between the expanding lungs (i.e., cardiac tamponade effect). The distensibility of the left side of the heart appears to be directly related to the transmission of positive pressures to the heart from the lung. This effect increases when long inspiratory times and high peak pressures are used.
+A tension pneumothorax is a life-threatening situation that must be treated immediately. It occurs when air enters the pleural space and becomes trapped. Pressure gradually builds, collapsing the affected lung. Mediastinal structures will shift in the thorax, away from the area of tension, and put pressure on the heart and the unaffected lung. Tracheal deviation and neck vein distention are possible signs. Breath sounds will be absent and the percussion note tympanic. A chest radiograph on a patient with a tension pneumothorax is not advisable because it might delay lifesaving treatment. In a chest radiograph of a tension pneumothorax, one diaphragm will be more depressed than the other and may display a deep sulcus sign, with air appearing adjacent to the depressed diaphragm.
 
-</div></details>
-
-<details class="med-details"><summary>
-
-### Coronary Blood Flow With Positive Pressure Ventilation</summary><div class="details-content">
-
-In addition to reduced venous return and alteration in ventricular function, lower cardiac output may be caused by myocardial dysfunction associated with reduced perfusion of the myocardium and the resultant myocardial ischemia. The flow of blood into the coronary vessels depends on the coronary perfusion pressure. The coronary artery perfusion pressure gradient for the LV is the difference between mean aortic diastolic pressure and left ventricular end-diastolic pressure; the perfusion pressure gradient for the right ventricle is the difference between mean aortic pressure and RV end-diastolic pressure.
-
-Reductions in coronary vessel perfusion can result from any factor that decreases this perfusion pressure gradient. Thus reductions in cardiac output or blood pressure (BP), coronary vasospasms, or direct effect of compression of the coronary vessels caused by increases in intrathoracic pressure during positive pressure ventilation can decrease coronary perfusion and ultimately lead to myocardial ischemia.
-
-</div></details>
+Treatment for tension pneumothorax involves inserting a 14-gauge needle, or similar device, into the anterior second to third intercostal space on the affected side in the midclavicular line over the top of the rib with the patient in upright position. This maneuver can be lifesaving. While waiting for trained personnel to be summoned to perform this procedure, the respiratory therapist should decrease mean airway pressures as much as possible while using manual ventilation with a high fraction of inspired O₂ (F<sub>I</sub>O₂).
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## FACTORS INFLUENCING CARDIOVASCULAR EFFECTS OF POSITIVE PRESSURE VENTILATION</summary><div class="details-content">
+#### Pneumoperitoneum</summary><div class="details-content">
 
-The level of reduction in cardiac output that occurs with positive pressure ventilation depends on several factors, including lung and chest wall compliance, airway resistance (R<sub>aw</sub>), and the duration and magnitude of the positive pressure.
-
-<details class="med-details"><summary>
-
-### Compensation in Individuals With Normal Cardiovascular Function</summary><div class="details-content">
-
-Because of compensatory mechanisms, systemic hypotension rarely occurs in individuals with normal cardiovascular function receiving positive pressure ventilation. Decreases in SV normally result in an increase in sympathetic tone, which leads to tachycardia and an increase in systemic vascular resistance and peripheral venous pressure from arterial and venous constriction, respectively. In addition, some peripheral shunting of blood away from the kidneys and lower extremities occurs. The net effect is maintenance of BP even with a decrease in cardiac output (Key Point 16.2).
-
-It is important to understand that the effectiveness of these compensatory mechanisms in maintaining arterial BP depends on the integrity of the individual’s neuroreflexes. Vascular reflexes can be blocked or impaired in the presence of sympathetic blockade, spinal anesthesia, moderate levels of general anesthesia, spinal cord transection, or severe polyneuritis. In a patient in whom positive pressure ventilation is being initiated or the ventilatory mode is being changed, it is prudent to measure the BP early to ensure that normal vascular reflexes are intact. The presence of normal vascular reflexes increases the probability that the patient will not experience a significant drop in cardiac output and BP if positive pressure ventilation is initiated. For example, it is unusual to see a reduction in cardiac output in normovolemic patients when low levels of PEEP are used (i.e., 5–10 cm H<sub>2</sub>O of PEEP). However, decreases in cardiac output can occur in this group of patients if higher levels of PEEP are used (>15 cm H<sub>2</sub>O) (Case Study 16.1).
-
-<details class="med-details"><summary>
-
-#### Case Study 16.1: The Effects of Ventilator Changes on Blood Pressure</summary><div class="details-content">
-
-A patient with chronic obstructive pulmonary disease (COPD) is receiving volume-controlled continuous mandatory ventilation (VC-CMV). The set V<sub>T</sub> is increased from 700 to 900 mL, and the rate is increased from 10 to 18 breaths/min. The respiratory therapist notices a progressive rise in peak airway pressures. Immediately after the change, the patient’s blood pressure drops from 145/83 mm Hg to 102/60 mm Hg. What is the most likely cause of this problem and what should the respiratory therapist recommend?
-
-</div></details>
-
-</div></details>
-
-<details class="med-details"><summary>
-
-### Effects of Lung and Chest Wall Compliance and Airway Resistance</summary><div class="details-content">
-
-Patients with very stiff lungs, such as those with acute respiratory distress syndrome or pulmonary fibrosis, are less likely to experience hemodynamic changes with high pressures because less of the alveolar pressure (P<sub>alv</sub>) is transmitted to the intrapleural space. On the other hand, patients with compliant lungs and stiff (noncompliant) chest walls are more likely to have higher intrapleural pressures with positive pressure ventilation and experience more pronounced cardiovascular effects.
-
-In patients with increased R<sub>aw</sub>, although peak pressures may be high, much of the pressure is lost to the poorly conductive airways. As a consequence, high peak airway pressures may not be transmitted to the intrapleural space and alveoli.
-
-</div></details>
-
-<details class="med-details"><summary>
-
-### Duration and Magnitude of Positive Pressures</summary><div class="details-content">
-
-One way to reduce the deleterious effects of positive pressure ventilation is to control the amount of pressure exerted in the thorax. Maintaining the lowest possible \(\overline{P}_{aw}\) helps minimize the reductions in cardiac output that can occur during mechanical ventilation. It is therefore important to understand how peak inspiratory pressure (PIP), inspiratory flow, inspiratory-to-expiratory (I/E) ratios, inflation hold, and PEEP affect \(\overline{P}_{aw}\) and, ultimately, cardiac output.
+Pneumoperitoneum generally follows pneumomediastinum. It occurs when air dissects into the retroperitoneal space. The peritoneum can rupture, resulting in air moving into the peritoneal cavity. As you might expect, this can be painful. If a significant amount of air is present, it can interfere with the movement of the diaphragm and reduce effective ventilation.
 
 </div></details>
 
@@ -174,145 +158,115 @@ One way to reduce the deleterious effects of positive pressure ventilation is to
 
 <details class="med-details"><summary>
 
-## BENEFICIAL EFFECTS OF POSITIVE PRESSURE VENTILATION ON HEART FUNCTION IN PATIENTS WITH LEFT VENTRICULAR DYSFUNCTION</summary><div class="details-content">
+### Barotrauma or Volutrauma</summary><div class="details-content">
 
-Although the discussion so far has focused on the adverse effects of positive pressure ventilation, it is important to recognize that positive pressure can also be beneficial for patients with LV dysfunction and elevated filling pressures. For example, PEEP may improve cardiac function by raising the PaO<sub>2</sub> and improving myocardial oxygenation and performance if the LV dysfunction is a result of hypoxemia. Reductions in venous return decrease the preload to the heart and thus improve length-tension relationships and SV in patients with ventricular overload. Additionally, by raising the intrathoracic pressure, positive pressure ventilation decreases the transmural LV systolic pressure and thus the afterload to the left heart (Critical Care Concept 16.1). Box 16.1 lists some potential effects of PEEP on heart function.
+In early studies, researchers tried to determine whether the cause of lung injury during mechanical ventilation was the result of the delivery of high pressures (barotrauma) or high volumes (volutrauma). Dreyfuss and colleagues coined the term *volutrauma* to describe the injurious effects of mechanical ventilation they observed in laboratory studies using an animal model. They found that it was not high pressure but the relatively large regional volumes that overstretched compliant areas of the lung that resulted in alveolar stretch and edema formation in these areas.
 
-<details class="med-details"><summary>
+It is now generally accepted that using inordinately high V<sub>T</sub> can lead to lung overdistention and iatrogenic lung injury. Overdistention occurs in those areas of the lungs where high distending pressures—in other words, high transpulmonary pressures (alveolar pressure – pleural pressure [P<sub>alv</sub> – P<sub>pl</sub>])—are present. Indeed, pressures as low as 30 to 35 cm H₂O have been shown to cause lung injury in animals.
 
-#### Critical Care Concept 16.1: Calculating Cardiac Transmural Pressure</summary><div class="details-content">
+Because regional differences in lung compliance and transpulmonary pressures (P<sub>L</sub>) occur in most pulmonary disorders, positive pressure applied to the lung tends to produce larger volumes in more compliant lung areas (Box 17.1). The resulting overdistention to these areas causes acute alveolar injury and the formation of pulmonary edema by both increased permeability and filtration mechanisms (e.g., V<sub>T</sub>s of 10–12 mL/kg can cause overdistention of these areas of greater compliance).
 
-The effective filling and emptying of the heart is determined, in part, by the pressure difference between the inside of the heart and the intrathoracic pressure. This is called the cardiac transmural pressure (P<sub>TM</sub>). The more positive the P<sub>TM</sub> is during diastole, the greater the filling of the heart (preload). The more positive the P<sub>TM</sub> is during systole, the higher the workload is for the heart (afterload). Keeping this in mind, calculate the P<sub>TM</sub> during a positive pressure breath and during a spontaneous breath and compare their values.
+Additional animal studies found that when the chest wall movement was restricted by binding the thorax and pressure was applied to the lungs, less lung injury occurred. Thoracic binding prevented severe transpulmonary (alveolar distending) pressure. Furthermore, alveolar stretch and edema formation did not occur under these conditions. In the clinical setting, restriction to chest wall movement is present when patients are in the prone position, in severely obese patients, or when heavy dressings are used to manage surgical sites of chest or chest wall injuries (Box 17.2).
 
-**Problem 1: Positive Pressure Breathing**
+To understand the importance of pressure in this setting and its distribution, several circumstances that affect lung pressures must be examined. Pressure at the upper airway is not equal to alveolar pressure (P<sub>alv</sub>) except when flow is zero and the airway is open. (This is usually termed *plateau pressure* [P<sub>plat</sub>].) To interpret P<sub>alv</sub>, or P<sub>plat</sub>, the circumstances in which it is measured should be known. The following are seven of these circumstances:
 
-If intrapleural pressure (P<sub>pl</sub>) is +10 cm H<sub>2</sub>O and intraventricular pressure is 150 mm Hg, what is the P<sub>TM</sub>?
+- 1. The lungs are normal, but the chest wall is stiff but relaxed, resulting in high pleural pressures (e.g., 60 cm H₂O).
+- 2. The lungs and chest wall are normal, but the pressure around the chest is high (e.g., pressure on the chest or in the abdomen, such as with obesity).
+- 3. The lungs and chest wall are normal, but the expiratory muscles are actively contracting (e.g., the patient performs a Valsalva maneuver, which causes the pleural pressure to be positive).
+- 4. The lungs are normal, but the abdomen is turgidly overdistended (similar to the first circumstance).
+- 5. The lungs are stiff, leaving pleural pressure near normal (e.g., 5 cm H₂O).
+- 6. The lungs are normal, but an incorrectly positioned endotracheal tube (ET) expands only one lung to a dangerous degree (e.g., right mainstem intubation with large V<sub>T</sub>s).
+- 7. Both lungs are dangerously overdistended inside a normal chest wall.
 
-**Problem 2: Spontaneous Inspiration**
+In the first four examples, structures around the lung (e.g., chest wall and abdomen) oppose most of the alveolar pressure; the pleural pressure is high, but the distending pressure is within safe limits. Only the last three examples are situations in which lung distending pressure (i.e., the transpulmonary pressure [P<sub>alv</sub> – P<sub>pl</sub>]) is abnormally high and thus can cause lung injury. P<sub>alv</sub> can be high by itself without causing lung damage, but if P<sub>alv</sub> – P<sub>pl</sub> is high, lung damage is more likely to occur.
 
-If P<sub>pl</sub> is –10 cm H<sub>2</sub>O and intraventricular pressure is 150 mm Hg, what is the P<sub>TM</sub>?
+Lung injury from overdistention is more subtle than air leaks described in the preceding section on barotrauma. Overdistention lung injury causes excessive stretching of alveolar cells, the formation of edema, and the release of inflammatory mediators, also called chemical mediators. As mentioned earlier, the release of these chemical mediators is termed *biotrauma*.
 
-</div></details>
+<span id="fig-17-2"></span>![](_page_4_Figure_3.jpeg)
 
-<details class="med-details"><summary>
+**FIGURE 17.2** A pressure-volume curve in a patient with acute overdistention of the lung during positive pressure ventilation. Notice the duck-billed appearance of the top right portion of the curve (overdistention). *PEEP*, Positive end-expiratory pressure; PIP, peak inspiratory pressure; V<sub>T</sub>, tidal volume.
 
-#### BOX 16.1: Potential Effects of PEEP in Left Ventricular Dysfunction</summary><div class="details-content">
+[Fig. 17.2](#fig-17-2) shows a pressure-volume curve that indicates the presence of overdistention. The shape of this curve is sometimes said to have a "duck-bill" appearance. Most clinicians now think this portion of the curve occurs with overdistention of more compliant areas of the lung, resulting in volutrauma. For the sake of simplicity, the term *barotrauma* will be used in this text to imply the leaking of air into body tissues (extraalveolar air leak) and the term *volutrauma* to describe damage from overdistention that occurs at the alveolar level and involves alveolar and interstitial edema formation, alveolar stretch, and biotrauma.
 
-- Increased airway pressure (\(\overline{P}_{aw}\)) and intrathoracic pressure lead to decreased venous return that can reduce preload to a failing heart and improve function.
-- Increased FRC that occurs with the application of PEEP leads to increased pulmonary vascular resistance and increased afterload to the right heart, which may shift the intraventricular septum to the left. This does not seem to alter RV contractility until values for PAP are critical.
-- Left shift of the intraventricular septum reduces LV volume and decreases the load it must pump. On the other hand, it also may affect LV compliance and either increase or decrease LV function (the response varies).
-- The mechanical compression of the heart and aorta by the positive pleural pressure can alter ventricular function. Vascular pressure in the heart and thoracic aorta are transiently increased relative to the extrathoracic aorta (i.e., LV afterload decreases). This response is not always consistent, and cardiac tamponade from PEEP can negatively alter myocardial compliance as well.
-- Improper ventilator settings may lead to increased work of breathing and O<sub>2</sub> demand, which can affect myocardial O<sub>2</sub> supply and result in myocardial ischemia and reduced LV compliance.
+> **BOX 17.1 Chest Wall and Transpulmonary Pressures**  
+> Transpulmonary pressure (P<sub>L</sub>), as defined in Chapter 1, is the difference between the pressure inside the alveolus and the pressure immediately outside, or the intrapleural pressure. It is not uncommon to read scientific journal articles in which P<sub>L</sub> is defined as the difference between the static airway pressure measured during a plateau maneuver and the average intrapleural pressure, which is estimated by using an esophageal balloon. Do not be confused by this subtle difference. Both definitions imply alveolar pressure (airway pressure during a plateau) minus intrapleural pressure.
 
-</div></details>
-
-</div></details>
-
-<details class="med-details"><summary>
-
-## MINIMIZING THE PHYSIOLOGICAL EFFECTS AND COMPLICATIONS OF MECHANICAL VENTILATION</summary><div class="details-content">
-
-As previously stated, the harmful effects of positive pressure ventilation on cardiovascular function occur when high positive pressures are applied to the lungs and transmitted to the intrapleural space. Ventilatory strategies that reduce intrapulmonary pressures during positive pressure ventilation will therefore also reduce the harmful effects on cardiovascular function. Although it may not be obvious, the amount and duration of the pressure applied to the airway, or more specifically the \(\overline{P}_{aw}\), ultimately influences the extent of these harmful effects. Thus the lower the \(\overline{P}_{aw}\), the less marked the cardiovascular effects. Fig. 16.4 illustrates the airway pressure changes that occur during one respiratory cycle.
-
-![](_page_4_Figure_3.jpeg)
-
-**Fig. 16.4** Vertical lines under the pressure curve represent frequent readings of pressure over the total respiratory cycle. The sum of these pressure readings (i.e., the area under the curve) divided by the cycle time will give the \(\overline{P}_{aw}\).
-
-Notice in Fig. 16.4 that the \(\overline{P}_{aw}\) is the area enclosed between the curve and the baseline for one respiratory cycle, divided by the duration of the cycle. Although most of the newer microprocessor ventilators measure, calculate, and display \(\overline{P}_{aw}\) with the simple push of a button, it is important to understand how \(\overline{P}_{aw}\) is actually calculated. In a constant flow, volume-limited breath, the pressure rise is nearly linear with time and produces essentially a triangular pressure waveform (Fig. 16.5). \(\overline{P}_{aw}\) can be estimated by using the following equation: \(\overline{P}_{aw} = 1/2\) (PIP × [inspiratory time/total respiratory cycle]). In this same ventilator mode with PEEP added, the equation is as follows:
-
-$$\overline{P}_{aw} = \frac{1}{2}(PIP - PEEP) \times \left(\frac{\text{Inspiratory time}}{\text{Total cycle time}}\right) + PEEP$$
-
-The \(\overline{P}_{aw}\) generated during positive pressure ventilation varies and may exhibit different waveforms (pressure curves) depending on the ventilator employed, mode of ventilation used, and patient’s pulmonary characteristics. For example, techniques such as inverse ratio ventilation (IRV) and PEEP produce higher \(\overline{P}_{aw}\) compared with conventional positive pressure ventilation.
-
-![](_page_4_Figure_5.jpeg)
-
-**Fig. 16.5** Slower inspiratory flow may reach a lower peak pressure compared with a rapid flow rate, but it may also produce a higher airway pressure (P<sub>aw</sub>). Note the number of boxes under each curve.
-
-<details class="med-details"><summary>
-
-### Mean Airway Pressure and PaO<sub>2</sub></summary><div class="details-content">
-
-It should be apparent that \(\overline{P}_{aw}\) has clinical importance. For a specific V<sub>T</sub>, the PaO<sub>2</sub> will be predominantly affected by \(\overline{P}_{aw}\) and, to a lesser extent, the ventilator parameters used to achieve the \(\overline{P}_{aw}\). This is probably related to an increase in functional residual capacity (FRC) with increased \(\overline{P}_{aw}\). Thus changes in FRC are of importance to increased oxygenation in some pulmonary disorders such as acute respiratory distress syndrome. (NOTE: The amount of \(\overline{P}_{aw}\) required to achieve a certain level of oxygenation may indicate the severity of a patient’s lung disease.)
+> **BOX 17.2 Chest Wall Compliance and Protection From Overdistention**  
+> The term *chest wall pressure* as used in the clinical setting includes forces or pressures from the overlying ribs and muscles, pressure from the diaphragm, and abdominal pressure. As abdominal pressure increases (>20 cm H₂O is high), an increased amount of pressure is placed on the diaphragm and the vena cava. This added abdominal pressure augments venous return to the thorax as blood shifts into the thorax from the abdominal area. If the lung is injured and leaking, lung fluid is increased. Thus as abdominal pressure increases, more lung collapses. For example, in an obese patient with peritonitis, an airway pressure of 30 cm H₂O may not be adequate to ventilate the patient sufficiently.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Reduction in Airway Pressure</summary><div class="details-content">
+### Atelectrauma</summary><div class="details-content">
 
-High \(\overline{P}_{aw}\) values suggest the presence of increased intrapleural pressures and the associated problems previously discussed. It cannot be overstated that the level of positive pressure should never be maintained higher or longer than is necessary to achieve adequate ventilation and oxygenation. In the sections that follow, we will discuss how \(\overline{P}_{aw}\) can be affected by inspiratory gas flow and pattern, I/E ratio, inflation hold, PEEP, IMV, and the ventilator mode used.
+The term *atelectrauma* is used to describe the injuries to the lungs that occur because of repeated opening and closing of lung units at lower lung volumes. Atelectrauma can occur in the management of ARDS when low V<sub>T</sub>s are used and inadequate levels of PEEP are applied (see Chapter 13). Under these circumstances, alveoli tend to open on inspiration and close on expiration. (This occurs most often in the dependent areas of the lung. In supine patients this would be the dorsal area near the spine.) The repeated opening and closing of lung units in ARDS produces three primary types of lung injury: shear stress, alteration and washout of surfactant, and microvascular injury.
+
+Research studies involving animal models showed that ventilating pressures of 30 to 80 cm H₂O produce atelectrauma with resulting reduced compliance and severe hypoxemia. Atelectrauma may be described as alveolar rupture, interstitial emphysema, or perivascular and alveolar hemorrhage, which can eventually lead to death. Death occurred in experimental animal models in some cases within an hour.
+
+<details class="med-details"><summary>
+
+#### Shear Stress</summary><div class="details-content">
+
+Shear stress occurs when an alveolus that is normally expanded is adjacent to one that is collapsed (atelectasis) and unstable. As airway pressure increases during inspiration, the normal alveolus inflates but the collapsed unit does not. In the interstitial space between the two, force is exerted as these two units move or slide against each other. There is a potential zone of risk at the interface of open and closed lung units. This is similar to what occurs when a paper clip is repeatedly twisted; eventually the paper clip breaks. In the lung, the stress pulls normal tissues apart, resulting in physical damage to the alveolar cells, particularly epithelial and endothelial cells (pulmonary microvasculature). The term *shear stress* has been applied to this type of situation. The amount of stress across the entire lung can be estimated by using transpulmonary pressure ([Fig. 17.3](#fig-17-3) and Key Point 17.2).
+
+**Key Point 17.2** Shear stress causes intense strain and rupture of lung tissue, which may lead to an inflammatory response and edema formation.
+
+The importance of shear stress has been known for a number of years. In fact, more than 30 years ago, Mead and colleagues calculated from a model that a transpulmonary pressure of only 30 cm H₂O could result in a stress of 140 cm H₂O being exerted between two adjacent alveoli as one expands and the other unstable unit remains collapsed. Not surprisingly, this force acting on the delicate tissues of the acinus can result in tearing of alveolar epithelium and capillary endothelium along with other structural injury.
+
+<span id="fig-17-3"></span>![](_page_4_Picture_12.jpeg)
+
+**FIGURE 17.3** The volume from a positive pressure breath distributes homogeneously throughout a lung with normal compliance (C<sub>L</sub>) (*left*). In a lung with instability, the volume from a positive pressure breath distributes preferentially to the regions with more normal C<sub>L</sub> (*right*). Thus a tidal volume (V<sub>T</sub>) of normal size in a lung with regions of low C<sub>L</sub> can overdistend the healthier regions. This creates shearing between adjacent lung units. (Redrawn from MacIntyre NR: Minimizing alveolar stretch injury during mechanical ventilation. *Respir Care* 41:318–326, 1996.)
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Inspiratory Flow</summary><div class="details-content">
+#### Surfactant Alteration</summary><div class="details-content">
 
-Although rapid inspiratory flows tend to increase PIP, higher inspiratory flows allow for the delivery of the desired V<sub>T</sub> in a shorter time, which in turn produces a lower \(\overline{P}_{aw}\) in patients with normal conducting airways (see Fig. 16.5). Three points must be kept in mind, however, when using high inspiratory flows. First, more pressure will be lost to the patient circuit with higher PIP. Second, more pressure will be required to overcome R<sub>aw</sub> (R<sub>aw</sub> = ΔP/flow). And third, uneven ventilation is more likely to occur with high inspiratory flow. If, for example, the right bronchus is partially obstructed, most of the gas flow would go to the left lung because gas flow will follow the path of least resistance. Consequently, a larger volume enters the left lung, creating higher airway pressures in the left lung compared with the right lung. This situation can lead to uneven distribution of gas and contribute to ventilation-perfusion (\(\dot{V}/\dot{Q}\)) mismatching by creating higher intraalveolar pressures in the left lung. These higher intraalveolar pressures may lead to increased dead space ventilation resulting from the high alveolar volume; the elevated P<sub>alv</sub> can also reduce capillary blood flow. Additionally, the high volume delivered to the left lung may increase the risk for alveolar rupture.
-
-The goal should be to use an inspiratory flow that is not too high for the reasons just outlined but also not too low, which may lead to increased work of breathing (WOB) and auto-PEEP. Careful monitoring of the effects of flow changes on volume delivery, V<sub>D</sub>/V<sub>T</sub>, \(\dot{V}/\dot{Q}\), and transairway pressure (P<sub>TA</sub>) can help identify the appropriate inspiratory flow setting. (See Chapter 6 for additional information on setting inspiratory flow.)
+A second consequence of the repeated opening and closing of alveoli involves reorientation of the surfactant molecules lining the alveolar surface. In the alveolus, surfactant forms a molecular layer between the air and the liquid alveolar surface. During alveolar collapse, as the surface area of the alveolus decreases, the surfactant molecules can form together until some actually pop out or get squeezed out at low lung volumes. These "used" lipids do not rapidly spread as the alveolus reopens. Rather, it is theorized that newly secreted surfactant replaces surfactant that is lost from the affected area. Reduction in surface area that occurs during exhalation (i.e., lower alveolar volumes) causes a greater number of surfactant molecules to migrate from the affected area. Thus a greater amount of new surfactant is required to stabilize the lung unit. How quickly and for what length of time the alveolar cells can continue to produce an adequate amount of surfactant are uncertain. It is thought that eventually not enough surfactant will be present and the alveolus will become unstable. Besides the effects of opening and closing of alveoli on surfactant production, it has been suggested that overdistention also reduces surface tension and is believed to alter surfactant function.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Inspiratory-to-Expiratory Ratio</summary><div class="details-content">
+#### Biotrauma</summary><div class="details-content">
 
-Another point to consider is the duration of inspiration in relation to expiration. Shorter inspiratory time (T<sub>I</sub>) and longer expiratory time (T<sub>E</sub>) typically lead to the fewer harmful effects of positive pressure. A range of I/E ratios of 1:2 to 1:4 or less in adult patients is considered acceptable. Values of 1:1, 2:1, and higher may result in significant increases in \(\overline{P}_{aw}\), air trapping, and significant hemodynamic complications (Key Point 16.3).
+Mechanical stress disrupts normal cell function, strains normal cell configuration, and can also lead to an inflammatory response in the lungs. Current theory suggests that pulmonary cells, particularly epithelial cells, become distorted during mechanical ventilation when they are overstretched (overdistention). This overdistention causes the release of chemical mediators (i.e., cytokines). In addition to epithelial cells, the alveolar macrophages are another important source of inflammatory mediators, which are produced in response to a stretching strain and result in a potential molecular and cellular basis for VILI (Box 17.3).
 
-In patients with poor airway conductance, a longer T<sub>E</sub> also allows for better alveolar emptying and less chance of developing auto-PEEP. Using a short I/E of 1:6 or smaller in an apneic patient receiving volume control ventilation may increase physiological dead space because of a T<sub>I</sub> that is too short (i.e., T<sub>I</sub> < 0.5 seconds). It is the responsibility of the clinician to balance the patient’s response to variations in I/E ratio and flow rates to achieve the most effective ventilation for that individual.
+It is important to understand that ARDS does not have to be present for this inflammatory response to occur. However, when the inflammatory mediators are released, the lung begins to resemble a lung with ARDS. Indeed, the damage that can be caused by ventilator mismanagement may actually be indistinguishable from the underlying disease process of ARDS.
 
-</div></details>
-
-<details class="med-details"><summary>
-
-### Inflation Hold</summary><div class="details-content">
-
-Inflation hold, or inspiratory pause, was initially proposed as a method to improve oxygenation and distribution of gas in the lungs during volume-targeted ventilation. It was subsequently realized that the inflation hold maneuver could lead to severe consequences if it is used for extended periods because it increases T<sub>I</sub> and \(\overline{P}_{aw}\) (Fig. 16.6). Inflation hold is now used almost exclusively to measure plateau pressure (P<sub>plat</sub>), which is required to calculate static lung compliance (C<sub>S</sub>). It should be kept in mind, however, that because the inflation hold maneuver raises the \(\overline{P}_{aw}\) and can potentially cause undesirable hemodynamic side effects, it should be used judiciously.
-
-![](_page_5_Figure_9.jpeg)
-
-**Fig. 16.6** Inflation hold or inspiratory pause may help improve the distribution of gases in the lungs and increases airway pressure (\(\overline{P}_{aw}\)). The curve shows an inflation hold compared with a normal passive exhalation.
+> **BOX 17.3 Chemical Mediators, Cytokines, and Chemokines**  
+> The production of cytokines and chemokines (i.e., chemotactic cytokines) is increased by harmful ventilator strategies. Pulmonary epithelial and alveolar macrophages are, in part, responsible for the production of these substances, which can occur within 1 to 3 hours of the initiation of an inappropriate ventilatory strategy. Inflammatory mediators, such as platelet-activating factor (PAF), thromboxane-B₂, tumor necrosis factor-α (TNF-α), and interleukin-1B, have been found isolated from the lungs when low end-expiratory volumes are used. As already discussed, release of these inflammatory mediators is thought to be associated with tidal alveolar reopening and collapse. Neutrophils that migrate into the lung after injury or infection can also release inflammatory mediators.  
+> A number of strategies have been proposed to reduce the adverse effects associated with the production of inflammatory mediators in the lungs. Protective ventilation strategies discussed in Chapter 13 can be used to avoid overinflation and the repeated opening and closing of alveoli and thus reduce the cytokine response. Instilling antiinflammatory antibodies into the trachea, such as anti–TNF-α, also has been shown to improve oxygenation and lung compliance. Infiltration of leukocytes into the lungs is also reduced. Furthermore, the pathological changes seen in an experimental animal model ventilated with inappropriate settings were reduced when antibodies were administered.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### Positive End-Expiratory Pressure</summary><div class="details-content">
+#### Multiple Organ Dysfunction Syndrome</summary><div class="details-content">
 
-PEEP increases FRC and improves oxygenation, but it also increases \(\overline{P}_{aw}\) (Fig. 16.7). As mentioned earlier, inappropriate levels of PEEP that cause overdistention of the lungs can result in a reduction in cardiac output. It is important to understand, however, that in cases in which a patient demonstrates reduced lung compliance (i.e., “stiff” lungs) and a reduced FRC, increased \(\overline{P}_{aw}\) with PEEP will not always lead to a decreased cardiac output. In these situations, the application of relatively high levels of PEEP to reestablish a normal FRC does not cause detrimental effects on intrathoracic blood vessels and will therefore have minimal effects on cardiac output.
+Chemical mediators produced in the lung can leak into the pulmonary blood vessels. The circulation then carries these substances to other areas of the body and sets up an inflammatory reaction in other organs, such as the kidneys, gut, and liver. The release of mediators may therefore lead to multiple organ failure, also called multisystem organ failure and multiple organ dysfunction syndrome.
 
-![](_page_5_Figure_18.jpeg)
-
-**Fig. 16.7** Simplified graphic of PEEP during volume-controlled continuous mandatory ventilation (VC-CMV). PEEP maintains a high baseline pressure and results in an increase of airway pressure (\(\overline{P}_{aw}\)).
+Treating patients with ARDS with lung-protective strategies, such as low V<sub>T</sub> and therapeutic PEEP, can significantly reduce morbidity and mortality rates in these patients (see Chapter 13). It has also been suggested that hypercapnia may be beneficial in patients with ARDS (who are difficult to ventilate) because it has an antioxidant effect and may actually reduce inflammation. Therapeutic hypercapnia may be a more appropriate name, but additional studies are needed (see Chapter 13).
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### High Peak Pressures From Increased Airway Resistance</summary><div class="details-content">
+#### Vascular Endothelial Injury</summary><div class="details-content">
 
-Although high PIP may indicate an increase in \(\overline{P}_{aw}\), this increased \(\overline{P}_{aw}\) may not always be transmitted to the intrapleural space. For example, increased amounts of pressure are needed to provide ventilation to patients with elevated R<sub>aw</sub> caused by bronchospasm, mucus plugging, and mucosal edema; however, not all of this increased pressure will reach the alveoli because the majority will be transmitted to the conducting airways. Thus high PIP measured at the upper airway does not always reflect P<sub>alv</sub>. P<sub>plat</sub> will be low, and the increase in \(\overline{P}_{aw}\) in this case may not result in an improvement in oxygenation. If increased resistance leads to air trapping from inadequate expiratory time or from loss of normal expiratory resistance maneuvers such as pursed-lip breathing, hazardous cardiovascular side effects are likely to occur (Fig. 16.8). Ventilators that calculate \(\overline{P}_{aw}\) can show inaccurate \(\overline{P}_{aw}\) values in the presence of air trapping (auto-PEEP).
+A third problem that can occur with repeated alveolar collapse and reopening involves the pulmonary microvasculature. Recall that during a positive-pressure breath, alveolar capillaries flatten but corner alveolar vessels open wider (see Fig. 13.12). The interstitial areas adjacent to the corner vessels develop negative pressure relative to the inside of the vessels. This negative-pressure gradient tends to pull fluid and blood products out of the vessels and into the space. Thus the alveoli and perivascular areas become edematous.
 
-![](_page_6_Figure_3.jpeg)
+If the vascular pressure of the lung is further increased, at a certain point the vessel can rupture and release red blood cells and other blood components into the alveoli and interstitial space ([Fig. 17.4](#fig-17-4)). In Mead's model, a stress of 140 cm H₂O was proposed as occurring between two alveoli as one expanded and the other unit remained collapsed. This pressure could also be transmitted to the pulmonary vessels, which could represent a second cause of vessel rupture. The increased fluid leaking into the lung would create a dramatic increase in lung weight, which may be one of the mechanisms associated with the hemorrhagic appearance of lungs on autopsy in animal models subjected to low V<sub>T</sub> ventilation without PEEP ([Fig. 17.5](#fig-17-5)). Studies using a canine model have shown that it takes 90 to 100 mm Hg to produce this phenomenon. Perhaps leaving areas of the lung collapsed or at least providing ventilation at low pressures might not damage the lung or vasculature. Whether resting parts of the lung is better than trying to recruit the majority of the lung will require additional studies.
 
-**Fig. 16.8** (A) Normal pressure difference between PIP and P<sub>plat</sub> during volume-controlled continuous mandatory ventilation (VC-CMV) with a normal R<sub>aw</sub>. (B) When R<sub>aw</sub> is increased, the difference between PIP and P<sub>plat</sub> is increased (i.e., more pressure goes to the airways [P<sub>TA</sub>]). Note that PIP is also higher with increased R<sub>aw</sub>.
+<span id="fig-17-4"></span>![](_page_5_Picture_18.jpeg)
 
-</div></details>
+**FIGURE 17.4** An electron micrograph of the lung showing a red blood cell rupturing through the wall of the pulmonary microvasculature. (Courtesy John J. Marini, M.D., Minneapolis, Minn.)
 
-<details class="med-details"><summary>
+<span id="fig-17-5"></span>![](_page_6_Picture_3.jpeg)
 
-### Intermittent Mandatory Ventilation</summary><div class="details-content">
-
-Another mode of ventilation that can reduce \(\overline{P}_{aw}\) in patients requiring positive pressure ventilation is IMV. The cardiovascular complications of high \(\overline{P}_{aw}\) can be minimized by reducing the frequency of mandatory breaths and allowing spontaneous breathing to occur at ambient pressure or with PEEP/continuous positive airway pressure between those breaths. It is important to recognize, however, that IMV requires the patient to assume a certain percentage of the WOB. It must be used with caution because IMV can increase the risk for fatigue and add stress to those patients who may require full ventilatory support.
-
-If the patient’s spontaneous respiratory rate between machine breaths is rapid and accompanied by low V<sub>T</sub> values, the patient’s WOB is increased and fatigue may result. If the patient’s spontaneous respiratory rate is rapid and V<sub>T</sub> values are deep in the presence of normal PaCO<sub>2</sub>, the patient may have some underlying cause for an increased V<sub>D</sub>/V<sub>T</sub> ratio or increased V̇CO<sub>2</sub>. It is not uncommon for acutely ill patients, such as those with sepsis, multiple organ failure, severe burns, or trauma, to have higher than normal metabolic rates leading to increased V̇CO<sub>2</sub> and requiring a higher minute ventilation (V̇<sub>E</sub>). The clinician must decide whether the patient can continue to work this hard or the mandatory rate must be increased. The answer depends on the clinical situation and the ventilatory requirements for each patient. In this situation, pressure-supported ventilation at appropriate levels may help solve the problem.
-
-In summary, the most serious complications associated with positive pressure ventilation include alterations in cardiac function, interference with gas exchange, and increased risk for lung injury from overdistention. Procedures that decrease \(\overline{P}_{aw}\) may decrease cardiovascular effects, but they may also contribute to uneven ventilation and vice versa (Fig. 16.9). The clinician must evaluate each aspect of the patient’s condition and choose the most effective ventilation mode.
-
-![](_page_7_Figure_2.jpeg)
-
-**Fig. 16.9** Balancing the benefits and hazards. The top figure shows the balance between the benefits and hazards of increasing the gas flow rate and decreasing the I/E ratio to reduce the \(\overline{P}_{aw}\). The bottom figure shows the balance between the benefits and hazards of increasing the \(\overline{P}_{aw}\) to increase alveolar ventilation (by increasing V̇<sub>A</sub> and/or respiratory rate) and achieve alveolar recruitment with PEEP and improve gas distribution (by using a slow inspiratory flow rate and a descending waveform). All factors must be considered when treating patients on mechanical ventilatory support.
+**FIGURE 17.5** Macroscopic aspect of rat lungs after mechanical ventilation at 45 cm H₂O peak airway pressure. *Left,* Normal lungs; *middle,* after 5 minutes of high airway pressure mechanical ventilation (notice the focal zones of atelectasis, particularly at the left lung apex); *right,* after 20 minutes. (From Dreyfus D, Saumon G: Ventilator-induced lung injury: lessons from experimental studies, *Am J Respir Crit Care Med* 157:294–323, 1998.)
 
 </div></details>
 
@@ -320,67 +274,34 @@ In summary, the most serious complications associated with positive pressure ven
 
 <details class="med-details"><summary>
 
-## EFFECTS OF MECHANICAL VENTILATION ON INTRACRANIAL PRESSURE, RENAL FUNCTION, LIVER FUNCTION, AND GASTROINTESTINAL FUNCTION</summary><div class="details-content">
+### Historic Webb and Tierney Study</summary><div class="details-content">
 
-<details class="med-details"><summary>
-
-### Effects of Mechanical Ventilation on Intracranial Pressure and Cerebral Perfusion</summary><div class="details-content">
-
-The amount of blood flowing to the brain is determined by the cerebral perfusion pressure (CPP), which is calculated by subtracting the intracranial pressure (ICP) from the mean systemic arterial blood pressure (MABP). Because positive pressure ventilation (with or without PEEP) can decrease cardiac output and MABP, it is reasonable to assume that CPP would also decrease during positive pressure ventilation. Consider the following example. If MABP drops from 100 to 70 mm Hg and the ICP is 15 mm Hg, the CPP would decrease from 85 mm Hg (100 – 15 = 85 mm Hg) to 55 mm Hg (70 – 15 = 55 mm Hg).
-
-Positive pressure ventilation can also reduce CPP by increasing the CVP. In this situation, CPP is reduced because a reduction in venous return from the head increases ICP. This can be observed clinically by noting an increase in jugular vein distention. The net result is a potential for cerebral hypoxemia from a reduced perfusion to the brain and an increase in cerebral edema from increased ICP.
-
-With normal intracranial dynamics, patients do not typically develop increased ICP with positive pressure ventilation. The greatest risk for decreased cerebral perfusion occurs in patients who already have an increased ICP and who may develop cerebral edema, such as patients with closed head injuries, patients with cerebral tumors, or patients who have undergone neurosurgery. Some clinicians advocate using mechanical ventilation to hyperventilate patients with severe, uncontrollable increased ICP. The idea was that the respiratory alkalosis that results from lowering the PaCO<sub>2</sub> to 32 to 35 mm Hg can constrict cerebral arterial vessels and reduce the ICP, thus increasing the CPP gradient and augmenting cerebral perfusion. As previously discussed, this effect is temporary and should be used for short periods when ICPs are spiking. It is important to note that the actual benefit of using hyperventilation in patients with closed head injury remains controversial and is not always recommended as a standard practice for these patients.
-
-Some patients with traumatic brain injuries require PEEP to treat refractory hypoxemia caused by increased shunting and decreased FRC. When PEEP is used in these patients, it is important to recognize that it can potentially limit CPP by raising ICP. On the other hand, if PEEP is needed to maintain oxygenation, it may be lifesaving and should be used. Regardless of the situation, it is imperative to monitor ICP in this patient group.
+Seminal studies conducted by Webb and Tierney in the early 1970s showed that using inspiratory pressures of 45 cm of H₂O without PEEP resulted in the rapid death of normal rats. Their study is frequently cited as evidence of the benefits of using protective ventilatory strategies. Interestingly, their discovery took nearly two decades to be recognized. In a 2003 editorial, Tierney wrote, "We could hardly believe the results. It was as if we violated a thermodynamic law and got more out of it than we put into it. Within minutes the rats were cyanotic and appeared moribund. It took a decade or two for others to conclude that human lungs could be injured by such ventilation. Our final paragraph 30 years ago suggested management . . . using protective ventilation and low V<sub>T</sub>s."
 
 </div></details>
 
 <details class="med-details"><summary>
 
-### RENAL EFFECTS OF MECHANICAL VENTILATION</summary><div class="details-content">
+### Role of PEEP in Lung Protection</summary><div class="details-content">
 
-It has been known for nearly half a century that pressurized breathing can induce changes in renal function. These changes can be divided into three areas:
+In acute lung injury, PEEP appears to provide some protection from tissue damage when high pressures are used. This is especially true if PEEP levels are greater than the opening pressure for recruitable alveoli. PEEP helps restore functional residual capacity (FRC) by recruiting previously collapsed alveoli. Adequate levels of PEEP prevent repeated collapse and reopening of alveoli and help maintain lung recruitment. However, if PEEP overinflates already patent alveoli, increasing PEEP for a given V<sub>T</sub> may maximally stretch alveoli. This situation may also reduce cardiac output. Safely establishing an optimum PEEP level is not an exact science and can be challenging in critically ill patients. (Case Study 17.2; see Chapter 13 for additional information on setting PEEP.)
 
-- Renal responses to hemodynamic changes resulting from high intrathoracic pressures
-- Humoral responses, including antidiuretic hormone (ADH), atrial natriuretic factor (ANF), and renin-angiotensin-aldosterone changes occurring with positive pressure ventilation
-- Abnormal pH, PaCO<sub>2</sub>, and PaO<sub>2</sub> affecting the kidney
+To summarize, lung injury may occur as a result of either overdistention of the lungs or repeated opening and closing of lung units throughout the respiratory cycle during mechanical ventilation. These two phenomena can result in shear stress and alveolar injury, edema formation, surfactant washout or alteration, microvascular injury, stretch injury, and biotrauma. Stretch injury and the associated biotrauma produce inflammatory mediators by lung tissue and leaking of these mediators into the circulation, where they have the potential to affect distal organs and ultimately cause multiple organ dysfunction syndrome. Research findings strongly support the concept of maintaining P<sub>plat</sub> at less than 30 cm H₂O, setting low V<sub>T</sub>, and using enough PEEP to adequately maintain open alveoli in patients with ARDS to avoid lung injury from mechanical ventilation.
 
-<details class="med-details"><summary>
-
-#### Renal Response to Hemodynamic Changes</summary><div class="details-content">
-
-Although urinary output remains fairly constant over a wide range of arterial pressures, it becomes severely reduced as the renal arterial pressure decreases below 75 mm Hg. Indeed, urinary output can actually stop in the presence of profound hypotension. Therefore it would be reasonable to assume that the initiation of positive pressure ventilation would cause a decrease in cardiac output, which in turn would lead to a decrease in renal blood flow and glomerular filtration rates and ultimately a decrease in urine output. However, decreases in urine production seen during positive pressure ventilation may not be caused entirely by a decrease in cardiac output because returning cardiac output to adequate levels is not accompanied by a proportional increase in urinary output. Also, because the arterial BP is usually compensated when positive pressure ventilation is used, decreased BP is probably not a significant factor leading to decreased urinary output during mechanical ventilation.
-
-Redistribution of blood inside the kidney may actually be an important factor that is responsible for changes in kidney function. Flow to the outer cortex decreases, whereas flow to the inner cortex and outer medullary tissue (juxtamedullary nephrons) increases. The net result is that less urine, creatinine, and sodium are excreted. This occurs because the juxtamedullary nephrons near the medulla of the kidney are more efficient at reabsorbing sodium than are those at the outer cortex. As a result of this shift in blood flow, more sodium is reabsorbed, which in turn is accompanied by an increased reabsorption of water. Another possible explanation for this effect may be related to an alteration in renal venous pressure resulting from inferior vena cava (IVC) constriction, changes in IVC BP, or congestive heart failure.
+> **Case Study 17.2 Patient Case—Acute Pancreatitis**  
+> Two days after admission to the hospital, a 50-year-old man with acute pancreatitis requires mechanical ventilation. Although his minute ventilation is maintained with the ventilator, oxygenation becomes a concern. The PₐO₂ is 70 mm Hg on an F<sub>I</sub>O₂ of 0.75. The patient is receiving pressure-controlled continuous mandatory ventilation (PC-CMV) with a set pressure of 20 cm H₂O and a current PEEP setting of 5 cm H₂O. Auscultation reveals bibasilar crackles and scattered crackles in the posterior basal segments. What is the source of the problem based on auscultation and blood gas findings? What change in therapy might be appropriate?
 
 </div></details>
 
 <details class="med-details"><summary>
 
-#### Endocrine Effects of Positive Pressure Ventilation on Renal Function</summary><div class="details-content">
+### Ventilator-Induced Respiratory Muscle Weakness</summary><div class="details-content">
 
-Several different types of hormones may also influence urine output during mechanical ventilation. Specifically, these include ADH, ANF, and the renin-angiotensin-aldosterone cascade. Increases in the release of ADH, also called arginine vasopressin, from the posterior pituitary can reduce urine production by inhibiting free water excretion. The major determinant of ADH release is plasma osmolality. Reductions in BP can also cause increased ADH release. BP changes during positive pressure ventilation may precipitate ADH release through the following mechanism. Within the left atrium are volume receptors that send nerve impulses over a vagal pathway to the hypothalamus, which in turn can stimulate increases or decreases in ADH production and secretion. Baroreceptors in the carotid bodies and along the aortic arch sense changes in pressure and can also raise or lower ADH levels. Because both of these areas are exposed to change in intrathoracic pressures, it follows that positive pressure ventilation can potentially affect ADH secretion. An interesting finding is that negative pressure ventilation inhibits ADH release and produces a diuretic effect, in contrast to positive pressure ventilation, which enhances ADH release and results in oliguria.
+It is clear that delivering high airway pressures and volumes during mechanical ventilation can lead to damage to the lung parenchyma. Recent studies have shown that mechanical ventilation may also cause damage to the respiratory muscles. Specifically, imposing too little stress on the diaphragm during mechanical ventilation by lowering the demands on a patient's respiratory muscles can induce respiratory muscle weakness.
 
-Atrial natriuretic factor (also known as atrial natriuretic peptide [ANP]) is another hormone that appears to be intimately involved in fluid and electrolyte balance during positive pressure ventilation. ANF is normally released when the atria are distended. When it is released, it causes an increased secretion of sodium (natriuresis) and water (diuresis) in an attempt to reduce the blood volume and stretch on the atria. Positive pressure ventilation and PEEP can reduce atrial filling pressure by either causing mechanical compression of the atria or decreasing right atrial stretch from low venous return. Reducing atrial stretch leads to decreased secretion of ANF. Reduced ANF levels contribute to water and sodium retention during positive pressure ventilation.
+Laboratory studies using animal models have shown that prolonged controlled mechanical ventilation in which complete diaphragmatic inactivity occurs (i.e., no respiratory efforts are made and the mechanical ventilator performs all of the WOB) can lead to a significant decrease in the cross-sectional area of diaphragmatic fibers. Studies by Levine and colleagues involving human subjects support these findings. In their studies, Levine and colleagues obtained diaphragmatic muscle biopsies from mechanically ventilated patients who exhibited complete diaphragmatic inactivity for 18 to 69 hours. Histological measurements of these muscle samples from the costal diaphragm revealed marked diaphragmatic atrophy. Biochemical analysis of the muscle samples suggested that the atrophy occurred as a result of increased oxidative stress and activation of protein-degradation pathways.
 
-Increased sympathetic tone is associated with increases in plasma renin activity. This appears to be another major factor in sodium and water retention during positive pressure ventilation and PEEP. The increased plasma renin activity activates the renin-angiotensin-aldosterone cascade and results in retention of sodium (antinatriuresis) and water (antidiuresis). Renal synthesis of prostaglandin tends to offset these effects but is probably insufficient to completely correct them (Key Point 16.4).
-
-</div></details>
-
-<details class="med-details"><summary>
-
-#### Arterial Blood Gases and Kidney Function</summary><div class="details-content">
-
-Changes in PaO<sub>2</sub> and PaCO<sub>2</sub> contribute to the effects of mechanical ventilation on renal function. Decreasing PaO<sub>2</sub> values in patients with respiratory failure have been shown to cause a reduction in renal function and a decrease in urine flow. In fact, PaO<sub>2</sub> levels below 40 mm Hg (severe hypoxemia) can dramatically interfere with normal renal function. Similarly, acute hypercapnia (i.e., PaCO<sub>2</sub> > 65 mm Hg) can also severely impair renal function.
-
-</div></details>
-
-<details class="med-details"><summary>
-
-#### Implications of Impaired Renal Effects</summary><div class="details-content">
-
-In seriously ill, mechanically ventilated patients, administering positive pressure increases water and sodium retention, resulting in weight gain and in some cases pulmonary edema. To compound this problem, reduced renal function in these patients can complicate fluid and electrolyte management. Additionally, many drugs (e.g., sedatives and neuromuscular blocking agents) and their metabolites are excreted by the kidney. Altered renal function can prolong the effects of these drugs and affect patient care.
+The implications of these findings on clinical management of mechanically ventilated patients are unclear at this time. Additional clinical studies will be required to identify more completely the presence of ventilator-induced respiratory muscle weakness and its effect on weaning and ventilator discontinuation. Although respiratory muscle weakness can result from ventilator injury, it is important for clinicians to recognize that it can be associated with other medical conditions and interventions, such as sepsis and pharmacological therapy (e.g., antibiotics, corticosteroids, sedatives, neuromuscular blocking agents).
 
 </div></details>
 
@@ -388,13 +309,63 @@ In seriously ill, mechanically ventilated patients, administering positive press
 
 <details class="med-details"><summary>
 
-### EFFECTS OF MECHANICAL VENTILATION ON LIVER AND GASTROINTESTINAL FUNCTION</summary><div class="details-content">
+## EFFECTS OF MECHANICAL VENTILATION ON GAS DISTRIBUTION AND PULMONARY BLOOD FLOW</summary><div class="details-content">
 
-Some patients on positive pressure ventilation and PEEP show evidence of liver malfunction as reflected by a rise in serum bilirubin (>2.5 mg/100 mL), even when no evidence of preexisting liver disease is present. This may be a result of a drop in cardiac output, an increased diaphragmatic force against the liver, a decrease in portal venous flow, or an increase in splanchnic resistance. Regardless of the mechanism, these changes lead to hepatic ischemia and impaired liver function.
+<details class="med-details"><summary>
 
-Positive pressure ventilation increases splanchnic resistance, decreases splanchnic venous outflow, and may contribute to gastric mucosal ischemia, which can increase the risk for GI bleeding and gastric ulcers. Both of these are complications frequently seen in critically ill patients. These changes are associated with increased permeability of the gastric mucosal barrier. Many patients are treated with antacids or histamine-2 blocking agents (e.g., cimetidine) to avoid GI bleeding from acute stress ulceration. However, because these agents increase gastric pH, they may increase the risk for nosocomial pneumonias. As discussed in Chapter 14, several studies have suggested that oral sucralfate may reduce gastric mucosal bleeding without altering gastric pH, thus reducing the risk for developing nosocomial pneumonias in mechanically ventilated patients. Clinical findings are, however, controversial, and the use of sucralfate is not recommended at this time for patients at risk for GI bleeding.
+### Ventilation to Nondependent Lung</summary><div class="details-content">
 
-Another problem that is often encountered with patients receiving positive pressure ventilation involves gastric distention. Gastric distention can result from swallowing air that leaks around endotracheal tube cuffs or when positive pressure ventilation is delivered by mask. Use of a gastric tube can remove this air and decompress the stomach.
+Early studies of the effects of positive pressure breathing on gas distribution in normal lungs were conducted by Froese and Bryan. In their studies, these investigators evaluated the movement of the diaphragm in spontaneously breathing, anesthetized adult volunteers. During spontaneous ventilation in the supine position, the greatest displacement of the diaphragm occurs in the dependent region, near the back ([Fig. 17.6A](#fig-17-6)). The dependent lung areas receive a higher portion of ventilation and perfusion (i.e., V̇/Q̇ is best matched). When anesthesia is administered but spontaneous ventilation is still present, the diaphragm shifts its movement cephalad (toward the head). The effect of this shift is most pronounced in the dependent (dorsal) regions of the lung, the reverse of normal (see [Fig. 17.6B](#fig-17-6)). With anesthesia and the administration of paralytic agents, the contraction of the diaphragm is blocked. When positive pressure ventilation is provided, the diaphragm is most displaced in the nondependent regions of the lung (see [Fig. 17.6C](#fig-17-6)). The diaphragm becomes less compliant than the chest wall adjacent to the anterior part of the lungs in the supine patient. This alters the V̇/Q̇ ratios by directing the greatest amount of gas flow to the nondependent lung regions, taking the path of least resistance. Unfortunately, this is also the area with the least blood flow.
+
+During positive pressure ventilation, alveolar collapse is suspected to most likely occur in the dependent areas with absence of spontaneous diaphragmatic movement. These are also the areas that receive the most blood flow, resulting in increased mismatching of V̇/Q̇ and increased dead space ventilation.
+
+<span id="fig-17-6"></span>![](_page_7_Picture_7.jpeg)
+
+**FIGURE 17.6** The *solid line* in each figure represents the normal position of the diaphragm. The *dotted lines* represent the position of the diaphragm as it is altered during anesthesia and positive pressure ventilation. (A) Normal spontaneous breathing in a supine patient with diaphragm movement primarily in the dependent area of the lungs. (B) During anesthesia with spontaneous ventilation maintained, the diaphragm shifts cephalad. The shift is most pronounced in the dependent regions. (C) Anesthesia is sufficient to block spontaneous breaths (paralysis). Positive pressure ventilation displaces the diaphragm to the nondependent regions of the lung.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Ventilation-to-Lung Periphery</summary><div class="details-content">
+
+Experimental studies have shown that during spontaneous ventilation, the distribution of gas favors the dependent lung areas and also appears to favor the periphery of the lung closest to the moving pleural surfaces. The peripheral areas receive more ventilation than the central areas. However, during a positive pressure breath with passive inflation of the lung (paralysis), the central, upper airway, or peribronchial portions of the lung are preferentially filled with air. This may be another mechanism by which mismatching occurs during positive pressure ventilation. If spontaneous breathing can be preserved when possible, these changes in V̇/Q̇ associated with mechanical ventilation may be reduced. Thus ventilator modes that preserve spontaneous breathing may be beneficial (e.g., pressure support ventilation [PSV]).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Increase in Dead Space</summary><div class="details-content">
+
+Positive pressure ventilation increases the size of the conductive airways, which in turn increases the amount of dead space ventilation. Additionally, if normal alveoli are overexpanded during positive pressure ventilation and compression of pulmonary vessels results, alveolar dead space will also increase. On the other hand, if an increased V<sub>T</sub> is delivered and positive pressure ventilation improves ventilation distribution with respect to perfusion, positive pressure ventilation will decrease the amount of dead space ventilation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Redistribution of Pulmonary Blood Flow</summary><div class="details-content">
+
+Normal pulmonary blood flow favors the gravity-dependent areas and the central, or core, areas of the lungs. However, during positive pressure ventilation, particularly when PEEP is administered, cardiac output may decrease and pulmonary perfusion redistributes to the lung periphery rather than to the center area (i.e., as if the lung had been exposed to a centrifugal force). The clinical significance of this is unknown, but it may influence V̇/Q̇ matching.
+
+The increased volume during a positive pressure breath and PEEP squeezes the blood out of nondependent zones, particularly in areas of normal lung. This further contributes to V̇/Q̇ mismatching and physiological dead space by sending more blood into dependent areas, where ventilation is now lower, or into disease-affected areas of the lung, where lung volumes are not substantially increased. This can lead to increased shunting and decreased PₐO₂.
+
+Conversely, improvement in V̇/Q̇ matching occurs when PEEP is applied to patients who have refractory hypoxemia resulting from a decreased FRC and increased shunting (i.e., ARDS). PEEP reduces intrapulmonary shunting, resulting in an increase in PₐO₂. This increase in PₐO₂ implies improvement in V̇/Q̇ matching. A classic and predictable response of gas distribution and pulmonary perfusion during positive pressure ventilation apparently does not exist.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Effects of Positive Pressure on Pulmonary Vascular Resistance</summary><div class="details-content">
+
+As described previously, pulmonary perfusion may be compromised during positive pressure ventilation, especially when high levels of PEEP are also applied. Increased airway and alveolar pressures can lead to thinning and compression of pulmonary capillaries, decreased perfusion, and increased pulmonary vascular resistance (PVR) ([Fig. 17.7](#fig-17-7)). Fortunately, if expiration is prolonged and unimpeded (i.e., PEEP is not applied), the decreased pulmonary perfusion may be offset by normal flow back into the thorax during expiration with no net effect on PVR.
+
+In most patients, severe hypoxia leads to increased PVR. This is caused by constriction of the pulmonary vessels and subsequent pulmonary hypertension. When mechanical ventilation improves oxygenation by opening these capillary beds, pulmonary perfusion and PVR may actually improve.
+
+At low lung volumes in which FRC is decreased, the addition of PEEP can potentially open collapsed alveoli, recruiting intraparenchymal (e.g., corner) vessels. This improves the V̇/Q̇ relations of the lungs. Thus positive pressure ventilation has no clear effect with or without PEEP on PVR. Sometimes positive pressure reduces PVR, whereas at other times it increases PVR.
+
+<span id="fig-17-7"></span>![](_page_8_Picture_3.jpeg)
+
+**FIGURE 17.7** The *shaded area* represents a normal alveolar volume. Overfilling of an alveolus results in thinning and compression of the pulmonary capillary. Pulmonary vascular resistance is increased.
 
 </div></details>
 
@@ -402,45 +373,625 @@ Another problem that is often encountered with patients receiving positive press
 
 <details class="med-details"><summary>
 
-## NUTRITIONAL COMPLICATIONS DURING MECHANICAL VENTILATION</summary><div class="details-content">
+## RESPIRATORY AND METABOLIC ACID-BASE STATUS IN MECHANICAL VENTILATION</summary><div class="details-content">
 
-The nutritional status of patients must be carefully monitored and maintained if they are to recover from their illness and be weaned from mechanical ventilation. Both medical and surgical patients are subject to malnutrition during serious illness because of inadequate intake of food and increased metabolic rate associated with fever and wound healing (Key Point 16.5). Many patients who develop respiratory failure already exhibit some form of malnutrition before admission to the hospital, usually caused by a preexisting chronic disease. Furthermore, patients receiving ventilatory support are generally unable to take oral feedings because of the endotracheal tube. Unless special routes for nutritional support are provided, such as nasogastric feedings or intravenous hyperalimentation, these patients will inevitably develop severe malnutrition.
-
-Nutritional depletion can cause several deleterious effects on patients (Box 16.2). Malnutrition alters a patient’s ability to respond effectively to infection, impairs wound healing, and severely reduces the ability to maintain spontaneous ventilation from weakened respiratory muscles. It is important to understand that overfeeding can also lead to problems by increasing oxygen consumption (V̇O<sub>2</sub>), carbon dioxide production (V̇CO<sub>2</sub>), and the need for increased V̇<sub>E</sub>, resulting in an increase in the WOB. Feedings must be of the appropriate type and in the appropriate amount.
+The primary goal of mechanical ventilation is to maintain acceptable arterial blood gas (ABG) values in patients with compromised ventilatory function. Failure to achieve this goal occurs when the ventilator is not optimally adjusted or when adverse effects occur. As previously noted, ventilatory problems associated with positive pressure ventilation can result in hypoventilation and hyperventilation. Patients may additionally demonstrate metabolic acid-base imbalances that can seriously affect their ventilatory management.
 
 <details class="med-details"><summary>
 
-#### BOX 16.2: Effects of Malnourishment on Mechanically Ventilated Patients</summary><div class="details-content">
+### Hypoventilation</summary><div class="details-content">
 
-- Reduced response to hypoxia and hypercapnia
-- Muscle atrophy from prolonged bed rest and lack of use; includes respiratory muscles, especially if the patient is apneic and on controlled ventilation
-- Muscle wasting, including the respiratory muscles, from lack of nutrition
-- Respiratory tract infections from impaired cell immunity and reduced or altered macrophage activity
-- Decreased surfactant production and development of atelectasis
-- Reduced ability of the pulmonary epithelium to replicate, which slows healing of damaged tissue
-- Lower serum albumin levels, which affect colloid oncotic pressures and can contribute to pulmonary edema formation (colloid oncotic pressures <11 mm Hg with normal left atrial pressure)
+Acute hypoventilation can occur in patients receiving ventilatory support if adequate alveolar ventilation is not achieved. Hypoventilation will result in an elevated PₐCO₂ (i.e., hypercapnia) and an acidotic pH. Evaluation of clinical signs and symptoms, as well as an ABG analysis, will lead to recognition of the problem.
+
+Acidosis causes a right shift in the oxyhemoglobin dissociation curve and reduces the ability of hemoglobin to bind and carry O₂ in the lung. Additionally, in the absence of supplemental O₂ delivery, an increase in PₐCO₂ will lead to proportionate decreases in PₐO₂ and contribute to hypoxemia. If the patient already had hypoxemia, these factors may further reduce oxygenation. On the other hand, a right shift of the curve facilitates unloading of O₂ at the tissue level.
+
+Rapidly rising PₐCO₂ levels and falling pH values can lead to serious problems, including coma. Elevated plasma hydrogen ion levels can contribute to high plasma potassium levels (hyperkalemia), which can affect cardiac function and lead to cardiac dysrhythmias (Box 17.4). Hypercapnia also increases cerebral perfusion and can lead to increased intracranial pressure (ICP), which can be detrimental to patients with cerebral trauma, cerebral hemorrhage, or similar disorders.
+
+On the other hand, in patients with ARDS, ventilation may be difficult to maintain without causing VILI. In these situations, permissive hypercapnia may be appropriate. In addition, hypercapnia may reduce the release of inflammatory mediators (see Chapter 13). Ultimately the decision to allow respiratory acidosis to persist must be carefully evaluated on the basis of the patient's condition.
+
+The kidneys can normally compensate for respiratory acidosis within 18 to 36 hours. Obviously, it is desirable for the problem to be corrected by increasing alveolar ventilation rather than waiting for renal compensation. Increasing ventilation can be accomplished by increasing the V<sub>T</sub> or mandatory rate.
+
+> **BOX 17.4 Clinical and Electrocardiographic (ECG) Changes Associated With Respiratory Acidosis, Hypoxia, and Hyperkalemia**  
+> **Clinical Signs and Symptoms**  
+> - Hypertension (mild to moderate acidosis)  
+> - Hypotension (severe acidosis)  
+> - Anxiety  
+> - Agitation  
+> - "Fighting the ventilator" (ventilator asynchrony)  
+> - Dyspnea  
+> - Attempts to increase minute ventilation  
+> - Headaches  
+> - Hot, moist skin (associated with increased PₐCO₂)  
+> **ECG Changes Associated With Hyperkalemia**  
+> - Elevated and peaked T waves  
+> - ST-segment depression  
+> - Widened QRS complex  
+> - Long P-R interval
+
+When respiratory acidosis is present, patients receiving controlled mechanical ventilation may try to override the ventilator and take in a breath. They may not be able to trigger the machine or receive adequate flow and will appear to be fighting the ventilator. Increasing the sensitivity or flow will allow the patient to trigger the ventilator and receive an adequate breath. (See the discussion of ventilator asynchrony in this chapter.)
 
 </div></details>
 
 <details class="med-details"><summary>
 
-#### BOX 16.3: Assessment of Nutritional Status</summary><div class="details-content">
+### Hyperventilation</summary><div class="details-content">
 
-- Body composition
-  - Actual versus predicted body weight
-  - Anthropometric measurements (limb circumference and skin fold measurements)
-  - Fat versus lean muscle mass
-  - Protein deficiencies
-  - Creatinine/height index (24-hour urine creatinine excreted to patient’s height in centimeters) < 6.0 considered critical protein deficiency
-- Visceral protein malnutrition
-  - Serum albumin <3.5 g/dL
-  - Transferrin <300 mg
-- Immunodeficiency
-  - Decreased skin test response to known recall antigens
+Hyperventilation results in a lower than normal PₐCO₂ and a rise in pH. Patient-induced hyperventilation is often associated with hypoxemia, pain and anxiety syndromes, circulatory failure, and airway inflammation. Ventilator-induced hyperventilation is generally caused by inappropriate ventilator settings. Alkalosis causes a left shift in the O₂ dissociation curve, which enhances the ability of hemoglobin to pick up O₂ in the lungs but makes it less available at the tissue level (i.e., the *Haldane effect*). Reduced hydrogen ion concentrations in the blood (i.e., arterial pH) are often accompanied by hypokalemia (low potassium levels), which can lead to cardiac arrhythmias (Box 17.5).
+
+Sustained severe hypocapnia can lead to tetany and also reduces cerebral perfusion, which may contribute to increased cerebral hypoxia. In patients with increased ICP and cerebral edema, however, this reduced perfusion may be beneficial in reducing acute abnormally high ICPs that cannot be controlled by other methods (see Chapter 7).
+
+Hyperventilation in mechanically ventilated patients reduces the drive to breathe and leads to apnea. This has the advantage of preventing the patient from trying to "fight" the ventilator or experiencing feelings of dyspnea. The disadvantage is that weaning becomes more difficult if the respiratory alkalosis persists for a prolonged period. With extended periods of hyperventilation, when respiratory muscle activity is absent, respiratory muscle atrophy can occur. In addition, the central chemoreceptors, which respond to changes in PCO₂ and pH, will have an altered function. When respiratory alkalosis occurs, carbon dioxide (CO₂) diffuses out of the cerebrospinal fluid (CSF) because of the low blood CO₂ level. The hydrogen ion concentration in the CSF decreases, and respirations are not stimulated. As long as this condition persists, apnea will remain until the PₐO₂ drops low enough to stimulate the peripheral chemoreceptors.
+
+If chronic hyperventilation and respiratory alkalosis are sustained for an extended period (e.g., typically 18–36 hours), renal compensation will occur. The kidneys remove bicarbonate from the plasma, and it is excreted in the urine. Simultaneously, bicarbonate is actively transported out of the CSF so that CSF balances with the plasma bicarbonate. The pH is restored to normal in both the plasma and CSF. The bicarbonate and PCO₂ levels will be lower than normal.
+
+It is important to note that weaning becomes more difficult when a patient has experienced prolonged hyperventilation. As the respiratory rate of the ventilator is reduced, the blood PCO₂ increases and pH falls. The patient tries to maintain a high alveolar ventilation to keep the PCO₂ at the level at which it has been equilibrated. The patient may become fatigued and unable to maintain the high levels of alveolar ventilation. Consequently, the PₐCO₂ continues to rise. The CO₂ diffuses into the CSF, where the pH will fall. This stimulates the central receptors to increase ventilation, but the patient may not be able to increase ventilation. Thus weaning is difficult until the patient's normal bicarbonate and PₐCO₂ levels are reestablished and the pH level returns to the patient's normal value (Case Study 17.3).
+
+> **BOX 17.5 Clinical and Electrocardiographic (ECG) Changes Associated With Respiratory Alkalosis and Hypokalemia**  
+> **Clinical Signs and Symptoms**  
+> - Cool skin (decreased PₐCO₂)  
+> - Twitching  
+> - Tetany  
+> **ECG Changes Associated With Hypokalemia**  
+> - Prolonged Q-T interval  
+> - Low, rounded T waves  
+> - Depressed ST segment  
+> - Inverted T waves  
+> - Inverted P waves  
+> - Atrioventricular block  
+> - Premature ventricular contractions  
+> - Paroxysmal tachycardia  
+> - Atrial flutter
+
+> **Case Study 17.3 Appropriate Ventilator Changes**  
+> A 60-kg female patient has been maintained on mechanical ventilation for 7 days. The patient's normal baseline ABG values on room air are pH of 7.38, PₐCO₂ of 51 mm Hg, PₐO₂ of 58 mm Hg, and HCO₃⁻ of 29 mEq/L. Current ABGs on volume-controlled intermittent mandatory ventilation (VC-IMV) at a mandatory rate of 8 breaths/min, V<sub>T</sub> of 600 mL, and F<sub>I</sub>O₂ of 0.25 at a pH of 7.41, PₐCO₂ of 40 mm Hg, PₐO₂ of 67 mm Hg, and HCO₃⁻ of 24 mEq/L. The patient is not breathing spontaneously. The VC-IMV mandatory rate is reduced to 4 breaths/min. The patient's spontaneous rate increases to 28 breaths/min, with a spontaneous V<sub>T</sub> of 250 mL; SₚO₂ drops from 95% to 91%. The patient appears anxious. What could be the source of this patient's problem?
 
 </div></details>
 
-Assessment of a patient’s resting energy expenditure provides information about a patient’s daily caloric requirements. Box 16.3 lists parameters for assessing nutritional status. Once these have been evaluated, a correct feeding schedule can be instituted. Resting energy expenditure can be calculated using standard (e.g., Harris-Benedict) equations or measured using indirect calorimetry (see Chapter 10 for a discussion of indirect calorimetry). Indirect calorimetry involves measuring inspired and expired volumes, V̇O<sub>2</sub>, and V̇CO<sub>2</sub>. Many current-generation intensive care unit ventilators have incorporated the technology for obtaining indirect calorimetry measurements into their designs. Nutritional supplements should always be delivered by the most natural route possible. Oral feedings are the first choice, followed by nasogastric feedings and catheters introduced into the GI tract. If enteral (through the gut) feedings are not possible, parenteral (through a vein) nutrition is provided. Intravenous feedings can be administered via a peripheral vein or a central vein. Feedings should be given in adequate doses to restore the nutritional status of the patient without overfeeding. One final note: Intravenous feedings are a potential vehicle for transmitting nosocomial infections and should therefore be carefully handled.
+<details class="med-details"><summary>
+
+### Metabolic Acid-Base Imbalances and Mechanical Ventilation</summary><div class="details-content">
+
+When a patient receives adequate alveolar ventilation, PₐCO₂ and pH levels can be expected to be near that patient's normal (i.e., eucapnic breathing). If the PₐCO₂ is near the patient's normal but the pH is not, the cause is probably a metabolic abnormality that should be corrected. Severe metabolic acidosis may require the administration of bicarbonate, although its use is controversial. Intravenous administration of bicarbonate is indicated in the presence of life-threatening hyperkalemia either caused by or associated with metabolic acidosis. It is also indicated in cases of salicylate toxicity. When administered, bicarbonate is given slowly and not by bolus. An estimate of the bicarbonate replacement required can be determined by multiplying one third of the patient's body weight in kilograms by the base excess (BE). Generally, only half of the deficit should be corrected initially (this allows for the patient's compensatory mechanisms to contribute to the correction), so the product is divided by two:
+
+$$HCO_3^{-required} = \frac{(1/3 \times \text{kg} \times BE)}{2}$$
+
+If a patient is not receiving ventilation or cannot increase spontaneous ventilation, the additional bicarbonate will combine with plasma hydrogen ions and increase CO₂ production. If the CO₂ is retained, the acidosis may increase.
+
+Metabolic alkalosis is most often associated with loss of acid from the gastrointestinal tract (e.g., vomiting) or through the kidneys (e.g., diuretic administration). It may also result from excess base that is gained by either oral or parenteral bicarbonate administration or administration of lactate, acetate, or citrate. Normally the body will correct a mild to moderate metabolic alkalosis if the cause is removed. On the other hand, if the alkalosis is severe, prompt action is necessary. Administration of carbonic anhydrase inhibitors, acid infusion (ammonium chloride or potassium chloride), or low-sodium dialysis may be necessary. [Table 17.1](#table-17-1) provides a summary of abnormalities in blood chemistry that are associated with metabolic acidosis and alkalosis.
+
+<details class="med-details"><summary>
+
+<span id="table-17-1"></span>**TABLE 17.1** Blood Chemistry in Metabolic Acidosis and Alkalosis</summary><div class="details-content">
+
+|                     | Serum Sodium | Serum Chloride | Serum Potassium | Arterial Blood pH | PₐCO₂ |
+|---------------------|--------------|----------------|-----------------|--------------------|-----------------------|
+| Alkalosis           | → or ↓       | ↓              | → or ↓          | ↑                  | → or ↑                |
+| Acidosis            | → or ↑       | ↑              | → or ↑          | ↓                  | ↓                     |
+
+↑, Increase; ↓, decrease; →, no change.
+
+Normal values: sodium, 135–145 mEq/L; chloride, 98–106 mEq/L; potassium, 3.5–5.0 mEq/L; pH, 7.35–7.45; PₐCO₂, 35–45 mm Hg.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## AIR TRAPPING (AUTO-PEEP)</summary><div class="details-content">
+
+When airway resistance is increased in spontaneously breathing individuals, both inspiratory and expiratory flows are impeded. Severe airflow obstruction increases the time needed for exhalation. This can occur in patients with severe chronic obstructive pulmonary disease (COPD), status asthmaticus, or similar problems. The loss of structural quality of the conductive airways results in small or medium airways closing off or collapsing during exhalation, increasing FRC. Increased airway resistance reduces the patient's ability to exhale in a normal amount of time (increased time constants).
+
+When air trapping occurs, particularly with positive pressure ventilation, the increased alveolar pressure is transmitted to the intrapleural space, creating an undesired PEEP effect. This reduces venous return and cardiac output. Artificially high intravascular pressures result, such as an increase in pulmonary artery occlusion pressure, which normally reflects left heart function. When this occurs during positive pressure ventilation, it is commonly referred to as *auto-PEEP*.
+
+Auto-PEEP is defined as an unintentional PEEP that occurs during mechanical ventilation when a new inspiratory breath begins before expiratory flow has ended. It is an insidious complication that may not be apparent unless the practitioner is looking for it. Auto-PEEP differs from operator-set PEEP (applied or extrinsic PEEP [PEEP<sub>E</sub>]), which is a selected value at the end of expiration. Total PEEP is the sum of auto-PEEP and PEEP<sub>E</sub> and is a measure of the total pressure in the lungs at end exhalation ([Fig. 17.8](#fig-17-8)). Auto-PEEP is also referred to as occult PEEP, inadvertent PEEP, breath stacking, and intrinsic PEEP.
+
+<span id="fig-17-8"></span>![](_page_10_Picture_14.jpeg)
+
+**FIGURE 17.8** Alveolar filling. The *smallest circle* represents resting functional residual capacity (FRC) under normal conditions. The *second circle* represents the addition of extrinsic positive end-expiratory pressure (PEEP). The *largest circle* shows the resting lung volume with auto-PEEP also present.
+
+Because air trapping is not typically measured or detectable, its occurrence is an even greater threat. When air trapping occurs in spontaneously breathing, intubated patients, the inspiratory WOB increases, making it more difficult for them to inhale. Auto-PEEP can lead to barotrauma by trapping large volumes of air in the lung at the end of exhalation. Alveolar overinflation can be life threatening in patients with acute, severe asthma who are receiving ventilatory support. The risk for tension pneumothorax and circulatory depression is increased in this group of patients.
+
+<details class="med-details"><summary>
+
+### How Auto-PEEP Occurs</summary><div class="details-content">
+
+An expiratory time (T<sub>E</sub>) of at least three to four time constants is required for the lungs to empty 98% of the inspired volume. When T<sub>E</sub> is decreased, complete emptying of the lungs to their normal resting lung volume (FRC) is prevented. For example, suppose T<sub>E</sub> is shortened on a ventilated patient so that exhalation is incomplete. For a few breaths, pressure builds and exhaled volume is lower than delivered volume. As a progressively higher FRC is produced, tissue recoil increases, so the force (pressure) pushing air out of the lungs increases. This higher pressure helps splint the airways open (diameter increases). The airway resistance to exhaled flow decreases. Within a few breaths the lung volumes stabilize at an elevated FRC. At this point the ventilator V<sub>T</sub> delivered can also be exhaled ([Fig. 17.9](#fig-17-9)). The result, however, is a higher FRC than normal and higher alveolar pressures at end expiration (auto-PEEP without lung distention).
+
+<span id="fig-17-9"></span>![](_page_11_Figure_3.jpeg)
+
+**FIGURE 17.9** Volume of trapped air above the functional residual capacity (FRC) as a result of auto—positive end-expiratory pressure (PEEP). The gradual rise in volume shows the progressive trapping of air in the lungs. (Redrawn from Tuxen DV: Detrimental effects of positive end-expiratory pressure during controlled mechanical ventilation of patients with severe airflow obstruction, *Am Rev Respir Dis* 140:145, 1989.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Physiological Factors That Lead to Auto-PEEP</summary><div class="details-content">
+
+Auto-PEEP occurs in the following three distinct forms:
+
+- 1. Auto-PEEP can occur because the expiratory muscles are actively contracting during exhalation. This raises alveolar pressures at end exhalation without increasing the volume at end exhalation (auto-PEEP without lung distention).
+- 2. Auto-PEEP can occur in patients who do *not* have airway obstruction. In patients with normal airway resistance, air trapping can occur with the presence of high minute ventilation, short expiratory times, and mechanical devices that increase expiratory resistance (e.g., small ETs, high-resistance expiratory valves, certain PEEP devices). Total expiratory resistance across the lungs, ET, and exhalation line and valve is normally less than 4 cm H₂O/L/s.
+- 3. Auto-PEEP also occurs in patients with airflow obstruction who tend to have airway collapse during exhalation and flow limitation during normal tidal breathing. In these individuals, an increased expiratory effort only increases the alveolar pressure and does not improve expiratory flow.
+
+The last two result in dynamic hyperinflation, or the failure of lung volume to return to passive FRC during exhalation by the time inspiration again begins. The level of auto-PEEP cannot be accurately predicted. The following factors increase the risk for auto-PEEP:
+
+- Chronic obstructive airway disease
+- High minute ventilation (more than 10–20 L/min) in patients on ventilation
+- Age older than 60 years
+- Increased airway resistance (e.g., small ET size, bronchospasm, increased secretions, mucosal edema)
+- Increased lung compliance (longer time constants)
+- High respiratory frequency
+- High inspiratory-to-expiratory ratios, that is short T<sub>E</sub> (e.g., 1:1 and 2:1); low inspiratory flow
+- Increased V<sub>T</sub>, particularly with airflow obstruction
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Identifying and Measuring Auto-PEEP</summary><div class="details-content">
+
+As discussed in Chapter 9, the easiest way to detect air trapping is to evaluate the flow-time curve on the ventilator's graphic display. If the expiratory flow does not return to zero before the next inspiration begins, auto-PEEP is present ([Fig. 17.10](#fig-17-10)). Air trapping can also be detected by using flow-volume loops.
+
+Air trapping can be identified during volume ventilation by observing changes in pressure and volume. Peak and plateau pressures will increase, and a transient reduction in exhaled volumes will occur. Physical examination reveals a reduction in breath sounds and an increase in resonance on percussion of the chest wall. Chest radiographs may show increased radiolucency.
+
+<span id="fig-17-10"></span>![](_page_11_Figure_20.jpeg)
+
+**FIGURE 17.10** Flow-time waveform showing a normal expiratory flow pattern during exhalation (dotted line) compared with a patient with air trapping (auto-PEEP) where flow does not return to zero during exhalation (solid line). PEEP, Positive end-expiratory pressure. (From Dhand R: Ventilator graphics and respiratory mechanics in the patient with obstructive lung disease [conference proceedings], *Respir Care* 50:246–261, 2005.)
+
+The amount of auto-PEEP present in the patient's lungs at end exhalation is normally not registered on the ventilator manometer. During exhalation, the expiratory valve is usually open to atmosphere, assuming no extrinsic PEEP is being used ([Fig. 17.11](#fig-17-11)). Pressure in the circuit is zero because the manometer measures atmospheric pressure, but air may still be actively flowing out of the patient's lungs. When inspiration triggers, some of this volume remains in the patient's lungs. This adds to normal FRC. However, this pressure remains undetected.
+
+Many intensive care unit (ICU) ventilators have end-expiratory pause buttons for measuring auto-PEEP. There has been some debate regarding the accuracy of this method of measuring auto-PEEP. This technique can provide a reference for the presence of auto-PEEP.
+
+Another method for measuring auto-PEEP uses a Braschi valve ([Fig. 17.12](#fig-17-12)). The Braschi valve, which is a T-piece, or Briggs, adapter, is positioned inline on the inspiratory side of the patient circuit. A manometer is placed near the patient to measure airway pressure. Part of the T-piece has an opening that is normally capped but is uncapped during auto-PEEP measurement. A one-way valve is another part of the T-piece and allows flow to go from the ventilator to the patient during normal ventilation.
+
+To measure auto-PEEP, the cap is removed during exhalation. When the next breath begins, inspiratory flow from the ventilator is diverted out the uncapped hole and to the room. The expiratory valve is closed during inspiration (normal function of the ventilator during inspiration). The patient continues to exhale, but the expiratory valve is closed. As a result, the pressure equilibrates between the patient's lungs and the ventilator circuit. The pressure can then be read on the manometer. This procedure may be more accurate than occluding the exhalation valve because pressure is measured closer to the patient. One disadvantage is that the measurement is made only during the length of inspiration. If the pressure does not have enough time to equilibrate, the pressure reading may be underestimated.
+
+Detecting auto-PEEP by measuring end-expiratory pressure requires a quiet, relaxed patient on controlled ventilation. The patient cannot be assisting or breathing spontaneously because an actively breathing patient may forcibly inhale or exhale during measurement and alter the results. Whether the patient should be sedated or paralyzed to measure auto-PEEP depends on the patient's pulmonary pathophysiology and the physician's assessment of the patient's condition. In addition, there should be no circuit leaks when making the auto-PEEP measurement.
+
+<span id="fig-17-11"></span>![](_page_12_Figure_3.jpeg)
+
+**FIGURE 17.11** A mechanical ventilator connected to a lung under normal conditions and also when auto-PEEP is present. (A) Ventilator system during normal exhalation, with no air trapping and no auto-PEEP. The manometer reading is zero. (B) During exhalation with auto-PEEP present, the manometer still reads zero (ambient) because the exhalation valve is open to room air. (C) When the exhalation valve is closed and inspiratory flow stopped at end exhalation and before the next breath, a manometer will be able to read the approximate auto-PEEP level in the lungs and circuit. *PEEP*, Positive end-expiratory pressure. (Redrawn from Pepe PE, Marini JJ: Occult positive end-expiratory pressure in mechanically ventilated patients with airflow obstruction, *Am Rev Respir Dis* 126:166, 1982.)
+
+<span id="fig-17-12"></span>![](_page_12_Picture_8.jpeg)
+
+**FIGURE 17.12** Braschi valve used to measure auto—positive end-expiratory pressure. (See text for explanation.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Effect on Ventilator Function</summary><div class="details-content">
+
+The presence of auto-PEEP will actually slow the beginning of gas flow during inspiration. If alveolar pressure is higher than ambient at the end of exhalation (auto-PEEP), flow delivery will not start until mouth pressure exceeds this value. The presence of auto-PEEP will also make it more difficult for spontaneously breathing patients to trigger a ventilator breath even when sensitivity settings are appropriate (Case Study 17.4). (See Chapter 7 for a detailed discussion of how to adjust ventilator settings to minimize the effects of auto-PEEP.)
+
+> **Case Study 17.4 Difficulty Triggering in a Patient With Chronic Obstructive Pulmonary Disease (COPD)**  
+> A patient with COPD is receiving volume-controlled continuous mandatory ventilation (VC-CMV) mode. The set tidal volume (V<sub>T</sub>) is increased from 500 to 700 mL, and the rate is increased from 10 to 18 breaths/min. The respiratory therapist notices a progressive rise in peak pressures; V<sub>T</sub>s transiently are less than 650 mL after the change. Eventually the exhaled V<sub>T</sub> reads 650 mL. Baseline pressure remains at zero. The patient appears unable to trigger a breath and is using accessory muscles to trigger the breath. What is the most likely cause of this problem?
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Measuring Static Compliance With Auto-PEEP</summary><div class="details-content">
+
+Static compliance values are normally calculated as V<sub>T</sub>/(P<sub>plat</sub> – PEEP). For this calculation to be accurate, the PEEP value must include the set (applied) PEEP and any auto-PEEP present.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Methods of Reducing Auto-PEEP</summary><div class="details-content">
+
+To reduce auto-PEEP, higher inspiratory gas flows should be used to shorten inspiratory time and allow a longer time for exhalation (T<sub>E</sub>). Longer T<sub>E</sub> can also be accomplished by using smaller V<sub>T</sub>s and decreased respiratory rates. Use of low-resistance exhalation valves, changing partially obstructed expiratory filters, and using large ETs may also reduce air trapping.
+
+Sometimes severe airway obstruction or high minute ventilation demands make reduction of auto-PEEP impossible. Some clinicians recommend hypoventilation (permissive hypercapnia) under these circumstances (see Chapter 12). This may actually be preferable to the complications that occur with auto-PEEP. Another alternative is to use methods of ventilation that allow as much spontaneous ventilation to occur as the patient can tolerate. Intermittent mandatory ventilation (IMV), pressure support, continuous positive airway pressure, and airway pressure release ventilation may be beneficial in these situations.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## HAZARDS OF OXYGEN THERAPY WITH MECHANICAL VENTILATION</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Oxygen Toxicity and the Lower Limits of Hypoxemia</summary><div class="details-content">
+
+It is generally agreed that breathing enriched O₂ mixtures for an extended period increases the risk for pulmonary complications. Indeed, adults breathing a gas mixture containing an F<sub>I</sub>O₂ of more than 0.6 for prolonged periods (>48 hours), or maintaining a PₐO₂ of more than 80 mm Hg in a newborn or premature infant, can lead to pulmonary O₂ toxicity. Adults can generally breathe an F<sub>I</sub>O₂ of up to 0.5 for extended periods without significant lung damage.
+
+The use of 100% O₂ can induce pulmonary changes in humans in as little as 6 hours. Pulmonary changes associated with high O₂ concentrations are listed in Box 17.6. Exposures for more than 72 hours can result in the development of a pattern that is similar to ARDS. However, resistance to O₂ toxicity varies. In fact, studies suggest normal lung tissues may be more susceptible to O₂ damage than diseased tissue.
+
+The chest radiographs of most patients with acute respiratory failure are abnormal because of their underlying lung pathology. As a result, assessment of the onset of O₂ toxicity is often difficult. If an F<sub>I</sub>O₂ of greater than 0.6 is required, other techniques such as PEEP should be instituted (see Chapter 13). The improvement in oxygenation that occurs when PEEP is initiated often allows the F<sub>I</sub>O₂ to be reduced. Prone positioning may also be of value (see Chapter 13).
+
+The lower limits of permissive hypoxemia remain controversial. In general, most clinicians agree that a target PₐO₂ of 60 mm Hg and an SₚO₂ of 90% are acceptable lower limits.
+
+> **BOX 17.6 Pulmonary Changes Associated With Oxygen Toxicity**  
+> **Decreased**  
+> - Tracheal mucus flow  
+> - Macrophage activity  
+> - Vital capacity  
+> - Surfactant production  
+> - Compliance  
+> - Diffusing capacity  
+> - Pulmonary capillary blood volume  
+> **Other Changes**  
+> - Capillary injury  
+> - Platelet aggregation in the pulmonary vasculature  
+> - Endothelial cell damage and accompanying increased lung water  
+> - Progressive formation of absorption atelectasis  
+> - Increased P<sub>(A–a)</sub>O₂
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Absorption Atelectasis</summary><div class="details-content">
+
+High O₂ concentrations (>70% O₂) lead to rapid absorption atelectasis, particularly in hypoventilated lung units. In one study, 40% O₂ or 100% O₂ was administered after a recruitment maneuver had been performed on patients undergoing general anesthesia. In lungs receiving ventilation with 40% O₂, lung expansion was sustained. In patients on ventilation with 100% O₂, lung collapse reappeared within minutes. Furthermore, absorption atelectasis has been shown to increase the level of intrapulmonary shunting. In patients on mechanical ventilation, this is always a concern when providing ventilation for patients with low V<sub>T</sub>s.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Depression of Ventilation</summary><div class="details-content">
+
+In patients with chronic CO₂ retention (e.g., COPD), breathing high O₂ levels can increase PₐCO₂. This is partly caused by the Haldane effect, which increases the unloading of CO₂ from the hemoglobin. It is also caused by an improvement in blood flow to lung units that are not well ventilated. As increased O₂ reduces pulmonary vasoconstriction to these units, CO₂ may increase. Less likely but still possible is a suppression of the hypoxic drive to breathe. However, in mechanically ventilated COPD patients, this should not be a problem if adequate alveolar ventilation is maintained.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## INCREASED WORK OF BREATHING</summary><div class="details-content">
+
+Increased WOB is another common complication associated with artificial airways and mechanical ventilation systems. Fatigue can result from increased WOB, which can be both intrinsic and extrinsic.
+
+<details class="med-details"><summary>
+
+### System-Imposed Work of Breathing</summary><div class="details-content">
+
+Until IMV became a popular mode of ventilation in the 1970s, WOB was not a major concern for clinicians. Most clinicians assumed that the ventilator performed most, if not all, of the WOB when a patient was receiving continuous mandatory ventilation (CMV). It is now recognized that WOB during volume-controlled IMV (VC-IMV) can be greater than that required for other modes.
+
+During VC-IMV with PSV, when the patient's effort is reduced (e.g., sedation, sleep, high level of assist), the time interval between the onset of the patient's effort and the final ventilator triggering of inspiration increases. In addition, as the mandatory rate is reduced, the patient's inspiratory effort and respiratory rate increase to avoid a decrease in V̇<sub>E</sub>. The resulting increased drive to breathe during a spontaneous pressure support breath has been found to carry over into the mandatory breath. Thus these patients have patient-ventilator difficulty altering their respiratory effort between breaths that are supported and those that are unsupported.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Work of Breathing During Weaning</summary><div class="details-content">
+
+When a patient is being weaned from mechanical ventilation, the amount of work the patient must perform increases. With a reduction of ventilatory support, the patient's WOB required to move gas through the ventilator circuit and the ET can become too high. A high spontaneous respiratory rate and use of accessory muscles typically indicate increased WOB and may suggest the presence of auto-PEEP. Patients will also typically report feelings of dyspnea when questioned.
+
+**Key Point 17.3** Normal inspiratory work of breathing is approximately 0.5 J/L (0.05 kg-m/L).
+
+When WOB is high (>1.5 J/L or 15 J/L/min), fatigue is more likely to occur. Weaning can be difficult in this circumstance, if not impossible.
+
+Methods to reduce WOB should be pursued in these situations. Imposed WOB can be almost eliminated or even reduced with elimination of auto-PEEP and the use of low levels of PSV (approximately 10 cm H₂O) or PSV with continuous positive airway pressure. See Chapter 20 for a detailed discussion of ventilator weaning and discontinuation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Measuring Work of Breathing</summary><div class="details-content">
+
+Chapter 10 reviewed various methods for evaluating WOB in patients receiving mechanical ventilation. As previously discussed, measurements of WOB can be difficult to obtain. Measuring esophageal pressure, airway pressure, and flow provides a way of estimating the amount of work done by the ventilator and the patient; however, esophageal monitoring is rarely performed in a patient on mechanical ventilation. Most ICU ventilators can calculate and display estimates of WOB. The ability to measure the diaphragm's electrical activity is now available for use in the clinical setting. This tool may provide new insight into the evaluation and measurement of WOB. The WOB performed by the ventilator is reviewed in Box 17.7.
+
+> **BOX 17.7 Work of Breathing (WOB) Performed by the Ventilator**  
+> Normal inspiratory WOB is approximately 0.5 J/L (0.05 kg-m/L). The following equation provides an estimated value for the WOB provided by the ventilator during constant-flow, passive inflation of the lungs:  
+> $$Work = (PIP - 0.5 \times P_{plat})/100 \times V_T(L)$$  
+> For example, if PIP is 30 cm H₂O, P<sub>plat</sub> is 25 cm H₂O and V<sub>T</sub> is 500 mL (0.5 L),  
+> $$Work = [30 - (0.5 \times 25)]/100 \times 0.5 = 0.088 \text{ kg-m}$$  
+> WOB can be reported in either kg-m or J/L.  
+> (From Hess DR, Kacmarek RM: *Essentials of mechanical ventilation*, New York, NY, 2002, McGraw-Hill.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Steps to Reduce Work of Breathing During Mechanical Ventilation</summary><div class="details-content">
+
+This section focuses on reducing the WOB by evaluation of the following:
+
+- Reducing work imposed by the artificial airway
+- Setting appropriate machine sensitivity, especially in the presence of auto-PEEP
+- Ensuring patient-ventilator synchrony and reducing minute ventilation demands
+
+<details class="med-details"><summary>
+
+#### Reducing Work Imposed by the Artificial Airway</summary><div class="details-content">
+
+One of the simplest approaches to reducing the WOB is to use the largest possible ET that is appropriate for a patient. Long and narrow tubes significantly increase resistance, especially when V̇<sub>E</sub> is increased. The ET must be kept free of secretions, kinks, and other types of constrictions. Tracheostomy tubes will have a lower WOB because of their shorter length. The use of PSV and PEEP can also offset the work imposed by the tube. Automatic tube compensation (ATC) has also been shown to reduce the WOB through the ET (see Chapter 20 for a discussion on ATC). In pediatric patients, ETs have a smaller diameter (3–5.5 mm), so resistance is a greater concern, even though these tubes are shorter and the inspired and expired gas flows are lower. (The role of ATC may be more important in this population.)
+
+The imposed WOB through an ET in an adult patient is determined by the size of the tube and the minute ventilation of the patient ([Fig. 17.13](#fig-17-13)). When large tubes are in place and minute ventilation is low, the imposed work is probably not significant. As shown in [Fig. 17.13](#fig-17-13), unless the minute ventilation is greater than 10 L/min, the work associated with moving gas through the tube is consistent throughout the average range of adult tube sizes. The use of pressure support in ranges of 3 to 20 cm H₂O has been found to reduce the WOB associated with the ventilator and ET.
+
+Prolonged spontaneous breathing through an ET is not desired because of the resistance of the tube. However, for short intervals before extubation and to assess extubation readiness (spontaneous breathing trial), the patient can breathe through the ET. In fact, when the WOB was compared during spontaneous breathing before extubation and after the tube was removed, the WOB was similar.
+
+<span id="fig-17-13"></span>![](_page_14_Figure_26.jpeg)
+
+**FIGURE 17.13** Relations among the size of the endotracheal tube, minute ventilation, and work of breathing (WOB). When minute ventilation exceeds 10 L/min, the difference of the WOB through the different-sized tubes is most pronounced. (From Shapiro M, Wilson RK, Casar G, et al.: Work of breathing through different sized endotracheal tubes, *Crit Care Med* 14:1028–1031, 1986.)
+
+Perhaps more important than a specific value for the work being performed is the effort by the patient. For a similar amount of work, a young, otherwise healthy adult has an easier time maintaining the work than does a chronically ill, older patient. The effort by the older patient will be far greater (higher percent of O₂ cost) than the effort of the young adult, even if the work is the same.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Setting Machine Sensitivity and Inspiratory Flow</summary><div class="details-content">
+
+Another factor that must be considered when attempting to reduce WOB is to ensure that machine sensitivity is set appropriately. The ventilator must be at its most sensitive level without leading to autotriggering of breaths. It is important to remember that if the ventilator trigger is too sensitive, it will autotrigger. Autotriggering can also be caused by "noise" in the patient circuit, water in the circuit, leaks (e.g., circuit leaks, cuff leaks, chest tube leaks), and cardiac oscillations.
+
+Inspiratory gas flow must be adequate to match patient demand. Flows of 60 to 100 L/min are usually adequate. The patient and ventilator should be synchronized. This will depend on flow and sensitivity and possibly the flow pattern and mode. PSV may also be beneficial in reducing WOB if the patient has an intact respiratory center.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Patient-Ventilator Synchrony</summary><div class="details-content">
+
+Synchronous ventilation occurs when the ventilator responds appropriately to a patient's inspiratory effort and delivers the amount of flow and volume requested by the patient. Asynchrony occurs when the patient's inspiratory efforts and flow demands are not accommodated by the ventilator. Asynchrony can therefore be uncomfortable for the patient because WOB increases and the O₂ cost of breathing (effort) is increased. In its most obvious form, the patient appears to be "fighting the ventilator" and displaying noticeable inspiratory efforts and use of accessory muscles. Asynchrony may also be accompanied by tachypnea, chest wall retractions, and sometimes chest-abdominal paradox. In some cases, patient-ventilator asynchrony can be subtle and easily overlooked by most clinicians.
+
+Asynchrony is generally identified as follows:
+
+- Trigger asynchrony
+- Flow asynchrony
+- Cycle asynchrony
+- Mode asynchrony
+- PEEP asynchrony
+- Closed-loop ventilation asynchrony
+
+<details class="med-details"><summary>
+
+##### Trigger asynchrony</summary><div class="details-content">
+
+*Trigger asynchrony* occurs when the ventilator sensitivity setting is not appropriate for the patient. With this type of asynchrony, the ventilator does not sense the patient's inspiratory effort and fails to deliver gas flow. A trigger that is too insensitive requires the patient to make a strong, spontaneous effort to achieve gas flow from the ventilator. If pressure triggering is being used, a change to flow triggering may help because flow triggering generally reduces inspiratory WOB. Flow triggering does not require the exhalation valve to close before initiating gas flow, which gives it a faster response time (in general) compared with pressure triggering. Recent advances in pressure transducer technology have resulted in ventilators in which either pressure or flow triggering perform comparably.
+
+Another type of pressure triggering, called a "shadow" trigger, is available on Respironics BiPAP ventilators (Philips Respironics, Eindhoven, The Netherlands). Shadow triggering may alleviate the problem because it can be quite sensitive to patient efforts. Shadow triggering uses a mathematical model derived from the flow and pressure signals to produce a shadow of the patient's signals (shape signal) ([Fig. 17.14](#fig-17-14)). Although initial studies of shadow triggering were shown to reduce the patient effort required to trigger a breath, its use may also increase the number of autotriggered breaths. Consequently, further studies are needed to determine the effectiveness of shadow triggering. (A more recent form of triggering relies on a neural signal from the diaphragm. It is used with neutrally adjusted ventilatory assist [NAVA] mode, described in Chapter 23.)
+
+<span id="fig-17-14"></span>![](_page_15_Figure_18.jpeg)
+
+**FIGURE 17.14** The patient's actual flow waveform (*thick line*) compared with the shadow trigger or shape signal (*thin line*). A shape signal is produced by offsetting the actual patient's flow signal by 15 L/min and a delay time of 300 msec. This causes the shape signal to be behind the patient's flow. A sudden change in the patient flow (downward movement) crosses the shape signal. Crossover detection begins the inspiratory phase (*right crossover point*, IPAP). The crossover detection also causes the ventilator to end inspiration and cycle to expiration (*left crossover point*, cycle to EPAP). *EPAP*, Expiratory positive airway pressure; *IPAP*, inspiratory positive airway pressure. (Used with permission of Respironics, Inc., Murrysville, Pa.)
+
+The presence of auto-PEEP can also make triggering the ventilator more difficult for the patient and result in missed patient triggers. When auto-PEEP is present, the patient's effort may not be transmitted to the sensing mechanism and the ventilator does not provide inspiratory gas flow. Because auto-PEEP is a dynamic condition, it can be present in one breath and absent the next. In fact, in patients normally not suspected of having auto-PEEP, it is probably one of the major contributors to trigger asynchrony, resulting in patient discomfort and increase in the O₂ cost of breathing.
+
+Patients with COPD have a high incidence of auto-PEEP, with trigger asynchrony as a result. Trigger asynchrony in this patient group can be identified by the flow and pressure scalars ([Fig. 17.15](#fig-17-15)). In the flow waveform, an ineffective patient effort can be detected during inspiration by an increase in flow on the flow-time curve. During the expiratory phase, ineffective efforts can be detected if an abrupt rise (convex appearance) appears on the flow curve (it appears as a change in expiratory flow). When air trapping is present that cannot be eliminated by normal techniques in patients with COPD, setting low levels of PEEP can make it easier to trigger the ventilator. Applied PEEP set at a level that is less than the auto-PEEP present may therefore reduce the metabolic work of the diaphragm (see Chapter 7). However, extrinsic PEEP may not be effective if the minute ventilation is high and not enough time for exhalation is available.
+
+A slight, inherent delay always occurs in the ventilator's response to the patient's effort. Part of this is caused by the delay in the patient's spontaneous effort and change in pleural and mouth pressures reaching the ventilator's sensing device. It may also be caused by the time required for the ventilator to respond to the detected signal. Current-generation ventilators are much more responsive than older models. Some researchers are exploring the use of monitors that detect contraction of the diaphragm to signal the ventilator. Others are looking at the use of pleural pressure changes to trigger the ventilator. In the future, these may provide quite accurate sensing mechanisms (see Chapter 23).
+
+<span id="fig-17-15"></span>![](_page_16_Figure_3.jpeg)
+
+**FIGURE 17.15** Flow, air pressure (Pₐw), and esophageal pressure (Pₑₛ) in a patient with chronic obstructive pulmonary disease during pressure support ventilation. *Dotted lines* indicate the beginning of an inspiratory effort that triggers ventilator gas flow. *Black arrows* in the Pₑₛ curve indicate patient efforts that did not trigger ventilatory flow. Note the time delay between the beginning of the effort and ventilator triggering. Ineffective efforts occur during both mechanical inspiration and expiration. During inspiration, the *flow curves* identify ineffective patient efforts and a rise in the inspiratory flow. During expiration, ineffective efforts are identified by *open arrows* showing a small convex shape in the flow curve. Note how no apparent change occurs in Pₐw. (From Kondili E, Prinianakis G, Georgopoulos D: New concepts in respiratory function, *Br J Anaesthesiol* 91:106–119, 2003.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Flow asynchrony</summary><div class="details-content">
+
+Flow asynchrony occurs when the patient's flow demand is not met by the ventilator. The type of mode being used often determines how much flow is available. Volume control ventilation with a fixed-flow, volume control ventilation with a variable-flow, pressure control ventilation and pressure support ventilation differ from each other.
+
+During volume control ventilation, if flow is constant, the set flow may not match patient demand. This is a fairly common problem. An initial flow of 80 L/min is typically suggested. In this situation the best way to determine whether adequate flow is being provided is to evaluate the pressure-time scalar. A concave appearance on the inspiratory pressure curve during volume control ventilation indicates active inspiration ([Fig. 17.16](#fig-17-16)). (NOTE: Earlier-generation ventilators, such as the Puritan Bennett 7200 [Medtronic, Minneapolis, MN], had fixed flow. In other words, the set flow was the amount the patient received regardless of patient effort. Inadequate flow in this situation could be corrected by increasing the flow or changing the flow pattern. For example, a descending flow pattern during volume control ventilation may reduce patient WOB as long as the set flow is adequate.)
+
+If the flow varies with patient effort, as occurs with current ICU ventilators (e.g., Servo-i, Servo-s, and Servo-u [Getinge, Sweden]), the pressure-time curve will show a slight drop in pressure during inspiration and the flow-time curve will show an increase in flow to accommodate the patient's effort. Thus patient-ventilator synchrony is improved by having the ventilator respond to the patient's demands. This is also true when NAVA is used (see Chapter 23).
+
+During pressure-targeted ventilation, such as pressure-controlled CMV (PC-CMV) and PSV, the ventilator rapidly provides a high flow to achieve and maintain the set pressure. As long as the set pressure is adequate, flow to the patient will be adequate. On the other hand, flow at the beginning of inspiration during pressure-targeted ventilation may be excessive for the patient. A lower rise time or slope may be beneficial in this type of patient ([Fig. 17.17](#fig-17-17)).
+
+In general, when pressure and rise time are set correctly, pressure-targeted breaths may be more synchronous for patients with high flow demands. If the cause of the high ventilatory demand is a result of anxiety or pain, the patient's condition can be improved by using sedatives such as benzodiazepines or narcotics (see Chapter 15).
+
+<span id="fig-17-16"></span>![](_page_17_Figure_3.jpeg)
+
+**FIGURE 17.16** The *upper panel* shows the flow-time curve for constant flow, volume ventilation. The *middle panel* represents the pressure-time curve measured at the upper airway. The *lower panel* is the pressure-time curve for esophageal pressures. Breath *a* is a control breath with no patient effort. Breath *b* is a patient-triggered breath with adequate flow. The *dotted line* mimics a passive breath as in *a*. Breath *c* is a patient-triggered breath with inadequate flow to meet patient demand *(solid line)*. The *shaded area* shows what a curve *(dotted line)* would look like with a control breath. (From MacIntyre NR, Branson RD: *Mechanical ventilation*, Philadelphia, PA, 2001, W.B. Saunders.)
+
+<span id="fig-17-17"></span>![](_page_17_Figure_5.jpeg)
+
+**FIGURE 17.17** *Upper panel* shows airway pressure over time. *Lower panel* shows flow over time. The *curves* illustrate the changing pressure and flow with different rise time settings. The fastest time (a) also has the fastest flow (a). In general, synchrony is optimal when pressure waveform has a smooth square configuration (*curve b*). Using too much slope may reduce flow and result in asynchrony (*curve d*). (From MacIntyre NR, Branson RD: *Mechanical ventilation*, Philadelphia, PA, 2001, WB Saunders.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Cycle asynchrony</summary><div class="details-content">
+
+Cycle asynchrony, also called termination asynchrony, usually occurs when the patient starts to exhale before the ventilator has completed inspiration. The inspiratory time is generally set by the practitioner by using an inspiratory time control or basing it on the rate, flow, and volume settings. Cycle asynchrony often occurs when T<sub>I</sub> is too long. Increasing the flow in volume control ventilation to shorten T<sub>I</sub> or decreasing the set T<sub>I</sub> time in volume control or pressure control may help.
+
+When using older-generation ventilators, as a patient actively exhales during inspiration, such as with a cough, the airway pressure increases. If the pressure exceeds the set maximum, the breath ends and V<sub>T</sub> delivery drops. This results in an increased WOB for the patient. One strategy used by ventilator manufacturers to overcome this problem involves incorporating "floating" or "active" valves. This technology uses closed-loop or servo control of both the inspiratory and expiratory valves. In this type of system the pressure is maintained at a fairly constant level during inspiration. If the patient actively exhales or coughs, the expiratory valve opens, thus maintaining the pressure at a more consistent level. This improves patient-ventilator synchrony and may decrease the WOB.
+
+Cycle asynchrony can occur with both mechanical (mandatory) and spontaneous breaths. During spontaneous ventilation with PSV, cycle asynchrony commonly occurs when the patient actively tries to exhale before the expiratory flow termination criteria have been met. This is especially common in patients with COPD ([Fig. 17.18](#fig-17-18)). By changing the flow cycle percentage, this problem can be corrected. However, in patients with COPD, a wide variability in V<sub>T</sub> and auto-PEEP can occur. Changes in breath pattern may occur frequently, making cycle asynchrony difficult to manage. Ventilator software programs that evaluate the patient's time constant and the slope at the end of the inspiratory portion of the pressure-time curve for each breath may provide a way to make automatic adjustments of flow cycle on a breath-by-breath basis.
+
+<span id="fig-17-18"></span>![](_page_18_Figure_3.jpeg)
+
+**FIGURE 17.18** Pressure, flow, and volume scalars illustrating a patient receiving 5 cm H₂O of pressure support. The patient's neural timing precedes the end of the mechanical inflation and results in a pressure spike (*large arrow*) on the pressure waveform. Note the rapid decline in the inspiratory flow waveform at the end of inspiration (*double arrows*) as a result of the patient's active exhalation. (From Nilsestuen JO, Hargett KD: Using ventilator graphics to identify patient-ventilatory asynchrony [conference proceedings], *Respir Care* 50:202–234, 2005.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Mode asynchrony</summary><div class="details-content">
+
+*Mode asynchrony* occurs when more than one breath type is delivered by the ventilator. One such mode is VC-IMV. The patient's respiratory center is not able to adjust to the varying breath types, and asynchrony results along with increased WOB. When mode asynchrony occurs, the mode must be evaluated and consideration given to changing the mode to PC-CMV or PSV.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### PEEP asynchrony</summary><div class="details-content">
+
+When PEEP levels are too low and atelectasis forms in the lungs, the ventilatory control centers of the brain affect the patient's comfort (dyspnea) and drive to breathe, resulting in PEEP asynchrony. Excessive PEEP may have a similar effect if overdistention of the lungs makes ventilation more difficult and reduces patient comfort. Setting appropriate PEEP levels to avoid overdistention and using pressure support may help decrease the WOB. Providing sedation also may be helpful (see Chapter 13 for additional information on setting PEEP).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Closed-loop ventilation asynchrony</summary><div class="details-content">
+
+Closed-loop ventilation asynchrony can occur in dual-control modes of ventilation such as volume support (pressure support with a volume target) and pressure-regulated volume control (PRVC; pressure control with a volume target). Volume support (VS; Medtronics Minimally Invasive Therapies PB 840/980 ventilators, Mansfield, MA; and the Maquet Servo-i, Servo-s, and Servo-U ventilators, Maquet, Wayne, NJ) and adaptive support ventilation (ASV on the Hamilton G5, Hamilton Medical, Bonaduz, Switzerland) are two examples of pressure support with a volume target. The clinician sets an upper pressure limit not to be exceeded and a target volume. The ventilator delivers pressure to achieve the set V<sub>T</sub> (see Chapter 6). Two forms of asynchrony can occur, one that depends on the equipment used and the other that depends on the patient.
+
+For example, with the Servo 300 using VS, if the patient's respiratory rate decreases or if the ventilator does not detect all the patient's spontaneous efforts (missed triggers), the ventilator detects a decrease in rate and automatically increases the volume delivery up to 150% of the set value to maintain the set minute ventilation. This is a minute ventilation—based unit. However, a larger V<sub>T</sub> may not be desirable. This will pose no danger to the patient as long as the high-pressure limit has been appropriately set.
+
+The Servo-i, Servo-s, and Servo-U also have VS, but it is not based on the minute ventilation. It targets the set V<sub>T</sub> and does not make any increase in volume if a slower rate is detected. These two ventilator examples illustrate that ventilator manufacturers can design their device to respond differently to the same circumstance. Clinicians must be aware of the idiosyncrasies of the ventilator they are using.
+
+Another form of asynchrony that can occur with either VS or PRVC has to do with the level of a patient's inspiratory effort. Suppose, for example, in volume support a patient initially receives a V<sub>T</sub> of 400 mL with a pressure of 13 cm H₂O. Pulmonary edema then develops from fluid overload. The patient's inspiratory demand increases to accommodate this decrease in compliance and oxygenation. The ventilator detects the high volume and interprets the high volume as an improvement in compliance or resistance and reduces the pressure. Active inspiration is detected as an improvement in compliance—that is, a large volume is being delivered at the current pressure setting. Consequently, the ventilator will decrease the pressure to achieve the target volume. This occurs when the patient requires the most support and the ventilator provides the least.
+
+The dual-control mode that provides pressure control with a target volume is assigned a variety of names. In the Dräger ventilator (Dräger Medical, Telford, Pa.) it is AutoFlow; in the Hamilton G5 it is adaptive pressure ventilation; in the Puritan Bennett 840/980 ventilators it is volume control plus; and in the Servo-i, Servo-s, and Servo-U it is PRVC. In this assist/control mode, the practitioner sets a target volume and the ventilator adjusts pressure to achieve the set V<sub>T</sub>.
+
+Consider a leak occurring in the patient-ventilator system. If the ventilator compares volume output and volume returned, it may detect the difference, but it cannot distinguish a leak from an improvement in lung characteristics (decreased airway resistance or increased compliance) or an active inspiration. It may increase pressure to try and increase V<sub>T</sub> because it detects a drop in V<sub>T</sub>.
+
+As described with VS, when PRVC or Autoflow is used, active inspiration may be detected as an improvement in compliance. The response is a reduction in pressure because the ventilator perceives that the patient is getting a large V<sub>T</sub> for the current pressure. As illustrated with VS, the drop in pressure occurs when the patient may need it the most.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Reducing Minute Ventilation Demands</summary><div class="details-content">
+
+Perhaps the single most important factor in reducing the WOB is minute ventilation. If V̇<sub>E</sub> requirements can be reduced, the overall WOB will decrease. Specifically, this means reducing fever, agitation, shivering, seizures, pain, and any other factors that can elevate metabolic rate. Careful attention to the patient's WOB and consideration of all possible methods to reduce this work can be beneficial to recovery.
+
+Reducing the patient's airway resistance or improving compliance will also decrease ventilatory demand. Airway resistance can usually be reduced by suctioning the airway or by administering bronchodilators. Lung compliance can be improved using several strategies, including administering diuretics to reduce lung water, pleural drainage to eliminate pleural fluid or air, and placing the patient in a semi-Fowler position, to keep the diaphragm in a downward position so that visceral organs do not impede diaphragmatic movement.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## VENTILATOR MECHANICAL AND OPERATIONAL HAZARDS</summary><div class="details-content">
+
+Mechanical ventilators are extremely safe to use when monitored and maintained appropriately. As with other types of life support systems, patient complications can result and are sometimes caused by human error. Equipment malfunction can also occur. Examples of mechanical ventilator failures are listed in Box 17.8; Box 17.9 summarizes the findings from studies done on complications that occurred with mechanical ventilation.
+
+In February 2002, The Joint Commission issued a report on deaths or injuries related to long-term ventilation. A total of 19 injuries resulted in deaths, and 4 injuries resulted in coma. Of these 23 reported cases, 60% were related to malfunction of, misuse of, or inadequate alarm systems. In 52% of cases the ventilator tubing was disconnected, and in 26% the artificial airway was dislodged. None of the reported injuries was related to ventilator malfunction.
+
+The report cited that the root cause of these mishaps was related to staffing and communication breakdown. It is interesting to note that inadequate orientation and training of staff were found to be important contributing factors in these cases. Indeed, communication breakdown primarily occurred among staff members.
+
+> **BOX 17.8 Potential Mechanical Failures With Mechanical Ventilation**  
+> - Disconnection from the power source  
+> - Failure of the power source  
+> - Failure of the ventilator to function because of equipment manufacturing problems or improper maintenance  
+> - Failure of alarms because of mechanical failure or failure of personnel to turn them on or use them properly  
+> - Failure of heating or humidifying devices  
+> - Failure of the pressure relief valve to open  
+> - Disconnection of the patient Y-connector  
+> - Leaks in the system, resulting in inadequate pressure or tidal volume delivery  
+> - Failure of the expiratory valve to function, causing a large system leak or causing a closed system with no exit for exhaled air  
+> - Inappropriate assembly of the patient circuit
+
+> **BOX 17.9 Complications Associated With Mechanical Ventilation**  
+> **Complications Attributed to Intubation, Extubation, or Tube Malfunction**  
+> - Prolonged intubation attempts  
+> - Intubation of the right mainstem bronchus  
+> - Premature extubation  
+> - Self-extubation  
+> - Problems associated with tube retaping  
+> - Tube malfunction  
+> - Nasal necrosis  
+> - Sinusitis  
+> - Tube plugging  
+> **Complications Attributed to the Operation of the Ventilator**  
+> - Mechanical failure  
+> - Inadequate humidification  
+> - Overheating of inspired air  
+> **Medical Complications Occurring With Mechanical Ventilation**  
+> - Alveolar hypoventilation  
+> - Alveolar hyperventilation  
+> - Massive gastric distention  
+> - Atelectasis  
+> - Pneumonia  
+> - Hypotension  
+> - Pneumothorax, pneumoperitoneum, subcutaneous air
+
+One of the most common problems that occurs during mechanical ventilation involves ventilator disconnection. Box 17.10 summarizes common situations in which ventilator disconnection can occur, and Box 17.11 shows how these disconnections may go undetected. Another common problem involves leaks in the ventilator circuit. [Fig. 17.19](#fig-17-19) shows waveforms illustrating the presence of a leak. Box 17.12 lists the potential problems associated with humidification systems.
+
+Although dependable equipment, good alarm systems, and sophisticated surveillance systems are beneficial, they cannot replace careful monitoring by trained personnel. By standardizing procedures, keeping records of ventilator maintenance, and familiarizing all essential members of the health care team with equipment function, human error can be kept to a minimum.
+
+> **BOX 17.10 Reasons for Accidental Disconnections in the Patient Circuit**  
+> 1. Environmental changes affecting connector performance (e.g., with a heated humidifier, the tubing on the output side can soften and kink from the heat and disconnect/reconnect use)  
+> 2. Weak connection at the endotracheal tube and the Y-connector, so it is easy to disconnect for suctioning  
+> 3. Inadequate connection force  
+> 4. Points of easy disconnection: Water traps, temperature probes, O₂ analyzers, humidification systems, capnographs; these act as circuit breakers  
+> 5. Incompatible components resulting from nonstandard dimensions, dissimilar materials, inappropriate materials, or reuse  
+> 6. High pressure within the circuit  
+> 7. Patient movement  
+> 8. Deliberate disconnection by patient
+
+> **BOX 17.11 Reasons Accidental Disconnections May Elude Detection**  
+> 1. Complacency resulting from reliance on alarms  
+> 2. Desensitization of the medical staff resulting from frequent false alarms  
+> 3. Inappropriate alarm settings  
+> 4. Inappropriate sensor location  
+> 5. Inadequate understanding of monitor/alarm function  
+> 6. Misinterpretation of alarms  
+> 7. Incompatible combination of monitors/alarms  
+> 8. Disabled alarms  
+> 9. Inaudible alarms  
+> 10. Malfunctioning alarms
+
+<span id="fig-17-19"></span>![](_page_20_Figure_25.jpeg)
+
+**FIGURE 17.19** Flow, pressure, and volume curves and a flow-volume loop. An air leak is identified when the expiratory volume waveform does not return to zero volume baseline and the flow-volume loop fails to close (i.e., the expiratory flow does not return to the zero baseline). (From Lucangelo U, Bernabe F, Blanch L: Respiratory mechanics derived from signals in the ventilator circuit [conference proceedings], *Respir Care* 50:55–65, 2005.)
+
+> **BOX 17.12 Hazards and Complications Associated With Use of Humidification Devices**  
+> **Hazards Associated With Both Heated Humidifiers and Heat-Moisture Exchangers**  
+> - Hypothermia  
+> - Hypoventilation and alveolar gas trapping caused by mucus plugging of airways  
+> - Possible increased resistive work of breathing (WOB) caused by mucus plugging of airways  
+> - Possible increased resistive WOB through the humidifier  
+> **Hazards Associated With Heated Humidifiers**  
+> - Potential for electrical shock  
+> - Thermal injury to the airway from heated humidifiers; burns to the patient and tubing meltdown if heated wire circuits are covered, or circuits and humidifiers are incompatible  
+> - Inadvertent overfilling, resulting in unintentional tracheal lavage  
+> - When disconnected from the patient, some ventilators generate a high flow through the patient circuit that may aerosolize contaminated condensate, putting both the patient and clinician at risk for nosocomial infection  
+> - Potential for burns to caregivers from hot metal  
+> - Inadvertent tracheal lavage from pooled condensate in patient circuit  
+> - Elevated airway pressures resulting from pooled condensation  
+> - Patient-ventilator asynchrony and improper ventilator performance resulting from pooled condensation in the circuit  
+> **Hazards Associated With Heat-Moisture Exchangers (HMEs)**  
+> - Possible hypoventilation caused by increased dead space  
+> - Underhydration and impaction of mucous secretions  
+> - Ineffective low-pressure alarm during disconnection because of resistance through HME  
+> (From American Association of Respiratory Care; Restrepo RD, Walsh BK: Clinical practice guideline: humidification during invasive and noninvasive mechanical ventilation—2012, *Respir Care* 57:782–288, 2012.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## COMPLICATIONS OF THE ARTIFICIAL AIRWAY</summary><div class="details-content">
+
+Various problems can arise with the use of artificial airways. These include complications associated with the artificial airway itself, infectious contamination of the patient's airway, excessive heat to the airway from humidification systems, and inadequate or excessive humidification. In addition, an artificial airway alters the geometry of the upper airway and anatomical dead space, changes resistance to gas flow, increases WOB, and can increase risk for obstruction. Box 17.13 summarizes artificial airway complications.
+
+Care must be used during the insertion, maintenance, and removal of artificial airways. High-volume/low-pressure cuffs of good quality used for as short a time as possible will reduce the incidence of complications.
+
+> **BOX 17.13 Endotracheal (ET) and Tracheostomy Tube Complications**  
+> **ET Complications**  
+> *Damage to the Nasal Passages, Lips, or Eyes*  
+> - During insertion: Facial trauma, damage to the nasal structures, lips, or eyes  
+> - While in place: Lip ulceration, pressure necrosis to the soft tissues, erosion of nasal septum, increased airway resistance from a small lumen tube  
+> - During and after extubation: Nasal stricture  
+> *Damage to the Oropharynx*  
+> - During insertion: Traumatic damage to the oropharyngeal soft tissues, dental accidents, retropharyngeal or hypopharyngeal perforation  
+> - While in place: Grooving of the hard palate from chronic pressure, dental deformities from constant pressure  
+> *Damage to the Larynx and Trachea*  
+> - During insertion: Soft tissue damage (bleeding and swelling), laryngeal trauma, laryngospasm  
+> - While in place: Laryngeal injury (ulceration, edema, bleeding); laryngeal muscle dysfunction; subglottic edema; necrosis over the arytenoid cartilages and the vocal cords; trauma to mucosa covering the cricoid cartilage in infants; necrosis of tissue leading to the innominate artery and uncontrolled bleeding; tracheal injury (ulceration, edema, bleeding, tracheomalacia, cartilage and mucosal necrosis); laryngotracheal web formation; laryngotracheal granuloma; tracheal dilation; irritation of the carina; tracheoesophageal fistula; spontaneous dislocation of the tube (into the right mainstem, too high in trachea, extubation); squamous metaplasia of respiratory epithelium  
+> - During and after extubation: Laryngospasm, laryngeal edema, glottic injury, laryngotracheal granuloma, laryngeal stenosis (glottic, subglottic), laryngeal motor dysfunction (vocal cord paralysis), cricoarytenoid ankylosis, tracheomalacia, tracheal dilation, tracheal stenosis, perichondritis, laryngeal chondritis, laryngotracheal web  
+> **Complications With Artificial Airways**  
+> - During intubation: Intubation of the right mainstem bronchus, bronchospasm, pulmonary aspiration, barotrauma, cardiopulmonary arrest, hypoxemia, cardiac arrhythmias, cervical and spinal cord injuries, patient discomfort  
+> - While in place: Patient discomfort, difficulty in communicating, pain, retching, salivation, malnutrition, sinusitis, otitis media, atelectasis, pneumonia, pulmonary aspiration, decreased mucociliary transport, ineffective cough, contamination of the airway from silent aspiration during suctioning and invasion of the normal lung defenses, bronchial mucosal damage from suctioning  
+> - During and after extubation: Hoarseness, sore throat, dysphagia, bronchospasm, aspiration, cardiac arrest  
+> **Mechanical Problems With Tubes**  
+> - Disconnection, kinking, obstruction from secretions, patient biting on the tube, displacement of the tube tip into the tracheal endothelial layer or against the side of the trachea or carina  
+> **Mechanical Problems Associated With the Cuff**  
+> - Compression of the tube by the cuff, excessive pressure (>25 mm Hg) from overinflation leading to tracheal necrosis, leaking or rupturing of the cuff causing inadequate ventilation, laceration of the cuff during insertion, leaking around the cuff preventing adequate ventilation, damage to the pilot balloon or connection preventing cuff inflation  
+> **Complications Associated With Tracheostomy***  
+> - During the surgical procedure: Bleeding, thyroid injury, inappropriate incision position (too high or too low), injury to the recurrent laryngeal nerve, pneumothorax, tracheoesophageal fistula, subcutaneous emphysema, mediastinal emphysema, placement of the tube into the pretracheal space, cuff laceration during insertion, cardiac arrest, hypoxia  
+> - While in place: Patient discomfort; infection of the wound or trachea, bleeding (skin vessel, tracheoarterial fistula); tracheal injury (inflammation, bleeding, ulceration, necrosis); tracheal dilation; web formation; perforation of trachea; granuloma formation; pseudomembrane formation; irritation of the carina; tracheoesophageal fistula; sepsis; mediastinitis; atelectasis; pneumonia; aspiration; subcutaneous emphysema; mediastinal emphysema; pneumothorax; decannulation; reduced mucociliary transport; ineffective cough; mechanical problems with the tube or cuff (see ET); squamous metaplasia of respiratory epithelium  
+> - During and after decannulation: Tight stoma making decannulation difficult, patient discomfort, scarring, keloid formation, persistent open stoma, dysphagia, tracheal stenosis, tracheomalacia, tracheal granuloma, tracheal web formation, or tracheal dilation  
+> \*See Chapter 20 for additional information on tracheostomy tubes.
 
 </div></details>
 
@@ -448,13 +999,20 @@ Assessment of a patient’s resting energy expenditure provides information abou
 
 ## SUMMARY</summary><div class="details-content">
 
-- Positive pressure ventilation can significantly alter cardiovascular, pulmonary, neurological, renal, and gastrointestinal function.
-- The degree to which positive pressure ventilation impairs cardiac output depends on the patient’s lung and chest wall compliance, airway resistance (R<sub>aw</sub>), and the \(\overline{P}_{aw}\).
-- During positive pressure ventilation, the use of high V<sub>T</sub> or high levels of PEEP may cause the pulmonary capillaries to be stretched and narrowed, resulting in an increased resistance to blood flow through the pulmonary circulation. This in turn leads to an increased RV afterload and ultimately an increase in the resting volume of the right ventricle.
-- Reductions in cardiac output that occur with positive pressure ventilation may be caused by myocardial dysfunction and are associated with reduced perfusion of the myocardium and the resultant myocardial ischemia.
-- Positive pressure ventilation can alter cerebral perfusion by causing a decrease in cardiac output and mean arterial BP or by causing an increase in CVP, which can cause an increase in ICP.
-- Changes in renal function associated with positive pressure ventilation can be attributed to hemodynamic changes resulting from high intrathoracic pressures and humoral responses, including ADH, ANF, and renin-angiotensin-aldosterone changes occurring with positive pressure ventilation and abnormal pH, PaCO<sub>2</sub>, and PaO<sub>2</sub>.
-- Malnutrition alters a patient’s ability to effectively respond to infection, impairs wound healing, and severely reduces the ability to maintain spontaneous ventilation from weakened respiratory muscles.
+- As with other forms of medical treatment, there are risks and complications associated with mechanical ventilation.
+- Barotrauma implies trauma that results from using high pressures. Volutrauma implies damage from high distending volumes.
+- Ventilator-associated lung injury (VALI) is the term generally used when referring to lung injury occurring in humans that has been identified as a consequence of mechanical ventilation (e.g., ventilator-associated pneumonia, air trapping, patient-ventilator asynchrony, extraalveolar gas [barotrauma] such as pneumothorax and pneumomediastinum).
+- Ventilator-induced lung injury (VILI) describes lung injury that occurs at the level of the acinus. It is the microscopic level of injury that includes biotrauma, shear stress, and surfactant depletion.
+- Mechanical stress disrupts normal cell function, strains normal cell configuration, and can also lead to an inflammatory response and the release of injurious chemical mediators in the lungs.
+- During controlled ventilation in which spontaneous ventilation is absent, alveolar collapse is most likely to occur in dependent areas of the lung. Because these are the areas that receive the most blood flow, an increased mismatching of ventilation and perfusion and increased dead space ventilation occur.
+- Acute hypoventilation can occur in patients receiving ventilatory assistance if adequate alveolar ventilation is not provided. Hypoventilation will result in an increased PₐCO₂ and an acidotic pH. Rapidly rising PₐCO₂ levels and falling pH values can lead to serious problems.
+- Hyperventilation results in a lower than normal PₐCO₂ and a rise in pH. Patient-induced hyperventilation is often associated with hypoxemia, pain and anxiety syndromes, circulatory failure, and airway inflammation.
+- Ventilator-induced hyperventilation is generally caused by inappropriate ventilator settings. Weaning becomes more difficult when a patient has experienced prolonged hyperventilation.
+- A number of factors can increase the risk for auto-PEEP, including the presence of COPD, high minute ventilation, increased airway resistance, increased lung compliance, high respiratory frequency, inverse-ratio ventilation, and low inspiratory flow.
+- The presence of auto-PEEP will also make it more difficult for spontaneously breathing patients to trigger a ventilator breath even when sensitivity settings are appropriate.
+- It is generally agreed that breathing enriched O₂ mixtures for an extended period can increase the risk for pulmonary complications.
+- Patient-ventilator asynchrony occurs when the patient's inspiratory efforts and flow demands are not met by the ventilator. Asynchrony is generally identified as trigger asynchrony, flow asynchrony, cycle asynchrony, mode asynchrony, PEEP asynchrony, and closed-loop ventilation asynchrony.
+- Various problems can arise with the use of artificial airways. These include complications associated with the artificial airway itself, infection of the patient's airway, excessive heat to the airway from humidification systems, and inadequate or excessive humidification.
 
 </div></details>
 
@@ -462,70 +1020,101 @@ Assessment of a patient’s resting energy expenditure provides information abou
 
 ## REVIEW QUESTIONS</summary><div class="details-content">
 
-1. Which of the following are potential complications of positive pressure ventilation?
-   1. Reduced cardiac output
-   2. Reduced urine output
-   3. Decreased blood pressure
-   4. Increased ICP
-   - A. 1 only
-   - B. 1 and 3
-   - C. 2, 3, and 4
-   - D. 1, 2, 3, and 4
+(See Appendix A for answers.)
 
-2. Four days after being placed on ventilatory support, a postoperative abdominal surgery patient has indications of low urine production and a weight gain of 1 kg. Which of the following might have caused these changes?
-   - A. Kidney failure
-   - B. Positive pressure ventilation
-   - C. Administration of furosemide (Lasix)
-   - D. Fluid loading
+1. The peak pressure alarm is activated on a patient receiving mechanical ventilatory support. Peak pressures have increased from 25 to 50 cm H₂O in the past 30 minutes. While listening to a patient's breath sounds, the respiratory therapist notices absence of breath sounds over the entire right hemithorax. The patient is unconscious and nonresponsive. Which of the following actions would assist the respiratory therapist in determining the cause of the problem?
+   - 1. Percuss over the right thorax
+   - 2. Increase the pressure limit setting to 60 cm H₂O
+   - 3. Recommend a STAT chest radiograph
+   - 4. Deflate the ET cuff
+   - A 1 only
+   - B 2 only
+   - C 4 only
+   - D 1 and 3 only
 
-3. \(\overline{P}_{aw}\) can be increased by which of the following?
-   1. Adding PEEP
-   2. Increasing inspiratory gas flow
-   3. Adding an inspiratory pause
-   4. Decreasing the I/E ratio
-   - A. 1 only
-   - B. 1 and 3 only
-   - C. 2 and 4 only
-   - D. 3 and 4 only
+2. Further evaluation of the patient reveals the following: A chest radiograph shows increased radiolucency on the right and absence of vascular markings on the right. The trachea is deviated to the left. Neck veins are distended. The patient is cyanotic. What immediate action(s) should the practitioner take at this time?
+   - 1. Call a physician STAT
+   - 2. Disconnect the patient from the ventilator and manually support ventilations
+   - 3. Increase the pressure limit
+   - 4. Increase the ventilator volume
+   - A 1 only
+   - B 3 only
+   - C 1 and 2 only
+   - D 3 and 4 only
 
-4. High V<sub>T</sub> or high levels of PEEP can result in which of the following?
-   - A. An increase in resistance to blood flow through the pulmonary circulation
-   - B. A decrease in RV afterload
-   - C. A decrease in pulmonary artery pressure
-   - D. Maintenance of normal RV stroke volume in patients with compromised RV function
+3. A patient with ARDS is difficult to oxygenate: F<sub>I</sub>O₂ is 0.8, PEEP is 12 cm H₂O, and PₐO₂ is 63 mm Hg. The physician requests that the respiratory therapist perform what maneuver that might help establish an optimum PEEP for the patient?
 
-5. Reductions in PaO<sub>2</sub> can decrease renal blood flow and increase sodium and water retention.
-   - A. True
-   - B. False
+4. A patient with ARDS requires high PEEP levels. Plateau pressures are approximately 35 cm H₂O and PEEP is 16 cm H₂O. The patient's abdomen is turgidly overdistended. The respiratory therapist is concerned about the high plateau pressure. Should the respiratory therapist reduce the ventilating pressures?
 
-6. To reduce the effects of positive pressure ventilation, the respiratory therapist should evaluate \(\overline{P}_{aw}\) and reduce it as much as possible.
-   - A. True
-   - B. False
+5. VILI is associated with which of the following?
+   - 1. Washout or alteration of surfactant
+   - 2. Shear stress
+   - 3. Damage to pulmonary microvasculature
+   - 4. Possible release of inflammatory mediators from pulmonary cells
+   - A 1 only
+   - B 4 only
+   - C 1 and 3 only
+   - D 1, 2, 3, and 4
 
-7. Which of the following should be used with caution in a patient with severe hypovolemia?
-   1. Administering a plasma volume expander
-   2. ≥5 cm H<sub>2</sub>O PEEP
-   3. Inverse I/E ratio
-   4. Short T<sub>I</sub>
-   - A. 2 only
-   - B. 3 only
-   - C. 2 and 3 only
-   - D. 1, 3, and 4 only
+6. Overdistention injury of the lungs is associated with release of what substance(s) from the lungs into the bloodstream?
+   - A Bacterial endotoxins
+   - B Surfactant
+   - C Cytokines
+   - D Mucus
 
-8. Briefly explain how positive pressure ventilation can affect cerebral blood flow in patients with closed head injuries.
+7. During mechanical ventilation, a patient appears to be "fighting the ventilator." He is anxious, agitated, and hypertensive. The patient's skin is hot and moist. The electrocardiogram shows peaked T waves and ST-segment depression. Potassium level is elevated. What further assessment and therapy might be needed for this patient?
 
-9. Which of the following should a respiratory therapist measure when assessing the nutritional status of a critically ill patient receiving mechanical ventilation?
-   1. Body composition
-   2. Actual versus predicted body weight
-   3. Arterial PO<sub>2</sub>
-   4. Urinary nitrogen excretion
-   - A. 1 and 3 only
-   - B. 2 and 4 only
-   - C. 1, 2, and 4 only
-   - D. 1, 2, 3, and 4
+8. A patient on PC-CMV has initial ABG findings as follows: PₐO₂ of 101 mm Hg, PₐCO₂ of 60 mm Hg, and pH of 7.30. The respiratory therapist should:
+   - A Increase minute ventilation to this patient
+   - B Decrease pressure setting
+   - C Change the ventilation mode
+   - D Gradually, over several days, increase the minute ventilation to this patient
 
-10. Nutritional supplements should always be delivered by the most natural route possible.
-    - A. True
-    - B. False
+9. During mechanical ventilation, hyperventilation, particularly in patients with COPD, can cause which of the following?
+   - 1. Muscle twitching and tetany
+   - 2. High pH values
+   - 3. Air trapping
+   - 4. Cardiac arrhythmias
+   - A 2 only
+   - B 1 and 3 only
+   - C 2, 3, and 4 only
+   - D 1, 2, 3, and 4
+
+10. During mechanical ventilation with VC-IMV, a respiratory rate of 4 breaths/min and a V<sub>T</sub> of 600 mL, a patient has a spontaneous rate of 24 breaths/min between machine breaths. Pressure support is set at 5 cm H₂O. SₚO₂ is 95%. The spontaneous V<sub>T</sub> ranges from 175 to 275 mL. The patient is using accessory muscles to breathe. ABG results are within normal range. The patient's ideal body weight is 70 kg. Which of the following might be appropriate?
+    - A Increase the V<sub>T</sub> setting on the ventilator
+    - B Increase the F<sub>I</sub>O₂
+    - C Decrease the IMV rate
+    - D Increase pressure support to 10 cm H₂O
+
+11. Reducing the WOB can be accomplished by using which of the following?
+    - 1. Increased inspiratory flow rates
+    - 2. Increased ventilatory sensitivity
+    - 3. Putting the patient in an upright position
+    - 4. Ensuring the patency of the ET
+    - A 1 only
+    - B 2 and 3 only
+    - C 1, 3, and 4 only
+    - D 1, 2, 3, and 4
+
+12. A patient with ARDS is on 15 cm H₂O of PEEP after a recruitment maneuver. F<sub>I</sub>O₂ is 0.85. Ventilation is good, but PₐO₂ is only 94 mm Hg. What might the respiratory therapist recommend for improving the patient's oxygenation?
+    - A Set the F<sub>I</sub>O₂ at 0.5 to avoid oxygen toxicity
+    - B Reduce the PEEP to 10 cm H₂O
+    - C Change the patient to the prone position
+    - D Recommend an increase in minute ventilation
+
+13. Mean airway pressure for a patient is 21 cm H₂O. The respiratory therapist increases mean airway pressure to 25 cm H₂O by increasing PEEP. P<sub>plat</sub> is now 35 cm H₂O. This might result in which of the following?
+    - A An increase in cardiac output
+    - B VILI
+    - C A decrease in FRC
+    - D An increase in dead space
+
+14. A patient will require 10 to 14 days of mechanical ventilation and is orally intubated with a standard ET. Ventilation and plateau pressures are adequate on VC-CMV with a volume of 450 mL and a rate of 14 breaths/min. ABGs are PₐO₂ of 101 mm Hg, a PₐCO₂ of 41 mm Hg, and a pH of 7.40. What changes might the respiratory therapist recommend at this time?
+    - A Make no changes
+    - B Increase the V<sub>T</sub>
+    - C Change the ET to provide CASS
+    - D Decrease the F<sub>I</sub>O₂
+
+15. What type of problem is indicated in the following figure?
+    ![](_page_23_Figure_48.jpeg)
 
 </div></details>
