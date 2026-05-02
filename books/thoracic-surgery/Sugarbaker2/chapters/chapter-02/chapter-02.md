@@ -5,23 +5,22 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Overview and Epidemiology (Chapter 10)
-* **Global burden:** Eighth most frequent cancer worldwide; sixth leading cause of cancer death (5.4%). 5‑year survival ~17%. US incidence 4.5/100,000; Linxian Province (China) ~100/100,000.
-* **Anatomy:** Four layers (mucosa, submucosa, muscularis propria, adventitia) — no serosa, facilitates spread. Three narrowings: cricopharyngeus (12–15 cm), aortic arch/carina (24–26 cm), LES (40–44 cm).
-* **Blood supply:** Segmental — upper from inferior thyroid/subclavian; middle from bronchial arteries/thoracic aorta; lower from inferior phrenic/gastric vessels.
+* **Global burden:** Eighth most frequent cancer worldwide; sixth leading cause of cancer death (5.4%). 5‑year survival <20%. US incidence 4.5/100,000; Linxian Province (China) ~100/100,000.
+* **Anatomy:** Four layers (mucosa, submucosa, muscularis propria, adventitia) – no serosa, facilitates spread. Three narrowings: cricopharyngeus (12–15 cm), aortic arch/carina (24–26 cm), LES (40–44 cm).
+* **Blood supply:** Segmental – upper from inferior thyroid/subclavian; middle from bronchial arteries/thoracic aorta; lower from inferior phrenic/gastric vessels.
 * **Lymphatic drainage:** Extensive submucosal plexus → longitudinal flow. Upper → internal jugular/supraclavicular; middle → paraesophageal/periesophageal; lower → cardia, left gastric, celiac axis.
 * **Epidemiology:** Male:female 3:1; median age 67. Adenocarcinoma increasing ~2%/year in US, surpassing SCC in whites. Squamous more common in blacks.
 * **Risk factors:** Tobacco (10× risk), alcohol (20–50×), combination → 100×. Barrett esophagus → 11‑fold risk of adenocarcinoma (annualized 0.12%). Obesity, low β‑carotene/vitamins B,C/magnesium/zinc, environmental exposure (asbestos, radiation).
 * **Premalignant conditions:** Achalasia → 5–10% SCC over 15–25 years. GERD → Barrett metaplasia → adenocarcinoma.
 * **Symptoms:** Progressive dysphagia (most common), odynophagia, weight loss, regurgitation, hoarseness (RLN involvement), respiratory symptoms (aspiration, fistula).
-* **Diagnostic modalities:** Barium swallow, CT (wall >5 mm abnormal; nodes >10 mm short axis → pathologic), EUS (best for T staging, T1a/T1b accuracy 85% vs 12% for CT), EUS‑FNA, PET/CT (detects distant metastases; 5% additional detection over CT alone).
+* **Diagnostic modalities:** Barium swallow, CT (wall >5 mm abnormal; nodes >10 mm short axis → pathologic), EUS (best for T staging, T1a/T1b accuracy 85% vs 12% for CT), EUS‑FNA, PET/CT.
 * **STS guidelines (Class I, level B):** CT chest/abdomen for locoregional staging. Class IIA: PET optional for early‑stage, EUS recommended in absence of metastatic disease.
 * **Neoadjuvant therapy:** CALGB 9781 (cisplatin/5‑FU + 50.4 Gy) → median survival 4.5 vs 1.8 years (p=0.02), 5‑year 39% vs 16%. CROSS trial (41.4 Gy + carboplatin/paclitaxel) → median survival 49 vs 24 months; R0 92% vs 69%.
 * **Surgery alone:** T1N0M0 → high 5‑year survival. More advanced stages → median survival 12–18 months, 5‑year <20% without multimodality.
-* **Minimally invasive staging (Ts/Ls):** Accuracy >90% for nodal metastases; superior to EUS for detecting lymph node metastases.
 
 ### Pathology (Chapter 11)
-* **Squamous cell carcinoma:** Globally >90% of esophageal cancers. Risk factors: smoking (3–7×), alcohol, fungal esophagitis, HPV (prevalence 0–71% geographic variation); tylosis (chromosome 17q25). Associated with achalasia, Plummer‑Vinson, celiac disease.
-* **Dysplasia grading:** Two‑tier — low‑grade (<50% epithelial thickness), high‑grade (>50%). Cytologic features: high N/C ratio, hyperchromasia, pleomorphism, increased mitoses.
+* **Squamous cell carcinoma:** Globally >90% of esophageal cancers. Risk factors: smoking (3–7×), alcohol, fungal esophagitis, HPV (geographic variation 0–71%); tylosis (chromosome 17q25). Associated with achalasia, Plummer‑Vinson, celiac disease.
+* **Dysplasia grading:** Two‑tier – low‑grade (<50% epithelial thickness), high‑grade (>50%). Cytologic features: high N/C ratio, hyperchromasia, pleomorphism, increased mitoses.
 * **Gross SCC:** Most common in middle third (63.3%). Macroscopic: exophytic, ulcerating, infiltrating, or verrucous.
 * **Variants:** Verrucous SCC (well‑differentiated papillary, pushing invasion, poor prognosis due to local invasion/fistula). Carcinosarcoma/spindle cell (biphasic, 2%). Basaloid SCC (2–11%, high mitotic index, comedo‑necrosis, hyalinization).
 * **Superficial SCC:** Confined to mucosa/submucosa. Risk of nodal metastasis: intramucosal <5%, submucosal ~30–45%. 5‑year survival 50–60% for submucosal invasion.
@@ -31,19 +30,18 @@
 * **Microscopic adenocarcinoma:** Tubular/papillary patterns. Grading: well (>95% glands), moderate (50–95%), poor (<50%). Mucinous (colloid) 5–10%, signet ring 5%.
 * **Double muscularis mucosae in Barrett:** Can cause overstaging in EMR specimens (deep layer mimics muscularis propria).
 * **Molecular findings:** Aneuploidy/tetraploidy predict progression. p16, p27, p53 inactivation; cyclin D1 overexpression (up to 64%). EGFR and HER2 amplification (15–30%).
-* **Nodal metastasis risk in adenocarcinoma:** Intramucosal <5%, submucosal >30%.
-* **Neuroendocrine tumors (carcinoid):** WHO grading: Grade 1 (mitoses <2/10 HPF, Ki‑67 <3%), Grade 2 (2–20/10 HPF or Ki‑67 3–20%), Grade 3 (>20/10 HPF or Ki‑67 >20%) — corresponds to small cell carcinoma. Esophageal carcinoids favorable prognosis.
+* **Neuroendocrine tumors (carcinoid):** WHO grading: Grade 1 (mitoses <2/10 HPF, Ki‑67 <3%), Grade 2 (2–20/10 HPF or Ki‑67 3–20%), Grade 3 (>20/10 HPF or Ki‑67 >20%) – corresponds to small cell carcinoma.
 * **Small cell carcinoma:** 1–2.4% of esophageal cancers. Median survival 3–12 months. Immunohistochemistry: chromogranin, synaptophysin positive.
 * **Malignant melanoma:** Primary rare (0.03 per million). Requires demonstration of melanocytes in adjacent epithelium. Mean survival ~13 months.
 * **Gastrointestinal stromal tumor (GIST):** Most common in lower third. Incidental in 10% of esophagectomies for adenocarcinoma. KIT (CD117) and CD34 positive.
 
 ### Staging — 7th Edition (Chapter 12)
-* **Data source:** Worldwide Esophageal Cancer Collaboration — 4627 esophagectomy patients, no induction/adjuvant therapy.
-* **Analytical method:** Random Forest (RF) machine learning — no *a priori* assumptions, identifies complex interactions.
+* **Data source:** Worldwide Esophageal Cancer Collaboration – 4627 esophagectomy patients, no induction/adjuvant therapy.
+* **Analytical method:** Random Forest machine learning – no *a priori* assumptions, identifies complex interactions.
 * **T classification changes:** Tis = high‑grade dysplasia (includes carcinoma in situ). T4 subclassified: T4a (resectable: pleura/pericardium/diaphragm), T4b (unresectable: aorta/vertebral body/trachea).
 * **N classification (revolutionary):** Regional nodes include any paraesophageal from cervical to celiac. Subclassified by number of positive nodes: N0 (0), N1 (1–2), N2 (3–6), N3 (≥7). Harmonized with gastric cancer N classification.
 * **M classification:** M1a and M1b eliminated. MX eliminated. M0 (no distant metastasis), M1 (distant metastasis).
-* **Nonanatomic cancer characteristics:** Histopathologic cell type (adenocarcinoma vs SCC), histologic grade (G1–G4), tumor location (upper/middle vs lower thoracic esophagus, defined relative to inferior pulmonary vein).
+* **Nonanatomic cancer characteristics:** Histopathologic cell type (adenocarcinoma vs SCC), histologic grade (G1–G4), tumor location (upper/middle vs lower thoracic esophagus).
 * **Stage groupings for adenocarcinoma (M0):** T1N0 G1–G2 = IA; T1N0 G3 = IB; T2N0 G1–G2 = IB; T2N0 G3 = IIA; T3N0 = IIB; T1–2N1 (any G) = IIIA; T3N1 = IIIB; T4a any N = IIIC; T4b any N = IIIC; any T N3 = IIIC.
 * **Stage groupings for SCC (M0):** T1N0 G1 = IA; T1N0 G2–G3 = IB; T2–3N0 G1 lower = IB; T2–3N0 G1 upper/middle = IIA; T2–3N0 G2–G3 lower = IIA; T2–3N0 G2–G3 upper/middle = IIB; N1 any T1–2 = IIIA; N1 T3 = IIIA; N2 any T1–3 = IIIB; N3 any T = IIIC; T4b any N = IIIC.
 * **EGJ cancers:** Tumors with epicenter in EGJ or within proximal 5 cm of stomach extending into EGJ/esophagus staged as esophageal adenocarcinoma. Tumors with epicenter >5 cm from EGJ or within 5 cm but not crossing EGJ staged as gastric cancer.
@@ -51,143 +49,55 @@
 
 ### Surgical Approaches to EGJ Cancers (Chapter 13)
 * **Siewert classification for AEG:** Type I (distal esophagus, usually Barrett), Type II (true EGJ, cardiac epithelium or Barrett), Type III (subcardial gastric fundus).
-* **7th edition TNM harmonization:** Tumors with epicenter in EGJ or within proximal 5 cm of stomach extending into EGJ/esophagus are staged as esophageal adenocarcinoma.
 * **Lymphatic spread:** Extensive submucosal plexus gives rise to “jump metastases”. EGJ tumors drain extraperitoneally into retropancreatic area and left renal hilum, also to subcarinal, paratracheal, and aortopulmonary window nodes (22% involvement).
 * **Radical en bloc resection:** Wide local resection of primary tumor with radical lymph node dissection of middle and lower posterior mediastinum. Modern mortality <5%, 5‑year survival ~40% at experienced centers.
 * **Two‑field lymphadenectomy:** Entire posterior mediastinum, celiac trunk, common hepatic and splenic arteries, lesser curvature and lesser omentum.
 * **Transhiatal resection:** Avoids thoracotomy, shorter operative duration, fewer pulmonary complications. Hulscher randomized trial: overall survival similar, but trend favouring transthoracic (39% vs 29% 5‑year). For distal adenocarcinoma, 17% survival benefit for transthoracic.
-* **Minimum lymph nodes:** Peyre et al. — optimal survival requires resection of ≥23 lymph nodes.
-* **Transhiatal technique:** Median laparotomy, left neck incision. Gastric tube fashioned, pyloromyotomy, feeding jejunostomy. Retro‑ or presternal route.
-* **Transthoracic (left) technique:** Left 6th interspace thoracotomy, inverted T‑shaped diaphragm incision. En bloc resection, lymphadenectomy, ligation of thoracic duct. Cervical esophagogastrostomy.
-* **Gastric drainage procedure:** Controversial; tendency to leave pylorus intact; if outlet problem occurs, treat with prokinetics and/or balloon dilatation.
+* **Minimum lymph nodes:** Peyre et al. – optimal survival requires resection of ≥23 lymph nodes.
 
 ### Esophagoscopy (Chapter 14)
 * **Indications:** Suspected upper GI pathology, preoperative evaluation, therapy (ablative energy, variceal banding, bleeding control, stent deployment, foreign body removal).
-* **System components:** Scope (rigid or flexible), light source, optical system, working port. Flexible videoendoscope preferred for most applications.
-* **Preprocedural assessment:** NPO ≥6–8 hours. ASA ≥3 requires additional assessment; ASA ≥4 not for office setting. Coagulopathy increases risk.
-* **Monitoring for office endoscopy (Table 14‑3):** IV line, pulse oximetry, cardiac monitoring, BP, supplemental O₂. ACLS‑certified provider must accompany sedated patient.
-* **Technique:** Patient left lateral decubitus (conscious) or supine (general anesthesia). Advance scope with minimal force; centre lumen on monitor. Identify three narrowings: cricopharyngeus (14–15 cm), aortic arch/carina (24–25 cm), LES (40 cm). Examine Z‑line, stomach, duodenum.
-* **Therapeutic procedures:** Biopsy (regular or jumbo forceps), EMR, stricture dilation (Savary or pneumatic), guidewire placement for stenting.
+* **Monitoring for office endoscopy:** IV line, pulse oximetry, cardiac monitoring, BP, supplemental O₂. ACLS‑certified provider must accompany sedated patient.
+* **Technique:** Patient left lateral decubitus (conscious) or supine (general anesthesia). Advance scope with minimal force; centre lumen on monitor. Identify three narrowings: cricopharyngeus (14–15 cm), aortic arch/carina (24–25 cm), LES (40 cm).
 * **Complications:** Oversedation, aspiration, bleeding, perforation (most common at narrowings or diseased segment). Perforation: pain, tachycardia, subcutaneous emphysema, pneumothorax, mediastinal air. Immediate recognition and therapy reduce mortality.
-* **Future directions:** NOTES, wireless capsule endoscopy, virtual endoscopy with 3D CT reconstruction.
 
 ### Minimally Invasive Esophagectomy (Chapter 15)
 * **Indications:** Barrett with high‑grade dysplasia, end‑stage achalasia, strictures, esophageal cancer (all T stages except T4 in experienced hands). Neoadjuvant chemoradiation not a contraindication.
-* **Ivor Lewis MIE (preferred by authors):** Laparoscopic gastric mobilization + thoracoscopic esophageal dissection with intrathoracic anastomosis.
-* **Abdominal phase (5 ports):** Mobilize stomach, divide short gastric vessels, Kocher maneuver. Construct 4–5 cm wide gastric tube with Endo‑GIA stapler. Pyloroplasty. Feeding jejunostomy (10‑Fr).
-* **Thoracic phase (4–5 ports, right chest):** Dissect esophagus, take down inferior pulmonary ligament, azygos vein divided. Remove periesophageal and subcarinal nodes. Create EEA stapled anastomosis (esophagogastric).
-* **3‑hole modified McKeown:** Dissection continued to thoracic inlet, Penrose drain around esophagus. Cervical incision, deliver gastric conduit, cervical esophagogastric anastomosis (hand‑sewn or stapled). Tack gastric tube to hiatus.
+* **Ivor Lewis MIE:** Laparoscopic gastric mobilization + thoracoscopic esophageal dissection with intrathoracic anastomosis.
 * **Results (Pittsburgh, n=1011):** 30‑day mortality 1.7%, median ICU stay 2 days, hospital LOS 8 days, R0 98%, median LN 21.
 * **Complications:** Anastomotic leak 4.8% (requiring surgery), chylothorax 3.2%, tracheal tear 0.9%, gastric tip necrosis 2.4%, pneumonia 7.7%, vocal cord paresis 4.2%.
-* **Alternative approaches:** Laparoscopic transhiatal with video mediastinoscope, nasogastric tube inversion technique, prone position esophagectomy, robotic assistance.
-
-### Transhiatal Esophagectomy (Chapter 16)
-* **Advantages:** No thoracotomy, reduced pulmonary complications, shorter LOS, avoids one‑lung anesthesia. Disadvantages: blind mediastinal dissection, inability to perform extensive lymphadenectomy, risk of vascular/airway injury for T3+ tumors.
-* **Evidence:** Transhiatal associated with reduced pulmonary complications and in‑hospital mortality but increased anastomotic leak and vocal cord paralysis. No clear long‑term survival difference, but trend favouring transthoracic for limited nodal involvement.
-* **Technique:** Upper midline laparotomy + left neck incision. Mobilize stomach, preserve gastroepiploic arcade. Pyloromyotomy or pyloroplasty. Blunt dissection of thoracic esophagus (anterior and posterior) using finger dissection. Cervical esophagus divided, gastric tube fashioned, delivered to neck via posterior mediastinum. Hand‑sewn two‑layer cervical esophagogastrostomy. Feeding jejunostomy.
-* **Postoperative care:** Head elevated ≥30°, NGT patency critical. Barium swallow on POD 7.
-* **Complications:** Recurrent laryngeal nerve injury (left > right), chylothorax, anastomotic leak (early technical vs delayed ischemic). Leak managed by opening neck wound, drainage. Stricture — serial dilatation with Savary bougies.
-
-### Three‑Hole Esophagectomy (Brigham) (Chapter 17)
-* **Two‑stage procedure:** (1) Right muscle‑sparing posterolateral thoracotomy (5th interspace) — direct vision dissection of entire esophagus, complete thoracic lymphadenectomy, azygos vein divided. (2) Supine position — simultaneous upper midline laparotomy and left cervical incision.
-* **Abdominal dissection:** Mobilize stomach, preserve right gastroepiploic arcade, divide short gastric vessels, left gastric artery ligated. Pyloromyotomy or pyloroplasty.
-* **Left cervical dissection:** Sternocleidomastoid border, avoid left recurrent nerve. Retrieve Penrose drain from thoracic dissection. Divide cervical esophagus, place heavy silk suture on distal end.
-* **Gastric conduit:** Linear stapler along greater curvature to create narrow gastric tube (4–5 cm). Elevate through hiatus using Foley‑camera bag technique. Cervical esophagogastrostomy (hand‑sewn or stapled).
-* **Complication rates (n=250):** RLN injury 14%, chylothorax 9%, anastomotic leak 8%, pneumonia 5%, postoperative bleeding 2%.
-* **Prevention strategies:** Epidural catheter, mechanical bowel preparation, oral antibiotics, prophylactic thoracic duct ligation, jejunostomy feeding tube.
-
-### Ivor Lewis Esophagectomy (Chapter 18)
-* **Two‑stage:** Laparotomy (gastric mobilization + tubularization) → right thoracotomy (esophageal resection + intrathoracic anastomosis).
-* **Abdominal phase:** Enter lesser sac, divide greater omentum preserving gastroepiploic arcade, short gastric vessels. Kocher maneuver. Ligate left gastric artery at origin. Create 4–5 cm wide gastric tube with linear staplers. No routine pyloroplasty (digitoclasy optional).
-* **Thoracic phase (5th interspace):** Divide azygos vein. En bloc resection of esophagus with surrounding tissues (thoracic duct included). Enlarged lymphadenectomy (paratracheal, aortopulmonary window, along right recurrent nerve).
-* **Anastomosis:** Hand‑sewn two‑layer (posterior seromuscular + full‑thickness, anterior full‑thickness + seromuscular) or circular stapled (≥25 mm). Covered with pleural flap.
-* **Postoperative:** Extubate early, epidural analgesia, NGT kept, contrast study POD 5.
-* **Complications:** Atelectasis (very common), anastomotic leak (0–9% in series), stricture (≥33%, responds to Savary dilation), delayed gastric emptying (balloon dilation + prokinetics), reflux (more severe with lower anastomosis).
-* **Results (5‑year survival):** 25–33% stage‑dependent. N0 45–56% vs N+ 10–15%.
 
 ### Radical En Bloc Esophagectomy (Chapter 19)
-* **Concept:** Wide margin of periesophageal tissue — both pleural surfaces laterally, patch of pericardium anteriorly, thoracic duct posteriorly, mediastinal nodes from tracheal bifurcation to hiatus.
-* **Three‑field option (Japan origin):** Includes superior mediastinal and cervical nodes. Occult cervical metastases in 1/3 of patients, even for lower‑third tumours.
-* **Thoracic phase (right 5th interspace):** Incise mediastinal pleura over azygos from arch to aorta. Mobilize thoracic duct (ligate inferiorly and superiorly). Resect arch of azygos. Clear hilar, subcarinal, paraesophageal, paraaortic nodes. Dissect along right and left recurrent nerves (no‑touch technique).
-* **Abdominal phase:** Retroperitoneal dissection along superior border of pancreas. Sweep nodes toward hiatus; ligate left gastric artery at celiac origin; dissect common hepatic artery nodes.
-* **Neck phase:** Low collar incision, retrieve esophagus, dissect recurrent nodal chain, supraclavicular nodes.
+* **Concept:** Wide margin of periesophageal tissue – both pleural surfaces laterally, patch of pericardium anteriorly, thoracic duct posteriorly, mediastinal nodes from tracheal bifurcation to hiatus.
+* **Three‑field option:** Includes superior mediastinal and cervical nodes. Occult cervical metastases in 1/3 of patients, even for lower‑third tumours.
 * **Results (Altorki, n=111):** 5‑year survival 40% (node‑negative 75%, node‑positive 26%). Stage III 5‑year 39% (vs 11% conventional). Local recurrence 8% (vs 31–45% conventional).
-* **Lerut series (n=174, R0, three‑field):** 5‑year survival 41.9%, locoregional recurrence 5.2%. Positive cervical nodes in 23% (adeno) and 25% (SCC); 5‑year survival with positive cervical nodes 27.2% (suggesting should be N1, not M1).
-* **Hulscher randomized trial:** No significant difference overall, but trend for en bloc at 5 years (39% vs 29%). Subgroup analysis: Siewert type I tumours had absolute 14% survival advantage with en bloc.
 
-### Three‑Field Esophagectomy (Juntendo) (Chapter 20)
+### Three‑Field Esophagectomy (Juntendo, Chapter 20)
 * **Experience (1998–2011, n=1123):** Average lymph nodes dissected 108 (41 neck, 35 mediastinum, 31 abdomen). Metastatic rate 69.1% (pT1b 54.7%, pT2 66.4%, pT3/4 81.0%).
 * **Top metastatic stations:** Right recurrent laryngeal nodes (106‑recR 23.8%), lesser curvature (3: 21.6%). Common sites (10–20%): left recurrent laryngeal (18.8%), left gastric artery (18.0%), posterior mediastinal (17.0%), pericardial (14.5–16.6%).
-* **Preoperative diagnosis accuracy:** True‑positive rate — neck 85–94%, thorax 79–86%, abdomen 78–86%. False‑negative rate across all fields 53.7%.
-* **Technique:** Anterolateral thoracotomy (4th ICS), en bloc dissection of thoracic duct, azygos, pleura, periesophageal tissues. Identify both recurrent nerves, clear upper mediastinal nodes (including recurrent nerve chain). Preserve bronchial arteries and pulmonary branches of vagus. Abdominal D2 dissection (as for gastric cancer). Neck: collar incision, remove middle deep cervical and supraclavicular nodes (102, 104), then nodes along recurrent nerve (101).
 * **Postoperative morbidity:** Hypoxemia 25.4%, pneumonia/atelectasis/edema. Cardiac complications 22.9%. Anastomotic leak clinical 3.2% (radiologic 6.0%). Recurrent nerve palsy 10.1% (95% left).
 * **Mortality:** Direct operative 1.3%, hospital 3.1%.
 * **Long‑term prognosis:** 5‑year survival 62.5% (N0 81.0%, N1 69.3%, N2 44.9%, N3 19.1%). Multivariate analysis: extent of lymph node dissection independent prognostic factor (risk ratio 0.5501).
 
-### Left Thoracoabdominal Approach (Chapter 21)
-* **Indications:** Distal esophageal tumours inferior to aortic arch, gastric cardia lesions.
-* **Incision:** Extended from 7th or 8th rib across costal arch, left rectus, diaphragm. Can be extended for high supra‑aortic anastomosis.
-* **Thoracic dissection:** Descending aorta bared, aortoesophageal branches divided. Mobilize esophagus to left mainstem bronchus. Left recurrent nerve carefully preserved. Thoracic duct not routinely ligated.
-* **Abdominal dissection:** Divide greater omentum outside gastroepiploic arcade. Short gastric vessels controlled. Preserve accessory left hepatic artery if present. Left gastric artery doubly ligated at origin.
-* **Gastric transection:** From greater curvature opposite left gastroepiploic artery to lesser curvature below lowest branch of left gastric artery. Preserve fundus to maximize length. Turn staple line with Lembert sutures.
-* **Pyloromyotomy:** Preferred over pyloroplasty (retains some barrier to bile reflux). If mucosa violated, convert to Heineke‑Mikulicz pyloroplasty.
-* **Anastomosis:** Two‑layer hand‑sewn end‑to‑side (mouth to gastric tube). No tension. Outer row horizontal mattress (4‑0 silk), inner row full‑thickness (oiled 4‑0 silk). Omentum wrap. Jejunostomy tube.
-* **Results (MGH, n=101):** Mortality 2.9%, no anastomotic leaks.
-
-### Left Transthoracic Esophagectomy (Ellis) (Chapter 22)
-* **Advantages:** Single incision, shorter operative time (2–3 hours). Ideal for short‑segment Barrett and T1 tumours of EGJ.
-* **Disadvantages:** Limited abdominal exposure, no pyloric drainage (but meta‑analysis shows pyloric drainage only reduces early dysfunction from 10% to lower, with trend toward more bile reflux). Jejunostomy not feasible (can place nasojejunal tube or separate laparoscopic jejunostomy). Right‑handed surgeons may find anastomosis angle challenging.
-* **Technique:** Right lateral decubitus, 7th interspace incision, preserve serratus anterior. Harvest intercostal muscle bundle if neoadjuvant therapy given. Incise mediastinal pleura, mobilise esophagus, encircle with Penrose drain. Incise diaphragm 2–4 cm from costal margin (marking sutures). Explore abdomen, mobilise stomach, divide short gastric vessels, identify left gastric artery and vein (ligate with vascular stapler). Create 3–4 cm wide gastric tube with Endo‑GIA (green load). Bring conduit into chest.
-* **Anastomosis:** Hand‑sewn two‑layer (outer 3‑0 silk horizontal mattress, inner 4‑0 absorbable). Posterior wall performed before esophagus divided (specimen retracted superiorly for exposure). Bevel esophagus for longer anterior length. Nasogastric tube advanced under vision. Outer layer completed; optional buttress with intercostal muscle or gastric “ink‑well”.
-* **Postoperative:** Chest tube to −20 cm H₂O. Barium swallow POD 7 (POD 10 if neoadjuvant therapy). Liquid diet started; coloured liquid used as secondary leak test.
-
-### Options for Esophageal Replacement (Chapter 23)
-* **Stomach:** Preferred first alternative despite life‑long reflux and aspiration. Whole stomach or narrow tube (4–5 cm) along greater curvature.
-* **Jejunum:** Size‑match excellent, free of intrinsic disease, no senescent lengthening, reliable blood supply. Microvascular augmentation (“supercharged”) overcomes length limitation.
-* **Supercharged jejunal technique:** Retrostenal tunnel, remove left hemimanubrium/clavicular head/first rib to create space. Conduit based on 2nd to 4th jejunal vessels; divide between 2nd and 3rd pedicles, open mesentery to unfurl. Indicator flap from distal 2–3 cm externalised. Venous anastomosis to internal jugular, arterial to carotid (or via saphenous graft).
-* **Jejunal results (MD Anderson, 60 patients):** Anastomotic leak 31.7% (9 required major intervention), graft loss 6.7%, 30‑day mortality 5%, 88% returned to regular diet. Median survival 28 months, 5‑year OS 30%.
-* **Colon interposition:** Based on ascending branch of left colic artery (left colon) or middle colic (right colon). Isoperistaltic left colon conduit better size‑match and thicker wall. Requires mechanical bowel preparation, CT angiogram, colonoscopy.
-* **Colon technique:** Mobilise left colon, preserve ascending branch of left colic artery. Clamp test 5–10 minutes. Pass retrogastric via posterior mediastinum or retrosternal. Neck anastomosis similar to jejunal.
-* **Colon outcomes:** Anastomotic leak, graft loss, mortality not significantly different from gastric pull‑up. Late reoperation for dilation, stasis, regurgitation in up to 30%.
-* **Comparison:** Jejunum maintains intrinsic peristalsis (though uncoordinated — may cause early dysphagia that resolves with “learning curve”). Colon has higher risk of redundancy and angulation.
-
 ### Palliative Options (Chapter 24)
 * **Self‑expanding metal stents (SEMS):** Provide immediate relief, >85% palliation. Covered stents reduce tumour ingrowth but increase migration. Antireflux stents (Dua Z‑stent, FerX‑ELLA) for distal tumours.
-* **SEMS deployment:** Under endoscopic + fluoroscopic guidance; minimal dilation. Stent length should be several cm longer than stricture. Proximal deployment for cervical lesions, distal deployment for GEJ.
 * **Complications of SEMS:** Migration 0–10%, food impaction 8%, bleeding 0–6%, reflux 11%, tumour ingrowth 4–33%, perforation 1–3%, mortality 0%, airway compression <1%.
 * **Photodynamic therapy (PDT):** Photofrin (porfimer sodium) IV 24–48 h before light (630 nm, 300–400 J/cm). Depth of necrosis ~5 mm → lower perforation risk than laser. Sun sensitivity for ~4 weeks. Stricture rate ~2% (for palliation).
-* **Cryoablation:** Liquid nitrogen spray (−196°C) via 7‑Fr catheter. Requires gastric decompression tube (1:694 expansion ratio). Indicated for bleeding, tumour overgrowth around stents; less useful for obstructing tumours.
-* **Nd:YAG laser (1064 nm, up to 90 W):** Effective for endoluminal tumours, bleeding. Perforation rate 7–10%. Do not use with covered stents (fire risk).
-* **Chemoradiation for palliation:** Median time to improvement 6 weeks (too slow for patients with expected survival 3–4 months).
-* **Brachytherapy:** High‑dose‑rate (12 Gy single fraction or 22.5 Gy/3 fractions). More sustained relief than stents but slower onset. Quality of life scores better with brachytherapy.
-
-### Malignant Esophageal Fistula (Chapter 25)
-* **Diagnosis:** Fluoroscopy with dilute barium + thin‑cut CT; bronchoscopy often visualises fistula better than esophagoscopy. CT also evaluates airway compression.
-* **Principles:** Broad‑spectrum antibiotics (cover gram‑positives, anaerobes, yeast), NPO, alternative nutrition. Drain any contaminated collection (pleural, pericardial, peritoneal).
-* **SEMS for fistula:** Fully covered stent is primary treatment. Stent should be ≥4 cm longer than fistula, covered segment extending 2–4 cm proximal and distal. If obstruction present, dilate to 6–10 mm before stent passage. Tracheal stent if bulky tumour compresses airway.
-* **Surgical drainage:** Thoracoscopic decortication and mediastinal abscess drainage. Cervical drain for proximal fistulas. Esophagostomy only as last resort.
-* **Follow‑up:** Esophagram ≥24 h after stent, oral liquids if sealed. Stent removed after 4–6 weeks (if healing confirmed).
-* **Prognosis:** Median survival 2–6 months, but SEMS provides least morbid palliation compared to open exclusion/diversion.
+* **Cryoablation:** Liquid nitrogen spray (−196°C) via 7‑Fr catheter. Requires gastric decompression tube (1:694 expansion ratio). Indicated for bleeding, tumour overgrowth around stents.
 
 ### Salvage Surgery for Recurrent Esophageal Cancer (Chapter 26)
 * **Definition:** Esophagectomy after failure of definitive chemoradiotherapy (persistent or recurrent disease) or after prior esophagectomy (anastomotic recurrence or remnant cancer).
-* **Key finding from literature:** R0 resection is prerequisite for any survival benefit. R1/R2 resections rarely survive beyond 13–26 months.
+* **Key finding:** R0 resection is prerequisite for any survival benefit. R1/R2 resections rarely survive beyond 13–26 months.
 * **Predictors of R0:** Cancer length ≤5 cm, contact between primary and aorta ≤90° on CT, recurrent (not persistent) disease, longer disease‑free interval, ypN0/rpN0.
-* **Operative mortality:** High — 7–15% (vs 2–4% for planned esophagectomy). Pulmonary complications and anastomotic leaks are most common; conduit and airway necrosis frequently lethal.
-* **Median survival after R0:** 12–36 months, 5‑year survival 25–35%. Disease‑free survival 10–20%.
-* **Contraindications:** M1, T4, N2/N3 (N1 relative contraindication). Patient must have good performance status (Zubrod 0), normal albumin, no anemia.
-* **Critical preoperative step:** Multidisciplinary discussion before any definitive treatment. Patients should be selected upfront rather than as “salvage” after inappropriate therapy.
+* **Operative mortality:** High – 7–15% (vs 2–4% for planned esophagectomy). Pulmonary complications and anastomotic leaks most common; conduit and airway necrosis frequently lethal.
+* **Median survival after R0:** 12–36 months, 5‑year survival 25–35%.
 
 ### Radiation Therapy (Chapter 27)
 * **Radiation alone:** Historically poor outcomes (5‑year survival 6% in early series). RTOG 85‑01 radiation‑only arm 5‑year survival 0%. Considered palliative only.
-* **Definitive chemoradiation:** Concurrent cisplatin/5‑FU + 50.4 Gy (standard dose). RTOG 85‑01: 5‑year survival 27% (vs 0% with radiation alone). Intergroup 0123: dose escalation to 64.8 Gy provided no benefit (median survival 13 vs 18 months, p=NS) and more deaths.
-* **Adding surgery after definitive chemoradiation:** FFCD 9102 and German trial — no overall survival benefit, but improved locoregional control (34% vs 43% local recurrence, p=0.001) and reduced need for stents. Treatment‑related mortality higher with surgery.
-* **Neoadjuvant chemoradiation — positive trials:** Walsh (adeno, 40 Gy, 5‑FU/cisplatin) → 3‑year survival 32% vs 6%. CALGB 9781 → median survival 4.5 vs 1.8 years, 5‑year 39% vs 16%. CROSS (41.4 Gy, carboplatin/paclitaxel) → median survival 49 vs 24 months, R0 92% vs 69%, pCR 29%.
-* **Neoadjuvant chemotherapy:** Meta‑analysis shows 13% survival benefit (17% for adenocarcinoma, no benefit for SCC). Less effective than chemoradiation.
-* **Postoperative radiation:** No survival benefit in three older trials (Hong Kong, French, Chinese). However, Intergroup 0116 (GEJ tumours) showed adjuvant chemoradiation improved median survival (36 vs 27 months). Used for GEJ cancers that underwent up‑front surgery.
-* **Brachytherapy for palliation:** Single‑dose 12 Gy — more sustained relief than stents, better quality of life. Combination with external beam improves symptoms but not survival.
-* **Treatment‑related toxicity:** Radiation pneumonitis correlates with mean lung dose and V20 (volume receiving 20 Gy). Cardiac toxicity may become important with improving cure rates (extrapolated from breast cancer data).
-* **Metastatic disease:** Palliative external beam effective for bone metastases. SBRT used for spinal and liver metastases.
+* **Definitive chemoradiation:** Concurrent cisplatin/5‑FU + 50.4 Gy (standard dose). RTOG 85‑01: 5‑year survival 27% (vs 0% with radiation alone). Intergroup 0123: dose escalation to 64.8 Gy provided no benefit.
+* **Neoadjuvant chemoradiation – positive trials:** Walsh (adeno, 40 Gy, 5‑FU/cisplatin) → 3‑year survival 32% vs 6%. CALGB 9781 → median survival 4.5 vs 1.8 years, 5‑year 39% vs 16%. CROSS (41.4 Gy, carboplatin/paclitaxel) → median survival 49 vs 24 months, R0 92% vs 69%, pCR 29%.
+* **Adjuvant chemoradiation:** Intergroup 0116 (GEJ tumours) showed improved median survival (36 vs 27 months). Used for GEJ cancers that underwent up‑front surgery.
+* **Brachytherapy for palliation:** Single‑dose 12 Gy – more sustained relief than stents, better quality of life.
 
 </div></details>
 
@@ -203,19 +113,27 @@ Esophageal cancer is the eighth most frequent cancer worldwide. It is the sixth 
 
 The boundaries of the esophagus are the inferior cricopharyngeal constrictor proximally and the esophagogastric junction distally. The esophagus is composed of four layers: mucosa, submucosa or lamina propria, muscularis propria, and adventitia (Fig. 10-1). The esophagus has no serosa, providing a teleologic explanation for the ease of spread of esophageal cancer. Familiarity with the histology of the esophageal wall is critical to understanding the staging system of esophageal cancer (see also Chapters 11 and 12).
 
-<span id="fig-10-1"></span>**Figure 10-1.** The four layers of the esophagus: mucosa, submucosa or lamina propria, muscularis propria, and adventitia.
+<span id="fig-10-1"></span>![](_page_1_Figure_11.jpeg)
+
+**Figure 10-1.** The four layers of the esophagus: mucosa, submucosa or lamina propria, muscularis propria, and adventitia.
 
 Anatomically, the normal adult esophagus is approximately 35 cm in length and 2.5 cm in diameter, although it is not uniform throughout its course. The course of the esophagus begins in the midline in the upper neck at the level of the sixth cervical vertebra, which corresponds roughly to the level of the cricoid cartilage, and then deviates to the left in the lower neck and upper thorax. At the level of the tracheal bifurcation (24 cm from the incisors by endoscopic measurement), the esophagus again returns to the midline only to deviate to the left once again in the lower thorax, where it enters the abdomen through the diaphragmatic hiatus (40 cm from the incisors). Clinically, the esophagus is divided into three segments, the cervical, middle, and distal segments. The cervical segment ranges from the cricoid cartilage to the thoracic inlet (10–18 cm from the incisors). The middle esophageal segment ranges from the thoracic inlet to the midpoint between the tracheal bifurcation and the esophagogastric junction (19–34 cm). The distal esophageal segment extends from the midpoint between the tracheal bifurcation and the esophagogastric junction (35–44 cm). Three distinct narrowings are present in the esophagus. The first narrowing is formed by the cricopharyngeus muscle and is the narrowest segment of the gastrointestinal tract, located 12 to 15 cm from the incisors in the adult. The second narrowing is caused by the tracheal bifurcation and aortic arch at approximately 24 to 26 cm from the incisors. The last narrowing is located at the lower esophageal sphincter, approximately 40 to 44 cm from the incisors.
 
-The arterial blood supply of the esophagus is segmental (Fig. 10-2). The upper esophagus is supplied by branches from the inferior thyroid and subclavian arteries. The midesophagus receives blood from the bronchial arteries and direct branches from the thoracic aorta. The lower esophagus is supplied by branches of the inferior phrenic and gastric vessels. Venous drainage of the esophagus is segmental as well. The upper esophagus drains via the inferior thyroid veins. The midesophagus drains into the bronchial and azygos or hemiazygos veins. The lower esophagus drains into the coronary vein. As with the arterial network, the rich plexus of veins in the submucosa makes venous congestion unlikely.
+<span id="fig-10-2"></span>![](_page_2_Picture_2.jpeg)
+
+**Figure 10-2.** Arterial blood supply of the esophagus.
+
+The arterial blood supply of the esophagus is segmental. The upper esophagus is supplied by branches from the inferior thyroid and subclavian arteries. The midesophagus receives blood from the bronchial arteries and direct branches from the thoracic aorta. The lower esophagus is supplied by branches of the inferior phrenic and gastric vessels. Venous drainage of the esophagus is segmental as well. The upper esophagus drains via the inferior thyroid veins. The midesophagus drains into the bronchial and azygos or hemiazygos veins. The lower esophagus drains into the coronary vein. As with the arterial network, the rich plexus of veins in the submucosa makes venous congestion unlikely.
 
 Lymphatic drainage of the esophagus consists of two longitudinal interconnecting networks, the lymph channels and the lymph nodes. The intraesophageal or mucosal network of lymph channels is connected to the submucosa through transverse interconnections (Fig. 10-3). These collecting lymph channels merge, forming larger channels that feed into the extraesophageal lymph nodes (Fig. 10-4). It is estimated that the longitudinal flow is significant, which also may explain the frequency of spread of tumor along lymphatics. Flow proceeds in either direction freely and can be influenced by intrathoracic pressure differences and/or obstruction of lymphatic channels. The typical drainage pattern, however, is as follows: Cervical lymphatics drain into the internal jugular and supraclavicular nodes, the midesophagus drains into the paraesophageal and periesophageal nodes in the mediastinum, and the inferior esophagus drains below the diaphragm to the region of the cardia, left gastric vessels, lesser curve of the stomach, and celiac axis.
 
-<span id="fig-10-2"></span>**Figure 10-2.** Arterial blood supply of the esophagus.
+<span id="fig-10-3"></span>![](_page_2_Picture_5.jpeg)
 
-<span id="fig-10-3"></span>**Figure 10-3.** Two longitudinal networks of intraesophageal lymph channels traverse the muscularis feeding into the regional extraesophageal lymph node network.
+**Figure 10-3.** Two longitudinal networks of intraesophageal lymph channels traverse the muscularis feeding into the regional extraesophageal lymph node network.
 
-<span id="fig-10-4"></span>**Figure 10-4.** Longitudinal extraesophageal lymph node network.
+<span id="fig-10-4"></span>![](_page_3_Picture_2.jpeg)
+
+**Figure 10-4.** Longitudinal extraesophageal lymph node network.
 
 </div></details>
 
@@ -576,7 +494,7 @@ The main message from this chapter is that esophageal cancer must be approached 
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## Chapter 11: Pathology of Esophageal Cancer</summary><div class="details-content">
@@ -609,7 +527,9 @@ Fungal esophagitis, mostly due to *Candida* spp., is very common in the Linxian 
 
 There is an increased risk of esophageal carcinoma after ingestion of lye (crude sodium hydroxide with sodium carbonate), typically after a time interval of 40 years. The evidence for development of cancer in strictures from other causes is less convincing. Esophageal cancer has been reported following therapeutic radiation for neck and spinal diseases, after radiation to the chest for breast carcinoma and, less frequently, for lymphoma. Polycyclic aromatic hydrocarbons may also play a role in the pathogenesis of esophageal cancer.
 
-<span id="fig-11-1"></span>**Figure 11-1.** Squamous cell dysplasia is categorized as low grade when the thickness of mucosa involved with basaloid undifferentiated cells is less than 50% (A) and as high grade when it exceeds 50% (B).
+<span id="fig-11-1"></span>![](_page_15_Picture_2.jpeg)
+
+**Figure 11-1.** Squamous cell dysplasia is categorized as low grade when the thickness of mucosa involved with basaloid undifferentiated cells is less than 50% (*A*) and as high grade when it exceeds 50% (*B*).
 
 A study from Northern Iraq found a positive family history of esophageal cancer in 47.1% of patients in high-risk regions, compared with only 2% among the low-risk population. Familial esophageal cancer in families associated with keratosis palmaris and plantaris (tylosis), inherited as a dominant trait, have been described. The tylosis esophageal cancer (TOC) gene locus was recently mapped to chromosome 17q25. This locus is also commonly deleted in sporadic esophageal squamous cell carcinomas, suggesting the existence of a tumor suppressor gene for esophageal squamous cell carcinoma at this site.
 
@@ -625,7 +545,7 @@ Other conditions associated with an increased risk of esophageal cancer include 
 
 Chronic esophagitis is common in populations with a high incidence of esophageal carcinoma, and usually involves the middle and lower thirds of the esophagus. "White" patches are seen at endoscopy, which corresponds to acanthosis and swollen clear squamous cells. Squamous dysplasia is a precursor of esophageal squamous cell carcinoma. Dysplasia may appear endoscopically as areas of friable or erythematous mucosa, erosions, plaques, or nodules. Ill-defined irregularities of the mucosal surface, or white patches, also may be present. In a very small proportion of cases, foci of dysplasia, or cancer, may appear endoscopically normal. The age distribution of dysplasia and carcinoma suggested a continuous progression from mild to severe dysplasia and carcinoma in situ. Further evidence of the role of dysplasia as a precancerous lesion comes from its frequent occurrence in areas adjacent to, or distant from, invasive squamous carcinoma when esophagectomy specimens have been studied in detail. Prevalence of dysplasia at the margins of invasive carcinoma is reported to be inversely related to the depth of invasion of the main lesion. This suggests that dysplasia represents a precursor lesion rather than cancerization of overlying benign epithelium by the invasive carcinoma. Multicentric tumors may be present in 15% to 30% of squamous cell carcinomas further supporting the idea of a "field effect" in carcinogenesis.
 
-The histological criteria for dysplasia include architectural and cytological abnormalities. Two classifications have been used. The original classification defined dysplasia as mild when <25% of the epithelium was involved, moderate when 25% to 50% of the epithelium was involved, and severe when more than 50% of the mucosa was involved. A two-tiered system, where low-grade dysplasia is defined as <50% and high-grade dysplasia as >50% involvement of the epithelium with neoplastic cells, is preferred (Fig. 11-1A,B). Cytological features of dysplasia include high nuclear-cytoplasmic ratio, nuclear hyperchromasia and pleomorphism, and increased mitotic activity. Dysplasia also may spread in a pagetoid fashion or into underlying esophageal gland ducts. In some cases, the presence of koilocytotic change may reflect an underlying HPV infection.
+The histological criteria for dysplasia include architectural and cytological abnormalities. Two classifications have been used. The original classification defined dysplasia as mild when <25% of the epithelium was involved, moderate when 25% to 50% of the epithelium was involved, and severe when more than 50% of the mucosa was involved. A two-tiered system, where low-grade dysplasia is defined as <50% and high-grade dysplasia as >50% involvement of the epithelium with neoplastic cells, is preferred ([Fig. 11-1](#fig-11-1)A,B). Cytological features of dysplasia include high nuclear-cytoplasmic ratio, nuclear hyperchromasia and pleomorphism, and increased mitotic activity. Dysplasia also may spread in a pagetoid fashion or into underlying esophageal gland ducts. In some cases, the presence of koilocytotic change may reflect an underlying HPV infection.
 
 In the presence of significant inflammation, a diagnosis of dysplasia should be made with caution because regenerative changes secondary to inflammation, radiation, or chemotherapy may mimic dysplasia. Unlike dysplasia, regenerative epithelium shows surface maturation and does not show significant nuclear crowding and loss of polarity, and atypical mitoses are typically absent. Vesicular chromatin, with prominent nucleoli, is often present in regenerating epithelium. In cases of uncertainty, a diagnosis of "indefinite for dysplasia" should be rendered.
 
@@ -643,9 +563,13 @@ Squamous cell carcinoma is rare in the upper third of the esophagus, most common
 
 #### Microscopic Pathology of Squamous Cell Carcinoma</summary><div class="details-content">
 
-Esophageal squamous cell carcinomas show all grades of differentiation. Well-differentiated lesions are composed of well-defined nests of tumor cells with keratinization while poorly differentiated tumors show sheets of undifferentiated tumor cells without any evidence of keratinization (Fig. 11-2A,B). Some tumors may show a predominance of basaloid tumor cells with peripheral palisading similar to a basal cell carcinoma. In most tumors, keratin pearls or intercellular bridges are present. Variation of cellular differentiation in different parts of the tumor is common. Histochemical, immunohistochemical, and ultrastructural studies have confirmed morphological heterogeneity. Focal adenocarcinomatous differentiation may be present in some tumors.
+Esophageal squamous cell carcinomas show all grades of differentiation. Well-differentiated lesions are composed of well-defined nests of tumor cells with keratinization while poorly differentiated tumors show sheets of undifferentiated tumor cells without any evidence of keratinization ([Fig. 11-2](#fig-11-2)A,B). Some tumors may show a predominance of basaloid tumor cells with peripheral palisading similar to a basal cell carcinoma. In most tumors, keratin pearls or intercellular bridges are present. Variation of cellular differentiation in different parts of the tumor is common. Histochemical, immunohistochemical, and ultrastructural studies have confirmed morphological heterogeneity. Focal adenocarcinomatous differentiation may be present in some tumors.
 
-<span id="fig-11-2"></span>**Figure 11-2.** The spectrum of invasive squamous cell carcinoma ranges from well-differentiated tumors (A) with bland, monomorphic nuclei with minimal cytological atypia to those that are poorly differentiated (B) and show marked nuclear hyperchromasia, pleomorphism, and abundant atypical mitoses.
+<span id="fig-11-2"></span>![](_page_16_Picture_2.jpeg)
+
+![](_page_16_Picture_3.jpeg)
+
+**Figure 11-2.** The spectrum of invasive squamous cell carcinoma ranges from well-differentiated tumors (*A*) with bland, monomorphic nuclei with minimal cytological atypia to those that are poorly differentiated (*B*) and show marked nuclear hyperchromasia, pleomorphism, and abundant atypical mitoses.
 
 </div></details>
 
@@ -653,17 +577,23 @@ Esophageal squamous cell carcinomas show all grades of differentiation. Well-dif
 
 #### Histologic Variants of Squamous Cell Carcinoma</summary><div class="details-content">
 
-**Verrucous Squamous Cell Carcinoma** of the esophagus is extremely rare. These are large, exophytic neoplasms with a papillary or warty appearance and are often associated with stricture formation. The age range of patients is broad, but there is a male predilection. These tumors can arise at any site in the esophagus. But in most cases occur in the upper third. Histologically, verrucous carcinoma consists of papillary projections of well-differentiated squamous cells, with parakeratosis and hyperkeratosis most prominent between papillae (Fig. 11-3). Evidence of invasion is frequently lacking in biopsies. Pathologists may interpret the "bland" features as a benign process if they are unaware of the endoscopic appearance. Invasion is typically in the form of a broad pushing front, and may be difficult to diagnose with certainty even in resection specimens. Despite low-grade morphology, and a low risk of distant metastases, this tumor has a poor prognosis because of its propensity to invade locally, and develop fistulas.
+**Verrucous Squamous Cell Carcinoma** of the esophagus is extremely rare. These are large, exophytic neoplasms with a papillary or warty appearance and are often associated with stricture formation. The age range of patients is broad, but there is a male predilection. These tumors can arise at any site in the esophagus. But in most cases occur in the upper third. Histologically, verrucous carcinoma consists of papillary projections of well-differentiated squamous cells, with parakeratosis and hyperkeratosis most prominent between papillae ([Fig. 11-3](#fig-11-3)). Evidence of invasion is frequently lacking in biopsies. Pathologists may interpret the "bland" features as a benign process if they are unaware of the endoscopic appearance. Invasion is typically in the form of a broad pushing front, and may be difficult to diagnose with certainty even in resection specimens. Despite low-grade morphology, and a low risk of distant metastases, this tumor has a poor prognosis because of its propensity to invade locally, and develop fistulas.
 
-<span id="fig-11-3"></span>**Figure 11-3.** Verrucous carcinomas show papillary fronds of extremely well-differentiated squamous cells with marked parakeratosis and hyperkeratosis. Invasion is typically along a broad front with pushing margins and may be difficult to demonstrate even in resection specimens.
+<span id="fig-11-3"></span>![](_page_16_Figure_13.jpeg)
 
-**Carcinosarcoma (Spindle Cell Carcinoma)** was first described by Virchow in 1865. It is also termed "polypoid carcinoma," "sarcomatoid carcinoma," and "spindle cell carcinoma." These tumors represent about 2% of all esophageal carcinomas. It affects predominantly adult men between 40 and 90 years of age, and presents as a bulky polypoid tumor in the middle or lower esophagus. Microscopically, the tumors show a mixture of "sarcomatous" and epithelial elements, the former showing interlacing bundles of spindle-shaped cells. Osseous and cartilaginous differentiation and bizarre giant cells may occur as well (Fig. 11-4). An epithelial component of squamous or undifferentiated carcinoma is typical, but these foci may be small and difficult to detect. Occasionally, an adenocarcinomatous, adenocystic, neuroendocrine, or glandular component may be present. In most tumors, the sarcomatous pattern predominates, and the squamous cell carcinoma component is inconspicuous and confined to small areas at the base of the pedicle. Areas of transition from typical squamous carcinoma to sarcoma are often present. The demonstration of tonofibrils and well-developed desmosomes in the spindle cells on ultrastructural examination, suggests that the sarcomatous cells are squamous in origin. Immunohistochemical studies have demonstrated disparate findings. Some authors have shown immunoreactivity to keratin in the spindle cell component whereas others have reported negative reactions to keratin and variable positivity for desmin, smooth muscle actin, vimentin, alpha-1-antichymotrypsin, and alpha-1-antitrypsin. Although hematogenous spread is more common in carcinosarcomas than pure squamous cell carcinoma, the overall 5-year survival rate has been shown to be similar.
+**Figure 11-3.** Verrucous carcinomas show papillary fronds of extremely well-differentiated squamous cells with marked parakeratosis and hyperkeratosis. Invasion is typically along a broad front with pushing margins and may be difficult to demonstrate even in resection specimens.
 
-<span id="fig-11-4"></span>**Figure 11-4.** Carcinosarcomas are biphasic tumors with epithelial and sarcomatous elements. The latter is usually in the form of intersecting fascicles of spindle-shaped cells but cartilaginous or osseous differentiation may also be present in some cases.
+**Carcinosarcoma (Spindle Cell Carcinoma)** was first described by Virchow in 1865. It is also termed "polypoid carcinoma," "sarcomatoid carcinoma," and "spindle cell carcinoma." These tumors represent about 2% of all esophageal carcinomas. It affects predominantly adult men between 40 and 90 years of age, and presents as a bulky polypoid tumor in the middle or lower esophagus. Microscopically, the tumors show a mixture of "sarcomatous" and epithelial elements, the former showing interlacing bundles of spindle-shaped cells. Osseous and cartilaginous differentiation and bizarre giant cells may occur as well ([Fig. 11-4](#fig-11-4)). An epithelial component of squamous or undifferentiated carcinoma is typical, but these foci may be small and difficult to detect. Occasionally, an adenocarcinomatous, adenocystic, neuroendocrine, or glandular component may be present. In most tumors, the sarcomatous pattern predominates, and the squamous cell carcinoma component is inconspicuous and confined to small areas at the base of the pedicle. Areas of transition from typical squamous carcinoma to sarcoma are often present. The demonstration of tonofibrils and well-developed desmosomes in the spindle cells on ultrastructural examination, suggests that the sarcomatous cells are squamous in origin. Immunohistochemical studies have demonstrated disparate findings. Some authors have shown immunoreactivity to keratin in the spindle cell component whereas others have reported negative reactions to keratin and variable positivity for desmin, smooth muscle actin, vimentin, alpha-1-antichymotrypsin, and alpha-1-antitrypsin. Although hematogenous spread is more common in carcinosarcomas than pure squamous cell carcinoma, the overall 5-year survival rate has been shown to be similar.
 
-**Basaloid Squamous Cell Carcinomas** comprise about 2% to 11% of all squamous cell carcinomas and usually occur in elderly males, in the mid or distal esophagus. Presentation at an advanced stage is typical. There is, by definition, a variable amount of undifferentiated basaloid component in the form of solid sheets, anastomosing trabeculae, festoons or microcystic structures, and these areas are associated with a high mitotic index, comedo-type necrosis, and stromal hyalinization (Fig. 11-5). The neoplastic, in situ or invasive squamous component may be inconspicuous. The prognosis of patients with basaloid–squamous carcinoma does not differ significantly from conventional squamous cell carcinoma. The majority of cases in the literature reported as "adenoid cystic carcinomas" of the esophagus probably represent basaloid–squamous cell carcinomas. True esophageal adenoid cystic carcinoma has a less aggressive clinical course (see below).
+<span id="fig-11-4"></span>![](_page_17_Picture_2.jpeg)
 
-<span id="fig-11-5"></span>**Figure 11-5.** Squamous cell carcinomas with basaloid features may demonstrate microcystic spaces that impart a pseudoglandular appearance to the tumor. Basaloid tumors with this morphology have been mistaken for adenoid cystic carcinomas in the past.
+**Figure 11-4.** Carcinosarcomas are biphasic tumors with epithelial and sarcomatous elements. The latter is usually in the form of intersecting fascicles of spindle-shaped cells but cartilaginous or osseous differentiation may also be present in some cases.
+
+**Basaloid Squamous Cell Carcinomas** comprise about 2% to 11% of all squamous cell carcinomas and usually occur in elderly males, in the mid or distal esophagus. Presentation at an advanced stage is typical. There is, by definition, a variable amount of undifferentiated basaloid component in the form of solid sheets, anastomosing trabeculae, festoons or microcystic structures, and these areas are associated with a high mitotic index, comedo-type necrosis, and stromal hyalinization ([Fig. 11-5](#fig-11-5)). The neoplastic, in situ or invasive squamous component may be inconspicuous. The prognosis of patients with basaloid–squamous carcinoma does not differ significantly from conventional squamous cell carcinoma. The majority of cases in the literature reported as "adenoid cystic carcinomas" of the esophagus probably represent basaloid–squamous cell carcinomas. True esophageal adenoid cystic carcinoma has a less aggressive clinical course (see below).
+
+<span id="fig-11-5"></span>![](_page_17_Picture_6.jpeg)
+
+**Figure 11-5.** Squamous cell carcinomas with basaloid features may demonstrate microcystic spaces that impart a pseudoglandular appearance to the tumor. Basaloid tumors with this morphology have been mistaken for adenoid cystic carcinomas in the past.
 
 </div></details>
 
@@ -673,11 +603,11 @@ Esophageal squamous cell carcinomas show all grades of differentiation. Well-dif
 
 Squamous cell carcinoma confined only to the mucosa or the submucosa, with or without lymph node metastasis, is referred to as "superficial cancer." However, the prognosis of early esophageal cancer differs from early gastric cancer, with 5-year survival rates for esophagus in the 50% to 60% range for tumors with submucosal infiltration. This is related to the fact that 30% to 40% of esophageal tumors with submucosal invasion also have lymph node metastasis. This has led some authors to suggest that the term "early" esophageal cancer should be restricted to cases in which there is carcinoma in situ (intraepithelial dysplasia/neoplasia), or mucosal carcinoma only, in which the prognosis approaches 100%. The presence of an elevated component in superficial esophageal cancer may be predictive of submucosal invasion, and a high probability of lymph node involvement. Superficial carcinomas may occupy a large area of the esophagus in some cases. Endoscopic ultrasonography has been used in cases of superficial esophageal carcinoma to assess depth of invasion and lymph node metastasis. Nonsurgical interventions such as photodynamic therapy and endoscopic mucosal resection are being increasingly used in the treatment of precursor lesions and superficial cancer.
 
-The risk of nodal metastasis increases with depth of invasion and rises dramatically once tumors have penetrated the submucosa. Thus, intramucosal tumors have a <5% risk of nodal metastasis compared to tumors that invade the submucosa, where the risk approaches 45%. Skip metastases may be present in esophageal cancers and distant metastasis to lungs and liver have been reported in up to 50% of all squamous cell carcinomas. Overall, the 5-year survival rate in squamous cell carcinoma is about 26%. Tumor stage remains the most significant prognostic factor in patients treated with esophagectomy. The TNM (tumor, node, metastasis) staging system proposed by the American Joint Committee on Cancer (AJCC) has been revised recently and is significantly different from the prior edition (see Chapter 12). The staging criteria in the new proposal are outlined in Table 11-1. The number of lymph nodes examined in esophagectomy specimens has been shown to be an independent prognostic factor in a number of studies. Histopathologic examination for extent of residual tumor has also been proposed as a prognostic factor following neoadjuvant therapy for esophageal squamous cell carcinoma.
+The risk of nodal metastasis increases with depth of invasion and rises dramatically once tumors have penetrated the submucosa. Thus, intramucosal tumors have a <5% risk of nodal metastasis compared to tumors that invade the submucosa, where the risk approaches 45%. Skip metastases may be present in esophageal cancers and distant metastasis to lungs and liver have been reported in up to 50% of all squamous cell carcinomas. Overall, the 5-year survival rate in squamous cell carcinoma is about 26%. Tumor stage remains the most significant prognostic factor in patients treated with esophagectomy. The TNM (tumor, node, metastasis) staging system proposed by the American Joint Committee on Cancer (AJCC) has been revised recently and is significantly different from the prior edition (see Chapter 12). The staging criteria in the new proposal are outlined in [Table 11-1](#table-11-1). The number of lymph nodes examined in esophagectomy specimens has been shown to be an independent prognostic factor in a number of studies. Histopathologic examination for extent of residual tumor has also been proposed as a prognostic factor following neoadjuvant therapy for esophageal squamous cell carcinoma.
 
 <details class="med-details"><summary>
 
-##### Table 11-1 — TNM Staging of Esophageal Carcinoma (7th Edition, 2010)</summary><div class="details-content">
+##### <span id="table-11-1"></span>Table 11-1 — TNM Staging of Esophageal Carcinoma (7th Edition, 2010)</summary><div class="details-content">
 
 | T—Primary tumor | |
 |---|---|
@@ -739,11 +669,19 @@ The majority of esophageal adenocarcinomas involve the distal third of the esoph
 
 #### Microscopic Pathology of Adenocarcinoma</summary><div class="details-content">
 
-Histologically, these tumors show a similar spectrum of changes as adenocarcinomas that develop in the stomach. High-grade dysplasia is commonly seen in adjacent columnar epithelium. The majority of tumors show a tubular or papillary growth pattern with variable grades of differentiation. Well-differentiated tumors show >95% gland formation, with columnar to cuboidal cells, hyperchromatic or vesicular nuclei, and a variable amount of eosinophilic or clear cytoplasm. Moderately differentiated tumors show gland formation in 50% to 95% of the tumor and poorly differentiated tumors show <50% glandular differentiation (Fig. 11-6A,B). The degree of nuclear pleomorphism parallels the grade of differentiation. Large, bizarre pleomorphic nuclei are more commonly seen in poorly differentiated tumors. About 5% to 10% tumors are of the mucinous (colloid) type and show prominent pools of extracellular mucin with floating clusters of tumor cells (Fig. 11-7). Signet ring cell carcinoma is less common (5% of cases) than in the stomach. Foci of squamous, neuroendocrine, and Paneth cell differentiation have been described in esophageal adenocarcinomas and represent multidirectional differentiation in the tumor. Pagetoid spread into overlying squamous epithelium occurs, at times, in poorly differentiated adenocarcinomas. The presence of a double muscularis mucosa in patients with Barrett esophagus may lead to errors in staging of early adenocarcinomas. The deep layer of muscularis mucosae is often thick and may be mistaken for muscularis propria in an endoscopic mucosal resection specimen which may lead to over staging of invasive carcinomas in about 7% cases. Carcinomas that invade between the two layers of muscularis mucosae are associated lymphovascular invasion in about 10% of cases.
+Histologically, these tumors show a similar spectrum of changes as adenocarcinomas that develop in the stomach. High-grade dysplasia is commonly seen in adjacent columnar epithelium. The majority of tumors show a tubular or papillary growth pattern with variable grades of differentiation. Well-differentiated tumors show >95% gland formation, with columnar to cuboidal cells, hyperchromatic or vesicular nuclei, and a variable amount of eosinophilic or clear cytoplasm. Moderately differentiated tumors show gland formation in 50% to 95% of the tumor and poorly differentiated tumors show <50% glandular differentiation ([Fig. 11-6](#fig-11-6)A,B). The degree of nuclear pleomorphism parallels the grade of differentiation. Large, bizarre pleomorphic nuclei are more commonly seen in poorly differentiated tumors. About 5% to 10% tumors are of the mucinous (colloid) type and show prominent pools of extracellular mucin with floating clusters of tumor cells ([Fig. 11-7](#fig-11-7)). Signet ring cell carcinoma is less common (5% of cases) than in the stomach. Foci of squamous, neuroendocrine, and Paneth cell differentiation have been described in esophageal adenocarcinomas and represent multidirectional differentiation in the tumor. Pagetoid spread into overlying squamous epithelium occurs, at times, in poorly differentiated adenocarcinomas. The presence of a double muscularis mucosa in patients with Barrett esophagus may lead to errors in staging of early adenocarcinomas. The deep layer of muscularis mucosae is often thick and may be mistaken for muscularis propria in an endoscopic mucosal resection specimen which may lead to over staging of invasive carcinomas in about 7% cases. Carcinomas that invade between the two layers of muscularis mucosae are associated lymphovascular invasion in about 10% of cases.
 
-<span id="fig-11-6"></span>**Figure 11-6.** A. The majority of esophageal adenocarcinomas arise in a background of Barrett esophagus (BE) in which esophageal squamous mucosa is replaced by a metaplastic columnar epithelium with goblet cells (top). The esophageal location of the metaplastic epithelium can be confirmed by the presence of esophageal submucosal glands/ducts (bottom). B, C. Adenocarcinomas are graded on the basis of the degree of gland formation. At one end of the spectrum are well-differentiated adenocarcinomas with more than 95% gland formation (B) whereas at the other end are poorly differentiated tumors with a solid architecture barely recognizable as an adenocarcinoma (C).
+<span id="fig-11-6"></span>![](_page_19_Picture_2.jpeg)
 
-<span id="fig-11-7"></span>**Figure 11-7.** Mucinous (colloid) adenocarcinomas of the esophagus are uncommon and show tumor cells in small clusters and aggregates floating in abundant pools of extracellular mucin.
+![](_page_19_Picture_3.jpeg)
+
+![](_page_19_Picture_4.jpeg)
+
+**Figure 11-6.** *A*. The majority of esophageal adenocarcinomas arise in a background of Barrett esophagus (BE) in which esophageal squamous mucosa is replaced by a metaplastic columnar epithelium with goblet cells (top). The esophageal location of the metaplastic epithelium can be confirmed by the presence of esophageal submucosal glands/ducts (bottom). *B, C*. Adenocarcinomas are graded on the basis of the degree of gland formation. At one end of the spectrum are well-differentiated adenocarcinomas with more than 95% gland formation (*B*) whereas at the other end are poorly differentiated tumors with a solid architecture barely recognizable as an adenocarcinoma (*C*).
+
+<span id="fig-11-7"></span>![](_page_19_Picture_8.jpeg)
+
+**Figure 11-7.** Mucinous (colloid) adenocarcinomas of the esophagus are uncommon and show tumor cells in small clusters and aggregates floating in abundant pools of extracellular mucin.
 
 In esophagectomies performed after neoadjuvant therapy, residual tumor is often present in small, isolated clusters in association with dense fibrosis or pools of acellular mucin. Tumor cells may appear more pleomorphic and show neuroendocrine differentiation as a consequence of treatment. Large pools of mucin without any viable tumor cells, with or without calcific deposits, may be present and should not be reported as residual tumor since these are not associated with an increased risk of recurrence or distant metastasis. The amount of residual carcinoma (0%, 1%–50%, and >50%) seen in resections performed after preoperative chemoradiation has been shown to be a reproducible predictor of survival in some studies.
 
@@ -783,7 +721,7 @@ Esophageal adenocarcinoma arises from Barrett esophagus through a progressive, s
 
 #### Natural History and Prognosis of Adenocarcinoma</summary><div class="details-content">
 
-Tumor stage remains the best prognostic indicator in esophageal adenocarcinoma. Survival rates between 80% and 100% are reported for tumors confined to the mucosa or submucosa but decline significantly to about 10% to 20% for those that invade deep into the muscularis propria. Nodal metastasis to periesophageal and perigastric lymph nodes occurs in 50% to 60% of patients and appears to be closely related to the depth of tumor infiltration. Risk of nodal metastasis is <5% for intramucosal cancers and rises to over 30% for tumors with submucosal invasion. The number of positive lymph nodes is also of prognostic value and this is reflected in the recently updated TNM classification which is summarized in Table 11-1. Histological type is not considered an independent prognostic factor, but mucinous and signet ring cell carcinomas have been shown to be associated with poor survival on multivariate analysis in some studies. Absence of residual tumor (complete pathologic response) in resections performed after neoadjuvant therapy is associated with a good outcome whereas persistent nodal disease is a strong adverse prognostic indicator.
+Tumor stage remains the best prognostic indicator in esophageal adenocarcinoma. Survival rates between 80% and 100% are reported for tumors confined to the mucosa or submucosa but decline significantly to about 10% to 20% for those that invade deep into the muscularis propria. Nodal metastasis to periesophageal and perigastric lymph nodes occurs in 50% to 60% of patients and appears to be closely related to the depth of tumor infiltration. Risk of nodal metastasis is <5% for intramucosal cancers and rises to over 30% for tumors with submucosal invasion. The number of positive lymph nodes is also of prognostic value and this is reflected in the recently updated TNM classification which is summarized in [Table 11-1](#table-11-1). Histological type is not considered an independent prognostic factor, but mucinous and signet ring cell carcinomas have been shown to be associated with poor survival on multivariate analysis in some studies. Absence of residual tumor (complete pathologic response) in resections performed after neoadjuvant therapy is associated with a good outcome whereas persistent nodal disease is a strong adverse prognostic indicator.
 
 </div></details>
 
@@ -793,13 +731,15 @@ Tumor stage remains the best prognostic indicator in esophageal adenocarcinoma. 
 
 ### Neuroendocrine Tumors</summary><div class="details-content">
 
-Carcinoid tumors are now designated as well-differentiated neuroendocrine tumors in the new WHO classification. Initially described in 1969, esophageal carcinoids are the rarest of all GI carcinoid tumors. In a meta-analysis of 8305 carcinoids of various sites, only three were located in the esophagus. The patients show a male predominance (6:1) of variable ages. The majority of tumors occur in the distal third of the esophagus or at the gastroesophageal junction. Carcinoids of the esophagus occur in two clinical scenarios: as solitary, circumscribed, polypoid lesions, or in association with Barrett esophagus. Increased numbers of endocrine cells have been described in some cases of Barrett esophagus and this may contribute to the development of esophageal carcinoids. The morphology is similar to carcinoid tumors seen elsewhere in the gastrointestinal tract. The tumors show nested or trabecular architecture and the cells are monomorphic with a characteristic salt and pepper nuclear chromatin pattern (Fig. 11-8). Immunohistochemical markers of neuroendocrine differentiation, such as chromogranin and synaptophysin are invariably positive. Esophageal carcinoids were initially thought to be associated with a poor prognosis. More recent data suggests that cases previously reported as esophageal carcinoids with an adverse outcome may have been examples of small cell carcinoma because there was evidence of high mitotic activity and necrosis in the tumors. Hoang et al. described four new cases in 2002 and reviewed the outcome of other reported cases in literature. All 11 patients with primary esophageal carcinoids were alive and disease free after 1 to 23 years of follow-up. This suggests that the prognosis of esophageal carcinoids is favorable. Neuroendocrine tumors of the gastrointestinal tract are now graded on the basis of the mitotic activity and proliferative index on a Ki67 immunostain. The prognostic value of this scheme for esophageal carcinoids remains uncertain given the rarity of these tumors. A brief summary of the current grading scheme is provided in Table 11-2.
+Carcinoid tumors are now designated as well-differentiated neuroendocrine tumors in the new WHO classification. Initially described in 1969, esophageal carcinoids are the rarest of all GI carcinoid tumors. In a meta-analysis of 8305 carcinoids of various sites, only three were located in the esophagus. The patients show a male predominance (6:1) of variable ages. The majority of tumors occur in the distal third of the esophagus or at the gastroesophageal junction. Carcinoids of the esophagus occur in two clinical scenarios: as solitary, circumscribed, polypoid lesions, or in association with Barrett esophagus. Increased numbers of endocrine cells have been described in some cases of Barrett esophagus and this may contribute to the development of esophageal carcinoids. The morphology is similar to carcinoid tumors seen elsewhere in the gastrointestinal tract. The tumors show nested or trabecular architecture and the cells are monomorphic with a characteristic salt and pepper nuclear chromatin pattern ([Fig. 11-8](#fig-11-8)). Immunohistochemical markers of neuroendocrine differentiation, such as chromogranin and synaptophysin are invariably positive. Esophageal carcinoids were initially thought to be associated with a poor prognosis. More recent data suggests that cases previously reported as esophageal carcinoids with an adverse outcome may have been examples of small cell carcinoma because there was evidence of high mitotic activity and necrosis in the tumors. Hoang et al. described four new cases in 2002 and reviewed the outcome of other reported cases in literature. All 11 patients with primary esophageal carcinoids were alive and disease free after 1 to 23 years of follow-up. This suggests that the prognosis of esophageal carcinoids is favorable. Neuroendocrine tumors of the gastrointestinal tract are now graded on the basis of the mitotic activity and proliferative index on a Ki67 immunostain. The prognostic value of this scheme for esophageal carcinoids remains uncertain given the rarity of these tumors. A brief summary of the current grading scheme is provided in [Table 11-2](#table-11-2).
 
-<span id="fig-11-8"></span>**Figure 11-8.** Well-differentiated neuroendocrine (carcinoid) tumors show nested or trabecular architecture. The tumor cells are monomorphic with a fine granular nuclear chromatin and show immunoreactivity for markers of neuroendocrine differentiation, such as chromogranin and synaptophysin.
+<span id="fig-11-8"></span>![](_page_21_Picture_5.jpeg)
+
+**Figure 11-8.** Well-differentiated neuroendocrine (carcinoid) tumors show nested or trabecular architecture. The tumor cells are monomorphic with a fine granular nuclear chromatin and show immunoreactivity for markers of neuroendocrine differentiation, such as chromogranin and synaptophysin.
 
 <details class="med-details"><summary>
 
-#### Table 11-2 — WHO Grading Scheme for Neuroendocrine Tumors of the Gastrointestinal Tract</summary><div class="details-content">
+#### <span id="table-11-2"></span>Table 11-2 — WHO Grading Scheme for Neuroendocrine Tumors of the Gastrointestinal Tract</summary><div class="details-content">
 
 | GRADE | MITOTIC COUNT | Ki-67 PROLIFERATIVE INDEX (%) |
 |---|---|---|
@@ -811,9 +751,11 @@ Note: Most well-differentiated neuroendocrine (carcinoid) tumors fall under the 
 
 </div></details>
 
-**Small Cell Carcinomas** constitute 1% to 2.4% of all esophageal carcinomas. In the majority of cases, these tumors are large, protuberant, and arise in the middle and lower thirds of the esophagus. On histological examination, small, fusiform, or polygonal-shaped cells with little cytoplasm, hyperchromatic nuclei, and inconspicuous nucleoli are present, arranged in sheets or anastomosing cords and ribbons (Fig. 11-9). Crush artifact of the tumor cells is common, particularly in biopsy material and rosette formation may be present. Squamous differentiation has been described, as well as foci of glandular differentiation, particularly in resection specimens. About a third of cases may shows areas of squamous cell carcinoma in situ. Carcinoid-like areas within an otherwise typical small cell carcinoma have also been reported occasionally. Confirmation that the tumor is a primary small cell carcinoma and not an undifferentiated squamous cell carcinoma depends on demonstration of neuroendocrine differentiation by chromogranin and synaptophysin immunostains or the finding of neurosecretory granules on ultrastructural examination. Poorly differentiated squamous cell carcinomas and adenocarcinomas stain positively with p63 and CDX2, respectively, and are helpful in arriving at the correct diagnosis. The prognosis of these tumors is poor with a median survival between 3 and 12 months, although occasional long-term survivors have been reported.
+**Small Cell Carcinomas** constitute 1% to 2.4% of all esophageal carcinomas. In the majority of cases, these tumors are large, protuberant, and arise in the middle and lower thirds of the esophagus. On histological examination, small, fusiform, or polygonal-shaped cells with little cytoplasm, hyperchromatic nuclei, and inconspicuous nucleoli are present, arranged in sheets or anastomosing cords and ribbons ([Fig. 11-9](#fig-11-9)). Crush artifact of the tumor cells is common, particularly in biopsy material and rosette formation may be present. Squamous differentiation has been described, as well as foci of glandular differentiation, particularly in resection specimens. About a third of cases may shows areas of squamous cell carcinoma in situ. Carcinoid-like areas within an otherwise typical small cell carcinoma have also been reported occasionally. Confirmation that the tumor is a primary small cell carcinoma and not an undifferentiated squamous cell carcinoma depends on demonstration of neuroendocrine differentiation by chromogranin and synaptophysin immunostains or the finding of neurosecretory granules on ultrastructural examination. Poorly differentiated squamous cell carcinomas and adenocarcinomas stain positively with p63 and CDX2, respectively, and are helpful in arriving at the correct diagnosis. The prognosis of these tumors is poor with a median survival between 3 and 12 months, although occasional long-term survivors have been reported.
 
-<span id="fig-11-9"></span>**Figure 11-9.** Small cell carcinomas show sheets of round to oval cells with a high nuclear-cytoplasmic ratio, marked nuclear hyperchromasia, nuclear molding, "salt and pepper" chromatin pattern and brisk mitotic activity. Necrosis and crush artifact may also be present.
+<span id="fig-11-9"></span>![](_page_21_Figure_11.jpeg)
+
+**Figure 11-9.** Small cell carcinomas show sheets of round to oval cells with a high nuclear-cytoplasmic ratio, marked nuclear hyperchromasia, nuclear molding, "salt and pepper" chromatin pattern and brisk mitotic activity. Necrosis and crush artifact may also be present.
 
 </div></details>
 
@@ -821,9 +763,11 @@ Note: Most well-differentiated neuroendocrine (carcinoid) tumors fall under the 
 
 ### Malignant Melanoma</summary><div class="details-content">
 
-It is now well recognized that melanocytes may be identified in normal esophageal mucosa in about 4% to 8% of normal individuals. Benign appearing melanocytosis and atypical junctional lesions, similar to those seen in the skin, have also been described in association with primary esophageal malignant melanomas. Melanocytosis has been reported in about 25% of primary melanomas of the esophagus. Metastatic malignant melanoma involves the esophagus in about 4% of patients with disseminated disease. Therefore, a melanoma presenting in the esophagus is still much more likely to represent a metastasis rather than a primary tumor. In a recent analysis using the SEER database, the age-adjusted rates of cutaneous, anorectal, and esophageal malignant melanoma were 70.1, 0.27, and 0.03 per million, respectively. The diagnostic criteria for primary esophageal melanoma require demonstration of melanocytes in adjacent epithelium with melanocytosis or junctional changes. The majority of primary esophageal melanomas is melanotic and show pigmentation upon gross and microscopic examination, although primary amelanotic melanomas of the esophagus have also been reported. Primary malignant melanomas have been reported mostly in elderly people in the sixth to seventh decade of life. They are twice as common in men and most often involve the middle or lower third of the esophagus. Most lesions appear as large, polypoid, and friable lesions that bulge into the lumen upon endoscopy. Satellite lesions, melanocytosis, or atypical junctional lesions are often present. Histologically, spindle and/or epithelioid tumor cells are present which contain melanin pigment (Fig. 11-10) and are positive for S100, Melan-A, and HMB45 immunostains.
+It is now well recognized that melanocytes may be identified in normal esophageal mucosa in about 4% to 8% of normal individuals. Benign appearing melanocytosis and atypical junctional lesions, similar to those seen in the skin, have also been described in association with primary esophageal malignant melanomas. Melanocytosis has been reported in about 25% of primary melanomas of the esophagus. Metastatic malignant melanoma involves the esophagus in about 4% of patients with disseminated disease. Therefore, a melanoma presenting in the esophagus is still much more likely to represent a metastasis rather than a primary tumor. In a recent analysis using the SEER database, the age-adjusted rates of cutaneous, anorectal, and esophageal malignant melanoma were 70.1, 0.27, and 0.03 per million, respectively. The diagnostic criteria for primary esophageal melanoma require demonstration of melanocytes in adjacent epithelium with melanocytosis or junctional changes. The majority of primary esophageal melanomas is melanotic and show pigmentation upon gross and microscopic examination, although primary amelanotic melanomas of the esophagus have also been reported. Primary malignant melanomas have been reported mostly in elderly people in the sixth to seventh decade of life. They are twice as common in men and most often involve the middle or lower third of the esophagus. Most lesions appear as large, polypoid, and friable lesions that bulge into the lumen upon endoscopy. Satellite lesions, melanocytosis, or atypical junctional lesions are often present. Histologically, spindle and/or epithelioid tumor cells are present which contain melanin pigment ([Fig. 11-10](#fig-11-10)) and are positive for S100, Melan-A, and HMB45 immunostains.
 
-<span id="fig-11-10"></span>**Figure 11-10.** Primary malignant melanoma of the esophagus is rare. Large, spindle to ovoid tumor cells with abundant amphophilic cytoplasm and marked nucleolar prominence are seen. Melanin pigment is present in this example but in amelanotic tumors, immunostaining for markers of melanocytic differentiation (S-100, HMB-45, Melan-A) is helpful in confirming the diagnosis.
+<span id="fig-11-10"></span>![](_page_22_Picture_5.jpeg)
+
+**Figure 11-10.** Primary malignant melanoma of the esophagus is rare. Large, spindle to ovoid tumor cells with abundant amphophilic cytoplasm and marked nucleolar prominence are seen. Melanin pigment is present in this example but in amelanotic tumors, immunostaining for markers of melanocytic differentiation (S-100, HMB-45, Melan-A) is helpful in confirming the diagnosis.
 
 Both primary and secondary malignant melanomas involving the esophagus have a poor prognosis. The mean survival after diagnosis is only about 13 months.
 
@@ -833,9 +777,13 @@ Both primary and secondary malignant melanomas involving the esophagus have a po
 
 ### Gastrointestinal Stromal Tumor</summary><div class="details-content">
 
-Symptomatic gastrointestinal stromal tumors (GISTs) are uncommon in the esophagus. However, a significant number of esophageal GISTs are detected incidentally during examination of esophagectomies performed for another type of malignancy. In a series of 150 esophagectomies performed for esophageal or gastroesophageal junction adenocarcinomas, incidental GISTs were detected in 10% of cases. Most tumors occur in the lower third of the esophagus. The histological and immunophenotypic features of esophageal GISTs are similar to their counterparts in the stomach (Fig. 11-11). Both spindle and epithelioid cell types have been described. The tumor cells stain consistently with KIT and CD34. KIT positivity is also seen in malignant melanoma and is a potential pitfall in diagnosis because primary or metastatic amelanotic melanoma involving the esophagus may be mistaken for a GIST. Melanocytic markers Melan-A and HMB45 are helpful in arriving at the correct diagnosis. Miettinen et al. reported a series of 17 GISTs in which nine patients died of disease. However, all fatal cases were more than 10 cm in size and one had more than five mitoses per 50 high power fields. The incidentally detected tumors in esophagectomy specimens are invariably associated with an excellent outcome.
+Symptomatic gastrointestinal stromal tumors (GISTs) are uncommon in the esophagus. However, a significant number of esophageal GISTs are detected incidentally during examination of esophagectomies performed for another type of malignancy. In a series of 150 esophagectomies performed for esophageal or gastroesophageal junction adenocarcinomas, incidental GISTs were detected in 10% of cases. Most tumors occur in the lower third of the esophagus. The histological and immunophenotypic features of esophageal GISTs are similar to their counterparts in the stomach ([Fig. 11-11](#fig-11-11)). Both spindle and epithelioid cell types have been described. The tumor cells stain consistently with KIT and CD34. KIT positivity is also seen in malignant melanoma and is a potential pitfall in diagnosis because primary or metastatic amelanotic melanoma involving the esophagus may be mistaken for a GIST. Melanocytic markers Melan-A and HMB45 are helpful in arriving at the correct diagnosis. Miettinen et al. reported a series of 17 GISTs in which nine patients died of disease. However, all fatal cases were more than 10 cm in size and one had more than five mitoses per 50 high power fields. The incidentally detected tumors in esophagectomy specimens are invariably associated with an excellent outcome.
 
-<span id="fig-11-11"></span>**Figure 11-11.** Gastrointestinal stromal tumors may show a spindle (A) or epithelioid (B) morphology. Most tumors are positive for c-kit and/or CD34 and risk stratification is based on tumor size and mitotic activity.
+<span id="fig-11-11"></span>![](_page_22_Picture_10.jpeg)
+
+![](_page_22_Picture_11.jpeg)
+
+**Figure 11-11.** Gastrointestinal stromal tumors may show a spindle (*A*) or epithelioid (*B*) morphology. Most tumors are positive for c-kit and/or CD34 and risk stratification is based on tumor size and mitotic activity.
 
 </div></details>
 
@@ -858,7 +806,7 @@ With the incidence of esophageal carcinoma increasing worldwide, the importance 
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## Chapter 12: Esophageal Cancer Staging</summary><div class="details-content">
@@ -887,17 +835,19 @@ RF analysis first isolated cancer characteristics of interest from other factors
 
 ### 7th Edition TNM Classifications: Changes and Additions</summary><div class="details-content">
 
-Primary tumor (T) classification has been changed only for Tis and T4 cancers (Fig. 12-1, Table 12-1). Tis is now defined as high-grade dysplasia and includes all noninvasive neoplastic epithelium that was previously called carcinoma in situ. T4, tumors invading local structures, has been subclassified as T4a and T4b. T4a tumors are resectable cancers invading adjacent structures such as pleura, pericardium, or diaphragm. T4b are unresectable cancers invading other adjacent structures, such as aorta, vertebral body, or trachea. Otherwise, T classifications are unchanged.
+Primary tumor (T) classification has been changed only for Tis and T4 cancers ([Fig. 12-1](#fig-12-1), [Table 12-1](#table-12-1)). Tis is now defined as high-grade dysplasia and includes all noninvasive neoplastic epithelium that was previously called carcinoma in situ. T4, tumors invading local structures, has been subclassified as T4a and T4b. T4a tumors are resectable cancers invading adjacent structures such as pleura, pericardium, or diaphragm. T4b are unresectable cancers invading other adjacent structures, such as aorta, vertebral body, or trachea. Otherwise, T classifications are unchanged.
 
 A regional lymph node has been redefined to include any paraesophageal lymph node extending from cervical nodes to celiac nodes. This revolutionary change in esophageal cancer classification requires a refocusing in staging mentality. Regional lymph node classification has been radically changed. Data analyses support convenient coarse groupings of number of cancer-positive nodes. Regional lymph node (N) classification comprises N0 (no cancer-positive nodes), N1 (1 or 2), N2 (3–6), and N3 (7 or more). N classifications for cancers of the esophagus and EGJ are identical to stomach cancer N classifications.
 
 The subclassifications M1a and M1b have been eliminated, as has MX. Distant metastases are simply designated M0, no distant metastasis, and M1, distant metastasis.
 
-<span id="fig-12-1"></span>**Figure 12-1.** 7th edition TNM classifications. T is classified as Tis: high-grade dysplasia; T1: cancer invades lamina propria, muscularis mucosae, or submucosa; T2: cancer invades muscularis propria; T3: cancer invades adventitia; T4a: resectable cancer invades adjacent structures such as pleura, pericardium, or diaphragm; and T4b; unresectable cancer invades other adjacent structures, such as aorta, vertebral body, or trachea. N is classified as N0: no regional lymph node metastasis; N1: regional lymph node metastases involving 1 to 2 nodes; N2: regional lymph node metastases involving 3 to 6 nodes; and N3: regional lymph node metastases involving 7 or more nodes. M is classified as M0: no distant metastasis; and M1: distant metastasis.
+<span id="fig-12-1"></span>![](_page_29_Picture_2.jpeg)
+
+**Figure 12-1.** 7th edition TNM classifications. T is classified as Tis: high-grade dysplasia; T1: cancer invades lamina propria, muscularis mucosae, or submucosa; T2: cancer invades muscularis propria; T3: cancer invades adventitia; T4a: resectable cancer invades adjacent structures such as pleura, pericardium, or diaphragm; and T4b; unresectable cancer invades other adjacent structures, such as aorta, vertebral body, or trachea. N is classified as N0: no regional lymph node metastasis; N1: regional lymph node metastases involving 1 to 2 nodes; N2: regional lymph node metastases involving 3 to 6 nodes; and N3: regional lymph node metastases involving 7 or more nodes. M is classified as M0: no distant metastasis; and M1: distant metastasis.
 
 <details class="med-details"><summary>
 
-#### Table 12-1 — 7th Edition AJCC/UICC TNM Classifications</summary><div class="details-content">
+#### <span id="table-12-1"></span>Table 12-1 — 7th Edition AJCC/UICC TNM Classifications</summary><div class="details-content">
 
 | Primary tumor (T) | |
 |---|---|
@@ -952,9 +902,11 @@ The subclassifications M1a and M1b have been eliminated, as has MX. Distant meta
 
 ### 7th Edition: Nonanatomic Cancer Characteristics</summary><div class="details-content">
 
-Nonanatomic classifications identified as important for stage grouping are histopathologic cell type, histologic grade, and tumor location (Fig. 12-2). The difference in survival between adenocarcinoma and squamous cell carcinoma is best managed by separate stage groupings for stages I and II. Increasing histologic grade is associated with incrementally decreasing survival for early-stage cancers. For adenocarcinoma, distinguishing G1 and G2 (well and moderately differentiated) from G3 (poorly differentiated) is important for stage I and IIA cancers. For squamous cell carcinoma, distinguishing G1 from G2 and G3 is important for stage I and II cancers. Tumor location (upper and middle thoracic versus lower thoracic) is important for grouping T2-3N0M0 squamous cell cancers.
+Nonanatomic classifications identified as important for stage grouping are histopathologic cell type, histologic grade, and tumor location ([Fig. 12-2](#fig-12-2)). The difference in survival between adenocarcinoma and squamous cell carcinoma is best managed by separate stage groupings for stages I and II. Increasing histologic grade is associated with incrementally decreasing survival for early-stage cancers. For adenocarcinoma, distinguishing G1 and G2 (well and moderately differentiated) from G3 (poorly differentiated) is important for stage I and IIA cancers. For squamous cell carcinoma, distinguishing G1 from G2 and G3 is important for stage I and II cancers. Tumor location (upper and middle thoracic versus lower thoracic) is important for grouping T2-3N0M0 squamous cell cancers.
 
-<span id="fig-12-2"></span>**Figure 12-2.** Cancer location. Cervical esophagus, bounded superiorly by the cricopharyngeus and inferiorly by the sternal notch, is typically 15 to 20 cm from the incisors at esophagoscopy. Upper thoracic esophagus, bounded superiorly by the sternal notch and inferiorly by the azygos arch, is typically >20 to 25 cm from the incisors at esophagoscopy. Middle thoracic esophagus, bounded superiorly by the azygos arch and inferiorly by the inferior pulmonary vein, is typically >25 to 30 cm from the incisors at esophagoscopy. Lower thoracic esophagus, bounded superiorly by the inferior pulmonary vein and inferiorly by the lower esophageal sphincter, is typically >30 to 40 cm from the incisors at esophagoscopy; it includes cancers whose epicenter is within the proximal 5 cm of the stomach that extend into the EGJ or lower thoracic esophagus.
+<span id="fig-12-2"></span>![](_page_30_Figure_2.jpeg)
+
+**Figure 12-2.** Cancer location. Cervical esophagus, bounded superiorly by the cricopharyngeus and inferiorly by the sternal notch, is typically 15 to 20 cm from the incisors at esophagoscopy. Upper thoracic esophagus, bounded superiorly by the sternal notch and inferiorly by the azygos arch, is typically >20 to 25 cm from the incisors at esophagoscopy. Middle thoracic esophagus, bounded superiorly by the azygos arch and inferiorly by the inferior pulmonary vein, is typically >25 to 30 cm from the incisors at esophagoscopy. Lower thoracic esophagus, bounded superiorly by the inferior pulmonary vein and inferiorly by the lower esophageal sphincter, is typically >30 to 40 cm from the incisors at esophagoscopy; it includes cancers whose epicenter is within the proximal 5 cm of the stomach that extend into the EGJ or lower thoracic esophagus.
 
 </div></details>
 
@@ -964,15 +916,19 @@ Nonanatomic classifications identified as important for stage grouping are histo
 
 Stages 0 and IV are by definition (not data driven) TisN0M0 and T any N any M1, respectively. Strict adherences to these definitions, as required by the AJCC for the 7th edition, unfortunately hindered the production of true homogeneous groupings at the extremes of stage groupings. Hopefully these definitions will be loosened, liberalized, or abandoned for the 8th edition.
 
-Stage groupings for M0 adenocarcinoma are shown in Figure 12-3. For T1N0M0 and T2N0M0 adenocarcinoma, subgrouping is by histologic grade: not G3 (G1 and G2) versus G3.
+Stage groupings for M0 adenocarcinoma are shown in [Figure 12-3](#fig-12-3). For T1N0M0 and T2N0M0 adenocarcinoma, subgrouping is by histologic grade: not G3 (G1 and G2) versus G3.
 
-Stage groupings for M0 squamous cell carcinoma are shown in Figure 12-4. For T1N0M0 squamous cell carcinoma, subgrouping is by histologic grade: G1 versus not G1 (G2 and G3) (Fig. 12-4A). For T2N0M0 and T3N0M0 squamous cell carcinomas, stage grouping is by histologic grade and location. The four combinations range from G1 lower thoracic squamous cell carcinoma (stage IB), which has the best survival, to G2-G4 upper and middle thoracic squamous cell carcinomas (stage IIB), which have the worst. G2-G4 lower thoracic squamous cell carcinomas and G1 upper and middle thoracic squamous cell carcinomas are grouped together (stage IIA), with intermediate survival.
+Stage groupings for M0 squamous cell carcinoma are shown in [Figure 12-4](#fig-12-4). For T1N0M0 squamous cell carcinoma, subgrouping is by histologic grade: G1 versus not G1 (G2 and G3) ([Fig. 12-4A](#fig-12-4a)). For T2N0M0 and T3N0M0 squamous cell carcinomas, stage grouping is by histologic grade and location. The four combinations range from G1 lower thoracic squamous cell carcinoma (stage IB), which has the best survival, to G2-G4 upper and middle thoracic squamous cell carcinomas (stage IIB), which have the worst. G2-G4 lower thoracic squamous cell carcinomas and G1 upper and middle thoracic squamous cell carcinomas are grouped together (stage IIA), with intermediate survival.
 
-Stage 0, III, and IV adenocarcinoma and squamous cell carcinoma (Fig. 12-4B) are identically stage grouped. Adenosquamous carcinomas are staged as squamous cell carcinoma.
+Stage 0, III, and IV adenocarcinoma and squamous cell carcinoma ([Fig. 12-4B](#fig-12-4b)) are identically stage grouped. Adenosquamous carcinomas are staged as squamous cell carcinoma.
 
-<span id="fig-12-3"></span>**Figure 12-3.** Stage groupings for M0 adenocarcinoma by T and N classification and histologic grade (G).
+<span id="fig-12-3"></span>![](_page_30_Figure_7.jpeg)
 
-<span id="fig-12-4"></span>**Figure 12-4.** A and B Stage groupings for M0 squamous cell carcinoma. A. Stage groupings for T1N0M0 and T2-3N0M0 squamous cell carcinomas by histologic grade (G) and cancer location. B. Stage groupings for all other M0 squamous cell carcinomas.
+**Figure 12-3.** Stage groupings for M0 adenocarcinoma by T and N classification and histologic grade (G).
+
+<span id="fig-12-4"></span>![](_page_31_Figure_2.jpeg)
+
+**Figure 12-4.** *A* and *B* Stage groupings for M0 squamous cell carcinoma. *A*. Stage groupings for T1N0M0 and T2-3N0M0 squamous cell carcinomas by histologic grade (G) and cancer location. *B*. Stage groupings for all other M0 squamous cell carcinomas.
 
 </div></details>
 
@@ -1005,7 +961,7 @@ This new chapter in the esophagus section of Adult Chest Surgery highlights one 
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## Chapter 13: Surgical Approach to Esophagogastric Junction Cancers</summary><div class="details-content">
@@ -1085,29 +1041,41 @@ The Ivor Lewis, McKeown, or 3-hole esophagectomy, and MIE are described in Chapt
 
 The transhiatal esophagectomy without thoracotomy has a number of practical advantages, that is, a short operative duration, probably lower incidence of pulmonary complications, and the avoidance of postthoracotomy pain. The method is particularly applicable to tumors of the distal esophagus and EGJ, where the lower mediastinum can be approached through a surgically widened hiatus. The stomach is preferred for reconstruction and is anastamosed to the remaining cervical esophagus. This can be achieved via the esophageal bed (the so-called prevertebral route) or via the retrosternal route. The latter is preferable if macroscopic locoregional tumor residue is left behind in the posterior mediastinum.
 
-<span id="fig-13-1"></span>**Figure 13-1.** The esophagus is freed in the hiatus, along with a surrounding cuff of diaphragm if necessary.
+<span id="fig-13-1"></span>![](_page_34_Picture_2.jpeg)
+
+**Figure 13-1.** The esophagus is freed in the hiatus, along with a surrounding cuff of diaphragm if necessary.
 
 <details class="med-details"><summary>
 
 #### Operative Technique</summary><div class="details-content">
 
-The operation begins with a median laparotomy, the incision extending from the xiphoid process to just below the umbilicus. The abdominal cavity is inspected and palpated in search of distant metastases, as this would be a contraindication for proceeding to resection. After mobilizing the left lobe of the liver, the esophageal hiatus can be inspected and tumors of the EGJ can be assessed for invasion of adjacent organs. Subsequently, the stomach is mobilized. The esophagus is freed in the hiatus, and if necessary, a surrounding cuff of diaphragm can be included in the resection specimen (Fig. 13-1). Next, the central tendon of the right hemi-diaphragm is incised, thus opening the lower mediastinum (Fig. 13-2A).
+The operation begins with a median laparotomy, the incision extending from the xiphoid process to just below the umbilicus. The abdominal cavity is inspected and palpated in search of distant metastases, as this would be a contraindication for proceeding to resection. After mobilizing the left lobe of the liver, the esophageal hiatus can be inspected and tumors of the EGJ can be assessed for invasion of adjacent organs. Subsequently, the stomach is mobilized. The esophagus is freed in the hiatus, and if necessary, a surrounding cuff of diaphragm can be included in the resection specimen ([Fig. 13-1](#fig-13-1)). Next, the central tendon of the right hemi-diaphragm is incised, thus opening the lower mediastinum ([Fig. 13-2A](#fig-13-2a)).
 
-The periesophageal fatty tissues, the left and right parietal pleura, and if needed the pericardium are included in the surgical specimen. This procedure can be advanced at least as far as the inferior pulmonary veins. The more proximal and unmobilized part of the (normal) esophagus is bluntly mobilized or stripped, using a vein stripper through a neck incision (Fig. 13-2B).
+The periesophageal fatty tissues, the left and right parietal pleura, and if needed the pericardium are included in the surgical specimen. This procedure can be advanced at least as far as the inferior pulmonary veins. The more proximal and unmobilized part of the (normal) esophagus is bluntly mobilized or stripped, using a vein stripper through a neck incision ([Fig. 13-2B](#fig-13-2b)).
 
-After the intra-abdominal dissection is complete, the lesser curvature is resected and a neoesophagus is created, by fashioning a narrow 3 to 4 cm wide gastric tube from the remainder of the stomach (Fig. 13-3).
+After the intra-abdominal dissection is complete, the lesser curvature is resected and a neoesophagus is created, by fashioning a narrow 3 to 4 cm wide gastric tube from the remainder of the stomach ([Fig. 13-3](#fig-13-3)).
 
-In this manner the lymph nodes along the right and left gastric artery are also removed. The gastric tube is then pulled/pushed (Fig. 13-4) to the neck via the prevertebral route, where an esophagogastrostomy is created (Fig. 13-5A,B).
+In this manner the lymph nodes along the right and left gastric artery are also removed. The gastric tube is then pulled/pushed ([Fig. 13-4](#fig-13-4)) to the neck via the prevertebral route, where an esophagogastrostomy is created ([Fig. 13-5A,B](#fig-13-5)).
 
 When the retrosternal route is used, a tunnel is created by blunt retrosternal dissection from the xiphoid process up to the jugular notch. This retrosternal tunnel must be spacious enough that it does not compromise the perfusion of the interposed conduit by undue compression. This may in some cases require resection of the sternoclavicular joint.
 
-<span id="fig-13-2"></span>**Figure 13-2.** Transhiatal esophagectomy. A. The diaphragm is split vertically through the central tendon to permit wide peritumoral dissection up to the level of the pulmonary vein. B. After the upper part of the esophagus has been bluntly dissected, the esophagus is stripped blindly by introducing a vein stripper. A string is attached to the stripper.
+<span id="fig-13-2"></span>![](_page_34_Picture_10.jpeg)
 
-<span id="fig-13-3"></span>**Figure 13-3.** The lesser curvature of the stomach is resected.
+**Figure 13-2.** Transhiatal esophagectomy. *A*. The diaphragm is split vertically through the central tendon to permit wide peritumoral dissection up to the level of the pulmonary vein. *B.* After the upper part of the esophagus has been bluntly dissected, the esophagus is stripped blindly by introducing a vein stripper. A string is attached to the stripper.
 
-<span id="fig-13-4"></span>**Figure 13-4.** After resection of the lesser curvature, a narrow gastric tube is constructed. The top end is attached to the string, after which the tube is pulled up into the neck.
+<span id="fig-13-3"></span>![](_page_35_Picture_2.jpeg)
 
-<span id="fig-13-5"></span>**Figure 13-5.** A. Construction of a cervical esophagogastric anastomosis. B. Construction of a semimechanical anastomosis to widen the diameter of the anastomosis.
+**Figure 13-3.** The lesser curvature of the stomach is resected.
+
+<span id="fig-13-4"></span>![](_page_35_Picture_8.jpeg)
+
+**Figure 13-4.** After resection of the lesser curvature, a narrow gastric tube is constructed. The top end is attached to the string, after which the tube is pulled up into the neck.
+
+<span id="fig-13-5"></span>![](_page_35_Picture_13.jpeg)
+
+![](_page_35_Picture_14.jpeg)
+
+**Figure 13-5.** *A.* Construction of a cervical esophagogastric anastomosis. *B.* Construction of a semimechanical anastomosis to widen the diameter of the anastomosis.
 
 </div></details>
 
@@ -1125,37 +1093,55 @@ When the transthoracic approach is used, double lumen endotracheal intubation wi
 
 #### Operative Technique</summary><div class="details-content">
 
-In this operation the chest is entered through the sixth intercostal space (Fig. 13-6A). After dividing the costal margin, the diaphragm is incised at its periphery as an inverted T-shape incision, the short limb of the T incising the abdominal wall over a few centimeters. By incising the diaphragm at its periphery, innervation and consequently function are well preserved (Fig. 13-6B).
+In this operation the chest is entered through the sixth intercostal space ([Fig. 13-6A](#fig-13-6a)). After dividing the costal margin, the diaphragm is incised at its periphery as an inverted T-shape incision, the short limb of the T incising the abdominal wall over a few centimeters. By incising the diaphragm at its periphery, innervation and consequently function are well preserved ([Fig. 13-6B](#fig-13-6b)).
 
-This approach permits optimal direct vision of both the abdomen and chest cavity through one single incision. As a result, some claim that by using this incision, maximum radicality can be achieved. The entire thoracic esophagus can be dissected through the left-sided approach. In case of a EGJ tumor it may be necessary to resect a cuff of the diaphragmatic muscle surrounding the tumor (Fig. 13-7).
+This approach permits optimal direct vision of both the abdomen and chest cavity through one single incision. As a result, some claim that by using this incision, maximum radicality can be achieved. The entire thoracic esophagus can be dissected through the left-sided approach. In case of a EGJ tumor it may be necessary to resect a cuff of the diaphragmatic muscle surrounding the tumor ([Fig. 13-7](#fig-13-7)).
 
-Dissecting the esophagus from beneath the aortic arch, requires ligation and transection of the bronchial arteries just below the arch (Fig. 13-8). The mobilization is then continued by blunt finger dissection behind the aortic arch and up into the apex of the chest. The mediastinal pleura above the aortic arch is opened. After resecting the lesser curvature at a level well below the cardia, the esophagus is pulled and delivered through the opened mediastinal pleura above the aortic arch and transected as well.
+Dissecting the esophagus from beneath the aortic arch, requires ligation and transection of the bronchial arteries just below the arch ([Fig. 13-8](#fig-13-8)). The mobilization is then continued by blunt finger dissection behind the aortic arch and up into the apex of the chest. The mediastinal pleura above the aortic arch is opened. After resecting the lesser curvature at a level well below the cardia, the esophagus is pulled and delivered through the opened mediastinal pleura above the aortic arch and transected as well.
 
-At this point, lymphadenectomy in both the abdomen and posterior mediastinum as well as a resection of the thoracic duct is performed. Mobilizing the spleen and the tail-body of the pancreas can be performed by incising the peritoneal reflection dorsally behind the spleen (Fig. 13-9A). The spleen and pancreas are flipped over to the right side yielding a perfect exposure of the abdominal aorta and all its major ramifications, the left adrenal gland, and hilum of the kidney (Fig. 13-9B).
+At this point, lymphadenectomy in both the abdomen and posterior mediastinum as well as a resection of the thoracic duct is performed. Mobilizing the spleen and the tail-body of the pancreas can be performed by incising the peritoneal reflection dorsally behind the spleen ([Fig. 13-9A](#fig-13-9a)). The spleen and pancreas are flipped over to the right side yielding a perfect exposure of the abdominal aorta and all its major ramifications, the left adrenal gland, and hilum of the kidney ([Fig. 13-9B](#fig-13-9b)).
 
-In the chest all lymph nodes in the mediastinum, subcarinal region, and aortopulmonary window are removed (Fig. 13-10A). For the latter great care must be taken to visualize and preserve the left recurrent nerve.
+In the chest all lymph nodes in the mediastinum, subcarinal region, and aortopulmonary window are removed ([Fig. 13-10A](#fig-13-10a)). For the latter great care must be taken to visualize and preserve the left recurrent nerve.
 
-Transecting the fibrotic remnant of the ductus arteriosus opens the left paratracheal space for further lymph node clearance (Fig. 13-10B).
+Transecting the fibrotic remnant of the ductus arteriosus opens the left paratracheal space for further lymph node clearance ([Fig. 13-10B](#fig-13-10b)).
 
-Finally, resection and ligation of the thoracic duct also is the best way to prevent a chyle leak postsurgery (Fig. 13-10C).
+Finally, resection and ligation of the thoracic duct also is the best way to prevent a chyle leak postsurgery ([Fig. 13-10C](#fig-13-10c)).
 
-A narrow gastric tube is constructed and brought upward through the hiatus and behind the aortic arch and temporarily fixed to the esophageal stump in the apex of the chest (Fig. 13-11).
+A narrow gastric tube is constructed and brought upward through the hiatus and behind the aortic arch and temporarily fixed to the esophageal stump in the apex of the chest ([Fig. 13-11](#fig-13-11)).
 
 The incision is then closed and the patient is turned to supine position. Through a left cervicotomy the esophageal stump with the attached gastric tube is exteriorized into the operative field and a cervical esophagogastrostomy is performed. According to the use of vascular pedicle, several modes of creating a gastric tube have been described. Whether or not it is a good idea to perform a gastric drainage procedure (pyloroplasty, pyloromyotomy, or more recently by injecting the pylorus with Botox) remains controversial. There is, however, a tendency to leave the pylorus intact at the time of surgery. If a gastric outlet problem occurs after surgery, it is in general well managed with prokinetic drugs and/or by performing balloon dilatation of the pylorus.
 
 In cases where the EGJ tumor extends greater than 5 cm onto the stomach, a total gastrectomy followed by a Roux-en-Y jejunal reconstruction with an intrathoracic infra-aortic esophagojejunostomy becomes mandatory.
 
-<span id="fig-13-6"></span>**Figure 13-6.** Left thoracic approach; A. Left 6th interspace thoracotomy. B. Inverted T-shape incision at the periphery of the diaphragm.
+<span id="fig-13-6"></span>![](_page_36_Picture_2.jpeg)
 
-<span id="fig-13-7"></span>**Figure 13-7.** It may be necessary to resect a cuff of the diaphragm muscle surrounding the tumor when mobilizing and dissecting a EGJ tumor.
+**Figure 13-6.** Left thoracic approach; *A.* Left 6th interspace thoracotomy. *B.* Inverted T-shape incision at the periphery of the diaphragm.
 
-<span id="fig-13-8"></span>**Figure 13-8.** After ligating the aortic branches to the esophagus and bronchus, the esophagus is mobilized bluntly underneath the aortic arch. The mediastinal pleura above the aortic arch is opened allowing the esophagus to be pulled through.
+<span id="fig-13-7"></span>![](_page_36_Picture_8.jpeg)
 
-<span id="fig-13-9"></span>**Figure 13-9.** Abdominal compartment lymph node dissection. A. Mobilizing the spleen and the tail and body of the pancreas facilitates lymphadenectomy around the celiac axis, superior mesenteric artery, and left renal artery into the renal hilum. B. Abdominal lymphadenectomy completed.
+**Figure 13-7.** It may be necessary to resect a cuff of the diaphragm muscle surrounding the tumor when mobilizing and dissecting a EGJ tumor.
 
-<span id="fig-13-10"></span>**Figure 13-10.** Lymph node dissection in the chest. (A) Lymph nodes along the esophagus and subcarinal nodes are removed, (B) as well as in the aortopulmonary window. C. The thoracic duct is resected and ligated.
+<span id="fig-13-8"></span>![](_page_36_Figure_10.jpeg)
 
-<span id="fig-13-11"></span>**Figure 13-11.** The gastric tube is brought up through the esophageal hiatus, underneath the aortic arch, and temporarily fixed to the proximal stump of the transected esophagus in the top of the chest.
+**Figure 13-8.** After ligating the aortic branches to the esophagus and bronchus, the esophagus is mobilized bluntly underneath the aortic arch. The mediastinal pleura above the aortic arch is opened allowing the esophagus to be pulled through.
+
+<span id="fig-13-9"></span>![](_page_37_Picture_2.jpeg)
+
+![](_page_37_Picture_3.jpeg)
+
+**Figure 13-9.** Abdominal compartment lymph node dissection. *A.* Mobilizing the spleen and the tail and body of the pancreas facilitates lymphadenectomy around the celiac axis, superior mesenteric artery, and left renal artery into the renal hilum. *B.* Abdominal lymphadenectomy completed.
+
+<span id="fig-13-10"></span>![](_page_37_Picture_10.jpeg)
+
+![](_page_37_Picture_11.jpeg)
+
+![](_page_37_Picture_12.jpeg)
+
+**Figure 13-10.** Lymph node dissection in the chest. (*A*) Lymph nodes along the esophagus and subcarinal nodes are removed, (*B*) as well as in the aortopulmonary window. *C.* The thoracic duct is resected and ligated.
+
+<span id="fig-13-11"></span>![](_page_38_Picture_2.jpeg)
+
+**Figure 13-11.** The gastric tube is brought up through the esophageal hiatus, underneath the aortic arch, and temporarily fixed to the proximal stump of the transected esophagus in the top of the chest.
 
 </div></details>
 
@@ -1172,7 +1158,7 @@ Siewert classification was originally described to allow surgeons to approach ea
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## Chapter 14: Esophagoscopy</summary><div class="details-content">
@@ -1185,15 +1171,15 @@ Esophagoscopy is the primary diagnostic tool for any disease suspected to involv
 
 ### General Principles</summary><div class="details-content">
 
-The modern endoscopic system consists of an endoscope, light source, optical system, and working port. A basic understanding of these components, outlined in Table 14-1, is essential. For most applications, a flexible videoendoscope is sufficient and preferred. Flexible endoscopes come in many sizes. The larger sizes allow for wider suction and working ports while providing excellent images. The smaller sizes are more comfortable for the patient and allow sufficient room for additional devices to be placed through the lumen of the esophagus at the same time. Rigid esophagoscopes are large, inflexible metal cylinders that come in different widths and lengths. These are used only for work that requires a very wide lumen, such as removing a foreign object or repositioning a stent.
+The modern endoscopic system consists of an endoscope, light source, optical system, and working port. A basic understanding of these components, outlined in [Table 14-1](#table-14-1), is essential. For most applications, a flexible videoendoscope is sufficient and preferred. Flexible endoscopes come in many sizes. The larger sizes allow for wider suction and working ports while providing excellent images. The smaller sizes are more comfortable for the patient and allow sufficient room for additional devices to be placed through the lumen of the esophagus at the same time. Rigid esophagoscopes are large, inflexible metal cylinders that come in different widths and lengths. These are used only for work that requires a very wide lumen, such as removing a foreign object or repositioning a stent.
 
 EGD is indicated when there is a clinical suspicion of pathology of the upper gastrointestinal tract, before surgery of the esophagus or stomach, and for specific therapy of known disorders. This procedure enables the surgeon to visualize the endoluminal anatomy in great detail, as well as structural anomalies, disorders, and defects of the gastrointestinal tract. In addition, endoscopy is an excellent way to obtain tissue biopsy for histologic diagnosis or to examine the mediastinum or the rest of the layers of the esophagus with ultrasound.
 
-Endoscopy should be performed in a controlled, well-equipped setting staffed and monitored by experienced personnel. Such locations usually include freestanding endoscopy suites and operating rooms. In emergent cases, the equipment and personnel can be moved to the bedside in the ICU or emergency ward, obviating the need to move a critically ill patient. As for any other procedure, the endoscopist should be well trained and have proper credentials to perform the procedure. Clear indications and expectations for any procedure should be discussed with the patient before endoscopy. It is also important for the surgeon to be familiar with the potential complications of endoscopy and to take proactive measures to reduce overall morbidity (Table 14-2). Several good practices are (1) to avoid applying undue force when maneuvering the instrument through the patient's oropharynx or esophagus because this may lead to perforation or unsafe instrumentation, (2) to remove all tubes that are in place (e.g., nasogastric tube) before starting the procedure, and (3) to not compromise patient care by lack of the equipment required to perform the proposed procedure, a particular concern in the office setting.
+Endoscopy should be performed in a controlled, well-equipped setting staffed and monitored by experienced personnel. Such locations usually include freestanding endoscopy suites and operating rooms. In emergent cases, the equipment and personnel can be moved to the bedside in the ICU or emergency ward, obviating the need to move a critically ill patient. As for any other procedure, the endoscopist should be well trained and have proper credentials to perform the procedure. Clear indications and expectations for any procedure should be discussed with the patient before endoscopy. It is also important for the surgeon to be familiar with the potential complications of endoscopy and to take proactive measures to reduce overall morbidity ([Table 14-2](#table-14-2)). Several good practices are (1) to avoid applying undue force when maneuvering the instrument through the patient's oropharynx or esophagus because this may lead to perforation or unsafe instrumentation, (2) to remove all tubes that are in place (e.g., nasogastric tube) before starting the procedure, and (3) to not compromise patient care by lack of the equipment required to perform the proposed procedure, a particular concern in the office setting.
 
 <details class="med-details"><summary>
 
-#### Table 14-1 — Components of an Endoscopic System</summary><div class="details-content">
+#### <span id="table-14-1"></span>Table 14-1 — Components of an Endoscopic System</summary><div class="details-content">
 
 | Component | Description |
 |---|---|
@@ -1206,7 +1192,7 @@ Endoscopy should be performed in a controlled, well-equipped setting staffed and
 
 <details class="med-details"><summary>
 
-#### Table 14-2 — Common Pitfalls</summary><div class="details-content">
+#### <span id="table-14-2"></span>Table 14-2 — Common Pitfalls</summary><div class="details-content">
 
 - Failure to establish a clear indication for procedure
 - Failure to recognize or evaluate the patient's premorbid state
@@ -1237,11 +1223,11 @@ The risk of endoscopy arises from the patient's medical condition, anesthetic ma
 
 #### Preoperative Setup</summary><div class="details-content">
 
-Before performing esophagoscopy, all equipment (endoscopic, monitoring, and resuscitative) must be assembled and examined for proper function (Table 14-3). The endoscope should be examined for sterility and external integrity (e.g., the plastic coating must be completely intact without visible fractures). All knobs and buttons should be fit snugly in place and should be tested for proper function, including axial motion, air insufflation, water instillation, and suction. The video monitor should be turned on, the patient data should be entered in the electronic record, and the scope should be balanced for image clarity. The monitor should be placed directly in front of the endoscopist, and the room lights should be dimmed to maximize the quality of the image on the video monitor.
+Before performing esophagoscopy, all equipment (endoscopic, monitoring, and resuscitative) must be assembled and examined for proper function ([Table 14-3](#table-14-3)). The endoscope should be examined for sterility and external integrity (e.g., the plastic coating must be completely intact without visible fractures). All knobs and buttons should be fit snugly in place and should be tested for proper function, including axial motion, air insufflation, water instillation, and suction. The video monitor should be turned on, the patient data should be entered in the electronic record, and the scope should be balanced for image clarity. The monitor should be placed directly in front of the endoscopist, and the room lights should be dimmed to maximize the quality of the image on the video monitor.
 
 <details class="med-details"><summary>
 
-##### Table 14-3 — Monitoring and Sedation for Office-Based Endoscopy</summary><div class="details-content">
+##### <span id="table-14-3"></span>Table 14-3 — Monitoring and Sedation for Office-Based Endoscopy</summary><div class="details-content">
 
 - Confirm patient's NPO status.
 - Place intravenous line before administering sedatives, and maintain intravenous line until patient has recovered sufficiently to permit safe discharge.
@@ -1276,21 +1262,29 @@ Two types of flexible endoscopes are available: videoscopic and those that utili
 
 #### Esophagoscopy</summary><div class="details-content">
 
-After the patient has been inducted with general anesthesia, the endoscope is placed into the oropharynx and esophagus by extending the lower jaw anteriorly and placing the endoscope behind the endotracheal tube (Fig. 14-1). Alternatively, endoscopy can be performed under intravenous conscious sedation or with the patient fully awake. A bite blocker is placed between the teeth to prevent damage to the scope. The conscious patient is positioned on his or her side, usually the left. Monitored sedation is then administered using short-acting intravenous medications, after which the endoscope is carefully introduced. Alternatively, in a cooperative patient, awake endoscopy can be performed with a small scope inserted via the nose or regular endoscope after aerosolized analgesia of the oropharynx. The awake patient can aid the endoscopist by active "swallowing."
+After the patient has been inducted with general anesthesia, the endoscope is placed into the oropharynx and esophagus by extending the lower jaw anteriorly and placing the endoscope behind the endotracheal tube ([Fig. 14-1](#fig-14-1)). Alternatively, endoscopy can be performed under intravenous conscious sedation or with the patient fully awake. A bite blocker is placed between the teeth to prevent damage to the scope. The conscious patient is positioned on his or her side, usually the left. Monitored sedation is then administered using short-acting intravenous medications, after which the endoscope is carefully introduced. Alternatively, in a cooperative patient, awake endoscopy can be performed with a small scope inserted via the nose or regular endoscope after aerosolized analgesia of the oropharynx. The awake patient can aid the endoscopist by active "swallowing."
 
-<span id="fig-14-1"></span>**Figure 14-1.** Inserting the endoscope for esophagoscopy.
+<span id="fig-14-1"></span>![](_page_41_Picture_2.jpeg)
 
-The endoscope is maneuvered by rotation in the hands of the operator, who at all times should be attempting to center the lumen on the video monitor, which decreases the chance of perforation, and by using insufflation as needed before advancing the endoscope farther along. The scope should be in the unlocked position. The scope should be advanced with minimal force. During endoscopy, the majority of the maneuvering is done by the dominant hand on the scope while the fine tuning is done by the nondominant hand on the dials. Typically, in the anesthetized patient, the scope can be passed directly into the mid-esophagus with the nondominant hand. The mouth and chin are elevated and the scope is gently advanced. If resistance is encountered, the endoscopist should draw back 1 to 2 cm, center the scope, and only then gently advance. After the scope is beyond the first narrowing of the upper esophageal sphincter at the cricopharyngeus, the esophagus is insufflated with air and the mucosa examined as the scope is advanced (Fig. 14-2).
+**Figure 14-1.** Inserting the endoscope for esophagoscopy.
 
-A second narrowing occurs in the area of the aortic arch and carina, approximately 24 to 25 cm from the incisors. The final anatomic narrowing occurs at the lower esophageal sphincter (LES), which is about 40 cm from the incisors. The esophageal, gastric, and duodenal mucosae are examined visually for lesions, strictures, webs, ulcers, dilatations, diverticula, and other pathology (Fig. 14-3). The Z-line is identified, and the length is measured (incisors to Z-line) and documented.
+The endoscope is maneuvered by rotation in the hands of the operator, who at all times should be attempting to center the lumen on the video monitor, which decreases the chance of perforation, and by using insufflation as needed before advancing the endoscope farther along. The scope should be in the unlocked position. The scope should be advanced with minimal force. During endoscopy, the majority of the maneuvering is done by the dominant hand on the scope while the fine tuning is done by the nondominant hand on the dials. Typically, in the anesthetized patient, the scope can be passed directly into the mid-esophagus with the nondominant hand. The mouth and chin are elevated and the scope is gently advanced. If resistance is encountered, the endoscopist should draw back 1 to 2 cm, center the scope, and only then gently advance. After the scope is beyond the first narrowing of the upper esophageal sphincter at the cricopharyngeus, the esophagus is insufflated with air and the mucosa examined as the scope is advanced ([Fig. 14-2](#fig-14-2)).
+
+A second narrowing occurs in the area of the aortic arch and carina, approximately 24 to 25 cm from the incisors. The final anatomic narrowing occurs at the lower esophageal sphincter (LES), which is about 40 cm from the incisors. The esophageal, gastric, and duodenal mucosae are examined visually for lesions, strictures, webs, ulcers, dilatations, diverticula, and other pathology ([Fig. 14-3](#fig-14-3)). The Z-line is identified, and the length is measured (incisors to Z-line) and documented.
 
 The stomach is entered, insufflated, and examined in its entirety. Retroflexion is performed by advancing the scope into the greater curvature and then angling it to achieve maximal retroflexion. The scope is pulled back toward the gastroesophageal junction and turned 360 degrees, providing good visualization of the esophagogastric junction and its relation to the hiatus from within the stomach. The greater and lesser curvatures of the stomach, as well as the antrum and pylorus, are insufflated and examined. The scope is then passed into the second part of the duodenum to exclude the presence of additional pathology and determine how tight the pylorus may be. In our practice, endoscopy routinely includes visualization up to and including the second part of the duodenum. Before withdrawing the scope from the duodenum, air is removed by suction.
 
 Depending on the indication for esophagoscopy, after visual examination, diagnostic procedures such as biopsy using flexible biopsy forceps or therapeutic procedures can be performed. Visual examination of the mucosa is typically performed using white light. Attention is paid to the regularity of the mucosa, in addition to color and presence of nodularity, ulceration, or masses. Newer scopes may have customized features such as a narrow band imaging (NBI) mode that accentuates the microvasculature and can help the endoscopist identify subtle changes. Additional diagnostic endoscopic modalities include life-scope and confocal technologies. Currently, these are not widely used. Biopsy should be performed when suspected pathology is encountered. This can be accomplished with regular or jumbo forceps. Endoscopic mucosal resection (EMR) may provide diagnostic as well as therapeutic benefit (see Chapter 173). In the event of stricture, a guidewire may be inserted to cross the stricture before (if the stricture is very tight) or after the scope has traversed it. The scope is withdrawn, and serial dilations are carried out using Savary dilators. Alternatively, a pneumatic dilator can be placed over the guidewire and the stricture dilated using preset pressure and diameter. Completion endoscopy is then carried out to evaluate the results of the dilation and to rule out procedure-related injury. In cases where stenting is indicated a guidewire can be placed beyond the target lesion, and a stent placed under direct endoscopic vision or using fluoroscopy.
 
-<span id="fig-14-2"></span>**Figure 14-2.** Anatomic regions of esophageal and proximal foregut narrowing. Cricopharyngeus (14 cm in females, 15 cm in males). Carina and aortic arch (24–26 cm). Diaphragmatic constriction in the area of the lower esophageal sphincter (LES; 36–38 cm in females, 38–40 cm in males). Pylorus (small arrow).
+<span id="fig-14-2"></span>![](_page_41_Picture_7.jpeg)
 
-<span id="fig-14-3"></span>**Figure 14-3.** Representative pathology. A. Barrett's distal esophagus. B. Retroflex view showing slipped Nissen fundoplication.
+**Figure 14-2.** Anatomic regions of esophageal and proximal foregut narrowing. Cricopharyngeus (14 cm in females, 15 cm in males). Carina and aortic arch (24–26 cm). Diaphragmatic constriction in the area of the lower esophageal sphincter (LES; 36–38 cm in females, 38–40 cm in males). Pylorus (small arrow).
+
+<span id="fig-14-3"></span>![](_page_42_Picture_2.jpeg)
+
+![](_page_42_Picture_3.jpeg)
+
+**Figure 14-3.** Representative pathology. *A*. Barrett's distal esophagus. *B*. Retroflex view showing slipped Nissen fundoplication.
 
 </div></details>
 
@@ -1300,11 +1294,11 @@ Depending on the indication for esophagoscopy, after visual examination, diagnos
 
 ### Procedure-Specific Complications</summary><div class="details-content">
 
-Prevention is key to avoiding the complications of endoscopy, namely, oversedation, aspiration, bleeding, perforation, systemic processes, and injury incidental to recovery (Table 14-4). Oversedation can be avoided by judicious use of sedatives, but when it occurs, it is best managed by postprocedural monitoring or intubation and monitoring in an intensive care unit setting. The major risks of oversedation are central respiratory suppression and loss of gag reflex. The risk of aspiration is minimized with proper patient preparation (i.e., NPO for at least 6 hours), by avoiding excessive insufflation, and through judicious use of sedation and monitoring. Bleeding can be minimized by gentle maneuvering of the endoscope, cessation of anticoagulant medication preoperatively, and if encountered, cauterization of bleeding sites as soon as they are identified. Parenthetically, some of the flexible biopsy forceps also have the capability of functioning as electrocautery. Perforation can be avoided largely by careful maneuvering of the endoscope without forcing it through tight spots. Perforations usually occur at the site of one of the three narrow points described earlier or next to the diseased portion. It is important to recognize perforation early because immediate therapy reduces mortality. A high index of suspicion is important. Patients with perforation usually complain of pain and may have tachycardia and/or subcutaneous emphysema. A chest x-ray may demonstrate a pneumothorax or air tracking in the mediastinum. A contrast study such as an upper gastrointestinal series or CT scan may be helpful to identify a perforation before the repair.
+Prevention is key to avoiding the complications of endoscopy, namely, oversedation, aspiration, bleeding, perforation, systemic processes, and injury incidental to recovery ([Table 14-4](#table-14-4)). Oversedation can be avoided by judicious use of sedatives, but when it occurs, it is best managed by postprocedural monitoring or intubation and monitoring in an intensive care unit setting. The major risks of oversedation are central respiratory suppression and loss of gag reflex. The risk of aspiration is minimized with proper patient preparation (i.e., NPO for at least 6 hours), by avoiding excessive insufflation, and through judicious use of sedation and monitoring. Bleeding can be minimized by gentle maneuvering of the endoscope, cessation of anticoagulant medication preoperatively, and if encountered, cauterization of bleeding sites as soon as they are identified. Parenthetically, some of the flexible biopsy forceps also have the capability of functioning as electrocautery. Perforation can be avoided largely by careful maneuvering of the endoscope without forcing it through tight spots. Perforations usually occur at the site of one of the three narrow points described earlier or next to the diseased portion. It is important to recognize perforation early because immediate therapy reduces mortality. A high index of suspicion is important. Patients with perforation usually complain of pain and may have tachycardia and/or subcutaneous emphysema. A chest x-ray may demonstrate a pneumothorax or air tracking in the mediastinum. A contrast study such as an upper gastrointestinal series or CT scan may be helpful to identify a perforation before the repair.
 
 <details class="med-details"><summary>
 
-#### Table 14-4 — Complications</summary><div class="details-content">
+#### <span id="table-14-4"></span>Table 14-4 — Complications</summary><div class="details-content">
 
 - Oversedation
 - Aspiration
@@ -1337,11 +1331,11 @@ This concise and clearly written chapter describes the indications for and the t
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
-  
+
 ## Chapter 15: Minimally Invasive Esophagectomy</summary><div class="details-content">
-  
+
 First described in AD 160 by Galen, the esophagus has proved to be a challenging organ to understand and manipulate. Its complex physiology and treacherous location in the posterior mediastinum precluded surgical manipulation until the 20th century. The first thoracic esophageal resection was described by Torek in 1915. He illustrated a resection of the midesophagus with an extra-anatomic reconstruction. Although he described only one survivor, this event heralded the beginning of esophageal surgery. For the remainder of this century and into the next, surgeons have endeavored to improve the technique and outcomes of this thoracic specialty.
 
 Orringer and Sloan popularized a transhiatal approach to esophageal resection and a gastric tube reconstruction. McKeown described a three-field approach requiring a thoracotomy to perform the majority of the esophageal dissection, followed by a laparotomy for the gastric mobilization, and finally, a cervical incision for anastomosis. Variations in approaches and reconstructions have provided today's surgeons with a large armament of techniques and fodder for debate over the ideal approach.
@@ -1349,148 +1343,236 @@ Orringer and Sloan popularized a transhiatal approach to esophageal resection an
 Open surgical procedures remain the standard of care for esophageal resections in most medical centers. However, the morbidity and mortality associated with open procedures and the diseases for which they are required still reveal the need for further improvement. A 10-year review of the esophagectomy experience within the Veterans' Affairs hospital system revealed a morbidity of 50% and a mortality of 10%. Birkmeyer et al., in a recent analysis of a national Medicare database, revealed that the mortality rates from esophagectomy in the United States ranged from 8% in high-volume centers to 23% in low-volume centers.
 
 <details class="med-details"><summary>
-Beginnings of MIE</summary><div class="details-content">
+
+### Beginnings of MIE</summary><div class="details-content">
+
 The advent of laparoscopy and thoracoscopy in the 1980s opened the door to the possibility of a minimally invasive approach to esophageal surgery. Initial experience with laparoscopic Nissen fundoplications formed the basis of the early surgical experience, followed by the use of laparoscopic and thoracoscopic staging of lymph nodes. Collard et al. were the first to describe a thoracoscopic technique for esophageal dissection. Although multiple reports of laparoscopic-assisted esophagectomies followed, it was not until DePaula et al. published their initial experience in 1996 that a totally laparoscopic esophagectomy was documented. Although this report detailed a laparoscopic transhiatal approach, our center and others have used primarily a combined thoracoscopic and laparoscopic approach. The thoracoscopic approach affords better visualization of the periesophageal structures, especially near the main airways and subcarinal areas. It is also less affected by patient height and body habitus and, in our experience, improves nodal dissection and overall visualization compared with the totally laparoscopic method. In 2000, Nguyen et al. compared the minimally invasive approach with open transthoracic and transhiatal esophagectomy. The minimally invasive approach documented shorter operative times, less blood loss, and shorter stays in the intensive care unit with no increase in morbidity compared with the open approach.
 
 <details class="med-details"><summary>
-Indications</summary><div class="details-content">
+
+#### Indications</summary><div class="details-content">
+
 Indications for the minimally invasive approach for esophagectomy include Barrett esophagus with high-grade dysplasia, end-stage achalasia, esophageal strictures, and esophageal cancer. While most T4 esophageal cancers generally are not amenable to any surgical approach, all other T stages should be amenable to minimally invasive esophagectomy (MIE) in experienced hands. Downstaged cancer with neoadjuvant chemoradiation is also resectable by a minimally invasive approach. Previous thoracic and abdominal surgery is not necessarily a contraindication depending on the extent of the previous surgery and the experience of the surgeon performing the esophagectomy.
 
 Operative approaches to MIE have varied from a 3-hole modified McKeown to the Ivor Lewis approach. While our initial experience was largely the 3-hole approach with the initial dissection starting in the chest, over the past several years we have favored the Ivor Lewis approach. A high thoracic anastomosis can be performed thoracoscopically approaching the same level as a neck dissection. In addition, avoidance of a neck dissection minimizes recurrent nerve injury, dysphagia, and aspiration. Furthermore, the anastomosis is generally performed at a level on the gastric conduit that is better perfused by blood and hence is less likely to be damaged by ischemia. Below we describe the minimally invasive Ivor Lewis approach but modifications for the 3-hole approach are also discussed.
 
-</div></details></div></details><details class="med-details"><summary>
-Technique</summary><div class="details-content">
+</div></details>
+
+</div></details>
+
 <details class="med-details"><summary>
-Positioning</summary><div class="details-content">
+
+### Technique</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Positioning</summary><div class="details-content">
+
 Esophagogastroscopy is performed in all patients to confirm the location of the tumor and the suitability of the stomach for tubularization. For midesophageal tumors, a bronchoscopy is also indicated. The patient is intubated with a double-lumen endotracheal tube at the start of the case. Both lungs are ventilated during the abdominal dissection. The right lung is isolated during the thoracic dissection to provide adequate visualization and mobilization of the esophagus.
 
-</div></details><details class="med-details"><summary>
-Laparoscopy</summary><div class="details-content">
-The patient is placed supine. Five ports are used for the gastric mobilization (Fig. 15-1). A 10-mm port is placed right of midline in the epigastrium, slightly below the midpoint between the xiphoid process and the umbilicus. The port is inserted under direct vision. The patient is placed in a steep reverse Trendelenburg position. A 5-mm port is placed to the left of midline at the same level as the original port. A 5-mm, 30-degree camera is placed through this port. Additional 5-mm ports are placed at the left subcostal margin and the right subcostal margin. A 5-mm port is placed in the right flank to support a liver retractor. A self-retaining retractor is used to elevate the left lobe of the liver and expose the hiatus (Fig. 15-2). The gastrohepatic ligament is divided to expose the right crus. The esophagogastric junction is freed from the hiatus by dissection up the right crus. The phrenoesophageal ligament is taken down, and the dissection is extended to the left crus. The right gastroepiploic arcade is identified, and the gastrocolic ligament is divided lateral to this arcade. Dissection is carried up along the greater curvature of the stomach, taking down the short gastric arteries. Once dissection is carried up toward the left crus, the posterior attachments of the gastroesophageal junction can be divided. The stomach is retracted superiorly and to the right to expose the celiac vessels. Celiac and gastric nodal tissue is dissected free and left with the specimen. The left gastric artery then is isolated and divided at the base using an Endo-GIA vascular stapler (Covidien, Norwalk, CT). The stomach itself must be handled with care at all times to minimize traumatic injuries to the tissue.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Laparoscopy</summary><div class="details-content">
+
+The patient is placed supine. Five ports are used for the gastric mobilization ([Fig. 15-1](#fig-15-1)). A 10-mm port is placed right of midline in the epigastrium, slightly below the midpoint between the xiphoid process and the umbilicus. The port is inserted under direct vision. The patient is placed in a steep reverse Trendelenburg position. A 5-mm port is placed to the left of midline at the same level as the original port. A 5-mm, 30-degree camera is placed through this port. Additional 5-mm ports are placed at the left subcostal margin and the right subcostal margin. A 5-mm port is placed in the right flank to support a liver retractor. A self-retaining retractor is used to elevate the left lobe of the liver and expose the hiatus ([Fig. 15-2](#fig-15-2)). The gastrohepatic ligament is divided to expose the right crus. The esophagogastric junction is freed from the hiatus by dissection up the right crus. The phrenoesophageal ligament is taken down, and the dissection is extended to the left crus. The right gastroepiploic arcade is identified, and the gastrocolic ligament is divided lateral to this arcade. Dissection is carried up along the greater curvature of the stomach, taking down the short gastric arteries. Once dissection is carried up toward the left crus, the posterior attachments of the gastroesophageal junction can be divided. The stomach is retracted superiorly and to the right to expose the celiac vessels. Celiac and gastric nodal tissue is dissected free and left with the specimen. The left gastric artery then is isolated and divided at the base using an Endo-GIA vascular stapler (Covidien, Norwalk, CT). The stomach itself must be handled with care at all times to minimize traumatic injuries to the tissue.
 
 A Kocher maneuver is performed, and the retrogastric and duodenal attachments are carefully dissected to achieve adequate mobilization of the gastric tube. Adequate mobilization should permit the pylorus to reach the right crus with ease. This should be reassessed at several time points during the mobilization to inform the surgeon of the degree of dissection required. If there is any difficulty with this maneuver, further pyloroantral mobilization generally is required.
 
-The gastric tube construction is now initiated by firing the Endo-GIA stapler across the lesser-curve vessels and fat at an angle pointing toward the incisura. For the first firing, we generally use a vascular load (white) with a staple height of 2.5 mm to minimize small-vessel oozing along the lesser curve (Fig. 15-3A). The right gastric vessels are preserved. The angle of the first few staple firings will determine the gastric tube diameter, and the staples should be placed accordingly. We prefer to create a gastric tube that is approximately 4 to 5 cm wide. In addition, we apply slight caudal and simultaneous cephalad traction during application of the stapler to keep the gastric tube on slight stretch (Fig. 15-3B). This will afford better length of the final tube. Subsequent firings of the stapler should be maintained in a line parallel to the greater-curvature arcade to create a consistent tube width and avoid spiraling of the tubularized gastric conduit. The staple load used along the thick gastric antrum may require the green stapling cartridge (4.8-mm height). As the stapling continues toward the fundus, we generally use the blue loads (3.5-mm height). The staple line is inspected for hemostasis. The conduit is observed while the pyloroplasty is completed. A pyloroplasty is performed in Heinecke-Mikulicz fashion (see Chapter 17). An Endo Stitch (Covidien, Norwalk, CT USA) is placed superiorly and inferiorly on the pylorus to provide retraction. Ultrasonic shears are used to incise the pylorus, and the opening is closed transversely using 2-0 interrupted endosutures. The resected specimen is attached to the gastric tube with two endosutures (Fig. 15-4). These sutures should be placed from the tip of the fundic portion of the tube to the lesser-curve portion of the resected specimen. This technique tends to minimize the bulk as the specimen and gastric tube are passed through the hiatus (Fig. 15-5).
+The gastric tube construction is now initiated by firing the Endo-GIA stapler across the lesser-curve vessels and fat at an angle pointing toward the incisura. For the first firing, we generally use a vascular load (white) with a staple height of 2.5 mm to minimize small-vessel oozing along the lesser curve ([Fig. 15-3A](#fig-15-3a)). The right gastric vessels are preserved. The angle of the first few staple firings will determine the gastric tube diameter, and the staples should be placed accordingly. We prefer to create a gastric tube that is approximately 4 to 5 cm wide. In addition, we apply slight caudal and simultaneous cephalad traction during application of the stapler to keep the gastric tube on slight stretch ([Fig. 15-3B](#fig-15-3b)). This will afford better length of the final tube. Subsequent firings of the stapler should be maintained in a line parallel to the greater-curvature arcade to create a consistent tube width and avoid spiraling of the tubularized gastric conduit. The staple load used along the thick gastric antrum may require the green stapling cartridge (4.8-mm height). As the stapling continues toward the fundus, we generally use the blue loads (3.5-mm height). The staple line is inspected for hemostasis. The conduit is observed while the pyloroplasty is completed. A pyloroplasty is performed in Heinecke-Mikulicz fashion (see Chapter 17). An Endo Stitch (Covidien, Norwalk, CT USA) is placed superiorly and inferiorly on the pylorus to provide retraction. Ultrasonic shears are used to incise the pylorus, and the opening is closed transversely using 2-0 interrupted endosutures. The resected specimen is attached to the gastric tube with two endosutures ([Fig. 15-4](#fig-15-4)). These sutures should be placed from the tip of the fundic portion of the tube to the lesser-curve portion of the resected specimen. This technique tends to minimize the bulk as the specimen and gastric tube are passed through the hiatus ([Fig. 15-5](#fig-15-5)).
 
-<span id="fig-15-1"></span>Figure 15-1. Abdominal port placement.
+<span id="fig-15-1"></span>![](_page_45_Picture_2.jpeg)
 
-<span id="fig-15-2"></span>Figure 15-2. Gastric mobilization.
+**Figure 15-1.** Abdominal port placement.
 
-<span id="fig-15-3"></span>Figure 15-3. A. The Endo-GIA stapler is fixed across the lesser curvature vessels at an angle pointing toward the incisura. B. A gastric tube is created approximately 4 to 5 cm wide. The stapler should be in line with the greater curvature to avoid twisting.
+<span id="fig-15-2"></span>![](_page_45_Picture_9.jpeg)
 
-<span id="fig-15-4"></span>Figure 15-4. Attachment of specimen to gastric conduit.
+**Figure 15-2.** Gastric mobilization.
 
-<span id="fig-15-5"></span>Figure 15-5. Gastric pull-up.
+<span id="fig-15-3"></span>![](_page_46_Picture_2.jpeg)
 
-</div></details><details class="med-details"><summary>
-Feeding Jejunostomy</summary><div class="details-content">
+**Figure 15-3.** *A.* The Endo-GIA stapler is fixed across the lesser curvature vessels at an angle pointing toward the incisura. *B.* A gastric tube is created approximately 4 to 5 cm wide. The stapler should be in line with the greater curvature to avoid twisting.
+
+<span id="fig-15-4"></span>![](_page_46_Picture_8.jpeg)
+
+**Figure 15-4.** Attachment of specimen to gastric conduit.
+
+<span id="fig-15-5"></span>![](_page_46_Picture_10.jpeg)
+
+**Figure 15-5.** Gastric pull-up.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Feeding Jejunostomy</summary><div class="details-content">
+
 An additional 10-mm port is placed in the right lower quadrant to facilitate jejunostomy tube placement. The transverse colon is retracted cephalad using a grasper applied to the adjacent fatty epiploicae, and the ligament of Treitz is identified. Approximately 40 cm from the ligament of Treitz, a loop of jejunum is attached to the anterior abdominal wall in the left lower quadrant using an Endo Stitch. A 10-Fr laparoscopic feeding jejunostomy tube is inserted into the jejunum percutaneously using the Seldinger technique. The guidewire is threaded into the small bowel, followed by the catheter, to a distance of approximately 20 cm. The jejunum is further tacked to the anterior abdominal wall using three additional endosutures as well as a single suture approximately 3 cm distal to the entrance site to prevent torsion. The feeding catheter is secured on the skin, and 10 mL of air is injected rapidly into the small bowel to test for patency and confirm intraluminal placement. If any doubts exist as to true luminal placement, an on-the-table Gastrografin study of the jejunostomy tube should be performed.
 
-</div></details><details class="med-details"><summary>
-Thoracoscopy</summary><div class="details-content">
-The patient is placed in the left lateral decubitus position. The right lung is isolated. Four ports are used to access the right chest (Fig. 15-6). A 10-mm camera port is inserted in the anterior axillary line at the eighth interspace. An additional 10-mm port is placed approximately 2 cm posterior to the posterior axillary line in the eighth or ninth interspace. This is the main dissection port for the harmonic scalpel (Ethicon). A 10-mm port is placed in the fourth interspace along the anterior axillary line. A fan retractor is placed through this port to provide retraction of the lung. Finally, a 5-mm port is placed below the scapular tip. A fifth 5-mm port can be placed at the sixth rib, at the anterior axillary line, for suction by the assistant. The addition of insufflation can depress the diaphragm to give better visualization of the hiatus. Alternatively, an Endo Stitch can be placed in the central tendon of the right diaphragm and brought out percutaneously through the lower chest wall near the costal margin using the Endo-Close device (Covidien, Norwalk, CT). Downward traction on this stitch pulls the diaphragm inferiorly and allows better visualization of the lower esophagus and hiatus.
+</div></details>
 
-Dissection is begun by taking down the inferior pulmonary ligament (Fig. 15-7). The mediastinal pleura is dissected anteriorly along the plane between the edge of the lung and the esophagus and is resected with the specimen up to the azygos vein. The subcarinal lymph nodes are taken en bloc with the esophagus. Care is exercised to avoid injury to the posterior membrane of the right mainstem bronchus, carina, and trachea. Dissection is carried up to the azygos vein, and the vein is divided with an Endo-GIA stapler (Covidien, Norwalk, CT).
+<details class="med-details"><summary>
 
-The mediastinal pleura is also divided inferiorly near the hiatus (Fig. 15-7). Tributaries from the thoracic duct to the esophagus are at risk for subsequent leak. Liberal use of endoclips here will minimize the chances of a postoperative chylous leak. Aortoesophageal attachments are also isolated, clipped, and divided. All surrounding soft tissue is taken with the esophagus, including the lymph node packets. Once the dissection is carried up to the divided azygos vein, the vagus nerve is divided, and the dissection is now performed close to the esophagus. By dissecting the surrounding tissue away from the esophagus, traction on the vagus nerve is minimized, and the risk of recurrent nerve injury is decreased. Care is taken to preserve the mediastinal pleura above the azygos vein. This precaution is an aid to maintaining the gastric tube in the mediastinum and seals the surrounding tissue to minimize leakage of any cervical drainage into the chest.
+#### Thoracoscopy</summary><div class="details-content">
+
+The patient is placed in the left lateral decubitus position. The right lung is isolated. Four ports are used to access the right chest ([Fig. 15-6](#fig-15-6)). A 10-mm camera port is inserted in the anterior axillary line at the eighth interspace. An additional 10-mm port is placed approximately 2 cm posterior to the posterior axillary line in the eighth or ninth interspace. This is the main dissection port for the harmonic scalpel (Ethicon). A 10-mm port is placed in the fourth interspace along the anterior axillary line. A fan retractor is placed through this port to provide retraction of the lung. Finally, a 5-mm port is placed below the scapular tip. A fifth 5-mm port can be placed at the sixth rib, at the anterior axillary line, for suction by the assistant. The addition of insufflation can depress the diaphragm to give better visualization of the hiatus. Alternatively, an Endo Stitch can be placed in the central tendon of the right diaphragm and brought out percutaneously through the lower chest wall near the costal margin using the Endo-Close device (Covidien, Norwalk, CT). Downward traction on this stitch pulls the diaphragm inferiorly and allows better visualization of the lower esophagus and hiatus.
+
+Dissection is begun by taking down the inferior pulmonary ligament ([Fig. 15-7](#fig-15-7)). The mediastinal pleura is dissected anteriorly along the plane between the edge of the lung and the esophagus and is resected with the specimen up to the azygos vein. The subcarinal lymph nodes are taken en bloc with the esophagus. Care is exercised to avoid injury to the posterior membrane of the right mainstem bronchus, carina, and trachea. Dissection is carried up to the azygos vein, and the vein is divided with an Endo-GIA stapler (Covidien, Norwalk, CT).
+
+The mediastinal pleura is also divided inferiorly near the hiatus ([Fig. 15-7](#fig-15-7)). Tributaries from the thoracic duct to the esophagus are at risk for subsequent leak. Liberal use of endoclips here will minimize the chances of a postoperative chylous leak. Aortoesophageal attachments are also isolated, clipped, and divided. All surrounding soft tissue is taken with the esophagus, including the lymph node packets. Once the dissection is carried up to the divided azygos vein, the vagus nerve is divided, and the dissection is now performed close to the esophagus. By dissecting the surrounding tissue away from the esophagus, traction on the vagus nerve is minimized, and the risk of recurrent nerve injury is decreased. Care is taken to preserve the mediastinal pleura above the azygos vein. This precaution is an aid to maintaining the gastric tube in the mediastinum and seals the surrounding tissue to minimize leakage of any cervical drainage into the chest.
 
 Periesophageal dissection can be taken all the way up to the thoracic inlet. Once the esophagus is mobilized, the specimen and the gastric conduit are brought into the field with gentle retraction of the esophagus. The suture is divided separating the specimen and gastric conduit. Once the esophagus is fully mobilized up to the upper chest cavity, the esophagus is sharply divided with endoshears, dividing the proximal esophagus and separating the specimen. The posterior inferior dissection port is increased by 2 cm and fitted with a wound protector (Alexis, Applied Medical). The specimen is removed through the wound.
 
-The open esophagus is gently dilated with a balloon and the anvil of an end-to-end anastomosis (EEA) stapler is placed within the lumen. The edges of the esophagus are then suture closed with two rows of purse-string suture. Use of an endosuture (Covidien) or free-hand suture is generally required to form a snug fit around the anvil. The gastric conduit is brought up into the field, and the proximal end is divided to open the conduit. The handle of the EEA stapler is placed through the posterior incision and into the open end of the conduit. The spike is brought out along the greater curvature at a site that is distal to the opening and well perfused (Fig. 15-8). This spike is attached to the anvil, reapproximated, and fired to form the anastomosis. The EEA stapler is gently removed. Once an NG tube is placed, the open end of the gastric conduit can be resected flush, in line with the body of the conduit with the Endo-GIA stapler, closing the opening and leaving generally an in-line conduit in the esophageal bed (Fig. 15-9). If adequate omentum has been brought up to the chest, it can be used to buttress the anastomosis and staple lines. The chest is washed with multiple liters of saline. Chest tubes are placed, including a Blake drain near the conduit. The chest is closed, completing the reconstruction.
+The open esophagus is gently dilated with a balloon and the anvil of an end-to-end anastomosis (EEA) stapler is placed within the lumen. The edges of the esophagus are then suture closed with two rows of purse-string suture. Use of an endosuture (Covidien) or free-hand suture is generally required to form a snug fit around the anvil. The gastric conduit is brought up into the field, and the proximal end is divided to open the conduit. The handle of the EEA stapler is placed through the posterior incision and into the open end of the conduit. The spike is brought out along the greater curvature at a site that is distal to the opening and well perfused ([Fig. 15-8](#fig-15-8)). This spike is attached to the anvil, reapproximated, and fired to form the anastomosis. The EEA stapler is gently removed. Once an NG tube is placed, the open end of the gastric conduit can be resected flush, in line with the body of the conduit with the Endo-GIA stapler, closing the opening and leaving generally an in-line conduit in the esophageal bed ([Fig. 15-9](#fig-15-9)). If adequate omentum has been brought up to the chest, it can be used to buttress the anastomosis and staple lines. The chest is washed with multiple liters of saline. Chest tubes are placed, including a Blake drain near the conduit. The chest is closed, completing the reconstruction.
 
-<span id="fig-15-6"></span>Figure 15-6. Thoracic port placement.
+<span id="fig-15-6"></span>![](_page_47_Picture_2.jpeg)
 
-<span id="fig-15-7"></span>Figure 15-7. Esophageal mobilization.
+**Figure 15-6.** Thoracic port placement.
 
-<span id="fig-15-8"></span>Figure 15-8. Creation of the esophagogastric anastomosis.
+<span id="fig-15-7"></span>![](_page_47_Picture_9.jpeg)
 
-<span id="fig-15-9"></span>Figure 15-9. The gastrotomy is closed with an Endo-GIA stapler.
+**Figure 15-7.** Esophageal mobilization.
 
-</div></details><details class="med-details"><summary>
-Three-Hole Approach and Cervical Anastomosis</summary><div class="details-content">
+<span id="fig-15-8"></span>![](_page_48_Picture_2.jpeg)
+
+**Figure 15-8.** Creation of the esophagogastric anastomosis.
+
+<span id="fig-15-9"></span>![](_page_48_Picture_7.jpeg)
+
+**Figure 15-9.** The gastrotomy is closed with an Endo-GIA stapler.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Three-Hole Approach and Cervical Anastomosis</summary><div class="details-content">
+
 For a 3-hole modified McKeown approach, the dissection is started in the right chest with the patient in the left lateral decubitus position. Full mobilization is performed using similar port placement as described for the thoracoscopic phase of the Ivor Lewis MIE. In this case, however, the dissection of the mediastinal pleura is continued up to the thoracic inlet. A Penrose drain is wrapped around the esophagus for later retrieval in the neck. The patient is placed supine and the stomach mobilized as described above. The phrenoesophageal ligament is dissected last, as entrance here can evacuate the abdominal insufflation into the right chest and out the chest tube. Hence, keeping this area intact until one is ready to bring the conduit up to the neck will keep the abdomen insufflated.
 
 A horizontal incision is made along a cervical crease above the sternal notch and extending to the left. Dissection is carried down, and platysmal flaps are developed. Dissection is continued along the anterior border of the sternocleidomastoid muscle. The omohyoid muscle is divided, and gentle dissection is continued down to the prevertebral fascia. The cervical esophagus is gently retracted medially with a peanut dissector. Careful dissection performed inferiorly should open into the thoracic inlet. The Penrose drain left in the thoracic inlet at the end of the thoracoscopic portion of the surgery should be readily encountered in the neck and retracted out through the cervical wound. Once the cervical esophagus is bluntly dissected free, delivery of the specimen out the neck incision along with the attached gastric conduit is possible. An assistant observes the orientation of the gastric tube with the laparoscope as it is guided up through the hiatus. Care must be taken to preserve proper orientation and prevent spiraling or tension at the hiatus. Once the gastric tube is delivered into the neck, the two endosutures are divided. The proximal gastric tube is assessed for viability. The proximal cervical esophagus is mobilized. An auto-purse-string device (Covidien, Norwalk, CT) is applied 2 to 3 cm distal to the cricopharyngeus, and the esophagus is divided. A 25-mm EEA stapler is used to perform the anastomosis. The anvil is placed in the cervical esophagus, and the purse string is tied. The proximal gastric tube tip is opened, and the EEA stapler is inserted and directed posteriorly between the staple line and the line of the short gastric arteries. Usually, the gastric tube is sufficiently long to permit the anvil to exit the gastric tube 6 to 8 cm distally. Once the anastomosis is complete, a nasogastric tube is guided under direct vision. The gastrotomy opening is closed by stapling off the distal 5 to 6 cm of the proximal gastric tube with an Endo-GIA stapler.
 
-Attention is directed back into the abdomen. Graspers are applied to the antral area, and gentle downward traction is applied until the cervical anastomosis dips into the neck incision. This maneuver ensures the absence of redundant gastric tube above the hiatus that may have been pulled up during creation of the neck anastomosis. The gastric tube is tacked to the hiatus to prevent future herniation (Fig. 15-10). Care must be taken to avoid injury to the vascular supply. We generally apply three sutures, one from the greater-curve side to the left crus, one from the lesser-curve side to the right crus, and one on the anterior gastric tube to the central edge of the diaphragmatic hiatus. The cervical anastomosis is irrigated, and the skin is only loosely approximated with one or two staples. In our experience, multilayer suture closure of the cervical incision may lead to downward tracking of an anastomotic leak, should one occur.
+Attention is directed back into the abdomen. Graspers are applied to the antral area, and gentle downward traction is applied until the cervical anastomosis dips into the neck incision. This maneuver ensures the absence of redundant gastric tube above the hiatus that may have been pulled up during creation of the neck anastomosis. The gastric tube is tacked to the hiatus to prevent future herniation ([Fig. 15-10](#fig-15-10)). Care must be taken to avoid injury to the vascular supply. We generally apply three sutures, one from the greater-curve side to the left crus, one from the lesser-curve side to the right crus, and one on the anterior gastric tube to the central edge of the diaphragmatic hiatus. The cervical anastomosis is irrigated, and the skin is only loosely approximated with one or two staples. In our experience, multilayer suture closure of the cervical incision may lead to downward tracking of an anastomotic leak, should one occur.
 
-<span id="fig-15-10"></span>Figure 15-10. Completed reconstruction.
+<span id="fig-15-10"></span>![](_page_49_Picture_7.jpeg)
 
-</div></details></div></details><details class="med-details"><summary>
-Results</summary><div class="details-content">
+**Figure 15-10.** Completed reconstruction.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Results</summary><div class="details-content">
+
 The largest reported experience with MIE to date highlights some of the potential advantages and pitfalls of this approach. In the Pittsburgh series of 1011 patients who underwent a planned MIE, the 30-day operative mortality was 1.7%. Median stay in the ICU was 2 days, and total hospital length of stay was 8 days. Thirty-one percent of all patients received neoadjuvant chemotherapy, radiation therapy, or both before MIE. The conversion rate to open was 4.5%. Ninety-eight percent of patients had an R0 resection and the median number of lymph nodes dissected was 21. Stage-for-stage, the survival curves were comparable with those of open esophagectomy.
 
 Nguyen et al., in a smaller series of 46 patients undergoing MIE, reported a mean operative time of 350 minutes, blood loss of 270 mL, and an overall mortality of 4.3%. The minimally invasive approach yielded comparable, if not better, outcomes than open approaches, as reported in the literature, in terms of length of stay (16.6 days), operating room time (336 minutes), and mortality (5.5%). In another analysis of MIE in patients over the age of 75 years, there were no operative deaths in 41 patients, and overall survival in 36 patients with esophageal cancer was 81% at 20 months. These findings suggest that MIE can be performed in high-risk patients who otherwise might not be considered for surgery. A meta-analysis of open versus minimally invasive studies demonstrated equivalent survival between open esophagectomy and MIE.
 
-</div></details><details class="med-details"><summary>
-Complications</summary><div class="details-content">
-Morbidity associated with open esophagectomy can be significant, ranging from 35% to 50% in reported studies. An analysis of minimally invasive series reveals that the absolute rate of complications is similar, but the degree of the insult to the patient appears to be less in terms of impact on mortality and length of hospital stay. Comparing some of the largest series of MIEs, transhiatal esophagectomies, and transthoracic esophagectomies with a 10-year review of all esophagectomies performed at the Veterans' Affairs hospital system illustrates a favorable outcome in mortality, length of stay, and several major complication criteria (Table 15-1).
+</div></details>
 
 <details class="med-details"><summary>
-Table 15-1 — Complications</summary><div class="details-content">
-LUKETICH et al. (n = 1011) MIE	ORRINGER et al. (n = 2007) THE	SWANSON et al. (n = 250) TTE	BAILEY et al. (n = 1777) MIXED
-Anastomotic leak	4.8%*	12%	8%	N/A
-Vocal cord paresis/paralysis	4.2%	4.5%	14%	N/A
-Cervical anastomosis	7.7%			
-Thoracic anastomosis	0.9%			
-Chylothorax	3.2%†	1.2%	9%	N/A
-Tracheal tear	0.9%†	0.4%	1%	N/A
-Gastric tube necrosis	2.4%	0.7%	0.8%	N/A
-Myocardial infarction	2.0%	N/A	N/A	1.2%
-Pneumonia	7.7%†	2%	5%	21.4%
-Pulmonary embolism	1.4%†	N/A	1%	0.7%
-Mortality	1.7%	3%	3.6%	9.8%
-Length of stay	8 d	8 d‡	13 d	N/A
+
+### Complications</summary><div class="details-content">
+
+Morbidity associated with open esophagectomy can be significant, ranging from 35% to 50% in reported studies. An analysis of minimally invasive series reveals that the absolute rate of complications is similar, but the degree of the insult to the patient appears to be less in terms of impact on mortality and length of hospital stay. Comparing some of the largest series of MIEs, transhiatal esophagectomies, and transthoracic esophagectomies with a 10-year review of all esophagectomies performed at the Veterans' Affairs hospital system illustrates a favorable outcome in mortality, length of stay, and several major complication criteria ([Table 15-1](#table-15-1)).
+
+<details class="med-details"><summary>
+
+#### <span id="table-15-1"></span>Table 15-1 — Complications</summary><div class="details-content">
+
+| | LUKETICH et al. (n = 1011) MIE | ORRINGER et al. (n = 2007) THE | SWANSON et al. (n = 250) TTE | BAILEY et al. (n = 1777) MIXED |
+|---|---|---|---|---|
+| Anastomotic leak | 4.8%* | 12% | 8% | N/A |
+| Vocal cord paresis/paralysis | 4.2% | 4.5% | 14% | N/A |
+| Cervical anastomosis | 7.7% | | | |
+| Thoracic anastomosis | 0.9% | | | |
+| Chylothorax | 3.2%† | 1.2% | 9% | N/A |
+| Tracheal tear | 0.9%† | 0.4% | 1% | N/A |
+| Gastric tube necrosis | 2.4% | 0.7% | 0.8% | N/A |
+| Myocardial infarction | 2.0% | N/A | N/A | 1.2% |
+| Pneumonia | 7.7%† | 2% | 5% | 21.4% |
+| Pulmonary embolism | 1.4%† | N/A | 1% | 0.7% |
+| Mortality | 1.7% | 3% | 3.6% | 9.8% |
+| Length of stay | 8 d | 8 d‡ | 13 d | N/A |
+
 MIE, minimally invasive esophagectomy; THE, transhiatal esophagectomy; TTE, transthoracic esophagectomy; N/A, result not available.
 
-Anastomotic leak requiring surgery.
+* Anastomotic leak requiring surgery.
 † In 222 patients who underwent modified McKeown MIE.
 ‡ In 718 patients since July 1998.
 
-</div></details><details class="med-details"><summary>
-Operative Complications</summary><div class="details-content">
-Thorax — Bleeding and transfusion requirements are less with the minimally invasive approach, but it is important to note that even small amounts of bleeding can obscure the operative field and may require conversion to an open procedure. Hence, the aortoesophageal branches must be identified and clipped. Bleeding from the azygos vein and peribronchial arteries also must be avoided. Injury to the posterior membranes of the bronchus and trachea must be carefully avoided, especially during lymph node dissection. Cautery and harmonic scalpel use in close proximity to the posterior membranous trachea or mainstem bronchus can lead to tissue damage resulting in an air leak, local ischemia, herniation of the gastric conduit, and subsequent development of a tracheogastric conduit fistula.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Operative Complications</summary><div class="details-content">
+
+**Thorax** — Bleeding and transfusion requirements are less with the minimally invasive approach, but it is important to note that even small amounts of bleeding can obscure the operative field and may require conversion to an open procedure. Hence, the aortoesophageal branches must be identified and clipped. Bleeding from the azygos vein and peribronchial arteries also must be avoided. Injury to the posterior membranes of the bronchus and trachea must be carefully avoided, especially during lymph node dissection. Cautery and harmonic scalpel use in close proximity to the posterior membranous trachea or mainstem bronchus can lead to tissue damage resulting in an air leak, local ischemia, herniation of the gastric conduit, and subsequent development of a tracheogastric conduit fistula.
 
 The thoracic duct is at risk for subtle injuries leading to the development of chylothorax. Early in our initial series of 77 patients undergoing MIE, we noted 3 patients with delayed chylothorax. This complication led us to be more cautious in this area and to use metal clips on all branches from the thoracic duct. Vocal cord paralysis resulting from injury to the recurrent laryngeal nerve is minimized by dividing the vagus nerve just above the azygos vein and dissecting it away from the esophagus. We generally do not dissect lymph nodes above this level because of the risk of injury to the recurrent laryngeal nerves and the lack of definitive evidence that lymph node clearance is essential in this location for esophagogastric junction tumors.
 
-Abdomen — Disruption of the epiploic arcade can be devastating to the viability of the gastric tube. Likewise, one must make sure that there is adequate room at the hiatus for the conduit to lie without strangulation. In our series, the incidence of gastric tip necrosis was 2.4%. Although this is slightly higher than the rate reported by Orringer or Swanson, it was mostly associated with use of a narrow 3-cm gastric tube, which has since been abandoned for a more generous 4- to 5-cm tube. Furthermore, the overall mortality in over 1000 patients was 1.7%, which is significantly lower than many open series.
+**Abdomen** — Disruption of the epiploic arcade can be devastating to the viability of the gastric tube. Likewise, one must make sure that there is adequate room at the hiatus for the conduit to lie without strangulation. In our series, the incidence of gastric tip necrosis was 2.4%. Although this is slightly higher than the rate reported by Orringer or Swanson, it was mostly associated with use of a narrow 3-cm gastric tube, which has since been abandoned for a more generous 4- to 5-cm tube. Furthermore, the overall mortality in over 1000 patients was 1.7%, which is significantly lower than many open series.
 
 Delayed hiatal herniation of abdominal viscera also can occur if the gastric conduit is not properly tacked to the hiatus. We have observed four delayed hiatal hernias in our 222 patient series. All were repaired successfully. Orringer's series identified a 2% rate of splenectomy in 2007 open transhiatal esophagectomies. In our series of 1011 MIEs, splenectomy was only required in 0.2%.
 
 Orringer's open series also reported a 3% incidence of wound infection and dehiscence. The national Veterans' Affairs study revealed a 10.9% rate of wound infection with a 3.7% rate of wound dehiscence after open esophagectomy. When open transhiatal and transthoracic procedures were evaluated prospectively, the transhiatal approach was associated with a 5% incidence of wound dehiscence, and the transthoracic approach was associated with only 2% wound dehiscence. Delayed incisional hernias are seldom reported but are estimated to occur in 5% to 10% of long-term survivors. In our minimally invasive series of 222 patients who underwent MIE using a modified McKeown approach, only a 0.9% incidence of minor wound infection was seen with one early port hernia, and no wound dehiscences were observed.
 
-</div></details><details class="med-details"><summary>
-Postoperative Complications</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Postoperative Complications</summary><div class="details-content">
+
 The postoperative complications observed after MIE generally are comparable with those of an open procedure. In our series of 222 patients who underwent MIE using the modified McKeown approach, our overall cervical anastomotic leak rate was 11%. Of note, the anastomotic leak rate increased to 26% in a subset of 56 patients in whom a very narrow diameter (3-cm) gastric tube was constructed. However, in the other 166 patients, we constructed a 5-cm gastric conduit and observed a leak rate of only 6%. In our recent series of 1011 patients who underwent a planned MIE, the rate of anastomotic leaks requiring surgery dropped to 5%. The reported leak rate for open procedures is approximately 9.1%.
 
 The most common cardiopulmonary complications encountered in our series included atrial fibrillation (11.7%), pleural effusion (6.3%), and pneumonia (7.7%). Delayed gastric emptying was seen in only 1.8% of patients, and only 4% of patients complained of recalcitrant long-term postoperative reflux symptoms. Moderate strictures at the gastroesophageal cervical anastomosis are common and generally can be managed with one or two outpatient dilations.
 
-</div></details><details class="med-details"><summary>
-Alternative Approaches</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Alternative Approaches</summary><div class="details-content">
+
 MIE encompasses an array of thoracoscopic and laparoscopic techniques that all seek to reduce the morbidity of an open procedure. We favor the thoracoscopic/laparoscopic approach with an intrathoracic anastomosis. Several other groups have reported variations in technique that may provide insight in this emerging field. Bonavina and colleagues described the use of a laparoscopic transhiatal approach with a video mediastinoscope from the cervical incision to assist their mediastinal dissection. They reported 10 of 12 successful operations with a mean operative time of 270 minutes. Mean hospital stay was 10 days with no ICU stays. Jobe et al. used a nasogastric tube to invert the esophagus to assist the laparoscopic transhiatal dissection. Costi et al. describe an alternative approach with an intrathoracic anastomosis. Jarral et al. reviewed the prone approach for esophagectomy. Several groups described the use of robotics to assist in transhiatal esophagectomy. Horgan's group published a single case report on one patient who underwent a robotic dissection of the esophagus with a laparoscopic gastric mobilization and an open cervical anastomosis.
 
-</div></details></div></details><details class="med-details"><summary>
-Conclusion</summary><div class="details-content">
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Conclusion</summary><div class="details-content">
+
 MIE is a technically challenging operation. Recent reports clearly demonstrate comparable, if not improved, mortality and morbidity following MIE in centers with significant experience in open and minimally invasive techniques. Currently, an intergroup trial (ECOG 2202) is under way to assess the outcomes of MIE in a multicenter trial setting. The preliminary results of this study suggest that MIE is safe and feasible with low perioperative morbidity and mortality and good oncologic results.
 
-</div></details><details class="med-details"><summary>
-Editor's Comment</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+### Editor's Comment</summary><div class="details-content">
+
 The authors, leaders in the field of MIE, have described the metamorphosis of their MIE technique over the last decade and a half. Although initially, a routine 3-hole total esophagectomy was used, they currently recommend a thoracoscopic/laparoscopic "Ivor Lewis" type approach. With the use of automated stitching devices and the future expansion of robotic suture techniques, this operation should continue to receive broader acceptance, especially by the next generation of thoracic surgeons already facile in minimally invasive techniques. One final key message is that the operation should not "skimp" on any standard steps especially when done for cancer. If dissection of the mediastinal pleura or routine dissection of the upper paratracheal lymph nodes is usually done, the surgeon should strive to achieve the same approach laparoscopically. Likewise, if the accepted routine neoadjuvant therapy for locally advanced esophageal cancer is chemoradiation, then that should be applied even to patients who are to undergo an MIE in the future. Rather than deny a patient routine neoadjuvant chemoradiation, we should develop the technique further to assure that this operation can be applied safely to these patients.
 
 —Mark J. Krasna
 
-</div></details></div></details>
-  
+</div></details>
+
+</div></details>
+
 <details class="med-details"><summary>
-  
+
 ## Chapter 16: Transhiatal Esophagectomy</summary><div class="details-content">
-  
-Transhiatal esophagectomy was popularized by Orringer in the late 1970s as a less invasive approach to esophagectomy. This approach avoids thoracotomy and has been endorsed primarily by nonthoracic general surgeons who perform esophagectomy. For trained thoracic surgeons, the main drawbacks of this approach are the inability to perform an extensive lymph node dissection and the risk of injury to the great vessels and main airways with tumors of grade T3 or greater. We describe herein our current technique for transhiatal esophagectomy, which includes minor modifications to the original Orringer technique.
+
+Transhiatal esophagectomy was popularized by Orringer in the late 1970s as a less invasive approach to esophagectomy. This approach avoids thoracotomy and has been endorsed primarily by nonthoracic general surgeons who perform esophagectomy. For trained thoracic surgeons, the main drawbacks of this approach are the inability to perform an extensive lymph node dissection and the risk of injury to the great vessels and main airways for tumors of grade T3 or greater. We describe herein our current technique for transhiatal esophagectomy, which includes minor modifications to the original Orringer technique.
 
 Comparisons of transhiatal versus transthoracic esophagectomy published in the last decade have included retrospective studies, prospective studies, randomized controlled studies, and meta-analyses. The published evidence suggests that transhiatal esophagectomy is associated with a reduced risk of pulmonary complications and in-hospital mortality as well as a shortened length of hospital stay, but an increased risk of anastomotic leakage and postoperative vocal cord paralysis. Although there is no clear difference in overall long-term survival, there is an apparent trend toward improved 5-year survival with transthoracic esophagectomy in patients with a limited number of involved lymph nodes. Published data comparing transhiatal esophagectomy with totally minimally invasive esophagectomy is rather limited.
 
 <details class="med-details"><summary>
-Technical Principles</summary><div class="details-content">
+
+### Technical Principles</summary><div class="details-content">
+
 Transhiatal esophagectomy is performed via an upper midline laparotomy incision and a left neck incision. Unlike the left transthoracic approach, the transhiatal approach offers excellent exposure of the abdominal cavity. A generous Kocher maneuver can be performed, allowing the pylorus to extend almost to the hiatus. This helps to provide the length needed to pull the stomach into the neck. A pyloromyotomy or pyloroplasty can be performed easily, helping to decrease symptomatic gastric stasis postoperatively. There is ample exposure to allow a feeding jejunostomy to be created, aiding in postoperative nutrition.
 
 The lack of a thoracotomy incision in transhiatal esophagectomy has potential advantages. The incisional pain associated with thoracotomy is avoided. The need for one-lung anesthesia is obviated. A chest tube is usually not required. These factors may be of particular importance in patients with severe chronic obstructive pulmonary disease, poor pulmonary function, or both. On the other hand, the lack of exposure of the mediastinum limits the surgeon's ability to fully assess that portion of the surgical field and to perform radical resection. Moreover, the surgeon's hand dissects bluntly behind the heart for a significant length of time during the procedure, making this approach more risky intraoperatively in patients with compromised cardiac function.
@@ -1499,83 +1581,137 @@ The left neck incision used in transhiatal esophagectomy affords excellent expos
 
 The left recurrent laryngeal nerve is at risk in transhiatal esophagectomy, and left vocal cord palsy is a well-recognized complication. In addition to increasing the risk of aspiration owing to incoordination of swallowing, vocal cord palsy may reduce the effectiveness of coughing and compromise tracheobronchial toilet. Peristalsis in the proximal esophageal remnant may help to decrease clinically significant gastroesophageal reflux postoperatively. The relatively short length of remaining cervical esophagus after transhiatal esophagectomy may represent less of a barrier to inevitable postoperative gastroesophageal reflux than the longer esophageal remnant found with intrathoracic anastomoses.
 
-</div></details><details class="med-details"><summary>
-Oncologic Principles</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+### Oncologic Principles</summary><div class="details-content">
+
 The upper midline abdominal incision used in transhiatal esophagectomy affords excellent exposure of the entire abdomen. Unlike the left transthoracic approach, this exposure permits the surgeon to search thoroughly for abdominal metastatic disease before undertaking any resection. Metastases typically may be found in the omentum, mesentery, or liver and may be biopsied readily. In the absence of distant metastatic disease, the exposure afforded by the upper midline incision used in transhiatal esophagectomy allows for complete resection of the left gastric and celiac axis lymph nodes en bloc with the esophagogastrectomy specimen.
 
 The lack of a thoracotomy incision results in virtually no exposure of thoracic or mediastinal structures. To a large extent, dissection of the esophagus is performed blindly and bluntly. Segmental arteries are avulsed close to the esophageal wall, and an adequate radial resection margin is not easily achievable. There is no reliable way to remove lymph node—bearing periesophageal fat en bloc with the specimen. Furthermore, with the transhiatal approach, there is no effective way to examine the lung for metastases. These factors underscore the need to ascertain early-stage disease preoperatively before committing to the transhiatal approach.
 
-</div></details><details class="med-details"><summary>
-Ideal Patient Characteristics and Preoperative Assessment</summary><div class="details-content">
-The patient's ability to withstand the procedure and its possible complications should be carefully evaluated preoperatively. Pulmonary and cardiac function should be assessed. Significant carotid artery stenosis and coronary artery disease should be ruled out. As a result of the high incidence of deep vein thrombosis in patients with esophageal cancer, preoperative lowerextremity venous duplex scanning should be considered.
+</div></details>
+
+<details class="med-details"><summary>
+
+### Ideal Patient Characteristics and Preoperative Assessment</summary><div class="details-content">
+
+The patient's ability to withstand the procedure and its possible complications should be carefully evaluated preoperatively. Pulmonary and cardiac function should be assessed. Significant carotid artery stenosis and coronary artery disease should be ruled out. As a result of the high incidence of deep vein thrombosis in patients with esophageal cancer, preoperative lower-extremity venous duplex scanning should be considered.
 
 Transhiatal esophagectomy affords little or no exposure of the upper and middle thirds of the thoracic esophagus for the surgeon. To avoid intraoperative airway injury or vascular injury, any possibility of adherence or direct invasion of the tumor into adjacent structures such as the trachea, aorta, or azygos vein should be excluded before undertaking this approach. For tumors arising above the distal third of the thoracic esophagus in particular, a high-quality CT scan with intravenous and oral contrast material is important. More detailed evaluation for tumor invasion into surrounding structures can be achieved with endoscopic ultrasound (EUS). Currently available clinical (preoperative) staging methods may often fail to identify nodal metastases. Unlike approaches that involve a thoracotomy incision, the technique of transhiatal esophagectomy does not permit en bloc mediastinal lymphadenectomy. The transhiatal approach does not afford exposure of any but the most inferiorly located mediastinal nodes. Every effort should be made to exclude metastatic tumor involving lymph nodes above the esophageal hiatus, which would result in an unrecognized incomplete resection. The use of CT and PET scans may be helpful.
 
-</div></details><details class="med-details"><summary>
-Technique</summary><div class="details-content">
+</div></details>
+
 <details class="med-details"><summary>
-Patient Preparation</summary><div class="details-content">
+
+### Technique</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Patient Preparation</summary><div class="details-content">
+
 An epidural catheter may be placed before induction of anesthesia to facilitate postoperative pain management. Pneumatic intermittent calf compression boots are applied. With the patient in the supine position under general single-lumen tube endotracheal anesthesia, a Foley catheter and a radial arterial line are placed. Central venous access may be obtained via the right side of the neck.
 
-To confirm the location of the tumor and/or extent of Barrett epithelium, as well as to rule out gastric/duodenal pathology, upper endoscopy may be performed using minimal air insufflation. After removing the endoscope, an 18F Salem sump nasogastric tube is placed, and the stomach is decompressed. A transverse roll is placed beneath the shoulders, and the head is placed on a gel donut and turned to the right. The entire abdomen and left neck are prepared and draped in continuity (Fig. 16-1). An intravenous antibiotic is administered before making the skin incision, and additional doses are given periodically as appropriate throughout the procedure for wound prophylaxis.
+To confirm the location of the tumor and/or extent of Barrett epithelium, as well as to rule out gastric/duodenal pathology, upper endoscopy may be performed using minimal air insufflation. After removing the endoscope, an 18F Salem sump nasogastric tube is placed, and the stomach is decompressed. A transverse roll is placed beneath the shoulders, and the head is placed on a gel donut and turned to the right. The entire abdomen and left neck are prepared and draped in continuity ([Fig. 16-1](#fig-16-1)). An intravenous antibiotic is administered before making the skin incision, and additional doses are given periodically as appropriate throughout the procedure for wound prophylaxis.
 
-<span id="fig-16-1"></span>Figure 16-1. Patient setup for transhiatal esophagectomy.
+<span id="fig-16-1"></span>![](_page_54_Picture_9.jpeg)
 
-</div></details><details class="med-details"><summary>
-Preparation of the Stomach</summary><div class="details-content">
-An upper midline laparotomy incision is made. The peritoneal cavity and abdominal viscera are examined for evidence of metastatic disease or other pathology. The xiphoid process is excised with electrocautery. A Buchwalter retractor is placed. A bladder blade is used to retract the lower sternum cephalad, and Richardson blades are used to retract the rectus muscles laterally (Fig. 16-2). The left triangular hepatic ligament is divided with electrocautery (Fig. 16-3). The mobilized left hepatic lobe is retracted rightward with a wide Deaver blade covered with a laparotomy sponge (Fig. 16-4).
+**Figure 16-1.** Patient setup for transhiatal esophagectomy.
 
-The nasogastric tube is positioned along the greater curvature of the stomach with its tip near the pylorus and is used as a handhold on the stomach. The abdominal esophagus is dissected from its crural attachments with electrocautery, encircled, and elevated on a Penrose drain. Alternatively, for lesions that are possibly directly invading the area of the esophagogastric junction (EGJ), a cuff of diaphragm can be resected with cautery under direct vision. The greater curvature of the stomach is mobilized using a harmonic scalpel, taking great care to avoid injury to the gastroepiploic arcade (Fig. 16-5).
+</div></details>
 
-The gastric fundus is mobilized using a harmonic scalpel to divide the short gastric vessels. Divided branches may be reinforced with ligatures or clips. The posterior gastric vessel, a penultimate branch usually well visualized off the splenic artery, is carefully divided and ligated. The left gastric vessels are dissected, reflecting the left gastric lymph nodes toward the stomach. The left gastric vessels are divided using a roticulating vascular stapler (Fig. 16-6).
+<details class="med-details"><summary>
+
+#### Preparation of the Stomach</summary><div class="details-content">
+
+An upper midline laparotomy incision is made. The peritoneal cavity and abdominal viscera are examined for evidence of metastatic disease or other pathology. The xiphoid process is excised with electrocautery. A Buchwalter retractor is placed. A bladder blade is used to retract the lower sternum cephalad, and Richardson blades are used to retract the rectus muscles laterally ([Fig. 16-2](#fig-16-2)). The left triangular hepatic ligament is divided with electrocautery ([Fig. 16-3](#fig-16-3)). The mobilized left hepatic lobe is retracted rightward with a wide Deaver blade covered with a laparotomy sponge ([Fig. 16-4](#fig-16-4)).
+
+The nasogastric tube is positioned along the greater curvature of the stomach with its tip near the pylorus and is used as a handhold on the stomach. The abdominal esophagus is dissected from its crural attachments with electrocautery, encircled, and elevated on a Penrose drain. Alternatively, for lesions that are possibly directly invading the area of the esophagogastric junction (EGJ), a cuff of diaphragm can be resected with cautery under direct vision. The greater curvature of the stomach is mobilized using a harmonic scalpel, taking great care to avoid injury to the gastroepiploic arcade ([Fig. 16-5](#fig-16-5)).
+
+The gastric fundus is mobilized using a harmonic scalpel to divide the short gastric vessels. Divided branches may be reinforced with ligatures or clips. The posterior gastric vessel, a penultimate branch usually well visualized off the splenic artery, is carefully divided and ligated. The left gastric vessels are dissected, reflecting the left gastric lymph nodes toward the stomach. The left gastric vessels are divided using a roticulating vascular stapler ([Fig. 16-6](#fig-16-6)).
 
 A generous Kocher maneuver is performed. The serosa overlying the anterior wall of the pylorus is incised with electrocautery, avoiding the great pyloric vein of Mayo. A complete pyloromyotomy is performed using straight Mayo scissors or a #15 blade. Alternatively, a formal Heineke-Mikulicz pyloroplasty may be performed (see Chapter 17).
 
-<span id="fig-16-2"></span>Figure 16-2. Buchwalter retractor in place.
+<span id="fig-16-2"></span>![](_page_54_Picture_14.jpeg)
 
-<span id="fig-16-3"></span>Figure 16-3. Division of left triangular hepatic ligament.
+**Figure 16-2.** Buchwalter retractor in place.
 
-<span id="fig-16-4"></span>Figure 16-4. Left hepatic lobe is retracted to the right side.
+<span id="fig-16-3"></span>![](_page_55_Picture_2.jpeg)
 
-<span id="fig-16-5"></span>Figure 16-5. Division of gastrocolic ligament with a harmonic scalpel.
+**Figure 16-3.** Division of left triangular hepatic ligament.
 
-<span id="fig-16-6"></span>Figure 16-6. Stapling across the left gastric artery and vein.
+<span id="fig-16-4"></span>![](_page_55_Picture_8.jpeg)
 
-</div></details><details class="med-details"><summary>
-Mobilization of the Abdominal, Thoracic, and Cervical Esophagus</summary><div class="details-content">
-Attention is turned to the diaphragmatic hiatus, where the peritoneal reflection and phrenoesophageal ligament are taken with electrocautery dissection, completely mobilizing the esophagus in the hiatus. Transhiatal exposure is achieved by manual retraction using the hooked handles of two narrow Deaver retractors (Fig. 16-7).
+**Figure 16-4.** Left hepatic lobe is retracted to the right side.
 
-Mobilization of the intrathoracic esophagus proceeds cephalad while maintaining downward traction on the stomach. Blunt manual dissection is performed along the anterior and posterior aspects of the thoracic esophagus in a relatively avascular plane. Lateral attachments containing segmental vascular branches are divided close to the esophagus using electrocautery under direct vision whenever possible (Fig. 16-8). Divided lymphatics are meticulously ligated with surgical clips. Care is taken to avoid injury to the inferior pulmonary veins.
+<span id="fig-16-5"></span>![](_page_56_Picture_2.jpeg)
 
-As mobilization of the esophagus proceeds cephalad, direct visualization becomes impossible. Blunt "blind" manual dissection is undertaken anteriorly and posteriorly using the palpable nasogastric tube within the esophageal lumen as a guide. Care is taken to avoid injury to the membranous wall of the trachea anteriorly and to the aorta and azygos vein posteriorly (Fig. 16-9). Lateral attachments containing segmental vessels are hooked on the surgeon's finger and gently avulsed close to the esophagus using a downward motion using hemaclips and cautery when possible.
+**Figure 16-5.** Division of gastrocolic ligament with a harmonic scalpel.
+
+<span id="fig-16-6"></span>![](_page_56_Picture_10.jpeg)
+
+**Figure 16-6.** Stapling across the left gastric artery and vein.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mobilization of the Abdominal, Thoracic, and Cervical Esophagus</summary><div class="details-content">
+
+Attention is turned to the diaphragmatic hiatus, where the peritoneal reflection and phrenoesophageal ligament are taken with electrocautery dissection, completely mobilizing the esophagus in the hiatus. Transhiatal exposure is achieved by manual retraction using the hooked handles of two narrow Deaver retractors ([Fig. 16-7](#fig-16-7)).
+
+Mobilization of the intrathoracic esophagus proceeds cephalad while maintaining downward traction on the stomach. Blunt manual dissection is performed along the anterior and posterior aspects of the thoracic esophagus in a relatively avascular plane. Lateral attachments containing segmental vascular branches are divided close to the esophagus using electrocautery under direct vision whenever possible ([Fig. 16-8](#fig-16-8)). Divided lymphatics are meticulously ligated with surgical clips. Care is taken to avoid injury to the inferior pulmonary veins.
+
+As mobilization of the esophagus proceeds cephalad, direct visualization becomes impossible. Blunt "blind" manual dissection is undertaken anteriorly and posteriorly using the palpable nasogastric tube within the esophageal lumen as a guide. Care is taken to avoid injury to the membranous wall of the trachea anteriorly and to the aorta and azygos vein posteriorly ([Fig. 16-9](#fig-16-9)). Lateral attachments containing segmental vessels are hooked on the surgeon's finger and gently avulsed close to the esophagus using a downward motion using hemaclips and cautery when possible.
 
 While mobilizing the superior thoracic esophagus, the surgeon's entire hand will be passed through the stretched diaphragmatic hiatus, working into a retrocardiac position. The surgeon must closely monitor the arterial line tracing during this portion of the procedure. If hypotension develops, it may be necessary for the surgeon to remove his or her hand from the chest intermittently to permit the blood pressure to recover. Major vascular injury must be recognized promptly; although repair may be possible through the dilated hiatus, emergency anterolateral thoracotomy is sometimes required. The thoracic esophagus is mobilized in this fashion to the level of the thoracic inlet.
 
-After the entire thoracic esophagus has been completely mobilized, attention is turned to the left neck, where an incision is made along the anterior border of the sternocleidomastoid muscle and deepened through the platysma. This step can often be facilitated by a second surgeon starting on the neck just as the surgeon is starting the periesophageal dissection from below; this can shorten the overall time and make good use of the two surgeons working from opposite ends through the completion of the anastomosis. The omohyoid muscle is divided with electrocautery. The contents of the carotid sheath are reflected posteriorly with the sternocleidomastoid muscle. The middle thyroid vein is divided between surgical ties. Dissection is continued through an areolar plane to the vertebral bodies, reflecting the thyroid, trachea, and esophagus anteromedially. Blunt digital dissection is carried out along the vertebral bodies in a caudal direction until the thoracic inlet is entered. The surgeon's fingers from above and below should be able to touch without difficulty while again observing the blood pressure monitor. The esophagus is encircled in the thoracic inlet using blunt digital dissection. A Penrose drain is passed around the distal cervical esophagus and is used to elevate it into the incision (Fig. 16-10).
+After the entire thoracic esophagus has been completely mobilized, attention is turned to the left neck, where an incision is made along the anterior border of the sternocleidomastoid muscle and deepened through the platysma. This step can often be facilitated by a second surgeon starting on the neck just as the surgeon is starting the periesophageal dissection from below; this can shorten the overall time and make good use of the two surgeons working from opposite ends through the completion of the anastomosis. The omohyoid muscle is divided with electrocautery. The contents of the carotid sheath are reflected posteriorly with the sternocleidomastoid muscle. The middle thyroid vein is divided between surgical ties. Dissection is continued through an areolar plane to the vertebral bodies, reflecting the thyroid, trachea, and esophagus anteromedially. Blunt digital dissection is carried out along the vertebral bodies in a caudal direction until the thoracic inlet is entered. The surgeon's fingers from above and below should be able to touch without difficulty while again observing the blood pressure monitor. The esophagus is encircled in the thoracic inlet using blunt digital dissection. A Penrose drain is passed around the distal cervical esophagus and is used to elevate it into the incision ([Fig. 16-10](#fig-16-10)).
 
 The esophagus is separated from the membranous wall of the cervical trachea with careful blunt dissection aided by electrocautery. Special care is taken to avoid injury to the recurrent laryngeal nerves.
 
-<span id="fig-16-7"></span>Figure 16-7. Exposure of the hiatus.
+<span id="fig-16-7"></span>![](_page_57_Picture_2.jpeg)
 
-<span id="fig-16-8"></span>Figure 16-8. Blunt (manual) dissection of anterior and posterior aspects of the thoracic esophagus proceeds along a relatively avascular plane; lateral attachments with segmental vascular branches are divided close to the esophagus with electrocautery under direct vision whenever possible.
+**Figure 16-7.** Exposure of the hiatus.
 
-<span id="fig-16-9"></span>Figure 16-9. Blunt (manual) dissection of the esophagus, taking care of the trachea anteriorly and the aorta and azygos vein posteriorly.
+<span id="fig-16-8"></span>![](_page_57_Picture_6.jpeg)
 
-<span id="fig-16-10"></span>Figure 16-10. Mobilization of the cervical esophagus.
+**Figure 16-8.** Blunt (manual) dissection of anterior and posterior aspects of the thoracic esophagus proceeds along a relatively avascular plane; lateral attachments with segmental vascular branches are divided close to the esophagus with electrocautery under direct vision whenever possible.
 
-</div></details><details class="med-details"><summary>
-Resection of the Specimen and Delivery of the Stomach to the Neck</summary><div class="details-content">
-The tip of the nasogastric tube is pulled back to the top of the cervical esophagus, which is divided well above the thoracic inlet using a GIA stapler. The fenestrated end of a large chest tube is sutured to the distal end of the divided cervical esophagus (Fig. 16-11). With downward traction on the mobilized stomach, the mobilized esophagus and the attached chest tube are pulled inferiorly through the posterior mediastinum until the fenestrated end of the chest tube appears through the diaphragmatic hiatus in the abdomen. The greater curvature of the stomach is fashioned into a long tube using sequential firings of the GIA stapler, taking care to obtain an adequate margin around the lesser curvature of the stomach. The detached esophagogastrectomy specimen is delivered from the operative field.
+<span id="fig-16-9"></span>![](_page_57_Picture_10.jpeg)
 
-The long gastric staple line is oversewn with imbricating seromuscular suture. The newly fashioned gastric tube is placed in a sterile plastic endoscopic camera sleeve. The endoscopic camera sleeve is sutured to the fenestrated (abdominal) end of the chest tube that was passed through the posterior mediastinum (Fig. 16-12). Sheathed in the sterile plastic camera sleeve, the gastric tube is delivered cephalad via the diaphragmatic hiatus into the posterior mediastinum in the surgeon's hand. Simultaneous traction on the cervical end of the posterior mediastinal chest tube is used to pull the sterile plastic camera sleeve upward, delivering the gastric tube atraumatically through the thoracic inlet into the cervical incision.
+**Figure 16-9.** Blunt (manual) dissection of the esophagus, taking care of the trachea anteriorly and the aorta and azygos vein posteriorly.
 
-<span id="fig-16-11"></span>Figure 16-11. The fenestrated end of a large chest tube is sutured to the distal end of the divided cervical esophagus. Using downward traction on the mobilized stomach, the mobilized esophagus, and the attached chest tube are pulled inferiorly through the posterior mediastinum.
+<span id="fig-16-10"></span>![](_page_58_Picture_2.jpeg)
 
-<span id="fig-16-12"></span>Figure 16-12. Delivery of the gastric conduit to the neck.
+**Figure 16-10.** Mobilization of the cervical esophagus.
 
-</div></details><details class="med-details"><summary>
-Creation of the Anastomosis and Feeding Jejunostomy</summary><div class="details-content">
-A suitable point on the stomach, away from the long gastric staple line, is selected for the anastomosis. A hand-sewn two-layer anastomosis is fashioned. A row of interrupted seromuscular sutures is placed between the stomach and the cervical esophageal remnant, fashioning the outer layer of the posterior wall of the anastomosis (Fig. 16-13). Care is taken to avoid leaving an excessive length of cervical esophagus. Every effort is made to ensure that the anastomosis remains both tension free and above the level of the thoracic inlet. The esophageal staple line is grasped in a Kocher clamp and excised using a scalpel blade. The stomach is entered with electrocautery and suctioned. The inner layer of the posterior wall of the anastomosis is fashioned with interrupted absorbable suture.
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Resection of the Specimen and Delivery of the Stomach to the Neck</summary><div class="details-content">
+
+The tip of the nasogastric tube is pulled back to the top of the cervical esophagus, which is divided well above the thoracic inlet using a GIA stapler. The fenestrated end of a large chest tube is sutured to the distal end of the divided cervical esophagus ([Fig. 16-11](#fig-16-11)). With downward traction on the mobilized stomach, the mobilized esophagus and the attached chest tube are pulled inferiorly through the posterior mediastinum until the fenestrated end of the chest tube appears through the diaphragmatic hiatus in the abdomen. The greater curvature of the stomach is fashioned into a long tube using sequential firings of the GIA stapler, taking care to obtain an adequate margin around the lesser curvature of the stomach. The detached esophagogastrectomy specimen is delivered from the operative field.
+
+The long gastric staple line is oversewn with imbricating seromuscular suture. The newly fashioned gastric tube is placed in a sterile plastic endoscopic camera sleeve. The endoscopic camera sleeve is sutured to the fenestrated (abdominal) end of the chest tube that was passed through the posterior mediastinum ([Fig. 16-12](#fig-16-12)). Sheathed in the sterile plastic camera sleeve, the gastric tube is delivered cephalad via the diaphragmatic hiatus into the posterior mediastinum in the surgeon's hand. Simultaneous traction on the cervical end of the posterior mediastinal chest tube is used to pull the sterile plastic camera sleeve upward, delivering the gastric tube atraumatically through the thoracic inlet into the cervical incision.
+
+<span id="fig-16-11"></span>![](_page_58_Picture_8.jpeg)
+
+**Figure 16-11.** The fenestrated end of a large chest tube is sutured to the distal end of the divided cervical esophagus. Using downward traction on the mobilized stomach, the mobilized esophagus, and the attached chest tube are pulled inferiorly through the posterior mediastinum.
+
+<span id="fig-16-12"></span>![](_page_58_Picture_13.jpeg)
+
+**Figure 16-12.** Delivery of the gastric conduit to the neck.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Creation of the Anastomosis and Feeding Jejunostomy</summary><div class="details-content">
+
+A suitable point on the stomach, away from the long gastric staple line, is selected for the anastomosis. A hand-sewn two-layer anastomosis is fashioned. A row of interrupted seromuscular sutures is placed between the stomach and the cervical esophageal remnant, fashioning the outer layer of the posterior wall of the anastomosis ([Fig. 16-13](#fig-16-13)). Care is taken to avoid leaving an excessive length of cervical esophagus. Every effort is made to ensure that the anastomosis remains both tension free and above the level of the thoracic inlet. The esophageal staple line is grasped in a Kocher clamp and excised using a scalpel blade. The stomach is entered with electrocautery and suctioned. The inner layer of the posterior wall of the anastomosis is fashioned with interrupted absorbable suture.
 
 The nasogastric tube is advanced beyond the anastomosis into the stomach and positioned with its tip at the level of the diaphragmatic hiatus. It is then placed on suction and secured to the skin of the nasal septum with a heavy nonabsorbable monofilament suture. The inner layer of the anterior wall of the anastomosis is completed with running or interrupted absorbable suture. The outer layer of the anterior wall of the anastomosis is completed with a row of interrupted seromuscular sutures. Alternatively, a modified "Orringer" posterior wall stapled anastomosis using an EndoGIA stapler can be performed, then closing the anterior wall in two layers.
 
@@ -1583,10 +1719,18 @@ A feeding jejunostomy is created. The tip of an 18F red rubber catheter is trimm
 
 A short 1-inch Penrose drain is secured with a silk suture to the skin at the inferior end of the neck incision and passed behind the esophagogastric anastomosis. Care is taken to avoid passage of the Penrose drain below the thoracic inlet. The neck incision is closed in two layers using a running 3-0 absorbable suture to reconstitute the platysma muscle and a running 4-0 subcuticular suture to reapproximate the skin. The abdomen is closed in two layers using #1 absorbable running suture to reconstitute the linea alba and staples to reapproximate the skin.
 
-<span id="fig-16-13"></span>Figure 16-13. A row of interrupted seromuscular sutures is placed between the stomach and the cervical esophageal remnant.
+<span id="fig-16-13"></span>![](_page_59_Picture_2.jpeg)
 
-</div></details></div></details><details class="med-details"><summary>
-Postoperative Care</summary><div class="details-content">
+**Figure 16-13.** A row of interrupted seromuscular sutures is placed between the stomach and the cervical esophageal remnant.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Postoperative Care</summary><div class="details-content">
+
 The patient typically is extubated in the operating room at the end of the procedure. An upright chest radiograph is obtained in the recovery room to verify the position of the nasogastric tube and central line and to rule out pleural effusion or pneumothorax. After discharge from the recovery room, the patient is monitored in an intermediate care telemetry unit. To avoid aspiration, the head end of the bed is elevated (reverse Trendelenburg), maintaining an angle of at least 30 degrees at all times. Fastidious maintenance of patency of the nasogastric tube is critical to ensure that the stomach is kept empty. Aggressive thromboprophylaxis is maintained with pneumatic intermittent calf compression boots and subcutaneous heparin. Daily upright chest radiographs are helpful to rule out distention of the gastric conduit, pleural effusion, pulmonary infiltrates, and ileus. Patient-controlled analgesia, chest physical therapy, and incentive spirometry are used to prevent atelectasis. Early ambulation is encouraged.
 
 The Penrose drain is removed from the neck on the first postoperative day, after bile leak and hemorrhage have been excluded. No oral intake of any kind is permitted initially. Tube feedings may be started via the jejunostomy when appropriate and are increased gradually to the goal rate. A bowel regimen is helpful for avoiding constipation. Plasma electrolyte levels are monitored daily, and potassium and magnesium level determinations are repleted aggressively.
@@ -1597,57 +1741,87 @@ If there are no signs or symptoms of leak or infection, the patient's diet is ad
 
 Patients frequently will experience early satiety as a consequence of the diminished capacity of the stomach. Rather than eating three large meals each day, continuous "grazing" is more likely to achieve oral caloric intake goals. Jejunal tube feeds should be used only nocturnally to encourage oral intake during the day. When caloric intake goals are met orally, the jejunostomy tube is removed. To reduce gastroesophageal reflux, patients should be advised not to wear restrictive clothing around the waist. Patients should strictly refrain from oral intake for 2 to 3 hours before retiring to bed. The head must be elevated at all times either by placing 6-inch blocks under the head of the bed or by sleeping on a 30-degree foam wedge.
 
-</div></details><details class="med-details"><summary>
-Procedure-Specific Complications</summary><div class="details-content">
+</div></details>
+
 <details class="med-details"><summary>
-Early Complications</summary><div class="details-content">
+
+### Procedure-Specific Complications</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Early Complications</summary><div class="details-content">
+
 During the course of esophageal mobilization in the neck, the recurrent laryngeal nerves (especially on the left side) may be injured, resulting in vocal cord paresis or paralysis. This reduces the effectiveness of coughing and impairs the patient's ability to expectorate tracheobronchial secretions. Furthermore, vocal cord weakness increases the patient's vulnerability to aspiration. The result is an increased risk of postoperative pneumonia. Patients with postoperative vocal cord dysfunction must receive especially close attention to tracheobronchial toilet and nasogastric tube patency. In some cases, medialization of the impaired vocal cord may be warranted.
 
 During the course of blunt dissection of the thoracic esophagus, the mediastinal pleura may be breached on either side. This sometimes can lead to delayed accumulation of unilateral or even bilateral pleural effusion. If a divided lymphatic vessel is not ligated properly, a chylothorax may result. To avoid respiratory embarrassment, postoperative pleural effusions should be drained immediately and completely with a pigtail catheter or chest tube. In the event of a chylous leak, tube feeds should be stopped immediately and parenteral nutrition instituted. Early surgical intervention is warranted for large lymph leaks that persist despite a withdrawal of enteral nutrition.
 
 Respiratory problems are among the most common postoperative complications associated with esophagectomy, even when performed via the transhiatal approach. Aspiration of gastric contents is frequently the cause. Aspiration is often due to occlusion of the nasogastric tube with resulting gastric distention, excessive oral intake, or failure to maintain head elevation at all times. Many patients undergoing esophagectomy have a history of excessive alcohol consumption and are prone to delirium and other symptoms. Careful attention should be paid to a history of excess alcohol consumption, and appropriate prophylaxis with short-acting benzodiazepines should be instituted. Care should be taken to avoid inadvertent removal of the nasogastric tube by delirious patients.
 
-</div></details><details class="med-details"><summary>
-Anastomotic Leak</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Anastomotic Leak</summary><div class="details-content">
+
 An early anastomotic leak is attributable to technical error and should be readily appreciated when saliva and/or bile is seen draining from the Penrose drain in the neck on the first or second postoperative day. Leaks are more commonly due to a failure of anastomotic healing and usually occur on the sixth or seventh postoperative day, long after the Penrose drain has been removed. Signs of a delayed cervical anastomotic leak include erythema, fluctuance, and crepitus in the neck, as well as drainage of saliva and/or bile from the cervical incision. Early reopening and drainage of the inferior aspect of the cervical wound are imperative to prevent tracking of infection into the mediastinum. This usually can be accomplished satisfactorily at the bedside. The neck should be explored at the bedside with a gloved finger introduced via the reopened wound to ensure that any collection in the neck has been drained adequately. A large Penrose drain should be reintroduced via the lower end of the neck wound with its tip positioned behind the anastomosis. The drain may be sutured to the skin at the lower end of the neck wound. Its external end should be trimmed to a length of 2 to 3 cm and secured with a large safety pin to prevent it from becoming lost inside the wound. In the absence of fever and leukocytosis, a barium contrast swallow study is performed. If there is no extravasation of contrast material into the mediastinum, oral fluid intake is permitted, and the patient's diet is gradually advanced to soft solids. The patient should be instructed to push gently on the neck wound dressing when swallowing to decrease the leakage of food and drink. The anastomotic leak typically resolves in 2 to 3 weeks.
 
 The development of mediastinal emphysema, pleural effusion, fever, hypoxia, hypotension, oliguria, acidosis, or a decline in mental status should lead the clinician to suspect mediastinitis. Although anastomotic leaks usually are drained effectively by reopening the neck wound, leaked secretions occasionally may track below the thoracic inlet into the mediastinum and/or pleural cavity. In this event, early and aggressive resuscitation of the patient along with institution of intravenous antibiotics is mandatory. Intubation and mechanical ventilation may be required. When the patient's condition has been stabilized, CT imaging is essential to rule out intrathoracic collections requiring drainage. Early and complete chest tube drainage or CT-guided percutaneous drainage of all collections is essential.
 
 Occasionally, despite early intervention for a cervical anastomotic leak, the patient may remain septic. Under such circumstances, ischemia or gangrene of the proximal aspect of the gastric tip should be suspected. The characteristic odor of gangrenous tissue may be detectable from the cervical wound or the mouth. Very gentle flexible endoscopy may be performed using minimal air insufflation—to assess mucosal viability. Full-thickness ischemia of the proximal gastric tip can be identified by more aggressive exploration of the neck incision in the operating room. When necrosis of the gastric tip has resulted in a leak that tracks below the thoracic inlet, the anastomosis should be taken down. The proximal esophageal end should be sutured to the skin in the neck as an end-esophagostomy. The stomach should be brought back down into the abdomen, and the gangrenous portion should be resected. The proximal end of the gastric remnant then can be secured to the parietal peritoneum in the left upper quadrant as an end-gastrostomy. Four to six months later, when the patient is doing well at home on jejunostomy feedings, continuity of the upper gastrointestinal tract can be restored electively. The gastric remnant is often long enough to permit an extra-anatomic (typically substernal) gastric pull-up with primary reanastomosis in the neck.
 
-</div></details><details class="med-details"><summary>
-Stricture</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Stricture</summary><div class="details-content">
+
 Healing of the cervical esophagogastric anastomosis may be complicated by stricture, resulting in dysphagia to solids. The incidence of anastomotic stricture is increased if an anastomotic leak occurs postoperatively. Anastomotic strictures usually respond to repeated dilatation. Dilatation may be instituted as early as 4 weeks postoperatively, even if there is ongoing residual anastomotic drainage from the cervical wound. Initially, Savary bougies are used in the operating room under brief general anesthesia. Patients are encouraged to resume eating a mechanical soft diet immediately after undergoing dilatation to inhibit immediate recurrence of the anastomotic stricture. Dilatations are performed every 2 to 3 weeks until the dysphagia subsides. In the rare instance that requires numerous dilatations for complete resolution of the stricture, patients may be taught to dilate themselves at home every 4 to 7 days in an upright seated position using a Maloney bougie.
 
-</div></details></div></details><details class="med-details"><summary>
-Summary</summary><div class="details-content">
-At our institution, we perform most esophagectomies with an open thoracotomy approach (i.e., left transthoracic [see Chapter 21], Ivor Lewis [see Chapter 17], or McKeown/three-hole [see Chapter 16] technique). In certain circumstances we do use the transhiatal technique as described earlier. These include primarily high-risk patients with poor pulmonary function who have early-stage localized tumors as well as patients with longsegment Barrett dysplasia.
+</div></details>
 
-</div></details><details class="med-details"><summary>
-Case History</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+### Summary</summary><div class="details-content">
+
+At our institution, we perform most esophagectomies with an open thoracotomy approach (i.e., left transthoracic [see Chapter 21], Ivor Lewis [see Chapter 17], or McKeown/three-hole [see Chapter 16] technique). In certain circumstances we do use the transhiatal technique as described earlier. These include primarily high-risk patients with poor pulmonary function who have early-stage localized tumors as well as patients with long-segment Barrett dysplasia.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Case History</summary><div class="details-content">
+
 A 77-year-old White man with long-segment Barrett esophagus presented with high-grade dysplasia near the esophagogastric junction. The patient had a history of coronary artery disease and mild chronic obstructive pulmonary disease. He underwent a transhiatal esophagectomy after an extensive workup showed no revascularizable lesions in the coronary arteries and no evidence of carcinoma on multiple biopsies. His postoperative course was unremarkable, and he underwent a barium swallow on postoperative day 7 that was read as normal. One day later, after eating a mint lozenge, he noticed a swelling over his left neck incision. On examination, he had fluctuant swelling over the anastomotic site with minimal redness and no fever or leukocytosis. His incision was opened and explored at the bedside. No obvious leak was noted, and no gangrene was found. The wound was irrigated and packed with wet-to-dry gauze dressings for 2 weeks. He was discharged home on postoperative day 10 in good condition tolerating a soft mechanical diet. He presented 6 weeks later with dysphagia and on esophagogastroduodenoscopy was found to have an anastomotic stricture. He required balloon and later Savary bougie dilations every 1 to 2 months for almost a year, after which his stricture resolved.
 
-</div></details><details class="med-details"><summary>
-Editor's Comment</summary><div class="details-content">
+</div></details>
+
+<details class="med-details"><summary>
+
+### Editor's Comment</summary><div class="details-content">
+
 Although rarely used by most thoracic esophageal surgeons for esophageal cancer, transhiatal esophagectomy still has many proponents. In addition to general surgeons who prefer this technique as it can be done without a thoracotomy, in certain situations this operation can be helpful. For example, this operation can be performed in patients who are found to have Barrett esophagus with moderate-to-severe dysplasia or patients with a T1a or T1b distal esophageal cancer, since the risk of lymph node metastasis is below 10%. In addition, patients who have severe pulmonary dysfunction may benefit from this approach, which avoids thoracotomy. Despite the potential advantages inherent with this approach, careful attention to technical details is paramount.
 
 —Mark J. Krasna
 
-</div></details></div></details>  
-  
+</div></details>
+
+</div></details>
+
 <details class="med-details"><summary>
 
-## Chapter 17: Three-Hole Esophagectomy: The Brigham and Women's Hospital Approach</summary><div class="details-content">
+## Chapter 17: Three-Hole Esophagectomy (Brigham and Women's Hospital Approach)</summary><div class="details-content">
 
 The management of esophageal cancer has evolved tremendously over the past decade. Increasingly, patients are treated with an aggressive multimodal approach including neoadjuvant chemoradiotherapy followed by surgical resection. Despite these changing trends in the treatment paradigm for esophageal cancer, esophagectomy remains the crucial component to long-term survival.
 
 The key to success in managing patients with esophageal cancer is surgeon experience. There are numerous approaches to esophageal resection and replacement, both open and minimally invasive, but all have the potential for a high rate of morbidity and mortality. Each esophageal surgeon must develop and refine a technique of resection that is safe and expeditious to minimize morbidity while aggressively pursuing standard oncologic principles including adequate resection margins and complete lymphadenectomy to help assure long-term survival.
 
-The selection of operative approach is based on numerous factors: type and location of the lesion, extent of invasion, stage of disease, need for lymphadenectomy, history of previous surgeries, and type of conduit chosen for esophageal replacement (i.e., stomach, colon, or jejunum). Surgeon preference and experience plays an important role in the selection of the operation. Popular methods of esophageal resection in the United States are based on methods developed by Ivor Lewis and McKeown, among others. They differ by the approach, number of incisions, and location of the anastomosis (intrathoracic or cervical) (Table 17-1). The three-hole esophagectomy at the Brigham and Women's hospital has evolved over time and is designed specifically to limit morbidity by assimilating the best elements of each of the predecessor surgeries in a safe and expeditious procedure. This chapter will delineate the conduct of the operation and establish principles that can be applied to any approach for esophagectomy whether open or minimally invasive.
+The selection of operative approach is based on numerous factors: type and location of the lesion, extent of invasion, stage of disease, need for lymphadenectomy, history of previous surgeries, and type of conduit chosen for esophageal replacement (i.e., stomach, colon, or jejunum). Surgeon preference and experience plays an important role in the selection of the operation. Popular methods of esophageal resection in the United States are based on methods developed by Ivor Lewis and McKeown, among others. They differ by the approach, number of incisions, and location of the anastomosis (intrathoracic or cervical) ([Table 17-1](#table-17-1)). The three-hole esophagectomy at the Brigham and Women's hospital has evolved over time and is designed specifically to limit morbidity by assimilating the best elements of each of the predecessor surgeries in a safe and expeditious procedure. This chapter will delineate the conduct of the operation and establish principles that can be applied to any approach for esophagectomy whether open or minimally invasive.
 
 <details class="med-details"><summary>
 
-#### Table 17-1 — Popular Methods of Esophageal Resection and Replacement in the United States</summary><div class="details-content">
+#### <span id="table-17-1"></span>Table 17-1 — Popular Methods of Esophageal Resection and Replacement in the United States</summary><div class="details-content">
 
 | TECHNIQUE | INCISION(S) | ADVANTAGES | DISADVANTAGES | LESIONS |
 |---|---|---|---|---|
@@ -1656,7 +1830,7 @@ The selection of operative approach is based on numerous factors: type and locat
 | Ivor Lewis | Right thoracotomy; Laparotomy | Direct-vision thoracic dissection; Lymphadenectomy | Thoracotomy; Limited proximal margin; Intrathoracic anastomosis/leak; Increased risk of postoperative bile reflux | Middle and lower thirds |
 | Modified McKeown | Right thoracotomy; Midline laparotomy; Right cervical | Good proximal margin; Direct-vision thoracic dissection; Lymphadenectomy; Cervical anastomosis | Thoracotomy; Three incisions; Exposure to right RLN during dissection; Increased incidence of postoperative reflux | Middle third |
 | Brigham THE | Muscle-sparing right thoracotomy; Simultaneous abdominal and left cervical | Unlimited proximal margin; Direct-vision esophageal dissection; Cervical anastomosis avoids morbidity of an intrathoracic leak and anastomosis located out of potential radiation field; Reduced risk of postoperative reflux; RLN avoided from left approach; Serratus muscle-sparing thoracotomy; Expeditious two-stage procedure; Complete lymphadenectomy | Thoracotomy; Three incisions | Middle third; Upper and middle thirds if neoadjuvant therapy is given |
-| MIE | Right thoracoscopy; Laparoscopy; +/− left cervical | No thoracotomy; Reduced postoperative pain; More rapid recovery | Technically challenging | |
+| MIE | Right thoracoscopy; Laparoscopy; +/‑ left cervical | No thoracotomy; Reduced postoperative pain; More rapid recovery | Technically challenging | |
 
 LTE, left thoracoabdominal esophagectomy; RLN, recurrent laryngeal nerve; GEJ, gastroesophageal junction; THE three-hole esophagectomy; MIE, minimally invasive esophagectomy.
 
@@ -1666,7 +1840,7 @@ LTE, left thoracoabdominal esophagectomy; RLN, recurrent laryngeal nerve; GEJ, g
 
 ### General Principles</summary><div class="details-content">
 
-Even for experienced centers, esophagectomy is a difficult procedure to perform and is associated with a considerable risk of morbidity and mortality (Table 17-2). Careful preoperative assessment, as well as the prevention, detection, and early treatment of procedure-specific complications, is essential to an excellent outcome. The Brigham three-hole esophagectomy is conducted in two stages. First, the thoracic dissection is conducted under direct vision by means of a limited right muscle-sparing posterolateral thoracotomy. The patient then is moved from the left lateral decubitus position to the supine position for the second stage of the procedure, beginning with simultaneous upper midline and left cervical incisions.
+Even for experienced centers, esophagectomy is a difficult procedure to perform and is associated with a considerable risk of morbidity and mortality ([Table 17-2](#table-17-2)). Careful preoperative assessment, as well as the prevention, detection, and early treatment of procedure-specific complications, is essential to an excellent outcome. The Brigham three-hole esophagectomy is conducted in two stages. First, the thoracic dissection is conducted under direct vision by means of a limited right muscle-sparing posterolateral thoracotomy. The patient then is moved from the left lateral decubitus position to the supine position for the second stage of the procedure, beginning with simultaneous upper midline and left cervical incisions.
 
 The operation allows direct visualization of the entire esophagus for resection with ample longitudinal margins and the ability to perform a complete lymphadenectomy in both the chest and abdomen. The specimen and surrounding lymph tissues are removed en bloc before the conduit is fashioned and placed. We prefer to use a gastric conduit whenever feasible, but other conduits may be used (i.e., colon or jejunum). The operation is completed with a cervical anastomosis, which is easy to care for in the event of postoperative leak and associated with a lower incidence of recurrent gastric reflux than operations requiring an intrathoracic anastomosis.
 
@@ -1674,7 +1848,7 @@ The three-hole esophagectomy is ideal for patients with upper, middle, or lower 
 
 <details class="med-details"><summary>
 
-#### Table 17-2 — Procedure-Specific Complications</summary><div class="details-content">
+#### <span id="table-17-2"></span>Table 17-2 — Procedure-Specific Complications</summary><div class="details-content">
 
 - Pulmonary
 - Anastomotic leak
@@ -1712,29 +1886,43 @@ Forty-eight hours before surgery, all patients receive a course of oral antibiot
 
 The patient is induced with general anesthesia and intubated with a double-lumen tube to allow for single left lung ventilation. (For a detailed description of anesthetic technique, see Chapter 5.) For those patients with upper or middle third tumors, we first perform a bronchoscopy through a single-lumen endotracheal tube to assess the posterior membranous wall of the airway for tumor invasion.
 
-The patient is turned to the left lateral decubitus position. A limited right posterolateral thoracotomy incision is made in the fifth interspace, sparing the serratus anterior muscle (Fig. 17-1).
+The patient is turned to the left lateral decubitus position. A limited right posterolateral thoracotomy incision is made in the fifth interspace, sparing the serratus anterior muscle ([Fig. 17-1](#fig-17-1)).
 
-The fifth interspace is opened, and the sixth rib is shingled to permit better access to the thoracic cavity (Fig. 17-2). The ribs were spread using gentle retraction.
+<span id="fig-17-1"></span>![](_page_63_Picture_26.jpeg)
 
-The lung is retracted anteriorly and the inferior pulmonary ligament is divided. The posterior mediastinal pleura is opened from the apex of the chest to the diaphragm at the level of the vertebral bodies thereby exposing the esophagus (Fig. 17-3). The esophagus is then mobilized in a region above the tumor. A 1-cm Penrose drain is passed around the esophagus and used for gentle retraction during the remainder of the thoracic dissection. Retracting the esophagus in this manner permits evaluation of the tumor for resectability from its surrounding structures. The azygos vein is usually divided using a 30-mm endovascular stapler to improve access to the upper thoracic esophagus (Fig. 17-4). If the tumor is deemed to be resectable, the surgeon proceeds with near-total esophagectomy, carrying the dissection cephalad along the esophagus toward the apex of the chest using a combination of electrocautery and blunt dissection with constant traction from the Penrose drain, and countertraction provided by the first assistant's sponge stick. For mid- and distal esophageal tumors, the dissection of the upper thoracic esophagus proceeds close to the esophagus to avoid injury to the right laryngeal nerve, which recurs around the subclavian artery. Finger dissection is used to define the plane between the trachea and the esophagus at the level of the thoracic inlet, and the finger dissection is carried up to the level of the clavicle (Fig. 17-5).
+**Figure 17-1.** A muscle-sparing right posterolateral thoracotomy incision is made at the fifth interspace.
+
+The fifth interspace is opened, and the sixth rib is shingled to permit better access to the thoracic cavity ([Fig. 17-2](#fig-17-2)). The ribs were spread using gentle retraction.
+
+<span id="fig-17-2"></span>![](_page_64_Picture_2.jpeg)
+
+**Figure 17-2.** The fifth interspace is opened, the sixth rib is removed or "shingled," and the ribs are gently retracted.
+
+The lung is retracted anteriorly and the inferior pulmonary ligament is divided. The posterior mediastinal pleura is opened from the apex of the chest to the diaphragm at the level of the vertebral bodies thereby exposing the esophagus ([Fig. 17-3](#fig-17-3)). The esophagus is then mobilized in a region above the tumor. A 1-cm Penrose drain is passed around the esophagus and used for gentle retraction during the remainder of the thoracic dissection. Retracting the esophagus in this manner permits evaluation of the tumor for resectability from its surrounding structures. The azygos vein is usually divided using a 30-mm endovascular stapler to improve access to the upper thoracic esophagus ([Fig. 17-4](#fig-17-4)). If the tumor is deemed to be resectable, the surgeon proceeds with near-total esophagectomy, carrying the dissection cephalad along the esophagus toward the apex of the chest using a combination of electrocautery and blunt dissection with constant traction from the Penrose drain, and countertraction provided by the first assistant's sponge stick. For mid- and distal esophageal tumors, the dissection of the upper thoracic esophagus proceeds close to the esophagus to avoid injury to the right laryngeal nerve, which recurs around the subclavian artery. Finger dissection is used to define the plane between the trachea and the esophagus at the level of the thoracic inlet, and the finger dissection is carried up to the level of the clavicle ([Fig. 17-5](#fig-17-5)).
 
 After packing the apex of the chest with a laparotomy sponge to minimize bleeding, the dissection proceeds caudad between the aorta and esophagus, where the arterial branches are divided. A second Penrose drain can be placed around the lower esophagus, distal to the tumor if possible, to provide countertraction for the posterior dissection. Any pericardium that adheres to the tumor is removed as well as adherent pleura along both sides of the mediastinum. A small rim of diaphragm is incised circumferentially around the esophageal hiatus. The peritoneal cavity is entered posteriorly, and the posterior wall of the stomach is palpated by the surgeon's finger. In particular, when the lesion is at the carina and densely adherent, using the two Penrose drains above and below the lesion allows safe access to the most densely adherent level where the tumor abuts the posterior wall of the airway and anterior wall of the aorta.
 
-At this point, the first upper Penrose drain is loosely knotted around the esophagus and pushed up into the left neck just beneath the omohyoid muscle, where it can be retrieved later during the cervical dissection (Fig. 17-6). By encircling the midesophagus well below the recurrent nerves, the drain will be inside the nerves when it is retrieved in the neck, minimizing traction or direct injury to the recurrent nerve. The second Penrose drain is loosely knotted around the lower esophagus and passed into the peritoneal cavity to be retrieved at the time of the laparotomy to facilitate dissection of the gastroesophageal junction (Fig. 17-7). Although the goal is to resect the nodal tissue en bloc with the esophagus, any nodal tissue that has not been dissected with the specimen is resected separately and labeled appropriately. The region of the thoracic duct is identified near the aortic hiatus and ligated with a 0 silk suture to prevent chyle leak. If the duct cannot be visualized easily, a mass ligature is placed around all of the tissue between the spine and the aorta at the level of the diaphragm. Hemostasis is achieved, and a straight 28 French chest tube is placed in the posterior chest to the apex and brought out through a separate inferior stab incision. The thoracotomy is closed in layers in typical fashion after reapproximating the ribs with interrupted suture.
+At this point, the first upper Penrose drain is loosely knotted around the esophagus and pushed up into the left neck just beneath the omohyoid muscle, where it can be retrieved later during the cervical dissection ([Fig. 17-6](#fig-17-6)). By encircling the midesophagus well below the recurrent nerves, the drain will be inside the nerves when it is retrieved in the neck, minimizing traction or direct injury to the recurrent nerve. The second Penrose drain is loosely knotted around the lower esophagus and passed into the peritoneal cavity to be retrieved at the time of the laparotomy to facilitate dissection of the gastroesophageal junction ([Fig. 17-7](#fig-17-7)). Although the goal is to resect the nodal tissue en bloc with the esophagus, any nodal tissue that has not been dissected with the specimen is resected separately and labeled appropriately. The region of the thoracic duct is identified near the aortic hiatus and ligated with a 0 silk suture to prevent chyle leak. If the duct cannot be visualized easily, a mass ligature is placed around all of the tissue between the spine and the aorta at the level of the diaphragm. Hemostasis is achieved, and a straight 28 French chest tube is placed in the posterior chest to the apex and brought out through a separate inferior stab incision. The thoracotomy is closed in layers in typical fashion after reapproximating the ribs with interrupted suture.
 
-<span id="fig-17-1"></span>**Figure 17-1.** A muscle-sparing right posterolateral thoracotomy incision is made at the fifth interspace.
+<span id="fig-17-3"></span>![](_page_64_Picture_7.jpeg)
 
-<span id="fig-17-2"></span>**Figure 17-2.** The fifth interspace is opened, the sixth rib is removed or "shingled," and the ribs are gently retracted.
+**Figure 17-3.** The posterior mediastinal pleura is opened over the esophagus from the apex of the chest to the diaphragm.
 
-<span id="fig-17-3"></span>**Figure 17-3.** The posterior mediastinal pleura is opened over the esophagus from the apex of the chest to the diaphragm.
+<span id="fig-17-4"></span>![](_page_65_Picture_2.jpeg)
 
-<span id="fig-17-4"></span>**Figure 17-4.** A 1-cm Penrose drain is passed around the esophagus and used for retraction during the thoracic dissection. The azygos vein is divided using a 30-mm endovascular stapler.
+**Figure 17-4.** A 1-cm Penrose drain is passed around the esophagus and used for retraction during the thoracic dissection. The azygos vein is divided using a 30-mm endovascular stapler.
 
-<span id="fig-17-5"></span>**Figure 17-5.** Finger dissection is used to develop the plane between the trachea and esophagus at the level of the thoracic inlet up to the level of the clavicle. The dissection proceeds close to the esophagus to avoid injury to the right laryngeal nerve, which recurs around the subclavian artery.
+<span id="fig-17-5"></span>![](_page_65_Picture_8.jpeg)
 
-<span id="fig-17-6"></span>**Figure 17-6.** After the esophagus has been dissected to the level of the clavicle, the end of the Penrose drain is knotted and pushed behind the esophagus up through the thoracic inlet for use later in the cervical dissection.
+**Figure 17-5.** Finger dissection is used to develop the plane between the trachea and esophagus at the level of the thoracic inlet up to the level of the clavicle. The dissection proceeds close to the esophagus to avoid injury to the right laryngeal nerve, which recurs around the subclavian artery.
 
-<span id="fig-17-7"></span>**Figure 17-7.** A second Penrose drain is knotted around the lower esophagus and pushed into the peritoneal cavity for use later in the laparotomy and dissection of the gastroesophageal junction.
+<span id="fig-17-6"></span>![](_page_66_Picture_2.jpeg)
+
+**Figure 17-6.** After the esophagus has been dissected to the level of the clavicle, the end of the Penrose drain is knotted and pushed behind the esophagus up through the thoracic inlet for use later in the cervical dissection.
+
+<span id="fig-17-7"></span>![](_page_66_Picture_8.jpeg)
+
+**Figure 17-7.** A second Penrose drain is knotted around the lower esophagus and pushed into the peritoneal cavity for use later in the laparotomy and dissection of the gastroesophageal junction.
 
 </div></details>
 
@@ -1742,33 +1930,49 @@ At this point, the first upper Penrose drain is loosely knotted around the esoph
 
 #### Stage II: Abdominal and Cervical Dissections</summary><div class="details-content">
 
-The patient is repositioned supine for the abdominal and left cervical dissections. At this juncture, the double-lumen tube is replaced with a single-lumen tube to avoid the need to replace the endotracheal tube after the conclusion of the case once the cervical anastomosis has been created and airway edema is at its worst. If dissection around the trachea or carina was difficult due to radiation fibrosis or tumor, a bronchoscopy can be performed at this junction to ensure no injury to the airway has occurred. The patient's head is rotated 45 degrees to the right, and a shoulder roll is placed. The patient is prepped from the jaw to the pubic symphysis. An upper midline laparotomy and left cervical incisions can be performed simultaneously (Fig. 17-8).
+The patient is repositioned supine for the abdominal and left cervical dissections. At this juncture, the double-lumen tube is replaced with a single-lumen tube to avoid the need to replace the endotracheal tube after the conclusion of the case once the cervical anastomosis has been created and airway edema is at its worst. If dissection around the trachea or carina was difficult due to radiation fibrosis or tumor, a bronchoscopy can be performed at this junction to ensure no injury to the airway has occurred. The patient's head is rotated 45 degrees to the right, and a shoulder roll is placed. The patient is prepped from the jaw to the pubic symphysis. An upper midline laparotomy and left cervical incisions can be performed simultaneously ([Fig. 17-8](#fig-17-8)).
 
 **Abdominal Dissection** — The abdomen is explored for resectability. With the availability of improved CT and PET/CT technology for preoperative surgical staging, it is unlikely at this stage to find any evidence of metastatic disease. In the event that metastatic disease is identified, the patient can be safely closed after removing the Penrose drains and inserting a feeding tube. The esophagus has a rich longitudinal submucosal blood supply and will continue to survive. As patients with stage IV esophageal cancer have a short median survival, palliative esophagectomy may not be the best choice for a quick recovery and discharge from the hospital. Palliation of dysphagia from an obstructing tumor can often be achieved endoscopically at a later date if necessary.
 
-If no evidence of metastatic disease is found, the triangular ligament to the left lobe of the liver is divided and the left lobe is folded down and retracted to the right with a moist laparotomy pad and a deep self-retaining retractor. We use upper-hand and Balfour retractors to provide exposure after taking down the triangular ligament. The Penrose drain placed during thoracotomy is identified and used for retracting the esophagus at the level of the gastroesophageal junction (Fig. 17-9). Adequate pulse is confirmed in the right gastroepiploic artery, after which the surgeon proceeds to locate and divide the short gastric vessels. If the spleen is located deep in the left upper quadrant such that it limits visualization of the gastric vessels, a laparotomy pad can be placed behind the spleen to bring the short gastric vessels into view. Once the short gastric vessels are identified, they can be transected with ties and clips, harmonic scalpel, or endovascular linear staplers (Fig. 17-10). With the short gastric arteries divided to the level of the hiatus, dissection is carried along the greater curvature toward the pylorus, dividing the omentum from the stomach, taking care to avoid injury to the gastroepiploic arcade and pedicle. The lesser sac is entered and the posterior attachments of the stomach to the pancreas are sharply divided. A generous Kocher maneuver is carried out to mobilize the duodenum to the midline. A pyloromyotomy or Heineke-Mikulicz type of pyloroplasty using a single layer of 3-0 silk is created to provide adequate drainage of the conduit (Fig. 17-11).
+If no evidence of metastatic disease is found, the triangular ligament to the left lobe of the liver is divided and the left lobe is folded down and retracted to the right with a moist laparotomy pad and a deep self-retaining retractor. We use upper-hand and Balfour retractors to provide exposure after taking down the triangular ligament. The Penrose drain placed during thoracotomy is identified and used for retracting the esophagus at the level of the gastroesophageal junction ([Fig. 17-9](#fig-17-9)). Adequate pulse is confirmed in the right gastroepiploic artery, after which the surgeon proceeds to locate and divide the short gastric vessels. If the spleen is located deep in the left upper quadrant such that it limits visualization of the gastric vessels, a laparotomy pad can be placed behind the spleen to bring the short gastric vessels into view. Once the short gastric vessels are identified, they can be transected with ties and clips, harmonic scalpel, or endovascular linear staplers ([Fig. 17-10](#fig-17-10)). With the short gastric arteries divided to the level of the hiatus, dissection is carried along the greater curvature toward the pylorus, dividing the omentum from the stomach, taking care to avoid injury to the gastroepiploic arcade and pedicle. The lesser sac is entered and the posterior attachments of the stomach to the pancreas are sharply divided. A generous Kocher maneuver is carried out to mobilize the duodenum to the midline. A pyloromyotomy or Heineke-Mikulicz type of pyloroplasty using a single layer of 3-0 silk is created to provide adequate drainage of the conduit ([Fig. 17-11](#fig-17-11)).
 
-The stomach is reflected superiorly and to the right to expose the left gastric artery and vein from within the lesser sac. All nodal tissue around this vascular pedicle is gathered up onto the specimen. The left gastric pedicle is palpated at its takeoff from the celiac axis and ligated with a single firing of the endovascular 30-mm linear stapler. Before firing the stapler, it is important to recheck the pulse of the right gastroepiploic pedicle to be sure that the celiac axis itself has not been clamped (Fig. 17-12). The lesser omentum is divided and the gastric conduit is now ready to be divided.
+The stomach is reflected superiorly and to the right to expose the left gastric artery and vein from within the lesser sac. All nodal tissue around this vascular pedicle is gathered up onto the specimen. The left gastric pedicle is palpated at its takeoff from the celiac axis and ligated with a single firing of the endovascular 30-mm linear stapler. Before firing the stapler, it is important to recheck the pulse of the right gastroepiploic pedicle to be sure that the celiac axis itself has not been clamped ([Fig. 17-12](#fig-17-12)). The lesser omentum is divided and the gastric conduit is now ready to be divided.
 
-**Left Cervical Dissection** — A left cervical incision can be performed simultaneously with the upper midline laparotomy by a separate surgical team. A left neck incision is preferred as the path of the left recurrent nerve is more predictable and less likely to be injured during dissection. A short left neck incision is created along the anterior border of the sternocleidomastoid muscle (Fig. 17-13). The sternocleidomastoid muscle is mobilized laterally along with the carotid sheath. Dissection is deepened lateral to the thyroid gland. The middle thyroid vein may need to be divided. Care is taken not to impinge the left recurrent nerve with retractors. The use of self-retaining metal retractors should be avoided to prevent recurrent laryngeal nerve injury and carotid artery lesions, particularly if carotid plaques are suspected. The omohyoid and sternohyoid muscles may be divided with electrocautery for improved esophageal exposure. Using gentle blunt finger dissection, the surgeon proceeds posterior to the cervical esophagus and anterior to the vertebral bodies where the upper Penrose drain placed during the thoracic dissection can be found. The drain is brought into the wound and traction from the Penrose drain permits further blunt mobilization of the cervical esophagus. The entirety of the esophagus should now be mobile.
+**Left Cervical Dissection** — A left cervical incision can be performed simultaneously with the upper midline laparotomy by a separate surgical team. A left neck incision is preferred as the path of the left recurrent nerve is more predictable and less likely to be injured during dissection. A short left neck incision is created along the anterior border of the sternocleidomastoid muscle ([Fig. 17-13](#fig-17-13)). The sternocleidomastoid muscle is mobilized laterally along with the carotid sheath. Dissection is deepened lateral to the thyroid gland. The middle thyroid vein may need to be divided. Care is taken not to impinge the left recurrent nerve with retractors. The use of self-retaining metal retractors should be avoided to prevent recurrent laryngeal nerve injury and carotid artery lesions, particularly if carotid plaques are suspected. The omohyoid and sternohyoid muscles may be divided with electrocautery for improved esophageal exposure. Using gentle blunt finger dissection, the surgeon proceeds posterior to the cervical esophagus and anterior to the vertebral bodies where the upper Penrose drain placed during the thoracic dissection can be found. The drain is brought into the wound and traction from the Penrose drain permits further blunt mobilization of the cervical esophagus. The entirety of the esophagus should now be mobile.
 
-The cervical esophagus is divided with a linear 75-mm stapler (Fig. 17-14). A long #1 silk suture is placed in the distal esophageal staple line, and the specimen is retrieved from the abdomen. In this manner, the silk tie, which is pulled down into the mediastinum with the specimen, can later be used to guide the gastric conduit up through the posterior mediastinum into the neck (Fig. 17-15).
+The cervical esophagus is divided with a linear 75-mm stapler ([Fig. 17-14](#fig-17-14)). A long #1 silk suture is placed in the distal esophageal staple line, and the specimen is retrieved from the abdomen. In this manner, the silk tie, which is pulled down into the mediastinum with the specimen, can later be used to guide the gastric conduit up through the posterior mediastinum into the neck ([Fig. 17-15](#fig-17-15)).
 
-<span id="fig-17-8"></span>**Figure 17-8.** After the thoracic dissection is complete, the patient is placed in the supine position, and different surgical teams working simultaneously make two incisions, a midline abdominal incision and a left cervical incision.
+<span id="fig-17-8"></span>![](_page_66_Picture_10.jpeg)
 
-<span id="fig-17-9"></span>**Figure 17-9.** The abdomen is explored for resectability through the midline incision. Upper-hand and Balfour retractors are placed to provide exposure after taking down the triangular hepatic ligament. The second Penrose drain that was placed during thoracotomy is identified.
+**Figure 17-8.** After the thoracic dissection is complete, the patient is placed in the supine position, and different surgical teams working simultaneously make two incisions, a midline abdominal incision and a left cervical incision.
 
-<span id="fig-17-10"></span>**Figure 17-10.** The short gastric arteries are dissected, clipped, and divided.
+<span id="fig-17-9"></span>![](_page_66_Picture_14.jpeg)
 
-<span id="fig-17-11"></span>**Figure 17-11.** The duodenum is mobilized using a Kocher maneuver. A pyloromyotomy or Heineke-Mikulicz type of pyloroplasty using single layer of 3-0 silk is done to create the egress from the conduit.
+**Figure 17-9.** The abdomen is explored for resectability through the midline incision. Upper-hand and Balfour retractors are placed to provide exposure after taking down the triangular hepatic ligament. The second Penrose drain that was placed during thoracotomy is identified.
 
-<span id="fig-17-12"></span>**Figure 17-12.** The stomach is reflected superiorly and to the right, exposing the left gastric vein and artery, which are ligated using an endostapler near their origin in the celiac axis.
+<span id="fig-17-10"></span>![](_page_67_Picture_2.jpeg)
 
-<span id="fig-17-13"></span>**Figure 17-13.** While the first team mobilizes the esophagus below the diaphragm, the second team creates a short left cervical incision along the anterior border of the sternocleidomastoid muscle and locates the first Penrose drain.
+**Figure 17-10.** The short gastric arteries are dissected, clipped, and divided.
 
-<span id="fig-17-14"></span>**Figure 17-14.** The cervical esophagus is divided with a linear cutter, 75-mm (GIA) stapler.
+<span id="fig-17-11"></span>![](_page_67_Picture_6.jpeg)
 
-<span id="fig-17-15"></span>**Figure 17-15.** A long, heavy silk suture is attached to the cervical end, and the specimen is brought down through the abdominal incision and removed.
+**Figure 17-11.** The duodenum is mobilized using a Kocher maneuver. A pyloromyotomy or Heineke-Mikulicz type of pyloroplasty using single layer of 3-0 silk is done to create the egress from the conduit.
+
+<span id="fig-17-12"></span>![](_page_67_Picture_11.jpeg)
+
+**Figure 17-12.** The stomach is reflected superiorly and to the right, exposing the left gastric vein and artery, which are ligated using an endostapler near their origin in the celiac axis.
+
+<span id="fig-17-13"></span>![](_page_68_Picture_2.jpeg)
+
+**Figure 17-13.** While the first team mobilizes the esophagus below the diaphragm, the second team creates a short left cervical incision along the anterior border of the sternocleidomastoid muscle and locates the first Penrose drain.
+
+<span id="fig-17-14"></span>![](_page_68_Picture_8.jpeg)
+
+**Figure 17-14.** The cervical esophagus is divided with a linear cutter, 75-mm (GIA) stapler.
+
+<span id="fig-17-15"></span>![](_page_68_Picture_12.jpeg)
+
+**Figure 17-15.** A long, heavy silk suture is attached to the cervical end, and the specimen is brought down through the abdominal incision and removed.
 
 </div></details>
 
@@ -1776,25 +1980,37 @@ The cervical esophagus is divided with a linear 75-mm stapler (Fig. 17-14). A lo
 
 #### Preparation of the Conduit and Alimentary Reconstruction</summary><div class="details-content">
 
-With the specimen delivered into the abdomen, a linear cutter 75-mm stapler is used to divide the stomach to ensure an adequate distal margin from the tumor and to fashion a narrow tube-shaped conduit. The outline for the conduit begins along the greater curvature of the stomach, high on the fundus, and is drawn toward the lesser curvature just above the crow's foot (Fig. 17-16). The staple line along the gastric conduit can be reinforced with invaginating "Lembert" seromuscular sutures. Maintaining a narrow conduit is important physiologically to ensure adequate emptying of the neoesophagus. The hiatus is dilated manually to permit four fingers to be placed through it.
+With the specimen delivered into the abdomen, a linear cutter 75-mm stapler is used to divide the stomach to ensure an adequate distal margin from the tumor and to fashion a narrow tube-shaped conduit. The outline for the conduit begins along the greater curvature of the stomach, high on the fundus, and is drawn toward the lesser curvature just above the crow's foot ([Fig. 17-16](#fig-17-16)). The staple line along the gastric conduit can be reinforced with invaginating "Lembert" seromuscular sutures. Maintaining a narrow conduit is important physiologically to ensure adequate emptying of the neoesophagus. The hiatus is dilated manually to permit four fingers to be placed through it.
 
-A sterile arthroscopic camera bag is attached to the proximal end of a 30-mL Foley catheter secured to the distal end of the silk tie (Fig. 17-17). The gastric conduit is placed inside the bag and the bag is unfolded. A small aliquot of saline is added inside the bag and suction is applied to the distal end of the Foley drain to maintain traction on the conduit. The Foley catheter, camera bag, and gastric conduit are gently pushed into the mediastinum and out the left cervical incision taking care to prevent twisting of the conduit (Fig. 17-18). The conduit should be gently pushed or fed up the mediastinum rather than pulled up to prevent injury to the walls of the conduit or the vascular pedicle. When oriented properly, the gastric staple line lies on the right side of the neck incision from the patient's perspective, and the pylorus rests at the hiatus (Fig. 17-19). The esophagogastric anastomosis can be performed in one of two ways: hand sewn or stapled. For a hand-sewn anastomosis, the proximal esophageal staple line is cut off and a gastrotomy is made 3 cm below the tip of the conduit. A single layer of interrupted 3-0 silk sutures is used to create the anastomosis (Fig. 17-20). For a stapled anastomosis, a functional end-to-end anatomic side-to-side anastomosis is created using a linear cutting stapler and a thoracoabdominal-30 (TA-30) stapler to close the enterotomies (Fig. 17-21).
+A sterile arthroscopic camera bag is attached to the proximal end of a 30-mL Foley catheter secured to the distal end of the silk tie ([Fig. 17-17](#fig-17-17)). The gastric conduit is placed inside the bag and the bag is unfolded. A small aliquot of saline is added inside the bag and suction is applied to the distal end of the Foley drain to maintain traction on the conduit. The Foley catheter, camera bag, and gastric conduit are gently pushed into the mediastinum and out the left cervical incision taking care to prevent twisting of the conduit ([Fig. 17-18](#fig-17-18)). The conduit should be gently pushed or fed up the mediastinum rather than pulled up to prevent injury to the walls of the conduit or the vascular pedicle. When oriented properly, the gastric staple line lies on the right side of the neck incision from the patient's perspective, and the pylorus rests at the hiatus ([Fig. 17-19](#fig-17-19)). The esophagogastric anastomosis can be performed in one of two ways: hand sewn or stapled. For a hand-sewn anastomosis, the proximal esophageal staple line is cut off and a gastrotomy is made 3 cm below the tip of the conduit. A single layer of interrupted 3-0 silk sutures is used to create the anastomosis ([Fig. 17-20](#fig-17-20)). For a stapled anastomosis, a functional end-to-end anatomic side-to-side anastomosis is created using a linear cutting stapler and a thoracoabdominal-30 (TA-30) stapler to close the enterotomies ([Fig. 17-21](#fig-17-21)).
 
 We routinely drain the gastric conduit with a nasogastric tube until resolution of the postoperative ileus to prevent conduit distention and potential ischemia or aspiration. The nasogastric tube can be passed transnasally across the anastomosis, or alternatively a nasogastric tube can be passed through the conduit and out the neck incision. This latter placement technique avoids the morbidity and nasopharyngeal discomfort of a traditionally placed nasogastric tube. A sterile (Levine) tube is brought onto the sterile field and passed through a gastrostomy placed near the tip of the conduit prior to completion of the anastomosis. A purse-string suture is placed around the gastrostomy to prevent leakage. The tube is brought out at the apex of the neck incision and secured to the skin.
 
 A 10-mm Jackson-Pratt closed suction drain is passed posteriorly and to the left of the anastomosis at the level of the thoracic inlet and brought out through a small lateral stab incision. This tube prevents seroma and provides an outlet for drainage in the event of an early leak in the anastomosis. A jejunal feeding tube is inserted routinely for postoperative feeding and to provide access for enteral nutrition if problems with oral feeding occur postoperatively.
 
-<span id="fig-17-16"></span>**Figure 17-16.** A linear cutting stapler is used to create the gastric conduit. The conduit is fashioned by creating a semicircular line along the greater curvature of the stomach beginning high on the fundus and ending at a point along the lesser curvature just above the crow's foot.
+<span id="fig-17-16"></span>![](_page_69_Picture_2.jpeg)
 
-<span id="fig-17-17"></span>**Figure 17-17.** The silk tie is attached to the port of a 30-mL Foley balloon catheter, and the catheter is pulled up until it is partway through the neck incision.
+**Figure 17-16.** A linear cutting stapler is used to create the gastric conduit. The conduit is fashioned by creating a semicircular line along the greater curvature of the stomach beginning high on the fundus and ending at a point along the lesser curvature just above the crow's foot.
 
-<span id="fig-17-18"></span>**Figure 17-18.** The other end of the Foley catheter is attached to an arthroscopic camera bag. The neoesophagus is placed into the folded bag, being careful to ensure proper axial orientation (i.e., the neoesophagus is oriented with the staple line on the patient's right side). A Yankauer suction device is attached to collapse the bag around the neoesophagus.
+<span id="fig-17-17"></span>![](_page_69_Picture_5.jpeg)
 
-<span id="fig-17-19"></span>**Figure 17-19.** The gastric conduit is pulled through the posterior mediastinum into the cervical wound.
+**Figure 17-17.** The silk tie is attached to the port of a 30-mL Foley balloon catheter, and the catheter is pulled up until it is partway through the neck incision.
 
-<span id="fig-17-20"></span>**Figure 17-20.** An end-to-side anastomosis is created with a single layer of interrupted 3-0 silk suture. The anastomosis is created on the posterior aspect of the gastric conduit to ensure more favorable drainage.
+<span id="fig-17-18"></span>![](_page_70_Picture_2.jpeg)
 
-<span id="fig-17-21"></span>**Figure 17-21.** Stapled cervical esophagogastric anastomosis. A. small enterotomies are made in the distal esophagus and posterior wall of the gastric conduit. B. Using a linear GIA stapler, the posterior wall of the esophagus and gastric conduit are joined. C. The remaining enterotomy is closed with a TA stapler.
+**Figure 17-18.** The other end of the Foley catheter is attached to an arthroscopic camera bag. The neoesophagus is placed into the folded bag, being careful to ensure proper axial orientation (i.e., the neoesophagus is oriented with the staple line on the patient's right side). A Yankauer suction device is attached to collapse the bag around the neoesophagus.
+
+<span id="fig-17-19"></span>![](_page_70_Picture_7.jpeg)
+
+**Figure 17-19.** The gastric conduit is pulled through the posterior mediastinum into the cervical wound.
+
+<span id="fig-17-20"></span>![](_page_71_Picture_2.jpeg)
+
+**Figure 17-20.** An end-to-side anastomosis is created with a single layer of interrupted 3-0 silk suture. The anastomosis is created on the posterior aspect of the gastric conduit to ensure more favorable drainage.
+
+<span id="fig-17-21"></span>![](_page_71_Picture_8.jpeg)
+
+**Figure 17-21.** Stapled cervical esophagogastric anastomosis. *A.* small enterotomies are made in the distal esophagus and posterior wall of the gastric conduit. *B.* Using a linear GIA stapler, the posterior wall of the esophagus and gastric conduit are joined. *C.* The remaining enterotomy is closed with a TA stapler.
 
 </div></details>
 
@@ -1804,11 +2020,11 @@ A 10-mm Jackson-Pratt closed suction drain is passed posteriorly and to the left
 
 ### Procedure-Specific Morbidity</summary><div class="details-content">
 
-Morbidity following esophagectomy is common, most frequently from cardiopulmonary and anastomotic complications (Table 17-3). Thorough knowledge of the common sources of morbidity and mortality following esophagectomy can facilitate prevention, early detection, and rapid treatment of complications, which is essential for satisfactory outcome.
+Morbidity following esophagectomy is common, most frequently from cardiopulmonary and anastomotic complications ([Table 17-3](#table-17-3)). Thorough knowledge of the common sources of morbidity and mortality following esophagectomy can facilitate prevention, early detection, and rapid treatment of complications, which is essential for satisfactory outcome.
 
 <details class="med-details"><summary>
 
-#### Table 17-3 — Major Complications of Three-Hole Esophagectomy (N = 250)</summary><div class="details-content">
+#### <span id="table-17-3"></span>Table 17-3 — Major Complications of Three-Hole Esophagectomy (N = 250)</summary><div class="details-content">
 
 | COMPLICATION | FREQUENCY (%) | N |
 |---|---|---|
@@ -1913,11 +2129,11 @@ Tension and inadequate blood supply can lead to esophageal stricture weeks to mo
 
 ### Summary</summary><div class="details-content">
 
-The mortality rate for esophagectomy is proportional to experience. Mortality ranges from a high of 10% at low-volume centers to a low of 2% to 3% at high-volume centers. Attention to all aspects of the procedure includes careful patient selection, meticulous surgical technique, and diligent perioperative care. A high suspicion for procedure-specific complications yields a safe procedure with acceptable morbidity and mortality when the surgery is performed by an experienced surgical team (Table 17-4). Highlights of the most important technical aspects of this approach include use of a muscle-sparing right posterolateral thoracotomy, direct vision for the thoracic dissection, complete thoracic lymphadenectomy (which yields the best chance for cure and guidance for adjuvant treatment regimens), and clear margins. Placing the anastomosis in the left neck provides easy postoperative maintenance, reduces the morbidity of anastomotic leaks in comparison with an intrathoracic anastomosis, and is associated with a lower incidence of postoperative bile reflux. Survival data have not revealed a clear benefit of one surgery over another in a comparison of the transhiatal and transthoracic techniques. The technical complications are fewer when thoracic esophageal dissection is performed under direct vision rather than with blunt dissection. This is especially the case after caustic injuries and neoadjuvant radiation therapy. However, several recent randomized studies have demonstrated a trend toward improved survival with the transthoracic approach.
+The mortality rate for esophagectomy is proportional to experience. Mortality ranges from a high of 10% at low-volume centers to a low of 2% to 3% at high-volume centers. Attention to all aspects of the procedure includes careful patient selection, meticulous surgical technique, and diligent perioperative care. A high suspicion for procedure-specific complications yields a safe procedure with acceptable morbidity and mortality when the surgery is performed by an experienced surgical team ([Table 17-4](#table-17-4)). Highlights of the most important technical aspects of this approach include use of a muscle-sparing right posterolateral thoracotomy, direct vision for the thoracic dissection, complete thoracic lymphadenectomy (which yields the best chance for cure and guidance for adjuvant treatment regimens), and clear margins. Placing the anastomosis in the left neck provides easy postoperative maintenance, reduces the morbidity of anastomotic leaks in comparison with an intrathoracic anastomosis, and is associated with a lower incidence of postoperative bile reflux. Survival data have not revealed a clear benefit of one surgery over another in a comparison of the transhiatal and transthoracic techniques. The technical complications are fewer when thoracic esophageal dissection is performed under direct vision rather than with blunt dissection. This is especially the case after caustic injuries and neoadjuvant radiation therapy. However, several recent randomized studies have demonstrated a trend toward improved survival with the transthoracic approach.
 
 <details class="med-details"><summary>
 
-#### Table 17-4 — Strategies for Prevention of Complications</summary><div class="details-content">
+#### <span id="table-17-4"></span>Table 17-4 — Strategies for Prevention of Complications</summary><div class="details-content">
 
 **Preoperative strategies**
 - Preoperative cardiopulmonary screening to identify risk factors
@@ -1953,7 +2169,9 @@ The technical details of the "three-hole approach" are clearly described in this
 </div></details>
 
 </div></details>
-  
+
+---
+
 <details class="med-details"><summary>
 
 ## Chapter 18: Ivor Lewis Esophagectomy</summary><div class="details-content">
@@ -2004,11 +2222,13 @@ The patient is positioned in a supine manner for laparotomy, and an upper midlin
 
 The dissection of the stomach starts by entering the lesser sac at a point well away from the gastroepiploic artery. The greater omentum is divided along the greater curvature by ligating and transecting the branches of the gastroepiploic arteries to the epiploon. During this maneuver, great care is taken to protect the gastroepiploic vessels needed for future vascularization of the stomach. The short gastric vessels are ligated sequentially and divided as close to the spleen as possible to avoid interrupting the epiploic arcade, thus preserving the circulation to the gastric fundus. Injury to the fundus of the stomach is assiduously avoided because this will serve as the site of the future anastomosis. While dissecting the gastrocolic omentum toward the duodenum, the stomach is lifted upward to allow the various adhesions between the stomach and pancreas down to the posterior surface of the first part of the duodenum to be transected. At this point in the operation the right gastroepiploic artery origin or venous communicating branch to the mesocolon is most vulnerable to injury. The duodenum is mobilized generously with a Kocher maneuver, and any loose adhesions between the duodenum and gallbladder fundus are divided.
 
-Attention is turned to the lesser omentum, which is divided close to the undersurface of the left liver lobe up to the esophageal hiatus. The vagal branches to the liver are transected, and if a left liver lobe artery is found, care is taken to preserve this artery if at all possible. The right gastric vessels are identified, dissected, ligated sequentially, and divided approximately 1 inch proximal to the pylorus. The stomach is lifted up by the assistant, bringing into the surgeon's view a bundle of tissue connecting the lesser curvature to the posterior abdominal wall (i.e., the celiac trunk). Palpation confirms pulsation of the left gastric artery within this tissue. Careful dissection permits the artery and vein to be visualized individually and tied off. The surrounding fat and lymph nodes are also removed during this maneuver. The left gastric artery is divided and ligated close to its origin from the celiac axis. The remaining loose adherent tissue, which contains a few small vessels, is divided, bringing the crura of the diaphragm into view. Gentle posterior pressure between the two pillars permits access to the posterior mediastinum, where loose areolar tissue can be broken down with gentle dissection. The phrenoesophageal ligament is transected around the esophagus to complete the mobilization. During this procedure, a cuff of diaphragmatic muscle can be resected if diaphragmatic invasion is suspected. After opening the diaphragmatic hiatus, access is gained to the fibrofatty and lymphatic tissue that separates the esophagus from the pericardium. This fibrofatty and lymphatic tissue is reflected away from the surrounding structures. In this way, much of the dissection of the lower esophagus can be achieved through the abdomen under direct vision. The gastric tubularization is performed using several linear staplers, starting from the gastric fundus down to the place on the small curvature where the right gastric artery has been ligated. The staple line is placed such that it leaves a gastric tube of 4 to 5 cm in width (Fig. 18-1). The staple line is oversewn in a running fashion, although some surgeons prefer to use interrupted sutures. Thus, by resecting the lesser curvature, all lymphatic tissue in this area is removed. A lymph node dissection along the splenic artery, common hepatic artery, and celiac axis is performed. This also can be done en bloc with the dissection of the left gastric artery. The gastric tube is fixed to this separated lesser curvature by using two stay sutures.
+Attention is turned to the lesser omentum, which is divided close to the undersurface of the left liver lobe up to the esophageal hiatus. The vagal branches to the liver are transected, and if a left liver lobe artery is found, care is taken to preserve this artery if at all possible. The right gastric vessels are identified, dissected, ligated sequentially, and divided approximately 1 inch proximal to the pylorus. The stomach is lifted up by the assistant, bringing into the surgeon's view a bundle of tissue connecting the lesser curvature to the posterior abdominal wall (i.e., the celiac trunk). Palpation confirms pulsation of the left gastric artery within this tissue. Careful dissection permits the artery and vein to be visualized individually and tied off. The surrounding fat and lymph nodes are also removed during this maneuver. The left gastric artery is divided and ligated close to its origin from the celiac axis. The remaining loose adherent tissue, which contains a few small vessels, is divided, bringing the crura of the diaphragm into view. Gentle posterior pressure between the two pillars permits access to the posterior mediastinum, where loose areolar tissue can be broken down with gentle dissection. The phrenoesophageal ligament is transected around the esophagus to complete the mobilization. During this procedure, a cuff of diaphragmatic muscle can be resected if diaphragmatic invasion is suspected. After opening the diaphragmatic hiatus, access is gained to the fibrofatty and lymphatic tissue that separates the esophagus from the pericardium. This fibrofatty and lymphatic tissue is reflected away from the surrounding structures. In this way, much of the dissection of the lower esophagus can be achieved through the abdomen under direct vision. The gastric tubularization is performed using several linear staplers, starting from the gastric fundus down to the place on the small curvature where the right gastric artery has been ligated. The staple line is placed such that it leaves a gastric tube of 4 to 5 cm in width ([Fig. 18-1](#fig-18-1)). The staple line is oversewn in a running fashion, although some surgeons prefer to use interrupted sutures. Thus, by resecting the lesser curvature, all lymphatic tissue in this area is removed. A lymph node dissection along the splenic artery, common hepatic artery, and celiac axis is performed. This also can be done en bloc with the dissection of the left gastric artery. The gastric tube is fixed to this separated lesser curvature by using two stay sutures.
 
 At the end of the first stage of the procedure, it should be possible to place the pylorus at the hiatus, ensuring sufficient length for the reconstruction. Pyloroplasty is not carried out, but digitoclasy of the pylorus may be useful. The abdomen is closed.
 
-<span id="fig-18-1"></span>**Figure 18-1.** Gastric tube performed with staplers.
+<span id="fig-18-1"></span>![](_page_75_Figure_10.jpeg)
+
+**Figure 18-1.** Gastric tube performed with staplers.
 
 </div></details>
 
@@ -2024,9 +2244,13 @@ Similar dissection of the esophagus is achieved by encircling it with a tape dis
 
 A further lymph node dissection is performed along the left and right paratracheal spaces, along the aortopulmonary window, and along the right recurrent nerve at the level of the brachiocephalic trunk. To facilitate exposure of the right recurrent nerve, slight traction is exerted on the right vagus nerve, slightly stretching the recurrent nerve. Avoiding electrocautery is mandatory in this region to avoid injury to the nerve. Similarly, the left recurrent nerve is identified, and careful lymph node clearance is performed.
 
-At this point, the gastric tube can be pulled up into the chest cavity, being careful to avoid axial rotation of the tube during this process (Fig. 18-2). A suitable point at least 5 cm above the tumor is chosen for transecting the esophagus. After transection, a frozen section must be obtained of the proximal resection margin to confirm the absence of tumor extension in the suture line.
+At this point, the gastric tube can be pulled up into the chest cavity, being careful to avoid axial rotation of the tube during this process ([Fig. 18-2](#fig-18-2)). A suitable point at least 5 cm above the tumor is chosen for transecting the esophagus. After transection, a frozen section must be obtained of the proximal resection margin to confirm the absence of tumor extension in the suture line.
 
-<span id="fig-18-2"></span>**Figure 18-2.** Hand-sewn anastomosis at the level of the azygos vein.
+<span id="fig-18-2"></span>![](_page_76_Picture_11.jpeg)
+
+![](_page_76_Picture_12.jpeg)
+
+**Figure 18-2.** Hand-sewn anastomosis at the level of the azygos vein.
 
 </div></details>
 
@@ -2036,11 +2260,13 @@ At this point, the gastric tube can be pulled up into the chest cavity, being ca
 
 **Stapled Anastomosis** — For a mechanical anastomosis, the esophagus is transected, and a purse-string suture with, for example, Prolene 4-0 running suture, is placed through the mucosa and muscular layer. The anvil head of the circular stapler (size at least 25) is placed into the esophagus, and the purse-string suture is tied snugly around the shaft of the anvil head. An incision is made at the top of the gastric tube to insert the gun of the circular stapler. The site where the gun will perforate the gastric wall is chosen carefully on the posterior aspect of the gastric tube, away from previous staple lines and the greater curvature vessels. One also must verify that once the anastomosis is performed, it will not be under tension because this can lead to postoperative complications. After penetrating the gastric wall, the pointed shaft of the gun is detached, and the gun is connected to the anvil head. The gun then is fired in the customary manner, and the doughnuts are inspected to ensure the integrity and completeness of the anastomosis. Several nonabsorbable stitches can be placed between the muscular layer of the esophagus and the seromuscular lining of the stomach to strengthen and protect the anastomosis. The nasogastric tube then is advanced through the anastomosis into the gastric tube. The redundant part of the gastric tube including the opening used to insert the gun is then transected with a linear stapler, and the staple line is inverted with a running suture.
 
-**Hand-Sewn Anastomosis** — For a hand-crafted anastomosis (Fig. 18-3), the posterior seromuscular aspect of the anastomosis is performed using separated nonabsorbable suture, for example, Ticron 3-0 stitches. The esophagus and gastric tubes then are incised along this suture line using electrocautery. The posterior layer comprising the full thickness of both the esophagus and gastric wall then is performed with separated absorbable suture, for example, Maxon 3-0 stitches. The gastric tube is advanced across the anastomosis. The anterior part of the esophageal wall is transected. The anastomosis is finalized using separated absorbable suture, for example, Maxon 3-0 for the anterior layer, and separated nonabsorbable suture, for example, Ticron 3-0 for the outer seromuscular layer. Some authors use a running suture, whereas others prefer a single-layer anastomosis.
+**Hand-Sewn Anastomosis** — For a hand-crafted anastomosis ([Fig. 18-3](#fig-18-3)), the posterior seromuscular aspect of the anastomosis is performed using separated nonabsorbable suture, for example, Ticron 3-0 stitches. The esophagus and gastric tubes then are incised along this suture line using electrocautery. The posterior layer comprising the full thickness of both the esophagus and gastric wall then is performed with separated absorbable suture, for example, Maxon 3-0 stitches. The gastric tube is advanced across the anastomosis. The anterior part of the esophageal wall is transected. The anastomosis is finalized using separated absorbable suture, for example, Maxon 3-0 for the anterior layer, and separated nonabsorbable suture, for example, Ticron 3-0 for the outer seromuscular layer. Some authors use a running suture, whereas others prefer a single-layer anastomosis.
 
 In most cases we use a pleural flap to cover the anastomosis to protect the chest cavity from anastomotic leakage. The thoracic cavity is usually drained using a 36F chest drain placed in the paraspinous position. The chest wall is closed in layers.
 
-<span id="fig-18-3"></span>**Figure 18-3.** Technique of double-layer anastomosis with running sutures. A. Posterior seromuscular layer. B. Posterior full-thickness layer. C. Anterior full-thickness layer. D. Eventually coverage of the anastomosis using a pleural flap.
+<span id="fig-18-3"></span>![](_page_77_Picture_11.jpeg)
+
+**Figure 18-3.** Technique of double-layer anastomosis with running sutures. *A*. Posterior seromuscular layer. *B.* Posterior full-thickness layer. *C.* Anterior full-thickness layer. *D.* Eventually coverage of the anastomosis using a pleural flap.
 
 </div></details>
 
@@ -2114,11 +2340,11 @@ Reflux is a common problem after gastric pull-up, especially with an intrathorac
 
 ### Results</summary><div class="details-content">
 
-Modern-day results of the Ivor Lewis procedure have shown that the technique can be performed safely with a low morbidity and mortality (Table 18-1). Survival after Ivor Lewis esophagectomy for cancer of the esophagus has been described in several studies. Visbal et al. in their series of 220 consecutive patients had an overall 5-year survival of 25.2% (squamous cell and adenocarcinoma). In a series of 264 Ivor Lewis resections for squamous cell carcinoma of the esophagus, Lozac'h et al. reported an overall survival of 33.3%. Survival was stage-dependent in both the series. Stage I was 94.4% and 53.2%, respectively; stage IIa was 36.0% and 38.8%, respectively; stage IIb in the first series was 14.3%, and stage III was 10% and 13.4%, respectively. In these two studies, the comparison between positive and negative lymph nodes after pathologic examination showed a significant improvement in 5-year survival for N0 (56.5% and 44.8%, respectively) versus N+ tumors (9.6% and 15.2%, respectively).
+Modern-day results of the Ivor Lewis procedure have shown that the technique can be performed safely with a low morbidity and mortality ([Table 18-1](#table-18-1)). Survival after Ivor Lewis esophagectomy for cancer of the esophagus has been described in several studies. Visbal et al. in their series of 220 consecutive patients had an overall 5-year survival of 25.2% (squamous cell and adenocarcinoma). In a series of 264 Ivor Lewis resections for squamous cell carcinoma of the esophagus, Lozac'h et al. reported an overall survival of 33.3%. Survival was stage-dependent in both the series. Stage I was 94.4% and 53.2%, respectively; stage IIa was 36.0% and 38.8%, respectively; stage IIb in the first series was 14.3%, and stage III was 10% and 13.4%, respectively. In these two studies, the comparison between positive and negative lymph nodes after pathologic examination showed a significant improvement in 5-year survival for N0 (56.5% and 44.8%, respectively) versus N+ tumors (9.6% and 15.2%, respectively).
 
 <details class="med-details"><summary>
 
-#### Table 18-1 — Recently Published Outcomes After Ivor Lewis Esophagogastrectomy</summary><div class="details-content">
+#### <span id="table-18-1"></span>Table 18-1 — Recently Published Outcomes After Ivor Lewis Esophagogastrectomy</summary><div class="details-content">
 
 | SOURCE | TIME PERIOD (YEARS) | NUMBER OF PATIENTS | POSTOPERATIVE MORBIDITY | ANASTOMOTIC LEAKS | MORTALITY | MEDIAN LENGTH OF STAY (DAYS) |
 |---|---|---|---|---|---|---|
@@ -2151,9 +2377,11 @@ The operation was performed as described earlier. No metastatic deposits were fo
 
 The pathologic examination of the specimen showed a 3-cm-long tumor of the middle third of the esophagus with invasion of the muscular wall (muscularis propria) of the esophagus but no breakthrough and with negative section planes. All 32 resected lymph nodes were free of tumor (pT2N0M0-R0).
 
-The patient was extubated quickly and discharged to the thoracic surgery ward the day after surgery. On the second postoperative day, he developed atrial fibrillation, treated with IV amiodarone with conversion to normal sinus rhythm. On the fifth postoperative day, a routine contrast barium swallow showed absence of leak and good emptying of the gastric tube (Fig. 18-4). The nasogastric tube was removed, and oral feeding was started. The patient was discharged on day 10. At the first outpatient clinic appointment 1 month after surgery the patient presented with no dysphagia, slight pain at the thoracotomy level, and a slight degree of shortness of breath. The chest x-ray was unremarkable. Four years after surgery, this patient remains disease-free but is experiencing some degree of acid reflux, which has been treated successfully with proton pump inhibitors.
+The patient was extubated quickly and discharged to the thoracic surgery ward the day after surgery. On the second postoperative day, he developed atrial fibrillation, treated with IV amiodarone with conversion to normal sinus rhythm. On the fifth postoperative day, a routine contrast barium swallow showed absence of leak and good emptying of the gastric tube ([Fig. 18-4](#fig-18-4)). The nasogastric tube was removed, and oral feeding was started. The patient was discharged on day 10. At the first outpatient clinic appointment 1 month after surgery the patient presented with no dysphagia, slight pain at the thoracotomy level, and a slight degree of shortness of breath. The chest x-ray was unremarkable. Four years after surgery, this patient remains disease-free but is experiencing some degree of acid reflux, which has been treated successfully with proton pump inhibitors.
 
-<span id="fig-18-4"></span>**Figure 18-4.** Contrast swallow showing a middle-third esophageal neoplasm (A) and the contrast swallow 5 days after an Ivor Lewis esophagectomy (B).
+<span id="fig-18-4"></span>![](_page_80_Picture_2.jpeg)
+
+**Figure 18-4.** Contrast swallow showing a middle-third esophageal neoplasm *(A)* and the contrast swallow 5 days after an Ivor Lewis esophagectomy *(B)*.
 
 </div></details>
 
@@ -2168,10 +2396,13 @@ In my opinion, this operation remains the mainstay for all esophageal cancer sur
 </div></details>
 
 </div></details>
-  
+
+---
+
 <details class="med-details"><summary>
 
 ## Chapter 19: Radical En Bloc Esophagectomy</summary><div class="details-content">
+
 
 Despite improvements in perioperative care, surgical techniques, and neoadjuvant therapy over the last decade, the prognosis of esophageal cancer remains poor. More than 95% of new cases diagnosed annually in the United States succumb to disease. Among the subset of patients resected with curative intent (R0 resection), the 5-year survival after transthoracic esophagectomy or transhiatal esophagectomy rarely exceeds 30% based on reports from large surgical series. The principal justification for these poor results is the finding that most patients develop metastatic disease and already may have disseminated disease at the time of diagnosis. A careful analysis of the patterns of failure after surgical resection also implicates inadequate locoregional control. The locoregional failure rates are unacceptably high after conventional surgical resection, ranging from 30% to 60%. The addition of preoperative therapy of any kind does not meaningfully reduce the high rate of local failure. Thus a meaningful improvement in the survival of patients with esophageal cancer is unlikely without adequate locoregional control.
 
@@ -2191,27 +2422,37 @@ Preoperative assessment is directed toward establishing, as accurately as possib
 
 ### Operative Technique</summary><div class="details-content">
 
-The basic principle underlying en bloc esophagectomy is resection of the tumor-bearing esophagus within a wide envelope of periesophageal tissue, which includes both pleural surfaces laterally, a patch of pericardium anteriorly, and the thoracic duct posteriorly, along with the mediastinal lymph nodes from the tracheal bifurcation to the hiatus (Fig. 19-1).
+The basic principle underlying en bloc esophagectomy is resection of the tumor-bearing esophagus within a wide envelope of periesophageal tissue, which includes both pleural surfaces laterally, a patch of pericardium anteriorly, and the thoracic duct posteriorly, along with the mediastinal lymph nodes from the tracheal bifurcation to the hiatus ([Fig. 19-1](#fig-19-1)).
 
-An upper abdominal lymphadenectomy is also performed, including the celiac, common hepatic, left gastric, parahiatal, lesser curvature, and retroperitoneal lymph nodes. A "third field" nodal dissection can be incorporated by extending the lymphadenectomy to include the superior mediastinal and cervical lymph nodes (Fig. 19-2). The procedure is almost always carried out through three incisions: a right thoracotomy, followed by a laparotomy and collar neck incision. More recently, the thoracic and abdominal portions of the dissection are accomplished by a minimally invasive approach.
+An upper abdominal lymphadenectomy is also performed, including the celiac, common hepatic, left gastric, parahiatal, lesser curvature, and retroperitoneal lymph nodes. A "third field" nodal dissection can be incorporated by extending the lymphadenectomy to include the superior mediastinal and cervical lymph nodes ([Fig. 19-2](#fig-19-2)). The procedure is almost always carried out through three incisions: a right thoracotomy, followed by a laparotomy and collar neck incision. More recently, the thoracic and abdominal portions of the dissection are accomplished by a minimally invasive approach.
 
-<span id="fig-19-1"></span>**Figure 19-1.** Radical en bloc esophagectomy entails resection of the tumor-bearing esophagus within a wide envelope of periesophageal tissue from the tracheal bifurcation to the hiatus.
+<span id="fig-19-1"></span>![](_page_82_Picture_2.jpeg)
 
-<span id="fig-19-2"></span>**Figure 19-2.** A "third field" nodal dissection is performed by extending the lymphadenectomy to include the superior mediastinal and cervical lymph nodes.
+**Figure 19-1.** Radical en bloc esophagectomy entails resection of the tumor-bearing esophagus within a wide envelope of periesophageal tissue from the tracheal bifurcation to the hiatus.
+
+<span id="fig-19-2"></span>![](_page_82_Figure_7.jpeg)
+
+**Figure 19-2.** A "third field" nodal dissection is performed by extending the lymphadenectomy to include the superior mediastinal and cervical lymph nodes.
 
 <details class="med-details"><summary>
 
 #### The Thorax</summary><div class="details-content">
 
-A right fifth interspace thoracotomy is performed regardless of the location of the tumor within the esophagus (Fig. 19-3, inset). The "first field" comprises the middle and lower mediastinum and is bound superiorly by the tracheal bifurcation, inferiorly by the esophageal hiatus, anteriorly by the hilum of the lung and pericardium, and posteriorly by the descending thoracic aorta and the spine. Dissection of the middle and lower mediastinum begins by incising the mediastinal pleura over the anterior aspect of the azygos vein from the level of the azygos arch superiorly to the aortic hiatus inferiorly. The dissection proceeds leftward anterior to the aorta and across the mediastinum to the opposite pleura, which is entered along the entire length of the incision. The thoracic duct thus is mobilized anteriorly toward the specimen and is ligated inferiorly at the aortic hiatus and superiorly as it crosses to the left side of the mediastinum (Fig. 19-3). All lymphatic channels are clipped or ligated between the thoracic duct and the spine to minimize the probability of a chylothorax. The arch of the azygos vein, but not its main trunk, is resected en bloc with the specimen. The anterior dissection is commenced by dividing the azygos vein at its caval junction and by carrying the dissection along the right main bronchus and the posterior aspect of the hilum of the right lung. The hilar and subcarinal nodes are cleared, and a patch of pericardium is resected en bloc with the tumor-bearing esophagus for all but submucosal tumors (T1) of the middle and lower thirds of the esophagus. Division of both pulmonary ligaments (left and right) completes the esophageal mobilization (Fig. 19-4). For tumors traversing the hiatus, a 1-in cuff of diaphragm is excised circumferentially en bloc with the specimen using electrocautery. The completed dissection clears all nodal tissue in the middle and lower mediastinum, including the right and left paraesophageal, parahiatal, paraaortic, subcarinal, bilateral hilar, and aortopulmonary lymph nodes.
+A right fifth interspace thoracotomy is performed regardless of the location of the tumor within the esophagus ([Fig. 19-3](#fig-19-3), inset). The "first field" comprises the middle and lower mediastinum and is bound superiorly by the tracheal bifurcation, inferiorly by the esophageal hiatus, anteriorly by the hilum of the lung and pericardium, and posteriorly by the descending thoracic aorta and the spine. Dissection of the middle and lower mediastinum begins by incising the mediastinal pleura over the anterior aspect of the azygos vein from the level of the azygos arch superiorly to the aortic hiatus inferiorly. The dissection proceeds leftward anterior to the aorta and across the mediastinum to the opposite pleura, which is entered along the entire length of the incision. The thoracic duct thus is mobilized anteriorly toward the specimen and is ligated inferiorly at the aortic hiatus and superiorly as it crosses to the left side of the mediastinum ([Fig. 19-3](#fig-19-3)). All lymphatic channels are clipped or ligated between the thoracic duct and the spine to minimize the probability of a chylothorax. The arch of the azygos vein, but not its main trunk, is resected en bloc with the specimen. The anterior dissection is commenced by dividing the azygos vein at its caval junction and by carrying the dissection along the right main bronchus and the posterior aspect of the hilum of the right lung. The hilar and subcarinal nodes are cleared, and a patch of pericardium is resected en bloc with the tumor-bearing esophagus for all but submucosal tumors (T1) of the middle and lower thirds of the esophagus. Division of both pulmonary ligaments (left and right) completes the esophageal mobilization ([Fig. 19-4](#fig-19-4)). For tumors traversing the hiatus, a 1-in cuff of diaphragm is excised circumferentially en bloc with the specimen using electrocautery. The completed dissection clears all nodal tissue in the middle and lower mediastinum, including the right and left paraesophageal, parahiatal, paraaortic, subcarinal, bilateral hilar, and aortopulmonary lymph nodes.
 
-Dissection of the third field begins during the thoracic portion of the procedure and is later completed through a collar neck incision. Dissection of the nodes in the superior mediastinum includes the nodes along the right and left recurrent laryngeal nerves throughout their mediastinal course. The paratracheal retrocaval compartment is not disturbed. The left recurrent nerve is dissected using a "no touch" technique, and nodes along its anterior aspect are carefully excised. Notably, there is a paucity of nodal tissue along the left nerve in nearly all Caucasians. The right recurrent nerve is carefully exposed near its origin at the base of the right subclavian artery (Fig. 19-5). The right vagus nerve serves as a good guide to locate the right recurrent nerve. The right recurrent nodal chain begins at that level and forms a continuous package that extends through the thoracic inlet to the neck. Again, the nerve is dissected using a strict no touch technique. Through the cervical incision, the remainders of the recurrent nodes are dissected, as are the lower deep cervical nodes located posterior and lateral to the carotid sheath. Thus the third field includes a continuous anatomically inseparable chain of nodes that extends from the superior mediastinum to the lower neck. These nodes should be appropriately labeled cervicothoracic nodes rather than cervical nodes.
+Dissection of the third field begins during the thoracic portion of the procedure and is later completed through a collar neck incision. Dissection of the nodes in the superior mediastinum includes the nodes along the right and left recurrent laryngeal nerves throughout their mediastinal course. The paratracheal retrocaval compartment is not disturbed. The left recurrent nerve is dissected using a "no touch" technique, and nodes along its anterior aspect are carefully excised. Notably, there is a paucity of nodal tissue along the left nerve in nearly all Caucasians. The right recurrent nerve is carefully exposed near its origin at the base of the right subclavian artery ([Fig. 19-5](#fig-19-5)). The right vagus nerve serves as a good guide to locate the right recurrent nerve. The right recurrent nodal chain begins at that level and forms a continuous package that extends through the thoracic inlet to the neck. Again, the nerve is dissected using a strict no touch technique. Through the cervical incision, the remainders of the recurrent nodes are dissected, as are the lower deep cervical nodes located posterior and lateral to the carotid sheath. Thus the third field includes a continuous anatomically inseparable chain of nodes that extends from the superior mediastinum to the lower neck. These nodes should be appropriately labeled cervicothoracic nodes rather than cervical nodes.
 
-<span id="fig-19-3"></span>**Figure 19-3.** View from a right thoracotomy at the fifth interspace (inset). Specimen is mobilized anteriorly along the descending thoracic aorta, including the thoracic duct.
+<span id="fig-19-3"></span>![](_page_83_Picture_2.jpeg)
 
-<span id="fig-19-4"></span>**Figure 19-4.** The en bloc specimen is completely mobilized, revealing the left lung, the tracheal bifurcation, and the pericardium.
+**Figure 19-3.** View from a right thoracotomy at the fifth interspace (inset). Specimen is mobilized anteriorly along the descending thoracic aorta, including the thoracic duct.
 
-<span id="fig-19-5"></span>**Figure 19-5.** The right recurrent nerve is carefully exposed near its origin at the base of the right subclavian artery. The right vagus nerve serves as a guide to locate the right recurrent nerve. The right recurrent nodal chain begins at that level and forms a continuous package that extends through the thoracic inlet to the neck.
+<span id="fig-19-4"></span>![](_page_83_Picture_6.jpeg)
+
+**Figure 19-4.** The en bloc specimen is completely mobilized, revealing the left lung, the tracheal bifurcation, and the pericardium.
+
+<span id="fig-19-5"></span>![](_page_84_Picture_2.jpeg)
+
+**Figure 19-5.** The right recurrent nerve is carefully exposed near its origin at the base of the right subclavian artery. The right vagus nerve serves as a guide to locate the right recurrent nerve. The right recurrent nodal chain begins at that level and forms a continuous package that extends through the thoracic inlet to the neck.
 
 </div></details>
 
@@ -2219,9 +2460,11 @@ Dissection of the third field begins during the thoracic portion of the procedur
 
 #### The Abdomen</summary><div class="details-content">
 
-The abdomen is entered through a midline incision (Fig. 19-6, inset). The omentum is separated from the colon in the avascular plane, and the lesser sac is entered. After dividing the short gastric vessels, the retroperitoneum is incised along the superior border of the pancreas (Fig. 19-6). The retroperitoneal lymphatic and areolar tissues are swept superiorly toward the esophageal hiatus and medially along the splenic artery to the celiac trifurcation. The left gastric artery is divided flush with its celiac origin, and the nodes along the common hepatic artery are dissected toward the specimen. This retroperitoneal dissection is bound by the dissected esophageal hiatus superiorly, the hilum of the spleen laterally, and the common hepatic artery and inferior vena cava medially. Finally, the lesser curvature and left gastric nodes are included with the specimen as the gastric tube is prepared. The omentum is resected as a separate specimen at least 1 in outside the gastroepiploic arcade.
+The abdomen is entered through a midline incision ([Fig. 19-6](#fig-19-6), inset). The omentum is separated from the colon in the avascular plane, and the lesser sac is entered. After dividing the short gastric vessels, the retroperitoneum is incised along the superior border of the pancreas ([Fig. 19-6](#fig-19-6)). The retroperitoneal lymphatic and areolar tissues are swept superiorly toward the esophageal hiatus and medially along the splenic artery to the celiac trifurcation. The left gastric artery is divided flush with its celiac origin, and the nodes along the common hepatic artery are dissected toward the specimen. This retroperitoneal dissection is bound by the dissected esophageal hiatus superiorly, the hilum of the spleen laterally, and the common hepatic artery and inferior vena cava medially. Finally, the lesser curvature and left gastric nodes are included with the specimen as the gastric tube is prepared. The omentum is resected as a separate specimen at least 1 in outside the gastroepiploic arcade.
 
-<span id="fig-19-6"></span>**Figure 19-6.** Illustration of abdominal en bloc dissection.
+<span id="fig-19-6"></span>![](_page_84_Picture_8.jpeg)
+
+**Figure 19-6.** Illustration of abdominal en bloc dissection.
 
 </div></details>
 
@@ -2229,11 +2472,15 @@ The abdomen is entered through a midline incision (Fig. 19-6, inset). The omentu
 
 #### The Neck</summary><div class="details-content">
 
-A generous low collar incision is performed, and subplatysmal flaps are raised inferiorly and superiorly (Fig. 19-7). The strap muscles and the medial heads of the sternocleidomastoid are divided. The esophagus (previously fully mobilized from the thorax) is retrieved from the prevertebral space. The esophagus is divided distally, and the specimen is retrieved in the abdomen. The previously dissected recurrent nerves are easy to visualize (especially the right recurrent nerve), and any residual nodal tissue is excised. Next, the nodes posterior and lateral to the carotid sheath are removed, along with the supraclavicular nodes, particularly for tumors of the middle and upper esophagus. The dissection is limited superiorly by the inferior belly of the omohyoid. Within the abdomen, the gastric tube is prepared and the specimen is removed (Fig. 19-8). Gastrointestinal continuity is restored by a cervical esophagogastrostomy. A feeding jejunostomy tube is placed for early postoperative enteral feeding.
+A generous low collar incision is performed, and subplatysmal flaps are raised inferiorly and superiorly ([Fig. 19-7](#fig-19-7)). The strap muscles and the medial heads of the sternocleidomastoid are divided. The esophagus (previously fully mobilized from the thorax) is retrieved from the prevertebral space. The esophagus is divided distally, and the specimen is retrieved in the abdomen. The previously dissected recurrent nerves are easy to visualize (especially the right recurrent nerve), and any residual nodal tissue is excised. Next, the nodes posterior and lateral to the carotid sheath are removed, along with the supraclavicular nodes, particularly for tumors of the middle and upper esophagus. The dissection is limited superiorly by the inferior belly of the omohyoid. Within the abdomen, the gastric tube is prepared and the specimen is removed ([Fig. 19-8](#fig-19-8)). Gastrointestinal continuity is restored by a cervical esophagogastrostomy. A feeding jejunostomy tube is placed for early postoperative enteral feeding.
 
-<span id="fig-19-7"></span>**Figure 19-7.** Low collar incision provides access for dividing the esophagus.
+<span id="fig-19-7"></span>![](_page_85_Picture_2.jpeg)
 
-<span id="fig-19-8"></span>**Figure 19-8.** The surgical specimen is removed through the abdomen.
+**Figure 19-7.** Low collar incision provides access for dividing the esophagus.
+
+<span id="fig-19-8"></span>![](_page_85_Figure_11.jpeg)
+
+**Figure 19-8.** The surgical specimen is removed through the abdomen.
 
 </div></details>
 
@@ -2251,9 +2498,9 @@ Most patients are cared for in an ICU for 24 hours for fluid management. Current
 
 ### Results</summary><div class="details-content">
 
-In 2001, we reported a series of 111 patients who underwent en bloc resection with either a two- or three-field dissection. All patients underwent en bloc esophagectomy for esophageal cancer between 1988 and 1998. The overall hospital mortality was 5.4%. This is similar to the mortality rates of conventional esophagectomy. Fifty-seven patients (51%) had an uncomplicated recovery. Complications occurred in 54 patients and were considered minor in 11 and major in 43 (including 6 postoperative deaths; 38.7%) (Table 19-1). The most common morbidity was pulmonary. Anastomotic leaks occurred in 13% of patients, and all healed with simple drainage. Recurrent nerve injuries occurred in only four patients and were unilateral in all. No patients required tracheostomy as a result of recurrent nerve injury.
+In 2001, we reported a series of 111 patients who underwent en bloc resection with either a two- or three-field dissection. All patients underwent en bloc esophagectomy for esophageal cancer between 1988 and 1998. The overall hospital mortality was 5.4%. This is similar to the mortality rates of conventional esophagectomy. Fifty-seven patients (51%) had an uncomplicated recovery. Complications occurred in 54 patients and were considered minor in 11 and major in 43 (including 6 postoperative deaths; 38.7%) ([Table 19-1](#table-19-1)). The most common morbidity was pulmonary. Anastomotic leaks occurred in 13% of patients, and all healed with simple drainage. Recurrent nerve injuries occurred in only four patients and were unilateral in all. No patients required tracheostomy as a result of recurrent nerve injury.
 
-Overall 5-year survival for all patients was 40%, with a median survival of 38 months (Fig. 19-9). Node-negative patients had a significantly improved 5-year survival of 75% compared with 26% in node-positive patients. More impressively, the 5-year survival for stage III patients was 39% compared with 11% after conventional transthoracic esophagectomy, as reported previously. This is especially important because most of the patients presenting with esophageal cancer have stage III disease. It is interesting to observe that for stage IV patients, 5-year survival was 27%. Survival also was significantly better for patients with locoregional N1 nodal metastases compared with distant M1a nodal metastases (31% vs. 21%, p = 0.03). Nonetheless, even for patients with distant nodal metastases (celiac or recurrent laryngeal nodes), there were long-term survivors. These data suggest that these patients should be classified as a subgroup of stage III rather than stage IV. Overall local recurrence rate was 8%, comparing favorably with the 31% to 45% incidence of local recurrence reported after conventional esophagectomy.
+Overall 5-year survival for all patients was 40%, with a median survival of 38 months ([Fig. 19-9](#fig-19-9)). Node-negative patients had a significantly improved 5-year survival of 75% compared with 26% in node-positive patients. More impressively, the 5-year survival for stage III patients was 39% compared with 11% after conventional transthoracic esophagectomy, as reported previously. This is especially important because most of the patients presenting with esophageal cancer have stage III disease. It is interesting to observe that for stage IV patients, 5-year survival was 27%. Survival also was significantly better for patients with locoregional N1 nodal metastases compared with distant M1a nodal metastases (31% vs. 21%, p = 0.03). Nonetheless, even for patients with distant nodal metastases (celiac or recurrent laryngeal nodes), there were long-term survivors. These data suggest that these patients should be classified as a subgroup of stage III rather than stage IV. Overall local recurrence rate was 8%, comparing favorably with the 31% to 45% incidence of local recurrence reported after conventional esophagectomy.
 
 In 2004, Lerut published the results of a cohort of 174 R0 resections in patients with esophageal cancer using en bloc esophagectomy with three-field lymphadenectomy. Hospital mortality was 1.2%, and morbidity was 58%. Overall 3- and 5-year survivals were 51% and 41.9%, respectively, with disease-free survival of 51.4% and 46.3%, respectively. The locoregional lymph node recurrence was impressively low at 5.2%. The 5-year survival for node-negative patients was 80.2% compared with 24.5% for node-positive patients. The prevalence of metastatic disease to the cervical nodes was high: 23% in patients with adenocarcinoma and 25% in patients with squamous cell carcinoma. The 5-year survival in patients with positive cervical nodes in middle-third carcinomas was 27.2%, leading the author to suggest that these nodes should be considered as regional (N1) rather than distant metastasis (M1b) in middle-third carcinomas.
 
@@ -2263,7 +2510,7 @@ Recently, we reported our series of 465 patients who had a R0 resection for esop
 
 <details class="med-details"><summary>
 
-#### Table 19-1 — Surgical Complications</summary><div class="details-content">
+#### <span id="table-19-1"></span>Table 19-1 — Surgical Complications</summary><div class="details-content">
 
 | Complication | N (%) |
 |---|---|
@@ -2294,11 +2541,13 @@ Recently, we reported our series of 465 patients who had a R0 resection for esop
 | Delirium tremens | 5 |
 | Peritonitis | 1 |
 
-* Including six patients with anastomotic leaks. From Altorki N, Skinner D. Should en bloc esophagectomy be the standard of care for esophageal carcinoma? Ann Surg. 2001;234:581–587, with permission.
+* Including six patients with anastomotic leaks. From Altorki N, Skinner D. Should en bloc esophagectomy be the standard of care for esophageal carcinoma? *Ann Surg*. 2001;234:581–587, with permission.
 
 </div></details>
 
-<span id="fig-19-9"></span>**Figure 19-9.** Five-year survival data.
+<span id="fig-19-9"></span>![](_page_86_Figure_6.jpeg)
+
+**Figure 19-9.** Five-year survival data.
 
 </div></details>
 
@@ -2329,10 +2578,10 @@ Clearly, this technique has not "caught on" yet among the majority of esophageal
 </div></details>
 
 </div></details>
-  
+   
 <details class="med-details"><summary>
 
-## Chapter 20: Three-Field Esophagectomy</summary><div class="details-content">
+## Chapter 20: Three-Field Esophagectomy (Juntendo)</summary><div class="details-content">
 
 The esophagus traverses the neck, mediastinum, and abdomen. Cancer of the thoracic esophagus can metastasize to lymph nodes and locate in any or all of these compartments. The rate of lymph node involvement is very high. Approximately 50% of tumors that invade the submucosa develop lymph node metastases, and the rate increases with increasing depth of invasion. Radical surgery for esophageal cancer therefore requires three-field lymphadenectomy. Our group has been performing three-field lymph node dissections since 1984 for all thoracoesophageal cancers. In this chapter we lay down the principles, describe the procedure, and discuss the outcome of this mode of treatment based on our experience.
 
@@ -2352,9 +2601,11 @@ Histopathologic assessment remains the gold standard for accurate lymph node sta
 
 ### Cumulative Experience at Juntendo University</summary><div class="details-content">
 
-A total of 1123 patients underwent transthoracic esophagectomy with extended en-bloc cervicothoracoabdominal (three-field) lymphadenectomy between January 1998 and December 2011 at Juntendo University in Japan for carcinoma of the esophagus. A total of 120,722 lymph nodes were dissected, and the average number of dissected lymph nodes per patient was 108. The lymph nodes removed en bloc with the specimen were dissected and classified into respective lymph node groups immediately after the operation by the surgeons who performed the esophagectomy, as outlined in the Japanese *Guidelines for Clinical and Pathologic Studies on Classification of Esophageal Cancer* (Fig. 20-1). This provides a more detailed lymph node classification than the *AJCC Cancer Staging Manual*. The pattern of lymphatic spread was investigated in detail, and the final pathologic diagnosis of lymph node metastasis was compared with the preoperative clinical evaluation to assess the accuracy of preoperative diagnosis for each lymph node station and each field.
+A total of 1123 patients underwent transthoracic esophagectomy with extended en-bloc cervicothoracoabdominal (three-field) lymphadenectomy between January 1998 and December 2011 at Juntendo University in Japan for carcinoma of the esophagus. A total of 120,722 lymph nodes were dissected, and the average number of dissected lymph nodes per patient was 108. The lymph nodes removed en bloc with the specimen were dissected and classified into respective lymph node groups immediately after the operation by the surgeons who performed the esophagectomy, as outlined in the Japanese *Guidelines for Clinical and Pathologic Studies on Classification of Esophageal Cancer* ([Fig. 20-1](#fig-20-1)). This provides a more detailed lymph node classification than the *AJCC Cancer Staging Manual*. The pattern of lymphatic spread was investigated in detail, and the final pathologic diagnosis of lymph node metastasis was compared with the preoperative clinical evaluation to assess the accuracy of preoperative diagnosis for each lymph node station and each field.
 
-<span id="fig-20-1"></span>**Figure 20-1.** Precise classification and station numbers of regional lymph nodes according to the Japanese Classification of Esophageal Cancer. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-1"></span>![](_page_89_Figure_2.jpeg)
+
+**Figure 20-1.** Precise classification and station numbers of regional lymph nodes according to the Japanese Classification of Esophageal Cancer. (Illustration adapted from an original sketch provided by author.)
 
 </div></details>
 
@@ -2366,17 +2617,23 @@ A total of 1123 patients underwent transthoracic esophagectomy with extended en-
 
 #### Rate of Lymph Node Metastasis</summary><div class="details-content">
 
-Three hundred forty-eight patients did not have any lymph node metastases, whereas 775 patients had one or more metastatic lymph nodes, yielding a metastatic rate of 69.1%. The rate of lymph node metastasis increased with the depth of tumor invasion and was 54.7% for pT1b, 66.4% for pT2, and 81.0% for pT3 or pT4 disease (Fig. 20-2). The TNM classification divides pT1 tumors into two subclasses, pT1a and pT1b. A pT1a tumor invades only mucosa, including muscularis mucosae (mucosal cancer), and pT1b tumor invades the submucosal layer (submucosal cancer). In the normal esophagus, many lymphatic vessels are found in the lamina propria mucosa. Therefore, lymphatic invasion can develop in comparatively early-stage cancer.
+Three hundred forty-eight patients did not have any lymph node metastases, whereas 775 patients had one or more metastatic lymph nodes, yielding a metastatic rate of 69.1%. The rate of lymph node metastasis increased with the depth of tumor invasion and was 54.7% for pT1b, 66.4% for pT2, and 81.0% for pT3 or pT4 disease ([Fig. 20-2](#fig-20-2)). The TNM classification divides pT1 tumors into two subclasses, pT1a and pT1b. A pT1a tumor invades only mucosa, including muscularis mucosae (mucosal cancer), and pT1b tumor invades the submucosal layer (submucosal cancer). In the normal esophagus, many lymphatic vessels are found in the lamina propria mucosa. Therefore, lymphatic invasion can develop in comparatively early-stage cancer.
 
-As shown in Figure 20-2, the rate of lymph node metastasis in esophageal cancer is three times higher than that of gastric cancer even for submucosal invasion (pT1b). The mean number of dissected lymph nodes was 41 in the neck, 35 in the mediastinum, and 31 in the abdomen. The mean number of metastatic lymph nodes was 0.7 in the neck, 1.8 in the mediastinum, and 1.6 in the abdomen.
+As shown in [Figure 20-2](#fig-20-2), the rate of lymph node metastasis in esophageal cancer is three times higher than that of gastric cancer even for submucosal invasion (pT1b). The mean number of dissected lymph nodes was 41 in the neck, 35 in the mediastinum, and 31 in the abdomen. The mean number of metastatic lymph nodes was 0.7 in the neck, 1.8 in the mediastinum, and 1.6 in the abdomen.
 
-The frequency and distribution of lymph node metastases differ according to the location of the tumor. The rate of lymph node metastasis was 65.6% in the upper thoracic esophagus (n=163), 69.1% in the middle thoracic esophagus (n=651), and 70.6% in the lower thoracic esophagus (n=309) (Fig. 20-3). Upper esophageal tumors had a greater frequency of metastases to cervical lymph nodes than tumors of the middle and lower esophagus. The frequency of metastasis to abdominal nodes was higher with lower esophageal cancer than with tumors of the middle and upper esophagus. However, we did sometimes find abdominal lymph node metastasis in upper esophageal cancer and cervical node metastasis in lower esophageal cancer. Midesophageal tumors frequently metastasized to lymph nodes in the neck and abdomen. Approximately 90% of cervical node metastases were caudal to the superior belly of the omohyoid muscle (Fig. 20-4).
+The frequency and distribution of lymph node metastases differ according to the location of the tumor. The rate of lymph node metastasis was 65.6% in the upper thoracic esophagus (n = 163), 69.1% in the middle thoracic esophagus (n = 651), and 70.6% in the lower thoracic esophagus (n = 309) ([Fig. 20-3](#fig-20-3)). Upper esophageal tumors had a greater frequency of metastases to cervical lymph nodes than tumors of the middle and lower esophagus. The frequency of metastasis to abdominal nodes was higher with lower esophageal cancer than with tumors of the middle and upper esophagus. However, we did sometimes find abdominal lymph node metastasis in upper esophageal cancer and cervical node metastasis in lower esophageal cancer. Midesophageal tumors frequently metastasized to lymph nodes in the neck and abdomen. Approximately 90% of cervical node metastases were caudal to the superior belly of the omohyoid muscle ([Fig. 20-4](#fig-20-4)).
 
-<span id="fig-20-2"></span>**Figure 20-2.** Rate of lymph node metastasis according to tumor invasion. Comparison between esophageal cancer and gastric cancer.
+<span id="fig-20-2"></span>![](_page_89_Figure_4.jpeg)
 
-<span id="fig-20-3"></span>**Figure 20-3.** Frequency and distribution of lymphatic spread according to location of esophageal cancer. (Illustration adapted from an original sketch provided by author.)
+**Figure 20-2.** Rate of lymph node metastasis according to tumor invasion. Comparison between esophageal cancer and gastric cancer.
 
-<span id="fig-20-4"></span>**Figure 20-4.** Lymph node metastasis in the neck. Among 140 patients with cervical metastatic nodes, 122 patients (87.1%) had positive nodes caudal to the omohyoid muscle. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-3"></span>![](_page_89_Figure_6.jpeg)
+
+**Figure 20-3.** Frequency and distribution of lymphatic spread according to location of esophageal cancer. (Illustration adapted from an original sketch provided by author.)
+
+<span id="fig-20-4"></span>![](_page_90_Figure_2.jpeg)
+
+**Figure 20-4.** Lymph node metastasis in the neck. Among 140 patients with cervical metastatic nodes, 122 patients (87.1%) had positive nodes caudal to the omohyoid muscle. (Illustration adapted from an original sketch provided by author.)
 
 </div></details>
 
@@ -2384,11 +2641,13 @@ The frequency and distribution of lymph node metastases differ according to the 
 
 #### Which Are the Frequently Involved Lymph Node Groups?</summary><div class="details-content">
 
-Analysis of lymphatic spread revealed that the sites with a metastatic rate of more than 20% (main metastatic sites) were located along the right recurrent laryngeal nerve in the upper mediastinum (106-recR: 23.8%) and along the lesser curvature of the proximal stomach (3: 21.6%) (Fig. 20-5). The sites with a metastatic rate ranging from 10% to 20% (common metastatic sites) were the right supraclavicular area (104: 14.4%), right cervical paraesophageal area along the recurrent laryngeal nerve (101R: 10.1%), along the left recurrent laryngeal nerve in the upper mediastinum (106-recL: 18.8%), the subcarinal area (107: 10.0%), the middle thoracic paraesophageal area (108: 13.0%), the lower thoracic paraesophageal area (110: 11.6%), the posterior mediastinal area (112: 17.0%), along the thoracic duct (TD: 10.0%), the right (1: 14.5%) and left (2: 16.6%) pericardial area, and along the left gastric artery (7: 18.0%). The nodes involved less often by metastases (metastatic rate <5%) were the middle deep cervical nodes (102R: 1.3%, 102L: 2.9%), the diaphragmatic nodes (111: 1.2%), the nodes along the common hepatic artery (8: 4.0%), and the nodes along the splenic artery (11: 4.4%).
+Analysis of lymphatic spread revealed that the sites with a metastatic rate of more than 20% (main metastatic sites) were located along the right recurrent laryngeal nerve in the upper mediastinum (106-recR: 23.8%) and along the lesser curvature of the proximal stomach (3: 21.6%) ([Fig. 20-5](#fig-20-5)). The sites with a metastatic rate ranging from 10% to 20% (common metastatic sites) were the right supraclavicular area (104: 14.4%), right cervical paraesophageal area along the recurrent laryngeal nerve (101R: 10.1%), along the left recurrent laryngeal nerve in the upper mediastinum (106-recL: 18.8%), the subcarinal area (107: 10.0%), the middle thoracic paraesophageal area (108: 13.0%), the lower thoracic paraesophageal area (110: 11.6%), the posterior mediastinal area (112: 17.0%), along the thoracic duct (TD: 10.0%), the right (1: 14.5%) and left (2: 16.6%) pericardial area, and along the left gastric artery (7: 18.0%). The nodes involved less often by metastases (metastatic rate <5%) were the middle deep cervical nodes (102R: 1.3%, 102L: 2.9%), the diaphragmatic nodes (111: 1.2%), the nodes along the common hepatic artery (8: 4.0%), and the nodes along the splenic artery (11: 4.4%).
 
 As noted earlier, this detailed analysis of the lymphatic spread of esophageal cancer based on pathologic findings revealed two main metastatic sites: one along the recurrent laryngeal nerve in the upper mediastinum, which Haagensen called the *recurrent nerve*, and the other along the lesser curvature of the proximal stomach. Unlike other gastrointestinal malignancies, frequent metastases to distant nodes are a distinctive feature of esophageal cancer.
 
-<span id="fig-20-5"></span>**Figure 20-5.** Main and common metastatic regional lymph node stations. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-5"></span>![](_page_90_Figure_13.jpeg)
+
+**Figure 20-5.** Main and common metastatic regional lymph node stations. (Illustration adapted from an original sketch provided by author.)
 
 </div></details>
 
@@ -2404,9 +2663,11 @@ The preoperative diagnostic workup for lymph node metastasis consists of endosco
 
 #### Criteria for Preoperative Diagnosis</summary><div class="details-content">
 
-Mediastinal and abdominal lymph nodes were considered to be metastatic when the largest diameter was greater than 10 mm, the node was almost round, the internal CT density or ultrasound echogenicity was low, and the margin of the node was clear. For cervical lymph nodes, the same criteria were applied, except that the diameter was set at greater than 5 mm. Figure 20-6 shows a metastatic lymph node along the right recurrent nerve in the superior mediastinum at the root of the right subclavian artery.
+Mediastinal and abdominal lymph nodes were considered to be metastatic when the largest diameter was greater than 10 mm, the node was almost round, the internal CT density or ultrasound echogenicity was low, and the margin of the node was clear. For cervical lymph nodes, the same criteria were applied, except that the diameter was set at greater than 5 mm. [Figure 20-6](#fig-20-6) shows a metastatic lymph node along the right recurrent nerve in the superior mediastinum at the root of the right subclavian artery.
 
-<span id="fig-20-6"></span>**Figure 20-6.** The *arrow* shows a metastatic node along the right recurrent laryngeal nerve (106-recR).
+<span id="fig-20-6"></span>![](_page_91_Picture_2.jpeg)
+
+**Figure 20-6.** The *arrow* shows a metastatic node along the right recurrent laryngeal nerve (106-recR).
 
 </div></details>
 
@@ -2414,11 +2675,13 @@ Mediastinal and abdominal lymph nodes were considered to be metastatic when the 
 
 #### Accuracy of Preoperative Diagnosis</summary><div class="details-content">
 
-Figure 20-7 depicts the accuracy of preoperative diagnosis of lymph node metastases compared with the subsequent pathologic examination. For each lymph node station, the true-positive rate was 85% to 94% in the neck, 79% to 86% in the thorax, and 78% to 86% in the abdomen. The false-negative and false-positive rates for metastatic lymph nodes are also shown in the figure.
+[Figure 20-7](#fig-20-7) depicts the accuracy of preoperative diagnosis of lymph node metastases compared with the subsequent pathologic examination. For each lymph node station, the true-positive rate was 85% to 94% in the neck, 79% to 86% in the thorax, and 78% to 86% in the abdomen. The false-negative and false-positive rates for metastatic lymph nodes are also shown in the figure.
 
 Stringent assessment recognizes diagnostic failure at any lymph node station as a misdiagnosis for the patient. According to this criterion, the true-positive rate for lymphatic spread was 71.3% in the neck, 42.0% in the mediastinum, and 57.9% in the abdomen. The true-positive rate for all lymph node stations throughout the three fields was reduced to 23.2%. Likewise, the false-negative rate for lymph nodes metastases was 13.9% in the cervical field, 35.6% in the thoracic field, and 33.5% in the abdominal field. The overall false-negative rate for lymph node metastases increases to 53.7% across all the three fields.
 
-<span id="fig-20-7"></span>**Figure 20-7.** True-positive, false-negative, and false-positive clinical diagnostic rates for lymph nodes metastases at each regional lymph node station. A. Cervical field. B. Thoracic field. C. Abdominal field. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-7"></span>![](_page_91_Figure_11.jpeg)
+
+**Figure 20-7.** True-positive, false-negative, and false-positive clinical diagnostic rates for lymph nodes metastases at each regional lymph node station. *A*. Cervical field. *B*. Thoracic field. *C*. Abdominal field. (Illustration adapted from an original sketch provided by author.)
 
 </div></details>
 
@@ -2430,25 +2693,39 @@ Stringent assessment recognizes diagnostic failure at any lymph node station as 
 
 Radical esophagectomy should encompass all lymph node stations having a greater than 10% incidence of metastases. Nevertheless, lymphatic metastasis cannot be diagnosed precisely either by ultrasonography or CT imaging before surgery. Therefore, radical surgery for cancer of the thoracic esophagus requires complete three-field lymph node dissection.
 
-The first step of the operation is an anterolateral thoracotomy through the fourth intercostal space. The thoracic duct, azygos vein, pleura, and periesophageal tissues including lymph nodes and lymphatic channels in the mediastinum are dissected en bloc. The right and left recurrent laryngeal nerves are identified, and the upper mediastinal lymph nodes (including the node group of the recurrent laryngeal nerve chain) are cleared (Fig. 20-8). After this procedure, paratracheal lymph nodes on both sides (Fig. 20-9), subcarinal, right and left hilar lymph nodes, posterior mediastinal lymph nodes adjacent to the descending aorta and left pleura, and diaphragmatic lymph nodes are dissected en bloc (Fig. 20-1). The lymph nodes inside the aortic arch (left tracheobronchial) are dissected separately (Fig. 20-10). To avoid ventilatory impairment, the right or left bronchial artery and the pulmonary branches of the vagus nerve should be preserved (Fig. 20-11).
+The first step of the operation is an anterolateral thoracotomy through the fourth intercostal space. The thoracic duct, azygos vein, pleura, and periesophageal tissues including lymph nodes and lymphatic channels in the mediastinum are dissected en bloc. The right and left recurrent laryngeal nerves are identified, and the upper mediastinal lymph nodes (including the node group of the recurrent laryngeal nerve chain) are cleared ([Fig. 20-8](#fig-20-8)). After this procedure, paratracheal lymph nodes on both sides ([Fig. 20-9](#fig-20-9)), subcarinal, right and left hilar lymph nodes, posterior mediastinal lymph nodes adjacent to the descending aorta and left pleura, and diaphragmatic lymph nodes are dissected en bloc ([Fig. 20-1](#fig-20-1)). The lymph nodes inside the aortic arch (left tracheobronchial) are dissected separately ([Fig. 20-10](#fig-20-10)). To avoid ventilatory impairment, the right or left bronchial artery and the pulmonary branches of the vagus nerve should be preserved ([Fig. 20-11](#fig-20-11)).
 
-For the abdominal procedure, after an upper midline laparotomy, en-bloc dissection of lymph nodes is carried out along the cardia, lesser curvature, left gastric artery, celiac axis, common hepatic artery, and splenic artery (Fig. 20-12). The left gastric artery is cut at its origin. Along with all these dissected lymph nodes, the proximal stomach is cut between the junction of the right and left gastric arteries to the farthest point in the fundus using a linear stapler (Fig. 20-13). The gastric remnant, based on the right gastroepiploic artery and right gastric artery, is used for esophageal reconstruction. We do not perform pyloroplasty. The extent of abdominal lymph node dissection is very similar to that of D2 lymph node dissection for gastric cancer surgery.
+For the abdominal procedure, after an upper midline laparotomy, en-bloc dissection of lymph nodes is carried out along the cardia, lesser curvature, left gastric artery, celiac axis, common hepatic artery, and splenic artery ([Fig. 20-12](#fig-20-12)). The left gastric artery is cut at its origin. Along with all these dissected lymph nodes, the proximal stomach is cut between the junction of the right and left gastric arteries to the farthest point in the fundus using a linear stapler ([Fig. 20-13](#fig-20-13)). The gastric remnant, based on the right gastroepiploic artery and right gastric artery, is used for esophageal reconstruction. We do not perform pyloroplasty. The extent of abdominal lymph node dissection is very similar to that of D2 lymph node dissection for gastric cancer surgery.
 
-In the neck, a collar incision is made as in thyroidectomy. The middle deep cervical and supraclavicular lymph nodes (102 and 104 in Fig. 20-1), which are located lateral to the common carotid artery, ventral to the anterior scalene muscle and phrenic nerve, and inferior to the superior belly of the omohyoid muscle, are removed. Then the lymph nodes along the cervical recurrent laryngeal nerve are excised (Fig. 20-14). These lymph nodes are between the common carotid artery and trachea (101 in Fig. 20-1), and they should be removed meticulously and carefully so as not to traumatize the recurrent laryngeal nerve.
+In the neck, a collar incision is made as in thyroidectomy. The middle deep cervical and supraclavicular lymph nodes (102 and 104 in [Fig. 20-1](#fig-20-1)), which are located lateral to the common carotid artery, ventral to the anterior scalene muscle and phrenic nerve, and inferior to the superior belly of the omohyoid muscle, are removed. Then the lymph nodes along the cervical recurrent laryngeal nerve are excised ([Fig. 20-14](#fig-20-14)). These lymph nodes are between the common carotid artery and trachea (101 in [Fig. 20-1](#fig-20-1)), and they should be removed meticulously and carefully so as not to traumatize the recurrent laryngeal nerve.
 
-<span id="fig-20-8"></span>**Figure 20-8.** Lymph node dissection is started with identification of the right recurrent laryngeal nerve in the utmost upper mediastinum. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-8"></span>![](_page_92_Picture_2.jpeg)
 
-<span id="fig-20-9"></span>**Figure 20-9.** Upper mediastinal dissection. The right and left recurrent nerves are separated, and tissues are cleared around the nerves. (Illustration adapted from an original sketch provided by author.)
+**Figure 20-8.** Lymph node dissection is started with identification of the right recurrent laryngeal nerve in the utmost upper mediastinum. (Illustration adapted from an original sketch provided by author.)
 
-<span id="fig-20-10"></span>**Figure 20-10.** Completion of dissection inside the aortic arch. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-9"></span>![](_page_92_Picture_13.jpeg)
 
-<span id="fig-20-11"></span>**Figure 20-11.** Preservation of the right bronchial artery and pulmonary branches of the vagus nerve. (Illustration adapted from an original sketch provided by author.)
+**Figure 20-9.** Upper mediastinal dissection. The right and left recurrent nerves are separated, and tissues are cleared around the nerves. (Illustration adapted from an original sketch provided by author.)
 
-<span id="fig-20-12"></span>**Figure 20-12.** Dissection areas in the abdomen. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-10"></span>![](_page_93_Picture_2.jpeg)
 
-<span id="fig-20-13"></span>**Figure 20-13.** The cut line of the stomach. The proximal stomach is cut between the junction of the right and left gastric arteries to the farthest point on the fundus. (Illustration adapted from an original sketch provided by author.)
+**Figure 20-10.** Completion of dissection inside the aortic arch. (Illustration adapted from an original sketch provided by author.)
 
-<span id="fig-20-14"></span>**Figure 20-14.** Dissection along the cervical recurrent laryngeal nerve on the left side. (Illustration adapted from an original sketch provided by author.)
+<span id="fig-20-11"></span>![](_page_93_Picture_4.jpeg)
+
+**Figure 20-11.** Preservation of the right bronchial artery and pulmonary branches of the vagus nerve. (Illustration adapted from an original sketch provided by author.)
+
+<span id="fig-20-12"></span>![](_page_93_Picture_6.jpeg)
+
+**Figure 20-12.** Dissection areas in the abdomen. (Illustration adapted from an original sketch provided by author.)
+
+<span id="fig-20-13"></span>![](_page_93_Picture_8.jpeg)
+
+**Figure 20-13.** The cut line of the stomach. The proximal stomach is cut between the junction of the right and left gastric arteries to the farthest point on the fundus. (Illustration adapted from an original sketch provided by author.)
+
+<span id="fig-20-14"></span>![](_page_94_Picture_2.jpeg)
+
+**Figure 20-14.** Dissection along the cervical recurrent laryngeal nerve on the left side. (Illustration adapted from an original sketch provided by author.)
 
 <details class="med-details"><summary>
 
@@ -2456,9 +2733,11 @@ In the neck, a collar incision is made as in thyroidectomy. The middle deep cerv
 
 The patient is usually extubated in the operating theater when the PaO<sub>2</sub> level (torrs) exceeds three times the FiO<sub>2</sub> (%). The patient is transferred to the surgical ICU and is monitored there for a period of approximately 1 week.
 
-The surgeon should be aware of four main complications in the postoperative course of esophagectomy with three-field lymph node dissection (Fig. 20-15). They consist of pulmonary complications, cardiac complications, anastomotic leakage, and recurrent nerve paralysis. Among these, pulmonary complications are by far the most common and of grave concern. Pulmonary compromise may be caused by the wide dissection around the trachea and bronchi, which leads to various degrees of ischemia of the respiratory tract and a decreased cough reflex.
+The surgeon should be aware of four main complications in the postoperative course of esophagectomy with three-field lymph node dissection ([Fig. 20-15](#fig-20-15)). They consist of pulmonary complications, cardiac complications, anastomotic leakage, and recurrent nerve paralysis. Among these, pulmonary complications are by far the most common and of grave concern. Pulmonary compromise may be caused by the wide dissection around the trachea and bronchi, which leads to various degrees of ischemia of the respiratory tract and a decreased cough reflex.
 
-<span id="fig-20-15"></span>**Figure 20-15.** Postoperative complications after three-field dissection. Anastomotic leakage includes radiologic minor leakage (2.8%) and clinical fistula formation (3.2%).
+<span id="fig-20-15"></span>![](_page_94_Figure_5.jpeg)
+
+**Figure 20-15.** Postoperative complications after three-field dissection. Anastomotic leakage includes radiologic minor leakage (2.8%) and clinical fistula formation (3.2%).
 
 </div></details>
 
@@ -2466,13 +2745,17 @@ The surgeon should be aware of four main complications in the postoperative cour
 
 #### Pulmonary Complications</summary><div class="details-content">
 
-Hypoxemia requires inhalation of a high concentration of oxygen and was seen in 25.4% of the study group (Fig. 20-16). It is caused mainly by pneumonia, atelectasis, and pulmonary edema. Pulmonary edema or potential pulmonary edema sometimes develops in radical esophagectomy patients after removal of the thoracic duct, which causes lymphatic retention in the retroperitoneum, hypoproteinemia, and depletion of intravascular volume. The rate of fluid infusion during the procedure is maintained at approximately 7 to 8 mL/kg/h, taking into account the blood loss and urine output (Fig. 20-17). Consequently, potential pulmonary edema can occur in the resorption period approximately 48 hours postoperatively. It can be controlled successfully by administration of dopamine, albumin, and diuretics (e.g., furosemide). It should be borne in mind that intraoperative restriction of fluid transfusion to keep the lungs "dry" can result in tachycardia with serious hypotension postoperatively.
+Hypoxemia requires inhalation of a high concentration of oxygen and was seen in 25.4% of the study group ([Fig. 20-16](#fig-20-16)). It is caused mainly by pneumonia, atelectasis, and pulmonary edema. Pulmonary edema or potential pulmonary edema sometimes develops in radical esophagectomy patients after removal of the thoracic duct, which causes lymphatic retention in the retroperitoneum, hypoproteinemia, and depletion of intravascular volume. The rate of fluid infusion during the procedure is maintained at approximately 7 to 8 mL/kg/h, taking into account the blood loss and urine output ([Fig. 20-17](#fig-20-17)). Consequently, potential pulmonary edema can occur in the resorption period approximately 48 hours postoperatively. It can be controlled successfully by administration of dopamine, albumin, and diuretics (e.g., furosemide). It should be borne in mind that intraoperative restriction of fluid transfusion to keep the lungs "dry" can result in tachycardia with serious hypotension postoperatively.
 
 Pulmonary embolism is a less common complication, but one should maintain a high degree of suspicion in patients with no obvious cause of hypoxemia. Its prevention is very important. It is advisable to use pneumatic pressure garments on both legs and to administer heparin (200–250 U/kg per day) throughout the perioperative period until patients are mobile.
 
-<span id="fig-20-16"></span>**Figure 20-16.** Pulmonary complications after three-field dissection.
+<span id="fig-20-16"></span>![](_page_94_Figure_8.jpeg)
 
-<span id="fig-20-17"></span>**Figure 20-17.** Perioperative management of three-field dissection.
+**Figure 20-16.** Pulmonary complications after three-field dissection.
+
+<span id="fig-20-17"></span>![](_page_95_Figure_3.jpeg)
+
+**Figure 20-17.** Perioperative management of three-field dissection.
 
 </div></details>
 
@@ -2520,11 +2803,11 @@ The long-term survival rate was calculated according to the Kaplan–Meier metho
 
 #### Statistical Analysis</summary><div class="details-content">
 
-The survival curve of the three-field dissection group was compared with the survival curve of the historical group (limited two-field dissection) before 1984. The overall 5-year survival rate for the three-field group was 62.5%, whereas in the limited two-field group it was 37.1% (p < 0.001). The effect of extensive lymph node dissection on long-term survival also was examined using multivariate analysis (Cox regression model). Ten factors such as age, gender, tumor location, number of metastatic nodes, extent of lymph node dissection (three vs. two fields), cellular differentiation, curativity, pT category, pN category, and clinical M category were entered into the model as covariates. Consequently, the extent of lymph node dissection was selected as one of the independent prognostic factors with a risk ratio of 0.5501 (Table 20-1). This means that systematic lymph node dissection contributes to improved long-term survival for squamous cell carcinoma of the thoracic esophagus.
+The survival curve of the three-field dissection group was compared with the survival curve of the historical group (limited two-field dissection) before 1984. The overall 5-year survival rate for the three-field group was 62.5%, whereas in the limited two-field group it was 37.1% (p < 0.001). The effect of extensive lymph node dissection on long-term survival also was examined using multivariate analysis (Cox regression model). Ten factors such as age, gender, tumor location, number of metastatic nodes, extent of lymph node dissection (three vs. two fields), cellular differentiation, curativity, pT category, pN category, and clinical M category were entered into the model as covariates. Consequently, the extent of lymph node dissection was selected as one of the independent prognostic factors with a risk ratio of 0.5501 ([Table 20-1](#table-20-1)). This means that systematic lymph node dissection contributes to improved long-term survival for squamous cell carcinoma of the thoracic esophagus.
 
 <details class="med-details"><summary>
 
-##### Table 20-1 — Independent Prognostic Factors Examined by Cox Regression Model</summary><div class="details-content">
+##### <span id="table-20-1"></span>Table 20-1 — Independent Prognostic Factors Examined by Cox Regression Model</summary><div class="details-content">
 
 | COVARIATES | SIGNIFICANCE | RISK RATIO |
 |---|---|---|
@@ -2555,15 +2838,21 @@ The survival curve of the three-field dissection group was compared with the sur
 
 #### Relationship Between the Pattern of Lymph Node Metastasis and Prognosis</summary><div class="details-content">
 
-The long-term survival rate of our series is shown in Figure 20-18. The 5-year survival rate was 62.5%. The survival rate decreased as the number of metastatic lymph nodes increased irrespective of the site of metastasis. The prognosis of 687 patients who underwent three-field lymph node dissection was analyzed to correlate lymph node metastasis pattern with prognosis.
+The long-term survival rate of our series is shown in [Figure 20-18](#fig-20-18). The 5-year survival rate was 62.5%. The survival rate decreased as the number of metastatic lymph nodes increased irrespective of the site of metastasis. The prognosis of 687 patients who underwent three-field lymph node dissection was analyzed to correlate lymph node metastasis pattern with prognosis.
 
-The number of positive nodes has a close relationship with prognosis. According to the version 7 TNM classification, the cases were categorized into four groups. N0 for no LN metastasis, N1 for metastasis in 1 to 2 regional lymph nodes, N2 metastasis in 3 to 6 regional lymph nodes, N3 for metastasis in 7 or more regional lymph nodes. Therefore, the number of lymph node metastases is an independent predictor of prognosis. The 5-year survival rates for patients of the N0, N1, N2, and N3 groups were 81.0%, 69.3%, 44.9%, and 19.1%, respectively (Fig. 20-19). Figure 20-20 shows survival rates of the patients grouped by TNM stage. The 5-year survival rates decreased according to stage for stages I to III. However, stage IV cases, which include M1, survived 5 years at a rate of 34.8%. In our series, the 5-year survival rate of stage IV exceeded that of stage IIIC, but it was not statistically significant. The reason of this phenomena was not clear, but thought to be derived from overestimation of M1 category which includes lymph node metastasis in the neck. This clearly demonstrates that extensive lymph node dissection in the neck, mediastinum, and abdomen can contribute to long-term survival in esophageal cancer.
+The number of positive nodes has a close relationship with prognosis. According to the version 7 TNM classification, the cases were categorized into four groups. N0 for no LN metastasis, N1 for metastasis in 1 to 2 regional lymph nodes, N2 metastasis in 3 to 6 regional lymph nodes, N3 for metastasis in 7 or more regional lymph nodes. Therefore, the number of lymph node metastases is an independent predictor of prognosis. The 5-year survival rates for patients of the N0, N1, N2, and N3 groups were 81.0%, 69.3%, 44.9%, and 19.1%, respectively ([Fig. 20-19](#fig-20-19)). [Figure 20-20](#fig-20-20) shows survival rates of the patients grouped by TNM stage. The 5-year survival rates decreased according to stage for stages I to III. However, stage IV cases, which include M1, survived 5 years at a rate of 34.8%. In our series, the 5-year survival rate of stage IV exceeded that of stage IIIC, but it was not statistically significant. The reason of this phenomena was not clear, but thought to be derived from overestimation of M1 category which includes lymph node metastasis in the neck. This clearly demonstrates that extensive lymph node dissection in the neck, mediastinum, and abdomen can contribute to long-term survival in esophageal cancer.
 
-<span id="fig-20-18"></span>**Figure 20-18.** Overall survival for all cases. (Kaplan–Meier method).
+<span id="fig-20-18"></span>![](_page_96_Figure_7.jpeg)
 
-<span id="fig-20-19"></span>**Figure 20-19.** Survival curves according to N category.
+**Figure 20-18.** Overall survival for all cases. (Kaplan–Meier method).
 
-<span id="fig-20-20"></span>**Figure 20-20.** Survival curves according to stage groupings.
+<span id="fig-20-19"></span>![](_page_96_Figure_13.jpeg)
+
+**Figure 20-19.** Survival curves according to N category.
+
+<span id="fig-20-20"></span>![](_page_97_Figure_2.jpeg)
+
+**Figure 20-20.** Survival curves according to stage groupings.
 
 </div></details>
 
@@ -2578,7 +2867,9 @@ In Japan, three-field lymph node dissection is used routinely for the surgical t
 </div></details>
 
 </div></details>
-  
+
+---
+
 <details class="med-details"><summary>
 
 ## Chapter 21: Left Thoracoabdominal Approach</summary><div class="details-content">
@@ -2609,9 +2900,11 @@ An evaluation of preoperative risk factors includes an assessment of pulmonary a
 
 It is suggested that all esophageal procedures, including thoracoabdominal esophagectomy, begin with endoscopy in the operating room. Repeat endoscopy provides confirmation of the location of the tumor and evaluation of the esophagus for a second lesion or extension into the stomach. With tumors of the middle and upper thirds of the esophagus, bronchoscopy also should be performed. A double-lumen endotracheal tube is placed, permitting deflation of the left lung during the thoracic dissection, and broad-spectrum antibiotics are given before surgical incision and may need redosing during the procedure. We encourage the liberal use of an epidural catheter in the management of postoperative pain, given the extent of the incision.
 
-The patient is positioned in the right lateral decubitus position, which permits access to both the left side of the chest and the upper abdomen. The initial step is an exploration of the abdomen through the medial portion of the incision. A valuable landmark in planning the abdominal portion of the incision is to aim the medial aspect at a point halfway between the xiphoid and umbilicus. The abdominal portion of the incision permits inspection of the liver, palpation of the celiac nodes, and further evaluation of the stomach. With no metastatic disease identified, the incision is carried into the chest over the seventh or eighth rib (Fig. 21-1). The higher the interspace, the easier it is to perform the anastomosis. As the diaphragm is divided, it should be clearly marked with stitches to allow reapproximation at the conclusion of the case.
+The patient is positioned in the right lateral decubitus position, which permits access to both the left side of the chest and the upper abdomen. The initial step is an exploration of the abdomen through the medial portion of the incision. A valuable landmark in planning the abdominal portion of the incision is to aim the medial aspect at a point halfway between the xiphoid and umbilicus. The abdominal portion of the incision permits inspection of the liver, palpation of the celiac nodes, and further evaluation of the stomach. With no metastatic disease identified, the incision is carried into the chest over the seventh or eighth rib ([Fig. 21-1](#fig-21-1)). The higher the interspace, the easier it is to perform the anastomosis. As the diaphragm is divided, it should be clearly marked with stitches to allow reapproximation at the conclusion of the case.
 
-<span id="fig-21-1"></span>**Figure 21-1.** The incision is carried into the chest over the seventh rib. The higher the interspace, the easier it is to perform the anastomosis. As the diaphragm is divided, it should be clearly marked with stitches to allow reapproximation at the close of the procedure.
+<span id="fig-21-1"></span>![](_page_99_Picture_2.jpeg)
+
+**Figure 21-1.** The incision is carried into the chest over the seventh rib. The higher the interspace, the easier it is to perform the anastomosis. As the diaphragm is divided, it should be clearly marked with stitches to allow reapproximation at the close of the procedure.
 
 <details class="med-details"><summary>
 
@@ -2641,17 +2934,23 @@ Management of the left gastric artery is best accomplished by exposing it with t
 
 #### Transection of the Stomach</summary><div class="details-content">
 
-For a distal esophagectomy performed for cancer, the celiac axis nodes and the nodes along the left gastric artery should have been swept up with the specimen. The stomach should be transected from a point on the greater curvature opposite the emergence of the left gastroepiploic artery to a point on the lesser curvature below the lowest branch of the left gastric artery. The fundus should be preserved to maximize the length of the gastric tube, and it is important not to assume adequate gastric length and amputate the conduit prematurely (Fig. 21-2). After the stapler is fired and the stomach is divided, the staple line is turned in with 4-0 silk Lembert stitches (Fig. 21-3).
+For a distal esophagectomy performed for cancer, the celiac axis nodes and the nodes along the left gastric artery should have been swept up with the specimen. The stomach should be transected from a point on the greater curvature opposite the emergence of the left gastroepiploic artery to a point on the lesser curvature below the lowest branch of the left gastric artery. The fundus should be preserved to maximize the length of the gastric tube, and it is important not to assume adequate gastric length and amputate the conduit prematurely ([Fig. 21-2](#fig-21-2)). After the stapler is fired and the stomach is divided, the staple line is turned in with 4-0 silk Lembert stitches ([Fig. 21-3](#fig-21-3)).
 
 If required, further mobilization of the stomach is performed via a Kocher maneuver starting at the pylorus and extending around the curve of the duodenum. Care must be taken to avoid the right gastric artery and the common bile duct during the dissection. The duodenum and pancreas then are swept off the inferior vena cava by blunt dissection. The Kocher maneuver can mobilize the stomach sufficiently to reach to the thoracic inlet, which is rarely needed for the thoracoabdominal approach.
 
-Drainage of the stomach remains controversial. In our opinion, a gastric drainage procedure makes sense from a physiologic perspective; that is, after vagotomy, there is clinical experience to suggest that obstructive symptoms are encountered without a drainage procedure. A pyloromyotomy is preferred because it does not distract from the length of the stomach. The pyloric muscle may retain some of its barrier capacity against bile reflux into the esophagus (Fig. 21-4). Initially, traction sutures are placed on either side of the pyloric vein to facilitate exposure. Once the submucosal plane is reached, the incision is carried onto the first portion of the duodenum and distal stomach. The myotomy is usually limited to 2 cm. If the mucosa is inadvertently violated, the safest course of action is to convert the procedure to a Heineke-Mikulicz pyloroplasty with coverage of the pyloroplasty with omentum.
+Drainage of the stomach remains controversial. In our opinion, a gastric drainage procedure makes sense from a physiologic perspective; that is, after vagotomy, there is clinical experience to suggest that obstructive symptoms are encountered without a drainage procedure. A pyloromyotomy is preferred because it does not distract from the length of the stomach. The pyloric muscle may retain some of its barrier capacity against bile reflux into the esophagus ([Fig. 21-4](#fig-21-4)). Initially, traction sutures are placed on either side of the pyloric vein to facilitate exposure. Once the submucosal plane is reached, the incision is carried onto the first portion of the duodenum and distal stomach. The myotomy is usually limited to 2 cm. If the mucosa is inadvertently violated, the safest course of action is to convert the procedure to a Heineke-Mikulicz pyloroplasty with coverage of the pyloroplasty with omentum.
 
-<span id="fig-21-2"></span>**Figure 21-2.** The fundus should be preserved (A, solid line) to maximize gastric length, which permits extension of the gastric tube to the neck (a, solid line) if necessary. For a distal lesion where only a portion of the esophagus needs to be resected (b, dashed line), more of the gastric fundus may be taken in creating the gastric conduit (B, dashed line). It is important not to assume adequate gastric length and amputate the conduit prematurely. The circles marked A' and B' indicate the proposed esophagogastric site.
+<span id="fig-21-2"></span>![](_page_100_Picture_2.jpeg)
 
-<span id="fig-21-3"></span>**Figure 21-3.** The staple line of the gastric conduit is turned in with interrupted Lembert sutures before completing the anastomosis.
+**Figure 21-2.** The fundus should be preserved (*A*, *solid line*) to maximize gastric length, which permits extension of the gastric tube to the neck (*a*, *solid line*) if necessary. For a distal lesion where only a portion of the esophagus needs to be resected (*b*, *dashed line*), more of the gastric fundus may be taken in creating the gastric conduit (*B*, *dashed line*). It is important not to assume adequate gastric length and amputate the conduit prematurely. The *circles* marked *A*' and *B*' indicate the proposed esophagogastric site.
 
-<span id="fig-21-4"></span>**Figure 21-4.** A. A 2-cm incision across the pylorus provides exposure of the muscle for division down to the mucosal layer. B. The principal risk of entry is where the duodenal mucosa covers the undersurface of the pyloric muscle.
+<span id="fig-21-3"></span>![](_page_100_Picture_5.jpeg)
+
+**Figure 21-3.** The staple line of the gastric conduit is turned in with interrupted Lembert sutures before completing the anastomosis.
+
+<span id="fig-21-4"></span>![](_page_101_Picture_2.jpeg)
+
+**Figure 21-4.** *A*. A 2-cm incision across the pylorus provides exposure of the muscle for division down to the mucosal layer. *B*. The principal risk of entry is where the duodenal mucosa covers the undersurface of the pyloric muscle.
 
 </div></details>
 
@@ -2659,7 +2958,7 @@ Drainage of the stomach remains controversial. In our opinion, a gastric drainag
 
 #### Anastomosis</summary><div class="details-content">
 
-There are multiple options for performing the gastroesophageal anastomosis. Many advocate for a stapled approach which can be done in a number of different ways. However, we prefer a two-layer hand-sewn technique with interrupted 4-0 silk sutures (Fig. 21-5). Basic principles of performing the anastomosis are (1) to avoid placing crushing clamps on tissue to be included in the anastomosis and (2) to transect the esophagus with a fresh knife blade rather than cautery. No matter how performed, there must be no tension on the anastomosis. The interrupted fashion of the anastomosis does not allow for purse-stringing and permits blood vessels to reach the anastomotic edge. If the anastomosis is sufficiently secure after these basic principles are followed, there should be no concern about placing the anastomosis in the mediastinum.
+There are multiple options for performing the gastroesophageal anastomosis. Many advocate for a stapled approach which can be done in a number of different ways. However, we prefer a two-layer hand-sewn technique with interrupted 4-0 silk sutures ([Fig. 21-5](#fig-21-5)). Basic principles of performing the anastomosis are (1) to avoid placing crushing clamps on tissue to be included in the anastomosis and (2) to transect the esophagus with a fresh knife blade rather than cautery. No matter how performed, there must be no tension on the anastomosis. The interrupted fashion of the anastomosis does not allow for purse-stringing and permits blood vessels to reach the anastomotic edge. If the anastomosis is sufficiently secure after these basic principles are followed, there should be no concern about placing the anastomosis in the mediastinum.
 
 The anastomosis is performed end (esophagus) to side (gastric tube). A point approximately 2 cm from the gastric suture line is selected, and a small circle of the size of a nickel is scored in the serosa with a knife blade. The small submucosal vessels exposed by this maneuver then are ligated with fine silk. A long right-angled clamp is placed just distal to the planned line of transection and the specimen remains attached to the proximal esophagus and is reflected proximally to expose the planned line of transection. The two-layer anastomosis is performed in the following fashion: The first row of 4-0 silk sutures is placed in a horizontal mattress fashion between the muscularis of the esophagus and the serosa–muscular layer of the stomach. A total of four to six sutures are placed posteriorly and tied while the stomach is brought up to the esophagus (because the esophagus is a fixed structure). This outer posterior layer should cover only one-third of the circumference, which provides exposure for placement of an inner layer.
 
@@ -2667,7 +2966,9 @@ The esophagus then is opened sharply 4 to 5 mm distal to the initial row of sutu
 
 A jejunostomy tube is placed at the conclusion of the case for feeding purposes to speed recovery, to improve nutrition, and to promote healing. Patients are usually discharged on tube feeding and limited oral intake. The jejunostomy tube is usually removed at the first postoperative visit.
 
-<span id="fig-21-5"></span>**Figure 21-5.** A. The first step in the Sweet anastomosis developed at the Massachusetts General Hospital. An end-to-side anastomosis is initiated with excision of a button of gastric wall. This button must not be placed too close to the gastric turn-in. The button actually can be placed quite close to the greater curvature, often between the last two branches of the gastroepiploic arcade. The outer posterior row of the anastomosis is performed with interrupted mattress sutures of fine silk placed across the longitudinal muscle fibers of the esophagus. All these sutures are placed before tying. B. The gastric button has been excised. With the specimen still attached and excluded with the right-angle clamp, the mucosae of the esophagus and stomach are approximated with interrupted fine silk sutures. C. The corner of the anastomosis is turned to begin the anterior row of sutures. These are placed, again in interrupted fashion, with the knots tied on the inside. D. Omentum is brought into the chest and used to wrap the anastomosis.
+<span id="fig-21-5"></span>![](_page_101_Picture_6.jpeg)
+
+**Figure 21-5.** *A*. The first step in the Sweet anastomosis developed at the Massachusetts General Hospital. An end-to-side anastomosis is initiated with excision of a button of gastric wall. This button must not be placed too close to the gastric turn-in. The button actually can be placed quite close to the greater curvature, often between the last two branches of the gastroepiploic arcade. The outer posterior row of the anastomosis is performed with interrupted mattress sutures of fine silk placed across the longitudinal muscle fibers of the esophagus. All these sutures are placed before tying. *B*. The gastric button has been excised. With the specimen still attached and excluded with the right-angle clamp, the mucosae of the esophagus and stomach are approximated with interrupted fine silk sutures. *C*. The corner of the anastomosis is turned to begin the anterior row of sutures. These are placed, again in interrupted fashion, with the knots tied on the inside. *D*. Omentum is brought into the chest and used to wrap the anastomosis.
 
 </div></details>
 
@@ -2729,6 +3030,8 @@ This approach used by the MGH group was popularized by Sweet after being describ
 
 </div></details>
 
+---
+
 <details class="med-details"><summary>
 
 ## Chapter 22: Left Transthoracic Esophagectomy (Ellis)</summary><div class="details-content">
@@ -2767,51 +3070,65 @@ In addition to oncologic staging and standard preoperative testing, preoperative
 
 ### Technical Principles</summary><div class="details-content">
 
-After placing a dual-lumen endotracheal tube in the correct position, as confirmed by bronchoscopy, an 18F nasogastric tube is placed. The patient is placed in the right lateral decubitus position with the arm positioned such that it is flexed 45 to 90 degrees at the shoulder and elbow. The bed is then flexed at the patient's hips to widen the intercostal spaces. The surgeon stands to the patient's left side with the assistant to the patient's right side (Fig. 22-1).
+After placing a dual-lumen endotracheal tube in the correct position, as confirmed by bronchoscopy, an 18F nasogastric tube is placed. The patient is placed in the right lateral decubitus position with the arm positioned such that it is flexed 45 to 90 degrees at the shoulder and elbow. The bed is then flexed at the patient's hips to widen the intercostal spaces. The surgeon stands to the patient's left side with the assistant to the patient's right side ([Fig. 22-1](#fig-22-1)).
+
+<span id="fig-22-1"></span>![](_page_105_Picture_6.jpeg)
+
+**Figure 22-1.** The patient is positioned for a left transthoracic esophagectomy. Skin incision provides exposure of the diaphragm and thoracic esophagus. The surgeon stands on the left side of the patient, and the first assistant stands on the right side of the patient.
 
 The patient's skin is prepared and draped widely to the right of the midline in the event that a laparotomy or thoracoabdominal incision is required. The eighth rib is identified by counting the ribs from caudad to cephalad by palpation. The skin is incised over the seventh intercostal space from 4 cm lateral to the costal margin to the posterior axillary line. The latissimus dorsi muscle is divided, but care is taken to preserve the serratus anterior muscle by freeing the inferior attachment of the muscle and thus allowing the muscle to be retracted superiorly. The ribs are again counted to confirm the position of the eighth rib. The seventh intercostal space is entered along the superior edge of the eighth rib. For patients who receive preoperative chemotherapy and radiation, the seventh intercostal muscle bundle is harvested during entry into the thorax to buttress the esophageal anastomosis.
 
 The rib is cut posteriorly just at the junction of the paraspinous muscles, and a small portion of the rib is resected. A rib spreader is used to permit exposure of the left chest. A systematic exploration of the left hemithorax is performed, and mediastinal lymph nodes are sampled for staging. The inferior pulmonary ligament is divided to permit cephalad retraction of the left lung, and the inferior pulmonary ligament lymph nodes (level 9) are removed for pathologic staging. The lung may be palpated for evidence of metastasis.
 
-The mediastinal pleura overlying the esophagus is incised anteromedially in a plane along the pericardiopleural reflection and posterolaterally along the medial aspect of the aorta (Fig. 22-2A). Dissection is continued for several centimeters superiorly and inferiorly to permit sufficient mobilization of the esophagus to identify and palpate the tumor. The nasogastric tube is used as a guide to identify the plane of dissection, and the esophagus is mobilized circumferentially using blunt finger dissection and then encircled with a Penrose drain (Fig. 22-2B). Esophageal mobilization is continued proximally to a point 5 cm above the superior edge of the tumor and distally until the surgeon's fingers can pass easily into the abdomen.
+The mediastinal pleura overlying the esophagus is incised anteromedially in a plane along the pericardiopleural reflection and posterolaterally along the medial aspect of the aorta ([Fig. 22-2A](#fig-22-2a)). Dissection is continued for several centimeters superiorly and inferiorly to permit sufficient mobilization of the esophagus to identify and palpate the tumor. The nasogastric tube is used as a guide to identify the plane of dissection, and the esophagus is mobilized circumferentially using blunt finger dissection and then encircled with a Penrose drain ([Fig. 22-2B](#fig-22-2b)). Esophageal mobilization is continued proximally to a point 5 cm above the superior edge of the tumor and distally until the surgeon's fingers can pass easily into the abdomen.
+
+<span id="fig-22-2"></span>![](_page_106_Picture_2.jpeg)
+
+**Figure 22-2.** *A.* Exposure of the distal esophagus and planned diaphragm incision. *B.* Intraoperative photograph of the same exposure.
 
 After the esophagus is fully mobilized, the diaphragm is incised in a semilunar fashion approximately 2 to 4 cm from the costal margin. Given the direction of travel of the phrenic nerve fibers, radial incisions should be avoided on the diaphragm to prevent postoperative diaphragmatic paresis. As the diaphragm is being divided, marking sutures are placed on both sides of the divided diaphragm approximately every 5 cm along the incision line to assist with proper orientation of the diaphragm during closure. Care must be taken not to injure the underlying spleen or left colon.
 
-After dividing the diaphragm, the surgeon next explores the abdomen, paying particular attention to the celiac axis and liver. The peritoneum overlying the gastroesophageal junction is incised, and the gastroesophageal junction is freed by blunt finger dissection. The gastroesophageal junction then is encircled with a second Penrose drain (Fig. 22-3). A Harrington retractor is used to retract the left lateral lobe of the liver medially to provide exposure of the hiatus. Gentle retraction with a laparotomy pad or "sponge stick" over the spleen completes the exposure.
+After dividing the diaphragm, the surgeon next explores the abdomen, paying particular attention to the celiac axis and liver. The peritoneum overlying the gastroesophageal junction is incised, and the gastroesophageal junction is freed by blunt finger dissection. The gastroesophageal junction then is encircled with a second Penrose drain ([Fig. 22-3](#fig-22-3)). A Harrington retractor is used to retract the left lateral lobe of the liver medially to provide exposure of the hiatus. Gentle retraction with a laparotomy pad or "sponge stick" over the spleen completes the exposure.
+
+<span id="fig-22-3"></span>![](_page_106_Picture_4.jpeg)
+
+**Figure 22-3.** Exposure of the left upper quadrant after diaphragm incision. Marking sutures are placed approximately every 5 cm as the diaphragm is incised.
 
 The peritoneal reflection is incised to the left of the hiatus close to the gastric serosa. The peritoneum overlying the short gastric vessels is divided, and the vessels themselves are divided using a Harmonic Scalpel (Ethicon-Endosurgery, Inc.), taking care to divide the short gastric vessels well away from the gastroepiploic artery to maximally preserve the right gastroepiploic artery. If involved with tumor, the spleen may easily be included with the specimen. The stomach is further mobilized by dividing the posterior attachments. Care should be taken to identify, ligate, and divide the "unnamed" posterior gastric vessels, which arise as direct branches of the splenic artery and vein. These vessels are commonly encountered in the lesser sac, and inadvertent injury may result in significant hemorrhage.
 
-The mobilized stomach is grasped and retracted superiorly and to the right by the first assistant, standing to the right side of the patient. With the stomach retracted in this manner, the surgeon achieves excellent exposure of the lesser sac, and the left gastric artery and vein can be identified (Fig. 22-4). Palpation with the surgeon's right hand will permit identification of the celiac trunk branching from the aorta. Any celiac lymph nodes encountered are dissected free and are included with the specimen. Next, the left gastric artery and vein are sharply dissected, separately ligated over a clamp with 2-0 silk suture ligature, and divided. Alternatively, we now use an endoscopic linear vascular stapler with a white (vascular) load to divide the left gastric artery.
+The mobilized stomach is grasped and retracted superiorly and to the right by the first assistant, standing to the right side of the patient. With the stomach retracted in this manner, the surgeon achieves excellent exposure of the lesser sac, and the left gastric artery and vein can be identified ([Fig. 22-4](#fig-22-4)). Palpation with the surgeon's right hand will permit identification of the celiac trunk branching from the aorta. Any celiac lymph nodes encountered are dissected free and are included with the specimen. Next, the left gastric artery and vein are sharply dissected, separately ligated over a clamp with 2-0 silk suture ligature, and divided. Alternatively, we now use an endoscopic linear vascular stapler with a white (vascular) load to divide the left gastric artery.
 
-With the stomach now fully mobilized, attention is directed to fashioning the gastric conduit. The nasogastric tube is pushed toward the lesser curvature in preparation for dividing the stomach. The gastric conduit is created using multiple firings of an endoscopic linear stapler with a large green load along a line parallel to the greater curvature of the stomach to create a gastric tube approximately 3 to 4 cm wide, eventually transecting the stomach from the specimen. The length of the conduit is determined by the location of the tumor and the proximal extent of the planned esophagectomy because a minimum of 5 cm of stomach distal to the tumor should be included with the conduit (Fig. 22-5). The staple line is reinforced using 3-0 silk interrupted Lembert sutures.
+<span id="fig-22-4"></span>![](_page_107_Picture_2.jpeg)
+
+**Figure 22-4.** After division of the gastrocolic omentum, the stomach is retracted cranially to expose the left gastric artery and vein.
+
+With the stomach now fully mobilized, attention is directed to fashioning the gastric conduit. The nasogastric tube is pushed toward the lesser curvature in preparation for dividing the stomach. The gastric conduit is created using multiple firings of an endoscopic linear stapler with a large green load along a line parallel to the greater curvature of the stomach to create a gastric tube approximately 3 to 4 cm wide, eventually transecting the stomach from the specimen. The length of the conduit is determined by the location of the tumor and the proximal extent of the planned esophagectomy because a minimum of 5 cm of stomach distal to the tumor should be included with the conduit ([Fig. 22-5](#fig-22-5)). The staple line is reinforced using 3-0 silk interrupted Lembert sutures.
+
+<span id="fig-22-5"></span>![](_page_107_Figure_9.jpeg)
+
+**Figure 22-5.** Multiple firings of the endoscopic linear stapler with a green (vascular) load are done parallel to the greater curvature to fashion the conduit, which must include a minimum of 5 cm of stomach distal to the tumor.
 
 The esophagus and proximal stomach specimens then are delivered into the chest through the diaphragm. Next, the gastric conduit is passed through the hiatus into the chest and is positioned without twisting or tension along the aorta in preparation for anastomosis.
 
-The esophagogastrostomy is performed as a two-layer anastomosis. The posterior wall anastomosis is performed before the esophagus is divided and the specimen is removed, because by retracting the intact specimen superiorly, the posterior esophagus is exposed to facilitate suturing (Fig. 22-6).
+The esophagogastrostomy is performed as a two-layer anastomosis. The posterior wall anastomosis is performed before the esophagus is divided and the specimen is removed, because by retracting the intact specimen superiorly, the posterior esophagus is exposed to facilitate suturing ([Fig. 22-6](#fig-22-6)).
 
-The posterior wall outer-layer anastomosis is performed using interrupted 3-0 silk horizontal mattress sutures (Fig. 22-7A). After the posterior row of sutures is placed, the posterior esophagus is opened using an angled knife blade. The anterior half of the esophagus is not yet divided, again to permit traction on the specimen to expose the anastomotic site. Any large arterial vessels that are bleeding are point cauterized, but care is taken to minimize electrocautery along the anastomotic line.
+<span id="fig-22-6"></span>![](_page_108_Picture_2.jpeg)
 
-The gastrotomy is performed next, also using sharp incision through the gastric serosa and then mucosa. The inner layer of the anastomosis is performed using 4-0 interrupted absorbable sutures taking full-thickness bites of the esophagus and large seromuscular and small mucosal bites on the stomach (Fig. 22-7B). When the posterior half of the inner row of sutures is completed, the sutures are placed on clamps and retracted laterally, and the remainder of the esophagus is transected along a bevel to create a slightly longer esophageal length anteriorly than posteriorly (Fig. 22-7C). Before completing the anastomosis, the nasogastric tube is advanced under direct vision through the anastomosis and into the stomach (Fig. 22-7D). The anterior inner full-thickness anastomosis is then completed such that the knots are within the lumen at the completion of the inner layer. Finally, the anterior outer layer of interrupted 3-0 silk horizontal mattress suture is placed to complete the anastomosis.
+**Figure 22-6.** The gastric tube (with staple line oversewn) is brought up into the left posterior mediastinum through the hiatus.
 
-At this point, the anastomosis may be further buttressed by using an intercostal muscle bundle harvested during initial thoracotomy. The intercostal bundle is secured over the anastomosis with interrupted 3-0 absorbable sutures. Alternatively, the stomach may be used to reinforce the anastomosis (Fig. 22-7E). By taking a second row of Lembert sutures over the anterior suture line, the stomach serves to bury the entire anterior suture line, creating a so-called "ink well." Some surgeons prefer a stapled anastomosis for this approach as well, in which case a circular load is probably easier than a linear load. After this, any redundant stomach is returned to the abdomen to avoid future technical issues related to torsion or sacculation of the gastric conduit.
+The posterior wall outer-layer anastomosis is performed using interrupted 3-0 silk horizontal mattress sutures ([Fig. 22-7A](#fig-22-7a)). After the posterior row of sutures is placed, the posterior esophagus is opened using an angled knife blade. The anterior half of the esophagus is not yet divided, again to permit traction on the specimen to expose the anastomotic site. Any large arterial vessels that are bleeding are point cauterized, but care is taken to minimize electrocautery along the anastomotic line.
+
+The gastrotomy is performed next, also using sharp incision through the gastric serosa and then mucosa. The inner layer of the anastomosis is performed using 4-0 interrupted absorbable sutures taking full-thickness bites of the esophagus and large seromuscular and small mucosal bites on the stomach ([Fig. 22-7B](#fig-22-7b)). When the posterior half of the inner row of sutures is completed, the sutures are placed on clamps and retracted laterally, and the remainder of the esophagus is transected along a bevel to create a slightly longer esophageal length anteriorly than posteriorly ([Fig. 22-7C](#fig-22-7c)). Before completing the anastomosis, the nasogastric tube is advanced under direct vision through the anastomosis and into the stomach ([Fig. 22-7D](#fig-22-7d)). The anterior inner full-thickness anastomosis is then completed such that the knots are within the lumen at the completion of the inner layer. Finally, the anterior outer layer of interrupted 3-0 silk horizontal mattress suture is placed to complete the anastomosis.
+
+At this point, the anastomosis may be further buttressed by using an intercostal muscle bundle harvested during initial thoracotomy. The intercostal bundle is secured over the anastomosis with interrupted 3-0 absorbable sutures. Alternatively, the stomach may be used to reinforce the anastomosis ([Fig. 22-7E](#fig-22-7e)). By taking a second row of Lembert sutures over the anterior suture line, the stomach serves to bury the entire anterior suture line, creating a so-called "ink well." Some surgeons prefer a stapled anastomosis for this approach as well, in which case a circular load is probably easier than a linear load. After this, any redundant stomach is returned to the abdomen to avoid future technical issues related to torsion or sacculation of the gastric conduit.
+
+<span id="fig-22-7"></span>![](_page_108_Picture_8.jpeg)
+
+**Figure 22-7.** A hand-sewn two-layer anastomosis is completed using interrupted sutures. *A*. Posterior wall, outer-layer sutures are placed. *B*. Inner layer of anastomosis is completed, after posterior and anterior halves of the esophagus are opened. *C*. Remainder of the esophagus is transected along a bevel to yield slightly longer esophageal length anteriorly. *D*. Nasogastric tube is advanced and anterior full-thickness anastomosis is completed. *E*. Outer layer of suture is placed to complete the anastomosis. Stomach may be used to reinforce the anastomosis.
 
 After ensuring adequate hemostasis, attention is directed to closing the diaphragmatic defect. The previously placed sutures within the diaphragm are used as markers for orientation, and the diaphragm is reapproximated using interrupted figure-of-eight absorbable monofilament sutures. To prevent herniation into the abdomen and subsequent traction on the anastomosis, the gastric tube may be secured to the mediastinal pleura and/or diaphragm with a number of interrupted 3-0 silk sutures. The chest is drained with a single 36F chest tube placed inferiorly and posteriorly to provide dependent drainage. After thorough reexpansion of the lung, the chest is closed using #1 absorbable PDS suture for the paracostal sutures, as well as #1 absorbable running suture to reapproximate the muscle layers. The subcutaneous tissues are closed using a 2-0 absorbable suture in a running fashion, and the skin is reapproximated with a running 3-0 subcuticular suture.
 
 Before the patient emerges from anesthesia, the nasogastric tube is secured in position using a bridle technique by passing an umbilical tape around the choana or suturing the tube to the septum with a large nylon suture. The patient is extubated in the OR after gaining consciousness.
-
-<span id="fig-22-1"></span>**Figure 22-1.** The patient is positioned for a left transthoracic esophagectomy. Skin incision provides exposure of the diaphragm and thoracic esophagus. The surgeon stands on the left side of the patient, and the first assistant stands on the right side of the patient.
-
-<span id="fig-22-2"></span>**Figure 22-2.** A. Exposure of the distal esophagus and planned diaphragm incision. B. Intraoperative photograph of the same exposure.
-
-<span id="fig-22-3"></span>**Figure 22-3.** Exposure of the left upper quadrant after diaphragm incision. Marking sutures are placed approximately every 5 cm as the diaphragm is incised.
-
-<span id="fig-22-4"></span>**Figure 22-4.** After division of the gastrocolic omentum, the stomach is retracted cranially to expose the left gastric artery and vein.
-
-<span id="fig-22-5"></span>**Figure 22-5.** Multiple firings of the endoscopic linear stapler with a green (vascular) load are done parallel to the greater curvature to fashion the conduit, which must include a minimum of 5 cm of stomach distal to the tumor.
-
-<span id="fig-22-6"></span>**Figure 22-6.** The gastric tube (with staple line oversewn) is brought up into the left posterior mediastinum through the hiatus.
-
-<span id="fig-22-7"></span>**Figure 22-7.** A hand-sewn two-layer anastomosis is completed using interrupted sutures. A. Posterior wall, outer-layer sutures are placed. B. Inner layer of anastomosis is completed, after posterior and anterior halves of the esophagus are opened. C. Remainder of the esophagus is transected along a bevel to yield slightly longer esophageal length anteriorly. D. Nasogastric tube is advanced and anterior full-thickness anastomosis is completed. E. Outer layer of suture is placed to complete the anastomosis. Stomach may be used to reinforce the anastomosis.
 
 </div></details>
 
@@ -2819,7 +3136,7 @@ Before the patient emerges from anesthesia, the nasogastric tube is secured in p
 
 ### Postoperative Care</summary><div class="details-content">
 
-Postoperative care is similar to that for any other patient after esophagectomy. The chest tubes are connected to −20 cm H<sub>2</sub>O of suction. A thin barium esophagram is performed on postoperative day 7. For patients who have received preoperative chemotherapy and radiation, the esophagram is conducted on postoperative day 10 to allow greater time for anastomotic healing. After confirming a well-healed anastomosis, free of leak, the nasogastric tube is removed and an oral liquid diet is initiated. As a secondary method of checking for anastomotic leak, the initial liquid diet offered may consist of brightly colored liquids (e.g., grape or cranberry juice); thus any leakage of these liquids may be easily identified by the drainage from the chest tube. If the patient tolerates a liquid diet with no evidence of fever or leukocytosis, the chest tube is removed, and the patient's diet is advanced to a soft diet of six small meals a day.
+Postoperative care is similar to that for any other patient after esophagectomy. The chest tubes are connected to −20 cm H₂O of suction. A thin barium esophagram is performed on postoperative day 7. For patients who have received preoperative chemotherapy and radiation, the esophagram is conducted on postoperative day 10 to allow greater time for anastomotic healing. After confirming a well-healed anastomosis, free of leak, the nasogastric tube is removed and an oral liquid diet is initiated. As a secondary method of checking for anastomotic leak, the initial liquid diet offered may consist of brightly colored liquids (e.g., grape or cranberry juice); thus any leakage of these liquids may be easily identified by the drainage from the chest tube. If the patient tolerates a liquid diet with no evidence of fever or leukocytosis, the chest tube is removed, and the patient's diet is advanced to a soft diet of six small meals a day.
 
 </div></details>
 
@@ -2835,7 +3152,7 @@ The left transthoracic approach provides adequate exposure of the distal esophag
 
 ### Case History</summary><div class="details-content">
 
-A 55-year-old white male malpractice attorney had a history of reflux. After treating his symptoms with Rolaids for years and recently resorting to over-the-counter H<sub>2</sub> blockers, he presented for esophagoscopy. At the time of his endoscopy, he was found to have Barrett mucosa. Four quadrant biopsies were done 2 cm above and below the gastroesophageal junction. Pathology demonstrated a T1a noninvasive adenocarcinoma at the gastroesophageal junction. Although Barrett mucosa was found 2 cm above and below the lesion, there was no dysplasia. Workup showed that the patient had excellent pulmonary function, good cardiac performance, and no other specific medical illnesses. After discussion with the patient and his family, the thoracic surgeon decided that a left transthoracic esophagectomy would allow the best swallowing in the postoperative period, although the patient still may experience some symptoms of reflux. The patient concurred, and a left transthoracic esophagectomy with anastomosis at the level of the inferior pulmonary vein was done using a two-layer hand-sewn anastomosis. The patient had a normal swallow study on postoperative day 7 and was discharged from the hospital on postoperative day 10 able to eat six small meals per day. He presented back to the thoracic clinic on postoperative day 30 for routine follow-up. At that time, he complained of dysphagia to solid foods, which had gotten progressively worse. A repeat esophagogastroduodenoscopy (EGD) demonstrated an anastomotic stricture, which was dilated up to a 40F bougie without difficulty. The patient again was able to resume eating six small meals a day, and at follow-up EGD 1 month later he had no evidence of residual stricture, although there was some visible esophagitis present. pH testing of the gastric juices showed a normal pH, and biopsy showed mild esophagitis. The patient resumed his H<sub>2</sub> blocker once daily and subsequent EGD 6 months later showed complete resolution and no evidence of Barrett mucosa.
+A 55-year-old white male malpractice attorney had a history of reflux. After treating his symptoms with Rolaids for years and recently resorting to over-the-counter H₂ blockers, he presented for esophagoscopy. At the time of his endoscopy, he was found to have Barrett mucosa. Four quadrant biopsies were done 2 cm above and below the gastroesophageal junction. Pathology demonstrated a T1a noninvasive adenocarcinoma at the gastroesophageal junction. Although Barrett mucosa was found 2 cm above and below the lesion, there was no dysplasia. Workup showed that the patient had excellent pulmonary function, good cardiac performance, and no other specific medical illnesses. After discussion with the patient and his family, the thoracic surgeon decided that a left transthoracic esophagectomy would allow the best swallowing in the postoperative period, although the patient still may experience some symptoms of reflux. The patient concurred, and a left transthoracic esophagectomy with anastomosis at the level of the inferior pulmonary vein was done using a two-layer hand-sewn anastomosis. The patient had a normal swallow study on postoperative day 7 and was discharged from the hospital on postoperative day 10 able to eat six small meals per day. He presented back to the thoracic clinic on postoperative day 30 for routine follow-up. At that time, he complained of dysphagia to solid foods, which had gotten progressively worse. A repeat esophagogastroduodenoscopy (EGD) demonstrated an anastomotic stricture, which was dilated up to a 40F bougie without difficulty. The patient again was able to resume eating six small meals a day, and at follow-up EGD 1 month later he had no evidence of residual stricture, although there was some visible esophagitis present. pH testing of the gastric juices showed a normal pH, and biopsy showed mild esophagitis. The patient resumed his H₂ blocker once daily and subsequent EGD 6 months later showed complete resolution and no evidence of Barrett mucosa.
 
 </div></details>
 
@@ -2850,24 +3167,28 @@ Since the initial description of this technique, we have unfortunately lost one 
 </div></details>
 
 </div></details>
-
+  
 <details class="med-details"><summary>
 
 ## Chapter 23: Options for Esophageal Replacement</summary><div class="details-content">
 
-Reestablishing gastrointestinal continuity after esophagectomy can be challenging for patient and surgeon alike. There are no perfect substitutes, since every reconstructive alternative is inferior to the native, normal esophagus. Ultimately, the goals for reconstruction include the maintenance of continuity, ability to swallow followed by adequate transit of food through the replacement conduit, provision of some barrier to reflux and aspiration, and independence from nutritional sources other than a normal oral diet. Simultaneously, every surgeon has the obligation to minimize morbidity, mortality, and long-term alterations in quality of life to the greatest extent possible. At odds to these objectives are the indications for removing the native organ and the extent to which it must be sacrificed. Clearly, situations that require complete removal of the esophagus up to the base of the tongue necessitate different reconstructive efforts compared to junctional tumors where a portion of the thoracic esophagus can remain intact. Esophageal surgeons must be adept and versatile at many different replacement options. This chapter focuses on the description of reconstructive options, emphasizing conduits other than stomach as described in foregoing chapters (Fig. 23-1). To the greatest extent possible, an attempt is made to compare our experiences with the various conduit options with the caveat that there is no level 1 data pertaining to such comparison.
+Reestablishing gastrointestinal continuity after esophagectomy can be challenging for patient and surgeon alike. There are no perfect substitutes, since every reconstructive alternative is inferior to the native, normal esophagus. Ultimately, the goals for reconstruction include the maintenance of continuity, ability to swallow followed by adequate transit of food through the replacement conduit, provision of some barrier to reflux and aspiration, and independence from nutritional sources other than a normal oral diet. Simultaneously, every surgeon has the obligation to minimize morbidity, mortality, and long-term alterations in quality of life to the greatest extent possible. At odds to these objectives are the indications for removing the native organ and the extent to which it must be sacrificed. Clearly, situations that require complete removal of the esophagus up to the base of the tongue necessitate different reconstructive efforts compared to junctional tumors where a portion of the thoracic esophagus can remain intact. Esophageal surgeons must be adept and versatile at many different replacement options. This chapter focuses on the description of reconstructive options, emphasizing conduits other than stomach as described in foregoing chapters ([Fig. 23-1](#fig-23-1)). To the greatest extent possible, an attempt is made to compare our experiences with the various conduit options with the caveat that there is no level 1 data pertaining to such comparison.
+
+<span id="fig-23-1"></span>![](_page_111_Picture_6.jpeg)
+
+**Figure 23-1.** Stomach is the preferred graft for malignant esophageal replacement. Several configurations have been devised. Depicted here is a conduit in which the whole stomach is used.
 
 <details class="med-details"><summary>
 
 ### Organ Alternatives</summary><div class="details-content">
 
-Whenever a reconstruction alternative other than stomach is used, the complexity of the procedure significantly increases. Rather than a single esophagogastric anastomosis, alternative reconstructive efforts will require two to three anastomoses to reestablish continuity. Establishing adequate blood supply to the transposed reconstruction also may be more challenging in contrast to using a well-vascularized gastric conduit. For these reasons, modified whole stomach options are generally considered the first alternative to the native esophagus, despite the relative disadvantages generated by transposing the gastric reservoir into the chest, such as life-long reflux and aspiration risk (Fig. 23-2).
+Whenever a reconstruction alternative other than stomach is used, the complexity of the procedure significantly increases. Rather than a single esophagogastric anastomosis, alternative reconstructive efforts will require two to three anastomoses to reestablish continuity. Establishing adequate blood supply to the transposed reconstruction also may be more challenging in contrast to using a well-vascularized gastric conduit. For these reasons, modified whole stomach options are generally considered the first alternative to the native esophagus, despite the relative disadvantages generated by transposing the gastric reservoir into the chest, such as life-long reflux and aspiration risk ([Fig. 23-2](#fig-23-2)).
 
 When the stomach is not available, however, alternative conduits for esophageal replacement become necessary. The decision to choose one option over another depends on patient and surgeon factors. The more common preferences include the colon or jejunum in variations of length and vascular supply. Prior abdominal operations or preexisting pathology may limit the use of either organ, and a thorough history is an essential part of planning for reconstruction.
 
-<span id="fig-23-1"></span>**Figure 23-1.** Stomach is the preferred graft for malignant esophageal replacement. Several configurations have been devised. Depicted here is a conduit in which the whole stomach is used.
+<span id="fig-23-2"></span>![](_page_112_Picture_2.jpeg)
 
-<span id="fig-23-2"></span>**Figure 23-2.** For most procedures involving esophageal replacement with a stomach graft, the tube is created along the length of the greater curvature (between the gastric antrum and the splenic hilum), and the remainder of the stomach is discarded (A). B and C. Techniques for reversed and nonreserved gastric tubes, respectively.
+**Figure 23-2.** For most procedures involving esophageal replacement with a stomach graft, the tube is created along the length of the greater curvature (between the gastric antrum and the splenic hilum), and the remainder of the stomach is discarded (*A*). *B* and *C*. Techniques for reversed and nonreserved gastric tubes, respectively.
 
 </div></details>
 
@@ -2875,7 +3196,11 @@ When the stomach is not available, however, alternative conduits for esophageal 
 
 ### Jejunum</summary><div class="details-content">
 
-The jejunum is an option for either partial or total esophageal replacement (Fig. 23-3). There are several advantages to consider with small bowel reconstruction. It generally remains free of intrinsic disease throughout a patient's life span and does not undergo senescent lengthening. Compared to the native esophagus, the size-match is excellent. There is a relative abundance of the organ, which permits reconstruction of the whole esophagus with adequate length to maintain nutritional demands. The jejunum also has a reliable blood supply with fairly consistent anatomy that does not routinely require preoperative evaluation. In the past, there were limitations on the length of esophagus that could be reconstructed with the jejunum, but this issue largely has been overcome with microvascular augmentation techniques that can accommodate grafts spanning from the base of the neck to the abdomen.
+The jejunum is an option for either partial or total esophageal replacement ([Fig. 23-3](#fig-23-3)). There are several advantages to consider with small bowel reconstruction. It generally remains free of intrinsic disease throughout a patient's life span and does not undergo senescent lengthening. Compared to the native esophagus, the size-match is excellent. There is a relative abundance of the organ, which permits reconstruction of the whole esophagus with adequate length to maintain nutritional demands. The jejunum also has a reliable blood supply with fairly consistent anatomy that does not routinely require preoperative evaluation. In the past, there were limitations on the length of esophagus that could be reconstructed with the jejunum, but this issue largely has been overcome with microvascular augmentation techniques that can accommodate grafts spanning from the base of the neck to the abdomen.
+
+<span id="fig-23-3"></span>![](_page_112_Figure_9.jpeg)
+
+**Figure 23-3.** Jejunal grafts are preferred for malignant esophageal replacement in the three situations depicted here. *A*. Jejunal segment after distal esophageal resection. *B*. Jejunal replacement for esophagus and proximal or entire segment (Roux-en-Y). *C*. A free segment requiring microvascular vessel anastomosis interposed in the cervical region.
 
 <details class="med-details"><summary>
 
@@ -2893,7 +3218,11 @@ Jejunal interpositions can be tailored to any length necessary to replace the re
 
 **Surgical Procedure** — The patient is positioned supine with a shoulder roll in place and the head turned slightly to the right. The left neck, chest, and abdomen are prepped into the field. The legs may be prepped into the field at the discretion of the plastic surgeon for possible harvest of a saphenous vein graft.
 
-*Abdomen* — An upper midline incision is made and the ligament of Treitz identified along with the proximal jejunum. A complete lysis of adhesions should be performed and any prior feeding jejunostomy or gastrostomy should be taken down and the bowel repaired. Transillumination of the proximal jejunal mesentery will delineate the individual jejunal vessels and their arcades (Fig. 23-4). The first vessel off of the superior mesenteric artery is generally left in place for blood supply to the fourth portion of the duodenum and proximal jejunum. The conduit is then generally based on the second to fourth jejunal vessels, but this can vary depending on the available anatomy. No vessels are divided at the outset of the case. The mesentery is dissected to expose the vessels for the transfer. Attention is then turned toward the route through which the conduit will pass. The posterior mediastinal route will not be described in detail as it is standard procedure for most thoracic surgeons to place a gastric conduit in this location; we do not often place a supercharged jejunum in this location.
+*Abdomen* — An upper midline incision is made and the ligament of Treitz identified along with the proximal jejunum. A complete lysis of adhesions should be performed and any prior feeding jejunostomy or gastrostomy should be taken down and the bowel repaired. Transillumination of the proximal jejunal mesentery will delineate the individual jejunal vessels and their arcades ([Fig. 23-4](#fig-23-4)). The first vessel off of the superior mesenteric artery is generally left in place for blood supply to the fourth portion of the duodenum and proximal jejunum. The conduit is then generally based on the second to fourth jejunal vessels, but this can vary depending on the available anatomy. No vessels are divided at the outset of the case. The mesentery is dissected to expose the vessels for the transfer. Attention is then turned toward the route through which the conduit will pass. The posterior mediastinal route will not be described in detail as it is standard procedure for most thoracic surgeons to place a gastric conduit in this location; we do not often place a supercharged jejunum in this location.
+
+<span id="fig-23-4"></span>![](_page_113_Picture_2.jpeg)
+
+**Figure 23-4.** The technique of long-segment supercharged jejunal (SPJ) conduit is depicted here and in the next three illustrations. Shown here is the vascular anatomy of the proximal jejunum.
 
 *Neck* — A collar incision is made starting at the sternal notch and proceeding upward and lateral along the anterior border of the sternocleidomastoid muscle. Before fully exposing the esophagus, the left hemimanubrium, head of clavicle, and medial aspect of the first rib are removed to increase the space available in the thoracic inlet for the conduit and microvascular anastomosis to the left internal mammary artery. This also alleviates points of bony compression on the conduit which could lead to mesenteric congestion and vascular compromise. Care must be taken when freeing the inferior aspect of the clavicle and first rib so as to not injure the internal thoracic vessels.
 
@@ -2901,29 +3230,31 @@ The esophagus is exposed by retracting the sternocleidomastoid and carotid sheat
 
 *Retrosternal Tunnel* — We usually create a retrosternal tunnel about four fingers wide for the conduit to pass through as it traverses the chest. A measuring device is used to determine the minimum distance required for the conduit to traverse the thoracic cavity, yet allow for a tension-free anastomosis in the neck. Great care should be used for this dissection so as not to compress the anterior cardiac wall which can cause cardiovascular embarrassment. This measurement is critical because it is used to determine the location of the distal aspect of the conduit. As much as is practically possible, the conduit should lie in a straight line with no redundancy or large mesenteric loops in the bowel. The position of the conduit is critical to forming a straight, well-functioning jejunal interposition.
 
-*Conduit Creation and Passage* — The proximal pedicle of the jejunum, usually the second jejunal vessel, is divided close to its origin from the superior mesenteric artery (Fig. 23-5). The bowel is divided a few centimeters proximal to this point. The next jejunal vascular pedicle, usually the third, is also divided close to its origin. The mesentery that lies between these two vessels is divided toward the mesenteric border of the bowel to allow the jejunum to unfurl and straighten (Fig. 23-6). This step is key to establish a straight course through the mediastinum and a more accurate estimate of the length needed.
+*Conduit Creation and Passage* — The proximal pedicle of the jejunum, usually the second jejunal vessel, is divided close to its origin from the superior mesenteric artery ([Fig. 23-5](#fig-23-5)). The bowel is divided a few centimeters proximal to this point. The next jejunal vascular pedicle, usually the third, is also divided close to its origin. The mesentery that lies between these two vessels is divided toward the mesenteric border of the bowel to allow the jejunum to unfurl and straighten ([Fig. 23-6](#fig-23-6)). This step is key to establish a straight course through the mediastinum and a more accurate estimate of the length needed.
+
+<span id="fig-23-5"></span>![](_page_113_Picture_14.jpeg)
+
+**Figure 23-5.** The divided proximal pedicle.
+
+<span id="fig-23-6"></span>![](_page_114_Picture_2.jpeg)
+
+**Figure 23-6.** Opening the mesentery.
 
 For a jejunogastric anastomosis, the length is measured to the posterior wall of the stomach, and the distal aspect of the jejunum is divided at the appropriate length. For a Roux limb, the distal jejunum does not require division.
 
 After measuring and dividing the bowel and mesentery, the conduit is passed behind the colon (retrocolic) for a posterior mediastinal reconstruction, or in front of the colon (antecolic) for a retrosternal reconstruction. The conduit is placed inside a plastic bag to allow safe passage through the mediastinum. The plastic bag provides protection for small vessels as the conduit is pulled through the chosen mediastinal route. One must ensure that no twisting of the conduit occurs as it is pulled through the mediastinum. Care also must be taken to avoid excess traction on the conduit as this can lead to tearing of the mesentery and result in ischemic areas. Once positioned in the neck, the recipient vessels are prepared and the vascular augmentation is performed. The venous anastomosis is typically performed to the internal jugular vein. Saphenous vein grafts can be used if there is a length discrepancy. The arterial anastomosis is then performed under the operating microscope. Usually the artery can be connected directly to the carotid; if there is a length issue it can be anastomosed to a branch vessel or a short Gore-tex graft can be used.
 
-An "indicator flap" can be created with the distal most 2 or 3 cm of jejunum. The distal 2 to 3 cm of the jejunum and its intact mesentery is separated from the main conduit and set aside to be externalized at the completion of the procedure as an indicator flap (Fig. 23-7).
+An "indicator flap" can be created with the distal most 2 or 3 cm of jejunum. The distal 2 to 3 cm of the jejunum and its intact mesentery is separated from the main conduit and set aside to be externalized at the completion of the procedure as an indicator flap ([Fig. 23-7](#fig-23-7)).
+
+<span id="fig-23-7"></span>![](_page_114_Picture_8.jpeg)
+
+**Figure 23-7.** Indicator flap.
 
 *Reconstruction* — The esophagojejunal anastomosis is performed via a hand-sewn or stapled technique. A stapled functional end-to-end anastomosis may be performed with a posterior linear staple line between the esophagus and jejunal conduit followed by hand-sewn or TA closure of the "hood" (modified Collard or Orringer technique). Alternatively the circular EEA device may be used, but care must be taken to avoid a blind pouch that will lead to a pseudo-Zenker's phenomenon.
 
 The abdominal reconstruction is performed either by creating a "Roux" limb and distal jejunojejunal anastomosis or via a jejunogastric anastomosis low on the posterior wall of the stomach. We generally create a Roux limb as more often there is no remaining stomach for reconstruction. If stomach is chosen we advocate a prior 2/3 gastrectomy to avoid gastric stasis issues created by a vagotomized stomach. A feeding jejunostomy is then performed. If there is remaining stomach that is not in continuity with the conduit (i.e., a Roux limb was created), a drainage procedure at the pylorus should be performed.
 
 When closing the neck incision the indicator flap should be positioned at the inferior aspect of the wound in a straight course so as not to compromise the blood supply. Once a drain is placed and the wound closed, one or both ends of the indicator segment should be opened to allow for drainage of secretions. This flap is left externalized as a monitor for the perfusion of the proximal bowel segment until just prior to discharge. At that point, it can be amputated at the bedside.
-
-<span id="fig-23-3"></span>**Figure 23-3.** Jejunal grafts are preferred for malignant esophageal replacement in the three situations depicted here. A. Jejunal segment after distal esophageal resection. B. Jejunal replacement for esophagus and proximal or entire segment (Roux-en-Y). C. A free segment requiring microvascular vessel anastomosis interposed in the cervical region.
-
-<span id="fig-23-4"></span>**Figure 23-4.** The technique of long-segment supercharged jejunal (SPJ) conduit is depicted here and in the next three illustrations. Shown here is the vascular anatomy of the proximal jejunum.
-
-<span id="fig-23-5"></span>**Figure 23-5.** The divided proximal pedicle.
-
-<span id="fig-23-6"></span>**Figure 23-6.** Opening the mesentery.
-
-<span id="fig-23-7"></span>**Figure 23-7.** Indicator flap.
 
 </div></details>
 
@@ -2951,7 +3282,11 @@ Recently presented data update the 10-year experience from MD Anderson Cancer Ce
 
 ### Colon Interposition</summary><div class="details-content">
 
-When the stomach is not available, the colon is another viable option for esophageal reconstruction (Fig. 23-8). Either the right or the left colon may be used for reconstruction and each can provide adequate length to reach the pharynx. The transverse colon is an integral part of the conduit whether it is based on vessels from the right or left colon. A left colon graft is based on the ascending branch of the left colic artery, whereas the middle colic vessels are the primary blood supply for a right colon graft. We prefer to use an isoperistaltic left colon conduit, as opposed to a right colon conduit, because it has a better size-match to the native esophagus and thicker wall. Some believe the colon is the best choice for reconstruction if the patient has an extended life expectancy because it is resistant to peptic strictures and provides a barrier to reflux into the proximal esophagus.
+When the stomach is not available, the colon is another viable option for esophageal reconstruction ([Fig. 23-8](#fig-23-8)). Either the right or the left colon may be used for reconstruction and each can provide adequate length to reach the pharynx. The transverse colon is an integral part of the conduit whether it is based on vessels from the right or left colon. A left colon graft is based on the ascending branch of the left colic artery, whereas the middle colic vessels are the primary blood supply for a right colon graft. We prefer to use an isoperistaltic left colon conduit, as opposed to a right colon conduit, because it has a better size-match to the native esophagus and thicker wall. Some believe the colon is the best choice for reconstruction if the patient has an extended life expectancy because it is resistant to peptic strictures and provides a barrier to reflux into the proximal esophagus.
+
+<span id="fig-23-8"></span>![](_page_115_Picture_2.jpeg)
+
+**Figure 23-8.** Colon interposition is used by most surgeons when stomach is not available owing to previous gastric resection or esophagogastric cancer requiring extensive or total gastrectomy. *A*. Colon transplant fashioned from the left and adjacent transverse components is the most reliable reconstruction for a long esophageal replacement extending from the intraabdominal cavity to the apex of the thorax or neck. *B*. Pedicled transplant of right colon.
 
 <details class="med-details"><summary>
 
@@ -2967,15 +3302,15 @@ Previous abdominal operations or bowel resections also may limit the use of colo
 
 #### Surgical Procedure</summary><div class="details-content">
 
-Here, we describe esophageal replacement with a left colon conduit. Begin by mobilizing the left colon completely and removing the omentum from the transverse colon (Fig. 23-9). Preserve the mesenteric vessels at all times during mobilization and identify the ascending branch of the left colic artery, as this will serve as the vascular pedicle for the conduit. Transillumination of the mesentery facilitates vessel identification. The middle colic artery also needs to be identified in the transverse colon mesentery.
+Here, we describe esophageal replacement with a left colon conduit. Begin by mobilizing the left colon completely and removing the omentum from the transverse colon ([Fig. 23-9](#fig-23-9)). Preserve the mesenteric vessels at all times during mobilization and identify the ascending branch of the left colic artery, as this will serve as the vascular pedicle for the conduit. Transillumination of the mesentery facilitates vessel identification. The middle colic artery also needs to be identified in the transverse colon mesentery.
+
+<span id="fig-23-9"></span>![](_page_115_Picture_14.jpeg)
+
+**Figure 23-9.** Left colon interposition. First the colon is completely mobilized and the omentum is removed from the transverse colon.
 
 An umbilical tape may be used to approximate the length needed for reconstruction. Measure the distance from a point 5 cm below the xiphoid to the ear lobe. After determining the length needed for transposition, begin vascular isolation of the pedicle. Open the transverse mesocolon on the right side of the middle colic vessels. The mesentery should be opened on both sides of the left colic artery as well. Place small bulldog clamps on the vessels that will be ligated, leaving them in place for 5 to 10 minutes to confirm graft viability. Begin ligating the vessels if the graft appears healthy after vascular isolation. Ligate the left branch of the middle colic at its origin from the middle colic, and ligate the marginal artery beyond the branches supplied by the left colic going distal in the left colon. Confirm the length needed and then transect the colon to the appropriate length. If there is a question about the viability of the segment, either intraoperative Doppler flow or fluorescein dye can be used to assure segmental viability.
 
 The conduit should be placed retrogastric and can be passed through the posterior mediastinum, retrosternal, or via subcutaneous route to its final position in the neck. A plastic bag should again be used when passing the conduit to protect the mesentery and ensure a straight and untwisted course through the mediastinum. If using the retrosternal route, the ipsilateral hemimanubrium, clavicular head, and medial aspect of the first rib should be removed as described above for a jejunal conduit. The anastomosis is done similar to the jejunal anastomosis described above.
-
-<span id="fig-23-8"></span>**Figure 23-8.** Colon interposition is used by most surgeons when stomach is not available owing to previous gastric resection or esophagogastric cancer requiring extensive or total gastrectomy. A. Colon transplant fashioned from the left and adjacent transverse components is the most reliable reconstruction for a long esophageal replacement extending from the intraabdominal cavity to the apex of the thorax or neck. B. Pedicled transplant of right colon.
-
-<span id="fig-23-9"></span>**Figure 23-9.** Left colon interposition. First the colon is completely mobilized and the omentum is removed from the transverse colon.
 
 </div></details>
 
@@ -3024,7 +3359,9 @@ This chapter by one of the champions of the "supercharged" jejunal graft is a ke
 </div></details>
 
 </div></details>
-  
+
+---
+
 <details class="med-details"><summary>
 
 ## Chapter 24: Esophageal Malignancy: Palliative Options and Procedures</summary><div class="details-content">
@@ -3111,7 +3448,7 @@ Brachytherapy refers to the placement of interstitial or intracavitary radioacti
 
 ### Ideal Patient Characteristics</summary><div class="details-content">
 
-All patients with malignant dysphagia from esophageal cancer for whom there are no plans for esophagectomy should be considered for palliation (Table 24-1).
+All patients with malignant dysphagia from esophageal cancer for whom there are no plans for esophagectomy should be considered for palliation ([Table 24-1](#table-24-1)).
 
 For the immediate relief of dysphagia, SEMSs have minimal risk, immediate effect, and are useful when tumors are either predominantly endoluminal or extraluminal. Tumor location, however, is a very important consideration in using stents. In the case of proximal esophageal tumors, placement of stents near the cricopharyngeus muscle may impart a persistent foreign-body sensation and may be intolerable. Also, for bulky cervical tumors, stent deployment may lead to compression of the airway, which may require a separate airway stent for treatment. With distal tumors, stents that are placed close to (or along) the gastroesophageal junction can cause significant reflux. Early on, the development of antireflux stents was thought to be able to mitigate these symptoms. However, in spite of the promising results of an early series, subsequent reports of antireflux stents have been mixed. Therefore, PDT or cryoablation may be preferable for palliating cancers in the proximal or distal esophagus.
 
@@ -3121,7 +3458,7 @@ Covered stents may be useful for the treatment of tracheoesophageal fistulas. An
 
 <details class="med-details"><summary>
 
-#### Table 24-1 — Comparison of Palliative Treatment Options for Esophageal Cancer</summary><div class="details-content">
+#### <span id="table-24-1"></span>Table 24-1 — Comparison of Palliative Treatment Options for Esophageal Cancer</summary><div class="details-content">
 
 | | SEMS | PDT | CRYOABLATION | LASER | CHEMORADIATION |
 |---|---|---|---|---|---|
@@ -3216,17 +3553,23 @@ Although patients with advanced esophageal cancer have a poor survival, palliati
 
 ### Case Presentation</summary><div class="details-content">
 
-An 80-year-old man with a history of hypertension, diabetes, congestive heart failure, coronary artery disease, end-stage renal disease requiring dialysis, and stroke presented on an outpatient basis with weight loss and dysphagia to solids and liquids. An esophagogastroduodenoscopy (EGD) revealed a large fungating mass in the middle third of the esophagus. Biopsies identified the tumor as a squamous cell carcinoma, and endoscopic ultrasonography allowed for clinical staging as T3N0 Mx. Also, PET imaging revealed localized disease (Fig. 24-1).
+An 80-year-old man with a history of hypertension, diabetes, congestive heart failure, coronary artery disease, end-stage renal disease requiring dialysis, and stroke presented on an outpatient basis with weight loss and dysphagia to solids and liquids. An esophagogastroduodenoscopy (EGD) revealed a large fungating mass in the middle third of the esophagus. Biopsies identified the tumor as a squamous cell carcinoma, and endoscopic ultrasonography allowed for clinical staging as T3N0 Mx. Also, PET imaging revealed localized disease ([Fig. 24-1](#fig-24-1)).
 
-On account of the patient's preexisting comorbidities, he was deemed to be high risk for esophagectomy and chemotherapy. His dysphagia was so severe, endoscopic palliation was necessary. The location of the tumor, lent itself to an approach involving stent placement. Both cryotherapy and PDT were not considered good options because the stricture was extremely tight and there was only a small component of endoluminal disease. Under general anesthesia, we performed our own endoscopy, which revealed that the tumor was located 30 cm from the incisors. Although it was initially difficult to advance the scope beyond the tumor, this was ultimately achieved with careful maneuvering. The length of the tumor was approximately 4 cm, and the proximal and distal extents of the tumor were marked under fluoroscopic visualization with unbent paper clips taped to the patient's chest wall (Fig. 24-2). Thereafter, a guidewire was placed, and a covered stent was advanced over the guidewire into the esophagus. Once the stent was positioned to achieve ample overlap beyond the proximal and distal margins, it was deployed (Fig. 24-2).
+<span id="fig-24-1"></span>![](_page_122_Picture_12.jpeg)
 
-The patient was extubated successfully. A postoperative chest x-ray confirmed the absence of pneumomediastinum and pneumothorax. A barium esophagram performed a few days later demonstrated a patent esophagus (Fig. 24-3). Subsequently, the patient resumed a modified diet and was able to drink liquids.
+**Figure 24-1.** PET/CT imaging revealing FDG-avidity of the esophageal cancer. (Left: CT axial image. Right: PET axial image at the same level.)
 
-<span id="fig-24-1"></span>**Figure 24-1.** PET/CT imaging revealing FDG-avidity of the esophageal cancer. (Left: CT axial image. Right: PET axial image at the same level.)
+On account of the patient's preexisting comorbidities, he was deemed to be high risk for esophagectomy and chemotherapy. His dysphagia was so severe, endoscopic palliation was necessary. The location of the tumor, lent itself to an approach involving stent placement. Both cryotherapy and PDT were not considered good options because the stricture was extremely tight and there was only a small component of endoluminal disease. Under general anesthesia, we performed our own endoscopy, which revealed that the tumor was located 30 cm from the incisors. Although it was initially difficult to advance the scope beyond the tumor, this was ultimately achieved with careful maneuvering. The length of the tumor was approximately 4 cm, and the proximal and distal extents of the tumor were marked under fluoroscopic visualization with unbent paper clips taped to the patient's chest wall ([Fig. 24-2](#fig-24-2)). Thereafter, a guidewire was placed, and a covered stent was advanced over the guidewire into the esophagus. Once the stent was positioned to achieve ample overlap beyond the proximal and distal margins, it was deployed ([Fig. 24-2](#fig-24-2)).
 
-<span id="fig-24-2"></span>**Figure 24-2.** Fluoroscopic stent image of deployed esophageal stent. Note the radiopaque markers (which denote the proximal and distal margin of the tumor).
+<span id="fig-24-2"></span>![](_page_123_Picture_2.jpeg)
 
-<span id="fig-24-3"></span>**Figure 24-3.** Barium esophagram following placement of the esophageal stent. Note a "waist" that appears at the midportion of the stent, corresponding to the location of the malignant stricture.
+**Figure 24-2.** Fluoroscopic stent image of deployed esophageal stent. Note the radiopaque markers (which denote the proximal and distal margin of the tumor).
+
+The patient was extubated successfully. A postoperative chest x-ray confirmed the absence of pneumomediastinum and pneumothorax. A barium esophagram performed a few days later demonstrated a patent esophagus ([Fig. 24-3](#fig-24-3)). Subsequently, the patient resumed a modified diet and was able to drink liquids.
+
+<span id="fig-24-3"></span>![](_page_123_Picture_6.jpeg)
+
+**Figure 24-3.** Barium esophagram following placement of the esophageal stent. Note a "waist" that appears at the midportion of the stent, corresponding to the location of the malignant stricture.
 
 </div></details>
 
@@ -3241,7 +3584,9 @@ Palliation of dysphagia is one of the aims of treating esophageal cancer. In pat
 </div></details>
 
 </div></details>
-  
+
+---
+
 <details class="med-details"><summary>
 
 ## Chapter 25: Management of Malignant Esophageal Fistula</summary><div class="details-content">
@@ -3286,19 +3631,27 @@ Once clinically stabilized, patients then are selected for conservative nonopera
 
 Perforations or fistulae involving the proximal third of the esophagus may be contained within the mediastinum or communicate with the airway via the membranous trachea. Fistulae that are contained within the mediastinum, depending on size, can be managed nonoperatively or by placing a closed drain in the mediastinum via a left neck incision. Caution should be exercised in placing SEMSs in the esophagus that extend proximally toward the hypopharynx as proximal migration can occur resulting in airway compromise and even asphyxiation. Proximal lesions involving the airway are better managed with a tracheal stent and a cervical drain.
 
-Esophageal fistulae of the middle or distal third of the esophagus may involve the airway, one or both pleural spaces, the pericardium, the peritoneum, or the aorta (Fig. 25-1). These are best managed in the operating room with anesthesia and with supplies and equipment available, including flexible esophagogastroscope, flexible bronchoscope, thoracoscope, fluoroscopy, and a variety of sizes of completely covered SEMSs for the esophagus and airway. The presence of an esophageal–aortic fistula is usually a premorbid event; however, endoluminal aortic stenting may be considered to salvage these patients. In patients awaiting planned surgical resection following neoadjuvant chemoradiation, occasionally a heroic attempt at resection may allow urgent palliation if combined with an endograft or open aortic replacement. This should only be contemplated if the patient is in excellent condition; in the era of endografting, this would be the preferred primary approach.
+Esophageal fistulae of the middle or distal third of the esophagus may involve the airway, one or both pleural spaces, the pericardium, the peritoneum, or the aorta ([Fig. 25-1](#fig-25-1)). These are best managed in the operating room with anesthesia and with supplies and equipment available, including flexible esophagogastroscope, flexible bronchoscope, thoracoscope, fluoroscopy, and a variety of sizes of completely covered SEMSs for the esophagus and airway. The presence of an esophageal–aortic fistula is usually a premorbid event; however, endoluminal aortic stenting may be considered to salvage these patients. In patients awaiting planned surgical resection following neoadjuvant chemoradiation, occasionally a heroic attempt at resection may allow urgent palliation if combined with an endograft or open aortic replacement. This should only be contemplated if the patient is in excellent condition; in the era of endografting, this would be the preferred primary approach.
 
-SEMSs are available in the United States from several different manufacturers and may be uncovered, partially covered, or fully covered. Fully covered stents are most appropriate in the management of malignant esophageal fistulae as they more effectively prevent ongoing leak from the esophagus and disrupt communication through the fistula tract. Fully covered SEMSs, as opposed to partially covered stents, are less prone to tissue ingrowth and thereby more easily removed or repositioned, but consequently also more prone to migration. Flexible esophagoscopy (Fig. 25-2A,B) should be performed in the operating room with fluoroscopy and a variety of lengths of large diameter SEMSs available. The fistula is visualized endoscopically and the proximal and distal extent marked with internal or external surface radiopaque marker under fluoroscopic guidance. The stent should be at least 4 cm longer than the desired area to be covered, which should include the entire length of the fistula and any tumor or stricture associated with, or distal to, the fistula (Fig. 25-3). If an obstructing tumor or stricture is present, it must be dilated to an internal diameter of 6 to 10 mm to permit passage of the predeployed stent delivery system. It is important to avoid overdilating the stricture as this may exacerbate the fistula as well as facilitate stent migration. It is important to attempt to limit the extent of the stent distally that resides across the lower esophageal sphincter and in the stomach, as this can promote reflux and aspiration and potentially lead to obstruction or ulceration through contact with the opposing gastric wall. If the CT scan suggests the presence of bulky tumor adjacent to the trachea posing a potential risk for external tracheal compression, then consideration should be given to placing a tracheal stent before placing an esophageal stent.
+SEMSs are available in the United States from several different manufacturers and may be uncovered, partially covered, or fully covered. Fully covered stents are most appropriate in the management of malignant esophageal fistulae as they more effectively prevent ongoing leak from the esophagus and disrupt communication through the fistula tract. Fully covered SEMSs, as opposed to partially covered stents, are less prone to tissue ingrowth and thereby more easily removed or repositioned, but consequently also more prone to migration. Flexible esophagoscopy ([Fig. 25-2A,B](#fig-25-2)) should be performed in the operating room with fluoroscopy and a variety of lengths of large diameter SEMSs available. The fistula is visualized endoscopically and the proximal and distal extent marked with internal or external surface radiopaque marker under fluoroscopic guidance. The stent should be at least 4 cm longer than the desired area to be covered, which should include the entire length of the fistula and any tumor or stricture associated with, or distal to, the fistula ([Fig. 25-3](#fig-25-3)). If an obstructing tumor or stricture is present, it must be dilated to an internal diameter of 6 to 10 mm to permit passage of the predeployed stent delivery system. It is important to avoid overdilating the stricture as this may exacerbate the fistula as well as facilitate stent migration. It is important to attempt to limit the extent of the stent distally that resides across the lower esophageal sphincter and in the stomach, as this can promote reflux and aspiration and potentially lead to obstruction or ulceration through contact with the opposing gastric wall. If the CT scan suggests the presence of bulky tumor adjacent to the trachea posing a potential risk for external tracheal compression, then consideration should be given to placing a tracheal stent before placing an esophageal stent.
 
 Decortication of the contaminated pleural space, including unroofing of any mediastinal abscess protruding into the pleural space (but contained by mediastinal pleura) and drainage of contaminated pleural or pericardial effusions, can usually be accomplished with video-assisted thoracoscopy. Routine drains should be placed as with any infected closed space. Rarely, consideration for an end esophagostomy should be entertained if the patient is becoming septic, although the long-term outcome from these situations is dismal.
 
 If prolonged delay in resuming oral nutrition is anticipated because of complicating factors, such as pneumonia or respiratory compromise requiring mechanical ventilation, then a surgically placed feeding tube should be considered before leaving the operating room.
 
-<span id="fig-25-1"></span>**Figure 25-1.** Mid-esophageal perforation, contaminating the mediastinum and contained right pleural collection.
+<span id="fig-25-1"></span>![](_page_126_Picture_8.jpeg)
 
-<span id="fig-25-2"></span>**Figure 25-2.** A. Endoscopy of esophageal perforation identified on CT scan. The communicating perforation can be visualized. B. True lumen is identified and guidewire is passed under direct vision and fluoroscopy guidance.
+**Figure 25-1.** Mid-esophageal perforation, contaminating the mediastinum and contained right pleural collection.
 
-<span id="fig-25-3"></span>**Figure 25-3.** Placement of stent is seen as visualized by fluoroscopy as well as direct proximal visualization.
+<span id="fig-25-2"></span>![](_page_126_Picture_12.jpeg)
+
+![](_page_126_Picture_13.jpeg)
+
+**Figure 25-2.** *A*. Endoscopy of esophageal perforation identified on CT scan. The communicating perforation can be visualized. *B*. True lumen is identified and guidewire is passed under direct vision and fluoroscopy guidance.
+
+<span id="fig-25-3"></span>![](_page_127_Picture_2.jpeg)
+
+**Figure 25-3.** Placement of stent is seen as visualized by fluoroscopy as well as direct proximal visualization.
 
 </div></details>
 
@@ -3329,7 +3682,7 @@ As noted above, these cases represent an almost uniformly fatal scenario. Older 
 </div></details>
 
 </div></details>
-
+  
 <details class="med-details"><summary>
 
 ## Chapter 26: Salvage Surgery for Recurrent Esophageal Cancer</summary><div class="details-content">
@@ -3590,9 +3943,13 @@ In patients who undergo surgery for esophageal cancer, there is limited data on 
 
 To assess whether the addition of concurrent chemotherapy improves outcomes with adjuvant radiation in esophageal patients, we can extrapolate from the Intergroup 0116 trial. In this study 556 patients with adenocarcinoma of the stomach or GE junction were randomized to resection alone or resection plus postoperative treatment. Approximately 20% of the patients had tumors located in the GE junction. The adjuvant treatment arm consisted of one cycle of postoperative chemotherapy (5-FU/leucovorin), then concurrent chemoradiation (45 Gy and 5-FU/leucovorin), followed by two more cycles of chemotherapy. Adjuvant chemoradiation improved overall survival (median 36 months vs. 27 months) and relapse-free survival (median 30 months vs. 19%). Based on these data, adjuvant chemoradiation is generally recommended for patients with GE junction cancers who undergo surgery as initial management.
 
-We do not routinely use postoperative radiation therapy in esophageal cancer above the GE junction, since modern studies exhibit improved outcomes with neoadjuvant treatment. In addition, postoperative radiation fields are generally much larger to treat the anastomotic site (Fig. 27-1). Larger fields that extend high into the thorax and neck can involve normal tissues that are sensitive to the effects of radiation, particularly the lung and heart. Neoadjuvant chemoradiation is thus preferable to postoperative treatment for locally advanced esophageal cancer. Although the results of INT-0116 support the use of postoperative treatment for GE junction tumors, the rationale for neoadjuvant therapy applies to tumors of the cardia and GE junction, and neoadjuvant chemoradiation is therefore our preferred treatment strategy for locally advanced tumors of the esophagus, GE junction, and cardia.
+We do not routinely use postoperative radiation therapy in esophageal cancer above the GE junction, since modern studies exhibit improved outcomes with neoadjuvant treatment. In addition, postoperative radiation fields are generally much larger to treat the anastomotic site ([Fig. 27-1](#fig-27-1)). Larger fields that extend high into the thorax and neck can involve normal tissues that are sensitive to the effects of radiation, particularly the lung and heart. Neoadjuvant chemoradiation is thus preferable to postoperative treatment for locally advanced esophageal cancer. Although the results of INT-0116 support the use of postoperative treatment for GE junction tumors, the rationale for neoadjuvant therapy applies to tumors of the cardia and GE junction, and neoadjuvant chemoradiation is therefore our preferred treatment strategy for locally advanced tumors of the esophagus, GE junction, and cardia.
 
-<span id="fig-27-1"></span>**Figure 27-1.** A. Anterior-posterior (AP) field for preoperative treatment of a GE junction tumor. B. AP field for postoperative treatment of a GE junction tumor. Note that the field extends much farther superiorly, to the level of the clavicles rather than the level of the carina. The larger field results in the treatment of significantly more normal tissue, particularly heart and lung.
+<span id="fig-27-1"></span>![](_page_136_Picture_2.jpeg)
+
+![](_page_136_Picture_3.jpeg)
+
+**Figure 27-1.** *A.* Anterior-posterior (AP) field for preoperative treatment of a GE junction tumor. *B.* AP field for postoperative treatment of a GE junction tumor. Note that the field extends much farther superiorly, to the level of the clavicles rather than the level of the carina. The larger field results in the treatment of significantly more normal tissue, particularly heart and lung.
 
 </div></details>
 
@@ -3620,11 +3977,13 @@ Radiation treatment for esophageal cancer can be challenging because of the adva
 
 #### Pulmonary Complications</summary><div class="details-content">
 
-Patients receiving chemoradiation for esophageal cancer are at risk for pulmonary complications. Radiation pneumonitis is a subacute complication characterized by persistent cough or shortness of breath arising 6 weeks to 6 months after therapy. There is often also a radiologic correlation seen on CT within the photon beam path. Radiation oncologists try to minimize complications based on dose metrics to normal tissue. There is evidence that the risk of pneumonitis correlates with mean lung dose and data points on a dose–volume histogram (Fig. 27-2), although there is no definitive set of dose parameters that correlates perfectly with low pneumonitis risk.
+Patients receiving chemoradiation for esophageal cancer are at risk for pulmonary complications. Radiation pneumonitis is a subacute complication characterized by persistent cough or shortness of breath arising 6 weeks to 6 months after therapy. There is often also a radiologic correlation seen on CT within the photon beam path. Radiation oncologists try to minimize complications based on dose metrics to normal tissue. There is evidence that the risk of pneumonitis correlates with mean lung dose and data points on a dose–volume histogram ([Fig. 27-2](#fig-27-2)), although there is no definitive set of dose parameters that correlates perfectly with low pneumonitis risk.
 
 Pulmonary complications that occur after esophagectomy can contribute substantially to postoperative morbidity and mortality. A study of 110 esophageal cancer patients treated with preoperative chemoradiation followed by esophagectomy found that dosimetric factors such as higher mean lung doses and worse lung sparing correlated with postoperative pulmonary complications. However, a recent German study comparing patients who received preoperative chemoradiation followed by surgery or surgery alone found no difference in perioperative pulmonary toxicity.
 
-<span id="fig-27-2"></span>**Figure 27-2.** Dose–volume histogram (DVH) of a patient receiving radiation therapy for esophageal cancer. The red dotted line represents the esophageal tumor, all of which receives the prescribed dose of 5040 cGy. The green solid line represents the spinal cord, which receives a maximal dose of 3400 cGy, well below the tolerance of 4500 cGy. The blue dashed line represents the combined lung volume, with 30% of this volume receiving a dose of 2000 cGy, which is associated with a low risk of clinically significant pneumonitis.
+<span id="fig-27-2"></span>![](_page_137_Figure_10.jpeg)
+
+**Figure 27-2.** Dose–volume histogram (DVH) of a patient receiving radiation therapy for esophageal cancer. The red dotted line represents the esophageal tumor, all of which receives the prescribed dose of 5040 cGy. The green solid line represents the spinal cord, which receives a maximal dose of 3400 cGy, well below the tolerance of 4500 cGy. The blue dashed line represents the combined lung volume, with 30% of this volume receiving a dose of 2000 cGy, which is associated with a low risk of clinically significant pneumonitis.
 
 </div></details>
 
