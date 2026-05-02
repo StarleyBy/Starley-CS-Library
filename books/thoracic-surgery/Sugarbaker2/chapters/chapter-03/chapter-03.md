@@ -2,9 +2,9 @@
 
 <details class="med-details"><summary>
 
-## Executive Summary</summary><div class="details-content">
+## Executive Summary (Chapters 28–32) — Benign Esophageal Disease</summary><div class="details-content">
 
-### Chapter 28: Embryology and Anatomy
+### Embryology and Anatomy (Chapter 28)
 * **Embryology:** Esophagus and trachea form from foregut (day 22–23); complete separation by day 36. Epithelial proliferation fills lumen at week 7–8, vacuoles coalesce by week 10. Congenital anomalies occur in 1/3500 births, 60% associated with VACTERL.
 * **Anatomy:** Length 21–34 cm (average 23 cm female, 28 cm male). Three portions: cervical (3–5 cm), thoracic (18–22 cm), abdominal (3–5 cm). Lined by nonkeratinizing stratified squamous epithelium. Z‑line marks squamocolumnar junction. Barrett esophagus = columnar metaplasia.
 * **Upper esophageal sphincter (UES):** Composed of cricopharyngeus + inferior pharyngeal constrictor. Tonic pressure 30–142 mm Hg. Prevents reflux and esophageal distension.
@@ -14,7 +14,7 @@
 * **Lymphatics:** Abundant longitudinal submucosal channels. Drain to paratracheal, bifurcation, juxtaesophageal, intra‑aorticoesophageal nodes (thoracic); superior gastric, pericardiac, inferior diaphragmatic (abdominal). Ultimately to thoracic duct.
 * **Innervation:** Sympathetic (vasoconstriction, sphincter contraction, wall relaxation); parasympathetic via vagus (increased glandular and peristaltic activity). Superior laryngeal nerve supplies larynx and cricopharyngeus.
 
-### Chapters 28–29: Benign Esophageal Tumors
+### Benign Esophageal Tumors (Chapters 28–29)
 * **Prevalence:** <0.5% at autopsy. Most asymptomatic; symptoms arise when obstructing lumen or compressing mediastinum.
 * **Mucosal lesions:** Papilloma (small, wart‑like, distal esophagus, possibly HPV‑related). Adenoma (almost exclusively in Barrett esophagus, premalignant → resect). Inflammatory polyp (GEJ, due to reflux, resolves with treatment). Fibrovascular polyp (cervical esophagus, pedunculated, can cause asphyxiation; resect if large or symptomatic).
 * **Submucosal lesions:** Granular cell tumor (neural origin, S‑100 positive, 1–3% malignant if >4 cm; resect if >1 cm or symptomatic). Lymphangioma (rare, congenital, usually <5 mm, conservative). Hemangioma (bluish, can bleed; treat if symptomatic).
@@ -22,26 +22,26 @@
 * **Cysts:** Inclusion cysts (intramural, near carina, lined by ciliated columnar or squamous). Duplication cysts (extramural, in muscular wall, do not communicate with lumen; can cause respiratory/gastrointestinal symptoms; surgical excision recommended).
 * **Heterotopic mucosa (inlet patch):** Gastric mucosa in cervical esophagus (up to 10% of endoscopies). Usually asymptomatic; may cause globus. Acid‑secreting (if fundic type). Rarely associated with adenocarcinoma.
 
-### Chapter 30: Esophageal Diverticula 
+### Esophageal Diverticula (Chapter 30)
 * **Pulsion diverticula (false):** Due to motility disorder (cricopharyngeal dysfunction for Zenker; achalasia/spasm for epiphrenic). Mucosa herniates through muscle.
 * **Traction diverticula (true):** Due to mediastinal adenopathy (TB, histoplasmosis). All layers pulled outward.
 * **Zenker diverticulum:** Most common. Through Killian dehiscence (between inferior constrictor and cricopharyngeus). Symptoms: dysphagia, gurgling, regurgitation (bland), halitosis, aspiration. Treatment: cricopharyngeal myotomy (essential) + diverticulectomy (if >2–3 cm) or suspension (if ≤2 cm). Transoral endoscopic stapled diverticulotomy (requires pouch ≥3 cm, good neck extension). Avoid suturing to prevertebral fascia (risk of osteomyelitis).
 * **Epiphrenic diverticulum:** Second most common. Associated with achalasia, DES, hypertensive LES. Symptoms: dysphagia, regurgitation, chest pain. Treatment: myotomy from diverticulum across GEJ onto stomach (2–3 cm) + diverticulectomy + partial fundoplication (Dor or Belsey) — “triple treat”. Laparoscopic approach if diverticulum near hiatus; left thoracotomy if more proximal. For diverticula under aortic arch, two‑stage approach: laparoscopic myotomy + fundoplication, then thoracoscopic diverticulectomy.
 * **Midesophageal traction diverticulum:** Usually asymptomatic; treat only if symptomatic (excision alone, no myotomy).
 
-### Chapter 28: Esophageal Webs and Rings
+### Esophageal Webs and Rings (Chapter 28)
 * **Esophageal web:** Thin squamous membrane, usually cervical or midesophageal. Associated with Plummer‑Vinson syndrome (iron deficiency). Treatment: endoscopic dilation or passage of scope. Congenital webs rare (incomplete recanalization).
 * **Schatzki ring (mucosal ring):** Membranous diaphragm at squamocolumnar junction. Usually asymptomatic unless lumen <13 mm → dysphagia to solids. Treatment: bougie or balloon dilation (recurrence ~13%). Electrocautery disruption also effective.
 * **Muscular ring:** Congenital, hypertrophied muscle 2 cm above squamocolumnar junction. Treatment: dilation or Botox.
 
-### Chapter 31: Esophageal Exclusion and Diversion
+### Esophageal Exclusion and Diversion (Chapter 31)
 * **Indications for exclusion/diversion:** Severe esophageal perforation with delayed diagnosis (>24 h), extensive mediastinal contamination, “woody” inflamed tissues, septic patient, failure of primary repair.
 * **Esophageal exclusion:** Thoracotomy (right for midthoracic, left for distal). Mobilise perforation, repair if feasible, then staple proximal and distal esophagus (without dividing) using same stapler to avoid uneven recanalization. Nasogastric tube proximal.
 * **Cervical esophageal diversion:** Left neck incision, expose cervical esophagus, ligate distal end (stapler or suture), bring proximal end out as loop esophagostomy (mature with absorbable sutures). Alternative: end esophagostomy (more complex to reverse).
 * **Feeding access:** Feeding jejunostomy (always). Gastrostomy often added (permits retrograde dilation if stricture forms).
 * **Postoperative:** Historical survival with exclusion/diversion ~24% (meta‑analysis). Reversal after 6–8 weeks. Late stricture at staple line may require antegrade or retrograde dilation (through gastrostomy) or resection.
 
-### Chapter 32: Complications of Esophageal Surgery
+### Complications of Esophageal Surgery (Chapter 32)
 * **Antireflux surgery:** Laparoscopic, morbidity 4–7%, mortality 0.1%. Most frequent intraoperative complications: organ perforation (esophagus, stomach, bowel), vagal nerve injury, major vessel injury, splenic injury (0.2% in laparoscopic series, 1–3% open). Esophageal perforation during dissection ~1–2%. Repair with healthy tissue coverage essential.
 * **Postoperative after antireflux:** Dysphagia (prevent with 48–50F bougie; if persistent → reoperation). Early herniation of wrap (obese, short esophagus). Late wrap failure (slipped fundoplication, transhiatal herniation). Recurrence after paraesophageal hernia repair 10–18% open, 15–66% laparoscopic.
 * **Cricopharyngeal myotomy for Zenker:** Complications: wound infection (3%), fistula (1.5%), recurrent nerve palsy (3% in Mayo series). Recurrence rate 7% at 5–14 years. Transoral stapling: dental injury (7%), fever (4%), aspiration (0.7%), perforation (0.7%).
@@ -68,7 +68,11 @@ The esophageal wall is derived from both endoderm and mesoderm. The endoderm for
 
 Congenital anomalies of the esophagus occur in 1 in 3500 births and typically are the result of a genetic defect or maternal event. They are more common in premature infants, and 60% are associated with other congenital anomalies, including VACTERL syndrome (associated vertebral, anal, cardiac, tracheal, esophageal, renal, and limb congenital anomalies). For further information regarding congenital anomalies of the esophagus, including atresia, stenosis, clefts, and tracheoesophageal fistula, see Chapter 51.
 
+![](_page_1_Figure_10.jpeg)
+
 <span id="fig-28-1"></span>**Figure 28-1.** The embryonic tracheoesophageal septum forms to separate the esophagus and trachea. The lungs then bud off ventrally from the trachea.
+
+![](_page_1_Figure_12.jpeg)
 
 <span id="fig-28-2"></span>**Figure 28-2.** A. Epithelial cells initially fill the obliterated esophagus, then isolated vacuoles form (B) and eventually coalesce (C) to form a patent lumen (D).
 
@@ -94,6 +98,8 @@ The LES does not have anatomy as discrete as the UES. The LES is composed in par
 
 Only loose adventitia adheres the esophagus to its surrounding mediastinum, as it has no serosa or mesentery. These loose attachments allow for considerable cephalocaudal movement during respiration.
 
+![](_page_2_Picture_7.jpeg)
+
 <span id="fig-28-3"></span>**Figure 28-3.** The esophagus is lined with stratified squamous epithelium. The mucosa of the esophagus is comprised of epithelium, lamina propria, and muscularis mucosa. The submucosa is deep to this, then the inner circular muscular layer and the outer longitudinal muscular layer.
 
 <details class="med-details"><summary>
@@ -107,6 +113,8 @@ The superior thyroid artery gives off smaller arteries that supply the UES and p
 The thoracic esophagus derives its blood supply from the superior and inferior thyroid arteries superiorly and the aorta inferiorly. Both the tracheobronchial arteries and the bronchoesophageal artery originate from the aortic arch and further subdivide to provide branches to the trachea. The proper aortic esophageal arteries are unpaired and arise from the descending aorta.
 
 The abdominal esophagus is supplied by the left gastric artery, ascending branches from the left phrenic artery, and the splenic artery. The splenic artery delivers arterial blood to the posterior and left lateral distal esophagus. Branches from both extend beyond the diaphragmatic hiatus. The repetitive branching of the arterial supply eventually forms a rich submucosal arterial plexus that allows for ligation of extramural vessels without compromising the underlying esophagus (Fig. 28-4).
+
+![](_page_3_Picture_2.jpeg)
 
 <span id="fig-28-4"></span>**Figure 28-4.** Arterial blood supply to the esophagus. The cervical esophagus is supplied by the inferior thyroid arteries. The thoracic esophagus is mainly supplied by direct branches off the aorta, and the abdominal esophagus is supplied by the left gastric and inferior phrenic arteries.
 
@@ -174,6 +182,8 @@ Esophageal papillomas are small (typically subcentimeter) benign sessile lesions
 
 Differing theories exist regarding the origin of esophageal papillomas. A theory of local inflammation giving rise to papillomas is supported by an association with reflux, esophagitis, and mucosal irritants as well as the distal location of papillomas. Animal studies have shown a causative relationship between chemical mucosal irritation and the development of esophageal papillomas. Some evidence points to a role of the human papilloma virus (HPV) in the development of esophageal papillomas based on varying reports on the prevalence of HPV in patients with esophageal papillomas. Although HPV has been linked to laryngeal and cervical cancers, there is no conclusive evidence for a relationship between HPV and esophageal malignancy (Fig. 28-5).
 
+![](_page_4_Figure_12.jpeg)
+
 <span id="fig-28-5"></span>**Figure 28-5.** Esophageal papilloma appears as an isolated, wart-like exophytic projection on endoscopy. (Reproduced with permission from Feldman M, Friedman L, Brandt L. *Sleisenger and Fordtran's Gastrointestinal and Liver Disease*. 9th ed. Philadelphia, PA: Saunders; 2010, Figure 48-16).
 
 </div></details>
@@ -216,6 +226,8 @@ Granular cell tumors can arise from skin, breast, tongue, and gastrointestinal t
 
 Unlike most other benign lesions discussed in this chapter, granular cell tumors have malignant potential. In a series of 183 patients with granular cell tumors, 4% were malignant. All of the malignant lesions found were larger than 4 cm. Despite their malignant potential, recurrence after endoscopic resection has not been described. These lesions are generally treated with endoscopic resection with biopsy forceps or endoscopic mucosal resection for lesions larger than 1 cm.
 
+![](_page_5_Picture_12.jpeg)
+
 <span id="fig-28-6"></span>**Figure 28-6.** Endoscopic view of esophageal granular cell tumor. (Reprinted with permission from *J Pediatr Gastroenterol Nutr.* 2004;38(1):97–101).
 
 </div></details>
@@ -250,7 +262,13 @@ Leiomyomas are the most common benign neoplasms found in the esophagus. They are
 
 Leiomyomas very seldom cause symptoms, but dysphagia, chest pain, bleeding (if ulcerated), reflux (if distal), and obstruction (if larger than 5 cm) all have been described. On esophagram, these lesions appear as rounded filling defects; on endoscopy, they appear as firm nodules with normal overlying mucosa (Fig. 28-7). Because the mucosa is normal, forceps biopsy is rarely helpful (unless the lesion happens to arise from the muscularis mucosa). On endoscopic ultrasound, they are hypoechoic and arise from the muscular layer of the esophagus, whereas computed tomography is not always useful in determining the layer of origin (Fig. 28-8A,B). These lesions are slow growing, and if encountered incidentally, smaller asymptomatic lesions can be treated conservatively. As with most muscle-derived tumors, such as sarcomas and gastrointestinal stromal tumors, lesions larger than 4 cm have an increased risk of malignancy and should be treated with resection. Unlike other parts of the gastrointestinal tract, however, leiomyomas are far more common in the esophagus than their malignant counterparts. Given the difficulty of clear diagnosis with endoscopic biopsy or fine-needle aspiration, resection is recommended to confirm the diagnosis of benign disease. Lesions that are greater than 2 cm or that are symptomatic should be surgically resected.
 
+![](_page_6_Picture_2.jpeg)
+
 <span id="fig-28-7"></span>**Figure 28-7.** Smooth filling defect on barium esophagram of an esophageal leiomyoma.
+
+![](_page_6_Picture_11.jpeg)
+
+![](_page_6_Picture_12.jpeg)
 
 <span id="fig-28-8"></span>**Figure 28-8.** A. Endoscopic ultrasound of a hypoechoic homogeneous mass originating from the muscularis propria found to be a giant leiomyoma on pathology. (Image provided by Dr. Irving Waxman and Dr. Mariano Gonzalez-Haba Ruiz, University of Chicago, Department of Gastroenterology.) B. Computed tomogram demonstrating a large leiomyoma of the distal esophagus.
 
@@ -263,6 +281,10 @@ Leiomyomas very seldom cause symptoms, but dysphagia, chest pain, bleeding (if u
 ### Heterotopic Mucosa (Inlet Patch)</summary><div class="details-content">
 
 An inlet patch is an area of heterotopic gastric mucosa found just distal to the UES in up to 10% of thorough endoscopies (Fig. 28-9A). They are generally thought to be congenital in origin and result from incomplete replacement of columnar gastric epithelium with esophageal squamous epithelium. The patches appear as red velvety patches from 0.5 to 2 cm in diameter and can be composed of either antral- or fundic-type gastric mucosa. Fundic mucosa contains chief and parietal cells that have the capability of producing acid (Fig. 28-9B). Inlet patches are usually asymptomatic, but there has been a suggested association with globus sensation, which resolves with ablation. There have also been reports of association with *Helicobacter pylori* infection and esophageal webs, rings, or strictures. Only 24 reports of associated gastric adenocarcinoma have been published.
+
+![](_page_7_Picture_2.jpeg)
+
+![](_page_7_Picture_3.jpeg)
 
 <span id="fig-28-9"></span>**Figure 28-9.** Heterotopic gastric mucosa on endoscopy (A) and microscopy (B). (Reprinted with permission from *Gastrointest Endosc.* 2001;53(7):717–721).
 
@@ -290,7 +312,11 @@ Esophageal duplication cysts are fluid-filled structures that typically occur in
 
 Duplication cysts may be seen on esophagram as a compression on the esophageal lumen, or on endoscopy, as a submucosal mass (Fig. 28-11). These lesions are visible on CT or MRI and manifest as anechoic lesions on endoscopic ultrasound. An endoscopic fine-needle aspiration of the cyst fluid can help to find neoplastic cells in masses that are found incidentally, although only surgical excision truly rules out neoplasm. Surgical excision is the favored treatment because it has low morbidity. Occasionally, emergency endoscopic needle decompression is needed to treat life-threatening airway complications of duplication cysts.
 
+![](_page_8_Figure_2.jpeg)
+
 <span id="fig-28-10"></span>**Figure 28-10.** Barium swallow (A, B) and endoscopic views (C, D) of a tubular esophageal duplication. (Reprinted with permission from *Gastrointest Endosc.* 2010;71(4):827–830).
+
+![](_page_9_Picture_2.jpeg)
 
 <span id="fig-28-11"></span>**Figure 28-11.** Barium swallow demonstrating an esophageal duplication cyst. (Image provided by The Human Imaging Research Office at The University of Chicago).
 
@@ -312,7 +338,11 @@ Midesophageal diverticula can be traction or pulsion diverticula. Patients with 
 
 Distal or epiphrenic diverticula are the second most common type of diverticulum in Western society and can occur at all ages. These diverticula are usually the result of motor dysfunction, such as discoordination between the distal esophagus and the LES, achalasia, or diffuse esophageal spasm. Patients are usually asymptomatic, but the severity of the symptoms depends on the motor abnormality, the size of the diverticulum, and the size of the mouth of the diverticulum. A small diverticular mouth may limit spontaneous emptying of the diverticulum and contribute to symptoms of regurgitation. Symptoms described include chest pain and, less commonly, regurgitation. These lesions are typically diagnosed on barium swallow (Fig. 28-13). Symptomatic lesions are treated with either laparoscopic or thoracoscopic diverticulectomy and possibly fundoplication. Consideration also should be given to concurrent esophageal myotomy distal to the diverticulum. For details of the surgical approach to epiphrenic diverticula, see Chapter 30.
 
+![](_page_9_Picture_4.jpeg)
+
 <span id="fig-28-12"></span>**Figure 28-12.** Barium swallow demonstrating a Zenker diverticulum.
+
+![](_page_9_Picture_6.jpeg)
 
 <span id="fig-28-13"></span>**Figure 28-13.** Pulsion diverticula evident on barium swallow. (Image provided by The Human Imaging Research Office at The University of Chicago).
 
@@ -328,6 +358,8 @@ Plummer-Vinson syndrome is described as an association between iron deficiency a
 
 Congenital webs are extremely rare, with only 30 reported cases. Congenital webs occur by incomplete coalescence of the vacuoles in the epithelial cells that fill the esophagus at approximately week 10 of gestation. If the diaphragm completely occludes the lumen, the treatment is surgical excision of the membrane shortly after birth. More commonly, however, these diaphragms are incomplete and behave clinically as any other type of esophageal stenosis. Unlike esophageal rings (see below), they rarely encircle the entire esophagus, and typically project from the anterior or lateral esophagus.
 
+![](_page_10_Picture_11.jpeg)
+
 <span id="fig-28-14"></span>**Figure 28-14.** Barium swallow of an esophageal web. (Image provided by The Human Imaging Research Office at The University of Chicago).
 
 </div></details>
@@ -341,6 +373,8 @@ There are two types of esophageal rings: mucosal rings (also termed "Schatzki ri
 Schatzki first described the "Schatzki ring" in 1944. It is a shelf-like membranous esophageal diaphragm of squamous mucosa located at the junction of the esophageal vestibule and the gastric cardia. These rings generally are asymptomatic but have been reported to cause dysphagia, most commonly in middle-aged men, when they narrow the lumen (<13 mm) enough that a food bolus cannot pass. They are fairly common, with an incidence between 6% and 14% on esophagram. They appear as a radiographic shelf in the mid-to-distal esophagus on esophagram (Fig. 28-15). It is important to dilate the distal esophagus sufficiently to be able to see the ring on endoscopy. Most rings can be treated successfully with large bougie or balloon dilation with a recurrence rate of 13% in one series. Disruption of the ring with electrocautery has also been shown to be effective.
 
 The benign esophageal diseases discussed in this chapter are limited to benign neoplasms and several structural abnormalities. Management of these lesions is discussed in the Chapters 29 and 30. For details regarding congenital esophageal disease, consult Chapters 50 and 51. See Chapters 32 to 35 for a detailed discussion of motility disorders. For more information regarding the pathophysiology and surgical treatment of esophageal malignancy, see Chapters 10 through 25.
+
+![](_page_10_Picture_13.jpeg)
 
 <span id="fig-28-15"></span>**Figure 28-15.** Barium swallow of an esophageal ring. (Image provided by The Human Imaging Research Office at The University of Chicago).
 
@@ -434,6 +468,8 @@ Fibrovascular polyps commonly cause obstructive symptoms such as dysphagia, regu
 
 On barium esophagram, these characteristically appear as smooth, lobulated, elongated filling defects starting at the level of the cervical esophagus (Fig. 29-1A,B). Computed tomography (CT) or magnetic resonance imaging (MRI) will show a dilated esophagus with a homogeneous, intraluminal soft tissue mass without invasion of surrounding structures. These studies can also identify the level of origin of the stalk. Endoscopy may be useful for identifying the site of origin and size of the lesion (Fig. 29-1C). However, small lesions may be missed because they are typically lined with normal-appearing mucosa. EUS is useful for identifying feeding vessels and predicting risk of significant bleeding during excision.
 
+![](_page_14_Picture_2.jpeg)
+
 <span id="fig-29-1"></span>**Figure 29-1.** Fibrovascular polyp on barium swallow (A), computed tomography (B), and gross specimen (C).
 
 </div></details>
@@ -445,6 +481,8 @@ On barium esophagram, these characteristically appear as smooth, lobulated, elon
 Fibrovascular polyps are benign and may be treated with endoscopic excision; those with thin pedicles may be endoscopically ligated or cauterized. Factors that preclude safe endoscopic removal include vascular stalks that need to be ligated or cauterized, or tumors too large to be delivered through the upper esophageal sphincter. These lesions may require cervical esophagotomy for excision. Lesions with features concerning for malignancy or those too large to be removed through a cervical esophagotomy may require a formal esophagectomy (see Chapters 15–22). Resection is recommended for all large fibrovascular polyps because of the risk of regurgitation and asphyxiation.
 
 For fibrovascular polyps that are treated surgically, the location of the tumor stalk or pedicle should be evaluated preoperatively as described above. It is helpful to have endoscopy available for intraoperative localization. Consideration likewise should be given to performing a gastrotomy if necessary to facilitate removal of large lesions that extend into the stomach. The patient should be positioned and draped appropriately with these considerations in mind. The esophagus is approached through a longitudinal neck incision anterior to the sternocleidomastoid muscle on the side opposite to the tumor. Fibrovascular polyps generally originate just inferior to the cricopharyngeus muscle. A longitudinal esophagotomy is made at the level of the stalk origin. The incision must be long enough to deliver the tumor through the incision while the stalk is intact. The incision can then be extended distally to expose the entire stalk, allowing for submucosal resection of the tumor with the stalk (Fig. 29-2). The base of the stalk is then ligated, taking care to control any vessels supplying the tumor through the stalk. Complete excision of the pedicle is necessary to prevent recurrence. The esophagus is closed in two layers. Drains are not routinely placed.
+
+![](_page_15_Picture_2.jpeg)
 
 <span id="fig-29-2"></span>**Figure 29-2.** Cervical esophagotomy for fibrovascular polyp.
 
@@ -488,6 +526,10 @@ Leiomyomas have a typical appearance on barium swallow as rounded, smoothly marg
 
 Surgical excision is indicated in patients with symptomatic lesions. In asymptomatic patients, resection historically has been the treatment of choice and is recommended for tumors with increasing size, mucosal ulceration, or when tissue is needed to confirm the diagnosis. Resection is often recommended for lesions >4 cm in asymptomatic patients regardless of whether other abnormalities indicating increased risk are present. Observation of small, characteristic, asymptomatic lesions with serial EUS every 1 to 2 years has been recommended by some authors.
 
+![](_page_15_Picture_13.jpeg)
+
+![](_page_15_Picture_14.jpeg)
+
 <span id="fig-29-3"></span>**Figure 29-3.** Leiomyoma on flexible esophagoscopy (A) and endoscopic ultrasonography (B).
 
 </div></details>
@@ -510,7 +552,9 @@ Tumors in the lower esophagus may require mobilization of the cardia and disrupt
 
 Transthoracic enucleation has been the procedure of choice for removal of most leiomyomas. Open thoracotomy or video assisted thoracic surgery (VATS) may be used according to surgeon preference. Tumors in the upper two-thirds of the esophagus are usually accessed from the right side, while lower third lesions are removed from either the left or the right side. After the esophagus is exposed, the lesion is identified using palpation and/or transillumination with endoscopy. The esophagus is mobilized sufficiently to identify the circumferential extent of the tumor. The azygos vein may be divided as necessary to gain adequate exposure. A longitudinal myotomy is then made overlying the tumor; this incision can be smaller than the length of the tumor. The leiomyoma will appear as a smooth, avascular, gray-white mass. Blunt dissection, hook cautery, and scissors are used to mobilize the tumor from the muscle layer and underlying submucosa. A traction suture may be placed in the tumor to assist in freeing it from the underlying tissue. Endoscopic visualization can be used during dissection to identify any mucosal damage.
 
-After the tumor is removed, the endoscope is used for insufflation, possibly using distal occlusion of the esophagus. The esophagus is submerged in saline to observe for any air leak, which is an indication of a mucosal leak. Preoperative endoscopic biopsy predisposes to scar tissue formation that makes the tumor more adherent to the mucosa and increases the risk of intraoperative mucosal damage. Mucosal damage identified during surgery is repaired in two layers with absorbable sutures. In this case, delay of oral feedings for several days should be considered. After mucosal integrity is confirmed, the muscular layer is approximated without tension. Some authors suggest not closing the muscular layer if there is evidence of significant trauma after resection. A flap of pleura, pericardium, diaphragm, omentum, or pedicled intercostal muscle may be used as a buttress for the closure, but this is rarely necessary if the muscle layer is preserved in good condition and the closure of the muscle layer is secure. Failure to close the muscle layer or otherwise reinforce the area of myotomy may predispose to the development of a pseudodiverticulum (Fig. 29-4).
+After the tumor is removed, the endoscope is used for insufflation, possibly using distal occlusion of the esophagus. The esophagus is submerged in saline to observe for any air leak, which is an indication of a mucosal leak. Preoperative endoscopic biopsy predisposes to scar tissue formation that makes the tumor more adherent to the mucosa and increases the risk of intraoperative mucosal damage. Mucosal damage identified during surgery is repaired in two layers with absorbable sutures. In this case, delay of oral feedings for several days should be considered. After mucosal integrity is confirmed, the muscular layer is approximated without tension. Some authors suggest not closing the muscular layer if there is evidence of significant trauma after resection. A flap of pleura, pericardium, diaphragm, omentum, or pedicled intercostal muscle may be used as a buttress for the closure, but this is rarely necessary if the muscle layer is preserved in good condition and the closure of the muscle layer is secure. Failure to close the muscle layer or otherwise reinforce the area of myotomy may predispose to the development of a pseudodiverticulum (Fig. 29-4). 
+
+![](_page_16_Picture_6.jpeg)
 
 <span id="fig-29-4"></span>**Figure 29-4.** Pseudodiverticulum after enucleation for leiomyoma.
 
@@ -572,6 +616,14 @@ A 59-year-old male presented to surgery clinic after an annual whole-body CT sca
 
 The mass was removed and endoscopic insufflation was used to confirm that the submucosa remained intact. The posterior crural pillars were reapproximated and a partial anterior (Dor) fundoplication was performed. No drains were left. The patient was given clear liquids by mouth on the first postoperative day, and then was advanced to a soft mechanical diet the next day. He was discharged home on day 3, and was seen 2 weeks postoperatively, at which time he was tolerating a regular diet without symptoms of reflux or dysphagia. The final pathology revealed a 6.5-cm leiomyoma.
 
+![](_page_17_Picture_6.jpeg)
+
+![](_page_17_Picture_7.jpeg)
+
+![](_page_17_Picture_8.jpeg)
+
+![](_page_17_Picture_9.jpeg)
+
 <span id="fig-29-5"></span>**Figure 29-5.** Leiomyoma of esophagus. A. Computed tomography (CT) image; B. endoscopic view; C. EUS image; D. gross pathology image.
 
 </div></details>
@@ -593,9 +645,9 @@ Benign esophageal lesions generally can be resected by means of minimally invasi
 —Raphael Bueno
 
 </div></details>
-  
+
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## Chapter 30: Resection of Esophageal Diverticula</summary><div class="details-content">
@@ -610,11 +662,23 @@ Traction diverticula are caused by granulomatous inflammation of mediastinal lym
 
 Surgery is the only effective therapy for esophageal diverticula. Dilation of the cricopharyngeus muscle has been attempted in patients with Zenker diverticulum with limited success. Even if the dilation is helpful, it only addresses the dysphagia component of the patient's symptoms. The surgical plan for patients with a pulsion diverticulum includes myotomy of the dysfunctional esophageal muscle adjacent and distal to the diverticulum and either excision or suspension of the diverticulum based on its size and location. Failure to divide the dysfunctional muscle leads to a high rate of recurrence and increases the risk of a leak from the suture or staple line if the diverticulum has been excised. For patients with a symptomatic traction diverticulum, only excision of the diverticulum is necessary, but the fibrotic nodes that caused the diverticulum can make the dissection tedious. Approaches to both pulsion and traction diverticula include the traditional open techniques and more recent transoral, laparoscopic, and thoracoscopic minimally invasive options. Given the absence of effective nonsurgical therapy and the relative safety of most of these procedures, symptomatic patients with an esophageal diverticulum should be considered for surgical therapy regardless of age.
 
+![](_page_19_Picture_9.jpeg)
+
+![](_page_19_Picture_10.jpeg)
+
 <span id="fig-30-1"></span>**Figure 30-1.** A. The epiphrenic esophageal diverticulum depicted in the intraoperative photograph is of the pulsion variety. Pulsion diverticula (B) are not covered by the muscle layers of the esophageal wall and thus are considered false diverticula.
+
+![](_page_20_Picture_2.jpeg)
 
 <span id="fig-30-2"></span>**Figure 30-2.** Barium swallow of a patient with a large epiphrenic diverticulum.
 
+![](_page_20_Picture_4.jpeg)
+
 <span id="fig-30-3"></span>**Figure 30-3.** Regurgitation symptoms are common in patients with a large diverticulum, and often they are assumed to have reflux and are placed on a proton pump inhibitor. A key distinction is that the material regurgitated in a patient with a diverticulum is bland, not bitter or acidic.
+
+![](_page_20_Picture_6.jpeg)
+
+![](_page_20_Picture_7.jpeg)
 
 <span id="fig-30-4"></span>**Figure 30-4.** A. Barium swallow of a patient with a midesophageal traction diverticulum. Note the calcified nodes in hilum. B. Illustration of a true diverticulum showing involvement of the complete esophageal wall.
 
@@ -644,6 +708,8 @@ Once exposed, a longitudinal myotomy on the posterolateral aspect of the cervica
 
 Next, the diverticulum is either suspended or excised. Diverticula 2 cm or less in size are easily suspended by tacking the tip of the diverticulum with 3-0 Prolene to the precervical fascia as high up in the neck as necessary to fully upend the pouch. Larger pouches are difficult to fully upend and are best excised using a TA stapler with a 52F bougie in the esophagus to prevent narrowing of the esophageal lumen. The staple line and/or myotomy can be checked for leaks by passing a nasogastric tube into the area and insufflating air to distend the mucosa while the neck incision is filled with saline. This also provides an opportunity to ensure the mucosa distends fully with no residual bands in the area of the myotomy. Before neck closure, it is critical to ensure perfect hemostasis, because a hematoma requiring reexploration can develop from even small vessels secondary to coughing or straining as the patient awakens from anesthesia. We leave a small closed suction drain in place and approximate the platysma and skin to complete the operation.
 
+![](_page_21_Picture_14.jpeg)
+
 <span id="fig-30-5"></span>**Figure 30-5.** Open repair of Zenker diverticulum. The Zenker diverticulum will be located posterior to the cricoid cartilage. The diverticulum is sheathed in multiple layers of fibrous tissue that must be teased apart to permit exposure of the base of the diverticulum.
 
 </div></details>
@@ -656,11 +722,21 @@ A transoral endoscopic approach is another option for treating a Zenker divertic
 
 Before the procedure commences, a 30-mm GIA laparoscopic stapler is modified by cutting off the tip of the stapler with an orthopedic circular saw such that the knife blade and the staple line reach the end of the modified tip. The tip should be smoothed with a rasp or file. The patient is placed under general anesthesia and positioned supine with the neck extended, and the Storz diverticuloscope is inserted under direct visualization and advanced into the esophagus. It is helpful to have a pediatric flexible esophagoscope to facilitate placement of the rigid scope. The goal is to advance the longer anterior blade into the true lumen of the esophagus whereas the shorter posterior blade is advanced into the diverticulum. Once positioned, the blades of the scope are separated to permit clear visualization of the cricopharyngeus muscle band (Fig. 30-6). Using a laparoscopic needle holder, 3-0 Prolene traction sutures are placed on each side of the cricopharyngeus muscle (Fig. 30-7). With gentle traction on these stitches, the bar is held in position as the modified GIA stapler is inserted and fired (Fig. 30-8). Several applications of the stapler are typically necessary to divide the muscle bridge all the way to the tip of the diverticulum (Fig. 30-9). In this fashion, the cricopharyngeus muscle is divided, and the pouch is incorporated into the esophagus to create a single common cavity. If the diverticulum is less than 3 cm in length, the cricopharyngeus muscle will not be adequately divided, leading to a high rate of symptomatic failure and a significant risk for the development of a recurrent diverticulum. It is important to modify the stapler to minimize the amount of residual pouch with the transoral approach, since even a 1-cm remnant can lead to persistent symptoms. Although it is nearly impossible to completely eliminate the pouch, in our experience, patients with less than 4 to 5 mm of residual pouch remain asymptomatic.
 
+![](_page_22_Picture_6.jpeg)
+
 <span id="fig-30-6"></span>**Figure 30-6.** Diverticuloscope positioned with the longer upper blade in the true lumen of the esophagus and the shorter blade in the diverticulum (lower left of picture). The cricopharyngeus muscle band is clearly seen between the blades.
+
+![](_page_22_Picture_8.jpeg)
 
 <span id="fig-30-7"></span>**Figure 30-7.** Traction sutures in place in preparation for the stapling.
 
+![](_page_22_Figure_11.jpeg)
+
 <span id="fig-30-8"></span>**Figure 30-8.** Complete transection of the cricopharyngeus achieved with multiple loads of a 30-mm GIA stapler. A common chamber now has been created between the true esophageal lumen and the diverticulum, and the dysfunctional cricopharyngeus muscle has been completely divided.
+
+![](_page_23_Picture_2.jpeg)
+
+![](_page_23_Picture_3.jpeg)
 
 <span id="fig-30-9"></span>**Figure 30-9.** A. Modified 30-mm GIA stapler inserted and ready. B. Partial transection of the cricopharyngeus after use of a single 30-mm GIA stapler. Note the residual pouch.
 
@@ -676,11 +752,19 @@ Epiphrenic diverticula can be treated via a transabdominal or transthoracic appr
 
 Traction diverticula occur secondary to mediastinal adenopathy, and a myotomy is unnecessary. Treatment entails separating the esophagus from the culprit nodes (often difficult secondary to intense inflammation, fibrosis, and/or calcification) and excising the diverticulum. This is best accomplished in most patients via the right chest either as an open or thoracoscopic procedure. It is recommended that pleura or intercostal muscle is placed between the esophageal repair and any residual mediastinal nodes to prevent leakage or recurrence.
 
+![](_page_23_Picture_11.jpeg)
+
 <span id="fig-30-10"></span>**Figure 30-10.** Epiphrenic diverticulum dissected by a laparoscopic approach.
+
+![](_page_24_Picture_2.jpeg)
 
 <span id="fig-30-11"></span>**Figure 30-11.** Muscle approximated in interrupted fashion over the staple line after diverticulectomy over a 52F bougie. The myotomy is visible below the reapproximated muscle layers.
 
+![](_page_24_Picture_7.jpeg)
+
 <span id="fig-30-12"></span>**Figure 30-12.** Laparoscopic myotomy along the anterolateral aspect of the esophagus exposing the mucosa across the gastroesophageal junction.
+
+![](_page_24_Picture_9.jpeg)
 
 <span id="fig-30-13"></span>**Figure 30-13.** Completed Dor partial fundoplication.
 
@@ -739,7 +823,7 @@ Occasionally, a relatively small epiphrenic diverticulum can be treated by lapar
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## Chapter 31: Techniques and Indications for Esophageal Exclusion</summary><div class="details-content">
@@ -780,9 +864,15 @@ Distal thoracic or intra-abdominal esophageal perforations can be approached via
 
 Debate persists as to whether both proximal and distal exclusions are needed. Some surgeons find that a gastric tube is sufficient for distal drainage of bile, whereas others prefer a distal exclusion. If the decision is made to proceed to esophageal exclusion, the mediastinal pleura is incised, and the esophagus proximal and distal to the perforation is mobilized as needed to facilitate exposure. If the plan is to close the perforation before exclusion and diversion, the esophageal musculature is dissected to define the extent of mucosal injury. The perforation then is repaired with interrupted sutures, and the repair may be buttressed by using a pleural flap or intercostal muscle pedicle. After the perforation has been repaired, the esophagus proximal and distal to the perforation is isolated and ligated either with a heavy absorbable tie or, more commonly, with a stapling device (Ethicon TA-30 stapler; Johnson & Johnson, Somerville, NJ) without division of the esophagus (Fig. 31-3). It is important to use the same stapling device for both the proximal and distal ligations because recanalization of the esophagus occurs at different rates for different staple thicknesses. This can lead to potential problems if the perforation has not healed prior to recanalization, with bile reflux of salivary and gastric or biliary secretions through recanalized segments. After the distal esophagus has been ligated, the thoracic cavity is well drained and irrigated, and the chest is closed. A nasogastric tube is left in the proximal esophagus for drainage.
 
+![](_page_27_Picture_2.jpeg)
+
 <span id="fig-31-1"></span>**Figure 31-1.** Exploration of midthoracic esophageal perforation via right thoracotomy through the fifth intercostal space (left). Distal thoracic or intraabdominal esophageal perforations via left thoracotomy incision through the seventh intercostal space (right).
 
+![](_page_27_Picture_8.jpeg)
+
 <span id="fig-31-2"></span>**Figure 31-2.** Sharp dissection of the overlying esophageal muscle at the site of visible perforation is often required to reveal the full extent of the underlying mucosal injury.
+
+![](_page_28_Picture_2.jpeg)
 
 <span id="fig-31-3"></span>**Figure 31-3.** Isolation and ligation of the esophagus are performed proximally or distally or both proximally and distally at the surgeon's discretion using a heavy absorbable tie or a stapling device without division.
 
@@ -794,13 +884,21 @@ Debate persists as to whether both proximal and distal exclusions are needed. So
 
 Exclusion may not be possible in patients in whom the tissue is too edematous and inflamed to hold sutures or staples. In this case, the perforation can be left alone, with reliance on diversion and drainage to heal the tear. Alternatively, for large perforations, an esophagocutaneous fistula can be formed by placing a T-tube through the perforation, which is then tunneled outside the chest (Fig. 31-4). With adequate proximal and distal exclusion or diversion, the creation of an esophagocutaneous fistula is not necessary, and debate persists as to whether a T-tube either for primary repair or in the setting of exclusion or diversion is ever needed.
 
-The patient is then turned supine with neck extension that is facilitated by placement of a towel roll under the patient's shoulders with the head turned to the right to expose the left neck. Both the neck and abdomen are widely prepped. The proximal esophagus is exposed through the left neck with an incision along the anterior sternocleidomastoid muscle (Fig. 31-5). The sternocleidomastoid muscle is retracted laterally. The strap muscles along with the middle thyroid vein are divided if needed. The carotid sheath then is identified and retracted laterally. The esophagus is palpated along the cervical spine and carefully encircled with a Penrose drain, with attention being paid to the recurrent laryngeal nerve to avoid injury. The esophagus then is mobilized proximally to the level of the cricopharyngeus muscle and distally to the thoracic inlet. The proximal esophagus then can be brought out through the bottom of the incision, with a transverse incision being made in the proximal esophagus that later will be matured as a loop esophagostomy. Before this is matured, the distal end of the cervical esophagus is isolated and ligated using either sutures or a stapling device (Fig. 31-6). After the distal cervical esophagus is ligated, the remaining cervical esophagus proximal to the ligated esophagus is brought out through the wound, a transverse or longitudinal incision is made in the esophagus, and the loop esophagostomy is matured using interrupted absorbable sutures (Fig. 31-7). Alternatively, the distal cervical esophagus can be ligated and divided, and an end esophagostomy can be matured. Although this eliminates the possibility of any proximal source of soilage, end esophagostomy requires a more extensive procedure when reestablishing esophageal continuity.
+The patient is then turned supine with neck extension that is facilitated by placement of a towel roll under the patient’s shoulders with the head turned to the right to expose the left neck. Both the neck and abdomen are widely prepped. The proximal esophagus is exposed through the left neck with an incision along the anterior sternocleidomastoid muscle (Fig. 31-5). The sternocleidomastoid muscle is retracted laterally. The strap muscles along with the middle thyroid vein are divided if needed. The carotid sheath then is identified and retracted laterally. The esophagus is palpated along the cervical spine and carefully encircled with a Penrose drain, with attention being paid to the recurrent laryngeal nerve to avoid injury. The esophagus then is mobilized proximally to the level of the cricopharyngeus muscle and distally to the thoracic inlet. The proximal esophagus then can be brought out through the bottom of the incision, with a transverse incision being made in the proximal esophagus that later will be matured as a loop esophagostomy. Before this is matured, the distal end of the cervical esophagus is isolated and ligated using either sutures or a stapling device (Fig. 31-6). After the distal cervical esophagus is ligated, the remaining cervical esophagus proximal to the ligated esophagus is brought out through the wound, a transverse or longitudinal incision is made in the esophagus, and the loop esophagostomy is matured using interrupted absorbable sutures (Fig. 31-7). Alternatively, the distal cervical esophagus can be ligated and divided, and an end esophagostomy can be matured. Although this eliminates the possibility of any proximal source of soilage, end esophagostomy requires a more extensive procedure when reestablishing esophageal continuity.
+
+![](_page_28_Picture_6.jpeg)
 
 <span id="fig-31-4"></span>**Figure 31-4.** An esophagocutaneous fistula can be formed by placing a T-tube through the perforation, which is then tunneled outside the chest.
 
+![](_page_28_Picture_8.jpeg)
+
 <span id="fig-31-5"></span>**Figure 31-5.** The cervical esophageal diversion is performed through the left neck with an incision along the anterior sternocleidomastoid muscle.
 
+![](_page_28_Picture_13.jpeg)
+
 <span id="fig-31-6"></span>**Figure 31-6.** In preparation for the matured loop esophagostomy, the distal end of the cervical esophagus is isolated and ligated using either sutures or a stapling device.
+
+![](_page_29_Picture_2.jpeg)
 
 <span id="fig-31-7"></span>**Figure 31-7.** Matured cervical esophagostomy with esophageal ostomy incorporated into the inferior edge of the neck incision.
 
@@ -864,8 +962,6 @@ When it comes to reversing the stapling, an endoscopic dilatation done sequentia
 
 </div></details>
 
-</div></details>
-  
 <details class="med-details"><summary>
 
 ## Chapter 32: Complications of Esophageal Surgery</summary><div class="details-content">
@@ -981,7 +1077,7 @@ Mucosal perforation during the myotomy is usually recognized and repaired using 
 
 Postoperative complications may be significant. This is not only related to the technique, but also to age as a majority of those patients are elderly and frail. Wound infection and fistula formation are the most frequent complications seen. For a one-stage diverticulectomy, the reported infection rate was 3%, with half of these patients showing a fistula. In our own experience, with close to 100 patients, infection was the most frequent complication. The fistula rate was 1.5%. The Mayo Clinic experience suggests a recurrent nerve palsy in 3% of their 888 patients. When reoperated, however, patients can expect the morbidity to increase to as high as 20%, explained by a more difficult mobilization of structures. When a fistula occurs, wide drainage of the wound is preferred as a first step. If there is no spontaneous early closure, a pedicled muscle flap of the sternocleidomastoid muscle is used to repair the fistula.
 
-Recurrences were seen in 7% of Payne's experience with 164 patients followed 5 to 14 years. Nicholson in a radiologic follow-up of 20 patients showed that 13 had a recurrent pouch. Hansen et al. saw recurrences in 3 of 19 patients, Bertelsen and Aasted in 14 of 68 cases, and Einarsson and Hallen in 17 of 20 patients. Pouch formation probably develops over a significant period of time. This emphasizes that long-term radiologic documentation is necessary if objective results are to be obtained. When only cricopharyngeal myotomy is offered to treat the diverticulum, less than satisfactory results are found in patients in whom a small but dependent pouch persists.
+Recurrences were seen in 7% of Payne’s experience with 164 patients followed 5 to 14 years. Nicholson in a radiologic follow-up of 20 patients showed that 13 had a recurrent pouch. Hansen et al. saw recurrences in 3 of 19 patients, Bertelsen and Aasted in 14 of 68 cases, and Einarsson and Hallen in 17 of 20 patients. Pouch formation probably develops over a significant period of time. This emphasizes that long-term radiologic documentation is necessary if objective results are to be obtained. When only cricopharyngeal myotomy is offered to treat the diverticulum, less than satisfactory results are found in patients in whom a small but dependent pouch persists.
 
 Endoscopic esophagodiverticulostomy had initially been popularized by Dohlman using coagulation and, later, using laser to create a single lumen between the diverticulum and the cervical esophagus. The use of surgical linear staplers has gained popularity in recent years. Initially proposed for high-risk patients, it has now been used in large reported series. Although clinical results seem less satisfactory, the complication rate is low. Decreased operating time and avoidance of recurrent nerve injury are often proposed as advantages. Chang et al. report a 2% complication rate without mortality. These include dental complications (7%), fever (4%), aspiration pneumonia (0.7%), and esophageal perforation (0.7%). Transient cord paralysis was seen in one patient. Case and Baron reported minor bleeding in 23%, perforation in 27%, and neck abscesses in 4.5% of treated patients.
 
@@ -991,7 +1087,7 @@ Endoscopic esophagodiverticulostomy had initially been popularized by Dohlman us
 
 ##### Neurologic, Myogenic, and Idiopathic Dysphagia</summary><div class="details-content">
 
-Table 32-2 describes the morbidity and mortality resulting from cricopharyngeal myotomy for indications other than Zenker's diverticulum. With proper selection, significant improvement in oropharyngeal dysphagia can be obtained.
+Table 32-2 describes the morbidity and mortality resulting from cricopharyngeal myotomy for indications other than Zenker’s diverticulum. With proper selection, significant improvement in oropharyngeal dysphagia can be obtained.
 
 <details class="med-details"><summary>
 
@@ -1012,7 +1108,7 @@ Table 32-2 describes the morbidity and mortality resulting from cricopharyngeal 
 
 </div></details>
 
-Although in neurologic patients the dysphagia is usually related to poor coordination between swallowing, pharyngeal contraction, and upper sphincter relaxation, patients with muscular dysphagia have symptoms resulting from poor pharyngeal contraction and propulsion with incomplete sphincter opening. Adequate symptom documentation and quantification with videoradiologic assessment are essential for appropriate patient selection. Complications related to the myotomy in these patients are less frequent than in Zenker's patients. Mucosal penetration, although frequent, is rarely followed by infection or fistula formation. Campbell et al., however, report pharyngeal leaks in 8% of their patients. In our experience, primary repair with resorbable sutures or a pedicled muscle flap is usually satisfactory to prevent this complication. Persistent aspiration with pulmonary complications may have to be approached by a permanent tracheostomy with laryngeal diversion or resection.
+Although in neurologic patients the dysphagia is usually related to poor coordination between swallowing, pharyngeal contraction, and upper sphincter relaxation, patients with muscular dysphagia have symptoms resulting from poor pharyngeal contraction and propulsion with incomplete sphincter opening. Adequate symptom documentation and quantification with videoradiologic assessment are essential for appropriate patient selection. Complications related to the myotomy in these patients are less frequent than in Zenker’s patients. Mucosal penetration, although frequent, is rarely followed by infection or fistula formation. Campbell et al., however, report pharyngeal leaks in 8% of their patients. In our experience, primary repair with resorbable sutures or a pedicled muscle flap is usually satisfactory to prevent this complication. Persistent aspiration with pulmonary complications may have to be approached by a permanent tracheostomy with laryngeal diversion or resection.
 
 Mortality was seen mostly in the muscular dysphagia group (4%) and is always secondary to severe lung infection.
 
@@ -1162,7 +1258,7 @@ A feeding jejunostomy is added in all esophagectomy patients as insurance agains
 
 **Cardiac Complications** — These are mostly supraventricular arrhythmias and myocardial infarctions. This is recorded in over 35% of operated patients. Patients with ischemia on preoperative evaluation must be treated before proceeding to esophagectomy.
 
-**Pulmonary Complications** — These are mostly infectious and related to atelectasis and pneumonia. The respiratory distress syndrome with respiratory insufficiency is seen mostly in patients who have received neoadjuvant chemoradiotherapy. Prevention of atelectasis by early mobilization, physiotherapy, and aggressive tracheobronchial toilet is essential. This has been helped significantly by offering epidural analgesia for the postoperative period until the chest tubes are removed. Gastric tube decompression is insured to prevent tracheobronchial aspiration as gastric interposition is recognized as a free duodenogastroesophageal reflux model. Absent gastric retention and active peristalsis signal removal of gastric drainage. If significant restriction of pulmonary function has been documented, the transhiatal approach is preferred to limit the after effects of thoracotomy.
+**Pulmonary Complications** — These are mostly infectious and related to atelectasis and pneumonia. The respiratory distress syndrome with respiratory insufficiency is seen mostly in patients who have received neoadjuvant chemoradiotherapy. Prevention of atelectasis by early mobilization, physiotherapy, and aggressive tracheobronchial toilet is essential. This has been helped significantly by offering epidural analgesia for the postoperative period until the chest tubes are removed. Gastric tube decompression is ensured to prevent tracheobronchial aspiration as gastric interposition is recognized as a free duodenogastroesophageal reflux model. Absent gastric retention and active peristalsis signal removal of gastric drainage. If significant restriction of pulmonary function has been documented, the transhiatal approach is preferred to limit the after effects of thoracotomy.
 
 **Anastomotic Complications** — Leakage at the anastomosis is always feared after esophagectomy. An intact repair depends on a good vascular supply to the esophageal remnant and to the stomach. Faulty anastomosis, when not technical, is usually the result of poor vascular supply to the proximal part of the stomach. The absence of tension on the reconstruction and healthy transection margins are the other conditions essential to good healing of the anastomosis. When this complication occurs, it causes mediastinitis, pleural contamination, and empyema. The leak rate in the chest seems less frequent than when the anastomosis is in the neck. Orringer et al. report a less than 3% leak rate for cervical anastomosis. Although leakage in the neck usually requires wide drainage, leakage in the chest may require a more aggressive approach, especially if it is documented within 48 hours of the operation. This usually means necrosis and dehiscence of the anastomosis which then must be reconstructed immediately if mobilization and transplant quality are there. Sepsis and pneumothorax during the initial postoperative week also suggest disruption of the reconstruction or a vascular complication of the transplant. Reexploration to correct the situation is essential. Repositioning of the stomach in the abdomen and an esophagostomy may be necessary. If the leak at the anastomosis is small and contained, a positive evolution can be expected. If, however, significant ischemia and necrosis are present on the proximal stomach, meticulous assessment of the available viable tissue is necessary before deciding if repair must be attempted, usually with a pedicled muscle transplant, or if a more complex reconstruction must be planned at a later date. For smaller leaks, the use of self-expandable completely covered stents may help in sealing the leak and allowing more rapid healing of the defect.
 
