@@ -1,4 +1,4 @@
-# NEW HORIZONS
+# Part XXVI: NEW HORIZONS
 
 ##### Comprehensive review of emerging technologies in thoracic surgery: robotic resections (lobectomy, esophagectomy, thymectomy), sentinel lymph node mapping techniques, genomics and targeted therapies for non-small cell lung cancer and esophageal cancer, nanoparticle therapy for lung cancer, ex vivo lung perfusion, and endoscopic resection techniques.
 
