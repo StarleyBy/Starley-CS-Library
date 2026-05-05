@@ -399,8 +399,50 @@ document.addEventListener('DOMContentLoaded', function() {
     // ---- Init radial menu ----
     _initRadialMenu();
 
+    // ---- Init Favorites ----
+    _initFavorites();
+
     console.log('✅ Умная навигация активирована');
 });
+
+function _initFavorites() {
+    const btn = document.getElementById('favorite-toggle');
+    if (!btn) return;
+
+    const params = new URLSearchParams(window.location.search);
+    const bookPath = params.get('book');
+    if (!bookPath) return;
+
+    const updateBtn = () => {
+        try {
+            const favs = JSON.parse(localStorage.getItem('starley_favorites') || '[]');
+            const isFav = favs.includes(bookPath);
+            const icon = btn.querySelector('i');
+            if (isFav) {
+                icon.className = 'fas fa-heart';
+                btn.style.color = '#e74c3c';
+            } else {
+                icon.className = 'far fa-heart';
+                btn.style.color = '';
+            }
+        } catch (e) {}
+    };
+
+    btn.addEventListener('click', () => {
+        try {
+            let favs = JSON.parse(localStorage.getItem('starley_favorites') || '[]');
+            if (favs.includes(bookPath)) {
+                favs = favs.filter(p => p !== bookPath);
+            } else {
+                favs.push(bookPath);
+            }
+            localStorage.setItem('starley_favorites', JSON.stringify(favs));
+            updateBtn();
+        } catch (e) {}
+    });
+
+    updateBtn();
+}
 
 // ==========================================================================
 //  RADIAL MENU IMPLEMENTATION
