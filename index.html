@@ -18,34 +18,6 @@
             <a href="search/search.html">🔍 Search</a>
             <a href="editor.html" data-role="admin">✏️ Editor</a>
         </nav>
-        <h4>📖 Recently opened</h2>
-        <ul id="recentList"></ul>
-
-        <h4>⭐ Favorites</h2>
-        <ul id="favList"></ul>
-
-<script>
-function renderLists() {
-  const recents = JSON.parse(localStorage.getItem('recents') || '[]');
-  const favs = JSON.parse(localStorage.getItem('favorites') || '[]');
-
-  const rList = document.getElementById('recentList');
-  const fList = document.getElementById('favList');
-
-  rList.innerHTML = '';
-  fList.innerHTML = '';
-
-  recents.forEach(url => {
-    rList.innerHTML += `<li><a href="${url}">${url}</a></li>`;
-  });
-
-  favs.forEach(url => {
-    fList.innerHTML += `<li><a href="${url}">${url}</a></li>`;
-  });
-}
-
-renderLists();
-</script>
 
         <button id="installBtn" style="display:none;">📲 Install application</button>
 

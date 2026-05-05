@@ -18,25 +18,63 @@ if (window.location.hostname.includes('github.io')) {
 }
 
 // --- Favorites & Recents Logic ---
+let shelfMetadata = {}; // path -> metadata + visibility
+
 function getFavorites() {
     try { return JSON.parse(localStorage.getItem('starley_favorites') || '[]'); } catch { return []; }
 }
 
 function toggleFavorite(bookPath) {
     let favs = getFavorites();
+    let isActive = false;
     if (favs.includes(bookPath)) {
         favs = favs.filter(p => p !== bookPath);
+        isActive = false;
     } else {
         favs.push(bookPath);
+        isActive = true;
     }
     localStorage.setItem('starley_favorites', JSON.stringify(favs));
-    return favs.includes(bookPath);
+    
+    // Синхронизируем все карточки этой книги на странице
+    document.querySelectorAll(`.book-card[data-book-path="${bookPath}"]`).forEach(card => {
+        card.classList.toggle('favorite-book', isActive);
+        const btn = card.querySelector('.fav-btn');
+        if (btn) btn.classList.toggle('active', isActive);
+    });
+
+    // Перерендериваем вкладку избранного, если она сейчас открыта
+    const favTab = document.querySelector('.shelf-tab[data-tab="favorites"]');
+    if (favTab && favTab.classList.contains('active')) {
+        renderFavoritesTab();
+    }
+    
+    return isActive;
 }
 
-function renderRecents() {
+function renderLibraryShelf() {
+    return `
+        <section class="shelf-container">
+            <div class="shelf-tabs">
+                <div class="shelf-tab active" data-tab="recents">🕒 Recently Read</div>
+                <div class="shelf-tab" data-tab="favorites">⭐ Favorites</div>
+            </div>
+            <div class="shelf-content">
+                <div class="shelf-pane active" id="pane-recents">
+                    ${renderRecentsList()}
+                </div>
+                <div class="shelf-pane" id="pane-favorites">
+                    ${renderFavoritesList()}
+                </div>
+            </div>
+        </section>
+    `;
+}
+
+function renderRecentsList() {
     try {
         const recents = JSON.parse(localStorage.getItem('starley_recents') || '[]');
-        if (recents.length === 0) return '';
+        if (recents.length === 0) return '<p class="no-books">No recently read books yet.</p>';
 
         let booksHtml = '';
         recents.forEach(book => {
@@ -59,38 +97,56 @@ function renderRecents() {
             `;
         });
 
-        return `
-            <section class="category-section recents-section">
-                <h2 class="category-title" style="border-bottom: 2px solid #9b59b6;">🕒 Recently Opened</h2>
-                <div class="books-grid recents-grid">
-                    ${booksHtml}
-                </div>
-            </section>
-        `;
+        return `<div class="books-grid recents-grid">${booksHtml}</div>`;
     } catch (e) { return ''; }
+}
+
+function renderFavoritesList() {
+    const favs = getFavorites();
+    if (favs.length === 0) return '<p class="no-books">No favorite books yet.</p>';
+
+    let booksHtml = '';
+    favs.forEach(path => {
+        const meta = shelfMetadata[path];
+        if (meta) {
+            booksHtml += renderBookCard(path, meta.data, meta.visibility);
+        }
+    });
+
+    if (!booksHtml) return '<p class="no-books">Metadata for favorites is loading...</p>';
+    return `<div class="books-grid recents-grid">${booksHtml}</div>`;
+}
+
+function renderFavoritesTab() {
+    const pane = document.getElementById('pane-favorites');
+    if (pane) {
+        pane.innerHTML = renderFavoritesList();
+        attachBookClickHandlers();
+    }
+}
+
+function initShelfTabs() {
+    const tabs = document.querySelectorAll('.shelf-tab');
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            const target = tab.dataset.tab;
+            
+            // Switch tabs
+            tabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            
+            // Switch panes
+            document.querySelectorAll('.shelf-pane').forEach(p => p.classList.remove('active'));
+            document.getElementById(`pane-${target}`).classList.add('active');
+            
+            // If switching to favorites, make sure it's up to date
+            if (target === 'favorites') {
+                renderFavoritesTab();
+            }
+        });
+    });
 }
 // ---------------------------------
-
-function renderFavoritesSection(categories) {
-    try {
-        const favs = getFavorites();
-        if (favs.length === 0) return '';
-
-        let booksHtml = '';
-        // Нам нужно найти метаданные для избранных книг. 
-        // Но так как у нас нет общего реестра в памяти, мы можем либо:
-        // 1. Собрать их из отрендеренных категорий (сложно)
-        // 2. Рендерить их динамически (нужно знать категорию)
-        // 3. Или просто выделить их в общем списке (что уже сделано)
-        // Оптимально: добавить в library.json признак или просто искать в категориях.
-        
-        // Для простоты и производительности, мы уже добавили класс .favorite-book.
-        // Чтобы сделать "круто", мы можем переместить избранные книги в начало их категорий
-        // или создать виртуальную категорию.
-        
-        return ''; // Пока оставим выделение в общем списке, это чище
-    } catch (e) { return ''; }
-}
 
 async function loadLibrary() {
     const container = document.getElementById('library-container');
@@ -110,22 +166,55 @@ async function loadLibrary() {
             return;
         }
 
-        // Рендерим "Недавние"
-        let html = renderRecents();
+        // Сначала собираем метаданные для всех книг (параллельно)
+        const metadataPromises = [];
+        const isAdmin = window.AuthSystem ? window.AuthSystem.isAdmin() : false;
+
+        for (const category of categories) {
+            for (const book of category.books) {
+                const bookPath = `${category.path}/${book.folder}`;
+                metadataPromises.push(
+                    fetch(`${BASE_URL}${bookPath}/metadata.json`)
+                        .then(async r => {
+                            if (r.ok) {
+                                const meta = (await r.json())[0];
+                                shelfMetadata[bookPath] = {
+                                    data: meta,
+                                    visibility: book.visibility || 'all'
+                                };
+                            }
+                        })
+                        .catch(err => console.error(`Error loading metadata for ${bookPath}`, err))
+                );
+            }
+        }
+
+        // Ждем загрузки метаданных
+        await Promise.all(metadataPromises);
+
+        // Рендерим Полку (Недавние + Избранное)
+        let html = renderLibraryShelf();
 
         // Рендерим категории
         for (const category of categories) {
-            if (category.books && category.books.length > 0) {
-                const booksHtml = await renderBooksForCategory(category);
-                if (booksHtml) {
-                    html += renderCategory(category, booksHtml);
+            let categoryBooksHtml = '';
+            for (const book of category.books) {
+                const bookPath = `${category.path}/${book.folder}`;
+                const meta = shelfMetadata[bookPath];
+                if (meta) {
+                    if (meta.visibility === 'admin-only' && !isAdmin) continue;
+                    categoryBooksHtml += renderBookCard(bookPath, meta.data, meta.visibility);
                 }
+            }
+            if (categoryBooksHtml) {
+                html += renderCategory(category, categoryBooksHtml);
             }
         }
 
         container.innerHTML = html || '<p class="no-books">Add books to library.json to see them here.</p>';
         attachBookClickHandlers();
         setupSearch();
+        initShelfTabs();
 
     } catch (error) {
         console.error('Error:', error);
@@ -133,44 +222,10 @@ async function loadLibrary() {
     }
 }
 
+// Заменяем renderBooksForCategory, так как мы теперь рендерим все в loadLibrary
+// Но оставим для совместимости, если нужно
 async function renderBooksForCategory(category) {
-    let booksHtml = '';
-    
-    // Проверяем права пользователя с ожиданием инициализации AuthSystem
-    let isAdmin = false;
-    if (window.AuthSystem) {
-        isAdmin = window.AuthSystem.isAdmin();
-    } else {
-        console.warn('AuthSystem not available yet, treating as non-admin');
-    }
-
-    for (const book of category.books) {
-        try {
-            const bookPath = `${category.path}/${book.folder}`;
-            const metaResponse = await fetch(`${BASE_URL}${bookPath}/metadata.json`);
-            if (metaResponse.ok) {
-                const bookMeta = (await metaResponse.json())[0];
-
-                // Проверяем видимость книги
-                const visibility = book.visibility || 'all';
-                if (visibility === 'admin-only' && !isAdmin) {
-                    console.log(`Hidden admin-only book: ${book.folder}`);
-                    continue; // Пропускаем книги только для админов
-                }
-
-                try {
-                    booksHtml += renderBookCard(bookPath, bookMeta, visibility);
-                } catch (renderError) {
-                    console.error(`Failed to render book card for: ${book.folder}`, renderError);
-                }
-            } else {
-                console.error(`Failed to fetch metadata for book: ${book.folder}. Status: ${metaResponse.status}`);
-            }
-        } catch (error) {
-            console.error(`Failed to load metadata for book: ${book.folder}`, error);
-        }
-    }
-    return booksHtml;
+    return ''; // Больше не используется напрямую
 }
 
 function renderCategory(category, booksHtml) {
