@@ -46,6 +46,21 @@ function renderLists() {
 
 renderLists();
 </script>
+
+        <button id="installBtn" style="display:none;">📲 Install application</button>
+
+<script>
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installBtn.style.display = 'block';
+});
+
+installBtn.onclick = () => deferredPrompt.prompt();
+</script>
+        
     </header>
 
     <main>
