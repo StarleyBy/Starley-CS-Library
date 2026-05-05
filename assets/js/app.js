@@ -345,3 +345,17 @@ function loadLibraryAndAdjustFonts() {
 }
 
 document.addEventListener('DOMContentLoaded', loadLibraryAndAdjustFonts);
+
+// Сохраняем последние открытые страницы
+window.addEventListener('load', () => {
+  let visited = JSON.parse(localStorage.getItem('visited') || '[]');
+
+  const current = location.pathname;
+
+  if (!visited.includes(current)) {
+    visited.push(current);
+    if (visited.length > 10) visited.shift(); // максимум 10 страниц
+  }
+
+  localStorage.setItem('visited', JSON.stringify(visited));
+});

@@ -6,6 +6,9 @@
     <title>Medical library</title>
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/auth.css">
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
     <header>
@@ -15,6 +18,49 @@
             <a href="search/search.html">🔍 Search</a>
             <a href="editor.html" data-role="admin">✏️ Editor</a>
         </nav>
+        <h4>📖 Recently opened</h2>
+        <ul id="recentList"></ul>
+
+        <h4>⭐ Favorites</h2>
+        <ul id="favList"></ul>
+
+<script>
+function renderLists() {
+  const recents = JSON.parse(localStorage.getItem('recents') || '[]');
+  const favs = JSON.parse(localStorage.getItem('favorites') || '[]');
+
+  const rList = document.getElementById('recentList');
+  const fList = document.getElementById('favList');
+
+  rList.innerHTML = '';
+  fList.innerHTML = '';
+
+  recents.forEach(url => {
+    rList.innerHTML += `<li><a href="${url}">${url}</a></li>`;
+  });
+
+  favs.forEach(url => {
+    fList.innerHTML += `<li><a href="${url}">${url}</a></li>`;
+  });
+}
+
+renderLists();
+</script>
+
+        <button id="installBtn" style="display:none;">📲 Install application</button>
+
+<script>
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installBtn.style.display = 'block';
+});
+
+installBtn.onclick = () => deferredPrompt.prompt();
+</script>
+        
     </header>
 
     <main>
@@ -34,5 +80,12 @@
     <script src="assets/js/config.js?v=1.1"></script>
     <script src="assets/js/auth.js?v=1.1"></script>
     <script src="assets/js/app.js?v=1.5"></script>
+    <script src="assets/js/reader.js"></script>
+    <script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js')
+    .then(() => console.log('SW registered'));
+}
+</script>
 </body>
 </html>

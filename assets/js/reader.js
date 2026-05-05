@@ -1453,3 +1453,33 @@ function _flashElement(el, color) {
 function _escHtml(str) {
     return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
+
+// ⭐ Избранное
+function toggleFavorite(url) {
+  let favs = JSON.parse(localStorage.getItem('favorites') || '[]');
+
+  if (favs.includes(url)) {
+    favs = favs.filter(f => f !== url);
+  } else {
+    favs.push(url);
+  }
+
+  localStorage.setItem('favorites', JSON.stringify(favs));
+}
+
+// 🕘 Недавно открытые
+function addRecent(url) {
+  let recents = JSON.parse(localStorage.getItem('recents') || '[]');
+
+  recents = recents.filter(r => r !== url);
+  recents.unshift(url);
+
+  if (recents.length > 10) recents.pop();
+
+  localStorage.setItem('recents', JSON.stringify(recents));
+}
+
+// 📖 При открытии страницы
+window.addEventListener('load', () => {
+  addRecent(location.pathname);
+});
