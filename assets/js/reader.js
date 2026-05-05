@@ -415,7 +415,8 @@ function _initFavorites() {
 
     const updateBtn = () => {
         try {
-            const favs = JSON.parse(localStorage.getItem('starley_favorites') || '[]');
+            // Используем ту же логику получения, что и в app.js
+            let favs = JSON.parse(localStorage.getItem('starley_favorites') || '[]');
             const isFav = favs.includes(bookPath);
             const icon = btn.querySelector('i');
             if (isFav) {
@@ -431,13 +432,17 @@ function _initFavorites() {
     btn.addEventListener('click', () => {
         try {
             let favs = JSON.parse(localStorage.getItem('starley_favorites') || '[]');
+            let isActive = false;
             if (favs.includes(bookPath)) {
                 favs = favs.filter(p => p !== bookPath);
+                isActive = false;
             } else {
                 favs.push(bookPath);
+                isActive = true;
             }
             localStorage.setItem('starley_favorites', JSON.stringify(favs));
             updateBtn();
+            console.log(`Reader: Favorite toggled for ${bookPath}: ${isActive}`);
         } catch (e) {}
     });
 

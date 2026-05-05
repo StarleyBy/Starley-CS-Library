@@ -21,7 +21,23 @@ if (window.location.hostname.includes('github.io')) {
 let shelfMetadata = {}; // path -> metadata + visibility
 
 function getFavorites() {
-    try { return JSON.parse(localStorage.getItem('starley_favorites') || '[]'); } catch { return []; }
+    try { 
+        // Миграция со старого ключа 'favorites', если новый 'starley_favorites' пуст
+        let favs = JSON.parse(localStorage.getItem('starley_favorites'));
+        if (!favs || favs.length === 0) {
+            const oldFavs = JSON.parse(localStorage.getItem('favorites') || '[]');
+            if (oldFavs.length > 0) {
+                console.log('Migrating old favorites to starley_favorites');
+                // Мы сохраняем их как есть, но в будущем может понадобиться маппинг
+                localStorage.setItem('starley_favorites', JSON.stringify(oldFavs));
+                favs = oldFavs;
+            }
+        }
+        return favs || [];
+    } catch (e) { 
+        console.error('Error in getFavorites:', e);
+        return []; 
+    }
 }
 
 function toggleFavorite(bookPath) {
@@ -36,6 +52,8 @@ function toggleFavorite(bookPath) {
     }
     localStorage.setItem('starley_favorites', JSON.stringify(favs));
     
+    console.log(`Favorite toggled for ${bookPath}: ${isActive}`);
+
     // Синхронизируем все карточки этой книги на странице
     document.querySelectorAll(`.book-card[data-book-path="${bookPath}"]`).forEach(card => {
         card.classList.toggle('favorite-book', isActive);
@@ -110,10 +128,12 @@ function renderFavoritesList() {
         const meta = shelfMetadata[path];
         if (meta) {
             booksHtml += renderBookCard(path, meta.data, meta.visibility);
+        } else {
+            console.warn(`Metadata not found for favorite: ${path}`);
         }
     });
 
-    if (!booksHtml) return '<p class="no-books">Metadata for favorites is loading...</p>';
+    if (!booksHtml) return '<p class="no-books">Metadata for favorites is loading or not found.</p>';
     return `<div class="books-grid recents-grid">${booksHtml}</div>`;
 }
 
@@ -137,11 +157,18 @@ function initShelfTabs() {
             
             // Switch panes
             document.querySelectorAll('.shelf-pane').forEach(p => p.classList.remove('active'));
-            document.getElementById(`pane-${target}`).classList.add('active');
+            const targetPane = document.getElementById(`pane-${target}`);
+            if (targetPane) targetPane.classList.add('active');
             
-            // If switching to favorites, make sure it's up to date
+            // If switching to favorites, update it
             if (target === 'favorites') {
                 renderFavoritesTab();
+            } else if (target === 'recents') {
+                const pane = document.getElementById('pane-recents');
+                if (pane) {
+                    pane.innerHTML = renderRecentsList();
+                    attachBookClickHandlers();
+                }
             }
         });
     });
