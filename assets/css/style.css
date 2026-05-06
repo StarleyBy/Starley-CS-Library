@@ -1235,7 +1235,7 @@ a[data-back="true"]:active {
 }
 
 .shelf-content {
-    padding: 25px;
+    padding: 15px;
 }
 
 .shelf-pane {
@@ -1246,25 +1246,43 @@ a[data-back="true"]:active {
     display: block;
 }
 
+/* More compact shelf items */
+.shelf-pane .book-card {
+    max-width: 140px; /* Reduced from default */
+}
+
+.shelf-pane .book-cover-wrapper {
+    height: 190px; /* Reduced from default 280px */
+}
+
+.shelf-pane .book-title {
+    font-size: 0.85rem;
+    line-height: 1.2;
+}
+
+.shelf-pane .book-authors {
+    font-size: 0.7rem !important;
+}
+
 .fav-btn {
     position: absolute;
     top: 12px;
     left: 12px;
-    width: 32px;
-    height: 32px;
-    background: rgba(255, 255, 255, 0.9);
+    width: 38px; /* Slightly larger for easier clicking */
+    height: 38px;
+    background: rgba(255, 255, 255, 0.95);
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
     z-index: 20;
-    font-size: 1.1rem;
-    color: #ccc;
     transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
     border: 1px solid rgba(0,0,0,0.05);
     pointer-events: auto;
+    font-size: 1.2rem;
+    color: #ccc;
 }
 
 .fav-btn:hover {
