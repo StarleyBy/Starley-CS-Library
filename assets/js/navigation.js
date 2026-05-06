@@ -29,6 +29,29 @@ async function initReader(bookPath, chapterId, edition) {
         const bookMeta = (await fetch(metadataUrl).then(r => r.json()))[0];
         document.getElementById('book-title').textContent = bookMeta.title;
 
+        // --- Track Recently Opened ---
+        try {
+            const recents = JSON.parse(localStorage.getItem('starley_recents') || '[]');
+            const currentBook = {
+                path: bookPath,
+                title: bookMeta.title,
+                cover: bookMeta.cover_image,
+                chapter: chapterId,
+                edition: edition,
+                time: Date.now()
+            };
+            
+            // Remove existing entry for the same book to move it to the top
+            const filtered = recents.filter(b => b.path !== bookPath);
+            filtered.unshift(currentBook);
+            
+            // Keep only latest 5
+            localStorage.setItem('starley_recents', JSON.stringify(filtered.slice(0, 5)));
+        } catch (e) {
+            console.error('Failed to update recents:', e);
+        }
+        // -----------------------------
+
         renderChapterList(bookMeta, bookPath, chapterId, edition);
         renderEditionSelector(bookPath, chapterId, edition);
 
