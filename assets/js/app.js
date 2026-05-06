@@ -18,24 +18,18 @@ if (window.location.hostname.includes('github.io')) {
 }
 
 // --- Favorites & Recents Logic ---
-let shelfMetadata = {}; // path -> metadata + visibility
+let shelfMetadata = {}; // path -> { data, visibility }
 
 function getFavorites() {
     try { 
-        // Миграция со старого ключа 'favorites', если новый 'starley_favorites' пуст
-        let favs = JSON.parse(localStorage.getItem('starley_favorites'));
-        if (!favs || favs.length === 0) {
+        const favsStr = localStorage.getItem('starley_favorites');
+        if (favsStr === null) {
             const oldFavs = JSON.parse(localStorage.getItem('favorites') || '[]');
-            if (oldFavs.length > 0) {
-                console.log('Migrating old favorites to starley_favorites');
-                // Мы сохраняем их как есть, но в будущем может понадобиться маппинг
-                localStorage.setItem('starley_favorites', JSON.stringify(oldFavs));
-                favs = oldFavs;
-            }
+            localStorage.setItem('starley_favorites', JSON.stringify(oldFavs));
+            return oldFavs;
         }
-        return favs || [];
+        return JSON.parse(favsStr) || [];
     } catch (e) { 
-        console.error('Error in getFavorites:', e);
         return []; 
     }
 }
@@ -43,6 +37,7 @@ function getFavorites() {
 function toggleFavorite(bookPath) {
     let favs = getFavorites();
     let isActive = false;
+    
     if (favs.includes(bookPath)) {
         favs = favs.filter(p => p !== bookPath);
         isActive = false;
@@ -52,19 +47,17 @@ function toggleFavorite(bookPath) {
     }
     localStorage.setItem('starley_favorites', JSON.stringify(favs));
     
-    console.log(`Favorite toggled for ${bookPath}: ${isActive}`);
-
-    // Синхронизируем все карточки этой книги на странице
+    // Синхронизируем все видимые карточки этой книги (и на полке, и в категориях)
     document.querySelectorAll(`.book-card[data-book-path="${bookPath}"]`).forEach(card => {
         card.classList.toggle('favorite-book', isActive);
         const btn = card.querySelector('.fav-btn');
         if (btn) btn.classList.toggle('active', isActive);
     });
 
-    // Перерендериваем вкладку избранного, если она сейчас открыта
+    // Если открыта вкладка избранного — обновляем её (книга могла быть удалена)
     const favTab = document.querySelector('.shelf-tab[data-tab="favorites"]');
     if (favTab && favTab.classList.contains('active')) {
-        renderFavoritesTab();
+        setTimeout(() => renderFavoritesTab(), 10);
     }
     
     return isActive;
@@ -94,11 +87,12 @@ function renderRecentsList() {
         const recents = JSON.parse(localStorage.getItem('starley_recents') || '[]');
         if (recents.length === 0) return '<p class="no-books">No recently read books yet.</p>';
 
+        const favs = getFavorites();
         let booksHtml = '';
         recents.forEach(book => {
             const coverImagePath = book.cover ? `${IMAGES_BASE_URL}${book.path}/${book.cover}` : 'assets/img/book-placeholder.png';
             const neonColor = generateNeonColor(book.title);
-            const isFav = getFavorites().includes(book.path);
+            const isFav = favs.includes(book.path);
             
             booksHtml += `
                 <div class="book-card recent-card" data-book-path="${book.path}" data-chapter="${book.chapter}" data-edition="${book.edition}">
@@ -128,12 +122,10 @@ function renderFavoritesList() {
         const meta = shelfMetadata[path];
         if (meta) {
             booksHtml += renderBookCard(path, meta.data, meta.visibility);
-        } else {
-            console.warn(`Metadata not found for favorite: ${path}`);
         }
     });
 
-    if (!booksHtml) return '<p class="no-books">Metadata for favorites is loading or not found.</p>';
+    if (!booksHtml) return '<p class="no-books">Metadata for favorites is loading or book not found in library.json.</p>';
     return `<div class="books-grid recents-grid">${booksHtml}</div>`;
 }
 
@@ -141,7 +133,6 @@ function renderFavoritesTab() {
     const pane = document.getElementById('pane-favorites');
     if (pane) {
         pane.innerHTML = renderFavoritesList();
-        attachBookClickHandlers();
     }
 }
 
@@ -151,29 +142,26 @@ function initShelfTabs() {
         tab.addEventListener('click', () => {
             const target = tab.dataset.tab;
             
-            // Switch tabs
             tabs.forEach(t => t.classList.remove('active'));
             tab.classList.add('active');
             
-            // Switch panes
             document.querySelectorAll('.shelf-pane').forEach(p => p.classList.remove('active'));
             const targetPane = document.getElementById(`pane-${target}`);
             if (targetPane) targetPane.classList.add('active');
             
-            // If switching to favorites, update it
             if (target === 'favorites') {
                 renderFavoritesTab();
             } else if (target === 'recents') {
                 const pane = document.getElementById('pane-recents');
                 if (pane) {
                     pane.innerHTML = renderRecentsList();
-                    attachBookClickHandlers();
                 }
             }
         });
     });
 }
-// ---------------------------------
+
+// --- Main Loading Logic ---
 
 async function loadLibrary() {
     const container = document.getElementById('library-container');
@@ -193,7 +181,7 @@ async function loadLibrary() {
             return;
         }
 
-        // Сначала собираем метаданные для всех книг (параллельно)
+        // Загружаем все метаданные параллельно
         const metadataPromises = [];
         const isAdmin = window.AuthSystem ? window.AuthSystem.isAdmin() : false;
 
@@ -216,13 +204,10 @@ async function loadLibrary() {
             }
         }
 
-        // Ждем загрузки метаданных
         await Promise.all(metadataPromises);
 
-        // Рендерим Полку (Недавние + Избранное)
         let html = renderLibraryShelf();
 
-        // Рендерим категории
         for (const category of categories) {
             let categoryBooksHtml = '';
             for (const book of category.books) {
@@ -239,7 +224,8 @@ async function loadLibrary() {
         }
 
         container.innerHTML = html || '<p class="no-books">Add books to library.json to see them here.</p>';
-        attachBookClickHandlers();
+        
+        setupEventListeners();
         setupSearch();
         initShelfTabs();
 
@@ -249,10 +235,37 @@ async function loadLibrary() {
     }
 }
 
-// Заменяем renderBooksForCategory, так как мы теперь рендерим все в loadLibrary
-// Но оставим для совместимости, если нужно
-async function renderBooksForCategory(category) {
-    return ''; // Больше не используется напрямую
+function setupEventListeners() {
+    const container = document.getElementById('library-container');
+    if (!container || container.dataset.listenersAttached) return;
+
+    container.addEventListener('click', (e) => {
+        // Клик по сердечку
+        const favBtn = e.target.closest('.fav-btn');
+        if (favBtn) {
+            e.preventDefault();
+            e.stopPropagation();
+            const path = favBtn.dataset.path;
+            toggleFavorite(path);
+            return;
+        }
+
+        // Клик по карточке (переход к книге)
+        const card = e.target.closest('.book-card');
+        if (card) {
+            const bookPath = card.dataset.bookPath;
+            if (card.classList.contains('recent-card')) {
+                const chapter = card.dataset.chapter;
+                const edition = card.dataset.edition;
+                window.location.href = `reader.html?book=${bookPath}&chapter=${chapter}&edition=${edition}`;
+            } else {
+                const firstChapter = card.dataset.firstChapter;
+                window.location.href = `reader.html?book=${bookPath}&chapter=${firstChapter}`;
+            }
+        }
+    });
+
+    container.dataset.listenersAttached = "true";
 }
 
 function renderCategory(category, booksHtml) {
@@ -264,10 +277,6 @@ function renderCategory(category, booksHtml) {
             </div>
         </section>
     `;
-}
-
-function getDefaultCoverImage(bookPath) {
-    return null;
 }
 
 function generateNeonColor(bookTitle) {
@@ -282,26 +291,38 @@ function generateNeonColor(bookTitle) {
 }
 
 function renderBookCard(bookPath, bookMeta, visibility = 'all') {
-    const coverImage = bookMeta.cover_image || getDefaultCoverImage(bookPath);
+    const coverImage = bookMeta.cover_image;
     const coverImagePath = coverImage ? `${IMAGES_BASE_URL}${bookPath}/${coverImage}` : 'assets/img/book-placeholder.png';
     const firstChapter = bookMeta.chapters && bookMeta.chapters.length > 0 ? bookMeta.chapters[0].file.replace('.md', '') : 'chapter-01';
     const neonColor = generateNeonColor(bookMeta.title);
-
-    // Всегда добавляем data-full-title — tooltip будет для всех книг
     const escapedTitle = bookMeta.title.replace(/"/g, '&quot;');
-
-    // Добавляем класс для admin-only книг
     const adminOnlyClass = visibility === 'admin-only' ? ' admin-only-book' : '';
-    
-    // Проверка на избранное
     const isFav = getFavorites().includes(bookPath);
 
+    // Подготовка бейджей версий
+    let badgesHtml = '';
+    const versions = bookMeta.versions || {};
+    if (versions.original || versions.russian || versions.starley || versions.hebrew) {
+        badgesHtml = '<div class="version-badges">';
+        if (versions.original) badgesHtml += '<span class="version-badge en">EN</span>';
+        if (versions.russian)  badgesHtml += '<span class="version-badge ru">RU</span>';
+        if (versions.starley)  badgesHtml += '<span class="version-badge star">⭐</span>';
+        if (versions.hebrew)   badgesHtml += '<span class="version-badge he">HE</span>';
+        badgesHtml += '</div>';
+    }
+
     return `
-        <div class="book-card${adminOnlyClass}${isFav ? ' favorite-book' : ''}" data-book-path="${bookPath}" data-first-chapter="${firstChapter}" data-book-title="${bookMeta.title}" data-book-authors="${(bookMeta.authors || []).join(', ')}" data-full-title="${escapedTitle}" data-visibility="${visibility}">
+        <div class="book-card${adminOnlyClass}${isFav ? ' favorite-book' : ''}" 
+             data-book-path="${bookPath}" 
+             data-first-chapter="${firstChapter}" 
+             data-book-title="${bookMeta.title}" 
+             data-book-authors="${(bookMeta.authors || []).join(', ')}" 
+             data-full-title="${escapedTitle}" 
+             data-visibility="${visibility}">
             <div class="book-cover-wrapper">
+                ${badgesHtml}
                 <img src="${coverImagePath}" alt="${bookMeta.title}" class="book-cover-img"
-                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');"
-                     onload="if(this.naturalWidth === 0) { this.onerror(); }" />
+                     onerror="this.onerror=null; this.src='assets/img/book-placeholder.png'; this.classList.add('cover-fallback');" />
                 <div class="fav-btn ${isFav ? 'active' : ''}" data-path="${bookPath}">❤</div>
             </div>
             <div class="neon-info" style="color: ${neonColor};">
@@ -312,46 +333,15 @@ function renderBookCard(bookPath, bookMeta, visibility = 'all') {
     `;
 }
 
-function attachBookClickHandlers() {
-    document.querySelectorAll('.book-card').forEach(card => {
-        card.addEventListener('mouseenter', () => card.style.transform = 'scale(1.05)');
-        card.addEventListener('mouseleave', () => card.style.transform = 'scale(1)');
-        
-        card.addEventListener('click', (e) => {
-            // Если клик по кнопке избранного — не переходим в читалку
-            if (e.target.classList.contains('fav-btn')) {
-                e.stopPropagation();
-                const path = e.target.dataset.path;
-                const active = toggleFavorite(path);
-                e.target.classList.toggle('active', active);
-                card.classList.toggle('favorite-book', active);
-                return;
-            }
-
-            const bookPath = card.dataset.bookPath;
-            
-            // Для "Недавних" используем сохраненную главу и редакцию
-            if (card.classList.contains('recent-card')) {
-                const chapter = card.dataset.chapter;
-                const edition = card.dataset.edition;
-                window.location.href = `reader.html?book=${bookPath}&chapter=${chapter}&edition=${edition}`;
-            } else {
-                const firstChapter = card.dataset.firstChapter;
-                window.location.href = `reader.html?book=${bookPath}&chapter=${firstChapter}`;
-            }
-        });
-    });
-}
-
 function setupSearch() {
     const searchInput = document.getElementById('search');
-    
+    if (!searchInput || searchInput.dataset.searchAttached) return;
+
     searchInput.addEventListener('input', (e) => {
         const searchTerm = e.target.value.toLowerCase();
         document.querySelectorAll('.book-card').forEach(card => {
-            const bookTitle = card.getAttribute('data-book-title') || card.querySelector('.book-title')?.textContent || '';
-            const bookAuthors = card.getAttribute('data-book-authors') || card.querySelector('.book-authors')?.textContent || '';
-            
+            const bookTitle = card.getAttribute('data-book-title') || '';
+            const bookAuthors = card.getAttribute('data-book-authors') || '';
             if (bookTitle.toLowerCase().includes(searchTerm) || bookAuthors.toLowerCase().includes(searchTerm)) {
                 card.style.display = 'block';
             } else {
@@ -368,76 +358,28 @@ function setupSearch() {
             }
         }
     });
+    
+    searchInput.dataset.searchAttached = "true";
 }
 
-// Отключаем adjustFontSize — управление через CSS
+// Заглушки для старых функций
 window.adjustFontSize = function() {};
 window.adjustAllFontSizes = function() {};
 
-// Патч renderBookCard для version badges
-const originalRenderBookCard = window.renderBookCard;
-
-window.renderBookCard = function(bookPath, bookMeta, visibility = 'all') {
-    let html = originalRenderBookCard(bookPath, bookMeta, visibility);
-
-    const versions = bookMeta.versions || {};
-
-    if (versions.original || versions.russian || versions.starley || versions.hebrew) {
-        let badgesHtml = '<div class="version-badges">';
-
-        if (versions.original === true) {
-            badgesHtml += '<span class="version-badge en">EN</span>';
-        }
-        if (versions.russian === true) {
-            badgesHtml += '<span class="version-badge ru">RU</span>';
-        }
-        if (versions.starley === true) {
-            badgesHtml += '<span class="version-badge star">⭐</span>';
-        }
-        if (versions.hebrew === true) {
-            badgesHtml += '<span class="version-badge he">HE</span>';
-        }
-
-        badgesHtml += '</div>';
-
-        html = html.replace(
-            '<div class="book-cover-wrapper">',
-            '<div class="book-cover-wrapper">' + badgesHtml
-        );
-    }
-
-    return html;
-};
-
-// Удаляем inline font-size после рендера (на случай если что-то его выставило)
-document.addEventListener('DOMContentLoaded', function() {
-    setTimeout(function() {
-        document.querySelectorAll('.book-title, .book-authors').forEach(element => {
-            if (element.style.fontSize) {
-                element.style.fontSize = '';
-            }
-        });
-    }, 200);
+// Инициализация при загрузке
+document.addEventListener('DOMContentLoaded', () => {
+    loadLibrary().catch(err => console.error('Library init failed:', err));
 });
 
-function loadLibraryAndAdjustFonts() {
-    loadLibrary().catch(error => {
-        console.error('Error loading library:', error);
-    });
-}
-
-document.addEventListener('DOMContentLoaded', loadLibraryAndAdjustFonts);
-
-// Сохраняем последние открытые страницы
+// Сохранение посещенных страниц (для совместимости)
 window.addEventListener('load', () => {
-  let visited = JSON.parse(localStorage.getItem('visited') || '[]');
-
-  const current = location.pathname;
-
-  if (!visited.includes(current)) {
-    visited.push(current);
-    if (visited.length > 10) visited.shift(); // максимум 10 страниц
-  }
-
-  localStorage.setItem('visited', JSON.stringify(visited));
+    try {
+        let visited = JSON.parse(localStorage.getItem('visited') || '[]');
+        const current = location.pathname;
+        if (!visited.includes(current)) {
+            visited.push(current);
+            if (visited.length > 10) visited.shift();
+            localStorage.setItem('visited', JSON.stringify(visited));
+        }
+    } catch(e) {}
 });
