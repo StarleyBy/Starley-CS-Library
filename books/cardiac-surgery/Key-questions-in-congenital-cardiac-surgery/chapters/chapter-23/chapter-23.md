@@ -53,7 +53,7 @@
 
 Transposition of the great arteries (TGA or transposition) is a congenital arrangement in which the ventriculoarterial connections are discordant, which means that the aorta arises entirely or largely from the right ventricle and the pulmonary trunk arises entirely or largely from the left ventricle. In this definition, atrioventricular connections are concordant (Figure 1).
 
-![](_page_1_Picture_6.jpeg)
+![](_page_0_Picture_6.jpeg)
 
 **Figure 1. A) Normal heart; and B) ventriculo-arterial discordance, with the left ventricle and pulmonary artery outlined in red, and the right ventricle and aorta outlined in blue.**
 
