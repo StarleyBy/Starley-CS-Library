@@ -250,10 +250,10 @@ The risk of complications with ECMO, including bleeding and thromboembolic event
 Short-term VADs, such as Medtronic Bio-Pump™, Thoratec PediMag® and CentriMag®, are similar to ECMO in many ways. They do not include an oxygenator, however, and have the advantage of a simpler circuit with shorter tubing length, therefore requiring less maintenance and smaller priming volumes. The drawbacks of limited support duration and patient immobility remain with these devices.
 
 Durable VADs have become increasingly prevalent in paediatric patients since the approval of the Berlin Heart EXCOR® Pediatric VAD, a pneumatically-driven pulsatile-flow device, by the US Food and Drug Administration (FDA) in 2011.
+  
+![](_page_6_Picture_6.jpeg)
 
 <span id="fig-1"></span>**FIGURE 1** The Berlin Heart EXCOR® paediatric ventricular assist device offers pumps to accommodate paediatric patients of any age. *(Reproduced with permission from Berlin Heart Inc.)*
-
-![](_page_6_Picture_6.jpeg)
 
 In the first prospective paediatric VAD trial in the world, superior survival was found in patients supported with the Berlin Heart VAD (90%), as compared to ECMO (40-60%), as well as decreased complication rates. The Berlin Heart VAD can be used for long-term support of one or both ventricles in children of all ages, and allows patients to be ambulatory and receive rehabilitation while awaiting transplant.
 
@@ -290,16 +290,16 @@ The presence of a left superior vena cava (LSVC) is the most common anomaly of s
 Malposition of the great arteries is most commonly seen during transplantation in patients with transposition of the great arteries, either uncorrected or in adult patients who have undergone a previous Mustard or Senning procedure. Mismatch between the more anterior-posterior orientation of the native aorta and PA, compared to the more right-left orientation of the donor heart, can be accommodated by using extra length of the donor great vessels. When this is not feasible, the native pulmonary arteriotomy may be moved leftward to better align the anastomosis with the position of the donor PA.
 
 Patients with univentricular congenital heart disease may have complex distortion of the pulmonary arteries either at the site of prior cavopulmonary anastomoses (in patients who have undergone a previous Fontan procedure) or due to pulmonary artery banding performed during hybrid palliation procedures. PA reconstruction may be performed by first enlarging the native pulmonary arteriotomy to incorporate multiple existing PA defects, and then fashioning extra donor branch PA tissue into a large onlay patch to be used for the anastomosis. Removal of a ductus arteriosus stent in patients who have undergone a prior hybrid procedure requires reconstruction of the ascending aorta and arch to beyond the ductal insertion site, which can be accomplished either with an extended length of donor aorta or with prosthetic tissue (homograft), creating a Norwood-like aortic reconstruction.
+  
+![](_page_9_Picture_3.jpeg)
 
 <span id="fig-2"></span>**FIGURE 2** Modified aortic and pulmonary artery anastomoses for transplantation after previous hybrid palliation for hypoplastic left heart syndrome. A biatrial connection is shown. *(Reproduced with permission from Elsevier, © 2014. Chen JM. Heart transplant: transplantation for congenital heart disease. Oper Tech Thorac Cardiovasc Surg 2014: 19:.)*
 
-![](_page_9_Picture_3.jpeg)
-
 Transplantation in patients with variations in atrial situs may incorporate several techniques similar to those described above. In situs inversus totalis, the arterial anastomoses are shifted toward the midline by extending the native pulmonary arteriotomy onto the left PA for anastomosis. The LSVC is routed to the right atrium using a length of donor innominate vein, while the left inferior vena cava (LIVC) is extended by fashioning a generous cuff of native atrial free wall into a cylinder or by using another conduit, which is then anastomosed to the donor IVC.
+  
+![](_page_10_Picture_3.jpeg)
 
 <span id="fig-3"></span>**FIGURE 3** Modified bicaval technique for transplantation in situs inversus. Ao = aorta; LSVC = left superior vena cava; LPA = left pulmonary artery; LA = left atrium; LIVC = left inferior vena cava; MPA = main pulmonary artery; RA = right atrium. *(Reproduced with permission from Elsevier, © 2010. Montalvo J, Bailey LL. Operative methods used for heart transplantation in complex univentricular heart disease and variations of atrial situs. Oper Tech Thorac Cardiovasc Surg 2010: 15:.)*
-
-![](_page_10_Picture_3.jpeg)
 
 These reconstructions pose the greatest challenge in infants, due to size constraints and the need for future growth potential.
 
@@ -329,10 +329,9 @@ Other adjuncts to the immunosuppressive regimen include mammalian target of rapa
 One-year post-transplant survival is lower for infants <1 year of age at transplant than for older children (82 vs. 88%), due to the increased risk of death in the peri-operative period, especially in patients transplanted with congenital heart disease.
 
 Long-term survival, however, is superior for the youngest recipients, with 10-year survival of 66% for infants and 55% for older children.
-
+                                                          
+![](_page_12_Picture_2.jpeg)                                                         
 <span id="fig-4"></span>**FIGURE 4** Kaplan-Meier post-transplant survival for paediatric heart transplant recipients by recipient age at transplant (1982-2012). *(Reproduced with permission from Elsevier, © 2014. Dipchand AI, Edwards LB, Kucheryavaya AY, et al. The registry of the International Society for Heart and Lung Transplantation: seventeenth official pediatric heart transplantation report — 2014; focus theme: retransplantation. J Heart Lung Transplant 2014; 33:.)*
-
-![](_page_12_Figure_2.jpeg)
 
 Median post-transplant survival (the time at which 50% of transplant recipients remain alive) is:
 - a) 19.7 years for infants aged <1 year;
@@ -369,10 +368,10 @@ Median conditional survival for recipients surviving the first year post-transpl
 The use of mechanical circulatory support (MCS) has resulted in improved survival to transplant, approaching 90% at some institutions. With the exception of those supported with ECMO, it is further evident that MCS does not adversely impact post-transplant survival.
 
 For patients supported with ECMO to transplantation, however, there is nearly a 20-30% excess mortality in the early post-transplant period relative to those not requiring mechanical support and those supported with a ventricular assist device (VAD) or total artificial heart (TAH).
+  
+![](_page_13_Picture_7.jpeg)
 
 <span id="fig-5"></span>**FIGURE 5** Kaplan-Meier post-transplant survival by use of mechanical circulatory support as a bridge to heart transplantation (paediatric heart transplants, 2000-2012). ECMO = extracorporeal membrane oxygenation; VAD = ventricular assist device; TAH = total artificial heart. *(Reproduced with permission from Elsevier, © 2014. Dipchand AI, Edwards LB, Kucheryavaya AY, et al. The registry of the International Society for Heart and Lung Transplantation: seventeenth official pediatric heart transplantation report — 2014; focus theme: retransplantation. J Heart Lung Transplant 2014; 33:.)*
-
-![](_page_13_Figure_7.jpeg)
 
 Superior post-transplant survival for patients supported with VADs may likely be attributed to the improved end-organ function and rehabilitation opportunities while supported with a VAD, leading to an improved patient condition prior to transplant.
 
@@ -535,10 +534,10 @@ Although the technology is still early in its development, adults and larger chi
 Use of the Maquet Quadrox iD® membrane oxygenator has also been reported in a similar configuration for neonates and infants.
 
 Both of these approaches employ the low-resistance oxygenator in a pumpless circuit with central cannulation from the pulmonary artery to left atrium, using the right ventricle to direct pulmonary blood flow through the oxygenator for gas exchange.
+  
+![](_page_18_Picture_6.jpeg)
 
 <span id="fig-6"></span>**FIGURE 6** The Maquet Quadrox iD® membrane oxygenator used for paracorporeal lung assist in neonates and infants. A PTFE graft is used to extend a paediatric Berlin Heart cannula through the right atrium and to the interatrial septum for outflow to the left atrium. MPA = main pulmonary artery; PTFE = polytetrafluoroethylene. *(Reproduced with permission from Elsevier, © 2014. Hoganson DM, Gazit AZ, Boston US, et al. Paracorporeal lung assist devices as a bridge to recovery or lung transplantation in neonates and young children. J Thorac Cardiovasc Surg 2014; 147:.)*
-
-![](_page_18_Picture_6.jpeg)
 
 While this approach may allow extubation and physical rehabilitation while awaiting transplant, anticoagulation-related morbidity remains as it does with ECMO.
 
@@ -598,10 +597,10 @@ Overall survival after lung transplantation is comparable for paediatric and adu
 Within the paediatric age group, median post-transplant survival is:
 - a) 6.4-6.7 years for patients aged 0-11 years;
 - b) 4.7 years for patients aged 12-17 years.
+  
+![](_page_20_Figure_10.jpeg)
 
 <span id="fig-7"></span>**FIGURE 7** Kaplan-Meier post-transplant survival for paediatric lung transplant recipients by recipient age at transplant (1990-2012). *(Reproduced with permission from Elsevier, © 2014. Benden C, Goldfarb SB, Edwards LB, et al. The registry of the International Society for Heart and Lung Transplantation: seventeenth official pediatric lung and heart-lung transplantation report — 2014; focus theme: retransplantation. J Heart Lung Transplant 2014; 33:.)*
-
-![](_page_20_Figure_10.jpeg)
 
 Reflecting the relatively high peri-operative and early mortality following lung transplantation, there is a large discrepancy between overall and 1-year conditional survival for lung transplant recipients. Conditional median survival is 9.7-11.2 years for patients aged 0-11 years and 7.7 years for patients aged 12-17 years.
 
