@@ -9,8 +9,8 @@
       "David J. Sugarbaker, Md"
     ],
     "versions": {
-      "original": false,
-      "russian": false,
+      "original": true,
+      "russian": true,
       "starley": false,
       "hebrew": false
     },
