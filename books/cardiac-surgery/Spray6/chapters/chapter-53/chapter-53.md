@@ -108,13 +108,13 @@ In the operating room, standard principles of neonatal cardiac anesthesia are fo
 
 After median sternotomy, the patient is prepared for cannulation for CPB. Patients are heparinized to achieve an activated clotting time greater than 400 seconds. In first‑time operations, the pericardial sac is opened, and a piece of autologous pericardium is harvested for later use as a hood to augment the connection between the conduit and the RVOT if one is planning to use a homograft. This will not be necessary if one is planning to use an internal jugular venous conduit. In the case of a redo sternotomy, the administration of heparin is delayed to allow the dissection of most of the adhesions in the pericardial cavity and the identification of the key structures prior to the initiation of anticoagulation. The distal ascending aorta is cannulated through a pursestring suture, snared in place, and connected to the arterial line. Both venae cavae are cannulated with right‑angle cannulae and connected to the venous line with a Y‑connector. CPB is instituted followed by immediate ligation or control of the patent ductus arteriosus, if present. Likewise systemic‑to‑pulmonary shunts are dissected, controlled, clamped, and divided. The aorta is cross‑clamped, cardioplegia is delivered antegrade in the ascending aorta, and the venae cavae are snared. The right atrium is opened to avoid distension of the heart. A cardiotomy suction is placed into the left atrium through an atrial septal defect or patent foramen ovale to decompress the left heart. After administering a full dose of cardioplegia, a transverse incision is made in the proximal PA. The pulmonary valve and the LVOTO are then inspected and the decision to perform a Rastelli operation is finalized. A vertical right ventriculotomy also assists us in making that decision ([Fig. 53.1](#fig-53-1)).
 
-<span id="fig-53-1"></span>![](_page_1_Picture_11.jpeg)
+<span id="fig-53-1"></span>![](_page_53_Picture_1.jpeg)
 
 **FIGURE 53.1** Vertical right ventriculotomy for exposure of VSD and LVOTO.
 
 After examining the LVOTO and confirming that a Rastelli repair will be performed, an appropriately sized valved pulmonary homograft is thawed, rinsed, and prepared for later use. Alternatively, an internal jugular venous conduit may be used. Pledgeted stay sutures are placed on the edges of the ventriculotomy to provide traction and aid in exposure ([Fig. 53.2](#fig-53-2)). The intracardiac anatomy is carefully examined. Particular attention is given to the size and location of the VSD relative to the size and location of the aortic valve annulus. Importantly, if the VSD is smaller than the diameter of the aortic valve annulus, it is enlarged at its leftward and anterior margin by resecting a wedge of interventricular septum. The VSD can be further enlarged by resection of part of the infundibular septum.
 
-<span id="fig-53-2"></span>![](_page_2_Picture_6.jpeg)
+<span id="fig-53-2"></span>![](_page_53_Picture_2.jpeg)
 
 **FIGURE 53.2** Stay sutures on ventriculotomy edges for exposure.
 
@@ -122,17 +122,17 @@ Patients with IVS and fixed LVOTO may still be candidates for the Rastelli opera
 
 To create the intracardiac baffle, interrupted sutures of pledgeted 4‑0 braided polyester are placed circumferentially to encompass the VSD and the aortic valve annulus ([Fig. 53.3a](#fig-53-3a)). Superiorly, great care is used to keep the suture close to the aortic valve annulus and thus avoid leaving trabeculations or myocardial crevices which would result in a significant residual VSD. Inferiorly, the suture line may need to be placed directly through the annulus of the tricuspid valve in the absence of a muscle band. The sutures may be placed through the right atrial aspect into the tricuspid valve annulus. Along the rightward and inferior border of the VSD, the sutures are placed several millimeters away from the edge to avoid affecting the conduction system. In order to decrease the myocardial ischemia time, this suture line can also be performed with a continuous running technique using 4‑0, 5‑0, or 6‑0 polypropylene. To close the VSD and create the intracardiac baffle, our preference is to use a 0.6 mm thick Gore‑Tex patch ([Fig. 53.3b](#fig-53-3b)). To avoid obstruction of the baffle, the patch is cut with greater width therefore allowing bowing into the RV. With a pressurized LV, the baffle therefore assumes a semicircular shape, bowing into the RV.
 
-<span id="fig-53-3a"></span>![](_page_2_Picture_7.jpeg)
+<span id="fig-53-3a"></span>![](_page_53_Picture_3a.jpeg)
 
 **FIGURE 53.3a** Interrupted pledgeted sutures around VSD and aortic annulus.
 
-<span id="fig-53-3b"></span>![](_page_2_Picture_8.jpeg)
+<span id="fig-53-3b"></span>![](_page_53_Picture_3b.jpeg)
 
 **FIGURE 53.3b** Gore‑Tex baffle closing VSD and channelling LV to aorta.
 
 Following the construction of the intraventricular tunnel and VSD closure, the proximal PA is transected and the pulmonary valve and PA stump are then oversewn. In the classic Rastelli operation, RV to PA continuity is then reestablished with a size‑appropriate pulmonary homograft, which has been trimmed to an adequate length. A small rim of muscle at the proximal end is intentionally preserved to facilitate implantation. The distal anastomosis is constructed using a 6‑0 polypropylene suture in the neonate or young infant, using 5‑0 in the older child. We prefer to perform these anastomoses with the heart arrested, believing that the slight increase in myocardial ischemia time is worth the increased accuracy of the anastomosis. Proximally, the pulmonary homograft is sutured to the distal end of the ventriculotomy incision with a running 5‑0 polypropylene suture in the neonate or young infant, using 4‑0 in the older child. We routinely use a patch of autologous pericardium to augment the proximal anastomosis, creating a smoother unobstructed transition between the homograft and the right ventricular surface ([Fig. 53.4](#fig-53-4)).
 
-<span id="fig-53-4"></span>![](_page_3_Picture_8.jpeg)
+<span id="fig-53-4"></span>![](_page_53_Picture_4.jpeg)
 
 **FIGURE 53.4** Proximal conduit anastomosis augmented with pericardial hood.
 
@@ -142,7 +142,7 @@ The patient is rewarmed during the insertion of the pulmonary conduit. The cardi
 
 The Lecompte modification (also known as réparation à l'étage ventriculaire, REV) was proposed to avoid the use of a conduit by directly anastomosing the PA to the right ventriculotomy. To do so, a Lecompte maneuver has to be performed. The PAs are extensively mobilized to avoid excessive stretching. The aorta is transected, and the mobilized PA confluence is transferred anterior to the ascending aorta. The intracardiac repair remains identical to the Rastelli operation. The main differentiating feature is that the PA confluence is anastomosed directly to the right ventriculotomy incision. As with the classic Rastelli, a patch of autologous pericardium is utilized to augment that connection ([Fig. 53.5](#fig-53-5)). Obviously, the transected aorta is re‑anastomosed using a running 6‑0 polypropylene suture. Other similar modifications have been proposed such as the Metras procedure. A downside of the REV operation proposed by Lecompte is the absence of a pulmonary valve after the surgical repair. However, the need for reoperation for conduit obstruction may be decreased. Late reoperations may be necessary for severe pulmonary regurgitation and right ventricular dilatation and dysfunction.
 
-<span id="fig-53-5"></span>![](_page_3_Picture_9.jpeg)
+<span id="fig-53-5"></span>![](_page_53_Picture_5.jpeg)
 
 **FIGURE 53.5** REV modification: direct PA‑to‑right ventriculotomy anastomosis with pericardial patch (after Lecompte maneuver).
 
@@ -160,33 +160,33 @@ The Nikaidoh operation is well suited for patients with d‑TGA, associated with
 
 After median sternotomy, a thymectomy is performed, the pericardial sac is opened, and systemic heparinization is achieved. The ascending aorta and both venae cavae are cannulated. Cardiopulmonary bypass is instituted. The ductus arteriosus or ligamentum is isolated, ligated, and divided. Systemic pulmonary shunts, if present, are dissected, clamped, and divided. The aorta is cross‑clamped and the heart is arrested by delivering cold‑blood cardioplegia in the aortic root. The aortic root is then carefully dissected and mobilized with great care to protect the coronary arteries and the aortic valve. The right and left coronary arteries are carefully mobilized to gain enough length and allow transfer of the aortic root ([Fig. 53.6a](#fig-53-6a)). In cases of side‑by‑side great vessels, the right coronary may need to be detached and re‑anastomosed to allow aortic root translocation without compromising coronary perfusion (as demonstrated in [Figs. 53.8a and 53.8b](#fig-53-8a)).
 
-<span id="fig-53-6a"></span>![](_page_4_Picture_10.jpeg)
+<span id="fig-53-6a"></span>![](_page_53_Picture_6a.jpeg)
 
 **FIGURE 53.6a** Mobilisation of aortic root and coronary buttons.
 
 The PA is transected above the level of the valve. The severely stenotic or atretic pulmonary annulus is divided at the point of continuity with the aortic annulus. This incision is carried down through the conal septum (if present) ([Fig. 53.6b](#fig-53-6b)).
 
-<span id="fig-53-6b"></span>![](_page_4_Picture_12.jpeg)
+<span id="fig-53-6b"></span>![](_page_53_Picture_6b.jpeg)
 
 **FIGURE 53.6b** Division of pulmonary annulus and conal septum.
 
-Interrupted sutures of pledgeted 4‑0 braided polyester are placed circumferentially on the rim of the VSD and passed to a previously tailored patch of Gore‑Tex. The anterior portion of the translocated aortic root is similarly anastomosed to the superior edge of the VSD patch ([Figs. 53.7a and 53.7b](#fig-53-7a)).
+Interrupted sutures of pledgeted 4‑0 braided polyester are placed circumferentially on the rim of the VSD and passed to a previously tailored patch of Gore‑Tex. The anterior portion of the translocated aortic root is similarly anastomosed to the superior edge of the VSD patch ([Fig. 53.7a](#fig-53-7a), [Fig. 53.7b](#fig-53-7b)).
 
-<span id="fig-53-7a"></span>![](_page_5_Picture_2.jpeg)
+<span id="fig-53-7a"></span>![](_page_53_Picture_7a.jpeg)
 
 **FIGURE 53.7a** VSD patch and beginning of aortic root translocation.
 
-<span id="fig-53-7b"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-53-7b"></span>![](_page_53_Picture_7b.jpeg)
 
 **FIGURE 53.7b** Aortic root anastomosed to enlarged LV outflow tract.
 
-As mentioned previously, multiple approaches exist to re‑establish RV to PA continuity. The classic Nikaidoh operation does not entail the use of a conduit. The right lateral wall of the distal main PA is sutured to the external wall of the aortic root. A patch of autologous pericardium (preferably) is utilized to baffle the right ventriculotomy externally to the PA confluence using the anterior portion of the aortic root as the “back wall”. Alternatively, a valved conduit (homograft or Contegra) can be employed. Placement of this conduit should be carefully guided by the geometry of the great vessels and coronary arteries in order to avoid hemodynamically significant compression ([Figs. 53.8a and 53.8b](#fig-53-8a)).
+As mentioned previously, multiple approaches exist to re‑establish RV to PA continuity. The classic Nikaidoh operation does not entail the use of a conduit. The right lateral wall of the distal main PA is sutured to the external wall of the aortic root. A patch of autologous pericardium (preferably) is utilized to baffle the right ventriculotomy externally to the PA confluence using the anterior portion of the aortic root as the “back wall”. Alternatively, a valved conduit (homograft or Contegra) can be employed. Placement of this conduit should be carefully guided by the geometry of the great vessels and coronary arteries in order to avoid hemodynamically significant compression ([Fig. 53.8a](#fig-53-8a), [Fig. 53.8b](#fig-53-8b)).
 
-<span id="fig-53-8a"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-53-8a"></span>![](_page_53_Picture_8a.jpeg)
 
 **FIGURE 53.8a** RV‑PA reconstruction with valved conduit after Nikaidoh.
 
-<span id="fig-53-8b"></span>![](_page_5_Picture_8.jpeg)
+<span id="fig-53-8b"></span>![](_page_53_Picture_8b.jpeg)
 
 **FIGURE 53.8b** Completed Nikaidoh repair (schematic).
 
