@@ -99,17 +99,19 @@ Valvuloplasty is performed by catheterization via the femoral veins. The valve i
 
 Open pulmonary valvotomy is performed through a median sternotomy using CPB and bicaval cannulation. The patent ductus arteriosus is ligated or snared at the initiation of CPB. An aortic cross-clamp is applied, and antegrade cardioplegia is administered through the aortic root to achieve myocardial arrest. A vertical or transverse arteriotomy is then performed on the anterior wall of the main pulmonary artery ([Fig. 51.1](#fig-51-1)).
 
-<span id="fig-51-1"></span>![](_page_1_Picture_12.jpeg)
+<span id="fig-51-1"></span>![](_page_51_Picture_1.jpeg)
 
 **FIGURE 51.1** Vertical arteriotomy on main pulmonary artery.
 
 The stenotic valve is inspected, and the fused commissures are carefully incised with an 11 scalpel blade or fine vascular scissors ([Fig. 51.2a](#fig-51-2a)). The incisions in the valve should extend to the annulus ([Fig. 51.2c](#fig-51-2c)). Any valvular adhesions to the pulmonary arterial wall are sharply incised. A partial valvectomy may be necessary to remove thickened valve tissue or dense fibrous scarring on dysplastic leaflets. The infundibulum is then inspected through the valve for any subvalvular stenosis ([Fig. 51.2c](#fig-51-2c)). Sharp infundibular resection may be performed if necessary. The arteriotomy is closed using a running polypropylene suture.
 
-<span id="fig-51-2a"></span>![](_page_2_Picture_3.jpeg)
+<span id="fig-51-2a"></span>![](_page_51_Picture_2a.jpeg)
+  
+![](_page_51_Picture_2b.jpeg)
 
-**FIGURE 51.2a** Incising fused commissures.
+**FIGURE 51.2a-b** Incising fused commissures.
 
-<span id="fig-51-2c"></span>![](_page_2_Picture_4.jpeg)
+<span id="fig-51-2c"></span>![](_page_51_Picture_2c.jpeg)
 
 **FIGURE 51.2c** Incisions extending to annulus; inspection of infundibulum.
 
@@ -123,9 +125,7 @@ In cases of subvalvular stenosis, a vertical incision is made and a vein retract
 
 If no atrial septal defect is present, a pulmonary valvotomy may be performed through a median sternotomy using an off-pump transventricular technique. A pursestring suture is placed in the anterior wall of the RV. An angiocatheter connected to a pressure transducer is first introduced through the pursestring in the RV and into the pulmonary artery. Using the same technique, progressively larger metal dilators are then introduced across the valve membrane ([Fig. 51.3](#fig-51-3)). If the valve tissue does not dilate easily, a long vascular clamp may be used to initially disrupt the valve tissue. After adequate dilation, the pursestring is tied and reinforced.
 
-<span id="fig-51-3"></span>![](_page_2_Picture_7.jpeg)
-![](_page_2_Picture_8.jpeg)
-![](_page_2_Picture_9.jpeg)
+<span id="fig-51-3"></span>![](_page_51_Picture_3.jpeg)
 
 **FIGURE 51.3** Transventricular insertion of dilators across the atretic valve.
 
@@ -219,20 +219,19 @@ The principles and techniques of systemic-to-pulmonary artery shunts are discuss
 
 A median sternotomy is performed, and a primed CPB pump is made available. A pediatric cross-clamp is placed immediately beneath the bifurcation of the main pulmonary artery. The ductus is kept patent to provide pulmonary blood flow. A vertical incision is made in the anterior aspect of the main pulmonary artery and extended down to the junction of the RV ([Fig. 51.4a](#fig-51-4a)). A partial thickness incision is continued down to the area over the right ventricular cavity. Epicardial muscle is resected to a depth of 2–3 mm to thin out the superficial wall of the RV.
 
-<span id="fig-51-4a"></span>![](_page_5_Picture_13.jpeg)
+<span id="fig-51-4a"></span>![](_page_51_Picture_4a.jpeg)
 
 **FIGURE 51.4a** Vertical incision from PA onto RV.
 
 A pericardial patch or alternate tissue such as homograft or synthetic pericardium is now sutured to the edges of the pulmonary artery and to the edges of the right ventricular incision. The sutures are left loose inferiorly, and a scalpel is used to incise the valve membrane and the remaining myocardium over the right ventricular cavity ([Fig. 51.4b](#fig-51-4b)).
 
-<span id="fig-51-4b"></span>![](_page_5_Picture_15.jpeg)
+<span id="fig-51-4b"></span>![](_page_51_Picture_4b.jpeg)
 
 **FIGURE 51.4b** Incising valve membrane and remaining myocardium after patch sutured (loose inferiorly).
 
 The sutures are pulled up to control the bleeding, and the cross-clamp is removed ([Fig. 51.4c](#fig-51-4c)). Flow is reestablished through the RVOT. As long as saturation is maintained, the ductus arteriosus is ligated.
 
-<span id="fig-51-4c"></span>![](_page_6_Picture_4.jpeg)
-![](_page_6_Picture_5.jpeg)
+<span id="fig-51-4c"></span>![](_page_51_Picture_4c.jpeg)
 
 **FIGURE 51.4c** Completion of transannular patch and cross‑clamp removal.
 
@@ -244,17 +243,17 @@ The sutures are pulled up to control the bleeding, and the cross-clamp is remove
 
 An open pulmonary valvotomy can be performed with or without the use of CPB. The main pulmonary artery is cross‑clamped immediately below the bifurcation. Pulmonary perfusion is maintained through the ductus arteriosus. A pursestring suture is placed in the anterior wall of the main pulmonary artery. The main pulmonary artery is incised vertically within the pursestring and retracted to expose the valve ([Fig. 51.5a](#fig-51-5a)). The fused commissures are identified and incised sharply with an 11 scalpel to the level of the annulus ([Fig. 51.5b](#fig-51-5b)).
 
-<span id="fig-51-5a"></span>![](_page_6_Picture_10.jpeg)
+<span id="fig-51-5a"></span>![](_page_51_Picture_5a.jpeg)
 
 **FIGURE 51.5a** Exposure of valve through pursestring.
 
-<span id="fig-51-5b"></span>![](_page_6_Picture_11.jpeg)
+<span id="fig-51-5b"></span>![](_page_51_Picture_5b.jpeg)
 
 **FIGURE 51.5b** Incising fused commissures.
 
 The pursestring is tightened, and a thin-bladed vascular C-clamp is quickly applied to the incision ([Fig. 51.5c](#fig-51-5c)). The cross-clamp on the pulmonary artery is removed.
 
-<span id="fig-51-5c"></span>![](_page_6_Picture_12.jpeg)
+<span id="fig-51-5c"></span>![](_page_51_Picture_5c.jpeg)
 
 **FIGURE 51.5c** Closure of arteriotomy.
 
@@ -274,15 +273,15 @@ Enlargement of the right ventricular cavity is performed through a median sterno
 
 Insertion of a bioprosthetic valve and transannular patch is performed through a median sternotomy using CPB with bicaval cannulation. Myocardial arrest with cardioplegia is often used but may not be necessary. A transannular incision is made vertically across the pulmonary outflow tract and extended distally on to the left pulmonary artery and proximally down into the RV ([Fig. 51.6a](#fig-51-6a)). Any residual membrane in the region of the pulmonary annulus is resected. An oversized (relative to the normal valve size of the child) porcine bioprosthetic valve is placed under a pericardial or Gore‑Tex patch within the RVOT ([Fig. 51.6b](#fig-51-6b)). If pericardium is used, it is treated with glutaraldehyde for 5 minutes and rinsed with saline. The sewing ring of the porcine bioprosthetic valve is seated below the level of the true pulmonary annulus. This approach allows a larger valve to be implanted and reduces the amount of compression that may result from sternal closure. A running polypropylene suture is used to anchor the porcine valve sewing ring to the RVOT posteriorly. The transannular patch is sewn to the edges of the pulmonary artery, and the porcine valve is anchored to the patch anteriorly. Implantation of the patch is completed by suturing the proximal edges to the remaining myocardial defect in the RVOT ([Fig. 51.6c](#fig-51-6c)).
 
-<span id="fig-51-6a"></span>![](_page_7_Picture_6.jpeg)
+<span id="fig-51-6a"></span>![](_page_51_Picture_6a.jpeg)
 
 **FIGURE 51.6a** Transannular incision into left PA and RV.
 
-<span id="fig-51-6b"></span>![](_page_7_Picture_7.jpeg)
+<span id="fig-51-6b"></span>![](_page_51_Picture_6b.jpeg)
 
 **FIGURE 51.6b** Oversized porcine valve under patch.
 
-<span id="fig-51-6c"></span>![](_page_7_Picture_8.jpeg)
+<span id="fig-51-6c"></span>![](_page_51_Picture_6c.jpeg)
 
 **FIGURE 51.6c** Completed implantation.
 
@@ -294,16 +293,15 @@ Insertion of a bioprosthetic valve and transannular patch is performed through a
 
 Insertion of a transannular patch with a monocusp valve is performed through median sternotomy using CPB and bicaval cannulation. After harvesting, the pericardium is treated with glutaraldehyde for 5 minutes and then rinsed in saline. The transannular patch and the monocusp valve leaflet are marked on the harvested pericardium using a sterile marking pen ([Fig. 51.7a](#fig-51-7a)). Sizing of the monocusp valve is made using a metal dilator that approximates the expected "normal" diameter of the pulmonary annulus. The width of the monocusp leaflet at its base should be approximately one-half of the circumference of the dilator. This width should also correspond with the width and shape of the proximal end of the transannular patch. The superior edge of the monocusp valve leaflet should be attached to the edges of the incised pulmonary artery several millimeters distal to the area of the true valve annulus ([Fig. 51.7b](#fig-51-7b)). The monocusp valve is attached to the edges of the pulmonary artery and the RV using the same suture that attaches the edges of the transannular patch ([Fig. 51.7c](#fig-51-7c)).
 
-<span id="fig-51-7a"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-51-7a"></span>![](_page_51_Picture_7a.jpeg)
 
 **FIGURE 51.7a** Marking patch and monocusp on pericardium.
 
-<span id="fig-51-7b"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-51-7b"></span>![](_page_51_Picture_7b.jpeg)
 
 **FIGURE 51.7b** Monocusp leaflet attachment distal to true annulus.
 
-<span id="fig-51-7c"></span>![](_page_8_Picture_7.jpeg)
-![](_page_8_Picture_8.jpeg)
+<span id="fig-51-7c"></span>![](_page_51_Picture_7c.jpeg)
 
 **FIGURE 51.7c** Completed monocusp transannular patch.
 
@@ -315,23 +313,23 @@ Insertion of a transannular patch with a monocusp valve is performed through med
 
 The insertion of an aortic or pulmonary homograft is performed through a median sternotomy using CPB and bicaval cannulation. Cardioplegic arrest of the heart may or may not be necessary. An appropriately sized aortic or pulmonary homograft is selected, thawed, and trimmed to the correct length. The pulmonary artery is opened, and a running polypropylene suture is used for the distal anastomosis of the homograft to the pulmonary artery bifurcation ([Fig. 51.8a](#fig-51-8a)).
 
-<span id="fig-51-8a"></span>![](_page_9_Picture_5.jpeg)
+<span id="fig-51-8a"></span>![](_page_51_Picture_8a.jpeg)
 
 **FIGURE 51.8a** Distal homograft anastomosis to PA bifurcation.
 
 Proximally, the posterior edge of the homograft is sutured to the RVOT just below the pulmonary valve annulus using a running polypropylene suture ([Fig. 51.8b](#fig-51-8b)).
 
-<span id="fig-51-8b"></span>![](_page_9_Picture_6.jpeg)
+<span id="fig-51-8b"></span>![](_page_51_Picture_8b.jpeg)
 
 **FIGURE 51.8b** Proximal posterior anastomosis.
 
 The remaining anastomosis of the anterior edge of the homograft to the right ventriculotomy can be performed using the anterior leaflet of the mitral valve of an aortic homograft ([Fig. 51.8c](#fig-51-8c)). Alternatively, this anastomosis may require a rectangular hood of Gore‑Tex or pericardium ([Fig. 51.8d](#fig-51-8d)). This hood enlarges the RVOT and avoids residual obstruction at the junction of the homograft.
 
-<span id="fig-51-8c"></span>![](_page_9_Picture_7.jpeg)
+<span id="fig-51-8c"></span>![](_page_51_Picture_8c.jpeg)
 
 **FIGURE 51.8c** Using anterior mitral leaflet for anterior anastomosis.
 
-<span id="fig-51-8d"></span>![](_page_9_Picture_8.jpeg)
+<span id="fig-51-8d"></span>![](_page_51_Picture_8d.jpeg)
 
 **FIGURE 51.8d** Anterior hood (Gore‑Tex/pericardium).
 
