@@ -1,5 +1,7 @@
 # Fontan procedure for functionally single ventricle and double-inlet ventricle
 
+##### This chapter describes the Fontan procedure for functionally univentricular hearts, including history, principles, staged repair, surgical techniques (bidirectional Glenn, lateral tunnel, extracardiac conduit, intra/extracardiac conduit), perioperative management, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -150,13 +152,13 @@ The operation itself is performed on a beating heart. A snare is passed around t
 
 A vascular clamp is then applied to the SVC, just above the cavoatrial junction, taking care not to injure the sinus node. The SVC is then divided above the clamp, and the atrial end of the SVC is oversewn with a running 6‑0 Prolene suture. Once this step has been accomplished, the clamp is released. The right pulmonary artery is then fully mobilized all the way out to the first divisions. If the decision has been made to maintain forward flow in the patient, the main pulmonary artery is mobilized but not divided. However, if this is not to be the case, the main pulmonary artery is divided. The proximal pulmonary artery is then oversewn in two layers using a 4‑0 Prolene suture, making sure to catch the valve leaflets with each stitch so that no dead space is left behind that could become a site of later emboli. Alternatively, the valve leaflets can be sharply excised. The distal end of the divided main pulmonary artery can then either be directly closed or be patched with a small piece of bovine pericardium or Gore‑Tex®.
 
-To perform the actual superior cavopulmonary anastomosis, a side‑biting vascular clamp is applied along the superior surface of the right pulmonary artery starting at the point of its bifurcation from the main pulmonary artery. A long incision is then made on the superior aspect of the right pulmonary artery nearly the entire distance from its origin to its branching.
+To perform the actual superior cavopulmonary anastomosis, a side‑biting vascular clamp is applied along the superior surface of the right pulmonary artery starting at the point of its bifurcation from the main pulmonary artery. A long incision is then made on the superior aspect of the right pulmonary artery nearly the entire distance from its origin to its branching ([Fig. 45.1](#fig-45-1)).
 
 <span id="fig-45-1"></span>![](_page_45_Picture_1.jpeg)
 
 **FIGURE 45.1** Incision on superior aspect of right pulmonary artery for BDG anastomosis.
 
-The cavopulmonary anastomosis is then carried out with a running 6‑0 Prolene suture, which is interrupted in two areas to avoid a pursestring effect at the suture line and to maintain a widely patent anastomosis.
+The cavopulmonary anastomosis is then carried out with a running 6‑0 Prolene suture, which is interrupted in two areas to avoid a pursestring effect at the suture line and to maintain a widely patent anastomosis ([Fig. 45.2](#fig-45-2)).
 
 <span id="fig-45-2"></span>![](_page_45_Picture_2.jpeg)
 
@@ -176,7 +178,7 @@ Lateral tunnel cavopulmonary anastomosis is a modification of the Fontan operati
 
 This operation is carried out by reopening the chest via the median sternotomy that was previously performed for the construction of the superior cavopulmonary anastomosis. Once the patient is fully heparinized, aortic cannulation is done in a routine fashion. Bicaval cannulation is performed by placing a venous cannula directly into the SVC, and an additional cannula is placed in the IVC just above the diaphragmatic surface. Cardiopulmonary bypass is initiated, and the patient is then cooled to 28–32 °C. Next, the aorta is cross‑clamped, the cavae are snared, a right atriotomy parallel to the crista terminalis is performed, and cardioplegia is administered. Care is taken to avoid the crista terminalis as they are important in maintaining sinus rhythm.
 
-The intra-atrial baffle is then cut from a segment of Gore‑Tex tube and is fashioned so that a smooth, tubular intra-atrial tunnel can be created. Before the creation of the intra-atrial tunnel, the portion of the atrial septum within the confines of the oval fossa is excised. Before the Gore‑Tex baffle is sewn into place, a 4 mm fenestration is made using either a scalpel or an aortic punch. The superior cavoatrial junction, which had been previously oversewn at the time of the superior cavopulmonary shunt, is now opened.
+The intra-atrial baffle is then cut from a segment of Gore‑Tex tube and is fashioned so that a smooth, tubular intra-atrial tunnel can be created. Before the creation of the intra-atrial tunnel, the portion of the atrial septum within the confines of the oval fossa is excised. Before the Gore‑Tex baffle is sewn into place, a 4 mm fenestration is made using either a scalpel or an aortic punch. The superior cavoatrial junction, which had been previously oversewn at the time of the superior cavopulmonary shunt, is now opened ([Figs. 45.3a–45.3c](#fig-45-3a)).
 
 <span id="fig-45-3a"></span>![](_page_45_Picture_3a.jpeg)
 
@@ -190,19 +192,19 @@ The intra-atrial baffle is then cut from a segment of Gore‑Tex tube and is fas
 
 **FIGURE 45.3c** Baffle positioned for suturing.
 
-Once this step is complete, the baffle is sewn into position, starting at the orifice of the inferior cavoatrial junction, running the suture line posteriorly up to the superior cavoatrial junction. The suture line is then constructed around the entrance of the IVC into the atrium.
+Once this step is complete, the baffle is sewn into position, starting at the orifice of the inferior cavoatrial junction, running the suture line posteriorly up to the superior cavoatrial junction. The suture line is then constructed around the entrance of the IVC into the atrium ([Fig. 45.4a](#fig-45-4a)).
 
 <span id="fig-45-4a"></span>![](_page_45_Picture_4a.jpeg)
 
 **FIGURE 45.4a** Suture line around IVC orifice.
 
-It is important to note that the coronary sinus should be left on the pulmonary venous atrial side of the baffle so as to avoid injury to the conduction system. When the suture line reaches the inferior cavoatrial junction at its lateral aspect, the Gore‑Tex baffle can be trimmed to optimize the fit.
+It is important to note that the coronary sinus should be left on the pulmonary venous atrial side of the baffle so as to avoid injury to the conduction system. When the suture line reaches the inferior cavoatrial junction at its lateral aspect, the Gore‑Tex baffle can be trimmed to optimize the fit ([Fig. 45.4b](#fig-45-4b)).
 
 <span id="fig-45-4b"></span>![](_page_45_Picture_4b.jpeg)
 
 **FIGURE 45.4b** Trimming the baffle at lateral IVC junction.
 
-The suture line is then carried around so that the remainder of the baffle is sutured to the lateral wall of the atrium.
+The suture line is then carried around so that the remainder of the baffle is sutured to the lateral wall of the atrium ([Fig. 45.5](#fig-45-5)).
 
 <span id="fig-45-5"></span>![](_page_45_Picture_5.jpeg)
 
@@ -210,7 +212,7 @@ The suture line is then carried around so that the remainder of the baffle is su
 
 The suture line to the lateral wall of the atrium can be incorporated into the closure of the right atriotomy. The right atriotomy is then closed in two layers. It is important to avoid placing sutures into the crista terminalis, as this is thought to contribute to the later development of atrial arrhythmias. Once this is complete, the previously transected and now open superior cavoatrial junction can be anastomosed to the undersurface of the right pulmonary artery or to the site of the divided main pulmonary artery. This anastomosis is performed in a manner similar to that which was used to perform the superior cavopulmonary shunt. However, because the aorta is currently cross‑clamped, it is not necessary to place an additional vascular clamp across the right pulmonary artery. The right pulmonary artery should be well mobilized before the creation of this anastomosis.
 
-The completed lateral tunnel TCPC is demonstrated in Figure 45.6.
+The completed lateral tunnel TCPC is demonstrated in ([Fig. 45.6](#fig-45-6)).
 
 <span id="fig-45-6"></span>![](_page_45_Picture_6.jpeg)
 
@@ -230,9 +232,9 @@ This technique is also performed using cardiopulmonary bypass. Although the proc
 
 The IVC is snared down to the venous cannula. A vascular clamp is placed at the inferior cavoatrial junction, taking care not to injure the coronary sinus. The IVC is divided just below the vascular clamp. The atrial end of the IVC is then oversewn in two layers with a running 5‑0 Prolene suture, and the clamp is released. Next, a Gore‑Tex tube is sized to run from the cut end of the IVC up to the undersurface of the right pulmonary artery. The tube should be sized so that a gentle curve is formed just lateral to the heart. The IVC is then anastomosed to the Gore‑Tex tube using a running 5‑0 or 4‑0 Prolene suture. Once this step is completed, a snare is placed around the SVC, which is snared down onto the venous cannula. Alternatively, a vascular clamp can be placed below the SVC cannula. If the main pulmonary artery is still intact, it is divided and oversewn as described previously. However, the opening on the pulmonary arterial side is left open, and this opening is used for the anastomosis. If the main pulmonary artery had previously been divided, an arteriotomy is then performed on the undersurface of the fully mobilized right pulmonary artery. A small sump‑suction can be placed in the pulmonary arteriotomy to facilitate visualization of the anastomosis.
 
-The end of the Gore‑Tex tube is then spatulated, and an anastomosis is created between the tube and the undersurface of the right pulmonary artery using a running 6‑0 Prolene suture.
+The end of the Gore‑Tex tube is then spatulated, and an anastomosis is created between the tube and the undersurface of the right pulmonary artery using a running 6‑0 Prolene suture ([Fig. 45.7](#fig-45-7)).
 
-<span id="fig-45-7"></span>![](_page_45_Figure_7.jpeg)
+<span id="fig-45-7"></span>![](_page_45_Picture_7.jpeg)
 
 **FIGURE 45.7** Extracardiac conduit anastomosis to the undersurface of the right pulmonary artery.
 
@@ -240,13 +242,13 @@ Once the connection is completed, the snare and ligatures are released, followed
 
 If a fenestration is desired, this goal can be accomplished with a side‑to‑side anastomosis between the Gore‑Tex conduit and the atrial wall. This anastomosis can be performed by using either a side‑biting vascular clamp on the atrial wall or a very short period of aortic cross‑clamping, if necessary.
 
-To create the anastomosis, a fenestration, using a 4 mm aortic punch, is made in the conduit adjacent to the atrium.
+To create the anastomosis, a fenestration, using a 4 mm aortic punch, is made in the conduit adjacent to the atrium ([Fig. 45.8a](#fig-45-8a)).
 
 <span id="fig-45-8a"></span>![](_page_45_Picture_8a.jpeg)
 
 **FIGURE 45.8a** Creating a 4 mm fenestration in the extracardiac conduit.
 
-A small opening is then made in the right atrium, which is next anastomosed circumferentially around the fenestration in the conduit 3–4 mm outside the perimeter of the fenestration.
+A small opening is then made in the right atrium, which is next anastomosed circumferentially around the fenestration in the conduit 3–4 mm outside the perimeter of the fenestration ([Figs. 45.8b and 45.8c](#fig-45-8b)).
 
 <span id="fig-45-8b"></span>![](_page_45_Picture_8b.jpeg)
 
@@ -266,7 +268,7 @@ A 5‑0 Prolene or Gore‑Tex suture can be used, taking full-thickness bites th
 
 An intra/extracardiac conduit is an alternate technique that is particularly useful in patients with multiple hepatic venous orifices that drain into the right atrial chamber. As with the other techniques, this approach is undertaken via a median sternotomy. After full heparinization, the aorta is routinely cannulated. Venous drainage is via bicaval cannulation, with the inferior cannula placed low down in the IVC just above the diaphragmatic surface. The patient is placed on cardiopulmonary bypass and cooled to 22 °C to allow for reduction in flow. The cavae are snared, and the aorta is cross‑clamped. Cold cardioplegia solution is administered to arrest the heart. A right atriotomy is performed toward the inferior cavoatrial junction. Flow is reduced, and the inferior caval cannula is clamped, removed, and replaced with a small sump sucker.
 
-The orifice to the IVC (or multiple orifices from hepatic veins and IVC) should be clearly visible. An appropriately sized Gore‑Tex tube is then spatulated to provide the inflow into the conduit and sewn into place around the IVC and/or hepatic vein orifices.
+The orifice to the IVC (or multiple orifices from hepatic veins and IVC) should be clearly visible. An appropriately sized Gore‑Tex tube is then spatulated to provide the inflow into the conduit and sewn into place around the IVC and/or hepatic vein orifices ([Fig. 45.9a](#fig-45-9a)).
 
 <span id="fig-45-9a"></span>![](_page_45_Picture_9a.jpeg)
 
@@ -274,7 +276,7 @@ The orifice to the IVC (or multiple orifices from hepatic veins and IVC) should 
 
 This step is most easily accomplished by starting at the most medial edge of the IVC orifice. Once the inferior caval end of the Gore‑Tex is anastomosed, the conduit is brought outside the heart through the right atriotomy. An appropriate spot is picked for a fenestration inside the right atrium so that flow can occur easily into the atrial chamber. A 4 mm fenestration is created with either a scalpel blade or an aortic punch.
 
-Once this opening is made, the edges of the atriotomy are sewn to the outer surface of the Gore‑Tex tube using a running 5‑0 or 6‑0 Prolene suture.
+Once this opening is made, the edges of the atriotomy are sewn to the outer surface of the Gore‑Tex tube using a running 5‑0 or 6‑0 Prolene suture ([Fig. 45.9b](#fig-45-9b)).
 
 <span id="fig-45-9b"></span>![](_page_45_Picture_9b.jpeg)
 
@@ -284,9 +286,9 @@ The length of the conduit is then assessed so that it fits neatly to the undersu
 
 An alternative as advocated by Jonas et al. is to use an inverted T‑incision at the level of the bidirectional Glenn anastomosis, extending into both pulmonary arteries and the SVC. The superior end of the conduit can then be beveled appropriately and sutured to the opening using Prolene suture.
 
-An anastomosis is then created using a running 6‑0 Prolene suture.
+An anastomosis is then created using a running 6‑0 Prolene suture ([Fig. 45.9c](#fig-45-9c)).
 
-<span id="fig-45-9c"></span>![](_page_45_Figure_9c.jpeg)
+<span id="fig-45-9c"></span>![](_page_45_Picture_9c.jpeg)
 
 **FIGURE 45.9c** Completion of conduit-to‑PA anastomosis.
 
@@ -320,14 +322,14 @@ Finally, a late complication of the Fontan procedure is the development of prote
 
 Follow‑up data from the Children’s Hospital in Boston on 196 of 220 patients who underwent a lateral tunnel Fontan procedure over a 4‑year period (1987–1991) provided some insight into 10‑year outcomes of this particular modification of the operation. Kaplan–Meier estimated survival in their series was 93% at 5 years and 91% at 10 years. Freedom from failure was 90% at 5 years and 87% at 10 years. Freedom from new supraventricular tachyarrhythmia was 96% at 5 years and 91% at 10 years; freedom from bradyarrhythmia was 88% at 5 years and 79% at 10 years.
 
-In 2012, Stewart et al. published a contemporary series of 2747 patients undergoing Fontan operation from 2008 to 2009, as reported by the Society of Thoracic Surgeons’ Congenital Heart Surgery Database. The study included data from 68 participating centers. The authors demonstrated that, although the extracardiac conduit was the preferred operation, short‑term early outcomes, including Fontan takedown or revision and postoperative length of stay, were improved in patients having a lateral tunnel procedure (Table 45.1).
+In 2012, Stewart et al. published a contemporary series of 2747 patients undergoing Fontan operation from 2008 to 2009, as reported by the Society of Thoracic Surgeons’ Congenital Heart Surgery Database. The study included data from 68 participating centers. The authors demonstrated that, although the extracardiac conduit was the preferred operation, short‑term early outcomes, including Fontan takedown or revision and postoperative length of stay, were improved in patients having a lateral tunnel procedure ([Table 45.1](#table-45-1)).
 
-These contemporary mortality data demonstrate a marked improvement as compared to data from the Pediatric Cardiac Care Consortium from 1984 to 1993 (30‑day mortality 14.4%). However, as survival has improved, the focus has shifted to the long‑term health‑related quality of life and functional health status of Fontan patients. The Pediatric Heart Network sponsored Fontan Cross‑sectional Study involved 546 children aged 6–18 years following Fontan operation. Anderson et al. reported that measures of cardiac function and functional health status were below average, but generally within two standard deviations of the mean compared to control subjects. Not surprisingly, patients with systemic right ventricles fared worse than those patients with systemic left ventricle morphology (Table 45.2).
+These contemporary mortality data demonstrate a marked improvement as compared to data from the Pediatric Cardiac Care Consortium from 1984 to 1993 (30‑day mortality 14.4%). However, as survival has improved, the focus has shifted to the long‑term health‑related quality of life and functional health status of Fontan patients. The Pediatric Heart Network sponsored Fontan Cross‑sectional Study involved 546 children aged 6–18 years following Fontan operation. Anderson et al. reported that measures of cardiac function and functional health status were below average, but generally within two standard deviations of the mean compared to control subjects. Not surprisingly, patients with systemic right ventricles fared worse than those patients with systemic left ventricle morphology ([Table 45.2](#table-45-2)).
 
 <span id="table-45-1"></span>
 <details class="med-details"><summary>
 
-#### TABLE 45.1: Summary data of patients undergoing a Fontan procedure in 2008–2009 (as reported by the Society of Thoracic Surgeons’ Congenital Heart Surgery Database, 2012)</summary><div class="details-content">
+#### TABLE 45-1: Summary data of patients undergoing a Fontan procedure in 2008–2009 (as reported by the Society of Thoracic Surgeons’ Congenital Heart Surgery Database, 2012)</summary><div class="details-content">
 
 | Parameter                                          | Value                                     |
 |----------------------------------------------------|-------------------------------------------|
@@ -348,7 +350,7 @@ These contemporary mortality data demonstrate a marked improvement as compared t
 <span id="table-45-2"></span>
 <details class="med-details"><summary>
 
-#### TABLE 45.2: Summary data of patients 6–18 years of age who underwent a Fontan procedure (as reported by the Pediatric Heart Network Fontan Cross‑sectional Study, 2003–2004)</summary><div class="details-content">
+#### TABLE 45-2: Summary data of patients 6–18 years of age who underwent a Fontan procedure (as reported by the Pediatric Heart Network Fontan Cross‑sectional Study, 2003–2004)</summary><div class="details-content">
 
 | Parameter                                                | Value                     |
 |----------------------------------------------------------|---------------------------|

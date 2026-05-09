@@ -1,5 +1,7 @@
 # Double-outlet ventricles
 
+##### This chapter describes the surgical management of double-outlet ventricles, including the four main surgical strategies (intraventricular repair, arterial switch, REV procedure, and Bex‑Nikaidoh procedure), preoperative planning, operative techniques for left and right ventricular outflow tract reconstruction, postoperative care, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -8,7 +10,7 @@
 * **Double‑outlet ventricles:** Heterogeneous group from near‑normal connections to complete transposition. Biventricular repair possible unless severe ventricular hypoplasia, multiple VSDs, or severe AV valve anomalies (then univentricular approach).
 * **Key anatomical determinant:** Length of subpulmonary conus (distance between tricuspid and pulmonary valves) and presence/absence of pulmonary outflow obstruction.
 
-### Four Surgical Strategies (Fig. 46.1)
+### Four Surgical Strategies ([Fig. 46.1](#fig-46-1))
 1. **Intraventricular repair (IVR):** When tricuspid‑to‑pulmonary distance ≥ aortic valve diameter. Baffle from LV to aorta through VSD; native RV outflow tract remains (enlarged with patch if stenosis present).
 2. **Arterial switch operation:** When tricuspid‑to‑pulmonary distance too short (< aortic diameter) and no pulmonary obstruction. Tunnel from LV to pulmonary orifice + arterial switch.
 3. **REV procedure (réparation à l'étage ventriculaire):** Short distance + pulmonary obstruction. LV‑to‑aorta tunnel includes pulmonary orifice; PA transected and translocated anteriorly onto RV.
@@ -255,13 +257,13 @@ When the tricuspid‑to‑pulmonary valve distance is long enough (at least equa
 
 When the tricuspid‑to‑pulmonary valve distance is too short to allow IVR, the anterior limit of the tunnel runs anterior to the pulmonary orifice and the tunnel is constructed including the pulmonary valve. The pulmonary artery must subsequently be translocated anteriorly (REV procedure).
 
-<span id="fig-46-5d"></span>![](_page_46_Figure_5d.jpeg)
+<span id="fig-46-5d"></span>![](_page_46_Picture_5d.jpeg)
 
 **FIGURE 46.5d** For short distance (REV): tunnel includes pulmonary orifice; anterior limit anterior to orifice.
 
 The final step of the construction of the intracardiac tunnel is to secure the patch around the anterior margin of the aortic annulus. This is done using a series of interrupted mattress sutures.
 
-<span id="fig-46-5e"></span>![](_page_46_Figure_5e.jpeg)
+<span id="fig-46-5e"></span>![](_page_46_Picture_5e.jpeg)
 
 **FIGURE 46.5e** Securing the patch around the anterior aortic annulus with interrupted mattress sutures.
 
@@ -277,7 +279,7 @@ When an arterial switch operation is indicated (i.e. short tricuspid‑to‑pulm
 
 In most cases (i.e. when the subpulmonary conus is shorter than the subaortic conus), the conal septum is located anterior and to the right of the intracardiac tunnel. It does not need to be resected, and, actually, it can be used for the construction of the tunnel.
 
-<span id="fig-46-6a"></span>![](_page_46_Figure_6a.jpeg)
+<span id="fig-46-6a"></span>![](_page_46_Picture_6a.jpeg)
 
 **FIGURE 46.6a** For arterial switch (short subpulmonary conus): conal septum not resected, used for tunnel.
 
@@ -295,7 +297,7 @@ Sometimes (i.e. in the rare cases in which the subpulmonary conus, although too 
 
 The ascending aorta is transected at its mid‑portion. Although the aortic root may be harvested without detaching the coronary arteries, we prefer to excise the coronary ostia with a circular button of aortic wall, while preserving the sinotubular junction as a ring to prevent distortion of the aortic root.
 
-<span id="fig-46-7a"></span>![](_page_46_Figure_7a.jpeg)
+<span id="fig-46-7a"></span>![](_page_46_Picture_7a.jpeg)
 
 **FIGURE 46.7a** Excising coronary buttons, preserving sinotubular junction.
 
@@ -303,7 +305,7 @@ The proximal coronary arteries are mobilized. The aortic root is harvested with 
 
 The pulmonary artery is transected above the level of the pulmonary valve. The pulmonary valve is excised. The pulmonary branches are extensively mobilized.
 
-<span id="fig-46-7b"></span>![](_page_46_Figure_7b.jpeg)
+<span id="fig-46-7b"></span>![](_page_46_Picture_7b.jpeg)
 
 **FIGURE 46.7b** Mobilisation of pulmonary branches after transection.
 
