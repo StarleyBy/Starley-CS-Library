@@ -1,5 +1,3 @@
----
-
 # Aortic dissection: type A and B
 
 <details class="med-details"><summary>
@@ -316,5 +314,3 @@ According to the International Registry of Acute Aortic Dissections, the in-hosp
 In-hospital mortality following open surgical repair of acute complicated TBAD is 20–30%, with stroke rates of 5–10%, paraplegia rates of 5–10%, and acute renal failure rates of 5–20%. Large series of TEVAR for TBAD have demonstrated technical success rates of over 95%. Operative mortality rates are 0–15% with many series reporting less than 5%. Paraplegia rates are 0–5%, and long-term survival 65–100% with median follow-up ranging up to 40 months. The rates of endoleak are 2–40%. False lumen thrombosis is achieved in 60–100%. These mortality and morbidity rates compare favorably to open repair, which has supported the use of TEVAR for TBAD when technically feasible.
 
 </div></details>
-  
----

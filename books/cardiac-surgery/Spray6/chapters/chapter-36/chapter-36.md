@@ -1,5 +1,3 @@
----
-
 # The cut-and-sew Maze-III procedure for the treatment of atrial fibrillation
 
 ##### This chapter describes the original cut-and-sew Maze-III procedure for surgical treatment of atrial fibrillation, including historical evolution, detailed operative technique, and long-term outcomes. The Maze-III lesion pattern, later adapted to minimally invasive and radiofrequency-based Maze-IV, remains the gold standard for the surgical cure of atrial fibrillation.
@@ -292,5 +290,3 @@ An additional, unexpected benefit of the Maze procedure was that the perioperati
 Numerous "Maze modifications" have been championed over the past three decades but none has matched the results of procedures that adhere to the concept of a Maze procedure (Maze-I, II, III, or IV). Unfortunately, the term "Maze procedure" has become generic for almost any surgical procedure that is used to treat AF and this has led many cardiologists, patients, and others to believe that true Maze procedures are not as successful as they actually are. Thus, it is important to understand that all so-called "Maze procedures" are not the same.
 
 </div></details>
-
----

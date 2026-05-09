@@ -244,5 +244,3 @@ As previously noted, benign primary cardiac tumors rarely recur. Only rarely are
 Primary malignant and metastatic tumors are associated with poor prognosis. Therapy directed at such malignancies should be diagnostic and palliative in nature.
 
 </div></details>
-
----
