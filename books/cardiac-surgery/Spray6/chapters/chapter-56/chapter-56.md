@@ -172,7 +172,7 @@ The variability and complexity of anatomy in ccTGA necessitates extensive and ca
 
 Cardiopulmonary bypass is established using high aortic cannulation and bicaval cannulation. The SVC should be cannulated high (above the azygos vein if possible, snaring the azygos separately) and the IVC at the diaphragm as low as possible. In the presence of mesocardia or dextrocardia it may be easier to cannulate the right atrial appendage initially (the same pursestring can be used to site a left atrial pressure line at completion) to allow the heart to decompress and then cannulate the IVC with the heart collapsed. Moderate hypothermia to 25 °C is used to ensure thorough cooling and allow for short periods of low flow or arrest in assessing the pathways. Waterston’s groove is then developed as much as possible to facilitate the layers of the Senning ([Fig. 56.1](#fig-56-1)).
 
-<span id="fig-56-1"></span>![](_page_3_Picture_4.jpeg)
+<span id="fig-56-1"></span>![](_page_56_Picture_1.jpeg)
 
 **FIGURE 56.1** Development of Waterston’s groove.
 
@@ -188,11 +188,11 @@ The intracardiac anatomy should now be carefully assessed to confirm the VSD pos
 
 The atrial septal flap is now created, starting with a stab incision at the medial border of the fossa ovalis (i.e. closest to the mitral valve). This is then continued inferiorly across the floor of the heart and superiorly under the limbus. This is beginning to create a trapdoor‑shaped flap based on the lateral wall of the heart. The incision now has to be extended superiorly along the dotted line shown in ([Fig. 56.2a](#fig-56-2a)); this is a bold incision taken across the full thickness of the limbus, immediately beneath the root of the SVC. It is not a comfortable incision to make as it is carrying the scissors outside the heart. A right‑angled instrument can now be passed under the flap and the tip should appear in fresh air, sitting in Waterston’s groove ([Fig. 56.2b](#fig-56-2b)). Having developed Waterston’s groove extensively at the outset of the procedure greatly facilitates this maneuver.
 
-<span id="fig-56-2a"></span>![](_page_3_Picture_12.jpeg)
+<span id="fig-56-2a"></span>![](_page_56_Picture_2a.jpeg)
 
 **FIGURE 56.2a** Superior extension of incision (dashed line).
 
-<span id="fig-56-2b"></span>![](_page_3_Picture_14.jpeg)
+<span id="fig-56-2b"></span>![](_page_56_Picture_2b.jpeg)
 
 **FIGURE 56.2b** Right‑angle instrument passed under flap, appearing in Waterston’s groove.
 
@@ -208,7 +208,7 @@ We leave the Senning at this stage and return to it towards the end of the proce
 
 Attention is now turned to the VSD. ([Fig. 56.3](#fig-56-3)) shows the typical position of a perimembranous outlet VSD in ccTGA. The defect is usually closed transatrially, working through the mitral valve as shown here, but it can be closed working through the aorta after the coronary arteries have been excised. Interrupted or continuous suture techniques can be used according to personal preference but we prefer interrupted pledgeted sutures. The abnormal path of the conduction tissue in ccTGA means that placement of the sutures is critical to avoid damage to the bundle. The sutures around the superior and lateral margins of the defect should be placed from within the VSD (i.e. from the morphologic right ventricular side) to avoid the bundle that runs along the edge of the defect on the leftward surface of the septum.
 
-<span id="fig-56-3"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-56-3"></span>![](_page_56_Picture_3.jpeg)
 
 **FIGURE 56.3** Typical perimembranous outlet VSD in ccTGA (transatrial exposure through mitral valve).
 
@@ -224,7 +224,7 @@ In cases of pulmonary stenosis (rather than atresia) the main pulmonary artery m
 
 A conduit is then placed between the ventriculotomy and the pulmonary arteries. We prefer a strong material such as Dacron (the Hancock® conduit) which is less likely to be deformed when the chest is closed and has adequate length for what can be a longer distance than standard pulmonary atresia morphology. The conduit can be placed either to the left or right of the aorta but we prefer to place it to the left (which may require considerable mobilization of the left PA) as this prevents the conduit from lying directly behind the sternum ([Fig. 56.4](#fig-56-4)).
 
-<span id="fig-56-4"></span>![](_page_4_Picture_12.jpeg)
+<span id="fig-56-4"></span>![](_page_56_Picture_4.jpeg)
 
 **FIGURE 56.4** RV‑PA conduit (Hancock) placed to the left of the aorta.
 
@@ -238,11 +238,11 @@ If the VSD is predominantly inlet and remote from the aorta, a Nikaidoh procedur
 
 The principles of arterial switch and coronary transfer are similar to those in a neonatal switch in d‑TGA but the surgery is rotated through 90 degrees compared to the “usual” orientation that the surgeon might be used to in a neonatal switch. However, the slightly more side‑by‑side nature of the great vessels requires attention. Both the aorta and pulmonary artery are transected, dividing the PA through the site of the band (if present) to retain as much height as possible. The aorta is transected well above the sinotubular junction and the coronary positions confirmed. The coronaries arise from the facing sinuses with the posterior coronary (equivalent of the right coronary artery) tending to run directly posteriorly and the anterior coronary (equivalent of the left coronary) dividing into two main branches, which can arise from dual orifices. The coronaries are excised on generous buttons of aortic tissue and mobilized until they are free‑floating; this is particularly important with the anterior coronary, which needs a little more distance to rotate than the posterior vessel. The defects in the aorta are repaired with a patch of autologous pericardium or pulmonary homograft leaving plenty of patch tissue sitting above the height of the transected root ([Fig. 56.5](#fig-56-5)). The coronary buttons are then implanted into the neoaorta‑facing sinuses, keeping the incisions as high as possible. We tend to cut out a small V incision for the posterior coronary and create a medially hinged trapdoor incision for the anterior coronary ([Fig. 56.6](#fig-56-6)).
 
-<span id="fig-56-5"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-56-5"></span>![](_page_56_Picture_5.jpeg)
 
 **FIGURE 56.5** Repair of aortic defects with pericardial/homograft patch.
 
-<span id="fig-56-6"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-56-6"></span>![](_page_56_Picture_6.jpeg)
 
 **FIGURE 56.6** Coronary button implantation: V‑incision for posterior (right) coronary, trapdoor for anterior (left) coronary.
 
@@ -256,7 +256,7 @@ Note that, although the pulmonary artery is narrowed at the site of the band, ma
 
 A decision now has to be taken whether or not to perform the Lecompte maneuver. Although this would be the preferred method, the side‑by‑side nature of the great vessels and the older age of the patients (compared to a neonatal switch) can mean that it is not possible to gain adequate mobility of the branch pulmonary arteries to safely bring the PAs anteriorly. If there is sufficient length to the PAs, they can be brought forward and the aortic anastomosis completed behind them ([Fig. 56.7](#fig-56-7)). It may be necessary to move the opening in the branch PAs leftwards to accommodate for the side‑by‑side nature of the vessels and avoid undue tension on the RPA. Leaving plenty of tissue in the patch used to repair the coronary defects may help to give a little more laxity to this anastomosis (as shown in [Fig. 56.7](#fig-56-7)). If the PAs do not have sufficient laxity, it may be necessary to leave them behind the aorta. In this situation it may be easier to reconstruct the pulmonary anastomosis first, before reconstructing the aorta; this affords an opportunity to assess the tension on the main PA, which can potentially distort the anterior coronary, and it may help to place an additional patch into the PA anastomosis anteriorly to reduce any tension. Leaving a relatively long neo‑PA (by transecting the aorta well above the sinotubular junction) also helps give added flexibility to this anastomosis.
 
-<span id="fig-56-7"></span>![](_page_5_Picture_8.jpeg)
+<span id="fig-56-7"></span>![](_page_56_Picture_7.jpeg)
 
 **FIGURE 56.7** PA reconstruction: bringing PAs anteriorly (Lecompte) with incisions adjusted leftward.
 
@@ -268,7 +268,7 @@ A decision now has to be taken whether or not to perform the Lecompte maneuver. 
 
 Attention is returned to the atrium and the Senning is now created. The procedure is performed in three layers, creating a Y‑shaped systemic venous pathway that is encircled by a C‑shaped pulmonary venous pathway. It is a three‑dimensional procedure, with each layer impacting on the shape and volume of the next layer. The first layer utilizes the septal flap created in ([Fig. 56.2a,b](#fig-56-2a)). The assistant’s retractor is placed across the remnant of the interatrial septum to provide a clear view of the pulmonary venous atrium. A useful starting landmark is the base of the left atrial appendage and the free long edge of the septal flap is attached here with a running Prolene suture ([Fig. 56.8](#fig-56-8)). It is important to use more of the flap for the superior limb of this suture line than for the inferior component. This ensures that the suture line can take a dog‑legged pathway along the roof of the atrium, keeping as deep as possible to create plenty of volume above it for the SVC pathway. Thus, starting from the base of the left appendage, approximately two‑thirds of the flap circumference should be used for the superior direction and one‑third for the inferior direction, gathering up the floor of the left atrium towards the IVC.
 
-<span id="fig-56-8"></span>![](_page_6_Picture_4.jpeg)
+<span id="fig-56-8"></span>![](_page_56_Picture_8.jpeg)
 
 **FIGURE 56.8** First layer of Senning: septal flap attached to base of left atrial appendage.
 
@@ -280,7 +280,7 @@ Attention is returned to the atrium and the Senning is now created. The procedur
 
 The retractor is now replaced in the mitral valve and the free edge of the right atrial wall is folded in to meet the cut edge of the interatrial septum to create the Y‑shaped systemic venous baffle ([Fig. 56.9](#fig-56-9)). Inferiorly, the flap can be folded down onto the Eustachian valve, leaving the IVC behind it (this is the advantage of having cannulated the IVC very inferiorly, below the level of the Eustachian valve), and then run superiorly to meet the cut edge of the interatrial septum. Superiorly, the flap is rolled in around the SVC inflow, trying to create as much volume as possible with the tissue available. As the AV node is not found in the triangle of Koch in ccTGA, the suture line can pass anterior to the coronary sinus (in contrast to the Senning in d‑TGA where the suture line comes posteriorly, leaving the coronary sinus in the pulmonary venous atrium) and so incorporates the coronary sinus into the systemic venous channel. If necessary, the coronary sinus can be laid open into the floor of the left atrium to further enlarge the IVC pathway.
 
-<span id="fig-56-9"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-56-9"></span>![](_page_56_Picture_9.jpeg)
 
 **FIGURE 56.9** Second layer: free edge of right atrial wall folded in to create systemic venous baffle (Y‑shaped).
 
@@ -292,17 +292,17 @@ The retractor is now replaced in the mitral valve and the free edge of the right
 
 The Senning is completed by bringing the anterior free wall of the right atrium down onto the opening into the pulmonary venous chamber, like closing the lid on a suitcase. The suture lines can easily “strangle” the limbs of the systemic venous pathway so it is essential that enough tissue is available to give adequate length to these running sutures. This is achieved as shown in ([Figs. 56.10a and 56.10b](#fig-56-10a)), bringing point A to B and point X to Y. The suture lines just pick up the adventitia as they cross the SVC and IVC limbs and then the central portion of the flap is secured to the cut edge of the left atrium. If necessary, an additional incision can be made down between the right pulmonary veins to give further volume to this opening.
 
-<span id="fig-56-10a"></span>![](_page_7_Picture_7.jpeg)
+<span id="fig-56-10a"></span>![](_page_56_Picture_10a.jpeg)
 
 **FIGURE 56.10a** Third layer: point A to B, point X to Y.
 
-<span id="fig-56-10b"></span>![](_page_8_Picture_2.jpeg)
+<span id="fig-56-10b"></span>![](_page_56_Picture_10b.jpeg)
 
 **FIGURE 56.10b** Completed closure – pulmonary venous pathway.
 
 If this layer is too tight, the pulmonary venous pathway can become obstructed laterally. This is a particular risk in cases of mesocardia or dextrocardia when the cardiac malposition creates a relatively small surface area to the free wall of the right atrium. If there is concern that there is insufficient tissue for this layer, it can be augmented with a patch of autologous pericardium or pulmonary homograft as shown in ([Fig. 56.11](#fig-56-11)). We usually fold X to Y to seal off the inferior part of the layer and then use the patch to augment the mid and superior part of the repair. A further incision can be made (point p in [Fig. 56.11](#fig-56-11)) to open out the cavity if it feels tight.
 
-<span id="fig-56-11"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-56-11"></span>![](_page_56_Picture_11.jpeg)
 
 **FIGURE 56.11** Augmentation of third layer with pericardial/homograft patch; optional incision (p).
 
@@ -316,7 +316,7 @@ An alternative way to augment this layer is to create a pericardial well to acco
 
 An alternative technique to the complete atrial switch is to perform a bidirectional Glenn first, as a means of simplifying the atrial switch. The atrial septum is excised and then a single patch is used to direct the IVC flow back to the tricuspid valve. This is sometimes referred to as a “hemi‑Mustard” procedure ([Fig. 56.12](#fig-56-12)).
 
-<span id="fig-56-12"></span>![](_page_8_Picture_6.jpeg)
+<span id="fig-56-12"></span>![](_page_56_Picture_12.jpeg)
 
 **FIGURE 56.12** One‑and‑a‑half repair (hemi‑Mustard + bidirectional Glenn).
 
