@@ -80,7 +80,7 @@ Appropriate patient selection is essential for achieving optimal benefit and min
 
 <details class="med-details"><summary>
 
-### Complications related to transvenous device implantation</summary><div class="details-content">
+#### Complications related to transvenous device implantation</summary><div class="details-content">
 
 Complications related to transvenous device implantation in general include pneumothorax and/or hemothorax relating to access site puncture, cardiac perforation during lead placement, pocket hematoma, and/or infection. Myocardial infarction, stroke, death, and complications due to anesthesia are rare but must be discussed when obtaining informed consent. Complications specific to endocardial LV lead placement include CS dissection or perforation, extracardiac stimulation by the LV lead such as diaphragmatic pacing, and acute heart failure. A small risk of renal injury or allergic reaction due to IV contrast injection must also be disclosed. Overall complications rate is approximately 2–4%, and major complication rate 1–2%.
 
@@ -88,7 +88,7 @@ Complications related to transvenous device implantation in general include pneu
 
 <details class="med-details"><summary>
 
-### Complications related to robotic LV lead placement</summary><div class="details-content">
+#### Complications related to robotic LV lead placement</summary><div class="details-content">
 
 Complications related to robotic LV lead placement include a 1–2% risk of bleeding and/or infection. General anesthesia can precipitate a CHF exacerbation in patients with a very low LVEF. Finally, intercostal neuropathy can be seen in up to 5% of patients undergoing thoracoscopy.
 
@@ -218,7 +218,7 @@ Retrograde venography of the CS is then performed via a balloon tipped catheter.
 
 **FIGURE 38.3b** Retrograde venography (RAO view) showing coronary sinus tributaries.
 
-<span id="fig-38-3c"></span>![](_page_38_Picture_3c.jpeg)   *(Note: The original contains two similar images; the second is labeled 38.3c in the source.)
+<span id="fig-38-3c"></span>![](_page_38_Picture_3c.jpeg)
 
 **FIGURE 38.3c** Retrograde venography (LAO view).
 
@@ -327,3 +327,5 @@ All patients are observed in the intensive care unit overnight where they are mo
 In a relatively recent systematic review, the rate of transvenous LV lead implantation failure was approximately 5–7%, with an in-hospital mortality of <1%. Lead failure occurred in 5% of patients over 1 year. Response to biventricular pacing, defined as improved quality of life, improved symptomatology, decreased hospitalization, and reverse remodeling with increased EF, is seen in approximately two-thirds of patients, and benefit can occur as early as 1 month post-implantation, with a sustained effect >6 months to 1 year. However, the absolute benefit is variable and is not generally predictable. However, it has been shown that LV lead placement at the site of maximal dyssynchrony (latest LV activation) carries a much higher chance of success. Given transvenous limitations of delivering the LV lead into that area based on CS anatomy, other technical challenges, and a failure rate of >5%, minimally invasive epicardial LV lead placement may carry benefits over endocardial placement. Such an approach permits a greater freedom of optimal lead placement and, in an initial report of 41 patients, there were no in-hospital deaths, intraoperative complications, or failures to implant the LV lead. Despite this, there are no randomized studies to show significant clinical benefit of this approach over transvenous placement. Our group has performed robotic LV lead insertion in more than 110 patients to date. Conversion to a mini-posterior thoracotomy has been rare (2%) with the major indication being a fused pleural space from prior pulmonary infection. Preoperative mapping studies have become routine and all patients have received leads in their target zones. Lead survival has been excellent with only two patients requiring lead revision over a 9-year period. Response rates and dyssynchrony measurements have improved when compared to conventional CS lead placement. Ongoing randomized studies comparing percutaneous to robotic biventricular pacing will not only delineate the role of robotics in primary implantations but will continue to expand our knowledge regarding the evolution resynchronization therapies for heart failure.
 
 </div></details>
+
+---
