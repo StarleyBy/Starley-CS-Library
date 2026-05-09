@@ -51,11 +51,11 @@ TGA is the most common cyanotic congenital heart defect that presents in neonate
 
 The technical details of the arterial switch operation and aortic arch reconstruction have been described in [Chapter 55](#page--1-0). Cardiopulmonary bypass (CPB) is carried out using an appropriate cannulation scheme and the patient is cooled to 28 °C, or 20 °C if aortic reconstruction is necessary. At the Children’s Hospital of Pittsburgh we use a proprietary cold‑blood cardioplegia solution which is reinfused every 30 minutes. The VSD is most commonly approached through an infundibulotomy in the presence of SAO recognizing that combined approaches through the tricuspid valve, native aorta, or pulmonary valve might be necessary. However, approach through the pulmonary valve is associated with late aortic regurgitation. The RVOT must be carefully inspected. Frequently, at the time of ASO, all that is required is direct resection of the obstructing muscle bundles ([Fig. 54.1](#fig-54-1)), followed by a patch augmentation of the RVOT incision after the VSD closure ([Fig. 54.2](#fig-54-2)). Usual precautions are taken in the setting of a right coronary artery (RCA) or left anterior descending (LAD) from the RCA crossing the infundibulum including strategic positioning of the ventriculotomy or use of an RV‑PA conduit. Moderate RV hypoplasia may exist, but it is usually not significant enough to preclude biventricular repair. In such cases, we elect to leave a limited atrial level communication.
 
-<span id="fig-54-1"></span>![](_page_1_Picture_6.jpeg)
+<span id="fig-54-1"></span>![](_page_54_Picture_1.jpeg)
 
 **FIGURE 54.1** Muscle resection of the right ventricular outflow tract.
 
-<span id="fig-54-2"></span>![](_page_1_Picture_8.jpeg)
+<span id="fig-54-2"></span>![](_page_54_Picture_2.jpeg)
 
 **FIGURE 54.2** Right ventricular outflow tract reconstruction completed.
 
@@ -63,15 +63,15 @@ In certain circumstances, infundibular resection is not suitable or coronary ana
 
 We perform a classic end‑to‑side DKS connection, although others have advocated a “double‑barrel” technique for the prevention of postoperative pulmonary (neoaortic) regurgitation. After CPB has been established, a vertical right ventriculotomy is created, and the VSD is closed with a prosthetic patch. The main pulmonary trunk is then transected just proximal to the bifurcation, and a matching aortotomy is made in the adjacent ascending aorta ([Fig. 54.3a](#fig-54-3a)). The proximal end of the transected PA is anastomosed end‑to‑side to the aorta ([Fig. 54.3b](#fig-54-3b)). A pericardial or prosthetic hood is usually interposed in this anastomosis to prevent distortion of the great arteries or semilunar valves. We prefer the application of a valved conduit to re‑establish RV‑PA continuity, although non‑valved connections may be used ([Fig. 54.4](#fig-54-4)).
 
-<span id="fig-54-3a"></span>![](_page_2_Picture_2.jpeg)
+<span id="fig-54-3a"></span>![](_page_54_Picture_3.jpeg)
 
 **FIGURE 54.3a** Damus‑Kaye‑Stansel operation – transection of main pulmonary artery.
 
-<span id="fig-54-3b"></span>![](_page_3_Picture_2.jpeg)
+<span id="fig-54-3b"></span>![](_page_54_Picture_3.jpeg)
 
 **FIGURE 54.3b** Damus‑Kaye‑Stansel operation – end‑to‑side anastomosis between main pulmonary artery and aorta.
 
-<span id="fig-54-4"></span>![](_page_3_Picture_8.jpeg)
+<span id="fig-54-4"></span>![](_page_54_Picture_4.jpeg)
 
 **FIGURE 54.4** Damus‑Kaye‑Stansel operation – aortopulmonary anastomosis and conduit interposition between the right ventricle and the distal main pulmonary artery.
 
