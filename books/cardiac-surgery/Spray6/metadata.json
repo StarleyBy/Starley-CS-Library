@@ -9,8 +9,8 @@
       "Rob & Smith’s"
     ],
     "versions": {
-      "original": false,
-      "russian": false,
+      "original": true,
+      "russian": true,
       "starley": false,
       "hebrew": false
     },
