@@ -53,7 +53,7 @@ Left ventricular outflow tract obstruction (LVOTO) can be caused by a spectrum o
 
 Aortic stenosis in the newborn is a very serious defect. In contrast to aortic stenosis in adults, which can be followed for years as it progresses toward the need for intervention, aortic stenosis in neonates can present as an acute, life‑threatening problem. The anatomy of the aortic valve leaflets can be very abnormal, ranging from bicuspid, with fusion of the commissures, to unicuspid, with an eccentrically located orifice and no obvious discernible commissural fusion. The valve annulus is usually small and produces a significant component of the stenosis. Because left ventricular outflow is restricted, systemic perfusion is impaired. In severe cases, perfusion to the body requires right‑to‑left shunting across a patent ductus arteriosus; thus, critical aortic stenosis of the newborn can be considered a “ductal‑dependent” lesion ([Fig. 52.1](#fig-52-1)).
 
-<span id="fig-52-1"></span>![](_page_0_Picture_9.jpeg)
+<span id="fig-52-1"></span>![](_page_52_Picture_1.jpeg)
 
 **FIGURE 52.1** Ductal‑dependent systemic perfusion in critical neonatal aortic stenosis.
 
@@ -107,31 +107,31 @@ A few approaches are available for open aortic valvotomy. Some centers have empl
 
 When used (rarely in the past 25 years) our technique of open valvotomy employs CPB. The heart is approached through a median sternotomy. After systemic heparinization, the patient is cannulated for CPB with an arterial cannula in the distal ascending aorta and a single venous cannula in the right atrium ([Fig. 52.2](#fig-52-2)). Shortly after inception of CPB, the patent ductus arteriosus, if one is present, should be temporarily occluded with a snare. Mild hypothermia (34 °C) is employed. The aorta is cross‑clamped, and the heart is arrested with antegrade cardioplegia. A transverse aortotomy is made to gain access to the aortic valve. Rewarming on bypass can begin immediately after the aorta is cross‑clamped.
 
-<span id="fig-52-2"></span>![](_page_2_Picture_10.jpeg)
+<span id="fig-52-2"></span>![](_page_52_Picture_2.jpeg)
 
 **FIGURE 52.2** Cannulation for open aortic valvotomy.
 
-The stenotic aortic valve is inspected carefully, and the areas of commissural fusion are identified. In some patients, inserting a small cardiotomy sucker through the valve orifice can facilitate inspection of the stenotic aortic valve. In many neonates, simply placing a cardiotomy sucker through the valve and using it to open the commissural fusion is sufficient to open the valve and sharp valvotomy is not required. The fused commissures can also be gently opened with an 11 scalpel blade. The incision should extend toward, but not into, the annulus to minimize postvalvotomy aortic insufficiency ([Figs. 52.3, 52.4a, 52.4b, and 52.5](#fig-52-3)). Moderate to severe aortic insufficiency is poorly tolerated and leads to early valve replacement more often than mild residual stenosis.
+The stenotic aortic valve is inspected carefully, and the areas of commissural fusion are identified. In some patients, inserting a small cardiotomy sucker through the valve orifice can facilitate inspection of the stenotic aortic valve. In many neonates, simply placing a cardiotomy sucker through the valve and using it to open the commissural fusion is sufficient to open the valve and sharp valvotomy is not required. The fused commissures can also be gently opened with an 11 scalpel blade. The incision should extend toward, but not into, the annulus to minimize postvalvotomy aortic insufficiency ([Fig. 52.3](#fig-52-3), [Fig. 52.4a](#fig-52-4a), [Fig. 52.4b](#fig-52-4b), [Fig. 52.5](#fig-52-5)). Moderate to severe aortic insufficiency is poorly tolerated and leads to early valve replacement more often than mild residual stenosis.
 
-<span id="fig-52-3"></span>![](_page_3_Picture_6.jpeg)
+<span id="fig-52-3"></span>![](_page_52_Picture_3.jpeg)
 
 **FIGURE 52.3** Commissurotomy avoiding annulus.
 
-<span id="fig-52-4a"></span>![](_page_3_Picture_7.jpeg)
+<span id="fig-52-4a"></span>![](_page_52_Picture_4a.jpeg)
 
 **FIGURE 52.4a** Incising fused commissure.
 
-<span id="fig-52-4b"></span>![](_page_3_Picture_8.jpeg)
+<span id="fig-52-4b"></span>![](_page_52_Picture_4b.jpeg)
 
 **FIGURE 52.4b** Completed valvotomy.
 
-<span id="fig-52-5"></span>![](_page_3_Picture_9.jpeg)
+<span id="fig-52-5"></span>![](_page_52_Picture_5.jpeg)
 
 **FIGURE 52.5** Limited incision to annulus.
 
 After performing the valvotomy, the aortotomy is repaired with a single line of continuous suture ([Fig. 52.6](#fig-52-6)), the aorta is de‑aired, the aortic cross‑clamp is removed, and the patient is weaned from CPB. The ductus arteriosus should be ligated if the patient is stable. However, if the left ventricular output is inadequate even on aggressive inotropic support, the ductus can be left open and maintained patent on a prostaglandin E1 infusion during the early postoperative period. This maneuver allows additional systemic perfusion from the right ventricle through the ductus arteriosus. If necessary, mechanical support of the left ventricle can be employed (either as isolated left ventricular assist or, more commonly in neonates, as extracorporeal membrane oxygenation (ECMO)). Failure to wean from mechanical support after several days may invite consideration for conversion to a single‑ventricle palliation (such as atrial septectomy, Damus–Kaye–Stansel, and source of pulmonary flow – a Norwood‑type procedure).
 
-<span id="fig-52-6"></span>![](_page_3_Picture_10.jpeg)
+<span id="fig-52-6"></span>![](_page_52_Picture_6.jpeg)
 
 **FIGURE 52.6** Closure of aortotomy.
 
@@ -167,27 +167,27 @@ The majority of infants with critical aortic stenosis benefit from open or ballo
 
 Using the pulmonary autograft for pediatric aortic valve replacement (Ross procedure) is attractive because the valve has the potential to grow with the patient. The procedure is conducted through a median sternotomy and moderate hypothermic (32 °C) CPB. A single venous cannula can be used, although we prefer bicaval cannulation for venous drainage. Bicaval venous drainage also enables placement of a retrograde coronary sinus catheter under direct vision, which is a benefit when a repeat dose of cardioplegia is required in smaller patients. In infants and young children, we prefer to place a loose pursestring around the coronary sinus catheter to help prevent it from dislodging during the operation, and to help keep it in place with minimal inflation of the balloon. A left ventricular vent is extremely helpful and administration of cardioplegia through the retrograde fashion protects the myocardium during the procedure.
 
-After cross‑clamping the aorta, the aorta is transected at the level of the sinotubular junction ([Figs. 52.7a and 52.7b](#fig-52-7a)). The aortic valve is inspected and, once a decision has been made that the valve is not repairable, the pulmonary valve is harvested to use for replacement. The main pulmonary artery is transected just proximal to the bifurcation of the right and left pulmonary artery. The pulmonary valve is inspected to ensure no abnormality exists that would exclude its use as an aortic valve replacement. We have encountered a bicuspid pulmonary valve in occasional patients (approximately 1% of those referred for pulmonary autograft) and believe that, in selected patients, a bicuspid pulmonary valve may be preferable to other current aortic valve replacement options for young patients. In normal trileaflet pulmonary valves, there is always a commissure anteriorly lined up with the RV outflow tract. We generally float the valve leaflets with saline in order to facilitate inspection ([Fig. 52.7b](#fig-52-7b)).
+After cross‑clamping the aorta, the aorta is transected at the level of the sinotubular junction ([Fig. 52.7a](#fig-52-7a), [Fig. 52.7b](#fig-52-7b)). The aortic valve is inspected and, once a decision has been made that the valve is not repairable, the pulmonary valve is harvested to use for replacement. The main pulmonary artery is transected just proximal to the bifurcation of the right and left pulmonary artery. The pulmonary valve is inspected to ensure no abnormality exists that would exclude its use as an aortic valve replacement. We have encountered a bicuspid pulmonary valve in occasional patients (approximately 1% of those referred for pulmonary autograft) and believe that, in selected patients, a bicuspid pulmonary valve may be preferable to other current aortic valve replacement options for young patients. In normal trileaflet pulmonary valves, there is always a commissure anteriorly lined up with the RV outflow tract. We generally float the valve leaflets with saline in order to facilitate inspection ([Fig. 52.7b](#fig-52-7b)).
 
-<span id="fig-52-7a"></span>![](_page_4_Picture_12.jpeg)
+<span id="fig-52-7a"></span>![](_page_52_Picture_7a.jpeg)
 
 **FIGURE 52.7a** Transection of aorta at sinotubular junction.
 
-<span id="fig-52-7b"></span>![](_page_5_Picture_3.jpeg)
+<span id="fig-52-7b"></span>![](_page_52_Picture_7b.jpeg)
 
 **FIGURE 52.7b** Floating pulmonary valve with saline.
 
-By pulling the main pulmonary artery anteriorly, the posterior investment of the valve is dissected free from the right ventricular muscle ([Fig. 52.8](#fig-52-8)). A right‑angle clamp is then placed across the pulmonary valve, directly below the anterior commissure and used to identify the spot on the anterior right ventricular wall just inferior to the nadir of the adjacent sinuses. This opening is carefully extended in both directions around the base of the pulmonary valve in order not to damage the valve leaflets ([Figs. 52.9a and 52.9b](#fig-52-9a)). A dissection plane usually develops along the posterior aspect of the valve where the region of previous posterior dissection is encountered; staying in this plane prevents deep incision into the interventricular septum and injury to the first septal perforating branch of the left descending coronary artery. We find it helpful to “score” the epicardium with electrocautery near the pulmonary outflow near the left anterior descending coronary artery to create a clear guide for the dissection in this region.
+By pulling the main pulmonary artery anteriorly, the posterior investment of the valve is dissected free from the right ventricular muscle ([Fig. 52.8](#fig-52-8)). A right‑angle clamp is then placed across the pulmonary valve, directly below the anterior commissure and used to identify the spot on the anterior right ventricular wall just inferior to the nadir of the adjacent sinuses. This opening is carefully extended in both directions around the base of the pulmonary valve in order not to damage the valve leaflets ([Fig. 52.9a](#fig-52-9a), [Fig. 52.9b](#fig-52-9b)). A dissection plane usually develops along the posterior aspect of the valve where the region of previous posterior dissection is encountered; staying in this plane prevents deep incision into the interventricular septum and injury to the first septal perforating branch of the left descending coronary artery. We find it helpful to “score” the epicardium with electrocautery near the pulmonary outflow near the left anterior descending coronary artery to create a clear guide for the dissection in this region.
 
-<span id="fig-52-8"></span>![](_page_5_Picture_6.jpeg)
+<span id="fig-52-8"></span>![](_page_52_Picture_8.jpeg)
 
 **FIGURE 52.8** Dissection of pulmonary valve from RV muscle.
 
-<span id="fig-52-9a"></span>![](_page_5_Picture_8.jpeg)
+<span id="fig-52-9a"></span>![](_page_52_Picture_9a.jpeg)
 
 **FIGURE 52.9a** Anterior incision around pulmonary valve.
 
-<span id="fig-52-9b"></span>![](_page_5_Picture_9.jpeg)
+<span id="fig-52-9b"></span>![](_page_52_Picture_9b.jpeg)
 
 **FIGURE 52.9b** Completed harvesting of autograft.
 
@@ -195,90 +195,97 @@ After the anterior incision is made, we are able to visualize the pulmonary valv
 
 When the pulmonary valve has been harvested, it is checked to be certain that the leaflets are intact, and the valve is trimmed so that there is a small proximal cuff of muscle around the annulus for sewing. Once it is ascertained that the autograft is in good shape, we thaw a pulmonary homograft for reconstruction of the RV outflow tract. More recently, as an alternative, we have been reconstructing the RV outflow tract with polytetrafluoroethylene (PTFE) valved conduits which we make on a back table prior to the operation.
 
-Attention is returned to the aortic root and the coronary arteries are removed as buttons with a large amount of adjacent sinus wall ([Fig. 52.10](#fig-52-10)). The aortic valve leaflets and the excess aortic wall tissue are removed. The pulmonary autograft is then sutured to the left ventricular outflow tract opening using continuous or interrupted sutures. Over our experience with more than 250 Ross procedures, we have developed a highly reproducible technique for this proximal suture line that we have come to prefer. First, we place a double‑armed suture that connects each sinus of the autograft to the appropriate sinus region of the aortic root ([Figs. 52.11 and 52.12](#fig-52-11)). By orienting the autograft in this manner, the right and left sinus will line up with the coronary arteries and the non‑coronary sinus will be properly located without distortion. Orientation of the autograft in such a way that the coronary buttons can be situated in the sinuses of the autograft without excessive tension or kinking is important.
+Attention is returned to the aortic root and the coronary arteries are removed as buttons with a large amount of adjacent sinus wall ([Fig. 52.10](#fig-52-10)). The aortic valve leaflets and the excess aortic wall tissue are removed. The pulmonary autograft is then sutured to the left ventricular outflow tract opening using continuous or interrupted sutures. Over our experience with more than 250 Ross procedures, we have developed a highly reproducible technique for this proximal suture line that we have come to prefer. First, we place a double‑armed suture that connects each sinus of the autograft to the appropriate sinus region of the aortic root ([Fig. 52.11](#fig-52-11), [Fig. 52.12](#fig-52-12)). By orienting the autograft in this manner, the right and left sinus will line up with the coronary arteries and the non‑coronary sinus will be properly located without distortion. Orientation of the autograft in such a way that the coronary buttons can be situated in the sinuses of the autograft without excessive tension or kinking is important.
 
-<span id="fig-52-10"></span>![](_page_6_Picture_6.jpeg)
+<span id="fig-52-10"></span>![](_page_52_Picture_10.jpeg)
 
 **FIGURE 52.10** Removal of coronary buttons.
 
-<span id="fig-52-11"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-52-11"></span>![](_page_52_Picture_11.jpeg)
 
 **FIGURE 52.11** Double‑armed suture orientation.
 
-<span id="fig-52-12"></span>![](_page_6_Picture_8.jpeg)
+<span id="fig-52-12"></span>![](_page_52_Picture_12.jpeg)
 
 **FIGURE 52.12** Proximal suture line completed.
 
 We then place a suture at each commissure. We begin by tying the suture in the left coronary sinus. We sew this in a continuous fashion towards the suture, orienting the right coronary sinus. Putting mild tension on the right coronary sinus suture and the commissural suture between the left and right sinus creates a “straight line” which facilitates the suturing and sizing. Next we do the same, running the suture from the left coronary sinus towards the suture in the non‑coronary sinus. This leaves the final suture line running from the non‑coronary to the right coronary sinus. We try to finish this suture line at the commissure between the non‑ and the right coronary since “blind” sutures placed in this location are at a commissure and less likely to injure a valve.
 
-After the proximal suture line is completed, the coronary arteries (left first and then right) are anastomosed to appropriate locations on the posterior and anterior walls of the autograft ([Figs. 52.13a and 52.13b](#fig-52-13a)). We used to wait until the autograft was reconnected to the ascending aorta and distend it before placing the right coronary artery, but over the last several years we have found it simpler to place both coronary buttons before completing the distal aortic repair.
+After the proximal suture line is completed, the coronary arteries (left first and then right) are anastomosed to appropriate locations on the posterior and anterior walls of the autograft ([Fig. 52.13a](#fig-52-13a), [Fig. 52.13b](#fig-52-13b)). We used to wait until the autograft was reconnected to the ascending aorta and distend it before placing the right coronary artery, but over the last several years we have found it simpler to place both coronary buttons before completing the distal aortic repair.
 
-<span id="fig-52-13a"></span>![](_page_7_Picture_1.jpeg)
+<span id="fig-52-13a"></span>![](_page_52_Picture_13a.jpeg)
 
 **FIGURE 52.13a** Left coronary anastomosis.
 
-<span id="fig-52-13b"></span>![](_page_7_Picture_2.jpeg)
+<span id="fig-52-13b"></span>![](_page_52_Picture_13b.jpeg)
 
 **FIGURE 52.13b** Right coronary anastomosis.
 
 Next we place the conduit selected for replacement of the RV outflow tract. Typically this has been an appropriate size allograft that has been thawed once the autograft has been safely harvested. However, more recently, we have been attracted to PTFE conduits that we handsew at the time of surgery. We believe that these PTFE valved grafts – we fashion them as trileaflet valves, although some groups have reported bileaflet construction – will have good durability and will provide an excellent “landing zone” for a percutaneous pulmonary valve replacement in the future should that become necessary ([Fig. 52.14](#fig-52-14)). The autograft is then anastomosed to the distal aorta using a continuous suture ([Fig. 52.15](#fig-52-15)).
 
-<span id="fig-52-14"></span>![](_page_7_Picture_5.jpeg)
+<span id="fig-52-14"></span>![](_page_52_Picture_14.jpeg)
 
 **FIGURE 52.14** PTFE valved conduit for RVOT.
 
-<span id="fig-52-15"></span>![](_page_7_Picture_6.jpeg)
+<span id="fig-52-15"></span>![](_page_52_Picture_15.jpeg)
 
 **FIGURE 52.15** Distal autograft anastomosis.
 
 After completing the distal anastomosis, the neoaortic root can be distended with a dose of cardioplegia solution to demonstrate autograft valve function is adequate. The proximal suture line for the RV–PA conduit is then performed with the aortic cross‑clamp still in place ([Fig. 52.16](#fig-52-16)). The right and left sides of the heart are then carefully de‑aired prior to removing the aortic cross‑clamp.
 
-<span id="fig-52-16"></span>![](_page_7_Picture_7.jpeg)
+<span id="fig-52-16"></span>![](_page_52_Picture_16.jpeg)
 
 **FIGURE 52.16** Proximal conduit anastomosis.
 
 Occasions exist, especially in neonates, in which significant LVOTO is caused by annular or subannular narrowing. In these circumstances, an aortoventriculoplasty can be performed to enlarge the left ventricular outflow tract in addition to valve replacement using a pulmonary autograft. In many cases, the LVOT can be enlarged simply by resection through the open aortic root after the diseased valve leaflets have been excised. However, when more extensive subaortic enlargement is required, our preference is to incorporate the aortoventriculoplasty with the Ross procedure (Ross–Konno procedure). This procedure is performed using moderate hypothermic CPB through a median sternotomy. Protection of the myocardium using additional retrograde coronary sinus cardioplegia perfusion is extremely useful, particularly in neonates and infants. After cross‑clamping the aorta and arresting the heart, the ascending aorta is transected at the level of the sinotubular junction. After examining the aortic and pulmonary valves, the pulmonary autograft is harvested. For the Ross–Konno procedure, extra tissue is harvested from the anterior right ventricular free wall with the pulmonary autograft. This extra tissue is used to repair the VSD resulting from performing the aortoventriculoplasty ([Fig. 52.17](#fig-52-17)).
 
-<span id="fig-52-17"></span>![](_page_8_Picture_4.jpeg)
+<span id="fig-52-17"></span>![](_page_52_Picture_17.jpeg)
 
 **FIGURE 52.17** Harvesting extra RV free wall tissue.
 
 The coronary arteries are then harvested from the aortic root with large amounts of sinus tissue. After the coronary arteries are removed from the aortic root, even tiny aortic roots seem to open up and allow easy visualization for a perpendicular incision to be made across the commissure between the right and left coronary artery. This incision is carried into the interventricular septum creating a VSD ([Fig. 52.18](#fig-52-18)).
 
-<span id="fig-52-18"></span>![](_page_8_Picture_9.jpeg)
+<span id="fig-52-18"></span>![](_page_52_Picture_18.jpeg)
 
 **FIGURE 52.18** Incision into septum (Konno).
 
 The pulmonary autograft is then sutured to the base of the aortic annulus using a continuous suture. The pulmonary autograft is oriented in such a way so that the extra right ventricular free wall tissue is placed anteriorly to close over the VSD ([Fig. 52.19](#fig-52-19)). The apex of this additional infundibular tissue is aligned with the commissure between the right and left coronary arteries and this means that the right coronary artery will be attached to the autograft just to the right of this commissure on the autograft wall. After reattaching the coronary artery buttons to the pulmonary autograft, the distal end of the selected RV–PA conduit is anastomosed to the pulmonary artery bifurcation.
 
-<span id="fig-52-19"></span>![](_page_8_Picture_11.jpeg)
+<span id="fig-52-19"></span>![](_page_52_Picture_19.jpeg)
 
 **FIGURE 52.19** Autograft sewn with RV tissue closing VSD.
 
 Next the distal autograft is attached to the transected aorta using a continuous suture. Finally, the proximal conduit is attached to the right ventricle. A gusset using extra pulmonary artery tissue from the homograft or a piece of PTFE patch may be needed for the proximal anastomosis of the pulmonary homograft to the right ventricle, although this maneuver is frequently not necessary in neonates and infants ([Fig. 52.20](#fig-52-20)).
 
-<span id="fig-52-20"></span>![](_page_9_Picture_4.jpeg)
+<span id="fig-52-20"></span>![](_page_52_Picture_20.jpeg)
 
 **FIGURE 52.20** Proximal conduit with gusset.
 
 Success with the pulmonary autograft procedure has led many authorities to recommend aortic valve replacement for any child with critical aortic stenosis, and some use this procedure in lieu of aortic valvotomy. However, many infants with critical aortic stenosis not only survive a simple balloon valvotomy, but thrive and live for years before aortic valve replacement is necessary. Therefore, despite the attractiveness and success of the pulmonary autograft procedure, we recommend reserving aortic valve replacement for those patients in whom it is the only or distinctly the best option for survival. The pulmonary autograft procedure has generally been contraindicated for patients with collagen vascular disease, rheumatic heart disease, or abnormality of the pulmonary valve, although use of a bicuspid pulmonary valve is reasonable. Use of a rare quadricuspid pulmonary valve is not advisable. We have also encountered a patient with an anomalous origin of the left descending coronary artery from the right coronary artery crossing the right ventricular outflow tract near the pulmonary valve annulus, for whom harvesting the pulmonary valve was not possible. Patients with conal septal VSD and aortic insufficiency may not have adequate muscle under the pulmonary valve to allow for safe harvest of the pulmonary valve. In these cases, it may be more prudent to replace the aortic valve with a homograft, biologic valve (stentless), or mechanical valve rather than to attempt using an autograft.
 
-Many patients who receive balloon valvotomy in infancy do not present for aortic valve replacement until they are older, often teenagers or young adults. There is concern that over time the pulmonary autograft may dilate, especially in patients with bicuspid aortic valve (BAV) disease, who may have an associated aortopathy, which is commonly the scenario with these patients. This has led some authorities to criticize the Ross operation as being contraindicated for these patients. In 2005, we described a technique for older patients, whose autograft no longer needed growth, in which the autograft could be placed inside a non‑expandable conduit (e.g. Dacron) ([Figs. 52.21a–e and 52.22a–c](#fig-52-21a)). In this technique, the coronary buttons are placed into slits that are cut into the appropriate sinuses ([Figs. 52.23a–c](#fig-52-23a)). The ascending aorta is generally replaced with Dacron, but if it is not, we recommend prevention of splaying at the coronary slits with an overlay of Dacron strips ([Figs. 52.24a–c](#fig-52-24a)). With over 12 years follow‑up, this technique has shown great promise with good autograft function, especially with modifications to the original technique reported more recently in 2008, and no dilation of the autograft, even in a patient with Marfan syndrome now 12 years on from his autograft procedure. This modified Ross operation may be useful for older patients (including adults with aortic insufficiency) who might otherwise be considered poor candidates for a traditional Ross operation because of their risk of autograft dilation and also may allow patients with collagen vascular disease to be candidates for a Ross procedure.
+Many patients who receive balloon valvotomy in infancy do not present for aortic valve replacement until they are older, often teenagers or young adults. There is concern that over time the pulmonary autograft may dilate, especially in patients with bicuspid aortic valve (BAV) disease, who may have an associated aortopathy, which is commonly the scenario with these patients. This has led some authorities to criticize the Ross operation as being contraindicated for these patients. In 2005, we described a technique for older patients, whose autograft no longer needed growth, in which the autograft could be placed inside a non‑expandable conduit (e.g. Dacron) ([Fig. 52.21a–e and 52.22a–c](#fig-52-21)). In this technique, the coronary buttons are placed into slits that are cut into the appropriate sinuses ([Fig. 52.23a–c](#fig-52-23)). The ascending aorta is generally replaced with Dacron, but if it is not, we recommend prevention of splaying at the coronary slits with an overlay of Dacron strips ([Fig. 52.24a](#fig-52-24a), [Fig. 52.24b](#fig-52-24b), [Fig. 52.24c](#fig-52-24c)). With over 12 years follow‑up, this technique has shown great promise with good autograft function, especially with modifications to the original technique reported more recently in 2008, and no dilation of the autograft, even in a patient with Marfan syndrome now 12 years on from his autograft procedure. This modified Ross operation may be useful for older patients (including adults with aortic insufficiency) who might otherwise be considered poor candidates for a traditional Ross operation because of their risk of autograft dilation and also may allow patients with collagen vascular disease to be candidates for a Ross procedure.
 
-<span id="fig-52-21a"></span>![](_page_9_Picture_9.jpeg)
-<span id="fig-52-21b"></span>![](_page_10_Picture_2.jpeg)
+<span id="fig-52-21"></span>![](_page_52_Picture_21.jpeg)
+  
+<span id="fig-52-22"></span>![](_page_52_Picture_22.jpeg)
 
 **FIGURES 52.21a–e and 52.22a–c** Modified Ross with Dacron inclusion.
 
-<span id="fig-52-23a"></span>![](_page_10_Picture_4.jpeg)
+<span id="fig-52-23"></span>![](_page_52_Picture_23.jpeg)
 
 **FIGURES 52.23a–c** Coronary button implantation into slits.
 
-<span id="fig-52-24a"></span>![](_page_11_Picture_4.jpeg)
-<span id="fig-52-24b"></span>![](_page_11_Picture_6.jpeg)
-<span id="fig-52-24c"></span>![](_page_11_Picture_8.jpeg)
+<span id="fig-52-24a"></span>![](_page_52_Picture_24a.jpeg)
 
-**FIGURES 52.24a–c** Dacron strips overlay to prevent splaying.
+**FIGURE 52.24a** Dacron strips overlay.
+
+<span id="fig-52-24b"></span>![](_page_52_Picture_24b.jpeg)
+
+**FIGURE 52.24b** Dacron strips overlay (continued).
+
+<span id="fig-52-24c"></span>![](_page_52_Picture_24c.jpeg)
+
+**FIGURE 52.24c** Completed Dacron strips overlay.
 
 As new “tissue‑engineered” valves become clinically available, some advantage may exist in using biologic valves (stented or stentless) for aortic valve replacement with the plan to replace these with adult‑size tissue engineered valves at a subsequent setting. This strategy preserves the pulmonary valve. The use of mechanical valves in children and young adults has limited application owing to the long‑term complications from anticoagulation and limitations in lifestyle.
 
@@ -302,15 +309,15 @@ Tricuspidization requires careful myocardial protection, since these procedures 
 
 The procedure begins with careful inspection of the valve. We try to identify the three commissures and, depending on the previous valvotomy, there may be a fused raphe separating two leaflets which can be divided, resulting in two leaflets that are slightly smaller than the one larger leaflet on the other side of the valve opening ([Fig. 52.25](#fig-52-25)). In a normal aortic valve, each leaflet length is equal to the diameter of the aortic annulus. The height of the valve is 40% of the total valve (horizontal plus vertical portion) or more simply, two‑thirds of the annular radius. For example, if an aortic annulus is 20 mm, the horizontal portion of the valve is 10 mm (radius of the annulus) and the vertical portion of the valve is 6.6 mm (two‑thirds of the annular radius, or horizontal portion of the valve). When performing a leaflet extension, the commissures (including the fused raphe) are incised to the annulus to create three leaflets (see [Fig. 52.25](#fig-52-25)). The thickened and dysplastic vertical portions of the valve leaflets are excised ([Fig. 52.26](#fig-52-26)) and replaced with strips of material cut to the appropriate length (valve annular diameter, *D*) and height (2/3 valve annular radius, *R*) ([Fig. 52.27](#fig-52-27)). We generally add a couple of millimeters to the height in order to accommodate the loss of material taken up by the sutures. We then begin suturing in the middle of the leaflet and continue out towards each commissure, with the height being slightly reduced towards the end.
 
-<span id="fig-52-25"></span>![](_page_12_Picture_10.jpeg)
-<span id="fig-52-26"></span>![](_page_12_Picture_11.jpeg)
+<span id="fig-52-25"></span>![](_page_52_Picture_25.jpeg)
 
 **FIGURE 52.25** Division of fused raphe.
+
+<span id="fig-52-26"></span>![](_page_52_Picture_26.jpeg)
+
 **FIGURE 52.26** Excision of dysplastic leaflet tissue.
 
-<span id="fig-52-27"></span>![](_page_12_Picture_15.jpeg)
-![](_page_12_Picture_17.jpeg)
-![](_page_12_Picture_18.jpeg)
+<span id="fig-52-27"></span>![](_page_52_Picture_27.jpeg)
 
 **FIGURE 52.27** Leaflet extension with pericardial patch.
 
@@ -348,51 +355,51 @@ Indications for surgery are controversial. The presence of subvalvular stenosis 
 
 Discrete subaortic stenosis is best treated by resection of the fibromuscular ridge through a median sternotomy on CPB and moderate hypothermia. A left ventricular vent placed through the right superior pulmonary vein is helpful during the procedure. The heart is arrested and protected with a dose of antegrade cardioplegic solution given after cross‑clamping the distal ascending aorta. The aortic valve is exposed through a transverse or oblique aortotomy, and the aortic leaflets are retracted to expose the fibromuscular ridge ([Fig. 52.28](#fig-52-28)). Extreme caution must be exercised so that the aortic valve leaflets are not damaged during the resection. This maneuver is particularly challenging in patients with bicuspid aortic valves. The fibromuscular ridge is excised sharply starting from the area near the membranous septum and working in a counterclockwise fashion toward the region of the commissure that separates the left and the non‑coronary leaflet ([Fig. 52.28](#fig-52-28)). The location of the conduction tissue near the membranous septum should be identified, and deep incision in this region must be avoided ([Fig. 52.29](#fig-52-29)). We have found that a helpful technique is to first separate the membrane from below the annulus of the aortic valve with a longitudinal incision at the separation point. Then the knife blade (we prefer an 11 blade) can be turned away from the annulus and the incision can extend out to the edge of the membrane. This will detach the membrane near the conduction area. The membrane can then be sharply and bluntly dissected all the way around to the mitral valve area.
 
-<span id="fig-52-28"></span>![](_page_13_Picture_11.jpeg)
+<span id="fig-52-28"></span>![](_page_52_Picture_28.jpeg)
 
 **FIGURE 52.28** Exposure of fibromuscular ridge through aortotomy.
 
-<span id="fig-52-29"></span>![](_page_13_Picture_12.jpeg)
+<span id="fig-52-29"></span>![](_page_52_Picture_29.jpeg)
 
 **FIGURE 52.29** Conduction area near membranous septum (avoid deep incision).
 
 After excising the ridge, performing a septal myectomy by sharply excising a wedge of muscle from the interventricular septum below the right and left coronary leaflet is beneficial ([Fig. 52.30](#fig-52-30)). Many surgeons believe that adding this septal myectomy improves outcome and reduces the likelihood for recurrence.
 
-<span id="fig-52-30"></span>![](_page_14_Picture_2.jpeg)
+<span id="fig-52-30"></span>![](_page_52_Picture_30.jpeg)
 
 **FIGURE 52.30** Septal myectomy below right and left coronary leaflets.
 
 In diffuse (tunnel) subvalvar obstruction, the surgical techniques need to be more extensive. If the aortic valve is also small or abnormal, then a Konno aortoventriculoplasty can be employed using the techniques described above for the Ross–Konno (with pulmonary autograft) if the pulmonary valve is available. In some cases of diffuse subvalvar LVOTO, the aortic annulus and valve are normal and a “modified Konno” can be performed, with resection of the subvalvar muscle and preservation of the aortic valve. In this procedure, after a transverse aortic incision has been performed at the sinotubular level of the aorta, the right ventricle is opened in the infundibulum and a right‑angle clamp is placed through the aortic valve and pushed into the septum below the sinuses of the right and left coronary leaflets ([Fig. 52.31](#fig-52-31)). This corresponds to the thickened and obstructive area of the septum.
 
-<span id="fig-52-31"></span>![](_page_14_Picture_6.jpeg)
+<span id="fig-52-31"></span>![](_page_52_Picture_31.jpeg)
 
 **FIGURE 52.31** Right‑angle clamp through aortic valve into septum.
 
-The muscle of the septum overlying the right angle is then carefully resected from the right ventricular side, creating a VSD which is carefully enlarged. Usually we enlarge first away from the aortic and pulmonary valve, towards the base of the heart ([Fig. 52.32](#fig-52-32)). We remove as much muscle as we can and this removes the muscular subvalvar obstruction. We constantly work through both the aortic valve annulus and the newly created VSD to ensure that we remove the muscle from the LVOT that is creating the obstruction (with the leaflets of the aortic valve carefully protected). We then place our clamp at the level of the aortic valve sinuses and identify this superior margin of resection through the right ventricular septal incision, allowing removal of muscle from the septum up to but not into the aortic valve ([Figs. 52.33a and 52.33b](#fig-52-33a)).
+The muscle of the septum overlying the right angle is then carefully resected from the right ventricular side, creating a VSD which is carefully enlarged. Usually we enlarge first away from the aortic and pulmonary valve, towards the base of the heart ([Fig. 52.32](#fig-52-32)). We remove as much muscle as we can and this removes the muscular subvalvar obstruction. We constantly work through both the aortic valve annulus and the newly created VSD to ensure that we remove the muscle from the LVOT that is creating the obstruction (with the leaflets of the aortic valve carefully protected). We then place our clamp at the level of the aortic valve sinuses and identify this superior margin of resection through the right ventricular septal incision, allowing removal of muscle from the septum up to but not into the aortic valve ([Fig. 52.33a](#fig-52-33a), [Fig. 52.33b](#fig-52-33b)).
 
-<span id="fig-52-32"></span>![](_page_14_Picture_7.jpeg)
+<span id="fig-52-32"></span>![](_page_52_Picture_32.jpeg)
 
 **FIGURE 52.32** Resection of septal muscle.
 
-<span id="fig-52-33a"></span>![](_page_15_Picture_3.jpeg)
+<span id="fig-52-33a"></span>![](_page_52_Picture_33a.jpeg)
 
 **FIGURE 52.33a** Resection up to aortic valve level.
 
-<span id="fig-52-33b"></span>![](_page_15_Picture_4.jpeg)
+<span id="fig-52-33b"></span>![](_page_52_Picture_33b.jpeg)
 
 **FIGURE 52.33b** Completed muscle resection.
 
-After sufficient muscle has been removed from the LVOT, the resulting VSD is repaired with a patch from the RV side ([Figs. 52.34a and 52.34b](#fig-52-34a)). Inspection through the aortic valve should confirm that the subaortic area is now greatly enlarged. The aortotomy and the RV incisions are closed ([Fig. 52.35](#fig-52-35)) and the heart is de‑aired. We do not hesitate to use a patch to close the right ventriculotomy in order to prevent RV outflow obstruction.
+After sufficient muscle has been removed from the LVOT, the resulting VSD is repaired with a patch from the RV side ([Fig. 52.34a](#fig-52-34a), [Fig. 52.34b](#fig-52-34b)). Inspection through the aortic valve should confirm that the subaortic area is now greatly enlarged. The aortotomy and the RV incisions are closed ([Fig. 52.35](#fig-52-35)) and the heart is de‑aired. We do not hesitate to use a patch to close the right ventriculotomy in order to prevent RV outflow obstruction.
 
-<span id="fig-52-34a"></span>![](_page_15_Picture_6.jpeg)
+<span id="fig-52-34a"></span>![](_page_52_Picture_34a.jpeg)
 
 **FIGURE 52.34a** Patch closure of VSD from RV side.
 
-<span id="fig-52-34b"></span>![](_page_15_Picture_8.jpeg)
+<span id="fig-52-34b"></span>![](_page_52_Picture_34b.jpeg)
 
 **FIGURE 52.34b** Completed VSD patch.
 
-<span id="fig-52-35"></span>![](_page_16_Picture_4.jpeg)
+<span id="fig-52-35"></span>![](_page_52_Picture_35.jpeg)
 
 **FIGURE 52.35** Closure of aortotomy and RV incision.
 
@@ -442,35 +449,33 @@ The presence of discrete supravalvular stenosis with a pressure gradient greater
 
 Surgical approach to the discrete form of supravalvular aortic stenosis requires CPB with aortic cannulation in the distal ascending aorta beyond the area of stenosis. If the area of stenosis is high in the ascending aorta, then it may be necessary to cannulate the femoral, axillary, or even carotid artery for CPB.
 
-The heart is protected with hypothermic cardioplegic arrest after cross‑clamping the distal ascending aorta. A longitudinal aortotomy is made across the area of stenosis and extends into the non‑coronary sinus of Valsalva. Typically, another incision is made branching off from the initial aortotomy incision at the area of the tightest stenosis and extending into the right coronary sinus on the opposite side of the right coronary artery ([Figs. 52.36 and 52.37](#fig-52-36)). We do not recommend routine excision of the intimal shelf because this procedure may weaken the integrity of the aortic wall and can lead to aneurysmal formation in the future.
+The heart is protected with hypothermic cardioplegic arrest after cross‑clamping the distal ascending aorta. A longitudinal aortotomy is made across the area of stenosis and extends into the non‑coronary sinus of Valsalva. Typically, another incision is made branching off from the initial aortotomy incision at the area of the tightest stenosis and extending into the right coronary sinus on the opposite side of the right coronary artery ([Fig. 52.36](#fig-52-36), [Fig. 52.37](#fig-52-37)). We do not recommend routine excision of the intimal shelf because this procedure may weaken the integrity of the aortic wall and can lead to aneurysmal formation in the future.
 
-<span id="fig-52-36"></span>![](_page_17_Picture_12.jpeg)
+<span id="fig-52-36"></span>![](_page_52_Picture_36.jpeg)
 
 **FIGURE 52.36** Aortotomy across stenosis into sinuses.
 
-<span id="fig-52-37"></span>![](_page_17_Picture_14.jpeg)
+<span id="fig-52-37"></span>![](_page_52_Picture_37.jpeg)
 
 **FIGURE 52.37** Incisions into right and non‑coronary sinuses.
 
-Most surgeons recommend placing a generous piece of either prosthetic or homograft patch on the ascending aorta to enlarge the narrowed area. In the typical situation in which the obstruction is at the sinotubular junction, the patch should be “pantaloon”‑shaped and extends into the right and non‑coronary sinuses ([Fig. 52.38](#fig-52-38)). In neonates and infants, we have preferred the use of three separate patches to enlarge all three sinuses, as described by Brom ([Figs. 52.39a–i](#fig-52-39a)).
+Most surgeons recommend placing a generous piece of either prosthetic or homograft patch on the ascending aorta to enlarge the narrowed area. In the typical situation in which the obstruction is at the sinotubular junction, the patch should be “pantaloon”‑shaped and extends into the right and non‑coronary sinuses ([Fig. 52.38](#fig-52-38)). In neonates and infants, we have preferred the use of three separate patches to enlarge all three sinuses, as described by Brom ([Fig. 52.39](#fig-52-39)).
 
-<span id="fig-52-38"></span>![](_page_18_Picture_2.jpeg)
+<span id="fig-52-38"></span>![](_page_52_Picture_38.jpeg)
 
 **FIGURE 52.38** Pantaloon patch enlargement.
 
-<span id="fig-52-39a"></span>![](_page_18_Picture_3.jpeg)
-![](_page_18_Picture_4.jpeg)
-![](_page_18_Picture_5.jpeg)
+<span id="fig-52-39"></span>![](_page_52_Picture_39.jpeg)
 
 **FIGURES 52.39a–i** Brom three‑sinus repair (represented schematically).
 
-An alternative to the Brom, three‑sinus repair, described by Myers ([Figs. 52.40a and 52.40b](#fig-52-40a)) uses contralateral incisions in the ascending aorta to fit into and enlarge the sinus incisions in the proximal aorta, as a method to repair supravalvar aortic stenosis using autologous tissue. We have been concerned that this technique, particularly in neonates, can foreshorten the aorta and put pressure posteriorly on the right pulmonary artery (which can also be involved in this disease and might need concomitant enlargement). We have developed a technique ([Figs. 52.41a–d](#fig-52-41a)) that combines the Brom three‑sinus repair with the Myers technique, by allowing the sinus patches to extend above the sinus so that they can be used to fit into contralateral incisions in the ascending aorta, and we have found that this nicely enlarges the area of stenosis in neonates and prevents the ascending aorta from compressing on posterior structures. The diffuse form of supravalvular aortic stenosis is most commonly repaired by suturing a generous piece of homograft or polytetrafluoroethylene (Gore‑Tex) patch from the sinotubular junction all the way around the aortic arch using a period of deep hypothermic circulatory arrest. If the descending aorta needs to be enlarged, this procedure is more easily accomplished through a left thoracotomy with placement of an additional patch.
+An alternative to the Brom, three‑sinus repair, described by Myers ([Fig. 52.40a and 52.40b](#fig-52-40)) uses contralateral incisions in the ascending aorta to fit into and enlarge the sinus incisions in the proximal aorta, as a method to repair supravalvar aortic stenosis using autologous tissue. We have been concerned that this technique, particularly in neonates, can foreshorten the aorta and put pressure posteriorly on the right pulmonary artery (which can also be involved in this disease and might need concomitant enlargement). We have developed a technique ([Fig. 52.41a–d](#fig-52-41)) that combines the Brom three‑sinus repair with the Myers technique, by allowing the sinus patches to extend above the sinus so that they can be used to fit into contralateral incisions in the ascending aorta, and we have found that this nicely enlarges the area of stenosis in neonates and prevents the ascending aorta from compressing on posterior structures. The diffuse form of supravalvular aortic stenosis is most commonly repaired by suturing a generous piece of homograft or polytetrafluoroethylene (Gore‑Tex) patch from the sinotubular junction all the way around the aortic arch using a period of deep hypothermic circulatory arrest. If the descending aorta needs to be enlarged, this procedure is more easily accomplished through a left thoracotomy with placement of an additional patch.
 
-<span id="fig-52-40a"></span>![](_page_19_Picture_2.jpeg)
+<span id="fig-52-40"></span>![](_page_52_Picture_40.jpeg)
 
 **FIGURES 52.40a and 52.40b** Myers autologous tissue repair.
 
-<span id="fig-52-41a"></span>![](_page_19_Picture_4.jpeg)
+<span id="fig-52-41"></span>![](_page_52_Picture_41.jpeg)
 
 **FIGURES 52.41a–d** Combined Brom‑Myers technique for neonates.
 
