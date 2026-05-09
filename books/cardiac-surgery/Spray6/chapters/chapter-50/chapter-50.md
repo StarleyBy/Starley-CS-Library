@@ -1,5 +1,7 @@
 # Pulmonary atresia with ventricular septal defect
 
+##### This chapter describes the surgical management of pulmonary atresia with ventricular septal defect (PA‑VSD), including anatomy, natural history, preoperative assessment, one‑stage complete repair with unifocalization of major aortopulmonary collateral arteries (MAPCAs), intraoperative flow study, VSD closure, RV‑to‑PA conduit placement, postoperative care, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -40,7 +42,7 @@
   - Right and left hilar dissection: mobilise PAs and collaterals into lung parenchyma (first‑/second‑level branches).
 * **Control collaterals** with vessel loops before CPB to prevent pump run‑off.
 * **Unifocalization (on CPB, beating heart, mild/moderate hypothermia):**
-  - Priority: maximise use of collateral length, native tissue apposition, avoid/peripheral conduits.
+  - Priority: maximise use of collateral length, native tissue apposition, avoid peripheral conduits.
   - Anastomotic techniques: side‑to‑side (collateral–central PA, collateral–collateral), end‑to‑side (collateral–peripheral PA, collateral–collateral), end‑to‑end/end‑to‑side to central allograft, patch augmentation of stenosis, aortic button with multiple collaterals, allograft patch reconstruction of neocentral PAs (non‑circumferential to preserve growth).
   - **Intraoperative flow study:** After unifocalization, perfuse neopulmonary bed via conduit with incremental flows up to cardiac index ≥3.0 L/min/m². If mean PAP ≤25 mmHg at full cardiac output → proceed to VSD closure and conduit placement. If elevated → create central shunt from ascending aorta to neopulmonary bed (stage later).
 * **VSD closure:** Aortic cross‑clamp, cardioplegia. Longitudinal right ventriculotomy. Resect obstructive muscle bundles. Close VSD with bovine or autologous pericardial patch (pledgeted interrupted or running suture). Close ASD/PFO if present.
@@ -146,7 +148,7 @@ The morphological variability of the lesion, the timing of referral, and prior i
 
 ### Investigation and decision‑making</summary><div class="details-content">
 
-Echocardiography provides the initial diagnosis and identifies any additional associated cardiac malformations. The echocardiographic appearance of PA‑VSD is similar to that of Tetralogy of Fallot but differs in lack of continuity between the RV and pulmonary artery. Difficulty may exist in delineating the presence and extent of the true pulmonary arteries or the sources of systemic arterial supply with echocardiography. Because of this deficiency, detailed angiography is essential in all cases to clearly assess the anatomical and hemodynamic characteristics of the true pulmonary arteries and MAPCAs and to plan the optimal surgical management of patients. Angiography provides critical information regarding MAPCA numbers, size, location, presence and location of stenoses, and sites of communication with the true pulmonary arteries (see Figure 50.1). Each MAPCA is selectively injected to demonstrate whether it connects with a true pulmonary artery or enters the lung parenchyma as a sole supply to a particular lung segment. Identification of stenoses and pressure measurements is important. Pulmonary vein wedge angiography may be useful to visualize the central pulmonary arteries. In selected cases with well‑developed confluent central pulmonary arteries and a large PDA, angiography may not be required. However, one should be certain that no evidence of significant collateral vessels is seen by echocardiography.
+Echocardiography provides the initial diagnosis and identifies any additional associated cardiac malformations. The echocardiographic appearance of PA‑VSD is similar to that of Tetralogy of Fallot but differs in lack of continuity between the RV and pulmonary artery. Difficulty may exist in delineating the presence and extent of the true pulmonary arteries or the sources of systemic arterial supply with echocardiography. Because of this deficiency, detailed angiography is essential in all cases to clearly assess the anatomical and hemodynamic characteristics of the true pulmonary arteries and MAPCAs and to plan the optimal surgical management of patients. Angiography provides critical information regarding MAPCA numbers, size, location, presence and location of stenoses, and sites of communication with the true pulmonary arteries (see [Fig. 50.1](#fig-50-1)). Each MAPCA is selectively injected to demonstrate whether it connects with a true pulmonary artery or enters the lung parenchyma as a sole supply to a particular lung segment. Identification of stenoses and pressure measurements is important. Pulmonary vein wedge angiography may be useful to visualize the central pulmonary arteries. In selected cases with well‑developed confluent central pulmonary arteries and a large PDA, angiography may not be required. However, one should be certain that no evidence of significant collateral vessels is seen by echocardiography.
 
 Angiography or CT scan is performed at diagnosis in the neonatal period to define the anatomy of the pulmonary arteries and MAPCAs and to identify ductal tissue. If ductal tissue is present with MAPCAs, the ductus typically provides flow to either the left or right pulmonary artery. In these cases, neonatal repair is undertaken, as the entire ductal‑dependent lung is in jeopardy of being lost if surgery is delayed. If surgery is electively scheduled at 3–4 months of age, then repeat angiography is mandatory, because new stenoses may develop.
 
@@ -166,7 +168,7 @@ If the patient is ductal‑dependent, infusion of prostaglandin E<sub>1</sub> ma
 
 ### Example case</summary><div class="details-content">
 
-Figure 50.1 shows a case that illustrates the importance of careful angiography in a characteristically complex and heterogeneous anomaly. This patient has multiple unusual collaterals to the right lung and a single collateral to the left lung. No true central pulmonary arteries are present. The left lung is supplied by a single collateral (1) originating from the lower aspect of the aortic arch. This collateral arborizes into a near‑normal pulmonary arterial pattern to supply all segments of the left lung. This supply was originally thought to be of ductal origin, but intraoperative findings failed to demonstrate the presence of the recurrent laryngeal nerve below its origin, thus confirming that this vessel is an embryological collateral rather than ductal tissue. The right lung is supplied by four collaterals without any segmental stenoses. A collateral of pericardiophrenic artery origin (2) arising from the internal mammary artery pedicle supplies three medial segments of the right lower lobe. A collateral originating from the thyrocervical trunk (3) supplies most middle and upper lobe segments. A small collateral from the descending aorta (4) supplies several medial lung segments. A dominant and large intercostal artery (5) originates from the descending aorta and travels to its lateral‑most extent before penetrating the lung and branching to supply the majority of the right lower lobe. The collateral supply to the right lung in this case is similar to that seen in pulmonary sequestration. This patient underwent one‑stage complete repair as a neonate.
+[Fig. 50.1](#fig-50-1) shows a case that illustrates the importance of careful angiography in a characteristically complex and heterogeneous anomaly. This patient has multiple unusual collaterals to the right lung and a single collateral to the left lung. No true central pulmonary arteries are present. The left lung is supplied by a single collateral (1) originating from the lower aspect of the aortic arch. This collateral arborizes into a near‑normal pulmonary arterial pattern to supply all segments of the left lung. This supply was originally thought to be of ductal origin, but intraoperative findings failed to demonstrate the presence of the recurrent laryngeal nerve below its origin, thus confirming that this vessel is an embryological collateral rather than ductal tissue. The right lung is supplied by four collaterals without any segmental stenoses. A collateral of pericardiophrenic artery origin (2) arising from the internal mammary artery pedicle supplies three medial segments of the right lower lobe. A collateral originating from the thyrocervical trunk (3) supplies most middle and upper lobe segments. A small collateral from the descending aorta (4) supplies several medial lung segments. A dominant and large intercostal artery (5) originates from the descending aorta and travels to its lateral‑most extent before penetrating the lung and branching to supply the majority of the right lower lobe. The collateral supply to the right lung in this case is similar to that seen in pulmonary sequestration. This patient underwent one‑stage complete repair as a neonate.
 
 <span id="fig-50-1"></span>![](_page_50_Picture_1.jpeg)
 
@@ -218,7 +220,7 @@ A large anterior patch of pericardium is harvested, and the pericardial edges ar
 
 #### Mediastinal dissection of true pulmonary arteries and MAPCA origins</summary><div class="details-content">
 
-The aorta and central pulmonary arteries (if present) are widely dissected. Extensive dissection is performed in the posterior mediastinal space superior to the left atrium (asterisk in Figure 50.4). This critical maneuver provides space for mobility during relocation of collateral vessels. This area is best approached through the space between the aorta and superior vena cava. The transverse sinus is widely opened, and the posterior mediastinal soft tissues are dissected. The central collaterals are identified and dissected over their entire course, extending toward their aortic origins. The descending aorta itself is dissected as needed in the posterior mediastinal space to expose MAPCA origins. Any further collaterals in the subcarinal space from the proximal descending aorta, transverse aortic arch, and ascending aorta are identified and dissected.
+The aorta and central pulmonary arteries (if present) are widely dissected. Extensive dissection is performed in the posterior mediastinal space superior to the left atrium (asterisk in [Fig. 50.4](#fig-50-4)). This critical maneuver provides space for mobility during relocation of collateral vessels. This area is best approached through the space between the aorta and superior vena cava. The transverse sinus is widely opened, and the posterior mediastinal soft tissues are dissected. The central collaterals are identified and dissected over their entire course, extending toward their aortic origins. The descending aorta itself is dissected as needed in the posterior mediastinal space to expose MAPCA origins. Any further collaterals in the subcarinal space from the proximal descending aorta, transverse aortic arch, and ascending aorta are identified and dissected.
 
 <span id="fig-50-4"></span>![](_page_50_Picture_4.jpeg)
 
@@ -280,7 +282,7 @@ All collaterals are identified, dissected completely, and controlled with vessel
 
 #### Anastomotic techniques to maximize neopulmonary artery cross‑sectional area</summary><div class="details-content">
 
-Achieving the best reconstruction depends on advanced planning, flexibility in reconstruction, aggressive mobilization, and creative rerouting of MAPCAs. Reconstruction of the pulmonary arteries is performed with the highest priority given to maximally using the length of the MAPCAs in the anastomoses, preservation of autologous tissue apposition, and avoidance or minimizing use of synthetic conduits or allograft tissue in the periphery. Non‑absorbable fine (7‑0 or 8‑0) monofilament suture is used for anastomoses. Mobilized collaterals are typically routed through the transverse sinus and delivered to the true pulmonary arteries for subsequent unifocalization; however, occasionally they are best routed above the hilum. Even collaterals that are part of a dual supply to a lung segment also supplied by a native pulmonary artery are often unifocalized to maximize the cross‑sectional area of the reconstructed neopulmonary arteries. Techniques that generally maximize the neopulmonary artery area include the following (illustrated in Figure 50.8):
+Achieving the best reconstruction depends on advanced planning, flexibility in reconstruction, aggressive mobilization, and creative rerouting of MAPCAs. Reconstruction of the pulmonary arteries is performed with the highest priority given to maximally using the length of the MAPCAs in the anastomoses, preservation of autologous tissue apposition, and avoidance or minimizing use of synthetic conduits or allograft tissue in the periphery. Non‑absorbable fine (7‑0 or 8‑0) monofilament suture is used for anastomoses. Mobilized collaterals are typically routed through the transverse sinus and delivered to the true pulmonary arteries for subsequent unifocalization; however, occasionally they are best routed above the hilum. Even collaterals that are part of a dual supply to a lung segment also supplied by a native pulmonary artery are often unifocalized to maximize the cross‑sectional area of the reconstructed neopulmonary arteries. Techniques that generally maximize the neopulmonary artery area include the following (illustrated in [Fig. 50.8a‑h](#fig-50-8)):
 
 - 1. Side‑to‑side anastomosis of collaterals to central pulmonary artery (augments the hypoplastic central pulmonary artery)
 - 2. Side‑to‑side anastomosis of collateral to collateral
@@ -298,24 +300,24 @@ The use of allograft tissue patch material is common; however, a patch is used n
 **FIGURE 50.8a–h** Various unifocalization anastomotic techniques.
 
 </div></details>
-  
 
-<details class="med-details">
-<summary>EXAMPLE CASE</summary>
-<div class="details-content">
-EXAMPLE CASE
-Figure 50.9 illustrates the completed unifocalization of the case illustrated earlier in Figure 50.1. Collateral 2 was taken from its origin and transposed across the central mediastinum to create central continuity with the left lung collateral. The remaining right‑sided collaterals were carefully anastomosed to collateral 2 to create an unifocalized right‑lung vascular supply. A central pulmonary arterial augmentation was created with homograft patch material.
- 
+<details class="med-details"><summary>
+
+#### Example case (continued)</summary><div class="details-content">
+
+[Fig. 50.9](#fig-50-9) illustrates the completed unifocalization of the case illustrated earlier in [Fig. 50.1](#fig-50-1). Collateral 2 was taken from its origin and transposed across the central mediastinum to create central continuity with the left lung collateral. The remaining right‑sided collaterals were carefully anastomosed to collateral 2 to create an unifocalized right‑lung vascular supply. A central pulmonary arterial augmentation was created with homograft patch material.
+
 <span id="fig-50-9"></span>![](_page_50_Picture_9.jpeg)
-  
-**FIGURE 50.9** Completed unifocalization of the case from Figure 50.1: (2) pericardiophrenic collateral transposed centrally; right collaterals anastomosed to it; homograft patch augmentation of central pulmonary arteries.
+
+**FIGURE 50.9** Completed unifocalization of the case from [Fig. 50.1](#fig-50-1): (2) pericardiophrenic collateral transposed centrally; right collaterals anastomosed to it; homograft patch augmentation of central pulmonary arteries.
+
 </div></details>
 
 <details class="med-details"><summary>
 
 #### Intraoperative flow study</summary><div class="details-content">
 
-At this point, a decision must be made regarding VSD closure and conduit placement. In patients who are completely unifocalized, the total resistance of the neopulmonary artery vascular bed is estimated by an intraoperative flow study. After complete unifocalization, while the patient is still supported by bypass, a pulmonary artery (PA) pressure catheter and a perfusion cannula are placed through the allograft conduit into the central neopulmonary bed. The left atrium is vigorously vented (Figure 50.10). Incremental volumes of gradually increasing blood flow up to at least one cardiac index (3.0 L/min/m<sup>2</sup>) are pumped through the unifocalized pulmonary arteries with the use of a standard roller pump. Mean pulmonary artery pressures are recorded at each steady state. If the pulmonary arterial pressure is less than or equal to 25 mmHg at a flow equivalent to one cardiac output, a decision is made to close the VSD and establish antegrade RV to PA connection. If the flow study demonstrates elevated neopulmonary vascular resistance, an appropriately sized central shunt from ascending aorta to neopulmonary bed is created and the patient weaned from cardiopulmonary bypass.
+At this point, a decision must be made regarding VSD closure and conduit placement. In patients who are completely unifocalized, the total resistance of the neopulmonary artery vascular bed is estimated by an intraoperative flow study. After complete unifocalization, while the patient is still supported by bypass, a pulmonary artery (PA) pressure catheter and a perfusion cannula are placed through the allograft conduit into the central neopulmonary bed. The left atrium is vigorously vented ([Fig. 50.10](#fig-50-10)). Incremental volumes of gradually increasing blood flow up to at least one cardiac index (3.0 L/min/m<sup>2</sup>) are pumped through the unifocalized pulmonary arteries with the use of a standard roller pump. Mean pulmonary artery pressures are recorded at each steady state. If the pulmonary arterial pressure is less than or equal to 25 mmHg at a flow equivalent to one cardiac output, a decision is made to close the VSD and establish antegrade RV to PA connection. If the flow study demonstrates elevated neopulmonary vascular resistance, an appropriately sized central shunt from ascending aorta to neopulmonary bed is created and the patient weaned from cardiopulmonary bypass.
 
 <span id="fig-50-10"></span>![](_page_50_Picture_10.jpeg)
 
@@ -327,7 +329,7 @@ At this point, a decision must be made regarding VSD closure and conduit placeme
 
 #### Right ventriculotomy and closure of the VSD</summary><div class="details-content">
 
-The aorta is cross‑clamped, and cardioplegia is administered. A longitudinal ventriculotomy is made in the RV infundibulum. The anatomy of the infundibulum is inspected, and any obstructive tissue and/or hypertrophic muscle bundles are resected. The VSD is closed through the ventriculotomy with a bovine or glutaraldehyde‑treated autologous pericardial patch using pledgeted, braided, polyester interrupted mattress sutures or running non‑absorbable monofilament sutures, as preferred (Figure 50.11). The right atrium is opened to inspect the atrial septum. If an atrial septal defect or patent foramen ovale is present, it is closed. After right atrial closure, the cross‑clamp is removed, and rewarming is started.
+The aorta is cross‑clamped, and cardioplegia is administered. A longitudinal ventriculotomy is made in the RV infundibulum. The anatomy of the infundibulum is inspected, and any obstructive tissue and/or hypertrophic muscle bundles are resected. The VSD is closed through the ventriculotomy with a bovine or glutaraldehyde‑treated autologous pericardial patch using pledgeted, braided, polyester interrupted mattress sutures or running non‑absorbable monofilament sutures, as preferred ([Fig. 50.11](#fig-50-11)). The right atrium is opened to inspect the atrial septum. If an atrial septal defect or patent foramen ovale is present, it is closed. After right atrial closure, the cross‑clamp is removed, and rewarming is started.
 
 <span id="fig-50-11"></span>![](_page_50_Picture_11.jpeg)
 
@@ -339,7 +341,7 @@ The aorta is cross‑clamped, and cardioplegia is administered. A longitudinal v
 
 #### Completion of the RV‑to‑pulmonary artery conduit and closure</summary><div class="details-content">
 
-An appropriate‑sized allograft valved conduit is then selected to connect the RV to the unifocalized neopulmonary arterial system. Because of the possibility of somewhat elevated right‑sided pressures, an aortic allograft is preferred. The distal end is typically anastomosed end‑to‑side to the centrally augmented, reconstructed neopulmonary arteries (see Figure 50.12a–f). Rarely, a second non‑valved conduit is needed to reconstruct the central left and right pulmonary arteries, usually in older patients with completely absent true pulmonary arteries and inadequate collateral tissue.
+An appropriate‑sized allograft valved conduit is then selected to connect the RV to the unifocalized neopulmonary arterial system. Because of the possibility of somewhat elevated right‑sided pressures, an aortic allograft is preferred. The distal end is typically anastomosed end‑to‑side to the centrally augmented, reconstructed neopulmonary arteries (see [Figs. 50.12a‑f](#fig-50-12)). Rarely, a second non‑valved conduit is needed to reconstruct the central left and right pulmonary arteries, usually in older patients with completely absent true pulmonary arteries and inadequate collateral tissue.
 
 Circumferential allograft conduits are always limited to the pericardial cavity due to concerns over growth potential.
 
@@ -348,7 +350,6 @@ The proximal RV‑to‑pulmonary artery conduit anastomosis is completed with ru
 After separation from CPB, the aortic, RV, and left and right atrial pressures are monitored continuously. Intraoperative transesophageal echocardiography is routinely performed. Bilateral pleural and mediastinal drains are placed, and the sternum is closed. If bleeding or ventilation is an issue, the sternum is electively covered with a silicone rubber patch (Silastic). Secondary closure is then performed on the second or third postoperative day.
 
 <span id="fig-50-12"></span>![](_page_50_Picture_12a-c.jpeg)
-  
 ![](_page_50_Picture_12d-f.jpeg)
 
 **FIGURE 50.12a–f** Distal conduit anastomosis to neopulmonary arteries (a–c) and proximal RV anastomosis with pericardial hood (d–f).
