@@ -75,7 +75,7 @@ The classification described in 1978 by Magdi Yacoub remains valid today. We are
 
 The normal course of the coronary arteries is the most frequent and represents 60% of cases. The left ostium gives the left anterior descending and the circumflex artery (CX), and the right ostium gives the right coronary artery (RCA). No vessel is crossing either in front of or behind the great vessels ([Fig. 55.1](#fig-55-1)).
 
-<span id="fig-55-1"></span>![](_page_1_Picture_15.jpeg)
+<span id="fig-55-1"></span>![](_page_55_Picture_1.jpeg)
 
 **FIGURE 55.1** Normal coronary course.
 
@@ -93,7 +93,7 @@ The looping courses are those in which a coronary runs in front of and/or behind
 
 The posterior looping course is one in which a coronary runs posterior to the PA, and two subtypes exist. One is frequent, with the posterior looping coronary being the CX arising from the RCA (Yacoub type D), and the other is a single coronary ostium (1%) ([Fig. 55.2](#fig-55-2)).
 
-<span id="fig-55-2"></span>![](_page_1_Picture_7.jpeg)
+<span id="fig-55-2"></span>![](_page_55_Picture_2.jpeg)
 
 **FIGURE 55.2** Posterior looping course (CX from RCA).
 
@@ -105,7 +105,7 @@ The posterior looping course is one in which a coronary runs posterior to the PA
 
 The anterior looping course is one in which a coronary runs anterior to the aorta, and three subtypes exist, including two single ostium forms ([Fig. 55.3](#fig-55-3)). A strictly anterior looping is very rare.
 
-<span id="fig-55-3"></span>![](_page_1_Picture_9.jpeg)
+<span id="fig-55-3"></span>![](_page_55_Picture_3.jpeg)
 
 **FIGURE 55.3** Anterior looping course.
 
@@ -117,7 +117,7 @@ The anterior looping course is one in which a coronary runs anterior to the aort
 
 Two forms are frequent: one with a posterior loop, done by the common left trunk (8%) (called inverted coronary artery by A. Castaneda) and one with a posterior loop done by the CX (5%). One rare form is a single coronary ostium (1%). Notice some malalignment of the commissures present on the three forms ([Fig. 55.4](#fig-55-4)).
 
-<span id="fig-55-4"></span>![](_page_1_Picture_14.jpeg)
+<span id="fig-55-4"></span>![](_page_55_Picture_4.jpeg)
 
 **FIGURE 55.4** Double‑looping course.
 
@@ -131,7 +131,7 @@ Two forms are frequent: one with a posterior loop, done by the common left trunk
 
 The intramural course is one in which one or both coronary arteries have an abnormal intramural course in the posterior aortic wall, crossing behind or above the posterior commissure ([Fig. 55.5](#fig-55-5)).
 
-<span id="fig-55-5"></span>![](_page_1_Picture_16.jpeg)
+<span id="fig-55-5"></span>![](_page_55_Picture_5.jpeg)
 
 **FIGURE 55.5** Intramural course.
 
@@ -143,7 +143,7 @@ The intramural course is one in which one or both coronary arteries have an abno
 
 The miscellaneous course is one which associates an intramural course with a looping course and/or a single coronary ostium ([Fig. 55.6](#fig-55-6)). One deserves to be identified as being the most challenging anatomic pattern to manage; it is the one where a single coronary ostium is associated with an intramural course (Yacoub type B).
 
-<span id="fig-55-6"></span>![](_page_2_Picture_4.jpeg)
+<span id="fig-55-6"></span>![](_page_55_Picture_6.jpeg)
 
 **FIGURE 55.6** Miscellaneous course: single ostium + intramural (Yacoub type B).
 
@@ -179,13 +179,13 @@ With time, the technique has been simplified and standardized. The technique des
 
 After median sternotomy, the thymus gland is partially resected, keeping a residual superior segment ([Fig. 55.7](#fig-55-7)).
 
-<span id="fig-55-7"></span>![](_page_2_Picture_15.jpeg)
+<span id="fig-55-7"></span>![](_page_55_Picture_7.jpeg)
 
 **FIGURE 55.7** Partial thymectomy, residual superior segment.
 
 A large rectangular patch of anterior pericardium is harvested ([Fig. 55.8](#fig-55-8)) and kept in iced saline solution. The pericardium is used fresh.
 
-<span id="fig-55-8"></span>![](_page_3_Picture_9.jpeg)
+<span id="fig-55-8"></span>![](_page_55_Picture_8.jpeg)
 
 **FIGURE 55.8** Harvest of anterior pericardial patch.
 
@@ -202,7 +202,7 @@ The technique is first described in the most frequent and simple condition, with
 
 All dissection is performed using electrocoagulation. The aorta and the right and left PAs are dissected and controlled by vessel loops ([Fig. 55.9](#fig-55-9)). The ductus arteriosus wall is extremely fragile under prostaglandin and its dissection is started below the right side of the aorta, on its right border. Traction on the left PA vessel loop helps to dissect the left border. The ductus is carefully controlled by a 3‑0 suture, which will be tied when going on bypass. In case of torrential pulmonary flow by a large ductus arteriosus, occlusion of the right pulmonary branch with a tourniquet is helpful to increase the aortic diastolic pressure and improve the coronary blood flow.
 
-<span id="fig-55-9"></span>![](_page_3_Picture_11.jpeg)
+<span id="fig-55-9"></span>![](_page_55_Picture_9.jpeg)
 
 **FIGURE 55.9** Dissection of PA branches and control with vessel loops.
 
@@ -210,23 +210,23 @@ All dissection is performed using electrocoagulation. The aorta and the right an
 
 Continuous bypass requires an accurate cannulation technique ([Fig. 55.10](#fig-55-10)). The aorta is cannulated very close to the brachiocephalic artery, using a small (size 8 or 10), straight cannula. The superior vena cava venous cannula (straight, reinforced venous cannula, size 12 or 14) is introduced into the atrial appendage and placed in the right atrium. CPB is instituted with one venous cannula. After establishing bypass, the inferior vena cava venous cannula is introduced close to the inferior vena cava and snared. A left atrial (LA) venting cannula is further introduced through the Sondergard sulcus, distant from the right pulmonary vein ostia. The superior venous cannula is then introduced into the superior vena cava and snared.
 
-<span id="fig-55-10"></span>![](_page_3_Picture_17.jpeg)
+<span id="fig-55-10"></span>![](_page_55_Picture_10.jpeg)
 
 **FIGURE 55.10** Cannulation for ASO.
 
 #### DUCTUS ARTERIOSUS DIVISION AND PROXIMAL AORTA DISSECTION
 
-During cooling, the ductus arteriosus, which has been ligated at the onset of CPB, is divided. Following prostaglandin infusion, the ductus wall is very fragile and should be managed carefully. The ductus is doubly ligated ([Fig. 55.11](#fig-55-11)) and then divided, with suturing of both ends ([Figs. 55.12a and 55.12b](#fig-55-12a)). The aortic end can also be occluded by a vascular clip. Any tear or needle puncture of the ductal wall proximal to the ligation should be avoided, as a tear of the origin of the ductus arteriosus is difficult to control. Additional direct stitching usually worsens the hemorrhage, or it may create an isthmus stenosis. Serious hemorrhage at this stage is better controlled under circulatory arrest.
+During cooling, the ductus arteriosus, which has been ligated at the onset of CPB, is divided. Following prostaglandin infusion, the ductus wall is very fragile and should be managed carefully. The ductus is doubly ligated ([Fig. 55.11](#fig-55-11)) and then divided, with suturing of both ends ([Fig. 55.12a](#fig-55-12a), [Fig. 55.12b](#fig-55-12b)). The aortic end can also be occluded by a vascular clip. Any tear or needle puncture of the ductal wall proximal to the ligation should be avoided, as a tear of the origin of the ductus arteriosus is difficult to control. Additional direct stitching usually worsens the hemorrhage, or it may create an isthmus stenosis. Serious hemorrhage at this stage is better controlled under circulatory arrest.
 
-<span id="fig-55-11"></span>![](_page_4_Picture_3.jpeg)
+<span id="fig-55-11"></span>![](_page_55_Picture_11.jpeg)
 
 **FIGURE 55.11** Double ligation of ductus.
 
-<span id="fig-55-12a"></span>![](_page_4_Picture_4.jpeg)
+<span id="fig-55-12a"></span>![](_page_55_Picture_12a.jpeg)
 
 **FIGURE 55.12a** Division of ductus.
 
-<span id="fig-55-12b"></span>![](_page_4_Picture_6.jpeg)
+<span id="fig-55-12b"></span>![](_page_55_Picture_12b.jpeg)
 
 **FIGURE 55.12b** Suturing of aortic end.
 
@@ -240,13 +240,13 @@ The aortic cross‑clamp is placed very close to the aortic cannula. The cardiop
 
 This step is an important step, defining all landmarks of the arterial switch. The aorta is transected exactly at a middle point between the clamp and the aortic annulus. *This incision should be high*, to reduce the length of the reconstructed aorta that will lie behind the PA ([Fig. 55.13](#fig-55-13)).
 
-<span id="fig-55-13"></span>![](_page_4_Picture_14.jpeg)
+<span id="fig-55-13"></span>![](_page_55_Picture_13.jpeg)
 
 **FIGURE 55.13** High aortic transection.
 
 For the same purpose, *the PA is transected in a low position*, a few millimeters above the pulmonary commissures ([Fig. 55.14](#fig-55-14)). This inferior incision reduces the length of the future neoaortic root, allowing the Lecompte maneuver without compression on the pulmonary branches.
 
-<span id="fig-55-14"></span>![](_page_5_Picture_4.jpeg)
+<span id="fig-55-14"></span>![](_page_55_Picture_14.jpeg)
 
 **FIGURE 55.14** Low PA transection.
 
@@ -254,7 +254,7 @@ For the same purpose, *the PA is transected in a low position*, a few millimeter
 
 Helped by gentle traction on the vessel loops, the PA branches are fully dissected until the lobar branches are clearly seen. The pulmonary bifurcation is then pulled up in front of the ascending aorta. Using a second clamp or forceps, the aortic cross‑clamp is mobilized and placed below the pulmonary bifurcation, closely in contact with the aortic cannula, to expose the maximum length of distal ascending aorta. Notice in ([Fig. 55.15](#fig-55-15)) that, after optimal transection of the great vessels, the future neoaorta is short, and the future neopulmonary artery long. The aortic clamp is blocked on the surgical field at 12 o’clock to stabilize the distal aorta.
 
-<span id="fig-55-15"></span>![](_page_5_Picture_5.jpeg)
+<span id="fig-55-15"></span>![](_page_55_Picture_15.jpeg)
 
 **FIGURE 55.15** Lecompte maneuver: PA bifurcation anterior to aorta.
 
@@ -262,7 +262,7 @@ Helped by gentle traction on the vessel loops, the PA branches are fully dissect
 
 The harvesting of coronary buttons is crucial ([Fig. 55.16](#fig-55-16)). The general principle is to *take the largest possible button*, removing almost all the sinus of Valsalva, to perform safe anastomoses sufficiently distant from the coronary ostia. *These coronary buttons are in fact aortic buttons containing the coronary ostium.* Two traction sutures, one anterior and one posterior, help exposure. The locations of the ostia are carefully evaluated, particularly their proximity with the commissures and with the aortic annulus. The left button is taken first. An anterior and vertical incision is made in the direction of the left lateral commissure, and the incision stays in close contact with the commissure until the bottom of the sinus. The second incision, which is posterior and vertical, similarly follows the posterior commissure. The last incision is horizontal and follows the aortic annulus. Depending on the location of the ostium, this incision is more or less in contact with the aortic annulus. In rare instances, when the ostium is very low, the aortic annulus itself should be resected. The origin of the left coronary trunk is dissected for 2–3 mm from the myocardium using coagulation until the button can be mobilized posteriorly without affecting the course of the left anterior descending and CX arteries. The right button is then harvested. Similarly, the incisions follow the commissures and the aortic annulus. The button is mobilized for a few millimeters using electrocoagulation to allow a posterior translation without distortion of the right coronary. Three particular coronary anatomical conditions require appropriate management, as discussed below.
 
-<span id="fig-55-16"></span>![](_page_5_Picture_9.jpeg)
+<span id="fig-55-16"></span>![](_page_55_Picture_16.jpeg)
 
 **FIGURE 55.16** Harvesting coronary buttons.
 
@@ -270,11 +270,11 @@ The harvesting of coronary buttons is crucial ([Fig. 55.16](#fig-55-16)). The ge
 
 In some instances, one ostium is eccentric and located very close to or in contact with a commissure ([Fig. 55.17](#fig-55-17)). This usually involves the posterior commissure and rarely the anterior commissures. In these cases deliberate detachment of the posterior commissure and harvesting a large button that could include part of the annulus are crucial ([Fig. 55.18](#fig-55-18)). It will be further reimplanted on the neopulmonary artery.
 
-<span id="fig-55-17"></span>![](_page_6_Picture_7.jpeg)
+<span id="fig-55-17"></span>![](_page_55_Picture_17.jpeg)
 
 **FIGURE 55.17** Ostium next to commissure.
 
-<span id="fig-55-18"></span>![](_page_6_Picture_9.jpeg)
+<span id="fig-55-18"></span>![](_page_55_Picture_18.jpeg)
 
 **FIGURE 55.18** Detachment of posterior commissure and large button.
 
@@ -282,11 +282,11 @@ In some instances, one ostium is eccentric and located very close to or in conta
 
 In other instances, an early branching of the infundibular artery arises from the left main trunk. This early branch may limit the posterior translation and can create a stenosis through kinking of the left main trunk ([Fig. 55.19](#fig-55-19)). The branch should be dissected and mobilized if it is large ([Fig. 55.20](#fig-55-20)). Otherwise, and in most instances, however, it must be sacrificed and divided. More rarely, this early infundibular branching comes from the RCA but it should be managed the same way and sacrificed if necessary.
 
-<span id="fig-55-19"></span>![](_page_6_Picture_10.jpeg)
+<span id="fig-55-19"></span>![](_page_55_Picture_19.jpeg)
 
 **FIGURE 55.19** Early infundibular branch limiting translation.
 
-<span id="fig-55-20"></span>![](_page_6_Picture_11.jpeg)
+<span id="fig-55-20"></span>![](_page_55_Picture_20.jpeg)
 
 **FIGURE 55.20** Mobilisation of early branch.
 
@@ -294,7 +294,7 @@ In other instances, an early branching of the infundibular artery arises from th
 
 Starting the operation with three or four posterior stitches on the aortic anastomosis between the distal ascending aorta and the neoaorta is very useful ([Fig. 55.21](#fig-55-21)). This maneuver places the aorta in its final position and greatly helps the exposure. At the same time, a traction stitch is placed on the anterior edge of the PA at the site of the anterior commissure. The aortic clamp is blocked at 12 o’clock.
 
-<span id="fig-55-21"></span>![](_page_6_Picture_15.jpeg)
+<span id="fig-55-21"></span>![](_page_55_Picture_21.jpeg)
 
 **FIGURE 55.21** Posterior stitches to stabilise neoaorta.
 
@@ -319,7 +319,7 @@ Three points to consider are:
 
 A rectangular resection is made on the left sinus of Valsalva. It should be equal in size or larger than the left coronary button. The base of the resection stays 2–3 mm above the neoaortic annulus. The left button is anastomosed in a low left lateral position. The anastomosis is performed using a 7‑0 or 8‑0 suture and starts at the base of the button ([Fig. 55.22](#fig-55-22)).
 
-<span id="fig-55-22"></span>![](_page_7_Picture_13.jpeg)
+<span id="fig-55-22"></span>![](_page_55_Picture_22.jpeg)
 
 **FIGURE 55.22** Left button transfer (low left lateral).
 
@@ -327,7 +327,7 @@ A rectangular resection is made on the left sinus of Valsalva. It should be equa
 
 A similar rectangular resection is made on the right sinus of Valsalva. It is not as deep: from 2 mm to 8 mm according to the free movement of right coronary. The right coronary button is transferred in high lateral right position ([Fig. 55.23](#fig-55-23)). It will always be placed high in posterior and double loops.
 
-<span id="fig-55-23"></span>![](_page_7_Picture_18.jpeg)
+<span id="fig-55-23"></span>![](_page_55_Picture_23.jpeg)
 
 **FIGURE 55.23** Right button transfer (high lateral right).
 
@@ -335,11 +335,11 @@ A similar rectangular resection is made on the right sinus of Valsalva. It is no
 
 The distal aortic anastomosis is then performed. When reaching the anterolateral aorta, suturing in such a way that the left button remains located laterally on the left is important. When reaching the middle anterior line, the stay suture should be exactly at 12 o’clock. Crossing the line in the right anterior part, the suture comes next to the right button. The right button is included in the distal aorta by an incision directed vertically, close to the aortic clamp ([Fig. 55.24](#fig-55-24)). This maneuver allows limiting the diameter mismatch between the neoaortic root, which is always large, and the distal aorta ([Fig. 55.25](#fig-55-25)). After de‑aeration, the anastomosis is checked. Any bleeding requires additional stitches. A shallow layer of biological glue is placed on the suture lines.
 
-<span id="fig-55-24"></span>![](_page_7_Picture_20.jpeg)
+<span id="fig-55-24"></span>![](_page_55_Picture_24.jpeg)
 
 **FIGURE 55.24** Inclusion of right button into distal aortic anastomosis.
 
-<span id="fig-55-25"></span>![](_page_8_Picture_8.jpeg)
+<span id="fig-55-25"></span>![](_page_55_Picture_25.jpeg)
 
 **FIGURE 55.25** Completed aortic anastomosis with mismatch corrected.
 
@@ -349,11 +349,11 @@ The distal aortic anastomosis is then performed. When reaching the anterolateral
 
 Reconstruction of the neopulmonary root is easier to perform with the aorta maintained cross‑clamped. A large, rectangular, fresh patch of autologous pericardium is used. The patch is sutured on the remnant of the previous aortic annulus ([Fig. 55.26a](#fig-55-26a)). This suture line requires particular attention, as any posterior bleeding on the beating heart is difficult to manage. When detached, the posterior commissure is reattached on the pericardial patch posteriorly ([Fig. 55.26b](#fig-55-26b)).
 
-<span id="fig-55-26a"></span>![](_page_8_Picture_10.jpeg)
+<span id="fig-55-26a"></span>![](_page_55_Picture_26a.jpeg)
 
 **FIGURE 55.26a** Pericardial patch on aortic annulus remnant.
 
-<span id="fig-55-26b"></span>![](_page_8_Picture_11.jpeg)
+<span id="fig-55-26b"></span>![](_page_55_Picture_26b.jpeg)
 
 **FIGURE 55.26b** Posterior commissure reattached on patch.
 
@@ -365,11 +365,11 @@ In favorable coronary anatomy, the cross‑clamp can be removed before the compl
 
 The distal anastomosis is performed during rewarming ([Fig. 55.27a](#fig-55-27a)). The final anatomical repair is shown in ([Fig. 55.27b](#fig-55-27b)).
 
-<span id="fig-55-27a"></span>![](_page_8_Picture_17.jpeg)
+<span id="fig-55-27a"></span>![](_page_55_Picture_27a.jpeg)
 
 **FIGURE 55.27a** Distal PA anastomosis.
 
-<span id="fig-55-27b"></span>![](_page_8_Picture_19.jpeg)
+<span id="fig-55-27b"></span>![](_page_55_Picture_27b.jpeg)
 
 **FIGURE 55.27b** Completed arterial switch repair.
 
@@ -404,29 +404,29 @@ Basically, the same coronary transfer technique is applied to all coronary anato
 
 It is important to understand the risk inherent to coronary transfer in complex coronary patterns. The risk of transfer follows the type of looping courses. *The posterior loop is associated with a risk of kinking* ([Fig. 55.28](#fig-55-28)) *and the anterior loop with a risk of stretching* ([Fig. 55.29](#fig-55-29)). *Extensive dissection of the coronary trunks is necessary* to avoid kinking or stretching of the coronary trunks.
 
-<span id="fig-55-28"></span>![](_page_9_Picture_18.jpeg)
+<span id="fig-55-28"></span>![](_page_55_Picture_28.jpeg)
 
 **FIGURE 55.28** Posterior loop – risk of kinking.
 
-<span id="fig-55-29"></span>![](_page_9_Picture_20.jpeg)
+<span id="fig-55-29"></span>![](_page_55_Picture_29.jpeg)
 
 **FIGURE 55.29** Anterior loop – risk of stretching.
 
 In posterior loop, with the circumflex coming off the right coronary and looping posteriorly, the circumflex is at risk of kinking when placed in a low position. The circumflex is dissected far away, behind the PA, to allow a safe mobilization. The button is placed in a high position to increase the distance and prevent kinking ([Fig. 55.30](#fig-55-30)).
 
-<span id="fig-55-30"></span>![](_page_9_Picture_22.jpeg)
+<span id="fig-55-30"></span>![](_page_55_Picture_30.jpeg)
 
 **FIGURE 55.30** High placement of circumflex button.
 
 In double loop, the posterior loop is either the circumflex or the left main trunk. The risk of kinking is controlled in placing the button in a supra‑anastomotic position. The main issue is the anterior loop made by the RCA, which crosses in front of the aorta and is many times adherent to the wall. The RCA should be dissected on a long distance from the aorta and the RV to prevent stretching ([Fig. 55.31a](#fig-55-31a)). Others are using trapdoor to control the stretching of the RCA.
 
-<span id="fig-55-31a"></span>![](_page_10_Picture_7.jpeg)
+<span id="fig-55-31a"></span>![](_page_55_Picture_31a.jpeg)
 
 **FIGURE 55.31a** Extensive dissection of RCA to prevent stretching.
 
 ([Fig. 55.31b](#fig-55-31b)) shows a double loop, with posterior circumflex (right) and posterior left main trunk (left). In both cases, the right button is placed in a supra‑anastomotic position. The RCA that crosses in front of the aorta should be extensively dissected free.
 
-<span id="fig-55-31b"></span>![](_page_10_Picture_8.jpeg)
+<span id="fig-55-31b"></span>![](_page_55_Picture_31b.jpeg)
 
 **FIGURE 55.31b** Double loop – right button supra‑anastomotic.
 
@@ -434,13 +434,13 @@ Side‑by‑side vessels are almost constant in double loop and in Taussig–Bin
 
 The patch reconstruction of the PA bifurcation can compress the left button, particularly the RCA that crosses in front of the previous aorta. The PA bifurcation is realigned on the right by an incision of the right PA ([Fig. 55.32](#fig-55-32)).
 
-<span id="fig-55-32"></span>![](_page_10_Picture_13.jpeg)
+<span id="fig-55-32"></span>![](_page_55_Picture_32.jpeg)
 
 **FIGURE 55.32** Realignment of PA bifurcation to the right.
 
 The distal pulmonary anastomosis uses a large patch. The PA trunk reconstruction is done before the left coronary button relocation in double‑loop coronary with side‑by‑side vessels ([Fig. 55.33](#fig-55-33)).
 
-<span id="fig-55-33"></span>![](_page_10_Picture_15.jpeg)
+<span id="fig-55-33"></span>![](_page_55_Picture_33.jpeg)
 
 **FIGURE 55.33** PA trunk reconstruction before left button relocation.
 
@@ -452,7 +452,7 @@ The distal pulmonary anastomosis uses a large patch. The PA trunk reconstruction
 
 Coronary transfer with intramural course represents a major surgical difficulty. Preoperative echocardiogram is superior to angiocardiography for recognizing this rare pattern. In many instances, this anomaly is discovered intraoperatively. The technique described by T. Asou and R. Mee is the preferred one. The anomaly is due to an abnormal course of the coronary arteries inside the posterior aortic wall. The ostia are found very close to each other, either in the right sinus or above the posterior commissure. It is most often an abnormal location of the left ostium, with intramural course of the left coronary artery. The intramural course can be very long and is at great risk when harvesting the button. The technique is to create two buttons. First, the posterior commissure is totally detached. The intramural course is evaluated using a coronary probe. It can be extremely long, measuring more than 20 mm. The left ostium, which is frequently stenotic, is incised and “unroofed” for a distance of 5 mm ([Fig. 55.34](#fig-55-34)). After this opening, the two ostia are sufficiently distant to allow the creation of two buttons. The harvesting of the left button should be very cautious, considering the very long intramural course. It is the entirety of the sinus that is harvested. Then, two buttons are created in dividing the common button in its middle. The incision should stay as distant as possible from the ostia to allow safe suturing. Using 8‑0 Prolene, the two buttons are relocated on each sinus according to the basic technique. The posterior commissure will be reattached on the pericardial pulmonary patch.
 
-<span id="fig-55-34"></span>![](_page_11_Picture_3.jpeg)
+<span id="fig-55-34"></span>![](_page_55_Picture_34.jpeg)
 
 **FIGURE 55.34** Unroofing of intramural coronary (Asou‑Mee technique).
 
@@ -475,19 +475,19 @@ There are three forms of single right coronary and one form of single left coron
 - single left coronary ostium:
   - anterior looping from the left button ([Fig. 55.38](#fig-55-38)).
 
-<span id="fig-55-35"></span>![](_page_12_Picture_4.jpeg)
+<span id="fig-55-35"></span>![](_page_55_Picture_35.jpeg)
 
 **FIGURE 55.35** Single right coronary – posterior loop.
 
-<span id="fig-55-36"></span>![](_page_11_Picture_15.jpeg)
+<span id="fig-55-36"></span>![](_page_55_Picture_36.jpeg)
 
 **FIGURE 55.36** Single right coronary – double loop.
 
-<span id="fig-55-37"></span>![](_page_12_Picture_2.jpeg)
+<span id="fig-55-37"></span>![](_page_55_Picture_37.jpeg)
 
 **FIGURE 55.37** Single right coronary – anterior loop.
 
-<span id="fig-55-38"></span>![](_page_13_Picture_2.jpeg)
+<span id="fig-55-38"></span>![](_page_55_Picture_38.jpeg)
 
 **FIGURE 55.38** Single left coronary – anterior loop.
 
@@ -499,7 +499,7 @@ There are three forms of single right coronary and one form of single left coron
 
 This is the worst form to deal with. This Yacoub type B (see [Fig. 55.6](#fig-55-6)) includes both a single ostium and an intramural course. Several solutions are proposed. The technique proposed by Magdi Yacoub is to rotate the button 180 degrees and to place a hood anteriorly. This technique is at risk for having the button compressed by the PA lying anteriorly, following the Lecompte maneuver. The other technique was described by Moat and Pawade, following proposals by Aubert and Takeuchi. It is to create a fistula between the posterior wall of the aortic root and the anterior wall of the pulmonary root, in order to reroute the coronary flow without doing a coronary relocation. This technique leaves the coronary in place and avoids any dissection and rotation ([Fig. 55.39](#fig-55-39)). The risk is that the coronary arteries remain between the aorta and PA and could ultimately be compressed and cause sudden death. Creating two buttons would be the ideal solution in favorable forms. Finally, this anatomy could be the only contraindication of arterial switch and to proceed to an atrial switch.
 
-<span id="fig-55-39"></span>![](_page_13_Picture_5.jpeg)
+<span id="fig-55-39"></span>![](_page_55_Picture_39.jpeg)
 
 **FIGURE 55.39** Moat‑Pawade technique: aortopulmonary fistula without coronary relocation.
 
@@ -511,7 +511,7 @@ This is the worst form to deal with. This Yacoub type B (see [Fig. 55.6](#fig-55
 
 This is a major abnormality when severe. It was the only cause of late death in our recent series of ASOs. It can be seen in all coronary patterns, but it is more frequent in complex anatomy. The malalignment impacts on the coronary relocation, not really on the right button, which could be placed above the commissure, but very much on the left button, which could have to be reimplanted exactly on the abnormally located commissure. We have used a technique of commissures realignment. Prior to transferring the coronary, the distal ascending aorta and the PA trunk are rotated in opposite directions in order to realign the anterior and posterior commissures. (In [Fig. 55.40](#fig-55-40) the distal aorta is rotated counterclockwise and the pulmonary trunk clockwise to realign the commissures.) As the rotations are distributed evenly on the two vessels, the torsion is well tolerated. Then the aortic clamp is repositioned at 12H (12 o’clock position) to stabilize the new setting.
 
-<span id="fig-55-40"></span>![](_page_13_Picture_6.jpeg)
+<span id="fig-55-40"></span>![](_page_55_Picture_40.jpeg)
 
 **FIGURE 55.40** Realignment of malaligned commissures.
 
@@ -525,15 +525,15 @@ Major diameter discrepancy between the aorta and PA is seen in TGA‑VSD and par
 
 ([Fig. 55.41](#fig-55-41)) shows major PA‑to‑aorta diameter mismatch associated with side‑by‑side vessels and double‑loop coronary course. This feature is seen in TGA‑VSD coarctation or Taussig‑Bing with coarctation. The coarctation is resected, and the ascending aorta and the transverse arch entirely incised ([Fig. 55.42](#fig-55-42)). The distal ascending aorta and transverse arch are enlarged using a homograft or Cormetrix patch. This step corrects the diameter mismatch. Placing the extremity of the right and left button above the aortic anastomosis also allows correction of the mismatch ([Fig. 55.43](#fig-55-43)).
 
-<span id="fig-55-41"></span>![](_page_13_Picture_9.jpeg)
+<span id="fig-55-41"></span>![](_page_55_Picture_41.jpeg)
 
 **FIGURE 55.41** Major PA‑aorta diameter mismatch.
 
-<span id="fig-55-42"></span>![](_page_14_Picture_2.jpeg)
+<span id="fig-55-42"></span>![](_page_55_Picture_42.jpeg)
 
 **FIGURE 55.42** Arch incision for enlargement.
 
-<span id="fig-55-43"></span>![](_page_14_Picture_4.jpeg)
+<span id="fig-55-43"></span>![](_page_55_Picture_43.jpeg)
 
 **FIGURE 55.43** Patch enlargement of distal aorta and buttons above anastomosis.
 
