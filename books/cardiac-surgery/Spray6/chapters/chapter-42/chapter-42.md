@@ -1,5 +1,7 @@
 # Atrial septal defects
 
+##### This chapter describes the surgical management of atrial septal defects, including secundum, sinus venosus, coronary sinus septal defects, and primum ASD (partial AV canal), with emphasis on operative techniques and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -82,13 +84,13 @@ Median sternotomy is most commonly employed. Adequate exposure can be obtained u
 
 ### Cannulation for bypass</summary><div class="details-content">
 
-Standard ascending aortic cannulation is used for arterial inflow. Bicaval cannulation for secundum ASD closure can be most easily obtained using two cannulae placed via the right atrial appendage, which is typically enlarged due to chronic volume overload.
+Standard ascending aortic cannulation is used for arterial inflow. Bicaval cannulation for secundum ASD closure can be most easily obtained using two cannulae placed via the right atrial appendage, which is typically enlarged due to chronic volume overload ([Fig. 42.1](#fig-42-1)).
 
 <span id="fig-42-1"></span>![](_page_42_Picture_1.jpeg)
 
 **FIGURE 42.1** Bicaval cannulation via the right atrial appendage for secundum ASD closure.
 
-For sinus venosus defects, the superior cannulation is best placed directly into the superior vena cava (SVC), well above the entrance of any pulmonary veins.
+For sinus venosus defects, the superior cannulation is best placed directly into the superior vena cava (SVC), well above the entrance of any pulmonary veins ([Fig. 42.2](#fig-42-2)).
 
 <span id="fig-42-2"></span>![](_page_42_Picture_2.jpeg)
 
@@ -110,7 +112,7 @@ Due to the short period of cardiac arrest needed for most repairs, systemic hypo
 
 ### Secundum ASD</summary><div class="details-content">
 
-A limited right atriotomy typically affords excellent exposure of the defect. An anterior retractor can hold the inferior vena cava (IVC) cannula out of the way if atrial appendage cannulation is employed. Defects in the fossa ovalis are the most commonly encountered. If the defect seems more superior or posterior in the septum than typical, a sinus venosus defect should be suspected and confirmation of the entry of the right pulmonary veins to the left of the septum should be made. Often thin, multifenestrated remnants of septum primum may partially cover the fossa ovalis.
+A limited right atriotomy typically affords excellent exposure of the defect. An anterior retractor can hold the inferior vena cava (IVC) cannula out of the way if atrial appendage cannulation is employed. Defects in the fossa ovalis are the most commonly encountered. If the defect seems more superior or posterior in the septum than typical, a sinus venosus defect should be suspected and confirmation of the entry of the right pulmonary veins to the left of the septum should be made. Often thin, multifenestrated remnants of septum primum may partially cover the fossa ovalis ([Fig. 42.3](#fig-42-3)).
 
 <span id="fig-42-3"></span>![](_page_42_Picture_3.jpeg)
 
@@ -118,21 +120,21 @@ A limited right atriotomy typically affords excellent exposure of the defect. An
 
 These can be resected to facilitate suture placement in stronger tissue. A left-sided vent is rarely needed and care should be taken to avoid suction into the left atrium to prevent air entrapment after closure of the defect.
 
-In the past, the majority of defects could be closed by primary suture technique, partly due to the oval shape of most secundum defects. Since the advent of device closure of the majority of secundum ASDs, those referred for surgical closure are typically larger and more round in shape with deficient margins of atrial wall, requiring patch closure (see below). If primary closure is feasible, a double layer of polypropylene is begun at the inferior limit of the defect, as this margin is typically most difficult to define.
+In the past, the majority of defects could be closed by primary suture technique, partly due to the oval shape of most secundum defects. Since the advent of device closure of the majority of secundum ASDs, those referred for surgical closure are typically larger and more round in shape with deficient margins of atrial wall, requiring patch closure (see below). If primary closure is feasible, a double layer of polypropylene is begun at the inferior limit of the defect, as this margin is typically most difficult to define ([Figs. 42.4a and 42.4b](#fig-42-4a)).
 
 <span id="fig-42-4a"></span>![](_page_42_Picture_4a.jpeg)
 
 **FIGURE 42.4a** Primary closure of secundum ASD: beginning the double-layer polypropylene suture at the inferior margin.
 
-<span id="fig-42-4b"></span>![](_page_42_Figure_4b.jpeg)
+<span id="fig-42-4b"></span>![](_page_42_Picture_4b.jpeg)
 
 **FIGURE 42.4b** Completion of primary closure.
 
 Prior to complete closure of the defect, entrapped air should be evacuated from the left atrium.
 
-If the defect is large or more round in shape, patch closure should be performed to avoid closure under tension and distortion of atrial anatomy. A patch of autologous pericardium slightly smaller than the relaxed size of the defect may be used, again beginning the suture line inferiorly.
+If the defect is large or more round in shape, patch closure should be performed to avoid closure under tension and distortion of atrial anatomy. A patch of autologous pericardium slightly smaller than the relaxed size of the defect may be used, again beginning the suture line inferiorly ([Fig. 42.5](#fig-42-5)).
 
-<span id="fig-42-5"></span>![](_page_42_Figure_5.jpeg)
+<span id="fig-42-5"></span>![](_page_42_Picture_5.jpeg)
 
 **FIGURE 42.5** Patch closure of secundum ASD using autologous pericardium.
 
@@ -156,25 +158,25 @@ If the pulmonary veins drain to the cavoatrial junction area, baffle repair of t
 
 #### Baffle repair</summary><div class="details-content">
 
-The right atrial incision is oriented longitudinally, and is angled superiorly toward the lateral aspect of the cavoatrial junction. If better exposure is needed, the incision may be extended onto the SVC to the upper limit of any anomalously connected pulmonary veins. The lateral placement of this incision is important to avoid injury to the sinus node, though its blood supply may still be compromised in some cases.
+The right atrial incision is oriented longitudinally, and is angled superiorly toward the lateral aspect of the cavoatrial junction. If better exposure is needed, the incision may be extended onto the SVC to the upper limit of any anomalously connected pulmonary veins. The lateral placement of this incision is important to avoid injury to the sinus node, though its blood supply may still be compromised in some cases ([Figs. 42.6a and 42.6b](#fig-42-6a)).
 
-<span id="fig-42-6a"></span>![](_page_42_Figure_6a.jpeg)
+<span id="fig-42-6a"></span>![](_page_42_Picture_6a.jpeg)
 
 **FIGURE 42.6a** Right atriotomy angled superiorly and laterally for sinus venosus defect.
 
-<span id="fig-42-6b"></span>![](_page_42_Figure_6b.jpeg)
+<span id="fig-42-6b"></span>![](_page_42_Picture_6b.jpeg)
 
 **FIGURE 42.6b** Extended atriotomy onto SVC to expose anomalously connected pulmonary veins.
 
-The patch is sutured beginning superiorly at the junction of the highest pulmonary vein and the SVC, transitioning down and around the lower edge of the septal defect to direct the flow of pulmonary venous blood through the septal defect to the left atrium.
+The patch is sutured beginning superiorly at the junction of the highest pulmonary vein and the SVC, transitioning down and around the lower edge of the septal defect to direct the flow of pulmonary venous blood through the septal defect to the left atrium ([Fig. 42.7a](#fig-42-7a)).
 
-<span id="fig-42-7a"></span>![](_page_42_Figure_7a.jpeg)
+<span id="fig-42-7a"></span>![](_page_42_Picture_7a.jpeg)
 
 **FIGURE 42.7a** Patch sutured to direct pulmonary venous flow through the septal defect to the left atrium.
 
-The patch should be slightly redundant to avoid obstructing this pathway, especially when it is extended up the vena cava more than a few millimeters. A single small pulmonary vein branch draining high into the SVC may be ignored, as this amount of persistent left-to-right shunt will be of little consequence. If the incision has been carried onto the SVC, the atriotomy closure may be augmented with a patch superiorly to prevent stenosis of the SVC–right atrial junction.
+The patch should be slightly redundant to avoid obstructing this pathway, especially when it is extended up the vena cava more than a few millimeters. A single small pulmonary vein branch draining high into the SVC may be ignored, as this amount of persistent left-to-right shunt will be of little consequence. If the incision has been carried onto the SVC, the atriotomy closure may be augmented with a patch superiorly to prevent stenosis of the SVC–right atrial junction ([Fig. 42.7b](#fig-42-7b)).
 
-<span id="fig-42-7b"></span>![](_page_42_Figure_7b.jpeg)
+<span id="fig-42-7b"></span>![](_page_42_Picture_7b.jpeg)
 
 **FIGURE 42.7b** Patch augmentation of atriotomy closure to prevent SVC stenosis.
 
@@ -184,21 +186,21 @@ The patch should be slightly redundant to avoid obstructing this pathway, especi
 
 #### Warden repair</summary><div class="details-content">
 
-A limited, longitudinal right atriotomy allows exposure of the septal defect and the cavoatrial junction.
+A limited, longitudinal right atriotomy allows exposure of the septal defect and the cavoatrial junction ([Fig. 42.8a](#fig-42-8a)).
 
-<span id="fig-42-8a"></span>![](_page_42_Figure_8a.jpeg)
+<span id="fig-42-8a"></span>![](_page_42_Picture_8a.jpeg)
 
 **FIGURE 42.8a** Limited right atriotomy exposing septal defect and cavoatrial junction.
 
-The patch is sutured from the lower edge of the septal defect around the lateral aspect of the cavoatrial junction directing all SVC flow through the defect to the left atrium.
+The patch is sutured from the lower edge of the septal defect around the lateral aspect of the cavoatrial junction directing all SVC flow through the defect to the left atrium ([Fig. 42.8b](#fig-42-8b)).
 
-<span id="fig-42-8b"></span>![](_page_42_Figure_8b.jpeg)
+<span id="fig-42-8b"></span>![](_page_42_Picture_8b.jpeg)
 
 **FIGURE 42.8b** Baffle directing all SVC flow through the defect to the left atrium.
 
-The SVC is then transected just at the upper level of the highest pulmonary vein. The cardiac end is oversewn avoiding stenosis of the highest pulmonary vein. The cephalic end of the SVC is mobilized further, if necessary, then anastomosed to a position on the right atrial appendage where it reaches without tension or angulation using fine, absorbable, monofilament suture.
+The SVC is then transected just at the upper level of the highest pulmonary vein. The cardiac end is oversewn avoiding stenosis of the highest pulmonary vein. The cephalic end of the SVC is mobilized further, if necessary, then anastomosed to a position on the right atrial appendage where it reaches without tension or angulation using fine, absorbable, monofilament suture ([Fig. 42.8c](#fig-42-8c)).
 
-<span id="fig-42-8c"></span>![](_page_42_Figure_8c.jpeg)
+<span id="fig-42-8c"></span>![](_page_42_Picture_8c.jpeg)
 
 **FIGURE 42.8c** Anastomosis of the cephalic SVC end to the right atrial appendage.
 
@@ -212,9 +214,9 @@ Care must be taken to avoid pursestringing this anastomosis.
 
 ### Coronary sinus septal defect/unroofed coronary sinus</summary><div class="details-content">
 
-This defect is associated with persistence of a left SVC, typically without a communicating innominate vein to the right SVC.
+This defect is associated with persistence of a left SVC, typically without a communicating innominate vein to the right SVC ([Fig. 42.9](#fig-42-9)).
 
-<span id="fig-42-9"></span>![](_page_42_Figure_9.jpeg)
+<span id="fig-42-9"></span>![](_page_42_Picture_9.jpeg)
 
 **FIGURE 42.9** Unroofed coronary sinus with persistent left SVC.
 
@@ -222,9 +224,9 @@ The coronary sinus is often completely unroofed with the left SVC draining to th
 
 In the rare case that the coronary sinus is partially unroofed, the defect may be closed either directly or with a patch. Care should be taken to avoid either narrowing the coronary sinus with direct closure or making the patch too redundant, obstructing left ventricular inflow.
 
-When the coronary sinus is completely unroofed, the anomaly is best repaired using a pericardial baffle to direct the left SVC blood across the roof of the left atrium to the secundum ASD.
+When the coronary sinus is completely unroofed, the anomaly is best repaired using a pericardial baffle to direct the left SVC blood across the roof of the left atrium to the secundum ASD ([Fig. 42.10](#fig-42-10)).
 
-<span id="fig-42-10"></span>![](_page_42_Figure_10.jpeg)
+<span id="fig-42-10"></span>![](_page_42_Picture_10.jpeg)
 
 **FIGURE 42.10** Pericardial baffle directing left SVC blood to the secundum ASD.
 
@@ -238,25 +240,25 @@ This avoids the need to sew near the pulmonary veins or the mitral valve annulus
 
 Venous cannulation should allow unobstructed exposure of the intra-atrial anatomy, especially in the smaller child. This is accomplished using direct cannulation of the inferior cavoatrial junction with a thin-walled, right-angle cannula. Superior caval cannulation may be via the right atrial appendage or directly into the SVC. Venting of the left side of the heart via the right superior pulmonary vein facilitates exposure by capturing pulmonary venous return.
 
-Initial careful inspection of the intracardiac anatomy must be carried out following right atriotomy.
+Initial careful inspection of the intracardiac anatomy must be carried out following right atriotomy ([Fig. 42.11](#fig-42-11)).
 
-<span id="fig-42-11"></span>![](_page_42_Figure_11.jpeg)
+<span id="fig-42-11"></span>![](_page_42_Picture_11.jpeg)
 
 **FIGURE 42.11** Right atriotomy exposure of primum ASD; note the cleft in the anterior left AV valve leaflet.
 
 The limits of the primum ASD should be defined as well as the presence of any additional septal defect in the fossa ovalis region. The absence of interventricular communication should be confirmed by gentle inspection and probing of the subvalvar region using a fine right-angle clamp. Particular attention to the anatomy of the left-sided atrioventricular valve is crucial, as the most frequent need for reoperation in these patients is related to left AV valve dysfunction, usually regurgitation. The presence of the cleft in the anterior or septal leaflet is identified, the presence of two, well-separated papillary muscles within the left ventricle is confirmed, and anomalies such as a double orifice or parachute valve configuration are excluded.
 
-The cleft in the anterior left AV valve leaflet is closed first, using fine sutures with an interrupted simple or mattress technique.
+The cleft in the anterior left AV valve leaflet is closed first, using fine sutures with an interrupted simple or mattress technique ([Fig. 42.12](#fig-42-12)).
 
-<span id="fig-42-12"></span>![](_page_42_Figure_12.jpeg)
+<span id="fig-42-12"></span>![](_page_42_Picture_12.jpeg)
 
 **FIGURE 42.12** Closure of the cleft in the anterior left AV valve leaflet.
 
 Testing of the valve by instilling iced saline into the ventricle confirms competence of the repair and identifies the need for the addition of any annuloplasty stitches.
 
-The septal defect is closed with a pericardial patch.
+The septal defect is closed with a pericardial patch ([Fig. 42.13](#fig-42-13)).
 
-<span id="fig-42-13"></span>![](_page_42_Figure_13.jpeg)
+<span id="fig-42-13"></span>![](_page_42_Picture_13.jpeg)
 
 **FIGURE 42.13** Patch closure of primum ASD.
 

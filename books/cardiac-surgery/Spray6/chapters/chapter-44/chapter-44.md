@@ -1,5 +1,7 @@
 # Bidirectional Glenn and hemi-Fontan procedures
 
+##### This chapter describes the bidirectional Glenn shunt (BDG) and hemi-Fontan procedures as intermediate stages in the staged palliation of functional single ventricle, including indications, operative techniques (standard BDG, bilateral BDG, hemi‑Fontan I and II, hybrid modification with intraoperative stenting), postoperative care, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -111,7 +113,7 @@ Patients are intubated using the nasotracheal or orotracheal route. They are ven
 
 The BDG anastomosis is performed using aortobicaval, normothermic cardiopulmonary bypass with a beating, decompressed heart. Cannulation of the SVC may be avoided by placing a pump sucker in the proximal orifice of the transected SVC. PA isolation and patch augmentation of the branch PAs can be performed if required at this stage. Moderate hypothermia (28 °C), aortic cross‑clamping, and cold blood cardioplegia are used if concomitant atrial septectomy or atrioventricular valve repair is necessary.
 
-After median sternotomy, the aorta, PAs, and inferior vena cava (IVC) are dissected. The SVC is dissected and fully mobilized superiorly to the innominate and subclavian vein tributaries. The azygous vein is doubly ligated and divided. The medial and lateral aspects of the SVC are marked with 7‑0 polypropylene monofilament suture to ensure correct orientation for the BDG anastomosis. Similar marking sutures can be placed to delineate the location and extent of the incision on the superior aspect of the right PA. Control of a systemic‑to‑PA shunt, if present, is obtained. The aorta is cannulated using a single aortic pursestring. Cannulation of the IVC is followed by high SVC cannulation at the innominate vein junction using a right‑angled cannula.
+After median sternotomy, the aorta, PAs, and inferior vena cava (IVC) are dissected. The SVC is dissected and fully mobilized superiorly to the innominate and subclavian vein tributaries. The azygous vein is doubly ligated and divided. The medial and lateral aspects of the SVC are marked with 7‑0 polypropylene monofilament suture to ensure correct orientation for the BDG anastomosis. Similar marking sutures can be placed to delineate the location and extent of the incision on the superior aspect of the right PA. Control of a systemic‑to‑PA shunt, if present, is obtained. The aorta is cannulated using a single aortic pursestring. Cannulation of the IVC is followed by high SVC cannulation at the innominate vein junction using a right‑angled cannula ([Fig. 44.1a](#fig-44-1a)).
 
 <span id="fig-44-1a"></span>![](_page_44_Picture_1a.jpeg)
 
@@ -119,13 +121,13 @@ After median sternotomy, the aorta, PAs, and inferior vena cava (IVC) are dissec
 
 Cardiopulmonary bypass is established, and the systemic‑to‑PA shunt is ligated and divided. The PA branches may be opened and patch augmentation performed at this point. Depending on the anatomy, the pulmonary trunk may need to be clamped during this maneuver to prevent air entry into the beating heart.
 
-The tourniquet on the SVC is secured, and a clamp is positioned across the SVC–right atrial junction. The SVC is then transected.
+The tourniquet on the SVC is secured, and a clamp is positioned across the SVC–right atrial junction. The SVC is then transected ([Fig. 44.1b](#fig-44-1b)).
 
 <span id="fig-44-1b"></span>![](_page_44_Picture_1b.jpeg)
 
 **FIGURE 44.1b** SVC transection at the cavoatrial junction.
 
-If the SVC has not been cannulated, the SVC is transected and a pump sucker carefully positioned in the cephalic end of the SVC to maintain adequate exposure during cardiopulmonary bypass.
+If the SVC has not been cannulated, the SVC is transected and a pump sucker carefully positioned in the cephalic end of the SVC to maintain adequate exposure during cardiopulmonary bypass ([Fig. 44.1c](#fig-44-1c)).
 
 <span id="fig-44-1c"></span>![](_page_44_Picture_1c.jpeg)
 
@@ -133,15 +135,15 @@ If the SVC has not been cannulated, the SVC is transected and a pump sucker care
 
 If an intracardiac procedure is required, the aorta is cross‑clamped and cardioplegia administered. Then the IVC tourniquet can be secured and the right atrial incision made.
 
-With the vascular clamp on the SVC–right atrial junction, the cardiac end of the transected SVC is closed in two layers, using a running horizontal mattress suture of 5‑0 polypropylene, followed by a running suture line after removal of the clamp. The PA is incised and the back wall of the SVC‑to‑right PA anastomosis begun at the medial end using a running 6‑0 absorbable monofilament suture. The suture line is intermittently locked to prevent pursestringing of the anastomosis.
+With the vascular clamp on the SVC–right atrial junction, the cardiac end of the transected SVC is closed in two layers, using a running horizontal mattress suture of 5‑0 polypropylene, followed by a running suture line after removal of the clamp. The PA is incised and the back wall of the SVC‑to‑right PA anastomosis begun at the medial end using a running 6‑0 absorbable monofilament suture. The suture line is intermittently locked to prevent pursestringing of the anastomosis ([Fig. 44.1d](#fig-44-1d)).
 
-<span id="fig-44-1d"></span>![](_page_44_Figure_1d.jpeg)
+<span id="fig-44-1d"></span>![](_page_44_Picture_1d.jpeg)
 
 **FIGURE 44.1d** Posterior wall anastomosis of SVC to right PA.
 
-The anterior aspect of the anastomosis is completed with a similar suture line or with interrupted sutures if desired.
+The anterior aspect of the anastomosis is completed with a similar suture line or with interrupted sutures if desired ([Fig. 44.1e](#fig-44-1e)).
 
-<span id="fig-44-1e"></span>![](_page_44_Figure_1e.jpeg)
+<span id="fig-44-1e"></span>![](_page_44_Picture_1e.jpeg)
 
 **FIGURE 44.1e** Completed BDG anastomosis.
 
@@ -153,7 +155,7 @@ Although rarely required, patch augmentation of the anterior aspect of the SVC�
 
 ### Bilateral bidirectional Glenn shunt</summary><div class="details-content">
 
-Patients with a functional single ventricle, particularly those with heterotaxia, have anomalies of systemic and pulmonary venous return associated with splenic abnormalities. A high incidence of bilateral SVCs occurs in this group who, as suitable candidates for Fontan palliation, will require bilateral BDG shunts. If pulmonary atresia is present, a systemic‑to‑PA shunt is required in the neonatal period. If pulmonary stenosis is present, adequate pulmonary blood flow may be present initially, so that a bilateral BDG procedure may be the first intervention required, as in the example shown in Figure 44.2a. Such anatomy occasionally affords the surgeon an opportunity to perform the BDG shunts sequentially, obviating the need for cardiopulmonary bypass.
+Patients with a functional single ventricle, particularly those with heterotaxia, have anomalies of systemic and pulmonary venous return associated with splenic abnormalities. A high incidence of bilateral SVCs occurs in this group who, as suitable candidates for Fontan palliation, will require bilateral BDG shunts. If pulmonary atresia is present, a systemic‑to‑PA shunt is required in the neonatal period. If pulmonary stenosis is present, adequate pulmonary blood flow may be present initially, so that a bilateral BDG procedure may be the first intervention required, as in the example shown in ([Fig. 44.2a](#fig-44-2a)). Such anatomy occasionally affords the surgeon an opportunity to perform the BDG shunts sequentially, obviating the need for cardiopulmonary bypass.
 
 <span id="fig-44-2a"></span>![](_page_44_Picture_2a.jpeg)
 
@@ -161,21 +163,21 @@ Patients with a functional single ventricle, particularly those with heterotaxia
 
 After median sternotomy and subtotal thymectomy, the pericardium is opened and suspended with stay sutures. The great vessels are dissected and mobilized fully.
 
-Starting with the right SVC, marking sutures of 7‑0 polypropylene are placed on the medial and lateral aspects. The right upper and lower PA branches in the hilum are encircled and tourniquets applied. The right PA is clamped medially, being careful to avoid distortion of the main and left PAs, and the tourniquets are secured laterally. Once oxygen saturations are stable, the SVC and cavoatrial junction are clamped, and the SVC is transected. The cardiac end of the transected SVC is closed in two layers, using a running horizontal mattress suture of 5‑0 polypropylene, followed by a running suture line after removal of the clamp. The right PA is opened on its superior aspect, and an end‑to‑side cavopulmonary anastomosis is created using 6‑0 polydioxanone suture as described previously.
+Starting with the right SVC, marking sutures of 7‑0 polypropylene are placed on the medial and lateral aspects. The right upper and lower PA branches in the hilum are encircled and tourniquets applied. The right PA is clamped medially, being careful to avoid distortion of the main and left PAs, and the tourniquets are secured laterally. Once oxygen saturations are stable, the SVC and cavoatrial junction are clamped, and the SVC is transected. The cardiac end of the transected SVC is closed in two layers, using a running horizontal mattress suture of 5‑0 polypropylene, followed by a running suture line after removal of the clamp. The right PA is opened on its superior aspect, and an end‑to‑side cavopulmonary anastomosis is created using 6‑0 polydioxanone suture as described previously ([Fig. 44.2b](#fig-44-2b)).
 
-<span id="fig-44-2b"></span>![](_page_44_Figure_2b.jpeg)
+<span id="fig-44-2b"></span>![](_page_44_Picture_2b.jpeg)
 
 **FIGURE 44.2b** Right BDG completion.
 
 All clamps and tourniquets are removed.
 
-After encircling the left upper and lower PAs in the left hilum, tourniquets are applied. The left SVC and the left‑sided cavoatrial junction are clamped and the left SVC transected. Again, the cardiac end of the SVC is closed in two layers. The left PA is clamped medially, and the tourniquets are secured laterally. The left pulmonary is opened on its superior aspect, and once more, an end‑to‑side cavopulmonary anastomosis is created with 6‑0 polydioxanone suture.
+After encircling the left upper and lower PAs in the left hilum, tourniquets are applied. The left SVC and the left‑sided cavoatrial junction are clamped and the left SVC transected. Again, the cardiac end of the SVC is closed in two layers. The left PA is clamped medially, and the tourniquets are secured laterally. The left pulmonary is opened on its superior aspect, and once more, an end‑to‑side cavopulmonary anastomosis is created with 6‑0 polydioxanone suture ([Fig. 44.2c](#fig-44-2c)).
 
 <span id="fig-44-2c"></span>![](_page_44_Picture_2c.jpeg)
 
 **FIGURE 44.2c** Left BDG completion.
 
-A PA band is applied to reduce the blood flow through the stenotic main PA.
+A PA band is applied to reduce the blood flow through the stenotic main PA ([Fig. 44.2d](#fig-44-2d)).
 
 <span id="fig-44-2d"></span>![](_page_44_Picture_2d.jpeg)
 
@@ -189,7 +191,7 @@ Transesophageal echocardiography and direct pressure measurements in the branch 
 
 ### Hemi‑Fontan I</summary><div class="details-content">
 
-The great vessels and relevant cardiac structures are dissected. The neoaorta and right atrium are cannulated. The right modified Blalock–Taussig shunt is encircled with a braided polyester ligature. The pulmonary bifurcation is mobilized as completely as possible before initiation of cardiopulmonary bypass.
+The great vessels and relevant cardiac structures are dissected. The neoaorta and right atrium are cannulated. The right modified Blalock–Taussig shunt is encircled with a braided polyester ligature. The pulmonary bifurcation is mobilized as completely as possible before initiation of cardiopulmonary bypass ([Fig. 44.3a](#fig-44-3a)).
 
 <span id="fig-44-3a"></span>![](_page_44_Picture_3a.jpeg)
 
@@ -197,7 +199,7 @@ The great vessels and relevant cardiac structures are dissected. The neoaorta an
 
 The shunt is ligated once bypass is established, and the PA dissection is completed, as the patient is cooled to a nasopharyngeal temperature of 18 °C. When cooling is complete, circulatory arrest is established, the neoaorta is cross‑clamped, and cardioplegia is administered. The venous cannula is removed from the right atrium. The SVC is opened at the cavoatrial junction. The incision spirals cephalad around the medial border of the SVC and ends posteriorly, adjacent to the PA. Caudally, it extends across the cavoatrial junction toward the sinus nodal artery, transection of which can occasionally be avoided. The PA is opened on its anterior aspect from a point immediately posterior to the SVC to the branch point of the left PA.
 
-A patch of Gore‑Tex, appropriately tailored, is sewn into the right atrium immediately below the cavoatrial junction, through the incision, using 5‑0 polypropylene suture.
+A patch of Gore‑Tex, appropriately tailored, is sewn into the right atrium immediately below the cavoatrial junction, through the incision, using 5‑0 polypropylene suture ([Fig. 44.3b](#fig-44-3b)).
 
 <span id="fig-44-3b"></span>![](_page_44_Picture_3b.jpeg)
 
@@ -205,19 +207,19 @@ A patch of Gore‑Tex, appropriately tailored, is sewn into the right atrium imm
 
 This patch serves to separate the right atrium from the cavopulmonary anastomosis and is excised during the subsequent Fontan completion procedure.
 
-The posterior border of the cavoatrial opening is then sutured to the inferior edge of the pulmonary arteriotomy using a running 6‑0 polypropylene suture.
+The posterior border of the cavoatrial opening is then sutured to the inferior edge of the pulmonary arteriotomy using a running 6‑0 polypropylene suture ([Fig. 44.3c](#fig-44-3c)).
 
 <span id="fig-44-3c"></span>![](_page_44_Picture_3c.jpeg)
 
 **FIGURE 44.3c** Posterior cavoatrial border sutured to inferior PA edge.
 
-A generous triangular‑shaped patch of cryopreserved pulmonary homograft is cut to the appropriate size. Using 6‑0 polypropylene suture, the patch is sewn to the remaining margins of the pulmonary arteriotomy, starting at its leftward extent.
+A generous triangular‑shaped patch of cryopreserved pulmonary homograft is cut to the appropriate size. Using 6‑0 polypropylene suture, the patch is sewn to the remaining margins of the pulmonary arteriotomy, starting at its leftward extent ([Fig. 44.3d](#fig-44-3d)).
 
 <span id="fig-44-3d"></span>![](_page_44_Picture_3d.jpeg)
 
 **FIGURE 44.3d** Homograft patch augmentation of PA.
 
-The suture line is carried onto the cavoatrial junction, where it is completed.
+The suture line is carried onto the cavoatrial junction, where it is completed ([Fig. 44.3e](#fig-44-3e)).
 
 <span id="fig-44-3e"></span>![](_page_44_Picture_3e.jpeg)
 
@@ -231,13 +233,13 @@ The right atrial cannula is replaced and, after de‑airing the heart, cardiopul
 
 ### Hemi‑Fontan II</summary><div class="details-content">
 
-After dissection of the great vessels and relevant cardiac structures, the neoaorta and right atrium are cannulated. Cardiopulmonary bypass is initiated, and ligation of the right modified Blalock–Taussig shunt is performed. The dissection of the pulmonary bifurcation is completed; and after neoaortic cross‑clamping, cardioplegia is administered. Circulatory arrest is begun. An incision is made in the PA from hilum to hilum. An incision is also made on the medial aspect of the SVC extending from just below the innominate vein junction, across the cavoatrial junction, onto the right atrial appendage.
+After dissection of the great vessels and relevant cardiac structures, the neoaorta and right atrium are cannulated. Cardiopulmonary bypass is initiated, and ligation of the right modified Blalock–Taussig shunt is performed. The dissection of the pulmonary bifurcation is completed; and after neoaortic cross‑clamping, cardioplegia is administered. Circulatory arrest is begun. An incision is made in the PA from hilum to hilum. An incision is also made on the medial aspect of the SVC extending from just below the innominate vein junction, across the cavoatrial junction, onto the right atrial appendage ([Fig. 44.4a](#fig-44-4a)).
 
 <span id="fig-44-4a"></span>![](_page_44_Picture_4a.jpeg)
 
 **FIGURE 44.4a** Incisions: PA from hilum to hilum; SVC from below innominate vein to RA appendage.
 
-The posterior margin of the SVC–right atrial incision is then sewn to the rightward end of the pulmonary arteriotomy using a running 6‑0 polypropylene suture.
+The posterior margin of the SVC–right atrial incision is then sewn to the rightward end of the pulmonary arteriotomy using a running 6‑0 polypropylene suture ([Fig. 44.4b](#fig-44-4b)).
 
 <span id="fig-44-4b"></span>![](_page_44_Picture_4b.jpeg)
 
@@ -245,13 +247,13 @@ The posterior margin of the SVC–right atrial incision is then sewn to the righ
 
 This maneuver ensures a wide opening between the SVC and PA.
 
-A large triangular‑shaped patch of cryopreserved pulmonary homograft is tailored for augmentation of the pulmonary bifurcation. Beginning at the left hilum, the patch is sewn to the margins of the pulmonary arteriotomy using a running 6‑0 polypropylene suture. The suture line connecting the patch and the inferior margin of the pulmonary arteriotomy is carried onto the cavoatrial junction along the margin of the incision in the right atrial appendage.
+A large triangular‑shaped patch of cryopreserved pulmonary homograft is tailored for augmentation of the pulmonary bifurcation. Beginning at the left hilum, the patch is sewn to the margins of the pulmonary arteriotomy using a running 6‑0 polypropylene suture. The suture line connecting the patch and the inferior margin of the pulmonary arteriotomy is carried onto the cavoatrial junction along the margin of the incision in the right atrial appendage ([Fig. 44.4c](#fig-44-4c)).
 
 <span id="fig-44-4c"></span>![](_page_44_Picture_4c.jpeg)
 
 **FIGURE 44.4c** Homograft patch sewn, extending onto cavoatrial junction.
 
-The pulmonary homograft patch is then folded down, creating a dam at the level of the cavoatrial junction between the right atrium and the cavopulmonary anastomosis. This point is secured circumferentially with a 5‑0 polypropylene suture.
+The pulmonary homograft patch is then folded down, creating a dam at the level of the cavoatrial junction between the right atrium and the cavopulmonary anastomosis. This point is secured circumferentially with a 5‑0 polypropylene suture ([Fig. 44.4d](#fig-44-4d)).
 
 <span id="fig-44-4d"></span>![](_page_44_Picture_4d.jpeg)
 
@@ -267,18 +269,20 @@ Careful incorporation of the double flap of pulmonary homograft is important to 
 
 Occasionally, prior to performing the BDG as a second procedure in the staged palliation for HLHS, significant central and proximal left pulmonary artery (LPA) hypoplasia is identified by preoperative echocardiographic or MRA assessment. The mechanism of this is often anterior compression of the PA by the substantial neoaorta. Patch augmentation of the central and proximal PA at the time of the bidirectional Glenn procedure or the hemi‑Fontan procedure can address this. However, because the etiology is often arterial compression, recurrence is not unusual. It is possible to overcome this problem by a hybrid procedure involving intraoperative pulmonary balloon arterioplasty and stent placement during the Glenn procedure. Long‑term, the stent prevents recompression of the central and LPA, simplifying the Fontan completion procedure.
 
-Redo sternotomy, followed by arterial and venous cannulation, is performed as in a standard bidirectional Glenn procedure; the SVC is prepared for the Glenn anastomosis. The right PA is opened.
+Redo sternotomy, followed by arterial and venous cannulation, is performed as in a standard bidirectional Glenn procedure; the SVC is prepared for the Glenn anastomosis. The right PA is opened ([Fig. 44.5a](#fig-44-5a)).
 
 <span id="fig-44-5a"></span>![](_page_44_Picture_5a.jpeg)
 
 **FIGURE 44.5a** Right PA opened for hybrid stent delivery.
 
-The balloon/stent assembly is then prepared. The "indeflator" is connected to the inflation port of a suitable balloon catheter (e.g. 6 mm or 8 mm Powerflex, length 2 cm) and the balloon is inflated to de‑air it.
+The balloon/stent assembly is then prepared. The "indeflator" is connected to the inflation port of a suitable balloon catheter (e.g. 6 mm or 8 mm Powerflex, length 2 cm) and the balloon is inflated to de‑air it ([Figs. 44.5b and 44.5c](#fig-44-5b)).
 
 <span id="fig-44-5b"></span>![](_page_44_Picture_5b-c.jpeg)
 
 **FIGURE 44.5b** Balloon inflation to de‑air.
-  
+
+<span id="fig-44-5c"></span>![](_page_44_Picture_5b-c.jpeg)
+
 **FIGURE 44.5c** Stent crimped on balloon with shoulder.
 
 The operator hand‑crimps the stent and places it over the deflated balloon, and the balloon is then pressurized to 0.5–1.0 atm to create a "shoulder" to hold the stent securely.
@@ -287,15 +291,17 @@ A tongue wire is inserted into the guidewire lumen of the balloon/stent assembly
 
 The balloon/stent assembly with guidewire is then introduced through the right pulmonary arteriotomy into the retroaortic hypoplastic central PA/LPA confluence. Using a combination of predetermined landmarks from preoperative MRI/CT or cardiac catheterization, or theatre C‑arm, along with direct visualization of the proximal end of the assembly, the stent is accurately positioned. In a hybrid operating room this is simplified by use of fluoroscopic control.
 
-The stent is then deployed by inflating the balloon to 6–8 atm. The balloon is deflated and carefully removed from the stented area.
+The stent is then deployed by inflating the balloon to 6–8 atm. The balloon is deflated and carefully removed from the stented area ([Fig. 44.5e](#fig-44-5e)).
 
-<span id="fig-44-5e"></span>![](_page_44_Figure_5d-f.jpeg)
+<span id="fig-44-5e"></span>![](_page_44_Picture_5d-f.jpeg)
 
 **FIGURE 44.5e** Stent deployed; balloon deflated and removed.
-  
-**FIGURE 44.5f** Completed BDG after hybrid stenting.
 
-Finally, the Glenn anastomosis is completed as described above.
+Finally, the Glenn anastomosis is completed as described above ([Fig. 44.5f](#fig-44-5f)).
+
+<span id="fig-44-5f"></span>![](_page_44_Picture_5d-f.jpeg)
+
+**FIGURE 44.5f** Completed BDG after hybrid stenting.
 
 </div></details>
 

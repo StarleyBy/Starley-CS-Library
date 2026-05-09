@@ -1,5 +1,7 @@
 # Total anomalous pulmonary venous connection and cor triatriatum
 
+##### This chapter describes total anomalous pulmonary venous connection (TAPVC) and cor triatriatum, including embryology, classification, pathophysiology, preoperative assessment, surgical repair techniques by type, postoperative management, outcomes, and management of recurrent pulmonary vein stenosis.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -183,19 +185,19 @@ After the anastomosis is complete, the ASD is then closed with a prosthetic patc
 
 For cardiac connections, bicaval cannulation with minimal hypothermia without circulatory arrest can be employed. After cardioplegic arrest of the heart, a right atriotomy is performed with identification of the ASD and the orifice of the coronary sinus.
 
-<span id="fig-41-4a"></span>![](_page_41_Figure_4a.jpeg)
+<span id="fig-41-4a"></span>![](_page_41_Picture_4a.jpeg)
 
 **FIGURE 41.4a** Right atriotomy: identification of ASD and coronary sinus orifice.
 
 The roof of the coronary sinus is excised into the left atrium.
 
-<span id="fig-41-4b"></span>![](_page_41_Figure_4b.jpeg)
+<span id="fig-41-4b"></span>![](_page_41_Picture_4b.jpeg)
 
 **FIGURE 41.4b** Excision of the coronary sinus roof into the left atrium.
 
 A prosthetic or pericardial patch is then placed to close the enlarged ASD, effectively channeling the pulmonary venous return and the coronary sinus into the left atrium.
 
-<span id="fig-41-4c"></span>![](_page_41_Figure_4c.jpeg)
+<span id="fig-41-4c"></span>![](_page_41_Picture_4c.jpeg)
 
 **FIGURE 41.4c** Patch closure of enlarged ASD, channeling pulmonary venous return and coronary sinus into left atrium.
 
@@ -209,13 +211,13 @@ The conduction system travels in proximity to the coronary sinus; therefore, car
 
 For infracardiac connections, the heart is rotated superiorly. The connection to the descending vertical vein is ligated at the level of the diaphragm. An incision is made along the length of the common pulmonary vein with a parallel incision on the posterior wall of the left atrium.
 
-<span id="fig-41-5a"></span>![](_page_41_Figure_5a.jpeg)
+<span id="fig-41-5a"></span>![](_page_41_Picture_5a.jpeg)
 
 **FIGURE 41.5a** Incisions in common pulmonary vein and posterior left atrium.
 
 The common pulmonary vein is then anastomosed to the left atrium, taking care not to narrow the orifice.
 
-<span id="fig-41-5b"></span>![](_page_41_Figure_5b.jpeg)
+<span id="fig-41-5b"></span>![](_page_41_Picture_5b.jpeg)
 
 **FIGURE 41.5b** Completed anastomosis.
 
@@ -237,13 +239,13 @@ The repair of mixed-type TAPVC involves a combination of the above approaches as
 
 Cor triatriatum with an accessory chamber in communication with the left atrium can be approached through a vertical incision in the accessory chamber.
 
-<span id="fig-41-6a"></span>![](_page_41_Figure_6a.jpeg)
+<span id="fig-41-6a"></span>![](_page_41_Picture_6a.jpeg)
 
 **FIGURE 41.6a** Vertical incision in accessory chamber.
 
 The membrane separating the two chambers can be identified and excised to allow unobstructed communication.
 
-<span id="fig-41-6b"></span>![](_page_41_Figure_6b.jpeg)
+<span id="fig-41-6b"></span>![](_page_41_Picture_6b.jpeg)
 
 **FIGURE 41.6b** Excision of the fibromuscular membrane.
 
@@ -251,13 +253,13 @@ The vertical incision in the accessory chamber is then closed.
 
 Cor triatriatum with an accessory chamber in communication with the right atrium can be approached via a right atriotomy. The ASD can be enlarged into the orifice between the left atrium and the accessory chamber.
 
-<span id="fig-41-6c"></span>![](_page_41_Figure_6c.jpeg)
+<span id="fig-41-6c"></span>![](_page_41_Picture_6c.jpeg)
 
 **FIGURE 41.6c** Enlargement of ASD into the orifice between left atrium and accessory chamber.
 
 This step allows visualization and wide excision of the membrane. The interatrial septum can then be reconstructed using a prosthetic or pericardial patch.
 
-<span id="fig-41-6d"></span>![](_page_41_Figure_6d.jpeg)
+<span id="fig-41-6d"></span>![](_page_41_Picture_6d.jpeg)
 
 **FIGURE 41.6d** Reconstruction of interatrial septum with patch.
 
@@ -305,7 +307,7 @@ In the current era, the most commonly utilized surgical approach to recurrent pu
 
 **FIGURE 41.7a** Wide unroofing of pulmonary veins and anastomotic site.
 
-<span id="fig-41-7b"></span>![](_page_41_Figure_7b.jpeg)
+<span id="fig-41-7b"></span>![](_page_41_Picture_7b.jpeg)
 
 **FIGURE 41.7b** Unroofed pulmonary veins extending to hilum.
 
