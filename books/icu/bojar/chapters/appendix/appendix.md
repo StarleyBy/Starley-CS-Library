@@ -1028,7 +1028,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 **B.** When the pleural space has been entered, fluid should be aspirated to confirm that the effusion has been located. A larger "intracatheter" needle is then passed into the pleural cavity, the plastic catheter advanced, and the metal needle withdrawn to prevent injury to the lung as it expands to appose the parietal pleura. The fluid is then aspirated into collection bottles.
 
-![](_page_42_Figure_6.jpeg)
+![](_page_42_Picture_6.jpeg)
 
 **FIGURE A1** Technique of Thoracentesis
 
@@ -1040,19 +1040,19 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 **1. Skin incision.** One percent lidocaine is used for local anesthesia. A subcutaneous wheal is raised over the fifth or sixth intercostal space in the midaxillary line. The needle is passed to the upper border of the rib and the periosteum is anesthetized. Fluid should be aspirated from an effusion to confirm its location. A 1 cm incision is then made.
 
-![](_page_43_Figure_2.jpeg)
+![](_page_43_Picture_2.jpeg)
 
 **FIGURE A2** Technique for Tube Thoracostomy
 
 **2. Pleural entry.** The dissection is carried down to and through the intercostal muscles with a Kelly clamp, the parietal pleura is penetrated, and the pleural cavity is entered. Finger dissection should be used only if loculations are known to be present.
 
-![](_page_43_Figure_5.jpeg)
+![](_page_43_Picture_5.jpeg)
 
 **FIGURE A3** Technique for Tube Thoracostomy
 
 **3. Chest tube placement.** The chest tube is inserted and directed towards the apex for air and posteriorly for fluid. The tube should be clamped during insertion if fluid is being drained. The tube is then secured with a 2-0 silk suture. A trocar should **never** be used to penetrate the pleura.
 
-![](_page_44_Figure_2.jpeg)
+![](_page_44_Picture_2.jpeg)
 
 **FIGURE A4** Technique for Tube Thoracostomy
 
