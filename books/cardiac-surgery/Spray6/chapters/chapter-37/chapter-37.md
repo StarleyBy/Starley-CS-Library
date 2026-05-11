@@ -1,12 +1,14 @@
 # Cardiac tumors
 
+##### This chapter provides a comprehensive review of cardiac tumors, including epidemiology, classification, clinical presentation, diagnostic evaluation, and surgical management of both benign and malignant primary cardiac tumors, as well as metastatic involvement of the heart and pericardium.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
 
 ### Epidemiology and Classification
-* **Primary cardiac tumors** – rare (incidence <0.03% in autopsy series). Metastatic tumors 20‑50 times more common.
-* **Benign (75%)** – myxoma (80‑90% of benign in adults), lipoma (19%), papillary fibroelastoma (17%), rhabdomyoma (45% in children). Malignant (25%) – angiosarcoma (33%), rhabdomyosarcoma (21%).
+* **Primary cardiac tumors:** rare (incidence <0.03% in autopsy series). Metastatic tumors 20‑50 times more common.
+* **Benign (75%):** myxoma (80‑90% of benign in adults), lipoma (19%), papillary fibroelastoma (17%), rhabdomyoma (45% in children). **Malignant (25%):** angiosarcoma (33%), rhabdomyosarcoma (21%).
 * **Clinical presentation:** Dyspnoea (42%), acute embolic event (25%), chest pain (22%). 64% NYHA III/IV.
 * **Diagnostic modalities:** TTE (initial), TEE and 3D (better sensitivity), CT/MRI (tissue characterisation, pericardial involvement), PET (metastatic disease).
 
@@ -18,15 +20,15 @@
 * **Fibroma:** Second most common in children. Solitary, left ventricular free wall, central calcification.
 
 ### Operative Technique
-* **Cardiopulmonary bypass mandatory** for most tumours. Avoid tumour manipulation and embolisation.
+* **Cardiopulmonary bypass mandatory:** for most tumours. Avoid tumour manipulation and embolisation.
 * **Atrial myxoma resection (Figs. 37.1‑37.4):** Excise with stalk and ≥1 cm of surrounding fossa ovalis/atrial wall (reduces recurrence). Irrigate chambers after excision. Alternative: right atrial approach (transseptal) for large tumours.
 * **Papillary fibroelastoma (Figs. 37.5‑37.6):** Shave base or localised valve resection (repair with pericardial patch if needed).
 * **Primary malignant tumours:** Surgery mainly diagnostic (biopsy) to guide chemotherapy/radiation. Poor prognosis (most die within 1 year).
 * **Metastatic tumours:** Suspect if known malignancy + new murmurs, arrhythmias, heart failure, pericardial effusion. Drain effusion (subxiphoid/VATS) if tamponade. Main goal – palliation, tissue diagnosis.
 
 ### Outcomes
-* Benign tumours – recurrence rare (<7% sporadic, up to 20% familial/Carney’s). Complete excision recommended.
-* Malignant/metastatic – poor prognosis.
+* **Benign tumours:** recurrence rare (<7% sporadic, up to 20% familial/Carney’s). Complete excision recommended.
+* **Malignant/metastatic:** poor prognosis.
 
 </div></details>
 
@@ -42,7 +44,10 @@ Of all primary cardiac tumors, approximately 25% are malignant. In adults, most 
 
 Neoplasia of the heart and pericardium are much more likely to be secondary or metastatic, rather than primary. Reports of prevalence derived from large autopsy studies of patients with known malignancy demonstrate cardiac and/or pericardial involvement in up to one in five patients. Metastases may be seen as a result of either direct invasion or extension (such as lung cancer or mesothelioma), through lymphatic channels (such as Hodgkin's or large cell lymphoma) or via hematogenous routes (such as breast, melanoma, pancreas, gastric, and renal malignancies).
 
-<span id="table-37-1"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-37-1"></span>TABLE 37-1: Incidence of benign cardiac tumors (modified from McAllister & Fegnolio, 1978)</summary><div class="details-content">
+
 | Tumor type | Adults (n=241) | Children (n=78) |
 |------------|----------------|-----------------|
 | Myxoma | 49% | 15.5% |
@@ -54,9 +59,12 @@ Neoplasia of the heart and pericardium are much more likely to be secondary or m
 | Fibroma | 2% | 15.5% |
 | AV node mesothelioma | 4% | 4% |
 
-**TABLE 37.1** Incidence of benign cardiac tumors (modified from McAllister & Fegnolio, 1978).
+</div></details>
 
-<span id="table-37-2"></span>
+<details class="med-details"><summary>
+
+#### <span id="table-37-2"></span>TABLE 37-2: Incidence of primary malignant cardiac tumors (modified from Allard et al., 1996)</summary><div class="details-content">
+
 | Tumor type | Adults (n=117) | Children (n=9) |
 |------------|----------------|-----------------|
 | Angiosarcoma | 33% | – |
@@ -69,7 +77,7 @@ Neoplasia of the heart and pericardium are much more likely to be secondary or m
 | Neurogenic sarcoma | 3% | 11% |
 | Other | 3% | 44% |
 
-**TABLE 37.2** Incidence of primary malignant cardiac tumors (modified from Allard et al., 1996).
+</div></details>
 
 <details class="med-details"><summary>
 

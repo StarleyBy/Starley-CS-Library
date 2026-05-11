@@ -1,5 +1,7 @@
 # Ebstein's malformation of the tricuspid valve: surgical treatment and cone repair
 
+##### This chapter describes Ebstein's malformation of the tricuspid valve, including anatomy, pathophysiology, diagnosis, and surgical management with emphasis on the cone repair technique, postoperative care, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -48,7 +50,7 @@
 * **Hospital mortality (excluding neonates):** 2.5%. Neonatal biventricular repair mortality 25%.
 * **Since Jan 2013 (74 patients, excluding neonates):** 0% mortality.
 * **Late deaths:** 2.6%. Reoperation for re‑repair 3%, for TV replacement 0.5%.
-* **Tricuspid regurgitation:** Markedly reduced (see Fig. 47.8). TV stenosis mild in one patient (no clinical consequence).
+* **Tricuspid regurgitation:** Markedly reduced ([Fig. 47.8](#fig-47-8)). TV stenosis mild in one patient (no clinical consequence).
 
 ### Comments and Adjuncts
 * **Key to competence:** Extensive mobilization to avoid tension and dehiscence. Incorporate septal leaflet (often combined with inferior leaflet) to prevent both stenosis and insufficiency.
@@ -111,11 +113,13 @@ In neonatal EM, the TV echocardiographic assessment using the Great Ormond Stree
 
 MRI allows accurate assessment of size and function of both the right and left ventricles. Furthermore, it can distinguish and accurately determine size and function of the functional and atrialized RVs. It can also provide information about TV anatomy.
 
-<span id="fig-47-1"></span>![](_page_47_Picture_1a.jpeg)
-  
+<span id="fig-47-1a"></span>![](_page_47_Picture_1a.jpeg)
+
+**FIGURE 47.1a** Preoperative MRI: abnormal papillary muscles and endocardial bands tethering the anterior leaflet (arrows).
+
 <span id="fig-47-1b"></span>![](_page_47_Picture_1b.jpeg)
 
-**FIGURE 47.1a,b** Preoperative magnetic resonance image of a 19‑year‑old girl with severe Ebstein's anomaly. The arrows point at abnormal papillary muscles and endocardial bands tethering the anterior leaflet of the tricuspid valve to the anterior wall of the right ventricle (a). The dotted line in (b) shows the aimed systolic position for the anterior leaflet after its extensive mobilization.
+**FIGURE 47.1b** Preoperative MRI: dotted line shows aimed systolic position for anterior leaflet after mobilization.
 
 </div></details>
 
@@ -185,27 +189,39 @@ The surgical methods to achieve TV mobilization in Ebstein's anomaly are based u
 
 The **anterior and posterior leaflets** of the TV are mobilized as a single piece. This starts with an incision at its proximal attachment to the atrioventricular junction (12 o'clock position) and moves clockwise, toward the displaced posterior leaflet. The incision terminates when the posterior leaflet is completely released from its abnormal proximal attachment to the RV wall. This gives access to the space between these leaflets and the RV wall, allowing sectioning of all abnormal papillary muscle, myocardial bridges, and cordal tissues that tether these leaflets to the RV wall, restricting its movements. The posterior papillary muscle, usually positioned at the anteroposterior commissure, must be freed from its more proximal attachment to the RV wall, keeping only its supports near the RV apex. In some cases it is necessary to completely release the posterior leaflet from its abnormal attachments to the RV, taking only its membranous portion, in order to permit its medial rotation to join the septal leaflet for the composition of the septal aspect of the cone.
 
-<span id="fig-47-2"></span>![](_page_47_Picture_2a.jpeg)
-  
+<span id="fig-47-2a"></span>![](_page_47_Picture_2a.jpeg)
+
+**FIGURE 47.2a** Inferior and posterior leaflets anatomy: dotted line shows displaced annulus, dashed line shows true tricuspid annulus.
+
 <span id="fig-47-2b"></span>![](_page_47_Picture_2b.jpeg)
-  
+
+**FIGURE 47.2b** Anterior leaflet mobilization.
+
 <span id="fig-47-2c"></span>![](_page_47_Picture_2c.jpeg)
-  
+
+**FIGURE 47.2c** Section of inferior leaflet proximal connection to RV wall.
+
 <span id="fig-47-2d"></span>![](_page_47_Picture_2d.jpeg)
 
-**FIGURE 47.2a–d** Anterior and inferior leaflets of the tricuspid valve mobilized as a single piece. (a) Inferior and posterior leaflets anatomy: dotted line shows the displaced and the dashed line shows the true tricuspid annulus; (b) anterior leaflet mobilization; (c) section of inferior leaflet proximal connection to RV wall; (d) the completely mobilized anterior and inferior leaflets.
+**FIGURE 47.2d** Completely mobilized anterior and inferior leaflets.
 
 The **TV anteroseptal commissure** is approached with the goal of creating a future space between the ventricular septum and the septal aspect of the cone and to move the opening axis of the TV toward the RV apex. An incision is made at the proximal attachment line of anterior leaflet, approximately 1 cm anterior to the anteroseptal commissure, and continued counterclockwise down to the septal leaflet, which is mobilized to its lateral limit. Stay sutures are placed at the proximal edge of the leaflet, providing good exposure to the subvalvar apparatus of the septal aspect of the anterior leaflet, septal leaflet, and the anteroseptal commissure. The tissues that are holding the proximal portion of these leaflets to the septum are divided. In cases that present with the TV opening toward the RVOT, it is necessary to mobilize or cut the papillary muscle abnormally attached at the RVOT. In some cases, the medial papillary muscle, which is usually related to the anterior and septal leaflet at its commissure, is fused to the septum and can be mobilized deeply, giving improved mobility to that area of the future cone.
 
-<span id="fig-47-3"></span>![](_page_47_Picture_3a.jpeg)
-  
+<span id="fig-47-3a"></span>![](_page_47_Picture_3a.jpeg)
+
+**FIGURE 47.3a** Incision at proximal attachment line of anterior leaflet.
+
 <span id="fig-47-3b"></span>![](_page_47_Picture_3b.jpeg)
-  
+
+**FIGURE 47.3b** Incision continued anticlockwise.
+
 <span id="fig-47-3c"></span>![](_page_47_Picture_3c.jpeg)
-  
+
+**FIGURE 47.3c** Mobilization of medial papillary muscle.
+
 <span id="fig-47-3d"></span>![](_page_47_Picture_3d.jpeg)
 
-**FIGURE 47.3a–d** Anteroseptal commissure mobilization. (a) An incision made at the proximal attachment line of anterior leaflet continues anticlockwise (b), mobilizes the medial papillary muscle (c), and reaches the septal leaflet (d), which is mobilized as deep as possible.
+**FIGURE 47.3d** Septal leaflet mobilized as deep as possible.
 
 </div></details>
 
@@ -222,17 +238,25 @@ The principal methods for the septal leaflet incorporation to the cone are as fo
 - **1.** Placing a vertical suture joining the septal leaflet superior edge to the septal edge of the anterior leaflet, followed by a second suture line uniting the septal leaflet inferior edge to the lateral edge of the posterior leaflet. This approach is used for septal leaflet that are large after being mobilized.
 - **2.** Combining the septal leaflet with the completely detached posterior leaflet. These leaflet plication and combining maneuvers will increase the depth of the cone and reduce its proximal circumference.
 
-<span id="fig-47-4"></span>![](_page_47_Picture_4a.jpeg)
-  
+<span id="fig-47-4a"></span>![](_page_47_Picture_4a.jpeg)
+
+**FIGURE 47.4a** Vertical suture joins septal leaflet superior edge to medial edge of anterior leaflet.
+
 <span id="fig-47-4b"></span>![](_page_47_Picture_4b.jpeg)
-  
+
+**FIGURE 47.4b** Second vertical suture.
+
 <span id="fig-47-4c"></span>![](_page_47_Picture_4c.jpeg)
-  
+
+**FIGURE 47.4c** Second suture line uniting septal leaflet inferior edge to lateral edge of inferior leaflet.
+
 <span id="fig-47-4d"></span>![](_page_47_Picture_4d.jpeg)
-  
+
+**FIGURE 47.4d** For small septal leaflet: combined with inferior leaflet by vertical suture.
+
 <span id="fig-47-4e"></span>![](_page_47_Picture_4e.jpeg)
 
-**FIGURE 47.4a–e** Septal leaflet incorporation. (a) A vertical suture joins the septal leaflet superior edge to the medial edge of the anterior leaflet (b), and a second suture line (c) unites the septal leaflet inferior edge to the lateral edge of the inferior leaflet. In cases with small septal leaflet it is combined with the completely detached inferior leaflet by a vertical suture (d), followed by a horizontal suture (e).
+**FIGURE 47.4e** Horizontal suture after combination.
 
 </div></details>
 
@@ -254,19 +278,25 @@ This begins with the **vertical plication of the thin and attenuated RV free wal
 
 The cone is attached proximally to the true annulus over 360 degrees and with no tension in either the horizontal or vertical plane.
 
-<span id="fig-47-5"></span>![](_page_47_Picture_5a.jpeg)
-  
+<span id="fig-47-5a"></span>![](_page_47_Picture_5a.jpeg)
+
+**FIGURE 47.5a** Constructed cone.
+
 <span id="fig-47-5b"></span>![](_page_47_Picture_5b.jpeg)
-  
+
+**FIGURE 47.5b** Cone reattachment starting at anterior position.
+
 <span id="fig-47-5c"></span>![](_page_47_Picture_5c.jpeg)
 
-**FIGURE 47.5a–c** Cone attachment to true tricuspid annulus. The constructed cone (a) is reattached to the true tricuspid annulus starting at the anterior position (b) and completing the attachment (c), taking superficial bites when suturing near the atrioventricular node area (arrow).
+**FIGURE 47.5c** Completed attachment; arrow shows area near AV node where superficial bites are taken.
 
-<span id="fig-47-6"></span>![](_page_47_Picture_6a.jpeg)
-  
+<span id="fig-47-6a"></span>![](_page_47_Picture_6a.jpeg)
+
+**FIGURE 47.6a** Cone construction by rotation of inferior leaflet combined with septal leaflet (before attachment).
+
 <span id="fig-47-6b"></span>![](_page_47_Picture_6b.jpeg)
 
-**FIGURE 47.6a,b** Cone construction done by rotation of the inferior leaflet, which was combined with the septal leaflet (a), before attachment to the true tricuspid annulus (b). AL, anterior leaflet; IL, inferior leaflet; SL, septal leaflet.
+**FIGURE 47.6b** Cone after attachment to true annulus. AL, anterior leaflet; IL, inferior leaflet; SL, septal leaflet.
 
 Judgment is required so that the proximal cone circumference is correct for the true annular dimension. The true annulus can be further reduced by separate plication at 2–3 o'clock and 9 o'clock. The cone proximal circumference can be reduced by leaflet plication. The initial attachment and assessment is carried out with the placement of 5‑0 polypropylene single sutures to obtain an even distribution of the valve in the tricuspid annulus. Then, the suture line is completed with a running suture. Special care should be taken when suturing the area of the annulus, just medial to the coronary sinus, due to the risk of heart block. The use of a prosthetic ring may be considered for reinforcement in patients with a fragile adult size annulus.
 
@@ -286,23 +316,29 @@ The ASD/PFO is closed in a valved fashion, in a way that allows blood shunting f
 
 In some anatomical situations, the three leaflets are connected at the commissures and the distal attachment of the TV to the RV is well formed. In these cases, after mobilization from their displaced hinge line and release of abnormal connections to the RV wall, some plications are made at the distal and proximal edges, reducing its proximal and distal circumferences and widening the septal and posterior leaflets to give a cone shape to the TV.
 
-Patients presenting with Carpentier's type D anatomy of Ebstein's anomaly can also be treated with the cone technique. Figure 47.7 depicts one of the four patients successfully repaired by taking down the leaflets as a single piece, keeping only the distal direct attachment of the leaflet to the RV. Vertical fenestrations were provided at the distal third of this large leaflet. Then, the lateral and medial edges of this leaflet were sutured together, resulting in a cone‑like structure.
+Patients presenting with Carpentier's type D anatomy of Ebstein's anomaly can also be treated with the cone technique. ([Fig. 47.7a–d](#fig-47-7a)) depicts one of the four patients successfully repaired by taking down the leaflets as a single piece, keeping only the distal direct attachment of the leaflet to the RV. Vertical fenestrations were provided at the distal third of this large leaflet. Then, the lateral and medial edges of this leaflet were sutured together, resulting in a cone‑like structure.
 
-<span id="fig-47-7"></span>![](_page_47_Picture_7a.jpeg)
-  
+<span id="fig-47-7a"></span>![](_page_47_Picture_7a.jpeg)
+
+**FIGURE 47.7a** Preoperative MRI of type D Ebstein's anomaly.
+
 <span id="fig-47-7b"></span>![](_page_47_Picture_7b.jpeg)
-  
+
+**FIGURE 47.7b** Preoperative MRI (another view).
+
 <span id="fig-47-7c"></span>![](_page_47_Picture_7c.jpeg)
-  
+
+**FIGURE 47.7c** Intraoperative photo: leaflets tethered to RV wall.
+
 <span id="fig-47-7d"></span>![](_page_47_Picture_7d.jpeg)
 
-**FIGURE 47.7a–d** Preoperative magnetic resonance images and intraoperative photos depicting the heart's anatomy of a 4‑year‑old girl with type D Ebstein's anomaly (Carpentier's classification). Images (a), (b) and (c) show that the tricuspid valve leaflets are tethered to the right ventricle wall. Image (d) shows that there is only a small hole (H), communicating the atrialized to the functional right ventricle.
+**FIGURE 47.7d** Only a small hole (H) communicates atrialized to functional RV.
 
 As in all other cases, the cone was revised, and any holes/fenestrations in the proximal two‑thirds of the cone's membranous tissues are closed in order to have similar depth circumferentially and to prevent regurgitation leaks. Also, fenestrations should be present, natural or surgically created, at the distal third of the cone to allow unrestricted forward blood flow from RA to RV in diastole.
 
 From November 1993 to July 2018, 208 consecutive patients with Ebstein's malformation underwent surgical treatment in our department at the Beneficencia Portuguesa Hospital in Sao Paulo, Brazil and at UPMC Children's Hospital of Pittsburgh, all patients repaired with the Cone technique, except for one who required tricuspid valve replacement as the initial procedure (0.5%). The hospital mortality was 2.5%, excluding the eight patients submitted to biventricular treatment in the neonatal period, who presented a mortality rate of 25%. There were five late deaths (2.6%) and six patients required reoperation in the long term for re‑repair (3%) and one for TV replacement (0.5%). Since January 2013, after we modernized our overall care, we have operated on 74 patients without mortality, excluding the neonatal patients.
 
-Tricuspid regurgitation was markedly diminished after repair (Figure 47.8). TV stenosis was observed in only one patient during long‑term follow‑up, which was mild on echocardiogram and had no clinical consequences.
+Tricuspid regurgitation was markedly diminished after repair ([Fig. 47.8](#fig-47-8)). TV stenosis was observed in only one patient during long‑term follow‑up, which was mild on echocardiogram and had no clinical consequences.
 
 <span id="fig-47-8"></span>![](_page_47_Picture_8.jpeg)
 
@@ -357,3 +393,5 @@ Some studies suggest that the cone technique has a valuable impact on RV remodel
 </div></details>
 
 </div></details>
+
+---

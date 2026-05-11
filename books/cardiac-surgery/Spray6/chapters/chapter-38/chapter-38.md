@@ -80,7 +80,7 @@ Appropriate patient selection is essential for achieving optimal benefit and min
 
 <details class="med-details"><summary>
 
-### Complications related to transvenous device implantation</summary><div class="details-content">
+#### Complications related to transvenous device implantation</summary><div class="details-content">
 
 Complications related to transvenous device implantation in general include pneumothorax and/or hemothorax relating to access site puncture, cardiac perforation during lead placement, pocket hematoma, and/or infection. Myocardial infarction, stroke, death, and complications due to anesthesia are rare but must be discussed when obtaining informed consent. Complications specific to endocardial LV lead placement include CS dissection or perforation, extracardiac stimulation by the LV lead such as diaphragmatic pacing, and acute heart failure. A small risk of renal injury or allergic reaction due to IV contrast injection must also be disclosed. Overall complications rate is approximately 2–4%, and major complication rate 1–2%.
 
@@ -88,7 +88,7 @@ Complications related to transvenous device implantation in general include pneu
 
 <details class="med-details"><summary>
 
-### Complications related to robotic LV lead placement</summary><div class="details-content">
+#### Complications related to robotic LV lead placement</summary><div class="details-content">
 
 Complications related to robotic LV lead placement include a 1–2% risk of bleeding and/or infection. General anesthesia can precipitate a CHF exacerbation in patients with a very low LVEF. Finally, intercostal neuropathy can be seen in up to 5% of patients undergoing thoracoscopy.
 
@@ -218,7 +218,7 @@ Retrograde venography of the CS is then performed via a balloon tipped catheter.
 
 **FIGURE 38.3b** Retrograde venography (RAO view) showing coronary sinus tributaries.
 
-<span id="fig-38-3c"></span>![](_page_38_Picture_3c.jpeg)   *(Note: The original contains two similar images; the second is labeled 38.3c in the source.)
+<span id="fig-38-3c"></span>![](_page_38_Picture_3c.jpeg)
 
 **FIGURE 38.3c** Retrograde venography (LAO view).
 

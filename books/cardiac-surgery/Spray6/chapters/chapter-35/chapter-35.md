@@ -1,163 +1,316 @@
-# [Aortic dissection: type A and B](#page--1-0)
+# Aortic dissection: type A and B
 
-## ARMAN KILIC AND PRASHANTH VALLABHAJOSYULA
+<details class="med-details"><summary>
 
-#### **HISTORY**
+## Executive Summary</summary><div class="details-content">
+
+### Classification and Natural History
+* **Stanford classification:** Type A involves ascending aorta (surgical emergency). Type B does not involve ascending aorta (initially medical or endovascular). DeBakey type I originates in ascending aorta and extends beyond; type II confined to ascending; type III originates in descending aorta.
+* **Acute vs chronic:** Acute defined as symptoms ≤2 weeks. Chronic traditionally >2 weeks; hyperacute and subacute definitions debated. Untreated acute type A (TAAD) mortality ~1% per hour, 50% dead by day 3, 80% by end of week 2.
+* **Complicated type B (TBAD):** Defined by aortic rupture, malperfusion, refractory pain, or rapid expansion. Uncomplicated TBAD (70–80% of cases) has in‑hospital mortality <10% with medical management, but 3‑year survival only 75–80% with 25–50% late aortic complications.
+
+### Risk Factors and Presentation
+* **Predisposing factors:** Hypertension, aortic aneurysmal disease, connective tissue disorders.
+* **Symptoms:** TAAD – abrupt chest pain; TBAD – back or abdominal pain. Hypotension suggests rupture, tamponade, coronary ostia involvement, or acute aortic regurgitation. Diminished femoral pulses = limb ischemia. Syncope, stroke, rising creatinine indicate malperfusion.
+
+### Indications for Surgery – TAAD
+* **Absolute indication:** Diagnosis itself. Relative contraindications: age >80 years (debated), dialysis‑dependent renal failure, advanced cirrhosis, devastating neurologic injury (but neurologic symptoms may resolve postop if no intracranial abnormalities on imaging).
+
+### Indications for Surgery – Acute TBAD
+* **Uncomplicated with high‑risk features:** Initial aortic diameter ≥4 cm with patent false lumen, intramural hematoma with penetrating ulcer in proximal descending aorta, initial false lumen diameter ≥22 mm in proximal descending aorta, recurrent/refractory pain or hypertension → increasing evidence supports thoracic endovascular repair (TEVAR) to promote aortic remodeling and false lumen thrombosis.
+* **Complicated TBAD:** End‑organ malperfusion, refractory pain, rapidly expanding false lumen, impending/frank rupture, chronic aneurysmal dilatation → TEVAR preferred over open repair (open mortality 15–50%, TEVAR 0–15% with many series <5%).
+
+### Indications for Surgery – Chronic Dissection
+* **Chronic TAAD:** Prior cardiac surgery common. Indications: moderate/severe aortic insufficiency with LV dilatation or heart failure, rapid aortic diameter increase ≥0.5 cm/year, large dissecting aneurysm, hemodynamic instability, new chest pain or neurologic symptoms.
+* **Chronic TBAD:** Aneurysmal dilatation >5.0–6.0 cm or rapid expansion >1.0 cm/year.
+
+### Preoperative Assessment
+* **Emergent setting:** Quick assessment of mental status, neurologic function, femoral pulses, abdominal pain, hemodynamics – sometimes on OR table. Permissive hypotension (if mentating) in rupture/instability.
+* **Hemodynamic targets in stable patient:** HR <60 bpm, SBP <120 mmHg. IV beta‑blockers first, add vasodilators if BP still elevated after rate control.
+* **Imaging critical for planning:** CT angiography for tear location, dissection extent, branch vessel involvement. For TAAD – right axillary artery should be undissected if planning axillary cannulation. For TBAD – access vessel diameter/tortuosity/calcification, landing zones, left subclavian coverage.
+
+### Anesthesia
+* **Open sternotomy:** Standard monitoring + near‑infrared spectroscopy and EEG for TAAD. Vasoactive agents (nitroglycerin, phenylephrine) available. Opening pericardium may cause hypertension → risk of rupture.
+* **TBAD (left chest entry):** Double‑lumen endotracheal tube for single‑lung ventilation. TEVAR under general or local anesthesia. Cerebrospinal fluid drainage reduces paraplegia risk but not always possible emergently.
+
+### Operative Techniques – TAAD
+* **Cannulation options:** Right axillary artery (if not dissected), direct ascending aorta with TEE guidance, or femoral artery. Right axillary exposure: 2 cm incision below clavicle, 8–10 mm Dacron graft sewn end‑to‑side.
+* **Cerebral protection:** Moderate vs deep hypothermic circulatory arrest (MHCA/DHCA). Antegrade cerebral perfusion (ACP) via axillary or direct ostial; retrograde cerebral perfusion (RCP) via SVC. ACP flows 10–12 mL/kg/min, right radial pressure 50–60 mmHg; RCP central venous pressure 20–25 mmHg.
+* **Proximal reconstruction:** Crossclamp aorta, open ascending, identify true/false lumens. Direct antegrade ostial cardioplegia (ostia friable). Transect aorta 1–2 cm above STJ. Repair tears with pledgeted 4‑0 polypropylene. Root replacement if extensive. Valve resuspension: horizontal mattress 4‑0 pledgeted sutures 5 mm above each commissure (inside and outside). Neomedia technique: felt trimmed into dissected spaces, secured with 5‑0 polypropylene.
+* **Hemi‑arch repair:** If no arch tear or extensive arch vessel dissection or pre‑existing arch aneurysm. Aggressive hemi‑arch resecting most of lesser curve. Telescoped Dacron graft anastomosed with 4‑0 SH polypropylene. Restart CPB via axillary cannula or direct graft cannulation.
+* **Total arch replacement:** For pre‑existing arch aneurysm, arch tear, or extensive arch vessel involvement. Under circulatory arrest + ACP/RCP. Transect distal arch distal to left subclavian. Trifurcated graft. Left subclavian and left carotid anastomoses with 5‑0 polypropylene. Distal with 4‑0.
+* **Other options:** Zone 2 arch repair (between left carotid and left subclavian) with interval TEVAR. Frozen elephant trunk (total arch + antegrade descending stent). Primary arch tear repair + aggressive hemi‑arch + antegrade TEVAR for DeBakey type I malperfusion.
+
+### Operative Techniques – TBAD Open Repair
+* **Positioning:** Right lateral decubitus, pelvis tilted posteriorly. Posterolateral thoracotomy 4th or 5th ICS. May extend to thoracoabdominal.
+* **Circulatory management:** Hypothermic circulatory arrest (avoids clamping dissected aorta) or left atrial‑femoral bypass. Cannulate distal aorta or femoral artery, left femoral vein for long cannula, left ventricular vent via left inferior pulmonary vein.
+* **Open repair:** Open aorta longitudinally, control intercostal arteries. Transect, size, sew Dacron graft end‑to‑end with 3‑0 polypropylene. If malperfusion persists, fenestration (percutaneous or surgical) or femoral‑femoral/axillo‑femoral bypass.
+
+### Operative Techniques – TEVAR for TBAD
+* **Goal:** Cover primary intimal tear to restore true lumen flow; radial pressure promotes false lumen thrombosis and aortic remodeling.
+* **Access:** Larger, less calcified/tortuous femoral artery. Surgical cutdown if needed. Alternative: 10 mm conduit to common iliac via retroperitoneal exposure (10–20% of cases).
+* **Procedure:** Percutaneous 5–6 Fr sheath in contralateral femoral (or brachial). Pigtail catheter to arch. Aortography or IVUS to confirm true lumen. Proximal landing zone visualized at 45–75° LAO. Super‑stiff wire. Heparin. Stent graft not oversized >10% (to prevent retrograde dissection). Deploy at SBP 100 mmHg. Completion angiography for endoleaks (type I: extension graft or careful ballooning).
+* **Persistent malperfusion:** Fenestration or branch vessel stenting.
+
+### Postoperative Care
+* **Immediate:** ICU, SBP 90–110 mmHg with vasoactive agents. Wean sedation, neurological exam. If fails to follow commands → head CT.
+* **Paraplegia (after descending repair):** Aggressive treatment: MAP 85–95 mmHg, CSF drainage at 10 cm H₂O, volume expansion, correct anemia/hypoxia, neurology consult.
+* **Bleeding:** Factor VII or prothrombin complex concentrate for coagulopathic patients after ruling out surgical source (avoids volume overload).
+* **Long‑term:** SBP <120 mmHg with antihypertensives. Imaging before discharge, then at 6‑month intervals for first year. Echocardiography for aortic insufficiency after TAAD.
+
+### Outcomes
+* **TAAD repair in‑hospital mortality:** 17–26% (IRAD). Major complications: reoperation for bleeding 5–20%, acute renal failure 10–25%, limb ischemia 5–15%, stroke 5–15%. Long‑term survival: 70–90% at 5 years, 55–65% at 10 years. Freedom from aortic reoperation ~80–90% at 10 years.
+* **Open complicated TBAD mortality:** 20–30%, stroke 5–10%, paraplegia 5–10%, renal failure 5–20%.
+* **TEVAR for TBAD:** Technical success >95%. Operative mortality 0–15% (many <5%), paraplegia 0–5%, endoleak 2–40%, false lumen thrombosis 60–100%. Long‑term survival 65–100% (follow‑up up to 40 months). Superior to open repair when feasible.
+
+</div></details>
+
+---
+
+<details class="med-details"><summary>
+
+## HISTORY</summary><div class="details-content">
 
 Historical descriptions of aortic dissection date back several centuries. The death of the British King George II in 1760 from cardiac tamponade in the setting of a type A aortic dissection (TAAD) was documented in detail by his personal physician, Frank Nicholls. Rene Laennec, the inventor of the stethoscope, first used the term "dissecting aneurysm" in 1819. The first successful surgical repair of a dissecting thoracic aortic aneurysm was performed by DeBakey, Cooley, and Creech more than a century later, in 1954. This chapter provides an overview of the approach to patient management for both TAAD and uncomplicated and complicated type B aortic dissection (TBAD), with particular attention to technical details of surgical therapy.
 
-#### **PRINCIPLES AND JUSTIFICATION**
+</div></details>
 
-#### **Classification**
+<details class="med-details"><summary>
 
-Aortic dissections are classified according to the time from onset of symptoms to presentation, and anatomically according to the extent of the dissection. Acute aortic dissection corresponds to symptoms that have been present for 2 weeks or less. Traditionally, chronic dissection referred to symptoms lasting more than 2 weeks although further subdivisions are being considered to include such time classifications as hyperacute and subacute, the exact definitions of which are debated. Anatomic classification is based on either the Stanford or DeBakey classification (**Figure 35.1**). Stanford type A dissections involve the ascending aorta whereas Stanford type B aortic dissections do not involve the ascending aorta. DeBakey type I aortic dissection originates but is not confined to the ascending aorta. DeBakey type II aortic dissection originates and is confined to the ascending aorta, whereas DeBakey type III aortic dissection originates in the descending aorta. TBADs are further classified into uncomplicated versus complicated, the latter being defined as the presence of aortic rupture, malperfusion, refractory pain, or rapid expansion.
+## PRINCIPLES AND JUSTIFICATION</summary><div class="details-content">
 
-![](_page_0_Picture_8.jpeg)
+<details class="med-details"><summary>
 
-**35.1**
+### Classification</summary><div class="details-content">
 
-#### **Risk factors, presentation, and diagnosis**
+Aortic dissections are classified according to the time from onset of symptoms to presentation, and anatomically according to the extent of the dissection. Acute aortic dissection corresponds to symptoms that have been present for 2 weeks or less. Traditionally, chronic dissection referred to symptoms lasting more than 2 weeks although further subdivisions are being considered to include such time classifications as hyperacute and subacute, the exact definitions of which are debated. Anatomic classification is based on either the Stanford or DeBakey classification (Figure 35.1). Stanford type A dissections involve the ascending aorta whereas Stanford type B aortic dissections do not involve the ascending aorta. DeBakey type I aortic dissection originates but is not confined to the ascending aorta. DeBakey type II aortic dissection originates and is confined to the ascending aorta, whereas DeBakey type III aortic dissection originates in the descending aorta. TBADs are further classified into uncomplicated versus complicated, the latter being defined as the presence of aortic rupture, malperfusion, refractory pain, or rapid expansion.
+
+<span id="fig-35-1"></span>![](_page_35_Picture_1.jpeg)
+
+**FIGURE 35.1** Stanford and DeBakey classification schematics.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Risk factors, presentation, and diagnosis</summary><div class="details-content">
 
 Predisposing risk factors for aortic dissection include a history of hypertension, aneurysmal disease of the aorta, and connective tissue disorders. Abrupt onset of chest pain is typical for acute TAAD whereas back pain or abdominal pain is more common in TBAD. Tachycardia and hypertension are usually presenting signs due to anxiety, pain, and baseline hypertension. Some patients will present with hypotension in the setting of aortic rupture, pericardial tamponade, myocardial ischemia from involvement of the coronary ostia, or acute aortic valve regurgitation. Diminished or absent pulses in the femoral arteries signify limb ischemia. Syncope, stroke, or other neurologic manifestations of cerebral malperfusion may be present as well. Renal malperfusion may present as rising creatinine or declining urine output.
 
-# **Indications for surgical repair of acute type A aortic dissection**
+In patients presenting with symptoms or signs concerning for an acute TAAD, expeditious diagnosis by imaging is essential. At some centers, patients with suspected TAAD who are being transferred are brought directly to the operating room for confirmation of the diagnosis. The most common imaging modalities for TAAD are computed tomography angiography and echocardiography. In hemodynamically unstable patients with suspected acute TAAD, transesophageal echocardiography in the operating room can be used for diagnosis in order to minimize time to emergent surgical repair. For patients with TBAD, computed tomography angiography of the chest, abdomen, and pelvis is important to delineate the entire extent of the dissection. Magnetic resonance imaging can also be used for both TAAD and TBAD although it is much less commonly utilized.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Indications for surgical repair of acute type A aortic dissection</summary><div class="details-content">
 
 Without treatment, acute TAAD has a mortality rate of approximately 1% per hour. Moreover, 50% of patients with untreated acute TAAD are dead by the third day and almost 80% are dead by the end of the second week. This high mortality rate has led to an aggressive surgical approach to acute TAAD, with the diagnosis itself being an indication for surgical repair. Although each case is evaluated in an individualized manner, relative contraindications to operative repair include age greater than 80 years, although this threshold is debated and differs between providers and between institutions, and severe comorbidities such as dialysis-dependent renal failure or advanced liver cirrhosis. Devastating neurologic injury is also viewed as a contraindication, although typically imaging evidence of neurologic injury is necessary to deem TAAD repair futile. Moreover, some patients who present with neurologic symptoms in the setting of TAAD will resolve these symptoms postoperatively, particularly when there are no intracranial abnormalities on imaging studies.
 
-# **Indications for surgical repair of acute type B aortic dissection**
+</div></details>
 
-In acute TBAD, it is important to distinguish whether it is uncomplicated or complicated. Approximately 70–80% of TBADs are uncomplicated and have traditionally been managed medically with anti-impulse and anti-hypertensive medications. In-hospital mortality with medical management in uncomplicated TBAD is less than 10%. Despite low rates of early mortality, emerging evidence suggests a 3-year survival of only 75–80% with a 25–50% rate of late aorticrelated complications in medically managed patients. In patients with uncomplicated TBAD with high risk features, which include an initial aortic diameter of at least 4 cm or greater with a patent false lumen, intramural hematoma with a penetrating aortic ulcer in the proximal descending thoracic aorta, initial false lumen diameter of 22 mm or greater in the proximal descending thoracic aorta, or recurrent or refractory pain or hypertension, there is now an increasing body of evidence to support thoracic endovascular repair (TEVAR) to help promote aortic remodeling and false lumen thrombosis and thereby prevent late aortic-related complications.
+<details class="med-details"><summary>
+
+## Indications for surgical repair of acute type B aortic dissection</summary><div class="details-content">
+
+In acute TBAD, it is important to distinguish whether it is uncomplicated or complicated. Approximately 70–80% of TBADs are uncomplicated and have traditionally been managed medically with anti-impulse and anti-hypertensive medications. In-hospital mortality with medical management in uncomplicated TBAD is less than 10%. Despite low rates of early mortality, emerging evidence suggests a 3-year survival of only 75–80% with a 25–50% rate of late aortic-related complications in medically managed patients.
+
+In patients with uncomplicated TBAD with high risk features, which include an initial aortic diameter of at least 4 cm or greater with a patent false lumen, intramural hematoma with a penetrating aortic ulcer in the proximal descending thoracic aorta, initial false lumen diameter of 22 mm or greater in the proximal descending thoracic aorta, or recurrent or refractory pain or hypertension, there is now an increasing body of evidence to support thoracic endovascular repair (TEVAR) to help promote aortic remodeling and false lumen thrombosis and thereby prevent late aortic-related complications.
 
 Repair is warranted in patients with complicated TBAD. This includes cases of end-organ malperfusion, refractory pain, rapidly expanding false lumen, impending or frank rupture, and chronic aneurysmal dilatation. Traditionally this has been done through an open repair; however, perioperative mortality with this approach has been high, ranging from 15% to 50%. Surgical therapy usually consists of graft replacement of the descending thoracic aorta or thoracoabdominal aorta, with hypothermic circulatory arrest used in approximately half of cases in multicenter registries. Remaining patients were treated with surgical fenestration. TEVAR has been used increasingly for complicated TBAD given the significant morbidity and mortality rates associated with open repair. In cases of dynamic malperfusion, placement of a stent graft reliably leads to reperfusion whereas in cases of a combination of dynamic and static malperfusion the rate of reperfusion is lower with stent placement alone. Multiple studies, including those from the International Registry of Acute Aortic Dissection, have demonstrated lower operative mortality and morbidity with TEVAR as compared to open surgical repair.
 
-# **Indications for surgical repair of chronic aortic dissection**
+</div></details>
 
-Chronic TAAD patients more frequently have undergone prior cardiac surgery. Indications for surgical repair include moderate or severe aortic insufficiency with left ventricular dilatation or heart failure symptoms, rapid aortic diameter increase of at least 0.5 cm per year, large dissecting aneurysm, hemodynamic instability, or onset of new chest pain or neurologic symptoms. In chronic TBAD, the most common indications for repair are aneurysmal dilatation of the dissected aorta greater than 5.0-6.0 cm, or rapid expansion greater than 1.0 cm per year.
+<details class="med-details"><summary>
 
-# **PREOPERATIVE ASSESSMENT AND PREPARATION**
+## Indications for surgical repair of chronic aortic dissection</summary><div class="details-content">
 
-Performing a thorough assessment, particularly in emergent cases such as TAAD or complicated TBAD, can be challenging given the ultimate goal of minimizing time to surgical repair. A quick assessment, sometimes even on the operating room table, of mental status and neurologic function, femoral pulses, abdominal pain, and hemodynamics is essential. This helps quickly establish a baseline assessment of the patient including presence of malperfusion. A review of the electrocardiogram and echocardiogram specifically for evidence of coronary ischemia and aortic regurgitation, pericardial effusion, and the extent of dissection are important. In cases of rupture and hemodynamic instability, permissive hypotension with avoidance of excessive fluid administration is acceptable as long as the patient is mentating. In the stable patient, aortic wall stress should be minimized such that the heart rate is less than 60 beats per minute and the systolic blood pressure is less than 120 mmHg. Intravenous betablockers are typically used to achieve these hemodynamic goals with the addition of vasodilators should the blood pressure remain elevated after heart rate control. Adequate pain control is also important.
+Chronic TAAD patients more frequently have undergone prior cardiac surgery. Indications for surgical repair include moderate or severe aortic insufficiency with left ventricular dilatation or heart failure symptoms, rapid aortic diameter increase of at least 0.5 cm per year, large dissecting aneurysm, hemodynamic instability, or onset of new chest pain or neurologic symptoms. In chronic TBAD, the most common indications for repair are aneurysmal dilatation of the dissected aorta greater than 5.0–6.0 cm, or rapid expansion greater than 1.0 cm per year.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## PREOPERATIVE ASSESSMENT AND PREPARATION</summary><div class="details-content">
+
+Performing a thorough assessment, particularly in emergent cases such as TAAD or complicated TBAD, can be challenging given the ultimate goal of minimizing time to surgical repair. A quick assessment, sometimes even on the operating room table, of mental status and neurologic function, femoral pulses, abdominal pain, and hemodynamics is essential. This helps quickly establish a baseline assessment of the patient including presence of malperfusion. A review of the electrocardiogram and echocardiogram specifically for evidence of coronary ischemia and aortic regurgitation, pericardial effusion, and the extent of dissection are important. In cases of rupture and hemodynamic instability, permissive hypotension with avoidance of excessive fluid administration is acceptable as long as the patient is mentating. In the stable patient, aortic wall stress should be minimized such that the heart rate is less than 60 beats per minute and the systolic blood pressure is less than 120 mmHg. Intravenous beta-blockers are typically used to achieve these hemodynamic goals with the addition of vasodilators should the blood pressure remain elevated after heart rate control. Adequate pain control is also important.
 
 Another critical component of preoperative assessment is a review of the imaging studies. The location of the primary tear, extent of dissection, presence of intramural hematoma or penetrating aortic ulcer, aneurysmal dilatation, and involvement of branch vessels can be delineated from computed tomography scans. In TAAD, this is important for operative planning as the right axillary artery should not be dissected if planning on axillary cannulation, and in addition, involvement of the root or tear in the aortic arch may necessitate more extensive surgery, which will be discussed in further detail later in this chapter. The preoperative computed tomography scan is equally important in TBAD in planning the surgical approach, including suitability for TEVAR based on access vessel diameter, tortuosity, and calcification and suitable landing zones. The proximal extent dictates whether the left subclavian artery will be covered with the need for potential revascularization. Distally, thoracoabdominal extension will also dictate the need for mesenteric debranching and revascularization. These details will also be discussed in further detail in the Operation section of this chapter.
 
-## **ANESTHESIA**
+</div></details>
+
+<details class="med-details"><summary>
+
+## ANESTHESIA</summary><div class="details-content">
 
 In open surgical repairs done through median sternotomy, standard anesthetic monitoring including non-invasive blood pressure monitoring, pulse oximetry, electrocardiogram, invasive arterial blood pressure monitoring, central venous access, Swan-Ganz catheter, temperature probe and temperature-sensing urinary catheter are utilized. In cases of TAAD, near infrared spectroscopy and electroencephalogram can be employed. Red blood cells for possible transfusion should be made available in an expeditious manner. Vasoactive agents such as nitroglycerin and phenylephrine should also be available as the patient can have labile hemodynamics. Moreover, patients with TAAD tend to develop hypertension upon opening the pericardium that untreated can lead to potential rupture in unruptured or contained rupture cases. Standard endotracheal tubes can be used but a double lumen endotracheal tube should be utilized in cases where the left chest will be entered such as TBAD given the need for single lung ventilation. TEVAR can be performed under general or local anesthesia. Some centers will use cerebrospinal fluid drainage to reduce the risk of paraplegia following descending thoracic or thoracoabdominal repair although preoperative placement is not always possible especially in emergent cases.
 
-# **OPERATION**
+</div></details>
 
-# **Type A aortic dissection – cannulation and cerebral protection strategy**
+<details class="med-details"><summary>
 
-The cannulation and cerebral protection strategy for TAAD varies between centers and surgeons. Options for arterial cannulation include the right axillary artery provided it is not dissected, the ascending aorta via Seldinger technique with transesophageal echocardiography guidance, and the femoral artery. Right axillary cannulation is performed before sternotomy by making a 2 cm incision parallel and inferior to the lateral clavicle (**Figure 35.2**). The pectoralis major can be separated and the pectoralis minor identified and divided with electrocautery. The axillary artery can then be palpated inferior to the clavicle. The axillary vein is superficial to the artery and can be mobilized and retracted to provide optimal exposure to the artery. The nerves of the
+## OPERATION</summary><div class="details-content">
 
-![](_page_2_Picture_10.jpeg)
+<details class="med-details"><summary>
 
-![](_page_2_Picture_11.jpeg)
+### Type A aortic dissection – cannulation and cerebral protection strategy</summary><div class="details-content">
 
-brachial plexus should not be handled and sharp dissection should be used near them to avoid electrocautery injury to the nerves. Small arterial branches can be ligated and vessels loops can be placed around larger branches. Once adequately exposed, 5000 units of intravenous heparin is administered and a side-biting clamp is placed on the axillary artery. An arteriotomy is made with an 11-blade and opened with Potts scissors. An 8mm or 10mm Dacron graft is then sewed endto-side to the axillary artery and the arterial cannula placed within the graft and secured with silk ties.
+The cannulation and cerebral protection strategy for TAAD varies between centers and surgeons. Options for arterial cannulation include the right axillary artery provided it is not dissected, the ascending aorta via Seldinger technique with transesophageal echocardiography guidance, and the femoral artery. Right axillary cannulation is performed before sternotomy by making a 2 cm incision parallel and inferior to the lateral clavicle (Figure 35.2). The pectoralis major can be separated and the pectoralis minor identified and divided with electrocautery. The axillary artery can then be palpated inferior to the clavicle. The axillary vein is superficial to the artery and can be mobilized and retracted to provide optimal exposure to the artery. The nerves of the brachial plexus should not be handled and sharp dissection should be used near them to avoid electrocautery injury to the nerves. Small arterial branches can be ligated and vessels loops can be placed around larger branches. Once adequately exposed, 5000 units of intravenous heparin is administered and a side-biting clamp is placed on the axillary artery. An arteriotomy is made with an 11-blade and opened with Potts scissors. An 8 mm or 10 mm Dacron graft is then sewed end-to-side to the axillary artery and the arterial cannula placed within the graft and secured with silk ties.
 
-For direct ascending aortic cannulation, a median sternotomy is performed, and the pericardium is opened and secured to the skin with silk sutures. A single pursestring is then placed in the distal ascending aorta on the lesser curve. A needle is then inserted inside the pursestring at a steep angle and aimed towards the left, a wire passed, and confirmation of the wire inside the true lumen should be done by transesophageal echocardiography (**Figure 35.3**). Once confirmed, the aortotomy is then serially dilated over the wire and the aortic cannula is inserted, again with confirmation of true lumen placement in the distal arch by echocardiography.
+<span id="fig-35-2"></span>![](_page_35_Picture_2a.jpeg)
 
-![](_page_3_Picture_4.jpeg)
+**FIGURE 35.2** Right axillary artery exposure and graft cannulation.
 
-**35.3**
+![](_page_35_Picture_2b.jpeg)
 
-With respect to venous cannulation, the right atrium (with or without superior vena cava cannulation) or femoral venous cannulation is performed. The advantages and disadvantages of moderate versus deep hypothermic circulatory arrest (MHCA and DHCA, respectively) and antegrade versus retrograde cerebral perfusion (ACP and RCP, respectively) have been extensively debated. Options for ACP include delivery via the right axillary artery if cannulated in that manner with clamping of the innominate artery, direct ostial ACP (either unilateral via the innominate artery or bilateral via the innominate and left common carotid arteries), or direct innominate cannulation. RCP is typically delivered via a superior vena cava cannula that is connected via a y-connector to a right atrial cannula with snaring of the superior vena cana. In cases using ACP, flows are maintained between 10 and 12 mL / kg / min with right radial arterial pressures of 50–60mmHg. RCP flow is regulated to maintain a central venous pressure of 20–25 mmHg. A retrograde cardioplegia and left ventricular vent via the right superior pulmonary vein are also inserted.
+**FIGURE 35.2** (continued)
 
-#### **Type A aortic dissection – proximal reconstruction**
+For direct ascending aortic cannulation, a median sternotomy is performed, and the pericardium is opened and secured to the skin with silk sutures. A single purse-string is then placed in the distal ascending aorta on the lesser curve. A needle is then inserted inside the purse-string at a steep angle and aimed towards the left, a wire passed, and confirmation of the wire inside the true lumen should be done by transesophageal echocardiography (Figure 35.3). Once confirmed, the aortotomy is then serially dilated over the wire and the aortic cannula is inserted, again with confirmation of true lumen placement in the distal arch by echocardiography.
+
+<span id="fig-35-3"></span>![](_page_35_Picture_3.jpeg)
+
+**FIGURE 35.3** Direct ascending aortic cannulation with TEE guidance.
+
+With respect to venous cannulation, the right atrium (with or without superior vena cava cannulation) or femoral venous cannulation is performed. The advantages and disadvantages of moderate versus deep hypothermic circulatory arrest (MHCA and DHCA, respectively) and antegrade versus retrograde cerebral perfusion (ACP and RCP, respectively) have been extensively debated. Options for ACP include delivery via the right axillary artery if cannulated in that manner with clamping of the innominate artery, direct ostial ACP (either unilateral via the innominate artery or bilateral via the innominate and left common carotid arteries), or direct innominate cannulation. RCP is typically delivered via a superior vena cava cannula that is connected via a y-connector to a right atrial cannula with snaring of the superior vena cava. In cases using ACP, flows are maintained between 10 and 12 mL/kg/min with right radial arterial pressures of 50–60 mmHg. RCP flow is regulated to maintain a central venous pressure of 20–25 mmHg. A retrograde cardioplegia and left ventricular vent via the right superior pulmonary vein are also inserted.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Type A aortic dissection – proximal reconstruction</summary><div class="details-content">
 
 Cardiopulmonary bypass is instituted. Once the left ventricular vent is successfully inserted, the patient is cooled to the desired hypothermic temperature over a period of 45 minutes. During this time, proximal evaluation and reconstruction can be performed. Once the desired temperature is reached we typically proceed to the hypothermic circulatory arrest and distal reconstruction portion of the operation therefore allowing for rewarming during proximal reconstruction to help improve operative efficiency.
 
-While the patient is being cooled, the aorta is crossclamped, the proximal ascending aorta is opened with Metzenbaum scissors and the true and false lumens identified. Direct antegrade ostial cardioplegia is carefully given as the ostia are often friable and may be involved in the dissection. The ascending aorta is transected and a segment extending to 1–2cm above the sinotubular junction removed after mobilization. The root is then inspected for evidence of intimal tear. Tears that extend to the sinotubular junction but do not involve the coronary ostia or significantly destruct the sinuses can be repaired with primary pledgeted 4-0 polypropylene sutures. If the tear is extensive or extends into the root, a root replacement is performed. Involvement of coronary ostia may necessitate coronary ligation and bypass with a vein graft.
+While the patient is being cooled, the aorta is crossclamped, the proximal ascending aorta is opened with Metzenbaum scissors and the true and false lumens identified. Direct antegrade ostial cardioplegia is carefully given as the ostia are often friable and may be involved in the dissection. The ascending aorta is transected and a segment extending to 1–2 cm above the sinotubular junction removed after mobilization. The root is then inspected for evidence of intimal tear. Tears that extend to the sinotubular junction but do not involve the coronary ostia or significantly destruct the sinuses can be repaired with primary pledgeted 4-0 polypropylene sutures. If the tear is extensive or extends into the root, a root replacement is performed. Involvement of coronary ostia may necessitate coronary ligation and bypass with a vein graft.
 
-Valve resuspension is performed by placing 4-0 pledgeted polypropylene sutures in a horizontal mattress 5mm above each commissure, with pledgets on both the inside and outside of the aorta, and tying each of these sutures down (**[Figure 35.4a–d](#page--1-0)**). The extent of the dissection is also evaluated and hematoma is removed carefully from between the intimal and adventitial layers. We use a neomedia technique whereby felt is trimmed to fit into semicircular spaces created by the dissection, and the felt is then secured by running a 5-0 polypropylene suture that goes through adventitia, the felt, and intima. This buttresses the friable dissected tissue. Some surgeons secure neomedia felt with bioglue although our preference is to suture the felt in place as described above. Cardioplegia can be run antegrade through the graft with clamping near the transected end to evaluate for any bleeding in the anastomosis and also to test for valve competency.
+Valve resuspension is performed by placing 4-0 pledgeted polypropylene sutures in a horizontal mattress 5 mm above each commissure, with pledgets on both the inside and outside of the aorta, and tying each of these sutures down ([Figures 35.4a–d](#fig-35-4)). The extent of the dissection is also evaluated and hematoma is removed carefully from between the intimal and adventitial layers. We use a neomedia technique whereby felt is trimmed to fit into semicircular spaces created by the dissection, and the felt is then secured by running a 5-0 polypropylene suture that goes through adventitia, the felt, and intima. This buttresses the friable dissected tissue. Some surgeons secure neomedia felt with bioglue although our preference is to suture the felt in place as described above. Cardioplegia can be run antegrade through the graft with clamping near the transected end to evaluate for any bleeding in the anastomosis and also to test for valve competency.
 
-#### **Type A aortic dissection – hemi-arch repair**
+<span id="fig-35-4"></span>![](_page_35_Picture_4.jpeg)
 
-Once the patient is sufficiently cooled, hypothermic circulatory arrest with ACP or RCP is initiated. The aortic cross-clamp is removed, and the aortic arch is inspected for evidence of tear. In the absence of an intimal tear in the arch, extensive dissection involving the arch branch vessels, or a
+**FIGURES 35.4a–d** Aortic valve resuspension technique.
 
-![](_page_4_Picture_1.jpeg)
+</div></details>
 
-**35.4a–d**
+<details class="med-details"><summary>
 
-pre-existing arch aneurysm, it is reasonable to proceed with a hemi-arch repair. We perform an aggressive hemi-arch with resection of most of the lesser curve of the arch. Similar to the proximal reconstruction, we utilize a neomedia technique to place felt in between dissected intimal and adventitial layers if the dissection extends to the arch. This helps reinforce the anastomosis that would otherwise involve friable tissue.
+### Type A aortic dissection – hemi-arch repair</summary><div class="details-content">
 
-The hemi-arch anastomosis is performed by suturing an appropriately sized Dacron graft to the transected distal aorta using 4-0 SH polypropylene suture (**[Figure 35.5](#page--1-0)**). The graft should be telescoped into the aorta for better hemostasis. This can be achieved by pulling the aorta down and the graft up and into the aorta while pulling up on the suture after each bite. Stitches on the aorta should be deep as the tissue is often friable and will tear if it is too shallow of a bite. Once this anastomosis is completed, circulatory arrest is stopped, the patient is rewarmed, and cardiopulmonary bypass restarted either using the axillary cannula if it was cannulated or by cannulating the distal graft after placing two polypropylene U stitches in the graft. Some surgeons prefer a graft with a side branch that can be cannulated as well. In addition, a graft-to-graft anastomosis is performed using 3-0 polypropylene suture, although some surgeons will use one graft particularly if there no significant discrepancy in diameter between the proximal and distal aortic diameters.
+Once the patient is sufficiently cooled, hypothermic circulatory arrest with ACP or RCP is initiated. The aortic cross-clamp is removed, and the aortic arch is inspected for evidence of tear. In the absence of an intimal tear in the arch, extensive dissection involving the arch branch vessels, or a pre-existing arch aneurysm, it is reasonable to proceed with a hemi-arch repair. We perform an aggressive hemi-arch with resection of most of the lesser curve of the arch. Similar to the proximal reconstruction, we utilize a neomedia technique to place felt in between dissected intimal and adventitial layers if the dissection extends to the arch. This helps reinforce the anastomosis that would otherwise involve friable tissue.
 
-![](_page_4_Picture_5.jpeg)
+The hemi-arch anastomosis is performed by suturing an appropriately sized Dacron graft to the transected distal aorta using 4-0 SH polypropylene suture (Figure 35.5). The graft should be telescoped into the aorta for better hemostasis. This can be achieved by pulling the aorta down and the graft up and into the aorta while pulling up on the suture after each bite. Stitches on the aorta should be deep as the tissue is often friable and will tear if it is too shallow of a bite. Once this anastomosis is completed, circulatory arrest is stopped, the patient is rewarmed, and cardiopulmonary bypass restarted either using the axillary cannula if it was cannulated or by cannulating the distal graft after placing two polypropylene U stitches in the graft. Some surgeons prefer a graft with a side branch that can be cannulated as well. In addition, a graft-to-graft anastomosis is performed using 3-0 polypropylene suture, although some surgeons will use one graft particularly if there no significant discrepancy in diameter between the proximal and distal aortic diameters.
 
-**35.5**
+<span id="fig-35-5"></span>![](_page_35_Picture_5.jpeg)
 
-## **Type A aortic dissection – total arch replacement**
+**FIGURE 35.5** Hemi-arch anastomosis.
 
-In cases of a pre-existing arch aneurysm, tear in the arch, or extensive dissection involving the arch branch vessels, a total arch replacement should be performed (**Figure 35.6**). Total arch replacement is performed under hypothermic circulatory arrest with either axillary cannulation that can be used for ACP or direct ostial ACP with balloon-tipped catheters, or with RCP. After cannulation, initiation of cardiopulmonary bypass, aortic cross-clamping and varying degree of proximal reconstruction, attention is turned to the circulatory arrest portion of the operation when the desired hypothermic temperature is reached. The patient is placed in the Trendelenburg position. Hypothermic circulatory arrest is initiated and ACP, RCP, or both are delivered and the aortic cross-clamp is removed. In our practice, RCP alone is not utilized for arch repairs, but instead combined ACP and RCP or ACP alone. The arch and branch vessels are inspected for evidence of intimal tear and extent of dissection. The soft tissue around the arch is mobilized, as are the branch vessels. The distal arch is transected distal to the left subclavian artery. The three branch vessels are also transected near their origin from the arch. An appropriately sized trifurcated graft with or without a side branch for re-cannulation is then anastomosed. The distal graft is sewn to the transected distal arch using a 4-0 polypropylene suture. The left subclavian and left carotid anastomoses are sewn using 5-0 polypropylene.
+</div></details>
 
-After the left carotid anastomosis is completed, hypothermic circulatory arrest can be stopped and the patient transitioned back to cardiopulmonary bypass. The proximal graft should be clamped as well as the side branch graft for the innominate artery. If axillary cannulation and ACP is used, the native innominate artery is already clamped and the arterial tubing is already Y-ed. Cannulation of the distal graft via a side branch graft with partial clamping of the arterial tubing for the axillary cannula can then be performed. The innominate artery anastomosis can be performed off
+<details class="med-details"><summary>
 
-**35.6 35.7**
+### Type A aortic dissection – total arch replacement</summary><div class="details-content">
 
-of circulatory arrest with the innominate graft and native artery clamped. The innominate graft is then backbled and de-aired prior to releasing the clamp on the innominate graft. If direct ascending arterial cannulation was used, the graft is re-cannulated after placing two perpendicular 2-0 polypropylene U-stitches and incising the middle. After completing the proximal reconstruction, a graft-to-graft anastomosis is performed in standard fashion.
+In cases of a pre-existing arch aneurysm, tear in the arch, or extensive dissection involving the arch branch vessels, a total arch replacement should be performed (Figure 35.6). Total arch replacement is performed under hypothermic circulatory arrest with either axillary cannulation that can be used for ACP or direct ostial ACP with balloon-tipped catheters, or with RCP. After cannulation, initiation of cardiopulmonary bypass, aortic cross-clamping and varying degree of proximal reconstruction, attention is turned to the circulatory arrest portion of the operation when the desired hypothermic temperature is reached. The patient is placed in the Trendelenburg position. Hypothermic circulatory arrest is initiated and ACP, RCP, or both are delivered and the aortic cross-clamp is removed. In our practice, RCP alone is not utilized for arch repairs, but instead combined ACP and RCP or ACP alone. The arch and branch vessels are inspected for evidence of intimal tear and extent of dissection. The soft tissue around the arch is mobilized, as are the branch vessels. The distal arch is transected distal to the left subclavian artery. The three branch vessels are also transected near their origin from the arch. An appropriately sized trifurcated graft with or without a side branch for re-cannulation is then anastomosed. The distal graft is sewn to the transected distal arch using a 4-0 polypropylene suture. The left subclavian and left carotid anastomoses are sewn using 5-0 polypropylene.
 
-# **Type A aortic dissection – other distal reconstructive surgical options**
+<span id="fig-35-6"></span>![](_page_35_Picture_6.jpeg)
+
+**FIGURE 35.6** Total arch replacement.
+
+After the left carotid anastomosis is completed, hypothermic circulatory arrest can be stopped and the patient transitioned back to cardiopulmonary bypass. The proximal graft should be clamped as well as the side branch graft for the innominate artery. If axillary cannulation and ACP is used, the native innominate artery is already clamped and the arterial tubing is already Y‑ed. Cannulation of the distal graft via a side branch graft with partial clamping of the arterial tubing for the axillary cannula can then be performed. The innominate artery anastomosis can be performed off of circulatory arrest with the innominate graft and native artery clamped. The innominate graft is then back‑bled and de-aired prior to releasing the clamp on the innominate graft. If direct ascending arterial cannulation was used, the graft is re-cannulated after placing two perpendicular 2-0 polypropylene U-stitches and incising the middle. After completing the proximal reconstruction, a graft-to-graft anastomosis is performed in standard fashion.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Type A aortic dissection – other distal reconstructive surgical options</summary><div class="details-content">
 
 Other distal reconstructive surgical options include performing a zone 2 arch repair and subsequent interval TEVAR via the groin. A zone 2 arch repair is similar to a total arch repair except that the left subclavian artery is left intact and the distal transection of the aorta occurs in between the left carotid artery and the left subclavian artery as opposed to distal to the left subclavian artery. This strategy can be employed if an arch tear is located in the more proximal arch with sparing of the left subclavian artery. The primary benefits are reducing circulatory arrest time and positive remodeling of the distal aorta with reduction in false lumen diameter and higher rates of complete false lumen thrombosis.
 
-In the setting of a DeBakey type I aortic dissection, some groups have advocated for a total arch replacement with antegrade descending thoracic aortic stenting, otherwise known as a frozen elephant trunk (**Figure 35.7**). This is done to improve distal aortic remodeling and reduce rates of subsequent distal aortic interventions.
+In the setting of a DeBakey type I aortic dissection, some groups have advocated for a total arch replacement with antegrade descending thoracic aortic stenting, otherwise known as a frozen elephant trunk (Figure 35.7). This is done to improve distal aortic remodeling and reduce rates of subsequent distal aortic interventions.
 
-![](_page_5_Picture_10.jpeg)
+<span id="fig-35-7"></span>![](_page_35_Picture_7.jpeg)
 
-Another option we have utilized in select DeBakey type I malperfusion cases is primary arch tear repair with aggressive hemi-arch reconstruction and antegrade TEVAR (**Figure 35.8**). This is a technically easier operation, avoids manipulation of the arch vessels, and reduces circulatory arrest time. This is especially true in obese patients or those with large arch aneurysms where exposure of the distal arch and arch vessels can be difficult. The dissection flap is repaired with the neomedia felt technique described previously, with primary repair of the arch tear using interrupted pledgeted sutures. A GoreTAG stent graft that is 150mm in length and ranges typically from 31 mm to 37 mm is then deployed in an antegrade fashion into the true lumen and the proximal end is secured with polypropylene sutures to include the repaired aorta and the stent.
+**FIGURE 35.7** Frozen elephant trunk technique.
 
-# **Type B aortic dissection – open surgical repair**
+Another option we have utilized in select DeBakey type I malperfusion cases is primary arch tear repair with aggressive hemi-arch reconstruction and antegrade TEVAR (Figure 35.8). This is a technically easier operation, avoids manipulation of the arch vessels, and reduces circulatory arrest time. This is especially true in obese patients or those with large arch aneurysms where exposure of the distal arch and arch vessels can be difficult. The dissection flap is repaired with the neomedia felt technique described previously, with primary repair of the arch tear using interrupted pledgeted sutures. A GoreTAG stent graft that is 150 mm in length and ranges typically from 31 mm to 37 mm is then deployed in an antegrade fashion into the true lumen and the proximal end is secured with polypropylene sutures to include the repaired aorta and the stent.
 
-The patient is positioned in right lateral decubitus position with the pelvis tilted posteriorly to allow access to the femoral vessels (**Figure 35.9**). On single lung ventilation, a posterolateral thoracotomy is made in the fourth or fifth intercostal space. This can be extended into a thoracoabdominal incision if the abdominal aorta is to be included in the repair. The abdominal aorta can be accessed either through a transperitoneal or retroperitoneal approach. The diaphragm is divided in these cases. We typically disarticulate the thoracic cartilage using electrocautery and a rib cutter to help improve exposure. A Bookwalter retractor is then placed with the post connected to the left side of the operating table.
+<span id="fig-35-8"></span>![](_page_35_Picture_8a.jpeg) 
+  
+![](_page_35_Picture_8b.jpeg)
+  
+![](_page_35_Picture_8c.jpeg)
 
-![](_page_6_Picture_5.jpeg)
+**FIGURE 35.8** Primary arch tear repair with antegrade TEVAR.
 
-![](_page_6_Picture_6.jpeg)
+</div></details>
 
-**35.9**
+<details class="med-details"><summary>
 
-![](_page_6_Picture_8.jpeg)
+### Type B aortic dissection – open surgical repair</summary><div class="details-content">
 
-![](_page_6_Picture_9.jpeg)
+The patient is positioned in right lateral decubitus position with the pelvis tilted posteriorly to allow access to the femoral vessels (Figure 35.9). On single lung ventilation, a posterolateral thoracotomy is made in the fourth or fifth intercostal space. This can be extended into a thoracoabdominal incision if the abdominal aorta is to be included in the repair. The abdominal aorta can be accessed either through a transperitoneal or retroperitoneal approach. The diaphragm is divided in these cases. We typically disarticulate the thoracic cartilage using electrocautery and a rib cutter to help improve exposure. A Bookwalter retractor is then placed with the post connected to the left side of the operating table.
 
-![](_page_6_Picture_10.jpeg)
+<span id="fig-35-9"></span>![](_page_35_Picture_9a.jpeg)
+
+**FIGURE 35.9** Patient positioning for open TBAD repair.
+
+![](_page_35_Picture_9b.jpeg)
+
+**FIGURE 35.9** (continued – incision and exposure)
+
+The proximal extent of the repair is determined with preoperative imaging. Circulatory management consists of either hypothermic circulatory arrest, which avoids clamping the dissected aorta, or left atrial to femoral artery bypass. Adhesiolysis is performed to mobilize the lung off of the aorta. The mediastinal pleura between the left subclavian and left common carotid arteries is opened and the left vagus and recurrent laryngeal nerve is identified. The inferior pulmonary ligament is taken down, and the soft tissue around the thoracic aorta is mobilized.
 
 If hypothermic circulatory arrest is utilized, heparin is given and the distal aorta is cannulated with the tip pointed inferiorly if the repair is limited to the descending thoracic aorta. The femoral artery can be used for more extensive thoracoabdominal dissections. A long venous cannula is placed via the left femoral vein. Cardiopulmonary bypass is initiated and the patient is cooled. A left ventricular vent is placed through the left inferior pulmonary vein. The bypass tubing is arranged to allow for cross circulation. Once the desired hypothermic temperature is reached, the arterial tubing is clamped by the cannula and venous tubing is clamped by the portion that returns to the pump to allow for total body retrograde perfusion through the arterial tubing, across extension tubing connecting the arterial and venous side, and then via the venous cannula into the femoral vein. Once on circulatory arrest, the aortic cannula is removed and the operation proceeds.
 
 If partial left heart bypass is utilized, the distal thoracic aorta or femoral artery is cannulated. It is important to ensure that the true lumen is being perfused. The left inferior pulmonary vein is used for venous cannulation. In cases involving the proximal descending thoracic aorta, the left subclavian artery can be encircled with an umbilical tape and a Rummel tourniquet applied. After snaring of the left subclavian artery, vascular clamps can be applied on the aortic arch in between the left common carotid and subclavian arteries, and distally on the descending thoracic aorta.
 
-The aorta is opened longitudinally and bleeding from intercostal arteries controlled with suture ligation (**Figure 35.10**). The aorta is then transected. The diameter of the proximal aorta is sized and a Dacron graft is sewn using a 3-0 polypropylene suture. The proximal clamp is then removed and placed on the graft and the anastomosis is evaluated for hemostasis. If the repair is limited to the descending thoracic aorta, the distal diameter is sized as well and a Dacron graft similarly anastomosed in an end-to-end fashion using a 3-0 polypropylene suture. A graft-to-graft anastomosis is then performed. Cardiopulmonary bypass is weaned and the patient decannulated in standard fashion.
+The aorta is opened longitudinally and bleeding from intercostal arteries controlled with suture ligation (Figure 35.10). The aorta is then transected. The diameter of the proximal aorta is sized and a Dacron graft is sewn using a 3-0 polypropylene suture. The proximal clamp is then removed and placed on the graft and the anastomosis is evaluated for hemostasis. If the repair is limited to the descending thoracic aorta, the distal diameter is sized as well and a Dacron graft similarly anastomosed in an end-to-end fashion using a 3-0 polypropylene suture. A graft-to-graft anastomosis is then performed. Cardiopulmonary bypass is weaned and the patient decannulated in standard fashion.
 
 Treatment of the proximal dissection can often improve visceral or lower extremity malperfusion. If malperfusion persists, percutaneous or surgical fenestration may be necessary to create a communication between the false and true lumens and improve blood flow. Femoral–femoral bypass or axillo–femoral and femoral–femoral bypass can also be utilized in cases of unilateral or bilateral lower extremity malperfusion, respectively.
 
-![](_page_7_Picture_6.jpeg)
+<span id="fig-35-10"></span>![](_page_35_Picture_10.jpeg)
 
-**35.10**
+**FIGURE 35.10** Open repair of descending thoracic aorta.
 
-## **Type B aortic dissection – endovascular surgical repair**
+</div></details>
+
+<details class="med-details"><summary>
+
+### Type B aortic dissection – endovascular surgical repair</summary><div class="details-content">
 
 TEVAR has become the preferred treatment modality for aneurysmal disease, and more recent evidence has expanded its use in the setting of TBAD. A primary goal in TEVAR is to restore true lumen blood flow by covering the primary intimal tear. Radial pressure from the stent can also help in aortic remodeling by decreasing the diameter of the false lumen, helping promote false lumen thrombosis, and expanding the true lumen.
 
-Preoperative computed tomography angiography is evaluated to assess the bilateral iliofemoral vessels. The femoral artery that will be used for delivery of the device should be the larger vessel with less calcification and tortuosity. If there are concerns for calcification or narrowing where the access will be achieved, surgical cutdown of the femoral artery is performed. In 10–20% of cases alternate access is established for device delivery. Most commonly this is achieved via a 10mm conduit sewn to the common iliac artery through a retroperitoneal exposure.
+Preoperative computed tomography angiography is evaluated to assess the bilateral iliofemoral vessels. The femoral artery that will be used for delivery of the device should be the larger vessel with less calcification and tortuosity. If there are concerns for calcification or narrowing where the access will be achieved, surgical cutdown of the femoral artery is performed. In 10–20% of cases alternate access is established for device delivery. Most commonly this is achieved via a 10 mm conduit sewn to the common iliac artery through a retroperitoneal exposure.
 
-A percutaneous 5 or 6 French sheath is placed in the contralateral femoral artery (**[Figure 35.11](#page--1-0)**). If the contralateral femoral artery is not suitable, this can be performed through the brachial artery. A pigtail catheter is inserted and advanced to the aortic arch. Aortography or intravascular ultrasound is then used to confirm true lumen placement and to create an operative roadmap. The proximal landing zone is best visualized with a 45–75-degree left anterior oblique angle fluoroscopically. A super-stiff wire is inserted through the delivery sheath and advanced into the aortic arch under fluoroscopic guidance. The patient is heparinized. The sheath is advanced into the abdominal aorta and the device is advanced to the targeted area. In the setting of dissection, the stent graft should not be oversized more than 10% to mitigate the risk of retrograde dissection. The systolic blood pressure should be brought to 100 mmHg prior to deployment. The stent is deployed and the position confirmed by angiography
+A percutaneous 5 or 6 French sheath is placed in the contralateral femoral artery (Figure 35.11). If the contralateral femoral artery is not suitable, this can be performed through the brachial artery. A pigtail catheter is inserted and advanced to the aortic arch. Aortography or intravascular ultrasound is then used to confirm true lumen placement and to create an operative roadmap. The proximal landing zone is best visualized with a 45–75-degree left anterior oblique angle fluoroscopically. A super-stiff wire is inserted through the delivery sheath and advanced into the aortic arch under fluoroscopic guidance. The patient is heparinized. The sheath is advanced into the abdominal aorta and the device is advanced to the targeted area. In the setting of dissection, the stent graft should not be oversized more than 10% to mitigate the risk of retrograde dissection. The systolic blood pressure should be brought to 100 mmHg prior to deployment. The stent is deployed and the position confirmed by angiography or intravascular ultrasound. Completion angiography through the pigtail catheter will help evaluate for the presence of endoleaks and blood flow to the branch vessels. Type I endoleaks can be treated with extension grafts or ballooning although the latter should be done carefully to minimize retrograde dissection or rupture risk. Persistent malperfusion can be treated with fenestration or branch vessel stenting.
 
-![](_page_8_Picture_2.jpeg)
+<span id="fig-35-11"></span>![](_page_35_Picture_11.jpeg)
 
-or intravascular ultrasound. Completion angiography through the pigtail catheter will help evaluate for the presence of endoleaks and blood flow to the branch vessels. Type I endoleaks can be treated with extension grafts or ballooning although the latter should be done carefully to minimize retrograde dissection or rupture risk. Persistent malperfusion can be treated with fenestration or branch vessel stenting.
+**FIGURE 35.11** TEVAR deployment.
 
-#### **POSTOPERATIVE CARE**
+</div></details>
 
-Patients are brought to the intensive care unit. Invasive hemodynamic monitoring and vasoactive agents are used to keep the systolic blood pressure between 90 and 110mmHg. Assuming the patient has stable hemodynamics and bleeding is not substantial, sedation should be weaned and a neurological exam obtained. In patients who fail to follow commands, computed tomography scans of the head are usually obtained in the first few postoperative days. In patients undergoing descending thoracic aortic repair, paraplegia should be treated aggressively as it can potentially be reversed using high mean arterial pressure goals of 85 to 95mmHg, cerebrospinal fluid drainage at 10 cm H20, volume expansion, correction of anemia and hypoxia, and immediate neurology consultation.
+</div></details>
+
+<details class="med-details"><summary>
+
+## POSTOPERATIVE CARE</summary><div class="details-content">
+
+Patients are brought to the intensive care unit. Invasive hemodynamic monitoring and vasoactive agents are used to keep the systolic blood pressure between 90 and 110 mmHg. Assuming the patient has stable hemodynamics and bleeding is not substantial, sedation should be weaned and a neurological exam obtained. In patients who fail to follow commands, computed tomography scans of the head are usually obtained in the first few postoperative days. In patients undergoing descending thoracic aortic repair, paraplegia should be treated aggressively as it can potentially be reversed using high mean arterial pressure goals of 85 to 95 mmHg, cerebrospinal fluid drainage at 10 cm H₂O, volume expansion, correction of anemia and hypoxia, and immediate neurology consultation.
 
 Bleeding is an immediate concern in both type A and B dissection open repairs. We have used factor 7 or prothrombin complex concentrate intraoperatively in coagulopathic patients with significant bleeding after ruling out surgical sources, with good success. These agents are also advantageous as they avoid significant volume overloading that accompanies massive blood product transfusions.
 
 Long-term management entails antihypertensive medication regimens to maintain systolic blood pressure less than 120 mmHg. Follow-up imaging is indicated initially prior to hospital discharge and at 6-month intervals for at least the first year. Computed tomography scans or magnetic resonance imaging for those with renal insufficiency can help evaluate the distal aorta true and false lumen diameters and false lumen thrombosis, particularly after type I TAAD repair when the distal aorta is left untreated. Imaging can also evaluate for endoleaks and enlargement of untreated but dissected aorta. Follow-up echocardiography should also be obtained following TAAD repair to evaluate for aortic valve insufficiency.
 
-#### **OUTCOME**
+</div></details>
+
+<details class="med-details"><summary>
+
+## OUTCOME</summary><div class="details-content">
 
 According to the International Registry of Acute Aortic Dissections, the in-hospital mortality following TAAD repair remains high at 17–26%. Early survival seems to be affected more by patient characteristics and presentation than by surgical technique. Nonetheless, these rates are significantly lower than those in patients treated with medical management alone. Major postoperative complications include reoperation for bleeding (5–20%), acute renal failure (10–25%), limb ischemia (5–15%), myocardial ischemia (0–15%), stroke (5–15%), and prolonged mechanical ventilation (20–50%). Long-term survival after TAAD repair is approximately 70–90% at 5 years and 55–65% at 10 years, with survival of those discharged from the index admission being 96% at 1 year and 91% at 3 years. Long-term freedom from aortic reoperation is approximately 80–90% at 10 years.
 
 In-hospital mortality following open surgical repair of acute complicated TBAD is 20–30%, with stroke rates of 5–10%, paraplegia rates of 5–10%, and acute renal failure rates of 5–20%. Large series of TEVAR for TBAD have demonstrated technical success rates of over 95%. Operative mortality rates are 0–15% with many series reporting less than 5%. Paraplegia rates are 0–5%, and long-term survival 65–100% with median follow-up ranging up to 40 months. The rates of endoleak are 2–40%. False lumen thrombosis is achieved in 60–100%. These mortality and morbidity rates compare favorably to open repair, which has supported the use of TEVAR for TBAD when technically feasible.
+
+</div></details>

@@ -1,5 +1,7 @@
 # Tetralogy of Fallot
 
+##### This chapter describes the surgical management of tetralogy of Fallot, including history, anatomy, preoperative assessment, palliative shunts, definitive transatrial‑transpulmonary repair, special considerations (coronary anomalies, AVSD, absent pulmonary valve syndrome, older patients), postoperative care, contemporary results, and long‑term outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -8,7 +10,7 @@
 * **Incidence:** 3 per 10 000 live births; most common cyanotic lesion beyond neonatal age; 10% of all congenital heart defects.
 * **First palliation:** Blalock (1948). First intracardiac repair: Lillehei using cross‑circulation (1954). Modern repair uses cardiopulmonary bypass.
 
-### Anatomy (Fig. 49.1)
+### Anatomy ([Fig. 49.1](#fig-49-1))
 * **Key features:** Anterior & cephalad displacement of infundibular septum → malalignment VSD, RVOTO, RV hypertrophy. Pulmonary valve and arteries may be hypoplastic.
 * **Coronary anomalies** (5–30%): most common = anterior descending from right coronary artery.
 
@@ -22,7 +24,7 @@
 * **Approach:** Median sternotomy (right side preferred). PTFE graft (3.5 mm <3.5 kg, 4.0 mm >3.5 kg) from brachiocephalic artery to right PA.
 * **Post‑shunt care:** Heparin (1 U/kg/h) then aspirin 5 mg/kg/day.
 
-### Definitive Repair – Transatrial‑Transpulmonary Technique (Figs. 49.5a‑g)
+### Definitive Repair – Transatrial‑Transpulmonary Technique ([Figs. 49.5a‑g](#fig-49-5a))
 * **Goal:** Relief of RVOTO, complete septation, preservation of pulmonary valve (PV) function.
 * **CPB:** Bicaval cannulation, moderate hypothermia (34 °C), aortic cross‑clamp, sanguineous cardioplegia.
 * **Key steps:**
@@ -67,7 +69,7 @@
 * RV pressure may transiently exceed 50% of LV pressure – usually self‑limited.
 * Persistent hemodynamic instability → rule out residual VSD or residual RVOTO.
 
-### Contemporary Results (ECHSA database, to 2018; Table 49.1)
+### Contemporary Results (ECHSA database, to 2018; [Table 49.1](#table-49-1))
 * TOF + transannular patch (n=8354): 30‑day mortality 2.4%, hospital 2.62%.
 * TOF + non‑transannular patch (n=2875): 1.32% / 1.43%.
 * TOF + AVSD (n=390): 10.03% / 11.05%.
@@ -97,7 +99,7 @@ Tetralogy of Fallot (TOF) is one of the most frequently encountered congenital c
 
 The first operations for TOF were performed by Blalock and associates at Johns Hopkins Hospital in 1948. The Blalock strategy was to divert blood from the systemic circulation to the pulmonary circulation to reduce the physiologic effect of right‑to‑left shunting within the heart. A more direct approach to TOF was first used by Lillehei and associates at the University of Minnesota in 1954. Open correction of TOF was performed by Lillehei’s group using cross‑circulation between the child and a support patient, and later using CPB with a bubble oxygenator. Although numerous strategic and technical modifications have been introduced since these initial efforts, Lillehei’s work set the standard for our modern surgical approach to TOF.
 
-The anatomical features of TOF are described in detail by Anderson (see Chapter 39, “The anatomy of congenital cardiac malformations”), whose general approach to congenital heart disease and its nomenclature has improved our surgical understanding significantly. The basic anatomical features relevant to the surgical repair of tetralogy are shown in Figure 49.1. Anterior and cephalad displacement of the infundibular (muscular outlet) septum results in a malalignment ventricular septal defect (VSD), right ventricular outflow tract obstruction (RVOTO), and RV hypertrophy. The pulmonary valve (PV) and pulmonary arterial (PA) tree may show any degree of hypoplasia.
+The anatomical features of TOF are described in detail by Anderson (see Chapter 39, “The anatomy of congenital cardiac malformations”), whose general approach to congenital heart disease and its nomenclature has improved our surgical understanding significantly. The basic anatomical features relevant to the surgical repair of tetralogy are shown in ([Fig. 49.1](#fig-49-1)). Anterior and cephalad displacement of the infundibular (muscular outlet) septum results in a malalignment ventricular septal defect (VSD), right ventricular outflow tract obstruction (RVOTO), and RV hypertrophy. The pulmonary valve (PV) and pulmonary arterial (PA) tree may show any degree of hypoplasia.
 
 <span id="fig-49-1"></span>![](_page_49_Picture_1.jpeg)
 
@@ -109,11 +111,11 @@ The anatomical features of TOF are described in detail by Anderson (see Chapter 
 
 ## PRINCIPLES AND JUSTIFICATION</summary><div class="details-content">
 
-For most patients with TOF, the diagnosis can be established with echocardiography in the neonatal period, or prenatally. Depending on the anatomy of the RVOT and PAs, as well as the degree of collateral circulation and other factors, a plan for timing and strategy can be developed. The images in Figure 49.2a–d show the features of TOF.
+For most patients with TOF, the diagnosis can be established with echocardiography in the neonatal period, or prenatally. Depending on the anatomy of the RVOT and PAs, as well as the degree of collateral circulation and other factors, a plan for timing and strategy can be developed. The images in ([Figs. 49.2a‑d](#fig-49-2a)) show the features of TOF.
 
-<span id="fig-49-2"></span>![](_page_49_Picture_2.jpeg)
+<span id="fig-49-2a"></span>![](_page_49_Picture_2.jpeg)
 
-**FIGURE 49.2a–d** Imaging in tetralogy of Fallot. (a) and (b) 2D echocardiograms demonstrating aortic override of the large VSD, RV hypertrophy, and malalignment; (c) Right ventriculogram demonstrating hypoplasia of the PA tree with severe RVOTO; (d) Cardiac MRI showing confluent branch PAs with severe stenosis just proximal to LPA bifurcation.
+**FIGURE 49.2a‑d** Imaging in tetralogy of Fallot. (a) and (b) 2D echocardiograms demonstrating aortic override of the large VSD, RV hypertrophy, and malalignment; (c) Right ventriculogram demonstrating hypoplasia of the PA tree with severe RVOTO; (d) Cardiac MRI showing confluent branch PAs with severe stenosis just proximal to LPA bifurcation.
 
 </div></details>
 
@@ -123,9 +125,9 @@ For most patients with TOF, the diagnosis can be established with echocardiograp
 
 Preoperative investigation is based primarily on 2D echocardiography, which provides information about the RVOT, VSD, central PA tree, and proximal coronaries. In some cases, angiography may be required to delineate unusual features. The decision to perform a definitive intracardiac repair is predicated on the presence of an adequate PA tree (i.e. one which can accept the full cardiac output after septation, with a subsystemic RV pressure, in the face of increasing cardiac output). Many formulae have been proposed to assess this feature, but none is infallible. Surgical judgment and experience remain critically important.
 
-Treatment strategy is determined by assessment of a number of factors (Figure 49.3). In the current era, most cardiac surgical teams elect definitive intracardiac repair whenever possible for unacceptably cyanotic patients. Although the strategy of routine intracardiac repair (as opposed to a palliative operation) in stable neonates with acceptable oxygenation has little to recommend it, the perceived best age for elective repair varies from birth to 1 year of age. The trend worldwide over the past decade has been toward earlier elective repair (at 3–6 months of age), but there are many outliers. Other factors that may influence timing of repair in a given cardiac center include the general condition of the baby, prematurity, very low birth weight, genetic syndromes, possible need for an extracardiac conduit, the presence of additional intracardiac problems, and discontinuous PAs. However, good early results have been achieved in most centers with diverse timing strategies, involving both single‑ and two‑staged approaches (i.e. primary definitive repair, or modified Blalock–Taussig shunt followed by repair at an interval).
+Treatment strategy is determined by assessment of a number of factors ([Fig. 49.3](#fig-49-3)). In the current era, most cardiac surgical teams elect definitive intracardiac repair whenever possible for unacceptably cyanotic patients. Although the strategy of routine intracardiac repair (as opposed to a palliative operation) in stable neonates with acceptable oxygenation has little to recommend it, the perceived best age for elective repair varies from birth to 1 year of age. The trend worldwide over the past decade has been toward earlier elective repair (at 3–6 months of age), but there are many outliers. Other factors that may influence timing of repair in a given cardiac center include the general condition of the baby, prematurity, very low birth weight, genetic syndromes, possible need for an extracardiac conduit, the presence of additional intracardiac problems, and discontinuous PAs. However, good early results have been achieved in most centers with diverse timing strategies, involving both single‑ and two‑staged approaches (i.e. primary definitive repair, or modified Blalock–Taussig shunt followed by repair at an interval).
 
-<span id="fig-49-3"></span>![](_page_49_Figure_3.jpeg)
+<span id="fig-49-3"></span>![](_page_49_Picture_3.jpeg)
 
 **FIGURE 49.3** Decision tree for timing of repair in TOF.
 
@@ -161,7 +163,7 @@ Common early postoperative problems include low diastolic systemic arterial pres
 
 In the early era of TOF repair, a large right ventriculotomy and transannular patch were usually employed both for relief of RVOTO and repair of the VSD. Over ensuing decades, the resultant PV insufficiency and volume loading sometimes led to RV failure, dilation, fibrosis, and arrhythmias. PV replacement may not be curative in such situations. Conversely, residual severe RVOTO may limit PV insufficiency but is a risk factor for late RV hypertrophy and death.
 
-The goals of repair, therefore, are to provide adequate relief of RVOTO, to septate the heart completely, and to preserve contractile, electrical, and valvular function as much as possible. A different approach to TOF repair using transatrial VSD closure and limited or no ventriculotomy was promoted by Hudspeth, Edmunds, and others. The best strategy available today for most patients is the transatrial–transpulmonary repair, described in Figure 49.5a–g, with preservation or reconstruction of the PV.
+The goals of repair, therefore, are to provide adequate relief of RVOTO, to septate the heart completely, and to preserve contractile, electrical, and valvular function as much as possible. A different approach to TOF repair using transatrial VSD closure and limited or no ventriculotomy was promoted by Hudspeth, Edmunds, and others. The best strategy available today for most patients is the transatrial–transpulmonary repair, described in ([Figs. 49.5a‑g](#fig-49-5a)), with preservation or reconstruction of the PV.
 
 The operative approach is via full median sternotomy, using a relatively short skin incision. The thymus is resected, and the pericardium is opened to the right of the midline. A suitable pericardial patch adequate for RVOT reconstruction is excised, immersed for 2 minutes in 0.1% glutaraldehyde solution, and rinsed several times in saline. The patient is heparinized (3 mg/kg) and cannulated for CPB via the superior and inferior caval veins and the ascending aorta (at the base of the brachiocephalic artery). The modified Blalock–Taussig shunt, if present, is dissected, clipped, and divided as CPB is commenced. The patient is cooled systemically to 34 °C. The arterial ligament (or duct) is dissected and ligated. The aorta is clamped, and sanguineous cardioplegia is delivered into the aortic root. The caval vein snares are tightened around the venous cannulae, and the right atrium (RA) and pulmonary trunk are opened longitudinally. A vent sucker is placed through the ASD, which may require opening with a scalpel. The pulmonary valve is inspected, and fused commissures are opened right back to the sinotubular junction.
 
@@ -197,7 +199,7 @@ The VSD is then closed, working through the TV. Polypropylene mattress sutures (
 
 The RA incision is closed with running polypropylene, and the caval vein tapes are removed. If a transannular incision has not been used, the PA is either closed directly (if the caliber has been judged to be adequate) or repaired with a second small oval pericardial patch.
 
-<span id="fig-49-5e"></span>![](_page_49_Figure_5e.jpeg)
+<span id="fig-49-5e"></span>![](_page_49_Picture_5e.jpeg)
 
 **FIGURE 49.5e** Direct PA closure or small oval patch when no transannular incision.
 
@@ -223,7 +225,7 @@ When a transannular extension has been required, we employ a standard technique 
 
 Coronary artery anatomy in TOF deviates from the expected pattern for normal hearts in 5–30% of cases. Of concern to the surgeon are cases in which an abnormal coronary branch crosses the RVOT, imposing limitations on the safe extent of the ventriculotomy (should it be required).
 
-Figure 49.6 illustrates patterns of anomalous coronary arteries in 36 cases encountered in the Royal Children’s Hospital (RCH) series (Melbourne). The most frequently appearing anomaly was an anterior descending branch from the right coronary artery. All patterns shown theoretically could preclude a classical transventricular approach to repair.
+([Fig. 49.6](#fig-49-6)) illustrates patterns of anomalous coronary arteries in 36 cases encountered in the Royal Children’s Hospital (RCH) series (Melbourne). The most frequently appearing anomaly was an anterior descending branch from the right coronary artery. All patterns shown theoretically could preclude a classical transventricular approach to repair.
 
 <span id="fig-49-6"></span>![](_page_49_Picture_6.jpeg)
 
@@ -231,7 +233,7 @@ Figure 49.6 illustrates patterns of anomalous coronary arteries in 36 cases enco
 
 Coronary abnormalities can usually be imaged preoperatively with 2D echocardiography, although both CT angiograms and contrast aortography with steep caudocranial angulation may be more sensitive. Ultimately, responsibility for identification lies with the surgical team at the time of operation. A number of strategies have been proposed for dealing with anomalous coronaries during TOF repair, including the use of extracardiac RV–PA conduits. Mobilization of the coronary to accommodate a patch beneath it is not recommended. In our experience, most cases can be handled with the general transatrial–transpulmonary repair strategy described above without compromising the adequacy of RV–PA reconstruction (see Outcome).
 
-Figure 49.7 shows transatrial–transpulmonary repair in the presence of an anomalous coronary (anterior descending from right coronary). The small transannular patch stops short of the coronary branch and can be deviated leftward. In patients with the anterior descending coronary artery arising from the right coronary artery, extension of a transannular patch laterally may be possible. In those with the right coronary artery arising from the left anterior descending, the patch must stop short of the transverse pathway of the coronary, and a more extensive muscle resection may be required. There may be a role for intraoperative balloon dilation of the annulus. In a minority of patients, alternative strategies such as extracardiac conduits can be used with acceptable outcome.
+([Fig. 49.7](#fig-49-7)) shows transatrial–transpulmonary repair in the presence of an anomalous coronary (anterior descending from right coronary). The small transannular patch stops short of the coronary branch and can be deviated leftward. In patients with the anterior descending coronary artery arising from the right coronary artery, extension of a transannular patch laterally may be possible. In those with the right coronary artery arising from the left anterior descending, the patch must stop short of the transverse pathway of the coronary, and a more extensive muscle resection may be required. There may be a role for intraoperative balloon dilation of the annulus. In a minority of patients, alternative strategies such as extracardiac conduits can be used with acceptable outcome.
 
 <span id="fig-49-7"></span>![](_page_49_Picture_7.jpeg)
 
@@ -247,7 +249,7 @@ Atrioventricular septal defect (AVSD) complicates TOF in 1.0–6.5% of cases. Co
 
 The surgical procedure for TOF and AVSD is an extensive one. Definitive intracardiac repair is possible at any age but, in general, the results are not as good as those for either lesion in isolation. If possible, the operation should be performed after 3–4 months of age, when the AV valve repair is more reliable and more surgical options are available. In practice, an earlier operation is often required due to severity of the RVOTO and/or AV valve insufficiency. The main operative considerations are maintenance of AV and pulmonary valve competence.
 
-The operative strategy for repair of TOF with AVSD is a combination of techniques used for isolated AVSD and TOF. It is helpful for the surgeon to understand the spatial relationships (Figure 49.8a). Initial steps of the operation are similar to those for isolated TOF, up to the point of VSD closure. For this part of the operation, a comma‑shaped patch is used. Pledgeted sutures are placed around the aortic valve and the inlet portion of the VSD and then through the patch, which is seated beneath the tricuspid chords. Sutures are placed through the crest of PTFE or pericardial VSD patch, through the AV valve leaflets, and through one edge of a second autologous pericardial patch, to partition the single large AV valve into two non‑stenotic orifices (Figure 49.8b). This septation can also be done using the Nunn technique, in which the bridging leaflet tissue is attached directly to the crest of the VSD with interrupted pledgeted sutures (Figure 49.8c(i) and (ii)).
+The operative strategy for repair of TOF with AVSD is a combination of techniques used for isolated AVSD and TOF. It is helpful for the surgeon to understand the spatial relationships ([Fig. 49.8a](#fig-49-8a)). Initial steps of the operation are similar to those for isolated TOF, up to the point of VSD closure. For this part of the operation, a comma‑shaped patch is used. Pledgeted sutures are placed around the aortic valve and the inlet portion of the VSD and then through the patch, which is seated beneath the tricuspid chords. Sutures are placed through the crest of PTFE or pericardial VSD patch, through the AV valve leaflets, and through one edge of a second autologous pericardial patch, to partition the single large AV valve into two non‑stenotic orifices ([Fig. 49.8b](#fig-49-8b)). This septation can also be done using the Nunn technique, in which the bridging leaflet tissue is attached directly to the crest of the VSD with interrupted pledgeted sutures ([Figs. 49.8c(i) and (ii)](#fig-49-8c-i)).
 
 <span id="fig-49-8a"></span>![](_page_49_Picture_8a.jpeg)
 
@@ -277,7 +279,7 @@ A similar exercise is used to assess the RV and tricuspid portion of the partiti
 
 Absent pulmonary valve syndrome (APVS) is considered by many to be a Fallot variant, although there are important differences. APVS is characterized by moderate pulmonary stenosis and severe incompetence, with variable (sometimes extreme) dilation of the main and branch PAs. The dilation usually extends to the main lobar branches in the lung hilum. The pulmonary valve is rudimentary, and the annulus is moderately hypoplastic. Intrinsic abnormalities of the PA wall and ventriculoarterial junction are also encountered. Some infants with APVS have tracheobronchomalacia and airway compression of the major lobar branches. Intrinsic airway and vascular abnormalities may extend to the level of the small bronchi. Repair may be required within the first few months of life if airway abnormalities are severe. In stable patients, the timing of surgery can be similar to that for elective repair of balanced TOF.
 
-For APVS with massively dilated main and branch PAs (Figure 49.9a) the basic operative strategy consists of transatrial–transpulmonary repair, as outlined for TOF. An approach which we have favored in more recent years involves division of either the RPA or the aorta, full mobilization of the branch pulmonary arteries, and a modified Lecompte maneuver (anterior or preaortic translocation of the pulmonary arteries) (Figure 49.9b and c). Reduction‑plasty of the branches may not be necessary in all cases if the Lecompte maneuver is employed. The RPA (or aorta) is then reconstructed, and central tracheobronchial compression is thereby reduced. A bovine xenograft valved conduit is then used to reconstruct the RVOT, as continued pulmonary insufficiency may contribute to further dilation of the abnormal PAs. The Sung repair may not be effective in APVS due to lack of native leaflet tissue.
+For APVS with massively dilated main and branch PAs ([Fig. 49.9a](#fig-49-9a)) the basic operative strategy consists of transatrial–transpulmonary repair, as outlined for TOF. An approach which we have favored in more recent years involves division of either the RPA or the aorta, full mobilization of the branch pulmonary arteries, and a modified Lecompte maneuver (anterior or preaortic translocation of the pulmonary arteries) ([Figs. 49.9b and 49.9c](#fig-49-9b)). Reduction‑plasty of the branches may not be necessary in all cases if the Lecompte maneuver is employed. The RPA (or aorta) is then reconstructed, and central tracheobronchial compression is thereby reduced. A bovine xenograft valved conduit is then used to reconstruct the RVOT, as continued pulmonary insufficiency may contribute to further dilation of the abnormal PAs. The Sung repair may not be effective in APVS due to lack of native leaflet tissue.
 
 <span id="fig-49-9a"></span>![](_page_49_Picture_9a.jpeg)
 
@@ -335,12 +337,12 @@ Basic principles of postoperative management for infants apply. Low‑dose inotr
 
 ### TOF repair</summary><div class="details-content">
 
-In the Congenital Databases of both the Society of Thoracic Surgeons (STS) (*n* = 2535) and European Congenital Heart Surgeons Association (ECHSA) (*n* = 6654), the transventricular approach to TOF repair remains prevalent (53% and 57.5% respectively). Thirty‑day and hospital mortality for TOF repair in the ECHSA Congenital Database is summarized in Table 49.1, stratified by anatomic variant and repair type (current to February 2018).
+In the Congenital Databases of both the Society of Thoracic Surgeons (STS) (*n* = 2535) and European Congenital Heart Surgeons Association (ECHSA) (*n* = 6654), the transventricular approach to TOF repair remains prevalent (53% and 57.5% respectively). Thirty‑day and hospital mortality for TOF repair in the ECHSA Congenital Database is summarized in ([Table 49.1](#table-49-1)), stratified by anatomic variant and repair type (current to February 2018).
 
 <span id="table-49-1"></span>
 <details class="med-details"><summary>
 
-#### TABLE 49.1: Thirty‑day and hospital mortality for TOF repair in the ECHSA Congenital Database</summary><div class="details-content">
+#### TABLE 49-1: Thirty‑day and hospital mortality for TOF repair in the ECHSA Congenital Database</summary><div class="details-content">
 
 | Operation                                                   | n    | 30‑day mortality (%) | Hospital mortality (%) |
 |-------------------------------------------------------------|------|----------------------|------------------------|

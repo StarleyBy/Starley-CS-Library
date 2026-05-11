@@ -1,5 +1,7 @@
 # Atrioventricular septal defects
 
+##### This chapter provides a comprehensive overview of atrioventricular septal defects (AVSDs), including anatomy, classification (partial, incomplete, complete, Rastelli types), pathophysiology, surgical indications, operative techniques (two‑patch repair, primary VSD closure, Nunn technique), postoperative care, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -69,7 +71,7 @@ Atrioventricular septal defects (AVSDs) include deficiencies in the inferior por
 
 Anatomically, AVSDs have been divided into partial, incomplete, and complete subtypes. Partial AVSDs have an ostium primum-type atrial septal defect (ASD) above the AV valve with a cleft or commissure between the superior and inferior cleft AV valve leaflets, associated with varying degrees of AV valve insufficiency. In incomplete AVSD, the atrial ostium primum defect is present, and the junction between the left and right AV valves is separated from the crest of the ventricular septum via a membrane of tissue. In these patients, the left and right AV valves have separate orifices but with abnormal structure, and the ventricular septal defect (VSD) component beneath the AV valve leaflets may be restrictive and filled in by chordal tissue. In complete AVSD, the common AV valve bridges over the VSD. The AV valve apparatus and AVSD has what can be considered as five leaflets in the complete form and six leaflets in the partial form. In complete AVSD, a superior and inferior bridging leaflet is always present with two additional right-sided lateral and anterosuperior leaflets and a left lateral or "mural" leaflet.
 
-The degree of bridging and chordal attachments of the common AV valve leaflets have been used to create the Rastelli classification of AVSDs.
+The degree of bridging and chordal attachments of the common AV valve leaflets have been used to create the Rastelli classification of AVSDs ([Fig. 43.1a–c](#fig-43-1)).
 
 <span id="fig-43-1"></span>![](_page_43_Picture_1.jpeg)
 
@@ -79,7 +81,7 @@ In Rastelli type A defect, the superior bridging leaflet is split at the ventric
 
 In Rastelli type C, the superior bridging leaflet floats freely over the ventricular septum without chordal attachments to the crest of the ventricular septum. The posterior bridging leaflet may be attached or free in either Rastelli type A or C classification. Rastelli type B is between the A and C extremes and is very rare.
 
-An additional consideration in AVSD repairs is the location of the AV conduction tissue, which is displaced posteriorly in AVSD toward the coronary sinus. The conduction tissue generally lies between the coronary sinus and the VSD. The ostium primum ASD distorts the coronary sinus orifice more posteriorly and inferiorly toward the left atrium, distorting the triangle of Koch. The bundle of His generally travels from the location near the coronary sinus along the crest of the VSD, under the inferior bridging leaflet on the rim of the VSD.
+An additional consideration in AVSD repairs is the location of the AV conduction tissue, which is displaced posteriorly in AVSD toward the coronary sinus. The conduction tissue generally lies between the coronary sinus and the VSD. The ostium primum ASD distorts the coronary sinus orifice more posteriorly and inferiorly toward the left atrium, distorting the triangle of Koch. The bundle of His generally travels from the location near the coronary sinus along the crest of the VSD, under the inferior bridging leaflet on the rim of the VSD ([Fig. 43.2](#fig-43-2)).
 
 <span id="fig-43-2"></span>![](_page_43_Picture_2.jpeg)
 
@@ -127,19 +129,19 @@ A standard median sternotomy is performed, and thymic tissue is removed if neces
 
 ### Two‑patch repair (complete AVSD)</summary><div class="details-content">
 
-The AV valve is exposed, and saline is injected into the ventricle to float the AV valves to assess the areas of coaptation.
+The AV valve is exposed, and saline is injected into the ventricle to float the AV valves to assess the areas of coaptation ([Fig. 43.3a](#fig-43-3a)).
 
 <span id="fig-43-3a"></span>![](_page_43_Picture_3a.jpeg)
 
 **FIGURE 43.3a** Saline injection to float AV valves and assess coaptation.
 
-The area of coaptation between the left superior and left inferior bridging leaflet is then identified and secured with a suture.
+The area of coaptation between the left superior and left inferior bridging leaflet is then identified and secured with a suture ([Fig. 43.3b](#fig-43-3b)).
 
 <span id="fig-43-3b"></span>![](_page_43_Picture_3b.jpeg)
 
 **FIGURE 43.3b** Identification and marking of the coaptation zone.
 
-Identification of this coapting area is important to prevent distortion of the AV valve during the repair and associated mitral regurgitation.
+Identification of this coapting area is important to prevent distortion of the AV valve during the repair and associated mitral regurgitation ([Fig. 43.3c](#fig-43-3c)).
 
 <span id="fig-43-3c"></span>![](_page_43_Picture_3c.jpeg)
 
@@ -147,7 +149,7 @@ Identification of this coapting area is important to prevent distortion of the A
 
 The size of the VSD is then examined, and a patch of Dacron material or Gore-Tex is cut in a semicircular fashion appropriate to the height of the defect from the right side of the ventricular septum to the bridging AV valves. The anterior posterior dimension is then measured. Inferiorly, a slightly larger length of the patch must be permitted to extend beyond the posterior aspect of the VSD underneath the inferior leaflet to protect the common bundle of His; superiorly, the patch is cut in a concave 'scooped-out' fashion to accommodate the common AV valve attachment.
 
-The patch of Dacron material is then secured into the VSD starting at the midportion of the patch, inferiorly to the right of the crest of the ventricular septum.
+The patch of Dacron material is then secured into the VSD starting at the midportion of the patch, inferiorly to the right of the crest of the ventricular septum ([Fig. 43.4](#fig-43-4)).
 
 <span id="fig-43-4"></span>![](_page_43_Picture_4.jpeg)
 
@@ -155,7 +157,7 @@ The patch of Dacron material is then secured into the VSD starting at the midpor
 
 Using a running technique, the patch can then be anchored into place using traction on the suture to gain exposure superiorly and inferiorly near the hinge points of the bridging leaflets of the common AV valve. If chordal attachments of the inferior bridging leaflet obscure the margin of the septum, secondary chordae or the inferior bridging leaflet itself can be divided as the patch is inserted. Posteriorly, the suture is brought through the base of the bridging leaflet at the level of the annulus to avoid penetrating the bundle of His. Superiorly, the suture is brought through the annulus at the appropriate site of the superior bridging leaflet.
 
-Next, the superior margin of the VSD patch is secured to the common AV valve leaflets using a running technique, incorporating the crest of the VSD patch below the AV valve tissue.
+Next, the superior margin of the VSD patch is secured to the common AV valve leaflets using a running technique, incorporating the crest of the VSD patch below the AV valve tissue ([Fig. 43.5](#fig-43-5)).
 
 <span id="fig-43-5"></span>![](_page_43_Picture_5.jpeg)
 
@@ -163,19 +165,19 @@ Next, the superior margin of the VSD patch is secured to the common AV valve lea
 
 A mattress technique may be necessary in some cases to avoid chordal attachments, and care must be taken to bring the coapting surfaces of the left superior and inferior bridging leaflets together at the initially marked point to ensure good coaptation of the left-sided component of the AV valve. After completion of the VSD patch implant, injection of saline into the left- and right-sided components of the common AV valve assesses the degree of insufficiency.
 
-The commissure or cleft between the left superior and inferior bridging leaflet is then closed to the point of chordal attachments at the tip of the leaflet using a running suture, generally of 6-0 Gore-Tex material that does not cut through the delicate valve leaflet tissue.
+The commissure or cleft between the left superior and inferior bridging leaflet is then closed to the point of chordal attachments at the tip of the leaflet using a running suture, generally of 6-0 Gore-Tex material that does not cut through the delicate valve leaflet tissue ([Fig. 43.6a](#fig-43-6a)).
 
 <span id="fig-43-6a"></span>![](_page_43_Picture_6a.jpeg)
 
 **FIGURE 43.6a** Closure of the cleft with running 6-0 Gore-Tex suture.
 
-AV valve competence is then assessed again with saline injection and, if additional regurgitation at the coaptation areas is present, small pledgeted annuloplasty sutures may be required at the commissures.
+AV valve competence is then assessed again with saline injection and, if additional regurgitation at the coaptation areas is present, small pledgeted annuloplasty sutures may be required at the commissures ([Fig. 43.6b](#fig-43-6b)).
 
 <span id="fig-43-6b"></span>![](_page_43_Picture_6b.jpeg)
 
 **FIGURE 43.6b** Pledgeted annuloplasty sutures at the commissures if residual regurgitation.
 
-After AV competence is assured, the ostium primum ASD component of the canal defect is closed with the homologous pericardial patch.
+After AV competence is assured, the ostium primum ASD component of the canal defect is closed with the homologous pericardial patch ([Fig. 43.7](#fig-43-7)).
 
 <span id="fig-43-7"></span>![](_page_43_Picture_7.jpeg)
 
@@ -183,7 +185,7 @@ After AV competence is assured, the ostium primum ASD component of the canal def
 
 The pericardium is cut to an appropriate size and shape, and then the suture line at the level of the common bridging AV valve leaflets is created using a running technique, reinforcing the VSD closure against the common AV valve with the suture to prevent valve dehiscence.
 
-Posteriorly, the suture line is carried along the leaflet tissue at the annulus of the posterior bridging leaflet to allow the suture line to deviate away from the coronary sinus before connection to the atrial septum, to avoid the AV node and leave the coronary sinus in the right atrial aspect of the repair.
+Posteriorly, the suture line is carried along the leaflet tissue at the annulus of the posterior bridging leaflet to allow the suture line to deviate away from the coronary sinus before connection to the atrial septum, to avoid the AV node and leave the coronary sinus in the right atrial aspect of the repair ([Fig. 43.8](#fig-43-8)).
 
 <span id="fig-43-8"></span>![](_page_43_Picture_8.jpeg)
 
@@ -197,7 +199,7 @@ The ASD closure is completed, and then the right atrium is closed with a running
 
 ### Primary closure of ventricular septal defect component</summary><div class="details-content">
 
-An alternative to two-patch repair of AVSD has been popularized by Nunn. In this repair, the VSD patch is omitted, and pledgeted mattress sutures are taken from the right-sided aspect of the VSD and then brought directly through the bridging leaflets of the AV valves and through the lower portion of the atrial septal patch.
+An alternative to two-patch repair of AVSD has been popularized by Nunn. In this repair, the VSD patch is omitted, and pledgeted mattress sutures are taken from the right-sided aspect of the VSD and then brought directly through the bridging leaflets of the AV valves and through the lower portion of the atrial septal patch ([Fig. 43.9](#fig-43-9)).
 
 <span id="fig-43-9"></span>![](_page_43_Picture_9.jpeg)
 
@@ -211,7 +213,7 @@ When the sutures are tied, the common AV valve leaflets are brought down to the 
 
 ### Repair of partial atrioventricular septal defect</summary><div class="details-content">
 
-The repair of partial AVSD involves the ASD patch as done in the complete form of AVSD. A pericardial patch is secured to the AV valve at the bridging tissue between the left and right valve orifices, and the cleft or commissure of the mitral valve between its left superior and inferior leaflets is closed with a running suture. After assessment of AV competence is performed, the ASD patch is completed, leaving the coronary sinus on the right atrial aspect of the repair.
+The repair of partial AVSD involves the ASD patch as done in the complete form of AVSD. A pericardial patch is secured to the AV valve at the bridging tissue between the left and right valve orifices, and the cleft or commissure of the mitral valve between its left superior and inferior leaflets is closed with a running suture. After assessment of AV competence is performed, the ASD patch is completed, leaving the coronary sinus on the right atrial aspect of the repair ([Fig. 43.10](#fig-43-10)).
 
 <span id="fig-43-10"></span>![](_page_43_Picture_10.jpeg)
 

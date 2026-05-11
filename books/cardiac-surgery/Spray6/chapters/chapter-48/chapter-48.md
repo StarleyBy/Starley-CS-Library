@@ -1,5 +1,7 @@
 # Ventricular septal defect
 
+##### This chapter provides a comprehensive overview of ventricular septal defects, including anatomy and nomenclature, indications for closure, operative techniques for each anatomic subtype (perimembranous, doubly committed juxta-arterial, muscular, Gerbode), postoperative care, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -102,7 +104,7 @@ The pathological finding of a VSD was first described by Roger in 1879. Eisenmen
 
 ## ANATOMY AND NOMENCLATURE</summary><div class="details-content">
 
-A VSD is defined as an opening or hole in the interventricular septum. Isolated VSDs occur in approximately 2 out of every 1000 live births and constitute over 20% of all congenital heart defects. Because isolated VSD is one of the most commonly recognized forms of congenital heart disease, numerous nomenclature schemes have been utilized to describe and classify this lesion. This text attempts to unify the concept of VSD anatomy using the classification scheme advocated by Professor Robert Anderson. This classification divides VSDs into four main types (see Table 48.1):
+A VSD is defined as an opening or hole in the interventricular septum. Isolated VSDs occur in approximately 2 out of every 1000 live births and constitute over 20% of all congenital heart defects. Because isolated VSD is one of the most commonly recognized forms of congenital heart disease, numerous nomenclature schemes have been utilized to describe and classify this lesion. This text attempts to unify the concept of VSD anatomy using the classification scheme advocated by Professor Robert Anderson. This classification divides VSDs into four main types (see [Table 48.1](#table-48-1)):
 
 - *perimembranous defects*, which are bordered directly by the fibrous continuity between the AV valves and an arterial valve
 - *doubly committed juxta‑arterial defects*, which are bordered directly by the fibrous continuity of the leaflets of the aortic and pulmonary valves
@@ -112,7 +114,7 @@ A VSD is defined as an opening or hole in the interventricular septum. Isolated 
 <span id="table-48-1"></span>
 <details class="med-details"><summary>
 
-#### TABLE 48.1: Anatomy and nomenclature of VSD</summary><div class="details-content">
+#### TABLE 48-1: Anatomy and nomenclature of VSD</summary><div class="details-content">
 
 | Type                                                | Subtypes (by extension/location)                          |
 |-----------------------------------------------------|------------------------------------------------------------|
@@ -123,7 +125,7 @@ A VSD is defined as an opening or hole in the interventricular septum. Isolated 
 
 </div></details>
 
-Perimembranous and muscular defects have been subdivided into three subgroups based on whether they extend into the inlet, trabecular, or outlet portion of the right ventricle (see Figure 48.1). Muscular defects are identified by their location in the septum (outlet, trabecular, inlet, apical). The anatomy of the VSD is quite important as the indications for VSD closure vary significantly depending on the anatomic location of the VSD. Perimembranous defects are the most common and account for 80% of all defects. Muscular and doubly committed juxta‑arterial defects are equally split in most surgical series at 10% each. The Gerbode defect is quite rare and accounts for 1% of VSD procedures.
+Perimembranous and muscular defects have been subdivided into three subgroups based on whether they extend into the inlet, trabecular, or outlet portion of the right ventricle (see [Fig. 48.1](#fig-48-1)). Muscular defects are identified by their location in the septum (outlet, trabecular, inlet, apical). The anatomy of the VSD is quite important as the indications for VSD closure vary significantly depending on the anatomic location of the VSD. Perimembranous defects are the most common and account for 80% of all defects. Muscular and doubly committed juxta‑arterial defects are equally split in most surgical series at 10% each. The Gerbode defect is quite rare and accounts for 1% of VSD procedures.
 
 <span id="fig-48-1"></span>![](_page_48_Picture_1.jpeg)
 
@@ -135,14 +137,14 @@ Perimembranous and muscular defects have been subdivided into three subgroups ba
 
 ## INDICATIONS FOR VSD CLOSURE</summary><div class="details-content">
 
-With steadily improving results of VSD closure secondary to improvements in cardiopulmonary bypass techniques, myocardial protection, and postoperative intensive care unit management, the indications for VSD closure have been expanded and the age of the patients at the time of correction has steadily decreased. In general, the indications for VSD closure are based on a comparison between the natural history of VSD and the results of surgical intervention. For the individual patient, there are four main considerations: the anatomy of the defect, the child’s age and symptoms, the pulmonary vascular resistance, and associated intracardiac anomalies. Our general indications for VSD closure are shown in Table 48.2.
+With steadily improving results of VSD closure secondary to improvements in cardiopulmonary bypass techniques, myocardial protection, and postoperative intensive care unit management, the indications for VSD closure have been expanded and the age of the patients at the time of correction has steadily decreased. In general, the indications for VSD closure are based on a comparison between the natural history of VSD and the results of surgical intervention. For the individual patient, there are four main considerations: the anatomy of the defect, the child’s age and symptoms, the pulmonary vascular resistance, and associated intracardiac anomalies. Our general indications for VSD closure are shown in [Table 48.2](#table-48-2).
 
 Infants with a large VSD present with a loud systolic murmur and symptoms of congestive heart failure. These symptoms include sweating with feeds, failure to thrive, and frequent upper respiratory tract infections. Older children with a smaller VSD usually present with a harsh pansystolic murmur. They may be otherwise asymptomatic.
 
 <span id="table-48-2"></span>
 <details class="med-details"><summary>
 
-#### TABLE 48.2: Indications for VSD closure</summary><div class="details-content">
+#### TABLE 48-2: Indications for VSD closure</summary><div class="details-content">
 
 | # | Indication                                                          |
 |---|---------------------------------------------------------------------|
@@ -164,11 +166,13 @@ Patients with perimembranous and doubly committed juxta‑arterial VSDs may deve
 
 For children with a VSD, the incidence of bacterial endocarditis is 14.5 per 10 000 patient years. This is 35 times the normal population base rate for bacterial endocarditis. Surgical closure reduces the risk of subacute bacterial endocarditis (SBE) by over 50%. Prevention of SBE is a consideration for VSD closure in borderline cases. All patients with a VSD who have had a prior episode of SBE should have surgical closure of their VSD because of the risk of SBE recurrence.
 
-<span id="fig-48-2"></span>![](_page_48_Picture_2a.jpeg)
-  
-![](_page_48_Picture_2b.jpeg)
+<span id="fig-48-2a"></span>![](_page_48_Picture_2a.jpeg)
 
-**FIGURE 48.2a, b** (a) Normal anatomic relationship of aortic and pulmonary valves. (b) Anatomy of doubly committed juxta‑arterial VSD.
+**FIGURE 48.2a** Normal anatomic relationship of aortic and pulmonary valves.
+
+<span id="fig-48-2b"></span>![](_page_48_Picture_2b.jpeg)
+
+**FIGURE 48.2b** Anatomy of doubly committed juxta‑arterial VSD.
 
 </div></details>
 
@@ -182,14 +186,14 @@ The operative approach to VSDs has evolved considerably over the past several de
 
 ### General principles</summary><div class="details-content">
 
-The general principles of surgical VSD closure are summarized in Table 48.3.
+The general principles of surgical VSD closure are summarized in [Table 48.3](#table-48-3).
 
-VSD closure is performed using cardiopulmonary bypass and hypothermia. Most VSDs can be successfully closed without the use of circulatory arrest, although this has been useful for some subgroups such as VSD with interrupted aortic arch and small premature babies less than 2 kg in weight. Bicaval venous cannulation allows cardiopulmonary bypass to continue during VSD closure and avoid the potential complications of circulatory arrest. Aortic cross‑clamp with cold blood cardioplegia administration (we use del Nido solution) allows VSD closure to be performed in a quiet field. A vent in the right superior pulmonary vein makes for a bloodless field by suctioning blood from the left atrium and left ventricle. The operative approach varies according to the type of VSD. Perimembranous VSDs are usually repaired through a right atrial approach. Doubly committed juxta‑arterial defects are approached through the main pulmonary artery. Muscular VSDs are usually approached through the right atrium, although they may also be approached through the main pulmonary artery or through a limited right or left ventriculotomy. The Gerbode defect is approached via the right atrium. Rarely, perimembranous and doubly committed juxta‑arterial VSDs, particularly those with significant associated aortic valve insufficiency, may be best approached through the aorta and the aortic valve. These different approaches are summarized in Table 48.4.
+VSD closure is performed using cardiopulmonary bypass and hypothermia. Most VSDs can be successfully closed without the use of circulatory arrest, although this has been useful for some subgroups such as VSD with interrupted aortic arch and small premature babies less than 2 kg in weight. Bicaval venous cannulation allows cardiopulmonary bypass to continue during VSD closure and avoid the potential complications of circulatory arrest. Aortic cross‑clamp with cold blood cardioplegia administration (we use del Nido solution) allows VSD closure to be performed in a quiet field. A vent in the right superior pulmonary vein makes for a bloodless field by suctioning blood from the left atrium and left ventricle. The operative approach varies according to the type of VSD. Perimembranous VSDs are usually repaired through a right atrial approach. Doubly committed juxta‑arterial defects are approached through the main pulmonary artery. Muscular VSDs are usually approached through the right atrium, although they may also be approached through the main pulmonary artery or through a limited right or left ventriculotomy. The Gerbode defect is approached via the right atrium. Rarely, perimembranous and doubly committed juxta‑arterial VSDs, particularly those with significant associated aortic valve insufficiency, may be best approached through the aorta and the aortic valve. These different approaches are summarized in [Table 48.4](#table-48-4).
 
 <span id="table-48-3"></span>
 <details class="med-details"><summary>
 
-#### TABLE 48.3: General principles of VSD closure</summary><div class="details-content">
+#### TABLE 48-3: General principles of VSD closure</summary><div class="details-content">
 
 - Aortic and bicaval venous cannulation
 - Cardiopulmonary bypass
@@ -203,7 +207,7 @@ VSD closure is performed using cardiopulmonary bypass and hypothermia. Most VSDs
 <span id="table-48-4"></span>
 <details class="med-details"><summary>
 
-#### TABLE 48.4: Approaches for VSD closure</summary><div class="details-content">
+#### TABLE 48-4: Approaches for VSD closure</summary><div class="details-content">
 
 | Type of defect           | Approach                              |
 |--------------------------|---------------------------------------|
@@ -245,13 +249,13 @@ In some instances the VSD perimeter cannot be completely identified because of t
 
 **FIGURE 48.5** Exposure of ventricular septal defect.
 
-The technique of VSD closure that we have used at Ann & Robert H. Lurie Children’s Hospital of Chicago for over 50 years is to encircle the perimeter of the VSD with multiple interrupted pledget‑based Dacron sutures. The sutures are then sequentially placed through an appropriately sized patch, the patch is lowered into the defect, and the sutures are tied and cut. The suture placement for a perimembranous VSD must avoid the area of the atrioventricular (AV) node and the conducting system. The location of the AV node is shown in Figure 48.6. To avoid injury to the conducting system the sutures should be placed superficially and carefully along the inferior and posterior margins of the defect and stay on the right ventricular side of the VSD. This begins from the area of the insertion of the muscle of Lancisi (medial papillary muscle of the conus) to the annulus of the tricuspid valve near the region of the apex of the triangle of Koch. The borders of the triangle of Koch are the tricuspid valve annulus, the orifice of the coronary sinus, and the tendon of Todaro. In some cases the sutures will be passed from the right atrial side of the tricuspid valve through the valve itself into the right ventricular side. Care must be taken when placing these sutures to avoid the aortic valve cusp, which is just on the other side of the tricuspid valve annulus.
+The technique of VSD closure that we have used at Ann & Robert H. Lurie Children’s Hospital of Chicago for over 50 years is to encircle the perimeter of the VSD with multiple interrupted pledget‑based Dacron sutures. The sutures are then sequentially placed through an appropriately sized patch, the patch is lowered into the defect, and the sutures are tied and cut. The suture placement for a perimembranous VSD must avoid the area of the atrioventricular (AV) node and the conducting system. The location of the AV node is shown in [Fig. 48.6](#fig-48-6). To avoid injury to the conducting system the sutures should be placed superficially and carefully along the inferior and posterior margins of the defect and stay on the right ventricular side of the VSD. This begins from the area of the insertion of the muscle of Lancisi (medial papillary muscle of the conus) to the annulus of the tricuspid valve near the region of the apex of the triangle of Koch. The borders of the triangle of Koch are the tricuspid valve annulus, the orifice of the coronary sinus, and the tendon of Todaro. In some cases the sutures will be passed from the right atrial side of the tricuspid valve through the valve itself into the right ventricular side. Care must be taken when placing these sutures to avoid the aortic valve cusp, which is just on the other side of the tricuspid valve annulus.
 
 <span id="fig-48-6"></span>![](_page_48_Picture_6.jpeg)
 
 **FIGURE 48.6** AV node.
 
-Once all of the pledgeted sutures have been placed around the perimeter of the VSD, a polytetrafluoroethylene (PTFE) patch is cut to the appropriate size. The size of the patch is usually approximately 1.5 times the size of the actual hole in the septum. This allows a space for the pledgeted sutures to be placed with a 2–3 mm rim of patch between the suture placement and the edge of the patch. Figure 48.7 shows the sutures going through the patch. When all the sutures have been passed sequentially through the patch, the patch is lowered into the defect and care is taken to make sure that all the loops of the sutures are pulled up. The sutures are then tied and cut.
+Once all of the pledgeted sutures have been placed around the perimeter of the VSD, a polytetrafluoroethylene (PTFE) patch is cut to the appropriate size. The size of the patch is usually approximately 1.5 times the size of the actual hole in the septum. This allows a space for the pledgeted sutures to be placed with a 2–3 mm rim of patch between the suture placement and the edge of the patch. [Figure 48.7](#fig-48-7) shows the sutures going through the patch. When all the sutures have been passed sequentially through the patch, the patch is lowered into the defect and care is taken to make sure that all the loops of the sutures are pulled up. The sutures are then tied and cut.
 
 <span id="fig-48-7"></span>![](_page_48_Picture_7.jpeg)
 
@@ -277,13 +281,13 @@ We have used intraoperative transesophageal echocardiography (TEE) for all VSD c
 
 #### Doubly committed juxta‑arterial VSD</summary><div class="details-content">
 
-Doubly committed juxta‑arterial VSDs account for 5–10% of all VSDs closed surgically in Western countries. In reviews from Asian countries doubly committed juxta‑arterial VSDs are more frequent, representing 25–30% of VSD closures. All patients with a doubly committed juxta‑arterial VSD should undergo closure because of the high risk of development of aortic valve prolapse followed by aortic valve insufficiency. The approach to these defects is through the main pulmonary artery and then the pulmonary valve. Cardiopulmonary bypass maneuvers are the same as for perimembranous VSD. However, after cardioplegia has been administered, the exposure of the defect is accomplished through a vertical incision in the main pulmonary artery. This incision typically extends from the distal main pulmonary artery into the sinus of the pulmonary valve anteriorly and to the patient’s right. This is shown in Figure 48.9. Retraction of the pulmonary artery opening is accomplished with stay sutures. Small‑vein retractors are used to gently retract the pulmonary valve and demonstrate the doubly committed juxta‑arterial VSD.
+Doubly committed juxta‑arterial VSDs account for 5–10% of all VSDs closed surgically in Western countries. In reviews from Asian countries doubly committed juxta‑arterial VSDs are more frequent, representing 25–30% of VSD closures. All patients with a doubly committed juxta‑arterial VSD should undergo closure because of the high risk of development of aortic valve prolapse followed by aortic valve insufficiency. The approach to these defects is through the main pulmonary artery and then the pulmonary valve. Cardiopulmonary bypass maneuvers are the same as for perimembranous VSD. However, after cardioplegia has been administered, the exposure of the defect is accomplished through a vertical incision in the main pulmonary artery. This incision typically extends from the distal main pulmonary artery into the sinus of the pulmonary valve anteriorly and to the patient’s right. This is shown in [Figure 48.9](#fig-48-9). Retraction of the pulmonary artery opening is accomplished with stay sutures. Small‑vein retractors are used to gently retract the pulmonary valve and demonstrate the doubly committed juxta‑arterial VSD.
 
 <span id="fig-48-9"></span>![](_page_48_Picture_9.jpeg)
 
 **FIGURE 48.9** VSD exposure with pulmonary artery incision.
 
-Pledgeted sutures are placed circumferentially around the perimeter of the VSD. A critical part of the closure involves placing sutures directly in the base of the pulmonary valve cusps as an anchoring point where there is no muscular septum separating the aortic and pulmonary valves. Figure 48.10 shows the location of the pledgeted sutures not only in the top of the muscular septum, but also in the base of the pulmonary valve cusp. Figure 48.11 shows the lateral projection of the defect showing pledgeted sutures passing through the base of the pulmonary valve cusp and the relationship to the aortic valve cusp. These sutures must be very carefully placed to avoid injuring the aortic valve or the pulmonary valve.
+Pledgeted sutures are placed circumferentially around the perimeter of the VSD. A critical part of the closure involves placing sutures directly in the base of the pulmonary valve cusps as an anchoring point where there is no muscular septum separating the aortic and pulmonary valves. [Figure 48.10](#fig-48-10) shows the location of the pledgeted sutures not only in the top of the muscular septum, but also in the base of the pulmonary valve cusp. [Figure 48.11](#fig-48-11) shows the lateral projection of the defect showing pledgeted sutures passing through the base of the pulmonary valve cusp and the relationship to the aortic valve cusp. These sutures must be very carefully placed to avoid injuring the aortic valve or the pulmonary valve.
 
 <span id="fig-48-10"></span>![](_page_48_Picture_10.jpeg)
 
@@ -293,7 +297,7 @@ Pledgeted sutures are placed circumferentially around the perimeter of the VSD. 
 
 **FIGURE 48.11** Lateral projection of pledgeted sutures in relation to the aortic and pulmonary valves.
 
-Once sutures have been placed around the perimeter of the VSD they are passed through the patch, which is then lowered into the defect and all of the sutures are tied. Completed patch closure is shown in Figure 48.12. After the VSD has been closed, the opening in the pulmonary artery is closed with a running Prolene suture. The left and right sides of the heart are de‑aired as for a perimembranous VSD prior to removing the aortic cross‑clamp.
+Once sutures have been placed around the perimeter of the VSD they are passed through the patch, which is then lowered into the defect and all of the sutures are tied. Completed patch closure is shown in [Figure 48.12](#fig-48-12). After the VSD has been closed, the opening in the pulmonary artery is closed with a running Prolene suture. The left and right sides of the heart are de‑aired as for a perimembranous VSD prior to removing the aortic cross‑clamp.
 
 <span id="fig-48-12"></span>![](_page_48_Picture_12.jpeg)
 
@@ -317,7 +321,7 @@ An alternative approach for the patient with a doubly committed juxta‑arterial
 
 If the patient has associated aortic valve insufficiency, they may require a simultaneous aortic valve suspension. Vertical suspension in patients such as this was initially described in great detail by Dr George Trusler from Toronto. In our original series of doubly committed juxta‑arterial VSD patients, four patients required aortic valve suspension. In three of these patients the VSD was closed through an aortotomy rather than through the pulmonary artery. This was because the primary indication for the procedure was the aortic valve insufficiency.
 
-After cardioplegia, an obliquely curved incision is made starting on the anterior aspect of the ascending aorta curving down into the non‑coronary sinus. This incision may be extended as needed transversely toward the left. The aortic valve leaflets are retracted carefully to expose the defect. Often there is an absence of a superior muscular or fibrous rim of the defect, making suture placement somewhat difficult. In this situation sutures may be passed through the aortic wall from the inside of the aortic valve sinus in a fashion analogous to the placement of suture through the base of the pulmonary valve cusp as described earlier. However, we do not usually use pledgets on the aortic side to prevent adhesions at the base of the aortic valve cusp with resultant AI. The transaortic approach to a VSD is illustrated in Figure 48.14.
+After cardioplegia, an obliquely curved incision is made starting on the anterior aspect of the ascending aorta curving down into the non‑coronary sinus. This incision may be extended as needed transversely toward the left. The aortic valve leaflets are retracted carefully to expose the defect. Often there is an absence of a superior muscular or fibrous rim of the defect, making suture placement somewhat difficult. In this situation sutures may be passed through the aortic wall from the inside of the aortic valve sinus in a fashion analogous to the placement of suture through the base of the pulmonary valve cusp as described earlier. However, we do not usually use pledgets on the aortic side to prevent adhesions at the base of the aortic valve cusp with resultant AI. The transaortic approach to a VSD is illustrated in [Figure 48.14](#fig-48-14).
 
 <span id="fig-48-14"></span>![](_page_48_Picture_14.jpeg)
 
@@ -353,11 +357,13 @@ Use of this operative exposure is limited to certain muscular VSDs, particularly
 
 The so‑called Gerbode ventriculoatrial defect is a rare defect that permits shunting of blood from the left ventricle to the right atrium. It occurs when there is a deficiency of the AV membranous septum. From 1990 to 2008, we identified six patients who had undergone surgical closure of a congenital defect of the AV component of the membranous septum. Median age at repair was 1.6 years. All patients were symptomatic, with three having congestive cardiac failure, two failing to thrive, and two having intolerance to exercise. All had a dilated right atrium. All were closed by insertion of a patch. No patient had a residual defect or heart block.
 
-<span id="fig-48-16"></span>![](_page_48_Picture_16a.jpeg)
- 
-![](_page_48_Picture_16b.jpeg)
+<span id="fig-48-16a"></span>![](_page_48_Picture_16a.jpeg)
 
-**FIGURE 48.16a, b** Gerbode VSD.
+**FIGURE 48.16a** Gerbode VSD – anatomy.
+
+<span id="fig-48-16b"></span>![](_page_48_Picture_16b.jpeg)
+
+**FIGURE 48.16b** Gerbode VSD – surgical closure.
 
 </div></details>
 
@@ -365,7 +371,7 @@ The so‑called Gerbode ventriculoatrial defect is a rare defect that permits sh
 
 #### Alternative techniques</summary><div class="details-content">
 
-Although our experience at Ann & Robert H. Lurie Children’s Hospital of Chicago has been using pledgeted interrupted sutures for the majority of VSDs, there are certain exceptions to this. For very tiny infants (i.e. <3 kg) the VSD is often surrounded by relatively friable neonatal muscle. Placement of sutures with pledgets and then tying all of the sutures separately may actually increase the chances of the sutures pulling through the delicate neonatal myocardium. In this circumstance we have employed a running suture technique using 6‑0 Prolene suture. The suture is anchored with a pericardial pledget and we then use a pericardial patch fixed in glutaraldehyde for the VSD closure. The technique is illustrated in Figure 48.17a and b. The pericardial pledget is passed through the portion of the VSD which is furthest away from the surgeon. The suture is passed through the tanned pericardium and then tied. The two remaining ends of the sutures are then used in a running fashion, one superiorly and one inferiorly, and the pericardial patch is sutured to the edge of the VSD. The suture is completed on the tricuspid valve annulus and the knot tied outside the tricuspid valve. Again, we have found this most useful for neonates.
+Although our experience at Ann & Robert H. Lurie Children’s Hospital of Chicago has been using pledgeted interrupted sutures for the majority of VSDs, there are certain exceptions to this. For very tiny infants (i.e. <3 kg) the VSD is often surrounded by relatively friable neonatal muscle. Placement of sutures with pledgets and then tying all of the sutures separately may actually increase the chances of the sutures pulling through the delicate neonatal myocardium. In this circumstance we have employed a running suture technique using 6‑0 Prolene suture. The suture is anchored with a pericardial pledget and we then use a pericardial patch fixed in glutaraldehyde for the VSD closure. The technique is illustrated in [Figure 48.17a and b](#fig-48-17). The pericardial pledget is passed through the portion of the VSD which is furthest away from the surgeon. The suture is passed through the tanned pericardium and then tied. The two remaining ends of the sutures are then used in a running fashion, one superiorly and one inferiorly, and the pericardial patch is sutured to the edge of the VSD. The suture is completed on the tricuspid valve annulus and the knot tied outside the tricuspid valve. Again, we have found this most useful for neonates.
 
 <span id="fig-48-17"></span>![](_page_48_Picture_17.jpeg)
 

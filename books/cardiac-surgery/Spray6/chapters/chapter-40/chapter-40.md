@@ -1,5 +1,7 @@
 # Palliative procedures: shunts and pulmonary artery banding
 
+##### This chapter describes palliative surgical procedures for congenital heart disease, including the modified Blalock–Taussig shunt, bidirectional cavopulmonary anastomosis (Glenn shunt), and pulmonary artery banding, with emphasis on indications, operative techniques, and outcomes.
+
 <details class="med-details"><summary>
 
 ## Executive Summary</summary><div class="details-content">
@@ -88,37 +90,37 @@ A standard median sternotomy is performed. The upper pericardium is incised, and
 
 **FIGURE 40.1** Median sternotomy exposure for modified Blalock–Taussig shunt. (Image from original source.)
 
-Before the placement of any clamp, a PTFE conduit is cut on an angle with a gentle S shape, corresponding to the angle of the innominate artery as it relates to the aorta.
+Before the placement of any clamp, a PTFE conduit is cut on an angle with a gentle S shape, corresponding to the angle of the innominate artery as it relates to the aorta ([Fig. 40.2](#fig-40-2)).
 
 <span id="fig-40-2"></span>![](_page_40_Picture_2.jpeg)
 
 **FIGURE 40.2** PTFE conduit cut on an angle with a gentle S‑shape to match the innominate artery angle.
 
-A forcep is used to grasp the point of intended anastomosis to the innominate artery. Caudad traction on this point during the application of a C‑clamp centers the point of anastomosis within the jaws of the clamp.
+A forcep is used to grasp the point of intended anastomosis to the innominate artery. Caudad traction on this point during the application of a C‑clamp centers the point of anastomosis within the jaws of the clamp ([Fig. 40.3](#fig-40-3)).
 
 <span id="fig-40-3"></span>![](_page_40_Picture_3.jpeg)
 
 **FIGURE 40.3** Grasping the intended anastomosis site on the innominate artery.
 
-A 7‑0 or 8‑0 polypropylene suture is used to form the proximal anastomosis, with caution so as not to create a bulky, inverting, or distorted suture line.
+A 7‑0 or 8‑0 polypropylene suture is used to form the proximal anastomosis, with caution so as not to create a bulky, inverting, or distorted suture line ([Fig. 40.4](#fig-40-4)).
 
-<span id="fig-40-4"></span>![](_page_40_Figure_4.jpeg)
+<span id="fig-40-4"></span>![](_page_40_Picture_4.jpeg)
 
 **FIGURE 40.4** Proximal anastomosis to the innominate artery.
 
 At the completion of the proximal anastomosis, the PTFE graft is clamped distally after passing it posterior to the innominate vein on its course toward the pulmonary artery.
 
-As the graft is distended with blood, a point is chosen at which to divide it at a length and angle corresponding to the point of distal anastomosis to the right pulmonary artery. A vascular clamp is placed proximally on the graft to block flow without compromising exposure for the distal anastomosis.
+As the graft is distended with blood, a point is chosen at which to divide it at a length and angle corresponding to the point of distal anastomosis to the right pulmonary artery. A vascular clamp is placed proximally on the graft to block flow without compromising exposure for the distal anastomosis ([Fig. 40.5](#fig-40-5)).
 
-<span id="fig-40-5"></span>![](_page_40_Figure_5.jpeg)
+<span id="fig-40-5"></span>![](_page_40_Picture_5.jpeg)
 
 **FIGURE 40.5** Proximal clamping of the graft for distal anastomosis.
 
 Traction sutures on the ascending aorta can aid in exposure for this anastomosis. The center point of the intended distal anastomosis on the right pulmonary artery is grasped and tented cephalad, to center it within a C‑clamp. The patient’s saturation and hemodynamics are observed during a trial pulmonary artery clamping before making the pulmonary arteriotomy. Care is taken to ensure that the clamp does not exert compression on the coronary arteries or aorta. A longitudinal pulmonary arteriotomy is made, and a 7‑0 or 8‑0 polypropylene suture is used to complete the distal anastomosis.
 
-If the shunt is being created as an isolated procedure, the patent ductus is ligated and divided as the shunt is opened.
+If the shunt is being created as an isolated procedure, the patent ductus is ligated and divided as the shunt is opened ([Fig. 40.6](#fig-40-6)).
 
-<span id="fig-40-6"></span>![](_page_40_Figure_6.jpeg)
+<span id="fig-40-6"></span>![](_page_40_Picture_6.jpeg)
 
 **FIGURE 40.6** Ligation and division of patent ductus arteriosus after shunt opening.
 
@@ -132,31 +134,33 @@ Mobilization of a patent ductus before the shunt construction in ductal‑depend
 
 When the brachiocephalic vasculature is insufficient in caliber, condition, or geometry to support a modified Blalock–Taussig shunt, a central aortopulmonary shunt is an alternative approach.
 
-Through a median sternotomy, the ascending aorta is exposed. Marking sutures are placed to delimit a diagonal course for a conduit that will direct flow toward the targeted distal anastomosis site on the pulmonary artery. With retraction on the marking sutures, a straight or gently curved vascular clamp is placed so as to isolate the area delimited by the marking sutures, without compromising flow to the distal aorta. An aortotomy is made.
+Through a median sternotomy, the ascending aorta is exposed. Marking sutures are placed to delimit a diagonal course for a conduit that will direct flow toward the targeted distal anastomosis site on the pulmonary artery. With retraction on the marking sutures, a straight or gently curved vascular clamp is placed so as to isolate the area delimited by the marking sutures, without compromising flow to the distal aorta. An aortotomy is made ([Figs. 40.7a and 40.7b](#fig-40-7a)).
 
-<span id="fig-40-7a"></span>![](_page_40_Figure_7a.jpeg)
+<span id="fig-40-7a"></span>![](_page_40_Picture_7a.jpeg)
 
 **FIGURE 40.7a** Marking sutures on ascending aorta for central shunt.
 
-<span id="fig-40-7b"></span>![](_page_40_Figure_7b.jpeg) *(Note: multiple images in original, the second shows aortotomy)*
+<span id="fig-40-7b"></span>![](_page_40_Picture_7b.jpeg)
 
 **FIGURE 40.7b** Aortotomy after placement of partial occlusion clamp.
 
-A PTFE conduit is cut in a recurved bevel, which, when positioned onto the curved aortotomy, will produce a uniform conduit shape, with inflow compromised neither by a restrictive edge at the heel of the graft nor by flattening along the greater curve of the graft.
+A PTFE conduit is cut in a recurved bevel, which, when positioned onto the curved aortotomy, will produce a uniform conduit shape, with inflow compromised neither by a restrictive edge at the heel of the graft nor by flattening along the greater curve of the graft ([Figs. 40.8a and 40.8b](#fig-40-8a)).
 
-<span id="fig-40-8a"></span>![](_page_40_Figure_8.jpeg)
+<span id="fig-40-8a"></span>![](_page_40_Picture_8.jpeg)
 
 **FIGURE 40.8a** PTFE conduit cut with a recurved bevel.
 
+<span id="fig-40-8b"></span>![](_page_40_Picture_8b.jpeg)
+
 **FIGURE 40.8b** Proper positioning of the recurved bevel on the aortotomy.
 
-The graft anastomosis is formed, the partial occlusion clamp on the aorta is released, and the graft is allowed to fill. The distal end of the graft is cut at an appropriate bevel for its anastomosis onto the pulmonary artery, which is carried out as for the modified Blalock–Taussig shunt.
+The graft anastomosis is formed, the partial occlusion clamp on the aorta is released, and the graft is allowed to fill. The distal end of the graft is cut at an appropriate bevel for its anastomosis onto the pulmonary artery, which is carried out as for the modified Blalock–Taussig shunt ([Figs. 40.9a and 40.9b](#fig-40-9a)).
 
-<span id="fig-40-9a"></span>![](_page_40_Figure_9a.jpeg)
+<span id="fig-40-9a"></span>![](_page_40_Picture_9a.jpeg)
 
 **FIGURE 40.9a** Completed proximal anastomosis of central shunt.
 
-<span id="fig-40-9b"></span>![](_page_40_Figure_9b.jpeg)
+<span id="fig-40-9b"></span>![](_page_40_Picture_9b.jpeg)
 
 **FIGURE 40.9b** Graft filled after release of aortic clamp.
 
@@ -248,79 +252,81 @@ A peripheral arterial monitoring line and venous access are important at the out
 
 ### OPERATION</summary><div class="details-content">
 
-The SVC is mobilized circumferentially from its atrial attachment and cephalad onto the innominate vein.
+The SVC is mobilized circumferentially from its atrial attachment and cephalad onto the innominate vein ([Fig. 40.10](#fig-40-10)).
 
-<span id="fig-40-10"></span>![](_page_40_Figure_10.jpeg)
+<span id="fig-40-10"></span>![](_page_40_Picture_10.jpeg)
 
 **FIGURE 40.10** Mobilization of the SVC and innominate vein.
 
 The azygos vein is ligated and divided. The ipsilateral pulmonary artery is mobilized fully, beyond the origin of the upper lobe branch. Cardiopulmonary bypass is initiated with bicaval venous cannulation.
 
-A polypropylene pursestring is placed around the SVC just cephalad to the atriocaval junction.
+A polypropylene pursestring is placed around the SVC just cephalad to the atriocaval junction ([Fig. 40.11](#fig-40-11)).
 
-<span id="fig-40-11"></span>![](_page_40_Figure_11.jpeg)
+<span id="fig-40-11"></span>![](_page_40_Picture_11.jpeg)
 
 **FIGURE 40.11** Pursestring around the SVC above the atriocaval junction.
 
-The SVC is divided and the atrial pursestring secured. A pursestring ligation of the SVC is preferred over a clamp at the SVC, so as to minimize tissue damage in the area of the sinoatrial node. The orientation of the SVC is carefully preserved. A spatulation of the lateral aspect of the SVC is performed.
+The SVC is divided and the atrial pursestring secured. A pursestring ligation of the SVC is preferred over a clamp at the SVC, so as to minimize tissue damage in the area of the sinoatrial node. The orientation of the SVC is carefully preserved. A spatulation of the lateral aspect of the SVC is performed ([Fig. 40.12](#fig-40-12)).
 
-<span id="fig-40-12"></span>![](_page_40_Figure_12.jpeg)
+<span id="fig-40-12"></span>![](_page_40_Picture_12.jpeg)
 
 **FIGURE 40.12** Spatulation of the lateral SVC.
 
-The mobilized pulmonary artery is grasped at a center point for the planned anastomosis, and a curved clamp is applied, taking care to not compress the coronary artery as it emerges from the adjacent aortic root.
+The mobilized pulmonary artery is grasped at a center point for the planned anastomosis, and a curved clamp is applied, taking care to not compress the coronary artery as it emerges from the adjacent aortic root ([Fig. 40.13](#fig-40-13)).
 
-<span id="fig-40-13"></span>![](_page_40_Figure_13.jpeg)
+<span id="fig-40-13"></span>![](_page_40_Picture_13.jpeg)
 
 **FIGURE 40.13** Curved clamp on pulmonary artery, avoiding coronary compression.
 
-A longitudinal pulmonary arteriotomy is made, and the anastomosis is carried out with a 7‑0 or 8‑0 polypropylene suture.
+A longitudinal pulmonary arteriotomy is made, and the anastomosis is carried out with a 7‑0 or 8‑0 polypropylene suture ([Fig. 40.14](#fig-40-14)).
 
-<span id="fig-40-14"></span>![](_page_40_Figure_14.jpeg)
+<span id="fig-40-14"></span>![](_page_40_Picture_14.jpeg)
 
 **FIGURE 40.14** Completion of the cavopulmonary anastomosis.
 
-The completed anastomosis should result in a smooth transition from SVC to pulmonary artery, without creasing, distortion, or stenosis.
+The completed anastomosis should result in a smooth transition from SVC to pulmonary artery, without creasing, distortion, or stenosis ([Fig. 40.15](#fig-40-15)).
 
-<span id="fig-40-15"></span>![](_page_40_Figure_15.jpeg)
+<span id="fig-40-15"></span>![](_page_40_Picture_15.jpeg)
 
 **FIGURE 40.15** Completed bidirectional cavopulmonary anastomosis.
 
-When necessary to ameliorate pulmonary artery stenosis, to augment the cavopulmonary anastomosis to ensure no distortion, a patch augmentation of the branch pulmonary artery is made before the completion of the SVC–pulmonary artery anastomosis.
+When necessary to ameliorate pulmonary artery stenosis, to augment the cavopulmonary anastomosis to ensure no distortion, a patch augmentation of the branch pulmonary artery is made before the completion of the SVC–pulmonary artery anastomosis ([Fig. 40.16](#fig-40-16)).
 
-<span id="fig-40-16"></span>![](_page_40_Figure_16.jpeg)
+<span id="fig-40-16"></span>![](_page_40_Picture_16.jpeg)
 
 **FIGURE 40.16** Patch augmentation of branch pulmonary artery.
 
-Fresh, autologous vein is an excellent, endothelialized material for use as a patch, fortuitously available at the time of cavopulmonary anastomosis. The azygos vein, routinely separated from the SVC to prevent upper‑to‑lower venous compartment decompression, can be harvested as a segment several centimeters in length.
+Fresh, autologous vein is an excellent, endothelialized material for use as a patch, fortuitously available at the time of cavopulmonary anastomosis. The azygos vein, routinely separated from the SVC to prevent upper‑to‑lower venous compartment decompression, can be harvested as a segment several centimeters in length ([Fig. 40.17](#fig-40-17)).
 
-<span id="fig-40-17"></span>![](_page_40_Figure_17.jpeg)
+<span id="fig-40-17"></span>![](_page_40_Picture_17.jpeg)
 
 **FIGURE 40.17** Harvest of azygos vein segment for patch.
 
-The azygos vein segment is opened longitudinally to create a rectangular patch. Care must be taken to orient the patch such that any venous valve is oriented properly, with the direction of flow through the pulmonary artery.
+The azygos vein segment is opened longitudinally to create a rectangular patch. Care must be taken to orient the patch such that any venous valve is oriented properly, with the direction of flow through the pulmonary artery ([Fig. 40.18](#fig-40-18)).
 
-<span id="fig-40-18"></span>![](_page_40_Figure_18.jpeg)
+<span id="fig-40-18"></span>![](_page_40_Picture_18.jpeg)
 
 **FIGURE 40.18** Azygos vein patch oriented in the direction of pulmonary flow.
 
-The pulmonary artery is isolated from hilum to hilum with elastic vessel loops around upper and ongoing pulmonary artery branches. A broad pulmonary arteriotomy is made to encompass the segment to be augmented and the anastomotic site for the cavopulmonary anastomosis.
+The pulmonary artery is isolated from hilum to hilum with elastic vessel loops around upper and ongoing pulmonary artery branches. A broad pulmonary arteriotomy is made to encompass the segment to be augmented and the anastomotic site for the cavopulmonary anastomosis ([Fig. 40.19](#fig-40-19)).
 
-<span id="fig-40-19"></span>![](_page_40_Figure_19.jpeg)
+<span id="fig-40-19"></span>![](_page_40_Picture_19.jpeg)
 
 **FIGURE 40.19** Broad pulmonary arteriotomy for patch augmentation.
 
-The azygos vein onlay patch is applied to the pulmonary arteriotomy, tailoring its rightward aspect so as to accommodate the SVC anastomosis site.
+The azygos vein onlay patch is applied to the pulmonary arteriotomy, tailoring its rightward aspect so as to accommodate the SVC anastomosis site ([Figs. 40.20a–d](#fig-40-20a)).
 
-<span id="fig-40-20a"></span>![](_page_40_Figure_20a-b.jpeg)
-  
-<span id="fig-40-20c"></span>![](_page_40_Figure_20c-d.jpeg)
+<span id="fig-40-20a"></span>![](_page_40_Picture_20a-b.jpeg)
 
-**FIGURE 40.20a–d** Application of azygos vein patch to the pulmonary arteriotomy.
+**FIGURE 40.20a–b** Application of azygos vein patch to the pulmonary arteriotomy (initial steps).
 
-The cavopulmonary anastomosis is formed, with the azygos vein patch tailored appropriately, to avoid distortion at the toe of the anastomosis.
+<span id="fig-40-20c"></span>![](_page_40_Picture_20c-d.jpeg)
 
-<span id="fig-40-21"></span>![](_page_40_Figure_21.jpeg)
+**FIGURE 40.20c–d** Application of azygos vein patch to the pulmonary arteriotomy (final steps).
+
+The cavopulmonary anastomosis is formed, with the azygos vein patch tailored appropriately, to avoid distortion at the toe of the anastomosis ([Fig. 40.21](#fig-40-21)).
+
+<span id="fig-40-21"></span>![](_page_40_Picture_21.jpeg)
 
 **FIGURE 40.21** Completed cavopulmonary anastomosis with azygos patch.
 
@@ -393,45 +399,45 @@ Subaortic or aortic obstruction presents a relative contraindication to the plac
 
 #### Sternotomy approach</summary><div class="details-content">
 
-The sternotomy approach is used when concomitant thoracotomy‑requiring procedures, such as coarctation repair, are not indicated. The median sternotomy provides a safe, precise exposure of the main pulmonary artery and its branches for positioning of the band. The median sternotomy is often needed for future staged palliations or anatomical repair, so this approach has the additional advantage of leaving the patient with only one scar. The main pulmonary artery is mobilized circumferentially and the pulmonary artery band material, pre‑marked at a circumference estimated by Trusler’s formula, is passed around the mobilized segment. A polypropylene suture is passed through the band at the pre‑marked endpoints and tied.
+The sternotomy approach is used when concomitant thoracotomy‑requiring procedures, such as coarctation repair, are not indicated. The median sternotomy provides a safe, precise exposure of the main pulmonary artery and its branches for positioning of the band. The median sternotomy is often needed for future staged palliations or anatomical repair, so this approach has the additional advantage of leaving the patient with only one scar. The main pulmonary artery is mobilized circumferentially and the pulmonary artery band material, pre‑marked at a circumference estimated by Trusler’s formula, is passed around the mobilized segment. A polypropylene suture is passed through the band at the pre‑marked endpoints and tied ([Figs. 40.22–40.24](#fig-40-22)).
 
-<span id="fig-40-22"></span>![](_page_40_Figure_22.jpeg)
+<span id="fig-40-22"></span>![](_page_40_Picture_22.jpeg)
 
 **FIGURE 40.22** Mobilization of the main pulmonary artery.
 
-<span id="fig-40-23"></span>![](_page_40_Figure_23.jpeg)
+<span id="fig-40-23"></span>![](_page_40_Picture_23.jpeg)
 
 **FIGURE 40.23** Passing the band around the mobilized pulmonary artery.
 
-<span id="fig-40-24"></span>![](_page_40_Figure_24.jpeg)
+<span id="fig-40-24"></span>![](_page_40_Picture_24.jpeg)
 
 **FIGURE 40.24** Polypropylene suture through the band at marked endpoints.
 
-Direct pre‑ and post‑band pressure measurements are made, and peripheral arterial line tracings and pulse oximetric determinations are observed. Additional mattress sutures are placed through the band to adjust its tightness to the goal of post‑band pulmonary artery pressure equal to half the systemic pressure, while preserving O<sub>2</sub> saturations greater than 80%.
+Direct pre‑ and post‑band pressure measurements are made, and peripheral arterial line tracings and pulse oximetric determinations are observed. Additional mattress sutures are placed through the band to adjust its tightness to the goal of post‑band pulmonary artery pressure equal to half the systemic pressure, while preserving O<sub>2</sub> saturations greater than 80% ([Fig. 40.25](#fig-40-25)).
 
-<span id="fig-40-25"></span>![](_page_40_Figure_25.jpeg)
+<span id="fig-40-25"></span>![](_page_40_Picture_25.jpeg)
 
 **FIGURE 40.25** Adjustment of band tightness with mattress sutures.
 
 Cyanosis or bradycardia suggests that the band should be loosened.
 
-The band is positioned at a point sufficiently proximal to not impinge on the origin of the branch pulmonary arteries, approximately at the level of the sinotubular junction of the main pulmonary artery. Adventitial sutures secure this position and prevent band migration.
+The band is positioned at a point sufficiently proximal to not impinge on the origin of the branch pulmonary arteries, approximately at the level of the sinotubular junction of the main pulmonary artery. Adventitial sutures secure this position and prevent band migration ([Fig. 40.26](#fig-40-26)).
 
-<span id="fig-40-26"></span>![](_page_40_Figure_26.jpeg)
+<span id="fig-40-26"></span>![](_page_40_Picture_26.jpeg)
 
 **FIGURE 40.26** Adventitial sutures securing the band.
 
 The left main coronary artery is often in close proximity to the posterior aspect of the main pulmonary artery, and caution is advised to assure no impingement on its course by the band.
 
-The right branch pulmonary artery typically originates proximal to, and at a more acute angle than, the left branch pulmonary artery.
+The right branch pulmonary artery typically originates proximal to, and at a more acute angle than, the left branch pulmonary artery ([Fig. 40.27](#fig-40-27)).
 
-<span id="fig-40-27"></span>![](_page_40_Figure_27.jpeg)
+<span id="fig-40-27"></span>![](_page_40_Picture_27.jpeg)
 
 **FIGURE 40.27** Right branch pulmonary artery origin (proximal, acute angle).
 
-Even a slight migration of the band can result in a partial or complete occlusion of the right branch pulmonary artery and insufficient limitation of flow to the left.
+Even a slight migration of the band can result in a partial or complete occlusion of the right branch pulmonary artery and insufficient limitation of flow to the left ([Fig. 40.28](#fig-40-28)).
 
-<span id="fig-40-28"></span>![](_page_40_Figure_28.jpeg)
+<span id="fig-40-28"></span>![](_page_40_Picture_28.jpeg)
 
 **FIGURE 40.28** Band migration causing right branch pulmonary artery occlusion.
 
@@ -441,53 +447,53 @@ Even a slight migration of the band can result in a partial or complete occlusio
 
 #### Pulmonary artery banding, thoracotomy</summary><div class="details-content">
 
-A left posterolateral thoracotomy is made in the fourth intercostal space to expose the juxtaductal aorta. A ductal ligation and/or concomitant aortic procedure is performed.
+A left posterolateral thoracotomy is made in the fourth intercostal space to expose the juxtaductal aorta. A ductal ligation and/or concomitant aortic procedure is performed ([Fig. 40.29](#fig-40-29)).
 
-<span id="fig-40-29"></span>![](_page_40_Figure_29.jpeg)
+<span id="fig-40-29"></span>![](_page_40_Picture_29.jpeg)
 
 **FIGURE 40.29** Left posterolateral thoracotomy exposure.
 
-The pulmonary artery is exposed through an incision in the pericardium anterior to the phrenic nerve. Retraction sutures placed in the pericardium assist exposure of the main pulmonary artery and ascending aorta.
+The pulmonary artery is exposed through an incision in the pericardium anterior to the phrenic nerve. Retraction sutures placed in the pericardium assist exposure of the main pulmonary artery and ascending aorta ([Fig. 40.30](#fig-40-30)).
 
-<span id="fig-40-30"></span>![](_page_40_Figure_30.jpeg)
+<span id="fig-40-30"></span>![](_page_40_Picture_30.jpeg)
 
 **FIGURE 40.30** Pericardial incision and retraction sutures.
 
-A curved clamp is passed through the transverse sinus, and a tape, pre‑marked at the appropriate band circumference as estimated by Trusler’s formula, is passed to encircle the aorta and the pulmonary arteries together.
+A curved clamp is passed through the transverse sinus, and a tape, pre‑marked at the appropriate band circumference as estimated by Trusler’s formula, is passed to encircle the aorta and the pulmonary arteries together ([Fig. 40.31](#fig-40-31)).
 
-<span id="fig-40-31"></span>![](_page_40_Figure_31.jpeg)
+<span id="fig-40-31"></span>![](_page_40_Picture_31.jpeg)
 
 **FIGURE 40.31** Clamp passed through transverse sinus encircling aorta and pulmonary arteries.
 
-A plane is carefully dissected between the aorta and the main pulmonary artery, entering the transverse sinus under direct visualization.
+A plane is carefully dissected between the aorta and the main pulmonary artery, entering the transverse sinus under direct visualization ([Fig. 40.32](#fig-40-32)).
 
-<span id="fig-40-32"></span>![](_page_40_Figure_32.jpeg)
+<span id="fig-40-32"></span>![](_page_40_Picture_32.jpeg)
 
 **FIGURE 40.32** Dissection between aorta and main pulmonary artery.
 
-The dissection is carried out in a plane close to the back wall of the aorta, minimizing the chances of injuring the thin‑walled right pulmonary artery as it passes in proximity to the posterior aorta. The clamp is then insinuated around the aorta to grasp the tape and exclude the aorta.
+The dissection is carried out in a plane close to the back wall of the aorta, minimizing the chances of injuring the thin‑walled right pulmonary artery as it passes in proximity to the posterior aorta. The clamp is then insinuated around the aorta to grasp the tape and exclude the aorta ([Fig. 40.33](#fig-40-33)).
 
-<span id="fig-40-33"></span>![](_page_40_Figure_33.jpeg)
+<span id="fig-40-33"></span>![](_page_40_Picture_33.jpeg)
 
 **FIGURE 40.33** Clamp insinuated around the aorta to grasp the tape.
 
-This technique results in an encirclement of the main pulmonary artery without passing the clamp blindly around the thin‑walled pulmonary artery itself.
+This technique results in an encirclement of the main pulmonary artery without passing the clamp blindly around the thin‑walled pulmonary artery itself ([Fig. 40.34](#fig-40-34)).
 
-<span id="fig-40-34"></span>![](_page_40_Figure_34.jpeg)
+<span id="fig-40-34"></span>![](_page_40_Picture_34.jpeg)
 
 **FIGURE 40.34** Completed encirclement of main pulmonary artery.
 
-A polypropylene suture is then placed through the band material at the marked endpoints to draw the band tight.
+A polypropylene suture is then placed through the band material at the marked endpoints to draw the band tight ([Fig. 40.35](#fig-40-35)).
 
-<span id="fig-40-35"></span>![](_page_40_Figure_35.jpeg)
+<span id="fig-40-35"></span>![](_page_40_Picture_35.jpeg)
 
 **FIGURE 40.35** Polypropylene suture cinching the band.
 
 Direct pre‑ and post‑band pressure measurements are made, and peripheral arterial line tracings and pulse oximetric determinations are observed. Additional mattress sutures are placed through the band to adjust its tightness to the goal of post‑band pulmonary artery pressure equal to half the systemic pressure, while preserving O<sub>2</sub> saturations greater than 80%. Cyanosis or bradycardia suggests that the band should be loosened.
 
-After a satisfactory adjustment, the band is fixed to the adventitia of the pulmonary artery with several sutures to prevent its migration.
+After a satisfactory adjustment, the band is fixed to the adventitia of the pulmonary artery with several sutures to prevent its migration ([Fig. 40.36](#fig-40-36)).
 
-<span id="fig-40-36"></span>![](_page_40_Figure_36.jpeg)
+<span id="fig-40-36"></span>![](_page_40_Picture_36.jpeg)
 
 **FIGURE 40.36** Band fixed to pulmonary artery adventitia.
 
@@ -499,29 +505,29 @@ The pericardium is reapproximated, and the thoracotomy is closed.
 
 #### Pulmonary artery de‑banding and reconstruction</summary><div class="details-content">
 
-The pulmonary artery is exposed through reoperative sternotomy, and main and branch pulmonary arteries are mobilized. Cicatricial tissue around the pulmonary artery band site results in a circumferential intimal ridge, and a simple anterior patch plasty of the band site results in residual obstruction from the retained posterior ridge. The pulmonary artery band and a segment of affected main pulmonary artery must be segmentally resected for a complete relief of obstruction.
+The pulmonary artery is exposed through reoperative sternotomy, and main and branch pulmonary arteries are mobilized. Cicatricial tissue around the pulmonary artery band site results in a circumferential intimal ridge, and a simple anterior patch plasty of the band site results in residual obstruction from the retained posterior ridge. The pulmonary artery band and a segment of affected main pulmonary artery must be segmentally resected for a complete relief of obstruction ([Fig. 40.37](#fig-40-37)).
 
-<span id="fig-40-37"></span>![](_page_40_Figure_37.jpeg)
+<span id="fig-40-37"></span>![](_page_40_Picture_37.jpeg)
 
 **FIGURE 40.37** Segmental resection of the band site.
 
-As a segmental resection of the main pulmonary artery is carried out, particular caution is exercised at its posterior wall, as the left main coronary artery usually lies immediately subjacent. Along the posterior wall, the pulmonary artery is only resected as the structures deep to it are clearly visualized, and safety sometimes dictates that a portion of back wall be left intact.
+As a segmental resection of the main pulmonary artery is carried out, particular caution is exercised at its posterior wall, as the left main coronary artery usually lies immediately subjacent. Along the posterior wall, the pulmonary artery is only resected as the structures deep to it are clearly visualized, and safety sometimes dictates that a portion of back wall be left intact ([Fig. 40.38](#fig-40-38)).
 
-<span id="fig-40-38"></span>![](_page_40_Figure_38.jpeg)
+<span id="fig-40-38"></span>![](_page_40_Picture_38.jpeg)
 
 **FIGURE 40.38** Segmental resection of main pulmonary artery.
 
 The pulmonary valve is inspected and repaired if necessary.
 
-Further mobilization of the confluence and branch pulmonary arteries is carried out to minimize any distortion or tension on the planned anastomosis.
+Further mobilization of the confluence and branch pulmonary arteries is carried out to minimize any distortion or tension on the planned anastomosis ([Fig. 40.39](#fig-40-39)).
 
-<span id="fig-40-39"></span>![](_page_40_Figure_39.jpeg)
+<span id="fig-40-39"></span>![](_page_40_Picture_39.jpeg)
 
 **FIGURE 40.39** Mobilization of pulmonary artery confluence and branches.
 
-A circumferential native pulmonary artery‑to‑pulmonary artery anastomosis is carried out with a continuous polypropylene suture technique. Where tissue is deficient, a pericardial patch augmentation is indicated.
+A circumferential native pulmonary artery‑to‑pulmonary artery anastomosis is carried out with a continuous polypropylene suture technique. Where tissue is deficient, a pericardial patch augmentation is indicated ([Fig. 40.40](#fig-40-40)).
 
-<span id="fig-40-40"></span>![](_page_40_Figure_40.jpeg)
+<span id="fig-40-40"></span>![](_page_40_Picture_40.jpeg)
 
 **FIGURE 40.40** Circumferential end‑to‑end pulmonary artery reconstruction.
 
