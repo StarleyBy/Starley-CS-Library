@@ -1,0 +1,61 @@
+[
+  {
+    "title": "ECGt MADE EASY, 6th edition",
+    "cover_image": "cover.jpg",
+    "category": [
+      "ecg"
+    ],
+    "authors": [
+      "Barbara Aehlert"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Anatomy and Physiology"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Basic Electrophysiology"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Sinus Mechanisms"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Atrial Rhythms"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Junctional Rhythms"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Ventricular Rhythms"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Atrioventricular Blocks"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Pacemaker Rhythms"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Introduction to the 12-Lead ECG"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Posttest"
+      }
+    ],
+    "appendices": []
+  }
+]

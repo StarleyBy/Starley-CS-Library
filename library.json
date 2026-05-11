@@ -73,7 +73,8 @@
       "title": "ECG",
       "path": "books/ecg",
       "books": [
-            { "folder": "ECG_Interpretation_for_Everyone" }
+            { "folder": "ECG_Interpretation_for_Everyone" },
+            { "folder": "ECGs Made Easy" }
       ]
     },
     {
