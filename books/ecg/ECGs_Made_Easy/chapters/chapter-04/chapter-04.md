@@ -1800,7 +1800,7 @@ Interpretation: Sinus tachycardia at 107 beats/min with ST‑segment depression
 
 **66. Fig. 4.50** – This rhythm strip is from a 67‑year‑old woman complaining of dizziness and a "funny feeling" in her chest.
 
-![](_page_31_Figure_5.jpeg)
+![](_page_32_Figure_2.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
