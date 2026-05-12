@@ -904,7 +904,7 @@ Interpretation: Sinus tachycardia at 120 beats/min with ventricular quadrigeminy
 
 **26. Fig. 6.27**
 
-![](_page_16_Figure_13.jpeg)
+![](_page_16_Picture_13.jpeg)
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  

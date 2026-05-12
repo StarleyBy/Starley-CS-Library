@@ -475,7 +475,7 @@ A simple way to remember this rule has been suggested by Mike Taigman and Syd Ca
 
 <span id="fig-9-29"></span>**FIGURE 9.29** Differentiating between right and left bundle branch blocks. The "turn signal" theory is that right is up and left is down. *(From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)*
 
-![](_page_15_Figure_9.jpeg)
+![](_page_15_Picture_9.jpeg)
 
 </div></details>
 
