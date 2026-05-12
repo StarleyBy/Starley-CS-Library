@@ -606,17 +606,19 @@ j. Premature junctional complex
 
 <details class="med-details">
 <summary>
-  
-  ## Junctional Rhythms – Practice Rhythm Strips</summary>
+
+## Junctional Rhythms – Practice Rhythm Strips</summary>
 <div class="details-content">
 
 Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
 
 <details class="med-details"><summary>
 
+![](_page_10_Figure_7.jpeg)
+
 **26. Fig. 5.11**
 
-![](_page_10_Figure_7.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -636,9 +638,11 @@ Interpretation: Sinus rhythm at 70 beats/min with PJCs (junctional trigeminy)
 
 <details class="med-details"><summary>
 
+![](_page_10_Figure_11.jpeg)
+
 **27. Fig. 5.12** – Identify the rhythm (lead III)
 
-![](_page_10_Figure_11.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -658,9 +662,11 @@ Interpretation: Accelerated junctional rhythm at 100 beats/min with STE
 
 <details class="med-details"><summary>
 
+![](_page_11_Figure_2.jpeg)
+
 **28. Fig. 5.13** – This rhythm strip is from a 74‑year‑old woman with chest pain. She rated her pain 9/10.
 
-![](_page_11_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -680,9 +686,11 @@ Interpretation: Sinus tachycardia at 130 beats/min with a PAC
 
 <details class="med-details"><summary>
 
+![](_page_11_Figure_5.jpeg)
+
 **29. Fig. 5.14** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_11_Figure_5.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -702,9 +710,11 @@ Interpretation: Atrial flutter at 80 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_11_Figure_9.jpeg)
+
 **30. Fig. 5.15**
 
-![](_page_11_Figure_9.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -724,9 +734,11 @@ Interpretation: Narrow‑QRS tachycardia, probably junctional tachycardia, at 13
 
 <details class="med-details"><summary>
 
+![](_page_12_Figure_2.jpeg)
+
 **31. Fig. 5.16** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_12_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -746,9 +758,11 @@ Interpretation: Sinus rhythm at 70 beats/min with a PJC (beat 3 is the PJC)
 
 <details class="med-details"><summary>
 
+![](_page_12_Figure_6.jpeg)
+
 **32. Fig. 5.17** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from an 80‑year‑old woman who states, "The room is spinning."
 
-![](_page_12_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -768,9 +782,11 @@ Interpretation: Sinus tachycardia at 115 beats/min with a wide QRS and STE
 
 <details class="med-details"><summary>
 
+![](_page_12_Picture_10.jpeg)
+
 **33. Fig. 5.18** – This rhythm strip is from an 88‑year‑old woman who experienced a syncopal episode. Her medical history includes a myocardial infarction 9 years ago, a stroke 5 years ago, hypertension, and diabetes.
 
-![](_page_12_Picture_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -790,9 +806,11 @@ Interpretation: Accelerated junctional rhythm at 75 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_2.jpeg)
+
 **34. Fig. 5.19** – This rhythm strip is from a 72‑year‑old man presenting with left‑sided weakness. He has a history of a brain tumor.
 
-![](_page_13_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -812,9 +830,11 @@ Interpretation: Sinus rhythm at 75 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_7.jpeg)
+
 **35. Fig. 5.20**
 
-![](_page_13_Figure_7.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -834,9 +854,11 @@ Interpretation: Sinus arrhythmia at 80 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_13.jpeg)
+
 **36. Fig. 5.21** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_13_Figure_13.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -857,9 +879,11 @@ Interpretation: Sinus bradycardia at 33 beats/min to junctional bradycardia at 3
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_2.jpeg)
+
 **37. Fig. 5.22**
 
-![](_page_14_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -879,9 +903,11 @@ Interpretation: Sinus rhythm at 70 beats/min with a nonconducted PAC (note disto
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_6.jpeg)
+
 **38. Fig. 5.23** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_14_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -901,9 +927,11 @@ Interpretation: Junctional rhythm at 45 beats/min with STE and a prolonged QT in
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_10.jpeg)
+
 **39. Fig. 5.24** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 43‑year‑old woman who was complaining of palpitations. The patient had a history of supraventricular tachycardia and stated that she could not tolerate adenosine.
 
-![](_page_14_Figure_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -924,9 +952,11 @@ Interpretation: Junctional beat, two sinus beats, changing to a narrow QRS tachy
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_2.jpeg)
+
 **40. Fig. 5.25** – This rhythm strip is from a 43‑year‑old man after a seizure.
 
-![](_page_15_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -946,9 +976,11 @@ Interpretation: Sinus tachycardia at 136 beats/min with ST‑segment depression
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_7.jpeg)
+
 **41. Fig. 5.26**
 
-![](_page_15_Figure_7.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -968,9 +1000,11 @@ Interpretation: Sinus rhythm at 60 beats/min with a PJC (beat 3), a PAC (beat 5)
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_13.jpeg)
+
 **42. Fig. 5.27** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 96‑year‑old man complaining of chest pain and palpitations.
 
-![](_page_15_Figure_13.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -990,9 +1024,11 @@ Interpretation: Atrial fibrillation at 100 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_2.jpeg)
+
 **43. Fig. 5.28** – This rhythm strip is from a 79‑year‑old man complaining of palpitations. His initial blood pressure was 112/84 mm Hg. His second blood pressure, 8 minutes after the first, was 78/7 mm Hg.
 
-![](_page_16_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1012,9 +1048,11 @@ Interpretation: Narrow‑QRS tachycardia, probably junctional tachycardia, at 14
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_8.jpeg)
+
 **44. Fig. 5.29** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_16_Figure_8.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1034,9 +1072,11 @@ Interpretation: Accelerated junctional rhythm at 97 beats/min; inverted T waves
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_14.jpeg)
+
 **45. Fig. 5.30** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_16_Figure_14.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1056,9 +1096,11 @@ Interpretation: Sinus rhythm at 80 beats/min with PJCs (beats 3 and 6)
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_2.jpeg)
+
 **46. Fig. 5.31**
 
-![](_page_17_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1079,9 +1121,11 @@ Interpretation: Sinus rhythm changing to an accelerated junctional rhythm at 79 
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_6.jpeg)
+
 **47. Fig. 5.32** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip (lead I) is from a 51‑year‑old man found unresponsive. He had a history of esophageal varices and gastrointestinal bleeding.
 
-![](_page_17_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1101,9 +1145,11 @@ Interpretation: Sinus rhythm at 73 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_12.jpeg)
+
 **48. Fig. 5.33**
 
-![](_page_17_Figure_12.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1123,9 +1169,11 @@ Interpretation: Sinus bradyarrhythmia at 40 beats/min with ST‑segment depressi
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_2.jpeg)
+
 **49. Fig. 5.34** – This rhythm strip is from a 75‑year‑old man complaining of chest pain that had been present for 20 minutes. He rated his pain 8/10.
 
-![](_page_18_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1145,9 +1193,11 @@ Interpretation: Atrial fibrillation at 100 beats/min with ST‑segment depressio
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_8.jpeg)
+
 **50. Fig. 5.35** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 76‑year‑old woman complaining of weakness.
 
-![](_page_18_Figure_8.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1163,7 +1213,6 @@ QRS duration: 0.04 to 0.06 second
 QT interval: 0.32 to 0.36 second  
 Interpretation: Junctional rhythm at 60 beats/min; STE in MCL<sub>1</sub>
 
-</div>
-</details>
+</div></details>
 
 </div></details>

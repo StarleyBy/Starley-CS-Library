@@ -873,16 +873,18 @@ q. Idioventricular rhythm
 
 <details class="med-details"><summary>
   
-  ## Ventricular Rhythms – Practice Rhythm Strips</summary>
+## Ventricular Rhythms – Practice Rhythm Strips</summary>
 <div class="details-content">
 
 Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_9.jpeg)
+
 **25. Fig. 6.26** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_16_Figure_9.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -902,9 +904,11 @@ Interpretation: Sinus tachycardia at 120 beats/min with ventricular quadrigeminy
 
 <details class="med-details"><summary>
 
+![](_page_16_Picture_13.jpeg)
+
 **26. Fig. 6.27**
 
-![](_page_16_Picture_13.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -924,9 +928,11 @@ Interpretation: AIVR at 55 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_2.jpeg)
+
 **27. Fig. 6.28** – This rhythm strip is from a 63‑year‑old man who collapsed on the kitchen floor. He is unresponsive, apneic, and pulseless. His past medical history includes a coronary artery bypass graft 8 years ago and pacemaker implantation 5 years ago.
 
-![](_page_17_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -946,9 +952,11 @@ Interpretation: Coarse ventricular fibrillation
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_8.jpeg)
+
 **28. Fig. 6.29** – This rhythm strip is from a 1‑month‑old infant after a 3‑minute seizure.
 
-![](_page_17_Figure_8.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -969,9 +977,11 @@ Interpretation: Sinus rhythm at 125 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_14.jpeg)
+
 **29. Fig. 6.30** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_17_Figure_14.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -991,9 +1001,11 @@ Interpretation: Sinus rhythm at 70 beats/min with a fusion beat, a pair of PVCs,
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_2.jpeg)
+
 **30. Fig. 6.31**
 
-![](_page_18_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1014,9 +1026,11 @@ Interpretation: Sinus rhythm at 90 beats/min, a fusion beat, and then monomorphi
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_6.jpeg)
+
 **31. Fig. 6.32**
 
-![](_page_18_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1037,9 +1051,11 @@ Interpretation: Sinus rhythm at 60 beats/min to PMVT at 300 to 375 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_10.jpeg)
+
 **32. Fig. 6.33** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_18_Figure_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1059,9 +1075,11 @@ Interpretation: Sinus tachycardia at 110 beats/min with two premature junctional
 
 <details class="med-details"><summary>
 
+![](_page_19_Figure_2.jpeg)
+
 **33. Fig. 6.34** – This rhythm strip is from a 73‑year‑old woman complaining of chest pain.
 
-![](_page_19_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1081,9 +1099,11 @@ Interpretation: AIVR at 68 beats/min; artifact is present
 
 <details class="med-details"><summary>
 
+![](_page_19_Figure_6.jpeg)
+
 **34. Fig. 6.35** – This rhythm strip is from a 25‑year‑old man with an altered level of responsiveness because of alcohol.
 
-![](_page_19_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1103,9 +1123,11 @@ Interpretation: Sinus rhythm at 80 beats/min with a premature atrial complex
 
 <details class="med-details"><summary>
 
+![](_page_19_Figure_11.jpeg)
+
 **35. Fig. 6.36**
 
-![](_page_19_Figure_11.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1125,9 +1147,11 @@ Interpretation: Sinus rhythm at 70 beats/min with an interpolated PVC and invert
 
 <details class="med-details"><summary>
 
+![](_page_20_Figure_2.jpeg)
+
 **36. Fig. 6.37**
 
-![](_page_20_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1147,9 +1171,11 @@ Interpretation: Accelerated junctional rhythm at 79 beats/min with ST‑segment 
 
 <details class="med-details"><summary>
 
+![](_page_20_Figure_5.jpeg)
+
 **37. Fig. 6.38** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_20_Figure_5.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1170,9 +1196,11 @@ Interpretation: Atrial fibrillation at 143 to 167 beats/min with two ventricular
 
 <details class="med-details"><summary>
 
+![](_page_20_Figure_9.jpeg)
+
 **38. Fig. 6.39** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_20_Figure_9.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1192,9 +1220,11 @@ Interpretation: Asystole
 
 <details class="med-details"><summary>
 
+![](_page_21_Figure_2.jpeg)
+
 **39. Fig. 6.40** – This rhythm strip is from a 47‑year‑old man with an altered level of responsiveness. His blood pressure is 118/86 mm Hg, and his blood sugar is 37 mg/dL.
 
-![](_page_21_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1214,9 +1244,11 @@ Interpretation: Sinus arrhythmia at 70 beats/min with ST‑segment depression; a
 
 <details class="med-details"><summary>
 
+![](_page_21_Figure_8.jpeg)
+
 **40. Fig. 6.41** – This rhythm strip is from a 69‑year‑old man who is complaining of substernal chest pain. He rates his discomfort as 9/10.
 
-![](_page_21_Figure_8.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1236,9 +1268,11 @@ Interpretation: Sinus rhythm at 80 beats/min with uniform PVCs
 
 <details class="med-details"><summary>
 
+![](_page_21_Figure_13.jpeg)
+
 **41. Fig. 6.42** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 68‑year‑old man with a head injury after a fall.
 
-![](_page_21_Figure_13.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1258,9 +1292,11 @@ Interpretation: Sinus bradycardia at 47 beats/min; U waves are visible in lead M
 
 <details class="med-details"><summary>
 
+![](_page_22_Figure_2.jpeg)
+
 **42. Fig. 6.43** – This rhythm strip is from a 58‑year‑old man who was initially unresponsive, apneic, and pulseless.
 
-![](_page_22_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1280,9 +1316,11 @@ Interpretation: Ventricular fibrillation, a shock (defibrillation), idioventricu
 
 <details class="med-details"><summary>
 
+![](_page_22_Figure_6.jpeg)
+
 **43. Fig. 6.44**
 
-![](_page_22_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1303,9 +1341,11 @@ Interpretation: Sinus rhythm at 88 beats/min with a run of VT and a PVC, ST‑se
 
 <details class="med-details"><summary>
 
+![](_page_22_Figure_10.jpeg)
+
 **44. Fig. 6.45** – This rhythm strip is from a 61‑year‑old woman who is complaining of shortness of breath.
 
-![](_page_22_Figure_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1325,9 +1365,11 @@ Interpretation: Sinus tachycardia at 130 beats/min with multiform PVCs
 
 <details class="med-details"><summary>
 
+![](_page_23_Figure_2.jpeg)
+
 **45. Fig. 6.46**
 
-![](_page_23_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1347,9 +1389,11 @@ Interpretation: Monomorphic VT at 188 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_23_Figure_6.jpeg)
+
 **46. Fig. 6.47** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_23_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1370,9 +1414,11 @@ Interpretation: Agonal rhythm/asystole
 
 <details class="med-details"><summary>
 
+![](_page_23_Figure_10.jpeg)
+
 **47. Fig. 6.48** (From Conover MB: *Understanding electrocardiography*, ed 7, St. Louis, 1995, Mosby.)
 
-![](_page_23_Figure_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1392,9 +1438,11 @@ Interpretation: Sinus rhythm at 70 beats/min with an R‑on‑T PVC and ST‑seg
 
 <details class="med-details"><summary>
 
+![](_page_24_Figure_2.jpeg)
+
 **48. Fig. 6.49** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_24_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1414,9 +1462,11 @@ Interpretation: Sinus beat to junctional rhythm at 52 beats/min; inverted T wave
 
 <details class="med-details"><summary>
 
+![](_page_24_Figure_6.jpeg)
+
 **49. Fig. 6.50** – This rhythm strip is from a 90‑year‑old unresponsive woman. She has a history of heart failure. Her medications include furosemide and albuterol.
 
-![](_page_24_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1432,8 +1482,7 @@ PR interval: 0.16 second (sinus beats)
 QRS duration: 0.10 to 0.12 second (sinus beats)  
 QT interval: 0.32 second (sinus beats)  
 Interpretation: Sinus rhythm at 65 beats/min with ST‑segment depression to PMVT at 167 to 214 beats/min
-</div>
-</details>
 
+</div></details>
 
 </div></details>
