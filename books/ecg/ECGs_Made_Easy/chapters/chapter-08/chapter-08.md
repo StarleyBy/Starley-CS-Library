@@ -651,7 +651,7 @@ o. Fixed rate
 
 <details class="med-details">
 <summary>
-  
+
 ## Pacemaker Rhythms – Practice Rhythm Strips</summary>
 <div class="details-content">
 
@@ -659,9 +659,11 @@ For each of the following rhythm strips, identify the patient's underlying rhyth
 
 <details class="med-details"><summary>
 
+![](_page_12_Figure_2.jpeg)
+
 **16. Fig. 8.18** – These rhythm strips are from a 52‑year‑old man with syncope.
 
-![](_page_12_Figure_2.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -679,9 +681,11 @@ Interpretation: Atrial paced rhythm with 100% capture at 79 pulses/min
 
 <details class="med-details"><summary>
 
+![](_page_12_Figure_7.jpeg)
+
 **17. Fig. 8.19** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_12_Figure_7.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -699,9 +703,11 @@ Interpretation: Dual‑chamber pacemaker rhythm with 100% capture at 79 pulses/m
 
 <details class="med-details"><summary>
 
+![](_page_12_Figure_12.jpeg)
+
 **18. Fig. 8.20** (From Sole ML, Klein DG, Moseley MJ: Introduction to critical care nursing, ed 5, Philadelphia, 2008, Saunders.)
 
-![](_page_12_Figure_12.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -719,9 +725,11 @@ Interpretation: Ventricular paced rhythm at 65 pulses/min with failure to captur
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_2.jpeg)
+
 **19. Fig. 8.21** – These rhythm strips are from a 63‑year‑old man complaining of epigastric pain.
 
-![](_page_13_Figure_2.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -739,9 +747,11 @@ Interpretation: Dual‑chamber pacemaker rhythm with 100% capture at 88 pulses/m
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_7.jpeg)
+
 **20. Fig. 8.22** – This rhythm strip is from a 97‑year‑old man with chest pain.
 
-![](_page_13_Figure_7.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -759,9 +769,11 @@ Interpretation: Dual‑chamber pacemaker rhythm at 60 pulses/min with failure to
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_12.jpeg)
+
 **21. Fig. 8.23** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_13_Figure_12.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -779,9 +791,11 @@ Interpretation: Ventricular paced rhythm with 100% capture at 68 pulses/min
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_2.jpeg)
+
 **22. Fig. 8.24** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_14_Figure_2.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -799,9 +813,11 @@ Interpretation: Ventricular paced rhythm with 100% capture at 80 pulses/min
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_6.jpeg)
+
 **23. Fig. 8.25** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_14_Figure_6.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -819,9 +835,11 @@ Interpretation: Dual‑chamber pacemaker rhythm with 100% capture at 71 pulses/m
 
 <details class="med-details"><summary>
 
+![](_page_14_Picture_10.jpeg)
+
 **24. Fig. 8.26**
 
-![](_page_14_Picture_10.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -839,9 +857,11 @@ Interpretation: Ventricular paced rhythm at 79 pulses/min with failure to captur
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_2.jpeg)
+
 **25. Fig. 8.27** – This rhythm strip is from a 90‑year‑old woman with shortness of breath.
 
-![](_page_15_Figure_2.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -859,9 +879,11 @@ Interpretation: Ventricular‑paced rhythm with 100% capture at 60 pulses/min; u
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_7.jpeg)
+
 **26. Fig. 8.28**
 
-![](_page_15_Figure_7.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -879,9 +901,11 @@ Interpretation: Ventricular demand pacemaker at 60 pulses/min; underlying rhythm
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_12.jpeg)
+
 **27. Fig. 8.29**
 
-![](_page_15_Figure_12.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -899,9 +923,11 @@ Interpretation: Ventricular demand pacemaker rhythm at 72 pulses/min with failur
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_2.jpeg)
+
 **28. Fig. 8.30**
 
-![](_page_16_Figure_2.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -919,9 +945,11 @@ Interpretation: Ventricular paced rhythm with 100% capture at 74 pulses/min; und
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_6.jpeg)
+
 **29. Fig. 8.31** – This rhythm strip is from an 80‑year‑old woman complaining of weakness.
 
-![](_page_16_Figure_6.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -939,9 +967,11 @@ Interpretation: Ventricular paced rhythm with 100% capture at 83 pulses/min
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_11.jpeg)
+
 **30. Fig. 8.32**
 
-![](_page_16_Figure_11.jpeg)
+---
 
 Atrial paced activity? __________ Ventricular paced activity? __________  
 Pacemaker malfunction? __________  
@@ -956,5 +986,6 @@ Pacemaker malfunction? Yes – failure to sense (undersensing)
 Interpretation: Sinus rhythm at 88 beats/min with a ventricular pacemaker and pacemaker malfunction (undersensing); note the pacer spikes in the T waves of the second and eighth beats from the left
 
 </div></details>
+
 </div>
 </details>

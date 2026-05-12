@@ -1224,17 +1224,19 @@ t. Left atrial abnormality
 
 <details class="med-details">
 <summary>
-  
-  ## 12‑Lead Electrocardiograms – Practice</summary>
+
+## 12‑Lead Electrocardiograms – Practice</summary>
 <div class="details-content">
 
 For each of the following 12‑lead ECGs, record your findings below.
 
 <details class="med-details"><summary>
 
+![](_page_26_Figure_4.jpeg)
+
 **38. Fig. 9.38** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_26_Figure_4.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1258,9 +1260,11 @@ Interpretation: Sinus tachycardia at 101 beats/min with RBBB
 
 <details class="med-details"><summary>
 
+![](_page_26_Figure_8.jpeg)
+
 **39. Fig. 9.39** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_26_Figure_8.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1284,9 +1288,11 @@ Interpretation: Sinus bradycardia at 56 beats/min, otherwise normal ECG
 
 <details class="med-details"><summary>
 
+![](_page_27_Figure_3.jpeg)
+
 **40. Fig. 9.40** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_27_Figure_3.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1310,9 +1316,11 @@ Interpretation: Sinus rhythm at 60 beats/min; possible STEMI/new onset LBBB; con
 
 <details class="med-details"><summary>
 
+![](_page_27_Figure_7.jpeg)
+
 **41. Fig. 9.41** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_27_Figure_7.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1336,9 +1344,11 @@ Interpretation: Normal ECG
 
 <details class="med-details"><summary>
 
+![](_page_28_Figure_3.jpeg)
+
 **42. Fig. 9.42** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_28_Figure_3.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1362,9 +1372,11 @@ Interpretation: Sinus rhythm at 86 beats/min. Anteroseptal infarction; STE noted
 
 <details class="med-details"><summary>
 
+![](_page_28_Figure_7.jpeg)
+
 **43. Fig. 9.43** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_28_Figure_7.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1388,9 +1400,11 @@ Interpretation: Sinus rhythm at 92 beats/min. Inferior STEMI; STE noted in II, I
 
 <details class="med-details"><summary>
 
+![](_page_29_Figure_3.jpeg)
+
 **44. Fig. 9.44** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_29_Figure_3.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1414,9 +1428,11 @@ Interpretation: Atrial fibrillation at 81 beats/min. Lateral STEMI; reciprocal c
 
 <details class="med-details"><summary>
 
+![](_page_29_Figure_7.jpeg)
+
 **45. Fig. 9.45** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_29_Figure_7.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1440,9 +1456,11 @@ Interpretation: Junctional rhythm at 55 beats/min. Inferior STEMI; reciprocal ch
 
 <details class="med-details"><summary>
 
+![](_page_30_Figure_3.jpeg)
+
 **46. Fig. 9.46** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_30_Figure_3.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1466,9 +1484,11 @@ Interpretation: Atrial fibrillation at 115 beats/min. Inferolateral STEMI; recip
 
 <details class="med-details"><summary>
 
+![](_page_30_Figure_7.jpeg)
+
 **47. Fig. 9.47** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_30_Figure_7.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1492,9 +1512,11 @@ Interpretation: Sinus bradycardia at 56 beats/min. Suspected anteroseptal STEMI;
 
 <details class="med-details"><summary>
 
+![](_page_31_Figure_3.jpeg)
+
 **48. Fig. 9.48** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_31_Figure_3.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1518,9 +1540,11 @@ Interpretation: Supraventricular bradycardia at 42 beats/min. Inferolateral STEM
 
 <details class="med-details"><summary>
 
+![](_page_31_Figure_7.jpeg)
+
 **49. Fig. 9.49** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_31_Figure_7.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1544,9 +1568,11 @@ Interpretation: Atrial paced rhythm at 80 beats/min; no ECG evidence of STEMI
 
 <details class="med-details"><summary>
 
+![](_page_32_Figure_3.jpeg)
+
 **50. Fig. 9.50** (From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)
 
-![](_page_32_Figure_3.jpeg)
+---
 
 Rhythm and rate: __________ QRS axis: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1567,5 +1593,6 @@ Other findings: Artifact in limb leads
 Interpretation: Sinus tachycardia at 113 beats/min with first‑degree AV block. Possible anteroseptal STEMI; however, wide QRS and LBBB pattern are also present. Consider clinical presentation and obtain serial ECGs.
 
 </div></details>
+
 </div>
 </details>
