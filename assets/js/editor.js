@@ -247,6 +247,33 @@ function updatePreview() {
     
     // --- Protect LaTeX math before marked.parse ---
     let md = val;
+
+    // --- Adjust image paths in Markdown ---
+    const bookPath = document.getElementById('select-book').value;
+    const chapterId = document.getElementById('select-chapter').value;
+    if (bookPath && chapterId) {
+        let parentFolder = chapterId;
+        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
+        if (subchapterMatch) {
+            parentFolder = subchapterMatch[1];
+        }
+
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        const imagesBase = (isGitHubPages && typeof RAW_CONTENT_BASE_URL !== 'undefined') 
+            ? `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${parentFolder}/images/`
+            : `${BASE_URL}${bookPath}/chapters/${parentFolder}/images/`;
+
+        // Prefix relative markdown images ![] (src)
+        md = md.replace(/!\[(.*?)\]\(((?!http|data:|\/)(.*?))\)/g, (match, alt, src) => {
+            return `![${alt}](${imagesBase}${src})`;
+        });
+        
+        // Also handle HTML <img> tags in MD
+        md = md.replace(/<img([^>]+)src=["']((?!http|data:|\/)[^"']+)["']([^>]*?)>/g, (match, before, src, after) => {
+            return `<img${before}src="${imagesBase}${src}"${after}>`;
+        });
+    }
+
     const mathStore = [];
     function storeMath(tex, display) {
         const id = '\x02MATH' + mathStore.length + '\x03';
@@ -290,32 +317,10 @@ function updatePreview() {
         previewContainer.innerHTML = html;
     }
 
-    // --- Adjust image paths ---
-    const bookPath = document.getElementById('select-book').value;
-    const chapterId = document.getElementById('select-chapter').value;
-    if (bookPath && chapterId) {
-        // Handle subchapters (e.g. chapter-01-01 -> folder chapter-01)
-        let parentFolder = chapterId;
-        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
-        if (subchapterMatch) {
-            parentFolder = subchapterMatch[1];
-        }
-
-        const isGitHubPages = window.location.hostname.includes('github.io');
-        
-        previewContainer.querySelectorAll('img').forEach(img => {
-            const rawSrc = img.getAttribute('src');
-            if (rawSrc && !rawSrc.startsWith('http') && !rawSrc.startsWith('data:') && !rawSrc.startsWith('/')) {
-                const fileName = rawSrc.split('/').pop();
-                if (isGitHubPages && typeof RAW_CONTENT_BASE_URL !== 'undefined') {
-                    img.src = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${parentFolder}/images/${fileName}`;
-                } else {
-                    img.src = `${BASE_URL}${bookPath}/chapters/${parentFolder}/images/${fileName}`;
-                }
-                img.classList.add('med-img');
-            }
-        });
-    }
+    // --- Post-render styling ---
+    previewContainer.querySelectorAll('img').forEach(img => {
+        img.classList.add('med-img');
+    });
     
     // ВОССТАНАВЛИВАЕМ состояние ПОСЛЕ обновления
     
