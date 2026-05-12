@@ -770,7 +770,7 @@ Interpretation: Sinus tachycardia at 115 beats/min with a wide QRS and STE
 
 **33. Fig. 5.18** – This rhythm strip is from an 88‑year‑old woman who experienced a syncopal episode. Her medical history includes a myocardial infarction 9 years ago, a stroke 5 years ago, hypertension, and diabetes.
 
-![](_page_12_Figure_10.jpeg)
+![](_page_12_Picture_10.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  

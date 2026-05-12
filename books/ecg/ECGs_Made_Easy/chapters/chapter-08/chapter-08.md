@@ -183,7 +183,7 @@ TCP requires attaching two pacing electrodes to the skin surface of the patient'
 
 <span id="fig-8-3"></span>**FIGURE 8.3** An example of a monitor/defibrillator that provides cardiac monitoring, defibrillation, cardioversion, and transcutaneous pacing. *(Copyright ©2016 Medtronic. All rights reserved. Used with the permission of Medtronic.)*
 
-![](_page_3_Figure_2.jpeg)
+![](_page_3_Picture_2.jpeg)
 
 The primary limitation of TCP is patient discomfort that is proportional to the intensity of skeletal muscle contraction and the direct electrical stimulation of cutaneous nerves. Because TCP is uncomfortable, the administration of sedatives or analgesia is usually necessary in responsive patients. Temporary transvenous pacing is indicated when prolonged TCP is needed.
 
@@ -212,11 +212,11 @@ A **bipolar lead system** contains a positive and negative electrode at the dist
 
 <span id="fig-8-4"></span>**FIGURE 8.4** Example of a temporary unipolar pacing lead. *(Copyright ©2016 Medtronic. All rights reserved. Used with the permission of Medtronic.)*
 
-![](_page_3_Figure_16.jpeg)
+![](_page_3_Picture_16.jpeg)
 
 <span id="fig-8-5"></span>**FIGURE 8.5** Example of a bipolar pacing lead. *(Copyright ©2016 Medtronic. All rights reserved. Used with the permission of Medtronic.)*
 
-![](_page_3_Figure_18.jpeg)
+![](_page_3_Picture_18.jpeg)
 
 <span id="fig-8-6"></span>**FIGURE 8.6** Bipolar and unipolar pacing. **A,** Pacemaker spike produced by a bipolar lead system. **B,** Pacemaker spike produced by a unipolar lead system. *(From Urden LD, Stacy KM, Lough ME: Critical care nursing, ed 8, St. Louis, 2018, Mosby.)*
 
@@ -260,7 +260,7 @@ When spontaneous atrial depolarization does not occur within a preset interval, 
 
 <span id="fig-8-9"></span>**FIGURE 8.9** Pacing leads in both the atrium and the ventricle enable a dual‑chamber pacemaker to sense and pace in both heart chambers. *(From Lewis SL, Bucher L, Heitkemper MM, Harding MM: Medical‑surgical nursing: assessment and management of clinical problems, ed 10, St. Louis, 2017, Elsevier.)*
 
-![](_page_5_Figure_7.jpeg)
+![](_page_5_Picture_7.jpeg)
 
 <span id="fig-8-10"></span>**FIGURE 8.10** Electrocardiogram of a dual‑chamber pacemaker with atrial pacing spikes (A) and ventricular pacing spikes (V). AV, Atrioventricular interval.
 
@@ -312,7 +312,7 @@ A defibrillator code was developed in 1993, and it is used to describe the capab
 
 <span id="fig-8-12"></span>**FIGURE 8.12** A dual‑chamber (DDD) pacemaker senses and paces in both the atria and ventricles. The pacemaker emits a stimulus (spike) whenever an intrinsic P wave or QRS complex is not sensed within some programmed time interval. *(From Goldberger AL: Clinical electrocardiography: a simplified approach, ed 7, St. Louis, 2006, Mosby.)*
 
-![](_page_7_Figure_2.jpeg)
+![](_page_7_Figure_3.jpeg)
 
 <span id="table-8-1"></span><details class="med-details"><summary>
 

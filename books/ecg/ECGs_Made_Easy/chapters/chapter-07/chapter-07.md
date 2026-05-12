@@ -76,7 +76,7 @@ When the QRS complex associated with a first‑degree AV block is narrow, the co
 
 <span id="fig-7-3"></span>**FIGURE 7.3** First‑degree atrioventricular (AV) block. SA, Sinoatrial.
 
-![](_page_1_Figure_17.jpeg)
+![](_page_2_Figure_2.jpeg)
 
 <details class="med-details"><summary>
 
