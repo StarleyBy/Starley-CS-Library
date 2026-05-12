@@ -2,6 +2,100 @@
 
 <details class="med-details"><summary>
 
+## KEY TERMS</summary><div class="details-content">
+
+**acute coronary syndrome (ACS):** A term used to refer to distinct conditions caused by a similar sequence of pathologic events – a temporary or permanent blockage of a coronary artery. These conditions are characterized by an excessive demand or inadequate supply of oxygen and nutrients to the heart muscle associated with plaque disruption, thrombus formation, and vasoconstriction. ACSs consist of three major syndromes: unstable angina, non‑ST‑elevation myocardial infarction, and ST elevation myocardial infarction.
+
+**afterload:** The pressure or resistance against which the ventricles must pump to eject blood.
+
+**angina pectoris:** Chest discomfort or other related symptoms of sudden onset that may occur because the increased oxygen demand of the heart temporarily exceeds the blood supply.
+
+**apex of the heart:** Lower portion of the heart that is formed by the tip of the left ventricle.
+
+**atria:** Two upper chambers of the heart (singular, atrium).
+
+**atrial kick:** Blood pushed into the ventricles because of atrial contraction.
+
+**atrioventricular (AV) valve:** The valve located between each atrium and ventricle; the tricuspid separates the right atrium from the right ventricle, and the mitral (bicuspid) separates the left atrium from the left ventricle.
+
+**atypical presentation:** Uncharacteristic signs and symptoms perceived by some patients experiencing a medical condition, such as an ACS.
+
+**base of the heart:** Posterior surface of the heart.
+
+**blood pressure:** Force exerted by the blood against the walls of the arteries as the ventricles of the heart contract and relax.
+
+**cardiac output (CO):** The amount of blood pumped into the aorta each minute by the heart; defined as the stroke volume multiplied by the heart rate.
+
+**chordae tendineae (tendinous cords):** Thin strands of fibrous connective tissue that extend from the AV valves to the papillary muscles that prevent the AV valves from bulging back into the atria during ventricular systole (contraction).
+
+**chronotropy:** A change in (heart) rate.
+
+**diastole:** Phase of the cardiac cycle in which the atria and ventricles relax between contractions and blood enters these chambers. When the term is used without reference to a specific chamber of the heart, ventricular diastole is implied.
+
+**dromotropy:** Refers to the speed of conduction through the AV junction.
+
+**dysrhythmia:** Any disturbance or abnormality in a normal rhythmic pattern; any cardiac rhythm other than a sinus rhythm.
+
+**ejection fraction:** The percentage of blood pumped out of a heart chamber with each contraction.
+
+**endocardium:** Innermost layer of the heart that lines the inside of the myocardium and covers the heart valves.
+
+**epicardium:** Also known as the visceral pericardium; the external layer of the heart wall that covers the heart muscle.
+
+**heart failure:** A condition in which the heart is unable to pump enough blood to meet the metabolic needs of the body; it may result from any condition that impairs preload, afterload, cardiac contractility, or heart rate.
+
+**inotropy:** Refers to a change in myocardial contractility.
+
+**ischemia:** Decreased supply of oxygenated blood to a body part or organ.
+
+**mediastinum:** Middle area of the thoracic cavity; contains the heart, great vessels, trachea, and esophagus, among other structures; extends from the sternum to the vertebral column.
+
+**mitochondria:** The energy‑producing parts of a cell.
+
+**myocardial infarction (MI):** Death of some mass of the heart muscle caused by an inadequate blood supply.
+
+**myocardium:** Middle and thickest layer of the heart; contains the cardiac muscle fibers that cause contraction of the heart and contains the conduction system and blood supply.
+
+**myofibril:** Slender striated strand of muscle tissue.
+
+**papillary muscles:** Muscles attached to the chordae tendineae of the AV valves and the ventricular muscle of the heart that help prevent the AV valves from bulging too far into the atria.
+
+**pericardium:** A double‑walled sac that encloses the heart and helps protect it from trauma and infection.
+
+**peripheral resistance:** Resistance to the flow of blood determined by blood vessel diameter and the tone of the vascular musculature.
+
+**preload:** Force exerted by the blood on the walls of the ventricles at the end of diastole.
+
+**proximal:** Location nearer to the midline of the body or the point of attachment than something else is.
+
+**sarcolemma:** Membrane that covers smooth, striated, and cardiac muscle fibers.
+
+**sarcomere:** Smallest functional unit of a myofibril.
+
+**sarcoplasm:** Semifluid cytoplasm of muscle cells.
+
+**sarcoplasmic reticulum:** Network of tubules and sacs that plays an important role in muscle contraction and relaxation by releasing and storing calcium ions.
+
+**semilunar (SL) valves:** Valves shaped like half‑moons that separate the ventricles from the aorta and pulmonary artery.
+
+**septum:** An internal wall of connective tissue.
+
+**stroke volume (SV):** The amount of blood ejected from a ventricle with each heartbeat.
+
+**sulcus:** Groove.
+
+**systole:** Contraction of the heart (usually referring to ventricular contraction), during which blood is propelled into the pulmonary artery and aorta; when the term is used without reference to a specific chamber of the heart, ventricular systole is implied.
+
+**tone:** A term that may be used when referring to the normal state of balanced tension in body tissues.
+
+**venous return:** Amount of blood flowing into the right atrium each minute from the systemic circulation.
+
+**ventricles:** The two lower chambers of the heart.
+
+</div></details>
+
+<details class="med-details"><summary>
+
 ## Executive Summary</summary><div class="details-content">
 
 ### Heart anatomy and location
@@ -56,100 +150,6 @@
 
 <details class="med-details"><summary>
 
-## KEY TERMS</summary><div class="details-content">
-
-**acute coronary syndrome (ACS):** A term used to refer to distinct conditions caused by a similar sequence of pathologic events – a temporary or permanent blockage of a coronary artery. These conditions are characterized by an excessive demand or inadequate supply of oxygen and nutrients to the heart muscle associated with plaque disruption, thrombus formation, and vasoconstriction. ACSs consist of three major syndromes: unstable angina, non-ST-elevation myocardial infarction, and ST elevation myocardial infarction.
-
-**afterload:** The pressure or resistance against which the ventricles must pump to eject blood.
-
-**angina pectoris:** Chest discomfort or other related symptoms of sudden onset that may occur because the increased oxygen demand of the heart temporarily exceeds the blood supply.
-
-**apex of the heart:** Lower portion of the heart that is formed by the tip of the left ventricle.
-
-**atria:** Two upper chambers of the heart (singular, atrium).
-
-**atrial kick:** Blood pushed into the ventricles because of atrial contraction.
-
-**atrioventricular (AV) valve:** The valve located between each atrium and ventricle; the tricuspid separates the right atrium from the right ventricle, and the mitral (bicuspid) separates the left atrium from the left ventricle.
-
-**atypical presentation:** Uncharacteristic signs and symptoms perceived by some patients experiencing a medical condition, such as an ACS.
-
-**base of the heart:** Posterior surface of the heart.
-
-**blood pressure:** Force exerted by the blood against the walls of the arteries as the ventricles of the heart contract and relax.
-
-**cardiac output (CO):** The amount of blood pumped into the aorta each minute by the heart; defined as the stroke volume multiplied by the heart rate.
-
-**chordae tendineae (tendinous cords):** Thin strands of fibrous connective tissue that extend from the AV valves to the papillary muscles that prevent the AV valves from bulging back into the atria during ventricular systole (contraction).
-
-**chronotropy:** A change in (heart) rate.
-
-**diastole:** Phase of the cardiac cycle in which the atria and ventricles relax between contractions and blood enters these chambers. When the term is used without reference to a specific chamber of the heart, ventricular diastole is implied.
-
-**dromotropy:** Refers to the speed of conduction through the AV junction.
-
-**dysrhythmia:** Any disturbance or abnormality in a normal rhythmic pattern; any cardiac rhythm other than a sinus rhythm.
-
-**ejection fraction:** The percentage of blood pumped out of a heart chamber with each contraction.
-
-**endocardium:** Innermost layer of the heart that lines the inside of the myocardium and covers the heart valves.
-
-**epicardium:** Also known as the visceral pericardium; the external layer of the heart wall that covers the heart muscle.
-
-**heart failure:** A condition in which the heart is unable to pump enough blood to meet the metabolic needs of the body; it may result from any condition that impairs preload, afterload, cardiac contractility, or heart rate.
-
-**inotropy:** Refers to a change in myocardial contractility.
-
-**ischemia:** Decreased supply of oxygenated blood to a body part or organ.
-
-**mediastinum:** Middle area of the thoracic cavity; contains the heart, great vessels, trachea, and esophagus, among other structures; extends from the sternum to the vertebral column.
-
-**mitochondria:** The energy-producing parts of a cell.
-
-**myocardial infarction (MI):** Death of some mass of the heart muscle caused by an inadequate blood supply.
-
-**myocardium:** Middle and thickest layer of the heart; contains the cardiac muscle fibers that cause contraction of the heart and contains the conduction system and blood supply.
-
-**myofibril:** Slender striated strand of muscle tissue.
-
-**papillary muscles:** Muscles attached to the chordae tendineae of the AV valves and the ventricular muscle of the heart that help prevent the AV valves from bulging too far into the atria.
-
-**pericardium:** A double-walled sac that encloses the heart and helps protect it from trauma and infection.
-
-**peripheral resistance:** Resistance to the flow of blood determined by blood vessel diameter and the tone of the vascular musculature.
-
-**preload:** Force exerted by the blood on the walls of the ventricles at the end of diastole.
-
-**proximal:** Location nearer to the midline of the body or the point of attachment than something else is.
-
-**sarcolemma:** Membrane that covers smooth, striated, and cardiac muscle fibers.
-
-**sarcomere:** Smallest functional unit of a myofibril.
-
-**sarcoplasm:** Semifluid cytoplasm of muscle cells.
-
-**sarcoplasmic reticulum:** Network of tubules and sacs that plays an important role in muscle contraction and relaxation by releasing and storing calcium ions.
-
-**semilunar (SL) valves:** Valves shaped like half-moons that separate the ventricles from the aorta and pulmonary artery.
-
-**septum:** An internal wall of connective tissue.
-
-**stroke volume (SV):** The amount of blood ejected from a ventricle with each heartbeat.
-
-**sulcus:** Groove.
-
-**systole:** Contraction of the heart (usually referring to ventricular contraction), during which blood is propelled into the pulmonary artery and aorta; when the term is used without reference to a specific chamber of the heart, ventricular systole is implied.
-
-**tone:** A term that may be used when referring to the normal state of balanced tension in body tissues.
-
-**venous return:** Amount of blood flowing into the right atrium each minute from the systemic circulation.
-
-**ventricles:** The two lower chambers of the heart.
-
-</div></details>
-
-<details class="med-details"><summary>
-
 ## LOCATION, SIZE, AND SHAPE OF THE HEART</summary><div class="details-content">
 
 The heart is a hollow muscular organ that lies in the space between the lungs (i.e., the mediastinum) in the middle of the chest ([Fig. 1.1](#fig-1-1)). It sits behind the sternum and just above the diaphragm. About two thirds of the heart lies to the left of the midline of the sternum. The remaining third lies to the right of the sternum.
@@ -192,7 +192,7 @@ The heart's left side (i.e., left lateral surface) faces the left lung and is ma
 
 ## COVERINGS OF THE HEART</summary><div class="details-content">
 
-The *pericardium* is a double-walled sac that encloses the heart and helps protect it from trauma and infection. The tough outer layer of the pericardial sac is called the *fibrous parietal pericardium* ([Fig. 1.6](#fig-1-6)). It anchors the heart to some of the structures around it, such as the sternum and diaphragm, by means of ligaments. This helps prevent excessive movement of the heart in the chest with changes in body position.
+The *pericardium* is a double‑walled sac that encloses the heart and helps protect it from trauma and infection. The tough outer layer of the pericardial sac is called the *fibrous parietal pericardium* ([Fig. 1.6](#fig-1-6)). It anchors the heart to some of the structures around it, such as the sternum and diaphragm, by means of ligaments. This helps prevent excessive movement of the heart in the chest with changes in body position.
 
 <span id="fig-1-6"></span>**FIGURE 1.6** The fibrous pericardium and phrenic nerves revealed after removal of the lungs. *(From Gosling JA: Human anatomy: color atlas and text, ed 4, London, 2002, Mosby.)*
 
@@ -214,7 +214,7 @@ The right and left phrenic nerves, which innervate the diaphragm, pass through t
 
 If the pericardium becomes inflamed (pericarditis), excess pericardial fluid can be quickly generated in response to the inflammation. Pericarditis can result from a bacterial or viral infection, rheumatoid arthritis, tumors, destruction of the heart muscle in a heart attack, among other causes.
 
-Heart surgery or trauma to the heart, such as a stab wound, can cause a rapid buildup of blood in the pericardial space. The buildup of excess blood or fluid in the pericardial space compresses the heart. This can affect the heart's ability to relax and fill with blood between heartbeats. If the heart cannot adequately fill with blood, the amount of blood the ventricles can pump out to the body (cardiac output) will be decreased. As a result, the amount of blood returning to the heart is also decreased. These changes can result in a life-threatening condition called *cardiac tamponade*. The amount of blood or fluid in the pericardial space needed to impair the heart's ability to fill depends on the rate at which the buildup of blood or fluid occurs and the ability of the pericardium to stretch and accommodate the increased volume of fluid.
+Heart surgery or trauma to the heart, such as a stab wound, can cause a rapid buildup of blood in the pericardial space. The buildup of excess blood or fluid in the pericardial space compresses the heart. This can affect the heart's ability to relax and fill with blood between heartbeats. If the heart cannot adequately fill with blood, the amount of blood the ventricles can pump out to the body (cardiac output) will be decreased. As a result, the amount of blood returning to the heart is also decreased. These changes can result in a life‑threatening condition called *cardiac tamponade*. The amount of blood or fluid in the pericardial space needed to impair the heart's ability to fill depends on the rate at which the buildup of blood or fluid occurs and the ability of the pericardium to stretch and accommodate the increased volume of fluid.
 
 The rapid buildup of as little as 100 to 150 mL of fluid or blood can be enough to result in signs and symptoms of shock. Conversely, 1000 mL of fluid may build up over a longer period without any significant effect on the heart's ability to fill. This is because the pericardium accommodates the increased fluid by stretching over time.
 
@@ -265,7 +265,7 @@ The thickness of a heart chamber is related to the amount of pressure or resista
 
 ## CARDIAC MUSCLE</summary><div class="details-content">
 
-Cardiac muscle fibers make up the walls of the heart. These fibers have striations, or stripes, similar to that of skeletal muscle. Each muscle fiber is made up of many muscle cells ([Fig. 1.9](#fig-1-9)). Each muscle cell is enclosed in a membrane called a *sarcolemma*. Within each cell (as with all cells) are *mitochondria*, the energy-producing parts of a cell, and hundreds of long, tube-like structures called *myofibrils*. Myofibrils are made up of many *sarcomeres*, the basic protein units responsible for contraction. The process of contraction requires adenosine triphosphate (ATP) for energy. The mitochondria that are interspersed between the myofibrils are important sites of ATP production.
+Cardiac muscle fibers make up the walls of the heart. These fibers have striations, or stripes, similar to that of skeletal muscle. Each muscle fiber is made up of many muscle cells ([Fig. 1.9](#fig-1-9)). Each muscle cell is enclosed in a membrane called a *sarcolemma*. Within each cell (as with all cells) are *mitochondria*, the energy‑producing parts of a cell, and hundreds of long, tube‑like structures called *myofibrils*. Myofibrils are made up of many *sarcomeres*, the basic protein units responsible for contraction. The process of contraction requires adenosine triphosphate (ATP) for energy. The mitochondria that are interspersed between the myofibrils are important sites of ATP production.
 
 The sarcolemma has holes in it that lead into tubes called *T (transverse) tubules*. T tubules are extensions of the cell membrane. Another system of tubules, the *sarcoplasmic reticulum (SR)*, stores calcium. Muscle cells need calcium in order to contract. Calcium is moved from the sarcoplasm of the muscle cell into the SR by means of "pumps" in the SR.
 
@@ -273,7 +273,7 @@ There are certain places in the cell membrane where sodium (Na<sup>+</sup>), pot
 
 <span id="fig-1-9"></span>**FIGURE 1.9** Cardiac muscle fiber. Unlike other types of muscle fibers, the cardiac muscle fiber is typically branched and forms junctions, called intercalated disks, with adjacent cardiac muscle fibers. *(From Patton KT, Thibodeau GA: Anthony’s textbook of anatomy & physiology, ed 20, St. Louis, 2013, Mosby.)*
 
-![](_page_5_Picture_11.jpeg)
+![](_page_5_Figure_11.jpeg)
 
 <details class="med-details"><summary>
 
@@ -343,7 +343,7 @@ When the left ventricle contracts, it normally produces an impulse that can be f
 
 The heart has a skeleton, which is made up of four rings of thick connective tissue. This tissue surrounds the bases of the pulmonary trunk, the aorta, and the heart valves. The inside of the rings provides secure attachments for the heart valves. The outside of the rings provides for the attachment of the cardiac muscle of the myocardium ([Fig. 1.12](#fig-1-12)). The heart's skeleton also helps form the partitions (septa) that separate the atria from the ventricles.
 
-There are four one-way valves in the heart: two sets of AV valves and two sets of *semilunar (SL) valves*. The valves open and close in a specific sequence and assist in producing the pressure gradient needed between the chambers to ensure a smooth flow of blood through the heart and prevent the backflow of blood.
+There are four one‑way valves in the heart: two sets of AV valves and two sets of *semilunar (SL) valves*. The valves open and close in a specific sequence and assist in producing the pressure gradient needed between the chambers to ensure a smooth flow of blood through the heart and prevent the backflow of blood.
 
 <span id="fig-1-12"></span>**FIGURE 1.12** Skeleton of the heart. This posterior view shows part of the ventricular myocardium with the heart valves still attached. The rim of each heart valve is supported by a fibrous structure, called the skeleton of the heart, which encircles all four valves. AV, Atrioventricular. *(From Patton KT, Thibodeau GA: Anatomy & physiology, ed 9, St. Louis, 2016, Mosby.)*
 
@@ -355,7 +355,7 @@ There are four one-way valves in the heart: two sets of AV valves and two sets o
 
 Atrioventricular valves separate the atria from the ventricles. The two AV valves consist of tough, fibrous rings (*annuli fibrosi*); flaps (leaflets or cusps) of endocardium; *chordae tendineae*; and *papillary muscles*.
 
-The *tricuspid valve* is the AV valve that lies between the right atrium and right ventricle. It consists of three separate cusps or flaps ([Fig. 1.13](#fig-1-13)). It is larger in diameter and thinner than the mitral valve. The *mitral valve*, which is also called the *bicuspid valve*, has only two cusps and lies between the left atrium and left ventricle ([Fig. 1.14](#fig-1-14)). The mitral valve is so named because of its resemblance to a miter, which is a double-cusp bishop's hat, when open.
+The *tricuspid valve* is the AV valve that lies between the right atrium and right ventricle. It consists of three separate cusps or flaps ([Fig. 1.13](#fig-1-13)). It is larger in diameter and thinner than the mitral valve. The *mitral valve*, which is also called the *bicuspid valve*, has only two cusps and lies between the left atrium and left ventricle ([Fig. 1.14](#fig-1-14)). The mitral valve is so named because of its resemblance to a miter, which is a double‑cusp bishop's hat, when open.
 
 The AV valves open when a forward pressure gradient forces blood in a forward direction. They close when a backward pressure gradient pushes blood backward. The AV valves require almost no backflow to cause closure.
 
@@ -369,7 +369,7 @@ The AV valves open when a forward pressure gradient forces blood in a forward di
 
 The flow of blood from the superior and inferior venae cavae into the atria is normally continuous. About 70% of this blood flows directly through the atria and into the ventricles before the atria contract; this is called *passive filling*. As the atria fill with blood, the pressure within the atrial chamber rises. This pressure forces the tricuspid and mitral valves open, and the ventricles begin to fill, gradually increasing the pressure within the ventricles. When the atria contract, an additional 10% to 30% of the returning blood is added to filling of the ventricles. This additional contribution of blood resulting from atrial contraction is called *atrial kick*. On the right side of the heart, blood low in oxygen empties into the right ventricle. On the left side of the heart, freshly oxygenated blood empties into the left ventricle. When the ventricles then contract (i.e., systole), the pressure within the ventricles rises sharply. The tricuspid and mitral valves completely close when the pressure within the ventricles exceeds that of the atria.
 
-*Chordae tendineae* (tendinous cords) are thin strands of connective tissue. On one end, they are attached to the underside of the AV valves. On the other end, they are attached to small mounds of myocardium called *papillary muscles*. Papillary muscles project inward from the lower portion of the ventricular walls. When the ventricles contract and relax, so do the papillary muscles. The papillary muscles adjust their tension on the chordae tendineae, preventing them from bulging too far into the atria. For example, when the right ventricle contracts, the papillary muscles of the right ventricle pull on the chordae tendineae. The chordae tendineae prevent the flaps of the tricuspid valve from bulging too far into the right atrium. Thus, the chordae tendineae and papillary muscles serve as anchors. Because the chordae tendineae are thin and string-like, they are sometimes called "heart strings."
+*Chordae tendineae* (tendinous cords) are thin strands of connective tissue. On one end, they are attached to the underside of the AV valves. On the other end, they are attached to small mounds of myocardium called *papillary muscles*. Papillary muscles project inward from the lower portion of the ventricular walls. When the ventricles contract and relax, so do the papillary muscles. The papillary muscles adjust their tension on the chordae tendineae, preventing them from bulging too far into the atria. For example, when the right ventricle contracts, the papillary muscles of the right ventricle pull on the chordae tendineae. The chordae tendineae prevent the flaps of the tricuspid valve from bulging too far into the right atrium. Thus, the chordae tendineae and papillary muscles serve as anchors. Because the chordae tendineae are thin and string‑like, they are sometimes called "heart strings."
 
 </div></details>
 
@@ -377,7 +377,7 @@ The flow of blood from the superior and inferior venae cavae into the atria is n
 
 ### SEMILUNAR VALVES</summary><div class="details-content">
 
-The *pulmonic* and *aortic* valves are SL valves. The SL valves prevent the backflow of blood from the aorta and pulmonary arteries into the ventricles. The SL valves have three cusps shaped like half-moons. The openings of the SL valves are smaller than the openings of the AV valves, and the flaps of the SL valves are smaller and thicker than the AV valves. Unlike the AV valves, the SL valves are not attached to chordae tendineae.
+The *pulmonic* and *aortic* valves are SL valves. The SL valves prevent the backflow of blood from the aorta and pulmonary arteries into the ventricles. The SL valves have three cusps shaped like half‑moons. The openings of the SL valves are smaller than the openings of the AV valves, and the flaps of the SL valves are smaller and thicker than the AV valves. Unlike the AV valves, the SL valves are not attached to chordae tendineae.
 
 When the ventricles contract, the SL valves open, allowing blood to flow out of the ventricles. When the right ventricle contracts, blood low in oxygen flows through the pulmonic valve into the pulmonary trunk, which divides into the right and left pulmonary arteries. When the left ventricle contracts, freshly oxygenated blood flows through the aortic valve into the aorta and out to the body ([Fig. 1.15](#fig-1-15)). The SL valves close as ventricular contraction ends and the pressure in the pulmonary artery and aorta exceeds that of the ventricles.
 
@@ -518,7 +518,7 @@ Because a heart attack, which is also called a myocardial infarction, is usually
 
 ### CORONARY ARTERY DOMINANCE</summary><div class="details-content">
 
-In about 85% of people the RCA forms the posterior descending artery, and in about 10% of people the circumflex artery forms the posterior descending artery. The coronary artery that forms the posterior descending artery is considered the *dominant* coronary artery. If a branch of the RCA becomes the posterior descending artery, the coronary artery arrangement is described as a *right-dominant system*. If the Cx branches and ends at the posterior descending artery, the coronary artery arrangement is described as a *left-dominant system*. In some people, neither coronary artery is dominant. If damage to the posterior wall of the left ventricle is suspected, a cardiac catheterization usually is necessary to determine which coronary artery is involved.
+In about 85% of people the RCA forms the posterior descending artery, and in about 10% of people the circumflex artery forms the posterior descending artery. The coronary artery that forms the posterior descending artery is considered the *dominant* coronary artery. If a branch of the RCA becomes the posterior descending artery, the coronary artery arrangement is described as a *right‑dominant system*. If the Cx branches and ends at the posterior descending artery, the coronary artery arrangement is described as a *left‑dominant system*. In some people, neither coronary artery is dominant. If damage to the posterior wall of the left ventricle is suspected, a cardiac catheterization usually is necessary to determine which coronary artery is involved.
 
 </div></details>
 
@@ -526,7 +526,7 @@ In about 85% of people the RCA forms the posterior descending artery, and in abo
 
 ### ACUTE CORONARY SYNDROMES</summary><div class="details-content">
 
-*Acute coronary syndrome (ACS)* is a term that refers to distinct conditions caused by a similar sequence of pathologic events involving abruptly reduced coronary artery blood flow. This sequence of events results in conditions that range from myocardial ischemia or injury to death (i.e., necrosis) of the heart muscle. The usual cause of an ACS is the rupture of an atherosclerotic plaque. *Arteriosclerosis* is a chronic disease of the arterial system characterized by abnormal thickening and hardening of the vessel walls. *Atherosclerosis* is a form of arteriosclerosis in which the thickening and hardening of the vessel walls are caused by a buildup of fat-like deposits (e.g., plaque) in the inner lining of large and middle-sized muscular arteries. As the fatty deposits build up, the opening of the artery slowly narrows, and blood flow to the muscle decreases ([Fig. 1.18](#fig-1-18)).
+*Acute coronary syndrome (ACS)* is a term that refers to distinct conditions caused by a similar sequence of pathologic events involving abruptly reduced coronary artery blood flow. This sequence of events results in conditions that range from myocardial ischemia or injury to death (i.e., necrosis) of the heart muscle. The usual cause of an ACS is the rupture of an atherosclerotic plaque. *Arteriosclerosis* is a chronic disease of the arterial system characterized by abnormal thickening and hardening of the vessel walls. *Atherosclerosis* is a form of arteriosclerosis in which the thickening and hardening of the vessel walls are caused by a buildup of fat‑like deposits (e.g., plaque) in the inner lining of large and middle‑sized muscular arteries. As the fatty deposits build up, the opening of the artery slowly narrows, and blood flow to the muscle decreases ([Fig. 1.18](#fig-1-18)).
 
 <span id="fig-1-18"></span>**FIGURE 1.18** Pathogenesis of atherosclerosis. **A,** Damaged endothelium. **B,** Fatty streak and lipid core formation. **C,** Fibrous plaque. Raised plaques are visible: some are yellow; others are white. **D,** Complicated lesion: thrombus is red; collagen is blue. Plaque is complicated by red thrombus deposition. *(From Lewis SL, Bucher L, Heitkemper MM, Harding MM: Medical‑surgical nursing: assessment and management of clinical problems, ed 10, St. Louis, 2017, Elsevier.)*
 
@@ -558,11 +558,11 @@ The extent of arterial narrowing and the amount of reduction in blood flow are c
 
 </div></details>
 
-Ischemia can occur because of increased myocardial oxygen demand (demand ischemia), reduced myocardial oxygen supply (supply ischemia), or both. If the cause of the ischemia is not reversed and blood flow restored to the affected area of the heart muscle, ischemia may lead to cellular injury and, ultimately, infarction. Ischemia can quickly resolve by reducing the heart's oxygen demand, resting or slowing the heart rate (HR) with medications such as beta-blockers, or increasing blood flow by dilating the coronary arteries with drugs such as nitroglycerin (NTG).
+Ischemia can occur because of increased myocardial oxygen demand (demand ischemia), reduced myocardial oxygen supply (supply ischemia), or both. If the cause of the ischemia is not reversed and blood flow restored to the affected area of the heart muscle, ischemia may lead to cellular injury and, ultimately, infarction. Ischemia can quickly resolve by reducing the heart's oxygen demand, resting or slowing the heart rate (HR) with medications such as beta‑blockers, or increasing blood flow by dilating the coronary arteries with drugs such as nitroglycerin (NTG).
 
 Ischemia prolonged by more than just a few minutes causes *myocardial injury*. Myocardial injury refers to myocardial tissue that has been cut off from or experienced a severe reduction in its blood and oxygen supply. Injured myocardial cells are still alive but will die (i.e., *infarct*) if the ischemia is not quickly corrected. An MI occurs when blood flow to the heart muscle stops or is suddenly decreased long enough to cause cell death. The symptoms that accompany an MI are often more intense than those associated with angina and last more than 15 to 20 minutes.
 
-If the blocked coronary vessel is quickly opened to restore blood flow and oxygen to the injured area, no tissue death occurs. Methods of restoring blood flow may include giving clot-busting drugs (i.e., fibrinolytics), performing coronary angioplasty, or performing a coronary artery bypass graft (CABG), among others.
+If the blocked coronary vessel is quickly opened to restore blood flow and oxygen to the injured area, no tissue death occurs. Methods of restoring blood flow may include giving clot‑busting drugs (i.e., fibrinolytics), performing coronary angioplasty, or performing a coronary artery bypass graft (CABG), among others.
 
 <span id="box-1-1"></span><details class="med-details"><summary>
 
@@ -598,7 +598,7 @@ The coronary (cardiac) veins travel alongside the arteries. Blood that has passe
 
 ## The Heart's Nerve Supply</summary><div class="details-content">
 
-The myocardium is able to produce its own electrical impulses without signals from an outside source, such as a nerve. Because there are times when the body needs to increase or decrease its HR and/or force of contraction, it is beneficial that both divisions of the autonomic nervous system send fibers to the heart ([Fig. 1.19](#fig-1-19)). The *sympathetic division* prepares the body to function under stress (i.e., the "fight-or-flight" response). The *parasympathetic division* conserves and restores body resources (i.e., the "rest and digest" response).
+The myocardium is able to produce its own electrical impulses without signals from an outside source, such as a nerve. Because there are times when the body needs to increase or decrease its HR and/or force of contraction, it is beneficial that both divisions of the autonomic nervous system send fibers to the heart ([Fig. 1.19](#fig-1-19)). The *sympathetic division* prepares the body to function under stress (i.e., the "fight‑or‑flight" response). The *parasympathetic division* conserves and restores body resources (i.e., the "rest and digest" response).
 
 <span id="fig-1-19"></span>**FIGURE 1.19** Schematic showing the sympathetic and parasympathetic pathways. Sympathetic pathways are shown in *red* and parasympathetic pathways in *blue*. *(From Koeppen BM, Stanton BA: Berne & Levy physiology, ed 6, St. Louis, 2010, Mosby.)*
 
@@ -887,5 +887,404 @@ Now that we have discussed CO, SV, and HR, let us review an important point. Rem
 3. What happens to CO if the patient's HR is 70 beats/min but his SV drops to 50 mL/beat? Using our formula one more time (CO = SV × HR) and substituting numbers, we end up with 3500 mL/min = 50 mL/beat × 70 beats/min. This patient's CO is decreased. If the patient's HR increased to 90 beats/min to try to compensate for his failing pump, what would happen to his CO? (4500 mL/min = 50 mL/beat × 90 beats/min). According to our example, the patient's CO would increase—at least temporarily.
 
 </div></details>
+
+</div></details>
+
+---
+
+
+<details class="med-details">
+<summary>
+  
+## STOP & REVIEW</summary>
+<div class="details-content">
+  
+### Multiple Choice
+
+Identify the choice that best completes the statement or answers the question.
+
+<details class="med-details"><summary>
+
+**1.** The area in the middle of the thoracic cavity in which the heart lies is the  
+a. mediastinum.  
+b. pleural cavity.  
+c. parietal cavity.  
+d. visceral cavity.
+
+</summary><div class="details-content">
+
+**Answer: a.** The heart lies in the space between the lungs (i.e., the mediastinum) in the middle of the chest. The mediastinum contains the heart, great vessels, trachea, and esophagus, among other structures; it extends from the sternum to the vertebral column.  
+**OBJ:** Describe the location of the heart.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**2.** The inferior surface of the heart is formed by the  
+a. right and left atria.  
+b. right and left ventricles.  
+c. left atrium and left ventricle.  
+d. right atrium and right ventricle.
+
+</summary><div class="details-content">
+
+**Answer: b.** The heart's bottom (inferior) surface is formed by both the right and left ventricles, but mostly the left. The inferior surface of the heart is also called the *diaphragmatic surface*.  
+**OBJ:** Identify the surfaces of the heart.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**3.** Which of the following statements is correct?  
+a. The circumflex artery is a branch of the right coronary artery.  
+b. A branch of the right coronary artery supplies the right atrium and right ventricle.  
+c. The major branches of the right coronary artery are the septal and diagonal arteries.  
+d. The left main coronary artery is another name for the left anterior descending artery.
+
+</summary><div class="details-content">
+
+**Answer: b.** A branch of the right coronary artery supplies the right atrium and right ventricle. The left main coronary artery supplies oxygenated blood to its two primary branches: the left anterior descending (LAD) artery and the circumflex artery. The major branches of the LAD are the septal and diagonal arteries.  
+**OBJ:** Name the primary branches and areas of the heart supplied by the right and left coronary arteries.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**4.** The right atrium  
+a. pumps blood to the lungs.  
+b. pumps blood to the systemic circulation.  
+c. receives blood from the right and left pulmonary veins.  
+d. receives blood from the superior and inferior vena cavae and the coronary sinus.
+
+</summary><div class="details-content">
+
+**Answer: d.** The right atrium receives blood low in oxygen from the superior vena cava (which carries blood from the head and upper extremities), the inferior vena cava (which carries blood from the lower body), and the coronary sinus (which is the largest vein that drains the heart). The left atrium receives freshly oxygenated blood from the lungs via the right and left pulmonary veins. The right ventricle pumps blood to the lungs. The left ventricle pumps blood to the systemic circulation.  
+**OBJ:** Identify and describe the chambers of the heart and the vessels that enter or leave each.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**5.** Although about 70% of ventricular filling occurs passively, __________ contributes an additional 10% to 30% of blood flow to ventricular filling.  
+a. atrial kick  
+b. SV  
+c. CO  
+d. ventricular systole
+
+</summary><div class="details-content">
+
+**Answer: a.** Although about 70% of ventricular filling occurs passively, atrial contraction (also known as the *atrial kick*) contributes an additional 10% to 30% of blood flow to ventricular filling.  
+**OBJ:** Explain atrial kick.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**6.** Which of the following is the innermost layer of the heart that lines its inner chambers and valves and is continuous with the innermost layer of the arteries, veins, and capillaries of the body?  
+a. Epicardium  
+b. Myocardium  
+c. Pericardium  
+d. Endocardium
+
+</summary><div class="details-content">
+
+**Answer: d.** The endocardium is the heart's innermost layer. It lines the heart's inner chambers, valves, chordae tendineae (tendinous cords), and papillary muscles and is continuous with the innermost layer of the arteries, veins, and capillaries of the body, thereby creating a continuous, closed circulatory system.  
+**OBJ:** Identify the three cardiac muscle layers.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**7.** When a ventricle relaxes in the normal heart, blood is prevented from flowing back into it by  
+a. the mitral valve.  
+b. an SL valve.  
+c. the tricuspid valve.  
+d. an AV valve.
+
+</summary><div class="details-content">
+
+**Answer: b.** The SL valves prevent backflow of blood from the aorta and pulmonary arteries into the ventricles. When the right ventricle relaxes, blood is prevented from flowing back into it by the pulmonic valve. When the left ventricle relaxes, blood is prevented from flowing back into it by the aortic valve.  
+**OBJ:** Identify and describe the location of the atrioventricular and semilunar valves.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**8.** The right ventricle  
+a. pumps oxygenated blood into the systemic circulation.  
+b. pumps unoxygenated blood into the pulmonary circulation.  
+c. receives unoxygenated blood from the systemic circulation.  
+d. receives oxygenated blood from the pulmonary circulation.
+
+</summary><div class="details-content">
+
+**Answer: b.** The right side of the heart is a low‑pressure system whose job is to pump unoxygenated blood from the body to and through the lungs to the left side of the heart. The right ventricle receives blood low in oxygen from the right atrium and pumps the blood through the pulmonic valve into the pulmonary trunk, which divides into the right and left pulmonary arteries.  
+**OBJ:** Beginning with the right atrium, describe blood flow through the normal heart and lungs to the systemic circulation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**9.** The __________ pericardium is the inner layer of the pericardium, which is also the outer layer of the heart wall called the __________.  
+a. parietal, myocardium  
+b. visceral, epicardium  
+c. parietal, endocardium  
+d. visceral, endocardium
+
+</summary><div class="details-content">
+
+**Answer: b.** The visceral pericardium is the inner layer of the pericardium, which also attaches to the large vessels that enter and exit the heart and covers the outer surface of the heart muscle (i.e., the epicardium).  
+**OBJ:** Describe the structure and function of the coverings of the heart.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**10.** Which of the following conditions are potentially reversible?  
+a. Myocardial ischemia and myocardial injury  
+b. Myocardial injury and MI  
+c. Myocardial ischemia and MI  
+
+</summary><div class="details-content">
+
+**Answer: a.** The sequence of events that occurs during an ACS results in conditions that range from myocardial ischemia or injury to death (i.e., necrosis) of heart muscle. Ischemia prolonged more than just a few minutes results in myocardial injury. Injured myocardial cells are still alive but will die (i.e., *infarct*) if the ischemia is not quickly corrected. An MI occurs when blood flow to the heart muscle stops or is suddenly decreased long enough to cause cell death.  
+**OBJ:** Discuss myocardial ischemia, injury, and infarction, indicating which conditions are reversible and which are not.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**11.** Which of the following statements is true regarding CO?  
+a. The higher the afterload, the more easily blood is ejected from a ventricle.  
+b. SV is the percentage of blood pumped out of a ventricle with each contraction.  
+c. An inverse relationship exists between venous return and preload; increased venous return decreases preload.  
+d. Within limits, the more blood that is returned to the heart, the greater the volume of blood pumped during the next contraction.
+
+</summary><div class="details-content">
+
+**Answer: d.** According to the Frank‑Starling law of the heart, the greater the stretch of the cardiac muscle (within limits), the greater the resulting contraction. Preload (end‑diastolic volume) is the force exerted on the walls of the ventricles at the end of diastole. In a normal heart, the greater the preload, the greater the force of ventricular contraction and the greater the SV, resulting in increased CO. Afterload is the pressure or resistance against which the ventricles must pump to eject blood. The lower the resistance (lower afterload), the more easily blood is ejected. The percentage of blood pumped out of a ventricle with each contraction is called the *ejection fraction*.  
+**OBJ:** Identify and explain the components of blood pressure and cardiac output.
+
+</div></details>
+
+### Questions 12 through 14 pertain to the following scenario.
+
+A 65‑year‑old man presents with a sudden onset of substernal chest pain that radiates to his left arm and jaw and nausea. He states that his symptoms began while at rest. The patient has a history of coronary artery disease and had a three‑vessel coronary artery bypass graft last year. His medications include diltiazem (Cardizem) and nitroglycerin. He has no known allergies.
+
+<details class="med-details"><summary>
+
+**12.** On the basis of the information presented, this patient is most likely experiencing a(n)  
+a. stroke.  
+b. cardiac arrest.  
+c. valvular prolapse.  
+d. ACS.
+
+</summary><div class="details-content">
+
+**Answer: d.** On the basis of the information presented, this patient is most likely experiencing an ACS. ACS refers to distinct conditions caused by a similar sequence of pathologic events—a temporary or permanent blockage of a coronary artery. These conditions are characterized by an excessive demand or inadequate supply of oxygen and nutrients to the heart muscle associated with plaque disruption, thrombus formation, and vasoconstriction.  
+**OBJ:** Define and explain acute coronary syndromes.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**13.** Your assessment reveals that the patient is anxious, his skin is pale and sweaty, and his heart rate is faster than normal for his age. The patient's assessment findings are most likely  
+a. the result of a blocked cerebral blood vessel.  
+b. the result of the improper closure of one or more heart valves.  
+c. caused by sympathetic stimulation and the release of norepinephrine.  
+d. caused by parasympathetic stimulation and the release of acetylcholine.
+
+</summary><div class="details-content">
+
+**Answer: c.** This patient's assessment findings are typical of those experiencing an ACS and are most likely caused by sympathetic stimulation and the release of norepinephrine and epinephrine. The sympathetic division of the autonomic nervous system prepares the body to function under stress ("fight‑or‑flight" response). The effects of norepinephrine and epinephrine include an increased heart rate, force of contraction, blood pressure, and CO; increased sweating; and shunting of blood from the skin and blood vessels of internal organs to skeletal muscle.  
+**OBJ:** Compare and contrast the effects of sympathetic and parasympathetic stimulation of the heart.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**14.** This patient's heart rate is faster than normal for his age. Why might this finding be a cause for concern?  
+a. Rapid heart rates predispose the patient to valvular heart disease.  
+b. Rapid heart rates shorten diastole and can result in decreased CO.  
+c. Rapid heart rates lengthen systole but decrease myocardial contractility, which can lead to shock.  
+d. Rapid heart rates are usually accompanied by pulmonary congestion, which leads to heart failure.
+
+</summary><div class="details-content">
+
+**Answer: b.** The coronary arteries fill when the aortic valve is closed and the left ventricle is relaxed (i.e., diastole). If the length of time for ventricular relaxation is shortened (as with rapid heart rates), there is less time for them to fill adequately with blood. If the ventricles do not have time to fill, the amount of blood sent to the coronary arteries is reduced, the amount of blood pumped out of the ventricles will decrease (i.e., CO), and signs of myocardial ischemia may be seen.  
+**OBJ:** Identify and discuss each phase of the cardiac cycle.
+
+</div></details>
+
+### Matching
+
+Match the terms below with their descriptions by placing the letter of each correct answer in the space provided.
+
+a. Right coronary artery  
+b. Arteriosclerosis  
+c. Septum  
+d. Atria  
+e. Endocardium  
+f. Atrioventricular  
+g. Contracts  
+h. Half moon  
+i. SV  
+j. Aortic  
+k. Ventricles  
+l. Pericardium  
+m. Ischemia  
+n. Angina pectoris  
+o. Ejection fraction  
+
+<details class="med-details"><summary>
+
+**15.** A double‑walled sac that encloses the heart
+
+</summary><div class="details-content">
+
+**Answer: l.** Pericardium
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**16.** An SL valve is shaped like a
+
+</summary><div class="details-content">
+
+**Answer: h.** Half moon
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**17.** Decreased supply of oxygenated blood to a body part or organ
+
+</summary><div class="details-content">
+
+**Answer: m.** Ischemia
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**18.** Innermost layer of the heart
+
+</summary><div class="details-content">
+
+**Answer: e.** Endocardium
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**19.** Lower heart chambers
+
+</summary><div class="details-content">
+
+**Answer: k.** Ventricles
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**20.** This type of heart valve separates an atrium and ventricle.
+
+</summary><div class="details-content">
+
+**Answer: f.** Atrioventricular
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**21.** Chest discomfort or other related symptoms of sudden onset that may occur because the increased oxygen demand of the heart temporarily exceeds the blood supply
+
+</summary><div class="details-content">
+
+**Answer: n.** Angina pectoris
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**22.** Coronary artery that supplies the SA node and AV node in most of the population
+
+</summary><div class="details-content">
+
+**Answer: a.** Right coronary artery
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**23.** The amount of blood ejected from a ventricle with each heartbeat
+
+</summary><div class="details-content">
+
+**Answer: i.** SV
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**24.** Upper chambers of the heart
+
+</summary><div class="details-content">
+
+**Answer: d.** Atria
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**25.** One of the SL valves
+
+</summary><div class="details-content">
+
+**Answer: j.** Aortic
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**26.** The percentage of blood pumped out of a heart chamber with each contraction
+
+</summary><div class="details-content">
+
+**Answer: o.** Ejection fraction
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**27.** An internal wall of connective tissue
+
+</summary><div class="details-content">
+
+**Answer: c.** Septum
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**28.** When actin and myosin filaments slide together, the cardiac muscle cell
+
+</summary><div class="details-content">
+
+**Answer: g.** Contracts
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**29.** A chronic disease of the arterial system characterized by abnormal thickening and hardening of the vessel walls
+
+</summary><div class="details-content">
+
+**Answer: b.** Arteriosclerosis
+</div>
+</details>
+
 
 </div></details>

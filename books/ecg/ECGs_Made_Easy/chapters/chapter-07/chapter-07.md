@@ -437,7 +437,11 @@ Examples of most of the AV blocks discussed in this chapter appear in [Fig. 7.13
 
 ---
 
-## STOP & REVIEW
+<details class="med-details">
+<summary>
+  
+  ## STOP & REVIEW</summary>
+<div class="details-content">
 
 ### True/False
 
@@ -629,10 +633,16 @@ f. Irregular
 | QRS width             | Narrow or wide                 | Narrow or wide |
 
 **OBJ:** Describe 2:1 AV block and advanced second‑degree AV block.
+</div>
+</details>
 
 ---
 
-## AV Blocks – Practice Rhythm Strips
+<details class="med-details">
+<summary>
+  
+## AV Blocks – Practice Rhythm Strips</summary>
+<div class="details-content">
 
 Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
 
@@ -1311,5 +1321,8 @@ PR interval: 0.32 second
 QRS duration: 0.10 to 0.12 second  
 QT interval: 0.36 to 0.40 second  
 Interpretation: 2:1 AV block at 36 beats/min
+
+</div>
+</details>
 
 </div></details>

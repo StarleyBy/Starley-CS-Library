@@ -1,6 +1,5 @@
 # Basic Electrophysiology
 
-
 <details class="med-details"><summary>
 
 ## KEY TERMS</summary><div class="details-content">
@@ -266,7 +265,7 @@ Human body fluids contain *electrolytes*, which are elements or compounds that b
 
 #### Did You Know?</summary><div class="details-content">
 
-The main electrolytes that affect the function of the heart are Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, and chloride (Cl<sup>-</sup>). Disorders that affect the concentration of these important electrolytes can have serious consequences. For example, an imbalance of K<sup>+</sup> can cause life-threatening disturbances in the heart's rhythm.
+The main electrolytes that affect the function of the heart are Na<sup>+</sup>, K<sup>+</sup>, Ca<sup>2+</sup>, and chloride (Cl<sup>-</sup>). Disorders that affect the concentration of these important electrolytes can have serious consequences. For example, an imbalance of K<sup>+</sup> can cause life‑threatening disturbances in the heart's rhythm.
 
 </div></details>
 
@@ -671,6 +670,10 @@ An imaginary line that joins the positive and negative electrodes of a lead is c
 **Lead III** records the difference in electrical potential between the left leg (+) and left arm (-) electrodes. Waveforms observed in this lead are usually positive. Lead III views the inferior surface of the left ventricle.
 
 A summary of the standard limb leads appears in [Table 2.2](#table-2-2).
+
+<span id="fig-2-16"></span>**FIGURE 2.16** The electrocardiogram (ECG) leads. *(From Runge MS, Stouffer G, Patterson C: Netter’s cardiology, ed 2, Philadelphia, 2010, Saunders.)*
+
+![](_page_15_Figure_2.jpeg)
 
 <span id="table-2-2"></span><details class="med-details"><summary>
 

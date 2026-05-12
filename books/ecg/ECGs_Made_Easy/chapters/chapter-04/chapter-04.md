@@ -984,3 +984,950 @@ Because the machine must be able to detect a QRS complex in order to sync, synch
 | QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | Usually greater than 0.12 sec; delta wave may be seen in one or more leads |
 
 </div></details>
+
+---
+
+<details class="med-details">
+<summary>
+  
+  ## STOP & REVIEW</summary>
+<div class="details-content">
+
+### True/False
+
+Indicate whether the statement is true or false.
+
+1. MAT is another name for AFib.
+2. Synchronized cardioversion is recommended in the treatment of frequent PACs.
+3. Proper identification of wandering atrial pacemaker requires at least three different P waves, seen in the same lead.
+
+### Multiple Choice
+
+Identify the choice that best completes the statement or answers the question.
+
+4. All supraventricular dysrhythmias
+   a. involve accessory pathways.
+   b. begin above the bifurcation of the bundle of His.
+   c. begin below the bifurcation of the bundle of His.
+   d. require the AV node's participation to sustain the dysrhythmia.
+
+5. On the ECG, an impulse that begins in the atria and occurs earlier than the next expected sinus beat will appear as a
+   a. P wave that appears after the QRS complex.
+   b. QRS measuring more than 0.11 second in duration.
+   c. P wave with a PR interval measuring more than 0.20 second.
+   d. P wave that may appear in the T wave of the preceding beat.
+
+6. A compensatory pause is a
+   a. series of waveforms.
+   b. delay that occurs following a premature beat that resets the SA node.
+   c. period during the cardiac cycle during which cardiac cells can be stimulated to conduct an electrical impulse if exposed to a stronger than normal stimulus.
+   d. period during the cardiac cycle during which cardiac cells cannot be stimulated to conduct an electrical impulse, no matter how strong the stimulus.
+
+7. The most common type of SVT is
+   a. atrial flutter.
+   b. AT.
+   c. AVRT.
+   d. AVNRT.
+
+8. Signs and symptoms experienced during a tachydysrhythmia are usually primarily related to
+   a. atrial irritability.
+   b. vasoconstriction.
+   c. slowed conduction through the AV node.
+   d. decreased ventricular filling time and stroke volume.
+
+9. The WPW pattern is associated with a
+   a. short PR interval, delta wave, and wide QRS complex.
+   b. long PR interval, delta wave, and normal QRS complex.
+   c. long PR interval, flutter waves, and narrow QRS complex.
+   d. short PR interval, fibrillatory waves, and narrow QRS complex.
+
+10. Which of the following ECG characteristics distinguishes atrial flutter from other atrial dysrhythmias?
+    a. The presence of fibrillatory waves
+    b. P waves of varying size and amplitude
+    c. The presence of delta waves before the QRS
+    d. The "saw-tooth" or "picket-fence" appearance of waveforms before the QRS
+
+11. In AFib, the PR interval is usually
+    a. not measurable.
+    b. within normal limits.
+    c. less than 0.20 second in duration.
+    d. more than 0.20 second in duration.
+
+12. Which of the following dysrhythmias is most likely to be associated with a reduction in cardiac output and loss of atrial kick?
+    a. AFib
+    b. Sinus tachycardia
+    c. PACs
+    d. Wandering atrial pacemaker
+
+### Questions 13 through 17 pertain to the following scenario.
+
+A 35‑year‑old woman is complaining of palpitations.
+
+13. The patient is alert and oriented to person, place, time, and event. Her blood pressure is 144/82 mm Hg, and her ventilations are 18 breaths/min and unlabored. She appears anxious and states her "heart is racing." Which of the following statements is correct with regard to assessment of this patient?
+    a. Despite the patient's age, palpitations generally indicate the presence of cardiac disease.
+    b. A complaint of palpitations is a cause for concern only if they are of sudden onset and their rhythm is irregular.
+    c. A complaint of palpitations is always associated with evidence of a rhythm disturbance on the cardiac monitor.
+    d. Information relayed by the patient can provide important clues about her cardiovascular status.
+
+14. A pulse oximeter has been applied. The patient's oxygen saturation on room air is 97%. The cardiac monitor reveals the rhythm shown in Fig. 4.24. This rhythm, recorded in lead II, is
+    a. sinus tachycardia.
+    b. AVNRT.
+    c. AVRT.
+    d. AFib.
+
+15. The PR interval in Fig. 4.24
+    a. is 0.06 second.
+    b. is 0.12 second.
+    c. is 0.20 second.
+    d. cannot be measured.
+
+16. The QT interval in Fig. 4.24
+    a. is 0.16 second.
+    b. is 0.24 second.
+    c. is 0.38 second.
+    d. cannot be measured.
+
+17. Intravenous access has been established. A repeat set of vital signs reveals the following: blood pressure, 140/82 mm Hg; pulse, 188 beats/min; and ventilations, 20 breaths/min. The patient's anxiety has increased. She denies chest discomfort and shortness of breath. Her skin is pink and warm but moist. On the basis of the information provided, you should anticipate orders for which of the following?
+    a. Immediate sedation
+    b. Attempt vagal maneuvers
+    c. Synchronized cardioversion
+    d. Administer intravenous atropine
+
+### Matching
+
+Match the terms below with their descriptions by placing the letter of each correct answer in the space provided.
+
+a. Atrial kick
+b. Premature
+c. Beta‑blockers
+d. Accessory pathway
+e. Trigeminy
+f. Bruit
+g. Adenosine
+h. Delta wave
+i. Uncontrolled
+j. Nonconducted PAC
+k. Atrial flutter
+l. Aberrantly conducted PAC
+m. Anticoagulant
+n. Erratic
+o. AFib
+p. Vagal maneuvers
+q. Palpitations
+r. Stroke
+s. Preexcitation
+t. Multiform atrial rhythm
+u. Bigeminy
+
+18. A dysrhythmia that requires at least three different P waves, seen in the same lead, for proper diagnosis
+19. Common complaint in a patient with a rapid heart rate
+20. Term used to describe a rhythm that originates above the ventricles and sends an impulse along a pathway outside the AV node and bundle of His.
+21. Baseline appearance in AFib
+22. ECG finding associated with WPW pattern
+23. Patients who experience AFib are at increased risk of having this.
+24. Blood pushed into the ventricles because of atrial contraction
+25. An extra bundle of working myocardial tissue that forms a connection between the atria and ventricles outside the normal conduction system
+26. Methods used to stimulate the vagus nerve in an attempt to slow conduction through the AV node, resulting in slowing of the heart rate
+27. This dysrhythmia has an irregularly irregular ventricular rhythm with no identifiable P waves.
+28. Atrial flutter or fibrillation with a rapid ventricular rate
+29. Every other beat comes from somewhere other than the SA node.
+30. An early P wave with no QRS following it
+31. Earlier than expected
+32. These should be avoided in the presence of severe underlying pulmonary disease.
+33. Blowing or swishing sound within a vessel
+34. The name given a PAC associated with a wide QRS complex
+35. Drug of choice for AVNRT
+36. This dysrhythmia has saw‑tooth waveforms instead of P waves.
+37. Every third beat comes from somewhere other than the SA node.
+38. Before elective cardioversion, prophylactic treatment with a(n) __________ is recommended for the patient in atrial flutter or fibrillation.
+
+### Short Answer
+
+39. PAT is visible on a patient's cardiac monitor. What does "paroxysmal" mean?
+40. Explain why patients who experience AFib are at increased risk of having a stroke.
+
+---
+
+## STOP & REVIEW / ANSWERS
+
+1. **F.** AFib may be confused with MAT because both rhythms are irregular; however, P waves, although varying in size, shape, and direction, are clearly visible in MAT. With AFib, there is no uniform wave of atrial depolarization; thus, there is no P wave. Instead, wavy deflections called *fibrillatory waves* or *f waves* are present.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for MAT.
+
+2. **F.** Electrical therapy, such as synchronized cardioversion, is not indicated in the treatment of PACs. Examples of rhythms treated with cardioversion include narrow‑QRS tachycardias, AFib, atrial flutter, and monomorphic ventricular tachycardia. Frequent PACs are treated by correcting the underlying cause.  
+   **OBJ:** Discuss the indications for synchronized cardioversion.
+
+3. **T.** Wandering atrial pacemaker requires at least three different P waves, seen in the same lead, for proper diagnosis.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for wandering atrial pacemaker (multiform atrial rhythm).
+
+4. **B.** A supraventricular rhythm is one that originates from a site above the bifurcation of the bundle of His, such as the SA node, atria, or AV junction.
+
+5. **D.** When compared with the P‑P intervals of the underlying rhythm, a PAC is premature—occurring before the next expected sinus P wave. PACs are identified by early (premature) P waves, positive (upright) P waves (in lead II) that differ in shape from sinus P waves (atrial P waves may be flattened, notched, pointed, biphasic, or lost in the preceding T wave), and early P waves that may or may not be followed by a QRS complex.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for PACs.
+
+6. **B.** A compensatory pause is a delay that occurs after a premature beat that resets the SA node. A series of waveforms is called a complex. The period during the cardiac cycle during which cardiac cells can be stimulated to conduct an electrical impulse if exposed to a stronger than normal stimulus describes the relative refractory period. The period during the cardiac cycle during which cardiac cells cannot be stimulated to conduct an electrical impulse, no matter how strong the stimulus describes the absolute refractory period.  
+   **OBJ:** Explain the difference between a compensatory and noncompensatory pause.
+
+7. **D.** AVNRT, which is caused by reentry in the area of the AV node, is the most common type of SVT.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AVNRT.
+
+8. **D.** Signs and symptoms experienced during a tachydysrhythmia are usually primarily related to a decrease in the length of time spent in diastole. Remember that as the heart rate increases, there is less time for the ventricles to fill and less blood for the ventricles to pump out with each contraction. Thus, an excessively fast heart rate can lead to decreased cardiac output.
+
+9. **A.** The WPW pattern includes a triad (meaning three) of ECG findings that consist of the following: (1) A short PR interval, (2) a delta wave, and (3) a wide QRS complex. In addition, secondary ST‑segment and T‑wave changes are often present.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AVRT.
+
+10. **D.** With atrial flutter, atrial waveforms are produced that resemble the teeth of a saw, or a picket fence; these are called *flutter waves* or *F waves*.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for atrial flutter.
+
+11. **A.** Because there are no P waves associated with AFib, a PR interval cannot be measured.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AFib.
+
+12. **A.** With AFib, rapid impulses cause the muscles of the atria to quiver (fibrillate). This results in ineffectual atrial contraction, decreased stroke volume, a subsequent decrease in cardiac output, and loss of atrial kick.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AFib.
+
+13. **D.** Information relayed by the patient as part of the history can provide important clues to her cardiovascular (and pulmonary) status. Ask questions to find out the patient's description of her symptoms, when and how often they occur, how long they last, possible triggers, and what measures she has taken to relieve them. A complaint of palpitations warrants timely assessment and intervention, whether or not their rhythm is regular. It is important to determine if chest pain or discomfort, difficulty breathing, or shortness of breath accompanies her palpitations. Some practitioners recommend having the patient "tap out" the rhythm of the palpitations to help determine rhythmicity. Palpitations that occur regularly with a sudden onset and end usually are caused by AVNRT or AVRT. Irregular palpitations may be the result of premature complexes, AFib, or MAT. Patients may report palpitations even when there is no evidence of a rhythm disturbance on the cardiac monitor. This occurs most often in patients with anxiety disorders. Although symptoms such as chest pain or discomfort, dyspnea, palpitations, edema, and syncope are classic symptoms of cardiac disease, they may also occur because of other organ system diseases (e.g., musculoskeletal, pulmonary, renal, and gastrointestinal).  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AVNRT.
+
+14. **B.** The rhythm shown is AVNRT at 188 beats/min.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AVNRT.
+
+15. **D.** Because there are no P waves visible in Fig. 4.24, the PR interval cannot be measured.  
+    **OBJ:** Define and describe the significance of each of the following as they relate to cardiac electrical activity: P wave, QRS complex, T wave, U wave, PR segment, TP segment, ST segment, PR interval, QRS duration, and QT interval.
+
+16. **B.** The QT interval in Fig. 4.24 measures 0.24 second.  
+    **OBJ:** Define and describe the significance of each of the following as they relate to cardiac electrical activity: P wave, QRS complex, T wave, U wave, PR segment, TP segment, ST segment, PR interval, QRS duration, and QT interval.
+
+17. **B.** The patient is symptomatic but *stable*. Vagal maneuvers may be attempted. If vagal maneuvers were unsuccessful, anticipate orders for IV administration of adenosine. Sedation and cardioversion would be appropriate if the patient was *unstable* (showing signs of hemodynamic compromise). Because atropine is administered to increase heart rate and this patient is already tachycardic, it is contraindicated in this patient situation.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AVNRT.
+
+18. **T**
+19. **Q**
+20. **S**
+21. **N**
+22. **H**
+23. **R**
+24. **A**
+25. **D**
+26. **P**
+27. **O**
+28. **I**
+29. **U**
+30. **J**
+31. **B**
+32. **C**
+33. **F**
+34. **L**
+35. **G**
+36. **K**
+37. **E**
+38. **M**
+
+39. The term *paroxysmal* is used to describe a rhythm that starts or ends suddenly. Some practitioners use this term to describe the sudden onset or end of a patient's symptoms.  
+    **OBJ:** Explain the terms paroxysmal atrial tachycardia and paroxysmal supraventricular tachycardia.
+
+40. Because the atria do not contract effectively and expel all of the blood within them, blood may pool within them and form clots. A clot may dislodge on its own or because of conversion to a sinus rhythm. A stroke can result if a clot moves from the atria and lodges in an artery in the brain.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for AFib.
+</div>
+</details>
+
+
+---
+
+<details class="med-details">
+<summary>
+  
+  
+  ## Atrial Rhythms – Practice Rhythm Strips</summary>
+<div class="details-content">
+
+Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
+
+<details class="med-details"><summary>
+
+**41. Fig. 4.25**
+
+![](_page_23_Figure_4.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 120 beats/min  
+P waves: Sinus P waves look alike; P waves of beats 4 and 10 are early  
+PR interval: 0.16 second  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.28 second  
+Interpretation: Sinus tachycardia at 120 beats/min with PACs (beats 4 and 10)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**42. Fig. 4.26** – This rhythm strip is from an 85‑year‑old man complaining of chest pain and shortness of breath.
+
+![](_page_24_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 110 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: AFib at 110 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**43. Fig. 4.27** – This rhythm strip is from a 53‑year‑old woman with an altered level of responsiveness.
+
+![](_page_24_Figure_6.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 231 beats/min  
+P waves: None visible; hidden in T waves  
+PR interval: None  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.24 second  
+Interpretation: AVNRT at 231 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**44. Fig. 4.28** – These rhythm strips are from an 82‑year‑old man complaining of back pain.
+
+![](_page_24_Figure_11.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 71 beats/min (sinus beats)  
+P waves: Upright before each QRS; one early P wave distorts the T wave of beat 4 (most clearly seen in lead MCL<sub>1</sub>)  
+PR interval: 0.20 second (lead II)  
+QRS duration: 0.12 second (lead II)  
+QT interval: 0.40 to 0.44 second (lead II)  
+Interpretation: Sinus rhythm at 71 beats/min with a wide QRS and a nonconducted PAC
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**45. Fig. 4.29**
+
+![](_page_25_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min (sinus beats)  
+P waves: Upright before each QRS; an early P wave appears with beat 6  
+PR interval: 0.12 second (sinus beats)  
+QRS duration: 0.06 to 0.08 second (sinus beats)  
+QT interval: 0.24 second (sinus beats)  
+Interpretation: Sinus rhythm at 80 beats/min with a PAC (beat 6)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**46. Fig. 4.30** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_25_Figure_4.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 177 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.12 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.20 to 0.24 second  
+Interpretation: Sinus tachycardia at 177 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**47. Fig. 4.31**
+
+![](_page_25_Figure_6.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.08 second  
+QT interval: Unable to determine; T waves are not consistently visible  
+Interpretation: AFib at 80 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**48. Fig. 4.32**
+
+![](_page_25_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 97 beats/min (sinus beats), 200 beats/min (PSVT)  
+P waves: Upright before each QRS (sinus beats); hidden in T waves (PSVT)  
+PR interval: 0.16 second (sinus beats)  
+QRS duration: 0.08 second  
+QT interval: 0.24 to 0.32 second  
+Interpretation: Sinus rhythm at 97 beats/min with a PAC precipitating a run of PSVT at 200 beats/min, back to a sinus rhythm at 97 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**49. Fig. 4.33** – These rhythm strips are from a 74‑year‑old woman with difficulty breathing.
+
+![](_page_26_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Flutter waves of varying ratios present  
+PR interval: None  
+QRS duration: 0.08 to 0.10 second  
+QT interval: Unable to determine  
+Interpretation: Atrial flutter at 80 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**50. Fig. 4.34** – These rhythm strips are from a 78‑year‑old man complaining of shortness of breath.
+
+![](_page_26_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.10 to 0.12 second  
+QT interval: 0.32 second  
+Interpretation: AFib at 70 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**51. Fig. 4.35**
+
+![](_page_26_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 70 beats/min  
+P waves: Upright before each QRS but vary in shape  
+PR interval: Varies  
+QRS duration: Varies  
+QT interval: 0.44 second  
+Interpretation: Underlying rhythm is sinus, but pacemaker site varies; ventricular rate about 70 beats/min; patient with known WPW syndrome; note the delta waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**52. Fig. 4.36**
+
+![](_page_26_Figure_11.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 120 beats/min  
+P waves: Sinus P waves look alike; early P waves of beats 2 and 6 distort the T waves of the preceding beats  
+PR interval: 0.16 to 0.18 second (sinus beats)  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.26 to 0.28 second  
+Interpretation: Sinus tachycardia at 120 beats/min with two PACs (beats 2 and 6)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**53. Fig. 4.37** – This rhythm strip is from a 45‑year‑old man who is complaining of chest pain.
+
+![](_page_27_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular (all beats but the first are regular)  
+Rate: 94 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.20 to 0.22 second  
+QRS duration: 0.06 second  
+QT interval: 0.32 second  
+Interpretation: Sinus rhythm at 94 beats/min with inverted T waves (because the rhythm is technically irregular, the rhythm could be interpreted as sinus arrhythmia)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**54. Fig. 4.38** – This rhythm strip is from a 14‑year‑old adolescent complaining of chest pain.
+
+![](_page_27_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 214 beats/min  
+P waves: None visible; hidden in T waves  
+PR interval: None  
+QRS duration: 0.06 second  
+QT interval: 0.20 to 0.24 second  
+Interpretation: AVNRT at 214 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**55. Fig. 4.39** – This rhythm strip is from the same 14‑year‑old patient as in Fig. 4.38. This rhythm was observed after 6 mg of intravenous adenosine.
+
+![](_page_27_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular to irregular as rhythm conversion occurs  
+Rate: 214 beats/min (AVNRT) to about 30 beats/min (sinus beats)  
+P waves: None visible with AVNRT; upright before QRS with sinus beats  
+PR interval: 0.12 to 0.16 second (sinus beats)  
+QRS duration: 0.06 second (AVNRT, last sinus beat)  
+QT interval: 0.28 second (sinus beats)  
+Interpretation: AVNRT at 214 beats/min with ST‑segment depression; rhythm conversion evidenced by a sinus beat, a possible PAC, and then sinus bradycardia at about 30 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**56. Fig. 4.40** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_28_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 85 beats/min  
+P waves: Flutter waves present  
+PR interval: None  
+QRS duration: 0.06 second  
+QT interval: Unable to determine  
+Interpretation: Atrial flutter at 85 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**57. Fig. 4.41**
+
+![](_page_28_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 100 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.06 to 0.10 second  
+QT interval: 0.32 second  
+Interpretation: AFib at 100 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**58. Fig. 4.42** – This rhythm strip is from a 72‑year‑old man complaining of nausea and lightheadedness.
+
+![](_page_28_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Sinus P waves look alike; early P waves of beats 4 and 8 distort the T waves of the preceding beats  
+PR interval: 0.20 second (sinus beats)  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.40 second  
+Interpretation: Sinus rhythm at 80 beats/min with two PACs (beats 4 and 8) and ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**59. Fig. 4.43** – This rhythm strip is from a 6‑year‑old boy immediately after a seizure.
+
+![](_page_29_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 90 beats/min (within normal limits for age)  
+P waves: Upright before each QRS; P wave amplitude varies among beats  
+PR interval: 0.08 to 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.32 second  
+Interpretation: Sinus arrhythmia at 90 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**60. Fig. 4.44**
+
+![](_page_29_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 110 beats/min  
+P waves: Flutter waves present  
+PR interval: None  
+QRS duration: 0.08 to 0.10 second  
+QT interval: Unable to determine  
+Interpretation: Atrial flutter at 110 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**61. Fig. 4.45**
+
+![](_page_29_Figure_9.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 120 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.08 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: AFib at 120 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**62. Fig. 4.46** – This rhythm strip is from a 54‑year‑old man who had a syncopal episode.
+
+![](_page_30_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 60 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.20 second  
+QRS duration: 0.08 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 60 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**63. Fig. 4.47** – This rhythm strip is from a 57‑year‑old man with no cardiac history.
+
+![](_page_30_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 90 beats/min  
+P waves: Upright before each QRS but some vary in shape and amplitude; an early P wave appears after beat 3  
+PR interval: 0.12 to 0.18 second  
+QRS duration: 0.08 second  
+QT interval: 0.28 to 0.30 sec; unable to clearly determine because of artifact  
+Interpretation: Sinus rhythm at 90 beats/min with a nonconducted PAC
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**64. Fig. 4.48** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_30_Figure_9.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 60 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.06 to 0.08 second  
+QT interval: Unable to determine  
+Interpretation: AFib at 60 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**65. Fig. 4.49** – This rhythm strip is from a 67‑year‑old woman found unresponsive on the side of the road. Outdoor temperature was 112°F. Her blood pressure was 238/110 mm Hg, and her ventilatory rate was 60 breaths/min.
+
+![](_page_31_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 107 beats/min  
+P waves: Upright before each QRS; artifact present  
+PR interval: 0.16 to 0.18 second  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.28 to 0.32 second; artifact present  
+Interpretation: Sinus tachycardia at 107 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**66. Fig. 4.50** – This rhythm strip is from a 67‑year‑old woman complaining of dizziness and a "funny feeling" in her chest.
+
+![](_page_31_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 177 beats/min  
+P waves: None visible; hidden in T waves  
+PR interval: None  
+QRS duration: 0.06 to 0.10 second  
+QT interval: 0.24 second  
+Interpretation: AVNRT at 177 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**67. Fig. 4.51** (From Braunwald E, Libby P, Zipes DP, et al: Heart disease: a textbook of cardiovascular medicine, ed 6, St. Louis, 2001, Mosby.)
+
+![](_page_31_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 120 beats/min  
+P waves: Vary in size, shape, and direction  
+PR interval: Varies  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.24 to 0.28 second  
+Interpretation: MAT at 120 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**68. Fig. 4.52** – This rhythm strip is from an 81‑year‑old woman who experienced a massive myocardial infarction.
+
+![](_page_32_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 140 beats/min  
+P waves: Flutter waves visible despite artifact  
+PR interval: None  
+QRS duration: 0.12 to 0.16 second  
+QT interval: Unable to determine  
+Interpretation: Atrial flutter with a ventricular response of 140 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**69. Fig. 4.53** (From Goldberger AL: Clinical electrocardiography: a simplified approach, ed 7, St. Louis, 2006, Mosby.)
+
+![](_page_32_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 50 beats/min (top strip)  
+P waves: Vary in size, shape, and direction  
+PR interval: Varies  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.40 to 0.44 second  
+Interpretation: Wandering atrial pacemaker at 50 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**70. Fig. 4.54** – This rhythm strip is from a 62‑year‑old woman complaining of chest pain. She reported a history of three previous heart attacks and had undergone a three‑vessel coronary artery bypass graft 10 years ago.
+
+![](_page_32_Figure_9.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 75 beats/min  
+P waves: Upright before each QRS but vary in size and shape  
+PR interval: 0.16 to 0.18 second  
+QRS duration: 0.12 to 0.14 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 75 beats/min with wide, notched QRS complexes, ST‑segment depression, and inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**71. Fig. 4.55**
+
+![](_page_33_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 60 beats/min  
+P waves: Upright before each QRS but some vary in amplitude  
+PR interval: 0.14 to 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.38 to 0.42 second  
+Interpretation: Sinus arrhythmia at 60 beats/min
+</div>
+</details>
+
+
+</div></details>

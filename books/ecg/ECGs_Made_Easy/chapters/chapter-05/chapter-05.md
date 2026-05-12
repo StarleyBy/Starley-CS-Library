@@ -78,7 +78,7 @@ Remember that the sinoatrial (SA) node is normally the heart's pacemaker. The AV
 - The rate of discharge of the SA node is slower than that of the AV junction (e.g., a sinus bradycardia or the slower phase of a sinus arrhythmia).
 - An impulse from the SA node is generated and is conducted through the atria but is not conducted to the ventricles (e.g., an AV block).
 
-<span id="fig-5-1"></span>**FIGURE 5.1** The atrioventricular (AV) node is located in the lower portion of the right atrium. The bundle of His is located in the upper part of the interventricular septum. SA, Sinoatrial. *(From Ignatavicius DD, Workman LM: Medical-surgical nursing: patient-centered collaborative care, ed 8, Philadelphia, 2016, Saunders.)*
+<span id="fig-5-1"></span>**FIGURE 5.1** The atrioventricular (AV) node is located in the lower portion of the right atrium. The bundle of His is located in the upper part of the interventricular septum. SA, Sinoatrial. *(From Ignatavicius DD, Workman LM: Medical‑surgical nursing: patient‑centered collaborative care, ed 8, Philadelphia, 2016, Saunders.)*
 
 ![](_page_1_Picture_2.jpeg)
 
@@ -401,5 +401,769 @@ A summary of junctional rhythm characteristics appears in [Table 5.6](#table-5-6
 | P waves (leads II, III, aVF) | May occur before, during, or after QRS; if visible, inverted | May occur before, during, or after QRS; if visible, inverted | May occur before, during, or after QRS; if visible, inverted | May occur before, during, or after QRS; if visible, inverted | May occur before, during, or after QRS; if visible, inverted |
 | PR interval | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR |
 | QRS duration | ≤0.11 sec unless aberrant | ≤0.11 sec unless aberrant | ≤0.11 sec unless aberrant | ≤0.11 sec unless aberrant | ≤0.11 sec unless aberrant |
+
+</div></details>
+
+---
+
+
+<details class="med-details">
+<summary>
+  
+## STOP & REVIEW</summary>
+<div class="details-content">
+
+### True/False
+
+Indicate whether the statement is true or false.
+
+1. Premature junctional complexes are more common than PACs or PVCs.
+2. A PJC produces a positive (upright) P wave in leads II, III, and aVF that comes before, during, or after the QRS complex.
+3. The intrinsic rate of the AV junction is 20 to 40 beats/min.
+
+### Multiple Choice
+
+Identify the choice that best completes the statement or answers the question.
+
+4. The term *junctional bradycardia* is used to describe a rhythm that is junctional in origin with
+   a. an atrial rate of 40 to 60 beats/min.
+   b. an atrial rate slower than 60 beats/min.
+   c. a ventricular rate of 40 to 60 beats/min.
+   d. a ventricular rate slower than 40 beats/min.
+
+5. A __________ pause often follows a PJC and represents the delay during which the SA node resets its rhythm for the next beat.
+   a. noncompensatory (incomplete)
+   b. compensatory (complete)
+
+6. In rhythms originating from the AV junction, the QRS duration is typically __________ or less unless an intraventricular conduction delay exists.
+   a. 0.04 second
+   b. 0.11 second
+   c. 0.14 second
+   d. 0.20 second
+
+7. An accelerated junctional rhythm is identified by a regular ventricular response occurring at a rate of
+   a. 20 to 40 beats/min.
+   b. 40 to 60 beats/min.
+   c. 61 to 100 beats/min.
+   d. 101 to 180 beats/min.
+
+8. Select the *incorrect* statement regarding junctional dysrhythmias.
+   a. A junctional rhythm may be seen in acute coronary syndromes.
+   b. An accelerated junctional rhythm is a potentially life‑threatening dysrhythmia.
+   c. The ventricular rhythm associated with a junctional rhythm is typically very regular.
+   d. The QRS complex of a PJC is typically markedly different from the QRS complex of a beat conducted by the SA node.
+
+9. The primary waveform used to differentiate PJCs from PACs is the
+   a. P wave.
+   b. Q wave.
+   c. R wave.
+   d. T wave.
+
+10. In a junctional rhythm viewed in lead II, where is the location of the P wave on the ECG if ventricular depolarization precedes atrial depolarization?
+    a. Before the QRS complex
+    b. During the QRS complex
+    c. After the QRS complex
+
+### Questions 11 to 14 pertain to the following scenario.
+
+A 63-year-old man is complaining of dizziness that began about 45 minutes ago while he was cleaning his garage. Because the patient's oxygen saturation level on room air was 88%, supplemental oxygen is being administered. The cardiac monitor has been applied, revealing the rhythm below. A coworker is attempting to establish intravenous access.
+
+11. Which of the following statements is true with regard to this patient's cardiac rhythm?
+    a. The atrial rhythm is irregular.
+    b. There are more P waves than QRS complexes.
+    c. The ventricular rhythm is regular and the QRS is wide.
+    d. The ventricular rhythm is regular and the QRS is narrow.
+
+12. The patient's ventricular rate is
+    a. 32 beats/min.
+    b. 45 beats/min.
+    c. 60 beats/min.
+    d. 75 beats/min.
+
+13. The rhythm shown on the cardiac monitor is
+    a. sinus bradycardia.
+    b. junctional bradycardia.
+    c. junctional escape rhythm.
+    d. accelerated junctional rhythm.
+
+14. The patient's blood pressure is 82/50 mm Hg and ventilations are 16 breaths/min. He states that his normal blood pressure is about 130/80 mm Hg. The patient denies chest discomfort and states that he takes no prescription medications. His skin is cool, pink, and moist, and his breath sounds are clear. Intravenous access has been successfully established. On the basis of the information provided, which of the following statements is true regarding this patient situation?
+    a. Because the patient is symptomatic with this rhythm, a vagal maneuver should be attempted.
+    b. The patient is symptomatic with this rhythm. Obtain a 12‑lead ECG and then administer atropine IV.
+    c. Therapeutic interventions are not indicated because there is no evidence of ST‑segment elevation (STE) on the cardiac monitor.
+    d. Although the patient is complaining of dizziness, this symptom does not warrant any further intervention other than cardiac monitoring at this time.
+
+### Matching
+
+Match the terms below with their descriptions by placing the letter of each correct answer in the space provided.
+
+a. Retrograde
+b. Accelerated junctional rhythm
+c. Nodal rhythms
+d. Inverted P wave appears before the QRS complex in leads II, III, and aVF
+e. Location of the AV node
+f. Junctional tachycardia
+g. Digitalis
+h. Hidden within the QRS complex (not visible)
+i. Location of the bundle of His
+j. Premature junctional complex
+
+15. Lower part of the right atrium above the base of the tricuspid valve
+16. Name given to a dysrhythmia that originates in the AV junction with a ventricular rate between 101 to 180 beats/min
+17. Upper part of the interventricular septum
+18. Location of the P wave on the ECG if atrial and ventricular depolarization occurs simultaneously
+19. Term formerly used for dysrhythmias that originate in the AV junction
+20. A beat originating within the AV junction that appears earlier than the next expected sinus beat
+21. Name given to a dysrhythmia that originates in the AV junction with a ventricular rate between 61 to 100 beats/min
+22. Occurring in a backward direction
+23. Location of the P wave on the ECG if atrial depolarization precedes ventricular depolarization
+24. Excess of this medication is a common cause of junctional dysrhythmias
+
+### Short Answer
+
+25. Fill in the blank areas in the table below to help you recall the primary differences among junctional rhythm, accelerated junctional rhythm, and junctional tachycardia.
+
+| ECG Finding | Junctional Rhythm | Accelerated Junctional Rhythm | Junctional Tachycardia |
+|-------------|-------------------|-------------------------------|------------------------|
+| Rhythm | Regular | Regular | Regular or irregular |
+| Rate (beats/min) | __________ | __________ | __________ |
+| P waves (lead II) | __________ | __________ | __________ |
+| PR interval | __________ | __________ | __________ |
+| QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+---
+
+## STOP & REVIEW / ANSWERS
+
+1. **F.** Premature junctional complexes are less common than either PACs or PVCs.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for PJCs.
+
+2. **F.** A P wave may or may not be present with a PJC. If a P wave is present, it is inverted (retrograde) and may precede or follow the QRS. PJCs can be misdiagnosed when the P wave of a PAC is buried in the preceding T wave.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for PJCs.
+
+3. **F.** The AV node and the nonbranching portion of the bundle of His are called the AV junction. The bundle of His has pacemaker cells that are capable of discharging at a rhythmic rate of 40 to 60 beats/min.  
+   **OBJ:** Describe the location, the function, and (where appropriate) the intrinsic rate of the following structures: SA node, AV bundle, and Purkinje fibers.
+
+4. **D.** If the AV junction paces the heart at a rate slower than 40 beats/min, the resulting rhythm is called a *junctional bradycardia*. This may seem confusing because the AV junction's normal pacing rate (40 to 60 beats/min) is bradycardic. However, the term *junctional bradycardia* refers to a rate slower than normal for the AV junction.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for a junctional escape rhythm.
+
+5. **A.** A noncompensatory (incomplete) pause often follows a PJC. This pause represents the delay during which the SA node resets its rhythm for the next beat.  
+   **OBJ:** Explain the difference between a compensatory and noncompensatory pause.
+
+6. **B.** The QRS duration associated with a rhythm that begins in the AV junction measures 0.11 second or less if conduction through the bundle branches, Purkinje fibers, and ventricles is normal.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for a junctional escape rhythm.
+
+7. **C.** An accelerated junctional rhythm is a dysrhythmia originating in the AV bundle with a ventricular rate between 61 and 100 beats/min.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for an accelerated junctional rhythm.
+
+8. **B.** The patient who has an accelerated junctional rhythm is usually asymptomatic because the ventricular rate is 61 to 100 beats/min, which is the same rate as a sinus rhythm.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for an accelerated junctional rhythm.
+
+9. **A.** You can usually tell the difference between a PAC and a PJC by the P wave. A PAC typically has an upright P wave before the QRS complex in leads II, III, and aVF. A P wave may or may not be present with a PJC. If a P wave is present, it is inverted (retrograde) and may precede or follow the QRS.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for PJCs.
+
+10. **C.** If the AV junction paces the heart, the electrical impulse must travel in a backward (retrograde) direction to activate the atria. If a P wave is seen, it will be inverted in leads II, III, and aVF because the impulse is traveling away from the positive electrode. If the atria depolarize before the ventricles, an inverted P wave will be seen *before* the QRS complex, and the PR interval will usually measure 0.12 second or less. The PR interval is shorter than usual because an impulse that begins in the AV junction does not have to travel as far to stimulate the ventricles. If the atria and ventricles depolarize at the same time, a P wave will not be visible because it will be hidden in the QRS complex. When the atria are depolarized after the ventricles, the P wave typically distorts the end of the QRS complex, and an inverted P wave will appear *after* the QRS.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for a junctional escape rhythm.
+
+11. **D.** In this rhythm strip, the atrial rate and rhythm cannot be determined because P waves are not visible. The ventricular rhythm is regular and the QRS is narrow, measuring 0.08 second.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for a junctional escape rhythm.
+
+12. **A.** The patient's ventricular rate is about 32 beats/min (1500 divided by 46.5).  
+    **OBJ:** Identify how heart rates, durations, and amplitudes may be determined from ECG recordings.
+
+13. **B.** The cardiac monitor shows a junctional bradycardia at 32 beats/min with ST‑segment depression and inverted T waves.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for a junctional escape rhythm.
+
+14. **B.** Although there is no evidence of STE on the cardiac monitor, this patient is symptomatic with his slow heart rate as evidenced by his dizziness and hypotension. Treatment of a patient with symptomatic bradycardia should include application of a pulse oximeter and administration of supplemental oxygen (if indicated) and establishing IV access, which have already been done. Next, obtain a 12‑lead ECG and then administer atropine IV. Reassess the patient's response to your interventions and continue to monitor the patient. Because vagal maneuvers are used to attempt to slow the heart rate of some *tachycardias* and this patient is *bradycardic*, vagal maneuvers are contraindicated in this situation.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for a junctional escape rhythm.
+
+15. **E**
+16. **F**
+17. **I**
+18. **H**
+19. **C**
+20. **J**
+21. **B**
+22. **A**
+23. **D**
+24. **G**
+
+25. **ANS:**
+
+| ECG Finding | Junctional Rhythm | Accelerated Junctional Rhythm | Junctional Tachycardia |
+|-------------|-------------------|-------------------------------|------------------------|
+| Rhythm | Regular | Regular | Regular or irregular |
+| Rate (beats/min) | 40 to 60 | 61 to 100 | 101 to 180 |
+| P waves (lead II) | May occur before, during, or after QRS; if visible, inverted | May occur before, during, or after QRS; if visible, inverted | May occur before, during, or after QRS; if visible, inverted |
+| PR interval | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR | If P before QRS, PR ≤0.12 sec; if no P before QRS, no PR |
+| QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+**OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for junctional escape rhythm, accelerated junctional rhythm, and junctional tachycardia.
+
+</div>
+</details>
+
+---
+
+<details class="med-details">
+<summary>
+  
+  ## Junctional Rhythms – Practice Rhythm Strips</summary>
+<div class="details-content">
+
+Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
+
+<details class="med-details"><summary>
+
+**26. Fig. 5.11**
+
+![](_page_10_Figure_7.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Sinus P waves look alike; P waves of beats 1, 4, and 7 are early and inverted  
+PR interval: 0.12 to 0.16 second (sinus beats)  
+QRS duration: 0.06 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 70 beats/min with PJCs (junctional trigeminy)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**27. Fig. 5.12** – Identify the rhythm (lead III)
+
+![](_page_10_Figure_11.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 100 beats/min  
+P waves: Inverted before each QRS  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: Accelerated junctional rhythm at 100 beats/min with STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**28. Fig. 5.13** – This rhythm strip is from a 74‑year‑old woman with chest pain. She rated her pain 9/10.
+
+![](_page_11_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 130 beats/min  
+P waves: Upright before each QRS, but the shape and amplitude of some differ; P wave of beat 10 is early and hidden in the T wave of the preceding beat  
+PR interval: 0.14 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.28 second  
+Interpretation: Sinus tachycardia at 130 beats/min with a PAC
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**29. Fig. 5.14** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_11_Figure_5.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Flutter waves present  
+PR interval: None  
+QRS duration: 0.08 to 0.10 second  
+QT interval: Unable to determine  
+Interpretation: Atrial flutter at 80 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**30. Fig. 5.15**
+
+![](_page_11_Figure_9.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 136 beats/min  
+P waves: None visible; hidden in T waves  
+PR interval: Unable to determine  
+QRS duration: 0.10 to 0.12 second  
+QT interval: 0.32 to 0.36 second  
+Interpretation: Narrow‑QRS tachycardia, probably junctional tachycardia, at 136 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**31. Fig. 5.16** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_12_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Sinus P waves are upright and some are notched; P wave of beat 3 is early, inverted, and appears after the QRS  
+PR interval: 0.16 second  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 70 beats/min with a PJC (beat 3 is the PJC)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**32. Fig. 5.17** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from an 80‑year‑old woman who states, "The room is spinning."
+
+![](_page_12_Figure_6.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 115 beats/min  
+P waves: Upright before each QRS but some differ in shape  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.12 second  
+QT interval: 0.32 second  
+Interpretation: Sinus tachycardia at 115 beats/min with a wide QRS and STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**33. Fig. 5.18** – This rhythm strip is from an 88‑year‑old woman who experienced a syncopal episode. Her medical history includes a myocardial infarction 9 years ago, a stroke 5 years ago, hypertension, and diabetes.
+
+![](_page_12_Figure_10.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 75 beats/min  
+P waves: Inverted before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.32 to 0.36 second  
+Interpretation: Accelerated junctional rhythm at 75 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**34. Fig. 5.19** – This rhythm strip is from a 72‑year‑old man presenting with left‑sided weakness. He has a history of a brain tumor.
+
+![](_page_13_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 75 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.12 second  
+QRS duration: 0.08 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 75 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**35. Fig. 5.20**
+
+![](_page_13_Figure_7.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.16 to 0.20 second  
+QRS duration: 0.08 second  
+QT interval: 0.32 second  
+Interpretation: Sinus arrhythmia at 80 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**36. Fig. 5.21** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_13_Figure_13.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 33 beats/min (sinus beats); 32 beats/min (junctional beats)  
+P waves: Sinus P waves upright before QRS; none visible for junctional beats  
+PR interval: 0.16 to 0.20 second (sinus beats)  
+QRS duration: 0.04 to 0.06 second  
+QT interval: 0.36 to 0.40 second  
+Interpretation: Sinus bradycardia at 33 beats/min to junctional bradycardia at 32 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**37. Fig. 5.22**
+
+![](_page_14_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Sinus P waves upright before each QRS; an early P wave appears after beat 5 and distorts the T wave; beat 6 has no P wave  
+PR interval: 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 70 beats/min with a nonconducted PAC (note distortion of the T wave of the beat preceding the pause) and a junctional escape beat
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**38. Fig. 5.23** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_14_Figure_6.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 45 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.08 to 0.11 second  
+QT interval: 0.48 to 0.52 second  
+Interpretation: Junctional rhythm at 45 beats/min with STE and a prolonged QT interval
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**39. Fig. 5.24** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 43‑year‑old woman who was complaining of palpitations. The patient had a history of supraventricular tachycardia and stated that she could not tolerate adenosine.
+
+![](_page_14_Figure_10.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular; regular during the tachycardia  
+Rate: 160 beats/min; 188 beats/min during the tachycardia  
+P waves: Inverted after QRS in beat 1; sinus P wave in beats 2 and 3; cannot differentiate with certainty between inverted P waves and inverted T waves in beats associated with the tachycardia  
+PR interval: 0.14 to 0.16 second (sinus beats)  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.24 second if the inverted waveforms during the tachycardia are T waves  
+Interpretation: Junctional beat, two sinus beats, changing to a narrow QRS tachycardia that is probably junctional tachycardia at 188 beats/min; ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**40. Fig. 5.25** – This rhythm strip is from a 43‑year‑old man after a seizure.
+
+![](_page_15_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 136 beats/min  
+P waves: Upright before each QRS; some are notched, some are pointed, others are smooth and rounded  
+PR interval: 0.14 to 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.24 to 0.28 second  
+Interpretation: Sinus tachycardia at 136 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**41. Fig. 5.26**
+
+![](_page_15_Figure_7.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 60 beats/min  
+P waves: Upright before sinus beats, early and inverted before the QRS in beat 3, early and upright in beat 5  
+PR interval: 0.18 to 0.20 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.40 to 0.44 second  
+Interpretation: Sinus rhythm at 60 beats/min with a PJC (beat 3), a PAC (beat 5), and ST‑segment depression; artifact is present
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**42. Fig. 5.27** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 96‑year‑old man complaining of chest pain and palpitations.
+
+![](_page_15_Figure_13.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 100 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.32 to 0.36 second  
+Interpretation: Atrial fibrillation at 100 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**43. Fig. 5.28** – This rhythm strip is from a 79‑year‑old man complaining of palpitations. His initial blood pressure was 112/84 mm Hg. His second blood pressure, 8 minutes after the first, was 78/7 mm Hg.
+
+![](_page_16_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 143 beats/min  
+P waves: None visible before each QRS; cannot differentiate with certainty between inverted P waves and inverted T waves after each QRS  
+PR interval: None  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.24 second if the inverted waveforms after each QRS are T waves  
+Interpretation: Narrow‑QRS tachycardia, probably junctional tachycardia, at 143 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**44. Fig. 5.29** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_16_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 97 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: Accelerated junctional rhythm at 97 beats/min; inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**45. Fig. 5.30** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+![](_page_16_Figure_14.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Sinus P waves are upright; early inverted P waves appear in beats 3 and 6  
+PR interval: 0.16 second (sinus beats)  
+QRS duration: 0.04 to 0.06 second (sinus beats)  
+QT interval: 0.36 to 0.40 second  
+Interpretation: Sinus rhythm at 80 beats/min with PJCs (beats 3 and 6)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**46. Fig. 5.31**
+
+![](_page_17_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 79 beats/min (junctional beats)  
+P waves: Upright before sinus beats; not visible for junctional beats  
+PR interval: 0.10 second (sinus beats)  
+QRS duration: 0.04 to 0.06 second  
+QT interval: 0.32 second  
+Interpretation: Sinus rhythm changing to an accelerated junctional rhythm at 79 beats/min, back to a sinus rhythm
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**47. Fig. 5.32** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip (lead I) is from a 51‑year‑old man found unresponsive. He had a history of esophageal varices and gastrointestinal bleeding.
+
+![](_page_17_Figure_6.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 73 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.12 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.36 to 0.40 second  
+Interpretation: Sinus rhythm at 73 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**48. Fig. 5.33**
+
+![](_page_17_Figure_12.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 40 beats/min  
+P waves: Low amplitude but upright before each QRS; some are notched  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.36 to 0.40 second  
+Interpretation: Sinus bradyarrhythmia at 40 beats/min with ST‑segment depression; U waves are present
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**49. Fig. 5.34** – This rhythm strip is from a 75‑year‑old man complaining of chest pain that had been present for 20 minutes. He rated his pain 8/10.
+
+![](_page_18_Figure_2.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 100 beats/min  
+P waves: Fibrillatory waves present  
+PR interval: None  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: Atrial fibrillation at 100 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+**50. Fig. 5.35** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 76‑year‑old woman complaining of weakness.
+
+![](_page_18_Figure_8.jpeg)
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 60 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.04 to 0.06 second  
+QT interval: 0.32 to 0.36 second  
+Interpretation: Junctional rhythm at 60 beats/min; STE in MCL<sub>1</sub>
+
+</div>
+</details>
 
 </div></details>
