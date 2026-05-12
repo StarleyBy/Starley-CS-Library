@@ -625,7 +625,7 @@ One end of a monitoring cable, also called a *lead wire*, is attached to the ele
 
 <span id="fig-2-15"></span>**FIGURE 2.15** Electrocardiogram electrodes. *(Courtesy of Bruce R. Shade, EMT‑P, EMS‑I, AAS.)*
 
-![](_page_14_Figure_2.jpeg)
+![](_page_14_Picture_2.jpeg)
 
 </div></details>
 
@@ -757,7 +757,7 @@ The chest leads are identified as V<sub>1</sub>, V<sub>2</sub>, V<sub>3</sub>, V
 
 <span id="fig-2-17"></span>**FIGURE 2.17** Chest (precordial) leads V<sub>1</sub> through V<sub>6</sub>. *(From Copstead‑Kirkhorn LE, Banasik JL: Pathophysiology, ed 5, St. Louis, 2013, Saunders.)*
 
-![](_page_16_Figure_14.jpeg)
+![](_page_16_Picture_16.jpeg)
 
 <span id="table-2-4"></span><details class="med-details"><summary>
 
@@ -804,7 +804,7 @@ On a standard 12‑lead ECG, no leads look directly at the posterior surface of 
 
 <span id="fig-2-19"></span>**FIGURE 2.19** Electrode locations for left posterior chest lead placement. *(From Hedges JR: Roberts and Hedges’ clinical procedures in emergency medicine, ed 6, Philadelphia, 2014, Saunders.)*
 
-![](_page_17_Figure_7.jpeg)
+![](_page_17_Picture_7.jpeg)
 
 </div></details>
 
@@ -830,7 +830,7 @@ Lead MCL<sub>6</sub> is a variation of the chest lead V<sub>6</sub> and views th
 
 <span id="fig-2-20"></span>**FIGURE 2.20** Electrode locations for alternative electrocardiogram leads. MCL, Modified chest lead. *(From Hedges JR: Roberts and Hedges’ clinical procedures in emergency medicine, ed 6, Philadelphia, 2014, Saunders.)*
 
-![](_page_18_Figure_2.jpeg)
+![](_page_18_Picture_2.jpeg)
 
 <details class="med-details"><summary>
 
@@ -871,11 +871,13 @@ Newer Holter monitors permit extended ECG monitoring, typically for 7 to 14 days
 
 <span id="fig-2-21"></span>**FIGURE 2.21** A Holter monitor is an example of an ambulatory electrocardiographic monitor. *(From Bonewit‑West K: Clinical procedures for medical assistants, ed 9, St. Louis, 2015, Saunders.)*
 
-![](_page_19_Figure_2.jpeg)
+![](_page_19_Picture_2.jpeg)
+  
+![](_page_19_Picture_3.jpeg)
 
 <span id="fig-2-22"></span>**FIGURE 2.22** Sample patch‑based recording system that allows both acquisition and storage of a single‑lead electrocardiogram for 7 to 14 days. *(From Krahn AD, Yee R, Skanes AC, Klein GJ: Cardiac monitoring: Short and long‑term recording. In DP Zipes & J Jalife (Eds.): Cardiac electrophysiology: from cell to bedside, ed 6, Philadelphia, 2014, Saunders.)*
 
-![](_page_19_Figure_5.jpeg)
+![](_page_19_Picture_5.jpeg) ![](_page_19_Picture_6.jpeg)
 
 </div></details>
 
@@ -1196,7 +1198,7 @@ The PRI is measured from the point where the P wave leaves the baseline to the b
 
 <span id="fig-2-38"></span>**FIGURE 2.38** The PR interval is measured from the onset of the P wave to the onset of the QRS complex.
 
-![](_page_28_Figure_5.jpeg)
+![](_page_27_Figure_14.jpeg)
 
 <span id="box-2-5"></span><details class="med-details"><summary>
 
@@ -1311,7 +1313,7 @@ You can also determine regularity by counting the small squares between interval
 
 <span id="fig-2-42"></span>**FIGURE 2.42** **A,** Establishing ventricular regularity with calipers. **B,** Establishing ventricular regularity with paper and pencil. *(From Sole, ML, Goldenberg Klein D, Moseley MJ: Introduction to critical care nursing, ed 5, Philadelphia, 2008, Saunders.)*
 
-![](_page_30_Figure_2.jpeg)
+![](_page_30_Picture_2.jpeg) ![](_page_30_Picture_3.jpeg)
 
 </div></details>
 

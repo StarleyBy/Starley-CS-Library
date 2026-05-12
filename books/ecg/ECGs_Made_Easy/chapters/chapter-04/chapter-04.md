@@ -756,7 +756,7 @@ With atrial flutter, an irritable focus within the atrium typically depolarizes 
 
 <span id="fig-4-19"></span>**FIGURE 4.19** Atrial flutter. F, Flutter wave; SA, sinoatrial.
 
-![](_page_15_Figure_13.jpeg)
+![](_page_15_Picture_13.jpeg)
 
 <span id="table-4-7"></span><details class="med-details"><summary>
 

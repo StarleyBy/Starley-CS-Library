@@ -140,7 +140,7 @@
 - **Phases:** Atrial diastole (passive filling, 70%) → atrial systole (atrial kick, 10–30%) → ventricular systole (isovolumetric contraction then ejection) → ventricular diastole (isovolumetric relaxation then passive filling).
 - **Right heart low‑pressure:** RA pressure 2–6 mmHg, RV 0–8 (diastole)/15–25 (systole).
 - **Left heart high‑pressure:** LA pressure 8–12 mmHg, LV 8–12 (diastole)/110–130 (systole).
-- **Blood pressure:** BP = CO × peripheral resistance. CO = SV × HR. Normal CO ~5 L/min (SV~70 mL, HR~70 bpm). Ejection fraction (normal 50–65%) = (SV/EDV)×100.
+- **Blood pressure:** BP = CO × peripheral resistance. CO = SV × HR. Normal CO ~ 5 L/min (SV~ 70 mL, HR~70 bpm). Ejection fraction (normal 50–65%) = (SV/EDV)×100.
 - **Frank‑Starling law:** Increased preload (end‑diastolic volume) → increased stretch → increased contraction force → increased SV (within limits). Overstretch → failure.
 - **Afterload** = ventricular wall tension during ejection (affected by arterial BP, distensibility, resistance). Increased afterload ↓SV.
 - **HR effects:** ↑HR shortens diastole → less coronary filling time → risk of ischemia, ↓CO if filling inadequate. Hyperkalemia → flaccid, slow; hypercalcemia → spastic contraction.
@@ -162,7 +162,7 @@ The adult heart is about 5 inches (12 cm) long, 3.5 inches (9 cm) wide, and 2.5 
 
 <span id="fig-1-2"></span>**FIGURE 1.2** Appearance of the heart. This photograph shows a living human heart prepared for transplantation into a patient. Note its size relative to the hands that are holding it. *(From Patton KT, Thibodeau GA: Anatomy & physiology, ed 9, St. Louis, 2016, Mosby.)*
 
-![](_page_2_Picture_4.jpeg)
+![](_page_2_Picture_10.jpeg)
 
 </div></details>
 
@@ -176,11 +176,11 @@ The heart's left side (i.e., left lateral surface) faces the left lung and is ma
 
 <span id="fig-1-3"></span>**FIGURE 1.3** The base of the heart. *(From Drake R, Vogl AW, Mitchell AWM: Gray’s anatomy for students, ed 3, New York, 2015, Churchill Livingstone.)*
 
-![](_page_2_Picture_12.jpeg)
+![](_page_2_Picture_4.jpeg)
 
 <span id="fig-1-4"></span>**FIGURE 1.4** The anterior surface of the heart. *(From Drake R, Vogl AW, Mitchell AWM: Gray’s anatomy for students, ed 3, New York, 2015, Churchill Livingstone.)*
 
-![](_page_2_Picture_16.jpeg)
+![](_page_2_Picture_12.jpeg)
 
 <span id="fig-1-5"></span>**FIGURE 1.5** The inferior surface of the heart. The inferior part of the fibrous pericardium has been removed with the diaphragm. *(From Gosling JA: Human anatomy: color atlas and text, ed 4, London, 2002, Mosby.)*
 
@@ -238,7 +238,7 @@ The *myocardium* (middle layer) is a thick, muscular layer that consists of card
 
 <span id="fig-1-8"></span>**FIGURE 1.8** The pericardial sac is composed of two layers separated by a narrow fluid‑filled space. The visceral pericardium (epicardium) is attached directly to the heart’s surface, and the parietal pericardium forms the outer layer of the sac. *(From Copstead‑Kirkhorn L, Banasik JL: Pathophysiology, ed 5, Philadelphia, 2013, Elsevier.)*
 
-![](_page_5_Picture_3.jpeg)
+![](_page_4_Picture_11.jpeg)
 
 The heart's outermost layer is called the *epicardium*. The epicardium is continuous with the inner lining of the pericardium at the heart's apex. The epicardium contains blood capillaries, lymph capillaries, nerve fibers, and fat. The main coronary arteries lie on the epicardial surface of the heart. They feed this area first before entering the myocardium and supplying the heart's inner layers with oxygenated blood. *Ischemia* is a decreased supply of oxygenated blood to a body part or organ. The heart's subendocardial area is at the greatest risk of ischemia because this area has a high demand for oxygen and it is fed by the most distal branches of the coronary arteries.
 
@@ -273,7 +273,7 @@ There are certain places in the cell membrane where sodium (Na<sup>+</sup>), pot
 
 <span id="fig-1-9"></span>**FIGURE 1.9** Cardiac muscle fiber. Unlike other types of muscle fibers, the cardiac muscle fiber is typically branched and forms junctions, called intercalated disks, with adjacent cardiac muscle fibers. *(From Patton KT, Thibodeau GA: Anthony’s textbook of anatomy & physiology, ed 20, St. Louis, 2013, Mosby.)*
 
-![](_page_5_Figure_11.jpeg)
+![](_page_5_Picture_3.jpeg)
 
 <details class="med-details"><summary>
 
@@ -459,7 +459,7 @@ The three major epicardial coronary arteries include the left anterior descendin
 
 <span id="fig-1-17"></span>**FIGURE 1.17** Coronary arteries supplying the heart. The right coronary artery supplies the right atrium, ventricle, and posterior aspect of the left ventricle in most individuals. The left coronary artery divides into the left anterior descending and circumflex arteries, which perfuse the left ventricle. **A,** Anterior view. **B,** Posterior view. *(From Copstead‑Kirkhorn L, Banasik JL: Pathophysiology, ed 5, Philadelphia, 2013, Elsevier.)*
 
-![](_page_12_Figure_3.jpeg)
+![](_page_12_Picture_2.jpeg)
 
 #### Right Coronary Artery
 The RCA originates from the right side of the aorta ([Fig. 1.17](#fig-1-17)). It travels along the groove between the right atrium and right ventricle. A branch of the RCA supplies the following structures:
@@ -602,7 +602,7 @@ The myocardium is able to produce its own electrical impulses without signals fr
 
 <span id="fig-1-19"></span>**FIGURE 1.19** Schematic showing the sympathetic and parasympathetic pathways. Sympathetic pathways are shown in *red* and parasympathetic pathways in *blue*. *(From Koeppen BM, Stanton BA: Berne & Levy physiology, ed 6, St. Louis, 2010, Mosby.)*
 
-![](_page_16_Figure_10.jpeg)
+![](_page_15_Figure_12.jpeg)
 
 <details class="med-details"><summary>
 
@@ -720,7 +720,7 @@ The right and left sides of the heart are separated by an internal wall of conne
 
 <span id="fig-1-22"></span>**FIGURE 1.22** The heart has two pumps. *(From Drake R, Vogl AW, Mitchell AWM: Gray’s anatomy for students, ed 3, New York, 2015, Churchill Livingstone.)*
 
-![](_page_18_Figure_24.jpeg)
+![](_page_18_Picture_24.jpeg)
 
 The *right side* of the heart is a low‑pressure system whose job is to pump unoxygenated blood from the body to and through the lungs to the left side of the heart. This is called the *pulmonary circulation*. The pressure within the right atrium is normally between 2 and 6 mmHg. The pressure within the right ventricle is normally between 0 and 8 mmHg when the chamber is at rest (diastole) and between 15 and 25 mmHg during contraction (systole).
 

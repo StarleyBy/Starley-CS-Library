@@ -274,7 +274,7 @@ Look at the P waves on the rhythm strip, evaluate the P‑P intervals for regula
 
 <span id="fig-3-4"></span>**FIGURE 3.4** Sinus tachycardia at 125 beats/min with ST‑segment depression.
 
-![](_page_5_Figure_2.jpeg)
+![](_page_4_Figure_2.jpeg)
 
 <span id="table-3-4"></span><details class="med-details"><summary>
 
@@ -975,7 +975,7 @@ Interpretation: Sinus tachycardia at 107 beats/min with a wide QRS and deeply in
 
 **33. Fig. 3.15**
 
-![](_page_13_Figure_6.jpeg)
+![](_page_13_Figure_2.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1020,7 +1020,7 @@ Interpretation: Sinus arrhythmia at 100 beats/min
 
 **35. Fig. 3.17**
 
-![](_page_14_Figure_2.jpeg)
+![](_page_14_Figure_0.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1174,7 +1174,7 @@ Interpretation: Sinus rhythm at 65 beats/min with biphasic P waves and STE
 
 **42. Fig. 3.24** – This rhythm strip is from a 29‑year‑old woman with a kidney stone.
 
-![](_page_16_Figure_8.jpeg)
+![](_page_16_Figure_4.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1196,7 +1196,7 @@ Interpretation: Sinus tachycardia at 103 beats/min; inverted T waves
 
 **43. Fig. 3.25** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_17_Figure_2.jpeg)
+![](_page_16_Figure_8.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1218,7 +1218,7 @@ Interpretation: Sinus bradycardia at 25 beats/min with a prolonged PR interval a
 
 **44. Fig. 3.26** – This rhythm strip is from a 79‑year‑old woman with epistaxis. Her blood pressure is 222/118 mm Hg.
 
-![](_page_17_Figure_5.jpeg)
+![](_page_17_Figure_2.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1240,7 +1240,7 @@ Interpretation: Sinus tachycardia at 125 beats/min with a wide QRS and ST‑segm
 
 **45. Fig. 3.27** – This rhythm strip is from a 62‑year‑old man complaining of chest pain.
 
-![](_page_17_Figure_9.jpeg)
+![](_page_17_Figure_5.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1262,7 +1262,7 @@ Interpretation: Sinus rhythm at 94 beats/min with STE
 
 **46. Fig. 3.28** – This rhythm strip is from an 8‑month‑old infant after a seizure.
 
-![](_page_18_Figure_2.jpeg)
+![](_page_17_Figure_9.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1284,7 +1284,7 @@ Interpretation: Sinus rhythm at 150 beats/min (rate within normal limits for age
 
 **47. Fig. 3.29** – This rhythm strip is from a 33‑year‑old woman complaining of abdominal pain.
 
-![](_page_18_Figure_6.jpeg)
+![](_page_18_Figure_2.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1306,7 +1306,7 @@ Interpretation: Sinus arrhythmia at 80 beats/min
 
 **48. Fig. 3.30**
 
-![](_page_18_Figure_12.jpeg)
+![](_page_18_Figure_6.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1328,7 +1328,7 @@ Interpretation: Sinus rhythm at 68 beats/min with a prolonged PR interval and ST
 
 **49. Fig. 3.31**
 
-![](_page_19_Figure_2.jpeg)
+![](_page_18_Figure_12.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1350,7 +1350,7 @@ Interpretation: Sinus rhythm at 97 beats/min with STE
 
 **50. Fig. 3.32** – This rhythm strip is from a 37‑year‑old asymptomatic man.
 
-![](_page_19_Figure_8.jpeg)
+![](_page_19_Figure_2.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1372,7 +1372,7 @@ Interpretation: Sinus bradyarrhythmia at 50 beats/min
 
 **51. Fig. 3.33** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_19_Figure_14.jpeg)
+![](_page_19_Figure_8.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1394,7 +1394,7 @@ Interpretation: Sinus tachycardia at 115 beats/min with ST‑segment depression
 
 **52. Fig. 3.34** – This rhythm strip is from a 44‑year‑old construction worker with a sudden onset of chest pressure.
 
-![](_page_20_Figure_2.jpeg)
+![](_page_19_Figure_14.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1416,7 +1416,7 @@ Interpretation: Sinus arrhythmia at 70 beats/min with STE
 
 **53. Fig. 3.35**
 
-![](_page_20_Figure_6.jpeg)
+![](_page_20_Figure_2.jpeg)
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
