@@ -117,10 +117,9 @@ The 12‑lead ECG provides a 2.5‑second view of each lead because it is assume
 | | Limb Leads | | Chest Leads |
 |---|---|---|---|
 | | Standard Leads | Augmented Leads | V₁ to V₃ | V₄ to V₆ |
-| Column I | Column II | Column III | Column IV |
-| I: Lateral | aVR: None | V₁: Septum | V₄: Anterior |
-| II: Inferior | aVL: Lateral | V₂: Septum | V₅: Lateral |
-| III: Inferior | aVF: Inferior | V₃: Anterior | V₆: Lateral |
+| **I**: Lateral | **aVR**: None | **V₁**: Septum | **V₄**: Anterior |
+| **II**: Inferior | **aVL**: Lateral | **V₂**: Septum | **V₅**: Lateral |
+| **III**: Inferior | **aVF**: Inferior | **V₃**: Anterior | **V₆**: Lateral |
 
 </div></details>
 
@@ -198,15 +197,17 @@ Because most infarctions occur in the left ventricle and a standard 12‑lead EC
 
 <span id="fig-9-7"></span>**FIGURE 9.7** The areas of the heart as seen by the chest leads. Leads V<sub>1</sub>, V<sub>2</sub>, and V<sub>3</sub> are contiguous. Leads V<sub>3</sub>, V<sub>4</sub>, and V<sub>5</sub> are contiguous as well as V<sub>4</sub>, V<sub>5</sub>, and V<sub>6</sub>. Note that neither the right ventricular wall (X) nor the inferobasal (posterior) surface of the left ventricle (Y) is well visualized by any of the usual six chest leads. *(From Grauer K: A practical guide to ECG interpretation, ed 2, St. Louis, 1998, Mosby.)*
 
-![](_page_5_Figure_3.jpeg)
+![](_page_5_Picture_3.jpeg)
 
 <span id="table-9-2"></span><details class="med-details"><summary>
 
 #### TABLE 9.2 Localizing ECG Changes</summary><div class="details-content">
-
-| I: Lateral | aVR: None | V₁: Septum | V₄: Anterior |
-| II: Inferior | aVL: Lateral | V₂: Septum | V₅: Lateral |
-| III: Inferior | aVF: Inferior | V₃: Anterior | V₆: Lateral |
+  
+| | | | | 
+|-|-|-|-|
+| **I**: Lateral | **aVR**: None | **V₁**: Septum | **V₄**: Anterior |
+| **II**: Inferior | **aVL**: Lateral | **V₂**: Septum | **V₅**: Lateral |
+| **III**: Inferior  | **aVF**: Inferior | **V₃**: Anterior | **V₆**: Lateral |
 
 </div></details>
 
@@ -261,7 +262,7 @@ Because the LAD artery supplies a large portion of the left ventricle, a blockag
 
 <span id="fig-9-9"></span>**FIGURE 9.9** Anterior infarction. Occlusion of the midpoint of the left anterior descending (LAD) artery results in an anterior infarction. Proximal occlusion of the LAD may become an anteroseptal infarction if the septal branch is involved or an anterolateral infarction if the marginal branch is involved. If the occlusion occurs proximal to both the septal and diagonal branches, an extensive anterior infarction will result. *(From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)*
 
-![](_page_6_Figure_13.jpeg)
+![](_page_6_Picture_13.jpeg)
 
 <span id="fig-9-10"></span>**FIGURE 9.10** Septal infarction. LAD, Left anterior descending. *(From Phalen T, Aehlert BJ: The 12‑lead ECG in acute coronary syndromes, ed 3, St. Louis, 2012, Mosby.)*
 
