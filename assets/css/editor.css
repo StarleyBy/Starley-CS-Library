@@ -506,10 +506,36 @@ html, body {
 #editor-preview .med-details summary {
     cursor: pointer;
     font-weight: bold;
-    padding: 8px;
+    padding: 8px 8px 8px 30px;
     background: #f5f5f5;
     border-radius: 4px;
+    display: block;
+    position: relative;
+    list-style: none;
 }
+#editor-preview .med-details summary::before {
+    content: "▶";
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    color: #666;
+    transition: transform 0.2s;
+}
+#editor-preview .med-details[open] summary::before {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+/* Image scaling */
+.med-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+    border-radius: 4px;
+}
+
 #editor-preview .med-details .details-content {
     padding: 10px;
     margin-top: 5px;

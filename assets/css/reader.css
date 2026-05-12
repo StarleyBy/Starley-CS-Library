@@ -972,17 +972,20 @@ body.focus-mode #focus-toggle .fa-compress { display: block; }
 .content details > summary {
   list-style: none;
   cursor: pointer;
-  display: flex;
-  align-items: baseline;
-  gap: 0.4em;
+  display: block; /* Changed from flex to block to support block children */
+  position: relative;
+  padding-left: 1.5rem;
   user-select: none;
+  min-height: 1.2em;
 }
 .content details > summary::-webkit-details-marker { display: none; }
 
 /* Треугольник через ::before */
 .content details > summary::before {
   content: '';
-  display: inline-block;
+  position: absolute;
+  left: 0.3rem;
+  top: 0.5em; /* Positioned relative to the first line */
   width: 0;
   height: 0;
   border-style: solid;
@@ -990,13 +993,20 @@ body.focus-mode #focus-toggle .fa-compress { display: block; }
   border-width: 5px 0 5px 8px;
   border-color: transparent transparent transparent currentColor;
   transition: transform 0.2s ease, color 0.15s ease;
-  flex-shrink: 0;
-  margin-top: 1px;
 }
 
 /* Открытое состояние — треугольник вниз */
 .content details[open] > summary::before {
   transform: rotate(90deg);
+}
+
+/* Image scaling */
+.med-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+    border-radius: 4px;
 }
 
 /* --- Глубина 1 (корневой details внутри .content) --- */
