@@ -745,3 +745,744 @@ When asystole is observed on a cardiac monitor, confirm that the patient is unre
 | QRS duration | Usually ≥0.12 sec | ≥0.12 sec | ≥0.12 sec | ≥0.12 sec | ≥0.12 sec | ≥0.12 sec | Not discernible | Absent |
 
 </div></details>
+
+---
+
+
+<details class="med-details">
+<summary>
+  
+## STOP & REVIEW</summary>
+<div class="details-content">
+
+### True/False
+
+Indicate whether the statement is true or false.
+
+1. TdP is a type of monomorphic VT.
+2. Uniform PVCs are unifocal, but multiform PVCs are not necessarily multifocal.
+3. An accelerated junctional or an accelerated ventricular rhythm is faster than its intrinsic rate but slower than 100 beats/min.
+
+### Multiple Choice
+
+Identify the choice that best completes the statement or answers the question.
+
+4. How would you differentiate a junctional escape rhythm at 40 beats/min from an idioventricular rhythm at the same rate?
+   a. It is impossible to differentiate a junctional escape rhythm from an idioventricular rhythm.
+   b. The junctional escape rhythm will have a narrow QRS complex; the idioventricular rhythm will have a wide QRS complex.
+   c. The rate (i.e., 40 beats/min) will indicate a junctional escape rhythm, not an idioventricular rhythm.
+   d. The junctional escape rhythm will have a wide QRS complex; an idioventricular rhythm will have a narrow QRS complex.
+
+5. The term for three or more PVCs occurring in a row at a rate of more than 100/min is
+   a. ventricular trigeminy.
+   b. ventricular fibrillation.
+   c. a run of VT.
+   d. a run of ventricular escape beats.
+
+### Matching
+
+Match the terms below with their descriptions by placing the letter of each correct answer in the space provided.
+
+a. Current
+b. Fusion beat
+c. AIVR
+d. Compensatory pause
+e. VT
+f. Asystole
+g. Monomorphic
+h. Agonal rhythm
+i. Defibrillation
+j. Proarrhythmic
+k. AV dissociation
+l. Multiform
+m. AED
+n. Interpolated PVC
+o. Polymorphic
+p. R-on-T phenomenon
+q. Idioventricular rhythm
+
+6. A dysrhythmia that is similar in appearance to an idioventricular rhythm but occurs at a rate of less than 20 beats/min
+7. Varying in shape
+8. A dysrhythmia that originates in the ventricles with a rate between 20 and 40 beats/min
+9. A machine with a sophisticated computer system that analyzes a patient's heart rhythm using an algorithm to distinguish shockable rhythms from nonshockable rhythms
+10. Antiarrhythmics can cause a(n) __________ effect, which means that they have the *potential* to cause serious adverse effects, more serious dysrhythmias, or both, than those that they were intended to treat.
+11. Any dysrhythmia in which the atria and the ventricles beat independently
+12. A PVC that occurs between two normally conducted QRS complexes and that does not disturb the next ventricular depolarization or sinoatrial node activity
+13. A total absence of atrial and ventricular electrical activity
+14. A beat that occurs because of the simultaneous activation of one cardiac chamber by two sites
+15. The flow of an electrical charge from one point to another
+16. A term used to describe PVCs that are different in appearance
+17. A dysrhythmia that originates in the ventricles with a rate between 41 and 100 beats/min
+18. The initiation of a ventricular tachydysrhythmia as a result of an improperly timed electrical impulse on the T wave
+19. Delivery of an electrical current across the heart muscle over a very brief period to terminate an abnormal heart rhythm
+20. A dysrhythmia that originates in the ventricles with a ventricular response greater than 100 beats/min
+21. Having the same shape
+22. This often follows a PVC and occurs because the sinoatrial node is usually not affected by the PVC
+
+### Short Answer
+
+23. Explain the difference between a PVC and a ventricular escape beat.
+24. How do coarse and fine ventricular fibrillation differ?
+
+---
+
+## STOP & REVIEW / ANSWERS
+
+1. **F.** TdP is a type of *polymorphic* VT that occurs in the presence of a long QT interval (typically 0.45 second or more and often 0.50 second or more).  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for PMVT.
+
+2. **T.** Uniform PVCs are unifocal; that is, they arise from the same anatomic site. Multiform PVCs often, but do not always, arise from different anatomic sites; therefore, multiform PVCs are not necessarily multifocal. In general, multiform PVCs are considered more serious than uniform PVCs because they suggest a greater area of irritable myocardial tissue.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for PVCs.
+
+3. **T.** The intrinsic rate for an accelerated junctional rhythm is 61 to 100 beats/min. The intrinsic rate for an AIVR is 41 to 100 beats/min. Some cardiologists consider the ventricular rate range of AIVR to be 41 to 120 beats/min.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for an AIVR.
+
+4. **B.** The intrinsic rate of a junctional escape rhythm is 40 to 60 beats/min. A junctional escape rhythm has a narrow QRS complex. The intrinsic rate of an idioventricular rhythm is 20 to 40 beats/min. An idioventricular rhythm has a wide QRS complex.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for an IVR.
+
+5. **C.** Three or more sequential PVCs are termed a "run" or "burst," and three or more PVCs that occur in a row at a rate of more than 100 beats/min are considered a run of VT.  
+   **OBJ:** Explain the terms bigeminy, trigeminy, quadrigeminy, and run as used to describe premature complexes.
+
+6. **H**
+7. **O**
+8. **Q**
+9. **M**
+10. **J**
+11. **K**
+12. **N**
+13. **F**
+14. **B**
+15. **A**
+16. **L**
+17. **C**
+18. **P**
+19. **I**
+20. **E**
+21. **G**
+22. **D**
+
+23. A PVC is premature and occurs before the next expected sinus beat. A ventricular escape beat is late, occurring after the next expected sinus beat.  
+   **OBJ:** Explain the difference between PVCs and ventricular escape beats.
+
+24. Coarse ventricular fibrillation (VF) is 3 mm or more in amplitude. Fine VF is less than 3 mm in amplitude.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and initial emergency care for VF.
+</div>
+</details>
+
+---
+
+<details class="med-details"><summary>
+  
+## Ventricular Rhythms – Practice Rhythm Strips</summary>
+<div class="details-content">
+
+Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
+
+<details class="med-details"><summary>
+
+![](_page_16_Figure_9.jpeg)
+
+**25. Fig. 6.26** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 120 beats/min  
+P waves: Uniform and upright before each QRS (sinus beats)  
+PR interval: 0.12 to 0.16 second (sinus beats)  
+QRS duration: 0.06 to 0.08 second (sinus beats)  
+QT interval: 0.32 to 0.34 second (sinus beats)  
+Interpretation: Sinus tachycardia at 120 beats/min with ventricular quadrigeminy
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_16_Picture_13.jpeg)
+
+**26. Fig. 6.27**
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 55 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.12 to 0.14 second  
+QT interval: 0.44 second  
+Interpretation: AIVR at 55 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_17_Figure_2.jpeg)
+
+**27. Fig. 6.28** – This rhythm strip is from a 63‑year‑old man who collapsed on the kitchen floor. He is unresponsive, apneic, and pulseless. His past medical history includes a coronary artery bypass graft 8 years ago and pacemaker implantation 5 years ago.
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: None  
+P waves: None  
+PR interval: None  
+QRS duration: None  
+QT interval: None  
+Interpretation: Coarse ventricular fibrillation
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_17_Figure_8.jpeg)
+
+**28. Fig. 6.29** – This rhythm strip is from a 1‑month‑old infant after a 3‑minute seizure.
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular  
+Rate: 125 beats/min (within normal limits for age)  
+P waves: Upright before each QRS; most are smooth and rounded; a few are pointed  
+PR interval: 0.14 to 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.24 second  
+Interpretation: Sinus rhythm at 125 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_17_Figure_14.jpeg)
+
+**29. Fig. 6.30** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Upright before sinus beats and the fusion beat  
+PR interval: 0.16 second (sinus beats)  
+QRS duration: 0.06 to 0.08 second (sinus beats)  
+QT interval: 0.32 to 0.36 second (sinus beats)  
+Interpretation: Sinus rhythm at 70 beats/min with a fusion beat, a pair of PVCs, ST‑segment depression, and inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_18_Figure_2.jpeg)
+
+**30. Fig. 6.31**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular; two rhythms are present  
+Rate: 90 beats/min (sinus beats); 160 beats/min (VT) (because two rhythms are present, a rate for each should be documented)  
+P waves: Upright in sinus beats; none visible with VT  
+PR interval: 0.16 second (sinus beats)  
+QRS duration: 0.10 second (sinus beats); 0.14 second (VT)  
+QT interval: 0.32 to 0.36 second (sinus beats)  
+Interpretation: Sinus rhythm at 90 beats/min, a fusion beat, and then monomorphic VT at 160 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_18_Figure_6.jpeg)
+
+**31. Fig. 6.32**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular; two rhythms are present  
+Rate: 60 beats/min (sinus beats); 300 to 375 beats/min (VT)  
+P waves: Upright in sinus beats; one is notched; none visible with VT  
+PR interval: 0.16 second (sinus beats)  
+QRS duration: 0.08 to 0.10 second (sinus beats); 0.12 second (VT)  
+QT interval: 0.40 second (sinus beats)  
+Interpretation: Sinus rhythm at 60 beats/min to PMVT at 300 to 375 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_18_Figure_10.jpeg)
+
+**32. Fig. 6.33** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 110 beats/min  
+P waves: Upright with sinus beats; early and inverted in beats 5 and 11  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.08 to 0.10 second (sinus beats)  
+QT interval: 0.32 second (sinus beats)  
+Interpretation: Sinus tachycardia at 110 beats/min with two premature junctional complexes
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_19_Figure_2.jpeg)
+
+**33. Fig. 6.34** – This rhythm strip is from a 73‑year‑old woman complaining of chest pain.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 68 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.12 second  
+QT interval: 0.32 to 0.38 sec (difficult to clearly identify end of T waves)  
+Interpretation: AIVR at 68 beats/min; artifact is present
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_19_Figure_6.jpeg)
+
+**34. Fig. 6.35** – This rhythm strip is from a 25‑year‑old man with an altered level of responsiveness because of alcohol.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Upright with sinus beats; early with beat 6, distorting the T wave of beat 5  
+PR interval: 0.18 to 0.20 second  
+QRS duration: 0.10 second  
+QT interval: 0.32 to 0.34 second  
+Interpretation: Sinus rhythm at 80 beats/min with a premature atrial complex
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_19_Figure_11.jpeg)
+
+**35. Fig. 6.36**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Upright before sinus beats; none visible with beat 4  
+PR interval: 0.20 to 0.22 second  
+QRS duration: 0.10 second  
+QT interval: 0.40 to 0.44 second  
+Interpretation: Sinus rhythm at 70 beats/min with an interpolated PVC and inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_20_Figure_2.jpeg)
+
+**36. Fig. 6.37**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 79 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.08 second  
+QT interval: 0.32 second  
+Interpretation: Accelerated junctional rhythm at 79 beats/min with ST‑segment elevation
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_20_Figure_5.jpeg)
+
+**37. Fig. 6.38** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular to regular  
+Rate: 143 to 167 beats/min (atrial beats); 150 beats/min with beats 11 through 16  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.08 second (atrial beats)  
+QT interval: 0.20 to 0.24 second  
+Interpretation: Atrial fibrillation at 143 to 167 beats/min with two ventricular complexes and a fusion beat, changing to supraventricular tachycardia (SVT) at 150 beats/min; ST‑segment depression is present
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_20_Figure_9.jpeg)
+
+**38. Fig. 6.39** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: None Rate: None  
+P waves: None  
+PR interval: None  
+QRS duration: None  
+QT interval: None  
+Interpretation: Asystole
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_21_Figure_2.jpeg)
+
+**39. Fig. 6.40** – This rhythm strip is from a 47‑year‑old man with an altered level of responsiveness. His blood pressure is 118/86 mm Hg, and his blood sugar is 37 mg/dL.
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.40 second  
+Interpretation: Sinus arrhythmia at 70 beats/min with ST‑segment depression; artifact is present
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_21_Figure_8.jpeg)
+
+**40. Fig. 6.41** – This rhythm strip is from a 69‑year‑old man who is complaining of substernal chest pain. He rates his discomfort as 9/10.
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 80 beats/min  
+P waves: Uniform and upright with sinus beats; none with beats 2, 4, and 6  
+PR interval: 0.16 to 0.20 second (sinus beats)  
+QRS duration: 0.10 second (sinus beats)  
+QT interval: 0.40 second (sinus beats)  
+Interpretation: Sinus rhythm at 80 beats/min with uniform PVCs
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_21_Figure_13.jpeg)
+
+**41. Fig. 6.42** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 68‑year‑old man with a head injury after a fall.
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 47 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.14 to 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.44 second  
+Interpretation: Sinus bradycardia at 47 beats/min; U waves are visible in lead MCL<sub>1</sub>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_22_Figure_2.jpeg)
+
+**42. Fig. 6.43** – This rhythm strip is from a 58‑year‑old man who was initially unresponsive, apneic, and pulseless.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: None to 40 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.16 second  
+QT interval: 0.36 second  
+Interpretation: Ventricular fibrillation, a shock (defibrillation), idioventricular rhythm at 40 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_22_Figure_6.jpeg)
+
+**43. Fig. 6.44**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: Sinus rate 88 beats/min; overall rate about 110 beats/min  
+P waves: Upright with sinus beats but some are notched  
+PR interval: 0.20 second (sinus beats)  
+QRS duration: 0.08 second (sinus beats)  
+QT interval: 0.36 second (sinus beats)  
+Interpretation: Sinus rhythm at 88 beats/min with a run of VT and a PVC, ST‑segment depression, and inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_22_Figure_10.jpeg)
+
+**44. Fig. 6.45** – This rhythm strip is from a 61‑year‑old woman who is complaining of shortness of breath.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 130 beats/min  
+P waves: Upright before each QRS (sinus beats); none visible with beats 7 and 10  
+PR interval: 0.12 second (sinus beats)  
+QRS duration: 0.06 second (sinus beats)  
+QT interval: Unable to determine because T waves are not visible  
+Interpretation: Sinus tachycardia at 130 beats/min with multiform PVCs
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_23_Figure_2.jpeg)
+
+**45. Fig. 6.46**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 188 beats/min  
+P waves: None visible  
+PR interval: None  
+QRS duration: 0.14 to 0.18 second  
+QT interval: Unable to determine  
+Interpretation: Monomorphic VT at 188 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_23_Figure_6.jpeg)
+
+**46. Fig. 6.47** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: Two ventricular complexes to none  
+P waves: One visible on the far right of the strip; otherwise none  
+PR interval: None  
+QRS duration: 0.14 second to none  
+QT interval: 0.48 second to none  
+Interpretation: Agonal rhythm/asystole
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_23_Figure_10.jpeg)
+
+**47. Fig. 6.48** (From Conover MB: *Understanding electrocardiography*, ed 7, St. Louis, 1995, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Upright before each QRS (sinus beats); none visible with beat 5  
+PR interval: 0.16 to 0.18 second (sinus beats)  
+QRS duration: 0.08 to 0.10 second (sinus beats)  
+QT interval: 0.28 second (sinus beats)  
+Interpretation: Sinus rhythm at 70 beats/min with an R‑on‑T PVC and ST‑segment elevation
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_24_Figure_2.jpeg)
+
+**48. Fig. 6.49** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 52 beats/min  
+P waves: Upright before QRS in beat 1; none visible with remaining beats  
+PR interval: 0.14 sec (sinus beat)  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.44 second  
+Interpretation: Sinus beat to junctional rhythm at 52 beats/min; inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_24_Figure_6.jpeg)
+
+**49. Fig. 6.50** – This rhythm strip is from a 90‑year‑old unresponsive woman. She has a history of heart failure. Her medications include furosemide and albuterol.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 65 beats/min (sinus beats) to 167 to 214 beats/min (PMVT)  
+P waves: Upright before each QRS (sinus beats); none visible with PMVT  
+PR interval: 0.16 second (sinus beats)  
+QRS duration: 0.10 to 0.12 second (sinus beats)  
+QT interval: 0.32 second (sinus beats)  
+Interpretation: Sinus rhythm at 65 beats/min with ST‑segment depression to PMVT at 167 to 214 beats/min
+
+</div></details>
+
+</div></details>

@@ -76,7 +76,7 @@ When the QRS complex associated with a first‑degree AV block is narrow, the co
 
 <span id="fig-7-3"></span>**FIGURE 7.3** First‑degree atrioventricular (AV) block. SA, Sinoatrial.
 
-![](_page_1_Figure_17.jpeg)
+![](_page_2_Figure_2.jpeg)
 
 <details class="med-details"><summary>
 
@@ -437,7 +437,11 @@ Examples of most of the AV blocks discussed in this chapter appear in [Fig. 7.13
 
 ---
 
-## STOP & REVIEW
+<details class="med-details">
+<summary>
+  
+  ## STOP & REVIEW</summary>
+<div class="details-content">
 
 ### True/False
 
@@ -629,18 +633,26 @@ f. Irregular
 | QRS width             | Narrow or wide                 | Narrow or wide |
 
 **OBJ:** Describe 2:1 AV block and advanced second‑degree AV block.
+</div>
+</details>
 
 ---
 
-## AV Blocks – Practice Rhythm Strips
+<details class="med-details">
+<summary>
+
+## AV Blocks – Practice Rhythm Strips</summary>
+<div class="details-content">
 
 Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
 
 <details class="med-details"><summary>
 
+![](_page_12_Figure_21.jpeg)
+
 **24. Fig. 7.14** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_12_Figure_21.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -660,9 +672,11 @@ Interpretation: Sinus tachycardia at 107 beats/min with first‑degree AV block
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_2.jpeg)
+
 **25. Fig. 7.15**
 
-![](_page_13_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -683,9 +697,11 @@ Interpretation: 2:1 AV block at 34 beats/min with a wide QRS
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_6.jpeg)
+
 **26. Fig. 7.16**
 
-![](_page_13_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -706,9 +722,11 @@ Interpretation: Third‑degree AV block at 50 beats/min with STE
 
 <details class="med-details"><summary>
 
+![](_page_13_Figure_10.jpeg)
+
 **27. Fig. 7.17**
 
-![](_page_13_Figure_10.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -729,9 +747,11 @@ Interpretation: Advanced second‑degree AV block at 40 beats/min with a wide QR
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_2.jpeg)
+
 **28. Fig. 7.18** (From Phillips RE, Feeney MK: *The cardiac rhythms: a systematic approach to interpretation,* ed 3, Philadelphia, 1990, Saunders.)
 
-![](_page_14_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -752,9 +772,11 @@ Interpretation: Second‑degree AV block type I at 50 beats/min with ST‑segmen
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_6.jpeg)
+
 **29. Fig. 7.19**
 
-![](_page_14_Figure_6.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -775,9 +797,11 @@ Interpretation: Second‑degree AV block type I with a ventricular response rang
 
 <details class="med-details"><summary>
 
+![](_page_14_Figure_10.jpeg)
+
 **30. Fig. 7.20** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_14_Figure_10.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -797,9 +821,11 @@ Interpretation: Sinus bradycardia at 40 beats/min with first‑degree AV block a
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_2.jpeg)
+
 **31. Fig. 7.21** – This rhythm strip was recorded as a 58‑year‑old man began complaining of a sudden onset of chest pain.
 
-![](_page_15_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -819,9 +845,11 @@ Interpretation: Sinus bradycardia at 54 beats/min with first‑degree AV block a
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_8.jpeg)
+
 **32. Fig. 7.22** – This rhythm strip is from a 77‑year‑old woman who stated that she felt fine. She stopped at a blood pressure machine in Walmart, and the machine would not read her pulse rate. She later went to her physician's office and then to the emergency department.
 
-![](_page_15_Figure_8.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -842,9 +870,11 @@ Interpretation: 2:1 AV block at 36 beats/min with a wide QRS and STE
 
 <details class="med-details"><summary>
 
+![](_page_15_Figure_14.jpeg)
+
 **33. Fig. 7.23** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_15_Figure_14.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -865,9 +895,11 @@ Interpretation: 2:1 AV block at 56 beats/min with STE
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_2.jpeg)
+
 **34. Fig. 7.24** – This rhythm strip is from a 97‑year‑old woman after a fall.
 
-![](_page_16_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -887,9 +919,11 @@ Interpretation: Sinus rhythm at 88 beats/min with first‑degree AV block and ST
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_6.jpeg)
+
 **35. Fig. 7.25** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_16_Figure_6.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -910,9 +944,11 @@ Interpretation: Third‑degree AV block at 45 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_16_Figure_10.jpeg)
+
 **36. Fig. 7.26**
 
-![](_page_16_Figure_10.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -932,9 +968,11 @@ Interpretation: Sinus rhythm at 70 beats/min with uniform PVCs and ST‑segment 
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_2.jpeg)
+
 **37. Fig. 7.27** – This rhythm strip is from an 86‑year‑old woman complaining of dizziness.
 
-![](_page_17_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -955,9 +993,11 @@ Interpretation: 2:1 AV block at 35 beats/min with a wide QRS and a prolonged QT 
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_6.jpeg)
+
 **38. Fig. 7.28**
 
-![](_page_17_Figure_6.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -978,9 +1018,11 @@ Interpretation: Third‑degree AV block at 32 beats/min with a prolonged QT inte
 
 <details class="med-details"><summary>
 
+![](_page_17_Figure_9.jpeg)
+
 **39. Fig. 7.29** (Modified from Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 25‑year‑old asymptomatic paramedic student.
 
-![](_page_17_Figure_9.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1000,9 +1042,11 @@ Interpretation: Sinus tachyarrhythmia at 110 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_2.jpeg)
+
 **40. Fig. 7.30** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from an asymptomatic 56‑year‑old man.
 
-![](_page_18_Figure_2.jpeg)
+---
 
 Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1022,9 +1066,11 @@ Interpretation: Sinus rhythm at 80 beats/min with a wide QRS, an R‑on‑T prem
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_6.jpeg)
+
 **41. Fig. 7.31** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_18_Figure_6.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1045,9 +1091,11 @@ Interpretation: Sinus rhythm at 100 beats/min with first‑degree AV block to mo
 
 <details class="med-details"><summary>
 
+![](_page_18_Figure_10.jpeg)
+
 **42. Fig. 7.32** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_18_Figure_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1068,9 +1116,11 @@ Interpretation: Second‑degree AV block type I at 50 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_19_Figure_2.jpeg)
+
 **43. Fig. 7.33** – These rhythm strips are from a 26‑year‑old man with end‑stage cardiomyopathy. His condition was apparently the result of chronic methamphetamine use.
 
-![](_page_19_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1090,9 +1140,11 @@ Interpretation: Sinus tachycardia at 111 beats/min; tall P waves
 
 <details class="med-details"><summary>
 
+![](_page_19_Figure_8.jpeg)
+
 **44. Fig. 7.34** – This rhythm strip is from a 51‑year‑old man complaining of dull chest pain that began about 2 hours earlier. He rates his discomfort as 6/10. His blood pressure is 70/48 mm Hg. His skin is cool, pale, and diaphoretic.
 
-![](_page_19_Figure_8.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1113,9 +1165,11 @@ Interpretation: Third‑degree AV block at 52 beats/min with STE
 
 <details class="med-details"><summary>
 
+![](_page_19_Figure_14.jpeg)
+
 **45. Fig. 7.35** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.) – This rhythm strip is from a 62‑year‑old woman who experienced a syncopal episode.
 
-![](_page_19_Figure_14.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1136,9 +1190,11 @@ Interpretation: Second‑degree AV block type II at 40 beats/min with ST‑segme
 
 <details class="med-details"><summary>
 
+![](_page_20_Figure_2.jpeg)
+
 **46. Fig. 7.36** – This rhythm strip is from a 66‑year‑old woman with abdominal pain and weakness that began suddenly while she was eating breakfast.
 
-![](_page_20_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1158,9 +1214,11 @@ Interpretation: Sinus bradycardia at 37 beats/min with first‑degree AV block a
 
 <details class="med-details"><summary>
 
+![](_page_20_Figure_8.jpeg)
+
 **47. Fig. 7.37** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_20_Figure_8.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1181,9 +1239,11 @@ Interpretation: Second‑degree AV block type I at 50 beats/min; although the co
 
 <details class="med-details"><summary>
 
+![](_page_20_Figure_14.jpeg)
+
 **48. Fig. 7.38** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_20_Figure_14.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1204,9 +1264,11 @@ Interpretation: Third‑degree AV block at 38 beats/min with ST‑segment depres
 
 <details class="med-details"><summary>
 
+![](_page_21_Figure_2.jpeg)
+
 **49. Fig. 7.39** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_21_Figure_2.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1227,9 +1289,11 @@ Interpretation: 2:1 AV block at 47 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_21_Figure_6.jpeg)
+
 **50. Fig. 7.40** – This rhythm strip is from a 78‑year‑old woman complaining of left upper quadrant abdominal pain.
 
-![](_page_21_Figure_6.jpeg)
+---
 
 Rhythm: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1249,9 +1313,11 @@ Interpretation: Sinus rhythm at 75 beats/min with STE
 
 <details class="med-details"><summary>
 
+![](_page_21_Figure_10.jpeg)
+
 **51. Fig. 7.41** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_21_Figure_10.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1271,9 +1337,11 @@ Interpretation: Accelerated junctional rhythm at 62 beats/min
 
 <details class="med-details"><summary>
 
+![](_page_22_Figure_2.jpeg)
+
 **52. Fig. 7.42** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_22_Figure_2.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1293,9 +1361,11 @@ Interpretation: Sinus rhythm at 70 beats/min with a PAC and a nonconducted PAC
 
 <details class="med-details"><summary>
 
+![](_page_22_Figure_6.jpeg)
+
 **53. Fig. 7.43** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
 
-![](_page_22_Figure_6.jpeg)
+---
 
 Rhythm: __________ Rate: __________ P waves: __________  
 PR interval: __________ QRS duration: __________ QT interval: __________  
@@ -1311,5 +1381,7 @@ PR interval: 0.32 second
 QRS duration: 0.10 to 0.12 second  
 QT interval: 0.36 to 0.40 second  
 Interpretation: 2:1 AV block at 36 beats/min
+
+</div></details>
 
 </div></details>

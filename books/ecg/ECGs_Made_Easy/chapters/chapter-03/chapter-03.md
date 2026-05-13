@@ -1,5 +1,17 @@
 # Sinus Mechanisms
 
+<details class="med-details"><summary>
+
+## KEY TERMS</summary><div class="details-content">
+
+**sinus arrhythmia:** Dysrhythmia originating in the SA node that occurs when the SA node discharges irregularly; sinus arrhythmia is a normal phenomenon associated with the phases of breathing and changes in intrathoracic pressure.
+
+**sinus bradycardia:** Dysrhythmia originating in the SA node with a ventricular response of less than 60 beats/min.
+
+**sinus rhythm:** A normal heart rhythm; sometimes called a regular sinus rhythm (RSR) or normal sinus rhythm (NSR).
+
+**sinus tachycardia:** Dysrhythmia originating in the SA node with a ventricular response between 101 and 180 beats/min; some experts consider the upper ventricular rate to be 220 beats/min minus the patient's age in years.
+
 </div></details>
 
 <details class="med-details"><summary>
@@ -42,8 +54,6 @@
 <details class="med-details"><summary>
 
 ## INTRODUCTION</summary><div class="details-content">
-
-In this chapter, you will begin learning the characteristics of specific cardiac rhythms. Study these characteristics carefully and commit them to memory. Throughout this text, all ECG characteristics pertain to adult patients unless otherwise noted.
 
 The normal heartbeat is the result of an electrical impulse that starts in the sinoatrial (SA) node ([Fig. 3.1](#fig-3-1)). Normally, pacemaker cells within the SA node spontaneously depolarize more rapidly than other cardiac cells. As a result, the SA node usually dominates other areas that are depolarizing at a slightly slower rate. The impulse is sent to cells at the outside edge of the SA node and then to the myocardial cells of the surrounding atrium.
 
@@ -154,7 +164,7 @@ In sinus bradycardia, the QT interval may be longer than normal because of the s
 
 <span id="table-3-3"></span><details class="med-details"><summary>
 
-##### TABLE 3.3 Characteristics of Sinus Bradycardia</summary><div class="details-content">
+#### TABLE 3.3 Characteristics of Sinus Bradycardia</summary><div class="details-content">
 
 | Characteristic | Description |
 |----------------|-------------|
@@ -264,7 +274,7 @@ Look at the P waves on the rhythm strip, evaluate the P‑P intervals for regula
 
 <span id="fig-3-4"></span>**FIGURE 3.4** Sinus tachycardia at 125 beats/min with ST‑segment depression.
 
-![](_page_5_Figure_2.jpeg)
+![](_page_4_Figure_2.jpeg)
 
 <span id="table-3-4"></span><details class="med-details"><summary>
 
@@ -503,5 +513,981 @@ Signs and symptoms associated with sinus arrest depend on the number of absent s
 | P waves (lead II) | Positive; one precedes each QRS | Positive; one precedes each QRS | Positive; one precedes each QRS | Positive; one precedes each QRS | When present, positive; one precedes each QRS | When present, positive; one precedes each QRS |
 | PR interval | 0.12 to 0.20 sec | 0.12 to 0.20 sec | 0.12 to 0.20 sec | 0.12 to 0.20 sec | When present, 0.12 to 0.20 sec | When present, 0.12 to 0.20 sec |
 | QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+</div></details>
+
+---
+
+<details class="med-details">
+<summary>
+  
+## STOP & REVIEW</summary>
+<div class="details-content">
+
+### True/False
+
+Indicate whether the statement is true or false.
+
+1. During a first‑degree AV block, the PR intervals are completely variable because the atria and ventricles beat independently of each other.
+2. Second‑degree AV blocks are examples of *incomplete* AV blocks.
+3. The site of block in second‑degree AV block type II is limited to the bundle branches.
+4. With second‑degree AV block type II, the PR intervals before and after a blocked sinus impulse (i.e., P wave) are constant.
+
+### Multiple Choice
+
+Identify the choice that best completes the statement or answers the question.
+
+5. Which of the following dysrhythmias may be a normal finding in individuals with no history of cardiac disease, especially in athletes?
+   a. Atrial fibrillation
+   b. First‑degree AV block
+   c. Third‑degree AV block
+   d. Ventricular tachycardia
+
+6. An ECG rhythm strip shows a regular ventricular rhythm at a rate of 128 beats/min, one upright P wave before each QRS, a regular atrial rate, a constant PR interval of 0.24 second, and a QRS duration of 0.08 second. This rhythm is
+   a. third‑degree AV block.
+   b. second‑degree AV block type I.
+   c. sinus tachycardia with first‑degree AV block.
+   d. junctional tachycardia with first‑degree AV block.
+
+7. Third‑degree AV block is characterized by
+   a. irregular P to P intervals.
+   b. irregular R to R intervals.
+   c. regular P to P intervals and regular R to R intervals.
+   d. regular P to P intervals and irregular R to R intervals.
+
+8. An ECG rhythm strip reveals second‑degree 2:1 AV block. Which of the following statements is correct regarding this rhythm?
+   a. The ventricular rate is twice the atrial rate.
+   b. The presence of constant PR intervals allows classification of the block as type I or type II.
+   c. The PR intervals are generally progressive until a P wave appears without a QRS after it.
+   d. This rhythm is characterized by P waves that are normal in size and shape, but every other P wave is not followed by a QRS.
+
+9. The term *second‑degree AV block type I* is the same as
+   a. Mobitz II.
+   b. AV dissociation.
+   c. Mobitz I or Wenckebach.
+   d. Wolff‑Parkinson‑White pattern.
+
+10. Which of the following dysrhythmias is more commonly seen with an inferior wall myocardial infarction?
+    a. Sinus arrhythmia
+    b. Second‑degree AV block type I
+    c. Second‑degree AV block type II
+    d. Third‑degree AV block with a wide QRS
+
+11. An ECG rhythm strip reveals an irregular ventricular rhythm at a rate of 28 to 40 beats/min, more P waves than QRS complexes, regular P‑P intervals, a constant PR interval of 0.16 second, and a QRS duration of 0.14 second. This rhythm is
+    a. 2:1 AV block.
+    b. third‑degree AV block.
+    c. second‑degree AV block type I.
+    d. second‑degree AV block type II.
+
+12. Of the following, which dysrhythmia has the greatest potential for sudden, third‑degree AV block?
+    a. Sinus bradycardia
+    b. Junctional escape rhythm
+    c. Second‑degree AV block type I
+    d. Second‑degree AV block type II
+
+13. The difference between second‑degree type I and type II AV block is that with
+    a. type I the P waves occur irregularly.
+    b. type I the ventricular rhythm is regular.
+    c. type II the QRS duration is consistently more than 0.12 sec in duration.
+    d. type II the PR intervals before and after a blocked P wave are constant.
+
+14. With a third‑degree AV block, the PR interval
+    a. shortens.
+    b. is absent.
+    c. is inconstant.
+    d. remains constant.
+
+15. An ECG rhythm strip reveals an irregular ventricular rhythm at a rate of 46 to 54 beats/min, more P waves than QRS complexes with regular P‑P intervals, PR intervals after nonconducted P waves are shorter than the interval preceding the nonconducted beats, and a QRS duration of 0.08 second. This rhythm is
+    a. 2:1 AV block.
+    b. third‑degree AV block.
+    c. second‑degree AV block type I.
+    d. second‑degree AV block type II.
+
+*Note: Questions 5–15 above are from Chapter 7 (AV Blocks). For Chapter 3, the STOP & REVIEW section originally contains only questions 1–4. The publisher mistakenly included Chapter 7 questions in the Chapter 3 file. Below are the correct Chapter 3 STOP & REVIEW questions (from the original MD):*
+
+### Multiple Choice (Chapter 3)
+
+Identify the choice that best completes the statement or answers the question.
+
+1. A lead II rhythm strip obtained from a 38-year-old woman with difficulty breathing reveals a regular atrial and ventricular rhythm, a ventricular rate of 120 beats/min, an upright P wave before each QRS complex, and a normal PR interval and QRS duration. This rhythm is
+   a. sinus rhythm.
+   b. SA block.
+   c. sinus arrhythmia.
+   d. sinus tachycardia.
+
+2. Which of the following rhythms originates in the SA node and is commonly phasic with breathing?
+   a. Sinus arrest
+   b. Sinus arrhythmia
+   c. Sinus tachycardia
+   d. Sinus bradycardia
+
+3. Sinus arrest is a disorder of
+   a. reentry.
+   b. conductivity.
+   c. impulse formation.
+   d. impulse conduction.
+
+4. SA block is a disorder of
+   a. reentry.
+   b. contractility.
+   c. impulse formation.
+   d. impulse conduction.
+
+### Questions 5 through 11 pertain to the following scenario.
+
+A 75-year-old man presents with weakness and "feeling lightheaded." His symptoms began about 30 minutes ago.
+
+5. The patient's blood pressure is 75/40 mm Hg, pulse is 44 beats/min, and ventilations are 16 breaths/min. A bradycardia is present when the heart rate is less than
+   a. 60 beats/min.
+   b. 75 beats/min.
+   c. 85 beats/min.
+   d. 100 beats/min.
+
+6. You prepare to apply electrodes and lead wires to the patient for continuous ECG monitoring in lead II. Lead II views the
+   a. lateral surface of the left ventricle.
+   b. inferior surface of the left ventricle.
+   c. anterior surface of the left ventricle.
+   d. posterior surface of the right ventricle.
+
+7. You are examining the waveforms on this patient's ECG. What is the name given to the first negative deflection observed after the P wave?
+   a. Q wave
+   b. R wave
+   c. S wave
+   d. T wave
+
+8. As you measure the intervals on this patient's rhythm strip, you recall that the normal duration of the PR interval is __________ second.
+   a. 0.04 to 0.10
+   b. 0.06 to 0.14
+   c. 0.12 to 0.20
+   d. 0.16 to 0.24
+
+9. Analysis of the patient's ECG reveals ST‑segment depression in lead II. Although this ECG finding must be noted in additional leads viewing the same area of the heart to be considered clinically significant, the presence of ST‑segment depression suggests
+   a. myocardial injury.
+   b. myocardial ischemia.
+   c. death of a portion of the left ventricular tissue.
+   d. death of a portion of the cardiac conduction system.
+
+10. You interpret the patient's cardiac rhythm to be a sinus bradycardia. A coworker applied a pulse oximeter, which revealed an oxygen saturation level of 89% on room air. Supplemental oxygen is now being administered. The patient reports that he continues to feel weak and lightheaded. A second set of vital signs have been obtained and are essentially unchanged. Which of the following statements is true with regard to this patient situation?
+    a. The patient is asymptomatic. No treatment is necessary.
+    b. The patient is showing signs of hemodynamic compromise. An IV line should be established and a 12-lead ECG obtained.
+    c. The patient's complaints of weakness and lightheadedness warrant an IV line start but no further interventions.
+    d. The patient is not complaining of chest pain or discomfort; therefore, no additional interventions are necessary at this time.
+
+11. The patient's symptoms persist, and his vital signs are essentially unchanged. The cardiac monitor shows a sinus bradycardia with ST‑segment depression. You should prepare to administer
+    a. atropine.
+    b. atenolol.
+    c. adenosine.
+    d. amiodarone.
+
+### Matching
+
+Match the terms below with their descriptions by placing the letter of each correct answer in the space provided.
+
+a. Inferior MI, prolonged standing
+b. AV junction
+c. Symptomatic bradycardia
+d. Sinus tachycardia
+e. Palpitations, racing heart
+f. SA block
+g. Exercise, fever, pain, dehydration
+h. Sinus arrhythmia
+i. Smooth, rounded, upright
+j. Sinus arrest
+k. Atropine
+l. Damage or disease to the SA node from acute MI
+
+12. Possible causes of sinus tachycardia
+13. Appearance of P waves that originate from the SA node
+14. Dysrhythmia with a pause that is the same as (or an exact multiple of) the distance between two other P‑P intervals
+15. If the SA node fails to generate an impulse, the next (escape) pacemaker that should generate an impulse.
+16. Common dysrhythmia associated with changes in intrathoracic pressure
+17. Possible causes of SA block
+18. Dysrhythmia with a pause of undetermined length that is not the same distance as other P‑P intervals
+19. Examples of symptoms that may be associated with a sinus tachycardia
+20. Vagolytic medication used to increase heart rate
+21. Signs and symptoms of hemodynamic compromise related to a slow heart rate
+22. Possible causes of sinus bradycardia
+23. Dysrhythmia that originates from the SA node and has a ventricular rate faster than 100 beats/min
+
+### Short Answer
+
+24. Fill in the blank areas in the table below to help you recall the primary differences among sinus bradycardia, sinus tachycardia, and sinus arrhythmia.
+
+| ECG Finding | Sinus Bradycardia | Sinus Tachycardia | Sinus Arrhythmia |
+|-------------|-------------------|-------------------|------------------|
+| Rhythm | | | |
+| Rate (beats/min) | | | |
+| P waves (lead II) | Positive; one precedes each QRS | Positive; one precedes each QRS | Positive; one precedes each QRS |
+| PR interval | 0.12 to 0.20 sec | 0.12 to 0.20 sec | 0.12 to 0.20 sec |
+| QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+25. Fill in the blank areas in the table below to help you recall the differences among sinus rhythm, SA block, and sinus arrest.
+
+| ECG Finding | Sinus Rhythm | Sinoatrial Block | Sinus Arrest |
+|-------------|--------------|------------------|---------------|
+| Rhythm | | | |
+| Rate (beats/min) | | | |
+| P waves (lead II) | Positive; one precedes each QRS | When present, positive; one precedes each QRS | When present, positive; one precedes each QRS |
+| PR interval | 0.12 to 0.20 sec | When present, 0.12 to 0.20 sec | When present, 0.12 to 0.20 sec |
+| QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+---
+
+## STOP & REVIEW / ANSWERS
+
+1. **D.** A sinus tachycardia is differentiated from other rhythms that originate in the SA node by its rate (faster than 100 beats/min).  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus tachycardia.
+
+2. **B.** Respiratory sinus arrhythmia, which is the most common type of sinus arrhythmia, is a normal phenomenon that occurs with phases of breathing and changes in intrathoracic pressure. The heart rate increases with inspiration (i.e., the R‑R intervals shorten) and decreases with expiration (i.e., the R‑R intervals lengthen). Sinus arrhythmia is most commonly observed in children and young adults.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus arrhythmia.
+
+3. **C.** Sinus arrest is a disorder of impulse formation. In sinus arrest, the pacemaker cells of the SA node fail to initiate an electrical impulse for one or more beats resulting in absent PQRST complexes on the ECG.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus arrest.
+
+4. **D.** With SA block, the pacemaker cells within the SA node initiate an impulse but it is blocked as it exits the SA node. Thus, SA block is a disorder of impulse conduction. Blocking of the sinus impulses results in periodically absent PQRST complexes.  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinoatrial block.
+
+5. **A.** In adults, a bradycardia exists if the rate is less than 60 beats/min (*brady* = slow).  
+   **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus bradycardia.
+
+6. **B.** Lead II views the inferior surface of the left ventricle.  
+   **OBJ:** Relate the cardiac surfaces or areas represented by the ECG leads.
+
+7. **A.** A QRS complex normally follows each P wave. The QRS complex begins as a downward deflection, the *Q* wave, and represents depolarization of the interventricular septum.  
+   **OBJ:** Define and describe the significance of each of the following as they relate to cardiac electrical activity: P wave, QRS complex, T wave, U wave, PR segment, TP segment, ST segment, PR interval, QRS duration, and QT interval.
+
+8. **C.** The PR interval changes with heart rate but normally measures 0.12 to 0.20 second in adults. As the heart rate increases, the duration of the PR interval shortens. A PR interval is considered *short* if it is less than 0.12 second and *long* if it is more than 0.20 second.  
+   **OBJ:** Define and describe the significance of each of the following as they relate to cardiac electrical activity: P wave, QRS complex, T wave, U wave, PR segment, TP segment, ST segment, PR interval, QRS duration, and QT interval.
+
+9. **B.** ST‑segment depression of 0.5 mm or more in a patient who is experiencing an acute coronary syndrome is suggestive of myocardial ischemia when it is seen in two or more anatomically contiguous leads.  
+   **OBJ:** Recognize the changes on the ECG that may reflect evidence of myocardial ischemia and injury.
+
+10. **B.** The term *symptomatic bradycardia* describes signs and symptoms of hemodynamic compromise related to a slow heart rate. Because this patient is complaining of weakness and lightheadedness and he is hypotensive, he is clearly symptomatic with his slow heart rate. Treatment of a symptomatic bradycardia should include application of a pulse oximeter and administration of supplemental oxygen if indicated, which have already been done. Next, establish IV access and obtain a 12‑lead ECG.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus bradycardia.
+
+11. **A.** Atropine, administered intravenously, is the drug of choice for symptomatic bradycardia. Reassess the patient's response to the therapeutic interventions provided and continue monitoring the patient. Adenosine is used to slow the ventricular rate. Atenolol, a beta‑blocker, would further slow the heart rate. Although amiodarone is an antiarrhythmic used to treat many atrial and ventricular dysrhythmias, it is not used to treat a sinus bradycardia.  
+    **OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus bradycardia.
+
+12. **G**
+13. **I**
+14. **F**
+15. **B**
+16. **H**
+17. **L**
+18. **J**
+19. **E**
+20. **K**
+21. **C**
+22. **A**
+23. **D**
+
+24. **ANS:**
+
+| ECG Finding | Sinus Bradycardia | Sinus Tachycardia | Sinus Arrhythmia |
+|-------------|-------------------|-------------------|------------------|
+| Rhythm | Regular | Regular | Irregular, typically phasic with breathing |
+| Rate (beats/min) | Slower than 60 | 101 to 180; alternatively, upper limit = 220 minus age | Usually 60 to 100 |
+| P waves (lead II) | Positive; one precedes each QRS | Positive; one precedes each QRS | Positive; one precedes each QRS |
+| PR interval | 0.12 to 0.20 sec | 0.12 to 0.20 sec | 0.12 to 0.20 sec |
+| QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+**OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinus bradycardia, sinus tachycardia, and sinus arrhythmia.
+
+25. **ANS:**
+
+| ECG Finding | Sinus Rhythm | Sinoatrial Block | Sinus Arrest |
+|-------------|--------------|------------------|---------------|
+| Rhythm | Regular | Regular except for the event; pause is the same (or an exact multiple of) as the distance between two P‑P intervals of underlying rhythm | Regular except for the event; pause of undetermined length; not a multiple of other P‑P intervals |
+| Rate (beats/min) | 60 to 100 | Varies | Varies |
+| P waves (lead II) | Positive; one precedes each QRS | When present, positive; one precedes each QRS | When present, positive; one precedes each QRS |
+| PR interval | 0.12 to 0.20 sec | When present, 0.12 to 0.20 sec | When present, 0.12 to 0.20 sec |
+| QRS duration | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted | 0.11 sec or less unless abnormally conducted |
+
+**OBJ:** Describe the ECG characteristics, possible causes, signs and symptoms, and emergency management of sinoatrial block and sinus arrest.
+</div>
+</details>
+
+---
+
+<details class="med-details">
+<summary>
+
+## Sinus Mechanisms – Practice Rhythm Strips</summary>
+<div class="details-content">
+
+Use the five steps of rhythm interpretation to interpret each of the following rhythm strips. All rhythms were recorded in lead II unless otherwise noted.
+
+<details class="med-details"><summary>
+
+![](_page_11_Figure_4.jpeg)
+
+**26. Fig. 3.8**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 58 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.40 to 0.44 second  
+Interpretation: Sinus bradycardia at 58 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_11_Figure_10.jpeg)
+
+**27. Fig. 3.9**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.04 to 0.06 second  
+QT interval: 0.36 second  
+Interpretation: Sinus arrhythmia at 70 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_11_Figure_16.jpeg)
+
+**28. Fig. 3.10** – This rhythm strip is from a 61‑year‑old woman with an altered level of responsiveness. Her blood pressure is 112/62 mm Hg, and her blood sugar is 42 mg/dL.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 65 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.20 second  
+QRS duration: 0.10 to 0.12 second  
+QT interval: 0.60 to 0.64 second (prolonged)  
+Interpretation: Sinus rhythm at 65 beats/min with ST‑segment depression; prolonged QT interval
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_12_Figure_2.jpeg)
+
+**29. Fig. 3.11** – This rhythm strip is from a 90‑year‑old woman with difficulty breathing.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 111 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.16 second  
+QRS duration: 0.04 to 0.06 second  
+QT interval: 0.32 to 0.34 second  
+Interpretation: Sinus tachycardia at 111 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_12_Figure_6.jpeg)
+
+**30. Fig. 3.12** – This rhythm strip is from a 73‑year‑old man complaining of chest pain. He has a history of hypertension and lung disease. Medications include aspirin, albuterol, and Lotensin.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 44 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.16 second  
+QRS duration: 0.06 second  
+QT interval: 0.40 second  
+Interpretation: Sinus bradycardia at 44 beats/min, ST‑segment depression. Note the upright U waves after each T wave.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_12_Figure_10.jpeg)
+
+**31. Fig. 3.13**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 75 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.44 second  
+Interpretation: Sinus rhythm at 75 beats/min with an episode of sinus arrest; tall T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_13_Figure_2.jpeg)
+
+**32. Fig. 3.14** – This rhythm strip is from a 57‑year‑old man with chest pain.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 107 beats/min  
+P waves: Small but upright before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.16 second  
+QT interval: 0.32 to 0.40 second  
+Interpretation: Sinus tachycardia at 107 beats/min with a wide QRS and deeply inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_13_Figure_2.jpeg)
+
+**33. Fig. 3.15**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 79 beats/min  
+P waves: Uniform and upright before each QRS complex  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.32 second  
+Interpretation: Sinus rhythm at 79 beats/min, ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_13_Figure_11.jpeg)
+
+**34. Fig. 3.16** – This rhythm strip is from a 4‑month‑old infant who reportedly ingested an oral pain reliever.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular  
+Rate: 100 beats/min (within normal limits for age)  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.28 second  
+Interpretation: Sinus arrhythmia at 100 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_14_Figure_0.jpeg)
+
+**35. Fig. 3.17**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 79 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.24 second  
+QRS duration: 0.12 to 0.14 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 79 beats/min with a prolonged PR interval, wide QRS, ST‑segment elevation in leads II and V<sub>4</sub>, and ST‑segment depression in lead I
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_14_Figure_6.jpeg)
+
+**36. Fig. 3.18** – This rhythm strip is from a 40‑year‑old man complaining of back pain after jumping from a burning second floor balcony.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 88 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.06 second  
+QT interval: 0.32 second  
+Interpretation: Sinus rhythm at 88 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_14_Figure_11.jpeg)
+
+**37. Fig. 3.19** – These rhythm strips are from a 44‑year‑old woman with chest pain.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 94 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.28 second  
+Interpretation: Sinus rhythm at 94 beats/min with STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_15_Figure_2.jpeg)
+
+**38. Fig. 3.20** – This rhythm strip is from a 6‑year‑old girl complaining of abdominal pain. Her blood pressure is 100/60 mm Hg.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 90 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.14 to 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.32 second  
+Interpretation: Sinus arrhythmia at 90 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_15_Figure_5.jpeg)
+
+**39. Fig. 3.21** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 94 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.16 to 0.18 second  
+QRS duration: 0.12 second  
+QT interval: 0.36 to 0.40 second  
+Interpretation: Sinus rhythm at 94 beats/min with a wide QRS and ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_15_Figure_9.jpeg)
+
+**40. Fig. 3.22** – This rhythm strip is from a 24‑year‑old woman complaining of weakness and fatigue.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 50 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.16 to 0.20 second  
+QRS duration: 0.08 second  
+QT interval: 0.40 second  
+Interpretation: Sinus bradyarrhythmia at 50 beats/min (the interpretation reflects that the rhythm is slow and irregular)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_16_Figure_2.jpeg)
+
+**41. Fig. 3.23**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 65 beats/min  
+P waves: Biphasic P waves before each QRS (a normal finding in leads MCL<sub>1</sub> and V<sub>1</sub>)  
+PR interval: 0.20 second  
+QRS duration: 0.10 to 0.12 second  
+QT interval: 0.36 second  
+Interpretation: Sinus rhythm at 65 beats/min with biphasic P waves and STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_16_Figure_4.jpeg)
+
+**42. Fig. 3.24** – This rhythm strip is from a 29‑year‑old woman with a kidney stone.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 103 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.14 second  
+QRS duration: 0.08 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: Sinus tachycardia at 103 beats/min; inverted T waves
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_16_Figure_8.jpeg)
+
+**43. Fig. 3.25** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 25 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.22 to 0.24 second  
+QRS duration: 0.10 to 0.12 second  
+QT interval: 0.40 second  
+Interpretation: Sinus bradycardia at 25 beats/min with a prolonged PR interval and ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_17_Figure_2.jpeg)
+
+**44. Fig. 3.26** – This rhythm strip is from a 79‑year‑old woman with epistaxis. Her blood pressure is 222/118 mm Hg.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 125 beats/min  
+P waves: Upright before each QRS; some P waves are notched  
+PR interval: 0.16 second  
+QRS duration: 0.10 to 0.12 second  
+QT interval: Unable to determine because T waves are not clearly visible  
+Interpretation: Sinus tachycardia at 125 beats/min with a wide QRS and ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_17_Figure_5.jpeg)
+
+**45. Fig. 3.27** – This rhythm strip is from a 62‑year‑old man complaining of chest pain.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 94 beats/min  
+P waves: Upright but low amplitude P waves before each QRS  
+PR interval: 0.12 to 0.14 second  
+QRS duration: 0.08 to 0.10 second  
+QT interval: 0.32 second  
+Interpretation: Sinus rhythm at 94 beats/min with STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_17_Figure_9.jpeg)
+
+**46. Fig. 3.28** – This rhythm strip is from an 8‑month‑old infant after a seizure.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 150 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.12 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.20 to 0.24 second  
+Interpretation: Sinus rhythm at 150 beats/min (rate within normal limits for age)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_18_Figure_2.jpeg)
+
+**47. Fig. 3.29** – This rhythm strip is from a 33‑year‑old woman complaining of abdominal pain.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Slightly irregular Rate: 80 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.12 to 0.14 second  
+QRS duration: 0.08 second  
+QT interval: 0.24 to 0.26 second  
+Interpretation: Sinus arrhythmia at 80 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_18_Figure_6.jpeg)
+
+**48. Fig. 3.30**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 68 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.28 to 0.32 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.44 to 0.48 second  
+Interpretation: Sinus rhythm at 68 beats/min with a prolonged PR interval and ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_18_Figure_12.jpeg)
+
+**49. Fig. 3.31**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 97 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.16 second  
+QRS duration: 0.04 to 0.06 second  
+QT interval: 0.32 second  
+Interpretation: Sinus rhythm at 97 beats/min with STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_19_Figure_2.jpeg)
+
+**50. Fig. 3.32** – This rhythm strip is from a 37‑year‑old asymptomatic man.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 50 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.08 second  
+QT interval: 0.36 to 0.40 second  
+Interpretation: Sinus bradyarrhythmia at 50 beats/min
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_19_Figure_8.jpeg)
+
+**51. Fig. 3.33** (From Aehlert B: ECG study cards, St. Louis, 2004, Mosby.)
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Regular Rate: 115 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.20 second  
+QRS duration: 0.10 to 0.12 second  
+QT interval: Unable to determine because T waves are not clearly visible  
+Interpretation: Sinus tachycardia at 115 beats/min with ST‑segment depression
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_19_Figure_14.jpeg)
+
+**52. Fig. 3.34** – This rhythm strip is from a 44‑year‑old construction worker with a sudden onset of chest pressure.
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 70 beats/min  
+P waves: Upright before each QRS  
+PR interval: 0.12 to 0.16 second  
+QRS duration: 0.06 to 0.08 second  
+QT interval: 0.28 to 0.32 second  
+Interpretation: Sinus arrhythmia at 70 beats/min with STE
+
+</div></details>
+
+<details class="med-details"><summary>
+
+![](_page_20_Figure_2.jpeg)
+
+**53. Fig. 3.35**
+
+---
+
+Rhythm: __________ Rate: __________ P waves: __________  
+PR interval: __________ QRS duration: __________ QT interval: __________  
+Interpretation: __________
+
+</summary><div class="details-content">
+
+**Answer:**  
+Rhythm: Irregular Rate: 50 beats/min  
+P waves: Uniform and upright before each QRS  
+PR interval: 0.20 to 0.22 second  
+QRS duration: 0.08 second  
+QT interval: 0.40 to 0.44 second  
+Interpretation: Sinus bradyarrhythmia at 50 beats/min with a prolonged PR interval
+
+</div></details>
 
 </div></details>
