@@ -370,7 +370,7 @@ Color flow imaging in long- and short-axis views of the valve allows evaluation 
 
 Measurement of antegrade velocity across the aortic valve is limited by the nonparallel intercept angle between the ultrasound beam and the direction of blood flow from the TEE position. In some patients, a transgastric apical view allows recording of pulsed and CW Doppler flow velocities proximal to and across the aortic valve ([Fig. 3.22](#fig-3-22)). However, caution still is needed in interpretation of the Doppler data because the intercept angle may be oblique. If aortic valve pathology is present, transthoracic recording of antegrade velocities is more accurate and should be performed in all cases.
 
-<span id="fig-3-22"></span>![](_page_17_Figure_0.jpeg)
+<span id="fig-3-22"></span>![](_page_17_Picture_0.jpeg)
 
 **FIGURE 3.22** Transgastric apical view. The image plane is angulated anteriorly to include aortic valve *(left)* with the line indicating the position of the CW Doppler beam. The aortic valve is calcified and immobile, and the aortic jet velocity recorded with 2D-guided CW Doppler *(right)* is increased to at least 3.9 m/s. When a high-velocity jet is suspected, careful angulation and positioning of the transducer are needed to obtain the highest velocity signal. Because of the constraints on transducer positioning, the possibility of velocity underestimation should be considered. *Ao,* Aorta.
 
