@@ -5,67 +5,67 @@
 ## Executive Summary</summary><div class="details-content">
 
 ### Tomographic Imaging and Standard Views
-- **Tomographic slices:** 2D echo provides thin “slices” through the heart. Complete evaluation requires integration of multiple image planes. Cardiac motion (translation, rotation, torsion) moves structures in/out of the imaging plane.
-- **Three orthogonal planes:** Long-axis (parallel to LV long axis through aortic valve), short-axis (perpendicular to LV), four-chamber (apex to base, includes all four chambers), two-chamber (LV and LA, midway between long-axis and four-chamber).
-- **Acoustic windows:** Parasternal, apical, subcostal, suprasternal notch. Patient positioning and sonographer skill critical due to bone and lung interference.
-- **Transducer motions:** Move (change position), tilt (rock to different structures in same plane), angle (side-to-side for parallel planes), rotate (twist to intersecting planes).
+* **Tomographic slices:** 2D echo provides thin “slices” through the heart. Complete evaluation requires integration of multiple image planes. Cardiac motion (translation, rotation, torsion) moves structures in/out of the imaging plane.
+* **Three orthogonal planes:** Long-axis (parallel to LV long axis through aortic valve), short-axis (perpendicular to LV), four-chamber (apex to base, includes all four chambers), two-chamber (LV and LA, midway between long-axis and four-chamber).
+* **Acoustic windows:** Parasternal, apical, subcostal, suprasternal notch. Patient positioning and sonographer skill critical due to bone and lung interference.
+* **Transducer motions:** Move (change position), tilt (rock to different structures in same plane), angle (side-to-side for parallel planes), rotate (twist to intersecting planes).
 
 ### Image Orientation (ASE convention)
-- **Display:** Transducer position (narrowest sector) at top of screen. Near structures at top, far structures at bottom.
-- **Short-axis views:** Lateral structures on right, medial on left (viewer looks from apex toward base).
-- **Long-axis views:** Basal structures (aortic valve) on right, apical on left (viewer looks from patient’s left side).
-- **Four-chamber view:** LV on right, RV on left (same as short-axis orientation).
+* **Display:** Transducer position (narrowest sector) at top of screen. Near structures at top, far structures at bottom.
+* **Short-axis views:** Lateral structures on right, medial on left (viewer looks from apex toward base).
+* **Long-axis views:** Basal structures (aortic valve) on right, apical on left (viewer looks from patient’s left side).
+* **Four-chamber view:** LV on right, RV on left (same as short-axis orientation).
 
 ### Examination Technique and Quality
-- **Patient position:** Left lateral decubitus or supine. ECG lead II for timing cardiac events.
-- **Image quality determinants:** Body habitus (adipose tissue, scar, lung interposition), transducer frequency, instrument settings, sonographer skill.
-- **Poor acoustic access:** Chronic lung disease, recent cardiac surgery, obesity. TEE provides better definition due to shorter distance and higher frequency.
+* **Patient position:** Left lateral decubitus or supine. ECG lead II for timing cardiac events.
+* **Image quality determinants:** Body habitus (adipose tissue, scar, lung interposition), transducer frequency, instrument settings, sonographer skill.
+* **Poor acoustic access:** Chronic lung disease, recent cardiac surgery, obesity. TEE provides better definition due to shorter distance and higher frequency.
 
 ### Parasternal Window Anatomy
-- **Long-axis view:** Aortic sinuses, STJ, ascending aorta (upper normal: annulus 1.6 cm/m², sinuses 2.1 cm/m²). Right and noncoronary cusps visualized. Mitral valve: anterior leaflet longer, posterior leaflet with three scallops (P1, P2, P3). Coronary sinus in AV groove. Descending aorta posterior to LA.
-- **Short-axis views:** Aortic valve level – all three cusps (R, L, N) with Y-shaped closure. Mitral valve level – anterior and posterior leaflets, commissures medial/lateral. Papillary muscle level – circular LV, medial and lateral papillary muscles.
+* **Long-axis view:** Aortic sinuses, STJ, ascending aorta (upper normal: annulus 1.6 cm/m², sinuses 2.1 cm/m²). Right and noncoronary cusps visualized. Mitral valve: anterior leaflet longer, posterior leaflet with three scallops (P1, P2, P3). Coronary sinus in AV groove. Descending aorta posterior to LA.
+* **Short-axis views:** Aortic valve level – all three cusps (R, L, N) with Y-shaped closure. Mitral valve level – anterior and posterior leaflets, commissures medial/lateral. Papillary muscle level – circular LV, medial and lateral papillary muscles.
 
 ### Apical Window Anatomy
-- **Four-chamber view:** LV (truncated ellipse), RV (triangular, moderator band), mitral valve (anterior adjacent to septum), tricuspid valve (septal leaflet), LA, RA. Interatrial septum parallel to beam → dropout normal.
-- **Two-chamber view:** 60° rotation from four-chamber. Anterior LV wall (right side), inferolateral (posterior) wall (left side). LA appendage may be visible.
-- **Long-axis view:** 120° from four-chamber. Similar to parasternal long-axis but with LV apex visible.
+* **Four-chamber view:** LV (truncated ellipse), RV (triangular, moderator band), mitral valve (anterior adjacent to septum), tricuspid valve (septal leaflet), LA, RA. Interatrial septum parallel to beam → dropout normal.
+* **Two-chamber view:** 60° rotation from four-chamber. Anterior LV wall (right side), inferolateral (posterior) wall (left side). LA appendage may be visible.
+* **Long-axis view:** 120° from four-chamber. Similar to parasternal long-axis but with LV apex visible.
 
 ### Subcostal and Suprasternal Windows
-- **Subcostal:** Four-chamber view with IAS perpendicular to beam – ideal for ASD evaluation. IVC size (1–2 cm) with respiratory variation estimates RA pressure.
-- **Suprasternal:** Aortic arch long-axis – ascending aorta, arch, proximal descending, branch origins. Right pulmonary artery “under” the arch.
+* **Subcostal:** Four-chamber view with IAS perpendicular to beam – ideal for ASD evaluation. IVC size (1–2 cm) with respiratory variation estimates RA pressure.
+* **Suprasternal:** Aortic arch long-axis – ascending aorta, arch, proximal descending, branch origins. Right pulmonary artery “under” the arch.
 
 ### M-Mode Recordings
-- **Sampling rate:** 1800 frames/sec (vs. 30–60 for 2D). High temporal resolution for rapid motion (valve opening/closing, vegetations).
-- **Aortic valve:** Parallel walls moving anteriorly in systole. Leaflets form box-like opening.
-- **Mitral valve:** E-point (early diastolic opening), EPSS (normally small; increased in LV dilation/dysfunction or AR), A-point (atrial systole). Fine fluttering indicates AR.
-- **LV at papillary muscle level:** Standard measurements of wall thickness and chamber dimensions (leading edge convention).
-- **Pulmonic valve:** A-wave >7 mm in pulmonic stenosis; <2 mm in pulmonary hypertension. Mid-systolic notching in pulmonary hypertension.
+* **Sampling rate:** 1800 frames/sec (vs. 30–60 for 2D). High temporal resolution for rapid motion (valve opening/closing, vegetations).
+* **Aortic valve:** Parallel walls moving anteriorly in systole. Leaflets form box-like opening.
+* **Mitral valve:** E-point (early diastolic opening), EPSS (normally small; increased in LV dilation/dysfunction or AR), A-point (atrial systole). Fine fluttering indicates AR.
+* **LV at papillary muscle level:** Standard measurements of wall thickness and chamber dimensions (leading edge convention).
+* **Pulmonic valve:** A-wave >7 mm in pulmonic stenosis; <2 mm in pulmonary hypertension. Mid-systolic notching in pulmonary hypertension.
 
 ### Normal Intracardiac Flow Patterns
-- **Laminar vs. disturbed flow:** Reynolds number Re = (Vdρ)/γ. >2000–2500 → disturbed flow.
-- **Flow-velocity profiles:** Flat (most intracardiac flows) vs. parabolic (peripheral vessels).
-- **Volume flow measurement:** SV = CSA × VTI. Cardiac output = SV × HR.
-- **Bernoulli equation:** ΔP = 4v². Valid for flow-limiting orifices (stenosis, regurgitation, shunts).
-- **Normal velocities:** LVOT 0.7–1.1 m/s; aortic valve 1.0–1.7 m/s; RVOT 0.5–1.3 m/s; mitral E-wave ~1 m/s (young), A-wave 0.2–0.4 m/s; pulmonary veins ~0.5 m/s.
+* **Laminar vs. disturbed flow:** Reynolds number Re = (Vdρ)/γ. >2000–2500 → disturbed flow.
+* **Flow-velocity profiles:** Flat (most intracardiac flows) vs. parabolic (peripheral vessels).
+* **Volume flow measurement:** SV = CSA × VTI. Cardiac output = SV × HR.
+* **Bernoulli equation:** ΔP = 4v². Valid for flow-limiting orifices (stenosis, regurgitation, shunts).
+* **Normal velocities:** LVOT 0.7–1.1 m/s; aortic valve 1.0–1.7 m/s; RVOT 0.5–1.3 m/s; mitral E-wave ~1 m/s (young), A-wave 0.2–0.4 m/s; pulmonary veins ~0.5 m/s.
 
 ### Color Doppler Normal Patterns
-- **Angle dependent:** LV outflow red from parasternal, blue from apical.
-- **Aliasing common:** Nyquist limit 60–80 cm/s at typical depths. Normal flows often exceed limit → color wrap-around.
-- **Variance (green):** Can occur with normal flows due to angle or aliasing, not always pathologic.
-- **Physiologic regurgitation:** Mitral/tricuspid in 50–80%, pulmonic in 70–80% (brief, localized). Aortic regurgitation in only ~5% of normals.
+* **Angle dependent:** LV outflow red from parasternal, blue from apical.
+* **Aliasing common:** Nyquist limit 60–80 cm/s at typical depths. Normal flows often exceed limit → color wrap-around.
+* **Variance (green):** Can occur with normal flows due to angle or aliasing, not always pathologic.
+* **Physiologic regurgitation:** Mitral/tricuspid in 50–80%, pulmonic in 70–80% (brief, localized). Aortic regurgitation in only ~5% of normals.
 
 ### Aging Changes
-- LV wall thickness ↑ ~2 mm; chamber size unchanged. E/A reversal by age 50. LA mild enlargement.
-- Aortic dimensions ↑ ~6% from 4th to 8th decade.
-- Aortic sclerosis in ~25% >65 years; mitral annular calcification in up to 50% of older adults.
-- “Septal knuckle” – acute aorto-septal angle with apparent basal septal thickening (often hypertensive history).
+* LV wall thickness ↑ ~2 mm; chamber size unchanged. E/A reversal by age 50. LA mild enlargement.
+* Aortic dimensions ↑ ~6% from 4th to 8th decade.
+* Aortic sclerosis in ~25% >65 years; mitral annular calcification in up to 50% of older adults.
+* “Septal knuckle” – acute aorto-septal angle with apparent basal septal thickening (often hypertensive history).
 
 ### Diagnostic Echocardiogram – Core Elements
-- **LV:** Size, wall thickness, segmental motion, EF, diastolic filling.
-- **Aortic valve & aorta:** Sinus dimensions, ascending diameter, valve anatomy, stenosis/regurgitation.
-- **Mitral valve & LA:** Anatomy, stenosis/regurgitation, LA size.
-- **Right heart:** RV size and function, RA size, valve anatomy, estimated PA pressure.
-- **Pericardium:** Thickening or effusion.
+* **LV:** Size, wall thickness, segmental motion, EF, diastolic filling.
+* **Aortic valve & aorta:** Sinus dimensions, ascending diameter, valve anatomy, stenosis/regurgitation.
+* **Mitral valve & LA:** Anatomy, stenosis/regurgitation, LA size.
+* **Right heart:** RV size and function, RA size, valve anatomy, estimated PA pressure.
+* **Pericardium:** Thickening or effusion.
 
 </div></details>
 
@@ -133,6 +133,7 @@ Acoustic windows are transducer positions that allow ultrasound access to the he
 
 #### TABLE 2.1: Transthoracic Echo Image Orientation Nomenclature</summary><div class="details-content">
 
+<span id="table-2-1"></span>
 | Parameter | Terms |
 |-----------|-------|
 | Window (Transducer Location) | Parasternal, Apical, Subcostal, Suprasternal |
@@ -181,6 +182,7 @@ The physician uses the tomographic 2D echocardiographic images to build a mental
 
 #### TABLE 2.2: Terminology for Normal Echocardiographic Anatomy</summary><div class="details-content">
 
+<span id="table-2-2"></span>
 | Structure | Components |
 |-----------|------------|
 | Aortic root | Sinuses of Valsalva, Sinotubular junction, Coronary ostia |
@@ -215,13 +217,11 @@ Normal echocardiographic anatomy is described in this section for each tomograph
 
 With the patient in a left lateral decubitus position and the transducer in the left third or fourth intercostal space, adjacent to the sternum, a long-axis view of the heart is obtained that bisects the long axis of both aortic and mitral valves ([Figs. 2.3](#fig-2-3) and [2.4](#fig-2-4)). In this standard view, the *aortic sinuses,* sinotubular junction, and proximal 3 to 4 cm of the ascending aorta are seen; further segments of the ascending aorta are visualized by moving the transducer cephalad one or two interspaces. The term “aortic root” often is used to refer to the entire proximal aorta including the annulus, sinuses, sinotubular junction, and ascending aorta. The upper limit of normal for aortic end-diastolic dimension in adults is 1.6 cm/m² at the annulus and 2.1 cm/m² at the sinuses.
 
-<span id="fig-2-3"></span>![](_page_4_Figure_3.jpeg)
+<span id="fig-2-3"></span>![](_page_5_Figure_4.jpeg)
 
 **FIGURE 2.3** Cardiac anatomy in the long-axis view. The parasternal long-axis view in diastole shows: the closed right and noncoronary cusps of the aortic valve; the aortic sinuses, sinotubular junction, and proximal ascending aorta; the open anterior and posterior mitral valve leaflets; the basal and mid-ventricular segments of the anterior septum and posterior LV wall; the RV outflow tract anteriorly, and the coronary sinus in the atrioventricular groove. The medial papillary muscle is shown for reference, although slight medial angulation typically is needed to visualize this structure in the long-axis view. *Asterisk,* Intervalvular fibrosa. *(From Otto CM: Echocardiographic evaluation of valvular heart disease. In Otto CM, Bonow R, editors:* Valvular Heart Disease: A Companion to Braunwald’s Heart Disease, *ed 3, Philadelphia, 2009, Saunders.)*
 
-<span id="fig-2-4"></span>![](_page_5_Figure_4.jpeg)
-
-![](_page_5_Figure_5.jpeg)
+<span id="fig-2-4"></span>![](_page_5_Figure_5.jpeg)
 
 **FIGURE 2.4** Normal parasternal long-axis 2D echo images. (A) End-diastolic and (B) end-systolic images show the anatomic features seen in [Fig. 2.3](#fig-2-3). In addition, the descending thoracic aorta *(DA)* is seen posterior to the LA. *Ao,* Aorta.
 
@@ -429,6 +429,7 @@ In specific cases, other acoustic windows are needed. For example, a dextroposit
 
 #### TABLE 2.3: Transthoracic Echo: Views for Specific Cardiac Structures</summary><div class="details-content">
 
+<span id="table-2-3"></span>
 | Anatomic Structures | Best Views |
 |---------------------|------------|
 | Aortic valve | PLAX, PSAX, Apical long-axis, Anteriorly angulated apical 4-chamber |
@@ -456,6 +457,7 @@ In specific cases, other acoustic windows are needed. For example, a dextroposit
 Although M-mode recordings have largely been replaced by 2D or 3D imaging, M-mode recordings still have an important role in evaluation of rapid motion of cardiac structures because the sampling rate is 1800 frames per second rather than the 30 to 60 frames per second used for 2D or 3D imaging. The rapid sampling rate also makes identification of thin moving structures, such as the LV endocardium, more accurate and reproducible by showing motion as well as depth of the structure of interest. The potential disadvantage of M-mode data, a nonperpendicular orientation to the structure of interest, can be avoided by using the 2D image in two orthogonal planes to position the M-mode sampling line.
 
 Use of the M-mode feature is most helpful when guided by the 2D image and used for:
+
 - Timing of rapid cardiac motions
 - Precise measurements of cardiac dimensions
 - Further evaluation of structures seen on 2D imaging (e.g., suspected vegetations) to aid in their identification
@@ -540,7 +542,7 @@ Normal intracardiac flow patterns are characterized by laminar flow. Laminar flo
 
 **FIGURE 2.25** Intracardiac blood flow patterns. Laminar flow is characterized by parallel stream lines at uniform velocities with concentric layers of flow, each with a predictable and uniform direction and velocity (top). Disturbed flow occurs downstream from areas of narrowing (stenotic orifice, regurgitant orifice, or intracardiac shunt) with blood flow in multiple directions and velocities (bottom). In the orifice itself, a laminar high-velocity jet occurs.
 
-Steady laminar flow becomes disturbed when the dimensionless Reynolds number exceeds 2000 to 2500. The Reynolds number (R<sub>e</sub>) is directly related to blood flow velocity V, lumen diameter d, and blood density ρ and inversely related to viscosity γ:
+Steady laminar flow becomes disturbed when the dimensionless Reynolds number exceeds 2000 to 2500. The Reynolds number (Re) is directly related to blood flow velocity V, lumen diameter d, and blood density ρ and inversely related to viscosity γ:
 
 $$\mathrm{Re} = (\mathrm{Vd}\rho)/\gamma \tag{Eq. 2.1}$$
 
@@ -567,6 +569,7 @@ The spatial distribution of velocities in cross section at a specific intracardi
 ### Clinical Quantitative Doppler Methods</summary><div class="details-content">
 
 Three basic principles are common to the clinical use of Doppler ultrasound in evaluation of cardiac disease. These are presented briefly here and in more detail, including technical aspects and potential pitfalls, in subsequent chapters, as follows:
+
 - Measurement of volume flow in Chapter 6
 - The relationship between velocity and pressure gradients in Chapter 11
 - The spatial flow pattern through a small orifice (e.g., regurgitant valve) in Chapter 12
@@ -605,9 +608,9 @@ At any area of significant narrowing in the flow stream—whether a stenotic val
 
 In most clinical situations, the velocity in a high-velocity “jet” through a narrowed orifice is related quantitatively to the pressure gradient across the narrowing, as stated in the simplified Bernoulli equation:
 
-$$\Delta \mathbf{P} = 4\mathbf{v}^2 \tag{Eq. 2.3}$$
+$$\Delta P = 4v^2 \tag{Eq. 2.3}$$
 
-where Δ*P* is the instantaneous pressure gradient (mmHg) and *v* is the instantaneous velocity (m/s) and the number 4 converts from units of velocity (m/s) to pressure (mmHg).
+where ΔP is the instantaneous pressure gradient (mmHg) and v is the instantaneous velocity (m/s) and the number 4 converts from units of velocity (m/s) to pressure (mmHg).
 
 For example, if the velocity across a narrowed aortic valve is 5 m/s, then the maximum pressure gradient is:
 
@@ -620,6 +623,7 @@ $$\Delta P = 4 (5)^2 = 100 \text{ mmHg}$$
 #### Spatial Pattern of Flow</summary><div class="details-content">
 
 Flow through a small orifice is characterized by a:
+
 - Proximal flow convergence region
 - Narrow flow stream through the orifice, called the vena contracta
 - Downstream flow disturbance
@@ -724,6 +728,7 @@ Flow patterns in the descending aorta are important in the evaluation of cardiac
 
 #### TABLE 2.4: Transthoracic Views for Normal Antegrade Flow Velocities</summary><div class="details-content">
 
+<span id="table-2-4"></span>
 | Antegrade Flow | View |
 |----------------|------|
 | LV outflow tract | Apical 4-chamber (angulated anterior), Apical long-axis |
@@ -736,6 +741,8 @@ Flow patterns in the descending aorta are important in the evaluation of cardiac
 | RA inflow | Subcostal (central hepatic vein), SSN (superior vena cava) |
 
 *SSN,* Suprasternal notch.
+
+</div></details>
 
 </div></details>
 
@@ -811,8 +818,6 @@ With careful examination techniques, a small amount of mitral and tricuspid regu
 
 </div></details>
 
-</div></details>
-
 <details class="med-details"><summary>
 
 ## AGING CHANGES ON ECHOCARDIOGRAPHY</summary><div class="details-content">
@@ -825,11 +830,11 @@ Between young adulthood and age 70 years, typical echocardiographic changes incl
 
 ## THE DIAGNOSTIC ECHOCARDIOGRAM</summary><div class="details-content">
 
-A diagnostic echocardiogram is defined as a clinical study, performed under the supervision of a physician with special expertise in echocardiography, with generation of a formal interpretation and long-term image storage. In contrast, point of care or handheld ultrasound, discussed in Chapter 4, is a focused examination performed by the physician caring for the patient; it is used to guide short-term patient management. Although the diagnostic echocardiographic examination should be directed toward the specific clinical question in each individual patient, it is important to use a systematic and consistent format with the supervising physician ensuring that instrumentation and data acquisition are appropriate for the clinical indication. Additional imaging and Doppler elements may be needed to pursue the clinical question or any observed abnormalities fully.
-
 <details class="med-details"><summary>
 
 ### Core Elements</summary><div class="details-content">
+
+A diagnostic echocardiogram is defined as a clinical study, performed under the supervision of a physician with special expertise in echocardiography, with generation of a formal interpretation and long-term image storage. In contrast, point of care or handheld ultrasound, discussed in Chapter 4, is a focused examination performed by the physician caring for the patient; it is used to guide short-term patient management. Although the diagnostic echocardiographic examination should be directed toward the specific clinical question in each individual patient, it is important to use a systematic and consistent format with the supervising physician ensuring that instrumentation and data acquisition are appropriate for the clinical indication. Additional imaging and Doppler elements may be needed to pursue the clinical question or any observed abnormalities fully.
 
 The core diagnostic echocardiographic elements differ from laboratory to laboratory, but the concept of a standardized examination sequence is critical to ensure that abnormalities are not missed. Blood pressure and study indications are reviewed before beginning the examination. An electrocardiographic lead is recorded to assist in evaluating the timing of cardiac motion and Doppler flows. Measurements of the cardiac chambers, great vessels, and Doppler flow appropriate for the clinical indication are made using M-mode, 2D, and 3D imaging ([Table 2.5](#table-2-5); see Tables A.1 to A.4 in Appendix A).
 
@@ -861,6 +866,26 @@ The Core Elements of the examination allow the physician to evaluate the:
 **Pericardium:**
 - Evidence for thickening or effusion
 
+<details class="med-details"><summary>
+
+#### TABLE 2.5: Clinical Echocardiographic Chamber and Great Vessel Measurements*</summary><div class="details-content">
+
+<span id="table-2-5"></span>
+| Cardiac Structure | Basic Measurements | Additional Measurements | Technical Details |
+|-------------------|--------------------|------------------------|-------------------|
+| Left ventricle | ED dimension<br>ES dimension<br>ED wall thickness<br>Ejection fraction | ED volume<br>ES volume<br>2D stroke volume<br>Relative wall thickness<br>LV mass | • 2D imaging is used to ensure measurements are centered and perpendicular to the long axis of the LV.<br>• M-mode provides superior time resolution and more accurate identification of endocardial borders but is inaccurate if oblique.<br>• LV ejection fraction is measured by the apical biplane approach or from 3D imaging. |
+| Left atrium | ES AP diameter (PLAX) | LA area<br>LA volume | • LA AP dimension provides a quick screen but may underestimate LA size.<br>• When LA size is important for clinical decision making, measurement of LA volume from apical views is helpful. |
+| Right ventricle | ED basal RV dimension in A4C view<br>RV systolic function | RV wall thickness<br>RVOT dimensions<br>RV FAC or TAPSE | • RV dimensions are measured in apical views at ED. RVOT is measured in PLAX views.<br>• TAPSE is measured from an apical M-mode recording of the tricuspid annulus (see Chapter 6). |
+| Right atrium | Visual estimate of size | RA area in A4C view | • RA size is usually compared with the LA in the apical 4-chamber view. |
+| Aorta | ED diameter at sinuses (PLAX) | ED diameter indexed to expected dimension<br>Diameter at multiple sites in aorta | • With 2D echo, inner edge to inner edge measurements are more reproducible.<br>• Measurements at ES about 2 mm greater than ED measurements. |
+| Pulmonary artery | – | ED diameter | – |
+
+*2D measurements are made from the white-black interface on the image. M-mode measurements are made using the leading edge to leading edge convention.
+
+*A4C,* Apical four-chamber view; *AP,* anterior-posterior; *ED,* end-diastole (onset of the QRS); *ES,* end-systole (minimum LV volume); *FAC,* fractional area change; *PLAX,* parasternal long-axis view; *RVOT,* RV outflow tract; *TAPSE,* tricuspid annular plane systolic excursion.
+
+</div></details>
+
 </div></details>
 
 <details class="med-details"><summary>
@@ -876,25 +901,6 @@ Another example is evaluation of a patient after myocardial infarction. In this 
 Even if no obvious abnormalities are noted during the basic examination, the study is focused toward the specific clinical question in that patient. For example, if endocarditis is suspected (see Chapter 14), more attention to valvular anatomy is needed, with careful transducer angulation and nonstandard views to optimize visualization of possible valvular vegetations. Another example of how the clinical indication affects the examination is the patient referred for symptoms of heart failure. Even if the Core Elements are unremarkable, more complete evaluation of diastolic LV function is helpful to evaluate for a cardiac cause of the patient’s symptoms.
 
 The need to focus the examination on the specific clinical question and at the same time ensure that significant abnormalities are not missed highlights the necessity for appropriate training of both the physician responsible for the examination and the sonographer performing the study, as well as for close interaction between these two individuals during the performance and interpretation of the study. Furthermore, interaction with the referring physician is recommended either before the examination is performed to clarify the differential diagnosis and clinical questions or after the examination to integrate the pretest likelihood with the echocardiographic findings and estimate the probability of any remaining diagnostic problems.
-
-<details class="med-details"><summary>
-
-#### TABLE 2.5: Clinical Echocardiographic Chamber and Great Vessel Measurements*</summary><div class="details-content">
-
-| Cardiac Structure | Basic Measurements | Additional Measurements | Technical Details |
-|-------------------|--------------------|------------------------|-------------------|
-| Left ventricle | ED dimension<br>ES dimension<br>ED wall thickness<br>Ejection fraction | ED volume<br>ES volume<br>2D stroke volume<br>Relative wall thickness<br>LV mass | • 2D imaging is used to ensure measurements are centered and perpendicular to the long axis of the LV.<br>• M-mode provides superior time resolution and more accurate identification of endocardial borders but is inaccurate if oblique.<br>• LV ejection fraction is measured by the apical biplane approach or from 3D imaging. |
-| Left atrium | ES AP diameter (PLAX) | LA area<br>LA volume | • LA AP dimension provides a quick screen but may underestimate LA size.<br>• When LA size is important for clinical decision making, measurement of LA volume from apical views is helpful. |
-| Right ventricle | ED basal RV dimension in A4C view<br>RV systolic function | RV wall thickness<br>RVOT dimensions<br>RV FAC or TAPSE | • RV dimensions are measured in apical views at ED. RVOT is measured in PLAX views.<br>• TAPSE is measured from an apical M-mode recording of the tricuspid annulus (see Chapter 6). |
-| Right atrium | Visual estimate of size | RA area in A4C view | • RA size is usually compared with the LA in the apical 4-chamber view. |
-| Aorta | ED diameter at sinuses (PLAX) | ED diameter indexed to expected dimension<br>Diameter at multiple sites in aorta | • With 2D echo, inner edge to inner edge measurements are more reproducible.<br>• Measurements at ES about 2 mm greater than ED measurements. |
-| Pulmonary artery | – | ED diameter | – |
-
-*2D measurements are made from the white-black interface on the image. M-mode measurements are made using the leading edge to leading edge convention.
-
-*A4C,* Apical four-chamber view; *AP,* anterior-posterior; *ED,* end-diastole (onset of the QRS); *ES,* end-systole (minimum LV volume); *FAC,* fractional area change; *PLAX,* parasternal long-axis view; *RVOT,* RV outflow tract; *TAPSE,* tricuspid annular plane systolic excursion.
-
-</div></details>
 
 </div></details>
 
@@ -916,6 +922,8 @@ The need to focus the examination on the specific clinical question and at the s
 | Color flow | Parasternal<br>Apical | Long-axis: aortic and mitral valves<br>Short-axis: aortic and pulmonic valves<br>RV inflow: tricuspid valve<br>4-chamber: mitral and tricuspid valves<br>Long-axis: aortic and mitral valves | Color flow to identify regurgitation of all 4 valves. If more than mild, measure vena contracta |
 | CW Doppler | Parasternal<br>Apical | Tricuspid valve<br>Pulmonic valve<br>Aortic valve<br>Mitral valve<br>Tricuspid valve | TR-jet velocity<br>Aortic velocity<br>TR-jet (pulmonary pressures) |
 
+*ED,* End-diastole; *ES,* end-systole; *IVC,* inferior vena cava; *PA,* pulmonary artery; *PE,* physical examination; *TR,* tricuspid regurgitation.
+
 </div></details>
 
 <details class="med-details"><summary>
@@ -924,14 +932,16 @@ The need to focus the examination on the specific clinical question and at the s
 
 | Abnormality on Core Elements | Additional Echo Exam Components (Chapter) |
 |------------------------------|--------------------------------------------|
-| **Reason for echo** | Additional components to address specific clinical question |
+| Reason for echo | Additional components to address specific clinical question |
 | **Left ventricle**<br>• Decreased ejection fraction<br>• Abnormal LV filling velocities<br>• Regional wall motion abnormality<br>• Increased wall thickness | See Systolic Function (6)<br>See Diastolic Function (7)<br>See Ischemic Heart Disease (8)<br>See Hypertrophic Cardiomyopathy, Restrictive Cardiomyopathy and Hypertensive Heart Disease (9) |
 | **Valves**<br>• Imaging evidence for stenosis or an increased antegrade transvalvular velocity<br>• Regurgitation greater than mild on color flow imaging or CW Doppler<br>• Prosthetic valve<br>• Valve mass or suspected endocarditis | See Valve Stenosis (11)<br>See Valve Regurgitation (12)<br>See Prosthetic Valves (13)<br>See Endocarditis and Masses (14, 15) |
 | **Right heart**<br>• Enlarged right ventricle<br>• Elevated TR-jet velocity | See Pulmonary Heart Disease and Congenital Heart Disease (9, 17)<br>See Pulmonary Pressures (6) |
 | **Pericardium**<br>• Pericardial effusion<br>• Pericardial thickening | See Pericardial Effusion (10)<br>See Constrictive Pericarditis (10) |
 | **Great vessels**<br>• Enlarged aorta | See Aortic Disease (16) |
 
-The Echo Exam should always include additional components to address the clinical indication. For example, if the indication is “heart failure,” additional components to evaluate systolic and diastolic function are needed even if the Core Elements do not show obvious abnormalities. If the indication is “cardiac source of embolus,” the Additional Components for that diagnosis are needed. *TR,* Tricuspid regurgitation.
+The Echo Exam should always include additional components to address the clinical indication. For example, if the indication is “heart failure,” additional components to evaluate systolic and diastolic function are needed even if the Core Elements do not show obvious abnormalities. If the indication is “cardiac source of embolus,” the Additional Components for that diagnosis are needed.
+
+*TR,* Tricuspid regurgitation.
 
 </div></details>
 
@@ -947,4 +957,4 @@ The Echo Exam should always include additional components to address the clinica
 
 </div></details>
 
-</div></details
+</div></details>

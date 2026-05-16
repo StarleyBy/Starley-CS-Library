@@ -23,7 +23,7 @@ These are general summations of the recommendations for treatment.
 
 <details class="med-details"><summary>
 
-## Appendix 1B: New York Heart Association (NYHA) Functional Classification</summary><div class="details-content">
+## Appendix 1B: New York Heart Association Functional Classification</summary><div class="details-content">
 
 | Class | Description |
 |-------|-------------|
@@ -36,7 +36,7 @@ These are general summations of the recommendations for treatment.
 
 <details class="med-details"><summary>
 
-## Appendix 1C: The Canadian Cardiovascular Society (CCS) Classification for Grading of Angina</summary><div class="details-content">
+## Appendix 1C: The Canadian Cardiovascular Society Classification for Grading of Angina</summary><div class="details-content">
 
 | Class | Description |
 |-------|-------------|
@@ -55,12 +55,12 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 | Profile | Description | Timing for MCS |
 |---------|-------------|-----------------|
-| **INTERMACS 1: Critical cardiogenic shock** | Life-threatening hypotension refractory to rapidly escalating inotropic pressor support, with critical organ hypoperfusion. *"Crash and burn."* | Within hours |
-| **INTERMACS 2: Progressive decline** | Acceptable blood pressure on inotropic support, but worsening renal function, nutritional status, or end-organ function. *"Sliding fast."* | Within a few days |
-| **INTERMACS 3: Stable but inotrope-dependent** | Stable blood pressure and end-organ function, but cannot be weaned from inotropic support without developing hypotension, HF symptoms, or worsening organ system function (usually renal). *"Dependent stability."* | Within a few weeks to months |
-| **INTERMACS 4: Resting symptoms** | Daily symptoms of HF at rest or with activities of daily living (ADLs). Temporary cessation of inotropic support may be possible, but patient has frequent symptoms of fluid overload requiring very high dose diuretics. *"Frequent flyer."* | Within a few months |
-| **INTERMACS 5: Exertion intolerant** | Comfortable at rest without symptoms of HF, but unable to engage in any other activities; usually have underlying refractory elevated volume status, often with renal dysfunction. *"Housebound."* | — |
-| **INTERMACS 6: Exertion limited** | Comfortable at rest without evidence of fluid overload, and able to do ADLs and minor activities outside of the home. *"Walking wounded."* However, any meaningful physical activity causes fatigue. Symptoms will occasionally worsen, with most patients hospitalized within the past year. | — |
+| **INTERMACS 1: Critical cardiogenic shock** | Life-threatening hypotension refractory to rapidly escalating inotropic pressor support, with critical organ hypoperfusion. *“Crash and burn.”* | Within hours |
+| **INTERMACS 2: Progressive decline** | Acceptable blood pressure on inotropic support, but worsening renal function, nutritional status, or end-organ function. *“Sliding fast.”* | Within a few days |
+| **INTERMACS 3: Stable but inotrope-dependent** | Stable blood pressure and end-organ function, but cannot be weaned from inotropic support without developing hypotension, HF symptoms, or worsening organ system function (usually renal). *“Dependent stability.”* | Within a few weeks to months |
+| **INTERMACS 4: Resting symptoms** | Daily symptoms of HF at rest or with activities of daily living (ADLs). Temporary cessation of inotropic support may be possible, but patient has frequent symptoms of fluid overload requiring very high dose diuretics. *“Frequent flyer.”* | Within a few months |
+| **INTERMACS 5: Exertion intolerant** | Comfortable at rest without symptoms of HF, but unable to engage in any other activities; usually have underlying refractory elevated volume status, often with renal dysfunction. *“Housebound.”* | — |
+| **INTERMACS 6: Exertion limited** | Comfortable at rest without evidence of fluid overload, and able to do ADLs and minor activities outside of the home. *“Walking wounded.”* However, any meaningful physical activity causes fatigue. Symptoms will occasionally worsen, with most patients hospitalized within the past year. | — |
 | **INTERMACS 7: Advanced NYHA Class 3** | Clinically stable, being comfortable with a reasonable level of mild activity, such as walking a block. | — |
 
 </div></details>
@@ -69,58 +69,58 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 ## Appendix 2: Typical Preoperative Order Sheet</summary><div class="details-content">
 
-**1. Admit to:** ________
+1. Admit to: ________
 
-**2. Surgery date:** ________
+2. Surgery date: ________
 
-**3. Planned procedure:** ________
+3. Planned procedure: ________
 
-**4. Diagnostic studies**
-- □ CBC with differential
-- □ PT/INR, PTT
-- □ Electrolytes, BUN, creatinine, blood glucose
-- □ Liver function tests (bilirubin, AST, ALT, alkaline phosphatase, albumin)
-- □ TSH level
-- □ Lipid profile
-- □ Hemoglobin A1c level
-- □ Urinalysis and urine culture, if indicated
-- □ Electrocardiogram
-- □ Chest x-ray PA and lateral
-- □ Room air oxygen saturation by pulse oximetry; obtain arterial blood gas if <90%
-- □ Antibody screen
-- □ Crossmatch: ___ units packed red blood cells (PRBCs)
-- □ Carotid duplex studies
-- □ Bilateral digital radial artery studies
-- □ Bilateral venous mapping
-- □ Pulmonary function tests
-- □ Other: ________
+4. Diagnostic studies
+   - CBC with differential
+   - PT/INR, PTT
+   - Electrolytes, BUN, creatinine, blood glucose
+   - Liver function tests (bilirubin, AST, ALT, alkaline phosphatase, albumin)
+   - TSH level
+   - Lipid profile
+   - Hemoglobin A1c level
+   - Urinalysis and urine culture, if indicated
+   - Electrocardiogram
+   - Chest x-ray PA and lateral
+   - Room air oxygen saturation by pulse oximetry; obtain arterial blood gas if <90%
+   - Antibody screen
+   - Crossmatch: ___ units packed red blood cells (PRBCs)
+   - Carotid duplex studies
+   - Bilateral digital radial artery studies
+   - Bilateral venous mapping
+   - Pulmonary function tests
+   - Other: ________
 
-**5. Treatments/Assessments**
-- □ Admission vital signs
-- □ Measure height and weight
-- □ NPO after midnight except sips of water with meds
-- □ Surgical clippers to remove hair at 5:00 AM morning of surgery from chest, legs, and both groins
-- □ Hibiclens scrub to chest and legs night before and AM of surgery
-- □ Incentive spirometry teaching
-- □ Smoking cessation education
+5. Treatments/Assessments
+   - Admission vital signs
+   - Measure height and weight
+   - NPO after midnight except sips of water with meds
+   - Surgical clippers to remove hair at 5:00 AM morning of surgery from chest, legs, and both groins
+   - Hibiclens scrub to chest and legs night before and AM of surgery
+   - Incentive spirometry teaching
+   - Smoking cessation education
 
-**6. Medications**
-- □ Mupirocin 2% (Bactroban ointment): apply Q-tip nasal swabs the evening before and the morning of surgery
-- □ Chlorhexidine 0.12% (Peridex) gargle on-call to OR
-- □ Ascorbic acid 2 g at 9:00 PM night before surgery
-- □ Cefazolin 1 g IV / 2 g IV – send to OR with patient
-- □ Vancomycin 20 mg/kg = ___ g IV – send to OR with patient
-- □ Discontinue P2Y12 inhibitor immediately (check with surgeon about PRU testing)
-- □ Reduce aspirin to 81 mg daily if patient on a higher dose
-- □ Discontinue NOAC after AM/PM dose on ___ (48 hours in advance of surgery)
-- □ Discontinue heparin at ___
-- □ Continue heparin drip into operating room
-- □ Discontinue low-molecular-weight heparin after AM/PM dose on ___
-- □ Discontinue IIb/IIIa inhibitor at 4:00 AM prior to surgery
-- □ Metoprolol ___ mg PO every 12 hours; hold for SBP <100 or HR <60 (CABG patients)
-- □ Discontinue ACE inhibitor or ARB morning of surgery
-- □ Discontinue all diabetic medications morning of surgery
-- □ Discontinue all diuretics morning of surgery
+6. Medications
+   - Mupirocin 2% (Bactroban ointment): apply Q-tip nasal swabs the evening before and the morning of surgery
+   - Chlorhexidine 0.12% (Peridex) gargle on-call to OR
+   - Ascorbic acid 2 g at 9:00 PM night before surgery
+   - Cefazolin 1 g IV / 2 g IV – send to OR with patient
+   - Vancomycin 20 mg/kg = ___ g IV – send to OR with patient
+   - Discontinue P2Y12 inhibitor immediately (check with surgeon about PRU testing)
+   - Reduce aspirin to 81 mg daily if patient on a higher dose
+   - Discontinue NOAC after AM/PM dose on ___ (48 hours in advance of surgery)
+   - Discontinue heparin at ___
+   - Continue heparin drip into operating room
+   - Discontinue low-molecular-weight heparin after AM/PM dose on ___
+   - Discontinue IIb/IIIa inhibitor at 4:00 AM prior to surgery
+   - Metoprolol ___ mg PO every 12 hours; hold for SBP <100 or HR <60 (CABG patients)
+   - Discontinue ACE inhibitor or ARB morning of surgery
+   - Discontinue all diabetic medications morning of surgery
+   - Discontinue all diuretics morning of surgery
 
 </div></details>
 
@@ -128,40 +128,42 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 ## Appendix 3: Cardiac Surgery Preoperative Assessment Checklist</summary><div class="details-content">
 
-**Planned procedure:** ________
+Planned procedure: ________
 
-**Surgery date:** ________
+Surgery date: ________
 
-- □ Surgical note in chart and consent obtained
-- □ Anesthesia preoperative note
-- □ Antibiotics ordered
-- □ ECG
-- □ CXR
-- □ Cath report
-- □ Echo report
-- □ STS risk score (or EuroSCORE)
-- □ CBC
-- □ Basic metabolic panel
-- □ Liver function tests
-- □ INR/PTT
-- □ Type & cross
-- □ Urinalysis/culture
-- □ Medications
-- □ Aspirin dose decreased to 81 mg
-- □ If patient not on a β-blocker and heart rate >60, initiate metoprolol 12.5–25 mg PO bid (CABG patients)
-- □ Patient aware not to take ACE inhibitor/ARB, diabetic medications, diuretics the day of surgery
-- □ Date and time of:
-  - Last dose of P2Y12 inhibitor: ________
-  - Last dose of warfarin: ________
-  - Last dose of low-molecular-weight heparin: ________
-  - Last dose of NOAC: ________
-- □ Additional studies/Comments: ________
+- Surgical note in chart and consent obtained
+- Anesthesia preoperative note
+- Antibiotics ordered
+- ECG
+- CXR
+- Cath report
+- Echo report
+- STS risk score (or EuroSCORE)
+- CBC
+- Basic metabolic panel
+- Liver function tests
+- INR/PTT
+- Type and cross
+- Urinalysis/culture
+- Medications
+- Aspirin dose decreased to 81 mg
+- If patient not on a β-blocker and heart rate >60, initiate metoprolol 12.5–25 mg PO bid (CABG patients)
+- Patient aware not to take ACE inhibitor/ARB, diabetic medications, diuretics the day of surgery
 
-**Signature:** ________
+Date and time of:
+- Last dose of P2Y12 inhibitor: ________
+- Last dose of warfarin: ________
+- Last dose of low-molecular-weight heparin: ________
+- Last dose of NOAC: ________
 
-**Date:** ________
+Additional studies/Comments: ________
 
-**Time:** ________
+Signature: ________
+
+Date: ________
+
+Time: ________
 
 </div></details>
 
@@ -183,35 +185,35 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 12. Daily weights
 13. Advance activity after extubation (dangle, OOB to chair)
 14. VTE prophylaxis
-    - □ T.E.D. elastic stockings (apply on POD #1)
-    - □ Sequential or pneumatic compression devices while in bed
-    - □ Heparin 5000 units SC bid starting on POD # ___
-    - □ Low-molecular-weight heparin (Lovenox) 40 mg SC daily starting on POD # ___
+    - T.E.D. elastic stockings (apply on POD #1)
+    - Sequential or pneumatic compression devices while in bed
+    - Heparin 5000 units SC bid starting on POD # ___
+    - Low-molecular-weight heparin (Lovenox) 40 mg SC daily starting on POD # ___
 15. GI/Nutrition:
-    - □ NPO while intubated
-    - □ Nasogastric tube to low suction
-    - □ Clear liquids as tolerated 1h after extubation and removal of NG tube
+    - NPO while intubated
+    - Nasogastric tube to low suction
+    - Clear liquids as tolerated 1h after extubation and removal of NG tube
 16. Ventilator settings
     - FiO<sub>2</sub>: ___ in SIMV mode
     - IMV rate: ___ breaths/min
     - Tidal volume: ___ mL
     - PEEP: ___ cm H<sub>2</sub>O
 17. Respiratory care
-    - □ Endotracheal suction q4h, then prn
-    - □ Wean ventilator to extubate per protocol
-    - □ O<sub>2</sub> via face mask with FiO<sub>2</sub> 0.6–1.0 per protocol
-    - □ O<sub>2</sub> via nasal prongs @ 2–6 liters/min to keep SaO<sub>2</sub> >95%
-    - □ Incentive spirometer q1h when awake
-    - □ Cough pillow at bedside
-    - □ Albuterol 0.5 mL of 0.5% solution (2.5 mg) in 3 mL normal saline q6h via nebulizer or metered dose inhaler 6 puffs via endotracheal tube (90 μg/inhalation)
+    - Endotracheal suction q4h, then prn
+    - Wean ventilator to extubate per protocol
+    - O<sub>2</sub> via face mask with FiO<sub>2</sub> 0.6–1.0 per protocol
+    - O<sub>2</sub> via nasal prongs @ 2–6 L/min to keep SaO<sub>2</sub> >95%
+    - Incentive spirometer q1h when awake
+    - Cough pillow at bedside
+    - Albuterol 0.5 mL of 0.5% solution (2.5 mg) in 3 mL normal saline q6h via nebulizer or metered dose inhaler 6 puffs via endotracheal tube (90 μg/inhalation)
 18. Laboratory tests
-    - □ On arrival: STAT ABGs, CBC, electrolytes, glucose
-    - □ STAT PT, PTT, platelet count if chest tube output >100/h (thromboelastogram if available)
-    - □ STAT chest x-ray (if not done in operating room)
-    - □ STAT ECG
-    - □ Four and eight hours after arrival and prn: potassium, hematocrit, ABGs (respiratory distress)
-    - □ ABGs per protocol (prior to weaning and prior to extubation)
-    - □ 3:00 AM on POD #1: CBC, lytes, BUN, creatinine, blood glucose, ECG, CXR, INR (if patient to receive warfarin after valve procedure)
+    - On arrival: STAT ABGs, CBC, electrolytes, glucose
+    - STAT PT, PTT, platelet count if chest tube output >100/h (thromboelastogram if available)
+    - STAT chest x-ray (if not done in operating room)
+    - STAT ECG
+    - Four and eight hours after arrival and prn: potassium, hematocrit, ABGs (respiratory distress)
+    - ABGs per protocol (prior to weaning and prior to extubation)
+    - 3:00 AM on POD #1: CBC, lytes, BUN, creatinine, blood glucose, ECG, CXR, INR (if patient to receive warfarin after valve procedure)
 19. Pacemaker settings
     - Mode: □ Atrial □ VVI □ DVI □ DDD
     - Atrial output: ___ mA
@@ -219,7 +221,7 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
     - Rate: ___ /min
     - AV interval: ___ msec
     - Sensitivity: □ Asynchronous □ Demand
-    - □ Pacer off but attached
+    - Pacer off but attached
 20. Cardiac rehab consult
 21. Notify MD/PA/NP for:
     - a. Systolic blood pressure <90 or >140 mm Hg
@@ -228,63 +230,63 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
     - d. Chest tube drainage >100 mL/h
     - e. Temperature >38.5°C
 22. IV Drips/Medications (with suggested ranges)
-    - **Allergies:** ________
-    - **a. IV drips:**
-      - □ Dextrose 5% in 0.45% NS 250 mL via Cordis/triple lumen to KVO
-      - □ Arterial line and distal Swan-Ganz port: NS flushes at 3 mL/h
-      - □ Epinephrine 1 mg/250 mL D5W: ___ μg/min to maintain cardiac index >2.0 (0.01–0.06 μg/kg/min or 1–4 μg/min)
-      - □ Milrinone 20 mg/100 mL D5W: ___ μg/kg/min (0.25–0.75 μg/kg/min)
-      - □ Dobutamine 250 mg/250 mL D5W: ___ μg/kg/min (5–20 μg/kg/min)
-      - □ Norepinephrine 4–8 mg/250 mL D5W: ___ μg/min to keep systolic BP >100 (0.01–1.0 μg/kg/min)
-      - □ Phenylephrine 20 mg/250 mL NS: ___ μg/min to keep systolic BP >100 (0.1–3.0 μg/kg/min)
-      - □ Vasopressin 100 units/250 mL D5W: ___ units/min (0.01–0.1 units/min)
-      - □ Nitroprusside 50 mg/250 mL D5W: ___ μg/kg/min to keep systolic BP <130 (0.1–8 μg/kg/min)
-      - □ Clevidipine 50 mg/100 mL D5W: ___ mg/h to keep systolic BP <130 (2–21 mg/h)
-      - □ Nicardipine 25 mg/250 mL D5W: ___ mg/h to keep BP <130 (5–15 mg/h)
-      - □ Nitroglycerin 50 mg/250 mL D5W: ___ μg/kg/min (0.1–5 μg/kg/min)
-      - □ Diltiazem: 100 mg/100 mL D5W: ___ mg/h (for radial artery prophylaxis)
-      - □ Esmolol 2.5 g/250 mL NS: ___ μg/kg/min (25–100 μg/kg/min)
-      - □ Amiodarone: after initial IV load in OR, 900 mg/500 mL D5W: 1 mg/min × 6 hours, then decrease to 0.5 mg/min × 18 hours
-      - □ Lidocaine 2 g/250 mL D5W: ___ mg/min IV; wean off at 6:00 AM POD #1
-    - **b. Antibiotics**
-      - □ Cefazolin 1 g IV q8h for 6 doses
-      - □ Vancomycin 1 g IV q12h for 4 doses
-    - **c. Sedatives/analgesics**
-      - □ Propofol infusion 10 mg/mL: 25–75 μg/kg/min; wean to off per protocol
-      - □ Dexmedetomidine: 400 μg (2 vials of 2 mL of 100 μg/mL solution)/100 mL NS: bolus dose of ___ (1 μg/kg) over 10 minutes, then maintenance infusion of ___ μg/kg/h (0.2–1.5 μg/kg/h)
-      - □ Midazolam 2 mg IV q2h prn agitation; stop after extubation
-      - □ Morphine sulfate ___ mg IV q2h prn for pain (while intubated)
-      - □ Meperidine 25–50 mg IV prn shivering
-      - □ Ketorolac 30–60 mg IV q6h prn for moderate–severe pain (4–10 on pain scale); stop after 72 hours
-      - □ Acetaminophen 650 mg PO/IV q4h prn pain (maximum 4 g/day)
-      - □ Oxycodone with acetaminophen (Percocet) 5/325 mg 1–2 tabs PO q4h prn for pain after extubation; start with 1 tab for mild pain (1–3 on pain scale); give additional tab 60 minutes later if no change in pain. Give 2 tabs for moderate–severe pain (4–10 on pain scale)
-    - **d. Other medications**
-      - □ β-blocker starting at 8:00 AM on POD #1, then q12h; hold for HR <60 or SBP <100
-      - □ Metoprolol ___ mg PO/per NG tube bid (12.5–100 mg bid)
-      - □ Carvedilol ___ mg PO/per NG tube bid (3.125–25 mg bid)
-      - □ Amiodarone 400 mg PO bid to start after amiodarone infusion discontinued
-      - □ Magnesium sulfate 2 g in 50 mL NS IV over 2 hours on POD #1 in AM
-      - □ Sucralfate 1 g per NG tube q6h until NG tube removed
-      - □ Pantoprazole (Protonix) 40 mg IV/PO qd
-      - □ Aspirin □ 81 mg □ 325 mg PO qd (starting 8 hours after arrival); hold for platelet count <60,000 or chest tube drainage >50 mL/h
-      - □ Warfarin ___ mg starting ___; check with HO for daily dose (use warfarin protocol) (see Appendix 8)
-      - □ Ascorbic acid 1 g PO qd × 5 days
-      - □ Nitroglycerin 50 mg/250 mL D5W at 10–15 μg/min until taking PO (radial artery prophylaxis); then convert to:
-        - □ Amlodipine 5 mg PO qd □ Amlodipine 10 mg PO qd
-      - □ Isosorbide mononitrate sustained release (Imdur) 20 mg PO qd
-      - □ Simvastatin ___ mg qd hs (no more than 20 mg if on amiodarone)
-      - □ Mupirocin 2% (Bactroban ointment) via Q-tip nasal swab the evening after surgery and bid × 3 days
-      - □ Chlorhexidine 0.12% oral wash (Peridex) 15 mL soft swab and rub oral cavity while intubated q12h
-    - **e. Prn medications**
-      - □ Acetaminophen 650 mg PO/PR q4h prn temp >38.5°C
-      - □ Metoclopramide 10 mg IV/PO q6h prn nausea
-      - □ Ondansetron 4–8 mg IV q4h prn nausea
-      - □ KCl 20 mEq/50 mL D5W via central line to keep K<sup>+</sup> >4.5 mEq/L:
-        - □ KCl 10 mEq over 30 min for K<sup>+</sup> 4.0–4.5
-        - □ KCl 20 mEq over 60 min for K<sup>+</sup> 3.5–3.9
-        - □ KCl 40 mEq over 90 min for K<sup>+</sup> <3.5
-      - □ Initiate hyperglycemia protocol if blood glucose >150 mg/dL on admission or any time within the first 48 hours (see Appendix 6)
-      - □ Other: ________
+    - Allergies: ________
+    - a. IV drips:
+      - Dextrose 5% in 0.45% NS 250 mL via Cordis/triple lumen to KVO
+      - Arterial line and distal Swan-Ganz port: NS flushes at 3 mL/h
+      - Epinephrine 1 mg/250 mL D5W: ___ μg/min to maintain cardiac index >2.0 (0.01–0.06 μg/kg/min or 1–4 μg/min)
+      - Milrinone 20 mg/100 mL D5W: ___ μg/kg/min (0.25–0.75 μg/kg/min)
+      - Dobutamine 250 mg/250 mL D5W: ___ μg/kg/min (5–20 μg/kg/min)
+      - Norepinephrine 4–8 mg/250 mL D5W: ___ μg/min to keep systolic BP >100 (0.01–1.0 μg/kg/min)
+      - Phenylephrine 20 mg/250 mL NS: ___ μg/min to keep systolic BP >100 (0.1–3.0 μg/kg/min)
+      - Vasopressin 100 units/250 mL D5W: ___ units/min (0.01–0.1 units/min)
+      - Nitroprusside 50 mg/250 mL D5W: ___ μg/kg/min to keep systolic BP <130 (0.1–8 μg/kg/min)
+      - Clevidipine 50 mg/100 mL D5W: ___ mg/h to keep systolic BP <130 (2–21 mg/h)
+      - Nicardipine 25 mg/250 mL D5W: ___ mg/h to keep BP <130 (5–15 mg/h)
+      - Nitroglycerin 50 mg/250 mL D5W: ___ μg/kg/min (0.1–5 μg/kg/min)
+      - Diltiazem: 100 mg/100 mL D5W: ___ mg/h (for radial artery prophylaxis)
+      - Esmolol 2.5 g/250 mL NS: ___ μg/kg/min (25–100 μg/kg/min)
+      - Amiodarone: after initial IV load in OR, 900 mg/500 mL D5W: 1 mg/min × 6 hours, then decrease to 0.5 mg/min × 18 hours
+      - Lidocaine 2 g/250 mL D5W: ___ mg/min IV; wean off at 6:00 AM POD #1
+    - b. Antibiotics
+      - Cefazolin 1 g IV q8h for 6 doses
+      - Vancomycin 1 g IV q12h for 4 doses
+    - c. Sedatives/analgesics
+      - Propofol infusion 10 mg/mL: 25–75 μg/kg/min; wean to off per protocol
+      - Dexmedetomidine: 400 μg (2 vials of 2 mL of 100 μg/mL solution)/100 mL NS: bolus dose of ___ (1 μg/kg) over 10 minutes, then maintenance infusion of ___ μg/kg/h (0.2–1.5 μg/kg/h)
+      - Midazolam 2 mg IV q2h prn agitation; stop after extubation
+      - Morphine sulfate ___ mg IV q2h prn for pain (while intubated)
+      - Meperidine 25–50 mg IV prn shivering
+      - Ketorolac 30–60 mg IV q6h prn for moderate-severe pain (4–10 on pain scale); stop after 72 hours
+      - Acetaminophen 650 mg PO/IV q4h prn pain (maximum 4 g/day)
+      - Oxycodone with acetaminophen (Percocet) 5/325 mg 1–2 tabs PO q4h prn for pain after extubation; start with 1 tab for mild pain (1–3 on pain scale); give additional tab 60 minutes later if no change in pain. Give 2 tabs for moderate-severe pain (4–10 on pain scale)
+    - d. Other medications
+      - β-blocker starting at 8:00 AM on POD #1, then q12 h; hold for HR <60 or SBP <100
+      - Metoprolol ___ mg PO/per NG tube bid (12.5–100 mg bid)
+      - Carvedilol ___ mg PO/per NG tube bid (3.125–25 mg bid)
+      - Amiodarone 400 mg PO bid to start after amiodarone infusion discontinued
+      - Magnesium sulfate 2 g in 50 mL NS IV over 2 hours on POD #1 in AM
+      - Sucralfate 1 g per NG tube q6h until NG tube removed
+      - Pantoprazole (Protonix) 40 mg IV/PO qd
+      - Aspirin □ 81 mg □ 325 mg PO qd (starting 8 hours after arrival); hold for platelet count <60,000 or chest tube drainage >50 mL/h
+      - Warfarin ___ mg starting ___; check with HO for daily dose (use warfarin protocol) (see Appendix 8)
+      - Ascorbic acid 1 g PO qd × 5 days
+      - Nitroglycerin 50 mg/250 mL D5W at 10–15 μg/min until taking PO (radial artery prophylaxis); then convert to:
+        - Amlodipine 5 mg PO qd □ Amlodipine 10 mg PO qd
+      - Isosorbide mononitrate sustained release (Imdur) 20 mg PO qd
+      - Simvastatin ___ mg qd hs (no more than 20 mg if on amiodarone)
+      - Mupirocin 2% (Bactroban ointment) via Q-tip nasal swab the evening after surgery and bid × 3 days
+      - Chlorhexidine 0.12% oral wash (Peridex) 15 mL soft swab and rub oral cavity while intubated q12h
+    - e. PRN medications
+      - Acetaminophen 650 mg PO/PR q4h prn temp >38.5°C
+      - Metoclopramide 10 mg IV/PO q6h prn nausea
+      - Ondansetron 4–8 mg IV q4h prn nausea
+      - KCl 20 mEq/50 mL D5W via central line to keep K<sup>+</sup> >4.5 mEq/L:
+        - KCl 10 mEq over 30 min for K<sup>+</sup> 4.0–4.5
+        - KCl 20 mEq over 60 min for K<sup>+</sup> 3.5–3.9
+        - KCl 40 mEq over 90 min for K<sup>+</sup> <3.5
+      - Initiate hyperglycemia protocol if blood glucose >150 mg/dL on admission or any time within the first 48 hours (see Appendix 6)
+      - Other: ________
 
 </div></details>
 
@@ -292,117 +294,117 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 ## Appendix 5: Typical Transfer Orders from the ICU</summary><div class="details-content">
 
-**ALLERGIES:** ________
+ALLERGIES: ________
 
 1. Transfer to: ________
 2. Procedure: ________
 3. Condition: ________
 4. Nursing
-   - □ Vital signs q4h × 2 days, then qshift
-   - □ ECG telemetry
-   - □ I & O q8h
-   - □ Daily weights
-   - □ Foley catheter to gravity drainage; D/C on/at ___; due to void in 8 hours
-   - □ Chest tubes to –20 cm H<sub>2</sub>O suction
-   - □ Ambulate in hall with cardiac rehab
-   - □ T.E.D. stockings
-   - □ SpO<sub>2</sub> q8h and 1 time before and after ambulation
-   - □ Wire and wound care per protocol
-   - □ Wean oxygen via nasal prongs from 6 L/min to 2 L/min to keep SpO<sub>2</sub> >92%
-   - □ Incentive spirometry q1h when awake
-   - □ Glucose via fingerstick/glucometer AC and qhs in diabetics
-   - □ Notify house staff for:
-     - ⚬ Heart rate <60 or >110
-     - ⚬ Systolic BP <90 or >150 mm Hg
-     - ⚬ Oxygen saturation <90% on room air
-     - ⚬ Temperature >38.5°C (>101°F)
-   - □ Saline lock, flush q8h, and prn
+   - Vital signs q4h × 2 days, then qshift
+   - ECG telemetry
+   - I & O q8h
+   - Daily weights
+   - Foley catheter to gravity drainage; D/C on/at ___; due to void in 8 hours
+   - Chest tubes to –20 cm H<sub>2</sub>O suction
+   - Ambulate in hall with cardiac rehab
+   - T.E.D. stockings
+   - SpO<sub>2</sub> q8h and 1 time before and after ambulation
+   - Wire and wound care per protocol
+   - Wean oxygen via nasal prongs from 6 L/min to 2 L/min to keep SpO<sub>2</sub> >92%
+   - Incentive spirometry q1h when awake
+   - Glucose via fingerstick/glucometer AC and qhs in diabetics
+   - Notify house staff for:
+     - Heart rate <60 or >110
+     - Systolic BP <90 or >150 mm Hg
+     - Oxygen saturation <90% on room air
+     - Temperature >38.5°C (>101°F)
+   - Saline lock, flush q8h, and prn
 5. Diet
-   - □ NPO
-   - □ Clear liquids/no added salt (NAS)
-   - □ Full liquids/NAS
-   - □ NAS, low fat, low cholesterol diet
-   - □ cal ADA, NAS low cholesterol diet, if diabetic
-   - □ Fluid restriction ___ mL per 24 h (IV + PO)
+   - NPO
+   - Clear liquids/no added salt (NAS)
+   - Full liquids/NAS
+   - NAS, low fat, low cholesterol diet
+   - cal ADA, NAS low cholesterol diet, if diabetic
+   - Fluid restriction ___ mL per 24 h (IV + PO)
 6. Temporary pacemaker settings
-   - □ Pacemaker on: Mode: □ Atrial □ VVI □ DVI □ DDD
+   - Pacemaker on: Mode: □ Atrial □ VVI □ DVI □ DDD
    - Atrial output: ___ mA
    - Ventricular output: ___ mA
    - Rate: ___ /min
    - AV interval: ___ msec
-   - □ Pacer attached but off
-   - □ Detach pacer but keep at bedside
+   - Pacer attached but off
+   - Detach pacer but keep at bedside
 7. Laboratory studies
-   - □ Chest x-ray after chest tube removal
-   - □ In AM after transfer: CBC, electrolytes, BUN, creatinine, blood glucose
-   - □ Daily PT/INR if on warfarin
-   - □ Daily PTT and platelet count if on heparin (see Appendix 7)
-   - □ On day prior to discharge: chest x-ray, ECG, CBC, electrolytes, BUN, creatinine
+   - Chest x-ray after chest tube removal
+   - In AM after transfer: CBC, electrolytes, BUN, creatinine, blood glucose
+   - Daily PT/INR if on warfarin
+   - Daily PTT and platelet count if on heparin (see Appendix 7)
+   - On day prior to discharge: chest x-ray, ECG, CBC, electrolytes, BUN, creatinine
 8. Consults
-   - □ Cardiac rehabilitation
-   - □ Social services
-   - □ Physical therapy
-   - □ Occupational therapy
-   - □ Nutrition
+   - Cardiac rehabilitation
+   - Social services
+   - Physical therapy
+   - Occupational therapy
+   - Nutrition
 9. Medications
-   - **a. Antibiotics**
-     - □ Cefazolin 1 g IV q8h for ___ more doses (6 doses total); last dose on ___/___ at ___ hours
-     - □ Vancomycin 1 g IV q12h for ___ more doses (4 doses total); last dose on ___/___ at ___ hours
-     - □ Mupirocin 2% (Bactroban ointment) via Q-tip nasal swab the evening after surgery and bid × 3 days total
-   - **b. Cardiovascular medications**
-     - □ Metoprolol ___ mg PO q12h. Hold for HR <60 or SBP <100
-     - □ Carvedilol ___ mg PO q12h. Hold for HR <60 or SBP <100
-     - □ Amiodarone ___ mg PO q12h
-     - □ Lisinopril ___ mg PO qd
-     - □ Diltiazem 30 mg PO q6h (radial artery grafts)
-     - □ Amlodipine 5 mg PO qd (radial artery grafts)
-     - □ Imdur (sustained release) 20 mg PO qd (radial artery grafts)
-     - □ Simvastatin ___ mg qd hs (no more than 20 mg if on amiodarone)
-   - **c. Anticoagulants/antiplatelet agents**
-     - □ Aspirin □ 81 mg □ 325 mg PO qd (hold for platelet count <60,000)
-     - □ Clopidogrel 75 mg PO qd
-     - □ Ticagrelor 90 mg PO bid
-     - □ Low-molecular-weight heparin (Lovenox) ___ mg SC
-     - □ Heparin 5000 units SC bid
-     - □ Heparin 25,000 units/500 mL D5W at ___ units/h starting on ___ (per protocol – see Appendix 7)
-     - □ Warfarin ___ mg PO qd starting on ___; daily dose check with HO (per protocol – see Appendix 8)
-   - **d. Pain medications**
-     - □ Morphine sulfate via PCA pump or 10 mg IM q3h prn severe pain
-     - □ Ketorolac 15–30 mg IV q6h prn moderate–severe pain (4–10 on pain scale); D/C after 72 hours
-     - □ Acetaminophen with oxycodone (Percocet) 2 tabs PO q4h for severe pain (6–10)
-     - □ Acetaminophen with oxycodone (Percocet) 1 tab PO q4h for moderate pain; give additional tab if no change in pain after 1 hour
-     - □ Acetaminophen 650 mg PO q4h prn mild pain
-   - **e. GI medications**
-     - □ Pantoprazole (Protonix) 40 mg PO qd
-     - □ For nausea:
-       - □ Metoclopramide 10 mg IV/PO q6h prn
-       - □ Ondansetron 4–8 mg IV/PO q4h prn
-       - □ Prochlorperazine 10 mg PO/IM/IV q6h prn
-     - □ Milk of magnesia 30 mL PO qhs prn
-     - □ Docusate (Colace) 100 mg PO bid
-     - □ Bisacodyl (Dulcolax) 10 mg suppository prn constipation
-   - **f. Diabetes medications**
-     - □ Oral hypoglycemic: ___
-     - □ ___ units regular insulin (Novolin R or Humulin R) SC qAM qPM
-     - □ ___ units NPH insulin (Novolin N or Humulin N) SC qAM qPM
-     - □ Sliding scale: treat fingerstick/glucometer glucose according to the following scale at 06:00 AM, 11:00 AM, 3:00 PM, and 8:00 PM
+   - a. Antibiotics
+     - Cefazolin 1 g IV q8h for ___ more doses (6 doses total); last dose on ___/___ at ___ hours
+     - Vancomycin 1 g IV q12h for ___ more doses (4 doses total); last dose on ___/___ at ___ hours
+     - Mupirocin 2% (Bactroban ointment) via Q-tip nasal swab the evening after surgery and bid × 3 days total
+   - b. Cardiovascular medications
+     - Metoprolol ___ mg PO q12h. Hold for HR <60 or SBP <100
+     - Carvedilol ___ mg PO q12h. Hold for HR <60 or SBP <100
+     - Amiodarone ___ mg PO q12h
+     - Lisinopril ___ mg PO qd
+     - Diltiazem 30 mg PO q6h (radial artery grafts)
+     - Amlodipine 5 mg PO qd (radial artery grafts)
+     - Imdur (sustained release) 20 mg PO qd (radial artery grafts)
+     - Simvastatin ___ mg qd hs (no more than 20 mg if on amiodarone)
+   - c. Anticoagulants/antiplatelet agents
+     - Aspirin □ 81 mg □ 325 mg PO qd (hold for platelet count <60,000)
+     - Clopidogrel 75 mg PO qd
+     - Ticagrelor 90 mg PO bid
+     - Low-molecular-weight heparin (Lovenox) ___ mg SC
+     - Heparin 5000 units SC bid
+     - Heparin 25,000 units/500 mL D5W at ___ units/h starting on ___ (per protocol – see Appendix 7)
+     - Warfarin ___ mg PO qd starting on ___; daily dose check with HO (per protocol – see Appendix 8)
+   - d. Pain medications
+     - Morphine sulfate via PCA pump or 10 mg IM q3h prn severe pain
+     - Ketorolac 15–30 mg IV q6h prn moderate-severe pain (4–10 on pain scale); D/C after 72 hours
+     - Acetaminophen with oxycodone (Percocet) 2 tabs PO q4h for severe pain (6–10)
+     - Acetaminophen with oxycodone (Percocet) 1 tab PO q4h for moderate pain; give additional tab if no change in pain after 1 hour
+     - Acetaminophen 650 mg PO q4h prn mild pain
+   - e. GI medications
+     - Pantoprazole (Protonix) 40 mg PO qd
+     - For nausea:
+       - Metoclopramide 10 mg IV/PO q6h prn
+       - Ondansetron 4–8 mg IV/PO q4h prn
+       - Prochlorperazine 10 mg PO/IM/IV q6h prn
+     - Milk of magnesia 30 mL PO qhs prn
+     - Docusate (Colace) 100 mg PO bid
+     - Bisacodyl (Dulcolax) 10 mg suppository prn constipation
+   - f. Diabetes medications
+     - Oral hypoglycemic: ___
+     - ___ units regular insulin (Novolin R or Humulin R) SC qAM qPM
+     - ___ units NPH insulin (Novolin N or Humulin N) SC qAM qPM
+     - Sliding scale: treat fingerstick/glucometer glucose according to the following scale at 06:00 AM, 11:00 AM, 3:00 PM, and 8:00 PM
        - 150–160, give 2 units regular insulin SC (Novolin R or Humulin R)
        - 161–200, give 4 units regular insulin SC
        - 201–250, give 6 units regular insulin SC
        - 251–300, give 8 units regular insulin SC
        - 301–350, give 10 units regular insulin SC
        - >350, call house officer
-   - **g. Other medications**
-     - □ Acetaminophen 650 mg PO q3h prn temp >38.5°C
-     - □ Ascorbic acid 1 g PO qd × 5 days
-     - □ Zolpidem 2.5–5 mg PO qhs prn sleep
-     - □ Melatonin ___ mg PO qhs prn sleep (1.5–3 mg usual dose)
-     - □ Furosemide ___ mg IV/PO q ___ h
-     - □ Potassium chloride ___ mEq PO bid (while on furosemide)
-     - □ Albuterol 2.5 mg/5 mL NS via nebulizer q4h prn
-     - □ Levalbuterol (Xopenex) 0.63 mg in 3 mL NS q8h via nebulizer or two inhalations q4–6h through a pressured MDI
-     - □ Duoneb inhaler q6h
-     - □ Other: ________
+   - g. Other medications
+     - Acetaminophen 650 mg PO q3h prn temp >38.5°C
+     - Ascorbic acid 1 g PO qd × 5 days
+     - Zolpidem 2.5–5 mg PO qhs prn sleep
+     - Melatonin ___ mg PO qhs prn sleep (1.5–3 mg usual dose)
+     - Furosemide ___ mg IV/PO q ___ h
+     - Potassium chloride ___ mEq PO bid (while on furosemide)
+     - Albuterol 2.5 mg/5 mL NS via nebulizer q4h prn
+     - Levalbuterol (Xopenex) 0.63 mg in 3 mL NS q8h via nebulizer or two inhalations q4–6h through a pressured MDI
+     - Duoneb inhaler q6h
+     - Other: ________
 
 </div></details>
 
@@ -412,12 +414,12 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 **Goal: to maintain blood sugar (BS) between 110 and 150 mg/dL after surgery**
 
-- □ Check glucometer BS q1h
-- □ Decrease to q4h if no changes in insulin drip rate for 6 hours and serum BS <130 on three consecutive measurements.
-- □ Correlate glucometer BS to serum BS daily
-- □ Maintain serum potassium between 4.0 and 4.5 mEq/L
-- □ Page house officer for BS <90 or >320 mg/dL
-- □ Initiate protocol for BS >150 mg/dL on admission or at any subsequent time with regular insulin 100 units/100 mL NS continuous infusion
+- Check glucometer BS q1h
+- Decrease to q4h if no changes in insulin drip rate for 6 hours and serum BS <130 on three consecutive measurements.
+- Correlate glucometer BS to serum BS daily
+- Maintain serum potassium between 4.0 and 4.5 mEq/L
+- Page house officer for BS <90 or >320 mg/dL
+- Initiate protocol for BS >150 mg/dL on admission or at any subsequent time with regular insulin 100 units/100 mL NS continuous infusion
 
 | Blood Sugar | Regular Insulin IV Bolus | Infusion Rate |
 |-------------|--------------------------|---------------|
@@ -441,11 +443,13 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 ### Transition to Subcutaneous Insulin
 
-- □ ___ units Insulin glargine (Lantus) SC daily
-- □ ___ units Insulin aspart (Novolog) SC tid with first dose 30 minutes prior to stopping insulin infusion
+- ___ units Insulin glargine (Lantus) SC daily
+- ___ units Insulin aspart (Novolog) SC tid with first dose 30 minutes prior to stopping insulin infusion
 
 1. Take the average hourly requirement for insulin (in units/h) for the past 4 hours and multiply by 24 for the total daily dose of insulin (e.g. 1 unit/h × 24 = 24 units/day)
+
 2. Give 80% of that dose for total daily dose of SC insulin (e.g. 24 units becomes 20 units/day), giving half as insulin glargine (basal) and half as insulin aspart (very fast acting) divided into 3 daily doses. Subsequent requirements may be adjusted based upon response to these initial doses.
+
 3. In this example, for 20 units/day, the patient would receive 10 units of Lantus and approximately 4 units of Novolog tid.
 
 </div></details>
@@ -463,16 +467,22 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 7. Guaiac all stools
 8. Notify house officer for any bleeding, PTT <35 or >100 seconds
 9. Discontinue all previous heparin orders. Do not administer for 12 hours after last dose of low-molecular-weight heparin
+
 10. Heparin bolus
-    - □ No bolus
-    - □ Give IV bolus of 50–75 mg/kg = ___ units (round to nearest 100)
+    - No bolus
+    - Give IV bolus of 50–75 mg/kg = ___ units (round to nearest 100)
+
 11. Heparin infusion 25,000/500 mL of 0.45% NS @ ___ units/h (usually 15–18 units/kg)
-    - 40–60 kg → 600 units/h
-    - 61–70 kg → 800 units/h
-    - 71–80 kg → 1000 units/h
-    - 81–90 kg → 1100 units/h
-    - 91–100 kg → 1200 units/h
-    - >100 kg → 1500 units/h
+
+    | Weight | Infusion rate |
+    |--------|---------------|
+    | 40–60 kg | 600 units/h |
+    | 61–70 kg | 800 units/h |
+    | 71–80 kg | 1000 units/h |
+    | 81–90 kg | 1100 units/h |
+    | 91–100 kg | 1200 units/h |
+    | >100 kg | 1500 units/h |
+
 12. Heparin adjustment schedule
 
 | PTT (sec) | Infusion Rate | Recheck PTT in |
@@ -492,7 +502,6 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 ## Appendix 8: Protocol for Initiating Warfarin</summary><div class="details-content">
 
 **Assess whether patient is at greater risk for sensitivity to warfarin – if so, use low-dose protocol**
-
 - a. Small, elderly females
 - b. Over age 75
 - c. Renal (creatinine >1.5 mg/dL) or hepatic dysfunction
@@ -537,9 +546,9 @@ Patients with NYHA class IV and AHA stage D heart failure may be classified as I
 
 <details class="med-details"><summary>
 
-## Appendix 10A: The CHA₂DS₂‑VASc Score</summary><div class="details-content">
+## Appendix 10A: The CHA<sub>2</sub>DS<sub>2</sub>-VASc Score</summary><div class="details-content">
 
-The CHA₂DS₂‑VASc score provides a prediction of the risk of stroke in the patient with nonrheumatic atrial fibrillation if not managed with anticoagulation.
+The CHA<sub>2</sub>DS<sub>2</sub>-VASc score provides a prediction of the risk of stroke in the patient with nonrheumatic atrial fibrillation if not managed with anticoagulation.
 
 | Points | Condition |
 |--------|-----------|
@@ -567,7 +576,7 @@ The CHA₂DS₂‑VASc score provides a prediction of the risk of stroke in the 
 | 8 | 12.5 |
 | 9 | 15.2 |
 
-**General recommendations are:**
+General recommendations are:
 - No anticoagulation for male with 0 or female with 1 point
 - Consider an oral anticoagulant for a male with a score of 1
 - Anticoagulation for a score of ≥2
@@ -576,9 +585,9 @@ The CHA₂DS₂‑VASc score provides a prediction of the risk of stroke in the 
 
 <details class="med-details"><summary>
 
-## Appendix 10B: The HAS‑BLED Score</summary><div class="details-content">
+## Appendix 10B: The HAS-BLED Score</summary><div class="details-content">
 
-The HAS‑BLED score is a predictive model of the one-year risk of major bleeding due to anticoagulation, including intracranial bleeding, hospitalization, hemoglobin decrease >2 g/dL, and/or need for transfusion. A score ≥3 is considered a high risk for bleeding.
+The HAS-BLED score is a predictive model of the one-year risk of major bleeding due to anticoagulation, including intracranial bleeding, hospitalization, hemoglobin decrease >2 g/dL, and/or need for transfusion. A score ≥3 is considered a high risk for bleeding.
 
 | Points | Condition |
 |--------|-----------|
@@ -753,27 +762,27 @@ H, hepatic metabolism; R, renal elimination; M, metabolized in the bloodstream
 | Simvastatin (Zocor) | 10–80 mg PO qd | H | no change |
 | **Diuretics** | | | |
 | Acetazolamide (Diamox) | 250–500 mg PO qid | R | reduce |
-| Bumetanide (Bumex) | 0.5–2 mg PO qd | H | no change |
+| Bumetanide (Bumex) | 0.5–2 mg PO qid | H | no change |
 | Furosemide (Lasix) | 10–100 mg PO bid | R > H | no change |
-| Hydrochlorothiazide (Hydrodiuril) | 50–100 mg PO qd | R | no change |
-| Metolazone (Zaroxolyn) | 2.5–10 mg PO qd | R | no change |
-| Torsemide | 5–20 mg PO qd | H > R | no change |
+| Hydrochlorothiazide (Hydrodiuril) | 50–100 mg PO qid | R | no change |
+| Metolazone (Zaroxolyn) | 2.5–10 mg PO qid | R | no change |
+| Torsemide | 5–20 mg PO qid | H > R | no change |
 | **Potassium-sparing diuretics** | | | |
-| Amiloride (Midador) | 5–10 mg PO qd | R | avoid |
-| Eplerenone (Inspra) | 50 mg PO qd | H | no change |
-| Spironolactone (Aldactone) | 25 mg PO qd | R | avoid |
+| Amiloride (Midador) | 5–10 mg PO qid | R | avoid |
+| Eplerenone (Inspra) | 50 mg PO qid | H | no change |
+| Spironolactone (Aldactone) | 25 mg PO qid | R | avoid |
 | **Psychotropics/Sedatives/Antidepressants** | | | |
 | Alprazolam (Xanax) | 0.25–0.5 mg PO tid | H, R | reduce |
 | Amitriptyline (Elavil) | 10–20 mg PO qhs or bid | H | no change |
 | Bupropion (Wellbutrin, Zyban) | 100 mg PO bid | H | no change |
 | Buspirone (Buspar) | 7.5 mg PO bid | — | no change |
 | Chlordiazepoxide (Librium) | 5–25 mg PO tid | H | no change |
-| Citalopram (Celexa) | 20 mg PO qd | H | no change |
-| Fluoxetine (Prozac) | 20–40 mg PO qd | H | no change |
+| Citalopram (Celexa) | 20 mg PO qid | H | no change |
+| Fluoxetine (Prozac) | 20–40 mg PO qid | H | no change |
 | Haloperidol (Haldol) | 0.5–2.5 mg PO tid | H | no change |
 | Lorazepam (Ativan) | 0.5–2 mg PO bid or hs | H | no change |
-| Olanzapine (Zyprexa) | 5–10 mg PO qd | H | no change |
-| Paroxetine (Paxil) | 20–50 mg PO qd | H/R | reduce |
+| Olanzapine (Zyprexa) | 5–10 mg PO qid | H | no change |
+| Paroxetine (Paxil) | 20–50 mg PO qid | H/R | reduce |
 | Quetiapine (Seroquel) | 25–100 mg PO bid | H | no change |
 | Risperidone (Risperdal) | 2 mg PO qd | H | no change |
 | Sertraline (Zoloft) | 50–200 mg PO qd | H | no change |
@@ -805,9 +814,9 @@ H, hepatic metabolism; R, renal elimination; M, metabolized in the bloodstream
 ### Preoperative Conditions
 
 #### 1. Chronic lung disease
-- **a. Mild:** FEV₁ 60–75% of predicted, and/or on chronic inhaled or oral bronchodilator therapy
-- **b. Moderate:** FEV₁ 50–59% of predicted, and/or on chronic oral/systemic steroid therapy aimed at lung disease
-- **c. Severe:** FEV₁ <50% and/or room air pO₂ <60 or pCO₂ >50
+- **a. Mild:** FEV<sub>1</sub> 60–75% of predicted, and/or on chronic inhaled or oral bronchodilator therapy
+- **b. Moderate:** FEV<sub>1</sub> 50–59% of predicted, and/or on chronic oral/systemic steroid therapy aimed at lung disease
+- **c. Severe:** FEV<sub>1</sub> <50% and/or room air pO<sub>2</sub> <60 or pCO<sub>2</sub> >50
 
 #### 2. Peripheral arterial disease (excludes carotid, cerebrovascular disease, or thoracic aorta)
 - a. Claudication, either with exertion or at rest
@@ -835,7 +844,7 @@ H, hepatic metabolism; R, renal elimination; M, metabolized in the bloodstream
   - iii. In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, a random plasma glucose ≥200 mg/dL (11.1 mmol/L)
 
 #### 5. Renal failure
-Renal failure on dialysis is the only criterion listed on version 4.20 STS entry forms. The serum creatinine is a data entry, and the stage of chronic kidney disease noted below is helpful in assessing the risk of acute kidney injury or the risk of dialysis. GFR is measured in mL/min/1.73 m².
+Renal failure on dialysis is the only criterion listed on version 4.20 STS entry forms. The serum creatinine is a data entry, and the stage of chronic kidney disease noted below is helpful in assessing the risk of acute kidney injury or the risk of dialysis. GFR is measured in mL/min/1.73 m<sup>2</sup>.
 - a. Stage 1: GFR >90
 - b. Stage 2: GFR 60–89
 - c. Stage 3a: GFR 45–59
@@ -873,7 +882,7 @@ The patient presented with a STEMI or its equivalent as documented in the medica
 - b. Cardiac biomarkers (CK-MB, troponin T or I) exceed the upper limit of normal with a clinical presentation which is consistent or suggestive of ischemia.
 
 #### 12. Cardiogenic shock
-A sustained (>30 min) episode of hypoperfusion evidenced by systolic blood pressure <90 mm Hg and/or, if available, cardiac index <2.2 L/min/m² secondary to cardiac dysfunction and/or the requirement for parenteral inotropic or vasopressor agents or mechanical support (e.g. IABP, extracorporeal circulation, VADs) to maintain blood pressure and cardiac index above those specified levels.
+A sustained (>30 min) episode of hypoperfusion evidenced by systolic blood pressure <90 mm Hg and/or, if available, cardiac index <2.2 L/min/m<sup>2</sup> secondary to cardiac dysfunction and/or the requirement for parenteral inotropic or vasopressor agents or mechanical support (e.g. IABP, extracorporeal circulation, VADs) to maintain blood pressure and cardiac index above those specified levels.
 
 #### 13. Resuscitation
 CPR required within 24 hours prior to induction of anesthesia for surgery, which may include use of ECMO or mechanical circulatory support exclusive of an IABP.
