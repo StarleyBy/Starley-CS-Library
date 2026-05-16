@@ -77,6 +77,7 @@ The risk of aspiration is minimized by: having the patient fast for several hour
 
 #### TABLE 3.1: TEE Contraindications and Clinical Features Associated With Increased Procedural Risk</summary><div class="details-content">
 
+<span id="table-3-1"></span>
 **Contraindications to Esophageal Ultrasound Probe Positioning**
 
 | Absolute | Relative |
@@ -106,6 +107,7 @@ The risk of aspiration is minimized by: having the patient fast for several hour
 
 #### TABLE 3.2: TEE Risk of Complications</summary><div class="details-content">
 
+<span id="table-3-2"></span>
 | Complication | Rate (%) |
 |--------------|----------|
 | Death | <0.01–0.02 |
@@ -292,7 +294,7 @@ As the transducer is passed into the stomach, slight resistance may be encounter
 
 <span id="fig-3-17"></span>![](_page_12_Picture_3.jpeg)
 
-**FIGURE 3.17** Transgastric short-axis at the mitral valve level. The position of the image plane is shown on the 3D heart with the tomographic view rotated to the standard TEE image orientation to correspond to the systolic and diastolic echocardiographic images. From the transgastric short-axis view of the LV, slight withdrawal of the probe toward the gastroesophageal junction may allow a short-axis view of the mitral valve with definition of the anterior mitral valve leaflets *(AMVL)* and posterior mitral valve leaflets *(PMVL)*.
+**FIGURE 3.17** Transgastric short-axis at the mitral valve level. The position of the image plane is shown on the 3D heart with the tomographic view rotated to the standard TEE image orientation to correspond to the systolic and diastolic echocardiographic images. From the transgastric short-axis view of the LV, slight withdrawal of the probe toward the gastroesophageal junction may allow a short-axis view of the mitral valve with definition of the anterior mitral valve leaflets *(AMVL)* and posterior mitral valve leaflets *(PMVL).*
 
 </div></details>
 
@@ -426,6 +428,7 @@ The tricuspid regurgitant jet is recorded from either TEE or transgastric views;
 
 #### TABLE 3.3: TEE Valve Views</summary><div class="details-content">
 
+<span id="table-3-3"></span>
 | Valve | Probe Position | Imaging View | Rotation Angle | Doppler |
 |-------|----------------|--------------|----------------|---------|
 | Aortic | ME | Long-axis<br>Short-axis<br>5-chamber | ~120°–130°<br>~30°–50°<br>0° (anteriorly angulated) | • Color Doppler for regurgitation and level of outflow obstruction |
@@ -512,6 +515,7 @@ The coronary sinus is identified in a posteriorly angled four-chamber view. The 
 
 #### TABLE 3.4: Transesophageal Views for Evaluation of Cardiac Chambers, Great Vessels, and Atrial Septum</summary><div class="details-content">
 
+<span id="table-3-4"></span>
 | Chamber or Structure | Probe Position | Imaging View | Rotation Angle | Doppler or Other |
 |----------------------|----------------|--------------|----------------|------------------|
 | Left ventricle | ME | 4-chamber<br>2-chamber<br>Long-axis | 0°<br>60°–90°<br>120° | Pulsed Doppler LV inflow for diastolic function<br>Speckle tracking LV strain for global and regional function if needed |
@@ -623,4 +627,4 @@ This basic examination is supplemented with additional 3D image acquisitions, ad
 
 </div></details>
 
-</div></details>
+</div></details
