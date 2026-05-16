@@ -425,7 +425,8 @@ async function initLoader() {
                     const bookData = await metaResponse.json();
                     const bookMeta = Array.isArray(bookData) ? bookData[0] : bookData;
                     const opt = new Option(`${cat.title}: ${bookMeta.title}`, bookPath);
-                    opt.dataset.chapters = JSON.stringify(bookMeta.chapters);
+                    opt.dataset.chapters = JSON.stringify(bookMeta.chapters || []);
+                    opt.dataset.appendices = JSON.stringify(bookMeta.appendices || []);
                     bookSelect.add(opt);
                 }
             }
@@ -436,11 +437,22 @@ async function initLoader() {
             chapterSelect.innerHTML = '<option value="">Select a chapter...</option>';
             const selectedOption = bookSelect.options[bookSelect.selectedIndex];
             const chapters = JSON.parse(selectedOption.dataset.chapters || '[]');
+            const appendices = JSON.parse(selectedOption.dataset.appendices || '[]');
             
             chapters.forEach(ch => {
                 const chapterId = ch.file.replace('.md', '');
                 chapterSelect.add(new Option(ch.title, chapterId));
             });
+
+            if (appendices.length > 0) {
+                const group = document.createElement('optgroup');
+                group.label = 'Appendices';
+                appendices.forEach(app => {
+                    const appId = app.file.replace('.md', '');
+                    group.appendChild(new Option(app.title, appId));
+                });
+                chapterSelect.add(group);
+            }
         };
 
         // Функция загрузки файла
