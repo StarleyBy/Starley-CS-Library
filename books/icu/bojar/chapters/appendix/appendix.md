@@ -538,7 +538,7 @@ ALLERGIES: ________
 
 ## Appendix 9: INR Reversal Protocol</summary><div class="details-content">
 
-![](_page_19_Figure_1.jpeg)
+![](_page_18_Figure_3.jpeg)
 
 *PCC = 3-factor (Profilnine) or 4-factor (Kcentra) prothrombin complex concentrate
 
@@ -944,7 +944,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ## Appendix 15: Body Surface Area Nomogram</summary><div class="details-content">
 
-![](_page_37_Picture_2.jpeg)
+![](_page_40_Figure_3.jpeg)
 
 </div></details>
 
@@ -952,7 +952,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ## Appendix 16: Body Mass Index Chart</summary><div class="details-content">
 
-![](_page_38_Picture_2.jpeg)
+![](_page_40_Figure_4.jpeg)
 
 </div></details>
 
@@ -960,29 +960,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ## Appendix 17: Aortic Size Index for Thoracic Aneurysms</summary><div class="details-content">
 
-| | \multicolumn{10}{c|}{Aortic Size (cm)} |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **BSA (m²)** | 3.5 | 4.0 | 4.5 | 5.0 | 5.5 | 6.0 | 6.5 | 7.0 | 7.5 | 8.0 |
-| 1.30 | 2.69 | 3.08 | 3.46 | 3.85 | 4.23 | 4.62 | 5.00 | 5.38 | 5.77 | 6.15 |
-| 1.40 | 2.50 | 2.86 | 3.21 | 3.57 | 3.93 | 4.29 | 4.64 | 5.00 | 5.36 | 5.71 |
-| 1.50 | 2.33 | 2.67 | 3.00 | 3.33 | 3.67 | 4.00 | 4.33 | 4.67 | 5.00 | 5.33 |
-| 1.60 | 2.19 | 2.50 | 2.80 | 3.13 | 3.44 | 3.75 | 4.06 | 4.38 | 4.69 | 5.00 |
-| 1.70 | 2.05 | 2.35 | 2.65 | 2.94 | 3.24 | 3.53 | 3.82 | 4.12 | 4.41 | 4.71 |
-| 1.80 | 1.94 | 2.22 | 2.50 | 2.78 | 3.06 | 3.33 | 3.61 | 3.89 | 4.17 | 4.44 |
-| 1.90 | 1.84 | 2.11 | 2.37 | 2.63 | 2.89 | 3.16 | 3.42 | 3.68 | 3.95 | 4.22 |
-| 2.00 | 1.75 | 2.00 | 2.25 | 2.50 | 2.75 | 3.00 | 3.25 | 3.50 | 3.75 | 4.00 |
-| 2.10 | 1.67 | 1.90 | 2.14 | 2.38 | 2.62 | 2.86 | 3.10 | 3.33 | 3.57 | 3.80 |
-| 2.20 | 1.59 | 1.82 | 2.05 | 2.27 | 2.50 | 2.72 | 2.95 | 3.18 | 3.41 | 3.64 |
-| 2.30 | 1.52 | 1.74 | 1.96 | 2.17 | 2.39 | 2.61 | 2.83 | 3.04 | 3.26 | 3.48 |
-| 2.40 | 1.46 | 1.67 | 1.88 | 2.08 | 2.29 | 2.50 | 2.71 | 2.92 | 3.13 | 3.33 |
-| 2.50 | 1.40 | 1.60 | 1.80 | 2.00 | 2.20 | 2.40 | 2.60 | 2.80 | 3.00 | 3.20 |
-
-- = Low risk (~4% per year)
-- = Moderate risk (~7% per year)
-- = High risk (~12% per year)
-- = Severe risk (~18% per year)
-
-*Reproduced with permission from Davies et al., Ann Thorac Surg 2006;81:169–77.*
+![](_page_40_Figure_5.jpeg)
 
 </div></details>
 
@@ -990,30 +968,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ## Appendix 18: Aortic Height Index for Thoracic Aneurysms</summary><div class="details-content">
 
-| | | \multicolumn{10}{c|}{Aortic Size (cm)} |
-|---|---|---|---|---|---|---|---|---|---|---|
-| **Height (inches)** | **Height (m)** | 3.5 | 4.0 | 4.5 | 5.0 | 5.5 | 6.0 | 6.5 | 7.0 | 7.5 | 8.0 |
-| 55 | 1.40 | 2.50 | 2.86 | 3.21 | 3.57 | 3.93 | 4.29 | 4.64 | 5.00 | 5.36 | 5.71 |
-| 57 | 1.45 | 2.41 | 2.76 | 3.10 | 3.45 | 3.79 | 4.14 | 4.48 | 4.83 | 5.17 | 5.52 |
-| 59 | 1.50 | 2.33 | 2.67 | 3.00 | 3.33 | 3.67 | 4.00 | 4.33 | 4.67 | 5.00 | 5.33 |
-| 61 | 1.55 | 2.26 | 2.58 | 2.90 | 3.23 | 3.55 | 3.87 | 4.19 | 4.52 | 4.84 | 5.16 |
-| 63 | 1.60 | 2.19 | 2.50 | 2.81 | 3.13 | 3.44 | 3.75 | 4.06 | 4.38 | 4.69 | 5.00 |
-| 65 | 1.65 | 2.12 | 2.42 | 2.73 | 3.03 | 3.33 | 3.64 | 3.94 | 4.24 | 4.55 | 4.85 |
-| 67 | 1.70 | 2.06 | 2.35 | 2.65 | 2.94 | 3.24 | 3.53 | 3.82 | 4.12 | 4.41 | 4.71 |
-| 69 | 1.75 | 2.00 | 2.29 | 2.57 | 2.86 | 3.14 | 3.43 | 3.71 | 4.00 | 4.29 | 4.57 |
-| 71 | 1.80 | 1.94 | 2.22 | 2.50 | 2.78 | 3.06 | 3.33 | 3.61 | 3.89 | 4.17 | 4.44 |
-| 73 | 1.85 | 1.89 | 2.16 | 2.43 | 2.70 | 2.97 | 3.24 | 3.51 | 3.78 | 4.05 | 4.32 |
-| 75 | 1.90 | 1.84 | 2.11 | 2.37 | 2.63 | 2.89 | 3.16 | 3.42 | 3.68 | 3.95 | 4.21 |
-| 77 | 1.95 | 1.79 | 2.05 | 2.31 | 2.56 | 2.82 | 3.08 | 3.33 | 3.59 | 3.85 | 4.10 |
-| 79 | 2.00 | 1.75 | 2.00 | 2.25 | 2.50 | 2.75 | 3.00 | 3.25 | 3.50 | 3.75 | 4.00 |
-| 81 | 2.05 | 1.71 | 1.95 | 2.20 | 2.44 | 2.68 | 2.93 | 3.17 | 3.41 | 3.66 | 3.90 |
-
-- = Low risk (~4% per year)
-- = Moderate risk (~7% per year)
-- = High risk (~12% per year)
-- = Severe risk (~18% per year)
-
-*Reproduced with permission from Zafar et al., J Thorac Cardiovasc Surg 2018;155:1938–50.*
+![](_page_40_Figure_6.jpeg)
 
 </div></details>
 
@@ -1021,11 +976,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 ## Appendix 19: Aortic Height and Length Index for Thoracic Aneurysms</summary><div class="details-content">
 
-![](_page_41_Figure_2.jpeg)
-
-![](_page_41_Figure_3.jpeg)
-
-*Reproduced with permission from Wu et al., J Thorac Cardiovasc Surg 2019;74:1883–94.*
+![](_page_40_Figure_7.jpeg)
 
 </div></details>
 
@@ -1049,7 +1000,7 @@ An infection that occurs within 30 days after the procedure that involves any pa
 
 **1. Skin incision.** One percent lidocaine is used for local anesthesia. A subcutaneous wheal is raised over the fifth or sixth intercostal space in the midaxillary line. The needle is passed to the upper border of the rib and the periosteum is anesthetized. Fluid should be aspirated from an effusion to confirm its location. A 1 cm incision is then made.
 
-![](_page_42_Picture_2.jpeg)
+![](_page_42_Picture_3.jpeg)
 
 **FIGURE A2** Technique for Tube Thoracostomy
 
