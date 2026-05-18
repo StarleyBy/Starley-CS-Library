@@ -83,11 +83,12 @@ During the acquisition of 3D images, transducer position is adjusted to optimize
 
 #### TABLE 4.1: 3D Imaging Modalities</summary><div class="details-content">
 
+<span id="table-4-1"></span>
 | Modality | Advantages | Limitations |
 |----------|------------|-------------|
 | Real-time 3D mode—narrow section, volume-rendered images | • Rapid acquisition, familiar image planes<br>• Image can be rotated; helpful with complex cardiac anatomy | Narrow sector; entire structure does not fit in imaging plane. |
-| Real-time “zoom” volume rendered cropped images | • Shows anatomy in “surgical” views<br>• Enlarged 3D image of structure of interest | A wider field of view decreases spatial and temporal resolution. |
-| Full-volume gated acquisition for volume rendered cropped images | • High spatial resolution<br>• High temporal resolution<br>• Quantitation of LV volumes and ejection fraction<br>• Provides 3D LV shape and dyssynchrony | May be difficult to optimize image quality for all structures in the field of view. “Stitch” artifacts occur because of patient and respiratory motion. |
+| Real-time “zoom” volume-rendered cropped images | • Shows anatomy in “surgical” views<br>• Enlarged 3D image of structure of interest | A wider field of view decreases spatial and temporal resolution. |
+| Full-volume gated acquisition for volume-rendered cropped images | • High spatial resolution<br>• High temporal resolution<br>• Quantitation of LV volumes and ejection fraction<br>• Provides 3D LV shape and dyssynchrony | May be difficult to optimize image quality for all structures in the field of view. “Stitch” artifacts occur because of patient and respiratory motion. |
 | Full-volume gated acquisition for multiple 2D tomographic slices | • Accurate measurements of cardiac dimensions<br>• More objective and less operator dependent than standard 2D imaging<br>• Visualization of all myocardial segments simultaneously | Endocardial definition may be suboptimal depending on transducer position. |
 | Simultaneous multiplane 2D imaging | • Simultaneous images in two defined planes<br>• Highest spatial resolution<br>• Highest temporal resolution | Only two planes are visualized. |
 | 3D color Doppler | • Visualization of 3D geometry of vena contracta and proximal isovelocity surface area for regurgitant lesions<br>• Location of paravalvular prosthetic leaks and intracardiac shunts | This has a slow frame rate with low temporal resolution. |
@@ -145,9 +146,10 @@ Recommendations for volume-rendered 3D image displays ([Fig. 4.8](#fig-4-8)) are
 
 <details class="med-details"><summary>
 
-#### TABLE 4.2: 3D Echocardiography Imaging Protocol</summary><div class="details-content">
+#### TABLE 4.2: American Society of Echocardiography and European Association of Echocardiography Recommendations for a Systematic 3D Study</summary><div class="details-content">
 
-| Structure | TTE Image Acquisition | TEE Image Acquisition | Sequence for TEE Full-Volume Image Orientation |
+<span id="table-4-2"></span>
+| Structure | TTE Image Acquisition | TEE Image Acquisition | Sequence for TEE Full-Volume Image Orientation (See Fig. 4.8) |
 |-----------|----------------------|----------------------|------------------------------------------------|
 | Aortic valve | PLAX with and without color, narrow angle and zoomed* | 60° mid-esophageal short-axis with and without color, zoomed or full-volume<br>120° mid-esophageal long-axis with and without color, zoomed or full-volume | 2D views at 60° and 120° with aortic valve centered in acquisition boxes<br>Live 3D to optimize gain<br>Full-volume acquisition, and then rotated 90° clockwise around y-axis |
 | Mitral valve | PLAX with and without color, narrow angle and zoomed<br>A4C with and without color, narrow angle and zoomed | 0–120° mid-esophageal with and without color, zoomed | 2D views at 90° and 120° with mitral valve centered in acquisition boxes<br>Full-volume acquisition, rotated 90° counterclockwise around x-axis and then 90° counterclockwise in plane so aortic valve is superior |
@@ -216,9 +218,10 @@ The 3D color Doppler applications are challenging because of the low frame rates
 
 #### TABLE 4.3: Clinical Applications of 3D Echocardiography</summary><div class="details-content">
 
+<span id="table-4-3"></span>
 | Application | 3D Approach | Comments |
 |-------------|-------------|----------|
-| LV function | • Surface-rendered LV volumes, ejection fraction, and regional wall motion derived from gated full-volume 3D acquisition | • 3D echo underestimates LV volumes compared with CMR data.<br>• Trabeculae and papillary muscles are included in the LV chamber. |
+| LV function | • Surface-rendered LV volumes, ejection fraction, and regional wall motion derived from gated full-volume 3D acquisition | • 3D echo underestimates LV volumes compared with CMR data.<br>• Trabeculations and papillary muscles are included in the LV chamber. |
 | RV function | • Volume-rendered images allow visualization of entire RV.<br>• Surface-rendered images may allow measurement of volumes and ejection fraction. | • 3D measurement of RV volumes and ejection fraction requires further validation but is a promising approach. |
 | Mitral valve | • Volume-rendered images show mitral valve anatomy en face from the LA or LV side of the valve.<br>• Accurate measurement of valve area in mitral stenosis occurs using 3D-guided 2D image planes.<br>• Annular shape and dimensions are obtained from volumetric images.<br>• 3D color Doppler shows jet origin and direction. | • 3D TEE is recommended for guidance of interventional mitral valve procedures.<br>• 3D TTE or TEE is recommended for clinical evaluation of mitral valve pathology. |
 | Aortic valve and sinuses | • Volume-rendered images obtained from TTE parasternal or TEE high-esophageal views provide optimal spatial resolution.<br>• Planimetry of aortic valve area is possible on 2D images derived from the 3D full-volume data set.<br>• 3D images demonstrate the oval shape of the aortic annulus. | • 3D imaging may be helpful in determining the mechanism of aortic regurgitation and defining the number of valve leaflets.<br>• 3D imaging is recommended for guidance of transcatheter aortic valve implantation. |
@@ -227,6 +230,8 @@ The 3D color Doppler applications are challenging because of the low frame rates
 | LA and RA | • 3D volume-rendered images of the atrial septum are helpful for defining the location, size, and shape of atrial septal defects and for guiding transcatheter closure procedures. | • 3D imaging may improve assessment of LA volume but is not a routine measurement. |
 | LA appendage | • 3D volume-rendered images are helpful in guiding transcatheter LA appendage closure. | • Biplane imaging of the LA appendage is useful in evaluating for LA thrombus. |
 | 3D stress echocardiography | • 3D imaging provides simultaneous evaluation of wall motion in all myocardial segments, improved visualization of the LV apex, and rapid image acquisition at peak stress. | • Disadvantages of 3D stress imaging include lower frame rates and spatial resolution compared with 2D imaging.<br>• Not all 3D systems allow side-by-side review of rest and stress images. |
+
+*CMR,* Cardiac magnetic resonance. *Summarized from Lang RM, Badano LP, Tsang W, et al: EAE/ASE recommendations for image acquisition and display using three-dimensional echocardiography. J Am Soc Echocardiogr 25(1):3–46, 2012.*
 
 </div></details>
 
@@ -279,11 +284,11 @@ Doppler blood flow velocity measurements are based on backscatter of low-amplitu
 
 $$SR = (V_2 - V_1)/D \tag{Eq. 4.1}$$
 
-The units of strain are seconds<sup>−1</sup> (or /s) because the velocity measured in centimeters per second is divided by the distance in centimeters. Typically, strain rate is measured in the apical-base direction, in the apical four-chamber view with three sample volumes placed in the septal or lateral wall myocardium about 12 mm apart. The tissue Doppler mean velocity curves are examined to ensure a clear signal without excessive noise, lack of aliasing, and avoidance of blood pool signals (see [Fig. 4.12](#fig-4-12)). The instrument calculates strain rate from these velocity curves for each time point and displays strain rate in seconds<sup>−1</sup> as a function of time. The strain rate curve looks like a vertical mirror image of the velocity curve because myocardial shortening is a negative strain and myocardial lengthening is a positive strain. Strain rate provides data on relative timing of myocardial motion and peak systolic and diastolic strain rates. Peak systolic strain rate is a measure of ventricular contractile function that is insensitive to changes in loading conditions.
+The units of strain are seconds⁻¹ (or /s) because the velocity measured in centimeters per second is divided by the distance in centimeters. Typically, strain rate is measured in the apical-base direction, in the apical four-chamber view with three sample volumes placed in the septal or lateral wall myocardium about 12 mm apart. The tissue Doppler mean velocity curves are examined to ensure a clear signal without excessive noise, lack of aliasing, and avoidance of blood pool signals (see [Fig. 4.12](#fig-4-12)). The instrument calculates strain rate from these velocity curves for each time point and displays strain rate in seconds⁻¹ as a function of time. The strain rate curve looks like a vertical mirror image of the velocity curve because myocardial shortening is a negative strain and myocardial lengthening is a positive strain. Strain rate provides data on relative timing of myocardial motion and peak systolic and diastolic strain rates. Peak systolic strain rate is a measure of ventricular contractile function that is insensitive to changes in loading conditions.
 
 *Strain* is a measure of deformation of a material, defined as the difference between the final length (*l*) and the original length (*l₀*), divided by the original length. Thus strain can be thought of as the percentage change in length:
 
-$$Strain = [(l - l₀)/l₀] \times 100\% \tag{Eq. 4.2}$$
+$$\text{Strain} = [(l - l₀)/l₀] \times 100\% \tag{Eq. 4.2}$$
 
 Strain can be estimated from the tissue Doppler strain rate by integrating the curve over time.
 
@@ -333,13 +338,14 @@ Abnormalities in LV twist and torsion have been described in patients with heart
 
 <details class="med-details"><summary>
 
-#### TABLE 4.4: Modalities for Myocardial Mechanics</summary><div class="details-content">
+#### TABLE 4.4: Cardiac Mechanics: Approaches and Clinical Applications</summary><div class="details-content">
 
+<span id="table-4-4"></span>
 | Modality | Methodology | Clinical Applications |
 |----------|-------------|----------------------|
 | Tissue Doppler imaging | Measurement of the velocity (cm/s) of motion of the myocardium either as a single point with pulsed Doppler or over an image plane with color Doppler | • Tissue Doppler myocardial velocities are standard measures of LV diastolic function. |
 | Tissue Doppler strain rate (SR) and strain imaging | Tissue Doppler velocities at several sites or color Doppler across the image are used to measure SR:<br>SR = (V₂ − V₁) / D | • SR is a measure of ventricular contractility.<br>• SR is integrated to determine strain, a measure of regional myocardial function.<br>• The utility of tissue color Doppler is limited by angle dependence and high signal noise for derived SR and strain. |
-| Myocardial speckle tracking strain (STE) | Strain is measured directly from the motion of myocardial speckles across the 2D image or in 3D as:<br>[L − L₀ / L₀] × 100% | • Myocardial STE is angle independent.<br>• STE analysis can be performed after image acquisition.<br>• STE strain and SR may improve evaluation of LV diastolic function, but further validation is needed.<br>• STE strain and SR can improve accuracy of stress echocardiography by experts. |
+| Myocardial speckle tracking strain (STE) | Strain is measured directly from the motion of myocardial speckles across the 2D image or in 3D as:<br>[(L − L₀) / L₀] × 100% | • Myocardial STE is angle independent.<br>• STE analysis can be performed after image acquisition.<br>• STE strain and SR may improve evaluation of LV diastolic function, but further validation is needed.<br>• STE strain and SR can improve accuracy of stress echocardiography by experts. |
 | Myocardial dyssynchrony | Multiple 2D, pulsed Doppler, and tissue Doppler methods | • The degree of dyssynchrony may predict the response to biventricular pacer therapy. |
 | LV rotation, twist, and torsion | Rotation is the circular motion of the LV myocardium around its long axis, measured in degrees, using STE.<br>Twist is the absolute difference in rotation between the LV base and apex (degrees).<br>Torsion is the gradient in rotation angle from base to apex, measured as degrees per centimeter. | • STE-measured abnormalities in LV rotation, twist, and torsion have been described in patients with heart failure and coronary, valve, and pericardial disease.<br>• Limitations of these measurements include lack of standardization of imaging planes and a need to define normal values.<br>• Clinical use of this methodology is not currently recommended. |
 | LV dyssynchrony | Approaches to measuring interventricular dyssynchrony include M-mode, 2D tissue Doppler, STE, and 3D echo. | • Currently there is no clear role for echocardiographic measures of ventricular dyssynchrony in the management of patients with heart failure. |
@@ -364,7 +370,7 @@ Two types of echo-contrast agents are used, those that opacify the:
 - Right heart
 - Left heart and myocardium
 
-Depending on the size of the microbubbles relative to the lung capillary diameter, the microbubbles are trapped in the pulmonary capillaries so that no contrast material is seen in the left heart in the absence of an intracardiac right-to-left communication ([Fig. 4.16](#fig-4-16)). Microbubbles in the 1- to 5-µm size range traverse the pulmonary bed; microbubbles in this size range resonate at a frequency of 1.5 to 7 MHz, corresponding to clinical transducer frequencies.
+Depending on the size of the microbubbles relative to the lung capillary diameter, the microbubbles are trapped in the pulmonary capillaries so that no contrast material is seen in the left heart in the absence of an intracardiac right-to-left communication ([Fig. 4.16](#fig-4-16)). Microbubbles in the 1- to 5-μm size range traverse the pulmonary bed; microbubbles in this size range resonate at a frequency of 1.5 to 7 MHz, corresponding to clinical transducer frequencies.
 
 <span id="fig-4-16"></span>![](_page_17_Figure_3.jpeg)
 
@@ -404,6 +410,7 @@ Assessment of myocardial perfusion with contrast echocardiography is technically
 
 #### TABLE 4.5: Indications for Contrast Echocardiography</summary><div class="details-content">
 
+<span id="table-4-5"></span>
 **Right heart contrast (e.g., agitated saline)**
 - Detection of atrial septal defects and patent foramen ovale
 - Documentation of persistent left superior vena cava
@@ -508,6 +515,7 @@ The transseptal catheter produces “tenting” of the atrial septum when correc
 
 #### TABLE 4.6: Clinical Applications of Intracardiac Echocardiography</summary><div class="details-content">
 
+<span id="table-4-6"></span>
 | Primary Role in Procedure Guidance | Supplemental or Evolving Role in Procedure Guidance | Investigational Role as Primary Guidance Modality |
 |------------------------------------|------------------------------------------------------|---------------------------------------------------|
 | Closure of interatrial communications (ASD, PFO) | TAVI | Mitral valve clip |

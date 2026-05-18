@@ -214,6 +214,7 @@ Fractional shortening is a rough measurement of LV systolic function, with the n
 
 ##### TABLE 6.1: Left Ventricular Linear Measurements on TTE and TEE</summary><div class="details-content">
 
+<span id="table-6-1"></span>
 | | TTE-2D | TTE-2D Guided M-Mode | TEE |
 |---|---|---|---|
 | Transducer position | Parasternal | Parasternal | Transgastric |
@@ -289,6 +290,7 @@ Data are displayed as a cine loop 3D-rendered LV volume, a graph of LV volume ov
 
 ##### TABLE 6.2: 2D and 3D Apical Acquisition for Left Ventricular Volumes</summary><div class="details-content">
 
+<span id="table-6-2"></span>
 | | 2D | 3D |
 |---|---|---|
 | Window | Apical<br>• Patient in steep left lateral position<br>• Apical cutout in exam stretcher<br>• Avoid apical foreshortening. | Apical<br>• Patient in steep left lateral position<br>• Apical cutout in exam stretcher<br>• Adjust transducer position to ensure inclusion of entire LV. |
@@ -302,6 +304,7 @@ Data are displayed as a cine loop 3D-rendered LV volume, a graph of LV volume ov
 
 ##### TABLE 6.3: American Society of Echocardiography and European Association of Cardiovascular Imaging Recommendations for Left Ventricular Quantification</summary><div class="details-content">
 
+<span id="table-6-3"></span>
 | Parameter | Recommended Measurements | Comments | Reference Values |
 |---|---|---|---|
 | LV size | 2D LV volumes (biplane method, indexed to BSA) | Should be routinely assessed on all diagnostic echo studies. | Upper limits of normal EDV<br>• Men: 74 mL/m²<br>• Women: 61 mL/m²<br>LV ESV<br>• Men: 31 mL/m²<br>• Women: 24 mL/m² |
@@ -670,6 +673,7 @@ RV hypertrophy is manifested as an RV free wall thickness >0.5 cm. RV wall thick
 
 #### TABLE 6.4: American Society of Echocardiography and European Association of Cardiovascular Imaging Recommendations for Right Ventricular Chamber Quantification</summary><div class="details-content">
 
+<span id="table-6-4"></span>
 | Parameter | Recommended Measurements | Comments | Reference Values |
 |---|---|---|---|
 | RV size | • RV linear ED internal dimensions at base and mid-RV (apical views)<br>• RV outflow tract ED diameter proximally and at pulmonic annulus (parasternal views)<br>• 2D imaging from multiple acoustic windows<br>• 3D RV volumes | • Both qualitative and quantitative measures should be routinely assessed on all diagnostic echo studies.<br>• End-diastolic diameter, inner edge to inner edge (white-black interface)<br>• Recommended when feasible depending on image quality. Not routine in most laboratories. | Upper limits of normal RV size<br>Basal RV <42 mm<br>Mid-RV <36 mm<br>Proximal RVOT <36 mm<br>Distal RVOT <28 mm |
@@ -866,6 +870,7 @@ RA pressure is best estimated from evaluation of the inferior vena cava during r
 
 #### TABLE 6.5: Estimation of Pulmonary Artery Pressures by Doppler Echocardiography</summary><div class="details-content">
 
+<span id="table-6-5"></span>
 | Variable | Calculation | Normal Range | Comments |
 |---|---|---|---|
 | TR velocity (VTR) | Measured with CW Doppler | <2.5 m/s | Parallel angle required; underestimation common |
@@ -881,6 +886,7 @@ RA pressure is best estimated from evaluation of the inferior vena cava during r
 
 #### TABLE 6.6: Estimation of Right Atrial Pressure</summary><div class="details-content">
 
+<span id="table-6-6"></span>
 | IVC Diameter* | Change With Sniff | Range Estimate† | ASE Guidelines‡ |
 |---|---|---|---|
 | Normal (≤2.1 cm) | Decrease >50% | 0–5 mmHg | 3 mmHg |
