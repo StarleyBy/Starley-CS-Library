@@ -217,6 +217,7 @@ Segmental (or regional) LV systolic function most often is evaluated using a sem
 
 $$ \text{Wall motion score index} = \frac{\text{Sum of individual segment scores}}{\text{Number of segments visualized}} \tag{Eq. 8.1} $$
 
+<span id="table-8-1"></span>
 <details class="med-details"><summary>
 
 #### TABLE 8.1: Qualitative Scale for Assessment of Segmental Wall Motion</summary><div class="details-content">
@@ -256,6 +257,21 @@ Contrast now is routinely used to enhance endocardial definition with improved r
 
 Because echocardiographic wall motion at rest is normal in a patient with significant coronary artery disease and no prior myocardial infarction, imaging *during ischemia* is needed for diagnosis. Inducing ischemia during echocardiographic imaging is referred to as *stress echocardiography.* Ischemia can be induced by increasing myocardial oxygen demand either with exercise or by pharmacologic interventions ([Table 8.2](#table-8-2)).
 
+<span id="table-8-2"></span>
+<details class="med-details"><summary>
+
+#### TABLE 8.2: Stress Echocardiography</summary><div class="details-content">
+
+| Type of Stress | Advantages | Disadvantages |
+|---|---|---|
+| Treadmill exercise | Widely available<br>High workload<br>Validated data on exercise duration and heart rate recovery | Imaging post–exercise treadmill only |
+| Bicycle ergometry | Imaging during exercise | Imaging may be technically difficult.<br>Lower workload<br>Less validated data on exercise duration and prognosis |
+| Dobutamine + atropine | Continuous imaging.<br>Does not require physically active patient | Potential adverse effects of dobutamine<br>Level of stress achieved |
+| Vasodilator | Continuous imaging<br>Does not require physically active patient | Potential adverse effects of vasodilator agent<br>Induction of relative flow inequality rather than ischemia per se |
+| Atrial pacing | Continuous imaging<br>Does not require physically active patient | Requires permanent pacer<br>Does not simulate exercise |
+
+</div></details>
+
 <details class="med-details"><summary>
 
 ### Basic Principles of Stress Echocardiography</summary><div class="details-content">
@@ -281,20 +297,6 @@ The sensitivity of stress echocardiography for detection of coronary disease dep
 <span id="fig-8-12"></span>![](_page_9_Figure_10.jpeg)
 
 **FIGURE 8.12** Multiplane imaging for evaluation of regional function. Example of a multiplane display derived from a full volume 3D stress echocardiogram. The *lower right* panel displays simultaneous short-axis views from apex *(upper left)* to base *(lower right)* of the left ventricle. The distance between each adjacently displayed short-axis image is equal, and positions of these transverse cropping planes are shown as *white lines* on the coronal and sagittal crops.
-
-<details class="med-details"><summary>
-
-#### TABLE 8.2: Stress Echocardiography</summary><div class="details-content">
-
-| Type of Stress | Advantages | Disadvantages |
-|---|---|---|
-| Treadmill exercise | Widely available<br>High workload<br>Validated data on exercise duration and heart rate recovery | Imaging post–exercise treadmill only |
-| Bicycle ergometry | Imaging during exercise | Imaging may be technically difficult.<br>Lower workload<br>Less validated data on exercise duration and prognosis |
-| Dobutamine + atropine | Continuous imaging.<br>Does not require physically active patient | Potential adverse effects of dobutamine<br>Level of stress achieved |
-| Vasodilator | Continuous imaging<br>Does not require physically active patient | Potential adverse effects of vasodilator agent<br>Induction of relative flow inequality rather than ischemia per se |
-| Atrial pacing | Continuous imaging<br>Does not require physically active patient | Requires permanent pacer<br>Does not simulate exercise |
-
-</div></details>
 
 </div></details>
 
@@ -408,6 +410,23 @@ Stress echocardiography in patients with abnormal global or regional function at
 
 In patients with suspected or known coronary artery disease, the choice of stress and imaging modality depends on patient-related factors and on the specific clinical question. Optimally, the method of stress is chosen to allow an adequate workload in that patient with pharmacologic testing used in patients who cannot exercise to a maximal workload due to orthopedic, neurologic, pulmonary, or other conditions. The choice of imaging modality is based on image quality in each patient and the type of information needed ([Table 8.3](#table-8-3)).
 
+<span id="table-8-3"></span>
+<details class="med-details"><summary>
+
+#### TABLE 8.3: Approaches for Evaluation of Myocardial Ischemia</summary><div class="details-content">
+
+| Diagnostic Approach | Methodology | Advantages | Disadvantages |
+|---|---|---|---|
+| Stress ECG | Exercise testing on a treadmill or bicycle with continuous 12-lead ECG recording | • Low cost; widely available; appropriate for initial diagnosis in many patients<br>• Exercise testing provides data on exercise capacity, blood pressure and heart rate response, and possible provoked symptoms. | • Low sensitivity and specificity, particularly in women; requires ability to exercise to adequate workload |
+| Stress echo | Exercise or pharmacologic stress with echo imaging of wall motion | • Higher sensitivity and specificity compared with stress ECG; identifies affected coronary distribution and area of myocardium at risk; noninvasive, no ionizing radiation | • Image quality may be suboptimal in larger patients but can be improved with contrast. |
+| Stress SPECT nuclear perfusion imaging | Exercise or pharmacologic stress testing with radiotracer visualization of myocardial perfusion | • Noninvasive, more sensitive and specific than stress ECG testing; identifies affected coronary distribution and area of myocardium at risk. It is highly prognostic of outcomes.<br>• Late reperfusion imaging allows evaluation of myocardial viability. | • Ionizing radiation<br>• Poor image quality in very obese patients. Attenuation correction with SPECT improves this. |
+| Stress PET imaging | Exercise or pharmacologic stress testing with radiotracer visualization of myocardial perfusion | • Noninvasive, sensitive and specific for diagnosis of coronary disease. Improved image quality in larger patients provides prognosis.<br>• Quantification of absolute myocardial blood flow and coronary flow reserve | • Small amount of ionizing radiation; not widely available; cost<br>• Pharmacologic stress only (no exercise) |
+| Coronary angiography | Injection of contrast dye in coronary arteries at cardiac catheterization. | • Direct and detailed visualization of coronary anatomy<br>• Can be combined with intravascular ultrasound and fractional flow reserve measurements<br>• Allows prompt therapeutic intervention following diagnosis | • Invasive, use of contrast dye, ionizing radiation exposure, cost<br>• Poor correlation between stenosis severity and physiology |
+| CT coronary angiography | High-resolution ECG-gated CT imaging with IV contrast administration | • Noninvasive detailed images of coronary anatomy and ability to characterize intracoronary plaque | • Use of contrast dye, ionizing radiation exposure, cost |
+| CMR imaging | Resting images for evaluation of coronary artery anatomy and for evaluation of myocardial infarction and fibrosis; stress perfusion imaging possible | • Allows identification of coronary anomalies<br>• Viable myocardium can reliably be distinguished from infarcted tissue.<br>• Wall motion at rest and stress and myocardial perfusion can be evaluated using CMR cine images with a pharmacologic stress test. | • Cost, complexity; not widely available |
+
+</div></details>
+
 <span id="fig-8-18"></span>![](_page_15_Picture_2.jpeg)
 
 **FIGURE 8.18** Right coronary artery seen on a transthoracic echocardiography parasternal short-axis view. *Ao,* Aorta; *PA,* pulmonary artery.
@@ -421,22 +440,6 @@ In patients with suspected or known coronary artery disease, the choice of stres
 **FIGURE 8.20** Left anterior descending coronary artery on transesophageal echocardiography. In the same patient as [Fig. 8.18,](#fig-8-18) slight withdrawal of the probe with angulation toward the apex shows the left main coronary artery continuing into the left anterior descending coronary artery *(arrow).* The circumflex coronary artery extends out of the image plane. *Ao,* Aorta; *LAA,* left atrial appendage.
 
 The origins of the right and left coronary arteries often can be identified on transthoracic imaging ([Fig. 8.18](#fig-8-18)). On TEE imaging the proximal left coronary can be followed to its bifurcation into left anterior descending and circumflex arteries ([Figs. 8.19](#fig-8-19) and [8.20](#fig-8-20)), and often these branches can be imaged for a portion of their length, as can the right coronary artery. However, clinical decision making usually requires detailed knowledge of the entire extent of the coronary anatomy. Ultrasound imaging is a suboptimal method for evaluation of the relatively small coronary vessels that move with the epicardial surface of the heart.
-
-<details class="med-details"><summary>
-
-#### TABLE 8.3: Approaches for Evaluation of Myocardial Ischemia</summary><div class="details-content">
-
-| Diagnostic Approach | Methodology | Advantages | Disadvantages |
-|---|---|---|---|
-| Stress ECG | Exercise testing on a treadmill or bicycle with continuous 12-lead ECG recording | • Low cost; widely available; appropriate for initial diagnosis in many patients<br>• Exercise testing provides data on exercise capacity, blood pressure and heart rate response, and possible provoked symptoms. | • Low sensitivity and specificity, particularly in women; requires ability to exercise to adequate workload |
-| Stress echo | Exercise or pharmacologic stress with echo imaging of wall motion | • Higher sensitivity and specificity compared with stress ECG; identifies affected coronary distribution and area of myocardium at risk; noninvasive, no ionizing radiation | • Image quality may be suboptimal in larger patients but can be improved with contrast. |
-| Stress SPECT nuclear perfusion imaging | Exercise or pharmacologic stress testing with radiotracer visualization of myocardial perfusion | • Noninvasive, more sensitive and specific than stress ECG testing; identifies affected coronary distribution and area of myocardium at risk. It is highly prognostic of outcomes.<br>• Late reperfusion imaging allows evaluation of myocardial viability. | • Ionizing radiation<br>• Poor image quality in very obese patients. Attenuation correction with SPECT improves this. |
-| Stress PET imaging | Exercise or pharmacologic stress testing with radiotracer visualization of myocardial perfusion | • Noninvasive, sensitive and specific for diagnosis of coronary disease. Improved image quality in larger patients provides prognosis.<br>• Quantification of absolute myocardial blood flow and coronary flow reserve | • Small amount of ionizing radiation; not widely available; cost<br>• Pharmacologic stress only (no exercise) |
-| Coronary angiography | Injection of contrast dye in coronary arteries at cardiac catheterization. | • Direct and detailed visualization of coronary anatomy<br>• Can be combined with intravascular ultrasound and fractional flow reserve measurements<br>• Allows prompt therapeutic intervention following diagnosis | • Invasive, use of contrast dye, ionizing radiation exposure, cost<br>Poor correlation between stenosis severity and physiology |
-| CT coronary angiography | High-resolution ECG-gated CT imaging with IV contrast administration | • Noninvasive detailed images of coronary anatomy and ability to characterize intracoronary plaque | • Use of contrast dye, ionizing radiation exposure, cost |
-| CMR imaging | Resting images for evaluation of coronary artery anatomy and for evaluation of myocardial infarction and fibrosis; stress perfusion imaging possible | • Allows identification of coronary anomalies<br>• Viable myocardium can reliably be distinguished from infarcted tissue.<br>• Wall motion at rest and stress and myocardial perfusion can be evaluated using CMR cine images with a pharmacologic stress test. | • Cost, complexity; not widely available |
-
-</div></details>
 
 </div></details>
 
@@ -464,6 +467,7 @@ Stress echocardiography also can be used to evaluate changes in cardiac hemodyna
 - Aortic coarctation pressure gradients
 - Dynamic outflow obstruction in hypertrophic cardiomyopathy
 
+<span id="table-8-4"></span>
 <details class="med-details"><summary>
 
 #### TABLE 8.4: Coronary Artery Disease: Clinical-Echocardiographic Correlates</summary><div class="details-content">
@@ -528,7 +532,7 @@ The myocardial segments affected and the echocardiographic views for assessment 
 
 <span id="fig-8-21"></span>![](_page_18_Figure_3.jpeg)
 
-**FIGURE 8.21** (No original caption provided.)
+**FIGURE 8.21** Old anterior myocardial infarction. Biplane imaging in an apical four-chamber *(A4C)* and apical long-axis *(A-long)* view at end-diastole *(top)* shows thinning and increased echogenicity of the apical inferior and anterior septum *(arrows).* In systole *(bottom),* akinesis of the apical one half of the anterior and inferior septum, as well as the entire apical cap and apical segments of the lateral and posterior walls, is noted, as indicated by the arrows. These findings are consistent with prior infarction in the territory of the left anterior descending coronary artery.
 
 <span id="fig-8-22"></span>![](_page_19_Figure_2.jpeg)
 
@@ -662,21 +666,22 @@ A thrombus is identified as an area of increased echogenicity within the ventric
 
 Diagnosis of apical thrombi is enhanced by using a 5-MHz transducer (improved near-field resolution), sliding the transducer laterally from the apical window, and then angulating it medially and superiorly to obtain a short-axis view of the apex. These procedures allow clear definition of the apical endocardium in most individuals. However, if images are suboptimal, appropriate interpretation should indicate that a thrombus “cannot be excluded,” especially if the patient is at high risk of LV thrombus formation. Note that TEE imaging is less helpful for this diagnosis because the apex often is not fully visualized and is in the far field of the image plane.
 
+<span id="table-8-5"></span>
 <details class="med-details"><summary>
 
 #### TABLE 8.5: Complications of Acute Myocardial Infarction</summary><div class="details-content">
 
 | Complication | Incidence | Pathophysiology | Echocardiographic Findings |
 |---|---|---|---|
-| Pericarditis and pericardial effusion | 5% | • Occurs in first 4 days after reperfused acute MI | • Small circumferential pericardial effusion<br>• Larger effusion raises concern for LV rupture. |
-| RV infarction | 30%–50% of patients with inferior MI | • Occlusion of the acute marginal branch of the RCA; often associated with inferior LV myocardial infarction | • Dilated hypokinetic or akinetic RV<br>• Infarction of adjacent inferior LV wall |
-| Ischemic MR | 25% | • Infarction or ischemia of the papillary muscle results in MR.<br>• No audible murmur in 50%<br>• More common with inferior-posterior MI<br>• Papillary muscle rupture is uncommon, but ischemic MR is seen in about 1/4 of patients with MI. | • Moderate to severe mitral regurgitation<br>• TEE often needed to identify cause of MR |
-| Ventricular septal defect | <0.5% | • Transmural infarction with hemorrhage in necrotic zone<br>• Occurs most often 24 h after reperfusion in older women with single vessel disease | • Discrete septal defect in area of akinesis with left-to-right flow seen on color and CW Doppler |
-| Free wall rupture and tamponade | 0.8% | • Transmural infarction with hemorrhage in necrotic zone<br>• Most likely involves inferolateral wall with circumflex or LAD occlusion | • Large pericardial effusion with tamponade<br>• Acute fatal event unless temporarily sealed by fibrinous pericardial adhesions |
-| LV pseudoaneurysm | Rare | • Free wall rupture contained by organized thrombus and pericardium<br>• Occurs most often with circumflex and RCA occlusion in the basal inferior-posterior walls | • Discrete akinetic dilated area with a narrow neck between the LV and pseudoaneurysm cavity<br>• Lined with thrombus, which may be mistaken for a thick wall. |
-| LV aneurysm | 8%–15% | • Myocardial thinning and dilation due to infarct expansion 24 to 72 h after acute MI<br>• The thin aneurysm walls are composed of fibrotic myocardium.<br>• Occurs most often at the LV apex with LAD occlusion | • Thin, bright, dyskinetic LV segment with a diastolic contour abnormality<br>• Often with associated thrombus |
-| LV thrombus | 5%–10% | • Peak incidence is 3 days post-MI but may occur within hours in areas of infarction and akinesis, most commonly at the apex. | • Echogenic mass, distinct from myocardium, often protruding into the chamber, with underlying akinesis, typically at the apex |
-| LV systolic dysfunction | Variable | • Extent of LV regional and global systolic dysfunction depends on infarct size, timing and success of reperfusion, and medical therapy. | • Location and size of the regional wall motion abnormalities correspond to infarct size.<br>• Overall ejection fraction also reflects adverse LV remodeling. |
+| Pericarditis and pericardial effusion | 5% | Occurs in first 4 days after reperfused acute MI | Small circumferential pericardial effusion; larger effusion raises concern for LV rupture. |
+| RV infarction | 30%–50% of patients with inferior MI | Occlusion of the acute marginal branch of the RCA; often associated with inferior LV myocardial infarction | Dilated hypokinetic or akinetic RV; infarction of adjacent inferior LV wall |
+| Ischemic MR | 25% | Infarction or ischemia of the papillary muscle results in MR. No audible murmur in 50%. More common with inferior-posterior MI. Papillary muscle rupture is uncommon, but ischemic MR is seen in about 1/4 of patients with MI. | Moderate to severe mitral regurgitation; TEE often needed to identify cause of MR |
+| Ventricular septal defect | <0.5% | Transmural infarction with hemorrhage in necrotic zone; occurs most often 24 h after reperfusion in older women with single vessel disease | Discrete septal defect in area of akinesis with left-to-right flow seen on color and CW Doppler |
+| Free wall rupture and tamponade | 0.8% | Transmural infarction with hemorrhage in necrotic zone; most likely involves inferolateral wall with circumflex or LAD occlusion | Large pericardial effusion with tamponade; acute fatal event unless temporarily sealed by fibrinous pericardial adhesions |
+| LV pseudoaneurysm | Rare | Free wall rupture contained by organized thrombus and pericardium; occurs most often with circumflex and RCA occlusion in the basal inferior-posterior walls | Discrete akinetic dilated area with a narrow neck between the LV and pseudoaneurysm cavity; lined with thrombus, which may be mistaken for a thick wall. |
+| LV aneurysm | 8%–15% | Myocardial thinning and dilation due to infarct expansion 24 to 72 h after acute MI; the thin aneurysm walls are composed of fibrotic myocardium; occurs most often at the LV apex with LAD occlusion | Thin, bright, dyskinetic LV segment with a diastolic contour abnormality; often with associated thrombus |
+| LV thrombus | 5%–10% | Peak incidence is 3 days post-MI but may occur within hours in areas of infarction and akinesis, most commonly at the apex. | Echogenic mass, distinct from myocardium, often protruding into the chamber, with underlying akinesis, typically at the apex |
+| LV systolic dysfunction | Variable | Extent of LV regional and global systolic dysfunction depends on infarct size, timing and success of reperfusion, and medical therapy. | Location and size of the regional wall motion abnormalities correspond to infarct size; overall ejection fraction also reflects adverse LV remodeling. |
 
 </div></details>
 

@@ -52,7 +52,7 @@ Echocardiographic techniques allow evaluation of right ventricular (RV) and left
 
 <span id="fig-7-1"></span>![](_page_1_Figure_3.jpeg)
 
-**FIGURE 7.1** The cardiac cycle and phases of diastole. (No original caption provided.)
+**FIGURE 7.1** The cardiac cycle and phases of diastole.
 
 <details class="med-details"><summary>
 
@@ -68,11 +68,11 @@ Diastole can be divided into four phases:
 
 *Isovolumic relaxation* starts with aortic valve closure, followed by a rapid decline in LV pressure. When LV pressure falls below LA pressure, the mitral valve opens, ending the isovolumic relaxation period. Maximal opening of the mitral leaflets occurs rapidly, within 100 ± 10 ms of valve opening, in normal individuals. Mitral valve opening is followed by *rapid early diastolic filling*, with the rate and time course of LA to LV flow determined by several factors, including the pressure difference along the flow stream, ventricular relaxation, and the relative compliances of the two chambers.
 
-As the ventricle fills, pressures in the atrium and ventricle equalize, resulting in a period of *diastasis*, during which little movement of blood between the chambers occurs, and the mitral leaflets remain in a semiopen position. The duration of diastasis depends on heart rate; it is longer at slow heart rates and entirely absent at faster heart rates. With *atrial contraction*, LA pressure again exceeds LV pressure, thus resulting in further mitral leaflet opening and a second pulse of LV filling. In normal individuals this atrial contribution accounts for only about 20% of total ventricular filling ([Fig. 7.2](#fig-7-2)).
-
 <span id="fig-7-2"></span>![](_page_1_Figure_13.jpeg)
 
 **FIGURE 7.2** Diastolic filling curves. The relationship between LV volume and the diastolic LV Doppler filling pattern is shown. Early rapid filling coincides with the *E* velocity, followed by diastasis (with little or no flow from the LA to the LV), and atrial contraction (which coincides with the late diastolic *A* velocity). The Doppler velocity curve, in effect, is the first derivative of the LV volume curve. *Ao,* Aortic; *MV,* mitral valve.
+
+As the ventricle fills, pressures in the atrium and ventricle equalize, resulting in a period of *diastasis*, during which little movement of blood between the chambers occurs, and the mitral leaflets remain in a semiopen position. The duration of diastasis depends on heart rate; it is longer at slow heart rates and entirely absent at faster heart rates. With *atrial contraction*, LA pressure again exceeds LV pressure, thus resulting in further mitral leaflet opening and a second pulse of LV filling. In normal individuals this atrial contribution accounts for only about 20% of total ventricular filling ([Fig. 7.2](#fig-7-2)).
 
 The phases of diastole for the RV are analogous to those described for the LV, with the difference that the total duration of diastole is slightly shorter in normal individuals because of a slightly longer RV systolic ejection period.
 
@@ -206,6 +206,7 @@ Although diastolic dysfunction can be seen with a wide range of cardiac disorder
 
 #### TABLE 7.1: Causes of Diastolic Dysfunction (Examples)</summary><div class="details-content">
 
+<span id="table-7-1"></span>
 | Cause | Examples |
 |-------|----------|
 | Primary myocardial disease | Dilated cardiomyopathy<br>Restrictive cardiomyopathy<br>Hypertrophic cardiomyopathy |
@@ -279,6 +280,7 @@ Quantitative measurements that can be made from the Doppler velocity curve inclu
 
 #### TABLE 7.2: Doppler Diastolic Measurements: Views and Technique</summary><div class="details-content">
 
+<span id="table-7-2"></span>
 | Parameter | Modality | TTE View | TEE View | Recording | Measurements |
 |---|---|---|---|---|---|
 | LV inflow at leaflet tips | Pulsed Doppler | A4C with 2–3-mm sample volume positioned at mitral leaflet tips | High TEE 4-chamber view with sample volume at leaflet tips | Parallel to flow, normal expiration, low wall filters | E = early diastolic filling velocity (m/s)<br>A = filling velocity after atrial contraction (m/s)<br>E/A ratio<br>DT = deceleration time (ms) |
@@ -293,6 +295,7 @@ Quantitative measurements that can be made from the Doppler velocity curve inclu
 
 #### TABLE 7.3: Normal Values for Doppler Diastolic Measurements in Young Adults</summary><div class="details-content">
 
+<span id="table-7-3"></span>
 | Parameters | Normal Value |
 |---|---|
 | **Velocities** | |
@@ -719,6 +722,7 @@ Some classifications of diastolic dysfunction include another category of severe
 
 #### TABLE 7.4: Classification of Diastolic Dysfunction (Key Measures Highlighted)</summary><div class="details-content">
 
+<span id="table-7-4"></span>
 | | Normal | Mild (Grade I) | Moderate (Grade II) | Severe* (Grade III) |
 |---|---|---|---|---|
 | Pathophysiology | | ↓ Relaxation and normal LVEDP | ↓ Relaxation and ↑ LVEDP | ↓ Compliance and ↑↑ LVEDP |
@@ -746,6 +750,7 @@ Some classifications of diastolic dysfunction include another category of severe
 
 #### TABLE 7.5: Examples of Diastolic Dysfunction in Clinical Practice</summary><div class="details-content">
 
+<span id="table-7-5"></span>
 | Condition | Typical Findings | Clinical Implications | Limitations |
 |---|---|---|---|
 | Heart failure with preserved ejection fraction (HFpEF) | • Normal ejection fraction (>50%)<br>• Normal to mildly dilated LV (EDVI <97 mL/m²)<br>• Diastolic dysfunction, grades I–III<br>• Elevated filling pressures (LVEDP >16 mmHg; PWP >12 mmHg) | • Clinical symptoms and signs of heart failure are related to diastolic dysfunction.<br>• Clinical decompensation is associated with elevated filling pressures. | • Normal aging changes in LV filling patterns are similar to grade I diastolic dysfunction.<br>• Other noncardiac causes of symptoms should be excluded. |
@@ -833,7 +838,7 @@ The roles of tissue Doppler or speckle tracking strain rate and strain measureme
 
 <span id="fig-7-28"></span>![](_page_23_Figure_2.jpeg)
 
-**FIGURE 7.28** Doppler findings in patients with normal diastolic function and with mild, moderate, and severe diastolic dysfunction. The *top row* shows LV inflow with early *(E)* and atrial *(A)* phases of diastolic filling, the *second row from the top* shows tissue Doppler imaging recorded at the septal side of the mitral annulus with the myocardial early *(E′)* and atrial *(A′)* velocities and the expected ratio of *(E/E′)*, the *third row from the top* shows the isovolumic relaxation time *(IVRT),* and the *bottom row* shows the pulmonary venous inflow pattern with systolic *(S)* and diastolic *(D)* antegrade flow and the pulmonary vein atrial *(PVa)* reversal of flow.
+**FIGURE 7.28** Doppler findings in patients with normal diastolic function and with mild, moderate, and severe diastolic dysfunction. The *top row* shows LV inflow with early *(E)* and atrial *(A)* phases of diastolic filling, the *second row from the top* shows tissue Doppler imaging recorded at the septal side of the mitral annulus with the myocardial early *(E′)* and atrial *(A′)* velocities and the expected ratio of *(E/E′)*, the *third row from the top* shows the isovolumic relaxation time *(IVRT)*, and the *bottom row* shows the pulmonary venous inflow pattern with systolic *(S)* and diastolic *(D)* antegrade flow and the pulmonary vein atrial *(PVa)* reversal of flow.
 
 </div></details>
 

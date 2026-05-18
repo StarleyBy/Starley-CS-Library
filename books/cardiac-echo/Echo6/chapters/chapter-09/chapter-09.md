@@ -4,47 +4,47 @@
 
 ## Executive Summary</summary><div class="details-content">
 
-### Dilated Cardiomyopathy (DCM)
-- **Pathophysiology:** Impaired LV contractility, reduced CO, elevated LVEDP. All four chambers dilated, secondary MR and TR common.
-- **Echo findings:** Global LV and RV systolic dysfunction (EF reduced), LV dilation (± normal wall thickness), increased EPSS, reduced aortic root motion, reduced dP/dt, secondary MR (central jet), elevated PA pressures, diastolic dysfunction (pseudonormal or restrictive pattern).
-- **Clinical utility:** Confirms diagnosis, excludes other causes (ischemic, valve). Serial EF and volumes guide therapy. LV thrombus search when EF <35%.
-- **Variants:** Chagas disease – apical aneurysm ± thrombus. Tako-tsubo – apical ballooning (transient, normal coronaries, >80% women). Peripartum, toxic, genetic, infectious causes.
+### Dilated Cardiomyopathy
+- **Pathophysiology:** Impaired LV contractility, reduced CO, elevated LVEDP. All four chambers enlarged, biventricular systolic dysfunction.
+- **Echo findings:** LV dilation, global hypokinesis, EF reduced. Secondary MR (central jet) and TR common. Pulmonary hypertension often present. LV thrombus possible in severe dysfunction (use contrast).
+- **Specific causes:** Chagas disease → apical aneurysm (50% of heart failure patients). Tako-tsubo → apical ballooning with preserved base, reversible. Myocarditis → minimal dilation despite severe dysfunction.
+- **Diastolic dysfunction:** Usually “pseudo-normal” pattern (high E, low A, short DT) due to elevated filling pressures on steep PV curve.
 
 ### Hypertrophic Cardiomyopathy (HCM)
-- **Pathophysiology:** Autosomal dominant (sarcomere proteins). Asymmetric LV hypertrophy (septum > posterior wall), normal systolic function, impaired relaxation. Dynamic LVOT obstruction in ~70% (rest or provocation).
-- **Echo findings (obstructive):** Septal hypertrophy (≥15 mm, ratio ≥1.3:1), SAM of mitral valve, mid-systolic aortic valve closure, late-peaking CW Doppler jet (≥2.7 m/s = 30 mmHg), posteriorly directed MR.
-- **Nonobstructive:** Asymmetric hypertrophy without SAM or gradient.
-- **Provocation:** Exercise stress (supine bike or treadmill) – gradient ≥30 mmHg post-exercise. Valsalva/post-PVC also increase gradient.
-- **Diagnosis and screening:** First-degree relatives. Tissue Doppler (E′ reduced) may identify early disease.
-- **Management guidance:** Septal myectomy or alcohol ablation – pre-procedural mapping (echo contrast in septal artery), post-procedural gradient reduction. ICD risk stratification (wall thickness >30 mm, NSVT, syncope, family SCD, BP response).
-- **Pitfalls:** Distinguish from athlete’s heart (regression with deconditioning), hypertensive hypertrophy (concentric, posterior wall involved), mid-cavity obliteration (hyperdynamic, no SAM).
+- **Pathophysiology:** Autosomal dominant, sarcomere protein mutations. Asymmetric LV hypertrophy (septum > posterior wall), normal systolic function, impaired diastolic function. Dynamic subaortic obstruction in ~70% (rest or provoked).
+- **Obstruction provocation:** Exercise stress testing (not dobutamine). Increased by decreased preload, increased contractility, decreased afterload. Valsalva/amyl nitrite no longer recommended.
+- **Echo findings:** Septal thickness >15 mm (often >30 mm high risk), SAM of mitral valve, mid-systolic aortic valve closure/flütter, late-peaking CW jet. MR posteriorly directed.
+- **Mitral valve:** Larger leaflets, SAM leads to malcoaptation → MR (mild to severe, varies with obstruction).
+- **Apical HCM:** Hypertrophy confined to apex; need careful imaging (contrast helps).
+- **Screening:** First-degree relatives. Tissue Doppler E′ reduced even without hypertrophy.
+- **ICD indications:** VT, syncope, family history sudden death, abnormal BP response to exercise, wall thickness >30 mm, high-risk genetics.
 
-### Restrictive Cardiomyopathy (RCM)
-- **Pathophysiology:** Stiff, noncompliant ventricle → HFpEF, elevated filling pressures, normal or mildly reduced EF. Causes: amyloidosis (most common), sarcoidosis, hemochromatosis, Fabry, endomyocardial fibrosis, hypereosinophilic syndrome, radiation.
-- **Echo findings:** Thickened walls, nondilated LV, biatrial enlargement, normal EF, severe diastolic dysfunction (restrictive filling pattern: E/A >2, DT <150 ms), low E′ (<5 cm/s), E/E′ >15, elevated PA pressures.
-- **Distinguish from constrictive pericarditis:** Key differences – RCM has pulmonary hypertension (TR velocity >2.8 m/s), low E′ (<8 cm/s), no respiratory variation in septal motion or mitral inflow. Constitutive has preserved E′, significant respiratory variation, septal bounce.
-- **Specific clues:** Amyloid – speckled myocardium (nonspecific with harmonics), thickened valves, interatrial septum. Fabry – hyperechoic endocardium. Sarcoid – conduction defects, basal thinning.
-
-### Hypertensive Heart Disease
-- **Pathophysiology:** Chronic pressure overload → concentric LV hypertrophy (RWT >0.42, normal mass or increased), diastolic dysfunction first, later systolic dysfunction.
-- **Echo findings:** Symmetric wall thickening (posterior wall involved), LA enlargement, aortic root dilation, aortic sclerosis, mitral annular calcification. Diastolic dysfunction grade I (impaired relaxation) early, then pseudonormal with elevated filling pressures.
-- **Mid-cavity obliteration:** Late-systolic high-velocity jet (mid-ventricular, no SAM) – seen in hyperdynamic states (anemia, fever, hypovolemia) with hypertrophy.
-- **Prognosis:** LV mass index predicts outcomes better than office BP.
-
-### Pulmonary Heart Disease (Cor Pulmonale)
-- **Pathophysiology:** RV pressure overload from chronic lung disease, recurrent PE, or primary pulmonary hypertension → RV hypertrophy → dilation → TR → RV failure.
-- **Echo findings:** RV enlargement and hypertrophy, paradoxical septal motion (D-shaped LV in systole), elevated PA systolic pressure (TR jet velocity >2.8 m/s + RAP), mid-systolic notching of PA Doppler, reduced RV function (TAPSE, FAC, S′).
-- **Acute PE:** RV dilation/hypokinesis with spared apex (McConnell sign), increased PA pressures, possible thrombus in transit.
-- **PVR estimate:** 10 × (VTR / VTIRVOT) Wood units.
-
-### Advanced Heart Failure Therapies
-- **CRT:** Indicated for EF ≤35%, QRS ≥120 ms, NYHA II–IV. Dyssynchrony measures (tissue Doppler, speckle tracking) not routine for selection.
-- **LVAD:** Continuous-flow devices. Echo evaluates LV size, aortic valve opening frequency, inflow/outflow cannula flow velocities, complications (RV failure, pericardial effusion, thrombus).
-- **Transplant:** Post-transplant findings – biatrial enlargement (old technique) or normal atria (bicaval technique), abnormal septal motion, pericardial effusion common early. Rejection – increased E velocity, shorter IVRT, increased E/E′ (but biopsy remains gold standard). Transplant CAD – dobutamine stress echo used (diffuse disease → false negatives possible).
+### Restrictive Cardiomyopathy
+- **Pathophysiology:** Stiff, thickened myocardium → HFpEF, elevated filling pressures, low CO. Progressive → features of dilated CM.
+- **Echo findings:** Non-dilated thick-walled LV, normal EF, biatrial enlargement, RV free wall thickening, pulmonary hypertension, elevated RAP (dilated IVC).
+- **Diastolic function:** Pseudo-normal pattern with high E′, low A′, short DT, reduced E′, increased PVa velocity/duration.
+- **Causes:** Amyloid (speckled myocardium – nonspecific with harmonic imaging), sarcoid (conduction defects), Fabry (hyperechoic endocardium), hemochromatosis, hypereosinophilic (apical obliteration, thrombus).
+- **DDx constrictive pericarditis:** See Table 10.4 (respiratory variation, septal motion, etc.).
 
 ### Other Cardiomyopathies
-- **Arrhythmogenic RV dysplasia (ARVD):** RV dilation/dysfunction, regional aneurysms, fibrofatty replacement. Echo nonspecific; CMR preferred.
-- **LV noncompaction:** Deep trabeculations with recesses (ratio noncompacted/compacted >2:1 at end-systole), color flow into recesses. Associated with heart failure, arrhythmias, emboli.
+- **Arrhythmogenic RV dysplasia:** RV dilation/dysfunction, normal LV, normal PA pressures. MRI more accurate.
+- **LV noncompaction:** Ratio noncompacted/compacted ≥2:1 at end-systole (short-axis). Deep recesses with color flow. Associated with HF, emboli, arrhythmias.
+
+### Advanced Heart Failure Therapies
+- **CRT:** Indicated for HF symptoms, wide QRS (>120 ms), EF ≤35%. Mechanical dyssynchrony measurement not yet clinically validated.
+- **LVAD:** Continuous flow devices. Echo: assess LV dimensions, aortic valve opening (often closed), inflow/outflow cannula flow. Complications: localized tamponade, RV failure, thrombus.
+- **Transplant:** Pericardial effusion early, RV dysfunction common. Diastolic changes may indicate rejection (but biopsy remains standard). Post-transplant CAD → dobutamine stress echo (exercise less accurate).
+
+### Hypertensive Heart Disease
+- **Echo findings:** Concentric LV hypertrophy (posterior wall >11 mm), diastolic dysfunction (impaired relaxation, E/A <1), ascending aorta dilation, aortic sclerosis, MAC, LA enlargement.
+- **Mid-cavity obliteration:** Small hypertrophied LV, hyperdynamic, late systolic gradient (mid-ventricular, not subaortic, no SAM).
+- **Prognosis:** LV mass predicts outcomes better than office BP. Heart failure symptoms may be due to diastolic dysfunction (HFpEF) or later systolic dysfunction.
+
+### Pulmonary Heart Disease (Cor Pulmonale)
+- **Chronic:** RV pressure overload → RV hypertrophy, dilation, paradoxical septal motion. Secondary TR, RA enlargement.
+- **Acute pulmonary embolism:** RV dilation/dysfunction, elevated PA pressures, but thrombus rarely seen.
+- **PA pressure estimation:** TR jet velocity (parallel angle critical). Use dedicated CW probe if needed. Indirect signs: mid-systolic notching of pulmonic valve/PA flow, reduced a-wave.
+- **Limitations:** Poor windows in chronic lung disease. Absence of TR jet does not exclude PH.
 
 </div></details>
 
@@ -52,7 +52,8 @@
 
 ## Introduction</summary><div class="details-content">
 
-Cardiomyopathy is defined as a primary disease of the myocardium, excluding myocardial dysfunction due to ischemia or chronic valvular disease. Several approaches to the classification of cardiomyopathies are possible, such as etiology or anatomy, but a physiologic classification is most useful clinically. The three basic physiologic categories of cardiomyopathy are:
+Cardiomyopathy is defined as a primary disease of the myocardium, excluding myocardial dysfunction due to ischemia or chronic valvular disease. Several approaches to the classification of cardiomyopathy are possible, such as etiology or anatomy, but a physiologic classification is most useful clinically. The three basic physiologic categories of cardiomyopathy are:
+
 - Dilated
 - Hypertrophic
 - Restrictive
@@ -72,6 +73,7 @@ Although hypertensive and pulmonary heart diseases are not primary diseases of t
 ### Basic Principles</summary><div class="details-content">
 
 Dilated cardiomyopathy manifests clinically as heart failure with reduced ejection fraction (HFrEF). Typically, all four chambers are enlarged, and impaired systolic function of both the LV and right ventricle (RV) occurs, due to a wide range of underlying causes ([Table 9.1](#table-9-1)). The physiology of dilated cardiomyopathy ([Fig. 9.1](#fig-9-1)) is characterized predominantly by:
+
 - Impaired LV contractility
 - Reduced cardiac output
 - Elevated LV end-diastolic pressure
@@ -80,17 +82,40 @@ Clinically, patients most often have heart failure, with initial complaints rang
 
 <span id="fig-9-1"></span>![](_page_1_Figure_11.jpeg)
 
-**FIGURE 9.1** Dilated cardiomyopathy. Four-chamber enlargement is present with reduced LV and RV systolic function. *Dashed lines* indicate the limited extent of endocardial motion between end-diastole and end-systole. An apical thrombus is present. Secondary mitral regurgitation *(MR)* and tricuspid regurgitation *(TR)* are indicated by the *arrows*.
+**FIGURE 9.1** Dilated cardiomyopathy. Four-chamber enlargement is present with reduced LV and RV systolic function. Dashed lines indicate the limited extent of endocardial motion between end-diastolic and end-systolic. An apical thrombus is present. Secondary mitral regurgitation (MR) and tricuspid regurgitation (TR) are indicated by the arrows.
 
 Typically, LV diastolic dysfunction coexists with systolic dysfunction, although separating the hemodynamic effects of diastolic dysfunction from concurrent systolic dysfunction is challenging.
 
+<span id="table-9-1"></span>
 <details class="med-details"><summary>
 
 #### TABLE 9.1: Examples of Causes of Cardiomyopathies: Functional Classification</summary><div class="details-content">
 
-| Dilated Cardiomyopathy | Hypertrophic Cardiomyopathy | Restrictive Cardiomyopathy | Other Cardiomyopathies |
-|------------------------|-----------------------------|----------------------------|------------------------|
-| Genetic<br>Infectious (postviral, Chagas)<br>Toxins and drugs (alcohol, anthracycline)<br>Metabolic (thyroid, pheochromocytoma)<br>Nutritional (beriberi)<br>Peripartum<br>Systemic inflammatory disease<br>Neuromuscular (Duchenne-Becker)<br>Stress induced (Tako-tsubo) | Nonobstructive<br>Obstructive<br>Latent obstructive | Infiltrative (amyloidosis, Gaucher)<br>Inflammatory (sarcoidosis)<br>Storage (hemochromatosis, Fabry)<br>Endomyocardial (hypereosinophilic, radiation)<br>Noninfiltrative (scleroderma) | Arrhythmogenic RV dysplasia<br>Isolated LV noncompaction |
+| Category | Examples |
+|---|---|
+| **Dilated Cardiomyopathy** | |
+| Genetic | |
+| Infectious | Postviral (myocarditis), Chagas disease |
+| Toxins and drugs | Alcohol, anthracycline medications |
+| Metabolic | Hypothyroidism or hyperthyroidism, pheochromocytoma |
+| Nutritional | Beriberi (thiamine) |
+| Peripartum | |
+| Systemic inflammatory disease | |
+| Neuromuscular diseases | Duchenne-Becker muscular dystrophy |
+| Stress induced | Tako-tsubo |
+| **Hypertrophic Cardiomyopathy** | |
+| Nonobstructive | |
+| Obstructive | |
+| Latent obstructive | |
+| **Restrictive Cardiomyopathy** | |
+| Infiltrative systemic diseases | Amyloidosis, Gaucher disease |
+| Inflammatory (granulomatous) | Sarcoidosis |
+| Storage diseases | Hemochromatosis, Fabry disease |
+| Endomyocardial | Hypereosinophilic syndrome, radiation induced |
+| Noninfiltrative | Scleroderma |
+| **Other Cardiomyopathies** | |
+| Arrhythmogenic RV dysplasia | |
+| Isolated LV noncompaction | |
 
 </div></details>
 
@@ -100,48 +125,32 @@ Typically, LV diastolic dysfunction coexists with systolic dysfunction, although
 
 ### Echocardiographic Approach</summary><div class="details-content">
 
-The echocardiographic approach to the patient with heart failure symptoms should start with an evaluation of LV size, wall thickness, and systolic function ([Figs. 9.2](#fig-9-2) and [9.3](#fig-9-3)). Echocardiographic imaging from standard windows allows evaluation of the size and function of all four cardiac chambers using two-dimensional (2D) or three-dimensional (3D) imaging ([Fig. 9.4](#fig-9-4)):
-- ❐ LV systolic function
-  - Qualitative global and regional systolic function
-  - Quantitative end-diastolic and end-systolic dimensions or volumes
-  - Ejection fraction
-- ❐ RV systolic function
-  - Qualitative size and systolic function
-  - Pulmonary artery systolic pressure and estimated resistance
-- ❐ LA size
-  - Qualitative size and linear dimensions
-  - Quantitation of LA volumes
+The echocardiographic approach to the patient with heart failure symptoms should start with an evaluation of LV size, wall thickness, and systolic function ([Figs. 9.2](#fig-9-2) and [9.3](#fig-9-3)). Echocardiographic imaging from standard windows allows evaluation of the size and function of all four chambers ([Fig. 9.4](#fig-9-4)). 
 
 <span id="fig-9-2"></span>![](_page_2_Figure_3.jpeg)
 
-**FIGURE 9.2** Echocardiographic approach to the patient with heart failure. Key features that help distinguish the cause of heart failure symptoms include LV chamber size, wall thickness, and systolic function in addition to RV systolic function. Heart failure with reduced ejection fraction *(HFrEF)* is characterized by global myocardial dysfunction versus regional dysfunction with ischemic disease. Asymmetric hypertrophy suggests hypertrophic cardiomyopathy *(HCM),* whereas concentric hypertrophy is more typical of hypertensive heart disease. When LV size and function are normal, diastolic dysfunction or heart failure with preserved ejection fraction *(HFpEF)* is likely in the absence of pericardial or valve disease. RV dysfunction may be due to primary myocardial disease, such as RV infarction or arrhythmogenic RV cardiomyopathy, or to elevated pulmonary artery pressure *(PAP)* with primary or secondary pulmonary hypertension *(PH). CM,* Cardiomyopathy; *fx,* function.
+**FIGURE 9.2** (No original caption provided.)
 
 <span id="fig-9-3"></span>![](_page_2_Figure_5.jpeg)
 
-**FIGURE 9.3** Echocardiographic images in a patient with dilated cardiomyopathy. In the apical four-chamber view *(left)*, dilation of all four cardiac chambers is seen. In the apical two-chamber view *(right)*, the LV and atrium are seen. In real time, RV and LV systolic functions are severely reduced.
+**FIGURE 9.3** (No original caption provided.)
 
 <span id="fig-9-4"></span>![](_page_3_Figure_4.jpeg)
 
-**FIGURE 9.4** 3D ventricular volumes in dilated cardiomyopathy. A 3D volume is acquired from the apical window with semiautomated borders in *x*, *y*, and *z* planes, corresponding to four-chamber, two-chamber, and short-axis (not shown) views. The volumetric reconstruction allows calculation of end-diastolic volume *(EDV)* and end-systolic volume *(ESV),* stroke volume *(SV),* and ejection fraction *(EF).*
+**FIGURE 9.4** 3D ventricular volumes in dilated cardiomyopathy. A 3D volume is acquired from the apical window with semiautomated borders in x, y, and z planes, corresponding to four-chamber, two-chamber, and short-axis (not shown) views. The volumetric reconstruction allows calculation of end-diastolic volume (EDV) and end-systolic volume (ESV), stroke volume (SV), and ejection fraction (EF).
 
-In addition to 2D and 3D imaging, other signs of poor LV systolic function include:
+LV systolic dysfunction is quantified by 3D or 2D biplane ejection fraction, as described in Chapter 6. Doppler evaluation of LV systolic function reveals:
 
-**❐ M-mode**
-- Increased mitral E-point to septal separation (EPSS)
-- Reduced anteroposterior aortic root motion
-- Delayed mitral valve closure
-
-<span id="fig-9-5"></span>![](_page_3_Figure_5.jpeg)
-
-**FIGURE 9.5** M-mode findings in dilated cardiomyopathy. The mitral M-mode shows increased mitral E-point septal separation *(EPSS)* and a “B-bump” *(left)*. The aortic M-mode shows decreased aortic root motion with early closure of the aortic valve *(right)*.
-
-**❐ Doppler**
 - Reduced aortic ejection velocity
-- Reduced rate of rise in ventricular pressure *(dP/dt)*
+- Reduced rate of rise in ventricular pressure (dP/dt)
 - Secondary mitral regurgitation
 - Diastolic dysfunction
 
-The increase in E-point to septal separation is due to a combination of LV dilation and reduced mitral leaflet motion caused by low transmitral flow rates. Reduced anteroposterior aortic root motion reflects reduced LA filling and emptying ([Fig. 9.5](#fig-9-5)). A reduced aortic ejection velocity indicates a reduced stroke volume, although compensatory mechanisms (including LV dilation) often result in a normal stroke volume at rest. A slow rate of rise in velocity of the mitral regurgitant jet indicates a reduced rate of rise in LV pressure in early systole *(dP/dt)*.
+The increase in E-point to septal separation is due to a combination of LV dilation and reduced mitral leaflet motion caused by low transmitral flow rates. Reduced anteroposterior aortic root motion reflects reduced LA filling and emptying ([Fig. 9.5](#fig-9-5)). A reduced aortic ejection velocity indicates a reduced stroke volume, although compensatory mechanisms (including LV dilation) often result in a normal stroke volume at rest. A slow rate of rise in velocity of the mitral regurgitant jet indicates a reduced rate of rise in LV pressure in early systole (dP/dt).
+
+<span id="fig-9-5"></span>![](_page_3_Figure_5.jpeg)
+
+**FIGURE 9.5** M-mode findings in dilated cardiomyopathy. The mitral M-mode shows increased mitral E-point septal separation (EPSS) and a “B-bump” *(left)*. The aortic M-mode shows decreased aortic root motion with early closure of the aortic valve *(right)*.
 
 The cause of secondary mitral valve regurgitation (with an anatomically normal valve) is related to misalignment of the papillary muscles, ventricular systolic dysfunction, and annular dilation. Regurgitant severity ranges from mild to severe, as assessed with Doppler techniques ([Fig. 9.6](#fig-9-6); see Table 12.8). Pulmonary pressures usually are elevated and can be estimated from the velocity of the tricuspid regurgitant jet, as described in Chapter 6.
 
@@ -149,27 +158,27 @@ The cause of secondary mitral valve regurgitation (with an anatomically normal v
 
 **FIGURE 9.6** Secondary mitral regurgitation. TEE imaging in this 62-year-old man with severe LV dilation and an ejection fraction of 21% shows (A) normal leaflet anatomy with tethering *(arrows)* preventing complete coaptation, (B) a central jet of mitral regurgitation with a vena contracta width of 5 mm, and (C) a CW Doppler signal consistent with moderate to severe mitral regurgitation. *Ao,* Aorta.
 
+The echocardiographic appearance of dilated cardiomyopathy is fairly uniform despite a wide range of disease processes. Exceptions include fulminant myocarditis, in which little ventricular dilation is present, despite severe systolic dysfunction. In Chagas heart disease, an LV apical aneurysm is seen in about half of patients; thrombus formation is often seen, although global hypokinesis is typical with advanced disease ([Fig. 9.7](#fig-9-7)). Tako-tsubo cardiomyopathy is an acute, transient, stress-induced cardiomyopathy characterized by “apical ballooning” with apical dilation and dyskinesis but preserved dimensions and function of the cardiac base ([Fig. 9.8](#fig-9-8)).
+
 <span id="fig-9-7"></span>![](_page_4_Figure_5.jpeg)
 
-**FIGURE 9.7** Chagas disease. (A) The four-chamber view shows typical localized biventricular apical aneurysms *(arrows)*. (B) In the two-chamber view an apical thrombus is seen *(arrow).* Inferior akinesis was present, which is a typical finding in Chagas cardiomyopathy. (C) Color Doppler demonstrates mild to moderate secondary mitral regurgitation *(MR). TV,* Tricuspid valve. *(Courtesy Dr. Marcia Barbosa and Dr. Maria P. Nunes, Belo Horizonte, Brazil.)*
-
-The echocardiographic appearance of dilated cardiomyopathy is fairly uniform despite a wide range of disease processes. Exceptions include fulminant myocarditis, in which little ventricular dilation is present, despite severe systolic dysfunction. In Chagas heart disease, an LV apical aneurysm is seen in about half of patients; thrombus formation is often seen, although global hypokinesis is typical with advanced disease ([Fig. 9.7](#fig-9-7)). Tako-tsubo cardiomyopathy is an acute, transient, stress-induced cardiomyopathy characterized by “apical ballooning” with apical dilation and dyskinesis but preserved dimensions and function of the cardiac base ([Fig. 9.8](#fig-9-8)).
+**FIGURE 9.7** Chagas disease. (A) The four-chamber view shows typical localized biventricular apical aneurysms *(arrows)*. (B) In the two-chamber view an apical thrombus is seen *(arrow)*. Inferior akinesis was present, which is a typical finding in Chagas cardiomyopathy. (C) Color Doppler demonstrates mild to moderate secondary mitral regurgitation (MR). *TV,* Tricuspid valve. *(Courtesy Dr. Marcia Barbosa and Dr. Maria P. Nunes, Belo Horizonte, Brazil.)*
 
 <span id="fig-9-8"></span>![](_page_5_Figure_2.jpeg)
 
-**FIGURE 9.8** Tako-tsubo cardiomyopathy. This older woman developed acute heart failure after emergency noncardiac surgery. In the apical four-chamber view, the LV apex is dilated with systolic dyskinesis *(arrows)* with relatively preserved contraction at the myocardial base. Coronary angiography was normal, and ventricular systolic function returned to normal within 2 weeks.
+**FIGURE 9.8** Tako-tsubo cardiomyopathy. This older man developed acute heart failure after emergency noncardiac surgery. In the apical four-chamber view, apical akinesis *(arrows)* with relatively preserved contraction at the myocardial base. Coronary angiography was normal, and ventricular systolic function returned to normal within 2 weeks.
 
-Diastolic dysfunction typically accompanies systolic heart failure in patients with dilated cardiomyopathy, and noninvasive estimates of filling pressures are helpful in clinical management. When systolic dysfunction is present, the elevated end-systolic volume results in a shift along the pressure-volume curve to a steeper segment. This means that, for a given diastolic pressure-volume relationship, compliance is reduced at higher LV volumes. Thus the expected pattern of diastolic filling in dilated cardiomyopathy is that of reduced compliance: a high *E* velocity, rapid deceleration slope, low *A* velocity, and an *E/A* ratio >1 ([Fig. 9.9](#fig-9-9)). When filling pressures are elevated, the *E/E′* ratio is increased to 15 or higher, and the pulmonary vein *a*-wave velocity and duration are increased. The M-mode finding of a delayed rate of mitral valve closure, termed a “B-bump” or “AC-shoulder” also correlates with an elevated end-diastolic pressure (see [Fig. 9.5](#fig-9-5)). However, patterns of diastolic dysfunction can be complex in patients with a dilated cardiomyopathy and vary with volume status, medical therapy, and phase of the disease course.
+Diastolic dysfunction typically accompanies systolic heart failure in patients with dilated cardiomyopathy, and noninvasive estimates of filling pressures are helpful in clinical management. When systolic dysfunction is present, the elevated end-systolic volume results in a shift along the pressure-volume curve to a steeper segment. This means that, for a given diastolic pressure-volume relationship, compliance is reduced at higher LV volumes. Thus the expected pattern of diastolic filling in dilated cardiomyopathy is that of reduced compliance: a high *E* velocity, rapid deceleration slope, low *A* velocity, and an *E/A* ratio >1 ([Fig. 9.9](#fig-9-9)). When filling pressures are elevated, the *E/E′* ratio is increased to 15 or higher, and the pulmonary vein *a*-wave velocity and duration are increased. The M-mode finding of a delayed rate of mitral valve closure, termed a “B-bump” or “AC-shoulder,” also correlates with an elevated end-diastolic pressure (see [Fig. 9.5](#fig-9-5)). However, patterns of diastolic dysfunction can be complex in patients with a dilated cardiomyopathy and vary with volume status, medical therapy, and phase of the disease course.
 
 <span id="fig-9-9"></span>![](_page_5_Figure_4.jpeg)
 
-**FIGURE 9.9** Doppler findings in dilated cardiomyopathy. LV diastolic inflow shows a high *E* velocity and low *A* velocity suggestive of “pseudonormalization” due to an elevated end-diastolic pressure *(left)*. The mitral regurgitant *(MR)* jet shows a slow rate of rise in velocity consistent with a reduced *dP/dt (right)*.
+**FIGURE 9.9** Doppler findings in dilated cardiomyopathy. LV diastolic inflow shows a high E velocity and low A velocity suggestive of pseudo-normalization due to an elevated end-diastolic pressure *(left)*. The mitral regurgitant (MR) jet shows a slow rate of rise in velocity consistent with a reduced dP/dt *(right)*.
 
 When significant LV systolic dysfunction is present (ejection fraction <35%), a careful search for apical LV thrombus is indicated, although prevalence is low with current medical therapy ([Fig. 9.10](#fig-9-10)). Details on the technical aspects of identifying an LV thrombus are given in Chapter 8.
 
 <span id="fig-9-10"></span>![](_page_6_Figure_3.jpeg)
 
-**FIGURE 9.10** Left ventricular apical thrombus. In the apical two-chamber *(A2C)* view *(left)* in a patient with dilated cardiomyopathy, endocardial definition is poor, but no obvious LV mass is noted. With left-sided contrast to opacify the LV, a nonopacified apical mass consistent with thrombus *(arrow)* is seen. The use of left-sided echo contrast *(right)* improves sensitivity for detection of thrombus by enhancing the blood-thrombus border.
+**FIGURE 9.10** Left ventricular apical thrombus. In the apical two-chamber (A2C) view *(left)* in a patient with dilated cardiomyopathy, endocardial definition is poor, but no obvious LV mass is noted. With left-sided contrast to opacify the LV, a nonopacified apical mass consistent with thrombus *(arrow)* is seen. The use of left-sided echo contrast *(right)* improves sensitivity for detection of thrombus by enhancing the blood-thrombus border.
 
 </div></details>
 
@@ -186,6 +195,7 @@ Echocardiography rarely can establish the etiology of dilated cardiomyopathy, ev
 ### Clinical Utility</summary><div class="details-content">
 
 Echocardiography plays a key role in the evaluation and management of patients with heart failure. The correlation between echocardiographic findings and specific causes of heart failure is shown in [Table 9.2](#table-9-2). If echocardiography shows no significant impairment of LV systolic dysfunction, other possible diagnoses include:
+
 - Coronary artery disease
 - Valve disease
 - Hypertensive heart disease
@@ -198,7 +208,7 @@ Periodic echocardiography is essential for optimal care of patients with dilated
 
 <span id="fig-9-11"></span>![](_page_9_Figure_4.jpeg)
 
-**FIGURE 9.11** Dyssynchrony on speckle tracing strain. (A) In the apical four-chamber view, speckle tracking strain shows marked dyssynchrony with wide separation in the strain curves for each myocardial segment on the graph of strain versus time. (B) A bulls-eye view of the strain pattern shows normal apical strain with basal and mid-ventricular reductions in strain. This pattern is typical of amyloid heart disease. *ANT,* Anterior; *EDV,* end-diastolic volume; *EF,* ejection fraction; *ESV,* end-systolic volume; *HR,* heart rate; *INF,* inferior; *L. strain,* longitudinal strain; *LAT,* lateral; *SEPT,* septum.
+**FIGURE 9.11** Dyssynchrony on speckle tracking strain. (A) In the apical four-chamber view, speckle tracking strain shows marked dyssynchrony with wide separation in the strain curves for each myocardial segment on the graph of strain versus time. (B) A bulls‑eye view of the strain pattern shows normal apical strain with basal and mid-ventricular reductions in strain. This pattern is typical of amyloid heart disease. *ANT,* Anterior; *EDV,* end-diastolic volume; *EF,* ejection fraction; *ESV,* end-systolic volume; *HR,* heart rate; *INF,* inferior; *L strain,* longitudinal strain; *LAT,* lateral; *SEPT,* septum.
 
 In patients with dilated cardiomyopathy in the intensive care unit, echocardiographic evaluation can be helpful to assess LV function, pulmonary artery pressures, and the degree of coexisting mitral regurgitation and to estimate LV filling pressure. Evaluation of an individual patient’s response to afterload reduction therapy can be performed by repeat ejection fraction measurements or by sequential noninvasive measurements of pulmonary pressures and cardiac output ([Fig. 9.12](#fig-9-12)).
 
@@ -206,23 +216,28 @@ In patients with dilated cardiomyopathy in the intensive care unit, echocardiogr
 
 **FIGURE 9.12** Stroke volume calculation in a patient with dilated cardiomyopathy. LV outflow tract diameter is measured from a parasternal long-axis view *(left)* for calculation of a circular cross-sectional area (CSA), and the LV outflow tract velocity-time integral (VTI) is recorded just proximal to the aortic valve from an apical approach using a pulsed Doppler sample volume length of 5 to 10 mm *(right)*. Stroke volume is calculated as VTI × CSA. Cardiac output is stroke volume multiplied by heart rate. Calculation of stroke volume in this patient is complicated by mechanical alternans related to severe systolic dysfunction with marked variation in the outflow velocity *(arrows)* on alternating beats despite normal sinus rhythm. *Ao,* Aorta.
 
+<span id="table-9-2"></span>
 <details class="med-details"><summary>
 
 #### TABLE 9.2: Cardiomyopathies: Clinical Echocardiographic Correlation</summary><div class="details-content">
 
 | Cardiomyopathy | Pathophysiology | Clinical Presentation | Echocardiographic Findings |
 |---|---|---|---|
-| **Dilated – Idiopathic** | Primary myocardial dysfunction of unknown cause | Heart failure signs and symptoms | Dilation of all four chambers with RV and LV systolic dysfunction; secondary MR (leaflets normal); LV thrombus possible; elevated filling pressures |
-| **Dilated – Familial** | Inherited primary myocardial dysfunction | Heart failure signs and symptoms | Same as idiopathic |
-| **Dilated – Chagas** | Protozoan infection (Trypanosoma cruzi) | Acute: fever, myalgias, myocarditis. Chronic: high mortality (44% at 4y) from sudden death (55–65%), heart failure (25–30%), stroke (10–15%) | LV dilation and systolic dysfunction; regional wall motion not in coronary pattern; apical aneurysm in ~55% of HF patients |
-| **Dilated – Duchenne MD** | Inherited myopathic disorder | Asymptomatic LV dysfunction (limited activity), late heart failure and arrhythmias | Dilated cardiomyopathy |
-| **Hypertrophic** | Inherited autosomal dominant | Wide age range; often asymptomatic; heart failure, angina, sudden death | Asymmetric LV hypertrophy, normal systolic function, abnormal diastolic function; ~1/3 have resting obstruction, 1/3 provoked |
-| **Hypertrophic – Fabry** | X-linked glycolipid storage | Boys <10y (skin/neurologic); women later with unexplained LVH; conduction abnormalities, arrhythmias | LVH (atypical for HCM); hyperechoic endocardial layer; ~50% have valve thickening and mild regurgitation |
-| **Restrictive – Amyloid** | Extracellular fibril deposition (AL 50% cardiac; AA only 5%) | Conduction disease, myocardial involvement | Increased LV/RV wall thickness with increased echogenicity (“sparkling” not specific); progressive diastolic dysfunction; valve thickening; intracardiac thrombus |
-| **Restrictive – Sarcoidosis** | Systemic with pulmonary involvement; cardiac in up to 20% | Conduction abnormalities, ventricular arrhythmias, heart failure | Nonspecific; regional wall motion (non-coronary pattern); LV systolic and diastolic dysfunction |
-| **Other – LV noncompaction** | Rare primary genetic | Heart failure, angina, arrhythmias, thromboembolic events | Deep trabeculations (inferior/lateral walls); color flow into recesses; EF may be reduced; ratio noncompacted/compacted >2:1 at end-systole |
-| **Other – Tako-tsubo (stress-induced)** | Catecholamine-induced acute dysfunction | Sudden chest pain, dyspnea, ECG changes, enzymes elevated, normal coronaries; >80% women age 50–75 | Apical dilation and dyskinesis (“apical ballooning”), reduced EF; atypical regional pattern; normalizes in 1–4 weeks |
-| **Other – Arrhythmogenic RV** | Familial (≥30%, autosomal dominant) | Sudden cardiac death, ventricular arrhythmias | RV dilation and systolic dysfunction; echo findings nonspecific; CMR preferred |
+| **Dilated** | | | |
+| Idiopathic | Primary myocardial dysfunction of unknown cause | Heart failure signs and symptoms | Dilation of all four chambers with RV and LV systolic dysfunction; secondary MR in some, valve leaflets normal; LV thrombus possible; elevated LV filling pressures, variable PA pressures |
+| Familial | Inherited primary myocardial dysfunction | Heart failure signs and symptoms | Dilation of all four chambers with RV and LV systolic dysfunction; secondary MR possible; LV thrombus possible; elevated LV filling pressures |
+| Chagas | Protozoan infection (*Trypanosoma cruzi*) | Acute: fever, myalgias, hepatosplenomegaly, myocarditis; Chronic: high mortality (44% at 4 years) from sudden death (55–65%), HF (25–30%), stroke (10–15%) | LV dilation and systolic dysfunction (mild to severe); regional wall motion not consistent with CAD; apical aneurysm in ~5% asymptomatic, ~55% with HF |
+| Duchenne MD | Inherited myopathic disorder | Asymptomatic LV dysfunction often; late: HF and arrhythmias | Consistent with dilated cardiomyopathy |
+| **Hypertrophic** | | | |
+| Hypertrophic | Inherited autosomal dominant | Wide age range; often asymptomatic on screening; HF, angina, sudden death | Asymmetric LV hypertrophy, normal systolic function, abnormal diastolic function; ~1/3 have resting outflow obstruction, ~1/3 have provoked gradient |
+| Fabry | Inherited X-linked glycolipid storage disease | Boys <10 years: skin, neurologic; Women later: unexplained LV hypertrophy; conduction abnormalities, arrhythmias | LV hypertrophy (asymmetric, atypical pattern); endocardial hyperechoic layer; ~50% have aortic/mitral valve thickening and mild regurgitation |
+| **Restrictive** | | | |
+| Amyloid | Extracellular tissue deposition of serum protein subunit fibrils (primary AL 50% cardiac, secondary AA 5% cardiac) | Conduction system disease; myocardial involvement | Increased LV and RV wall thickness with increased myocardial echogenicity (“sparkling” not specific); progressive diastolic dysfunction; valve thickening; intracardiac thrombus |
+| Sarcoidosis | Systemic disease, pulmonary involvement most; subclinical cardiac in up to 20% | Conduction abnormalities, ventricular arrhythmias, or heart failure | Nonspecific; regional wall motion in non-coronary pattern; LV systolic and diastolic dysfunction |
+| **Other** | | | |
+| Isolated LV noncompaction | Rare, primary genetic | HF, angina, arrhythmias, thromboembolic events | Deep ventricular trabeculations (inferior and lateral walls); color Doppler flow into recesses; EF may be reduced; ratio noncompacted/compacted >2:1 at end-systole in short-axis |
+| Tako-tsubo (stress-induced) | Catecholamine-induced acute myocardial dysfunction | Sudden chest pain, dyspnea, ECG changes, elevated enzymes with normal coronaries; intense emotional/physical stress; >80% women age 50–75 years | Apical dilation and systolic dysfunction (EF significantly reduced); regional dysfunction atypical for CAD; EF returns to normal in 1–4 weeks |
+| Arrhythmogenic RV cardiomyopathy | Familial in ≥30% (autosomal dominant) | Sudden cardiac death or ventricular arrhythmias | RV dilation and systolic dysfunction; echo findings nonspecific; MRI more accurate |
 
 </div></details>
 
@@ -247,6 +262,7 @@ Evaluation of a patient with new-onset heart failure typically includes a carefu
 ### Basic Principles</summary><div class="details-content">
 
 Hypertrophic cardiomyopathy is an autosomal dominant inherited disease of the myocardium (with variable penetrance) related to abnormalities in genes coding for contractile proteins. Characteristic anatomic features of this disease ([Fig. 9.13](#fig-9-13)) include:
+
 - Asymmetric hypertrophy of the LV
 - Normal LV systolic function
 - Impaired diastolic LV function
@@ -258,24 +274,26 @@ Other important clinical features of this disease are a high risk of sudden deat
 
 **FIGURE 9.13** Hypertrophic cardiomyopathy. Typical findings include asymmetric septal hypertrophy with sparing of the basal posterior wall and normal LV systolic function with impaired diastolic function. When dynamic outflow tract obstruction is present, systolic anterior motion of the mitral valve leaflets, mid-systolic closure and coarse fluttering of the aortic valve leaflets, and mitral regurgitation (MR; *blue arrow*) are noted. *Ao,* Aorta.
 
-<span id="fig-9-14"></span>![](_page_10_Figure_19.jpeg)
-
-**FIGURE 9.14** Septal hypertrophy. 2D images of hypertrophic cardiomyopathy in (A) a parasternal long-axis *(PLAX)* view at end-diastole for measurement of septal and posterior wall thickness. The septum is markedly thickened with a normal thickness of the basal inferior-lateral (posterior) wall. (B) The parasternal short-axis *(PSAX)* view shows hypertrophy involving the anterior and inferior septum. *Ao,* Aorta.
-
 The pattern and degree of LV hypertrophy in patients with hypertrophic cardiomyopathy can be quite variable ([Fig. 9.14](#fig-9-14)). The septum often is primarily hypertrophied at the base with a sigmoid shape of the septum, or severe septal hypertrophy can occur, with bulging into the LV chamber. With apical hypertrophic cardiomyopathy severe hypertrophy is confined to the LV apex, sometimes with near obliteration of the LV cavity in systole. The common feature of all these hypertrophy patterns is normal thickness (or “sparing”) of the basal posterior LV wall.
 
+<span id="fig-9-14"></span>![](_page_10_Figure_19.jpeg)
+
+**FIGURE 9.14** Septal hypertrophy. 2D images of hypertrophic cardiomyopathy in (A) a parasternal long-axis (PLAX) view at end-diastole for measurement of septal and posterior wall thickness. The septum is markedly thickened with a normal thickness of the basal inferior-lateral (posterior) wall. (B) The parasternal short-axis (PSAX) view shows hypertrophy involving the anterior and inferior septum. *Ao,* Aorta.
+
 Hypertrophic cardiomyopathy is classified as:
-- Nonobstructive (about one third of patients) if the outflow gradient at rest and with provocation is <30 mmHg
-- Obstructive if the gradient at rest is ≥30 mmHg (>2.7 m/s)
-- Provocable or latent if the resting gradient is <30 mmHg but obstruction occurs with exercise (or other maneuvers)
 
-<span id="fig-9-15"></span>![](_page_11_Figure_3.jpeg)
-
-**FIGURE 9.15** (No original caption provided. Figure shows pressure gradient tracing across LVOT in HCM.)
+- **Nonobstructive** (about one third of patients) if the outflow gradient at rest and with provocation is <30 mmHg
+- **Obstructive** if the gradient at rest is ≥30 mmHg (>2.7 m/s)
+- **Provocable or latent** if the resting gradient is <30 mmHg but obstruction occurs with exercise (or other maneuvers)
 
 With dynamic obstruction, one sees an increase in flow velocity, and corresponding pressure gradient, proximal to the aortic valve, in association with systolic anterior motion of the mitral valve toward the hypertrophied ventricular septum ([Fig. 9.15](#fig-9-15)). Obstruction is dynamic rather than fixed, both in the sense that it occurs only in mid to late systole and in the sense that the presence and severity of obstruction can be altered by loading conditions. These features contrast with the relatively fixed obstruction of aortic valve stenosis, which persists from the onset to the end of ejection and in which the severity of the stenosis is relatively insensitive to changes in loading conditions. Dynamic outflow obstruction in hypertrophic cardiomyopathy typically has a pattern of onset in mid-systole, with the maximum LV to aortic pressure gradient occurring in late systole.
 
+<span id="fig-9-15"></span>![](_page_11_Figure_3.jpeg)
+
+**FIGURE 9.15** Dynamic subaortic outflow obstruction. In patients with hypertrophic cardiomyopathy, hemodynamics are characterized by a small gradient in late systole between the LV and aorta (Ao) at rest. The CW Doppler curve shows a late-peaking velocity of 2.5 m/s, with the origin of this velocity being the subaortic region. With alterations in loading conditions (decreased preload), the degree of obstruction increases dramatically. A late-peaking, high-velocity (3.5 m/s) Doppler curve now is obtained.
+
 Obstruction can be diminished by maneuvers that increase ventricular volume (e.g., an increase in preload or a decrease in contractility) or by maneuvers that increase afterload. Conversely, the degree of obstruction is increased by:
+
 - Reduced preload
 - Increased contractility
 - Decreased afterload
@@ -286,7 +304,7 @@ Dynamic outflow obstruction usually is associated with mitral regurgitation beca
 
 <span id="fig-9-16"></span>![](_page_12_Figure_3.jpeg)
 
-**FIGURE 9.16** Mitral systolic anterior motion and mitral regurgitation in hypertrophic cardiomyopathy. In this parasternal long-axis 2D image *(left)* and color flow image *(right),* systolic anterior motion *(SAM)* and mitral regurgitation *(MR)* are seen. The posteriorly directed MR jet originates from malcoaptation of a mitral leaflet segment in association with systolic anterior motion. Turbulence in the LV outflow tract *(LVOT)* is seen because of subaortic dynamic obstruction. *Ao,* Aorta.
+**FIGURE 9.16** Mitral systolic anterior motion and mitral regurgitation in hypertrophic cardiomyopathy. In this parasternal long-axis 2D image *(left)* and color flow image *(right)*, systolic anterior motion (SAM) and mitral regurgitation (MR) are seen. The posteriorly directed MR jet originates from malcoaptation of a mitral leaflet segment in association with systolic anterior motion. Turbulence in the LV outflow tract (LVOT) is seen because of subaortic dynamic obstruction. *Ao,* Aorta.
 
 LV systolic function typically is normal in patients with hypertrophic cardiomyopathy. However, LV diastolic function is abnormal, with impaired relaxation and decreased compliance, thus accounting for many of the heart failure symptoms in patients with hypertrophic cardiomyopathy.
 
@@ -310,7 +328,7 @@ Apical views are essential for complete visualization of the pattern and extent 
 
 <span id="fig-9-17"></span>![](_page_12_Picture_8.jpeg)
 
-**FIGURE 9.17** Apical hypertrophic cardiomyopathy. Marked thickening of the apical segments is noted in the apical four-chamber view.
+**FIGURE 9.17** Apical hypertrophic cardiomyopathy. The apical four-chamber view shows marked hypertrophy of the LV apex *(arrow)*, with a normal basal septal and posterior wall thickness.
 
 </div></details>
 
@@ -327,19 +345,18 @@ Patients with hypertrophic cardiomyopathy often have a pattern of LV diastolic f
 #### Dynamic Subaortic LV Outflow Tract Obstruction</summary><div class="details-content">
 
 In about 70% of patients with hypertrophic cardiomyopathy, subaortic obstruction is present, at rest or with exercise, and characterized by:
-- ❐ Systolic anterior motion of the mitral leaflet
-- ❐ Mid-systolic closure of the aortic valve
-- ❐ Late-peaking, high-velocity flow in the outflow tract
-- ❐ Variability in the severity of obstruction with maneuvers:
+
+- Systolic anterior motion of the mitral leaflet
+- Mid-systolic closure of the aortic valve
+- Late-peaking, high-velocity flow in the outflow tract
+- Variability in the severity of obstruction with maneuvers:
   - Post-premature ventricular contraction beats
   - Valsalva maneuver
   - Exercise
 
 **IMAGING.** In a patient with dynamic LV outflow tract obstruction, long-axis images show the classic finding of systolic anterior motion of the mitral valve with apposition of the mitral leaflet and septum in mid to late systole. M-mode recordings are helpful in that, with pathologic systolic anterior motion, the rate of anterior leaflet motion is more rapid than the anterior motion of the posterior wall in systole ([Fig. 9.18](#fig-9-18)). A “contact lesion” on the ventricular septum at the site of mitral leaflet impingement is seen in some patients.
 
-<span id="fig-9-18"></span>![](_page_13_Figure_19.jpeg)
-
-![](_page_13_Figure_20.jpeg)
+<span id="fig-9-18"></span>![](_page_13_Figure_19.jpeg)![](_page_13_Figure_20.jpeg)
 
 **FIGURE 9.18** M-mode findings in hypertrophic cardiomyopathy. M-mode at the mitral valve level *(left)* in a patient with dynamic outflow obstruction shows classic septal hypertrophy and systolic anterior motion of the mitral leaflets *(arrows)*. An M-mode view at the aortic valve level *(right)* shows mid-systolic closure of the aortic valve *(arrow)* followed by coarse fluttering of the leaflets.
 
@@ -359,7 +376,7 @@ Continuous-wave (CW) Doppler from an apical approach typically shows a late-peak
 
 **FIGURE 9.19** Dynamic outflow obstruction in hypertrophic cardiomyopathy. Resting outflow obstruction in this patient with hypertrophic cardiomyopathy was evaluated from the apical view *(left)* with color and pulsed Doppler to localize the level of obstruction. The pulsed Doppler sample volume was moved sequentially from the ventricular cavity toward the aortic valve to identify the site of increased velocity. CW Doppler *(right)* shows the high-velocity, late-peaking *(arrow)* jet typical of dynamic outflow obstruction. *LVOT obstr.,* LV outflow tract obstruction.
 
-**LATENT OUTFLOW OBSTRUCTION.** Some patients with hypertrophic cardiomyopathy have dynamic outflow obstruction with exercise but not at rest. Traditionally, maneuvers to “provoke” outflow obstruction at rest were performed during the echocardiography examination. A spontaneous premature ventricular contraction (PVC) results in an increased degree of obstruction on the post-PVC beat due to increased LV contractility. The strain phase of the Valsalva maneuver increases obstruction by decreasing preload (smaller LV cavity size), but it is difficult to perform simultaneously with echocardiography because of changes in cardiac position and lung interference as the patient performs the maneuver. In the past, amyl nitrate inhalation was used to induce a brief decrease in preload (venodilation) and decrease in afterload (arterial dilation), both of which increase the degree of obstruction. However, these maneuvers are no longer recommended because of low reproducibility and limited clinical value.
+**LATENT OUTFLOW OBSTRUCTION.** Some patients with hypertrophic cardiomyopathy have dynamic outflow obstruction with exercise but not at rest. Traditionally, maneuvers to “provoke” outflow obstruction at rest were performed during the echocardiography examination. A spontaneous premature ventricular contraction (PVC) results in an increased degree of obstruction on the post-PVC beat due to increased LV contractility. The strain phase of the Valsalva maneuver increases obstruction by decreasing preload (smaller LV cavity size), but it is difficult to perform simultaneously with echocardiography because of changes in cardiac position and lung interference as the patient performs the maneuver. In the past, amyl nitrite inhalation was used to induce a brief decrease in preload (venodilation) and decrease in afterload (arterial dilation), both of which increase the degree of obstruction. However, these maneuvers are no longer recommended because of low reproducibility and limited clinical value.
 
 The optimal approach to evaluate for provocable obstruction is a supine bicycle or upright treadmill exercise stress test. CW Doppler outflow velocity recordings are made at rest and immediately after exercise to assess for inducible outflow obstruction, defined as an exercise outflow tract gradient ≥30 mmHg (velocity ≥2.7 m/s) ([Fig. 9.20](#fig-9-20)). Pharmacologic stress testing with dobutamine is not recommended because it is nonspecific (mid-cavity obstruction is seen even in normal individuals) and does not provide information on exercise capacity or the relationship of symptoms to exertion.
 
@@ -423,7 +440,7 @@ In patients with a definite diagnosis of hypertrophic cardiomyopathy, Doppler fi
 
 #### Selection of Patients for Implantable Cardiac Defibrillators</summary><div class="details-content">
 
-Primary prevention of sudden cardiac death in patients with hypertrophic cardiomyopathy is based on implantable cardiac defibrillator (ICD) placement in patients with a combination of risk factors for sudden death. Definite risk factors are sustained or frequent nonsustained ventricular tachycardia, recurrent unexplained syncope, a family history of sudden death, an abnormal blood pressure response to exercise, and extreme LV hypertrophy (septal diastolic wall thickness >30 mm). Other risk factors include high-risk genetic defects. Outflow obstruction is considered only a minor risk factor for sudden cardiac death.
+Primary prevention of sudden cardiac death in patients with hypertrophic cardiomyopathy is based on implantable cardiac defibrillator (ICD) placement in patients with a combination of risk factors for sudden death. Definite risk factors are sustained or frequent non-sustained ventricular tachycardia, recurrent unexplained syncope, a family history of sudden death, an abnormal blood pressure response to exercise, and extreme LV hypertrophy (septal diastolic wall thickness >30 mm). Other risk factors include high-risk genetic defects. Outflow obstruction is considered only a minor risk factor for sudden cardiac death.
 
 </div></details>
 
@@ -475,7 +492,7 @@ Restrictive cardiomyopathy is characterized by heart failure with preserved ejec
 
 <span id="fig-9-24"></span>![](_page_18_Figure_3.jpeg)
 
-**FIGURE 9.24** Restrictive cardiomyopathy. Typical features include a thick-walled, small LV with impaired diastolic function, LA and RA enlargement, and signs of secondary pulmonary hypertension, including paradoxical septal motion and a high-velocity tricuspid regurgitant *(TR)* jet.
+**FIGURE 9.24** Restrictive cardiomyopathy. Typical features include a thick-walled, small LV with impaired diastolic function, LA and RA enlargement, and signs of secondary pulmonary hypertension, including paradoxical septal motion and a high-velocity tricuspid regurgitant (TR) jet.
 
 As the disease progresses, an individual patient progresses from an anatomic or hemodynamic pattern consistent with restrictive cardiomyopathy to a pattern showing some features of dilated cardiomyopathy, ending with a picture indistinguishable from dilated cardiomyopathy. Compared with dilated cardiomyopathy, restrictive cardiomyopathy is an uncommon diagnosis. Causes of restrictive cardiomyopathy include systemic diseases with accumulation of cells or protein in the myocardial interstitium, storage diseases with accumulation of material within myocardial cells, and processes that affect the endocardium (see [Table 9.1](#table-9-1)).
 
@@ -490,6 +507,7 @@ As the disease progresses, an individual patient progresses from an anatomic or 
 #### Anatomic Features</summary><div class="details-content">
 
 Typical echocardiographic features ([Fig. 9.25](#fig-9-25)) in the untreated patient with restrictive cardiomyopathy include:
+
 - Nondilated, thick-walled LV
 - Normal LV systolic function
 - Abnormal LV diastolic function
@@ -518,22 +536,24 @@ The pattern of LV diastolic filling parallels the abnormalities in LV diastolic 
 
 <span id="fig-9-27"></span>![](_page_19_Figure_10.jpeg)
 
-**FIGURE 9.27** Diastolic function in restrictive cardiomyopathy. LV diastolic filling in a patient with a restrictive cardiomyopathy shows pseudonormalization with an *E* velocity slightly greater than the *A* velocity *(top)*. This pattern is distinguished from normal by the tissue Doppler myocardial velocity *(bottom)* showing reduced early motion *(E′),* compared with the motion after atrial contraction *(A′)*.
+**FIGURE 9.27** Diastolic function in restrictive cardiomyopathy. LV diastolic filling in a patient with a restrictive cardiomyopathy shows pseudo-normalization with an *E* velocity slightly greater than the *A* velocity *(top)*. This pattern is distinguished from normal by the tissue Doppler myocardial velocity *(bottom)* showing reduced early motion (E), compared with the motion after atrial contraction (A).
 
 RA filling patterns, recorded in the hepatic vein (or superior vena cava), correspond to physical examination of the neck vein pulsations seen in patients with restrictive cardiomyopathy. Using this analogy, the hepatic vein flow pattern typically shows:
-- A prominent reverse flow phase with atrial contraction (*a*-wave)
-- A rapid filling curve in systole (*x*-descent)
+
+- A prominent reverse flow phase with atrial contraction (a-wave)
+- A rapid filling curve in systole (x-descent)
 - A blunted RA diastolic filling phase (diminished *v*-wave and *y*-descent)
 
 These findings correspond to the pattern of RA pressure recordings at catheterization; the *x*-descent represents the “dip,” and the blunted systolic filling phase represents the “plateau” of the dip-and-plateau pattern.
 
-As the disease progresses, LA pressure rises, resulting in an increased pressure gradient from the LA to the LV at mitral valve opening. Along with reduced diastolic compliance of the LV, this increased mitral opening pressure leads to an increased *E* velocity and a rapid deceleration slope. The *A* velocity is reduced because of a combination of increased LV end-diastolic pressure and reduced atrial contractile function. Thus the pattern of diastolic filling in established restrictive cardiomyopathy (which may coincide with the initial clinical presentation) is similar to the “big *E*, little *A*” pattern seen in normal young individuals. However, this “pseudonormal” pattern of LV filling can be distinguished from normal by:
+As the disease progresses, LA pressure rises, resulting in an increased pressure gradient from the LA to the LV at mitral valve opening. Along with reduced diastolic compliance of the LV, this increased mitral opening pressure leads to an increased *E* velocity and a rapid deceleration slope. The *A* velocity is reduced because of a combination of increased LV end-diastolic pressure and reduced atrial contractile function. Thus the pattern of diastolic filling in established restrictive cardiomyopathy (which may coincide with the initial clinical presentation) is similar to the “big *E*, little *A*” pattern seen in normal young individuals. However, this “pseudo-normal” pattern of LV filling can be distinguished from normal by:
+
 - The rapid early diastolic deceleration time (LV inflow)
 - A reduced *E′* velocity (annular tissue velocity)
 - An increased PVa velocity and duration
 - The patient’s age, clinical presentation, and other associated echocardiographic findings
 
-With a pseudonormal LV inflow pattern, mitral annular velocity shows a marked reduction in *E′* velocity with the ratio of transmitral *E* velocity to annular *E′* velocity corresponding to the elevation in LV end-diastolic pressure. In addition, pulmonary venous inflow in diastole is normal or increased as blood flows in a conduit from the pulmonary veins to LV. With atrial contraction, the increased resistance to LV filling results in an increase in the velocity and duration of the atrial flow reversal into the lower resistance pulmonary veins. Thus pulmonary venous flow shows an increased diastolic phase, a reduced systolic phase, and prominent *a*-wave flow reversal. This is in contrast to the normal pattern of nearly equal systolic and diastolic pulmonary venous inflow curves and a small *a*-wave.
+With a pseudo-normal LV inflow pattern, mitral annular velocity shows a marked reduction in *E′* velocity with the ratio of transmitral *E* velocity to annular *E′* velocity corresponding to the elevation in LV end-diastolic pressure. In addition, pulmonary venous inflow in diastole is normal or increased as blood flows in a conduit from the pulmonary veins to LV. With atrial contraction, the increased resistance to LV filling results in an increase in the velocity and duration of the atrial flow reversal into the lower resistance pulmonary veins. Thus pulmonary venous flow shows an increased diastolic phase, a reduced systolic phase, and prominent *a*-wave flow reversal. This is in contrast to the normal pattern of nearly equal systolic and diastolic pulmonary venous inflow curves and a small *a*-wave.
 
 Late in the disease course, a restrictive pattern of LV filling is seen with an increased *E* velocity and reduced *A* velocity, a steep early diastolic deceleration slope, and reduced isovolumic relaxation time.
 
@@ -589,7 +609,7 @@ Arrhythmogenic RV dysplasia (ARVD) is a genetic form of cardiomyopathy that resu
 
 ### Left Ventricular Noncompaction</summary><div class="details-content">
 
-Isolated LV noncompaction is a genetic cardiomyopathy characterized by decreased coronary flow reserve and a thickened, prominently trabeculated myocardium with deep recesses that communicate with the ventricular chamber ([Fig. 9.29](#fig-9-29)). A similar pattern of ventricular trabeculation is seen with secondary cardiomyopathies due to neuromuscular diseases and other conditions. Features of noncompaction overlap with the clinical presentation of dilated, hypertrophic, and restrictive cardiomyopathy. Noncompaction manifests clinically with heart failure, embolic events, and arrhythmias. Distinguishing echocardiographic features are hypokinesis and myocardial thickening localized to the apex, midlateral, and mid-inferior walls; a ratio of the thickness of the noncompacted to compacted myocardium at end-systole ≥2:1; and color Doppler showing flow extending into the trabecular recesses.
+Isolated LV noncompaction is a genetic cardiomyopathy characterized by decreased coronary flow reserve and a thickened, prominently trabeculated myocardium with deep recesses that communicate with the ventricular chamber ([Fig. 9.29](#fig-9-29)). A similar pattern of ventricular trabeculation is seen with secondary cardiomyopathy due to neuromuscular diseases and other conditions. Features of noncompaction overlap with the clinical presentation of dilated, hypertrophic, and restrictive cardiomyopathy. Noncompaction manifests clinically with heart failure, embolic events, and arrhythmias. Distinguishing echocardiographic features are hypokinesis and myocardial thickening localized to the apex, midlateral, and mid-inferior walls; a ratio of the thickness of the noncompacted to compacted myocardium at end-systole ≥2:1; and color Doppler showing flow extending into the trabecular recesses.
 
 <span id="fig-9-29"></span>![](_page_21_Figure_10.jpeg)
 
@@ -622,13 +642,14 @@ Mechanical support with an LV assist device (LVAD) ([Fig. 9.30](#fig-9-30)) can 
 **FIGURE 9.30** Left ventricular assist device. Example of a continuous flow LV assist device with low-velocity inflow recorded from the apical cannula and outflow recorded in the ascending aorta. The aortic valve remains closed throughout systole on most beats with this type of LV assist device.
 
 Flow patterns and expected velocity data vary among devices, but changes among studies often are most important in clinical decision making. In addition to standard imaging, as in any patient with heart failure, recommended parameters for echocardiographic evaluation of a patient with an LVAD include:
+
 - Record LVAD type, mode, and pump speed.
 - Measure LV dimensions and volumes in standard image planes.
 - Record aortic valve motion with M-mode for several cardiac cycles to document aortic valve opening frequency and duration.
 - Record LVAD inflow from the apical conduit using color and pulsed Doppler.
 - Record LVAD outflow into the ascending aorta with color and pulsed Doppler.
 
-Optimal images of the inflow and outflow cannulas often require oblique nonstandard image planes. Echocardiographic data are used to optimize LVAD flow parameters to avoid underfilling the device, thus causing either low forward flow rates and a dilated ventricle or excessively high flow rates, which can result in cannula obstruction due to a small LV chamber impinging on the inflow cannula orifice. Complications that can be detected include pericardial tamponade (often loculated), RV failure, and thrombus formation.
+Optimal images of the inflow and outflow cannulas often require oblique nonstandard image planes. Echocardiographic data are used to optimize LVAD flow parameters to avoid underfilling the device, thus causing either low forward flow rates and a dilated ventricle or excessively high flow rates, which can result in cannula obstruction due to a small LV chamber impinging on the inflow cannula orifice. Complications that can be detected include pericardial tamponade (often localized), RV failure, and thrombus formation.
 
 </div></details>
 
@@ -651,19 +672,20 @@ Echocardiographic evaluation of a patient after cardiac transplantation typicall
 #### Cardiac Allograft Structure and Function</summary><div class="details-content">
 
 Common problems encountered in patients after cardiac transplantation include:
+
 - Pericardial effusion, particularly early postoperatively
 - RV systolic dysfunction due to inadequate myocardial preservation at the time of transplantation, persistently elevated pulmonary vascular resistance, or transplant rejection
 - LV systolic dysfunction due to inadequate myocardial preservation, acute rejection early after transplantation, or superimposed coronary artery disease at a longer interval after transplantation
 
 Primary valvular disease, of course, is uncommon because of screening of donor hearts before transplantation. However, mitral or tricuspid regurgitation secondary to ventricular dysfunction and annular dilation also is seen. Diastolic dysfunction is an early marker of rejection.
 
-Typically, RV and LV size, wall thickness, and systolic function are normal in the absence of perioperative complications or rejection. However, abnormal septal motion, with anterior motion of the septum in systole with a slight decrease in the extent of systolic thickening of the septal myocardium, is the norm. Valvular anatomy and function are normal, with small amounts of mitral, tricuspid, and pulmonic regurgitation present with a prevalence similar to that in normal individuals. The suture lines in the aorta and pulmonary artery often are difficult to appreciate depending on the distance of the suture lines from the valve planes and the type of surgical procedure. A small pericardial effusion is seen early in the postoperative period but rarely persists beyond a few weeks. Pericardial effusions often are loculated because of postoperative pericardial adhesions, so examination in multiple tomographic planes from parasternal, apical, and subcostal windows is essential when this diagnosis is suspected. Some degree of persistent pulmonary hypertension may be present, as calculated from the velocity in the tricuspid regurgitant jet and estimates of RA pressure.
+Typically, RV and LV size, wall thickness, and systolic function are normal in the absence of perioperative complications or rejection. However, abnormal septal motion, with anterior motion of the septum in systole with a slight decrease in the extent of systolic thickening of the septal myocardium, is the norm. Valvular anatomy and function are normal, with small amounts of mitral, tricuspid, and pulmonic regurgitation present with a prevalence similar to that in normal individuals. The suture lines in the aorta and pulmonary artery often are difficult to appreciate depending on the distance of the suture lines from the valve planes and the type of surgical procedure. A small pericardial effusion is seen early in the postoperative period but rarely persists beyond a few weeks. Pericardial effusions often are localized because of postoperative pericardial adhesions, so examination in multiple tomographic planes from parasternal, apical, and subcostal windows is essential when this diagnosis is suspected. Some degree of persistent pulmonary hypertension may be present, as calculated from the velocity in the tricuspid regurgitant jet and estimates of RA pressure.
 
 If the surgical approach included anastomoses of the normal and donor atrium, a normal echocardiogram after cardiac transplantation will show biatrial enlargement ([Fig. 9.31](#fig-9-31)), with a variably prominent ridge between the donor and recipient portions of both the RA and LA. The atrial suture line should not be mistaken for an abnormal atrial mass. When transplantation is performed with anastomosis of the superior and inferior vena cavae for the RA and a cuff of tissue with the pulmonary veins for the LA, little atrial enlargement occurs, and suture lines are less evident.
 
 <span id="fig-9-31"></span>![](_page_23_Figure_4.jpeg)
 
-**FIGURE 9.31** Post–heart transplant image. Example of a heart transplant with a prominent anastomosis *(arrow)* between the severely dilated native LA and normal-size donor LA in a parasternal long-axis view (A) and an apical four-chamber view (B). Typically the residual native atrial size is smaller, with a less obvious bulge at the anastomosis. *Ao,* Aorta.
+**FIGURE 9.31** Post-heart transplant image. Example of a heart transplant with a prominent anastomosis *(arrow)* between the severely dilated native LA and normal-size donor LA in a parasternal long-axis view (A) and an apical four-chamber view (B). Typically the residual native atrial size is smaller, with a less obvious bulge at the anastomosis. *Ao,* Aorta.
 
 </div></details>
 
@@ -672,11 +694,12 @@ If the surgical approach included anastomoses of the normal and donor atrium, a 
 #### Acute Transplant Rejection</summary><div class="details-content">
 
 With acute, severe rejection, echocardiography shows increased LV mass, decreased systolic function, and an increase in the echogenicity of the myocardium. However, with mild or early rejection, echocardiographic changes are subtle and are not accurate or reproducible enough to allow adjustment of immunosuppressive medications in individual patients. Instead, proposed approaches to the diagnosis of early rejection have focused on measures of diastolic function, specifically measures of early diastolic relaxation. The Doppler changes in acute rejection include:
+
 - Decreased pressure half-time (increased early diastolic deceleration slope)
 - Decreased isovolumetric relaxation time
 - Increased *E* velocity
 
-Compared with the patient’s own baseline study, a significant change (defined as >20% for *E* velocity and >15% for pressure half-time or isovolumic relaxation time) is consistent with rejection. Tissue Doppler measures are sensitive but not specific for the detection of rejection. In addition, many posttransplant patients have resting tachycardia, with *E/A* fusion, due to cardiac denervation. Some transplant centers have found these measures clinically useful, but most centers continue to rely on endomyocardial biopsy.
+Compared with the patient’s own baseline study, a significant change (defined as >20% for *E* velocity and >15% for pressure half-time or isovolumic relaxation time) is consistent with rejection. Tissue Doppler measures are sensitive but not specific for the detection of rejection. In addition, many post-transplant patients have resting tachycardia, with *E/A* fusion, due to cardiac denervation. Some transplant centers have found these measures clinically useful, but most centers continue to rely on endomyocardial biopsy.
 
 </div></details>
 
@@ -684,7 +707,7 @@ Compared with the patient’s own baseline study, a significant change (defined 
 
 #### Post-Transplant Monitoring</summary><div class="details-content">
 
-As survival after cardiac transplantation has improved, increasing numbers of patients are seen with posttransplant coronary artery disease. Transplant coronary disease differs from typical atherosclerosis in that both epicardial vessels and the microvasculature are diffusely involved with an accelerated form of intimal hyperplasia. Echocardiographic exercise stress testing has a higher prevalence of false-negative results because of the diffuse disease process masking regional wall motion abnormalities. Dobutamine stress echocardiography is more accurate in this patient population and now is routine at many transplant centers. However, coronary angiography is needed for a definitive diagnosis, often with concurrent intravascular ultrasound examination of the coronary arteries.
+As survival after cardiac transplantation has improved, increasing numbers of patients are seen with post-transplant coronary artery disease. Transplant coronary disease differs from typical atherosclerosis in that both epicardial vessels and the microvasculature are diffusely involved with an accelerated form of initial hyperplasia. Echocardiographic exercise stress testing has a higher prevalence of false-negative results because of the diffuse disease process masking regional wall motion abnormalities. Dobutamine stress echocardiography is more accurate in this patient population and now is routine at many transplant centers. However, coronary angiography is needed for a definitive diagnosis, often with concurrent intravascular ultrasound examination of the coronary arteries.
 
 </div></details>
 
@@ -709,6 +732,7 @@ The standard method for the evaluation of transplant rejection remains transveno
 ### Basic Principles</summary><div class="details-content">
 
 Hypertensive heart disease is an end-organ consequence of systemic hypertension. Chronic systemic pressure overload results in LV hypertrophy to maintain normal wall stress. Initially diastolic function is impaired, whereas systolic function remains normal. With long-standing hypertension, systolic dysfunction and ventricular dilation can occur. Typical echocardiographic findings associated with chronic hypertension include:
+
 - LV hypertrophy
 - Diastolic dysfunction
 - Ascending aortic dilation
@@ -727,11 +751,11 @@ Hypertensive heart disease is an end-organ consequence of systemic hypertension.
 
 #### Ventricular Hypertrophy</summary><div class="details-content">
 
-Standard imaging views demonstrate concentric LV hypertrophy with increased wall thickness and a nondilated chamber ([Fig. 9.32](#fig-9-32)). In contrast to hypertrophic cardiomyopathy, the pattern of hypertrophy is generally symmetric, including involvement of the basal posterior wall with an increased end-diastolic wall thickness (>11 mm). LV mass can be estimated from M-mode data, assuming hypertrophy is symmetric, but preferably is calculated from 2D data (see Chapter 6).
+Standard imaging views demonstrate concentric LV hypertrophy with increased wall thickness and a nondilated chamber ([Fig. 9.32](#fig-9-32)). In contrast to hypertrophic cardiomyopathy, the pattern of hypertrophy is generally symmetric, including involvement of the basal posterior wall with an increased end-diastolic wall thickness >11 mm. LV mass can be estimated from M-mode data, assuming hypertrophy is symmetric, but preferably is calculated from 2D data (see Chapter 6).
 
 <span id="fig-9-32"></span>![](_page_25_Picture_15.jpeg)
 
-**FIGURE 9.32** Hypertensive heart disease. This parasternal long-axis view shows the typical echocardiographic findings with concentric LV hypertrophy, mitral annular calcification *(MAC),* aortic valve sclerosis *(arrow)*, and increased echogenicity of the ascending aorta *(small arrow)*. *Ao,* Aorta.
+**FIGURE 9.32** Hypertensive heart disease. This parasternal long-axis view shows the typical echocardiographic findings with concentric LV hypertrophy, mitral annular calcification (MAC), aortic valve sclerosis *(arrow)*, and increased echogenicity of the ascending aorta *(small arrow)*. *Ao,* Aorta.
 
 </div></details>
 
@@ -739,7 +763,7 @@ Standard imaging views demonstrate concentric LV hypertrophy with increased wall
 
 #### Diastolic Function</summary><div class="details-content">
 
-LV diastolic function is characterized by impaired early diastolic relaxation ([Fig. 9.33](#fig-9-33)). This results in a prolonged isovolumic relaxation time, reduced acceleration to a reduced *E* velocity, prolonged early diastolic deceleration slope, an increased *A* velocity, and an *E/A* ratio <1. When LV systolic dysfunction supervenes, the elevated LV end-diastolic pressure and elevated LA pressure result in “pseudonormalization” of this pattern with an enhanced *E* velocity (related to a higher mitral valve opening gradient) and reduced *A* velocity (due to the elevated LV end-diastolic pressure). Coexisting mitral regurgitation also can lead to a “paradoxical” higher *E* velocity despite impaired ventricular relaxation. Interestingly, in individuals with physiologic hypertrophy or “athlete’s heart,” diastolic dysfunction is not seen even when increased wall thickness is present. In pathologic hypertrophy (due to hypertension), diastolic dysfunction often is the first evidence of end-organ damage, usually antedating clear evidence of anatomic hypertrophy.
+LV diastolic function is characterized by impaired early diastolic relaxation ([Fig. 9.33](#fig-9-33)). This results in a prolonged isovolumic relaxation time, reduced acceleration to a reduced *E* velocity, prolonged early diastolic deceleration slope, an increased *A* velocity, and an *E/A* ratio <1. When LV systolic dysfunction supervenes, the elevated LV end-diastolic pressure and elevated LA pressure result in “pseudo-normalization” of this pattern with an enhanced *E* velocity (related to a higher mitral valve opening gradient) and reduced *A* velocity (due to the elevated LV end-diastolic pressure). Coexisting mitral regurgitation also can lead to a “paradoxical” higher *E* velocity despite impaired ventricular relaxation. Interestingly, in individuals with physiologic hypertrophy or “athlete’s heart,” diastolic dysfunction is not seen even when increased wall thickness is present. In pathologic hypertrophy (due to hypertension), diastolic dysfunction often is the first evidence of end-organ damage, usually antedating clear evidence of anatomic hypertrophy.
 
 <span id="fig-9-33"></span>![](_page_25_Figure_20.jpeg)
 
@@ -791,7 +815,7 @@ LV mass, measured by echocardiography, is a strong predictor of clinical outcome
 
 In a patient with chronic hypertension, heart failure symptoms may be due to diastolic or systolic LV dysfunction, superimposed coronary artery disease, or superimposed valvular disease. Early in the disease course, pathologic hypertrophy is associated with impaired early diastolic filling. Impaired ventricular filling leads to elevated LA pressures and pulmonary venous hypertension, resulting in dyspnea. Diagnosis of diastolic dysfunction with preserved systolic function can be made by echocardiography and has important clinical implications because the therapy for heart failure symptoms is quite different for diastolic versus systolic dysfunction.
 
-Heart failure symptoms due to hypertension with preserved systolic function and severe LV hypertrophy have been termed *hypertensive hypertrophic cardiomyopathy*. This condition is characterized by normal to hyperdynamic systolic function, concentric hypertrophy, diastolic dysfunction, and a mid-ventricular late systolic gradient due to cavity obliteration (see [Fig. 9.21](#fig-9-21)). Strictly speaking, this combination of findings is not a “cardiomyopathy” and is not an inherited disorder but simply represents severe end-organ damage due to hypertension. However, awareness of this specific clinical picture results in consideration of this diagnosis in patients in whom hypertrophic or restrictive cardiomyopathy otherwise might be suspected.
+Heart failure symptoms due to hypertension with preserved systolic function and severe LV hypertrophy have been termed hypertensive hypertrophic cardiomyopathy. This condition is characterized by normal to hyperdynamic systolic function, concentric hypertrophy, diastolic dysfunction, and a mid-ventricular late systolic gradient due to cavity obliteration (see [Fig. 9.21](#fig-9-21)). Strictly speaking, this combination of findings is not a “cardiomyopathy” and is not an inherited disorder but simply represents severe end-organ damage due to hypertension. However, awareness of this specific clinical picture results in consideration of this diagnosis in patients in whom hypertrophic or restrictive cardiomyopathy otherwise might be suspected.
 
 With long-standing hypertension, impairment of LV contractility can occur, even in the absence of coexisting coronary artery disease. Physiologically, elevated afterload (as in valvular aortic stenosis) is the proximate cause of systolic dysfunction. However, systolic function does not always improve, even with aggressive antihypertensive therapy when systolic dysfunction is long-standing, a finding suggesting that irreversible changes in ventricular contractility have occurred. End-stage hypertensive heart disease has an echocardiographic appearance similar to end-stage dilated cardiomyopathy.
 
@@ -817,13 +841,11 @@ The need for routine echocardiographic evaluation of patients with hypertension 
 
 ### Chronic Versus Acute Pulmonary Disease</summary><div class="details-content">
 
-Chronic pulmonary hypertension, whether due to intrinsic lung disease, recurrent pulmonary emboli, or primary pulmonary hypertension, results in a group of clinical signs and symptoms termed *cor pulmonale*. The underlying pathophysiology of this clinical syndrome is chronic pressure overload of the RV as it ejects into a high-resistance pulmonary vascular bed. Initially, compensatory hypertrophy occurs with preserved systolic function. Over time, contractility deteriorates, and RV dilation, moderate to severe tricuspid regurgitation, and consequent RA enlargement are seen ([Fig. 9.34](#fig-9-34)).
+Chronic pulmonary hypertension, whether due to intrinsic lung disease, recurrent pulmonary emboli, or primary pulmonary hypertension, results in a group of clinical signs and symptoms termed cor pulmonale. The underlying pathophysiology of this clinical syndrome is chronic pressure overload of the RV as it ejects into a high-resistance pulmonary vascular bed. Initially, compensatory hypertrophy occurs with preserved systolic function. Over time, contractility deteriorates, and RV dilation, moderate to severe tricuspid regurgitation, and consequent RA enlargement are seen ([Fig. 9.34](#fig-9-34)).
 
-<span id="fig-9-34"></span>![](_page_27_Figure_7.jpeg)
+<span id="fig-9-34"></span>![](_page_27_Figure_7.jpeg)![](_page_27_Figure_8.jpeg)
 
-![](_page_27_Figure_8.jpeg)
-
-**FIGURE 9.34** Pulmonary heart disease. RV hypertrophy *(RVH)* and enlargement *(RVE)* are seen with paradoxical septal motion. Secondary tricuspid regurgitation *(TR)* and RA enlargement *(RAE)* are common. Elevated pulmonary artery pressures will be reflected in the high-velocity tricuspid regurgitant jet velocity and mid-systolic notching in the pulmonary artery velocity curve. *PR,* Pulmonic regurgitation.
+**FIGURE 9.34** Pulmonary heart disease. RV hypertrophy (RVH) and enlargement (RVE) are seen with paradoxical septal motion. Secondary tricuspid regurgitation (TR) and RA enlargement (RAE) are common. Elevated pulmonary artery pressures will be reflected in the high-velocity tricuspid regurgitant jet velocity and mid-systolic notching in the pulmonary artery velocity curve. *PR,* Pulmonic regurgitation.
 
 Acute pulmonary embolism also can affect right heart function because of the sudden onset of elevated pulmonary vascular resistance. Echocardiographic evaluation is helpful in assessing pulmonary artery pressures and RV function in patients with either chronic or acute pulmonary hypertension.
 
@@ -837,17 +859,17 @@ Acute pulmonary embolism also can affect right heart function because of the sud
 
 #### Pulmonary Pressures</summary><div class="details-content">
 
-Standard approaches for the noninvasive evaluation of pulmonary pressures (PAP), as described in Chapter 6, are applicable to the patient with suspected or known pulmonary hypertension. The most reliable approach is to record the maximum tricuspid regurgitant jet velocity (*V*TR) for calculation of the RV to RA systolic pressure difference ([Fig. 9.35](#fig-9-35)). Care is needed to interrogate the tricuspid regurgitant jet from multiple acoustic windows (apical, parasternal) with a systematic approach to transducer angulation to obtain a parallel intercept angle between the ultrasound beam and jet. RA pressure (RAP) is estimated from the size and respiratory variation in the inferior vena cava. Then pulmonary artery systolic pressure (in the absence of pulmonic stenosis) is calculated as:
+Standard approaches for the noninvasive evaluation of pulmonary pressures (PAP), as described in Chapter 6, are applicable to the patient with suspected or known pulmonary hypertension. The most reliable approach is to record the maximum tricuspid regurgitant jet velocity (VTR) for calculation of the RV to RA systolic pressure difference ([Fig. 9.35](#fig-9-35)). Care is needed to interrogate the tricuspid regurgitant jet from multiple acoustic windows (apical, parasternal) with a systematic approach to transducer angulation to obtain a parallel intercept angle between the ultrasound beam and jet. RA pressure (RAP) is estimated from the size and respiratory variation in the inferior vena cava. Then pulmonary artery systolic pressure (in the absence of pulmonic stenosis) is calculated as:
 
-$$PAP = 4V^2_{TR} + RAP \tag{Eq. 9.1}$$
+$$PAP = 4V^2_{\rm TR} + RAP \tag{Eq. 9.1}$$
 
 <span id="fig-9-35"></span>![](_page_28_Figure_3.jpeg)
 
-**FIGURE 9.35** Primary pulmonary hypertension. Tricuspid regurgitant jet in a patient with primary pulmonary hypertension. Using 2D and color-guided CW Doppler from the apex *(left)*, a clear signal is obtained, although signal strength is low, with a maximum jet of 4.6 m/s. The use of a dedicated CW probe *(right)* provides a stronger signal, and a higher jet velocity is obtained from a parasternal window. The maximum velocity of 4.9 m/s indicates an RV to RA pressure difference of 96 mmHg. RA pressure was elevated at 10 mmHg, so estimated pulmonary artery systolic pressure is 106 mmHg. Note the faint linear spread of the signal at peak of the curve *(see third beat in right panel)*. This faint signal is due to the transit time effect and should not be included in the velocity measurement.
+**FIGURE 9.35** Primary pulmonary hypertension. Tricuspid regurgitant jet in a patient with primary pulmonary hypertension. Using 2D and color-guided CW Doppler from the apex *(left)*, a clear signal is obtained, although signal strength is low, with a maximum jet of 4.6 m/s. The use of a dedicated CW probe *(right)* provides a stronger signal, and a higher jet velocity is obtained from a parasternal window. The maximum velocity of 4.9 m/s indicates an RV to RA pressure difference of 96 mmHg. RA pressure was elevated at 10 mmHg, so estimated pulmonary artery systolic pressure is 106 mmHg. Note the faint linear spread of the signal at peak of the curve (see third beat in right panel). This faint signal is due to the transit time effect and should not be included in the velocity measurement.
 
 Diastolic pulmonary artery pressure can be estimated from the velocities in the pulmonic regurgitant Doppler curve. Pulmonary vascular resistance (PVR) can be estimated from the ratio of the tricuspid regurgitant jet velocity to the velocity time integral of RV outflow (VTIRVOT), multiplied by 10 for conversion to Wood units (see Chapter 6):
 
-$$PVR(\text{Wood units}) = 10(V_{TR}/VTI_{RVOT}) \tag{Eq. 9.2}$$
+$$PVR (\text{Wood units}) = 10(V_{\rm TR}/VTI_{\rm RVOT}) \tag{Eq. 9.2}$$
 
 Indirect signs of pulmonary hypertension often are seen that indicate the presence, but not the exact severity, of pulmonary hypertension. For example, an M-mode recording through the pulmonic valve shows a reduced *a*-wave and mid-systolic closure of the valve. This pattern has a reasonably high specificity (>90%) for detecting pulmonary hypertension but a low sensitivity (30% to 60%). This motion pattern is paralleled by the Doppler velocity curve, which shows an abrupt mid-systolic deceleration of flow ([Fig. 9.36](#fig-9-36)). Signs of RV pressure overload, including abnormal ventricular septal motion, also are valuable clues suggesting the presence of pulmonary hypertension.
 
@@ -865,7 +887,7 @@ The response of the RV to chronic pressure overload consists of hypertrophy and 
 
 <span id="fig-9-37"></span>![](_page_29_Figure_4.jpeg)
 
-**FIGURE 9.37** Cor pulmonale. (A) Apical four-chamber view at end-diastole in a patient with chronic pulmonary disease and secondary pulmonary hypertension. RV enlargement, RV hypertrophy, paradoxical septal motion, and reduced systolic function of the RV are present. (B) Color Doppler shows severe tricuspid regurgitation *(TR).*
+**FIGURE 9.37** Cor pulmonale. (A) Apical four-chamber view at end-diastole in a patient with chronic pulmonary disease and secondary pulmonary hypertension. RV enlargement, RV hypertrophy, paradoxical septal motion, and reduced systolic function of the RV are present. (B) Color Doppler shows severe tricuspid regurgitation (TR).
 
 With long-standing or acute pulmonary hypertension, RV systolic dysfunction can occur, with secondary dilation serving as a compensatory mechanism to maintain forward stroke volume. However, RV dilation leads to tricuspid regurgitation because of annular dilation and malalignment of the papillary muscles. This superimposed volume overload results in further RV dilation and more tricuspid regurgitation. RA dilation is due to both pressure (*v*-wave) and volume (tricuspid regurgitation) overload.
 
@@ -902,6 +924,7 @@ In the patient with chronic lung disease and right heart failure, echocardiograp
 In patients with primary pulmonary hypertension, echocardiography is essential in excluding other causes of pulmonary hypertension, such as an atrial septal defect or mitral regurgitation. In addition, noninvasive measurement of pulmonary pressure now is routinely used for evaluating changes in pulmonary pressures with medical therapy.
 
 In the patient with an acute pulmonary embolus, imaging rarely shows a residual thrombus originating from or in transit through (from a deep vein thrombosis) the right heart. TEE imaging can demonstrate thrombus in the main, right, or left pulmonary artery. However, the sensitivity of echocardiography for the diagnosis of pulmonary embolism based on demonstrating a thrombus is low because the thrombus is lodged more distally in the pulmonary vasculature in most cases. In addition, adequate visualization of the pulmonary artery bifurcation is not possible in all patients because of interposition of the air-filled trachea and bronchi. Indirect signs of pulmonary embolism include:
+
 - Elevated pulmonary artery pressures
 - Evidence of acute RV pressure overload
 - RV dilation and dysfunction
@@ -931,12 +954,18 @@ Clinically, the standard approach for the diagnosis of pulmonary embolism is com
 
 #### Possible Diagnoses in a Patient Referred for “Heart Failure”</summary><div class="details-content">
 
-- Ischemic disease
-- Valvular disease
-- Hypertensive heart disease
-- Cardiomyopathy (Dilated, Hypertrophic, Restrictive, Other)
-- Pericardial disease (Constriction, Tamponade)
-- Pulmonary heart disease
+| Diagnosis |
+|---|
+| Ischemic disease |
+| Valvular disease |
+| Hypertensive heart disease |
+| **Cardiomyopathy** |
+| &nbsp;&nbsp;&nbsp;&nbsp;Dilated |
+| &nbsp;&nbsp;&nbsp;&nbsp;Hypertrophic |
+| &nbsp;&nbsp;&nbsp;&nbsp;Restrictive |
+| &nbsp;&nbsp;&nbsp;&nbsp;Other |
+| Pericardial disease (constriction, tamponade) |
+| Pulmonary heart disease |
 
 </div></details>
 
@@ -952,7 +981,7 @@ Clinically, the standard approach for the diagnosis of pulmonary embolism is com
 | Outflow obstruction | Mid-ventricular cavity obliteration | Dynamic subaortic obstruction | Absent |
 | RV hypertrophy | Absent | May be present | Present |
 | Pulmonary hypertension | Mild | Mild | Moderate |
-| LV systolic function | Normal initially but reduced late | Normal | Normal initially but reduced late |
+| LV systolic function | Normal initially but reduced late in disease course | Normal | Normal initially but reduced late in disease course |
 | LV diastolic function | Abnormal | Abnormal | Abnormal |
 
 </div></details>
@@ -966,23 +995,10 @@ Clinically, the standard approach for the diagnosis of pulmonary embolism is com
 | LV systolic function | Moderately-severely ↓ | Normal | Normal | Normal |
 | LV diastolic function | May be abnormal | Abnormal | Abnormal | Normal |
 | LV hypertrophy | ↑ LV mass due to LV dilation with normal wall thickness | Asymmetric LV hypertrophy | Concentric LV hypertrophy | Normal wall thickness |
-| Chamber dilation | All four chambers | LA and RA dilation if MR present | LA and RA dilation | LV dilation |
+| Chamber dilation | All four chambers | LA and RA dilation if MR is present | LA and RA dilation | LV dilation |
 | Outflow tract obstruction | Absent | Dynamic LV outflow tract obstruction in some patients | Absent | Absent |
 | LV end-diastolic pressure | Elevated | Elevated | Elevated | Normal |
 | Pulmonary artery pressures | Elevated | Elevated | Elevated | Normal |
-
-</div></details>
-
-<details class="med-details"><summary>
-
-#### Suggested Echo Protocol for Cardiomyopathy Evaluation</summary><div class="details-content">
-
-| Modality | Echo Views and Flows | Measurements |
-|---|---|---|
-| Imaging | LV size and systolic function<br>Degree and pattern of LV hypertrophy<br>Evidence for dynamic outflow tract obstruction<br>RV size and systolic function<br>LA size | LVEDV, LVESV<br>Apical biplane EF<br>LV mass<br>SAM of the mitral valve<br>Aortic valve mid-systolic closure |
-| Doppler echo | Associated valvular regurgitation<br>LV diastolic function<br>LV systolic function<br>Pulmonary pressures | Measure vena contracta; quantitate if more than mild.<br>Standard diastolic function evaluation with classification of severity and estimate of LVEDP<br>dP/dt from MR jet<br>Calculation of cardiac output<br>TR jet and IVC for PA systolic pressure<br>Evaluate PR jet for PA diastolic pressure.<br>Estimate pulmonary resistance.<br>Color, pulsed, and CW Doppler to quantitate outflow obstruction |
-
-*EF,* Ejection fraction; *IVC,* inferior vena cava; *LVEDP,* LV end-diastolic pressure; *LVEDV,* LV end-diastolic volume; *LVESV,* LV end-systolic volume; *MR,* mitral regurgitation; *PA,* pulmonary artery; *PR,* pulmonary regurgitation; *SAM,* systolic anterior motion; *TR,* tricuspid regurgitation.
 
 </div></details>
 
