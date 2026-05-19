@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Guidelines AHA and ESC",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "AHA and ESC"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "ESC VALVE 2025"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. ESOPHAGEAL AND PROXIMAL STOMACH MALIGNANCY"
+      }
+    ],
+    "appendices": []
+  }
+]
