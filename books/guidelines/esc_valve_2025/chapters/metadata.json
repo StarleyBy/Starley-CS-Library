@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Guidelines AHA and ESC",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "AHA and ESC"
+    ],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "ESC VALVE 2025"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. ESOPHAGEAL AND PROXIMAL STOMACH MALIGNANCY"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. RESECTION TECHNIQUES FOR BENIGN ESOPHAGEAL DISEASE"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. ACHALASIA AND ESOPHAGEAL MOTILITY DISORDERS"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. ESOPHAGEAL REFLUX DISORDERS"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. ESOPHAGEAL TRAUMA"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. CONGENITAL ESOPHAGEAL SURGERY"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. BENIGN UPPER AIRWAYS CONDITIONS"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. CANCER OF THE UPPER AIRWAYS"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. LUNG CANCER OVERVIEW AND PATHOLOGY"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. STANDART PULMONARY RESECTIONS"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. EXTENDED PULMONARY RESECTIONS"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. COMPLICATIONS OF PULMONARY RESECTION"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. NONOPERATIVE TREATMENTS FOR LUNG CANCER"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. MULTIMODALITY MANAGEMENT OF NON–SMALL-CELL LUNG CANCER"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. BENIGN LUNG DISEASE"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. LUNG INFECTION"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. LUNG TRANSPLANTATION"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. PLEURAL MALIGNANCY"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. BENIGN PLEURAL CONDITIONS"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. CHEST WALL AND STERNAL TUMORS"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. BENIGN CHEST WALL CONDITIONS"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. DIAPHRAGM"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. MEDIASTINAL DISEASES, BENIGN OR MALIGNANT"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. NEW HORIZONS"
+      }
+    ],
+    "appendices": []
+  }
+]
