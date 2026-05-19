@@ -87,6 +87,14 @@
       ]
     },
     {
+      "id": "guidelines",
+      "title": "Guidelines",
+      "path": "books/guidelines",
+      "books": [
+            { "folder": "guide" }
+      ]
+    },
+    {
       "id": "work",
       "title": "Service",
       "path": "books/work",
