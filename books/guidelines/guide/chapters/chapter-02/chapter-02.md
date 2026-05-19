@@ -396,12 +396,12 @@ Ad hoc PCI is defined as a therapeutic intervention performed within the same pr
 
 #### <span id="table-3"></span>Table 3: Timing of revascularization</summary><div class="details-content">
 
-*Table content summarised based on original:*
-
-- **Emergency (immediate ≤2h):** Haemodynamic instability, cardiogenic shock, acute heart failure; ongoing ischaemia despite medical treatment; life-threatening arrhythmias/cardiac arrest; mechanical complications of MI.
-- **Urgent (≤24h):** NSTE-ACS with high-risk criteria (GRACE >140, troponin rise, dynamic ST/T); STEMI (time from symptom onset <12h); post-successful fibrinolysis (2-24h); failed fibrinolysis (immediate rescue PCI).
-- **In-hospital (≤72h):** NSTE-ACS with intermediate-risk criteria; STEMI 12-48h after symptom onset.
-- **Elective (≥72h):** Stable CAD with low/intermediate risk; after full diagnostic work-up and Heart Team discussion.
+| Timing | Indication |
+|--------|------------|
+| Emergency (immediate ≤2 h) | Haemodynamic instability, cardiogenic shock, acute heart failure; ongoing ischaemia despite medical treatment; life-threatening arrhythmias/cardiac arrest; mechanical complications of MI. |
+| Urgent (≤24 h) | NSTE-ACS with high-risk criteria (GRACE >140, troponin rise, dynamic ST/T changes); STEMI (time from symptom onset <12 h); post-successful fibrinolysis (2-24 h); failed fibrinolysis (immediate rescue PCI). |
+| In-hospital (≤72 h) | NSTE-ACS with intermediate-risk criteria; STEMI 12-48 h after symptom onset. |
+| Elective (≥72 h) | Stable CAD with low/intermediate risk; after full diagnostic work-up and Heart Team discussion. |
 
 </div></details>
 
@@ -459,9 +459,9 @@ The indications for revascularization in patients with stable angina or silent i
 | **For symptoms** | | | |
 | | Haemodynamically significant coronary stenosis* in the presence of limiting angina or angina equivalent, with insufficient response to optimized medical therapy*** | I | A |
 
-*With documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel.*
-**Based on FFR <0.75 indicating a prognostically relevant lesion.*
-***In consideration of patient compliance and wishes.*
+*With documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel.
+**Based on FFR <0.75 indicating a prognostically relevant lesion.
+***In consideration of patient compliance and wishes.
 
 </div></details>
 
@@ -501,13 +501,15 @@ The recommendations for the type of revascularization (CABG or PCI) in patients 
 
 #### <span id="table-4"></span>Table 4: Randomized clinical trials comparing percutaneous coronary intervention with drug-eluting stents vs. surgical revascularization</summary><div class="details-content">
 
-| Study | Stent type | N | Age | Women% | Diabetes% | MV/LM% | EF% | Primary endpoint | Results (PCI vs CABG) |
-|-------|------------|---|-----|---------|-----------|--------|-----|------------------|------------------------|
-| SYNTAX | PES 2009 | 1800 | 65 | 22 | 25 | MV61 LM39 | - | Death/MI/stroke/revasc 1y | 17.8 vs 12.4% |
-| PRECOMBAT | SES 2011 | 600 | 62 | 24 | 32 | LM100 | 61 | Death/MI/stroke/TVR 1y | 8.7 vs 6.7% (non-inf) |
-| BEST | EES 2015 | 880 | 64 | 29 | 41 | MV100 | 60 | Death/MI/TVR 2y | 11.0 vs 7.9% |
-| NOBLE | BES 2016 | 1201 | 66 | 22 | 15 | LM100 | 60 | Death/MI/TVR 5y | 15.4 vs 7.2% |
-| EXCEL | EES 2016 | 1905 | 66 | 24 | 30 | LM100 | 57 | Death/MI/stroke 3y | 15.4 vs 14.7% (non-inf) |
+| Study | Stent type | N | Age | Women% | Diabetes% | MV/LM% | EF% | Primary endpoint (PCI vs CABG) | Death (5y) | MI (5y) | Revasc (5y) | Stroke (5y) |
+|-------|------------|---|-----|---------|-----------|--------|-----|-------------------------------|------------|---------|-------------|-------------|
+| SYNTAX (2009) | PES | 1800 | 65 | 22 | 25 | MV61 LM39 | - | 17.8 vs 12.4% at 1y | 13.9 vs 11.4% | 9.7 vs 3.8%* | 25.9 vs 13.7%* | 2.4 vs 3.7% |
+| PRECOMBAT (2011) | SES | 600 | 62 | 24 | 32 | LM100 | 61 | 8.7 vs 6.7% at 1y (non-inf) | 2.4 vs 3.4% (2y) | 1.7 vs 1.0% (2y) | 9.0 vs 4.2%* (2y) | 0.4 vs 0.7% (2y) |
+| BEST (2015) | EES | 880 | 64 | 29 | 41 | MV100 | 60 | 11.0 vs 7.9% at 2y | 6.6 vs 5.0% (5y) | 4.8 vs 2.7% (5y) | 13.4 vs 6.6%* (5y) | 2.9 vs 3.3% (5y) |
+| NOBLE (2016) | BES | 1201 | 66 | 22 | 15 | LM100 | 60 | 15.4 vs 7.2% at 5y* | 11.6 vs 9.5% (5y) | 6.9 vs 1.9%* (5y) | 16.2 vs 10.4%* (5y) | 4.9 vs 1.7%* (5y) |
+| EXCEL (2016) | EES | 1905 | 66 | 24 | 30 | LM100 | 57 | 15.4 vs 14.7% at 3y (non-inf) | 8.2 vs 5.9% (3y) | 8.0 vs 8.3% (3y) | 13.4 vs 6.6%* (3y) | 2.3 vs 2.9% (3y) |
+
+*P < 0.05
 
 </div></details>
 
@@ -556,8 +558,14 @@ In the SYNTAX trial, tertiles of SYNTAX score with low, intermediate, and high a
 
 | Step | Variable assessed | Description |
 |------|-------------------|-------------|
-| Step 1 | Dominance | Right or left dominance |
-| Step 2 | Coronary segment | Each segment weight 0.5 to 6 |
+| Step 1 | Dominance | The weight of individual coronary segments varies according to coronary artery dominance (right or left). Co-dominance does not exist as an option in the SYNTAX score. |
+| Step 2 | Coronary segment | The diseased coronary segment directly affects the score as each coronary segment is assigned a weight depending on its location, ranging from 0.5 (i.e. the posterolateral branch) to 6 (i.e. left main in case of left dominance). |
+| Step 3 | Stenosis degree | Each lesion is weighted for the degree of stenosis (1 for 50-69%, 2 for 70-89%, 3 for 90-99%, and 5 for total occlusion). |
+| Step 4 | Total score | Add the scores for all lesions and segments. |
+
+![](_page_1_Figure_syntax.jpeg)
+
+For calculating the SYNTAX score, the diseased segments are identified in an 11-segment model (see Supplementary Table 4). For each segment, the score is multiplied by 2 if a stenosis is ≥50% and by 5 if a stenosis is ≥99%.
 
 </div></details>
 
@@ -611,7 +619,7 @@ The role of functional guidance for CABG is less clear. One of the potential ben
 | Three-vessel with diabetes, low SYNTAX (0-22) | I | A | IIb | A |
 | Three-vessel with diabetes, intermed/high SYNTAX (>22) | I | A | III | A |
 
-*PCI may be considered if Heart Team concerned about surgical risk or patient refuses CABG.*
+*PCI may be considered if Heart Team concerned about surgical risk or patient refuses CABG.
 
 </div></details>
 
@@ -1528,6 +1536,10 @@ Radial access is recommended as the standard approach, unless overriding procedu
 
 **Figure 9** Anticoagulant and antiplatelet drugs used during and after myocardial revascularization.
 
+<span id="fig-10"></span>![](_page_1_Figure_10.jpeg)
+
+**Figure 10** Algorithm for the use of antithrombotic drugs in patients undergoing percutaneous coronary intervention. High bleeding risk is considered as an increased risk of spontaneous bleeding during DAPT (e.g. PRECISE-DAPT score ≥25). Colour-coding refers to the ESC classes of recommendations (green = class I; yellow = class IIa; orange = class IIb).
+
 <details class="med-details"><summary>
 
 #### <span id="table-7"></span>Table 7: Doses of antiplatelet and anticoagulant drugs</summary><div class="details-content">
@@ -1583,6 +1595,45 @@ Continue aspirin perioperatively. For non-emergent surgery, postpone at least 3 
 <details class="med-details"><summary>
 
 #### 17.5.1. Antithrombotic therapy after PCI in patients requiring oral anticoagulation</summary><div class="details-content">
+
+**Table 8: Strategies to avoid bleeding complications in oral anticoagulation patients**
+- Assess ischaemic and bleeding risks using validated risk predictors (e.g. CHA₂DS₂‑VASc, ABC, and HAS‑BLED) with a focus on modifiable risk factors.
+- Keep triple therapy duration as short as possible; dual therapy after PCI (OAC and clopidogrel) to be considered instead of triple therapy.
+- Consider the use of a NOAC instead of a VKA when NOACs are not contraindicated.
+- Consider a target INR in the lower part of the recommended target range and maximise time in the therapeutic range (>65%) when a VKA is used.
+- Clopidogrel is the P2Y₁₂ inhibitor of choice.
+- Use low-dose (<100 mg daily) aspirin.
+- Routine use of PPIs.
+
+**Table 9: Ischaemic and bleeding risk profiles for patients on oral anticoagulation undergoing PCI**
+
+| Ischaemic risk profile | Bleeding risk profile |
+|------------------------|----------------------|
+| Prior stent thrombosis on adequate antiplatelet therapy | Short life expectancy |
+| Stenting of the last remaining patent coronary artery | Ongoing malignancy |
+| Diffuse multivessel disease, especially in diabetic patients | Poor expected adherence |
+| Chronic kidney disease (CrCl <60 mL/min) | Poor mental status |
+| At least three stents implanted | End-stage renal failure |
+| At least three lesions treated | Advanced age |
+| Bifurcation with two stents implanted | Prior major bleeding/prior haemorrhagic stroke |
+| Total stented length >60 mm | Chronic alcohol abuse |
+| Treatment of a chronic total occlusion | Anaemia |
+| History of STEMI | Clinically significant bleeding on dual antithrombotic therapy |
+
+**Table 10: Unfavourable patient profile for a combination of oral anticoagulant and antiplatelet therapy**
+
+| Unfavourable ischaemic profile | Unfavourable bleeding profile |
+|-------------------------------|------------------------------|
+| Prior stent thrombosis on adequate antiplatelet therapy | Short life expectancy |
+| Stenting of the last remaining patent coronary artery | Ongoing malignancy |
+| Diffuse multivessel disease, especially in diabetic patients | Poor expected adherence |
+| Chronic kidney disease (CrCl <60 mL/min) | Poor mental status |
+| At least three stents implanted | End-stage renal failure |
+| At least three lesions treated | Advanced age |
+| Bifurcation with two stents implanted | Prior major bleeding/prior haemorrhagic stroke |
+| Total stented length >60 mm | Chronic alcohol abuse |
+| Treatment of a chronic total occlusion | Anaemia |
+| History of STEMI | Clinically significant bleeding on dual antithrombotic therapy |
 
 Triple therapy (aspirin+clopidogrel+OAC) for 1 month, then dual therapy (clopidogrel+OAC) up to 6-12 months (IIa A). NOAC preferred over VKA (IIa A). Ticagrelor/prasugrel not recommended as part of triple therapy (III C).
 
@@ -1722,5 +1773,3 @@ Simple exercise ECG testing is not recommended for follow‑up. More studies nee
 - Prasugrel pre‑treatment before anatomy known not recommended (III B)
 
 </div></details>
-
-<details class="med-details"><summary>
