@@ -203,7 +203,7 @@ The 2025 ESC/EACTS Guidelines for the management of valvular heart disease aim t
 
 <details class="med-details"><summary>
 
-#### Table 3: New recommendations</summary><div class="details-content">
+#### <span id="table-3"></span>Table 3: New recommendations</summary><div class="details-content">
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -260,7 +260,7 @@ The 2025 ESC/EACTS Guidelines for the management of valvular heart disease aim t
 
 <details class="med-details"><summary>
 
-#### Table 4: Revised recommendations</summary><div class="details-content">
+#### <span id="table-4"></span>Table 4: Revised recommendations</summary><div class="details-content">
 
 | Recommendations in 2021 version | Class | Level | Recommendations in 2025 version | Class | Level |
 |--------------------------------|-------|-------|--------------------------------|-------|-------|
@@ -357,7 +357,7 @@ Heart Valve Centres should ensure that their facilities match institutional and 
 
 <details class="med-details"><summary>
 
-#### Table 5: Requirements for a Heart Valve Centre</summary><div class="details-content">
+#### <span id="table-5"></span>Table 5: Requirements for a Heart Valve Centre</summary><div class="details-content">
 
 | Requirement | Description |
 |-------------|-------------|
@@ -402,7 +402,7 @@ National procedural activity varies widely between high-, middle-, and low-incom
 
 <details class="med-details"><summary>
 
-#### Table 6: Complex procedures ideally performed in the most experienced Heart Valve Centres</summary><div class="details-content">
+#### <span id="table-6"></span>Table 6: Complex procedures ideally performed in the most experienced Heart Valve Centres</summary><div class="details-content">
 
 | **Transcatheter interventions** | **Surgical interventions** |
 |--------------------------------|---------------------------|
@@ -1088,8 +1088,6 @@ For all other candidates for a bioprosthesis, the most appropriate mode of inter
 
 </div></details>
 
-</div></details>
-
 <details class="med-details"><summary>
 
 ### 8.6. Follow-up</summary><div class="details-content">
@@ -1754,7 +1752,7 @@ Measures obtained during cardiopulmonary exercise testing reflect the effect of 
 | **Robust echocardiography measurements** | AVA (continuity equation), DVI In mixed AR and AS: Vmax and mean gradient reflect combined burden | EROA (PISA), vena contracta | Planimetry and 3D MVA (TOE) In mixed MR & MS: mean gradient reflects combined burden | EROA (PISA), vena contracta |
 | **Complementary imaging** | CT: AV calcium scoring | CMR: regurgitant volume and fraction | — | CMR: regurgitant volume and fraction |
 
-*3D, three-dimensional; AS, aortic stenosis; AR, aortic regurgitation; AVA, aortic valve area; CT, computed tomography; CMR, cardiac magnetic resonance; DVI, Doppler velocity index; EROA, effective regurgitant orifice area; LA, left atrium/left atrial; LV, left ventricle/left ventricular; LVOT, left ventricular outflow tract; MR, mitral regurgitation; MS, mitral stenosis; MVA, mitral valve area; PHT, pressure half-time; PISA, proximal isovelocity surface area; TOE, transoesophageal echocardiography; TR, tricuspid regurgitation; Vmax, peak transvalvular velocity; VTI, velocity time integral.*
+*3D, three-dimensional; AS, aortic stenosis; AR, aortic regurgitation; AVA, aortic valve area; CT, computed tomography; CMR, cardiac magnetic resonance; DVI, Doppler velocity index; EROA, effective regurgitant orifice area; LA, left atrium/left atrial; LV, left ventricle/left ventricular; LVOT, left ventricular outflow tract; MR, mitral regurgitation; MS, mitral stenosis; MVA, mitral valve area; PHT, pressure half-time; PISA, proximal isovelocity surface area; TR, tricuspid regurgitation; Vmax, peak transvalvular velocity; VTI, velocity time integral.*
 
 </div></details>
 
@@ -2107,8 +2105,6 @@ Antithrombotic therapy after transcatheter MV or TV implantation remains empiric
 
 </div></details>
 
-</div></details>
-
 <details class="med-details"><summary>
 
 ### 14.4. Management of prosthetic valve dysfunction and complications</summary><div class="details-content">
@@ -2239,8 +2235,6 @@ Anticoagulation using a VKA is the first-line treatment for clinically relevant 
 | OAC should be considered in patients with leaflet thickening and reduced leaflet motion leading to elevated gradients at least until resolution. | IIa | |
 
 *4D, four-dimensional; BHV, biological heart valve; CT, computed tomography; HF, heart failure; MHV, mechanical heart valve; NYHA, New York Heart Association; OAC, oral anticoagulation; PVL, paravalvular leak; TOE, transoesophageal echocardiography; VKA, vitamin K antagonist.*
-
-</div></details>
 
 </div></details>
 
@@ -2541,7 +2535,7 @@ Tricuspid regurgitation is more prevalent in women, and female sex is associated
 
 - In women with VHD, decisions regarding management before and during pregnancy should be taken after discussion by the multidisciplinary Pregnancy Heart Team. Unplanned pregnancies should be discouraged.
 - The following conditions should be corrected prior to considering pregnancy: clinically severe MS (MVA <1.5 cm²), even when asymptomatic; severe symptomatic AS, or asymptomatic patients with impaired LV function or a pathological exercise test; heritable aortic disorders and high risk of aortic dissection.
-- Vaginal delivery is the first choice for the majority of patients. Indications for Caesarean section include pre-term labour in patients on OAC, severe MS or AS, aggressive aortic pathology, acute intracatable HF, and severe PH.
+- Vaginal delivery is the first choice for the majority of patients. Indications for Caesarean section include pre-term labour in patients on OAC, severe MS or AS, aggressive aortic pathology, acute intractable HF, and severe PH.
 - Women with MHVs should be managed in expert centres.
 
 </div></details>
