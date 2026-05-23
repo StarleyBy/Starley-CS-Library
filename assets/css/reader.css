@@ -1993,6 +1993,32 @@ body.focus-mode #radial-menu-container {
    PRINT / SAVE AS PDF
    ========================================================================== */
 
+.radial-item.ri-amber[data-action="reading-mode"].active {
+  box-shadow: 0 0 15px rgba(255, 210, 0, 0.8), inset 0 0 5px white !important;
+  border: 2px solid white !important;
+}
+
+body.reading-mode-active #reading-progress-bar {
+  height: 5px;
+  background: linear-gradient(90deg, #ffca28, #f9a825);
+}
+
+/* Page tap feedback animation */
+@keyframes tap-flash {
+  0% { background: rgba(255, 255, 255, 0); }
+  50% { background: rgba(255, 255, 255, 0.1); }
+  100% { background: rgba(255, 255, 255, 0); }
+}
+
+body.reading-mode-active::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 5;
+  transition: background 0.2s;
+}
+
 @media print {
   /* Hide everything except content */
   .reader-header,

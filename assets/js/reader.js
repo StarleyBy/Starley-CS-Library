@@ -16,6 +16,7 @@ const ReaderSettings = {
         FONT_FAMILY: 'reader_font_family',
         SCROLL_POS:  'reader_scroll_',   // + chapterId suffix
         READ_CHAPTERS: 'reader_read_chapters',
+        READING_MODE:  'reader_reading_mode',
     },
 
     get(key, fallback = null) {
@@ -26,6 +27,10 @@ const ReaderSettings = {
     set(key, value) {
         try { localStorage.setItem(key, JSON.stringify(value)); } catch {}
     },
+
+    // ---- Reading mode (paging via taps) ----
+    getReadingMode()    { return this.get(this.KEYS.READING_MODE, false); },
+    setReadingMode(on)  { this.set(this.KEYS.READING_MODE, on); },
 
     // ---- Font size (px) ----
     getFontSize()      { return this.get(this.KEYS.FONT_SIZE, 16); },
@@ -467,6 +472,7 @@ function _initRadialMenu() {
             else if (action === 'text-width')     { _cycleTextWidth(); }
             else if (action === 'lh-increase')    { _changeLineHeight(+0.15); }
             else if (action === 'lh-decrease')    { _changeLineHeight(-0.15); }
+            else if (action === 'reading-mode')   { _toggleReadingMode(); }
             else if (action === 'search-open')    { _openSearch(); _closeMenu(); }
             else if (action === 'print-chapter')  { _printChapter(); _closeMenu(); }
         });
@@ -539,7 +545,106 @@ function _initRadialMenu() {
     _applyLineHeight();
     _initSearch();
     _initBookmarks();
+    _initReadingMode();
     _initTooltips();
+}
+
+function _initReadingMode() {
+    const active = ReaderSettings.getReadingMode();
+    if (active) {
+        document.body.classList.add('reading-mode-active');
+        _attachReadingModeListeners();
+    }
+    _syncReadingModeUI();
+}
+
+function _toggleReadingMode() {
+    const active = !document.body.classList.contains('reading-mode-active');
+    document.body.classList.toggle('reading-mode-active', active);
+    ReaderSettings.setReadingMode(active);
+    
+    if (active) {
+        _attachReadingModeListeners();
+    } else {
+        _detachReadingModeListeners();
+    }
+    _syncReadingModeUI();
+    _closeMenu();
+}
+
+function _syncReadingModeUI() {
+    const active = document.body.classList.contains('reading-mode-active');
+    const btn = document.querySelector('[data-action="reading-mode"]');
+    if (btn) {
+        btn.classList.toggle('active', active);
+        btn.style.boxShadow = active ? '0 0 15px rgba(255, 210, 0, 0.8), inset 0 0 5px white' : '';
+    }
+}
+
+function _handlePageTap(e) {
+    // Only handle taps, not drags or clicks on interactive elements
+    if (e.target.closest('button, a, summary, input, .radial-item, #radial-trigger')) return;
+    
+    const x = e.clientX;
+    const y = e.clientY;
+    const w = window.innerWidth;
+    const h = window.innerHeight;
+
+    // We only care about the bottom part of the screen (bottom 30%)
+    if (y < h * 0.7) return;
+
+    // Page margin/overlap to keep context
+    const overlap = 40; 
+    const scrollAmount = h - overlap;
+
+    if (x < w * 0.4) {
+        // Left side -> Previous Page
+        window.scrollBy({ top: -scrollAmount, behavior: 'smooth' });
+        _showTapFeedback('back');
+    } else if (x > w * 0.6) {
+        // Right side -> Next Page
+        window.scrollBy({ top: scrollAmount, behavior: 'smooth' });
+        _showTapFeedback('forward');
+    }
+}
+
+function _attachReadingModeListeners() {
+    // Use pointerup to catch taps but not drags
+    document.addEventListener('pointerup', _handlePageTap);
+}
+
+function _detachReadingModeListeners() {
+    document.removeEventListener('pointerup', _handlePageTap);
+}
+
+function _showTapFeedback(dir) {
+    const feedback = document.createElement('div');
+    feedback.style.position = 'fixed';
+    feedback.style.bottom = '20px';
+    feedback.style.padding = '10px 20px';
+    feedback.style.background = 'rgba(0,0,0,0.5)';
+    feedback.style.color = 'white';
+    feedback.style.borderRadius = '20px';
+    feedback.style.pointerEvents = 'none';
+    feedback.style.zIndex = '3000';
+    feedback.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+    feedback.style.fontSize = '0.8rem';
+    feedback.style.opacity = '1';
+    
+    if (dir === 'back') {
+        feedback.style.left = '20px';
+        feedback.textContent = '← Назад';
+    } else {
+        feedback.style.right = '20px';
+        feedback.textContent = 'Вперед →';
+    }
+    
+    document.body.appendChild(feedback);
+    setTimeout(() => {
+        feedback.style.opacity = '0';
+        feedback.style.transform = 'translateY(-20px)';
+        setTimeout(() => feedback.remove(), 500);
+    }, 500);
 }
 
 function _positionItems(container) {
