@@ -4,125 +4,77 @@
 
 ## Executive Summary</summary><div class="details-content">
 
-### Diagnostic Tools for Revascularization Guidance
-* **Non‑invasive ischaemia testing:** First‑line for stable CAD. Large ischaemia (>10% LV) identifies patients with improved prognosis after revascularization (Class I A).
-* **Myocardial viability in HF:** Not the sole test for revascularization decision (viability substudy of STICH showed no independent benefit). May be considered (Class IIb B).
-* **FFR (fractional flow reserve):** Standard for intermediate stenosis (≈40‑90%). Cut‑off ≤0.80 indicates haemodynamically relevant lesion. FFR‑guided PCI superior to angiography‑guided in multivessel disease (FAME trial). FFR‑guided PCI improved urgent revascularization vs. medical therapy in FAME‑2 (Class I A).
-* **iwFR (instantaneous wave‑free ratio):** Resting index. Cut‑off ≤0.89. Non‑inferior to FFR for guiding revascularization (DEFINE‑FLAIR, iFR‑SWEDEHEART) – 1‑year MACE comparable.
-* **IVUS in left main:** Minimal luminal area (MLA) ≥6 mm² (western) or 4.5‑4.8 mm² (Asian) for deferral. IVUS recommended for assessing unprotected left main lesions (Class IIa B).
-* **CT‑FFR:** Promising but insufficient evidence for routine recommendation. PLATFORM study reduced normal angiograms in intermediate pre‑test probability.
+### Triage and Diagnosis
+* **ECG at first medical contact (FMC):** Obtain within 10 min. STEMI: persistent ST elevation (≥2.5 mm in men <40y, ≥2 mm in men ≥40y, ≥1.5 mm in women V2-V3, or ≥1 mm other leads). NSTE-ACS: ST depression, T wave changes, or normal ECG. Additional leads (V3R, V4R, V7-V9) for inferior/posterior STEMI.
+* **High‑sensitivity cardiac troponin (hs‑cTn):** Use ESC 0h/1h or 0h/2h algorithms to rule‑in and rule‑out NSTEMI (Class I A). Rule‑out: very low 0h value or low 0h + no delta. Rule‑in: high 0h or significant delta. Observe zone: repeat at 3h + echocardiography. Results within 60 min.
+* **Non‑invasive imaging:** Emergency TTE for cardiogenic shock or mechanical complications (I C). For patients with non‑elevated hs‑cTn, no ECG changes, no recurrence of pain – incorporate CCTA or stress imaging (IIa A). Routine early CCTA not recommended (III B).
 
-### Decision‑Making: Heart Team and Informed Consent
-* **Heart Team:** Multidisciplinary (clinical cardiologist, cardiac surgeon, interventional cardiologist, anaesthetist). Regular meetings. Recommended to minimize specialty bias and inappropriate revascularization (10‑15% inappropriate PCI rates). Treatment recommendations implemented in 93‑95% of cases.
-* **Informed consent:** Written evidence‑based patient information, time for reflection (up to days). Discuss short‑ and long‑term risks/benefits, local experience. Patient right to decline.
-* **Timing of revascularization:** Ad hoc PCI not default for complex stable CAD (high SYNTAX score). Protocols should define anatomical/clinical subsets for ad hoc. Waiting period for CABG: 3 months risk ≈1 death per 80 patients.
-
-### Revascularization for Stable CAD
-* **Prognostic benefit:** LM stenosis >50% (Class I A), proximal LAD >50% (I A), 2‑/3‑vessel disease with LVEF ≤35% (I A), large ischaemia >10% LV or abnormal FFR (I B).
-* **Symptom benefit:** Haemodynamically significant stenosis (FFR ≤0.80/iwFR ≤0.89 or >90% stenosis) with limiting angina refractory to medical therapy (I A). ORBITA study raised placebo effect question – but short follow‑up, mild symptoms limit conclusions.
-* **CABG vs. PCI decision (low surgical risk):** Based on SYNTAX score, diabetes, completeness of revascularization.
-  - **One‑vessel CAD with proximal LAD:** CABG I A, PCI I A.
-  - **Two‑vessel CAD with proximal LAD:** CABG I B, PCI I C.
-  - **Left main (LM):**
-    - Low SYNTAX (0‑22): CABG I A, PCI I A.
-    - Intermediate SYNTAX (23‑32): CABG I A, PCI IIa A.
-    - High SYNTAX (≥33): CABG I A, PCI III B (not recommended) – unless Heart Team concerned about surgical risk or patient refuses CABG.
-  - **Three‑vessel disease without diabetes:**
-    - Low SYNTAX (0‑22): CABG I A, PCI I A.
-    - Intermediate/high SYNTAX (>22): CABG I A, PCI III A.
-  - **Three‑vessel disease with diabetes:**
-    - Low SYNTAX (0‑22): CABG I A, PCI IIb A.
-    - Intermediate/high (>22): CABG I A, PCI III A.
-* **Completeness of revascularization:** Prioritised (Class IIa B). Anatomical complete revascularisation associated with lower mortality (RR 0.71) and MI (RR 0.78). Functional complete (FFR‑guided) preferred for PCI.
-* **Risk scores:** STS score recommended for CABG mortality/morbidity (I B). EuroSCORE II may be considered (IIb B). SYNTAX score recommended for LM/multivessel CAD (I B).
-
-### Revascularisation in NSTE‑ACS
-* **Invasive strategy timing:**
-  - Urgent (<2h) for very high risk (haemodynamic instability, refractory angina, life‑threatening arrhythmias, mechanical complications) – I C.
-  - Early (<24h) for at least one high‑risk criterion (GRACE >140, troponin rise, dynamic ST/T changes) – I A.
-  - Within 72h for intermediate risk (diabetes, renal dysfunction, LVEF <40%, prior MI) – I A.
-* **Revascularisation strategy:** Based on clinical status, SYNTAX score, SCAD principles (I B). In cardiogenic shock, routine revascularisation of non‑IRA not recommended (III B – CULPRIT‑SHOCK trial).
-* **Complete revascularisation** in multivessel disease before discharge should be considered (IIa A).
-
-### Revascularisation in STEMI
-* **Reperfusion:** Primary PCI preferred over fibrinolysis if timely (I A). Time from symptom onset <12h (I A). Networks and 24/7 catheterisation labs essential (I B).
-* **Multivessel disease:** Routine revascularisation of non‑IRA lesions before hospital discharge should be considered (IIa A). In cardiogenic shock, culprit‑only PCI (CULPRIT‑SHOCK) – III B for routine non‑IRA PCI.
-* **Thrombectomy:** Routine use not recommended (III A – TOTAL, TASTE trials).
-* **Late presentation (12‑48h):** Primary PCI may be considered (IIa B).
-* **Post‑thrombolysis:** Angiography 2‑24h after successful lysis (I A). Rescue PCI for failed lysis.
-
-### Heart Failure and Cardiogenic Shock
-* **Chronic HF with LVEF ≤35% and CAD:** Revascularisation recommended (I B). CABG first choice for multivessel disease with acceptable surgical risk (I B). PCI alternative if complete revascularisation achievable in 1‑/2‑vessel disease (IIa C).
-* **Cardiogenic shock in ACS:** Emergency coronary angiography (I B), PCI of culprit lesion (I B), CABG if anatomy not amenable (I B). IABP not recommended (III B – IABP‑SHOCK II). pLVAD and ECMO may be considered (IIb C) but insufficient evidence.
-
-### Diabetes Mellitus
-* **Multivessel CAD with diabetes:** CABG preferred over PCI (FREEDOM trial: CABG 18.7% vs. PCI 26.6% primary endpoint at 5 years). Benefit consistent across SYNTAX scores but more pronounced in intermediate/high complexity.
-* **Low SYNTAX (0‑22):** CABG I A, PCI IIb A.
-* **Intermediate/high (>22):** CABG I A, PCI III A.
-* **Antithrombotic therapy** no different from non‑diabetics.
-* **Metformin:** Check renal function after angiography, withhold if deteriorates.
-
-### Chronic Kidney Disease (CKD)
-* **Prevention of contrast‑induced nephropathy (CIN):** Hydration (I C), low‑/iso‑osmolar contrast (I A), minimise contrast volume, total contrast volume/GFR <3.7 (I B). High‑dose statins (rosuvastatin 40/20mg or atorvastatin 80mg) should be considered (IIa A). Haemodialysis not for prevention (III B).
-
-### Valve Interventions and Coronary Revascularisation
-* **Primary valve surgery + CAD:** CABG recommended for >70% stenosis (I C), should be considered for 50‑70% (IIa C). For TAVI, PCI of proximal >70% stenosis should be considered (IIa C).
-* **Primary revascularisation + valve:** SAVR indicated for severe AS in patients undergoing CABG (I C). Mitral valve surgery indicated for severe secondary MR with LVEF >30% undergoing CABG (I C).
-
-### Peripheral Artery Disease
-* **Carotid screening:** DUS recommended if recent (<6 months) stroke/TIA (I B). Otherwise may be considered in patients ≥70 years, multivessel CAD, LEAD, carotid bruit (IIb B).
-* **Carotid revascularisation:** For recent stroke/TIA and 50‑99% stenosis, carotid revascularisation should be considered (IIa B), with CEA as first choice (IIa B). Not recommended for stenosis <50% (III C). For asymptomatic, may be considered in bilateral 70‑99% stenosis or with contralateral occlusion (IIb C).
-
-### Repeat Revascularisation
-* **Early graft failure:** Coronary angiography indicated for suspected perioperative MI, haemodynamic instability (I C). Emergency reoperation or PCI decided by Heart Team (I C).
-* **Late graft failure/disease progression:** Repeat revascularisation for large ischaemia or severe symptoms (I B). PCI preferred over redo CABG if safe (IIa B). IMA is conduit of choice for redo CABG if not used previously (I B).
-* **SVG PCI:** Distal protection devices should be considered (IIa B). PCI of native artery preferred over SVG (IIa B). DES reduce repeat revascularisation vs. BMS (I A).
-* **In‑stent restenosis:** DES or drug‑coated balloons recommended (I A). IVUS/OCT should be considered to detect mechanical problems (IIa C). CABG considered for recurrent diffuse restenosis (IIa C).
-
-### Arrhythmias
-* **Ventricular arrhythmias:** Primary PCI for resuscitated cardiac arrest with STEMI (I B). Urgent angiography without ST‑elevation if high suspicion of ongoing ischaemia (IIa C). Electrical storm → urgent coronary angiography (IIa C).
-* **Post‑operative AF after CABG:** Perioperative beta‑blockers (I B). Amiodarone prophylactic (IIa A). Long‑term anticoagulation for stroke risk (IIa B). Surgical LAA occlusion may be considered (IIb B).
-
-### Procedural Aspects of CABG
-* **Completeness of revascularisation:** Recommended (I B). Minimise aortic manipulation (I B). Intraoperative graft flow measurement should be considered (IIa B).
-* **Conduits:** LIMA to LAD (I B). Radial artery recommended over saphenous vein for high‑grade stenosis (≥70‑90%) (I A). BIMA should be considered in patients without high risk of sternal wound infection (IIa B). Skeletonised IMA for high sternal infection risk (I B).
-* **Off‑pump:** With no‑touch aorta recommended in significant aortic disease (I B). Off‑pump in high‑risk patients by experienced teams (IIa B).
-* **No‑touch saphenous vein harvesting** should be considered (IIa B). Endoscopic vein harvesting by experienced surgeons (IIa A).
-
-### Procedural Aspects of PCI
-* **Stents:** New‑generation DES recommended over BMS for any PCI irrespective of presentation, lesion type, DAPT duration, or concomitant anticoagulation (I A). BRS not used outside trials.
-* **Access:** Radial access standard (I A).
-* **Bifurcation lesions:** Main vessel stenting with provisional side branch (I A). Double‑kissing crush for distal LM bifurcation may be preferred (based on Chinese trial). Final kissing balloon when two stents used.
-* **CTO:** PCI improves angina/quality of life (EUROCTO) but not MACE. Decision analogous to non‑CTO lesions.
-* **IVUS/OCT guidance:** No strong recommendation for routine use, but recommended for stent failure (restenosis/thrombosis) to identify mechanical issues (IIa C).
+### Initial Management and Reperfusion
+* **Oxygen:** Only if SpO₂ <90% (III A for routine oxygen in normoxia).
+* **Pain relief:** i.v. opioids (morphine 5‑10 mg) should be considered (IIa C).
+* **i.v. beta‑blockers (metoprolol):** Should be considered in STEMI patients undergoing PPCI with SBP >120 mmHg, no acute HF, no contraindications (IIa A). Reduces VF and microvascular obstruction.
+* **Pre‑hospital networks:** Regional STEMI networks, 24/7 PCI centres, ED bypass, direct transfer to cath lab (I B). Ambulance staff trained in ECG and fibrinolysis.
+* **Reperfusion in STEMI:** PPCI preferred if diagnosis‑to‑wire <120 min (I A). If not possible, fibrinolysis within 12h (I A). Pharmaco‑invasive strategy: immediate transfer after lysis, angiography 2‑24h (I A). Rescue PCI for failed lysis. Routine PCI of occluded IRA >48h without symptoms not recommended (III A).
+* **Invasive strategy in NSTE‑ACS:** Inpatient angiography recommended (I A). **Immediate** (as soon as possible) for very high‑risk: haemodynamic instability, refractory chest pain, life‑threatening arrhythmias, mechanical complications, acute HF, recurrent dynamic ST/T changes (I C). **Early (<24h)** for high‑risk: confirmed NSTEMI by hs‑cTn, dynamic ST/T changes, transient ST elevation, GRACE >140 (IIa A). Selective invasive approach for low‑risk (I A).
 
 ### Antithrombotic Therapy
-* **Stable CAD undergoing PCI:**
-  - Clopidogrel 600mg loading after anatomy known (I A).
-  - Aspirin before stenting (I A).
-  - UFH standard anticoagulant (I B).
-  - DAPT (aspirin+clopidogrel) for 6 months (I A). High bleeding risk (PRECISE‑DAPT ≥25) → consider 3 months (IIa A). High ischaemic risk → may extend >6‑30 months (IIb A).
-* **NSTE‑ACS:**
-  - Aspirin + P2Y12 inhibitor (prasugrel/ticagrelor) for 12 months (I A). Prasugrel not for pre‑treatment before anatomy known (III B).
-  - UFH (I C), enoxaparin (IIa B), bivalirudin (IIb A) as alternatives.
-  - GP IIb/IIIa only for bail‑out (IIa C).
-* **STEMI:**
-  - Potent P2Y12 inhibitor (prasugrel/ticagrelor) or clopidogrel if unavailable, before or at latest at PCI, continued 12 months (I A).
-  - Anticoagulation: UFH (I C), enoxaparin (IIa B), bivalirudin (IIb A).
-* **Oral anticoagulation (AF) + PCI:**
-  - Triple therapy (aspirin+clopidogrel+OAC) for 1 month, then dual therapy (clopidogrel+OAC) up to 6‑12 months (IIa A).
-  - NOAC preferred over VKA (IIa A).
-  - Ticagrelor/prasugrel not recommended as part of triple therapy (III C).
+* **Aspirin:** LD 150‑300 mg, MD 75‑100 mg o.d. (I A).
+* **P2Y12 inhibitor:** In addition to aspirin for 12 months (unless high bleeding risk). Prasugrel (60 mg LD, 10 mg MD; 5 mg if <60 kg or ≥75y) recommended for PCI‑treated patients (I B). Ticagrelor (180 mg LD, 90 mg b.i.d.) irrespective of strategy (I B). Clopidogrel (300‑600 mg LD, 75 mg MD) only if prasugrel/ticagrelor unavailable/contraindicated (I C). Prasugrel preferred over ticagrelor for PCI patients (IIa B).
+* **Pre‑treatment:** May be considered in STEMI (IIb B). Not recommended in NSTE-ACS with early invasive strategy (III A).
+* **GP IIb/IIIa inhibitors:** Only for bailout (no‑reflow, thrombotic complication) (IIa C). Pre‑treatment not recommended.
+* **Cangrelor:** May be considered in P2Y12 inhibitor‑naive patients (IIb A).
+* **Anticoagulation:** Parenteral at diagnosis (I A). UFH (70‑100 IU/kg) during PCI (I C). Enoxaparin alternative (IIa B). Discontinue after procedure (IIa C).
+* **STEMI PCI:** Enoxaparin or bivalirudin (with post‑PCI infusion) as alternatives to UFH (IIa A). Fondaparinux not recommended (III B).
+* **NSTE‑ACS:** If early angiography anticipated – UFH or enoxaparin (IIa B). If early angiography not anticipated – fondaparinux (I B).
+* **De‑escalation / shortening DAPT:** In event‑free patients after 3‑6 months, SAPT (preferably P2Y12 inhibitor) should be considered (IIa A). De‑escalation (switch to clopidogrel) may be considered (IIb A) but not in first 30 days (III B). In HBR patients, aspirin or P2Y12 monotherapy after 1 month may be considered (IIb B).
+* **Prolonged DAPT (>12 months):** Adding second antithrombotic agent for high ischaemic risk without HBR (IIa A).
+* **OAC + antiplatelet:** After up to 1 week of triple therapy (aspirin+clopidogrel+NOAC), dual therapy (NOAC + clopidogrel) for up to 12 months (I A). Ticagrelor/prasugrel not recommended as part of triple therapy (III C).
 
-### Volume‑Outcome and Training
-* **CABG:** Should be performed at centres with ≥200 cases/year (IIa C).
-* **PCI:** For ACS, operators ≥75 procedures/year at centres ≥400 PCI/year with 24/7 service (IIa C). For SCAD, centres ≥200 PCI/year (IIa C). For left main, operators ≥25 LM PCI/year (IIa C).
-* **Training:** CABG trainees ≥200 supervised procedures (IIa C). PCI trainees ≥200 as first operator, 1/3 in emergency (IIa C).
+### Management of Unstable Presentations
+* **Out‑of‑hospital cardiac arrest (OHCA):** PPCI for persistent ST elevation (I B). Routine immediate angiography not recommended in stable patients without ST elevation (III A). Temperature control (active prevention of fever >37.7°C) for unresponsive survivors (I B). Neurological evaluation not before 72h (I C).
+* **Cardiogenic shock (CS):** Immediate angiography and PCI of IRA (I B). Emergency CABG if PCI not feasible (I B). IRA‑only PCI in multivessel disease (I B). IABP not recommended without mechanical complications (III B). Mechanical circulatory support may be considered (IIb C).
 
-### Secondary Prevention and Follow‑up
-* **Cardiac rehabilitation** after CABG/PCI for AMI (I A). Secondary prevention measures (medical therapy, lifestyle) (I A).
-* **Symptomatic patients:** Coronary angiography for intermediate‑high risk stress test findings (I C). Imaging stress test preferred over ECG (IIa B).
-* **Asymptomatic high‑risk subsets** (e.g., LM PCI) may consider surveillance angiography (IIb C). Routine non‑invasive testing at 1 year after PCI and >5 years after CABG may be considered (IIb C).
+### Technical Aspects of PCI
+* **Radial access:** Default approach (I A). Femoral access only for overriding considerations.
+* **Stents:** DES preferred over BMS (I A). Routine thrombus aspiration not recommended (III A).
+* **Intravascular imaging:** Should be considered to guide PCI (IIa A). May be considered for ambiguous culprit lesions (IIb C).
+* **Spontaneous coronary artery dissection (SCAD):** PCI only for ongoing ischaemia with large jeopardised myocardium and reduced antegrade flow (I C). Conservative management otherwise.
+
+### Multivessel Disease (MVD)
+* **CS – IRA‑only PCI (I B), staged non‑IRA PCI should be considered (IIa C).**
+* **Haemodynamically stable STEMI:** Complete revascularisation either during index PCI or within 45 days (I A). Non‑IRA PCI based on angiographic severity (I B). Invasive functional assessment of non‑culprit segments not recommended during index procedure (III C).
+* **NSTE‑ACS:** Complete revascularisation should be considered, preferably during index procedure (IIa C). Functional evaluation of non‑IRA may be considered (IIb B).
+
+### MINOCA
+* Working diagnosis after angiography with non‑obstructive coronary arteries (<50% stenosis).
+* CMR recommended if final diagnosis unclear (I B). Follow diagnostic algorithm to determine underlying cause (I C). Treat according to final diagnosis.
+
+### Special Populations
+* **Older adults:** Same diagnostic and treatment strategies as younger (I B). Adapt antithrombotic doses to renal function, frailty, comorbidities. Holistic approach for frail patients (I B).
+* **Cancer patients:** Invasive strategy if expected survival ≥6 months (I B). Conservative if <6 months or very high bleeding risk (IIa C). Temporarily interrupt cancer therapy if suspected cause (I C). Avoid prasugrel/ticagrelor if platelets <50 000/μL; avoid clopidogrel if <30 000/μL; avoid aspirin if <100 000/μL.
+* **Diabetes:** Base glucose‑lowering treatment on comorbidities (HF, CKD, obesity) (I A). Assess glycaemic status at presentation (I B). Avoid hypoglycaemia.
+* **CKD:** Use low/iso‑osmolar contrast, minimal volume (I A). Hydration should be considered (IIa B). Same diagnostic/therapeutic strategies as normal kidney function (I C).
+
+### Complications
+* **Heart failure:** IABP for mechanical complications (IIa C). Immediate revascularisation for CS/HF.
+* **LV thrombus:** CMR if echocardiography equivocal (IIa C). Oral anticoagulation (VKA/NOAC) for 3‑6 months (IIa C). Contrast echocardiography if apex not visualised (IIb C).
+* **Atrial fibrillation:** i.v. beta‑blockers (no HF) or amiodarone (with HF) for rate control (I C). Electrical cardioversion if haemodynamic instability (I C). Long‑term OAC with NOAC based on CHA₂DS₂‑VASc (IIa C).
+* **Ventricular arrhythmias:** ICD for HFrEF (LVEF ≤35%) after >3 months optimal therapy (I A). i.v. beta‑blocker/amiodarone for polymorphic VT/VF (I B). Prompt revascularisation for recurrent VT/VF (I C). Catheter ablation for electrical storm (IIa C). Do not treat asymptomatic arrhythmias (III C).
+* **Bradyarrhythmias:** Atropine, temporary pacing, urgent angiography if no reperfusion (I C). Permanent pacemaker if high‑degree AV block persists ≥5 days (I C). Pacing not recommended if resolves after revascularisation (III B).
+
+### Long‑term Management
+* **Cardiac rehabilitation:** All ACS patients should participate (I A).
+* **Lifestyle:** Smoking cessation (nicotine replacement, varenicline, bupropion – IIa B), Mediterranean diet, alcohol ≤100 g/week, regular exercise (I B).
+* **Lipids:** High‑dose statin early (I A). Target LDL‑C <1.4 mmol/L (<55 mg/dL) and ≥50% reduction (I A). Add ezetimibe if not at goal after 4‑6 weeks (I B). Add PCSK9 inhibitor if not at goal with statin+ezetimibe (I A). Consider ezetimibe+statin during index hospitalisation (IIb B). For recurrent event within 2 years, consider LDL‑C <1.0 mmol/L (IIb A). Low‑dose colchicine (0.5 mg o.d.) may be considered (IIb A).
+* **Beta‑blockers:** Indicated if LVEF ≤40% (I A). Routine beta‑blockers regardless of LVEF should be considered (IIa A).
+* **ACE inhibitors/ARB/MRA:** For HF, LVEF ≤40%, diabetes, hypertension, CKD (I A). Routine ACE inhibitor regardless of LVEF should be considered (IIa A). MRA for LVEF ≤40% with HF or diabetes (I A).
+* **Adherence:** Polypill should be considered (IIa A).
+* **Influenza vaccination:** Recommended for all ACS patients (I A).
+* **Patient perspectives:** Patient‑centred care, shared decision‑making, teach‑back technique (I B, IIa B). Assess mental well‑being (IIa B). Provide written and verbal discharge information (IIa B).
+
+### What to do / What not to do (Class I and III)
+* **DO:** Emergency reperfusion for STEMI; PPCI within 120 min; 0h/1h hs‑cTn algorithm; radial access; DES; aspirin + P2Y12 for 12 months; prasugrel preference for PCI; immediate angiography for very high‑risk NSTE‑ACS; complete revascularisation in STEMI‑MVD; ICD for HFrEF after 3 months; influenza vaccination.
+* **DO NOT:** Routine oxygen in normoxia; routine CCTA; fondaparinux in STEMI PCI; routine GP IIb/IIIa pre‑treatment; routine thrombus aspiration; prasugrel/ticagrelor in triple therapy (OAC+aspirin+clopidogrel) – they are not recommended; de‑escalation in first 30 days; pacing if AV block resolves.
 
 </div></details>
 
@@ -142,7 +94,9 @@ The experts of the writing and reviewing panels provided declaration of interest
 
 The ESC Clinical Practice Guidelines (CPG) Committee supervises and co-ordinates the preparation of new guidelines and is responsible for the approval process. ESC Guidelines undergo extensive review by the CPG Committee and external experts, including members from across the whole of the ESC region and from relevant ESC Subspecialty Communities and National Cardiac Societies. After appropriate revisions, the guidelines are signed off by all the experts involved in the Task Force. The finalized document is signed off by the CPG Committee for publication in the European Heart Journal. The guidelines were developed after careful consideration of the scientific and medical knowledge and the evidence available at the time of their writing. Tables of evidence summarizing the findings of studies informing development of the guidelines are included. The ESC warns readers that the technical language may be misinterpreted and declines any responsibility in this respect.
 
-Off-label use of medication may be presented in this guideline if a sufficient level of evidence shows that it can be considered medically appropriate for a given condition. However, the final decisions concerning an individual patient must be made by the responsible health professional giving special consideration to: the specific situation of the patient; country-specific health regulations, indications by governmental drug regulatory agencies, and the ethical rules to which health professionals are subject, where applicable.
+Off-label use of medication may be presented in this guideline if a sufficient level of evidence shows that it can be considered medically appropriate for a given condition. However, the final decisions concerning an individual patient must be made by the responsible health professional giving special consideration to:
+
+The specific situation of the patient. Unless otherwise provided for by national regulations, off-label use of medication should be limited to situations where it is in the patient's interest with regard to the quality, safety, and efficacy of care, and only after the patient has been informed and has provided consent. Country-specific health regulations, indications by governmental drug regulatory agencies, and the ethical rules to which health professionals are subject, where applicable.
 
 <details class="med-details"><summary>
 
@@ -1046,7 +1000,7 @@ The single-centre TOPIC (Timing of Platelet Inhibition After Acute Coronary Synd
 
 #### 6.3.3. Summary of alternative antiplatelet strategies to reduce bleeding risk in the first 12 months after acute coronary syndrome</summary><div class="details-content">
 
-Considering the totality of evidence from the scientific literature, alternatives to the default strategy of 12 months DAPT in patients with ACS include shortening the DAPT duration to 1 or 3-6 months (depending on the balance of bleeding and ischaemic risks) and de-escalating DAPT from prasugrel/ticaglerobased DAPT to clopidogrel-based DAPT. However, it should be noted that much of the evidence on these strategies in ACS patients is derived from trials powered primarily for bleeding outcomes, many of which had a non-inferiority design and were, therefore, not powered to detect potentially relevant differences in ischaemic outcomes. The patient populations enrolled in these studies were also often relatively selected, often excluding or under-representing the highest risk ACS patients. As such, it is important to reflect that even meta-analyses of the available randomized evidence cannot overcome the potential selection bias at the point of entry in the relevant randomized trials.
+Considering the totality of evidence from the scientific literature, alternatives to the default strategy of 12 months DAPT in patients with ACS include shortening the DAPT duration to 1 or 3-6 months (depending on the balance of bleeding and ischaemic risks) and de-escalating DAPT from prasugrel/ticagrelor-based DAPT to clopidogrel-based DAPT. However, it should be noted that much of the evidence on these strategies in ACS patients is derived from trials powered primarily for bleeding outcomes, many of which had a non-inferiority design and were, therefore, not powered to detect potentially relevant differences in ischaemic outcomes. The patient populations enrolled in these studies were also often relatively selected, often excluding or under-representing the highest risk ACS patients. As such, it is important to reflect that even meta-analyses of the available randomized evidence cannot overcome the potential selection bias at the point of entry in the relevant randomized trials.
 
 These important limitations explain why these strategies should at present remain considered as alternative strategies to the default of 12 months DAPT. From a practical perspective, this means that these strategies should not be employed as a default strategy in the wider ACS population but can be considered when there is a specific motivation for their use (i.e. aiming to reduce the risk of bleeding events in HBR patients or if there are other specific concerns regarding a 12-month potent P2Y12 inhibitor-based DAPT regimen). De-escalation of antiplatelet therapy in the first 30 days is not recommended, but de-escalation of P2Y12 receptor inhibitor therapy may be considered as an alternative strategy beyond 30 days after an ACS, in order to reduce the risk of bleeding events. DAPT abbreviation strategies (followed preferably by P2Y12 inhibitor monotherapy within the first 12 months post-ACS) should be considered in patients who are event-free after 3-6 months of DAPT and who are not high ischaemic risk, with the duration of DAPT guided by the ischaemic and bleeding risks of the patient. For HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered. Please see Recommendation Table 6 for full details. These alternative antiplatelet strategies to reduce bleeding risk in the first 12 months after ACS are also summarized in Figure 11.
 
@@ -1629,7 +1583,7 @@ For patients undergoing emergency CABG, appropriate peri-operative strategies (p
 
 Multivessel disease is evident in approximately half of patients undergoing PPCI and is associated with an adverse prognosis.
 
-Over the past decade, a series of RCTs have provided clinical evidence that supports preventive revascularization of non-IRA after successful PPCI of the IRA. The pivotal clinical trials (in chronological order) include PRAMI (Preventive Angioplasty in Myocardial Infarction), CvLPRIT (Complete versus Lesion-only Primary PCI Trial), DANAMI-3-PRIMULTI (Third Danish Study of Optimal Acute Treatment of Patients with ST-Segment Elevation Myocardial Infarction-Primary PCI in Multivessel Disease), COMPARE-ACUTE (Comparison Between FFR Guided Revascularization Versus Conventional Strategy in Acute STEMI Patients With MVD), and COMPLETE (Complete vs. Culprit-only Revascularization to Treat Multivessel Disease After Early PCI for STEMI) (further details on these trials is provided in the Supplementary data online evidence tables).
+Over the past decade, a series of RCTs have provided clinical evidence that supports preventive revascularization of non-IRA after successful PPCI of the IRA. The pivotal clinical trials (in chronological order) include PRAMI (Preventive Angioplasty in Myocardial Infarction), CvLPRIT (Complete versus Lesion-only Primary PCI Trial), DANAMI-3-PRIMULTI (Third Danish Study of Optimal Acute Treatment of Patients with ST-Segment Elevation Myocardial Infarction—Primary PCI in Multivessel Disease), COMPARE-ACUTE (Comparison Between FFR Guided Revascularization Versus Conventional Strategy in Acute STEMI Patients With MVD), and COMPLETE (Complete vs. Culprit-only Revascularization to Treat Multivessel Disease After Early PCI for STEMI) (further details on these trials is provided in the Supplementary data online evidence tables).
 
 In a systematic review of 10 randomized trials that included 7030 patients with STEMI and MVD, complete revascularization was associated with reduced CV mortality compared with IRA-only PCI. All-cause mortality was comparable in both groups. Complete revascularization was also associated with a reduced composite of CV death or new MI, supporting complete revascularization in patients with STEMI and MVD.
 
@@ -1971,7 +1925,7 @@ A section on the impact of Coronavirus disease (COVID-19) on ACS management is p
 | Intravenous beta-blockers are recommended when rate control is needed in the absence of acute HF or hypotension. | I | C |
 | Intravenous amiodarone is recommended when rate control is needed in the presence of acute HF and no hypotension. | I | C |
 | Immediate electrical cardioversion is recommended in patients with ACS and haemodynamic instability and when adequate rate control cannot be achieved promptly with pharmacological agents. | I | C |
-| Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk for early recurrence of AF after electrical cardioversion in unstable patients with recent-onset AF. | I | C |
+| Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk of early recurrence of AF after electrical cardioversion in unstable patients with recent-onset AF. | I | C |
 | In patients with documented de novo AF during the acute phase of ACS, long-term oral anticoagulation should be considered depending on the CHA₂DS₂-VASc score, after taking the HAS-BLED score and the need for concomitant antiplatelet therapy into consideration. NOACs are the preferred drugs. | IIa | C |
 | **Ventricular arrhythmias** | | |
 | ICD therapy is recommended to reduce sudden cardiac death in patients with symptomatic HF (NYHA Class II-III) and LVEF ≤35% despite optimal medical therapy for >3 months and at least 6 weeks after MI who are expected to survive for at least 1 year with good functional status. | I | A |
@@ -2424,8 +2378,6 @@ The provision of care that is respectful of, and responsive to, individual patie
 Acute coronary syndrome QIs aim to audit practice and improve clinical outcomes in real-life patients by demonstrating the gap between optimal guideline-based treatment and actual care of ACS patients. Subsequent measures to improve QI attainment can be implemented based on the local, regional, and global assessment of QIs.
 
 </div></details>
-
-<details class="med-details"><summary>
 
 <details class="med-details"><summary>
 
