@@ -511,34 +511,25 @@ There are several nonrandomized long-term clinical follow-up series of early gen
 
 **FIGURE 28-19** Long-term survival after aortic valve replacement and AVR and CABG in elderly patients between 1991 and 2007 in the STS Database. *(Reproduced with permission from Brennan JM, Edwards FH, Zhao Y, et al: Developing Evidence to Inform Decisions About Effectiveness—Aortic Valve Replacement (DEcIDE AVR) Research Team. Long-term survival after aortic valve replacement among high-risk elderly patients in the United States: insights from the Society of Thoracic Surgeons Adult Cardiac Surgery Database, 1991 to 2007, Circulation 2012 Sep 25;126(13):1621-1629.)*
 
-![](_page_15_Picture_2.jpeg)
+**Table 28-7. Median survival (years) after isolated aortic valve replacement in elderly patients (STS database, 1991–2007)**
 
-**TABLE 28-7: Median Survival after Isolated Aortic Valve Replacement in Elderly Patients in the STS Database between 1991 and 2007**
-
-| | Isolated AVR, years | | | AVR+CABG, years | | |
-| | Age 65–69 years | Age 70–79 years | Age ≥80 years | Age 65–69 years | Age 70–79 years | Age ≥80 years |
+| Factor | Isol. AVR 65-69 | Isol. AVR 70-79 | Isol. AVR ≥80 | AVR+CABG 65-69 | AVR+CABG 70-79 | AVR+CABG ≥80 |
+|:---| ---:| ---:| ---:| ---:| ---:| ---:|
 | Overall | 12.8 | 9.2 | 6.2 | 10.4 | 8.2 | 5.9 |
-| STS-PROM | | | | | | |
-| Low | ≥10 | ≥10 | 7.3 | ≥10 | 9.5 | 7.2 |
-| Moderate | 5.3 | 4.7 | 5 | 5.6 | 5.8 | 5.6 |
-| High | 2.6 | 2.5 | 2.7 | 2.1 | 2.4 | 3.2 |
-| Lung disease | | | | | | |
-| No | ≥10 | ≥10 | 6.5 | ≥10 | 9 | 6.3 |
-| Mild | ≥10 | 8 | 5.3 | 9.3 | 7.3 | 5.2 |
-| Moderate | ≥10 | 6.4 | 4.4 | 7.1 | 5.8 | 4.3 |
-| Severe | 6 | 4.8 | 3.6 | 6.1 | 4.4 | 2.7 |
-| LVEF, % | | | | | | |
-| >30 | ≥10 | ≥10 | 6.3 | ≥10 | 8.6 | 6 |
-| ≤30 | 9.1 | 6.9 | 4.9 | 7.7 | 5.9 | 5 |
-| Renal failure | | | | | | |
-| No | ≥10 | 9.9 | 6.4 | ≥10 | 8.7 | 6.1 |
-| Yes | 6 | 4.8 | 3.4 | 5.2 | 4.8 | 3.4 |
-| Yes/dialysis | 2.5 | 2 | 0.7 | 1.8 | 1.2 | 1.5 |
-| Prior cardiac operations, n | | | | | | |
-| 0 | ≥10 | ≥10 | 6.4 | ≥10 | 8.6 | 6 |
-| ≥1 | 9.3 | 7.2 | 5.2 | 8.2 | 6.8 | 4.8 |
-
-*Adapted with permission from Brennan JM, Edwards FH, Zhao Y, et al: Developing Evidence to Inform Decisions About Effectiveness–Aortic Valve Replacement (DEcIDE AVR) Research Team. Long-term survival after aortic valve replacement among high-risk elderly patients in the United States: insights from the Society of Thoracic Surgeons Adult Cardiac Surgery Database, 1991 to 2007, Circulation 2012 Sep 25;126(13):1621-1629.*
+| STS-PROM: Low | ≥10 | ≥10 | 7.3 | ≥10 | 9.5 | 7.2 |
+| STS-PROM: Intermediate | 5.3 | 4.7 | 5.0 | 5.6 | 5.8 | 5.6 |
+| STS-PROM: High | 2.6 | 2.5 | 2.7 | 2.1 | 2.4 | 3.2 |
+| Lung disease: None | ≥10 | ≥10 | 6.5 | ≥10 | 9.0 | 6.3 |
+| Lung disease: Mild | ≥10 | 8.0 | 5.3 | 9.3 | 7.3 | 5.2 |
+| Lung disease: Moderate | ≥10 | 6.4 | 4.4 | 7.1 | 5.8 | 4.3 |
+| Lung disease: Severe | 6.0 | 4.8 | 3.6 | 6.1 | 4.4 | 2.7 |
+| LVEF >30% | ≥10 | ≥10 | 6.3 | ≥10 | 8.6 | 6.0 |
+| LVEF ≤30% | 9.1 | 6.9 | 4.9 | 7.7 | 5.9 | 5.0 |
+| Renal failure: No | ≥10 | 9.9 | 6.4 | ≥10 | 8.7 | 6.1 |
+| Renal failure: Yes | 6.0 | 4.8 | 3.4 | 5.2 | 4.8 | 3.4 |
+| Renal failure: Yes/dialysis | 2.5 | 2.0 | 0.7 | 1.8 | 1.2 | 1.5 |
+| Prior cardiac surgery: 0 | ≥10 | ≥10 | 6.4 | ≥10 | 8.6 | 6.0 |
+| Prior cardiac surgery: ≥1 | 9.3 | 7.2 | 5.2 | 8.2 | 6.8 | 4.8 |
 
 ![](_page_16_Figure_2.jpeg)
 
