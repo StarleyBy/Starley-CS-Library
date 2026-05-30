@@ -156,7 +156,7 @@ The risk factors that predispose to the development of epicardial coronary ather
 
 ### 2.2. Chronic coronary syndromes: clinical presentations (Figure 1)</summary><div class="details-content">
 
-<span id="fig-1"></span>![](_page_11_Figure_1.jpeg)
+<span id="fig-1"></span>![](_page_1_Figure_1.jpeg)
 
 **Figure 1 (Central Illustration)** Clinical presentations of chronic coronary syndrome and mechanisms of myocardial ischaemia. ACS, acute coronary syndrome; ANOCA, angina with non-obstructive coronary arteries; CABG, coronary artery bypass grafting; CAD, coronary artery disease; CCS, chronic coronary syndrome; INOCA, ischaemia with non-obstructive coronary arteries; LV, left ventricular; LVEDP, left ventricular end-diastolic pressure; PCI, percutaneous coronary intervention; VSMC, vascular smooth muscle cell.
 
@@ -288,7 +288,7 @@ The 2024 Guidelines contain a number of new and revised recommendations, which a
 
 Managing individuals with suspected CCS involves four steps ([Figure 2](#fig-2)):
 
-<span id="fig-2"></span>![](_page_20_Figure_2.jpeg)
+<span id="fig-2"></span>![](_page_1_Figure_2.jpeg)
 
 **Figure 2** Stepwise approach to the initial management of individuals with suspected chronic coronary syndrome. ANOCA, angina with non-obstructive coronary arteries; CAD, coronary artery disease; CCS, chronic coronary syndrome; CCTA, coronary computed tomography angiography; ECG, electrocardiogram; ED, emergency department; GDMT, guideline-directed medical therapy; INOCA, ischaemia with non-obstructive coronary arteries. In selected patients. Consider also coronary spasm or microvascular dysfunction.
 
@@ -310,7 +310,7 @@ Managing individuals with suspected CCS involves four steps ([Figure 2](#fig-2))
 
 Careful and detailed history taking is the initial step in diagnostic management for all clinical scenarios within the spectrum of CCS. Although chest pain or discomfort ([Figure 3](#fig-3)) is the most cardinal symptom of CCS, it must be emphasized that many patients do not present with characteristic anginal symptoms and that the symptomatology may vary with age, sex, race, socioeconomic class, and geographical location. In contemporary studies, only 10% to 25% of patients with suspected CCS present with angina with classic aggravating and relieving factors, while 57% to 78% have symptoms less characteristic of angina and 10% to 15% have dyspnoea on exertion.
 
-<span id="fig-3"></span>![](_page_21_Figure_3.jpeg)
+<span id="fig-3"></span>![](_page_1_Figure_3.jpeg)
 
 **Figure 3** Main CCS symptoms: angina and exertional dyspnoea. CCS, chronic coronary syndrome.
 
@@ -426,7 +426,7 @@ The tables used to estimate the likelihood of obstructive CAD as confirmed by IC
 
 The 2019 ESC Guidelines for the diagnosis and management of CCS introduced the concept of clinical likelihood as a more comprehensive and individualized assessment of the probability of obstructive CAD. Compared with a basic pre-test probability model, incorporation of risk factors in the basic pre-test likelihood model (based on age, sex, and symptoms) leads to improved prediction of obstructive CAD, down-classifies individuals to very low and low likelihood of disease, and maintains high calibration. The **Risk-Factor-weighted Clinical Likelihood (RF-CL) model** includes sex, age, angina symptoms, and number of risk factors without losing diagnostic accuracy compared with more advanced models requiring computed calculation ([Figure 4](#fig-4)). The RF-CL model increases three-fold the number of subjects categorized as at very low (≤5%) likelihood of obstructive CAD compared with the ESC pretest probability (ESC-PTP) model (38% vs. 12%) while predicting annualized event rates of MI and death of 0.5%, 1.1%, and 2.1% for individuals having very low, low, and moderate likelihood of obstructive CAD, respectively.
 
-<span id="fig-4"></span>![](_page_25_Figure_4.jpeg)
+<span id="fig-4"></span>![](_page_1_Figure_4.jpeg)
 
 **Figure 4** Estimation of the clinical likelihood of obstructive coronary artery disease based on the Risk Factor-weighted Clinical Likelihood (RF-CL) model. Points are assigned for three chest pain characteristics as typical angina (here = 3 points), two of three characteristics as atypical angina (here = 2 points), and no or one characteristic as non-cardiac/non-anginal (here = 0-1 point). Family history of CAD is defined as 1 or more first-degree relatives with early signs of CAD (men <55 and women <65 years of age); smoking, as current or past smoker; dyslipidaemia, hypertension, and diabetes, as present at the time of diagnosis. Values in the lower panel are the clinical likelihood estimates expressed as %.
 
@@ -835,7 +835,7 @@ The most established approach for coronary vasoreactivity testing is by intracor
 
 After estimation of the pre-test likelihood of obstructive epicardial CAD based on the RF-CL model ([Figure 4](#fig-4) and [Figure 5](#fig-5)), further diagnostic testing is dependent on the clinical scenario, general condition, QoL, presence of comorbidities, local availability and expertise for different diagnostic techniques, and importantly patient expectations and preferences ([Figure 6](#fig-6); [Table 6](#table-6)).
 
-<span id="fig-5"></span>![](_page_34_Figure_5.jpeg)
+<span id="fig-5"></span>![](_page_1_Figure_5.jpeg)
 
 **Figure 5** Adjustment and reclassification of the estimated clinical likelihood of obstructive coronary artery disease. CACS, coronary artery calcium score; CACS-CL, coronary artery calcium score + RF-CL model; CAD, coronary artery disease; CT, computed tomography; ECG, electrocardiogram; LV, left ventricular; RF-CL, risk factor-weighted clinical likelihood.
 
@@ -843,7 +843,7 @@ In patients with severe comorbidities or severe frailty or very low QoL that all
 
 Individual adjustment of the clinical likelihood should always be considered based on the clinical CCS scenario including ECG and echocardiography findings ([Figure 5](#fig-5), Section 2). Further diagnostic testing can be deferred in patients with a very low (≤5%) likelihood of obstructive CAD. Based on the CACS-CL model, in patients with a low (>5-15%) likelihood of obstructive CAD, CACS can be considered to re-estimate the likelihood of obstructive CAD. Further diagnostic testing can also be deferred in patients reclassified based on CACS from a low to a very low (<5%) likelihood of obstructive CAD ([Figure 5](#fig-5)). Conversely, if CACS is high and there are clinical findings indicating that the RF-CL model may be underestimating the likelihood of obstructive CAD, further diagnostic testing should be selected based on the adjusted clinical likelihood and coronary calcium burden. It is important to note that patients with a very low and low (≤15%) likelihood of obstructive CAD constitute approximately 85% of individuals with de novo symptoms suspected of CCS. Most can be treated conservatively without the need for further testing as they have no stenoses or non-obstructive CAD with a very low incidence of events during long-term follow-up.
 
-<span id="fig-6"></span>![](_page_35_Figure_6.jpeg)
+<span id="fig-6"></span>![](_page_1_Figure_6.jpeg)
 
 **Figure 6** Appropriate first-line testing in symptomatic individuals with suspected chronic coronary syndrome. CAD, coronary artery disease; CACS-CL, coronary artery calcium score + RF-CL model; CCS, chronic coronary syndrome; CCTA, coronary computed tomography angiography; CMR, cardiac magnetic resonance; PET, positron emission tomography; RF-CL, risk factor-weighted clinical likelihood; SPECT, single-photon emission computed tomography. The clinical likelihood of obstructive CAD should be estimated based on the RF-CL model ([Figure 4](#fig-4)). Individual adjustment of the RF-CL values is in some cases needed based on abnormal clinical finding ([Figure 5](#fig-5)) or highly suspicious symptoms. Beyond the CACS-CL no methods are validated to give accurate adjusted values to the RF-CL and the adjusted values is therefore based on clinical judgment.
 
@@ -871,7 +871,7 @@ Individuals with a moderate or high (>15-85%) likelihood of obstructive CAD shou
 
 In patients with a very high (≥85%) clinical likelihood of obstructive CAD, symptoms unresponsive to medical therapy, or angina at a low level of exercise, and an initial clinical evaluation (including echocardiogram and, in selected patients, exercise ECG) that indicates a high event risk, proceeding directly to ICA without further diagnostic testing is a reasonable option. Under such circumstances, the indication for revascularization of stenoses with a diameter reduction of <90% should be guided by coronary pressure assessment ([Figure 6](#fig-6); [Table 6](#table-6)).
 
-<span id="fig-7"></span>![](_page_36_Figure_7.jpeg)
+<span id="fig-7"></span>![](_page_1_Figure_7.jpeg)
 
 **Figure 7** Initial management of symptomatic individuals with suspected chronic coronary syndrome. ANOCA, angina with non-obstructive coronary arteries; CAD, coronary artery disease; CCS, chronic coronary syndrome; CCTA, coronary computed tomography angiography; CMR, cardiac magnetic resonance; ICF, invasive coronary functional testing; iFR, instantaneous wave-free ratio; INOCA, ischaemia with non-obstructive coronary arteries; LV, left ventricular; PET, positron emission tomography; SPECT, single-photon emission computed tomography. Consider local availability and expertise and individual characteristics when choosing non-invasive testing (Table 6 offers tips for selecting the first-line test in people with suspected CCS). High-risk CAD: obstructive CAD at high risk of adverse events by CCTA: 50% stenosis of the left main stem; three-vessel disease with severe stenoses (≥70% diameter stenosis); single- or two-vessel disease including the proximal LAD with severe stenoses. Consider functional imaging or invasive investigation.
 
@@ -879,7 +879,7 @@ Functional imaging should be selected as a first line test if information on myo
 
 The discussion about which modality to use as a first-line test has been heavily focused on the detection of obstructive epicardial stenoses, neglecting the relatively high prevalence of non-obstructive coronary disease and ANOCA/INOCA, especially in female patients. The current rationale behind choosing a first-line test should be to assess the anatomical severity and functional consequences of coronary disease, whether obstructive or not. In this regard, PET-CT should be more frequently considered and its availability increased as it combines calcium scoring with accurate operator-independent detection of myocardial ischaemia and CMD with a low irradiation dose.
 
-<span id="fig-8"></span>![](_page_38_Figure_8.jpeg)
+<span id="fig-8"></span>![](_page_1_Figure_8.jpeg)
 
 **Figure 8** Ruling in and ruling out functionally significant obstructive coronary artery disease by sequential anatomical (CCTA) and functional (dobutamine stress echocardiography) testing. CAD, coronary artery disease; CCTA, coronary computed tomography angiography; DSE, dobutamine stress echocardiography; ECG, electrocardiogram; FFR, fractional flow reserve. The curves display the post-test likelihood of obstructive CAD for a positive (+) and a negative (–) test result for CCTA and DSE, as the pre-test likelihood of obstructive CAD increases. The post-test likelihoods were calculated using the likelihood ratios taken from recent meta-analyses. Based on invasive FFR measurement or diameter stenosis of ≥70%.
 
@@ -1140,7 +1140,7 @@ Regardless of the initial strategy, response to initial antianginal therapy shou
 
 A review of the antianginal agents that can be used in the medical treatment of CCS can be found in the Supplementary data.
 
-<span id="fig-9"></span>![](_page_44_Figure_9.jpeg)
+<span id="fig-9"></span>![](_page_1_Figure_9.jpeg)
 
 **Figure 9** Possible combinations of antianginal drugs. CAD, coronary artery disease; CCB, calcium channel blocker; COPD, chronic obstructive pulmonary disease; HCM, hypertrophic cardiomyopathy; HFrEF, heart failure with reduced ejection fraction. The schematic shows useful combinations (green lines), combinations that are not recommended (red lines), possible combinations (solid blue lines), and drugs with similar effects (blue dashed lines), which can be combined in selected indications: HFrEF (ivabradine and beta-blocker), atrial fibrillation (diltiazem/verapamil and beta-blocker), vasospastic angina (dihydropyridine CCB and nitrates). Modified from Davies et al.
 
@@ -1210,7 +1210,7 @@ The standard antithrombotic treatment of patients with epicardial atheroscleroti
 
 The mechanisms of action of the most commonly used antithrombotic drugs in CCS patients are depicted in [Figure 10](#fig-10).
 
-<span id="fig-10"></span>![](_page_47_Figure_10.jpeg)
+<span id="fig-10"></span>![](_page_1_Figure_10.jpeg)
 
 **Figure 10** Antithrombotic drugs for chronic coronary syndromes: pharmacological targets. ADP, adenosine diphosphate; FVIIa, activated factor VII; FXa, activated factor X; GP, glycoprotein; PAR, protease-activated receptor; TF, tissue factor; TxA₂, thromboxane A₂; UFH, unfractionated heparin; VKA, vitamin K antagonist. Orally administered drugs are shown on a blue background, parenterally administered ones on red. Aspirin prevents TxA₂ formation by acetylating platelet cyclooxygenase-1.
 
@@ -1535,7 +1535,7 @@ A recent meta-analysis including over 12 000 patients with atherothrombotic CAD 
 
 </div></details>
 
-<span id="fig-11"></span>![](_page_49_Figure_11.jpeg)
+<span id="fig-11"></span>![](_page_1_Figure_11.jpeg)
 
 **Figure 11** Antithrombotic treatment in chronic coronary syndrome patients undergoing percutaneous coronary intervention. ARC-HBR, Academic Research Consortium for High Bleeding Risk; b.i.d., bis in die (twice daily); CCS, chronic coronary syndrome; CYP2C19, cytochrome P450 2C19; DAPT, dual antiplatelet therapy; mo, months; OAC, oral anticoagulant; o.d., once daily; PCI, percutaneous coronary intervention; PRECISE-DAPT, PREdicting bleeding Complications In patients undergoing Stent implantation and subsequent Dual AntiPlatelet Therapy. In CCS patients undergoing high-thrombotic risk stenting (e.g. complex left main stem, 2-stent bifurcation, suboptimal stenting result, prior stent thrombosis, previously known CYP2C19 *2/*3 polymorphisms) prasugrel or ticagrelor (in addition to aspirin) may be considered instead of clopidogrel for the first month, and up to 3-6 months. Prasugrel 5 mg o.d. for patients aged ≥75 years or with a body weight <60 kg. Bleeding risk criteria according to PRECISE-DAPT or ARC-HBR.
 
@@ -1864,7 +1864,7 @@ Invasive functional coronary testing using Ach and adenosine in individuals susp
 
 The prevalence of ANOCA and INOCA in relation to the presence of the endotypes is shown in [Figure 12](#fig-12). Angina with non-obstructive coronary arteries occurs in up to 70% of the patients undergoing ICA, of whom 25% have documented ischaemia (INOCA). Among the patients who are tested with Ach, 80% show endothelial dysfunction, 60% have MVA/VSA, and 50% have an impaired CFR and/or high microvascular resistance. This emphasizes the importance of testing not only patients with INOCA but also all patients with ANOCA to determine the final endotype so that appropriate treatment can be initiated.
 
-<span id="fig-12"></span>![](_page_66_Figure_12.jpeg)
+<span id="fig-12"></span>![](_page_1_Figure_12.jpeg)
 
 **Figure 12** Prevalence of disease characteristics in patients with ANOCA/INOCA referred for invasive coronary functional testing. ANOCA, angina with non-obstructive coronary arteries; CFR, coronary flow reserve; i.c., intracoronary; INOCA, ischaemia with non-obstructive coronary arteries; iPHYS, Invasive Physiological Assessment in Angina Syndromes. ANOCA is present in up to 70% of patients referred for invasive coronary angiography and functional testing. Endothelial dysfunction is present in 80% and acetylcholine test is positive in 60% of these patients. An impaired CFR (≤2.5), measured by i.c. Doppler guidewires, is present in 50% while ischaemia (INOCA) is documented by non-invasive functional testing in only 25% of ANOCA patients. The prevalence of coronary vasospasm can vary in different studies depending on dose of acetylcholine and test protocol. Prevalence of ischaemia by non-invasive functional testing increases from non-obstructive to obstructive CAD.
 
@@ -1928,7 +1928,7 @@ Non-invasive tests (stress echocardiography, PET, perfusion CCTA, and CMR) allow
 
 Invasive coronary functional testing consists of a comprehensive evaluation of the coronary circulation in a single procedure by combining angiography, direct invasive assessment of the coronary haemodynamics by intracoronary pressure and flow measurement either by thermodilution (bolus/continuous) or Doppler techniques, and pharmacological vasomotor testing. Recently, a standardized protocol has been proposed.
 
-<span id="fig-13"></span>![](_page_68_Figure_13.jpeg)
+<span id="fig-13"></span>![](_page_1_Figure_13.jpeg)
 
 **Figure 13** Diagnostic algorithm for patients with angina/ischaemia with non-obstructive coronary arteries. Ach, acetylcholine; ANOCA, angina with non-obstructive coronary arteries; CAD, coronary artery disease; CCS, chronic coronary syndrome; CCTA, coronary computed tomography angiography; CFR, coronary flow reserve; ECG, electrocardiogram; echo, echocardiography; FFR, fractional flow reserve; GDMT, guideline-directed medical therapy; HMR, hyperaemic myocardial velocity resistance; i.c., intracoronary; ICA, invasive coronary angiography; iFR, instantaneous-wave free ratio; IMR, index of microcirculatory resistance; INOCA, ischaemia with non-obstructive coronary arteries; MRI, magnetic resonance imaging; PET, positron emission tomography; SPECT, single-photon emission computed tomography.
 
@@ -1948,7 +1948,7 @@ A Doppler-derived CFR of <2.5 in non-obstructive CAD indicates an abnormal micro
 
 Epicardial and microvascular endothelium-dependent vasodilation and vasospasm are tested by intracoronary bolus administration or graded infusion of Ach, first at a low dose/grade to assess endothelial dysfunction at the microvascular or epicardial level, and after that at a higher dose/grade to eventually induce microvascular or/and epicardial coronary vasospasm. The LAD artery is usually preferred as the pre-specified target vessel reflecting its subtended myocardial mass and coronary dominance. The left circumflex coronary artery is also tested if Ach is administered in the LMCA. Additional studies in the right coronary artery may be appropriate if the initial tests are negative and clinical suspicion is high. As Ach exerts a cholinergic effect on the atrioventricular node, significant bradycardia may ensue if infused especially in the right coronary artery or a dominant left circumflex coronary artery. Bradycardia can be prevented by selective infusion in the LAD, prophylactic ventricular pacing, or reduction of the concentration infused or of the injected dose. If necessary, the bradycardia effect of Ach can be antagonized by atropine. The effect of Ach is short in contrast to the prolonged effect of ergonovine, which was previously used for the provocation of coronary vasospasm. The diagnosis of MVA and VSA due to microvascular or macrovascular vasospasm is made according to established criteria. The test is considered positive for macrovascular spasm if symptoms occur, accompanied by ischaemic ECG changes and an angiographic ≥90% reduction of the coronary lumen. If the lumen reduction is <90%, the diagnosis of microvascular spasm is made. The vasospastic effect of Ach is rapidly transient and can, if needed, be reversed by intracoronary administration of nitroglycerine, which also allows assessment of endothelium-independent epicardial coronary vasodilation. The safety of coronary vasospasm provocation testing with increasing intracoronary Ach boluses of up to a maximum of 200 μg has been repeatedly reported. In a small study, testing coronary vasospasm using this algorithm was also safe in patients with a recent ACS.
 
-<span id="fig-14"></span>![](_page_69_Figure_14.jpeg)
+<span id="fig-14"></span>![](_page_1_Figure_14.jpeg)
 
 **Figure 14** Spasm provocation and functional testing protocol. Ach, acetylcholine; CCB, calcium channel blocker; CFC, coronary flow reserve; ECG, electrocardiogram; i.c., intracoronary; i.v., intravenous; IMR, index of microvascular resistance; MRR, microvascular resistance reserve; NTG, nitroglycerine. i.c. bolus injections of Ach over 60 s to assess: (i) endothelium-dependent vasodilation using low-dose Ach (2-20 μg) and (ii) endothelial dysfunction and vasoconstriction using high-dose Ach (100-200 μg). This is followed by i.c. administration of nitroglycerine (200 μg) to revert vasospasm. Endothelial-independent vasodilation is assessed by i.c. adenosine (200 μg) or i.v. infusion to determine CFR and IMR. Coronary flow can be continuously monitored if i.c. Doppler guidewires are used. The incremental administration of Ach is stopped whenever a coronary vasospasm is induced. i.v. adenosine can also be used.
 
@@ -1968,7 +1968,7 @@ Different protocols have been applied in clinical practice. [Figure 14](#fig-14)
 
 Management should be patient-centred with a patient-oriented multidisciplinary care approach. [Figure 15](#fig-15) provides an algorithm for the therapeutic management of ANOCA/INOCA. In all patients with established ANOCA/INOCA due to the frequent presence of coronary atherosclerosis and endothelial dysfunction, tailored counselling on lifestyle factors is warranted to address risk factors, reduce symptoms, and improve QoL and prognosis. Management of traditional CVD risk factors, hypertension, dyslipidaemia, smoking, and diabetes should be as per clinical practice guidelines recommendations.
 
-<span id="fig-15"></span>![](_page_70_Figure_15.jpeg)
+<span id="fig-15"></span>![](_page_1_Figure_15.jpeg)
 
 **Figure 15** Treatment of angina/ischaemia with non-obstructive coronary arteries. ACE-I, angiotensin-converting enzyme inhibitor; ANOCA, angina with non-obstructive coronary arteries; ARB, angiotensin receptor blocker; CCB, calcium channel blocker; INOCA, ischaemia with non-obstructive coronary arteries. Treatment of ANOCA/INOCA patients includes lifestyle modification, management of cardiovascular risk factors, and antianginal treatment according to underlying endotypes. Note: endotypes frequently overlap, requiring combined medical therapy.
 
@@ -2218,7 +2218,7 @@ Earlier analyses reported that adherence to long-term therapies in chronic condi
 
 The five dimensions of adherence are patient, disease, provider, therapy, and healthcare system ([Figure 16](#fig-16)). Therefore, identifying patients at risk of non-adherence, addressing all five dimensions, developing a multidisciplinary pathway to support sustained adherence, and a follow-up strategy are essential steps.
 
-<span id="fig-16"></span>![](_page_76_Figure_16.jpeg)
+<span id="fig-16"></span>![](_page_1_Figure_16.jpeg)
 
 **Figure 16** Actions on the five dimensions of adherence to therapy. Health authorities provide electronic health records. mHealth, mobile device-based healthcare; PROMs, patient-reported outcome measures. Adapted from Pedretti et al.
 
@@ -2228,7 +2228,7 @@ The five dimensions of adherence are patient, disease, provider, therapy, and he
 
 Different strategies may help improve long-term adherence to a healthy lifestyle ([Figure 17](#fig-17)).
 
-<span id="fig-17"></span>![](_page_77_Figure_17.jpeg)
+<span id="fig-17"></span>![](_page_1_Figure_17.jpeg)
 
 **Figure 17** Strategies for long-term adherence to a healthy lifestyle. mHealth, mobile device-based healthcare; PROMs, patient-reported outcome measures.
 
@@ -2348,7 +2348,7 @@ For patients with obstructive CAD or previous cardiac events, non-invasive funct
 
 Step 4: In all patients with recurrent or worsening anginal symptoms, lifestyle modifications, risk-factor management, and GDMT should be intensified before considering further interventions. For patients with significant inducible myocardial ischaemia or high-risk CAD, and persistent anginal symptoms despite lifestyle modifications and intensified GDMT, repeat coronary revascularization may be necessary to alleviate symptoms and improve prognosis. For patients with prior CABG experiencing stable symptoms, it’s important to optimize GDMT whenever possible. If frequent angina persists despite GDMT optimization, ICA or CCTA can assist in guiding treatment decisions. When symptoms are uncertain, functional testing may help clarify the presence and extent of myocardial ischaemia.
 
-<span id="fig-18"></span>![](_page_80_Figure_18.jpeg)
+<span id="fig-18"></span>![](_page_1_Figure_18.jpeg)
 
 **Figure 18** Approach for the follow-up of patients with established chronic coronary syndrome. AF, atrial fibrillation; CABG, coronary artery bypass grafting; CAD, coronary artery disease; CCS, chronic coronary syndrome; CKD, chronic kidney disease; ECG, electrocardiogram; LV, left ventricle; PAD, peripheral artery disease; PCI, percutaneous coronary intervention; RV, right ventricle.
 
