@@ -17,27 +17,31 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "🇪🇺 ESC/EACTS Valve 2025"
+        "title": "🇪🇺 Valve 2025 ESC/EACTS"
       },
       {
         "file": "chapter-02.md",
-        "title": "🇪🇺 ESC/EACTS Myocardial revascularization 2018"
+        "title": "🇪🇺 Myocardial revascularization 2018 ESC/EACTS"
       },
       {
         "file": "chapter-03.md",
-        "title": "🇪🇺 ESC/EACTS Endocarditis 2023"
+        "title": "🇪🇺 Endocarditis 2023 ESC/EACTS"
       },
       {
         "file": "chapter-04.md",
-        "title": "🇪🇺 ESC/EACTS Congenital heart disease 2020"
+        "title": "🇪🇺 Congenital heart disease 2020 ESC/EACTS"
       },
       {
         "file": "chapter-05.md",
-        "title": "🇪🇺 ESC/EACTS Cardiomyopathies 2023"
+        "title": "🇪🇺 Cardiomyopathies 2023 ESC/EACTS"
       },
       {
         "file": "chapter-06.md",
-        "title": "🇪🇺 ESC/EACTS ACS"
+        "title": "🇪🇺 Acute coronary syndrome 2023 ESC/EACTS"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "🇪🇺 Chronic coronary syndrome 2024 ESC/EACTS"
       }
     ],
     "appendices": []
