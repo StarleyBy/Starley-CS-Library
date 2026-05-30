@@ -2427,9 +2427,24 @@ Acute coronary syndrome QIs aim to audit practice and improve clinical outcomes 
 
 <details class="med-details"><summary>
 
+<details class="med-details"><summary>
+
 ## 16. Gaps in evidence</summary><div class="details-content">
 
-*(Table 8 remains unchanged from original — сохранён в полном объёме)*
+<span id="table-8"></span>**Table 8 Gaps in evidence**
+
+| Section | Gaps in evidence | Research recommendations to address these gaps |
+|---------|------------------|------------------------------------------------|
+| **3 Triage and diagnosis** | · Observe zone: how can we improve the guidance for and management of patients assigned to the observe zone of the 0 h/1 h and 0 h/2 h ESC algorithms to improve their poor outcome?<br>· No testing rule: what is the added value of biomarkers other than hs-cTn for rapid rule-out of NSTE-ACS compared with usual care?<br>· There is insufficient evidence to set sex-specific thresholds for troponin levels.<br>· The role of non-invasive anatomy (e.g. CCTA) or functional imaging (e.g. stress testing strategies) for low-risk NSTE-ACS patients should be further evaluated. | · Observe zone: prospectively evaluate changes in the 0 h/1 h and 0 h/2 h ESC algorithms to improve the outcomes of patients assigned to the observe zone.<br>· No testing rule: randomization of patients to strategies with and without new biomarkers to evaluate whether their use improves clinical outcomes.<br>· Prospectively evaluate the impact of using sex-specific cut-offs on the diagnosis, treatment, and outcomes of patients presenting to the ED with suspected ACS.<br>· Adequately powered RCTs testing whether non-invasive imaging improves clinical outcomes in patients presenting with NSTE-ACS. |
+| **4 Initial measures for patients presenting with suspected STEMI | Initial treatment** | · The impact of early i.v. beta-blockers on clinical outcomes in patients with a working diagnosis of STEMI remains unclear.<br>· Infarct size and microvascular obstruction are the main determinants of long-term prognosis. Interventions which serve to limit infarct size are needed. | · Patients randomized to i.v. beta-blockers (ideally metoprolol) or placebo before PPCI, with hard endpoints evaluated.<br>· Translate cardio-protective therapies from experimental to clinical setting by executing adequately powered trials. |
+| **5 Acute-phase management of patients with NSTE-ACS** | · The comparison of routine or selective invasive assessment in low-risk NSTE-ACS has not been adequately evaluated.<br>· The optimal timing of invasive angiography in high-risk NSTE-ACS patients remains uncertain. | · Low-risk patients should be randomized to routine or selective invasive strategy.<br>· RCTs testing different time intervals to perform angiography within the 72 h window after the initial presentation. |
+| **6 Antithrombotic therapy** | · Whether pre-treatment with oral P2Y12 receptor inhibitors prior to ICA improves clinical outcomes in NSTE-ACS patients is uncertain.<br>· Whether platelet function testing or genetic testing to guide de-escalation of oral P2Y12 receptor inhibitors after the first month of therapy following PCI improves clinical management and outcomes remains unclear.<br>· The optimal long-term antithrombotic regimen in NSTE-ACS patients who have undergone PCI is unknown.<br>· After stopping DAPT, a head-to-head comparison based on superiority between aspirin monotherapy and clopidogrel monotherapy is required. | · Randomize patients to pre-treatment with oral P2Y12 receptor inhibitors or no pre-treatment, prior to ICA.<br>· Randomize ACS patients to prasugrel or ticagrelor, both without pre-treatment.<br>· A strategy based on platelet function testing or genetic testing should be prospectively tested in patients who may benefit from de-escalating antithrombotic therapy.<br>· RCTs evaluating the benefit-risk balance for ischaemic and bleeding events for different periods of antithrombotic duration.<br>· A head-to-head randomized comparison testing for superiority is needed to compare aspirin vs. clopidogrel monotherapy after DAPT. |
+| **7 Acute coronary syndrome with unstable presentation** | · The role of percutaneous MCS devices in patients presenting with ACS and CS remains unclear.<br>· Clinical improvement through the use of risk stratification based on risk prediction models. | · Randomized comparisons between standard of care and percutaneous MCS devices in ACS with CS.<br>· Patients randomized to a particular intervention or to usual care based on validated risk prediction models. |
+| **8 Management of acute coronary syndrome during hospitalization** | — | — |
+| **9 Technical aspects of invasive strategies** | · Does intravascular imaging-guided revascularization strategy improve clinical outcomes in patients with ACS?<br>· Does intracoronary physiology assessment of myocardial reperfusion after PPCI improve risk stratification and/or stratified medicine for limiting microvascular dysfunction and reperfusion injury/MVO post ACS? | · RCTs evaluating the efficacy of an intravascular imaging-guided revascularization strategy to improve meaningful clinical outcomes in patients with ACS.<br>· Prospectively evaluate whether intracoronary physiology assessment of myocardial reperfusion better stratifies patient risk. |
+| **10 Management of patients with multivessel disease** | · In ACS patients with an IRA that is unsuitable for stent implantation, does drug-coated balloon treatment of the IRA improve clinical outcomes?<br>· Microvascular obstruction associated with PPCI represents an unmet clinical need in patients with ACS. Development of therapies for the prevention and treatment of MVO is urgently needed.<br>· Does early implementation of MCS in the management of high-risk ACS patients improve clinical outcomes?<br>· Does intracoronary hypothermia reduce infarct size and improve clinical outcomes in STEMI patients undergoing PPCI?<br>· What is the optimal antiplatelet strategy in patients presenting with SCAD? Specific gaps in knowledge surround antithrombotic treatment in the acute and post-ACS periods, including the optimal combination and duration of treatment. | · Patients with an IRA unsuitable for stent implantation randomized to drug-coated balloon treatment or usual care to evaluate clinical outcomes.<br>· Pre-clinical and clinical research is needed to evaluate cardio-protective therapies aimed at reducing microvascular obstruction.<br>· RCTs evaluating the benefit of using MCS in high-risk patients.<br>· Randomized trials are needed to demonstrate both whether intracoronary hypothermia reduces myocardial infarct size, and if this translates into clinical improvement.<br>· RCTs evaluating several antiplatelet strategies in patients with SCAD with the aim of determining which results in the greatest clinical benefit. |
+| **12 Special situations** | · How to better differentiate Type 2 from Type 1 MI before invasive assessment.<br>· The optimal management strategy in older adults with NSTE-ACS is not known.<br>· The optimal management strategy in older frail, comorbid adults with NSTE-ACS is not known.<br>· The optimal management strategy in older frail, comorbid adults with STEMI is not known.<br>· Optimal antiplatelet therapy and its duration to manage ACS in pregnant patients are not known.<br>· The optimal management strategy for pregnant women with NSTE-ACS is not known.<br>· There is a need to further evaluate the contribution of social determinants of health. | · Patients with NSTE-ACS and MVD randomized to complete vs. culprit-only PCI.<br>· RCTs testing whether the use of intravascular imaging to guide the management of non-infarct-related lesions improves clinical outcomes.<br>· Patients randomized to FFR-guided management vs. standard angiography-guided management in NSTE-ACS.<br>· Three-arm study comparing the clinical benefits of immediate, in-hospital and staged coronary revascularization strategies.<br>· Patients with MVD randomized to intensive secondary prevention vs. usual care to evaluate whether the former strategy improves clinical outcomes.<br>· RCTs assessing the clinical benefit of hybrid revascularization.<br>· Prospective evaluation of diagnostic strategies aimed at better classifying patients according to their type of MI (Type 1 vs. Type 2).<br>· Further studies recruiting older adults should be conducted to evaluate whether the current standard of care also benefits this subset of patients.<br>· Older frail, comorbid patients should not be systematically excluded from RCTs.<br>· Prospective data are needed to better understand which antiplatelet therapy regimen is best for pregnant women.<br>· Observational data are needed in patients with ACS to evaluate the real impact of social determinants of health on clinical outcomes. Randomized interventions aimed at reducing social inequalities are needed to evaluate how to reduce this gap.<br>· Remote cardiac rehabilitation methods need randomized data to evaluate their true potential.<br>· Further monitoring is needed to increase the participation of historically under-represented patients in CR. |
+| **13 Long-term treatment** | · To evaluate the uptake, safety, and outcomes for alternative forms of cardiac rehabilitation, with a focus on telemedicine and eHealth.<br>· How to improve referral for and uptake of CR, especially for groups with low participation, including women, older persons, and ethnic minorities. | · Patients randomized to personalized strategies vs. usual care are needed to determine the role of precision medicine in ACS.<br>· Prospective cohorts are needed to evaluate non-traditional risk factors and residual risk.<br>· RCTs testing whether management based on the use of biomarkers of inflammation improves clinical outcomes.<br>· RCTs testing whether lipoprotein (a) measurement to guide medical management further improves clinical outcomes.<br>· Patients randomized to beta-blocker and no beta-blocker use to evaluate treatment efficacy in patients with ACS and LVEF >40%.<br>· RCTs evaluating the benefit of using ACE inhibitors/ARBs vs. placebo on top of standard care in ACS patients with LVEF >40%.<br>· Randomized data are needed to evaluate the role of mRNA- and siRNA-based therapies in the current context of lipid management and lipid targets.<br>· ACS patients without HF or diabetes should be randomized to SGLT2 inhibitors vs. standard of care.<br>· Studies comparing verbal vs. written consent to evaluate safety endpoints and any ethical concerns.<br>· The influence of social determinants of health on clinical outcomes should be evaluated, as well as those interventions aimed at reducing social inequalities.<br>· PROMs/PREMs should have a more prominent role in RCTs evaluating patients with ACS.<br>· Include quality of life as a prominent outcome in clinical trials.<br>· Testing the use of validated decision aids and audio-visual tools to improve decisions around informed choices.<br>· Implementation studies evaluating a quality of care programme based on the evaluation of ESC QIs for ACS.<br>· Conduct clinical trials that enrol more representative patient populations (e.g. pragmatic clinical trials). |
 
 </div></details>
 
@@ -2437,7 +2452,15 @@ Acute coronary syndrome QIs aim to audit practice and improve clinical outcomes 
 
 ## 17. Sex differences</summary><div class="details-content">
 
-*(Content from original — сохранён без изменений)*
+Female sex is less common in patients diagnosed with IE, being present in approximately one-third of cases; a finding that has been demonstrated in multiple IE patient subpopulations and across different regions. The reason why female sex is observed less frequently in IE is unknown and deserves further investigation. Possible reasons include underdiagnosis of IE in women, referral bias in published studies, intrinsic protective mechanisms against IE in women, and decreased incidence of risk factors for IE in women (e.g. bicuspid aortic valve disease, previous heart valve replacement surgery), among others. A recent nationwide population study of individual patient-level linkage data of 7513 patients hospitalized for IE in Scotland, however, demonstrated roughly equal proportions of male and female patients throughout the 25-year study period.
+
+Female patients with IE have been demonstrated to have a higher prevalence of several risk factors for IE in comparison to their male counterparts including older age, mitral valve involvement, S. aureus infection, neurological symptoms, and haemodialysis. However, men have a higher prevalence of other important risk factors including previous prosthetic valve replacement, periannular complications, CAD, and liver cirrhosis.
+
+Some studies have demonstrated higher mortality rates for female patients with IE, while others have demonstrated no differences in early and 1-year mortality rates between males and females. The abovementioned population study from Scotland showed lower mortality rates for women during the study period.
+
+Although surgery has been demonstrated to be protective against mortality in several clinical scenarios (see Section 8), surgery is performed less frequently in female patients with IE. In a study using the National Inpatient Sample of 81,942 patients hospitalized for IE over an 11-year period, women were 43% less likely to undergo valve replacement surgery, a significant difference that remained after adjusting for confounding factors. The reason for decreased surgery in female IE patients is unknown and requires further investigation.
+
+Female sex has also been identified as an independent risk factor for mortality in prediction models for patients with IE undergoing surgery. However, a single-centre study suggested that worse observed surgical outcomes in female patients with IE was related to their increased risk factors and severity of presentation, rather than gender per se. In addition, a large multicentre registry of 4300 patients undergoing surgery for IE failed to identify female gender as an independent predictor of mortality.
 
 </div></details>
 
@@ -2445,7 +2468,56 @@ Acute coronary syndrome QIs aim to audit practice and improve clinical outcomes 
 
 ## 18. What to do' and 'What not to do' messages from the Guidelines</summary><div class="details-content">
 
-*(Table 9 remains unchanged from original — сохранён в полном объёме)*
+Class I and Class III recommendations from throughout the guideline document are summarized in [Table 14](#table-14).
+
+<details class="med-details"><summary>
+
+#### <span id="table-14"></span>Table 14: What to do' and 'What not to do'</summary><div class="details-content">
+
+| Recommendation | Class | Level |
+|----------------|-------|-------|
+| **Prevention** | | |
+| Antibiotic prophylaxis is recommended in patients with previous IE. | I | B |
+| General prevention measures are recommended in individuals at high and intermediate risk of IE. | I | C |
+| Antibiotic prophylaxis is recommended in patients with surgically implanted prosthetic valves and with any material used for surgical cardiac valve repair. | I | C |
+| Antibiotic prophylaxis is recommended in patients with transcatheter implanted aortic and pulmonary valvular prostheses. | I | C |
+| Antibiotic prophylaxis is recommended in patients with untreated cyanotic CHD, and patients treated with surgery or transcatheter procedures with post-operative palliative shunts, conduits, or other prostheses. | I | C |
+| Antibiotic prophylaxis is recommended in patients with ventricular assist devices. | I | C |
+| Antibiotic prophylaxis is not recommended in other patients at low risk of IE. | III | C |
+| Systematic skin or nasal decolonization without screening for S. aureus is not recommended. | III | C |
+| **Diagnosis** | | |
+| TTE is recommended as the first-line imaging modality in suspected IE. | I | B |
+| TOE is recommended in all patients with clinical suspicion of IE and a negative or non-diagnostic TTE. | I | B |
+| TOE is recommended in patients with clinical suspicion of IE, when a prosthetic heart valve or an intracardiac device is present. | I | B |
+| Repeating TTE and/or TOE within 5-7 days is recommended in cases of initially negative or inconclusive examination when clinical suspicion of IE remains high. | I | C |
+| TOE is recommended in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic findings. | I | C |
+| **Antimicrobial therapy** | | |
+| For penicillin-susceptible oral streptococci NVE: penicillin G, amoxicillin, or ceftriaxone for 4 weeks (I B). For PVE: 6 weeks (I B). | I | B |
+| 2-week treatment for uncomplicated NVE due to oral streptococci (penicillin/amoxicillin/ceftriaxone + gentamicin). | I | B |
+| For MSSA NVE: (flu)cloxacillin or cefazolin 4-6 weeks (I B). For PVE: + rifampin (≥6 weeks) + gentamicin (2 weeks) (I B). | I | B |
+| For MRSA NVE: vancomycin 4-6 weeks (I B). For PVE: + rifampin + gentamicin (I B). | I | B |
+| For non-HLAR Enterococcus NVE: ampicillin/amoxicillin + ceftriaxone 6 weeks or + gentamicin 2 weeks (I B). | I | B |
+| OPAT not recommended in highly difficult-to-treat microorganisms, severe CNS emboli, PWID-related IE. | III | C |
+| Thrombolytic therapy is not recommended in embolic stroke due to IE. | III | C |
+| **Surgery** | | |
+| Emergency surgery in aortic/mitral NVE/PVE with severe acute regurgitation/obstruction/fistula causing refractory pulmonary oedema or cardiogenic shock (I B). | I | B |
+| Urgent surgery in locally uncontrolled infection (abscess, false aneurysm, fistula, enlarging vegetation, prosthetic dehiscence, new AVB) (I B). | I | B |
+| Urgent surgery in aortic/mitral NVE/PVE with persistent vegetations ≥10 mm after one or more embolic episodes despite antibiotics (I B). | I | B |
+| **Follow-up** | | |
+| Patient education on recurrence risk and preventive measures during follow-up (I C). | I | C |
+| Addiction treatment for patients following PWID-related IE (I C). | I | C |
+| **CIED-related IE** | | |
+| Antibiotic prophylaxis covering S. aureus for CIED implantation (I A). | I | A |
+| TTE and TOE both recommended in suspected CIED-related IE (I B). | I | B |
+| Complete system extraction without delay in definite CIED-related IE (I B). | I | B |
+| Removal of CIED after a single positive blood culture with no other clinical evidence of infection – not recommended (III C). | III | C |
+| **Right-sided IE** | | |
+| Surgery recommended for right ventricular dysfunction from acute severe TR non-responsive to diuretics (I B). | I | B |
+| Surgery recommended for persistent vegetation with respiratory insufficiency after recurrent pulmonary emboli (I B). | I | B |
+
+*CHD, congenital heart disease; CIED, cardiac implantable electronic device; IE, infective endocarditis; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-susceptible Staphylococcus aureus; NVE, native valve endocarditis; OPAT, outpatient parenteral antibiotic therapy; PVE, prosthetic valve endocarditis; PWID, people who inject drugs; TOE, transoesophageal echocardiography; TTE, transthoracic echocardiography.*
+
+</div></details>
 
 </div></details>
 
@@ -2453,11 +2525,13 @@ Acute coronary syndrome QIs aim to audit practice and improve clinical outcomes 
 
 ## 19. Quality indicators</summary><div class="details-content">
 
-*(Content from original — сохранён без изменений)*
+Quality indicators are tools that can be used to evaluate care quality, including structures, processes, and outcomes of care. They may also serve as a mechanism for enhancing adherence to guideline recommendations, through associated quality improvement initiatives and the benchmarking of care providers. As such, the role of QIs in improving care and outcomes for CVD is increasingly recognized by healthcare authorities, professional organizations, payers, and the public.
+
+The ESC understands the need for measuring and reporting quality and outcomes of CV care and has established methods for the development of the ESC QIs for the quantification of care and outcomes for CVDs. To date, the ESC has developed QI suites for a number of CVDs in parallel with the writing of the ESC Clinical Practice Guidelines. Previous QIs for the management of AMI have been tested in numerous large registries. A systematic review of these studies has shown that there is room for improvement in terms of levels of attainment of QIs.
+
+The ESC aims to harmonize its QIs for various CV conditions and integrate them with ESC registries. This integrative approach provides 'real-world' data about the patterns and outcomes of care for CVD across Europe.
 
 </div></details>
-
-<details class="med-details"><summary>
 
 ## 20. Supplementary data</summary><div class="details-content">
 
