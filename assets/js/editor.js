@@ -346,7 +346,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initFormulaEditor();
     initHeaderToggle();
     initToolGroupPins();
-    _initSync();
+    initSync();
     _initSynthesis();
 
     setTimeout(() => {
