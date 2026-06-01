@@ -423,19 +423,34 @@ document.addEventListener('DOMContentLoaded', () => {
     let chapterCount = 0;
     let appendixCount = 0;
     
-    // Words to skip (Front Matter and common non-content sections)
-    const skipWords = ['cover', 'title page', 'copyright', 'contents', 'contributors', 'preface', 'abbreviations', 'index', 'indices', 'table of contents'];
+    // Expanded words to skip
+    const skipWords = [
+        'cover', 'title page', 'copyright', 'contents', 'contributors', 'preface', 
+        'abbreviations', 'index', 'indices', 'table of contents', 'acknowledgments', 
+        'editors', 'front matter', 'dedication'
+    ];
 
     rootBookmarks.forEach((bm) => {
-        const bmTitle = (bm.getAttribute('title') || 'Untitled').trim();
+        let bmTitle = (bm.getAttribute('title') || 'Untitled').trim();
         const bmPage = bm.getAttribute('page') || '0';
+        const subBookmarks = bm.querySelectorAll(':scope > bookmark');
         
         // Skip if title matches any skipWords
         if (skipWords.some(word => bmTitle.toLowerCase().includes(word))) {
             return;
         }
 
-        // Find next bookmark to estimate page range if available
+        // --- MERGING LOGIC ---
+        // If this bookmark's title is just a number (e.g., "1") AND it has a child
+        // AND that child's title starts with the same number or is descriptive,
+        // we use the child's title instead of the number.
+        if (bmTitle.match(/^\d+$/) && subBookmarks.length > 0) {
+            const firstSubTitle = (subBookmarks[0].getAttribute('title') || '').trim();
+            // If sub-title contains the title we want, merge them
+            bmTitle = firstSubTitle;
+        }
+
+        // Estimate page range
         let nextBm = bm.nextElementSibling;
         let pageRange = bmPage;
         if (nextBm) {
@@ -451,11 +466,15 @@ document.addEventListener('DOMContentLoaded', () => {
             output += `${chapterCount}|${bmTitle}|${pageRange}\n`;
         }
         
-        const subBookmarks = bm.querySelectorAll(':scope > bookmark');
+        // Only show subchapters if we DIDN'T merge the first one into the parent
+        // Or show all subchapters starting from index 1 if we merged index 0
+        const isMerged = (bm.getAttribute('title') || '').trim().match(/^\d+$/) && subBookmarks.length > 0;
+        
         subBookmarks.forEach((sub, idx) => {
+            if (isMerged && idx === 0) return; // Skip first child as it's now the parent title
             const subTitle = (sub.getAttribute('title') || 'Untitled').trim();
             const subPage = sub.getAttribute('page') || '0';
-            output += `  ${chapterCount}.${idx+1}|${subTitle}|${subPage}\n`;
+            output += `  ${chapterCount}.${idx + (isMerged ? 0 : 1)}|${subTitle}|${subPage}\n`;
         });
     });
 
