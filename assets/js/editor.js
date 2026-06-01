@@ -346,8 +346,9 @@ document.addEventListener('DOMContentLoaded', () => {
     initFormulaEditor();
     initHeaderToggle();
     initToolGroupPins();
-    initSync();
-    
+    _initSync();
+    _initSynthesis();
+
     setTimeout(() => {
         initPreview();
         if (typeof katex === 'undefined') {
@@ -359,9 +360,147 @@ document.addEventListener('DOMContentLoaded', () => {
             }, 100);
         }
     }, 100);
-});
+    });
 
-// 1. Initialize color palettes
+    // ==================== CONFIG SYNTHESIS ====================
+
+    function _initSynthesis() {
+    const btn = document.getElementById('btn-generate-config');
+    const fileInput = document.getElementById('syn-toc-file');
+    const status = document.getElementById('syn-status');
+
+    if (!btn || !fileInput) return;
+
+    btn.addEventListener('click', async () => {
+        const file = fileInput.files[0];
+        if (!file) return alert('Please select a TOC XML/TXT file first');
+
+        const title = document.getElementById('syn-book-title').value.trim() || 'Untitled Book';
+        const authors = document.getElementById('syn-book-authors').value.split(',').map(s => s.trim()).filter(Boolean);
+        const categories = document.getElementById('syn-book-categories').value.split(',').map(s => s.trim()).filter(Boolean);
+
+        status.textContent = '⏳ Processing...';
+
+        try {
+            const text = await file.text();
+            let result;
+
+            if (file.name.endsWith('.xml') || text.trim().startsWith('<')) {
+                result = _parseTocXml(text, title, authors, categories);
+            } else {
+                result = _parseTocTxt(text, title, authors, categories);
+            }
+
+            if (editor) {
+                editor.setValue(JSON.stringify([result], null, 2));
+                editor.setOption('mode', 'javascript'); // Switch to JSON highlighting
+            }
+            updatePreview();
+            status.textContent = '✅ Synthesis complete!';
+            status.style.color = '#4caf50';
+
+        } catch (e) {
+            status.textContent = `❌ Error: ${e.message}`;
+            status.style.color = '#e53935';
+            console.error(e);
+        }
+    });
+    }
+
+    function _parseTocXml(xmlText, title, authors, categories) {
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+    const rootBookmarks = xmlDoc.querySelectorAll('bookmarks > bookmark');
+
+    if (rootBookmarks.length === 0) throw new Error('No <bookmark> tags found in root <bookmarks>');
+
+    const chapters = [];
+    const appendices = [];
+
+    rootBookmarks.forEach((bm) => {
+        const bmTitle = bm.getAttribute('title') || '';
+        const bmPage = bm.getAttribute('page');
+
+        // Logic to distinguish chapters from appendices (usually by title or position)
+        if (bmTitle.toLowerCase().includes('appendix') || bmTitle.toLowerCase().includes('indexes')) {
+            appendices.push(_buildChapterObj(bm, true));
+        } else {
+            chapters.push(_buildChapterObj(bm));
+        }
+    });
+
+    return {
+        title: title,
+        cover_image: "cover.jpg",
+        category: categories,
+        authors: authors,
+        versions: { original: true, russian: true, starley: true, hebrew: false },
+        chapters: chapters,
+        appendices: appendices
+    };
+    }
+
+    function _buildChapterObj(bmNode, isAppendix = false) {
+    const title = bmNode.getAttribute('title') || 'Untitled';
+    const subBookmarks = bmNode.querySelectorAll(':scope > bookmark');
+
+    // Auto-generate filename e.g. "chapter-01.md"
+    let filename = title.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+    if (!filename) filename = 'untitled';
+
+    // If title starts with a number, try to format as chapter-NN.md
+    const numMatch = title.match(/^(\d+)/);
+    if (numMatch) {
+        filename = `chapter-${numMatch[1].padStart(2, '0')}.md`;
+    } else if (isAppendix) {
+        filename = `appendix-${filename}.md`;
+    } else {
+        filename = `${filename}.md`;
+    }
+
+    const obj = {
+        file: filename,
+        title: title
+    };
+
+    if (subBookmarks.length > 0) {
+        obj.subchapters = Array.from(subBookmarks).map((sub, idx) => {
+            const subTitle = sub.getAttribute('title') || `Subchapter ${idx + 1}`;
+            let subFile = filename.replace('.md', '') + `-${(idx + 1).toString().padStart(2, '0')}.md`;
+            return {
+                file: subFile,
+                title: subTitle
+            };
+        });
+    }
+
+    return obj;
+    }
+
+    function _parseTocTxt(txt, title, authors, categories) {
+    // Simple parser for "1|Title|10-20" format
+    const lines = txt.split('\n').filter(l => l.trim() && l.includes('|'));
+    const chapters = [];
+    const appendices = [];
+
+    lines.forEach(line => {
+        const [id, t, range] = line.split('|').map(s => s.trim());
+        const isApp = id.toLowerCase().includes('appendix');
+        const file = isApp ? `appendix-${id.toLowerCase().replace(/\s+/g, '-')}.md` : `chapter-${id.padStart(2, '0')}.md`;
+
+        const obj = { file, title: t };
+        if (isApp) appendices.push(obj); else chapters.push(obj);
+    });
+
+    return {
+        title, cover_image: "cover.jpg", category: categories, authors,
+        versions: { original: true, russian: true, starley: true, hebrew: false },
+        chapters, appendices
+    };
+    }
+
+    // 1. Initialize color palettes
+
 function initColorPalettes() {
     const ovalGrid = document.getElementById('oval-colors');
     const markerGrid = document.getElementById('marker-colors');
