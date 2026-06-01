@@ -392,8 +392,8 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             if (editor) {
-                editor.setValue(JSON.stringify([result], null, 2));
-                editor.setOption('mode', 'javascript'); // Switch to JSON highlighting
+                editor.setValue(result);
+                editor.setOption('mode', 'markdown');
             }
             updatePreview();
             status.textContent = '✅ Synthesis complete!';
@@ -414,89 +414,61 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (rootBookmarks.length === 0) throw new Error('No <bookmark> tags found in root <bookmarks>');
 
-    const chapters = [];
-    const appendices = [];
+    let output = `filename: book.pdf\n`;
+    output += `title: ${title}\n`;
+    output += `author: ${authors.join(', ')}\n`;
+    output += `categories: ${categories.join(', ')}\n`;
+    output += `chapters:\n`;
+
+    let chapterCount = 0;
+    let appendixCount = 0;
 
     rootBookmarks.forEach((bm) => {
-        const bmTitle = bm.getAttribute('title') || '';
-        const bmPage = bm.getAttribute('page');
-
-        // Logic to distinguish chapters from appendices (usually by title or position)
-        if (bmTitle.toLowerCase().includes('appendix') || bmTitle.toLowerCase().includes('indexes')) {
-            appendices.push(_buildChapterObj(bm, true));
-        } else {
-            chapters.push(_buildChapterObj(bm));
+        const bmTitle = bm.getAttribute('title') || 'Untitled';
+        const bmPage = bm.getAttribute('page') || '0';
+        
+        let nextBm = bm.nextElementSibling;
+        let pageRange = bmPage;
+        if (nextBm) {
+            let nextPage = nextBm.getAttribute('page');
+            if (nextPage) pageRange = `${bmPage}-${parseInt(nextPage)-1}`;
         }
+
+        if (bmTitle.toLowerCase().includes('appendix') || bmTitle.toLowerCase().includes('index')) {
+            appendixCount++;
+            output += `Appendix ${appendixCount}|${bmTitle}|${pageRange}\n`;
+        } else {
+            chapterCount++;
+            output += `${chapterCount}|${bmTitle}|${pageRange}\n`;
+        }
+        
+        const subBookmarks = bm.querySelectorAll(':scope > bookmark');
+        subBookmarks.forEach((sub, idx) => {
+            const subTitle = sub.getAttribute('title') || 'Untitled';
+            const subPage = sub.getAttribute('page') || '0';
+            output += `  ${chapterCount}.${idx+1}|${subTitle}|${subPage}\n`;
+        });
     });
 
-    return {
-        title: title,
-        cover_image: "cover.jpg",
-        category: categories,
-        authors: authors,
-        versions: { original: true, russian: true, starley: true, hebrew: false },
-        chapters: chapters,
-        appendices: appendices
-    };
-    }
-
-    function _buildChapterObj(bmNode, isAppendix = false) {
-    const title = bmNode.getAttribute('title') || 'Untitled';
-    const subBookmarks = bmNode.querySelectorAll(':scope > bookmark');
-
-    // Auto-generate filename e.g. "chapter-01.md"
-    let filename = title.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
-    if (!filename) filename = 'untitled';
-
-    // If title starts with a number, try to format as chapter-NN.md
-    const numMatch = title.match(/^(\d+)/);
-    if (numMatch) {
-        filename = `chapter-${numMatch[1].padStart(2, '0')}.md`;
-    } else if (isAppendix) {
-        filename = `appendix-${filename}.md`;
-    } else {
-        filename = `${filename}.md`;
-    }
-
-    const obj = {
-        file: filename,
-        title: title
-    };
-
-    if (subBookmarks.length > 0) {
-        obj.subchapters = Array.from(subBookmarks).map((sub, idx) => {
-            const subTitle = sub.getAttribute('title') || `Subchapter ${idx + 1}`;
-            let subFile = filename.replace('.md', '') + `-${(idx + 1).toString().padStart(2, '0')}.md`;
-            return {
-                file: subFile,
-                title: subTitle
-            };
-        });
-    }
-
-    return obj;
+    return output;
     }
 
     function _parseTocTxt(txt, title, authors, categories) {
-    // Simple parser for "1|Title|10-20" format
-    const lines = txt.split('\n').filter(l => l.trim() && l.includes('|'));
-    const chapters = [];
-    const appendices = [];
-
-    lines.forEach(line => {
-        const [id, t, range] = line.split('|').map(s => s.trim());
-        const isApp = id.toLowerCase().includes('appendix');
-        const file = isApp ? `appendix-${id.toLowerCase().replace(/\s+/g, '-')}.md` : `chapter-${id.padStart(2, '0')}.md`;
-
-        const obj = { file, title: t };
-        if (isApp) appendices.push(obj); else chapters.push(obj);
-    });
-
-    return {
-        title, cover_image: "cover.jpg", category: categories, authors,
-        versions: { original: true, russian: true, starley: true, hebrew: false },
-        chapters, appendices
-    };
+        let output = `filename: book.pdf\n`;
+        output += `title: ${title}\n`;
+        output += `author: ${authors.join(', ')}\n`;
+        output += `categories: ${categories.join(', ')}\n`;
+        output += `chapters:\n`;
+        
+        if (txt.includes('|')) {
+            output += txt.trim();
+        } else {
+            const lines = txt.split('\n').filter(l => l.trim());
+            lines.forEach((l, i) => {
+                output += `${i+1}|${l.trim()}|0\n`;
+            });
+        }
+        return output;
     }
 
     // 1. Initialize color palettes
