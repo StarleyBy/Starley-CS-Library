@@ -1048,21 +1048,51 @@ function _showHeader(header, btn, tab) {
 // ==========================================================================
 
 function initToolGroupPins() {
-    document.querySelectorAll('.tool-group-pin').forEach(btn => {
-        const group = btn.closest('.tool-group');
-        if (!group) return;
+    const groups = document.querySelectorAll('.tool-group');
+    
+    groups.forEach(group => {
+        const header = group.querySelector('h4');
+        const pinBtn = group.querySelector('.tool-group-pin');
+        if (!header) return;
+
+        const groupName = header.textContent.trim().replace(/[^\x00-\x7F]/g, "").slice(0, 20);
+        const pinKey = 'editor_pin_' + groupName;
 
         // Restore pinned state
-        const key = 'editor_pin_' + group.querySelector('h4')?.textContent?.trim().slice(0,20);
-        if (localStorage.getItem(key) === '1') group.classList.add('pinned');
+        if (localStorage.getItem(pinKey) === '1') {
+            group.classList.add('pinned', 'active');
+        }
 
-        btn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            group.classList.toggle('pinned');
-            const pinned = group.classList.contains('pinned');
-            if (key) localStorage.setItem(key, pinned ? '1' : '0');
+        // Toggle on header click
+        header.addEventListener('click', (e) => {
+            // If click was on pin button, handle it separately
+            if (e.target.closest('.tool-group-pin')) return;
+
+            const wasActive = group.classList.contains('active');
+            
+            // Close all other non-pinned groups
+            groups.forEach(g => {
+                if (g !== group && !g.classList.contains('pinned')) {
+                    g.classList.remove('active');
+                }
+            });
+
+            // Toggle current group
+            group.classList.toggle('active', !wasActive);
         });
+
+        // Pin logic
+        if (pinBtn) {
+            pinBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const isPinned = group.classList.toggle('pinned');
+                if (isPinned) group.classList.add('active');
+                localStorage.setItem(pinKey, isPinned ? '1' : '0');
+            });
+        }
     });
+
+    // Add "Collapse All" button if helpful? Let's just make sure one-at-a-time is reliable.
 }
 
 // ==========================================================================
