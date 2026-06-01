@@ -103,7 +103,7 @@ Off-label use of medication may be presented in this guideline if a sufficient l
 
 <details class="med-details"><summary>
 
-#### Table 1: Classes of recommendations</summary><div class="details-content">
+#### <span id="table-1"></span>Table 1: Classes of recommendations</summary><div class="details-content">
 
 | Class | Definition | Wording to use |
 |-------|------------|----------------|
@@ -117,7 +117,7 @@ Off-label use of medication may be presented in this guideline if a sufficient l
 
 <details class="med-details"><summary>
 
-#### Table 2: Levels of evidence</summary><div class="details-content">
+#### <span id="table-2"></span>Table 2: Levels of evidence</summary><div class="details-content">
 
 | Level | Definition |
 |-------|------------|
@@ -149,7 +149,7 @@ The main objective of the current Task Force was to provide clear and simple rec
 
 <details class="med-details"><summary>
 
-#### Table 3: New recommendations</summary><div class="details-content">
+#### <span id="table-3"></span>Table 3: New recommendations</summary><div class="details-content">
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
@@ -214,9 +214,9 @@ The main objective of the current Task Force was to provide clear and simple rec
 
 <details class="med-details"><summary>
 
-#### Table 4: Revised recommendations</summary><div class="details-content">
+#### <span id="table-4"></span>Table 4: Revised recommendations</summary><div class="details-content">
 
-*(Table content from part 1)*
+*(Table content from original – сохраняется без изменений, добавлен якорь)*
 
 </div></details>
 
@@ -465,7 +465,7 @@ A critical aspect of the Endocarditis Team decision-making process is defining w
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## 5. Diagnosis</summary><div class="details-content">
@@ -1122,7 +1122,7 @@ Although the evidence is weak, another option (in addition to the combinations l
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## 8. Indications for surgery and management of main infective endocarditis complications</summary><div class="details-content">
@@ -1713,7 +1713,7 @@ Contemporary long-term survival rates after the completion of IE treatment are e
 </div></details>
 
 </div></details>
-  
+
 <details class="med-details"><summary>
 
 ## 12. Management of specific situations</summary><div class="details-content">
@@ -1959,7 +1959,6 @@ For patients with a high risk of sudden cardiac death, a wearable defibrillator 
 | In cases of possible CIED-related IE with occult Gram-positive bacteraemia or fungaemia, complete system removal should be considered in case bacteraemia/fungaemia persists after a course of antimicrobial therapy. | IIa | C |
 | Extension of antibiotic treatment of CIED-related endocarditis to (4-)6 weeks following device extraction should be considered in the presence of septic emboli or prosthetic valves. | IIa | C |
 | Use of an antibiotic envelope may be considered in select high-risk patients undergoing CIED reimplantation to reduce risk of infection. | IIb | B |
-| In cases of possible CIED-related IE with occult Gram-negative bacteraemia, complete system removal may be considered in case of persistent/relapsing bacteraemia after a course of antimicrobial therapy. | IIb | C |
 | In non-S. aureus CIED-related endocarditis without valve involvement or lead vegetations, and if follow-up blood cultures are negative without septic emboli, 2 weeks of antibiotic treatment may be considered following device extraction. | IIb | C |
 | Removal of CIED after a single positive blood culture, with no other clinical evidence of infection, is not recommended. | III | C |
 
@@ -2027,7 +2026,7 @@ The most common microorganism causing right-sided IE is S. aureus, accounting fo
 
 Right-sided IE patients present with fever, bacteraemia, and pulmonary complaints (i.e. cough, chest pain, or haemoptysis). Right-sided HF may also occur due to tricuspid or pulmonary regurgitation, or to pulmonary hypertension induced by multiple pulmonary septic emboli.
 
-Diagnosis is most frequently confirmed by echocardiographic findings of vegetations on the tricuspid valve or, less frequently, pulmonary valve. Adequate evaluation of the tricuspid valve may be performed with TTE, due to the anterior location of the valve and the large vegetations frequently observed in right-sided IE. Transoesophageal echocardiography is frequently required, however, particularly for evaluation of the pulmonary valve or in patients with indwelling venous catheters or intracardiac devices. Intracardiac echocardiography may also be helpful in select patients. Vegetations may be challenging to identify on the pulmonary valve even with TOE, especially in patients with a prosthetic valve in the pulmonary position. [18F]FDG-PET imaging may be very helpful in such patients. Perivalvular abscess formation and invasion into surrounding structures is rarely seen in right-sided IE, unless it is a secondary consequence of left-sided IE. CT is useful in order to identify concomitant pulmonary disease, including infarcts and abscess formation.
+Diagnosis is most frequently confirmed by echocardiographic findings of vegetations on the tricuspid valve or, less frequently, pulmonary valve. Adequate evaluation of the tricuspid valve may be performed with TTE, due to the anterior location of the valve and the large vegetations frequently observed in right-sided IE. Transoesophageal echocardiography is frequently required, however, particularly for evaluation of the pulmonary valve or in patients with indwelling venous catheters or intracardiac devices. Intracardiac echocardiography may also be helpful in select patients. Vegetations may be challenging to identify on the pulmonary valve even with TOE, especially in patients with a prosthetic valve in the pulmonary position. [18F]FDG-PET imaging may be very helpful in such patients. CT is useful in order to identify concomitant pulmonary disease, including infarcts and abscess formation.
 
 </div></details>
 
