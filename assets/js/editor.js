@@ -347,7 +347,8 @@ document.addEventListener('DOMContentLoaded', () => {
     initHeaderToggle();
     initToolGroupPins();
     initSync();
-    
+    _initSynthesis();
+
     setTimeout(() => {
         initPreview();
         if (typeof katex === 'undefined') {
@@ -359,9 +360,147 @@ document.addEventListener('DOMContentLoaded', () => {
             }, 100);
         }
     }, 100);
-});
+    });
 
-// 1. Initialize color palettes
+    // ==================== CONFIG SYNTHESIS ====================
+
+    function _initSynthesis() {
+    const btn = document.getElementById('btn-generate-config');
+    const fileInput = document.getElementById('syn-toc-file');
+    const status = document.getElementById('syn-status');
+
+    if (!btn || !fileInput) return;
+
+    btn.addEventListener('click', async () => {
+        const file = fileInput.files[0];
+        if (!file) return alert('Please select a TOC XML/TXT file first');
+
+        const title = document.getElementById('syn-book-title').value.trim() || 'Untitled Book';
+        const authors = document.getElementById('syn-book-authors').value.split(',').map(s => s.trim()).filter(Boolean);
+        const categories = document.getElementById('syn-book-categories').value.split(',').map(s => s.trim()).filter(Boolean);
+
+        status.textContent = '⏳ Processing...';
+
+        try {
+            const text = await file.text();
+            let result;
+
+            if (file.name.endsWith('.xml') || text.trim().startsWith('<')) {
+                result = _parseTocXml(text, title, authors, categories);
+            } else {
+                result = _parseTocTxt(text, title, authors, categories);
+            }
+
+            if (editor) {
+                editor.setValue(result);
+                editor.setOption('mode', 'markdown');
+            }
+            updatePreview();
+            status.textContent = '✅ Synthesis complete!';
+            status.style.color = '#4caf50';
+
+        } catch (e) {
+            status.textContent = `❌ Error: ${e.message}`;
+            status.style.color = '#e53935';
+            console.error(e);
+        }
+    });
+    }
+
+    function _parseTocXml(xmlText, title, authors, categories) {
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+    const rootBookmarks = xmlDoc.querySelectorAll('bookmarks > bookmark');
+
+    if (rootBookmarks.length === 0) throw new Error('No <bookmark> tags found in root <bookmarks>');
+
+    let output = `filename: book.pdf\n`;
+    output += `title: ${title}\n`;
+    output += `author: ${authors.join(', ')}\n`;
+    output += `categories: ${categories.join(', ')}\n`;
+    output += `chapters:\n`;
+
+    let chapterCount = 0;
+    let appendixCount = 0;
+    
+    // Expanded words to skip
+    const skipWords = [
+        'cover', 'title page', 'copyright', 'contents', 'contributors', 'preface', 
+        'abbreviations', 'index', 'indices', 'table of contents', 'acknowledgments', 
+        'editors', 'front matter', 'dedication'
+    ];
+
+    rootBookmarks.forEach((bm) => {
+        let bmTitle = (bm.getAttribute('title') || 'Untitled').trim();
+        const bmPage = bm.getAttribute('page') || '0';
+        const subBookmarks = bm.querySelectorAll(':scope > bookmark');
+        
+        // Skip if title matches any skipWords
+        if (skipWords.some(word => bmTitle.toLowerCase().includes(word))) {
+            return;
+        }
+
+        // --- MERGING LOGIC ---
+        // If this bookmark's title is just a number (e.g., "1") AND it has a child
+        // AND that child's title starts with the same number or is descriptive,
+        // we use the child's title instead of the number.
+        if (bmTitle.match(/^\d+$/) && subBookmarks.length > 0) {
+            const firstSubTitle = (subBookmarks[0].getAttribute('title') || '').trim();
+            // If sub-title contains the title we want, merge them
+            bmTitle = firstSubTitle;
+        }
+
+        // Estimate page range
+        let nextBm = bm.nextElementSibling;
+        let pageRange = bmPage;
+        if (nextBm) {
+            let nextPage = nextBm.getAttribute('page');
+            if (nextPage) pageRange = `${bmPage}-${parseInt(nextPage)-1}`;
+        }
+
+        if (bmTitle.toLowerCase().includes('appendix')) {
+            appendixCount++;
+            output += `Appendix ${appendixCount}|${bmTitle}|${pageRange}\n`;
+        } else {
+            chapterCount++;
+            output += `${chapterCount}|${bmTitle}|${pageRange}\n`;
+        }
+        
+        // Only show subchapters if we DIDN'T merge the first one into the parent
+        // Or show all subchapters starting from index 1 if we merged index 0
+        const isMerged = (bm.getAttribute('title') || '').trim().match(/^\d+$/) && subBookmarks.length > 0;
+        
+        subBookmarks.forEach((sub, idx) => {
+            if (isMerged && idx === 0) return; // Skip first child as it's now the parent title
+            const subTitle = (sub.getAttribute('title') || 'Untitled').trim();
+            const subPage = sub.getAttribute('page') || '0';
+            output += `  ${chapterCount}.${idx + (isMerged ? 0 : 1)}|${subTitle}|${subPage}\n`;
+        });
+    });
+
+    return output;
+    }
+
+    function _parseTocTxt(txt, title, authors, categories) {
+        let output = `filename: book.pdf\n`;
+        output += `title: ${title}\n`;
+        output += `author: ${authors.join(', ')}\n`;
+        output += `categories: ${categories.join(', ')}\n`;
+        output += `chapters:\n`;
+        
+        if (txt.includes('|')) {
+            output += txt.trim();
+        } else {
+            const lines = txt.split('\n').filter(l => l.trim());
+            lines.forEach((l, i) => {
+                output += `${i+1}|${l.trim()}|0\n`;
+            });
+        }
+        return output;
+    }
+
+    // 1. Initialize color palettes
+
 function initColorPalettes() {
     const ovalGrid = document.getElementById('oval-colors');
     const markerGrid = document.getElementById('marker-colors');
@@ -928,21 +1067,51 @@ function _showHeader(header, btn, tab) {
 // ==========================================================================
 
 function initToolGroupPins() {
-    document.querySelectorAll('.tool-group-pin').forEach(btn => {
-        const group = btn.closest('.tool-group');
-        if (!group) return;
+    const groups = document.querySelectorAll('.tool-group');
+    
+    groups.forEach(group => {
+        const header = group.querySelector('h4');
+        const pinBtn = group.querySelector('.tool-group-pin');
+        if (!header) return;
+
+        const groupName = header.textContent.trim().replace(/[^\x00-\x7F]/g, "").slice(0, 20);
+        const pinKey = 'editor_pin_' + groupName;
 
         // Restore pinned state
-        const key = 'editor_pin_' + group.querySelector('h4')?.textContent?.trim().slice(0,20);
-        if (localStorage.getItem(key) === '1') group.classList.add('pinned');
+        if (localStorage.getItem(pinKey) === '1') {
+            group.classList.add('pinned', 'active');
+        }
 
-        btn.addEventListener('click', (e) => {
-            e.stopPropagation();
-            group.classList.toggle('pinned');
-            const pinned = group.classList.contains('pinned');
-            if (key) localStorage.setItem(key, pinned ? '1' : '0');
+        // Toggle on header click
+        header.addEventListener('click', (e) => {
+            // If click was on pin button, handle it separately
+            if (e.target.closest('.tool-group-pin')) return;
+
+            const wasActive = group.classList.contains('active');
+            
+            // Close all other non-pinned groups
+            groups.forEach(g => {
+                if (g !== group && !g.classList.contains('pinned')) {
+                    g.classList.remove('active');
+                }
+            });
+
+            // Toggle current group
+            group.classList.toggle('active', !wasActive);
         });
+
+        // Pin logic
+        if (pinBtn) {
+            pinBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                const isPinned = group.classList.toggle('pinned');
+                if (isPinned) group.classList.add('active');
+                localStorage.setItem(pinKey, isPinned ? '1' : '0');
+            });
+        }
     });
+
+    // Add "Collapse All" button if helpful? Let's just make sure one-at-a-time is reliable.
 }
 
 // ==========================================================================

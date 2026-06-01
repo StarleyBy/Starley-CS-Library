@@ -241,6 +241,25 @@
                 <div id="github-status" style="font-size:0.78rem; margin-top:5px; color:#aaa;"></div>
             </div></div>
             </div>
+
+            <!-- Синтез конфигурации -->
+            <div class="tool-group synthesis-group">
+                <h4>🧩 Config Synthesis <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <p style="font-size:0.75rem; color:#aaa; margin-bottom:8px;">Generate metadata.json from TOC XML</p>
+                    <input type="text" id="syn-book-title" placeholder="Book Title (e.g. Kirklin 5th)" style="width:100%; margin-bottom:5px;">
+                    <input type="text" id="syn-book-authors" placeholder="Authors (comma separated)" style="width:100%; margin-bottom:5px;">
+                    <input type="text" id="syn-book-categories" placeholder="Categories (e.g. icu, surgery)" style="width:100%; margin-bottom:5px;">
+                    
+                    <label class="file-load-btn" style="display:block; margin-bottom:8px; background:#2980b9; color:white; padding:8px; border-radius:4px; text-align:center; cursor:pointer; font-size:0.85rem;">
+                        📁 Load TOC XML (Bookmarks)
+                        <input type="file" id="syn-toc-file" accept=".xml,.txt" style="display:none">
+                    </label>
+                    
+                    <button id="btn-generate-config" class="btn-success" style="width:100%; padding:8px; border-radius:4px; font-weight:700;">⚙️ Synthesis Config</button>
+                    <div id="syn-status" style="font-size:0.7rem; margin-top:5px; color:#888;"></div>
+                </div></div>
+            </div>
         </aside>
 
         <main class="editor-main">
