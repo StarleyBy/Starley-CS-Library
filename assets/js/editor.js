@@ -422,11 +422,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let chapterCount = 0;
     let appendixCount = 0;
+    
+    // Words to skip (Front Matter and common non-content sections)
+    const skipWords = ['cover', 'title page', 'copyright', 'contents', 'contributors', 'preface', 'abbreviations', 'index', 'indices', 'table of contents'];
 
     rootBookmarks.forEach((bm) => {
-        const bmTitle = bm.getAttribute('title') || 'Untitled';
+        const bmTitle = (bm.getAttribute('title') || 'Untitled').trim();
         const bmPage = bm.getAttribute('page') || '0';
         
+        // Skip if title matches any skipWords
+        if (skipWords.some(word => bmTitle.toLowerCase().includes(word))) {
+            return;
+        }
+
+        // Find next bookmark to estimate page range if available
         let nextBm = bm.nextElementSibling;
         let pageRange = bmPage;
         if (nextBm) {
@@ -434,7 +443,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (nextPage) pageRange = `${bmPage}-${parseInt(nextPage)-1}`;
         }
 
-        if (bmTitle.toLowerCase().includes('appendix') || bmTitle.toLowerCase().includes('index')) {
+        if (bmTitle.toLowerCase().includes('appendix')) {
             appendixCount++;
             output += `Appendix ${appendixCount}|${bmTitle}|${pageRange}\n`;
         } else {
@@ -444,7 +453,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const subBookmarks = bm.querySelectorAll(':scope > bookmark');
         subBookmarks.forEach((sub, idx) => {
-            const subTitle = sub.getAttribute('title') || 'Untitled';
+            const subTitle = (sub.getAttribute('title') || 'Untitled').trim();
             const subPage = sub.getAttribute('page') || '0';
             output += `  ${chapterCount}.${idx+1}|${subTitle}|${subPage}\n`;
         });
