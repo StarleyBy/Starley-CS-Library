@@ -10,6 +10,69 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+    <!-- Combiner styles -->
+    <style>
+    /* ── Индикатор статуса ───────────────────────────────── */
+    .combiner-indicator {
+        width: 10px; height: 10px;
+        border-radius: 50%;
+        flex-shrink: 0;
+        transition: background .3s;
+    }
+    .combiner-indicator--off     { background: #555; }
+    .combiner-indicator--ready   { background: #27ae60; }
+    .combiner-indicator--running { background: #f39c12;
+        animation: combiner-pulse 1s ease-in-out infinite; }
+    .combiner-indicator--done    { background: #2ecc71; }
+    .combiner-indicator--error   { background: #e74c3c; }
+
+    @keyframes combiner-pulse {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: .35; }
+    }
+
+    /* ── Кнопки ─────────────────────────────────────────── */
+    .btn-combiner-run {
+        width: 100%; padding: 8px;
+        background: #27ae60; color: white;
+        border: none; border-radius: 4px;
+        font-weight: 700; font-size: .85rem;
+        cursor: pointer; margin-bottom: 5px;
+        transition: background .2s, opacity .2s;
+    }
+    .btn-combiner-run:disabled {
+        background: #3a3a3a; color: #666; cursor: not-allowed;
+    }
+    .btn-combiner-run:not(:disabled):hover { background: #2ecc71; }
+
+    .btn-combiner-check {
+        width: 100%; padding: 6px;
+        background: #2c3e50; color: #aaa;
+        border: 1px solid #555; border-radius: 4px;
+        font-size: .8rem; cursor: pointer;
+        transition: background .2s;
+    }
+    .btn-combiner-check:hover { background: #34495e; color: white; }
+    .btn-combiner-check:disabled { opacity: .5; cursor: not-allowed; }
+
+    /* ── Лог ─────────────────────────────────────────────── */
+    .combiner-log {
+        background: #1a1a1a;
+        border: 1px solid #333;
+        border-radius: 4px;
+        font-family: monospace;
+        font-size: .68rem;
+        line-height: 1.5;
+        padding: 6px 8px;
+        max-height: 180px;
+        overflow-y: auto;
+        color: #ccc;
+    }
+    .combiner-log-line { white-space: pre-wrap; word-break: break-all; }
+    .combiner-log-ok   { color: #2ecc71; }
+    .combiner-log-err  { color: #e74c3c; }
+    .combiner-log-head { color: #3498db; font-weight: 700; }
+    </style>
     <!-- CodeMirror CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
@@ -240,6 +303,29 @@
                 </div>
                 <div id="github-status" style="font-size:0.78rem; margin-top:5px; color:#aaa;"></div>
             </div></div>
+            </div>
+
+            <!-- Комбайн Скорины -->
+            <div class="tool-group combiner-group">
+                <h4>⚙️ Combiner <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <div id="combiner-status-row" style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+                        <span id="combiner-indicator" class="combiner-indicator combiner-indicator--off" title="Launcher status"></span>
+                        <span id="combiner-status-text" style="font-size:0.75rem; color:#888;">Launcher not connected</span>
+                    </div>
+                    <button id="btn-combiner-run" class="btn-combiner-run" disabled title="Start Skoryna Combiner">▶ Run Combiner</button>
+                    <button id="btn-combiner-check" class="btn-combiner-check" title="Check launcher connection">🔌 Connect</button>
+                    <div id="combiner-log-wrap" style="display:none; margin-top:8px;">
+                        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:4px;">
+                            <span style="font-size:0.7rem; color:#888; text-transform:uppercase; letter-spacing:.05em;">Log</span>
+                            <button id="btn-combiner-log-clear" style="background:none; border:none; color:#666; font-size:0.7rem; cursor:pointer; padding:0;">clear</button>
+                        </div>
+                        <div id="combiner-log" class="combiner-log"></div>
+                    </div>
+                    <p style="font-size:0.68rem; color:#666; margin-top:8px; line-height:1.4;">
+                        Requires <code style="background:#333; padding:1px 4px; border-radius:3px;">flask_launcher.py</code> running on localhost:5000
+                    </p>
+                </div></div>
             </div>
 
             <!-- Синтез конфигурации -->
@@ -548,5 +634,6 @@
 
     <script src="assets/js/config.js?v=2.2"></script>
     <script src="assets/js/editor.js?v=2.2"></script>
+    <script src="combain/combiner-launcher.js?v=1.0"></script>
 </body>
 </html>
