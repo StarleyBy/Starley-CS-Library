@@ -232,3 +232,14 @@ pip install PyPDF2 pdf2image schedule
 | `remove_citations` | `True` | Удалять числовые ссылки из MD |
 | `base_dir` | `C:/MD` | Корневая рабочая папка |
 | Путь Poppler | `C:\poppler\Library\bin` | Метод `create_cover()` |
+
+
+
+Рабочий процесс:
+
+Один раз в начале сессии: python C:/MD/flask_launcher.py (висит в трее/терминале)
+В редакторе нажать 🔌 Connect — индикатор станет зелёным
+Книга и конфиг уже в C:/MD/new/ — нажать ▶ Run Combiner
+Лог появляется в реальном времени (поллинг каждые 2 сек), по завершении индикатор меняется на «Completed» или «Finished with errors»
+
+Повторное нажение Connect работает всегда — если лаунчер недоступен, индикатор честно покажет ошибку.
