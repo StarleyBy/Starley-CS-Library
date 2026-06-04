@@ -474,7 +474,18 @@ document.addEventListener('DOMContentLoaded', () => {
             if (isMerged && idx === 0) return; // Skip first child as it's now the parent title
             const subTitle = (sub.getAttribute('title') || 'Untitled').trim();
             const subPage = sub.getAttribute('page') || '0';
-            output += `  ${chapterCount}.${idx + (isMerged ? 0 : 1)}|${subTitle}|${subPage}\n`;
+            
+            let subPageRange = subPage;
+            let nextSub = subBookmarks[idx + 1];
+            if (nextSub) {
+                let nextSubPage = nextSub.getAttribute('page');
+                if (nextSubPage) subPageRange = `${subPage}-${parseInt(nextSubPage)-1}`;
+            } else if (nextBm) {
+                let nextParentPage = nextBm.getAttribute('page');
+                if (nextParentPage) subPageRange = `${subPage}-${parseInt(nextParentPage)-1}`;
+            }
+
+            output += `  ${chapterCount}.${idx + (isMerged ? 0 : 1)}|${subTitle}|${subPageRange}\n`;
         });
     });
 
@@ -488,14 +499,46 @@ document.addEventListener('DOMContentLoaded', () => {
         output += `categories: ${categories.join(', ')}\n`;
         output += `chapters:\n`;
         
-        if (txt.includes('|')) {
-            output += txt.trim();
-        } else {
-            const lines = txt.split('\n').filter(l => l.trim());
+        const lines = txt.split('\n').filter(l => l.trim());
+        
+        if (!txt.includes('|')) {
             lines.forEach((l, i) => {
                 output += `${i+1}|${l.trim()}|0\n`;
             });
+            return output;
         }
+
+        const parsed = lines.map(line => {
+            const parts = line.split('|').map(s => s.trim());
+            if (parts.length < 3) return { raw: line };
+            return {
+                indent: line.match(/^\s*/)[0],
+                num: parts[0],
+                title: parts[1],
+                page: parts[2],
+                hasRange: parts[2].includes('-')
+            };
+        });
+
+        parsed.forEach((item, i) => {
+            if (!item.num) {
+                output += (item.raw || '') + '\n';
+                return;
+            }
+
+            let pageRange = item.page;
+            if (!item.hasRange) {
+                let next = parsed.slice(i + 1).find(it => it.num && it.page);
+                if (next) {
+                    let nextPage = next.page.split('-')[0];
+                    if (nextPage && !isNaN(parseInt(nextPage))) {
+                        pageRange = `${item.page}-${parseInt(nextPage)-1}`;
+                    }
+                }
+            }
+            output += `${item.indent}${item.num}|${item.title}|${pageRange}\n`;
+        });
+        
         return output;
     }
 
