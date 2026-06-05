@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', async () => {
     const params = new URLSearchParams(window.location.search);
     const bookPath = params.get('book');
-    const startCardId = params.get('card');
 
     if (!bookPath) {
         alert('No book specified');
@@ -19,8 +18,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     let magazineData = null;
     let swiper = null;
 
+    // Use BASE_URL from config.js if available
+    const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    const fullBookPath = `${rootPath}${bookPath}`;
+
     try {
-        const fullDataUrl = `${bookPath}/magazine.json`;
+        const fullDataUrl = `${fullBookPath}/magazine.json`;
         console.log('[Magazine] Fetching data from:', fullDataUrl);
         
         const response = await fetch(fullDataUrl);
@@ -39,7 +42,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Render slides
         magazineData.cards.forEach((card, index) => {
-            const imgSrc = `${bookPath}/${card.src}`;
+            const imgSrc = `${fullBookPath}/${card.src}`;
             console.log(`[Magazine] Card ${index} image src:`, imgSrc);
             
             const slide = document.createElement('div');
@@ -54,9 +57,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         console.log('[Magazine] Initializing Swiper...');
         swiper = new Swiper('.swiper', {
             loop: false,
+            preloadImages: false,
             lazy: {
                 loadPrevNext: true,
-                loadPrevNextAmount: 2
+                loadPrevNextAmount: 1
             },
             keyboard: {
                 enabled: true,
@@ -93,10 +97,11 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
 
     } catch (error) {
-        console.error(error);
-        loader.innerHTML = `<div style="color:white; text-align:center;">
-            <h2>Oops!</h2>
+        console.error('[Magazine] Error:', error);
+        loader.innerHTML = `<div style="color:white; text-align:center; padding: 20px;">
+            <h2 style="color: #e74c3c">Oops!</h2>
             <p>${error.message}</p>
+            <p style="font-size: 0.8rem; color: #888">${bookPath}/magazine.json</p>
             <button class="mag-btn" onclick="window.history.back()">Go Back</button>
         </div>`;
     }
