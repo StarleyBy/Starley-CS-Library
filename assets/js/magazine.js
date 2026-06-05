@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', async () => {
+    console.log('[Magazine] Script version 1.3 active');
+    
     const params = new URLSearchParams(window.location.search);
     const bookPath = params.get('book');
 
@@ -18,12 +20,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     let magazineData = null;
     let swiper = null;
 
-    // Use BASE_URL from config.js if available
     const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
     const fullBookPath = `${rootPath}${bookPath}`;
 
     try {
-        const fullDataUrl = `${fullBookPath}/magazine.json`;
+        const fullDataUrl = `${fullBookPath}/magazine.json?nocache=${Date.now()}`;
         console.log('[Magazine] Fetching data from:', fullDataUrl);
         
         const response = await fetch(fullDataUrl);
@@ -41,44 +42,50 @@ document.addEventListener('DOMContentLoaded', async () => {
         bookSubtitleEl.textContent = magazineData.subtitle || '';
 
         // Render slides
+        container.innerHTML = '';
         magazineData.cards.forEach((card, index) => {
             const imgSrc = `${fullBookPath}/${card.src}`;
-            console.log(`[Magazine] Card ${index} image src:`, imgSrc);
+            console.log(`[Magazine] Rendering card ${index}:`, imgSrc);
             
             const slide = document.createElement('div');
             slide.className = 'swiper-slide';
+            // Use normal loading for first slide to ensure immediate feedback
+            const loadingAttr = index === 0 ? 'eager' : 'lazy';
             slide.innerHTML = `
-                <img data-src="${imgSrc}" class="swiper-lazy mag-card-image" alt="${card.caption || ''}">
-                <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                <img src="${imgSrc}" loading="${loadingAttr}" class="mag-card-image" alt="${card.caption || ''}" 
+                     onerror="this.src='assets/img/book-placeholder.png'; console.error('Image load failed:', '${imgSrc}')">
             `;
             container.appendChild(slide);
         });
 
-        console.log('[Magazine] Initializing Swiper...');
-        swiper = new Swiper('.swiper', {
-            loop: false,
-            preloadImages: false,
-            lazy: {
-                loadPrevNext: true,
-                loadPrevNextAmount: 1
-            },
-            keyboard: {
-                enabled: true,
-            },
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
-            on: {
-                init: function() {
-                    updateUI(this);
-                    loader.style.display = 'none';
-                },
-                slideChange: function() {
-                    updateUI(this);
-                }
+        console.log('[Magazine] Initializing Swiper v11...');
+        
+        // Wait a bit for DOM injection
+        setTimeout(() => {
+            try {
+                swiper = new Swiper('.swiper', {
+                    loop: false,
+                    keyboard: true,
+                    navigation: {
+                        nextEl: '.swiper-button-next',
+                        prevEl: '.swiper-button-prev',
+                    },
+                    on: {
+                        init: function() {
+                            console.log('[Magazine] Swiper initialized successfully');
+                            updateUI(this);
+                            loader.style.display = 'none';
+                        },
+                        slideChange: function() {
+                            updateUI(this);
+                        }
+                    }
+                });
+            } catch (swiperErr) {
+                console.error('[Magazine] Swiper initialization failed:', swiperErr);
+                loader.innerHTML = `<div style="color:white; text-align:center;"><h2>Swiper Error</h2><p>${swiperErr.message}</p></div>`;
             }
-        });
+        }, 100);
 
         // Handle Back Button
         document.getElementById('btn-back-to-reader').addEventListener('click', () => {
@@ -97,21 +104,24 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
 
     } catch (error) {
-        console.error('[Magazine] Error:', error);
+        console.error('[Magazine] Critical Error:', error);
         loader.innerHTML = `<div style="color:white; text-align:center; padding: 20px;">
-            <h2 style="color: #e74c3c">Oops!</h2>
+            <h2 style="color: #e74c3c">Loading Failed</h2>
             <p>${error.message}</p>
-            <p style="font-size: 0.8rem; color: #888">${bookPath}/magazine.json</p>
-            <button class="mag-btn" onclick="window.history.back()">Go Back</button>
+            <button class="mag-btn" style="margin-top:20px" onclick="window.location.reload()">Retry</button>
+            <button class="mag-btn" style="margin-top:10px" onclick="window.history.back()">Go Back</button>
         </div>`;
     }
 
     function updateUI(s) {
+        if (!magazineData || !magazineData.cards) return;
         const index = s.activeIndex;
         const total = magazineData.cards.length;
         progressEl.textContent = `${index + 1} / ${total}`;
 
         const card = magazineData.cards[index];
+        if (!card) return;
+        
         document.getElementById('mag-card-title').textContent = card.caption || '';
         
         const chapterEl = document.getElementById('mag-card-chapter');
