@@ -9,6 +9,7 @@
   "authors": [
     "Robert M. Bojar, MD"
   ],
+  "magazine": true,
   "versions": {
       "original": true,
       "russian": true,
