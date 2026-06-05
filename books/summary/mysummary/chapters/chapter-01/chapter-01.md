@@ -647,7 +647,7 @@
 
 ### Evolution of Cardiovascular Care Organization
 
-*   **Cardiovascular disease burden:** Leading cause of death in the US, with 235.5 deaths per 100,000 (2010). Despite 31% mortality reduction from 2000–2010, costs reached $315.4 billion annually.
+*   **Cardiovascular disease burden:** Leading cause of death in the US, with 235.5 deaths per 100,000 (2010). Despite 31% mortality reduction from 2000–2010, costs reached USD315.4 billion annually.
 *   **Historical roots of subspecialties:** Cardiac surgery emerged from general surgery (Dwight Harken, WWII); interventional cardiology emerged from radiology (Charles Dotter, first angioplasty; Andreas Gruentzig, first coronary balloon angioplasty). These distinct origins led to siloed departmental structures.
 *   **Convergence:** Increasing specialization created overlapping clinical interests across departments, fostering symbiotic relationships between cardiac surgeons, cardiologists, cardiovascular radiologists, and anesthesiologists, ultimately forming dedicated cardiovascular centers.
 
