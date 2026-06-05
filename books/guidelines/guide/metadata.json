@@ -9,6 +9,14 @@
       "AHA and ESC"
     ],
     "magazine": true,
+     "quiz": true,
+    "quiz_sets": [
+      {
+        "id": "valvular heart disease",
+        "label": "EU Valvular heart disease",
+        "file": "quiz/quiz-eu-valve.json"
+      }
+    ],
     "versions": {
       "original": false,
       "russian": false,
