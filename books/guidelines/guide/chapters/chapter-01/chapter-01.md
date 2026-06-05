@@ -1101,6 +1101,8 @@ Cardiac rehabilitation is frequently performed after AV intervention, especially
 </div></details>
 
 </div></details>
+  
+</div></details>
 
 <details class="med-details"><summary>
 
@@ -2244,6 +2246,8 @@ Anticoagulation using a VKA is the first-line treatment for clinically relevant 
 
 </div></details>
 
+</div></details>
+  
 </div></details>
 
 <details class="med-details"><summary>
