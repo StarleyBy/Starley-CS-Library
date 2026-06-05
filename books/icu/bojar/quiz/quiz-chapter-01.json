@@ -1,4 +1,11 @@
-[
+{
+  "meta": {
+    "title": "Management of Adult Cardiac Surgical Disease",
+    "book": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
+    "chapter": ["chapter-01"],
+    "totalQuestions": 100
+  },
+  "questions":[
   {
     "id": 1,
     "questionEn": "A 65-year-old diabetic patient presents with triple-vessel disease and a SYNTAX score of 28. According to the FREEDOM trial and SYNTAX 5-year data, what is the most appropriate management?",
