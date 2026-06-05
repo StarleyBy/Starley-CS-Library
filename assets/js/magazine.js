@@ -52,13 +52,15 @@ document.addEventListener('DOMContentLoaded', async () => {
             // Use normal loading for first slide to ensure immediate feedback
             const loadingAttr = index === 0 ? 'eager' : 'lazy';
             slide.innerHTML = `
-                <img src="${imgSrc}" loading="${loadingAttr}" class="mag-card-image" alt="${card.caption || ''}" 
-                     onerror="this.src='assets/img/book-placeholder.png'; console.error('Image load failed:', '${imgSrc}')">
+                <div class="swiper-zoom-container">
+                    <img src="${imgSrc}" loading="${loadingAttr}" class="mag-card-image" alt="${card.caption || ''}" 
+                         onerror="this.src='assets/img/book-placeholder.png'; console.error('Image load failed:', '${imgSrc}')">
+                </div>
             `;
             container.appendChild(slide);
         });
 
-        console.log('[Magazine] Initializing Swiper v11...');
+        console.log('[Magazine] Initializing Swiper with Zoom...');
         
         // Wait a bit for DOM injection
         setTimeout(() => {
@@ -66,18 +68,32 @@ document.addEventListener('DOMContentLoaded', async () => {
                 swiper = new Swiper('.swiper', {
                     loop: false,
                     keyboard: true,
+                    zoom: {
+                        maxRatio: 5,
+                        minRatio: 1,
+                        toggle: true, // double tap to toggle
+                    },
+                    mousewheel: {
+                        forceToAxis: true,
+                    },
                     navigation: {
                         nextEl: '.swiper-button-next',
                         prevEl: '.swiper-button-prev',
                     },
                     on: {
                         init: function() {
-                            console.log('[Magazine] Swiper initialized successfully');
+                            console.log('[Magazine] Swiper initialized with Zoom');
                             updateUI(this);
                             loader.style.display = 'none';
                         },
                         slideChange: function() {
                             updateUI(this);
+                        },
+                        zoomChange: function(s, scale, imageEl, slideEl) {
+                            // Hide caption overlay when zoomed in to see more image
+                            if (scale > 1.1) {
+                                overlay.classList.remove('visible');
+                            }
                         }
                     }
                 });
