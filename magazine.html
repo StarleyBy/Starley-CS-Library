@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Visual Magazine - Starley CS Library</title>
+    <!-- Swiper CSS from CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/magazine.css?v=1.0">
+</head>
+<body class="magazine-mode">
+    <div id="magazine-app">
+        <!-- Header -->
+        <header class="magazine-header">
+            <button id="btn-back-to-reader" class="mag-btn" title="Back to Reader">← Back</button>
+            <div class="mag-title-group">
+                <h1 id="mag-book-title">Loading Magazine...</h1>
+                <p id="mag-book-subtitle"></p>
+            </div>
+            <div class="mag-controls">
+                <span id="mag-progress">0 / 0</span>
+            </div>
+        </header>
+
+        <!-- Main Slider -->
+        <div class="swiper">
+            <div class="swiper-wrapper" id="mag-slides-container">
+                <!-- Slides will be injected here -->
+            </div>
+            
+            <!-- Navigation -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+
+        <!-- Caption Overlay -->
+        <div id="mag-caption-overlay" class="mag-caption-overlay">
+            <div class="mag-caption-content">
+                <h3 id="mag-card-title"></h3>
+                <p id="mag-card-chapter"></p>
+                <div id="mag-card-tags" class="mag-tags"></div>
+            </div>
+        </div>
+        
+        <!-- Error / Loader Overlay -->
+        <div id="mag-loader" class="mag-overlay">
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script>
+    <script src="assets/js/config.js"></script>
+    <script src="assets/js/magazine.js?v=1.0"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "title": "Cardiac Surgery in the Adult, Fifth Edition",
+  "subtitle": "Visual Magazine",
+  "cover": "magazine/card-001.jpg",
+  "cards": [
+    {
+      "id": "card-001",
+      "src": "magazine/card-001.jpg",
+      "caption": "Anatomy of the Aortic Valve",
+      "chapter": "Chapter 26",
+      "tags": ["anatomy", "valve"]
+    },
+    {
+      "id": "card-002",
+      "src": "magazine/card-002.jpg",
+      "caption": "Cardiopulmonary Bypass Setup",
+      "chapter": "Chapter 13",
+      "tags": ["cpb", "perfusion"]
+    }
+  ]
+}

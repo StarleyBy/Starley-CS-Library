@@ -518,14 +518,36 @@ function _initRadialMenu() {
                 const edition = btn.dataset.edition;
                 editionPicker.classList.remove('visible');
                 _closeMenu();
+
+                const params = new URLSearchParams(window.location.search);
+                const bookPath = params.get('book');
+
+                if (edition === 'magazine') {
+                    if (bookPath) {
+                        window.location.href = `magazine.html?book=${bookPath}`;
+                    }
+                    return;
+                }
+
                 if (typeof updateUrl === 'function' && _currentChapterId) {
-                    const params = new URLSearchParams(window.location.search);
-                    updateUrl(params.get('book'), _currentChapterId, edition);
+                    updateUrl(bookPath, _currentChapterId, edition);
                 }
             });
         });
-    }
 
+        // Check if book has magazine and show button
+        const params = new URLSearchParams(window.location.search);
+        const bookPath = params.get('book');
+        if (bookPath) {
+            const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json`;
+            fetch(metadataUrl).then(r => r.json()).then(data => {
+                if (data[0] && data[0].magazine) {
+                    const magBtn = editionPicker.querySelector('.edition-magazine');
+                    if (magBtn) magBtn.style.display = 'block';
+                }
+            }).catch(err => console.error('Failed to load metadata for magazine check:', err));
+        }
+    }
     if (fontPicker) {
         fontPicker.querySelectorAll('.font-option').forEach(btn => {
             btn.addEventListener('click', (e) => {
