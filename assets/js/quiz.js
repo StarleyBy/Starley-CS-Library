@@ -9,7 +9,7 @@ const state = {
     startTime: 0,
     questionStartTime: 0,
     settings: {
-        count: 50,
+        count: 100, // Default to a higher number
         shuffle: true,
         setId: 'full',
         lang: 'En' // 'En' or 'Ru'
@@ -47,6 +47,7 @@ async function initQuizApp() {
         setupLobbyListeners();
         setupQuestionListeners();
         setupResultsListeners();
+        setupPreviewModal();
 
     } catch (err) {
         console.error('[Quiz] Init error:', err);
@@ -64,13 +65,43 @@ function renderQuizSets() {
         div.className = `set-option ${state.settings.setId === set.id ? 'active' : ''}`;
         div.textContent = set.label;
         div.dataset.id = set.id;
-        div.onclick = () => {
+        div.onclick = async () => {
             document.querySelectorAll('.set-option').forEach(el => el.classList.remove('active'));
             div.classList.add('active');
             state.settings.setId = set.id;
+            await updateSliderForActiveSet();
         };
         container.appendChild(div);
     });
+
+    // Initial slider update
+    if (sets.length > 0) {
+        updateSliderForActiveSet();
+    }
+}
+
+async function updateSliderForActiveSet() {
+    const activeSet = state.bookMeta.quiz_sets.find(s => s.id === state.settings.setId);
+    if (!activeSet) return;
+
+    try {
+        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+        const quizUrl = `${rootPath}${state.bookPath}/${activeSet.file}?v=${Date.now()}`;
+        const res = await fetch(quizUrl);
+        const data = await res.json();
+        
+        const totalQs = data.questions.length;
+        const slider = document.getElementById('setting-count');
+        const valCount = document.getElementById('val-count');
+        
+        slider.max = totalQs;
+        slider.value = totalQs;
+        state.settings.count = totalQs;
+        valCount.textContent = state.settings.lang === 'Ru' ? 'Все' : 'All';
+        
+    } catch (err) {
+        console.error('[Quiz] Failed to pre-load set for slider:', err);
+    }
 }
 
 function setupLobbyListeners() {
@@ -84,9 +115,14 @@ function setupLobbyListeners() {
     // Slider
     const slider = document.getElementById('setting-count');
     const valCount = document.getElementById('val-count');
+    
+    // Set slider max to 100 or actual question count if we had it here, 
+    // but we load questions later. Let's keep it 100 as per HTML or update on load.
+    
     slider.oninput = () => {
-        state.settings.count = parseInt(slider.value);
-        valCount.textContent = state.settings.count === 50 ? 'All' : state.settings.count;
+        const val = parseInt(slider.value);
+        state.settings.count = val;
+        valCount.textContent = (val === 100 || val === parseInt(slider.max)) ? (state.settings.lang === 'Ru' ? 'Все' : 'All') : val;
     };
 
     document.getElementById('btn-start-quiz').onclick = startQuiz;
@@ -103,6 +139,18 @@ async function startQuiz() {
         state.quizData = await res.json();
 
         let qs = [...state.quizData.questions];
+        
+        // Update slider max based on real count
+        const slider = document.getElementById('setting-count');
+        const valCount = document.getElementById('val-count');
+        const totalQs = qs.length;
+        slider.max = totalQs;
+        if (state.settings.count > totalQs) state.settings.count = totalQs;
+        
+        // If we just entered from lobby, we might want to re-check the "All" label
+        if (slider.value > totalQs) slider.value = totalQs;
+        valCount.textContent = (parseInt(slider.value) >= totalQs) ? (state.settings.lang === 'Ru' ? 'Все' : 'All') : slider.value;
+
         if (document.getElementById('setting-shuffle').checked) {
             qs = shuffleArray(qs);
         }
@@ -186,6 +234,13 @@ function selectAnswer(letter, btn) {
     showExplanation();
 }
 
+function getChapterTitle(chapterId) {
+    if (!state.bookMeta || !state.bookMeta.chapters) return chapterId.replace('chapter-', 'Chapter ');
+    const cleanId = chapterId.replace('.md', '');
+    const chapter = state.bookMeta.chapters.find(ch => ch.file.replace('.md', '') === cleanId);
+    return chapter ? chapter.title : chapterId.replace('chapter-', 'Chapter ');
+}
+
 function showExplanation() {
     const q = state.questions[state.currentIndex];
     const lang = state.settings.lang;
@@ -208,14 +263,14 @@ function showExplanation() {
         chapterList.forEach(ch => {
             const btn = document.createElement('button');
             btn.className = 'chapter-link-btn';
-            btn.textContent = ch.replace('chapter-', 'Chapter ');
-            btn.onclick = () => openReader(ch);
+            btn.textContent = getChapterTitle(ch);
+            btn.onclick = () => showChapterPreview(ch);
             pickerGrid.appendChild(btn);
         });
     } else if (chapterList.length === 1) {
         mainReaderBtn.style.display = 'inline-flex';
         picker.style.display = 'none';
-        mainReaderBtn.onclick = () => openReader(chapterList[0]);
+        mainReaderBtn.onclick = () => showChapterPreview(chapterList[0]);
     } else {
         mainReaderBtn.style.display = 'none';
         picker.style.display = 'none';
@@ -230,6 +285,58 @@ function showExplanation() {
     } else {
         nextBtn.innerHTML = (isRu ? 'Далее ' : 'Next Question ') + '<i class="fas fa-chevron-right"></i>';
     }
+}
+
+function setupPreviewModal() {
+    const modal = document.createElement('div');
+    modal.id = 'chapter-preview-modal';
+    modal.className = 'modal-overlay';
+    modal.innerHTML = `
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="preview-chapter-title">Chapter Title</h2>
+                <button class="modal-close" id="btn-close-preview"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="modal-body">
+                <p id="preview-chapter-info">Ready to read this chapter in the full reader?</p>
+            </div>
+            <div class="modal-footer">
+                <button id="btn-confirm-read" class="btn-primary">Go to Reader</button>
+                <button id="btn-cancel-read" class="btn-outline">Cancel</button>
+            </div>
+        </div>
+    `;
+    document.body.appendChild(modal);
+
+    document.getElementById('btn-close-preview').onclick = hideChapterPreview;
+    document.getElementById('btn-cancel-read').onclick = hideChapterPreview;
+    modal.onclick = (e) => { if (e.target === modal) hideChapterPreview(); };
+}
+
+function showChapterPreview(chapterId) {
+    const title = getChapterTitle(chapterId);
+    const isRu = state.settings.lang === 'Ru';
+    
+    document.getElementById('preview-chapter-title').textContent = title;
+    document.getElementById('preview-chapter-info').textContent = isRu 
+        ? 'Открыть эту главу в полноэкранном режиме чтения?' 
+        : 'Open this chapter in full reading mode?';
+    
+    const confirmBtn = document.getElementById('btn-confirm-read');
+    confirmBtn.textContent = isRu ? 'Перейти к чтению' : 'Go to Reader';
+    confirmBtn.onclick = () => {
+        hideChapterPreview();
+        openReader(chapterId);
+    };
+
+    const cancelBtn = document.getElementById('btn-cancel-read');
+    cancelBtn.textContent = isRu ? 'Отмена' : 'Cancel';
+
+    document.getElementById('chapter-preview-modal').classList.add('active');
+}
+
+function hideChapterPreview() {
+    document.getElementById('chapter-preview-modal').classList.remove('active');
 }
 
 function openReader(chapterId) {
