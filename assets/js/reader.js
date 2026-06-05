@@ -483,8 +483,17 @@ function _initRadialMenu() {
         btn.addEventListener('click', (e) => {
             e.stopPropagation();
             const action = btn.dataset.action;
+            const params = new URLSearchParams(window.location.search);
+            const bookPath = params.get('book');
+
             if (action === 'go-library') {
                 window.location.href = 'index.html';
+            } else if (action === 'go-magazine') {
+                if (bookPath) window.location.href = `magazine.html?book=${bookPath}`;
+                _closeMenu();
+            } else if (action === 'go-quiz') {
+                if (bookPath) window.location.href = `quiz.html?book=${bookPath}`;
+                _closeMenu();
             } else if (action === 'edition-pick') {
                 if (editionPicker) {
                     editionPicker.classList.toggle('visible');
@@ -563,6 +572,8 @@ function _initRadialMenu() {
                         headBtn.style.display = 'inline-flex';
                         headBtn.onclick = () => window.location.href = `magazine.html?book=${bookPath}`;
                     }
+                    const radialMagBtn = document.getElementById('radial-mag-btn');
+                    if (radialMagBtn) radialMagBtn.style.display = 'flex';
                 }
 
                 // Quiz visibility
@@ -575,6 +586,8 @@ function _initRadialMenu() {
                         headQuizBtn.style.display = 'inline-flex';
                         headQuizBtn.onclick = () => window.location.href = `quiz.html?book=${bookPath}`;
                     }
+                    const radialQuizBtn = document.getElementById('radial-quiz-btn');
+                    if (radialQuizBtn) radialQuizBtn.style.display = 'flex';
                 }
             }).catch(err => console.error('Failed to load metadata for feature check:', err));
         }
@@ -714,7 +727,7 @@ function _positionItems(container) {
     else                                 startAngleDeg = 270;
 
     const startRad = startAngleDeg * Math.PI / 180;
-    const outerItems = Array.from(container.querySelectorAll('.radial-item'));
+    const outerItems = Array.from(container.querySelectorAll('.radial-item')).filter(el => getComputedStyle(el).display !== 'none');
     const stepOuter  = (2 * Math.PI) / outerItems.length;
 
     outerItems.forEach((item, i) => {
@@ -727,7 +740,7 @@ function _positionItems(container) {
         item.style.transitionDelay = (i * 0.03) + 's';
     });
 
-    const innerItems = Array.from(container.querySelectorAll('.radial-item-inner'));
+    const innerItems = Array.from(container.querySelectorAll('.radial-item-inner')).filter(el => getComputedStyle(el).display !== 'none');
     const stepInner  = (2 * Math.PI) / innerItems.length;
     const startInner = startRad + stepInner / 2;
 
@@ -1036,7 +1049,7 @@ function _renderBookmarkAnchors() {
     const a = document.getElementById('content-area'); if (!a) return; a.querySelectorAll('.bm-anchor').forEach(x => x.remove());
     const b = _getBookmarks().filter(x => x.chapterId === _currentChapterId); if (!b.length) return;
     a.querySelectorAll('p, h1, h2, h3, h4, h5, li, td, blockquote').forEach(el => {
-        const t = el.textContent.trim().slice(0, 80), id = (_currentChapterId||'unknown') + '::' + btoa(encodeURIComponent(text)).slice(0, 24);
+        const text = el.textContent.trim().slice(0, 80), id = (_currentChapterId||'unknown') + '::' + btoa(encodeURIComponent(text)).slice(0, 24);
         if (b.find(x => x.id === id) && !el.querySelector('.bm-anchor')) { const an = document.createElement('span'); an.className = 'bm-anchor'; an.dataset.bmId = id; el.prepend(an); }
     });
 }
