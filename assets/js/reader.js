@@ -542,8 +542,17 @@ function _initRadialMenu() {
             const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json`;
             fetch(metadataUrl).then(r => r.json()).then(data => {
                 if (data[0] && data[0].magazine) {
+                    // Show in picker
                     const magBtn = editionPicker.querySelector('.edition-magazine');
                     if (magBtn) magBtn.style.display = 'block';
+                    // Show in header
+                    const headBtn = document.getElementById('mag-header-btn');
+                    if (headBtn) {
+                        headBtn.style.display = 'inline-flex';
+                        headBtn.addEventListener('click', () => {
+                            window.location.href = `magazine.html?book=${bookPath}`;
+                        });
+                    }
                 }
             }).catch(err => console.error('Failed to load metadata for magazine check:', err));
         }
