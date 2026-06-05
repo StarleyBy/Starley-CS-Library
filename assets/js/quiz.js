@@ -11,7 +11,8 @@ const state = {
     settings: {
         count: 50,
         shuffle: true,
-        setId: 'full'
+        setId: 'full',
+        lang: 'En' // 'En' or 'Ru'
     }
 };
 
@@ -31,7 +32,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 async function initQuizApp() {
     try {
         const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        const metadataUrl = `${rootPath}${state.bookPath}/metadata.json`;
+        const metadataUrl = `${rootPath}${state.bookPath}/metadata.json?v=${Date.now()}`;
         const res = await fetch(metadataUrl);
         const data = await res.json();
         state.bookMeta = data[0];
@@ -63,7 +64,6 @@ function renderQuizSets() {
         div.className = `set-option ${state.settings.setId === set.id ? 'active' : ''}`;
         div.textContent = set.label;
         div.dataset.id = set.id;
-        div.dataset.file = set.file;
         div.onclick = () => {
             document.querySelectorAll('.set-option').forEach(el => el.classList.remove('active'));
             div.classList.add('active');
@@ -74,6 +74,14 @@ function renderQuizSets() {
 }
 
 function setupLobbyListeners() {
+    // Language buttons
+    const btnEn = document.getElementById('btn-lang-en');
+    const btnRu = document.getElementById('btn-lang-ru');
+    
+    btnEn.onclick = () => { btnEn.classList.add('active'); btnRu.classList.remove('active'); state.settings.lang = 'En'; };
+    btnRu.onclick = () => { btnRu.classList.add('active'); btnEn.classList.remove('active'); state.settings.lang = 'Ru'; };
+
+    // Slider
     const slider = document.getElementById('setting-count');
     const valCount = document.getElementById('val-count');
     slider.oninput = () => {
@@ -90,7 +98,7 @@ async function startQuiz() {
 
     try {
         const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        const quizUrl = `${rootPath}${state.bookPath}/${activeSet.file}`;
+        const quizUrl = `${rootPath}${state.bookPath}/${activeSet.file}?v=${Date.now()}`;
         const res = await fetch(quizUrl);
         state.quizData = await res.json();
 
@@ -106,6 +114,12 @@ async function startQuiz() {
         state.answers = [];
         state.startTime = Date.now();
 
+        // Update UI labels based on language
+        const isRu = state.settings.lang === 'Ru';
+        document.getElementById('exp-title-text').textContent = isRu ? 'Клиническое объяснение' : 'Clinical Explanation';
+        document.getElementById('exp-picker-label').textContent = isRu ? 'Выберите главу для открытия:' : 'Select chapter to open:';
+        document.getElementById('btn-open-reader-main').innerHTML = `<i class="fas fa-book-open"></i> ${isRu ? 'В читалку' : 'Open in Reader'}`;
+
         switchScreen('screen-question');
         renderQuestion();
 
@@ -117,31 +131,22 @@ async function startQuiz() {
 function renderQuestion() {
     const q = state.questions[state.currentIndex];
     state.questionStartTime = Date.now();
+    const lang = state.settings.lang;
 
     // UI Updates
     document.getElementById('q-current').textContent = state.currentIndex + 1;
     document.getElementById('q-total').textContent = state.questions.length;
     document.getElementById('q-progress-fill').style.width = `${((state.currentIndex) / state.questions.length) * 100}%`;
-    document.getElementById('q-score-live').textContent = `Correct: ${state.score}`;
+    document.getElementById('q-score-live').textContent = (lang === 'Ru' ? 'Верно: ' : 'Correct: ') + state.score;
 
-    document.getElementById('q-chapter').textContent = q.chapter || '';
-    document.getElementById('q-difficulty').textContent = q.difficulty || '';
-    
-    const tagsCont = document.getElementById('q-tags');
-    tagsCont.innerHTML = '';
-    (q.tags || []).forEach(t => {
-        const span = document.createElement('span');
-        span.className = 'q-tag-item';
-        span.textContent = t;
-        tagsCont.appendChild(span);
-    });
-
-    document.getElementById('q-text').innerHTML = q.question;
+    document.getElementById('q-text').innerHTML = q['question' + lang] || q['questionEn'] || q.question || 'Missing question text';
     
     const optionsCont = document.getElementById('q-options');
     optionsCont.innerHTML = '';
     
-    Object.entries(q.options).forEach(([letter, text]) => {
+    const options = q['options' + lang] || q['optionsEn'] || q.options || {};
+    
+    Object.entries(options).forEach(([letter, text]) => {
         const btn = document.createElement('button');
         btn.className = 'option-btn';
         btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${text}</span>`;
@@ -150,6 +155,7 @@ function renderQuestion() {
     });
 
     document.getElementById('q-explanation').style.display = 'none';
+    document.getElementById('exp-chapter-select').style.display = 'none';
 }
 
 function selectAnswer(letter, btn) {
@@ -161,7 +167,6 @@ function selectAnswer(letter, btn) {
         btn.classList.add('correct');
     } else {
         btn.classList.add('wrong');
-        // Highlight correct one
         document.querySelectorAll('.option-btn').forEach(b => {
             if (b.querySelector('.option-letter').textContent === q.correctAnswer) {
                 b.classList.add('correct');
@@ -169,7 +174,6 @@ function selectAnswer(letter, btn) {
         });
     }
 
-    // Disable all options
     document.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
 
     state.answers.push({
@@ -184,19 +188,61 @@ function selectAnswer(letter, btn) {
 
 function showExplanation() {
     const q = state.questions[state.currentIndex];
+    const lang = state.settings.lang;
     const expBox = document.getElementById('q-explanation');
-    document.getElementById('exp-text').innerHTML = q.explanation || 'No explanation provided.';
+    
+    document.getElementById('exp-text').innerHTML = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
     expBox.style.display = 'block';
     
-    // Scroll explanation into view
+    // Handle "Open in Reader"
+    const metaChapters = state.quizData.meta.chapter || [];
+    const chapterList = Array.isArray(metaChapters) ? metaChapters : (metaChapters ? [metaChapters] : []);
+    const picker = document.getElementById('exp-chapter-select');
+    const pickerGrid = document.getElementById('exp-chapter-list');
+    const mainReaderBtn = document.getElementById('btn-open-reader-main');
+
+    if (chapterList.length > 1) {
+        mainReaderBtn.style.display = 'none';
+        picker.style.display = 'block';
+        pickerGrid.innerHTML = '';
+        chapterList.forEach(ch => {
+            const btn = document.createElement('button');
+            btn.className = 'chapter-link-btn';
+            btn.textContent = ch.replace('chapter-', 'Chapter ');
+            btn.onclick = () => openReader(ch);
+            pickerGrid.appendChild(btn);
+        });
+    } else if (chapterList.length === 1) {
+        mainReaderBtn.style.display = 'inline-flex';
+        picker.style.display = 'none';
+        mainReaderBtn.onclick = () => openReader(chapterList[0]);
+    } else {
+        mainReaderBtn.style.display = 'none';
+        picker.style.display = 'none';
+    }
+
     expBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 
     const nextBtn = document.getElementById('btn-next-q');
+    const isRu = lang === 'Ru';
     if (state.currentIndex === state.questions.length - 1) {
-        nextBtn.innerHTML = 'See Results <i class="fas fa-flag-checkered"></i>';
+        nextBtn.innerHTML = (isRu ? 'Результаты ' : 'See Results ') + '<i class="fas fa-flag-checkered"></i>';
     } else {
-        nextBtn.innerHTML = 'Next Question <i class="fas fa-chevron-right"></i>';
+        nextBtn.innerHTML = (isRu ? 'Далее ' : 'Next Question ') + '<i class="fas fa-chevron-right"></i>';
     }
+}
+
+function openReader(chapterId) {
+    const lang = state.settings.lang;
+    // Map Quiz language to edition
+    // If Quiz is Ru, try Russian edition. If En, try original.
+    const edition = lang === 'Ru' ? 'russian' : 'original';
+    
+    // Ensure chapterId doesn't have .md
+    const cleanId = chapterId.replace('.md', '');
+    
+    const url = `reader.html?book=${state.bookPath}&chapter=${cleanId}&edition=${edition}`;
+    window.open(url, '_blank');
 }
 
 function setupQuestionListeners() {
@@ -211,30 +257,20 @@ function setupQuestionListeners() {
     };
 
     document.getElementById('btn-exit-quiz').onclick = () => {
-        if (confirm('Exit quiz? Progress will be lost.')) {
+        const msg = state.settings.lang === 'Ru' ? 'Выйти из теста? Прогресс будет утерян.' : 'Exit quiz? Progress will be lost.';
+        if (confirm(msg)) {
             switchScreen('screen-lobby');
-        }
-    };
-
-    document.getElementById('btn-open-reader').onclick = () => {
-        const q = state.questions[state.currentIndex];
-        if (q.chapter) {
-            // Assume chapter format is "Chapter X" -> chapter-0X.md
-            const num = q.chapter.match(/\d+/);
-            if (num) {
-                const chFile = `chapter-${num[0].padStart(2, '0')}.md`;
-                window.open(`reader.html?book=${state.bookPath}&chapter=${chFile}`, '_blank');
-            }
         }
     };
 }
 
 function showResults() {
     switchScreen('screen-results');
+    const isRu = state.settings.lang === 'Ru';
     
     const pct = Math.round((state.score / state.questions.length) * 100);
     document.getElementById('res-score-big').textContent = `${pct}%`;
-    document.getElementById('res-score-raw').textContent = `${state.score} / ${state.questions.length} Correct`;
+    document.getElementById('res-score-raw').textContent = `${state.score} / ${state.questions.length} ` + (isRu ? 'Верно' : 'Correct');
     
     const totalTime = Math.round((Date.now() - state.startTime) / 1000);
     const m = Math.floor(totalTime / 60);
@@ -244,17 +280,22 @@ function showResults() {
     const avg = Math.round(totalTime / state.questions.length);
     document.getElementById('res-avg-time').textContent = `${avg}s`;
 
-    let grade = 'Needs Work';
+    let grade = isRu ? 'Нужно подтянуть' : 'Needs Work';
     let trophy = '🔭';
-    if (pct >= 90) { grade = 'Excellent!'; trophy = '🏆'; }
-    else if (pct >= 75) { grade = 'Great Job!'; trophy = '🌟'; }
-    else if (pct >= 60) { grade = 'Passed'; trophy = '✅'; }
+    if (pct >= 90) { grade = isRu ? 'Отлично!' : 'Excellent!'; trophy = '🏆'; }
+    else if (pct >= 75) { grade = isRu ? 'Хороший результат!' : 'Great Job!'; trophy = '🌟'; }
+    else if (pct >= 60) { grade = isRu ? 'Зачтено' : 'Passed'; trophy = '✅'; }
     
     document.getElementById('res-grade').textContent = grade;
     document.getElementById('res-trophy').textContent = trophy;
 }
 
 function setupResultsListeners() {
+    const isRu = state.settings.lang === 'Ru';
+    document.getElementById('btn-restart').textContent = isRu ? '🔁 Повторить' : '🔁 Try Again';
+    document.getElementById('btn-new-session').textContent = isRu ? '🔀 Новый сеанс' : '🔀 New Session';
+    document.getElementById('btn-res-exit').textContent = isRu ? '📖 В библиотеку' : '📖 Back to Library';
+
     document.getElementById('btn-restart').onclick = startQuiz;
     document.getElementById('btn-new-session').onclick = () => switchScreen('screen-lobby');
     document.getElementById('btn-res-exit').onclick = () => window.location.href = 'index.html';
@@ -271,8 +312,4 @@ function shuffleArray(array) {
         [array[i], array[j]] = [array[j], array[i]];
     }
     return array;
-}
-
-function formulaInsert(tex) {
-    // Dummy for KaTeX if needed later, but questions can have HTML
 }

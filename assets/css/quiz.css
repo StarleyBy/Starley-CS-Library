@@ -376,9 +376,80 @@ input[type=range] {
     color: var(--quiz-muted);
 }
 
-.stat-value {
-    font-size: 1.2rem;
-    font-weight: 700;
+/* Language Selector */
+.lang-selector {
+    display: flex;
+    gap: 10px;
+    margin-top: 5px;
+}
+
+.lang-btn {
+    flex: 1;
+    background: var(--quiz-surface);
+    border: 1px solid var(--border-color);
+    color: var(--quiz-text);
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+}
+
+.lang-btn .font-tag {
+    font-size: 0.7rem;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+.lang-btn.active {
+    border-color: var(--quiz-accent);
+    background: rgba(88, 166, 255, 0.1);
+    color: var(--quiz-accent);
+}
+
+/* Chapter Picker in Explanation */
+.exp-chapter-picker {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid var(--quiz-border);
+}
+
+.exp-chapter-picker p {
+    font-size: 0.85rem;
+    color: var(--quiz-muted);
+    margin-bottom: 8px;
+}
+
+.chapter-links-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 8px;
+}
+
+.chapter-link-btn {
+    background: var(--quiz-bg);
+    border: 1px solid var(--quiz-border);
+    color: var(--quiz-accent);
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    text-align: center;
+    transition: all 0.2s;
+}
+
+.chapter-link-btn:hover {
+    background: var(--quiz-surface);
+    border-color: var(--quiz-accent);
+}
+
+/* Option Styles */
+.option-text {
+    flex: 1;
 }
 
 .results-actions {

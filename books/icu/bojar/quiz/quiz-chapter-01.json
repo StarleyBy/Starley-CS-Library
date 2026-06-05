@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "questionEn": "A 65-year-old diabetic patient presents with triple-vessel disease and a SYNTAX score of 28. According to the FREEDOM trial and SYNTAX 5-year data, what is the most appropriate management?",
+    "questionRu": "Пациент 65 лет с сахарным диабетом, трехсосудистым поражением и SYNTAX score 28. Согласно исследованию FREEDOM и 5-летним данным SYNTAX, какая тактика наиболее предпочтительна?",
+    "optionsEn": {
+      "A": "PCI with second-generation drug-eluting stents.",
+      "B": "Medical therapy alone (GDMT).",
+      "C": "Coronary Artery Bypass Grafting (CABG).",
+      "D": "Hybrid revascularization (LITA to LAD + PCI to others)."
+    },
+    "optionsRu": {
+      "A": "ЧКВ со стентами второго поколения с лекарственным покрытием.",
+      "B": "Только медикаментозная терапия (оптимизированная).",
+      "C": "Коронарное шунтирование (КШ).",
+      "D": "Гибридная реваскуляризация (ВМА к ПМЖВ + ЧКВ к другим артериям)."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "For diabetic patients with multivessel disease, the FREEDOM trial demonstrated that CABG is superior to PCI in reducing rates of death and MI. For intermediate SYNTAX scores (23–32) in three-vessel disease, CABG yields significantly better long-term outcomes and lower MACCE rates compared to PCI.",
+    "explanationRu": "Для пациентов с диабетом и многососудистым поражением исследование FREEDOM показало превосходство КШ над ЧКВ в снижении смертности и инфарктов. При промежуточном SYNTAX score (23–32) и трехсосудистом поражении КШ обеспечивает лучшие отдаленные результаты и меньшую частоту MACCE."
+  },
+  {
+    "id": 2,
+    "questionEn": "Which finding in the STICH trial regarding severe ischemic LV dysfunction (EF <35%) is considered most 'paradoxical' relative to prior beliefs?",
+    "questionRu": "Какое из наблюдений исследования STICH, касающееся тяжелой ишемической дисфункции ЛЖ (ФВ <35%), считается наиболее «парадоксальным» по сравнению с прежними представлениями?",
+    "optionsEn": {
+      "A": "CABG has no survival benefit over medical therapy.",
+      "B": "Myocardial viability testing does not predict surgical survival benefit.",
+      "C": "30-day mortality is lower in the surgical group.",
+      "D": "Patients with angina did worse with surgery than those without."
+    },
+    "optionsRu": {
+      "A": "КШ не дает преимущества по выживаемости перед медикаментозной терапией.",
+      "B": "Оценка жизнеспособности миокарда не предсказывает пользу от операции в отношении выживаемости.",
+      "C": "30-дневная летальность ниже в группе хирургического лечения.",
+      "D": "Пациенты со стенокардией после операции чувствовали себя хуже, чем без стенокардии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The STICH trial found no difference in surgical outcomes whether myocardial viability was present or not, which contradicted previous meta-analyses suggesting viability testing is essential to predict CABG benefit.",
+    "explanationRu": "Исследование STICH не выявило различий в исходах операции в зависимости от наличия жизнеспособного миокарда, что противоречило более ранним метаанализам, считавшим тест на жизнеспособность обязательным для прогнозирования пользы от КШ."
+  },
+  {
+    "id": 3,
+    "questionEn": "In a patient with a 'residual SYNTAX score' of 12 after PCI, what is the expected clinical prognosis?",
+    "questionRu": "У пациента с «резидуальным SYNTAX score» 12 после ЧКВ, какой ожидается клинический прогноз?",
+    "optionsEn": {
+      "A": "Similar survival to complete revascularization.",
+      "B": "Increased 30-day and one-year mortality.",
+      "C": "Lower risk of repeat revascularization due to stent placement.",
+      "D": "Excellent symptomatic relief but no survival change."
+    },
+    "optionsRu": {
+      "A": "Выживаемость, аналогичная полной реваскуляризации.",
+      "B": "Повышенная 30-дневная и годичная летальность.",
+      "C": "Меньший риск повторной реваскуляризации благодаря стентированию.",
+      "D": "Отличное облегчение симптомов, но без изменения выживаемости."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A 'residual SYNTAX' score >8 signifies incomplete revascularization and is statistically associated with worse 30-day and one-year survival.",
+    "explanationRu": "Резидуальный SYNTAX score >8 означает неполную реваскуляризацию и статистически связан с худшей 30-дневной и годичной выживаемостью."
+  },
+  {
+    "id": 4,
+    "questionEn": "Why is the SYNTAX II score considered superior to the original SYNTAX score for clinical decision-making?",
+    "questionRu": "Почему шкала SYNTAX II считается превосходящей оригинальный SYNTAX score для принятия клинических решений?",
+    "optionsEn": {
+      "A": "it includes only anatomical lesion complexity.",
+      "B": "It incorporates clinical predictors like age, CrCl, and LVEF.",
+      "C": "It ignores female gender to avoid bias.",
+      "D": "It was validated using bare-metal stents."
+    },
+    "optionsRu": {
+      "A": "Она учитывает только анатомическую сложность поражений.",
+      "B": "Она включает клинические предикторы: возраст, клиренс креатинина, ФВ ЛЖ.",
+      "C": "Она игнорирует женский пол для избежания смещения.",
+      "D": "Она валидирована на голометаллических стентах."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The SYNTAX II score adds six clinical predictors (age, creatinine clearance, LVEF, female gender, PVD, and COPD) to the anatomical score, making it a better predictor of 4-year mortality.",
+    "explanationRu": "SYNTAX II добавляет к анатомической оценке шесть клинических предикторов (возраст, клиренс креатинина, ФВ ЛЖ, женский пол, заболевания периферических артерий, ХОБЛ), что улучшает прогнозирование 4-летней смертности."
+  },
+  {
+    "id": 5,
+    "questionEn": "A patient requires urgent CABG but received Ticagrelor 24 hours ago. What is the preferred strategy if the surgery cannot be delayed?",
+    "questionRu": "Пациенту требуется экстренное КШ, но он получил тикагрелор 24 часа назад. Какая стратегия предпочтительнее, если операцию нельзя откладывать?",
+    "optionsEn": {
+      "A": "Immediate surgery with high-dose platelet transfusions.",
+      "B": "Bridging with IV Cangrelor until 1-2 hours before surgery.",
+      "C": "Bridging with Abciximab until 12 hours before surgery.",
+      "D": "Administration of Fondaparinux to counteract antiplatelet effects."
+    },
+    "optionsRu": {
+      "A": "Немедленная операция с массивными трансфузиями тромбоцитов.",
+      "B": "Мостиковая терапия внутривенным кангрелором за 1–2 часа до операции.",
+      "C": "Мостиковая терапия абциксимабом до 12 часов до операции.",
+      "D": "Введение фондапаринукса для нейтрализации антитромбоцитарного эффекта."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "IV Cangrelor is a short-acting P2Y12 inhibitor with a half-life of 3–6 minutes, allowing it to be stopped only 1–2 hours before surgery.",
+    "explanationRu": "Внутривенный кангрелор — короткодействующий ингибитор P2Y12 с периодом полувыведения 3–6 минут, что позволяет отменить его всего за 1–2 часа до операции."
+  },
+  {
+    "id": 6,
+    "questionEn": "Which drug inhibits inward sodium currents to reduce myocardial wall tension without lowering heart rate?",
+    "questionRu": "Какой препарат ингибирует входящие натриевые токи, снижая напряжение стенки миокарда без урежения частоты сердечных сокращений?",
+    "optionsEn": {
+      "A": "Metoprolol.",
+      "B": "Ranolazine.",
+      "C": "Amlodipine.",
+      "D": "Isosorbide mononitrate."
+    },
+    "optionsRu": {
+      "A": "Метопролол.",
+      "B": "Ранолазин.",
+      "C": "Амлодипин.",
+      "D": "Изосорбида мононитрат."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Ranolazine inhibits inward sodium currents, reducing intracellular calcium, wall tension, and oxygen demand without affecting heart rate or BP.",
+    "explanationRu": "Ранолазин ингибирует входящие натриевые токи, снижая внутриклеточный кальций, напряжение стенки и потребность миокарда в кислороде, не влияя на ЧСС и АД."
+  },
+  {
+    "id": 7,
+    "questionEn": "Which Class I indication for emergency CABG is specific to STEMI management?",
+    "questionRu": "Какое показание класса I для экстренного КШ специфично для ведения пациентов с инфарктом миокарда с подъемом сегмента ST (ИМпST)?",
+    "optionsEn": {
+      "A": "Asymptomatic patient 6 hours post-successful PCI.",
+      "B": "Persistent ischemia refractory to nonsurgical therapy.",
+      "C": "STEMI in a patient with 1-vessel disease and no symptoms.",
+      "D": "Stable multivessel disease 48 hours after STEMI."
+    },
+    "optionsRu": {
+      "A": "Бессимптомный пациент через 6 часов после успешного ЧКВ.",
+      "B": "Стойкая ишемия, рефрактерная к нехирургическому лечению.",
+      "C": "ИМпST у пациента с однососудистым поражением без симптомов.",
+      "D": "Стабильное многососудистое поражение через 48 часов после ИМпST."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "ACC guidelines give a Class I recommendation for emergency CABG in STEMI if there is persistent ischemia or hemodynamic instability refractory to nonsurgical therapy.",
+    "explanationRu": "Рекомендации ACC дают класс I для экстренного КШ при ИМпST в случае сохраняющейся ишемии или гемодинамической нестабильности, рефрактерных к нехирургическому лечению."
+  },
+  {
+    "id": 8,
+    "questionEn": "What is the recommended management of Aspirin before elective CABG?",
+    "questionRu": "Какова рекомендуемая тактика в отношении аспирина перед плановым КШ?",
+    "optionsEn": {
+      "A": "Stop 7 days prior to reduce bleeding.",
+      "B": "Continue 81 mg up to the morning of surgery.",
+      "C": "Increase dose to 325 mg to prevent graft thrombosis.",
+      "D": "Switch to Clopidogrel 5 days before surgery."
+    },
+    "optionsRu": {
+      "A": "Отменить за 7 дней для снижения кровотечения.",
+      "B": "Продолжать 81 мг вплоть до утра операции.",
+      "C": "Увеличить дозу до 325 мг для профилактики тромбоза шунтов.",
+      "D": "Переключить на клопидогрел за 5 дней до операции."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Aspirin 81 mg should be continued up to the time of surgery as it improves outcomes without significantly increasing bleeding risk.",
+    "explanationRu": "Аспирин 81 мг следует продолжать до момента операции, так как он улучшает исходы без значимого увеличения риска кровотечения."
+  },
+  {
+    "id": 9,
+    "questionEn": "When should Low-Molecular-Weight Heparin (LMWH) be stopped before CABG?",
+    "questionRu": "Когда следует отменить низкомолекулярный гепарин (НМГ) перед КШ?",
+    "optionsEn": {
+      "A": "4 hours prior.",
+      "B": "12 hours prior.",
+      "C": "At least 24 hours prior.",
+      "D": "5 days prior."
+    },
+    "optionsRu": {
+      "A": "За 4 часа.",
+      "B": "За 12 часов.",
+      "C": "Не менее чем за 24 часа.",
+      "D": "За 5 дней."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "LMWH must be stopped at least 24 hours before surgery to minimize perioperative bleeding risk.",
+    "explanationRu": "НМГ необходимо отменить как минимум за 24 часа до операции для минимизации риска периоперационного кровотечения."
+  },
+  {
+    "id": 10,
+    "questionEn": "In OPCAB (Off-Pump) surgery, what is a primary reason for converting to on-pump surgery?",
+    "questionRu": "При операции КШ без искусственного кровообращения (OPCAB) какова основная причина для перехода на КШ с ИК?",
+    "optionsEn": {
+      "A": "Patient is female.",
+      "B": "Small, vertical heart orientation.",
+      "C": "Presence of a LITA to LAD graft already.",
+      "D": "Use of endoscopic vein harvesting."
+    },
+    "optionsRu": {
+      "A": "Пациент женского пола.",
+      "B": "Маленькое, вертикально ориентированное сердце.",
+      "C": "Уже наложен шунт ВМА в ПМЖВ.",
+      "D": "Использование эндоскопической заготовки вен."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A very small heart with vertical orientation can make translocation difficult without hemodynamic compromise.",
+    "explanationRu": "Очень маленькое сердце с вертикальной ориентацией может затруднить манипуляции без гемодинамической нестабильности."
+  },
+  {
+    "id": 11,
+    "questionEn": "Most Left Ventricular Aneurysms (LVA) occur in which region?",
+    "questionRu": "В какой области чаще всего возникают левожелудочковые аневризмы (ЛЖА)?",
+    "optionsEn": {
+      "A": "Inferoposterior.",
+      "B": "Anteroapical.",
+      "C": "Lateral wall.",
+      "D": "Right ventricle."
+    },
+    "optionsRu": {
+      "A": "Нижнезадней.",
+      "B": "Передневерхушечной.",
+      "C": "Латеральной стенке.",
+      "D": "Правом желудочке."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Most LVAs occur in the anteroapical region due to LAD occlusion without collateralization.",
+    "explanationRu": "Большинство ЛЖА возникают в передневерхушечной области вследствие окклюзии ПМЖВ при отсутствии коллатералей."
+  },
+  {
+    "id": 12,
+    "questionEn": "What distinguishes a true LVA from a false aneurysm?",
+    "questionRu": "Что отличает истинную ЛЖА от ложной аневризмы?",
+    "optionsEn": {
+      "A": "True aneurysms have a high risk of spontaneous rupture.",
+      "B": "False aneurysms are contained by a thin layer of scar tissue.",
+      "C": "False aneurysms are a contained rupture of the ventricular muscle.",
+      "D": "True aneurysms always require emergency surgery even if asymptomatic."
+    },
+    "optionsRu": {
+      "A": "Истинные аневризмы имеют высокий риск спонтанного разрыва.",
+      "B": "Ложные аневризмы удерживаются тонким слоем рубцовой ткани.",
+      "C": "Ложные аневризмы — это ограниченный разрыв мышечной стенки желудочка.",
+      "D": "Истинные аневризмы всегда требуют экстренной операции, даже если протекают бессимптомно."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A false aneurysm is a contained rupture, which has an unpredictable prognosis and is an absolute indication for surgery. True aneurysms are thin scar tissue (not rupture) and are often managed conservatively if asymptomatic.",
+    "explanationRu": "Ложная аневризма — это ограниченный разрыв, прогноз непредсказуем, это абсолютное показание к операции. Истинные аневризмы — тонкая рубцовая ткань (не разрыв), при бессимптомном течении часто ведут консервативно."
+  },
+  {
+    "id": 13,
+    "questionEn": "The Dor procedure (Surgical Ventricular Restoration) is specifically designed to:",
+    "questionRu": "Операция Дора (хирургическая реставрация желудочка) специально разработана для:",
+    "optionsEn": {
+      "A": "Replace the mitral valve with a prosthesis.",
+      "B": "Exclude akinetic segments to restore elliptical LV shape.",
+      "C": "Bypass the circumflex artery.",
+      "D": "Remove thrombus without affecting LV geometry."
+    },
+    "optionsRu": {
+      "A": "Замены митрального клапана на протез.",
+      "B": "Исключения акинетических сегментов для восстановления эллиптической формы ЛЖ.",
+      "C": "Шунтирования огибающей артерии.",
+      "D": "Удаления тромба без изменения геометрии ЛЖ."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Dor procedure uses an encircling suture and a patch to exclude noncontracting segments, restoring an elliptical contour and improving function.",
+    "explanationRu": "Операция Дора использует кисетный шов и заплату для исключения несокращающихся сегментов, восстанавливая эллиптическую форму и улучшая функцию."
+  },
+  {
+    "id": 14,
+    "questionEn": "Ventricular Septal Rupture (VSD) usually occurs within which timeframe after MI?",
+    "questionRu": "В какие сроки после инфаркта миокарда обычно происходит разрыв межжелудочковой перегородки (ДМЖП)?",
+    "optionsEn": {
+      "A": "Within the first 2 hours.",
+      "B": "Within the first week.",
+      "C": "30 days post-MI.",
+      "D": "Only after 1 year of remodeling."
+    },
+    "optionsRu": {
+      "A": "В первые 2 часа.",
+      "B": "В течение первой недели.",
+      "C": "Через 30 дней после ИМ.",
+      "D": "Только через 1 год ремоделирования."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Septal necrosis and rupture typically occur within the first week of an infarction.",
+    "explanationRu": "Некроз и разрыв перегородки обычно происходят в течение первой недели после инфаркта."
+  },
+  {
+    "id": 15,
+    "questionEn": "According to STS data, what is the mortality rate for VSD surgery performed within 7 days of MI?",
+    "questionRu": "Согласно данным STS, какова летальность при операции по поводу ДМЖП, выполненной в течение 7 дней после ИМ?",
+    "optionsEn": {
+      "A": "5%",
+      "B": "18.4%",
+      "C": "54%",
+      "D": "90%"
+    },
+    "optionsRu": {
+      "A": "5%",
+      "B": "18.4%",
+      "C": "54%",
+      "D": "90%"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Early surgery (<7 days) has a high mortality of 54% because patients are often in cardiogenic shock. Mortality drops to 18.4% after 7 days due to patient selection and stability.",
+    "explanationRu": "Ранняя операция (<7 дней) связана с высокой летальностью 54% из‑за кардиогенного шока. Летальность снижается до 18.4% после 7 дней благодаря селекции пациентов и стабилизации."
+  },
+  {
+    "id": 16,
+    "questionEn": "Which preoperative diagnostic tool is best for detecting an oxygen saturation 'step-up' in the RV for VSD diagnosis?",
+    "questionRu": "Какой предоперационный диагностический метод лучше всего выявляет «ступеньку» насыщения кислородом в правом желудочке для диагностики ДМЖП?",
+    "optionsEn": {
+      "A": "2D Echocardiogram.",
+      "B": "Cardiac MRI.",
+      "C": "Swan-Ganz (Pulmonary Artery) Catheter.",
+      "D": "Chest X-ray."
+    },
+    "optionsRu": {
+      "A": "2D Эхокардиография.",
+      "B": "МРТ сердца.",
+      "C": "Катетер Свана-Ганца (легочная артерия).",
+      "D": "Рентген грудной клетки."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A Swan-Ganz catheter detects the O2 saturation step-up caused by the left-to-right shunt. Echo confirms the defect, but Swan-Ganz provides the physiological proof.",
+    "explanationRu": "Катетер Свана-Ганца регистрирует ступеньку насыщения O2, вызванную сбросом слева направо. Эхо подтверждает дефект, но катетер дает физиологическое доказательство."
+  },
+  {
+    "id": 17,
+    "questionEn": "What is the preferred surgical technique for post-infarct VSD to reduce recurrence?",
+    "questionRu": "Какова предпочтительная хирургическая техника при постинфарктном ДМЖП для снижения рецидива?",
+    "optionsEn": {
+      "A": "Linear closure with Teflon strips.",
+      "B": "Circumferential pericardial patching (Exclusion technique).",
+      "C": "Simple interrupted sutures through the necrotic zone.",
+      "D": "Replacement of the entire septum with a mechanical disc."
+    },
+    "optionsRu": {
+      "A": "Линейное закрытие с тефлоновыми полосками.",
+      "B": "Циркулярная заплата из перикарда (техника исключения).",
+      "C": "Простые узловые швы через некротическую зону.",
+      "D": "Замена всей перегородки механическим диском."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Pericardial patching anchored to viable myocardium away from the necrosis excludes the shunt and reduces recurrence.",
+    "explanationRu": "Перикардиальная заплата, фиксированная к жизнеспособному миокарду вдали от некроза, исключает шунт и снижает рецидив."
+  },
+  {
+    "id": 18,
+    "questionEn": "In LV aneurysm patients, when is a mitral valve procedure indicated?",
+    "questionRu": "У пациентов с аневризмой ЛЖ, когда показано вмешательство на митральном клапане?",
+    "optionsEn": {
+      "A": "Only if the LVA is <2 cm.",
+      "B": "If MR is 2+ or greater.",
+      "C": "Only if the patient has AF.",
+      "D": "If the EF is >50%."
+    },
+    "optionsRu": {
+      "A": "Только если ЛЖА <2 см.",
+      "B": "Если митральная регургитация 2+ или более.",
+      "C": "Только если у пациента фибрилляция предсердий.",
+      "D": "Если ФВ >50%."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A mitral procedure is indicated if MR is 2+ or greater, often due to apical tethering from LV dilatation.",
+    "explanationRu": "Вмешательство на митральном клапане показано при МР 2+ или более, часто из‑за верхушечного натяжения вследствие дилатации ЛЖ."
+  },
+  {
+    "id": 19,
+    "questionEn": "What is the 'is-ness' of Heyde's Syndrome?",
+    "questionRu": "В чем суть синдрома Хейда (Heyde's syndrome)?",
+    "optionsEn": {
+      "A": "Aortic Regurgitation + Brain Abscess.",
+      "B": "Aortic Stenosis + GI bleeding from angiodysplasia.",
+      "C": "Mitral Stenosis + Pulmonary Hypertension.",
+      "D": "VSD + Tricuspid Regurgitation."
+    },
+    "optionsRu": {
+      "A": "Аортальная регургитация + абсцесс мозга.",
+      "B": "Аортальный стеноз + желудочно-кишечное кровотечение из ангиодисплазии.",
+      "C": "Митральный стеноз + легочная гипертензия.",
+      "D": "ДМЖП + трикуспидальная регургитация."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Heyde's syndrome is the association of AS with GI bleeding due to angiodysplasia, often related to acquired von Willebrand syndrome.",
+    "explanationRu": "Синдром Хейда — это сочетание аортального стеноза и ЖКК из ангиодисплазии, часто связанное с приобретенным синдромом фон Виллебранда."
+  },
+  {
+    "id": 20,
+    "questionEn": "Which factor portends a worse prognosis after AS surgery?",
+    "questionRu": "Какой фактор предвещает худший прогноз после операции по поводу аортального стеноза?",
+    "optionsEn": {
+      "A": "Low wall stress.",
+      "B": "High transvalvular gradient (>60 mm Hg).",
+      "C": "Hyperdynamic heart with a very high EF and low wall stress.",
+      "D": "Small body surface area."
+    },
+    "optionsRu": {
+      "A": "Низкое напряжение стенки.",
+      "B": "Высокий транспротезный градиент (>60 мм рт.ст.).",
+      "C": "Гипердинамическое сердце с очень высокой ФВ и низким напряжением стенки.",
+      "D": "Малая площадь поверхности тела."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Patients with excessive LVH and very high EF (low wall stress) have a worse prognosis after surgical correction.",
+    "explanationRu": "Пациенты с выраженной гипертрофией ЛЖ и очень высокой ФВ (низкое напряжение стенки) имеют худший прогноз после хирургической коррекции."
+  },
+  {
+    "id": 21,
+    "questionEn": "Severe Aortic Stenosis is defined by which hemodynamic parameter?",
+    "questionRu": "Какой гемодинамический параметр определяет тяжелый аортальный стеноз?",
+    "optionsEn": {
+      "A": "Mean gradient <25 mm Hg.",
+      "B": "Jet velocity >4.0 m/s.",
+      "C": "Aortic Valve Area (AVA) >1.5 cm².",
+      "D": "LVEF <20%."
+    },
+    "optionsRu": {
+      "A": "Средний градиент <25 мм рт.ст.",
+      "B": "Скорость потока >4,0 м/с.",
+      "C": "Площадь аортального клапана >1,5 см².",
+      "D": "ФВ ЛЖ <20%."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Severe AS indicators include jet velocity >4.0 m/s, mean gradient >40 mm Hg, or AVA <1.0 cm².",
+    "explanationRu": "Признаки тяжелого АС: скорость потока >4,0 м/с, средний градиент >40 мм рт.ст. или AVA <1,0 см²."
+  },
+  {
+    "id": 22,
+    "questionEn": "Stage D2 Aortic Stenosis is characterized as:",
+    "questionRu": "Аортальный стеноз стадии D2 характеризуется как:",
+    "optionsEn": {
+      "A": "Asymptomatic severe AS with normal EF.",
+      "B": "Symptomatic severe low flow/low gradient AS with reduced LVEF.",
+      "C": "Paradoxical low flow AS with normal LVEF.",
+      "D": "High-gradient symptomatic AS."
+    },
+    "optionsRu": {
+      "A": "Бессимптомный тяжелый АС с нормальной ФВ.",
+      "B": "Симптомный тяжелый низкопоточный/низкоградиентный АС со сниженной ФВ ЛЖ.",
+      "C": "Парадоксальный низкопоточный АС с нормальной ФВ ЛЖ.",
+      "D": "Высокоградиентный симптомный АС."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Stage D2 is symptomatic low-flow/low-gradient AS with reduced EF (<50%). Stage D3 is the paradoxical low-flow version with normal EF.",
+    "explanationRu": "Стадия D2 — симптомный низкопоточный/низкоградиентный АС со сниженной ФВ (<50%). Стадия D3 — парадоксальный низкопоточный вариант с нормальной ФВ."
+  },
+  {
+    "id": 23,
+    "questionEn": "What is the purpose of Dobutamine Stress Echo (DSE) in Stage D2 AS?",
+    "questionRu": "Какова цель стресс-эхокардиографии с добутамином (DSE) при АС стадии D2?",
+    "optionsEn": {
+      "A": "To increase the heart rate to 180 bpm.",
+      "B": "To differentiate true severe AS from pseudo-severe AS.",
+      "C": "To measure the size of the ascending aorta.",
+      "D": "To treat the patient's heart failure."
+    },
+    "optionsRu": {
+      "A": "Участить ЧСС до 180 в минуту.",
+      "B": "Дифференцировать истинный тяжелый АС от псевдотяжелого.",
+      "C": "Измерить размер восходящей аорты.",
+      "D": "Лечить сердечную недостаточность пациента."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "If dobutamine increases AVA to >1.0 cm² without increasing the gradient, it is pseudo-severe AS. In true AS, the gradient increases and AVA remains <1.0 cm².",
+    "explanationRu": "Если добутамин увеличивает AVA до >1,0 см² без роста градиента — это псевдотяжелый АС. При истинном АС градиент растет, а AVA остается <1,0 см²."
+  },
+  {
+    "id": 24,
+    "questionEn": "Which AVA calculation formula is simplified as: AVA = Cardiac Output (L/min) / √peak-to-peak gradient?",
+    "questionRu": "Какая формула расчета AVA упрощенно выглядит как: AVA = сердечный выброс (л/мин) / √пик-пик градиента?",
+    "optionsEn": {
+      "A": "Gorlin formula.",
+      "B": "Hakki formula.",
+      "C": "Continuity equation.",
+      "D": "PISA formula."
+    },
+    "optionsRu": {
+      "A": "Формула Горлина.",
+      "B": "Формула Хакки.",
+      "C": "Уравнение непрерывности.",
+      "D": "Формула PISA."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Hakki formula is the simplified version for AVA calculation.",
+    "explanationRu": "Формула Хакки — упрощенная версия для расчета AVA."
+  },
+  {
+    "id": 25,
+    "questionEn": "In asymptomatic patients with severe AS (Stage C1), AVR is a Class I indication if:",
+    "questionRu": "У бессимптомных пациентов с тяжелым АС (стадия C1) протезирование аортального клапана (ПАК) является показанием класса I, если:",
+    "optionsEn": {
+      "A": "The patient is >80 years old.",
+      "B": "An exercise stress test is positive (symptoms or BP drop).",
+      "C": "The mean gradient is exactly 41 mm Hg.",
+      "D": "The patient has a bicuspid valve."
+    },
+    "optionsRu": {
+      "A": "Пациент старше 80 лет.",
+      "B": "Нагрузочный тест положительный (симптомы или падение АД).",
+      "C": "Средний градиент равен 41 мм рт.ст.",
+      "D": "У пациента двустворчатый клапан."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A positive stress test is a Level I indication for AVR in asymptomatic severe AS.",
+    "explanationRu": "Положительный нагрузочный тест — показание класса I для ПАК при бессимптомном тяжелом АС."
+  },
+  {
+    "id": 26,
+    "questionEn": "What is the average survival for a patient with AS once symptoms of heart failure develop?",
+    "questionRu": "Какова средняя продолжительность жизни пациента с АС после появления симптомов сердечной недостаточности?",
+    "optionsEn": {
+      "A": "6 months.",
+      "B": "1 year.",
+      "C": "2 years.",
+      "D": "5 years."
+    },
+    "optionsRu": {
+      "A": "6 месяцев.",
+      "B": "1 год.",
+      "C": "2 года.",
+      "D": "5 лет."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Average survival is 1 year for HF symptoms, 2 years for syncope, and 4 years for angina.",
+    "explanationRu": "Средняя выживаемость: 1 год при симптомах СН, 2 года при синкопе, 4 года при стенокардии."
+  },
+  {
+    "id": 27,
+    "questionEn": "Transcatheter Aortic Valve Replacement (TAVR) was approved for low-risk patients in the US in:",
+    "questionRu": "Транскатетерная имплантация аортального клапана (TAVR) была одобрена для пациентов низкого риска в США в:",
+    "optionsEn": {
+      "A": "2011.",
+      "B": "2014.",
+      "C": "2016.",
+      "D": "2019."
+    },
+    "optionsRu": {
+      "A": "2011.",
+      "B": "2014.",
+      "C": "2016.",
+      "D": "2019."
+    },
+    "correctAnswer": "D",
+    "explanationEn": "TAVR was approved for low-risk patients in mid-2019.",
+    "explanationRu": "TAVR была одобрена для пациентов низкого риска в середине 2019 года."
+  },
+  {
+    "id": 28,
+    "questionEn": "Structural valve deterioration of tissue valves is most strongly related to:",
+    "questionRu": "Структурная дегенерация биологических протезов клапанов наиболее сильно связана с:",
+    "optionsEn": {
+      "A": "Patient age (inverse relationship).",
+      "B": "Exercise intensity.",
+      "C": "Use of Beta-blockers.",
+      "D": "Gender."
+    },
+    "optionsRu": {
+      "A": "Возрастом пациента (обратная зависимость).",
+      "B": "Интенсивностью физических нагрузок.",
+      "C": "Приемом бета-блокаторов.",
+      "D": "Полом."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "Valve deterioration is inversely related to age; it happens faster in younger patients.",
+    "explanationRu": "Дегенерация клапана обратно пропорциональна возрасту: у молодых пациентов она происходит быстрее."
+  },
+  {
+    "id": 29,
+    "questionEn": "The Ross procedure involves:",
+    "questionRu": "Операция Росса включает:",
+    "optionsEn": {
+      "A": "Replacing the aorta with a Dacron graft only.",
+      "B": "Replacing the aortic valve with the patient's own pulmonary valve.",
+      "C": "Using a mechanical valve in the mitral position.",
+      "D": "Repairing the tricuspid valve with a ring."
+    },
+    "optionsRu": {
+      "A": "Замену аорты только протезом из дакрона.",
+      "B": "Замену аортального клапана собственным легочным клапаном пациента.",
+      "C": "Использование механического клапана в митральной позиции.",
+      "D": "Пластику трикуспидального клапана с кольцом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Ross procedure replaces the aortic root with a pulmonary autograft and uses a homograft for the pulmonary position.",
+    "explanationRu": "Операция Росса заменяет аортальный корень легочным аутографтом, а в легочную позицию ставится гомографт."
+  },
+  {
+    "id": 30,
+    "questionEn": "Which measurement is critical to avoid coronary ostial obstruction during TAVR?",
+    "questionRu": "Какое измерение критически важно для избежания обструкции устьев коронарных артерий при TAVR?",
+    "optionsEn": {
+      "A": "LVEF.",
+      "B": "Distance from the annulus to the coronary ostia.",
+      "C": "Length of the femoral artery.",
+      "D": "Right atrial pressure."
+    },
+    "optionsRu": {
+      "A": "ФВ ЛЖ.",
+      "B": "Расстояние от фиброзного кольца до устьев коронарных артерий.",
+      "C": "Длина бедренной артерии.",
+      "D": "Давление в правом предсердии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Native valve leaflet displacement during TAVR can block the coronary ostia if they are low-seated.",
+    "explanationRu": "Смещение створок нативного клапана при TAVR может перекрыть устья коронарных артерий, если они расположены низко."
+  },
+  {
+    "id": 31,
+    "questionEn": "In chronic Aortic Regurgitation (AR), Stage C2 is defined by:",
+    "questionRu": "При хронической аортальной регургитации (АР) стадия C2 определяется:",
+    "optionsEn": {
+      "A": "Symptoms of angina.",
+      "B": "EF <50% or LVESD >50 mm in an asymptomatic patient.",
+      "C": "Jet width <25% of LVOT.",
+      "D": "Normal LV dimensions and normal EF."
+    },
+    "optionsRu": {
+      "A": "Симптомами стенокардии.",
+      "B": "ФВ <50% или КСР ЛЖ >50 мм у бессимптомного пациента.",
+      "C": "Шириной струи <25% от выносящего тракта ЛЖ.",
+      "D": "Нормальными размерами ЛЖ и нормальной ФВ."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Stage C2 is asymptomatic severe AR with evidence of LV decompensation (EF <50% or LVESD >50 mm).",
+    "explanationRu": "Стадия C2 — бессимптомная тяжелая АР с признаками декомпенсации ЛЖ (ФВ <50% или КСР >50 мм)."
+  },
+  {
+    "id": 32,
+    "questionEn": "Why are Beta-blockers contraindicated in acute AR?",
+    "questionRu": "Почему бета-блокаторы противопоказаны при острой аортальной регургитации?",
+    "optionsEn": {
+      "A": "They cause hypertension.",
+      "B": "They block the compensatory tachycardia needed to maintain output.",
+      "C": "They increase the risk of GI bleeding.",
+      "D": "They cause aortic dissection."
+    },
+    "optionsRu": {
+      "A": "Они вызывают гипертензию.",
+      "B": "Они блокируют компенсаторную тахикардию, необходимую для поддержания выброса.",
+      "C": "Они повышают риск ЖКК.",
+      "D": "Они вызывают расслоение аорты."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Acute AR requires tachycardia to handle the volume overload; slowing the heart increases diastolic filling and worsens the regurgitant fraction.",
+    "explanationRu": "При острой АР необходима тахикардия для компенсации объемной перегрузки; урежение ритма увеличивает диастолическое наполнение и ухудшает фракцию регургитации."
+  },
+  {
+    "id": 33,
+    "questionEn": "What is the 'Bentall procedure'?",
+    "questionRu": "Что такое «операция Бенталла»?",
+    "optionsEn": {
+      "A": "Simple aortic valve replacement.",
+      "B": "Aortic root replacement with a valved conduit and coronary reimplantation.",
+      "C": "Repair of a VSD.",
+      "D": "Tricuspid valve repair."
+    },
+    "optionsRu": {
+      "A": "Простое протезирование аортального клапана.",
+      "B": "Замена корня аорты клапансодержащим кондуитом с реимплантацией коронарных артерий.",
+      "C": "Пластика ДМЖП.",
+      "D": "Пластика трикуспидального клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Bentall procedure replaces the aortic valve and ascending aorta using a valved conduit with coronary button reimplantation.",
+    "explanationRu": "Операция Бенталла заменяет аортальный клапан и восходящую аорту клапансодержащим кондуитом с реимплантацией коронарных артерий в виде «пуговок»."
+  },
+  {
+    "id": 34,
+    "questionEn": "In the 2014 guidelines, asymptomatic severe AR with an EF >50% is a Class IIa indication for surgery if:",
+    "questionRu": "Согласно рекомендациям 2014 года, бессимптомная тяжелая АР с ФВ >50% является показанием класса IIa к операции, если:",
+    "optionsEn": {
+      "A": "LVESD is >50 mm.",
+      "B": "The patient is a smoker.",
+      "C": "The patient has a bicuspid valve.",
+      "D": "Jet velocity is >3.0 m/s."
+    },
+    "optionsRu": {
+      "A": "КСР ЛЖ >50 мм.",
+      "B": "Пациент курит.",
+      "C": "У пациента двустворчатый клапан.",
+      "D": "Скорость струи >3,0 м/с."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "LVESD >50 mm indicates significant LV dilatation and risk of irreversible damage, making surgery reasonable.",
+    "explanationRu": "КСР ЛЖ >50 мм указывает на значительную дилатацию ЛЖ и риск необратимого повреждения, что делает операцию разумной."
+  },
+  {
+    "id": 35,
+    "questionEn": "Aortic valve-sparing root replacement (David procedure) is most ideal for:",
+    "questionRu": "Операция с сохранением аортального клапана (процедура Дэвида) наиболее идеальна для:",
+    "optionsEn": {
+      "A": "Elderly patients with calcified AS.",
+      "B": "Young patients with Marfan syndrome and AR.",
+      "C": "Patients with active endocarditis and abscess.",
+      "D": "Patients who prefer to be on Warfarin."
+    },
+    "optionsRu": {
+      "A": "Пациентов пожилого возраста с кальцинированным АС.",
+      "B": "Молодых пациентов с синдромом Марфана и АР.",
+      "C": "Пациентов с активным эндокардитом и абсцессом.",
+      "D": "Пациентов, предпочитающих принимать варфарин."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This procedure preserves the native valve, avoiding anticoagulation, and is ideal for connective tissue disorders with root aneurysms.",
+    "explanationRu": "Эта процедура сохраняет нативный клапан, избегая антикоагуляции, и идеальна при дисплазии соединительной ткани с аневризмой корня."
+  },
+  {
+    "id": 36,
+    "questionEn": "Mitral Stenosis (MS) occurs almost exclusively as a consequence of:",
+    "questionRu": "Митральный стеноз (МС) возникает почти исключительно вследствие:",
+    "optionsEn": {
+      "A": "Degenerative calcification.",
+      "B": "Rheumatic fever.",
+      "C": "Chronic AF.",
+      "D": "Endocarditis."
+    },
+    "optionsRu": {
+      "A": "Дегенеративного кальциноза.",
+      "B": "Ревматической лихорадки.",
+      "C": "Хронической фибрилляции предсердий.",
+      "D": "Эндокардита."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Rheumatic fever is the primary cause of MS.",
+    "explanationRu": "Ревматическая лихорадка является основной причиной МС."
+  },
+  {
+    "id": 37,
+    "questionEn": "Percutaneous Mitral Balloon Valvuloplasty (PMBV) is the procedure of choice if:",
+    "questionRu": "Чрескожная баллонная митральная вальвулопластика (ПБМВ) является процедурой выбора, если:",
+    "optionsEn": {
+      "A": "The echo score is >12.",
+      "B": "There is 4+ MR present.",
+      "C": "Valve morphology is favorable (Wilkins score <8).",
+      "D": "There is a large left atrial thrombus."
+    },
+    "optionsRu": {
+      "A": "Эхо-оценка >12.",
+      "B": "Имеется МР 4+.",
+      "C": "Морфология клапана благоприятная (Wilkins score <8).",
+      "D": "Имеется большой тромб в левом предсердии."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "PMBV is preferred for MS with favorable anatomy. LA thrombus or significant MR are contraindications.",
+    "explanationRu": "ПБМВ предпочтительна при МС с благоприятной анатомией. Тромб ЛП или значительная МР — противопоказания."
+  },
+  {
+    "id": 38,
+    "questionEn": "What is the mitral valve area (MVA) that defines 'very severe' MS?",
+    "questionRu": "Какая площадь митрального клапана (MVA) определяет «очень тяжелый» МС?",
+    "optionsEn": {
+      "A": "<1.5 cm².",
+      "B": "<1.0 cm².",
+      "C": ">2.0 cm².",
+      "D": "4.0–6.0 cm²."
+    },
+    "optionsRu": {
+      "A": "<1,5 см².",
+      "B": "<1,0 см².",
+      "C": ">2,0 см².",
+      "D": "4,0–6,0 см²."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Severe MS is <1.5 cm², and 'very severe' is <1.0 cm².",
+    "explanationRu": "Тяжелый МС — <1,5 см², «очень тяжелый» — <1,0 см²."
+  },
+  {
+    "id": 39,
+    "questionEn": "Primary (Degenerative) Mitral Regurgitation (MR) is most often caused by:",
+    "questionRu": "Первичная (дегенеративная) митральная регургитация (МР) чаще всего вызвана:",
+    "optionsEn": {
+      "A": "Myxomatous change or chordal rupture.",
+      "B": "LV remodeling after MI.",
+      "C": "Dilated cardiomyopathy.",
+      "D": "Pulmonary hypertension."
+    },
+    "optionsRu": {
+      "A": "Миксоматозными изменениями или разрывом хорд.",
+      "B": "Ремоделированием ЛЖ после ИМ.",
+      "C": "Дилатационной кардиомиопатией.",
+      "D": "Легочной гипертензией."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "Primary MR involves the leaflets or chords directly, often due to myxomatous disease.",
+    "explanationRu": "Первичная МР связана с поражением створок или хорд, часто вследствие миксоматоза."
+  },
+  {
+    "id": 40,
+    "questionEn": "Stage C2 Primary MR is characterized as:",
+    "questionRu": "Первичная МР стадии C2 характеризуется как:",
+    "optionsEn": {
+      "A": "Symptomatic with EF 40%.",
+      "B": "Asymptomatic with EF ≤60% or LVESD ≥40 mm.",
+      "C": "Asymptomatic with EF 75% and LVESD 30 mm.",
+      "D": "Symptomatic with pulmonary edema."
+    },
+    "optionsRu": {
+      "A": "Симптомная с ФВ 40%.",
+      "B": "Бессимптомная с ФВ ≤60% или КСР ЛЖ ≥40 мм.",
+      "C": "Бессимптомная с ФВ 75% и КСР 30 мм.",
+      "D": "Симптомная с отеком легких."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Because MR 'unloads' the LV, a 'normal' EF of 60% actually indicates early systolic dysfunction in MR.",
+    "explanationRu": "Из‑за «разгрузки» ЛЖ при МР «нормальная» ФВ 60% на самом деле указывает на раннюю систолическую дисфункцию."
+  },
+  {
+    "id": 41,
+    "questionEn": "The COAPT trial showed that MitraClip reduces mortality in functional MR if:",
+    "questionRu": "Исследование COAPT показало, что MitraClip снижает летальность при функциональной МР, если:",
+    "optionsEn": {
+      "A": "LVEF is <20%.",
+      "B": "LVEF is 20–50% and LVESD <70 mm.",
+      "C": "The patient has primary MR only.",
+      "D": "The patient has not tried medical therapy."
+    },
+    "optionsRu": {
+      "A": "ФВ ЛЖ <20%.",
+      "B": "ФВ ЛЖ 20–50% и КСР ЛЖ <70 мм.",
+      "C": "У пациента только первичная МР.",
+      "D": "Пациент не пробовал медикаментозную терапию."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "COAPT criteria for benefit included persistent symptoms on GDMT with EF 20-50% and LVESD <70 mm.",
+    "explanationRu": "Критерии COAPT для пользы включали сохраняющиеся симптомы на фоне оптимизированной терапии, ФВ 20–50% и КСР ЛЖ <70 мм."
+  },
+  {
+    "id": 42,
+    "questionEn": "Why is replacement (MVR) sometimes superior to repair for severe *ischemic* MR?",
+    "questionRu": "Почему протезирование (МК) иногда превосходит пластику при тяжелой *ишемической* МР?",
+    "optionsEn": {
+      "A": "Better survival.",
+      "B": "Avoidance of the sternotomy.",
+      "C": "Significantly lower rate of recurrence at 2 years.",
+      "D": "No need for bypass."
+    },
+    "optionsRu": {
+      "A": "Лучшая выживаемость.",
+      "B": "Отказ от стернотомии.",
+      "C": "Значительно более низкая частота рецидивов через 2 года.",
+      "D": "Отсутствие необходимости в шунтировании."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The CTSN trial showed MVR had a 3% recurrence rate vs. 58% for repair in severe ischemic MR.",
+    "explanationRu": "Исследование CTSN показало, что при тяжелой ишемической МР частота рецидивов при протезировании составила 3% против 58% при пластике."
+  },
+  {
+    "id": 43,
+    "questionEn": "Ischemic MR involves which mechanism?",
+    "questionRu": "Ишемическая МР включает какой механизм?",
+    "optionsEn": {
+      "A": "Rheumatic thickening.",
+      "B": "Papillary muscle displacement and leaflet tethering.",
+      "C": "Bacterial vegetation.",
+      "D": "Congenital cleft."
+    },
+    "optionsRu": {
+      "A": "Ревматическое утолщение.",
+      "B": "Смещение папиллярных мышц и натяжение створок (tethering).",
+      "C": "Бактериальная вегетация.",
+      "D": "Врожденная расщелина."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Secondary MR in CAD is due to LV remodeling that pulls the papillary muscles, causing tethering.",
+    "explanationRu": "Вторичная МР при ИБС обусловлена ремоделированием ЛЖ, которое смещает папиллярные мышцы, вызывая натяжение створок."
+  },
+  {
+    "id": 44,
+    "questionEn": "What is the 'Alfieri stitch'?",
+    "questionRu": "Что такое «шов Альфьери»?",
+    "optionsEn": {
+      "A": "A way to bypass the LAD.",
+      "B": "The surgical precursor to MitraClip (edge-to-edge repair).",
+      "C": "A technique for aortic dissection.",
+      "D": "A suture for the tricuspid valve."
+    },
+    "optionsRu": {
+      "A": "Способ шунтирования ПМЖВ.",
+      "B": "Хирургический предшественник MitraClip (край-в-край пластика).",
+      "C": "Техника при расслоении аорты.",
+      "D": "Шов для трикуспидального клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Alfieri stitch creates an edge-to-edge approximation of the mitral leaflets, mimicking the MitraClip device.",
+    "explanationRu": "Шов Альфьери создает сведение краев митральных створок, имитируя устройство MitraClip."
+  },
+  {
+    "id": 45,
+    "questionEn": "Which procedure is indicated for a patient with persistent AF undergoing Mitral Valve surgery?",
+    "questionRu": "Какая процедура показана пациенту с персистирующей фибрилляцией предсердий, которому выполняется операция на митральном клапане?",
+    "optionsEn": {
+      "A": "Ross procedure.",
+      "B": "Maze procedure.",
+      "C": "TAVR.",
+      "D": "ICD placement."
+    },
+    "optionsRu": {
+      "A": "Операция Росса.",
+      "B": "Процедура Maze.",
+      "C": "TAVR.",
+      "D": "Имплантация ИКД."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A Maze procedure should be considered to ablate AF and restore sinus rhythm during concomitant heart surgery.",
+    "explanationRu": "Процедуру Maze следует рассмотреть для аблации ФП и восстановления синусового ритма при сопутствующей кардиохирургической операции."
+  },
+  {
+    "id": 46,
+    "questionEn": "Functional Tricuspid Regurgitation (TR) is most often a consequence of:",
+    "questionRu": "Функциональная трикуспидальная регургитация (ТР) чаще всего является следствием:",
+    "optionsEn": {
+      "A": "IV drug abuse.",
+      "B": "Rheumatic fever.",
+      "C": "Left-sided heart disease leading to Pulmonary Hypertension.",
+      "D": "Congenital defects."
+    },
+    "optionsRu": {
+      "A": "Внутривенного употребления наркотиков.",
+      "B": "Ревматической лихорадки.",
+      "C": "Патологии левых отделов сердца, ведущей к легочной гипертензии.",
+      "D": "Врожденных дефектов."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "80% of TR is functional, resulting from RV dilatation and annular stretch due to left-sided disease.",
+    "explanationRu": "80% ТР являются функциональными, возникая из‑за дилатации ПЖ и растяжения фиброзного кольца вследствие поражения левых отделов."
+  },
+  {
+    "id": 47,
+    "questionEn": "Tricuspid valve repair is recommended during left-sided surgery if the annulus is dilated to:",
+    "questionRu": "Пластика трикуспидального клапана рекомендуется во время операции на левых отделах, если фиброзное кольцо расширено до:",
+    "optionsEn": {
+      "A": ">20 mm.",
+      "B": ">30 mm.",
+      "C": ">40 mm.",
+      "D": "Only if the patient has heart failure."
+    },
+    "optionsRu": {
+      "A": ">20 мм.",
+      "B": ">30 мм.",
+      "C": ">40 мм.",
+      "D": "Только если у пациента сердечная недостаточность."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Dilatation >40 mm (or >21 mm/m²) is a Class IIa indication for repair, even if TR is mild.",
+    "explanationRu": "Расширение >40 мм (или >21 мм/м²) является показанием класса IIa к пластике, даже при легкой ТР."
+  },
+  {
+    "id": 48,
+    "questionEn": "Native Valve Endocarditis (NVE) is most commonly caused by:",
+    "questionRu": "Нативный инфекционный эндокардит (ИЭ) чаще всего вызывается:",
+    "optionsEn": {
+      "A": "E. coli.",
+      "B": "Staphylococcus aureus or Streptococcus viridans.",
+      "C": "Candida.",
+      "D": "Pseudomonas."
+    },
+    "optionsRu": {
+      "A": "E. coli.",
+      "B": "Staphylococcus aureus или Streptococcus viridans.",
+      "C": "Candida.",
+      "D": "Pseudomonas."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "These are the most common pathogens for NVE.",
+    "explanationRu": "Это наиболее частые возбудители нативного ИЭ."
+  },
+  {
+    "id": 49,
+    "questionEn": "Which is a Class I indication for urgent surgery in IE?",
+    "questionRu": "Какое показание является классом I для экстренной операции при ИЭ?",
+    "optionsEn": {
+      "A": "Single vegetation of 3 mm.",
+      "B": "Heart failure due to valve dysfunction.",
+      "C": "Fever for 24 hours.",
+      "D": "Controlled blood cultures."
+    },
+    "optionsRu": {
+      "A": "Одиночная вегетация 3 мм.",
+      "B": "Сердечная недостаточность из‑за дисфункции клапана.",
+      "C": "Лихорадка в течение 24 часов.",
+      "D": "Контролируемые гемокультуры."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Heart failure symptoms indicate severe hemodynamic compromise and mandate surgery.",
+    "explanationRu": "Симптомы сердечной недостаточности указывают на тяжелые гемодинамические нарушения и требуют операции."
+  },
+  {
+    "id": 50,
+    "questionEn": "If a patient with IE has an intracerebral hemorrhage, surgery should be delayed for:",
+    "questionRu": "Если у пациента с ИЭ произошло внутримозговое кровоизлияние, операцию следует отложить на:",
+    "optionsEn": {
+      "A": "24 hours.",
+      "B": "1 week.",
+      "C": "At least 4 weeks.",
+      "D": "1 year."
+    },
+    "optionsRu": {
+      "A": "24 часа.",
+      "B": "1 неделю.",
+      "C": "Не менее 4 недель.",
+      "D": "1 год."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Surgery should be delayed for 4 weeks to avoid exacerbating the bleed with bypass heparinization.",
+    "explanationRu": "Операцию следует отложить на 4 недели, чтобы не усугубить кровоизлияние гепаринизацией во время ИК."
+  },
+  {
+    "id": 51,
+    "questionEn": "Tricuspid Valve IE in IV drug users (IVDA) is primarily managed with:",
+    "questionRu": "Инфекционный эндокардит трикуспидального клапана у внутривенных наркоманов (ВВН) в первую очередь лечится:",
+    "optionsEn": {
+      "A": "Immediate TV replacement.",
+      "B": "Antibiotics (70–85% success).",
+      "C": "Valvectomy and no replacement.",
+      "D": "Heart transplant."
+    },
+    "optionsRu": {
+      "A": "Немедленным протезированием ТК.",
+      "B": "Антибиотиками (успех 70–85%).",
+      "C": "Вальвулэктомией без протезирования.",
+      "D": "Трансплантацией сердца."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Most IVDA patients with TVIE respond well to medical therapy; surgery is reserved for refractory cases.",
+    "explanationRu": "Большинство пациентов с ТК ИЭ на фоне ВВН хорошо отвечают на медикаментозную терапию; операция показана при рефрактерных случаях."
+  },
+  {
+    "id": 52,
+    "questionEn": "CDRIE involves infection of:",
+    "questionRu": "CDRIE (Cardiac Device-Related Infective Endocarditis) подразумевает инфекцию:",
+    "optionsEn": {
+      "A": "The coronary arteries.",
+      "B": "Pacemaker or defibrillator leads and devices.",
+      "C": "The ascending aorta.",
+      "D": "The brain."
+    },
+    "optionsRu": {
+      "A": "Коронарных артерий.",
+      "B": "Электродов и устройств кардиостимулятора или дефибриллятора.",
+      "C": "Восходящей аорты.",
+      "D": "Головного мозга."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "CDRIE refers to Cardiac Implantable Electronic Device-Related Infective Endocarditis.",
+    "explanationRu": "CDRIE — это инфекционный эндокардит, связанный с имплантируемыми электронными устройствами сердца."
+  },
+  {
+    "id": 53,
+    "questionEn": "Aortic valve homografts are often preferred for IE because:",
+    "questionRu": "Аортальные гомографты часто предпочтительны при ИЭ, потому что:",
+    "optionsEn": {
+      "A": "They are easy to implant.",
+      "B": "They are resistant to infection and adapt to disrupted tissue.",
+      "C": "They are mechanical and last forever.",
+      "D": "They do not require any surgery."
+    },
+    "optionsRu": {
+      "A": "Их легко имплантировать.",
+      "B": "Они устойчивы к инфекции и адаптируются к разрушенным тканям.",
+      "C": "Они механические и служат вечно.",
+      "D": "Они не требуют хирургического вмешательства."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Homografts are the valve of choice for root infections due to resistance and flexibility in damaged tissue.",
+    "explanationRu": "Гомографты — клапаны выбора при инфекции корня аорты благодаря устойчивости и гибкости в поврежденных тканях."
+  },
+  {
+    "id": 54,
+    "questionEn": "Hypertrophic Obstructive Cardiomyopathy (HOCM) LVOT obstruction is primarily caused by:",
+    "questionRu": "Обструкция выносящего тракта ЛЖ при гипертрофической обструктивной кардиомиопатии (ГОКМП) в первую очередь вызвана:",
+    "optionsEn": {
+      "A": "Aortic valve calcification.",
+      "B": "Systolic Anterior Motion (SAM) of the mitral valve.",
+      "C": "Right bundle branch block.",
+      "D": "Pericardial effusion."
+    },
+    "optionsRu": {
+      "A": "Кальцинозом аортального клапана.",
+      "B": "Систолическим передним движением (SAM) митрального клапана.",
+      "C": "Блокадой правой ножки пучка Гиса.",
+      "D": "Перикардиальным выпотом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "SAM involves the mitral valve moving toward the hypertrophied septum during systole, blocking the outflow.",
+    "explanationRu": "SAM — это движение митрального клапана к гипертрофированной перегородке во время систолы, что блокирует выносящий тракт."
+  },
+  {
+    "id": 55,
+    "questionEn": "The surgical treatment of choice for symptomatic HOCM is:",
+    "questionRu": "Хирургическим лечением выбора при симптомной ГОКМП является:",
+    "optionsEn": {
+      "A": "Mitral valve replacement.",
+      "B": "Septal Myectomy (extended).",
+      "C": "Alcohol septal ablation for all young patients.",
+      "D": "Heart transplant as first line."
+    },
+    "optionsRu": {
+      "A": "Протезирование митрального клапана.",
+      "B": "Септальная миоэктомия (расширенная).",
+      "C": "Алкогольная аблация перегородки для всех молодых пациентов.",
+      "D": "Трансплантация сердца как первая линия."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Septal myectomy is the preferred procedure, especially in younger patients, as it provides better gradient relief than ablation.",
+    "explanationRu": "Септальная миоэктомия — предпочтительная операция, особенно у молодых, так как обеспечивает лучшее устранение градиента, чем аблация."
+  },
+  {
+    "id": 56,
+    "questionEn": "Stanford Type A dissection involves:",
+    "questionRu": "Расслоение аорты типа A по Стэнфорду включает:",
+    "optionsEn": {
+      "A": "Only the descending aorta.",
+      "B": "The ascending aorta.",
+      "C": "The abdominal aorta only.",
+      "D": "The iliac arteries."
+    },
+    "optionsRu": {
+      "A": "Только нисходящую аорту.",
+      "B": "Восходящую аорту.",
+      "C": "Только брюшную аорту.",
+      "D": "Подвздошные артерии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Any dissection involving the ascending aorta is Type A.",
+    "explanationRu": "Любое расслоение, вовлекающее восходящую аорту, относится к типу А."
+  },
+  {
+    "id": 57,
+    "questionEn": "What is the most common cause of death in Type A dissection?",
+    "questionRu": "Какова наиболее частая причина смерти при расслоении типа А?",
+    "optionsEn": {
+      "A": "Stroke.",
+      "B": "Renal failure.",
+      "C": "Cardiac tamponade from hemopericardium.",
+      "D": "Leg ischemia."
+    },
+    "optionsRu": {
+      "A": "Инсульт.",
+      "B": "Почечная недостаточность.",
+      "C": "Тампонада сердца из‑за гемоперикарда.",
+      "D": "Ишемия ноги."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Rupture into the pericardial sac leading to tamponade is the leading cause of death.",
+    "explanationRu": "Разрыв в полость перикарда с развитием тампонады является ведущей причиной смерти."
+  },
+  {
+    "id": 58,
+    "questionEn": "What is the recommended target systolic BP for medical management of dissection?",
+    "questionRu": "Каков рекомендуемый целевой уровень систолического АД при медикаментозном лечении расслоения?",
+    "optionsEn": {
+      "A": "160 mm Hg.",
+      "B": "110 mm Hg.",
+      "C": "90 mm Hg.",
+      "D": "140 mm Hg."
+    },
+    "optionsRu": {
+      "A": "160 мм рт.ст.",
+      "B": "110 мм рт.ст.",
+      "C": "90 мм рт.ст.",
+      "D": "140 мм рт.ст."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Aggressive BP control (approx. 110 mm Hg) and HR control (60-70 bpm) are essential to prevent extension or rupture.",
+    "explanationRu": "Агрессивный контроль АД (около 110 мм рт.ст.) и ЧСС (60-70 уд/мин) необходимы для предотвращения распространения или разрыва."
+  },
+  {
+    "id": 59,
+    "questionEn": "Complicated Type B dissections are preferentially treated with:",
+    "questionRu": "Осложненные расслоения аорты типа B предпочтительно лечить с помощью:",
+    "optionsEn": {
+      "A": "Open surgery via thoracotomy.",
+      "B": "Medical therapy only.",
+      "C": "TEVAR (Thoracic Endovascular Aortic Repair).",
+      "D": "Carotid endarterectomy."
+    },
+    "optionsRu": {
+      "A": "Открытой операции через торакотомию.",
+      "B": "Только медикаментозной терапии.",
+      "C": "TEVAR (торакальное эндоваскулярное протезирование аорты).",
+      "D": "Каротидной эндартерэктомии."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "TEVAR is recommended for complicated Type B dissections due to lower morbidity than open surgery.",
+    "explanationRu": "TEVAR рекомендуется при осложненных расслоениях типа B из‑за меньшей заболеваемости по сравнению с открытой операцией."
+  },
+  {
+    "id": 60,
+    "questionEn": "Type A dissections always require emergency surgery unless:",
+    "questionRu": "Расслоения типа A всегда требуют экстренной операции, за исключением случаев:",
+    "optionsEn": {
+      "A": "The patient is <50 years old.",
+      "B": "There is a massive stroke or bowel infarction (prohibitive risk).",
+      "C": "The patient has hypertension.",
+      "D": "The patient has a bicuspid valve."
+    },
+    "optionsRu": {
+      "A": "Пациент младше 50 лет.",
+      "B": "Имеется массивный инсульт или инфаркт кишечника (неприемлемый риск).",
+      "C": "У пациента гипертензия.",
+      "D": "У пациента двустворчатый клапан."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Surgery is indicated for all Type A dissections unless the patient's condition (e.g., massive stroke) makes the risk prohibitive.",
+    "explanationRu": "Операция показана при всех расслоениях типа A, если только состояние пациента (например, массивный инсульт) не делает риск неприемлемым."
+  },
+  {
+    "id": 61,
+    "questionEn": "Prophylactic resection of the ascending aorta is generally indicated at a diameter of:",
+    "questionRu": "Профилактическая резекция восходящей аорты обычно показана при диаметре:",
+    "optionsEn": {
+      "A": "4.0 cm.",
+      "B": "5.0 cm.",
+      "C": "5.5 cm.",
+      "D": "7.0 cm."
+    },
+    "optionsRu": {
+      "A": "4,0 см.",
+      "B": "5,0 см.",
+      "C": "5,5 см.",
+      "D": "7,0 см."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "5.5 cm is the standard threshold for prophylactic resection in low-risk patients.",
+    "explanationRu": "5,5 см — стандартный порог для профилактической резекции у пациентов низкого риска."
+  },
+  {
+    "id": 62,
+    "questionEn": "In Marfan syndrome, the threshold for aortic resection is:",
+    "questionRu": "При синдроме Марфана порог для резекции аорты составляет:",
+    "optionsEn": {
+      "A": "5.5 cm.",
+      "B": "4.5 cm.",
+      "C": "4.0 cm.",
+      "D": "Only if symptoms occur."
+    },
+    "optionsRu": {
+      "A": "5,5 см.",
+      "B": "4,5 см.",
+      "C": "4,0 см.",
+      "D": "Только при появлении симптомов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Genetic disorders like Marfan have a lower threshold (4.5 cm) due to higher rupture risk.",
+    "explanationRu": "При генетических нарушениях, таких как синдром Марфана, порог ниже (4,5 см) из‑за более высокого риска разрыва."
+  },
+  {
+    "id": 63,
+    "questionEn": "The Aortic Height Index (AHI) refines risk by:",
+    "questionRu": "Индекс отношения диаметра аорты к росту (AHI) уточняет риск путем:",
+    "optionsEn": {
+      "A": "Ignoring height and using only weight.",
+      "B": "Dividing aortic size (cm) by height (m).",
+      "C": "Measuring the length of the legs.",
+      "D": "Using only the patient's age."
+    },
+    "optionsRu": {
+      "A": "Игнорирования роста и использования только веса.",
+      "B": "Деления размера аорты (см) на рост (м).",
+      "C": "Измерения длины ног.",
+      "D": "Использования только возраста пациента."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "AHI (Size/Height) better correlates with adverse events; AHI >2.43 cm/m is a risk marker.",
+    "explanationRu": "AHI (размер/рост) лучше коррелирует с неблагоприятными событиями; AHI >2,43 см/м является маркером риска."
+  },
+  {
+    "id": 64,
+    "questionEn": "Deep Hypothermic Circulatory Arrest (DHCA) involves cooling the patient to:",
+    "questionRu": "Глубокая гипотермическая остановка кровообращения (ГГОК) подразумевает охлаждение пациента до:",
+    "optionsEn": {
+      "A": "32 °C.",
+      "B": "28 °C.",
+      "C": "18–20 °C.",
+      "D": "10 °C."
+    },
+    "optionsRu": {
+      "A": "32 °C.",
+      "B": "28 °C.",
+      "C": "18–20 °C.",
+      "D": "10 °C."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Cooling to 18–20 °C provides about 45 minutes of safe arrest with EEG silence.",
+    "explanationRu": "Охлаждение до 18–20 °C обеспечивает около 45 минут безопасной остановки с электроэнцефалографическим молчанием."
+  },
+  {
+    "id": 65,
+    "questionEn": "Which adjunct improves cerebral protection during DHCA?",
+    "questionRu": "Какое дополнительное вмешательство улучшает церебральную защиту во время ГГОК?",
+    "optionsEn": {
+      "A": "Metoprolol.",
+      "B": "Antegrade Cerebral Perfusion (ACP).",
+      "C": "Aspirin.",
+      "D": "Intravenous Vitamin C."
+    },
+    "optionsRu": {
+      "A": "Метопролол.",
+      "B": "Антеградная церебральная перфузия (АЦП).",
+      "C": "Аспирин.",
+      "D": "Внутривенный витамин C."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "ACP (via axillary artery) provides brain blood flow during arrest, reducing neurologic risk.",
+    "explanationRu": "АЦП (через подмышечную артерию) обеспечивает кровоток мозга во время остановки, снижая неврологический риск."
+  },
+  {
+    "id": 66,
+    "questionEn": "The Maze procedure was originally designed by:",
+    "questionRu": "Процедура Maze была первоначально разработана:",
+    "optionsEn": {
+      "A": "Robert Bojar.",
+      "B": "James Cox.",
+      "C": "Alfieri.",
+      "D": "David."
+    },
+    "optionsRu": {
+      "A": "Робертом Боджаром.",
+      "B": "Джеймсом Коксом.",
+      "C": "Альфьери.",
+      "D": "Дэвидом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "James Cox designed the technically complex 'cut-and-sew' Maze procedure in 1987.",
+    "explanationRu": "Джеймс Кокс разработал технически сложную процедуру Maze «cut-and-sew» в 1987 году."
+  },
+  {
+    "id": 67,
+    "questionEn": "Left Atrial Appendage (LAA) exclusion primarily reduces the risk of:",
+    "questionRu": "Исключение ушка левого предсердия (УЛП) в первую очередь снижает риск:",
+    "optionsEn": {
+      "A": "Mitral stenosis.",
+      "B": "Thromboembolic stroke.",
+      "C": "Aortic dissection.",
+      "D": "Hypertension."
+    },
+    "optionsRu": {
+      "A": "Митрального стеноза.",
+      "B": "Тромбоэмболического инсульта.",
+      "C": "Расслоения аорты.",
+      "D": "Гипертензии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The LAA is the source of thrombus in AF; its exclusion reduces stroke risk by >50%.",
+    "explanationRu": "УЛП является источником тромбов при ФП; его исключение снижает риск инсульта более чем на 50%."
+  },
+  {
+    "id": 68,
+    "questionEn": "The Watchman device is used to:",
+    "questionRu": "Устройство Watchman используется для:",
+    "optionsEn": {
+      "A": "Bypass the LAD.",
+      "B": "Exclude the LAA percutaneously.",
+      "C": "Replace the aortic valve.",
+      "D": "Pace the heart."
+    },
+    "optionsRu": {
+      "A": "Шунтирования ПМЖВ.",
+      "B": "Чрескожного исключения УЛП.",
+      "C": "Протезирования аортального клапана.",
+      "D": "Электрокардиостимуляции."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Watchman is a transcatheter device positioned at the LAA orifice.",
+    "explanationRu": "Watchman — это транскатетерное устройство, устанавливаемое в устье УЛП."
+  },
+  {
+    "id": 69,
+    "questionEn": "NYHA Class IV Heart Failure is defined as:",
+    "questionRu": "Сердечная недостаточность IV функционального класса NYHA определяется как:",
+    "optionsEn": {
+      "A": "No limitations of physical activity.",
+      "B": "Symptoms at rest.",
+      "C": "Symptoms only with heavy lifting.",
+      "D": "Symptoms that occur with walking one block."
+    },
+    "optionsRu": {
+      "A": "Отсутствие ограничений физической активности.",
+      "B": "Симптомы в покое.",
+      "C": "Симптомы только при тяжелой физической нагрузке.",
+      "D": "Симптомы, возникающие при ходьбе на один квартал."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "NYHA IV indicates the inability to carry out physical activity without discomfort; symptoms may be present at rest.",
+    "explanationRu": "NYHA IV означает неспособность выполнять физическую активность без дискомфорта; симптомы могут присутствовать в покое."
+  },
+  {
+    "id": 70,
+    "questionEn": "Cardiac Resynchronization Therapy (CRT) is indicated for Stage C HF with:",
+    "questionRu": "Сердечная ресинхронизирующая терапия (СРТ) показана при сердечной недостаточности стадии C с:",
+    "optionsEn": {
+      "A": "EF >50%.",
+      "B": "EF ≤35% and QRS duration >150 ms with LBBB.",
+      "C": "EF 10% and normal QRS.",
+      "D": "Only if the patient has a valve replacement."
+    },
+    "optionsRu": {
+      "A": "ФВ >50%.",
+      "B": "ФВ ≤35% и длительностью QRS >150 мс с блокадой левой ножки пучка Гиса.",
+      "C": "ФВ 10% и нормальным QRS.",
+      "D": "Только если пациенту выполнено протезирование клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "CRT improves symptoms and reverse remodeling in patients with dyssynchrony (wide QRS).",
+    "explanationRu": "СРТ улучшает симптомы и обратное ремоделирование у пациентов с диссинхронией (широкий QRS)."
+  },
+  {
+    "id": 71,
+    "questionEn": "INTERMACS Profile 1 ('Crash and Burn') represents:",
+    "questionRu": "Профиль INTERMACS 1 («Крушение и сгорание») представляет:",
+    "optionsEn": {
+      "A": "Stable on oral meds.",
+      "B": "Exercise intolerance.",
+      "C": "Cardiogenic shock requiring immediate MCS.",
+      "D": "Frequent flyer with recurrent HF."
+    },
+    "optionsRu": {
+      "A": "Стабильность на пероральных препаратах.",
+      "B": "Непереносимость физических нагрузок.",
+      "C": "Кардиогенный шок, требующий немедленной механической поддержки кровообращения (МПК).",
+      "D": "Частые госпитализации с рецидивирующей СН."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "INTERMACS 1 is the most critical profile, requiring MCS within hours.",
+    "explanationRu": "INTERMACS 1 — самый критический профиль, требующий МПК в течение нескольких часов."
+  },
+  {
+    "id": 72,
+    "questionEn": "Pericardial Constriction can be distinguished from Restriction by:",
+    "questionRu": "Констриктивный перикардит можно отличить от рестриктивной кардиомиопатии по:",
+    "optionsEn": {
+      "A": "Presence of septal bounce and respirophasic flow variations on Echo.",
+      "B": "Presence of hypertension.",
+      "C": "LVEF of 10%.",
+      "D": "Presence of a bicuspid valve."
+    },
+    "optionsRu": {
+      "A": "Наличию систолического «прыжка» перегородки и респираторных изменений потока на ЭхоКГ.",
+      "B": "Наличию гипертензии.",
+      "C": "ФВ ЛЖ 10%.",
+      "D": "Наличию двустворчатого клапана."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "Septal bounce and respiratory variation of flow are hallmark Echo findings of constriction but not restriction.",
+    "explanationRu": "Систолическое движение перегородки и респираторные изменения потока — характерные ЭхоКГ-признаки констрикции, но не рестрикции."
+  },
+  {
+    "id": 73,
+    "questionEn": "The 'Square-root sign' on RV pressure tracings indicates:",
+    "questionRu": "«Симптом квадратного корня» на кривой давления в правом желудочке указывает на:",
+    "optionsEn": {
+      "A": "Aortic Stenosis.",
+      "B": "Constrictive Pericarditis.",
+      "C": "Mitral Regurgitation.",
+      "D": "Left Ventricular Aneurysm."
+    },
+    "optionsRu": {
+      "A": "Аортальный стеноз.",
+      "B": "Констриктивный перикардит.",
+      "C": "Митральную регургитацию.",
+      "D": "Аневризму левого желудочка."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This 'dip-and-plateau' pattern results from truncated diastolic filling due to a rigid pericardium.",
+    "explanationRu": "Этот паттерн «dip-and-plateau» (провал-плато) возникает из‑за укороченного диастолического наполнения из‑за ригидного перикарда."
+  },
+  {
+    "id": 74,
+    "questionEn": "The safest surgical approach for draining a large malignant pericardial effusion is:",
+    "questionRu": "Наиболее безопасный хирургический доступ для дренирования большого злокачественного перикардиального выпота:",
+    "optionsEn": {
+      "A": "Full median sternotomy.",
+      "B": "Subxiphoid pericardiostomy.",
+      "C": "Right thoracotomy.",
+      "D": "Robotic-assisted bypass."
+    },
+    "optionsRu": {
+      "A": "Полная срединная стернотомия.",
+      "B": "Субксифоидальная перикардиостомия.",
+      "C": "Правосторонняя торакотомия.",
+      "D": "Роботизированное шунтирование."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Subxiphoid drainage is the safest in unstable patients and ideal for limited-lifespan malignancy cases.",
+    "explanationRu": "Субксифоидальное дренирование наиболее безопасно у нестабильных пациентов и идеально при злокачественных новообразованиях с ограниченной продолжительностью жизни."
+  },
+  {
+    "id": 75,
+    "questionEn": "A Patent Foramen Ovale (PFO) is present in what percentage of the general population?",
+    "questionRu": "Открытое овальное окно (ООО) присутствует у какого процента населения в целом?",
+    "optionsEn": {
+      "A": "1%",
+      "B": "10%",
+      "C": "25%",
+      "D": "50%"
+    },
+    "optionsRu": {
+      "A": "1%",
+      "B": "10%",
+      "C": "25%",
+      "D": "50%"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Approximately 25% of the population has a PFO.",
+    "explanationRu": "Примерно 25% населения имеют ООО."
+  },
+  {
+    "id": 76,
+    "questionEn": "Which condition is associated with Platypnea-Orthodeoxia syndrome?",
+    "questionRu": "Какое состояние связано с синдромом платипноэ-ортоодеоксии?",
+    "optionsEn": {
+      "A": "Aortic Stenosis.",
+      "B": "PFO (right-to-left shunting).",
+      "C": "HOCM.",
+      "D": "Mitral Stenosis."
+    },
+    "optionsRu": {
+      "A": "Аортальный стеноз.",
+      "B": "ООО (право-левый шунт).",
+      "C": "ГОКМП.",
+      "D": "Митральный стеноз."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This syndrome involves dyspnea and deoxygenation when upright, caused by positional shunting through a PFO.",
+    "explanationRu": "Этот синдром включает одышку и дезоксигенацию в вертикальном положении, вызванные позиционным шунтом через ООО."
+  },
+  {
+    "id": 77,
+    "questionEn": "In the repair of a Type A dissection, why might CPB be initiated *before* opening the pericardium?",
+    "questionRu": "При реконструкции расслоения аорты типа А почему может быть начато ИК *до* вскрытия перикарда?",
+    "optionsEn": {
+      "A": "To save time.",
+      "B": "To avoid free rupture and exsanguination if tamponade is released.",
+      "C": "To cool the patient faster.",
+      "D": "It is never done."
+    },
+    "optionsRu": {
+      "A": "Для экономии времени.",
+      "B": "Чтобы избежать свободного разрыва и обескровливания при ликвидации тампонады.",
+      "C": "Чтобы быстрее охладить пациента.",
+      "D": "Так никогда не делают."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "If tamponade is present, opening the pericardium removes the pressure holding back the aortic leak; pre-emptive CPB ensures control.",
+    "explanationRu": "При наличии тампонады вскрытие перикарда убирает давление, сдерживающее утечку из аорты; упреждающее ИК позволяет взять ситуацию под контроль."
+  },
+  {
+    "id": 78,
+    "questionEn": "What is the 'elephant trunk' procedure?",
+    "questionRu": "Что такое процедура «хобот слона»?",
+    "optionsEn": {
+      "A": "A way to repair the mitral valve.",
+      "B": "Leaving graft material dangling from the arch for future descending surgery.",
+      "C": "A type of pediatric heart surgery.",
+      "D": "A bypass for the iliac arteries."
+    },
+    "optionsRu": {
+      "A": "Способ пластики митрального клапана.",
+      "B": "Оставление свисающего протезного материала из дуги аорты для будущей операции на нисходящем отделе.",
+      "C": "Тип детской кардиохирургии.",
+      "D": "Шунтирование подвздошных артерий."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The 'elephant trunk' allows for easier subsequent stage-two surgery via the left chest.",
+    "explanationRu": "«Хобот слона» облегчает последующую операцию второго этапа через левую половину грудной клетки."
+  },
+  {
+    "id": 79,
+    "questionEn": "For HOCM patients, alcohol septal ablation produces an infarct in which branch?",
+    "questionRu": "У пациентов с ГОКМП алкогольная аблация перегородки вызывает инфаркт в какой ветви?",
+    "optionsEn": {
+      "A": "Circumflex.",
+      "B": "First septal perforator of the LAD.",
+      "C": "PDA.",
+      "D": "Right coronary artery."
+    },
+    "optionsRu": {
+      "A": "Огибающей артерии.",
+      "B": "Первой перегородочной ветви ПМЖВ.",
+      "C": "Задней нисходящей артерии (ЗНА).",
+      "D": "Правой коронарной артерии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Targeted infarction of the upper septum enlarges the LVOT and reduces SAM.",
+    "explanationRu": "Целенаправленный инфаркт верхней части перегородки расширяет выносящий тракт ЛЖ и уменьшает SAM."
+  },
+  {
+    "id": 80,
+    "questionEn": "Prophylactic PFO closure is NOT recommended in asymptomatic patients because:",
+    "questionRu": "Профилактическое закрытие ООО не рекомендуется бессимптомным пациентам, потому что:",
+    "optionsEn": {
+      "A": "It is too dangerous.",
+      "B": "As an isolated entity, it is not an independent risk factor for stroke.",
+      "C": "It causes hypertension.",
+      "D": "It prevents migraine relief."
+    },
+    "optionsRu": {
+      "A": "Это слишком опасно.",
+      "B": "Как изолированная находка, оно не является независимым фактором риска инсульта.",
+      "C": "Оно вызывает гипертензию.",
+      "D": "Оно препятствует облегчению мигрени."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Without a prior cryptogenic event, the risks of the procedure outweigh the unproven benefits.",
+    "explanationRu": "При отсутствии предшествующего криптогенного события риски процедуры перевешивают недоказанную пользу."
+  },
+  {
+    "id": 81,
+    "questionEn": "Which score calculates the comparative 4-year survival rates for PCI and CABG?",
+    "questionRu": "Какая шкала рассчитывает сравнительные 4-летние показатели выживаемости при ЧКВ и КШ?",
+    "optionsEn": {
+      "A": "STS Score.",
+      "B": "SYNTAX II.",
+      "C": "Duke Criteria.",
+      "D": "NYHA Class."
+    },
+    "optionsRu": {
+      "A": "Шкала STS.",
+      "B": "SYNTAX II.",
+      "C": "Критерии Дьюка.",
+      "D": "Функциональный класс NYHA."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The SYNTAX II tool specifically estimates survival difference between the two modalities.",
+    "explanationRu": "Инструмент SYNTAX II специально оценивает разницу в выживаемости между двумя методами."
+  },
+  {
+    "id": 82,
+    "questionEn": "In SIHD, FFR (Fractional Flow Reserve) guided PCI is superior to:",
+    "questionRu": "При стабильной ИБС ЧКВ под контролем ФРК (фракционный резерв кровотока) превосходит:",
+    "optionsEn": {
+      "A": "Medical therapy.",
+      "B": "Anatomy-guided PCI.",
+      "C": "CABG.",
+      "D": "Nothing."
+    },
+    "optionsRu": {
+      "A": "Медикаментозную терапию.",
+      "B": "ЧКВ, основанное только на анатомии.",
+      "C": "КШ.",
+      "D": "Ничего."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Studies show FFR-guided PCI reduces the need for urgent revascularization compared to anatomical assessment alone.",
+    "explanationRu": "Исследования показывают, что ЧКВ под контролем ФРК снижает потребность в экстренной реваскуляризации по сравнению с только анатомической оценкой."
+  },
+  {
+    "id": 83,
+    "questionEn": "'Door-to-balloon' time for primary PCI in STEMI should be:",
+    "questionRu": "Время «от дверей до баллона» при первичном ЧКВ при ИМпST должно составлять:",
+    "optionsEn": {
+      "A": "<30 minutes.",
+      "B": "<90 minutes.",
+      "C": "<6 hours.",
+      "D": "<24 hours."
+    },
+    "optionsRu": {
+      "A": "<30 минут.",
+      "B": "<90 минут.",
+      "C": "<6 часов.",
+      "D": "<24 часов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Best results in STEMI ('time is myocardium') are achieved within 90 minutes.",
+    "explanationRu": "Наилучшие результаты при ИМпST («время — миокард») достигаются в пределах 90 минут."
+  },
+  {
+    "id": 84,
+    "questionEn": "Why is Heparin continued up to the time of surgery in high-risk ischemic patients?",
+    "questionRu": "Почему гепарин продолжают вплоть до операции у пациентов высокого ишемического риска?",
+    "optionsEn": {
+      "A": "It makes the surgery easier.",
+      "B": "To prevent ischemic events without causing central line insertion problems.",
+      "C": "To reduce the cost of the surgery.",
+      "D": "It is an ACC Class III recommendation."
+    },
+    "optionsRu": {
+      "A": "Это облегчает операцию.",
+      "B": "Для предотвращения ишемических событий без проблем, связанных с установкой центрального катетера.",
+      "C": "Для снижения стоимости операции.",
+      "D": "Это рекомендация класса III ACC."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For high-risk anatomy like left main disease, UFH can be continued to maintain stability until the operation.",
+    "explanationRu": "При анатомии высокого риска, например, стенозе ствола ЛКА, нефракционированный гепарин можно продолжать для поддержания стабильности до операции."
+  },
+  {
+    "id": 85,
+    "questionEn": "'Hospital-acquired anemia' is often caused by:",
+    "questionRu": "«Госпитальная анемия» часто вызвана:",
+    "optionsEn": {
+      "A": "Bad hospital food.",
+      "B": "Repeated blood withdrawal for lab tests and loss during catheterization.",
+      "C": "Use of Beta-blockers.",
+      "D": "Lack of sunlight in the ICU."
+    },
+    "optionsRu": {
+      "A": "Плохой больничной едой.",
+      "B": "Повторными заборами крови для анализов и кровопотерей во время катетеризации.",
+      "C": "Применением бета-блокаторов.",
+      "D": "Недостатком солнечного света в реанимации."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Frequent labs and procedural losses contribute to anemia in hospitalized cardiac patients.",
+    "explanationRu": "Частые лабораторные заборы и процедурные потери способствуют анемии у госпитализированных кардиологических пациентов."
+  },
+  {
+    "id": 86,
+    "questionEn": "Myocardial wall tension is reduced by Ranolazine by inhibiting:",
+    "questionRu": "Ранолазин снижает напряжение стенки миокарда, ингибируя:",
+    "optionsEn": {
+      "A": "Potassium channels.",
+      "B": "Inward sodium currents.",
+      "C": "Beta-receptors.",
+      "D": "Calcium entry during diastole."
+    },
+    "optionsRu": {
+      "A": "Калиевые каналы.",
+      "B": "Входящие натриевые токи.",
+      "C": "Бета-рецепторы.",
+      "D": "Вход кальция во время диастолы."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Sodium inhibition leads to lower intracellular calcium and reduced tension.",
+    "explanationRu": "Ингибирование натрия приводит к снижению внутриклеточного кальция и уменьшению напряжения."
+  },
+  {
+    "id": 87,
+    "questionEn": "LV aneurysm presentation is most commonly:",
+    "questionRu": "Аневризма ЛЖ чаще всего проявляется:",
+    "optionsEn": {
+      "A": "Acute bleeding.",
+      "B": "Heart failure due to systolic dysfunction.",
+      "C": "Instant death in 100% of cases.",
+      "D": "Pulmonary embolism."
+    },
+    "optionsRu": {
+      "A": "Острым кровотечением.",
+      "B": "Сердечной недостаточностью из‑за систолической дисфункции.",
+      "C": "Мгновенной смертью в 100% случаев.",
+      "D": "Тромбоэмболией легочной артерии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Systolic dysfunction from the akinetic/dyskinetic segment leads to HF.",
+    "explanationRu": "Систолическая дисфункция из‑за акинетического/дискинетического сегмента приводит к сердечной недостаточности."
+  },
+  {
+    "id": 88,
+    "questionEn": "The most common causing organisms for CDRIE are:",
+    "questionRu": "Наиболее частые возбудители CDRIE:",
+    "optionsEn": {
+      "A": "Fungi.",
+      "B": "Staphylococcal organisms.",
+      "C": "E. coli.",
+      "D": "Viruses."
+    },
+    "optionsRu": {
+      "A": "Грибы.",
+      "B": "Стафилококки.",
+      "C": "E. coli.",
+      "D": "Вирусы."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Staph organisms are the primary cause of device-related IE.",
+    "explanationRu": "Стафилококки являются основной причиной ИЭ, связанного с устройствами."
+  },
+  {
+    "id": 89,
+    "questionEn": "'Square-root sign' on RV tracing is synonymous with:",
+    "questionRu": "«Симптом квадратного корня» на кривой давления в ПЖ является синонимом:",
+    "optionsEn": {
+      "A": "Tamponade.",
+      "B": "Dip-and-plateau pattern.",
+      "C": "Normal heart.",
+      "D": "Bicuspid valve."
+    },
+    "optionsRu": {
+      "A": "Тампонады.",
+      "B": "Паттерна «провал-плато».",
+      "C": "Нормального сердца.",
+      "D": "Двустворчатого клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "It describes the rapid early filling followed by an abrupt stop in filling.",
+    "explanationRu": "Он описывает быстрое раннее наполнение с последующей внезапной остановкой наполнения."
+  },
+  {
+    "id": 90,
+    "questionEn": "Which scoring system estimates the 14-day risk of death or MI in NSTEMI?",
+    "questionRu": "Какая шкала оценивает 14-дневный риск смерти или инфаркта при НSTIM (нестабильной стенокардии/ИМ без подъема ST)?",
+    "optionsEn": {
+      "A": "GRACE.",
+      "B": "TIMI.",
+      "C": "SYNTAX.",
+      "D": "STS."
+    },
+    "optionsRu": {
+      "A": "GRACE.",
+      "B": "TIMI.",
+      "C": "SYNTAX.",
+      "D": "STS."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The TIMI score provides this specific short-term prognostic estimate.",
+    "explanationRu": "Шкала TIMI дает эту конкретную краткосрочную прогностическую оценку."
+  },
+  {
+    "id": 91,
+    "questionEn": "Surgical treatment for HOCM includes plicating which structure if redundant?",
+    "questionRu": "Хирургическое лечение ГОКМП включает пликацию какой структуры при ее избыточности?",
+    "optionsEn": {
+      "A": "Aorta.",
+      "B": "Anterior Mitral Leaflet (AML).",
+      "C": "Septum.",
+      "D": "Left atrium."
+    },
+    "optionsRu": {
+      "A": "Аорты.",
+      "B": "Передней митральной створки (ПМС).",
+      "C": "Перегородки.",
+      "D": "Левого предсердия."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "AML plication reduces redundancy that contributes to SAM.",
+    "explanationRu": "Пликация ПМС уменьшает избыточность ткани, способствующую SAM."
+  },
+  {
+    "id": 92,
+    "questionEn": "DHCA should ideally provide how many minutes of safe arrest?",
+    "questionRu": "ГГОК в идеале должна обеспечивать сколько минут безопасной остановки?",
+    "optionsEn": {
+      "A": "10 minutes.",
+      "B": "45 minutes.",
+      "C": "4 hours.",
+      "D": "24 hours."
+    },
+    "optionsRu": {
+      "A": "10 минут.",
+      "B": "45 минут.",
+      "C": "4 часа.",
+      "D": "24 часа."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "45 minutes is the standard safe window at 18–20 °C.",
+    "explanationRu": "45 минут — стандартное безопасное окно при 18–20 °C."
+  },
+  {
+    "id": 93,
+    "questionEn": "Transcatheter 'valve-in-valve' procedures are used for:",
+    "questionRu": "Транскатетерные процедуры «клапан в клапан» используются для:",
+    "optionsEn": {
+      "A": "Native valves only.",
+      "B": "Failing bioprosthetic valves.",
+      "C": "Mechanical valves.",
+      "D": "PFO closure."
+    },
+    "optionsRu": {
+      "A": "Только нативных клапанов.",
+      "B": "Несостоятельных биопротезов.",
+      "C": "Механических клапанов.",
+      "D": "Закрытия ООО."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "TAVR devices can be placed inside old, failing tissue valves.",
+    "explanationRu": "Устройства TAVR могут быть установлены внутрь старых несостоятельных тканевых клапанов."
+  },
+  {
+    "id": 94,
+    "questionEn": "'Box lesion' is part of which procedure?",
+    "questionRu": "«Коробчатое поражение» (box lesion) является частью какой процедуры?",
+    "optionsEn": {
+      "A": "Bentall.",
+      "B": "Left atrial Maze.",
+      "C": "Ross.",
+      "D": "Coronary bypass."
+    },
+    "optionsRu": {
+      "A": "Бенталла.",
+      "B": "Maze на левом предсердии.",
+      "C": "Росса.",
+      "D": "Коронарного шунтирования."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The box lesion encircles and connects the pulmonary veins in the LA Maze.",
+    "explanationRu": "«Коробчатое поражение» охватывает и соединяет легочные вены при Maze на левом предсердии."
+  },
+  {
+    "id": 95,
+    "questionEn": "Aortic Height Index >2.43 indicates:",
+    "questionRu": "Индекс отношения диаметра аорты к росту (AHI) >2,43 указывает на:",
+    "optionsEn": {
+      "A": "Low risk.",
+      "B": "Higher risk for adverse aortic events.",
+      "C": "The patient is too tall for surgery.",
+      "D": "Normal heart."
+    },
+    "optionsRu": {
+      "A": "Низкий риск.",
+      "B": "Более высокий риск неблагоприятных аортальных событий.",
+      "C": "Пациент слишком высок для операции.",
+      "D": "Нормальное сердце."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This ratio is a metric for high-risk aneurysm size.",
+    "explanationRu": "Этот показатель является метрикой для размера аневризмы высокого риска."
+  },
+  {
+    "id": 96,
+    "questionEn": "A key disadvantage of PMBV compared to open surgery is:",
+    "questionRu": "Ключевым недостатком ПБМВ по сравнению с открытой операцией является:",
+    "optionsEn": {
+      "A": "It costs more.",
+      "B": "It cannot be done in pregnancy.",
+      "C": "It has higher recurrence if anatomy is suboptimal.",
+      "D": "It requires 1 month of recovery."
+    },
+    "optionsRu": {
+      "A": "Более высокая стоимость.",
+      "B": "Невозможность выполнения при беременности.",
+      "C": "Более высокая частота рецидивов при неоптимальной анатомии.",
+      "D": "Необходимость восстановления в течение 1 месяца."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Suboptimal anatomy (high echo score) leads to poorer results than surgery.",
+    "explanationRu": "Неоптимальная анатомия (высокий эхо-счет) приводит к худшим результатам, чем операция."
+  },
+  {
+    "id": 97,
+    "questionEn": "INTERMACS Profile 3 ('Dependent Stability') means the patient is:",
+    "questionRu": "Профиль INTERMACS 3 («Зависимая стабильность») означает, что пациент:",
+    "optionsEn": {
+      "A": "In cardiogenic shock.",
+      "B": "Stable but dependent on inotropic support.",
+      "C": "Exercising regularly.",
+      "D": "Ready for discharge."
+    },
+    "optionsRu": {
+      "A": "В кардиогенном шоке.",
+      "B": "Стабилен, но зависим от инотропной поддержки.",
+      "C": "Регулярно занимается физкультурой.",
+      "D": "Готов к выписке."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Profile 3 patients are stable but cannot be weaned from inotropes.",
+    "explanationRu": "Пациенты профиля 3 стабильны, но не могут быть отлучены от инотропов."
+  },
+  {
+    "id": 98,
+    "questionEn": "Secondary (Functional) MR is a problem of:",
+    "questionRu": "Вторичная (функциональная) МР — это проблема:",
+    "optionsEn": {
+      "A": "The valve leaflets themselves.",
+      "B": "The ventricle (remodeling and tethering).",
+      "C": "Bacteria.",
+      "D": "Rheumatic fever."
+    },
+    "optionsRu": {
+      "A": "Самостоятельно створок клапана.",
+      "B": "Желудочка (ремоделирование и натяжение).",
+      "C": "Бактерий.",
+      "D": "Ревматической лихорадки."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The valve is usually normal, but the ventricle's shape pulls it open.",
+    "explanationRu": "Клапан обычно нормальный, но форма желудочка растягивает его, вызывая регургитацию."
+  },
+  {
+    "id": 99,
+    "questionEn": "DHCA core temperature should be at which level for EEG silence?",
+    "questionRu": "Центральная температура при ГГОК должна достигать какого уровня для электроэнцефалографического молчания?",
+    "optionsEn": {
+      "A": "37 °C.",
+      "B": "18–20 °C.",
+      "C": "0 °C.",
+      "D": "32 °C."
+    },
+    "optionsRu": {
+      "A": "37 °C.",
+      "B": "18–20 °C.",
+      "C": "0 °C.",
+      "D": "32 °C."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "EEG silence occurs at 18-20°C, ensuring brain protection.",
+    "explanationRu": "ЭЭГ-молчание наступает при 18-20°C, обеспечивая защиту мозга."
+  },
+  {
+    "id": 100,
+    "questionEn": "For Type B dissections, open surgery risk for paraplegia is high because:",
+    "questionRu": "При расслоениях типа B риск параплегии при открытой операции высок, потому что:",
+    "optionsEn": {
+      "A": "The surgeon is tired.",
+      "B": "Less collateral flow is present compared to chronic aneurysms.",
+      "C": "The brain stops working.",
+      "D": "Hypertension prevents it."
+    },
+    "optionsRu": {
+      "A": "Хирург устал.",
+      "B": "Коллатеральный кровоток меньше по сравнению с хроническими аневризмами.",
+      "C": "Мозг перестает работать.",
+      "D": "Гипертензия препятствует этому."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Acute dissection disrupts the spinal blood supply, and there is no time for collateral development.",
+    "explanationRu": "Острое расслоение нарушает кровоснабжение спинного мозга, и нет времени для развития коллатералей."
+  }
+]

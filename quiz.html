@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Quiz Mode - Starley CS Library</title>
-    <link rel="stylesheet" href="assets/css/quiz.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/quiz.css?v=1.1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body class="quiz-body">
@@ -17,11 +17,22 @@
             </header>
             <div class="lobby-content">
                 <div class="lobby-card">
+                    <h3>Select Language</h3>
+                    <div class="settings-row" style="margin-bottom: 0;">
+                        <div class="lang-selector">
+                            <button id="btn-lang-en" class="lang-btn active" data-lang="En">EN <span class="font-tag">English</span></button>
+                            <button id="btn-lang-ru" class="lang-btn" data-lang="Ru">RU <span class="font-tag">Русский</span></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lobby-card">
                     <h3>Select Question Set</h3>
                     <div id="quiz-set-list" class="quiz-set-grid">
                         <!-- Dynamic sets -->
                     </div>
                 </div>
+
                 <div class="lobby-card">
                     <h3>Session Settings</h3>
                     <div class="settings-group">
@@ -53,10 +64,8 @@
             </header>
             
             <div class="question-container">
-                <div class="question-meta">
-                    <span id="q-chapter" class="q-tag tag-chapter"></span>
-                    <span id="q-difficulty" class="q-tag tag-diff"></span>
-                    <div id="q-tags" class="q-tags-list"></div>
+                <div class="question-meta" style="display:none">
+                    <!-- Legacy meta hidden for now -->
                 </div>
                 
                 <div id="q-text" class="question-text"></div>
@@ -66,10 +75,14 @@
                 </div>
 
                 <div id="q-explanation" class="explanation-box" style="display:none">
-                    <div class="exp-header"><i class="fas fa-lightbulb"></i> Clinical Explanation</div>
+                    <div class="exp-header"><i class="fas fa-lightbulb"></i> <span id="exp-title-text">Clinical Explanation</span></div>
                     <div id="exp-text" class="exp-content"></div>
+                    <div id="exp-chapter-select" class="exp-chapter-picker" style="display:none">
+                        <p id="exp-picker-label">Select chapter to open:</p>
+                        <div id="exp-chapter-list" class="chapter-links-grid"></div>
+                    </div>
                     <div class="exp-actions">
-                        <button id="btn-open-reader" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
+                        <button id="btn-open-reader-main" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
                         <button id="btn-next-q" class="btn-primary">Next Question <i class="fas fa-chevron-right"></i></button>
                     </div>
                 </div>
@@ -103,13 +116,13 @@
                 <div class="results-actions">
                     <button id="btn-restart" class="btn-primary btn-large">🔁 Try Again</button>
                     <button id="btn-new-session" class="btn-secondary">🔀 New Session</button>
-                    <button id="btn-res-exit" class="btn-outline">📖 Back to Library</button>
+                    <button id="btn-res-exit" class="btn-outline">📖 Back to Reader</button>
                 </div>
             </div>
         </section>
     </div>
 
     <script src="assets/js/config.js"></script>
-    <script src="assets/js/quiz.js?v=1.0"></script>
+    <script src="assets/js/quiz.js?v=1.1"></script>
 </body>
 </html>
