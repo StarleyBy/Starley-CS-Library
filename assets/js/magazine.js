@@ -20,10 +20,18 @@ document.addEventListener('DOMContentLoaded', async () => {
     let swiper = null;
 
     try {
-        // Fetch magazine.json
-        const response = await fetch(`${bookPath}/magazine.json`);
-        if (!response.ok) throw new Error('Magazine data not found');
+        const fullDataUrl = `${bookPath}/magazine.json`;
+        console.log('[Magazine] Fetching data from:', fullDataUrl);
+        
+        const response = await fetch(fullDataUrl);
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        
         magazineData = await response.json();
+        console.log('[Magazine] Data loaded:', magazineData);
+
+        if (!magazineData.cards || magazineData.cards.length === 0) {
+            throw new Error('No cards found in magazine.json');
+        }
 
         // Setup titles
         bookTitleEl.textContent = magazineData.title || 'Visual Magazine';
@@ -31,16 +39,19 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Render slides
         magazineData.cards.forEach((card, index) => {
+            const imgSrc = `${bookPath}/${card.src}`;
+            console.log(`[Magazine] Card ${index} image src:`, imgSrc);
+            
             const slide = document.createElement('div');
             slide.className = 'swiper-slide';
             slide.innerHTML = `
-                <img data-src="${bookPath}/${card.src}" class="swiper-lazy mag-card-image" alt="${card.caption || ''}">
+                <img data-src="${imgSrc}" class="swiper-lazy mag-card-image" alt="${card.caption || ''}">
                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
             `;
             container.appendChild(slide);
         });
 
-        // Initialize Swiper
+        console.log('[Magazine] Initializing Swiper...');
         swiper = new Swiper('.swiper', {
             loop: false,
             lazy: {
