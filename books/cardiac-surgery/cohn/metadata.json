@@ -9,6 +9,14 @@
       "Lawrence H. Cohn, MD, David H. Adams, MD"
     ],
     "magazine": true,
+    "quiz": true,
+    "quiz_sets": [
+      {
+        "id": "full",
+        "label": "Full Bank",
+        "file": "quiz/quiz-full.json"
+      }
+    ],
     "versions": {
       "original": true,
       "russian": true,

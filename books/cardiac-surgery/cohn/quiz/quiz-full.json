@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Cohn: Cardiac Surgery — Sample Questions",
+    "book": "Cardiac Surgery in the Adult, 5th ed.",
+    "chapter": null,
+    "totalQuestions": 2,
+    "difficulty": "board-level",
+    "tags": ["CABG", "valve"]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "chapter": "Chapter 26",
+      "difficulty": "hard",
+      "tags": ["Aortic Valve", "Pathophysiology"],
+      "question": "A 72-year-old male presents with exertional angina and syncope. Physical exam reveals a harsh systolic crescendo-decrescendo murmur at the right upper sternal border radiating to the carotids. Which of the following is the most likely pathophysiological mechanism for his symptoms?",
+      "options": {
+        "A": "Left ventricular volume overload leading to eccentric hypertrophy.",
+        "B": "Fixed left ventricular outflow obstruction leading to concentric hypertrophy and increased myocardial oxygen demand.",
+        "C": "Decrease in stroke volume due to mitral annular calcification.",
+        "D": "Chronic pressure overload causing primary pulmonary hypertension."
+      },
+      "correctAnswer": "B",
+      "explanation": "This patient has classic symptoms of severe aortic stenosis (SAD: Syncope, Angina, Dyspnea). The pathophysiology involves chronic pressure overload, which leads to concentric left ventricular hypertrophy. This increases myocardial oxygen demand while simultaneously decreasing coronary perfusion pressure (due to high intramyocardial pressure), leading to angina even in the absence of CAD."
+    },
+    {
+      "id": 2,
+      "chapter": "Chapter 13",
+      "difficulty": "medium",
+      "tags": ["CPB", "Priming"],
+      "question": "During the initiation of cardiopulmonary bypass (CPB), hemodilution occurs due to the use of asanguineous prime. What is the primary physiological benefit of controlled hemodilution to a hematocrit of 20-25% during CPB?",
+      "options": {
+        "A": "Increased oxygen carrying capacity of the blood.",
+        "B": "Improved microcirculatory flow due to decreased viscosity at low temperatures.",
+        "C": "Reduction in the need for systemic heparinization.",
+        "D": "Prevention of systemic inflammatory response syndrome (SIRS)."
+      },
+      "correctAnswer": "B",
+      "explanation": "Controlled hemodilution during CPB decreases blood viscosity. This is particularly beneficial when hypothermia is used, as cooling normally increases viscosity. Lower viscosity improves flow through the microcirculation, reduces the work required for the pump, and can help mitigate some of the embolic risks associated with CPB."
+    }
+  ]
+}

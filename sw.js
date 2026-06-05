@@ -5,7 +5,10 @@ const APP_SHELL = [
   './',
   './index.html',
   './offline.html',
-  './manifest.json'
+  './manifest.json',
+  './quiz.html',
+  './assets/css/quiz.css',
+  './assets/js/quiz.js'
 ];
 
 // Установка

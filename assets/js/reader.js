@@ -529,32 +529,54 @@ function _initRadialMenu() {
                     return;
                 }
 
+                if (edition === 'quiz') {
+                    if (bookPath) {
+                        window.location.href = `quiz.html?book=${bookPath}`;
+                    }
+                    return;
+                }
+
                 if (typeof updateUrl === 'function' && _currentChapterId) {
                     updateUrl(bookPath, _currentChapterId, edition);
                 }
             });
         });
 
-        // Check if book has magazine and show button
+        // Check if book has magazine or quiz and show buttons
         const params = new URLSearchParams(window.location.search);
         const bookPath = params.get('book');
         if (bookPath) {
             const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json`;
             fetch(metadataUrl).then(r => r.json()).then(data => {
-                if (data[0] && data[0].magazine) {
-                    // Show in picker
+                const book = data[0];
+                if (!book) return;
+
+                // Magazine visibility
+                if (book.magazine) {
                     const magBtn = editionPicker.querySelector('.edition-magazine');
                     if (magBtn) magBtn.style.display = 'block';
-                    // Show in header
                     const headBtn = document.getElementById('mag-header-btn');
                     if (headBtn) {
                         headBtn.style.display = 'inline-flex';
-                        headBtn.addEventListener('click', () => {
-                            window.location.href = `magazine.html?book=${bookPath}`;
-                        });
+                        headBtn.onclick = () => window.location.href = `magazine.html?book=${bookPath}`;
                     }
                 }
-            }).catch(err => console.error('Failed to load metadata for magazine check:', err));
+
+                // Quiz visibility
+                if (book.quiz) {
+                    const quizBtn = editionPicker.querySelector('.edition-quiz');
+                    if (quizBtn) quizBtn.style.display = 'block';
+                    
+                    // Add quiz button to header if it doesn't exist? 
+                    // Let's check if we should add it. I'll just use the picker for now to keep header clean,
+                    // but since I added it to the HTML in a thinking step, I'll ensure it works if present.
+                    const headQuizBtn = document.getElementById('quiz-header-btn'); 
+                    if (headQuizBtn) {
+                        headQuizBtn.style.display = 'inline-flex';
+                        headQuizBtn.onclick = () => window.location.href = `quiz.html?book=${bookPath}`;
+                    }
+                }
+            }).catch(err => console.error('Failed to load metadata for feature check:', err));
         }
     }
     if (fontPicker) {

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Quiz Mode - Starley CS Library</title>
+    <link rel="stylesheet" href="assets/css/quiz.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="quiz-body">
+    <div id="quiz-app">
+        <!-- LOBBY SCREEN -->
+        <section id="screen-lobby" class="quiz-screen active">
+            <header class="quiz-header">
+                <button class="quiz-back-btn" onclick="window.history.back()"><i class="fas fa-arrow-left"></i> Back</button>
+                <h1 id="lobby-book-title">Loading Quiz...</h1>
+            </header>
+            <div class="lobby-content">
+                <div class="lobby-card">
+                    <h3>Select Question Set</h3>
+                    <div id="quiz-set-list" class="quiz-set-grid">
+                        <!-- Dynamic sets -->
+                    </div>
+                </div>
+                <div class="lobby-card">
+                    <h3>Session Settings</h3>
+                    <div class="settings-group">
+                        <label>Questions: <span id="val-count">All</span></label>
+                        <input type="range" id="setting-count" min="5" max="50" step="5" value="50">
+                    </div>
+                    <div class="settings-row">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="setting-shuffle" checked>
+                            <span class="slider"></span>
+                            Shuffle Questions
+                        </label>
+                    </div>
+                </div>
+                <button id="btn-start-quiz" class="btn-primary btn-large">🚀 Start Quiz</button>
+                <div id="lobby-stats" class="lobby-stats"></div>
+            </div>
+        </section>
+
+        <!-- QUESTION SCREEN -->
+        <section id="screen-question" class="quiz-screen">
+            <header class="quiz-header">
+                <button class="quiz-exit-btn" id="btn-exit-quiz"><i class="fas fa-times"></i> Exit</button>
+                <div class="quiz-progress-wrapper">
+                    <div class="quiz-progress-text"><span id="q-current">1</span> / <span id="q-total">0</span></div>
+                    <div class="quiz-progress-bar"><div id="q-progress-fill" class="progress-fill"></div></div>
+                </div>
+                <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
+            </header>
+            
+            <div class="question-container">
+                <div class="question-meta">
+                    <span id="q-chapter" class="q-tag tag-chapter"></span>
+                    <span id="q-difficulty" class="q-tag tag-diff"></span>
+                    <div id="q-tags" class="q-tags-list"></div>
+                </div>
+                
+                <div id="q-text" class="question-text"></div>
+                
+                <div id="q-options" class="options-grid">
+                    <!-- Options A, B, C, D -->
+                </div>
+
+                <div id="q-explanation" class="explanation-box" style="display:none">
+                    <div class="exp-header"><i class="fas fa-lightbulb"></i> Clinical Explanation</div>
+                    <div id="exp-text" class="exp-content"></div>
+                    <div class="exp-actions">
+                        <button id="btn-open-reader" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
+                        <button id="btn-next-q" class="btn-primary">Next Question <i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- RESULTS SCREEN -->
+        <section id="screen-results" class="quiz-screen">
+            <header class="quiz-header">
+                <h1>Quiz Results</h1>
+            </header>
+            <div class="results-content">
+                <div class="results-summary">
+                    <div id="res-trophy" class="res-trophy">🏆</div>
+                    <div id="res-score-big" class="res-score-pct">0%</div>
+                    <div id="res-score-raw" class="res-score-text">0 / 0 Correct</div>
+                    <div id="res-grade" class="res-grade">Excellent!</div>
+                </div>
+                
+                <div class="results-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Time Spent</span>
+                        <span id="res-time" class="stat-value">0m 0s</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Avg/Question</span>
+                        <span id="res-avg-time" class="stat-value">0s</span>
+                    </div>
+                </div>
+
+                <div class="results-actions">
+                    <button id="btn-restart" class="btn-primary btn-large">🔁 Try Again</button>
+                    <button id="btn-new-session" class="btn-secondary">🔀 New Session</button>
+                    <button id="btn-res-exit" class="btn-outline">📖 Back to Library</button>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="assets/js/config.js"></script>
+    <script src="assets/js/quiz.js?v=1.0"></script>
+</body>
+</html>
