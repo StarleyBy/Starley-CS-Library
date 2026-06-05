@@ -12,9 +12,9 @@
     "quiz": true,
     "quiz_sets": [
       {
-        "id": "full",
-        "label": "Full Bank",
-        "file": "quiz/quiz-full.json"
+        "id": "aortic",
+        "label": "Aortic Valve Disease",
+        "file": "quiz/quiz-aortic-valve.json"
       }
     ],
     "versions": {

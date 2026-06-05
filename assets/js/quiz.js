@@ -234,13 +234,8 @@ function showExplanation() {
 
 function openReader(chapterId) {
     const lang = state.settings.lang;
-    // Map Quiz language to edition
-    // If Quiz is Ru, try Russian edition. If En, try original.
     const edition = lang === 'Ru' ? 'russian' : 'original';
-    
-    // Ensure chapterId doesn't have .md
     const cleanId = chapterId.replace('.md', '');
-    
     const url = `reader.html?book=${state.bookPath}&chapter=${cleanId}&edition=${edition}`;
     window.open(url, '_blank');
 }

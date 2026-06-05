@@ -10,8 +10,15 @@
     "Robert M. Bojar, MD"
   ],
   "magazine": true,
-  "versions": {
-      "original": true,
+  "quiz": true,
+  "quiz_sets": [
+    {
+      "id": "ch01",
+      "label": "Chapter 1 Quiz",
+      "file": "quiz/quiz-chapter-01.json"
+    }
+  ],
+  "versions": {      "original": true,
       "russian": true,
       "starley": false,
       "hebrew": true

@@ -1,3 +1,4 @@
+// assets/js/reader.js
 // Global variable to track if we're in GitHub Pages environment
 let isGitHubPages = false;
 
@@ -546,10 +547,12 @@ function _initRadialMenu() {
         const params = new URLSearchParams(window.location.search);
         const bookPath = params.get('book');
         if (bookPath) {
-            const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json`;
+            const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json?v=${Date.now()}`;
             fetch(metadataUrl).then(r => r.json()).then(data => {
                 const book = data[0];
                 if (!book) return;
+
+                console.log('[Reader] Detected features for', bookPath, ':', { magazine: !!book.magazine, quiz: !!book.quiz });
 
                 // Magazine visibility
                 if (book.magazine) {
@@ -567,9 +570,6 @@ function _initRadialMenu() {
                     const quizBtn = editionPicker.querySelector('.edition-quiz');
                     if (quizBtn) quizBtn.style.display = 'block';
                     
-                    // Add quiz button to header if it doesn't exist? 
-                    // Let's check if we should add it. I'll just use the picker for now to keep header clean,
-                    // but since I added it to the HTML in a thinking step, I'll ensure it works if present.
                     const headQuizBtn = document.getElementById('quiz-header-btn'); 
                     if (headQuizBtn) {
                         headQuizBtn.style.display = 'inline-flex';
@@ -635,7 +635,6 @@ function _syncReadingModeUI() {
 }
 
 function _handlePageTap(e) {
-    // Only handle taps, not drags or clicks on interactive elements
     if (e.target.closest('button, a, summary, input, .radial-item, #radial-trigger')) return;
     
     const x = e.clientX;
@@ -643,26 +642,21 @@ function _handlePageTap(e) {
     const w = window.innerWidth;
     const h = window.innerHeight;
 
-    // We only care about the bottom part of the screen (bottom 30%)
     if (y < h * 0.7) return;
 
-    // Page margin/overlap to keep context
     const overlap = 40; 
     const scrollAmount = h - overlap;
 
     if (x < w * 0.4) {
-        // Left side -> Previous Page
         window.scrollBy({ top: -scrollAmount, behavior: 'smooth' });
         _showTapFeedback('back');
     } else if (x > w * 0.6) {
-        // Right side -> Next Page
         window.scrollBy({ top: scrollAmount, behavior: 'smooth' });
         _showTapFeedback('forward');
     }
 }
 
 function _attachReadingModeListeners() {
-    // Use pointerup to catch taps but not drags
     document.addEventListener('pointerup', _handlePageTap);
 }
 
@@ -856,7 +850,7 @@ function _populateChapterPicker() {
     if (!list) return;
     list.innerHTML = '';
     const params = new URLSearchParams(window.location.search), bookPath = params.get('book');
-    const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json`;
+    const metadataUrl = `${window.location.hostname.includes('github.io') ? RAW_CONTENT_BASE_URL : BASE_URL}${bookPath}/metadata.json?v=${Date.now()}`;
     fetch(metadataUrl).then(r => r.json()).then(data => {
         const bookMeta = data[0], allChapters = [...bookMeta.chapters, ...(bookMeta.appendices || [])];
         allChapters.forEach(ch => {
@@ -932,16 +926,11 @@ function _applyTextWidth() {
 }
 
 function _changeLineHeight(delta) {
-    const next = Math.round(Math.min(2.4, Math.max(1.2, ReaderSettings.getReaderLineHeight() + delta)) * 100) / 100;
-    // Wait, ReaderSettings.getReaderLineHeight() might not exist? It was ReaderSettings.get('reader_line_height', 1.65)
-}
-
-// Fix Line Height logic
-ReaderSettings.getLineHeight = function() { return this.get('reader_line_height', 1.65); };
-function _changeLineHeight(delta) {
     const next = Math.round(Math.min(2.4, Math.max(1.2, ReaderSettings.getLineHeight() + delta)) * 100) / 100;
     ReaderSettings.set('reader_line_height', next); _applyLineHeight();
 }
+
+ReaderSettings.getLineHeight = function() { return this.get('reader_line_height', 1.65); };
 function _applyLineHeight() { document.documentElement.style.setProperty('--reader-line-height', ReaderSettings.getLineHeight()); }
 
 function _printChapter() {
@@ -1047,7 +1036,7 @@ function _renderBookmarkAnchors() {
     const a = document.getElementById('content-area'); if (!a) return; a.querySelectorAll('.bm-anchor').forEach(x => x.remove());
     const b = _getBookmarks().filter(x => x.chapterId === _currentChapterId); if (!b.length) return;
     a.querySelectorAll('p, h1, h2, h3, h4, h5, li, td, blockquote').forEach(el => {
-        const t = el.textContent.trim().slice(0, 80), id = (_currentChapterId||'unknown') + '::' + btoa(encodeURIComponent(t)).slice(0, 24);
+        const t = el.textContent.trim().slice(0, 80), id = (_currentChapterId||'unknown') + '::' + btoa(encodeURIComponent(text)).slice(0, 24);
         if (b.find(x => x.id === id) && !el.querySelector('.bm-anchor')) { const an = document.createElement('span'); an.className = 'bm-anchor'; an.dataset.bmId = id; el.prepend(an); }
     });
 }
