@@ -97,7 +97,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const card = magazineData.cards[index];
         document.getElementById('mag-card-title').textContent = card.caption || '';
-        document.getElementById('mag-card-chapter').textContent = card.chapter || '';
+        
+        const chapterEl = document.getElementById('mag-card-chapter');
+        if (Array.isArray(card.chapter)) {
+            chapterEl.textContent = (card.chapter.length > 1 ? 'Chapters: ' : 'Chapter: ') + card.chapter.join(', ');
+        } else {
+            chapterEl.textContent = card.chapter || '';
+        }
         
         const tagsContainer = document.getElementById('mag-card-tags');
         tagsContainer.innerHTML = '';
