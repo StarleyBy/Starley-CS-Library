@@ -636,6 +636,11 @@ async function initLoader() {
                 });
                 chapterSelect.add(group);
             }
+
+            // Sync with Quiz Generator
+            if (typeof _updateQuizChapterList === 'function') {
+                _updateQuizChapterList();
+            }
         };
 
         // Функция загрузки файла
@@ -1141,7 +1146,15 @@ function initToolGroupPins() {
             });
 
             // Toggle current group
-            group.classList.toggle('active', !wasActive);
+            const isActiveNow = !wasActive;
+            group.classList.toggle('active', isActiveNow);
+
+            // Special handling for Quiz Generator
+            if (isActiveNow && group.classList.contains('quiz-group')) {
+                if (typeof _updateQuizChapterList === 'function') {
+                    _updateQuizChapterList();
+                }
+            }
         });
 
         // Pin logic
