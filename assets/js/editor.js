@@ -348,6 +348,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initToolGroupPins();
     initSync();
     _initSynthesis();
+    _initQuizGenerator();
 
     setTimeout(() => {
         initPreview();
@@ -1245,22 +1246,209 @@ function _syncPreviewToLine(cm, lineNum, preview) {
     }
 }
 
-function _syncEditorToPreviewEl(el) {
-    if (!editor) return;
-    const needle = el.textContent.replace(/\s+/g, ' ').trim().slice(0, 40).toLowerCase();
-    if (needle.length < 3) return;
+    // ==================== QUIZ GENERATOR ====================
 
-    for (let i = 0; i < editor.lineCount(); i++) {
-        const line = editor.getLine(i)
-            .replace(/<[^>]+>/g, '').replace(/[*_`#[\]]/g, '')
-            .trim().slice(0, 40).toLowerCase();
-        if (line.includes(needle.slice(0, 25)) || needle.includes(line.slice(0, 25))) {
-            if (line.length > 3) {
-                editor.setCursor({ line: i, ch: 0 });
-                editor.scrollIntoView({ line: i, ch: 0 }, 100);
-                editor.focus();
-                break;
+    function _initQuizGenerator() {
+        const bookSelect = document.getElementById('select-book');
+        const previewBtn = document.getElementById('btn-quiz-preview');
+        const saveBtn    = document.getElementById('btn-quiz-save');
+        const statusEl   = document.getElementById('quiz-status');
+
+        if (!bookSelect || !previewBtn || !saveBtn) return;
+
+        bookSelect.addEventListener('change', () => {
+            _updateQuizChapterList();
+        });
+
+        previewBtn.addEventListener('click', () => {
+            const manifest = _getQuizManifest();
+            if (!manifest) return;
+            
+            // Show preview in the preview pane
+            const previewContainer = document.getElementById('editor-preview');
+            let html = `<h2>Quiz Preview: ${manifest.meta.title}</h2>`;
+            html += `<p>Chapters: ${manifest.meta.chapter.join(', ')}</p>`;
+            html += `<hr>`;
+            
+            manifest.questions.forEach((q, i) => {
+                html += `<div style="margin-bottom:20px; padding:10px; background:rgba(255,255,255,0.05); border-radius:8px;">
+                    <strong>Q${i+1}: ${q.questionEn}</strong><br>
+                    <ul style="list-style:none; padding-left:10px; margin-top:5px;">
+                        ${Object.entries(q.optionsEn).map(([k, v]) => `<li>${k}: ${v} ${k === q.correctAnswer ? '✅' : ''}</li>`).join('')}
+                    </ul>
+                    <p style="font-size:0.85rem; color:#aaa;"><em>Explanation: ${q.explanationEn}</em></p>
+                </div>`;
+            });
+
+            previewContainer.innerHTML = html;
+            statusEl.textContent = '👁️ Preview rendered';
+            statusEl.style.color = '#3498db';
+        });
+
+        saveBtn.addEventListener('click', async () => {
+            const token = localStorage.getItem('gh_token');
+            if (!token) return alert('GitHub token required. Set it in the "Save" section.');
+
+            const manifest = _getQuizManifest();
+            if (!manifest) return;
+
+            const bookPath = bookSelect.value;
+            const quizFileName = `quiz-${manifest.meta.title.toLowerCase().replace(/\s+/g, '-')}.json`;
+            const quizPath = `${bookPath}/quiz/${quizFileName}`;
+
+            statusEl.textContent = '⏳ Saving quiz...';
+            statusEl.style.color = '#f9a825';
+
+            try {
+                // 1. Create quiz/ directory and save quiz file
+                await _githubSaveFile(token, quizPath, JSON.stringify(manifest, null, 2), `Add quiz: ${manifest.meta.title}`);
+                
+                // 2. Update metadata.json
+                statusEl.textContent = '⏳ Updating book metadata...';
+                const metaPath = `${bookPath}/metadata.json`;
+                const metaRaw = await _githubLoadFile(token, metaPath);
+                if (metaRaw) {
+                    const metaData = JSON.parse(metaRaw);
+                    const bookMeta = Array.isArray(metaData) ? metaData[0] : metaData;
+                    
+                    bookMeta.quiz = true;
+                    if (!bookMeta.quiz_sets) bookMeta.quiz_sets = [];
+                    
+                    // Check if set already exists
+                    const existingSet = bookMeta.quiz_sets.find(s => s.file === `quiz/${quizFileName}`);
+                    if (!existingSet) {
+                        bookMeta.quiz_sets.push({
+                            id: manifest.meta.title.toLowerCase().replace(/\s+/g, '-'),
+                            label: manifest.meta.title,
+                            file: `quiz/${quizFileName}`
+                        });
+                    }
+
+                    await _githubSaveFile(token, metaPath, JSON.stringify(metaData, null, 2), `Enable quiz in metadata: ${manifest.meta.title}`);
+                }
+
+                statusEl.textContent = '✅ Quiz saved and metadata updated!';
+                statusEl.style.color = '#27ae60';
+
+            } catch (err) {
+                statusEl.textContent = `❌ Error: ${err.message}`;
+                statusEl.style.color = '#e74c3c';
+                console.error(err);
             }
+        });
+
+        // Add a starter template to the editor if it's empty
+        if (editor && editor.getValue().trim() === '') {
+            editor.setValue(`[\n  {\n    "id": 1,\n    "questionEn": "Sample Question?",\n    "questionRu": "Пример вопроса?",\n    "optionsEn": {\n      "A": "Option A",\n      "B": "Option B",\n      "C": "Option C",\n      "D": "Option D"\n    },\n    "optionsRu": {\n      "A": "Вариант А",\n      "B": "Вариант Б",\n      "C": "Вариант В",\n      "D": "Вариант Г"\n    },\n    "correctAnswer": "B",\n    "explanationEn": "Explanation in English.",\n    "explanationRu": "Объяснение на русском."\n  }\n]`);
         }
     }
-}
+
+    function _updateQuizChapterList() {
+        const bookSelect = document.getElementById('select-book');
+        const listCont = document.getElementById('quiz-chapter-list');
+        if (!bookSelect || !listCont) return;
+
+        const selectedOption = bookSelect.options[bookSelect.selectedIndex];
+        if (!selectedOption || !selectedOption.value) {
+            listCont.innerHTML = '<p style="font-size:0.7rem; color:#666; font-style:italic;">Select book to see chapters...</p>';
+            return;
+        }
+
+        const chapters = JSON.parse(selectedOption.dataset.chapters || '[]');
+        const appendices = JSON.parse(selectedOption.dataset.appendices || '[]');
+        
+        let html = '';
+        [...chapters, ...appendices].forEach(ch => {
+            const chId = ch.file.replace('.md', '');
+            html += `<label style="display:flex; align-items:center; gap:5px; font-size:0.75rem; margin-bottom:3px; color:#ccc; cursor:pointer;">
+                <input type="checkbox" class="quiz-ch-check" value="${chId}"> ${ch.title}
+            </label>`;
+        });
+
+        listCont.innerHTML = html || '<p style="font-size:0.7rem; color:#666;">No chapters found.</p>';
+    }
+
+    function _getQuizManifest() {
+        const title = document.getElementById('quiz-title').value.trim();
+        if (!title) { alert('Please enter quiz title'); return null; }
+
+        const selectedChapters = Array.from(document.querySelectorAll('.quiz-ch-check:checked')).map(cb => cb.value);
+        if (selectedChapters.length === 0) { alert('Please select at least one chapter'); return null; }
+
+        let questions;
+        try {
+            const raw = editor ? editor.getValue() : document.getElementById('markdown-input').value;
+            questions = JSON.parse(raw);
+            if (!Array.isArray(questions)) throw new Error('Root must be an array of questions');
+        } catch (err) {
+            alert('Invalid JSON in editor: ' + err.message);
+            return null;
+        }
+
+        return {
+            meta: {
+                title: title,
+                chapter: selectedChapters
+            },
+            questions: questions
+        };
+    }
+
+    async function _githubSaveFile(token, path, content, message) {
+        const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : BASE_URL;
+        const match = rawBase.match(/github\.com\/([^/]+)\/([^/]+)\/([^/]+)\//);
+        if (!match) throw new Error('Cannot determine repo from BASE_URL.');
+
+        const [, owner, repo, branch] = match;
+        const apiBase = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
+        const headers = {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github+json',
+            'X-GitHub-Api-Version': '2022-11-28',
+        };
+
+        let sha = null;
+        const getRes = await fetch(`${apiBase}?ref=${branch}`, { headers });
+        if (getRes.ok) {
+            const data = await getRes.json();
+            sha = data.sha;
+        }
+
+        const body = {
+            message: message,
+            content: btoa(unescape(encodeURIComponent(content))),
+            branch,
+            ...(sha ? { sha } : {}),
+        };
+
+        const putRes = await fetch(apiBase, {
+            method: 'PUT',
+            headers: { ...headers, 'Content-Type': 'application/json' },
+            body: JSON.stringify(body),
+        });
+
+        if (!putRes.ok) {
+            const err = await putRes.json();
+            throw new Error(err.message || putRes.statusText);
+        }
+        return true;
+    }
+
+    async function _githubLoadFile(token, path) {
+        const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : BASE_URL;
+        const match = rawBase.match(/github\.com\/([^/]+)\/([^/]+)\/([^/]+)\//);
+        if (!match) throw new Error('Cannot determine repo from BASE_URL.');
+
+        const [, owner, repo, branch] = match;
+        const apiBase = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
+        const headers = {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github+json',
+            'X-GitHub-Api-Version': '2022-11-28',
+        };
+
+        const res = await fetch(`${apiBase}?ref=${branch}`, { headers });
+        if (!res.ok) return null;
+        const data = await res.json();
+        return decodeURIComponent(escape(atob(data.content)));
+    }

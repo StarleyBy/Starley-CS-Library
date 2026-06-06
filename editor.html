@@ -227,16 +227,19 @@
             </div></div>
             </div>
 
-            <!-- Навигация -->
-            <div class="tool-group">
-                <h4>🔗 Navigation <button class="tool-group-pin" title="Pin open">📌</button></h4>
-            <div class="tool-group-content"><div class="tool-group-content-inner">
-<div class="icon-grid">
-                    <button onclick="insertLink()" title="Создать ссылку на термин">🔗</button>
-                    <button onclick="insertAnchor()" title="Создать якорь в месте определения">⚓</button>
-                    <button onclick="insertBackLink()" title="Умная кнопка - вернет к любой ссылке">↩️</button>
-                </div>
-            </div></div>
+            <!-- Квиз-генератор -->
+            <div class="tool-group quiz-group">
+                <h4>🧠 Quiz Generator <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <p style="font-size:0.75rem; color:#aaa; margin-bottom:8px;">Generate quiz manifest for the selected book</p>
+                    <input type="text" id="quiz-title" placeholder="Quiz Title (e.g. Clinical Quiz)" style="width:100%; margin-bottom:5px;">
+                    <div id="quiz-chapter-list" style="max-height:120px; overflow-y:auto; background:#1a1a1a; border:1px solid #333; padding:5px; border-radius:4px; margin-bottom:8px;">
+                        <p style="font-size:0.7rem; color:#666; font-style:italic;">Select book to see chapters...</p>
+                    </div>
+                    <button id="btn-quiz-preview" class="btn-secondary" style="width:100%; padding:8px; border-radius:4px; font-weight:700; margin-bottom:5px;">👁️ Preview Quiz</button>
+                    <button id="btn-quiz-save" class="btn-success" style="width:100%; padding:8px; border-radius:4px; font-weight:700;">💾 Save Quiz</button>
+                    <div id="quiz-status" style="font-size:0.7rem; margin-top:5px; color:#888;"></div>
+                </div></div>
             </div>
 
             <!-- Инструменты редактора -->
