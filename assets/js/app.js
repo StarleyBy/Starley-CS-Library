@@ -302,12 +302,17 @@ function renderBookCard(bookPath, bookMeta, visibility = 'all') {
     // Подготовка бейджей версий
     let badgesHtml = '';
     const versions = bookMeta.versions || {};
-    if (versions.original || versions.russian || versions.starley || versions.hebrew) {
+    if (versions.original || versions.russian || versions.starley || versions.hebrew || bookMeta.magazine || bookMeta.quiz) {
         badgesHtml = '<div class="version-badges">';
         if (versions.original) badgesHtml += '<span class="version-badge en">EN</span>';
         if (versions.russian)  badgesHtml += '<span class="version-badge ru">RU</span>';
         if (versions.starley)  badgesHtml += '<span class="version-badge star">⭐</span>';
         if (versions.hebrew)   badgesHtml += '<span class="version-badge he">HE</span>';
+        
+        // Значки функций
+        if (bookMeta.magazine) badgesHtml += '<span class="version-badge magazine" title="Visual Magazine">📰</span>';
+        if (bookMeta.quiz)     badgesHtml += '<span class="version-badge quiz" title="Clinical Quiz">🧠</span>';
+        
         badgesHtml += '</div>';
     }
 
