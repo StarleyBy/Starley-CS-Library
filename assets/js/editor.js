@@ -989,8 +989,8 @@ async function _doGitHubSave(token, statusEl) {
     // Derive repo/path from BASE_URL and current filename
     // Expected BASE_URL format: https://raw.githubusercontent.com/OWNER/REPO/BRANCH/
     const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : BASE_URL;
-    const match = rawBase.match(/github\.com\/([^/]+)\/([^/]+)\/([^/]+)\//);
-    if (!match) return alert('Cannot determine repo from BASE_URL. Check config.js.');
+    const match = rawBase.match(/(?:github\.com|raw\.githubusercontent\.com)\/([^/]+)\/([^/]+)\/([^/]+)\//);
+    if (!match) return alert('Cannot determine repo from BASE_URL (Expected raw.githubusercontent.com/OWNER/REPO/BRANCH/). Check config.js.');
 
     const [, owner, repo, branch] = match;
     const filename = document.getElementById('export-filename').value.trim();
@@ -1449,7 +1449,7 @@ function _syncPreviewToLine(cm, lineNum, preview) {
 
     async function _githubLoadFile(token, path) {
         const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : BASE_URL;
-        const match = rawBase.match(/github\.com\/([^/]+)\/([^/]+)\/([^/]+)\//);
+        const match = rawBase.match(/(?:github\.com|raw\.githubusercontent\.com)\/([^/]+)\/([^/]+)\/([^/]+)\//);
         if (!match) throw new Error('Cannot determine repo from BASE_URL.');
 
         const [, owner, repo, branch] = match;
