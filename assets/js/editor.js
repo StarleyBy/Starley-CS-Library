@@ -1409,8 +1409,8 @@ function _syncPreviewToLine(cm, lineNum, preview) {
 
     async function _githubSaveFile(token, path, content, message) {
         const rawBase = (typeof RAW_CONTENT_BASE_URL !== 'undefined') ? RAW_CONTENT_BASE_URL : BASE_URL;
-        const match = rawBase.match(/github\.com\/([^/]+)\/([^/]+)\/([^/]+)\//);
-        if (!match) throw new Error('Cannot determine repo from BASE_URL.');
+        const match = rawBase.match(/(?:github\.com|raw\.githubusercontent\.com)\/([^/]+)\/([^/]+)\/([^/]+)\//);
+        if (!match) throw new Error('Cannot determine repo from BASE_URL (Expected raw.githubusercontent.com/OWNER/REPO/BRANCH/).');
 
         const [, owner, repo, branch] = match;
         const apiBase = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
