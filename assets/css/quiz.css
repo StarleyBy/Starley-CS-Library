@@ -233,10 +233,32 @@ input[type=range]::-webkit-slider-thumb {
 .question-text {
     font-size: clamp(1.1rem, 4.5vw, 1.35rem);
     line-height: 1.5;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     font-weight: 600;
     color: #fff;
     text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.quiz-image-container {
+    margin-bottom: 25px;
+    text-align: center;
+    background: rgba(0,0,0,0.2);
+    border-radius: 12px;
+    padding: 10px;
+    border: 1px solid var(--quiz-border);
+}
+
+.quiz-q-image {
+    max-width: 100%;
+    max-height: 400px;
+    border-radius: 8px;
+    cursor: zoom-in;
+    transition: transform 0.2s;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+}
+
+.quiz-q-image:hover {
+    transform: scale(1.02);
 }
 
 .options-grid {

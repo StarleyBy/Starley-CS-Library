@@ -116,9 +116,6 @@ function setupLobbyListeners() {
     const slider = document.getElementById('setting-count');
     const valCount = document.getElementById('val-count');
     
-    // Set slider max to 100 or actual question count if we had it here, 
-    // but we load questions later. Let's keep it 100 as per HTML or update on load.
-    
     slider.oninput = () => {
         const val = parseInt(slider.value);
         state.settings.count = val;
@@ -140,14 +137,11 @@ async function startQuiz() {
 
         let qs = [...state.quizData.questions];
         
-        // Update slider max based on real count
+        const totalQs = qs.length;
         const slider = document.getElementById('setting-count');
         const valCount = document.getElementById('val-count');
-        const totalQs = qs.length;
         slider.max = totalQs;
         if (state.settings.count > totalQs) state.settings.count = totalQs;
-        
-        // If we just entered from lobby, we might want to re-check the "All" label
         if (slider.value > totalQs) slider.value = totalQs;
         valCount.textContent = (parseInt(slider.value) >= totalQs) ? (state.settings.lang === 'Ru' ? 'Все' : 'All') : slider.value;
 
@@ -162,7 +156,6 @@ async function startQuiz() {
         state.answers = [];
         state.startTime = Date.now();
 
-        // Update UI labels based on language
         const isRu = state.settings.lang === 'Ru';
         document.getElementById('exp-title-text').textContent = isRu ? 'Клиническое объяснение' : 'Clinical Explanation';
         document.getElementById('exp-picker-label').textContent = isRu ? 'Выберите главу для открытия:' : 'Select chapter to open:';
@@ -181,7 +174,6 @@ function renderQuestion() {
     state.questionStartTime = Date.now();
     const lang = state.settings.lang;
 
-    // UI Updates
     document.getElementById('q-current').textContent = state.currentIndex + 1;
     document.getElementById('q-total').textContent = state.questions.length;
     document.getElementById('q-progress-fill').style.width = `${((state.currentIndex) / state.questions.length) * 100}%`;
@@ -189,6 +181,18 @@ function renderQuestion() {
 
     document.getElementById('q-text').innerHTML = q['question' + lang] || q['questionEn'] || q.question || 'Missing question text';
     
+    // Handle Question Image
+    const imgCont = document.getElementById('q-image-container');
+    if (q.image) {
+        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+        const imgSrc = q.image.startsWith('http') ? q.image : `${rootPath}${state.bookPath}/quiz/images/${q.image}`;
+        imgCont.innerHTML = `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')">`;
+        imgCont.style.display = 'block';
+    } else {
+        imgCont.innerHTML = '';
+        imgCont.style.display = 'none';
+    }
+
     const optionsCont = document.getElementById('q-options');
     optionsCont.innerHTML = '';
     
@@ -246,10 +250,21 @@ function showExplanation() {
     const lang = state.settings.lang;
     const expBox = document.getElementById('q-explanation');
     
+    // Handle Explanation Image
+    const expImgCont = document.getElementById('exp-image-container');
+    if (q.explanationImage) {
+        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+        const imgSrc = q.explanationImage.startsWith('http') ? q.explanationImage : `${rootPath}${state.bookPath}/quiz/images/${q.explanationImage}`;
+        expImgCont.innerHTML = `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')">`;
+        expImgCont.style.display = 'block';
+    } else {
+        expImgCont.innerHTML = '';
+        expImgCont.style.display = 'none';
+    }
+
     document.getElementById('exp-text').innerHTML = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
     expBox.style.display = 'block';
     
-    // Handle "Open in Reader"
     const metaChapters = state.quizData.meta.chapter || [];
     const chapterList = Array.isArray(metaChapters) ? metaChapters : (metaChapters ? [metaChapters] : []);
     const picker = document.getElementById('exp-chapter-select');
