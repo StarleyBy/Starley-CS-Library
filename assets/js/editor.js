@@ -1284,12 +1284,21 @@ function _syncPreviewToLine(cm, lineNum, preview) {
             html += `<hr>`;
             
             manifest.questions.forEach((q, i) => {
+                const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+                const bookPath = bookSelect.value;
+                const imgSrc = q.image ? (q.image.startsWith('http') ? q.image : `${rootPath}${bookPath}/quiz/images/${q.image}`) : null;
+                const expImgSrc = q.explanationImage ? (q.explanationImage.startsWith('http') ? q.explanationImage : `${rootPath}${bookPath}/quiz/images/${q.explanationImage}`) : null;
+
                 html += `<div style="margin-bottom:20px; padding:10px; background:rgba(255,255,255,0.05); border-radius:8px;">
                     <strong>Q${i+1}: ${q.questionEn}</strong><br>
+                    ${imgSrc ? `<img src="${imgSrc}" style="max-width:100%; max-height:200px; border-radius:4px; margin:10px 0; display:block; cursor:zoom-in;" onclick="window.open('${imgSrc}', '_blank')">` : ''}
                     <ul style="list-style:none; padding-left:10px; margin-top:5px;">
                         ${Object.entries(q.optionsEn).map(([k, v]) => `<li>${k}: ${v} ${k === q.correctAnswer ? '✅' : ''}</li>`).join('')}
                     </ul>
-                    <p style="font-size:0.85rem; color:#aaa;"><em>Explanation: ${q.explanationEn}</em></p>
+                    <div style="border-top:1px solid #333; margin-top:10px; padding-top:10px;">
+                        <p style="font-size:0.85rem; color:#aaa;"><strong>Explanation:</strong> ${q.explanationEn}</p>
+                        ${expImgSrc ? `<img src="${expImgSrc}" style="max-width:100%; max-height:150px; border-radius:4px; margin-top:5px; display:block; cursor:zoom-in;" onclick="window.open('${expImgSrc}', '_blank')">` : ''}
+                    </div>
                 </div>`;
             });
 

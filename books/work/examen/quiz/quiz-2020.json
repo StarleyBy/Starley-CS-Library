@@ -1,0 +1,3017 @@
+{
+  "meta": {
+    "title": "2020",
+    "chapter": [
+      "chapter-01"
+    ]
+  },
+  "questions": [
+    {
+      "id": 1,
+      "questionEn": "Channels on the myocyte membrane are responsible for ion transfer between the two sides of the membrane. Some open in response to a change in membrane voltage and some in response to ligand binding. Which one will open in response to acetylcholine binding?",
+      "questionRu": "Каналы на мембране миоцита отвечают за перенос ионов между двумя сторонами мембраны. Некоторые открываются в ответ на изменение мембранного потенциала, некоторые — в ответ на связывание лиганда. Какой канал откроется в ответ на связывание ацетилхолина?",
+      "optionsEn": {
+        "A": "Sodium channels.",
+        "B": "T-type calcium channels.",
+        "C": "L-type calcium channels.",
+        "D": "Potassium channels."
+      },
+      "optionsRu": {
+        "A": "Натриевые каналы.",
+        "B": "Т-тип кальциевых каналов.",
+        "C": "L-тип кальциевых каналов.",
+        "D": "Калиевые каналы."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Acetylcholine binds to muscarinic M2 receptors, activating G-protein-coupled inwardly rectifying potassium channels (GIRK), leading to hyperpolarization and decreased heart rate.",
+      "explanationRu": "Ацетилхолин связывается с мускариновыми M2-рецепторами, активируя калиевые каналы, управляемые G-белком (GIRK), что приводит к гиперполяризации и урежению сердечного ритма."
+    },
+    {
+      "id": 2,
+      "questionEn": "Which is most important for removing calcium from the cytosol of a myocyte?",
+      "questionRu": "Что наиболее важно для удаления кальция из цитозоля миоцита?",
+      "optionsEn": {
+        "A": "SERCA pump.",
+        "B": "Energy-dependent calcium pump (Ca2+-ATPase).",
+        "C": "Sodium-calcium exchanger (3Na+-Ca2+).",
+        "D": "L-type calcium channel."
+      },
+      "optionsRu": {
+        "A": "Насос SERCA.",
+        "B": "Энергозависимый кальциевый насос (Ca2+-АТФаза).",
+        "C": "Натрий-кальциевый обменник (3Na+-Ca2+).",
+        "D": "L-тип кальциевого канала."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The sodium-calcium exchanger (NCX) removes about 70-80% of cytosolic calcium during diastole. SERCA pumps calcium into the SR, but NCX extrudes it from the cell.",
+      "explanationRu": "Натрий-кальциевый обменник (NCX) удаляет около 70-80% цитозольного кальция во время диастолы. SERCA закачивает кальций в СР, но NCX выводит его из клетки."
+    },
+    {
+      "id": 3,
+      "questionEn": "In myocardial ischemia, there is an accumulation of sodium inside cells and a change in the activity of several channels and pumps on the myocyte membrane. In response to intracellular hypernatremia, which of the following pumps will work in reverse of its normal activity?",
+      "questionRu": "При ишемии миокарда происходит накопление натрия внутри клеток и изменение активности нескольких каналов и насосов на мембране миоцита. В ответ на внутриклеточную гипернатриемию какой из следующих насосов будет работать в обратном направлении?",
+      "optionsEn": {
+        "A": "Energy-dependent sodium-potassium pump (Na+-K+ ATPase).",
+        "B": "Energy-dependent calcium pump (Ca2+-ATPase).",
+        "C": "Sodium-calcium exchanger (3Na+-Ca2+).",
+        "D": "Sodium-hydrogen exchanger (Na+-H+)."
+      },
+      "optionsRu": {
+        "A": "Энергозависимый натрий-калиевый насос (Na+-K+ АТФаза).",
+        "B": "Энергозависимый кальциевый насос (Ca2+-АТФаза).",
+        "C": "Натрий-кальциевый обменник (3Na+-Ca2+).",
+        "D": "Натрий-водородный обменник (Na+-H+)."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "During ischemia, intracellular acidosis activates the Na+-H+ exchanger to extrude H+ in exchange for Na+, leading to sodium overload. This reverse-mode activity contributes to calcium overload via NCX.",
+      "explanationRu": "Во время ишемии внутриклеточный ацидоз активирует Na+-H+ обменник для выведения H+ в обмен на Na+, вызывая натриевую перегрузку. Эта обратная активность способствует кальциевой перегрузке через NCX."
+    },
+    {
+      "id": 4,
+      "questionEn": "The action potential of myocytes is driven by the movement of electrically charged ions through ion channels. Which of the following is true regarding phase 1 of the action potential in myocytes?",
+      "questionRu": "Потенциал действия миоцитов обусловлен движением электрически заряженных ионов через ионные каналы. Что из следующего верно в отношении фазы 1 потенциала действия в миоцитах?",
+      "optionsEn": {
+        "A": "The ion responsible for this phase is potassium.",
+        "B": "The ion responsible for this phase is sodium.",
+        "C": "This phase occurs as a result of calcium entry into the cell.",
+        "D": "This phase occurs as a result of calcium exiting the cell."
+      },
+      "optionsRu": {
+        "A": "Ион, ответственный за эту фазу — калий.",
+        "B": "Ион, ответственный за эту фазу — натрий.",
+        "C": "Эта фаза возникает в результате входа кальция в клетку.",
+        "D": "Эта фаза возникает в результате выхода кальция из клетки."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Phase 0 (rapid depolarization) is caused by sodium influx. Phase 1 (early repolarization) is due to inactivation of sodium channels and transient outward potassium current, but the question likely refers to the sodium-driven upstroke.",
+      "explanationRu": "Фаза 0 (быстрая деполяризация) вызвана входом натрия. Фаза 1 (ранняя реполяризация) обусловлена инактивацией натриевых каналов и транзиторным выходящим калиевым током, но вопрос, вероятно, относится к натрий-зависимому подъему."
+    },
+    {
+      "id": 5,
+      "questionEn": "Which of the following is true regarding the Pressure-Volume Loop? (end-systolic point, down and right).",
+      "questionRu": "Что из следующего верно в отношении петли давление-объем? (конечно-систолическая точка, вниз и вправо).",
+      "optionsEn": {
+        "A": "An increase in afterload shifts the end-systolic point down and right and up.",
+        "B": "In acute ischemia, the entire loop shifts right and up.",
+        "C": "Adrenergic stimulation shifts the entire loop right.",
+        "D": "In hypertrophic heart, the loop shifts right."
+      },
+      "optionsRu": {
+        "A": "Увеличение постнагрузки смещает конечно-систолическую точку вниз, вправо и вверх.",
+        "B": "При острой ишемии вся петля смещается вправо и вверх.",
+        "C": "Адренергическая стимуляция смещает всю петлю вправо.",
+        "D": "При гипертрофированном сердце петля смещается вправо."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "In acute ischemia, decreased contractility shifts the end-systolic pressure-volume relationship rightward and upward, and increased filling pressures shift the loop rightward.",
+      "explanationRu": "При острой ишемии снижение сократимости смещает конечно-систолическое соотношение давление-объем вправо и вверх, а повышенное давление наполнения смещает петлю вправо."
+    },
+    {
+      "id": 6,
+      "questionEn": "Normal heart function depends on continuous ATP synthesis in the mitochondria. Which of the following regarding the heart's energy sources is correct?",
+      "questionRu": "Нормальная функция сердца зависит от непрерывного синтеза АТФ в митохондриях. Что из следующего в отношении источников энергии сердца верно?",
+      "optionsEn": {
+        "A": "Anaerobic enzymes are abundant in the heart in case of oxygen deficiency for ATP production.",
+        "B": "During exercise, lactate can provide up to ~70% of the heart's metabolic turnover.",
+        "C": "In fasting state, carbohydrates are responsible for about 70% of the heart's metabolism for ATP production.",
+        "D": "Most of the ATP in the heart is used to maintain the concentration gradient across the myocyte membrane."
+      },
+      "optionsRu": {
+        "A": "Анаэробные ферменты в изобилии присутствуют в сердце на случай дефицита кислорода для производства АТФ.",
+        "B": "Во время физической нагрузки лактат может обеспечивать до ~70% метаболического оборота сердца.",
+        "C": "В состоянии голодания углеводы отвечают примерно за 70% метаболизма сердца для производства АТФ.",
+        "D": "Большая часть АТФ в сердце используется для поддержания градиента концентрации через мембрану миоцита."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "In the fasting state, the heart prefers fatty acids for ATP production (≈70%). During exercise, lactate can be a significant fuel, but not 70%. Most ATP is used for contraction (myosin ATPase).",
+      "explanationRu": "В состоянии голодания сердце предпочитает жирные кислоты для производства АТФ (≈70%). Во время физической нагрузки лактат может быть значительным топливом, но не 70%. Большая часть АТФ используется для сокращения (миозиновая АТФаза)."
+    },
+    {
+      "id": 7,
+      "questionEn": "Which of the following substances does NOT regulate blood flow to the myocardium?",
+      "questionRu": "Какое из следующих веществ НЕ регулирует кровоток в миокарде?",
+      "optionsEn": {
+        "A": "Adenosine.",
+        "B": "Lactic acid.",
+        "C": "Oxygen.",
+        "D": "Histamine."
+      },
+      "optionsRu": {
+        "A": "Аденозин.",
+        "B": "Молочная кислота.",
+        "C": "Кислород.",
+        "D": "Гистамин."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Adenosine, lactic acid, and oxygen are key regulators of coronary blood flow via metabolic vasodilation. Histamine is involved in inflammation and allergy but is not a primary regulator of myocardial blood flow.",
+      "explanationRu": "Аденозин, молочная кислота и кислород являются ключевыми регуляторами коронарного кровотока посредством метаболической вазодилатации. Гистамин участвует в воспалении и аллергии, но не является первичным регулятором миокардиального кровотока."
+    },
+    {
+      "id": 8,
+      "questionEn": "Which of the following does NOT affect flow in a coronary artery with focal stenosis?",
+      "questionRu": "Что из следующего НЕ влияет на кровоток в коронарной артерии с фокальным стенозом?",
+      "optionsEn": {
+        "A": "Blood viscosity.",
+        "B": "Length of stenosis.",
+        "C": "Thickness of the supplied myocardium.",
+        "D": "Degree of stenosis (percentage of stenosis compared to a non-stenotic area)."
+      },
+      "optionsRu": {
+        "A": "Вязкость крови.",
+        "B": "Длина стеноза.",
+        "C": "Толщина кровоснабжаемого миокарда.",
+        "D": "Степень стеноза (процент стеноза по сравнению с нестенотической областью)."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Blood viscosity affects flow in all vessels but is not specific to stenosis geometry. According to Poiseuille's law, flow is inversely proportional to length and viscosity and highly dependent on radius (degree). Thickness of myocardium affects demand, not direct flow.",
+      "explanationRu": "Вязкость крови влияет на кровоток во всех сосудах, но не специфична для геометрии стеноза. Согласно закону Пуазейля, поток обратно пропорционален длине и вязкости и сильно зависит от радиуса (степени). Толщина миокарда влияет на потребность, а не на прямой поток."
+    },
+    {
+      "id": 9,
+      "questionEn": "Which etiology is the most common to cause diastolic heart failure?",
+      "questionRu": "Какая этиология наиболее часто вызывает диастолическую сердечную недостаточность?",
+      "optionsEn": {
+        "A": "Hypertension.",
+        "B": "Hypertrophic cardiomyopathy (HOCM).",
+        "C": "Dilated cardiomyopathy (DCM).",
+        "D": "Aortic stenosis."
+      },
+      "optionsRu": {
+        "A": "Гипертензия.",
+        "B": "Гипертрофическая кардиомиопатия (ГОКМП).",
+        "C": "Дилатационная кардиомиопатия (ДКМП).",
+        "D": "Аортальный стеноз."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "According to the answer key, the correct answer is D (aortic stenosis). However, in clinical practice, hypertension is the most common cause of diastolic HF. We follow the exam key.",
+      "explanationRu": "Согласно ключу ответов, правильный ответ — D (аортальный стеноз). Однако в клинической практике гипертензия является наиболее частой причиной диастолической СН. Мы следуем ключу экзамена."
+    },
+    {
+      "id": 10,
+      "questionEn": "Hibernating myocardium describes a functional state of ischemic heart. What is true about this condition?",
+      "questionRu": "Гибернирующий миокард описывает функциональное состояние ишемического сердца. Что верно об этом состоянии?",
+      "optionsEn": {
+        "A": "This is an irreversible condition.",
+        "B": "It can occur after reperfusion of the heart, either by PCI or by CABG.",
+        "C": "It mostly characterizes patients after PCI and less after CABG.",
+        "D": "It characterizes an area that is still ischemic but with viability."
+      },
+      "optionsRu": {
+        "A": "Это необратимое состояние.",
+        "B": "Оно может возникнуть после реперфузии сердца (ЧКВ или КШ).",
+        "C": "Оно чаще характеризует пациентов после ЧКВ, чем после КШ.",
+        "D": "Оно характеризует область, которая все еще ишемизирована, но жизнеспособна."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Hibernating myocardium is reversible with revascularization, so option A is false. But answer key says A. Possibly a misprint; we follow the key.",
+      "explanationRu": "Гибернирующий миокард обратим после реваскуляризации, поэтому вариант A неверен. Но ключ ответов указывает A. Возможно, опечатка; следуем ключу."
+    },
+    {
+      "id": 11,
+      "questionEn": "Dobutamine is an inotropic drug acting on beta receptors and is commonly used in patients before and/or after heart surgery. Which of the following about dobutamine is correct?",
+      "questionRu": "Добутамин — инотропный препарат, действующий на бета-рецепторы, широко используется у пациентов до и/или после кардиохирургических операций. Что из следующего о добутамине верно?",
+      "optionsEn": {
+        "A": "It has higher affinity for beta-2 receptors compared to beta-1 receptors.",
+        "B": "At low doses, it has a mild vasoconstrictive effect.",
+        "C": "It has a mild positive chronotropic effect.",
+        "D": "It causes ventricular arrhythmias only when given in high doses."
+      },
+      "optionsRu": {
+        "A": "Он имеет более высокое сродство к бета-2 рецепторам по сравнению с бета-1.",
+        "B": "В низких дозах оказывает легкое вазоконстрикторное действие.",
+        "C": "Он оказывает слабый положительный хронотропный эффект.",
+        "D": "Вызывает желудочковые аритмии только при введении в высоких дозах."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Dobutamine is a beta-1 agonist with mild chronotropic effects. It has higher affinity for beta-1 than beta-2. It causes vasodilation, not vasoconstriction. Arrhythmias can occur even at therapeutic doses.",
+      "explanationRu": "Добутамин является агонистом бета-1 с мягким хронотропным эффектом. Он имеет более высокое сродство к бета-1, чем к бета-2. Вызывает вазодилатацию, а не вазоконстрикцию. Аритмии могут возникать даже в терапевтических дозах."
+    },
+    {
+      "id": 12,
+      "questionEn": "Which of the following drugs increases renal blood flow?",
+      "questionRu": "Какой из следующих препаратов увеличивает почечный кровоток?",
+      "optionsEn": {
+        "A": "Levosimendan.",
+        "B": "Norepinephrine.",
+        "C": "Epinephrine.",
+        "D": "Milrinone."
+      },
+      "optionsRu": {
+        "A": "Левосимендан.",
+        "B": "Норэпинефрин.",
+        "C": "Эпинефрин.",
+        "D": "Мильринон."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Levosimendan has vasodilatory properties and has been shown to increase renal blood flow. Norepinephrine and epinephrine cause renal vasoconstriction. Milrinone may improve renal function but not directly increase renal blood flow consistently.",
+      "explanationRu": "Левосимендан обладает сосудорасширяющими свойствами, и в некоторых исследованиях было показано, что он увеличивает почечный кровоток. Норэпинефрин и эпинефрин вызывают почечную вазоконстрикцию. Мильринон может улучшать функцию почек, но не всегда напрямую увеличивает почечный кровоток."
+    },
+    {
+      "id": 13,
+      "questionEn": "During hypothermia, the pH of the blood becomes alkaline. What is correct regarding acid-base management during induced hypothermia in cardiac surgery?",
+      "questionRu": "Во время гипотермии pH крови становится щелочным. Что верно в отношении управления кислотно-щелочным состоянием во время индуцированной гипотермии в кардиохирургии?",
+      "optionsEn": {
+        "A": "alpha-stat is more effective than pH-stat in children.",
+        "B": "Cerebral blood flow is higher with alpha-stat compared to pH-stat.",
+        "C": "With alpha-stat, cerebral autoregulation is preserved.",
+        "D": "With pH-stat, blood pH remains alkaline during hypothermia and returns to normal after rewarming."
+      },
+      "optionsRu": {
+        "A": "alpha-stat более эффективен, чем pH-stat, у детей.",
+        "B": "Церебральный кровоток выше при alpha-stat по сравнению с pH-stat.",
+        "C": "При alpha-stat сохраняется церебральная ауторегуляция.",
+        "D": "При pH-stat pH крови остается щелочным во время гипотермии и возвращается к норме после согревания."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Alpha-stat management maintains pH at 7.40 at the patient's actual temperature, preserving cerebral autoregulation. pH-stat adds CO2 to keep pH at 7.40 at 37°C, leading to higher CBF and loss of autoregulation.",
+      "explanationRu": "Стратегия alpha-stat поддерживает pH на уровне 7,40 при фактической температуре пациента, сохраняя церебральную ауторегуляцию. pH-stat добавляет CO2 для поддержания pH 7,40 при 37°C, что приводит к увеличению МК и потере ауторегуляции."
+    },
+    {
+      "id": 14,
+      "questionEn": "Which of the following is NOT a parameter for monitoring brain suppression in surgery involving total circulatory arrest?",
+      "questionRu": "Что из следующего НЕ является параметром для мониторинга подавления активности мозга при операциях с полной остановкой кровообращения?",
+      "optionsEn": {
+        "A": "Jugular venous saturation.",
+        "B": "Nasopharyngeal temperature measurement.",
+        "C": "Electrical activity on EEG.",
+        "D": "Blood pH."
+      },
+      "optionsRu": {
+        "A": "Насыщение крови в яремной вене.",
+        "B": "Измерение назофарингеальной температуры.",
+        "C": "Электрическая активность на ЭЭГ.",
+        "D": "pH крови."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Blood pH is not a direct parameter for monitoring brain suppression. Jugular venous saturation reflects cerebral oxygen extraction, EEG shows electrical silence, and temperature guides cooling depth.",
+      "explanationRu": "pH крови не является прямым параметром для мониторинга подавления мозга. Сатурация яремной вены отражает церебральную экстракцию кислорода, ЭЭГ показывает электрическое молчание, а температура указывает глубину охлаждения."
+    },
+    {
+      "id": 15,
+      "questionEn": "One of the known complications after cardiac surgery using cardiopulmonary bypass is Heparin-associated thrombocytopenia (HIT). Which of the following is true about HIT?",
+      "questionRu": "Одним из известных осложнений после кардиохирургических операций с использованием искусственного кровообращения является гепарин-индуцированная тромбоцитопения (ГИТ). Что из следующего верно о ГИТ?",
+      "optionsEn": {
+        "A": "It typically occurs 5-10 days after heparin exposure.",
+        "B": "It is more common with unfractionated heparin than LMWH.",
+        "C": "It presents with bleeding rather than thrombosis.",
+        "D": "Platelet transfusion is the first-line treatment."
+      },
+      "optionsRu": {
+        "A": "Обычно возникает через 5-10 дней после воздействия гепарина.",
+        "B": "Чаще встречается при нефракционированном гепарине, чем при НМГ.",
+        "C": "Проявляется кровотечением, а не тромбозом.",
+        "D": "Трансфузия тромбоцитов является терапией первой линии."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "HIT type II is more common with unfractionated heparin. It typically presents with thrombosis 5-10 days after exposure. Platelet transfusion is contraindicated.",
+      "explanationRu": "ГИТ типа II чаще возникает при нефракционированном гепарине. Обычно проявляется тромбозом через 5-10 дней после воздействия. Трансфузия тромбоцитов противопоказана."
+    },
+    {
+      "id": 16,
+      "questionEn": "Antiplatelet drugs are widely used around myocardial infarction and PCI intervention. Which of the following statements about P2Y12 inhibitors is correct?",
+      "questionRu": "Антитромбоцитарные препараты широко используются при инфаркте миокарда и чрескожных коронарных вмешательствах (ЧКВ). Какое из следующих утверждений об ингибиторах P2Y12 верно?",
+      "optionsEn": {
+        "A": "Clopidogrel is a prodrug with rapid onset of action.",
+        "B": "Ticagrelor is reversible and has a short half-life.",
+        "C": "Prasugrel is preferred in patients with prior stroke.",
+        "D": "All P2Y12 inhibitors have similar bleeding risk."
+      },
+      "optionsRu": {
+        "A": "Клопидогрел является пролекарством с быстрым началом действия.",
+        "B": "Тикагрелор является обратимым и имеет короткий период полувыведения.",
+        "C": "Прасугрел предпочтителен у пациентов с инсультом в анамнезе.",
+        "D": "Все ингибиторы P2Y12 имеют одинаковый риск кровотечения."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Ticagrelor is a reversible, non-prodrug P2Y12 inhibitor with a half-life of about 7 hours. Clopidogrel and prasugrel are irreversible prodrugs. Prasugrel is contraindicated in prior stroke.",
+      "explanationRu": "Тикагрелор является обратимым ингибитором P2Y12, не пролекарством, с периодом полувыведения около 7 часов. Клопидогрел и прасугрел — необратимые пролекарства. Прасугрел противопоказан при инсульте в анамнезе."
+    },
+    {
+      "id": 17,
+      "questionEn": "All of the following increase the risk of receiving blood products after cardiac surgery except:",
+      "questionRu": "Все следующие факторы увеличивают риск переливания крови после кардиохирургических операций, кроме:",
+      "optionsEn": {
+        "A": "Preoperative anemia.",
+        "B": "Low body weight.",
+        "C": "Female gender.",
+        "D": "Use of off-pump surgery."
+      },
+      "optionsRu": {
+        "A": "Предоперационная анемия.",
+        "B": "Низкая масса тела.",
+        "C": "Женский пол.",
+        "D": "Использование операции без искусственного кровообращения."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Off-pump surgery reduces blood transfusion requirements. The other factors increase the risk of receiving blood products.",
+      "explanationRu": "Операции без искусственного кровообращения снижают потребность в переливании крови. Другие факторы увеличивают риск переливания крови."
+    },
+    {
+      "id": 18,
+      "questionEn": "Question text missing (reconstructed from answer key).",
+      "questionRu": "Текст вопроса отсутствует (восстановлен по ключу ответов).",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Original question not recoverable; answer based on answer key.",
+      "explanationRu": "Оригинальный вопрос не восстановлен; ответ основан на ключе ответов."
+    },
+    {
+      "id": 19,
+      "questionEn": "The highest mortality in a patient with AS (Aortic Stenosis) is associated with which symptom?",
+      "questionRu": "Наиболее высокая смертность у пациента с аортальным стенозом связана с каким симптомом?",
+      "optionsEn": {
+        "A": "Angina.",
+        "B": "Syncope.",
+        "C": "Heart failure (dyspnea).",
+        "D": "Palpitations."
+      },
+      "optionsRu": {
+        "A": "Стенокардия.",
+        "B": "Синкопе.",
+        "C": "Сердечная недостаточность (одышка).",
+        "D": "Сердцебиение."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "In aortic stenosis, heart failure symptoms carry the worst prognosis, with median survival of 1-2 years.",
+      "explanationRu": "При аортальном стенозе симптомы сердечной недостаточности имеют наихудший прогноз, медиана выживаемости 1-2 года."
+    },
+    {
+      "id": 20,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 21,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 22,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 23,
+      "questionEn": "What is true about the dynamic anatomical structure of the mitral valve in a normal physiological state?",
+      "questionRu": "Что верно о динамической анатомической структуре митрального клапана в нормальном физиологическом состоянии?",
+      "optionsEn": {
+        "A": "During systole, the mitral annulus moves downwards (towards the apex).",
+        "B": "The anterior annulus is mobile during the cardiac cycle.",
+        "C": "The posterior annulus moves toward the anterior annulus during diastole.",
+        "D": "The smallest annulus area is at end-systole."
+      },
+      "optionsRu": {
+        "A": "Во время систолы митральное кольцо движется вниз (к верхушке).",
+        "B": "Передняя часть кольца подвижна во время сердечного цикла.",
+        "C": "Задняя часть кольца движется к передней во время диастолы.",
+        "D": "Наименьшая площадь кольца — в конце систолы."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The anterior annulus is part of the fibrous skeleton and is relatively immobile, while the posterior annulus is mobile. Option B says anterior annulus is mobile — false, but answer key says B. Possibly refers to overall annular dynamics.",
+      "explanationRu": "Передняя часть кольца является частью фиброзного скелета и относительно неподвижна, в то время как задняя часть подвижна. Вариант B говорит, что передняя часть подвижна — неверно, но ключ ответов указывает B. Возможно, речь об общей динамике кольца."
+    },
+    {
+      "id": 24,
+      "questionEn": "Which of the following increases the risk of developing Systolic Anterior Motion (SAM) after mitral valve repair for myxomatous MR?",
+      "questionRu": "Что из следующего увеличивает риск развития систолического переднего движения (SAM) после пластики митрального клапана по поводу миксоматозной митральной регургитации?",
+      "optionsEn": {
+        "A": "Extensive resection of the posterior leaflet for repair.",
+        "B": "Implantation of artificial chordae to the anterior leaflet for repair.",
+        "C": "Resection of the anterior leaflet for repair.",
+        "D": "Use of a small ring for repair."
+      },
+      "optionsRu": {
+        "A": "Обширная резекция задней створки.",
+        "B": "Имплантация искусственных хорд к передней створке.",
+        "C": "Резекция передней створки.",
+        "D": "Использование маленького кольца."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Extensive posterior leaflet resection can lead to SAM by causing excess anterior leaflet tissue and altered geometry. A small ring also increases risk, but answer key says A.",
+      "explanationRu": "Обширная резекция задней створки может привести к SAM из-за избыточной ткани передней створки и измененной геометрии. Маленькое кольцо также увеличивает риск, но ключ ответов указывает A."
+    },
+    {
+      "id": 25,
+      "questionEn": "Which of the following pathologies is the most common in patients undergoing mitral valve repair for degenerative disease?",
+      "questionRu": "Какая из следующих патологий наиболее часто встречается у пациентов, переносящих пластику митрального клапана по поводу дегенеративного заболевания?",
+      "optionsEn": {
+        "A": "Valve stenosis.",
+        "B": "Prolapse of the posterior leaflet.",
+        "C": "Prolapse of the anterior leaflet.",
+        "D": "Prolapse of both leaflets."
+      },
+      "optionsRu": {
+        "A": "Стеноз клапана.",
+        "B": "Пролапс задней створки.",
+        "C": "Пролапс передней створки.",
+        "D": "Пролапс обеих створок."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "In degenerative mitral valve disease (myxomatous degeneration), posterior leaflet prolapse (P2 segment) is most common.",
+      "explanationRu": "При дегенеративном поражении митрального клапана (миксоматозная дегенерация) наиболее частым является пролапс задней створки (сегмент P2)."
+    },
+    {
+      "id": 26,
+      "questionEn": "Fixation (using glutaraldehyde solution) of autologous pericardium for valve repair with a patch is intended for all of the following EXCEPT:",
+      "questionRu": "Фиксация (с использованием раствора глутаральдегида) аутологичного перикарда для пластики клапана с заплатой предназначена для всего следующего, КРОМЕ:",
+      "optionsEn": {
+        "A": "Preventing patch tear.",
+        "B": "Preventing patch contraction.",
+        "C": "Reducing antigenicity of the patch.",
+        "D": "Preventing calcification of the patch."
+      },
+      "optionsRu": {
+        "A": "Предотвращение разрыва заплаты.",
+        "B": "Предотвращение сокращения заплаты.",
+        "C": "Снижение антигенности заплаты.",
+        "D": "Предотвращение кальцификации заплаты."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Glutaraldehyde cross-links collagen, reducing antigenicity, preventing contraction, and decreasing calcification. It does not prevent patch tear; it may make tissue stiffer.",
+      "explanationRu": "Глутаральдегид сшивает коллаген, снижая антигенность, предотвращая сокращение и уменьшая кальцификацию. Он не предотвращает разрыв заплаты; может сделать ткань более жесткой."
+    },
+    {
+      "id": 27,
+      "questionEn": "What is true about the anatomy of the tricuspid valve?",
+      "questionRu": "Что верно об анатомии трикуспидального клапана?",
+      "optionsEn": {
+        "A": "The anterior papillary muscle provides chordae to the anterior and septal leaflets of the tricuspid valve.",
+        "B": "The medial papillary muscle provides chordae to the anterior and septal leaflets of the tricuspid valve.",
+        "C": "The medial papillary muscle provides chordae to the anterior and posterior leaflets of the tricuspid valve.",
+        "D": "The septal wall provides chordae to the anterior and septal leaflets of the tricuspid valve."
+      },
+      "optionsRu": {
+        "A": "Передняя папиллярная мышца дает хорды к передней и перегородочной створкам трикуспидального клапана.",
+        "B": "Медиальная папиллярная мышца дает хорды к передней и перегородочной створкам.",
+        "C": "Медиальная папиллярная мышца дает хорды к передней и задней створкам.",
+        "D": "Перегородочная стенка дает хорды к передней и перегородочной створкам."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The medial papillary muscle (of Lancisi) supplies chordae to the anterior and septal leaflets.",
+      "explanationRu": "Медиальная папиллярная мышца (Ланчизи) дает хорды к передней и перегородочной створкам."
+    },
+    {
+      "id": 28,
+      "questionEn": "All of the following are risk factors for recurrence of functional TR after long-term follow-up following TR repair, EXCEPT:",
+      "questionRu": "Все следующие факторы являются факторами риска рецидива функциональной трикуспидальной регургитации (ТР) после длительного наблюдения после пластики ТК, КРОМЕ:",
+      "optionsEn": {
+        "A": "Performing DeVega annuloplasty.",
+        "B": "High right ventricular systolic pressure.",
+        "C": "Endocardial leads in the right ventricle.",
+        "D": "Low left ventricular ejection fraction."
+      },
+      "optionsRu": {
+        "A": "Выполнение аннулопластики по Де Вега.",
+        "B": "Высокое систолическое давление в правом желудочке.",
+        "C": "Эндокардиальные электроды в правом желудочке.",
+        "D": "Низкая фракция выброса левого желудочка."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Endocardial leads can cause TR but are not a proven risk factor for recurrence after repair. The answer key indicates C.",
+      "explanationRu": "Эндокардиальные электроды могут вызывать ТР, но не являются доказанным фактором риска рецидива после пластики. Ключ ответов указывает C."
+    },
+    {
+      "id": 29,
+      "questionEn": "All of the following are correct regarding a prosthetic valve in the tricuspid position EXCEPT:",
+      "questionRu": "Все следующее верно в отношении протезного клапана в трикуспидальной позиции, КРОМЕ:",
+      "optionsEn": {
+        "A": "Pannus formation below the valve is more common than degeneration of a biological prosthesis.",
+        "B": "In case of endocarditis - the native valve can be excised and a prosthetic valve implanted only after several months.",
+        "C": "The risk of clot formation on a mechanical prosthesis is higher compared to a prosthesis in the mitral position.",
+        "D": "The average lifespan of a biological prosthesis is similar to a prosthesis in the mitral position."
+      },
+      "optionsRu": {
+        "A": "Образование паннуса под клапаном более распространено, чем дегенерация биологического протеза.",
+        "B": "В случае эндокардита нативный клапан можно иссечь и имплантировать протез только через несколько месяцев.",
+        "C": "Риск тромбообразования на механическом протезе выше по сравнению с протезом в митральной позиции.",
+        "D": "Средняя продолжительность жизни биологического протеза аналогична протезу в митральной позиции."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Bioprostheses in the tricuspid position have better durability than in the mitral position due to lower pressures. Option D is false.",
+      "explanationRu": "Биопротезы в трикуспидальной позиции имеют лучшую долговечность, чем в митральной, из-за более низкого давления. Вариант D неверен."
+    },
+    {
+      "id": 30,
+      "questionEn": "A 49-year-old woman, with no known cardiovascular risk factors, presented to the ER with shortness of breath and chest pain with each breath. During physical examination, she loses consciousness and pulse is not palpable. Chest compressions are started and bedside TTE is performed showing well-contracting left ventricle, a dilated right ventricle with severely reduced function, and no signs of tamponade. Also, no aortic dissection is seen. With a working diagnosis of pulmonary embolism, the patient is under compressions (~27 minutes) and supported with high doses of amines. What is the next step?",
+      "questionRu": "Женщина 49 лет без известных сердечно-сосудистых факторов риска обратилась в отделение неотложной помощи с одышкой и болью в груди при каждом вдохе. Во время физикального осмотра она теряет сознание, пульс не прощупывается. Начинают компрессии грудной клетки и выполняют прикроватную эхокардиографию (TTE), которая показывает хорошо сокращающийся левый желудочек, расширенный правый желудочек с резко сниженной функцией и отсутствие признаков тампонады. Также не видно расслоения аорты. С рабочим диагнозом тромбоэмболии легочной артерии (ТЭЛА) пациентка находится на компрессиях (~27 минут) и получает высокие дозы аминов. Каков следующий шаг?",
+      "optionsEn": {
+        "A": "Connect to VA-ECMO in the ER.",
+        "B": "Perform chest CT angiography for diagnosis.",
+        "C": "Operate for pulmonary embolectomy.",
+        "D": "Perform coronary catheterization now."
+      },
+      "optionsRu": {
+        "A": "Подключить к ВА-ЭКМО в отделении неотложной помощи.",
+        "B": "Выполнить КТ-ангиографию грудной клетки для диагностики.",
+        "C": "Выполнить хирургическую эмболэктомию легочной артерии.",
+        "D": "Немедленно выполнить коронарографию."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "In massive PE with cardiac arrest and ongoing CPR, surgical pulmonary embolectomy is indicated if thrombolysis is contraindicated or failed. The patient is still under CPR, so immediate embolectomy can be life-saving.",
+      "explanationRu": "При массивной ТЭЛА с остановкой сердца и продолжающейся СЛР показана хирургическая эмболэктомия, если тромболизис противопоказан или неэффективен. Пациентка все еще на СЛР, поэтому немедленная эмболэктомия может спасти жизнь."
+    },
+    {
+      "id": 31,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 32,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 33,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 34,
+      "questionEn": "Ehlers-Danlos Syndrome is a connective tissue disease known as a risk factor for aortic dissection. What is true about this syndrome?",
+      "questionRu": "Синдром Элерса-Данлоса — заболевание соединительной ткани, известное как фактор риска расслоения аорты. Что верно об этом синдроме?",
+      "optionsEn": {
+        "A": "The inheritance pattern is autosomal recessive.",
+        "B": "The mutation causing the syndrome is in the gene encoding the TGF-beta receptor.",
+        "C": "It mainly affects the carotid and mesenteric arteries and less so the aorta.",
+        "D": "It is characterized by damage to fibrillin-1, which has a role in the aortic wall."
+      },
+      "optionsRu": {
+        "A": "Тип наследования — аутосомно-рецессивный.",
+        "B": "Мутация, вызывающая синдром, находится в гене, кодирующем рецептор TGF-бета.",
+        "C": "В основном поражает сонные и брыжеечные артерии и в меньшей степени аорту.",
+        "D": "Характеризуется повреждением фибриллина-1, который играет роль в стенке аорты."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Ehlers-Danlos syndrome (vascular type IV) affects medium-sized arteries, including carotid and mesenteric, as well as the aorta. Fibrillin-1 is involved in Marfan syndrome. TGF-beta receptor mutations cause Loeys-Dietz.",
+      "explanationRu": "Синдром Элерса-Данлоса (сосудистый тип IV) поражает артерии среднего калибра, включая сонные и брыжеечные, а также аорту. Фибриллин-1 вовлечен в синдром Марфана. Мутации рецептора TGF-бета вызывают синдром Лойса-Дитца."
+    },
+    {
+      "id": 35,
+      "questionEn": "Connective tissue diseases can increase the risk of developing aortic aneurysm. Which type of collagen damage is found most frequently in the development of large vessel aneurysm?",
+      "questionRu": "Заболевания соединительной ткани могут увеличить риск развития аневризмы аорты. Какой тип повреждения коллагена наиболее часто встречается при развитии аневризмы крупных сосудов?",
+      "optionsEn": {
+        "A": "Collagen type I.",
+        "B": "Collagen type II.",
+        "C": "Collagen type III.",
+        "D": "Collagen type IV."
+      },
+      "optionsRu": {
+        "A": "Коллаген типа I.",
+        "B": "Коллаген типа II.",
+        "C": "Коллаген типа III.",
+        "D": "Коллаген типа IV."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Type III collagen is found in blood vessels and skin; defects cause Ehlers-Danlos syndrome type IV, associated with arterial aneurysms and dissections.",
+      "explanationRu": "Коллаген типа III содержится в кровеносных сосудах и коже; дефекты вызывают синдром Элерса-Данлоса типа IV, связанный с артериальными аневризмами и расслоениями."
+    },
+    {
+      "id": 36,
+      "questionEn": "Various agents can cause a true aneurysm of the ascending aorta. Which of the following agents is NOT associated?",
+      "questionRu": "Различные агенты могут вызывать истинную аневризму восходящей аорты. Какой из следующих агентов НЕ ассоциирован?",
+      "optionsEn": {
+        "A": "Staphylococcus aureus.",
+        "B": "Salmonella.",
+        "C": "Treponema pallidum.",
+        "D": "Aspergillus aortitis."
+      },
+      "optionsRu": {
+        "A": "Staphylococcus aureus.",
+        "B": "Salmonella.",
+        "C": "Treponema pallidum (возбудитель сифилиса).",
+        "D": "Аспергиллезный аортит."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Syphilitic aortitis (Treponema) and mycotic aneurysms (Staph, Salmonella) can cause ascending aortic aneurysms. Aspergillus aortitis is rare and not typically associated with true aneurysm formation.",
+      "explanationRu": "Сифилитический аортит (Treponema) и микотические аневризмы (Staph, Salmonella) могут вызывать аневризмы восходящей аорты. Аспергиллезный аортит встречается редко и обычно не связан с формированием истинной аневризмы."
+    },
+    {
+      "id": 37,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 38,
+      "questionEn": "Which of the following statements about chronic thromboembolic pulmonary hypertension (CTEPH) is INCORRECT?",
+      "questionRu": "Какое из следующих утверждений о хронической тромбоэмболической легочной гипертензии (ХТЭЛГ) НЕВЕРНО?",
+      "optionsEn": {
+        "A": "Most patients have a history of documented pulmonary embolism (PE).",
+        "B": "The prognosis is grim and without treatment almost all patients will die from right heart failure.",
+        "C": "In surgery, fibrotic tissue is usually seen, not clots.",
+        "D": "The gold standard diagnostic test is pulmonary angiography."
+      },
+      "optionsRu": {
+        "A": "У большинства пациентов в анамнезе документирована ТЭЛА.",
+        "B": "Прогноз неблагоприятный, и без лечения почти все пациенты умирают от правожелудочковой недостаточности.",
+        "C": "При операции обычно видна фиброзная ткань, а не тромбы.",
+        "D": "Золотым стандартом диагностики является легочная ангиография."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "The gold standard for CTEPH is right heart catheterization and pulmonary angiography (still correct). The question asks for INCORRECT; answer key says D. Possibly they consider CT angiography as current gold standard.",
+      "explanationRu": "Золотым стандартом ХТЭЛГ является катетеризация правых отделов сердца и легочная ангиография. Вопрос требует НЕВЕРНОЕ утверждение; ключ ответов указывает D. Возможно, они считают КТ-ангиографию современным золотым стандартом."
+    },
+    {
+      "id": 39,
+      "questionEn": "Which condition is an absolute contraindication for performing minimally invasive mitral valve surgery via right thoracotomy?",
+      "questionRu": "Какое состояние является абсолютным противопоказанием для выполнения минимально инвазивной операции на митральном клапане через правую торакотомию?",
+      "optionsEn": {
+        "A": "Need for concomitant tricuspid valve repair.",
+        "B": "Pectus carinatum.",
+        "C": "Bypass surgery 5 years ago with evidence of a patent venous graft.",
+        "D": "Open lung biopsy from the right lung 5 years ago (benign finding)."
+      },
+      "optionsRu": {
+        "A": "Необходимость одновременной пластики трикуспидального клапана.",
+        "B": "Pectus carinatum (килевидная грудная клетка).",
+        "C": "Операция шунтирования 5 лет назад с функционирующим венозным шунтом.",
+        "D": "Открытая биопсия правого легкого 5 лет назад (доброкачественное образование)."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Previous lung biopsy may cause pleural adhesions, but not an absolute contraindication. Answer key indicates D.",
+      "explanationRu": "Предыдущая биопсия легкого может вызвать плевральные спайки, но не является абсолютным противопоказанием. Ключ ответов указывает D."
+    },
+    {
+      "id": 40,
+      "questionEn": "Two days after AVR surgery, a hemodynamically stable patient is sitting in a chair and connected to a pacemaker via ventricular electrodes due to a conduction block with slow ventricular rate. The pacemaker parameters are: mode VVI, output 12mA, sensitivity 6mV, rate 78/min. Suddenly, he loses consciousness and the monitor shows the following image (image missing). After defibrillation, the patient regains full consciousness and is paced as before the event. The next step to take is:",
+      "questionRu": "Через два дня после операции протезирования аортального клапана гемодинамически стабильный пациент сидит на стуле и подключен к кардиостимулятору через желудочковые электроды из-за блокады проведения с низкой частотой желудочков. Параметры стимулятора: режим VVI, выход 12 мА, чувствительность 6 мВ, частота 78/мин. Внезапно он теряет сознание, и на мониторе появляется следующее изображение (изображение отсутствует). После дефибрилляции пациент полностью приходит в сознание, и стимуляция возвращается к прежнему режиму. Каков следующий шаг?",
+      "optionsEn": {
+        "A": "Increase sensitivity to 12mV.",
+        "B": "Change mode to VOO.",
+        "C": "Increase output to 20mA.",
+        "D": "Decrease sensitivity to 1mV."
+      },
+      "optionsRu": {
+        "A": "Увеличить чувствительность до 12 мВ.",
+        "B": "Изменить режим на VOO.",
+        "C": "Увеличить выход до 20 мА.",
+        "D": "Уменьшить чувствительность до 1 мВ."
+      },
+      "image": "2020-40.jpg",
+      "correctAnswer": "C",
+      "explanationEn": "The event likely represents loss of capture. Increasing output ensures capture. Sensitivity adjustment addresses sensing.",
+      "explanationRu": "Событие, вероятно, представляет собой потерю захвата. Увеличение выхода обеспечит захват. Регулировка чувствительности влияет на восприятие."
+    },
+    {
+      "id": 41,
+      "questionEn": "A chest stab wound victim arrives in shock to the ER and is diagnosed with tamponade. In the ER, he undergoes emergency thoracotomy where clots are seen in the pericardium and evidence of a stab to the right ventricle. To evacuate clots from the pericardial space, the surgeon slides his hand under the heart at the apex area until it gets stuck at a certain point that prevents further hand insertion. What is that point?",
+      "questionRu": "Пострадавший с ножевым ранением груди поступает в отделение неотложной помощи в состоянии шока, диагностирована тампонада. В отделении неотложной помощи ему выполняют экстренную торакотомию, видны сгустки в перикарде и признаки ножевого ранения правого желудочка. Чтобы удалить сгустки из перикардиального пространства, хирург проводит рукой под сердцем в области верхушки, пока она не застревает в определенном месте, что препятствует дальнейшему введению руки. Что это за место?",
+      "optionsEn": {
+        "A": "Cardiac notch.",
+        "B": "Costomediastinal recess.",
+        "C": "Oblique pericardial sinus.",
+        "D": "Transverse pericardial sinus."
+      },
+      "optionsRu": {
+        "A": "Сердечная вырезка.",
+        "B": "Реберно-средостенное углубление.",
+        "C": "Косой перикардиальный синус.",
+        "D": "Поперечный перикардиальный синус."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The oblique pericardial sinus is located posterior to the left atrium, between the pulmonary veins, and is a blind recess that can trap the hand.",
+      "explanationRu": "Косой перикардиальный синус расположен позади левого предсердия, между легочными венами, и является слепым углублением, которое может задерживать руку."
+    },
+    {
+      "id": 42,
+      "questionEn": "All of the following are part of Beck's triad EXCEPT:",
+      "questionRu": "Все следующие элементы входят в триаду Бека, КРОМЕ:",
+      "optionsEn": {
+        "A": "Hypotension.",
+        "B": "Tachycardia.",
+        "C": "Muffled heart sounds on auscultation.",
+        "D": "Distension of jugular veins."
+      },
+      "optionsRu": {
+        "A": "Гипотензия.",
+        "B": "Тахикардия.",
+        "C": "Приглушенные тоны сердца при аускультации.",
+        "D": "Набухание яремных вен."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Beck's triad for cardiac tamponade consists of hypotension, muffled heart sounds, and jugular venous distension. Tachycardia is common but not part of the classic triad.",
+      "explanationRu": "Триада Бека при тампонаде сердца состоит из гипотензии, приглушенных тонов сердца и набухания яремных вен. Тахикардия является частым признаком, но не входит в классическую триаду."
+    },
+    {
+      "id": 43,
+      "questionEn": "The most common cause of pericardial constriction in the general population is:",
+      "questionRu": "Наиболее частая причина констриктивного перикардита в общей популяции:",
+      "optionsEn": {
+        "A": "Pericarditis.",
+        "B": "Idiopathic.",
+        "C": "Heart surgery.",
+        "D": "Radiation."
+      },
+      "optionsRu": {
+        "A": "Перикардит.",
+        "B": "Идиопатический.",
+        "C": "Операция на сердце.",
+        "D": "Радиация."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "According to the answer key, radiation is the most common cause. In many populations, idiopathic or post-cardiac surgery is more common, but we follow the exam key.",
+      "explanationRu": "Согласно ключу ответов, радиация является наиболее частой причиной. Во многих популяциях чаще встречается идиопатический или послеоперационный, но мы следуем ключу экзамена."
+    },
+    {
+      "id": 44,
+      "questionEn": "What is NOT true regarding Carney's complex?",
+      "questionRu": "Что НЕ соответствует действительности в отношении комплекса Карни?",
+      "optionsEn": {
+        "A": "It is transmitted in an X-linked inheritance pattern.",
+        "B": "High blood cortisol levels can be found.",
+        "C": "Skin pigmentation raises suspicion.",
+        "D": "Tuberous sclerosis."
+      },
+      "optionsRu": {
+        "A": "Передается по Х-сцепленному типу наследования.",
+        "B": "Может наблюдаться высокий уровень кортизола в крови.",
+        "C": "Пигментация кожи вызывает подозрение.",
+        "D": "Туберозный склероз."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Carney complex is autosomal dominant, not X-linked. Tuberous sclerosis is a separate disorder not part of Carney complex.",
+      "explanationRu": "Комплекс Карни наследуется аутосомно-доминантно, а не Х-сцеплено. Туберозный склероз — отдельное заболевание, не входящее в комплекс Карни."
+    },
+    {
+      "id": 45,
+      "questionEn": "What is NOT true about myxoma?",
+      "questionRu": "Что НЕ соответствует действительности в отношении миксомы?",
+      "optionsEn": {
+        "A": "Its most common location is the left atrium.",
+        "B": "More common in women.",
+        "C": "1% of patients have a family history.",
+        "D": "Up to 5%..."
+      },
+      "optionsRu": {
+        "A": "Наиболее частая локализация — левое предсердие.",
+        "B": "Чаще встречается у женщин.",
+        "C": "1% пациентов имеют семейный анамнез.",
+        "D": "До 5% ..."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "About 7-10% of myxomas are familial (Carney complex), not 1%.",
+      "explanationRu": "Около 7-10% миксом являются семейными (комплекс Карни), а не 1%."
+    },
+    {
+      "id": 46,
+      "questionEn": "What is true about cardiac lipoma?",
+      "questionRu": "Что верно о сердечной липоме?",
+      "optionsEn": {
+        "A": "More common in women.",
+        "B": "Its most common location is the right atrium and left ventricle.",
+        "C": "It is a fast-growing tumor but usually does not invade the myocardium.",
+        "D": "After removal, it tends to recur after several years."
+      },
+      "optionsRu": {
+        "A": "Чаще встречается у женщин.",
+        "B": "Наиболее частая локализация — правое предсердие и левый желудочек.",
+        "C": "Это быстрорастущая опухоль, но обычно не прорастает в миокард.",
+        "D": "После удаления имеет тенденцию рецидивировать через несколько лет."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Cardiac lipomas are benign, slow-growing tumors most commonly found in the right atrium or left ventricle.",
+      "explanationRu": "Сердечные липомы — доброкачественные, медленно растущие опухоли, чаще всего встречающиеся в правом предсердии или левом желудочке."
+    },
+    {
+      "id": 47,
+      "questionEn": "What is true about cardiac angiosarcoma?",
+      "questionRu": "Что верно о сердечной ангиосаркоме?",
+      "optionsEn": {
+        "A": "The most common site of occurrence is the right atrium.",
+        "B": "It is the second most common primary malignant tumor of the heart.",
+        "C": "Characterized by slow growth and good response to a combination of chemotherapy and radiation.",
+        "D": "More common in women."
+      },
+      "optionsRu": {
+        "A": "Наиболее частая локализация — правое предсердие.",
+        "B": "Это вторая по частоте первичная злокачественная опухоль сердца.",
+        "C": "Характеризуется медленным ростом и хорошим ответом на комбинацию химиотерапии и радиации.",
+        "D": "Чаще встречается у женщин."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Angiosarcoma is the most common primary malignant cardiac tumor, typically arising in the right atrium.",
+      "explanationRu": "Ангиосаркома является наиболее частой первичной злокачественной опухолью сердца, обычно возникающей в правом предсердии."
+    },
+    {
+      "id": 48,
+      "questionEn": "A 46-year-old woman, two years after chest irradiation for Hodgkin's lymphoma, now suffers from dyspnea on mild exertion. TTE shows preserved systolic function of the left ventricle, moderate pericardial effusion, and impression of pericardial thickening. She undergoes pericardiocentesis with drainage of 577 ml of serous fluid, but the patient's symptoms continue and she reports no relief at all. What is the next step?",
+      "questionRu": "Женщина 46 лет, через два года после облучения грудной клетки по поводу лимфомы Ходжкина, теперь страдает от одышки при небольшой физической нагрузке. Трансторакальная эхокардиография (TTE) показывает сохраненную систолическую функцию левого желудочка, умеренный перикардиальный выпот и впечатление утолщения перикарда. Ей проводят перикардиоцентез с дренированием 577 мл серозной жидкости, но симптомы пациентки сохраняются, и она сообщает об отсутствии какого-либо облегчения. Каков следующий шаг?",
+      "optionsEn": {
+        "A": "Chest CT.",
+        "B": "Aggressive diuretic therapy.",
+        "C": "Cardiopulmonary exercise test.",
+        "D": "Right heart catheterization."
+      },
+      "optionsRu": {
+        "A": "КТ грудной клетки.",
+        "B": "Агрессивная диуретическая терапия.",
+        "C": "Кардиопульмональный нагрузочный тест.",
+        "D": "Катетеризация правых отделов сердца."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Persistent symptoms after pericardiocentesis suggest constrictive physiology. Right heart catheterization can confirm constriction by showing equalization of diastolic pressures.",
+      "explanationRu": "Сохранение симптомов после перикардиоцентеза предполагает констриктивную физиологию. Катетеризация правых отделов сердца может подтвердить констрикцию, показав выравнивание диастолических давлений."
+    },
+    {
+      "id": 49,
+      "questionEn": "A 53-year-old LVAD recipient for 3 years suffers from recurrent GI bleeding and has been treated with many blood products over the last year. As part of routine preparation for future heart transplantation, high levels of antibodies (PRA - percent reactive antibody) were found. Which of the following is NOT part of desensitization therapy for him?",
+      "questionRu": "Реципиент LVAD 53 лет на протяжении 3 лет страдает от рецидивирующего желудочно-кишечного кровотечения и получал много продуктов крови за последний год. В рамках рутинной подготовки к будущей трансплантации сердца были обнаружены высокие уровни антител (PRA — процент реактивных антител). Что из следующего НЕ является частью десенсибилизирующей терапии для него?",
+      "optionsEn": {
+        "A": "Prednisone.",
+        "B": "Plasmapheresis.",
+        "C": "Intravenous immunoglobulin (IVIG).",
+        "D": "Rituximab (anti-CD-20)."
+      },
+      "optionsRu": {
+        "A": "Преднизон.",
+        "B": "Плазмаферез.",
+        "C": "Внутривенный иммуноглобулин (ВВИГ).",
+        "D": "Ритуксимаб (анти-CD20)."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Desensitization includes plasmapheresis, IVIG, and rituximab. Prednisone is used for maintenance immunosuppression, not desensitization.",
+      "explanationRu": "Десенсибилизация включает плазмаферез, ВВИГ и ритуксимаб. Преднизон используется для поддерживающей иммуносупрессии, а не для десенсибилизации."
+    },
+    {
+      "id": 50,
+      "questionEn": "What is the most common cause of death in heart transplant recipients, one year after transplantation?",
+      "questionRu": "Какова наиболее частая причина смерти у реципиентов трансплантата сердца через один год после трансплантации?",
+      "optionsEn": {
+        "A": "Primary graft dysfunction.",
+        "B": "Chronic cellular rejection.",
+        "C": "Coronary allograft vasculopathy.",
+        "D": "Malignancy."
+      },
+      "optionsRu": {
+        "A": "Первичная дисфункция трансплантата.",
+        "B": "Хроническое клеточное отторжение.",
+        "C": "Коронарная васкулопатия трансплантата.",
+        "D": "Злокачественные новообразования."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "After the first year, coronary allograft vasculopathy (CAV) is the leading cause of late death and graft failure.",
+      "explanationRu": "После первого года коронарная васкулопатия трансплантата является ведущей причиной поздней смерти и дисфункции трансплантата."
+    },
+    {
+      "id": 51,
+      "questionEn": "Anti-rejection therapy for heart transplant recipients is known to increase the risk of developing malignancies. Which anti-rejection therapy reduces the risk of malignancies in heart transplant recipients?",
+      "questionRu": "Антирежекционная терапия у реципиентов трансплантата сердца, как известно, увеличивает риск развития злокачественных новообразований. Какая антирежекционная терапия снижает риск злокачественных новообразований у реципиентов трансплантата сердца?",
+      "optionsEn": {
+        "A": "Mycophenolate Mofetil (Cellcept).",
+        "B": "Sirolimus (Rapamycin).",
+        "C": "FK-506 (Tacrolimus).",
+        "D": "Azathioprine (Imuran)."
+      },
+      "optionsRu": {
+        "A": "Микофенолата мофетил (Селлсепт).",
+        "B": "Сиролимус (Рапамицин).",
+        "C": "FK-506 (Такролимус).",
+        "D": "Азатиоприн (Имуран)."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Sirolimus (rapamycin) has anti-proliferative and anti-cancer properties and is associated with a reduced risk of malignancies compared to other immunosuppressants.",
+      "explanationRu": "Сиролимус (рапамицин) обладает антипролиферативными и противораковыми свойствами и ассоциируется со сниженным риском злокачественных новообразований по сравнению с другими иммуносупрессантами."
+    },
+    {
+      "id": 52,
+      "questionEn": "Each of the following combinations is an accepted anti-rejection therapy for a heart transplant recipient, EXCEPT:",
+      "questionRu": "Каждая из следующих комбинаций является приемлемой антирежекционной терапией для реципиента трансплантата сердца, КРОМЕ:",
+      "optionsEn": {
+        "A": "Prednisone, Cyclosporine, Tacrolimus (FK-506).",
+        "B": "Prednisone, Imuran (Azathioprine), Tacrolimus (FK-506).",
+        "C": "Prednisone, Cellcept (Mycophenolate Mofetil), Tacrolimus (FK-506).",
+        "D": "Prednisone, Cellcept (Mycophenolate Mofetil), Cyclosporine."
+      },
+      "optionsRu": {
+        "A": "Преднизон, Циклоспорин, Такролимус (FK-506).",
+        "B": "Преднизон, Имуран (Азатиоприн), Такролимус (FK-506).",
+        "C": "Преднизон, Селлсепт (Микофенолата мофетил), Такролимус (FK-506).",
+        "D": "Преднизон, Селлсепт (Микофенолата мофетил), Циклоспорин."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Cyclosporine and tacrolimus are both calcineurin inhibitors and are not used together due to synergistic nephrotoxicity and increased immunosuppression risk.",
+      "explanationRu": "Циклоспорин и такролимус оба являются ингибиторами кальциневрина и не используются вместе из-за синергической нефротоксичности и повышенного риска иммуносупрессии."
+    },
+    {
+      "id": 53,
+      "questionEn": "As part of the evaluation of a patient before heart transplantation, many tests are performed to assess his condition and suitability for transplantation. What is the most potent independent predictor of survival for a patient being evaluated for heart transplantation?",
+      "questionRu": "В рамках оценки пациента перед трансплантацией сердца проводится множество тестов для оценки его состояния и пригодности к трансплантации. Что является наиболее мощным независимым предиктором выживаемости для пациента, оцениваемого для трансплантации сердца?",
+      "optionsEn": {
+        "A": "VO2 max.",
+        "B": "Pulmonary capillary wedge pressure.",
+        "C": "Plasma norepinephrine concentration.",
+        "D": "N-terminal pro-brain natriuretic peptide."
+      },
+      "optionsRu": {
+        "A": "Максимальное потребление кислорода (VO2 max).",
+        "B": "Давление заклинивания легочных капилляров.",
+        "C": "Концентрация норадреналина в плазме.",
+        "D": "N-терминальный промозговой натрийуретический пептид."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "VO2 max is the strongest independent predictor of survival in heart failure patients being evaluated for transplantation. A VO2 max <12-14 mL/kg/min indicates poor prognosis.",
+      "explanationRu": "VO2 max является наиболее сильным независимым предиктором выживаемости у пациентов с сердечной недостаточностью, оцениваемых для трансплантации. VO2 max <12-14 мл/кг/мин указывает на плохой прогноз."
+    },
+    {
+      "id": 54,
+      "questionEn": "Which of the following conditions does NOT describe a patient in Status IA for heart transplantation?",
+      "questionRu": "Какое из следующих состояний НЕ описывает пациента в статусе IA для трансплантации сердца?",
+      "optionsEn": {
+        "A": "A heart failure patient requiring low-dose continuous dobutamine.",
+        "B": "A patient who underwent successful LVAD implantation 10 days ago.",
+        "C": "An LVAD recipient for two years with recurrent GI bleeding.",
+        "D": "A patient with EF 10% due to ischemic etiology who developed pulmonary edema and is currently ventilated."
+      },
+      "optionsRu": {
+        "A": "Пациент с сердечной недостаточностью, требующий непрерывного введения низких доз добутамина.",
+        "B": "Пациент, перенесший успешную имплантацию LVAD 10 дней назад.",
+        "C": "Реципиент LVAD в течение двух лет с рецидивирующим желудочно-кишечным кровотечением.",
+        "D": "Пациент с ФВ 10% вследствие ишемической этиологии, у которого развился отек легких и который находится на ИВЛ."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Status IA requires high-dose inotropes or mechanical circulatory support. Low-dose dobutamine alone does not qualify as Status IA.",
+      "explanationRu": "Статус IA требует высоких доз инотропов или механической циркуляторной поддержки. Только низкие дозы добутамина не дают статуса IA."
+    },
+    {
+      "id": 55,
+      "questionEn": "All of the following are accepted treatments for a brain-dead heart donor, EXCEPT:",
+      "questionRu": "Все следующие методы являются приемлемыми методами лечения донора сердца со смертью мозга, КРОМЕ:",
+      "optionsEn": {
+        "A": "Vasopressin.",
+        "B": "Thyroid hormone.",
+        "C": "Steroids (Cortisone).",
+        "D": "Insulin."
+      },
+      "optionsRu": {
+        "A": "Вазопрессин.",
+        "B": "Тиреоидные гормоны.",
+        "C": "Стероиды (кортизон).",
+        "D": "Инсулин."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Steroids are used in donor management, but the answer key indicates C as the exception. Possibly insulin is not routinely given unless needed for hyperglycemia.",
+      "explanationRu": "Стероиды используются при ведении донора, но ключ ответов указывает C как исключение. Возможно, инсулин не вводится рутинно, только при гипергликемии."
+    },
+    {
+      "id": 56,
+      "questionEn": "In heart transplantation, the correct order of connections (from left to right) is:",
+      "questionRu": "При трансплантации сердца правильный порядок соединений (слева направо):",
+      "optionsEn": {
+        "A": "Left pulmonary veins, Right pulmonary veins, Pulmonary artery, IVC, SVC, Aorta.",
+        "B": "Left pulmonary veins, Right pulmonary veins, SVC, IVC, Pulmonary artery, Aorta.",
+        "C": "Left atrial cuff, Pulmonary artery, SVC, IVC, Aorta.",
+        "D": "Left atrial cuff, Pulmonary artery, Aorta, IVC, SVC."
+      },
+      "optionsRu": {
+        "A": "Левые легочные вены, Правые легочные вены, Легочная артерия, НПВ, ВПВ, Аорта.",
+        "B": "Левые легочные вены, Правые легочные вены, ВПВ, НПВ, Легочная артерия, Аорта.",
+        "C": "Левое предсердное кольцо, Легочная артерия, ВПВ, НПВ, Аорта.",
+        "D": "Левое предсердное кольцо, Легочная артерия, Аорта, НПВ, ВПВ."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "The standard order for orthotopic heart transplantation (bicaval technique) is: left atrial cuff, pulmonary artery, aorta, IVC, SVC.",
+      "explanationRu": "Стандартный порядок при ортотопической трансплантации сердца (бикавальная техника): левое предсердное кольцо, легочная артерия, аорта, НПВ, ВПВ."
+    },
+    {
+      "id": 57,
+      "questionEn": "A 15-year-old patient, about two weeks after heart transplantation with an uneventful postoperative course, is ready for discharge. About 15 minutes after removal of epicardial electrodes, he reports weakness and appears pale. Monitor shows heart rate 35 with blood pressure 85/60. After an echocardiogram rules out tamponade, what is the first thing to do?",
+      "questionRu": "Пациент 15 лет, примерно через две недели после трансплантации сердца с неосложненным послеоперационным течением, готов к выписке. Примерно через 15 минут после удаления эпикардиальных электродов он сообщает о слабости и выглядит бледным. На мониторе частота сердечных сокращений 35, артериальное давление 85/60. После того, как эхокардиограмма исключает тампонаду, что нужно сделать в первую очередь?",
+      "optionsEn": {
+        "A": "External pacing.",
+        "B": "Administer atropine.",
+        "C": "Ask him to perform the Valsalva maneuver.",
+        "D": "Carotid sinus massage."
+      },
+      "optionsRu": {
+        "A": "Наружная стимуляция.",
+        "B": "Ввести атропин.",
+        "C": "Попросить его выполнить пробу Вальсальвы.",
+        "D": "Массаж каротидного синуса."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Symptomatic bradycardia after heart transplant (denervated heart) does not respond well to atropine. External pacing is the first-line treatment.",
+      "explanationRu": "Симптомная брадикардия после трансплантации сердца (денервированное сердце) плохо реагирует на атропин. Наружная стимуляция является терапией первой линии."
+    },
+    {
+      "id": 58,
+      "questionEn": "What is true about acute rejection of a transplanted heart?",
+      "questionRu": "Что верно об остром отторжении трансплантированного сердца?",
+      "optionsEn": {
+        "A": "Most cases are mediated by antibodies against the transplanted heart.",
+        "B": "The strongest risk factor is donation from a young woman (regardless of recipient gender).",
+        "C": "The damage caused to the transplanted heart is usually irreversible.",
+        "D": "It is caused by ABO blood type incompatibility, and therefore such cases are almost nonexistent today."
+      },
+      "optionsRu": {
+        "A": "Большинство случаев опосредованы антителами против трансплантированного сердца.",
+        "B": "Наиболее сильным фактором риска является донорство от молодой женщины (независимо от пола реципиента).",
+        "C": "Повреждение, наносимое трансплантированному сердцу, обычно необратимо.",
+        "D": "Оно вызвано несовместимостью по группе крови ABO, и поэтому такие случаи сегодня почти не встречаются."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Acute rejection is primarily T-cell mediated. Young female donors are a risk factor for rejection due to prior sensitization (pregnancy). ABO incompatibility is avoided but not the cause.",
+      "explanationRu": "Острое отторжение в первую очередь опосредовано Т-клетками. Молодые женщины-доноры являются фактором риска отторжения из-за предшествующей сенсибилизации (беременность). Несовместимость по ABO исключается, но не является причиной."
+    },
+    {
+      "id": 59,
+      "questionEn": "Which of the following patients has a Class I indication for carotid stenosis screening (Doppler) before bypass surgery?",
+      "questionRu": "Какой из следующих пациентов имеет показание класса I для скрининга стеноза сонных артерий (допплер) перед операцией шунтирования?",
+      "optionsEn": {
+        "A": "A 59-year-old man with a carotid bruit heard on physical examination.",
+        "B": "A 55-year-old diabetic patient with multivessel CAD.",
+        "C": "A 62-year-old patient with severe peripheral vascular disease (PVD).",
+        "D": "A 30-year-old patient scheduled for LIMA to LAD surgery."
+      },
+      "optionsRu": {
+        "A": "Мужчина 59 лет с шумом над сонной артерией, выслушиваемым при физикальном осмотре.",
+        "B": "Пациент 55 лет с диабетом и многососудистым поражением коронарных артерий.",
+        "C": "Пациент 62 лет с тяжелым заболеванием периферических сосудов (ПЗС).",
+        "D": "Пациент 30 лет, которому запланировано шунтирование ВМА к ПМЖВ."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Carotid bruit in a patient undergoing CABG is a Class I indication for carotid duplex screening. Other risk factors (age >65, PVD, left main stenosis) are Class IIa.",
+      "explanationRu": "Шум над сонной артерией у пациента, переносящего КШ, является показанием класса I для дуплексного скрининга сонных артерий. Другие факторы риска (возраст >65 лет, ПЗС, стеноз ствола ЛКА) — класс IIa."
+    },
+    {
+      "id": 60,
+      "questionEn": "Frailty in patients scheduled for heart surgery is an important tool for determining prognosis. All of the following are tests to assess frailty EXCEPT:",
+      "questionRu": "Хрупкость (старческая астения) у пациентов, готовящихся к кардиохирургическим операциям, является важным инструментом для определения прогноза. Все следующие тесты используются для оценки хрупкости, КРОМЕ:",
+      "optionsEn": {
+        "A": "Neurological examination.",
+        "B": "Hand grip strength test using a dynamometer.",
+        "C": "Blood albumin level test.",
+        "D": "Walking 5 meters and measuring time."
+      },
+      "optionsRu": {
+        "A": "Неврологическое обследование.",
+        "B": "Тест силы сжатия кисти с помощью динамометра.",
+        "C": "Тест уровня альбумина в крови.",
+        "D": "Ходьба на 5 метров с измерением времени."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Neurological examination is not a standard frailty assessment. Frailty tests include grip strength, gait speed, albumin level, and others.",
+      "explanationRu": "Неврологическое обследование не является стандартной оценкой хрупкости. Тесты на хрупкость включают силу сжатия, скорость ходьбы, уровень альбумина и другие."
+    },
+    {
+      "id": 61,
+      "questionEn": "A 31-year-old patient with no known background diseases was admitted to the intensive care unit in cardiogenic shock diagnosed with myocarditis. Initially treated with amines and IABP, but due to ventricular arrhythmias and several episodes of CPR and defibrillation, he was connected to VA-ECMO and stabilized. After 24 hours on this treatment, stopping the IABP for a few seconds shows a straight line on the blood pressure curve (mean pressure 53 mmHg). TEE shows a dilated left ventricle with minimal contraction and no evidence of clots in the heart or aortic root. What is NOT an accepted treatment at this stage?",
+      "questionRu": "Пациент 31 года без известных фоновых заболеваний поступил в отделение интенсивной терапии в кардиогенном шоке с диагнозом миокардит. Первоначально лечен аминами и ВАБК, но из-за желудочковых аритмий и нескольких эпизодов СЛР и дефибрилляции он был подключен к ВА-ЭКМО и стабилизирован. Через 24 часа этого лечения, остановка ВАБК на несколько секунд показывает прямую линию на кривой артериального давления (среднее давление 53 мм рт.ст.). Чреспищеводная эхокардиография показывает дилатированный левый желудочек с минимальным сокращением и отсутствие признаков тромбов в сердце или корне аорты. Что НЕ является приемлемым лечением на этом этапе?",
+      "optionsEn": {
+        "A": "Increasing heparin dose to achieve ACT of about 270 seconds.",
+        "B": "Removing the IABP and replacing it with an Impella.",
+        "C": "Inserting a vent to the left ventricle through the apex via a subxiphoid incision.",
+        "D": "Decreasing the ECMO flow to reduce ventricular afterload."
+      },
+      "optionsRu": {
+        "A": "Увеличение дозы гепарина для достижения АСТ около 270 секунд.",
+        "B": "Удаление ВАБК и замена его на Impella.",
+        "C": "Установка вент-дренажа в левый желудочек через верхушку субксифоидальным доступом.",
+        "D": "Уменьшение потока ЭКМО для снижения постнагрузки желудочка."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Decreasing ECMO flow will not reduce afterload; it may worsen systemic perfusion. VA-ECMO increases afterload; strategies to unload the left ventricle (Impella, vent, IABP) are beneficial. Heparin is needed for circuit anticoagulation.",
+      "explanationRu": "Уменьшение потока ЭКМО не снизит постнагрузку; это может ухудшить системную перфузию. ВА-ЭКМО увеличивает постнагрузку; стратегии разгрузки левого желудочка (Impella, дренаж, ВАБК) полезны. Гепарин необходим для антикоагуляции контура."
+    },
+    {
+      "id": 62,
+      "questionEn": "Which of the following does NOT have a Class I indication for diagnostic coronary angiography before aortic valve replacement surgery for severe stenosis of a bicuspid aortic valve?",
+      "questionRu": "У какого из следующих пациентов НЕТ показания класса I для диагностической коронарографии перед операцией протезирования аортального клапана по поводу тяжелого стеноза двустворчатого аортального клапана?",
+      "optionsEn": {
+        "A": "A 35-year-old patient, with no cardiovascular risk factors and LVEF of 45%.",
+        "B": "A 42-year-old patient, with no cardiovascular risk factors and LVEF of 67%.",
+        "C": "A 32-year-old patient, with medically controlled hypertension and LVEF of 67%.",
+        "D": "A 30-year-old patient, with mild-moderate secondary MR and LVEF of 67%."
+      },
+      "optionsRu": {
+        "A": "Пациент 35 лет, без сердечно-сосудистых факторов риска, ФВ ЛЖ 45%.",
+        "B": "Пациент 42 лет, без сердечно-сосудистых факторов риска, ФВ ЛЖ 67%.",
+        "C": "Пациент 32 лет, с медикаментозно контролируемой гипертензией, ФВ ЛЖ 67%.",
+        "D": "Пациент 30 лет, с легкой-умеренной вторичной МР, ФВ ЛЖ 67%."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Class I indications for coronary angiography before AVR include age >40, LVEF <50%, or cardiovascular risk factors. Controlled hypertension is a risk factor, but the answer key indicates C is the exception? Possibly they consider hypertension alone not sufficient for Class I.",
+      "explanationRu": "Показания класса I для коронарографии перед ПАК включают возраст >40 лет, ФВ ЛЖ <50% или сердечно-сосудистые факторы риска. Контролируемая гипертензия является фактором риска, но ключ ответов указывает C как исключение? Возможно, они считают, что только гипертензия не дает класса I."
+    },
+    {
+      "id": 63,
+      "questionEn": "Who has a Class I indication for surgery to replace a bicuspid aortic valve due to severe regurgitation?",
+      "questionRu": "У кого имеется показание класса I для операции по замене двустворчатого аортального клапана по поводу тяжелой регургитации?",
+      "optionsEn": {
+        "A": "Asymptomatic patient with LVEF 50%, LVEDD 60 mm, LVESD 40 mm, and aorta 38 mm.",
+        "B": "Asymptomatic patient with LVEF 55%, LVEDD 70 mm, LVESD 45 mm, and aorta 48 mm.",
+        "C": "Asymptomatic patient with LVEF 60%, LVEDD 75 mm, LVESD 55 mm, and aorta 38 mm.",
+        "D": "Asymptomatic patient with LVEF 55%, LVEDD 60 mm, LVESD 40 mm, and aorta 56 mm."
+      },
+      "optionsRu": {
+        "A": "Бессимптомный пациент с ФВ ЛЖ 50%, КДР ЛЖ 60 мм, КСР ЛЖ 40 мм, аорта 38 мм.",
+        "B": "Бессимптомный пациент с ФВ ЛЖ 55%, КДР ЛЖ 70 мм, КСР ЛЖ 45 мм, аорта 48 мм.",
+        "C": "Бессимптомный пациент с ФВ ЛЖ 60%, КДР ЛЖ 75 мм, КСР ЛЖ 55 мм, аорта 38 мм.",
+        "D": "Бессимптомный пациент с ФВ ЛЖ 55%, КДР ЛЖ 60 мм, КСР ЛЖ 40 мм, аорта 56 мм."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Class I for asymptomatic severe AR: LVEF ≤50% or LVESD >50 mm (or >25 mm/m²) or LVEDD >70 mm. Option A has LVEF 50% (threshold).",
+      "explanationRu": "Класс I для бессимптомной тяжелой АР: ФВ ЛЖ ≤50% или КСР ЛЖ >50 мм (или >25 мм/м²) или КДР ЛЖ >70 мм. Вариант A имеет ФВ ЛЖ 50% (порог)."
+    },
+    {
+      "id": 64,
+      "questionEn": "Which of the following procedures does NOT require intervention on the non-coronary sinus?",
+      "questionRu": "Какая из следующих процедур НЕ требует вмешательства на некоронарном синусе?",
+      "optionsEn": {
+        "A": "Manougian procedure.",
+        "B": "Nick's procedure.",
+        "C": "Konno-Rostan procedure.",
+        "D": "Yacoub procedure."
+      },
+      "optionsRu": {
+        "A": "Процедура Манугяна.",
+        "B": "Процедура Ника.",
+        "C": "Процедура Конно-Ростана.",
+        "D": "Процедура Якуба."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The Konno-Rostan procedure is for left ventricular outflow tract enlargement and does not involve the non-coronary sinus. The others involve sinus manipulation.",
+      "explanationRu": "Процедура Конно-Ростана предназначена для расширения выносящего тракта левого желудочка и не затрагивает некоронарный синус. Другие процедуры включают манипуляции с синусом."
+    },
+    {
+      "id": 65,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 66,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 67,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 68,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 69,
+      "questionEn": "According to the SYNTAX trial published in The Lancet, what are the 5-year follow-up results?",
+      "questionRu": "Согласно исследованию SYNTAX, опубликованному в The Lancet, каковы результаты 5-летнего наблюдения?",
+      "optionsEn": {
+        "A": "In patients with SYNTAX ≤22, no advantage was found for either revascularization method.",
+        "B": "In patients with SYNTAX 23-32, CABG was associated with less MACCE, MI, and cardiac mortality.",
+        "C": "In patients with SYNTAX >32, CABG was associated with less MACCE, MI, CVA, and cardiac mortality.",
+        "D": "In patients with SYNTAX 23-32, PCI was associated with fewer strokes."
+      },
+      "optionsRu": {
+        "A": "У пациентов с SYNTAX ≤22 не было обнаружено преимущества ни для одного из методов реваскуляризации.",
+        "B": "У пациентов с SYNTAX 23-32 КШ было связано с меньшим количеством MACCE, ИМ и сердечной смертности.",
+        "C": "У пациентов с SYNTAX >32 КШ было связано с меньшим количеством MACCE, ИМ, инсультов и сердечной смертности.",
+        "D": "У пациентов с SYNTAX 23-32 ЧКВ было связано с меньшим количеством инсультов."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "The SYNTAX trial showed that for low SYNTAX scores (≤22), there was no significant difference in MACCE between PCI and CABG at 5 years. For higher scores, CABG was superior.",
+      "explanationRu": "Исследование SYNTAX показало, что при низких баллах SYNTAX (≤22) не было значительных различий в MACCE между ЧКВ и КШ через 5 лет. При более высоких баллах КШ было лучше."
+    },
+    {
+      "id": 70,
+      "questionEn": "According to the NOBLE trial published in The Lancet, which of the following is correct?",
+      "questionRu": "Согласно исследованию NOBLE, опубликованному в The Lancet, что из следующего верно?",
+      "optionsEn": {
+        "A": "At 30 days and 5 years, CABG was associated with significantly more strokes.",
+        "B": "At 30 days, there was no difference in the need for blood product transfusion between the two groups.",
+        "C": "At 5 years, PCI was associated with more revascularization, while at 30 days there was no difference in this outcome.",
+        "D": "At 5 years, PCI was associated with more repeat PCI, while at 30 days there was no difference in this outcome."
+      },
+      "optionsRu": {
+        "A": "Через 30 дней и 5 лет КШ было связано со значительно большим количеством инсультов.",
+        "B": "Через 30 дней не было различий в потребности в переливании продуктов крови между двумя группами.",
+        "C": "Через 5 лет ЧКВ было связано с большим количеством реваскуляризаций, тогда как через 30 дней не было различий в этом исходе.",
+        "D": "Через 5 лет ЧКВ было связано с большим количеством повторных ЧКВ, тогда как через 30 дней не было различий в этом исходе."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The NOBLE trial found that at 5 years, PCI was associated with higher rates of repeat revascularization compared to CABG, but no difference at 30 days.",
+      "explanationRu": "Исследование NOBLE показало, что через 5 лет ЧКВ было связано с более высокими показателями повторной реваскуляризации по сравнению с КШ, но без различий через 30 дней."
+    },
+    {
+      "id": 71,
+      "questionEn": "A 54-year-old man presented to the ER with chest pain that started about an hour ago while sleeping. He describes pressing pain radiating to the jaw and difficulty breathing. His medical history includes medically treated diabetes, hypertension, and 37 pack-years of smoking. No history of ischemic heart disease. What is the most common finding on physical examination of the patient?",
+      "questionRu": "Мужчина 54 лет обратился в отделение неотложной помощи с болью в груди, которая началась около часа назад во время сна. Он описывает давящую боль, иррадиирующую в челюсть, и затрудненное дыхание. В анамнезе медикаментозно леченные сахарный диабет, гипертензия и курение 37 пачек-лет. Нет указаний на ишемическую болезнь сердца в анамнезе. Какова наиболее частая находка при физикальном обследовании пациента?",
+      "optionsEn": {
+        "A": "Systolic murmur.",
+        "B": "Fixed splitting of S2.",
+        "C": "Pericardial friction rub.",
+        "D": "S4 gallop."
+      },
+      "optionsRu": {
+        "A": "Систолический шум.",
+        "B": "Фиксированное расщепление S2.",
+        "C": "Шум трения перикарда.",
+        "D": "Ритм галопа S4."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "In acute myocardial infarction, an S4 gallop is common due to reduced compliance of the ischemic ventricle. Systolic murmur may indicate MR, but S4 is more frequent.",
+      "explanationRu": "При остром инфаркте миокарда ритм галопа S4 часто встречается из-за снижения податливости ишемизированного желудочка. Систолический шум может указывать на МР, но S4 встречается чаще."
+    },
+    {
+      "id": 72,
+      "questionEn": "Among the following beta-blockers, which is NOT cardioselective?",
+      "questionRu": "Среди следующих бета-блокаторов, какой НЕ является кардиоселективным?",
+      "optionsEn": {
+        "A": "Timolol.",
+        "B": "Atenolol.",
+        "C": "Metoprolol.",
+        "D": "Esmolol."
+      },
+      "optionsRu": {
+        "A": "Тимолол.",
+        "B": "Атенолол.",
+        "C": "Метопролол.",
+        "D": "Эсмолол."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Timolol is a non-selective beta-blocker (blocks both beta-1 and beta-2). Atenolol, metoprolol, and esmolol are cardioselective (beta-1).",
+      "explanationRu": "Тимолол является неселективным бета-блокатором (блокирует как бета-1, так и бета-2). Атенолол, метопролол и эсмолол являются кардиоселективными (бета-1)."
+    },
+    {
+      "id": 73,
+      "questionEn": "A 32-year-old man consulted his family doctor due to weight loss and lower back pain for about a year that worsened in the last month. He describes pain that appears at night and improves during the day when he starts moving. His medical history includes anterior chamber uveitis diagnosed several months ago. Otherwise, no additional problems. While auscultating his heart, the doctor notes a murmur. Which of the following is likely to be found on echocardiography?",
+      "questionRu": "Мужчина 32 лет обратился к семейному врачу из-за потери веса и болей в пояснице в течение примерно года, которые усилились за последний месяц. Он описывает боль, которая появляется ночью и уменьшается в течение дня, когда он начинает двигаться. В анамнезе увеит передней камеры, диагностированный несколько месяцев назад. В остальном без дополнительных проблем. При аускультации сердца врач отмечает шум. Что, вероятнее всего, будет обнаружено на эхокардиографии?",
+      "optionsEn": {
+        "A": "Atrial septal defect.",
+        "B": "Aortic valve regurgitation.",
+        "C": "Mitral valve regurgitation.",
+        "D": "Tricuspid valve regurgitation."
+      },
+      "optionsRu": {
+        "A": "Дефект межпредсердной перегородки.",
+        "B": "Регургитация аортального клапана.",
+        "C": "Регургитация митрального клапана.",
+        "D": "Регургитация трикуспидального клапана."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "The presentation suggests ankylosing spondylitis (inflammatory back pain, uveitis). Ankylosing spondylitis is associated with aortic root disease, but also with tricuspid regurgitation? Actually, aortic regurgitation is the classic valve lesion. The answer key says D (tricuspid). Possibly a different association.",
+      "explanationRu": "Клиническая картина предполагает анкилозирующий спондилит (воспалительная боль в спине, увеит). Анкилозирующий спондилит ассоциируется с поражением корня аорты, но также с трикуспидальной регургитацией? На самом деле, аортальная регургитация является классическим поражением клапана. Ключ ответов указывает D (трикуспидальная). Возможно, другая ассоциация."
+    },
+    {
+      "id": 74,
+      "questionEn": "According to the 2017 ESC/EACTS Guidelines for the management of valvular heart disease, what is an indication for AVR surgery in an asymptomatic patient with severe aortic stenosis?",
+      "questionRu": "Согласно рекомендациям ESC/EACTS 2017 года по ведению пациентов с пороками клапанов сердца, что является показанием для операции протезирования аортального клапана у бессимптомного пациента с тяжелым аортальным стенозом?",
+      "optionsEn": {
+        "A": "Peak velocity >5.5 m/s across the valve.",
+        "B": "Ejection fraction <55%.",
+        "C": "Increase in peak velocity of 0.3 m/s per year.",
+        "D": "New atrial fibrillation."
+      },
+      "optionsRu": {
+        "A": "Пиковая скорость >5,5 м/с через клапан.",
+        "B": "Фракция выброса <55%.",
+        "C": "Увеличение пиковой скорости на 0,3 м/с в год.",
+        "D": "Впервые возникшая фибрилляция предсердий."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "The 2017 guidelines state that very severe AS (peak velocity >5.5 m/s) is a Class IIa indication for surgery in asymptomatic patients. LVEF <50% (not 55%) is Class I. Progression >0.3 m/s/year is Class IIa. New AF is Class IIa.",
+      "explanationRu": "Рекомендации 2017 года указывают, что очень тяжелый АС (пиковая скорость >5,5 м/с) является показанием класса IIa для операции у бессимптомных пациентов. ФВ ЛЖ <50% (а не 55%) — класс I. Прогрессия >0,3 м/с/год — класс IIa. Впервые возникшая ФП — класс IIa."
+    },
+    {
+      "id": 75,
+      "questionEn": "According to the 2014 EACTS/ESC GUIDELINE FOR REVASCULARIZATION: Regarding a patient with coronary artery disease and Syntax score 23-32, which of the following is NOT correct?",
+      "questionRu": "Согласно рекомендациям EACTS/ESC 2014 года по реваскуляризации: В отношении пациента с ишемической болезнью сердца и баллом Syntax 23-32, что из следующего НЕВЕРНО?",
+      "optionsEn": {
+        "A": "A patient with Left main stenosis is a Class I indication for CABG.",
+        "B": "A patient with three-vessel disease is a Class II indication for PCI.",
+        "C": "A patient with Left main stenosis is a Class II indication for PCI.",
+        "D": "A patient with three-vessel disease is a Class I indication for CABG."
+      },
+      "optionsRu": {
+        "A": "Пациент со стенозом левого основного ствола имеет показание класса I для КШ.",
+        "B": "Пациент с трехсосудистым поражением имеет показание класса II для ЧКВ.",
+        "C": "Пациент со стенозом левого основного ствола имеет показание класса II для ЧКВ.",
+        "D": "Пациент с трехсосудистым поражением имеет показание класса I для КШ."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "For SYNTAX score 23-32, CABG is Class I for three-vessel disease, but the statement is correct; the question asks for NOT correct. Option D is correct, so it is NOT the incorrect one. The key indicates D? Possibly they consider that for this score, CABG is Class I but PCI is Class IIa? We follow key.",
+      "explanationRu": "Для SYNTAX 23-32, КШ имеет класс I при трехсосудистом поражении, но это утверждение верно; вопрос требует НЕВЕРНОЕ. Вариант D верен, значит, он не является неверным. Ключ указывает D? Возможно, они считают, что при этом балле КШ — класс I, а ЧКВ — класс IIa? Следуем ключу."
+    },
+    {
+      "id": 76,
+      "questionEn": "What is correct about protamine?",
+      "questionRu": "Что верно о протамине?",
+      "optionsEn": {
+        "A": "Concurrent administration of calcium will prevent its side effects.",
+        "B": "In high doses, it acts as an anticoagulant.",
+        "C": "The most common reaction to administration is rash.",
+        "D": "Rapid administration will reduce the occurrence of allergic reaction."
+      },
+      "optionsRu": {
+        "A": "Одновременное введение кальция предотвратит его побочные эффекты.",
+        "B": "В высоких дозах действует как антикоагулянт.",
+        "C": "Наиболее частая реакция на введение — сыпь.",
+        "D": "Быстрое введение уменьшит возникновение аллергической реакции."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Protamine can cause allergic reactions; rapid administration is recommended to reduce histamine release. High doses can cause anticoagulation (heparin-like effect). Calcium does not prevent side effects. Rash is not the most common reaction; hypotension is.",
+      "explanationRu": "Протамин может вызывать аллергические реакции; быстрое введение рекомендуется для уменьшения выброса гистамина. Высокие дозы могут вызывать антикоагуляцию (гепариноподобный эффект). Кальций не предотвращает побочные эффекты. Сыпь не является наиболее частой реакцией; гипотензия — чаще."
+    },
+    {
+      "id": 77,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 78,
+      "questionEn": "Which of the following is NOT correct regarding mitral stenosis due to rheumatic heart disease?",
+      "questionRu": "Что из следующего НЕВЕРНО в отношении митрального стеноза вследствие ревматической болезни сердца?",
+      "optionsEn": {
+        "A": "There is a clear history of rheumatic fever in about 50-60% of patients.",
+        "B": "The disease is more common in women.",
+        "C": "The disease is usually acquired before age 20.",
+        "D": "Valvular disease typically manifests in the third to fourth decade of life."
+      },
+      "optionsRu": {
+        "A": "Четкий анамнез ревматической лихорадки имеется примерно у 50-60% пациентов.",
+        "B": "Заболевание чаще встречается у женщин.",
+        "C": "Заболевание обычно приобретается в возрасте до 20 лет.",
+        "D": "Порок клапана обычно проявляется на третьем-четвертом десятилетии жизни."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Rheumatic mitral stenosis typically manifests 20-40 years after the initial infection, often in the fourth to sixth decade. Option D says third to fourth (20-40 years), which is actually correct. The key says D is NOT correct, but clinically it is.",
+      "explanationRu": "Ревматический митральный стеноз обычно проявляется через 20-40 лет после первичной инфекции, часто в четвертом-шестом десятилетии. Вариант D говорит о третьем-четвертом десятилетии (20-40 лет), что на самом деле верно. Ключ говорит, что D неверен, но клинически это так."
+    },
+    {
+      "id": 79,
+      "questionEn": "Which of the following increases in a patient with severe mitral stenosis?",
+      "questionRu": "Что из следующего увеличивается у пациента с тяжелым митральным стенозом?",
+      "optionsEn": {
+        "A": "Left ventricle afterload.",
+        "B": "Left ventricle end-diastolic volume.",
+        "C": "Left ventricle end-diastolic pressure.",
+        "D": "Stroke volume."
+      },
+      "optionsRu": {
+        "A": "Постнагрузка левого желудочка.",
+        "B": "Конечно-диастолический объем левого желудочка.",
+        "C": "Конечно-диастолическое давление левого желудочка.",
+        "D": "Ударный объем."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "In severe MS, left ventricular end-diastolic pressure may be normal or slightly increased due to reduced filling. Afterload is normal or reduced. LVEDV is normal or reduced. Stroke volume is reduced.",
+      "explanationRu": "При тяжелом МС конечно-диастолическое давление левого желудочка может быть нормальным или слегка повышенным из-за сниженного наполнения. Постнагрузка нормальная или снижена. КДО нормальный или снижен. Ударный объем снижен."
+    },
+    {
+      "id": 80,
+      "questionEn": "What is correct regarding degenerative mitral valve disease?",
+      "questionRu": "Что верно в отношении дегенеративного заболевания митрального клапана?",
+      "optionsEn": {
+        "A": "10% of the female population suffers from some degree of valve prolapse.",
+        "B": "Severe valve regurgitation due to prolapse is more common in women.",
+        "C": "The risk of endocarditis is increased only when there is regurgitation causing a murmur.",
+        "D": "Usually, the disease involves only the valve leaflets, while the annulus is not involved."
+      },
+      "optionsRu": {
+        "A": "10% женского населения страдает от некоторой степени пролапса клапана.",
+        "B": "Тяжелая регургитация вследствие пролапса чаще встречается у женщин.",
+        "C": "Риск эндокардита повышен только при наличии регургитации, вызывающей шум.",
+        "D": "Обычно заболевание поражает только створки клапана, а кольцо не вовлечено."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Mitral valve prolapse with regurgitation increases the risk of infective endocarditis. MVP without regurgitation has no increased risk. Annular involvement is common in degenerative disease.",
+      "explanationRu": "Пролапс митрального клапана с регургитацией повышает риск инфекционного эндокардита. ПМК без регургитации не повышает риск. Вовлечение кольца часто при дегенеративном заболевании."
+    },
+    {
+      "id": 81,
+      "questionEn": "What is the most common mechanism for severe mitral regurgitation in patients with degenerative mitral valve disease?",
+      "questionRu": "Каков наиболее частый механизм тяжелой митральной регургитации у пациентов с дегенеративным заболеванием митрального клапана?",
+      "optionsEn": {
+        "A": "Fibroelastic deficiency.",
+        "B": "Annular dilatation with normal subvalvular apparatus.",
+        "C": "Annular dilatation with chordal rupture/elongation.",
+        "D": "Chordal rupture/elongation without annular dilatation."
+      },
+      "optionsRu": {
+        "A": "Фиброэластическая недостаточность.",
+        "B": "Дилатация кольца с нормальным подклапанным аппаратом.",
+        "C": "Дилатация кольца с разрывом/удлинением хорд.",
+        "D": "Разрыв/удлинение хорд без дилатации кольца."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "In degenerative MR, the most common mechanism is leaflet prolapse due to chordal elongation or rupture, often combined with annular dilatation.",
+      "explanationRu": "При дегенеративной МР наиболее частым механизмом является пролапс створок из-за удлинения или разрыва хорд, часто в сочетании с дилатацией кольца."
+    },
+    {
+      "id": 82,
+      "questionEn": "Who is the most common pathogen for endocarditis on a bioprosthetic mitral valve about a year and a half after valve implantation surgery?",
+      "questionRu": "Какой возбудитель наиболее часто вызывает эндокардит биопротеза митрального клапана примерно через полтора года после операции имплантации клапана?",
+      "optionsEn": {
+        "A": "Streptococcus viridans.",
+        "B": "Staphylococcus epidermidis.",
+        "C": "Enterococci.",
+        "D": "Staphylococcus aureus."
+      },
+      "optionsRu": {
+        "A": "Streptococcus viridans.",
+        "B": "Staphylococcus epidermidis.",
+        "C": "Enterococci.",
+        "D": "Staphylococcus aureus."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Late prosthetic valve endocarditis (>1 year) is often caused by Streptococcus viridans. Early (within 2 months) is S. epidermidis. The question says 1.5 years, which is late. The answer key says D (S. aureus), which is common in native valves but also in late PVE. Possibly the exam expects S. aureus.",
+      "explanationRu": "Поздний протезный эндокардит (>1 года) часто вызывается Streptococcus viridans. Ранний (в течение 2 месяцев) — S. epidermidis. Вопрос говорит о 1,5 годах, что поздно. Ключ ответов указывает D (S. aureus), что часто встречается при нативных клапанах, но также и при позднем ПЭ. Возможно, экзамен ожидает S. aureus."
+    },
+    {
+      "id": 83,
+      "questionEn": "Who is the most common pathogen for endocarditis on a native mitral valve in a patient without underlying heart disease?",
+      "questionRu": "Какой возбудитель наиболее часто вызывает эндокардит нативным митрального клапана у пациента без фонового заболевания сердца?",
+      "optionsEn": {
+        "A": "Streptococcus viridans.",
+        "B": "Streptococcus bovis.",
+        "C": "Enterococci.",
+        "D": "Staphylococcus aureus."
+      },
+      "optionsRu": {
+        "A": "Streptococcus viridans.",
+        "B": "Streptococcus bovis.",
+        "C": "Enterococci.",
+        "D": "Staphylococcus aureus."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "In patients without underlying heart disease, Staphylococcus aureus is a common cause of acute endocarditis. Streptococcus viridans is more common in subacute cases with prior valve disease. The answer key says D.",
+      "explanationRu": "У пациентов без фонового заболевания сердца Staphylococcus aureus является частой причиной острого эндокардита. Streptococcus viridans чаще встречается при подострых случаях с предшествующим заболеванием клапана. Ключ ответов указывает D."
+    },
+    {
+      "id": 84,
+      "questionEn": "All of the following are true regarding the presentation of endocarditis EXCEPT:",
+      "questionRu": "Все следующие утверждения о клинической картине эндокардита верны, КРОМЕ:",
+      "optionsEn": {
+        "A": "More than 90% of patients suffer from systemic fever.",
+        "B": "More than 50% of patients experience an embolic event.",
+        "C": "A new murmur appears in about 85% of patients.",
+        "D": "In 10% of cases, no bacteria are found in blood cultures."
+      },
+      "optionsRu": {
+        "A": "Более 90% пациентов страдают от системной лихорадки.",
+        "B": "Более 50% пациентов переносят эмболическое событие.",
+        "C": "Новый шум появляется примерно у 85% пациентов.",
+        "D": "В 10% случаев в посевах крови не обнаруживаются бактерии."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Blood cultures are negative in up to 30% of endocarditis cases, not 10%. Fever occurs in >90%, emboli in 20-50%, new murmur in 85%.",
+      "explanationRu": "Посевы крови отрицательны в до 30% случаев эндокардита, а не в 10%. Лихорадка встречается у >90%, эмболии у 20-50%, новый шум у 85%."
+    },
+    {
+      "id": 85,
+      "questionEn": "Which of the following is a minor criterion for diagnosing endocarditis according to the Duke criteria?",
+      "questionRu": "Что из следующего является малым критерием для диагностики эндокардита по критериям Дьюка?",
+      "optionsEn": {
+        "A": "New murmur.",
+        "B": "New conduction disturbance.",
+        "C": "New heart failure.",
+        "D": "New glomerulonephritis."
+      },
+      "optionsRu": {
+        "A": "Новый шум.",
+        "B": "Новое нарушение проводимости.",
+        "C": "Новая сердечная недостаточность.",
+        "D": "Новый гломерулонефрит."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "New murmur is a major Duke criterion. Conduction disturbance, heart failure, and glomerulonephritis are not included as minor criteria; they are clinical features. The answer key says A, but actually new murmur is major. Possibly the question is misworded.",
+      "explanationRu": "Новый шум является большим критерием Дьюка. Нарушение проводимости, сердечная недостаточность и гломерулонефрит не включены в малые критерии; это клинические особенности. Ключ ответов указывает A, но на самом деле новый шум — большой критерий. Возможно, вопрос сформулирован неверно."
+    },
+    {
+      "id": 86,
+      "questionEn": "What is the timing of valve surgery for a hemodynamically stable patient with a new diagnosis of endocarditis with positive blood cultures and vegetation seen on TEE?",
+      "questionRu": "Каковы сроки операции на клапане для гемодинамически стабильного пациента с новым диагнозом эндокардита с положительными посевами крови и вегетациями, видимыми на ЧПЭхоКГ?",
+      "optionsEn": {
+        "A": "Start antibiotic therapy for all patients and operate as soon as possible.",
+        "B": "If the patient had an ischemic stroke, wait about one month from the stroke event.",
+        "C": "If the patient had a hemorrhagic stroke, wait about one month from the stroke event.",
+        "D": "If there is evidence of an abscess at the base of the heart, it is advisable to complete 6 weeks of antibiotic therapy and then operate."
+      },
+      "optionsRu": {
+        "A": "Начать антибиотикотерапию для всех пациентов и оперировать как можно скорее.",
+        "B": "Если у пациента был ишемический инсульт, подождать около месяца от события.",
+        "C": "Если у пациента был геморрагический инсульт, подождать около месяца от события.",
+        "D": "При наличии абсцесса в основании сердца целесообразно завершить 6-недельную антибиотикотерапию, а затем оперировать."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "For hemorrhagic stroke, surgery should be delayed for 3-4 weeks. For ischemic stroke, it can be done earlier. Abscess is an indication for earlier surgery, not completion of antibiotics.",
+      "explanationRu": "При геморрагическом инсульте операцию следует отложить на 3-4 недели. При ишемическом инсульте можно выполнить раньше. Абсцесс является показанием для более ранней операции, а не для завершения курса антибиотиков."
+    },
+    {
+      "id": 87,
+      "questionEn": "Which of the following about Mitral annular calcification (MAC) is INCORRECT?",
+      "questionRu": "Что из следующего о кальцинозе митрального кольца (MAC) НЕВЕРНО?",
+      "optionsEn": {
+        "A": "More common in men.",
+        "B": "There is an association between MAC and diabetes.",
+        "C": "There is an association between MAC and disease (likely atherosclerotic disease).",
+        "D": "Most patients are over age 60."
+      },
+      "optionsRu": {
+        "A": "Чаще встречается у мужчин.",
+        "B": "Существует связь между MAC и диабетом.",
+        "C": "Существует связь между MAC и атеросклеротическим заболеванием.",
+        "D": "Большинство пациентов старше 60 лет."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "MAC is more common in women, especially elderly. It is associated with diabetes, atherosclerosis, and age >60.",
+      "explanationRu": "MAC чаще встречается у женщин, особенно пожилых. Он связан с диабетом, атеросклерозом и возрастом >60 лет."
+    },
+    {
+      "id": 88,
+      "questionEn": "In type 1 pathology according to Carpentier's classification for the mitral valve, one will find:",
+      "questionRu": "При патологии типа 1 по классификации Карпентье для митрального клапана можно обнаружить:",
+      "optionsEn": {
+        "A": "Normal leaflet motion.",
+        "B": "Excessive leaflet motion (PROLAPSE).",
+        "C": "Restricted leaflet motion (RESTRICTION) in diastole.",
+        "D": "Restricted leaflet motion (RESTRICTION) in systole."
+      },
+      "optionsRu": {
+        "A": "Нормальное движение створок.",
+        "B": "Чрезмерное движение створок (ПРОЛАПС).",
+        "C": "Ограниченное движение створок (РЕСТРИКЦИЯ) в диастолу.",
+        "D": "Ограниченное движение створок (РЕСТРИКЦИЯ) в систолу."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Carpentier type I: normal leaflet motion (annular dilatation or leaflet perforation). Type II: excessive motion (prolapse). Type III: restricted motion (IIIa: diastole, IIIb: systole).",
+      "explanationRu": "Карпентье тип I: нормальное движение створок (дилатация кольца или перфорация створки). Тип II: чрезмерное движение (пролапс). Тип III: ограниченное движение (IIIa: диастола, IIIb: систола)."
+    },
+    {
+      "id": 89,
+      "questionEn": "What is the most important factor affecting the durability of a bioprosthetic valve on the left side of the heart?",
+      "questionRu": "Какой наиболее важный фактор влияет на долговечность биологического протеза клапана на левой стороне сердца?",
+      "optionsEn": {
+        "A": "Valve position (aortic vs. mitral).",
+        "B": "Chronic kidney disease.",
+        "C": "Uncontrolled diabetes.",
+        "D": "Patient age."
+      },
+      "optionsRu": {
+        "A": "Позиция клапана (аортальный против митрального).",
+        "B": "Хроническая болезнь почек.",
+        "C": "Неконтролируемый диабет.",
+        "D": "Возраст пациента."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Patient age is the strongest predictor of bioprosthetic valve durability; younger patients have faster structural valve degeneration.",
+      "explanationRu": "Возраст пациента является наиболее сильным предиктором долговечности биопротеза клапана; у молодых пациентов структурная дегенерация клапана происходит быстрее."
+    },
+    {
+      "id": 90,
+      "questionEn": "All of the following statements about prosthetic valve endocarditis are true EXCEPT:",
+      "questionRu": "Все следующие утверждения о протезном эндокардите верны, КРОМЕ:",
+      "optionsEn": {
+        "A": "In the first months after valve implantation, the risk of endocarditis is higher in mechanical prostheses compared to biological ones.",
+        "B": "In certain cases, complete cure can be achieved with antibiotics alone.",
+        "C": "Prosthetic valve endocarditis is more common in the aortic position compared to the mitral position.",
+        "D": "Postoperative treatment includes prolonged antibiotic therapy of at least 4 weeks."
+      },
+      "optionsRu": {
+        "A": "В первые месяцы после имплантации клапана риск эндокардита выше у механических протезов по сравнению с биологическими.",
+        "B": "В определенных случаях полное излечение может быть достигнуто только антибиотиками.",
+        "C": "Протезный эндокардит чаще встречается в аортальной позиции по сравнению с митральной.",
+        "D": "Послеоперационное лечение включает длительную антибиотикотерапию не менее 4 недель."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Treatment for prosthetic valve endocarditis typically requires 6 weeks of antibiotics, not just 4 weeks. Option D is incorrect.",
+      "explanationRu": "Лечение протезного эндокардита обычно требует 6 недель антибиотиков, а не только 4 недели. Вариант D неверен."
+    },
+    {
+      "id": 91,
+      "questionEn": "A 63-year-old man with a background of hypertension, ischemic heart disease (after PCI to ?), and dyslipidemia. Admitted due to shortness of breath, severe fatigue, and fever lasting about 10 days. Blood cultures show repeated growth of MSSA. TEE shows severe mitral regurgitation with several vegetations about 1.5 cm in size. It was decided that he would undergo mitral valve replacement (MVR). Before surgery, the following image was seen on CT (image missing). What is the most appropriate approach for valve replacement given the CT findings?",
+      "questionRu": "Мужчина 63 лет с гипертензией, ишемической болезнью сердца (после ЧКВ) и дислипидемией. Поступил с одышкой, сильной усталостью и лихорадкой в течение 10 дней. Посевы крови показывают повторный рост MSSA. ЧПЭхоКГ показывает тяжелую митральную регургитацию с несколькими вегетациями размером около 1,5 см. Было решено, что ему проведут замену митрального клапана (MVR). Перед операцией на КТ было получено следующее изображение (изображение отсутствует). Какой наиболее подходящий подход к замене клапана с учетом данных КТ?",
+      "optionsEn": {
+        "A": "Balloon angioplasty.",
+        "B": "If the aortic valve is not regurgitant, use an endovascular approach.",
+        "C": "If the aortic valve is significantly regurgitant, replace the aorta with a graft and then place a clamp on the graft and continue with MVR under hypothermic fibrillatory arrest.",
+        "D": "The patient has porcelain aorta and therefore there is an absolute contraindication for surgery."
+      },
+      "optionsRu": {
+        "A": "Баллонная ангиопластика.",
+        "B": "Если аортальный клапан не регургитирует, использовать эндоваскулярный подход.",
+        "C": "Если аортальный клапан значительно регургитирует, заменить аорту графтом, затем наложить зажим на графт и продолжить MVR в условиях гипотермической фибрилляционной остановки.",
+        "D": "У пациента фарфоровая аорта, и поэтому существует абсолютное противопоказание к операции."
+      },
+      "image": "2020-91.jpg",
+      "correctAnswer": "B",
+      "explanationEn": "Based on the answer key, the correct approach is B. The CT likely shows a porcelain aorta, but surgery may still be possible with alternative cannulation techniques.",
+      "explanationRu": "Согласно ключу ответов, правильный подход — B. На КТ, вероятно, видна фарфоровая аорта, но операция все еще возможна с использованием альтернативных методов канюляции."
+    },
+    {
+      "id": 92,
+      "questionEn": "What is the most common etiology of severe tricuspid regurgitation in the Western world?",
+      "questionRu": "Какова наиболее частая этиология тяжелой трикуспидальной регургитации в западном мире?",
+      "optionsEn": {
+        "A": "Pacemaker electrodes crossing the tricuspid valve.",
+        "B": "Myxomatous tricuspid valve disease.",
+        "C": "Rheumatic heart disease.",
+        "D": "Secondary to left ventricular disease."
+      },
+      "optionsRu": {
+        "A": "Электроды кардиостимулятора, пересекающие трикуспидальный клапан.",
+        "B": "Миксоматозная болезнь трикуспидального клапана.",
+        "C": "Ревматическая болезнь сердца.",
+        "D": "Вторичная вследствие заболевания левого желудочка."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Functional TR secondary to left ventricular disease (pulmonary hypertension, RV dilation) is the most common cause in the West.",
+      "explanationRu": "Функциональная ТР, вторичная по отношению к заболеванию левого желудочка (легочная гипертензия, дилатация ПЖ), является наиболее частой причиной на Западе."
+    },
+    {
+      "id": 93,
+      "questionEn": "Which of the following approaches will allow a significantly longer ischemic time during surgery to fix the problem at hand? (Image missing, options likely related to perfusion techniques)",
+      "questionRu": "Какой из следующих подходов позволит значительно увеличить время ишемии во время операции для решения имеющейся проблемы? (Изображение отсутствует, варианты, вероятно, связаны с перфузионными техниками)",
+      "optionsEn": {
+        "A": "Deep hypothermia – circulatory arrest.",
+        "B": "Cannulation of the femoral artery.",
+        "C": "Retrograde cerebral perfusion.",
+        "D": "Axillary artery cannulation."
+      },
+      "optionsRu": {
+        "A": "Глубокая гипотермия – остановка кровообращения.",
+        "B": "Канюляция бедренной артерии.",
+        "C": "Ретроградная церебральная перфузия.",
+        "D": "Канюляция подмышечной артерии."
+      },
+      "image": "2020-93.jpg",
+      "correctAnswer": "A",
+      "explanationEn": "Deep hypothermic circulatory arrest allows for prolonged safe ischemic time (up to 45-60 minutes) for complex aortic procedures.",
+      "explanationRu": "Глубокая гипотермическая остановка кровообращения позволяет увеличить безопасное время ишемии (до 45-60 минут) для сложных аортальных процедур."
+    },
+    {
+      "id": 94,
+      "questionEn": "What is the procedure described in the image sequence? (Images missing)",
+      "questionRu": "Какая процедура описана в последовательности изображений? (Изображения отсутствуют)",
+      "optionsEn": {
+        "A": "Bentall.",
+        "B": "Cabrol.",
+        "C": "David's.",
+        "D": "Yacoub's."
+      },
+      "optionsRu": {
+        "A": "Бенталла.",
+        "B": "Каброля.",
+        "C": "Дэвида.",
+        "D": "Якуба."
+      },
+      "image": "2020-94.jpg",
+      "correctAnswer": "D",
+      "explanationEn": "According to the answer key, the procedure is Yacoub's (remodeling technique for aortic root replacement).",
+      "explanationRu": "Согласно ключу ответов, процедура — Якуба (ремоделирование корня аорты)."
+    },
+    {
+      "id": 95,
+      "questionEn": "A 25-year-old man was brought alive to the ER after being stabbed in the chest as described (image missing). The first step in the ER / trauma care for this injured patient is:",
+      "questionRu": "Молодой человек 25 лет был доставлен живым в отделение неотложной помощи после ножевого ранения в грудь, как описано (изображение отсутствует). Первым шагом в отделении неотложной помощи / травматологической помощи для этого пострадавшего является:",
+      "optionsEn": {
+        "A": "Remove the knife.",
+        "B": "Needle pericardiocentesis.",
+        "C": "Maintain the airway.",
+        "D": "Infuse fluids and/or cross-matched blood."
+      },
+      "optionsRu": {
+        "A": "Удалить нож.",
+        "B": "Игольчатый перикардиоцентез.",
+        "C": "Обеспечить проходимость дыхательных путей.",
+        "D": "Ввести жидкости и/или совместимую кровь."
+      },
+      "image": "2020-95.jpg",
+      "correctAnswer": "C",
+      "explanationEn": "In trauma, the first priority is Airway (A), then Breathing, then Circulation. Airway maintenance is the initial step.",
+      "explanationRu": "При травме первым приоритетом является обеспечение проходимости дыхательных путей (A — Airway), затем дыхание (B) и кровообращение (C). Обеспечение проходимости дыхательных путей — начальный шаг."
+    },
+    {
+      "id": 96,
+      "questionEn": "Which of the following is correct regarding the diagnosis and treatment decision-making in acute pulmonary embolism?",
+      "questionRu": "Что из следующего верно в отношении диагностики и принятия решений о лечении при острой тромбоэмболии легочной артерии (ТЭЛА)?",
+      "optionsEn": {
+        "A": "Presence of a large clot on CT Angio and a dilated right ventricle constitute an indication for surgery.",
+        "B": "The definition of 'massive embolism' for choosing the type of intervention is based solely on clinical-hemodynamic criteria.",
+        "C": "The choice between thrombolytic therapy and embolectomy surgery is made according to clot size.",
+        "D": "Identification of a large clot in the atrium or right ventricle on echocardiography constitutes an indication for thrombolytic therapy."
+      },
+      "optionsRu": {
+        "A": "Наличие большого тромба на КТ-ангиографии и дилатация правого желудочка являются показанием к операции.",
+        "B": "Определение «массивной эмболии» для выбора типа вмешательства основано исключительно на клинико-гемодинамических критериях.",
+        "C": "Выбор между тромболитической терапией и хирургической эмболэктомией производится в соответствии с размером тромба.",
+        "D": "Выявление большого тромба в предсердии или правом желудочке на эхокардиографии является показанием к тромболитической терапии."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Massive PE is defined by hemodynamic instability (hypotension, shock), not clot size. The choice of treatment depends on clinical status.",
+      "explanationRu": "Массивная ТЭЛА определяется гемодинамической нестабильностью (гипотензия, шок), а не размером тромба. Выбор лечения зависит от клинического статуса."
+    },
+    {
+      "id": 97,
+      "questionEn": "What is true about the electrical conduction system of the heart?",
+      "questionRu": "Что верно об электрической проводящей системе сердца?",
+      "optionsEn": {
+        "A": "During surgery to repair anomalous drainage of the left pulmonary vein to the superior vena cava, there is a risk of damage to the sinus node.",
+        "B": "The AV node is located at the apex of Koch's triangle, closest to the coronary sinus.",
+        "C": "If we pass deep sutures under the commissure between the left and non-coronary leaflets, we may damage the His bundle.",
+        "D": "When a surgeon closes a primemembranous VSD via the right atrium, the conduction system is on the left side of the defect."
+      },
+      "optionsRu": {
+        "A": "При операции по поводу аномального дренажа левой легочной вены в верхнюю полую вену существует риск повреждения синусового узла.",
+        "B": "АВ-узел расположен на вершине треугольника Коха, ближе всего к коронарному синусу.",
+        "C": "При проведении глубоких швов под комиссурой между левой и некоронарной створками можно повредить пучок Гиса.",
+        "D": "При закрытии перимембранозного ДМЖП через правое предсердие проводящая система находится на левой стороне дефекта."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The AV node is located at the apex of Koch's triangle, near the coronary sinus. The His bundle runs near the commissure of the right and non-coronary cusps, not left. The sinus node is at risk during atrial surgery.",
+      "explanationRu": "АВ-узел расположен на вершине треугольника Коха, недалеко от коронарного синуса. Пучок Гиса проходит рядом с комиссурой правой и некоронарной створок, а не левой. Синусовый узел находится под угрозой при операциях на предсердиях."
+    },
+    {
+      "id": 98,
+      "questionEn": "What is correct?",
+      "questionRu": "Что верно?",
+      "optionsEn": {
+        "A": "A cyanotic infant with Tricuspid Atresia is best to undergo a Bidirectional Glenn anastomosis at six months of age.",
+        "B": "If we implant a 5mm Gore-Tex BT shunt in a cyanotic infant, we will usually get pulmonary overcirculation.",
+        "C": "A one-week-old infant born with TOF and a left aortic arch has cyanotic spells. After BT shunt implantation, oxygen saturation will rise to 95% on room air.",
+        "D": "An infant with multiple VSDs needs pulmonary artery banding. The band circumference can be calculated as 20 mm minus 1 mm per kilogram of body weight."
+      },
+      "optionsRu": {
+        "A": "Цианотичному младенцу с трикуспидальной атрезией лучше всего выполнить двунаправленный анастомоз Гленна в возрасте шести месяцев.",
+        "B": "Если имплантировать цианотичному младенцу шунт BT 5 мм из Gore-Tex, мы обычно получим легочную гиперциркуляцию.",
+        "C": "Недельный ребенок, рожденный с тетрадой Фалло (TOF) и левой дугой аорты, имеет цианотические приступы. После имплантации шунта BT сатурация кислорода на комнатном воздухе поднимется до 95%.",
+        "D": "Младенцу с множественными ДМЖП необходимо бандажирование легочной артерии. Окружность бандажа может быть рассчитана как 20 мм минус 1 мм на килограмм массы тела."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "A 5mm BT shunt in a small infant often results in excessive pulmonary blood flow (overcirculation). The other options have inaccuracies.",
+      "explanationRu": "Шунт BT 5 мм у маленького младенца часто приводит к чрезмерному легочному кровотоку (гиперциркуляции). Другие варианты содержат неточности."
+    },
+    {
+      "id": 99,
+      "questionEn": "During cardiac surgery to perform a Glenn anastomosis, the anesthesiologist reports a large amount of air seen on TEE. The most appropriate action is:",
+      "questionRu": "Во время кардиохирургической операции по выполнению анастомоза Гленна анестезиолог сообщает о большом количестве воздуха, видимого на чреспищеводной эхокардиографии. Наиболее подходящее действие:",
+      "optionsEn": {
+        "A": "Finish all components of the surgery, perform CT if there is air, give anti-seizure treatment.",
+        "B": "Finish the surgery as quickly as possible, stop anesthesia, and urgently consult neurology to assess damage.",
+        "C": "Finish all stages of surgery, wait for the patient to wake up, and if not awake after 4-6 hours, perform head CT.",
+        "D": "Finish the surgery as quickly as possible and immediately refer for hyperbaric chamber therapy."
+      },
+      "optionsRu": {
+        "A": "Завершить все компоненты операции, выполнить КТ при наличии воздуха, назначить противосудорожное лечение.",
+        "B": "Как можно быстрее завершить операцию, прекратить анестезию и срочно проконсультироваться с неврологом для оценки повреждения.",
+        "C": "Завершить все этапы операции, дождаться пробуждения пациента, а если не проснется через 4-6 часов, выполнить КТ головы.",
+        "D": "Завершить операцию как можно быстрее и немедленно направить на гипербарическую оксигенацию."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Air embolism during cardiac surgery is an emergency; hyperbaric oxygen therapy can be life-saving. The answer key indicates D.",
+      "explanationRu": "Воздушная эмболия во время кардиохирургической операции является неотложным состоянием; гипербарическая оксигенация может спасти жизнь. Ключ ответов указывает D."
+    },
+    {
+      "id": 100,
+      "questionEn": "What is true about patent ductus arteriosus?",
+      "questionRu": "Что верно об открытом артериальном протоке (ОАП)?",
+      "optionsEn": {
+        "A": "If the infant's weight is less than 1200 grams, the chance of the ductus remaining open is 80%.",
+        "B": "The incidence is three times higher in boys than in girls.",
+        "C": "Echocardiography is difficult and must be complemented with cardiac catheterization before surgery.",
+        "D": "In a premature infant weighing 800 grams with a large open ductus, acute renal failure would be a contraindication for surgery."
+      },
+      "optionsRu": {
+        "A": "Если вес младенца менее 1200 граммов, вероятность того, что проток останется открытым, составляет 80%.",
+        "B": "Частота встречаемости в три раза выше у мальчиков, чем у девочек.",
+        "C": "Эхокардиография сложна и должна дополняться катетеризацией сердца перед операцией.",
+        "D": "У недоношенного ребенка весом 800 граммов с большим открытым протоком острая почечная недостаточность будет противопоказанием к операции."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "PDA is more common in preterm infants; in very low birth weight (<1200g), spontaneous closure is less likely (80% remain open). PDA is more common in females.",
+      "explanationRu": "ОАП чаще встречается у недоношенных детей; при очень низкой массе тела (<1200 г) спонтанное закрытие менее вероятно (80% остаются открытыми). ОАП чаще встречается у девочек."
+    },
+    {
+      "id": 101,
+      "questionEn": "What is true about ventricular septal defect (VSD)?",
+      "questionRu": "Что верно о дефекте межжелудочковой перегородки (ДМЖП)?",
+      "optionsEn": {
+        "A": "A restrictive defect is usually symptomatic after two months of age. The chance of the defect closing after two months is much lower.",
+        "B": "For a supracristal infundibular defect, the approach is usually via the right atrium.",
+        "C": "The septal leaflet of the tricuspid valve can be detached to improve exposure during repair.",
+        "D": "LBBB is observed in about 70% of cases."
+      },
+      "optionsRu": {
+        "A": "Рестриктивный дефект обычно становится симптомным после двух месяцев возраста. Вероятность закрытия дефекта после двух месяцев значительно ниже.",
+        "B": "При супракристальном инфундибулярном дефекте доступ обычно осуществляется через правое предсердие.",
+        "C": "Перегородочную створку трикуспидального клапана можно отсоединить для улучшения обзора во время реконструкции.",
+        "D": "Блокада левой ножки пучка Гиса (LBBB) наблюдается примерно в 70% случаев."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The septal leaflet of the tricuspid valve can be temporarily detached to improve exposure of perimembranous VSDs. This is a standard surgical technique.",
+      "explanationRu": "Перегородочную створку трикуспидального клапана можно временно отсоединить для улучшения обзора перимембранозных ДМЖП. Это стандартная хирургическая техника."
+    },
+    {
+      "id": 102,
+      "questionEn": "What is true about Hypoplastic Left Heart Syndrome (HLHS)?",
+      "questionRu": "Что верно о синдроме гипоплазии левых отделов сердца (HLHS)?",
+      "optionsEn": {
+        "A": "Usually, infants born with this defect are symptomatic immediately after birth.",
+        "B": "It is important to give more than 50% oxygen to get them stable for surgery.",
+        "C": "If there is an atrial septal defect, it should be closed with a patch.",
+        "D": "In many cases, the chest is left open after surgery."
+      },
+      "optionsRu": {
+        "A": "Обычно младенцы, рожденные с этим пороком, становятся симптомными сразу после рождения.",
+        "B": "Важно давать более 50% кислорода, чтобы стабилизировать их для операции.",
+        "C": "При наличии дефекта межпредсердной перегородки его следует закрыть заплатой.",
+        "D": "Во многих случаях грудная клетка оставляется открытой после операции."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "After Norwood procedure for HLHS, the chest is often left open due to hemodynamic instability and edema. Symptoms may appear after ductal closure, not immediately.",
+      "explanationRu": "После процедуры Норвуда по поводу HLHS грудная клетка часто остается открытой из-за гемодинамической нестабильности и отека. Симптомы могут появиться после закрытия протока, не сразу."
+    },
+    {
+      "id": 103,
+      "questionEn": "All of the following will prevent success of a cavo-pulmonary connection, EXCEPT:",
+      "questionRu": "Все следующее препятствует успеху каво-пульмонального соединения, КРОМЕ:",
+      "optionsEn": {
+        "A": "Coarctation of the aorta.",
+        "B": "Pulmonary vascular resistance of 4 Wood units.",
+        "C": "A functional ventricle with the structure of a right ventricle.",
+        "D": "End-diastolic pressure of 18 mmHg in the atrium connected to the functional ventricle."
+      },
+      "optionsRu": {
+        "A": "Коарктация аорты.",
+        "B": "Легочное сосудистое сопротивление 4 единицы Вуда.",
+        "C": "Функциональный желудочек со структурой правого желудочка.",
+        "D": "Конечно-диастолическое давление 18 мм рт.ст. в предсердии, соединенном с функциональным желудочком."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Coarctation of the aorta can be repaired and does not necessarily prevent cavo-pulmonary connection. High PVR (>3 Wood units) and elevated EDP (>15 mmHg) are contraindications.",
+      "explanationRu": "Коарктация аорты может быть исправлена и не обязательно препятствует каво-пульмональному соединению. Высокое ЛСС (>3 ед. Вуда) и повышенное КДД (>15 мм рт.ст.) являются противопоказаниями."
+    },
+    {
+      "id": 104,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 105,
+      "questionEn": "A 60-year-old man underwent CABG surgery two weeks ago. He was re-hospitalized with a picture of pneumonia. Echocardiogram demonstrated worsening of left ventricular function, and antibiotic therapy and inotropic support were started. His mental status is deteriorating and he is now stuporous. C.I-2.2, CVP 22, saturation 94% on 2L O2, BP 100/67, HR 92, labs: Na-119, K-4, Cr-1.1, U Na-9, Uosm-250, Sosm-270. How should he be treated?",
+      "questionRu": "Мужчина 60 лет перенес операцию коронарного шунтирования (CABG) две недели назад. Он был повторно госпитализирован с картиной пневмонии. Эхокардиограмма показала ухудшение функции левого желудочка, была начата антибиотикотерапия и инотропная поддержка. Его психический статус ухудшается, и сейчас он сопорозный. Сердечный индекс 2,2, ЦВД 22, сатурация 94% на 2 л O2, АД 100/67, ЧСС 92, лабораторные: Na-119, K-4, Cr-1,1, Na мочи-9, осмолярность мочи-250, осмолярность сыворотки-270. Как его следует лечить?",
+      "optionsEn": {
+        "A": "IV NaCl 3%.",
+        "B": "IV Furosemide.",
+        "C": "IV NaCl 0.9%.",
+        "D": "IV NaCl 0.45%."
+      },
+      "optionsRu": {
+        "A": "Внутривенно 3% NaCl.",
+        "B": "Внутривенно фуросемид.",
+        "C": "Внутривенно 0,9% NaCl.",
+        "D": "Внутривенно 0,45% NaCl."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "The patient has severe hyponatremia (Na 119) with high urine osmolality (250) and low urine sodium (9), suggesting SIADH. Neurological symptoms (stupor) require hypertonic saline (3% NaCl).",
+      "explanationRu": "У пациента тяжелая гипонатриемия (Na 119) с высокой осмолярностью мочи (250) и низким натрием мочи (9), что указывает на SIADH. Неврологические симптомы (сопор) требуют введения гипертонического раствора (3% NaCl)."
+    },
+    {
+      "id": 106,
+      "questionEn": "A 79-year-old man one week after AVR. Now, fever 40°C, productive cough, and new infiltrates on chest X-ray. Saturation 98% on 4L O2, respiratory rate 28, MAP-60, HR 120 AF. Blood cultures taken, no answer yet. What is the next step in treatment?",
+      "questionRu": "Мужчина 79 лет через неделю после протезирования аортального клапана (AVR). Теперь температура 40°C, продуктивный кашель и новые инфильтраты на рентгенограмме грудной клетки. Сатурация 98% на 4 л O2, частота дыхания 28, среднее АД 60, ЧСС 120, ФП. Посевы крови взяты, ответа пока нет. Каков следующий шаг в лечении?",
+      "optionsEn": {
+        "A": "Administer intravenous steroids.",
+        "B": "Start broad-spectrum antibiotic coverage.",
+        "C": "Electrical cardioversion and give procainamide.",
+        "D": "Insert a Swan-Ganz catheter and give inotropics."
+      },
+      "optionsRu": {
+        "A": "Ввести внутривенно стероиды.",
+        "B": "Начать эмпирическую антибиотикотерапию широкого спектра.",
+        "C": "Электрическая кардиоверсия и введение прокаинамида.",
+        "D": "Установить катетер Свана-Ганца и ввести инотропы."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Post-operative fever with pulmonary infiltrates and hypotension suggests infection (pneumonia/sepsis). Broad-spectrum antibiotics should be started immediately after obtaining cultures.",
+      "explanationRu": "Послеоперационная лихорадка с легочными инфильтратами и гипотензией предполагает инфекцию (пневмония/сепсис). Эмпирическую антибиотикотерапию широкого спектра следует начать немедленно после взятия посевов."
+    },
+    {
+      "id": 107,
+      "questionEn": "What is correct about the right ventricle?",
+      "questionRu": "Что верно о правом желудочке?",
+      "optionsEn": {
+        "A": "The right ventricular wall is thinner than the left ventricular wall and its mass is a quarter of that of the left ventricle.",
+        "B": "The EDV volume of the right ventricle is smaller than that of the left ventricle.",
+        "C": "The ejection fraction of the right ventricle is smaller than that of the left ventricle.",
+        "D": "The main contribution to right ventricular ejection comes from the septum."
+      },
+      "optionsRu": {
+        "A": "Стенка правого желудочка тоньше стенки левого желудочка, а его масса составляет четверть массы левого желудочка.",
+        "B": "Конечно-диастолический объем правого желудочка меньше, чем левого желудочка.",
+        "C": "Фракция выброса правого желудочка меньше, чем левого желудочка.",
+        "D": "Основной вклад в изгнание крови из правого желудочка вносит перегородка."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "The right ventricle has thinner wall (about 1/4 of LV mass). EDV of RV is larger than LV. RVEF is similar to LVEF (50-60%). The septum plays a key role in RV contraction.",
+      "explanationRu": "Правый желудочек имеет более тонкую стенку (около 1/4 массы ЛЖ). КДО ПЖ больше, чем ЛЖ. ФВ ПЖ аналогична ФВ ЛЖ (50-60%). Перегородка играет ключевую роль в сокращении ПЖ."
+    },
+    {
+      "id": 108,
+      "questionEn": "Which of the following factors will cause vasoconstriction in the pulmonary vascular bed?",
+      "questionRu": "Какой из следующих факторов вызовет вазоконстрикцию в легочном сосудистом русле?",
+      "optionsEn": {
+        "A": "Prostaglandins.",
+        "B": "Nitric oxide.",
+        "C": "Hypoxia.",
+        "D": "Hyperventilation."
+      },
+      "optionsRu": {
+        "A": "Простагландины.",
+        "B": "Оксид азота.",
+        "C": "Гипоксия.",
+        "D": "Гипервентиляция."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Hypoxia causes pulmonary vasoconstriction (Euler-Liljestrand mechanism). Prostaglandins (PGI2) and nitric oxide are vasodilators. Hyperventilation causes hypocapnia and vasodilation.",
+      "explanationRu": "Гипоксия вызывает легочную вазоконстрикцию (механизм Эйлера-Лильестранда). Простагландины (PGI2) и оксид азота являются вазодилататорами. Гипервентиляция вызывает гипокапнию и вазодилатацию."
+    },
+    {
+      "id": 109,
+      "questionEn": "What is the most important determinant of the heart's oxygen demand?",
+      "questionRu": "Что является наиболее важным детерминантом потребности сердца в кислороде?",
+      "optionsEn": {
+        "A": "Heart rate.",
+        "B": "Blood pressure.",
+        "C": "Preload.",
+        "D": "Wall tension."
+      },
+      "optionsRu": {
+        "A": "Частота сердечных сокращений.",
+        "B": "Артериальное давление.",
+        "C": "Преднагрузка.",
+        "D": "Напряжение стенки."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Myocardial oxygen demand (MVO2) is determined primarily by wall tension (Laplace law), contractility, and heart rate. Wall tension is the major determinant.",
+      "explanationRu": "Потребность миокарда в кислороде (MVO2) определяется в первую очередь напряжением стенки (закон Лапласа), сократимостью и частотой сердечных сокращений. Напряжение стенки является основным детерминантом."
+    },
+    {
+      "id": 110,
+      "questionEn": "What is correct about coronary blood flow?",
+      "questionRu": "Что верно о коронарном кровотоке?",
+      "optionsEn": {
+        "A": "Blood flow in the right coronary artery is relatively constant throughout the cardiac cycle.",
+        "B": "The subendocardium receives its blood supply mainly during systole directly from left ventricular contraction.",
+        "C": "The subepicardial region receives its blood supply only during systole.",
+        "D": "In the left coronary system, blood flow is phasic, with the main component during systole."
+      },
+      "optionsRu": {
+        "A": "Кровоток в правой коронарной артерии относительно постоянен на протяжении сердечного цикла.",
+        "B": "Субэндокард получает кровоснабжение в основном во время систолы непосредственно от сокращения левого желудочка.",
+        "C": "Субэпикардиальная область получает кровоснабжение только во время систолы.",
+        "D": "В левой коронарной системе кровоток фазный, с основным компонентом во время систолы."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Right coronary artery flow occurs throughout the cardiac cycle due to lower pressures. Left coronary flow is predominantly diastolic because systolic compression impedes flow.",
+      "explanationRu": "Кровоток в правой коронарной артерии происходит на протяжении всего сердечного цикла из-за более низкого давления. Кровоток в левой коронарной артерии преимущественно диастолический, поскольку систолическое сжатие препятствует потоку."
+    },
+    {
+      "id": 111,
+      "questionEn": "What is correct regarding the pharmacology of digoxin?",
+      "questionRu": "Что верно в отношении фармакологии дигоксина?",
+      "optionsEn": {
+        "A": "Inhibits Na/K ATPase pump, increases intracellular calcium concentration, and slows conduction velocity.",
+        "B": "Inhibits Na/K ATPase pump, decreases intracellular calcium concentration, and reduces resting membrane potential.",
+        "C": "Inhibits Na/K ATPase pump, decreases intracellular calcium concentration, and reduces conduction velocity.",
+        "D": "Main effect is at the AV node where conduction is slowed and the refractory period is shortened."
+      },
+      "optionsRu": {
+        "A": "Ингибирует Na/K АТФазу, увеличивает внутриклеточную концентрацию кальция и замедляет скорость проведения.",
+        "B": "Ингибирует Na/K АТФазу, уменьшает внутриклеточную концентрацию кальция и снижает мембранный потенциал покоя.",
+        "C": "Ингибирует Na/K АТФазу, уменьшает внутриклеточную концентрацию кальция и замедляет скорость проведения.",
+        "D": "Основной эффект на АВ-узле: проводимость замедляется, рефрактерный период укорачивается."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Digoxin inhibits Na/K-ATPase, leading to increased intracellular sodium, which then via NCX increases intracellular calcium. It also slows AV nodal conduction.",
+      "explanationRu": "Дигоксин ингибирует Na/K-АТФазу, что приводит к увеличению внутриклеточного натрия, который затем через NCX увеличивает внутриклеточный кальций. Он также замедляет проведение в АВ-узле."
+    },
+    {
+      "id": 112,
+      "questionEn": "What is correct regarding amiodarone?",
+      "questionRu": "Что верно в отношении амиодарона?",
+      "optionsEn": {
+        "A": "Its antiadrenergic effects are similar to those of beta-blockers.",
+        "B": "Its main effect in treating superventricular arrhythmias is by increasing the refractory period of the AV node.",
+        "C": "It does not have Class I properties of drugs that block sodium entry into cells.",
+        "D": "The maximum oral effect on SA & AV node is only after 4-6 hours of treatment."
+      },
+      "optionsRu": {
+        "A": "Его антиадренергические эффекты сходны с таковыми у бета-блокаторов.",
+        "B": "Его основное действие при лечении наджелудочковых аритмий заключается в увеличении рефрактерного периода АВ-узла.",
+        "C": "Он не обладает свойствами класса I (блокада натриевых каналов).",
+        "D": "Максимальный эффект на СА и АВ-узел при пероральном приеме наступает только через 4-6 часов лечения."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Amiodarone has Class III (potassium channel blocker) effects and also increases AV nodal refractory period, making it effective for supraventricular arrhythmias. It has weak beta-blocking effects.",
+      "explanationRu": "Амиодарон обладает эффектами класса III (блокада калиевых каналов) и также увеличивает рефрактерный период АВ-узла, что делает его эффективным при наджелудочковых аритмиях. Он оказывает слабые бета-блокирующие эффекты."
+    },
+    {
+      "id": 113,
+      "questionEn": "According to the five-year follow-up results of the SYNTAX study for patients with SYNTAX score 23-32, there was no difference in mortality between the groups. What were the differences?",
+      "questionRu": "Согласно результатам пятилетнего наблюдения исследования SYNTAX для пациентов с SYNTAX 23-32, не было различий в смертности между группами. Каковы были различия?",
+      "optionsEn": {
+        "A": "Patients who underwent CABG had more non-cardiac mortality.",
+        "B": "Patients who underwent PCI had more repeat interventions and more MIs.",
+        "C": "There were no significant statistical differences at all between the groups.",
+        "D": "The differences that existed between the groups at three-year follow-up disappeared at five-year follow-up."
+      },
+      "optionsRu": {
+        "A": "Пациенты, перенесшие КШ, имели более высокую некардиальную смертность.",
+        "B": "Пациенты, перенесшие ЧКВ, имели больше повторных вмешательств и больше инфарктов миокарда.",
+        "C": "Между группами вообще не было значимых статистических различий.",
+        "D": "Различия, существовавшие между группами при трехлетнем наблюдении, исчезли при пятилетнем наблюдении."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "In the SYNTAX trial, for intermediate SYNTAX scores, CABG was associated with lower rates of repeat revascularization and MI compared to PCI, with no difference in mortality.",
+      "explanationRu": "В исследовании SYNTAX для промежуточных значений SYNTAX КШ было связано с более низкими показателями повторной реваскуляризации и ИМ по сравнению с ЧКВ, без различий в смертности."
+    },
+    {
+      "id": 114,
+      "questionEn": "According to the five-year follow-up results of the SYNTAX study for patients with Left Main disease?",
+      "questionRu": "Согласно результатам пятилетнего наблюдения исследования SYNTAX для пациентов с поражением левого основного ствола (LM)?",
+      "optionsEn": {
+        "A": "Better results with PCI.",
+        "B": "Better results with CABG.",
+        "C": "Results in these patients depend more on their SYNTAX score than on the LM disease.",
+        "D": "More strokes."
+      },
+      "optionsRu": {
+        "A": "Лучшие результаты при ЧКВ.",
+        "B": "Лучшие результаты при КШ.",
+        "C": "Результаты у этих пациентов больше зависят от их SYNTAX score, чем от поражения LM.",
+        "D": "Больше инсультов."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "In the SYNTAX trial, for left main disease, CABG had better outcomes than PCI at 5 years, especially for higher SYNTAX scores.",
+      "explanationRu": "В исследовании SYNTAX при поражении левого основного ствола КШ показал лучшие результаты, чем ЧКВ, через 5 лет, особенно при более высоких значениях SYNTAX."
+    },
+    {
+      "id": 115,
+      "questionEn": "What is correct regarding surgical technique according to the EACTS/ESC GUIDELINE FOR REVASCULARIZATION-2014?",
+      "questionRu": "Что верно в отношении хирургической техники согласно рекомендациям EACTS/ESC по реваскуляризации 2014 года?",
+      "optionsEn": {
+        "A": "There is no recommendation for routine use of bilateral mammary arteries.",
+        "B": "It is recommended to use a radial artery for bypass in young patients regardless of the degree of stenosis in the target vessel.",
+        "C": "There is a recommendation to clamp the entire ascending aorta if possible.",
+        "D": "Off-pump bypass surgery appears as a Class III recommendation."
+      },
+      "optionsRu": {
+        "A": "Нет рекомендации по рутинному использованию двусторонних внутренних грудных артерий.",
+        "B": "Рекомендуется использовать лучевую артерию для шунтирования у молодых пациентов независимо от степени стеноза целевого сосуда.",
+        "C": "Существует рекомендация пережимать всю восходящую аорту, если это возможно.",
+        "D": "Шунтирование без искусственного кровообращения (off-pump) имеет рекомендацию класса III."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The guidelines recommend clamping the ascending aorta (single cross-clamp) to minimize manipulation. BIMA use is Class IIa. Off-pump is Class IIb.",
+      "explanationRu": "Рекомендации рекомендуют пережимать восходящую аорту (один зажим) для минимизации манипуляций. Использование BIMA — класс IIa. Off-pump — класс IIb."
+    },
+    {
+      "id": 116,
+      "questionEn": "What is correct according to the EACTS/ESC GUIDELINE FOR REVASCULARIZATION-2014? (Question incomplete)",
+      "questionRu": "Что верно согласно рекомендациям EACTS/ESC по реваскуляризации 2014 года? (Вопрос неполный)",
+      "optionsEn": {
+        "A": "CABG appears as a Class I recommendation for...",
+        "B": "There is a contraindication for the use of...",
+        "C": "Bypass surgery for severe AS is performed only in a patient with AVR during bypass surgery.",
+        "D": "CT under age 60..."
+      },
+      "optionsRu": {
+        "A": "КШ имеет рекомендацию класса I для...",
+        "B": "Существует противопоказание к использованию...",
+        "C": "Шунтирование при тяжелом АС выполняется только у пациента с ПАК во время шунтирования.",
+        "D": "КТ в возрасте до 60 лет..."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "Based on answer key, A is correct. CABG is Class I for multivessel disease and left main disease in appropriate patients.",
+      "explanationRu": "Основываясь на ключе ответов, A верен. КШ имеет класс I для многососудистого поражения и поражения левого основного ствола у соответствующих пациентов."
+    },
+    {
+      "id": 117,
+      "questionEn": "In the NOBLE STUDY (published in The Lancet):",
+      "questionRu": "В исследовании NOBLE (опубликовано в The Lancet):",
+      "optionsEn": {
+        "A": "BIMA...",
+        "B": "In contrast to other studies, the percentage of CABG was lower than that of PCI...",
+        "C": "The disease separated after three years...",
+        "D": "Most patients in the study underwent bypass surgery without using a heart-lung machine."
+      },
+      "optionsRu": {
+        "A": "BIMA...",
+        "B": "В отличие от других исследований, процент КШ был ниже, чем ЧКВ...",
+        "C": "Заболевание разошлось после трех лет...",
+        "D": "Большинство пациентов в исследовании перенесли шунтирование без использования аппарата искусственного кровообращения."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The NOBLE trial had a high crossover rate; the answer key indicates B is correct.",
+      "explanationRu": "В исследовании NOBLE был высокий уровень кроссовера; ключ ответов указывает, что B верен."
+    },
+    {
+      "id": 118,
+      "questionEn": "A 50-year-old woman was found unconscious at home after a stroke. After several unsuccessful attempts, she was ventilated in the field by the ambulance crew and brought to the ER. On examination, she is hemodynamically stable. No problem with ventilation. Subcutaneous emphysema in the neck. Attached are representative CT cuts (image missing). What is the appropriate treatment approach in this case?",
+      "questionRu": "Женщина 50 лет была найдена без сознания дома после инсульта. После нескольких неудачных попыток бригада скорой помощи провела интубацию на месте и доставила в отделение неотложной помощи. При осмотре она гемодинамически стабильна. Проблем с вентиляцией нет. Подкожная эмфизема в области шеи. Прилагаются репрезентативные срезы КТ (изображение отсутствует). Каков соответствующий подход к лечению в этом случае?",
+      "optionsEn": {
+        "A": "Observation without surgical intervention initially.",
+        "B": "Open cervical dissection urgently.",
+        "C": "Repair of bronchial tear via left-sided approach.",
+        "D": "Selective ventilation of the left lung."
+      },
+      "optionsRu": {
+        "A": "Наблюдение без хирургического вмешательства изначально.",
+        "B": "Срочная открытая шейная диссекция.",
+        "C": "Реконструкция разрыва бронха левосторонним доступом.",
+        "D": "Селективная вентиляция левого легкого."
+      },
+      "image": "2020-118.jpg",
+      "correctAnswer": "A",
+      "explanationEn": "Subcutaneous emphysema after trauma may resolve spontaneously; observation is appropriate if the patient is stable. Surgical intervention is reserved for airway compromise.",
+      "explanationRu": "Подкожная эмфизема после травмы может разрешиться спонтанно; наблюдение целесообразно, если пациент стабилен. Хирургическое вмешательство показано при нарушении проходимости дыхательных путей."
+    },
+    {
+      "id": 119,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 120,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 121,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 122,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 123,
+      "questionEn": "What represents Stage IIIA disease?",
+      "questionRu": "Что представляет собой стадия IIIA заболевания?",
+      "optionsEn": {
+        "A": "Tumor in right upper lobe, size 5 cm, invading the chest wall, no lymph node involvement.",
+        "B": "Tumor in right lower lobe, size 3 cm, with an additional positive node in the same lobe.",
+        "C": "Tumor in right lower lobe, size 4 cm, with a positive node in station 7 on the right.",
+        "D": "Tumor in left upper lobe, size 4 cm, with a positive supraclavicular node."
+      },
+      "optionsRu": {
+        "A": "Опухоль в правой верхней доле, размер 5 см, прорастает грудную стенку, нет поражения лимфоузлов.",
+        "B": "Опухоль в правой нижней доле, размер 3 см, с дополнительным положительным узлом в той же доле.",
+        "C": "Опухоль в правой нижней доле, размер 4 см, с положительным узлом в станции 7 справа.",
+        "D": "Опухоль в левой верхней доле, размер 4 см, с положительным надключичным узлом."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Stage IIIA lung cancer includes T3N1, T4N0-1, or T1-2N2. Option C: T2N2 (size 4 cm, N2 node at station 7) is Stage IIIA.",
+      "explanationRu": "Рак легкого стадии IIIA включает T3N1, T4N0-1 или T1-2N2. Вариант C: T2N2 (размер 4 см, узел N2 на станции 7) соответствует стадии IIIA."
+    },
+    {
+      "id": 124,
+      "questionEn": "A 70-year-old woman, former smoker. What is the most likely diagnosis? (Image of pathology shown)",
+      "questionRu": "Женщина 70 лет, бывшая курильщица. Каков наиболее вероятный диагноз? (Изображение патологии показано)",
+      "optionsEn": {
+        "A": "Adenocarcinoma with lepidic growth pattern.",
+        "B": "Small cell lung cancer.",
+        "C": "Invasive adenocarcinoma.",
+        "D": "Squamous cell carcinoma."
+      },
+      "optionsRu": {
+        "A": "Аденокарцинома с лепидным характером роста.",
+        "B": "Мелкоклеточный рак легкого.",
+        "C": "Инвазивная аденокарцинома.",
+        "D": "Плоскоклеточный рак."
+      },
+      "image": "2020-124.jpg",
+      "correctAnswer": "A",
+      "explanationEn": "The answer key indicates A. Lepidic growth pattern is characteristic of adenocarcinoma in situ or minimally invasive adenocarcinoma.",
+      "explanationRu": "Ключ ответов указывает A. Лепидный характер роста характерен для аденокарциномы in situ или минимально инвазивной аденокарциномы."
+    },
+    {
+      "id": 125,
+      "questionEn": "The parietal pleura differs from the visceral pleura:",
+      "questionRu": "Париетальная плевра отличается от висцеральной плевры:",
+      "optionsEn": {
+        "A": "Presence of double-layered mesothelial cells on the visceral pleura.",
+        "B": "Lymphatic stomata in the visceral pleura.",
+        "C": "Lymphatic stomata in the parietal pleura.",
+        "D": "Presence of double-layered mesothelial cells on the parietal pleura."
+      },
+      "optionsRu": {
+        "A": "Наличие двухслойных мезотелиальных клеток на висцеральной плевре.",
+        "B": "Лимфатические стомы в висцеральной плевре.",
+        "C": "Лимфатические стомы в париетальной плевре.",
+        "D": "Наличие двухслойных мезотелиальных клеток на париетальной плевре."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "The visceral pleura has a single layer of mesothelial cells. The parietal pleura has lymphatic stomata for fluid drainage. Option A is incorrect as it says double-layered. The answer key says A, which might be a trick.",
+      "explanationRu": "Висцеральная плевра имеет один слой мезотелиальных клеток. Париетальная плевра имеет лимфатические стомы для дренажа жидкости. Вариант A неверен, так как говорит о двухслойности. Ключ ответов указывает A, что может быть уловкой."
+    },
+    {
+      "id": 126,
+      "questionEn": "A patient after aortic valve replacement surgery with a VVI-70 pacemaker. The meaning of the pacing letters (in order)...",
+      "questionRu": "Пациент после операции протезирования аортального клапана с кардиостимулятором VVI-70. Значение букв стимуляции (по порядку)...",
+      "optionsEn": {
+        "A": "Ventricle, Ventricle, Inhibited.",
+        "B": "Ventricle, Atrium, Inhibited.",
+        "C": "Atrium, Ventricle, Inhibited.",
+        "D": "Ventricle, Ventricle, Triggered."
+      },
+      "optionsRu": {
+        "A": "Желудочек, Желудочек, Ингибируемый.",
+        "B": "Желудочек, Предсердие, Ингибируемый.",
+        "C": "Предсердие, Желудочек, Ингибируемый.",
+        "D": "Желудочек, Желудочек, Триггерный."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "VVI: first letter = chamber paced (Ventricle), second = chamber sensed (Ventricle), third = response to sensing (Inhibited).",
+      "explanationRu": "VVI: первая буква = стимулируемая камера (Желудочек), вторая = воспринимаемая камера (Желудочек), третья = реакция на восприятие (Ингибируемый)."
+    },
+    {
+      "id": 127,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 128,
+      "questionEn": "What is true about the anatomy of the diaphragm?",
+      "questionRu": "Что верно об анатомии диафрагмы?",
+      "optionsEn": {
+        "A": "Blockage of the inferior phrenic artery.",
+        "B": "The phrenic nerve pierces the diaphragm at the central tendon.",
+        "C": "The thoracic duct...",
+        "D": "Venous drainage of the diaphragm is via the portal vein."
+      },
+      "optionsRu": {
+        "A": "Блокада нижней диафрагмальной артерии.",
+        "B": "Диафрагмальный нерв проникает через диафрагму в центральном сухожилии.",
+        "C": "Грудной проток...",
+        "D": "Венозный дренаж диафрагмы осуществляется через воротную вену."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The phrenic nerve pierces the diaphragm at the central tendon. Option A is incomplete; C and D are incorrect.",
+      "explanationRu": "Диафрагмальный нерв проникает через диафрагму в центральном сухожилии. Вариант A неполный; C и D неверны."
+    },
+    {
+      "id": 129,
+      "questionEn": "A 48-year-old patient with severe ARDS supported by VV ECMO. Venous drainage via a right femoral vein cannula and arterial return via a right jugular vein cannula. The flow rate is 4 L/min. Oxygen saturation in the return blood is 72% and the saturation in the drained venous blood is 58%. The patient's arterial saturation is 58%. The flow was increased to 6.5 L/min and the venous blood saturation rose to 58%. The attached image shows the cannula position. What is the explanation for the phenomenon that occurred?",
+      "questionRu": "Пациент 48 лет с тяжелым ОРДС на ВВ ЭКМО. Венозный дренаж через канюлю в правой бедренной вене, артериальный возврат через канюлю в правой яремной вене. Скорость потока 4 л/мин. Сатурация кислорода в возвращаемой крови 72%, а в дренируемой венозной крови — 58%. Артериальная сатурация пациента 58%. Поток был увеличен до 6,5 л/мин, и сатурация венозной крови поднялась до 58%. На прилагаемом изображении показано положение канюль. Каково объяснение возникшего феномена?",
+      "optionsEn": {
+        "A": "Pulmonary embolism.",
+        "B": "Clots in the oxygenator.",
+        "C": "Right-to-left shunt at the atrial level.",
+        "D": "Recirculation."
+      },
+      "optionsRu": {
+        "A": "Тромбоэмболия легочной артерии.",
+        "B": "Тромбы в оксигенаторе.",
+        "C": "Право-левый шунт на уровне предсердий.",
+        "D": "Рециркуляция."
+      },
+      "image": "2020-129.jpg",
+      "correctAnswer": "D",
+      "explanationEn": "The cannulae are close together (femoral vein drainage and jugular return), causing recirculation of oxygenated blood back into the drainage circuit, reducing efficiency. Increasing flow worsened recirculation.",
+      "explanationRu": "Канюли расположены близко друг к другу (дренаж из бедренной вены и возврат в яремную), что вызывает рециркуляцию оксигенированной крови обратно в дренажный контур, снижая эффективность. Увеличение потока усугубило рециркуляцию."
+    },
+    {
+      "id": 130,
+      "questionEn": "In the article by Taggart (2016) comparing the use of a single mammary artery (SINGLE) vs. bilateral mammary arteries (BIMA)...",
+      "questionRu": "В статье Taggart (2016), сравнивающей использование одной внутренней грудной артерии (SINGLE) и двух внутренних грудных артерий (BIMA)...",
+      "optionsEn": {
+        "A": "At 5-year follow-up, survival of patients in whom BIMA was used was higher than those in whom SINGLE was used.",
+        "B": "The stroke rate was higher in the SINGLE group (not statistically significant).",
+        "C": "Patients with EF<50 had better survival in the SINGLE MAMMARY group.",
+        "D": "The rate of repeat revascularization was higher in the SINGLE group."
+      },
+      "optionsRu": {
+        "A": "При 5-летнем наблюдении выживаемость пациентов, которым использовали BIMA, была выше, чем у тех, кому использовали SINGLE.",
+        "B": "Частота инсультов была выше в группе SINGLE (статистически не значимо).",
+        "C": "Пациенты с ФВ<50 имели лучшую выживаемость в группе одной грудной артерии.",
+        "D": "Частота повторной реваскуляризации была выше в группе SINGLE."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The Taggart trial (ART) showed no survival benefit for BIMA at 5 years, but stroke rate was higher in the BIMA group. The answer key says B (stroke rate higher in SINGLE group) — possibly a misprint.",
+      "explanationRu": "Исследование Taggart (ART) не показало преимущества в выживаемости для BIMA через 5 лет, но частота инсультов была выше в группе BIMA. Ключ ответов указывает B (частота инсультов выше в группе SINGLE) — возможно, опечатка."
+    },
+    {
+      "id": 131,
+      "questionEn": "In patients with three-vessel disease and SYNTAX score less than 22, CABG is superior to PCI as a Class I recommendation. In patients with three-vessel disease and SYNTAX 23-32, CABG surgery is recommended as Class 2A, while PCI is Class 3B. Which statement is correct?",
+      "questionRu": "У пациентов с трехсосудистым поражением и SYNTAX <22 КШ превосходит ЧКВ как рекомендация класса I. У пациентов с трехсосудистым поражением и SYNTAX 23-32 КШ рекомендуется как класс 2A, а ЧКВ — класс 3B. Какое утверждение верно?",
+      "optionsEn": {
+        "A": "A patient with left main disease and SYNTAX <22, there is no preference for PCI over CABG.",
+        "B": "For every patient with left main disease, CABG is preferred regardless of SYNTAX score."
+      },
+      "optionsRu": {
+        "A": "Пациент с поражением левого основного ствола и SYNTAX <22, нет предпочтения ЧКВ перед КШ.",
+        "B": "Для каждого пациента с поражением левого основного ствола КШ предпочтительнее независимо от SYNTAX score."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The answer key indicates B. For left main disease, CABG is generally preferred across SYNTAX scores, though the 2014 guidelines give Class I for CABG and Class IIa for PCI in low SYNTAX.",
+      "explanationRu": "Ключ ответов указывает B. При поражении левого основного ствола КШ обычно предпочтительнее при всех значениях SYNTAX, хотя рекомендации 2014 года дают класс I для КШ и класс IIa для ЧКВ при низком SYNTAX."
+    },
+    {
+      "id": 132,
+      "questionEn": "In the article by Pape et al., 'Long Term Trends in Acute Aortic Dissection (IRAD)':",
+      "questionRu": "В статье Pape et al. «Долгосрочные тенденции при остром расслоении аорты (IRAD)»:",
+      "optionsEn": {
+        "A": "The rate of patients with Marfan syndrome remained constant throughout all follow-up years without significant statistical change.",
+        "B": "The operative mortality rate in patients with Type A dissection decreased over the years from 25% to 18%.",
+        "C": "The overall mortality rate in patients with Type B dissection decreased over the period to about 10% due to the use of endovascular repair.",
+        "D": "The complication rate in aortic arch..."
+      },
+      "optionsRu": {
+        "A": "Доля пациентов с синдромом Марфана оставалась постоянной на протяжении всех лет наблюдения без значимых статистических изменений.",
+        "B": "Операционная летальность у пациентов с расслоением типа А снизилась с годами с 25% до 18%.",
+        "C": "Общая летальность у пациентов с расслоением типа В снизилась за период до около 10% благодаря использованию эндоваскулярного протезирования.",
+        "D": "Частота осложнений в дуге аорты..."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The IRAD data showed a decrease in operative mortality for Type A dissection over time, from approximately 25% to 18%.",
+      "explanationRu": "Данные IRAD показали снижение операционной летальности при расслоении типа А с течением времени с примерно 25% до 18%."
+    },
+    {
+      "id": 133,
+      "questionEn": "Question text missing.",
+      "questionRu": "Текст вопроса отсутствует.",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "image": "2020-133.jpg",
+      "correctAnswer": "C",
+      "explanationEn": "Question not recoverable.",
+      "explanationRu": "Вопрос не восстановлен."
+    },
+    {
+      "id": 134,
+      "questionEn": "Pulmonary Thromboendarterectomy:",
+      "questionRu": "Тромбэндартерэктомия легочной артерии:",
+      "optionsEn": {
+        "A": "Staged Procedure.",
+        "B": "Moderate hypothermia, CPB.",
+        "C": "DHCA, CPB.",
+        "D": "None."
+      },
+      "optionsRu": {
+        "A": "Этапная процедура.",
+        "B": "Умеренная гипотермия, ИК.",
+        "C": "Глубокая гипотермическая остановка кровообращения (DHCA), ИК.",
+        "D": "Ничего."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Pulmonary thromboendarterectomy for CTEPH requires deep hypothermic circulatory arrest to allow a bloodless field for precise dissection of fibrotic material.",
+      "explanationRu": "Тромбэндартерэктомия легочной артерии при ХТЭЛГ требует глубокой гипотермической остановки кровообращения для обеспечения бескровного поля для точной диссекции фиброзного материала."
+    },
+    {
+      "id": 135,
+      "questionEn": "Pulmonary Thromboendarterectomy (additional question).",
+      "questionRu": "Тромбэндартерэктомия легочной артерии (дополнительный вопрос).",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Answer key indicates C.",
+      "explanationRu": "Ключ ответов указывает C."
+    },
+    {
+      "id": 136,
+      "questionEn": "The most common malignant tumor of the heart is:",
+      "questionRu": "Наиболее распространенная злокачественная опухоль сердца:",
+      "optionsEn": {
+        "A": "Rhabdomyosarcoma.",
+        "B": "Angiosarcoma.",
+        "C": "Fibrosarcoma.",
+        "D": "Leiomyosarcoma."
+      },
+      "optionsRu": {
+        "A": "Рабдомиосаркома.",
+        "B": "Ангиосаркома.",
+        "C": "Фибросаркома.",
+        "D": "Лейомиосаркома."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "Angiosarcoma is the most common primary malignant cardiac tumor, usually arising in the right atrium.",
+      "explanationRu": "Ангиосаркома является наиболее частой первичной злокачественной опухолью сердца, обычно возникающей в правом предсердии."
+    },
+    {
+      "id": 137,
+      "questionEn": "What is correct about tumors that metastasize to the heart?",
+      "questionRu": "Что верно об опухолях, метастазирующих в сердце?",
+      "optionsEn": {
+        "A": "Metastases in the heart are usually solitary and widespread distribution is rare.",
+        "B": "Among primary tumors, melanoma is the most common to metastasize to the heart.",
+        "C": "Metastatic spread of bronchogenic carcinoma to the heart is usually hematogenous and ultimately via the general arteries.",
+        "D": "Clinical presentation occurs in 50% of patients with cardiac metastases, usually as pericardial effusion or tamponade."
+      },
+      "optionsRu": {
+        "A": "Метастазы в сердце обычно солитарны, распространенное распределение встречается редко.",
+        "B": "Среди первичных опухолей меланома наиболее часто метастазирует в сердце.",
+        "C": "Метастатическое распространение бронхогенной карциномы в сердце обычно гематогенное и в конечном итоге через общие артерии.",
+        "D": "Клиническая картина наблюдается у 50% пациентов с метастазами в сердце, обычно как перикардиальный выпот или тампонада."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "Melanoma has the highest propensity to metastasize to the heart (up to 50% in autopsy series). The answer key says C, but that is not accurate. We follow the key.",
+      "explanationRu": "Меланома имеет наибольшую склонность к метастазированию в сердце (до 50% в аутопсийных сериях). Ключ ответов указывает C, но это не точно. Следуем ключу."
+    },
+    {
+      "id": 138,
+      "questionEn": "Gillinov et al. (NEJM 2015) examined the effect of the Maze procedure during mitral valve surgery. What was their conclusion?",
+      "questionRu": "Gillinov et al. (NEJM 2015) изучили влияние процедуры Maze при операциях на митральном клапане. Каков был их вывод?",
+      "optionsEn": {
+        "A": "Survival after one year was higher in patients who underwent the Maze procedure.",
+        "B": "The rate of atrial fibrillation recurrence in patients who underwent pulmonary vein isolation was higher than those who underwent Maze.",
+        "C": "The rate of thromboembolic events was higher in patients who did not undergo Maze.",
+        "D": "Patients who underwent the Maze procedure required permanent pacemaker implantation at a higher rate after surgery."
+      },
+      "optionsRu": {
+        "A": "Выживаемость через год была выше у пациентов, перенесших процедуру Maze.",
+        "B": "Частота рецидивов фибрилляции предсердий у пациентов, перенесших изоляцию легочных вен, была выше, чем у тех, кто перенес Maze.",
+        "C": "Частота тромбоэмболических событий была выше у пациентов, не перенесших Maze.",
+        "D": "Пациенты, перенесшие процедуру Maze, требовали имплантации постоянного кардиостимулятора с большей частотой после операции."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "The Gillinov study found that the Maze procedure increased the need for permanent pacemaker implantation compared to no ablation. It did not improve survival or reduce thromboembolism.",
+      "explanationRu": "Исследование Gillinov показало, что процедура Maze увеличивала потребность в имплантации постоянного кардиостимулятора по сравнению с отсутствием аблации. Она не улучшала выживаемость и не снижала тромбоэмболии."
+    },
+    {
+      "id": 139,
+      "questionEn": "A 67-year-old woman consulted before mitral valve replacement surgery due to severe symptomatic stenosis of this valve. Otherwise healthy. Based on the article by Goldstone et al. comparing outcomes of mechanical vs. bioprosthetic valve replacement (NEJM 2017): What were their conclusions?",
+      "questionRu": "Женщина 67 лет обратилась перед операцией по замене митрального клапана по поводу тяжелого симптомного стеноза этого клапана. В остальном здорова. Основываясь на статье Goldstone et al., сравнивающей исходы механического и биологического протезирования клапанов (NEJM 2017): Каковы были их выводы?",
+      "optionsEn": {
+        "A": "For patients aged 55-70, bioprosthetic valves were associated with higher risk of reoperation but no difference in mortality.",
+        "B": "Mechanical valves had higher bleeding risk but better long-term survival.",
+        "C": "Bioprosthetic valves were superior in all age groups.",
+        "D": "No difference in outcomes between valve types."
+      },
+      "optionsRu": {
+        "A": "Для пациентов в возрасте 55-70 лет биопротезы были связаны с более высоким риском повторной операции, но без различий в смертности.",
+        "B": "Механические клапаны имели более высокий риск кровотечения, но лучшую долгосрочную выживаемость.",
+        "C": "Биопротезы были лучше во всех возрастных группах.",
+        "D": "Разницы в исходах между типами клапанов не было."
+      },
+      "correctAnswer": "A",
+      "explanationEn": "The Goldstone study found that in patients aged 55-70, bioprosthetic valves had a higher reoperation rate but no significant difference in mortality compared to mechanical valves.",
+      "explanationRu": "Исследование Goldstone показало, что у пациентов в возрасте 55-70 лет биопротезы имели более высокую частоту повторных операций, но без значительных различий в смертности по сравнению с механическими клапанами."
+    },
+    {
+      "id": 140,
+      "questionEn": "Question from the CTSN trial on ischemic mitral regurgitation (Goldstein et al. NEJM 2016).",
+      "questionRu": "Вопрос из исследования CTSN по ишемической митральной регургитации (Goldstein et al. NEJM 2016).",
+      "optionsEn": {
+        "A": "Option A",
+        "B": "Option B",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "optionsRu": {
+        "A": "Вариант А",
+        "B": "Вариант Б",
+        "C": "Вариант В",
+        "D": "Вариант Г"
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The CTSN trial showed no difference in LV reverse remodeling between repair and replacement for ischemic MR, but higher recurrence with repair.",
+      "explanationRu": "Исследование CTSN не показало различий в обратном ремоделировании ЛЖ между пластикой и протезированием при ишемической МР, но при пластике была выше частота рецидивов."
+    },
+    {
+      "id": 141,
+      "questionEn": "Here is an image of the mitral valve. Damage to which of the marked structures can cause aortic valve insufficiency?",
+      "questionRu": "Здесь изображен митральный клапан. Повреждение какой из отмеченных структур может вызвать недостаточность аортального клапана?",
+      "optionsEn": {
+        "A": "Structure A",
+        "B": "Structure B",
+        "C": "Structure C",
+        "D": "Structure D"
+      },
+      "optionsRu": {
+        "A": "Структура A",
+        "B": "Структура B",
+        "C": "Структура C",
+        "D": "Структура D"
+      },
+      "image": "2020-141.jpg",
+      "correctAnswer": "D",
+      "explanationEn": "Damage to the aortomitral curtain (fibrous continuity between mitral and aortic valves) can cause aortic regurgitation.",
+      "explanationRu": "Повреждение аорто-митральной заслонки (фиброзное соединение между митральным и аортальным клапанами) может вызвать аортальную регургитацию."
+    },
+    {
+      "id": 142,
+      "questionEn": "On an arterial blood gas test, ten minutes after connecting to the heart-lung machine (blood flow 2.2 L/min/m²) for coronary bypass surgery, the following parameters were observed: pCO2 60, PO2 100, pH 7.2. What is the next step?",
+      "questionRu": "При исследовании газов артериальной крови через десять минут после подключения к аппарату искусственного кровообращения (кровоток 2,2 л/мин/м²) для операции коронарного шунтирования наблюдались следующие параметры: pCO2 60, PO2 100, pH 7,2. Каков следующий шаг?",
+      "optionsEn": {
+        "A": "Increase oxygen concentration in the heart-lung machine.",
+        "B": "Increase air flow to the heart-lung machine.",
+        "C": "Increase oxygen concentration in the heart-lung machine and in the ventilator.",
+        "D": "Increase respiratory rate on the ventilator."
+      },
+      "optionsRu": {
+        "A": "Увеличить концентрацию кислорода в аппарате ИК.",
+        "B": "Увеличить поток воздуха к аппарату ИК.",
+        "C": "Увеличить концентрацию кислорода в аппарате ИК и в вентиляторе.",
+        "D": "Увеличить частоту дыхания на вентиляторе."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "The ABG shows hypercapnia (pCO2 60) and acidosis (pH 7.2). Increasing gas flow (sweep gas) in the oxygenator will increase CO2 removal.",
+      "explanationRu": "АБГ показывает гиперкапнию (pCO2 60) и ацидоз (pH 7,2). Увеличение газового потока (sweep gas) в оксигенаторе увеличит выведение CO2."
+    },
+    {
+      "id": 143,
+      "questionEn": "During aortic valve replacement surgery for aortic insufficiency, retrograde cardioplegia was used. The heart continues to beat despite infusion of a large amount of solution (more than usual) at a pressure of 40 mmHg. What is the anatomical reason for this phenomenon?",
+      "questionRu": "Во время операции протезирования аортального клапана по поводу аортальной недостаточности использовалась ретроградная кардиоплегия. Сердце продолжает биться, несмотря на инфузию большого количества раствора (больше обычного) под давлением 40 мм рт.ст. Какова анатомическая причина этого феномена?",
+      "optionsEn": {
+        "A": "Aortic dissection.",
+        "B": "Incompetent coronary sinus.",
+        "C": "Persistent left superior vena cava.",
+        "D": "Thebesian valve obstruction."
+      },
+      "optionsRu": {
+        "A": "Расслоение аорты.",
+        "B": "Несостоятельность коронарного синуса.",
+        "C": "Персистирующая левая верхняя полая вена.",
+        "D": "Обструкция заслонкой Тебезия."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "A persistent left superior vena cava (PLSVC) draining into the coronary sinus can cause retrograde cardioplegia to be ineffective due to diversion of flow.",
+      "explanationRu": "Персистирующая левая верхняя полая вена (PLSVC), впадающая в коронарный синус, может сделать ретроградную кардиоплегию неэффективной из-за оттока раствора."
+    },
+    {
+      "id": 144,
+      "questionEn": "A 65-year-old man was referred for aortic valve replacement due to degenerative aortic stenosis. After explanation of prosthetic valve types, he chooses a bioprosthetic valve. The most prominent advantage of a bioprosthetic valve over a mechanical valve is:",
+      "questionRu": "Мужчина 65 лет направлен на протезирование аортального клапана по поводу дегенеративного аортального стеноза. После объяснения типов протезов клапанов он выбирает биопротез. Наиболее заметным преимуществом биопротеза перед механическим клапаном является:",
+      "optionsEn": {
+        "A": "Lower incidence of endocarditis.",
+        "B": "Rare occurrence of paravalvular leak.",
+        "C": "No advantage, both have equal chance of reoperation.",
+        "D": "Option for valve-in-valve implantation in the future."
+      },
+      "optionsRu": {
+        "A": "Более низкая частота эндокардита.",
+        "B": "Редкое возникновение параклапанной утечки.",
+        "C": "Нет преимущества, оба имеют одинаковую вероятность повторной операции.",
+        "D": "Возможность имплантации клапан-в-клапан в будущем."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "The main advantage of bioprosthetic valves is the avoidance of lifelong anticoagulation and the possibility of future valve-in-valve transcatheter replacement.",
+      "explanationRu": "Основным преимуществом биопротезов является отсутствие необходимости в пожизненной антикоагуляции и возможность будущей транскатетерной замены клапан-в-клапан."
+    },
+    {
+      "id": 145,
+      "questionEn": "A 64-year-old man with a history of chest irradiation for Hodgkin's lymphoma. He was recently diagnosed with severe aortic stenosis following a typical murmur on examination. Echocardiogram shows valve area 0.7 cm², MPG 45 mmHg. CT shows calcifications in the ascending aorta. What is the treatment of choice for this patient?",
+      "questionRu": "Мужчина 64 лет с анамнезом облучения грудной клетки по поводу лимфомы Ходжкина. У него недавно был диагностирован тяжелый аортальный стеноз после типичного шума при осмотре. Эхокардиограмма показывает площадь клапана 0,7 см², средний градиент 45 мм рт.ст. КТ показывает кальциноз восходящей аорты. Каков метод выбора лечения для этого пациента?",
+      "optionsEn": {
+        "A": "TAVI.",
+        "B": "SAVR.",
+        "C": "Ascending aorta replacement + SAVR.",
+        "D": "Balloon aortic valvuloplasty."
+      },
+      "optionsRu": {
+        "A": "TAVI.",
+        "B": "SAVR.",
+        "C": "Замена восходящей аорты + SAVR.",
+        "D": "Баллонная аортальная вальвулопластика."
+      },
+      "image": "2020-145.jpg",
+      "correctAnswer": "A",
+      "explanationEn": "History of chest radiation and porcelain aorta are relative contraindications to SAVR. TAVI is the preferred treatment in such patients.",
+      "explanationRu": "Анамнез облучения грудной клетки и фарфоровая аорта являются относительными противопоказаниями к SAVR. TAVI является предпочтительным методом лечения у таких пациентов."
+    },
+    {
+      "id": 146,
+      "questionEn": "A 33-year-old woman immediately after delivery, without known causes, suffers from severe chest pain and an anterior STEMI. Angiography shows severe stenosis in the proximal LAD of the coronary artery. No evidence of aortic dissection. What is the treatment of choice?",
+      "questionRu": "Женщина 33 лет сразу после родов, без известных причин, страдает от сильной боли в груди и переднего STEMI. Ангиография показывает тяжелый стеноз проксимального отдела ПМЖВ. Признаков расслоения аорты нет. Какой метод лечения является предпочтительным?",
+      "optionsEn": {
+        "A": "CABG.",
+        "B": "PCI.",
+        "C": "IV Beta-blockers.",
+        "D": "IV Anticoagulation."
+      },
+      "optionsRu": {
+        "A": "Коронарное шунтирование (CABG).",
+        "B": "Чрескожное коронарное вмешательство (ЧКВ).",
+        "C": "Внутривенные бета-блокаторы.",
+        "D": "Внутривенная антикоагуляция."
+      },
+      "correctAnswer": "B",
+      "explanationEn": "In a young patient with acute STEMI, primary PCI is the standard of care, especially if anatomy is suitable. There is no indication for CABG in this setting.",
+      "explanationRu": "У молодого пациента с острым STEMI первичное ЧКВ является стандартом лечения, особенно при подходящей анатомии. Нет показаний для КШ в данной ситуации."
+    },
+    {
+      "id": 147,
+      "questionEn": "A 60-year-old man was admitted with an acute stroke with left-sided hemiparesis. As part of the workup, TEE is performed showing severe mitral regurgitation with a large vegetation on the anterior leaflet. He is ventilated due to pulmonary edema. He is on multiple pressors. What is the recommendation regarding surgery?",
+      "questionRu": "Мужчина 60 лет поступил с острым инсультом с левосторонним гемипарезом. В рамках обследования выполнена ЧПЭхоКГ, выявлена тяжелая митральная регургитация с большой вегетацией на передней створке. Он находится на ИВЛ из-за отека легких. Получает несколько прессоров. Какова рекомендация относительно операции?",
+      "optionsEn": {
+        "A": "Start systemic antibiotic therapy and wait six weeks.",
+        "B": "Due to the stroke, wait one month and then operate.",
+        "C": "Surgical risk is too high, treat with antibiotics and 'cool' and then perform Mitral Clip.",
+        "D": "Operate immediately despite the increased surgical risk."
+      },
+      "optionsRu": {
+        "A": "Начать системную антибиотикотерапию и подождать шесть недель.",
+        "B": "Из-за инсульта подождать месяц, а затем оперировать.",
+        "C": "Хирургический риск слишком высок, лечить антибиотиками и «охлаждать», а затем выполнить Mitral Clip.",
+        "D": "Оперировать немедленно, несмотря на повышенный хирургический риск."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Heart failure and septic shock from acute endocarditis are indications for urgent surgery regardless of stroke. Delaying surgery may increase mortality.",
+      "explanationRu": "Сердечная недостаточность и септический шок при остром эндокардите являются показаниями для экстренной операции независимо от инсульта. Отсрочка операции может увеличить смертность."
+    },
+    {
+      "id": 148,
+      "questionEn": "What is the most important determinant of the heart's oxygen demand? (repeated from page 30)",
+      "questionRu": "Что является наиболее важным детерминантом потребности сердца в кислороде? (повтор со страницы 30)",
+      "optionsEn": {
+        "A": "Heart rate.",
+        "B": "Blood pressure.",
+        "C": "Preload.",
+        "D": "Wall tension."
+      },
+      "optionsRu": {
+        "A": "Частота сердечных сокращений.",
+        "B": "Артериальное давление.",
+        "C": "Преднагрузка.",
+        "D": "Напряжение стенки."
+      },
+      "correctAnswer": "D",
+      "explanationEn": "Myocardial oxygen demand (MVO2) is determined primarily by wall tension (Laplace law), contractility, and heart rate. Wall tension is the major determinant.",
+      "explanationRu": "Потребность миокарда в кислороде (MVO2) определяется в первую очередь напряжением стенки (закон Лапласа), сократимостью и частотой сердечных сокращений. Напряжение стенки является основным детерминантом."
+    },
+    {
+      "id": 149,
+      "questionEn": "A 10-year-old boy presented with ACS. Coronary angiography demonstrated severe stenosis of the Left Main artery. An IABP is inserted. Due to persistent angina, it was decided to perform urgent bypass surgery. Supported with epinephrine, dobutamine, and IABP for weaning from bypass. Postoperative day 1 echocardiogram showed EF 25%, improvement in hemodynamic parameters but inotropic support cannot yet be discontinued. Labs: platelets 65,777, HIT test negative, creatinine 1.4 mg%. What is the most appropriate treatment?",
+      "questionRu": "Мальчик 10 лет поступил с острым коронарным синдромом. Коронарография показала тяжелый стеноз левого основного ствола. Установлен внутриаортальный баллонный насос (IABP). Из-за сохраняющейся стенокардии было решено выполнить экстренное шунтирование. Поддерживается эпинефрином, добутамином и IABP для отключения от шунтирования. На 1-й послеоперационный день эхокардиограмма показала ФВ 25%, улучшение гемодинамических параметров, но инотропную поддержку еще нельзя отменить. Лабораторные: тромбоциты 65 777, тест на ГИТ отрицательный, креатинин 1,4 мг%. Каков наиболее подходящий вариант лечения?",
+      "optionsEn": {
+        "A": "Remove IABP.",
+        "B": "Platelet transfusion.",
+        "C": "Continue current treatment without change.",
+        "D": "Start antiplatelet therapy (in addition to aspirin)."
+      },
+      "optionsRu": {
+        "A": "Удалить IABP.",
+        "B": "Перелить тромбоциты.",
+        "C": "Продолжить текущее лечение без изменений.",
+        "D": "Начать антитромбоцитарную терапию (в дополнение к аспирину)."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "The patient has thrombocytopenia (likely post-pump), but HIT negative. No active bleeding. Inotropic support is still needed. Continue current management; platelet transfusion is not indicated without bleeding.",
+      "explanationRu": "У пациента тромбоцитопения (вероятно, после ИК), но ГИТ отрицательный. Активного кровотечения нет. Инотропная поддержка все еще нужна. Продолжить текущее ведение; переливание тромбоцитов не показано без кровотечения."
+    },
+    {
+      "id": 150,
+      "questionEn": "What is the difference between constrictive pericarditis (CP) and restrictive cardiomyopathy (RC)?",
+      "questionRu": "В чем разница между констриктивным перикардитом (CP) и рестриктивной кардиомиопатией (RC)?",
+      "optionsEn": {
+        "A": "In CP patients, the pericardium is usually not thickened.",
+        "B": "Both have a Dip + Plateau ventricular waveform.",
+        "C": "In CP patients, there is equalization of LV + RV EDP, unlike in RC patients.",
+        "D": "Unlike CP patients, RC patients usually do not have pulmonary hypertension."
+      },
+      "optionsRu": {
+        "A": "У пациентов с CP перикард обычно не утолщен.",
+        "B": "Оба имеют дип-плато желудочковую кривую.",
+        "C": "У пациентов с CP наблюдается выравнивание КДД ЛЖ и ПЖ, в отличие от пациентов с RC.",
+        "D": "В отличие от пациентов с CP, у пациентов с RC обычно нет легочной гипертензии."
+      },
+      "correctAnswer": "C",
+      "explanationEn": "In constrictive pericarditis, there is equalization of diastolic pressures (LVEDP, RVEDP, RAP, PCWP) within 5 mmHg. In restrictive cardiomyopathy, LVEDP is higher than RVEDP.",
+      "explanationRu": "При констриктивном перикардите наблюдается выравнивание диастолических давлений (КДД ЛЖ, КДД ПЖ, ДПП, ДЗЛА) в пределах 5 мм рт.ст. При рестриктивной кардиомиопатии КДД ЛЖ выше, чем КДД ПЖ."
+    }
+  ]
+}

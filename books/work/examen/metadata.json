@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Shlav A + B",
+    "cover_image": "cover.jpg",
+    "category": [
+      "documentation"
+    ],
+    "authors": [
+      "Starley Team"
+    ],
+    "versions": {
+      "original": true,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Introduction"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. New",
+        "subchapters": [
+          {
+            "file": "chapter-02-01.md",
+            "title": "2.1 How Sub-Chapters Work"
+          },
+          {
+            "file": "chapter-02-02.md",
+            "title": "2.2 Manifest Examples"
+          },
+          {
+            "file": "chapter-02-03.md",
+            "title": "2.3 Best Practices"
+          }
+        ]
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Next"
+      }
+    ],
+    "quiz": true,
+    "quiz_sets": [
+      {
+        "id": "2020",
+        "label": "2020",
+        "file": "quiz/quiz-2020.json"
+      }
+    ]
+  }
+]
