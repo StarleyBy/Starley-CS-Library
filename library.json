@@ -99,7 +99,8 @@
       "title": "Service",
       "path": "books/work",
       "books": [
-            { "folder": "wolfson", "visibility": "admin-only"  }
+            { "folder": "wolfson", "visibility": "admin-only"  },
+            { "folder": "examen", "visibility": "admin-only"  }
       ]
     }
   ]
