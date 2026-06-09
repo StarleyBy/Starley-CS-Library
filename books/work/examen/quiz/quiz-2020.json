@@ -1,4 +1,12 @@
-[
+{
+  "meta": {
+    "title": "JUNE 2020",
+    "book": "Examen",
+    "chapter": ["chapter-01"],
+    "totalQuestions": 150
+  },
+  "questions":
+  [
   {
     "id": 1,
     "questionEn": "Ion channels on the myocyte membrane are responsible for transporting ions across the membrane. Some channels open in response to changes in membrane voltage, while others open in response to ligand binding. Which channel opens in response to acetylcholine binding?",
