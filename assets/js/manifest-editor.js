@@ -321,8 +321,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         container.appendChild(ansGroup);
 
         // Image
-        container.appendChild(_createFieldGroup('Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
+        container.appendChild(_createFieldGroup('Question Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
         
+        container.appendChild(_createFieldGroup('Explanation Image File', item.explanationImage || '', (v) => { item.explanationImage = v; _syncFormToJson(); }));
+
         // Filler to keep grid balanced if needed, or just let it flow
         const filler = document.createElement('div');
         container.appendChild(filler);
@@ -477,9 +479,10 @@ document.addEventListener('DOMContentLoaded', async () => {
                             </div>
                         `).join('')}
                     </div>
-                    ${item.explanationEn || item.explanationRu ? `
+                    ${item.explanationEn || item.explanationRu || item.explanationImage ? `
                         <div class="q-explanation" style="margin-top:20px; padding:15px; background:#fff3e0; border-left:4px solid #ff9800; border-radius:4px;">
                             <div style="font-weight:700; font-size:0.8rem; text-transform:uppercase; color:#e65100; margin-bottom:8px;">Explanation</div>
+                            ${item.explanationImage ? `<img src="${state.currentBook.fullPath}/quiz/images/${item.explanationImage}" style="max-width:100%; margin-bottom:10px; border-radius:4px; box-shadow:0 2px 5px rgba(0,0,0,0.1);">` : ''}
                             <div style="font-size:0.9rem; margin-bottom:10px;">${item.explanationEn || ''}</div>
                             <div style="font-size:0.9rem; font-style:italic; border-top:1px solid #ffe0b2; pt:8px; margin-top:8px;">${item.explanationRu || ''}</div>
                         </div>
