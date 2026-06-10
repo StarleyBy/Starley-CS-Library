@@ -131,18 +131,35 @@ document.addEventListener('DOMContentLoaded', async () => {
     async function _onBookChange() {
         const bookPath = els.selectBook.value;
         const type = els.selectType.value;
+        
+        state.currentType = type;
+
+        if (type === 'library') {
+            els.selectBook.disabled = true;
+            els.selectFile.innerHTML = '<option value="library.json">library.json</option>';
+            els.selectFile.disabled = false;
+            state.currentBook = { fullPath: '.', folder: 'root' };
+            return;
+        }
+
+        els.selectBook.disabled = false;
         if (!bookPath) {
             els.selectFile.disabled = true;
             return;
         }
 
         state.currentBook = state.books.find(b => b.fullPath === bookPath);
-        state.currentType = type;
         
         els.selectFile.innerHTML = '<option value="">Searching...</option>';
         els.selectFile.disabled = true;
 
         try {
+            if (type === 'metadata') {
+                els.selectFile.innerHTML = '<option value="metadata.json">metadata.json</option>';
+                els.selectFile.disabled = false;
+                return;
+            }
+
             // In a real environment, we'd fetch the directory listing. 
             // Here we'll guess or look into metadata.json
             const metaRes = await fetch(`${bookPath}/metadata.json`);
@@ -150,11 +167,12 @@ document.addEventListener('DOMContentLoaded', async () => {
             
             const files = [];
             if (type === 'quiz') {
-                if (meta[0]?.quiz_sets) {
-                    meta[0].quiz_sets.forEach(s => files.push(s.file));
+                const metaObj = Array.isArray(meta) ? meta[0] : meta;
+                if (metaObj?.quiz_sets) {
+                    metaObj.quiz_sets.forEach(s => files.push(s.file));
                 }
                 // Also look for default quiz if not in sets
-                if (meta[0]?.quiz && !files.includes('quiz.json')) files.push('quiz.json');
+                if (metaObj?.quiz && !files.includes('quiz.json')) files.push('quiz.json');
             } else if (type === 'magazine') {
                 files.push('magazine.json');
             }
@@ -171,7 +189,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (!filePath) return;
 
         state.currentFile = filePath;
-        const url = `${state.currentBook.fullPath}/${filePath}`;
+        const url = state.currentType === 'library' ? 'library.json' : `${state.currentBook.fullPath}/${filePath}`;
         
         try {
             const res = await fetch(url);
@@ -189,15 +207,26 @@ document.addEventListener('DOMContentLoaded', async () => {
                 meta: { title: "New Quiz", book: state.currentBook?.folder || "", chapter: [], totalQuestions: 0 },
                 questions: []
             };
-        } else {
+        } else if (type === 'magazine') {
             state.manifest = {
                 title: "New Magazine",
                 subtitle: "",
                 cover: "magazine/cover.jpg",
                 cards: []
             };
+        } else if (type === 'metadata') {
+            state.manifest = [{
+                title: "New Book",
+                cover_image: "cover.jpg",
+                authors: [""],
+                category: [""],
+                versions: { original: true, russian: false, starley: false, hebrew: false },
+                chapters: []
+            }];
+        } else if (type === 'library') {
+            state.manifest = { categories: [] };
         }
-        state.currentFile = type === 'quiz' ? 'quiz-new.json' : 'magazine.json';
+        state.currentFile = type === 'quiz' ? 'quiz-new.json' : (type === 'library' ? 'library.json' : (type === 'metadata' ? 'metadata.json' : 'magazine.json'));
         _onManifestLoaded();
     }
 
@@ -211,26 +240,94 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function _renderMetaFields() {
         els.metaFields.innerHTML = '';
-        const meta = state.manifest.meta || state.manifest; // Quiz uses .meta, Magazine is flat at top
+        const type = state.currentType;
         
-        const fields = state.currentType === 'quiz' ? 
-            ['title', 'book'] : 
-            ['title', 'subtitle', 'cover'];
+        if (type === 'library') {
+            els.sectionMeta.style.display = 'none';
+            return;
+        }
+
+        let meta = state.manifest;
+        if (type === 'quiz') meta = state.manifest.meta;
+        else if (type === 'metadata') meta = state.manifest[0];
+
+        const fields = type === 'quiz' ? ['title', 'book'] : 
+                      type === 'magazine' ? ['title', 'subtitle', 'cover'] :
+                      ['title', 'cover_image', 'authors'];
 
         fields.forEach(f => {
-            const val = state.currentType === 'quiz' ? state.manifest.meta[f] : state.manifest[f];
-            const group = _createFieldGroup(f, val, (newVal) => {
-                if (state.currentType === 'quiz') state.manifest.meta[f] = newVal;
-                else state.manifest[f] = newVal;
+            const val = meta[f];
+            const group = _createFieldGroup(f, Array.isArray(val) ? val.join(', ') : val, (newVal) => {
+                if (Array.isArray(val)) meta[f] = newVal.split(',').map(s => s.trim()).filter(s => s);
+                else meta[f] = newVal;
                 _syncFormToJson();
             });
             els.metaFields.appendChild(group);
         });
+
+        if (type === 'metadata') {
+            // Add versions toggle
+            const vLabel = document.createElement('label');
+            vLabel.textContent = 'Versions';
+            vLabel.style.marginTop = '10px';
+            vLabel.style.display = 'block';
+            els.metaFields.appendChild(vLabel);
+            
+            const vContainer = document.createElement('div');
+            vContainer.className = 'me-versions-grid';
+            vContainer.style.display = 'grid';
+            vContainer.style.gridTemplateColumns = '1fr 1fr';
+            vContainer.style.gap = '5px';
+            
+            Object.keys(meta.versions || {}).forEach(v => {
+                const label = document.createElement('label');
+                label.style.fontSize = '0.8rem';
+                label.style.display = 'flex';
+                label.style.alignItems = 'center';
+                label.style.gap = '5px';
+                
+                const cb = document.createElement('input');
+                cb.type = 'checkbox';
+                cb.checked = meta.versions[v];
+                cb.onchange = (e) => { meta.versions[v] = e.target.checked; _syncFormToJson(); };
+                
+                label.appendChild(cb);
+                label.appendChild(document.createTextNode(v));
+                vContainer.appendChild(label);
+            });
+            els.metaFields.appendChild(vContainer);
+
+            // Add booleans
+            ['magazine', 'quiz'].forEach(b => {
+                const label = document.createElement('label');
+                label.style.fontSize = '0.8rem';
+                label.style.display = 'flex';
+                label.style.alignItems = 'center';
+                label.style.gap = '5px';
+                label.style.marginTop = '5px';
+                
+                const cb = document.createElement('input');
+                cb.type = 'checkbox';
+                cb.checked = !!meta[b];
+                cb.onchange = (e) => { meta[b] = e.target.checked; _syncFormToJson(); };
+                
+                label.appendChild(cb);
+                label.appendChild(document.createTextNode(`Has ${b}`));
+                els.metaFields.appendChild(label);
+            });
+        }
     }
 
     function _renderForm() {
         els.itemsContainer.innerHTML = '';
-        const items = state.currentType === 'quiz' ? state.manifest.questions : state.manifest.cards;
+        let items = [];
+        const type = state.currentType;
+        
+        if (type === 'quiz') items = state.manifest.questions;
+        else if (type === 'magazine') items = state.manifest.cards;
+        else if (type === 'metadata') items = state.manifest[0].chapters;
+        else if (type === 'library') items = state.manifest.categories;
+
         els.itemsCount.textContent = `${items.length} items`;
 
         if (items.length === 0) {
@@ -248,7 +345,13 @@ document.addEventListener('DOMContentLoaded', async () => {
             footer.className = 'me-items-footer';
             const btn = document.createElement('button');
             btn.className = 'me-btn me-btn-xl me-btn-green';
-            btn.innerHTML = `<i class="fas fa-plus-circle"></i> Add New ${state.currentType === 'quiz' ? 'Question' : 'Card'}`;
+            let label = 'Item';
+            if (type === 'quiz') label = 'Question';
+            else if (type === 'magazine') label = 'Card';
+            else if (type === 'metadata') label = 'Chapter';
+            else if (type === 'library') label = 'Category';
+            
+            btn.innerHTML = `<i class="fas fa-plus-circle"></i> Add New ${label}`;
             btn.onclick = _addItem;
             footer.appendChild(btn);
             els.itemsContainer.appendChild(footer);
@@ -267,7 +370,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const header = document.createElement('div');
         header.className = 'me-item-header';
-        header.innerHTML = `<span class="me-item-id">#${idx + 1} (ID: ${item.id || 'N/A'})</span>`;
+        const type = state.currentType;
+        let idLabel = `#${idx + 1}`;
+        if (type === 'quiz' || type === 'library') idLabel += ` (ID: ${item.id || 'N/A'})`;
+        
+        header.innerHTML = `<span class="me-item-id">${idLabel}</span>`;
         
         const actions = document.createElement('div');
         actions.className = 'me-item-actions';
@@ -284,14 +391,35 @@ document.addEventListener('DOMContentLoaded', async () => {
         const grid = document.createElement('div');
         grid.className = 'me-item-grid';
 
-        if (state.currentType === 'quiz') {
+        if (type === 'quiz') {
             _fillQuizFields(grid, item, idx, card);
-        } else {
+        } else if (type === 'magazine') {
             _fillMagazineFields(grid, item, idx);
+        } else if (type === 'metadata') {
+            _fillMetadataFields(grid, item, idx);
+        } else if (type === 'library') {
+            _fillLibraryFields(grid, item, idx);
         }
 
         card.appendChild(grid);
         return card;
+    }
+
+    function _fillMetadataFields(container, item, idx) {
+        container.appendChild(_createFieldGroup('File Name', item.file, (v) => { item.file = v; _syncFormToJson(); }));
+        container.appendChild(_createFieldGroup('Title', item.title, (v) => { item.title = v; _syncFormToJson(); }));
+    }
+
+    function _fillLibraryFields(container, item, idx) {
+        container.appendChild(_createFieldGroup('ID', item.id, (v) => { item.id = v; _syncFormToJson(); }));
+        container.appendChild(_createFieldGroup('Title', item.title, (v) => { item.title = v; _syncFormToJson(); }));
+        container.appendChild(_createFieldGroup('Path', item.path, (v) => { item.path = v; _syncFormToJson(); }));
+        
+        // Books list as a simple textarea for now
+        const booksVal = JSON.stringify(item.books, null, 2);
+        container.appendChild(_createFieldGroup('Books (JSON)', booksVal, (v) => {
+            try { item.books = JSON.parse(v); _syncFormToJson(); } catch(e) {}
+        }, 'textarea'));
     }
 
     function _fillQuizFields(container, item, idx, cardEl) {
@@ -418,10 +546,23 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     function _addItem() {
-        const items = state.currentType === 'quiz' ? state.manifest.questions : state.manifest.cards;
-        const newItem = state.currentType === 'quiz' ? 
-            { id: items.length + 1, questionEn: "", questionRu: "", optionsEn: {A:"",B:"",C:"",D:""}, optionsRu: {A:"",B:"",C:"",D:""}, correctAnswer: "A", explanationEn: "", explanationRu: "" } :
-            { id: `card-${items.length + 1}`, src: "magazine/new-card.jpg", caption: "", tags: [], chapter: [] };
+        const type = state.currentType;
+        let items;
+        let newItem;
+        
+        if (type === 'quiz') {
+            items = state.manifest.questions;
+            newItem = { id: items.length + 1, questionEn: "", questionRu: "", optionsEn: {A:"",B:"",C:"",D:""}, optionsRu: {A:"",B:"",C:"",D:""}, correctAnswer: "A", explanationEn: "", explanationRu: "" };
+        } else if (type === 'magazine') {
+            items = state.manifest.cards;
+            newItem = { id: `card-${items.length + 1}`, src: "magazine/new-card.jpg", caption: "", tags: [], chapter: [] };
+        } else if (type === 'metadata') {
+            items = state.manifest[0].chapters;
+            newItem = { file: `chapter-${String(items.length + 1).padStart(2, '0')}.md`, title: `New Chapter ${items.length + 1}` };
+        } else if (type === 'library') {
+            items = state.manifest.categories;
+            newItem = { id: "new-category", title: "New Category", path: "books/new", books: [] };
+        }
         
         items.push(newItem);
         state.activeItemIndex = items.length - 1;
@@ -431,7 +572,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     function _deleteItem(idx) {
-        const items = state.currentType === 'quiz' ? state.manifest.questions : state.manifest.cards;
+        const type = state.currentType;
+        let items;
+        
+        if (type === 'quiz') items = state.manifest.questions;
+        else if (type === 'magazine') items = state.manifest.cards;
+        else if (type === 'metadata') items = state.manifest[0].chapters;
+        else if (type === 'library') items = state.manifest.categories;
+
         items.splice(idx, 1);
         if (state.activeItemIndex >= items.length) state.activeItemIndex = Math.max(0, items.length - 1);
         _renderForm();
@@ -455,7 +603,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     // --- Preview ---
 
     function _renderPreview() {
-        const items = state.currentType === 'quiz' ? state.manifest.questions : state.manifest.cards;
+        const type = state.currentType;
+        let items = [];
+        
+        if (type === 'quiz') items = state.manifest.questions;
+        else if (type === 'magazine') items = state.manifest.cards;
+        else if (type === 'metadata') items = state.manifest[0].chapters;
+        else if (type === 'library') items = state.manifest.categories;
+
         els.previewIndex.textContent = items.length > 0 ? `${state.activeItemIndex + 1} / ${items.length}` : '0 / 0';
         
         if (!items || items.length === 0 || !items[state.activeItemIndex]) {
@@ -466,7 +621,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const item = items[state.activeItemIndex];
         let html = '';
 
-        if (state.currentType === 'quiz') {
+        if (type === 'quiz') {
             const imgPath = item.image ? `${state.currentBook.fullPath}/quiz/images/${item.image}` : null;
             html = `
                 <div class="preview-quiz">
@@ -479,27 +634,35 @@ document.addEventListener('DOMContentLoaded', async () => {
                             </div>
                         `).join('')}
                     </div>
-                    ${item.explanationEn || item.explanationRu || item.explanationImage ? `
-                        <div class="q-explanation" style="margin-top:20px; padding:15px; background:#fff3e0; border-left:4px solid #ff9800; border-radius:4px;">
-                            <div style="font-weight:700; font-size:0.8rem; text-transform:uppercase; color:#e65100; margin-bottom:8px;">Explanation</div>
-                            ${item.explanationImage ? `<img src="${state.currentBook.fullPath}/quiz/images/${item.explanationImage}" style="max-width:100%; margin-bottom:10px; border-radius:4px; box-shadow:0 2px 5px rgba(0,0,0,0.1);">` : ''}
-                            <div style="font-size:0.9rem; margin-bottom:10px;">${item.explanationEn || ''}</div>
-                            <div style="font-size:0.9rem; font-style:italic; border-top:1px solid #ffe0b2; pt:8px; margin-top:8px;">${item.explanationRu || ''}</div>
-                        </div>
-                    ` : ''}
                 </div>
             `;
-        } else {
+        } else if (type === 'magazine') {
             const imgPath = item.src ? `${state.currentBook.fullPath}/${item.src}` : null;
             html = `
                 <div class="preview-magazine">
                     ${imgPath ? `<img src="${imgPath}" style="max-width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">` : ''}
                     <div style="margin-top:15px;">
                         <h4 style="margin:0;">${item.caption || '(No caption)'}</h4>
-                        <div style="margin-top:8px;">
-                            ${(item.tags || []).map(t => `<span style="display:inline-block; padding:2px 8px; background:#eee; border-radius:12px; font-size:0.7rem; margin-right:5px;">${t}</span>`).join('')}
-                        </div>
                     </div>
+                </div>
+            `;
+        } else if (type === 'metadata') {
+            html = `
+                <div class="preview-metadata">
+                    <h3>Chapter Preview</h3>
+                    <p><strong>Title:</strong> ${item.title}</p>
+                    <p><strong>File:</strong> ${item.file}</p>
+                </div>
+            `;
+        } else if (type === 'library') {
+            html = `
+                <div class="preview-library">
+                    <h3>Category: ${item.title}</h3>
+                    <p><strong>Path:</strong> ${item.path}</p>
+                    <p><strong>Books count:</strong> ${item.books?.length || 0}</p>
+                    <ul>
+                        ${(item.books || []).map(b => `<li>${b.folder} ${b.visibility ? `(${b.visibility})` : ''}</li>`).join('')}
+                    </ul>
                 </div>
             `;
         }
@@ -508,7 +671,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     function _changePreviewIndex(delta) {
-        const items = state.currentType === 'quiz' ? state.manifest.questions : state.manifest.cards;
+        const type = state.currentType;
+        let items = [];
+        if (type === 'quiz') items = state.manifest.questions;
+        else if (type === 'magazine') items = state.manifest.cards;
+        else if (type === 'metadata') items = state.manifest[0].chapters;
+        else if (type === 'library') items = state.manifest.categories;
+
         if (items.length === 0) return;
         state.activeItemIndex = (state.activeItemIndex + delta + items.length) % items.length;
         _renderForm();
@@ -537,7 +706,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         els.githubStatus.textContent = '⏳ Saving...';
         els.btnSaveGithub.disabled = true;
 
-        const path = `${state.currentBook.fullPath}/${state.currentFile}`;
+        const bookPath = state.currentBook.fullPath;
+        const path = (bookPath === '.' || bookPath === '') ? state.currentFile : `${bookPath}/${state.currentFile}`;
         const content = JSON.stringify(state.manifest, null, 2);
         
         try {

@@ -396,6 +396,28 @@ html, body {
     margin-top: 5px;
 }
 
+.me-versions-grid {
+    background: rgba(0,0,0,0.2);
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid var(--me-border);
+}
+
+.preview-metadata h3, .preview-library h3 {
+    margin-top: 0;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 8px;
+}
+
+.preview-library ul {
+    padding-left: 20px;
+}
+
+.preview-library li {
+    margin-bottom: 4px;
+    font-size: 0.9rem;
+}
+
 /* Responsive adjustments */
 @media (max-width: 1200px) {
     .me-preview-pane { width: 320px; }
