@@ -235,13 +235,24 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         if (items.length === 0) {
             els.itemsContainer.innerHTML = '<div class="me-empty-state">No items. Add one!</div>';
-            return;
+        } else {
+            items.forEach((item, idx) => {
+                const card = _createItemCard(item, idx);
+                els.itemsContainer.appendChild(card);
+            });
         }
 
-        items.forEach((item, idx) => {
-            const card = _createItemCard(item, idx);
-            els.itemsContainer.appendChild(card);
-        });
+        // Add prominent Add button at the bottom
+        if (state.manifest) {
+            const footer = document.createElement('div');
+            footer.className = 'me-items-footer';
+            const btn = document.createElement('button');
+            btn.className = 'me-btn me-btn-xl me-btn-green';
+            btn.innerHTML = `<i class="fas fa-plus-circle"></i> Add New ${state.currentType === 'quiz' ? 'Question' : 'Card'}`;
+            btn.onclick = _addItem;
+            footer.appendChild(btn);
+            els.itemsContainer.appendChild(footer);
+        }
     }
 
     function _createItemCard(item, idx) {
@@ -274,7 +285,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         grid.className = 'me-item-grid';
 
         if (state.currentType === 'quiz') {
-            _fillQuizFields(grid, item, idx);
+            _fillQuizFields(grid, item, idx, card);
         } else {
             _fillMagazineFields(grid, item, idx);
         }
@@ -283,7 +294,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         return card;
     }
 
-    function _fillQuizFields(container, item, idx) {
+    function _fillQuizFields(container, item, idx, cardEl) {
         // En Text
         container.appendChild(_createFieldGroup('Question (EN)', item.questionEn, (v) => { item.questionEn = v; _syncFormToJson(); }, 'textarea'));
         container.appendChild(_createFieldGroup('Question (RU)', item.questionRu, (v) => { item.questionRu = v; _syncFormToJson(); }, 'textarea'));
@@ -311,10 +322,20 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Image
         container.appendChild(_createFieldGroup('Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
+        
+        // Filler to keep grid balanced if needed, or just let it flow
+        const filler = document.createElement('div');
+        container.appendChild(filler);
 
-        // Explanations
-        container.appendChild(_createFieldGroup('Explanation (EN)', item.explanationEn || '', (v) => { item.explanationEn = v; _syncFormToJson(); }, 'textarea'));
-        container.appendChild(_createFieldGroup('Explanation (RU)', item.explanationRu || '', (v) => { item.explanationRu = v; _syncFormToJson(); }, 'textarea'));
+        // Explanations (Full Width)
+        const expEn = _createFieldGroup('Explanation (EN)', item.explanationEn || '', (v) => { item.explanationEn = v; _syncFormToJson(); }, 'textarea', [], true);
+        const expRu = _createFieldGroup('Explanation (RU)', item.explanationRu || '', (v) => { item.explanationRu = v; _syncFormToJson(); }, 'textarea', [], true);
+        
+        expEn.className += ' me-item-full-width';
+        expRu.className += ' me-item-full-width';
+        
+        container.appendChild(expEn);
+        container.appendChild(expRu);
     }
 
     function _fillMagazineFields(container, item, idx) {
@@ -323,15 +344,42 @@ document.addEventListener('DOMContentLoaded', async () => {
         container.appendChild(_createFieldGroup('Tags (comma separated)', item.tags?.join(', ') || '', (v) => { item.tags = v.split(',').map(t => t.trim()).filter(t => t); _syncFormToJson(); }));
     }
 
-    function _createFieldGroup(label, value, onChange, type = 'input', options = []) {
+    function _createFieldGroup(label, value, onChange, type = 'input', options = [], withToolbar = false) {
         const group = document.createElement('div');
         group.className = 'me-field-group';
         group.innerHTML = `<label>${label}</label>`;
         
         let el;
         if (type === 'textarea') {
+            if (withToolbar) {
+                const toolbar = document.createElement('div');
+                toolbar.className = 'me-toolbar';
+                
+                const tools = [
+                    { label: 'B', tag: 'b', title: 'Bold' },
+                    { label: 'Yellow', tag: 'mark', style: 'background:#ffff00;color:#000', title: 'Yellow Highlight' },
+                    { label: 'Green', tag: 'mark', style: 'background:#2ecc71;color:#fff', title: 'Green Highlight' },
+                    { label: 'Red', tag: 'span', style: 'color:#e74c3c', title: 'Red Text' },
+                    { label: 'Blue', tag: 'span', style: 'color:#3498db', title: 'Blue Text' }
+                ];
+                
+                tools.forEach(t => {
+                    const btn = document.createElement('button');
+                    btn.className = 'me-toolbar-btn';
+                    btn.textContent = t.label;
+                    btn.title = t.title;
+                    btn.onclick = (e) => {
+                        e.preventDefault();
+                        _insertTag(el, t.tag, t.style);
+                    };
+                    toolbar.appendChild(btn);
+                });
+                group.appendChild(toolbar);
+            }
+            
             el = document.createElement('textarea');
             el.rows = 3;
+            if (withToolbar) el.className = 'has-toolbar';
         } else if (type === 'select') {
             el = document.createElement('select');
             options.forEach(o => {
@@ -350,6 +398,21 @@ document.addEventListener('DOMContentLoaded', async () => {
         el.oninput = (e) => onChange(e.target.value);
         group.appendChild(el);
         return group;
+    }
+
+    function _insertTag(textarea, tag, style = null) {
+        const start = textarea.selectionStart;
+        const end = textarea.selectionEnd;
+        const text = textarea.value;
+        const selected = text.substring(start, end);
+        
+        const styleAttr = style ? ` style="${style}"` : '';
+        const replacement = `<${tag}${styleAttr}>${selected}</${tag}>`;
+        
+        textarea.value = text.substring(0, start) + replacement + text.substring(end);
+        textarea.dispatchEvent(new Event('input')); // Trigger sync
+        textarea.focus();
+        textarea.setSelectionRange(start + tag.length + styleAttr.length + 2, start + tag.length + styleAttr.length + 2 + selected.length);
     }
 
     function _addItem() {

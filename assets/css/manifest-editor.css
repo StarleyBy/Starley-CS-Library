@@ -270,6 +270,54 @@ html, body {
     gap: 15px;
 }
 
+.me-item-full-width {
+    grid-column: span 2;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #444;
+}
+
+/* Rich Text Toolbar */
+.me-toolbar {
+    display: flex;
+    gap: 5px;
+    background: #333;
+    padding: 4px;
+    border-radius: 4px 4px 0 0;
+    border: 1px solid var(--me-input-border);
+    border-bottom: none;
+}
+
+.me-toolbar-btn {
+    padding: 2px 6px;
+    font-size: 0.7rem;
+    background: #444;
+    border: 1px solid #555;
+    color: #ccc;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.me-toolbar-btn:hover { background: #555; color: white; }
+
+.me-field-group textarea.has-toolbar {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+/* Add Item at bottom */
+.me-items-footer {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid var(--me-border);
+}
+
+.me-btn-xl {
+    padding: 12px 30px;
+    font-size: 1rem;
+}
+
 /* Code Editor */
 .CodeMirror {
     height: 100% !important;
