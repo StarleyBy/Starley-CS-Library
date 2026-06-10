@@ -41,6 +41,14 @@
         { "folder": "Sugarbaker2" }
      ]
     },
+     {
+      "id": "cardiology",
+      "title": "Cardiology",
+      "path": "books/cardiology ",
+      "books": [
+        { "folder": "Hurst" }
+     ]
+    },
     {
       "id": "anatomy",
       "title": "Anatomy",
