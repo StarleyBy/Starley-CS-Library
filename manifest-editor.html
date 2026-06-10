@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Starley Manifest Editor</title>
     <link rel="stylesheet" href="assets/css/styles.css?v=2.2">
-    <link rel="stylesheet" href="assets/css/manifest-editor.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/manifest-editor.css?v=1.2">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- CodeMirror CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
@@ -113,7 +113,7 @@
         <div class="me-modal-box">
             <h3>GitHub Authentication</h3>
             <p>Enter your Personal Access Token to save changes.</p>
-            <input type="password" id="me-github-token" placeholder="ghp_xxxxxxxxxxxx">
+            <input type="text" id="me-github-token" autocomplete="off" placeholder="ghp_xxxxxxxxxxxx" style="-webkit-text-security: disc;">
             <div class="me-modal-actions">
                 <button id="me-btn-token-save" class="me-btn me-btn-blue">Save & Continue</button>
                 <button id="me-btn-token-cancel" class="me-btn me-btn-outline">Cancel</button>
@@ -121,7 +121,7 @@
         </div>
     </div>
 
-    <script src="assets/js/config.js?v=1.0"></script>
-    <script src="assets/js/manifest-editor.js?v=1.0"></script>
+    <script src="assets/js/config.js?v=1.2"></script>
+    <script src="assets/js/manifest-editor.js?v=1.2"></script>
 </body>
 </html>
