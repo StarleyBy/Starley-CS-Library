@@ -131,7 +131,7 @@
     // Применить ограничения для user
     function applyUserRestrictions() {
         // Скрыть ссылки на редактор и конвертер
-        const editorLinks = document.querySelectorAll('a[href*="editor.html"], a[href*="mdconvert.html"]');
+        const editorLinks = document.querySelectorAll('a[href*="editor.html"], a[href*="mdconvert.html"], a[href*="manifest-editor.html"]');
         editorLinks.forEach(link => {
             link.style.display = 'none';
         });
@@ -144,7 +144,8 @@
         
         // Если мы на странице редактора - редирект на главную
         if (window.location.pathname.includes('editor.html') || 
-            window.location.pathname.includes('mdconvert.html')) {
+            window.location.pathname.includes('mdconvert.html') ||
+            window.location.pathname.includes('manifest-editor.html')) {
             alert('⚠️ Access denied. Admin privileges required.');
             window.location.href = 'index.html';
         }

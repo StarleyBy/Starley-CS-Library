@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starley Manifest Editor</title>
+    <link rel="stylesheet" href="assets/css/styles.css?v=2.2">
+    <link rel="stylesheet" href="assets/css/manifest-editor.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- CodeMirror CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
+    <!-- CodeMirror JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/javascript/javascript.min.js"></script>
+</head>
+<body class="me-body">
+    <header class="me-header">
+        <div class="me-header-inner">
+            <span class="me-header-title">🛠️ Starley Manifest Editor</span>
+            <nav class="me-header-nav">
+                <a href="index.html">Library</a>
+                <a href="editor.html">Editor</a>
+                <a href="manifest-editor.html" class="active">Manifests</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="me-shell">
+        <!-- Sidebar for Loading and Meta -->
+        <aside class="me-sidebar">
+            <div class="me-sidebar-section">
+                <h3>📂 Load Manifest</h3>
+                <div class="me-field-group">
+                    <label>Book</label>
+                    <select id="me-select-book"><option value="">Select a book...</option></select>
+                </div>
+                <div class="me-field-group">
+                    <label>Type</label>
+                    <select id="me-select-type">
+                        <option value="quiz">Quiz (JSON)</option>
+                        <option value="magazine">Magazine (JSON)</option>
+                    </select>
+                </div>
+                <div class="me-field-group">
+                    <label>Manifest File</label>
+                    <select id="me-select-file" disabled><option value="">Select file...</option></select>
+                </div>
+                <div class="me-actions-grid">
+                    <button id="me-btn-load" class="me-btn me-btn-blue"><i class="fas fa-file-import"></i> Load</button>
+                    <button id="me-btn-new" class="me-btn me-btn-green"><i class="fas fa-plus"></i> New</button>
+                </div>
+            </div>
+
+            <div class="me-sidebar-section" id="me-section-meta" style="display:none;">
+                <h3>📑 Global Metadata</h3>
+                <div id="me-meta-fields">
+                    <!-- Fields injected by JS based on type -->
+                </div>
+            </div>
+
+            <div class="me-sidebar-section">
+                <h3>💾 Save & Actions</h3>
+                <div class="me-save-actions">
+                    <button id="me-btn-download" class="me-btn me-btn-outline"><i class="fas fa-download"></i> Download JSON</button>
+                    <button id="me-btn-save-github" class="me-btn me-btn-success"><i class="fab fa-github"></i> Save to GitHub</button>
+                    <div id="me-github-status" class="me-status-text"></div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Editor Area -->
+        <main class="me-main">
+            <div class="me-tabs">
+                <button class="me-tab-btn active" data-tab="form">Form Editor</button>
+                <button class="me-tab-btn" data-tab="json">Raw JSON</button>
+            </div>
+
+            <div class="me-tab-content active" id="me-tab-form">
+                <div class="me-items-list-header">
+                    <span id="me-items-count">0 items</span>
+                    <button id="me-btn-add-item" class="me-btn me-btn-sm me-btn-green"><i class="fas fa-plus"></i> Add Item</button>
+                </div>
+                <div id="me-items-container" class="me-items-container">
+                    <!-- Form items injected here -->
+                    <div class="me-empty-state">Load or create a manifest to start editing</div>
+                </div>
+            </div>
+
+            <div class="me-tab-content" id="me-tab-json">
+                <textarea id="me-json-editor"></textarea>
+            </div>
+        </main>
+
+        <!-- Preview Pane -->
+        <section class="me-preview-pane">
+            <div class="me-preview-header">
+                <span>Live Preview</span>
+                <div class="me-preview-controls">
+                    <button id="me-preview-prev" class="me-btn me-btn-icon" title="Previous"><i class="fas fa-chevron-left"></i></button>
+                    <span id="me-preview-index">0 / 0</span>
+                    <button id="me-preview-next" class="me-btn me-btn-icon" title="Next"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+            <div id="me-preview-content" class="me-preview-content">
+                <div class="me-preview-empty">Select an item to preview</div>
+            </div>
+        </section>
+    </div>
+
+    <!-- GitHub Token Modal -->
+    <div id="me-github-modal" class="me-modal" style="display:none;">
+        <div class="me-modal-box">
+            <h3>GitHub Authentication</h3>
+            <p>Enter your Personal Access Token to save changes.</p>
+            <input type="password" id="me-github-token" placeholder="ghp_xxxxxxxxxxxx">
+            <div class="me-modal-actions">
+                <button id="me-btn-token-save" class="me-btn me-btn-blue">Save & Continue</button>
+                <button id="me-btn-token-cancel" class="me-btn me-btn-outline">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/config.js?v=1.0"></script>
+    <script src="assets/js/manifest-editor.js?v=1.0"></script>
+</body>
+</html>
