@@ -311,6 +311,10 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Image
         container.appendChild(_createFieldGroup('Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
+
+        // Explanations
+        container.appendChild(_createFieldGroup('Explanation (EN)', item.explanationEn || '', (v) => { item.explanationEn = v; _syncFormToJson(); }, 'textarea'));
+        container.appendChild(_createFieldGroup('Explanation (RU)', item.explanationRu || '', (v) => { item.explanationRu = v; _syncFormToJson(); }, 'textarea'));
     }
 
     function _fillMagazineFields(container, item, idx) {
@@ -401,15 +405,22 @@ document.addEventListener('DOMContentLoaded', async () => {
             const imgPath = item.image ? `${state.currentBook.fullPath}/quiz/images/${item.image}` : null;
             html = `
                 <div class="preview-quiz">
-                    <div class="q-text">${item.questionEn || '(No question text)'}</div>
-                    ${imgPath ? `<img src="${imgPath}" style="max-width:100%; margin:10px 0;">` : ''}
+                    <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${item.questionEn || '(No question text)'}</div>
+                    ${imgPath ? `<img src="${imgPath}" style="max-width:100%; margin:10px 0; border-radius:4px; border:1px solid #ddd;">` : ''}
                     <div class="q-options" style="margin-top:15px;">
                         ${Object.entries(item.optionsEn || {}).map(([k, v]) => `
-                            <div style="padding:8px; border:1px solid #ddd; margin-bottom:5px; border-radius:4px; ${k === item.correctAnswer ? 'background:#e8f5e9; border-color:#2e7d32;' : ''}">
+                            <div style="padding:8px; border:1px solid #ddd; margin-bottom:5px; border-radius:4px; ${k === item.correctAnswer ? 'background:#e8f5e9; border-color:#2e7d32; font-weight:600;' : ''}">
                                 <strong>${k}:</strong> ${v}
                             </div>
                         `).join('')}
                     </div>
+                    ${item.explanationEn || item.explanationRu ? `
+                        <div class="q-explanation" style="margin-top:20px; padding:15px; background:#fff3e0; border-left:4px solid #ff9800; border-radius:4px;">
+                            <div style="font-weight:700; font-size:0.8rem; text-transform:uppercase; color:#e65100; margin-bottom:8px;">Explanation</div>
+                            <div style="font-size:0.9rem; margin-bottom:10px;">${item.explanationEn || ''}</div>
+                            <div style="font-size:0.9rem; font-style:italic; border-top:1px solid #ffe0b2; pt:8px; margin-top:8px;">${item.explanationRu || ''}</div>
+                        </div>
+                    ` : ''}
                 </div>
             `;
         } else {
