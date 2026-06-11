@@ -33,7 +33,7 @@ async function initReader(bookPath, chapterId, edition) {
         const bookMeta = data[0];
         console.log(`[DEBUG] initReader: metadata loaded:`, bookMeta);
 
-        document.getElementById('book-title').textContent = bookMeta.title;
+        document.getElementById('book-title').textContent = (edition === 'russian' && bookMeta.russian_title) ? bookMeta.russian_title : bookMeta.title;
 
         // --- Track Recently Opened ---
         try {
