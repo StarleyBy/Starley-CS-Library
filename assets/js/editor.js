@@ -813,8 +813,10 @@ function initPreview() {
     };
     
     // ========== ОБНОВЛЕНИЕ PREVIEW ==========
+    let updateTimer = null;
     editor.on('change', function() {
-        updatePreview();
+        clearTimeout(updateTimer);
+        updateTimer = setTimeout(updatePreview, 100);
     });
 
     // Attach sync listener if sync was already enabled

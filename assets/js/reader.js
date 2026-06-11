@@ -273,8 +273,16 @@ async function loadChapter(bookPath, chapterId, edition) {
         md = md.replace(/<mark class="m-([^"]+)">/g, '<span class="m-$1">');
         md = md.replace(/<\/mark>/g, '</span>');
 
+        // Определяем родительскую папку для изображений
+        // Если chapterId имеет формат "chapter-XX-YY", изображения находятся в "chapter-XX/images"
+        let imagesFolder = chapterId;
+        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
+        if (subchapterMatch) {
+            imagesFolder = subchapterMatch[1];
+        }
+
         marked.setOptions({
-            baseUrl: `${BASE_URL}${bookPath}/chapters/${parentFolder}/images/`
+            baseUrl: `${BASE_URL}${bookPath}/chapters/${imagesFolder}/images/`
         });
         
         const langMap = { original: 'en', russian: 'ru', starley: 'en', hebrew: 'he' };
@@ -317,9 +325,9 @@ async function loadChapter(bookPath, chapterId, edition) {
                 if (rawSrc && !rawSrc.startsWith('http')) {
                     const fileName = rawSrc.split('/').pop();
                     if (isGitHubPages) {
-                        img.src = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                        img.src = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${imagesFolder}/images/${fileName}`;
                     } else {
-                        img.src = `${BASE_URL}${bookPath}/chapters/${chapterId}/images/${fileName}`;
+                        img.src = `${BASE_URL}${bookPath}/chapters/${imagesFolder}/images/${fileName}`;
                     }
                 }
                 img.classList.add('med-img');
