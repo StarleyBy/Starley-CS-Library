@@ -623,8 +623,18 @@ async function initLoader() {
             const appendices = JSON.parse(selectedOption.dataset.appendices || '[]');
             
             chapters.forEach(ch => {
+                // Add main chapter
                 const chapterId = ch.file.replace('.md', '');
                 chapterSelect.add(new Option(ch.title, chapterId));
+                
+                // Add subchapters if they exist
+                if (ch.subchapters && ch.subchapters.length > 0) {
+                    ch.subchapters.forEach(sub => {
+                        const subChapterId = sub.file.replace('.md', '');
+                        // Add some indentation for visibility
+                        chapterSelect.add(new Option(`  └─ ${sub.title}`, subChapterId));
+                    });
+                }
             });
 
             if (appendices.length > 0) {
@@ -649,17 +659,26 @@ async function initLoader() {
                 return alert("Please select a book and chapter");
             }
             
-            let filename = chapterSelect.value + '.md';
+            let chapterId = chapterSelect.value;
+            let filename = chapterId + '.md';
             
             if (version === 'russian') {
-                filename = chapterSelect.value + '-ru.md';
+                filename = chapterId + '-ru.md';
             } else if (version === 'starley') {
-                filename = chapterSelect.value + '-starley.md';
+                filename = chapterId + '-starley.md';
             } else if (version === 'hebrew') {
-                filename = chapterSelect.value + '-he.md';
+                filename = chapterId + '-he.md';
+            }
+
+            // --- Subchapter handling ---
+            // If the chapterId is in the format "chapter-XX-YY", the parent folder is "chapter-XX"
+            let folderName = chapterId;
+            const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
+            if (subchapterMatch) {
+                folderName = subchapterMatch[1];
             }
             
-            const url = `${BASE_URL}${bookSelect.value}/chapters/${chapterSelect.value}/${filename}`;
+            const url = `${BASE_URL}${bookSelect.value}/chapters/${folderName}/${filename}`;
             
             try {
                 const res = await fetch(url);
