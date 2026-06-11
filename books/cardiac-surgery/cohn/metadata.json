@@ -1,6 +1,7 @@
 [
   {
     "title": "Cardiac Surgery in the Adult, Fifth Edition",
+    "russian_title": "Кардиохирургия у взрослых, пятое издание",
     "cover_image": "cover.jpg",
     "category": [
       "cardiac-surgery"
@@ -24,258 +25,69 @@
       "hebrew": true
     },
     "chapters": [
-      {
-        "file": "chapter-01.md",
-        "title": "1. 📚History of Cardiac Surgery"
-      },
-      {
-        "file": "chapter-02.md",
-        "title": "2. 📚Surgical Anatomy of the Heart"
-      },
-      {
-        "file": "chapter-03.md",
-        "title": "3. 📚Cardiac Surgical Physiology"
-      },
-      {
-        "file": "chapter-04.md",
-        "title": "4. 📚Cardiac Surgical Pharmacology"
-      },
-      {
-        "file": "chapter-05.md",
-        "title": "5. 📚Cardiovascular Pathology"
-      },
-      {
-        "file": "chapter-06.md",
-        "title": "6. 📚Computed Tomography of the Adult Cardiac Surgery Patient: Principles and Applications"
-      },
-      {
-        "file": "chapter-07.md",
-        "title": "7. 📚Risk Assessment and Performance Improvement in Cardiac Surgery"
-      },
-      {
-        "file": "chapter-08.md",
-        "title": "8. 📚Simulation in Cardiac Surgery"
-      },
-      {
-        "file": "chapter-09.md",
-        "title": "9. 📚The Integrated Cardiovascular Center"
-      },
-      {
-        "file": "chapter-10.md",
-        "title": "10. 📚Preoperative Evaluation for Cardiac Surgery"
-      },
-      {
-        "file": "chapter-11.md",
-        "title": "11. 📚Cardiac Anesthesia"
-      },
-      {
-        "file": "chapter-12.md",
-        "title": "12. 📚Echocardiography in Cardiac Surgery"
-      },
-      {
-        "file": "chapter-13.md",
-        "title": "13. 📚Extracorporeal Circulation"
-      },
-      {
-        "file": "chapter-14.md",
-        "title": "14. 📚Transfusion Therapy and Blood Conservation"
-      },
-      {
-        "file": "chapter-15.md",
-        "title": "15. 📚Deep Hypothermic Circulatory Arrest"
-      },
-      {
-        "file": "chapter-16.md",
-        "title": "16. 📚Myocardial Protection"
-      },
-      {
-        "file": "chapter-17.md",
-        "title": "17. 📚Postoperative Care of Cardiac Surgery Patients"
-      },
-      {
-        "file": "chapter-18.md",
-        "title": "18. 📚Temporary Mechanical Circulatory Support"
-      },
-      {
-        "file": "chapter-19.md",
-        "title": "19. 📚Myocardial Revascularization with Percutaneous Devices"
-      },
-      {
-        "file": "chapter-20.md",
-        "title": "20. 📚Myocardial Revascularization with Cardiopulmonary Bypass"
-      },
-      {
-        "file": "chapter-21.md",
-        "title": "21. 📚Myocardial Revascularization Without Cardiopulmonary Bypass"
-      },
-      {
-        "file": "chapter-22.md",
-        "title": "22. 📚Myocardial Revascularization after Acute Myocardial Infarction"
-      },
-      {
-        "file": "chapter-23.md",
-        "title": "23. 📚Minimally Invasive Myocardial Revascularization"
-      },
-      {
-        "file": "chapter-24.md",
-        "title": "24. 📚Coronary Artery Reoperations"
-      },
-      {
-        "file": "chapter-25.md",
-        "title": "25. 📚Surgical Treatment of Complications of Myocardial Infarction, Ventricular Septal Defect, Myocardial Rupture, and Left Ventricular Aneurysm"
-      },
-      {
-        "file": "chapter-26.md",
-        "title": "26. 📚Pathophysiology of Aortic Valve Disease"
-      },
-      {
-        "file": "chapter-27.md",
-        "title": "27. 📚Aortic Valve Replacement with a Mechanical Cardiac Valve Prosthesis"
-      },
-      {
-        "file": "chapter-28.md",
-        "title": "28. 📚Stented Bioprosthetic Aortic Valve Replacement"
-      },
-      {
-        "file": "chapter-29.md",
-        "title": "29. 📚Stentless Aortic Valve and Root Replacement"
-      },
-      {
-        "file": "chapter-30.md",
-        "title": "30. 📚Aortic Valve Repair and Aortic Valve-Sparing Operations"
-      },
-      {
-        "file": "chapter-31.md",
-        "title": "31. 📚Surgical Treatment of Aortic Valve Endocarditis"
-      },
-      {
-        "file": "chapter-32.md",
-        "title": "32. 📚Minimally Invasive Aortic Valve Surgery"
-      },
-      {
-        "file": "chapter-33.md",
-        "title": "33. 📚Percutaneous Treatment of Aortic Valve Disease"
-      },
-      {
-        "file": "chapter-34.md",
-        "title": "34. 📚Pathophysiology of Mitral Valve Disease"
-      },
-      {
-        "file": "chapter-35.md",
-        "title": "35. 📚Mitral Valve Repair"
-      },
-      {
-        "file": "chapter-36.md",
-        "title": "36. 📚Mitral Valve Repair: Rheumatic"
-      },
-      {
-        "file": "chapter-37.md",
-        "title": "37. 📚Surgery for Functional Mitral Regurgitation"
-      },
-      {
-        "file": "chapter-38.md",
-        "title": "38. 📚Surgical Treatment of Mitral Valve Endocarditis"
-      },
-      {
-        "file": "chapter-39.md",
-        "title": "39. 📚Mitral Valve Repair for Congenital Mitral Valve Disease in the Adult"
-      },
-      {
-        "file": "chapter-40.md",
-        "title": "40. 📚Minimally Invasive and Robotic Mitral and Tricuspid Valve Surgery"
-      },
-      {
-        "file": "chapter-41.md",
-        "title": "41. 📚Percutaneous Catheter-based Mitral Valve Repair"
-      },
-      {
-        "file": "chapter-42.md",
-        "title": "42. 📚Mitral Valve Replacement"
-      },
-      {
-        "file": "chapter-43.md",
-        "title": "43. 📚Tricuspid Valve Disease"
-      },
-      {
-        "file": "chapter-44.md",
-        "title": "44. 📚Multiple Valve Disease"
-      },
-      {
-        "file": "chapter-45.md",
-        "title": "45. 📚Valvular and Ischemic Heart Disease"
-      },
-      {
-        "file": "chapter-46.md",
-        "title": "46. 📚Reoperative Valve Surgery"
-      },
-      {
-        "file": "chapter-47.md",
-        "title": "47. 📚Aortic Dissection"
-      },
-      {
-        "file": "chapter-48.md",
-        "title": "48. 📚Ascending and Arch Aortic Aneurysms"
-      },
-      {
-        "file": "chapter-49.md",
-        "title": "49. 📚Descending and Thoracoabdominal Aortic Aneurysms"
-      },
-      {
-        "file": "chapter-50.md",
-        "title": "50. 📚Endovascular Therapy for the Treatment of Thoracic Aortic Disease"
-      },
-      {
-        "file": "chapter-51.md",
-        "title": "51. 📚Trauma to the Great Vessels"
-      },
-      {
-        "file": "chapter-52.md",
-        "title": "52. 📚Pulmonary Embolism and Pulmonary Thromboendarterectomy"
-      },
-      {
-        "file": "chapter-53.md",
-        "title": "53. 📚Interventional Therapy for Atrial and Ventricular Arrhythmias"
-      },
-      {
-        "file": "chapter-54.md",
-        "title": "54. 📚Surgery for Atrial Fibrillation"
-      },
-      {
-        "file": "chapter-55.md",
-        "title": "55. 📚Surgical Implantation of Pacemakers and Automatic Defibrillators"
-      },
-      {
-        "file": "chapter-56.md",
-        "title": "56. 📚Surgery for Adult Congenital Heart Disease"
-      },
-      {
-        "file": "chapter-57.md",
-        "title": "57. 📚Pericardial Disease"
-      },
-      {
-        "file": "chapter-58.md",
-        "title": "58. 📚Cardiac Neoplasms"
-      },
-      {
-        "file": "chapter-59.md",
-        "title": "59. 📚Immunobiology of Heart and Lung Transplantation"
-      },
-      {
-        "file": "chapter-60.md",
-        "title": "60. 📚Heart Transplantation"
-      },
-      {
-        "file": "chapter-61.md",
-        "title": "61. 📚Lung Transplantation and Heart-lung Transplantation"
-      },
-      {
-        "file": "chapter-62.md",
-        "title": "62. 📚Long-term Mechanical Circulatory Support and the Total Artificial Heart"
-      },
-      {
-        "file": "chapter-63.md",
-        "title": "63. 📚Tissue Engineering for Cardiac Valve Surgery"
-      }
+      { "file": "chapter-01.md", "title": "1. 📚History of Cardiac Surgery", "russian": "1. История кардиохирургии" },
+      { "file": "chapter-02.md", "title": "2. 📚Surgical Anatomy of the Heart", "russian": "2. Хирургическая анатомия сердца" },
+      { "file": "chapter-03.md", "title": "3. 📚Cardiac Surgical Physiology", "russian": "3. Физиология в кардиохирургии" },
+      { "file": "chapter-04.md", "title": "4. 📚Cardiac Surgical Pharmacology", "russian": "4. Фармакология в кардиохирургии" },
+      { "file": "chapter-05.md", "title": "5. 📚Cardiovascular Pathology", "russian": "5. Сердечно-сосудистая патология" },
+      { "file": "chapter-06.md", "title": "6. 📚Computed Tomography of the Adult Cardiac Surgery Patient: Principles and Applications", "russian": "6. Компьютерная томография у взрослых пациентов кардиохирургического профиля: принципы и применение" },
+      { "file": "chapter-07.md", "title": "7. 📚Risk Assessment and Performance Improvement in Cardiac Surgery", "russian": "7. Оценка риска и улучшение результатов в кардиохирургии" },
+      { "file": "chapter-08.md", "title": "8. 📚Simulation in Cardiac Surgery", "russian": "8. Симуляционное обучение в кардиохирургии" },
+      { "file": "chapter-09.md", "title": "9. 📚The Integrated Cardiovascular Center", "russian": "9. Интегрированный кардиологический центр" },
+      { "file": "chapter-10.md", "title": "10. 📚Preoperative Evaluation for Cardiac Surgery", "russian": "10. Предоперационное обследование в кардиохирургии" },
+      { "file": "chapter-11.md", "title": "11. 📚Cardiac Anesthesia", "russian": "11. Кардиоанестезиология" },
+      { "file": "chapter-12.md", "title": "12. 📚Echocardiography in Cardiac Surgery", "russian": "12. Эхокардиография в кардиохирургии" },
+      { "file": "chapter-13.md", "title": "13. 📚Extracorporeal Circulation", "russian": "13. Искусственное кровообращение" },
+      { "file": "chapter-14.md", "title": "14. 📚Transfusion Therapy and Blood Conservation", "russian": "14. Трансфузионная терапия и кровесбережение" },
+      { "file": "chapter-15.md", "title": "15. 📚Deep Hypothermic Circulatory Arrest", "russian": "15. Глубокая гипотермическая остановка кровообращения" },
+      { "file": "chapter-16.md", "title": "16. 📚Myocardial Protection", "russian": "16. Миокардиальная защита (Кардиоплегия)" },
+      { "file": "chapter-17.md", "title": "17. 📚Postoperative Care of Cardiac Surgery Patients", "russian": "17. Послеоперационный уход за кардиохирургическими пациентами" },
+      { "file": "chapter-18.md", "title": "18. 📚Temporary Mechanical Circulatory Support", "russian": "18. Временная механическая поддержка кровообращения" },
+      { "file": "chapter-19.md", "title": "19. 📚Myocardial Revascularization with Percutaneous Devices", "russian": "19. Реваскуляризация миокарда с помощью чрескожных устройств" },
+      { "file": "chapter-20.md", "title": "20. 📚Myocardial Revascularization with Cardiopulmonary Bypass", "russian": "20. Реваскуляризация миокарда в условиях искусственного кровообращения" },
+      { "file": "chapter-21.md", "title": "21. 📚Myocardial Revascularization Without Cardiopulmonary Bypass", "russian": "21. Реваскуляризация миокарда без искусственного кровообращения" },
+      { "file": "chapter-22.md", "title": "22. 📚Myocardial Revascularization after Acute Myocardial Infarction", "russian": "22. Реваскуляризация миокарда после острого инфаркта миокарда" },
+      { "file": "chapter-23.md", "title": "23. 📚Minimally Invasive Myocardial Revascularization", "russian": "23. Минимально инвазивная реваскуляризация миокарда" },
+      { "file": "chapter-24.md", "title": "24. 📚Coronary Artery Reoperations", "russian": "24. Повторные операции на коронарных артериях" },
+      { "file": "chapter-25.md", "title": "25. 📚Surgical Treatment of Complications of Myocardial Infarction, Ventricular Septal Defect, Myocardial Rupture, and Left Ventricular Aneurysm", "russian": "25. Хирургическое лечение осложнений инфаркта миокарда: дефект межжелудочковой перегородки, разрыв миокарда и аневризма левого желудочка" },
+      { "file": "chapter-26.md", "title": "26. 📚Pathophysiology of Aortic Valve Disease", "russian": "26. Патофизиология заболеваний аортального клапана" },
+      { "file": "chapter-27.md", "title": "27. 📚Aortic Valve Replacement with a Mechanical Cardiac Valve Prosthesis", "russian": "27. Замена аортального клапана механическим протезом" },
+      { "file": "chapter-28.md", "title": "28. 📚Stented Bioprosthetic Aortic Valve Replacement", "russian": "28. Замена аортального клапана каркасным биопротезом" },
+      { "file": "chapter-29.md", "title": "29. 📚Stentless Aortic Valve and Root Replacement", "russian": "29. Замена аортального клапана и корня аорты бескаркасными протезами" },
+      { "file": "chapter-30.md", "title": "30. 📚Aortic Valve Repair and Aortic Valve-Sparing Operations", "russian": "30. Реконструкция аортального клапана и клапан-сохраняющие операции" },
+      { "file": "chapter-31.md", "title": "31. 📚Surgical Treatment of Aortic Valve Endocarditis", "russian": "31. Хирургическое лечение эндокардита аортального клапана" },
+      { "file": "chapter-32.md", "title": "32. 📚Minimally Invasive Aortic Valve Surgery", "russian": "32. Минимально инвазивная хирургия аортального клапана" },
+      { "file": "chapter-33.md", "title": "33. 📚Percutaneous Treatment of Aortic Valve Disease", "russian": "33. Чрескожное лечение заболеваний аортального клапана" },
+      { "file": "chapter-34.md", "title": "34. 📚Pathophysiology of Mitral Valve Disease", "russian": "34. Патофизиология заболеваний митрального клапана" },
+      { "file": "chapter-35.md", "title": "35. 📚Mitral Valve Repair", "russian": "35. Реконструкция митрального клапана" },
+      { "file": "chapter-36.md", "title": "36. 📚Mitral Valve Repair: Rheumatic", "russian": "36. Реконструкция митрального клапана при ревматическом поражении" },
+      { "file": "chapter-37.md", "title": "37. 📚Surgery for Functional Mitral Regurgitation", "russian": "37. Хирургия функциональной митральной недостаточности" },
+      { "file": "chapter-38.md", "title": "38. 📚Surgical Treatment of Mitral Valve Endocarditis", "russian": "38. Хирургическое лечение эндокардита митрального клапана" },
+      { "file": "chapter-39.md", "title": "39. 📚Mitral Valve Repair for Congenital Mitral Valve Disease in the Adult", "russian": "39. Реконструкция митрального клапана при врожденных пороках у взрослых" },
+      { "file": "chapter-40.md", "title": "40. 📚Minimally Invasive and Robotic Mitral and Tricuspid Valve Surgery", "russian": "40. Минимально инвазивная и робот-ассистированная хирургия митрального и трикуспидального клапанов" },
+      { "file": "chapter-41.md", "title": "41. 📚Percutaneous Catheter-based Mitral Valve Repair", "russian": "41. Чрескожная катетерная реконструкция митрального клапана" },
+      { "file": "chapter-42.md", "title": "42. 📚Mitral Valve Replacement", "russian": "42. Протезирование митрального клапана" },
+      { "file": "chapter-43.md", "title": "43. 📚Tricuspid Valve Disease", "russian": "43. Заболевания трикуспидального клапана" },
+      { "file": "chapter-44.md", "title": "44. 📚Multiple Valve Disease", "russian": "44. Сочетанные пороки клапанов сердца" },
+      { "file": "chapter-45.md", "title": "45. 📚Valvular and Ischemic Heart Disease", "russian": "45. Сочетанные клапанные и ишемические поражения сердца" },
+      { "file": "chapter-46.md", "title": "46. 📚Reoperative Valve Surgery", "russian": "46. Повторные операции на клапанах" },
+      { "file": "chapter-47.md", "title": "47. 📚Aortic Dissection", "russian": "47. Расслоение аорты" },
+      { "file": "chapter-48.md", "title": "48. 📚Ascending and Arch Aortic Aneurysms", "russian": "48. Аневризмы восходящей аорты и дуги аорты" },
+      { "file": "chapter-49.md", "title": "49. 📚Descending and Thoracoabdominal Aortic Aneurysms", "russian": "49. Аневризмы нисходящей и торакоабдоминальной аорты" },
+      { "file": "chapter-50.md", "title": "50. 📚Endovascular Therapy for the Treatment of Thoracic Aortic Disease", "russian": "50. Эндоваскулярное лечение заболеваний грудной аорты" },
+      { "file": "chapter-51.md", "title": "51. 📚Trauma to the Great Vessels", "russian": "51. Травмы магистральных сосудов" },
+      { "file": "chapter-52.md", "title": "52. 📚Pulmonary Embolism and Pulmonary Thromboendarterectomy", "russian": "52. Тромбоэмболия легочной артерии и легочная тромбоэндартерэктомия" },
+      { "file": "chapter-53.md", "title": "53. 📚Interventional Therapy for Atrial and Ventricular Arrhythmias", "russian": "53. Интервенционное лечение предсердных и желудочковых аритмий" },
+      { "file": "chapter-54.md", "title": "54. 📚Surgery for Atrial Fibrillation", "russian": "54. Хирургическое лечение фибрилляции предсердий" },
+      { "file": "chapter-55.md", "title": "55. 📚Surgical Implantation of Pacemakers and Automatic Defibrillators", "russian": "55. Хирургическая имплантация кардиостимуляторов и кардиовертеров-дефибрилляторов" },
+      { "file": "chapter-56.md", "title": "56. 📚Surgery for Adult Congenital Heart Disease", "russian": "56. Хирургия врожденных пороков сердца у взрослых" },
+      { "file": "chapter-57.md", "title": "57. 📚Pericardial Disease", "russian": "57. Заболевания перикарда" },
+      { "file": "chapter-58.md", "title": "58. 📚Cardiac Neoplasms", "russian": "58. Опухоли сердца" },
+      { "file": "chapter-59.md", "title": "59. 📚Immunobiology of Heart and Lung Transplantation", "russian": "59. Иммунобиология трансплантации сердца и легких" },
+      { "file": "chapter-60.md", "title": "60. 📚Heart Transplantation", "russian": "60. Трансплантация сердца" },
+      { "file": "chapter-61.md", "title": "61. 📚Lung Transplantation and Heart-lung Transplantation", "russian": "61. Трансплантация легких и комплекса сердце-легкие" },
+      { "file": "chapter-62.md", "title": "62. 📚Long-term Mechanical Circulatory Support and the Total Artificial Heart", "russian": "62. Длительная механическая поддержка кровообращения и тотальное искусственное сердце" },
+      { "file": "chapter-63.md", "title": "63. 📚Tissue Engineering for Cardiac Valve Surgery", "russian": "63. Тканевая инженерия в хирургии клапанов сердца" }
     ]
   }
 ]
