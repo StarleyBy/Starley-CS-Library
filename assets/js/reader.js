@@ -229,9 +229,9 @@ async function loadChapter(bookPath, chapterId, edition) {
 
         // Определяем родительскую папку для подглав
         let parentFolder = chapterId;
-        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
-        if (subchapterMatch) {
-            parentFolder = subchapterMatch[1];
+        const subMatch1 = chapterId.match(/^(chapter-\d+)-\d+$/);
+        if (subMatch1) {
+            parentFolder = subMatch1[1];
         }
 
         let url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${suffix}.md`;
@@ -278,9 +278,9 @@ async function loadChapter(bookPath, chapterId, edition) {
         // Определяем родительскую папку для изображений
         // Если chapterId имеет формат "chapter-XX-YY", изображения находятся в "chapter-XX/images"
         let imagesFolder = chapterId;
-        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
-        if (subchapterMatch) {
-            imagesFolder = subchapterMatch[1];
+        const subMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
+        if (subMatch) {
+            imagesFolder = subMatch[1];
         }
 
         marked.setOptions({

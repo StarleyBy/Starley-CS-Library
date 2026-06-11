@@ -61,8 +61,8 @@ async function initReader(bookPath, chapterId, edition) {
         renderChapterList(bookMeta, bookPath, chapterId, edition);
         renderEditionSelector(bookPath, chapterId, edition);
 
-        const metaSuffix = (edition === 'russian') ? '-ru-metadata' : '-metadata';
-        renderInternalTOC(bookPath, chapterId, metaSuffix);
+        // Pass bookMeta instead of metaSuffix to avoid unnecessary fetch
+        renderInternalTOC(chapterId, bookMeta);
 
         if (typeof loadChapter === 'function') {
             loadChapter(bookPath, chapterId, edition);
@@ -134,56 +134,34 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
     // Show read dots for already-read chapters
     if (typeof _updateReadDotsInSidebar === 'function') _updateReadDotsInSidebar();
 }
-async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
+async function renderInternalTOC(chapterId, bookMeta) {
     const tocContainer = document.getElementById('internal-toc');
     try {
-        // Определяем родительскую папку: берем первые две части (chapter-XX)
-        let parentFolder = chapterId;
-        const parts = chapterId.split('-');
-        if (parts.length >= 2) {
-            parentFolder = parts[0] + '-' + parts[1];
-        }
-
-        console.log(`[DEBUG] chapterId: ${chapterId}, parentFolder: ${parentFolder}`);
-
-        // Check if we're running on GitHub Pages
-        const isGitHubPages = window.location.hostname.includes('github.io');
-        let url;
-
-        if (isGitHubPages) {
-            url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${metaSuffix}.json`;
-        } else {
-            url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${metaSuffix}.json`;
-        }
-
-        let res = await fetch(url);
-
-        // Если версия не найдена, пробуем оригинальный файл метаданных
-        if (!res.ok && metaSuffix !== '-metadata.json') {
-            if (isGitHubPages) {
-                url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}-metadata.json`;
-            } else {
-                url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}-metadata.json`;
+        let chapterMeta = null;
+        // Search chapters and subchapters
+        for (const chapter of bookMeta.chapters) {
+            if (chapter.file.replace('.md', '') === chapterId) {
+                chapterMeta = chapter;
+                break;
             }
-            res = await fetch(url);
+            if (chapter.subchapters) {
+                const sub = chapter.subchapters.find(s => s.file.replace('.md', '') === chapterId);
+                if (sub) {
+                    chapterMeta = sub;
+                    break;
+                }
+            }
         }
 
-        // Проверяем статус ответа перед парсингом JSON
-        if (!res.ok) {
-            // Если оба файла метаданных не найдены, просто выходим без ошибки
-            tocContainer.innerHTML = '';
-            return;
-        }
-
-        const meta = await res.json();
-        if (meta.sections) {
+        if (chapterMeta && chapterMeta.sections) {
             tocContainer.innerHTML = `<h3 class="toc-title">In this chapter:</h3>` +
-                meta.sections.filter(s => s.level === 2).map(s =>
+                chapterMeta.sections.filter(s => s.level === 2).map(s =>
                     `<a href="#${s.anchor}" class="toc-link">${s.title}</a>`
                 ).join('');
+        } else {
+            tocContainer.innerHTML = '';
         }
     } catch (e) {
-        // Логируем ошибку для отладки, но не прерываем работу приложения
         console.warn(`Could not load TOC for chapter ${chapterId}:`, e.message);
         tocContainer.innerHTML = '';
     }
