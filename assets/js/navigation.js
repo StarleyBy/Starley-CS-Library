@@ -72,6 +72,7 @@ async function initReader(bookPath, chapterId, edition) {
 }
 
 function renderChapterList(bookMeta, bookPath, chapterId, edition) {
+    console.log(`[DEBUG] renderChapterList: edition=${edition}`);
     const list = document.getElementById('chapter-list');
     const allChapters = [...bookMeta.chapters, ...(bookMeta.appendices || [])];
 
@@ -86,6 +87,9 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
         let title = ch.title;
         if (edition === 'russian' && ch.russian) {
             title = ch.russian;
+            console.log(`[DEBUG] Localizing title for ${id}: ${title}`);
+        } else if (edition === 'russian') {
+            console.log(`[DEBUG] No russian title found for ${id}`);
         }
 
         // Главная глава
