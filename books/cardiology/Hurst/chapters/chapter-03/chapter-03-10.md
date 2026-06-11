@@ -1187,7 +1187,9 @@ and the  $L \rightarrow R$  shunt is 6.8 L/min – 4.3 L/min or 2.5 L/min.
 
 If absolute flows are not required, the  $Q_{\rm p}/Q_{\rm S}$  ratio can be determined using saturations only as follows:
 
+{% raw %}
 $$\frac{Q_{\rm P}}{Q_{\rm S}} = \frac{{\rm SA}_{{\rm O}_2} - {\rm MV}_{{\rm O}_2}}{{\rm PV}_{{\rm O}_2} - {\rm PA}_{{\rm O}_2}}$$
+{% endraw %}
 
 where  $SA_{O_2}$  = systemic arterial  $O_2$  saturation;  $PV_{O_2}$  = pulmonary venous  $O_2$  saturation;  $MV_{O_2}$  = mixed venous  $O_2$  saturation;  $PA_{O_2}$  = pulmonary artery  $O_2$  saturation.
 
