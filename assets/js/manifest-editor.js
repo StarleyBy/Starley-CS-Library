@@ -623,6 +623,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         if (type === 'quiz') {
             const imgPath = item.image ? `${state.currentBook.fullPath}/quiz/images/${item.image}` : null;
+            const expImgPath = item.explanationImage ? `${state.currentBook.fullPath}/quiz/images/${item.explanationImage}` : null;
             html = `
                 <div class="preview-quiz">
                     <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${item.questionEn || '(No question text)'}</div>
@@ -633,6 +634,11 @@ document.addEventListener('DOMContentLoaded', async () => {
                                 <strong>${k}:</strong> ${v}
                             </div>
                         `).join('')}
+                    </div>
+                    <div class="q-explanation" style="margin-top:20px; padding:15px; background:#f9f9f9; border-radius:4px;">
+                        <div style="font-weight:600; margin-bottom:5px;">Explanation:</div>
+                        <div>${item.explanationEn || '(No explanation provided)'}</div>
+                        ${expImgPath ? `<img src="${expImgPath}" style="max-width:100%; margin-top:10px; border-radius:4px; border:1px solid #ddd;">` : ''}
                     </div>
                 </div>
             `;
