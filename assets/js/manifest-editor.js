@@ -451,7 +451,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Image
         container.appendChild(_createFieldGroup('Question Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
         
-        container.appendChild(_createFieldGroup('Explanation Image File', item.explanationImage || '', (v) => { item.explanationImage = v; _syncFormToJson(); }));
+        // Explanation Images (Array of strings)
+        const expImagesGroup = document.createElement('div');
+        expImagesGroup.className = 'me-field-group';
+        expImagesGroup.innerHTML = `<label>Explanation Images (comma separated)</label>
+                                    <input type="text" id="me-exp-images" placeholder="e.g. img1.jpg, img2.jpg" value="${(item.explanationImages || []).join(', ')}">`;
+        expImagesGroup.querySelector('input').addEventListener('input', (e) => {
+            item.explanationImages = e.target.value.split(',').map(s => s.trim()).filter(s => s !== '');
+            _syncFormToJson();
+        });
+        container.appendChild(expImagesGroup);
 
         // Filler to keep grid balanced if needed, or just let it flow
         const filler = document.createElement('div');
@@ -623,7 +632,14 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         if (type === 'quiz') {
             const imgPath = item.image ? `${state.currentBook.fullPath}/quiz/images/${item.image}` : null;
-            const expImgPath = item.explanationImage ? `${state.currentBook.fullPath}/quiz/images/${item.explanationImage}` : null;
+            
+            // Render multiple images if explanationImages array exists
+            const explanationImages = item.explanationImages || [];
+            const expImgHtml = explanationImages.map(img => {
+                const p = `${state.currentBook.fullPath}/quiz/images/${img}`;
+                return `<img src="${p}" style="max-width:100%; margin-top:10px; border-radius:4px; border:1px solid #ddd;">`;
+            }).join('');
+
             html = `
                 <div class="preview-quiz">
                     <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${item.questionEn || '(No question text)'}</div>
@@ -638,7 +654,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     <div class="q-explanation" style="margin-top:20px; padding:15px; background:#f9f9f9; border-radius:4px;">
                         <div style="font-weight:600; margin-bottom:5px;">Explanation:</div>
                         <div>${item.explanationEn || '(No explanation provided)'}</div>
-                        ${expImgPath ? `<img src="${expImgPath}" style="max-width:100%; margin-top:10px; border-radius:4px; border:1px solid #ddd;">` : ''}
+                        ${expImgHtml}
                     </div>
                 </div>
             `;

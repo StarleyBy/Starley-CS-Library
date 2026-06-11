@@ -252,13 +252,27 @@ function showExplanation() {
     
     // Handle Explanation Image
     const expImgCont = document.getElementById('exp-image-container');
-    if (q.explanationImage) {
-        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        const imgSrc = q.explanationImage.startsWith('http') ? q.explanationImage : `${rootPath}${state.bookPath}/quiz/images/${q.explanationImage}`;
-        expImgCont.innerHTML = `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')">`;
+    expImgCont.innerHTML = ''; // Clear previous
+
+    const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    
+    // Helper to add an image
+    const addImg = (src) => {
+        const imgSrc = src.startsWith('http') ? src : `${rootPath}${state.bookPath}/quiz/images/${src}`;
+        const img = document.createElement('img');
+        img.src = imgSrc;
+        img.className = 'quiz-q-image';
+        img.onclick = () => window.open(imgSrc, '_blank');
+        expImgCont.appendChild(img);
+    };
+
+    if (q.explanationImages && Array.isArray(q.explanationImages)) {
+        q.explanationImages.forEach(img => addImg(img));
+        expImgCont.style.display = 'block';
+    } else if (q.explanationImage) {
+        addImg(q.explanationImage);
         expImgCont.style.display = 'block';
     } else {
-        expImgCont.innerHTML = '';
         expImgCont.style.display = 'none';
     }
 
