@@ -132,14 +132,21 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
 async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
     const tocContainer = document.getElementById('internal-toc');
     try {
+        // Определяем родительскую папку
+        let parentFolder = chapterId;
+        const subchapterMatch = chapterId.match(/^(chapter-\d+)-\d+$/);
+        if (subchapterMatch) {
+            parentFolder = subchapterMatch[1];
+        }
+
         // Check if we're running on GitHub Pages
         const isGitHubPages = window.location.hostname.includes('github.io');
         let url;
         
         if (isGitHubPages) {
-            url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
+            url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${metaSuffix}.json`;
         } else {
-            url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}${metaSuffix}.json`;
+            url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${metaSuffix}.json`;
         }
         
         let res = await fetch(url);
@@ -147,9 +154,9 @@ async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
         // Если русская версия не найдена, пробуем оригинальный файл метаданных
         if (!res.ok && metaSuffix.includes('-ru')) {
             if (isGitHubPages) {
-                url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
+                url = `${RAW_CONTENT_BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}-metadata.json`;
             } else {
-                url = `${BASE_URL}${bookPath}/chapters/${chapterId}/${chapterId}-metadata.json`;
+                url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}-metadata.json`;
             }
             res = await fetch(url);
         }
