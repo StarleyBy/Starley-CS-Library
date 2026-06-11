@@ -235,17 +235,19 @@ async function loadChapter(bookPath, chapterId, edition) {
         }
 
         let url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${suffix}.md`;
+        console.log(`[DEBUG] Attempting to load: ${url}`);
 
         let response = await fetch(url);
 
         if (!response.ok) {
             console.warn(`${edition} version not found, falling back to original.`);
             url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}.md`;
+            console.log(`[DEBUG] Fallback attempt: ${url}`);
             response = await fetch(url);
         }
 
         if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
+            throw new Error(`HTTP error! status: ${response.status} for URL: ${url}`);
         }
 
         let md = await response.text();

@@ -26,7 +26,13 @@ async function initReader(bookPath, chapterId, edition) {
             metadataUrl = `${BASE_URL}${bookPath}/metadata.json?t=${Date.now()}`;
         }
         
-        const bookMeta = (await fetch(metadataUrl).then(r => r.json()))[0];
+        console.log(`[DEBUG] initReader: loading metadata from ${metadataUrl}`);
+        const response = await fetch(metadataUrl);
+        if (!response.ok) throw new Error(`Metadata fetch failed: ${response.status}`);
+        const data = await response.json();
+        const bookMeta = data[0];
+        console.log(`[DEBUG] initReader: metadata loaded:`, bookMeta);
+
         document.getElementById('book-title').textContent = bookMeta.title;
 
         // --- Track Recently Opened ---
@@ -137,6 +143,8 @@ async function renderInternalTOC(bookPath, chapterId, metaSuffix) {
         if (parts.length >= 2) {
             parentFolder = parts[0] + '-' + parts[1];
         }
+
+        console.log(`[DEBUG] chapterId: ${chapterId}, parentFolder: ${parentFolder}`);
 
         // Check if we're running on GitHub Pages
         const isGitHubPages = window.location.hostname.includes('github.io');
