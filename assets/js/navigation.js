@@ -81,13 +81,19 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
         const id = ch.file.replace('.md', '');
         const hasSubchapters = ch.subchapters && ch.subchapters.length > 0;
         const isActive = id === chapterId || (ch.subchapters && ch.subchapters.some(sub => sub.file.replace('.md', '') === chapterId));
+        
+        // Локализация названия
+        let title = ch.title;
+        if (edition === 'russian' && ch.russian) {
+            title = ch.russian;
+        }
 
         // Главная глава
         html += `<div class="chapter-item ${isActive && !hasSubchapters ? 'active' : ''} ${hasSubchapters ? 'has-subchapters' : ''}" data-chapter-id="${id}">`;
         if (hasSubchapters) {
             html += `<span class="chapter-toggle">▶</span>`;
         }
-        html += `${ch.title}</div>`;
+        html += `${title}</div>`;
 
         // Подглавы (если есть)
         if (hasSubchapters) {
@@ -96,8 +102,15 @@ function renderChapterList(bookMeta, bookPath, chapterId, edition) {
             ch.subchapters.forEach(sub => {
                 const subId = sub.file.replace('.md', '');
                 const isSubActive = subId === chapterId;
+                
+                // Локализация названия подглавы
+                let subTitle = sub.title;
+                if (edition === 'russian' && sub.russian) {
+                    subTitle = sub.russian;
+                }
+                
                 html += `<div class="chapter-item subchapter ${isSubActive ? 'active' : ''}" data-chapter-id="${subId}" data-parent-id="${id}">`;
-                html += `↳ ${sub.title}</div>`;
+                html += `↳ ${subTitle}</div>`;
             });
             html += `</div>`;
         }
