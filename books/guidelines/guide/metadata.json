@@ -1,6 +1,7 @@
 [
   {
     "title": "Guidelines AHA and ESC",
+    "russian_title": "Рекомендации AHA и ESC",
     "cover_image": "cover.jpg",
     "category": [
       "cardiac surgery"
@@ -31,31 +32,38 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "🇪🇺 Valve 2025 ESC/EACTS"
+        "title": "🇪🇺 Valve 2025 ESC/EACTS",
+        "russian": "🇪🇺 Клапанные пороки 2025 ESC/EACTS"
       },
       {
         "file": "chapter-02.md",
-        "title": "🇪🇺 Myocardial revascularization 2018 ESC/EACTS"
+        "title": "🇪🇺 Myocardial revascularization 2018 ESC/EACTS",
+        "russian": "🇪🇺 Реваскуляризация миокарда 2018 ESC/EACTS"
       },
       {
         "file": "chapter-03.md",
-        "title": "🇪🇺 Endocarditis 2023 ESC/EACTS"
+        "title": "🇪🇺 Endocarditis 2023 ESC/EACTS",
+        "russian": "🇪🇺 Эндокардит 2023 ESC/EACTS"
       },
       {
         "file": "chapter-04.md",
-        "title": "🇪🇺 Congenital heart disease 2020 ESC/EACTS"
+        "title": "🇪🇺 Congenital heart disease 2020 ESC/EACTS",
+        "russian": "🇪🇺 Врожденные пороки сердца 2020 ESC/EACTS"
       },
       {
         "file": "chapter-05.md",
-        "title": "🇪🇺 Cardiomyopathies 2023 ESC/EACTS"
+        "title": "🇪🇺 Cardiomyopathies 2023 ESC/EACTS",
+        "russian": "🇪🇺 Кардиомиопатии 2023 ESC/EACTS"
       },
       {
         "file": "chapter-06.md",
-        "title": "🇪🇺 Acute coronary syndrome 2023 ESC/EACTS"
+        "title": "🇪🇺 Acute coronary syndrome 2023 ESC/EACTS",
+        "russian": "🇪🇺 Острый коронарный синдром 2023 ESC/EACTS"
       },
       {
         "file": "chapter-07.md",
-        "title": "🇪🇺 Chronic coronary syndrome 2024 ESC/EACTS"
+        "title": "🇪🇺 Chronic coronary syndrome 2024 ESC/EACTS",
+        "russian": "🇪🇺 Хронический коронарный синдром 2024 ESC/EACTS"
       }
     ],
     "appendices": []

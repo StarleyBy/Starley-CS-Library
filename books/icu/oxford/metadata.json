@@ -1,139 +1,180 @@
 [
   {
-    "title": "Oxford Cardiothotacic critical care",
+    "title": "Oxford Cardiothotatic critical care",
+    "russian_title": "Оксфордское руководство по кардиоторакальной реанимации и интенсивной терапии",
     "cover_image": "cover.jpg",
     "category": [],
     "authors": [
       "Robyn Smith, Mike Higgins, Alistair Macfie"
     ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "1. The normal postoperative cardiac patient"
+        "title": "1. The normal postoperative cardiac patient",
+        "russian": "1. Нормальный послеоперационный кардиологический пациент"
       },
       {
         "file": "chapter-02.md",
-        "title": "2. Risk prediction and outcome"
+        "title": "2. Risk prediction and outcome",
+        "russian": "2. Прогнозирование риска и исходы"
       },
       {
         "file": "chapter-03.md",
-        "title": "3. Fast-tracking the low-risk patient"
+        "title": "3. Fast-tracking the low-risk patient",
+        "russian": "3. Ускоренное ведение пациента с низким риском"
       },
       {
         "file": "chapter-04.md",
-        "title": "4. Resuscitation in the cardiac intensive care setting"
+        "title": "4. Resuscitation in the cardiac intensive care setting",
+        "russian": "4. Реанимация в условиях кардиореанимации"
       },
       {
         "file": "chapter-05.md",
-        "title": "5. Myocardial ischaemia and infarction"
+        "title": "5. Myocardial ischaemia and infarction",
+        "russian": "5. Ишемия миокарда и инфаркт"
       },
       {
         "file": "chapter-06.md",
-        "title": "6. Bleeding management"
+        "title": "6. Bleeding management",
+        "russian": "6. Ведение кровотечения"
       },
       {
         "file": "chapter-07.md",
-        "title": "7. Postoperative hypotension"
+        "title": "7. Postoperative hypotension",
+        "russian": "7. Послеоперационная гипотензия"
       },
       {
         "file": "chapter-08.md",
-        "title": "8. Glucose, lactate, and acid–base"
+        "title": "8. Glucose, lactate, and acid–base",
+        "russian": "8. Глюкоза, лактат и кислотно-основное состояние"
       },
       {
         "file": "chapter-09.md",
-        "title": "9. Postoperative medications"
+        "title": "9. Postoperative medications",
+        "russian": "9. Послеоперационная медикаментозная терапия"
       },
       {
         "file": "chapter-10.md",
-        "title": "10. Information handover and care planning"
+        "title": "10. Information handover and care planning",
+        "russian": "10. Передача информации и планирование лечения"
       },
       {
         "file": "chapter-11.md",
-        "title": "11. Heart"
+        "title": "11. Heart",
+        "russian": "11. Сердце"
       },
       {
         "file": "chapter-12.md",
-        "title": "12. Lung"
+        "title": "12. Lung",
+        "russian": "12. Легкие"
       },
       {
         "file": "chapter-13.md",
-        "title": "13. Kidney"
+        "title": "13. Kidney",
+        "russian": "13. Почки"
       },
       {
         "file": "chapter-14.md",
-        "title": "14. Gastrointestinal"
+        "title": "14. Gastrointestinal",
+        "russian": "14. Желудочно-кишечный тракт"
       },
       {
         "file": "chapter-15.md",
-        "title": "15. Nervous system"
+        "title": "15. Nervous system",
+        "russian": "15. Нервная система"
       },
       {
         "file": "chapter-16.md",
-        "title": "16. Immune system"
+        "title": "16. Immune system",
+        "russian": "16. Иммунная система"
       },
       {
         "file": "chapter-17.md",
-        "title": "17. Haematology"
+        "title": "17. Haematology",
+        "russian": "17. Гематология"
       },
       {
         "file": "chapter-18.md",
-        "title": "18. The thoracic patient"
+        "title": "18. The thoracic patient",
+        "russian": "18. Торакальный пациент"
       },
       {
         "file": "chapter-19.md",
-        "title": "19. The adult patient with congenital heart disease"
+        "title": "19. The adult patient with congenital heart disease",
+        "russian": "19. Взрослый пациент с врожденным пороком сердца"
       },
       {
         "file": "chapter-20.md",
-        "title": "20. The obstetric patient with cardiac disease"
+        "title": "20. The obstetric patient with cardiac disease",
+        "russian": "20. Акушерская пациентка с сердечно-сосудистыми заболеваниями"
       },
       {
         "file": "chapter-21.md",
-        "title": "21. Heart failure resistant to standard medical therapy"
+        "title": "21. Heart failure resistant to standard medical therapy",
+        "russian": "21. Сердечная недостаточность, рефрактерная к стандартной медикаментозной терапии"
       },
       {
         "file": "chapter-22.md",
-        "title": "22. The transplant patient"
+        "title": "22. The transplant patient",
+        "russian": "22. Трансплантированный пациент"
       },
       {
         "file": "chapter-23.md",
-        "title": "23. Acute cardiology"
+        "title": "23. Acute cardiology",
+        "russian": "23. Неотложная кардиология"
       },
       {
         "file": "chapter-24.md",
-        "title": "24. Central venous cannulation, pulmonary artery catheter, and minimally invasive cardiac output monitoring"
+        "title": "24. Central venous cannulation, pulmonary artery catheter, and minimally invasive cardiac output monitoring",
+        "russian": "24. Катетеризация центральной вены, катетер легочной артерии и минимально инвазивный мониторинг сердечного выброса"
       },
       {
         "file": "chapter-25.md",
-        "title": "25. Airway management"
+        "title": "25. Airway management",
+        "russian": "25. Ведение дыхательных путей"
       },
       {
         "file": "chapter-26.md",
-        "title": "26. Respiratory management"
+        "title": "26. Respiratory management",
+        "russian": "26. Респираторная поддержка"
       },
       {
         "file": "chapter-27.md",
-        "title": "27. Circulatory support"
+        "title": "27. Circulatory support",
+        "russian": "27. Поддержка кровообращения"
       },
       {
         "file": "chapter-28.md",
-        "title": "28. Epicardial pacing"
+        "title": "28. Epicardial pacing",
+        "russian": "28. Эпикардиальная электрокардиостимуляция"
       },
       {
         "file": "chapter-29.md",
-        "title": "29. Sedation and pain relief"
+        "title": "29. Sedation and pain relief",
+        "russian": "29. Седация и обезболивание"
       },
       {
         "file": "chapter-30.md",
-        "title": "30. Wound management"
+        "title": "30. Wound management",
+        "russian": "30. Ведение ран"
       },
       {
         "file": "chapter-31.md",
-        "title": "31. Infection control and prevention"
+        "title": "31. Infection control and prevention",
+        "russian": "31. Контроль инфекций и профилактика"
       },
       {
         "file": "chapter-32.md",
-        "title": "32. Bedside echocardiography"
+        "title": "32. Bedside echocardiography",
+        "russian": "32. Эхокардиография у постели больного"
       }
     ],
     "appendices": []

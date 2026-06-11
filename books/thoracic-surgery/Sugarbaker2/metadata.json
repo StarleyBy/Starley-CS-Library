@@ -1,6 +1,7 @@
 [
   {
     "title": "Adult Chest Surgery, Sugarbaker, 2th edition",
+    "russian_title": "Торакальная хирургия взрослых, Сагрбейкер, 2-е издание",
     "cover_image": "cover.jpg",
     "category": [
       "thoracic surgery"
@@ -8,6 +9,8 @@
     "authors": [
       "David J. Sugarbaker, Md"
     ],
+    "magazine": false,
+    "quiz": false,
     "versions": {
       "original": true,
       "russian": true,
@@ -17,107 +20,133 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "1. OVERAll CARE"
+        "title": "1. OVERAll CARE",
+        "russian": "1. Общее ведение"
       },
       {
         "file": "chapter-02.md",
-        "title": "2. ESOPHAGEAL AND PROXIMAL STOMACH MALIGNANCY"
+        "title": "2. ESOPHAGEAL AND PROXIMAL STOMACH MALIGNANCY",
+        "russian": "2. Злокачественные новообразования пищевода и проксимального отдела желудка"
       },
       {
         "file": "chapter-03.md",
-        "title": "3. RESECTION TECHNIQUES FOR BENIGN ESOPHAGEAL DISEASE"
+        "title": "3. RESECTION TECHNIQUES FOR BENIGN ESOPHAGEAL DISEASE",
+        "russian": "3. Техника резекции при доброкачественных заболеваниях пищевода"
       },
       {
         "file": "chapter-04.md",
-        "title": "4. ACHALASIA AND ESOPHAGEAL MOTILITY DISORDERS"
+        "title": "4. ACHALASIA AND ESOPHAGEAL MOTILITY DISORDERS",
+        "russian": "4. Ахалазия и нарушения моторики пищевода"
       },
       {
         "file": "chapter-05.md",
-        "title": "5. ESOPHAGEAL REFLUX DISORDERS"
+        "title": "5. ESOPHAGEAL REFLUX DISORDERS",
+        "russian": "5. Гастроэзофагеальная рефлюксная болезнь"
       },
       {
         "file": "chapter-06.md",
-        "title": "6. ESOPHAGEAL TRAUMA"
+        "title": "6. ESOPHAGEAL TRAUMA",
+        "russian": "6. Травмы пищевода"
       },
       {
         "file": "chapter-07.md",
-        "title": "7. CONGENITAL ESOPHAGEAL SURGERY"
+        "title": "7. CONGENITAL ESOPHAGEAL SURGERY",
+        "russian": "7. Врожденные заболевания пищевода"
       },
       {
         "file": "chapter-08.md",
-        "title": "8. BENIGN UPPER AIRWAYS CONDITIONS"
+        "title": "8. BENIGN UPPER AIRWAYS CONDITIONS",
+        "russian": "8. Доброкачественные заболевания верхних дыхательных путей"
       },
       {
         "file": "chapter-09.md",
-        "title": "9. CANCER OF THE UPPER AIRWAYS"
+        "title": "9. CANCER OF THE UPPER AIRWAYS",
+        "russian": "9. Рак верхних дыхательных путей"
       },
       {
         "file": "chapter-10.md",
-        "title": "10. LUNG CANCER OVERVIEW AND PATHOLOGY"
+        "title": "10. LUNG CANCER OVERVIEW AND PATHOLOGY",
+        "russian": "10. Обзор рака легкого и патология"
       },
       {
         "file": "chapter-11.md",
-        "title": "11. STANDART PULMONARY RESECTIONS"
+        "title": "11. STANDART PULMONARY RESECTIONS",
+        "russian": "11. Стандартные резекции легкого"
       },
       {
         "file": "chapter-12.md",
-        "title": "12. EXTENDED PULMONARY RESECTIONS"
+        "title": "12. EXTENDED PULMONARY RESECTIONS",
+        "russian": "12. Расширенные резекции легкого"
       },
       {
         "file": "chapter-13.md",
-        "title": "13. COMPLICATIONS OF PULMONARY RESECTION"
+        "title": "13. COMPLICATIONS OF PULMONARY RESECTION",
+        "russian": "13. Осложнения резекции легкого"
       },
       {
         "file": "chapter-14.md",
-        "title": "14. NONOPERATIVE TREATMENTS FOR LUNG CANCER"
+        "title": "14. NONOPERATIVE TREATMENTS FOR LUNG CANCER",
+        "russian": "14. Нехирургические методы лечения рака легкого"
       },
       {
         "file": "chapter-15.md",
-        "title": "15. MULTIMODALITY MANAGEMENT OF NON–SMALL-CELL LUNG CANCER"
+        "title": "15. MULTIMODALITY MANAGEMENT OF NON–SMALL-CELL LUNG CANCER",
+        "russian": "15. Мультимодальное лечение немелкоклеточного рака легкого"
       },
       {
         "file": "chapter-16.md",
-        "title": "16. BENIGN LUNG DISEASE"
+        "title": "16. BENIGN LUNG DISEASE",
+        "russian": "16. Доброкачественные заболевания легких"
       },
       {
         "file": "chapter-17.md",
-        "title": "17. CHRONIC OBSTRUCTIVE PULMONARY DISEASE"
+        "title": "17. CHRONIC OBSTRUCTIVE PULMONARY DISEASE",
+        "russian": "17. Хроническая обструктивная болезнь легких"
       },
       {
         "file": "chapter-18.md",
-        "title": "18. LUNG INFECTION"
+        "title": "18. LUNG INFECTION",
+        "russian": "18. Инфекции легких"
       },
       {
         "file": "chapter-19.md",
-        "title": "19. LUNG TRANSPLANTATION"
+        "title": "19. LUNG TRANSPLANTATION",
+        "russian": "19. Трансплантация легких"
       },
       {
         "file": "chapter-20.md",
-        "title": "20. PLEURAL MALIGNANCY"
+        "title": "20. PLEURAL MALIGNANCY",
+        "russian": "20. Злокачественные заболевания плевры"
       },
       {
         "file": "chapter-21.md",
-        "title": "21. BENIGN PLEURAL CONDITIONS"
+        "title": "21. BENIGN PLEURAL CONDITIONS",
+        "russian": "21. Доброкачественные заболевания плевры"
       },
       {
         "file": "chapter-22.md",
-        "title": "22. CHEST WALL AND STERNAL TUMORS"
+        "title": "22. CHEST WALL AND STERNAL TUMORS",
+        "russian": "22. Опухоли грудной стенки и грудины"
       },
       {
         "file": "chapter-23.md",
-        "title": "23. BENIGN CHEST WALL CONDITIONS"
+        "title": "23. BENIGN CHEST WALL CONDITIONS",
+        "russian": "23. Доброкачественные заболевания грудной стенки"
       },
       {
         "file": "chapter-24.md",
-        "title": "24. DIAPHRAGM"
+        "title": "24. DIAPHRAGM",
+        "russian": "24. Диафрагма"
       },
       {
         "file": "chapter-25.md",
-        "title": "25. MEDIASTINAL DISEASES, BENIGN OR MALIGNANT"
+        "title": "25. MEDIASTINAL DISEASES, BENIGN OR MALIGNANT",
+        "russian": "25. Заболевания средостения, доброкачественные и злокачественные"
       },
       {
         "file": "chapter-26.md",
-        "title": "26. NEW HORIZONS"
+        "title": "26. NEW HORIZONS",
+        "russian": "26. Новые горизонты"
       }
     ],
     "appendices": []

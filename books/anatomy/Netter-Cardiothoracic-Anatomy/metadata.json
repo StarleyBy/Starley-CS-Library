@@ -1,6 +1,7 @@
 [
   {
     "title": "NETTER’S Correlative Imaging: Cardiothoracic Anatomy, First edition",
+    "russian_title": "Корреляционная визуализация Неттера: кардиоторакальная анатомия, первое издание",
     "cover_image": "cover.jpg",
     "category": [
       "cardiac surgery",
@@ -9,6 +10,8 @@
     "authors": [
       "MICHAEL B. GOTWAY, MD, FRANK H. NETTER, MD"
     ],
+    "magazine": false,
+    "quiz": false,
     "versions": {
       "original": true,
       "russian": true,
@@ -18,39 +21,48 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "1. OVERVIEW OF THORACIC ANATOMY"
+        "title": "1. OVERVIEW OF THORACIC ANATOMY",
+        "russian": "1. Обзор анатомии грудной клетки"
       },
       {
         "file": "chapter-02.md",
-        "title": "2. THORACIC SOFT TISSUE AND LUNG"
+        "title": "2. THORACIC SOFT TISSUE AND LUNG",
+        "russian": "2. Мягкие ткани грудной клетки и легкие"
       },
       {
         "file": "chapter-03.md",
-        "title": "3. PULMONARY ANATOMY AND VARIANTS"
+        "title": "3. PULMONARY ANATOMY AND VARIANTS",
+        "russian": "3. Анатомия легких и варианты строения"
       },
       {
         "file": "chapter-04.md",
-        "title": "4. THORACIC LYMPH NODES"
+        "title": "4. THORACIC LYMPH NODES",
+        "russian": "4. Лимфатические узлы грудной клетки"
       },
       {
         "file": "chapter-05.md",
-        "title": "5. CISTERNA CHYLI AND THORACIC DUCT"
+        "title": "5. CISTERNA CHYLI AND THORACIC DUCT",
+        "russian": "5. Грудной проток и млечная цистерна"
       },
       {
         "file": "chapter-06.md",
-        "title": "6. VENOUS ANATOMY AND VARIANTS"
+        "title": "6. VENOUS ANATOMY AND VARIANTS",
+        "russian": "6. Венозная анатомия и варианты строения"
       },
       {
         "file": "chapter-07.md",
-        "title": "7. OVERVIEW OF CARDIAC ANATOMY"
+        "title": "7. OVERVIEW OF CARDIAC ANATOMY",
+        "russian": "7. Обзор анатомии сердца"
       },
       {
         "file": "chapter-08.md",
-        "title": "8. CARDIAC ANATOMY USING CT"
+        "title": "8. CARDIAC ANATOMY USING CT",
+        "russian": "8. Анатомия сердца при компьютерной томографии (КТ)"
       },
       {
         "file": "chapter-09.md",
-        "title": "9. CARDIAC ANATOMY USING MR"
+        "title": "9. CARDIAC ANATOMY USING MR",
+        "russian": "9. Анатомия сердца при магнитно-резонансной томографии (МРТ)"
       }
     ],
     "appendices": []

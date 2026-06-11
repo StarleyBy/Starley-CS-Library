@@ -1,31 +1,55 @@
-[{
-  "title": "Sub-Chapters Guide - How to Use Nested Chapters",
-  "cover_image": "cover.jpg",
-  "category": ["documentation"],
-  "authors": ["Starley Documentation Team"],
-  "versions": {
-    "original": true,
-    "russian": false,
-    "starley": false,
-    "hebrew": false
-  },
-  "chapters": [
-    {
-      "file": "chapter-01.md",
-      "title": "1. Introduction to Sub-Chapters"
+[
+  {
+    "title": "Guidlines for CS Library`s admin",
+    "russian_title": "Руководство для администратора библиотеки КХО",
+    "cover_image": "cover.jpg",
+    "category": [
+      "documentation"
+    ],
+    "authors": [
+      "Starley Documentation Team"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
     },
-    {
-      "file": "chapter-02.md",
-      "title": "2. Sub-Chapter Implementation Guide",
-      "subchapters": [
-        { "file": "chapter-02-01.md", "title": "2.1 How Sub-Chapters Work" },
-        { "file": "chapter-02-02.md", "title": "2.2 Manifest Examples" },
-        { "file": "chapter-02-03.md", "title": "2.3 Best Practices" }
-      ]
-    },
-    {
-      "file": "chapter-03.md",
-      "title": "3. Combain"
-    }
-  ]
-}]
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Medical cases inspection TIMUROT",
+        "russian": "1. Проверка медицинских случаев TIMUROT"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Sub-Chapter Implementation Guide",
+        "russian": "2. Руководство по реализации подглав",
+        "subchapters": [
+          {
+            "file": "chapter-02-01.md",
+            "title": "2.1 How Sub-Chapters Work",
+            "russian": "2.1 Как работают подглавы"
+          },
+          {
+            "file": "chapter-02-02.md",
+            "title": "2.2 Manifest Examples",
+            "russian": "2.2 Примеры манифестов"
+          },
+          {
+            "file": "chapter-02-03.md",
+            "title": "2.3 Best Practices",
+            "russian": "2.3 Лучшие практики"
+          }
+        ]
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Combain",
+        "russian": "3. Объединение"
+      }
+    ]
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "title": "ECG Interpretation for Everyone",
+    "russian_title": "Интерпретация ЭКГ для всех",
     "cover_image": "cover.jpg",
     "category": [
       "ecg"
@@ -8,6 +9,8 @@
     "authors": [
       "Fred Kusumoto MD, Pam Bernath RN, RN-C"
     ],
+    "magazine": false,
+    "quiz": false,
     "versions": {
       "original": false,
       "russian": false,
@@ -17,63 +20,78 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "1. Technical Issues"
+        "title": "1. Technical Issues",
+        "russian": "1. Технические аспекты"
       },
       {
         "file": "chapter-02.md",
-        "title": "2. The Normal ECG"
+        "title": "2. The Normal ECG",
+        "russian": "2. Нормальная ЭКГ"
       },
       {
         "file": "chapter-03.md",
-        "title": "3. ECG Interpretation Basics"
+        "title": "3. ECG Interpretation Basics",
+        "russian": "3. Основы интерпретации ЭКГ"
       },
       {
         "file": "chapter-04.md",
-        "title": "4. Abnormal Repolarization: ST Segment Elevation"
+        "title": "4. Abnormal Repolarization: ST Segment Elevation",
+        "russian": "4. Патологическая реполяризация: подъем сегмента ST"
       },
       {
         "file": "chapter-05.md",
-        "title": "5. Abnormal Repolarization: ST Segment Depression"
+        "title": "5. Abnormal Repolarization: ST Segment Depression",
+        "russian": "5. Патологическая реполяризация: депрессия сегмента ST"
       },
       {
         "file": "chapter-06.md",
-        "title": "6. Abnormal Repolarization: T Wave Changes and the QT Interval"
+        "title": "6. Abnormal Repolarization: T Wave Changes and the QT Interval",
+        "russian": "6. Патологическая реполяризация: изменения зубца T и интервал QT"
       },
       {
         "file": "chapter-07.md",
-        "title": "7. Abnormal Depolarization: A Prominent R Wave in V1"
+        "title": "7. Abnormal Depolarization: A Prominent R Wave in V1",
+        "russian": "7. Патологическая деполяризация: высокий зубец R в V1"
       },
       {
         "file": "chapter-08.md",
-        "title": "8. Abnormal Depolarization: Wide QRS Complexes and Other Depolarization Abnormalities"
+        "title": "8. Abnormal Depolarization: Wide QRS Complexes and Other Depolarization Abnormalities",
+        "russian": "8. Патологическая деполяризация: широкие комплексы QRS и другие нарушения деполяризации"
       },
       {
         "file": "chapter-09.md",
-        "title": "9. Arrhythmias: Normal Rates and Skips"
+        "title": "9. Arrhythmias: Normal Rates and Skips",
+        "russian": "9. Аритмии: нормальный ритм и выпадения"
       },
       {
         "file": "chapter-10.md",
-        "title": "10. Arrhythmias: Bradycardia"
+        "title": "10. Arrhythmias: Bradycardia",
+        "russian": "10. Аритмии: брадикардия"
       },
       {
         "file": "chapter-11.md",
-        "title": "11. Arrhythmias: Tachycardia"
+        "title": "11. Arrhythmias: Tachycardia",
+        "russian": "11. Аритмии: тахикардия"
       },
       {
         "file": "chapter-12.md",
-        "title": "12. Arrhythmias: Pacing"
+        "title": "12. Arrhythmias: Pacing",
+        "russian": "12. Аритмии: электрокардиостимуляция"
       },
       {
         "file": "chapter-13.md",
-        "title": "13. Clinical Use of the ECG: Stress Testing"
+        "title": "13. Clinical Use of the ECG: Stress Testing",
+        "russian": "13. Клиническое применение ЭКГ: стресс-тестирование"
       },
       {
         "file": "chapter-14.md",
-        "title": "14. Clinical Use of the ECG: Clinical Problems"
+        "title": "14. Clinical Use of the ECG: Clinical Problems",
+        "russian": "14. Клиническое применение ЭКГ: клинические проблемы"
       },
       {
         "file": "chapter-Appendix 1.md",
-        "title": "Appendix 1. Appendices"
+        "title": "Appendix 1. Appendices",
+        "russian": "Приложение 1. Приложения"
       }
     ],
     "appendices": []

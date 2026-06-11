@@ -1,6 +1,7 @@
 [
   {
     "title": "Handbook of Cardiac Anatomy, Physiology, Fourth Edition",
+    "russian_title": "Справочник по анатомии и физиологии сердца, четвертое издание",
     "cover_image": "cover.jpg",
     "category": [
       "cardiac anatomy",
@@ -9,6 +10,8 @@
     "authors": [
       "Paul A. Iaizzo"
     ],
+    "magazine": false,
+    "quiz": false,
     "versions": {
       "original": false,
       "russian": false,
@@ -18,107 +21,133 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "1. General Features of the Cardiovascular System"
+        "title": "1. General Features of the Cardiovascular System",
+        "russian": "1. Общие особенности сердечно-сосудистой системы"
       },
       {
         "file": "chapter-02.md",
-        "title": "2. Attitudinally Correct Cardiac Anatomy"
+        "title": "2. Attitudinally Correct Cardiac Anatomy",
+        "russian": "2. Анатомия сердца в правильной пространственной ориентации"
       },
       {
         "file": "chapter-03.md",
-        "title": "3. Anatomy of the Thoracic Wall, Pulmonary Cavities, and Mediastinum"
+        "title": "3. Anatomy of the Thoracic Wall, Pulmonary Cavities, and Mediastinum",
+        "russian": "3. Анатомия грудной стенки, легочных полостей и средостения"
       },
       {
         "file": "chapter-04.md",
-        "title": "4. Anatomy of the Human Heart"
+        "title": "4. Anatomy of the Human Heart",
+        "russian": "4. Анатомия сердца человека"
       },
       {
         "file": "chapter-05.md",
-        "title": "5. Cardiac Development"
+        "title": "5. Cardiac Development",
+        "russian": "5. Развитие сердца"
       },
       {
         "file": "chapter-06.md",
-        "title": "6. Cellular Myocytes"
+        "title": "6. Cellular Myocytes",
+        "russian": "6. Клеточные миоциты"
       },
       {
         "file": "chapter-07.md",
-        "title": "7. Fueling Normal and Diseased Hearts: Myocardial Bioenergetics"
+        "title": "7. Fueling Normal and Diseased Hearts: Myocardial Bioenergetics",
+        "russian": "7. Энергообеспечение здорового и больного сердца: биоэнергетика миокарда"
       },
       {
         "file": "chapter-08.md",
-        "title": "8. Cardiac and Vascular Receptors and Signal Transduction"
+        "title": "8. Cardiac and Vascular Receptors and Signal Transduction",
+        "russian": "8. Рецепторы сердца и сосудов и передача сигнала"
       },
       {
         "file": "chapter-09.md",
-        "title": "9. Detailed Anatomical and Functional Features of the Cardiac Valves"
+        "title": "9. Detailed Anatomical and Functional Features of the Cardiac Valves",
+        "russian": "9. Детальные анатомические и функциональные особенности клапанов сердца"
       },
       {
         "file": "chapter-10.md",
-        "title": "10. The Coronary Vascular System and Associated Anatomical Features"
+        "title": "10. The Coronary Vascular System and Associated Anatomical Features",
+        "russian": "10. Коронарная сосудистая система и связанные с ней анатомические особенности"
       },
       {
         "file": "chapter-11.md",
-        "title": "11. The Cardiac Conduction System"
+        "title": "11. The Cardiac Conduction System",
+        "russian": "11. Проводящая система сердца"
       },
       {
         "file": "chapter-12.md",
-        "title": "12. Autonomic Nervous System"
+        "title": "12. Autonomic Nervous System",
+        "russian": "12. Вегетативная нервная система"
       },
       {
         "file": "chapter-13.md",
-        "title": "13. The Pericardium"
+        "title": "13. The Pericardium",
+        "russian": "13. Перикард"
       },
       {
         "file": "chapter-14.md",
-        "title": "14. Comparative Cardiac Anatomy"
+        "title": "14. Comparative Cardiac Anatomy",
+        "russian": "14. Сравнительная анатомия сердца"
       },
       {
         "file": "chapter-15.md",
-        "title": "15. Congenital Cardiac Anatomy and Operative Correction"
+        "title": "15. Congenital Cardiac Anatomy and Operative Correction",
+        "russian": "15. Врожденная анатомия сердца и хирургическая коррекция"
       },
       {
         "file": "chapter-16.md",
-        "title": "16. Blood Pressure, Heart Tones, and Diagnoses"
+        "title": "16. Blood Pressure, Heart Tones, and Diagnoses",
+        "russian": "16. Артериальное давление, тоны сердца и диагностика"
       },
       {
         "file": "chapter-17.md",
-        "title": "17. Basic ECG Theory, 12-Lead Recordings and Their Interpretation"
+        "title": "17. Basic ECG Theory, 12-Lead Recordings and Their Interpretation",
+        "russian": "17. Основы теории ЭКГ, 12-канальные записи и их интерпретация"
       },
       {
         "file": "chapter-18.md",
-        "title": "18. Introduction to Echocardiography"
+        "title": "18. Introduction to Echocardiography",
+        "russian": "18. Введение в эхокардиографию"
       },
       {
         "file": "chapter-19.md",
-        "title": "19. Mechanical Aspects of Cardiac Performance"
+        "title": "19. Mechanical Aspects of Cardiac Performance",
+        "russian": "19. Механические аспекты работы сердца"
       },
       {
         "file": "chapter-20.md",
-        "title": "20. The Effects of Anesthetic Agents on Cardiac Function"
+        "title": "20. The Effects of Anesthetic Agents on Cardiac Function",
+        "russian": "20. Влияние анестетиков на функцию сердца"
       },
       {
         "file": "chapter-21.md",
-        "title": "21. Insertable Cardiac Monitoring"
+        "title": "21. Insertable Cardiac Monitoring",
+        "russian": "21. Имплантируемый кардиомониторинг"
       },
       {
         "file": "chapter-22.md",
-        "title": "22. Cardiac Mapping Technologies"
+        "title": "22. Cardiac Mapping Technologies",
+        "russian": "22. Технологии картирования сердца"
       },
       {
         "file": "chapter-23.md",
-        "title": "23. Multimodality Imaging in Congenital Heart Disease"
+        "title": "23. Multimodality Imaging in Congenital Heart Disease",
+        "russian": "23. Мультимодальная визуализация при врожденных пороках сердца"
       },
       {
         "file": "chapter-24.md",
-        "title": "24. Monitoring and Managing the Critically Ill Patient in the Intensive Care Unit"
+        "title": "24. Monitoring and Managing the Critically Ill Patient in the Intensive Care Unit",
+        "russian": "24. Мониторинг и ведение критически больного в отделении интенсивной терапии"
       },
       {
         "file": "chapter-25.md",
-        "title": "25. Cardiovascular Magnetic Resonance Imaging and MR-Conditional Cardiac Devices"
+        "title": "25. Cardiovascular Magnetic Resonance Imaging and MR-Conditional Cardiac Devices",
+        "russian": "25. Магнитно-резонансная томография сердечно-сосудистой системы и МР-совместимые кардиоустройства"
       },
       {
         "file": "chapter-26.md",
-        "title": "26. Reversible and Irreversible Damage of the Myocardium: Ischemia/Reperfusion Injury and Cardioprotection"
+        "title": "26. Reversible and Irreversible Damage of the Myocardium: Ischemia/Reperfusion Injury and Cardioprotection",
+        "russian": "26. Обратимое и необратимое повреждение миокарда: ишемически-реперфузионное повреждение и кардиопротекция"
       }
     ],
     "appendices": []

@@ -1,6 +1,7 @@
 [
   {
     "title": "Hursts The Heart, 14th edition",
+    "russian_title": "Сердце Херста, 14-е издание",
     "cover_image": "cover.jpg",
     "category": [
       "cardiology"
@@ -28,544 +29,672 @@
       {
         "file": "chapter-01.md",
         "title": "1. Section 1 Cardiovascular Disease: Past, Present, and Future",
+        "russian": "1. Раздел 1 Сердечно-сосудистые заболевания: прошлое, настоящее и будущее",
         "subchapters": [
           {
             "file": "chapter-01-01.md",
-            "title": "1.1. 1. A History of the Cardiac Diseases, and the Development of Cardiovascular Medicine as a Specialty"
+            "title": "1.1. 1. A History of the Cardiac Diseases, and the Development of Cardiovascular Medicine as a Specialty",
+            "russian": "1.1. 1. История болезней сердца и развитие кардиологии как специальности"
           },
           {
             "file": "chapter-01-02.md",
-            "title": "1.2. 2. The Global Burden of Cardiovascular Diseases"
+            "title": "1.2. 2. The Global Burden of Cardiovascular Diseases",
+            "russian": "1.2. 2. Глобальное бремя сердечно-сосудистых заболеваний"
           },
           {
             "file": "chapter-01-03.md",
-            "title": "1.3. 3. Assessing and Improving the Quality of Care in Cardiovascular Medicine"
+            "title": "1.3. 3. Assessing and Improving the Quality of Care in Cardiovascular Medicine",
+            "russian": "1.3. 3. Оценка и улучшение качества помощи в сердечно-сосудистой медицине"
           }
         ]
       },
       {
         "file": "chapter-02.md",
         "title": "2. Section 2 Foundations of Cardiovascular Medicine",
+        "russian": "2. Раздел 2 Основы сердечно-сосудистой медицины",
         "subchapters": [
           {
             "file": "chapter-02-01.md",
-            "title": "2.1. 4. Functional Anatomy of the Heart"
+            "title": "2.1. 4. Functional Anatomy of the Heart",
+            "russian": "2.1. 4. Функциональная анатомия сердца"
           },
           {
             "file": "chapter-02-02.md",
-            "title": "2.2. 5. Normal Physiology of the Cardiovascular System"
+            "title": "2.2. 5. Normal Physiology of the Cardiovascular System",
+            "russian": "2.2. 5. Нормальная физиология сердечно-сосудистой системы"
           },
           {
             "file": "chapter-02-03.md",
-            "title": "2.3. 6. Molecular and Cellular Biology of the Heart"
+            "title": "2.3. 6. Molecular and Cellular Biology of the Heart",
+            "russian": "2.3. 6. Молекулярная и клеточная биология сердца"
           },
           {
             "file": "chapter-02-04.md",
-            "title": "2.4. 7. Biology of the Vessel Wall"
+            "title": "2.4. 7. Biology of the Vessel Wall",
+            "russian": "2.4. 7. Биология сосудистой стенки"
           },
           {
             "file": "chapter-02-05.md",
-            "title": "2.5. 8. Molecular and Cellular Development of the Heart"
+            "title": "2.5. 8. Molecular and Cellular Development of the Heart",
+            "russian": "2.5. 8. Молекулярное и клеточное развитие сердца"
           },
           {
             "file": "chapter-02-06.md",
-            "title": "2.6. 9. Genetic Basis of Cardiovascular Disease"
+            "title": "2.6. 9. Genetic Basis of Cardiovascular Disease",
+            "russian": "2.6. 9. Генетическая основа сердечно-сосудистых заболеваний"
           },
           {
             "file": "chapter-02-07.md",
-            "title": "2.7. 10. Stem Cells and the Cardiovascular System"
+            "title": "2.7. 10. Stem Cells and the Cardiovascular System",
+            "russian": "2.7. 10. Стволовые клетки и сердечно-сосудистая система"
           }
         ]
       },
       {
         "file": "chapter-03.md",
         "title": "3. Section 3 Evaluation of the Patient",
+        "russian": "3. Раздел 3 Оценка состояния пациента",
         "subchapters": [
           {
             "file": "chapter-03-01.md",
-            "title": "3.1. 11. The History, Physical Examination, and Cardiac Auscultation"
+            "title": "3.1. 11. The History, Physical Examination, and Cardiac Auscultation",
+            "russian": "3.1. 11. Сбор анамнеза, физикальное обследование и аускультация сердца"
           },
           {
             "file": "chapter-03-02.md",
-            "title": "3.2. 12. Surface Electrocardiography"
+            "title": "3.2. 12. Surface Electrocardiography",
+            "russian": "3.2. 12. Поверхностная электрокардиография"
           },
           {
             "file": "chapter-03-03.md",
-            "title": "3.3. 13. Electrocardiographic Exercise Testing"
+            "title": "3.3. 13. Electrocardiographic Exercise Testing",
+            "russian": "3.3. 13. Электрокардиографическое тестирование с нагрузкой"
           },
           {
             "file": "chapter-03-04.md",
-            "title": "3.4. 14. Cardiac Radiography"
+            "title": "3.4. 14. Cardiac Radiography",
+            "russian": "3.4. 14. Рентгенография сердца"
           },
           {
             "file": "chapter-03-05.md",
-            "title": "3.5. 15. Echocardiography"
+            "title": "3.5. 15. Echocardiography",
+            "russian": "3.5. 15. Эхокардиография"
           },
           {
             "file": "chapter-03-06.md",
-            "title": "3.6. 16. Magnetic Resonance Imaging of the Heart"
+            "title": "3.6. 16. Magnetic Resonance Imaging of the Heart",
+            "russian": "3.6. 16. Магнитно-резонансная томография сердца"
           },
           {
             "file": "chapter-03-07.md",
-            "title": "3.7. 17. Computed Tomography of the Heart"
+            "title": "3.7. 17. Computed Tomography of the Heart",
+            "russian": "3.7. 17. Компьютерная томография сердца"
           },
           {
             "file": "chapter-03-08.md",
-            "title": "3.8. 18. Nuclear Cardiology"
+            "title": "3.8. 18. Nuclear Cardiology",
+            "russian": "3.8. 18. Ядерная кардиология"
           },
           {
             "file": "chapter-03-09.md",
-            "title": "3.9. 19. Positron Emission Tomography in Heart Disease"
+            "title": "3.9. 19. Positron Emission Tomography in Heart Disease",
+            "russian": "3.9. 19. Позитронно-эмиссионная томография при заболеваниях сердца"
           },
           {
             "file": "chapter-03-10.md",
-            "title": "3.10. 20. Cardiac Catheterization, Cardiac Angiography, and Coronary Blood Flow and Pressure Measurements"
+            "title": "3.10. 20. Cardiac Catheterization, Cardiac Angiography, and Coronary Blood Flow and Pressure Measurements",
+            "russian": "3.10. 20. Катетеризация сердца, коронарография и измерения коронарного кровотока и давления"
           },
           {
             "file": "chapter-03-11.md",
-            "title": "3.11. 21. Coronary Intravascular Imaging"
+            "title": "3.11. 21. Coronary Intravascular Imaging",
+            "russian": "3.11. 21. Внутрисосудистая визуализация коронарных артерий"
           },
           {
             "file": "chapter-03-12.md",
-            "title": "3.12. 22. Magnetic Resonance Imaging and Computed Tomography of the Vascular System"
+            "title": "3.12. 22. Magnetic Resonance Imaging and Computed Tomography of the Vascular System",
+            "russian": "3.12. 22. Магнитно-резонансная томография и компьютерная томография сосудистой системы"
           }
         ]
       },
       {
         "file": "chapter-04.md",
         "title": "4. Section 4 Systemic Arterial Hypertension",
+        "russian": "4. Раздел 4 Системная артериальная гипертензия",
         "subchapters": [
           {
             "file": "chapter-04-01.md",
-            "title": "4.1. 23. Epidemiology of Hypertension"
+            "title": "4.1. 23. Epidemiology of Hypertension",
+            "russian": "4.1. 23. Эпидемиология гипертензии"
           },
           {
             "file": "chapter-04-02.md",
-            "title": "4.2. 24. Pathophysiology of Hypertension"
+            "title": "4.2. 24. Pathophysiology of Hypertension",
+            "russian": "4.2. 24. Патофизиология гипертензии"
           },
           {
             "file": "chapter-04-03.md",
-            "title": "4.3. 25. Diagnosis and Treatment of Hypertension"
+            "title": "4.3. 25. Diagnosis and Treatment of Hypertension",
+            "russian": "4.3. 25. Диагностика и лечение гипертензии"
           }
         ]
       },
       {
         "file": "chapter-05.md",
         "title": "5. Section 5 Metabolic Disorders and Cardiovascular Disease",
+        "russian": "5. Раздел 5 Метаболические нарушения и сердечно-сосудистые заболевания",
         "subchapters": [
           {
             "file": "chapter-05-01.md",
-            "title": "5.1. 26. The Metabolic Syndrome"
+            "title": "5.1. 26. The Metabolic Syndrome",
+            "russian": "5.1. 26. Метаболический синдром"
           },
           {
             "file": "chapter-05-02.md",
-            "title": "5.2. 27. Obesity and Cardiovascular Disease"
+            "title": "5.2. 27. Obesity and Cardiovascular Disease",
+            "russian": "5.2. 27. Ожирение и сердечно-сосудистые заболевания"
           },
           {
             "file": "chapter-05-03.md",
-            "title": "5.3. 28. Diabetes and Cardiovascular Disease"
+            "title": "5.3. 28. Diabetes and Cardiovascular Disease",
+            "russian": "5.3. 28. Сахарный диабет и сердечно-сосудистые заболевания"
           },
           {
             "file": "chapter-05-04.md",
-            "title": "5.4. 29. Hyperlipidemia"
+            "title": "5.4. 29. Hyperlipidemia",
+            "russian": "5.4. 29. Гиперлипидемия"
           }
         ]
       },
       {
         "file": "chapter-06.md",
         "title": "6. Section 6 Cigarette Smoking and Cardiovascular Diseases",
+        "russian": "6. Раздел 6 Курение сигарет и сердечно-сосудистые заболевания",
         "subchapters": [
           {
             "file": "chapter-06-01.md",
-            "title": "6.1. 30. Epidemiology of Smoking and Pathophysiology of Cardiovascular Damage"
+            "title": "6.1. 30. Epidemiology of Smoking and Pathophysiology of Cardiovascular Damage",
+            "russian": "6.1. 30. Эпидемиология курения и патофизиология повреждения сердечно-сосудистой системы"
           },
           {
             "file": "chapter-06-02.md",
-            "title": "6.2. 31. Preventing and Mitigating Smoking-Related Heart Disease"
+            "title": "6.2. 31. Preventing and Mitigating Smoking-Related Heart Disease",
+            "russian": "6.2. 31. Профилактика и снижение риска сердечно-сосудистых заболеваний, связанных с курением"
           }
         ]
       },
       {
         "file": "chapter-07.md",
         "title": "7. Section 7 Atherosclerosis and Coronary Heart Disease",
+        "russian": "7. Раздел 7 Атеросклероз и ишемическая болезнь сердца",
         "subchapters": [
           {
             "file": "chapter-07-01.md",
-            "title": "7.1. 32. Atherothrombosis: Disease Burden, Activity, and Vulnerability"
+            "title": "7.1. 32. Atherothrombosis: Disease Burden, Activity, and Vulnerability",
+            "russian": "7.1. 32. Атеротромбоз: бремя болезни, активность и уязвимость"
           },
           {
             "file": "chapter-07-02.md",
-            "title": "7.2. 33. Coronary Thrombosis: Local and Systemic Factors"
+            "title": "7.2. 33. Coronary Thrombosis: Local and Systemic Factors",
+            "russian": "7.2. 33. Коронарный тромбоз: местные и системные факторы"
           },
           {
             "file": "chapter-07-03.md",
-            "title": "7.3. 34. Coronary Blood Flow and Myocardial Ischemia"
+            "title": "7.3. 34. Coronary Blood Flow and Myocardial Ischemia",
+            "russian": "7.3. 34. Коронарный кровоток и ишемия миокарда"
           },
           {
             "file": "chapter-07-04.md",
-            "title": "7.4. 35. Nonobstructive Atherosclerotic and Nonatherosclerotic Coronary Heart Disease"
+            "title": "7.4. 35. Nonobstructive Atherosclerotic and Nonatherosclerotic Coronary Heart Disease",
+            "russian": "7.4. 35. Необструктивный атеросклеротический и неатеросклеротический коронарный атеросклероз"
           },
           {
             "file": "chapter-07-05.md",
-            "title": "7.5. 36. Definitions of Acute Coronary Syndromes"
+            "title": "7.5. 36. Definitions of Acute Coronary Syndromes",
+            "russian": "7.5. 36. Определения острых коронарных синдромов"
           },
           {
             "file": "chapter-07-06.md",
-            "title": "7.6. 37. Pathology of Myocardial Infarction and Sudden Death"
+            "title": "7.6. 37. Pathology of Myocardial Infarction and Sudden Death",
+            "russian": "7.6. 37. Патология инфаркта миокарда и внезапной смерти"
           },
           {
             "file": "chapter-07-07.md",
-            "title": "7.7. 38. Molecular and Cellular Mechanisms of Myocardial Ischemia/Reperfusion Injury"
+            "title": "7.7. 38. Molecular and Cellular Mechanisms of Myocardial Ischemia/Reperfusion Injury",
+            "russian": "7.7. 38. Молекулярные и клеточные механизмы ишемии/реперфузии миокарда"
           },
           {
             "file": "chapter-07-08.md",
-            "title": "7.8. 39. Evaluation and Management of Non–ST-Segment Elevation Myocardial Infarction"
+            "title": "7.8. 39. Evaluation and Management of Non–ST-Segment Elevation Myocardial Infarction",
+            "russian": "7.8. 39. Оценка и ведение инфаркта миокарда без подъема сегмента ST"
           },
           {
             "file": "chapter-07-09.md",
-            "title": "7.9. 40. ST-Segment Elevation Myocardial Infarction"
+            "title": "7.9. 40. ST-Segment Elevation Myocardial Infarction",
+            "russian": "7.9. 40. Инфаркт миокарда с подъемом сегмента ST"
           },
           {
             "file": "chapter-07-10.md",
-            "title": "7.10. 41. Antiplatelet and Anticoagulant Therapy in Acute Coronary Syndromes"
+            "title": "7.10. 41. Antiplatelet and Anticoagulant Therapy in Acute Coronary Syndromes",
+            "russian": "7.10. 41. Антитромбоцитарная и антикоагулянтная терапия при острых коронарных синдромах"
           },
           {
             "file": "chapter-07-11.md",
-            "title": "7.11. 42. Percutaneous Coronary Interventions in Acute Myocardial Infarction and Acute Coronary Syndromes"
+            "title": "7.11. 42. Percutaneous Coronary Interventions in Acute Myocardial Infarction and Acute Coronary Syndromes",
+            "russian": "7.11. 42. Чрескожные коронарные вмешательства при остром инфаркте миокарда и острых коронарных синдромах"
           },
           {
             "file": "chapter-07-12.md",
-            "title": "7.12. 43. The Evaluation and Management of Stable Ischemic Heart Disease"
+            "title": "7.12. 43. The Evaluation and Management of Stable Ischemic Heart Disease",
+            "russian": "7.12. 43. Оценка и ведение стабильной ишемической болезни сердца"
           },
           {
             "file": "chapter-07-13.md",
-            "title": "7.13. 44. Coronary Artery Bypass Grafting and Percutaneous Interventions in Stable Ischemic Heart Disease"
+            "title": "7.13. 44. Coronary Artery Bypass Grafting and Percutaneous Interventions in Stable Ischemic Heart Disease",
+            "russian": "7.13. 44. Коронарное шунтирование и чрескожные вмешательства при стабильной ишемической болезни сердца"
           },
           {
             "file": "chapter-07-14.md",
-            "title": "7.14. 45. Rehabilitation of the Patient with Coronary Heart Disease"
+            "title": "7.14. 45. Rehabilitation of the Patient with Coronary Heart Disease",
+            "russian": "7.14. 45. Реабилитация пациента с ишемической болезнью сердца"
           }
         ]
       },
       {
         "file": "chapter-08.md",
         "title": "8. Section 8 Valvular Heart Disease",
+        "russian": "8. Раздел 8 Клапанные пороки сердца",
         "subchapters": [
           {
             "file": "chapter-08-01.md",
-            "title": "8.1. 46. Acute Rheumatic Fever"
+            "title": "8.1. 46. Acute Rheumatic Fever",
+            "russian": "8.1. 46. Острая ревматическая лихорадка"
           },
           {
             "file": "chapter-08-02.md",
-            "title": "8.2. 47. Aortic Valve Disease"
+            "title": "8.2. 47. Aortic Valve Disease",
+            "russian": "8.2. 47. Заболевания аортального клапана"
           },
           {
             "file": "chapter-08-03.md",
-            "title": "8.3. 48. Degenerative Mitral Valve Disease"
+            "title": "8.3. 48. Degenerative Mitral Valve Disease",
+            "russian": "8.3. 48. Дегенеративное поражение митрального клапана"
           },
           {
             "file": "chapter-08-04.md",
-            "title": "8.4. 49. Ischemic Mitral Regurgitation"
+            "title": "8.4. 49. Ischemic Mitral Regurgitation",
+            "russian": "8.4. 49. Ишемическая митральная недостаточность"
           },
           {
             "file": "chapter-08-05.md",
-            "title": "8.5. 50. Mitral Stenosis"
+            "title": "8.5. 50. Mitral Stenosis",
+            "russian": "8.5. 50. Митральный стеноз"
           },
           {
             "file": "chapter-08-06.md",
-            "title": "8.6. 51. Tricuspid and Pulmonary Valve Disease"
+            "title": "8.6. 51. Tricuspid and Pulmonary Valve Disease",
+            "russian": "8.6. 51. Заболевания трикуспидального и клапана легочной артерии"
           },
           {
             "file": "chapter-08-07.md",
-            "title": "8.7. 52. Prosthetic Heart Valves"
+            "title": "8.7. 52. Prosthetic Heart Valves",
+            "russian": "8.7. 52. Протезированные клапаны сердца"
           },
           {
             "file": "chapter-08-08.md",
-            "title": "8.8. 53. Antithrombotic Therapy for Valvular Heart Disease"
+            "title": "8.8. 53. Antithrombotic Therapy for Valvular Heart Disease",
+            "russian": "8.8. 53. Антитромботическая терапия при клапанных пороках сердца"
           },
           {
             "file": "chapter-08-09.md",
-            "title": "8.9. 54. Management of Mixed Valvular Heart Disease"
+            "title": "8.9. 54. Management of Mixed Valvular Heart Disease",
+            "russian": "8.9. 54. Ведение сочетанных клапанных пороков сердца"
           }
         ]
       },
       {
         "file": "chapter-09.md",
         "title": "9. Section 9 Congenital Heart Disease",
+        "russian": "9. Раздел 9 Врожденные пороки сердца",
         "subchapters": [
           {
             "file": "chapter-09-01.md",
-            "title": "9.1. 55. Mendelian Basis of Congenital and Other Cardiovascular Diseases"
+            "title": "9.1. 55. Mendelian Basis of Congenital and Other Cardiovascular Diseases",
+            "russian": "9.1. 55. Менделирующая основа врожденных и других сердечно-сосудистых заболеваний"
           },
           {
             "file": "chapter-09-02.md",
-            "title": "9.2. 56. Congenital Heart Disease in Adolescents and Adults"
+            "title": "9.2. 56. Congenital Heart Disease in Adolescents and Adults",
+            "russian": "9.2. 56. Врожденные пороки сердца у подростков и взрослых"
           }
         ]
       },
       {
         "file": "chapter-10.md",
         "title": "10. Section 10 Myocardial, Pericardial, and Endocardial Diseases",
+        "russian": "10. Раздел 10 Заболевания миокарда, перикарда и эндокарда",
         "subchapters": [
           {
             "file": "chapter-10-01.md",
-            "title": "10.1. 57.Classification of Cardiomyopathies"
+            "title": "10.1. 57.Classification of Cardiomyopathies",
+            "russian": "10.1. 57. Классификация кардиомиопатий"
           },
           {
             "file": "chapter-10-02.md",
-            "title": "10.2. 58. Dilated Cardiomyopathy"
+            "title": "10.2. 58. Dilated Cardiomyopathy",
+            "russian": "10.2. 58. Дилатационная кардиомиопатия"
           },
           {
             "file": "chapter-10-03.md",
-            "title": "10.3. 59. Hypertrophic Cardiomyopathies"
+            "title": "10.3. 59. Hypertrophic Cardiomyopathies",
+            "russian": "10.3. 59. Гипертрофические кардиомиопатии"
           },
           {
             "file": "chapter-10-04.md",
-            "title": "10.4. 60. Left Ventricular Noncompaction"
+            "title": "10.4. 60. Left Ventricular Noncompaction",
+            "russian": "10.4. 60. Некомпактный миокард левого желудочка"
           },
           {
             "file": "chapter-10-05.md",
-            "title": "10.5. 61. Restrictive Heart Diseases"
+            "title": "10.5. 61. Restrictive Heart Diseases",
+            "russian": "10.5. 61. Рестриктивные болезни сердца"
           },
           {
             "file": "chapter-10-06.md",
-            "title": "10.6. 62. Arrhythmogenic Cardiomyopathy"
+            "title": "10.6. 62. Arrhythmogenic Cardiomyopathy",
+            "russian": "10.6. 62. Аритмогенная кардиомиопатия"
           },
           {
             "file": "chapter-10-07.md",
-            "title": "10.7. 63. Myocarditis"
+            "title": "10.7. 63. Myocarditis",
+            "russian": "10.7. 63. Миокардит"
           },
           {
             "file": "chapter-10-08.md",
-            "title": "10.8. 64. The Athlete and the Cardiovascular System"
+            "title": "10.8. 64. The Athlete and the Cardiovascular System",
+            "russian": "10.8. 64. Спортсмен и сердечно-сосудистая система"
           },
           {
             "file": "chapter-10-09.md",
-            "title": "10.9. 65. Cardiovascular Disease in the Elderly: Pathophysiology and ClinicalImplications"
+            "title": "10.9. 65. Cardiovascular Disease in the Elderly: Pathophysiology and ClinicalImplications",
+            "russian": "10.9. 65. Сердечно-сосудистые заболевания у пожилых: патофизиология и клинические аспекты"
           },
           {
             "file": "chapter-10-10.md",
-            "title": "10.10. 66. Pericardial Diseases"
+            "title": "10.10. 66. Pericardial Diseases",
+            "russian": "10.10. 66. Заболевания перикарда"
           },
           {
             "file": "chapter-10-11.md",
-            "title": "10.11. 67. Infective Endocarditis"
+            "title": "10.11. 67. Infective Endocarditis",
+            "russian": "10.11. 67. Инфекционный эндокардит"
           }
         ]
       },
       {
         "file": "chapter-11.md",
         "title": "11. Section 11 Heart Failure",
+        "russian": "11. Раздел 11 Сердечная недостаточность",
         "subchapters": [
           {
             "file": "chapter-11-01.md",
-            "title": "11.1. 68. Pathophysiology of Heart Failure"
+            "title": "11.1. 68. Pathophysiology of Heart Failure",
+            "russian": "11.1. 68. Патофизиология сердечной недостаточности"
           },
           {
             "file": "chapter-11-02.md",
-            "title": "11.2. 69. The Epidemiology of Heart Failure"
+            "title": "11.2. 69. The Epidemiology of Heart Failure",
+            "russian": "11.2. 69. Эпидемиология сердечной недостаточности"
           },
           {
             "file": "chapter-11-03.md",
-            "title": "11.3. 70. The Diagnosis and Management of Chronic Heart Failure"
+            "title": "11.3. 70. The Diagnosis and Management of Chronic Heart Failure",
+            "russian": "11.3. 70. Диагностика и ведение хронической сердечной недостаточности"
           },
           {
             "file": "chapter-11-04.md",
-            "title": "11.4. 71. Evaluation and Management of Acute Heart Failure"
+            "title": "11.4. 71. Evaluation and Management of Acute Heart Failure",
+            "russian": "11.4. 71. Оценка и ведение острой сердечной недостаточности"
           },
           {
             "file": "chapter-11-05.md",
-            "title": "11.5. 72. Cardiac Transplantation"
+            "title": "11.5. 72. Cardiac Transplantation",
+            "russian": "11.5. 72. Трансплантация сердца"
           },
           {
             "file": "chapter-11-06.md",
-            "title": "11.6. 73. Mechanically Assisted Circulation"
+            "title": "11.6. 73. Mechanically Assisted Circulation",
+            "russian": "11.6. 73. Механическое вспомогательное кровообращение"
           }
         ]
       },
       {
         "file": "chapter-12.md",
         "title": "12. Section 12 Cardiopulmonary Disease",
+        "russian": "12. Раздел 12 Кардиопульмональные заболевания",
         "subchapters": [
           {
             "file": "chapter-12-01.md",
-            "title": "12.1. 74. Pulmonary Hypertension"
+            "title": "12.1. 74. Pulmonary Hypertension",
+            "russian": "12.1. 74. Легочная гипертензия"
           },
           {
             "file": "chapter-12-02.md",
-            "title": "12.2. 75. Pulmonary Embolism"
+            "title": "12.2. 75. Pulmonary Embolism",
+            "russian": "12.2. 75. Тромбоэмболия легочной артерии"
           },
           {
             "file": "chapter-12-03.md",
-            "title": "12.3. 76. Cor Pulmonale: The Heart in Parenchymal Lung Disease"
+            "title": "12.3. 76. Cor Pulmonale: The Heart in Parenchymal Lung Disease",
+            "russian": "12.3. 76. Легочное сердце: сердце при паренхиматозных заболеваниях легких"
           },
           {
             "file": "chapter-12-04.md",
-            "title": "12.4. 77. Sleep-Disordered Breathing and Cardiac Disease"
+            "title": "12.4. 77. Sleep-Disordered Breathing and Cardiac Disease",
+            "russian": "12.4. 77. Нарушения дыхания во сне и сердечные заболевания"
           }
         ]
       },
       {
         "file": "chapter-13.md",
         "title": "13. Section 13 Rhythm and Conduction Disorders",
+        "russian": "13. Раздел 13 Нарушения ритма и проводимости",
         "subchapters": [
           {
             "file": "chapter-13-01.md",
-            "title": "13.1. 78. Electrophysiologic Anatomy"
+            "title": "13.1. 78. Electrophysiologic Anatomy",
+            "russian": "13.1. 78. Электрофизиологическая анатомия"
           },
           {
             "file": "chapter-13-02.md",
-            "title": "13.2. 79. Mechanisms of Cardiac Arrhythmias and Conduction Disturbances"
+            "title": "13.2. 79. Mechanisms of Cardiac Arrhythmias and Conduction Disturbances",
+            "russian": "13.2. 79. Механизмы сердечных аритмий и нарушений проводимости"
           },
           {
             "file": "chapter-13-03.md",
-            "title": "13.3. 80. Genetics of Channelopathies and Clinical Implications"
+            "title": "13.3. 80. Genetics of Channelopathies and Clinical Implications",
+            "russian": "13.3. 80. Генетика каналопатий и клинические последствия"
           },
           {
             "file": "chapter-13-04.md",
-            "title": "13.4. 81. Approach to the Patient with Cardiac Arrhythmias"
+            "title": "13.4. 81. Approach to the Patient with Cardiac Arrhythmias",
+            "russian": "13.4. 81. Подход к пациенту с сердечными аритмиями"
           },
           {
             "file": "chapter-13-05.md",
-            "title": "13.5. 82. Invasive Diagnostic Electrophysiology"
+            "title": "13.5. 82. Invasive Diagnostic Electrophysiology",
+            "russian": "13.5. 82. Инвазивная диагностическая электрофизиология"
           },
           {
             "file": "chapter-13-06.md",
-            "title": "13.6. 83. Atrial Fibrillation, Atrial Flutter, and Atrial Tachycardia"
+            "title": "13.6. 83. Atrial Fibrillation, Atrial Flutter, and Atrial Tachycardia",
+            "russian": "13.6. 83. Фибрилляция предсердий, трепетание предсердий и предсердная тахикардия"
           },
           {
             "file": "chapter-13-07.md",
-            "title": "13.7. 84. Supraventricular Tachycardia: Atrial Tachycardia, Atrioventricular Nodal Reentry, and Wolff-Parkinson-White Syndrome"
+            "title": "13.7. 84. Supraventricular Tachycardia: Atrial Tachycardia, Atrioventricular Nodal Reentry, and Wolff-Parkinson-White Syndrome",
+            "russian": "13.7. 84. Наджелудочковая тахикардия: предсердная тахикардия, атриовентрикулярная узловая реентри и синдром Вольфа-Паркинсона-Уайта"
           },
           {
             "file": "chapter-13-08.md",
-            "title": "13.8. 85. Ventricular Arrhythmias"
+            "title": "13.8. 85. Ventricular Arrhythmias",
+            "russian": "13.8. 85. Желудочковые аритмии"
           },
           {
             "file": "chapter-13-09.md",
-            "title": "13.9. 86. Bradyarrhythmias"
+            "title": "13.9. 86. Bradyarrhythmias",
+            "russian": "13.9. 86. Брадиаритмии"
           },
           {
             "file": "chapter-13-10.md",
-            "title": "13.10. 87. Antiarrhythmic Drugs"
+            "title": "13.10. 87. Antiarrhythmic Drugs",
+            "russian": "13.10. 87. Антиаритмические препараты"
           },
           {
             "file": "chapter-13-11.md",
-            "title": "13.11. 88. Catheter-Ablative Techniques"
+            "title": "13.11. 88. Catheter-Ablative Techniques",
+            "russian": "13.11. 88. Катетерные абляционные методики"
           },
           {
             "file": "chapter-13-12.md",
-            "title": "13.12. 89. Pacemakers and Defibrillators"
+            "title": "13.12. 89. Pacemakers and Defibrillators",
+            "russian": "13.12. 89. Электрокардиостимуляторы и дефибрилляторы"
           },
           {
             "file": "chapter-13-13.md",
-            "title": "13.13. 90. Diagnosis and Management of Syncope"
+            "title": "13.13. 90. Diagnosis and Management of Syncope",
+            "russian": "13.13. 90. Диагностика и ведение синкопальных состояний"
           },
           {
             "file": "chapter-13-14.md",
-            "title": "13.14. 91. Sudden Cardiac Death"
+            "title": "13.14. 91. Sudden Cardiac Death",
+            "russian": "13.14. 91. Внезапная сердечная смерть"
           },
           {
             "file": "chapter-13-15.md",
-            "title": "13.15. 92. Cardiopulmonary and Cardiocerebral Resuscitation"
+            "title": "13.15. 92. Cardiopulmonary and Cardiocerebral Resuscitation",
+            "russian": "13.15. 92. Сердечно-легочная и сердечно-церебральная реанимация"
           }
         ]
       },
       {
         "file": "chapter-14.md",
         "title": "14. Section 14 Diseases of the Great Vessels and Peripheral Vessels",
+        "russian": "14. Раздел 14 Заболевания магистральных и периферических сосудов",
         "subchapters": [
           {
             "file": "chapter-14-01.md",
-            "title": "14.1. 93. Diseases of the Aorta"
+            "title": "14.1. 93. Diseases of the Aorta",
+            "russian": "14.1. 93. Заболевания аорты"
           },
           {
             "file": "chapter-14-02.md",
-            "title": "14.2. 94. Cerebrovascular Disease and Neurologic Manifestations of Heart Disease"
+            "title": "14.2. 94. Cerebrovascular Disease and Neurologic Manifestations of Heart Disease",
+            "russian": "14.2. 94. Цереброваскулярные заболевания и неврологические проявления болезней сердца"
           },
           {
             "file": "chapter-14-03.md",
-            "title": "14.3. 95. Carotid Artery Stenting"
+            "title": "14.3. 95. Carotid Artery Stenting",
+            "russian": "14.3. 95. Стентирование сонных артерий"
           },
           {
             "file": "chapter-14-04.md",
-            "title": "14.4. 96. Diagnosis and Management of Diseases of the Peripheral Arteries"
+            "title": "14.4. 96. Diagnosis and Management of Diseases of the Peripheral Arteries",
+            "russian": "14.4. 96. Диагностика и лечение заболеваний периферических артерий"
           },
           {
             "file": "chapter-14-05.md",
-            "title": "14.5. 97. Diagnosis and Management of Diseases of the Peripheral Venous System"
+            "title": "14.5. 97. Diagnosis and Management of Diseases of the Peripheral Venous System",
+            "russian": "14.5. 97. Диагностика и лечение заболеваний периферической венозной системы"
           }
         ]
       },
       {
         "file": "chapter-15.md",
         "title": "15. Section 15 Miscellaneous Conditions and Cardiovascular Disease",
+        "russian": "15. Раздел 15 Различные состояния и сердечно-сосудистые заболевания",
         "subchapters": [
           {
             "file": "chapter-15-01.md",
-            "title": "15.1. 98. Perioperative Evaluation for Noncardiac Surgery"
+            "title": "15.1. 98. Perioperative Evaluation for Noncardiac Surgery",
+            "russian": "15.1. 98. Периоперационная оценка перед некардиальными операциями"
           },
           {
             "file": "chapter-15-02.md",
-            "title": "15.2. 99. Anesthesia and the Patient with Cardiovascular Disease"
+            "title": "15.2. 99. Anesthesia and the Patient with Cardiovascular Disease",
+            "russian": "15.2. 99. Анестезия и пациент с сердечно-сосудистыми заболеваниями"
           },
           {
             "file": "chapter-15-03.md",
-            "title": "15.3. 100. Rheumatologic Diseases and the Cardiovascular System"
+            "title": "15.3. 100. Rheumatologic Diseases and the Cardiovascular System",
+            "russian": "15.3. 100. Ревматологические заболевания и сердечно-сосудистая система"
           },
           {
             "file": "chapter-15-04.md",
-            "title": "15.4. 101. The Diagnosis and Management of Cardiovascular Disease in Patients with Cancer"
+            "title": "15.4. 101. The Diagnosis and Management of Cardiovascular Disease in Patients with Cancer",
+            "russian": "15.4. 101. Диагностика и ведение сердечно-сосудистых заболеваний у пациентов с раком"
           },
           {
             "file": "chapter-15-05.md",
-            "title": "15.5. 102. HIV/AIDS and the Cardiovascular System"
+            "title": "15.5. 102. HIV/AIDS and the Cardiovascular System",
+            "russian": "15.5. 102. ВИЧ/СПИД и сердечно-сосудистая система"
           },
           {
             "file": "chapter-15-06.md",
-            "title": "15.6. 103. Heart Disease in Pregnancy"
+            "title": "15.6. 103. Heart Disease in Pregnancy",
+            "russian": "15.6. 103. Болезни сердца во время беременности"
           },
           {
             "file": "chapter-15-07.md",
-            "title": "15.7. 104. Traumatic Heart Disease"
+            "title": "15.7. 104. Traumatic Heart Disease",
+            "russian": "15.7. 104. Травматическая болезнь сердца"
           },
           {
             "file": "chapter-15-08.md",
-            "title": "15.8. 105. The Kidney in Heart Disease"
+            "title": "15.8. 105. The Kidney in Heart Disease",
+            "russian": "15.8. 105. Почка при заболеваниях сердца"
           },
           {
             "file": "chapter-15-09.md",
-            "title": "15.9. 106. Exercise in Health and Cardiovascular Disease"
+            "title": "15.9. 106. Exercise in Health and Cardiovascular Disease",
+            "russian": "15.9. 106. Физические упражнения при здоровье и сердечно-сосудистых заболеваниях"
           }
         ]
       },
       {
         "file": "chapter-16.md",
         "title": "16. Section 16 Populations and Social Determinants of Cardiovascular Disease",
+        "russian": "16. Раздел 16 Популяции и социальные детерминанты сердечно-сосудистых заболеваний",
         "subchapters": [
           {
             "file": "chapter-16-01.md",
-            "title": "16.1. 107. Social Determinants of Cardiovascular Disease"
+            "title": "16.1. 107. Social Determinants of Cardiovascular Disease",
+            "russian": "16.1. 107. Социальные детерминанты сердечно-сосудистых заболеваний"
           },
           {
             "file": "chapter-16-02.md",
-            "title": "16.2. 108. Women and Ischemic Heart Disease: An Evolving Saga"
+            "title": "16.2. 108. Women and Ischemic Heart Disease: An Evolving Saga",
+            "russian": "16.2. 108. Женщины и ишемическая болезнь сердца: продолжающаяся история"
           },
           {
             "file": "chapter-16-03.md",
-            "title": "16.3. 109. Race, Ethnicity, and Cardiovascular Disease"
+            "title": "16.3. 109. Race, Ethnicity, and Cardiovascular Disease",
+            "russian": "16.3. 109. Раса, этническая принадлежность и сердечно-сосудистые заболевания"
           },
           {
             "file": "chapter-16-04.md",
-            "title": "16.4. 110. Environment and Heart Disease"
+            "title": "16.4. 110. Environment and Heart Disease",
+            "russian": "16.4. 110. Окружающая среда и болезни сердца"
           },
           {
             "file": "chapter-16-05.md",
-            "title": "16.5. 111. Behavioral Cardiology: Epidemiology, Pathophysiology, and Clinical Management"
+            "title": "16.5. 111. Behavioral Cardiology: Epidemiology, Pathophysiology, and Clinical Management",
+            "russian": "16.5. 111. Поведенческая кардиология: эпидемиология, патофизиология и клиническое ведение"
           },
           {
             "file": "chapter-16-06.md",
-            "title": "16.6. 112. Economics and Cost-Effectiveness in Cardiology"
+            "title": "16.6. 112. Economics and Cost-Effectiveness in Cardiology",
+            "russian": "16.6. 112. Экономика и экономическая эффективность в кардиологии"
           }
         ]
       }

@@ -1,6 +1,7 @@
 [
   {
     "title": "EXECUTIVE SUMMARIES BY STARLEY",
+    "russian_title": "Исполнительные резюме от Starley",
     "cover_image": "cover.jpg",
     "category": [
       "cardiology",
@@ -10,6 +11,8 @@
     "authors": [
       "Starley"
     ],
+    "magazine": false,
+    "quiz": false,
     "versions": {
       "original": true,
       "russian": false,
@@ -19,55 +22,68 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "1. Cardiac Surgery in the Adult, Fifth Edition by Lawrence H. Cohn, MD, David H. Adams, MD"
+        "title": "1. Cardiac Surgery in the Adult, Fifth Edition by Lawrence H. Cohn, MD, David H. Adams, MD",
+        "russian": "1. Кардиохирургия у взрослых, пятое издание (Lawrence H. Cohn, David H. Adams)"
       },
       {
         "file": "chapter-02.md",
-        "title": "2. MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD"
+        "title": "2. MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition by Robert M. Bojar, MD",
+        "russian": "2. Руководство по периоперационному ведению в кардиохирургии взрослых, шестое издание (Robert M. Bojar)"
       },
       {
         "file": "chapter-03.md",
-        "title": "3. Key Questions in Congenital Cardiac Surgery by Narain Moorjani, Nicola Viola, Christopher A. Caldarone"
+        "title": "3. Key Questions in Congenital Cardiac Surgery by Narain Moorjani, Nicola Viola, Christopher A. Caldarone",
+        "russian": "3. Ключевые вопросы врожденной кардиохирургии (Narain Moorjani, Nicola Viola, Christopher A. Caldarone)"
       },
       {
         "file": "chapter-04.md",
-        "title": "4. Key Questions in Cardiac Surgery by Narain Moorjani, Nicola Viola, Sunil K. Ohri"
+        "title": "4. Key Questions in Cardiac Surgery by Narain Moorjani, Nicola Viola, Sunil K. Ohri",
+        "russian": "4. Ключевые вопросы кардиохирургии (Narain Moorjani, Nicola Viola, Sunil K. Ohri)"
       },
       {
         "file": "chapter-05.md",
-        "title": "5. Netter Cardiothoracic Anatomy by Florentino J. Neto"
+        "title": "5. Netter Cardiothoracic Anatomy by Florentino J. Neto",
+        "russian": "5. Кардиоторакальная анатомия Неттера (Florentino J. Neto)"
       },
       {
         "file": "chapter-06.md",
-        "title": "6. Surgical Anatomy of the Heart by Benson R. Wilcox"
+        "title": "6. Surgical Anatomy of the Heart by Benson R. Wilcox",
+        "russian": "6. Хирургическая анатомия сердца (Benson R. Wilcox)"
       },
       {
         "file": "chapter-07.md",
-        "title": "7. Coming soon"
+        "title": "7. Coming soon",
+        "russian": "7. Скоро появится"
       },
       {
         "file": "chapter-08.md",
-        "title": "8. Coming soon"
+        "title": "8. Coming soon",
+        "russian": "8. Скоро появится"
       },
       {
         "file": "chapter-09.md",
-        "title": "9. Coming soon"
+        "title": "9. Coming soon",
+        "russian": "9. Скоро появится"
       },
       {
         "file": "chapter-10.md",
-        "title": "10. Coming soon"
+        "title": "10. Coming soon",
+        "russian": "10. Скоро появится"
       },
       {
         "file": "chapter-11.md",
-        "title": "11. Coming soon"
+        "title": "11. Coming soon",
+        "russian": "11. Скоро появится"
       },
       {
         "file": "chapter-12.md",
-        "title": "12. Coming soon"
+        "title": "12. Coming soon",
+        "russian": "12. Скоро появится"
       },
       {
         "file": "chapter-13.md",
-        "title": "13. Coming soon"
+        "title": "13. Coming soon",
+        "russian": "13. Скоро появится"
       }
     ],
     "appendices": [

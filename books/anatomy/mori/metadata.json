@@ -1,111 +1,146 @@
-[{
-  "title": "Atlas of CARDIAC ANATOMY. ANATOMICAL BASIS OF CARDIAC INTERVENTIONS, VOLUME 1",
-  "cover_image": "cover.jpg",
-  "category": [
-    "anatomy",
-    "cardiology",
-    "cardiac-surgery",
-    "icu"
-  ],
-  "authors": [
-    "Shumpei Mori, MD, PhD, Kalyanam Shivkumar, MD, PhD"
-  ],
-  "chapters": [
-    {
-      "file": "chapter-01.md",
-      "title": "1. Anterior View of the Heart"
+[
+  {
+    "title": "Atlas of CARDIAC ANATOMY. ANATOMICAL BASIS OF CARDIAC INTERVENTIONS, VOLUME 1",
+    "russian_title": "Атлас анатомии сердца. Анатомическая основа кардиоинтервенций, том 1",
+    "cover_image": "cover.jpg",
+    "category": [
+      "anatomy",
+      "cardiology",
+      "cardiac-surgery",
+      "icu"
+    ],
+    "authors": [
+      "Shumpei Mori, MD, PhD, Kalyanam Shivkumar, MD, PhD"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
     },
-    {
-      "file": "chapter-02.md",
-      "title": "2. Right Anterior Oblique View of the Heart"
-    },
-    {
-      "file": "chapter-03.md",
-      "title": "3. Left Anterior Oblique View of the Heart"
-    },
-    {
-      "file": "chapter-04.md",
-      "title": "4. The Heart in Relation to Electrocardiography"
-    },
-    {
-      "file": "chapter-05.md",
-      "title": "5. Sinus Venarum"
-    },
-    {
-      "file": "chapter-06.md",
-      "title": "6. Fossa Ovalis"
-    },
-    {
-      "file": "chapter-07.md",
-      "title": "7. Coronary Sinus Orifice"
-    },
-    {
-      "file": "chapter-08.md",
-      "title": "8. Right Atrial Appendage"
-    },
-    {
-      "file": "chapter-09.md",
-      "title": "9. Tricuspid Valve, Right Ventricular Inflow"
-    },
-    {
-      "file": "chapter-10.md",
-      "title": "10. Membranous Septum"
-    },
-    {
-      "file": "chapter-11.md",
-      "title": "11. Right Ventricular Trabeculation/Band/Papillary Muscles, Right Ventricular Apex"
-    },
-    {
-      "file": "chapter-12.md",
-      "title": "12. Right Ventricular Outflow Tract"
-    },
-    {
-      "file": "chapter-13.md",
-      "title": "13. Pulmonary Valve"
-    },
-    {
-      "file": "chapter-14.md",
-      "title": "14. Pulmonary Veins"
-    },
-    {
-      "file": "chapter-15.md",
-      "title": "15. Left Atrium"
-    },
-    {
-      "file": "chapter-16.md",
-      "title": "16. Left Atrial Appendage"
-    },
-    {
-      "file": "chapter-17.md",
-      "title": "17. Mitral Valve, Left Ventricular Inflow"
-    },
-    {
-      "file": "chapter-18.md",
-      "title": "18. Left Ventricular Papillary Muscles, Left Ventricular Apex"
-    },
-    {
-      "file": "chapter-19.md",
-      "title": "19. Left Ventricular Outflow Tract"
-    },
-    {
-      "file": "chapter-20.md",
-      "title": "20. Aortic Valve"
-    },
-    {
-      "file": "chapter-21.md",
-      "title": "21. Coronary Arteries"
-    },
-    {
-      "file": "chapter-22.md",
-      "title": "22. Coronary Veins"
-    },
-    {
-      "file": "chapter-23.md",
-      "title": "23. Pericardial Space"
-    },
-    {
-      "file": "chapter-24.md",
-      "title": "24. Cardiac Innervation"
-    }
-  ]
-}]
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Anterior View of the Heart",
+        "russian": "1. Передний вид сердца"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Right Anterior Oblique View of the Heart",
+        "russian": "2. Правая передняя косая проекция сердца"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Left Anterior Oblique View of the Heart",
+        "russian": "3. Левая передняя косая проекция сердца"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. The Heart in Relation to Electrocardiography",
+        "russian": "4. Сердце во взаимосвязи с электрокардиографией"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Sinus Venarum",
+        "russian": "5. Синус полых вен"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Fossa Ovalis",
+        "russian": "6. Овальная ямка"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Coronary Sinus Orifice",
+        "russian": "7. Устье венечного синуса"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Right Atrial Appendage",
+        "russian": "8. Ушко правого предсердия"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Tricuspid Valve, Right Ventricular Inflow",
+        "russian": "9. Трехстворчатый клапан, приток правого желудочка"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Membranous Septum",
+        "russian": "10. Перепончатая перегородка"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Right Ventricular Trabeculation/Band/Papillary Muscles, Right Ventricular Apex",
+        "russian": "11. Трабекулярность/перегородочно-краевая трабекула/сосочковые мышцы правого желудочка, верхушка правого желудочка"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Right Ventricular Outflow Tract",
+        "russian": "12. Выводной тракт правого желудочка"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Pulmonary Valve",
+        "russian": "13. Клапан легочной артерии"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Pulmonary Veins",
+        "russian": "14. Легочные вены"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Left Atrium",
+        "russian": "15. Левое предсердие"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Left Atrial Appendage",
+        "russian": "16. Ушко левого предсердия"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Mitral Valve, Left Ventricular Inflow",
+        "russian": "17. Митральный клапан, приток левого желудочка"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Left Ventricular Papillary Muscles, Left Ventricular Apex",
+        "russian": "18. Сосочковые мышцы левого желудочка, верхушка левого желудочка"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Left Ventricular Outflow Tract",
+        "russian": "19. Выводной тракт левого желудочка"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Aortic Valve",
+        "russian": "20. Аортальный клапан"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Coronary Arteries",
+        "russian": "21. Коронарные артерии"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Coronary Veins",
+        "russian": "22. Коронарные вены"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Pericardial Space",
+        "russian": "23. Перикардиальное пространство"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Cardiac Innervation",
+        "russian": "24. Иннервация сердца"
+      }
+    ]
+  }
+]
