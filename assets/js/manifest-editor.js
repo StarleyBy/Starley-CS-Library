@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const fields = type === 'quiz' ? ['title', 'book'] : 
                       type === 'magazine' ? ['title', 'subtitle', 'cover'] :
-                      ['title', 'cover_image', 'authors'];
+                      ['title', 'russian_title', 'cover_image', 'authors'];
 
         fields.forEach(f => {
             const val = meta[f];
@@ -333,10 +333,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (items.length === 0) {
             els.itemsContainer.innerHTML = '<div class="me-empty-state">No items. Add one!</div>';
         } else {
-            items.forEach((item, idx) => {
-                const card = _createItemCard(item, idx);
-                els.itemsContainer.appendChild(card);
-            });
+            if (type === 'metadata') {
+                _renderChaptersRecursive(items, els.itemsContainer);
+            } else {
+                items.forEach((item, idx) => {
+                    const card = _createItemCard(item, idx);
+                    els.itemsContainer.appendChild(card);
+                });
+            }
         }
 
         // Add prominent Add button at the bottom
@@ -356,6 +360,34 @@ document.addEventListener('DOMContentLoaded', async () => {
             footer.appendChild(btn);
             els.itemsContainer.appendChild(footer);
         }
+    }
+
+    function _renderChaptersRecursive(chapters, container, depth = 0, parentPath = []) {
+        chapters.forEach((ch, idx) => {
+            const currentPath = [...parentPath, idx];
+            const card = document.createElement('div');
+            card.className = `me-item-card`;
+            card.style.marginLeft = `${depth * 20}px`;
+            card.onclick = (e) => {
+                e.stopPropagation();
+                // We'll need a better way to map this to state.activeItemIndex
+                // For now, let's keep it simple and just enable editing.
+            };
+            
+            const grid = document.createElement('div');
+            grid.className = 'me-item-grid';
+            
+            grid.appendChild(_createFieldGroup('File Name', ch.file, (v) => { ch.file = v; _syncFormToJson(); }));
+            grid.appendChild(_createFieldGroup('Title', ch.title, (v) => { ch.title = v; _syncFormToJson(); }));
+            grid.appendChild(_createFieldGroup('Russian Title', ch.russian || '', (v) => { ch.russian = v; _syncFormToJson(); }));
+            
+            card.appendChild(grid);
+            container.appendChild(card);
+            
+            if (ch.subchapters) {
+                _renderChaptersRecursive(ch.subchapters, container, depth + 1, currentPath);
+            }
+        });
     }
 
     function _createItemCard(item, idx) {
