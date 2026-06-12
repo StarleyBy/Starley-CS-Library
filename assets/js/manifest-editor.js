@@ -257,7 +257,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         fields.forEach(f => {
             const val = meta[f];
-            const group = _createFieldGroup(f, Array.isArray(val) ? val.join(', ') : val, (newVal) => {
+            const group = _createFieldGroup(f.replace('_', ' '), Array.isArray(val) ? val.join(', ') : val, (newVal) => {
                 if (Array.isArray(val)) meta[f] = newVal.split(',').map(s => s.trim()).filter(s => s);
                 else meta[f] = newVal;
                 _syncFormToJson();
@@ -279,7 +279,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             vContainer.style.gridTemplateColumns = '1fr 1fr';
             vContainer.style.gap = '5px';
             
-            Object.keys(meta.versions || {}).forEach(v => {
+            const versions = meta.versions || { original: true, russian: false, starley: false, hebrew: false };
+            meta.versions = versions; // Ensure it exists
+
+            Object.keys(versions).forEach(v => {
                 const label = document.createElement('label');
                 label.style.fontSize = '0.8rem';
                 label.style.display = 'flex';
@@ -288,16 +291,22 @@ document.addEventListener('DOMContentLoaded', async () => {
                 
                 const cb = document.createElement('input');
                 cb.type = 'checkbox';
-                cb.checked = meta.versions[v];
-                cb.onchange = (e) => { meta.versions[v] = e.target.checked; _syncFormToJson(); };
+                cb.checked = !!versions[v];
+                cb.onchange = (e) => { versions[v] = e.target.checked; _syncFormToJson(); };
                 
                 label.appendChild(cb);
-                label.appendChild(document.createTextNode(v));
+                label.appendChild(document.createTextNode(v.charAt(0).toUpperCase() + v.slice(1)));
                 vContainer.appendChild(label);
             });
             els.metaFields.appendChild(vContainer);
 
-            // Add booleans
+            // Add Feature Flags
+            const fLabel = document.createElement('label');
+            fLabel.textContent = 'Features';
+            fLabel.style.marginTop = '10px';
+            fLabel.style.display = 'block';
+            els.metaFields.appendChild(fLabel);
+
             ['magazine', 'quiz'].forEach(b => {
                 const label = document.createElement('label');
                 label.style.fontSize = '0.8rem';
@@ -309,23 +318,139 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const cb = document.createElement('input');
                 cb.type = 'checkbox';
                 cb.checked = !!meta[b];
-                cb.onchange = (e) => { meta[b] = e.target.checked; _syncFormToJson(); };
+                cb.onchange = (e) => { 
+                    meta[b] = e.target.checked; 
+                    if (b === 'quiz' && meta[b] && !meta.quiz_sets) meta.quiz_sets = [];
+                    _renderMetaFields(); // Re-render to show/hide quiz sets
+                    _syncFormToJson(); 
+                };
                 
                 label.appendChild(cb);
-                label.appendChild(document.createTextNode(`Has ${b}`));
+                label.appendChild(document.createTextNode(`Has ${b.charAt(0).toUpperCase() + b.slice(1)}`));
                 els.metaFields.appendChild(label);
             });
+
+            // Quiz Sets Management
+            if (meta.quiz) {
+                const qsContainer = document.createElement('div');
+                qsContainer.className = 'me-quiz-sets-container';
+                qsContainer.innerHTML = '<h4>Quiz Sets</h4>';
+                
+                const sets = meta.quiz_sets || [];
+                sets.forEach((set, idx) => {
+                    const setEl = document.createElement('div');
+                    setEl.className = 'me-quiz-set-item';
+                    
+                    const grid = document.createElement('div');
+                    grid.className = 'me-quiz-set-grid';
+                    
+                    grid.appendChild(_createFieldGroup('ID', set.id, (v) => { set.id = v; _syncFormToJson(); }));
+                    grid.appendChild(_createFieldGroup('Label', set.label, (v) => { set.label = v; _syncFormToJson(); }));
+                    grid.appendChild(_createFieldGroup('File', set.file, (v) => { set.file = v; _syncFormToJson(); }));
+                    
+                    setEl.appendChild(grid);
+                    
+                    const actions = document.createElement('div');
+                    actions.className = 'me-quiz-set-actions';
+                    
+                    const btnOpen = document.createElement('button');
+                    btnOpen.className = 'me-btn me-btn-sm me-btn-blue';
+                    btnOpen.innerHTML = '<i class="fas fa-external-link-alt"></i> Open';
+                    btnOpen.onclick = () => {
+                        els.selectType.value = 'quiz';
+                        state.currentType = 'quiz';
+                        state.currentFile = set.file;
+                        _loadManifest();
+                    };
+
+                    const btnDel = document.createElement('button');
+                    btnDel.className = 'me-btn me-btn-sm me-btn-danger';
+                    btnDel.innerHTML = '<i class="fas fa-trash"></i>';
+                    btnDel.onclick = () => {
+                        sets.splice(idx, 1);
+                        _renderMetaFields();
+                        _syncFormToJson();
+                    };
+
+                    actions.appendChild(btnOpen);
+                    actions.appendChild(btnDel);
+                    setEl.appendChild(actions);
+                    qsContainer.appendChild(setEl);
+                });
+
+                const btnAddSet = document.createElement('button');
+                btnAddSet.className = 'me-btn me-btn-sm me-btn-green';
+                btnAddSet.style.marginTop = '10px';
+                btnAddSet.innerHTML = '<i class="fas fa-plus"></i> Add Quiz Set';
+                btnAddSet.onclick = () => {
+                    if (!meta.quiz_sets) meta.quiz_sets = [];
+                    meta.quiz_sets.push({ id: 'new-set', label: 'New Quiz Set', file: 'quiz/quiz-new.json' });
+                    _renderMetaFields();
+                    _syncFormToJson();
+                };
+                qsContainer.appendChild(btnAddSet);
+                
+                els.metaFields.appendChild(qsContainer);
+            }
         }
     }
 
     function _renderForm() {
         els.itemsContainer.innerHTML = '';
-        let items = [];
         const type = state.currentType;
         
+        if (type === 'metadata') {
+            const meta = state.manifest[0];
+            
+            // Render Chapters
+            const chHeader = document.createElement('div');
+            chHeader.className = 'me-items-list-header';
+            chHeader.innerHTML = '<span>📚 Chapters</span>';
+            const btnAddCh = document.createElement('button');
+            btnAddCh.className = 'me-btn me-btn-sm me-btn-green';
+            btnAddCh.innerHTML = '<i class="fas fa-plus"></i> Add Chapter';
+            btnAddCh.onclick = () => {
+                if (!meta.chapters) meta.chapters = [];
+                meta.chapters.push({ file: `chapter-${String(meta.chapters.length + 1).padStart(2, '0')}.md`, title: 'New Chapter' });
+                _renderForm();
+                _syncFormToJson();
+            };
+            chHeader.appendChild(btnAddCh);
+            els.itemsContainer.appendChild(chHeader);
+            
+            _renderChaptersRecursive(meta.chapters || [], els.itemsContainer);
+
+            // Render Appendices
+            const apHeader = document.createElement('div');
+            apHeader.className = 'me-items-list-header';
+            apHeader.style.marginTop = '30px';
+            apHeader.innerHTML = '<span>📎 Appendices</span>';
+            const btnAddAp = document.createElement('button');
+            btnAddAp.className = 'me-btn me-btn-sm me-btn-green';
+            btnAddAp.innerHTML = '<i class="fas fa-plus"></i> Add Appendix';
+            btnAddAp.onclick = () => {
+                if (!meta.appendices) meta.appendices = [];
+                meta.appendices.push({ file: `appendix-${String(meta.appendices.length + 1).padStart(2, '0')}.md`, title: 'New Appendix' });
+                _renderForm();
+                _syncFormToJson();
+            };
+            apHeader.appendChild(btnAddAp);
+            els.itemsContainer.appendChild(apHeader);
+
+            if (!meta.appendices || meta.appendices.length === 0) {
+                const empty = document.createElement('div');
+                empty.className = 'me-empty-state';
+                empty.textContent = 'No appendices.';
+                els.itemsContainer.appendChild(empty);
+            } else {
+                _renderChaptersRecursive(meta.appendices, els.itemsContainer);
+            }
+            return;
+        }
+
+        let items = [];
         if (type === 'quiz') items = state.manifest.questions;
         else if (type === 'magazine') items = state.manifest.cards;
-        else if (type === 'metadata') items = state.manifest[0].chapters;
         else if (type === 'library') items = state.manifest.categories;
 
         els.itemsCount.textContent = `${items.length} items`;
@@ -333,14 +458,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (items.length === 0) {
             els.itemsContainer.innerHTML = '<div class="me-empty-state">No items. Add one!</div>';
         } else {
-            if (type === 'metadata') {
-                _renderChaptersRecursive(items, els.itemsContainer);
-            } else {
-                items.forEach((item, idx) => {
-                    const card = _createItemCard(item, idx);
-                    els.itemsContainer.appendChild(card);
-                });
-            }
+            items.forEach((item, idx) => {
+                const card = _createItemCard(item, idx);
+                els.itemsContainer.appendChild(card);
+            });
         }
 
         // Add prominent Add button at the bottom
@@ -352,7 +473,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             let label = 'Item';
             if (type === 'quiz') label = 'Question';
             else if (type === 'magazine') label = 'Card';
-            else if (type === 'metadata') label = 'Chapter';
             else if (type === 'library') label = 'Category';
             
             btn.innerHTML = `<i class="fas fa-plus-circle"></i> Add New ${label}`;
@@ -362,18 +482,49 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
-    function _renderChaptersRecursive(chapters, container, depth = 0, parentPath = []) {
+    function _renderChaptersRecursive(chapters, container, depth = 0, parentArray = null) {
         chapters.forEach((ch, idx) => {
-            const currentPath = [...parentPath, idx];
             const card = document.createElement('div');
-            card.className = `me-item-card`;
-            card.style.marginLeft = `${depth * 20}px`;
-            card.onclick = (e) => {
+            card.className = `me-item-card ${depth > 0 ? 'nested' : ''}`;
+            card.style.marginLeft = `${depth * 25}px`;
+            
+            const header = document.createElement('div');
+            header.className = 'me-item-header';
+            header.innerHTML = `<span class="me-item-id">${depth === 0 ? 'Chapter' : 'Sub-chapter'} ${idx + 1}</span>`;
+            
+            const actions = document.createElement('div');
+            actions.className = 'me-item-actions';
+            
+            const btnAddSub = document.createElement('button');
+            btnAddSub.className = 'me-btn me-btn-sm me-btn-ghost';
+            btnAddSub.title = 'Add Sub-chapter';
+            btnAddSub.innerHTML = '<i class="fas fa-level-down-alt"></i>';
+            btnAddSub.onclick = (e) => {
                 e.stopPropagation();
-                // We'll need a better way to map this to state.activeItemIndex
-                // For now, let's keep it simple and just enable editing.
+                if (!ch.subchapters) ch.subchapters = [];
+                ch.subchapters.push({ file: '', title: 'New Sub-chapter' });
+                _renderForm();
+                _syncFormToJson();
+            };
+
+            const btnDel = document.createElement('button');
+            btnDel.className = 'me-btn me-btn-sm me-btn-ghost me-btn-danger';
+            btnDel.title = 'Delete';
+            btnDel.innerHTML = '<i class="fas fa-trash"></i>';
+            btnDel.onclick = (e) => {
+                e.stopPropagation();
+                if (confirm('Delete this item?')) {
+                    chapters.splice(idx, 1);
+                    _renderForm();
+                    _syncFormToJson();
+                }
             };
             
+            actions.appendChild(btnAddSub);
+            actions.appendChild(btnDel);
+            header.appendChild(actions);
+            card.appendChild(header);
+
             const grid = document.createElement('div');
             grid.className = 'me-item-grid';
             
@@ -384,8 +535,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             card.appendChild(grid);
             container.appendChild(card);
             
-            if (ch.subchapters) {
-                _renderChaptersRecursive(ch.subchapters, container, depth + 1, currentPath);
+            if (ch.subchapters && ch.subchapters.length > 0) {
+                _renderChaptersRecursive(ch.subchapters, container, depth + 1, ch.subchapters);
             }
         });
     }

@@ -246,6 +246,12 @@ html, body {
     transition: border-color 0.2s;
 }
 
+.me-item-card.nested {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-left: 3px solid var(--me-accent-blue);
+}
+
 .me-item-card.active {
     border-color: var(--me-accent-blue);
     box-shadow: 0 0 0 1px var(--me-accent-blue);
@@ -264,6 +270,28 @@ html, body {
 
 .me-item-actions { display: flex; gap: 5px; }
 
+.me-btn-ghost {
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--me-text-muted);
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.me-btn-ghost:hover {
+    color: white;
+    background: rgba(255,255,255,0.1);
+}
+
+.me-btn-danger {
+    color: #e74c3c;
+}
+
+.me-btn-danger:hover {
+    background: rgba(231, 76, 60, 0.1);
+    color: #ff7675;
+}
+
 .me-item-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -275,6 +303,34 @@ html, body {
     margin-top: 10px;
     padding-top: 10px;
     border-top: 1px dashed #444;
+}
+
+/* Quiz Sets Management */
+.me-quiz-sets-container {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid var(--me-border);
+}
+
+.me-quiz-set-item {
+    background: rgba(0,0,0,0.2);
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid var(--me-border);
+    margin-bottom: 10px;
+}
+
+.me-quiz-set-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.me-quiz-set-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
 }
 
 /* Rich Text Toolbar */
