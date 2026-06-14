@@ -678,17 +678,27 @@ document.addEventListener('DOMContentLoaded', async () => {
                 toolbar.className = 'me-toolbar';
                 
                 const tools = [
-                    { label: 'B', tag: 'b', title: 'Bold' },
-                    { label: 'Yellow', tag: 'mark', style: 'background:#ffff00;color:#000', title: 'Yellow Highlight' },
-                    { label: 'Green', tag: 'mark', style: 'background:#2ecc71;color:#fff', title: 'Green Highlight' },
-                    { label: 'Red', tag: 'span', style: 'color:#e74c3c', title: 'Red Text' },
-                    { label: 'Blue', tag: 'span', style: 'color:#3498db', title: 'Blue Text' }
+                    { icon: 'fas fa-bold', tag: 'b', title: 'Bold' },
+                    { icon: 'fas fa-italic', tag: 'i', title: 'Italic' },
+                    { icon: 'fas fa-underline', tag: 'u', title: 'Underline' },
+                    { icon: 'fas fa-strikethrough', tag: 's', title: 'Strikethrough' },
+                    { icon: 'fas fa-code', tag: 'code', title: 'Inline Code' },
+                    { icon: 'fas fa-highlighter', tag: 'mark', style: 'background:#ffff00;color:#000', title: 'Yellow Highlight' },
+                    { icon: 'fas fa-highlighter', tag: 'mark', style: 'background:#2ecc71;color:#fff', title: 'Green Highlight' },
+                    { icon: 'fas fa-highlighter', tag: 'mark', style: 'background:#ff79c6;color:#fff', title: 'Pink Highlight' },
+                    { icon: 'fas fa-highlighter', tag: 'mark', style: 'background:#8be9fd;color:#000', title: 'Cyan Highlight' },
+                    { icon: 'fas fa-font', tag: 'span', style: 'color:#e74c3c', title: 'Red Text' },
+                    { icon: 'fas fa-font', tag: 'span', style: 'color:#3498db', title: 'Blue Text' },
+                    { icon: 'fas fa-font', tag: 'span', style: 'color:#f39c12', title: 'Orange Text' },
+                    { icon: 'fas fa-font', tag: 'span', style: 'color:#9b59b6', title: 'Purple Text' },
+                    { icon: 'fas fa-superscript', tag: 'sup', title: 'Superscript' },
+                    { icon: 'fas fa-subscript', tag: 'sub', title: 'Subscript' }
                 ];
                 
                 tools.forEach(t => {
                     const btn = document.createElement('button');
                     btn.className = 'me-toolbar-btn';
-                    btn.textContent = t.label;
+                    btn.innerHTML = `<i class="${t.icon}" style="${t.tag === 'span' || t.tag === 'mark' ? t.style : ''}"></i>`;
                     btn.title = t.title;
                     btn.onclick = (e) => {
                         e.preventDefault();

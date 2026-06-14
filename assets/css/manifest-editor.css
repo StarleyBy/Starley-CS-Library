@@ -336,8 +336,9 @@ html, body {
 /* Rich Text Toolbar */
 .me-toolbar {
     display: flex;
-    gap: 5px;
-    background: #333;
+    flex-wrap: wrap;
+    gap: 2px;
+    background: #252526;
     padding: 4px;
     border-radius: 4px 4px 0 0;
     border: 1px solid var(--me-input-border);
@@ -345,16 +346,25 @@ html, body {
 }
 
 .me-toolbar-btn {
-    padding: 2px 6px;
-    font-size: 0.7rem;
-    background: #444;
-    border: 1px solid #555;
+    width: 28px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    background: #333;
+    border: 1px solid #444;
     color: #ccc;
     cursor: pointer;
-    border-radius: 2px;
+    border-radius: 3px;
+    transition: all 0.2s;
 }
 
-.me-toolbar-btn:hover { background: #555; color: white; }
+.me-toolbar-btn:hover { 
+    background: #444; 
+    color: white; 
+    border-color: var(--me-accent-blue);
+}
 
 .me-field-group textarea.has-toolbar {
     border-top-left-radius: 0;
