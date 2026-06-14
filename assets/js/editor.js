@@ -1230,10 +1230,52 @@ function initSync() {
     // When user clicks in preview → find line in editor
     preview.addEventListener('click', (e) => {
         if (!_syncEnabled || !editor) return;
-        const el = e.target.closest('p,h1,h2,h3,h4,h5,li,td,blockquote,pre');
+        const el = e.target.closest('p,h1,h2,h3,h4,h5,li,td,blockquote,pre,summary');
         if (!el) return;
-        _syncEditorToPreviewEl(el);
+        _syncEditorToPreview(el);
     });
+}
+
+function _syncEditorToPreview(el) {
+    const text = el.textContent.replace(/\s+/g, ' ').trim().slice(0, 40).toLowerCase();
+    if (text.length < 3) return;
+
+    const doc = editor.getDoc();
+    const lineCount = doc.lineCount();
+    let bestLine = -1;
+    let bestScore = 0;
+
+    for (let i = 0; i < lineCount; i++) {
+        const line = doc.getLine(i).toLowerCase();
+        if (line.length < 3) continue;
+        
+        // Simple overlap check
+        if (line.includes(text) || text.includes(line.trim())) {
+            bestLine = i;
+            break; 
+        }
+        
+        // Fuzzy score if no exact match
+        if (line.includes(text.slice(0, 15))) {
+            bestLine = i;
+            break;
+        }
+    }
+
+    if (bestLine !== -1) {
+        _syncInProgress = true;
+        editor.setCursor({ line: bestLine, ch: 0 });
+        const info = editor.getScrollInfo();
+        const coords = editor.charCoords({ line: bestLine, ch: 0 }, 'local');
+        editor.scrollTo(null, coords.top - info.clientHeight / 2);
+        
+        // Flash in editor
+        editor.addLineClass(bestLine, 'background', 'cm-sync-highlight');
+        setTimeout(() => {
+            editor.removeLineClass(bestLine, 'background', 'cm-sync-highlight');
+            _syncInProgress = false;
+        }, 1000);
+    }
 }
 
 function _syncPreviewToLine(cm, lineNum, preview) {

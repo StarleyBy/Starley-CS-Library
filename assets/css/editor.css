@@ -1,4 +1,6 @@
-/* ============= GLOBAL LAYOUT — NO BODY SCROLL ============= */
+.cm-sync-highlight {
+    background: rgba(52, 152, 219, 0.25) !important;
+}
 :root {
     --editor-header-h: 34px;
 }
