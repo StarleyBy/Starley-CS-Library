@@ -6,6 +6,7 @@ const state = {
     currentIndex: 0,
     score: 0,
     answers: [],
+    currentSelected: [],
     startTime: 0,
     questionStartTime: 0,
     settings: {
@@ -172,6 +173,7 @@ async function startQuiz() {
 function renderQuestion() {
     const q = state.questions[state.currentIndex];
     state.questionStartTime = Date.now();
+    state.currentSelected = []; // Reset selections for new question
     const lang = state.settings.lang;
 
     document.getElementById('q-current').textContent = state.currentIndex + 1;
@@ -208,32 +210,87 @@ function renderQuestion() {
 
     document.getElementById('q-explanation').style.display = 'none';
     document.getElementById('exp-chapter-select').style.display = 'none';
+
+    // Handle Submit Button
+    let submitBtnCont = document.getElementById('q-submit-container');
+    if (!submitBtnCont) {
+        submitBtnCont = document.createElement('div');
+        submitBtnCont.id = 'q-submit-container';
+        submitBtnCont.className = 'quiz-submit-container';
+        submitBtnCont.innerHTML = `<button id="btn-submit-q" class="btn-submit-q" disabled>
+            <i class="fas fa-check-circle"></i> <span>${lang === 'Ru' ? 'Ответить' : 'Submit Answer'}</span>
+        </button>`;
+        document.getElementById('q-options').after(submitBtnCont);
+        document.getElementById('btn-submit-q').onclick = submitAnswer;
+    }
+    
+    submitBtnCont.style.display = q.multiAnswer ? 'flex' : 'none';
+    const submitBtn = document.getElementById('btn-submit-q');
+    submitBtn.disabled = true;
+    submitBtn.querySelector('span').textContent = lang === 'Ru' ? 'Ответить' : 'Submit Answer';
 }
 
 function selectAnswer(letter, btn) {
     const q = state.questions[state.currentIndex];
-    const isCorrect = letter === q.correctAnswer;
     
+    if (q.multiAnswer) {
+        // Toggle selection
+        if (state.currentSelected.includes(letter)) {
+            state.currentSelected = state.currentSelected.filter(l => l !== letter);
+            btn.classList.remove('selected');
+        } else {
+            state.currentSelected.push(letter);
+            btn.classList.add('selected');
+        }
+        
+        // Update submit button
+        const submitBtn = document.getElementById('btn-submit-q');
+        if (submitBtn) submitBtn.disabled = state.currentSelected.length === 0;
+    } else {
+        // Single answer mode
+        state.currentSelected = [letter];
+        submitAnswer();
+    }
+}
+
+function submitAnswer() {
+    const q = state.questions[state.currentIndex];
+    const userChoices = [...state.currentSelected].sort();
+    const correctChoices = (Array.isArray(q.correctAnswer) ? [...q.correctAnswer] : [q.correctAnswer]).sort();
+    
+    const isCorrect = JSON.stringify(userChoices) === JSON.stringify(correctChoices);
+    
+    const optionsCont = document.getElementById('q-options');
+    const buttons = optionsCont.querySelectorAll('.option-btn');
+
+    buttons.forEach(btn => {
+        const letter = btn.querySelector('.option-letter').textContent;
+        btn.disabled = true;
+        btn.classList.remove('selected');
+
+        if (correctChoices.includes(letter)) {
+            btn.classList.add('correct');
+        } else if (userChoices.includes(letter)) {
+            btn.classList.add('wrong');
+        }
+    });
+
     if (isCorrect) {
         state.score++;
-        btn.classList.add('correct');
-    } else {
-        btn.classList.add('wrong');
-        document.querySelectorAll('.option-btn').forEach(b => {
-            if (b.querySelector('.option-letter').textContent === q.correctAnswer) {
-                b.classList.add('correct');
-            }
-        });
     }
-
-    document.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
 
     state.answers.push({
         questionId: q.id,
-        chosen: letter,
+        chosen: q.multiAnswer ? userChoices : userChoices[0],
         correct: q.correctAnswer,
-        time: Date.now() - state.questionStartTime
+        time: Date.now() - state.questionStartTime,
+        isCorrect: isCorrect
     });
+
+    if (q.multiAnswer) {
+        const submitBtnCont = document.getElementById('q-submit-container');
+        if (submitBtnCont) submitBtnCont.style.display = 'none';
+    }
 
     showExplanation();
 }

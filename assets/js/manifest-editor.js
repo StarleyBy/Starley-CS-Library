@@ -627,9 +627,88 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
         container.appendChild(optCont);
 
-        // Correct Answer
-        const ansGroup = _createFieldGroup('Correct Answer', item.correctAnswer, (v) => { item.correctAnswer = v; _syncFormToJson(); }, 'select', ['A', 'B', 'C', 'D']);
-        container.appendChild(ansGroup);
+        // Correct Answer Logic
+        const caGroup = document.createElement('div');
+        caGroup.className = 'me-field-group';
+        
+        const multiLabel = document.createElement('label');
+        multiLabel.style.display = 'flex';
+        multiLabel.style.alignItems = 'center';
+        multiLabel.style.gap = '8px';
+        multiLabel.style.marginBottom = '8px';
+        
+        const multiCb = document.createElement('input');
+        multiCb.type = 'checkbox';
+        multiCb.checked = !!item.multiAnswer;
+        multiCb.style.width = 'auto';
+        multiCb.onchange = (e) => {
+            item.multiAnswer = e.target.checked;
+            // Convert correctAnswer to array if multi, or single string if not
+            if (item.multiAnswer) {
+                if (typeof item.correctAnswer === 'string') {
+                    item.correctAnswer = item.correctAnswer.split('').filter(c => ['A','B','C','D'].includes(c));
+                }
+            } else {
+                if (Array.isArray(item.correctAnswer)) {
+                    item.correctAnswer = item.correctAnswer[0] || 'A';
+                }
+            }
+            _renderForm(); // Re-render this item's card
+            _syncFormToJson();
+        };
+        multiLabel.appendChild(multiCb);
+        multiLabel.appendChild(document.createTextNode('Multiple Correct Answers'));
+        caGroup.appendChild(multiLabel);
+
+        const ansLabel = document.createElement('label');
+        ansLabel.textContent = 'Correct Answer(s)';
+        caGroup.appendChild(ansLabel);
+
+        if (item.multiAnswer) {
+            const multiSelectCont = document.createElement('div');
+            multiSelectCont.style.display = 'flex';
+            multiSelectCont.style.gap = '10px';
+            multiSelectCont.style.marginTop = '4px';
+            
+            ['A', 'B', 'C', 'D'].forEach(letter => {
+                const l = document.createElement('label');
+                l.style.display = 'flex';
+                l.style.alignItems = 'center';
+                l.style.gap = '4px';
+                l.style.fontSize = '0.8rem';
+                
+                const cb = document.createElement('input');
+                cb.type = 'checkbox';
+                cb.checked = Array.isArray(item.correctAnswer) && item.correctAnswer.includes(letter);
+                cb.style.width = 'auto';
+                cb.onchange = (e) => {
+                    if (!Array.isArray(item.correctAnswer)) item.correctAnswer = [];
+                    if (e.target.checked) {
+                        if (!item.correctAnswer.includes(letter)) item.correctAnswer.push(letter);
+                    } else {
+                        item.correctAnswer = item.correctAnswer.filter(c => c !== letter);
+                    }
+                    item.correctAnswer.sort();
+                    _syncFormToJson();
+                };
+                l.appendChild(cb);
+                l.appendChild(document.createTextNode(letter));
+                multiSelectCont.appendChild(l);
+            });
+            caGroup.appendChild(multiSelectCont);
+        } else {
+            const select = document.createElement('select');
+            ['A', 'B', 'C', 'D'].forEach(o => {
+                const opt = document.createElement('option');
+                opt.value = o;
+                opt.textContent = o;
+                if (o === item.correctAnswer) opt.selected = true;
+                select.appendChild(opt);
+            });
+            select.onchange = (e) => { item.correctAnswer = e.target.value; _syncFormToJson(); };
+            caGroup.appendChild(select);
+        }
+        container.appendChild(caGroup);
 
         // Image
         container.appendChild(_createFieldGroup('Question Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
@@ -833,13 +912,15 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return `<img src="${p}" style="max-width:100%; margin-top:10px; border-radius:4px; border:1px solid #ddd;">`;
             }).join('');
 
+            const correctAnswers = Array.isArray(item.correctAnswer) ? item.correctAnswer : [item.correctAnswer];
+            
             html = `
                 <div class="preview-quiz">
                     <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${item.questionEn || '(No question text)'}</div>
                     ${imgPath ? `<img src="${imgPath}" style="max-width:100%; margin:10px 0; border-radius:4px; border:1px solid #ddd;">` : ''}
                     <div class="q-options" style="margin-top:15px;">
                         ${Object.entries(item.optionsEn || {}).map(([k, v]) => `
-                            <div style="padding:8px; border:1px solid #ddd; margin-bottom:5px; border-radius:4px; ${k === item.correctAnswer ? 'background:#e8f5e9; border-color:#2e7d32; font-weight:600;' : ''}">
+                            <div style="padding:8px; border:1px solid #ddd; margin-bottom:5px; border-radius:4px; ${correctAnswers.includes(k) ? 'background:#e8f5e9; border-color:#2e7d32; font-weight:600;' : ''}">
                                 <strong>${k}:</strong> ${v}
                             </div>
                         `).join('')}
