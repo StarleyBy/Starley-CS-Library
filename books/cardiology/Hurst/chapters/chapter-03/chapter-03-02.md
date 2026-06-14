@@ -695,11 +695,11 @@ The presence of noticeable signs that are suggestive of LVE (high voltage of the
 
 Sometimes the LVE pattern, at least partially, and especially the changes in ST-T may be resolved in a few months with pharmacologic treatment, as occurs in hypertension or after surgery (valvular heart disease).
 
-<span id="fig-12-29"></span>![](_page_20_Figure_2.jpeg)
+<span id="fig-12-29"></span>![](_page_3_Figure_29.jpeg)
 
 **FIGURE 12–29.** The most characteristic loops of left ventricular enlargement (LVE): (A) with the initial forces to the right and a positive T wave; (B) observed in cases of LVE that are not long-standing and with mild septal fibrosis; (C) QRS loops initially to the left and with counterclockwise rotation or figure-of-eight rotation on horizontal plane; corresponds to significant LVE seen in advanced heart diseases with significant septal fibrosis; (D) QRS loop with q wave of pseudonecrosis that occurs in cases of hypertrophic cardiomyopathy due to the presence of important septal vector; (E) QRS loop pointed approximately 0° on the horizontal plane with a very peaked T loop pointed upward, backward, and rightward characteristic for the apical type of hypertrophic cardiomyopathy. **Bottom:** Two examples of aortic valve disease, one (left) with mild septal fibrosis and normal ECG and VCG (presence of q wave in V<sub>6</sub> as expression of first vector) and the other (right) with important septal fibrosis and abnormal electrocardiography (ST-T with strain pattern) and VCG (absence of q wave in V<sub>6</sub>). See in the HP (H) with amplification of the loop (SE = 16) now in the left the qR in V<sub>6</sub> coincides with initial vector forces of the loop in the negative hemifield of V<sub>6</sub>, and in the right with R in V<sub>6</sub>, the initial forces go directly to the left.
 
-<span id="fig-12-30"></span>![](_page_20_Figure_4.jpeg)
+<span id="fig-12-30"></span>![](_page_3_Figure_30.jpeg)
 
 **FIGURE 12–30.** Examples of different electrocardiogram morphologies seen in the evolutionary course of aortic stenosis (note the appearance of strain pattern) (A) and aortic regurgitation (note the decrease of q wave and the appearance of strain pattern) (B).
 
@@ -811,7 +811,7 @@ The ECG diagnostic criteria are as follows (see [Fig. 12–31](#fig-12-31) and [
 - VR: QR with evident R wave slurring and negative T wave
 - T wave with its polarity opposed to QRS slurring
 
-<span id="fig-12-31"></span>![](_page_22_Figure_2.jpeg)
+<span id="fig-12-31"></span>![](_page_3_Figure_31.jpeg)
 
 **FIGURE 12–31. A.** Example of how activation occurs in complete right bundle branch block and how the different lead morphologies are explained with the loop-hemifield correlation. **B.** A typical electrocardiogram of complete right bundle branch block (see text).
 
@@ -852,7 +852,7 @@ The morphology of the distal blocks is similar to that of the classic proximal c
 
 **FIGURE 12–32.** Different degrees of bundle branch block from normal ECG to partial and complete right bundle branch block (RBBB; Top) and left bundle branch block (LBBB; Bottom).
 
-<span id="fig-12-33"></span>![](_page_23_Figure_2.jpeg)
+<span id="fig-12-33"></span>![](_page_3_Figure_33.jpeg)
 
 **FIGURE 12–33. A.** Example of how activation occurs in complete left bundle branch block and how different lead morphologies are explained by the loop-hemifield correlation. **B.** A typical electrocardiogram in complete left bundle branch block.
 
@@ -905,7 +905,7 @@ The diagnostic criteria are as follows:
 - II, III and VF: rS with S<sub>III</sub> > S<sub>II</sub> and R<sub>II</sub> > R<sub>III</sub>
 - An S wave seen up to V<sub>6</sub>, with intrinsic deflection in V<sub>6</sub> less than VL
 
-<span id="fig-12-34"></span>![](_page_24_Figure_2.jpeg)
+<span id="fig-12-34"></span>![](_page_3_Figure_34.jpeg)
 
 **FIGURE 12–34. A.** Location of the block and an example of how activation occurs in superoanterior hemiblock (SAH) and how different lead morphologies are explained by the loop-hemifield correlation. **B.** A typical example of SAH. Note the difference with the S<sub>1</sub>, S<sub>11</sub>, S<sub>111</sub> pattern, in which case S<sub>II</sub> > S<sub>III</sub> and S<sub>1</sub> is present. This results from the fact that in SAH, the final vector of depolarization is directed upward and to the left, and in S<sub>1</sub>, S<sub>11</sub>, S<sub>111</sub>, the morphology is upward and to the right.
 
@@ -925,7 +925,7 @@ The diagnostic criteria are as follows:
 - II, III, and VF: qR; in advanced cases with slurring, especially in the descending part of the R wave
 - Precordial leads: S wave up to V<sub>6</sub>, with an intrinsic deflection time in V<sub>6</sub> less than VF
 
-<span id="fig-12-35"></span>![](_page_25_Figure_2.jpeg)
+<span id="fig-12-35"></span>![](_page_3_Figure_35.jpeg)
 
 **FIGURE 12–35. A.** Location of the block and an example of how activation occurs in case of inferoposterior hemiblock (IPH) and how different lead morphologies are explained by the loop-hemifield correlation. **B.** Patient with QRS axis (ÂQRS) of approximately +50° (above) who presented suddenly during an acute coronary syndrome (ACS), an electrocardiogram showing ÂQRS of approximately +90° (below). This is a typical example of IPH (see text).
 
