@@ -404,7 +404,7 @@
       },
       "correctAnswer": "C",
       "explanationEn": "As AS progresses to become hemodynamically significant, progressive LVH leads to the cardinal symptoms of AS, those being (1) angina, (2) syncope, and (3) dyspnea or congestive heart failure (CHF). The average AVA is 0.6 to 0.8 cm² at the onset of symptoms. Classic natural history studies have demonstrated that average life expectancy in patients with hemodynamically significant AS is <b><span style=\"color:#3498db\">4</span></b> years with <mark style=\"background:#ffff00;color:#000\">angina</mark>, <b><span style=\"color:#3498db\">3</span></b> years with <mark style=\"background:#2ecc71;color:#fff\">syncope</mark>, and <b><span style=\"color:#e74c3c\">2</span></b> years with <mark style=\"background:#8be9fd;color:#000\">CHF</mark>. Symptom development in the context of AS is an absolute indication for surgical intervention. Excessive delay of AVR in symptomatic patients is associated with rate of sudden death of >10% per year. Once a patient is symptomatic, average survival is less than 3 years typically from ventricular arrhythmia or CHF.In aortic stenosis, the development of heart failure symptoms (dyspnea) carries the worst prognosis, with median survival of 1-2 years, compared to 2-3 years for syncope and 3-5 years for angina.",
-      "explanationRu": "При аортальном стенозе развитие симптомов сердечной недостаточности (одышка) имеет наихудший прогноз, медиана выживаемости 1-2 года по сравнению с 2-3 годами для синкопе и 3-5 годами для стенокардии."
+      "explanationRu": "По мере того как АС становится гемодинамически значимым, прогрессирующая ГЛЖ приводит к появлению кардинальных симптомов АС: (1) стенокардия, (2) синкопе, (3) одышка или застойная сердечная недостаточность (ЗСН). Средняя площадь аортального клапана в момент появления симптомов составляет 0,6–0,8 см². Классические исследования естественного течения показали, что средняя продолжительность жизни у пациентов с гемодинамически значимым АС составляет <b><span style=\"color:#3498db\">4 года при стенокардии</span></b>, <b><span style=\"color:#3498db\">3 года при синкопе</span></b> и <b><span style=\"color:#e74c3c\">2 года при ЗСН</span></b>. Развитие симптомов на фоне АС является абсолютным показанием к хирургическому вмешательству. Чрезмерная задержка с выполнением ПАК у симптомных пациентов ассоциирована с частотой внезапной смерти >10% в год. После появления симптомов средняя выживаемость обычно составляет менее 3 лет, и смерть наступает обычно от желудочковых аритмий или ЗСН."
     },
     {
       "id": 20,
@@ -422,9 +422,9 @@
         "C": "Одышка при нагрузке",
         "D": "Синкопе"
       },
-      "correctAnswer": "C",
-      "explanationEn": "The most common symptom of severe AS is exertional dyspnea (heart failure), followed by angina and syncope.",
-      "explanationRu": "По мере того как АС становится гемодинамически значимым, прогрессирующая ГЛЖ приводит к появлению кардинальных симптомов АС: (1) стенокардия, (2) синкопе, (3) одышка или застойная сердечная недостаточность (ЗСН). Средняя площадь аортального клапана в момент появления симптомов составляет 0,6–0,8 см². Классические исследования естественного течения показали, что средняя продолжительность жизни у пациентов с гемодинамически значимым АС составляет <b><span style=\"color:#3498db\">4 года при стенокардии</span></b>, <b><span style=\"color:#3498db\">3 года при синкопе</span></b> и <b><span style=\"color:#e74c3c\">2 года при ЗСН</span></b>. Развитие симптомов на фоне АС является абсолютным показанием к хирургическому вмешательству. Чрезмерная задержка с выполнением ПАК у симптомных пациентов ассоциирована с частотой внезапной смерти >10% в год. После появления симптомов средняя выживаемость обычно составляет менее 3 лет, и смерть наступает обычно от желудочковых аритмий или ЗСН."
+      "correctAnswer": "B",
+      "explanationEn": "As AS progresses to become hemodynamically significant, progressive LVH leads to the cardinal symptoms of AS, those being (<b><span style=\"color:#3498db\">1</span></b>) <b><mark style=\"background:#2ecc71;color:#fff\">angina</mark></b>, (<b><span style=\"color:#9b59b6\">2</span></b>) <b><mark style=\"background:#8be9fd;color:#000\">syncope</mark></b>, and (<b><span style=\"color:#9b59b6\">3</span></b>) <b><mark style=\"background:#8be9fd;color:#000\">dyspnea or congestive heart failure (CHF)</mark></b>. ",
+      "explanationRu": "По мере того как АС становится гемодинамически значимым, прогрессирующая ГЛЖ приводит к появлению кардинальных симптомов АС: (<b><span style=\"color:#3498db\">1</span></b>) <mark style=\"background:#2ecc71;color:#fff\">стенокардия</mark>, (<b><span style=\"color:#9b59b6\">2</span></b>) <mark style=\"background:#8be9fd;color:#000\">синкопе</mark>, (<b><span style=\"color:#9b59b6\">3</span></b>) <mark style=\"background:#8be9fd;color:#000\">одышка или застойная сердечная недостаточность</mark> (ЗСН). "
     },
     {
       "id": 21,
@@ -442,9 +442,9 @@
         "C": "Уменьшение систолического давления в легочной артерии (СПАД)",
         "D": "Поддержание МНО между 3,0 и 3,5"
       },
-      "correctAnswer": "B",
-      "explanationEn": "Preoperative LVESD is the best predictor of postoperative recovery of LV function. A decrease in LVESD after surgery correlates with improvement in ejection fraction.",
-      "explanationRu": "Предоперационный КСР ЛЖ является наилучшим предиктором послеоперационного восстановления функции ЛЖ. Уменьшение КСР ЛЖ после операции коррелирует с улучшением фракции выброса."
+      "correctAnswer": "A",
+      "explanationEn": "After surgery, <b><mark style=\"background:#8be9fd;color:#000\">LVEDV</mark></b> and <b><mark style=\"background:#8be9fd;color:#000\">LVEDP</mark></b> decrease significantly and with the decrease in preload, EF also decreases. LV size and function eventually return to normal if the operation is timed correctly. <b>The best postoperative predictor of recovery in systolic function is <mark style=\"background:#ffff00;color:#000\">reduction in LVEDD</mark> because the magnitude of reduction correlates well with the magnitude of increase in EF.</b> Importantly, 80% of the total reduction in LVEDD after AVR occurs within 10 to 14 days after surgery. ",
+      "explanationRu": "После операции <b><mark style=\"background:#8be9fd;color:#000\">КДО ЛЖ </mark></b>и <b><mark style=\"background:#8be9fd;color:#000\">КДД ЛЖ</mark></b> значительно снижаются, и с уменьшением преднагрузки ФВ также снижается. Размер и функция ЛЖ в конечном итоге возвращаются к норме, если операция проведена своевременно. <b>Наилучшим послеоперационным предиктором восстановления систолической функции является <mark style=\"background:#ffff00;color:#000\">уменьшение КДР ЛЖ</mark>, потому что величина уменьшения хорошо коррелирует с величиной увеличения ФВ.</b> Важно отметить, что 80% всего уменьшения КДР ЛЖ после ПАК происходит в течение 10–14 дней после операции. "
     },
     {
       "id": 22,
@@ -464,7 +464,10 @@
       },
       "correctAnswer": "C",
       "explanationEn": "Severe aortic regurgitation is defined by regurgitant orifice area ≥0.30 cm², regurgitant volume ≥60 mL, vena contracta >0.6 cm, and regurgitant fraction ≥50%.",
-      "explanationRu": "Тяжелая аортальная регургитация определяется площадью регургитационного отверстия ≥0,30 см², объемом регургитации ≥60 мл, шириной vena contracta >0,6 см и фракцией регургитации ≥50%."
+      "explanationRu": "Тяжелая аортальная регургитация определяется площадью регургитационного отверстия ≥0,30 см², объемом регургитации ≥60 мл, шириной vena contracta >0,6 см и фракцией регургитации ≥50%.",
+      "explanationImages": [
+        "2020-22A.jpg"
+      ]
     },
     {
       "id": 23,
