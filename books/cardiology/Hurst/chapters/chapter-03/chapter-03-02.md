@@ -959,7 +959,7 @@ The diagnostic criteria of advanced RBBB plus IPH ([Fig. 12–36C](#fig-12-36)) 
 
 In bilateral bundle branch block, there is an alternation of complete RBBB and LBBB morphologies in the ECG. This diagnosis requires a pacemaker to be implanted.
 
-<span id="fig-12-36"></span>![](_page_26_Figure_2.jpeg)
+<span id="fig-12-36"></span>![](_page_3_Figure_36.jpeg)
 
 **FIGURE 12–36.** Types of bifascicular block. **A.** Advanced right bundle branch block and typical superoanterior hemiblock. **B.** “Masked” bifascicular block. **C.** Advanced right bundle branch block and inferoposterior hemiblock in a 56-year-old man with chronic ischemic heart disease but without asthenic body type and right ventricle enlargement (see text).
 
@@ -1018,7 +1018,7 @@ AF and flutter episodes are also more frequent than in the general population. T
 
 **FIGURE 12–38.** Left: Wolff-Parkinson-White (WPW)-type preexcitation and short PR-type preexcitation. Right: *Top*: Delta waves of different magnitude: (**A**) minor preexcitation and (**B, C**) significant preexcitation; *middle*: three consecutive QRS complexes with evident preexcitation; *below*: short PR-type preexcitation.
 
-<span id="fig-12-39"></span>![](_page_28_Figure_2.jpeg)
+<span id="fig-12-39"></span>![](_page_3_Figure_37.jpeg)
 
 **FIGURE 12–39.** Morphologies in Wolff-Parkinson-White (WPW)-type preexcitation according to the ventricular location of the accessory atrioventricular pathway in the following zones: (**A**) right anteroseptal (AS); (**B**) right ventricular free wall (RVFW); (**C**) posteroseptal (PS); and (**D**) left ventricular free wall (LVFW). EP, early preexcitation.
 
@@ -1089,7 +1089,7 @@ After experimental coronary occlusion of the LAD coronary artery in dogs, perfor
 
 However, when the experiment to occlude the artery was performed in awake dogs with an unopened chest, the changes in the ECG were similar to the ECG changes that occurred in coronary spasm or transmural MI in humans ([Fig. 12–43, 2](#fig-12-43)). The negative T wave only appeared as a late manifestation, when the acute ischemia was already vanishing or had already disappeared. Therefore, a flat or negative T wave represents postischemic changes rather than the first phase of acute ischemia. Thus, it is a frequent mistake to consider the presence of a negative T wave as an indicator of active ischemia.
 
-<span id="fig-12-43"></span>![](_page_31_Figure_2.jpeg)
+<span id="fig-12-43"></span>![](_page_3_Figure_38.jpeg)
 
 **FIGURE 12–43. 1.** Electrocardiographic patterns that are shown sequentially after the experimental acute occlusion of a coronary artery in a dog with open chest with the subsequent transmural infarction. The pattern that was seen was as follows: ischemia (negative T wave), injury (ST-segment elevation), and necrosis (pathologic q wave). **2.** Electrocardiographic recording after the occlusion of a coronary artery in an experimental animal with its thorax closed. It changes from a subendocardial ischemia pattern (tall and peaked T wave) (**B**) to a pattern of a subepicardial injury, transmural in clinical practice (ST-segment elevation) (**C**), when the acute clinical ischemia is more severe. Finally, the q wave of necrosis develops (**D**), accompanied as time passes by an increasingly evident pattern of subepicardial ischemia (it is transmural after the occlusion of a coronary artery, although it is expressed as experimental subepicardial in the ECG). In the chronic phase, the pattern of negative T wave is related more to changes that necrosis has induced in the repolarization than to a presence of clinical ischemia.
 
@@ -1107,7 +1107,7 @@ It has been demonstrated by different experimental open chest methods that when 
 
 The electrophysiologic explanation of these changes in T wave (more positive T wave and flat or negative T wave) caused by experimental subendocardial and subepicardial ischemia, that are found in these areas that present delay of repolarization (prolonged TAP), may be explained (see [Fig. 12–44](#fig-12-44)) by two concepts: the summation of TAPs of subendocardium and subepicardium (the longer is located in ischemic zone) and the concept of ischemic vector. According to these concepts, the area with delayed TAP (named *ischemic area*), either in the subendocardium or in the subepicardium, was not fully repolarized at the time when the other area was already repolarized. Therefore, it still presents negative charges. As repolarization starts in the zone that is more perfused, the sense of repolarization (see [Fig. 12–44](#fig-12-44)) will face the ischemic zone. However, as this zone presents more negative changes, a flow of current having a vectorial expression is generated going from more ischemic to less ischemic zones. Then, the vector of ischemia with the positive change in the head is directed away from the ischemic area and originates a more positive T wave in experimental subendocardial ischemia and a flat or negative T wave in experimental subepicardial ischemia. Note that the vector of necrosis is also directed away from the necrosis area (see [Fig. 12–46](#fig-12-46)), but on the contrary, the vector of the area with greater ischemia (injury area) is directed toward this area (see [Figs. 12–49](#fig-12-49) and [12–50](#fig-12-50)).
 
-<span id="fig-12-44"></span>![](_page_31_Figure_9.jpeg)
+<span id="fig-12-44"></span>![](_page_3_Figure_39.jpeg)
 
 **FIGURE 12–44. A.** Experimental subendocardial ischemia. Subepicardial repolarization is complete, but the transmembrane action potential (TAP) in the subendocardium is longer than normal (TAP prolongation further beyond the normal at -D- point) because the subendocardium is not completely repolarized. Thus, the vector that is generated between the already polarized area in the subepicardium with positive charges and the subendocardial area still with incomplete repolarization with negative charges caused by the ischemia in that area, named *ischemic vector*, is directed from the subendocardium to the subepicardium, with the head facing the subepicardium, even though the direction of the repolarization phenomenon goes away from it because the direction of the phenomenon ( ) goes from the less ischemic area (subepicardium) to the more ischemic area (subendocardium). Therefore, the subepicardium faces the ischemic vector head (positive charge of the dipole), which explains why the T wave is more positive than normal. In experimental subepicardial ischemia, a similar but inverse phenomenon (**B**) occurs, which explains the development of flattened or negative T waves.
 
@@ -1138,7 +1138,7 @@ None of these clinical situations represents acute active ischemia. Rather, they
 
 The involvement of the left ventricle wall is usually transmural in the presence of a flat/negative T wave. No clinical situation caused by ischemia presents exclusively with subepicardial involvement. Therefore, the theories that explain the presence of flat/negative T waves in experimental clinical ischemia (see [Fig. 12–44B](#fig-12-44)) are not useful in the clinical setting. Probably, the negative T wave seen in these clinical cases, associated with acute transmural ischemia (ST↑) that has subsided, may be explained by the mechanisms shown in [Fig. 12–47](#fig-12-47).
 
-<span id="fig-12-45"></span>![](_page_32_Figure_2.jpeg)
+<span id="fig-12-45"></span>![](_page_3_Figure_40.jpeg)
 
 **FIGURE 12–45.** Crisis of coronary spasm (Prinzmetal angina) recorded by Holter ECG. **A.** Control. **B.** Initial pattern of a very tall T wave (subendocardial ischemia). **C.** Huge pattern of ST-segment elevation. **D** to **F.** Resolution toward normal values. Total duration of the crisis was 2 minutes.
 
@@ -1200,7 +1200,7 @@ Regarding the negative T wave, chronic pericarditis is the most important condit
 
 </div></details>
 
-<span id="fig-12-48"></span>![](_page_34_Figure_2.jpeg)
+<span id="fig-12-48"></span>![](_page_3_Figure_41.jpeg)
 
 **FIGURE 12–48.** T wave morphologies in conditions other than ischemic heart disease. **1.** Some morphologies of flattened or negative T wave: (**A, B**) V<sub>1</sub> and V<sub>2</sub> of a healthy 1-year-old girl; (**C, D**) alcoholic cardiomyopathy; (**E**) myxedema; (**F**) negative T wave after paroxysmal tachycardia in a patient with initial phase of cardiomyopathy; (**G**) bimodal T with long QT frequently seen after long-term amiodarone administration; (**H**) negative T wave with very wide base, sometimes observed in stroke; (**I**) negative T wave preceded by ST elevation in an apparently healthy tennis player; (**J**) very negative T wave in a case of apical cardiomyopathy; and (**K**) negative T wave in a case of intermittent left bundle branch block in a patient with no apparent heart disease (cardiac memory according to Rosenbaum school). **2.** Tall peaked T wave in case of (**A**) variant of normality (vagotonia with early repolarization); (**B**) alcoholism; (**C**) left ventricular enlargement; (**D**) stroke; (**E**) hyperkalemia.
 
@@ -1258,11 +1258,11 @@ An ST-segment elevation may also be recorded in other clinical settings that are
 
 The leads that face the head of the vector of injury in transmural acute ischemia record an ST-segment elevation, whereas the leads facing the tail of the injury vector record an ST-segment depression. The global study of direct and mirror images of the ST deviations in different leads is crucial to correctly diagnosis the location of the injury and to understand the corresponding prognostic implications (see [Fig. 12–53](#fig-12-53) and [Electrocardiogram in Acute Coronary Syndrome with ST-Segment Elevation](#electrocardiography-in-acute-coronary-syndrome-with-st-segment-elevation)).
 
-<span id="fig-12-51"></span>![](_page_35_Figure_10.jpeg)
+<span id="fig-12-51"></span>![](_page_3_Figure_42.jpeg)
 
 **FIGURE 12–51. A.** A 65-year-old patient with non–Q-wave infarction due to left main trunk subocclusion. Note the evolutionary patterns from 1 to 4 during the first week until the normalization of the ST segment. **B.** Different types of subendocardial injury patterns that appeared in the course of an exercise test: horizontal displacement of the ST segment; descendent displacement; concave displacement; and ST-segment depression from J point with ascendant morphology and with rapid up-sloping. This usually is seen in normal cases. The coronary angiography was abnormal in 1, 2, and 3, and normal in 4. These changes are especially visible in leads with dominant r wave, especially V<sub>3</sub>, V<sub>4</sub>, V<sub>5</sub>, V<sub>6</sub>, I, and VL, and/or inferior leads with dominant r wave.
 
-<span id="fig-12-52"></span>![](_page_36_Figure_2.jpeg)
+<span id="fig-12-52"></span>![](_page_3_Figure_43.jpeg)
 
 ![](_page_36_Figure_3.jpeg)
 
@@ -1376,6 +1376,10 @@ The fractioned QRS also arises in other diseases or circumstances, such as ventr
 #### Differential Diagnosis</summary><div class="details-content">
 
 The specificity of the pathologic Q wave ([Table 12–10](#table-12-10)) for diagnosing myocardial necrosis is relatively high. However, it must be noted that similar “Q” waves are seen in other processes. The diagnosis of acute MI is based not only on ECG findings, but also on the clinical setting, as well as on enzymatic changes. The presence of ST-T alterations accompanying a pathologic Q wave gives support to an IHD as the cause for this ECG pattern. However, as indicated later, in 5% to 25% of infarctions (higher incidence in inferior infarction), the Q wave disappears with time; thus, the sensitivity of the ECG for detecting old infarction is not very high ([Fig. 12–56](#fig-12-56)).
+  
+<span id="fig-12-56"></span>![](_page_3_Figure_44.jpeg)
+
+**FIGURE 12–56.** Spontaneous evolutionary pattern in V1-V2  seen in the case of myocardial infarction (MI) caused by occlusion of the left anterior descending coronary artery. Now, after current effective treatment, the changes may be very different (see Fig. 12–52). This is a typical case of ST-segment elevation MI that presents Q wave MI without residual ischemia. See on the right the scheme of the left ventricle wall: (1) normal, (2) with predominant subendocardial ischemia, (3) with transmural ischemia, (4) with necrosis and often surrounded by zone of ischemic tissue, (5) chronic necrosis without ischemic tissue.
 
 The principal causes of the pathologic Q wave, other than myocardial necrosis, are listed in [Table 12–10](#table-12-10).
 
@@ -1436,7 +1440,7 @@ In the following sections, ECG changes in different clinical settings related to
 
 The majority of these ACS are caused by coronary atherothrombosis. They may be classified into two types, either with ST-segment elevation (STE-ACS) or without ST-segment elevation (non–STE-ACS). Angiographically, STE-ACS frequently (> 90%) presents with a red clot that usually provokes a total occlusion of the vessel. In non–STE-ACS, however, the incidence of an angiographic white clot is lower (50%–70%) and does not produce a total occlusion. Even though this classification has clinical and therapeutic implications, not all cases of ACS that present STE-ACS show an ST-segment elevation as the most important ECG change, and other ECG pattern may be seen in the follow-up. Furthermore, NSTE-ACS includes cases with ST-segment depression, negative T wave, and even normal ECG ([Fig. 12–57](#fig-12-57)).
 
-<span id="fig-12-57"></span>![](_page_41_Figure_2.jpeg)
+<span id="fig-12-57"></span>![](_page_3_Figure_45.jpeg)
 
 **FIGURE 12–57.** Electrocardiographic (ECG) alterations observed in patients with acute coronary syndromes presenting with narrow QRS and without confounding factors such as left ventricular hypertrophy (LVH). Observe the initial ECG presentation: (**A**) ST-segment elevation or equivalent; (**B**) non–ST-segment elevation; (**B1**) ST-segment depression/negative T wave; and (**B2**) normal or nearly normal ECG or without changes in respect to previous ECG with its approximate incidence and final discharge diagnosis according the evolution.
 
@@ -1456,7 +1460,7 @@ The ST elevation prevails in the leads facing the affected zone as a direct ECG 
 
 In STE-ACS, the global evaluation of direct and reciprocal changes (ups and downs of ST) is important for detecting which artery is the culprit (the right coronary artery [RCA] or the left circumflex artery [LCX]) in case of ST elevation in II, III, and VF ([Fig. 12–58](#fig-12-58); see also [Fig. 12–53B](#fig-12-53)), as well as to find the location of the LAD occlusion in the case of an ST elevation in the precordial leads ([Fig. 12–59](#fig-12-59); see also [Fig. 12–53A](#fig-12-53)). [Table 12–10](#table-12-10) presents the more common pitfalls in the ECG interpretation of ACS.
 
-<span id="fig-12-58"></span>![](_page_42_Figure_2.jpeg)
+<span id="fig-12-58"></span>![](_page_3_Figure_46.jpeg)
 
 **FIGURE 12–58.** Algorithm to predict the culprit artery (right coronary artery [RCA] versus left circumflex artery [LCX]) in case of evolving myocardial infarction with ST elevation in inferior leads (see text for details).
 
@@ -1470,7 +1474,7 @@ In STE-ACS, the global evaluation of direct and reciprocal changes (ups and down
    - It has been described (see the following section) that STE-ACS with grade 1 ischemia may only present stable changes of the T wave (wider, peaked, and tall). In our experience, this rarely occurs.
    - Relatively often, during the evolution of an STE-ACS caused by an LAD proximal occlusion, when the artery has been spontaneously opened or after treatment and once the pain has vanished, a negative T wave, usually striking (> 4–5 mm), may appear (see [T-Wave Changes in Patients with Ischemic Heart Disease](#t-wave-changes-in-patients-with-ischemic-heart-disease)). This is a sign of an open artery or, at least, that a very good collateral circulation exists, but it is not a guarantee that the problem is resolved. Sometimes, the artery may reocclude (see [Fig. 12–60B](#fig-12-60)) with the appearance of pain; changes in the ECG; first pseudonormalization of the T wave; and often, but not always, reappearance of the ST elevation. Therefore, patients with deep negative T waves in the right precordial leads who have had anginal pain in the previous hours should be submitted to coronary angiography as soon as possible. Nonetheless, this situation is not considered an emergency, as in the case of a clear ST elevation.
 
-<span id="fig-12-60"></span>![](_page_43_Figure_2.jpeg)
+<span id="fig-12-60"></span>![](_page_3_Figure_47.jpeg)
 
 **FIGURE 12–60.** Atypical patterns of acute coronary syndrome (ACS) with ST elevation: (**A**) hyperacute transient pattern of T wave taller, wider, and symmetrical before ST elevation; (**B**) deep negative T wave in the evolutive process of reperfused occluded artery that may evolve to ST elevation in presence of new ischemic attack; and (**C**) ST depression in V<sub>2</sub> as a mirror pattern of ST elevation in back leads (see text).
 
@@ -1504,7 +1508,7 @@ In non–STE-ACS with only a flat/negative T wave, the negative T wave is usuall
 
 Sometimes a normal ECG at entrance later evolves to a clear ACS (see [Fig. 12–57](#fig-12-57)). The ECG may remain normal in 5% to 10% of cases. The cases of non–STE-ACS that maintain a normal ECG usually have a good prognosis.
 
-<span id="fig-12-62"></span>![](_page_44_Figure_2.jpeg)
+<span id="fig-12-62"></span>![](_page_3_Figure_62a.jpeg), ![](_page_3_Figure_62b.jpeg), ![](_page_3_Figure_62c.jpeg)
 
 **FIGURE 12–62. A.** ST-segment depression in more than eight leads and ST-segment elevation in VR in case of acute coronary syndrome (ACS) caused by involvement of left main coronary artery. Note that the maximum depression occurs in V<sub>3</sub> to V<sub>4</sub>, and an ST-segment elevation occurs in VR as a mirror image. **B.** Electrocardiography shows ST-segment depression, especially in precordial leads (V<sub>3</sub>-V<sub>6</sub>) with positive T wave evident in leads V<sub>3</sub> to V<sub>5</sub> (regional subendocardial ischemia). **C.** Patient with unstable angina (non–ST-segment elevation ACS) with new flattened or slightly negative T wave in various leads.
 
@@ -1522,7 +1526,7 @@ In the presence of bundle branch block, the diagnosis is possible if the block i
 
 The scientific guidelines consider new LBBB to be an ACS equivalent, in the right clinical context. However, when symptoms are atypical, primary PCI protocol activation for LBBB should be considered after positive point-of-care troponin test 1 to 2 hours after symptom onset.
 
-<span id="fig-12-63"></span>![](_page_45_Figure_2.jpeg)
+<span id="fig-12-63"></span>![](_page_3_Figure_63a.jpeg), ![](_page_3_Figure_63b.jpeg), ![](_page_3_Figure_63c.jpeg)
 
 **FIGURE 12–63. A.** Acute myocardial infarction (MI) of anteroseptal zone due to left anterior descending (LAD) occlusion proximal to D<sub>1</sub> (ST-segment depression in III and VF) but distal to S<sub>1</sub> (non–ST-segment elevation in VR and V<sub>1</sub> and non–ST-segment depression in V<sub>6</sub>). **B.** After a few hours, complete left bundle branch block (LBBB) appears (see q in I, VL, and V<sub>4</sub> and polyphasic morphology in V<sub>3</sub>; see the Sgarbossa criteria; and see concordant ST-segment elevation in I, VL, and V<sub>5</sub>-V<sub>6</sub>). **C.** The complete LBBB disappears, but superoanterior hemiblock remains with the clear evidence of apical-anterior MI (QS from V<sub>1</sub>-V<sub>4</sub> without q in VL and I).
 
@@ -1543,8 +1547,6 @@ Until relatively recently, it was thought that MIs of exclusive subendocardial l
 CE-CMR is the ideal technique for infarct identification, transmural characterization, and infarct location and quantification. CE-CMR has demonstrated that the Q-wave MIs are larger than non–Q-wave MIs, although not always have a deeper transmural extension. Therefore, the terms *Q-wave MI* and *non–Q-wave MI* are useful in the chronic phase from a prognostic point of view.
 
 [Table 12–11](#table-12-11) presents the new definition of MI according to a committee appointed by the European Society of Cardiology and the American College of Cardiology.
-
-<span id="fig-12-56"></span>![](_page_41_Figure_2.jpeg) *(Note: figure reference restored from text)*
 
 <span id="table-12-11"></span><details class="med-details"><summary>
 
@@ -1596,7 +1598,7 @@ The most important conclusions of these correlations are as follows:
 
 D. Quantification of necrosis. Selvester et al. described a 31-point scoring system based on 50 criteria (eg, presence of Q wave in different leads or R wave in V<sub>1</sub> to V<sub>2</sub> as mirror pattern). This scoring quantifies the amount of infarcted tissue (3% of the left ventricular mass for each point). At the individual level, the standard error of myocardial damage quantification using this score is large, such that its clinical usefulness is limited. The most important cause of errors with this scoring system comes from its inability to quantify basal infarcted areas, mainly the septal and lateral areas. Now, CE-CMR has demonstrated great accuracy in estimating the size of the infarcted mass, which makes this technique the “gold standard” for damage quantification. However, it is still necessary to develop standards that could be consistently applied for CE-CMR measurements.
 
-<span id="fig-12-64"></span>![](_page_46_Figure_2.jpeg)
+<span id="fig-12-64"></span>![](_page_3_Figure_64.jpeg)
 
 **FIGURE 12–64. A.** Segments of anteroseptal and inferolateral zones and areas of shared perfusion. **B to D.** Perfusion of these segments by the corresponding coronary arteries can be seen in a bull’s eye perspective. **E.** The correlation with ECG leads. DP, descending posterior; LAD, left anterior descending; LCX, left circumflex artery; OM, marginal; PB, posterobasal; PL, posterolateral; RCA, right coronary artery.
 
@@ -1608,11 +1610,11 @@ D. Quantification of necrosis. Selvester et al. described a 31-point scoring sys
 
 **FIGURE 12–65. A.** Magnetic resonance imaging. Thoracic horizontal axial plane. The four walls can be adequately observed: anterior, septal, lateral, and inferior. The latter is represented by the inferobasal portion of the wall (segment 4 of Cerqueira statement) that bends upward in this case. **B** and **C**. The real anatomic position of inferior wall (inferobasal) and lateral wall infarctions. The infarction vector of inferobasal and mid segment in lean individuals faces V<sub>3</sub> to V<sub>4</sub> and not V<sub>1</sub>, and may contribute to the normal RS pattern seen in these leads. On the contrary, the vector of infarction of the lateral wall faces V<sub>1</sub> and may explain RS pattern in this lead. Therefore, prominent R in V<sub>1</sub> is an expression of an infarction of the lateral, not inferior, wall.
 
-<span id="fig-12-66"></span>![](_page_48_Figure_2.jpeg)
+<span id="fig-12-66"></span>![](_page_3_Figure_48.jpeg)
 
 **FIGURE 12–66.** Correlations between the different myocardial infarction (MI) types with the infarction area assessed by contrast-enhanced cardiovascular magnetic resonance (CE-CMR), electrocardiographic (ECG) pattern, name given to the infarction, and the most probable place of coronary artery occlusion. Because of frequent reperfusion treatment, usually the coronary angiography performed in the subacute phase does not correspond to the real location of the occlusion that produced the MI. The gray zones seen in the bull’s eye view correspond to infarction areas, and the arrows correspond to their possible extension. D1, first diagonal; LAD, left anterior descending; LCX, left circumflex artery; RCA, right coronary artery; S1, first septal.
 
-<span id="fig-12-67"></span>![](_page_49_Figure_2.jpeg)
+<span id="fig-12-67"></span>![](_page_3_Figure_67.jpeg)
 
 **FIGURE 12–67. A, B,** and **C.** Different electrocardiogram morphologies of lead V<sub>1</sub> that can be found in lateral myocardial infarction (MI) (the necrosed areas are seen as gray-white with gadolinium enhancement). Note that the cardiovascular magnetic resonance imaging shows that the inferobasal segment (segment 4) is not affected. **D.** On the contrary, the inferobasal segment is completely affected in inferior MI, and the morphology in V<sub>1</sub> is normal rS pattern.
 
@@ -1786,7 +1788,7 @@ In cases of advanced heart failure, a heart transplantation may be the solution.
 
 **FIGURE 12–75.** Patient who had dilated cardiomyopathy. The ECG shows the morphologic characteristics observed in this situation (sinus tachycardia, low voltage in FP, important alterations of P and QRS-T).
 
-<span id="fig-12-76"></span>![](_page_54_Figure_2.jpeg)
+<span id="fig-12-76"></span>![](_page_3_Figure_76.jpeg)
 
 **FIGURE 12–76.** Leads I, II, III, and V<sub>1</sub> and right atrial leads (A) of a patient who underwent a heart transplantation. Two atrial waves are observed, the wave of the patient (AR) and the wave of the donor (AD); the latter maintained cardiac rhythm.
 
@@ -1910,7 +1912,7 @@ A comprehensive review of ECG alterations in congenital heart disease is beyond 
 - A positive T wave in leads V<sub>1</sub> and V<sub>2</sub> from day 2 of life may suggest RVE.
 - The presence of an R wave (not qR), possibly tall (> 15 mm), may be seen in newborns without congenital heart disease.
 
-<span id="fig-12-79"></span>![](_page_56_Figure_2.jpeg)
+<span id="fig-12-79"></span>![](_page_3_Figure_79a.jpeg), ![](_page_3_Figure_79b.jpeg)
 
 **FIGURE 12–79. A.** Typical electrocardiogram (ECG) of tricuspid atresia. Note the hyperdeviation of the QRS axis to the left and the signs of right atrial and left ventricular enlargement. **B.** A characteristic ECG of Ebstein disease. Note the atypical right ventricular block morphology and the important atrial pathology suggestive of right atrial enlargement.
 
@@ -1932,7 +1934,7 @@ Characteristically, in the best-known channelopathies (long and short QT syndrom
 
 **FIGURE 12–81. A.** Schematic representation of normal action potentials from epicardial and subendocardial zone and the following QRS morphologies: normal; long QT syndrome; short QT syndrome; and Brugada syndrome. **B.** The genotype-phenotype electrocardiogram expression of long QT syndrome in the three more typical types of the syndrome. See the long QT and delayed peaked T wave in long QT-1 (cromos. 3), the broad T wave in long QT-2 (cromos. 7), and abnormal T wave in long QT-3 (cromos. 11). **C-1.** The typical morphology of Brugada pattern 1. **C-2.** The most frequent typical morphology of Brugada pattern 2. **C-3**. See the differences on the ST descending slope in athletes (3 above) and patients with Brugada type 2 pattern (3 below). **D.** See typical pattern of benign early repolarization (A) and potentially malignant pattern (recorded in inferior leads and with flat ST segment). The J wave is much less evident than in case of hypothermia (see [Fig. 12–85](#fig-12-85)).
 
-<span id="fig-12-82"></span>![](_page_59_Figure_2.jpeg)
+<span id="fig-12-82"></span>![](_page_3_Figure_82.jpeg)
 
 **FIGURE 12–82.** Proposed diagnostic algorithm (Baranchuk algorithm) for patients with r′ in leads V<sub>1</sub>-V<sub>2</sub> with the most important differential diagnostic clues, including how to measure the characteristic of r′. ARVD, arrhythmogenic right ventricular dysplasia; P.Exc, Pectus Excavatum; RBBB, right bundle branch block; RVH, right ventricular hypertrophy; WPW, Wolff-Parkinson-White (syndrome).
 
@@ -1972,7 +1974,7 @@ The most remarkable ECG alterations in electrolyte imbalance are caused by chang
 
 In hypocalcemia, the QT may be prolonged at the expense of the ST segment, and in hypercalcemia, the QT may be short.
 
-<span id="fig-12-84"></span>![](_page_60_Figure_2.jpeg)
+<span id="fig-12-84"></span>![](_page_3_Figure_84a.jpeg), ![](_page_3_Figure_84b.jpeg)
 
 **FIGURE 12–84. A.** Above: Electrocardiographic (ECG) alterations observed in successive stages of hyperkalemia. The atrial and ventricular action potential has been superimposed. With the increase of potassium (Ke), the level of diastolic threshold potential (DTP), height of phase 0, and its rate of increase (the points on the dotted line are closer together) are all decreased. The surface ECG shows that the QRS duration is increased, and the P wave disappears. Below: A 20-year-old man with chronic renal failure who had periodic hemodialysis during the 2 years prior to the recording. There is severe hypertension (210/130 mm Hg) and an elevated potassium level (6.4 mEq/L). Note the tall and peaked T wave and elevation of the ST segment in V<sub>2</sub> and V<sub>3</sub>. In leads I, II, and III, QT is relatively long at the expense of the ST segment caused by associated hypocalcemia. **B.** Above: ECG alterations observed in successive stages of hypokalemia. The ventricular action potential has been superimposed. On the left is the DTP value, and below is the Ke level. Note how the action potential duration progressively increases at the expense of a decrease in the velocity of phase 2. The ECG shows a progressively bigger U wave and lesser T wave, together with an evident descent of the ST segment. Below: A 45-year-old patient with advanced mitroaortic valve disease who was treated with excessive doses of digitalis and diuretics. The Ke value is 2.3 mEq/L. An ECG alteration representing phase C (above) is clearly seen, particularly in V<sub>2</sub> to V<sub>4</sub>.
 
@@ -2059,7 +2061,7 @@ Electrical alternans is characterized by the alternans of the complex-to-complex
 
 The cases of electrical alternans at higher risk for malignant ventricular arrhythmias are those that appear during repolarization (ST-T waves). Although the detection of microscopic electrical alternans of the T wave has been described as a risk marker for sudden death in postinfarction patients, we will now discuss those cases in which electrical alternans is visible in the surface ECG. In our experience, there are three well-defined clinical situations that show evident ST-T alternans in the surface ECG, and they are also accompanied by VT/VF. These are as follows: alternans of the T wave that often precedes a crisis of TdP in patients who have a long QT syndrome ([Fig. 12–88D](#fig-12-88)); alternans of the T wave, often with acquired long QT, that can be seen in cases of shock and/or important ionic disturbances ([Fig. 12–88C](#fig-12-88)); and alternans of ST-T as an expression of severe and hyperacute ischemia that can be seen in cases of ACS affecting a great ischemic area and also in cases of coronary spasm of a proximal artery ([Fig. 12–88B](#fig-12-88)).
 
-<span id="fig-12-88"></span>![](_page_62_Figure_4.jpeg)
+<span id="fig-12-88"></span>![](_page_3_Figure_88.jpeg)
 
 **FIGURE 12–88.** Typical examples of electrical alternans: (**A**) alternans of QRS in a patient with pericardial tamponade, (**B**) ST-QT alternans in Prinzmetal angina, (**C**) repolarization alternans in significant electrolyte imbalance, (**D**) repolarization alternans in congenital long QT syndrome, and (**E**) in the case of junctional reentrant tachycardia with an accessory pathway.
 
