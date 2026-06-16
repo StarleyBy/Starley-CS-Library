@@ -93,7 +93,7 @@ Cardiac assist devices represent a diverse set of short- and long-term solutions
 
 With the pace of innovation and clinical introduction of increasingly sophisticated, smaller, and less invasive supportive cardiac devices, it is impossible to present a representative listing of these devices and their associated radiographic manifestations and complications within the context of this chapter. Greater details can be found in excellent reviews of these devices and their appearance.
 
-<span id="fig-14-3"></span>![](_page_304_Picture_3.jpeg)
+<span id="fig-14-3"></span>![](_page_304_Figure_3.jpeg)
 
 **FIGURE 14–3.** Frontal radiograph illustrating right atrial and right ventricular leads (*arrows*) from a left-sided subcutaneous pacemaker. 
 

@@ -371,7 +371,7 @@ An anecdote of how the commonly used, easy-to-remember 220 – age formula was c
 
 ### Walking on the Treadmill</summary><div class="details-content">
 
-<span id="fig-13-4"></span>![](_page_303_Picture_4.jpeg)
+<span id="fig-13-4"></span>![](_page_303_Figure_4.jpeg)
 
 **FIGURE 13–4.** Proper posture on the treadmill. Correct and incorrect posture is represented for treadmill walking. Erect posture is all-important. 
 
