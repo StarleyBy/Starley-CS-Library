@@ -324,7 +324,7 @@ The echocardiographic examination may be performed with the operator either to t
 
 The examination customarily begins with the transducer in the left parasternal position in the long‑axis view ([Fig. 15–14](#fig-15-14)). This provides excellent images of the LV, aorta, LA, and the mitral and aortic valves. By angling the beam slightly rightward and inferiorly (right ventricular [RV] inflow view), the right atrium (RA), RV, and tricuspid valve (TV) are visualized ([Fig. 15–15](#fig-15-15)).
 
-<span id="fig-15-14"></span>![](_page_9_Figure_2.jpeg)
+<span id="fig-15-14"></span>![](_page_305_Figure_14.jpeg)
 
 **FIGURE 15–14. A.** Orientation of the sector beam and transducer position for the parasternal long‑axis view of the left ventricle. **B.** 2D image of the heart, parasternal long‑axis view. Ao, aorta; LA, left atrium; LV, left ventricle; RV, right ventricle.
 
@@ -332,19 +332,17 @@ The examination customarily begins with the transducer in the left parasternal p
 
 ![](_page_9_Picture_5.jpeg)
 
-**FIGURE 15–15. A.** Orientation of the sector beam and transducer position for the parasternal RV inflow plane. **B.** Two‑dimensional image of RV inflow plane. RA, right atrium; RV, right ventricle. **A**, reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–15. A.** Orientation of the sector beam and transducer position for the parasternal RV inflow plane. **B.** Two‑dimensional image of RV inflow plane. RA, right atrium; RV, right ventricle. 
 
 A 90‑degree clockwise turn of the transducer produces the parasternal short‑axis view. Slight axial angulation of the transducer enables visualization of the LV at various levels of the short axis, including the papillary muscle, mitral leaflets, and AoV ([Fig. 15–16](#fig-15-16)). With angulation toward the base, the LA, right heart structures, main pulmonary artery (PA), and occasionally the LA appendage are also recorded. The apical views are best acquired with the patient in a steep left lateral decubitus position and the transducer at the point of the apical impulse. The four‑chamber view is obtained by turning the transducer so that both ventricles, atrioventricular valves, and atria are visualized ([Fig. 15–17](#fig-15-17)). In this view, the septal, apical, and lateral walls of the LV are visualized. Slight superior angulation of the transducer will add the AoV and proximal ascending aorta to the echocardiographic image (apical five‑chamber view). From the four‑chamber view, 90 degrees of counterclockwise transducer rotation produces the apical two‑chamber view ([Fig. 15–18A and B](#fig-15-18)). This imaging plane demonstrates the LA and the inferior, apical, and anterior wall segments of the LV (the right heart structures are absent). If the transducer is rotated slightly further, a three‑chamber view similar to the parasternal long‑axis view is produced ([Fig. 15–18C](#fig-15-18)) and provides images of the posterior, apical, and anteroseptal LV wall segments, as well as the LA, AO, and mitral and aortic valves.
 
-<span id="fig-15-16"></span>![](_page_10_Figure_2.jpeg)
+<span id="fig-15-16"></span>![](_page_305_Figure_16.jpeg)
 
-**FIGURE 15–16. A.** Orientation of various short‑axis sector beams through the left ventricle obtained by angling the transducer in the parasternal position. **B.** Short‑axis plane through the base of the heart. **C.** At the level of the mitral valve leaflets. **D.** At the papillary muscle level. **E.** Modified parasternal short axis plane through the RV outflow tract and pulmonary artery. aMVL, anterior mitral valve leaflet; L, left cusp of the aortic valve; LA, left atrium; LV, left ventricle; N, noncoronary cusp of the aortic valve, PA, pulmonary artery; PMVL, posterior mitral valve leaflet; RA, right atrium; R, right cusp of the aortic valve; RV, right ventricle; RVOT, right ventricular outflow tract. **A**, reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–16. A.** Orientation of various short‑axis sector beams through the left ventricle obtained by angling the transducer in the parasternal position. **B.** Short‑axis plane through the base of the heart. **C.** At the level of the mitral valve leaflets. **D.** At the papillary muscle level. **E.** Modified parasternal short axis plane through the RV outflow tract and pulmonary artery. aMVL, anterior mitral valve leaflet; L, left cusp of the aortic valve; LA, left atrium; LV, left ventricle; N, noncoronary cusp of the aortic valve, PA, pulmonary artery; PMVL, posterior mitral valve leaflet; RA, right atrium; R, right cusp of the aortic valve; RV, right ventricle; RVOT, right ventricular outflow tract. 
 
-<span id="fig-15-17"></span>![](_page_11_Picture_2.jpeg)
+<span id="fig-15-17"></span>![](_page_305_Figure_17.jpeg)
 
-![](_page_11_Figure_3.jpeg)
-
-**FIGURE 15–17. A.** Orientation of the sector beam and transducer position for the apical four‑chamber plane. **B.** Two‑dimensional image of the apical four‑chamber plane. LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle. **A**, reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–17. A.** Orientation of the sector beam and transducer position for the apical four‑chamber plane. **B.** Two‑dimensional image of the apical four‑chamber plane. LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle. 
 
 <span id="fig-15-18"></span>![](_page_11_Picture_8.jpeg)
 
@@ -352,19 +350,19 @@ A 90‑degree clockwise turn of the transducer produces the parasternal short‑
 
 ![](_page_11_Figure_10.jpeg)
 
-**FIGURE 15–18. A.** Orientation of the sector beam and transducer position for the apical two‑chamber plane. **B.** Two‑dimensional (2D) image of the apical two‑chamber plane. **C.** 2D image of the apical three‑chamber view. Ao, aorta; LA, left atrium; LV, left ventricle. **A**, reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–18. A.** Orientation of the sector beam and transducer position for the apical two‑chamber plane. **B.** Two‑dimensional (2D) image of the apical two‑chamber plane. **C.** 2D image of the apical three‑chamber view. Ao, aorta; LA, left atrium; LV, left ventricle. 
 
 To facilitate subcostal imaging, the patient is moved into a supine position. The subcostal four‑chamber view is much like the apical four‑chamber view ([Fig. 15–19](#fig-15-19)), but because the ultrasound beam is now more perpendicular to the interventricular and interatrial septa, subcostal imaging is often helpful in the examination of these structures. A 90‑degree rotation of the transducer will record a subcostal short‑axis view. The transducer can also be angled to image the RV outflow tract and PA as well as the inferior vena cava (see [Fig. 15–19](#fig-15-19)).
 
-<span id="fig-15-19"></span>![](_page_12_Figure_2.jpeg)
+<span id="fig-15-19"></span>![](_page_305_Figure_19.jpeg)
 
-**FIGURE 15–19. A.** Orientation of the sector beam and transducer position for the subcostal four‑chamber plane. **B.** Two‑dimensional (2D) image of the subcostal four‑chamber plane. **C.** Subcostal 2D image demonstrating the right atrium (RA) and inferior vena cava (IVC). **D.** 2D image of the subcostal short‑axis plane. Asterisk, a prominent eustachian valve; LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle. **A**, reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–19. A.** Orientation of the sector beam and transducer position for the subcostal four‑chamber plane. **B.** Two‑dimensional (2D) image of the subcostal four‑chamber plane. **C.** Subcostal 2D image demonstrating the right atrium (RA) and inferior vena cava (IVC). **D.** 2D image of the subcostal short‑axis plane. Asterisk, a prominent eustachian valve; LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle. 
 
 The long‑axis suprasternal imaging plane is shown in [Fig. 15–20](#fig-15-20). In adults, the LV is usually not visualized satisfactorily from the suprasternal position, but these imaging planes are well suited for examination of the thoracic aorta, PA, and great vessels. Normal values for 2D echocardiographic measurements are shown in [Table 15–3](#table-15-3).
 
-<span id="fig-15-20"></span>![](_page_13_Figure_2.jpeg)
+<span id="fig-15-20"></span>![](_page_305_Figure_20.jpeg)
 
-**FIGURE 15–20. A.** Orientation of the sector beam and transducer position for long‑axis plane through the aorta from the suprasternal position. **B.** Two‑dimensional image of the suprasternal long‑axis view of the thoracic aorta. **C.** Example of three‑dimensional (3D) image in a case of dilated cardiomyopathy. **D.** 3D transesophageal image of the mitral valve during systole (*left*) and diastole (*right*). **E.** Simultaneous orthogonal transesophageal echocardiography images of a patent foramen ovale (PFO) occluder device (*arrow*). **F.** 3D transesophageal image of a PFO occluder device. AL, anterior mitral valve leaflet; Ao, aorta; I, innominate artery; LCCA, left common carotid artery; LSC, left subclavian artery; LV, left ventricle; P1/P2/P3, lateral/middle/medial scallops of the posterior mitral valve leaflet; PA, right pulmonary artery; RA, right atrium; RV, right ventricle. **D**, reproduced with permission from Perk G, Lang RM, Garcia‑Fernandez MA, et al. Use of real time three‑dimensional transesophageal echocardiography in intracardiac catheter based interventions, *J Am Soc Echocardiogr*. 2009 Aug;22:865‑882.
+**FIGURE 15–20. A.** Orientation of the sector beam and transducer position for long‑axis plane through the aorta from the suprasternal position. **B.** Two‑dimensional image of the suprasternal long‑axis view of the thoracic aorta. **C.** Example of three‑dimensional (3D) image in a case of dilated cardiomyopathy. **D.** 3D transesophageal image of the mitral valve during systole (*left*) and diastole (*right*). **E.** Simultaneous orthogonal transesophageal echocardiography images of a patent foramen ovale (PFO) occluder device (*arrow*). **F.** 3D transesophageal image of a PFO occluder device. AL, anterior mitral valve leaflet; Ao, aorta; I, innominate artery; LCCA, left common carotid artery; LSC, left subclavian artery; LV, left ventricle; P1/P2/P3, lateral/middle/medial scallops of the posterior mitral valve leaflet; PA, right pulmonary artery; RA, right atrium; RV, right ventricle. 
 
 <span id="table-15-3"></span><details class="med-details"><summary>
 
@@ -452,7 +450,7 @@ Because of the 3D nature of the heart, 2D cut‑planes are inevitably different 
 
 The use of 2D echo also presents limitations related to image quality. Several approaches have been used to improve contrast resolution of the echo signal and therefore better delineate the endocardial border. Greater enhancement of endocardial border delineation and improvement of the reliability of measures of LV size and contraction have been achieved using tissue harmonic imaging. LV opacification using echo contrast agents improves accuracy and reliability. The available products vary by country, but in all jurisdictions, the technique remains underutilized. Images of the power spectrum of the Doppler signal produced by contraction/relaxation and colorization of the B‑mode tissue image have been used to visualize the endocardial surface. Another approach to quantitation of regional function is based on tissue Doppler or tracking of speckle patterns ([Fig. 15–22](#fig-15-22)). A variety of displays have been used to show the magnitude and time‑course of contraction ([Fig. 15–23](#fig-15-23)). This technique has been valuable in the recognition of subtle abnormalities of LV contraction and regional disturbances of LV diastolic function.
 
-<span id="fig-15-22"></span>![](_page_15_Figure_6.jpeg)
+<span id="fig-15-22"></span>![](_page_305_Figure_22.jpeg)
 
 **FIGURE 15–22.** Methods for quantification of regional function, including tissue Doppler (**A**), velocity vector imaging (**B**), strain rate and strain derived from tissue Doppler (**C**), and strain rate‑derived from speckle strain (**D**). Em, diastolic velocity; Sm, systolic velocity; SR, strain rate; VVI, velocity vector imaging.
 
@@ -480,7 +478,7 @@ $$V = \frac{f_d \cdot c}{2 f_o (\cos \theta)}$$
 
 where f<sub>d</sub> is the frequency shift recorded; f<sub>o</sub>, the transmitted frequency; and c, the velocity of sound. Note that the denominator is doubled.
 
-<span id="fig-15-24"></span>![](_page_16_Figure_2.jpeg)
+<span id="fig-15-24"></span>![](_page_305_Figure_24.jpeg)
 
 **FIGURE 15–24.** Basic principle of the Doppler shift. During diastole (*left panel*), an ultrasound beam directed toward the junction of the mitral and aortic annuli is reflected by red blood cells moving toward the transducer. The frequency of the received ultrasound is greater than that of the transmitted beam, and the spectral tracing is recorded above the baseline (i.e., flow is toward the transducer). During the isovolumic phase (*middle panel*), both the mitral and aortic valves are closed and little flow occurs within the left ventricle. Therefore, there are no significant changes in the transmitted and received frequencies of the Doppler beam, and no spectral tracing is recorded. During systole (*right panel*), the transmitted beam is reflected by red blood cells moving away from the transducer. Therefore, the frequency of the received ultrasound is lower than that of the transmitted beam, and the spectral tracing is recorded below the baseline.
 
@@ -490,11 +488,11 @@ The angle between the direction of blood flow and the course of the sound beam i
 
 <span id="fig-15-25"></span>![](_page_16_Figure_8.jpeg)
 
-**FIGURE 15–25.** Effect of the angle of incidence on the velocity recorded with Doppler analysis. The true velocity is underestimated when the ultrasound beam is not parallel to the direction of blood flow. Reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two-Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–25.** Effect of the angle of incidence on the velocity recorded with Doppler analysis. The true velocity is underestimated when the ultrasound beam is not parallel to the direction of blood flow. 
 
 [Figure 15–26](#fig-15-26) shows the typical graphic pulsed Doppler pattern of normal systolic blood flow through the RV outflow tract into the PA, with flow velocity on the y‑axis and time on the x‑axis. The location and size of the area from which Doppler recordings are derived is determined by positioning a sample volume on the echo image. The absence of flow is represented by the zero or no‑flow line, termed the *baseline*. By convention, flow toward the transducer is displayed above the baseline and flow away from the transducer is displayed below the baseline. The velocities above and below baseline represent flow toward or away from the transducer, not forward or backward in the circulation. The sample volume almost invariably includes RBCs flowing at slightly different velocities. Even normal laminar blood flow in the great vessels varies in velocity across the lumen, because RBCs in the center of the vessel move at higher velocity than those exposed to viscous friction at the wall. Therefore, any returning Doppler‑shifted signal contains a spectrum of velocities, each of which can be displayed by means of fast Fourier transform analysis. The graphic output of the Doppler signal displays the range of velocities within the sample volume site at any time in gray scale and the number of RBCs moving at any velocity as relative intensity. Normal laminar flow is characterized by a uniformity of velocity and direction of individual RBCs, and therefore a narrowly dispersed signal, whereas disturbed or turbulent flow is manifest by marked variability in velocity and direction and therefore a broad signal.
 
-<span id="fig-15-26"></span>![](_page_17_Figure_2.jpeg)
+<span id="fig-15-26"></span>![](_page_305_Figure_26.jpeg)
 
 **FIGURE 15–26.** Doppler spectral envelope of normal blood flow through the right ventricular outflow tract (RVOT) during systole. The transducer is in the parasternal position and the sample volume is placed just proximal to the pulmonic valve.
 
@@ -530,21 +528,21 @@ The problem of range ambiguity can be overcome by pulsed‑wave Doppler (PWD). S
 
 The major limitation of pulsed and CW Doppler (*spectral Doppler*) is that no spatial information regarding the size, shape, and 2D direction of flow is provided. An extension of PWD techniques, color‑flow Doppler (CFD), provides real‑time M‑mode or 2D imaging of blood flow by presenting the velocity and direction of RBC movement as shades of color superimposed on gray‑level 2D tissue structure. Standard pulsed Doppler yields flow signals from a single site along a single scan line. In CFD, rapid pulsed‑wave interrogations are performed at multiple sites for multiple scan lines to create a spatially correct and dynamic display of moving blood within the heart and vasculature ([Fig. 15–29](#fig-15-29)). Doppler signals are presented as colors assigned to individual sites ([Fig. 15–30](#fig-15-30)). Blood flow moving toward the transducer is displayed in red, flow away from the transducer is displayed in blue, and increasing velocity is depicted in brighter shades of each color. The variance within each signal is calculated as a statistical marker of turbulence and is presented by adding green to the image ([Fig. 15–31](#fig-15-31)). Therefore, turbulent flow jets appear as a mosaic mix of colors. CFD also can be superimposed onto M‑mode tracings ([Fig. 15–32](#fig-15-32)), often termed *color M‑mode imaging*, and is helpful in clarifying the timing of flow phenomena.
 
-<span id="fig-15-29"></span>![](_page_18_Figure_2.jpeg)
+<span id="fig-15-29"></span>![](_page_305_Figure_29.jpeg)
 
-**FIGURE 15–29.** Simplified mechanism of color‑flow Doppler imaging. Single‑gate (*left*) or multiple‑gate pulsed Doppler (*center*) can evaluate flow at points along a single ultrasound beam path. Color‑flow imaging (*right*) assesses the velocity and direction of flow for multiple sample volumes along multiple beam paths and assigns a color indicative of velocity and direction at each sample volume site. Reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–29.** Simplified mechanism of color‑flow Doppler imaging. Single‑gate (*left*) or multiple‑gate pulsed Doppler (*center*) can evaluate flow at points along a single ultrasound beam path. Color‑flow imaging (*right*) assesses the velocity and direction of flow for multiple sample volumes along multiple beam paths and assigns a color indicative of velocity and direction at each sample volume site. 
 
-<span id="fig-15-30"></span>![](_page_18_Figure_11.jpeg)
+<span id="fig-15-30"></span>![](_page_305_Figure_30.jpeg)
 
 ![](_page_18_Figure_12.jpeg)
 
 **FIGURE 15–30.** Apical four‑chamber images with color‑flow Doppler during diastole (**A**) and systole (**B**). Red flow indicates movement toward the transducer (diastolic filling); blue flow indicates movement away from the transducer (systolic ejection). LV, left ventricle; RA, right atrium; RV, right ventricle.
 
-<span id="fig-15-31"></span>![](_page_19_Picture_2.jpeg)
+<span id="fig-15-31"></span>![](_page_305_Picture_31.jpeg)
 
 **FIGURE 15–31.** Apical four‑chamber view of severe tricuspid regurgitation. The Doppler color jet of tricuspid regurgitation fills the right atrium. LA, left atrium; LV, left ventricle; PISA, proximal isovelocity surface area; RV, right ventricle; TR, tricuspid regurgitation.
 
-<span id="fig-15-32"></span>![](_page_19_Figure_5.jpeg)
+<span id="fig-15-32"></span>![](_page_305_Figure_32.jpeg)
 
 **FIGURE 15–32.** Color‑flow Doppler superimposed on an M‑mode image. The transducer is in parasternal position, and the cursor is directed through the left ventricular outflow tract (LVOT) and left atrium (LA). The patient under study has both aortic insufficiency (AI) and mitral regurgitation (MR). RV, right ventricle.
 
@@ -615,9 +613,7 @@ Other common measurements include the acceleration time, from the beginning of f
 
 There has been a great deal of interest in using mitral inflow velocity patterns to evaluate LV diastolic properties. Transmitral filling velocities reflect the pressure gradient between the LA and LV during diastole (see [Fig. 15–34](#fig-15-34)). In early diastole, pressure in the LV falls below that in the left atrium (LA), producing an increase in velocity due to rapid transmitral inflow (E wave). Flow decelerates as the pressures equilibrate in mid‑diastole. In late diastole, LA contraction restores a small gradient, causing transmitral flow to accelerate to a second peak (A wave) that is normally lesser in magnitude than the E wave. In individuals in whom early relaxation is impaired, the transmitral pressure gradient is blunted, resulting in a decrease in both early filling and E‑wave deceleration ([Fig. 15–38A](#fig-15-38)). Conversely, in patients with marked increases of LA pressure and LV stiffness, early diastolic filling velocities are high, deceleration is rapid, and late filling after atrial contraction is markedly reduced. This is the so‑called *restrictive pattern of LV filling* ([Fig. 15–38B](#fig-15-38)). Accordingly, an E‑wave velocity that is substantially less than the A‑wave velocity and is accompanied by a prolonged deceleration time represents evidence of impaired early diastolic relaxation by Doppler, whereas an increased E‑wave velocity and decreased A‑wave velocity (E/A ratio > 2.5:1 or 3:1) accompanied by a diminished deceleration time (< 160 milliseconds) is indicative of a noncompliant LV with markedly elevated LA pressures. A restrictive pattern occurs with restrictive cardiomyopathy, advanced LV dysfunction of any cause, and/or in pericardial disease.
 
-<span id="fig-15-38"></span>![](_page_21_Figure_2.jpeg)
-
-![](_page_22_Figure_2.jpeg)
+<span id="fig-15-38"></span>![](_page_305_Figure_38.jpeg), ![](_page_305_Figure_38g.jpeg)
 
 **FIGURE 15–38.** **A.** Pulsed‑wave Doppler (PWD) tracing of diastolic relaxation abnormality (see text for details). **B.** PWD tracing of diastolic restrictive abnormality (see text for details). **C.** Tissue Doppler recording of normal lateral mitral annular motion (apical transducer position). Peak early diastolic annular velocity is 17 cm/s. **D.** PWD recording of pulmonary venous flow in mild diastolic dysfunction (abnormal relaxation). The S wave is prominent, whereas the D wave is small. **E.** Tissue Doppler image (septal mitral annulus) in mild diastolic dysfunction. Early diastolic velocity is blunted (4 cm/s). **F.** PWD recording of pulmonary venous flow in severe diastolic dysfunction. The S wave is small, whereas the D wave is prominent. **G.** Tissue Doppler image in severe diastolic dysfunction. Both E<sub>m</sub> and A<sub>m</sub> velocities are abnormally low. A, atrial contraction; E, early rapid filling.
 
@@ -629,9 +625,9 @@ In a young, healthy individual, the E/A ratio is generally between 1.5:1 and 2:1
 
 As diastolic function worsens and LV filling pressures increase, a pseudonormal pattern occurs in the transmitral flow tracing ([Fig. 15–39](#fig-15-39)). Pulmonary venous and TDI are especially helpful in this case: If the S/D ratio is < 1 (except in the setting of a young individual), high LV filling pressure is likely present despite the seemingly normal E/A of > 1. Similarly, the presence of a low, blunted E<sub>m</sub> velocity in the setting of a normal transmitral E/A ratio strongly suggests diastolic dysfunction and elevated LV filling pressure. In fact, the ratio of the E/E<sub>m</sub> velocities correlates reasonably well with pulmonary capillary wedge pressure, and a ratio of > 15:1 reliably identifies an abnormal elevation of wedge pressure. Of note, the Valsalva maneuver can be helpful in distinguishing pseudonormal and normal transmitral flow patterns. In normal individuals, both E and A velocities drop to a similar degree with Valsalva (i.e., E/A remains > 1 following Valsalva). In pseudonormal states, however, the drop in preload caused by the Valsalva maneuver changes the transmitral pattern to that of mild diastolic dysfunction (i.e., reversal of E/A to < 1 following Valsalva, usually with a 50% reduction of E‑wave magnitude). In atrial fibrillation, when an A wave is not present, assessment of diastolic function class is difficult, although E/e′ is still valid if averaged over sufficient cardiac cycles.
 
-<span id="fig-15-39"></span>![](_page_22_Figure_11.jpeg)
+<span id="fig-15-39"></span>![](_page_305_Figure_39.jpeg)
 
-**FIGURE 15–39.** Doppler assessment of progressive diastolic dysfunction utilizing transmitral pulsed‑wave Doppler, pulmonary venous Doppler, and mitral annular tissue Doppler imaging. A, atrial component of LV filling; A<sub>m</sub>, myocardial velocity during LV filling produced by atrial contraction; Dec. Time, E wave deceleration time; E, early LV filling velocity; E<sub>m</sub>, early diastolic myocardial velocity; IVRT, isovolumic relaxation time; PV<sub>ar</sub>, pulmonary vein velocity resulting from atrial contraction; PV<sub>d</sub>, diastolic pulmonary vein velocity; PV<sub>s</sub>, systolic pulmonary vein velocity. Reproduced from Zile MR, Brutsaert DL: New concepts in diastolic dysfunction and diastolic heart failure: Part I: diagnosis, prognosis, and measurements of diastolic function, *Circulation*. 2002 Mar 19;105:1387‑1393.
+**FIGURE 15–39.** Doppler assessment of progressive diastolic dysfunction utilizing transmitral pulsed‑wave Doppler, pulmonary venous Doppler, and mitral annular tissue Doppler imaging. A, atrial component of LV filling; A<sub>m</sub>, myocardial velocity during LV filling produced by atrial contraction; Dec. Time, E wave deceleration time; E, early LV filling velocity; E<sub>m</sub>, early diastolic myocardial velocity; IVRT, isovolumic relaxation time; PV<sub>ar</sub>, pulmonary vein velocity resulting from atrial contraction; PV<sub>d</sub>, diastolic pulmonary vein velocity; PV<sub>s</sub>, systolic pulmonary vein velocity.
 
 In severe diastolic dysfunction, transmitral flow demonstrates a restrictive pattern, with an abnormally high E/A ratio and a markedly shortened E wave deceleration time (see [Fig. 15–38B](#fig-15-38)). Concomitant pulmonary venous tracings show a very low S velocity and elevated D velocity (S << D) (see [Fig. 15–38F](#fig-15-38)). In some cases, the pulmonary venous atrial reversal wave can be prominent and prolonged. In this regard an abnormally prolonged duration of reversed pulmonary venous flow during atrial contraction accurately predicts elevated LV filling pressures. TDI in severe LV diastolic dysfunction shows marked blunting of both E<sub>m</sub> and A<sub>m</sub> velocities (see [Fig. 15–38G](#fig-15-38)). An exception to this occurs in constrictive pericarditis, where early diastolic mitral annular motion is often preserved. Thus when transmitral and pulmonary venous Doppler suggest severe diastolic dysfunction, a normal TDI pattern suggests constrictive rather than restrictive physiology.
 
@@ -653,7 +649,7 @@ One of the most important applications of Doppler is in the calculation of the s
 
 ![](_page_23_Figure_9.jpeg)
 
-**FIGURE 15–40.** Calculation of stroke volume. Multiplying the cross‑sectional area (CSA) of the blood column in the ascending aorta by the distance the column moves during a single cardiac contraction yields the stroke volume (SV). The velocity‑time integral (VTI), expressed in units of length, represents the *stroke distance*. Modified with permission from Schlant RC, Alexander RW: *The Heart, Arteries, and Veins*, 8th ed. New York: McGraw‑Hill; 1994.
+**FIGURE 15–40.** Calculation of stroke volume. Multiplying the cross‑sectional area (CSA) of the blood column in the ascending aorta by the distance the column moves during a single cardiac contraction yields the stroke volume (SV). The velocity‑time integral (VTI), expressed in units of length, represents the *stroke distance*. 
 
 Although stroke volume can theoretically be calculated at any valve annulus, this is not always possible in clinical practice. Because the measurement of annular radius is squared in the computation of area, it is a potent source of error in Doppler stroke‑volume analysis. Stroke‑volume analysis through the mitral annulus is difficult; the shape of the annulus is elliptical rather than circular, and the cross‑sectional area of the annulus probably changes slightly during diastole. Despite these limitations, measurements of stroke volume through the various cardiac valves are clinically useful and can be used to calculate pulmonary‑to‑systemic shunt ratios, regurgitant volumes, and orifice areas of stenotic valves by the continuity equation, discussed in detail below.
 
@@ -673,9 +669,9 @@ $$\text{Gradient} = 4[(\text{orifice velocity})^2 - (\text{proximal velocity})^2
 
 If the blood velocity proximal to the stenosis is low (< 1.5 m/s), this term can be ignored. The resulting modified equation states that the pressure gradient across a discrete orifice is equal to four times the square of the peak velocity (V) through the stenosis (PG = 4V<sup>2</sup>).
 
-<span id="fig-15-41"></span>![](_page_24_Picture_11.jpeg)
+<span id="fig-15-41"></span>![](_page_305_Picture_41.jpeg)
 
-**FIGURE 15–41.** The modified Bernoulli equation. Pressure drop across a small orifice can be estimated as four times the square of the peak velocity (if the proximal velocity is < 1 m/s). V<sub>1</sub> and P<sub>1</sub>, proximal velocity and pressure; V<sub>2</sub> and P<sub>2</sub>, distal velocity and pressure. Modified with permission from Schlant RC, Alexander RW: *The Heart, Arteries, and Veins*, 8th ed. New York: McGraw‑Hill; 1994.
+**FIGURE 15–41.** The modified Bernoulli equation. Pressure drop across a small orifice can be estimated as four times the square of the peak velocity (if the proximal velocity is < 1 m/s). V<sub>1</sub> and P<sub>1</sub>, proximal velocity and pressure; V<sub>2</sub> and P<sub>2</sub>, distal velocity and pressure. 
 
 The modified Bernoulli equation can be used to calculate pressure gradients across any flow‑limiting orifice and has been validated against invasive measurements. If at least trivial valvular regurgitation is present, systolic gradients across the tricuspid valve and end‑diastolic gradients across the pulmonic valve can be calculated. If the RV diastolic pressure is known (or estimated as the right atrial or central venous pressure), peak RV and PA pressure (assuming pulmonic stenosis is absent) can be computed as follows:
 
@@ -699,11 +695,9 @@ Furthermore, the acceleration of the MR jet can be used to estimate LV systolic 
 
 Although transvalvular pressure gradients can be calculated from CW Doppler recordings using the modified Bernoulli equation, gradients sometimes can be misleading in the evaluation of valvular stenosis. The transvalvular gradient is determined by both the size of the stenotic orifice and the stroke volume traversing it. Severe AS and accompanying LV systolic dysfunction may produce a low transvalvular gradient despite a small valve area, whereas coexistent AR may result in a large gradient with only mild AS. The calculation of orifice area by Doppler echocardiography uses the *continuity equation*, which is derived from the law of the conservation of mass and states that the product of cross‑sectional area and velocity is constant in a closed system of flow ([Fig. 15–42](#fig-15-42)). Thus in the case of AS, the product of the area and velocity of the left LV outflow tract equals the product of the area and velocity of the aortic valve orifice. Measurements of annular diameter and integrated velocity are derived by the standard volumetric approach, whereas the velocity across the stenotic orifice is derived by CW Doppler. The equation is then solved for the valve area.
 
-<span id="fig-15-42"></span>![](_page_24_Picture_18.jpeg)
+<span id="fig-15-42"></span>![](_page_305_Figure_42.jpeg)
 
-![](_page_24_Picture_20.jpeg)
-
-**FIGURE 15–42.** The continuity equation. In a closed system (top) with constant flow, Q<sub>1</sub> = Q<sub>2</sub>. Therefore, A<sub>1</sub> × V<sub>1</sub> must equal A<sub>2</sub> × V<sub>2</sub>. Determination of any three of the variables allows calculation of the fourth. Clinically (bottom), the area of the left ventricular outflow tract (LVOT) can be estimated and used to determine AV area. AV, aortic valve. V is usually incorporated as time‑velocity integral (VTI), but mean or peak velocity have also been used. Reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–42.** The continuity equation. In a closed system (top) with constant flow, Q<sub>1</sub> = Q<sub>2</sub>. Therefore, A<sub>1</sub> × V<sub>1</sub> must equal A<sub>2</sub> × V<sub>2</sub>. Determination of any three of the variables allows calculation of the fourth. Clinically (bottom), the area of the left ventricular outflow tract (LVOT) can be estimated and used to determine AV area. AV, aortic valve. V is usually incorporated as time‑velocity integral (VTI), but mean or peak velocity have also been used. 
 
 The most common pitfall is an inaccurate estimation of the cross‑sectional area proximal to the stenosis. In addition, it is essential that blood velocity proximal to a stenosis be measured outside the area of flow acceleration. Finally, the continuity equation actually solves for the area of the vena contracta, which is usually just distal to the stenotic orifice. In general, however, this correlates well with the aortic valve area.
 
@@ -731,9 +725,9 @@ TTE usually defines cardiac anatomy and function satisfactorily, often obviating
 
 Current TEE probes are capable of multiplane imaging of the heart with full capabilities of pulsed‑wave, CW, and color‑flow Doppler. The latest generations of TEE transducers can also provide real‑time 3D imaging, allowing visualization of cardiac structures and flow in the 3D space. Images can be recorded from a variety of probe positions, but most commonly from the esophageal level, posterior to the cardiac base, and from the stomach (transgastric level), caudal to the heart ([Fig. 15–43](#fig-15-43)). TEE images are obtained in various planes through the heart ([Figs. 15–44](#fig-15-44) through [15–47](#fig-15-47)). It must be emphasized that, with the transducer in the esophagus, posterior structures appear at the top of the image. An apical‑equivalent four‑chamber and long‑axis views of the heart with multiple intermediate planes are usually obtained; excellent visualization of the atria, interatrial septum, cardiac valves, great vessels, and pulmonary veins can be acquired. Advancing the transducer into the stomach, a short‑axis cardiac view is routinely obtained, with long‑axis and apical views available to a variable degree. Lastly, on withdrawing the probe and aiming posteriorly, excellent imaging of the descending aorta and transverse arch can be achieved.
 
-<span id="fig-15-43"></span>![](_page_25_Figure_2.jpeg)
+<span id="fig-15-43"></span>![](_page_305_Figure_43.jpeg)
 
-**FIGURE 15–43.** Standard transesophageal echocardiography imaging planes in transverse and longitudinal axes. Reproduced with permission from Fisher EA, Stahl JA, Budd JH, et al: Transesophageal echocardiography: procedures and clinical application, *J Am Coll Cardiol*. 1991 Nov 1;18:1333‑1348.
+**FIGURE 15–43.** Standard transesophageal echocardiography imaging planes in transverse and longitudinal axes. 
 
 <span id="fig-15-44"></span>![](_page_25_Figure_13.jpeg)
 
@@ -749,8 +743,7 @@ Current TEE probes are capable of multiplane imaging of the heart with full capa
 
 ![](_page_26_Picture_7.jpeg)
 
-**FIGURE 15–46. A.** Modified short‑axis view through the level of the aortic valve, demonstrating the left (L), right (R), and noncoronary (N) valvular cusps. **B.** Magnified longitudinal view of the aortic valve (*arrow*) showing the coaptation of the cusps and the sinuses of Valsalva. **C.** Longitudinal image at level of the aortic arch, demonstrating the transverse aorta (A), the brachiocephalic vein (V), and the main pulmonary artery (PA). The pulmonic valve is visible as well (*arrow*). Ao, aorta; LA, left atrium; PA, pulmonary artery; RA, right atrium; RVOT, right ventricular outflow tract. **B**, reproduced with permission from Blanchard DG1, Kimura BJ, Dittrich HC, et al: Transesophageal echocardiography of the aorta, *JAMA*. 1994 Aug 17;272:546‑551.
-
+**FIGURE 15–46. A.** Modified short‑axis view through the level of the aortic valve, demonstrating the left (L), right (R), and noncoronary (N) valvular cusps. **B.** Magnified longitudinal view of the aortic valve (*arrow*) showing the coaptation of the cusps and the sinuses of Valsalva. **C.** Longitudinal image at level of the aortic arch, demonstrating the transverse aorta (A), the brachiocephalic vein (V), and the main pulmonary artery (PA). The pulmonic valve is visible as well (*arrow*). Ao, aorta; LA, left atrium; PA, pulmonary artery; RA, right atrium; RVOT, right ventricular outflow tract. 
 <span id="fig-15-47"></span>![](_page_26_Figure_12.jpeg)
 
 **FIGURE 15–47.** Short‑axis transesophageal echocardiography plane through the left ventricle from transgastric position. The inferior wall is closest to the transducer, the anterior wall farthest. The interventricular septum is to the reader’s left, the lateral wall to the right. LV, left ventricle; RV, right ventricle.
@@ -773,9 +766,7 @@ In addition, TEE imaging aids in the accurate assessment of native valvular hear
 
 **FIGURE 15–48. A.** Short‑axis transesophageal echocardiography (TEE) plane through the cardiac base. A large septated abscess cavity (A) is present between the aortic root (AO) and the left atrium (LA). **B.** Modified three‑chamber TEE plane showing perforation of the anterior mitral valve leaflet (*arrow*) in a case of endocarditis. **C.** Color imaging reveals severe mitral regurgitation. LA, left atrium; LV, left ventricle; Ao, aorta.
 
-<span id="fig-15-49"></span>![](_page_28_Figure_2.jpeg)
-
-![](_page_28_Figure_3.jpeg)
+<span id="fig-15-49"></span>![](_page_28_Figure_3.jpeg)
 
 **FIGURE 15–49.** Transesophageal echocardiography image (five‑chamber plane) demonstrating a flail posterior leaflet of the mitral valve (*arrow*), and the corresponding color Doppler showing severe mitral regurgitation into the left atrium (LA). LV, left ventricle.
 
@@ -901,7 +892,7 @@ Sinus of Valsalva aneurysms are also well visualized by both TTE and TEE. These 
 
 <span id="fig-15-62"></span>![](_page_33_Figure_12.jpeg)
 
-![](_page_33_Figure_13.jpeg)
+![](_page_33_Figure_12b.jpeg)
 
 **FIGURE 15–62. A.** Parasternal long‑axis plane demonstrating severe aortic root (AO) enlargement. **B.** Transesophageal echocardiography image of a ruptured sinus of Valsalva aneurysm. The *upper image* shows focal aneurysmal dilatation of the right coronary sinus with the appearance of a *windsock*. Color Doppler (*lower image*) reveals a high‑velocity flow jet from the aorta into the right ventricle (RV). Agitated saline was injected intravenously to highlight right heart structures. LA, left atrium; LV, left ventricle.
 
@@ -939,11 +930,11 @@ Penetrating aortic ulceration, which affects the descending AO and may mimic the
 
 The AoV is best imaged in the parasternal views ([Fig. 15–65](#fig-15-65)). The aortic cusps are thin, linear structures. All three can be visualized in the short‑axis view and produce a triangular orifice during systolic opening. The long‑axis view displays the right and usually the noncoronary cusps, which normally open to the walls of the aorta. Mild thickening and reduction of mobility is often observed in the elderly (aortic sclerosis) and is associated with an increased risk of CAD. In older adults, acquired AS is manifested by markedly thickened, often calcified, immobile AoV leaflets ([Fig. 15–66](#fig-15-66)), whereas doming leaflets suggests congenital AS (eg, bicuspid valve) and is usually encountered in younger patients. Subaortic stenosis may be caused by systolic anterior mitral motion as seen in hypertrophic cardiomyopathy, a subaortic membrane, or (less commonly) a subaortic tunnel. Bicuspid valves exhibit an oval rather than triangular orifice ([Fig. 15–67](#fig-15-67)) in systole, while in diastole, a remnant raphe in the fused cusps may give the impression of a three‑cusped valve. This distinction has relevance in the selection of patients for percutaneous valve replacement and may require clarification using TEE or other modalities.
 
-<span id="fig-15-65"></span>![](_page_34_Figure_8.jpeg)
+<span id="fig-15-65"></span>![](_page_305_Figure_65.jpeg)
 
 **FIGURE 15–65.** Parasternal long‑axis plane demonstrating a thickened, stenotic aortic valve (AoV). Ao, aorta; LA, left atrium; LV, left ventricle.
 
-<span id="fig-15-66"></span>![](_page_35_Figure_2.jpeg)
+<span id="fig-15-66"></span>![](_page_305_Figure_66.jpeg)
 
 **FIGURE 15–66.** Transthoracic parasternal long‑ and short‑axis views depicting a normal aortic valve (*upper panels*) and a thickened, calcific aortic valve (*lower panels*). LA, left atrium; LV, left ventricle; RV, right ventricle.
 
@@ -955,7 +946,7 @@ Although the severity of stenosis can be assessed semiquantitatively by echocard
 
 The cornerstone of the ultrasound evaluation of AS is CW Doppler interrogation through the AoV to evaluate the acceleration of blood velocity across the stenosis. A maximal gradient is calculated as 4 × [Peak AS velocity]<sup>2</sup>, and a mean gradient is also derived ([Fig. 15–68](#fig-15-68)). The mean gradient by Doppler correlates well with the mean gradient at catheterization. Similarly, the maximal Doppler‑derived gradient correlates closely with the peak *instantaneous* gradient measured at catheterization, which is the physiologic maximal pressure difference between the LV and aorta. It is important to note that the “peak‑to‑peak gradient,” commonly used in the catheterization laboratory, compares the highest pressures reached in the LV and aorta (even though neither simultaneous nor physiologic) and is uniformly lower than the peak instantaneous gradient recorded by Doppler. The maximal Doppler gradient does not correlate with the peak‑to‑peak catheterization gradient, and comparisons between the two should be avoided.
 
-<span id="fig-15-68"></span>![](_page_36_Figure_2.jpeg)
+<span id="fig-15-68"></span>![](_page_305_Figure_68.jpeg)
 
 **FIGURE 15–68.** Continuous‑wave Doppler tracing (from the apical transducer position) through the aortic valve in a case of severe aortic stenosis. The peak systolic velocity is 5.5 m/s, corresponding to a maximal instantaneous gradient of 121 mm Hg; the mean gradient was 80 mm Hg.
 
@@ -983,9 +974,7 @@ In contrast to AS, the AoV leaflets are often anatomically normal by echocardiog
 
 Perhaps the most important contribution of echocardiographic imaging to the assessment of AR is in identifying its etiology and adaptation of the LV to the volume overload. Thickened cusps with restricted motion are observed in patients with acquired AS, whereas oval doming of two functional leaflets is seen in the presence of a bicuspid AoV (see [Fig. 15–67](#fig-15-67)), where associated AR is frequently eccentric. AR caused by infectious endocarditis can be identified by the presence of valvular vegetations ([Fig. 15–70](#fig-15-70)), whereas regurgitation caused by diseases of the aorta is manifest by anatomic changes of the aortic root or dissection. Less common etiologies of AR, such as those associated with subvalvular pathology or VSD, may also be recognized by echocardiographic imaging.
 
-<span id="fig-15-70"></span>![](_page_37_Figure_2.jpeg)
-
-![](_page_37_Figure_3.jpeg)
+<span id="fig-15-70"></span>![](_page_37_Figure_3.jpeg)
 
 **FIGURE 15–70.** Transesophageal view depicting vegetations on the aortic valve (*white arrow*) and a flail aortic valve. Color Doppler shows severe aortic regurgitation, with the color jet occupying all of the left ventricle outflow tract. LA, left atrium.
 
@@ -993,13 +982,13 @@ Doppler interrogation is necessary to obtain direct evidence of the presence and
 
 CW Doppler spectral recording of the jet yields a high‑velocity diastolic signal directed toward the apex. Because AR jet velocity accurately reflects the diastolic pressure gradient between aorta and LV, it is maximum at the point of valve closure and decreases throughout diastole. The flow pattern of AR is distinct from that of mitral inflow, because it has a higher velocity and begins immediately after AoV closure, with a much slower deceleration and without an increase in velocity after atrial contraction. A supportive parameter of AR severity is the deceleration rate of the jet recorded by CW Doppler ([Fig. 15–71](#fig-15-71)). In the presence of mild degrees of AR, the transvalvular pressure gradient is maintained throughout diastole, creating a high‑velocity jet with a minimal deceleration rate. Conversely, severe AR reduces aortic pressures and increases LV pressures in diastole, creating a rapid jet deceleration to a low velocity. Severe, acute AR can also cause diastolic MR through increased LV end‑diastolic pressure. The most common approach to assessing the deceleration rate of the AR jet is by calculating the time required for the velocity to fall to one‑half of the maximal pressure equivalent (pressure halftime). A pressure half‑time of < 250 milliseconds identifies patients with severe degrees of AR. Application of the pressure half‑time approach to quantifying AR must take into account both the volume of AR and LV compliance.
 
-<span id="fig-15-71"></span>![](_page_37_Figure_8.jpeg)
+<span id="fig-15-71"></span>![](_page_305_Figure_71.jpeg)
 
 **FIGURE 15–71.** Continuous‑wave Doppler tracing (from the apical transducer position) of severe aortic regurgitation (AR) showing a fast deceleration of the regurgitant jet. The pressure half‑time of the AR envelope is approximately 120 ms.
 
 The AR volume can be estimated by comparing volumetric measurements of LV inflow and LV outflow calculated from annular velocity and cross‑sectional area (derived from pulsed Doppler and 2D images, respectively). This method depends on the absence of valvular stenosis and other regurgitant lesions. In the setting of AR, the volume ejected through the aortic annulus represents both systemic flow and regurgitant volume, whereas the volume coursing through the mitral annulus represents only systemic flow. Thereby, LV outflow exceeds LV inflow by the amount of the regurgitant volume. The presence of a significant, holodiastolic flow reversal in the aorta visualized by spectral Doppler is a reliable marker of severe AR ([Fig. 15–72](#fig-15-72)).
 
-<span id="fig-15-72"></span>![](_page_37_Figure_10.jpeg)
+<span id="fig-15-72"></span>![](_page_305_Figure_72.jpeg)
 
 **FIGURE 15–72.** Pulsed‑wave Doppler tracing (from the suprasternal transducer position) in a case of severe aortic regurgitation. The sample volume is in the descending thoracic aorta, and holodiastolic flow reversal (*arrow*) is present.
 
@@ -1027,7 +1016,7 @@ The effects of stenosis on MV motion is also nicely demonstrated with M‑mode r
 
 The entire perimeter of the MV orifice can be visualized in the 2D parasternal short‑axis view or by 3D echocardiography ([Fig. 15–75](#fig-15-75)). In the setting of MS, the thickened leaflets form a fish‑mouth orifice, which occupies only a small portion of the cross‑sectional area of the LV. Measurements of orifice area, obtained by planimetry of the orifice visualized in the parasternal short‑axis view correlate well with those obtained by cardiac catheterization, provided that the degree of calcifications on echocardiography is not severe. It is crucial to identify the smallest cross‑sectional area and obtain recordings with orthogonal beam orientation at that point to ensure that the plane position is at the valve tip, thus avoiding overestimation of orifice area.
 
-<span id="fig-15-75"></span>![](_page_39_Figure_2.jpeg)
+<span id="fig-15-75"></span>![](_page_305_Figure_75.jpeg)
 
 ![](_page_39_Figure_3.jpeg)
 
@@ -1037,7 +1026,7 @@ Doppler examination provides important hemodynamic assessment of MS. Interrogati
 
 <span id="fig-15-76"></span>![](_page_39_Figure_8.jpeg)
 
-**FIGURE 15–76.** Pressure half‑time method for calculation of mitral valve area (MVA). Reproduced with permission from Hagan AD, DeMaria AN: *Clinical Applications of Two‑Dimensional Echocardiography and Cardiac Doppler*, 2nd edition. Boston: Little, Brown; 1989.
+**FIGURE 15–76.** Pressure half‑time method for calculation of mitral valve area (MVA). 
 
 The Doppler technique can often provide an estimate of mitral valve area (MVA) by means of the “pressure half‑time” method. The pressure half‑time represents the interval required for the transmitral velocity to decelerate from its highest point (E) to a velocity that yields one‑half of the pressure equivalent (see [Fig. 15–76](#fig-15-76)). As the severity of MS increases, the rate of deceleration decreases, prolonging the pressure half‑time. Derivation of MVA is performed by dividing an empiric constant of 220 by the pressure half‑time. MVA with this method correlates well with values obtained during cardiac catheterization. The pressure half‑time method is helpful in the majority of patients with MS. However, it has limitations: it cannot be used when the diastolic filling period is too short, when there is fusion of the early and late mitral inflow velocity in sinus rhythm, with concomitant significant AR, and in the presence of severely impaired LV relaxation. In these situations, the continuity equation can be used to derive a MVA as stroke volume through the mitral valve divided by the velocity‑time integral of mitral inflow velocity.
 
@@ -1061,7 +1050,7 @@ Doppler echocardiography is the primary method for the detection and evaluation 
 
 The most commonly applied method for the evaluation of MR is CFD. Three components of the regurgitant jet by CFD are important to consider ([Fig. 15–78](#fig-15-78)): flow convergence (zone of accelerated blood velocity on the LV side), the vena contracta (the width of the smallest area of the jet at the regurgitant orifice), and the jet area in the LA. Imaging of the LA in systole reveals a turbulent, mosaic jet of varying direction, size, and configuration. If the jet is central in the LA, a jet area that occupies more than 40% to 50% of the LA usually is consistent with severe MR, subject to the limitations discussed in the earlier section. Although jet area is important in evaluating MR severity, it is affected by several factors in addition to the regurgitant volume: the pressure gradient and compliance of the LA, the direction of the jet in the receiving chamber, and technical limitations. Eccentric jets impinge on the wall of the LA (eg, in cases of MV prolapse and torn chordae tendineae), resulting in cross‑sectional jet areas that are smaller than centrally directed flow disturbances of comparable regurgitant volume. This effect can lead to underestimation of the severity of regurgitation if one evaluates jet area alone. In these situations, considerations of flow convergence and vena contracta provide better evidence of MR severity. A vena contracta diameter, measured from the parasternal long axis, of at least 7 mm, usually denotes severe MR.
 
-<span id="fig-15-78"></span>![](_page_40_Figure_12.jpeg)
+<span id="fig-15-78"></span>![](_page_305_Figure_78.jpeg)
 
 **FIGURE 15–78.** Transthoracic parasternal zoomed view depicting mitral regurgitation. The three components of a regurgitant jet are depicted: flow convergence (FC), vena contracta, and jet area. LA, left atrium; LV, left ventricle.
 
@@ -1075,7 +1064,7 @@ where r is the radius of the hemisphere shell (distance from alias border to ori
 
 ![](_page_41_Figure_5.jpeg)
 
-**FIGURE 15–79. A.** Proximal isovelocity surface area (PISA) concept and example. See text for details. **B.** Magnified view (from the apical four‑chamber plane) of mitral regurgitation (MR) demonstrating color Doppler flow convergence proximal to the mitral valve (PISA). FCR, flow convergence region; Q, flow; r, radius of isovelocity hemisphere; Vr, velocity of flow at distance *r* from the orifice. **A**, Reproduced from Bargiggia GS, Tronconi L, Sahn DJ, et al. A new method for quantitation of mitral regurgitation based on color flow Doppler imaging of flow convergence proximal to regurgitant orifice, *Circulation*. 1991 Oct;84:1481‑1489.
+**FIGURE 15–79. A.** Proximal isovelocity surface area (PISA) concept and example. See text for details. **B.** Magnified view (from the apical four‑chamber plane) of mitral regurgitation (MR) demonstrating color Doppler flow convergence proximal to the mitral valve (PISA). FCR, flow convergence region; Q, flow; r, radius of isovelocity hemisphere; Vr, velocity of flow at distance *r* from the orifice. 
 
 As in the case of AR, volumetric calculations of LV inflow and outflow by combined pulsed Doppler and 2D echocardiographic imaging techniques can be used to derive measurements of regurgitant volume. In the case of MR, transmitral filling represents both the systemic and regurgitant volumes, whereas aortic outflow represents only systemic flow. Therefore, mitral inflow should flow through the AoV, and the difference is the regurgitant volume. Doppler of the MR jet can also be used to evaluate LV function ([Fig. 15–80](#fig-15-80)). Assuming a LA pressure close to zero, the downstroke of the MR jet is proportionate to the rate of increase of LV pressure (dP/dt) prior to aortic ejection. As the LV is “unloaded” by severe MR, this can be a marker of subclinical LV dysfunction, despite a normal ejection fraction.
 
@@ -1099,7 +1088,7 @@ Echocardiography is the primary method for diagnosing MV prolapse. The classic f
 
 <span id="fig-15-82"></span>![](_page_43_Figure_2.jpeg)
 
-**FIGURE 15–82. A.** Parasternal long‑axis plane through the mitral valve in late systole. The plane of the mitral annulus is drawn in a dotted line. The mitral valve leaflets prolapse past the level of the annulus into the left atrium (LA). **B.** Diagram of true mitral valve prolapse. The mitral leaflets clearly prolapse (*arrows*) posterior to the plane of the mitral annulus (*straight dotted line*). **C.** M‑mode image through the plane of the mitral valve demonstrating posterior prolapse of the leaflets during systole (*arrow*). A, atrial component; Ao, aorta; LV, left ventricle; E, early diastolic filling; M, M‑mode imaging beam. Reproduced with permission from Devereux RB, Kramer‑Fox R, Kligfield P: Mitral valve prolapse: causes, clinical manifestations, and management. *Ann Intern Med*. 1989 Aug 15;111:305‑317.
+**FIGURE 15–82. A.** Parasternal long‑axis plane through the mitral valve in late systole. The plane of the mitral annulus is drawn in a dotted line. The mitral valve leaflets prolapse past the level of the annulus into the left atrium (LA). **B.** Diagram of true mitral valve prolapse. The mitral leaflets clearly prolapse (*arrows*) posterior to the plane of the mitral annulus (*straight dotted line*). **C.** M‑mode image through the plane of the mitral valve demonstrating posterior prolapse of the leaflets during systole (*arrow*). A, atrial component; Ao, aorta; LV, left ventricle; E, early diastolic filling; M, M‑mode imaging beam. 
 
 Although the diagnosis of classic, fully expressed MV prolapse is straightforward by echocardiography, identification of mild prolapse is more difficult, and no absolute diagnostic criteria currently exist. For prolapse to be present, the MV leaflets must cross the plane of the MV annulus after initial systolic coaptation. The MV annulus is not flat but rather saddle‑shaped and reaches its nadir in the apical four‑chamber view, and even normally coapting MV leaflets may appear to prolapse in this projection. Therefore, current criteria require that MV prolapse be diagnosed only when one or both of the mitral leaflets clearly bulge past the plane of the MV annulus in the parasternal long‑axis view. Unfortunately, the degree to which the mitral leaflets must break the plane of the annulus is controversial. The greater the portion of the MV leaflets entering the LA, the more likely the diagnosis: a peak distance behind the annulus of 2 mm almost invariably establishes the presence of MV prolapse. The diagnosis of mild MV prolapse may be assisted by examination of the structure of the leaflets and chordae tendineae, because it has been demonstrated that patients with redundant or thickening valve leaflets (> 5 mm at midleaflet) are at increased risk for complications, including severe MR and infective endocarditis.
 
@@ -1171,9 +1160,7 @@ $$\text{PAEDP} = 4(\text{PR end-diastolic velocity})^2 + \text{central venous pr
 
 *Tricuspid regurgitation* (TR) is much more common than TS, and, like PR, is present to a mild degree in many normal individuals (see Chap. 51). Like MR, TR may be functional (due to annular enlargement or PH), or valvular (caused by endocarditis, rheumatic valvular disease, CHD [eg, the Ebstein anomaly], carcinoid heart disease, flail TR leaflet, and TV prolapse). The echocardiographic approach to TR therefore requires attention to valve abnormalities associated with TR (eg, annular size, incomplete leaflet coaptation, flail leaflet), RV enlargement and function, and PH. However, the accurate quantification of TR severity is difficult. In addition to color‑flow mapping (which is semiquantitative), the examination should include the size of the proximal flow convergence zone (see [Fig. 15–31](#fig-15-31)), and hepatic vein Doppler (systolic flow reversal within the vein suggests severe TR) ([Fig. 15–87](#fig-15-87)). Peak RV (and PA) pressure can be estimated using measurements of peak TR velocity by CW Doppler (see [The Bernoulli Equation](#the-bernoulli-equation)). If intravenous echocardiographic contrast (usually, agitated saline will suffice) is needed to accentuate the TR Doppler jet and facilitate more accurate measurements of PA pressure, care should be taken to reset the Doppler gain as the signal may oversaturate.
 
-<span id="fig-15-87"></span>![](_page_46_Figure_2.jpeg)
-
-![](_page_46_Figure_3.jpeg)
+<span id="fig-15-87"></span>![](_page_305_Figure_87.jpeg)
 
 **FIGURE 15–87. A.** Pulsed‑wave Doppler tracing of normal hepatic venous flow from the subcostal position. Systolic (S) and diastolic (D) velocities into the inferior vena cava are present. **B.** Pulsed‑wave Doppler tracing in severe tricuspid regurgitation. There is systolic flow reversal into the hepatic vein.
 
@@ -1195,7 +1182,7 @@ RV contraction involves both reductions in longitudinal and transverse dimension
 
 RV volume overload can lead to chamber enlargement, and, in advanced stages, depressed RV systolic function. TR can result from or cause RV overload, and the TR Doppler velocity allows estimation of the peak RV systolic pressure. The interventricular septum also becomes abnormal in RV overload and tends to flatten or even bulge toward the LV ([Fig. 15–89](#fig-15-89)). The pattern of septal movement can help distinguish between volume and pressure overload. In pure volume overload, the RV diastolic pressure may equal or exceed that of the LV, whereas the systolic pressure of the LV greatly exceeds that of the RV. Therefore, the interventricular septum flattens during diastole and returns to its normal curvature during systole. With RV pressure overload, however, the abnormally high RV pressures persist through the entire cardiac cycle, and the interventricular septum remains deformed during both systole and diastole.
 
-<span id="fig-15-89"></span>![](_page_47_Picture_2.jpeg)
+<span id="fig-15-89"></span>![](_page_305_Picture_89.jpeg)
 
 **FIGURE 15–89.** M‑mode in severe pulmonary hypertension. The dimension of the right ventricle (RV) is larger than that of the left ventricle (LV). The interventricular septum (IVS) moves paradoxically (i.e., toward the mitral valve [MV] during diastole rather than away).
 
@@ -1300,7 +1287,7 @@ These abnormalities may be expressed as a disturbance in global LV size and func
 
 <span id="fig-15-97"></span>![](_page_50_Figure_16.jpeg)
 
-**FIGURE 15–97.** Sixteen‑segment format for identification of left ventricular wall segments. Coronary arterial territories are also included. 2C, apical two‑chamber; 4C, apical four‑chamber; ANT, anterior; INF, inferior; LAT, lateral; LAX, parasternal long axis; POST, posterior; SAX PM, short axis at papillary muscle level; SEPT, septal. Reproduced with permission from Segar DS, Brown SE, Sawada SG, et al: Dobutamine stress echocardiography: correlation with coronary lesion severity as determined by quantitative angiography. *J Am Coll Cardiol*. 1992 May;19:1197‑1202.
+**FIGURE 15–97.** Sixteen‑segment format for identification of left ventricular wall segments. Coronary arterial territories are also included. 2C, apical two‑chamber; 4C, apical four‑chamber; ANT, anterior; INF, inferior; LAT, lateral; LAX, parasternal long axis; POST, posterior; SAX PM, short axis at papillary muscle level; SEPT, septal. 
 
 </div></details>
 
@@ -1518,7 +1505,7 @@ Most secundum and primum *atrial septal defects* (ASDs) are easily visualized by
 
 <span id="fig-15-112"></span>![](_page_61_Figure_5.jpeg)
 
-**FIGURE 15–112.** Transverse transesophageal image of single atrium. RV, right ventricle; LV, left ventricle. Reproduced with permission from Blanchard DG, Scott ED: Images in cardiovascular medicine. Single atrium. *Circulation*. 1997 Jan 7;95:273.
+**FIGURE 15–112.** Transverse transesophageal image of single atrium. RV, right ventricle; LV, left ventricle. 
 
 Intravenous contrast injection generally demonstrates shunting across the ASD, frequently with bidirectional flow. Therefore, *negative jets* of unopacified flow from the LA into the contrast‑filled RA may alternate with the appearance of contrast bubbles flowing through the defect into the LA. When an ASD is present, contrast should appear within one to five heart beats in the LA after entering the RA. Delayed appearance of contrast in the LA may indicate an intrapulmonary shunt rather than an ASD.
 
@@ -1582,8 +1569,7 @@ Aortopulmonary window is a much rarer shunt involving the great vessels, which p
 
 ![](_page_63_Picture_13.jpeg)
 
-**FIGURE 15–117. A.** Transesophageal image (transverse plane) from a patient with persistent left superior vena cava. The coronary sinus (CS) is dilated. **B.** After injection of agitated saline into the left antecubital vein, contrast is seen entering the right atrium (RA) via the CS. LV, left ventricle; RV, right ventricle; TV, tricuspid valve. **C.** Transthoracic parasternal long‑axis image of persistent left superior vena cava. The coronary sinus is dilated. **B**, reproduced with permission from Skorton DJ, Schelbert HR, Wolf GL, et al: *Marcus’ Cardiac Imaging*, 2nd ed. Philadelphia: Saunders; 1996.
-
+**FIGURE 15–117. A.** Transesophageal image (transverse plane) from a patient with persistent left superior vena cava. The coronary sinus (CS) is dilated. **B.** After injection of agitated saline into the left antecubital vein, contrast is seen entering the right atrium (RA) via the CS. LV, left ventricle; RV, right ventricle; TV, tricuspid valve. **C.** Transthoracic parasternal long‑axis image of persistent left superior vena cava. The coronary sinus is dilated. 
 </div></details>
 
 <details class="med-details"><summary>
@@ -1608,9 +1594,7 @@ Echocardiography is a valuable tool for the detection, management, and postopera
 
 **FIGURE 15–119. A.** Apical four‑chamber image of L‑transposition (congenitally corrected). The morphologic LV and RV are inverted in position, whereas the atria remain intact. The *bold arrow* marks the annulus of the left‑sided atrioventricular valve; the *thin arrow* marks the right‑sided atrioventricular valve annulus. The left‑sided annulus is displaced apically, identifying it as the tricuspid valve. Therefore, the systemic ventricle (SV) is a morphologic right ventricle, whereas the venous ventricle (VV) is a morphologic left ventricle. **B.** Transverse transesophageal image through the semilunar valves in L‑transposition. The aortic valve (A) is anterior and to the left of the pulmonic valve (P). LA, left atrium; LV, left ventricle; RV, right ventricle.
 
-<span id="fig-15-120"></span>![](_page_65_Figure_3.jpeg)
-
-![](_page_65_Figure_4.jpeg)
+<span id="fig-15-120"></span>![](_page_65_Picture_2.jpeg), ![](_page_65_Figure_3.jpeg)
 
 **FIGURE 15–120. A.** Modified apical image of D‑transposition after baffle (Mustard) procedure. Pulmonary venous blood flows through a baffle (BA) to enter the right atrium (RA) and the systemic ventricle (SV), which is a morphologic right ventricle. The SV ejects into the aorta. There is no evidence of baffle stenosis. **B.** Modified apical image from the same patient showing vena caval blood flow through a BA into the left atrium and venous ventricle (VV), which is a morphologic left ventricle. The venous ventricle ejects into the pulmonary artery. Again, there is no evidence of baffle stenosis.
 
@@ -1660,7 +1644,7 @@ Subvalvular obstruction may be dynamic or fixed. HCM, which may present at any a
 
 *Ebstein anomaly* is a congenital deformity of the TV in which the leaflets are displaced into the RV (see Chap. 56). Associated findings include TR, right atrial enlargement, and ASD. 2D imaging typically shows abnormal apical displacement of the septal leaflet insertion, with variable deformity of the leaflet ([Fig. 15–123](#fig-15-123)). The anterior leaflet originates from the tricuspid annulus but is elongated and often tethered to the RV free wall by abnormal chordal attachments. The tricuspid deformity and regurgitation are best visualized in the apical four‑chamber view.
 
-<span id="fig-15-123"></span>![](_page_67_Picture_8.jpeg)
+<span id="fig-15-123"></span>![](_page_305_Figure_123.jpeg)
 
 **FIGURE 15–123.** Ebstein anomaly, apical four‑chamber view. The tricuspid valve annulus (*thin arrow*) is apically displaced in comparison to the mitral annulus (*thick arrow*). The right ventricle (RV) and right atrium (RA) are enlarged.
 
