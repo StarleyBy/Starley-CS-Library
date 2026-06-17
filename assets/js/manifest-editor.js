@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         currentFile: null,
         manifest: null,
         jsonEditor: null,
-        activeItemIndex: 0
+        activeItemIndex: 0,
+        previewLang: 'En'
     };
 
     // DOM Elements
@@ -38,7 +39,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         githubModal: document.getElementById('me-github-modal'),
         githubToken: document.getElementById('me-github-token'),
         btnTokenSave: document.getElementById('me-btn-token-save'),
-        btnTokenCancel: document.getElementById('me-btn-token-cancel')
+        btnTokenCancel: document.getElementById('me-btn-token-cancel'),
+        previewLangCont: document.getElementById('me-preview-lang-cont'),
+        previewLangBtns: document.querySelectorAll('.me-preview-lang .me-btn')
     };
 
     // 1. Initialization
@@ -126,6 +129,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         els.btnTokenCancel.addEventListener('click', () => els.githubModal.style.display = 'none');
         els.btnTokenSave.addEventListener('click', _saveToGithub);
+
+        // Language toggle for preview
+        els.previewLangBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                els.previewLangBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                state.previewLang = btn.dataset.lang;
+                _renderPreview();
+            });
+        });
     }
 
     async function _onBookChange() {
@@ -134,13 +147,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         state.currentType = type;
 
-        if (type === 'library') {
-            els.selectBook.disabled = true;
-            els.selectFile.innerHTML = '<option value="library.json">library.json</option>';
-            els.selectFile.disabled = false;
-            state.currentBook = { fullPath: '.', folder: 'root' };
-            return;
-        }
+        // Show/hide language toggle based on type
+        els.previewLangCont.style.display = type === 'quiz' ? 'flex' : 'none';
 
         els.selectBook.disabled = false;
         if (!bookPath) {
@@ -904,6 +912,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         if (type === 'quiz') {
             const imgPath = item.image ? `${state.currentBook.fullPath}/quiz/images/${item.image}` : null;
+            const lang = state.previewLang;
             
             // Render multiple images if explanationImages array exists
             const explanationImages = item.explanationImages || [];
@@ -914,20 +923,29 @@ document.addEventListener('DOMContentLoaded', async () => {
 
             const correctAnswers = Array.isArray(item.correctAnswer) ? item.correctAnswer : [item.correctAnswer];
             
+            const rawExp = item['explanation' + lang] || (lang === 'En' ? item.explanationEn : item.explanationRu) || '(No explanation provided)';
+            const formattedExp = rawExp.split('\n\n')
+                .map(p => `<p style="margin-bottom:10px;">${p.trim().replace(/\n/g, '<br>')}</p>`)
+                .join('');
+
+            const questionText = item['question' + lang] || (lang === 'En' ? item.questionEn : item.questionRu) || '(No question text)';
+            const options = item['options' + lang] || (lang === 'En' ? item.optionsEn : item.optionsRu) || {};
+
             html = `
                 <div class="preview-quiz">
-                    <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${item.questionEn || '(No question text)'}</div>
+                    <div style="margin-bottom: 5px; font-size: 0.75rem; color: #666; font-weight: 700;">PREVIEW: ${lang.toUpperCase()}</div>
+                    <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${questionText}</div>
                     ${imgPath ? `<img src="${imgPath}" style="max-width:100%; margin:10px 0; border-radius:4px; border:1px solid #ddd;">` : ''}
                     <div class="q-options" style="margin-top:15px;">
-                        ${Object.entries(item.optionsEn || {}).map(([k, v]) => `
+                        ${Object.entries(options).map(([k, v]) => `
                             <div style="padding:8px; border:1px solid #ddd; margin-bottom:5px; border-radius:4px; ${correctAnswers.includes(k) ? 'background:#e8f5e9; border-color:#2e7d32; font-weight:600;' : ''}">
                                 <strong>${k}:</strong> ${v}
                             </div>
                         `).join('')}
                     </div>
                     <div class="q-explanation" style="margin-top:20px; padding:15px; background:#f9f9f9; border-radius:4px;">
-                        <div style="font-weight:600; margin-bottom:5px;">Explanation:</div>
-                        <div>${item.explanationEn || '(No explanation provided)'}</div>
+                        <div style="font-weight:600; margin-bottom:5px;">Explanation (${lang}):</div>
+                        <div class="exp-content">${formattedExp}</div>
                         ${expImgHtml}
                     </div>
                 </div>

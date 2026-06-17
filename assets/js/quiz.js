@@ -333,7 +333,13 @@ function showExplanation() {
         expImgCont.style.display = 'none';
     }
 
-    document.getElementById('exp-text').innerHTML = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
+    const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
+    // Convert newlines to paragraphs
+    const formattedExp = rawExp.split('\n\n')
+        .map(p => `<p>${p.trim().replace(/\n/g, '<br>')}</p>`)
+        .join('');
+    
+    document.getElementById('exp-text').innerHTML = formattedExp;
     expBox.style.display = 'block';
     
     const metaChapters = state.quizData.meta.chapter || [];

@@ -47,6 +47,8 @@ Fukuda et al. studied the shape and movement of the healthy and diseased tricusp
 
 ![](_page_1_Picture_2.jpeg)
 
+![](_page_1_Picture_4.jpeg)
+
 **FIGURE 43-1** (A) Surgical view of the tricuspid valve complex. The tricuspid valve consists of three leaflets: anterior (A), posterior (P), and septal (S). There are two main papillary muscles, anterior (a) and posterior (p). The septal papillary muscle (s) is rudimentary, and chordae tendinea arise directly from the ventricular septum. Adjacent structures include the atrioventricular node (AVN), coronary sinus ostium (CS), and the tendon of Todaro, forming the triangle of Koch. Ao = Aorta; FO = foramen ovale; IVC = inferior vena cava; RAA = right atrial appendage; RV = right ventricle; SVC = superior vena cava. (B) Direction of progressive tricuspid valve annular dilatation. *(B. Reproduced with permission from Dreyfus GD, Corbi PJ, Chan KM, et al: Secondary tricuspid regurgitation or dilatation: which should be the criteria for surgical repair? Ann Thorac Surg. 2005 Jan;79(1):127-132.)*
 
 ![](_page_1_Figure_9.jpeg)

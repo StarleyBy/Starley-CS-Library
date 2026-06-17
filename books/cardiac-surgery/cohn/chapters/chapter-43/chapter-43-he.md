@@ -47,6 +47,8 @@
 
 ![](_page_1_Picture_2.jpeg)
 
+![](_page_1_Picture_4.jpeg)
+
 **איור 43-1** (A) מבט כירורגי של קומפלקס המסתם התלת-קודקודי. המסתם התלת-קודקודי מורכב משלושה עלים: קדמי (A), אחורי (P), ומחיצתי (S). ישנם שני שרירי פפילה עיקריים, קדמי (a) ואחורי (p). שריר הפפילה המחיצתי (s) הוא ראשוני (rudimentary), ומיתרי גיד עולים ישירות מהמחיצה הבין-חדרית. מבנים סמוכים כוללים את הצומת הפרוזדורי-חדרי (AVN), פתח הסינוס הכלילי (CS), וגיד טודארו (tendon of Todaro), היוצרים את משולש קוך (triangle of Koch). Ao = אבי העורקים; FO = הפורמן אובלה (foramen ovale); IVC = וריד נבוב תחתון; RAA = אוזנית עלייה ימנית; RV = חדר ימני; SVC = וריד נבוב עליון. (B) כיוון של התרחבות טבעת תלת-קודקודית מתקדמת. *(B. הודפס באישור מ-Dreyfus GD, Corbi PJ, Chan KM, et al: Secondary tricuspid regurgitation or dilatation: which should be the criteria for surgical repair? Ann Thorac Surg. 2005 Jan;79(1):127-132.)*
 
 ![](_page_1_Figure_9.jpeg)
