@@ -50,7 +50,7 @@ Comorbidities are common in patients presenting with acute HF (AHF), including s
 
 AHF is a harbinger of poor outcomes and is associated with significant mortality after discharge. Recent trends suggest in-hospital mortality rates range from 2% to 5% and are similar when comparing HFpEF to HFrEF.9,15 Postdischarge mortality for these two groups approaches 10% at 90-day follow-up,16 whereas approximately 30% of patients die within 1 year of hospitalization (Fig. 71–1).15,17 Despite concerted efforts to reduce rehospitalizations for AHF, nearly 25% of patients are readmitted within 30 days of discharge, and 50% are readmitted by 6 months.18,19 Each subsequent hospitalization following the index stay is associated with increasing risk of death (Fig. 71–2).
 
-![](_page_1_Figure_2.jpeg)
+![](ch11-04_page_1_Figure_2.jpeg)
 
 **FIGURE 71–1.** Incidence of mortality in patients over 65 years of age hospitalized with heart failure from both the Acute Decompensated Heart Failure National Registry (ADHERE) and a sampling of Medicare patients (non-ADHERE). Reproduced with permission from Kociol RD, Hammill BG, Fonarow GC, et al: Generalizability and longitudinal outcomes of a national heart failure clinical registry: Comparison of Acute Decompensated Heart Failure National Registry (ADHERE) and non-ADHERE Medicare beneficiaries. *Am Heart J*. 2010 Nov;160:885-892.15
 
@@ -58,7 +58,7 @@ AHF is a harbinger of poor outcomes and is associated with significant mortality
 
 Although there is a tendency to treat patients with AHF as a homogenous group, it is clear that the syndrome of decompensated HF is complex and the "one size fits all" adage does not apply. Indeed, patients presenting with AHF are a heterogeneous group with a variety of underlying cardiac substrates and abnormalities. Additionally, the severity of AHF exists on a spectrum, ranging from mild fluid overload to overt cardiogenic shock, and therefore, no singular pathophysiologic model can account for the diversity of clinical presentations. Nevertheless, several key factors play varying roles in the initiation and propagation of AHF, including but not limited to: acute or subacute worsening of cardiac dysfunction, either systolic or diastolic; neurohormonal activation; the cardiorenal syndrome resulting from the complex interplay between the kidney and the heart; impaired vascular/endothelial function; inflammation and oxidative stress; and hemodynamic
 
-![](_page_1_Figure_6.jpeg)
+![](ch11-04_page_1_Figure_6.jpeg)
 
 **FIGURE 71–2.** Kaplan-Meier survival curves for cumulative mortality after repeated acute decompensated heart failure hospitalizations. Reproduced with permission from Setoguchi S, Stevenson LW, Schneeweiss S. Repeated hospitalizations predict mortality in the community population with heart failure. *Am Heart J*. 2007 Aug;154:260-266.
 
@@ -74,7 +74,7 @@ AHF in the absence of overt systolic dysfunction, termed acute diastolic HF, is 
 
 The primary objective of the circulatory system is to maintain perfusion to vital organs by sustaining arterial pressure and circulating blood volume. Evolutionarily, a number of mechanisms that maintain organ perfusion have been identified, including the RAAS axis, the SNS, and the pituitary release of vasopressin (antidiuretic hormone [ADH]). Although acute upregulation of these systems is effective at restoring circulating blood volume and perfusion pressures in the short term, chronic activation leads to sodium and fluid overload as well as cardiac fibrosis and remodeling.21
 
-![](_page_2_Figure_2.jpeg)
+![](ch11-04_page_2_Figure_2.jpeg)
 
 **FIGURE 71–3.** The basic pathophysiology of AHF. ACE, angiotensin-converting enzyme; IL, interleukin; RA, right atrial; RAAS, renin-angiotensin-aldosterone system; ROS, reactive oxygen species; SNS, sympathetic nervous system; TNF-α, tumor necrosis factor-α.
 
@@ -98,7 +98,7 @@ A number of pharmacologic treatments of AHF may result in WRF. ACE inhibitors ha
 
 Regardless of the precise mechanisms at play, the kidneys play a crucial role in the syndrome of AHF, primarily through retention of sodium, leading to volume overload and congestion. This congestion can then cause WRF, triggering a vicious cycle that leads to further cardiac decompensation. Additionally, renal dysfunction leads to less utilization of standard HF pharmacotherapy (eg, ACE inhibitors,
 
-![](_page_3_Figure_2.jpeg)
+![](ch11-04_page_3_Figure_2.jpeg)
 
 **FIGURE 71–4.** The cardiorenal syndrome results from a complex bidirectional relationship between the heart and the kidney. Many factors play a role in both worsening heart failure and worsening renal failure. DM, diabetes mellitus; HTN, hypertension; RAAS, reninangiotensin-aldosterone system; SNS, sympathetic nervous system. Reproduced with permission from Cole RT, Masoumi A, Triposkiadis F, et al: Renal dysfunction in heart failure. *Med Clin North Am*. 2012 Sep;96:955-974.11
 
@@ -120,7 +120,7 @@ The hemodynamics in AHF are highly variable and depend on the severity of the un
 
 hemodynamic aberrations in AHF. Increased LV end-diastolic pressure (LVEDP) results in elevated left atrial (LA) pressure, resulting in pulmonary congestion and dyspnea. Additionally, elevated right atrial pressure is common in AHF, accounting for lower extremity edema, ascites, liver congestion, and early satiety. Not uncommonly, secondary pulmonary hypertension may be present, initially reflecting passive hydrostatic forces from the LA to the pulmonary capillary bed. Over
 
-![](_page_3_Figure_14.jpeg)
+![](ch11-04_page_3_Figure_14.jpeg)
 
 **FIGURE 71–5.** The nitroso-redox imbalance and acute heart failure (AHF); effects of hydralazine and isosorbide dinitrate on AHF pathophysiology. ET-1, endothelin-1; NO, nitric oxide. Reproduced with permission from Cole RT, Kalogeropoulos AP, Georgiopoulou VV, et al: Hydralazine and isosorbide dinitrate in heart failure: historical perspective, mechanisms, and future directions. *Circulation*. 2011 May 31;123:2414-2422.42
 
@@ -150,7 +150,7 @@ Abbreviations: 6MWT, 6-minute walk test; ADHERE, Acute Decompensated Heart Failu
 
 D/C BNP > 500 or > 1300 pg/mL
 
-![](_page_5_Figure_2.jpeg)
+![](ch11-04_page_5_Figure_2.jpeg)
 
 **FIGURE 71–6.** The Acute Decompensated Heart Failure National Registry (ADHERE) "risk tree" assessing inpatient mortality in patients admitted with acute decompensated heart failure in the ADHERE registry. Mortality varies based on admission blood urea nitrogen (BUN), systolic blood pressure (SBP), and serum creatinine (Cr).
 
@@ -278,7 +278,7 @@ Profile C: Patients with congestion and hypoperfusion ("wet-cold") Profile L: Pa
 
 Survival analysis revealed that clinical profiles predicted outcomes in HF, with profiles B and C portending increased risk of death or urgent transplantation, adding prognostic value even when limited to patients with New York Heart Association (NYHA) class III and IV symptoms. The presence of congestion was determined by orthopnea and/or physical exam evidence of jugular venous distention, pulmonary rales, hepatojugular reflux, ascites, peripheral edema, leftward radiation of the pulmonic heart sound, or a square wave blood pressure response to the Valsalva maneuver. Perfusion status was determined by the
 
-![](_page_8_Figure_2.jpeg)
+![](ch11-04_page_8_Figure_2.jpeg)
 
 **FIGURE 71–7.** Hemodynamic assessment of clinical profiles. Congestion evaluated by orthopnea, jugular venous distention, rales, hepatojugular reflux, ascites, peripheral edema, leftward pulmonic heart sound, or square-wave blood pressure response to Valsalva maneuver. Poor perfusion determined by presence of narrow pulse pressure, pulsus alternans, symptomatic hypotension, cool extremities, and/or decreased mentation. Reproduced with permission from Nohria A, Tsang SW, Fang JC, et al: Reproduced from Clinical assessment identifies hemodynamic profiles that predict outcomes in patients admitted with heart failure. *J Am Coll Cardiol*. 2003 May 21;41:1797-1804.64
 
@@ -316,7 +316,7 @@ AHF reflects a proinflammatory state. Levels of high-sensitivity CRP are elevate
 
 Biomarker utilization may add to risk prediction, although which combination and in what capacity remain largely undefined. In the Multinational Observational Cohort on Acute Heart Failure (MOCA) trial,
 
-![](_page_9_Figure_10.jpeg)
+![](ch11-04_page_9_Figure_10.jpeg)
 
 **FIGURE 71–8.** Biomarkers of heart failure as related to underlying pathophysiology. AVP, arginine vasopressin; CRP, C-reactive protein; GDF-15, growth differentiation factor-15; IL, interleukin; LV, left ventricular; MRproADM, midregional pro-adrenomedullin; NGAL, neutrophil gelatinase-associated lipocalin; NP, natriuretic peptide; RAAS, renin-angiotensin-aldosterone system; SNS, sympathetic nervous system. Reproduced with permission from van der Velde AR, Meijers WC, de Boer RA: Biomarkers for risk prediction in acute decompensated heart failure. *Curr Heart Fail Rep*. 2014 Sep;11:246-259.73
 
@@ -381,7 +381,7 @@ MRAs such as spironolactone and eplerenone have established mortality benefit in
 
 Mild elevations in blood urea nitrogen and creatinine should be monitored closely but should not prompt lowering or withholding of diuretic therapy. Intravenous loop diuretics can, however, reduce glomerular filtration rate and create a cycle of worsening neurohormonal activation and electrolyte disturbances. Excessive or incorrect use can lead to hypotension or renal dysfunction. In some patients in whom volume overload is accompanied by pre-existing renal impairment, response to diuretic therapy may be attenuated. In most cases, adequate diuretic dosing improves renal function as a result of venous decongestion.122
 
-![](_page_11_Figure_10.jpeg)
+![](ch11-04_page_11_Figure_10.jpeg)
 
 **FIGURE 71–9.** In-hospital assessment of acute heart failure from presentation through hospital discharge. HF, heart failure; LOS, length of stay. Reproduced with permission from Greene SJ, Fonarow GC, Vaduganathan M, et al: The vulnerable phase after hospitalization for heart failure. *Nat Rev Cardiol*. 2015 Apr;12:220-229.114
 

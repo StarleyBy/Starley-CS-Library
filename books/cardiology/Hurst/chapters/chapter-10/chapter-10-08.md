@@ -116,7 +116,7 @@ in elite rowers and cyclists. LV wall thickness  $\geq$  16 mm raises the possib
 
 A spectrum of abnormal 12-lead ECG patterns is present in up to one-half of trained athletes, more commonly in men and in endurance athletes (Table 64–2).<sup>7-12</sup> The most commonly observed alterations include early repolarization patterns, increased QRS voltages, diffuse T-wave inversion, and deep Q waves. ECGs in endurance athletes can
 
-![](_page_1_Figure_40.jpeg)
+![](ch10-08_page_1_Figure_40.jpeg)
 
 FIGURE 64—1. Gray area of overlap between athlete's heart and cardiomyopathies, including myocarditis, hypertrophic cardiomyopathy, and arrhythmogenic right ventricular cardiomyopathy. The important diagnostic features compatible with both physiologically based adaptations to athletic training (athlete's heart) and the pathologic conditions are shown. Reproduced with permission from Maron BJ. Sudden death in young athletes. N Engl J Med. 2003 Sep 11;349:1064–1075.
 
@@ -200,7 +200,7 @@ The characteristic histopathologic marker of HCM is myocardial disarray with dis
 
 Arrhythmogenic right ventricular cardiomyopathy is an inherited heart muscle disorder characterized pathologically by fibrofatty replacement of right ventricular myocardium.20-24 It represents the leading cause of sudden death on the athletic field in the Veneto region of Italy, accounting for approximately 25% of cardiovascular sudden death in young competitive athletes, but is distinctly uncommon in the United States (5% of athlete deaths).<sup>20-24</sup> Clinical manifestations include ECG depolarization and repolarization abnormalities commonly localized to right precordial leads. These include inverted T waves in V<sub>1</sub>-V<sub>2</sub> in most patients with arrhythmogenic right ventricular cardiomyopathy. Less commonly, distinctive depolarization waves known as epsilon waves are seen after the QRS complex in the ST segment on the ECG. Cardiac imaging techniques demonstrate right ventricular global or regional morphologic and functional abnormalities.<sup>20-24</sup> Commonly, premature ventricular contractions or sustained monomorphic ventricular tachycardia with left bundle morphology originate from the right ventricle and are associated with exercise. Myocardial
 
-![](_page_3_Figure_2.jpeg)
+![](ch10-08_page_3_Figure_2.jpeg)
 
 **FIGURE 64–2.** Cardiac causes of sudden death in athletes: hypertrophic cardiomyopathy (**A** and **B**), myocarditis (**C**), dilated cardiomyopathy (**D**), arrhythmogenic right ventricular cardiomyopathy (**E**), and premature coronary artery disease (**F**). **A.** A two-dimensional echocardiogram in the parasternal long-axis view shows extreme asymmetric thickening of the ventricular septum (53 mm), diagnostic of hypertrophic cardiomyopathy. **B.** Histopathologic analysis shows a substrate of disorganized cardiac muscle cells and a chaotic architectural pattern (hematoxylin and eosin, ×40). **C.** An area of left ventricular myocardium with clusters of inflammatory mononuclear cells, diagnostic of myocarditis (hematoxylin and eosin, ×400). **D.** A greatly enlarged left ventricular cavity in a patient with dilated cardiomyopathy. **E.** Arrhythmogenic right ventricular cardiomyopathy with extensive fatty replacement of the wall of the right ventricle adjacent to a small area of residual myocytes (hematoxylin and eosin, ×8). **F.** A portion of the right coronary artery shows atherosclerotic narrowing and ruptured plaque in a patient with premature coronary artery disease. AML, anterior mitral leaflet; Ao, aorta; LV, left ventricle; M, myocytes; RV, right ventricle; VS, ventricular septum. Reproduced with permission from Maron BJ. Sudden death in young athletes. *N Engl J Med*. 2003 Sep 11;349:1064-1075.1
 
@@ -268,7 +268,7 @@ Unfortunately, complete clinical and pathologic information is available in only
 
 Because many of the cardiac diseases that predispose to sudden death in athletes are inherited, the family medical history is important. Therefore, the presence of early sudden death or hereditary cardiac abnormality in the family of an athlete should prompt a thorough cardiac workup regardless of the presenting symptoms.26
 
-![](_page_5_Figure_2.jpeg)
+![](ch10-08_page_5_Figure_2.jpeg)
 
 **FIGURE 64–3.** Pathophysiology of commotio cordis. In recreational and competitive sports, chest blows may involve balls or pucks or may be inflicted through bodily contact. The location of the blow on the chest and its timing relative to the cardiac cycle are the primary determinants of commotio cordis. Other factors that may contribute to the risk of an event include the density, size, and orientation of the projectile and the shape of the thorax; younger people are the most vulnerable because of their thinner, less developed rib cage and musculature. VF, ventricular fibrillation.
 

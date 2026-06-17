@@ -113,7 +113,7 @@ In the decade since that assessment, some progress has been made in the quest to
 
 Although examples of successful reduction or elimination of racial and ethnic disparities in CVD exist as demonstrated in the preceding studies,23-25 there are many more instances showing persistence or widening of disparities. For example, Chang et al26 used underlying cause of death data and population estimates from the National Vital Statistics System to calculate age-adjusted death rates for CVD and nine other leading causes of death during 1999 to 2010 in order to explore temporal trends in disparities in death rates by sex and race/ethnicity in the United States during this time period. Substantial declines in age-adjusted mortality rate for CVD were noted in all race/ethnic groups, as shown in Table 109–4. 26 Among the 10 leading causes of death, age-adjusted death rates by sex and race/ethnicity declined from 1999 to 2010 for six causes and increased for four causes; however, sex and racial/ethnic disparities between groups persisted for each year and cause of death.26 For heart disease in 2010, the race/ethnic group with the largest disparity relative to the most favorable group, Asian/ Pacific Islander (men 127.3; women 81.4), was the non-Hispanic blacks
 
-![](_page_3_Figure_2.jpeg)
+![](ch16-03_page_3_Figure_2.jpeg)
 
 **FIGURE 109–1.** Absolute differences in performance rates on quality measures in 2005 and 2010. Data on four measures (percutaneous coronary intervention [PCI] within 90 minutes after arrival at the hospital, pneumococcal vaccination, influenza vaccination, and smoking-cessation counseling) for patients who were hospitalized for acute myocardial infarction (AMI), heart failure, or pneumonia are shown. **A.** Changes from 2005 to 2010 are shown for the three measures with adjusted rate differences between white patients and black patients that exceeded 5 percentage points in 2005. **B.** Changes from 2005 to 2010 are shown for the six measures with adjusted differences between white patients and Hispanic patients that exceeded this same threshold in 2005. Reproduced from Trivedi AN, Nsa W, Hausmann LR, et al: Quality and equity of care in U.S. hospitals. *N Engl J Med*. 2014 Dec 11;371:2298-308.24
 
@@ -157,7 +157,7 @@ Racial and ethnic differences have also been demonstrated for estimated heart ag
 
 The American Heart Association's *Heart Disease and Stroke Statistics* provides a comprehensive annual update that includes data on race/ethnicity and health behaviors, risk factors, and specific cardiovascular conditions and diseases as well as their clinical and public health outcomes.<sup>28</sup> For example, the 2016 report shows that age-adjusted prevalence estimates for coronary heart disease (CHD) from the 2014 NHIS data are higher in
 
-![](_page_5_Figure_2.jpeg)
+![](ch16-03_page_5_Figure_2.jpeg)
 
 **FIGURE 109–2.** Patterns of declining county-level heart disease mortality for men (**A**) and women (**B**) in the continental United States from 1973 to 2010. Continual strong or weak declines were statistically faster or slower, respectively, than the total decline for the entire study period; delayed strong or recent weak declines were statistically faster or slower, respectively, than the total decline in the last time period (1998-2010). Reproduced with permission from Vaughan AS, Quick H, Pathak EB, Kramer MR, Casper M. Disparities in Temporal and Geographic Patterns of Declining Heart Disease Mortality by Race and Sex in the United States,. *J Am Heart Assoc*. 2015 Dec 15;4. pii: e002567.27
 
@@ -175,7 +175,7 @@ authors and others35,37 caution that the findings may also be attributable to se
 
 Many factors operating at multiple levels account for the racial and ethnic differences in the distribution of health behaviors, risk factors, disease burden, and associated morbidity and mortality. These factors operate
 
-![](_page_6_Figure_2.jpeg)
+![](ch16-03_page_6_Figure_2.jpeg)
 
 **FIGURE 109–3.** Disparities in hypertension-related mortality rates by race, ethnicity, and sex in the United States in 2013. Data from Centers for Disease Control and Prevention (CDC).
 
@@ -338,19 +338,19 @@ Second, further research to clarify the underlying mechanisms of racial and ethn
 
 Of all phases of the research framework, it is phase 3 where further research is most sorely needed. With rare exceptions, we lack examples with compelling evidence of sustained elimination of racial and ethnic
 
-![](_page_10_Figure_2.jpeg)
+![](ch16-03_page_10_Figure_2.jpeg)
 
 **FIGURE 109–4.** Racial and ethnic variation in the prevalence of congenital cardiovascular malformations (CCVM) from 1992 to 2001. All CCVM: (**A**) Prevalence is per 1000 live births. \* *P* < .05 in comparison to non-Hispanic white. (**B**) Rate ratios of 95% confidence interval. All CCVM without patent ductus arteriosus (PDA): (**A**) Prevalence is per 1000 live births. \* *P* < .05 in comparison to non-Hispanic white. (**B**) Rate ratios of 95% confidence interval. Tetralogy of Fallot: (**A**) Prevalence is per live births. \* *P* < .05 in comparison to non-Hispanic white. (**B**) Rate ratios of 95% confidence interval. Transposition of great vessels: (**A**) Prevalence is per live births. \* *P* < .05 in comparison to non-Hispanic white. (**B**) Rate ratios of 95% confidence interval. Ventricular septal defects: (**A**) Prevalence is per live births. \* *P* < .05 in comparison to non-Hispanic white. (**B**) Rate ratios of 95% confidence interval. NH, non-Hispanic. Reproduced with permission from Mangones T, Manhas A, Visintainer P, Hunter-Grant C, Brumberg HL. Prevalence of congenital cardiovascular malformations varies by race and ethnicity. *Int J Cardiol*. 2010 Sep 3;143:317-322.34 (*Continued*)
 
-![](_page_11_Figure_2.jpeg)
+![](ch16-03_page_11_Figure_2.jpeg)
 
 **FIGURE 109–4.** (*Continued*)
 
-![](_page_11_Figure_4.jpeg)
+![](ch16-03_page_11_Figure_4.jpeg)
 
 **FIGURE 109–5.** Association of black race with various outcomes in predefined subgroups of the overall cohort of veterans. White patients served as referent. Models were adjusted for age, sex, baseline estimated glomerular filtration rate (eGFR), comorbidities, baseline body mass index, systolic and diastolic blood pressures, mean income, marital status, service connectedness, area-level housing stress, low education, low employment, persistent poverty, frequency of Veterans Affairs (VA) health care encounters, use of angiotensin-converting enzyme inhibitors/angiotensin receptor blockers and statins, receipt of influenza vaccination(s), and each patient's VA health care center. CHD, coronary heart disease; CHF, congestive heart failure; CVD, cardiovascular disease; DM, diabetes mellitus; HTN, hypertension. Reproduced with permission from Kovesdy CP, Norris KC, Boulware LE et al. Association of Race With Mortality and Cardiovascular Events in a Large Cohort of US Veterans. *Circulation*. 2015 Oct 20;132:1538-1548.35
 
-![](_page_12_Figure_2.jpeg)
+![](ch16-03_page_12_Figure_2.jpeg)
 
 **FIGURE 109–6.** The effect of race and sex on physicians' recommendations for cardiac catheterization. Patients as portrayed by actors in the video component of the survey: (**A**) a 55-year-old black woman, (**B**) a 55-yearold black man, (**C**) a 70-year-old black woman, (**D**) a 70-year-old black man, (**E**) a 55-year-old white woman, (**F**) a 55-year-old white man, (**G**) a 70-year-old white woman, and (**H**) a 70-year-old white man. Reproduced from Schulman KA, Berlin JA, Harless W et al. The effect of race and sex on physicians' recommendations for cardiac catheterization. *N Engl J Med*. 1999 Feb 25;340:618-626.16
 

@@ -42,15 +42,15 @@ The endothelium functions as a mechanical barrier and also produces a variety of
 
 Despite historical focus on the epicardial coronary macrovessels, the microvessels represent the predominant resistance within the coronary flow circuit and are innumerable in comparison to the epicardial vessels seen during invasive coronary angiography. Interest in and knowledge about diseases of the coronary microvessels has grown dramatically in the past few decades while clinical awareness and adequate treatment options have lagged. These disease processes also suffer from a lack of consistent terminology, leading to widespread use of catchall names such as *open artery ischemic heart disease*, *ischemic heart disease without obstructive coronary artery disease*, *microvascular angina*, and *cardiac syndrome X*. After a comprehensive review of the literature, Vermeltfoort and colleagues concluded that there was no consensus regarding the definition of cardiac syndrome X.3 Thus we have recommended that this term not be used in favor of specific description of the clinical and microvascular findings.4 A comprehensive understanding of coronary microvessels is vital (Fig. 35–3)5 because in some cohorts, particularly women, angina without obstructive coronary artery disease (CAD) exceeds angina with obstructive CAD.
 
-![](_page_1_Figure_2.jpeg)
+![](ch07-04_page_1_Figure_2.jpeg)
 
 **FIGURE 35–1.** Regulators of coronary microvascular function. Healthy endothelium produces nitric oxide (NO) and prostacyclin (PGI2 ), which are anti-inflammatory and promote homeostasis. Unhealthy endothelium produces hydrogen peroxide (H2 O2 ), which promotes inflammation, proliferation, and atherosclerosis. EET, epoxyeicosatrienoic acids. Reproduced with permission from Gutterman DD, Chabowski DS, Kadlec AO, et al: The Human Microcirculation: Regulation of Flow and Beyond. *Circ Res*. 2016 Jan 8;118:157-172.1
 
-![](_page_1_Figure_4.jpeg)
+![](ch07-04_page_1_Figure_4.jpeg)
 
 **FIGURE 35–2.** Components of the coronary circulation. The precapillary coronary tree consists of conductive, prearteriolar, and arteriolar vessels. Resistance in these vessels components is primarily responsive to flow, pressure, and metabolic stimuli, respectively. Mean pressure decrease is negligible in the conductive vessels and modest in prearterioles; the predominant drop in pressure occurs in the arterioles. Reproduced with permission from Camm AJ: *The ESC Textbook of Cardiovascular Medicine*, 2nd ed. Oxford University Press; 2009.2
 
-![](_page_2_Picture_2.jpeg)
+![](ch07-04_page_2_Picture_2.jpeg)
 
 **FIGURE 35–3.** Coronary microcirculation. Extensive collateral circulation of 10 to 20 μm diameter vessels imaged in this ex vivo arteriogram of the heart. Reproduced with permission from Berry C, Balachandran KP, L'Allier PL, et al: Importance of collateral circulation in coronary heart disease. *Eur Heart J*. 2007 Feb;28:.5
 
@@ -80,11 +80,11 @@ These patients were presumed to have trivial mortality risk, an assumption that 
 
 In addition to the hazard associated with nonobstructive CAD, it is a very costly condition. Patients incur notable direct (office visits,
 
-![](_page_3_Figure_6.jpeg)
+![](ch07-04_page_3_Figure_6.jpeg)
 
 **FIGURE 35–4.** Classification of ischemic heart disease patients. CAD, coronary artery disease; CVD, cardiovascular disease; FFR, fractional flow reserve; IHD, ischemic heart disease; LV, left ventricular. Reproduced with permission from Pepine CJ, Ferdinand KC, Shaw LJ, et al: Emergence of Nonobstructive Coronary Artery Disease: A Woman's Problem and Need for Change in Definition on Angiography. *J Am Coll Cardiol*. 2015 Oct 27;66:1918-1933.4
 
-![](_page_4_Figure_2.jpeg)
+![](ch07-04_page_4_Figure_2.jpeg)
 
 **FIGURE 35–5.** Survival free of major adverse coronary events (MACE) stratified by severity of coronary disease. The top panel shows results for men and the bottom for women stratifying survival free of MACE over 7 years of follow-up. Patients with anginal symptoms and normal coronaries or nonobstructive coronary artery disease (CAD) have higher risk than those without symptoms. In this figure 1VD = one vessel disease, 2VD = two vessel disease, and 3VD = three vessel disease. Reproduced with permission from Jespersen L, Hvelplund A, Abildstrøm SZ, et al: Stable angina pectoris with no obstructive coronary artery disease is associated with increased risks of major adverse cardiovascular events, *Eur Heart J*. 2012 Mar;33:734-744.30
 
@@ -112,7 +112,7 @@ Invasive measurement of coronary blood flow and CFR is predominantly performed u
 
 Treatments for CMD and nonobstructive CAD have not been rigorously studied in large controlled trials. Guideline recommendations are sparse because the evidence base is lacking. The most recent US guidelines for stable ischemic heart disease do not provide substantial recommendations for patients with nonobstructive CAD despite that fact that many statin trials have documented reduced progression of atherosclerosis in vessels with nonobstructive disease. Patients with CMD and nonobstructive CAD are often dismissed from specialty care based on the belief that their symptoms are not related to coronary dysfunction. This neglect is compounded when symptoms are overlooked in the primary care setting. Among the few recommended treatments for CMD and nonobstructive CAD, most have been adopted from the treatments for angina pectoris related to obstructive coronary atherosclerosis. Angiotensin II inhibition (either by converting enzyme inhibition [angiotensin-converting enzyme–I] or angiotensin receptor blockade) and statins have shown promise by reducing symptoms and improving CFR in several randomized trials of small sample size.46,47 Several pilot type trials using the late sodium channel inhibitor ranolazine in a population of predominantly women with angina and no obstructive CAD suggested favorable short-term effects, but the drug did not appear to reduce symptoms or improve myocardial perfusion reserve by cardiac magnetic resonance imaging (MRI) in a more definitive, randomized, placebo-controlled trial of 142 subjects.48
 
-![](_page_6_Figure_2.jpeg)
+![](ch07-04_page_6_Figure_2.jpeg)
 
 **FIGURE 35–6.** Invasive assessment of the microcirculation. Illustration of how the coronary arteries can be interrogated for coronary flow reserve using pressure transducing coronary wires and intracoronary infusions of medications. QCA, quantitative coronary angiography. Reproduced with permission from Schächinger V, Zeiher AM: Coronary microcirculation. Pathophysiology, clinical relevance, and importance for regenerative therapy after myocardial infarction. *Herz*. 2005 Nov;30:641-650.44
 
@@ -130,15 +130,15 @@ A scoring system has been proposed to estimate risk of major adverse cardiac eve
 
 Pharmacological agents, such as ergonovine, ergometrine, or acetylcholine, are used to test for the presence of coronary spasm during invasive angiography when spasm does not occur spontaneously during the procedure. Ergonovine activates multiple receptors (alphaadrenergic, dopaminergic, and serotonin [5-HT]) directly activating vascular smooth muscle. The drug can be given intravenously in doses from 0.05 to 0.40 mg or by the intracoronary route with modest
 
-![](_page_7_Figure_2.jpeg)
+![](ch07-04_page_7_Figure_2.jpeg)
 
 **FIGURE 35–7.** Coronary spasm in a 49-year-old woman with exertional angina. (**A, B**) Focal spasm of the left anterior descending (artery; LAD) before and after administration of ergonovine and (**C, D**) diffuse spasm of the LAD before and after administration of acetylcholine in a second patient. Reproduced with permission from Zaya M, Mehta PK, Merz CN: Provocative testing for coronary reactivity and spasm. *J Am Coll Cardiol*. 2014 Jan 21;63:103-109.
 
-![](_page_7_Figure_4.jpeg)
+![](ch07-04_page_7_Figure_4.jpeg)
 
 **FIGURE 35–8.** Hemodynamic and electrocardiogram (ECG) changes during coronary spasm. Continuous monitoring of patients with clinical vasospasm demonstrates that the initially detected event is a decrease in left and right ventricular dp/dt followed with ECG shifts. Pain and changes in chamber pressures do not occur until minutes after the onset of spasm. LV, left ventricle; RV, right ventricle. Reproduced with permission from Maseri A, Mimmo R, Chierchia S, et al: Coronary artery spasm as a cause of acute myocardial ischemia in man. *Chest*. 1975;Nov;68:625-633.54
 
-![](_page_8_Picture_2.jpeg)
+![](ch07-04_page_8_Picture_2.jpeg)
 
 **FIGURE 35–9.** Cross-sectional segments of coronary artery in a patient with coronary spasm. Composite of coronary artery cross-sections of a patient with coronary spasm during life. Clinical spasm involved segments 3 to 7. Severe atherosclerotic plaque is seen in 8 of the 21 segments. Reproduced with permission from Roberts WC, Curry RC Jr, Isner JM, et al: Sudden death in Prinzmetal's angina with coronary spasm documented by angiography. Analysis of three necropsy patients. *Am J Cardiol*. 1982 Jul;50:203-210.60
 
@@ -211,9 +211,9 @@ Thromboangiitis obliterans (Buerger disease)
 
 The pathological cause of Takayasu's arteritis is not precisely known, but it is widely thought to result from an autoimmune process mediated by T cells and affect the vasa vasorum of large vessels with leukocyte infiltration. The disease is most prevalent in Asia and the Middle East with a female predominance and a peak incidence in the third decade of life.70 Some familial cases have been reported, but the disease is generally considered sporadic. Early symptoms are nonspecific (fatigue, fever), whereas late manifestations include vision loss, renal impairment, and stroke. Although coronary involvement is thought to be uncommon, perfusion defect may be seen in a majority of patients, despite a lack of cardiac symptoms.71 In a cardiology context, consideration should be given for this disease in young patients presenting with myocardial infarction and low risk of atherosclerosis. No specific serum test is available; markers of inflammation (C-reactive protein, sedimentation rate) are commonly used in facilitating diagnosis. Treatment is based on steroid suppression. CT and specifically PET/ CT are useful for assessing arterial dilation and inflammatory activity in the vessels (Fig. 35–10).70
 
-![](_page_9_Figure_20.jpeg)
+![](ch07-04_page_9_Figure_20.jpeg)
 
-![](_page_9_Figure_21.jpeg)
+![](ch07-04_page_9_Figure_21.jpeg)
 
 **FIGURE 35–10.** Positron emission tomography (PET)/computed tomography (CT) imaging of Takayasu's arteritis. In **A** and **B**, hybrid imaging with PET and CT shows uptake of fluorodeoxyglucose in the large vessels: aortic arch, carotid, and brachiocephalic. Reproduced with permission from Isobe M: Takayasu arteritis revisited: current diagnosis and treatment. *Int J Cardiol*. 2013 Sep 20;168:3-10.70
 
@@ -231,11 +231,11 @@ Polyarteritis nodosa is a chronic systemic disease caused by necrotizing vasculi
 
 Kawasaki disease is a common childhood vasculitis that can manifest with coronary abnormalities. The disease is also known as mucocutaneous lymph node syndrome and is rare in adults. Typical presentation includes erythema of mucous membranes (conjunctivitis, mucositis, rash) and lymphadenopathy. An infectious agent is suspected, but no causative agent has been identified.80 Widespread inflammation of medium-sized arteries results in coronary artery aneurysms, typically developing between 4 days and 4 weeks of symptom onset for about 25% to 30% of patients who are not treated early. Pathologically, necrotizing angiitis of the vaso vasorum damages the media and adventitia. Risk factors for aneurysm development are described in Table 35–3. Researchers encourage the use of standardized Z-scores of aneurysm size in order to optimize comparisons in the medical literature.81 Widespread use of intravenous immunoglobulin has resulted in dramatic reductions in morbidity and mortality. Treatment with other immune modulating drugs is a current area of study.82 Spontaneous regression of the aneurysm occurs in about half of vessels in 1 to 2 years after illness, predominantly determined by the size of the initial aneurysm. Aside from aneurysm development, other cardiac structures and function may be affected. Pericarditis, myocarditis, and arrhythmias have been reported. Noncoronary vascular symptoms include peripheral ischemia and, rarely, gangrene.
 
-![](_page_10_Figure_2.jpeg)
+![](ch07-04_page_10_Figure_2.jpeg)
 
 **FIGURE 35–11.** Imaging findings in giant cell arteritis. (**A**) Abnormal thickening of aorta on transesophageal echocardiography in febrile patient resulted in further evaluation for arteritis, (**B**) inflammation noted on fluorodeoxyglucose positron emission tomography (PET) imaging, (**C**) thickened aorta on computed tomography, and (**D**) inflammation on FDG-PET hybrid imaging. Reproduced with permission from Palmers PJ, Ameloot K, De Wever W, et al: An echocardiographic finding leading to the diagnosis of giant cell arteritis. *Eur Heart J Cardiovasc Imaging*. 2013 May;14:434.74
 
-![](_page_10_Figure_4.jpeg)
+![](ch07-04_page_10_Figure_4.jpeg)
 
 **FIGURE 35–12.** Massive coronary aneurysm in a patient with polyarteritis nodosa. (**A**) Echocardiogram demonstrating coronary aneurysm (*arrow*), (**B**) angiographic imaging, (**C**) three-dimensional reconstruction by computed tomography, and (**D**) magnetic resonance angiography of an additional inguinal artery aneurysm. LV, left ventricle; RA, right atrium; RV, right ventricle. Reproduced with permission from Ebersberger U, Rieber J, Wellmann P, et al: Polyarteritis nodosa causing a vast coronary artery aneurysm. *J Am Coll Cardiol*. 2015 Feb 10;65:e1-2.77
 
@@ -259,7 +259,7 @@ Low albumin, sodium, or hemoglobin
 
 Abbreviations: CRP, C-reactive protein; ESR, erythrocyte sedimentation rate.
 
-![](_page_11_Picture_2.jpeg)
+![](ch07-04_page_11_Picture_2.jpeg)
 
 **FIGURE 35–13.** Gross specimen of the coronary arteries in an adult with probable Kawasaki disease as a child. (**A**) Significant aneurysmal dilatation of the right and left anterior arteries, (**B**) radiograph demonstrating calcification in the aneurysmal segments, and (**C**) cross-sectional images of the aneurysmal segment. A, aneurysm; LAD, left anterior descending coronary artery; LC, left circumflex coronary artery; R, right coronary artery.
 
@@ -283,7 +283,7 @@ For some patients with advanced ischemic and nonischemic heart disease, orthotop
 
 TV is a process whereby the coronary arteries become diffusely and circumferentially narrowed with progressive luminal loss. The process differs from typical atherosclerotic processes. Findings often seen include: smooth muscle cell proliferation in the intima, fibrosis, and accumulation of T-lymphocytes (Fig. 35–14).97 Separate from these events, atherosclerotic plaque may be present in the donor
 
-![](_page_12_Picture_2.jpeg)
+![](ch07-04_page_12_Picture_2.jpeg)
 
 **FIGURE 35–14.** Histology of transplant vasculopathy and native atherosclerosis. (**A**) Concentric hyperplasia of the coronary intima seen in transplant vasculopathy resulting in near obliteration of the lumen and (**B**) native coronary atherosclerosis with predominance of fibrosis and eccentric luminal stenosis. Reproduced with permission from Pollack A, Nazif T, Mancini D, et al: Detection and imaging of cardiac allograft vasculopathy. *JACC Cardiovasc Imaging*. 2013 May;6:613-623.97
 
@@ -305,7 +305,7 @@ Some of these patterns may be associated with myocardial ischemia and raise conc
 
 When compared to patients with coronary arteries that do not travel between the great arteries, patients with an interarterial/ intraarterial course are more likely to undergo surgical revascularization and may be at higher risk for myocardial infarction and/or sudden death.101 Perhaps the most comprehensive understanding of risk associated with anomalous coronaries comes from Eckart, who reviewed sudden deaths in 6.3 million military recruits.107 This selected population had gone through screening necessary for military service; 126 deaths were observed (64 caused by an identifiable
 
-![](_page_13_Figure_2.jpeg)
+![](ch07-04_page_13_Figure_2.jpeg)
 
 **FIGURE 35–15.** Diagram of coronary anomalies showing various congenital coronary artery anomalies that are associated with clinical symptomatic heart disease. A, anterior cusp; Ao, aorta; L, left cusp; LAD, left anterior descending (artery); LC, left circumflex (artery); LM, left main (artery); P, posterior cusp; PT, pulmonary trunk; R, right cusp or right coronary artery.
 
@@ -317,27 +317,27 @@ Less clear is the relationship between anomalous coronaries and clinical symptom
 
 Coronary arteries typically course over the epicardial surface of the heart. Occasionally, segments of varying lengths may travel within the myocardium and reappear on the epicardium more distally in the arterial course. This is sometimes referred to as a *tunneled artery*, but the clinical phenomenon is most often referred to the description of the overlying muscle, a myocardial bridge. On pathological specimens, the coronary artery is surrounded, not by epicardial fat, but by myocardium. These can be observed during coronary angiography, where the lumen of the tunneled segment of the vessel decreases, particularly during systole. Autopsy studies suggest that myocardial bridges are much more common (> 15%) than observed on angiography (< 1%), likely because the degree of bridging and compression of the vessel lumen is variable, possibly relating to the varying depth of the tunneled segment within myocardium (Figs. 35–21, 35–22, and 35–23).113-115
 
-![](_page_14_Figure_2.jpeg)
+![](ch07-04_page_14_Figure_2.jpeg)
 
 **FIGURE 35–16.** Computed tomography images of anomalous left coronary artery arising from the pulmonary artery (ALCAPA). **A** and **B** show the left coronary artery arising from the pulmonary artery instead of the aorta. **C** and **D** show robust dilation of coronary anastomoses, facilitating blood flow from the right coronary to the left and retrograde into the pulmonary artery (PA). AO, aorta; LCA, left circumflex artery; RCA, right coronary artery. Reproduced with permission from Wu WH, Sun JP, Ma L, et al: Anomalous origin of the left coronary artery from the pulmonary trunk. *Int J Cardiol*. 2015 Dec 15;201:165-167.102
 
 Myocardial bridging appears to be more common than is clinically manifest; therefore, evaluating the hemodynamic significance of a bridge is an area without uniform agreement. Conceptually, compression of a tunneled artery should be limited mostly to myocardial systole because coronary blood flow occurs predominantly during diastole. However, many bridges also restrict expansion of the coronary artery in diastole. Additionally, augmentation of coronary blood flow required to meet increasing demands such as
 
-![](_page_14_Figure_5.jpeg)
+![](ch07-04_page_14_Figure_5.jpeg)
 
 **FIGURE 35–17.** Computed tomography (CT) of single coronary artery. (**A–C**) Three-dimensional reconstruction of the single coronary artery arising from the right sinus of Valsalva coursing in the atrioventricular grooves and terminating in a small anterior descending artery, (**D**) semilucent reconstruction showing the course of the vessel, (**E**) CT angiogram simulation and invasive angiogram with vessel origin (*arrow*) and termination (*arrowhead*), and (**F**) Invasive angiography showing the same projection of the coronary as seen in (E). RCA, right coronary artery; LCx, left circumflex; PDA, posterior descending artery; PLB, posterior lateral branch. Reproduced with permission from Aldana-Sepulveda N, Restrepo CS, Kimura-Hayama E: Single coronary artery: spectrum of imaging findings with multidetector CT. *J Cardiovasc Comput Tomogr*. 2013 Nov-Dec;7:391-399.105
 
-![](_page_14_Figure_7.jpeg)
+![](ch07-04_page_14_Figure_7.jpeg)
 
 **FIGURE 35–18.** Anomalous right coronary arising from left sinus of Valsalva. Diagram showing the proposed mechanism of myocardial ischemia produced by anomalous origin of the right coronary artery from the left sinus of Valsalva. With exercise, the aorta and pulmonary trunk dilate, thereby reducing the already narrowed coronary ostium of the anomalous right coronary. Modified with permission from Roberts WC, Siegel RJ, Zipes DP. Origin of the right coronary artery from the left sinus of Valsalva and its functional consequences: analysis of 10 necropsy patients. *Am J Cardiol*. 1982;49:863-868.
 
-![](_page_15_Figure_2.jpeg)
+![](ch07-04_page_15_Figure_2.jpeg)
 
 **FIGURE 35–19.** Anomalous left coronary arising from right sinus of Valsalva. Diagram showing the proposed mechanism of myocardial ischemia produced by anomalous origin of the left coronary artery from the right sinus of Valsalva. With exercise, the aorta and pulmonary trunk dilate, thereby reducing the already narrowed coronary ostium of the anomalous left coronary. From Roberts WC, Siegel RJ, Zipes DP.106
 
 exercise is often accompanied by an increase in flow during systole because diastole is progressively limited by the increase in heart rate. Thus ischemia, myocardial infarction, arrhythmias, and sudden death have all been attributed to myocardial bridging.116 A variety of techniques, including fractional flow reserve, nuclear myocardial perfusion imaging, IVUS, and intracoronary Doppler have been used to investigate the perfusion consequences related to bridging.117,118 Bridges are frequently associated with other abnormalities such as ED, microvascular dysfunction, spasm, and other coronary pathologies.31 Antianginal agents such as calcium antagonists and beta-blockers have been used as a conservative treatment, whereas
 
-![](_page_15_Figure_5.jpeg)
+![](ch07-04_page_15_Figure_5.jpeg)
 
 **FIGURE 35–20.** Computed tomography (CT) angiogram of left main coronary artery arising from right. In this CT angiogram, the left main coronary artery is seen arising from the right sinus of Valsalva and traveling between the aorta and pulmonary trunk in a fashion thought to impart risk of sudden death. This lesion is a common reason to undergo a surgical procedure to improve flow in the left coronary circulation. Ao, aorta; RVOT, right ventricular outflow tract. Reproduced with permission from Attili A, Hensley AK, Jones FD, et al: Echocardiography and coronary CT angiography imaging of variations in coronary anatomy and coronary abnormalities in athletic children: detection of coronary abnormalities that create a risk for sudden death. *Echocardiography*. 2013 Feb;30:225-233.108
 
@@ -361,15 +361,15 @@ direct connections from a coronary artery to a cardiac chamber. CT can readily d
 
 If patients present with heart failure or ischemia symptoms, the traditional evaluation often includes coronary angiography, which is the most reliable method of detecting coronary fistulas. Patients with incidentally found, asymptomatic, left-to-left fistulas can be managed conservatively and will often remain stable and symptom-free for long periods of time. Interventional occlusion or surgical repair is indicated for patients with symptoms attributable to the fistula or heart failure/cardiac remodeling caused by shunting of blood. Successful repair can usually be achieved with low likelihood of residual shunting in long-term follow-up.121 Percutaneous closure can also be performed.126
 
-![](_page_16_Figure_7.jpeg)
+![](ch07-04_page_16_Figure_7.jpeg)
 
 **FIGURE 35–22.** Diagram of myocardial bridging showing morphologic variations in tunneling (length of tunneled segment, depth of tunneled segment). LAD, left anterior descending. Reproduced with permission from Wenger NK, ed. *Exercise and the Heart*, 2nd ed. Cardiovascular Clinics. Philadelphia: FA Davis; 1985.
 
-![](_page_16_Figure_9.jpeg)
+![](ch07-04_page_16_Figure_9.jpeg)
 
 **FIGURE 35–23.** Computed tomography angiography of myocardial bridge. **A**. In this multiplanar reconstruction of the LAD, a substantial segment of the midvessel courses through the myocardium. **B**. Another example shown with a less extensive segment of bridging in the more distal portion of the vessel. Reproduced with permission from Brolin EB, Brismar TB, Collste O, et al: Prevalence of Myocardial Bridging in Patients With Myocardial Infarction and Nonobstructed Coronary Arteries. *Am J Cardiol*. 2015 Dec 15;116:1833-1839.113
 
-![](_page_17_Picture_2.jpeg)
+![](ch07-04_page_17_Picture_2.jpeg)
 
 **FIGURE 35–24.** Diagram showing coronary artery fistula connecting pulmonary trunk and left anterior descending (LAD) artery. It originally was misdiagnosed as an anomalous coronary artery. Ao, aorta; L, left; LC, left circumflex; LADD, diagonal branch of LAD; LM, left main; PT, pulmonary trunk; R, right.
 
@@ -413,7 +413,7 @@ An aneurysm of the coronary artery is a pathological dilation of the entire vess
 
 Aneurysms are typically asymptomatic and sometimes incidentally found on CT, angiography or, rarely, on echocardiography.130 Ischemia and ACS can occur if thrombus formation results in luminal narrowing, embolization, or occlusion. Mass effects, such
 
-![](_page_17_Picture_24.jpeg)
+![](ch07-04_page_17_Picture_24.jpeg)
 
 **FIGURE 35–25.** Angiographic appearance of coronary to ventricular fistula. (**A**) Selective angiography of the left circumflex demonstrates a dilated and tortuous aneurysmal vessel, which drains into the right ventricle (**B**). Reproduced with permission from Hou B, Ma WG, Zhang J, et al: Surgical management of left circumflex coronary artery fistula: a 25-year single-center experience in 29 patients. *Ann Thorac Surg*. 2014 Feb;97:530-536.121
 
@@ -455,7 +455,7 @@ Dissection refers to the separation of arterial wall layers and can occur sponta
 
 Spontaneous or primary dissections are less common than secondary and are most commonly reported in young women, often associated with pregnancy.133 The condition is rare, or at least rarely reported, with only 440 cases in the MEDLINE database between 1931 and 2008.134 In a review of those cases, 70% (n = 308) were in women and 26.1% overall (n = 80) were pregnant; 83.8% of pregnancy-related
 
-![](_page_18_Figure_22.jpeg)
+![](ch07-04_page_18_Figure_22.jpeg)
 
 **FIGURE 35–26.** Pathologic specimens of coronary artery dissection—serial cross-sections (**A–F**) showing dissection of the left anterior descending coronary artery. The true channel (TC) is severely compromised by external compression from the false channel (FC) ("dissection channel"). Reproduced with permission from Wenger NK, ed. *Exercise and the Heart*, 2nd ed. Cardiovascular Clinics. Philadelphia: FA Davis; 1985.
 
@@ -465,21 +465,21 @@ A dissection in the ascending thoracic aorta can propagate toward the heart and 
 
 The signs and symptoms of dissection are similar to ACS resulting from atherosclerotic disease: chest pain, ischemic ECG changes, and elevated cardiac biomarkers.135 With modern equipment, the rate of dissection during coronary intervention and interrogation is low (< 1%).137 Percutaneous and surgical treatments are options; however, many dissections are managed conservatively without need for revascularization.138 Antegrade dissections are often treated with stenting to prevent further propagation of the dissection and ischemic complications. Because of the direction of blood flow, retrograde dissections can often be treated conservatively (ie, without further intervention). Spiral dissections are technically challenging from a percutaneous perspective and often managed either conservatively or with surgical revascularization if ischemic symptoms develop.
 
-![](_page_19_Picture_5.jpeg)
+![](ch07-04_page_19_Picture_5.jpeg)
 
-![](_page_19_Picture_6.jpeg)
+![](ch07-04_page_19_Picture_6.jpeg)
 
 **FIGURE 35–27.** Dissection and follow-up imaging of left anterior descending artery dissection in a patient with fibromuscular dysplasia (FMD). (**A**) Dissection with poor antegrade flow in the LAD, (**B**) follow-up angiography with improved LAD flow, and (**C** and **D**) irregularity of renal vessels consistent with FMD. Reproduced with permission from Saw J1, Ricci D, Starovoytov A, et al: Spontaneous coronary artery dissection: prevalence of predisposing conditions including fibromuscular dysplasia in a tertiary center cohort. *JACC Cardiovasc Interv*. 2013 Jan;6:44-52.135
 
-![](_page_19_Picture_8.jpeg)
+![](ch07-04_page_19_Picture_8.jpeg)
 
 **FIGURE 35–28.** Dissection in percutaneous coronary intervention. Diagram showing morphologic definition of coronary artery dissections in balloon angioplasty (long-axis plane): localized (mechanism) (1 cm in total dissection length) and extensive (complications) (> 1 cm in total length). Reproduced with permission from Waller BF, Orr CM, Pinkerton CA, et al: Coronary balloon angioplasty dissections: "the good, the bad and the ugly". *J Am Coll Cardiol*. 1992 Sep;20:701-706.115
 
-![](_page_20_Picture_2.jpeg)
+![](ch07-04_page_20_Picture_2.jpeg)
 
 **A**
 
-![](_page_20_Picture_4.jpeg)
+![](ch07-04_page_20_Picture_4.jpeg)
 
 **FIGURE 35–29.** Spiral dissection of a coronary artery. Diagram showing pathologic change accounting for angiographic appearance of coronary artery "spiral" dissection. (**A**) Alteration in course of dissection and (**B**) angiographic appearance of unaltered course of dissection. Reproduced with permission from Waller BF, Orr CM, Pinkerton CA, et al: Coronary balloon angioplasty dissections: "the good, the bad and the ugly". *J Am Coll Cardiol*. 1992 Sep;20:701-706.115
 

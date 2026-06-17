@@ -50,7 +50,7 @@ Some have proposed that comparative effectiveness research will serve as a count
 
 Although it is natural to expect that the most important questions for a health economics analysis would deal with some aspect of cost, understanding the clinical effectiveness is actually almost always much more important.18 The first question of importance regarding a particular health care service or technology is: What long-term effects (both positive and negative) does it have on health outcomes, and what is the level of evidence supporting the current state of understanding about clinical effectiveness? Without a clear answer to this question, no economic analysis can be of much use. Sometimes the most important service an economic analysis can perform is to focus a bright light on the fact that the answer to this seemingly simple question is not at all clear. It is not uncommon to encounter a model-based economic analysis in the published literature where the authors have reached some conclusion about whether or not a given medical intervention is cost effective, yet the clinical literature is not at all settled even on what health effects that intervention produces.
 
-![](_page_2_Figure_2.jpeg)
+![](ch16-06_page_2_Figure_2.jpeg)
 
 **FIGURE 112–1.** This graph shows the relationship between investment of incremental health care resources and the resulting incremental health care benefit. *A* represents a point where large health benefits are generated at low cost. *C* represents a point where vanishingly small health benefits are realized despite large investments, also known as "flat of the curve" medicine. *B* represents a cut point, or benchmark, beyond which therapies are no longer considered economically attractive.
 
@@ -58,7 +58,7 @@ The second critical health economics question is: Is it good value for the money
 
 Cost-effectiveness analysis provides an estimate of the relationship between money spent and health benefits produced, but unlike costbenefit analysis, the cost-effectiveness and cost-utility ratios have no natural interpretation. Thus, benchmarks are needed to help interpret
 
-![](_page_2_Figure_7.jpeg)
+![](ch16-06_page_2_Figure_7.jpeg)
 
 **FIGURE 112–2.** Major types of economic analysis in medicine relating costs and health outcomes. QALY, quality-adjusted life-year; QOL, quality of life.
 

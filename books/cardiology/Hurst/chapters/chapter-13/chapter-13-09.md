@@ -84,11 +84,11 @@ Nonspecific intraventricular conduction defect
 
 of the interventricular septum (Fig. 86–3) but was covered with a thin layer of myocardial fibers spanning from the muscular part of the septum (type I, 46.7% of 105 cases). The His bundle was apart from the lower border of the membranous part of the interventricular septum and ran within the interventricular muscle (type II, 32.4%). The His bundle was immediately beneath the endocardium and coursed onto the membranous part of the interventricular septum (naked atrioventricular bundle, type III, 21%). These anatomical variations of the His bundle may have clinical implications for permanent His bundle pacing and to avoid His bundle injury during surgical reconstruction of membranous part of the ventricular septal defect.
 
-![](_page_1_Figure_26.jpeg)
+![](ch13-09_page_1_Figure_26.jpeg)
 
 **FIGURE 86–1.** Schematic representation of the cardiac conduction system. AV, atrioventricular; IVC, inferior vena cava; RA, right atrial; SA, sinoatrial; SVC, superior vena cava. Copyright 2016, Elsevier Inc. All rights reserved. [www.netterimages.com.](http://www.netterimages.com)
 
-![](_page_1_Picture_28.jpeg)
+![](ch13-09_page_1_Picture_28.jpeg)
 
 **FIGURE 86–2.** Schematic representation of atrial (A) and ventricular (V) aspect of the membranous septum (MS) and its relation to aortic root and valve cusps. AV node and the course of His bundle are superimposed on the membranous septum. The proximal portion of the His bundle is on the right atrial-left ventricular aspect of the MS. The distal portion of the His bundle is in the right ventricle-left ventricular aspect of the MS. Used with permission from Dr. K. Shivkumar, UCLA Arrhythmia Center.
 
@@ -104,7 +104,7 @@ The conduction system of the heart is significantly influenced by both the paras
 
 Sinus node dysfunction (SND) is a common clinical syndrome, comprising a wide range of electrophysiologic abnormalities including failure of impulse generation, failure of impulse transmission to the atria,
 
-![](_page_2_Picture_2.jpeg)
+![](ch13-09_page_2_Picture_2.jpeg)
 
 **FIGURE 86–3.** Type I His bundle. The His bundle runs under the membranous part of the interventricular septum (MS). Dots correspond with the line of the attachment of tricuspid valve (AT). AVB, atrioventricular bundle; AVN, atrioventricular node; RB, right bundle. Reproduced with permission from Kawashima T, Sasaki H: A macroscopic anatomical investigation of atrioventricular bundle locational variation relative to the membranous part of the ventricular septum in elderly human hearts. *Surg Radiol Anat*. 2005 Aug;27:206–213.
 
@@ -114,7 +114,7 @@ inadequate subsidiary pacemaker activity, and increased susceptibility to atrial
 
 Normal myocardium has a stable hyperpolarized (negative) resting potential during phase 4 of the action potential. The sinoatrial node in contrast, displays phase 4 diastolic depolarization (Fig. 86–4). The cell membrane potential becomes gradually more positive until an action potential is triggered at the threshold potential. Alteration of this phase 4 slope changes the heart rate. The current paradigm of sinoatrial node automaticity is modeled as mutual entrainment of two molecular
 
-![](_page_2_Figure_7.jpeg)
+![](ch13-09_page_2_Figure_7.jpeg)
 
 **FIGURE 86–4.** Cardiac conduction system. The sinus node action potential is different from the rest of the cardiac conduction tissue by the presence of diastolic depolarization, which is essential for its automaticity. A-V, atrioventricular; ECG, electrocardiogram. Used with permission from John Miller, Indiana University.
 
@@ -130,7 +130,7 @@ Sinus node dysfunction is a well-known association with recurrent atrial arrhyth
 
 Although an idiopathic degenerative disorder of the sinus node is the most common cause for intrinsic sinus node dysfunction, ischemic heart disease is responsible in a significant number of patients. Chronic ischemia from sinus node artery disease or acute myocardial infarction (MI), especially inferior wall MI, may result in sinus bradycardia, sinus arrest, and atrial tachyarrhythmias. Transient sinus bradycardia and
 
-![](_page_3_Figure_2.jpeg)
+![](ch13-09_page_3_Figure_2.jpeg)
 
 **FIGURE 86–5.** Electrophysiologic heterogeneity of the sinoatrial node (SAN). The central SAN, the site of dominant pacemaking, is electronically insulated from the hyperpolarizing atrial myocardium through the differential expression of connexins and ion channels. Peripheral SAN cells are electrophysiologically intermediate between central cells and atrial cardiomyocytes. SR, sarcoplasmic reticulum. Reproduced with permission from Park DS, Fishman GI. The cardiac conduction system. *Circulation*. 2011 Mar 1;123:904–915.
 
@@ -204,11 +204,11 @@ Chronic atrial fibrillation with a slow ventricular response in the absence of A
 
 Atrial standstill is a rare clinical syndrome in which there is no spontaneous atrial activity and the atria cannot be electrically
 
-![](_page_4_Figure_15.jpeg)
+![](ch13-09_page_4_Figure_15.jpeg)
 
 **FIGURE 86–6.** Telemetry strip demonstrating sinus bradycardia followed by a 4.6-second sinus pause.
 
-![](_page_5_Figure_2.jpeg)
+![](ch13-09_page_5_Figure_2.jpeg)
 
 **FIGURE 86–7.** Telemetry strip demonstrating a sinus pause twice the length of the preceding P-P interval, suggesting sinoatrial exit block. Ladder diagram depicts sinoatrial (SA) nodal type I exit block.
 
@@ -226,11 +226,11 @@ Even though sinus node dysfunction may occur in any age group, more than half of
 
 The diagnosis of sinus node dysfunction in patients who present with typical symptoms and ECG findings is straightforward. However, because of the intermittent nature of the symptoms and rhythm manifestations, the diagnosis can be time-consuming and frustrating.
 
-![](_page_5_Figure_12.jpeg)
+![](ch13-09_page_5_Figure_12.jpeg)
 
 **FIGURE 86–8.** An example of atrial tachyarrhythmia terminating with a 3.6-second sinus pause.
 
-![](_page_6_Figure_2.jpeg)
+![](ch13-09_page_6_Figure_2.jpeg)
 
 **FIGURE 86–9.** Atrial standstill. Rhythm strip demonstrates junctional rhythm with no anterograde or retrograde atrial activity. Atrial pacing in this patient could not achieve atrial capture, confirming atrial standstill.
 
@@ -240,7 +240,7 @@ A number of noninvasive and invasive tests are available to assist in the evalua
 
 Documentation of the various arrhythmias associated with sinus node dysfunction can be obtained with routine telemetric monitoring during hospitalization or with outpatient ambulatory 24- to 48-hour Holter recordings. If the symptoms are infrequent in nature, event recorders capable of intermittent or continuous monitoring can be used. Newer monitoring systems use remote real-time monitoring of patients' rhythm using wireless cellular technology as well as physician-defined triggers. If other noninvasive and invasive tests are inconclusive, patients may benefit from an implantable loop recorder, which has the ability to record both patient-triggered and automatic device-triggered events over a period of 18 to 36 months. Recently a miniaturized implantable monitor (Reveal LINQ, Medtronic, Minneapolis, MN) with wireless capability has become commercially available (Fig. 86–10). The implantation can easily be performed under local anesthesia in a subcutaneous location to the left of patient's fourth intercostal space.27 The device transmits data to Medtronic's CareLink network automatically on a daily basis. Alerts are sent
 
-![](_page_6_Figure_7.jpeg)
+![](ch13-09_page_6_Figure_7.jpeg)
 
 **FIGURE 86–10.** Miniaturized implantable cardiac monitor (Reveal LINQ, Medtronic, Minneapolis, MN) with wireless capability.
 
@@ -258,7 +258,7 @@ Patients with sinus node dysfunction often demonstrate a decreased IHR.
 
 Invasive electrophysiology study, in addition to assessing sinus node function, offers insight into other potential etiologies for symptoms of syncope and palpitations (AV block, supraventricular tachycardia, ventricular tachycardia [VT]) (see Chap. 82). The sinus node recovery time is a measure of sinus node automaticity and is measured as the longest pause after atrial overdrive pacing. SA conduction time is a measure of the interval from sinus node depolarization to activation of atrial muscle. With improved modalities for monitoring, it is less common to require electrophysiology studies to make this diagnosis.
 
-![](_page_7_Figure_2.jpeg)
+![](ch13-09_page_7_Figure_2.jpeg)
 
 FIGURE. Electrograms obtained from the implantable monitor (LINQ) during an episode of near syncope shows sudden-onset 2:1 atrioventricular block with bradycardia.
 
@@ -443,7 +443,7 @@ AV block occurs in 12% to 25% of all patients with acute MI; firstdegree AV bloc
 
 A variety of uncommon autoimmune, oncologic, infectious, and iatrogenic disorders can also lead to heart block and are listed in Table 86–7. Certain neuromuscular disorders (myotonic dystrophy, Kearns-Sayre syndrome, peroneal muscular atrophy, Erb limb-girdle dystrophy, Emory-Dreifuss muscular dystrophy, and X-linked muscular dystrophies) may give rise to progressive and insidiously developing conduction disorders of the His-Purkinje system. Myotonic dystrophy and Kearns-Sayre syndrome are associated with high incidence of unpredictable and rapidly progressive conduction system disease.57 Complete heart block may occur after aortic or mitral valve replacement surgery and rarely after coronary artery bypass surgery. Preoperative right bundle branch block and multivalve surgery involving
 
-![](_page_12_Figure_2.jpeg)
+![](ch13-09_page_12_Figure_2.jpeg)
 
 **FIGURE 86–12.** Telemetry strip demonstrating an episode of high-grade atrioventricular (AV) block occurring during sleep. Note the sinus bradycardia associated with AV block suggesting increased vagal tone.
 
@@ -482,7 +482,7 @@ Anti-Ro/SSA-associated AV block has been described in adults. Currently availabl
 
 *Paroxysmal AV block* is defined as the sudden occurrence, during a period of 1:1 AV conduction, of a block of sequential atrial impulses resulting in a transient total interruption of AV conduction.70,71 It is thus the onset of a paroxysm of high-grade AV block associated with a period of ventricular asystole before conduction returns or a subsidiary pacemaker escapes. It may occur in variety of clinical conditions associated with vagal stimulation (eg, coughing, swallowing, vomiting, micturition, during abdominal pain) or in the setting of His-Purkinje conduction system disease. Idiopathic paroxysmal AV block is a distinct form of syncope characterized by a long history of recurrent syncope as
 
-![](_page_13_Picture_20.jpeg)
+![](ch13-09_page_13_Picture_20.jpeg)
 
 **FIGURE 86–13.** Transcutaneous aortic valve replacement (TAVR). Radiographs of a patient with Core Valve (Medtronic) and permanent pacemaker are shown. Complete heart block is a known complication of TAVR.
 
@@ -537,7 +537,7 @@ Second-degree AV block of the Wenckebach type (Mobitz type I) is characterized b
 
 Mobitz type II second-degree AV block is characterized by constant P-P intervals and R-R intervals, constant PR intervals before a nonconducted P wave, and pause encompassing the nonconducted P wave equal to two P-P cycles. Type II AV block usually occurs in the presence of bundle-branch block and is almost always caused by a block in the His-Purkinje system (Fig. 86–16). Type II AV block rarely occurs in patients with normal QRS duration. Type II AV block frequently progresses to a complete AV block and may result in syncopal attacks.
 
-![](_page_15_Figure_2.jpeg)
+![](ch13-09_page_15_Figure_2.jpeg)
 
 **FIGURE 86–14.** Rhythm strip of a patient with prolonged PR interval of 400 ms and bifascicular block (right bundle branch block and left anterior fascicular block) is shown.
 
@@ -553,23 +553,23 @@ When two or more consecutive atrial impulses do not conduct to the ventricle, it
 
 Complete or third-degree AV block is characterized by failure of all P waves to conduct to the ventricle. This results in complete dissociation of P waves and QRS complexes. Complete AV block may occur as a result of block in the AV node or at the His-Purkinje level. In patients with block at the AV node level, the escape rhythm is usually junctional, with a narrow QRS complex (unless associated with preexisting bundle branch block), at rates of 40 to 60 bpm (Fig. 86–20). In complete heart block resulting from His-Purkinje disease, the escape rhythm is ventricular in origin, with a wide QRS interval and at rates of 20 to 40 bpm (Fig. 86–21).
 
-![](_page_15_Figure_10.jpeg)
+![](ch13-09_page_15_Figure_10.jpeg)
 
 **FIGURE 86–15.** Type I second-degree atrioventricular (AV) block. A 6:5 AV Wenckebach periodicity is shown. Note that the PR interval progressively lengthens with a decreasing increment. This results in shortening of R-R intervals. The last conducted PR interval (0.33 seconds) is significantly longer than the next conducted PR interval (0.24 seconds).
 
-![](_page_16_Figure_2.jpeg)
+![](ch13-09_page_16_Figure_2.jpeg)
 
 **FIGURE 86–16.** Type II second-degree atrioventricular block. Surface electrocardiogram, leads I, aVF, and V1 , and intracardiac electrograms from the right atrial (RA), proximal, and distal His bundle electrogram (HBE) catheters are shown. Surface ECGs show that the PR intervals are constant at 0.2 seconds with a left bundle branch block morphology of the QRS complex, and the fourth P wave is not followed by a QRS complex. The HBEs reveal that the site of block of the fourth P wave is below the His bundle.
 
-![](_page_16_Figure_4.jpeg)
+![](ch13-09_page_16_Figure_4.jpeg)
 
 **FIGURE 86–17.** Surface electrocardiogram from leads V1 , II, and V5 demonstrating 2:1 AV block with narrow QRS complexes. Although a definite diagnosis of type I or type II AV block cannot be made, longer rhythm strip recordings might reveal Wenckebach periodicity. Vagal maneuvers or exercise might assist further in the final diagnosis.
 
-![](_page_16_Figure_6.jpeg)
+![](ch13-09_page_16_Figure_6.jpeg)
 
 **FIGURE 86–18.** Twelve-lead surface electrocardiogram shows 2:1 AV block in the presence of normal PR interval and right bundle branch block. His bundle ECG in the lower panel shows 2:1 HV block. A, atrial; H, His; V, ventricle.
 
-![](_page_17_Figure_2.jpeg)
+![](ch13-09_page_17_Figure_2.jpeg)
 
 **FIGURE 86–19.** During atrial pacing at 75 bpm, 2:1 AV block is demonstrated. The first conducted QRS complex is narrow and the second conducted complex has right bundle branch block (RBBB). His bundle electrograms show 2:1 HV block. Pacing from His bundle location in this patient resulted in 1:1 conduction with narrow QRS complex suggesting intra-His block. A, atrial; H, His; V, ventricle; RA, right atrium.
 
@@ -581,11 +581,11 @@ This rhythm is characterized by atrial and ventricular activity independent of e
 
 Symptoms in patients with AV conduction abnormalities are generally caused by bradycardia and loss of AV synchrony. Patients with significantly prolonged PR intervals may behave in a similar fashion to patients with pacemaker syndrome because of loss of AV synchrony. In patients with structural heart disease and LV dysfunction, this may result in worsening of heart failure. Symptoms caused by more advanced AV block may range from exercise intolerance, easy fatigability, dyspnea on exertion, dizzy spells, and near syncope to frank syncope. In patients with paroxysmal or intermittent complete heart block, these symptoms are episodic, and routine ECGs may not be diagnostic. Children and adolescents with isolated complete heart block may be generally asymptomatic, whereas some may develop symptoms later as adults because of chronotropic incompetence. Other late signs and symptoms include the development of congestive heart failure and nonsustained VT.
 
-![](_page_17_Figure_8.jpeg)
+![](ch13-09_page_17_Figure_8.jpeg)
 
 **FIGURE 86–20.** Complete heart block. Surface leads V1 and II show sinus tachycardia at 120 bpm and are completely dissociated from a regular junctional (narrow QRS complexes) escape rhythm at 54 bpm. The site of atrioventricular (AV) block is most likely within the AV node.
 
-![](_page_18_Figure_2.jpeg)
+![](ch13-09_page_18_Figure_2.jpeg)
 
 **FIGURE 86–21.** Complete heart block. Surface leads show complete heart block with right branch block morphology escape rhythm. Simultaneous His bundle electrogram demonstrates HV block. A, atrial; H, His; V, ventricle.
 
@@ -597,7 +597,7 @@ The prognosis and treatment of AV block depends on its association with symptoms
 
 In patients with complete heart block at the level of the AV node, the resultant junctional escape rhythm usually accelerates with exercise in contrast to the ventricular escape rhythm with infranodal block, which usually remains unchanged. Early studies using HB recordings have suggested that intra-His block contributes only 15% to 20% of patients with infranodal AV block.73,74 However, recent observations suggest that in the majority of patients with infranodal AV block, the conduction disease is in the main His bundle, suggesting intra-His block.4,75 In a consecutive series of 100 patients, AV nodal block was noted in 46% of the patients and infranodal (HV block) was observed in 54% of the patients.4 Presence of split His potentials, narrow QRS in the setting of HV block, identification of distal His potential, and correction of His-Purkinje conduction by permanent His bundle pacing were used to identify a high (76%) percentage of patients with intra-His block (Fig. 86–22).
 
-![](_page_18_Figure_8.jpeg)
+![](ch13-09_page_18_Figure_8.jpeg)
 
 **FIGURE 86–22.** Second-degree atrioventricular (AV) block. Surface leads show second-degree AV block with right bundle branch block. His bundle electrograms demonstrate split His potentials (H1 and H2) and block in between the two His potentials suggesting intra-His block.
 
@@ -657,7 +657,7 @@ The His bundle is an ideal RV stimulation site from a hemodynamic standpoint. Ho
 
 Conduction disturbances that occur at various levels of the branches of the His-Purkinje system are described as bundle branch block or intraventricular conduction defects (IVCDs). In patients with isolated chronic right or left bundle branch block, the progression to advanced AV block is rare. Patients with bifascicular block (right bundle branch block and left anterior or posterior fascicular block) or left bundle branch block and left axis deviation have a 6% annual incidence of progression to complete heart block.90 In patients with acute MI, the development of new bifascicular block and first-degree AV block is associated with a very high risk (42%) for progression to high-grade AV block. These patients are generally recommended to undergo prophylactic temporary pacing. Alternating bundle branch block, even in asymptomatic patients, is a sign of advanced conduction disturbance
 
-![](_page_20_Figure_9.jpeg)
+![](ch13-09_page_20_Figure_9.jpeg)
 
 **FIGURE 86–23.** Permanent His bundle pacing. Surface electrograms show sinus bradycardia and complete heart block. Intracardiac electrogram from the His bundle pacing (HBP) lead shows block at the atrioventricular nodal level. Pacing from the HBP electrode results in 1:1 His capture and narrow QRS complex.
 

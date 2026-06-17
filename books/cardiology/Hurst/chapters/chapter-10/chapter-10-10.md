@@ -64,7 +64,7 @@ The pericardium is not essential for life; no adverse consequences follow congen
 
 Although the magnitude and importance of pericardial restraint of ventricular filling at physiologic cardiac volumes remain controversial,
 
-![](_page_1_Picture_2.jpeg)
+![](ch10-10_page_1_Picture_2.jpeg)
 
 **FIGURE 66–1.** Anatomy of the pericardium. Gross anatomy specimens showing the intact pericardium (**A**) and post excision of the anterior pericardial surface (**B**) and exposure of the pericardial cavity. Used with permission from Dr. William D. Edwards, Mayo Clinic, Rochester, MN USA.
 
@@ -74,7 +74,7 @@ The pericardium serves a variety of other important functions. It prevents exces
 
 acceleration or differ regionally within cardiac chambers. The pericardium also has immunologic, vasomotor, paracrine, and fibrinolytic activities.5 The mesothelium of the pericardium is metabolically active and produces prostaglandin E2 , eicosanoids, and prostacyclin; these substances modulate sympathetic neurotransmission and myocardial contractility and may influence epicardial coronary arterial tone. Epicardial mesothelial cells may modulate myocyte structure and function and gene expression. The level of brain natriuretic peptide in the pericardial fluid is a more sensitive and accurate indicator of ventricular volume and pressure than is either plasma brain natriuretic peptide or atrial natriuretic factor; it may play an autocrine-paracrine role in heart failure. Finally, the pericardial space has been used as a vehicle for drug delivery
 
-![](_page_1_Picture_7.jpeg)
+![](ch10-10_page_1_Picture_7.jpeg)
 
 **FIGURE 66–2.** Pericardial layers. Illustration showing a detailed view of the pericardium and its layers in relationship to the myocardium. Reproduced with permission from from Blausen.com staff, "Blausen gallery 2014," *Wikiversity Journal of Medicine*. DOI: 10.15347/wjm/2014.010.
 
@@ -84,7 +84,7 @@ and gene therapy1 ; studies using radiolabeled growth factors indicate that subs
 
 Pericardial diseases may be caused by either infectious or noninfectious agents (Table 66–2) and typically may be either an isolated process or a part of a systemic disease (eg, systemic inflammatory disease).1-4 The pericardial response to an infectious or noninfectious noxa is rather nonspecific and is usually manifested as pericardial inflammation
 
-![](_page_1_Figure_12.jpeg)
+![](ch10-10_page_1_Figure_12.jpeg)
 
 **FIGURE 66–3.** Pericardial reserve and pericardial pressure-volume curves in cardiac tamponade. **A.** The pressure-volume curve observed in acute cardiac tamponade; note the much steeper curve at smaller pericardial volumes compared to the pressure-volume curve observed in slowly developing pericardial effusions (**B**). Reproduced with permission from Imazio M, Adler Y: Management of pericardial effusion. *Eur Heart J*. 2013 Apr;34:1186-1197.3
 
@@ -218,7 +218,7 @@ stethoscope applied firmly and with respiration suspended over the left sternal 
 | Extended pericardial drainage is recommended to prevent recurrent cardiac tamponade and pericardial effusion and to provide a way for intrapericardial therapy.                                                                                                                                                                                                                                                                                | Class I    | Level B  |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |          |
 
-![](_page_4_Figure_2.jpeg)
+![](ch10-10_page_4_Figure_2.jpeg)
 
 **FIGURE 66–4.** Clinical features of acute pericarditis: history and physical examination. Reproduced with permission from Hoit BD. Acute pericarditis: diagnosis and differential diagnosis. *Hosp Pract*. 1991;27:23-43.
 
@@ -238,7 +238,7 @@ alert the clinician to the presence of pericarditis. Serial tracings may be need
 
 The ECG evolves according to the classical four stages reported by Imazio et al8 in no more than 60% of patients. In the first stage,
 
-![](_page_4_Figure_12.jpeg)
+![](ch10-10_page_4_Figure_12.jpeg)
 
 **FIGURE 66–5.** Electrocardiography findings in a patient with acute pericarditis. Note the widespread ST-segment elevation. This electrocardiogram also demonstrates PR-segment change with PR depression (best seen in lead II) and PR elevation in lead aVR.
 
@@ -273,11 +273,11 @@ A semiquantitative assessment of pericardial effusion is recommended by the 2015
 
 The clinical diagnosis of acute pericarditis is established when two of four clinical criteria are satisfied (Table 66–5). In atypical cases, additional supporting criteria are provided by elevation of markers of inflammation and evidence of pericardial inflammation by an imaging technique (eg, computed tomography [CT] or
 
-![](_page_5_Figure_14.jpeg)
+![](ch10-10_page_5_Figure_14.jpeg)
 
 **FIGURE 66–6.** Chest radiography in a patient with a large pericardial effusion. Note the marked enlargement of the cardiac silhouette with a "water bottle–shaped" configuration in this patient with a large pericardial effusion. Used with permission from Dr. Nandan S. Anavekar, Mayo Clinic, Rochester, MN USA.
 
-![](_page_6_Picture_2.jpeg)
+![](ch10-10_page_6_Picture_2.jpeg)
 
 **FIGURE 66–7.** Two-dimensional echocardiography findings in a patient with pericardial effusion. Parasternal long-axis view (*left*) reveals a circumferential pericardial effusion (PE), also seen in the parasternal short axis view (*right*). Please note that the effusion can also be identified anteriorly (*asterisk*).
 
@@ -340,7 +340,7 @@ Oral anticoagulant therapy
 
 Abbreviation: NSAID, nonsteroidal anti-inflammatory drug.
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-10_page_7_Figure_2.jpeg)
 
 **FIGURE 66–8.** Algorithm for evaluation and triage of patients with acute pericarditis. ASA, acetylsalicylic acid; CRP, C-reactive protein; ECG, electrocardiogram; NSAID, nonsteroidal anti-inflammatory drug.
 
@@ -548,7 +548,7 @@ The diagnosis of pericardial effusion at the bedside is difficult and essentiall
 
 The chest radiograph reveals enlargement of the cardiac silhouette in large effusions, but chest radiographs might be entirely normal in patients with pericardial effusions. ECG findings include low QRS
 
-![](_page_12_Figure_2.jpeg)
+![](ch10-10_page_12_Figure_2.jpeg)
 
 **FIGURE 66–9.** Pulsus paradoxus in a patient with cardiac tamponade. Note the marked drops in left ventricular systolic pressures upon inspiration; similar findings will be observed during noninvasive blood pressure measurement.
 
@@ -562,11 +562,11 @@ Table 66–11 summarizes routine pericardial fluid testing and accompanying etio
 
 Bacterial and mycobacterial cultures should be performed if bacterial infection or tuberculosis is suspected, respectively. Acid-fast bacilli
 
-![](_page_12_Figure_10.jpeg)
+![](ch10-10_page_12_Figure_10.jpeg)
 
 **FIGURE 66–10.** Electrocardiogram demonstrating features of electrical alternans. Electrocardiographic findings in a patient with a large pericardial effusion; please note the beat-to-beat variation in QRS amplitude. Changes in QRS axis are also evident, best appreciated in lead V1 . Used with permission from Dr. Peter A. Brady, Mayo Clinic, Rochester, MN USA.
 
-![](_page_13_Figure_2.jpeg)
+![](ch10-10_page_13_Figure_2.jpeg)
 
 **FIGURE 66–11.** Simplified algorithm for the triage and management of patients with pericardial effusion. CRP, C-reactive protein. Reproduced with permission from Imazio M, Adler Y. Management of pericardial effusion. *Eur Heart J*. 2013 Apr;34:1186-1197.
 
@@ -636,7 +636,7 @@ Chest radiography might reveal a very enlarged cardiac silhouette in the setting
 
 Two-dimensional and Doppler transthoracic echocardiography is the key diagnostic tool in the evaluation and management of patients with cardiac tamponade (Class I recommendation; LOE: C).1 First, echocardiography confirms the presence of pericardial fluid (or clots; Fig. 66–12). Although the size and location of an effusion are
 
-![](_page_15_Figure_11.jpeg)
+![](ch10-10_page_15_Figure_11.jpeg)
 
 **FIGURE 66–12.** Two-dimensional and Doppler echocardiographic findings in a patient with cardiac tamponade. **A.** Parasternal long-axis view shows a large pericardial effusion (PE). **B.** Characteristic hepatic vein pulsedwave Doppler findings are shown with prominent expiratory diastolic reversal (DR); marked variations in mitral inflow pulsed-wave Doppler are also present (**C**; inspiration marked by the *thick arrow*). Respirophasic shifts in the interventricular septum (increased ventricular interdependence) are shown by M-mode at the midventricular level (**D**); note the respirophasic changes in left ventricular size (*thin arrows*). A simultaneous respirometer (*light green tracing*) was used during echo-Doppler data acquisition; upstroke (movement away from the electrocardiogram) occurs during inspiration, and down stroke occurs during expiration.
 
@@ -678,9 +678,9 @@ Patients with constrictive pericarditis typically present with features of right
 
 Causes of constrictive pericarditis are illustrated in Table 66–12. The epidemiology of the disease has substantially changed over the past
 
-![](_page_17_Figure_7.jpeg)
+![](ch10-10_page_17_Figure_7.jpeg)
 
-![](_page_17_Figure_8.jpeg)
+![](ch10-10_page_17_Figure_8.jpeg)
 
 **FIGURE 66–14.** Pericardial thickness. **A.** Normal parietal pericardium (< 1 mm thick). **B.** Abnormally thickened parietal pericardium in the setting of pericardial constriction. The pericardium may or may not be calcified and, in some instances, may be near 1 cm thick. Used with permission from Dr. Joseph J. Maleszewski, Mayo Clinic, Rochester, MN USA.
 
@@ -722,9 +722,9 @@ is present, the predominant waves are the descents (down strokes), which is the 
 
 Auscultation might reveal the presence of low-pitched third heart sounds, and these can sometimes only be heard during inspiration or expiration. The presence of a high-pitched early diastolic sound (slightly earlier than a typical third heart sound)—the *pericardial knock—*is specific but not a sensitive sign that constrictive pericarditis is present. A loud pulmonary component of the second heart sound is not usually heard and should suggest the presence of a concomitant myocardial process.
 
-![](_page_18_Picture_4.jpeg)
+![](ch10-10_page_18_Picture_4.jpeg)
 
-![](_page_18_Picture_5.jpeg)
+![](ch10-10_page_18_Picture_5.jpeg)
 
 **FIGURE 66–15.** Chest radiograph demonstrating pericardial calcification. Posteroanterior (*left*) and lateral (*right*) chest radiography in patient with calcific constrictive pericarditis showing extensive pericardial calcification.
 
@@ -736,19 +736,19 @@ Echocardiography is now the main diagnostic tool in the evaluation of constricti
 
 Cardiac catheterization findings85,86 (Fig. 66–19) include elevated filling pressures with equalization of end-diastolic pressures (within 5 mm Hg). Right atrial pressures typically show prominent *x* and *y* descents with no drop in mean right atrial pressure with inspiration (Kussmaul sign). Other classic findings include right ventricular systolic pressures < 55 mm Hg (ie, absence of pulmonary hypertension), presence of rapid
 
-![](_page_18_Figure_12.jpeg)
+![](ch10-10_page_18_Figure_12.jpeg)
 
 **FIGURE 66–16.** Echo-Doppler findings in a patient with constrictive pericarditis. Tissue Doppler shows medial e′ (*left upper panel*) greater than lateral e′ velocities (*right upper panel*)—the so-called *annulus reversus*. Mitral inflow pulse-wave Doppler (*lower panel*) revealed marked respirophasic changes in E velocity; note reduction in mitral E velocity during inspiration.
 
-![](_page_19_Figure_2.jpeg)
+![](ch10-10_page_19_Figure_2.jpeg)
 
 **FIGURE 66**—17. Two-dimensional and Doppler echocardiographic findings illustrating the Mayo Clinic constrictive pericarditis criteria: respirophasic interventricular septal shift (*arrow*, **A**); medial e' velocity ≥ 9 cm/s on tissue Doppler (**B**); dilated inferior vena cava (**C**); and hepatic vein expiratory end-diastolic reversal (DR)/forward flow ≥ 0.8 (**D**). LV, left ventricle; RV, right ventricle.
 
-![](_page_19_Figure_4.jpeg)
+![](ch10-10_page_19_Figure_4.jpeg)
 
 FIGURE 66—18. Algorithm for the evaluation of patients with constrictive pericarditis based on echocardiographic findings. Reproduced from *Nat Rev Cardiol*. 2015;12:682. \*In patients with obstructive airways disease or increased respiratory effort, ventricular interaction occurs and can be high especially in a young patient. In that situation, increased flow in the superior vena cava during inspiration is also seen and the hepatic vein also shows markedly increased flow with inspiration.
 
-![](_page_20_Figure_2.jpeg)
+![](ch10-10_page_20_Figure_2.jpeg)
 
 **FIGURE 66–19.** Cardiac catheterization findings in constrictive pericarditis (**A-C**). **A.** Right atrial (RA, *red*) pressure tracings show prominent *x* and *y* descents; elevation in filling pressures is also present. **B.** Tracings show discordance (*converging blue arrows*) between left ventricular (LV, *black*) and right ventricular (RV, *red*) pressure tracings upon inspiration, representing enhanced ventricular interdependence; this finding is compared to findings in a patient with restrictive cardiomyopathy, where concordance between left and right ventricular pressure tracings (*parallel blue arrows*) is present (*lower right panel*). Please note the rapid filling waves in both ventricular tracings (*dip-and-plateau* or *square root* sign). **C.** Tracings illustrate the dissociation of intrathoracic and intracardiac pressures; on inspiration (*arrow*), there is marked decrease in the pulmonary artery wedge pressure (PAWP) to left ventricular gradient. As a result of scarred pericardium, respirophasic changes in intrathoracic pressures can be transmitted to the pulmonary veins (PAWP) but not to the cardiac chambers.
 
@@ -758,7 +758,7 @@ is greater than 50 mm Hg, and the classic hemodynamic features are probably corr
 
 Additional imaging with cardiac CT or MRI might be performed to assess pericardial thickness (Fig. 66–20). A thickened pericardium, defined as more than 2 mm in maximal thickness, is present is approximately 80% of the patients with constrictive pericarditis.89 Thus, normal pericardial thickness makes the diagnosis of constrictive pericarditis less likely but does not exclude the diagnosis. CMR imaging provides valuable incremental
 
-![](_page_20_Figure_8.jpeg)
+![](ch10-10_page_20_Figure_8.jpeg)
 
 **FIGURE 66–20.** Computed tomography and magnetic resonance imaging findings in a patient with constrictive physiology. Cardiac computed tomography (**A**) and magnetic resonance imaging (**B**) showing increased pericardial thickness with the pericardial space being occupied by semisolid material (*asterisk*). LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle.
 
@@ -776,7 +776,7 @@ Pericardiectomy is the surgical removal of the pericardium, and the procedure is
 
 From a surgical perspective, pericardiectomy can be classified as either radical or complete (also referred to as total). The nomenclature is controversial and can be confusing.98 It is probably best to frame the discussion about amount of pericardial resection in the context of the underlying disease process. For example, effusive and relapsing pericarditis represent inflammatory pathologies that can involve the entire pericardium.93 Therefore, when operation is undertaken, total or complete pericardiectomy is indicated.90 Constrictive pericarditis, on the other hand, is a disease of the ventricles.68,90 Operation in that setting mandates resection of the
 
-![](_page_21_Figure_10.jpeg)
+![](ch10-10_page_21_Figure_10.jpeg)
 
 **FIGURE 66–21.** Schematic of surgical pericardiectomy. **A.** Surgical approaches to pericardiectomy. **B.** Exposure of anterior pericardium. **C.** Resection of anterior pericardium. **D.** Completed anterior or "phrenic-to-phrenic" pericardiectomy. **E.** Removal pericardium off diaphragm. **F.** Completed diaphragm and posterior pericardiectomy. **G.** Left lateral view of completed pericardiectomy showing pedicle along left phrenic nerve. IVC, inferior vena cava.
 
@@ -802,11 +802,11 @@ Some patients presenting with cardiac tamponade demonstrate features of constric
 
 The definition of transient constrictive pericarditis has been variable in the literature. Initially described by Sagrista-Sauleda et al,107 this group included patients presenting initially with acute pericarditis (not necessarily tamponade) that developed constrictive features when the acute process was resolving and the pericardial effusion was small or absent. The long-term prognosis for affected patients was good, with none requiring surgical treatment. Others have described transient constriction as constrictive pericarditis that resolved with corticosteroids or anti-inflammatory therapy.109 Pericardial effusions are common in patients with transient constriction, reported in two-thirds of cases. Affected patients tend to have signs of inflammation with elevated
 
-![](_page_22_Figure_13.jpeg)
+![](ch10-10_page_22_Figure_13.jpeg)
 
 **FIGURE 66–22.** Hemodynamic pressure tracings in effusive-constrictive pericarditis. Right atrial pressure tracings before and after pericardiocentesis. Before pericardiocentesis, there is blunting of the *y* with a prominent *x* descent in the setting of elevated right atrial pressures, findings consistent with cardiac tamponade. After pericardiocentesis, although mean right atrial pressure drops, it remains slightly elevated with the development of deep *x* and *y* descents; this finding is diagnostic of effusive-constrictive pericarditis.
 
-![](_page_23_Picture_2.jpeg)
+![](ch10-10_page_23_Picture_2.jpeg)
 
 **FIGURE 66–23.** Cardiac magnetic resonance findings in a patient with transient constrictive pericarditis before and after anti-inflammatory therapy. Severe pericardial delayed enhancement is present before therapy (**A**). With anti-inflammatory therapy, there was clinical and echocardiographic resolution of constrictive pericarditis. Post-treatment images (**B**) show improvement in the degree of pericardial delayed enhancement. Reproduced with permission from Feng D, Glockner J, Kim K, et al: Cardiac magnetic resonance imaging pericardial late gadolinium enhancement and elevated inflammatory markers can predict the reversibility of constrictive pericarditis after antiinflammatory medical therapy: a pilot study. *Circulation*. 2011 Oct 25;124:1830-1837.110
 
@@ -824,15 +824,15 @@ Congenital abnormalities of the pericardium are rare. The two most common abnorm
 
 Pericardial cysts are smooth, thin-walled structures filled with clear fluid (hence the term *spring water cysts*). If there is a communication between the cavity and the pericardial space, a pericardial diverticulum is said to be present. Although typically found in the right costophrenic angle112 (Fig. 66–24), they can be located at the left costophrenic angle or anteriorly. Pericardial cysts usually measure 3 to 4 cm in diameter, but larger cysts can also be seen, mimicking large pericardial effusions on chest radiography. The diagnosis is usually made incidentally when imaging of the chest is performed. If the diagnosis is unclear, CT of the
 
-![](_page_23_Picture_11.jpeg)
+![](ch10-10_page_23_Picture_11.jpeg)
 
-![](_page_23_Picture_12.jpeg)
+![](ch10-10_page_23_Picture_12.jpeg)
 
 **FIGURE 66–24.** Pericardial cyst. Posteroanterior chest radiography (**A**) shows a mass (*arrow*) in the right costophrenic angle; computed tomography (**B**) findings on the same patient show a pericardial cyst as the cause of the radiographic abnormality.
 
-![](_page_24_Picture_2.jpeg)
+![](ch10-10_page_24_Picture_2.jpeg)
 
-![](_page_24_Picture_3.jpeg)
+![](ch10-10_page_24_Picture_3.jpeg)
 
 **FIGURE 66–25.** Partial congenital absence of the pericardium. Posteroanterior chest radiography (**A**) shows deviation of the cardiac silhouette to the left of the spine; the silhouette has the appearance of a "Snoopy dog"; computed tomography (**B**) on the same patient at the level of the aortic valve shows interposed lung tissue (*asterisk*), a finding suggestive of congenital absence of the pericardium; this can be also appreciated on chest radiography as an area of radiolucency (*vertical arrow*). Please also note the prominence of the sternopericardial ligament (*horizontal arrow*).
 

@@ -60,7 +60,7 @@ For epidemiologic studies and clinical practice, HF can be classified according 
 
 The most common categorization based on cardiac structure and function, and one of substantial clinical importance, is whether the individual patient with HF has a preserved or a reduced LVEF. Heart failure with reduced ejection fraction (HFrEF) and HF with preserved ejection fraction (HFpEF) were previously referred to as systolic and diastolic HF, respectively. The terms systolic and diastolic HF were attempts to
 
-![](_page_2_Figure_2.jpeg)
+![](ch11-02_page_2_Figure_2.jpeg)
 
 **FIGURE 69–2.** American Heart Association/American College of Cardiology stages of heart failure (HF). ACEI, angiotensin-converting enzyme inhibitor; AF, atrial fibrillation; ARB, angiotensin receptor blocker; CAD, coronary artery disease; CRT, cardiac resynchronization therapy; DM, diabetes mellitus; EF, ejection fraction; GDMT, guideline-directed medical therapy; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HRQOL, health-related quality of life; HTN, hypertension; ICD, implantable cardioverter-defibrillator; LV, left ventricular; LVH, left ventricular hypertrophy; MCS, mechanical circulatory support. MI, myocardial infarction. Reproduced with permission from Yancy CW, Jessup M, Bozkurt B, et al: 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation/ American Heart Association Task Force on Practice Guidelines. *J Am Coll Cardiol*. 2013 Oct 15;62:e147-e239.33
 
@@ -247,7 +247,7 @@ Hospitalizations are a major driver of costs. Approximately 1 million primary ho
 
 The Atherosclerosis Risk in Communities study includes population-based community surveillance from four sites in the United States: Minneapolis, MN; Jackson, MS; Forsyth County, NC; and Washington County, MD. Hospitalizations in these communities are abstracted and adjudicated for heart failure.
 
-![](_page_6_Figure_16.jpeg)
+![](ch11-02_page_6_Figure_16.jpeg)
 
 **FIGURE 69–3.** Number of hospitalizations per person over a mean of 4.7 years of follow-up after the diagnosis of heart failure (HF). Reproduced with permission from Dunlay SM, Redfield MM, Weston SA, et al: Hospitalizations after heart failure diagnosis a community perspective. *J Am Coll Cardiol*. 2009 Oct 27;54:1695-1702.71
 
@@ -360,7 +360,7 @@ The lifetime risk for the development of HF is high. In the Framingham Heart Stu
 
 Heart failure risk prediction models from community cohorts have been developed (Table 69–6). Factors included in the risk prediction models vary by study, but typically include age, sex, heart rate, systolic blood pressure, body mass index, and diabetes mellitus. Other factors, such as smoking status, serum creatinine, coronary heart disease, antihypertensive medication use, left ventricular hypertrophy, and valvular disease, are included to varying extents. The c-statistics for model performance are good, ranging from 0.73 to 0.87.96-98,132,133 Further attention has been given to the use of circulating biomarkers for risk prediction. Although a number of candidate biomarkers have been studied, the natriuretic peptides (eg, B-type natriuretic peptide [BNP] and N-terminal pro-BNP [NT-proBNP]) are the most
 
-![](_page_10_Figure_2.jpeg)
+![](ch11-02_page_10_Figure_2.jpeg)
 
 **FIGURE 69–4.** Prevalence of asymptomatic left ventricular dysfunction. Reported prevalence of asymptomatic left ventricular systolic dysfunction, based on left ventricular ejection fraction (LVEF), from different studies around the world.110-120 \*In the Rotterdam Study, fractional shortening (FS) was used rather than LVEF. A FS value of 25% corresponds to a LVEF of approximately 45%. ARIC, Atherosclerosis Risk in Communities; CHS, Cardiovascular Health Study; HyperGEN, Hypertension Genetic Epidemiology Network; MESA, Multi-Ethnic Study of Atherosclerosis.
 
@@ -455,11 +455,11 @@ The prevalence of HF is forecast to increase substantially over the next 10 to 1
 
 #### **Reduced**
 
-![](_page_12_Figure_3.jpeg)
+![](ch11-02_page_12_Figure_3.jpeg)
 
 #### **Preserved**
 
-![](_page_12_Figure_5.jpeg)
+![](ch11-02_page_12_Figure_5.jpeg)
 
 **FIGURE 69–5.** Timeline of selected landmark randomized clinical trials in heart failure, according to reduced or preserved left ventricular ejection fraction.15-17,183-205
 

@@ -66,15 +66,15 @@ When DCM is defined by etiology, the prevalence data of each specific disease ma
 
 DCM typically manifests with systolic heart failure. The spectrum of symptoms is wide and nonspecific; it includes fatigue, breathlessness, palpitations, and signs of congestion/fluid retention in the presence of structural cardiac abnormalities corresponding to the diagnostic definition.1,17 The clinical diagnosis is made in the presence of LV
 
-![](_page_1_Figure_2.jpeg)
+![](ch10-02_page_1_Figure_2.jpeg)
 
 , 41 years MD(> sCPK) OH+M GXLR EG-*DMD[Delexons hemi]* SC-II
 
-![](_page_1_Figure_4.jpeg)
+![](ch10-02_page_1_Figure_4.jpeg)
 
 , 30 years MD OH GAD EG-*BAG3[p.Gln251ArgfsX56]* + *MYH6[p.Ala1443Asp]* + *DSG2[p.Val920Gly]* + *PSEN2[p.Arg71W]* SC-II
 
-![](_page_1_Figure_6.jpeg)
+![](ch10-02_page_1_Figure_6.jpeg)
 
 , 60 years MD(AVB) OH GAD EG-*LMNA[p.Arg72Cys]* SC-II
 
@@ -132,7 +132,7 @@ The mechanisms through which mutations in different genes cause functional and s
 
 Genetic testing is now routinely performed using massive parallel sequencing of multigene panels (next-generation sequencing, NGS) for both nuclear genes3,4 and mitochondrial DNA.56 The time needed for testing is short, and the costs are lower than with Sanger-based technologies. The mismatch between fast rate of detection and the time needed for developing functional studies that assess the effects of mutations explains the multiple pipelines generated in the last decade to contribute to the interpretation of novel genetic variants including those with uncertain significance (see Chap. 9).
 
-![](_page_3_Figure_2.jpeg)
+![](ch10-02_page_3_Figure_2.jpeg)
 
 **FIGURE 58–2.** Dilated cardiolaminopathy. The figure shows the pedigree of a family in which the proband (II:1; *arrow*) was diagnosed with dilated cardiomyopathy (DCM) and conduction disease after the younger brother (II:2). Both siblings underwent pacemaker (PM) implantation. The father died of DCM that manifested 9 years after PM implantation; he died at age of 61 years from congestive heart failure. Clinical family screening included mother (I:2), who was hypertensive and diabetic, and the two siblings (II:3 and II:4) of the proband who showed normal left ventricular (LV) function and dimensions and normal PQ interval. The three children of the proband were screened; one (III:1) showed normal electrocardiographic (ECG) and echocardiographic features; one demonstrated borderline PQ interval and slightly increased LV end-diastolic diameter (LVEDD) diameter (III:2), and one showed atrioventricular block (AVB; III:3). Both were asymptomatic. The son of II:2 showed normal ECG and echocardiographic features. The five nephews (III:5, III:6, III:7, III:8, and III:9) of the proband showed normal ECG and echocardiographic features. *LMNA* genetic testing identified the *LMNA* p.(Arg89Leu) mutation in II:1. Cascade genetic screening in the family identified the same mutation in her brother (II:2) and in two of her offspring (III:2 and III:3). II:3, II:4, III:1, III:4 tested negative. During the course of 13 years, the daughter of the proband developed DCM, and the mutated son developed AVB, mild LV dilation, and borderline LV dysfunction. LVEF, LV ejection fraction.
 
@@ -385,7 +385,7 @@ The interpretation of the role of a putative mutation in a given family is a mul
 - 3. Confirmed by in vivo or in vitro functional and pathologic studies (Fig. 58–3): either endomyocardial biopsy with immunohistochemical study of the protein coded by the mutated gene or in vitro studies on fibroblasts or induced pluripotent stem cell–derived myocytes obtained from circulating cells or fibroblasts from patients who carry the putative mutation.
 - 4. Integrated into a clinical context, based on segregation studies in families (Fig. 58–4): mutated family members are affected and nonmutated members are not affected. Healthy mutation carriers are usually younger than affected mutated family members.
 
-![](_page_9_Figure_9.jpeg)
+![](ch10-02_page_9_Figure_9.jpeg)
 
 **FIGURE 58–3.** Dilated cardiodystrophinopathy. The figure shows the pedigree and the macroscopic view of a heart with dilated cardiomyopathy (DCM) from a young male patient who developed DCM at the age of 16 years; the disease showed slow progression to end-stage heart failure, and the patient underwent heart transplantation 15 years later. The dystrophin defect is not associated with severe muscle dystrophy.
 
@@ -395,7 +395,7 @@ The overall evidence gained by the combination of the above criteria should esta
 
 Although to date more than 100 disease and candidate genes have been associated with DCM, only a few of them have been confirmed and replicated in more clinical series and families. In addition, clinical markers typically recurring in DCM caused by mutations in these genes are now consolidated contributors in the pretest clinical orientation about the possible disease gene to be tested in the probands.27 The following examples have been selected based on different criteria: cardiolaminopathies because of their high arrhythmogenic risk (they represent the first genetic DCM formally recognized based on the disease gene and types of mutations in guidelines for primary prevention of sudden death with implantable cardioverter-defibrillator [ICD] implantation); cardioemerinopathies because, although very rare, their phenotype may look similar to cardiolaminopathies (DCM with conduction disease and myopathy) but with different pattern of inheritance (X-linked recessive vs autosomal dominant); cardiodystrophinopathies because they may represent the major or unique phenotype in male patients with DCM and are associated with increased serum creatine phosphokinase in > 80% of cases; cardiozaspopathies because of the frequent association with prominent trabecular anatomy of the LV; cardiomyosinopathies because defects of the structural and regulatory myosin complex of the sarcomere may cause typical HCM but also DCM and HCM-DCM (ie, a phenotype that in the end-stage phases is similar to DCM but frequently maintains ECG features suggestive of LV hypertrophy); dilated cardioMITOmyopathies because of their high malignancy and the syndromic context in which the cardiomyopathy is observed; cardiotitinopathies because of their high
 
-![](_page_10_Figure_2.jpeg)
+![](ch10-02_page_10_Figure_2.jpeg)
 
 A: The early nucleus of the family in which the p.(Asp117Asn) in *LDB3* (+) gene was identified in the two affected family members.
 
@@ -432,7 +432,7 @@ Recent studies have focused on the question of why mutations in the *MYH7* gene 
 
 In this subgroup of patients, the DCM is usually observed in the context of multiorgan syndromes with a peculiar risk of complications such as cryptogenic strokes and intolerance to several drugs.28-30,41,56 Mitochondrial cardiomyopathies can be caused by mutations both in mitochondrial DNA genes (maternal inheritance) and in nuclear genes (Mendelian inheritance: no male passes down the disease to children) coding mitochondrial proteins. They are characterized by either hypertrophic phenotype evolving through dilated and dysfunctioning hearts or DCM (Fig. 58–5). The clinical manifestations associated with mutations in mitochondrial DNA genes depend on the grade of heteroplasmy in affected organs. They are commonly observed in families in which mutation carriers also express noncardiac traits such as hearing loss, palpebral ptosis, myopathy, renal failure, cryptogenic stroke, diabetes, optic neuritis, and/or retinitis pigmentosa. Sequencing of mitochondrial DNA, either by Sanger-based techniques or NGS tools, identifies the causative mutation. Nuclear "mitochondrial"
 
-![](_page_12_Figure_2.jpeg)
+![](ch10-02_page_12_Figure_2.jpeg)
 
 **FIGURE 58–5.** Mitochondrial cardiomyopathy. This figure shows the echocardiographic view (A) of the dilated cardiomyopathy (DCM) in a 53-year-old woman affected by mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke (MELAS) syndrome. Her endomyocardial biopsy (B and C) showed typically abnormal mitochondria. The DCM phenotype was associated with hearing loss and mild myopathy.
 
@@ -473,7 +473,7 @@ Familial clustering may manifest with the presence of different autoimmune disea
 
 Autoimmune diseases that commonly involve the heart and include DCM-like phenotype/heart failure in the spectrum of their possible cardiac manifestations are systemic sclerosis, rheumatoid arthritis, systemic lupus erythematosus (SLE), polymyositis/dermatomyositis, and Sjögren syndrome, as well as overlapping syndromes (Table 58–3). Iatrogenic "cardiomyopathy" can result from common medications used for autoimmune diseases; the cardiac phenotypes are restrictive/ dilated in case of hydroxychloroquine toxicity107 and dilated in case of tumor necrosis factor (TNF)-α inhibitors (eg, etanercept, infliximab, adalimumab; see Chap. 61). Iatrogenic cardiomyopathy should be distinguished from the intrinsic risk of heart failure directly related to the different autoimmune diseases.
 
-![](_page_13_Figure_8.jpeg)
+![](ch10-02_page_13_Figure_8.jpeg)
 
 **FIGURE 58–6.** Familial clustering of autoimmune diseases. The figure shows the pedigree of a female patient (*arrow*) diagnosed with systemic sclerosis 5 years before developing mild dilated cardiomyopathy. In her family, different autoimmune diseases occurred in multiple members.
 
@@ -524,7 +524,7 @@ SS is a sporadic multifactorial disease in the majority of cases. Environmental 
 
 Interstitial fibrosis is the main pathologic feature observed in hearts affected by scleroderma (Fig. 58–7). Early features are microvascular damage and mononuclear cell infiltrates. In later stages, the main pathology features are dense fibrosis of the dermis, loss of interstitial cells and vasculature, and tissue atrophy.122 Table 58–4 summarizes pathologic tissue and cellular changes as well as the expression of possible markers in affected tissue and autoantibodies.
 
-![](_page_14_Figure_6.jpeg)
+![](ch10-02_page_14_Figure_6.jpeg)
 
 **FIGURE 58–7.** Endomyocardial biopsy in systemic sclerosis. The figure shows the endomyocardial biopsy of a 59-year-old woman diagnosed with dilated cardiomyopathy and systemic sclerosis in the same clinical occasion. The endomyocardial biopsy shows interstitial fibrosis and sparse inflammatory cells in the context of the fibrosis. There is no evidence of vasculitis or active myocarditis.
 
@@ -555,7 +555,7 @@ Congestive HF is a major cause of morbidity and mortality in RA patients.138 The
 
 Disease-modifying drugs used to treat RA (and other connective tissue diseases) may lead to iatrogenic myocardial damage. Toxicity may result from long-term use of TNF inhibitors (TNF-I) and antimalarial agents such as hydroxychloroquine.107,144,145 Hydroxychloroquine toxicity manifests with either hypertrophic-restrictive cardiomyopathy or DCM and is diagnosed with endomyocardial biopsy demonstrating myelin figures and curvilinear bodies (Fig. 58–8) (see Chaps. 61 and 100). The role of TNF-I in causing HF is debated. Etanercept and infliximab trials concordantly showed unfavorable outcomes.146,147 However, other studies/registries reported that the prevalence of congestive HF is lower or comparable in treated patients versus nontreated patients; a meta-analysis of data from these registries concluded that
 
-![](_page_15_Figure_8.jpeg)
+![](ch10-02_page_15_Figure_8.jpeg)
 
 **FIGURE 58–8.** Chloroquine cardiotoxicity. The figure shows the endomyocardial biopsy of a female patient diagnosed with systemic sclerosis who developed hydroxychloroquine-related cardiotoxicity. **A.** The hematoxylin and eosin stain of the endomyocardial biopsy with optically empty myocytes. **B.** The toluidine blue semi-thin section shows the intramyocyte accumulation of sphingolipid bodies. **C.** The electron micrograph shows the typical lamellar and curvilinear bodies that characterize iatrogenic intracellular accumulation of osmiophilic material. The pathologic differential diagnosis in undiagnosed patients includes Anderson-Fabry disease in which the osmiophilic bodies show a typical lamellar pattern and specifically immune react with anti-GB3 antibodies.
 
@@ -662,7 +662,7 @@ In a recent study including 172 women (one-third of African descent) with PPCM v
 
 During pregnancy, in particular in the last trimester, blood volume and cardiac output increase and afterload decreases because of relaxation of vascular smooth muscle cells; LV mass and arterial compliance also
 
-![](_page_18_Figure_13.jpeg)
+![](ch10-02_page_18_Figure_13.jpeg)
 
 **FIGURE 58–9.** Pathogenesis of peripartum cardiomyopathy (PPCM). The figure summarizes key diagnostic criteria and pathogenetic hypothesis in PPCM. DCM, dilated cardiomyopathy; ESC, European Society of Cardiology; NHLBI, National Heart, Lung, and Blood Institute;
 
@@ -720,7 +720,7 @@ Abbreviations: DCM, dilated cardiomyopathy; LV, left ventricular; LVEF, left ven
 
 Light to moderate alcohol intake is beneficial for cardiovascular health,227 whereas habitual heavy alcohol consumption is associated with increased risk of LV dilatation and dysfunction (alcoholic cardiomyopathy [A-CMP]),228 arrhythmias,228,229 systemic hypertension,230 ischemic heart disease,231 stroke,232 and skeletal muscle abnormalities.233 Heavy alcohol consumption corresponds to daily ingestion of at least three standard-size drinks or alcohol consumption over 80 g; light-moderate alcohol intake corresponds to less than three standard-sized drinks or < 80 g/d. Because standard-sized portions of wine, liquor, or beer contain approximately the same amount of alcohol, the daily amount of ethanol is usually measured per number of standard drinks.228,229
 
-![](_page_20_Figure_6.jpeg)
+![](ch10-02_page_20_Figure_6.jpeg)
 
 **FIGURE 58–10.** Severe impaired left ventricular function influences prognosis in peripartum cardiomyopathy (PPCM). Event-free survival is significantly worse in women with PPCM with a baseline left ventricular ejection fraction (LVEF) < 30% compared with those with an LVEF > 30%. Reproduced with permission from McNamara DM, Elkayam U, Alharethi R, et al. Clinical outcomes for peripartum cardiomyopathy in North America: results of the Investigations of Pregnancy Associated Cardiomyopathy (IPAC) study. *J Am Coll Cardiol*. 2015 Aug 25;66:905-914.225
 
@@ -909,7 +909,7 @@ Mitoxantrone being an anthracycline derivative, with immunosuppression effects, 
 
 b Angioedema: rare.
 
-![](_page_27_Figure_2.jpeg)
+![](ch10-02_page_27_Figure_2.jpeg)
 
 **FIGURE 58–11.** Cancer therapy–related cardiac dysfunction (CTRCD). The figure shows the pedigree of a family in which the proband (III:2) developed breast cancer that was treated with a trastuzumab-based protocol, and 1 year later, she developed dilated cardiomyopathy (DCM). One sister (III:3) is affected by DCM, whereas another sister (III:4) and the brother (III:5) are not affected. Genetic testing demonstrated the presence (+) in both sisters with DCM of the variant p.(Arg634Trp) in the *RBM20* gene; this variant was absent (–) in both nonaffected siblings (III:4 and III:5). The mother (II:4) was affected by DCM, whereas the father died of ischemic heart disease (IHD); none of them could be tested. In the same position of *RBM20*, p.(Arg634Gln) has been described in two families as a disease-causing mutation (Brauch et al. *J Am Coll Cardiol*. 229;54:930-941; Li et al. *Clin Transl Sci*. 2010;3:90-97). At present, we did not post the variant identified in our two sisters as a disease-causing mutation; although it seems to segregate with the DCM phenotype in the family, both unaffected siblings are younger, and we do not have functional data demonstrating the effect of this possible mutation. However, the family demonstrates that in patients with cancer and familial DCM, the interpretation of the causative role of CTRCD should be done cautiously. HF, heart failure; ICD, implantable cardioverter-defibrillator.
 

@@ -268,13 +268,13 @@ When MDCT is used for PE diagnosis, it is ideal to incorporate the scan into an 
 
 Outcome studies have demonstrated that PE can be safely excluded using a clinical assessment tool, d-dimer testing, and MDCT except in
 
-![](_page_5_Picture_11.jpeg)
+![](ch12-02_page_5_Picture_11.jpeg)
 
 **FIGURE 75–1.** Contrast-enhanced 16-slice computed tomography scan in a 72-year-old man with extensive, acute central pulmonary embolism showing a "saddle embolus" (*arrows*) extending into both central pulmonary arteries. Colored volume-rendering technique seen from an anterocranial (**A**) and anterior (**B**) perspective allows intuitive visualization of location and extent of embolism.
 
 patients who present with a high clinical likelihood of embolism.99,101-103 In the PIOPED II trial, the sensitivity of CT was 83%, a finding somewhat at odds with published outcome data.99 PIOPED II did confirm the usefulness of clinical assessment in that the negative predictive value of a normal CT scan was 96% in patients with a low probability of embolism and 89% for those with an intermediate probability, but only 60% in those with a high clinical probability. In 2016, MDCT alone, with "wide detectors" of 256 to 320 rows, appears to be highly sensitive and specific for acute PE, and additional studies to confirm or refute the diagnosis are rarely required unless the quality of the CT is suboptimal. As demonstrated in the initial PIOPED trial, a negative V/Q scan or contrast pulmonary angiogram would also achieve this end.104 Sequential, noninvasive, lower extremity examinations in patients with adequate cardiopulmonary reserve, although not confirming that embolism did not occur, would render the probability of
 
-![](_page_5_Picture_14.jpeg)
+![](ch12-02_page_5_Picture_14.jpeg)
 
 **FIGURE 75–2.** Contrast-enhanced 16-slice computed tomography (coronal reconstruction) in a 63-year-old man with multiple segmental pulmonary emboli (*arrows*). As an incidental finding, the examination also revealed a focal lung lesion in the left upper lobe, which was later confirmed to be stage I small-cell lung cancer.
 
@@ -302,7 +302,7 @@ Pulmonary angiography is not free of risk, with estimated rates of procedure-rel
 
 Gadolinium-enhanced magnetic resonance angiography (MRA) is also occasionally used to evaluate clinically suspected PE.108 Earlier studies demonstrated that when MRA was performed under optimal conditions, it appeared to be highly sensitive and specific even for segmental PE compared with pulmonary angiography.108,109 MRA has several attractive
 
-![](_page_6_Figure_15.jpeg)
+![](ch12-02_page_6_Figure_15.jpeg)
 
 **FIGURE 75–3.** Selective conventional angiography of the right pulmonary artery in a 67-year-old woman with acute onset of dyspnea and chest pain, an elevated d-dimer enzyme-linked immunosorbent assay level, and an inconclusive ventilation-perfusion scan. The right upper lobe artery is obstructed with visualization of the tail of the embolus in the proximal right upper lobe artery (*arrows*).
 
@@ -312,7 +312,7 @@ advantages over chest CT, including no requirement of ionizing radiation or iodi
 
 Transthoracic echocardiography (Fig. 75–4A-C) has emerged as a potentially important tool for risk assessment and treatment guidance in patients with acute PE. Acute PE may lead to RV pressure overload and dysfunction, which can be detected by echocardiography. Because of the reported negative predictive value of 40% to 50%, a normal result cannot exclude PE.112,113 On the other hand, signs of RV overload or dysfunction may also be found in the absence of acute PE and be a result of concomitant cardiac or respiratory disease.114 The presence of RV dysfunction on a baseline echocardiogram in normotensive patients appears to represent an independent predictor of an adverse outcome or early death.112,115,116 Patients with severe RV dysfunction may demonstrate McConnell's sign, which is severe hypokinesis of the RV free wall combined with preserved systolic contraction of the RV apex.117 A disturbed RV ejection pattern ("60/60 sign") consisting of an
 
-![](_page_7_Figure_5.jpeg)
+![](ch12-02_page_7_Figure_5.jpeg)
 
 **FIGURE 75–4.** Chest computed tomography and echocardiographic findings in a 55-year-old man with submassive pulmonary embolism. **A.** Chest computed tomography scan demonstrating multiple segmental emboli, including a central embolus in main pulmonary artery and extending into right pulmonary artery (R-PA). **B.** Transthoracic apical four-chamber view with severe right ventricular (RV) dilatation. **C.** Transthoracic parasternal short-axis view showing flattening of interventricular septum ("D-shaped" left ventricle [LV], *arrowheads*). **D.** Transthoracic short-axis view demonstrating the central clot in the main and R-PAs. Ao, aorta; L-PA, left pulmonary artery; PA, pulmonary artery; RA, right atrium. Reproduced with permission from Garg RK, Bednarz J, Spencer KT, Lang RM. Acute pulmonary embolism. *Circulation*. 2000 Nov 7;102:2441-2442.
 
@@ -356,11 +356,11 @@ In patients with hypotension or cardiogenic shock associated with suspected mass
 
 While in patients with suspected massive PE and evidence of severe acute RV dysfunction by echocardiography, thrombolysis or embolectomy may be considered, extreme caution is advised in the absence of a firm diagnosis. Clues to the chronicity of RV dysfunction include a history of chronic rather than acute dyspnea, the presence of RV hypertrophy rather than simple dilation, or estimated pulmonary artery systolic pressures by echocardiography that are greater than approximately 70 mm Hg. A diagnostic algorithm in patients presenting with shock or persistent hypotension is summarized in Fig. 75–5.
 
-![](_page_8_Figure_16.jpeg)
+![](ch12-02_page_8_Figure_16.jpeg)
 
 **FIGURE 75–5.** Diagnostic algorithm for patients with suspected pulmonary embolism (PE) with shock or hypotension. a Hypotension defined as systolic blood pressure < 90 mm Hg (or needing vasopressor drugs to maintain a systolic blood pressure ≥ 90 mm Hg) or a systolic pressure drop by ≥ 40 mm Hg, for > 15 minutes, if not caused by new-onset arrhythmia, hypovolemia, or sepsis. b If available, consider the possibility of utilizing a portable ventilation-perfusion scan in the setting of hemodynamic instability to confirm diagnosis. c Thrombolysis; alternatively catheter-based therapies or surgical embolectomy. CT, computed tomography; RV, right ventricle. d If PE is highly suspected in a critically ill patient, and a firm diagnosis cannot be established, empiric aggressive, therapy may be considered. Adapted with permission from Konstantinides SV, Torbicki A, Agnelli G, et al. 2014 ESC guidelines on the diagnosis and management of acute pulmonary embolism. *Eur Heart J*. 2014 Nov 14;35:3033-3069.
 
-![](_page_9_Figure_2.jpeg)
+![](ch12-02_page_9_Figure_2.jpeg)
 
 **FIGURE 75—6.** Diagnostic algorithm for patients with suspected pulmonary embolism (PE) without shock or hypotension. <sup>a</sup>Clinical judgment or prediction rule. <sup>b</sup>Close monitoring for intermediate-/high-risk patients; in case of hemodynamic instability, reperfusion therapy should be considered. <sup>4</sup>In patients with high clinical probability of PE and negative computed tomography (CT) angiography, further testing may be considered as shown in Figure 75—8. Adapted with permission from Konstantinides SV, Torbicki A, Agnelli G, et al. 2014 ESC guidelines on the diagnosis and management of acute pulmonary embolism. *Eur Heart J.* 2014 Nov 14;35:3033–3069.
 
@@ -368,7 +368,7 @@ While in patients with suspected massive PE and evidence of severe acute RV dysf
 
 PE cannot be excluded without objective testing. The history, physical examination, and diagnostic studies (eg, chest radiography, ECG, arterial blood gas analysis) can raise or lower the clinical suspicion of PE but are incapable of excluding or confirming it unless a clearly identifiable condition (eg, pneumothorax) is identified to account for the patient's complaints. Noninvasive strategies have been investigated and algorithms constructed that are capable of confirming or excluding the diagnosis of embolism under most circumstances. A diagnostic algorithm in patients presenting with shock or persistent hypotension is summarized in Fig.. In emergency department patients and other outpatients, the clinical pretest probability for PE should be calculated by implicit assessment or, preferably, through a standardized technique.,89 PE can be excluded by a highly sensitive D-dimer result below the assay-specific cutoff level except in patients with a high pretest clinical probability. In patients with elevated D-dimer levels or a high clinical probability of embolism, MDCT should be obtained (see Fig. 75–7). In patients with significant impairment of renal function, pregnancy, or allergy to contrast agents, V/Q perfusion scanning is preferred as the primary chest imaging test, particularly when the chest radiograph is normal or near normal. A V/Q scan can also be performed in patients with a nondiagnostic or negative chest CT when the clinical suspicion of PE persists. A normal V/Q is capable of excluding the diagnosis, and a high-probability scan is capable of confirming the diagnosis in patients with a high or intermediate probability of disease. If a high clinical suspicion for PE persists, leg ultrasonography and even pulmonary angiography can be performed (Fig. 75-7). This strategy is safe and requires pulmonary angiography in fewer than 10% of patients.131 In conclusion, as of 2016, a negative MDCT alone can exclude PE under most circumstances. Although comparative studies of modern-day MDCT with standard pulmonary angiography are lacking, MDCT is recognized as extremely accurate and a stand-alone test, unless the images are
 
-![](_page_9_Figure_6.jpeg)
+![](ch12-02_page_9_Figure_6.jpeg)
 
 FIGURE 75—7. Diagnostic strategy for patients with suspected pulmonary embolism (PE) without shock or hypotension. In this strategy, chest computed tomography (CT) is used as the principal imaging test. \*Further testing should be considered if the test is inconclusive or negative, with a persistent suspicion of PE. ELISA, enzyme-linked immunosorbent assay.
 
@@ -430,7 +430,7 @@ sPESI score: 0 points, low 30-day mortality risk (1%, 95% CI 0 to 2.1%); ≥1 po
 
 Adapted with permission from Konstantinides SV, Torbicki A, Agnelli G, et al: 2014 ESC guidelines on the diagnosis and management of acute pulmonary embolism. *Eur Heart J*. 2014 Nov 14;35:3033-3069.
 
-![](_page_10_Figure_11.jpeg)
+![](ch12-02_page_10_Figure_11.jpeg)
 
 **FIGURE 75–8.** Mechanism of cardiac biomarker release in patients with acute pulmonary embolism. Right ventricular pressure overload with increased myocardial shear stress is responsible for myocardial synthesis and secretion of natriuretic peptides. Troponin release is a result of myocardial ischemia and microinfarction (see also the discussion under Pathophysiology of Acute Pulmonary Embolism: Hemodynamic Alterations). BNP, brain natriuretic peptide; NT-proBNP, N-terminal pro-brain natriuretic peptide.
 
@@ -442,11 +442,11 @@ Transthoracic echocardiography is the most important tool for risk stratificatio
 
 Troponins and natriuretic peptides are similarly accurate in identifying low-risk PE patients (Figs. 75–8 through 75–10).137 RV pressure overload is associated with increased myocardial stretch, which leads to the release of brain natriuretic peptide (BNP) or N-terminal
 
-![](_page_10_Figure_17.jpeg)
+![](ch12-02_page_10_Figure_17.jpeg)
 
 **FIGURE 75–9.** Cumulative survival rate at 30 days in patients with acute pulmonary embolism according to the level of cardiac troponin T (cTnT). A level above 0.1 ng/mL identifies patients at high risk for adverse clinical outcomes. Reproduced with permission from Giannitsis E, Muller-Bardorff M, Kurowski V, et al. Independent prognostic value of cardiac troponin T in patients with confirmed pulmonary embolism. *Circulation*. 2000 Jul 11;102:211-217.
 
-![](_page_11_Figure_2.jpeg)
+![](ch12-02_page_11_Figure_2.jpeg)
 
 **FIGURE 75–10.** Brain natriuretic peptide (BNP) levels (median, confidence interval, and outliers) in patients with acute pulmonary embolism according to clinical outcome. Although BNP levels between patients with benign and adverse outcome overlap, the negative predictive value for the absence of adverse outcomes for BNP triage levels below 50 pg/mL was 97%. Data from Kucher N, Printzen G, Doernhoefer T, et al. Low pro-brain natriuretic peptide levels predict benign clinical outcome in acute pulmonary embolism. *Circulation*. 2003 Apr 1;107:1576-1578.
 
@@ -731,7 +731,7 @@ V/Q lung scanning represents a simple, noninvasive means of differentiating diso
 
 Thus, the diagnosis of CTEPH is based on following findings obtained after at least 3 months of anticoagulation in order to discriminate this condition from subacute PE: mean pulmonary arterial pressure ≥ 25 mm Hg with pulmonary arterial wedge pressure ≤ 15 mm Hg plus at least one segmental or large-sized defect detected by V/Q or MDCT scan.
 
-![](_page_17_Picture_4.jpeg)
+![](ch12-02_page_17_Picture_4.jpeg)
 
 **FIGURE 75–11.** Representative right-sided pulmonary angiogram in a patient with chronic thromboembolic pulmonary hypertension demonstrating classic "pouch" defect with absent flow to the right middle and lower lobes.
 
@@ -739,7 +739,7 @@ Pulmonary endarterectomy is the treatment of choice for CTEPH. General criteria 
 
 Optimal medical treatment for CTEPH consists of anticoagulants, diuretics, and oxygen. Lifelong anticoagulation is recommended, even after pulmonary endarterectomy. Riociguat, a soluble oral stimulator of guanylate cyclase, has been approved by the FDA for symptomatic patients who have been classified as having inoperable CTEPH by an experienced group/center or have persistent/recurrent CTEPH after surgical treatment.207,219 The temptation to use riociguat or other drugs approved for pulmonary arterial hypertension, as a therapeutic bridge to endarterectomy in patients considered to be at high risk as a result of poor hemodynamics, should be resisted, except in advanced cases in whom endarterectomy cannot be done or is substantially delayed. It is worthwhile reiterating that pulmonary endarterectomy remains the first-line intervention for CTEPH. At present, the hemodynamic and symptomatic benefits to be accrued from medical therapy, although often positive, are modest compared with those resulting from surgery.
 
-![](_page_17_Picture_8.jpeg)
+![](ch12-02_page_17_Picture_8.jpeg)
 
 **FIGURE 75–12.** Example of chronic thromboembolic material obtained from the right pulmonary artery at the time of pulmonary thromboendarterectomy. Note the chronic fibrotic material that must be meticulously dissected from the native intima to achieve an optimal outcome.
 

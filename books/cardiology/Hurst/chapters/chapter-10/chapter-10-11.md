@@ -99,7 +99,7 @@ Normal vascular endothelium resists colonization by bacteria. Damaged vascular e
 
 Once endothelial injury has occurred, bacteria must gain access to the intravascular space to seed the lesion. Common sources of bacteremia include skin, surgical wounds, the periodontal space, indwelling intravascular catheters, and the urinary and gastrointestinal tracts. Bacteremia is common after both toothbrushing and tooth extraction. More bacteria are released into the bloodstream after extraction than after toothbrushing. However, because toothbrushing is so much more common than extraction, it may well be a common source for the initiation of IE.58 Bacteria that have entered the bloodstream must be able to adhere to the damaged endothelium, exposed extracellular matrix, or areas of fibrin deposition.59 This adherence is mediated by microbial surface components recognizing adhesive matrix molecules, which, in turn, recognize a variety of host proteins such as fibronectin, collagen, and integrins. Certain organisms appear to preferentially express these molecules, enabling them to adhere more effectively and colonize the injured endocardium.52,60 The fact that *Staphylococcus aureus* can
 
-![](_page_3_Picture_4.jpeg)
+![](ch10-11_page_3_Picture_4.jpeg)
 
 **FIGURE 67–1.** Sites of typical endocardial flow-related injury and associated vegetation formation in infective endocarditis (IE). Flow injury from aortic regurgitation is typically associated with vegetations on the ventricular side of the aortic valve or on the anterior mitral leaflet and its subvalvular apparatus. Flow injury from mitral regurgitation is associated with vegetation formation on the left atrial surface of the mitral leaflets or on the mural surface of the left atrial endocardium (MacCallum patch). Flow injury from a ventricular septal defect (not shown) with left-to-right shunting is associated with vegetation formation on the septal leaflet of the tricuspid valve. Adapted with permission from Rodbard S. Blood velocity and endocarditis. *Circulation*. 1963 Jan;27:18-28.56
 
@@ -109,11 +109,11 @@ A factor in the pathogenesis of device-related intravascular infections is biofi
 
 The various systemic manifestations of IE are the result of showers of bacteria-laden emboli that often result in satellite areas of infection with subsequent abscess formation. Osler and Janeway lesions are the result of these infected emboli and not the result of immunologically induced vasculitis.63 That small, often clinically unnoticed, embolic phenomena are occurring with considerable frequency was documented by Cooper et al64 who observed with magnetic resonance imaging (MRI) scans that the majority of their patients with definite left-sided IE had subclinical brain lesions highly suggestive of embolic events.
 
-![](_page_3_Picture_9.jpeg)
+![](ch10-11_page_3_Picture_9.jpeg)
 
 **FIGURE 67–2.** Large, complex vegetation attached to the left atrial surface of the anterior mitral valve leaflet from a patient with *Staphylococcus lugdunensis* infective endocarditis. Used with permission from Richard Mitchell, MD, PhD, Department of Pathology, Brigham and Women's Hospital, Boston, MA.
 
-![](_page_4_Picture_2.jpeg)
+![](ch10-11_page_4_Picture_2.jpeg)
 
 **FIGURE 67–3.** Cutaneous purpura fulminans in a patient with *Abiotrophia* native valve endocarditis of the mitral and aortic valves.
 
@@ -177,17 +177,17 @@ Although the history and physical examination are useful, the diagnosis of IE re
 
 Once the diagnosis has been made and appropriate therapy initiated, the patient should be monitored closely for complications, especially during the first week of therapy. All patients should have repeat blood cultures after institution of antibiotics to ensure sterility of the blood. Persistent fever beyond 1 week of appropriate therapy should raise the suspicion for intracardiac extension, satellite abscess formation, or an antibiotic-resistant organism. In the absence of complications, the first several days of intravenous antibiotics are administered in the hospital and the remaining course provided via a central venous catheter (eg, peripherally inserted central catheter) as an outpatient with careful follow-up. Patients should be maintained on telemetry while in hospital; the need for surveillance electrocardiograms (ECGs) during outpatient therapy is dictated by the location of the infection and the predicted likelihood of conduction disturbances. Patients should be monitored for antimicrobial toxicity, particularly with aminoglycoside use. Routine surveillance echocardiography during therapy is not necessary unless complications develop or cardiac surgery is being considered (see later section Echocardiography in Infective Endocarditis). At the completion of therapy, TTE may be performed to establish a new "post-IE baseline."65 After successful therapy, patients with IE should be followed longitudinally for the possible development of progressive valvular and/or ventricular dysfunction. Patients with successfully treated IE are at high risk for the development of future episodes of IE and should receive antibiotic prophylaxis before specific dental procedures, as recommended by current guidelines (see later section Antibiotic Prophylaxis for the Prevention of Infective Endocarditis).3,4,99,100
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-11_page_7_Figure_2.jpeg)
 
 FIGURE 67—4. Use of echocardiography in diagnosis and management of infective endocarditis (IE). NVE, native valve endocarditis; TEE, transesophageal echocardiography; TTE, transthoracic echocardiography. Adapted with permission from Bayer AS, Bolger AF, Taubert KA, et al. Diagnosis and management of infective endocarditis and its complications. *Circulation*. 1998 Dec 22–29;98:2936–2948.
 
-![](_page_7_Figure_4.jpeg)
+![](ch10-11_page_7_Figure_4.jpeg)
 
 FIGURE 67—5. Serial electrocardiograms obtained in a patient with methicillin-resistant Staphylococcus aureus (MRSA) aortic valve endocarditis complicated by root abscess and ventricular septal rupture. Note progressive degrees of high-grade atrioventricular (AV) block. A. First-degree AV block. B. Second-degree AV block. C. Complete heart block.
 
-![](_page_8_Figure_2.jpeg)
+![](ch10-11_page_8_Figure_2.jpeg)
 
-![](_page_8_Figure_3.jpeg)
+![](ch10-11_page_8_Figure_3.jpeg)
 
 ### **TABLE 67–2.** Definition of Terms Used in the Proposed Modified Duke Criteria for the Diagnosis of Infective Endocarditis
 
@@ -361,9 +361,9 @@ Transesophageal echocardiography is reasonable to diagnose possible infective en
 
 Transesophageal echocardiography might be considered to detect infective endocarditis in patients with nosocomial staphylococcal bacteremia. *(Level of Evidence: C)*
 
-![](_page_12_Picture_2.jpeg)
+![](ch10-11_page_12_Picture_2.jpeg)
 
-![](_page_12_Picture_3.jpeg)
+![](ch10-11_page_12_Picture_3.jpeg)
 
 **FIGURE 67–6. A.** Large right frontal hemorrhage in a patient with *Staphylococcus aureus* mitral valve endocarditis. **B.** Mycotic aneurysms (*arrows*) along the course of the branches of the middle cerebral artery. Reproduced with permission from Mauri L, de Lemos JA, O'Gara PT. Infective endocarditis. *Curr Probl Cardiol*. 2001 Sep;26:562-610.
 
@@ -383,9 +383,9 @@ Heart failure, the most frequent major complication of IE,124 was found to occur
 
 Heart failure is most commonly associated with aortic valve IE (29%), followed by mitral valve (20%) and tricuspid valve (8%) involvement.127 In acute severe aortic regurgitation, the LV operates on the steep portion
 
-![](_page_13_Figure_2.jpeg)
+![](ch10-11_page_13_Figure_2.jpeg)
 
-![](_page_13_Figure_3.jpeg)
+![](ch10-11_page_13_Figure_3.jpeg)
 
 **FIGURE 67–7. A.** Transesophageal echocardiographic image of bioprosthetic aortic valve with annular abscess (*arrow*) from a patient with *Staphylococcus aureus* prosthetic valve endocarditis. **B.** Excised surgical specimen.
 
@@ -399,7 +399,7 @@ Emboli may also end in other organ systems, including the liver, spleen, kidneys
 
 Given the varied incidence of systemic embolization among patients with IE, the ability to assess patients for embolic risk is important and
 
-![](_page_13_Figure_11.jpeg)
+![](ch10-11_page_13_Figure_11.jpeg)
 
 **FIGURE 67–8.** Survival curves for patients with complicated left-sided native valve endocarditis and moderate to severe heart failure managed with medical therapy alone or combined medical/surgical therapy. In this retrospective propensity analysis, there was a clear advantage with surgical therapy for this indication (hazard ratio 0.22; 95% confidence interval, 0.08-0.53; *P* = .01).
 
@@ -413,7 +413,7 @@ Mycotic aneurysms (MAs) represent a small but extremely dangerous subset of embo
 
 Extension or spread of infection beyond the valve annulus is a potentially very dangerous development that usually presages the need for surgical therapy. Findings such as persistent fever and bacteremia despite antibiotic therapy, heart failure, or new conduction block should raise an immediate suspicion for this complication. Although a relatively insensitive sign, the development of new atrioventricular block on a 12-lead ECG in the setting of aortic valve IE has a high positive predictive value for the presence of perivalvular abscess formation.145 Periannular extension may occur in 10% to 40% of all native valve IE and complicates aortic valve IE more commonly than either mitral or tricuspid valve IE. Periannular extension is more common with PVE (occurring in > 50% of patients),145 as the interface between the prosthetic sewing ring and native annular tissue is often the initial site of infection (Fig. 67–9).146 Perivalvular extension sets the stage for abscess formation, perforation, fistula development, and hemodynamic deterioration. The aortic annular segment adjacent to the membranous septum and the atrioventricular node is particularly vulnerable to abscess formation and may explain the occurrence of conduction block seen in some patients with aortic valve IE (see Fig. 67–7).145,147 Patients with suspected periannular extension of infection and intracardiac abscess formation should undergo prompt TEE, which is both sensitive and specific for detection of this complication.147-149 Surgical therapy is directed toward complete eradication of the infection and correction of the anatomical abnormalities. Valve replacement with reconstruction or replacement of the supporting annular structures is usually required.
 
-![](_page_14_Figure_8.jpeg)
+![](ch10-11_page_14_Figure_8.jpeg)
 
 **FIGURE 67–9.** Therapeutic strategy for patients with infective endocarditis and neurologic complications. CT, computed tomography. Adapted with permission from Habib G, Hoen B, Tornos P, et al. Guidelines on the prevention, diagnosis, and treatment of infective endocarditis (new version 2009): the Task Force on the Prevention, Diagnosis, and Treatment of Infective Endocarditis of the European Society of Cardiology (ESC). *Eur Heart J*. 2009 Oct;30:2369-2413.
 

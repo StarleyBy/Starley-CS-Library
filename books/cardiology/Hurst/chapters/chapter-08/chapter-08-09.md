@@ -34,7 +34,7 @@ In summary, *severe* primary and secondary TR is usually corrected during left-s
 
 Although no randomized trial exists, tricuspid valve repair is generally favored over replacement. However, in cases of tricuspid disease where repair is impossible, a prosthetic valve is inserted instead. In a large meta-analysis, 10-year survival (about 60%) was nearly identical for bioprostheses versus mechanical prostheses.22 As usual,
 
-![](_page_1_Figure_2.jpeg)
+![](ch08-09_page_1_Figure_2.jpeg)
 
 **FIGURE 54–1.** Survival according to the severity of tricuspid regurgitation is shown. Reproduced with permission from Nath J, Foster E, Heidenreich PA: Impact of tricuspid regurgitation on long-term survival. *J Am Coll Cardiol*. 2004 Feb 4;43:405-409.
 
@@ -77,11 +77,11 @@ Irrespective of etiology, it is unusual for mixed aortic valve disease to have e
 
 However, in cases of moderate combined AS/AR, the LV behaves much more as it would in pure AS rather than AR, and outcomes resemble those of AS.42 Aortic regurgitation causes increased systolic flow through the moderately stenotic valve, thereby increasing jet
 
-![](_page_2_Figure_8.jpeg)
+![](ch08-09_page_2_Figure_8.jpeg)
 
 **FIGURE 54–2.** Fate of mitral regurgitation following TAVR. Reproduced with permission from Nombela-Franco L1, Ribeiro HB2, Urena M, et al: Significant mitral regurgitation left untreated at the time of aortic valve replacement: a comprehensive review of a frequent entity in the transcatheter aortic valve replacement era. *J Am Coll Cardiol*. 2014 Jun 24;63:2643-2658.
 
-![](_page_3_Figure_2.jpeg)
+![](ch08-09_page_3_Figure_2.jpeg)
 
 **FIGURE 54–3.** Outcome over time is demonstrated for patients with mixed aortic valve disease and is plotted in the upper panel. Outcome for mixed aortic valve disease (MAVD) is compared to that of moderate aortic regurgitation (**A**), moderate aortic stenosis (**B**), and severe aortic stenosis (**C**). Outcome for MAVD most closely resembles that of severe aortic stenosis. Reproduced with permission from Egbe AC, Luis SA1, Padang R, et al: Outcomes in Moderate Mixed Aortic Valve Disease: Is it Time for a Paradigm Shift? *J Am Coll Cardiol*. 2016 May 24;67:2321-2329.
 
@@ -153,4 +153,4 @@ Treatment of the patient with mixed VHD is fraught by lack of randomized trials 
 - 44. Gash AK, Carabello BA, Kent RL, Frazier JA, Spann JF. Left ventricular performance in patients with coexistent mitral stenosis and aortic insufficiency. *J Am Coll Cardiol*. 1984;3:703-711.
 - 45. Gillinov AM, Blackstone EH, Cosgrove DM 3rd, et al. Mitral valve repair with aortic valve replacement is superior to double valve replacement. *J Thorac Cardiovasc Surg*. 2003;125:1372-1387.
 
-![](_page_6_Picture_0.jpeg)
+![](ch08-09_page_6_Picture_0.jpeg)

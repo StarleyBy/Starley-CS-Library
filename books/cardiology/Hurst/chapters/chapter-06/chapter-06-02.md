@@ -34,7 +34,7 @@ The US Public Health Service recommends the "5As" model for smoking cessation in
 
 Adequate follow-up with patients interested in quitting is important for prevention of relapse. Although most relapse to smoking occurs
 
-![](_page_1_Figure_2.jpeg)
+![](ch06-02_page_1_Figure_2.jpeg)
 
 **FIGURE 31–1.** Algorithm for implementing the 5As for smoking cessation. Adapted with permission from Fiore MC, Jaén CR, Baker TB, et al: al. Clinical Practice Guideline. Rockville, MD: US Department of Health and Human Services. Public Health Service; 2008.3
 
@@ -248,4 +248,4 @@ Smoking cessation should be considered an important therapeutic intervention for
 - 84. Grana R, Benowitz N, Glantz SA. E-cigarettes: a scientific review. *Circulation.* 2014;129:1972-1986.
 - 85. Bhatnagar A, Whitsel LP, Ribisl KM, et al. Electronic cigarettes: a policy statement from the American Heart Association. *Circulation.* 2014;130:1418-1436.
 
-![](_page_8_Picture_0.jpeg)
+![](ch06-02_page_8_Picture_0.jpeg)

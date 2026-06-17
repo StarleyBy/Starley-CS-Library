@@ -44,7 +44,7 @@ While previously thought of as simply a syndrome of disordered hemodynamics and 
 
 Several constructs have been created for the purpose of describing heart failure such that there is greater uniformity in its diagnosis and treatment. The most common of these is the New York Heart Association (NYHA) functional classification that was first introduced in 1928 and still persists due to its ease of use and clinical relevance (Table 70–1).11 Furthermore, currently approved therapies are anchored in this
 
-![](_page_1_Figure_2.jpeg)
+![](ch11-03_page_1_Figure_2.jpeg)
 
 **FIGURE 70–1.** Heat failure involves an interplay between myocardial factors, systemic inflammation, renal dysfunction, and neurohormonal activation. Biomarkers can be classified according to broad categories of processes that are involved in the development and progression of heart failure. Several biomarkers have been characterized for each of these processes; these vary greatly in their ease of measurement, cost, turnaround time, and evaluation in the clinical setting. Traditional biomarkers that have been studied fairly rigorously appear in italics. APO, apoptosis antigen; GDF, growth differentiation factor; HF, heart failure; ICAM, intercellular adhesion molecule; LDL, low-density lipoprotein; MMPs, matrix metalloproteinases; NGAL, neutrophil gelatinase-associated lipocalin; TIMPs, matrix metalloproteinase tissue inhibitors. Reproduced with permission from Ahmad T, Fiuzat M, Felker GM, O'Connor C. Novel biomarkers in chronic heart failure. *Nat Rev Cardiol*. 2012 Mar 27;9:347-359.7
 
@@ -390,7 +390,7 @@ Abbreviations: HF, heart failure; LV, left ventricular; RV, right ventricular; T
 
 Abbreviations: 3D, three dimensional; ARVC, arrhythmogenic right ventricular cardiomyopathy; CAD, coronary artery disease; Cath, catheterization; CMR, cardiac magnetic resonance; EDV, end-diastolic volume; EF, ejection fraction; ESV, end-systolic volume; HF, heart failure; LV, left ventricular; MDCT, multidetector computed tomography; PET, positron emission tomography; RV, right ventricular; SPECT, single-photon emission computed tomography. Data from McMurray JJ, Adamopoulos S, Anker SD, et al: ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: The Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC. *Eur Heart J*. 2012 Jul;33:1787-1847.
 
-![](_page_10_Figure_2.jpeg)
+![](ch11-03_page_10_Figure_2.jpeg)
 
 **FIGURE 70–2.** Use of cardiac imaging for the management of patients with chronic systolic heart failure (HF). BNP, brain natriuretic peptide; CAD, coronary artery disease; CCTA, cardiac computed tomographic angiography; CMR, cardiac magnetic resonance; CRT, cardiac resynchronization therapy; EF, ejection fraction; ICD, implantable cardioverter-defibrillator; NT-proBNP, N-terminal proBNP; OMT, optimal medical therapy; PET, positron emission tomography; SPECT, single-photon emission computed tomography. Reproduced with permission from Gimelli A, Lancellotti P, Badano LP, et al. Non-invasive cardiac imaging evaluation of patients with chronic systolic heart failure: a report from the European Association of Cardiovascular Imaging (EACVI). *Eur Heart J*. 2014 Dec 21;35:3417-3425.53
 
@@ -517,7 +517,7 @@ Loop diuretics are the backbone for the treatment of volume overload, and most p
 
 Over time, some patients develop diuretic resistance. Once issues such as noncompliance and concomitant use of nonsteroidal antiinflammatory drug have been ruled out, it is important to achieve an adequate dose of loop diuretics by requiring a higher dose in order to achieve the same level of sodium excretion (Fig. 70–5). This "breaking phenomenon" is felt to be a result of hemodynamic changes at the glomerulus, adaptive changes in the distal nephron, and stimulation of
 
-![](_page_14_Figure_2.jpeg)
+![](ch11-03_page_14_Figure_2.jpeg)
 
 **FIGURE 70–3.** Treatment options for patients with chronic symptomatic systolic heart failure (New York Heart Association [NYHA] functional class II-IV). Reproduced with permission from McMurray JJ, Adamopoulos S, Anker SD, et al: ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: The Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC. *Eur Heart J*. 2012 Jul;33:1787-1847.6
 
@@ -529,7 +529,7 @@ NA
 
 NA h
 
-![](_page_15_Figure_2.jpeg)
+![](ch11-03_page_15_Figure_2.jpeg)
 
 **FIGURE 70–4.** Acetazolamide functions in the proximal tubule by blocking carbonic anhydrase and increasing NaHCO<sub>3</sub> excretion. Mannitol functions in both the proximal tubule and the loop of Henle by increasing H<sub>2</sub>O excretion. Loop diuretics function in thick ascending limb of the loop of Henle by blocking the sodium-chloride-potassium cotransporter and increasing sodium, potassium, and chloride excretion. Thiazide functions in the distal convoluted tubule by blocking the sodium-chloride transporter and increasing sodium chloride excretion. Mineralocorticoid receptor antagonists (MRAs) function in the collecting duct of the distal tubule and antagonize the aldosterone receptor, hence increasing sodium excretion and potassium retention. Reproduced with permission from ter Maaten JM, Valente MAE, Damman K, Hillege HL, Navis G, Voors AA. Diuretic response in acute heart failure—pathophysiology, evaluation, and therapy. *Nat Rev Cardiol*. 2015 Mar;12:184-192.
 
@@ -594,7 +594,7 @@ Abbreviations: IV, intravenous; NA, not applicable.
 
 Reproduced with permission from Yancy CW, Jessup M, Bozkurt B, et al: 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2013 Oct 15;62:e147-e239.
 
-![](_page_16_Figure_2.jpeg)
+![](ch11-03_page_16_Figure_2.jpeg)
 
 **FIGURE 70–5.** Schematic of dose-response curve of loop diuretics in heart failure patients compared with normal controls. In heart failure patients, higher doses are required to achieve a given diuretic effect, and the maximal effect is blunted. Reproduced with permission from Felker GM and Mentz RM. Diuretics and Ultrafiltration in Acute Decompensated Heart Failure. *J Am Coll Cardiol*. 2012 Jun 12;59:2145-2153.
 
@@ -608,7 +608,7 @@ ACE inhibitors reduce the conversion of angiotensin I to angiotensin II and also
 
 ACE inhibitors should be used with caution in patients with low systemic blood pressures, markedly elevated creatinine, bilateral
 
-![](_page_16_Figure_9.jpeg)
+![](ch11-03_page_16_Figure_9.jpeg)
 
 **FIGURE 70–6.** Proposed positive and negative effects of loop diuretics as well as sites of action for thiazide diuretics and natriuretic doses of aldosterone antagonists. CHF, congestive heart failure; LV, left ventricular; MR, mitral regurgitation; RAAS, renin-angiotensin-aldosterone system. Reproduced with permission from Felker GM and Mentz RM. Diuretics and Ultrafiltration in Acute Decompensated Heart Failure. *J Am Coll Cardiol*. 2012 Jun 12;59:2145-2153.82
 
@@ -689,7 +689,7 @@ LCZ696 is composed of the ARB valsartan and the neprilysin inhibitor sacubitril.
 
 Ivabradine involves inhibition of the  $I_f$  node. It slows down the sinus node rate in patients who are in sinus rhythm. It is approved for stable patients with HFrEF who have a resting heart rate of at least 70 bpm
 
-![](_page_19_Figure_10.jpeg)
+![](ch11-03_page_19_Figure_10.jpeg)
 
 **FIGURE 70—7.** Schematic showing the mechanism of action of LCZ696. Heart failure stimulates both the renin-angiotensin system and the natriuretic peptide system. LCZ696 is composed of two molecular moieties, the angiotensin receptor blocker valsartan and the neprilysin inhibitor prodrug sacubitril (AHU377). Valsartan blocks the angiotensin type I (AT<sub>1</sub>) receptor. Sacubitril is converted enzymatically to the active neprilysin inhibitor LBQ657, which inhibits neprilysin, an enzyme that breaks down the breakdown of atrial natriuretic peptide (ANP), brain (or B-type) natriuretic peptide (BNP), and C-type natriuretic peptide (CNP), as well as other vasoactive substances. N-terminal pro-BNP (NT-proBNP) is not a substrate for neprilysin. Reproduced with permission from Vardeny O, Miller R, Solomon SD. Combined Neprilysin and Renin-Angiotensin System Inhibition for the Treatment of Heart Failure. *JACC Heart Fail*. 2014 Dec;2:663-670.<sup>42</sup>
 
@@ -721,11 +721,11 @@ Approximately a third of patients with HFrEF have prolongation of the QRS interv
 
 Figure 70–9 presents an algorithm for the consideration of CRT in heart failure patients. Key among the studies for moderate to severe heart failure were the Comparison of Medical Therapy, Pacing, and Defibrillation in Heart Failure (COMPANION) and Cardiac Resynchronization in Heart Failure Study (CARE-HF) trials, which together randomized 2333 patients with NYHA class III to ambulatory class IV symptoms, LVEF ≤ 35%, and QRS ≥ 120 milliseconds to CRT versus usual medical care.119,120 Each of these two trials showed that CRT reduced the risk of death from any cause and hospital admission for
 
-![](_page_21_Figure_2.jpeg)
+![](ch11-03_page_21_Figure_2.jpeg)
 
 **FIGURE 70–8.** Three-dimensional representations of electrical activation indicate regions with early (*red*) or late (*blue*) activation. Before pacing, the electrical activation progresses slowly from the right to the left ventricle, but resynchronization is seen after biventricular pacing (*asterisks*). Myocardial strain curves are also shown (shortening indicated by negative values). Before CRT, the different strain curves in the septum and lateral wall indicate poor coordination of contraction, quantified by the sum of early systolic stretch (*green*) and rebound stretch (*blue*). After CRT, the contributions of early systolic stretch and rebound stretch to total systolic deformation are substantially reduced, which indicates improved coordination between the various regions. AV, atrioventricular; AVC, atrial valve closing; AVO, atrial valve opening; CRT, cardiac resynchronization therapy; LV, left ventricular; MVC, mitral valve closing; MVO, mitral valve opening; RBB, right bundle branch; RV, right ventricular. Reproduced with permission from Vernooy K, van Deursen CJM, Strik M, Prinzen FW. Strategies to improve cardiac resynchronization therapy. *Nat Rev Cardiol*. 2014 Aug;11:481-493.
 
-![](_page_22_Figure_2.jpeg)
+![](ch11-03_page_22_Figure_2.jpeg)
 
 **FIGURE 70–9.** Indications for cardiac resynchronization therapy (CRT) algorithm. CRT-D, cardiac resynchronization therapy-defibrillator; GDMT, guideline-directed medical therapy; HF, heart failure; ICD, implantable cardioverter-defibrillator; LBBB, left bundle-branch block; LVEF, left ventricular ejection fraction; MI, myocardial infarction; NYHA, New York Heart Association. Please note that the colors in the figure correspond to the class of recommendations in the ACCF/AHA. Reproduced with permission from Yancy CW, Jessup M, Bozkurt B, et al: 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. *J Am Coll Cardiol*. 2013 Oct 15;62:e147-239.
 
@@ -801,15 +801,15 @@ The normal enhancement of LV relaxation with increasing heart rates is lost in H
 
 Although the ejection fraction is normal or near-normal in HFpEF, LV systolic function is impaired, as shown using tissue Doppler imaging, <sup>198,199</sup> myocardial strain imaging, <sup>200,201</sup> and load-independent indices of chamber and myocardial contractility. <sup>149</sup> Patients with more profound impairments in systolic function and deformation display increased risk of death. <sup>149,201</sup> This may be related to abnormalities in
 
-![](_page_24_Figure_11.jpeg)
+![](ch11-03_page_24_Figure_11.jpeg)
 
 FIGURE 70—11. As compared to heart failure with preserved ejection fraction (HFpEF) patients with no coronary artery disease (CAD), patients with CAD dispay increased risk of death, independent of other predictors of outcome. Reproduced with permission from Hwang, S. J., Melenovsky, V. & Borlaug, B. A. Implications of coronary artery disease in heart failure with preserved ejection fraction. *J Am Coll Cardiol*. 2014 Jul 1;63(25 Pt A):2817-2827.<sup>171</sup>
 
-![](_page_25_Figure_2.jpeg)
+![](ch11-03_page_25_Figure_2.jpeg)
 
 FIGURE 70—12. The pathophysiology of heart failure with preserved ejection fraction (HFpEF) is complex and highly interrelated, involving abnormalities in left ventricular (LV) systolic and diastolic reserve, arterial stiffening, endothelial dysfunction, chronotropic incompetence manifest by decreased heart rate (HR) reserve, and pulmonary hypertension and atrial fibrillation leading to right ventricular (RV) dysfunction. These abnormalities lead to hemodynamic perturbations developing in HFpEF (high filling pressures, cardiac output reserve limitations) that together with abnormalities in the periphery (skeletal muscle) produce typical symptoms including ascites, edema, and exercise intolerance. This leads to activity avoidance and worsening of muscle conditioning and additional peripheral limitations. Reproduced with permission from Borlaug, B. A. The pathophysiology of heart failure with preserved ejection fraction. Nat Rev Cardiol. 2014 Sep;11:507–515. 178
 
-![](_page_25_Figure_4.jpeg)
+![](ch11-03_page_25_Figure_4.jpeg)
 
 **FIGURE 70–13.** As compared to healthy individuals (*blue*), patients with heart failure with preserved ejection fraction (HFpEF; *red*) display less ability to increase left ventricular (LV) end-diastolic volume (EDV) and to decrease end-systolic volume (ESV), which leads to an impaired stroke volume (SV) response to exercise. Patients with HFpEF frequently present with normal LV filling pressures at rest (*arrow*, upper right panel) that become very elevated during exercise (*arrow*, upper right panel). Compared to controls (*blue*), HFpEF patients (*red*) display blunted increases in heart rate that are correlated with poorer exercise capacity (peak oxygen consumption [VO<sub>2</sub>]). The normal increase in peripheral blood flow with upper arm cuff occlusion related to endothelium-dependent vasodilation is also reduced in HFpEF patients as compared to age-matched controls (bottom right). Data from Borlaug BA, Nishimura RA, Sorajja P, Lam CS, Redfield MM. Exercise hemodynamics enhance diagnosis of early heart failure with preserved ejection fraction. Circ Heart Fail 2010;117:2051-2060; Borlaug BA, Olson TP, Lam CS, Flood KS, Lerman A, Johnson BD, Redfield MM. Global cardiovascular reserve dysfunction in heart failure with preserved ejection fraction. *J Am Coll Cardiol*. 2010;56:845-854. <sup>15</sup>
 
@@ -873,7 +873,7 @@ Diuretics decrease filling pressures to effectively treat acute decompensated he
 
 Three large, placebo-controlled, randomized trials testing ACE inhibitors and ARBs in HFpEF have been conducted to date.257-259 There was a nonsignificant reduction in the composite outcome of cardiovascular death or heart failure hospitalizations with candesartan in the CHARM-Preserved study.257 This trial defined HFpEF using an ejection fraction partition value of 40% and included more men and patients with coronary disease than are generally seen in HFpEF, suggesting that many of the participants had a phenotype resembling HFrEF. The larger Irbesartan in Heart Failure With Preserved Systolic Function (I-PRESERVE) trial comparing irbesartan to placebo in a more typical HFpEF patient population was unequivocally neutral, overall and across all of the prespecified secondary analyses presented.259 The Perindopril in Elderly People With Chronic Heart Failure (PEP-CHF) trial randomized older
 
-![](_page_27_Figure_10.jpeg)
+![](ch11-03_page_27_Figure_10.jpeg)
 
 **FIGURE 70–14.** Forest plot showing the hazard ratios and 95% confidence intervals for neurohormonal antagonists tested in clinical trials and registry data in heart failure with preserved ejection fraction (HFpEF; *red*) and heart failure with reduced ejection fraction (HFrEF; *blue*) patients. Although angiotensin receptor blockers, angiotensin-converting enzyme inhibitors, β-blockers, and digoxin have succeed in HFrEF, these approaches have failed to date in trials and observational studies in HFpEF. Reproduced with permission from Borlaug, B. A. & Redfield, M. M. Diastolic and systolic heart failure are distinct phenotypes within the heart failure spectrum. *Circulation*. 2011 May 10;123:2006-2013.137
 
@@ -925,7 +925,7 @@ Numerous promising therapies are currently being studied in clinical trials for 
 
 A recent double-blind, randomized trial demonstrated that acute administration of inorganic sodium nitrite markedly improved hemodynamic abnormalities developing during exercise, with substantial reduction in exercise LV filling pressures and improved cardiac output reserve.223 Another acute crossover study testing inorganic nitrate (precursor to nitrite) delivered as beetroot juice also observed improvements in peak exercise capacity.246 Larger scale studies testing this novel therapy are currently under way. The If current blocker ivabradine,
 
-![](_page_29_Figure_13.jpeg)
+![](ch11-03_page_29_Figure_13.jpeg)
 
 **FIGURE 70–15.** Patients with heart failure with preserved ejection fraction (HFpEF) and coronary artery disease (CAD) who underwent complete revascularization displayed lower mortality as compared to similar patients with HFpEF and CAD who were not revascularized (*left*). Noninvasive stress testing, using electrocardiography, perfusion imaging, or stress echocardiography, was associated with high false-positive and false-negative rates, suggesting that these modalities may have more limited value in HFpEF. Reproduced with permission from Hwang, S. J., Melenovsky, V. & Borlaug, B. A. Implications of coronary artery disease in heart failure with preserved ejection fraction. *J Am Coll Cardiol*. 2014 Jul 1;63(25 Pt A):2817-2827.171
 

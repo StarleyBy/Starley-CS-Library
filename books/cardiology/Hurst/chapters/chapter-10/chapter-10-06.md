@@ -97,7 +97,7 @@ Notably, the role of the desmosome for normal cardiac function is clearly illust
 
 Based on the central role of the cardiac desmosome in regulating inter- and intracellular mechanical forces, ACM pathophysiology has historically been attributed to dysfunction in desmosomal proteins, resulting in structural instability of this critical membrane domain. Thus, in the "degeneration" or "inflammation" models for ACM pathobiology, structurally compromised desmosomes are more sensitive to mechanical strain/forces, resulting in damaged cell-cell junctions, myocyte uncoupling, and ultimately inflammation, fibrosis, necrosis, and potentially adipogenesis.20-22 These models are supported by multiple lines of evidence, including the following: aberrant myocyte intercalated disk coupling in human ACM samples as observed by electron microscopy23; abnormal myocyte intercalated disk widening in mice harboring human ACM variants as observed by electron microscopy24; prevalence of ACM phenotypes in conditions of myocardial strain19; accelerated ACM phenotypes and increased risk for sudden cardiac death in athletes25; impact of disease on right ventricle (thin, distensible wall) versus left ventricle19; reduced adhesive strength of cells expressing small interfering RNAs that silence selective desmosomal proteins26; and accelerated ACM phenotypes in animal models harboring mutant desmosome genes following mechanical stress.27,28 However, not all data necessarily support loss of cell adhesion in disease pathogenesis. For example, Hariharan et al29 indicated that although neonatal rat ventricular myocytes deficient in plakoglobin or plakophilin showed reduced cell-cell adhesion, these same cultures expressing human ACM plakoglobin or plakophilin
 
-![](_page_3_Figure_2.jpeg)
+![](ch10-06_page_3_Figure_2.jpeg)
 
 **FIGURE 62–1.** Electron micrographs showing myocyte intercalated disks. **A.** Low magnification view of two intercellular junctions (bar scale = 1 μm). **B.** The three components of the intercalated disk: the gap junction (*red arrow and text*); the desmosome (*violet arrow and text*); and the fascia adherens (*green arrow and text*) (bar scale = 200 nm). **C.** Normal heart: pretransplantation endomyocardial biopsy from donor heart (bar scale = 500 nm). **D.** Classic arrhythmogenic right ventricular cardiomyopathy (ARVC): abnormal intercalated disk. The disease is associated with double mutation in *DSG2* (p.Lys346del) and *PKP2* (p.Tyr168X) (bar scale = 500 nm). **E.** Dilated cardiomyopathy (DCM): intercalated disk (bar scale = 500 nm).
 
@@ -171,11 +171,11 @@ ACM has the following three phases of pathophysiologic progression (Fig. 62–2)
 
 Alternatively, the natural history of classical right-sided ACM can be divided into four stages in which the concealed and electrical stages are similarly defined but the structural stage distinguishes the overt RV failure with overall preserved LV function from the final phase, which is marked by overt LV involvement and biventricular heart failure.10 The left-dominant ACM is characterized by primary (but not necessarily exclusive) LV involvement, and biventricular ACM is defined by early and parallel involvement of both ventricles.
 
-![](_page_6_Figure_12.jpeg)
+![](ch10-06_page_6_Figure_12.jpeg)
 
 **FIGURE 62–2.** Three phases of arrhythmogenic right ventricular cardiomyopathy/dysplasia disease progression. ECG, electrocardiogram; PVC, premature ventricular contraction; RV, right ventricle; TWI, T-wave inversion. Reproduced with permission from te Riele AS, James CA, Rastegar N, et al. Yield of serial evaluation in at-risk family members of patients with ARVD/C. *J Am Coll Cardiol*. 2014 Jul 22;64:293-301.66
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-06_page_7_Figure_2.jpeg)
 
 FIGURE 62—3. The figure shows the pedigree, the short summary of the clinical history of the proband, the macroscopic view of the right ventricle (the triangle of dysplasia is outlined with the dashed white line), and the
 
@@ -198,7 +198,7 @@ Repolarization abnormalities consisting of T-wave inversion (TWI) in leads V, th
 
 As a result of structural remodeling, electrical conduction through the RV is abnormal and delayed. This results in characteristic ECG abnormalities including delayed terminal activation of the S-wave upstroke in the right precordial leads. A prolonged S-wave upstroke  $\geq$  55 milliseconds (measured from the nadir of the S wave to end of QRS)
 
-![](_page_8_Picture_2.jpeg)
+![](ch10-06_page_8_Picture_2.jpeg)
 
 FIGURE 62—4. The figure shows the right ventricular wall of the heart excised at transplantation from the patient who is a carrier of the *DSG2* (p.Lys346del) and *PKP2* (p.Tyr168X) mutations. The blue-bordered panel shows a small epicardial arteriolar vessel with severe intimal hyperplasia and luminal subocclusion; this panel corresponds to the blue-bordered inset in the prior figure. The orange-bordered panel shows a few residual dystrophic myocytes (corresponding to the orange-bordered inset of the first panel), which are shown in the right lower panel at higher magnification. ACM, Arrhythmogenic Cardiomyopathy; EPS, electrophysiologic study; ICD, implantable cardioverter-defibrillator; RV, right ventricular.
 
@@ -220,7 +220,7 @@ Ventricular arrhythmias are an important manifestation of ACM, with 48% of indiv
 
 RV angiography, transthoracic echocardiography, and cardiac magnetic resonance imaging (CMRI) can be used to evaluate for structural
 
-![](_page_9_Figure_2.jpeg)
+![](ch10-06_page_9_Figure_2.jpeg)
 
 **FIGURE 62–5.** Baseline 12-lead electrocardiogram in a patient with arrhythmogenic cardiomyopathy (ACM) and sustained ventricular tachycardia. T-wave inversion can be seen in all precordial leads (V1 to V6 ). There are large epsilon waves seen in precordial leads V1 to V5 (arrows). These are large in amplitude in V1 to V3 and give the appearance of an R′ and right bundle branch block in these leads. These correspond with the lower amplitude signals in V3 and V4 (*arrows*). The fifth QRS complex is a premature ventricular contraction with left bundle branch block morphology and superior axis, which are commonly seen in ACM. The seventh complex is a fusion beat.
 
@@ -228,7 +228,7 @@ and functional abnormalities of the RV. RV angiography, although rarely performe
 
 Echocardiography provides a relatively limited assessment of RV structure and function as a result of the inherent limitation in assessing a complex threedimensional chamber with limited two-dimensional views. These limitations are overcome with CMRI, which can provide a superior assessment of regional and global function as well as provide information on tissue
 
-![](_page_9_Figure_6.jpeg)
+![](ch10-06_page_9_Figure_6.jpeg)
 
 **FIGURE 62–6.** Transthoracic echocardiogram of a patient with Task Force criteria for definite arrhythmogenic cardiomyopathy (ACM). (**A**) The parasternal long axis view demonstrates that the right ventricular outflow tract (RVOT) measures 38 mm, and (**B**) the parasternal short axis view demonstrates a measurement of 39 mm for the RVOT. These measurements demonstrate an enlarged RVOT and, together with a dyskinetic segment of the RV, fulfill a major Task Force criterion. (**C**) The apical four-chamber view demonstrates a markedly enlarged RV with excessive trabeculation (*arrow*), which is characteristic of ACM.
 
@@ -264,11 +264,11 @@ When comparing asymptomatic gene carriers versus healthy controls, exercise trea
 
 There are no prospective, randomized clinical trials to elucidate which individuals are at highest risk for SCD and would benefit from implantable cardioverter-defibrillator (ICD) implantation. However, based on observational studies in ACM patients, a history of prior cardiac arrest,
 
-![](_page_11_Figure_2.jpeg)
+![](ch10-06_page_11_Figure_2.jpeg)
 
 **FIGURE 62–7.** The panel collection of the figure summarizes the clinical workup in arrhythmogenic cardiomyopathy. **A.** The pedigree shows the segregation of the mutation (+) with the phenotype (*black-filled symbols*); the only mutated and unaffected family member is a young, asymptomatic girl whose electrocardiogram and imaging studies did not demonstrate signs of disease. **B.** The endomyocardial biopsy shows small foci of fat and interstitial fibrosis; the observed features do not fulfill Task Force criteria. **C.** The table shows the duration of follow-up in family members and the combination of major (M) (*red-filled cells*) and minor (m) criteria (*violet-filled cells*) in family members who underwent clinical screening; the diagnoses (*blue text*) are definite in three siblings (II:1, II:5, and II:6). According to the Task Force criteria Category 6, relatives of the three affected siblings are possibly affected because the disease is proven in II:1, II:5, and II:6. However, the risk of developing the disease is obviously higher in the young daughter (III:2) of the affected member II:6 because she is a carrier of the maternal mutation. **D.** Echocardiographic views of the heart of the proband (II:6). AF, atrial fibrillation; EF, ejection fraction; ICD, implantable cardioverter-defibrillator; LVEDD, left ventricular end-diastolic dysfunction; LVEF, left ventricular ejection fraction; NYHA, New York Heart Association; TF, Task Force; TTE, transthoracic echocardiography.
 
-![](_page_12_Figure_2.jpeg)
+![](ch10-06_page_12_Figure_2.jpeg)
 
 FIGURE 62—8. The figure contains three pedigrees of patients diagnosed with classical arrhythmogenic cardiomyopathy (ACM). A and B. Two pedigrees of small families in which both probands (A, II:1; B, II:1) satisfied the Task Force (TF) criteria for the diagnosis. The criteria included in Category 6 (family history and genetic mutation) of the TF criteria should be reconsidered because all first-degree relatives of proven affected family members should be considered as possibly affected; however, in families in which the mutation is identified, the genetic result should lead the assignment of criterion 6. Obviously, nonmutated relatives should not carry the risk of developing the disease. Below pedigrees A and B, the corresponding MOGE(S)-based description summarizes the morphofunctional (M) phenotype (A = arrhythmogenic cardiomyopathy), organ (O) involvement (H = heart only), genetic (G) information on inheritance pattern (AD = autosomal dominant), and the cause/etiology (E), which in this case is genetic and a result of a frameshift mutation in desmoplakin (DSP) in family A and plakofillin 2 (PKP2) in family B; (S) indicates the American Heart Association (AHA) stage and New York Heart Association (NYHA) functional class. C. The pedigree shows the case of an old female patient presenting with a nontypical clinical history; in this case, the family is noninformative. However, the mutation identified in the proband, PKP2 p.(Ser837ValfsX94), has been repeatedly reported and confirmed as associated with ACM. The cardiomyopathy seems to be biventricular, and the arrhythmogenic profile is low. The identification of the pathologic mutation, however, gives the opportunity of supporting the future screening of the family members of the third generation (not shown).
 
@@ -352,11 +352,11 @@ Idiopathic RVOT-VT should be differentiated from early ACM, when gross structura
 - A single VT morphology with LBBB pattern and an inferior axis is commonly recorded.<sup>120</sup>
 - The application of an ECG-based scoring system can clarify the diagnosis. The scoring system provides 3 points for sinus rhythm
 
-![](_page_14_Figure_2.jpeg)
+![](ch10-06_page_14_Figure_2.jpeg)
 
 **FIGURE 62–9.** Flowchart for implantable cardioverter-defibrillator (ICD) implantation in arrhythmogenic cardiomyopathy (ACM). Major and minor risk factors are listed in Table 62–3. LV, left ventricle; NSVT, nonsustained ventricular tachycardia; RV, right ventricle; SCD, sudden cardiac death; VF, ventricular fibrillation; VT, ventricular tachycardia. Reproduced with permission from Corrado D, Wichter T, Link MS, et al. Treatment of Arrhythmogenic Right Ventricular Cardiomyopathy/Dysplasia: An International Task Force Consensus Statement. *Circulation*. 2015 Aug 4;132:441-453.100
 
-![](_page_14_Figure_4.jpeg)
+![](ch10-06_page_14_Figure_4.jpeg)
 
 **FIGURE 62–10.** Bipolar voltage maps of the epicardial ventricular surface and right ventricular (RV) endocardium of the same patient in Fig. 62–3. This patient had ventricular tachycardia (VT) and underwent VT ablation. **A.** The RV endocardial map is shown in anteroposterior projection. The color range in bipolar voltage is 0.5 to 1.5 mV; *purple* represents normal tissue, and *red* represents severely diseased tissue. The free wall is normal with areas of diseased issue being around the pulmonary valve (PV) and inferior RV wall, which is not optimally seen in this view. Late potentials are represented by *black points* and fractionated potentials by *pink points*, which are targets for ablation (*red points*). **B.** The epicardial surface of the RV demonstrates a much larger area of diseased tissue and scar along the free wall. The area of scar extends to the epicardial and endocardial inferior wall of the RV, which is not seen here. **C.** A posteroanterior view of the RV endocardium. Areas of scar can be seen around the PV and inferior endocardial wall. During ablation, areas with late and fractionated potentials were targeted on the epicardial and endocardial surface. After the procedure conclusion, VT was noninducible. AV, atrioventricular groove; TV tricuspid valve.
 

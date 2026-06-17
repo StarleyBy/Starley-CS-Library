@@ -44,7 +44,7 @@ Aging is also associated with important changes in other organ systems that inte
 
 Age-associated reductions in pulmonary reserve contribute to increased dyspnea, reduced exercise capacity, and impaired quality of life in older patients with CVD, particularly among those with HF. Alterations in the neurohormonal system contribute to increased risk for side effects from cardiovascular medications, especially lightheadedness, falls, and syncope. Age-related impairment in the thirst mechanism predisposes to intravascular volume contraction and prerenal azotemia.
 
-![](_page_1_Figure_2.jpeg)
+![](ch10-09_page_1_Figure_2.jpeg)
 
 **FIGURE 65–1.** Prevalence of cardiovascular disease by age and sex, from the National Health and Nutrition Examination Survey (2009-2012). Data from the American Heart Association's 2016 Statistical Fact Sheet.
 
@@ -163,7 +163,7 @@ In sum, older adults with CVD represent an extraordinarily heterogeneous populat
 
 *Multimorbidity*, the presence of two or more chronic conditions, affects over two-thirds of older adults9,10 and is associated with an increased risk of mortality, disability, nursing home admission, and health care utilization.9-11 Multimorbidity frequently involves CVD—coexistence
 
-![](_page_2_Figure_10.jpeg)
+![](ch10-09_page_2_Figure_10.jpeg)
 
 **FIGURE 65–2.** Relationship of cardiovascular disease with multimorbidity, polypharmacy, and geriatric syndromes.
 
@@ -183,7 +183,7 @@ Some evidence suggests that the benefit of guideline-recommended CVD treatments 
 
 to > 50% using a more comprehensive definition.35 The *frailty phenotype*, derived from the Cardiovascular Health Study, is a widely accepted method for classifying older adults into robust, prefrail, or frail categories based on unintentional weight loss, weak handgrip strength, exhaustion, slow gait speed, and low physical activity.36 Persons with three or more of these criteria are considered frail; those with one or two criteria are considered prefrail. Alternatively, frailty can be quantified using a continuous scale, known as the *frailty index*, based on accumulation of health deficits (eg, symptoms, signs, diseases, diagnostic test results, functional limitations) in multiple physiologic systems37 or by standard comprehensive geriatric assessment.38 The frailty phenotype may offer better clinical translation by allowing targeted interventions for and monitoring of each component, whereas the frailty index offers better prediction of adverse health outcomes.39
 
-![](_page_3_Figure_11.jpeg)
+![](ch10-09_page_3_Figure_11.jpeg)
 
 **•** Feasibility of treatment (support, financial status)
 
@@ -211,7 +211,7 @@ Delirium, an acute-onset disturbance in attention and awareness, is present in u
 
 The risk of functional decline is greatest in hospitalized older adults. In addition to the debilitating effects of acute illness, hospitalization itself is associated with restricted mobility, enforced dependence, little encouragement of independence, limited access to food and liquids, disturbance of circadian rhythm, and polypharmacy.75 These
 
-![](_page_4_Picture_12.jpeg)
+![](ch10-09_page_4_Picture_12.jpeg)
 
 #### **Instructions to the patient:**
 
@@ -297,7 +297,7 @@ Taken together, the structural and functional changes that occur with increasing
 |                      | diuretics and ACEI cough)<br>•	 ↓ Quality of life                                                           |                                                                                                                     | •	 Initiate nonpharmacologic interventions for incon<br>tinent patients                                                                                                |  |
 |                      |                                                                                                             |                                                                                                                     | •	 Refer selected patients to a specialist if nonpharma<br>cologic interventions are not effective                                                                     |  |
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-09_page_7_Figure_2.jpeg)
 
 **FIGURE 65–5.** Clinical presentation of acute myocardial infarction in elderly patients. Reproduced with permission from Arenson C, Busby-Whitehead J, Brummel-Smith K, et al: *Reichel's Care of the Elderly: Clinical Aspects of Aging*, 7th ed. New York: Cambridge University Press; 2016.
 
@@ -317,7 +317,7 @@ In conjunction with age-related differences in clinical presentation, increasing
 
 With improvements in short-term survival following acute MI during the coronary reperfusion era, postinfarction HF affects a large proportion of elderly ACS patients and is associated with poor outcomes112 (see Chaps. 39 and 42). Right ventricular ischemia or infarction in patients with inferior STEMI is associated with particularly high mortality in elderly patients.113 Mechanical complications of acute MI (eg, left ventricular free wall rupture, papillary muscle dysfunction with acute mitral regurgitation, ventricular septal rupture, left ventricular aneurysm or pseudoaneurysm formation) have declined in frequency during the reperfusion era, but older age continues to be a risk factor for developing each of these potentially life-threatening complications.114 Electrical events also occur more commonly in older populations, particularly AF and heart block, perhaps as a result of having
 
-![](_page_7_Figure_12.jpeg)
+![](ch10-09_page_7_Figure_12.jpeg)
 
 **FIGURE 65–6.** Increasing risk of death and in-hospital bleeding with increasing age after acute myocardial infarction in the Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Coronary Arteries (GUSTO) trial. Modified with permission from White HD, Barbash GI, Califf RM, et al: Age and outcome with contemporary thrombolytic therapy: results from the GUSTO-I trial. *Circulation*. 1996 Oct 15;94:1826-1833.
 
@@ -409,7 +409,7 @@ In populations with stage A or stage B HF, clinical guidelines recommend prevent
 
 Although dyspnea and exercise intolerance are the cardinal symptoms of HF, exertional symptoms may be less prominent in sedentary older patients, and atypical symptoms such as anorexia and mental status
 
-![](_page_11_Figure_8.jpeg)
+![](ch10-09_page_11_Figure_8.jpeg)
 
 **FIGURE 65–7.** Peak oxygen consumption (VO2 max) in healthy adults enrolled in the Baltimore Longitudinal Study of Aging. Patients were rigorously screened to exclude cardiovascular disease, and in this substudy, VO2 max decreased with increasing age in both men and women. Data from Fleg JL, Morrell CH, Bos AG, et al. Accelerated longitudinal decline of aerobic capacity in healthy older adults. *Circulation*. 2005 Aug 2;112:674-682
 
@@ -558,7 +558,7 @@ The prevalence of supraventricular arrhythmias increases with age, and initial e
 
 AF is the most common sustained and clinically important supraventricular arrhythmia in the geriatric population. Nearly one in four adults will develop AF during their lifetime, with a marked increase with age from < 1% prevalence before age 40 to approximately 10% after age 80 (Fig. 65–8).263 In another study, the incidence of AF in men increased more than 50-fold with increasing age, from 21 per people annually among individuals under age 45 years to 1077 per
 
-![](_page_15_Figure_14.jpeg)
+![](ch10-09_page_15_Figure_14.jpeg)
 
 **FIGURE 65–8.** Prevalence of atrial fibrillation by age and sex in a large health maintenance organization in 1996 to 1997. Based on data from Go AS, Hylek EM, Phillips KA, et al: Prevalence of diagnosed atrial fibrillation in adults: national implications for rhythm management and stroke prevention: the AnTicoagulation and Risk Factors in Atrial Fibrillation (ATRIA) study. *JAMA* 2001 May 9;285:2370-2375.
 

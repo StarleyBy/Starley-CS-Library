@@ -42,7 +42,7 @@ The pathophysiology of obesity produces excess adiposity sufficient to impair he
 
 Obesity fulfills the three essential criteria for a disease established by the AMA (report 4 A-05 of the AMA Council on Scientific Affairs), which are characteristic signs or symptoms, an impairment in normal functioning of some aspect of the body, and a process that
 
-![](_page_1_Figure_2.jpeg)
+![](ch05-02_page_1_Figure_2.jpeg)
 
 FIGURE. Pathophysiology of obesity as a chronic disease.
 
@@ -54,7 +54,7 @@ Homeostatic dysregulation in the hypothalamus adversely affects appetite and sat
 
 hunger and energy storage, driving weight regain back to the previous high level of body weight.<sup>21</sup> As shown in Fig., following a weightloss intervention, secretion of ghrelin from the stomach is increased above baseline both before and after meals. Ghrelin stimulates neuropeptide Y (NPY) and Agouti-related peptide neurons in the arcuate nucleus of the hypothalamus, causing release of NPY, which activates orexigenic neural pathways leading to an increase in appetite. At the same time, hormones from the gastrointestinal tract and pancreas (eg, leptin, cholecystokinin, glucagon-like peptide-1, amylin, and peptide YY) are reduced below baseline levels.<sup>21</sup> These latter hormones circulate to the hypothalamus and stimulate proopiomelanocortin-expressing neurons in the arcuate nucleus to produce  $\alpha$ -melanocyte-stimulating hormone (MSH). The α-MSH binds upstream MC4R receptors to activate anorexigenic neural pathways, resulting in suppression of appetite. The fall in these satiety-producing hormones has an additional effect to stimulate appetite. Furthermore, in response to weight loss, resting energy expenditure rates are decreased, and the energy that muscles use for any given amount of work is also decreased (ie, increased muscle energy efficiency). These energetic changes also promote weight regain.<sup>23</sup> Finally, psychological food preferences become oriented to food of greater caloric density with high fat and sugar content.
 
-![](_page_1_Figure_8.jpeg)
+![](ch05-02_page_1_Figure_8.jpeg)
 
 **FIGURE 27–2.** The pathophysiology of obesity protects against weight loss and maintains a high body weight. CCK, cholecystokinin; PYY, peptide YY.
 
@@ -84,7 +84,7 @@ Another aspect of dysfunctional fat is the diminished ability to store lipid. Th
 
 Lifestyle plays a central role in the expression of the obese state comprising not only dietary patterns, physical activity, and stress, but other factors as well, including sleep hygiene and the emerging science of chronobiology.32 Hierarchical regulatory levels ultimately determine circadian changes in appetite, energy consumption, adipocyte function, and body composition. These grossly consist of photic entrainment by the retinal-hypothalamic pathway, oscillators in the
 
-![](_page_2_Figure_8.jpeg)
+![](ch05-02_page_2_Figure_8.jpeg)
 
 **FIGURE 27–3.** The spectrum of cardiometabolic disease. Insulin resistance represents the initial lesion beginning early in life. This includes insulin resistance in adipocytes and defective capability for lipid storage, with accumulation of lipid in muscle and liver cells and in the intra-abdominal depot. There is the eventual transition to the clinically identifiable high-risk states of prediabetes and metabolic syndrome. These individuals are then at high risk for developing type 2 diabetes mellitus (T2DM), cardiovascular disease (CVD) events, or both. Thus, the operant pathophysiological mechanisms give rise to both metabolic and vascular disease components.
 
@@ -114,7 +114,7 @@ BMI is an anthropometric measure that interrelates the height and weight of indi
 
 Another limitation of BMI is that it does not indicate the impact of excess adiposity on the health of individual patients.69 The adverse effect of excess adiposity on health is manifest by the development of weight-related complications and the emergence of risk factors for those complications. Although the likelihood of weight-related complications generally increases as a function of progressive obesity, there can be a poor correlation between BMI and the development of complications. Patients with obesity need not have weight-related complications and can be free of disease-related morbidity and mortality, as illustrated in Fig. 27–4. Therefore, individuals who meet the anthropometric criterion for overweight or obesity must then undergo a clinical evaluation for the presence or absence of weight-related complications.7,69 The identification of complications and their severity are important for two reasons in patients with overweight or obesity. First, the presence and severity of complications or relevant risk factors will indicate the need for more aggressive therapy to improve the health of individual patients. Second, because these complications can be
 
-![](_page_4_Figure_2.jpeg)
+![](ch05-02_page_4_Figure_2.jpeg)
 
 **FIGURE 27–4.** Survival probability (**A**), and cumulative incidence of coronary heart disease (CHD) as myocardial infarction or coronary death (CHD) (**B**), and type 2 diabetes (T2D) (**C**) according to cardiometabolic health and body mass index status (lean, overweight, obese) in subjects from the Atherosclerosis Risk in Communities study. Metabolically healthy have no metabolic syndrome traits. Metabolic syndrome determined using ATP III criteria. Adapted with permission from Guo F, Garvey WT: Cardiometabolic disease risk in metabolically healthy and unhealthy obesity: Stability of metabolic health status in adults. *Obesity (Silver Spring)*. 2016 Feb;24:516-525.61
 
@@ -179,7 +179,7 @@ The clinician should evaluate patients for MetS and prediabetes, because this ef
 
 Another approach to cardiometabolic disease risk stratification for the patient with obesity is the Cardiometabolic Disease Staging system (CMDS)25,92 shown in Fig. 27–5. CMDS defines five stages of risk that are based on established physiological and epidemiological observations. These are the presence of the metabolically healthy obese with no MetS traits (stage 0); the fact that patients with one or two risk factors are at increased risk of T2D and CVD even if they do not meet criteria for MetS or prediabetes (stage 1); the documented risk conferred by the presence of having only one of the risk states of MetS or impaired fasting glucose or impaired glucose tolerance (stage 2); the augmented risk for T2D and CVD in patients having both MetS and prediabetes (stage 3); and patients with end-stage cardiometabolic disease who have either T2D (a cardiovascular disease risk
 
-![](_page_6_Figure_10.jpeg)
+![](ch05-02_page_6_Figure_10.jpeg)
 
 **FIGURE 27–5.** Cardiometabolic disease staging (CMDS) quantitatively stratifies risk for type 2 diabetes (left) and survival probability (right) using available clinical information. Cumulative rates of incident diabetes were generated from the CARDIA study cohort and survival probability using data from NHANES III. The system can be used to guide aggressiveness of weight loss therapy and optimize benefit/risk ratio for interventions. Adapted with permission from Guo F, Moellering DR, Garvey WT: The progression of cardiometabolic disease: validation of a new cardiometabolic disease staging system applicable to obesity. *Obesity (Silver Spring)*. 2014 Jan;22:110-118.25
 
@@ -265,7 +265,7 @@ Abbreviations: +, clinically indicated for consideration; No, not indicated.
 
 Reproduced with permission from the Summary of Recommendations in the Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults, National Institutes of Health/National Heart Lung and Blood Institute, 1998. [http://www.nhlbi.nih.gov/guidelines/obesity/ob\\_gdlns.pdf.](http://www.nhlbi.nih.gov/guidelines/obesity/ob_gdlns.pdf)
 
-![](_page_10_Figure_2.jpeg)
+![](ch05-02_page_10_Figure_2.jpeg)
 
 FIGURE 27—6. The American Association of Clinical Endocrinologists Complications–Centric Algorithm for care of the patient with overweight/obesity. Reproduced with permission from Garber AJ, Abrahamson MJ, Barzilay JI, et al: Consensus statement by the American Association of Clinical Endocrinologists and American College of Endocrinology on the comprehensive type 2 diabetes management algorithm — 2016 executive summary. Endocr Pract. 2016 Jan;22:84–113.
 

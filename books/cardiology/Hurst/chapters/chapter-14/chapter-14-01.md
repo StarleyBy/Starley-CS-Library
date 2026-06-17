@@ -80,7 +80,7 @@ The aorta has complex biological and mechanical properties involving intrinsic r
 
 The ascending aorta is approximately 3 cm in diameter, depending on age, sex, and body surface area. Among approximately 3500 individuals in the Multi-Ethnic Study of Atherosclerosis, the mean diameter of the ascending aorta was 3.2 ± 0.4 cm,7,8 and in none of these normal individuals exceeded 5 cm. The diameter of the aortic arch is similar. Descending in the posterior mediastinum, the aorta tapers slightly to about 2 to 2.3 cm and the abdominal aorta narrows further to 1.7 to 1.9 cm in its distal portion. The aortas of males are larger than those of females. Aortic root dimension increases with age, height and weight, but the sex-based difference in aortic root dimension is not entirely explained by body surface area.5
 
-![](_page_1_Picture_2.jpeg)
+![](ch14-01_page_1_Picture_2.jpeg)
 
 **FIGURE 93–1.** Transverse section of the wall of a large elastic artery demonstrating the well-developed tunica media containing elastic lamellae. Pararosaniline–toluidine blue stain; medium magnification. Reproduced with permission from Junqueira LC, Carneiro J: *Basic Histology: Text and Atlas*, 11th ed. New York, NY: McGraw-Hill; 2005.1
 
@@ -94,9 +94,9 @@ Forward blood flow in the aorta begins when the aortic valve opens, and systolic
 
 Each of the four components of the aortic wall—elastic tissue, collagen fibers, smooth muscle cells, and mucoid ground substance—change with age (Fig. 93–2).11 Elastic fibers fragment, collagen content increases at the expense of smooth muscle cells, and glycosaminoglycans accumulate. As a result, the aorta becomes less distensible, reducing its capacity to absorb the forces derived from LV contraction.12 The increased stiffness of the aortic wall with aging contributes to hypertension.13 Concurrently, weakening of the aortic wall leads to dilation of the lumen and elongation and uncoiling of the aortic arch, collectively producing ectasia. Accompanying
 
-![](_page_1_Picture_9.jpeg)
+![](ch14-01_page_1_Picture_9.jpeg)
 
-![](_page_1_Picture_10.jpeg)
+![](ch14-01_page_1_Picture_10.jpeg)
 
 **FIGURE 93–2.** Histology of the normal aorta of a child (**A**) and an elderly adult (**B**). With aging, elastic fibers fragment, collagen becomes more prominent, smooth muscle cells diminish, and acid mucopolysaccharide ground substance accumulates. Weakening of the aortic wall leads to dilatation of the lumen as well as elongation and uncoiling of the aortic arch. Orcein and van Gieson stain, magnification × 414. Reproduced with permission from Nichols WW, O'Rourke MF, McDonald DA: *McDonald's blood flow in arteries: theoretic, experimental, and clinical principles*, 3rd ed. Philadelphia: Lea & Febiger; 199.11
 
@@ -118,13 +118,13 @@ Several additional types of aortic pathology are illustrated in Fig. 93–4. *Ac
 
 Aortic aneurysms may also be classified according to the segment involved as thoracic, thoracoabdominal, or abdominal. Aneurysm formation can involve a greater portion of the aorta (Fig. 93–5) than obstructive atherosclerotic disease, potentially affecting almost the
 
-![](_page_2_Picture_11.jpeg)
+![](ch14-01_page_2_Picture_11.jpeg)
 
-![](_page_2_Picture_12.jpeg)
+![](ch14-01_page_2_Picture_12.jpeg)
 
 **FIGURE 93–3.** Artist's rendition of aortic aneurysms at various locations (**A**) and type B aortic dissection (**B**).
 
-![](_page_3_Picture_2.jpeg)
+![](ch14-01_page_3_Picture_2.jpeg)
 
 **FIGURE 93–4.** Three commonly confused aortic disorders. **A**. Acute aortic transection. **B**. Degenerative aneurysm of the descending aorta. **C**. Type A acute aortic dissection. Reproduced with permissionfrom Elefteriades JA, Geha AS, Cohen LS: *House Officer Guide to ICU Care*. Raven Press; 1994.
 
@@ -148,13 +148,13 @@ In contrast to the ascending aorta, the majority of aneurysms of the descending 
 
 In more than 90% of cases, the superior margins of abdominal aneurysms are distal to the origins of the renal arteries. Atherosclerosis is present in the majority, although some authors suggest that atherosclerosis may be a secondary phenomenon in aneurysmal disease.
 
-![](_page_3_Picture_14.jpeg)
+![](ch14-01_page_3_Picture_14.jpeg)
 
-![](_page_3_Picture_15.jpeg)
+![](ch14-01_page_3_Picture_15.jpeg)
 
 **FIGURE 93–5.** Magnetic resonance imaging demonstrating aneurysm of the entire aorta viewed in the sagittal thoracic and axial abdominal views.
 
-![](_page_4_Picture_2.jpeg)
+![](ch14-01_page_4_Picture_2.jpeg)
 
 **FIGURE 93–6.** Three common patterns of ascending aortic aneurysmal disease: supracoronary, annuloaortic ectasia, and tubular. See text for details.
 
@@ -170,7 +170,7 @@ The advent of routine postmortem computerized tomography in victims of out-of-ho
 
 Abdominal aortic aneurysm affects approximately 5% of individuals over age 65 years, and the prevalence is considerably higher in men than women.23 The annual incidence of ruptured abdominal aortic aneurysm is approximately 10 per population and is similar in men and women, though the age at diagnosis is a decade higher among
 
-![](_page_4_Figure_11.jpeg)
+![](ch14-01_page_4_Figure_11.jpeg)
 
 **FIGURE 93–7.** Classification of thoracoabdominal aortic aneurysms. Type I aneurysms involve most of the descending aorta from near the origin of the left subclavian artery to the abdominal vessels, but the renal arteries are not involved. Type II aneurysms also begin near the origin of the left subclavian artery but extend below the origins of the renal arteries. Type III aneurysms arise more distally and involve less of the descending thoracic aorta but often more of the abdominal aorta than types I and II aneurysms. Type IV aneurysms arise at the level of the diaphragm and typically extend below the origins of the renal arteries. Reproduced with permission from Crawford ES, Coselli JS. Thoracoabdominal aneurysm surgery. *Semin Thorac Cardiovasc Surg*. 1991 Oct;3:300-322.20
 
@@ -192,7 +192,7 @@ The US Preventive Services Task Force recommends31,33 one-time screening for abd
 
 Aneurysms are often clinically silent until rupture or dissection occurs, and these catastrophes are most often fatal. Thus detection of asymptomatic aneurysms is paramount. "Guilt by association" has been proposed as a strategic approach to aneurysm detection,35 capitalizing on eight clinical correlates of thoracic aortic aneurysm: intracranial aneurysm, bovine aortic arch configuration, bicuspid aortic valve, renal cyst, abdominal aortic aneurysm, positive thumb-palm sign, family history, and temporal arteritis (Fig. 93–8). The association of intracranial
 
-![](_page_5_Figure_11.jpeg)
+![](ch14-01_page_5_Figure_11.jpeg)
 
 **FIGURE 93–8.** Paradigm of "guilt by association" for detection of silent thoracic aortic aneurysm. Reproduced with permission from Elefteriades JA, Sang A, Kuzmik G, Hornick M. Guilt by association: paradigm for detecting a silent killer (thoracic aortic aneurysm). *Open Heart*. 2015 Apr 24;2:e000169.35
 
@@ -277,7 +277,7 @@ Abbreviations: AAD, ascending aortic dissection; AI, aortic insufficiency; Asc, 
 
 Data from Tsipouras P, Silverman DI. The genetic basis of aortic disease: Marfan syndrome and beyond. *Cardiol Clin*. 1999;17:683-696, and from National Library of Health of National Health Services. Available at [http://www.library.nhs.](http://www.library.nhs.uk/genepool/ViewResource.aspx?resID=126262) [uk/genepool/ViewResource.aspx?resID=126262.](http://www.library.nhs.uk/genepool/ViewResource.aspx?resID=126262)
 
-![](_page_8_Picture_2.jpeg)
+![](ch14-01_page_8_Picture_2.jpeg)
 
 **FIGURE 93–9.** Aortogram of a patient with Marfan syndrome. Aortic aneurysms in this disorder are characterized by annuloaortic ectasia involving the sinuses of Valsalva and the ascending aorta produced by degeneration of elastic fibers and the accumulation of mucoid material within the medial layer of the aortic wall, grossly resembling cystic medial necrosis.
 
@@ -293,11 +293,11 @@ Certain genetic mutations influence the natural history of thoracic aortic disea
 
 After genetic mutations establish the propensity for aneurysm development, lytic MMP enzymes degrade the structural proteins of the aortic wall, leading to aneurysm formation and dissection (Fig. 93–13). These enzymes are normally regulated by tissue inhibitors of metalloproteinases (TIMPs), which antagonize the lytic action of the MMPs. An uncertain
 
-![](_page_8_Picture_10.jpeg)
+![](ch14-01_page_8_Picture_10.jpeg)
 
-![](_page_8_Picture_11.jpeg)
+![](ch14-01_page_8_Picture_11.jpeg)
 
-![](_page_8_Figure_12.jpeg)
+![](ch14-01_page_8_Figure_12.jpeg)
 
 **FIGURE 93–10.** Cystic medial necrosis of progressive severity (**A** to **C**). Blood gaining access to one of the cystic spaces through a defect in the intimal layer of the aortic wall can propagate longitudinally along the aorta, initiating dissection.
 
@@ -318,7 +318,7 @@ smooth muscle cells. Together, these processes undermine the integrity of the ao
 
 Many patients with ascending aortic aneurysms, which are typically nonatherosclerotic, display relatively little evidence of systemic atherosclerotic disease. A study comparing patients with ascending aortic
 
-![](_page_9_Figure_8.jpeg)
+![](ch14-01_page_9_Figure_8.jpeg)
 
 **FIGURE 93–11.** In a series of 100 family pedigrees of patients with thoracic aortic aneurysm or dissection, 21 suggested genetic transmission. Autosomal dominant inheritance predominates, but other patterns of transmission also are evident.
 
@@ -336,7 +336,7 @@ Aside from pain, ascending aortic aneurysms may produce heart failure on the bas
 
 Note that bicuspid aortic valves cause 25 times more acute aortic dissections than Marfan disease.
 
-![](_page_10_Figure_3.jpeg)
+![](ch14-01_page_10_Figure_3.jpeg)
 
 **FIGURE 93–12.** Genes that are currently known to cause syndromic and nonsyndromic thoracic aortic aneurysm and dissection. *\*COL3A1* is the gene responsible for Type IV (vascular type) Ehlers-Danlos syndrome, which is most often associated with aneurysm and/or dissection. Reproduced with permission from Ziganshin BA, Bailey AE, Coons C, et al: Routine Genetic Testing for Thoracic Aortic Aneurysm and Dissection in a Clinical Setting. *Ann Thorac Surg*. 2015 Nov;100:1604-1611.67
 
@@ -348,11 +348,11 @@ Thoracic or abdominal aortic aneurysms are most commonly diagnosed not on the ba
 
 Aortic dissection typically produces sudden intense pain, often described as tearing or shearing in quality. Whereas ascending aortic dissection usually causes anterior,
 
-![](_page_10_Figure_9.jpeg)
+![](ch14-01_page_10_Figure_9.jpeg)
 
 **FIGURE 93–13.** The proteins in the wall of this ascending aortic aneurysm were degraded, presumably by matrix metalloproteinase–related activity, to the extent that the aortic wall became so thin that the markings on a ruler are visible through the aortic wall.
 
-![](_page_10_Figure_11.jpeg)
+![](ch14-01_page_10_Figure_11.jpeg)
 
 **FIGURE 93–14.** Factors involved in the pathogenesis of aortic aneurysms.
 
@@ -374,11 +374,11 @@ Aortic dissection can cause death in four main ways (Fig. 93–15): hemopericard
 
 Most patients with aortic dissection present with hypertension, but 3% to 18% present with shock, sometimes secondary to extension of dissection into the coronary arteries, acute MI, LV failure, acute severe aortic insufficiency, cardiac tamponade, or aortic rupture. Coronary perfusion may be compromised by retrograde dissection, compression by the false lumen, or hypotension. In one series, differential pulse volume and blood pressure between the right and left upper extremities was detected in 38% of patients with ascending aortic dissection. An abrupt loss of pulse may affect the carotid, subclavian, axillary, radial,
 
-![](_page_11_Figure_12.jpeg)
+![](ch14-01_page_11_Figure_12.jpeg)
 
 **FIGURE 93–15.** The mechanisms by which acute aortic dissection cause death: intrapericardial rupture and tamponade, acute aortic insufficiency, free rupture into left pleural space, or occlusion of a branch of the aorta.
 
-![](_page_12_Picture_2.jpeg)
+![](ch14-01_page_12_Picture_2.jpeg)
 
 **FIGURE 93–16.** Schematic representation of the distended false channel in a case of aortic dissection impinging on the lumen of a branch vessel. Left. Main aortic trunk, with **A** and **B** before fenestration and **C** and **D** after fenestration. Right. Anatomic events at branch vessel; **A** and **B** show impingement by a false lumen, and **C** shows relief by fenestration. Reproduced with permission from Crawford ES, Coselli JS. Thoracoabdominal aneurysm surgery. *Semin Thorac Cardiovasc Surg*. 1991 Oct;3:300-22.20
 
@@ -396,11 +396,11 @@ It is important to recognize that intramural hematoma and penetrating aortic ulc
 
 The management of patients with penetrating aortic ulcer or intramural hematoma is controversial.92 When the descending aorta is involved, most authorities advocate medical management with pharmacologic therapy aimed at plaque stabilization and reducing systolic arterial wall stress. Others take a more aggressive stance, operating on
 
-![](_page_12_Figure_12.jpeg)
+![](ch14-01_page_12_Figure_12.jpeg)
 
 **FIGURE 93–17.** Variant forms of aortic dissection. Typical dissection, penetrating aortic ulcer, and intramural hematoma.
 
-![](_page_13_Picture_2.jpeg)
+![](ch14-01_page_13_Picture_2.jpeg)
 
 **FIGURE 93–18.** Gross specimen of a removed segment of aortic wall harboring a penetrating aortic ulcer.
 
@@ -408,13 +408,13 @@ all patients except very old and infirm ones, based on observational follow-up o
 
 For intramural hematoma involving the ascending aorta, there is more unanimity favoring immediate surgical intervention, although the Japanese literature challenges the need for routine surgery even in this anatomic location.94 Penetrating aortic ulcers usually involve the descending aorta distal to the origin of the left subclavian artery, and for those associated with persistent pain, stent grafting is the treatment of choice. Figure 93–18 illustrates a dramatic case in which a penetrating ulcer ruptured through the posterior wall of the ascending aorta, mimicking "cryptogenic" pericardial effusion until surgical exploration made the diagnosis clear. Aortic intramural hematomas and penetrating ulcers rarely improve, and late surgery is commonly needed. Patients with penetrating ulcers may benefit from initial surgical management, but whether this applies to intramural hematomas is less clear (Fig. 93–20).92 Endovascular therapy is an alternative to medical or open surgical management of intramural hematoma and penetrating aortic ulcer, and the appropriate role for endovascular therapy is currently under investigation.
 
-![](_page_13_Picture_6.jpeg)
+![](ch14-01_page_13_Picture_6.jpeg)
 
 **FIGURE 93–19.** Magnetic resonance angiogram with surface-shaded rendering demonstrating a penetrating aortic ulcer in the distal portion of the descending thoracic aorta. Note the severe generalized aortic arteriosclerosis.
 
-![](_page_13_Figure_8.jpeg)
+![](ch14-01_page_13_Figure_8.jpeg)
 
-![](_page_13_Figure_9.jpeg)
+![](ch14-01_page_13_Figure_9.jpeg)
 
 **FIGURE 93–20. A**. Kaplan-Meier survival curve for nonruptured intramural hematoma patients comparing long-term survival between initial surgical and initial medical cohorts. **B**. Kaplan-Meier survival curve for patients with nonruptured penetrating ulcers comparing long-term survival between initial surgical and initial medical cohorts. Reproduced with permission from Chou AS, Ziganshin BA, Charilaou P, et al: Long-term behavior of aortic intramural hematomas and penetrating ulcers. *J Thorac Cardiovasc Surg*. 2016 Feb;151:361-372.92
 
@@ -450,15 +450,15 @@ There is no consensus on whether the aortic wall should be included or excluded 
 
 **Echocardiography** Echocardiography images of the ascending aorta are often beautifully crisp. However, a transthoracic echocardiogram (TTE) can only visualize the proximal several centimeters of the ascending aorta, perhaps to just above the sinotubular junction in a patient with good echo windows (Fig. 93–21). Thus a TTE will miss an aneurysm of the mid-portion of the ascending aorta. Also, if the aneurysm is predominantly in the mid-ascending aorta, the TEE will "see" only the beginning of the aneurysm and will, consequently, underestimate its size. Even TEE is limited by the interposed tracheal
 
-![](_page_14_Figure_14.jpeg)
+![](ch14-01_page_14_Figure_14.jpeg)
 
-![](_page_14_Figure_15.jpeg)
+![](ch14-01_page_14_Figure_15.jpeg)
 
 **FIGURE 93–21.** Limited distance above the aortic valve for which the ascending aorta can be seen on transthoracic echocardiography. **A**. Schematic. **B**. Echocardiographic image. Ao, aorta; AMVL, anterior leaflet of mitral valve; AV, aortic valve; IVS, interventricular septum; LA, left atrium; LV, left ventricle; LVPW, left ventricular posterior wall; PMVL, posterior mitral valve leaflet. Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties. *J Am Coll Cardiol*. 2010 Mar 2;55:841-857.97
 
-![](_page_15_Picture_2.jpeg)
+![](ch14-01_page_15_Picture_2.jpeg)
 
-![](_page_15_Figure_3.jpeg)
+![](ch14-01_page_15_Figure_3.jpeg)
 
 **FIGURE 93–22.** Limited distance above the aortic valve for which the ascending aorta (Ao) can be seen on transesophageal echocardiography; the tracheal air column interferes with visualization of the upper ascending aorta. **A***.* Schematic. **B***.* Echocardiographic image. LA, left atrium; LV, left ventricle; RV, right ventricle. Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties. *J Am Coll Cardiol*. 2010 Mar 2;55:841-857.97
 
@@ -466,9 +466,9 @@ air column and can be "blinded" to the upper portion of the ascending aorta (Fig
 
 **Computed Tomography Scan** CT scan with axial images cannot properly evaluate the very proximal portion of the ascending aorta. The entire portion of aorta between the annulus and the coronary arteries usually represents only a centimeter or two of distance. Axial imaging planes may miss an aneurysmal dilatation in this location. Also, it can be exceedingly difficult to be certain if a given axial cut is above or below the aortic valve—a key distinction if one is to take a diameter measurement based on that cut (Fig. 93–23). Furthermore, it is naïve to believe that the plane of the aortic valve is confined to the plane of the axial images (perpendicular to the longitudinal axis of the body). Even the normal annulus may be skewed. Furthermore, as the ascending aorta elongates, the aortic valve plane is forced into a more vertical orientation, rendering even more difficult the assessment of size on axial images (Fig. 93–24). In modern CT scanners, reconstructions are done not only in axial but also in sagittal and coronal planes, but the resolution in the nonaxial reconstructions is often insufficient to permit precise assessment of the aortic shape or diameter. Also, the aorta changes in size, depending on the phase of the cardiac cycle in which an image is acquired, potentially affecting diameter measurement by as much as 17.5%.98
 
-![](_page_15_Figure_7.jpeg)
+![](ch14-01_page_15_Figure_7.jpeg)
 
-![](_page_15_Figure_8.jpeg)
+![](ch14-01_page_15_Figure_8.jpeg)
 
 **FIGURE 93–23.** Difficulty in determining if a given axial computed tomographic (CT) image is still in the aorta or passing partially through the aorta and the left ventricular outflow tract. This factor can lead to gross misinterpretations of aortic diameter. **A** and **B** differ by only one CT level, yet they yield markedly different diameters. Is the lower frame still in the aorta? Does it represent the dimension of the sinuses, or does it run obliquely through both aorta and left ventricular outflow tract? It can be difficult or impossible to ascertain these answers on a purely axial technique. Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties. *J Am Coll Cardiol.*  2010 Mar 2;55:841-857.97
 
@@ -476,9 +476,9 @@ air column and can be "blinded" to the upper portion of the ascending aorta (Fig
 
 **Centerline Method of Measurement** The centerline method of analysis of CT images of the aorta enhances precision in assessment of aortic wall morphology and measurement of aortic diameter (Fig. 93–26).99 Commercial software programs automatically set the viewing plane perpendicular to the long axis of the aorta. It is important to bear in mind, however, that centerline methods may lead to smaller measurements
 
-![](_page_16_Picture_2.jpeg)
+![](ch14-01_page_16_Picture_2.jpeg)
 
-![](_page_16_Picture_3.jpeg)
+![](ch14-01_page_16_Picture_3.jpeg)
 
 **FIGURE 93–24.** Aortogram (**A**) and schematic (**B**) showing gross elongation of the ascending aorta, forcing the aorta into a "C" shape and obligating the aortic valve to take a nearly vertical plane of orientation. On an axial computed tomography image, this common anatomy would markedly confound measurement of proximal aortic size. Note the difference between a horizontal diameter (as in an axial image) and a diameter perpendicular to the long axis of the aorta. Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties. *J Am Coll Cardiol.*  2010 Mar 2;55:841-857.97
 
@@ -486,9 +486,9 @@ of aortic diameter than traditional observer-based image analysis, and most crit
 
 MRI is an inherently multiplane modality that provides axial, sagittal, and coronal images. Depending on resolution, accurate measurements may be feasible, potentially overcoming some of the limitations of echocardiography or CT imaging related to imaging windows, planar projection, and vascular calcification.
 
-![](_page_16_Picture_7.jpeg)
+![](ch14-01_page_16_Picture_7.jpeg)
 
-![](_page_16_Picture_8.jpeg)
+![](ch14-01_page_16_Picture_8.jpeg)
 
 **FIGURE 93–25.** Nongated (**A**) and gated (**B**) contrast computed tomography angiography demonstrating an imaging artifact suspicious for an intimal flap in a Type A dissection. Reproduced with permission from Chou AS, Ziganshin BA, Elefteraides JA. Computed Tomography Imaging Artifact Simulating Type A Aortic Dissection, Aorta (Stamford). 2016 Apr 1;4:72-73.
 
@@ -510,11 +510,11 @@ Thoracic aortic aneurysm is a virulent, potentially lethal disease. Also, it is 
 
 D-dimer is a byproduct of fibrin degradation. D-dimer is a useful biomarker in acute aortic dissection. It is 99% sensitive in the detection of acute aortic dissection.104 If the D-dimer is not elevated, the patient does not have aortic dissection. However, D-dimer is extremely nonspecific, being elevated in patients with pulmonary embolism and coronary thrombosis, essentially in any state in which thrombosis and thrombolysis proceed. The extent of D-dimer elevation reflects the longitudinal
 
-![](_page_17_Picture_2.jpeg)
+![](ch14-01_page_17_Picture_2.jpeg)
 
-![](_page_17_Picture_3.jpeg)
+![](ch14-01_page_17_Picture_3.jpeg)
 
-![](_page_17_Picture_4.jpeg)
+![](ch14-01_page_17_Picture_4.jpeg)
 
 **FIGURE 93–26.** Comparison of measurements of aortic diameters on axial source image and centerline analysis. Reproduced with permission from Rengier F, Weber TF, Giesel FL, et al: Centerline analysis of aortic CT angiographic examinations: benefits and limitations. *AJR Am J Roentgenol*. 2009 May;192:W255-W263.99
 
@@ -535,9 +535,9 @@ Other conditions frequently confused with aortic dissection are musculoskeletal 
 - • *Obtain appropriate imaging to exclude acute aortic pathology (triple rule-out CT scan):* 256-row multidetector CT angiography can effectively exclude the major forms of life-threatening thoracic pathology, including coronary atherosclerosis, pulmonary thromboembolism, and aortic aneurysm or dissection (including intramural hematoma and penetrating aortic ulcer), but the threshold at which this technology can be most cost effectively applied has not yet been established.114
 - • *Use appropriate biomarkers indicating activation of the coagulation system:* The D-dimer assay not only helps evaluate patients with
 
-![](_page_18_Picture_2.jpeg)
+![](ch14-01_page_18_Picture_2.jpeg)
 
-![](_page_18_Picture_3.jpeg)
+![](ch14-01_page_18_Picture_3.jpeg)
 
 **FIGURE 93–27.** Aortograms depicting normal aortic contour with a "waist" (*arrow)* above the coronary arteries (**A**) and the abnormal aortic contour (with no "waist) of Marfan-like annuloaortic ectasia (**B**). Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties. *J Am Coll Cardiol*. 2010 Mar 2;55:841-857.97
 
@@ -595,7 +595,7 @@ When viewed in terms of cumulative lifetime risk, the natural history of thoraci
 
 There are limited data regarding the aortic diameter at which the risk of dissection is high enough to warrant operative intervention in patients who do not fulfill criteria for aortic valve replacement (AVR) because of severe aortic stenosis or aortic regurgitation. Specifically, it is not clear whether patients with bicuspid aortic valves should
 
-![](_page_19_Figure_2.jpeg)
+![](ch14-01_page_19_Figure_2.jpeg)
 
 **FIGURE 93–28.** The RNA signature test for thoracic aortic aneurysm. In the hierarchical cluster diagram on the left, each *vertical line* represents a patient, and each *horizontal line* represents an RNA. In the grid, the *green* indicates underexpression, and *red* indicates overexpression. Note in the diagram on the left how the overexpression and underexpression cluster, depending on phenotype. In the figure on the right, note that if all the blues were together and all the reds were together, the test would have been 100% accurate. As it turns out, the overall accuracy was more than 82%. Reproduced with permission from Wang Y, Barbacioru CC, Shiffman D, et al. Gene expression signature in peripheral blood detects thoracic aortic aneurysm. *PLoS One*. 2007 Oct 17;2:e1050.107
 
@@ -613,15 +613,15 @@ As for aortic aneurysms confined to the chest or abdomen, the dimensional criter
 
 Multiple studies have addressed the appropriate size for resection of abdominal aortic aneurysms, including randomized trials in the United Kingdom and the United States124,125 and meta-analyses (Table 93–5). Small aneurysms (< 4 cm in diameter) pose a low risk of rupture and should be managed with periodic surveillance for enlargement and symptoms. Abdominal aortic aneurysms between 4 and 5 cm in diameter are associated with a 1% per year risk of rupture, and decisions regarding surveillance or surgery should be individualized based on age, familial features, and an assessment of surgical risk. Aneurysms 5.5 cm in diameter or larger carry a substantial risk of rupture and should be repaired. As for thoracic aneurysms, the occurrence of symptoms supersedes diameter as a basis for intervention. In general, patients with infrarenal or juxtarenal abdominal aortic aneurysms measuring 4.0 to 5.4 cm in diameter should be monitored by ultrasonography or CT scans every 6 months to detect expansion. Repair may be beneficial in selected patients with aneurysms
 
-![](_page_19_Picture_11.jpeg)
+![](ch14-01_page_19_Picture_11.jpeg)
 
-![](_page_19_Picture_12.jpeg)
+![](ch14-01_page_19_Picture_12.jpeg)
 
 **FIGURE 93–29.** Spurious calculation of large aortic dimension (**A**) caused by measuring an oblique cross-section across a tortuous portion of the thoracic aorta (**B**).
 
-![](_page_20_Figure_2.jpeg)
+![](ch14-01_page_20_Figure_2.jpeg)
 
-![](_page_20_Figure_3.jpeg)
+![](ch14-01_page_20_Figure_3.jpeg)
 
 FIGURE 93—30. Depiction of "hinge points" for lifetime natural history complications at various sizes of the aorta. The y-axis lists the probability of complication; *complication* refers to rupture or dissection. The x-axis shows aneurysm size. **A.** The ascending aorta. **B.** The descending aorta. Reproduced with permission from Coady MA, Rizzo JA, Hammond GL, et al. What is the appropriate size criterion for resection of thoracic aortic aneurysm? *J Thorac Cardiovasc Surg.* 1997 Mar;113:476–491.
 
@@ -669,7 +669,7 @@ The key to reconciling our observational studies that small aortas pose only low
 
 Analysis of the normal distribution of aortic diameters in the MESA<sup>7</sup> and IRAD database in relation to the risk of aortic dissection  $^{127}$  revealed that although dissection can occur at smaller diameters, patients with aortas  $\geq 4.5$  cm are at 6000-fold greater risk of dissection than those with aortas  $\leq 3.4$  cm (Fig. 93–34).8 These studies support the current criteria for surgical intervention.
 
-![](_page_21_Figure_2.jpeg)
+![](ch14-01_page_21_Figure_2.jpeg)
 
 **FIGURE 93–31.** Yearly rates of rupture, dissection, or death related to aortic size. Note that the likelihood of rupture, dissection, or death within the coming year also jumps sharply for aneurysms that reach 6 cm or higher. (The rates indicated for "Rupture or Dissection" and for "Rupture, Dissection, or Death" are lower than the sum of the rates in individual categories because patients with multiple complications were counted only once in the combined categories.) These data underlie the conclusion that aneurysms in the ascending aorta need corrective surgery when the artery balloons to 5.5 cm. Used with permission from Alison Kendall.
 
@@ -681,15 +681,15 @@ high, validating surgical therapy for patients meeting the algorithm criterion.9
 
 MMPs and other pathophysiologic factors leading to degeneration of the aortic wall play an important role in aneurysm formation.73
 
-![](_page_21_Figure_8.jpeg)
+![](ch14-01_page_21_Figure_8.jpeg)
 
 **FIGURE 93–32.** Distribution of aortic size at the time of presentation with acute type A aortic dissection (cm). *Orange bars* indicate 50% of patients with diameters smaller than 5.5 cm. Reproduced with permission from Pape LA, Tsai TT, Isselbacher EM, et al. Aortic diameter > or = 5.5 cm is not a good predictor of type A aortic dissection: observations from the International Registry of Acute Aortic Dissection (IRAD). *Circulation*. 2014 Sep 9;130(11 Suppl 1):S45-S50.127
 
-![](_page_21_Figure_10.jpeg)
+![](ch14-01_page_21_Figure_10.jpeg)
 
 **FIGURE 93–33.** Huge general population at risk explains occurrence of some dissections at small sizes. Note how the number of patients increases dramatically if the intervention diameter criterion is shifted from d1 to d2. Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties, *J Am Coll Cardiol*. 2010 Mar 2;55:841-857.97
 
-![](_page_22_Figure_2.jpeg)
+![](ch14-01_page_22_Figure_2.jpeg)
 
 **FIGURE 93–34.** Relative risk of aortic dissection by comparison of observed instances of aortic dissection to the population at risk in each size range. The relative risk is > 6000-fold higher for large aortas than for small ones. This vindicates traditional intervention criteria. Reproduced with permission from Paruchuri V, Salhab KF, Kuzmik G, et al. Aortic Size Distribution in the General Population: Explaining the Size Paradox in Aortic Dissection. *Cardiology*. 2015;131:265-272.8
 
@@ -707,11 +707,11 @@ Based on these observations, the following sequence of events is postulated to c
 
 These steps hinge on the assumption that dissection originates from an intimal tear, which in turn leads to splitting of the medial layer and creation of the false lumen. However, Humphrey et al.130 proposed that a pooling of glycosaminoglycans and proteoglycans within the medial layer of the aorta may have a delaminating effect due to localized loss of tensile strength, local stress concentration, and increased swelling pressures—all of which promote dissection.130,131 Dissection may start with an initial delamination process within the media, which propagates proximally or distally to create an intimal tear. Pooling of glycosaminoglycans and proteoglycans may be related to the dysregulation of TGF-β131-133 based on the hypothesis that aortic smooth muscle cells increase production of glycosaminoglycans and proteoglycans in response to increased TGF-β activity.130,131
 
-![](_page_22_Figure_14.jpeg)
+![](ch14-01_page_22_Figure_14.jpeg)
 
 **FIGURE 93–35.** Flow diagram of medically treated patients. INOP, inoperable; crossover, crossed over from med rx to surgery; MED RX; medical therapy. Reproduced with permission from Elefteriades JA, Farkas EA: Thoracic aortic aneurysm clinically pertinent controversies and uncertainties. *J Am Coll Cardiol*. 2010 Mar 2;55:841-857.
 
-![](_page_23_Figure_2.jpeg)
+![](ch14-01_page_23_Figure_2.jpeg)
 
 FIGURE 93—36. Schematic presentation of possible relationships underlying the instigation of an acute aortic dissection at one particular time. Adapted with permission from Hatzaras IS, Bible JE, Koullias GJ, et al: Role of exertion or emotion as inciting events for acute aortic dissection. *Am J Cardiol*. 2007 Nov 1;100:1470–1472.
 
@@ -821,7 +821,7 @@ Surgery for aneurysms of the aortic arch requires methods for cerebral protectio
 
 The key issues in surgery of the thoracoabdominal aorta involve protection of the lower body organs and spinal cord during the period of aortic cross-clamping and attachment of the visceral arteries (superior
 
-![](_page_26_Figure_2.jpeg)
+![](ch14-01_page_26_Figure_2.jpeg)
 
 **FIGURE 93–37. A**. Kaplan-Meier curves comparing an 8-year follow-up between uncomplicated medically treated patients and complicated surgically treated patients with acute type B aortic dissection (complicationspecific approach). **B**. Kaplan-Meier curves comparing 6-year survival between uncomplicated medically treated patients and age- and gender-matched control group. Reproduced with permission from Charilaou P, Ziganshin BA, Peterss S, et al: Current Experience With Acute Type B Aortic Dissection: Validity of the Complication-Specific Approach in the Present Era. *Ann Thorac Surg*. 2016 Mar;101:936-943.
 
@@ -833,7 +833,7 @@ The technical challenge of attaching all the important branch vessels of the abd
 
 The most important risk factor for cardiac events and death in patients undergoing abdominal aneurysm surgery is coronary artery disease. Because operative mortality is related mainly to myocardial ischemia, it has been suggested that coronary revascularization be performed in
 
-![](_page_26_Figure_9.jpeg)
+![](ch14-01_page_26_Figure_9.jpeg)
 
 **FIGURE 93–38.** During aortic arch replacement procedures, an "elephant trunk" is placed in the descending aorta to facilitate any future interventions on the descending or thoracoabdominal aorta, should such be necessary. Reproduced with permission from Ziganshin BA, Rajbanshi BG, Tranquilli M, Fang H, Rizzo JA, Elefteriades JA. Straight deep hypothermic circulatory arrest for cerebral protection during aortic arch surgery: Safe and effective. *J Thorac Cardiovasc Surg*. 2014 Sep;148:888-898.
 
@@ -853,11 +853,11 @@ Other complications of stent-graft repair of abdominal aortic aneurysms include 
 
 The effectiveness of endograft therapy in preventing aneurysm growth, rupture, and aneurysm-related mortality compared with open surgical repair remains controversial.175 Although often ultimately lethal, thoracic aortic aneurysm is an indolent disease, and even without therapy years may elapse between diagnosis of a small- or moderate-size aneurysm and aneurysm-related death. The EUROpean collaborators on Stent-graft Techniques for abdominal aortic Aneurysm Repair (EUROSTAR) survey of endograft repair of abdominal aortic aneurysms exposed cases of late mortality and rupture even after initially successful intervention. Information regarding late outcomes after endograft repair of abdominal aortic aneurysms is more comprehensive than for thoracic aortic aneurysm, but it appears that the risk of endoleak is ongoing over at least 5 years (Fig 93–39). Endoleak predicted rupture, surgical intervention, or death in 13%, 14%, and 27% of patients, respectively, by 5 years postprocedure in patients originally presenting with large aneurysms (Fig. 93–40). These concerns about long-term effectiveness supported the original view that endograft therapy should be reserved for patients in whom comorbidity precludes direct open surgical repair and emphasize the need for lifelong surveillance.176-179 However, more recent data support an even wider
 
-![](_page_27_Figure_11.jpeg)
+![](ch14-01_page_27_Figure_11.jpeg)
 
 **FIGURE 93–39.** Kaplan-Meier graph represents cumulative freedom from any endoleak in patients operated on for abdominal aortic aneurysm with endovascular aneurysm repair. Reproduced with permission from Lange C, Leurs LJ, Buth K, et al. Endovascular repair of abdominal aortic aneurysm in octogenarians: an analysis based on EUROSTAR data. *J Vasc Surg*. 2005 Oct;42:624-630.
 
-![](_page_28_Figure_2.jpeg)
+![](ch14-01_page_28_Figure_2.jpeg)
 
 **FIGURE 93–40.** Cumulative freedom from aneurysm-related death after endovascular repair of abdominal aortic aneurysm in the EUROSTAR registry. Note low attrition during first 3 years of follow-up followed by rapid attrition in the fourth year. Gp denotes groups defined by increasing initial aneurysm size: GpA = 4.0 to 5.4 cm; GpB = 5.5 to 6.4 cm; GpC = 6.5 cm or larger. Reproduced with permission from Peppelenbosch N, Buth J, Harris PL: Diameter of abdominal aortic aneurysm and outcome of endovascular aneurysm repair: does size matter? A report from EUROSTAR. *J Vasc Surq.* 2004 Feb;39:288–297.<sup>178</sup>
 
@@ -877,7 +877,7 @@ application of endograft therapy, although long-term survival is poor and has no
 
 Atherosclerosis of the aorta is common in Western society. The usual risk factors are tobacco smoking, diabetes mellitus, hypertension, hypercholesterolemia, obesity, and a sedentary lifestyle, and the contribution of elevated levels of plasma homocysteine and C-reactive protein has more recently been suggested. <sup>191</sup> The pathogenesis of atherosclerosis is discussed in Chapter 32.
 
-![](_page_28_Figure_14.jpeg)
+![](ch14-01_page_28_Figure_14.jpeg)
 
 FIGURE 93—41. Mortality curves in EVAR-2 (Endovascular Aneurysm Repair Trial 2), showing no benefit from endovascular therapy of abdominal aortic aneurysm. Reproduced with permission from EVAR Trial Participants. Endovascular aneurysm repair and outcome in patients unfit for open repair of abdominal aortic aneurysm (EVAR trial 2): randomised controlled trial. Lancet. 2005 Jun 25–Jul 1;365:2187-2192.<sup>177</sup>
 
@@ -893,7 +893,7 @@ Patients with atheromatous embolism typically have a history of angina pectoris,
 
 Atheroembolism originating from the suprarenal aorta may involve the kidneys, producing occlusion of multiple small arteries and segmental ischemic atrophy. This small-vessel occlusive disease may cause accelerated hypertension, microscopic hematuria, or renal failure. Pathologically, biconvex cholesterol crystals occlude the interlobular and afferent arterioles (150-200 μm in diameter). A foreign-body reaction leads to small vessel occlusion, reducing glomerular filtration rate, activating the renin–angiotensin–aldosterone system, and accelerating hypertension. Various patterns of renal insufficiency may develop and progress over weeks or months to irreversible renal failure, requiring dialysis.200 The differential diagnosis includes renal artery stenosis, renal artery thrombosis, infective endocarditis, vasculitis such as polyarteritis nodosa, and other causes of acute renal failure. No single laboratory test is diagnostic because acceleration of the erythrocyte sedimentation rate, leukocytosis with eosinophilia, and anemia are common in many systemic illnesses.200 Blood urea nitrogen and creatinine elevations may be early manifestations of renal involvement, and the urine sediment may be abnormal.
 
-![](_page_29_Picture_8.jpeg)
+![](ch14-01_page_29_Picture_8.jpeg)
 
 **FIGURE 93–42.** Typical appearance of atheromatous embolism involving the feet. The patient has cyanotic toes, livedo reticularis along the lateral portion of the foot, and ischemic lesions on both heels, indicating that the source of embolism is proximal to the aortic bifurcation. Reproduced with permission from Bartholomew JR: *Peripheral Vascular Diseases*, 2nd ed. St. Louis, MO: Mosby; 1996.
 
@@ -965,7 +965,7 @@ Cardiac manifestations result from severe hypertension, dilatation of the aortic
 
 Patients in whom severe aortitis is evident at the time of diagnosis face a 25% to 30% risk of ischemic events or death over the next 5 years. Those without ischemic complications at presentation tend to fare
 
-![](_page_31_Picture_12.jpeg)
+![](ch14-01_page_31_Picture_12.jpeg)
 
 **FIGURE 93–43.** Typical angiographic appearance of Takayasu arteritis, showing focal ostial stenosis (*arrow*) of the left main coronary artery. Reproduced with permission from Jolly M, Bartholomew JR, Flamm S, Olin JW. Angina and coronary ostial lesions in a young woman as a presentation of Takayasu's arteritis. *Cardiovasc Surg*. 1999 Jun;7:443-446.
 

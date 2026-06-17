@@ -48,7 +48,7 @@ The biological mechanisms whereby elevated LDL produces atherosclerosis have bee
 
 Steps in progression of atherosclerosis have been studied in detail.27-33 The major stages of atherogenesis are summarized in Fig. 29–6. 33 Accumulation of large numbers of foam cells gives rise to fatty streaks. Some foam cells die and release their cholesterol esters into the interstitium, and over time the core of extracellular lipid expands. Later, smooth muscle cells from the medium began to produce fibrous connective tissue. This tissue forms a covering of the fatty streak; here the lesion is called a fibrous plaque (fibroatheroma). Continuous filtration of LDL
 
-![](_page_1_Figure_2.jpeg)
+![](ch05-04_page_1_Figure_2.jpeg)
 
 **FIGURE 29–1.** Lipoprotein structure. Because cholesterol and triglycerides are hydrophobic lipids that are insoluble in plasma, intravascular transport cannot occur with these lipids in their free state. Consequently, cholesterol esters and triglycerides are packaged into spherical lipoprotein particles that span a wide range of particle size and density. Lipoprotein particles are configured so that the outer surface is polar and the inner core is nonpolar. The surface of lipoprotein particles is composed of a phospholipid monolayer, nonesterified cholesterol, and various apolipoproteins. The core of lipoprotein particles contains variable amounts of cholesterol ester and triglycerides. Reproduced with permission from Davidson MH, Toth PP, Maki KC: *Therapeutic Lipidology*. Totowa: Humana Press; 2007.
 
@@ -58,7 +58,7 @@ When rupture occurs, plaque material discharges into the lumen of the artery, pr
 
 A unique form of LDL is called lipoprotein(a) [Lp(a)].39-42 This is an LDL particle in which apo B is covalently linked to another protein named apolipoprotein(a) [apo(a)]. Metabolism of Lp(a) is illustrated in Fig. 29–7. 43 The structure of apo(a) is genetically variable. This variability determines the size of the Lp(a) particle. Apo(a) is structurally related to plasminogen. It contains a variable number of "kringle IV" repeats, each of which consists of 114 amino acids. The greater the number of repeats, the lower is the plasma concentration of Lp(a).
 
-![](_page_1_Figure_7.jpeg)
+![](ch05-04_page_1_Figure_7.jpeg)
 
 **FIGURE 29–2.** Spectrum of lipoprotein particles. Cholesterol and triglycerides are lipid measures used to infer the amount of various lipoprotein particles. HDL, high-density lipoprotein, IDL, intermediate-density lipoprotein; LDL, low-density lipoprotein, Lp(a), lipoprotein a, VLDL, very-low-density lipoprotein.
 
@@ -80,19 +80,19 @@ The two main categories of hyperlipidemia are hypercholesterolemia and hypertrig
 
 Hypertriglyceridemia likewise is subdivided into normal, borderline high, high, and very high (Table 29–2).20
 
-![](_page_2_Figure_2.jpeg)
+![](ch05-04_page_2_Figure_2.jpeg)
 
 **FIGURE 29—3.** Intestinal synthesis and hepatic synthesis and metabolism of triglyceride-rich lipoprotein, with chylomicrons and exogenous pathway of lipoprotein biogenesis. FA, fatty acid; MTP, microsomal triglyceride transfer protein; PCSK9, proprotein convertase subtilisin/kinexin 9; TG, triglyceride; ApoB, apolipoprotein B; LDC-R, low density lipoprotein receptor; MG, monoglyceride; HSPG, heparin sulfate proteoglycan; NPLC1L1, Niemann-Pick C1-like. Reproduced with permission from Rosenson RS, Davidson MH, Hirsh BJ, et al: Genetics and causality of triglyceride-rich lipoproteins in atherosclerotic cardiovascular disease. *J Am Coll Cardiol*. 2014 Dec 16;64:2525-2540.
 
-![](_page_2_Figure_4.jpeg)
+![](ch05-04_page_2_Figure_4.jpeg)
 
 FIGURE 29—4. Very-low-density-lipoprotein (VLDL) and endogenous pathway of lipoprotein biogenesis. FA, fatty acid; LDL, low-density lipoprotein; MTP, microsomal triglyceride transfer protein. Reproduced with permission from Rosenson RS, Davidson MH, Hirsh BJ, et al: Genetics and causality of triglyceride-rich lipoproteins in atherosclerotic cardiovascular disease. *J Am Coll Cardiol.* 2014 Dec 16;64:2525–254.<sup>7</sup>
 
-![](_page_3_Figure_2.jpeg)
+![](ch05-04_page_3_Figure_2.jpeg)
 
 **FIGURE 29—5.** Apolipoprotein C-III and triglyceride-rich lipoprotein metabolism. CTEP, cholesteryl ester transfer protein; HDL, high-density lipoprotein; LDL, low-density lipoprotein; TG, triglyceride; VLDL, very-low-density lipoprotein. Reproduced with permission from Rosenson RS, Davidson MH, Hirsh BJ, et al: Genetics and causality of triglyceride-rich lipoproteins in atherosclerotic cardiovascular disease. *J Am Coll Cardiol.* 2014 Dec 16;64:2525-2540.
 
-![](_page_3_Figure_4.jpeg)
+![](ch05-04_page_3_Figure_4.jpeg)
 
 **FIGURE 29–6.** Atherogenesis. The progression of atherosclerosis is depicted from the earliest stages (*top left*) to the most advanced (*bottom right*), culminating in plaque rupture and associated thrombosis. Originally from Stary HC, Chandler AB, Dinsmore RE, et al.<sup>33</sup> Reproduced with permission from Stocker R, Keaney JF Jr: Role of oxidative modifications in atherosclerosis. *Physiol Rev*. 2004 Oct;84:1381–1478.
 
@@ -110,17 +110,17 @@ LDL receptor deficiency, or LDLR deficiency, is an autosomal dominant genetic di
 
 Familial defective apo B-100 (FDB) is a genetic defect in apo B-100 that causes moderate to severe hypercholesterolemia. The sults from a mutation in a single amino acid (Arg-Gln at position 3500 of the apo B molecule); this mutation reduces the ability of LDL to bind to the LDLR. It is relatively common (1/500 to 1/1000) in central Europe but much less common in other populations. FDB is accompanied by increased risk of ASCVD, but apparently less so than with LDLR deficiency.
 
-![](_page_4_Figure_2.jpeg)
+![](ch05-04_page_4_Figure_2.jpeg)
 
 FIGURE 29—7. Summary of pathological consequences of elevated lipoprotein(a) [Lp(a)]. A. Genetic architecture of apo(a). The genes for plasminogen (PLG) and apo(a) (LPA) are depicted on chromosome 6. LPA is transcribed into apo(a) consisting of kringle domains KIV1–KIV10, KV, and a protease–like domain, with variable number of tandem KIV2 repeats that determine apo(a) isoform size. A strong lysine binding site (LBS) is present in KIV10. B, Structure of Lp(a) and its content of oxidized phospholipids. Lp(a) consists of apo(a) covalently bound to apoB–100 through a disulfide bone in KIV9. Oxidized phospholipids (OxPL) are present within the lipid phase as well as covalently bound to Lp(a). C, Cardiovascular diseases associated with elevated Lp(a) include atherosclerosis (left), vascular calcification (middle) and aortic stenosis (right). Left panels depict optical coherence tomography (OCT) imaging of a thin fibrous cap atheroma "vulnerable plaque" with large necrotic cores (NC) and hemorrhage. The corresponding histologic specimen is shown below the OCT image. The overlying fibrous cap (FC) is thin (70 µm) and heavily infiltrated by macrophages. The middle panels depict intravascular ultrasonographic (IVUS) images using "virtual histology," show fibrous (dark green) and fibrofatty (light green) necrotic core (red) and calcified (white) tissue. The corresponding histologic specimen is shown below the IVUS images using "virtual histology," show fibrous (top) and the presence of aortic valve calcifications using multislice computed tomography. Figure from manuscript number CDTy-D-15-00241R1 (Experimental Animal Models Evaluating the Causal Role of Lipoprotein(a) in Atherosclerosis and Aortic Stenosis) by Yeang C, Cotter B, Tsimikas S). A reproduced with permission from Rao F, Schork AJ1, Maihofer AX, et al: Heritability of Biomarkers of Oxidized Lipoproteins: Twin Pair Study. Arterioscler Thromb Vasc Biol. 2015 Jul;35:1704-1711. C (left) reproduced with permission from Otsuka F, Joner M1, Prati F, et al: Clinica
 
-![](_page_5_Figure_2.jpeg)
+![](ch05-04_page_5_Figure_2.jpeg)
 
 **FIGURE 29–8.** Non–high-density lipoprotein (HDL). Non–HDL-cholesterol (HDL-C), a derived variable, is the sum of all cholesterol carried within atherogenic lipoproteins. One molecule of full-length apolipoprotein B (known as apo B-100) is present on all atherogenic lipoproteins, except for chylomicron remnants, whose defining shorter B-48 isoform is undetectable by common laboratory methods. Given these biochemical interconnections, concentrations of apo B and non–HDL-C are highly correlated. Apo B reflects the total particle number, whereas non–HDL-C integrates their total cholesterol content. However, correlation of both apo B and non–HDL-C with a third variable, namely lowdensity lipoprotein cholesterol (LDL-C), is more erratic. Box in upper right shows a "generic lipoprotein." IDL, intermediate-density lipoprotein; Lp(a), lipoprotein(a); TG, triglyceride; VLDL, very-low-density-lipoprotein. Reproduced with permission from Rosenson RS, Hegele RA2, Gotto AM, et al: Integrated Measure for Atherogenic Lipoproteins in the Modern Era: Risk Assessment Based on Apolipoprotein B. *J Am Coll Cardiol*. 2016 Jan 19;67:202-204.54
 
 *Autosomal recessive hypercholesterolemia (ARH*) is a recessive disorder characterized by very high levels of LDL-C, xanthomatosis, and premature ASCVD.81,82 It results from mutations in the ARH protein's phosphotyrosine binding domain, needed for internalization of LDL into the liver. ARH protein functions as an adapter that couples the LDL receptor to the endoplasmic reticulum. A defect in the protein impairs the normal function of the LDL receptor and results in severe hypercholesterolemia.
 
-![](_page_5_Figure_5.jpeg)
+![](ch05-04_page_5_Figure_5.jpeg)
 
 **FIGURE 29–9.** Particles of high-density lipoprotein (HDL) and/or its main protein constituent, apolipoprotein A-I, have diverse antiatherosclerotic influences. LDL, low-density lipoprotein. Reproduced with permission from Rosenson RS, Brewer HB, Ansell BJ, et al: Dysfunctional HDL and atherosclerotic cardiovascular disease. *Nat Rev Cardiol*. 2016 Jan;13:48-60.68
 
@@ -136,7 +136,7 @@ Genetic abnormalities affecting all types of TGRLP have been identified. These i
 
 *Familial combined hyperlipidemia* is said to be present when different lipoprotein phenotypes (eg, hypercholesterolemia, hypertriglyceridemia, or combined hyperlipidemia) occur in different members of the same family.88 To date, no single genetic defect has been identified to account for this condition. Most likely, it is a polygenic disorder.94 Familial combined hyperlipidemia is more frequently accompanied by premature ASCVD than is familial hypertriglyceridemia.95 Obesity and/or type 2 diabetes are common in familial combined hyperlipidemia; thus, a component of the abnormal lipoprotein patterns likely
 
-![](_page_6_Picture_2.jpeg)
+![](ch05-04_page_6_Picture_2.jpeg)
 
 FIGURE 29—10. Dysfunctional high-density lipoprotein (HDL). In the absence of myeloperoxidase activity, preβ-HDL (HDL-VS) binds to the ABCA1 transporter and initiates the efflux of cholesterol from macrophage foam cells with the concomitant conversion of preβ-HDL (HDL-VS) to HDLα4 (HDL-S). Oxidation of apoA-I on multiple residues by the proinflammatory enzyme myeloperoxidase might limit the capacity of HDL or apoA-I to mediate cholesterol efflux from macrophages and thus promote the development of experimental and human atherosclerosis. ABCA1, ATP-binding cassette transporter A1; ABCG1, ATP-binding cassette transporter G1; apoA-I, apolipoprotein A-I; apoB-100, apolipoprotein B-100; CE, cholesteryl ester; HDL-L, large HDL particle; HDL-S, small HDL particle; HDL-VL, very large HDL particle; HDL-VS, very small HDL particle; LCAT, lecithin—cholesterol acetyltransferase; LDL, low-density lipoprotein. Reproduced with permission from Rosenson RS, Brewer HB, Ansell BJ, et al: Dysfunctional HDL and atherosclerotic cardiovascular disease. *Nat Rev Cardiol*. 2016 Jan;13:48-60.
 
@@ -185,7 +185,7 @@ This diagnosis can be confirmed by detection of the E2:E2 genotype through genet
 
 *Familial type V hyperlipoproteinemia* is characterized by very high triglycerides in both VLDL and chylomicrons and present in multiple family members.90,110-112 This lipoprotein pattern may represent a severe form of familial hypertriglyceridemia.90 Many affected patients are obese or have type 2 diabetes. In them, overproduction of VLDL-TG and defective clearance of TGRLP are reported.90,113 This dual defect in metabolism of TGRLP likely accounts for elevations in both VLDL and chylomicrons. The defect in catabolism of TGRLP may be caused by a variety of catabolic abnormalities.114
 
-![](_page_8_Figure_2.jpeg)
+![](ch05-04_page_8_Figure_2.jpeg)
 
 **FIGURE 29–11.** Proprotein convertase subtilisin/kinexin 9 (PCSK9) and low-density lipoprotein (LDL) metabolism. LDL-R, LDL receptor. Reproduced with permission from Giugliano RP, Sabatine MS: Are PCSK9 Inhibitors the Next Breakthrough in the Cardiovascular Field? *Am Coll Cardiol*. 2015 Jun 23;65:2638-2651.74
 

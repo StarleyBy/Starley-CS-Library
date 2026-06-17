@@ -84,7 +84,7 @@ FPG, fasting plasma glucose; HDL, high-density lipoprotein; LDL, low-density lip
 
 Diabetes mellitus, whether type 1 or type 2, is a very strong risk factor for the development of coronary artery disease (CAD) and stroke6 (Table 28–1). Diabetes accelerates the natural course of atherosclerosis in all groups of patients and involves a greater number of coronary vessels with more diffuse atherosclerotic lesions (Fig. 28–1). Cardiac catheterizations in diabetic patients have shown significantly more severe proximal and distal coronary heart disease (CHD). In addition, plaque ulceration and thrombosis have been found to be significantly higher in diabetic patients. Cardiovascular complications include CHD, peripheral artery disease, nephropathy, retinopathy, cardiomyopathy, and possible neuropathy (involvement of vasa vasorum). These observations underscore the heightened risks of a diabetic patient of developing
 
-![](_page_1_Figure_18.jpeg)
+![](ch05-03_page_1_Figure_18.jpeg)
 
 **FIGURE 28–1.** Relationships between energy excess/obesity and risk factors of the metabolic syndrome. Reproduced with permission from Grundy SM: Metabolic syndrome update, *Trends Cardiovasc Med*. 2016 May;26:364-373.12
 
@@ -128,7 +128,7 @@ Treatment with an ACE inhibitor is preferred first choice even in African Americ
 
 Yearly creatinine clearance should be obtained with 24-hour urine collection and serum creatinine; most accurate way to estimate kidney function without using a radioisotope
 
-![](_page_2_Figure_2.jpeg)
+![](ch05-03_page_2_Figure_2.jpeg)
 
 **FIGURE 28–2.** Coronary artery disease (CAD) risk in patients with diabetes mellitus**.** A subset of genetically predisposed patients develops diabetic nephropathy. In these patients, the risk of CAD increases dramatically. AGE, advanced glycosylation end-product; GFR, glomerular filtration rate; HDL, high-density lipoprotein; LDL, low-density lipoprotein; Lp(a), lipoprotein(a); PAI, plasminogen activator inhibitor; VLDL, very-low-density lipoprotein; vWF, von Willebrand factor.
 
@@ -292,7 +292,7 @@ Physical activity is an important component of a comprehensive weight management
 
 The National Institutes of Health–sponsored The Action for Health in Diabetics (Look Ahead) trial of weight reduction and exercise in over 5000 type 2 diabetic patients sought to evaluate the role of modest weight loss and an exercise program on major cardiovascular events with at least 8 years of follow-up (Fig. 28–3).50 The trial was halted prematurely in September 2012 because of futility bringing into question whether lifestyle provides adequate cardioprotection in type 2 diabetes. The surrogate markers appeared favorable with a greater rate of modest weight loss in the intervention arm (4.7% vs 2.1% of initial weight was lost by year 8; *P* < .001) and with more than one-fourth of patients
 
-![](_page_5_Figure_17.jpeg)
+![](ch05-03_page_5_Figure_17.jpeg)
 
 **FIGURE 28–3.** Cumulative hazard curves for the primary composite end point in Look-AHEAD. Reproduced with permission from Look AHEAD Research Group, Wing RR, Bolin P, et al: Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes. *N Engl J Med*. 2013 Jul 11;369:145-154.50
 
@@ -302,9 +302,9 @@ in the intervention group losing at least 10% of initial weight in the long-term
 
 The Mediterranean diet, originally coined by Ansel Keys, is rich in fruits, vegetables, and olive oil, with the addition of chick peas, bulgur, couscous, lentils, and fava beans. It is very limited in the consumption of red meat and eggs. Emerging evidence has shown that adoption of the Mediterranean diet has positive effects on the progression of type 2 diabetes and on cardiovascular outcomes. Shia and colleagues first showed that rates of type 2 diabetes development and progression can be markedly reduced.51 The transformational Prevención con Dieta Mediterránea (PREDIMED) study in Spain demonstrated a 52% reduction (95% CI, 0.27-0.86) in the development of type 2 diabetes mellitus in primary prevention cohort52 (Fig. 28–4). At present, the evidence for the preventive effects of the Mediterranean diet in type 2
 
-![](_page_6_Figure_6.jpeg)
+![](ch05-03_page_6_Figure_6.jpeg)
 
-![](_page_6_Figure_7.jpeg)
+![](ch05-03_page_6_Figure_7.jpeg)
 
 **FIGURE 28–4.** Kaplan-Meier estimates of the incidence of outcome events in the total study population. EVOO, extra virgin olive oil; Med, Mediterranean diet. Reproduced with permission from Estruch R, Ros E, Salas-Salvadó J, et al: Primary prevention of cardiovascular disease with a Mediterranean diet. *N Engl J Med*. 2013 Apr 4;368:1279-1290.52
 
@@ -344,7 +344,7 @@ Insulin is used in the management of type 1 diabetes mellitus or type 2 diabetes
 
 Basal insulin can be initiated at 10 units per day or 0.1 to 0.2 units per kg/d. Then basal insulin is adjusted 10% to 15% or two or four units once or twice weekly to reach the fasting blood glucose target. Although this is not the topic of this chapter, it is important to note that working closely with the endocrinologists will allow cardiovascular specialists to be more involved in the care of their patients, including those for whom insulin is prescribed. When more complex insulin regimens are used beyond basal insulin strategies, combination of insulin with oral antidiabetic drugs is common.
 
-![](_page_8_Figure_2.jpeg)
+![](ch05-03_page_8_Figure_2.jpeg)
 
 FIGURE 28—5. American Diabetes Association algorithm for type 2 diabetes. fx, factor; GI, gastrointestinal; GU, genitourinary; HF, heart failure; SU, sulfonylurea; TZD, thiazolidinedione. Reproduced with permission from Inzucchi SE, Bergenstal RM, Buse JB, et al: Management of hyperglycemia in type 2 diabetes, 2015: a patient-centered approach: update to a position statement of the American Diabetes Association and the European Association for the Study of Diabetes. Diabetes Care. 2015 Jan;38:140–149.
 
@@ -352,7 +352,7 @@ FIGURE 28—5. American Diabetes Association algorithm for type 2 diabetes. fx, 
 
 FIGURE 28—6. American Association of Clinical Endocrinologists/American College Endocrinology (AACE/ACE) comprehensive diabetes management algorithm. GLN, glinide; GLP, glucagon-like peptide; MET, metformin; SU, sulfonylurea; TZD, thiazolidinedione. Reproduced with permission from Garber AJ, Abrahamson MJ, Barzilay JI, et al: AACE/ACE comprehensive diabetes management algorithm 2015, Endocr Pract. 2015 Apr;21:438-447.
 
-![](_page_9_Figure_2.jpeg)
+![](ch05-03_page_9_Figure_2.jpeg)
 
 **FIGURE 28–7.** Patient-centered approach to the management of hyperglycemia. Reproduced with permission from Ismail-Beigi F, Moghissi E, Tiktin M, et al: Individualizing glycemic targets in type 2 diabetes mellitus: implications of recent clinical trials. *Ann Intern Med*. 2011 Apr 19;154:554-559.
 
@@ -468,7 +468,7 @@ The evidence for a cardioprotective effect of rosiglitazone is not apparent. In 
 
 **Sulfonylureas** Sulfonylureas72 are the oldest class of treatment for type 2 diabetes mellitus. The mode of action is by stimulating β-cell insulin secretion.
 
-![](_page_14_Figure_2.jpeg)
+![](ch05-03_page_14_Figure_2.jpeg)
 
 **FIGURE 28–8.** Ominous octet mechanism of action of hypoglycemic agents. Reproduced with permission from Defronzo RA: Banting Lecture. From the triumvirate to the ominous octet: a new paradigm for the treatment of type 2 diabetes mellitus. *Diabetes*. 2009 Apr;58:773–795.
 
@@ -504,7 +504,7 @@ In light of the SAVOR trial finding of about a 25% increase in heart failure hos
 
 The EMPA-REG trial was conducted to examine the long-term effects of empagliflozin versus standard of care on cardiovascular morbidity and mortality in type 2 diabetes. <sup>92</sup> This was a randomized, double-blind, placebo-controlled trial that was conducted at 590 sites
 
-![](_page_15_Figure_2.jpeg)
+![](ch05-03_page_15_Figure_2.jpeg)
 
 **FIGURE 28–9.** Glucose-lowering drugs or strategies and cardiovascular outcomes in patients with or at risk for type 2 diabetes: a meta-analysis of randomized controlled trials. HGP, hyperglycemia; MET, metformin; SU, sulfonylurea; TZD, thiazolidinedione. Reproduced with permission from Udell JA, Cavender MA2, Bhatt DL, et al:Glucose-lowering drugs or strategies and cardiovascular outcomes in patients with or at risk for type 2 diabetes: a meta-analysis of randomised controlled trials. *Lancet Diabetes Endocrinol*. 2015 May;3:356-366.90
 
@@ -522,7 +522,7 @@ With the publication of ACCORD, ADVANCE, VADT, STENO-2 Mortality, and UKPDS-10 y
 
 The ACCORD trial is a pivotal randomized study sponsored by the National Heart Lung and Blood Institute (NHLBI), including over individuals with type 2 diabetes mellitus and established cardiovascular disease or additional cardiovascular risk factors. In one part of the trial, the comparison between tight glycemic control to keep
 
-![](_page_16_Figure_2.jpeg)
+![](ch05-03_page_16_Figure_2.jpeg)
 
 **FIGURE 28–10.** Cardiovascular outcomes in the EMPA-REG trial. Reproduced with permission from Zinman B, Wanner C, Lachin JM, et al: Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes. *N Engl J Med*. 2015 Nov 26;373:2117-28.92
 
@@ -654,7 +654,7 @@ Bariatric procedures are not only reducing glycated hemoglobin levels but also t
 
 It is important to fully evaluate the patient for existing or risk for cardiovascular disease and improve glycemic control preoperatively so as to decrease the risk of complications. It is important to counsel patients on the risks of surgery, including mortality, depression, hypoglycemia, nutritional deficiencies, osteoporosis, and weight regain over the long-term. Very little data are currently available on the long-term consequences of surgery for weight loss in people with diabetes. The potential benefits should be weighed against short- and long-term risks.
 
-![](_page_20_Picture_2.jpeg)
+![](ch05-03_page_20_Picture_2.jpeg)
 
 **FIGURE 28–11.** Different types of bariatric surgery. This figure outlines the different types of bariatric surgery performed in the United States.
 
@@ -674,7 +674,7 @@ Successful pancreas transplantation will reverse the thickening of glomeruli and
 
 The closed-looped artificial pancreas is being aggressively developed. Russell, Damiano, and colleagues in Boston have shown that compared to an insulin pump, a wearable, automated bionic pancreas delivering both insulin and glucagon was able to improve glycemic targets with less frequent episodes of hypoglycemia over a 5-day period in 20 adults and 32 adolescents with type 1 diabetes mellitus.132
 
-![](_page_21_Figure_2.jpeg)
+![](ch05-03_page_21_Figure_2.jpeg)
 
 FIGURE 28—12. STAMPEDE, with mean changes in measures of diabetes control from baseline to 3 years. BMI, body mass index. Reproduced with permission from Schauer PR, Bhatt DL, Kirwan JP, et al: Bariatric surgery versus intensive medical therapy for diabetes—3-year outcomes. N Engl J Med. 2014 May 22;370:2002–2013.<sup>127</sup>
 

@@ -38,7 +38,7 @@ The mechanism of AF may be multifactorial, including electrophysiologic and stru
 
 Spontaneous ectopy from muscular sleeves of pulmonary veins can serve as triggers of AF. Rapidly firing ectopic foci in pulmonary veins have been shown to be the underlying mechanism of most paroxysmal AF (Fig. 83–2).13,14 The pulmonary vein musculature of patients with paroxysmal AF demonstrates a markedly reduced effective refractory period and conduction delay.15 Rapidly firing foci can often be recorded within the pulmonary veins with conduction block to the left atrium (LA) (Fig. 83–3).13,14 Discontinuous properties of conduction within the pulmonary vein may also provide a substrate for reentry within the pulmonary vein itself.16 Although most triggering foci that are mapped during electrophysiologic studies occur in the pulmonary
 
-![](_page_1_Figure_2.jpeg)
+![](ch13-06_page_1_Figure_2.jpeg)
 
 **FIGURE 83–1.** Twelve-lead electrocardiogram of atrial fibrillation. Note the rapid, irregular, low-amplitude fibrillatory waves with varying morphology and an irregularly irregular ventricular response.
 
@@ -71,11 +71,11 @@ ERP dispersion together with spontaneous or stretch-induced ectopic activity may
 
 The reduction of atrial contractility during AF may enhance atrial dilatation, leading to persistent AF.
 
-![](_page_2_Figure_2.jpeg)
+![](ch13-06_page_2_Figure_2.jpeg)
 
 **FIGURE 83–2.** Rapid firing in a pulmonary vein (PV) with the spontaneous onset of atrial fibrillation (AFib). Two sinus beats are followed by a premature atrial complex (PAC) then rapid ectopy seen on a catheter positioned in a PV that starts AFib.
 
-![](_page_2_Figure_4.jpeg)
+![](ch13-06_page_2_Figure_4.jpeg)
 
 **FIGURE 83–3.** Simultaneous recordings of surface electrocardiographic lead I and bipolar electrograms from the right superior pulmonary vein (PV) of a patient after catheter ablation at the ostium of the vein produced conduction block from the vein into the left atrium. Note the rapid, irregular electrical activity recorded with a 64-electrode basket catheter within the pulmonary vein, with sinus rhythm in the remainder of the atria as recorded on the surface electrocardiogram.
 
@@ -89,7 +89,7 @@ Li and colleagues29 demonstrated in a canine model of heart failure that interst
 
 In a population-based study of elderly patients without AF at baseline, Tsang and coworkers38 demonstrated that AF developed in direct relation to the echocardiographic left atrial volume index. An even stronger predictor of the development of nonvalvular AF was a restrictive transmitral Doppler flow pattern. Thus clinical evidence for diastolic dysfunction strongly supports the concept that myocardial stretch is an important mechanism of AF in the elderly. Altered stretch on atrial
 
-![](_page_3_Figure_8.jpeg)
+![](ch13-06_page_3_Figure_8.jpeg)
 
 **FIGURE 83–4.** Catheter ablation to isolate the pulmonary veins and rotor mapping and ablation. **A.** Three-dimensional electroanatomic map of left (*blue*) and right (*gray*) atria in a patient with atrial fibrillation (AF). The *red dots* are ablation lesions that isolate the pulmonary veins in the left atrium, and target a rotor in the right atrium. **B.** A right atrial rotor activation sequence (*arrow*). **C.** Ablation of the rotor results in sudden termination of AF and restores sinus rhythm. Modified with permission from Prystowsky EN, Padanilam BJ, Fogel RI: Treatment of Atrial Fibrillation. *JAMA* 2015 Jul 21;314:278-288.
 
@@ -113,7 +113,7 @@ Stroke is the most common clinical thromboembolic event in AF, and approximately
 
 In occasional patients, the first clinical manifestation of AF may be CHF related to a tachycardia-induced cardiomyopathy.2,55,56 The left ventricular (LV) dysfunction develops as a result of sustained high
 
-![](_page_4_Figure_13.jpeg)
+![](ch13-06_page_4_Figure_13.jpeg)
 
 **FIGURE 83–5.** Atrial fibrillation with rapid ventricular response over an accessory pathway. HBED, distal His bundle electrogram; HBEP, proximal His bundle electrogram; HRA, high right atrium; RV, right ventricle.
 
@@ -131,7 +131,7 @@ Prevention of the disease-related complications (thromboembolism and tachycardia
 
 **Risk Stratification** Not all AF patients are at high risk for stroke. The recognized clinical markers predicting increased risk for stroke in AF are prior stroke or transient ischemic attack, hypertension, diabetes mellitus, HF, and age older than 75 years (Table 83–2).<sup>3</sup> Other less
 
-![](_page_5_Figure_10.jpeg)
+![](ch13-06_page_5_Figure_10.jpeg)
 
 \*May be first-line therapy in paroxysmal AF in experienced centers.
 
@@ -192,19 +192,19 @@ Several trials compared the safety and efficacy of alternative oral anticoagulan
 
 #### **Adjusted-dose warfarin compared with placebo**
 
-![](_page_7_Figure_3.jpeg)
+![](ch13-06_page_7_Figure_3.jpeg)
 
 **FIGURE 83–7.** Effects of warfarin versus placebo on risk of stroke in six randomized, placebo-controlled clinical trials in nonvalvular atrial fibrillation. AFASAK I, The Copenhagen Atrial Fibrillation, Aspirin, and Anticoagulant Therapy Study; BAATAF, Boston Area Anticoagulation Trial for Atrial Fibrillation; CAFA, Canadian Atrial Fibrillation Anticoagulation; CI, confidence interval; EAFT, European Atrial Fibrillation Trial; SPAF, Stroke Prevention in Atrial Fibrillation; SPINAF, Stroke Prevention in Atrial Fibrillation. Data from Hart RG, Benavente O, McBride R, et al. Antithrombotic therapy to prevent stroke in patients with atrial fibrillation: A meta-analysis. *Ann Intern Med*. 1999 Oct 5;131:492-501.
 
 the risk of major vascular events, especially stroke, but increased the risk of major hemorrhage.70 Several target-specific novel oral anticoagulants (NOACs) act by direct inhibition of thrombin (dabigatran) or activated factor X (rivaroxaban, apixaban, and edoxaban). Unlike vitamin K antagonists, these anticoagulants do not require routine INR monitoring and possess favorable pharmacological properties. They act rapidly, and have a stable and predictable dose-related anticoagulant effect with few clinically relevant drug-drug interactions. Trials comparing these agents to warfarin for stroke prevention in patients with nonvalvular AF demonstrated that they are at least as efficacious and safe as warfarin.75 Clinical practice guidelines have incorporated these anticoagulants for
 
-![](_page_7_Figure_6.jpeg)
+![](ch13-06_page_7_Figure_6.jpeg)
 
 **FIGURE 83–8.** Effects of aspirin versus placebo on risk of stroke in five randomized, placebo-controlled trials in nonvalvular atrial fibrillation. AFASAK I, The Copenhagen Atrial Fibrillation, Aspirin, and Anticoagulant Therapy Study; CI, confidence interval; EAFT, European Atrial Fibrillation Trial; ESPS II, European Stroke Prevention Study; LASAF, Alternate-Day Dosing of Aspirin in Atrial Fibrillation Pilot Study Group; SPAF I, Stroke Prevention in Atrial Fibrillation; UK-TIA, United Kingdom Transient Ischaemic Attack Trial. Data from Hart RG, Benavente O, McBride R, et al. Antithrombotic therapy to prevent stroke in patients with atrial fibrillation: A meta-analysis. *Ann Intern Med*. 1999 Oct 5;131:492-501.
 
 #### **Warfarin compared with aspirin**
 
-![](_page_7_Figure_9.jpeg)
+![](ch13-06_page_7_Figure_9.jpeg)
 
 **FIGURE 83–9.** Effects of aspirin versus warfarin on risk of stroke in five randomized, controlled clinical trials in nonvalvular atrial fibrillation. AFASAK I and AFASAK II, The Copenhagen Atrial Fibrillation, Aspirin, and Anticoagulant Therapy Study; EAFT, European Atrial Fibrillation Trial; PATAF, Primary Prevention of Arterial Thromboembolism in Non-rheumatic Atrial Fibrillation; SPAF II, Stroke Prevention in Atrial Fibrillation. Data from Hart RG, Benavente O, McBride R, et al. Antithrombotic therapy to prevent stroke in patients with atrial fibrillation: A meta-analysis. *Ann Intern Med*. 1999 Oct 5;131:492-501.
 
@@ -286,7 +286,7 @@ Vernakalant is a multichannel blocker that was studied extensively in an intrave
 
 Catheter Ablation The observation that rapidly firing atrial impulses from the pulmonary veins could initiate AF led to the catheter ablation approach of pulmonary vein isolation (PVI) to cure AF13 (see Fig. 83–3). Although the site of initiation of AF may be noted during
 
-![](_page_11_Figure_2.jpeg)
+![](ch13-06_page_11_Figure_2.jpeg)
 
 **FIGURE 83–10.** Spontaneous onset of atrial fibrillation (AF) by rapid firing from a pulmonary vein (PV). The onset of AF (*arrow*) is produced by rapid firing from the PV electrode pair of a circular mapping catheter in the PV. Note that PV activity occurs before the coronary sinus (CS) electrograms. d, distal; HBE, His bundle electrogram; p, proximal.
 
@@ -312,7 +312,7 @@ The term *atrial flutter* is generally used to describe atrial arrhythmias with 
 
 Typical atrial flutter, also called *counterclockwise atrial flutter*, is characterized by negative sawtooth flutter waves (Fig. 83–11); and reverse
 
-![](_page_12_Figure_2.jpeg)
+![](ch13-06_page_12_Figure_2.jpeg)
 
 **FIGURE 83–11.** Twelve-lead electrocardiogram of typical atrial flutter. Note the negative flutter waves in leads II, III, and aVF and the upright flutter waves in lead V1 . This is characteristic of counterclockwise, isthmusdependent atrial flutter.
 
@@ -334,7 +334,7 @@ Although the choice between rate and rhythm control is similar to that in AF, th
 
 Initial management of atrial flutter is similar to treatment of AF. Urgent conversion to sinus rhythm or rapid control of the ventricular
 
-![](_page_13_Figure_2.jpeg)
+![](ch13-06_page_13_Figure_2.jpeg)
 
 **FIGURE 83–12.** Twelve-lead electrocardiogram of a left atrial flutter that did not involve the usual cavotricuspid isthmus. Note the upright flutter waves in leads II, III, and aVF and the upright flutter waves in lead V1
 

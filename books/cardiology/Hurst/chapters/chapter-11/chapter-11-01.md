@@ -96,7 +96,7 @@ Abbreviation: HIV, human immunodeficiency virus.
 
 HF can also be described by the predominant ventricle affected, although this is in part an artificial division because the ventricles are functionally and structurally related to each other; left-sided dysfunction can contribute to the right-side dysfunction and vice versa, and the two often coexist. HF with left ventricular dysfunction is classically associated with signs and symptoms of pulmonary congestion, whereas
 
-![](_page_1_Figure_42.jpeg)
+![](ch11-01_page_1_Figure_42.jpeg)
 
 **FIGURE 68–1.** Contribution of acute decompensated heart failure events to the progression of heart failure. Myocardial function tends to decrease over time, in particular in response to acute decompensated heart failure events. Reproduced with permission from Gheorghiade M, De Luca L, Fonarow GC, et al: Pathophysiologic targets in the early phase of acute heart failure syndromes. *Am J Cardiol*. 2005 Sep 19;96(6A):11G-17G.5
 
@@ -108,7 +108,7 @@ Approximately half of HF patients have HFrEF and half have HFpEF. This is typica
 
 Distinction between HFpEF and HFrEF is important because therapies that have a proven mortality and morbidity benefit in patients with HFrEF do not appear to be effective in patients with HFpEF,10,12,14,16,17 and to some extent, these conditions may have fundamentally different pathophysiologic mechanisms and phenotypes. However, some believe that negative or neutral results from these trials are more reflective of the heterogeneity of the HFpEF population (some of whom may respond to therapy) more than lack of benefit. For example, the Treatment of Preserved Cardiac Function Heart Failure With an Aldosterone Antagonist (TOPCAT) trial randomized 3445 chronic HF patients with LVEF ≥ 45% to spironolactone or placebo over 3 years. Although the study was overall negative for the primary composite end point (death from cardiovascular causes,
 
-![](_page_2_Figure_2.jpeg)
+![](ch11-01_page_2_Figure_2.jpeg)
 
 **FIGURE 68–2.** Daily median pulmonary artery diastolic pressures as estimated by intracardiac implantable continuous hemodynamic monitor beginning 60 days before acute decompensated heart failure episode and continuing for 14 days after the event: results from the Chronicle Offers Management to Patients With Advanced Signs and Symptoms of Heart Failure (COMPASS-HF) trial. ePAD, estimated pulmonary artery diastolic pressure. Reproduced with permission from Zile MR, Bennett TD, St John Sutton M, et al: Transition from chronic compensated to acute decompensated heart failure: pathophysiological insights obtained from continuous monitoring of intracardiac pressures. *Circulation*. 2008 Sep 30;118:1433-1441.6
 
@@ -128,7 +128,7 @@ HF can be caused by a number of different cardiovascular disease processes (see 
 
 Alterations are found in the failing heart in numerous contractile proteins, especially in heredity-based dilated cardiomyopathies. In the latter situation, these alterations can interact with additional injuries or abnormal loading conditions to result in HF. Such alterations found in the contractile proteins (myosin and actin), regulatory proteins (troponins and tropomyosin), and cytoskeletal proteins (myosin-binding protein C and titin) are likely to contribute to diminished myocardial performance. In the failing human heart, many changes in gene expression at the messenger ribonucleic acid (mRNA) or protein level have
 
-![](_page_2_Figure_13.jpeg)
+![](ch11-01_page_2_Figure_13.jpeg)
 
 **FIGURE 68–3.** The interconnected relationship between cardiac injury, extracardiac injury, neurohormonal activation, and cardiac remodeling.
 
@@ -138,7 +138,7 @@ Sarcomere Proteins The fact that more than half of the volume of cardiac myocyte
 
 There is a general agreement that myofibril function is decreased in the failing human heart, but its causative role remains controversial. Downregulation of  $\alpha\text{-MHC}$  and upregulation of  $\beta\text{-MHC}$  using mRNA measurements from right ventricular endomyocardial biopsies from non-HF and HF patients has been demonstrated, and their sequential changes can be observed with recovery of cardiac performance.  $^{19,20}$  This alteration, if translated into protein expression, would decrease myosin adenosine triphosphatase (ATPase) enzyme velocity and slow the speed of contraction. Although such adaptive changes may provide a survival advantage in the face of increased load, slower contraction and relaxation could also contribute to abnormal myocardial relaxation (also known as lusitropy). In addition, isoform changes involving both
 
-![](_page_3_Figure_5.jpeg)
+![](ch11-01_page_3_Figure_5.jpeg)
 
 **FIGURE 68–4.** The sarcomere is the basic unit of the contractile proteins in the cardiomyocyte that allows the cardiomyocyte to contract. Tn, troponin. Reproduced with permission from Yin Z, Ren J and Guo W. Sarcomeric protein isoform transitions in cardiac muscle: a journey to heart failure. *Biochim Biophys Acta*. 2015 Jan;1852:47–52. <sup>18</sup>
 
@@ -148,7 +148,7 @@ Cell Membrane Ion Channels and Intracellular Calcium Kinetic Proteins Plasma mem
 
 Excitation-Contraction Coupling Proteins Excitation-contraction coupling links plasma membrane depolarization to the release of calcium into the cytosol, where it binds to troponin C, permitting the force-generating interaction between myosin and actin and ultimately contraction (see Fig. 68–5). Relaxation is also an energy-dependent process but is not simply a reversal of the steps in excitation-contraction coupling. During relaxation, Ca²+ is actively transported out of the cytosol by entirely different molecular pumps. The basic mechanism of cardiac excitation-contraction coupling involves Ca²+ entry from the extracellular fluid by means of the voltage-dependent L-type calcium channel to produce a trigger in increasing [Ca²+]<sub>i</sub> and opening of the intracellular SR Ca²+ release channel or RyR. Key defects in SR Ca²+ uptake and release are present in HF including dysregulation of RyR, RyR2/Ca²+ release channel macromolecular complexes, and the SR calcium transport proteins, especially the sarcoplasmic-endoplasmic reticulum calcium
 
-![](_page_4_Figure_2.jpeg)
+![](ch11-01_page_4_Figure_2.jpeg)
 
 **FIGURE 68–5.** Cell membrane ion channels and intracellular calcium kinetic proteins initiate excitation-contraction, generating and propagating the action potentials that depolarize the myocardium. ADP, adenosine diphosphate; ATP, adenosine triphosphate, CASQ2, calsequestrin isoform 2; CK, creatine kinase; Cr, creatine; FKBP12.6, RyR2 accessory-binding protein; HRC, histidine-rich calcium-binding protein; JNC, junction; MCU, mitochondrial calcium uniporter; MFN2, mitofusin isoform 2; mNCX, mitochondrial sodium-calcium exchanger; Na,K-ATPase, sodium-potassium ATPase; NCX, sodium calcium exchanger; PCr, phosphocreatine; PLN, phospholamban; PMCA, plasma membrane calcium ATPase; ROS, reactive oxygen species; RyR2, ryanodine receptor isoform 2; SERCA2a, sarco(endo)plasmic reticulum calcium ATPase; S100A1, S100 calcium-binding protein A1; TCA, tricarboxylic acid; TN-C, troponin-C; TRI, triadin; VDAC, voltage-dependent anion channel. Reproduced with permission from Gorski PA, Ceholski DK and Hajjar RJ. Altered myocardial calcium cycling and energetics in heart failure-a rational approach for disease treatment. *Cell Metab.* 2015 Feb 3;21:183-194.24
 
@@ -264,7 +264,7 @@ Recently, drugs designed to inhibit degradation of natriuretic peptides (neutral
 
 Endothelin acts on at least two types of G protein–coupled receptors, A and B. The ET-A receptor increases smooth muscle vasoconstriction, cell proliferation, and hypertrophy and mainly resides on vascular smooth muscle cells. The ET-B receptor, which is mainly endothelial, promotes vasodilatation that is probably mediated by a
 
-![](_page_8_Figure_2.jpeg)
+![](ch11-01_page_8_Figure_2.jpeg)
 
 **FIGURE 68–6.** Synthesis and degradation of B-type natriuretic peptide (BNP). Neutral endopeptidase breaks down the biologically active BNP into inactive fragments. DPP, dipeptidyl peptidase; NT-proBNP, N-terminal pro–B-type natriuretic peptide. Reproduced with permsision from Kim HN and Januzzi JL, Jr. Natriuretic peptide testing in heart failure. *Circulation*. 2011 May 10;123:2015-9.100
 
@@ -280,7 +280,7 @@ Elevated circulating levels of TNF-α can mediate cell growth, negative inotropy
 
 Biomarkers of oxidative stress such as myeloperoxidase, albeit nonspecific, are often elevated in patients with chronic HF.125,126 Markers of oxidative stress were positively correlated to HF severity irrespective of its underlying cause.124 However, the precise mechanisms contributing
 
-![](_page_9_Figure_2.jpeg)
+![](ch11-01_page_9_Figure_2.jpeg)
 
 **FIGURE 68–7.** Acute inflammatory response. Infectious pathogens as well as noninfectious tissue injury producing cellular debris activate the pattern recognition receptors, which is a part of the innate immune response. Innate immunity is activated in resident cells that express membrane or intracellular pattern recognition receptors and/or Nod-like receptors. The resident cells initiate and sustain the inflammatory response by activating the inflammasome, producing interleukin-1β (IL-1β) and secondary cytokines and chemokines, and by recruiting immune cells (neutrophil, monocytes, macrophages, and lymphocytes). Immune cells clear the matrix and cellular debris produced by the injury and coordinate all the phases of healing. The healing process is then completed with the transition of macrophages from M1 to M2 phenotype and the collagen deposition by fibroblasts to form the reparative scar. Reproduced with permission from Toldo S, Mezzaroma E, Mauro AG, Salloum F, et al: The inflammasome in myocardial injury and cardiac remodeling. *Antioxid Redox Signal*. 2015 May 1;22:1146-1161. <sup>121</sup>
 
@@ -322,7 +322,7 @@ Oxygen deprivation, which is most often caused by coronary artery disease, resul
 
 In HF, myocardial demand may be increased for a variety of reasons including increased myocardial wall tension caused by myocardial hypertrophy and inefficient contractile energy metabolism. This increase can result in extraction of a greater amount of oxygen from each unit of coronary blood flow and widened coronary arteriovenous oxygen differential. Although significant reduction in coronary
 
-![](_page_11_Figure_7.jpeg)
+![](ch11-01_page_11_Figure_7.jpeg)
 
 **FIGURE 68–8.** Frank-Starling relation in heart failure. Idealized family of Frank-Starling curves produced by worsening ventricular function in heart failure. In ventricles with normal cardiac performance, there is a steep and positive relationship between increased cardiac filling pressures (as estimated from the left ventricular enddiastolic or pulmonary capillary wedge pressure) and increased stroke volume or cardiac output (top curve). By comparison, during progression from mild to severe myocardial dysfunction, this relationship is right shifted (ie, a higher filling pressure is required to achieve the same cardiac output) and flattened so that continued increases in left heart filling pressures lead to minimal increases in cardiac output at the possible expense of pulmonary edema. The onset of mild heart failure results in an initial reduction in cardiac function (from point A to point B), a change that can be normalized, at least at rest, by raising the left ventricular end-diastolic pressure (LVEDP) via fluid retention (point C). Diuretic therapy reduces left ventricular filling pressure at the expense of mildly decreased cardiac output (moving from point C to point B). By comparison, normalization of stroke volume is not attainable in severe heart failure (bottom curve). Reproduced with permission from: Cohn JN. Cardiac remodeling: Basic aspects. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. (Accessed on January.) Copyright ©2017 UpToDate, Inc. For more information visit [www.uptodate.com.](http://www.uptodate.com)
 
@@ -395,13 +395,13 @@ Obstructive
 
 well, and this may, in part, explain the lack of demonstrated therapeutic benefit in large phase III trials of nontargeted therapies to date.188 Incomplete understanding of the pathophysiology of HFpEF and lack of clear diagnostic criteria further add to the challenges surrounding HFpEF, and better understanding is direly needed. Nonetheless, some of the known and shared pathophysiologic features are discussed. Two of the most important, and best studied, aspects of HFpEF are diastolic LV dysfunction and LV stiffness, but other contributing factors include LV systolic dysfunction, extracardiac vascular dysfunction, incoordination of the LV and the vascular system, and impaired reserve system and volume status.
 
-![](_page_13_Figure_21.jpeg)
+![](ch11-01_page_13_Figure_21.jpeg)
 
 **FIGURE 68–9.** Contributing factors in heart failure with preserved ejection fraction (EF). Hypertension and diabetes are the most common factors in heart failure with preserved EF. BP, blood pressure; COPD, chronic obstructive pulmonary disease; ROS, reactive oxygen species. Reproduced with permission from Senni M, Paulus WJ, Gavazzi A, et al: New strategies for heart failure with preserved ejection fraction: the importance of targeted therapies for heart failure phenotypes. *Eur Heart J*. 2014 Oct 21;35:2797-2815.188
 
-![](_page_14_Figure_2.jpeg)
+![](ch11-01_page_14_Figure_2.jpeg)
 
-![](_page_14_Figure_3.jpeg)
+![](ch11-01_page_14_Figure_3.jpeg)
 
 **FIGURE 68–10.** The *left* panel shows a schematized left ventricular (LV) pressure-volume loop from a patient with primary systolic failure. A normal LV pressure-volume loop (*solid loop*) is shown on the left portion of the curve; the transition to inotropic failure (*dashed loop*) is shown on the right. Systolic failure is manifest as an increase in LV end-systolic volume and as a reduction in the extent of shortening (stroke volume). LV enddiastolic pressure (LVEDP) is increased because LV volume is increased. As indicated by the *arrow*, the diastolic portion of the pressure–volume loop has simply shifted to the right, along the same diastolic pressure-volume relationship; thus, no change in the distensibility of the left ventricle has occurred. The right panel shows an LV pressure-volume loop from a patient with primary diastolic failure (*dashed loop*). In this setting, LV volume may be smaller than in systolic failure. Note that the LVEDP is the same as that in the patient with primary inotropic failure, as denoted by the heavy dots on both pressure-volume loops. In the *right panel*, however, this is caused by an upward shift of the LV diastolic pressure-volume relationship (*arrows*), which indicates a decrease in LV diastolic distensibility such that a higher diastolic pressure is required to achieve the same diastolic volume. In this patient, no change in end-diastolic volume or systolic shortening has occurred. Reproduced with permission from Lorell BH. Left ventricular diastolic pressure-volume relations: understanding and managing congestive heart failure. *Heart Failure* 1988;4:206-223.
 
@@ -424,11 +424,11 @@ where P0 = LV pressure at end ejection; t = time, and τ = tau.
 
 Normally, tau is less than 40 milliseconds, and the larger the tau, the more impaired is the relaxation. More commonly, LV relaxation is estimated from echocardiographic data. Depending on LA pressure, LV pressure, and the gradient between LA and LV pressures, the transmitral Doppler flow velocity pattern during diastole is reflective of various degrees of diastolic dysfunction (Fig. 68–12). Mitral annular velocity during early diastole (e′) with tissue Doppler also provides more preload-independent information regarding LV relaxation. E/e′ ratio correlates reasonably with filling pressures; high E/e′ ratio is suggestive of elevated filling pressures. Transmitral flow velocity pattern,
 
-![](_page_14_Figure_15.jpeg)
+![](ch11-01_page_14_Figure_15.jpeg)
 
 **FIGURE 68–11.** Contribution to left ventricular (LV) filling during diastole in individuals without heart failure. In addition, there are many determinants of early rapid filling. LA, left atrial.
 
-![](_page_15_Figure_2.jpeg)
+![](ch11-01_page_15_Figure_2.jpeg)
 
 **FIGURE 68**—12. Doppler echocardiographic evidence of diastolic dysfunction. A<sub>m</sub>, atrial mitral annulus velocity; E<sub>m</sub>, early mitral annulus velocity; IVRT, isovolemic relaxation time; LA, left atrium; LV, left ventricle; PV<sub>g</sub>, atrial pulmonary vein flow velocity; PV<sub>g</sub>, diastolic pulmonary vein flow velocity; PV<sub>g</sub>, systolic mitral annulus velocity. Reproduced with permission from Faggiano P, Vizzardi E, Pulcini E, et al: The study of left ventricular diastolic function by Doppler echocardiography: the essential for the clinician. *Heart international*. 2007;3(1–2):42–50.
 

@@ -88,7 +88,7 @@ Many cultural and social factors impact demographic patterns of HIV/AIDS.6,7 In 
 
 HIV-1 is a single-stranded RNA retrovirus from the *Lentivirus* family that invades cells containing specific membrane receptors and incorporates a DNA copy of itself into the host's genome. Immune deficiency is the result of viral and immune-mediated destruction of CD4+ lymphocytes caused by continuous high-level HIV-1 replication. The reduction in the number of CD4+ cells circulating in peripheral blood is tightly correlated with the plasma viral load. Both viral load and CD4+ count can be monitored from peripheral blood samples and are used as measures of disease progression
 
-![](_page_1_Figure_2.jpeg)
+![](ch15-05_page_1_Figure_2.jpeg)
 
 **FIGURE 102–1.** The natural history of HIV infection, ARC, and AIDS. Reproduced with permission from Boon NA, Davidson S: *Davidson's Principles & Practice of Medicine*, 20th ed. Edinburgh: Elsevier/Churchill Livingstone; 2006.
 
@@ -138,7 +138,7 @@ patients, and the risk of heart failure appears doubled for HIV patients compare
 
 Tuberculous pericarditis remains an important cardiac manifestation of the disease, particularly in Africa.23, In the developed world with improved access to HAART, cardiovascular, pulmonary, and renal diseases predominate, bolstered by increased survival from HIV/AIDS and opportunistic infections. Atherosclerotic disease, which was rarely
 
-![](_page_2_Figure_5.jpeg)
+![](ch15-05_page_2_Figure_5.jpeg)
 
 **FIGURE 102–2.** The nature of cardiovascular diseases in contemporary HIV/AIDS now includes increased longevity and related diseases of aging (like atherosclerotic disease), side effects of antiretroviral therapy, and environmental factors such as drugs of abuse. In the developing world, some of these factors may be more prominent while others are less so.
 
@@ -212,11 +212,11 @@ Myocarditis may be precipitated by a variety of viral infections, and the inflam
 
 It remains possible that a subgroup of HIV/AIDS patients may have immune-mediated heart disease despite pathologically nondiagnostic biopsies. An inflammatory process remains the likeliest substrate for the development of cardiac dysfunction, but this is not proven. There
 
-![](_page_4_Picture_2.jpeg)
+![](ch15-05_page_4_Picture_2.jpeg)
 
-![](_page_4_Picture_3.jpeg)
+![](ch15-05_page_4_Picture_3.jpeg)
 
-![](_page_4_Picture_4.jpeg)
+![](ch15-05_page_4_Picture_4.jpeg)
 
 **FIGURE 102–3.** Heart failure in HIV/AIDS in absence of therapy. A 35-year-old male was admitted with acute onset of congestive heart failure and was found to be seropositive for HIV-1. Antiretroviral therapy started, but his cardiac performance required mechanical ventricular assistance. The LV core specimen from the placement of the assist device revealed abundant cardiac myocytes with hypertrophic and lytic changes, zones of scar suggesting possible older inflammatory injury, and scant foci of lymphoplasmacytic inflammation. Transmission electron microscopy revealed myocytes with decreased sarcomeres and structurally abnormal mitochondria. **A.** Hematoxylin and eosin; original magnification = 400×. **B.** Myocardial sample shows zonal replacement with fibrosis suggestive of previous inflammatory injury. Masson trichrome original magnification = 100×. **C.** Transmission electron microscopy of thin section of cardiac myocyte with disruption of sarcomeres and decreased abundance of sarcomeres and mitochondria. Original magnification = 5500×.
 
@@ -302,7 +302,7 @@ To date, randomized trials have not been reported to specifically examine effect
 
 Essentially the same armamentarium of heart failure drugs is available for use in HIV/AIDS patients with LV dysfunction as is for the non-HIV/AIDS population (see Chap. 70). Common agents such as
 
-![](_page_7_Figure_2.jpeg)
+![](ch15-05_page_7_Figure_2.jpeg)
 
 **FIGURE 102–4.** Kaplan-Meier survival curves for HIV-positive patients with structurally normal hearts and evidence of cardiac dysfunction. Reproduced with permission from Currie PF, Jacob AJ, Foreman AR, et al: Heart muscle disease related to HIV infection: prognostic implications. *BMJ*. 1994 Dec 17;309:1605-7.
 
@@ -344,7 +344,7 @@ Clearly there is a need for adequate bacteriological investigations in cases of 
 
 It appears now that diseases of cardiac valves, like mitral stenosis and aortic stenosis, are seen more frequently than seen previously in the HIV/AIDS population. This demographic change again is possibly related to the improved survival from HAART, and the valve lesions are pathologically indistinguishable from those of non-HIV/AIDS patients (Fig. 102–5). Valvular regurgitation can complicate CM through LV dilation and mitral annular distortion, and mitral regurgitation has also been described in HIV/AIDS patients with infective endocarditis.126 This may contribute to secondary pulmonary hypertension and RV dilatation, although this more frequently occurs as part of CM, in isolation or in association with pulmonary hypertension.76
 
-![](_page_8_Picture_11.jpeg)
+![](ch15-05_page_8_Picture_11.jpeg)
 
 **FIGURE 102–5.** Aortic stenosis and repair of aortic valve from a 51-year-old male. The patient received a prosthetic valve for aortic stenosis. Histopathological changes seen in this specimen from this HIV/AIDS patient are similar to those seen in absence of HIV/AIDS. Hematoxylin and eosin. Original magnification = 40×.
 

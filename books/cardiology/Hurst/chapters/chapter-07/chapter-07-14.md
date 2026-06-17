@@ -369,7 +369,7 @@ Entry into a CR program begins 1 to 3 weeks after discharge from the hospital af
 
 The intensity for exercise training can be calculated from the exercise test, and for cardiac patients, the heart rate is the most common method used. There are three methods of using the heart rate, and these include the direct method, the percentage of HRmax, and the heart rate reserve.24 In the direct method, the heart rate is plotted against oxygen consumption, and the appropriate exercise intensity is extrapolated (Fig. 45–1). The percentage of HRmax method uses 65% to 75% of the heart rate achieved during the exercise test, which approximates to 40%
 
-![](_page_5_Figure_29.jpeg)
+![](ch07-14_page_5_Figure_29.jpeg)
 
 **FIGURE 45–1.** Relationbetweenheart rateandoxygenuptake(VO2 )duringexercise. Onemetabolicequivalent(MET)isdefinedas3.5mL O2uptake/kg/min.Meanvaluesofapproximately10METs(VO2 35mL/kg/min) canbe achievedbynonathletic,healthy, middle-aged men; this shouldoccur at aheart rateof approximately 175 bpm. Data from Reddy HK, Weber KT, Janicki JS, et al: Hemodynamic, ventilatory and metabolic effects of light isometricexerciseinpatients withchronicheart failure. *J Am Coll Cardiol*.1988 Aug;12:353-358.
 

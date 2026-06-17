@@ -348,7 +348,7 @@ Patients in whom syncope is very infrequent (weeks to months between episodes) m
 
 When noninvasive testing does not diagnose arrhythmic causes, an electrophysiologic study may be useful in high-risk patients (those with structural heart disease, suspicious arrhythmia by ECG monitoring,
 
-![](_page_7_Figure_2.jpeg)
+![](ch13-13_page_7_Figure_2.jpeg)
 
 **FIGURE 90–1.** Diagnostic tests for arrhythmic syncope. ARVC, arrhythmogenic right ventricular cardiomyopathy; AV, atrioventricular; ECG, electrocardiogram; LV, left ventricular; MI, myocardial infarction.
 

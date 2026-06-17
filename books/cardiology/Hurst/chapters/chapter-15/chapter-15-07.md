@@ -108,15 +108,15 @@ Valve injury following blunt trauma is uncommon. The aortic valve is most freque
 
 Recently a case of traumatic left ventricular intramural dissection has been reported (Fig. 104–2).27
 
-![](_page_2_Picture_2.jpeg)
+![](ch15-07_page_2_Picture_2.jpeg)
 
 **FIGURE 104–1.** A 53-year-old woman was kicked by her horse, with the hoof striking her in the center of the chest. She developed severe chest pain. Cardiac auscultation was normal. Rib radiographs did not show any rib fractures, and chest x-ray showed clear lung fields and a normal cardiac silhouette. Electrocardiogram (12-lead) demonstrated sinus tachycardia with a minor right ventricular conduction delay and no ischemic changes. Troponin I was elevated. Two-dimensional echocardiogram demonstrated a partially flail septal leaflet of the tricuspid valve (*white arrow*). RA, right atrium; RV, right ventricle. Reproduced with permission from Morsli H, Weissman G, Cooper HA: Images in Cardiovascular Medicine. Blunt Cardiac Injury- A case report. *Circulation*. 2008 May 13;117:e333-e335.
 
-![](_page_2_Figure_4.jpeg)
+![](ch15-07_page_2_Figure_4.jpeg)
 
-![](_page_2_Figure_5.jpeg)
+![](ch15-07_page_2_Figure_5.jpeg)
 
-![](_page_2_Figure_6.jpeg)
+![](ch15-07_page_2_Figure_6.jpeg)
 
 **FIGURE 104–2.** Traumatic left ventricular intramural dissection. A 30-year-old male sustained severe blunt chest injury from a hydraulic pipe thruster. He required high-dose vasopressors and inotropes. Transesophageal echocardiography (TEE) revealed a small pericardial effusion (panel **A**, top) and an extended intramural dissection (panels **A-C**) of the left ventricle involving the anterolateral papillary muscle and the apical and midsegments of the anterior and lateral ventricular walls. An epicardial patch was placed over a severely thinned part of the anterolateral wall to prevent apical rupture. Reproduced with permission from Groves DS, Schmidt C: Traumatic left ventricular intramural dissection. *Eur Heart J*. 2010 Oct;31:2481.
 
@@ -142,9 +142,9 @@ Aortic transaction must be suspected based on the mechanism of injury. Patients 
 
 Once a diagnosis of aortic transection from blunt aortic trauma is made, several emergent/urgent treatment options are available.4 Immediate repair through a left thoracotomy should be considered depending on the patient's stability and other injuries. Delayed repair is appropriate in the multiply injured patient requiring ongoing resuscitation, and this management strategy has grown in popularity. Nonoperative management is not risk free, however, with as many as 4% of patients thought to be candidates for delayed repair experiencing rupture within a week of injury in some series.40,41 A more recent additional option is endovascular stent graft insertion in selected patients, which has yielded promising results (Fig. 104–3) when compared with traditional repair.42-48 The Society for Vascular Surgery database documented endovascular treatment for acute aortic transections. Ninety-seven percent were the result of a motor vehicle accident. Sixty symptomatic patients were treated with an aortic endograft, with an all-cause mortality rate of 9.1% at 30 days, and a mean operative time of 125 minutes.49 An endovascular approach may be preferred in patients
 
-![](_page_3_Picture_14.jpeg)
+![](ch15-07_page_3_Picture_14.jpeg)
 
-![](_page_3_Picture_15.jpeg)
+![](ch15-07_page_3_Picture_15.jpeg)
 
 **FIGURE 104–3. A.** CT angiogram of a patient who sustained an aortic transection following a motor vehicle accident. **B.** CT angiogram of the same patient following insertion of a thoracic stent graft with successful exclusion of the false aneurysm.
 

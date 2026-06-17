@@ -58,7 +58,7 @@ Overall mortality is increased in patients with RA compared with the general pop
 
 Atherosclerosis is an inflammatory process driven by many of the same mediators that are associated with rheumatoid inflammation.25 Systemic inflammation in RA is hypothesized to accelerate atherosclerosis, as well as affect other tissues, such as liver, muscle, and fat, which influence other cardiovascular risk factors (Fig. 100–1). Additionally, RA appears to be an independent risk factor for multivessel coronary artery disease,26 and as shown in the Nurses' Health Study, women with RA have a two-fold higher rate of myocardial infarctions compared with controls.27 Other studies suggest that RA patients are less likely to be symptomatic from ischemic heart disease as non-RA controls and twice as likely to have sudden death and unrecognized myocardial infarction,28 contributing to a higher incidence of death from coronary atherosclerosis.29
 
-![](_page_2_Figure_2.jpeg)
+![](ch15-03_page_2_Figure_2.jpeg)
 
 **FIGURE 100–1.** Systemic effects of inflammation in rheumatoid arthritis. The rheumatoid joint expresses high levels of various proinflammatory mediators, including tumor necrosis factor (TNF) α, interleukin (IL) 1, and IL-6, which amplify the inflammatory response. T-helper cells secrete interferon-γ (IFN-γ) and IL-17, which in turn activate the cellular constituents of the synovial tissue. These cytokines, which are also found in the vascular endothelium of the atherosclerotic blood vessel, serve to promote coronary artery disease and plaque rupture. Additionally, upregulation of these cytokines influences other cardiovascular risk factors by affecting skeletal muscle, adipose tissue, and the liver, leading to insulin resistance, dyslipidemia, and increased levels of C-reactive protein (CRP), fibrinogen, and plasminogen activator inhibitor-1 (PAI-1), respectively. Reproduced with permission from Libby P: Role of inflammation in atherosclerosis associated with rheumatoid arthritis. *Am J Med*. 2008 Oct;121(10 Suppl 1):S21-S31.
 
@@ -84,7 +84,7 @@ The most common cardiovascular manifestation of SLE is pericarditis,45 with up t
 
 Valvular disease associated with SLE can be quite common and take on many forms. Libman-Sacks endocarditis is characterized by noninfectious verrucous vegetations seen on cardiac valves (Fig. 100–2). Although any of the four valves may be affected, valvular abnormalities
 
-![](_page_3_Picture_7.jpeg)
+![](ch15-03_page_3_Picture_7.jpeg)
 
 **FIGURE 100–2.** Echocardiographic image of Libman-Sacks endocarditis. Transthoracic echocardiogram (apical four-chamber view) of a patient with systemic lupus erythematosus and Libman-Sacks endocarditis. Note the thickening and vegetation (*asterisk*) of the mitral valve. LA, left atrium; LV, left ventricle; RA, right atrium; RV, right ventricle.
 
@@ -209,11 +209,11 @@ Clinical studies of Kawasaki disease have shown that treatment with intravenous 
 
 Wegener granulomatosis (WG) is a systemic necrotizing vasculitis of small vessels mainly targeting the respiratory tract and the kidneys.
 
-![](_page_8_Picture_10.jpeg)
+![](ch15-03_page_8_Picture_10.jpeg)
 
 **A**
 
-![](_page_8_Figure_12.jpeg)
+![](ch15-03_page_8_Figure_12.jpeg)
 
 **B**
 

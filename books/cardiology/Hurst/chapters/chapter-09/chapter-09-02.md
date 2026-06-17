@@ -42,11 +42,11 @@ Physical examination includes a thorough assessment of volume status with specif
 
 Operations to palliate or repair congenital cardiovascular lesions were originally devised to address physiologic issues, specifically to increase or diminish the supply of blood to the pulmonary circulation. The early era of congenital cardiac surgery was marked by giant leaps forward in the physiologic treatment of lesions. In the 1940s, the development of aortopulmonary shunts, such as the famed Blalock-Taussig shunt, allowed palliation of patients with pulmonary atresia or a functional single ventricle18 (Fig. 56–1). Another major
 
-![](_page_1_Figure_8.jpeg)
+![](ch09-02_page_1_Figure_8.jpeg)
 
 **FIGURE 56–1. A.** Unrepaired tetralogy of Fallot (TOF) with pulmonary atresia. There is no anterograde flow from the right ventricle (RV) to the pulmonary artery (PA). A large nonrestrictive ventricular septal defect (VSD) allows communication between the left ventricle (LV) and the RV. There is an overriding aorta (Ao). **B.** Classic left Blalock-Taussig shunt consisting of direct connection of the divided left subclavian artery to the left pulmonary artery. **C.** Potts shunt consisting of a direct connection between the anterior wall of the descending Ao and left PA. **D.** Waterston shunt consisting of a direct connection of the posterior wall of the ascending Ao and the right PA. **E.** Modified Blalock-Taussig shunt consisting of a synthetic (Gore-Tex) tube connection the left subclavian artery to the PA. **F.** Central shunt consisting of a synthetic tubular connection from the ascending Ao to the PA. **G.** Intracardiac repair consisting of VSD patch closure and placement of a valved conduit from the RV to the PA.
 
-![](_page_2_Picture_2.jpeg)
+![](ch09-02_page_2_Picture_2.jpeg)
 
 **FIGURE 56–2. A.** Valentine diagram of the cardiac anatomy in a patient with dextro-transposition of the great arteries who has undergone the Mustard or Senning atrial switch operation. Deoxygenated blood (*blue*) returning from the superior and inferior vena cava (SVC and IVC, respectively) is redirected via a systemic venous baffle (SVB) to the left ventricle (LV) and thereafter into the transposed pulmonary artery (PA). Oxygenated blood (*red*) returning from the lungs via the pulmonary veins (PVs) is redirected via a pulmonary venous baffle (PVB) to the systemic right ventricle (RV) and then to an anterior and rightward aorta (Ao). **B.** Cine-cardiac magnetic resonance imaging scan (axial plane) demonstrating the SVB directing deoxygenated blood via the mitral valve (MV) to the subpulmonic LV and PVB directing oxygenated blood via the tricuspid valve (TV) to the systemic RV.
 
@@ -60,13 +60,13 @@ Adults with CHD may be cyanotic because of decreased pulmonary blood flow or mix
 
 In 1897, Victor Eisenmenger described the autopsy findings of a 32-year-old man who had been cyanotic from infancy; findings included a large VSD, pulmonary arteriosclerosis, and pulmonary artery thrombosis. The cause of death was pulmonary hemorrhage. The *Eisenmenger complex*, coined by Maude Abbott, specifically refers to a reversed shunt (right to left) in the presence of a nonrestrictive VSD29 (Fig. 56–3). The term *Eisenmenger syndrome* also refers to a reversed central shunt but is used more broadly to encompass a heterogeneous series of congenital lesions in which the pulmonary vasculature is exposed to elevated or even systemic pressures, eventually leading to this physiology. During the first few years of life, the small muscular pulmonary artery branches are capable of relaxing, and the defect can be closed with a subsequent gradual decrease in pulmonary vascular resistance. After 2 to 3 years, reactive intimal fibrosis begins to obliterate the lumen of the muscular arteries, and they no longer respond to
 
-![](_page_3_Picture_2.jpeg)
+![](ch09-02_page_3_Picture_2.jpeg)
 
 **FIGURE 56–3. A.** Rendering of a heart with Eisenmenger complex, characterized by a nonrestrictive ventricular septal defect (VSD) (*asterisk*). The right ventricle (RV) is hypertrophied, and the main pulmonary artery (PA) is dilated and has evidence of atheroma formation. Also labeled are the right atrium (RA) and the aorta (Ao). **B.** Transthoracic echocardiographic image of apical four-chamber view of a heart with Eisenmenger complex. There is a large nonrestrictive VSD (*asterisk*). The RV is enlarged and hypertrophied. The left ventricle (LV) and left atrium (LA) are labeled.
 
 vasodilating agents such as acetylcholine, adenosine, or nitric oxide.30 This obliterative process represents a fixed obstruction to flow; the shunt reverses, and surgical correction is contraindicated. Patients with trisomy 21 (Down syndrome) are especially susceptible to developing pulmonary vascular disease.31 Patients with cyanosis secondary to pulmonary vascular disease and shunt reversal experience significantly decreased maximal and submaximal exercise capacity compared with other patients with complex CHD (Fig. 56–4).32,33
 
-![](_page_3_Figure_5.jpeg)
+![](ch09-02_page_3_Figure_5.jpeg)
 
 **FIGURE 56–4.** Distribution of maximum oxygen consumption (VO2 max) in 78 adults with various types of congenital heart disease followed at the Ahmanson/University of California, Los Angeles, Adult Congenital Heart Disease Center. Surgically repaired patient with tetralogy of Fallot (ToF) and patients with dextro-transposition of the great arteries (dTGA) who have undergone an atrial switch operation performed significantly better than other subgroups. Patients with Eisenmenger syndrome had a mean VO2max of less than 10 mL/kg/min, which was significantly lower than all other subgroups.
 
@@ -76,7 +76,7 @@ Interestingly, patients with cyanotic CHD demonstrate an antiatherogenic substra
 
 antiatherogenic state of these patients is further characterized by elevated bilirubin levels; increased nitrous oxide production by vascular endothelial cells because of increased shear stress from hyperviscosity; and low platelet levels, incurring less thrombotic risk.37,40 Patients with chronic cyanosis also develop defective hemostasis from abnormalities in platelet function and in the coagulation and fibrinolytic systems.41,42 Interestingly, the pulmonary arterial circulation is not spared from atherosclerosis and thrombosis. As a matter of fact, these patients often demonstrate an aggressive atherosclerotic process within the pulmonary arterial tree that correlates with the duration of pulmonary hypertension.43 Cardiac computed tomography (CT) may be used to quantify calcium deposition within the pulmonary arterial tree, as calcium is a surrogate marker for atherosclerosis (Fig. 56–5). Histologic
 
-![](_page_3_Figure_10.jpeg)
+![](ch09-02_page_3_Figure_10.jpeg)
 
 **FIGURE 56–5.** Noncontrast computed tomography scan of a 60-year-old man with Eisenmenger complex demonstrating extensive white calcium deposits (*arrow*) within the walls of the pulmonary artery (PA) and branch pulmonary arteries. The ascending aorta (Ao) is labeled. Note the relative paucity of calcium in the walls of the Ao compared with the PA.
 
@@ -84,7 +84,7 @@ examination of necropsy or autopsy pulmonary artery specimens demonstrates a mix
 
 Chronic cyanosis leads to secondary erythrocytosis and, if uncompensated, may result in hyperviscosity. The risk of symptomatic hyperviscosity is low in patients with a hemoglobin level below 20 g/dL who are not dehydrated. Symptoms of hyperviscosity include headache, dizziness, fatigue, and blurry vision. Judicious phlebotomy may improve these symptoms but should be reserved for patients who do not respond to aggressive hydration.46 Regular phlebotomies should be strictly avoided regardless of the hemoglobin level because the resultant iron deficiency leads to microcytic and less deformable red blood cells that do not pass through the microcirculation as readily as more deformable iron-replete cells.41 As a result, the paradoxical anemia of erythrocytotic patients with iron deficiency may increase the risk of stroke.42,47 Iron repletion in these patients should be instituted with care because of the tendency for excessive erythrocytosis. Hyperuricemia is common because of increased red blood cell turnover and decreased renal excretion of uric acid; however, urate crystal nephropathy is rare despite the elevated serum uric acid levels. Patients with elevated uric acid levels rarely develop tophaceous deposits within the soft tissue of the elbows or digits; these can be painful and tender (Fig. 56–6). Arthralgia is well recognized, and frank gouty arthritis is rare.48
 
-![](_page_4_Picture_4.jpeg)
+![](ch09-02_page_4_Picture_4.jpeg)
 
 **FIGURE 56–6.** The hand of a 59-year-old woman with pulmonary hypertension, a large atrial septal defect, cyanosis, and hyperuricemia. Note the cyanosis and clubbing of the digits. A tophaceous urate deposit (T) is noted on the middle phalanx of the second digit.
 
@@ -104,7 +104,7 @@ The symptoms of infective endocarditis are often subtle and nonspecific, includi
 
 Arrhythmias and conduction defects are common in operated and unoperated patients with CHD and have a major impact on survival and quality of life. Although the principles for diagnosis and treatment of arrhythmias are similar to those used in patients with anatomically normal hearts, there are some notable exceptions. Atrial rhythm disturbances that may be well tolerated with a rate control strategy in a structurally normal heart may be poorly tolerated in complex CHD. Patients with functional single-ventricle or tricuspid atresia who have undergone total cavopulmonary (Fontan) connection exemplify this
 
-![](_page_5_Figure_8.jpeg)
+![](ch09-02_page_5_Figure_8.jpeg)
 
 **FIGURE 56–7.** Illustration of a 36-year-old woman with dextrocardia, a ventricular septal defect (VSD), double-outlet right ventricle, and pulmonary atresia. At 13 years of age, she underwent corrective surgery using the Rastelli procedure with baffling of the left ventricular (LV) blood via the VSD to the aorta and placement of a 22-mm valved Dacron conduit from the right ventricle to the main pulmonary artery. The right ventricle (RV) is connected to the pulmonary artery via a valved Dacron conduit. Note the grayish vegetation within this structure. The LV is the systemic ventricle. A baffle directs LV outflow to the aortic valve. The aortic valve has grayish vegetation on it that prolapses into the LV outflow tract and causes aortic regurgitation. **A.** Computed tomography angiogram at the level of the distal RV to pulmonary artery conduit (C). The *arrow* points to the grayish vegetation within the conduit. The ascending aorta is labeled (Ao). **B.** Transesophageal echocardiogram demonstrating the vegetation (*arrow*) prolapsing in diastole from the Ao to the LV. **C.** Warthin-Starry stain of the grayish vegetation demonstrates a cluster of *Bartonella henselae* that appear as black specks. **D.** Transesophageal echocardiogram with color-flow Doppler demonstrating aortic regurgitation around the area of vegetation. The *arrow* points to the vegetation.
 
@@ -120,13 +120,13 @@ Tachyarrhythmias occur in patients with operated and unoperated forms of CHD. At
 
 Ventricular arrhythmias may occur in a variety of settings, particularly after repair of TOF.<sup>84</sup> First-generation intracardiac repairs were performed via a large anterior ventriculotomy and frequently included incision of the pulmonary valve annulus and placement of a transannular patch made of pericardium or synthetic material (eg, Gore-Tex or Dacron). This technique successfully relieved the outflow tract obstruction but inevitably resulted in pulmonary valvar incompetence and pulmonary regurgitation (Fig. 56–9). Pulmonary regurgitation was thought to have minimal adverse clinical consequences, an assertion that held generally true for the first two decades after transannular patch repair. However, with time, the adverse hemodynamic effects
 
-![](_page_7_Picture_2.jpeg)
+![](ch09-02_page_7_Picture_2.jpeg)
 
 **FIGURE 56–8.** Most commonly used modifications of the Fontan operation. **A.** Right atrial (RA) to pulmonary artery (PA) Fontan connection with the right atrial appendage directly sutured to the right pulmonary artery (RPA) in a patient with tricuspid and pulmonary atresia. The right ventricle (RV), left ventricle (LV), mitral valve (MV), RPA, and aorta (Ao) are labeled. **B.** In the fenestrated lateral tunnel Fontan, a synthetic material (eg, Gore-Tex) is used to extend a tunnel along the inside lateral wall of right atrium to the RPA, and the superior vena cava (SVC) is sutured directly to the RPA. The fenestration in the wall of the synthetic conduit allows right-to-left shunting and depressurization of the lateral tunnel at the expense of systemic desaturation. **C.** Extracardiac Fontan operation is the current standard. The entire RA is bypassed by a synthetic conduit from the inferior vena cava directly to the RPA. The SVC is sutured directly to the RPA.
 
 of severe low-pressure pulmonary regurgitation become evident. The RV gradually dilates and becomes hypokinetic, and wall stress invariably increases. Ventricular tachycardia is likely to occur under such conditions and often arises from the region of the transannular patch or ventriculotomy suture lines. Programmed ventricular stimulation resulting in monomorphic or polymorphic ventricular tachycardia is of prognostic importance in these patients.85 In a cohort of 793 patients with repaired TOF followed for a mean 21.1 years, ventricular tachycardia occurred in 4.2% and sudden cardiac death occurred in 2% of patients.19 Transventricular and transannular repairs were associated with ventricular tachycardia and sudden cardiac death. QRS width on the surface ECG has additive prognostic value.86 Gatzoulis and colleagues23 reported that 88% of such patients with ventricular tachycardia and 63% of patients with sudden death had a QRS duration of ≥ 180 milliseconds (see Fig. 56–15A). Patients invariably have a right bundle branch block that results from early injury because of surgical VSD closure and ventriculotomy followed by subsequent QRS lengthening secondary to RV dilatation. The presence of ventricular
 
-![](_page_7_Figure_5.jpeg)
+![](ch09-02_page_7_Figure_5.jpeg)
 
 **FIGURE 56–9.** A 28-year-old patient with tetralogy of Fallot repaired during childhood with transannular patch placement. **A.** Transthoracic two-dimensional and color-flow Doppler in the parasternal short-axis projection demonstrating severe pulmonary regurgitation (PR) from the main pulmonary artery (MPA) to the right ventricular outflow tract (RVOT). The aortic valve is labeled (Ao). The *blue vertical arrow* points to a flail portion of the remaining pulmonary valve. **B.** Continuous-wave Doppler interrogation of the RVOT and MPA in the parasternal short-axis projection demonstrates a low-velocity (< 2 m/s) jet of pulmonary regurgitation (PR) that ends before the onset of systole, consistent with elevated right ventricular diastolic pressure and restrictive right ventricular physiology. There is mild residual pulmonary stenosis.
 
@@ -188,11 +188,11 @@ The Achilles heel of transthoracic echocardiography is the difficulty of image a
 
 In parallel with the decreasing need for diagnostic catheterization, there has been a dramatic increase in the number of transcatheter
 
-![](_page_9_Figure_11.jpeg)
+![](ch09-02_page_9_Figure_11.jpeg)
 
 **FIGURE 56–10. A.** Transesophageal two-dimensional echocardiographic image of a mitral valve vegetation (*arrow*). **B.** Live three-dimensional acquisition of the same vegetation (*arrow*).
 
-![](_page_10_Picture_2.jpeg)
+![](ch09-02_page_10_Picture_2.jpeg)
 
 **FIGURE 56–11. A.** Transesophageal two-dimensional echo with color-flow Doppler demonstrating a 13-mm secundum atrial septal defect (ASD) with a thin posterior rim and an absent anterior (retro-aortic) rim. Note the left-to-right shunt (blue color-flow Doppler signal) across the ASD. **B.** The same patient after closure of the ASD with an Amplatzer septal occluder. A small central left-to-right shunt (*arrow*) from the left atrium (LA) to the right atrium (RA) is a common finding after device closure. The shunt usually resolves within a few weeks as the device endothelializes.
 
@@ -202,7 +202,7 @@ Cardiovascular MRI provides important incremental anatomic and functional data i
 
 vasculature, the site of frequent pathology in certain subsets of CHD. Magnetic resonance angiography (MRA) is invaluable in identifying the size, course, and degree of obstruction of medium to large vascular structures. Velocity mapping and flow quantification provide hemodynamic data such as the volume of pulmonary valve regurgitation per cardiac cycle.129 Gradientecho cine-MRI provides incremental information regarding ventricular systolic and diastolic wall motion, segmental strain, and ventricular volumes (Fig. 56–12).130,131 Four-dimensional phase-contrast MRI is in clinical use and has been demonstrated to have improved sensitivity for and depiction of hemodynamically significant shunts and valvular regurgitation.132 Myocardial fibrosis detected by late gadolinium enhancement MRI is common in patients with repaired TOF.133 The degree of late gadolinium enhancement is related to adverse clinical markers, including ventricular dysfunction, exercise intolerance, neurohormonal activation, and arrhythmia. MRA of the coronary arteries is feasible, but imaging beyond the proximal coronary tree is suboptimal. Metallic structures, such as stents and valves, alter the local magnetic field and result in artifacts, thus limiting the utility of cardiac MRI in a significant subset of patients. The presence of a permanent pacemaker or defibrillator is considered a relative contraindication for cardiac MRI.
 
-![](_page_10_Picture_7.jpeg)
+![](ch09-02_page_10_Picture_7.jpeg)
 
 **FIGURE 56–12.** A stack of contiguous sagittal (short-axis) tomographic slices is acquired using cinemagnetic resonance imaging from the base to the apex of the heart. **A.** Short-axis image at the level of the mid right ventricle (RV) at end diastole. The endocardial (*red*) and epicardial (*green*) borders are traced. **B.** The RV at end systole with the endocardial and epicardial borders defined. These borders are defined in a stack of images from the base to the apex of the RV. According to Simpson's rule, the ventricular volume is equal to the sum of the endocardial areas multiplied by the distance between the centers of each slice. The systolic and diastolic volumes obtained by this method are independent of geometric assumptions and dimensionally accurate. Reproduced with permission from Strugnell WE, Slaughter l R, Riley RA, et al: Modified RV short axis series--a new method for cardiac MRI measurement of right ventricular volumes. *J Cardiovasc Magn Reson*. 2005;7:769-774.130
 
@@ -210,7 +210,7 @@ The issues surrounding pacemakers are complex. Various generations of pulse gene
 
 Cardiac CT has developed into a widely used noninvasive method for defining anatomy. ECG-gated multidetector CT provides tomographic two-dimensional data that can be sculpted into three-dimensional images, thus clarifying complex anatomy and enhancing the understanding of structure and form (Fig. 56–13).134 MRI tomographic images can
 
-![](_page_10_Figure_11.jpeg)
+![](ch09-02_page_10_Figure_11.jpeg)
 
 **FIGURE 56–13.** Computed tomography angiogram with three-dimensional surface rendering of a patient with a large secundum atrial septal defect (ASD) as viewed from a shallow right anterior oblique and slightly caudal perspective. Three-dimensional rendering software has been used to remove the anterior wall of the right atrium and right ventricle (RV). The inset demonstrates an outline of the ASD with division of the atrial septal rim into six quadrants. Assessment of three-dimensional ASD size and rim adequacy facilitates appropriate patient selection for percutaneous versus surgical defect closure. Ao, aorta. Reproduced with permission from AboulHosn J, French WJ, Buljubasic N, et al: Electron beam angiography for the evaluation of percutaneous atrial septal defect closure. *Catheter Cardiovasc Interv*. 2005 Aug;65:565-568.186
 
@@ -292,7 +292,7 @@ An awareness of the significance of various repaired or unrepaired congenital le
 
 Major advances in percutaneous transcatheter interventions have been made over the past 25 years in the field of CHD.156 In 1976, Mills and King157 published the first report of transcatheter closure of an ASD using a double umbrella device. Since then, improvements in device, imaging, and catheterization technologies and procedural techniques have brought interventional cardiology to the forefront as a therapeutic intervention that may delay or obviate surgery. The advances in noninvasive cardiovascular imaging, specifically echocardiography, MRI, and CTA, have made diagnostic cardiac catheterization and angiocardiography necessary in a shrinking pool of patients. These include patients who have undergone the Fontan operation and those in whom noninvasive evaluation has resulted in ambiguous or conflicting results. Adult congenital cardiac catheterizations today are often performed solely for reparative or palliative transcatheter interventions. Interventional catheterization has largely replaced surgery as the treatment of choice for a number of congenital cardiovascular conditions, including secundum ASD, coarctation of the aorta, PDA, and pulmonary artery or valve stenosis.156,158 Technologies for percutaneous valve replacement are under intense clinical evaluation, and results are encouraging.159-162 Careful patient selection and imaging are imperative to the safety and success of transcatheter procedures. Noninvasive imaging helps clarify anatomy before intervention and can be used as a means of monitoring for sequelae or complications. MRA and CTA are excellent tools for defining two- and three-dimensional vascular anatomy and are ideal for imaging of the aorta after transcatheter stent deployment (Fig. 56–14). The preprocedural images are key to defining lesion anatomy and precisely identifying neighboring structures that may be affected by the intervention.134 MRI or CT images may be used to develop three-dimensional models unique to individual patients, allowing for testing of devices ex vivo.
 
-![](_page_13_Picture_5.jpeg)
+![](ch09-02_page_13_Picture_5.jpeg)
 
 **FIGURE 56–14.** Electrocardiography-gated cardiovascular computed tomography angiogram with three-dimensional reconstruction viewed from the left anterior oblique projection in a 46-year-old patient with a native coarctation of the aorta (Ao) after transcatheter stent implantation (*asterisk*). The stent appears widely patent and does not intrude upon the ostium of the left subclavian artery (Sc).
 
@@ -302,7 +302,7 @@ The past two decades have seen the explosive growth of electrophysiology as a ma
 
 Electrical resynchronization via multisite ventricular pacing has demonstrated efficacy in patients with various forms of cardiomyopathy
 
-![](_page_13_Figure_10.jpeg)
+![](ch09-02_page_13_Figure_10.jpeg)
 
 **FIGURE 56–15. A.** A 12-lead surface electrocardiogram of a patient with tetralogy of Fallot 23 years after intracardiac repair with transannular patch placement who presented with syncope. The patient is in a low atrial rhythm and has a right bundle branch block measuring 185 milliseconds in duration. The *black arrows* indicate frequent premature ventricular complexes. **B.** Intracardiac electrogram recorded during right ventricular programmed stimulation (*small vertical black arrows*). This pacing train initiates rapid and poorly hemodynamically tolerated ventricular tachycardia (VT).
 
@@ -318,7 +318,7 @@ ASDs are commonly encountered and occur in one-third of adults with CHD (Fig. 56
 
 ASDs often go unrecognized for the first two decades because of the indolent clinical course and benign findings on physical examination. Careful inspection of the ECG usually demonstrates a characteristic RSR′ complex in the anterior precordial leads with a rightward QRS axis in patients with secundum-type defects and left-axis deviation in those with primum-type ASD (Fig. 56–17). Initial diagnosis in adulthood is common, and survival into adulthood is the rule. However, life expectancy is not normal in unrepaired patients, with mortality increasing by 6% per year after age 40 years.169,170 Progressive symptoms of dyspnea on exertion and palpitations frequently occur in adulthood and are caused by increasing right-sided chamber enlargement, pulmonary hypertension, RV failure, tricuspid regurgitation, and atrial arrhythmias. Patients with large ASDs causing left-to-right shunts develop RV volume overload, which is relatively well tolerated for the first two
 
-![](_page_14_Figure_8.jpeg)
+![](ch09-02_page_14_Figure_8.jpeg)
 
 **FIGURE 56–16.** Various types of atrial and ventricular septal defects (ASD and VSD, respectively). The heart is viewed from a right anterior oblique projection, and the right ventricular and right atrial free walls have been removed. **1.** Secundum-type ASD. **2.** Primum-type ASD. **3.** Superior sinus venosus ASD. **4.** Inferior sinus venosus ASD. **5.** Coronary sinus ASD. **6.** Perimembranous VSD. **7**. Muscular VSD. **8.** Inlet VSD.
 
@@ -328,7 +328,7 @@ decades but thereafter results in right heart failure and arrhythmias. The subse
 
 Surgical repair via direct suture of small defects and patch closure of larger defects has been performed for more than 40 years and has been efficacious and safe provided the pulmonary arterial resistance is not
 
-![](_page_14_Figure_13.jpeg)
+![](ch09-02_page_14_Figure_13.jpeg)
 
 **FIGURE 56–17. A.** A 12-lead electrocardiogram (ECG) of a 30-year-old woman with a large secundum-type atrial septal defect (ASD; 42 mm in diameter by transesophageal echocardiography) and moderate pulmonary artery hypertension (PAP = mm Hg). Note the right-axis deviation and tall precordial R waves consistent with right ventricular enlargement or hypertrophy. There is evidence of right atrial abnormality. **B.** An ECG of 33-year-old man with a primum-type ASD surgically repaired at 3 years of age. Note the continued presence of a characteristic RSR complex in lead V1 and QRS left-axis deviation.
 
@@ -367,7 +367,7 @@ Patients with small restrictive defects (Qp:Qs ratio ≤ 1.5:1 and low pulmonary
 
 *Atrioventricular septal defect* is an umbrella term used to describe endocardial cushion defects representing a spectrum of lesions involving the atrial and ventricular septum, AV valves, and LV outflow tract (LVOT).
 
-![](_page_16_Figure_8.jpeg)
+![](ch09-02_page_16_Figure_8.jpeg)
 
 **FIGURE 56–18. A.** Transesophageal two-dimensional echocardiographic image as viewed from the transgastric view, demonstrating a cleft (C) in the anterior mitral leaflet (AML). Also labeled are the posterior mitral leaflet (PML), right ventricle (RV), and main pulmonary artery (PA). **B.** Continuous-wave Doppler across the mitral valve and left ventricular outflow tract (LVOT) performed form the transgastric position, demonstrating mitral regurgitation (MR) through the cleft AML and severe subaortic stenosis (SAS) with a maximum velocity of 4.67 m/s, caused by chordal attachments from the AML to the LVOT.
 
@@ -401,7 +401,7 @@ Transcatheter pulmonary valve (TCPV) replacement can alleviate RV outflow tract 
 
 Stent fracture often occurs in patients with conduits or native RVOT dysfunction and is likely caused by repetitive stress on the platinum iridium frame (Fig. 56–19). Prestenting before Melody valve placement has significantly reduced the incidence of stent fracture. Also, valve-invalve implantation is a successful treatment option for Melody valve stent fracture. As for endocarditis, adherence with subacute bacterial endocarditis prophylaxis is imperative; however, data suggest there is an increased risk of infective endocarditis with implanted Melody valves.230,231,233 Other complications, such as conduit or pulmonary artery dissection or rupture, are life threatening but rare and can be treated with covered stent placement. There is a 5% risk of coronary artery compression, but this risk can be reduced by performing simultaneous balloon inflation in the RVOT with coronary or aortic root angiography to test for coronary artery compression. TCPV replacement has also been successfully performed within failed bioprosthetic valves, not as part of RV–to–pulmonary artery conduits, with excellent outcomes. In the subset of CHD patients with native RVOT or RVOT
 
-![](_page_18_Figure_5.jpeg)
+![](ch09-02_page_18_Figure_5.jpeg)
 
 **FIGURE 56–19. A.** Stent fracture of a Melody transcatheter pulmonary valve. **B.** After stenting of the fractured stent and placement of a new Melody transcatheter pulmonary valve.
 
@@ -423,7 +423,7 @@ Mild and moderate degrees of pulmonary stenosis (peak gradient ≤ 50 mm Hg) are
 
 Surgical valvotomy for isolated pulmonary stenosis has been successfully and safely performed for 50 years. Perioperative and late results are excellent, especially if surgery is performed in the first two decades of life.236 Various degrees of pulmonary regurgitation occur and are well tolerated in the short and medium term. Severe pulmonary regurgitation is more common when pulmonary valvectomy or transannular patching is performed, usually for dysplastic valves or narrowed annulus. Severe chronic regurgitation results in progressive RV dilatation and dysfunction with an increased rate of coexistent ventricular and supraventricular arrhythmias (see earlier section Tetralogy of Fallot).
 
-![](_page_19_Figure_2.jpeg)
+![](ch09-02_page_19_Figure_2.jpeg)
 
 **FIGURE 56–20. A.** Simultaneous transcatheter pressure recordings in the right ventricle (RV) and pulmonary artery (PA) in a 47-year-old woman with unoperated isolated severe pulmonary valve stenosis before balloon valvuloplasty. Note that the right ventricular systolic pressure exceeds 100 mm Hg except on the beat after an interpolated premature ventricular complex. Also note the absence of systolic deflections on the PA pressure waveform indicative of severe valvar pulmonary stenosis. The maximum pressure gradient between the RV and PA at times exceeds 100 mm Hg. **B.** Simultaneous RV and PA pressure tracings after transcatheter balloon valvuloplasty, demonstrating a lower RV systolic pressure (40-50 mm Hg) and an increase in PA pressure with clear systolic deflections indicating resolution of severe stenosis. The patient has a residual gradient of 15 to 20 mm Hg consistent with mild stenosis.
 
@@ -455,7 +455,7 @@ There are currently no proven medical therapies that alter the course of aortic 
 
 Patients with SVAS may undergo surgical enlargement of the narrowed sinotubular region and adjacent ascending aorta if they have symptoms of angina, dyspnea, syncope, or heart failure, or a mean pressure gradient of 50 mm Hg or above. Surgical relief of obstruction consists of excision of a focal stenosis with end-to-end anastomosis of the ascending aorta, patch enlargement of the sinotubular junction, or more complex aortoplasty involving patch placement into two or more sinuses of Valsalva. The Ross procedure has also been used to replace the aortic root in patients with concomitant aortic valve disease. Balloon angioplasty of SVAS does not result in relief of obstruction and risks aortic dissection or rupture.
 
-![](_page_21_Figure_2.jpeg)
+![](ch09-02_page_21_Figure_2.jpeg)
 
 **FIGURE 56–21. A.** Three-dimensional surface rendered reconstruction of cardiac magnetic resonance angiogram as viewed from a right anterior oblique and cranial projection in a 54-year-old woman with near-interruption of the aorta (Ao). The ascending Ao is moderately dilated, as are the arch vessels. A plethora of bypassing collaterals (coll) are present. Adult unoperated patients present with systemic arterial hypertension in the upper extremities. A normal patient should have a 5- to 10-mm Hg increase in systolic blood pressure in the lower extremities compared with the upper extremities. Absence of this increase or presence of a decrease in the lower extremities should arouse suspicion of coarctation. **B**. Right lateral projection with collaterals removed during the editing and three-dimensional rendering process. Complete interruption (C) of the aorta is evident.
 
@@ -479,7 +479,7 @@ Patients with successfully treated coarctation often continue to have systemic a
 
 Complete TGA refers to a ventriculoarterial discordance characterized by medial transposition of the aorta, which arises anteriorly and rightward from a morphologic RV, and the pulmonary artery arises posteriorly and leftward from a morphologic LV. Simply, the aorta is anteriorly dextraposed and emerges from a normally located RV, and the pulmonary artery is posteriorly levoposed to emerge from the LV (see Fig. 56–2). As a result, the systemic and pulmonary arterial circulations run in parallel, not in series. Therefore, poorly oxygenated blood enters the aorta, and survival depends on the delivery of oxygenated blood to the systemic circulation via a left-to-right shunt. Atrial balloon septostomy (Rashkind procedure) may need to be urgently performed within the first few hours of life to create an intracardiac shunt. Other anomalies often coexist, including VSD (30%), LVOTO (10%), and more rarely, PDA and coarctation of the aorta.205
 
-![](_page_21_Figure_15.jpeg)
+![](ch09-02_page_21_Figure_15.jpeg)
 
 **FIGURE 56–22.** Surgical techniques for repair of coarctation of the aorta. **A.** Unrepaired coarctation of the aorta. **B.** Excision of the narrowed segment with end-to-end anastomosis. **C.** Subclavian flap repair. **D.** Prosthetic patch aortoplasty. **E.** Excision of the narrowed segment and placement of a prosthetic conduit. **F.** Prosthetic conduit placement from the ascending to the descending aorta.
 
@@ -501,7 +501,7 @@ Congenitally corrected TGA is characterized by AV and ventriculoarterial discord
 
 In the minority of patients without associated defects, unoperated survival into adulthood is common, and survival into the eighth and ninth decades of life has been reported.302 Most patients remain undiagnosed until early adulthood. However, these patients have an increased incidence of AV conduction problems and complete heart block with age.303
 
-![](_page_22_Figure_12.jpeg)
+![](ch09-02_page_22_Figure_12.jpeg)
 
 **FIGURE 56–23. A.** Cine-magnetic resonance imaging scan of a 62-year-old woman with congenitally corrected transposition of the great arteries as viewed from a sagittal projection. Note that the left atrium (LA) is connected to the transposed right ventricle (RV) via a tricuspid valve (TV). The aorta (Ao) emerges anteriorly from the RV. **B.** Axial cut (four-chamber view). Note that the morphologic smooth-walled left ventricle (LV) is dextraposed, thin walled, and not dilated. The right atrium (RA) empties into the LV via the mitral valve (MV). The morphologic RV is transposed to the left along with the TV.
 
@@ -515,7 +515,7 @@ Systemic AV (tricuspid) valve regurgitation is a common and progressive problem 
 
 Ebstein anomaly is characterized by apical displacement of the septal (and often the posterior) leaflet of the tricuspid valve into the RV cavity (Fig. 56–24). The RV is therefore divided into a proximal
 
-![](_page_23_Figure_7.jpeg)
+![](ch09-02_page_23_Figure_7.jpeg)
 
 **FIGURE 56–24. A.** Ebstein anomaly of the tricuspid valve in the apical four-chamber view by transthoracic two-dimensional echocardiography. Note the marked apical displacement of the septal leaflet of the tricuspid valve from the level of the true annulus (*large horizontal white arrows*). The anterior leaflet of the tricuspid valve (*small white arrows*) is long and redundant and has attachments to the free wall. The functional right ventricle (fRV) is small because much of the right ventricular inflow is "atrialized" (aRV). **B.** Color-flow Doppler through the tricuspid valve in systole demonstrating severe regurgitation (TR) starting at the apically displaced septal leaflet and directed medially (*black arrows*). The right atrium (RA), left ventricle (LV), and left atrium (LA) are also labeled.
 

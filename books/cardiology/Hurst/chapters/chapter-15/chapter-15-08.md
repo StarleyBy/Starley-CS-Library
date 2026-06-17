@@ -223,7 +223,7 @@ AKI, it is important to differentiate between this and CI-AKI. Delayed (subacute
 
 Currently used iodinated contrast agents are highly water soluble iso-osmolar (~ 290 mOsm/kg) or low-osmolar (700-850 mOsm/kg) solutions. Higher osmolality increases the risk of vascular symptoms of warmth and pain as well as of AKI.47 Injection of iodinated contrast causes transient vasodilation followed by vasoconstriction. In the renal vessels, this vasoconstriction can persist for hours, which may result in hypoperfusion of the renal parenchyma, including the renal medulla.48
 
-![](_page_4_Figure_9.jpeg)
+![](ch15-08_page_4_Figure_9.jpeg)
 
 **FIGURE 105–1.** Treatment challenges in acute kidney injury complicating acute cardiac dysfunction. There is a narrow therapeutic window for optimal blood pressure and fluid balance in patients with acute kidney injury in the setting of acute cardiac dysfunction. Reproduced with permission from Ronco C, Cicoira M, McCullough PA et al. Cardiorenal syndrome type 1: pathophysiological crosstalk leading to combined heart and kidney dysfunction in the setting of acutely decompensated heart failure. *J Am Coll Cardiol*. 2012 Sep 18;60:1031-42.
 
@@ -400,7 +400,7 @@ As a general rule, current pathogen-specific treatment guidelines for IE apply t
 
 #### **ADQI heart failure in ESRD classification system**
 
-![](_page_9_Figure_12.jpeg)
+![](ch15-08_page_9_Figure_12.jpeg)
 
 **FIGURE 105–2.** Classification system for heart failure in dialysis patients. Heart failure classification in dialysis patients need to consider that the severity of heart failure symptoms will vary with volume status. Reproduced with permission from Chawla LS, Herzog CA, Costanzo MR, et al. Proposal for a functional classification system of heart failure in patients with end-stage renal disease: proceedings of the acute dialysis quality initiative (ADQI) XI workgroup. *J Am Coll Cardiol*. 2014 Apr 8;63:1246-1252.
 
@@ -450,7 +450,7 @@ The definition of diuretic resistance (DR) is not straightforward and no consens
 
 Abbreviation: CRS, cardiorenal syndrome.
 
-![](_page_11_Figure_2.jpeg)
+![](ch15-08_page_11_Figure_2.jpeg)
 
 **FIGURE 105–3.** Proposed mechanisms of renal injury and damage in patients with congestive heart failure. Reduced cardiac function in chronic heart failure leads to a low-output state with renal hypoperfusion and congestion of the venous system (which is effectively transmitted retrograde from the great veins to the renal veins). This results in relative hypoxia of the renal parenchyma. Reduced effective circulatory (low-output heart failure) volume also leads to renin-angiotensin-aldosterone (RAA) system activation and release of vasoconstrictors (angiotensin, adrenaline, noradrenaline), which increases renal vascular resistance and further reduces renal perfusion. Chronic heart failure is associated with subclinical inflammation and impaired endothelial function with interfere with the kidneys' autoregulatory mechanisms. Low-output heart failure also increases the risk of embolization of thrombotic material from the heart or central arteries. Microembolization may further aggravate renal hypoxia. Lastly, most risk factors for cardiovascular disease and heart failure are also risk factors for kidney disease. Accelerated atherosclerosis of the renal vessels and progression of kidney disease due to genetic or acquired risk factors likely also play a role. CKD, chronic kidney disease; LVH, left ventricular hypertrophy. Reproduced with permission from Ronco C, Haapio M, House AA, et al: Cardiorenal syndrome. *J Am Coll Cardiol*. 2008 Nov 4;52:1527-1539.
 
@@ -468,7 +468,7 @@ peptides (which track better with wall stress than volume overload per se) are a
 
 In the absence of high-quality data from randomized clinical trials, treatment approaches in diuretic resistance are based on knowledge of heart failure pathophysiology and pharmacology (Fig. 105–4). First, the treatment should aim to optimize renal perfusion. This includes optimizing cardiac function, which may include use of inotropes and mechanical assist devices.<sup>209</sup> Second, addition of non-loop diuretics should be tried. Thiazide-type diuretics are the most commonly used diuretics in patients who develop resistance to loop diuretics. Thiazide
 
-![](_page_12_Figure_7.jpeg)
+![](ch15-08_page_12_Figure_7.jpeg)
 
 FIGURE 105—4. Proposed approach to treatment in heart failure patients with diuretic resistance. BUN, blood urea nitrogen; eGFR, estimated glomerular filtration rate; LVAD, left ventricular assist device; MAP, mean arterial blood pressure; MRA, mineralocorticoid receptor antagonists; QD, once daily. Reproduced with permission from Verbrugge FH, Mullens W, Tang WH: Management of Cardio-Renal Syndrome and Diuretic Resistance. Curr Treat Options Cardiovasc Med. 2016 Feb:18:11.
 

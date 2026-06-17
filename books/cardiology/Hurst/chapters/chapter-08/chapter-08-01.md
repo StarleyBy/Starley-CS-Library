@@ -48,7 +48,7 @@ The streptococcal M protein shares an α-helical coiled structure with cardiomyo
 
 The antibodies that contribute to rheumatic valvulitis target the *N*-acetyl-β-D-glucosamine–dominant epitope of the GAS carbohydrate,9 but also recognize sequences in α-helical proteins (eg, myosin and tropomyosin).10 These antibodies are elevated in patients with valvular involvement in ARF, significantly reduce after surgical removal of inflamed valves, and correlate with poor prognosis.11 Cross-reactive M-protein antibodies might recognize the intracellular biomarker antigen cardiac myosin but target the valve surface endothelial antigen laminin, or similar extracellular or basement membrane proteins.12 The
 
-![](_page_1_Figure_2.jpeg)
+![](ch08-01_page_1_Figure_2.jpeg)
 
 **FIGURE 46–1.** Number and rates of deaths from rheumatic heart disease in 2010.
 
@@ -64,7 +64,7 @@ The long-term clinical consequence of ARF is related to permanent cardiac damage
 
 Despite the widespread endothelial activation and the diffuse collagen alterations in ARF, the endothelium has an immense capacity to heal, and the subendothelial damage is limited to a shallow depth, resulting in healing in the other manifestations of ARF. The endothelial cells demonstrate substantial structural and functional variability and may be responsible for the differential response in the valves.
 
-![](_page_2_Figure_2.jpeg)
+![](ch08-01_page_2_Figure_2.jpeg)
 
 **FIGURE 46–2.** Proposed pathogenesis of rheumatic fever. Reproduced with permission from Tandon R, Sharma M, Chandrashekhar Y, et al: Revisiting the pathogenesis of rheumatic fever and carditis. *Nat Rev Cardiol.*  2013 Mar;10:171-177.19
 
@@ -80,7 +80,7 @@ The disease usually has an acute febrile onset and presents with variable combin
 
 Carditis is the single most important component of the disease in determining prognosis. The carditis of ARF occurs in > 50% of patients and is characterised predominantly by valvulitis of the mitral valve (mitral regurgitation) and, less frequently, the aortic valve (aortic
 
-![](_page_3_Figure_2.jpeg)
+![](ch08-01_page_3_Figure_2.jpeg)
 
 **FIGURE 46–3.** Hematoxylin and eosin staining of the heart and vasculature suggests connective tissue involvement in rheumatic fever. Modified with permission from Narula J, Virmani, R, Reddy KS, et al: *Amer. Reg. Path*. AFIP, Washington DC, 1999.
 

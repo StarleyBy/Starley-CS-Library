@@ -36,13 +36,13 @@ The concept of dual AV nodal physiology was introduced in the 1950s in an effort
 
 Three types of AVNRT have been described (Table 84–1).3 Typical or slow/fast AVNRT is the most prevalent type, accounting for 85% to 90% of cases. Representing the other 10% to 15% of cases, atypical AVNRT can be further differentiated into fast/slow and slow/slow (or
 
-![](_page_1_Picture_2.jpeg)
+![](ch13-07_page_1_Picture_2.jpeg)
 
 FIGURE 84—1. Structure of the atrioventricular (AV) node. **A.** Heart specimen from patient with atrioventricular nodal reentrant tachycardia (AVNRT). Koch triangle is formed by tendon of Todaro, coronary sinus (CS), ostium, and septal attachment of tricuspid valve (TV). *Arrow* represents site of successful ablation. **B.** Schematic drawing depicting the three zones of the AV node and various types of perinodal and atrioventricular bypass tracts. FO, fossa ovalis; IAS, interatrial septum; RAA, right atrial appendage; RV, right ventricle. **A**, reproduced with permission from Olgin JE, Ursell P, Kao AK, et al. Pathological findings following slow pathway ablation for AV nodal reentrant tachycardia. *J Cardiovasc Electrophysiol*. 1996 Jul;7:625–631; **B**, reproduced with permission from Singer I: *Interventional Electrophysiology*, 2nd ed. New York: Lippincott Williams & Wilkins; 2001.
 
 intermediate) AVNRT. Induction of typical and atypical AVNRT in the same patient is possible but unusual. The typical or slow/fast AVNRT is thought to use the slow pathway for antegrade conduction and the fast pathway for retrograde conduction (Fig. 84–2). When an atrial premature complex blocks the fast pathway and proceeds slowly along the slow pathway, the fast pathway has enough time to recover from its refractoriness. This allows the impulse to activate the fast pathway retrogradely and return to the atrium, giving rise to an AV nodal reentrant echo beat. The impulse then travels down along the slow pathway again, continuation
 
-![](_page_1_Figure_5.jpeg)
+![](ch13-07_page_1_Figure_5.jpeg)
 
 - I. Long-RP tachycardia:  $RP \ge PR$ 
   - i. Atypical AVNRT
@@ -92,19 +92,19 @@ A beat-to-beat oscillation in the QRS amplitude (ie, QRS alternans) can be obser
 
 Dual AV nodal physiology can be demonstrated by two pacing techniques. Atrial pacing with introduction of premature atrial contractions (PACs) with increasing prematurity shows a gradual and progressive conduction delay in the AH interval. At a critical atrial coupling interval, a 10-millisecond decrement in the  $\rm A_1A_2$  results in a marked (>50-millisecond) prolongation of the  $\rm A_2H_2$  interval. It is a well-accepted convention that a 50-millisecond or greater increase in the AH interval in response to a 10-millisecond shortening of the  $\rm A_1A_2$  is considered evidence of dual AV node physiology. A plot of the  $\rm A_1A_2$  versus the  $\rm A_2H_2$  or
 
-![](_page_2_Figure_15.jpeg)
+![](ch13-07_page_2_Figure_15.jpeg)
 
 FIGURE. Twelve-lead electrocardiogram of a patient with typical atrioventricular nodal reentrant tachycardia. Note the pseudo r and pseudo S waves, which are very typical of this arrhythmia.
 
-![](_page_3_Figure_2.jpeg)
+![](ch13-07_page_3_Figure_2.jpeg)
 
 **FIGURE 84—4.** Surface electrocardiogram and intracardiac electrograms shown simultaneously in three different paroxysmal supraventricular tachycardias. The vertical line in each of the panels shows the onset of atrial depolarization to indicate the timing of the P wave relative to the QRS. **A.** Typical atrioventricular nodal reentrant tachycardia (AVNRT). **B.** AVRT involving an accessory pathway. **C.** Atypical AVNRT. R and P denote the corresponding waves on the surface ECG. A, atrial; HRA, high right atrium; V, ventricular deflection.
 
-![](_page_3_Figure_4.jpeg)
+![](ch13-07_page_3_Figure_4.jpeg)
 
 **FIGURE 84–5.** Rhythm strip of a patient during sinus rhythm. Note the sudden alternation of the PR interval from beat to beat. PR alternans is a manifestation of dual atrioventricular node physiology.
 
-![](_page_3_Figure_6.jpeg)
+![](ch13-07_page_3_Figure_6.jpeg)
 
 **FIGURE 84—6.** Atrioventricular (AV) nodal function curve in a patient with dual AV nodal physiology. As the coupling interval of  $A_1A_2$  is progressively decreased, there is a progressive prolongation of  $A_2H_2$  intervals. At a coupling interval of around 360 milliseconds, there is a large jump in the  $A_2H_2$  interval. This is caused by the fast pathway effectively reaching refractoriness at 360 milliseconds and conduction proceeding over the slow pathway, which has a shorter refractory period but slower conduction. Modified with permission from Josephson M: *Clinical Cardiac Electrophysiology: Technique and Interpretation*, 3rd ed. New York: Lippincott Williams & Wilkins; 2002.
 
@@ -112,7 +112,7 @@ the  $A_2H_2$  versus the  $H_1H_2$  shows a discontinuous curve (Fig. 84–6). 
 
 Whereas typical AVNRT is usually not inducible with ventricular pacing, this is the rule with atypical AVNRT. Lack of reproducible arrhythmia induction is most often caused by block in retrograde fast pathway. Other causes include slow-pathway block and an inability to achieve a critical delay in the AH interval.
 
-![](_page_4_Figure_2.jpeg)
+![](ch13-07_page_4_Figure_2.jpeg)
 
 **FIGURE 84–7.** Electrophysiologic demonstration of dual atrioventricular nodal physiology and initiation of atrioventricular nodal reentrant tachycardia (AVNRT). At an A1 A2 coupling interval of 350 milliseconds, there is a jump in the A2 H2 interval (*arrows*). This is followed by initiation of tachycardia. Note the very short VA conduction time. A, atrial; HRA, high right atrium.
 
@@ -150,9 +150,9 @@ Class
 - 2B Oral beta-blockers, diltiazam, or verapamil may be reasonable for acute treatment in hemodynamically stable patients with AVNRT.
 - 2B Intravenous amiodarone may be considered for acute treatment in hemodynamically stable patients with AVNRT when other therapies are ineffective or contraindicated.
 
-![](_page_5_Picture_12.jpeg)
+![](ch13-07_page_5_Picture_12.jpeg)
 
-![](_page_5_Figure_13.jpeg)
+![](ch13-07_page_5_Figure_13.jpeg)
 
 **FIGURE 84–8.** Site of slow-pathway ablation for atrioventricular nodal reentrant tachycardia. **A.** Accessory pathway and left lateral fluoroscopic images showing the alignment of the catheters during slow-pathway ablation. Note that the site of the slow pathway is a considerable distance from the site of the His bundle or compact atrioventricular node. **B.** Schematic showing the orientation of heart during corresponding fluoroscopic projection. The numbers represent the sites of successful slow-pathway ablation in corresponding patients. A, atrial catheter; Abl, ablation catheter; RAO, right anterior oblique; RV, right ventricle. Part A, modified with permission from Meininger GR, Calkins H. One method to reduce heart block risk during catheter ablation of atrioventricular nodal reentrant tachycardia. *J Cardiovasc Electrophysiol*. 2004 Jun;15:727-728; part B, reproduced with permission from Jackman WM, Beckman KJ, McClelland JH, et al. Treatment of supraventricular tachycardia due to atrioventricular nodal reentry by radiofrequency catheter ablation of slow-pathway conduction. *N Engl J Med*. 1992 Jul 30;327:313-318.
 
@@ -235,7 +235,7 @@ Adapted with permission from Blomström-Lundqvist C, Scheinman MM, Aliot EM, et 
 | 2B    | Oral digoxin or amiodarone may be reasonable for ongoing treatment of AVNRT in patients who are not candidates for, or prefer not to undergo, catheter ablation.                                                                                                                                                       |
 | 2B    | Self-administered ("pill-in-the-pocket") acute doses of oral beta-blockers, diltiazem, or verapamil may be reasonable for ongoing management in patients with infrequent, well-tolerated<br>episodes of AVNRT.                                                                                                         |
 
-![](_page_8_Picture_2.jpeg)
+![](ch13-07_page_8_Picture_2.jpeg)
 
 **FIGURE 84–9.** Atrioventricular conduction patterns and QRS morphologies during sinus rhythm for manifest and concealed accessory pathways (APs). AVN, atrioventricular node; HB, His bundle. Modified with permission from Cain ME, Luke RA, Lindsay BD. Diagnosis and localization of accessory pathway. *Pacing Clin Electrophysiol*. 1992 May;15:801-824.
 
@@ -243,9 +243,9 @@ occurred only over the normal AV conduction system, resulting in preexcitation (
 
 The degree of shortening of the PR interval and the extent of ventricular preexcitation depend on several factors, including location of the AP, the relationship between antegrade conduction times and
 
-![](_page_8_Figure_6.jpeg)
+![](ch13-07_page_8_Figure_6.jpeg)
 
-![](_page_8_Figure_7.jpeg)
+![](ch13-07_page_8_Figure_7.jpeg)
 
 **FIGURE 84–10.** Electrophysiologic confirmation of preexcitation. **A.** Preexcited QRS complex in Wolff-Parkinson-White syndrome. Onset of QRS or delta wave is clearly before the His electrogram before ablation. **B.** Loss of preexcitation and shift of onset of QRS after His deflection postablation. A, atrial electrogram; H, His electrogram; HRA, high right atrium; HIS, His bundle electrogram; V, ventricular electrogram.
 
@@ -253,11 +253,11 @@ refractory periods of the AV bypass tract, and the normal AV conduction system. 
 
 Intermittent preexcitation is characterized by abrupt loss of delta wave, normalization of the QRS duration, and an increase in the PR interval during a continuous ECG recording, often despite only minor variations in resting sinus rhythm heart rate. This should be distinguished from day-to-day variability in preexcitation or inapparent preexcitation caused by factors described above. The presence of intermittent preexcitation has been considered to suggest that the refractory period in the AP is long, making them very unlikely to mediate a rapid, preexcited ventricular response during atrial fibrillation.
 
-![](_page_8_Figure_11.jpeg)
+![](ch13-07_page_8_Figure_11.jpeg)
 
 **FIGURE 84–11.** Increase in degree of preexcitation with atrial pacing. Left panel shows 12-lead electrocardiogram during sinus rhythm. Note the obvious increase in preexcitation in the right panel with atrial pacing at a cycle length of 300 milliseconds (200 bpm). Increase in atrial input causes decremental conduction in the atrioventricular node, resulting in increased conduction over the accessory pathway.
 
-![](_page_9_Picture_2.jpeg)
+![](ch13-07_page_9_Picture_2.jpeg)
 
 **FIGURE 84–12.** Schematic representation of the patterns of conduction through an accessory pathway (AP) and the normal conduction system (AVNHB) during orthodromic atrioventricular nodal reentrant tachycardia (AVRT) and antidromic AVRT. AVN, atrioventricular node; HB, His bundle; SVT, supraventricular tachycardia. Modified with permission from Cain ME, Luke RA, Lindsay BD. Diagnosis and localization of accessory pathway. *Pacing Clin Electrophysiol*. 1992 May;15:801-824.
 
@@ -273,7 +273,7 @@ Other forms of SVTs, including atrial tachycardia, junctional tachycardia, AVNRT
 
 Atrial fibrillation is a less common but potentially more serious arrhythmia in patients with the WPW syndrome. If an AP has a short antegrade refractory period, atrial fibrillation may result in a rapid ventricular response with subsequent degeneration to ventricular fibrillation.11-13 The risk of sudden death has been shown to be higher if the shortest R-R interval is less than 250 milliseconds during spontaneous or induced atrial fibrillation.11 It has been estimated that one-third of patients with WPW syndrome also have atrial fibrillation. APs appear to play a pathophysiologic role in the development of atrial fibrillation in these patients because most are young and do not have structural heart disease. Furthermore, surgical or catheter ablation of APs usually results in elimination of atrial fibrillation as well.
 
-![](_page_9_Figure_11.jpeg)
+![](ch13-07_page_9_Figure_11.jpeg)
 
 **FIGURE 84–13.** Schematic of initiation of orthodromic atrioventricular (AV) reentrant tachycardia. A diagrammatic electrocardiograph recording shows the first P wave of sinus node (S) origin yielding a preexcited QRS complex with a delta wave (*d*) and short PR interval (*I*). An ectopic atrial impulse (A) blocks antegradely in the bypass tract but still conducts over the AV node (N) and His-Purkinje system to the ventricles. This causes the second QRS complex to appear nonpreexcited (*ii*). The premature impulse continues to conduct retrogradely over the bypass tract because the latter had time recover excitability while the impulse was conducting over the node (*iii*). The retrogradely conducted impulse has activated the atria from the bypass tracts' atrial insertion point and generated the first retrograde P wave (*P*) of atrioventricular nodal reentrant tachycardia (AVRT). Reentrance of impulse through the node then occurs, causing AVRT to perpetuate. Modified with permission from Chung EK. Wolff-Parkinson-White syndrome: current views. *Am J Med*. 1977 Feb;62:252-266.
 
@@ -321,11 +321,11 @@ Catheter ablation of APs is performed in conjunction with a diagnostic EPS. Afte
 
 FIGURE. Localization of accessory pathways in patients with Wolff-Parkinson-White (WPW) syndrome. The line drawings illustrate the anatomic relationships between the tricuspid valve (TV), mitral valve (MV), coronary sinus (CS), atrioventricular conducting system, and accessory pathways. For each accessory pathway location indicated, the combination of QRS vectors most likely to result are shown based on upright (+) or inverted (—) QRS waveforms. These vectorial guidelines are generally useful but not necessarily precise because activation patterns from specific sites may vary in individual patients. AS, anteroseptal; CSOs, coronary sinus ostium; LAL, left anterolateral; LL, left lateral; LP, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left posterior; LPL, left annulus; RA, right anterior; RAL, right anterior; RAL, right anterior; RAL, right anterior paraseptal; venous anomaly (coronary sinus diverticulum); RL, right lateral; RP, right posterior; RPL, right posterior. Arruda MS, McClelland JH, Wang X, et al: Development and validation of an ECG algorithm for identifying accessory pathway ablation site in Wolff-Parkinson-White syndrome. J Cardiovasc Electrophysiol. 1998 Jan;9:2-12.
 
-![](_page_11_Figure_4.jpeg)
+![](ch13-07_page_11_Figure_4.jpeg)
 
 FIGURE 84—15. Nondecremental retrograde conduction in the accessory pathway. Note the eccentric activation of the atrium with pacing from the ventricle, with earliest atrial depolarization at the distal CS lead (CS 1-2). The left panel shows right ventricular pacing at a 120 bpm (cycle length, 500 milliseconds), and the right panel shows the same at 100 bpm (cycle length, 600 milliseconds). Note that the VA conduction time shown between the vertical lines remains the same with varying pacing rates., distal electrodes;, proximal electrodes in each catheter; A, atrial electrogram; CS, coronary sinus; CS, the most proximal electrode in the CS catheter; HIS, His bundle electrogram; HRA, high right atrium; RVA, right ventricular apex; V, ventricular electrogram.
 
-![](_page_12_Figure_2.jpeg)
+![](ch13-07_page_12_Figure_2.jpeg)
 
 **FIGURE 84–16.** Effect of bundle-branch block (BBB) on atrioventricular nodal reentrant tachycardia (AVRT). **A.** AVRT involving a right-sided accessory pathway. Schematic at the bottom shows the electrocardiographic appearance of the tachycardia at a cycle length of 350 milliseconds. **B.** Appearance of BBB on the same side leads to increase the cycle length of the tachycardia to 425 milliseconds. See text for discussion. AVN, atrioventricular node; HB, His bundle; LA, left atrium; LBB, left bundle branch; LV, left ventricle; RA, right atrium; RBB, right bundle branch; RV, right ventricle. Modified with permission from Josephson M: *Clinical Cardiac Electrophysiology: Technique and Interpretation*, 3rd ed. New York: Lippincott Williams & Wilkins; 2002.
 
@@ -333,7 +333,7 @@ precise mapping and ablation are performed using a steerable electrode catheter.
 
 Calkins and coworkers,5 reported the incidence of major complications in their trial to be 3% and of minor complications around 8%. The procedure-related mortality associated with catheter ablation of APs has ranged from 0% to 0.2%. The two most common types
 
-![](_page_12_Figure_6.jpeg)
+![](ch13-07_page_12_Figure_6.jpeg)
 
 **FIGURE 84–17.** Kaplan-Meier curve showing freedom from arrhythmia recurrence among patients who underwent successful ablation of an accessory pathway subclassified by its location. This analysis was confined to patients in whom successful ablation was achieved with the investigational ablation system. LFW, left free wall; PS, posteroseptal; RFW, right free wall; SEP, septal. Reproduced with permission from Calkins H, Yong P, Miller JM, et al. Catheter ablation of accessory pathways, atrioventricular nodal reentrant tachycardia, and the atrioventricular junction: final results of a prospective, multicenter clinical trial. The Atakr Multicenter Investigators Group. *Circulation*. 1999 Jan 19;99:262-270.
 

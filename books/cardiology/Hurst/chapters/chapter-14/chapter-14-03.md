@@ -294,7 +294,7 @@ Figures 95–1 to 95–4 illustrate lesion and vessel features that are ideal fo
 
 Abbreviations: CAS, carotid artery stenting; CEA, carotid endarterectomy; EPD, embolic protection device; MI, myocardial infarction; na, not applicable.
 
-![](_page_6_Picture_2.jpeg)
+![](ch14-03_page_6_Picture_2.jpeg)
 
 **FIGURE 95–1.** Severe bilateral carotid stenosis (suitable for both CEA and CAS). Case Summary: 72y male with T2DM, HTN, HPL; former heavy smoker. Right hemispheric TIA, 1 month prior to referral. Noninvasive evaluation: Carotid US (PSV/EDV): Right: 599/344. Left: 324/131. MRI negative for recent stroke. (**A**) Invasive Angiography: Arch: Type 2. Assessment/Plan: Symptomatic high grade RICA stenosis, suitable for CAS with distal embolic protection. (**B**) Treatment: RICA Stented with 10 × 8 X-ACT (self expanding, closed cell) nitinol stent with NAV-6 distal EPD (Both devices from Abbott Vascular). Postdilated with 5.0-mm balloon, uncomplicated. (**C**) Asymptomatic > 80% LICA stenosis. Follow-up: At 12 months RICA—Patent stent, normal flow velocities on US. LICA—managed conservatively (Dual antiplatelets, statins and RF modification) because of multiple interim medical and cardiovascular issues. Remains asymptomatic.
 
@@ -314,23 +314,23 @@ These unfavorable anatomical features—heavy calcification, visible thrombus, s
 
 Most if not all carotid revascularization procedures are elective and there is no justification for an ad hoc carotid procedure, ie, proceeding
 
-![](_page_7_Picture_2.jpeg)
+![](ch14-03_page_7_Picture_2.jpeg)
 
 **FIGURE 95–2.** Severe RICA stenosis at the level of C-2 (anatomical high risk for CEA). Case Summary: 88y male with T2DM, HTN and s/p Left CEA several years earlier. One week prior to referral admitted with weakness of left upper and lower extremities and speech abnormalities. Made a full recovery. Non invasive evaluation: Carotid US (PSV/EDV): Right: 344/135. Left: Patent carotid artery with normal velocities. MRI positive for recent right hemispheric stroke. Invasive Angiography: Arch: Type 2. Isolated Right Hemisphere (absent anterior and posterior communicating arteries). Assessment/Plan: Symptomatic high-grade RICA stenosis, high risk for CEA (lesion at level of C-2) suitable for CAS with distal embolic protection (**A,** Lateral Projection; **B,** RAO). Increased risk in view of age > 80 years. Treatment: RICA Stented with 10 × 8 X-ACT with NAV-6 distal EPD. Postdilated with 4.5-mm balloon, uncomplicated (**C**). In view of the clinical circumstances (age, symptomatic stenosis) a single post inflation with a slightly undersized balloon (4.5 mm instead of 5.0 mm) was performed. Persistent hypotension and bradycardia post procedure recovered and discharged home on day 3. Follow-up: At 12 months RICA, patent stent, normal flow velocities on US. Asymptomatic.
 
 **C**
 
-![](_page_7_Picture_4.jpeg)
+![](ch14-03_page_7_Picture_4.jpeg)
 
-![](_page_7_Picture_5.jpeg)
+![](ch14-03_page_7_Picture_5.jpeg)
 
 **FIGURE 95–3.** Ideal lesion and vessel morphology for carotid stenting. Note the ICA/ECA angle is acute and the artery cephalad to the stenosis is free of significant tortuosity. This was an asymptomatic stenosis in a 65-year-old male with type 1 DM, HTN, HPL, and 3V CAD. The contralateral carotid had been stented a few years earlier (outline of this self-expanding stent is seen in **A**) and was patent without restenosis. The severe stenosis was treated using a distal embolic protection device. Uncomplicated. Discharged the following day with instructions to be on aspirin and clopidogrel for 2 months. Pre (**A**) and post (**B**) images are shown.
 
-![](_page_8_Picture_2.jpeg)
+![](ch14-03_page_8_Picture_2.jpeg)
 
 **FIGURE 95–4.** Bilateral > 80% asymptomatic stenosis. Case Summary: 71y right-handed female with T2DM, HTN, HPL, obesity, and known CAD. Duplex velocities suggested bilateral > 80% stenosis (asymptomatic). Refused MRA because of claustrophobia. Offered medical treatment with strict control of risk factors. Elected to proceed with invasive angiography with CAS if appropriate. Invasive Angiography: Arch: Type 1. Bilateral > 80% stenosis (**A**). Neither anterior nor posterior communicating arteries were opacified (isolated hemispheres). Treatment: LICA stented with 10 × 8 X-ACT with NAV-6 distal EPD (**B**). Post dilated with 5.0-mm balloon, uncomplicated. Note that a closed cell stent was used for this treatment (preference of SI, GR). Cephalad to the stented segment there is a tortuosity/kink noted in the carotid artery. This is a result of redundancy of the carotid artery and the placement of the closed cell stent. No treatment is indicated. Withdrawal of the sheath from the carotid artery will further relax the artery and reduce the severity of the kink. The origin of the ECA has a severe stenosis. At the conclusion of the procedure, the ECA was open with TIMI 3 flow, despite a residual high-grade stenosis. There is no indication for treating this stenosis in an asymptomatic patient. On rare occasion, occlusion of the external carotid artery produces jaw claudication and treatment may be indicated in this instance. Discharged home the following day. Follow-up: At 6 months LICA—Patent stent, normal flow velocities on US. Asymptomatic. Treatment (CAS) of the high-grade asymptomatic RICA stenosis is planned.
 
-![](_page_9_Picture_2.jpeg)
+![](ch14-03_page_9_Picture_2.jpeg)
 
 **FIGURE 95–5.** High-grade tandem stenosis involving the distal common carotid and the proximal segment of the ICA. The ECA is occluded; this poses a challenge, because anchoring the wire in the distal ECA to facilitate placement of the sheath in the common carotid artery is not an option. A heavy-gauge anchor wire should be placed in the distal common; the operator needs to have excellent wire control to avoid traumatizing these soft plaques with the wire tip. The stenosis is fairly long, which increases the embolic burden and the chances of an intraprocedural event. Note the stenosis extends to the bottom of C-2 and such high lesions are considered high risk for CEA. This anatomy will be technically challenging and should be a contraindication for the beginner and low- and medium-volume operators.
 
@@ -340,27 +340,27 @@ The standard noninvasive method for the evaluation of carotid artery stenosis is
 
 The quality of the MRA study is influenced not only by the generation of the equipment but also by the scanning protocol (with or without gadolinium), the correct timing sequence, as well as the skill and the experience of the interpreting physician. CT angiography is less operator dependent; however, it exposes the patient to iodinated contrast and radiation. Moreover, the majority of carotid bifurcations are calcified, which may interfere with accurate interpretation of stenosis severity on CTA. Noninvasive diagnostic accuracy and
 
-![](_page_9_Picture_7.jpeg)
+![](ch14-03_page_9_Picture_7.jpeg)
 
-![](_page_9_Picture_8.jpeg)
+![](ch14-03_page_9_Picture_8.jpeg)
 
 **FIGURE 95–6. A.** Greater than 90-degree (obtuse) ICA/ECA angle, a high-grade eccentric stenosis immediately distal to bifurcation and an ulcer proximal to the stenosis near the carotid bulb. Type 3 arch (not shown). The vessel distal to the stenosis is straight. **B.** Treatment result using an Emboshield (Abbott Vascular, USA) filter. The wire is independent of the filter, and this feature makes it easier to negotiate the unfavorable bifurcation as well as the severe eccentric stenosis. Predilatation may be needed. An open cell stent was used to treat the lesion on the bend; this stent design conforms to the ICA bend and does not introduce any additional bends in the ICA post stenting. Care should be taken to place the proximal end of the stent flush with the origin of the ICA—if it protrudes between the ICA origin and the CCA, the stent edge can cause problems in advancing the post-dilatation balloon as well as the filter-retrieval catheter. Note the ulcer is excluded and not obliterated, and no attempt should be made to obliterate the ulcer by using larger balloons. Flow to the ulcer crater will seal off in time. This anatomy will be technically challenging and should be a contraindication for the beginner and low- and medium-volume operators. Reproduced with permission from Creager MA, Beckman JA, Loscalzo J: *Vascular Medicine: A companion to Braunwald's Heart Disease*, 2nd edition. Philadelphia: Elsevier; 2013.
 
-![](_page_10_Picture_2.jpeg)
+![](ch14-03_page_10_Picture_2.jpeg)
 
 **FIGURE 95–7.** Extensive circumferential calcification of the internal carotid artery makes this lesion unsuitable for CAS. Subtraction imaging *without contrast* shows calcification of both the internal and common carotid arteries.
 
-![](_page_10_Picture_4.jpeg)
+![](ch14-03_page_10_Picture_4.jpeg)
 
 **FIGURE 95–9.** Severe ICA stenosis with "string sign" (flow less than TIMI III). Note the relatively complete filling of the ECA in comparison. The thrombus burden in such cases is high (even if it is not angiographically visible) and increases the risk of periprocedural embolization. These considerations should be incorporated into the risk analysis, especially in asymptomatic patients.
 
-![](_page_10_Picture_6.jpeg)
+![](ch14-03_page_10_Picture_6.jpeg)
 
-![](_page_10_Picture_7.jpeg)
+![](ch14-03_page_10_Picture_7.jpeg)
 
 **FIGURE 95–8.** Even though the arch is type I, marked proximal tortuosity of the proximal segment of the innominate (**A**) or proximal common carotid artery (**B**) renders the anatomy unfavorable for carotid stenting. Although use of flow reversal with direct carotid access (System from Silk Road) may be an option, in general, such types of anatomy are contraindications for stenting.
 
-![](_page_11_Picture_2.jpeg)
+![](ch14-03_page_11_Picture_2.jpeg)
 
 **FIGURE 95–10.** North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria for determining the degree of carotid stenosis. Luminal diameter at the site of greatest narrowing is recorded in three planes and is used as the numerator (a). A reference diameter is measured across a plaque-free section of the internal carotid artery distal to the stenosis (c) and is used as the denominator. The percentage stenosis is then calculated. The method used in the ECST trial compared luminal diameter at the site of greatest narrowing and compared it to the diameter of the carotid bulb (b). Reproduced with permission from Neale ML, Chambers JL, Kelly AT, et al: Reappraisal of duplex criteria to assess significant carotid stenosis with special reference to reports from the North American Symptomatic Carotid Endarterectomy Trial and the European Carotid Surgery Trial. *J Vasc Surg*. 1994 Oct;20:642-649.
 
@@ -434,7 +434,7 @@ The typical sequence of acquisition of the angiographic images is described next
 
 In 1984, Vitek and his neuroradiology colleagues from the University of Alabama at Birmingham70 reported angioplasty of the innominate artery aided by distal occlusion balloon protection of the common carotid artery. This early report represents the first percutaneous
 
-![](_page_12_Figure_20.jpeg)
+![](ch14-03_page_12_Figure_20.jpeg)
 
 **FIGURE 95–11.** Classification of the aortic arch. In the frontal projection, a horizontal line is drawn across the origin of the left subclavian artery. **TYPE I**. All the great vessels originate at the same level and meet this line. Access to the left carotid and the innominate artery is easiest with this aortic arch configuration. **TYPE II** and **TYPE III**. As the aorta becomes more unfolded and elongated (a function of increasing age and hypertension) the origin of the great vessels becomes displaced more posterior, and on the frontal projection, the origins are progressively displaced inferior to the horizontal line referenced above. Access becomes increasingly difficult because a catheter approaching from the descending aorta tends to prolapse into the ascending aorta. Reproduced with permission from Madhwal S, Rajagopal V, Bhatt DL et al. Predictors of difficult carotid stenting as determined by aortic arch angiography. *J Invasive Cardiol*. 2008 May;20:200-224.
 
@@ -546,7 +546,7 @@ Two-thirds of the sites (118 of 180, 66%) had no death and stroke events. Within
 - 2. Individually and collectively, a large number of patients, mainly asymptomatic, have been studied within the context of these registries and provide a robust data set for analysis of high CEA risk patients undergoing CAS in the United States. Cumulatively, a total of more than patients were included and analyzed in the three post-marketing studies (90% asymptomatic), and analysis of the data has helped provide answers to important questions concerning carotid stenting in a "real-world" setting.
 - 3. Carotid stenting outcomes have shown a steady and continuous improvement since the initial introduction of these devices in US
 
-![](_page_17_Figure_2.jpeg)
+![](ch14-03_page_17_Figure_2.jpeg)
 
 FIGURE 95–12. Published adverse event rates for carotid artery stent studies in high CEA risk registries over 10 years. Note the progressive decline in events over time. The year in parenthesis is the time of last patient enrollment. MI, myocardial infarction. Reproduced with permission from Creager MA, Beckman JA, Loscalzo J: Vascular Medicine: A companion to Braunwald's Heart Disease, 2nd edition. Philadelphia: Elsevier; 2013.
 

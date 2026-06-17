@@ -164,11 +164,11 @@ As for sex, LVNC is reported to be more common in men (56%-82%) than women.31,36
 
 Abbreviations: BSA, body surface area; CMR, cardiac magnetic resonance; CT, computed tomography; DCM, dilated cardiomyopathy; ED, end diastole; ES, end systole; LV, left ventricle; MDCT, multidetector computed tomography; MMI, myocardial mass index; RV, right ventricle; SAX, short axis.
 
-![](_page_3_Figure_2.jpeg)
+![](ch10-04_page_3_Figure_2.jpeg)
 
 **FIGURE 60–1.** Echocardiographic and color Doppler images from a patient with left ventricular noncompaction (LVNC). **A.** In the echocardiographic image, an atypical four-chamber view was used to better illustrate the noncompaction in the left ventricular (LV) apex. **B.** The same view with color Doppler imaging. This view highlights perfusion of intertrabecular recesses from the LV cavity. Reproduced from *J Am Coll Cardiol*. 2014;64:1840-1850.8
 
-![](_page_3_Figure_4.jpeg)
+![](ch10-04_page_3_Figure_4.jpeg)
 
 **FIGURE 60–2.** Cardiac magnetic resonance image from a patient with left ventricular (LV) noncompaction. **A.** Short-axis view showing the hypertrabeculation in all mid-LV segments apart from the interventricular septum. **B.** Long-axis view showing the hypertrabeculation mainly in the apical and mid-LV segments. Reproduced with permission from Arbustini E, Weidemann F, Hall JL. Left ventricular noncompaction: a distinct cardiomyopathy or a trait shared by different cardiac diseases? *J Am Coll Cardiol*. 2014 Oct 28;64:1840-1850.8
 
@@ -186,7 +186,7 @@ Aside from the congenital embryonic hypothesis, serial echocardiographic evaluat
 
 LVNC can be regarded as an isolated entity or as one of the traits that may recur in other cardiac and noncardiac diseases. As a marker, it may suggest specific diagnoses (eg, tafazzinopathies [caused by mutations in the *TAZ* (*Tafazzin*, or *G4.5*) gene] in male infants with a dilated phenotype, or dystrobrevinopathy in adults).63,64 As a structural trait with potential functional effects, it may cause or contribute to LV dysfunction in coexisting morphofunctional disorders such as
 
-![](_page_4_Figure_2.jpeg)
+![](ch10-04_page_4_Figure_2.jpeg)
 
 **FIGURE 60–3.** A summary of all known conditions and diseases in which left ventricular noncompaction (LVNC) has been reported. ARVC, arrhythmogenic right ventricular cardiomyopathy; DCM, dilated cardiomyopathy; HCM, hypertrophic cardiomyopathy; HF, heart failure; LV, left ventricular; RCM, restrictive cardiomyopathy.
 
@@ -299,13 +299,13 @@ Mutations in *ACTC1* (cardiac actin alpha) were first reported in LVNC by Klaass
 
 Indicates the phenotype.
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-04_page_7_Figure_2.jpeg)
 
 **MNC OH GUndet EG-DSG2 [p.(Ile16Thr)] SC-I**
 
-![](_page_7_Picture_4.jpeg)
+![](ch10-04_page_7_Picture_4.jpeg)
 
-![](_page_7_Picture_5.jpeg)
+![](ch10-04_page_7_Picture_5.jpeg)
 
 **FIGURE 60–4.** The figure shows the pedigree of a family in which the young proband (arrow, 23 years) had the first diagnosis of suspected left ventricular noncompaction (LVNC)/hypertrabeculation at the age of 13 years; he had played soccer for about 8 years. The boy suffered growth retardation and was treated with growth hormone (from the age of 5 to 16 years). Over the course of 10 years, he underwent several cardiology evaluations, including three cardiac magnetic resonance (CMR) scans and yearly echocardiographic evaluations, treadmill tests, and 24-holter monitoring, without a conclusive diagnosis. At present, his echocardiographic evaluation showed prominent apical trabeculation with a noncompacted-to-compacted (NC/C) ratio of 2.15. Left ventricular dimensions and functions are within normal ranges. Last CMR confirmed the hypertrabeculation, but measurements have been considered as not fulfilling criteria for the diagnosis of LVNC. The right ventricle did not show abnormalities. Clinical family screening was performed before deciding about genetic testing. Multigene panel analysis by next-generation sequencing demonstrated a novel variant in the *DSG2* gene, inherited from the father who does not show LVNC or hypertrabeculation but suffers lone atrial fibrillation. The patient is being monitored. This is a paradigmatic case of difficult diagnostic conclusion; similar cases are increasingly addressed using genetic evaluation to gather information for a possible definite diagnosis.
 
@@ -325,17 +325,17 @@ Hypertrabeculation or noncompaction of the LV has been described in several neur
 
 #### *MYH7 p.(Gly716Arg)*
 
-![](_page_8_Picture_3.jpeg)
+![](ch10-04_page_8_Picture_3.jpeg)
 
-![](_page_8_Picture_4.jpeg)
+![](ch10-04_page_8_Picture_4.jpeg)
 
 **FIGURE 60–5.** Phenotype heterogeneity in affected members of the same family and lack of segregation of the left ventricular noncompaction (LVNC) with the disease mutation. The figure shows the pedigree and the macroscopic view of the hearts excised at transplantation from I:1 and his son (II:2). The father was first diagnosed at the age of 36 years and underwent heart transplantation 10 years later; the son was first diagnosed with hypertrophic cardiomyopathy (HCM) at the age of 20 years and underwent heart transplantation 4 years later. Although father and son carry the same mutation in the *MYH7* gene, the cardiac remodeling in the two hearts differs. In I:1, the heart shows prominent trabeculae in both right and left ventricle; in II:2, the macroscopic phenotype is that of a typical HCM. I:1, MOGE(S) descriptor: the morphofunctional (M) phenotype indicates the hypertrophic cardiomyopathy (H), with dilated evolution (D) and associated noncompaction (NC); O (organ) specifies that the only involved organ was the heart (H); G (genetic) indicates that the disease had genetic basis and the inheritance was autosomal dominant (AD); E (etiology) specification indicates that the disease gene is *MYH7* and the mutation was p.(Gly716Arg); the pathologic mutation is in red.
 
-![](_page_8_Figure_6.jpeg)
+![](ch10-04_page_8_Figure_6.jpeg)
 
 IV:2, 16 yrs M0(LVNC) OH GAD E G-LMNA[p.(Arg72Cys)] SA-I
 
-![](_page_8_Figure_8.jpeg)
+![](ch10-04_page_8_Figure_8.jpeg)
 
 **FIGURE 60–6.** Autosomal dominant dilated cardiolaminopathy with conduction disease. Patient I:1 died suddenly at the age of 46 years; he was known to be affected by dilated cardiomyopathy (DCM) and had received pacemaker (PM) implantation a few years before death. Both patients II:3 and III:1 showed typical DCM phenotype with atrioventricular block (AVB). The young son (14 years, IV:2) of patient III:1 demonstrated prominent trabeculae and slightly increased left ventricular diameter (55 mm) with normal function. SD, sudden death.
 
@@ -361,9 +361,9 @@ Syndromes with LVNC (or syndromic LVNC) are either sporadic or familial. The NC 
 
 Right ventricular noncompaction (RVNC) can occur as an isolated entity,4,102,103 in association with LVNC,5 with predominant right ventricular involvement,104 or in patients with CHD.105 In rare cases, it may cause right ventricular outflow tract obstruction as a result of hypertrophied spongy muscle at the infundibular region.106 Given the complex trabecular anatomy of the right ventricle, the diagnosis is difficult but feasible with routine imaging tools and, when necessary, right ventriculography.106 RVNC may be an occasional finding in family screening studies (Fig. 60–7).
 
-![](_page_9_Figure_8.jpeg)
+![](ch10-04_page_9_Figure_8.jpeg)
 
-![](_page_9_Figure_9.jpeg)
+![](ch10-04_page_9_Figure_9.jpeg)
 
 **FIGURE 60–7.** Prominent right ventricular trabeculations in a young man (36 years) who was addressed to genetic counseling after the sudden death of his first son (first day of life). The echocardiographic study showed normal left ventricular (LV) dimension and morphology; although trabeculae were prominent in the left ventricular apex, criteria for LV noncompaction (LVNC) were not fulfilled. The patient is undergoing regular clinical monitoring.
 
@@ -400,9 +400,9 @@ The identification of LVNC in preparticipation screening studies had demonstrate
 
 A form of reversible LVNC has been described in pregnancy. In a prospective longitudinal echocardiographic study of 102 primigravida pregnant normotensive women (66 white women and 36 black women) without family history of cardiomyopathy or premature sudden cardiac death, 25% developed increased LV trabeculations during pregnancy. The finding was more common in black women than in white women. Furthermore, 10 women (9.8%) fulfilled the Jenni et al2 criteria, 19 (18.6%) fulfilled the Chin et al9 criteria, and 8 (7.8%) fulfilled both criteria for LVNC. There was no significant association between increased LV trabeculations and age, body mass index, systolic blood pressure, LV cavity dimension, stroke volume, or LV mass. Ethnicity was the only independent predictor for the presence of increased (three or more) trabeculations during pregnancy, with black women being almost three times more likely to develop increased LV trabeculations than white women during pregnancy after adjustment for the aforementioned factors. After delivery, 18 women (69.2%) showed complete resolution of LV trabeculations over a mean duration of 8.1 ± 4.2 months, whereas 7 women (27%) continued to display LV trabeculations, without predilection for ethnicity.56 Further series are necessary to confirm this transient trabecular remodeling and the low risk.113 However, the study56 adds evidence to the possibility that LVNC can not only be acquired, but also transient and, therefore, does not necessarily represent a primary myocardial disorder.114
 
-![](_page_10_Picture_8.jpeg)
+![](ch10-04_page_10_Picture_8.jpeg)
 
-![](_page_10_Picture_9.jpeg)
+![](ch10-04_page_10_Picture_9.jpeg)
 
 **FIGURE 60–8.** The figure shows the pedigree of a small family in which the proband (III:2) is a 12-yearold healthy boy, who plays soccer. He has been incidentally diagnosed with left ventricular noncompaction (LVNC) after identification of nonspecific electrocardiogram abnormalities in preparticipation screening (diphasic T waves in V2 -V3 , D2 , aVF). Left ventricular (LV) function and dimensions were within normal ranges (LV ejection fraction, 55%; LV end-diastolic diameter, 52 mm; according to Henry, 104.8; Z-score, 0.50). The echocardiographic evaluation of the brother (III:1; soccer player) showed prominent trabeculation confirmed by cardiac magnetic resonance (CMR), not fulfilling criteria for the diagnosis of LVNC. Both parents are not athletes and had normal echocardiographic evaluation. Extensive genetic testing analysis did not identify pathologic mutations. Both siblings are carriers of a genetic variant of unknown significance (p.Lys393Asn) in the *KCNQ1* gene. The two echocardiographic panels show the trabecular pattern in the two siblings; the CMR panel shows prominent trabeculae in III:2. The variant is inherited from the healthy father.
 
@@ -430,7 +430,7 @@ All the above acquired conditions of LVNC demonstrate that a unique pathogenetic
 
 In patients with LVNC associated with cardiomyopathies, CHDs, or complex syndromes, clinical workup is guided by the primary disease rather than by the LVNC itself. Vice versa, in individuals demonstrating isolated LVNC with normal cardiac function and dimensions, the diagnostic workup should be tailored based on individual characteristics and findings emerging from cardiologic investigations, family history (and eventually screening), advanced imaging, and monitoring (Fig. 60–9). Over the past 20 years, LVNC has been repeatedly described as *LVNC cardiomyopathy*. Efforts by several groups of researchers to establish precise diagnostic criteria (Table 60–1) for
 
-![](_page_11_Figure_13.jpeg)
+![](ch10-04_page_11_Figure_13.jpeg)
 
 **FIGURE 60–9.** Flow chart showing possible workup in patients diagnosed with left ventricular noncompaction (LVNC) and normal left ventricular (LV) function and dimensions versus patients demonstrating LV dysfunction or other associated cardiac abnormalities. CMR, cardiac magnetic resonance; LGE, late gadolinium enhancement; MDCT, multidetector computed tomography; PDA, patent ductus arteriosus; VSD, ventricular septal defect.
 

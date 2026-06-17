@@ -74,7 +74,7 @@ There are four cardiac potassium currents involved in LQTS: the slow  $(I_{\rm K
 
 *KCNQ1* is the gene of the  $I_{\rm Ks}$  current (slow component of the delayed rectifier current). It represents the most common variant of LQTS (LQT1), which accounts for 45% to 55% of patients.  $^{1.2}$   $I_{\rm Ks}$  is mostly
 
-![](_page_1_Figure_2.jpeg)
+![](ch13-03_page_1_Figure_2.jpeg)
 
 FIGURE 80—1. Electrocardiogram in long QT syndrome (LQTS). Upper row shows electrocardiogram (ECG) strips from three LQTS patients with marked QT prolongation and typical ST-T morphologic abnormalities: straight ST segment (*left*), wide T wave with late component (*center*), and biphasic T wave (*right*). The ECG shown in the lower row is an example of the typical polymorphic ventricular tachycardia that can lead to syncope and/or sudden cardiac death in LQTS.
 
@@ -108,7 +108,7 @@ active during phase 3 of the action potential, but its role in the control
 
 The cardiac sodium current  $(I_{\rm Na})$  is the major determinant of phase 0 (depolarization) of the cardiac action potential and is involved in the pathogenesis of different LQTS variants but primarily of LQT3. LQT3 is caused by SCN5A gain-of-function mutations and represents the third most frequent LQTS variant. LQT3 mutations induce an increase of the late component of  $I_{\rm Na}$ , leaving the peak (fast) component of the current unaffected or only mildly altered. This prototypical LQT3 defect can be accompanied by a spectrum of mutation-specific biophysical abnormalities, including loss-of-function defects that underlay the so-called *overlap syndromes*—a combination of LQT3 and Brugada syndrome and/or conduction defect (see below). A gain of function of  $I_{\rm Na}$  is also present in LQT9 as a result of the CAV3 gene, LQT10 as a result of SCN4B, and LQT12 as a result of the syntrophin gene (SNTA1). Overall, mutations in these
 
-![](_page_2_Figure_2.jpeg)
+![](ch13-03_page_2_Figure_2.jpeg)
 
 **FIGURE 80–2.** LQTS genes and proteins grouped by function. Four major groups can be identified: genes that alter the cardiac sodium current (group 1), genes affecting cardiac calcium channel and intracellular calcium handling (group 2), genes controlling the early repolarization (group 3) including phase 2 and 3 of the cardiac action potential, and genes that affect mainly the resting membrane potential (group 4). The action potential phases involved for each functional group are highlighted with a *red line* on the action potential. The *dotted line* indicates the fact that *I* Ca is of limited force, albeit active, during phase 0.
 
@@ -169,7 +169,7 @@ Genotype-phenotype correlations are available for the three most prevalent LQTS 
 
 The use of genotype information has significantly improved the risk stratification and management, but relevant intraindividual variability16 hampers the possibility of individualized approaches. Several efforts in this direction have been pursued. Studies have suggested that mutations occurring in the pore region of the *KNCH2* gene or in the C-loop region of *KCNQ1* are associated with a more severe prognosis. On the other hand, C-terminal mutations of *KCNQ1* are often found in mild LQTS cases.16,17 These additional markers of risk have not been included in specific risk stratification schemes so far; therefore, their systematic applicability is limited. More recently, the technique of electrocardiographic imaging (ECGI) is emerging as a possible means to overcome the current limitations in LQTS risk stratification. ECGI is a computational technique that allows reconstructing the pattern of epicardial electrical activation with the combined use of surface ECG mapping and anatomic data (cardiac computed tomography scan or
 
-![](_page_4_Figure_2.jpeg)
+![](ch13-03_page_4_Figure_2.jpeg)
 
 **FIGURE 80–3.** Risk stratification in long QT syndrome (LQTS). *Upper panel* shows the risk categories in LQTS according to QTc duration, genotype, and sex. Percentages on the left indicate the risk of a first cardiac event (syncope or cardiac arrest) in patients younger than 40 years of age in the absence of any LQTS active treatment. The *lower panel* shows the cardiac event-free survival in LQTS patients on active β-blocker therapy. The presence of an LQT2 or LQT3 mutation is an independent predictor of reduced efficacy: hazard ratio values are reported in the figure. Upper panel reproduced with permission from Priori SG, Schwartz PJ, Napolitano C, et al: Risk stratification in the long-QT syndrome. *N Engl J Med*. 2003 May 8;348:1866-1874.
 
@@ -197,11 +197,11 @@ At least four more genes have been linked to adrenergically induced arrhythmias 
 
 Ankyrins are adapter proteins with key modulatory and targeting roles in membrane protein targeting, including the cardiac sodium channel and the sodium calcium exchanger. Initially, an ankyrin-B
 
-![](_page_5_Figure_2.jpeg)
+![](ch13-03_page_5_Figure_2.jpeg)
 
 **FIGURE 80–4.** Arrhythmias in catecholaminergic polymorphic ventricular tachycardia (CPVT). The *upper panel* shows bidirectional ventricular tachycardia during exercise stress test at low workload and arising at a sinus heart rate of 115 bpm. An example of supraventricular arrhythmias is shown in the *lower panel*.
 
-![](_page_5_Picture_4.jpeg)
+![](ch13-03_page_5_Picture_4.jpeg)
 
 **FIGURE 80–5.** Pathophysiology of catecholaminergic polymorphic ventricular tachycardia (CPVT). The normal process of calcium-induced calcium release (CICR) includes three steps (blue numbers 1 to 3): the calcium entering the cell through the voltage-dependent L-type channels triggers further calcium release from the sarcoplasmic reticulum (SR) through the ryanodine receptors. After contraction, the calcium reuptake from the cytosol to the SR is an active process controlled by the calcium ATPase pump (SERCA). In the presence of CPVT mutations, the ryanodine receptor releases an excessive amount of calcium, and it is "leaky" during the electrical diastole. This leads to cytosolic calcium overload that is removed from the cells by an abnormal hyperactivation of the sodium-calcium exchanger (NCX) that extrudes calcium. However, NCX generates a net inward current because it transports three sodium ions (three positive charges) for one calcium ion (two positive charges). This current is called *transient inward* current and is visible as a depolarizing "hump" (delayed afterdepolarization [DAD]) on the action potential. When large enough, DADs may trigger extrasystolic action potential(s) (triggered beat). The genes associated with CPVT (or CPVT-like; see text for details) phenotypes are also illustrated and shown in *bold red* type.
 
@@ -231,7 +231,7 @@ Finally, left cardiac sympathetic denervation (LCSD) has been proposed for CPVT 
 
 Brugada syndrome (BrS) is characterized by a peculiar ECG pattern of ST-segment elevation in leads V1 to V3 (Fig. 80–6) and incomplete or complete right bundle branch block in the absence of signs of acute myocardial ischemia. Syncope and sudden death are the typical symptoms.
 
-![](_page_6_Figure_14.jpeg)
+![](ch13-03_page_6_Figure_14.jpeg)
 
 **FIGURE 80–6.** Electrocardiogram patterns in Brugada syndrome (BrS). Only type 1 ST-segment elevation either spontaneously present or induced by ajmaline/flecainide testing is considered diagnostic for BrS. Types 2 and 3 may lead one to suspect the presence of BrS, but drug testing with flecainide or ajmaline is required for diagnosis.
 
@@ -280,7 +280,7 @@ The cardiac transient outward potassium (*I*to) current is emerging as another c
 | BrS17   | SCN2B    | Cardiac sodium channel β2<br>-subunit                                   | Loss of function/reduced Na+ current                                                               |
 | BrS18   | ABCC9    | ATP-binding cassette transporter of I<br>-ATP<br>K                      | Incomplete closing of the ATP-sensitive potassium channels; negative shift of I<br>Na inactivation |
 
-![](_page_8_Picture_2.jpeg)
+![](ch13-03_page_8_Picture_2.jpeg)
 
 **FIGURE 80—7.** Multiplicity of genes causing Brugada syndrome (BrS) resulting from loss of function of sodium current (*upper panel*) or calcium current (*lower panel*). A reduced or abnormal sodium current can be a result of mutations in at least seven different genes. Three genes can cause BrS as a result of an abnormal calcium channel (*CACNA1c*, *CACNB2*, *CACNA2D1*), whereas no mutations have been identified so far in the calcium channel  $\gamma$ -subunit. Overall, both  $I_{ha}$  (sodium current) and  $I_{ca}$  (calcium current) are generated and regulated by several proteins that aggregate in macromolecular complexes.
 
@@ -331,11 +331,11 @@ Quinidine may prevent arrhythmia inducibility at PES and may prevent the occurre
 
 Short QT syndrome (SQTS) is a rare genetically determined disorder causing arrhythmias and sudden death in the setting of an abnormally short QT interval and structurally normal heart (Fig. 80–9).
 
-![](_page_9_Figure_11.jpeg)
+![](ch13-03_page_9_Figure_11.jpeg)
 
 FIGURE 80—8. Age-dependent distribution of cardiac events in Brugada syndrome. The figure shows the relative incidence of combined end point of syncope and cardiac arrest in patients clustered by age (10-year intervals). Data have been obtained from a cohort of consecutive patients enrolled in the Pavia Brugada Syndrome Registry (n = 1057). Overall, there were 269 events (25.4%). Cardiac arrest occurred in 10.1% of patients with a similar age distribution.
 
-![](_page_10_Figure_2.jpeg)
+![](ch13-03_page_10_Figure_2.jpeg)
 
 **FIGURE 80–9.** Examples of typical ST-T patterns in short QT syndrome (SQTS). Leads V1 to V3 are reported from a patient with SQTS3 (*left panel*) and SQTS2 (*right panel*).
 
@@ -357,7 +357,7 @@ The average cardiac event rate in SQTS is around 1% per year,49 but cardiac arre
 
 Penetrance is defined as the ratio between the number of individuals showing the disease phenotype and the number of carriers of a given mutation. This is a common finding in all IADs. It is usually rather high in more severe conditions such as Timothy syndrome and CPVT, but it may be as low of 30% to 50% for some genes (eg, the average reported penetrance for LQT1 and LQT5 is 55% and 33%, respectively). Variable penetrance should always be considered when assessing families with suspected inherited arrhythmias, and it should prompt the use of genetic testing in all available family members whenever a mutation is identified in the proband. Variable penetrance can be the result of the presence of modulatory genetic factors, known as "genetic modifiers." Population studies demonstrated that the heritable component of various ECG parameters is between 25% and 45% of the total variance, and it includes the QT, RR, and PR intervals and RR variability.54 Accordingly, QT interval and risk of events in LQTS patients are modulated by single nucleotide polymorphisms (SNPs). Specific data have been observed for few SNPs on the *NOS1AP* gene
 
-![](_page_11_Figure_2.jpeg)
+![](ch13-03_page_11_Figure_2.jpeg)
 
 FIGURE 80—10. Schematic representation of overlap phenotypes that can be observed in inherited arrhythmogenic diseases. The connectors represent the combinations of phenotypes reported in the literature. The specific gene(s) involved in one or more cases of overlap phenotype are reported above each connector. ARVC, arrhythmogenic right ventricular cardiomyopathy; BrS, Brugada syndrome; CCD, cardiac conduction defect; CPVT, catecholaminergic polymorphic ventricular tachycardia; DCM, Dilated cardiomyopathy; FAF, familial atrial fibrillation; LQTS, long QT syndrome; LVNC, left ventricular noncompaction; SQTS, short QT syndrome; SSS, sick sinus syndrome; TS, Timothy syndrome.
 

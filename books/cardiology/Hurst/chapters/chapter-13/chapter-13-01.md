@@ -40,7 +40,7 @@ The phrenic nerves descend over the pericardial sac. The right phrenic nerve cou
 
 The relationship between the right and left atria is highlighted in Figure 78–4. When viewed from the frontal plane (see Fig. 78–4A), the right atrium is rightward and anterior, whereas the left atrium is leftward and posterior (see Fig. 78–4B). The left atrium is also more superior (cephalad) relative to the right atrium. As mentioned earlier, the roof of the left atrium (including the Bachman bundle) forms the inferior aspect of the transverse pericardial sinus. The posterior wall of the left atrium is just in front of the tracheal bifurcation and esophagus. When looking at the right atrium from the right lateral view, one can
 
-![](_page_1_Picture_2.jpeg)
+![](ch13-01_page_1_Picture_2.jpeg)
 
 **FIGURE 78–1.** Chest x-ray illustrating the frontal view and associated anatomy of the heart and mediastinum. The right heart border is dominated by the right atrium. The left heart border is marked by a series of prominences or "moguls." These moguls correspond to the aortic knob, pulmonary artery, left atrial appendage (auricle), and left ventricle (superior to inferior). Reproduced with permission from Knipe H and Gaillard F. Normal contours of the cardiomediastinum on chest radiography. (Accessed from <http://radiopaedia.org/articles/normal-contours-of-the-cardiomediastinum-on-chest-radiography>). Case courtesy of A. Prof Frank Gaillard, Radiopaedia.org.
 
@@ -48,11 +48,11 @@ see Waterston's groove, which is the sulcus between the pulmonary veins (posteri
 
 The atrial septum runs obliquely from the front extending backward and to the right. The posterior part of the left atrium receives the pulmonary veins. The orifices of the left pulmonary veins are more superiorly located than those of the right pulmonary veins. Typically, there are four pulmonary veins (left superior, left inferior, right superior, and right inferior). Sometimes, there is a fifth pulmonary vein (usually a right middle pulmonary vein), and sometimes, two of the veins will share a common antrum (eg, a left common antrum).8 Coursing close to the lateral and posterior mitral annulus is the coronary sinus/great cardiac vein (see Fig. 78–4). The oblique vein of Marshall enters the coronary sinus; it passes superiorly to inferiorly, between the left atrial appendage and the left superior pulmonary vein. This vein is obliterated in the majority of individuals, and the remnant of this vein (also termed the ligament of Marshall) is contained in the Coumadin ridge.
 
-![](_page_1_Figure_7.jpeg)
+![](ch13-01_page_1_Figure_7.jpeg)
 
 **FIGURE 78–2.** Two halves of the same specimen bisected longitudinally to show the relationship between the posterior wall of the left atrium and the esophagus. Ao, aorta; Es, esophagus; LA, left atrium; LAA, left atrial appendage; LI, left inferior pulmonary vein; LS, left superior pulmonary vein; MV, mitral valve; RI, right inferior pulmonary vein; RS, right superior pulmonary vein.
 
-![](_page_2_Figure_2.jpeg)
+![](ch13-01_page_2_Figure_2.jpeg)
 
 **FIGURE 78–3. A.** The right phrenic nerve (*arrows*) descends along the pericardium, in close proximity to the right pulmonary veins as they enter the left atrium. **B.** The descent of the left phrenic nerve is commonly related to the great cardiac vein and anterior descending coronary artery or, as in this specimen, over the course of the obtuse marginal or lateral vein. Abbreviations as before, and OV, obtuse vein; RA, right atrium; SCV, superior caval vein (superior vena cava).
 
@@ -66,11 +66,11 @@ From the epicardial aspect, the right atrium is dominated by its large, triangul
 
 The eustachian valve guards the entrance of the inferior vena cava and is variably developed between individuals. In most hearts, it appears as a triangular flap of fibrous tissue. The eustachian valve is a fibrous extension from the inferior margin of the crista terminalis that inserts medially to the eustachian ridge (Fig. 78–8). In some cases, the eustachian valve is particularly large and muscular and can pose
 
-![](_page_2_Figure_9.jpeg)
+![](ch13-01_page_2_Figure_9.jpeg)
 
 **FIGURE 78–4. A.** A view of the endocast from the right lateral view shows the characteristically extensive pectinate muscles of the right atrial wall contrasting with the smooth vestibule. The right superior pulmonary vein is posterior to the superior vena cava. **B.** The endocast viewed from the back or posterior view shows the right pulmonary veins passing behind the superior vena cava and the intercaval area. The coronary sinus is inferior to the left atrium. Abbreviations as before, and, CS, coronary sinus; ICV, inferior caval vein (inferior vena cava).
 
-![](_page_3_Figure_2.jpeg)
+![](ch13-01_page_3_Figure_2.jpeg)
 
 **FIGURE 78–5. A.** The heart viewed from the left and inferior aspect shows a small remnant of the vein of Marshall (*arrow*) descending along the atrial wall in between the left atrial appendage and the left pulmonary veins to enter the coronary sinus. The left atrial isthmus between the left inferior pulmonary vein and the mitral valve is indicated by the dotted line. **B.** The long axis cut through the left atrium and left ventricle shows the orifices of the left pulmonary veins and the left atrial isthmus (*dotted line*). Note the narrow fold (*arrow*) between the os of the left atrial appendage and the orifice of the left superior pulmonary vein in the heart. It may be challenging to keep the ablation catheter stable along this narrow fold without dropping inadvertently into the vein or the appendage. Abbreviations as before, and GCV, great cardiac vein.
 
@@ -86,7 +86,7 @@ During transseptal catheterization, the left atrium is accessed from the right a
 
 In approximately 20% to 25% of normal hearts, the fossa is patent, even though on the left atrial side the valve is large enough to overlap the rim. This is because the adhesion of the valve to the rim is incomplete, leaving a gap usually in the anterosuperior margin corresponding to a C-shaped mark in the left atrial side just behind the anterior atrial wall (Fig. 78–12). The gap in adhesion allows a probe, or catheter, in the right atrium to slip between the rim and the valve into the left atrial chamber. A catheter lodged in this crevice will have its tip directed toward the anterior wall of the left atrium. The anterior aspect of the fossa ovalis is adjacent to the noncoronary cusp, an important relationship to appreciate in order to avoid inadvertent puncture of the aortic root. The use of intracardiac ultrasound helps facilitate accurate and safe crossing of the true septum.
 
-![](_page_4_Picture_2.jpeg)
+![](ch13-01_page_4_Picture_2.jpeg)
 
 **FIGURE 78–6. A.** The parietal wall of the right atrium has been cut and deflected posteriorly to show the crista terminalis (*arrows*). X indicates the distal ramifications of the crista terminalis that lead into the cavotricuspid isthmus. **B.** A similar display with transillumination reveals the thin areas in between the pectinate muscles, at the inferior isthmus, and the posteroinferior part of the intercaval atrial wall. Abbreviations as before, and, TV, tricuspid valve.
 
@@ -98,11 +98,11 @@ As with the right atrium, the left atrium has three components and shares its se
 
 form in the appendage as a result of low flow and stasis. Unlike the right atrium, virtually all the pectinate muscles in the left atrium are confined to the appendage. The lumen of the appendage is lined by a complicated network of muscular ridges and intervening membranes
 
-![](_page_4_Figure_9.jpeg)
+![](ch13-01_page_4_Figure_9.jpeg)
 
 **FIGURE 78–8.** Simulating a right anterior oblique projection, the right atrium is opened to show the septal aspect that appears extensive, but the area marked by the hexagon is not septal. Termed the *aortic mound*, it is the anterior wall of the right atrium that abuts the non- and right coronary aortic sinuses. The true septum is limited to the valve of the fossa ovalis/oval foramen (OF) and its immediate muscular rim. The triangle of Koch is delineated posteriorly by the tendon of Todaro (*arrows*) running in the eustachian ridge, anteriorly by the septal leaflet of the tricuspid valve, and inferiorly by the coronary sinus. The apex of the triangle is marked by the central fibrous body (*dotted shape*) through which the atrioventricular conduction bundle penetrates (*hatched*). The atrioventricular node and its inferior extensions are depicted by the white shape. The cavotricuspid isthmus is bordered posteriorly by the eustachian valve (*blue line*) and anteriorly by the tricuspid valve (*red line*). Within this area are marked three isthmuses: paraseptal isthmus (dots), inferior or central flutter isthmus (*dashes*), and inferolateral isthmus (*dots and dashes*). The inferior isthmus passes through the sinus of Keith (*triangle*). The coronary sinus is guarded by a crescentic thebesian valve. Abbreviations as before, and ER, eustachian ridge; EV, eustachian valve.
 
-![](_page_5_Picture_2.jpeg)
+![](ch13-01_page_5_Picture_2.jpeg)
 
 **FIGURE 78–9.** Schematic of the right atrium illustrating the triangle of Koch (see anatomic specimen in Fig. 78–8). The slow pathway region, the target of ablation in the treatment of atrioventricular nodal reentrant tachycardia, is just anterior to the os of coronary sinus (CS). AVN, atrioventricular node; CT, crista terminalis; ER, eustachian ridge; EV, eustachian valve; FO, fossa ovalis; IVC, inferior vena cava; TCV, tricuspid valve. Reproduced with permission from Macedo PG, Patel SM, Bisco SE, Asirvatham SJ. Septal accessory pathway: anatomy, causes for difficulty, and an approach to ablation. *Indian Pacing Electrophysiol J*. 2010 Jul 20;10:292-309.
 
@@ -114,7 +114,7 @@ The anterior vestibular component leads to the mitral valve. There are no surfac
 
 The mitral isthmus is occasionally targeted in substrate ablation during ablation procedures in patients with advanced atrial fibrillation. The tissue of the mitral isthmus is very thick, and therefore, complete transmural ablation can be difficult to achieve.
 
-![](_page_5_Figure_9.jpeg)
+![](ch13-01_page_5_Figure_9.jpeg)
 
 **FIGURE 78–10.** Computed tomography images of the paraseptal region. **A.** Volume-rendered image viewed from the right anterior oblique (RAO) 65-degree and cranial (CRA) 10-degree view. The membranous septum (MS) is shown in *blue*, and the *star* indicates the location of the compact atrioventricular node at the apex of the triangle of Koch. In part **B**, the transparency has been increased. The *red dotted circle* indicates the caudal portion of the superior paraseptal area, and the *yellow dotted circle* indicates the septal part of the superior paraseptal area. The *green dotted triangle* indicates the mid-paraseptal area corresponding to the triangle of Koch. The *orange dotted circle* indicates the inferior paraseptal area. The *white dotted oval* indicates the cavotricuspid isthmus extending from the tricuspid annulus to the inferior vena cava. Ao, ascending aorta; CB, conus branch; CS, coronary sinus; ER, Eustachian ridge; ICV, inferior caval vein; OF, oval fossa (fossa ovalis); RCA, right coronary artery; SCV, superior caval vein (superior vena cava); SMT, septomarginal trabecula; SNA, sinus node artery; SPT, septoparietal trabecula; TT, tendon of Todaro. Reproduced with permission from Mori S, Fukuzawa K, Takaya T, et al. Clinical structural anatomy of the inferior pyramidal space reconstructed within the cardiac contour using multidetector-row computed tomography. *J Cardiovasc Electrophysiol*. 2015 Jul;26:705-712.
 
@@ -124,7 +124,7 @@ In the normal heart, the fibrous rings of tissue surrounding the atrioventricula
 
 The true septal component is limited to the area of the central fibrous body and immediate musculature. The socalled *anterior septum* is contiguous with part of the supraventricular crest of the right ventricle, whereas the *posterior septum* is formed by the muscular floor of the coronary sinus overlying the diverging posterior walls of the ventricular mass and the vestibule of the right atrium overlapping ventricular myocardium (the atrioventricular septum). Anatomically, the atrioventricular junction can be described as comprising
 
-![](_page_6_Picture_2.jpeg)
+![](ch13-01_page_6_Picture_2.jpeg)
 
 **FIGURE 78–11.** A long-axis section through the heart profiles the cardiac septum to show the thin valve of the fossa ovalis (*open arrow*) on the left atrial side and the muscular rim on the right atrial side. The cut reveals the infolding of the right atrial wall at the superior rim that is filled with epicardial fat (*asterisk*) to form the interatrial groove. At the ventricular septum, the leaflets of the tricuspid and mitral valves are hinged at different levels (*small arrows*) producing offset between the right and left atrioventricular junctions. Thus, the vestibule of the right atrium overlies the ventricular septum. Abbreviations as before.
 
@@ -148,23 +148,23 @@ apical trabecular component. The ventricular septum curves as it is traced from 
 
 The right ventricle is the most anteriorly situated cardiac chamber in the normal heart. It is located immediately behind the sternum. This anatomic relationship is important to recognize when performing pericardiocentesis. Using an anterior approach, if the needle continues through and past the pericardial space, the needle will encounter the right ventricular free
 
-![](_page_7_Picture_2.jpeg)
+![](ch13-01_page_7_Picture_2.jpeg)
 
-![](_page_7_Picture_3.jpeg)
+![](ch13-01_page_7_Picture_3.jpeg)
 
 **FIGURE 78–13. A.** Posterior view of the left atrium from a computed tomography scan. Shown are the four pulmonary veins draining into the posterior left atrium. Note that the left superior and left inferior veins share a common antrum in this heart. LI, left inferior pulmonary vein; LS, left superior pulmonary vein; RI, right inferior pulmonary vein; RS, right superior pulmonary vein. **B.** Posterior view of an anatomic specimen showing atrial fiber orientation around the pulmonary vein sleeves and posterior wall of the left atrium. LIPV, left inferior pulmonary vein; LSPV, left superior pulmonary vein; RIPV, right inferior pulmonary vein; RSPV, right superior pulmonary vein.
 
-![](_page_7_Figure_5.jpeg)
+![](ch13-01_page_7_Figure_5.jpeg)
 
 **FIGURE 78–14. A.** A view of the cardiac base with the broken lines representing the annuli of the mitral and tricuspid valves and the box representing the extent of the septum at the atrioventricular junction illustrates how much of the junction is not septal. **B.** Viewed from the ventricular aspect and in attitudinal orientation, the atrioventricular junction is represented by the *broken lines*. Note the area of aortomitral continuity indicated with *asterisks*, which is clearly not a septal area. Abbreviations as before.
 
 wall, thus creating potential for right ventricular puncture or laceration. When viewed from the front, the right ventricle has a triangular shape. The right ventricular inlet extends from the annulus of the tricuspid valve to the papillary muscles. The leaflets of the tricuspid valve can be distinguished as septal, anterosuperior, and inferior or mural. The septal leaflet, with its cords inserting directly to the ventricular septum, is characteristic of the tricuspid valve. The medial papillary muscle, a small out-budding from the septum, supports the junction (commissure) between the septal and anterosuperior leaflets (Fig. 78–17). A larger papillary muscle, the anterior papillary muscle, supports the extensive anterosuperior leaflet and its junction with the inferior leaflet. The junction between anterosuperior and inferior leaflets is supported by a group of small papillary muscles, the inferior papillary muscles.
 
-![](_page_7_Figure_8.jpeg)
+![](ch13-01_page_7_Figure_8.jpeg)
 
 **FIGURE 78–15.** A longitudinal section through the inferior pyramidal space reveals the right atrial wall overlying the right coronary artery (RCA) and the arterial branch (*open arrow*) supplying the atrioventricular node (*oval*). Note the proximity of the noncoronary aortic sinus (N) to the right atrial wall and the His bundle (*dots*). Abbreviations as before.
 
-![](_page_8_Picture_2.jpeg)
+![](ch13-01_page_8_Picture_2.jpeg)
 
 **FIGURE 78–16. A.** A sagittal section through a heart shows the aortic root in the middle. From the cardiac apex to the pulmonary valve, the right ventricular outflow tract (*solid arrow*) overlies the left ventricular outflow tract (*broken arrow*), which is behind the ventricular septum. The subpulmonary muscular infundibulum (*dots*) that lies anterior to the aortic valve is not septal. **B.** The dissection shows the relationship between the pulmonary and aortic valves. Note the musculature forming the freestanding subpulmonary infundibulum (*triangles*) that is proximal to the ventriculoarterial junction (*dotted line*). The deeper location of the ventricular septum is indicated by the *broken line*. Abbreviations as before.
 
@@ -176,7 +176,7 @@ The left ventricle is conical in shape. When the heart is viewed from the front,
 
 The apical component of the left ventricle extends from the papillary muscles to the ventricular apex. At the apex, the muscular wall tapers to a thickness of 1 to 2 mm in normal hearts. The trabeculations are finer than those found in the right ventricle. Occasionally, fine muscular strands, or so-called *false tendons*, extend between the septum and the papillary muscles or the parietal wall.38 Often, they carry the distal ramifications of the left bundle branch and have been implicated in idiopathic left ventricular tachycardia.39
 
-![](_page_9_Picture_2.jpeg)
+![](ch13-01_page_9_Picture_2.jpeg)
 
 **FIGURE 78–17. A.** The inside of the right ventricle is displayed to show the supraventricular crest in between the pulmonary and tricuspid valves. The limbs (*arrows*) of the septomarginal trabeculation cradle the ventriculoinfundibular fold at the crest. The braces indicate the subpulmonary infundibulum. The course of the right bundle branch in the subendocardium of the septomarginal trabeculation is indicated by *circles*. One of its fascicles passes into the moderator band (*broken line*). **B.** The right ventricular outflow tract is displayed. The leaflets of the pulmonary valve have been removed to show the semilunar hinge lines crossing the ventriculoarterial junction. Each sinus thus includes a crescentic segment of ventricular wall (*dark areas*). *Double-headed arrow* indicates the free wall of the subpulmonary infundibulum. The area within the *dotted line* represents the so-called *septal* or *high septal* component but is actually free wall also. Abbreviations as before, and AS, anterosuperior; I, inferior; PT, pulmonary trunk; RCA, right coronary artery; S, septal leaflet of tricuspid valve; VIF, ventriculoinfundibular fold.
 
@@ -190,7 +190,7 @@ The venous return from the myocardium either is channeled via small thebesian ve
 
 The coronary sinus is a critical structure in electrophysiology. Its ostium is usually between 5 and 15 mm in diameter. Its transition to the great cardiac vein is marked by several structures including the valve of Vieussens and the vein of Marshall. The entrance to the vein of Marshall, or oblique left atrial vein, marks the venous end of the tube-shaped coronary sinus. The vein is an embryonic remnant of the left superior vena cava and is a fibrous ligament in most individuals. Even when a lumen is present in the remnant vein, it is narrow, rarely exceeding 2 cm in length before tapering to a blind end (see Fig. 78–5). If adequately wide, this channel may be used for ablating the left atrial wall, including the use of alcohol instillation. The other structure that marks the transition from the coronary sinus to the great cardiac vein is the valve of Vieussens. Found in 80% to 90% of hearts, this flimsy valve can provide some resistance to potential catheter placement.47 Once past Vieussens valve, a sharp bend in the great cardiac vein can cause
 
-![](_page_10_Picture_2.jpeg)
+![](ch13-01_page_10_Picture_2.jpeg)
 
 **FIGURE 78–18. A.** The left ventricular outflow tract incised through the left coronary aortic sinus is displayed to show the location of the membranous septum (*dotted shape*) and aortic-mitral fibrous continuity (*broken line*) with the fibrous trigones (*asterisks*) at each end. The aortic leaflets have been removed to show the muscular components (*arrows*) in the right (*R*) and left (*L*) coronary aortic sinuses that may be the source of aortic cusp ventricular tachycardia. **B.** The aortic root is displayed by cutting through the "anterior" leaflet of the mitral valve. The atrioventricular conduction bundle (*brokenline*) passes between the membranous septum (*asterisk*) and the muscular septum. The irregular shape represents the left bundle branch and its three fascicles. Abbreviations as before, and N, noncoronary aortic sinus.
 
@@ -198,13 +198,13 @@ further obstruction in 20% of patients.47 There is a muscular sleeve around the 
 
 As the great cardiac vein ascends in the atrioventricular groove, it collects tributaries draining the left ventricle, including the lateral (obtuse marginal) veins and posterior veins, which are important targets for left ventricular pacing in cardiac resynchronization therapy (Fig. 78–21). The distribution, courses, and calibers of the left ventricular veins vary from individual to individual. When using these veins for pacing lead implants, it is worth noting that the left phrenic nerve running in the pericardium may pass across or very close to the lateral or posterolateral veins (see Fig. 78–3).7 Thus, pacing from these veins can cause phrenic capture and diaphragmatic stimulation. The great
 
-![](_page_10_Picture_7.jpeg)
+![](ch13-01_page_10_Picture_7.jpeg)
 
 **FIGURE 78–19.** These are two halves of a heart cut longitudinally to show the relationship between left and right ventricular outflow tracts and why ablation of foci within the so-called septal component (*open arrows*) of the subpulmonary infundibulum may be approached from the adjacent aortic sinuses. Ablation of aortic sinus ventricular tachycardia targets the muscle enclosed within the right and left coronary aortic sinuses (*arrows*). Note the epicardial fat (*within broken lines*) between the subpulmonary infundibulum and the aortic root. Abbreviations as before, and LVOT, left ventricular outflow tract; P, pulmonary valve; RVOT, right ventricular outflow tract.
 
-![](_page_11_Picture_2.jpeg)
+![](ch13-01_page_11_Picture_2.jpeg)
 
-![](_page_11_Picture_3.jpeg)
+![](ch13-01_page_11_Picture_3.jpeg)
 
 **FIGURE 78–20. A.** View of the diaphragmatic aspect showing cardiac veins draining into the coronary sinus. *Broken line* indicates plane of histologic section shown in panel B. **B.** The coronary sinus has a muscular wall (tissue stained *pink*). This section shows muscular continuity (*arrow*) between the coronary sinus and the left atrial wall. The muscle has also surrounded the coronary artery. Abbreviations as before, and a, circumflex artery; iv, inferior left ventricular vein; mv, middle cardiac vein; ov, left obtuse marginal vein.
 
@@ -224,15 +224,15 @@ Although much has been written about *specialized internodal tracts* (anterior, 
 
 In the normal heart (without accessory pathway connections), the atrioventricular conduction system provides the only pathway of muscular continuity between atrial and ventricular myocardium. There is an interface of transitional cells between ordinary atrial myocardium and the histologically specialized cells that make up the atrioventricular node. The compact atrioventricular node was described by Tawara57 in 1906 and is located near the apex of the triangle of Koch (see Figs. 78–8 and 78–9). In the adult, the compact atrioventricular node is approximately 5 mm long and wide. The atrioventricular node receives its blood supply from the atrioventricular nodal artery, which arises from the right coronary artery in 80%, the left circumflex artery in 10%, and both in 10% of hearts. Most of the time, extensions from the compact node pass to the right and left sides of the artery.58 The right extension courses parallel and adjacent to the tricuspid annulus, whereas the left extension projects toward the mitral vestibule. The distance of the right inferior extension to the endocardial surface is approximately 1 to 5 mm. With reference to the triangle of Koch, the compact node (see Fig. 78–8) is near the apex, but the right inferior extensions reach to the mid-level of the triangle and may even extend to the vicinity of
 
-![](_page_12_Figure_2.jpeg)
+![](ch13-01_page_12_Figure_2.jpeg)
 
-![](_page_12_Figure_3.jpeg)
+![](ch13-01_page_12_Figure_3.jpeg)
 
 **FIGURE 78–21. A** and **B.** The course of the coronary venous system is shown. The coronary sinus gives rise to the middle cardiac vein and the great cardiac vein. Branches off the great cardiac vein include the left atrial veins, vein of Marshall, the posterolateral branch, lateral branches (not shown), and the anterior interventricular veins. The left phrenic nerve course near the left-sided coronary veins; thus, pacing from these veins can lead to diaphragmatic stimulation. Abbreviations as before, and LA, left atrium; LV, left ventricle; MCV, middle cardiac vein; RA, right atrium; RV, right ventricle. Reproduced from Noheria A, DeSimone CV, Lachman N, et al. Anatomy of the coronary sinus and epicardial coronary venous system in 620 hearts: an electrophysiology perspective. *J Cardiovasc Electrophysiol*. 2013 Jan;24:1-6.
 
 the coronary sinus.59 This area is the location at which catheter ablation targets the slow pathway in patients with evidence of dual atrioventricular nodal physiology and evidence of atrioventricular nodal reentrant tachycardia, the most common form of supraventricular tachycardia.
 
-![](_page_12_Figure_6.jpeg)
+![](ch13-01_page_12_Figure_6.jpeg)
 
 **FIGURE 78–22.** Shown here is a three-dimensional electroanatomic map of the right atrium from a right lateral view. Note that the location of the sinus node is close to the right atrial–superior vena caval junction in the anterolateral right atrium. The *red* area labeled with an *asterisk* represents the earliest endocardial activation as a result of sinus node depolarization. IVC, inferior vena cava; RAA, right atrial appendage; SVC, superior vena cava.
 
@@ -244,19 +244,19 @@ Superiorly, at the apex of the triangle of Koch, the penetrating bundle of His p
 
 The heart is heavily influenced by autonomic innervation. Moreover, cardiac innervation includes both extrinsic innervation as well as influence from the intrinsic cardiac nervous system. The intrinsic cardiac nervous system is largely an atrial network of neural ganglia.60
 
-![](_page_13_Picture_2.jpeg)
+![](ch13-01_page_13_Picture_2.jpeg)
 
 **FIGURE 78–23. A.** The aortic root is retracted forward to show the anterior wall of the atria. Bachmann's bundle (*between broken lines*) is displayed crossing the anterior aspect of the interatrial groove (*asterisk*). The *arrow* indicates a thin area of the anterior left atrial wall that is frequently found inferior to Bachmann bundle. Abbreviations as before. **B.** A heart tilted forward and viewed from the back shows muscle bridges in addition to Bachmann bundle. A muscle bundle (*double-headed arrow*) connects the anterior wall of the left atrium with the posterior right atrial wall inferior to the superior vena cava (or superior caval vein [SCV]). Further bridges are present posteriorly and inferiorly (*triangle and brace*). Abbreviations as before.
 
 The vagal inputs to the heart arise from various nuclei in the medulla. Sympathetic inputs come from the paravertebral, superior cervical, middle cervical, cervicothoracic (stellate), and thoracic ganglia. The stellate ganglion is the primary source of cardiac sympathetic innervation. Generally speaking, the innervation of the atria is predominantly parasympathetic, while the innervation of the ventricles is predominantly sympathetic. The extrinsic cardiac nerves course through the hilum at the base of the heart and branch into different autonomic ganglia. These ganglionated plexuses contain neuronal inputs from the atrial myocardium and the extrinsic cholinergic and adrenergic neurons. Between 6 and 10 collections of ganglia or ganglionated plexuses have been described in the human heart.61,62 Approximately half of the plexuses are located on the atria and the other half on the ventricles. Occasional ganglia are located in other atrial and ventricular regions of the epicardium.63 The ganglionated plexuses are generally associated with islands of adipose tissue
 
-![](_page_13_Picture_5.jpeg)
+![](ch13-01_page_13_Picture_5.jpeg)
 
 **FIGURE 78–24.** This preparation of a sheep heart shows the left bundle branch (*small arrow*) fanning out into interconnecting fascicles and *false tendons* carrying the distal ramifications across the cavity to the papillary muscles (*white arrows*).
 
 referred to as fat pads that serve as visual landmarks to cardiac surgeons.62 The atrial fat pads are located in the interatrial groove, at the cavoatrial junctions, and on the left atrial wall in the vicinity of the venoatrial junctions (Fig. 78–25). The ligament of Marshall is densely innervated with both parasympathetic and sympathetic inputs. During catheter ablation of atrial fibrillation, ablation of ganglionated plexi in the ligament of Marshal often results in vagal events during
 
-![](_page_13_Figure_8.jpeg)
+![](ch13-01_page_13_Figure_8.jpeg)
 
 **FIGURE 78–25.** Posterior view of the heart illustrating the locations of the cardiac ganglionated plexi. The mediastinal nerves descend the aortic root and join the two superior atrial ganglionated plexi (G.P.). IVC, inferior vena cava; LV, left ventricle; PA, pulmonary artery; RV, right ventricle; SVC, superior vena cava. Adapted with permission from Armour JA, Murphy DA, Yuan BX, Macdonald S, Hopkins DA. Gross and microscopic anatomy of the human intrinsic cardiac nervous system. *Anat Rec*. 1997 Feb;247:289-298.
 

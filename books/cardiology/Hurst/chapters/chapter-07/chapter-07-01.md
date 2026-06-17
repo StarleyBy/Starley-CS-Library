@@ -50,7 +50,7 @@ When intimal damage occurs, vascular smooth muscle cells (SMCs) modulate into a 
 
 During atherogenesis, some cells proliferate and others die by apoptosis or necrosis. The rate of cell proliferation is low and predominantly
 
-![](_page_1_Picture_2.jpeg)
+![](ch07-01_page_1_Picture_2.jpeg)
 
 **FIGURE 32–1.** Heterogeneity of atherosclerotic plaques. Cross-section of a coronary artery cut just distal to a bifurcation. The plaque to the left (circumflex branch) is fibrotic with a dense calcification, whereas the plaque to the right (marginal branch) contains a large lipid-rich necrotic core covered by a thin fibrous cap that is disrupted with mural thrombosis. The lumen contains contrast medium injected postmortem. Trichrome, staining collagen blue and thrombus red.
 
@@ -60,7 +60,7 @@ confined to inflammatory cells.29 Apoptosis is also most common in inflammatory 
 
 Subsets of mononuclear cells in the blood, termed *endothelial progenitor cells* and *smooth muscle progenitor cells*, form colonies in cell culture with endothelial or SMC-like features, respectively.33,34 These circulating cells, assumed to originate solely or mainly from the bone marrow, have been claimed to home and differentiate into bona fide endothelial and smooth muscle cells in atherosclerotic lesions and thus promote healing and repair.35,36 However, more recent data question
 
-![](_page_1_Figure_7.jpeg)
+![](ch07-01_page_1_Figure_7.jpeg)
 
 **FIGURE 32–2.** Average composition of advanced coronary plaque. Pie diagram illustrating the average composition of advanced atherosclerotic plaques (> 75% stenosis by histology) in the coronary artery tree in fatal myocardial infarction.26 Hypocellular tissues (fibrosis, calcium, and necrosis) constitute by far the most voluminous plaque components.
 
@@ -84,13 +84,13 @@ Vulnerable plaques of the erosion-prone type are heterogeneous and defined only 
 
 Vulnerable plaques, plaque rupture, and thrombosed plaques tend to cluster in *hot spots* within the proximal segments of the major coronary arteries,46-48 and rarely more than one or a few such lesions exist
 
-![](_page_2_Picture_2.jpeg)
+![](ch07-01_page_2_Picture_2.jpeg)
 
 **FIGURE 32–3.** Inflamed thin-cap fibroatheroma (TCFA). Coronary TCFA composed predominantly of hypocellular fibrous tissue and acellular necrotic core. Penetration of contrast medium injected postmortem from the lumen into the necrotic core reveals fibrous cap rupture. Immunohistochemistry visualizes abundant macrophages (mac) within the thin fibrous cap but virtually nowhere else. Beneath the cap, dead macrophages without nuclei are seen within the necrotic core (*asterisk*). The cap contains very few smooth muscle cells (not shown). HE, hematoxylin and eosin.
 
 simultaneously.49,50 The natural history of vulnerable plaques such as speed of development, lifetime (persistency), and fate, is, however, unknown.
 
-![](_page_2_Picture_5.jpeg)
+![](ch07-01_page_2_Picture_5.jpeg)
 
 **FIGURE 32–4.** Coronary thin-cap fibroatheroma (TCFA). A TCFA containing a soft and destabilizing necrotic core devoid of supporting collagen and separated from the lumen only by a thin fibrous cap. Such a plaque is presumed to be rupture-prone and, if correct, constitutes the most common type of vulnerable plaques. In this case, postmortem contrast injection provided proof of vulnerability; the contrast has penetrated from the lumen into the necrotic core, indicating the presence of a disrupted fibrous cap. The contrast followed a path bordered by extravasated erythrocytes (plaque hemorrhage). Trichrome, staining collagen blue (necrotic core not stained).
 
@@ -106,9 +106,9 @@ During atherogenesis, atherogenic lipoproteins are retained within intima, modif
 
 The fibrocellular part of the plaque located between the necrotic core and the lumen is called the *fibrous cap*. It is extremely thin in coronary plaque rupture.25,45 Assessed by microscopic examination postmortem, ruptured caps were usually less than 65 μm thick.54 Assessed by optical coherence tomography in vivo, the mean thickness was only 49 μm.55 If the fibrous cap is thin, the plaque is called a *thin-cap fibroatheroma* (TCFA).54,56 In TCFA, the necrotic core occupies approximately 23% of plaque area.56 Thin fibrous caps are usually heavily inflamed (macrophage density ~14%), particularly those that have ruptured (macrophage density ~26%),56 but because they are thin, their ability
 
-![](_page_3_Picture_2.jpeg)
+![](ch07-01_page_3_Picture_2.jpeg)
 
-![](_page_3_Picture_3.jpeg)
+![](ch07-01_page_3_Picture_3.jpeg)
 
 **FIGURE 32–5.** Ruptured coronary plaque with thrombosis. The thin cap is heavily inflamed, whereas the remainder of the plaque is not. Macrophages (*asterisk*) cluster in the cap next to the rupture site. The majority of the plaque consists of acellular lipid-rich core and hypocellular fibrosis and lipid pools.
 
@@ -118,11 +118,11 @@ to accommodate macrophages are limited (see Fig. 32–5). Apoptosis is common at
 
 Atherosclerosis is an innate inflammatory disease in which smoldering inflammatory activity is not confined to just a few atherosclerotic lesions but is present, more or less, in all such lesions throughout the body.18,19 In contrast, vulnerable plaques are relatively rare,49 and inflammation may play a causal role in plaque rupture only if located
 
-![](_page_3_Figure_8.jpeg)
+![](ch07-01_page_3_Figure_8.jpeg)
 
 **FIGURE 32–6.** Thrombosis not caused by plaque rupture. Coronary artery containing a nonruptured plaque with mural thrombosis (*Thr*), so-called *plaque erosion.* The endothelium between the plaque and the thrombus is missing, but no other morphologic features characterize this type of thrombosed plaques and their vulnerable precursors. The plaque is rich in smooth muscle cells (*smc*), but not macrophages (*mac)*, just beneath the thrombus. Focal mac accumulation is seen at the shoulder region of the plaque but not located within a thin cap (ie, this plaque morphology is not permissive for plaque rupture). HE, hematoxylin and eosin; SMα, smooth muscle α.
 
-![](_page_4_Picture_2.jpeg)
+![](ch07-01_page_4_Picture_2.jpeg)
 
 # **Intact 3 <sup>6</sup> <sup>2</sup> Ca cap Lumen**
 

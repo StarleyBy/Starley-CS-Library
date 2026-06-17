@@ -192,13 +192,13 @@ Recently, mutations in myopalladin (*MYPN*) and filamin-C (*FLNC*) have been rep
 
 Abbreviations: BNP, brain natriuretic peptide; CMR, cardiac magnetic resonance; CT, computed tomography; EFE, endocardial fibroelastosis; EMB, endomyocardial biopsy; EMF, endomyocardial fibrosis; LGE, lategadolinium enhancement; LV, left ventricular; LVH, left ventricularhypertrophy;RCM, restrictedcardiomyopathy;RV, right ventricular; TDI, tissue Doppler imaging.
 
-![](_page_4_Figure_2.jpeg)
+![](ch10-05_page_4_Figure_2.jpeg)
 
-![](_page_4_Figure_3.jpeg)
+![](ch10-05_page_4_Figure_3.jpeg)
 
 **FIGURE 61–1.** The figure shows the pedigrees of two families in which the probands were diagnosed with restrictive cardiomyopathy (RCM) caused by mutations in *TNNI3* gene. **A.** Autosomal dominant RCM in a family in which different affected family members showed hypertrophic cardiomyopathy (HCM; *red bordered symbols*), HCM with restrictive patterns (*blue bordered symbols*), and early RCM with no hypertrophy, mildly dilated left atrium, and New York Heart Association (NYHA) class I. **B.** *de novo* RCM in a boy who developed early RCM characterized by severe atrial dilation, absence of left ventricular (LV) hypertrophy, and fast progression to advanced disease. Both parents were clinically and genetically healthy. **C.** *de novo* RCM in a boy who developed RCM characterized by severe atrial dilation, absence of LV hypertrophy, and clinical stability. Both parents were clinically and genetically healthy.
 
-![](_page_4_Figure_5.jpeg)
+![](ch10-05_page_4_Figure_5.jpeg)
 
 **Male, First diagnosis: 10 years Follow-up: 7 years MH(Obs) OH GAD EG-TNNI3[p.Leu144Gln] SC-I**
 
@@ -234,13 +234,13 @@ causing RCM.55,57,58 In a large screening study of *MYPN*, different types of mu
 
 The desmin intermediate filament network is involved in striated muscle development and maintenance by coordinating cellular components necessary for intracellular mechanochemical signaling and trafficking processes.59 Direct or indirect deregulation of this network causes myopathies and cardiomyopathies.60-65
 
-![](_page_6_Figure_2.jpeg)
+![](ch10-05_page_6_Figure_2.jpeg)
 
-![](_page_6_Figure_3.jpeg)
+![](ch10-05_page_6_Figure_3.jpeg)
 
 **A** 
 
-![](_page_6_Figure_4.jpeg)
+![](ch10-05_page_6_Figure_4.jpeg)
 
 **FIGURE 61–3.** This figure shows the two-dimensional echocardiographic views in a boy with restrictive cardiomyopathy (RCM) associated with a *de novo* mutation in *TNNI3*. The phenotype and the genetic cause are summarizedbythe MOGESnosology M<sup>R</sup> O<sup>H</sup> GS EG-DN-TNNI3[p.Arg170Gln]SC-III in which M describes the morphofunctionalphenotype(RCM,abbreviatedasR); O describes theorgansaffectedinthegivenpatient (inthis case, theheart was the only involved organ); G defines whether the cardiomyopathy is genetic or not and includes information on the pattern of inheritance or whether it appeared as sporadic in the family representing a possible *de novo* disease, which is confirmed after genetic testing; E is the precision diagnostic descriptor and specifies the cause, the disease gene(s), and the mutation(s) (in this patient, the mutation in *TNNI3* was proven *de novo*);andSis optional andincludes New York Heart Associationfunctional class (I-IV) and American Heart Associationstage (A-D). Thepracticaluse is supportedby a free appat[http://moges.biomeris.com/moges.html.](http://moges.biomeris.com/moges.html)
 
@@ -250,13 +250,13 @@ Restrictive desminopathies are autosomal dominant diseases in the majority of ca
 
 Lysosome storage diseases, cardiac amyloidosis, myocardial iron overload disorders, and collagen diseases may clinically manifest restrictive physiology. The cardiac phenotype is characterized by LV thickening with possible associated diastolic dysfunction and is therefore similar to HCM. These diseases should be separated from pure RCM to prevent confusion in the nosology of RCM. They are distinct genetic diseases, systemic in the majority of the cases, with disease-specific diagnostic workup and targeted treatments. Table 61–5 lists diseases with increased LV thickening and in which restrictive physiology is systematic (eg, amyloidosis) or recurrently present in early phases of the disease (iron storage diseases) or occasionally reported in single cases (lysosomal storage diseases such as glycogenoses, Anderson-Fabry disease, Danon disease, and Hurler disease).66-82
 
-![](_page_6_Figure_9.jpeg)
+![](ch10-05_page_6_Figure_9.jpeg)
 
-![](_page_6_Figure_10.jpeg)
+![](ch10-05_page_6_Figure_10.jpeg)
 
 **FIGURE 61–4.** Anti–troponin I immunostain in myocardial samples from the heart of a patient with restrictive cardiomyopathy associated with the *TNNI3* p.(Leu144Gln) mutation. **A.** Disarray that typically recurs in cardiomyopathies caused by defects encoding sarcomere proteins. **B.** Prominent interstitial fibrosis.
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-05_page_7_Figure_2.jpeg)
 
 **FIGURE 61–5.** Restrictive cardiodesminopathy in a 43-year-old male patient. **A.** Electrocardiogram before pacemaker implantation with advanced atrioventricular block (PR interval 300 milliseconds). **B.** Doppler echocardiography with restrictive pattern (E/A wave ratio > 3 and shortened deceleration time) at the transmitral flow during an episode of atrial tachycardia. **C** and **D.** Left apical four-chamber view that demonstrates the biatrial enlargement. This patient also had moderate left ventricular systolic dysfunction.
 
@@ -268,7 +268,7 @@ The cardiovascular manifestations are characterized by the development of arteri
 
 The histopathologic marker of the disease is the mineralization and fragmentation of elastic fibers (Fig. 61–7A). PXE is caused by homozygous or compound heterozygous mutations in the *ABCC6* (ATP-binding cassette subfamily C member 6) gene that encodes a transmembrane adenosine triphosphate (ATP)-driven organic anion transporter. Carriers of heterozygous mutations may demonstrate mild
 
-![](_page_7_Figure_8.jpeg)
+![](ch10-05_page_7_Figure_8.jpeg)
 
 **FIGURE 61–6.** Endomyocardial biopsy (EMB), restrictive cardiodesminopathy. **A.** Low-magnification view of the EMB samples, with prominent endocardial and interstitial fibrosis. **B.** Electron micrograph demonstrates the typical intramyocyte accumulation of granulofilamentous material that corresponds to the abnormal desmin.
 
@@ -310,9 +310,9 @@ This list includes the rarepseudoxanthoma elasticum,heritable amyloidosis, andhe
 
 These diseases are usually reported as hypertrophic cardiomyopathies and only rare, unique cases are described as restrictive cardiomyopathies.
 
-![](_page_9_Picture_2.jpeg)
+![](ch10-05_page_9_Picture_2.jpeg)
 
-![](_page_9_Picture_3.jpeg)
+![](ch10-05_page_9_Picture_3.jpeg)
 
 **FIGURE 61–7.** Pseudoxanthoma elasticum. **A.** Skin biopsy with the typical calcifications that characterize the disease; the inset shows the skin biopsy sample. **B.** Neck of patient with the typical cutaneous lesions in flexural areas; thepatient is carrierof thehomozygousp.(Arg1141X) mutationinthe *ABCC6* gene.
 
@@ -359,9 +359,9 @@ in early phases; conduction disease may be present. Atrial fibrillation is the m
 
 *Echocardiography With Tissue Doppler Imaging, Strain Imaging, and Speckle Tracking* Two-dimensional echocardiographic evaluation shows early diastolic dysfunction113 and later evolution through LV dilation and dysfunction. Restrictive physiology may persist in late disease114; in patients with asymptomatic cardiac involvement, it maintains stable after conventional phlebotomy treatment, regardless of their treatment history.115 Echocardiography contributes to early diagnosis of cardiac involvement and provides information on the extent of iron storage and severity of systolic and diastolic dysfunction. In a multivariable analysis, spectral tissue Doppler lower early (E′) diastolic velocity was independently associated with hemochromatosis.116 Mid-septal systolic and early diastolic velocities on TDI correlate with myocardial iron content predicted by magnetic resonance imaging.117 Longer
 
-![](_page_10_Figure_8.jpeg)
+![](ch10-05_page_10_Figure_8.jpeg)
 
-![](_page_10_Figure_9.jpeg)
+![](ch10-05_page_10_Figure_9.jpeg)
 
 **FIGURE 61–8.** Family pedigrees of two patients with autosomal recessive hereditary hemochromatosis caused by homozygous mutation in the *HFE* gene. **A.** In this family the disease was apparently sporadic. After thediagnosis intheproband, family screeningdemonstratedthatbothparents of theprobandarehealthy carriers ofheterozygous mutationsp.(Cys282Tyr) inthe *HFE* gene; both sons of the proband are obligate carriers. **B.** A family in which the genetic diagnosis in the proband led to family screening and identification of a second affected family member.
 
@@ -371,7 +371,7 @@ Cardiac Magnetic Resonance Imaging The T2\* method is highly sensitive and speci
 
 Ireatment and Monitoring Phlebotomy and iron chelators (parenteral deferoxamine or the oral iron chelators deferiprone and deferasirox) remain the standard therapy. Adequately treated patients (ie, target ferritin of μg/L achieved) demonstrate better prognosis. <sup>128</sup> Chelation improves ventricular function, prevents ventricular arrhythmias, and reduces mortality in patients with secondary iron overload. In patients with thalassemia major and mild to moderate cardiac iron loading, combination treatment with additional deferiprone reduces myocardial iron and improves ejection fraction and endothelial function. <sup>114</sup> In patients with HF, management is based on the same basic principles as patients with DCM and systolic HF (see Chap. 70). Combined heart and liver transplantation should only be considered in severe cases refractory to standard therapies. <sup>114,129</sup> Iron overload–induced cardiomyopathy is reversible when therapy is started before the onset of overt HF.
 
-![](_page_11_Figure_5.jpeg)
+![](ch10-05_page_11_Figure_5.jpeg)
 
 **FIGURE 61–9.** Endomyocardial biopsy obtained from a patient presenting with restrictive cardiomyopathy phenotype; the endomyocardial biopsy shows the intramyocyte accumulation of iron (*blue*; Perl's stain). In this patient, genetic testing identified the homozygous p.(Cys282Tyr) mutation in the *HFE* gene.
 
@@ -415,7 +415,7 @@ Diseases affecting both endocardium and endomyocardial layers manifest with rest
 
 The term *endocardial fibroelastosis* describes a thickening of the endocardium by layers of collagen and elastic fibers. These microscopic features are commonly observed in congenital heart diseases and cardiomyopathies and following cardiac surgery. The macroscopic appearance shows variable extension of endocardial thickening and
 
-![](_page_13_Picture_2.jpeg)
+![](ch10-05_page_13_Picture_2.jpeg)
 
 **FIGURE 61–10. A-C.**Pathologic characteristicsof fibroelastoticendocardial thickeningvs. fibrousendocardial thickening.Thehigh-magnificationviews in **B** and **C** show the presence of elastic fibers; the low magnification in **A** gives theproportionof the features.Bothfindings are commonanddemonstrate variable extensionindecompensated, end-stagehearts.
 
@@ -539,7 +539,7 @@ Patients with cardiac amyloidosis usually report nonspecific symptoms such as fa
 
 Biochemical tests are usually performed as part of the routine evaluation in patients with unexplained LV hypertrophy. Recommended
 
-![](_page_17_Figure_2.jpeg)
+![](ch10-05_page_17_Figure_2.jpeg)
 
 **FIGURE 61–12.** ATTR wild-typesenileamyloidosis.Thepatient isa75-year-old man whopresented withparoxysmalatrial fibrillation(AF) in2005; he underwent ablation, but AF recurred. He further underwent two additional ablation procedures that were followed by recurrence of AF that finally evolved into persistent AF. Ten years after the first AF episode, he was diagnosed with cardiac ATTR wild-type senile amyloidosis (by endomyocardial biopsy). The panels show the echocardiographic features. **A** and **B.** Two-chamber view shows normal systolic function. **C** and **D.** The parasternal short-axis view show concentric hypertrophy. **E.** Apical four-chamber view shows biatrial enlargement. **F.** The continuous wave Doppler highlights the restrictive pattern with absence of A wave in atrial fibrillation.
 
@@ -567,15 +567,15 @@ Family screening is indicated in heritable amyloidosis. Mutations in *TTR* gene 
 
 Cardiac amyloidosis is a pan-heart disease affecting the myocardium, valves, and vessels; the endocardium and pericardium can be focally involved without significant functional consequences.253-255 The damage exerted by amyloid deposition in cardiac structures is a result of infiltration of amyloid deposits that surround single myocytes or expand in the interstitium at the endocardial and pericardial levels and in cardiac valves.
 
-![](_page_18_Figure_11.jpeg)
+![](ch10-05_page_18_Figure_11.jpeg)
 
-![](_page_18_Figure_12.jpeg)
+![](ch10-05_page_18_Figure_12.jpeg)
 
 **FIGURE 61–13.** Hematoxylin and eosin (**A**) and Congo red stain (**B**). **A.** Cardiac amyloid infiltration is clearly visible with hematoxylin and eosin stain. **B.** Congo red stain shows the typical apple-green birefringence underpolarizedlight.
 
-![](_page_19_Picture_2.jpeg)
+![](ch10-05_page_19_Picture_2.jpeg)
 
-![](_page_19_Picture_3.jpeg)
+![](ch10-05_page_19_Picture_3.jpeg)
 
 **FIGURE 61–14. A.** Immunoelectron microscopy. A λ immunostain. **B.** Anti-k immunostain. (**A** and **B**) Goldparticlesdecorate the amyloidfibril incardiac AL λ andk cardiac amyloidosis.
 
@@ -585,7 +585,7 @@ Amyloid deposition affects cardiac vessel walls; severely affected vessels can d
 
 The incidence of AL amyloidosis is 3 to 5 cases per million population256; in the United Kingdom, the prevalence is 1 per population257; in Sweden, the reported incidence of AL amyloidosis is 3.2 per million person-years.258 Fibrils are constituted of immunoglobulin light chains produced by a clonal population of plasma cells with average
 
-![](_page_19_Picture_8.jpeg)
+![](ch10-05_page_19_Picture_8.jpeg)
 
 **FIGURE 61–15.** This figure shows the prevalent involvement of small intramural vessels by AL λ amyloidosis. The sample is from the left ventricular (LV) apexof a66-year-old malepatient withundiagnosed AL amyloidosis, who underwent urgent LV assist device implantation for severe and quickly worsening heart failure, after months of medical treatment for heart failure clinically attributed to myocarditis.
 
@@ -593,7 +593,7 @@ bone marrow plasma cell content of 5% to 7%; less than 10% of cases demonstrate 
 
 Cardiac dysfunction in AL amyloidosis results from both amyloid infiltration with disruption of the myocardial architecture and from direct cytotoxic effect of the amyloidogenic light chains259,260; internalization into lysosomal compartments of amyloidogenic light chains has been proposed as a possible myocyte toxic mechanism in animal models.36 The cardiotoxicity of amyloidogenic light chains could explain the clinical improvement of successfully treated patients before a reduction in the amyloid deposits at the affected organ(s) can occur; persistence of amyloid deposits after successful treatment and organ recovery also supports light chain toxicity as contributory factor of organ dysfunction.236 Therefore, the burden of cardiac amyloidosis evaluated by cardioimaging may not inform on the responsiveness to treatments.
 
-![](_page_19_Figure_12.jpeg)
+![](ch10-05_page_19_Figure_12.jpeg)
 
 **FIGURE 61–16.** This figure shows the severe amyloid infiltration in an ATTR wild-type senile amyloidosis heartexcisedat transplantation. A few residual myocytes (*red*) are embedded in the dense amyloid ground (*green*). Movat pentachrome stain.
 

@@ -68,11 +68,11 @@ The list of infectious agents that have been associated with myocarditis include
 
 The diagnostic workup of myocardial infection should begin with timely sampling of informative tissue and paired samples of peripheral blood. The diagnostic processes include cell culture, antibody detection, antigen detection, hemagglutination assay, nucleic acid detection, and gene sequencing. Specific antibodies are always produced when adaptive immune system encounters a virus. As general rule, immunoglobulin (Ig) Ms are highly effective at neutralizing viruses, are produced only for the initial few weeks, and are indicative of acute infections. IgGs are produced indefinitely and are tested to demonstrate prior infection. Antigens are detected by enzyme-linked immunosorbent assay (ELISA) in biologic fluids with immunofluorescence and immunoperoxidase as the alternative methods. Quantitative assays for measuring the viral genome copy number and nucleic acid sequencing establish the viral presence and the viral load. In the appropriate diagnostic workup, the serology is systematically performed, routine inflammatory markers are tested, and markers of myocardial damage
 
-![](_page_1_Figure_11.jpeg)
+![](ch10-07_page_1_Figure_11.jpeg)
 
-![](_page_1_Figure_12.jpeg)
+![](ch10-07_page_1_Figure_12.jpeg)
 
-![](_page_1_Figure_13.jpeg)
+![](ch10-07_page_1_Figure_13.jpeg)
 
 **FIGURE 63–1.** The figure shows three different examples of endomyocardial biopsies taken from donor hearts before implantation in the recipients. Inflammatory infiltrates are common and do not condition post-transplant early and late outcome; the three examples correspond to three long-term post-transplant survivors (A, B, and C:, and 11 years, respectively).
 
@@ -109,9 +109,9 @@ Acute infections are characterized by febrile illness that commonly evolves with
 
 Human parvovirus B19 (B19V) belongs to the genus *Erythroparvovirus* of the Parvoviridae family, which is composed of a group of small DNA viruses with a linear single-stranded DNA genome.53 B19V usually infects human erythroid progenitor cells to cause mild to severe hematologic disorders54 but may also infect nonerythroid lineage cells such as myocardial endothelial cells.55 Therefore, B19V infection typically presents clinically with erythema infectiosum, arthralgia, fetal death, transient aplastic crisis, and persistent infection in immunocompromised hosts; less common clinical manifestations include atypical skin rashes, neurologic syndromes, cardiac manifestations, and
 
-![](_page_3_Picture_11.jpeg)
+![](ch10-07_page_3_Picture_11.jpeg)
 
-![](_page_3_Picture_12.jpeg)
+![](ch10-07_page_3_Picture_12.jpeg)
 
 **FIGURE 63–2.** (**A**) Active myocarditis, with plurifocal inflammatory infiltrates demonstrating (CD3+) immunoreactivity (**B**); the inset shows the very low magnification view of two endomyocardial biopsy (EMB) samples (coxsackievirus B3 positive; onset: 18 days before EMB).
 
@@ -129,11 +129,11 @@ The human herpesviruses (HHV) are currently assigned to three subfamilies: α-, 
 
 Myocardial infection with HCMV is more commonly observed in immunocompromised hosts. The myocardial pathology is characterized by T-cell inflammatory infiltrate and by the presence of typical intranuclear amphophilic inclusion bodies that specifically immunestain with anti-HCMV antibodies. The virus infects both myocytes and endothelial cells. Seroepidemiologic studies suggest HCMV infection to be widespread and influenced by age, geography, and cultural and socioeconomic status. Children become infected early in life in developing countries, whereas up to 80% of the adult population is infected in developed nations. The course of primary infection is usually mild or asymptomatic in immunocompetent hosts as HCMV establishes a latent but persistent infection reflecting the inability of the immune system to clear the infection; immune evasion mechanisms allow infected cells to escape both innate and adaptive effector immunity.70 In immunosuppressed patients (eg, solid organ or bone marrow transplantation recipients), the infection can be reactivated to result in systemic and organ infection; heart is a possible target for tissue infection, especially in heart transplant recipients. The diagnosis and treatment of viral infections in transplanted patients are managed by pre-emptive or prophylactic therapy, and antiviral treatment is based on established protocols.71 Antiviral treatments can be administered when the viral diagnosis is established. For herpes simplex virus types 1 and 2 and for varicella-zoster virus, acyclovir (or its prodrug valacyclovir) and famciclovir have greatly reduced the burden of disease and have demonstrated a remarkable safety record. Drug resistance, in the otherwise healthy population, has remained below 0.5% after more than 20 years of antiviral use. Resistance is more common in immunocompromised patients, and alternative drugs with good safety profiles are needed. Ganciclovir and valganciclovir remain the drugs of choice for HCMV infection in immunocompromised hosts.72,73
 
-![](_page_4_Figure_9.jpeg)
+![](ch10-07_page_4_Figure_9.jpeg)
 
-![](_page_4_Figure_10.jpeg)
+![](ch10-07_page_4_Figure_10.jpeg)
 
-![](_page_4_Figure_11.jpeg)
+![](ch10-07_page_4_Figure_11.jpeg)
 
 **FIGURE 63–3.** Parvovirus B19 (B19V) myocardial infection: cardiogenic shock, female age 37 years, ejection fraction = 10%. The patients was admitted to the hospital after 7 days of fever and one episode of syncope the night before; both children had suffered febrile flu in the course of the month before the onset of her symptoms. The patient was immediately supported with medical treatment and extracorporeal membrane oxygenation. The endomyocardial biopsy showed mild focal inflammatory infiltrates without significant myocyte damage. Molecular tests gave negative results for enteroviruses (coxsackievirus B3) and Ebstein-Barr virus. B19V was present as 402 copies/106 cells in blood and copies/106 cells in myocardium. **A.** Anti-CD3 immunostain showing focal inflammatory infiltrates. **B** and **C.** Electron micrographs showing virus-like particles in endothelial cells. The patient experienced full recovery of left ventricular (LV) function during the next 10 days and was discharged 24 days later with LV ejection fraction of 54%.
 
@@ -141,7 +141,7 @@ Myocardial infection with HCMV is more commonly observed in immunocompromised ho
 
 **Evolution of Myocarditis** Myocarditis can have a fulminant course (rare), can heal spontaneously (common), or in a minority of cases, can evolve into a chronic, low-grade inflammatory myocardial disease (Fig. 63–4). The diagnosis of chronic myocarditis is ideally established by biopsyproven evidence of the acute phase and demonstration of the persistent myocardial inflammation. Different terms are currently found in the literature describing the latter pathologic substrate, including chronic myocarditis, subacute myocarditis, inflammatory cardiomyopathy, and myocarditis-induced DCM. Each term incorporates the demonstration of myocardial inflammation. The term *inflammatory cardiomyopathy* was introduced in 1995 World Health Organization/International Society and Federation of Cardiology Task Force on the Definition and Classification of Cardiomyopathies and was defined as myocarditis associated with cardiac dysfunction.1 The term and the definition were adopted by the ESC Working Group for Myocardial and Pericardial Diseases.3 The term *inflammatory cardiomyopathy* does not describe the phenotype (dilated or arrhythmogenic) and does not specify the cause. Most available clinical series have rarely included both baseline and follow-up biopsies74-76 and have only reported the initial EMB performed at onset of the symptoms. The non-EMB series inferred the diagnosis of chronic myocarditis based on clinical presentation suggestive of a recent-onset, flu-like syndrome shortly preceding the onset of cardiac symptoms, elevated inflammatory markers, and imaging characterization in patients with angiographically proven normal coronary arteries.77 Past studies estimated that 30% of DCM evolved from myocarditis.75,76,78,79 In a recent study, 82 patients with biopsy-proven active myocarditis were consecutively enrolled and followed-up for 147 ± 107 months. At 6 months, improvement or normalization of LVEF was observed in 53% of patients.78 In another study including 174 patients with either active or borderline myocarditis, 124 patients were alive without being transplanted, 26 were dead or transplanted, and 24 (14%) were lost at a median follow-up of 23.5 months (interquartile range, months).79 A subsequent study included 181 consecutive patients with clinically suspected viral myocarditis; 69 patients fulfilled Dallas criteria for the diagnosis of myocarditis, 91 showed immunohistologic markers of inflammation, and 79 had a positive PCR-based genome search in the EMB. Twenty-two percent of the patients (n = 40) either died or underwent heart transplantation at a mean of 59 ± 42 months.80
 
-![](_page_5_Figure_4.jpeg)
+![](ch10-07_page_5_Figure_4.jpeg)
 
 **FIGURE 63–4.** The figure shows ongoing active inflammation and early granulation tissue in coxsackievirus B3–positive myocarditis.
 
@@ -320,7 +320,7 @@ Myocarditis is an unexpected, often sudden, and rapidly evolving condition. Pati
 
 Myocarditis may present as a new onset of heart failure with symptoms such as dyspnea and fatigue or arrhythmias and signs of heart failure on physical examination. With ECG nonspecific ST-T wave changes, conduction disturbances, and arrhythmias, these patients may demonstrate echocardiographic evidence of impaired systolic LV and/ or right ventricular function, with mildly dilated ventricular chambers. The clinical distinction between such presentation of myocarditis and recent-onset DCM is complex and is dependent on pathologic demonstration of myocarditis as the cause of the phenotype. Family history is
 
-![](_page_10_Figure_29.jpeg)
+![](ch10-07_page_10_Figure_29.jpeg)
 
 **FIGURE 63–5.** Clinical hypothesis of acute myocarditis. 2D, two-dimensional; CAD, coronary artery disease; CMR, cardiac magnetic resonance; EMB, endomyocardial biopsy; PET, positron emission tomography.
 
@@ -396,9 +396,9 @@ Giant cells are found in giant cells myocarditis, sarcoid granulomas, tubercular
 
 Small intramural vessels occasionally demonstrate vasculitis, with inflammatory infiltrates involving small arteriolar walls. Small thrombi may occur in intramural vessels (Fig. 63–6). When both interstitial
 
-![](_page_13_Picture_10.jpeg)
+![](ch10-07_page_13_Picture_10.jpeg)
 
-![](_page_13_Picture_11.jpeg)
+![](ch10-07_page_13_Picture_11.jpeg)
 
 **FIGURE 63–6.** Small intramural vessels may show thrombi, either fibrin (**A**, arrow) or platelets (**B**; degranulated platelets occluding a small vessel).
 
@@ -414,7 +414,7 @@ The myocyte injury is typically noncoagulative. It is easy to distinguish it fro
 
 There are pathogens that can be easily seen with routine hematoxylin and eosin stains; parasites, bacteria, and viral infections causing cytopathic effect are unlikely to be missed by routine pathology study. Morphologic evidence of infection is common in transplanted hearts, and HCMV shows a marked endotheliotropic effect usually coincident with increased viremia and DNA-emia and *T gondii*. Patients with acute CV-B3 infection
 
-![](_page_14_Figure_2.jpeg)
+![](ch10-07_page_14_Figure_2.jpeg)
 
 (and viral replication) that cannot be easily recognized using conventional pathology studies. In these cases, immunohistochemistry for detection of
 
@@ -446,13 +446,13 @@ Clinical manifestations of GCM are variable. Most patients commonly present with
 
 A precise diagnosis of GCM is established only when typical pathologic features are demonstrated on EMB or surgical samples (Fig. 63–9). The inflammatory infiltrate is comprised of CD8+ lymphocytes, eosinophils, and multinucleated giant cells (Fig. 63–10); myocytes show damage and necrosis. Sensitivity of right ventricular EMB is 68% to 80%.228,247 CMR can help guide EMB sampling.248 Differential diagnosis between GCM and cardiac sarcoidosis relies on pathologic features (noncaseating epithelioid granulomas in sarcoidosis) and is supported by the different T-cell subsets (CD4+ in sarcoidosis and CD8+ in GCM). Gene expression profiles vary between the two disorders and can contribute to differential diagnosis.242-244 EMB is recommended by the Heart Failure Society of America in patients presenting with malignant arrhythmias out of proportion to LV dysfunction or in rapidly progressive clinical heart failure or ventricular dysfunction.249
 
-![](_page_15_Picture_10.jpeg)
+![](ch10-07_page_15_Picture_10.jpeg)
 
-![](_page_15_Picture_11.jpeg)
+![](ch10-07_page_15_Picture_11.jpeg)
 
 **FIGURE 63–9. A and B.** Antidesmin antibody immunostain demonstrating a few residual layers of myocytes embedded in the context of severe giant cell myocarditis; the giant cells are clearly visible in the higher magnification panel (**B**).
 
-![](_page_15_Picture_13.jpeg)
+![](ch10-07_page_15_Picture_13.jpeg)
 
 **FIGURE 63–10.** Giant multinucleated cells immunostained with anti-CD68 antibodies in giant cell myocarditis; fulminant onset.
 
@@ -531,7 +531,7 @@ up to 40% of patients and are also associated with poor prognosis.277 Involvemen
 
 The diagnostic workup of cardiac involvement is relatively straight forward in patients with established systemic sarcoidosis. However, it happens to be more challenging when cardiac disease presents in isolation or represents the phenotype of onset because of the wide spectrum of clinical manifestations and the possibility that sudden death could be the first clinical manifestation of the disease.278-280 The diagnosis of
 
-![](_page_17_Picture_7.jpeg)
+![](ch10-07_page_17_Picture_7.jpeg)
 
 **FIGURE 63–11.** End-stage cardiac sarcoidosis. **A.** A low-magnification view of a left ventricular sample from a heart with end-stage sarcoidosis; note the large transmural scarred area alternated with preserved myocardial tissue and focal thinning of the compacted layer of the left ventricle. **B.** A scar area with residual giant cells.
 
@@ -588,9 +588,9 @@ Treatment options largely depend on the symptoms and the phase of the disease ev
 
 Chagas disease (CD) is caused by the protozoan parasite *T cruzi*, 311 which is transmitted through the feces of an infected triatomine, direct oral contact, contaminated blood transfusion, or bone marrow transplantation; it can also be congenital and transmitted vertically from mother to infant. Triatomines are found in the southern United States, Mexico, Central America, and South America, where CD is endemic.312 Contamination of food and drink has been reported in northern South America, where transmission cycles may involve wild vector populations and mammalian reservoir hosts.313 In the acute phase, the disease can manifest with myocarditis, conduction system abnormalities, and pericarditis. In untreated patients, the disease progresses to the chronic phase.314-316
 
-![](_page_19_Picture_10.jpeg)
+![](ch10-07_page_19_Picture_10.jpeg)
 
-![](_page_19_Picture_11.jpeg)
+![](ch10-07_page_19_Picture_11.jpeg)
 
 **FIGURE 63–12.** Active sarcoidosis. The figure shows the endomyocardial biopsy (EMB) sample of a 46-year-old male patient who presented with dyspnea. He showed conduction disease, left ventricular ejection fraction of 50%; left ventricular end-diastolic diameter of 56 mm; and maximum left ventricular thickness of 13 mm. Family history was negative. **A.** Anti-CD68 immunostain; note positive macrophages and giant cells. **B.** Hematoxylin and eosin view of the same EMB sample.
 
@@ -718,9 +718,9 @@ In the scarring, fibrotic stage both ventricles and subvalvular structures of th
 | Possible rare microem<br>bolic phenomena                         | Thrombi can extend to<br>the base of the heart and<br>subvalvular regions | Fibrosis can involve valve<br>structures with regurgitation                                   |
 | Symptoms: rare                                                   | Symptoms: possible<br>embolic complications                               | Symptoms: the functional<br>phenotype is diastolic<br>dysfunction with restrictive<br>pattern |
 
-![](_page_24_Picture_10.jpeg)
+![](ch10-07_page_24_Picture_10.jpeg)
 
-![](_page_24_Figure_11.jpeg)
+![](ch10-07_page_24_Figure_11.jpeg)
 
 **FIGURE 63–13.** The figure shows an endomyocardial biopsy (EMB) sample (**A**) with interstitial and endocardial inflammatory infiltrates largely constituted of eosinophils. The patient had heart failure at onset and demonstrated hypereosinophilia; the patient was diagnosed with clonal, neoplastic, primary hypereosinophilia (HEN ) (*PDGFRA/B* rearrangement). **B.** Bone marrow biopsy demonstrating a high number of eosinophilic granulocytes.
 

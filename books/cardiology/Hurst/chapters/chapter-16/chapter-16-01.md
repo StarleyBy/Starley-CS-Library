@@ -60,7 +60,7 @@ use is more prevalent almost everywhere in the lower socioeconomic groups than i
 
 Over the past several decades, investigators from a wide range of disciplines, in their exploration of the social determinants of health, have looked critically at several distinct areas of interest, asking more complex questions as the field has evolved.20 First, poverty was explored as a categorical determinant of health; it was approached from a threshold framework. Researchers found that the greatest drop in mortality occurred as income increased at the lowest levels of income. However, even as income increased to ever higher levels, mortality continued to decline. Researchers then examined the graded associations between socioeconomic resources and health status across the entire SES hierarchy, exploring the linkage between SES position—indicated by education, occupational status, and/or income—and social disadvantage related to race/ethnicity and sex. The next focus of inquiry moved to exploring the mechanisms by which various social determinants resulted in poor health outcomes. SES is now recognized as only one key factor among many. It is the intersection and interaction of these
 
-![](_page_1_Figure_10.jpeg)
+![](ch16-01_page_1_Figure_10.jpeg)
 
 **FIGURE 107–1.** Coronary heart disease (CHD) mortality (and number of deaths) in 7.5 years by civil service grade and age. The figures on top of the histograms are the numbers of CHD deaths. Reproduced with permission from Marmot MG, Rose G, Shipley M, et al: Employment grade and coronary heart disease in British civil servants.*J Epidemiol Community Health*. 1978 Dec;32:244-249. 16
 
@@ -197,7 +197,7 @@ We have presented evidence in this chapter that clearly establishes the strong c
 
 Researchers have come to appreciate the role that psychosocial risk factors play in mediating CVD. The emerging field of behavior cardiology has divided psychosocial factors into two broad categories, emotional factors and chronic stressors: "Emotional factors include affective disorders such as major depression and anxiety disorders as well as hostility and anger. Chronic stressors include factors such as low social support, low SES, work stress, marital stress, and caregiver strain."65 A vast body of literature now links emotional states—depression, anxiety, and hostility/anger—with increased cardiovascular risk, a
 
-![](_page_6_Figure_2.jpeg)
+![](ch16-01_page_6_Figure_2.jpeg)
 
 **FIGURE 107–2.** Pathways linkingsocioeconomic status (SES) tohealth.CNS, centralnervous system.Reproduced withpermissionfrom Adler NE,Stewart J: Healthdisparitiesacross thelifespan: Meaning, methods,and mechanisms.*Ann N Y Acad Sci*.2010Feb;1186:5-23.<sup>20</sup>
 
@@ -239,7 +239,7 @@ Importantly, many public and private actors are engaged in addressing the social
 
 In 2011, the DHHS published its "Action Plan to Reduce Racial and Ethnic Health Disparities."185 The goals of the plan are to transform health care; strengthen the nation's health and human services infrastructure and workforce; advance the health, safety, and wellbeing of the American people; advance scientific knowledge and innovation; and increase the efficiency, transparency, and accountability of DHHS programs. Figure 107–3 shows the overarching
 
-![](_page_8_Figure_5.jpeg)
+![](ch16-01_page_8_Figure_5.jpeg)
 
 **FIGURE 107–3.** Department of Healthand HumanServices (HHS) Disparities ActionPlanto reduce racial andethnichealthdisparities.Reproduced withpermissionfrom US Department of Healthand HumanServices, Officeof theSecretary, Officeof the AssistantSecretary forPlanningandEvaluationand Officeof Minority Health.<sup>185</sup>
 

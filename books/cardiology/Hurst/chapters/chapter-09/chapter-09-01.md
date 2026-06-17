@@ -58,7 +58,7 @@ Transcription of the nuclear genome is pervasive, as the vast majority of the nu
 
 The second genome in each cell is the mitochondrial DNA (MtDNA). Mitochondrial DNA is a circular DNA, composed of nucleotides. It contains 37 mitochondrial genes, which code for 13 protein-coding genes, two ribosomal RNAs, and 22 transfer RNAs.
 
-![](_page_1_Figure_7.jpeg)
+![](ch09-01_page_1_Figure_7.jpeg)
 
 **FIGURE 55–1.** The cartoon illustrates the flow of information from genes to mRNA to protein. Each gene has a 5′ regulatory region, where transcription factors bind and initiate expression of mRNA. A gene also contains coding segments referred to exons and the intervening sequences referred to as introns. Finally, the 3′ regulatory region in each gene serves as an additional regulatory mechanism. The primary transcript through the process of alternative splicing generates one major and several minor isoforms of each mRNA. Translation machinery synthesizes proteins using the mRNA codons.
 
@@ -88,7 +88,7 @@ Alterations in chromosome structure could lead to structural variations (SVs), w
 
 A single-gene disorder is an inherited disease caused by a mutation in a single gene (monogenic). Only a small fraction of cardiovascular disorders is monogenic. Single-gene disorders that occur in families are characterized by Mendelian patterns of inheritance (Fig. 55–2). They are classified as autosomal dominant, autosomal recessive, or X-linked (dominant or recessive). The majority of monogenic diseases exhibit an autosomal dominant mode of inheritance. In an autosomal dominant disease, approximately half of the members of the family carry the causal mutation and are affected. Monogenic disorders
 
-![](_page_2_Figure_8.jpeg)
+![](ch09-01_page_2_Figure_8.jpeg)
 
 **FIGURE 55–2.** This typical set of pedigrees outlines the usual inheritance patterns for autosomal dominant and recessive traits, X-linked inheritance, and mitochondrial inheritance. *Squares* signify males; *circles* signify females. Filled-in circles and squares are affected females and males, respectively.
 
@@ -198,7 +198,7 @@ The most important part of an evaluation for genetic disease is the family histo
 
 Despite the independent assortment of chromosomes and genes during meiosis, genes (alleles) on two or more loci in close proximity to each other are often coinherited. Two loci that coinherited more than 50% of the time are considered genetically linked. To map the chromosomal locus responsible for a causal gene, DNA markers that are evenly distributed across the chromosomes are selected. DNA is collected from all members of a family (normal and affected) and genotyped for the selected markers. If a DNA marker is coinherited with the phenotype in the affected individuals, the chromosomal locus where the DNA marker resides is in close physical proximity to the locus of the causal gene. This is referred to as *genetic linkage* between the disease (causal gene) and the DNA marker. Figure 55–3 illustrates the concept of linkage analysis. The odds for and against linkage are calculated using computational algorithms. Linkage exists if the odds in favor of linkage are at least 1000:1. Commonly, the logarithm of the odds, referred to as the *LOD score* (log of the odds), is used and a LOD score of 3 or greater indicates linkage. A LOD score of –2 (ie, 102 or 100:1 odds against linkage) excludes the linkage. The likelihood of two genes being separated by recombination increases in proportion
 
-![](_page_5_Figure_13.jpeg)
+![](ch09-01_page_5_Figure_13.jpeg)
 
 **FIGURE 55–3.** Linkage analysis. Shown in the left panel is an illustration of genetic linkage between a locus for a DNA marker and that of a disease that is inherited in a Mendelian dominant fashion. The locus, designated with an "A," carries the allele responsible for the disease. The corresponding locus, "a," on the homologous chromosome, has the allele that codes for the same protein but has not undergone a mutation and is thus the normal allele. The loci designated "B" and "b" represents alleles of a DNA marker of known location that has nothing to do with the disease. In the right panel, the disease and the marker loci are so close that they tend to be coinherited within the family. In contrast, in the left panel, the "A" and "b" loci are so far apart that recombination and crossover occurs between the two markers; thus they segregate independently.
 
@@ -325,9 +325,9 @@ Mutations in *TBX5* on chromosome 12q24, which codes for transcription factor TB
 
 Ellis-van Creveld syndrome is an autosomal recessive skeletal dysplasia, which is associated with congenital heart disease in the majority of cases.66 Skeletal anomalies include short limbs, short ribs, postaxial polydactyly, and dysplastic nails and teeth.66 ASD and common atrium are the typical cardiac anomalies present in two-thirds of the cases.66 Several splice donor, truncation, and missense mutations in *EVC1* and
 
-![](_page_9_Picture_13.jpeg)
+![](ch09-01_page_9_Picture_13.jpeg)
 
-![](_page_9_Picture_14.jpeg)
+![](ch09-01_page_9_Picture_14.jpeg)
 
 **FIGURE 55–4.** Photograph of the hands of a patient with Holt-Oran syndrome. Reproduced with permission from Böhm M: Holt-Oram syndrome. *Circulation*. 1998 Dec 8;98:2636-237.
 
@@ -359,7 +359,7 @@ abnormalities, such as neurofibromatosis. Noonan syndrome has phenotypic resembl
 
 Noonan syndrome is sporadic in half of the cases and an autosomal dominant disease in the other half. Several genes for Noonan syndrome have been identified and all are the components of the RAS /MAPK pathway (Table 55–5). *PTPN11*, encoding protein tyrosine phosphatase, nonreceptor type 11, is the most common gene responsible for autosomal dominant Noonan and Leopard syndromes.74,75 Overall, mutations in *PTPN11* are found in approximately one-half to twothirds of the cases of Noonan syndrome. Mutations are typically gainof-function mutations leading to increased signaling through RAS/ MAPK pathway.
 
-![](_page_10_Figure_12.jpeg)
+![](ch09-01_page_10_Figure_12.jpeg)
 
 **FIGURE 55–5.** Phenotypic expression of Noonan syndrome. Reproduced with permission from Roberts AE, Allanson JE, Tartaglia M, et al: Noonan syndrome. *Lancet*. 2013 Jan 26;381:333-342.
 
@@ -371,7 +371,7 @@ Myxomas are the most common cardiac tumors. Myxomas are generally sporadic but f
 
 Carney complex exhibits locus heterogeneity, and at least two loci on chromosome 17q24 and 2p16 have been mapped.78-80 The majority of familial cardiac myxomas (Carney complex) are caused by mutations in the *PRKRA1A* gene on chromosome 17q24.81 This gene encodes the α-regulatory subunit of cyclic adenosine monophosphate (cAMP) dependent protein kinase. Frameshift mutations in *PRKRA1A* result in haploinsufficiency, which suggests that the *PRKRA1A* functions as a tumor-suppressor gene.78 Recently, a missense mutation in the perinatal myosin heavy-chain gene (*MYH8*) was identified in members of a family with Carney complex and trismus-pseudocamptodactyly syndrome.82 In addition, *PRKACA* and *PRKACB* genes are also implicated in Carney Complex. However, their pathogenic role remains uncertain.
 
-![](_page_11_Figure_6.jpeg)
+![](ch09-01_page_11_Figure_6.jpeg)
 
 **FIGURE 55–6.** Right atrial myxoma detected by cardiac MR imaging. Case courtesy of Dr. Donna D'Souza, Radiopaedia.org. [http://radiopaedia.org/articles/cardiac-myxoma.](http://radiopaedia.org/articles/cardiac-myxoma)
 
@@ -399,11 +399,11 @@ HCM is a relatively common autosomal dominant disease diagnosed clinically by th
 
 Cardiac hypertrophy, the clinical hallmark of HCM, is asymmetric in approximately two-thirds of the cases with predominant involvement of the interventricular septum (Fig. 55–7). Hence the term *asymmetric septal hypertrophy* is used to describe this condition. Occasionally, hypertrophy is restricted to apex of the heart (apical
 
-![](_page_12_Picture_5.jpeg)
+![](ch09-01_page_12_Picture_5.jpeg)
 
-![](_page_12_Picture_6.jpeg)
+![](ch09-01_page_12_Picture_6.jpeg)
 
-![](_page_12_Picture_7.jpeg)
+![](ch09-01_page_12_Picture_7.jpeg)
 
 **FIGURE 55–7.** Main pathologic features of hypertrophic cardiomyopathy. **A.** Gross cardiac hypertrophy with predominant involvement of the interventricular septum and a small left ventricular cavity. **B.** Myocyte disarray and hypertrophy. **C.** Interstitial fibrosis.
 
@@ -474,7 +474,7 @@ HCM is a genetically heterogeneous disease with an autosomal dominant mode of in
 | Calsequestrin                            | CASQ2  | Rare      | Point mutations                                    |
 | Junctophilin 2                           | JPH2   | Rare      | Point mutations                                    |
 
-![](_page_14_Picture_2.jpeg)
+![](ch09-01_page_14_Picture_2.jpeg)
 
 FIGURE 55—8. Schematic representation of sarcomere proteins involved in cardiomyopathies.
 
@@ -515,7 +515,7 @@ A remarkable feature of HCM is the presence of considerable variability in its p
 
 Causal genes and mutations are the primary determinant of expressivity of cardiac phenotype, including the severity of hypertrophy and the risk of SCD. Initial genotype-phenotype correlation studies implied gene- and mutation-dependent phenotypic expression of HCM. For example, p.R403Q mutation was considered a high-risk mutation associated with increased risk of SCD (Fig. 55–9). Likewise, patients with mutations in *MYH7* were shown to have more severe hypertrophy than patients with mutations in *MYBPC3* or *TNNT2*. Likewise,
 
-![](_page_15_Figure_9.jpeg)
+![](ch09-01_page_15_Figure_9.jpeg)
 
 **FIGURE 55–9.** Kaplan-Meier survival curves in patients with hypertrophic cardiomyopathy. Shown are survival curves in two families with two different mutations, namely arginine-to-glutamine substitution at amino acid 403 (R403Q) and glutamine-to-lysine change at amino acid 930 (Q930L) in the *MYH7*.
 
@@ -559,7 +559,7 @@ mutant sarcomere proteins exert diverse functional defects, such as alterations 
 
 Many HCM mutations involve deletions or truncations that are considered null alleles because of the possible expression of unstable mRNA and proteins.114,116,117,158 Although there might be a partial allelic compensation (the wild type allele partly compensating the deficiency of the encoded protein), a truncation or a null mutation might lead to haploinsufficiency and alter stoichiometry of the sarcomere proteins, resulting in HCM. Regardless of the initial primary defect, cardiac hypertrophy, the clinical hallmark of HCM, is considered a compensatory phenotype resulting from upregulation and activation of various trophic and mitotic factors. The predominant involvement of the left ventricle and its frequent absence in the low-pressure right ventricle, despite equal expression of mutant sarcomere protein in both, suggest contribution of the environment, such as the loading conditions, to the development of hypertrophy. Furthermore, variation in hypertrophic response because of the genetic background, its absence early on in life, and its attenuation through pharmacologic interventions, at least
 
-![](_page_16_Figure_17.jpeg)
+![](ch09-01_page_16_Figure_17.jpeg)
 
 **FIGURE 55–10.** Sequence of phenotype characterization in the pathogenesis of cardiomyopathies.
 
@@ -659,7 +659,7 @@ AC is an important cause of SCD in young and apparently healthy individuals.201,
 
 Significant fatty infiltration of the myocardium could be present in normal individuals, particularly in the elderly. Cor adiposum (fatty infiltration of the myocardium) is distinguished from true ARVC by the absence of right ventricular myocardial thinning, myocyte atrophy and apoptosis, patchy fibroadipocytic replacement of myocytes, predominantly in the right ventricle, and lymphocytic myocarditis.210 Right ventricular dilatation, fibrosis, myocyte atrophy, and excess adipocytes have been observed in patients with Becker muscular dystrophy, Emery-Dreifuss muscular dystrophy, and myotonic dystrophy. The distinction between muscular dystrophies and ARVC is usually not problematic because of the skeletal involvement in muscular dystrophies. Given the difficulty in the accurate diagnosis of ARVC, the Task Force committee recommends requirement of two major criteria,
 
-![](_page_19_Picture_6.jpeg)
+![](ch09-01_page_19_Picture_6.jpeg)
 
 **FIGURE 55–11.** Histologic features of arrhythmogenic right ventricular dysplasia (ARVC). Fibrofatty infiltrate in the right ventricle is shown.
 
@@ -881,11 +881,11 @@ In Brugada syndrome, *SCN5A* is responsible for 25% to 30% of familial cases. As
 
 Biophysical characterization of mutations in *SCN5A* suggests that mutations decrease the Na1+ current availability by two main mechanisms: decreased expression of the mutant channel or acceleration of inactivation of the channel. In addition, the alteration in the ionic currents that worsen at higher temperatures has been implicated for certain mutations, such as the T1620M.277 The clinical relevance of this mechanism is corroborated by the observation of several cases of ventricular fibrillation during febrile illnesses in patients with Brugada syndrome.278 Compared to LQT3, the pathogenesis of Brugada syndrome could be considered a mirror image. Biophysical data indicate that LQT3 mutations cause a delayed inactivation of the channel,
 
-![](_page_24_Figure_13.jpeg)
+![](ch09-01_page_24_Figure_13.jpeg)
 
 **FIGURE 55–12.** Typical electrocardiogram of Brugada syndrome. Note the pattern resembling a right bundle branch block and the ST elevation in leads V1 to V2
 
-![](_page_25_Figure_2.jpeg)
+![](ch09-01_page_25_Figure_2.jpeg)
 
 FIGURE 55–13. Schematic structure of I<sub>M</sub>, sodium channel (SCN5A) and phenotypes arising from mutations in SCN5A.
 

@@ -74,11 +74,11 @@ A number of electrocardiographic and other factors have been associated with inc
 
 Patients with PVCs/NSVT should have an echocardiogram to assess LV function. If no significant structural abnormalities are noted on echocardiography, no further imaging studies are typically required.
 
-![](_page_1_Figure_13.jpeg)
+![](ch13-08_page_1_Figure_13.jpeg)
 
 **FIGURE 85–1.** Outflow tract premature ventricular contraction (PVC). Thirty-year-old woman with symptomatic PVCs despite previous trial of beta-blockers and flecainide. The PVC morphology is a left bundle branch block (LBBB) pattern with inferior axis (tall positive R waves in leads II, III, and aVF), consistent with a focus in the right ventricular outflow tract (RVOT). The PVC was successfully ablated.
 
-![](_page_2_Figure_2.jpeg)
+![](ch13-08_page_2_Figure_2.jpeg)
 
 **FIGURE 85–2.** Idiopathic premature ventricular contractions (PVCs) of variable origin. **A.** Right ventricular outflow tract (RVOT) origin PVC with left bundle branch block (LBBB) morphology, inferior axis, and "late" transition (R > S after V3 ) in precordial leads. **B.** A right coronary cusp/left coronary cusp (RCC/LCC) junction origin PVC with LBBB morphology with "W"-shaped V1, inferior axis, and earlier precordial transition then the RVOT PVC. **C.** Aorto-mitral continuity (AMC) orign PVC with a right bundle branch block (RBBB) morphology pattern, inferior axis, and "qR" V1 morphology. **D.** A left ventricular (LV) summit origin PVC with RBBB morphology, inferior axis. Associated star colors show the anatomic location of these PVCs in an anatomic specimen from a superior view with the atria removed. RVOT-origin VT/PVCs typically originate below the valve but as in the LVOT can originate from strands of myocardium above the pulmonic valve. Black triangle demonstrates area of LV summit between the LAD and Cx arteries. AV, aortic valve; Cx, circumflex; LAD, left anterior descending; MA, mitral annulus; PV, pulmonic valve; TA, tricuspid valve. Used with permission from UCLA Cardiac Arrhythmia Center-Wallace A. McAlpine Collection.
 
@@ -142,7 +142,7 @@ The proposed cellular mechanism of this tachycardia is cyclic adenosine monophos
 
 As with idiopathic PVCs/NSVT, idiopathic VT is associated with an excellent prognosis. Therefore, treatment is again aimed at the
 
-![](_page_4_Figure_2.jpeg)
+![](ch13-08_page_4_Figure_2.jpeg)
 
 **FIGURE 85–3.** Thirty-two-year-old woman with drug-refractory symptomatic outflow PVCs referred for ablation. She was brought to the electrophysiology laboratory for an electrophysiology study and radiofrequency ablation procedure. **A.** A mapping catheter is placed in the anterior-septal RVOT at the site of origin of the PVC. Pacing from this site demonstrates a 12-lead QRS morphology that matches the spontaneously occurring PVC (subsequent beat). **B.** Three-dimensional electroanatomic map (Carto, Biosense, Diamond Bar, CA). AP view is shown. Earliest activation pre-QRS is noted in red, latest sites in blue. The earliest site is shown in the anterior RVOT. **C.** Left anterior oblique (LAO) fluoroscopic position of ablation catheter at the RVOT ablation site positioned by the Niobe magnetic navigation system (Stereotaxis, Inc.); also shown are right atrial (RA), His, and coronary sinus (CS) catheters. **D.** The electrogram at the site of earliest activation (*red arrow*) was 40 ms pre-QRS. **E.** A single radiofrequency ablation lesion successfully eliminates the PVC (*orange arrow*) after an initial increase in activity after RF was turned on. ABL, ablation catheter; CS, coronary sinus catheter; HIS, His bundle catheter; LBBB, left bundle branch block; PVC, premature ventricular contraction; RA, right atrial catheter; RV, right ventricular; RVOT, right ventricular outflow tract.
 
@@ -220,7 +220,7 @@ Dominant S waves in V3 , V4 → apical exit.
 
 Dominant R waves in V3 , V4 → basal exit.
 
-![](_page_6_Figure_2.jpeg)
+![](ch13-08_page_6_Figure_2.jpeg)
 
 **FIGURE 85–4.** Superior (**A**) and right anterior oblique (RAO) (**B**) views demonstrating anatomic relationship between right ventricular outflow tract (RVOT) and left ventricular outflow tract (LVOT), and the close proximity of the two structures. The right ventricular (RV) free wall is removed in this image. (**C**) The pathologic relationship and (**D**) RAO fluoroscopic relationship between the coronary cusps and RVOT. Shown is a pigtail catheter in the aortic root with contrast outlining the aorta; an ablation catheter is positioned in the RVOT posteriorly. This further demonstrates how it may be difficult to distinguish the origin of premature ventricular contractions (PVCs)/ventricular tachycardia (VT) originating from these closely related anatomic regions and how a single PVC/VT can have highly variable QRS morphologies depending on the exit site. AO, aorta; AV, aortic valve; LM, left main; LV, left ventricle; PV, pulmonary valve; RCA, right coronary artery. Used with permission from UCLA Cardiac Arrhythmia Center-Wallace A. McAlpine Collection.
 
@@ -232,7 +232,7 @@ patients following MIs.94 Subsequent randomized controlled studies demonstrated 
 
 The use of amiodarone in patients during and after an acute MI is controversial. Amiodarone has unique pharmacologic properties beyond its effects on the cardiac sodium and potassium channels. It is also a β-adrenergic receptor blocker and a calcium channel blocker and has anti-ischemic effects.97 The European Myocardial Infarction Amiodarone Trial (EMIAT) was a study that randomized 1486 patients with an EF of < 40% and prior MI to amiodarone or placebo. No difference in total mortality was observed after a mean follow-up
 
-![](_page_7_Figure_2.jpeg)
+![](ch13-08_page_7_Figure_2.jpeg)
 
 **FIGURE 85–5.** Twelve-lead ECGs of two patients who presented with symptomatic sustained VT originating from the LV summit (epicardial region bounded by the left anterior descending and circumflex arteries, which is the most superior portion of the left ventricle). Patient 1 (**A**) had a structurally normal heart, while patient 2 (**B**) had evidence of mid-myocardial scar based on delayed enhancement seen on cardiac MRI. (**C**) Pathologic specimen with overlying illustration demonstrating the anatomy of the LV summit and the close relation to the RVOT and aortic root. (**D**) Three-dimensional electroanatomic map (NavX, St. Jude Medical, Minneapolis, MN) of patient 1 demonstrating the earliest activation (*white region*) of PVCs with a similar morphology to the sustained VT shown in (**A**). The earliest site is between the anterior interventricular vein/great cardiac vein (AIV/GCV) junction and the left coronary cusp (LCC) within the LV summit. AV, aortic valve; CS, coronary sinus; LV, left ventricle; MV, mitral valve; PV, pulmonic valve; RCC, right coronary cusp; RVOT, right ventricular outflow tract. Used with permission from UCLA Cardiac Arrhythmia Center-Wallace A. McAlpine Collection.
 
@@ -242,7 +242,7 @@ In patients with chronic ischemic cardiomyopathy (ICM) or nonischemic cardiomyop
 
 **Sustained Ventricular Tachycardia** Patients who present in clinically stable VT may be treated with antiarrhythmic drugs, anti-tachycardia pacing (ATP) when available, or synchronized direct current (DC) cardioversion. Patients in VT with hemodynamic compromise,
 
-![](_page_8_Figure_2.jpeg)
+![](ch13-08_page_8_Figure_2.jpeg)
 
 **FIGURE 85–6.** Schematic of reentry in patients with myocardial scar tissue/fibrosis. Regions of scar/fibrosis allow for conduction slowing and the potential for a reentrant circuit to form. The gross pathologic specimen (**A**) and representative histologic section (**B**) show scar tissue stained blue. The *white arrow* represents the potential reentrant circuit and the *dashed lines* the region of slow conduction within the scar. A schematic similar to that proposed by Stevenson et al.141 (**C**) of a potential VT circuit including both critical (isthmus) and noncritical (inner loop, outer loop, bystander) locations is included. Used with permission from UCLA Cardiac Arrhythmia Center-Wallace A. McAlpine Collection.
 
@@ -276,7 +276,7 @@ Neuraxial modulation (thoracic epidural anesthesia, cardiac sympathetic denervat
 
 The primary aim in patients who have presented with sustained VT is to reduce recurrence of VT and prevent SCD. LV function is a wellestablished independent risk factor for SCD in patients with ventricular arrhythmias.115,116 In a subanalysis of the Candesartan in Heart Failure Assessment of Reduction in Mortality and Morbidity (CHARM) study, evaluation of the impact of LVEF quartiles on long-term survival revealed a 39% increase in the hazard ratio for mortality for every 10% reduction in LVEF.117
 
-![](_page_9_Figure_2.jpeg)
+![](ch13-08_page_9_Figure_2.jpeg)
 
 **FIGURE 85–7.** Seventy-two-year-old man with history of coronary artery disease status post-percutaneous coronary intervention with previous failed endocardial ablation referred for a combined endocardial-epicardial ablation. Four ventricular tachycardias (VTs) were induced during the procedure. A three-dimensional electroanatomic (CARTO, Biosense Webster, Diamond Bar, CA) voltage map was constructed to guide the delivery of ablation lesions (*red dots*). Red color signifies dense scar (< 0.5 V) located on the basal/inferior wall of left ventricle (LV), while the purple area denotes preserved myocardium (> 1.5 V) in the apical region. A pathologic specimen is provided for representative anatomy of the involved lateral LV. After ablation the patient was no longer inducible for VT. Used with permission from UCLA Cardiac Arrhythmia Center-Wallace A. McAlpine Collection.
 
@@ -339,7 +339,7 @@ When considering scar-based VT ablation in a stable patient, preprocedure cardia
 
 Ablation techniques for scar-based VT continue to evolve. However, techniques utilized largely depend on the hemodynamic tolerance of the clinical VT. Voltage mapping of myocardial scar and border zones and associated late potentials (Fig. 85–8) can help localize potentially
 
-![](_page_11_Figure_2.jpeg)
+![](ch13-08_page_11_Figure_2.jpeg)
 
 **FIGURE 85–8.** Sixty-five-year-old man with recurrent impantable cardioverter-defibrillator shocks referred for a combined endocardial-epicardial ablation. A three-dimensional electroanatomic (NavX, St. Jude, Minneapolis, MN) voltage map (**E**) was constructed. Gray color signifies dense scar (< 0.5 V) while the purple area denotes normal voltage (> 1.5 V). Late potentials (**A**) are demonstrated along the border zone of scar and multiple exit sites (changing QRS morphology while pacing from a stable site) (**C**) suggest the potential importance of this anatomic region. When ventricular tachycardia (VT) is induced, the site of previously seen late potentials demonstrates mid-diastolic potentials during VT (**B**), and a stimulus delivered during VT (**D**) at that site terminated VT without propagation, verifying this site is within the critical isthmus. Ablation at this site made the VT noninducible.
 
@@ -377,7 +377,7 @@ Several large trials, including the Grupo de Estudio de la Sobrevida en la Insuf
 
 Radiofrequency catheter ablation in patients with drug-refractory VT may offer an additional treatment option for patients with NICM suffering from recurrent VT and/or frequent ICD therapies170,171 Most patients do not have hemodynamically tolerated VT and therefore a substrate-based approach can be undertaken with reasonable success.172 Ablation is supported in several studies81,156,158,170,173 and complete noninducibility of VT at the end of the procedure may lead to a decreased mortality rate.174 As a result of the frequent epicardial substrates, a combined endocardial-epicardial approach is often required in NICM patients,175 and is safe in experienced centers.176
 
-![](_page_13_Figure_2.jpeg)
+![](ch13-08_page_13_Figure_2.jpeg)
 
 **FIGURE 85–9.** Representative 12-lead electrocardiogram and schematic of bundle branch reentry (BBR) VT. In typical BBR VT, the morphology is LBBB as the conduction blocks in the left bundle antegrade and is able to conduct antegrade down the right bundle and retrograde back up the left bundle to form the circuit. A right bundle branch block version has been described but is less common. LV, left ventricle; RV, right ventricle.
 
@@ -399,7 +399,7 @@ For primary prevention, the decision to implant an ICD is individualized with th
 
 Arhythmogenic right ventricular cardiomyopathy (ARVC) is characterized by fatty infiltration, fibrosis, and thinning of the RV and less commonly the LV, and is associated with ventricular arrhythmias and SCD. It is the most common cause of exercise-induced SCD among young male athletes in Italy and may be responsible for up to 20% of SCD in men younger than age 30 years old.186 Although most cases
 
-![](_page_14_Picture_2.jpeg)
+![](ch13-08_page_14_Picture_2.jpeg)
 
 **FIGURE 85–10.** Two chest x-rays of patients with previous implanatable cardioverter-defibrillator (ICD) implants for primary prevention of sudden cardiac death. Each patient had appropriate ICD shocks for ventricular tachycardia/ventricular fibrillation. However, both patients required repeated lead revisions over time due to device upgrades and lead dysfunction. Neither patient had lead extractions at the time of needed revisions, leading to multiple abandoned intracardiac leads seen on fluoroscopy. The extra-cardiac portion of the abandoned leads are shown in the left chest pocket (**A**, *red arrow*) and on the right side (**B**, *blue arrow*).
 
@@ -419,7 +419,7 @@ Patients who have had sustained VT or a history of cardiac arrest from VF should
 
 Sarcoidosis is a granulomatous disease involving multiple organ systems. The incidence of cardiac symptoms in patients with sarcoidosis is relatively low194; however, 20% to 30% of patients with sarcoidosis are found to have evidence of cardiac involvement. Myocardial
 
-![](_page_15_Figure_2.jpeg)
+![](ch13-08_page_15_Figure_2.jpeg)
 
 **FIGURE 85–11.** Epsilon waves (*arrows*) in a patient with arrhythmogenic right ventricular cardiomyopathy (ARVC). Epsilon waves meet a major criterion for the diagnosis of ARVC. Inset shows results from a signalaveraged electrocardiogram (SAECG) demonstrating a duration of the terminal < 40 μV, which was > 38 ms and the root-mean square voltage of the terminal 40 ms ≤ 20 μV. SAECG provides a minor criterion for ARVC.
 
@@ -467,9 +467,9 @@ When the patient's evaluation is complete and all reversible causes or contribut
 
 'Scar border' ectopics as a cause of focal VF
 
-![](_page_17_Figure_3.jpeg)
+![](ch13-08_page_17_Figure_3.jpeg)
 
-![](_page_17_Picture_4.jpeg)
+![](ch13-08_page_17_Picture_4.jpeg)
 
 **FIGURE 85–12. A.** Rhythm strip of recurrent PVC that repeatedly triggered VF. (*Orange star* = PVC, and *blue star* = PVC-initiated VF.) **B.** Three-dimensional anatomic map (Carto, Biosense Webster, Inc., Diamond Bar, CA) of the site of origin of the PVC within the scar "border zone." Purple represents normal tissue, and red delineates dense scar. MA, mitral annulus; PVC, premature ventricular contraction; VF, ventricular fibrillation.
 

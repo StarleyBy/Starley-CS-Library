@@ -84,7 +84,7 @@ Emboli often arise from sources other than the heart, such as the aorta, proxima
 
 Warning signs of stroke can include sudden hemiparesis, hemisensory loss, confusion, trouble speaking or understanding, visual loss, diplopia, ataxia, vertigo, or sudden severe headache with no known cause. Most embolic events occur during activities of daily living, but some embolic strokes have their onset during rest or sleep. Sudden coughing, sneezing, or nighttime micturation can precipitate embolism.6,45 Although the deficit is most often maximal at outset, 11% of embolic
 
-![](_page_2_Picture_2.jpeg)
+![](ch14-02_page_2_Picture_2.jpeg)
 
 **FIGURE 94–1.** Descending aorta at necropsy from a patient whose transesophageal echocardiography before surgery showed severe disease of the ascending aorta and aortic arch with mobile protruding plaques. This patient died after coronary artery bypass grafting surgery having never awakened after the procedure. Used with permission from Denise Barbut, MD, Cornell University Medical College and the New York Hospital.
 
@@ -96,7 +96,7 @@ Emboli usually cause occlusion of distal branches and produce surface infarcts t
 
 MRI, particularly with the use of MR diffusion-weighted and MR gradient recall echo (GRE) imaging, is much more sensitive for detection of acute brain infarcts than is CT. MR is also superior in detecting
 
-![](_page_2_Picture_8.jpeg)
+![](ch14-02_page_2_Picture_8.jpeg)
 
 **FIGURE 94–2.** Cholesterol crystals and other particulate debris are caught in a filter placed in the aorta at the time that aortic clamps are removed. Used with permission from Denise Barbut, MD, Cornell University Medical College and the New York Hospital.
 
@@ -106,7 +106,7 @@ In unselected series of stroke patients, transthoracic echocardiography (TTE) ha
 
 Echocardiography has definite limitations. Particles the size of 2 mm can block major brain arteries but are beyond the imaging resolution of current echocardiographic technology.60 Also, thromboembolism is a dynamic process. When a clot forms in the heart and embolizes, there may be no residual evidence unless a clot reforms.6,38 Cardiac thrombi are imaged differently on sequential echocardiograms6,64; even large thrombi once seen on one echocardiogram can disappear later.61
 
-![](_page_3_Picture_2.jpeg)
+![](ch14-02_page_3_Picture_2.jpeg)
 
 **FIGURE 94–3.** Transesophageal echocardiography recording during cardiac surgery from the aorta at the level of the origin of the left subclavian artery. A mobile plaque is seen protruding into the aortic lumen (*small black arrow*). This recording was taken after the release of aortic clamps and shows a shower of emboli within the aortic lumen beyond where the aorta was previously clamped. Used with permission from Denise Barbut, MD, Cornell University Medical College and the New York Hospital.
 
@@ -118,11 +118,11 @@ Cerebral embolic signals can also be detected by monitoring with transcranial Do
 
 Warfarin Multiple studies have showed warfarin to be effective in preventing brain embolism in patients with both rheumatic mitral stenosis and AF. Anticoagulation reduces the risk of ischemic stroke (and other
 
-![](_page_3_Figure_8.jpeg)
+![](ch14-02_page_3_Figure_8.jpeg)
 
 **FIGURE 94–4.** Transcranial Doppler recording from the middle cerebral arteries during steady-state cardiac bypass surgery at a time when the aorta was manipulated. The white streaks represent microemboli. Used with permission from Denise Barbut, MD, Cornell University Medical College and the New York Hospital.
 
-![](_page_3_Figure_10.jpeg)
+![](ch14-02_page_3_Figure_10.jpeg)
 
 **FIGURE 94–5.** Transcranial Doppler recording from the middle cerebral arteries during cardiac bypass surgery. A few distinct emboli (*white streaks* in the left of the figure) are followed by a massive shower of emboli (*whiteout*) at the time of the release of aortic clamps. Used with permission from Denise Barbut, MD, Cornell University Medical College and the New York Hospital.
 
@@ -403,7 +403,7 @@ Figure 94–6 shows diagrammatically the sites of predilection for development o
 
 Ischemia in patients with atherosclerotic occlusive lesions is caused by two different mechanisms: hypoperfusion and embolism.45,310,311 Hypoperfusion develops only when a critical reduction in luminal diameter causes reduced distal perfusion. When flow is reduced slowly, the brain vasculature has a remarkable capacity to develop collateral circulation. Patients with severe ICA-origin occlusive disease can remain asymptomatic despite marked decrease in blood flow.312,313 Even when vascular occlusion is abrupt—as in tying neck arteries to treat brain aneurysms—surprisingly few patients develop persistent brain
 
-![](_page_13_Figure_6.jpeg)
+![](ch14-02_page_13_Figure_6.jpeg)
 
 **FIGURE 94–6.** Sites of predilection for atherosclerotic narrowing; dark areas represent plaques. ACA, anterior cerebral artery; CA, carotid artery; CCA, common carotid artery; MCA, middle cerebral artery; PCA, posterior cerebral artery. Reproduced with permission from Caplan LR: *Stroke: A Clinical Approach*, 3rd ed. Boston: Butterworth-Heinemann; 2000.
 
@@ -457,9 +457,9 @@ For rational treatment, know the following:
 
 Treatment should *not* be guided solely by the temporal pattern of the symptoms, such as TIA, progressing stroke, or so-called *completed stroke*. These time courses do not predict the cause and mechanism of ischemia, identify whether an infarct is present, or identify patients who will have further or recurrent ischemia.329
 
-![](_page_14_Picture_14.jpeg)
+![](ch14-02_page_14_Picture_14.jpeg)
 
-![](_page_14_Picture_15.jpeg)
+![](ch14-02_page_14_Picture_15.jpeg)
 
 **FIGURE 94–7.** Duplex scan of carotid artery plaque. **A.** B-mode ultrasonic image showing plaque protruding into internal carotid artery (ICA) lumen. **B.** Doppler spectra at level of plaque showing high voltage related to stenosis.
 
@@ -540,7 +540,7 @@ Since the advent of CT and MRI, it has become widely appreciated that hypertensi
 
 Intracerebral hemorrhage (ICH) accounts for approximately 10% of all strokes.29,45 Head trauma, vascular malformations, bleeding diatheses, drugs (especially anticoagulants, amphetamines, and cocaine), amyloid
 
-![](_page_17_Picture_9.jpeg)
+![](ch14-02_page_17_Picture_9.jpeg)
 
 **FIGURE 94–8.** Deep penetrating arteries prone to the development of lipohyalinosis and microaneurysms (*green*). Occlusion of these arteries causes lacunar infarcts, and rupture of these arteries causes intracerebral hemorrhage. Reproduced with permission from Caplan LR: Stroke: *A Clinical Approach*, 3rd ed. Boston: Butterworth-Heinemann; 2000.
 
@@ -574,7 +574,7 @@ Hypertensive ICH issues from the deep penetrating arteries, so the locations par
 
 **Clinical Findings** Patients with ICH most often have a gradual evolution of neurologic signs. The first neurologic signs are related to the
 
-![](_page_17_Figure_26.jpeg)
+![](ch14-02_page_17_Figure_26.jpeg)
 
 **FIGURE 94–9.** Gradual evolution of a hypertensive pontine intracerebral hematoma. **A.** The earliest leakage of blood from a paramedian penetrating artery. **B, C.** The hematoma has grown. Reproduced with permission from Caplan LR: Stroke: *A Clinical Approach*, 3rd ed. Boston: Butterworth-Heinemann; 2000.
 
@@ -626,7 +626,7 @@ Extracranial dissections produce sharp pain and throbbing headache; brain and re
 
 There is debate regarding the appropriate treatment for cervicocephalic arterial dissection. The Cervical Artery Dissection in Stroke Study (CADISS-NR) was a small trial enrolling 250 participants with cervicocephalic dissection (118 carotid, 132 vertebral), who were randomly assigned to receive antiplatelet or anticoagulants. The CADISS trial concluded that there was no difference in secondary stroke prevention provided by antiplatelet and anticoagulant agents in patients with carotid or vertebral artery dissections.419 It is important to note that the mean time of treatment after symptom onset was 10.8 days (standard deviation 7.0, range days) in this study. Extensive published data420,421,422 as well as our personal experience show that most strokes develop within the first 7 days after brain ischemia and the rate of stroke thereafter is very low. In addition, strokes are uncommon in patients whose presentation does not include brain ischemia (neck pain, Horner syndrome, compression of nerve roots, or lower cranial nerves). These patients were also included in the trial. In CADISS-NR, only two patients had strokes within 3 months. In the meta-analysis included in the report, almost all of the patients were enrolled beyond 5 days after onset. Physicians must not take the
 
-![](_page_19_Figure_13.jpeg)
+![](ch14-02_page_19_Figure_13.jpeg)
 
 **FIGURE 94–10.** Diagrams of a carotid artery dissection. **A.** The intramural clot encroached on the lumen. **B.** The dissection (*cross-hatched*). Reproduced with permission from Caplan LR: Stroke: *A Clinical Approach*, 3rd ed. Boston: Butterworth-Heinemann; 2000.
 

@@ -75,7 +75,7 @@ hemodynamic changes. By 24 weeks of gestation, circulating plasma volume has inc
 
 Labor and delivery result in acute hemodynamic swings that place an additional stress on the maternal cardiovascular system. Cardiac output can increase by 15% to 25% in early labor, 50% during active labor, and up to 80% immediately postpartum as compared to pre-labor values, primarily mediated by an increase in stroke volume.23,24 In the immediate postpartum period, preload acutely rises from autotransfusion from the uteroplacental circulation and increased venous return in the setting of relief of uterine compression on the inferior vena cava.12
 
-![](_page_2_Figure_2.jpeg)
+![](ch15-06_page_2_Figure_2.jpeg)
 
 FIGURE 103—1. Hemodynamic changes of pregnancy, labor, and the postpartum period (PP). CO, cardiac output; HR, heart rate; MAP, mean arterial pressure; SVR, systemic vascular resistance; SV, stroke volume.
 
@@ -204,7 +204,7 @@ Atrial tachycardias occur rarely in pregnancy, but are more likely to be resista
 
 Atrial fibrillation (AF) and atrial flutter (AFL) occur rarely in women without a prior history of these arrhythmias or structural heart disease, although more than half of women with a history of AF/AFL will
 
-![](_page_7_Figure_2.jpeg)
+![](ch15-06_page_7_Figure_2.jpeg)
 
 \*Medications not to be used with structural heart disease
 

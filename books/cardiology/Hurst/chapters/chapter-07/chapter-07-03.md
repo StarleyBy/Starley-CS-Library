@@ -70,7 +70,7 @@ Moreover, the rationale for all diagnostic tests, prognosis, treatment, and proc
 
 These disconnects in cardiovascular medicine require us to rethink the term *ischemia* because its specific definition or rather many potential definitions highlights the core issues of CAD, how it is quantified and for what goal—diagnosis, progression/regression, medical
 
-![](_page_1_Figure_2.jpeg)
+![](ch07-03_page_1_Figure_2.jpeg)
 
 FIGURE 34—1. Outcomes after coronary revascularization in (A) acute coronary syndromes (ACS), stable coronary artery disease at 12-year follow-up of the Clinical Outcomes Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE) trial (B), cardiovascular mortality (C) and all-cause mortality or cardiovascular hospitalization (D) in the Surgical Treatment for Ischemic Heart Failure (STICH) trial with (red line) and without (blue line) ischemia by single-photon emission tomographic perfusion imaging. Cl, confidence interval; PCI, percutaneous coronary intervention. (A) reproduced with permission from Fox KA, Clayton TC, Damman P, et al. Engroduced from Fox KA, Clayton TC, Damman P, et al. Long-term outcome of a routine versus selective invasive strategy in patients with non-ST-segment elevation acute coronary syndrome a meta-analysis of individual patient data. *J Am Coll Cardiol*. 2010 Jun 1;55:2435-2445. (B) reproduced with permission from Sedlis SP, Hartigan PM, Teo KK: Effect of PCI on Long-Term Survival in Patients with Stable Ischemic Heart Disease. *N Engl J Med*. 2015 Nov 12;373:1937-1946. C, data from Velazquez EJ, Lee KL, Deja MA, et al: Coronary-artery bypass surgery in patients with coronary artery disease and left ventricular dysfunction. *J Am Coll Cardiol*. 2013 May 7;61:1860-1870.
 
@@ -88,7 +88,7 @@ The wide range of meaning for *myocardial ischemia* is obvious when trying to de
 
 Traditional textbooks or training approaches to *myocardial ischemia* start with the process, procedures, and paradigm of clinical cardiology. This traditional training paradigm of clinical cardiology typically begins with the prevalence and demographics of CAD, pathology of
 
-![](_page_2_Figure_2.jpeg)
+![](ch07-03_page_2_Figure_2.jpeg)
 
 FIGURE 34—2. Definitions of myocardial ischemia or clinical associations. Insets: treadmill exercise test, ST segment depression, angiogram, coronary flow reserve, myocardial lactate production, Positron emission tomography perfusion images with large and small stress defects and coronary and aortic pressures for fractional flow reserve (FFR). ECG, electrocardiogram; QCA quantitative coronary angiogram; dia, diameter stenosis.
 
@@ -124,7 +124,7 @@ Intracoronary optical coherence tomography–intravascular ultrasound (OCT-IVUS)
 
 The anatomic and physiologic severity of CAD associated with ACS defines that severity threshold at which revascularization may reduce myocardial and mortality in nonacute CAD. Extrapolating these thresholds to cardiac testing and management of chronic "stable" CAD requires conceptual integration with coronary pathophysiology, coronary blood flow (or myocardial perfusion), stenosis pressure gradients, the quantitative coronary angiogram, and specific definitions of *ischemia* as the basis for managing CAD.
 
-![](_page_3_Figure_13.jpeg)
+![](ch07-03_page_3_Figure_13.jpeg)
 
 **FIGURE 34–3.** Schematic of anatomic and pathophysiologic evolution of acute coronary syndromes. DS, diameter stenosis.
 
@@ -138,11 +138,11 @@ Experimental models link severity of coronary blood flow with precise anatomic s
 
 The term *maximal hyperemia* of coronary flow for quantifying CFR derives from the initial experimental vasodilatory stimulus—reactive hyperemia that is the marked rapid rise in coronary blood flow to maximum after transient coronary occlusion for 10 to 20 seconds. As addressed in a later section on control of coronary blood flow, this
 
-![](_page_4_Figure_7.jpeg)
+![](ch07-03_page_4_Figure_7.jpeg)
 
 **FIGURE 34–4.** Coronary flow at rest and at maximal hyperemia with and without coronary artery stenosis. Reproduced with permission from Gould KL, Lipscomb K, Hamilton GW: Physiologic basis for assessing critical coronary stenosis. Instantaneous flow response and regional distribution during coronary hyperemia as measures of coronary flow reserve. *Am J Cardiol*. 1974 Jan;33:87-94.23
 
-![](_page_4_Figure_9.jpeg)
+![](ch07-03_page_4_Figure_9.jpeg)
 
 **FIGURE 34–5.** Coronary flow reserve for progressive percent diameter stenosis. The gray zone marks the limits of data. The red zones correspond to anatomic severity observed in acute coronary syndromes by intracoronary optical coherence tomography–intravascular ultrasound. Reproduced with permission from Gould KL, Lipscomb K, Hamilton GW: Physiologic basis for assessing critical coronary stenosis. Instantaneous flow response and regional distribution during coronary hyperemia as measures of coronary flow reserve. *Am J Cardiol*. 1974 Jan;33:87-94.23
 
@@ -172,11 +172,11 @@ Regardless of the mix of regional stenosis or diffuse disease causing these low-
 
 Correlating or predicting physiologic severity from angiographic anatomy, or vice versa, is limited by the modest but real limited resolution and variability of clinical angiographic anatomy and myocardial perfusion measurements. In addition, standard angiography does not account for effects of diffuse CAD. Experimental stenosis with high-resolution angiograms, accurate flow meter measurements, and absence of diffuse disease provide accurate enough data to confirm the applicability of theoretical fluid dynamic equations for stenosis in the absence of diffuse disease.<sup>23,29-32</sup> However, clinical OCT-IVUS observations, <sup>16-22</sup> pathology findings, <sup>15</sup> and quantitative perfusion in
 
-![](_page_5_Figure_11.jpeg)
+![](ch07-03_page_5_Figure_11.jpeg)
 
 FIGURE 34—6. Regional myocardial perfusion in cc/min/g in patients having a severe stress perfusion defect, angina requiring aminophylline reversal, and/or 1 mm or greater ST depression during dipyridamole stress. Severe (red line) indicates two or all of these criteria. Moderate (blue line) indicates electrocardiogram changes or angina but not both. AUC, area under the true positive versus false positive correlations. Reproduced with permission from Johnson NP, Gould KL: Physiological basis for angina and ST-segment change PET-verified thresholds of quantitative stress myocardial perfusion and coronary flow reserve. JACC Cardiovasc Imaging. 2011 Sep;4:990-998.<sup>77</sup>
 
-![](_page_6_Figure_2.jpeg)
+![](ch07-03_page_6_Figure_2.jpeg)
 
 FIGURE 34—7. Coronary flow reserve (CFR) and relative stress defect severity (A) and stress perfusion in cc/min/g (B) in healthy normal volunteers without risk factors, patients with risk factors only, patients with documented coronary artery disease (CAD) by coronary event or angiogram with and without revascularization, and patients having angina and electrocardiogram changes during dipyridamole stress as reported for Figure 34—6. The red line indicates CFR in the regional stress defect in the distribution of the worst stenosis. The blue line indicates global CFR due to diffuse coronary artery disease. The purple indicates relative severity on the primary radionuclide uptake images using rubidium–82. The red line of B indicates regional stress perfusion in cc/min/g in the distribution of the worst stenosis and the green line indicates global stress perfusion due to diffuse coronary artery disease. The red shaded zone highlight the ranges of severe low CFR and stress perfusion associated with angina and ST changes during dipyridamole stress. FFR, fractional flow reserve. (A) reproduced with permission from Gould KL, Johnson NP2, Kaul S, et al: Patient selection for elective revascularization to reduce myocardial infarction and mortality: new lessons from randomized trials, coronary physiology, and statistics. *Circ Cardiovasc Imaging*. 2015 May;8.<sup>26</sup>
 
@@ -184,7 +184,7 @@ patients<sup>24-29</sup> illustrated in Figs. 34–3 and 34–7 indicate the cri
 
 In the absence of a clinical or experimental anatomic measure of diffuse disease cumulatively throughout the entire coronary artery tree, fluid dynamic simulations of stenosis and diffuse narrowing in Fig. 34–8<sup>24,26</sup> provide important insights consistent with clinical observations. These precise computer models of stenosis and diffuse narrowing are based on the dimensions and vascular bed sizes reported for the human branching coronary artery tree. <sup>33–36</sup> The model accounts for interacting viscous pressure loss of diffuse narrowing and vortex shedding or turbulent flow caused by segmental stenosis in varying proportions. The calculated CFR and stress flows match the experimental model for stenosis. They also correlate reasonably with clinical anatomic and physiologic quantification of stenosis with minimal diffuse narrowing evidenced by good global CFR and stress flow in patients.
 
-![](_page_6_Figure_6.jpeg)
+![](ch07-03_page_6_Figure_6.jpeg)
 
 **FIGURE 34—8.** Computer models of stenosis and calculated coronary flow reserve (CFR) and fractional flow reserve (FFR) based on fluid dynamic analysis of the entire branching coronary artery tree with and without stenosis or diffuse narrowing. Green indicates mild to moderate low-risk stenosis and/or diffuse narrowing. Red indicates severe high-risk stenosis and/or diffuse narrowing as explained in the text. Reproduced with permission from Gould KL, Johnson NP2, Kaul S, et al: Patient selection for elective revascularization to reduce myocardial infarction and mortality: new lessons from randomized trials, coronary physiology, and statistics. *Circ Cardiovasc Imaging*. 2015 May;8. pii: e003099.<sup>36</sup>
 
@@ -198,7 +198,7 @@ These separate streams of data associated with stenosis severity at ACS suggest 
 
 In contrast to ACS,¹ revascularization trials in nonacute CAD have not reduced myocardial infarction or mortality,²-¹² illustrated in Fig. 34–1. However, randomized trials of intervention guided by fractional flow reserve (FFR) provide important insights on physiologic severity.³<sup>7-41</sup> Although not definitive for reducing myocardial infarction or mortality by classical intention to treat analysis, the Multicenter Randomized Study to Compare Deferral Versus Performance of PCI (DEFER)³<sup>7</sup> and Fractional Flow Reserve Versus Angiography for Multivessel Evaluation (FAME) trials³<sup>8-41</sup> provide additional strong support confirming physiologic stenosis severity as the potential optimal guide to revascularization or medical treatment.
 
-![](_page_7_Figure_2.jpeg)
+![](ch07-03_page_7_Figure_2.jpeg)
 
 **FIGURE 34–9.** Coronary blood flow and aortic and coronary pressures at resting baseline and maximal hyperemia with and without stenosis. CFR, coronary flow reserve; max F, maximum flow with and without stenosis; FFR, fractional flow reserve; Pao, aortic pressure; Pcor, coronary pressure. Adapted with permisison from Lipscomb K, Gould KL: Mechanism of the effect of coronary artery stenosis on coronary flow in the dog. *Am Heart J.* 1975 Jan;89:60-67.
 
@@ -218,15 +218,15 @@ beyond FFR will likely parallel remaining dominance of the coronary angiogram in
 
 Fractional flow reserve (FFR) versus angiography for multivessel evaluation (FAME I) - PCI based on FFR reduced heart attacks & deaths compared to PCI based on % stenosis
 
-![](_page_7_Figure_12.jpeg)
+![](ch07-03_page_7_Figure_12.jpeg)
 
 **FIGURE 34–10.** Survival free from major adverse events in patients with angiogram–guided percutaneous intervention (PCI; red line) compared to fractional flow reserve (FFR)—guided PCI (blue line) of the FAME 1 randomized trial. Reproduced with permission from Tonino PA, De Bruyne B, Pijls NH, et al: Fractional flow reserve versus angiography for guiding percutaneous coronary intervention. *N Engl J Med.* 2009 Jan 15;360:213–224.<sup>38</sup>
 
-![](_page_8_Figure_2.jpeg)
+![](ch07-03_page_8_Figure_2.jpeg)
 
 **FIGURE 34–11.** Cumulative major adverse coronary events in patients with fractional flow reserve–guided percutaneous coronary intervention (PCI) (blue line) compared to medical treatment (red line) within the first week after the procedure (inset) and after the first week up to 24 months follow-up. See text for red and blue icon of the balance scales. Reproduced with permission from De Bruyne B, Fearon WF, Pijls NH, et al: Fractional flow reserve-guided PCI for stable coronary artery disease. *N Engl J Med*. 2014 Sep 25;371:1208-1217.41
 
-![](_page_8_Figure_4.jpeg)
+![](ch07-03_page_8_Figure_4.jpeg)
 
 **FIGURE 34–12.** Meta-analysis showing the continuous relation of fractional flow reserve and major adverse coronary events (MACE) with medical treatment (blue line) and revascularization (red line). See text for blue and red groups of patients. Reproduced with permission from Johnson NP, Tóth GG, Lai D, et al: Prognostic value of fractional flow reserve: linking physiologic severity to clinical outcomes. *J Am Coll Cardiol*. 2014 Oct 21;64:1641-1654.44
 
@@ -234,7 +234,7 @@ Fractional flow reserve (FFR) versus angiography for multivessel evaluation (FAM
 
 Because anatomic severity by OCT-IVUS at ACS defines critical physiologic stenosis severity underlying ACS, why has the coronary angiogram severity failed to identify patients for whom revascularization also reduces myocardial infarction or mortality in nonacute CAD? Early and recent literature shows a severity risk relation as in Fig. 34–13. Panel A from old literature shows *average* angiographic percent DS related to subsequent occlusion at follow-up angiogram45,46 regardless of clinical events and obviously not accounting for deaths. Panel B shows recent data with similar power curves relating the angiographic SYNergy Between PCI With TAXUS and Cardiac Surgery (SYNTAX) score to mortality at different follow-up intervals.47 These correlations of average
 
-![](_page_8_Figure_8.jpeg)
+![](ch07-03_page_8_Figure_8.jpeg)
 
 **FIGURE 34–13.** Percent diameter stenosis at baseline angiogram compared to annual rate of total occlusion on follow-up angiogram (**A**) and mortality compared to angiogram SYNTAX score (**B**). CASS, Coronary Artery Surgery Study; SYNTAX, SYNergy Between PCI With TAXUS and Cardiac Surgery. (A) data from Alderman EL, Corley SD, Fisher LD, et al: Five-year angiographic follow-up of factors associated with progression of coronary artery disease in the Coronary Artery Surgery Study (CASS). CASS Participating Investigators and Staff. *J Am Coll Cardiol*. 1993 Oct;22:.45 (B) reproduced with permission from Iqbal J, Vergouwe Y, Bourantas CV, et al: Predicting 3-year mortality after percutaneous coronary intervention: updated logistic clinical SYNTAX score based on patient-level data from 7 contemporary stent trials, *JACC Cardiovasc Interv*. 2014 May;7:464-470.47
 
@@ -250,7 +250,7 @@ The limited resolution of the angiogram34 with loss of border resolution makes i
 
 above.
 
-![](_page_9_Figure_2.jpeg)
+![](ch07-03_page_9_Figure_2.jpeg)
 
 **FIGURE 34—14.** Rest and stress positron emission tomography perfusion images showing a severe stress defect (blue) with angiogram before and after percutaneous coronary intervention (PCI). Inset: Simulated stenosis fluid dynamic models (**A**, **D**, **E**) and angiogram of stenosis phantom (**B**, **C**). See text for green and red coronary flow reserve (CFR) and fractional flow reserve (FFR) categories. Reproduced with permission from Gould KL, Johnson NP, Kaul S, et al: Patient selection for elective revascularization to reduce myocardial infarction and mortality: new lessons from randomized trials, coronary physiology, and statistics. *Circ Cardiovasc Imaging*. 2015 May;8.<sup>26</sup>
 
@@ -268,11 +268,11 @@ This overview derived from ACS benefited by revascularization establishes the re
 
 Although FFR has had a profound beneficial influence on moving the scientific basis for assessing coronary stenosis from angiogram anatomy to physiologic severity, it has several clinically important limitations. It requires invasive coronary pressure measurements at coronary angiogram that commonly bypasses physiologic measurements. By increasing costs of the cardiac catheterization and potentially
 
-![](_page_9_Figure_11.jpeg)
+![](ch07-03_page_9_Figure_11.jpeg)
 
 FIGURE 34—15. Global coronary flow reserve (CFR) by positron emission tomography (PET) perfusion imaging and cardiac mortality (A) and outcomes in relation to revascularization by percutaneous coronary intervention (PCI) or coronary bypass graft surgery (CABG) (B). See text for red and green phases. CAD, coronary artery disease; CI, confidence interval; CV, cardiovascular. (A) reproduced with permission from Murthy VL, Naya M, Foster CR, et al: Improved cardiac risk assessment with noninvasive measures of coronary flow reserve. *Circulation*. 2011 Nov 15;124:2215–2224. (B) reproduced with permission from Taqueti VR, Hachamovitch R, Murthy VL, et al: Global coronary flow reserve is associated with adverse cardiovascular events independently of luminal angiographic severity and modifies the effect of early revascularization. *Circulation*. 2015 Jan 6;131:19–27.
 
-![](_page_10_Figure_2.jpeg)
+![](ch07-03_page_10_Figure_2.jpeg)
 
 FIGURE 34—16. Conceptual synthesis of the continuous relation of coronary artery disease (CAD) severity to risk of myocardial infarction (MI) or death with revascularization compared to medical treatment (Rx) alone. Severity thresholds are indicated for stress positron emission tomography perfusion images and for fractional flow reserve (FFR) from aortic and coronary pressures. CFR, coronary flow reserve; LV, left ventricle; QCA, quantitative coronary angiogram. Reproduced with permission from Gould KL, Johnson NP, Kaul S, et al: Patient selection for elective revascularization to reduce myocardial infarction and mortality: new lessons from randomized trials, coronary physiology, and statistics. *Circ Cardiovasc Imaging*. 2015 May;8.<sup>26</sup>
 
@@ -284,13 +284,13 @@ FFR has similar discordance with angiographic severity separately from the issue
 
 Inclusion criteria for FAME 1<sup>38,39</sup> and FAME 2<sup>40,41</sup> trials were an angiogram stenosis of visual moderate severity for which FFR was measured to guide PCI randomized to medical treatment. Many other patients without visual moderate stenosis on angiogram had FFR
 
-![](_page_10_Figure_8.jpeg)
+![](ch07-03_page_10_Figure_8.jpeg)
 
 **FIGURE 34—17.** Discordance between fractional flow reserve (FFR) and coronary flow reserve (CFR) by pressure-flow velocity wires and by absolute CFR derived from perfusion in cc/min/g versus relative CFR by positron emission tomography (PET) analogous to the relative flow reserve by pressure-based FFR. See text for details. Reproduced with permission from Johnson NP, Kirkeeide RL, Gould KL: Is discordance of coronary flow reserve and fractional flow reserve due to methodology or clinically relevant coronary pathophysiology? *JACC Cardiovasc Imaging*. 2012 Feb;5:193–202.<sup>33</sup>
 
 Percent diameter stenosis versus FFR, N = 4089
 
-![](_page_11_Figure_3.jpeg)
+![](ch07-03_page_11_Figure_3.jpeg)
 
 **FIGURE 34–18.** Percent diameter stenosis (DS) on angiogram compared to fractional flow reserve (FFR) for all patients without selection for visual angiographic severity. The blue shaded area indicates concordance of low FFR with severe percent DS. The red shaded area indicates discordance with low FFR and mild percent stenosis. The yellow shaded area indicates discordance with high FFR and severe stenosis. There was discordance of either type in 35% of the patients. See text for red and blue phases. Reproduced with permission from Toth G, Hamilos M, Pyxaras S, et al: Evolving concepts of angiogram: fractional flow reserve discordances in 4000 coronary stenoses. *Eur Heart J*. 2014 Oct 21;35:2831-2838.51
 
@@ -308,7 +308,7 @@ However, the wide standard deviation about this average good correlation is the 
 
 Exercise stress testing is embedded in cardiovascular medicine, particularly the Bruce treadmill protocol. Although the diagnostic sensitivity and specificity of ECG changes may be suboptimal, treadmill duration reflecting overall cardiovascular fitness associates with risk of clinically manifest cardiovascular disease as reviewed below. However,
 
-![](_page_11_Figure_13.jpeg)
+![](ch07-03_page_11_Figure_13.jpeg)
 
 **For true FFR = 0.8 by pressure wire, the CT FFR may be 1.0 to 0.57 for 95% certainty. Therefore, CT predicted FFR fails to quantify severity.**
 
@@ -336,7 +336,7 @@ Both of the above examples have ischemia, but the term fails to provide manageme
 
 Figure 34–20 shows a graph of this concept with stress flow in cc/min/g and CFR on the vertical axis and PRP on the horizontal axis derived from a large patient database25,27,28 and the literature.54 The large bold letters "X" in the graphs are *measured* thresholds of CFR and stress perfusion at which angina and significant ST change developed during dipyridamole stress perfusion imaging. The *measured* thresholds of stress flow and CFR for patients with total coronary occlusion with myocardial steal are similar to those with severe stenosis without occlusion, averaging 0.9 cc/min/g and CFR 1.4 at an average PRP of, and a normalized PRP of 0.26 cc/min/g per 6000 PRP. The solid lines plot *projected* stress flow and CFR at other levels of PRP based on the *measured* PRP for the patients having angina and ST changes at the *observed* CFR stress flow thresholds.
 
-![](_page_13_Figure_2.jpeg)
+![](ch07-03_page_13_Figure_2.jpeg)
 
 *Measured* **CFR, stress perfusion (cc/min/g) and PRP at angina or ST change projected to higher PRP expected for exercise up to PRP 36000 (solid lines) from 1674 clinical rest stress PET perfusion – PRP** *measurements*
 
@@ -372,7 +372,7 @@ Coronary blood flow and myocardial perfusion may be substantially heterogeneous,
 
 Rather than ignoring or selectively excluding such heterogeneity from clinical perfusion displays, quantitative data, or clinical interpretation, we account for and incorporate it into our image display as important physiologic information essential for optimal clinical value. Figure 34–21<sup>28</sup> illustrates the complex data inherent in all quantitative perfusion imaging. This complexity is then integrated into a "simple" easily understood image for clinical decisions by validated directive software based on a large patient database, further detailed in the chapter on PET imaging (Chap. 19). In Fig. 34–21, panel A displays
 
-![](_page_14_Figure_11.jpeg)
+![](ch07-03_page_14_Figure_11.jpeg)
 
 FIGURE 34—21. Positron emission tomography topographic images in lateral, inferior, septal, and anterior views of relative rubidium–82 myocardial uptake at rest and stress (A), rest and stress perfusion in cc/min/g and coronary flow reserve (CFR) (B), the plot of stress perfusion (horizontal axis) and CFR (vertical axis) color-coded for severity (C) as defined in the text. The open silver circles are CFR and stress perfusion for each pixel for its color-coded severity for both measurements. Each color-coded pixel is located back to its original spatial location and displayed as coronary flow capacity map color-coded for severity with percent of the left ventricle in each category of severity. Reproduced with permission from Johnson NP, Gould KL. Integrating noninvasive absolute flow, coronary flow reserve, and ischemic thresholds into a comprehensive map of physiological severity. JACC Cardiovasc Imaging. 2012 Apr;5:430-440.<sup>28</sup>
 
@@ -400,7 +400,7 @@ Although we use quantitative PET perfusion images to illustrate this essential c
 
 Figs. 34–3, 34–7, and Fig. 34–15 above indicate the essential component of diffuse CAD underlying most stenosis that carries high risk of adverse events that remains after revascularization. In the Surgical Treatment
 
-![](_page_16_Figure_2.jpeg)
+![](ch07-03_page_16_Figure_2.jpeg)
 
 **FIGURE 34–22.** Coronary flow capacity maps in two of four views for three different patients. Patient A has high rest and stress flow discordant with very low coronary flow reserve (CFR) because of high rest flow. The discordance is quantitatively resolved by the normal flow capacity map. Patient B has very low rest and stress flow discordant with a high CFR caused by low rest flow resulting from beta blockade. The discordance is resolved by the normal coronary flow capacity map. Patient C has a fixed scar that cannot be separated from low rest or stress perfusion defects on rest or stress images alone. The CFR display and the coronary flow capacity map that account for all the perfusion data readily indicate scar from the remainder of myocardium with reduced but adequate flow capacity scar. The color bar to the right of each coronary flow capacity map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -416,7 +416,7 @@ Coronary arteries in women are smaller than men<sup>70-72</sup> but myocardial p
 
 These beneficial effects of high endothelial shear on inhibiting atheroma formation applied throughout the coronary artery tree of women
 
-![](_page_17_Figure_2.jpeg)
+![](ch07-03_page_17_Figure_2.jpeg)
 
 **FIGURE 34–23.** Coronary flow capacity (CFC) derived by intracoronary coronary flow velocity wires (**A**) color codes for severity correlated with major adverse coronary events (MACE) outcomes (**B**). FFR, fractional flow reserve. Reproduced with permission from Van de Hoef TP, Pinto ME, van Lavieren MA, et al: Diagnostic and prognostic implications of coronary flow capacity. *JACC Cardiovasc Interv*. 2015 Nov;8:1670-1680.62
 
@@ -426,11 +426,11 @@ Shear effects on CAD in women may also explain their frequent atypical nonexerti
 
 Late stenosis in women is superimposed on severe diffuse disease developing silently over their middle years to produce a large burden of atherosclerosis in small arteries that incurs higher risk than men who present earlier in life with primarily focal disease. With estrogen withdrawal, the partial protection of their high shear stress against atheroma formation is lost, leading to "accelerated" clinical manifestations caused by focal stenosis added to diffuse disease. The long "silent" period of developing diffuse coronary atherosclerosis in women may evolve a more lethal combination of diffuse plus late focal disease than commonly seen in men. Therefore, vigorous risk factor treatment is essential during this long latent period in order to reduce adverse outcomes.
 
-![](_page_17_Figure_7.jpeg)
+![](ch07-03_page_17_Figure_7.jpeg)
 
 **FIGURE 34–24.** Coronary flow capacity map and angiogram before (**A**) and after percutaneous coronary intervention (**B**) with resolution of the severe regional stress defect (blue) but residual limited coronary flow capacity indicating diffuse coronary atherosclerosis (yellow). The color bar to the right of each coronary flow capacity map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
-![](_page_18_Figure_2.jpeg)
+![](ch07-03_page_18_Figure_2.jpeg)
 
 **FIGURE 34—25.** Schema of female and male manifestations of coronary artery disease (CAD) related to coronary artery diameter, coronary blood flow, blood flow profiles, and endocardial shear stress. ACS, acute coronary syndrome; LDL, low-density lipoprotein; ESS, endothelial shear stress. Reproduced with permission from Patel MB, Bui LP, Kirkeeide RL, et al: Imaging Microvascular Dysfunction And Mechanisms For Female Male Differences in Coronary Artery Disease. *JACC Cardiovasc Imaging*. 2016 Apr;9:465–482.<sup>69</sup>
 
@@ -442,11 +442,11 @@ At the severe stenosis in C, the phasic pressure gradient reaches 40 to 50 mm Hg
 
 Figure 34–27 shows the same experimental stenosis model with a mild to moderate stenosis at resting baseline conditions in panel A with systolic compression reducing systolic flow and the momentary reversal of coronary pressure or aortic pressure during isometric systole. <sup>79</sup> With progressive vasodilation stress in panels B, C, and D, mean coronary flow velocity increases only modestly as the pressure gradient increases proportionately much more. The phasic pattern of coronary
 
-![](_page_18_Figure_8.jpeg)
+![](ch07-03_page_18_Figure_8.jpeg)
 
 **FIGURE 34—26.** Coronary flow velocity and aortic and coronary pressures at resting conditions (A) during progressively mild (B) and severe (C) experimental stenosis. Red arrow indicates reverse pressure gradient, with early coronary pressure higher than aortic pressure.
 
-![](_page_18_Figure_10.jpeg)
+![](ch07-03_page_18_Figure_10.jpeg)
 
 **FIGURE 34–27.** Coronary flow velocity and aortic and coronary pressures with a moderate stenosis at resting baseline (A), with initial mild vasodilator stress (B), with moderate vasodilator stress (C), and with maximal vasodilator stress (D). Reproduced with permission from Gould KL: Pressure–flow characteristics of coronary stenoses in intact unsedated dogs at rest and during coronary vasodilation. *Circ Res.* 1978 Aug;43:242–253.<sup>79</sup>
 
@@ -458,11 +458,11 @@ Consequently, average coronary pressure gradient flow relations are somewhat dif
 
 The schematic in Fig. 34–29 shows the fluid dynamic equations relating stenosis dimensions, coronary blood flow, pressure gradient, flow profiles, exit vortex shedding, and endothelial shear stress. The quadratic equation has a viscous pressure loss linearly proportional to flow and an exit separation loss proportional to flow squared. Both viscous and separation pressure losses are related to the arterial radius raised to the fourth power. Consequently, small changes in arterial diameter that are not visible or quantifiable on angiogram may have major effects on coronary flow or CFR incurring high or low risk. Figure 34–30 lists the consequences of the flow profile patterns on biologic behavior of the atherosclerotic coronary artery. High endothelial
 
-![](_page_19_Figure_6.jpeg)
+![](ch07-03_page_19_Figure_6.jpeg)
 
 **FIGURE 34—28.** Coronary flow velocity and aortic and coronary pressures digitized and plotted for fitting to a quadratic equation characterizing the fluid dynamic severity. Shaded areas indicate deceleration and acceleration of coronary blood flow in early systole and early diastole, respectively, that are excluded from the pure diastolic pressure flow relation characterizing the stenosis. Reproduced with permission from Gould KL: Pressure-flow characteristics of coronary stenoses in intact unsedated dogs at rest and during coronary vasodilation, *Circ Res.* 1978 Aug;43:242–25.<sup>79</sup>
 
-![](_page_19_Figure_8.jpeg)
+![](ch07-03_page_19_Figure_8.jpeg)
 
 **FIGURE 34–29.** Schema of blood flow through a stenosis with fluid dynamic equation characterizing stenosis severity.  $\mu$ , blood viscosity;  $\Delta P$ , pressure gradient across the stenosis; An, cross-sectional area of the normal nonstenotic artery; As, cross-sectional lumen area of the stenosis. K, constant; L, stenosis length.  $\Delta P$ , pressure gradient; Q flow, fQ, friction coefficient of flow; sQ, separation coefficient of flow squared.
 
@@ -470,11 +470,11 @@ shear stress has antiatherogenic effects, whereas low shear stress is atherogeni
 
 These pressure-flow curves first defined in experimental stenosis<sup>79</sup> have been confirmed in patients<sup>80-83</sup> by pressure-flow velocity wires as in Fig. 34–31, with panel A showing diastolic pressure-flow velocity (p-v) plots fitting the quadratic fluid dynamic equation; panel B showing p-v plots for severe, moderate, and mild stenosis; and panel C showing p-v plots of a severe stenosis before and after PCI.<sup>81</sup> All current invasive and noninvasive quantification of physiologic stenosis severity using FFR and stress perfusion imaging to guide management are based on these experimental models, classical fluid dynamic equations, and early confirmation in patients. The discordances between CFR, FFR, and/or stress perfusion noted above arise from choosing one of these measures alone that inadequately defines the actual physiologic complexity of CAD over the wide range of clinical conditions. Consequently, complete invasive pressure flow relations are currently being acquired in the DEFINE FLOW (Distal Evaluation of Functional
 
-![](_page_19_Figure_12.jpeg)
+![](ch07-03_page_19_Figure_12.jpeg)
 
 **FIGURE 34—30.** Schema of flow through a stenosis with biological changes associated with different section of the stenosis. LDL, low-density lipoprotein.
 
-![](_page_20_Figure_2.jpeg)
+![](ch07-03_page_20_Figure_2.jpeg)
 
 FIGURE 34—31. Coronary flow velocity and pressure gradient relations for different severities of stenosis, before and after percutaneous coronary intervention in a patient demonstrating the classic quadratic fluid dynamic equation originally observed in experimental models in vivo. Reproduced with permission from Marques KM, Spruijt HJ, Boer C, Westerhof N, Visser CA, Visser FC. The diastolic flow-pressure gradient relation in coronary stenoses in humans. J Am Coll Cardiol. 2002 May 15;39:1630-1636.<sup>72</sup>
 
@@ -492,7 +492,7 @@ This surplus flow after transient occlusion is far more than needed to repay myo
 
 The factors controlling coronary blood flow include myocardial metabolism, autoregulation, shear-mediated vasodilation, contractile compression, endothelial function, perfusion pressure, and direct or indirect sympathetic and parasympathetic neural mechanisms, as briefly outlined below. Thus, reactive hyperemia reflects all the complex interacting control mechanisms for coronary blood flow
 
-![](_page_21_Figure_2.jpeg)
+![](ch07-03_page_21_Figure_2.jpeg)
 
 **FIGURE 34–32.** Regional mass compared to cross-sectional arterial lumen area on clinical coronary angiogram with the fitted power curve relating area to flow describing the size, length, and branching structure of the human coronary artery tree originally reported for both genders (A) and subsequently in different patients for women compared to men (B). (A) reproduced with permission from Seiler C, Kirkeeide RL, Gould KL: Basic structure-function of the epicardial coronary vascular tree—the basis of quantitative coronary arteriography for diffuse coronary artery disease. *Circulation*. 1992 Jun;85:1987–2003. (B) reproduced with permission from Marques KM, Spruijt HJ, Boer C, Westerhof N, Visser CA, Visser FC. The diastolic flow-pressure gradient relation in coronary stenoses in humans. *J Am Coll Cardiol*. 2002 May 15;39:1630–1636.<sup>72</sup>
 
@@ -504,7 +504,7 @@ optimized for evolutionary survival. It occurs after every systolic contraction 
 
 Intramyocardial steal, also called subendocardial-subepicardial steal, is common, manifest as stress-induced ST depression on ECG and usually angina with reduced average transmural perfusion in cc/min/g to the ischemic threshold of 0.9 cc/min/g. It results from several interacting mechanisms, revealing profound insights into the exquisite regional control of coronary blood flow by ATP release from red blood cells in local regions of myocardial hypoxia in response to delayed
 
-![](_page_21_Figure_8.jpeg)
+![](ch07-03_page_21_Figure_8.jpeg)
 
 **FIGURE 34–33.** Reactive hyperemia of coronary blood flow after 10-second occlusion (**A**) and after 10-second infusion of deoxygenated blood (**B**). The shaded areas labeled A indicate the flow times the duration-flow volume debt. The shaded areas labeled B indicate the flow times the duration-flow volume response or payback flow volume after the occlusion. Reproduced with permission from Kelley KO, Gould KL: Coronary Reactive Hyperemia after Brief Occlusion and After Deoxygenated Perfusion. *Cardiovasc Res.* 1981 Nov;15:615-622<sup>84</sup>
 
@@ -539,7 +539,7 @@ As listed in Table 34–1, the subendocardium has higher wall tension then the s
 
 Abbreviations: ATP, adenosine triphosphate; CBF, coronary blood flow; high (+, mild; ++, moderate; +++, marked); low (-, mild; -, moderate; ---, marked);  $0_{,y}$  oxygen;  $p0_{,y}$  partial oxygen pressure;  $V0_{,y}$  oxygen saturation.
 
-![](_page_22_Figure_2.jpeg)
+![](ch07-03_page_22_Figure_2.jpeg)
 
 **FIGURE 34–34.** Transmural distribution of coronary blood flow during reactive hyperemia after transient occlusion in an experimental preparation without stenosis. LAD, left anterior descending (artery). Reproduced with permission from Downey HF, Crystal GJ, Bashour FA. Asynchronous transmural perfusion during coronary reactive hyperemia. *Cardiovasc Res*. 1983 Apr;17:200-206.85
 
@@ -551,7 +551,7 @@ The normal reactive hyperemia after systolic compression with rapid rise in earl
 
 As flow increases through a stenosis, the pressure gradient increases and distal coronary pressure falls, thereby impairing subendocardial perfusion more than the subepicardium. As in Fig. 34–35, myocardial perfusion is relatively well maintained at coronary perfusion pressures down
 
-![](_page_22_Figure_8.jpeg)
+![](ch07-03_page_22_Figure_8.jpeg)
 
 **FIGURE 34–35.** Subendocardial and subepicardial perfusion as a function of coronary perfusion pressure. Reproduced with permission from Hoffman JIE, Buckberg GD. The myocardial oxygen supply:demand Index revisited. *J Am Heart Assoc*. 2014 Jan 21;3:e000285.86
 
@@ -563,17 +563,17 @@ Counterintuitively, coronary flow increases with vasodilator stress even after s
 
 With added pharmacologic vasodilator stress, the epicardial flow increases, the pressure gradient across the stenosis increases, and perfusion pressure falls, thereby making the subendocardium ischemic. With pharmacologic arteriolar vasodilation distal to a stenosis with
 
-![](_page_22_Figure_14.jpeg)
+![](ch07-03_page_22_Figure_14.jpeg)
 
 **FIGURE 34–36.** Left ventricular contraction at baseline and at low coronary perfusion pressure during constant normal resting coronary blood flow. Pa, aortic pressure in mm Hg; Pd, distal coronary pressure in mm Hg. Reproduced with permission from Smalling RW, Kelley K, Kirkeeide RL, et al: Regional myocardial function is not affected by severe coronary depressurization provided coronary blood flow is maintained. *J Am Coll Cardiol*. 1985 Apr;5:948-955.87
 
-![](_page_23_Figure_2.jpeg)
+![](ch07-03_page_23_Figure_2.jpeg)
 
 **FIGURE 34–37.** Angiogram of mild percent diameter stenosis and left ventricular cross-sectional perfusion images of thallium-201 during dipyridamole stress imaged postmortem by laying the cross-sectional slices of the left ventricle on a gamma camera. Reproduced with permission from Gould KL. Assessment of Coronary Stenoses by Myocardial Perfusion Imaging During Pharmacologic Coronary Vasodilatation. IV. Limits of Stenosis Detection by Idealized, Experimental, Cross-Sectional Myocardial Imaging. *Am J Cardiol*. 1978 Nov;42:761-768.89
 
 increase transmural perfusion, paradoxically subendocardial perfusion falls with ischemia as epicardial coronary blood flow increases—hence the misnomer *intramyocardial steal*. Reversing the vasodilator stress or beta blockade lowers epicardial coronary artery flow, lowers the pressure gradient, increases perfusion pressure, and relieves subendocardial ischemia. Thus, the remaining coronary flow reserve with severe stenosis lowering resting flow is regional subepicardial flow reserve that has no stimulus for vasodilation because it has adequate pressure and perfusion. Figures 34–37 and 34–38 demonstrate this subendocardial hypoperfusion during vasodilatory stress with progressive coronary artery stenosis in the first images of subendocardial underperfusion in an experimental model with postmortem imaging of cross-sectional LV
 
-![](_page_23_Figure_5.jpeg)
+![](ch07-03_page_23_Figure_5.jpeg)
 
 **FIGURE 34–38.** Angiogram of moderate to severe percent diameter stenosis and left ventricular crosssectional perfusion images of thallium-201 during dipyridamole stress imaged postmortem by laying the cross-sectional slices of the left ventricle on a gamma camera. Reproduced with permission from Gould KL. Assessment of Coronary Stenoses by Myocardial Perfusion Imaging During Pharmacologic Coronary Vasodilatation. IV. Limits of Stenosis Detection by Idealized, Experimental, Cross-Sectional Myocardial Imaging. *Am J Cardiol*. 1978 Nov;42:761-768.89
 
@@ -587,7 +587,7 @@ The average transmural perfusion of 0.9 cc/min/g associated with angina and ST d
 
 Collateral steal refers to a fall in perfusion below resting levels in a region of myocardium supplied by collaterals beyond an occlusion or severe stenosis during vasodilator stress that increases perfusion in other regions of the left ventricle (Fig. 34–39). It therefore parallels intramural myocardial steal
 
-![](_page_23_Figure_12.jpeg)
+![](ch07-03_page_23_Figure_12.jpeg)
 
 **FIGURE 34–39.** Schematic of collateral steal. At rest conditions, the coronary perfusion pressure to the collaterals is 80 mm Hg. With dipyridamole stress, the increased flow through a diffusely narrowed or stenotic supply artery causes decreased perfusion pressure to the collaterals, thereby reducing collateral perfusion to the vascular bed of the occluded artery. CAD, coronary artery disease.
 
@@ -597,7 +597,7 @@ except involves different regional distributions of the coronary arteries rather
 
 The final form of myocardial steal in the absence of collaterals manifests as a base to apex longitudinal perfusion gradient with adequate or high stress perfusion at the base of the LV, tapering to low ischemic perfusion at the apex of the LV associated with angina and ST depression. Pop It is seen with severe diffuse three-vessel CAD with diffusely small-lumen arteries without occlusion or severe focal stenosis and without collaterals. The mechanism is falling pressure along the length of the artery as flow increases during vasodilator stress. With this longitudinally falling coronary perfusion pressure, the proximal artery branches have higher perfusion pressure than more distal branches, thereby providing lower resistance proximal localized vascular bed to which flow preferentially goes, thereby decreasing flow to the distal branches. This shunting of blood flow to proximal branches from distal branches is a true steal phenomenon with perfusion at the apex falling below resting levels, thereby causing ischemia. It is also readily imaged by PET, indicating severe diffuse CAD.
 
-![](_page_24_Figure_5.jpeg)
+![](ch07-03_page_24_Figure_5.jpeg)
 
 **FIGURE 34–40.** Plasma adenosine triphosphate (ATP) correlated with myocardial oxygen consumption in chronically instrumented exercising canines. Reproduced with permission from Farias M, Gorman MW, Savage MV, Feigl EO. Plasma ATP during exercise: possible role in regulation of coronary blood flow. *Am J Physiol Heart Circ Physiol.* 2005 Apr;288:H1586-H1590.<sup>92</sup>
 
@@ -607,9 +607,9 @@ The final form of myocardial steal in the absence of collaterals manifests as a 
 
 Of the many factors affecting coronary blood flow, the primary controller is metabolic demand that nearly instantaneously regulates regional coronary flow, even in small separate myocardial regions independently. Figs. 34–40 and 34–41 define the mechanism. Myocardial oxygen demand regulates coronary blood flow via ATP release from oxygenated red blood cells at low myocardial pO<sub>2</sub>.
 
-![](_page_24_Figure_10.jpeg)
+![](ch07-03_page_24_Figure_10.jpeg)
 
-![](_page_24_Figure_11.jpeg)
+![](ch07-03_page_24_Figure_11.jpeg)
 
 FIGURE 34—41. Coronary blood flow correlated with coronary sinus venous plasma ATP concentration (A) and coronary venous—arterial difference plasma ATP concentrations (B). Reproduced with permission from Farias M, Gorman MW, Savage MV, Feigl EO. Plasma ATP during exercise: possible role in regulation of coronary blood flow. Am J Physiol Heart Circ Physiol. 2005 Apr;288:H1586-H1590.92
 
@@ -625,7 +625,7 @@ Perfusion pressure in relation to coronary blood flow has been addressed in prev
 
 In the experimental model of Fig. 34–36, coronary flow was held constant while mean coronary was decreased to an average of
 
-![](_page_25_Figure_8.jpeg)
+![](ch07-03_page_25_Figure_8.jpeg)
 
 **FIGURE 34–42.** Coronary blood flow responses to transient changes in perfusion pressure in an experimental preparation in vivo. Reproduced with permission from Downey HF, Crystal GJ, Bashour FA. Asynchronous transmural perfusion during coronary reactive hyperemia. *Cardiovasc Res*. 1983 Apr; 17:200-206.85
 
@@ -697,7 +697,7 @@ Despite the deeply established relation between coronary blood flow and myocardi
 
 This chapter closes with vivid examples in Fig. 34–4325 of current accurate physiologic quantification of coronary blood flow and pathophysiology to guide management of coronary artery disease. It is easily understood visually by invasive and noninvasive cardiologists, internists, family practitioners, and most importantly by patients. The quantitative images return to the basics of coronary blood flow to
 
-![](_page_27_Figure_2.jpeg)
+![](ch07-03_page_27_Figure_2.jpeg)
 
 **FIGURE 34–43.** Coronary flow capacity maps from 12 separate cases showing the ranges of coronary flow reserve (CFR) integrated with stress perfusion in cc/min/g from healthy young volunteers and those with severe coronary artery disease. Reproduced with permission from Gould KL, Johnson NP, Bateman TM, et al: Anatomic versus Physiologic Assessment of Coronary Artery Disease: Role of CFR, FFR, and PET Imaging in Revascularization Decision-Making. *J Am Coll Cardiol*. 2013 Oct 29;62:1639-1653.25
 

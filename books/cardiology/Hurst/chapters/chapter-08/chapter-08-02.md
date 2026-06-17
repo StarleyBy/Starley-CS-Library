@@ -34,13 +34,13 @@ As the aortic valve orifice narrows, the left ventricle (LV) must generate progr
 
 In response, the LV remodels by increasing wall thickness. Usually the process is associated with increased muscle mass (concentric hypertrophy), but in some cases wall thickness increases while LV volume decreases so that LV mass is static (concentric remodeling). These changes in LV geometry are both adaptive and pathologic. Left ventricular ejection varies inversely with afterload, the force opposing ejection. Afterload is often quantified as systolic wall stress (σ), where *σ*= *P* × *r*/ 2 *th*, and *P*= LV pressure, *r* = LV radius, and *th* = LV thickness. As the pressure overload increases, the numerator of this Laplace equation can be offset by increased thickness in the denominator, maintaining normal wall stress and ejection fraction. Unfortunately left ventricular hypertrophy (LVH) has pathologic consequences and is responsible for many of the symptoms and symptom-related mortality of AS.
 
-![](_page_1_Figure_2.jpeg)
+![](ch08-02_page_1_Figure_2.jpeg)
 
 FIGURE 47—1. The early plaque of aortic stenosis demonstrating similarities to an atherosclerotic plaque. Reproduced with permission from Otto CM, Kuusisto J, Reichenbach DD, et al: Characterization of the early lesion of 'degenerative' valvular aortic stenosis. Histological and immunohistochemical studies. *Circulation*. 1994 Aug;90:844–853.
 
-![](_page_1_Figure_4.jpeg)
+![](ch08-02_page_1_Figure_4.jpeg)
 
-![](_page_1_Figure_5.jpeg)
+![](ch08-02_page_1_Figure_5.jpeg)
 
 **FIGURE 47–2. A.** The natural history of aortic stenosis demonstrating a dramatic decline in survival when symptoms develop. **B.** The natural history of aortic stenosis today (pink line) showing onset of symptoms at a much later age in life than in the 20th century (white line). **A**, reproduced with permission from Ross J Jr, Braunwald E: Aortic stenosis, *Circulation*. 1968 Jul;38(1 Suppl):61–67. **B**, used with permission from Dr. Robert Bonow.
 
@@ -64,7 +64,7 @@ Syncope occurs when cerebral blood flow is inadequate to maintain consciousness.
 
 The diagnosis of AS is often first considered when the health care provider hears the typical AS systolic ejection murmur during physical examination. The term "ejection" indicates a space between S1 and the onset of the murmur representing the time it takes for the LV to generate enough pressure to
 
-![](_page_2_Figure_2.jpeg)
+![](ch08-02_page_2_Figure_2.jpeg)
 
 **FIGURE 47–3.** A typical pressure gradient from a patient with severe aortic stenosis. Reproduced with permission from Crawford MH: *Current Diagnosis and Treatment in Cardiology*. Norwalk: Appleton & Lange; 1995.
 
@@ -76,7 +76,7 @@ The simultaneous palpation of weakened carotid pulses and a forceful apical beat
 
 Transthoracic echocardiography is the mainstay in diagnosing AS and is indicated when there is an unexplained systolic murmur, a single second heart sound, a history of a bicuspid aortic valve, or symptoms that might be a result of AS.25,26 In the current AHA/ACC valvular heart disease guideline,25 the stages of valvular AS are defined by symptoms,
 
-![](_page_2_Figure_8.jpeg)
+![](ch08-02_page_2_Figure_8.jpeg)
 
 **FIGURE 47–4.** Diastolic pressure volume data from two patients. A. Normal subject. B. An aortic stenosis patient demonstrating increased pressure for any given filling volume (reduced LV compliance).
 
@@ -94,15 +94,15 @@ Because the greatest error in the AVA calculation is the squared LVOT diameter m
 
 Current AHA/ACC guidelines subdivide the severe, symptomatic AS group of patients into three separate categories: high-gradient AS (D1);
 
-![](_page_2_Figure_17.jpeg)
+![](ch08-02_page_2_Figure_17.jpeg)
 
 **FIGURE 47–5.** A normal carotid pulse (*left*) compared with the delayed pulse of a patient with aortic stenosis (*right*). Reproduced with permission from Crawford MH: *Current Diagnosis and Treatment in Cardiology*. Norwalk: Appleton & Lange; 1995.
 
-![](_page_3_Figure_2.jpeg)
+![](ch08-02_page_3_Figure_2.jpeg)
 
 **FIGURE 47–6.** Aortic valve morphology. The diagnosis of a bicuspid aortic valve relies on short-axis imaging of only two leaflets opening in systole. In these transesophageal images, a severely calcified raphe (*panel A, blue arrow*) may not be easily distinguished from calcium in a commissure. Color Doppler in systole may be helpful in distinguishing a single opening between two leaflets (*panel A, red arrows*) from immobile trileaflet aortic valves without commissural fusion (*panel B, yellow arrows*).
 
-![](_page_3_Figure_4.jpeg)
+![](ch08-02_page_3_Figure_4.jpeg)
 
 **FIGURE 47–7.** Hemodynamic assessment of the aortic valve. A comprehensive hemodynamic assessment of the aortic valve includes measurement of the peak velocity, peak and mean gradients, and calculation of the aortic valve area by the continuity equation. Panels **A** and **B** are from the parasternal long-axis window with appropriate measurement of the left ventricular outflow tract (LVOT) diameter (*panel B, blue arrow*) for calculation of the LVOT area. Panels **C-E** are acquired from apical imaging windows. The apical five-chamber view aligns the flow across the aortic valve parallel to the insonation beam and thus allows a measurement of the LVOT flow by pulsed-wave Doppler (panel **D**) as well as transaortic flow by continuous-wave Doppler (panel **E**). If the transaortic jet is anteriorly directed as seen in the parasternal long-axis view in panel **F**, then the highest transaortic velocity may require imaging from nonapical views (panel **G**, right parasternal window).
 
@@ -207,7 +207,7 @@ As noted earlier, the onset of the symptoms of AS—angina, syncope, and dyspnea
 
 In the truly asymptomatic AS patient the risk of sudden death is small, probably less than 1% per year.29,107 However, AVR is recommended for very rare asymptomatic patients who have developed LV dysfunction and for the patient with severe AS undergoing another cardiac operation where it would be unwise to fail to correct severe AS during surgery.25,26 Pivotal in this management strategy is the symptomatic status of the patient. Unfortunately many patients may not recognize their symptoms or may adjust their lifestyle to avoid them or even deny them. As noted, exercise testing is often very helpful in revealing exercise intolerance, hemodynamic instability, or undeclared symptoms, situations that militate for AVR. Furthermore, the natural history of AS is one of constant although highly variable progression. If the disease is already very
 
-![](_page_6_Figure_17.jpeg)
+![](ch08-02_page_6_Figure_17.jpeg)
 
 **FIGURE 47–8.** Survival of symptomatic patients with AS who underwent AVR (*black circles*) is compared to that of patients who refused surgery. Reproduced with permission from Schwarz F, Baumann P, Manthey J, et al: The effect of aortic valve replacement on survival. *Circulation*. 1982 Nov;66:1105-1110.
 
@@ -251,7 +251,7 @@ Valve area at rest is difficult to assess in low LVEF patients,127-131 and dobut
 
 However, subsequent studies have shown that although patients with no contractile reserve on DSE have high perioperative mortality, some survivors still benefit from AV replacement with improved EF and significantly lower 5-year mortality compared to medical management.132 Other independent predictors of operative mortality included
 
-![](_page_8_Figure_7.jpeg)
+![](ch08-02_page_8_Figure_7.jpeg)
 
 **FIGURE 47–9.** Survival with "medical" versus surgical therapy for AS patients who did (group I) or did not demonstrate inotropic reserve (group II) during dobutamine infusion. Data from Schwarz F, Baumann P, Manthey J, et al: The effect of aortic valve replacement on survival. *Circulation*. 1982 Nov;66:1105-1110.
 
@@ -348,7 +348,7 @@ Sellers and associates interpreted the cineangiogram using a single projection a
 
 Color-Flow Doppler Diastolic flow from the aorta into the LV imaged by color-flow Doppler is the sonographic hallmark of AR.179,180 Although the apical approach is the most sensitive for detection, color-Doppler jets from this view are frequently eccentrically directed, constrained by
 
-![](_page_11_Figure_2.jpeg)
+![](ch08-02_page_11_Figure_2.jpeg)
 
 **FIGURE 47–11.** Echocardiographic examples of aortic regurgitation morphology. **A.** Type IA regurgitation results from marked dilatation of the sinuses of Valsalva and proximal ascending aorta (*yellow arrow*) with relative sparing of the annulus. **B.** Type II is associated with excessive leaflet motion from leaflet prolapse (*blue arrow*) as a result of either excessive leaflet tissue or commissural disruption. **C.** Type III is associated with restricted leaflet motion seen with degenerative calcification.
 
@@ -358,7 +358,7 @@ The width of the AR jet (JW) compared to the LVOT diameter in centrally directed
 
 The vena contracta (VC) is the narrowest portion of the color Doppler jet at or just distal to the anatomic regurgitant orifice. If wellimaged, the VC of both eccentric and central jets can be measured. A VC < 0.3 cm indicates mild, 0.3 to 0.6 cm moderate, and > 0.6 cm
 
-![](_page_11_Figure_7.jpeg)
+![](ch08-02_page_11_Figure_7.jpeg)
 
 **FIGURE 47–12.** Three components of the aortic regurgitant jet. Optimizing imaging of the three components of the aortic regurgitant jet is necessary for accurate assessment of regurgitant severity. The presence of a proximal flow convergence (*blue arrows*) usually indicates at least mild disease. The vena contract (*red arrows*) represents the narrowest portion of the regurgitant jet. The jet height within 1 cm of the vena contracta and within the left ventricular outflow tract (*yellow arrows*) can also be measured; however, the jet area within the left ventricle is not an accurate measure of severity (see text).
 
@@ -390,7 +390,7 @@ Quantitation of flow with pulsed-wave Doppler for the assessment of AR is based 
 
 (assuming no mitral or pulmonic regurgitation). This method is valid in the setting of noncircular, dynamic, or multiple jets; however, the errors inherent in the measurement of diameters (particularly of the right ventricular outflow tract and mitral annulus) and the assumptions of a circular area used for each stroke volume calculation may also reduce the accuracy of this method. The use of 3D echocardiography may improve the quantitation of AR.184
 
-![](_page_12_Figure_4.jpeg)
+![](ch08-02_page_12_Figure_4.jpeg)
 
 **FIGURE 47–13.** Quantitative Doppler measurements. To quantify the regurgitant volume, the total systolic stroke volume of the LVOT is calculated by measuring the LVOT diameter and calculating the area using a circular formula (**A**), then multiplying this area by the LVOT velocity time integral (VTI) (**B**). The LVOT stroke volume in this case is 103 mL, and represents the sum of the forward stroke volume and the regurgitant volume. The RVOT stroke volume is then calculated using the RVOT diameter (**C**) and RVOT VTI (**D**), resulting is a forward stroke volume of 49 mL. Subtracting the forward stroke volume from the total stroke volume results in a regurgitant volume of 54 mL.
 

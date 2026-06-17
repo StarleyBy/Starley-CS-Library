@@ -58,7 +58,7 @@ Reperfusion therapy for AMI had its inception with the initial treatise by Fletc
 
 In 1978, Rentrop et al11-13 performed emergency guidewire recanalization of an acute thrombotic coronary occlusion and subsequently reported on the first 13 patients with AMI treated with mechanical
 
-![](_page_1_Figure_2.jpeg)
+![](ch07-11_page_1_Figure_2.jpeg)
 
 **FIGURE 42–1.** Between 2010 and 2014, the number of percutaneous coronary interventions (PCIs) for myocardial infarction/acute coronary syndrome remained stable in the United States. The number of interventions performed for stable coronary artery disease dropped from in 2010 to in 2014.
 
@@ -78,7 +78,7 @@ The survival benefit of primary PCI compared with fibrinolytic therapy reported 
 
 The initial early clinical benefit of primary PCI over fibrinolytic therapy in reducing death and reinfarction appears to be maintained at late follow-up. The PAMI investigators found that death or reinfarction was lower at 2 years with primary PCI than with fibrinolytic therapy32 (14.9% vs 23.0%; *P* = .03). Similarly, the Zwolle Netherlands investigators found lower mortality (13.4% vs 23.9%; *P* = .01) and less reinfarction (6.2% vs 21.9%; *P* <.0001) with primary PCI than with
 
-![](_page_2_Figure_2.jpeg)
+![](ch07-11_page_2_Figure_2.jpeg)
 
 **FIGURE 42–2.** Meta-analysis of 23 randomized trials comparing short-term outcomes with primary percutaneous coronary intervention (PCI) versus thrombolytic therapy for acute myocardial infarction. Data from Keeley EC, Boura JA, Grines CL: Primary angioplasty versus intravenous thrombolytic therapy for acute myocardial infarction: a quantitative review of 23 randomised trials. *Lancet*. 2003 Jan 4;361:13-20.
 
@@ -188,11 +188,11 @@ The initial inciting event during STEMI is a plaque rupture with thrombotic occl
 
 When primary angioplasty was started in the 1980s, an IV heparin bolus of 5000 to U was the only anticoagulant available. Oral aspirin was also administered in the ED based on data from the thrombolytic trials. Great strides have been made in optimizing dosage of heparin based on rapidly available activated clotting time (ACT) measurements.106 Most scientific effort in the late 1980s revolved around understanding whether immediate PTCA could be performed after thrombolytic therapy. While thrombolytics dissolved coronary clots, they also activated platelets
 
-![](_page_6_Figure_12.jpeg)
+![](ch07-11_page_6_Figure_12.jpeg)
 
 **FIGURE 42–5.** Electrocardiogram triage for infarct size reduction. \* ST elevation in aVR might signify left main coronary occlusion.196 \*\*Inferior STsegment elevation myocardial infarction (STEMI) requires ST elevation in at least two leads (II, III, or aVF). \*\*\*To date, no therapies have been shown to limit myocardial infarction size when symptom duration greater than 4 hours exists. CLBBB, complete left bundle branch block; PPCI, primary percutaneous coronary intervention; RIC, remote ischemic conditioning; SSAO2 , super saturated aqueous oxygen.
 
-![](_page_7_Figure_2.jpeg)
+![](ch07-11_page_7_Figure_2.jpeg)
 
 **FIGURE 42–6.** A plaque rupture precipitating acute myocardial infarction or acute coronary syndrome is depicted from Davies et al. Therapeutic interventions dealing with plaque, platelet and thrombus are depicted. IV, intravenous; LMWH, low-molecular-weight heparin; PO, oral; UFH, unfractionated heparin. Adapted with permission from Davies MJ, Thomas AC, Knapman PA, et al: Intramyocardial platelet aggregation in patients with unstable angina suffering sudden ischemic cardiac death. *Circulation*. 1986 Mar;73:418-427.
 
@@ -271,7 +271,7 @@ Vlaar et al145 reported the 1-year results of the single-center TAPAS (Thrombus 
 
 The initial enthusiasm for routine use of aspiration thrombectomy has been dramatically tempered by two large nationwide randomized trials. The first large nationwide study was performed through a nationwide Swedish coronary angiography and angioplasty registry.147 A total of 7244 patients undergoing PPCI were randomized to manual aspiration or control while undergoing PPCI. Allcause mortality rate at 30 days was 2.8% in thrombectomy patients versus 3.0% in control patients. The TOTAL trial148 was an unblinded randomized trial of patients undergoing PPCI from August
 
-![](_page_10_Figure_9.jpeg)
+![](ch07-11_page_10_Figure_9.jpeg)
 
 **FIGURE 42–7.** Adjunctive pharmacotherapy to optimize safety of primary percutaneous coronary intervention is dependent on hemodynamic stability and route of access. Patients who are unstable require femoral access and possibly circulatory support. To minimize bleeding risk in these patients, bivalirudin is preferred, and to decrease risk of early stent thrombosis, intravenous (IV) abciximab or IV cangrelor should be considered. Stable patients can be treated via radial access and with heparin anticoagulation. GPI, glycoprotein IIb/IIIa inhibitor; IC, intracoronary; PO, oral; UFH, unfractionated heparin.
 
@@ -291,7 +291,7 @@ Arterial access should be performed by the route that the cardiologist is most e
 
 femoral approach, switching to bivalirudin may decrease bleeding risk. An ACT is measured, and additional UFH or bivalirudin is given to prolong the ACT to greater than 300 seconds or 200 to 250 seconds if platelet GP IIb/IIIa inhibitors are used. Left ventriculography is valuable before intervention, even in patients who are hemodynamically unstable, to assess the severity of ventricular and valvular dysfunction, to help identify the infarct artery (if this is uncertain), and to aid in making decisions regarding the necessity for adjunctive therapy, such as mechanical circulatory support and pulmonary artery catheter insertion. Occasionally, papillary muscle rupture, ventricular septal defect, or, rarely, even frank free wall rupture will be demonstrated when not previously suspected, prompting urgent surgery. Alternatively, demonstration of normal left ventricular function may raise early concerns of nonischemic diagnoses such as aortic dissection or pericarditis. A femoral venous sheath may be helpful in patients with occlusion of the right coronary artery to allow access for temporary transvenous pacing if necessary, although most operators do not routinely obtain venous access. In patients with hypotension or in patients who are hemodynamically unstable, placement of a pulmonary artery catheter is useful to define and monitor hemodynamics. The use of a pulse oximeter to monitor oxygen saturation may be helpful. After diagnostic coronary and left ventricular angiography, patients are triaged to the most appropriate therapy. Approximately
 
-![](_page_11_Figure_7.jpeg)
+![](ch07-11_page_11_Figure_7.jpeg)
 
 **FIGURE 42–8.** A variety of decisions must be made in process of care for primary percutaneous coronary intervention (PCI). The treatments received prior to catheterization lab arrival and the route of access chosen will impact the antithrombotic and antiplatelet therapy administered. Findings at catheterization will impact procedural therapies and also determine whether nonculprit intervention is required. Patient adherence to prolonged dual antiplatelet therapy will help determine whether drug-eluting stents (DES) or bare metal stents (BMS) are used. Bival, bivalirudin; GPI, glycoprotein IIb/IIIa inhibitor; IC, intracoronary; RIC, remote ischemic conditioning; STEMI, ST-segment elevation myocardial infarction; UFH, unfractionated heparin.
 
@@ -317,7 +317,7 @@ If patients are unstable, early initiation of hemodynamic support makes the proc
 
 Once the infarct artery is identified, intracoronary abciximab may be considered if not already administered. Routine thrombectomy is not useful, but if extensive clot burden exists (Fig. 42–9), it will prevent extensive macroembolization. Routine use of DESs should occur. Proper sizing and proper stent opposition are essential to prevent stent thrombosis, and intravascular ultrasound–guided implantation should be strongly considered. Finally, whether to treat other severely stenotic vessels immediately or not depends on clinical stability, underlying renal function, and total contrast dose administered. Fractional flow reserve– guided revascularization of the nonculprit lesions is extremely helpful.
 
-![](_page_12_Figure_12.jpeg)
+![](ch07-11_page_12_Figure_12.jpeg)
 
 **FIGURE 42–9.** Coronary angiogram of a patient with an anterior wall myocardial infarction showing a large thrombus burden (*arrows*) in the proximal left anterior descending artery.
 
@@ -335,7 +335,7 @@ Timing of catheterization has been evaluated in randomized and observational tri
 
 #### **Meta-analysis of randomized trials comparing invasive versus conservative management of NSTE-ACS**
 
-![](_page_13_Figure_10.jpeg)
+![](ch07-11_page_13_Figure_10.jpeg)
 
 **FIGURE 42–10.** Meta-analysis of randomized trials comparing invasive versus conservative management of non–ST-segment elevation acute coronary syndrome (NSTE-ACS). CI, confidence interval; MI, myocardial infarction; RR, relative risk. Adapted with permission from Bavry AA, Kumbhani DJ, Rassi AN, et al: Benefit of early invasive therapy in acute coronary syndromes: a meta-analysis of contemporary randomized clinical trials. *J Am Coll Cardiol*. 2006 Oct 3;48:1319-1325.
 
@@ -378,7 +378,7 @@ Thus, in intermediate- to high-risk or unstable NSTE-ACS patients, it appears th
 
 Unlike STEMI, the cause of NSTE-ACS is often a "nonocclusive" ruptured plaque. When the plaque is further analyzed, it may contain
 
-![](_page_14_Figure_26.jpeg)
+![](ch07-11_page_14_Figure_26.jpeg)
 
 **FIGURE 42–11.** Timing of percutaneous coronary intervention (PCI) after clinical presentation and 30-day outcome: composite of death, myocardial infarction (MI), and revascularization. Reproduced with permission from Sorajja P, Gersh BJ, Cox DA, et al: Impact of delay to angioplasty in patients with acute coronary syndromes undergoing invasive management: analysis from the ACUITY (Acute Catheterization and Urgent Intervention Triage strategy) trial. *J Am Coll Cardiol*. 2010 Apr 6;55:1416-1424.
 
@@ -469,7 +469,7 @@ Shah et al192 have found that PPCI use increased from 53% to 80% of STEMI interv
 
 The most conclusive proof of national benefit to widespread use of PPCI comes from the comparison of the contemporary Swedish and British experience. National comprehensive databases allow detailed analysis of volumes and mortality. Chung et al195 report that Sweden adopted PPI more rapidly than Britain. Between 2004 and 2010, an excess of deaths occurred in Britain. The largest difference in mortality occurred in 2004 when PPCI was more widely adopted in Sweden. By 2010, 50% of STEMI patients in both countries were treated with PPCI, and mortality rates were equivalent.
 
-![](_page_18_Figure_2.jpeg)
+![](ch07-11_page_18_Figure_2.jpeg)
 
 **FIGURE 42–12.** Heart disease deaths by year are depicted. Deaths have decreased in part as a result of increased usage of reperfusion therapy of ST-segment elevation myocardial infarction. In particular, increased use of primary percutaneous coronary intervention has been associated with lower mortality. CABG, coronary artery bypass graft; PTCA, percutaneous transluminal coronary angioplasty.
 

@@ -46,7 +46,7 @@ The mitral annulus is a fibromuscular ring located in the left atrioventricular 
 
 The mitral valve has an anterior and posterior leaflet with similar surface areas but markedly different shapes.10 The anterior leaflet is
 
-![](_page_1_Picture_2.jpeg)
+![](ch08-03_page_1_Picture_2.jpeg)
 
 **FIGURE 48–1.** Anatomic view of the cardiac valves in diastole (*left*) and systole (*right*) with the left and right atrium cropped away and the great vessels transected. The illustration highlights the anatomical relations of the mitral valve, particularly its continuation with the aortic valve through the aorto-mitral curtain. AC, anterior commissure; AL, anterior leaflet; AMC, aorto-mitral curtain; CA, circumflex artery; CS, coronary sinus; HB, Hiss bundle; LFT, left fibrous trigone (anterolateral trigone); PC, posterior commissure; PL, posterior leaflet; RFT, right fibrous trigone (posteromedial). Modified with permission from Carpentier AC, Adams DH, Filsoufi F: *Carpentier's Reconstructive Valve Surgery*. St. Louis: Saunders/Elsevier; 2010.
 
@@ -58,7 +58,7 @@ In addition to anterior and posterior leaflet segments, the mitral valve has pos
 
 The chordae tendinae attach the mitral leaflets to the papillary muscles and left ventricle, creating a suspension system that allows full opening
 
-![](_page_1_Picture_8.jpeg)
+![](ch08-03_page_1_Picture_8.jpeg)
 
 **FIGURE 48–2.** The mitral valve apparatus consists of the mitral leaflets, mitral annulus, chordae tendinae, papillary muscles, and left ventricle. Normal function of the mitral apparatus brings both leaflets together in systole and creates the coaptation zone. CT, chordae tendinae; PM, papillary muscles. Modified with permission from Carpentier AC, Adams DH, Filsoufi F: *Carpentier's Reconstructive Valve Surgery*. St. Louis: Saunders/Elsevier; 2010.
 
@@ -92,7 +92,7 @@ Although rheumatic heart disease is still the most common cause of mitral regurg
 
 Fibroelastic deficiency usually occurs in patients over the age of 60 years22 who have a relatively short history of valve disease, and their mitral regurgitation is usually holosystolic and severe. Fibroelastic deficiency describes a condition associated with fibrillin deficiency, which often leads to a rupture of one or more thinned and elongated chordae usually involving the middle scallop of the posterior leaflet. Chordal rupture is the most common lesion causing mitral regurgitation in fibroelastic deficiency. Leaflets are usually thin and translucent, although the prolapsing segment may show myxomatous degeneration with leaflet segment thickening and distension in long-standing regurgitation. The key characteristic of fibroelastic deficiency within the spectrum of degenerative disease is that the adjacent segments to
 
-![](_page_3_Figure_7.jpeg)
+![](ch08-03_page_3_Figure_7.jpeg)
 
 **FIGURE 48–4.** Valve lesions in degenerative mitral valve disease. **A.** Fibroelastic deficiency; isolated P2 prolapse secondary to chordal rupture and mild segmental thickening. **B.** Fibroelastic deficiency; anterior leaflet prolapse as a result of multiple ruptured chordae. **C.** Barlow disease; very tall and thickened P2 segment with otherwise normal P1 and P3 segments. **D.** Barlow disease; large valve with redundant, thick, bulky leaflets. Note the blurring of the junction between atrium and leaflet with fissures.
 
@@ -106,15 +106,15 @@ Mitral regurgitation imparts a volume overload on the left ventricle because it 
 
 Severe mitral regurgitation can be subdivided into three stages: acute, chronic compensated, and chronic decompensated (Fig. 48–7). In acute mitral regurgitation as might occur from rupture of a marginal chordae tendinae, a small unprepared left ventricle is suddenly confronted with a large volume overload from blood returning from the pulmonary veins summed with the regurgitant volume from the left ventricle. The volume overload causes existing sarcomeres to stretch maximally, increasing end-diastolic volume and also stroke work through the Frank-Starling mechanism. The extra pathway for ejection into the left atrium unloads the left ventricle, reducing end-systolic volume. Increased
 
-![](_page_4_Picture_8.jpeg)
+![](ch08-03_page_4_Picture_8.jpeg)
 
-![](_page_4_Picture_9.jpeg)
+![](ch08-03_page_4_Picture_9.jpeg)
 
-![](_page_4_Picture_10.jpeg)
+![](ch08-03_page_4_Picture_10.jpeg)
 
 Posterior leaflet flip
 
-![](_page_4_Picture_11.jpeg)
+![](ch08-03_page_4_Picture_11.jpeg)
 
 Commissuroplasty Posterior leaflet flip
 
@@ -131,7 +131,7 @@ Commissuroplasty Posterior leaflet flip
 | Difficulty of repair    |                                                             |                                                                                        |                                                                                                                     |                                                                                                          |
 | Repair techniques       | Chordal transfer<br>PTFE neochordoplasty<br>Loop techniques | Leaflet displacement<br>Free edge plication<br>Loop techniques<br>Triangular resection | Leaflet displacement<br>Triangular resection<br>Limited quadrangular<br>Annular plication<br>Limited sliding plasty | Leaflet displacement<br>Targeted resections<br>Cleft closure<br>Quadrangular resection<br>Sliding plasty |
 
-![](_page_5_Figure_2.jpeg)
+![](ch08-03_page_5_Figure_2.jpeg)
 
 **FIGURE 48–6.** Quantitative analysis of mitral posterior leaflet tissue demonstrating significant thickening and increased cellularity of myxomatous valves. Data from Grande-Allen KJ, Griffin BP, Ratliff NB, et al. Glycosaminoglycan profiles of myxomatous mitral leaflets and chordae parallel the severity of mechanical alterations. *J Am Coll Cardiol*. 2003 Jul 16;42:271-277.
 
@@ -148,7 +148,7 @@ returns from subnormal to normal. However, increased preload and normal contract
 
 Abbreviations: ERO, effective regurgitant orifice; IE, infective endocarditis; LA, left atrium/atrial; LV, left ventricular; LVEF, left ventricular ejection fraction; LVESD; left ventricular end-systolic dimension; MR, mitral regurgitation.
 
-![](_page_6_Figure_2.jpeg)
+![](ch08-03_page_6_Figure_2.jpeg)
 
 |                  | Preload<br>(SL) | Afterload<br>(ESS) | Contractile<br>function | Ejection<br>fraction | Regurgitant<br>fraction | Stroke<br>volume (cc) |
 |------------------|-----------------|--------------------|-------------------------|----------------------|-------------------------|-----------------------|
@@ -197,13 +197,13 @@ Real-time three-dimensional echocardiography replicates the "surgical view," the
 
 Transthoracic echocardiography provides most of the diagnostic data needed for baseline evaluation of patients with mitral regurgitation (MR). The role of imaging is twofold: to determine the severity of MR and to determine the etiology of the disease. The severity of MR is based on the integration of several quantitative parameters, including measurement of vena contracta width, regurgitant volume, regurgitant fraction, and effective regurgitant orifice area (Table 48–1, Fig. 48–9).28,58,59 This helps minimize the effects of technical or measurement errors inherent to each method. In addition, TTE provides useful information about LV size and function, RV function, left atrial size, and pulmonary artery pressure.
 
-![](_page_8_Figure_2.jpeg)
+![](ch08-03_page_8_Figure_2.jpeg)
 
 **FIGURE 48–8.** Transesophageal echocardiographic correlation of 2D and 3D in the differentiation of degenerative mitral disease. **A.** Fibroelastic deficiency with a ruptured chord to P2 (posterior middle scallop). **B.** 3D volume rendering of the same valve. **C.** 3D rendering using quantitative analysis (*red area* corresponds to prolapsing area). **D.** Surgical view. **E.** Barlow disease with multi-segment prolapse and excess leaflet tissue. **F.** 3D volume rendering of the same valve. **G.** 3D rendering using quantitative analysis (*red areas* correspond to prolapsing areas). **H.** Surgical view.
 
 Etiologic differentiation of primary MR is crucial for guiding treatment and management decisions. Primary MR is characterized by abnormalities of the mitral valve itself and the majority of the structural abnormalities can be identified on transthoracic echocardiogram (TTE). Although transesophageal echocardiogram (TEE) is more accurate than TTE in locating the site and severity of structural abnormalities and quantifying the severity of MR, TEE during an initial diagnostic evaluation is only indicated in patients with inconclusive or technically difficult TTE
 
-![](_page_8_Figure_6.jpeg)
+![](ch08-03_page_8_Figure_6.jpeg)
 
 **FIGURE 48–9.** Algorithm for distinguishing severe from nonsevere mitral regurgitation (MR) in patients with clinically MR jets on color Doppler imaging. Severe MR corresponds to angiographic grades 3+ and 4+ per American College of Cardiology/American Heart Association guidelines. The first step is to determine whether MR severity is obviously mild or severe by American Society of Echocardiography/European Association for Echocardiography criteria (see text). If not, quantitative parameters are applied in a systemic, integrated fashion to determine whether MR is severe. Unless the MR is unequivocally mild in step 1, no attempt is made to distinguish mild from moderate MR (nonsevere), because studies comparing quantitative echocardiographic measures to an independent reference standard show substantial overlap. VCW, vena contracta width; MV, mitral valve; VCA, vena contracta area; 3D, 3-dimensional; EROA, effective regurgitant orifice area; PISA, proximal isovelocity surface area; RV, regurgitant volume; RF, regurgitant fraction; VC, vena contracta; CW, continuous-wave Doppler; and LA, left atrium. Reproduced with permission from Grayburn PA, Weissman NJ, Zamorano JL. Quantitation of mitral regurgitation. *Circulation*. 2012 Oct 16;126:2005-2017.
 
@@ -245,7 +245,7 @@ The 2014 guidelines introduced a new classification of the severity of valve les
 
 Currently there is no indication to intervene in less than severe mitral regurgitation, except in symptomatic patients where there is a high suspicion that MR grade may be underestimated. In such patients, exercise testing as described above is useful to clarify the decision making.82
 
-![](_page_10_Figure_9.jpeg)
+![](ch08-03_page_10_Figure_9.jpeg)
 
 **FIGURE 48–10.** Proposed algorithm for the management of patients with degenerative mitral valve disease. AFib, atrial fibrillation; EF, ejection fraction; LV, left ventricular; LVEF, left ventricular ejection fraction; LVESD, left ventricular end-systolic dimension; MR, mitral regurgitation; SPAP, systolic pulmonary artery pressure.
 
@@ -257,11 +257,11 @@ Over the past decade, the management of mitral valve regurgitation has changed d
 
 The standard class I indications for mitral valve surgery are the onset of symptoms and/or of left ventricular dysfunction (Figs. 48–12 and 48–13).28,98 As LV dysfunction develops in MR, many patients become symptomatic but some do not.84,99 However, if MR is not corrected at that time, LV function will worsen and dysfunction may become permanent, leading to a poor surgical outcome and eventually to death.30 In those patients lacking symptoms some other objective measure of LV
 
-![](_page_11_Figure_7.jpeg)
+![](ch08-03_page_11_Figure_7.jpeg)
 
 **FIGURE 48–11. A.** Rates of overall survival among patients with asymptomatic mitral regurgitation under medical management according to the effective regurgitant orifice (ERO); reproduced with permission from Enriquez-Sarano M, Avierinos JF, Messika-Zeitoun D, et al: Quantitative determinants of the outcome of asymptomatic mitral regurgitation. *N Engl J Med*. 2005 Mar 3;352:875-883. **B.** Cardiovascular survival compared with patients having early surgery, those treated conservatively and followed regularly, or those treated conservatively and with irregular follow-up. Reproduced with permission from Montant P, Chenot F, Robert A, et al. Long-term survival in asymptomatic patients with severe degenerative mitral regurgitation: A propensity score-based comparison between an early surgical strategy and a conservative treatment approach. *J Thorac Cardiovasc Surg*. 2009 Dec;138:1339-1348. **C.** Reproduced with permission from Enriquez-Sarano M, Suri RM, Clavel MA, et al. Is there an outcome penalty linked to guideline-based indications for valvular surgery? Early and long-term analysis of patients with organic mitral regurgitation, *J Thorac Cardiovasc Surg*. 2015 Jul;150:50-58.
 
-![](_page_12_Figure_2.jpeg)
+![](ch08-03_page_12_Figure_2.jpeg)
 
 **FIGURE 48–12. A.** Overall postoperative survival compared for patients in New York Heart Association (NYHA) class I/II and those in class III/IV who had a preoperative left ventricular ejection fraction ≥60%; reproduced with permission from Tribouilloy CM, Enriquez-Sarano M, Schaff HV, et al. Impact of preoperative symptoms on survival after surgical correction of organic mitral regurgitation: rationale for optimizing surgical indications. *Circulation*. 1999 Jan 26;99:400-405. **B.** Long-term survival with medical treatment, according to New York Heart Association class; reproduced with permission from Ling LH, Enriquez-Sarano M, Seward JB, et al: Clinical outcome of mitral regurgitation due to flail leaflet. *N Engl J Med*. 1996 Nov 7;335:1417-1423. **C, D.** Overall survival according to left ventricular end-systolic diameter (LVESD) in patients with organic mitral regurgitation; reproduced with permission from Tribouilloy C, Grigioni F, Avierinos JF, et al. Survival implication of left ventricular end-systolic diameter in mitral regurgitation due to flail leaflets a long-term follow-up multicenter study. *J Am Coll Cardiol*. 2009 Nov 17;54:1961-1968.
 
@@ -275,7 +275,7 @@ The occurrence of severe NYHA class III or IV preoperative symptoms confers a po
 
 Several studies have suggested discordance with timely referral of patients with chronic mitral valve regurgitation for surgical intervention despite the presence of one or more accepted guideline indications
 
-![](_page_13_Figure_2.jpeg)
+![](ch08-03_page_13_Figure_2.jpeg)
 
 FIGURE 48—13. A. Late survival according to preoperative ejection fraction; reproduced with permission from Enriquez-Sarano M, Tajik AJ, Schaff HV, et al. Echocardiographic prediction of survival after surgical correction of organic mitral regurgitation. Circulation. 1994 Aug;90:830–837. B. All-cause mortality according to ejection fraction (EF) in patients with organic mitral regurgitation under conservative management; reproduced with permission from Tribouilloy C, Rusinaru D, Grigioni F, et al. Long-term mortality associated with left ventricular dysfunction in mitral regurgitation due to flail leaflets: A multicenter analysis. Circ Cardiovasc Imaging. 2014 Mar;7:363–370. C. Survival free of symptoms, survival free of asymptomatic LV dysfunction, and survival free of asymptomatic pulmonary hypertension or recurrent atrial fibrillation in patients under watchful waiting; reproduced with permission from Rosenhek R, Rader F, Klaar U, et al. Outcome of watchful waiting in asymptomatic severe mitral regurgitation. Circulation. 2006 May 9;113:2238-2244. D. Symptom free survival in patients with severe asymptomatic mitral regurgitation according to the development of exercise pulmonary hypertension; reproduced with permission from Magne J, Lancellotti P, Pierard LA. Exercise pulmonary hypertension in asymptomatic degenerative mitral regurgitation. Circulation. 2010 Jul 6;122:33-41.
 
@@ -291,7 +291,7 @@ solution; at this time the only definitive treatment is mitral valve repair.<sup
 
 The risk-adjusted advantage of mitral valve repair versus mitral valve replacement is also patent in the elderly (Fig. 48–16). The prevalence of mitral valve disease increases with age and around 10% of patients above 75 years who require hospitalization have significant mitral regurgitation, predominantly caused by fibroelastic deficiency. 16
 
-![](_page_14_Figure_2.jpeg)
+![](ch08-03_page_14_Figure_2.jpeg)
 
 **FIGURE 48–14. A.** Freedom from composite events (death, myocardial infarction, stroke, and progression to congestive heart failure) according to METS; reproduced with permission from Naji P, Griffin BP, Asfahan F, et al. Predictors of long-term outcomes in patients with significant myxomatous mitral regurgitation undergoing exercise echocardiography. *Circulation*. 2014 Mar 25;129:1310-1319. **B.** Cardiovascular death according to left ventricular ejection index; reproduced with permission from Magne J, Szymanski C, Fournier A, et al. Clinical and prognostic impact of a new left ventricular ejection index in primary mitral regurgitation because of mitral valve prolapse. *Circ Cardiovasc Imaging*. 2015 Sep;8:e003036. **C, D.** Survival and event-free survival according to leaft atrial dimensions or degree of dilatation; reproduced with permission from Rusinaru D, Tribouilloy C, Grigioni F, et al. Left atrial size is a potent predictor of mortality in mitral regurgitation due to flail leaflets: Results from a large international multicenter study. *Circ Cardiovasc Imaging*. 2011 Sep;4:473-481; Athanasopoulos LV, McGurk S, Khalpey Z, et al. Usefulness of preoperative cardiac dimensions to predict success of reverse cardiac remodeling in patients undergoing repair for mitral valve prolapse. *Am J Cardiol*. 2014 Mar 15;113:1006-1010.
 
@@ -303,7 +303,7 @@ Surgical management of degenerative mitral valve disease has evolved considerabl
 
 Although mitral valve repair rates have risen throughout the last decade, and currently approach 70% in the Society of Thoracic Surgery Database,134 its application remains quite variable with some surgeons
 
-![](_page_15_Figure_2.jpeg)
+![](ch08-03_page_15_Figure_2.jpeg)
 
 **FIGURE 48–15.** Superiority of mitral valve repair over valve replacement in patients with degenerative mitral valve disease. **A.** Reproduced with permission from Shuhaiber J, Anderson RJ. Meta-analysis of clinical outcomes following surgical mitral valve repair or replacement. *Eur J Cardiothorac Surg*. 2007 Feb;31:267-275. **B.** Reproduced with permission from Grigioni F, Tribouilloy C, Avierinos JF, et al. Outcomes in mitral regurgitation due to flail leaflets a multicenter european study. *JACC Cardiovasc Imaging*. 2008 Mar;1:133-141. **C.** Reproduced with permission from Suri RM, Schaff HV, Dearani JA, et al. Survival advantage and improved durability of mitral repair for leaflet prolapse subsets in the current era. *Ann Thorac Surg*. 2006 Sep;82:819-826. **D.** Reproduced with permission from Russo A, Grigioni F, Avierinos JF, et al. Thromboembolic complications after surgical correction of mitral regurgitation incidence, predictors, and clinical implications. *J Am Coll Cardiol*. 2008 Mar 25;51:1203-1211.
 
@@ -319,15 +319,15 @@ popular techniques.145 Most centers would report repair rates above 90% in patie
 
 As a fast-growing number of asymptomatic patients with degenerative mitral valve disease are expected to be referred for surgery, it seems mandatory to ensure mitral valve repair rates above 95% with minimal perioperative risk and optimal long-term outcomes. This goal has been proved to be feasible at reference centers with specialized valve teams that include cardiologists, anesthesiologists, intensivists, and surgeons. From a surgical point of view, the use of a systematic surgical strategy that embraces a broad armamentarium of techniques (as opposed to subscribing to a single technique or philosophy) should lead to achieve
 
-![](_page_16_Figure_2.jpeg)
+![](ch08-03_page_16_Figure_2.jpeg)
 
 FIGURE 48—16. Superiority of mitral valve repair over valve replacement in elderly patients with degenerative mitral valve disease. A. Reproduced with permission from Chikwe J, Goldstone AB, Passage J, et al. A propensity score-adjusted retrospective comparison of early and mid-term results of mitral valve repair versus replacement in octogenarians. Eur Heart J. 2011 Mar;32:618–626. B. Reproduced with permission from Nloga J, Henaine R, Vergnat M, et al. Mitral valve surgery in octogenarians: Should we fight for repair? A survival and quality-of-life assessment. Eur J Cardiothorac Surg. 2011 Jun;39:875–880. C. Reproduced with permission from Dodson JA, Wang Y, Desai MM, et al. Outcomes for mitral valve surgery among medicare fee-for-service beneficiaries, 1999 to 2008. Circ Cardiovasc Qual Outcomes. 2012 May;5:298–307.
 
-![](_page_16_Figure_4.jpeg)
+![](ch08-03_page_16_Figure_4.jpeg)
 
 FIGURE 48—17. Mitral valve repair rates in the United States (Society of Thoracic Surgery) and United Kingdom (mandatory adult cardiac surgical database). A. Reproduced with permission from Gammie JS, Sheng S, Griffith BP, et al. Trends in mitral valve surgery in the united states: Results from the society of thoracic surgeons adult cardiac surgery database. *Ann Thorac Surg*. 2009 May;87:1431–1437. B. Reproduced with permission from Anyanwu AC, Bridgewater B, Adams DH. The lottery of mitral valve repair surgery. *Heart*. 2010 Dec;96:1964–1967.
 
-![](_page_17_Figure_2.jpeg)
+![](ch08-03_page_17_Figure_2.jpeg)
 
 **FIGURE 48–18.** Impact of hospital volume and surgeon volume on the feasibility of mitral valve repair. **A.** Reproduced with permission from Operative outcomes in mitral valve surgery: Combined effect of surgeon and hospital volume in a population-based analysis. *J Thorac Cardiovasc Surg.* 2013 Sep;146:638–646. **B.** Reproduced with permission from Weiner MM, Hofer I, Lin HM, et al. Relationship among surgical volume, repair quality, and perioperative outcomes for repair of mitral insufficiency in a mitral valve reference center. *J Thorac Cardiovasc Surg.* 2014 Nov;148:2021–2026. **C.** Reproduced with permission from LaPar DJ, Ailawadi G, Isbell JM, et al. Mitral valve repair rates correlate with surgeon and institutional experience. *J Thorac Cardiovasc Surg.* 2014 Sep;148:995–1003. **D.** Reproduced with permission from Bolling SF, Li S, O'Brien SM, et al. Predictors of mitral valve repair: Clinical and surgeon factors. *Ann Thorac Surg.* 2010 Dec;90:1904–1911.
 
@@ -341,13 +341,13 @@ to freedom from symptoms or reoperation), has been reported to be around 90% at 
 
 Mitral valve surgery has progressively evolved over the past decade, particularly in patients with degenerative mitral valve disease. Without doubt, surgical indications, repair techniques. and approaches represent the most important <sup>160</sup> aspects of an already established best practice revolution in mitral valve repair. Regarding the latter aspect,
 
-![](_page_18_Figure_2.jpeg)
+![](ch08-03_page_18_Figure_2.jpeg)
 
 **FIGURE 48–19.** The current most applied techniques in mitral valve repair are triangular resection and leaflet resuspension with a polytetrafluoroethylene neochord.
 
 the current gold standard and still most popular approach is median sternotomy, which allows central cannulation and assures good myocardial protection (direct cardioplegia), and most importantly, permits direct access if a complication occurs. The trend towards more cosmetic incisions has triggered the adoption of very limited median incisions as small as 7 to 9 cm in selected patients.161 However, the term "minimally invasive" in today's cardiac surgery is understood as a video-assisted approach including right thoracotomy and robotic surgery.162 In this context, cardiopulmonary bypass is accomplished through peripheral cannulation (most commonly via femoral artery and vein-retrograde arterial perfusion). Although traditionalists have claimed that minimally invasive mitral valve surgery is technically more complex (thus potentially affecting mitral valve repair rates) and implies a learning curve that not every surgeon overcomes,142 even in high-volume centers, the reality is that extraordinary outcomes from a few experienced high-volume centers have challenged their opinions.156,163,164 This is also true165 even in complex scenarios such as Barlow disease or anterior leaflet prolapse.166,167
 
-![](_page_18_Figure_5.jpeg)
+![](ch08-03_page_18_Figure_5.jpeg)
 
 **FIGURE 48–20.** Annuloplasty with a complete ring or a posterior band.
 
@@ -361,7 +361,7 @@ At the present time, there are two opposing schools of thoughts regarding the ne
 
 Overall, secondary or functional tricuspid regurgitation is the most common etiology of TV disease, and thorough interrogation is mandatory in patients undergoing mitral valve repair. Concomitant tricuspid valve repair does not carry a significant additional surgical burden and might lead to improved perioperative outcomes, functional class, and
 
-![](_page_19_Figure_2.jpeg)
+![](ch08-03_page_19_Figure_2.jpeg)
 
 FIGURE 48—21. Freedom from moderate MR in reference centers. A. Reproduced with permission from Gillinov AM, Mihaljevic T, Blackstone EH, et al. Should patients with severe degenerative mitral regurgitation delay surgery until symptoms develop? *Ann Thorac Surg.* 2010 Aug;90:481–8. B. Reproduced with permission from Castillo JG, Anyanwu AC, Fuster V, et al. A near 100% repair rate for mitral valve prolapse is achievable in a reference center: Implications for future guidelines. *J Thorac Cardiovasc Surg.* 2012 Aug;144:308–312. D. Reproduced with permission from Suri RM, Clavel MA, Schaff HV et al. Effect of recurrent mitral regurgitation following degenerative mitral valve repair: Long-term analysis of competing outcomes. *J Am Coll Cardiol.* 2016 Feb 9;67:488–498.
 

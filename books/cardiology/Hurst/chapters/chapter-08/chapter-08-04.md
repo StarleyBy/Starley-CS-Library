@@ -45,7 +45,7 @@ Analogous to but somewhat different than other types of valvular heart disease, 
 
 Normal MV function is dependent on a complex interplay between the LV and the individual components of the MV apparatus, including the papillary muscles and subjacent myocardium, chordae tendineae, MV leaflets, and mitral annulus (Fig. 49–2A). Distortion or dysfunction of any of these components can result in MR. IMR results from a combination of apical and lateral displacement of the papillary muscles, systolic tethering of the mitral leaflets, annular dilation, and an imbalance of valve closing and tethering forces.6,7 Annular enlargement is typically less pronounced in patients with IMR than in those who have secondary MR as a result of dilated cardiomyopathy. Adverse LV remodeling can occur as a consequence of MI because of myocardial thinning and dilation. Regional LV remodeling (eg, following a postero-basal infarct) with displacement of the posteromedial papillary muscle can result in asymmetric tethering of the posterior leaflet, producing an eccentric and posteriorly directed MR jet (Fig. 49–2B). The anterolateral papillary muscle has a dual blood supply from the left anterior descending and left circumflex arteries, whereas the posteromedial muscle has a singular blood supply from the right or dominant left circumflex coronary artery. Thus IMR is more common following inferior-posterior rather than an anterior MI.8 Alternatively, global LV remodeling after a large anterior MI causing apical and lateral displacement of both papillary muscles with symmetric tethering of both MV leaflets typically results in a central regurgitant jet (Fig. 49–2C). Leaflet coaptation is displaced apically away from the annular plane compromising complete leaflet closure. In addition, mitral annular dilation
 
-![](_page_1_Figure_2.jpeg)
+![](ch08-04_page_1_Figure_2.jpeg)
 
 **FIGURE 49–1.** Classification of mitral regurgitation.
 
@@ -113,7 +113,7 @@ Findings on physical examination depend on duration and severity of IMR as well 
 
 Transthoracic echocardiography (TTE) is recommended to confirm the etiology of MR, assess LV size and systolic function, quantitate the severity of MR, screen for the presence of other valve or structural abnormalities, and provide an estimate of pulmonary artery pressures.14 TTE also allows for an assessment of the MV apparatus including leaflet morphology, displacement of the papillary muscles, systolic tethering of mitral leaflets, and annular dilation (Videos 49–1 to 49–4).
 
-![](_page_2_Figure_21.jpeg)
+![](ch08-04_page_2_Figure_21.jpeg)
 
 **FIGURE 49–2.** Mechanisms of ischemic mitral regurgitation. Panel **A** demonstrates normal mitral valve and left ventricle anatomy. Panel **B** demonstrates mechanisms of ischemic mitral regurgitation following posterobasal myocardial infarction where regional LV remodeling results in displacement of the posteromedial papillary muscle with asymmetric tethering of the posterior mitral leaflet and eccentric MR. Panel **C** illustrates mechanism of MR following an anterior myocardial infarction where global LV remodeling causes apical and lateral displacement of both papillary muscles; subsequent symmetric tethering of both mitral leaflets and annular dilatation generate central MR. Ao, Aortic root; LA, left atrium; LV, left ventricle.
 
@@ -137,11 +137,11 @@ This method is less influenced by loading conditions than regurgitant jet area.
 
 Effective regurgitant orifice area (EROA) and MR regurgitant volume can be measured using the proximal isovelocity surface area (PISA) method. This method is based on the principle that mitral regurgitant flow converges uniformly and radially towards the MV orifice, creating concentric hemispherical shells with gradually decreasing surface area and increasing velocity on the LV side of the MV leaflets. As flow accelerates toward the MV orifice on color-flow Doppler imaging, the aliasing velocity (Nyquist limit) is exceeded and the color
 
-![](_page_3_Picture_14.jpeg)
+![](ch08-04_page_3_Picture_14.jpeg)
 
 **FIGURE 49–3.** Vena contracta of ischemic mitral regurgitation jet. *White arrows* indicate the narrowest portion of the regurgitant jet.
 
-![](_page_3_Figure_16.jpeg)
+![](ch08-04_page_3_Figure_16.jpeg)
 
 **FIGURE 49–4.** Peak mitral regurgitation velocity and velocity time integral (VTI) obtained from tracing the continuous-wave Doppler profile of mitral regurgitant jet (left) and proximal flow convergence region of color-flow Doppler assessment (right) in a patient with ischemic mitral regurgitation. The effective regurgitant orifice area (EROA) can be calculated from the radius of the hemisphere at the first aliasing boundary, the aliasing velocity, and the peak MR velocity on continuous-wave Doppler, using the following equation:  $EROA = 2 \times \pi \text{ (radius)}^2 \times \text{aliasing velocity/peak MR velocity. Regurgitant volume can then be calculated from the product of EROA and VTI of the regurgitant jet.}$ 
 
@@ -175,13 +175,13 @@ Cardiac magnetic resonance (CMR) imaging is used increasingly to assess LV volum
 
 IMR is a dynamic lesion, and MR severity can vary over time and during exercise.<sup>22</sup> Thus, the severity of IMR at rest does not necessarily
 
-![](_page_4_Picture_11.jpeg)
+![](ch08-04_page_4_Picture_11.jpeg)
 
-![](_page_4_Picture_12.jpeg)
+![](ch08-04_page_4_Picture_12.jpeg)
 
 FIGURE 49—6. A. Still frame from a four-chamber steady-state free precession (SSFP) cine cardiac magnetic resonance image (Video 48—5) demonstrating a dilated left ventricle (LV) with severely impaired systolic function and regional wall-motion abnormalities including akinesis of the LV apex and apical segments caused by prior myocardial infarction. A jet of ischemic mitral regurgitation (*blue asterisk*), LV apical thrombus (*red asterisk*), and bilateral pleural effusions (*yellow asterisks*) are evident. B. Four-chamber view from delayed enhanced cardiac magnetic resonance imaging from same patient as in panel A (Video 48—5). There is transmural late gadolinium enhancement (*white arrows*) involving the apex, apical septum, and apical lateral segments of the left ventricle (LV) consistent with myocardial infarction. In addition, LV apical thrombus (*red asterisk*) and bilateral pleural effusions (*yellow asterisks*) are again noted. LA, left atrium; LV, left ventricle; RV, right ventricle.
 
-![](_page_4_Figure_14.jpeg)
+![](ch08-04_page_4_Figure_14.jpeg)
 
 FIGURE 49—5. Coaptation length (A) and coaptation depth (B): key anatomic considerations in assessing eligibility for the MitraClip
 
@@ -291,7 +291,7 @@ In contrast, 77% of 567 patients enrolled in the European prospective, muticente
 
 It will be necessary to continuously reappraise safety and efficacy of MitraClip therapy as experience grows in high-volume centers treating higher surgical risk patients with secondary MR with advanced LV dysfunction/remodeling and greater burden of comorbidities. In summary, percutaneous edge-to-edge repair using the MitraClip system is an alternative that can reduce symptoms and induce LV reverse remodeling but is often associated with residual and recurrent MR. As such, it can be considered as an adjunct to guideline directed medical therapy (with or without CRT) in stage D IMR who fulfill anatomical criteria and are judged high-risk or inoperable by a multidisciplinary heart team in Europe,26 but it is not currently approved for IMR in the United States outside of clinical
 
-![](_page_7_Figure_28.jpeg)
+![](ch08-04_page_7_Figure_28.jpeg)
 
 **FIGURE 49–7.** Percutaneous edge-to-edge repair of the mitral valve. The MitraClip is advanced through a catheter placed in the femoral vein across the interatrial septum into the left atrium. The open clip is advanced through the mitral valve into the left ventricle. The device is then pulled back to grasp the mitral leaflets and the clip is closed to establish an edge-to-edge approximation of the mitral valve leaflets, creating a double mitral valve orifice.
 

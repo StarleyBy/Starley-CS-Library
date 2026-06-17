@@ -90,19 +90,19 @@ Tachyarrhythmias: For the diagnosis and management when noninvasive testing has 
 
 AV, atrioventricular; ICD, implantable cardioverter-defibrillator; LVEF, left ventricular ejectionfraction; SNRT, sinusnode recovery time;SVT, supraventricular tachycardia; VT, ventricular tachycardia; VF, ventricular fibrillation.
 
-![](_page_1_Figure_24.jpeg)
+![](ch13-05_page_1_Figure_24.jpeg)
 
 **FIGURE 82–1. A.** Left anterior oblique projection with catheters positioned in the high right atrium (HRA), His, right ventricular (RV) apex, and coronary sinus (CS) is shown in a patient undergoing comprehensive diagnostic electrophysiology study. CS1,2 represents the distal poles of the CS catheter, which is located near the lateral mitral annulus, and CS7,8 are the proximal poles, which are positioned near the CS ostium. **B.** The catheter positions are also seen in this right anterior oblique position. The proximal (HIS P) and distal (HIS D) poles of the His catheter are seen in this view.
 
-![](_page_2_Figure_2.jpeg)
+![](ch13-05_page_2_Figure_2.jpeg)
 
 **FIGURE 82–2.** Normalbaseline intracardiac electrograms are shown. There are three surface ECG leads seen(I, aVF, V<sup>1</sup> ) at the top of the tracing. Intracardiac electrograms are recorded from the high right atrium (HRA), His (proximal [P], mid [M], and distal [D] electrodes), coronary sinus (CS), and right ventricular apex (RVA). Atrial electrograms can be identified as they line up vertically with the surface P wave (seen on HRA, His, and CS). Similarly ventricular electrograms demonstrate vertical alignment with the surface QRS (seen on HIS, far-field electrograms on CS, and on RVA). The His electrogram is seen on the HIS catheter and is a sharp deflection locatedbetweenthe atrial andventricular electrograms. Inthispatient, the intracardiac intervals arenormal withan AH interval of148 milliseconds andan HV interval of48 milliseconds.CS1,2representsdistal coronary sinus position near the lateral mitral annulus, and CS represents proximal coronary sinus position near the ostium.
 
-![](_page_2_Figure_4.jpeg)
+![](ch13-05_page_2_Figure_4.jpeg)
 
 **FIGURE 82–3.** Baseline intracardiac electrograms of a patient with Wolff-Parkinson-White syndrome are shown. Preexcitation is evident in the surface ECG leads. The HV interval is negative (–16 milliseconds) and is consistent with ventricular preexcitation. The *dashed line* represents onset of QRS, and the *solid line* represents onset of the His electrogram. HRA, high right atrium; HIS, His electrodes (P, proximal; M, mid; D, distal); CS, coronary sinus; RVA, right ventricular apex.
 
-![](_page_3_Figure_2.jpeg)
+![](ch13-05_page_3_Figure_2.jpeg)
 
 **FIGURE 82–4.** Cardiac conductionsystem withcommonsitesof conductionblock. AV, atrioventricular;PVC,premature ventricular contraction; SA, sinoatrial; VF, ventricular fibrillation; VT, ventricular tachycardia.
 
@@ -124,7 +124,7 @@ Type I second-degree AV nodal block is very commonly seen during an electrophysi
 
 However, intra-Hisian and infra-Hisian block are indications for permanent pacing (Fig. 82–6). EPS can provide information vital
 
-![](_page_4_Figure_2.jpeg)
+![](ch13-05_page_4_Figure_2.jpeg)
 
 **FIGURE 82–5.** Demonstrationof typeI second-degree AV blockduringEPS.Theatrium ispacedfrom theproximal coronarysinus (CS)atprogressivelyshorter cyclelength(faster rate).The AH intervalprolongsandthen there isblock inthe AV node (*asterisk*). The subsequent paced beats again conduct to the ventricle. This is a normal finding and does not require any intervention.
 
@@ -134,7 +134,7 @@ Second-degree AV block at the intra- or infra-Hisian level, which is most common
 
 It is important to recognize normal versus pathological AV conduction during EPS. During programmed electrical stimulation, delivery of single premature atrial extrastimuli at progressively shorter coupling intervals will ultimately result in failure to elicit a ventricular response. However, on occasion AV conduction will resume when extrastimuli are delivered at even shorter coupling intervals. This is a normal
 
-![](_page_4_Figure_8.jpeg)
+![](ch13-05_page_4_Figure_8.jpeg)
 
 **FIGURE 82–6.** Thesetracings wereobtainedduringevaluationof AV nodeand His-Purkinjesystem functioninapatient withexercise-inducedpre-syncopecausedbyabruptdecreaseinheart rateduringexertion. During atrial pacing from the high right atrium (HRA) at a cycle length of 420 milliseconds, there is 2:1 infra-Hisian block seen. With the first paced atrial beat, there is conduction to the His (H) and then ventricle (V). With the second paced beat, there is conduction to the His but then failure to conduct to the ventricle (*arrow*). This pattern is repeated throughout the tracing. This patient was implanted with a dual-chamber pacemaker leading to resolution of symptoms.
 
@@ -170,19 +170,19 @@ Atrioventricular nodal reentrant tachycardia (AVNRT) is a reentry arrhythmia inv
 
 During EPS, atrial pacing demonstrates evidence of dual AV node pathways as described above and isoproterenol is often required to induce tachycardia. In typical AVNRT, the AV node excites the ventricle and atrium in parallel; hence the VA relationship is 1:1 and often simultaneous (VA time ≤ 60 milliseconds).30 As atrial activation is retrograde from the AV node, the atrial activation sequence is concentric and demonstrates earliest activation on the septum and later activity in the distal coronary sinus and high right atrium (Fig. 82–11). Rarely, AVNRT may demonstrate 2:1 AV block resulting from functional infranodal block.31
 
-![](_page_6_Figure_2.jpeg)
+![](ch13-05_page_6_Figure_2.jpeg)
 
 **FIGURE 82–7.** Entrainmentof typical counterclockwise atrial flutter. **A.** Left anterior oblique fluoroscopic view is shown with catheters positioned at the His, in the right ventricle (RV), and coronary sinus (CS). The *circle* represents the atrial flutter circuit, and the *arrows* show the direction of the circuit in the right atrium. The time to travel around the circumference of the circle represents the tachycardia cycle length (TCL), which in this case is270 milliseconds. Overdrivepacingfrom CS7,8(proximalCS, siteX) isperformed. Thepostpacinginterval (PPI) is equal tothe time toreachthe circuit from thepacingsite (*left-pointing dashed arrow*) + TCL + time to return to pacing site (*right-pointing dashed arrow*). **B.** Inthis case, thePPI is275 milliseconds.**C.** Overdrivepacingis repeatedfrom CS1,2(distalCS, siteX). **D.** Overdrivepacingfrom this secondsite wouldbe expectedto yielda longer PPI as it is more remote from the tachycardia circuit thantheproximal CS. This was indeedobserved(320 milliseconds). Overdrivepacingfrom a site withinthe circuit wouldyielda PPI that is equal to TCL, and the further away the overdrive pacing is performed, the longer the PPI.
 
-![](_page_6_Figure_4.jpeg)
+![](ch13-05_page_6_Figure_4.jpeg)
 
 **FIGURE 82–8.** A three-dimensional activation map (left anterior oblique projection) of the left atrium is shown in a patient with focal atrial tachycardia. The *red area* represents the site of earliest activation, which is in the left superior pulmonary vein (LSPV). The *blue areas* represent the sites of late activation. A circular mapping catheter was used for mapping and is seen positioned in the distal LSPV. LAA, left atrial appendage; LIPV, left inferior pulmonary vein; RIPV, right inferior pulmonary vein; RSPV, right superior pulmonary vein.
 
-![](_page_6_Figure_6.jpeg)
+![](ch13-05_page_6_Figure_6.jpeg)
 
 **FIGURE 82–9.** A three-dimensional activation map (anteroposterior projection) of the left atrium is shown in a patient with a macro-reentrant atypical atrial flutter. The *red area* represents the site of earliest activation and the *blue area* represents the site of latest activation. The activation pattern is consistent with a macro-reentrant circuit around the mitral annulus with appearance of early meets late activation. LSPV, left superior pulmonary vein; MV, mitral valve; RIPV, right inferior pulmonary vein; RSPV, right superior pulmonary vein.
 
-![](_page_7_Figure_2.jpeg)
+![](ch13-05_page_7_Figure_2.jpeg)
 
 **FIGURE 82–10.** Atrial tachycardia is seen in this tracing of a patient undergoing EPS for supraventricular tachycardia. The intracardiac electrograms demonstrate that there are more atrial electrograms than ventricular electrograms, which is consistent with a diagnosis of atrial tachycardia. The atrial electrograms are seen in the high right atrium (HRA D) and coronary sinus catheters (CS). Ventricular electrograms are best appreciated in the right ventricular catheter (RV D).
 
@@ -194,11 +194,11 @@ In atrioventricular reentrant tachycardia (AVRT) or orthodromic reciprocating ta
 
 Similar to AVNRT, the approach to the tachycardia remains similar in AVRT. The tachycardia is induced either by burst pacing or program electrical stimulation in atrium and ventricle with or without isoproterenol. Tachycardia activation sequence is observed and entrainment
 
-![](_page_7_Figure_9.jpeg)
+![](ch13-05_page_7_Figure_9.jpeg)
 
 **FIGURE 82–11.** Typical AVNRT is associated withnear simultaneous activationof the atrium andventricle asdemonstratedonintracardiac electrograms. Atrial electograms are evidentonthehighright atrium (HRA D) andcoronarysinus (CS) catheters. Ventricularelectrogramsareseenonthe His (HIS)andrightventricular (RV D) catheters.Thetachycardiacyclelengthis356 milliseconds,andretrogradeatrialactivationis concentric with earliest activityonthe septum (CS9-10) andlater activity inthedistal coronary sinus (CS1-2) andhighright atrium (HRA D).
 
-![](_page_8_Figure_2.jpeg)
+![](ch13-05_page_8_Figure_2.jpeg)
 
 **FIGURE 82–12.** Orthodromic AVRTusingaleft lateralaccessorypathway.ThesurfaceECG leadsandintracardiactracingsdemonstrateanarrow-complextachycardia.Retrogradeatrialactivationiseccentricdemonstrating earliest activationinthedistal coronary sinus (CS1,2), whichis locatedat the lateral mitral annulus. The VA timeduringtachycardia is > 60 milliseconds.
 
@@ -226,7 +226,7 @@ Sustained ventricular tachycardia (VT) is defined as a tachycardia originating f
 
 EPS for induction of ventricular arrhythmias is indicated for syncope in those with structural heart disease and suspected
 
-![](_page_9_Figure_2.jpeg)
+![](ch13-05_page_9_Figure_2.jpeg)
 
 **FIGURE 82–13.** Orthodromic AVRT with left bundle branch aberrancy. The 12-lead electrocardiogram demonstrates a left bundle branch block. The diagnosis of supraventricular tachycardia with aberrancy is confirmed by the presence of His electrograms (*encircled*, HIS catheter) prior to the QRS and ventricular electrogram seen on the right ventricular catheter (RVAd).
 
@@ -246,11 +246,11 @@ Certain characteristics of the patient history, ECG, and noninvasive testing sho
 
 If the clinical suspicion is of bradyarrhythmia, then a detailed EPS is performed with focus on sinus node, AV node, and infranodal conduction system. As discussed earlier, findings such as CSNRT > 525 milliseconds, HV interval ≥ 70 milliseconds, and secondor third-degree infranodal block would be considered abnormal
 
-![](_page_9_Figure_13.jpeg)
+![](ch13-05_page_9_Figure_13.jpeg)
 
 **FIGURE 82–14.** Programmed ventricular stimulation utilizing triple ventricular extra stimuli from the right ventricle was performed in a patient for risk stratification of sudden cardiac death. Sustained monomorphic ventricular tachycardia was induced that required defibrillation for termination. This patient subsequently underwent implantation of an implantable cardioverter-defibrillator.
 
-![](_page_10_Figure_2.jpeg)
+![](ch13-05_page_10_Figure_2.jpeg)
 
 **FIGURE 82–15. A.** Thebaseline12-leadECG of apatient whopresented withsyncope is shown. A type2Brugadapatternis seeninlead V<sup>2</sup> . **B.** Following administration of procainamide, a type 1 pattern is elicited.
 

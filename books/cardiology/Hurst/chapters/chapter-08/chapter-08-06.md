@@ -44,13 +44,13 @@ Tricuspid valve disease or dysfunction may be classified as primary (also known 
 
 Primary tricuspid valve disease is relatively uncommon. The most common congenital abnormalities include Ebstein anomaly, tricuspid
 
-![](_page_1_Picture_2.jpeg)
+![](ch08-06_page_1_Picture_2.jpeg)
 
 **FIGURE 51–1.** Relationship of the tricuspid valve to the aortic valve, conduction tissue and other surrounding anatomical structures. AL, anterior leaflet; APC, anteroposterior commissure; ASC, anteroseptal commissure; AVN, atrioventricular node; LCS, left coronary sinus; PL, posterior leaflet; PSC, posteroseptal commissure; RCS, right coronary sinus; SL, septal leaflet.
 
 valve atresia/dysplasia/hypoplasia, cleft valve in conjunction with atrioventricular canal defects and tricuspid valve stenosis, or double-orifice tricuspid valve. Acquired diseases of the tricuspid valve are endocarditis, rheumatic disease, carcinoid heart disease, tricuspid valve prolapse,
 
-![](_page_1_Picture_5.jpeg)
+![](ch08-06_page_1_Picture_5.jpeg)
 
 **FIGURE 51–2.** Atrial view of the tricuspid valve showing the key anatomical landmarks to avoid injuries of the conduction system. AVN, atrioventricular node; CS, coronary sinus; FO, foramen ovale; TT, tendon of Todaro. Dashed lines represent the triangle of Koch with base denoted by the Coronary sinus, upper border parallel to the septal annulus, lower border parallel to the tendon of Todaro, and apex indicating location of the atrioventricular nodal tissue and the membranous septum.
 
@@ -60,9 +60,9 @@ radiation lesions, trauma, iatrogenic (right ventricular myocardial biopsy), and
 
 Treatment of rheumatic tricuspid valve disease consists of valve repair with annuloplasty when the valve dysfunction is not severe. However, in the presence of severe disease, valve replacement with a low-profile prosthetic valve is indicated. In terms of prosthetic preference, because of the higher risk of complications such as
 
-![](_page_2_Picture_2.jpeg)
+![](ch08-06_page_2_Picture_2.jpeg)
 
-![](_page_2_Picture_3.jpeg)
+![](ch08-06_page_2_Picture_3.jpeg)
 
 **FIGURE 51–3.** Tricuspid valve endocarditis in a patient with fungemia and a 20-year history of implanted cardiac defibrillator and coronary bypass surgery. **A.** Large mass attached to the anterior leaflet (*white arrow*), prolapsing into the right ventricle. **B.** Resected anterior leaflet of the tricuspid valve with vegetation attached.
 
@@ -80,15 +80,15 @@ Carcinoid heart disease is typically characterized by an evident endocardial dep
 
 The clinical features are those of the carcinoid tumor and right-heart failure. The echocardiographic appearance of the thickened restricted valve leaflets is quite characteristic. Color-flow Doppler reveals wideopen tricuspid regurgitation often with laminar regurgitant flow into a large right atrium. Spectral Doppler tracing with continuous-wave
 
-![](_page_2_Figure_13.jpeg)
+![](ch08-06_page_2_Figure_13.jpeg)
 
-![](_page_2_Figure_14.jpeg)
+![](ch08-06_page_2_Figure_14.jpeg)
 
-![](_page_2_Figure_15.jpeg)
+![](ch08-06_page_2_Figure_15.jpeg)
 
 **FIGURE 51–4.** Severe secondary tricuspid regurgitation caused by extreme tethering of the tricuspid valve without intrinsic leaflet pathology. **A.** The right ventricular inflow view from a parasternal transducer position shows a markedly tethered valve in late systole. **B.** Color Doppler shows flow acceleration and a jet of severe tricuspid regurgitation without turbulence. **C.** Continuous-wave Doppler shows an early peaking systolic profile associated with high right atrial pressure, which was estimated to be 25 mm Hg. The peak tricuspid regurgitation velocity is measured at 9 mm Hg and thus indicates the right ventricular systolic pressure to be 34 mm Hg (9 + 25).
 
-![](_page_3_Figure_2.jpeg)
+![](ch08-06_page_3_Figure_2.jpeg)
 
 **FIGURE 51–5.** Pathophysiology of carcinoid syndrome and carcinoid heart disease. The blue line depicts the normal metabolic pathway of serotonin. 5-HIAA, 5-hydroxyindoleacetic acid; 5-HT, serotonin.
 
@@ -98,7 +98,7 @@ Pathologic serotonin (5-HT) pathway
 
 Echocardiography is the primary imaging modality used for diagnosis and assessment of the extent and severity of carcinoid heart disease.36 Tricuspid (TV) and pulmonary (PV) valves are typically thickened and retracted (type IIIA valve dysfunction). Unpublished data from our institutional ongoing research has revealed a potential role of speckle-tracking echocardiography and strain techniques in surgical referral. Classically, the evaluation of patients with CHD has been exclusively focused on estimations of functional valve disease. However, strain techniques have been recently proposed for the assessment of RV function as an indirect measure of endocardial fibrosis. Recent series have shown a significant reduction in RV function (assess by strain) in those patients with CHD when compared to healthy controls.37 In addition to echocardiography, cardiac magnetic resonance imaging is an alternative imaging modality for the evaluation of CHD that can affect decision making and management because it
 
-![](_page_4_Picture_2.jpeg)
+![](ch08-06_page_4_Picture_2.jpeg)
 
 **FIGURE 51–6.** Upper panels demonstrate an intraoperative atrial view of a normal tricuspid valve (**A**) and a pathologic tricuspid valve with carcinoid heart disease (**B**). Lower panels show a normal pulmonary valve as an autograft during a Ross procedure (courtesy of Paul Stelzer, MD) (**C**) and an outflow view of a pathologic pulmonary valve in a patient with carcinoid heart disease (**D**).
 
@@ -106,11 +106,11 @@ provides accurate assessment of the volume and function of the right heart and e
 
 The gold standard treatment for carcinoid heart disease is usually tricuspid valve replacement and pulmonary valve replacement with patch enlargement of the right ventricular outflow tract.39 Although TV replacement has been traditionally accepted by most authors, the need for PV replacement (versus isolated valvectomy) has been debatable. It is certainly true that some patients may tolerate pulmonary regurgitation; however, long-standing pulmonary regurgitation after valvectomy may have a negative impact on RV remodeling. Additionally,
 
-![](_page_4_Figure_7.jpeg)
+![](ch08-06_page_4_Figure_7.jpeg)
 
 **FIGURE 51–7. A.** Transesophageal echocardiography shows severe retraction, tethering, and fibrosis of the tricuspid valve leaflets. **B.** 3D echocardiography demonstrates opening of the tricuspid valve in late systole; note the complete cooptation of the mitral valve. **C.** Ventricular view of the tricuspid valve leaflets in late diastole. **D.** The continuous-wave Doppler shows systolic velocity of early peak and a rapid deceleration indicating high right atrial pressure. The diastolic velocity with slow early deceleration and a prominent presystolic flow is consistent with some degree of tricuspid stenosis.
 
-![](_page_5_Figure_2.jpeg)
+![](ch08-06_page_5_Figure_2.jpeg)
 
 **FIGURE 51–8.** Management algorithm for patients with carcinoid syndrome and/or carcinoid heart disease. BNP, brain natriuretic peptide; Dysf, dysfunction; MRI, magnetic resonance imaging; Q, each; RV, right ventricle; TEE, transesophageal echocardiogram; TTE, transthoracic echocardiogram; Y, year.
 
@@ -118,7 +118,7 @@ a more uneventful postoperative recovery has been described among those patients
 
 **Traumatic Tricuspid Regurgitation** The traumatic injury might be external, such as blunt chest wall injury with disruption of chordal structures (Fig. 51–9); or internal, generally iatrogenic, resulting from damage from pacemaker leads, a stiff guidewire, or radiofrequency ablation for the treatment of arrhythmias.41 Tricuspid regurgitation resulting from a pacemaker lead either may be from perforation of a leaflet or its restriction as a result of chronic fibrotic changes of the leaflet and subvalvular apparatus (Fig. 51–10). It is often unrecognized because
 
-![](_page_5_Figure_6.jpeg)
+![](ch08-06_page_5_Figure_6.jpeg)
 
 **FIGURE 51–9.** A 56-year-old patient with mitral valve prolapse exhibiting spontaneous rupture of the tricuspid valve. **A.** The flail septal leaflet of the tricuspid valve is shown in systole. **B.** The resulting eccentric tricuspid regurgitation jet directed laterally because of flail leaflets. **C.** The continuous-wave Doppler recording of the regurgitant jet with a peak systolic gradient between the right ventricle and the right atrium of 32 mm Hg. The inferior vena cava was measured at 2.5 cm and showed no discernible collapse, indicating estimated right atrial pressure of 20 mm Hg. Thus, the right ventricular systolic pressure is estimated as 52 mm Hg.
 
@@ -130,11 +130,11 @@ Treatment is based on recognition of the cause of regurgitation. Transthoracic a
 
 **Tricuspid Valve Prolapse** Degenerative mitral prolapse is associated with tricuspid prolapse (Fig. 51–11).46 In most cases, there are no distinctive physical signs (see Chap. 48). Echocardiography reveals billowing of the septal and anterior leaflets. The associated tricuspid regurgitation is generally mild. Rarely, spontaneous chordae rupture may result in
 
-![](_page_6_Picture_2.jpeg)
+![](ch08-06_page_6_Picture_2.jpeg)
 
-![](_page_6_Picture_3.jpeg)
+![](ch08-06_page_6_Picture_3.jpeg)
 
-![](_page_6_Picture_4.jpeg)
+![](ch08-06_page_6_Picture_4.jpeg)
 
 **FIGURE 51–10.** Intraoperative views of pacing lead-related injuries of the tricuspid valve, characterized by a severe fibrotic reaction around the lead with leaflet thickening and retraction.
 
@@ -153,7 +153,7 @@ Annular dilatation is an early consequence of right ventricular dilatation or dy
 
 **Pathophysiology** The primary mechanism causing regurgitation is transmission of pressure overload from pulmonary hypertension to the tricuspid valve as a raised right ventricular systolic pressure. In the absence of pulmonary hypertension, the main mechanisms underlying tricuspid regurgitation are annular dilatation and leaflet tethering.
 
-![](_page_6_Figure_14.jpeg)
+![](ch08-06_page_6_Figure_14.jpeg)
 
 **FIGURE 51–11.** Intraoperative views of redundant prolapsing tricuspid valve leaflets (top panels). Tricuspid annuloplasty with a semirigid incomplete ring (left) and a rigid ring (right).
 
@@ -210,7 +210,7 @@ Tricuspid valve morphology is best assessed using the parasternal tricuspid infl
 
 Quantitation of valve lesion is obtained using spectral and colorflow Doppler approaches. Tricuspid stenosis is detected by presence of flow acceleration on the atrial side of the valve and turbulence downstream with the right ventricular inflow. The severity of tricuspid stenosis is based on mean and end-diastolic gradients measured using continuous-wave Doppler recordings. The normal mean gradient is less than 2 mm Hg, and the end-diastolic gradient is nearly zero. Significant stenosis of the tricuspid valve may be present with a mean gradient of 3 to 5 mm Hg and an end-diastolic gradient of 1 to 3 mm Hg. The use of pressure half-time to estimate tricuspid valve area and of two-dimensional echo-based planimetry of the tricuspid orifice has not been documented, and these are rarely, if ever, used.58 Tricuspid regurgitation is detected using color Doppler imaging. Its severity may be semi quantitated based on the extent of the regurgitation jet penetration into the right atrium and inferior vena cava. Whereas the jet of the mild tricuspid regurgitation occupies up to 2 cm into the right atrium, the jet of moderate regurgitation extends deeper (3-5 cm) into the atrium but does not exhibit systolic reversal in hepatic or caval flow. However, with severe tricuspid regurgitation, there is consistent systolic flow reversal in the hepatic vein using the pulsed Doppler approach.61 A more quantitative assessment of tricuspid regurgitation may be obtained by using flow acceleration, proximal isovelocity surface area methods, and width of the vena contracta (see Chap. 15). A simpler approach is based on measuring the proximal isovelocity surface area radius. For the simpler method, the aliasing scale is adjusted at approximately one-twelfth of the peak regurgitation velocity (normally < 3.0 m/s by shifting the color scale baseline to approximately cm/s). The proximal isovelocity surface area radius at this adjusted aliasing scale of 1 to 4 mm indicates mild regurgitation, 5 to 8 mm indicates moderate regurgitation, and greater than 9 mm indicates severe regurgitation. The width of vena contracta greater than 7.0 mm is an additional indicator of severe regurgitation.
 
-![](_page_9_Figure_2.jpeg)
+![](ch08-06_page_9_Figure_2.jpeg)
 
 **FIGURE 51–12.** Transthoracic echocardiography shows severe dilatation of the tricuspid annulus with a severe regurgitant jet (top panels). Transesophageal echocardiography corroborates severe annular dilatation up to 4.8 cm (middle panels). Intraoperative echocardiography shows a central regurgitant jet in a patient who was referred for mitral valve surgery resulting from type I dysfunction and severe annular dilatation. Note the characteristic multiple jets seen in patients with type I dysfunction of the mitral valve.
 
@@ -246,15 +246,15 @@ In particular cases such as carcinoid heart disease, one of the goals of surgery
 
 Although the presence of moderate or greater tricuspid regurgitation in patients undergoing mitral valve repair is an indication for concomitant tricuspid valve annuloplasty,1,76 the management of secondary tricuspid regurgitation in patients with mild to moderate tricuspid regurgitation77,78 remains debatable, particularly in regard to the best surgical option and whether concomitant "prophylactic" tricuspid annuloplasty is necessary. As tricuspid regurgitation is a dynamic lesion, which is downgraded by general anesthesia, the absence of tricuspid regurgitation in intraoperative transesophageal echocardiography is an unreliable indicator of severity under normal loading conditions, and the presence of tricuspid regurgitation on preoperative echocardiography becomes a more reliable indicator. Tricuspid dilatation > 4.0 cm in the four-chamber view is a measurement that is relatively independent of loading conditions, and predictive of functional tricuspid regurgitation; this may be an indication for concomitant tricuspid annuloplasty at the time of mitral valve repair, in the absence of significant tricuspid regurgitation on echocardiography (Fig. 51–14). In this context, the final decision should be guided not only by the degree of regurgitation (≥ moderate) but also by annular dimensions (diameter ≥ 7 cm from anteroseptal to anteroposterior commissures, or 40 mm when measured by echo), leaflet coaptation or mismatch between leaflet and annulus on direct inspection, presence of atrial fibrillation, pulmonary hypertension, right ventricular dysfunction, and/or left ventricular dysfunction. As for the type of repair, most authors favor the use of a disease-specific open ring with a rigid component located in the region corresponding to the right ventricular free wall aspect of the annulus (remodeling), with flexible open ends for wider accommodation of the conduction system to reduce iatrogenic injury.79 Finally, direct intraoperative inspection may be used to
 
-![](_page_11_Picture_2.jpeg)
+![](ch08-06_page_11_Picture_2.jpeg)
 
 **FIGURE 51–13.** Common surgical techniques in tricuspid valve repair. Tricuspid valve annuloplasty with a semirigid incomplete ring (top figure). Other common surgical techniques include annular plication or Kay technique (mostly abandoned nowadays; bottom left) or annular cinching techniques such as the modified or posterior De Vega annuloplasty (bottom right).
 
-![](_page_11_Figure_4.jpeg)
+![](ch08-06_page_11_Figure_4.jpeg)
 
 **FIGURE 51–14.** Management algorithm for patients undergoing mitral valve disease and concomitant tricuspid valve regurgitation. LV, left ventricle; RV, right ventricle; TEE, transesophageal echocardiogram; TTE, transthoracic echocardiogram; TR, tricuspid regurgitation.
 
-![](_page_12_Figure_2.jpeg)
+![](ch08-06_page_12_Figure_2.jpeg)
 
 **FIGURE 51–15. A.** Tricuspid valve with annular dilatation. **B.** 28-mm ring sizer. Note the degree of annular dilation in the region of the anteroposterior commissure corresponding to the right ventricular free wall. **C.** Sizing the annulus to the surface area of the anterior and posterior leaflets. **D.** Final view demonstrating the competent tricuspid valve after ring implantation.
 
@@ -299,9 +299,9 @@ Bedside examination may provide important clues. Pulmonary valve stenosis is ass
 | Pulmonary hypertension                        | X                                                                                                                             | X                                  |  |  |  |
 | Hemodialysis                                  | –                                                                                                                             | X                                  |  |  |  |
 
-![](_page_13_Picture_11.jpeg)
+![](ch08-06_page_13_Picture_11.jpeg)
 
-![](_page_13_Picture_12.jpeg)
+![](ch08-06_page_13_Picture_12.jpeg)
 
 in the most severe stenosis in which right ventricular end-diastolic pressure is consistently above the pulmonary arterial pressures. The behavior of the second heart sound is also of diagnostic importance. In milder cases, the pulmonary component of the second heart sound (P2 ) is delayed but retains further widening with inspiration (see Chap. 11). As stenosis increases in severity, the pulmonary component becomes softer, the murmur in very severe cases spills past the aortic component, and the pulmonary component is inaudible. Clinical assessment of infundibular pulmonary stenosis reveals a systolic murmur peaking in late systole and well-preserved but delayed P2 .
 

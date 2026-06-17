@@ -52,7 +52,7 @@ Early clinical reports suggested that HCM is inherited in 30% to 50% of patients
 
 HCM is the most common genetic cardiovascular disease. In approximately half of adolescents and adults with the disease, it is inherited as an autosomal dominant trait, characterized by a high locus and allelic diversity. More than 1500 mutations have been identified,33,37-43 the majority of which (75%-80%) involve cardiac myosin heavy chain (*MYH7*) and cardiac myosin binding protein C (*MYBPC3*) (Fig. 59–2). Mutations in cardiac troponin T (*TNNT2*), troponin I (*TNNI3*), α- tropomyosin (*TPM1*), myosin light chains (*MYL2*, *MYL3*), and cardiac actin (*ACTC1*) account for 15% to 20% of mutation-positive individuals. Mutations in other sarcomere or related genes, including Z-disc protein genes like muscle LIM protein (*CSRP3*) or calcium-handling genes such as phospholamban (*PLN*), account for less than 1% of cases each. A further 5% to 10% of cases are caused by metabolic or storage disorders (eg, Anderson-Fabry disease, mitochondrial disorders, glycogen storage diseases), neuromuscular disorders, chromosome
 
-![](_page_1_Figure_2.jpeg)
+![](ch10-03_page_1_Figure_2.jpeg)
 
 **FIGURE 59–1.** Causes of hypertrophic cardiomyopathy. Adapted with permission from Authors/Task Force, Elliott PM, Anastasakis A, et al. 2014 ESC Guidelines on diagnosis and management of hypertrophic cardiomy-
 
@@ -68,7 +68,7 @@ HCM is characterized by variable intra- and interfamilial expression and incompl
 
 Gross examination of the heart demonstrates asymmetric septal hypertrophy with a small left ventricular cavity (Fig. 59–3).56-58 The mural endocardium may be thickened by fibrous tissue, and if left ventricular outflow tract obstruction is present, there is often a plaque located on the upper septal area where the mitral valve repeatedly has come in contact with the septum. The mitral valve itself may be abnormal, with elongation of the mitral chordae and anterior displacement of hypertrophied papillary muscles. Abnormal attachments of the mitral valve chordae into the septum, insertion of the papillary muscle head directly into the mitral leaflets, myocardial clefts, and increased ventricular
 
-![](_page_2_Picture_2.jpeg)
+![](ch10-03_page_2_Picture_2.jpeg)
 
 **FIGURE 59–2.** Schematic diagram of the sarcomere. In the majority of patients, hypertrophic cardiomyopathy is caused by mutations in genes encoding the thick and thin filaments of the sarcomere. The two most commonly affected are β-myosin heavy chain and cardiac myosin binding protein C.
 
@@ -84,7 +84,7 @@ The pathophysiology of HCM is complex and consists of multiple interrelated abno
 
 In most patients with HCM, a lifelong process of cardiac remodeling is present, characterized by myocardial fibrosis and wall thinning. In the early stages of this process, patients are often asymptomatic, and
 
-![](_page_2_Picture_10.jpeg)
+![](ch10-03_page_2_Picture_10.jpeg)
 
 **FIGURE 59–3.** Pathologic specimen of a patient who died suddenly with hypertrophic cardiomyopathy. There is severe hypertrophy of the myocardium and a small left ventricular cavity. The left atrium is enlarged. Used with permission from Dr. W. D. Edwards, Mayo Clinic, Rochester, MN.
 
@@ -92,11 +92,11 @@ conventional noninvasive indices of left ventricular (LV) function are within th
 
 Diastolic dysfunction arises from multiple factors that affect both ventricular relaxation and chamber stiffness (Fig. 59–5).65-68 Impairment of ventricular relaxation can result from the high systolic contraction
 
-![](_page_2_Picture_14.jpeg)
+![](ch10-03_page_2_Picture_14.jpeg)
 
 **FIGURE 59–4.** Microscopic section of the myocardium from a patient with hypertrophic cardiomyopathy showing myofiber disarray.
 
-![](_page_3_Figure_2.jpeg)
+![](ch10-03_page_3_Figure_2.jpeg)
 
 **FIGURE 59–5.** Evidence of severe diastolic dysfunction in a patient with hypertrophic cardiomyopathy. The left ventricular and left atrial pressures are shown in both the left and right panels. The mean left atrial pressure is severely elevated to 30 mm Hg. *Left*: The mitral flow velocity curve is shown, demonstrating a high E:A ratio and a short deceleration time. Diastolic mitral regurgitation (MR) is present. There is abrupt cessation of the "a" duration (*arrow*). *Right*: The pulmonary vein velocity curve is shown, with a high velocity at atrial reversal of long duration. The systolic forward flow (S) and diastolic forward flow (D) are shown.
 
@@ -110,7 +110,7 @@ During exercise, approximately 25% of HCM patients have an abnormal blood pressu
 
 Dynamic LV outflow obstruction caused by contact between the mitral valve leaflets during ventricular systole is present in one-third of patients at rest and a further one-third during exercise or physical maneuvers that reduce ventricular volume or increase contractility.82 The mechanism of obstruction was initially thought to be narrowing of the LV outflow tract caused by systolic contraction of the hypertrophied basal ventricular septum and a resultant suction (Venturi) force
 
-![](_page_3_Figure_9.jpeg)
+![](ch10-03_page_3_Figure_9.jpeg)
 
 **FIGURE 59–6.** Cardiac catheterization pressure curves showing a severe left ventricular outflow tract obstruction. The gradient between the left ventricle (LV) and aorta (Ao) is nearly 100 mm Hg. The left atrial (LA) pressure is also elevated. There is a spike-and-dome pattern on the aortic pressure curve.
 
@@ -124,15 +124,15 @@ Mitral regurgitation is common in patients with LV outflow tract obstruction and
 
 The majority of patients with HCM are asymptomatic, with the disease being diagnosed based on an abnormal electrocardiogram, heart murmur, or screening echocardiogram. When symptoms are present, they often vary from day to day and may be exacerbated during hot humid weather, presumably as a result of fluid loss and vasodilation that cause decreases in both preload and afterload. Similarly, symptoms may be more prominent after eating a large meal or after drinking alcohol. Other concomitant problems, such as anemia or fever, may also exacerbate symptoms.
 
-![](_page_4_Figure_2.jpeg)
+![](ch10-03_page_4_Figure_2.jpeg)
 
 **FIGURE 59–7.** The dynamic nature of the left ventricular outflow tract obstruction is shown by simultaneous Doppler echocardiography and cardiac catheterization. The cardiac catheterization is performed with a pressure measurement of the left ventricular apex and left ventricular base. The gradient occurs during systole between the left ventricular apex and left ventricular base. The continuous wave Doppler velocities through the left ventricular outflow tract are shown. The calculated gradient from the Doppler echocardiogram is shown in parentheses. **A.** The gradient in the baseline state is 21 mm Hg as assessed by both cardiac catheterization and Doppler echocardiography. **B.** During inhalation of amyl nitrite, the gradient increases to 70 mm Hg.
 
-![](_page_4_Figure_4.jpeg)
+![](ch10-03_page_4_Figure_4.jpeg)
 
 **FIGURE 59–8.** Schematic diagram of the left ventricle in hypertrophic cardiomyopathy during systole. There is projection of the basal septum into the outflow tract with systolic anterior motion of the mitral valve, which results in left ventricular outflow (LVO) tract obstruction. The obstruction is dynamic, dependent on the preload, afterload, and contractility of the heart.
 
-![](_page_4_Figure_6.jpeg)
+![](ch10-03_page_4_Figure_6.jpeg)
 
 **FIGURE 59–9.** Two-dimensional and color flow Doppler imaging of a patient with hypertrophic cardiomyopathy, severe systolic anterior motion of the mitral valve, and secondary mitral regurgitation. **A.** A still-frame two-dimensional echocardiogram from the parasternal view showing complete systolic anterior motion of the mitral valve. **B.** Color flow imaging demonstrating a mosaic jet of mitral regurgitation directed posteriorly.
 
@@ -193,11 +193,11 @@ Abbreviations: AD, autosomal dominant; AFD, Anderson-Fabry disease; AR, autosoma
 
 Data from Lopes LR, Elliott PM. New approaches to the clinical diagnosis of inherited heart muscle disease. *Heart*. Oct 2013;99:1451-1461; and Authors/Task Force, Elliott PM, Anastasakis A, et al. 2014 ESC Guidelines on diagnosis and management of hypertrophic cardiomyopathy: The Task Force for the Diagnosis and Management of Hypertrophic Cardiomyopathy of the European Society of Cardiology (ESC). *Eur Heart J*. Oct 14 2014;35:2733-2779.101
 
-![](_page_7_Figure_2.jpeg)
+![](ch10-03_page_7_Figure_2.jpeg)
 
 **FIGURE 59–10.** Twelve-lead electrocardiogram from a patient with hypertrophic cardiomyopathy. There is left-axis deviation and pathologic Q waves throughout the precordial leads, with ST elevation. Cardiac magnetic resonance (not shown) demonstrated extensive fibrosis.
 
-![](_page_7_Figure_4.jpeg)
+![](ch10-03_page_7_Figure_4.jpeg)
 
 **FIGURE 59–11.** Twelve-lead electrocardiogram from a patient with the apical variant of hypertrophic cardiomyopathy. There are diffuse T-wave inversions across the precordium as well as left ventricular hypertrophy by voltage.
 
@@ -225,15 +225,15 @@ The differential diagnosis of LV hypertrophy is considerable. Increased afterloa
 
 It is important to correlate the findings of increased LV wall thickness on echocardiography with the ECG. For example, a relatively small QRS voltage on the 12-lead ECG in the presence of increased wall thickness should raise suspicion of an infiltrative disorder1,77 (Fig. 59–14). The reverse can occur in glycogen storage disease (eg, Pompe disease) when ECG voltages are dramatically increased, sometimes in association with ventricular pre-excitation.1,77
 
-![](_page_8_Figure_14.jpeg)
+![](ch10-03_page_8_Figure_14.jpeg)
 
 motion of the mitral valve causing left ventricular outflow tract obstruction. Ao, aorta; LA, left atrium; LV, left ventricle.
 
-![](_page_8_Figure_15.jpeg)
+![](ch10-03_page_8_Figure_15.jpeg)
 
 **FIGURE 59–12.** Two-dimensional echocardiogram from a patient with severe hypertrophic cardiomyopathy. There is a severe increase in left ventricular wall thickness, with a much greater increase in thickness of the ventricular septum (VS). The ratio of ventricular septal thickness to posterior wall (PW) thickness is 2.5:1. **A.** Parasternal long-axis view during diastole. **B.** Parasternal long-axis view during systole. There is systolic anterior
 
-![](_page_9_Figure_2.jpeg)
+![](ch10-03_page_9_Figure_2.jpeg)
 
 **FIGURE 59–13.** Different variants of hypertrophic cardiomyopathy visualized with echocardiography (six different patients). Upper row shows four-chamber views, and lower row shows parasternal long-axis views.
 
@@ -257,9 +257,9 @@ Left atrial dimensions, pulmonary vein flows, pulmonary artery systolic pressure
 
 LV ejection fraction and fractional shortening can overestimate LV systolic function because radial contractile function is typically preserved
 
-![](_page_10_Figure_2.jpeg)
+![](ch10-03_page_10_Figure_2.jpeg)
 
-![](_page_10_Figure_3.jpeg)
+![](ch10-03_page_10_Figure_3.jpeg)
 
 FIGURE 59—14. Cardiac investigations from a patient with wild-type transthyretin (TTR) amyloid heart disease. A. Twelve-lead electrocardiogram shows low voltage and pseudo-infarct pattern, consistent with infiltrative disease as responsible for the increased left ventricular wall thickness. B. Two-dimensional echocardiogram shows concentric hypertrophy; in the bull's eye (lower right image), note the relative apical sparing for the markedly diminished global longitudinal strain. C. Technetium-99m-3,3-diphosphono-1,2-propanodicarboxylic acid (99mTc-DPD) scan showing strong myocardial uptake.
 
@@ -273,7 +273,7 @@ normal range.<sup>110</sup> Circumferential strain is either increased or decrea
 
 In most patients, anatomic and hemodynamic information can be obtained by transthoracic echocardiography alone, but transesophageal echocardiography may be useful in patients in whom discrete subvalvular stenosis or a primary abnormality of the mitral valve is suspected.<sup>110</sup> It is also mandatory for the peri- and intraoperative
 
-![](_page_11_Figure_2.jpeg)
+![](ch10-03_page_11_Figure_2.jpeg)
 
 **FIGURE 59–15.** Simultaneous Doppler echocardiogram and cardiac catheterization demonstrating the presence of severe left ventricular outflow tract obstruction. The gradient between the left ventricle (LV) and aorta (Ao) at catheterization is 100 mm Hg. A continuous wave Doppler across the left ventricular outflow tract reveals a peak velocity of 5 m/s, which is consistent with a calculated left ventricular outflow tract gradient of 100 mm Hg.
 
@@ -283,11 +283,11 @@ monitoring of septal myectomy to confirm of the mechanism of LVOTO, guide the su
 
 Cardiac magnetic resonance imaging (CMRI) provides high-resolution images of the myocardium and accurately determines the site and extent of hypertrophy.110,131 These properties are particularly important in patients with equivocal hypertrophy and/or difficult echocardiographic
 
-![](_page_11_Figure_7.jpeg)
+![](ch10-03_page_11_Figure_7.jpeg)
 
 **FIGURE 59–16.** Continuous wave Doppler flow from a patient with both left ventricular outflow tract obstruction and mitral regurgitation, obtained during the immediate recovery phase of an exercise stress echocardiogram. The continuous wave Doppler jet has a different contour and maximal velocity for the left ventricular outflow (LVO) tract velocity, which is measured in the image, and the mitral regurgitation (MR) jet. The mitral regurgitation signal is of higher velocity, and the signal is holosystolic.
 
-![](_page_11_Picture_9.jpeg)
+![](ch10-03_page_11_Picture_9.jpeg)
 
 **FIGURE 59–17.** Cardiac magnetic resonance images of a patient with reverse curvature pattern of hypertrophy, showing a small apical aneurysm. **A.** Cine four-chamber view, end-diastole. **B.** Cine four-chamber view, end-systole. **C.** Late gadolinium enhancement, four-chamber view, showing enhancement at the intraventricular septum and apex. **D.** Cine two-chamber view, end-systole.
 
@@ -303,7 +303,7 @@ Single-photon emission computed tomography myocardial perfusion imaging frequent
 
 Cardiac catheterization to assess LV function and dynamic LVOTO is not required in most HCM patients unless there is a discrepancy between the echocardiogram and the clinical presentation.1 LVOTO can be assessed by placing an end-hole catheter at the LV apex and pulling it back to the base of the heart and then into the aorta. However, because the small LV cavity can cause catheter "entrapment," resulting in a falsely increased LV systolic pressure, the gradient is ideally assessed by a simultaneous LV inflow and LV outflow (or aortic) pressure,65,134 but this requires a trans-septal approach.
 
-![](_page_12_Figure_2.jpeg)
+![](ch10-03_page_12_Figure_2.jpeg)
 
 **FIGURE 59–18.** Cardiac catheterization from a patient with no resting left ventricular outflow tract obstruction. However, after a premature ventricular contraction (PVC), the left ventricular outflow tract gradient is close to 100 mm Hg. The pulse pressure of the ascending aorta (Ao) is decreased on the beat following the premature ventricular contraction. This phenomenon is termed the Brockenbrough phenomenon. LA, left atrium; LV, left ventricle.
 
@@ -315,9 +315,9 @@ Coronary angiography is indicated when patients complain of angina out of propor
 
 Endomyocardial biopsy is only recommended when the noninvasive workup suggests inflammatory, infiltrative, or metabolic disease that cannot be confirmed by other means (eg, biopsy of another tissue/ organ).1
 
-![](_page_12_Picture_8.jpeg)
+![](ch10-03_page_12_Picture_8.jpeg)
 
-![](_page_12_Picture_9.jpeg)
+![](ch10-03_page_12_Picture_9.jpeg)
 
 **FIGURE 59–19.** Left ventriculography from a patient with hypertrophic cardiomyopathy. There is near-complete systolic obliteration of the left ventricular cavity.
 
@@ -419,9 +419,9 @@ Mitral valvuloplasty or plication in combination with myectomy is used in some p
 
 In large-volume centers, the operative mortality for septal myectomy is < 1%,199,200 but the risk is higher (3%-4%) in elderly patients who require other procedures, such as aortic valve replacement, mitral valve repair, or coronary artery bypass grafting. Complications (AV nodal block, ventricular septal defect, and aortic regurgitation) of surgery are uncommon.1,110,201-203
 
-![](_page_15_Picture_2.jpeg)
+![](ch10-03_page_15_Picture_2.jpeg)
 
-![](_page_15_Picture_3.jpeg)
+![](ch10-03_page_15_Picture_3.jpeg)
 
 **FIGURE 59–20.** Coronary angiogram of a patient undergoing septal ablation. A large first septal perforator artery is shown by the *white arrows*. In the *right panel*, following the septal ablation, there has been complete cessation of flow in the first septal perforator artery.
 
@@ -429,7 +429,7 @@ Alcohol septal ablation (ASA) is a procedure in which alcohol is infused in the 
 
 Several centers have reported successful short-term outcomes following septal ablation.205,207-222 The major complication of ASA is complete heart block, which, with small doses of alcohol and guidance with myocardial contrast echocardiography, occurs in 7% to 20% of patients.1,4,221-224 Patients are more likely to experience complete heart
 
-![](_page_15_Figure_7.jpeg)
+![](ch10-03_page_15_Figure_7.jpeg)
 
 **FIGURE 59–21. A.** Cardiac catheterization before ablation, demonstrating left ventricular outflow tract obstruction of 60 mm Hg. **B.** Following the septal ablation, there has been complete obliteration of the gradient across the left ventricular outflow tract.
 
@@ -453,7 +453,7 @@ For patients with reduced ejection fraction (< 50%), general guidelines for chro
 
 Both β-blockers and calcium channel antagonists are the recommended pharmacologic options for angina, after excluding LVOTO or obstructive epicardial coronary artery disease.1,4
 
-![](_page_16_Figure_12.jpeg)
+![](ch10-03_page_16_Figure_12.jpeg)
 
 **FIGURE 59–22.** Cardiac catheterization study during atrioventricular sequential pacing in a patient with hypertrophic obstructive cardiomyopathy (HOCM), demonstrating the effect of the differing atrioventricular (A-V) intervals. The left ventricular (LV) pressure, aortic (Ao) pressure, and left atrial (LA) pressures are shown. In the baseline state (A pace), the patient is undergoing atrial pacing with native antegrade atrioventricular conduction. There is a left ventricular outflow tract obstruction of 100 mm Hg. *Left center panel*: The patient is undergoing atrioventricular pacing with an atrioventricular interval of 60 milliseconds. This interval is too short because atrial contraction is now occurring on top of a closed mitral valve, causing an elevation of left atrial pressure. Although the gradient is decreased, there is also a decrease in aortic pressure caused by the decreased preload in the left ventricle. *Right center panel*: This is the optimal atrioventricular interval of 120 milliseconds. The gradient has been decreased to 35 mm Hg. *Right panel*: The atrioventricular delay is 240 milliseconds. There is fusion between the antegrade conduction and the paced QRS complex with incomplete pre-excitation. The gradient across the left ventricular outflow tract is 60 mm Hg.
 

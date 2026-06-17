@@ -58,11 +58,11 @@ The burden of de novo and persistent chest pain among women impacts heavily on t
 
 Sex-related differences in morbid and fatal outcomes have persisted over the past several decades, despite advances in treatment and guideline-directed management of IHD.43 The evidence consistently reports that progressive declines in CVD risk are documented for women,
 
-![](_page_1_Figure_9.jpeg)
+![](ch16-02_page_1_Figure_9.jpeg)
 
 **FIGURE 108–1.** Cardiovascular disease mortality trends for males and females, United States:. Reproduced with permission from the National Center for Health Statistics (NCHS).
 
-![](_page_2_Figure_2.jpeg)
+![](ch16-02_page_2_Figure_2.jpeg)
 
 **FIGURE 108–2.** Trends in age-specific coronary heart disease (CHD) mortality from 1979 to 2011 across age subsets of < to 64, and ≥ 65 years. Reproduced with permission from Wilmot KA, O'Flaherty M, Capewell S, et al: Coronary Heart Disease Mortality Declines in the United States From 1979 Through 2011: Evidence for Stagnation in Young Adults, Especially Women. *Circulation*. 2015 Sep 15;132:997–1002.8
 
@@ -172,7 +172,7 @@ During the chest pain evaluation, a careful history is required to assess the li
 
 The integration of clinical symptomatology and risk factors into an assessment of clinical risk for women is challenging. Many of the risk scores were developed several decades ago, were derived from largely male cohorts with limited representation of women, and included patients with a higher prevalence of significant and severe CAD than is observed in contemporary practice. Current patient populations are decidedly lower risk and have less prevalent obstructive CAD, resulting in marked overestimation in risk, particularly for women. When relying solely on the typicality of chest pain symptoms, CAD likelihood estimates will result in the majority of women being at lower risk. 45 In one recent example, low- and intermediate-risk women were, on average, 10 years older than their male counterparts and had a higher mortality risk.<sup>171</sup> In the 2014 AHA consensus statement on the diagnostic evaluation of IHD in women, a simplified approach to categorize risk was presented (Fig. 108-3).45 For women with stable symptoms, risk is broadly categorized as low, intermediate, and high for women in their 50s, 60s, and 70s (or older), respectively.<sup>45</sup> Risk may be accentuated by one category (eg, low to intermediate risk) for those with multiple CAD risk factors, functional disability, or extensive comorbidity. Additionally, high-risk equivalent women are those with longstanding or poorly controlled diabetes or those with peripheral arterial disease. Although this approach remains imperfect, it provides a simplistic means to define risk in women and captures the prominent impact of age as driving clinical outcomes and CAD prevalence. Women allocated to low-risk status do not require prompt diagnostic testing, whereas optimal candidates for noninvasive functional or anatomic testing include women with intermediate or high CAD risk (Fig. 108-4).45
 
-![](_page_6_Figure_2.jpeg)
+![](ch16-02_page_6_Figure_2.jpeg)
 
 **FIGURE 108–3.** Defining clinical ischemic heart disease (IHD) risk in symptomatic women, from the American Heart Association expert consensus statement on the role of noninvasive testing in the clinical evaluation of women with suspected IHD. Reproduced with permission from Mieres JH, Gulati M, Bairey Merz N, et al: Role of noninvasive testing in the clinical evaluation of women with suspected ischemic heart disease: a consensus statement from the American Heart Association. *Circulation*. 2014 Jul 22;130:350-379.45
 
@@ -184,7 +184,7 @@ Noninvasive diagnostic testing can refine the management of symptomatic women la
 
 The mainstay of functional or stress testing has been the exercise ECG, with strong evidence on its diagnostic and prognostic accuracy for women.45,173,174 The exercise ECG is indicated for intermediate-risk women who are capable of performing activities of daily living (or ~5 metabolic equivalents [METs] of exercise [or higher]).1 Candidates for the exercise ECG, based on the 2012 guidelines for stable IHD, are those without disabling comorbidity including younger patients, patients without marked obesity or orthopedic limitations, and patients with no existing peripheral arterial disease or chronic obstructive pulmonary disease.1 Additionally, women who report limitations in performing routine activities of daily living may also be categorized as those with limited physical work capacity and may not be candidates for exercise testing. Given the predominance of these factors among female patient cohorts, the candidate pool for women capable of maximal levels of exercise is limited. The commonly applied Bruce protocol may be too rigorous for many women and precipitate premature fatigue; reviews and consensus statements suggest exercise protocols with smaller incremental grades of
 
-![](_page_6_Figure_9.jpeg)
+![](ch16-02_page_6_Figure_9.jpeg)
 
 longstanding, poorlycontrolled diabetes
 
@@ -300,7 +300,7 @@ In 2015, the First National Policy and Science Summit on Women's CVD Health307 h
 
 A woman's CVD health is not solely a medical issue. Eradication or lessening of the burden requires a multifaceted approach and involvement from the community, government, social advocates, and others in order to support social change meeting the diverse needs of women. Both in the developing world and in developed nations, a focus on preventive care should not only target high-risk populations but also create population programs to globally reduce the burden of CVD. Recent regulations in the United States require the reporting and tracking of targeted priority populations including women. From the Centers for Medicaid and Medicare Services, there is a focus to report and track services by sex and race/ethnicity but also a focus on population health. This population health focus extends beyond the traditional health
 
-![](_page_13_Figure_2.jpeg)
+![](ch16-02_page_13_Figure_2.jpeg)
 
 FIGURE 108–5. Hypothetical model of female-specific angina. Reproduced with permission from Shaw LJ, Bugiardini R, Merz CN: Women and ischemic heart disease: evolving knowledge. J Am Coll Cardiol. 2009 Oct 20:54:1561–1575. 193
 

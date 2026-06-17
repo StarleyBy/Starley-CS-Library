@@ -26,7 +26,7 @@ Inflammation is another important process that affects plaque progression, vulne
 
 The monocyte/macrophage system includes the most representative cells of the *innate immunity* via the scavenger and Toll-like receptors. Innate immunity does not require "previous education" but only recognizes a few hundred antigens. Monocytes, dendritic cells, and mast cells are the major players in the innate immunity (Fig. 33–2). Mast cells are inflammatory by releasing histamine, leukotrienes, interleukin (IL)-6, and interferon (IFN)-gamma. Dendritic cells are responsible for antigen presentation via human leukocyte antigen (HLA) molecules CD80/86 and CD40. Monocytes are divided into two major types according to their expression of CD14 and CD16. Those expressing CD14+/CD16– , also known as "classic" or Mon 1, are the most abundant subtype. They express CCR2 (receptor for MCP-1), CD62L, CD64, and CD115, but not CXCR1, and they perpetuate the inflammatory status by releasing reactive O2 species, tumor necrosis factor (TNF), IL-1, and other inflammatory cytokines. A second subtype is the CD14+/ CD16++, Mon 3, also called "nonclassic" or resident. These do not express CCR2 or CD64 but express CXCR1 (receptor for fractalkine). They release transforming growth factor-beta, CD-36, CD163, and the angiogenic factor vascular endothelial growth factor. They are less
 
-![](_page_1_Picture_2.jpeg)
+![](ch07-02_page_1_Picture_2.jpeg)
 
 **FIGURE 33–1.** Simplified diagram of the evolution of coronary atherosclerosis. Phases and morphology of lesion progression.
 
@@ -42,7 +42,7 @@ The *acquired immunity* is more modern from an evolutionary view. It is very spe
 
 **FIGURE 33–2.** Major cell players involved in innate immunity. Note the two subsets of monocytes; the Ly6C/GR-1 considered proinflammatory and Ly6C/GR1 negative are anti-inflammatory. The dendritic cells play a key role in the antigen presentation, triggering the response of the adaptive immunity. Activated platelets play also a key role via the release of several inflammatory substances. Ly6C/GR-1, lymphocyte antigen 6 complex, locus C1; TLRs, toll-like receptors; TNF, tumor necrosis factor; IL-1, interleukin-1; TGF, tumor necrosis factor; CD36, cluster differentiation 36; SR-A, scavenger receptor A; CD163, cluster differentiation163; VEGF, vascular endothelial growth factor; HLA, human leukocyte antigen; CD80/86, Cluster differentiation80/86 CD40, cluster differentiation40; IL-6, interleukin-6; CD40L, cluster differentiation40 ligand; RANTES, regulated on activation, normal T expressed and secreted; MRP-8/14, migration inhibitory factor-related protein 8/14; PDGF, platelet derived growth factor.
 
-![](_page_2_Figure_2.jpeg)
+![](ch07-02_page_2_Figure_2.jpeg)
 
 **FIGURE 33–3.** Normal physiology of the adaptive immune response. The antigen-presenting cells (APCs, dendritic cells and macrophages) activate the CD4+ cells by binding MHC-2 to the T-cell receptor of the CD4+ naïve cells. The combination of APCs with another activators (CD80 and/or CD86 molecules) trigger the differentiation of the helper T cells (Th) into the different subsets shown in the figure and the pattern of cytokine released by each differentiated cell. CD, cluster differentiation; Th1 cell, type 1 T cells; IFN, interferon; IL, interleukin; TNF, tumor necrosis factor; Treg cell, regulatory T cell; Th2 cell, type 1 T cells; Th17 cell, type 1 T cells; MHC-2, major histocompatibility complex class 2.
 
@@ -64,7 +64,7 @@ Growing thrombi on atherosclerotic vessels may occlude the lumen locally or embo
 
 Although several decades ago the endothelium was viewed as a simple barrier separating the fluid phase of the blood from the highly thrombogenic smooth muscle vascular wall, today we know that the endothelium is a critical player in the maintenance of the normal function of the arterial bed. The endothelium (endothelial cells) constantly secretes substances (eg, hormones, growth factors) into the vascular lumen to maintain vascular tone and to avoid abnormal platelet adhesion or activation and clot formation. When the endothelium is damaged and cannot perform this crucial task, it is dysfunctional. Endothelial dysfunction, as well as a discontinuity of the endothelial integrity, triggers a series of biochemical and molecular reactions aimed at preventing excessive blood loss and repairing the vessel wall. Vasoconstriction and platelet adhesion at the site of injury combine to form a hemostatic aggregate as the first step in vessel wall repair and the hemostasis. A few platelets may interact with injured and dysfunctional endothelium and release growth factors that stimulate intimal hyperplasia. Several layers of platelets may be deposited on the lesion with mild injury and may or may not evolve to become a mural thrombus (Fig. 33-4). The release of platelet growth factors may contribute significantly to accelerated intimal hyperplasia, as occurs in the coronary vein grafts within the first postoperative year. With severe injury and exposure of components
 
-![](_page_3_Figure_2.jpeg)
+![](ch07-02_page_3_Figure_2.jpeg)
 
 **FIGURE 33–4.** Images of thrombosis—from naked eye observation to immunohistochemistry (*green*, platelets; *red*, fibrinogen) and electronic microscopy (*top*, scanning; *bottom*, transmission).
 
@@ -78,7 +78,7 @@ Platelets are anucleated cells (2 μm in diameter) that are devoid of genomic DN
 
 matrix [ECM] proteins such as vWF, collagen, fibronectin, vitronectin, and laminin); spreading of the platelet on the surface; and aggregation of platelets to form a platelet plug or white thrombus.
 
-![](_page_3_Figure_10.jpeg)
+![](ch07-02_page_3_Figure_10.jpeg)
 
 **FIGURE 33–5.** Mechanisms and agonists involved in platelet adhesion, activation, and aggregation. ATP, adenosine triphosphate; GP, glycoprotein; 5-HT, 5-hydroxytryptamine; PAR, protease-activated receptor; TP, thromboxane receptor, TXA, thromboxane; vWF, von Willebrand factor. Reproduced with permission from Ibanez B, Vilahur G, Badimon J: Pharmacology of thienopyridines: rationale for dual pathway inhibition. *Eur Heart J Suppl*. 2006;8(Suppl G):G3-G9.
 
@@ -102,7 +102,7 @@ Platelet function depends on the adhesive interaction of several compounds. Most
 
 Abbreviations: C, collagen; Fg, fibrinogen; Fn, fibronectin; Ln, laminin; PECAM-1, platelet endothelial cell adhesion molecule 1; Ts, thrombospondin; Vn, vitronectin; vWF, von Willebrand factor.
 
-![](_page_4_Figure_6.jpeg)
+![](ch07-02_page_4_Figure_6.jpeg)
 
 FIGURE 33—6. Signal transduction mechanisms of platelet activation and aggregation. AA, arachidonic acid; ADP, adenosine diphosphate AMP, adenosine 3′5′-cyclic monophosphate; ATP, adenosine triphosphate; DG, diacylglycerol; Gs, Gi, Gp, Gq, guanine nucleotide-binding regulatory proteins; 5HT, 5-hydroxytryptamine; IP3, inositol,5-triphosphate; PGI2, prostacyclin; PIP2, phosphoinositol diphosphate; PKCi and PKCa, protein kinase C, inactivated and activated; PLA2, phospholipase A2; PLC, phospholipase C; Ilb/Illa, receptor glycoprotein for adhesive protein ligands (mainly fibrinogen and vWF); TXA<sub>2</sub>, thromboxane A<sub>2</sub>. Reproduced with permission from Badirmon L, Vilahur G: Thrombosis formation on atherosclerotic lesions and plaque rupture. J Intern Med. 2014 Dec; 276:618–632.<sup>17</sup>
 
@@ -112,7 +112,7 @@ The GP Ib/IX complex consists of two disulfide-linked subunits (GP Ibα and GP I
 
 Thrombin plays an important role in the pathogenesis of arterial thrombosis. It is one of the most potent known agonists for platelet activation and recruitment. In addition, thrombin is critical in the maintenance of the fibrin mesh. The thrombin receptor has 425 amino acids with seven transmembrane domains and a large NH2 -terminal extracellular extension that is cleaved by thrombin to produce a "tethered" ligand that activates the receptor to initiate signal transduction.27 Thrombin is a critical enzyme in early thrombus formation, cleaving fibrinopeptides A and B from fibrinogen to yield insoluble fibrin,
 
-![](_page_5_Figure_5.jpeg)
+![](ch07-02_page_5_Figure_5.jpeg)
 
 **FIGURE 33–7.** Mechanism involved in thrombus formation. Healthy endothelium (*left*) presents antithrombotic properties because it is able to release vascular protective substances such as nitric oxide (NO), prostacyclin (PGI2 ), tissue plasminogen activator (tPA), and tissue factor pathway inhibitor (TFPi). On the contrary, dysfunctional endothelium (*right*) not only favors platelet adhesion, activation, and aggregation but also promotes vascular lipid deposition, macrophage migration, and tissue factor (TF) expression (activation of the coagulation cascade). After platelet adhesion, activation is characterized by platelet shape change. Activated platelets secrete different agonists, prompting activation of circulating platelets and a procoagulant environment. This prothrombotic milieu favors thrombus formation and the subsequent clinical manifestations. ADP, adenosine diphosphate; RBC, red blood cell; TXA2 , thromboxane A2 . Reproduced with permission from Ibanez B, Vilahur G, Badimon J: Pharmacology of thienopyridines: rationale for dual pathway inhibition. *Eur Heart J Suppl*. 2006;8(Suppl G):G3-G9.
 
@@ -160,11 +160,11 @@ New techniques that permit the retrieval of thrombus from ACS patients allow a b
 
 The control of the coagulation reactions occurs by diverse mechanisms, such as hemodilution and flow effects, proteolytic feedback by thrombin, inhibition by plasma proteins (eg, antithrombin III [ATIII]), endothelial cell–localized activation of an inhibitory enzyme (protein C), and fibrinolysis (Fig. 33–10). Although ATIII readily inactivates thrombin in
 
-![](_page_7_Figure_8.jpeg)
+![](ch07-02_page_7_Figure_8.jpeg)
 
 **FIGURE 33—9.** Simplified diagram of the tissue factor pathway with specific inhibitor at the different steps of the cascade. The underlined compounds are those approved by the Food and Drug Administration. APC, antigen-presenting cell; FFR, active site-inhibited factor VIIa; LMWH, low-molecular-weight heparin; TF, tissue factor; TFPI, tissue factor pathway inhibitor.
 
-![](_page_7_Figure_10.jpeg)
+![](ch07-02_page_7_Figure_10.jpeg)
 
 **FIGURE 33—10.** Simplified diagram of the physiologic anticoagulation system. AT, antithrombin; CV, cardiovascular; NO, nitrous oxide; tPA, tissue plasminogen activator.
 
@@ -226,7 +226,7 @@ As stated above, TF is a major local player in the vulnerability and thrombogeni
 
 Abbreviations: Fg, fibrinogen; FVII, factor VII; TF, tissue factor; vWF, von Willebrand factor.
 
-![](_page_10_Figure_2.jpeg)
+![](ch07-02_page_10_Figure_2.jpeg)
 
 **FIGURE 33—11.** Role of thrombin in different pathways of coagulation. Thrombin plays a critical role in the maintenance of physiological fibrinolysis system but also in thrombosis. Fg, fibrino-peptides; PAR1, protease-activated receptor 1; PTase, prothrombinase; tPA, tissue plasminogen activator; VSMC. vascular smooth muscle cell.
 
@@ -236,7 +236,7 @@ Thrombogenic systemic factors can be modulated by controlling the cardiovascular
 
 Atherosclerosis and inflammation could represent different faces of the same disease. Currently, it is well known that inflammatory circulating markers correlate with cardiovascular events and the severity of the disease. Several inflammatory markers are being postulated as having a significant prognostic value for recurrent cardiovascular events. Therefore, given the role of inflammation on atherosclerosis, it is plausible that drugs directed against inflammation (eg, COX-2 inhibitors and nonsteroidal anti-inflammatory drugs [NSAIDs]) could render a positive impact in the prevention of cardiovascular events. However, several studies associated a significant increase in cardiovascular events with the use of COX-2 inhibitors. At that time, it was thought that NSAIDs did not have the same association with cardiovascular events
 
-![](_page_10_Figure_7.jpeg)
+![](ch07-02_page_10_Figure_7.jpeg)
 
 FIGURE 33—12. Suggested sources of circulating tissue factor (TF). AT, antithrombin; PMN, polymorphonuclear leukocyte; SMC, smooth muscle cell.
 

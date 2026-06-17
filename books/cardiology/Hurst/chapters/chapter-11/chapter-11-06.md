@@ -94,7 +94,7 @@ The simplest and most commonly applied percutaneous MCS device is the IABP. This
 
 Direct effects of counterpulsation include increased diastolic pressure, improved coronary and cerebral blood flow, and decreased afterload. Indirect benefits may include increased stroke volume, reduced LV end-diastolic pressure and volume, and reduced wall stress. The effectiveness of IABP support is dependent on the presence of organized native heart rhythm and LV ejection. Relative contraindications to use of the IABP support include significant aortic valve insufficiency and severe atherosclerotic vascular disease between the femoral artery and the aortic arch. Complications include arterial bleeding, vascular
 
-![](_page_2_Figure_2.jpeg)
+![](ch11-06_page_2_Figure_2.jpeg)
 
 **FIGURE 73–1.** Optimal timing of inflation for intra-aortic balloon pump (IABP) support. Timing of inflation for the IABP can be determined from the electrocardiogram or arterial pressure waveform. Optimal timing consists of initiation of inflation just after closure of the aortic valve and completion of deflation just prior to opening of the aortic valve during the next cardiac cycle. Therefore, the initiation of balloon inflation should occur at the dicrotic pressure notch on the arterial pressure tracing. In this manner, augmentation of the mid-diastolic pressure is achieved with reduction of the end-diastolic pressure compared with the nonaugmented cycle. Adapted with permission from Trost JC, Hillis LD. Intra-aortic balloon counterpulsation. *Am J Cardiol*. 2006 May 1;97:1391-1398.
 
@@ -133,7 +133,7 @@ The HeartMate PHP (St. Jude Medical, St. Paul, MN) is another electrical axial f
 
 Abbreviation: RPM, revolutions per minute.
 
-![](_page_3_Figure_2.jpeg)
+![](ch11-06_page_3_Figure_2.jpeg)
 
 **FIGURE 73–2.** Positioning screen for Impella device. The device is optimally positioned 3.5 cm below the aortic valve, and the outlet area is approximately 1 cm above the aortic valve. With the device in place, the red tracing represents a pressure being transduced near the outlet area, and thus proper positioning is suggested by the aortic pressure tracing. The green trace represents the motor current, which is typically phasic with the cardiac cycle provided that the inlet and outlet portions of the device are on either side of the aortic valve. Used with permission from Abiomed, Inc.
 
@@ -147,7 +147,7 @@ The TandemHeart Pump and Cannula System (CardiacAssist, Pittsburgh, PA) is anoth
 
 The most common indication for surgically implanted short-term VAD support is ventricular failure following cardiac surgery. Historically, these devices were extracorporeal, pulsatile devices based in part on the theory that pulsatile blood flow was advantageous for end-organ recovery from shock state.
 
-![](_page_3_Picture_9.jpeg)
+![](ch11-06_page_3_Picture_9.jpeg)
 
 **FIGURE 73–3.** Newer transaortic acute circulatory support devices. The St. Jude HeartMate PHP device is inserted through a 14-Fr femoral sheath and is positioned across the aortic valve in the left ventricle. After insertion, the cannula inlet area expands to 24 Fr. Used with permission from Thoratec.
 
@@ -159,7 +159,7 @@ Older, pulsatile devices such as the paracorporeal ventricular assist device (PV
 
 In the present era, extracorporeal surgically implanted VADs are more commonly rotary flow devices that provide continuous blood flow. Two examples of this type of device are the CentriMag pump (St. Jude Medical, St. Paul, MN) and the Rotaflow pump (Maquet, Wayne, NJ). Like the pulsatile devices, rotary flow systems provide right heart and/or left heart support and use surgically attached cannulas tunneled out of chest onto the upper abdomen (see Fig. 73–4).
 
-![](_page_3_Picture_15.jpeg)
+![](ch11-06_page_3_Picture_15.jpeg)
 
 **FIGURE 73–4.** Configuration of cannulas for biventricular support with surgically implanted acute circulatory support device. Blood is drained from the left heart to the left ventricular assist device (LVAD) via a cannula inserted into the left atrium at the interatrial groove. The LVAD then returns blood to a cannula inserted into the ascending aorta. Blood is drained from the right heart to the right ventricular assist device (RVAD) via a cannula inserted into the right atrium, and then returned to a cannula inserted into the main pulmonary artery. These cannulas are attached via blood tubing to either pulsatile or centrifugal blood pumps. More commonly used in the current era are centrifugal pumps that contain a central rotor activated by an electromagnetic driver that is external to the pump. Copyright IHC 2004.
 
@@ -181,7 +181,7 @@ The extracorporeal centrifugal pumps described for left heart support can also b
 
 Recently, percutaneous devices have become available that provide RV mechanical support. An example is the Impella RP (Abiomed, Danvers, MA). Like the other Impella devices, the right-sided device is an axial flow, electrically driven pump placed through a 23-Fr sheath inserted in the right femoral vein and guided over a 0.025-inch wire into the right heart. The inlet is positioned at the junction between the right atrium and the inferior vena cava with the device outlet positioned in the main pulmonary artery (Fig. 73–5). This device was studied in the Recover Right Trial, a single-arm outcomes study that enrolled patients with RV failure following LVAD implantation, with an acute RV infarct, or who had postcardiotomy RV failure. Patients supported with the Impella RP demonstrated a significantly reduced central venous pressure, increased cardiac output, and reduction in intravenous inotropic or vasopressor support. The primary end point was survival to 30 days, discharge, or transition to a durable RV assist device; 73% of the patients supported with the Impella RP achieved the primary end point compared to a predetermined performance measure of 50%.9 On the basis of this trial, the device was approved by the US Food and Drug Administration. Adverse events experienced in the trial included
 
-![](_page_4_Picture_11.jpeg)
+![](ch11-06_page_4_Picture_11.jpeg)
 
 **FIGURE 73–5.** Percutaneous devices designed for right ventricular support. The left panel is the Impella RP device. The outlet portion of the device located at the pigtail portion is delivered above the pulmonary valve. The right panel is the PROTEK Duo Cannula consisting of an outer proximal lumen that is positioned at the right atrium and an inner distal lumen positioned in the main pulmonary artery. The two independent lumens are attached via blood tubing to an extracorporeal centrifugal blood pump. Used with permission from Abiomed, Inc.
 
@@ -211,11 +211,11 @@ Contemporary durable LVADs have similar conceptual design. Access to the circula
 
 The HeartMate II LVAD (St. Jude Medical, Minneapolis, MN) is an axial flow LVAD implanted in the left upper quadrant of the abdomen. HeartMate II has US approval for BTT and DT (see Fig. 73–6). The pivotal BTT trial was a 133-patient, single-arm study that used objective performance criteria as a comparator.10 Seventy-five percent of patients who received the HeartMate II successfully achieved a combined end point of transplantation, alive on device support, or device explanation for myocardial recovery at 12 months. The HeartMate II DT trial randomized 200 patients in a 2:1 ratio to receive either a HeartMate II LVAD or the HeartMate I, an older pulsatile device.11 The primary end point of the HeartMate II trial was survival without disabling stroke or the need for surgical repair or replacement of the device at 24 months. Patients randomized to HeartMate II had a four-fold higher likelihood of successfully achieving the primary end point compared to the control group (Fig. 73–7). When the components of the primary end point were examined, there were statistically significant reductions in mortality and device repair/replacement. The stroke rate was not
 
-![](_page_5_Figure_10.jpeg)
+![](ch11-06_page_5_Figure_10.jpeg)
 
 **FIGURE 73–6.** Configuration of current-era durable left ventricular assist devices (LVADs). Durable LVADs are implanted with the inflow cannula of the pump positioned at the left ventricular apex connected to either an axial flow or centrifugal flow device. The outflow graft is positioned in the aorta to provide flow via a continuous flow mechanism. Reproduced with permission from Mancini D, Colombo PC. Left ventricular assist devices: a rapidly evolving alternative to transplant. *J Am Coll Cardiol*. 2015 Jun 16;65:2542-2555.
 
-![](_page_6_Figure_2.jpeg)
+![](ch11-06_page_6_Figure_2.jpeg)
 
 FIGURE 73—7. Contemporary outcomes after left ventricular assist device (LVAD) implantation. With current-generation LVADs (A, HeartWare HVAD; B, HeartMate II), there has been gradual improvement of survival outcomes. In the destination therapy (DT) population, 1-year survival rates now exceed 70% and have improved in the postmarket surveillance phase. OMM, optimal medical management. C, reproduced with permission from Mancini D, Colombo PC. Left ventricular assist devices: a rapidly evolving alternative to transplant. J Am Coll Cardiol. 2015 Jun 16;65:2542–2555.
 
@@ -249,7 +249,7 @@ The unique physiology of continuous flow LVADs poses interesting challenges in s
 
 Contemporary LVADs are managed with both an anticoagulant and an antiplatelet agent. During the peri-implant period, heparin and aspirin are started after surgical bleeding slows, with heparin continuing until the INR is therapeutic. Recent data suggest that anti–factor Xa levels are a more accurate reflection of anticoagulation status than activated partial thromboplastin times in the MCS population.19 Recommendations regarding chronic antiplatelet drug dosing and target INR are device specific and largely empiric. Data from the HeartWare ADVANCE trial demonstrated that patients with an INR > 3.0 were at risk for hemorrhagic stroke, whereas those with an INR < 2.0 were at
 
-![](_page_7_Figure_7.jpeg)
+![](ch11-06_page_7_Figure_7.jpeg)
 
 **FIGURE 73–8.** Arterial pressure tracings after left ventricular assist device implantation. With increasing speed, there is reduced pulse pressure as a larger volume of blood is removed from the left ventricular apex. Aortic valve opening is gradually reduced until it closes completely to provide continuous systemic blood flow. BP, blood pressure; RPM, revolutions per minute. Reproduced with permission from Frazier OH, Myers TJ, Gregoric ID, Initial clinical experience with the Jarvik 2000 implantable axial-flow left ventricular assist system. *Circulation*. 2002 Jun 18;105:2855-2860.
 
@@ -305,7 +305,7 @@ Both surgical and nonsurgical bleeding are common adverse events associated with
 
 Nasal and gastrointestinal (GI) bleeding occur in 10% to 30% of LVAD patients, with 21% to 44% experiencing recurrence that often leads to readmission and invasive diagnostic and therapeutic procedures.61-66 It is postulated that GI bleeding is a consequence of continuous blood flow physiology. High shear stress on blood elements causes hematologic alterations in von Willebrand factor, as described earlier. Reduced pulse pressure leads to alterations in microcirculatory flow, promoting proliferation of arteriovenous malformations (AVMs) in the GI tract.55 AVMs have been identified as the bleeding source in up to one-third of GI bleeding events and are most commonly identified in the small bowel.67 The proposed pathophysiologic mechanisms by which continuous flow support promotes formation of AVMs are elevated intraluminal pressures and smooth muscle alterations causing
 
-![](_page_9_Figure_7.jpeg)
+![](ch11-06_page_9_Figure_7.jpeg)
 
 **FIGURE 73–9.** Outcomes after left ventricular assist device (LVAD) thrombosis. Mortality according to management strategy after confirmed pump thrombosis (axial flow LVAD). Patients with pump thrombosis who were managed with device replacement or transplantation experienced survival outcomes that were similar to the cohort who did not have pump thrombosis. Survival is diminished for the cohort with pump thrombosis who did not undergo replacement or transplantation. Adapted with permission from Starling RC, Moazami N, Silvestry SC, et al: Unexpected abrupt increase in left ventricular assist device thrombosis. *N Engl J Med*. 2014 Jan 2;370:33-40.71
 
@@ -325,7 +325,7 @@ importance of driveline infections cannot be underestimated; the majority of LVA
 
 The transition from pulsatile to continuous flow LVADs was driven in part by improved durability. Although this change has resulted in reduced need for LVAD exchange, device replacement is still occasionally required. Indications for LVAD exchange include device thrombosis, driveline electrical fault, and infection. The incidence of
 
-![](_page_10_Picture_2.jpeg)
+![](ch11-06_page_10_Picture_2.jpeg)
 
 **FIGURE 73–10.** Left ventricular assist device (LVAD) thrombosis. HeartMate II LVAD pump with inflow elbow and pump housing removed. Thrombus is seen near the inlet portion of the impeller mechanism. Reproduced with permission from Uriel N1, Morrison KA, Garan AR, et al: Development of a novel echocardiography ramp test for speed optimization and diagnosis of device thrombosis in continuous-flow left ventricular assist devices: the Columbia ramp study. *J Am Coll Cardiol.* 2012 Oct 30;60:1764-1775.22
 
@@ -341,7 +341,7 @@ At present, there are no VADs designed for chronic, out-of-hospital treatment of
 
 LVADs have been evaluated in patients with dilated cardiomyopathies. Patients with primarily restrictive physiology have limited options for mechanical support. Computer modelling suggests that an appropriately designed LVAD would provide important and clinically meaningful hemodynamic advantages for this patient population.83 A small experience from the Mayo Clinic described the outcomes of eight patients with restrictive and infiltrative cardiomyopathy.84 The hemodynamic benefits of LVAD were less pronounced in the restrictive/hypertrophic cardiomyopathy cohort compared to patients with dilated cardiomyopathy, but 12-month survival was similar. The surgical technique was varied and included LV myocardial resection to accommodate the device inflow cannula and promote more normal flow characteristics.
 
-![](_page_10_Picture_11.jpeg)
+![](ch11-06_page_10_Picture_11.jpeg)
 
 **FIGURE 73–11.** Surgical approach for replacement of axial flow left ventricular assist device. Peripheral cardiopulmonary bypass is established via right axillary artery and right percutaneous femoral venous cannulation. Through a left subcostal incision, the pump and power cord are replaced, while retaining the old inflow elbow and outflow graft. A separate arterial catheter introduced via the femoral artery can be positioned in the ascending aorta for the purpose of de-airing. Reproduced from Rogers JG, Jollis JG, Milano CA. Replacement of continuous-flow left ventricular assist device via left subcostal incision. *J Thorac Cardiovasc Surg*. 2012 Apr;143:975-976.
 
@@ -465,4 +465,4 @@ Mechanically assisted circulation has evolved over the past 10 years from a nich
 - 90. Birks EJ, Tansley PD, Hardy J, et al. Left ventricular assist device and drug therapy for the reversal of heart failure. *N Eng J Med*. 2006;355:1873-1884.
 - 91. Ascheim DD, Gelijns AC, Goldstein D, et al. Mesenchymal precursor cells as adjunctive therapy in recipients of contemporary left ventricular assist devices. *Circulation*. 2014;129:2287-2296.
 
-![](_page_14_Picture_0.jpeg)
+![](ch11-06_page_14_Picture_0.jpeg)

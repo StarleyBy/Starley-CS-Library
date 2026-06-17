@@ -114,7 +114,7 @@ As in the systemic circulation, the endothelium plays a key role in mediating va
 
 Hypoxia has been considered as a key mediator in PH associated with various parenchymal lung diseases including COPD. That hypoxemia
 
-![](_page_1_Figure_37.jpeg)
+![](ch12-03_page_1_Figure_37.jpeg)
 
 FIGURE. The pathophysiology of cor pulmonale. RV, right ventricular.
 

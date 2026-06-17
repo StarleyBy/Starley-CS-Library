@@ -42,7 +42,7 @@ Interestingly, periodic breathing (CSR) is not limited to sleep but can occur at
 
 Apnea is currently defined as a reduction in airflow by at least 90% of pre-event baseline for at least 10 seconds; hypopnea is defined as a reduction in airflow by at least 30% from baseline for at least 10 seconds, associated with a fall in arterial oxygen saturation of at least 3% or an arousal from sleep.16 In OSA, there is evidence of ongoing respiratory effort throughout the apneic-hypopneic event, often with paradoxical movement of the chest and abdomen as breathing against
 
-![](_page_1_Picture_2.jpeg)
+![](ch12-04_page_1_Picture_2.jpeg)
 
 FIGURE 77—1. Normal airflow during respiration (A) and common points of obstruction in a patient with obstructive sleep apnea (B). Modified with permission from Levitsky MG. Using the pathophysiology of obstructive sleep apnea to teach cardiopulmonary integration. Adv Physiol Educ. 2008 Sep;32:196-202.<sup>3</sup>
 
@@ -52,7 +52,7 @@ The severity of SDB is generally described by the average number of apneic and h
 
 15 events per hour, moderate as 15 to 30 events per hour, and severe as > 30 events per hour. The number and severity of oxygen desaturations may also be used as a metric of the severity of SDB. Additionally, those in whom > 50% of events are obstructive are labeled as having predominantly OSA, and those in whom > 50% of events are central are labeled as having predominantly CSA.
 
-![](_page_1_Figure_7.jpeg)
+![](ch12-04_page_1_Figure_7.jpeg)
 
 FIGURE 77—2. Pathophysiology of central sleep apnea in heart failure. BP, blood pressure; HR, heart rate; LV, left ventricular; O<sub>2</sub>, oxygen; PaCO<sub>2</sub>, partial pressure of arterial carbon dioxide; PaO<sub>2</sub>, partial pressure of arterial oxygen; SNA, sympathetic nerve activity. Reproduced with permission from Bradley TD, Floras JS. Sleep apnea and heart failure: part II: central sleep apnea. *Circulation*. 2003 Apr 8;107:1822-1826.<sup>11</sup>
 
@@ -90,7 +90,7 @@ Differences in the prevalence of SDB among individuals of varied racial and ethn
 
 Approximately 40% to 60% of cases of SDB are attributable to being overweight.35 It is estimated that a 1% increase in body mass index (BMI; kg/m2 ) is associated with a 3% increase in AHI.45 Excess body weight increases susceptibility to upper airway collapsibility by increased mechanical loading of the upper airway, which causes the upper airway to assume an elliptical, relatively collapsible shape, and by reducing resting lung volume, resulting in a loss of caudal traction on
 
-![](_page_3_Figure_2.jpeg)
+![](ch12-04_page_3_Figure_2.jpeg)
 
 FIGURE 77—3. Polygraph recordings from a patient with (A) obstructive sleep apnea and a patient with (B) central sleep apnea. Reproduced with permission from Pearse SG and Cowie MR. Sleep disorderd breathing in heart failure. Eur J Heart Fail. 2016 Apr; 18:353–361.<sup>21</sup>
 
@@ -146,7 +146,7 @@ There is some evidence for a hypercoagulable state in sleep apnea, which may con
 
 The potential links between SDB and cardiac disease are illustrated in Fig. 77–4.
 
-![](_page_5_Figure_10.jpeg)
+![](ch12-04_page_5_Figure_10.jpeg)
 
 FIGURE 77—4. Schematic of pathophysiologic components of obstructive sleep apnea (SA), activation of cardiovascular disease mechanisms, and consequent development of cardiovascular disease. Modified with permission from Somers VK, White DP, Amin R, et al. Sleep apnea and cardiovascular disease: an American Heart Association/American College of Cardiology Foundation Scientific Statement from the American Heart Association Council for High Blood Pressure Research Professional Education Committee, Council on Clinical Cardiology, Stroke Council, and Council on Cardiovascular Nursing. J Am Coll Cardiol. 2008 Aug 19;52:686–717.18
 
@@ -156,7 +156,7 @@ Observational studies of clinic-based patients have reported that patients with 
 
 The Australian Busselton Study of 397 participants followed for a mean period of 13.4 years reported an adjusted hazard ratio for mortality of 4.4 to 6.2 for moderate to severe SDB (AHI  $\geq 15$ ). The Wisconsin Sleep Cohort Study involving 1522 participants, with follow-up over a period of 18 years, demonstrated no significant increase in all-cause mortality in individuals with an AHI between 15 and 30 but demonstrated a significant hazard ratio of 2.7 to 3.8 for severe SDB (AHI  $\geq 30$ ). The much larger Sleep Heart Health Study, which included 6441 middle-aged and older adults with an average follow-up time of 8.2 years from several US communities, SDB was associated with increased all-cause and CVD-related mortality (Fig. 77–5). The association was strongest in men age 40 to 70 years with severe disease (AHI  $\geq 30$ ), with an adjusted hazard ratio of approximately 2.  $^{151}$ 
 
-![](_page_6_Figure_2.jpeg)
+![](ch12-04_page_6_Figure_2.jpeg)
 
 At risk: Deaths: 6294 0 6205 59 6110 143 6001 241 5868 359 5732 478 5566 616 5411 757 4756 875 2357 989 300 1046
 
@@ -208,7 +208,7 @@ An increase in ventricular arrhythmias in association with SDB was demonstrated 
 
 An AHI of > 20/h was a significant and independent risk factor for incident sudden cardiac death in a study of more than patients with HF referred for PSG.209 Coexisting HF and SDB (both OSA and CSA) increase the risk of developing malignant ventricular arrhythmia in patients with implanted cardioverter-defibrillators210 (Fig 77–6). Severe OSA also increases the risk of ventricular premature beats, nonsustained ventricular tachycardias, and nocturnal sudden cardiac death.203,211 It has been shown that an episode of AF or nonsustained ventricular tachycardias was almost 18 times more likely to occur within 90 seconds of an apnea or hypopnea compared with normal breathing.212
 
-![](_page_7_Figure_14.jpeg)
+![](ch12-04_page_7_Figure_14.jpeg)
 
 **FIGURE 77–6.** Kaplan-Meier plot on appropriate cardioverter-defibrillator therapies, arranged according to no sleep-disordered breathing (no SDB), obstructive sleep apnea (OSA), and central sleep apnea (CSA) with a cut off apnea-hypopnea index ≥ 5. Reproduced with permission from Bitter T, Westerheide N, Prinz C, et al. Cheyne-Stokes respiration and obstructive sleep apnoea are independent risk factors for malignant ventricular arrhythmias requiring appropriate cardioverter-defibrillator therapies in patients with congestive heart failure. *Eur Heart J*. 2011 Jan;32:61-74.210
 
@@ -246,7 +246,7 @@ One of the interesting features of SDB in patients with HF compared to general S
 
 Although effective treatment of HF may improve CSA/CSR,253,270 its negative prognostic impact persists even in patients who are receiving maximal and optimal HF therapy, including cardiac resynchronization.210,261 In addition, when present, CSA in acute decompensated HF
 
-![](_page_9_Figure_6.jpeg)
+![](ch12-04_page_9_Figure_6.jpeg)
 
 **FIGURE 77–7.** Prevalence of sleep-disordered breathing (SDB) by symptomatic severity of heart failure. CSA, central sleep apnea; NYHA, New York Heart Association; OSA, obstructive sleep apnea. Modified with permission from Jing J, Huang T, Cui W, et al: Effect on quality of life of continuous positive airway pressure in patients with obstructive sleep apnea syndrome: a meta-analysis. *Lung*. 2008 May-Jun;186:131-144.
 
@@ -292,11 +292,11 @@ PAP therapy delivered through a nasal or nasal-oral mask stabilizes the airway a
 
 An overnight PAP titration study is required to determine the optimal pressure setting that reduces the number of apneas/hypopneas during sleep, improves hypoxia and sleep architecture, and reduces arousals. Additional beneficial cardiovascular effects of CPAP include
 
-![](_page_10_Figure_16.jpeg)
+![](ch12-04_page_10_Figure_16.jpeg)
 
 FIGURE 77—8. Reduction in sleep apnea with the use of cardiac resynchronization therapy: meta-analysis of published studies. CI, confidence intervals; IV, inverse variance; SD, standard deviation. Reproduced with permission from Lamba J1, Simpson CS, Redfearn DP, et al: Cardiac resynchronization therapy for the treatment of sleep apnoea: a meta-analysis. Europace. 2011 Aug;13:1174-1179.
 
-![](_page_11_Figure_2.jpeg)
+![](ch12-04_page_11_Figure_2.jpeg)
 
 FIGURE 77—9. Different positive airway treatment modalities: (A) continuous positive airway pressure (CPAP) with fixed or automatically adjusted expiratory pressure (EPAP) to maintain upper airway patency; (B) bilevel positive airway pressure (BiPAP) with fixed EPAP and pressure support (PS) at inspiration (inspiratory pressure [IPAP]), usually with a fixed back-up rate to trigger breathing in respiratory insufficiency; and (C) adaptive servo-ventilation (ASV) with fixed or automatically adjusted expiratory pressure (minimal [EPAP<sub>min</sub>] and maximal [EPAP<sub>min</sub>] and maximal [EPAP<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and maximal [PS<sub>min</sub>] and
 
@@ -324,7 +324,7 @@ Some patients with HF and OSA develop CSR during CPAP administration, a finding 
 
 However, a high proportion of patients with CSA have residual apnea events despite CPAP therapy, suggesting that a more effective intervention is required.318 ASV has been shown to be the most effective intervention for controlling (central) SDB in patients with HF.319 ASV is a more sophisticated mode of noninvasive ventilation in which the ventilator increases inspiratory support during hypopnea, withdraws support during hyperventilation, provides mandatory breaths during apnea, and generates background positive airway pressure. Therefore, it is effective in both CSA and OSA and can suppress complex sleep apnea.314 Teschler and colleagues316 showed that ASV is more effective than CPAP or oxygen therapy in suppressing CSA events and is better tolerated by patients than CPAP (Fig. 77–10). ASV has also been
 
-![](_page_12_Figure_5.jpeg)
+![](ch12-04_page_12_Figure_5.jpeg)
 
 **FIGURE 77–10.** Relative effects of different treatments on sleep-disordered breathing in patients with central sleep apnea. ASV, adaptive servo-ventilation; CPAP, continuous positive airway pressure. Reproduced with permission from Teschler H, Dohring J, Wang YM, Berthon-Jones M. Adaptive pressure support servo-ventilation: a novel treatment for Cheyne-Stokes respiration in heart failure. *Am J Respir Crit Care Med*. 2001 Aug 15;164:614-619.316
 
@@ -346,9 +346,9 @@ Another area of interest is the use of ASV in patients with HFpEF and CSA/CSR. E
 
 Control ASV
 
-![](_page_13_Figure_2.jpeg)
+![](ch12-04_page_13_Figure_2.jpeg)
 
-![](_page_13_Figure_3.jpeg)
+![](ch12-04_page_13_Figure_3.jpeg)
 
 493 466 334 304 213 189 117 97
 
@@ -368,7 +368,7 @@ Administration of CO2 reduces AHI in CSA but at the expense of hyperventilation 
 
 Phrenic nerve stimulation is a new approach to the treatment of CSA/CSR, with initial results showing that it may improve central respiratory events by about 50%.350-352 This device is similar to a pacemaker, with an electrode that stimulates the phrenic nerve via the left pericardiophrenic or right brachiocephalic vein (Fig. 77–12). It can be implanted percutaneously under sedation in the catheter laboratory. The device unilaterally stimulates the phrenic nerve when no impulse is sensed
 
-![](_page_13_Picture_12.jpeg)
+![](ch12-04_page_13_Picture_12.jpeg)
 
 **FIGURE 77–12.** Chest radiograph of an implantable phrenic nerve stimulator therapy. The neurostimulator has been implanted in the right pectoral area, and the right subclavian approach was used to place the stimulation lead (*A*) in the left pericardiophrenic vein and the sensing lead (*B*) in the azygos vein. Reproduced with permission from Abraham WT, Jagielski D, Oldenburg O, et al: Phrenic nerve stimulation for the treatment of central sleep apnea. *JACC Heart Fail*. 2015 May;3:360-369.350
 
@@ -762,4 +762,4 @@ The author would like to thank Dr. Reena Mehra and Dr. Susan Redline, who contri
 - 354. Javaheri S, Sands S, Edwards B. Acetazolamide attenuates Hunter-Cheyne-Stokes breathing but augments the hypercapnic ventilatory response in patients with heart failure. *Ann Am Thorac Soc*. 2014;11:80-86.
 - 355. Fontana M, Emdin M, Giannoni A, Iudice G, Baruah R, Passino C. Effect of actezolamide on chemosensitivity, Cheyne-Stokes respiration, and response to effort in patients with heart failure. *Am J Cardiol*. 2011;107:1675-1680.
 
-![](_page_21_Picture_0.jpeg)
+![](ch12-04_page_21_Picture_0.jpeg)

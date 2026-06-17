@@ -102,7 +102,7 @@ Anxiety syndromes requiring psychiatric help are consistently associated with su
 
 Hostility is a negative cognitive state that has been widely studied with respect to its potential link to CVD. Hostility is a broad construct that encompasses the traits of anger, cynicism, and mistrust. Interest in this construct was an outgrowth of original work regarding "type A behavior pattern," a triad of hostility, impatience/time urgency, and a highly competitive drive that is no longer studied as a result of inconsistent findings regarding this proposed behavioral construct. A variety of studies have linked hostility/anger to various pathophysiologic determinants of CVD and to progression of atherosclerosis,9 but epidemiologic study in this arena has been inconsistent. A meta-analysis
 
-![](_page_2_Figure_2.jpeg)
+![](ch16-05_page_2_Figure_2.jpeg)
 
 **FIGURE 111–1.** Association between psychological distress as assessed by General Health Questionnaire (GHQ)-12 scores and the hazard ratios for all-cause mortality (*left*) and cardiovascular death (*right*) among individuals. Even mild elevations in GHQ-12 scores were associated with an elevated risk for all-cause mortality and cardiac death. Reproduced with permission from Russ TC, Stamatakis E, Hamer M, et al. Association between psychological distress and mortality: individual participant pooled analysis of 10 prospective cohort studies. *BMJ*. 2012 Jul 31;345:e4933.11
 
@@ -122,7 +122,7 @@ For instance, a recent meta-analysis found only a 1.23-fold increase in the inci
 
 Another common stressor is marital stress. Research in this regard has focused on both marital status and strain within marriages. A large
 
-![](_page_2_Figure_13.jpeg)
+![](ch16-05_page_2_Figure_13.jpeg)
 
 **FIGURE 111–2.** Comparison of the amount of atherosclerosis at necropsy (vertical axis) among male cynomolgus monkeys that were experimentally divided into "stable" groups (no regrouping) versus "unstable" groups (period regrouping, to ensure continual fighting among monkeys). All monkeys were fed the same atherogenic diet. Dominant males in the unstable group had substantially more atherosclerosis.
 
@@ -134,11 +134,11 @@ Acute and chronic illness can also produce stress. For instance, Edmondson et al
 
 Future study regarding situational stressors may further evaluate how individual differences in perceived stress may affect clinical outcomes. Individuals vary widely in their perceived sense of stress in response to a given life situation, depending on personality, resilient resources, and other factors. One of the interesting aspects regarding stress, in this regard, is an apparent U-shaped relationship between the degree of life adversity and an individual's sense of satisfaction (Fig. 111–4).31 A likely reason for this U-shaped relationship may be a basic human need to seek growth and meaning, as described by Ryff.32 That is, people are driven to seek goal-oriented activities and challenges, which provide a source of purpose, life satisfaction, and self-esteem. In the absence of
 
-![](_page_3_Figure_6.jpeg)
+![](ch16-05_page_3_Figure_6.jpeg)
 
 **FIGURE 111–3.** Mean hazard ratio (HR) for all-cause mortality by mean age in men and women experiencing divorce or separation, based on a meta-analysis of 104 studies. The HR was highest among young men, with the difference among men and women decreasing with increasing age. Reproduced with permission from Shor E, Roelfs DJ, Bugyi P, Schwartz JE. Meta-analysis of marital dissolution and mortality: reevaluating the intersection of gender and age. *Soc Sci Med.* 2012 Jul;75:46-59.25
 
-![](_page_3_Figure_8.jpeg)
+![](ch16-05_page_3_Figure_8.jpeg)
 
 **FIGURE 111–4.** U-shaped relationship between the magnitude of cumulative adversity and four measures of well-being: global distress, functional impairment, life satisfaction, and posttraumatic stress (PTS) symptoms as assessed among 2398 individuals reporting lifetime exposure to negative events. The presence of some versus no exposure to stress predicted lower global distress, functional impairment, and PTS symptoms and higher life satisfaction scores. Adapted with permission from Seery MD, Holman EA, Silver RC. Whatever does not kill us: cumulative lifetime adversity, vulnerability, and resilience. *J Pers Soc Psychol*. 2010;99:1025-41.31
 
@@ -152,7 +152,7 @@ A further aspect regarding perceived stress is the self-beliefs or concerns that
 
 As with chronic stress, the pathophysiologic effects of social isolation can be studied experimentally in social animal species. As summarized by Capiocci et al,35 placing social animals into isolation has been shown to produce adverse physiologic effects. A direct effect of social isolation upon atherosclerosis has been assessed quantitatively in female cynomolgus monkeys. Compared with dominant female monkeys, female monkeys who are submissive are more prone to atherosclerosis when fed a highcholesterol diet, but placing monkeys in a single cage results in
 
-![](_page_4_Figure_2.jpeg)
+![](ch16-05_page_4_Figure_2.jpeg)
 
 **FIGURE 111–5.** Comparison of the amount of atherosclerosis at necropsy among female cynomolgus monkeys in social groups and in monkeys that were housed in single cages, all fed the same atherogenic diet. Among the social groups, female monkeys that were submissive had more atherosclerosis, but the single caged monkeys had substantially greater atherosclerosis than the monkeys who were in groups. Data from Shively CA, Clarkson TB, Kaplan JR. Social deprivation and coronary artery atherosclerosis in female cynomolgus monkeys. *Atherosclerosis*. 1989 May;77:69-76.36
 
@@ -164,7 +164,7 @@ The role of social factors upon human health has been repeatedly demonstrated. T
 
 Socioeconomic status (SES) is generally characterized as a composite of factors, such as education, occupational status, economic resources, and social status. Longitudinal studies have consistently demonstrated a strong inverse gradient between various measures of SES and adverse
 
-![](_page_4_Figure_8.jpeg)
+![](ch16-05_page_4_Figure_8.jpeg)
 
 **FIGURE 111–6.** Age-adjusted mortality rates among men and women during a 9-year follow-up of Alameda County residents divided according to the size of their social network.
 
@@ -180,7 +180,7 @@ Similarly, psychological stressors are also potentiated when occurring among ind
 
 The pathophysiologic mechanisms by which psychosocial risk factors promote atherosclerosis and increase the risk for cardiac events has been extensively studied, both in human studies and in experimental animal studies. Psychosocial risk factors exert their deleterious effects by two basic pathways: a wide variety of direct pathophysiologic effects and negative impact on health behaviors (Fig. 111–9).9,21 When psychosocial stress is chronic, such as in depression, it can result in persistent activation of the hypothalamic-pituitary-adrenal axis and dysregulation of the sympathetic nervous system, leading to a rise in serum cortisol levels and elevated norepinephrine levels. The result is widespread systemic effects, which vary in presentation according to the type and magnitude of stress. In depression, these effects include autonomic dysfunction; a variety of endocrine-related abnormalities, including central obesity, insulin resistance, and a three-fold
 
-![](_page_5_Figure_2.jpeg)
+![](ch16-05_page_5_Figure_2.jpeg)
 
 **FIGURE 111–7.** Cumulative mortality curves among post—myocardial infarction patients followed for 36 month, according to baseline levels of education, life stress, and social isolation. When both life stress and social isolation were considered together, there was a substantially larger gradient of risk compared to consideration of either factor alone. Reproduced with permission from Ruberman W, Weinblatt E, Goldberg JD. et al: Psychosocial influences on mortality after myocardial infarction. *N Engl J Med.* 1984 Aug 30;311:552–559.<sup>46</sup>
 
@@ -188,7 +188,7 @@ increase in the risk for diabetes; increased risk for ovarian dysfunction and os
 
 There are two principal behavioral mechanisms by which psychosocial risk factors also exert their pathogenic effects. First, extensive
 
-![](_page_5_Figure_6.jpeg)
+![](ch16-05_page_5_Figure_6.jpeg)
 
 **FIGURE 111–8.** Cumulative incidence of cardiovascular death in the Cardiovascular Health Study. Both depression and physical inactivity each individually increased the risk of cardiovascular mortality, but when both were present, there was greater mortality than the presence of either risk factor alone. Reproduced with permission from Win S, Parakh K, Eze-Nliam CM, et al. Depressive symptoms, physical inactivity and risk of cardiovascular mortality in older adults: the Cardiovascular Health Study. *Heart*. 2011 Mar;97:500–505.<sup>50</sup>
 
@@ -206,7 +206,7 @@ An important construct in this regard is that of life purpose, which has been pr
 
 Another measure of positive health is the presence of vitality, defined as the subjective sense of feeling energetic, which is both pleasurable
 
-![](_page_6_Figure_2.jpeg)
+![](ch16-05_page_6_Figure_2.jpeg)
 
 **FIGURE 111–9.** Psychosocial risk factors promote coronary disease risk through two basic mechanisms: direct pathophysiologic effects, which may vary according to the type and intensity of psychosocial stress, and behavioral effects, including a greater propensity toward unhealthy behaviors when psychosocial stress is present and a decreased likelihood of adhering to behavioral recommendations. ANS, autonomic nervous system; BP, blood pressure; HR, heart rate.
 
@@ -214,7 +214,7 @@ and activating (ie, creating a greater tendency to do things).65 As previously p
 
 Kubzansky and Thurston66 assessed the significance of a baseline measurement of vitality in a 15-year follow-up of 6265 individuals who were initially free of CVD. A dose-response curve was evident between baseline vitality and subsequent development of CVD. Those having the highest vitality at baseline had the least development of
 
-![](_page_6_Figure_6.jpeg)
+![](ch16-05_page_6_Figure_6.jpeg)
 
 **FIGURE 111–10.** Each domain of behavioral and psychosocial functioning ranges along a continuum, from positive functioning that promotes health and longevity to negative functioning that is pathophysiologic and increases the risk for clinical events. Reproduced with permission from Rozanski A. Behavioral cardiology: current advances and future directions. *J Am Coll Cardiol*. 2014 Jul 8; 64:100-110.
 
@@ -230,7 +230,7 @@ First, exercise can favorably impact psychological mood, as evidenced through cr
 
 for depression, placebo, or no treatment found a large treatment effect for reducing depression among those randomized to exercise.72 The strongest evidence comes from three randomized trials conducted by Blumenthal and colleagues. In each trial, exercise training was as effective as antidepressant medication in the reduction of depressive symptoms.73-75 Second, exercise has been shown to improve executive function and cognitive vitality and appears to provide a protective effect against the development of dementia.76,77 Third, newer data indicate that exercise serves to reduce the pathophysiologic effects associated with psychosocial risk factors. For instance, studies indicate that physical fitness is associated with reduced heart rate, blood pressure, and cortisol responses to psychosocial stress.78 Physical fitness can also buffer the relationship between depression and inflammation,79 reduce the likelihood of impaired glucose metabolism in response to chronic stress,80 and reduce the effect of chronic stress on telomere length.81 Fourth, exercise can aid in the management of other health behaviors, including diet and sleep. Conversely, psychosocial interventions can be used to improve health behaviors, as will be discussed next.
 
-![](_page_7_Figure_2.jpeg)
+![](ch16-05_page_7_Figure_2.jpeg)
 
 **FIGURE 111–11.** Vitality, the subjective sense of feeling alive and energetic, is a composite variable of well-being that is promoted by both physical health and psychological well-being. Vitality is a resource for positive coping and for the regulation of negative emotions. In turn, resilience mechanisms such as successful coping and emotional regulation help preserve vitality. Adapted with permission from Rozanski A, Blumenthal JA, Davidson KW, et al: The epidemiology, pathophysiology, and management of psychosocial risk factors in cardiac practice: the emerging field of behavioral cardiology. *J Am Coll Cardiol*. 2005 Mar 1; 45:637-651.9
 
@@ -238,7 +238,7 @@ for depression, placebo, or no treatment found a large treatment effect for redu
 
 The management of patients' health behaviors is intrinsically challenging. Poor adherence to medication usage is common, and poor adherence to diet, exercise, and other behavioral suggestions is even more common. Physician management of patients' health behaviors can be addressed according to a three-component model of behavioral change: promoting patients' motivation for initiating behavioral change; assisting patients in their execution of behavioral health goals; and helping patients to sustain the long-term practice of new health behaviors. Each of these phases of behavioral change has its particular challenges. Instilling motivation is essential, as patients are unlikely to either initiate or maintain new health practices for long without motivation. However, motivation itself is often not sufficient. In fact, extensive study has shown that motivation only accounts for approximately 30% of the variance in human behavior. More often, patients fail to maintain new health behaviors either because of poor execution of health goals or because of relapse into old behavioral patterns. Representative techniques that can be used to assist patients in the management of their health behaviors are listed in Table 111–3.
 
-![](_page_7_Figure_6.jpeg)
+![](ch16-05_page_7_Figure_6.jpeg)
 
 **FIGURE 111–12.** Four mechanisms by which exercise promotes healthy behaviors and/or positive psychological well-being.
 
@@ -282,7 +282,7 @@ For this reason, it is helpful to capitalize on the inspiration provided by a cl
 
 Another important means for inducing goal execution is to promote the use of self-monitoring techniques. Self-monitoring serves as an anchor for self-awareness and personal feedback. For instance, overweight individuals who weigh themselves daily are more successful in maintaining weight loss compared to individuals who do not.86 Similarly, the use of pedometers promotes physical activity. For example, a review of medical studies found that the use of pedometers
 
-![](_page_8_Figure_7.jpeg)
+![](ch16-05_page_8_Figure_7.jpeg)
 
 **FIGURE 111–13.** Schematic representation of how patients' prioritization of health goals can be negatively affected by the phenomenon of "intertemporal discounting"—the universal tendency to overvalue goals that are presently oriented and undervalue those goals that are future oriented. While in the doctor's office, patients may become motivated to prioritize their health needs ahead of their work goals. However, when back in the real-world setting of their work life, patients will often tend to overvalue their work goals because of their immediate nature, while simultaneously undervaluing their health goals, which are not as pressing in nature.
 
@@ -296,7 +296,7 @@ Developing strategies to promote long-term maintenance is essential in promoting
 
 In addition, it is helpful to have patients develop a contingency plan for maintaining their health goals when stress, competing priorities, or other factors that loosen goal commitment intervene. During such times, the effort should be made to continue with some level of goal commitment rather than completely stop, because complete cessation of activity increases the risk that the health goal will not be reinstituted. For instance, if an individual has assumed a new goal of working out at a gym for 30 minutes each day, the contingency plan may be to reduce the goal to three workouts per week or a shorter walking regimen that can be accomplished without going to the gym.
 
-![](_page_8_Figure_14.jpeg)
+![](ch16-05_page_8_Figure_14.jpeg)
 
 **FIGURE 111–14.** Goal setting according to the use of implementation and obligation intentions. An implementation intention is the agreement to have one's behavior cued by an external stimulus ("X"), such as specific time, place, or designated situation. "Y" is the intended action. Obligation intentions add social support or social pressure to implementation intentions by designating a person or group ("Z") with whom a designated activity will be performed. Reproduced with permission from Rozanski A. Behavioral cardiology: current advances and future directions. *J Am Coll Cardiol*. 2014 Jul 8; 64:100-110.21
 
@@ -310,7 +310,7 @@ Physicians can readily screen for the presence of psychosocial risk factors and 
 
 Depending on severity, various psychosocial risk factors may be addressed directly by physicians without referral to staff or behavioral
 
-![](_page_9_Figure_7.jpeg)
+![](ch16-05_page_9_Figure_7.jpeg)
 
 **FIGURE 111–15.** Clinical management can be facilitated by a tiered approach to behavioral and psychosocial interventions, centered around basic screening and counseling functions that can be performed by the physician (tier 1), with referral of patients to ancillary office staff (tier 2), and/or by behavioral specialists or organized hospital or community programs (tier 3) when appropriate.
 
@@ -331,11 +331,11 @@ The second tier of psychosocial management calls for the referral of patients wi
 
 The third tier of psychosocial management involves the referral of patients with moderate to severe psychological dysfunction to appropriate mental health care specialists. For instance, patients who are recognized to be significantly depressed or highly anxious or who have high scores on the Patient Health Questionnaire or Generalized Anxiety Disorder scales should be referred to professionals who treat these psychiatric conditions. In addition, patients may be referred to specialists for other forms of overt psychological problems. For instance, those with high anger can be successfully treated by referral to anger management programs, and recent approaches have also been developed for treating pessimism.94 Those with severe sleep problems
 
-![](_page_10_Figure_2.jpeg)
+![](ch16-05_page_10_Figure_2.jpeg)
 
 **FIGURE 111–16.** Screening algorithm for depression in patients with coronary heart disease as suggested by an advisory from a combined council of the American Heart Association. \*Meets diagnostic criteria for major depression, has a Patient Health Questionnaire (PHQ)-9 score of 10 to 19, has had no more than one or two prior episodes of depression, and screens negative for bipolar disorder, suicidality, significant substance abuse, or other major psychiatric problems. †Meets the diagnostic criteria for major depression and has a PHQ-9 score ≥ 20; has had three or more prior depressive episodes; or screens positive for bipolar disorder, suicidality, significant substance abuse, or other major psychiatric problem. ‡If "Yes" to Question 9 "suicidal," immediately evaluate for acute suicidality. If safe, refer for more comprehensive clinical evaluation; if at risk for suicide, escort the patient to the emergency department. Reproduced with permission from Lichtman JH, Bigger JT Jr, Blumenthal JA, et al. Depression and coronary heart disease: recommendations for screening, referral, and treatment: a science advisory from the American Heart Association Prevention Committee of the Council on Cardiovascular Nursing, Council on Clinical Cardiology, Council on Epidemiology and Prevention, and Interdisciplinary Council on Quality of Care and Outcomes Research: endorsed by the American Psychiatric Association. *Circulation*. 2008 Oct 21;118:1768-1775.
 
-![](_page_10_Figure_4.jpeg)
+![](ch16-05_page_10_Figure_4.jpeg)
 
 **FIGURE 111–17.** A paradigm for linking moods and behaviors to tension and energy levels based on the work of Thayer.92 Their research found that when people experienced calmness with either high or low energy ("calm energy" or "calm tiredness"), positive moods prevailed. Under conditions of high tension, relatively positive moods still prevailed when individuals felt energetic ("tense energy"), but the state of tense-tiredness was associated with a substantial increase in negative moods and "quick fix" coping behaviors. Reproduced with permission from Herzog HE: *The Cardiac Care Unit Survival Guide*. Philadelphia: Wolters Kluwer Health/Lippincott Williams & Wilkins; 2012.
 

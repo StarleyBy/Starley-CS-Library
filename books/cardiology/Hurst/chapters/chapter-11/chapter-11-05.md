@@ -424,7 +424,7 @@ The lack of postganglionic sympathetic nerves in the transplanted heart results 
 
 Survival after heart transplantation has steadily improved in the past three decades (Fig. 72–3). In the 1980s, 1-year survival was 70%, and the conditional half-life, the time at which 50% of patients who survived the first year are still alive, was 9.4 years. In the 2015 report from the
 
-![](_page_8_Picture_2.jpeg)
+![](ch11-05_page_8_Picture_2.jpeg)
 
 **FIGURE 72–1.** Original biatrial technique for orthotopic heart transplantation. The *left panel* shows the completed recipient cardiectomy with the recipient atria transected at the midatrial level. The *right panel* shows the completed reanastomosis of the donor heart. Ao, aorta; LA, left atrium; PA, pulmonary artery; RA, right atrium. Reproduced with permission from Pahl E, Backer CL, Mavroudis C. *Heart transplantation at Children's Memorial*. The Children's Doctor: Journal of Children's Memorial Hospital, Chicago. Fall 1999.
 
@@ -432,11 +432,11 @@ International Society of Heart and Lung Transplantation (ISHLT) registry,12 1-ye
 
 3% to 4% is higher than that of the general population and likely exists because the processes responsible for long-term mortality, including cardiac allograft vasculopathy and malignancy, remain a challenge of detection and treatment. Thus, future improvements in post-transplant survival may result from interventions aimed at the detection and treatment of cardiac allograft vasculopathy and malignancy.
 
-![](_page_8_Picture_6.jpeg)
+![](ch11-05_page_8_Picture_6.jpeg)
 
 **FIGURE 72–2.** Bicaval technique for orthotopic heart transplantation. The *left panel* shows the completed recipient cardiectomy. The recipient atria are completed removed except for a cuff of tissue around the pulmonary vein orifices. The superior and inferior vena cavae are transected at their junction with the right atrium. The *right panel* shows the completed anastomoses of the donor heart at the level of the superior and inferior venae cavae and pulmonary veins. Ao, aorta; IVC, inferior vena cava; LA, left atrium; PA, pulmonary artery; SVC, superior vena cava. Reproduced with permission from Pahl E, Backer CL, Mavroudis C. *Heart transplantation at Children's Memorial*. The Children's Doctor: Journal of Children's Memorial Hospital, Chicago. Fall 1999.
 
-![](_page_9_Figure_2.jpeg)
+![](ch11-05_page_9_Figure_2.jpeg)
 
 **FIGURE 72–3.** Actuarial survival for adult and pediatric heart transplants patients performed between January 1982 and June 2013. The half-life is the time at which 50% of those transplanted remain alive, and the conditional half-life is the time to 50% survival for recipients surviving the first year after transplantation. Reproduced with permission from International Society for Heart and Lung Transplantation. 2015 Registry. 2015 [Accessed 10 May 2016]. Available from: [https://www.ishlt.org/registries/slides.asp?slides=heartLungRegistry.](https://www.ishlt.org/registries/slides.asp?slides=heartLungRegistry)
 
@@ -545,7 +545,7 @@ Abbreviations: GI, gastrointestinal; WBC, white blood cell.
 
 Two-hour peak cyclosporine levels are more reliable but are not practical and not routinely performed.
 
-![](_page_12_Figure_2.jpeg)
+![](ch11-05_page_12_Figure_2.jpeg)
 
 **FIGURE 72–4.** Trends in maintenance immunosuppression at 1 year in adult heart transplant recipients. MMF, mycophenolate mofetil; MPA, mycophenolic acid. From the International Society for Heart and Lung Transplantation. 2015 Registry. [https://www.ishlt.org/registries/slides.asp?slides=heartLungRegistry.](https://www.ishlt.org/registries/slides.asp?slides=heartLungRegistry) Accessed May.
 
@@ -586,7 +586,7 @@ Abbreviations: CNI, calcineurin inhibitor; GI, gastrointestinal; HIV, human immu
 
 laboratory markers for rejection in heart transplantation, and the endomyocardial biopsy remains the cornerstone of rejection surveillance. Despite its limitations (sampling error and interobserver variability of interpretation among pathologists), endomyocardial biopsy has remained the gold standard for the diagnosis of acute allograft rejection. It is performed via the right internal jugular vein or femoral vein by introducing a bioptome into the right ventricle and obtaining three to five pieces of endomyocardium, typically from the right ventricular septum (Fig. 72–5).
 
-![](_page_12_Picture_7.jpeg)
+![](ch11-05_page_12_Picture_7.jpeg)
 
 **FIGURE 72–5.** Endomyocardial biopsy via the right internal jugular vein.
 
@@ -606,7 +606,7 @@ Another emerging technology in the noninvasive diagnosis of rejection involves c
 
 The management of rejection proceeds in a stepwise fashion based on the severity of rejection detected on biopsy and the patient's presentation (Table 72–10). Biopsies with grade 1R or AMR 1, in the absence of clinical or hemodynamic compromise, generally merit no intervention.
 
-![](_page_13_Figure_10.jpeg)
+![](ch11-05_page_13_Figure_10.jpeg)
 
 **FIGURE 72–6.** 2004 International Society for Heart and Lung Transplantation (ISHLT) acute cellular rejection grading scheme. **A.** Mild acute rejection characterized by a perivascular cuff of mononuclear inflammatory cells without myocyte damage. This corresponds to focal mild grade 1R. **B.** Mild acute rejection characterized by a diffuse interstitial pattern. This corresponds to diffuse mild grade 1R. **C.** Mild acute rejection characterized by a solitary focus of mononuclear cells with rare myocyte damage. This corresponds to focal moderate 1R. **D.** Moderate acute rejection characterized by multiple foci of inflammation and myocyte damage. This corresponds to multifocal moderate 2R. **E.** Severe acute rejection showing dense interstitial infiltrates and myocyte damage. This corresponds to diffuse moderate, borderline severe grade 3R. **F.** Severe acute rejection corresponding to grade 3R.
 
@@ -616,7 +616,7 @@ Asymptomatic AMR is more challenging. It may be associated with poor outcomes,12
 
 For patients with HF symptoms or reduced ejection fraction, treatment is more aggressive, with intravenous corticosteroids and cytolytic
 
-![](_page_14_Figure_2.jpeg)
+![](ch11-05_page_14_Figure_2.jpeg)
 
 **FIGURE 72–7.** Acute antibody-mediated (humoral) rejection. **A.** Scanning magnification of endomyocardial biopsy specimen showing a mononuclear cell infiltrate within the endocardium. In the central part of the figure, the small vessel displays prominent endothelial cells. **B.** High-power magnification showing endothelial cell hyperplasia and perivascular edema. **C.** CD68 staining of interstitial and intravascular histiocytes. **D.** Strong, uniform staining of the microvascular for C4d, a marker of complement activation and deposition.
 
@@ -694,11 +694,11 @@ In CAV, the major epicardial vessels, their branches, and often the intramyocard
 
 CAV is usually beyond therapeutic intervention by the time symptoms develop, so surveillance is essential to monitor the development of CAV. Coronary angiography remains the mainstay of CAV detection, although it has limitations. Coronary angiography relies on the ability to compare normal segments of the vessel with diseased segments. The diffuse nature of CAV often results in underestimation of disease because there is no reference segment in which the normal diameter of the vessel can be assessed. Comparison with prior studies may help but requires the use of the same angiographic protocol at each study to avoid confounding by technical factors.
 
-![](_page_15_Picture_16.jpeg)
+![](ch11-05_page_15_Picture_16.jpeg)
 
 **FIGURE 72–9.** Coronary angiogram in a patient with severe cardiac allograft vasculopathy showing diffuse disease of the left anterior descending coronary artery, occlusion of the left circumflex coronary artery, and obliteration of the obtuse marginal branches.
 
-![](_page_16_Picture_2.jpeg)
+![](ch11-05_page_16_Picture_2.jpeg)
 
 **FIGURE 72–10.** Concentric or eccentric subintimal proliferations in cardiac allograft vasculopathy seen histologically (**A**) are underestimated in lesion severity angiographically (**B**) but are better appreciated by intravenous ultrasound (**C**). Reproduced with permission from Ahsan N: Chronic allograft failure: natural history, pathogenesis, diagnosis and management. Austin, TX: CRC Press; 2007.
 

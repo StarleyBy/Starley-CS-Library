@@ -129,7 +129,7 @@ The mechanism of dexrazoxane cardioprotection was originally attributed to the i
 
 Although the incidence of cardiomyopathy increases significantly in patients receiving cumulative doses of doxorubicin that exceed 450 mg/m2 , cardiomyopathy can still occur at lower cumulative doses.5 The mortality rate in patients with advanced stages of heart failure secondary to anthracycline cardiotoxicity is as high as 30% to 60%. The prognosis can be greatly altered if cardiac dysfunction is recognized early, the offending agent is promptly discontinued, and optimal treatment is instituted with a regimen including beta-blockers, angiotensinconverting enzyme (ACE) inhibitors, or angiotensin receptor blockers
 
-![](_page_3_Picture_2.jpeg)
+![](ch15-04_page_3_Picture_2.jpeg)
 
 **FIGURE 101–1.** Mechanism of anthracycline-induced cardiotoxicity. Doxorubicin disrupts the normal catalytic cycle of topoisomerase (Top) 2β, causing DNA double-stranded breaks. It further changes the transcriptome, leading to defective mitochondrial biogenesis and increase in reactive oxygen species (ROS). As a result, cardiomyocytes showed myofibrillar disarray and vacuolization. In the inset, dexrazoxane was shown to bind to Top2β to prevent anthracycline binding. Reproduced with permission from Vejpongsa P, Yeh ET. Prevention of anthracycline-induced cardiotoxicity: challenges and opportunities. *J Am Coll Cardiol*. 2014 Sep 2;64:938-945.
 
@@ -209,13 +209,13 @@ Hemochromatosis and iron overload (frequent transfusions)
 
 were developed and validated based on radionuclide MUGA (multigated acquisition) scans. These, though highly reproducible, have been largely replaced by echocardiography today, and as such, the algorithms validated for MUGA may be applied to echocardiography imaging. Widespread availability, feasibility, lack of radiation exposure, and acquisition of additional cardiac imaging information (valvular, pericardial, and hemodynamic data) make echocardiography an attractive option for serial imaging. Echocardiographic strain imaging has recently emerged as a promising method for detection of early cardiotoxicity prior to LV dysfunction. Three-dimensional echo imaging has shown promising results with least inter- and intraobserver variability and reproducibility, which could be comparable to MUGA. However, there are certain circumstances in which one technique is favored over the other. In pediatric patients, echocardiography is preferred because of the lack of ionizing radiation. In obese patients, however, adequate echocardiographic windows will be difficult to attain. Furthermore, the usefulness of echocardiography is limited in other variations of thoracic anatomy, such as emphysema, tight intercostal spaces, and heavily calcified ribs. Three-dimensional echocardiography is dependent on patient ability to hold the breath and requires a longer offline analysis. MUGA is less feasible in patients with arrhythmias as a result of poor electrocardiography-based triggering, which is more often seen in patients with heart failure. Regrettably, the choice of technique used is often not determined by the question of which method is more accurate or more suitable for the individual patient but is rather governed by the availability of local resources and personal experience. Therefore, all the described noninvasive techniques should be used as complementary.
 
-![](_page_5_Figure_2.jpeg)
+![](ch15-04_page_5_Figure_2.jpeg)
 
 **FIGURE 101–2.** Two-dimensional (2D) speckle-tracking echocardiogram-based strain in a patient with invasive ductal carcinoma. A patient with invasive ductal carcinoma (estrogen receptor negative, progesterone receptor negative, human epidermal growth factor receptor 2/neu positive), treated with the TCH regimen (docetaxel, carboplatin, and trastuzumab), had a baseline ejection fraction (EF) of 65%. The EF after 3 months of therapy was 58%. **A, B** utilize color to illustrate the global longitudinal strain (GLS) and regional strain values obtained at baseline (prechemotherapy) and 3 months after the initiation of trastuzumab-based regimen. The septal and anteroseptal segments exhibit abnormal regional strain after treatment. Reproduced with permission from Kongbundansuk S, Hundley WG2. Noninvasive Imaging of Cardiovascular Injury Related to the Treatment of Cancer. *JACC Cardiovasc Imaging*. 2014 Aug;7:824-838.
 
 Of particular interest in detecting early cardiotoxicity is the application of strain imaging, which is a measure of regional deformation of the myocardium. It is mainly obtained by angle-independent 2D speckle-tracking echocardiography, which can evaluate all three domains of myocardial mechanics (longitudinal, circumferential, and radial) and derive data for deformation and rate of deformation for each myocardial segment (Fig. 101–2). Two-dimensional speckletracking echocardiography has been used in multiple independent studies, reporting changes in cardiac (mechanical) function before a decrease in LVEF and even before changes in diastolic function after chemotherapy.15 Based on numerous studies of strain rate imaging during cancer chemotherapy, a greater than 10% change in global longitudinal strain (GLS) after completion of anthracycline-based chemotherapy relative to baseline is predictive of a future decrease in LVEF (Fig. 101–3). Conceivably, but subject to further studies, abnormal strain values before cancer therapy may signal higher baseline risk for chemotherapy-induced cardiotoxicity. Based on the above discussion, it seems appropriate to include strain imaging in monitoring algorithms for cardiotoxicity. Thereby, the ASE recommends strain rate imaging as an inherent part of a compreshensive echocardiogram for patients undergoing cancer chemotherapy. It also recommends 3D echocardiography as the preferred technique for monitoring of LV function and detecting CTRCD in patients with cancer, as LVEF determination by 2D echocardiography, with or without contrast, has
 
-![](_page_5_Figure_6.jpeg)
+![](ch15-04_page_5_Figure_6.jpeg)
 
 **FIGURE 101–3.** Bullseye plot showing GLS (global longitudinal strain) of a breast cancer patient. **A.** GLS and regional longitudinal strain at baseline. **B.** GLS and regional longitudinal strain 3 months during trastuzumabbased therapy after anthracyclines. GLS has decreased from –22.6% to –14.4% (30% decrease). The decrease in GLS is therefore considered of clinical significance (> 15% vs baseline). Reproduced with permission from Plana JC, Galderisi M, Barac A, et al: Expert consensus for multimodality imaging evaluation of adult patients during and after cancer therapy: a report from the American Society of Echocardiography and the European Association of Cardiovascular Imaging. *Eur Heart J Cardiovasc Imaging*. 2014 Oct;15:1063-1093.
 
@@ -434,9 +434,9 @@ Arterial thrombosis in cancer patients is most commonly associated with platelet
 
 The location of a thrombosis is of paramount importance with regard to how the thrombus will manifest itself. The extent and position of collateral vessels is also crucial in determining how the thrombus will
 
-![](_page_10_Figure_31.jpeg)
+![](ch15-04_page_10_Figure_31.jpeg)
 
-![](_page_10_Figure_32.jpeg)
+![](ch15-04_page_10_Figure_32.jpeg)
 
 **FIGURE 101–4. A, B.** Two views from a transesophageal echocardiogram showing a large thrombus in the right atrium (RA) associated with an indwelling catheter.
 
@@ -450,7 +450,7 @@ The diagnostic approaches used to detect thrombosis, either venous or arterial, 
 
 The optimal treatment of VTE is a challenge in cancer patients. Typically, these patients are at increased risk for bleeding and because they are often concurrently anemic, the consequences of bleeding are increased and disproportionate. Additional aggravating factors may be thrombocytopenia, hepatic failure, renal dysfunction, or development of a thrombus in a location that may predispose to bleeding
 
-![](_page_11_Picture_7.jpeg)
+![](ch15-04_page_11_Picture_7.jpeg)
 
 **FIGURE 101–5.** A contrast-enhanced computed tomography scan showing a massive pulmonary embolus (*arrow*).
 
@@ -478,7 +478,7 @@ The basic mechanism of cardiotoxicity seems to involve damage to blood vessels, 
 
 Multiple predisposing factors facilitating the development of radiationinduced cardiotoxicity have been recognized thus far, including total radiation dose and dose per fraction, the volume of heart irradiated, and the concurrent administration of additional cardiotoxic agents, such as anthracyclines and trastuzumab. Younger age at the time of irradiation
 
-![](_page_12_Figure_9.jpeg)
+![](ch15-04_page_12_Figure_9.jpeg)
 
 *Pathophysiological manifestations of radiation-induced heart disease*
 
@@ -516,7 +516,7 @@ Both primary and metastatic tumors occur in the pericardium. Tumors are found to
 
 The most common primary malignant tumor of the pericardium is *mesothelioma*; it usually presents in middle-aged adults, and men are afflicted more often than women. It is uncertain if this gender-related
 
-![](_page_14_Figure_2.jpeg)
+![](ch15-04_page_14_Figure_2.jpeg)
 
 **FIGURE 101–7.** Algorithm for patient management after chest radiotherapy. CAD, coronary artery disease; CRM, cardiac magnetic resonance; LV, left ventricle; US, ultrasound. Reproduced with permission from Lancellotti P, Nkomo VT, Badano LP, et al: Expert consensus for multi-modality imaging evaluation of cardiovascular complications of radiotherapy in adults: a report from the European Association of Cardiovascular Imaging and the American Society of Echocardiography. *Eur Heart J Cardiovasc Imaging*. 2013 Aug;14:721-740.
 
@@ -587,11 +587,11 @@ Constitutional manifestations
 
 On microscopic examination, the myxoma consists of an acid mucopolysaccharide myxoid matrix in which polygonal cells and occasional blood vessels are embedded. Channels, often containing red blood cells, communicate from the surface to deep within the tumor and are lined by endothelial-like cells resembling multipurpose mesenchymal cells, from which the tumor is purported to arise. Similar endothelial
 
-![](_page_15_Figure_11.jpeg)
+![](ch15-04_page_15_Figure_11.jpeg)
 
 **FIGURE 101–8.** Parasternal long axis of a large circumferential pericardial effusion (PE) with involvement of the right ventricle with metastatic angiosarcoma (*arrow*) from the gluteal region. The right ventricular cavity and free wall have been infiltrated with the metastatic tumor. Used with permission from Gagan Sahni, MD. Mount Sinai Hospital, New York, NY.
 
-![](_page_16_Picture_2.jpeg)
+![](ch15-04_page_16_Picture_2.jpeg)
 
 **FIGURE 101–9.** Transesophageal echocardiogram in the four-chamber view from a 50-year-old man who presented with exertional dyspnea and syncope. A large left atrial myxoma (M) attached to the interatrial septum is seen prolapsing across the mitral valve (MV) into the left ventricle (LV) in diastole (right panel). LA, left atrium. Used with permission from Susan Wilansky, MD, Medical Director, Noninvasive Imaging, St. Luke's Episcopal Hospital, Houston, Texas.
 

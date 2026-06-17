@@ -58,7 +58,7 @@ A patient with symptoms consistent with ACS should have an ECG performed and int
 
 Mismatch between myocardial oxygen supply and demand is the cause of myocardial ischemia. Most cases of UA/NSTEMI are attributable to acute reductions in myocardial oxygen supply, which are caused by a platelet-rich thrombus that develops after rupture or erosion of an atherothrombotic plaque (see Chaps., and 38). The thrombus may be flow limiting but usually does not completely occlude the epicardial lumen; microembolization of platelet aggregates
 
-![](_page_1_Figure_2.jpeg)
+![](ch07-08_page_1_Figure_2.jpeg)
 
 **FIGURE 39–1.** Framework for definition of the acute coronary syndromes. Syndromes presenting without ST-segment elevation on the 12-lead electrocardiogram are further subcategorized by the presence or absence of an elevated cardiac troponin concentration. Acute coronary syndromes without troponin elevation would be classified as unstable angina pectoris, whereas the presence of an elevated troponin concentration in the absence of ST-segment elevation defines patients with non–ST-segment elevation myocardial infarction.
 
@@ -190,7 +190,7 @@ ECG abnormalities may appear or progress in the absence of new symptoms or signs
 
 Biochemical cardiac markers are useful for both the diagnosis of myocardial necrosis and the estimation of prognosis. Cardiac troponins are the preferred biomarkers for the diagnosis of myocardial infarction (MI), whereas the MB band of creatine kinase (CK-MB) is a less preferred option and should only be used when troponin is not available.6 Cardiac troponins T and I (cTnT and cTnI) are structural components of the cardiac contractile apparatus (they are not enzymes) and are found not only in the sarcomere of the cardiomyocyte, but also in small concentrations within the cytosol. Both cTnT and cTnI are thought to be nearly entirely cardiac in origin; this confers very high cardiac specificity. Numerous studies have demonstrated that even minor troponin elevations are independently associated with adverse events in populations with non–ST-segment elevation ACS.7 Many of these
 
-![](_page_3_Figure_2.jpeg)
+![](ch07-08_page_3_Figure_2.jpeg)
 
 **FIGURE 39–2.** Electrocardiogram recorded during an episode of chest pain at rest in a patient with unstable angina. ST-segment depression above 1 mm is present in leads V4 to V6 . This abnormality was not present on the baseline tracing. The chest pain and ST-segment depression disappeared promptly after the administration of sublingual nitroglycerin.
 
@@ -198,7 +198,7 @@ patients will have normal levels of CK-MB. Coronary angiographic trials have dem
 
 As troponin assays become more sensitive, the proportion of individuals with elevation continues to increase; with current assays, more than 30% of individuals with a presentation of UA/NSTEMI have detectable levels of cTnI or cTnT, and with more sensitive assays that will soon be clinically available, the proportion is two- to three-fold higher. Such highly sensitive troponin (hsTn) assays are increasingly available in several countries. The main advantages of hsTn assays
 
-![](_page_3_Figure_6.jpeg)
+![](ch07-08_page_3_Figure_6.jpeg)
 
 **FIGURE 39–3.** Electrocardiogram recorded during a pain-free interval from a patient hospitalized with unstable angina. The negative T waves in leads V1 to V4 had been upright on a previous tracing. The culprit lesion was located in the left anterior descending coronary artery.
 
@@ -214,7 +214,7 @@ As troponin assays become increasingly sensitive, elevations from causes other t
 
 At present, few data are available to help clinicians distinguish ACS causes of troponin elevation from other causes. Elevations caused by ACS are usually of a greater magnitude and should demonstrate a dynamic pattern characterized by a transient increase or decrease in values. Demonstration of a transient increase or decrease may improve the specificity for ACS. When a cause other than ACS is suspected, treatment should focus on the underlying disease process. An echocardiogram should be considered, given the frequent association of chronic troponin elevation with cardiac structural abnormalities. Empiric treatment with aspirin (ASA) is recommended unless contraindicated, and in selected individuals, empiric treatment with β-blockers and an evaluation for ischemia may be considered after the acute illness has been stabilized.
 
-![](_page_4_Figure_9.jpeg)
+![](ch07-08_page_4_Figure_9.jpeg)
 
 **FIGURE 39–4.** Comparison of the diagnostic sensitivity and specificity (expressed as area under the receiver operating characteristic [ROC] curve) for acute myocardial infarction as judged by conventional troponin T versus several highly sensitive troponin assays. Among patients with chest pain, the more sensitive troponin methods were more likely to be abnormal at presentation, compared to conventional troponin methods, whose accuracy was better at later time points. Data from Reichlin T, Hochholzer W, Bassetti S, et al: Early diagnosis of myocardial infarction with sensitive cardiac troponin assays, *Engl J Med*. 2009 Aug 27;361:858-67
 
@@ -296,9 +296,9 @@ In contrast to the high sensitivity of CTA for plaque presence, specificity is a
 
 Randomized comparative effectiveness studies suggest that appropriate use of CTA in patients at low to moderate risk for ACS may reduce need for hospital discharge and shorten time to disposition from the emergency department.27 In such studies, CTA was highly sensitive to detect presence of coronary atherosclerosis and thus provided high sensitivity for ACS. Outcomes were largely the same in
 
-![](_page_6_Picture_2.jpeg)
+![](ch07-08_page_6_Picture_2.jpeg)
 
-![](_page_6_Picture_3.jpeg)
+![](ch07-08_page_6_Picture_3.jpeg)
 
 **A B**
 
@@ -486,7 +486,7 @@ These findings, considered together with other trials comparing timing of PCI af
 
 A detailed discussion of noninvasive stress testing in patients with CAD is presented in the ACC/AHA Guidelines for Exercise Testing,
 
-![](_page_11_Figure_2.jpeg)
+![](ch07-08_page_11_Figure_2.jpeg)
 
 FIGURE 39—6. Algorithm for the management of patients with definite or likely non—ST-segment elevation acute coronary syndrome (NSTE-ACS) from the 2014 American Heart Association/American College of Cardiology non—ST-segment myocardial infarction guidelines. †In patients who have been treated with fondaparinux (as upfront therapy) who are undergoing percutaneous coronary intervention (PCI), an additional anticoagulant with anti-lla activity should be administered at the time of PCI because of the risk of catheter thrombosis. ASA, aspirin; CABG, coronary artery bypass graft; cath, catheter; COR, Class of Recommendation; DAPT, dual antiplatelet therapy; GPI, glycoprotein Ilb/Illa inhibitor; LOE, Level of Evidence; pts, patients; UFH, unfractionated heparin. Reproduced with permission from Amsterdam EA, Wenger NK, Brindis RG, et al: 2014 AHA/ACC Guideline for the Management of Patients with Non-ST-Elevation Acute Coronary Syndromes: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2014 Dec 23;64:e139-e228
 
@@ -657,7 +657,7 @@ Although cardiogenic shock is much less common in patients with NSTE-ACS compare
 
 Spontaneous dissection of the coronary artery (SCAD) is an increasingly recognized cause of ACS, particularly in women age 30 to 50 years. The pathophysiology of SCAD is unknown; many cases occur in situations such as uncontrolled hypertension, in the puerperium, in those with fibromuscular dysplasia, or as a complication of disorders of collagen integrity, such as Marfan syndrome. The diagnosis of SCAD should be entertained when younger (usually female) patients present with symptoms and signs of acute coronary ischemia in the absence of
 
-![](_page_18_Picture_2.jpeg)
+![](ch07-08_page_18_Picture_2.jpeg)
 
 **FIGURE 39–7.** Invasive coronary angiogram of a patient with spontaneous coronary artery dissection. Diffuse irregularity of the left anterior descending artery is noted, along with extension into side branches, including the diagonal artery.
 
@@ -671,7 +671,7 @@ Widely recognized as an ACS "mimic," stress cardiomyopathy (also known as "apica
 
 Stress cardiomyopathy most often follows an acute emotional stress, such as the death of a loved one, and may appear indistinguishable from a high-risk ACS, with typical angina, rise and fall of troponin, and onset of heart failure symptoms. Characteristic ECG changes of stress cardiomyopathy include development of symmetric T-wave inversion in most leads; however, such changes are not specific enough to stress cardiomyopathy to avoid diagnostic coronary angiography. At angiography, nonobstructed coronary arteries are the rule, along with characteristic myocardial dysfunction of the LV apex, with compensatory basal hyperkinesis (Fig. 39–8).
 
-![](_page_18_Picture_9.jpeg)
+![](ch07-08_page_18_Picture_9.jpeg)
 
 **FIGURE 39–8.** Characteristic left ventriculogram of a patient with stress cardiomyopathy. Also known as "apical ballooning" or takotsubo syndrome (the latter because of the similar appearance of the affected left ventricle to a Japanese octopus trap), this syndrome is a common mimic of acute coronary syndrome, often presenting with chest pain, abnormal electrocardiogram, and elevation in cardiac troponin. Reproduced with permission from Abe Y, Kondo M, Matsuoka R, et al: Assessment of clinical features in transient left ventricular apical ballooning. *J Am Coll Cardiol*. 2003 Mar 5;41:737-742.
 

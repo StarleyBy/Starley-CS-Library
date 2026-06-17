@@ -42,7 +42,7 @@ Although ball-and-cage valves are no longer commercially available, patients wit
 
 Monoleaflet valves, in which a single circular disc tilts to occlude or open the valve orifice, were introduced 1969. The Bjork-Shiley (Shiley Laboratories) valve was the first such valve approved for clinical use, and was implanted in over patients. The Medtronic-Hall valve (Medtronic Irvine, CA), which consists of a pyrolytic carbon-coated
 
-![](_page_1_Figure_2.jpeg)
+![](ch08-07_page_1_Figure_2.jpeg)
 
 **FIGURE 52–1.** Currently available surgical prosthetic heart valves from the major manufacturers. Courtesy of Medtronic, Inc., Minneapolis, MN; St. Jude Medical, Inc., Minneapolis, MN; Sorin Group, Inc., Milan, Italy; On-X Life Technologies, Inc., Austin, TX; Edwards Lifesciences, Ltd., Irvine, CA.
 
@@ -52,7 +52,7 @@ disc in titanium housing, has only recently been discontinued.16 The main advant
 
 Bileaflet valves, such as the Regent valve (the most recent evolution of the bileaflet design by St. Jude Medical, Minneapolis, MN), are the most widely used mechanical valve prostheses today (see Fig. 52–1). First implanted in 1977, bileaflet prostheses rapidly superseded monoleaflet
 
-![](_page_2_Figure_2.jpeg)
+![](ch08-07_page_2_Figure_2.jpeg)
 
 FIGURE 52—2. Estimated national volume of bioprosthetic and mechanical aortic valve replacement procedures, by year, from 1998 to 2011(left). Percentage of aortic valve replacements in which bioprosthetic valves were implanted, over time, by patient age (right). Reproduced with permission from Isaacs AJ, Shuhaiber J, Salemi A, et al: National trends in utilization and in-hospital outcomes of mechanical versus bioprosthetic aortic valve replacements. *J Thorac Cardiovasc Surg*. 2015 May:149:1262–1269.
 
@@ -64,7 +64,7 @@ Bioprosthetic valves were developed in an effort to find a nonthrom-bogenic alte
 
 Modern bioprosthetic valves are constructed from animal tissue, predominantly bovine pericardium or porcine aortic valves, both fixed
 
-![](_page_2_Figure_8.jpeg)
+![](ch08-07_page_2_Figure_8.jpeg)
 
 **FIGURE 52—3.** Profile and hemodynamics of each main valve type. **A.** Whereas ball and cage valves are associated with a lack of central blood ejection fraction, tilting disc valves are associated with turbulent blood flow at the lesser orifice. **B.** Bileaflet valves have the lowest profile compared with ball and cage valves and tilting disc valves.
 
@@ -78,7 +78,7 @@ in contemporary surgical practice are stented valves, and include second-generat
 
 Initially the pericardial valve leaflets were stitched onto the stent, a structural weakness that was addressed by mounting the pericardial tissue onto a stent that did not require stitching in the Carpentier-Edwards Perimount valve and its subsequent iteration the Carpentier-Edwards Perimount Magna valve which was constructed with a narrower sewing cuff for suprannular implantation. In an effort to increase the effective orifice area for a given valve size, the stent was placed outside rather than inside the pericardial leaflets in the Mitroflow valve (Sorin). Given the asymmetry of porcine valves, the right coronary cusp was replaced with a leaflet from another porcine valve to produce the Hancock Modified Orifice valve in an attempt to improve the hemodynamic profile of the new generation of porcine valves.
 
-![](_page_3_Picture_2.jpeg)
+![](ch08-07_page_3_Picture_2.jpeg)
 
 **FIGURE 52–4.** Valve replacement with a biological porcine valve (top left and bottom left), a biological bovine pericardial valve (top right), and a double disc mechanical valve (bottom right). Used with permission from David H. Adams, MD.
 
@@ -98,7 +98,7 @@ Transcatheter prostheses consist of glutaraldehyde-fixed pericardium, mounted on
 
 Randomized and observational data suggests that, for most patients undergoing valve replacement, there is no significant survival benefit with one prosthesis type over another.26-31 The most important determinants of survival after valve replacement are patient related rather than prosthesis related: optimal valve selection hinges on the tradeoff between the increased risk of thromboembolic and hemorrhagic complications associated with mechanical valve replacement and lifelong anticoagulation, versus the risk of reoperation for structural valve degeneration associated with bioprosthetic valve replacement.5,6 Consequently, the most influential factors to consider when deciding between mechanical and bioprosthetic valve replacement include the recipient's estimated life-expectancy, barriers to lifelong anticoagulation, and patient preference (Figs. 52–6 and 52–7).
 
-![](_page_4_Picture_2.jpeg)
+![](ch08-07_page_4_Picture_2.jpeg)
 
 **FIGURE 52–5.** Aortic valve replacement with a mechanical prosthesis (left), a bioprosthesis (center), and a stentless valve (right). Note the need for coronary reanastomosis in the latter.
 
@@ -118,7 +118,7 @@ Patients who undergo heart valve replacement exchange valvular heart disease for
 
 At 6 to 12 weeks after surgery, a complete evaluation including clinical history and examination, 12-lead EKG, and transthoracic echocardiography should be performed to assess functional status, blood pressure and rhythm, ventricular function, prosthetic valve function, gradients, and any paravalvular regurgitation; as well as a review of anticoagulation adherence.40,41 Consensus guidelines recommend annual and symptom-triggered follow-up by a cardiologist for life, with the aim of detecting prosthesis dysfunction and progression of other valvular heart disease. Specifically, transthoracic echocardiography should be performed annually after the fifth year postoperatively in patients with bioprosthetic valves; earlier in young patients who are at higher risk of accelerated valve dysfunction; and in any patient with a prosthetic valve if any new symptoms occur or there is clinical suspicion of complications based on clinical examination. Transprosthetic gradients should be
 
-![](_page_5_Figure_2.jpeg)
+![](ch08-07_page_5_Figure_2.jpeg)
 
 Age cut-off for MVR changes to < 65 years (instead of < 60), and to > 65 (instead of 70) for AVR
 
@@ -150,7 +150,7 @@ if the patient has a subtherapeutic INR by postoperative day 4 or 5. Anticoagula
 
 Interruption of anticoagulant therapy in patients with mechanical valves may be needed electively, for surgical and interventional procedures or pregnancy; or emergently in the setting of potentially life-threatening hemorrhage. The risk of thromboembolism and valve thrombosis is less than 1% per day in a patient with a mechanical valve and a subtherapeutic INR, but the risk of these potentially catastrophic complications generally outweighs the benefits of anticoagulation cessation for relatively minor procedures such as dental extraction, diagnostic cardiac catheterization, and cataract removal. For more major elective surgery requiring an INR < 2.0, patients should be bridged to operation once warfarin is stopped with unfractionated heparin. The use of low molecular weight heparin is not approved for this purpose in patients with mechanical valves.5,6 For those patients with a single subtherapeutic INR in the outpatient setting, low molecular weight
 
-![](_page_7_Figure_2.jpeg)
+![](ch08-07_page_7_Figure_2.jpeg)
 
 **FIGURE 52–8.** Survival after aortic (*top* and *bottom*) and mitral valve replacement (*middle*) in middle-aged patients. AVR, aortic valve replacement; MVR, mitral valve replacement. Adapted with permission from Zhao DF, Seco M1, Wu JJ, et al: Mechanical Versus Bioprosthetic Aortic Valve Replacement in Middle-Aged Adults: A Systematic Review and Meta-Analysis. *Ann Thorac Surg*. 2016 Jul;102:315-327.
 
@@ -306,11 +306,11 @@ NYHA, New York Heart Association.
 
 DatafromAkinsCW, Miller DC,Turina MI,etal. Guidelines for reportingmortalityandmorbidityafter cardiacvalve interventions. *Eur J Cardiothorac Surg*. 2008 Apr;33:523-528.
 
-![](_page_13_Figure_8.jpeg)
+![](ch08-07_page_13_Figure_8.jpeg)
 
 **FIGURE 52–9.** The measured internal orifice area differs from the manufacturer's size: Dimensions for the Toronto stentless porcine valve (SPV), Carpentier-Edwards porcine valve (CE), Hancock II valve (HT), and HancockModified Orificevalve(MO).Reproduced withpermissionfromChristakis GT,ButhKJ, GoldmanBS, et al: Inaccurate and misleadingvalve sizing: aproposedstandardfor valve sizenomenclature. *Ann Thorac Surg*.1998 Oct;66:1198-1203.
 
-![](_page_14_Picture_2.jpeg)
+![](ch08-07_page_14_Picture_2.jpeg)
 
 **FIGURE 52–10.** Operative views of failed mitral valve replacements with mechanical prostheses. Subvalvular calcification and pannus formation in a patient with a monoleaflet mechanical prosthesis (top left). Pannus ingrowth and severe thrombosis in a patient with a bileaflet mechanical prosthesis (top right). Growth of a subvalvular membrane causing inflow obstruction and valve dysfunction in a patient with a monoleaflet mechanical prosthesis (bottom left). Paravalvular leak (bottom right). Used with permission from David H. Adams, MD.
 
@@ -326,7 +326,7 @@ In an analysis of Medicaid patients, age less than 55 years was one of the stron
 
 In developing countries where rheumatic valve disease is especially prevalent in younger patients and long-term access to healthcare most challenging, these challenges affect a large number of patients.76 In a multinational registry of patients with rheumatic heart disease in predominantly low- and middle-income countries, almost 10% of patients with mechanical valves were not taking oral anticoagulants, 12% of patients on oral anticoagulants had no access to INR monitoring, and 34% had undergone three or fewer INR checks in the 6 months prior to
 
-![](_page_15_Figure_2.jpeg)
+![](ch08-07_page_15_Figure_2.jpeg)
 
 **FIGURE 52–11.** Operative views of failed mitral valve replacements with bioprostheses. Leaflet tear, calcification, and perforation in a patient with acute endocarditis (top left). Paravalvular leak (top right). Amplatzer vascular plug occluders in a patient with a paravalvular leak (middle left). Subvalvular view showing up to seven devices to attempt percutaneous repair of the paravalvular leak (middle right). Calcification and leaflet stiffness over time (bottom left) Thrombus and pannus formation (bottom right). Used with permission from David H. Adams, MD.
 
@@ -344,7 +344,7 @@ Long-term stroke risk after aortic valve replacement does not appear to be affec
 
 Valve thrombosis is any thrombus in the absence of infection attached to or near an operated valve that occludes part of the blood flow path or that interferes with the function of the valve (see Figs. 52–10 and 52–11). Mechanical valve thrombosis generally occurs in the setting of
 
-![](_page_16_Figure_9.jpeg)
+![](ch08-07_page_16_Figure_9.jpeg)
 
 **FIGURE 52–12. A.** International normalized ratio (INR)—specific incidence of all adverse events in patients with mechanical valves (all episodes of thromboembolism, all major bleeding episodes, and unclassified stroke) according to INR. The dotted lines represent the 95% confidence interval and according to INR, age, and position of valve. **B.** Incidence of thromboembolic events according to INR and patient age (upper graph) or prosthesis position (lower graph). Modified with permission from Cannegieter SC, Rosendaal FR, Wintzen AR, van der Meer FJ, Vandenbroucke JP, Briet E. Optimal oral anticoagulant therapy in patients with mechanical heart valves. *N Engl J Med.* 1995; July 6;333:11–17.
 
@@ -382,9 +382,9 @@ Echocardiography is the mainstay of surveillance and diagnosis, with transesopha
 
 Reoperation is the definitive management for selected patients with low predicted operative mortality. The need for reoperation is higher after bioprosthetic compared to mechanical valve replacement in patients < 70 years of age (Fig. 52–14). By 15 years after surgery, 12.1% of patients aged 50 to 69 years with bioprostheses had undergone aortic valve reoperation, compared to 6.9% with mechanical prostheses. Only one randomized study was designed to detect differences in long-term mortality and major morbidity in this age group,31 and larger retrospective analyses are limited to single-center studies with follow-up dependent on patients returning to the same institution. In patients aged 18 to 49 years, our most recent analysis of outcomes in New York State showed an almost 50% reduction in reoperation at 15 years from 22.6% to 9.8% with mechanical aortic valve replacement compared to bioprosthetic valve replacement (manuscript in press). This difference in reoperation did not appear to affect long-term survival: one reason for this may be that the 30-day mortality associated with reoperation on bioprosthetic valves was very low in this cohort, at only 2.7%.
 
-![](_page_18_Figure_9.jpeg)
+![](ch08-07_page_18_Figure_9.jpeg)
 
-![](_page_18_Figure_10.jpeg)
+![](ch08-07_page_18_Figure_10.jpeg)
 
 **FIGURE 52–13.** Relationship between freedom from structural valve degeneration (SVD) at 12 years and mean patient age at implantation for aortic (**A**) and mitral (**B**) bioprostheses. Each symbol represents one series; pericardial valves are represented by *squares*, "second-generation" valves are represented by *circles*, and first-generation porcine valves are represented by *unenclosed letters*. Reproduced with permission from Grunkemeier GL, Li HH, Naftel DC, Starr A, Rahimtoola SH. Long-term performance of heart valve prostheses. *Curr Probl Cardiol*. 2000 Feb;25,.
 
@@ -445,7 +445,7 @@ A patient with a mechanical valve has a linear risk of approximately 5% to 10% o
 
 The operative mortality associated with reoperation in contemporary series is 2% to 5%.69 Mechanical valve dysfunction resulting from pannus or thrombosis commonly presents as an emergency: the associated mortality of mechanical valve thrombosis is over 30%.87 Bioprosthetic valve failure is usually a chronic process, and elective reoperation is usually relatively low in risk.26,27 Transcatheter valve-invalve replacement has been performed in patients with bioprosthetic
 
-![](_page_20_Figure_10.jpeg)
+![](ch08-07_page_20_Figure_10.jpeg)
 
 **FIGURE 52–14.** Rates of structural valve deterioration (left figures) and reoperation (right figures) for mechanical versus bioprosthetic valves in the 15-year follow-up of the Veterans Affairs randomized valve study. Reproduced with permission from Hammermeister K, Sethi GK, Henderson WG, et al: Outcomes 15 years after valve replacement with a mechanical versus a bioprosthetic valve: final report of the Veterans Affairs randomized trial. *J Am Coll Cardiol*. 2000 Oct;36:1152-1158.
 

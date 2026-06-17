@@ -42,7 +42,7 @@ The prevalence of smoking had decreased by about 1% to 2% annually from 1980 thr
 
 When considering differences by age groups, the highest prevalence of smoking worldwide in year 2012 was seen in male aged 44- to 49-year (41% prevalence), and females aged 50- to 54-year (8.7% prevalence) (Fig. 30–4). There is a disproportionately high burden of smoking among males compared to females in countries such as China and India. This is also reflected in the recent estimates of deaths attributable to smoking in China; of the nearly 1 million deaths in were among males in contrast to among females.6 A high burden of smoking among adolescents and young adults (more than 150 million smokers were 25 years or younger) remains a major concern and challenge.3 During 2012, the prevalence of smoking among 20- to 24-year-old males was above 50% in eastern Europe, Russia, Indonesia, 41% in China, 37% in Japan, 28% in Latin
 
-![](_page_1_Figure_2.jpeg)
+![](ch06-01_page_1_Figure_2.jpeg)
 
 **FIGURE 30–1.** Annual adult per capita cigarette consumption and major smoking and health events—United States. ad, advertising; WWII, World War II. Reproduced with permission from Centers for Disease Control and Prevention (CDC): Tobacco use—United States,, *MMWR Morb Mortal Wkly Rep*. 1999 Nov 5;48:986-993.
 
@@ -52,7 +52,7 @@ America, 24% in Pakistan, 21% in Australia, 19% in Canada and the United States,
 
 According to the Behavioral Risk Factor Surveillance System (BRFSS) survey, the prevalence of smoking among United States adults has declined by 25%, with only 17.9% smokers in 2013 as compared to 24.1% smokers in 1998.7 There are important differences in the
 
-![](_page_1_Figure_7.jpeg)
+![](ch06-01_page_1_Figure_7.jpeg)
 
 **FIGURE 30–2. A.** Global number of smokers among men and women,. **B.** Global prevalence of smokers among men and women,. Both **A** and **B** available from Institute of Health Metrics and Evaluation. [http://vizhub.healthdata.org/tobacco/#.](http://vizhub.healthdata.org/tobacco/#) (Accessed October 20, 2016).
 
@@ -70,7 +70,7 @@ In 1990, smoking was the third-ranked risk factor after childhood malnutrition a
 
 A loss of about a decade of life expectancy is estimated because of smoking throughout adulthood among both men and women in
 
-![](_page_2_Figure_2.jpeg)
+![](ch06-01_page_2_Figure_2.jpeg)
 
 **FIGURE 30–3.** Age-standardized prevalence of smoking in 2012. Reproduced with permission from Institute for Health Metrics and Evaluations.
 
@@ -82,11 +82,11 @@ Smoking has been associated with increased and accelerated atherosclerosis and a
 
 The availability of low-cost and high-fidelity genetic analysis has opened new vistas of expansion to our understanding of the genetic basis of smoking behavior such as finding a few genes localized to the substantia nigra, brain area associated with reward and addition as well as end-organ damage.16
 
-![](_page_2_Figure_9.jpeg)
+![](ch06-01_page_2_Figure_9.jpeg)
 
 **FIGURE 30–4.** Prevalence of smoking by gender and age group globally in year 2012. Available from Institute of Health Metrics and Evaluation. [http://vizhub.healthdata.org/tobacco/#.](http://vizhub.healthdata.org/tobacco/#) (Accessed October 20, 2016).
 
-![](_page_3_Figure_2.jpeg)
+![](ch06-01_page_3_Figure_2.jpeg)
 
 **FIGURE 30–5.** Prevalence (%) of current smoking for adults age 18 years or older by race/ethnicity and sex (National Health Interview Survey, 2010-2012). All percentages are age adjusted. Includes both Hispanics and non-Hispanics. AIAN, American Indian or Alaska Native; NH, non-Hispanic. Data from the Centers for Disease Control and Prevention/National Center for Health Statistics, Health Data Interactive.
 
@@ -108,11 +108,11 @@ The net result is increased myocardial oxygen demand that can predispose individ
 
 Cigarette smoking–induced endothelial dysfunction is an important factor in coronary hemodynamic disturbances and the progression of atherosclerosis. Endothelium is an active regulator of the vascular tone through the release of nitric oxide (NO), prostacyclin, tissue plasminogen activator (tPA), and plasminogen activator inhibitor-1.23 Endothelium-dependent vasodilation in coronary and peripheral vessels is diminished in smokers when compared to nonsmokers. The primary mechanism by which smoking leads to vascular and endothelial
 
-![](_page_4_Figure_2.jpeg)
+![](ch06-01_page_4_Figure_2.jpeg)
 
 **FIGURE 30–6.** Loss of a decade of life expectancy caused by smoking through adulthood. Shown are probablities of survival from 30 or 35 years of age (current smokers vs persons who never smoked, linked by dots representing 1 year each) among UK men and women, US men and women, Japanese men, and Indian men. Reproduced with permission from Jha P, Peto R. Global effects of smoking, of quitting, and of taxing tobacco. *N Engl J Med*. 2014 Jan 2;370:60–68.8
 
-![](_page_5_Figure_2.jpeg)
+![](ch06-01_page_5_Figure_2.jpeg)
 
 FIGURE. Schematic representations of pathways linking cigarette smoking with development and progression of cardiovascular disease. NE, norepinephrine; NO, nitric oxide.
 
@@ -160,7 +160,7 @@ There are growing concerns about their use due to absence of studies showing eit
 
 The details of various pharmacological and nonpharmacological options for quitting smoking are discussed in Chapter 31. The majority of the hospitals in the United States have met the Joint Commission of Accreditation of Healthcare Organizations (JCAHO) smoking ban standards.84 Although it is pleasing to note that smoking rates among physicians are less than 2%, a high smoking rate of 25% among licensed practical nurses needs action in the health care settings.85 Addition of smoking cessation support at the population level has been shown to reduce the cessation success to 20% per year compared to 5% in an unaided setting.86 In a retrospective analysis of over 2000 patients who underwent percutaneous coronary intervention (PCI) from 1999 to 2009 at Olmsted County, Minnesota, smoking cessation rates at 6 to 12 months were around 50% and did not change over a decade.87 The odds of cessation were 2.6 times higher among those who had presented with myocardial infarction and three times among those who participated in cardiac rehabilitation, and cessation was associated with better prognosis.87 Similarly, a cessation rate of about 60% was seen in Synergy between PCI with Taxus and Cardiac Surgery (SYNTAX) trial participants and those who continued to smoke had 1.8 times higher risk of death/myocardial infarction/ stroke as compared to those who had quit.88 It is a big challenge and opportunity for us that less than one in three of the current smokers hospitalized with acute coronary syndrome (ACS) remains abstinent
 
-![](_page_7_Picture_11.jpeg)
+![](ch06-01_page_7_Picture_11.jpeg)
 
 **FIGURE 30–8.** Mechanism and design of an e-cigarette. LED, light-emitting diode. Redrawn fro[m http://electronicdesignmanufacturing.com/blog/e-cigarette-engineering](http://electronicdesignmanufacturing.com/blog/e-cigarette-engineering).
 
@@ -172,7 +172,7 @@ The Framework Convention on Tobacco Control (FCTC) of the World Health Organizat
 
 To this effect, the most common and successful step that has been used is tobacco taxes (Fig. 30–9). About 20% decrease in cigarette consumption has been reported with a 50% increase in inflation-adjusted tobacco price96 (see Fig. 30–9). Tobacco taxes have proven to be more effective among younger adults, and among poor or less educated groups.8 However, a rapid growth in income and purchasing power parity in developing countries and availability of low-priced alternatives such as "bidis" is a challenge. The lower excise tax in the low-income countries makes cigarettes cheaper than in developed countries. However, cigarettes may be cheaper in developing countries after due adjustment for purchasing power parity and may replace "bidis" with increase in purchasing power in countries such as India.8 Additionally, organized smuggling of cigarettes with a raise in excise remains another challenge that will require stricter tax administration.8
 
-![](_page_8_Figure_6.jpeg)
+![](ch06-01_page_8_Figure_6.jpeg)
 
 **FIGURE 30–9.** Changes in the inflation-adjusted cigarette price and its consumption in France and South Africa. Reproduced with permission from Jha P, Peto R. Global effects of smoking, of quitting, and of taxing tobacco. *N Engl J Med*. 2014 Jan 2;370:60-68.
 

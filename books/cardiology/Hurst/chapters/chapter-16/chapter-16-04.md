@@ -62,7 +62,7 @@ The mechanisms through which airborne particulates increase the risk of cardiova
 
 Carbon monoxide (CO) is a colorless, odorless, highly toxic gas produced by the incomplete combustion of hydrocarbons. Automotive exhaust is the major environmental source in modern cities. Other sources include improperly adjusted gas heaters, old appliances, wall
 
-![](_page_1_Figure_12.jpeg)
+![](ch16-04_page_1_Figure_12.jpeg)
 
 **FIGURE 110–1.** Possible mechanisms linking air pollution and heart failure. Reproduced with permission from Forastiere F, Agabiti N: Assessing the link between air pollution and heart failure. *Lancet*. 2013 Sep 21; 382:1008-1010.38
 

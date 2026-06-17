@@ -36,7 +36,7 @@ Venous thrombosis may occur as a result of the risks as identified in Virchow's 
 
 Superficial thrombophlebitis (STP) classically presents as a tender, red, and indurated cord that follows the line of the affected superficial vein. Most often, the GSV is involved. The disease is reported in up to 3% to 11% of the general population, although the annual incidence of disease is not known. Higher rates are seen in malignancy, women over age 60 years, obesity, thrombophilia, pregnancy or estrogen use, sclerotherapy, autoimmune disease, and those with varicose veins.8,9 Overlap with deep vein thrombosis (DVT) or pulmonary embolism (PE) is reported in up to 25% of patients with STP.10,11 Duplex ultrasonography is recommended to confirm the diagnosis of STP and exclude other causes of the swollen limb (Table 97–1), as well as screen for the presence of a concomitant DVT or extension of the clot into the deep venous system that would warrant treatment with anticoagulation.9,12 First-line management of STP typically includes warm compresses and nonsteroidal anti-inflammatory agents for a period of 7 to 10 days. Most cases of STP are self-limited; however, anticoagulation should be considered in cases that do not respond to conservative management, or if the STP is in close proximity to the deep veins at the sapheno-popliteal (5 cm) or saphenofemoral junction (10 cm).12,13 Both low-molecular-weight heparin and
 
-![](_page_1_Picture_2.jpeg)
+![](ch14-05_page_1_Picture_2.jpeg)
 
 **FIGURE 97–1.** Peripheral Venous Anatomy.
 
@@ -91,9 +91,9 @@ The morbidity and mortality associated with DVT are related to the proximal exte
 
 > upper extremity, thoracic outlet obstruction (ie, pacemaker implantation, thoracic outlet syndrome, or "Paget-Schroetter" effort thrombosis) and the use of central venous catheters account for most cases.30 Inherited thrombophilias such as factor V Leiden, prothrombin (G20210A) gene mutation, plasminogen-activator-inhibitor 1 (PAI-1) levels or gene abnormal PAI-1 gene polymorphism, antithrombin and protein C/S deficiency are present in approximately 30% of patients presenting with venous thromboembolism and may confer up to a fivefold increased risk of DVT or PE in their heterozygous state.31-33 Despite these rates, routine testing for
 
-![](_page_2_Picture_18.jpeg)
+![](ch14-05_page_2_Picture_18.jpeg)
 
-![](_page_2_Picture_19.jpeg)
+![](ch14-05_page_2_Picture_19.jpeg)
 
 **FIGURE 97–2.** May-Thurner anatomy and syndrome. **A.** Anatomic variant causing compression of the left common iliac vein by the overlying right common iliac artery, which results in an outflow obstruction that may predispose to DVT. **B.** May-Thurner syndrome diagnosed by CT venogram. Filling defect seen in the left common iliac vein (*red arrow*) consistent with DVT resulting from compression of the overlying right common iliac artery (*yellow arrow*).
 
@@ -164,9 +164,9 @@ The diagnosis of chronic venous insufficiency is often clinical as the character
 
 Patients with VTE completed at least 3 months of planned anticoagulation prior to study enrollment.
 
-![](_page_5_Picture_2.jpeg)
+![](ch14-05_page_5_Picture_2.jpeg)
 
-![](_page_5_Picture_3.jpeg)
+![](ch14-05_page_5_Picture_3.jpeg)
 
 **FIGURE 97–3.** Phlegmasia cerulea dolens (**A**), a life- and limb-threatening emergency that heralds venous gangrene (**B**).
 
@@ -229,7 +229,7 @@ Physiologic testing with plethysmography relies on volume change in the limb as 
 
 For patients with lifestyle-limiting symptoms or complications related to venous insufficiency, advanced therapies to ablate the offending veins may be considered.77,78 There is variability in insurance requirements for these procedures, although most plans will consider advanced therapies for those patients that have failed a period of conservative therapy. The techniques to treat venous insufficiency depend upon the size and location of the veins, patient preference, and etiology of their disease. To date, endovenous procedures such as laser therapy or radiofrequency ablation are most often used for treatment of reflux in the GSV and SSV.1,79-81 Both modalities use a thermal source to cause injury to the vein wall, which leads to vein occlusion. The procedures are performed under ultrasound guidance, and often in the outpatient setting, with only local anesthesia and instillation of perivenous tumescent anesthesia, which serves to encase the vein and protect adjacent structures from the heat source. Distal access is obtained (Fig 97–4B) and the catheter is tip is positioned ~2 cm from the sapheno-femoral junction. The vein is then ablated in a retrograde fashion with withdrawal of the active laser fiber. Postprocedure, all patients should return within 48 to 72 hours for an office clinical assessment and a duplex ultrasound exam to evaluate the result and exclude the complication of DVT.77,78 Additional potential complications may include parasthesias, skin burns, thrombophlebitis, and transient pain or bruising.82 Recently, mechanochemical endovenous ablation techniques have emerged in lieu of thermal therapies of the GSV and SSV, and this therapy does not require infiltration with perivenous tumescence.83 The technique uses a rotational wire that induces vein spasm while infusing a chemical sclerosing agent to ablate the vein. The studies available to date report high short-term occlusion rates with lower reported pain scores in patients receiving mechanochemical endovenous therapies as
 
-![](_page_7_Figure_2.jpeg)
+![](ch14-05_page_7_Figure_2.jpeg)
 
 **FIGURE 97–4.** Invasive treatments for varicose veins and chronic venous insufficiency. **A.** Spectral waveform analysis demonstrating retrograde flow (*arrows*) across the terminal valve of the great saphenous vein at the saphenofemoral junction lasting 10 seconds consistent with venous insufficiency. **B.** Endovenous ablation involves treatment of the GSV with a laser fiber that is introduced via the distal GSV. The entire segment is treated from 2 cm distal to the saphenofemoral junction to the distal puncture site. **C.** Sclerotherapy of varicose veins under ultrasound guidance: sclerosing agent is directly injected into the varicose vein resulting in vein occlusion and obliteration.
 
@@ -243,9 +243,9 @@ Vein stripping and phlebectomy or microphlebectomy procedures are less often use
 
 Venous ulcers are the most common leg ulceration and the most severe manifestation of venous disease (Fig. 97–5A). Up to 10% of patients in the United States living with venous insufficiency have a healed or active venous ulcer (CEAP class 5 to 6 disease).57,87 Despite the fact that
 
-![](_page_8_Picture_4.jpeg)
+![](ch14-05_page_8_Picture_4.jpeg)
 
-![](_page_8_Picture_5.jpeg)
+![](ch14-05_page_8_Picture_5.jpeg)
 
 **FIGURE 97–5.** Chronic venous insufficiency and venous ulcerations. **A.** The left leg is markedly swollen in this 23-year-old man with chronic venous insufficiency. There is stasis pigmentation and lipodermatosclerosis present; several superficial venous ulcers are visualized above the medial malleolus. **B.** Typical venous ulcer located on the medial aspect of the leg. The ulcer bed is beefy red with healthy granulation tissue; these ulcers are typically wet and drain serous fluid. Edema control is the most effective way to heal these ulcerations.
 
@@ -374,4 +374,4 @@ We would like to thank Dr. Paul W. Wennberg and Dr. Thom W. Rooke, who contribut
 - 100. Dale JJ, Ruckley CV, Harper DR, Gibson B, Nelson EA, Prescott RJ. Randomised, double blind placebo controlled trial of pentoxifylline in the treatment of venous leg ulcers. *BMJ*. 1999;319:875-878.
 - 101. Jull A, Waters J, Arroll B. Pentoxifylline for treatment of venous leg ulcers: A systematic review. *Lancet*. 2002;359:1550-1554.
 
-![](_page_11_Picture_0.jpeg)
+![](ch14-05_page_11_Picture_0.jpeg)

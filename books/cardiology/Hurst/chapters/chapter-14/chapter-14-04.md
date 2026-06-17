@@ -53,7 +53,7 @@ Numerous risk factors for PAD have been identified (Fig. 96–1).<sup>14,37</sup
 
 Tobacco abuse is a strong risk factor for the development and progression of PAD.<sup>38</sup> Smoking is associated with increased PAD-related procedures, hospitalizations, and increased costs.<sup>39</sup> Results from the Edinburgh Artery Study demonstrate that tobacco users have a 3.7 higher relative risk of intermittent claudication compared with 3.0 among individuals who have discontinued smoking for less than 5 years.<sup>23</sup> Smoking increases the risk of lower-extremity amputation, peripheral
 
-![](_page_1_Figure_8.jpeg)
+![](ch14-04_page_1_Figure_8.jpeg)
 
 Adapted from the society for vascular surgery practice guidelines for atherosclerotic occlusive disease of the lower extremities: management of asymptomatic disease and claudication. Journal of vascular surgery, volume 61, issue 3, supplement, 2015, 2s–41s.E1.
 
@@ -158,7 +158,7 @@ Livedo reticularis is a transient, bluish discoloration with a lacy pattern foun
 
 **Auscultation** Blood pressures should be taken in both arms and should be similar (but rarely identical, even when measured simultaneously.) Respiratory variation, positioning of the arm, and atrial fibrillation are just a few reasons for pressure variation. If a large difference is noted between arms (> 14 mm Hg), blood pressures should be rechecked. If still discrepant, simultaneous pressures are done to confirm the finding. The femoral, iliac, aortic, carotid, and subclavian arteries should be auscultated routinely. Simultaneous palpation of a radial artery during auscultation will improve detection of subtle bruits (especially abdominal bruits when bowel sounds are vigorous) and allow accurate timing of bruits. An epigastric bruit that varies with respiration is most often due to compression of the celiac artery by the median arcuate ligament.
 
-![](_page_3_Picture_8.jpeg)
+![](ch14-04_page_3_Picture_8.jpeg)
 
 **FIGURE 96–2.** Livedo racemosa of the right foot caused by atheroembolism following cardiac catheterization.
 
@@ -189,7 +189,7 @@ Abbreviation: ACC/AHA, American College of Cardiology/American Heart Association
 
 Legs dependent while sitting after elevation.
 
-![](_page_4_Figure_2.jpeg)
+![](ch14-04_page_4_Figure_2.jpeg)
 
 **FIGURE 96–3. A.** Conventional arteriogram showing a high-grade stenosis of the common femoral artery distal to a polytetrafluoroethylene graft (*arrow*). **B.** Duplex ultrasound of the same stenosis showing velocity elevation of > 400 cm/s.
 
@@ -205,11 +205,11 @@ modalities (Fig. 96–3A). Assessment of distal vessel fine structural detail an
 
 The hemodynamic significance of a stenosis may be assessed by multiple methods. Direct catheter measurement of a pressure gradient across a stenosis is still considered the gold standard. Duplex scanning is widely used; spectral broadening, poststenotic velocity increase, and dampening of the waveform are seen as the degree of stenosis increases. Continuous-wave Doppler (CWD) is available as a portable, handheld device and provides valuable information at minimal cost; the normal triphasic waveform becomes monophasic or absent wave as the severity of a stenosis increases to occlusion.85 Other noninvasive techniques include the assessment of segmental pressures (see "Segmental Pressures" in the next section).
 
-![](_page_4_Figure_11.jpeg)
+![](ch14-04_page_4_Figure_11.jpeg)
 
 **FIGURE 96–4.** Computed tomography angiography of a distal aortic occlusion (*white arrow*), with numerous collaterals (*green arrows*) reconstituting the femoral vessels bilaterally.
 
-![](_page_5_Figure_2.jpeg)
+![](ch14-04_page_5_Figure_2.jpeg)
 
 **FIGURE 96–5. A.** Duplex ultrasound of a femoral artery pseudoaneurysm showing flow within the aneurysm sac. **B.** Duplex following thrombin injection demonstrating no flow within the thrombosed pseudoaneurysm and preserved flow in the femoral artery.
 
@@ -399,7 +399,7 @@ These diseases are unique among arteriopathies in that the acutely stenotic lesi
 
 Fibromuscular dysplasia (FMD) most commonly affects women and has been described in almost all arteries.177 The renal artery is most often involved; it occurs in approximately 75% of patients with FMD and
 
-![](_page_9_Picture_2.jpeg)
+![](ch14-04_page_9_Picture_2.jpeg)
 
 **FIGURE 96–6.** Extracranial giant cell arteritis affecting the brachial artery of an elderly woman. Note the smooth, tapered narrowing (*red arrow*) with normal-appearing vessel proximal and distal to the affected segment.
 
@@ -409,7 +409,7 @@ is bilateral in approximately > 35% of cases.178 Although early reports describe
 
 Raynaud phenomenon is diagnosed by history, with the examination and laboratory findings playing a secondary role. The syndrome is classically defined as discoloration episodes of white ischemia, then blue stasis, and then red hyperemia during the recovery phase. In practice, most patients do not describe all three phases.180 Fingers are involved more often than toes. The fingertips are affected more commonly than the palm or dorsum of the hand, as shown in Fig. 96–7. Prevalence
 
-![](_page_9_Picture_7.jpeg)
+![](ch14-04_page_9_Picture_7.jpeg)
 
 **FIGURE 96–7.** Hyperemic (red) phase in a patient with secondary Raynaud phenomenon. Note the pallor still present in the proximal digits.
 

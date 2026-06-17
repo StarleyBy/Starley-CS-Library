@@ -133,7 +133,7 @@ An understanding of distribution is key to appreciating both the intended and un
 
 Critically important among the factors that modulate volume of distribution is protein binding, which can be influenced by changes in the concentration of binding proteins, fluctuations in drug concentrations, and interactions with drugs competing for the same proteinbinding sites. Most antiarrhythmic drugs are bound to varying extents in plasma to α1 -acid glycoprotein. For example, when dosing lidocaine
 
-![](_page_3_Figure_8.jpeg)
+![](ch13-10_page_3_Figure_8.jpeg)
 
 **FIGURE 87–1.** Pharmacokinetic compartments. Administered drug enters a highly perfused central compartment and then is redistributed to peripheral compartments and more slowly equilibrating deep compartments. Reproduced with permission from Mandel WJ: *Cardiac Arrhythmias: Their Mechanisms, Diagnosis and Management*. 3rd edition. Baltimore: Williams & Wilkins; 1995.
 
@@ -161,7 +161,7 @@ Clearance generally begins with *presystemic clearance*, which is the metabolism
 
 Half-life is defined as the time required for the plasma concentration to decrease by 50% (Fig. 87–2), and can be altered by changes in both clearance and volume of concentration. Despite its limitations, the concept of half-life can be used to describe the time required for drug elimination. For drugs that have more than one pharmacologic compartment, more than one half-life may be defined. For example,
 
-![](_page_4_Figure_8.jpeg)
+![](ch13-10_page_4_Figure_8.jpeg)
 
 **FIGURE 87–2.** Time required for accumulation and elimination of drug. After initiation of drug therapy (*red line*), 50% of steady-state drug concentrations are achieved in 1 half-life and 90% are achieved in 3.3 half-lives. Similarly, after drug is stopped (*blue line*), concentration decreases by 90% after 3.3 half-lives. Reproduced with permission from Mandel WJ: *Cardiac Arrhythmias: Their Mechanisms, Diagnosis and Management*. 3rd edition. Baltimore: Williams & Wilkins; 1995.
 
@@ -224,7 +224,7 @@ a Indicates drug interaction from P-glycoprotein transport inhibition.
 
 Indicates drug interaction from moderate CYP3A4 inhibition.
 
-![](_page_6_Figure_2.jpeg)
+![](ch13-10_page_6_Figure_2.jpeg)
 
 **FIGURE 87–3.** Effects of group I antiarrhythmic drugs on the ventricular action potential. Class Ia agents have an intermediate effect on the fast sodium current and prolong the action potential with blockade of the outward potassium current. Class Ib agents have less sodium channel blockade and bind to the sodium channel in inactivated state, having minimal effect on the action potential. Class Ic agents have a significant sodium channel blocking effect, which leads to the most marked depression of the initial phase (phase 0) of the action potential. Modified with permission from Golan DE, Tashjian, Jr. AH: *Principles of Pharmacology. The Pathophysiologic Basis of Drug Therapy*, 3rd Edition. Philadelphia: Lippincott Williams & Wilkins; 2012.
 
@@ -252,7 +252,7 @@ The common electrophysiologic feature of class Ia drugs is that the drugs block 
 
 Quinidine also inhibits *I*to and may thereby prevent ventricular fibrillation in J-wave syndromes including idiopathic ventricular fibrillation with prominent J wave in ECGs leads excluding V1 to V3 and
 
-![](_page_6_Figure_17.jpeg)
+![](ch13-10_page_6_Figure_17.jpeg)
 
 **FIGURE 87–4.** Effects of group III antiarrhythmic drugs on the ventricular action potential. Class III agents act on multiple ion channels including potassium channels, and extend the action potential duration. These changes prolong repolarization with an increase in the effective refractory period. Modified with permission from Golan DE, Tashjian, Jr. AH: *Principles of Pharmacology. The Pathophysiologic Basis of Drug Therapy*, 3rd Edition. Philadelphia: Lippincott Williams & Wilkins; 2012.
 

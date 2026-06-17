@@ -161,7 +161,7 @@ A number of meta-analyses have been conducted with these four clinical trials. T
 
 The FREEDOM trial was designed to address the optimal coronary revascularization strategy in patients with diabetes and multivessel CAD in the absence of left main disease, prior CABG, prior stenting within 6 months, and current ST-segment elevation myocardial infarction. In FREEDOM, the overall 5-year Kaplan-Meyer estimates of the primary composite end point of death, nonfatal myocardial infarction, and nonfatal stroke indicated a 26.6% event rate in the first-generation DES group compared to 18.7% in the CABG group (*P* < .005; Fig. 44–3). Indeed, in FREEDOM, CABG was associated with a significantly reduced
 
-![](_page_3_Figure_2.jpeg)
+![](ch07-13_page_3_Figure_2.jpeg)
 
 **FIGURE 44–1.** EXCEL trial design. DS, diameter stenosis; LM, left main; QoL, quality of life; SYNTAX, Synergy Between Percutaneous Coronary Intervention With Taxus and Cardiac Surgery.
 
@@ -181,7 +181,7 @@ The FREEDOM trial was designed to address the optimal coronary revascularization
 
 Abbreviations: BMS, bare metal stent; CABG, coronary artery bypass graft; DES, drug-eluting stent; MI, myocardial infarction; n, number of patients with diabetes/total number of patients; NR, not reported; PCI, percutaneous coronary intervention.
 
-![](_page_4_Figure_2.jpeg)
+![](ch07-13_page_4_Figure_2.jpeg)
 
 **FIGURE 44–2.** Forest plots for individual studies and pooled risk ratios for all-cause mortality in randomized controlled trials comparing patients with diabetes and multivessel coronary artery disease who underwent coronary artery bypass grafting (CABG) versus percutaneous coronary intervention (PCI) after 5 years or the longest follow-up. CI, confidence interval. Reproduced with permission from Verma S, Farkouh ME, Yanagawa B, et al: Comparison of coronary artery bypass surgery and percutaneous coronary intervention in patients with diabetes: a meta-analysis of randomised controlled trials. *Lancet Diabetes Endocrinol*. 2013 Dec;1:317-328.14
 
@@ -199,9 +199,9 @@ For patients with end-stage renal disease, the ACC/AHA guidelines recommend that
 
 The use of newer generation stents, however, has brought these recommendations into question. Recently, Bangalore and colleagues19 from the New York State Registry retrospectively studied over 5000 patients who were propensity-matched and reported that long-term mortality rates for PCI and CABG were equal (hazard ratio, 1.07; 95% CI, 0.92-1.24), as shown in Figure 44–4. PCI was associated with a higher risk of myocardial infarction and risk of repeat revascularization, but a lower risk of stroke (hazard ratio, 0.56; 95% CI, 0.41-0.76). In the same analysis, 243 matched pairs of patients with end-stage renal disease on hemodialysis were studied; PCI was associated with a higher risk of mortality (hazard ratio, 2.0; 95% CI, 1.40-2.93). Although there
 
-![](_page_5_Figure_2.jpeg)
+![](ch07-13_page_5_Figure_2.jpeg)
 
-![](_page_5_Figure_3.jpeg)
+![](ch07-13_page_5_Figure_3.jpeg)
 
 **FIGURE 44–3.** Kaplan-Meier analyses of **(A)** primary outcome (composite of all-cause mortality, nonfatal myocardial infarction, or nonfatal stroke) and **(B)** mortality in the FREEDOM trial. CABG, coronary artery bypass grafting; PCI, percutaneous coronary intervention. Reproduced with permission from Farkouh ME, Domanski M, Sleeper LA, et al: Strategies for multivessel revascularization in patients with diabetes. *N Engl J Med*. 2012 Dec 20;367:2375-2384.13
 
@@ -220,7 +220,7 @@ The increasing use of PCI in patients with prior bypass surgery is largely due t
 - 1. The importance of co-intervention: The importance of OMT has been stressed on all fronts. One of the important weaknesses of many clinical trials is that patients are not being treated equally in the PCI and CABG arm with regard to OMT. For example, in the SYNTAX trial, only 75% of patients in the bypass arm were discharged with statin therapy compared to over 85% in the PCI arm.6 It is possible that more balanced administration of OMT might have led to even greater improvement in outcomes in the CABG group compared to the PCI group. The effective co-intervention is an important variable when evaluating results of clinical trials because many patients do not reach guidelinedirected targets for major medical risk factors.26
 - 2. The importance of newer generation stenting: With the advent of newer generation stents and reductions in stent thrombosis, there has been consideration for the need of yet another PCI versus CABG trial with a newer platform of stents. The authors caution against this reasoning. Comparing the hazard ratio for mortality from the original BARI trial published in 1995 versus those after the advent of bare metal stents in the publications of the ARTS and SOS trials and the Hlatky meta-analysis versus those in the publications of the FREEDOM and SYNTAX trials and subsequent
 
-![](_page_6_Figure_2.jpeg)
+![](ch07-13_page_6_Figure_2.jpeg)
 
 **FIGURE 44–4.** Everolimus-eluting stent (EES) versus coronary artery bypass grafting (CABG): longer-term risk of death in the propensity score–matched cohort of patients who underwent either percutaneous coronary intervention with EES or CABG. There was no statistically significant difference in death between the two cohorts. Reproduced with permission from Bangalore S1, Guo Y, Samadashvili Z, et al: Revascularization in Patients With Multivessel Coronary Artery Disease and Chronic Kidney Disease: Everolimus-Eluting Stents Versus Coronary Artery Bypass Graft Surgery. *J Am Coll Cardiol*. 2015 Sep 15;66:1209-1220.19
 
@@ -286,7 +286,7 @@ Favors HCR
 
 50
 
-![](_page_8_Figure_10.jpeg)
+![](ch07-13_page_8_Figure_10.jpeg)
 
 FIGURE 44—5. Hybrid procedures and outcomes versus conventional coronary artery bypass grafting (CABG) or percutaneous coronary intervention (PCI). HCR, hybrid coronary revascularization; MACCE, major adverse cardiovascular and cerebrovascular events; NHLBI, National Heart, Lung, and Blood Institute; OR, odds ratio. Reproduced with permission from Harskamp RE: Current state and future direction of hybrid coronary revascularization. Curr Opin Cardiol. 2015 Nov:30:643-649
 
@@ -302,7 +302,7 @@ The PROTECT II trial, which was underpowered due to early termination, randomize
 
 In considering these data, a few salient points emerge. First, patients with ischemic cardiomyopathy and severe left ventricular dysfunction are indeed at high risk, with substantial short-term jeopardy of morbidity and mortality. Second, these patients benefit from revascularization, with improvement in symptoms and left ventricular function. Third, and perhaps most interestingly, the benefits of adjunctive mechanical circulatory support may not appear in the hospital but rather accrue with passage of time. The explanation for this final observation remains uncertain but may relate to differences in completeness or quality of PCI under conditions of mechanical circulatory support.
 
-![](_page_9_Figure_8.jpeg)
+![](ch07-13_page_9_Figure_8.jpeg)
 
 FIGURE 44—6. New Mayo Clinic risk model for prediction of in-hospital death. Coefficients for age, left ventricular (LV) ejection fraction, and serum creatinine can be determined from the nomograms at the bottom. Note that congestive heart failure (CHF) needs to be entered only for patients not presenting with myocardial infarction (MI) or shock. The equation for log-odds of death is as follows: LogOdds = -6.082 + 0.2883 × score. For missing values, if creatinine is unavailable, do the following: add 1 point if patient is male, and 1 point if patient has CHF. If ejection fraction is unavailable, do the following: add 1 point if patient has CHF. For other variables, if a risk factor is unknown, no points are added. AMI, acute myocardial infarction. Reproduced with permission from Singh M, Gersh BJ, Li S, et al: Mayo Clinic Risk Score for percutaneous coronary intervention predicts in-hospital mortality in patients undergoing coronary artery bypass graft surgery. Circulation. 2008 Jan 22;117:356-362.<sup>72</sup>
 
@@ -322,7 +322,7 @@ Based on presently available data, the authors advocate a central role for FFR g
 
 Presently, PCI is the most common treatment for limited CAD with SSs less than 22. More complex disease (SS > 32) is more effectively managed with CABG. Intermediate disease may be technically amenable to either strategy, but results in patients with intermediate disease are better with CABG in higher risk groups. Diabetic patients with multivessel disease and patients with low ejection fraction or renal failure have better intermediate and late outcomes with CABG, and CABG remains the treatment of choice in those subgroups. New techniques for minimizing aortic manipulation during CABG and increasing the use of multiple arterial conduits are available and should be routinely
 
-![](_page_10_Figure_10.jpeg)
+![](ch07-13_page_10_Figure_10.jpeg)
 
 **FIGURE 44–7.** Proposed algorithm for assignment to revascularization in stable ischemic heart disease. CABG, coronary artery bypass grafting; ECG, electrocardiogram; FFR, fractional flow reserve; IVUS, intravascular ultrasound; LM, left main; MMT, XXXX; MV CAD, multivessel coronary artery disease; PCI, percutaneous coronary intervention; SYNTAX, Synergy Between Percutaneous Coronary Intervention With Taxus and Cardiac Surgery.
 

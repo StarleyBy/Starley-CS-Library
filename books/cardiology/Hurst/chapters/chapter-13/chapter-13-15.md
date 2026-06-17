@@ -80,7 +80,7 @@ Untrained lay rescuers should provide compression-only (Hands-Only) CPR, with or
 
 For the critical outcome of survival to hospital discharge, evidence exists from two observational studies14,15 representing adult patients. They compared chest compression rates of greater than 140/min, 120 to 139/min, less than 80/min, and 80 to 99/min with the
 
-![](_page_1_Figure_15.jpeg)
+![](ch13-15_page_1_Figure_15.jpeg)
 
 **FIGURE 92–1.** Updated 2015 guideline recommendations for unresponsive patient management. AED, automatic external defibrillator; CPR, cardiopulmonary resuscitation; ALS, advanced life support.
 
@@ -269,13 +269,13 @@ Phase 3: Maintenance phase
 
 **Phase 1: Cooling Phase for the First 24 Hours** We recommend 24 hours of the cooling therapy at a temperature goal of 33°C. As will be discussed later in this chapter, the dose of the temperature management is controversial and some centers cool patients to 36°C. Endovascular catheters are an effective method of inducing therapeutic hypothermia (if a core cooling method is chosen). The catheters are usually inserted into the inferior vena cava through the femoral vein.
 
-![](_page_5_Figure_16.jpeg)
+![](ch13-15_page_5_Figure_16.jpeg)
 
 **FIGURE 92–3.** Pathway for management of survivors of out-of-hospital and in-hospital cardiac arrest. **A.** Step I. From the field, through the emergency department (ED) into the cardiac catheterization laboratory, and to the critical care unit. **B.** Induced hypothermia protocol in the critical care unit. **C.** The management following the rewarming phase, including the recommendation for out-of-hospital therapy and the ethical decision to define goals of care.
 
-![](_page_6_Figure_2.jpeg)
+![](ch13-15_page_6_Figure_2.jpeg)
 
-![](_page_6_Figure_3.jpeg)
+![](ch13-15_page_6_Figure_3.jpeg)
 
 **FIGURE 92-3** (*Continued*)
 
@@ -324,7 +324,7 @@ As mentioned earlier, the Therapeutic Temperature Management (TTM) study compare
 - 2. Severe brain injury
 - 3. Moderate brain injury
 
-![](_page_7_Figure_25.jpeg)
+![](ch13-15_page_7_Figure_25.jpeg)
 
 FIGURE. Degree of postarrest brain injury and proposed decision for TTM.
 
@@ -345,7 +345,7 @@ It is the delta (Δ) between these lines that defines if the therapy has a poten
 
 On the left end of this figure, the delta is very small for patients with very minimal or mild brain injury. This is the same case for patients with severe or very severe brain injury where the delta between the two doses of therapy is very small. However, for patients with moderate
 
-![](_page_8_Figure_11.jpeg)
+![](ch13-15_page_8_Figure_11.jpeg)
 
 **FIGURE 92–5.** Applying Bayes' Theorem to the relationship between post-therapeutic temperature management (TTM) degree of brain injury and pre-TTM degree of brain injury.
 

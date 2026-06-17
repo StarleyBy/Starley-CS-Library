@@ -220,7 +220,7 @@ Technologic advances in the past two decades have expanded the noninvasive optio
 
 Numerous studies involving thousands of patients have validated the prognostic utility of ECG treadmill testing. Data from patients with medically managed SIHD enrolled in the Coronary Artery Surgery Study (CASS) demonstrated that failure to complete stage 1 of a standard Bruce protocol was associated with a markedly elevated mortality risk 4 years after testing.17 Others have shown that the presence of exercise-induced ST-segment depression, an abnormal blood pressure response to exercise, and poor functional capacity on stress testing are associated with early mortality from cardiovascular disease.66
 
-![](_page_6_Figure_2.jpeg)
+![](ch07-12_page_6_Figure_2.jpeg)
 
 **FIGURE 43–1.** Diagnosis of patients with suspected ischemic heart disease. \*Colors correspond to the class of recommendations in the ACCF/AHA Table 1. ‡CCTA is reasonable only for patients with intermediate probability of IHD. CCTA, computed coronary tomography angiography; CMR, cardiac magnetic resonance; ECG, electrocardiogram; Echo, echocardiography; IHD, ischemic heart disease; MI, myocardial infarction; MPI, myocardial perfusion imaging; Pharm, pharmacological; UA, unstable angina; UA/NSTEMI, unstable angina/non–ST-segment elevation myocardial infarction. Reproduced with permission from Fihn SD, Gardin JM, Abrams J, et al: 2012 ACCF/AHA/ACP/AATS /PCNA/SCAI/STS Guideline for the diagnosis and management of patients with stable ischemic heart disease: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines, and the American College of Physicians, American Association for Thoracic Surgery, Preventive Cardiovascular Nurses Association, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic Surgeons. *J Am Coll Cardiol*. 2012 Dec 18;60:e44-e164.121
 
@@ -301,7 +301,7 @@ Reproduced with permission from Fihn SD, Gardin JM, Abrams J, et al. 2012 ACCF/A
 
 Coronary CT angiography (CCTA) provides an anatomic assessment of the epicardial coronary arteries. Because of its high spatial resolution
 
-![](_page_8_Figure_32.jpeg)
+![](ch07-12_page_8_Figure_32.jpeg)
 
 **FIGURE 43–2.** The effect on event-free survival of decreasing ischemic myocardial burden ≥ 5% assessed by myocardial perfusion imaging in stable coronary artery disease patients enrolled in the Clinical Outcomes Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE) trial. Patients were treated for 6 to 18 months with either optimal medical therapy (OMT) or OMT plus percutaneous coronary intervention. Reproduced with permission from Shaw LJ, et al. COURAGE Investigators. Optimal medical therapy with or without percutaneous coronary intervention to reduce ischemic burden: results from the Clinical Outcomes Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE) trial nuclear substudy. *Circulation*. Mar 2008 11;117:1283-1291.78
 
@@ -370,7 +370,7 @@ Protease-activated receptor (PAR)-1 antagonism with vorapaxar inhibits thrombin-
 
 Oral anticoagulant therapy with a vitamin K antagonist such as warfarin is an effective strategy to prevent recurrent MI when the dose is titrated to a target international normalized ratio (INR) of 2.0 to 3.0.100 Hurlen and colleagues101 randomized 3630 post-MI patients to
 
-![](_page_11_Figure_2.jpeg)
+![](ch07-12_page_11_Figure_2.jpeg)
 
 **FIGURE 43–3.** Effect of long-term ticagrelor in patients with prior myocardial infarction. Kaplan-Meier rates of cardiovascular death, myocardial infarction, and stroke through 3 years, according to study group. Study drugs were administered twice daily. The inset shows the same data on an enlarged y axis. Reproduced with permission from Bonaca MP, Bhatt DL, Cohen M: Long-term use of ticagrelor in patients with prior myocardial infarction. *N Engl J Med*. 2015 May 7;372:1791-1800.97
 
@@ -498,11 +498,11 @@ report freedom from angina and improved quality of life early after randomizatio
 
 Subgroup data from the COURAGE trial suggest that PCI plus OMT may be preferred over OMT alone in patients with SIHD and high residual ischemic burden on MPI (see earlier section on MPI). However, the question of whether moderate or severe ischemia is a sufficient determinant of treatment strategy in this population has not been subjected to sufficiently powered prospective clinical studies.143 In clinical practice, proponents in favor of OMT are matched by those in favor of revascularization for patients with this clinical profile. There is strong agreement, therefore, that additional trials are needed to address this clinical equipoise and guide management of this sizeable and potentially vulnerable patient population.144 The International Study of Comparative Health Effectiveness With Medical and Invasive Approaches (ISCHEMIA) trial aims to address this issue by studying patients with SIHD, defined by ≥ 10% ischemic myocardium by MPI, ≥ 3 of 16 segments with stress-induced severe hypokinesis or akinesis by echocardiography, ≥ 12% ischemic myocardium by stress cardiac MRI, or ST depression > 2.0 mm observed at a low exercise workload in patients with typical angina during an exercise treadmill testing (NCT01471522 at [ClinicalTrials.gov\)](http://www.ClinicalTrials.gov). Investigators anticipate involving approximately 300 participating sites from 30 countries. Subjects with normal renal function undergo CCTA upon enrollment to exclude anatomic left main disease or the absence of obstructive
 
-![](_page_15_Figure_8.jpeg)
+![](ch07-12_page_15_Figure_8.jpeg)
 
 #### **A** Whole study cohort
 
-![](_page_15_Figure_10.jpeg)
+![](ch07-12_page_15_Figure_10.jpeg)
 
 #### **B** Extended follow-up study cohort
 
@@ -530,25 +530,25 @@ As a result of increased utilization of angioplasty as an initial revascularizat
 
 To investigate the influence of DES use on PCI versus CABG outcomes in patients with chronic CAD, Hannan and colleagues157 performed an observational study using 2003 to 2004 data from the Cardiac Surgery Reporting System (CSRS) and the Percutaneous
 
-![](_page_17_Figure_2.jpeg)
+![](ch07-12_page_17_Figure_2.jpeg)
 
 **No. at risk** Medical therapy PCI Registry 
 
 #### **A** Primary end point
 
-![](_page_17_Figure_5.jpeg)
+![](ch07-12_page_17_Figure_5.jpeg)
 
 **No. at risk** Medical therapy PCI Registry 
 
 #### **C** Myocardial infarction
 
-![](_page_17_Figure_8.jpeg)
+![](ch07-12_page_17_Figure_8.jpeg)
 
 **No. at risk** Medical therapy PCI Registry 
 
 #### **B** Death from any case
 
-![](_page_17_Figure_11.jpeg)
+![](ch07-12_page_17_Figure_11.jpeg)
 
 **No. at risk** Medical therapy PCI Registry 
 
@@ -558,7 +558,7 @@ To investigate the influence of DES use on PCI versus CABG outcomes in patients 
 
 Coronary Intervention Reporting System (PCIRS) of the New York State Department of Health. Patients with a history of revascularization, left main CAD, or MI < 24 hours after treatment were excluded. Surgical revascularization for three- or two-vessel CAD was associated with lower rates of death and death or MI compared with PCI with DES over 18 months of follow-up. The survival rates of patients with diabetes were significantly higher in the surgical revascularization group; a subset analysis showed lower rates of death and MI in patients with EF ≤ 0.40 treated with surgery. The results from this study were akin to previous observations in the pre-DES era, as consolidated in a meta-analysis, suggesting that CABG surgery for the treatment of multivessel CAD is associated with lower long-term mortality rates than PCI in a real-world setting.158 Directionally similar findings were reported in the ASCERT 1 observational study, which retrospectively analyzed outcome data from patients with two- or three-vessel CAD without acute MI undergoing CABG surgery (n = 86,244) or PCI (n = 103,549). Although at 1 year of follow-up there was no significant difference between groups for outcome, the adjusted mortality rate at 4 years was lower for CABG patients compared to PCI patients (RR, 0.79; 95% CI, 0.76-0.82).159-162
 
-![](_page_18_Figure_2.jpeg)
+![](ch07-12_page_18_Figure_2.jpeg)
 
 **FIGURE 43–6.** The effect of percutaneous (**A**, **C**) or surgical (**B**, **D**) revascularization compared with medical therapy alone on survival and freedom from major cardiovascular events (death, myocardial infarction, or stroke) in type 2 diabetic patients with chronic coronary artery disease enrolled in the Bypass Angioplasty Revascularization Investigation 2 Diabetes (BARI 2D) trial. CABG, coronary artery bypass graft; PCI, percutaneous coronary intervention. Reproduced with permission from The BARI 2D Study Group. A randomized trial of therapies for type 2 diabetes and coronary artery disease. *N Eng J Med*. 2009 June 11;360:2503-2515.150
 
@@ -626,7 +626,7 @@ Traditional CABG surgical strategy is associated with stroke or cognitive impair
 
 CABG surgery remains the favored revascularization strategy for patients with multivessel CAD and high SYNTAX scores, particularly in the presence of LV systolic dysfunction or diabetes. However, the principal driver of clinical benefit in this patient group appears to be based on the efficacy of internal mammary artery anastomosis to the LAD coronary artery.173 By contrast, vein graft occlusion may occur in up to 30% of patients within 1 post-operative year, whereas DES patency rates in non-LAD coronary arteries are on par or better than that reported for vein grafts.174 This raises the possibility that a hybrid approach involving left internal mammary artery–LAD graft placement surgery and PCI using DES to atherosclerotic non-LAD lesions, or hybrid coronary revascularization (HCR), may be an optimal revascularization approach in patients with multivessel CAD. Although definitive outcome data for HCR remain lacking, this approach appears safe and technically feasible but at present is markedly underused.174 In one study of 147 patients with multivessel CAD treated with HCR and case matched to a cohort of patients undergoing off-pump CABG surgery with sternotomy, no difference between groups was observed for 5-year survival (86.6% vs 84.3%; *P* = .61), although the need for repeat revascularization or blood transfusion was higher and lower, respectively, in the HCR group.175 A number of prospective clinical trials examining the role of HCR in multivessel
 
-![](_page_20_Figure_2.jpeg)
+![](ch07-12_page_20_Figure_2.jpeg)
 
 **FIGURE 43–7.** The SYNTAX II nomogram. The total number of points for eight factors can be used to accurately predict 4-year morality for the individual patient proposing to undergo for coronary artery bypass graft (CABG) or percutaneous coronary intervention (PCI). For example, a 60-year-old man with an anatomic SYNTAX score of 30, unprotected left main coronary artery disease, creatinine clearance of 60 mL/min, left ventricular ejection fraction (LVEF of 50%), and chronic obstructive pulmonary disease (COPD) would have 41 points (predicted 4-year mortality, 16.3%) to undergo CABG and 33 points (predicted 4-year mortality, 8.7%) to undergo PCI. The same example without COPD included would lead to identical points (29 points) and 4-year mortality predictions (6.3%) for CABG and PCI. CrCL, creatinine clearance; Left main, unprotected left main coronary artery disease; PVD, peripheral vascular disease; 3-VD, three-vessel disease. Reproduced with permission from Farooq V, van Klaveren D, Steyerberg EW, et al: Anatomical and clinical characteristics to guide decision making between coronary artery bypass surgery and percutaneous coronary intervention for individual patients: development and validation of SYNTAX score II. *Lancet*. 2013 Feb 23;381:639-650.165
 
@@ -646,13 +646,13 @@ EECP uses cuff inflation for the application of compressed air-induced pressure 
 
 pressure. In patients with refractory angina, EECP (~35 hours of treatment time) is associated with a reduction in angina frequency and nitrate use, increased exercise tolerance, and improved quality of life.179,180 Patients with severely limiting angina and without a smoking history are most likely to benefit.181 Certain forms of valvular heart disease (eg, aortic regurgitation), recent revascularization, and severe hypertension are contraindications to this form of therapy. Nevertheless, the favorable response to EECP observed in select patients with refractory angina has raised speculation that it should be implemented earlier in the treatment course. Sufficiently powered randomized clinical trials of EECP versus OMT are lacking.
 
-![](_page_21_Figure_2.jpeg)
+![](ch07-12_page_21_Figure_2.jpeg)
 
 #### **Intermediate SYNTAX score**
 
-![](_page_21_Figure_4.jpeg)
+![](ch07-12_page_21_Figure_4.jpeg)
 
-![](_page_21_Figure_5.jpeg)
+![](ch07-12_page_21_Figure_5.jpeg)
 
 **FIGURE 43–8.** The role of atherosclerotic lesion severity as assessed by the Synergy Between PCI With Taxus and Cardiac Surgery (SYNTAX) score in determining efficacy of percutaneous coronary intervention (PCI) or surgical revascularization in patients with three-vessel or left main coronary artery disease enrolled in the SYNTAX trial. The rates of major adverse cardiac or cerebrovascular events 12 months following therapy are reported for patients with low (**A**), intermediate (**B**), or high (**C**) SYNTAX score. The I bars indicate 1.5 standard errors. Note the improved outcomes among patients with high SYNTAX scores who underwent revascularization. CABG, coronary artery bypass graft. Reproduced with permission from Serruys PW, Morice MC, Kappetein AP, et al: Percutaneous coronary intervention versus coronary-artery bypass grafting for severe coronary artery disease. *N Engl J Med*. 2009 Mar 5;360:961-972.162
 

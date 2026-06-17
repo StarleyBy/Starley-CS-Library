@@ -258,7 +258,7 @@ Data from Simonneau G, Gatzoulis MA, Adatia I, et al: Updated clinical classific
 
 #### **Signaling pathways of BMPR-II**
 
-![](_page_4_Figure_3.jpeg)
+![](ch12-01_page_4_Figure_3.jpeg)
 
 **FIGURE 74–1.** Signaling pathways of the bone morphogenetic protein (BMP) receptor type II (BMPR II). In the extracellular space, the receptor ligands BMPs bind directly to the BMPR-II on the cell membrane. The bioavailability of BMPs is regulated by the presence of BMPR-II receptor antagonists such as noggins, chordins, and DAN (differential screening-selected gene aberrative in neuroblastoma). The binding of ligands to BMPR-II leads to the recruitment of BMPR-I to form a heteromeric receptor complex at the cell surface. This complex results in the phosphorylation and activation of the kinase domain of BMPR-I. The activated BMPR-I subsequently phosphorylates and activates cytoplasmic signaling proteins Smads (Smad, and 8). Phosphorylated Smads bind to the common mediator Smad 4, and the resulting Smad complex moves from the cytoplasm into the nucleus and regulates gene transcription. Other downstream signaling pathways that can be activated after the engagement of BMPR-I and BMPR-II by BMPs include cell type–dependent activation of p38 mitogen-activated protein kinase (p38 MAPK) and protein kinase A (PKA). In addition, the cytoplasmic tail of BMPR-II has been shown to interact with the LIM motif-containing protein kinase 1 (LIMK1) that is localized in the cytoskeleton. Germline mutations of the gene encoding BMPR-II underlie heritable pulmonary arterial hypertension (HPAH), which is characterized by the abnormal proliferation of pulmonary vascular cells. However, the specific cytoplasmic proteins and nuclear transcription factors that are involved in the development of HPAH have not been identified.
 
@@ -288,11 +288,11 @@ Ventilation-perfusion scans are of most value in the diagnosis and exclusion of 
 
 The response of the RV to exercise can be assessed by calculating the change in RV ejection fraction with exercise using radionuclide angiography. Scintigraphy using thallium-201 also has been useful in detecting hypertrophy of the RV caused by PH (see Chap. 18). Magnetic resonance imaging has more recently been useful in assessing disease severity (eg, RV mass, RV ejection fraction) and effects of therapeutic interventions.
 
-![](_page_5_Picture_2.jpeg)
+![](ch12-01_page_5_Picture_2.jpeg)
 
 **FIGURE 74–2.** Cardiac silhouette in four patients with severe pulmonary hypertension on admission to the hospital. **A, B.** Idiopathic pulmonary arterial hypertension (IPAH) showing different stages in the evolution of right-sided heart failure. **C.** Widespread pulmonary fibrosis. **D.** Systemic lupus erythematosus proven by lung biopsy. This radiograph is indistinguishable from that of IPAH.
 
-![](_page_5_Picture_4.jpeg)
+![](ch12-01_page_5_Picture_4.jpeg)
 
 **FIGURE 74–3.** Echocardiographic image from a patient with pulmonary arterial hypertension. The right ventricle (RV) is enlarged, the interventricular septum (IVS) is flattened, and the ventricular cavity is small. LV, left ventricle.
 
@@ -386,13 +386,13 @@ In addition to intrinsic pulmonary diseases, disturbances in respiratory muscle 
 
 Diseases that affect the parenchyma of the lungs or the tracheobronchial tree can elicit PH in different ways, depending on the underlying disease (Fig. 74–5). In obstructive airways disease, ventilation-perfusion abnormalities cause vasoconstriction because of hypoxemia. In diffuse fibrosis, several mechanisms act in concert: loss of vascular surface area because of lung destruction, loss of vascular compliance because of hyperinflation-induced vascular compression, and vascular remodeling caused by hypoxic vasoconstriction.
 
-![](_page_8_Picture_11.jpeg)
+![](ch12-01_page_8_Picture_11.jpeg)
 
-![](_page_8_Figure_12.jpeg)
+![](ch12-01_page_8_Figure_12.jpeg)
 
 **FIGURE 74–4.** Pulmonary hypertension as a result of an organized clot in central pulmonary arteries. Dramatic relief after pulmonary thromboendarterectomy. **A.** Chest radiograph. The right upper lobe is strikingly hypoperfused, and the vasculature on the left is quite prominent, reflecting redirection of the pulmonary blood flow to open vessels. **B.** Angiogram. The flow to the right upper lung is interrupted by the large central clot.
 
-![](_page_9_Figure_2.jpeg)
+![](ch12-01_page_9_Figure_2.jpeg)
 
 **FIGURE 74–5.** The evolution of right ventricular (RV) failure in chronic obstructive airway disease (chronic bronchitis and emphysema; chronic obstructive pulmonary disease). The factors on the left arise primarily from the bronchitis; those on the right from emphysema.
 
@@ -478,7 +478,7 @@ In each of these, the clinical findings and the histologic appearance of the lun
 
 It has now become clear that in at least a number of PAH patients, the disease is genetically linked.57 Additionally, it appears that PAH develops in subjects who are genetically predisposed with subsequent or concomitant exposure to a "vascular insult." One major insight
 
-![](_page_11_Figure_6.jpeg)
+![](ch12-01_page_11_Figure_6.jpeg)
 
 **FIGURE 74–6.** Schematic representation of postulated pathobiology in pulmonary arterial hypertension.
 
@@ -494,7 +494,7 @@ Histologic examination of the lung identifies a constellation of pulmonary preca
 
 The hemodynamic hallmarks of IPAH in the resting patient were discussed earlier: a combination of high pulmonary arterial pressure, a normal or low cardiac output, and normal LA or left-sided filling pressures. Calculated PVR is high, generally leading to the logical conclusion that the resistance vessels, that is, the small muscular arteries and arterioles,
 
-![](_page_11_Figure_14.jpeg)
+![](ch12-01_page_11_Figure_14.jpeg)
 
 **FIGURE 74–7.** Vascular lesions in idiopathic pulmonary arterial hypertension. The plexiform lesion, once believed to be the histologic hallmark of idiopathic pulmonary arterial hypertension, has emerged as only one feature of a constellation of lesions.
 
@@ -548,11 +548,11 @@ with consideration of embolization. Pulmonary angiography is indicated in the pa
 
 The diagnosis of IPAH (Fig. 74–9) rests on two pillars: the detection of PH and the exclusion of known causes of high pulmonary arterial pressure. The history is of utmost importance. Before categorizing PH as idiopathic, due regard must be paid to the exclusion of known etiologies (see Table 74–3), particularly thromboembolic disease and connective tissue disorders. Account also should be taken of the likelihood of familial disease. Pulmonary function tests are useful in excluding diffuse pulmonary disorders,
 
-![](_page_13_Figure_16.jpeg)
+![](ch12-01_page_13_Figure_16.jpeg)
 
 **FIGURE 74–8.** Electrocardiogram in patients with idiopathic pulmonary arterial hypertension.
 
-![](_page_14_Figure_2.jpeg)
+![](ch12-01_page_14_Figure_2.jpeg)
 
 **FIGURE 74–9.** Guideline for approaching the differential diagnosis of pulmonary hypertension. CHD, congenital heart disease; CO, cardiac output; CT, contrast-enhanced computed tomography of the chest; CTD, connective tissue disease; ECG, electrocardiogram; Echo, transthoracic Doppler echocardiogram; IPAH, idiopathic pulmonary arterial hypertension; FPAH, familial pulmonary arterial hypertension; LA, left atrial; LV, left ventricular; MRI, magnetic resonance imaging; PA, pulmonary arterial; PAH, pulmonary arterial hypertension; PCWP, pulmonary capillary wedge pressure; PE, pulmonary embolism; PFTs, pulmonary function tests; PH, pulmonary hypertension; PVR, pulmonary vascular resistance; RA, right atrial; RAE, right atrial enlargement; RV, right ventricular; RVE, right ventricular enlargement; RVST, right ventricular systolic pressure; SLE, systemic lupus erythematosus; SvO2 , mixed venous oxygen saturation; TRV, tricuspid regurgitant velocity; V/Q, ventilation/perfusion. Adapted with permission from Rubin LJ, Badesch DB. Evaluation and management of the patient with pulmonary arterial hypertension. *Ann Intern Med*. 2005 Aug 16;143:282-292.
 
@@ -582,7 +582,7 @@ General measures for patients with all forms of PAH include the avoidance of cir
 
 Before initiating treatment for a patient's PAH, treatment should be started for any underlying or associated conditions. After these other
 
-![](_page_16_Figure_2.jpeg)
+![](ch12-01_page_16_Figure_2.jpeg)
 
 CCB = calcium channel blockers; DPAH = drug-induced PAH; HPAH = heritable PAH; IPAH = idiopathic PAH; i.v. = intravenous; PAH = pulmonary arterial hypertension;
 
@@ -646,7 +646,7 @@ Since 1981, more than 3000 patients have undergone a single-lung, double-lung, o
 
 More recently, combination treatment has been evaluated to address the multiple pathobiologic mechanisms present in PAH (Fig. 74–11). The combination of oral bosentan and intravenous (IV) epoprostenol was investigated in one small study, with inconclusive results.78 Several additional RCTs have evaluated sequential combination therapy in PAH. The addition of inhaled iloprost to background oral bosentan demonstrated improved hemodynamic status and clinical events in one RCT81; however, these results were not confirmed in an open trial.80 In another study, the addition of oral sildenafil to background IV epoprostenol demonstrated improved exercise capacity, hemodynamic status, and clinical events; furthermore, in a post hoc analysis, the addition of oral sildenafil to background IV epoprostenol increased survival versus IV epoprostenol alone.82 In the pivotal tadalafil RCT, 53% of the patients were on background oral bosentan; in that study overall, tadalafil improved exercise capacity, hemodynamic status, and clinical events.69 Inhaled treprostinil has also been studied as add-on therapy to either background bosentan or background sildenafil; in both combinations, the addition of inhaled treprostinil improved exercise capacity.71 These studies support the efficacy of combination treatment in patients who remain symptomatic on monotherapy. The Ambrisentan and Tadalafil in Patients With Pulmonary Arterial Hypertension (AMBITION) trial demonstrated that initial combination therapy with ambrisentan and tadalafil in treatment-naïve PAH patients resulted in delay in disease progression and improved exercise capacity to a greater degree than with monotherapy using ambrisentan or tadalafil alone.69 The optimal combination on the basis of overall risk-benefit considerations remains unknown.
 
-![](_page_19_Figure_2.jpeg)
+![](ch12-01_page_19_Figure_2.jpeg)
 
 **FIGURE 74–11.** Three major pathways involved in abnormal proliferation and contraction of the smooth muscle cells of the pulmonary artery in patients with pulmonary arterial hypertension are shown. These pathways correspond to important therapeutic targets in this condition and play a role in determining which of four classes of drugs—endothelin receptor antagonists, nitric oxide, phosphodiesterase type 5 inhibitors, and prostacyclin derivatives—will be used. At the top of the figure, a transverse section of a small pulmonary artery (< 500 μm in diameter) from a patient with severe pulmonary arterial hypertension shows intimal proliferation and marked medial hypertrophy. Dysfunctional pulmonary artery endothelial cells (*blue*) have decreased production of prostacyclin and endogenous nitric oxide, with an increased production of endothelin-1—a condition promoting vasoconstriction and proliferation of smooth muscle cells in the pulmonary arteries (*red*). Current or emerging therapies interfere with specific targets in smooth muscle cells in the pulmonary arteries. In addition to their actions on smooth muscle cells, prostacyclin derivatives and nitric oxide have several other properties, including antiplatelet effects. +, Increase in the intracellular concentration; –, blockage of a receptor, inhibition of an enzyme, or a decrease in the intracellular concentration; cGMP, cyclic guanosine monophosphate.
 
@@ -702,9 +702,9 @@ Predominantly children and young adults are affected, but the age has been repor
 
 The cardinal signs are dyspnea and fatigue on exertion in conjunction with evidence of PH; the pulmonary venous rather than pulmonary arterial etiology is suggested by radiologic evidence of postcapillary PH without evidence of involvement of the left side of the heart (Fig. 74–12A). Pleural effusions are common. Cyanosis, syncope, hemoptysis, and finger clubbing have been inconsistent findings. Moderate to severe hypoxemia, caused by intrapulmonary shunting through the abnormal capillary network, is a hallmark of capillary hemangiomatosis. Rarely, systemic embolization may occur.
 
-![](_page_21_Figure_6.jpeg)
+![](ch12-01_page_21_Figure_6.jpeg)
 
-![](_page_21_Figure_7.jpeg)
+![](ch12-01_page_21_Figure_7.jpeg)
 
 **FIGURE 74–12.** Pulmonary veno-occlusive disease (PVOD) proven by open lung biopsy. **A.** Computed tomography scan from a patient with PVOD showing a patchy mosaic pattern consistent with pulmonary edema. **B.** Photomicrograph of the lung from a patient with PVOD and pulmonary capillary hemangiomatosis, showing occlusion of small pulmonary veins and proliferation of the capillary network.
 

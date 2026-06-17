@@ -70,7 +70,7 @@ Hypercoagulable states clearly increase the risk of venous thrombosis. The most 
 
 Beyond an assessment of left ventricular systolic dysfunction, the use of transthoracic and transesophageal echocardiography to determine which patients are at risk of thromboemboli is not yet well defined. Left atrial enlargement or thrombi, a patent foramen ovale, an atrial septal aneurysm, or spontaneous echocardiographic contrast are occasional
 
-![](_page_1_Figure_15.jpeg)
+![](ch08-08_page_1_Figure_15.jpeg)
 
 **FIGURE 53–1.** Risk of thromboembolism. Clinical variables define valve disease patients as being at high or low risk of thromboembolic events. LV, left ventricle.
 
@@ -174,7 +174,7 @@ Current guidelines recommend frequent monitoring of anticoagulation therapy duri
 
 Delivery should be planned so that the mother does not enter labor in a fully anticoagulated state, which would increase the risk of severe maternal hemorrhage and place the neonate at risk of intracranial hemorrhage (in case of VKA).52 A switch from VKA to UFH/LMWH is done at 36 weeks. LMWH is switched to UFH 36 hours before planned delivery. UFH is discontinued hours before planned delivery and restarted hours after delivery if there are no bleeding complications. Vaginal delivery is preferred. Catheter placement for epidural
 
-![](_page_5_Figure_2.jpeg)
+![](ch08-08_page_5_Figure_2.jpeg)
 
 **FIGURE 53–2.** Management of a woman with a prosthetic heart valve (PHV) at time of pregnancy. IV, intravenous; SVD structural valve deterioration; VHD, valvular heart disease.
 
@@ -220,7 +220,7 @@ If a patient has a thrombotic obstruction of a right-sided PHV, fibrinolytics ar
 
 The optimal therapy for left-sided PHVT includes surgery (thrombectomy or valve replacement), fibrinolytic therapy, or heparin. There are no randomized trials comparing these modalities and all modalities are associated with a high risk. A meta-analysis80 of seven observational studies comparing surgery with thrombolytic therapy that included 690 episodes of left-sided PHVT (73% in NYHA III/IV) found no difference in mortality (13.5% vs 9%), but surgery was associated with greater restoration of normal valve function (90% vs 70%), lower rates of thromboembolism (1.4% vs 16%), lesser major bleeding (1.4% vs 5%), and recurrent prosthetic valve thrombosis (7% vs 25%) compared to thrombolytic therapy.
 
-![](_page_6_Figure_21.jpeg)
+![](ch08-08_page_6_Figure_21.jpeg)
 
 **FIGURE 53–3. A.** Transesophageal echocardiography showing a large thrombus on mitral valve. **B.** Cinefluoroscopy showing one stuck leaflet (lower).
 

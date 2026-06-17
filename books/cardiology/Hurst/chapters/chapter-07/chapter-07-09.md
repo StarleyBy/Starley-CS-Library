@@ -152,7 +152,7 @@ Damaged cardiomyocytes release several proteins in the circulation, including my
 
 Myoglobin is a 17.8-kDa protein that is released from injured myocardial cells. As shown in Fig. 40–1, myoglobin release occurs within hours after the onset on infarction, reaches peak levels at 1 to 4 hours, and remains elevated for approximately 24 hours. Although the rapid
 
-![](_page_2_Figure_2.jpeg)
+![](ch07-09_page_2_Figure_2.jpeg)
 
 FIGURE 40—1. Shown here is the temporal profile of the diagnostic biomarkers used for detecting acute myocardial infarction (AMI). The plasma temporal profile for early detection is illustrated for myoglobin and myocardial band (MB) creatinine kinase (CK) subforms. The markers MB CK, total CK, and cardiac troponins (Trop) I and T are all released with a similar initial time profile. However, troponins I and T remain elevated for 10 to 14 days and thus are better markers for late diagnosis than MB CK.
 
@@ -199,7 +199,7 @@ Figure 40–2 provides a schematic from the guidelines for considering transport
 
 The timely reperfusion goals include determining the closest primary PCI center for the preferred primary PCI (within 90 minutes of first medical contact), determining acceptable delays that allow transfer of patients to get primary PCI reperfusion within 120 minutes, and quickly treating patients who are outside of those windows with fibrinolytic therapy followed by possible transfer for invasive care as needed.
 
-![](_page_3_Figure_14.jpeg)
+![](ch07-09_page_3_Figure_14.jpeg)
 
 **FIGURE 40–2.** Schematic from the American College of Cardiology/American Heart Association (AHA) guidelines for considering transportation to regional hospitals for reperfusion as outlined in the AHA Mission Lifeline program. CABG, coronary artery bypass graft; DIDO, door in to door out time; FMC, first medical contact; LOE, level of evidence; PCI, percutaneous coronary intervention; STEMI, ST-segment elevation myocardial infarction. Reproduced with permission from O'Gara PT, Kushner FG, Ascheim DD, et al: 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: a report of the American College of Cardiology Foundation/ American Heart Association Task Force on Practice Guidelines. *Circulation*. 2013 Jan 29;127:e362-e425.
 
@@ -510,11 +510,11 @@ The clinical practice guidelines recommend the following29,65:
 - *2. Primary PCI should be performed in patients with STEMI and ischemic symptoms of less than 12 hours' duration who have contraindications to fibrinolytic therapy, irrespective of the time delay from FMC. (Level of Evidence: B)*
 - *3. Primary PCI should be performed in patients with STEMI and cardiogenic shock or acute severe HF [heart failure], irrespective of time delay from MI onset (Level of Evidence: B)*
 
-![](_page_10_Figure_13.jpeg)
+![](ch07-09_page_10_Figure_13.jpeg)
 
 **FIGURE 40–3.** Hypothetical construct of the relationship among the duration of symptoms of acute myocardial infarction (MI) before reperfusion therapy, mortality reduction, and extent of myocardial salvage. Mortality reduction as a benefit of reperfusion therapy is greatest in the first 2 to 3 hours after the onset of symptoms of acute MI, most likely a consequence of myocardial salvage. The exact duration of this critical early period may be modified by several factors, including the presence of functioning collateral coronary arteries, ischemic preconditioning, myocardial oxygen demands, and duration of sustained ischemia. After this early period, the magnitude of the mortality benefit is much reduced, and as the mortality reduction curve flattens, time to reperfusion therapy is less critical. If a treatment strategy, such as facilitated percutaneous coronary intervention (PCI), is able to move patients back up the curve, a benefit would be expected. The magnitude of the benefit will depend on how far up the curve the patient can be shifted. The benefit of a shift from points A or B to point C would be substantial, but the benefit of a shift from point A to point B would be small. A treatment strategy that delays therapy during the early critical period, such as patient transfer for PCI, would be harmful (shift from point D to point C or point B). Between 6 and 12 hours after the onset of symptoms, opening the infarct-related artery is the primary goal of reperfusion therapy, and primary PCI is preferred over fibrinolytic therapy. The possible contribution to mortality reduction of opening the infarct-related artery, independent of myocardial salvage, is not shown. From *JAMA*. 2005;293:979-986,67 which was modified from Gersh BJ, Anderson JL. Thrombolysis and myocardial salvage: results of clinical trials and the animal paradigm—paradoxic or predictable? *Circulation*. 1993;88:296-306.
 
-![](_page_11_Figure_2.jpeg)
+![](ch07-09_page_11_Figure_2.jpeg)
 
 **FIGURE 40–4.** Risk stratification and the results of primary percutaneous coronary intervention (PPCI) in patients from the DANAMI-2 trial. MI, myocardial infarction; NS, not significant; TIMI, Thrombolysis in Myocardial Infarction. Reproduced with permission from Thune JJ, Hoefsten DE, Lindholm MG, et al: Simple risk stratification at admission to identify patients with reduced mortality from primary angioplasty. *Circulation*. 2005 Sep 27;112:2017-20.
 
@@ -1237,7 +1237,7 @@ The presentation of patients with takotsubo syndrome overlaps with that of patie
 
 The major objective of treatment in patients with takotsubo syndrome is to support the left ventricle and manage complications during the acute phase of presentation. Management of heart failure during acute presentation should follow the standard guidelines and should include β-blockers and ACE inhibitors. Recommendations for anticoagulation to prevent thromboembolism in patients with takotsubo syndrome are similar to those for patients with ventricular thrombus in the setting of ACS.
 
-![](_page_30_Figure_2.jpeg)
+![](ch07-09_page_30_Figure_2.jpeg)
 
 **FIGURE 40–6.** Four types of takotsubo syndrome. Among the 1750 study patients, the most common type of takotsubo syndrome was the apical type (in 81.7% of patients) (**A** and **B**), followed by the midventricular type (in 14.6% of patients) (**C** and **D**), the basal type (in 2.2% of patients) (**E** and **F**), and the focal type (in 1.5% of patients) (**G** and **H**). All left ventricular angiograms were obtained in the right anterior oblique view (30 degrees) during diastole (*left column*) and systole (*middle column*). In the *far right column*, the wall motion abnormality that was observed with each type of the disorder is shown, with *red* indicating diastole, *white* indicating systole, and the *dashed line* indicating the location of the wall motion abnormality.
 

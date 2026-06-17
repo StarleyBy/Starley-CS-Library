@@ -56,7 +56,7 @@ SCD accounts for between and over deaths yearly in the United States, with exact
 
 In the United States, several population-based studies have documented an age-adjusted decline in SCD rates of more than 8% over the last 15 years.1 SCD rates in other developed countries are comparable to those in the United States: The World Health Organization reported an annual incidence of SCD of 1.9 per persons in men and 0.6 per persons in women.15 SCD rates in developing countries are considerably lower, paralleling the rates of ischemic heart disease, the most common substrate for SCD in developed nations. Populationbased studies evaluating SCD incidence and risk factors in developing nations are ongoing.16
 
-![](_page_1_Figure_2.jpeg)
+![](ch13-14_page_1_Figure_2.jpeg)
 
 FIGURE 91—1. Sudden cardiac death (SCD) rates by sex and country, ages 35 to 74 years, compiled from death certificates by the World Health Organization, Geneva, 1986. Reproduced with permission from Manolio TA, Furberg CD. Epidemiology of SCD. In: Akhtar M, Myerburg RJ, Ruskin JN, eds. SCD. Baltimore, MD: Wilkins; 1994.
 
@@ -72,9 +72,9 @@ The annual incidence of SCD has been shown to be higher in African Americans tha
 
 The reasons for these observed racial variations in SCD incidence are unclear, but they may be partially because of variations in SCD risk factors.
 
-![](_page_1_Figure_10.jpeg)
+![](ch13-14_page_1_Figure_10.jpeg)
 
-![](_page_1_Figure_11.jpeg)
+![](ch13-14_page_1_Figure_11.jpeg)
 
 FIGURE 91—2. Plots of mortality rates (deaths per persons) for ischemic heart disease occurring (A) out of hospital or in an emergency department (an estimate for sudden cardiac death rate) and (B) occurring in the hospital, by age, sex, and race in 40 states during 1985. From the National Center for Health Statistics. Reproduced with permission from Gillum RF. Sudden coronary death in the United States: 1980–1985. *Circulation*, 1989 Apr;79:756–765.
 
@@ -104,9 +104,9 @@ Observations suggest that lifestyle factors such as alcohol consumption, cigaret
 
 **Diet** Diet may also play a role in modifying SCD risk. Omega-3 fatty acids (such as those found in fish) have been shown to have antiarrhythmic properties in experimental animal models,45 and administration of omega-3 fatty acids has been associated with reduced inducibility for monomorphic VT in patients with CAD undergoing ICD implantation.46 In a substudy of the Physicians' Health Study, increased levels of omega-3 fatty acids were associated with reduced risk of SCD,47 and men who consumed fish at least once per week also
 
-![](_page_2_Figure_15.jpeg)
+![](ch13-14_page_2_Figure_15.jpeg)
 
-![](_page_2_Figure_16.jpeg)
+![](ch13-14_page_2_Figure_16.jpeg)
 
 **FIGURE 91–3.** Proportion of underlying structural heart disease in male and female survivors of cardiac arrest. CAD, coronary artery disease; DCM, dilated cardiomyopathy; RV, right ventricular; VHD, valvular heart disease. Reproduced with permission from Albert, CM et al. Sex differences in cardiac arrest survivors. *Circulation*. 1996 Mar 15;93:1170-1176.
 
@@ -162,7 +162,7 @@ Although the absolute risk of sudden death during any particular episode of vigo
 
 SCD in competitive athletes is rare (see Chap. 64). Unfortunately, SCD is often the first manifestation of the underlying cardiac disease that is present in the majority of these patients.64 Age has been shown to be the most useful variable in predicting the type of underlying cardiac disease in athletes with SCD (Fig. 91–5). In athletes younger than 35 years of age, the majority of SCDs arise from a variety of congenital cardiovascular diseases, most commonly hypertrophic cardiomyopathy and congenital coronary artery anomalies.65 Less common structural conditions include myocarditis, aortic dissection (eg, related to Marfan syndrome), aortic stenosis, dilated cardiomyopathy, and arrhythmias associated with mitral valve prolapse. Other disorders such as arrhythmogenic right ventricular cardiomyopathy (ARVC) may be more frequent in endemic areas.66 SCD among young athletes without structurally identifiable cardiac abnormalities is historically thought to be rare,64 but was more recently found to be much more common among young active-duty military members.20 These cases are likely to be related to inherited arrhythmia disorders such as long QT syndrome, Brugada syndrome, Wolff-Parkinson-White syndrome, and others (see Chap. 80 and the discussion below). Obstructive coronary artery disease is an uncommon cause of SCD in athletes younger than 35 years.67
 
-![](_page_4_Figure_2.jpeg)
+![](ch13-14_page_4_Figure_2.jpeg)
 
 **FIGURE 91–4.** Risk of sudden cardiac death by decile of multivariate risk: 26-year follow-up from the Framingham Study. ECG, electrocardiographic; I-V, intraventricular; LVH, left ventricular hypertrophy; non-spec. abn., nonspecific abnormality. Reproduced with permission from Kannel WB, Schatzkin A. Sudden death: lessons from subsets in population studies. *J Am Coll Cardiol*. 1985 Jun;5(6 Suppl):141B-149B.
 
@@ -170,7 +170,7 @@ Because of the dramatic and often public nature of SCD in athletes and the medic
 
 A long-standing screening program in Italy has credited the use of routine electrocardiography with identifying cardiomyopathies and significantly reducing the rate of SCD during athletic activities,69,70 but the necessity of routine electrocardiography has been questioned.71 US and European guidelines have also been published outlining which
 
-![](_page_4_Figure_6.jpeg)
+![](ch13-14_page_4_Figure_6.jpeg)
 
 **FIGURE 91–5.** Causes of sudden cardiac death in competitive athletes by age group. There is evidence for structural heart disease in nearly all athletes who die suddenly of cardiac causes. In athletes younger than 35 years, hypertrophic cardiomyopathy is more prevalent, whereas in those older than 35 years, coronary heart disease is the most frequent cause. CM, cardiomyopathy; HD, heart disease; LVH, left ventricular hypertrophy; MVP, mitral valve prolapse. Reproduced with permission from Maron BJ, Epstein SE, Roberts WC. Causes of sudden death in competitive athletes. *J Am Coll Cardiol*. 1986 Jan;7:204-214.
 
@@ -194,7 +194,7 @@ Electromechanical dissociation and asystole are found in approximately 30% of pa
 
 Acute myocardial ischemia leads to intracellular and extracellular acidosis and loss of myocellular membrane integrity with efflux of potassium and influx of calcium. These biochemical abnormalities have electrophysiological consequences, including decreases in the amplitude and upstroke velocity of the cardiac action potential, inhomogeneous depolarization of the resting membrane potential, and shortening of action potential duration.82 Fast sodium and slow calcium channels in partially depolarized fibers may remain inactive, thereby prolonging refractoriness even after completion of repolarization. This may further contribute to electrical inhomogeneities within and around the ischemic zone, causing conduction delays, unidirectional block, and reentrant arrhythmias.83
 
-![](_page_5_Figure_13.jpeg)
+![](ch13-14_page_5_Figure_13.jpeg)
 
 **FIGURE 91–6.** Interaction between structural cardiac abnormalities, functional changes, and triggering factors in the pathophysiology of sudden cardiac death. The role of triggering factors, such as changes in autonomic tone or reflexes, is increasingly being recognized. EMD, electromechanical dissociation; VF, ventricular fibrillation; VT, ventricular tachycardia.
 
@@ -566,7 +566,7 @@ Survival depends largely on the initial recorded rhythm. Some 40% to 60% of pati
 
 The initial management after successful resuscitation from cardiac arrest consists of stabilizing the patient's cardiopulmonary status and quickly addressing obvious potential triggers such as electrolyte
 
-![](_page_14_Figure_20.jpeg)
+![](ch13-14_page_14_Figure_20.jpeg)
 
 **FIGURE 91–7.** Percentage of out-of-hospital cardiac arrest victims admitted to the hospital by emergency medical service personnel and subsequently discharged alive during the period from 1970 to 1988. Reproduced with permission from Cobb LA, Weaver WD, Fahrenbruch CE, et al. Community-based interventions for sudden cardiac death. Impact, limitations, and changes. *Circulation*. 1992 Jan;85(1 Suppl):I98-102.
 
@@ -754,7 +754,7 @@ ICDs have also been used in less common conditions associated with a high risk o
 
 The feasibility and safety of combining defibrillation with cardiac resynchronization therapy (CRT) pacing in a single device has also been established.376 Although both CRT pacemakers and CRT defibrillators have been shown to reduce mortality in patients with left ventricular systolic dysfunction, severe heart failure symptoms, and wide
 
-![](_page_21_Figure_6.jpeg)
+![](ch13-14_page_21_Figure_6.jpeg)
 
 **FIGURE 91–8.** Kaplan-Meier estimates of overall mortality in the Sudden Cardiac Death in Heart Failure Trial (SCD-HeFT). For patients with left ventricular ejection fractions of ≤ 35% and New York Heart Association class II or III heart failure, implantable cardioverter-defibrillator therapy reduced all-cause mortality over 5 years by an absolute margin of 7% versus placebo (*red line*), whereas amiodarone (*green line*) provided no benefit. Reproduced with permission from Bardy GH, Lee KL, Mark DB, et al. Amiodarone or an implantable cardioverter-defibrillator for congestive heart failure. *N Engl J Med*. 2005 Jan 20;352:225-237.
 

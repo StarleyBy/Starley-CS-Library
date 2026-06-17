@@ -38,7 +38,7 @@ UA is usually secondary to abrupt reduction in myocardial perfusion as a result 
 
 As a result of the lack of objective criteria used to define this condition, UA must be diagnosed from the clinical history and is thus the
 
-![](_page_1_Figure_2.jpeg)
+![](ch07-05_page_1_Figure_2.jpeg)
 
 **FIGURE 36–1.** Clinical, pathologic, electrical, and biochemical correlates of acute coronary syndrome. ACS, acute coronary syndrome; Dx, diagnosis; ECG, electrocardiogram; NQMI, non–Q-wave myocardial infarction; NSTE, non–ST-segment elevation; NSTEMI, non–ST-segment elevation myocardial infarction; QwMI, Q-wave myocardial infarction; STEMI, ST-segment elevation myocardial infarction; UA, unstable angina. Reproduced with permission from Amsterdam EA, Wenger NK, Brindis RG, et al: 2014 AHA/ACC Guideline for the Management of Patients with Non-ST-Elevation Acute Coronary Syndromes: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. *J Am Coll Cardiol*. 2014 Dec 23;64:e139-e228.
 
@@ -67,7 +67,7 @@ Although greater use of troponin measurements has led to a reduction in the diag
 
 As articulated by Braunwald et al23 and subsequently embedded within clinical practice guidelines, the initial steps in the evaluation of patients presenting with chest pain is to first determine the likelihood of CAD as the underlying etiology followed by an assessment of short-term risk.
 
-![](_page_2_Figure_2.jpeg)
+![](ch07-05_page_2_Figure_2.jpeg)
 
 **FIGURE 36–2.** Prevalence of ST-segment elevation myocardial infarction (STEMI) and non–ST-segment myocardial infarction (NSTEMI) in the National Registry of Myocardial Infarction from 1990 to 2006 and proportion of patients in whom a troponin assay was used to diagnose myocardial infarction. Reproduced with permission from Rogers WJ, Frederick PD, Stoehr E, et al: Trends in presenting characteristics and hospital mortality among patients with ST elevation and non-ST elevation myocardial infarction in the National Registry of Myocardial Infarction from 1990 to 2006. *Am Heart J*. 2008 Dec;156:1026-1034.
 
@@ -125,7 +125,7 @@ The advantages to cTn testing notwithstanding, as with any diagnostic test, gain
 
 In summary, cardiac troponins have emerged as the biochemical marker of choice in the evaluation of myonecrosis and diagnosis of MI. Their greater sensitivity and specificity for cardiac muscle damage and proven prognostic value have established their current clinical position.
 
-![](_page_4_Figure_8.jpeg)
+![](ch07-05_page_4_Figure_8.jpeg)
 
 **FIGURE 36–3.** Conceptual model for clinical distribution of elevated troponin. ACS, acute coronary syndrome; AMI, acute myocardial infarction; CAD, coronary artery disease; CHF, congestive heart failure; CM, cardiomyopathy; CT, cardiothoracic; MI, myocardial infarction; PCI, percutaneous coronary intervention; PE, pulmonary embolism; STEMI, ST-segment elevation myocardial infarction. Reproduced with permission from Newby LK, Jesse RL, Babb JD, et al: ACCF 2012 expert consensus document on practical clinical considerations in the interpretation of troponin elevations: a report of the American College of Cardiology Foundation task force on Clinical Expert Consensus Documents. *J Am Coll Cardiol*. 2012 Dec 11;60:2427-2463.
 

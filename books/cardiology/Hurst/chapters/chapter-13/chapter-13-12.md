@@ -50,7 +50,7 @@ Although experimental use of short-term direct myocardial pacing for cardiac arr
 
 Cardiac pacing was initially developed to address the problem of bradyarrhythmia, particularly caused by AV block and sinus node dysfunction (SND). These continue to constitute the primary indications for consideration for pacing, although pacing for neurocardiogenic syncope and special situations (eg, postcardiac transplant, neuromuscular disease, sleep apnea, or infiltrative disease) has grown. Pacing for the termination of arrhythmia (or anti-tachycardia pacing [ATP]) is
 
-![](_page_1_Figure_2.jpeg)
+![](ch13-12_page_1_Figure_2.jpeg)
 
 **FIGURE 89–1.** Evolution of pacemakers. Reproduced with permission from Medtronic, Inc.
 
@@ -81,7 +81,7 @@ almost exclusively employed in combination pacemaker-defibrillator devices in th
 - 2. Not indicated for SND in patients for whom the symptoms suggestive of bradycardia have been clearly documented to occur in the absence of bradycardia. (LOE: C)
 - 3. Not indicated for SND with symptomatic bradycardia resulting from nonessential drug therapy. (LOE: C)
 
-![](_page_2_Figure_2.jpeg)
+![](ch13-12_page_2_Figure_2.jpeg)
 
 **FIGURE 89–2. A.** Telemetry strip demonstrating sinus bradycardia followed by 4.6-second sinus pause. **B.** Telemetry strip demonstrating a sinus pause twice the length of the preceding P-P interval, suggesting sinoatrial exit block. **C.** An example of atrial tachyarrhythmia terminating with 3.6-second sinus pause.
 
@@ -93,7 +93,7 @@ disease or sinoatrial exit block, and also includes sinus pause after cessation 
 
 **Pacing in Specific Conditions** Specific conditions that merit indication for pacing include patients who have undergone cardiac transplant, patients with neuromuscular diseases such as myotonic dystrophy and Emery-Dreifuss syndrome, sleep apnea, cardiac sarcoidosis, and patients with hypertrophic cardiomyopathy (HCM) and evidence of dynamic left ventricular outflow tract (LVOT) obstruction. In addition to standard
 
-![](_page_3_Figure_2.jpeg)
+![](ch13-12_page_3_Figure_2.jpeg)
 
 **FIGURE 89–3. A.** Type I second-degree atrioventricular (AV) block. A 6:5 AV Wenckebach periodicity is shown. Note that the PR interval progressively lengthens with a decreasing increment. This results in shortening of R-R intervals. The last conducted PR interval (0.33 seconds) is significantly longer than the next conducted PR interval (0.24 seconds). **B.** Type II second-degree atrioventricular block. Surface electrocardiogram (ECG), leads I, aVF, and V1 , and intracardiac electrograms from the right atrial (RA), proximal, and distal His bundle electrogram (HBE) catheters are shown. Surface ECGs show that the PR intervals are constant at 0.2 seconds with a left bundle branch block morphology of the QRS complex, and the fourth P wave is not followed by a QRS complex. The HBEs reveal that the site of block of the fourth P wave is below the His bundle.
 
@@ -148,11 +148,11 @@ Importantly, the largest randomized pacemaker study for isolated SND was the Mod
 
 Advanced second-degree or third-degree block at *any* anatomic level.
 
-![](_page_5_Picture_2.jpeg)
+![](ch13-12_page_5_Picture_2.jpeg)
 
-![](_page_5_Picture_3.jpeg)
+![](ch13-12_page_5_Picture_3.jpeg)
 
-![](_page_5_Picture_4.jpeg)
+![](ch13-12_page_5_Picture_4.jpeg)
 
 **FIGURE 89–4.** Types of pacemakers. **A.** Atrial-only single-chamber pacemaker. **B.** Ventricular-only single-chamber pacemaker. **C.** Atrial and ventricular dual-chamber pacemaker.
 
@@ -170,13 +170,13 @@ UKPACE was heralded as the definitive trial to guide mode selection among patien
 
 The feasibility of LCP was tested in the LEADLESS trial, a prospective, nonrandomized single-arm multicenter study of safety and clinical performance in 33 subjects.25 Indications for implant included permanent AF with slow response or AV block, normal sinus rhythm patients with high-degree block and low level of physical activity or short lifespan, or sinus bradycardia with infrequent pauses or unexplained syncope with abnormal findings at EP study. The overall complicationfree rate acutely was 94%,25 with no pacemaker-related adverse events, stable device sensing, and pacing thresholds between 3 and 12 months in follow-up.26 Interim analysis of the LEADLESS II study was also recently reported.27 Similar to LEADLESS, the study was a prospective, nonrandomized, multicenter analysis of 526 patients receiving LCP with a primary outcome of efficacy and safety. Pacemaker implant success was achieved in 95.8% of patients, with an average procedural time of 28.6±17.8 minutes and an average hospital stay of 1.1±1.7 days. Successful implant failure resulted predominantly from inadequately sensed R waves. Serious adverse events were observed in 6.7% over
 
-![](_page_6_Figure_5.jpeg)
+![](ch13-12_page_6_Figure_5.jpeg)
 
 **FIGURE 89–5.** Leadless pacemakers presently available for human use: the St. Jude Nanostim (*right*) and the Medtronic Micra (*center, next to ruler*). Reproduced with permission from Miller MA, Neuzil P, Dukkipati SR, Reddy VY. Leadless cardiac pacemakers: back to the future. *J Am Coll Cardiol*. 2015 Sep 8; 66:1179-1189.
 
-![](_page_6_Picture_7.jpeg)
+![](ch13-12_page_6_Picture_7.jpeg)
 
-![](_page_6_Picture_8.jpeg)
+![](ch13-12_page_6_Picture_8.jpeg)
 
 **FIGURE 89–6. (A)** Posteroanterior and **(B)** lateral chest films of patient with leadless cardiac pacemaker.
 
@@ -309,7 +309,7 @@ DINAMIT evaluated another high-risk group, patients between 6 and 40 days post M
 
 **Subcutaneous ICD** Defibrillator systems have evolved from devices requiring an open-chest surgical approach to modern defibrillators that can be placed transvenously. The trials discussed above were conducted exclusively with either an epicardial or transvenous system. Indeed, as noted above in discussion regarding the rationale behind leadless pacing systems, the lead itself may be the weakest link in defibrillation systems—associated with greater risk of periprocedural complication and susceptible to later bacterial seeding and infection, insulations break, or fracture. Although subcutaneous arrays have been utilized to lower defibrillation threshold for a number of years, they have been used in accompaniment with transvenous or epicardial sensing leads for sensing. An entirely subcutaneous system was first
 
-![](_page_11_Picture_2.jpeg)
+![](ch13-12_page_11_Picture_2.jpeg)
 
 **FIGURE 89–7.** The Boston Scientific subcutaneous defibrillator (S-ICD). This is the second-generation, Emblem device. Image provided courtesy of Boston Scientific. ©2016 Boston Scientific Corporation or its affiliates. All rights reserved. **FIGURE 89–8.** Zoll LifeVest wearable cardioverter-defibrillator.
 
@@ -319,9 +319,9 @@ A number of small cohort studies have now published safety and efficacy data reg
 
 **Wearable Cardioverter-Defibrillator** Use of a wearable cardioverter-defibrillator (WCD) (Fig. 89–8) to terminate VF in humans was first described in and has emerged as a viable option to "bridge" patients during a period of increased risk prior to eventual ICD implantation or to a point at which ICD implantation is no longer indicated. There are limited observational data available regarding the efficacy of WCDs leading to its general approval.70,71 An ongoing study, Vest Prevention of Early Sudden Death Trial/Prediction of ICD Therapies Study (VEST/ PREDICTS; NCT01446965) seeks to address the question of whether WCDs in patients with low LVEF (≤ 35%) after MI might benefit from additional protection with randomization to WCDs in addition to goaldirected medical therapy. PREDICTS will follow VEST as part of an
 
-![](_page_11_Picture_7.jpeg)
+![](ch13-12_page_11_Picture_7.jpeg)
 
-![](_page_11_Picture_8.jpeg)
+![](ch13-12_page_11_Picture_8.jpeg)
 
 ongoing observational study after 2 months (the completion of VEST). The largest real-world data regarding use comes from the WEARIT-II Registry, in which 2000 patients (40% ischemic, 46% nonischemic, and 12% with congenital or inherited arrhythmia) received WCDs for a median duration of 90 days.72 Sustained VT/VF was detected in 2.1% of patients with therapy delivery required for 1.1% (and the remainder spontaneously terminating). Risk was higher for patients with ischemic cardiomyopathy or congenital/inherited disease than nonischemic cardiomyopathy. Similar findings were also seen in another large singlecenter cohort study.73 The WCD therefore may be an option to cover the "gap" highlighted by DINAMIT and IRIS in patients at risk after MI. Importantly, rates of inappropriate therapy were low (0.5%). At the end of WCD use in WEARIT-II, less than half (42%) required ICD, with improvement in LVEF being the most common reason for deferral.
 
@@ -335,9 +335,9 @@ During the past two decades, cardiac resynchronization therapy (CRT) has emerged
 
 **Conventional Indications** Since its first description in 1994, there has been an explosion of research directed towards elaborating the impact of CRT on ventricular performance as well as elucidating its clinical impact.
 
-![](_page_12_Picture_2.jpeg)
+![](ch13-12_page_12_Picture_2.jpeg)
 
-![](_page_12_Picture_3.jpeg)
+![](ch13-12_page_12_Picture_3.jpeg)
 
 **FIGURE 89–9.** Posteroanterior (**A**) and lateral (**B**) chest film of patient with biventricular defibrillator (CRT-D device) with a quadripolar LV lead.
 
@@ -425,7 +425,7 @@ Particularly as methods for LV lead delivery become more refined, intraprocedura
 
 Atrial and ventricular leads are placed into the appropriate chambers and sutured in place after ensuring adequate pacing and sensing thresholds. The basic premise in obtaining acute pacing and sensing thresholds during implant is that these thresholds may degenerate over time, and adequate safety margins must be maintained to ensure safe long-term pacing and sensing. It is essential to understand the strength-duration curve (Fig. 89–10). The strength-duration curve for stimulation is the quantity of voltage required to stimulate the heart at a series of pulse widths. As shown in Fig. 89–10, increasing the pulse width beyond 0.6 milliseconds usually does not decrease the voltage threshold. Ideally, at implant an atrial pacing threshold of < 1.5 V and ventricular threshold of < 1 V should be obtained. The threshold commonly increases over the next 2 to 4 weeks, reaches a peak, and then decreases to a chronic threshold level after 6 to 8 weeks. With steroid-eluting leads, the acute rise in threshold is ameliorated and the chronic threshold is significantly lower than in nonsteroid-eluting leads. During initial programming, the pacing output is programmed at three to five times the threshold voltage with a pulse width of 0.4 to 0.5 milliseconds. At the 2- to 3-month follow-up visit, the output is decreased to no less than twice the threshold to maintain an adequate safety margin and prevent battery drain. Some pacemakers have algorithms that enable the device to confirm capture. These algorithms may determine pacing threshold at programmed time intervals or on a beat-by-beat basis. Using algorithms to automatically check pacing-capture thresholds, these devices adjust pacing voltages to just above the pacing threshold to reduce current drain and prolong battery longevity. Automatic capture algorithms are available for atrial, right ventricular, and left ventricular leads.
 
-![](_page_15_Figure_5.jpeg)
+![](ch13-12_page_15_Figure_5.jpeg)
 
 **FIGURE 89–10.** Strength-duration curve. This curve is obtained by plotting the voltage threshold obtained at various pulse widths. When programming the pacemaker output, this curve should be considered to ensure at least two times the safety margin. Increasing the pulse width beyond 0.6 ms generally does not decrease the voltage threshold.
 
@@ -445,9 +445,9 @@ There has been also growing interest regarding endocardial LV lead positioning. 
 
 Prior to implant, all patients who are candidates for S-ICD are screened with a three-lead surface ECG and the use of a template tool provided by the manufacturer. A patient "passes" only if a single lead consistently falls within a designated area in order to minimize the risk of T-wave
 
-![](_page_16_Picture_2.jpeg)
+![](ch13-12_page_16_Picture_2.jpeg)
 
-![](_page_16_Picture_3.jpeg)
+![](ch13-12_page_16_Picture_3.jpeg)
 
 **FIGURE 89–11.** Subcutaneous defibrillator in posteroanterior (**A**) and lateral (**B**) chest view.
 
@@ -479,7 +479,7 @@ As the code indicates, the ventricle is the chamber sensed and paced, with inhib
 | D (Dual)                                                    | D (Dual)           | D (I + T)           | M (Multiprogrammable)         | D (P + S)                   |
 | S (Single chamber)                                          | S (Single chamber) |                     | C (Communicating)             |                             |
 
-![](_page_17_Figure_2.jpeg)
+![](ch13-12_page_17_Figure_2.jpeg)
 
 **FIGURE 89–12.** Single-chamber ventricular-inhibited pacing mode. The first two beats are ventricular-paced (Vp) events. The third beat is a ventricular-sensed (Vs) event. A Vs or Vp event starts a lower-rate interval (LRI), at the end of which ventricular pacing is initiated. A sensed or paced event also initiates a ventricular refractory period (VRP) during which no sensing will occur. The LRI after a sensed event can be separately programmed at a longer interval to allow for native rhythm. This is called *hysteresis.*
 
@@ -516,7 +516,7 @@ In patients with DDD pacemakers, four different rhythm scenarios are possible, a
 - 1. Normal sinus rhythm with no atrial or ventricular pacing: Here the patient's rate is faster than the programmed lower rate of the pacemaker, and the native PR interval is shorter than the programmed AV interval, as a result of which both the atrial and ventricular channels are inhibited (Fig. 89–13).
 - 2. Atrial sensed, ventricular pacing: The patient's atrial rate is faster than the lower-rate limit, and the AV conduction interval is longer than the programmed AV interval, or there is no AV conduction, resulting in sensing of P waves and triggering of the ventricular channel after the programmed AV interval. In this situation, the
 
-![](_page_18_Figure_2.jpeg)
+![](ch13-12_page_18_Figure_2.jpeg)
 
 **FIGURE 89–13. A.** DDD pacing mode: atrial- and ventricular-sensed. In this example, atrial-sensed activity (As) initiates an atrioventricular interval (AVI), and normal conduction results in a ventricular-sensed (Vs) event that terminates the AV interval and the lower-rate interval (LRI) and initiates an LRI and the atrial escape interval (VA). Spontaneous atrial activity (As) again terminates the VA interval and starts a new AV interval. **B.** DDD pacing mode: As ventricular pacing. In this example the As event leads to Vp at the completion of the programmed AVI, because there is no native AV conduction to the ventricle. The Vp event starts the VA interval, the LRI, and the upper rate interval (URI). The VA and the LRIs are terminated by the spontaneous atrial activity that starts a new AV interval. **C.** DDD pacing mode: atrial-paced–ventricular-sensed. In this example, Ap starts the AVI but is terminated by the ventricular event that occurs before the completion of the AV interval. The Vs event initiates the VA and the LRI. If there is no spontaneous atrial activity, the VA interval times out and Ap occurs. **D.** DDD pacing mode: atrial- and ventricular-paced. The Ap event starts the AVI, at the completion of which the ventricle is paced because there is no spontaneous ventricular activity. The Vp event initiates the VA interval and results in atrial pacing, as there is no spontaneous atrial activity. Both Ap and Vp occur at the LRI.
 
@@ -535,7 +535,7 @@ The paced AV interval is considered as a single interval with two subportions. T
 
 In VDD and DDD modes, in addition to the programmed lower rate limit, there is an upper rate limit beyond which ventricular tracking of atrial events will not occur. When the atrial rate exceeds the programmed upper rate limit, the pacemaker will exhibit either Wenckebach or 2:1 AV block behavior. When the patient with complete heart block exercises to a sinus rate beyond the upper rate limit of the pacemaker, the P wave that is sensed is followed by ventricular pacing with
 
-![](_page_19_Figure_2.jpeg)
+![](ch13-12_page_19_Figure_2.jpeg)
 
 **FIGURE 89–14.** Atrioventricular (AV) interval and blanking periods. The AV interval after atrial pacing has two subportions. During the initial ventricular blanking period, sensing is suspended to avoid ventricular sensing of the leading edge of the atrial pacing artifact. During the second portion (cross-talk sensing window), if ventricular activity is sensed, ventricular pacing occurs with a shorter AV delay. The purpose of this safety feature (ventricular safety pacing) is to avoid inhibition of the ventricular channel by sensing of the atrial pacing artifact during this time window. Similar to the ventricular blanking period, there is an atrial blanking period after ventricular pacing, during which sensing is suspended in the atrial channel to avoid atrial oversensing of the far-field ventricular pacing artifact. Ap, atrial paced; Vp, ventricular paced.
 
@@ -543,7 +543,7 @@ prolongation of the AV interval beyond the programmed value to avoid violating t
 
 In young patients with complete heart block, the upper rate of the pacemaker should be programmed to faster rates corrected for the patient's age to prevent Wenckebach behavior of the pacemaker during exercise. Programming dynamic AV interval and dynamic PVARP allows the TARP to be shorter at higher pacing rates and avoid sudden slowing of ventricular pacing rates. Another option is rate-responsive features, where a separately programmable sensor rate allows the pacemaker to continue to pace at the sensor-driven rate during exercise.
 
-![](_page_19_Figure_6.jpeg)
+![](ch13-12_page_19_Figure_6.jpeg)
 
 **FIGURE 89–15.** DDD pacemaker: Wenckebach behavior at upper rate limit. The first beat shows the ventricular-paced (Vp) event synchronized to the atrial-sensed (As) event at the programmed AV interval (AVI). The next atrial event initiates an AVI, but when the AVI times out, the upper rate limit has not been satisfied so the AVI is prolonged. When the upper rate limit is satisfied, ventricular pacing occurs. Because of the delayed ventricular pacing, the next P wave falls even earlier into the next cardiac cycle and the AVI extension is even greater. The next P wave falls within the total atrial refractory period (TARP) and is not sensed. This atrial event (AR) is not followed by ventricular pacing. The following P wave occurs before the VA interval expires, and tracking occurs at the programmed AV delay because the upper rate limit cannot be exceeded. URI, upper rate interval.
 
@@ -563,7 +563,7 @@ The general approach to minimize ventricular pacing is to maintain the AAI mode 
 
 Rate-responsive pacing refers to the ability of the pacemaker to increase its lower rate in response to physiologic stimuli. Simple VVI and AAI pacemakers do not have the ability to increase their pacing rates in response to exercise. In patients with normal sinus node function and DDD pacemakers, the ventricular pacing rate increases in response to an increase in sinus rate and is physiologic. However, in the presence of sinus node dysfunction, the pacing rate does not increase commensurate with the increase in physiologic need. Rate-responsive pacemakers provide the ability to increase pacing rates through special sensors incorporated in the pacing system that monitor various physiologic processes. Based on information from the sensors, the lower rate of the pacemakers constantly varies up to the upper sensor rate. At any point in time, the sensor rate overrides the programmed lower rate of
 
-![](_page_20_Figure_2.jpeg)
+![](ch13-12_page_20_Figure_2.jpeg)
 
 **FIGURE 89—16.** Mode switch behavior of DDD pacemaker during atrial flutter. Surface lead II, marker channel, and atrial electrograms (EGMs) are shown. In the beginning of the tracing, atrial flutter is sensed and the ventricle is paced at, but does not exceed, the upper rate limit of 110 bpm. Once atrial tachyarrhythmia detection criteria are met, mode switch occurs (\*). Pacemaker switches mode to DDI (no atrial tracking) at 70 bpm with rate-smoothing function to avoid an abrupt change in pacing rate.
 
@@ -571,9 +571,9 @@ the pacemaker. Rate-responsive pacing is available in almost all current pacemak
 
 is preferable to VVI pacing. In patients with severe coronary artery disease, it may be necessary to limit the programmed upper rate limit. The ideal mode for pacing is decided based on information regarding sinus node function, AV nodal function, atrial arrhythmias, heart rate response to exercise, and patient-specific clinical factors.
 
-![](_page_20_Figure_6.jpeg)
+![](ch13-12_page_20_Figure_6.jpeg)
 
-![](_page_20_Figure_7.jpeg)
+![](ch13-12_page_20_Figure_7.jpeg)
 
 FIGURE 89—17. Example of algorithm used to minimize right ventricular pacing —managed ventricular pacing (MVP). A. Primarily, MVP mode looks like AAI(R) mode, except that it allows for prolonged AV interval. It is an atrial-based pacing (Ap) mode that looks for any consecutive A-A intervals without associated ventricular events. For occasional, single, nonconducted normal atrial contractions, the device provides backup ventricular pacing to ensure ventricular support. The backup ventricular pace (Vp) is scheduled to occur after any A-A interval in which there is no Vp event (\*). The Vp occurs 80 ms after the scheduled Ap (if pacing is occurring in the chamber), or after the inhibited atrial pace (ie, 80 ms after the escape A-A interval). B. MVP switches from AAI(R) operation to DDD(R) operation when there is evidence of persistent loss of AV conduction. The criterion to switch is loss of AV conduction for two of the last four pacing cycles (the four most recent A-A intervals). The strip illustration shows that immediately after the first A-A interval with no conducted ventricular sensed event (Vs), a backup Vp is delivered 80 ms after the scheduled Ap. Then a second A-A interval occurs with no conducted Vs event. Again, the backup Vp is delivered followed by a permanent switch to DDD(R) operation, wherein the AV delay is the programmed paced (or sensed) AV delay of 150 ms. AV, atrioventricular.
 
@@ -681,9 +681,9 @@ The constellation of neurologic and cardiovascular signs and symptoms resulting 
 
 The exact incidence of pacemaker syndrome is unknown, but severe manifestations are expected to occur in 5% to 7% of ventricularly paced patients. Milder symptoms or significant drops in systolic blood pressure and cardiac output during ventricular pacing occur in > 20% of patients. In the Pacemaker Selection in the Elderly (PASE) trial, 26% of patients in the ventricular pacing arm crossed over to the DDD pacing mode because of symptoms caused by pacemaker syndrome.21 The management of pacemaker syndrome usually requires restoration of
 
-![](_page_23_Picture_12.jpeg)
+![](ch13-12_page_23_Picture_12.jpeg)
 
-![](_page_23_Picture_13.jpeg)
+![](ch13-12_page_23_Picture_13.jpeg)
 
 **FIGURE 89–18.** Twiddler syndrome in patient with CRT-D device. On posteroanterior (**A**) view, the RV and LV leads have been retracted to SVC. On lateral (**B**) view, the atrial lead is still seen in RA appendage.
 
@@ -693,7 +693,7 @@ AV synchrony. In many patients, an upgrade to a dual-chamber pacer is indicated.
 
 Pacemaker-mediated tachycardia (PMT), or endless-loop tachycardia, is a well-recognized arrhythmia mediated by the pacemaker in patients with atrial-sensed ventricular pacing systems. In patients with intact VA conduction, a premature ventricular contraction may result in retrograde conduction to the atria, which, if outside the PVARP, is sensed and followed by ventricular pacing after the programmed AV interval. The paced ventricular event will again be followed by VA conduction, resulting in endless-loop tachycardia. PMT can be prevented by programming the PVARP to be longer than the native VA conduction time. However, if the VA interval is very long, the PVARP cannot be lengthened, as this will limit the upper rate. Modern pacemakers have several options to prevent or terminate PMT. One such feature is automatic extension of PVARP after a sensed premature ventricular beat to prevent tracking of retrogradely conducted P waves. If PMT is established (atrial-sensed ventricular pacing close to the upper rate limit with stable VA intervals), the PVARP is automatically extended to a longer interval of 500 milliseconds for one cycle, usually terminating the tachycardia (Fig. 89–19).
 
-![](_page_24_Figure_2.jpeg)
+![](ch13-12_page_24_Figure_2.jpeg)
 
 **FIGURE 89—19.** Pacemaker-mediated tachycardia. Surface electrocardiogram; marker channel with AV, VA, and VV intervals; and intracardiac atrial electrograms are displayed. The atrium is paced (**A**) at subthreshold output, leading to noncapture after the second ventricular paced beat, resulting in atrioventricular dissociation. The second-paced ventricular event is followed by a native P wave with a VA interval of 320 ms (PVARP 275 ms) and is sensed, leading to ventricular pacing. This is followed by a retrogradely conducted P wave (*open arrow*), with a VA interval of 420 ms, and sets up the endless-loop tachycardia. Because the ventricular pacing rate is above the programmed pacemaker-mediated tachycardia rate of 100 bpm, the device automatically extends the PVARP on the second-to-last ventricular paced beat to 500 ms (*arrow*), resulting in nonsensing of the retrograde P wave, terminating the tachycardia. PVARP, postventricular atrial refractory period.
 
@@ -726,7 +726,7 @@ TABLE 89–9. Differential Diagnosis of Failure to Capture
 | Battery depletion       | Normal           | Normal    |
 | Functional noncapture   | Normal           | Normal    |
 
-![](_page_25_Figure_2.jpeg)
+![](ch13-12_page_25_Figure_2.jpeg)
 
 **FIGURE 89–20.** Failure to capture. Surface electrocardiogram of a patient with VVI pacemaker at a lower-rate limit of 60 ppm is shown at the bottom. The pacemaker spikes (\*) are not followed by ventricular depolarization (no capture). Patient has spontaneous ventricular activity at 35 bpm. The device clearly senses the ventricular event because the pacemaker spike appears 1000 ms (60 ppm) after the sensed event. On interrogation of the device, His lead impedance was significantly lower (300 Ω) than the implant values, and the pacing threshold had increased significantly. These findings are consistent with lead failure secondary to insulation break. Chest radiograph revealed evidence of insulation break at the subclavian venous access site. VVI, ventricular demand pacing.
 
@@ -763,7 +763,7 @@ to an asynchronous mode to eliminate the pauses. In generator component malfunct
 
 In a single-chamber pacemaker or defibrillator, oversensing leads to inhibition of the pacing channel and causes inappropriate pauses. However, in dual-chamber devices, oversensing elicits either inappropriate inhibition or triggering, depending on the channel in which oversensing occurs and the programmed pacing mode. Oversensing in the ventricular channel in the DDD or DDI mode results in inhibition of both atrial and ventricular outputs and resetting of timing cycles. In patients with complete heart block, this may result in ventricular asystole (Fig. 89–21). Oversensing in the atrial channel can lead to inappropriate triggering of ventricular output. The various etiologies of oversensing were discussed in the previous section. One example of oversensing peculiar to dual-chamber pacemakers is cross-talk. The atrial channel output can be sensed in the ventricular channel as a far-field signal and inhibits the ventricular pacing output. In patients with complete heart block, this can result in ventricular asystole. Although far more common with unipolar systems, cross-talk can also occur in bipolar pacing systems. To prevent this phenomenon, there is a programmable ventricular blanking period (51-150 milliseconds) after atrial pacing, during which the ventricular channel is refractory. Additionally, there is a cross-talk–sensing window after the blanking period, during which a ventricular event, if sensed, will lead to ventricular pacing with a shorter AV interval. Oversensing as a result of lead fracture, insulation break, or other electrode problems will usually be random and erratic. With early lead problems, the malfunction is typically intermittent and may be exacerbated by certain body positions or motions. In later stages, the combination of oversensing, undersensing, and failure to capture is almost always diagnostic of a lead-related problem. Programming to an asynchronous mode may temporarily control this problem while awaiting lead replacement, which should be carried out as promptly as possible.
 
-![](_page_26_Figure_2.jpeg)
+![](ch13-12_page_26_Figure_2.jpeg)
 
 **FIGURE 89–21.** Oversensing of diaphragmatic myopotentials. Surface electrocardiogram and atrial and ventricular electrograms with event markers are shown. In this patient with a dual-chamber defibrillator, deep respiration reproduced the diaphragmatic myopotentials, resulting in inhibition of ventricular output. The patient developed dizzy spells caused by underlying complete heart block and inhibition of pacing because of oversensing. The ventricular lead was repositioned in the RV outflow tract eliminating the diaphragmatic oversensing. As, atrial sensed; VF, ventricular fibrillation; Vp, ventricular paced; Vs, ventricular sensed.
 

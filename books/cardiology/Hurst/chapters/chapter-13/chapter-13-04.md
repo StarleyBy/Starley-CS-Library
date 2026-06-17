@@ -118,9 +118,9 @@ The electrocardiogram (ECG) is central in establishing the etiology of cardiac a
 
 Ambulatory ECGs are increasingly used both to detect and to establish the burden of episodic arrhythmias. Ambulatory ECGs improve sensitivity for detecting AF in patients with cryptogenic stroke46 or for detecting ventricular arrhythmias in patients with comorbidities such as MI or left ventricular dysfunction at risk for future events.22 Ambulatory ECGs can help titrate rate control therapy in patients with AF, or document burden or absence of AF after rhythm control strategies such as ablation. The ambulatory ECG can also be used to detect episodic myocardial ischemia from ST-segment shifts, although
 
-![](_page_3_Figure_8.jpeg)
+![](ch13-04_page_3_Figure_8.jpeg)
 
-![](_page_3_Figure_9.jpeg)
+![](ch13-04_page_3_Figure_9.jpeg)
 
 **FIGURE 81–1. A.** 12-Lead ECG establishes diagnosis of wide-complex tachycardia in a patient with palpitations and near-syncope. Despite QRS complexes that are not bizarre, this tachycardia shows evidence of AV dissociation, a key feature of VT. AV dissociation may manifest in several ways: lack of A-V relationship, fusion beats, or capture beats (capture beats shown in this tracing, particularly evident in lead V1 ). Complexes, and 25 are narrower than others, and represent capture beats, consistent with AV dissociation and VT. Fascicular tachycardia was diagnosed and subsequently treated by ablation. **B.** 12-Lead ECG can establish diagnosis during narrow-complex tachycardia. This narrow-complex tachycardia in a patient with troublesome palpitations demonstrates P waves at the J-point immediately after the QRS complex, especially in leads II, V1 , and aVF. This "pseudo-RSR" pattern is typical of AVNRT, could be atrial tachycardia with a prolonged PR interval, but largely excludes AV reentry through a bypass tract. Invasive electrophysiological study revealed AVNRT, and this patient was treated by slow pathway ablation.
 
@@ -188,9 +188,9 @@ In patients with supraventricular tachycardias, TTE is important to screen for v
 
 In patients with ventricular arrhythmias or syncope, TTE is often used to define left ventricular ejection fraction (LVEF) and cardiac
 
-![](_page_6_Figure_2.jpeg)
+![](ch13-04_page_6_Figure_2.jpeg)
 
-![](_page_6_Figure_3.jpeg)
+![](ch13-04_page_6_Figure_3.jpeg)
 
 **FIGURE 81–2. A.** Artifact masquerading as monomorphic ventricular tachycardia. Close inspection reveals QRS complexes at the same rate as the preceding and succeeding sinus rhythm "marching through" the abnormal period. This figure represents sinus rhythm with mechanical artifact. **B.** Artifact that may be mistaken as ventricular tachycardia. Regular QRS complexes at 75 bpm are evident throughout the tracing, confirming the diagnosis of electronic artifact to explain the rapid spikes. **A**, reproduced with permission from Knight BP, Pelosi F, Michaud GF, et al: Clinical Consequences of Electrocardiographic Artifact Mimicking Ventricular Tachycardia. *N Engl J Med*. 1999 Oct 21;341:1270-4.
 
@@ -222,15 +222,15 @@ Screening for inherited syndromes is an expansive topic covered in another chapt
 
 There is increasing general interest in the science and practice of improving risk stratification for ventricular arrhythmias. Although it is currently not possible to identify if individual patients will or will not suffer arrhythmias, some clinically available tools will be summarized here.72 They include indices of abnormal conduction (signal-averaged ECG),
 
-![](_page_7_Figure_15.jpeg)
+![](ch13-04_page_7_Figure_15.jpeg)
 
-![](_page_7_Figure_16.jpeg)
+![](ch13-04_page_7_Figure_16.jpeg)
 
 **B FIGURE 81–3.** U-shaped curve for ICD efficacy. **A.** Two-year Kaplan-Meier mortality rates in the ICD and conventional therapy groups. **B.** The corresponding 2-year mortality rate reduction with an ICD, by risk score and in VHR patients. \**P* < .05 for the comparison between the conventional therapy and ICD groups. Reproduced with permission from Goldenberg I, Vyas AK, Hall WJ, et al. Risk stratification for primary implantation of a cardioverterdefibrillator in patients with ischemic left ventricular dysfunction. *J Am Coll Cardiol*. 2008 Jan 22;51:288-296.
 
 –30 –40 –50 –60
 
-![](_page_8_Figure_2.jpeg)
+![](ch13-04_page_8_Figure_2.jpeg)
 
 **Regardless of the level of recommendation put forth in these guidelines, the decision for placement of an ICD must involve prudent application of individual clinical judgment, thorough discussions of the strength of evidence, the benefits, and the risks (including but not limited to inappropriate discharges, lead and procedural complications) to allow active participation of the fully informed patient in ultimate decision making.**
 
@@ -252,13 +252,13 @@ TWA can be assessed in many ways. In the long QT syndrome, visible T-wave altern
 
 Autonomic dysfunction may contribute to the initiation of arrhythmias, yet the extent to which current tools can alter clinical management is debated. Heart rate variability (HRV) is the prototype, which measures variability in sinus cycle length. Traditional methods calculate the R-R interval over prolonged periods (24 hours) and measure the standard deviation of normal-to-normal beats as SDNN. Several studies show that reduced HRV < 100 milliseconds is associated with increased mortality.72
 
-![](_page_9_Figure_2.jpeg)
+![](ch13-04_page_9_Figure_2.jpeg)
 
 **FIGURE 81–5.** Signal-averaged ECG. The ECG is recorded from three orthogonal Frank leads, then averaged over > 200 beats and filtered. A representative tracing is shown and analyzed for a late small signal (late potential) as well as prolonged overall filtered QRS duration.
 
 In one study, post-MI patients with SDNN < 50 milliseconds have a 5.3 times higher mortality risk than those with HRV > 100 milliseconds. This risk is maintained in post-MI patients with LVEF ≤ 40%.78 An alternative test is to create a power spectrum of HRV. Three spectral components can be identified: very low frequency (< 0.04 Hz), low frequency (0.04-0.15 Hz), and high frequency (0.15-0.40 Hz).78 An increased ratio of low-frequency components (sympathetic balance) to high-frequency components (parasympathetic balance) is associated with unfavorable prognosis. HRV can be obtained from Holter monitors and contemporary implanted devices.
 
-![](_page_9_Figure_6.jpeg)
+![](ch13-04_page_9_Figure_6.jpeg)
 
 **FIGURE 81–6.** Clinical utility of T-wave alternans (TWA), documented in diverse scenarios over time. **A.** *Gross alternans* of elevated ST/T segments in a patient with angina pectoris preceding ventricular tachycardia. **B.** *Visible alternans* of T-wave polarity in a woman without angina, heralding polymorphic VT. **C.** *Subtle but visible TWA* after tachycardia termination, without arterial pressure alternans (bottom). **D.** *Visually inapparent microvolt-level TWA*, uncovered by digital signal processing. \*The more positive T wave of each alternating pair. Reproduced with permission from Narayan SM: T-wave alternans and the susceptibility to ventricular arrhythmias. *J Am Coll Cardiol*. 2006 Jan 17;47:269-281.
 
@@ -272,13 +272,13 @@ Cardiac magnetic resonance (CMR) imaging has an increasing role in arrhythmia ma
 
 In patients in whom electrophysiologic procedures are planned, CMR images may be incorporated into electroanatomic mapping
 
-![](_page_10_Figure_8.jpeg)
+![](ch13-04_page_10_Figure_8.jpeg)
 
-![](_page_10_Figure_9.jpeg)
+![](ch13-04_page_10_Figure_9.jpeg)
 
 **FIGURE 81–7. A.**Left ventricular scar as late enhancement on cardiac magnetic resonance. Increasing LV scar is correlated with an increased risk of ventricular arrhythmias. (Reproduced with permission from Kwong RY, Chan AK, Brown KA, et al. Impact of unrecognized myocardial scar detected by cardiac magnetic resonance imaging on event-free survival in patients presenting with signs or symptoms of coronary artery disease. *Circulation*. 2006 Jun 13;113:2733-2743.) **B.**Four stages of left atrial tissue fibrosis based on 3D delayed enhancement magnetic resonance imaging. Increasing percentages of LA fibrosis are correlated with progressively increasing risk of AF recurrence after AF ablation. Normal left atrial wall is displayed in *blue*; fibrotic changes are in *green* and *white*. (Reproduced with permission from Marrouche NF, Wilber D, Hindricks G, et al. Association of atrial tissue fibrosis identified by delayed enhancement MRI and atrial fibrillation catheter ablation: the DECAAF stud, JAMA. 2014 Feb 5;311:498-506.) **C.** Integration of coronary artery anatomy from computed tomography in commercially available electroanatomic map during epicardial ablation. Multimodality image integration is routinely used in electrophysiological studies and ablation, providing the advantages of structural/functional characterization of tissue, increasing safety during navigation of catheters within or external to the patient's heart, and decreasing use of traditional fluoroscopy. (Reproduced with permission from Zeppenfeld K, Tops LF, Bax JJ, et al: Images in cardiovascular medicine. Epicardial radiofrequency catheter ablation of ventricular tachycardia in the vicinity of coronary arteries is facilitated by fusion of 3-dimensional electroanatomical mapping with multislice computed tomography. *Circulation*. 2006 Jul 18;114:e51-e52.) (*continued*)
 
-![](_page_11_Figure_2.jpeg)
+![](ch13-04_page_11_Figure_2.jpeg)
 
 **FIGURE 81–7.** (*Continued*)
 

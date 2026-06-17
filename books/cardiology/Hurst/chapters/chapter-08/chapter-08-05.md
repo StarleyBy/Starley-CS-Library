@@ -44,7 +44,7 @@ The initial attack causes inflammation, thickening, and retraction of the mitral
 
 Occasionally MS develops from nonrheumatic causes. Extensive annular calcification in the elderly may limit valve area.23 Approximately 50% of such patients progress to more severe disease over time.
 
-![](_page_1_Picture_2.jpeg)
+![](ch08-05_page_1_Picture_2.jpeg)
 
 **FIGURE 50–1.** The typical *fish mouth* appearance of rheumatic mitral stenosis is shown. Reproduced with permission from Otto CM, ed. *Valvular Heart Disease*. Philadelphia: WB Saunders; 1999.
 
@@ -54,7 +54,7 @@ Radiation and restrictive mitral valve repair for mitral regurgitation are addit
 
 The main pathology in rheumatic MS is commissural fusion, leaflet thickening, and choral fusion and shortening leading to a typical "fishmouth" appearance. In normal subjects, mitral valve area (MVA) is 4.0 to 5.0 cm2 , such that in diastole there is hemodynamically a common chamber of the left atrium (LA) and left ventricle (LV). Thus, as shown in Fig. 50–2A, there is an initial small gradient across the mitral valve that rapidly dissipates so that throughout most of diastole,
 
-![](_page_1_Figure_7.jpeg)
+![](ch08-05_page_1_Figure_7.jpeg)
 
 **FIGURE 50–2. A.** Normal left ventricular (LV), left atrial (LA), and aortic (Ao) pressure tracings are shown. DFP, diastolic filling period; ECG, electrocardiogram; SEP, systolic ejection period. **B.** The pressure gradient between pulmonary capillary wedge pressure (PCW) and left ventricle (LV) is shown for a patient with MS. In this figure, the LV end-diastolic pressure is atypically elevated, consistent with coincident mitral regurgitation. Reproduced with permission from Baim DS, Grossman W: *Grossman's Cardiac Catheterization, Angiography, and Intervention*, 6th ed. Philadelphia: Lippincott Williams & Wilkins; 2000.
 
@@ -144,7 +144,7 @@ Before the easy applicability of echocardiography, the chest x-ray was often the
 
 The echocardiogram is the modality of choice in the assessment of MS. It establishes the diagnosis, determines the etiology, quantifies the severity, detects concomitant valve involvement, assesses suitability for balloon mitral valvotomy (BMV) and enables serial follow-up. Valve images show the typical "hockey-stick" appearance of the mitral valve, immobility of the posterior leaflet, and "fish-mouth" narrowing of the valve orifice (Fig. 50-3).51 Valve area can be estimated by direct planimetry (either 2D or 3D), by the continuity equation, by the pressure half-time technique (dividing an empirical constant of 220 by the mitral inflow pressure half-time), and the proximal isovelocity surface area (PISA) method. In some cases these measures are concordant, but in others, all measures must be taken into account and clinical judgment used to decide on MS severity. Planimetry by three-dimensional echocardiography has better reproducibility and intraobserver variability than two-dimensional echocardiography and has the closest agreement with invasive Gorlin-derived MVA.55 It provides better evaluation of commissural anatomy in patients undergoing BMV (Fig. 50-4). The mean pressure gradient across the MV can be determined using the continuous-wave Doppler signal. Although this parameter is affected by flow and heart rate, it correlates well with invasive measurement. In the
 
-![](_page_4_Figure_2.jpeg)
+![](ch08-05_page_4_Figure_2.jpeg)
 
 **FIGURE 50–3. A.** Transthoracic two dimensional echocardiogramparasternal long-axis view demonstrating "hockey-stick" appearance of anterior mitral leaflet. **B.** M-mode echocardiogram across tips of mitral valve leaflets showing reduced E-F slope and paradoxical anterior motion of posterior leaflet. **C.** Four-chamber view showing thickening of both leaflets and immobility of posterior mitral leaflet. **D.** Planimetry of mitral valve in short axis with valve area of 0.9 cm2
 
@@ -152,7 +152,7 @@ presence of atrial fibrillation, an average of 5 beats with least variation shou
 
 Echocardiography is also important in evaluating patients for balloon mitral valvotomy (BMV), the therapy of choice for suitable valves, as well as for guiding BMV (see below).56 Valve leaflet thickness, leaflet mobility, valve calcification, and subvalvular apparatus deformity are scored from 1 to 4, where 1 indicates mild abnormality and 4 indicates severe pathology. Valves scored 8 or less generally respond well to BMV, although this rule is not invariable, and some patients with higher scores still achieve a good result with BMV.57 Other echocardiographic scores have been developed but none has proven to be superior to another.53 All have a limited value in predicting the success (or complications) of BMV. Rather, scoring systems should be considered complementary to one another. Because the mechanism of BMV is splitting of commissures, assessment of commissural calcium is vital. Bicommissural calcification is a contraindication for BMV. The presence and severity of concomitant mitral regurgitation (MR) is also assessed because BMV may worsen existing MR. More than mild (1+) MR is usually considered a relative contraindication to BMV. BMV may be safely performed in patients with grade 2 MR, especially if the MR is central. Grade 3–4 MR is usually considered an absolute contraindication.10 If after transthoracic echocardiography, BMV is contemplated, transesophageal echocardiography is then performed to
 
-![](_page_4_Figure_7.jpeg)
+![](ch08-05_page_4_Figure_7.jpeg)
 
 **FIGURE 50–4. A.** Three-dimensional echocardiogram showing typical "fish-mouth" appearance of mitral stenosis **B.** Three-dimensional echocardiogram after balloon mitral valvotomy demonstrating a completely split lateral commissure and partially split medial commissure indicative of successful BMV.
 
@@ -181,7 +181,7 @@ In most cases, MS evaluation can be completely assessed noninvasively. However, 
 
 Because most patients with MS in whom cardiac surgery is contemplated are of an age to be at risk for coronary artery disease, coronary
 
-![](_page_5_Figure_10.jpeg)
+![](ch08-05_page_5_Figure_10.jpeg)
 
 **FIGURE 50–5. A.** Simultaneous left atrial (LA) and left ventricular (LV) pressure tracings in a patient with severe MS (mean transmitral gradient 20.4 mm Hg) **B.** Simultaneous LA and LV pressure tracings in the same patient after successful balloon mitral valvotomy (mean transmitral gradient reduced to 6.6 mm Hg, reduction in mean LA pressure and "v" wave height).
 
@@ -219,7 +219,7 @@ Although, the ultimate therapy for symptomatic MS is mechanical relief of the ob
 
 Three procedures are routinely practiced for the relief of MS: BMV, open commissurotomy (OMV), and mitral valve replacement (MVR). In some areas, closed commissurotomy (CMV) is still practiced quite effectively and does not entail the cost of the catheters and balloons needed for BMV. Because BMV is less morbid and carries a lower mortality than does surgery, the timing for BMV is more liberal than for the surgical procedures at both ends of the clinical spectrum. It may be applied for mild symptoms caused by severe MS or in late-stage disease in patients at high risk for surgery from various comorbidities. Advanced symptoms worsen prognosis (Fig. 50–6), and thus BMV or surgery should
 
-![](_page_6_Figure_15.jpeg)
+![](ch08-05_page_6_Figure_15.jpeg)
 
 **FIGURE 50–6.** Survival according to therapy and symptomatic status for patients with mitral stenosis is shown. NYHA classes II, III, and IV are roughly equivalent to Olesen groups B, C, and D, respectively. Reproduced with permission from Roy SB, Gopinath N: Mitral Stenosis. *Circulation*. 1968 July;38(1 Suppl):68–76. 80
 
