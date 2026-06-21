@@ -135,11 +135,11 @@ Pericardial constriction exerts its pathophysiologic effects by limiting cardiac
 
 Modern axial imaging with CT (Fig. 57-8) and MRI (Fig. 57-9) are often able to visualize thickened and/or calcified pericardium, with or without coexisting effusion. Dynamic CT and MRI also demonstrate many of the physiologic features seen with echocardiography. Importantly, although pericardial thickening is usually present in CP, it is possible to have CP with normal pericardial thickness, as well as pericardial thickening without CP.
 
-![](_page_4_Picture_8.jpeg)
+![](_page_4_Picture_7.jpeg)
 
 **FIGURE 57-8** CT scan showing pericardial thickening and calcification.
 
-![](_page_5_Figure_2.jpeg)
+![](_page_4_Picture_8.jpeg)
 
 **FIGURE 57-9** MRI showing pericardial thickening with pericarditis.
 
