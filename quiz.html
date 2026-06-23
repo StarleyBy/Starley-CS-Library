@@ -43,7 +43,14 @@
                         <label class="toggle-switch">
                             <input type="checkbox" id="setting-shuffle" checked>
                             <span class="slider"></span>
-                            Shuffle Questions
+                            <span id="label-setting-shuffle">Shuffle Questions</span>
+                        </label>
+                    </div>
+                    <div class="settings-row">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="setting-exam">
+                            <span class="slider"></span>
+                            <span id="label-setting-exam">Exam Mode</span>
                         </label>
                     </div>
                 </div>
@@ -127,6 +134,11 @@
                     <button id="btn-new-session" class="btn-secondary">🔀 New Session</button>
                     <button id="btn-res-exit" class="btn-outline">📖 Back to Reader</button>
                 </div>
+            </div>
+            
+            <div id="exam-errors-section" class="exam-errors-section" style="display:none">
+                <h2 id="exam-errors-title">Review Incorrect Answers</h2>
+                <div id="exam-errors-list" class="exam-errors-list"></div>
             </div>
         </section>
     </div>
