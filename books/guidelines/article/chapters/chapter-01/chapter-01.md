@@ -145,6 +145,22 @@ Despite the controversies around their efficacy in the setting of cardiogenic sh
 There has been a significant uptake of ECMO technology in adults since the 2009 H1N1 Influenza pandemic. This pandemic not only led to many new ECMO centers but also created greater awareness of the process of ECMO. Success achieved with venovenous (VV) ECMO during the pandemic with contemporary technology has certainly encouraged clinicians to apply ECMO technology to provide cardiorespiratory support in a variety of clinical settings. Providing tailored temporary MCS to patients with acute refractory cardiac failure using ECMO technology is a rapidly evolving area where intervention may be time-critical and mortality is higher than for isolated respiratory failure.
 
 The indications listed in the Extracorporeal Life Support Organization (ELSO) guidelines for ECMO for cardiac failure in adults are shown in Table 1. The use of ECMO in the setting of CPR is discussed elsewhere. International Society for Heart and Lung Transplantation guidelines for MCS provide evidence-based recommendations for long-term MCS options for patients with cardiac failure. These guidelines strongly recommend consideration of the use of temporary MCS in patients with multiorgan failure, sepsis, or on mechanical ventilation, to allow successful optimization of clinical status and neurologic assessment prior to placement of a long-term MCS device. The severity of non-cardiac organ system failures may be used to identify suitable patients and a sequential organ failure assessment (SOFA) score >15 has been considered a contraindication to VV-ECMO; similar criteria may be applicable for VA-ECMO or for the use of an ECMO circuit as a temporary VAD.
+  
+
+<details class="med-details">
+<summary>
+  
+**Table 1** **Extracorporeal Life Support Organization (ELSO) Recommended Indications for ECMO in Adult Patients with Cardiac Failure**</summary>
+<div class="details-content">
+
+**Indications**
+- Inadequate tissue perfusion manifested as hypotension and low cardiac output despite adequate intravascular volume.
+- Shock persisting despite volume administration, inotropes and vasoconstrictors, and intra-aortic balloon counter-pulsation if appropriate.
+- Typical causes: Acute myocardial infarction, myocarditis, peripartum cardiomyopathy, decompensated chronic heart failure, post cardiotomy shock.
+- Septic shock is an indication in some centers.
+</div>
+</details>
+
 
 The underlying cause of cardiac dysfunction and projected time course of recovery, severity of pulmonary dysfunction and projected time course of recovery, functional reserve of each ventricle, the presence and severity of valvular pathology, risk of arterial access and size of vessels, severity of coagulopathy and risk of sternotomy, planned future surgery such as long term VAD or transplant may all have to be considered prior to finalizing an individualized MCS strategy.
 
@@ -207,6 +223,33 @@ There has been a radical shift in VAD technology and new generation implantable 
 Eligible patients with progressive, non-reversible, chronic heart failure may be placed on these devices as bridge to destination or heart transplant. Meticulous patient selection and timely insertion of the device/s is the key to positive outcomes. The temporary MCS bridging strategies described above in many ways may eliminate the need for placement of these very expensive devices in critically ill patients. This is important, as urgency of VAD placement has also been shown to play a factor in survival. Patients receiving emergent LVADs have a lower rate of survival than patients who are less unwell when the LVAD is implanted.
 
 There are several risk models to predict the survival of heart failure patients. These may be used to identify high-risk patients for potential LVAD therapy. The identified preoperative risk factors for mortality based on the results of the Interagency Registry for Mechanically Assisted Circulatory Support (INTERMACS) indicate that older age, ascites, increased bilirubin, and cardiogenic shock (INTERMACS level 1) are highly associated with post-implant mortality. While it is increasingly obvious that implanting a VAD in these patients is associated with poor survival, refinements in devices and surgical techniques raise an important question: when is it too soon to implant a VAD in a patient with progressive, non-reversible, chronic heart failure? The following sections will briefly discuss the available VAD options and common early complications that intensivists may encounter following VAD implantation.
+
+
+<details class="med-details">
+<summary>Table 2 Technical summary of clinically available, long-term implantable rotary blood pumps</summary>
+<div class="details-content">
+
+| Device | Size (mm) | Weight (g) | Speed (RPM) | Flow rates (l/min) |
+|--------|-----------|------------|-------------|---------------------|
+| **Axial Flow** | | | | |
+| Thoratec, HeartMate II | 60 × 40 | 375 | 6,000–15,000 | ≥ 10 |
+| Reliant Heart, Heart Assist 5 | 71 × 30 | 92 | 7,500–12,500 | ≥ 10 |
+| Jarvik Inc, Jarvik 2000 | 55 × 25 | 85 | 8,000–12,000 | ≥ 7 |
+| Berlin Heart, INCOR | 120 × 30 | 200 | 5,000–10,000 | ≥ 7 |
+| **Centrifugal Flow** | | | | |
+| HeartWare, HVAD | 57° × 50 | 160 | 1,800–4,000 | ≥ 10 |
+| Terumo, DuraHeart | 45 × 72 | 540 | 1,200–2,600 | ≥ 10 |
+| Thoratec, HeartMate III | 30 × 69 | 474 | 2,000–5,500b | ≥ 10 |
+| **Mixed Flow** | | | | |
+| Circulite, Synergy | 50 × 12 | 25 | 20,000–28,000 | ≥ 3.5 |
+| HeartWare, MVAD | 50 × 21 | 58 | 16,000–28,000 | ≥ 10 |
+
+*RPM — revolutions per minute, Φ — diameter*  
+*a — This value indicates the HeartWare HVAD height including the 32 mm long inflow cannula*  
+*b — This value is taken from minimum and maximum pump speeds shown on the pressure head versus volume flow rate curve*
+</div>
+</details>
+
 
 </div></details>
 
