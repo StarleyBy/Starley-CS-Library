@@ -1182,99 +1182,105 @@
     },
     {
       "id": 57,
-      "questionEn": "Which statement regarding ventricular assist devices (VADs) is correct?",
-      "questionRu": "Какое утверждение об устройствах вспомогательного кровообращения желудочков верно?",
+      "questionEn": "A 45-year-old man, about two weeks after heart transplantation with an uneventful postoperative course, is being prepared for discharge. Approximately 15 minutes after removal of epicardial pacing wires, he reports weakness and appears pale. Monitoring shows heart rate 35 and blood pressure 85/60. After echocardiography ruled out tamponade, what is the first thing to do?",
+      "questionRu": "Мужчина 45 лет, примерно через две недели после трансплантации сердца с неосложненным послеоперационным течением, готовится к выписке. Приблизительно через 15 минут после удаления эпикардиальных электродов он жалуется на слабость и выглядит бледным. На мониторе - частота сердечных сокращений 35 и артериальное давление 85/60. После того, как эхокардиография исключила тампонаду, что следует сделать в первую очередь?",
       "optionsEn": {
-        "A": "Continuous-flow devices have completely eliminated thromboembolic complications.",
-        "B": "Infection remains one of the major complications associated with long-term support.",
-        "C": "Pulsatile devices are currently preferred over continuous-flow devices.",
-        "D": "Gastrointestinal bleeding is uncommon with modern LVAD systems."
+        "A": "External pacing.",
+        "B": "Administer atropine.",
+        "C": "Ask him to perform a Valsalva maneuver.",
+        "D": "Carotid sinus massage."
       },
       "optionsRu": {
-        "A": "Устройства с непрерывным потоком полностью устранили тромбоэмболические осложнения.",
-        "B": "Инфекция остается одним из основных осложнений, связанных с долгосрочной поддержкой.",
-        "C": "В настоящее время пульсирующие устройства предпочтительнее устройств с непрерывным потоком.",
-        "D": "Желудочно-кишечное кровотечение редко встречается в современных системах LVAD."
+        "A": "Наружная электрокардиостимуляция.",
+        "B": "Введение атропина.",
+        "C": "Попросить его выполнить пробу Вальсальвы.",
+        "D": "Массаж каротидного синуса."
       },
-      "correctAnswer": "B",
-      "explanationEn": "Infection (driveline, pump pocket) remains a major complication of long-term VAD support.",
-      "explanationRu": "Инфекция (выход кабеля, карман насоса) остается серьезным осложнением долгосрочной поддержки ВАД."
+      "correctAnswer": "A",
+      "explanationEn": "<b><mark style=\"background:#8be9fd;color:#000\">Denervation</mark></b> alters the heart's response to therapeutic interventions that act directly through the cardiac autonomic nervous system. <b><span style=\"color:#e74c3c\">Carotid sinus massage</span></b>, the <b><span style=\"color:#e74c3c\">Valsalva maneuver</span></b>, and <b><span style=\"color:#e74c3c\">atropine</span></b> <b><mark style=\"background:#ffff00;color:#000\">have no effect</mark> on SA node firing rate or atrioventricular conduction</b>.",
+      "explanationRu": "<b><mark style=\"background:#8be9fd;color:#000\">Денервация</mark></b> изменяет реакцию сердца на терапевтические вмешательства, которые действуют непосредственно через сердечную вегетативную нервную систему. <b><span style=\"color:#e74c3c\">Массаж каротидного синуса</span></b>, <b><span style=\"color:#e74c3c\">проба Вальсальвы</span></b> и <b><span style=\"color:#e74c3c\">атропин</span></b> <b><mark style=\"background:#ffff00;color:#000\">не влияют</mark> на частоту разрядов СА-узла или предсердно-желудочковую проводимость</b>."
     },
     {
       "id": 58,
-      "questionEn": "Which of the following is the most common indication for implantation of an LVAD?",
-      "questionRu": "Что из следующего является наиболее частым показанием для имплантации LVAD?",
+      "questionEn": "What is true regarding acute rejection of a transplanted heart?",
+      "questionRu": "Что верно в отношении острого отторжения трансплантированного сердца?",
       "optionsEn": {
-        "A": "Congenital heart disease",
-        "B": "Severe pulmonary hypertension",
-        "C": "End-stage heart failure",
-        "D": "Refractory ventricular arrhythmias"
+        "A": "Most cases are mediated by antibodies against the transplanted heart.",
+        "B": "The strongest risk factor is a young female donor (regardless of the recipient's sex).",
+        "C": "The damage caused to the transplanted heart is usually irreversible.",
+        "D": "It is caused by ABO blood type incompatibility, and therefore such cases are almost non-existent today."
       },
       "optionsRu": {
-        "A": "Врожденный порок сердца",
-        "B": "Тяжелая легочная гипертензия",
-        "C": "Терминальная стадия сердечной недостаточности",
-        "D": "Рефрактерные желудочковые аритмии"
+        "A": "Большинство случаев опосредованы антителами против трансплантированного сердца.",
+        "B": "Наиболее сильным фактором риска является донорство от молодой женщины (независимо от пола реципиента).",
+        "C": "Повреждение, наносимое трансплантированному сердцу, обычно необратимо.",
+        "D": "Вызвано несовместимостью по группе крови (ABO), поэтому сегодня таких случаев почти не бывает."
       },
-      "correctAnswer": "C",
-      "explanationEn": "End-stage heart failure refractory to medical therapy is the most common indication for LVAD implantation, either as bridge to transplant or destination therapy.",
-      "explanationRu": "Терминальная стадия сердечной недостаточности, рефрактерная к медикаментозной терапии, является наиболее частым показанием для имплантации LVAD — либо в качестве моста к трансплантации, либо как конечная терапия."
+      "correctAnswer": "B",
+      "explanationEn": "<b><mark style=\"background:#8be9fd;color:#000\">Rejection</mark></b> of a cardiac allograft is a normal host response to cells recognized as foreign. \n\nThe vast majority of cases are mediated by the <b><span style=\"color:#e74c3c\">cellular arm</span></b> of the immune response through an elegant cascade of events involving macrophages, cytokines, and T lymphocytes. <b><span style=\"color:#e74c3c\">Antibody-mediated rejection (AMR)</span></b>, also called humoral rejection or vascular rejection, <b><mark style=\"background:#ffff00;color:#000\"><i>is less common</i></mark></b>, but is also more difficult to diagnose. \n\nThe highest <b><span style=\"color:#3498db\">risk factors are allografts from donors of a <mark style=\"background:#ffff00;color:#000\">younger age</mark> and <mark style=\"background:#ffff00;color:#000\">female sex</mark> (regardless of the recipient's sex)</span></b>. \n\nAlthough about <b>85% of episodes <span style=\"color:#e74c3c\">can be managed</span> with corticosteroid therapy alone</b>, rejection remains a major cause of morbidity in heart transplant recipients. \n\n<mark style=\"background:#ff79c6;color:#fff\"><b>Hyperacute</b></mark> rejection is the result of pre-existing donor-specific antibodies in the recipient. Screening <b><span style=\"color:#e74c3c\">for ABO blood group and PRA</span></b> has made this condition a rare complication.",
+      "explanationRu": "<b><mark style=\"background:#8be9fd;color:#000\">Отторжение</mark></b> сердечного аллотрансплантата является нормальной реакцией хозяина на клетки, распознаваемые как чужеродные. \n\nПодавляющее большинство случаев опосредовано <b><span style=\"color:#e74c3c\">клеточным звеном</span></b> иммунного ответа через изящный каскад событий с участием макрофагов, цитокинов и Т-лимфоцитов. <b><span style=\"color:#e74c3c\">Антителозависимое отторжение (АЗО)</span></b>, также называемое гуморальным отторжением или васкулярным отторжением, <b><mark style=\"background:#ffff00;color:#000\"><i>встречается реже</i></mark></b>, но его также труднее диагностировать. \n\nНаиболее высокими <b><span style=\"color:#3498db\">факторами риска являются аллотрансплантаты от доноров более <mark style=\"background:#ffff00;color:#000\">молодого возраста</mark> и <mark style=\"background:#ffff00;color:#000\">женского пола</mark> (независимо от пола реципиента)</span></b>. \n\nХотя около <b>85% эпизодов <span style=\"color:#e74c3c\">могут быть купированы</span> только терапией кортикостероидами</b>, отторжение по-прежнему является основной причиной заболеваемости у реципиентов сердечного трансплантата. \n\n<mark style=\"background:#ff79c6;color:#fff\"><b>Сверхострое</b></mark> отторжение является результатом предсуществующих донор-специфических антител у реципиента. Скрининг <b><span style=\"color:#e74c3c\">по группе крови ABO и PRA</span></b> сделал это состояние редким осложнением."
     },
     {
       "id": 59,
-      "questionEn": "A patient supported with an LVAD develops low-flow alarms, elevated LDH levels, and hemoglobinuria. What is the most likely diagnosis?",
-      "questionRu": "У пациента, поддерживаемого с помощью LVAD, возникают сигналы низкого потока, повышение уровня ЛДГ и гемоглобинурия. Какой наиболее вероятный диагноз?",
+      "questionEn": "Which of the following patients has a Class I indication for carotid stenosis screening (Doppler) prior to coronary artery bypass grafting?",
+      "questionRu": "Какой из следующих пациентов имеет показание класса I для скрининга стеноза сонных артерий (допплер) перед операцией коронарного шунтирования?",
       "optionsEn": {
-        "A": "Right ventricular failure",
-        "B": "Pump thrombosis",
-        "C": "Device infection",
-        "D": "Aortic insufficiency"
+        "A": "A 59-year-old with a left-sided cervical murmur on physical examination.",
+        "B": "A 55-year-old diabetic with multivessel coronary artery disease.",
+        "C": "A 62-year-old with severe peripheral vascular disease (PVD).",
+        "D": "A 73-year-old who is a candidate for LIMA to LAD bypass."
       },
       "optionsRu": {
-        "A": "Правожелудочковая недостаточность",
-        "B": "Тромбоз насоса",
-        "C": "Инфекция устройства",
-        "D": "Недостаточность аортального клапана"
+        "A": "59-летний пациент с левосторонним шумом в области шеи при физикальном обследовании.",
+        "B": "55-летний пациент с сахарным диабетом и многососудистым поражением коронарных артерий.",
+        "C": "62-летний пациент с тяжелым заболеванием периферических сосудов (PVD).",
+        "D": "73-летний пациент, которому планируется шунтирование LIMA в LAD."
       },
-      "correctAnswer": "B",
-      "explanationEn": "Low-flow alarms, elevated LDH, and hemoglobinuria are classic signs of pump thrombosis in LVAD patients.",
-      "explanationRu": "Сигналы низкого потока, повышение ЛДГ и гемоглобинурия являются классическими признаками тромбоза насоса у пациентов с LVAD."
+      "correctAnswer": "A",
+      "explanationEn": "<b><mark style=\"background:#8be9fd;color:#000\">2014</mark></b> ESC/EACTS Guidelines on myocardial revascularization",
+      "explanationRu": "<b><mark style=\"background:#8be9fd;color:#000\">2014</mark></b> ESC/EACTS Guidelines on myocardial revascularization",
+      "explanationImages": [
+        "2020-59A1.jpg"
+      ]
     },
     {
       "id": 60,
-      "questionEn": "Which of the following best describes the mechanism of gastrointestinal bleeding in patients with continuous-flow LVADs?",
-      "questionRu": "Что из следующего лучше всего описывает механизм желудочно-кишечного кровотечения у пациентов с LVAD с непрерывным потоком?",
+      "questionEn": "Frailty in patients being evaluated for cardiac surgery is an important tool for determining prognosis. All of the following are tests for assessing frailty, EXCEPT:",
+      "questionRu": "Слабость (астения) у пациентов, которым планируется кардиохирургическое вмешательство, является важным инструментом для определения прогноза. Все следующие тесты используются для оценки слабости, КРОМЕ:",
       "optionsEn": {
-        "A": "Portal hypertension",
-        "B": "Acquired von Willebrand syndrome and angiodysplasia formation",
-        "C": "Chronic anticoagulation alone",
-        "D": "Mesenteric ischemia"
+        "A": "Neurological examination.",
+        "B": "Handgrip strength measurement using a dynamometer.",
+        "C": "Blood albumin level test.",
+        "D": "5-meter walk test (measuring time)."
       },
       "optionsRu": {
-        "A": "Портальная гипертензия",
-        "B": "Приобретенный синдром фон Виллебранда и образование ангиодисплазий",
-        "C": "Только хроническая антикоагуляция",
-        "D": "Мезентериальная ишемия"
+        "A": "Неврологическое обследование.",
+        "B": "Измерение силы сжатия кисти с помощью динамометра.",
+        "C": "Определение уровня альбумина в крови.",
+        "D": "Тест ходьбы на 5 метров (измерение времени)."
       },
-      "correctAnswer": "B",
-      "explanationEn": "Continuous-flow LVADs cause high shear stress, leading to acquired von Willebrand syndrome and angiodysplasia, predisposing to GI bleeding.",
-      "explanationRu": "LVAD с непрерывным потоком создают высокое напряжение сдвига, что приводит к приобретенному синдрому фон Виллебранда и ангиодисплазиям, предрасполагая к ЖКК."
+      "correctAnswer": "A",
+      "explanationEn": "",
+      "explanationRu": "",
+      "explanationImages": [
+        "2020-60A.jpg"
+      ]
     },
     {
       "id": 61,
-      "questionEn": "A patient undergoing CABG develops severe hypotension immediately after separation from cardiopulmonary bypass. Transesophageal echocardiography demonstrates severe right ventricular dysfunction. Which treatment is most appropriate initially?",
-      "questionRu": "У пациента во время КШ развивается тяжелая гипотензия сразу после отключения от искусственного кровообращения. Чреспищеводная эхокардиография демонстрирует тяжелую дисфункцию правого желудочка. Какое лечение наиболее целесообразно на начальном этапе?",
+      "questionEn": "A 31-year-old man with no known medical history, admitted to the ICU with cardiogenic shock due to myocarditis. Initially treated with inotropes and IABP, but due to ventricular arrhythmias and multiple episodes of CPR and defibrillation, he was connected to VA-ECMO with stabilization. After 24 hours on this therapy, upon stopping the IABP for a few seconds, the arterial pressure waveform shows a straight line (mean pressure 53 mmHg). TEE shows a dilated left ventricle with minimal contraction and no evidence of clots in the heart or aortic root. Which of the following is NOT an accepted treatment at this stage?",
+      "questionRu": "Мужчина 31 года без известных заболеваний в анамнезе, поступил в отделение интенсивной терапии с кардиогенным шоком на фоне миокардита. Первоначально лечился инотропными препаратами и ВАБК, но из-за желудочковых аритмий и множественных эпизодов СЛР и дефибрилляции был подключен к VA-ECMO со стабилизацией состояния. Через 24 часа на этой терапии, после остановки ВАБК на несколько секунд, на кривой артериального давления наблюдается прямая линия (среднее давление 53 мм рт. ст.). Чреспищеводная ЭхоКГ показывает расширенный левый желудочек с минимальным сокращением и без признаков тромбов в сердце или корне аорты. Что из перечисленного НЕ является общепринятым лечением на данном этапе?",
       "optionsEn": {
-        "A": "Increase systemic vascular resistance with phenylephrine alone",
-        "B": "Volume optimization and inotropic support",
-        "C": "Immediate return to cardiopulmonary bypass for CABG revision",
-        "D": "Administration of beta-blockers"
+        "A": "Increasing heparin dose to achieve an ACT of about 200 seconds.",
+        "B": "Removing the IABP and replacing it with Impella.",
+        "C": "Inserting a left ventricular vent through the apex via a subxiphoid approach.",
+        "D": "Reducing the ECMO flow to decrease left ventricular afterload."
       },
       "optionsRu": {
-        "A": "Повышение системного сосудистого сопротивления только фенилэфрином",
-        "B": "Оптимизация объема и инотропная поддержка",
-        "C": "Немедленное возвращение на искусственное кровообращение для ревизии КШ",
-        "D": "Введение бета-блокаторов"
+        "A": "Увеличение дозы гепарина для достижения ACT около 200 секунд.",
+        "B": "Удаление ВАБК и замена его на Impella.",
+        "C": "Установка вентрикулярного дренажа левого желудочка через верхушку субксифоидальным доступом.",
+        "D": "Снижение потока на ЭКМО для уменьшения постнагрузки левого желудочка."
       },
       "correctAnswer": "B",
       "explanationEn": "Initial management of RV dysfunction after CPB includes volume optimization to maintain preload and inotropic support (e.g., milrinone, dobutamine).",
@@ -1282,19 +1288,19 @@
     },
     {
       "id": 62,
-      "questionEn": "Which statement regarding postoperative atrial fibrillation after cardiac surgery is correct?",
-      "questionRu": "Какое утверждение о послеоперационной фибрилляции предсердий после кардиохирургических операций верно?",
+      "questionEn": "In which of the following patients is there NO Class I indication for diagnostic coronary angiography before surgery for aortic valve replacement due to severe bicuspid aortic valve stenosis?",
+      "questionRu": "У какого из следующих пациентов НЕТ показаний класса I для диагностической коронарной ангиографии перед операцией по замене аортального клапана по поводу тяжелого стеноза двустворчатого аортального клапана?",
       "optionsEn": {
-        "A": "It most commonly occurs within the first 2–4 postoperative hours.",
-        "B": "It is associated with increased risk of stroke and prolonged hospitalization.",
-        "C": "It is rare after valve surgery.",
-        "D": "It never recurs after discharge."
+        "A": "A 35-year-old with no cardiovascular risk factors and LVEF of 45%.",
+        "B": "A 42-year-old with no cardiovascular risk factors and LVEF of 60%.",
+        "C": "A 32-year-old with medically controlled hypertension and LVEF of 60%.",
+        "D": "A 37-year-old with mild-to-moderate secondary mitral regurgitation and LVEF of 60%."
       },
       "optionsRu": {
-        "A": "Наиболее часто возникает в первые 2–4 послеоперационных часа.",
-        "B": "Связана с повышенным риском инсульта и длительной госпитализацией.",
-        "C": "Редко встречается после операций на клапанах.",
-        "D": "Никогда не рецидивирует после выписки."
+        "A": "35 лет, без сердечно-сосудистых факторов риска и с фракцией выброса ЛЖ (LVEF) 45%.",
+        "B": "42 года, без сердечно-сосудистых факторов риска и с фракцией выброса ЛЖ (LVEF) 60%.",
+        "C": "32 года, с медикаментозно контролируемой артериальной гипертензией и фракцией выброса ЛЖ (LVEF) 60%.",
+        "D": "37 лет, с умеренной вторичной митральной регургитацией и фракцией выброса ЛЖ (LVEF) 60%."
       },
       "correctAnswer": "B",
       "explanationEn": "Postoperative AF occurs in 20-40% of patients and is associated with increased stroke risk and prolonged hospitalization.",
@@ -1302,19 +1308,19 @@
     },
     {
       "id": 63,
-      "questionEn": "Which electrolyte abnormality most commonly predisposes to postoperative atrial fibrillation?",
-      "questionRu": "Какое электролитное нарушение наиболее часто предрасполагает к послеоперационной фибрилляции предсердий?",
+      "questionEn": "Which of the following patients has a Class I indication for surgery for bicuspid aortic valve replacement due to severe aortic regurgitation?",
+      "questionRu": "Какой из следующих пациентов имеет показание класса I для операции по замене двустворчатого аортального клапана по поводу тяжелой аортальной регургитации?",
       "optionsEn": {
-        "A": "Hypercalcemia",
-        "B": "Hypermagnesemia",
-        "C": "Hypokalemia",
-        "D": "Hypernatremia"
+        "A": "An asymptomatic patient with LVEF 50%, LVEDD 60 mm, LVESD 40 mm, and aorta 38 mm.",
+        "B": "An asymptomatic patient with LVEF 55%, LVEDD 70 mm, LVESD 45 mm, and aorta 48 mm.",
+        "C": "An asymptomatic patient with LVEF 60%, LVEDD 75 mm, LVESD 55 mm, and aorta 38 mm.",
+        "D": "An asymptomatic patient with LVEF 55%, LVEDD 60 mm, LVESD 40 mm, and aorta 56 mm."
       },
       "optionsRu": {
-        "A": "Гиперкальциемия",
-        "B": "Гипермагниемия",
-        "C": "Гипокалиемия",
-        "D": "Гипернатриемия"
+        "A": "Бессимптомный пациент с ФВ ЛЖ 50%, КДР ЛЖ 60 мм, КСР ЛЖ 40 мм и аортой 38 мм.",
+        "B": "Бессимптомный пациент с ФВ ЛЖ 55%, КДР ЛЖ 70 мм, КСР ЛЖ 45 мм и аортой 48 мм.",
+        "C": "Бессимптомный пациент с ФВ ЛЖ 60%, КДР ЛЖ 75 мм, КСР ЛЖ 55 мм и аортой 38 мм.",
+        "D": "Бессимптомный пациент с ФВ ЛЖ 55%, КДР ЛЖ 60 мм, КСР ЛЖ 40 мм и аортой 56 мм."
       },
       "correctAnswer": "C",
       "explanationEn": "Hypokalemia is a common electrolyte disturbance that increases the risk of postoperative atrial fibrillation.",
@@ -1322,19 +1328,19 @@
     },
     {
       "id": 64,
-      "questionEn": "A patient develops vasoplegic syndrome after cardiopulmonary bypass. Which hemodynamic profile is most characteristic?",
-      "questionRu": "У пациента развивается вазоплегический синдром после искусственного кровообращения. Какой гемодинамический профиль наиболее характерен?",
+      "questionEn": "In which of the following procedures is there no need for intervention in the non-coronary sinus?",
+      "questionRu": "При выполнении какой из следующих процедур нет необходимости во вмешательстве на некоронарном синусе?",
       "optionsEn": {
-        "A": "High SVR and low cardiac output",
-        "B": "Low SVR with normal or elevated cardiac output",
-        "C": "Elevated pulmonary vascular resistance only",
-        "D": "Severe left ventricular outflow tract obstruction"
+        "A": "Manougian procedure.",
+        "B": "Nick’s procedure.",
+        "C": "Konno-Rastan procedure.",
+        "D": "Yacoub procedure."
       },
       "optionsRu": {
-        "A": "Высокое ОПСС и низкий сердечный выброс",
-        "B": "Низкое ОПСС с нормальным или повышенным сердечным выбросом",
-        "C": "Только повышенное легочное сосудистое сопротивление",
-        "D": "Тяжелая обструкция выносящего тракта левого желудочка"
+        "A": "Процедура Манугяна.",
+        "B": "Процедура Никса.",
+        "C": "Процедура Конно-Растана.",
+        "D": "Процедура Якуба."
       },
       "correctAnswer": "B",
       "explanationEn": "Vasoplegic syndrome is characterized by low systemic vascular resistance with normal or increased cardiac output, causing hypotension.",
@@ -1342,19 +1348,19 @@
     },
     {
       "id": 65,
-      "questionEn": "Which medication is most commonly used as rescue therapy in refractory vasoplegic syndrome?",
-      "questionRu": "Какой препарат наиболее часто используется в качестве терапии спасения при рефрактерном вазоплегическом синдроме?",
+      "questionEn": "A 49-year-old man with a history of hypertension. During a routine examination, a systolic murmur was heard, and he was referred for echocardiography. TTE showed LVEF 45%, aortic valve area 0.8 cm², mean gradient 71/45 mmHg, and peak velocity 4.1 m/s. CTA showed normal coronary arteries without stenoses. He denies symptoms such as dyspnea, fatigue, chest pain, or syncope. What is the next step in this case?",
+      "questionRu": "Мужчина 49 лет с гипертонией в анамнезе. При плановом осмотре был выслушан систолический шум, направлен на эхокардиографию. Трансторакальная ЭхоКГ показала ФВ ЛЖ 45%, площадь аортального клапана 0,8 см², средний градиент 71/45 мм рт. ст., пиковая скорость 4,1 м/с. КТ-ангиография показала нормальные коронарные артерии без стенозов. Он отрицает такие симптомы, как одышка, утомляемость, боли в груди или синкопе. Каков следующий шаг в этом случае?",
       "optionsEn": {
-        "A": "Digoxin",
-        "B": "Methylene blue",
-        "C": "Adenosine",
-        "D": "Verapamil"
+        "A": "Repeat echocardiography and clinical assessment in about 6 months.",
+        "B": "Coronary angiography and surgical AVR.",
+        "C": "Dobutamine echocardiography and evaluation for TAVI.",
+        "D": "Surgical AVR."
       },
       "optionsRu": {
-        "A": "Дигоксин",
-        "B": "Метиленовый синий",
-        "C": "Аденозин",
-        "D": "Верапамил"
+        "A": "Повторная эхокардиография и клиническая оценка через 6 месяцев.",
+        "B": "Коронарная ангиография и хирургическая AVR.",
+        "C": "Добутаминовая эхокардиография и оценка для TAVI.",
+        "D": "Хирургическая AVR."
       },
       "correctAnswer": "B",
       "explanationEn": "Methylene blue inhibits guanylate cyclase and is used as rescue therapy for refractory vasoplegia.",
@@ -1362,19 +1368,19 @@
     },
     {
       "id": 66,
-      "questionEn": "Which statement regarding mediastinitis after cardiac surgery is correct?",
-      "questionRu": "Какое утверждение о медиастините после кардиохирургических операций верно?",
+      "questionEn": "In patients undergoing coronary artery bypass grafting, the use of ADP receptor inhibitors increases the risk of postoperative bleeding. The recommended time to discontinue the drug in elective cases is:",
+      "questionRu": "У пациентов, которым планируется коронарное шунтирование, применение ингибиторов ADP-рецепторов повышает риск послеоперационного кровотечения. Рекомендуемое время отмены препарата при плановых операциях составляет:",
       "optionsEn": {
-        "A": "It usually occurs during the first 24 postoperative hours.",
-        "B": "Diabetes mellitus is a recognized risk factor.",
-        "C": "It is typically treated with oral antibiotics alone.",
-        "D": "It never requires surgical intervention."
+        "A": "Clopidogrel (Plavix): 5 days, Prasugrel (Effient): 7 days, Ticagrelor (Brilinta): 5 days",
+        "B": "Clopidogrel (Plavix): 5 days, Prasugrel (Effient): 5 days, Ticagrelor (Brilinta): 7 days",
+        "C": "Clopidogrel (Plavix): 7 days, Prasugrel (Effient): 5 days, Ticagrelor (Brilinta): 5 days",
+        "D": "Clopidogrel (Plavix): 2 days, Prasugrel (Effient): 5 days, Ticagrelor (Brilinta): 5 days"
       },
       "optionsRu": {
-        "A": "Обычно возникает в первые 24 послеоперационных часа.",
-        "B": "Сахарный диабет является признанным фактором риска.",
-        "C": "Обычно лечится только пероральными антибиотиками.",
-        "D": "Никогда не требует хирургического вмешательства."
+        "A": "Клопидогрель (Плавикс): 5 дней, Прасугрел (Эффиент): 7 дней, Тикагрелор (Брилинта): 5 дней",
+        "B": "Клопидогрель (Плавикс): 5 дней, Прасугрел (Эффиент): 5 дней, Тикагрелор (Брилинта): 7 дней",
+        "C": "Клопидогрель (Плавикс): 7 дней, Прасугрел (Эффиент): 5 дней, Тикагрелор (Брилинта): 5 дней",
+        "D": "Клопидогрель (Плавикс): 2 дня, Прасугрел (Эффиент): 5 дней, Тикагрелор (Брилинта): 5 дней"
       },
       "correctAnswer": "B",
       "explanationEn": "Diabetes mellitus is a major risk factor for deep sternal wound infection and mediastinitis.",
@@ -1382,19 +1388,19 @@
     },
     {
       "id": 67,
-      "questionEn": "The most common pathogen responsible for postoperative mediastinitis is:",
-      "questionRu": "Наиболее частый возбудитель послеоперационного медиастинита:",
+      "questionEn": "A 75-year-old woman was referred for surgery due to severe aortic regurgitation and severe mitral regurgitation with LVEF 45% and mild pulmonary hypertension. Coronary angiography showed a left-dominant system with no obstructive disease. Calcifications of the mitral annulus were confirmed. Imaging studies led to a decision to perform MVR and AVR. Cannulation for cardiopulmonary bypass was performed with one arterial cannula and two venous cannulas. Cardioplegia was given antegrade and retrograde. The valves were replaced with bioprostheses. After weaning from cardiopulmonary bypass, dark blood appears filling the pericardial space from a source not visible to the surgeon. Several attempts at local pressure behind the heart did not reduce the bleeding. To repair the damage, after reconnecting to the bypass, the repair will most likely include:",
+      "questionRu": "Женщина 75 лет была направлена на операцию по поводу тяжелой аортальной регургитации и тяжелой митральной регургитации с ФВ ЛЖ 45% и легкой легочной гипертензией. Коронарная ангиография показала леводоминантную систему без обструктивных поражений. Подтверждены кальцификаты митрального кольца. По данным визуализации принято решение выполнить MVR и AVR. Канюляция для искусственного кровообращения выполнена с одной артериальной и двумя венозными канюлями. Кардиоплегия вводилась антеградно и ретроградно. Клапаны заменены биопротезами. После отключения от искусственного кровообращения появляется темная кровь, заполняющая перикардиальное пространство из источника, невидимого для хирурга. Несколько попыток местного давления позади сердца не уменьшили кровотечение. Для устранения повреждения, после повторного подключения к аппарату ИК, ремонт, скорее всего, будет включать:",
       "optionsEn": {
-        "A": "Streptococcus viridans",
-        "B": "Enterococcus faecalis",
-        "C": "Staphylococcus aureus",
-        "D": "Pseudomonas aeruginosa"
+        "A": "Re-opening of the left atrium.",
+        "B": "Re-opening of the aorta.",
+        "C": "Repair without opening any cardiac chamber.",
+        "D": "Harvesting a vein from the leg."
       },
       "optionsRu": {
-        "A": "Streptococcus viridans",
-        "B": "Enterococcus faecalis",
-        "C": "Staphylococcus aureus",
-        "D": "Pseudomonas aeruginosa"
+        "A": "Повторное вскрытие левого предсердия.",
+        "B": "Повторное вскрытие аорты.",
+        "C": "Ремонт без вскрытия каких-либо камер сердца.",
+        "D": "Забор вены из ноги."
       },
       "correctAnswer": "C",
       "explanationEn": "Staphylococcus aureus (including MRSA) is the most common pathogen causing postoperative mediastinitis.",
@@ -1402,19 +1408,19 @@
     },
     {
       "id": 68,
-      "questionEn": "Which statement regarding deep sternal wound infection is correct?",
-      "questionRu": "Какое утверждение о глубокой инфекции грудины верно?",
+      "questionEn": "An 80-year-old patient with hypertension, diabetes, hyperlipidemia, and PVD was referred for CABG following NSTEMI. Previous coronary angiography showed three-vessel disease. The patient is hemodynamically stable and pain-free. Echocardiography shows normal ventricular function. Due to risk factors, carotid Doppler ultrasound was performed. What is the correct treatment approach?",
+      "questionRu": "Пациент 80 лет с гипертонией, диабетом, гиперлипидемией и заболеванием периферических сосудов направлен на коронарное шунтирование после перенесенного инфаркта миокарда без подъема ST (NSTEMI). Предыдущая коронарная ангиография показала трехсосудистое поражение. Пациент гемодинамически стабилен, болей нет. Эхокардиография показывает нормальную функцию желудочков. В связи с факторами риска было выполнено допплеровское исследование сонных артерий. Какова правильная лечебная тактика?",
       "optionsEn": {
-        "A": "Vacuum-assisted closure (VAC) therapy may be used as part of treatment.",
-        "B": "Surgical debridement is contraindicated.",
-        "C": "Muscle flap reconstruction is never required.",
-        "D": "Blood cultures are always negative."
+        "A": "If there is >70% stenosis of the left carotid artery, there is a Class II indication for CTA prior to surgery.",
+        "B": "If there is >70% stenosis of the right carotid artery, there is a Class I indication for CTA prior to surgery.",
+        "C": "If there is >90% stenosis of the left carotid artery, there is a Class II indication for CTA prior to surgery.",
+        "D": "If there is >90% stenosis of the right carotid artery, there is a Class I indication for CTA prior to surgery."
       },
       "optionsRu": {
-        "A": "Вакуум-терапия (VAC) может использоваться как часть лечения.",
-        "B": "Хирургическая обработка противопоказана.",
-        "C": "Реконструкция мышечным лоскутом никогда не требуется.",
-        "D": "Посевы крови всегда отрицательны."
+        "A": "При стенозе левой сонной артерии >70% имеется показание класса II для проведения КТ-ангиографии перед операцией.",
+        "B": "При стенозе правой сонной артерии >70% имеется показание класса I для проведения КТ-ангиографии перед операцией.",
+        "C": "При стенозе левой сонной артерии >90% имеется показание класса II для проведения КТ-ангиографии перед операцией.",
+        "D": "При стенозе правой сонной артерии >90% имеется показание класса I для проведения КТ-ангиографии перед операцией."
       },
       "correctAnswer": "A",
       "explanationEn": "Vacuum-assisted closure (VAC) therapy is an adjunctive treatment for deep sternal wound infections, often combined with surgical debridement.",
@@ -1422,39 +1428,39 @@
     },
     {
       "id": 69,
-      "questionEn": "According to the SYNTAX trial published in The Lancet, what were the 5-year outcomes?",
-      "questionRu": "Согласно исследованию SYNTAX, опубликованному в The Lancet, каковы были 5-летние результаты?",
+      "questionEn": "According to the SYNTAX trial published in The Lancet, what were the 5-year follow-up results?",
+      "questionRu": "Согласно исследованию SYNTAX, опубликованному в The Lancet, каковы были 5-летние результаты наблюдения?",
       "optionsEn": {
-        "A": "In patients with SYNTAX score ≥22, no advantage was demonstrated for either revascularization strategy.",
-        "B": "In patients with SYNTAX score 23–32, CABG was associated with fewer MACCE events, myocardial infarctions, and cardiac deaths.",
-        "C": "In patients with SYNTAX score >32, CABG was associated with fewer MACCE events, myocardial infarctions, strokes, and cardiac deaths.",
-        "D": "In patients with SYNTAX score 23–32, PCI was associated with fewer strokes."
+        "A": "In patients with SYNTAX score ≤22, no advantage was found for either revascularization method.",
+        "B": "In patients with SYNTAX score 23-32, CABG was associated with fewer MIs, MACCE, and cardiac death.",
+        "C": "In patients with SYNTAX score >32, CABG was associated with fewer strokes, MIs, MACCE, and cardiac death.",
+        "D": "In patients with SYNTAX score 23-32, PCI was associated with fewer cerebrovascular events."
       },
       "optionsRu": {
-        "A": "У пациентов с SYNTAX ≥22 не было продемонстрировано преимущества ни одной из стратегий реваскуляризации.",
-        "B": "У пациентов с SYNTAX 23–32 КШ было связано с меньшим количеством MACCE, инфарктов миокарда и сердечных смертей.",
-        "C": "У пациентов с SYNTAX >32 КШ было связано с меньшим количеством MACCE, инфарктов миокарда, инсультов и сердечных смертей.",
-        "D": "У пациентов с SYNTAX 23–32 ЧКВ было связано с меньшим количеством инсультов."
+        "A": "У пациентов с показателем SYNTAX ≤22 не было выявлено преимущества ни у одного из методов реваскуляризации.",
+        "B": "У пациентов с показателем SYNTAX 23-32, АКШ было связано с меньшим количеством инфарктов миокарда, MACCE и сердечной смерти.",
+        "C": "У пациентов с показателем SYNTAX >32, АКШ было связано с меньшим количеством инсультов, инфарктов миокарда, MACCE и сердечной смерти.",
+        "D": "У пациентов с показателем SYNTAX 23-32, ЧКВ было связано с меньшим количеством цереброваскулярных событий."
       },
       "correctAnswer": "B",
-      "explanationEn": "The SYNTAX trial showed that for intermediate SYNTAX scores (23-32), CABG was superior to PCI in reducing MACCE, MI, and cardiac mortality.",
-      "explanationRu": "Исследование SYNTAX показало, что для промежуточных значений SYNTAX (23-32) КШ превосходит ЧКВ в снижении MACCE, ИМ и сердечной смертности."
+      "explanationEn": "At 5 years, the SYNTAX trial showed that for patients with intermediate SYNTAX scores (23-32), CABG was associated with significantly lower rates of MACCE, myocardial infarction, and repeat revascularization compared to PCI. For low scores (≤22), MACCE rates were similar, but CABG still had fewer MIs and repeat revascularizations. For high scores (>32), CABG also showed benefits, but the reduction in stroke was not significant.",
+      "explanationRu": "Через 5 лет исследование SYNTAX показало, что у пациентов с промежуточными показателями SYNTAX (23-32) АКШ была связана со значительно более низкими показателями MACCE, инфаркта миокарда и повторной реваскуляризации по сравнению с ЧКВ. При низких показателях (≤22) показатели MACCE были сходными, но АКШ все же имела меньше инфарктов миокарда и повторных реваскуляризаций. При высоких показателях (>32) АКШ также демонстрировала преимущества, но снижение инсульта не было значительным."
     },
     {
       "id": 70,
-      "questionEn": "According to the NOBLE trial published in The Lancet, which statement is correct?",
-      "questionRu": "Согласно исследованию NOBLE, опубликованному в The Lancet, какое утверждение верно?",
+      "questionEn": "According to the NOBLE trial published in The Lancet, which of the following is correct?",
+      "questionRu": "Согласно исследованию NOBLE, опубликованному в The Lancet, что из следующего верно?",
       "optionsEn": {
-        "A": "At 30 days and at five years, CABG was associated with significantly more strokes.",
-        "B": "At 30 days there was no difference in blood product utilization between the groups.",
-        "C": "At five years PCI was associated with more repeat revascularization, whereas at 30 days there was no difference in this endpoint.",
-        "D": "At five years PCI was associated with more repeat PCI procedures, whereas at 30 days there was no difference in this endpoint."
+        "A": "At 30 days and at 5 years, CABG was associated with significantly more strokes.",
+        "B": "At 30 days, there was no difference between the two groups in the need for blood product transfusion.",
+        "C": "At 5 years, PCI was associated with more revascularization, while at 30 days there was no difference in this outcome.",
+        "D": "At 5 years, PCI was associated with more repeat PCI, while at 30 days there was no difference in this outcome."
       },
       "optionsRu": {
-        "A": "Через 30 дней и через пять лет КШ было связано со значительно большим количеством инсультов.",
-        "B": "Через 30 дней не было различий в использовании продуктов крови между группами.",
-        "C": "Через пять лет ЧКВ было связано с большим количеством повторных реваскуляризаций, тогда как через 30 дней не было различий в этой конечной точке.",
-        "D": "Через пять лет ЧКВ было связано с большим количеством повторных ЧКВ, тогда как через 30 дней не было различий в этой конечной точке."
+        "A": "Через 30 дней и через 5 лет АКШ была связана с достоверно большим количеством инсультов.",
+        "B": "Через 30 дней не было различий между группами в потребности в переливании компонентов крови.",
+        "C": "Через 5 лет ЧКВ было связано с большим количеством реваскуляризаций, тогда как через 30 дней различий в этом исходе не было.",
+        "D": "Через 5 лет ЧКВ было связано с большим количеством повторных ЧКВ, тогда как через 30 дней различий в этом исходе не было."
       },
       "correctAnswer": "C",
       "explanationEn": "The NOBLE trial found that at 5 years, PCI was associated with higher rates of repeat revascularization compared to CABG, but no difference at 30 days.",
@@ -1462,19 +1468,19 @@
     },
     {
       "id": 71,
-      "questionEn": "A 54-year-old man presents to the emergency department with chest pain that began approximately one hour ago while sleeping. He describes pressure-like chest pain radiating to the jaw and associated with dyspnea. His history includes diabetes mellitus, hypertension, and a 30-year smoking history. Which of the following findings is most likely on physical examination?",
-      "questionRu": "Мужчина 54 лет поступает в отделение неотложной помощи с болью в груди, начавшейся примерно час назад во время сна. Он описывает давящую боль, иррадиирующую в челюсть, сопровождающуюся одышкой. В анамнезе сахарный диабет, гипертензия и 30-летний стаж курения. Какая находка наиболее вероятна при физикальном осмотре?",
+      "questionEn": "A 54-year-old man presented to the emergency room with chest pain that began about an hour ago while he was sleeping. He describes pressure-like pain radiating to the jaw and shortness of breath. His medical history includes medically treated diabetes, hypertension, and 30 pack-years of smoking. No history of ischemic heart disease. What is the most common finding on physical examination of this patient?",
+      "questionRu": "Мужчина 54 лет поступил в отделение неотложной помощи с болью в груди, начавшейся около часа назад во время сна. Он описывает давящую боль, иррадиирующую в челюсть, и одышку. В анамнезе: медикаментозно леченный сахарный диабет, артериальная гипертензия и курение в течение 30 лет. Нет указаний на ишемическую болезнь сердца. Что наиболее часто будет обнаружено при физикальном обследовании этого пациента?",
       "optionsEn": {
-        "A": "Systolic murmur",
-        "B": "Fixed splitting of the second heart sound",
-        "C": "Pericardial friction rub",
-        "D": "Fourth heart sound (S4)"
+        "A": "Systolic murmur.",
+        "B": "Fixed splitting of the second heart sound.",
+        "C": "Pericardial friction rub.",
+        "D": "Fourth heart sound (S4)."
       },
       "optionsRu": {
-        "A": "Систолический шум",
-        "B": "Фиксированное расщепление второго тона сердца",
-        "C": "Шум трения перикарда",
-        "D": "Четвертый тон сердца (S4)"
+        "A": "Систолический шум.",
+        "B": "Фиксированное расщепление второго тона сердца.",
+        "C": "Шум трения перикарда.",
+        "D": "Четвертый тон сердца (S4)."
       },
       "correctAnswer": "D",
       "explanationEn": "In acute myocardial infarction, an S4 gallop is common due to reduced compliance of the ischemic ventricle.",
@@ -1482,8 +1488,8 @@
     },
     {
       "id": 72,
-      "questionEn": "Which of the following beta-blockers is non-selective?",
-      "questionRu": "Какой из следующих бета-блокаторов является неселективным?",
+      "questionEn": "Among the following beta-blockers, which one is NOT cardioselective?",
+      "questionRu": "Среди следующих бета-блокаторов, какой НЕ является кардиоселективным?",
       "optionsEn": {
         "A": "Timolol",
         "B": "Atenolol",
