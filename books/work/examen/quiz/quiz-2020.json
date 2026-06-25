@@ -1269,7 +1269,7 @@
     {
       "id": 61,
       "questionEn": "A 31-year-old man with no known medical history, admitted to the ICU with cardiogenic shock due to myocarditis. Initially treated with inotropes and IABP, but due to ventricular arrhythmias and multiple episodes of CPR and defibrillation, he was connected to VA-ECMO with stabilization. After 24 hours on this therapy, upon stopping the IABP for a few seconds, the arterial pressure waveform shows a straight line (mean pressure 53 mmHg). TEE shows a dilated left ventricle with minimal contraction and no evidence of clots in the heart or aortic root. Which of the following is NOT an accepted treatment at this stage?",
-      "questionRu": "Мужчина 31 года без известных заболеваний в анамнезе, поступил в отделение интенсивной терапии с кардиогенным шоком на фоне миокардита. Первоначально лечился инотропными препаратами и ВАБК, но из-за желудочковых аритмий и множественных эпизодов СЛР и дефибрилляции был подключен к VA-ECMO со стабилизацией состояния. Через 24 часа на этой терапии, после остановки ВАБК на несколько секунд, на кривой артериального давления наблюдается прямая линия (среднее давление 53 мм рт. ст.). Чреспищеводная ЭхоКГ показывает расширенный левый желудочек с минимальным сокращением и без признаков тромбов в сердце или корне аорты. Что из перечисленного НЕ является общепринятым лечением на данном этапе?",
+      "questionRu": "Мужчина 31 год без известных заболеваний в анамнезе, поступил в отделение интенсивной терапии с кардиогенным шоком на фоне миокардита. Первоначально лечился инотропными препаратами и ВАБК, но из-за желудочковых аритмий и множественных эпизодов СЛР и дефибрилляции был подключен к VA-ECMO со стабилизацией состояния. Через 24 часа на этой терапии, после остановки ВАБК на несколько секунд, на кривой артериального давления наблюдается прямая линия (среднее давление 53 мм рт. ст.). Чреспищеводная ЭхоКГ показывает расширенный левый желудочек с минимальным сокращением и без признаков тромбов в сердце или корне аорты. Что из перечисленного НЕ является общепринятым лечением на данном этапе?",
       "optionsEn": {
         "A": "Increasing heparin dose to achieve an ACT of about 200 seconds.",
         "B": "Removing the IABP and replacing it with Impella.",
@@ -1282,9 +1282,9 @@
         "C": "Установка вентрикулярного дренажа левого желудочка через верхушку субксифоидальным доступом.",
         "D": "Снижение потока на ЭКМО для уменьшения постнагрузки левого желудочка."
       },
-      "correctAnswer": "B",
-      "explanationEn": "Initial management of RV dysfunction after CPB includes volume optimization to maintain preload and inotropic support (e.g., milrinone, dobutamine).",
-      "explanationRu": "Первоначальное лечение дисфункции ПЖ после ИК включает оптимизацию объема для поддержания преднагрузки и инотропную поддержку (например, мильринон, добутамин)."
+      "correctAnswer": "D",
+      "explanationEn": "Correct answer: D: <b><span style=\"color:#e74c3c\">Decreasing ECMO flow to reduce left ventricular afterload.</span></b>\n\nThis action is not a generally accepted treatment method in the described situation. On the contrary, it can worsen the patient's condition.\n\nHere is why the other options (A, B, C) are more justified, while option D is incorrect, according to the logic presented in the article:\n\n<b><mark style=\"background:#ffff00;color:#000\">A</mark></b>: <b><span style=\"color:#3498db\">Increasing the heparin dose is a justified step. </span></b>The article explicitly states that when the aortic valve remains closed during VA-ECMO, there is a risk of intracardiac thrombosis, and increasing anticoagulation may be required to minimize it. Even in this case, in the absence of visible thrombi on Echocardiography, increasing the heparin dose is a standard preventive measure.\n\n<b><mark style=\"background:#ffff00;color:#000\">B</mark></b>: <b><span style=\"color:#3498db\">Removal of the IABP and replacement with an Impella</span></b> is a recognized strategy. An IABP can be used to reduce LV afterload; however, the article mentions that a percutaneous ventricular assist device (pVAD) such as an Impella can be used to decompress an overdistended left ventricle.\n\n<b><mark style=\"background:#ffff00;color:#000\">C</mark></b>: <b><span style=\"color:#3498db\">Placement of an LV ventricular vent through the apex via a subxiphoid approach</span></b> is one of the described surgical methods. \n\n<b><mark style=\"background:#ff79c6;color:#fff\">D</mark></b>: <b><span style=\"color:#e74c3c\">Decreasing ECMO flow is an incorrect tactic</span></b>. The main problem with peripheral VA-ECMO is the increase in left ventricular afterload due to the retrograde blood flow in the aorta. <b><mark style=\"background:#8be9fd;color:#000\">Decreasing ECMO flow will reduce global cardiac output and worsen organ hypoperfusion, but it will not solve the problem of increased resistance for the contracting LV</mark></b>. To reduce afterload, other methods are used (vasodilators, IABP), rather than reducing flow in the ECMO circuit.\n\nThus, the only option that contradicts the approaches described in the article for treating LV overload on VA-ECMO is D.",
+      "explanationRu": "Правильный ответ: D: <b><span style=\"color:#e74c3c\">Снижение потока на ЭКМО для уменьшения постнагрузки левого желудочка.</span></b>\n\nЭто действие не является общепринятым методом лечения в описанной ситуации. Напротив, оно может усугубить состояние пациента.\n\nВот почему остальные варианты (A, B, C) являются более обоснованными, а вариант D — ошибочным, согласно логике, представленной в статье:\n\n<b><mark style=\"background:#ffff00;color:#000\">A</mark></b>: <b><span style=\"color:#3498db\">Увеличение дозы гепарина — обоснованный шаг. </span></b>В статье прямо указано, что при остановке aortic valve на фоне VA-ECMO возникает риск внутрисердечного тромбоза, и для его минимизации может потребоваться усиление антикоагуляции. Это может спровоцировать кровотечение, в данном случае, при отсутствии видимых тромбов на ЭхоКГ, повышение дозы гепарина является стандартной мерой профилактики.\n\n<b><mark style=\"background:#ffff00;color:#000\">B</mark></b>: <b><span style=\"color:#3498db\">Удаление ВАБК и замена на Impella</span></b> — это признанная стратегия. ВАБК может использоваться для снижения постнагрузки ЛЖ, однако в статье упоминается, что для декомпрессии перерастянутого левого желудочка можно использовать чрескожный желудочковый ассистент (pVAD), такой как Impella.\n\n<b><mark style=\"background:#ffff00;color:#000\">C</mark></b>: <b><span style=\"color:#3498db\">Установка вентрикулярного дренажа ЛЖ через верхушку субксифоидальным доступом</span></b> — это один из описанных хирургических методов. \n\n<b><mark style=\"background:#ff79c6;color:#fff\">D</mark></b>: <b><span style=\"color:#e74c3c\">Снижение потока на ЭКМО — неверная тактика</span></b>. Основная проблема при периферической VA-ECMO — это повышение постнагрузки на левый желудочек из-за ретроградного тока крови в аорте. <b><mark style=\"background:#8be9fd;color:#000\">Снижение потока ЭКМО уменьшит общий сердечный выброс и усугубит гипоперфузию органов, но не решит проблему возросшего сопротивления для сокращающегося ЛЖ</mark></b>. Для снижения постнагрузки применяют другие методы (вазодилататоры, ВАБК), а не уменьшение потока в контуре ЭКМО.\n\nТаким образом, единственный вариант, который противоречит описанным в статье подходам к лечению перегрузки ЛЖ на VA-ECMO, — это D."
     },
     {
       "id": 62,
@@ -1300,11 +1300,14 @@
         "A": "35 лет, без сердечно-сосудистых факторов риска и с фракцией выброса ЛЖ (LVEF) 45%.",
         "B": "42 года, без сердечно-сосудистых факторов риска и с фракцией выброса ЛЖ (LVEF) 60%.",
         "C": "32 года, с медикаментозно контролируемой артериальной гипертензией и фракцией выброса ЛЖ (LVEF) 60%.",
-        "D": "37 лет, с умеренной вторичной митральной регургитацией и фракцией выброса ЛЖ (LVEF) 60%."
+        "D": "37 лет, с легкой-умеренной вторичной митральной регургитацией и фракцией выброса ЛЖ (LVEF) 60%."
       },
-      "correctAnswer": "B",
-      "explanationEn": "Postoperative AF occurs in 20-40% of patients and is associated with increased stroke risk and prolonged hospitalization.",
-      "explanationRu": "Послеоперационная ФП возникает у 20-40% пациентов и связана с повышенным риском инсульта и длительной госпитализацией."
+      "correctAnswer": "D",
+      "explanationEn": "",
+      "explanationRu": "",
+      "explanationImages": [
+        "2020-62A.jpg"
+      ]
     },
     {
       "id": 63,
@@ -1322,9 +1325,12 @@
         "C": "Бессимптомный пациент с ФВ ЛЖ 60%, КДР ЛЖ 75 мм, КСР ЛЖ 55 мм и аортой 38 мм.",
         "D": "Бессимптомный пациент с ФВ ЛЖ 55%, КДР ЛЖ 60 мм, КСР ЛЖ 40 мм и аортой 56 мм."
       },
-      "correctAnswer": "C",
+      "correctAnswer": "A",
       "explanationEn": "Hypokalemia is a common electrolyte disturbance that increases the risk of postoperative atrial fibrillation.",
-      "explanationRu": "Гипокалиемия является частым электролитным нарушением, повышающим риск послеоперационной фибрилляции предсердий."
+      "explanationRu": "Гипокалиемия является частым электролитным нарушением, повышающим риск послеоперационной фибрилляции предсердий.",
+      "explanationImages": [
+        "2020-63A.jpg"
+      ]
     },
     {
       "id": 64,
@@ -1337,14 +1343,14 @@
         "D": "Yacoub procedure."
       },
       "optionsRu": {
-        "A": "Процедура Манугяна.",
+        "A": "Процедура Манугвиана.",
         "B": "Процедура Никса.",
         "C": "Процедура Конно-Растана.",
         "D": "Процедура Якуба."
       },
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanationEn": "Vasoplegic syndrome is characterized by low systemic vascular resistance with normal or increased cardiac output, causing hypotension.",
-      "explanationRu": "Вазоплегический синдром характеризуется низким системным сосудистым сопротивлением при нормальном или повышенном сердечном выбросе, вызывая гипотензию."
+      "explanationRu": "Знание анатомии аортального клапана и его взаимоотношения с окружающими структурами важно для успешного протезирования аортального клапана, особенно когда требуется расширение корня аорты.\n\n Аортожелудочковая пластика по <b><mark style=\"background:#8be9fd;color:#000\">Конно-Растану</mark></b> включает вскрытие и расширение передней части субаортальной области. Разрезы для этой процедуры начинаются с <b><span style=\"color:#3498db\">передней продольной аортотомии, которая проходит через <span style=\"color:#e74c3c\">комиссуру между правой и левой коронарными створками</span></span></b>. Спереди разрез расширяется через основание инфундибулюма. Разный уровень прикрепления створок аортального и легочного клапанов позволяет выполнить этот разрез без повреждения легочного клапана. Сзади разрез проходит через самую медиальную часть наджелудочкового гребня в выводной тракт левого желудочка. Путем закрытия образовавшегося дефекта межжелудочковой перегородки заплатой выводной тракт аорты расширяется, чтобы позволить имплантировать протез клапана большего размера. Вторая заплата используется для закрытия дефекта в выводном тракте правого желудочка.\n\nАльтернативные методы расширения выводного тракта аорты включают разрезы в области аорто-митрального контакта. \n\nВ процедуре <mark style=\"background:#8be9fd;color:#000\"><b>Манугвиана</b></mark> <b><span style=\"color:#3498db\">криволинейная аортотомия расширяется кзади через <span style=\"color:#e74c3c\">комиссуру между левой и некоронарной створками</span> вниз и иногда в аортальную створку митрального клапана</span></b>. Для расширения разреза кзади используется заплата. Когда задний дивертикул выводного тракта полностью развит, этот разрез может быть выполнен без входа в другие камеры сердца, хотя нередко вскрывается крыша левого предсердия. \n\nПроцедура <b><mark style=\"background:#8be9fd;color:#000\">Никса</mark></b> для расширения корня аорты включает <b><span style=\"color:#3498db\">аортотомию, которая <span style=\"color:#9b59b6\">проходит через середину некоронарной створки</span> в фиброзную субаортальную заслонку и может быть расширена в аортальную створку митрального клапана.</span></b> Этот разрез также может вскрыть крышу левого предсердия. При использовании этих методов любой возникший дефект в левом предсердии должен быть тщательно закрыт.\n\nКак обсуждалось ранее, разный уровень прикрепления аортального и легочного клапанов, а также мышечный характер их поддержки позволяют использовать легочный клапан в качестве замены аортального клапана в процедуре Росса. Эта процедура может быть объединена с разрезами аортожелудочковой пластики по Конно-Растану для коррекции обструкций выводного тракта левого желудочка у детей раннего возраста с использованием жизнеспособного аутографта, который обладает потенциалом для роста и исключает необходимость антикоагуляции."
     },
     {
       "id": 65,
