@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Journal of Cardiac Surgery and Cardiology",
+    "russian_title": "Журнал кардиохирургии и кардиологии",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "Medical Doctors"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "quiz_sets": [],
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "📒Mechanical circulatory support in the new era: an overview. Shekar et al. Critical Care (2016)",
+        "russian": "📒Механическая поддержка кровообращения в новую эпоху: обзор. Shekar и соавт. Critical Care (2016)"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "🇪🇺 Myocardial revascularization 2018 ESC/EACTS",
+        "russian": "🇪🇺 Реваскуляризация миокарда 2018 ESC/EACTS"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "🇪🇺 Endocarditis 2023 ESC/EACTS",
+        "russian": "🇪🇺 Эндокардит 2023 ESC/EACTS"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "🇪🇺 Congenital heart disease 2020 ESC/EACTS",
+        "russian": "🇪🇺 Врожденные пороки сердца 2020 ESC/EACTS"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "🇪🇺 Cardiomyopathies 2023 ESC/EACTS",
+        "russian": "🇪🇺 Кардиомиопатии 2023 ESC/EACTS"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "🇪🇺 Acute coronary syndrome 2023 ESC/EACTS",
+        "russian": "🇪🇺 Острый коронарный синдром 2023 ESC/EACTS"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "🇪🇺 Chronic coronary syndrome 2024 ESC/EACTS",
+        "russian": "🇪🇺 Хронический коронарный синдром 2024 ESC/EACTS"
+      }
+    ],
+    "appendices": []
+  }
+]

@@ -99,8 +99,9 @@
       "title": "Guidelines",
       "path": "books/guidelines",
       "books": [
-            { "folder": "guide" }
-      ]
+            { "folder": "guide" },
+            { "folder": "article" }
+      ] 
     },
     {
       "id": "work",
