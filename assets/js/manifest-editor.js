@@ -107,6 +107,20 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         els.tabBtns.forEach(btn => {
             btn.addEventListener('click', () => {
+                if (btn.classList.contains('active')) return;
+                
+                const activeTab = document.querySelector('.me-tab-btn.active').dataset.tab;
+                
+                if (activeTab === 'json' && btn.dataset.tab === 'form') {
+                    // Try parsing JSON first to prevent tab switch if there's a syntax error
+                    try {
+                        state.manifest = JSON.parse(state.jsonEditor.getValue());
+                    } catch (e) {
+                        alert('JSON contains syntax errors! Please fix them before switching to Form Editor. / Ошибка в JSON! Пожалуйста, исправьте синтаксические ошибки перед переходом к Form Editor.');
+                        return;
+                    }
+                }
+                
                 els.tabBtns.forEach(b => b.classList.remove('active'));
                 els.tabContents.forEach(c => c.classList.remove('active'));
                 btn.classList.add('active');
@@ -615,8 +629,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function _fillQuizFields(container, item, idx, cardEl) {
         // En Text
-        container.appendChild(_createFieldGroup('Question (EN)', item.questionEn, (v) => { item.questionEn = v; _syncFormToJson(); }, 'textarea'));
-        container.appendChild(_createFieldGroup('Question (RU)', item.questionRu, (v) => { item.questionRu = v; _syncFormToJson(); }, 'textarea'));
+        container.appendChild(_createFieldGroup('Question (EN)', item.questionEn, (v) => { item.questionEn = v; _syncFormToJson(); }, 'textarea', [], true));
+        container.appendChild(_createFieldGroup('Question (RU)', item.questionRu, (v) => { item.questionRu = v; _syncFormToJson(); }, 'textarea', [], true));
         
         // Options
         const optCont = document.createElement('div');
@@ -751,16 +765,30 @@ document.addEventListener('DOMContentLoaded', async () => {
         container.appendChild(_createFieldGroup('Image Source', item.src, (v) => { item.src = v; _syncFormToJson(); }));
         container.appendChild(_createFieldGroup('Caption', item.caption, (v) => { item.caption = v; _syncFormToJson(); }, 'textarea'));
         container.appendChild(_createFieldGroup('Tags (comma separated)', item.tags?.join(', ') || '', (v) => { item.tags = v.split(',').map(t => t.trim()).filter(t => t); _syncFormToJson(); }));
-    }
-
-    function _createFieldGroup(label, value, onChange, type = 'input', options = [], withToolbar = false) {
+       function _createFieldGroup(label, value, onChange, type = 'input', options = [], withToolbar = false) {
         const group = document.createElement('div');
         group.className = 'me-field-group';
         group.innerHTML = `<label>${label}</label>`;
         
         let el;
         if (type === 'textarea') {
+            const wrapper = document.createElement('div');
+            wrapper.className = 'me-textarea-wrapper';
+            
+            const backdrop = document.createElement('div');
+            backdrop.className = 'me-textarea-backdrop';
+            
+            el = document.createElement('textarea');
+            el.rows = 3;
+            if (withToolbar) el.className = 'has-toolbar';
+            
+            wrapper.appendChild(backdrop);
+            wrapper.appendChild(el);
+            
             if (withToolbar) {
+                const toolbarContainer = document.createElement('div');
+                toolbarContainer.className = 'me-toolbars-container';
+                
                 const toolbar = document.createElement('div');
                 toolbar.className = 'me-toolbar';
                 
@@ -793,12 +821,53 @@ document.addEventListener('DOMContentLoaded', async () => {
                     };
                     toolbar.appendChild(btn);
                 });
-                group.appendChild(toolbar);
+                toolbarContainer.appendChild(toolbar);
+                
+                const emojiToolbar = document.createElement('div');
+                emojiToolbar.className = 'me-emoji-toolbar';
+                
+                const emojis = [
+                    '🟠', '🔵', '🟣', '🟤', '⚪', '⚫', '🔴', '🟢', '🔴🟡', 
+                    '❤️', '💚', '💙', '💛', '🩵', '💜', '🔪', '🎯', '🪡', 
+                    '🚨', '⌛', '🔥', '💧', '📗', '📘', '📚', '📜', '🛠️', 
+                    '✳️', '✴️', '❇️', '✅', '❎', '✔️', '❌', '🔸', '🔹'
+                ];
+                
+                emojis.forEach(emoji => {
+                    const btn = document.createElement('button');
+                    btn.className = 'me-emoji-btn';
+                    btn.textContent = emoji;
+                    btn.title = `Insert ${emoji}`;
+                    btn.onclick = (e) => {
+                        e.preventDefault();
+                        _insertEmoji(el, emoji);
+                    };
+                    emojiToolbar.appendChild(btn);
+                });
+                toolbarContainer.appendChild(emojiToolbar);
+                
+                group.appendChild(toolbarContainer);
             }
             
-            el = document.createElement('textarea');
-            el.rows = 3;
-            if (withToolbar) el.className = 'has-toolbar';
+            group.appendChild(wrapper);
+            
+            const updateBackdrop = () => {
+                backdrop.innerHTML = highlightText(el.value) + '\n';
+            };
+            el.addEventListener('input', updateBackdrop);
+            el.addEventListener('scroll', () => {
+                backdrop.scrollTop = el.scrollTop;
+                backdrop.scrollLeft = el.scrollLeft;
+            });
+            
+            el.value = value || '';
+            el.oninput = (e) => {
+                onChange(e.target.value);
+                updateBackdrop();
+            };
+            
+            setTimeout(updateBackdrop, 0);
+            return group;
         } else if (type === 'select') {
             el = document.createElement('select');
             options.forEach(o => {
@@ -818,7 +887,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         group.appendChild(el);
         return group;
     }
-
+ 
     function _insertTag(textarea, tag, style = null) {
         const start = textarea.selectionStart;
         const end = textarea.selectionEnd;
@@ -832,6 +901,35 @@ document.addEventListener('DOMContentLoaded', async () => {
         textarea.dispatchEvent(new Event('input')); // Trigger sync
         textarea.focus();
         textarea.setSelectionRange(start + tag.length + styleAttr.length + 2, start + tag.length + styleAttr.length + 2 + selected.length);
+    }
+
+    function _insertEmoji(textarea, emoji) {
+        const start = textarea.selectionStart;
+        const end = textarea.selectionEnd;
+        const text = textarea.value;
+        
+        textarea.value = text.substring(0, start) + emoji + text.substring(end);
+        textarea.dispatchEvent(new Event('input')); // Trigger sync
+        textarea.focus();
+        textarea.setSelectionRange(start + emoji.length, start + emoji.length);
+    }
+
+    function highlightText(text) {
+        let escaped = text
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;');
+        
+        escaped = escaped.replace(/(&lt;[^&]*&gt;)/g, '<span class="hl-tag">$1</span>');
+        
+        const parts = escaped.split(/(<[^>]*>)/g);
+        for (let i = 0; i < parts.length; i++) {
+            if (!parts[i].startsWith('<')) {
+                parts[i] = parts[i].replace(/(\d+)/g, '<span class="hl-number">$1</span>');
+            }
+        }
+        return parts.join('');
+    }
     }
 
     function _addItem() {
@@ -884,6 +982,22 @@ document.addEventListener('DOMContentLoaded', async () => {
     function _syncJsonToForm() {
         try {
             state.manifest = JSON.parse(state.jsonEditor.getValue());
+            
+            let items = [];
+            const type = state.currentType;
+            if (type === 'quiz') items = state.manifest.questions;
+            else if (type === 'magazine') items = state.manifest.cards;
+            else if (type === 'metadata') items = state.manifest[0].chapters;
+            else if (type === 'library') items = state.manifest.categories;
+            
+            if (items && items.length > 0) {
+                if (state.activeItemIndex >= items.length) {
+                    state.activeItemIndex = items.length - 1;
+                }
+            } else {
+                state.activeItemIndex = 0;
+            }
+            
             _renderForm();
             _renderPreview();
         } catch(e) {}
@@ -992,42 +1106,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         else if (type === 'metadata') items = state.manifest[0].chapters;
         else if (type === 'library') items = state.manifest.categories;
 
-        if (items.length === 0) return;
-        state.activeItemIndex = (state.activeItemIndex + delta + items.length) % items.length;
-        _renderForm();
-        _renderPreview();
-        // Scroll to active item in form
-        const activeCard = els.itemsContainer.children[state.activeItemIndex];
-        if (activeCard) activeCard.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-    }
-
-    // --- Persistence ---
-
-    function _downloadJson() {
-        const blob = new Blob([JSON.stringify(state.manifest, null, 2)], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = state.currentFile || 'manifest.json';
-        a.click();
-    }
-
-    async function _saveToGithub() {
-        const token = els.githubToken.value.trim();
-        if (!token) return;
-        
-        els.githubModal.style.display = 'none';
-        els.githubStatus.textContent = '⏳ Saving...';
-        els.btnSaveGithub.disabled = true;
-
-        const bookPath = state.currentBook.fullPath;
-        const path = (bookPath === '.' || bookPath === '') ? state.currentFile : `${bookPath}/${state.currentFile}`;
-        const content = JSON.stringify(state.manifest, null, 2);
-        
-        try {
-            // Need to get SHA if file exists
-            const repo = 'StarleyBy/Starley-CS-Library'; // Correct repo from config
-            const url = `https://api.github.com/repos/${repo}/contents/${path}`;
             const headers = { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' };
             
             const getRes = await fetch(url, { headers });

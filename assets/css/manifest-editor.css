@@ -488,3 +488,125 @@ html, body {
 @media (max-width: 1200px) {
     .me-preview-pane { width: 320px; }
 }
+
+/* Real-time Syntax Highlighting Textareas */
+.me-textarea-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+.me-textarea-backdrop, .me-textarea-wrapper textarea {
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace !important;
+    font-size: 0.85rem !important;
+    line-height: 1.5 !important;
+    padding: 8px 10px !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    box-sizing: border-box !important;
+    white-space: pre-wrap !important;
+    word-wrap: break-word !important;
+    word-break: break-all !important;
+    margin: 0 !important;
+}
+
+.me-textarea-backdrop {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    width: 100%;
+    height: 100%;
+    color: #eee !important;
+    background-color: var(--me-input-bg, #3c3c3c) !important;
+    border-color: transparent !important;
+    pointer-events: none !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+
+/* Hide scrollbar in backdrop to ensure perfect scrolling sync */
+.me-textarea-backdrop::-webkit-scrollbar {
+    display: none !important;
+}
+.me-textarea-backdrop {
+    -ms-overflow-style: none !important;
+    scrollbar-width: none !important;
+}
+
+.me-textarea-wrapper textarea {
+    position: relative !important;
+    display: block !important;
+    width: 100% !important;
+    min-height: 80px !important;
+    background: transparent !important;
+    color: transparent !important;
+    caret-color: #fff !important;
+    border-color: var(--me-input-border, #555) !important;
+    z-index: 1 !important;
+    resize: vertical !important;
+}
+
+.me-textarea-wrapper textarea:focus {
+    outline: none !important;
+    border-color: var(--me-accent-blue, #3498db) !important;
+}
+
+/* Highlight tags and numbers */
+.hl-tag {
+    color: #ff79c6 !important; /* pink */
+    font-weight: 600 !important;
+}
+
+.hl-number {
+    color: #8be9fd !important; /* cyan for numbers */
+    font-weight: 600 !important;
+}
+
+/* Toolbars layout and emoji buttons */
+.me-toolbars-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.me-toolbars-container .me-toolbar {
+    border-radius: 4px 4px 0 0;
+    border-bottom: none;
+}
+
+.me-emoji-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    background: #252526;
+    padding: 4px 6px;
+    border: 1px solid var(--me-input-border, #555);
+    border-bottom: none;
+}
+
+.me-emoji-btn {
+    background: #333;
+    border: 1px solid #444;
+    cursor: pointer;
+    font-size: 0.95rem;
+    padding: 2px 4px;
+    border-radius: 3px;
+    transition: background 0.2s, border-color 0.2s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 24px;
+}
+
+.me-emoji-btn:hover {
+    background: #444;
+    border-color: var(--me-accent-blue, #3498db);
+}
+
+.me-toolbars-container + .me-textarea-wrapper textarea,
+.me-toolbars-container + .me-textarea-wrapper .me-textarea-backdrop {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
