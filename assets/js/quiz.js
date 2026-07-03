@@ -13,6 +13,7 @@ const state = {
         count: 100, // Default to a higher number
         shuffle: true,
         exam: false,
+        allQuestions: false,
         setId: 'full',
         lang: 'En' // 'En' or 'Ru'
     }
@@ -118,6 +119,9 @@ function setupLobbyListeners() {
         if (labelShuffle) labelShuffle.textContent = isRu ? 'Случайный порядок' : 'Shuffle Questions';
         if (labelExam) labelExam.textContent = isRu ? 'Режим экзамена' : 'Exam Mode';
         
+        const labelAllQuestions = document.getElementById('label-setting-all-questions');
+        if (labelAllQuestions) labelAllQuestions.textContent = isRu ? 'Все вопросы (список)' : 'All Questions List';
+        
         // Update slider value text if it's set to all
         const slider = document.getElementById('setting-count');
         if (slider) {
@@ -155,6 +159,36 @@ function setupLobbyListeners() {
         valCount.textContent = (val === 100 || val === parseInt(slider.max)) ? (state.settings.lang === 'Ru' ? 'Все' : 'All') : val;
     };
 
+    const chkAllQuestions = document.getElementById('setting-all-questions');
+    if (chkAllQuestions) {
+        const updateAllQuestionsDependency = () => {
+            const checked = chkAllQuestions.checked;
+            state.settings.allQuestions = checked;
+            
+            const sliderGroup = document.getElementById('setting-count').closest('.settings-group');
+            const shuffleRow = document.getElementById('setting-shuffle').closest('.settings-row');
+            const examRow = document.getElementById('setting-exam').closest('.settings-row');
+            
+            if (checked) {
+                sliderGroup.classList.add('disabled');
+                shuffleRow.classList.add('disabled');
+                examRow.classList.add('disabled');
+                document.getElementById('setting-count').disabled = true;
+                document.getElementById('setting-shuffle').disabled = true;
+                document.getElementById('setting-exam').disabled = true;
+            } else {
+                sliderGroup.classList.remove('disabled');
+                shuffleRow.classList.remove('disabled');
+                examRow.classList.remove('disabled');
+                document.getElementById('setting-count').disabled = false;
+                document.getElementById('setting-shuffle').disabled = false;
+                document.getElementById('setting-exam').disabled = false;
+            }
+        };
+        chkAllQuestions.onchange = updateAllQuestionsDependency;
+        updateAllQuestionsDependency();
+    }
+
     document.getElementById('btn-start-quiz').onclick = startQuiz;
 }
 
@@ -169,6 +203,16 @@ async function startQuiz() {
         state.quizData = await res.json();
 
         let qs = [...state.quizData.questions];
+        
+        if (state.settings.allQuestions) {
+            state.questions = qs;
+            const isRu = state.settings.lang === 'Ru';
+            document.getElementById('all-q-title').textContent = state.quizData.meta.title || (isRu ? 'Все вопросы' : 'All Questions');
+            document.getElementById('all-q-counter').textContent = (isRu ? 'Вопросов: ' : 'Questions: ') + state.questions.length;
+            switchScreen('screen-all-questions');
+            renderAllQuestionsList();
+            return;
+        }
         
         const totalQs = qs.length;
         const slider = document.getElementById('setting-count');
@@ -531,6 +575,13 @@ function setupQuestionListeners() {
             switchScreen('screen-lobby');
         }
     };
+
+    const btnExitAllQ = document.getElementById('btn-exit-all-q');
+    if (btnExitAllQ) {
+        btnExitAllQ.onclick = () => {
+            switchScreen('screen-lobby');
+        };
+    }
 }
 
 function showResults() {
@@ -755,4 +806,178 @@ function shuffleArray(array) {
         [array[i], array[j]] = [array[j], array[i]];
     }
     return array;
+}
+
+function renderAllQuestionsList() {
+    const listCont = document.getElementById('all-questions-list');
+    listCont.innerHTML = '';
+    
+    const lang = state.settings.lang;
+    const isRu = lang === 'Ru';
+    
+    state.questions.forEach((q, idx) => {
+        const itemDiv = document.createElement('div');
+        itemDiv.className = 'all-q-item';
+        
+        // Header (Question number + Question text + Chevron icon)
+        const headerDiv = document.createElement('div');
+        headerDiv.className = 'all-q-header';
+        
+        const numSpan = document.createElement('span');
+        numSpan.className = 'all-q-num';
+        numSpan.textContent = `${idx + 1}`;
+        headerDiv.appendChild(numSpan);
+        
+        const textSpan = document.createElement('span');
+        textSpan.className = 'all-q-text';
+        textSpan.innerHTML = q['question' + lang] || q['questionEn'] || q.question || '';
+        headerDiv.appendChild(textSpan);
+        
+        const chevronSpan = document.createElement('span');
+        chevronSpan.className = 'all-q-chevron';
+        chevronSpan.innerHTML = '<i class="fas fa-chevron-down"></i>';
+        headerDiv.appendChild(chevronSpan);
+        
+        itemDiv.appendChild(headerDiv);
+        
+        // Details container (hidden by default)
+        const detailsDiv = document.createElement('div');
+        detailsDiv.className = 'all-q-details';
+        
+        // Question Image (if any)
+        if (q.image) {
+            const imgCont = document.createElement('div');
+            imgCont.className = 'quiz-image-container';
+            const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+            const imgSrc = q.image.startsWith('http') ? q.image : `${rootPath}${state.bookPath}/quiz/images/${q.image}`;
+            imgCont.innerHTML = `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')">`;
+            detailsDiv.appendChild(imgCont);
+        }
+        
+        // Options grid
+        const optionsGrid = document.createElement('div');
+        optionsGrid.className = 'options-grid';
+        
+        const options = q['options' + lang] || q['optionsEn'] || q.options || {};
+        const correctChoices = Array.isArray(q.correctAnswer) ? q.correctAnswer : [q.correctAnswer];
+        
+        Object.entries(options).forEach(([letter, text]) => {
+            const btn = document.createElement('button');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${text}</span>`;
+            
+            if (correctChoices.includes(letter)) {
+                btn.classList.add('correct');
+            }
+            optionsGrid.appendChild(btn);
+        });
+        detailsDiv.appendChild(optionsGrid);
+        
+        // Explanation box
+        const expBox = document.createElement('div');
+        expBox.className = 'explanation-box';
+        
+        // Exp header
+        const expHeader = document.createElement('div');
+        expHeader.className = 'exp-header';
+        expHeader.innerHTML = `<i class="fas fa-lightbulb"></i> <span>${isRu ? 'Клиническое объяснение' : 'Clinical Explanation'}</span>`;
+        expBox.appendChild(expHeader);
+        
+        // Exp images (if any)
+        const expImgCont = document.createElement('div');
+        expImgCont.className = 'quiz-image-container';
+        expImgCont.style.display = 'none';
+        
+        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+        const addImg = (src) => {
+            const imgSrc = src.startsWith('http') ? src : `${rootPath}${state.bookPath}/quiz/images/${src}`;
+            const img = document.createElement('img');
+            img.src = imgSrc;
+            img.className = 'quiz-q-image';
+            img.onclick = () => window.open(imgSrc, '_blank');
+            expImgCont.appendChild(img);
+        };
+        
+        if (q.explanationImages && Array.isArray(q.explanationImages)) {
+            q.explanationImages.forEach(img => addImg(img));
+            expImgCont.style.display = 'block';
+        } else if (q.explanationImage) {
+            addImg(q.explanationImage);
+            expImgCont.style.display = 'block';
+        }
+        
+        if (expImgCont.style.display === 'block') {
+            expBox.appendChild(expImgCont);
+        }
+        
+        // Exp text
+        const expTextDiv = document.createElement('div');
+        expTextDiv.className = 'exp-content';
+        const rawExp = q['explanation' + lang] || q['explanationEn'] || q.explanation || 'No explanation provided.';
+        const formattedExp = rawExp.split('\n\n')
+            .map(p => `<p>${p.trim().replace(/\n/g, '<br>')}</p>`)
+            .join('');
+        expTextDiv.innerHTML = formattedExp;
+        expBox.appendChild(expTextDiv);
+        
+        // Exp actions (Reader link)
+        const expActions = document.createElement('div');
+        expActions.className = 'exp-actions';
+        
+        const metaChapters = state.quizData.meta.chapter || [];
+        const chapterList = Array.isArray(metaChapters) ? metaChapters : (metaChapters ? [metaChapters] : []);
+        
+        if (chapterList.length > 1) {
+            const pickerDiv = document.createElement('div');
+            pickerDiv.className = 'exp-chapter-picker';
+            pickerDiv.style.width = '100%';
+            
+            const pickerLabel = document.createElement('p');
+            pickerLabel.textContent = isRu ? 'Выберите главу для открытия:' : 'Select chapter to open:';
+            pickerLabel.style.margin = '0 0 10px 0';
+            pickerLabel.style.fontSize = '0.9rem';
+            pickerLabel.style.color = 'var(--quiz-muted)';
+            pickerDiv.appendChild(pickerLabel);
+            
+            const linksGrid = document.createElement('div');
+            linksGrid.className = 'chapter-links-grid';
+            
+            chapterList.forEach(ch => {
+                const btn = document.createElement('button');
+                btn.className = 'chapter-link-btn';
+                btn.textContent = getChapterTitle(ch);
+                btn.onclick = (e) => {
+                    e.stopPropagation();
+                    showChapterPreview(ch);
+                };
+                linksGrid.appendChild(btn);
+            });
+            
+            pickerDiv.appendChild(linksGrid);
+            expBox.appendChild(pickerDiv);
+        } else if (chapterList.length === 1) {
+            const readBtn = document.createElement('button');
+            readBtn.className = 'btn-secondary';
+            readBtn.innerHTML = `<i class="fas fa-book-open"></i> ${isRu ? 'В читалку' : 'Open in Reader'}`;
+            readBtn.onclick = (e) => {
+                e.stopPropagation();
+                showChapterPreview(chapterList[0]);
+            };
+            expActions.appendChild(readBtn);
+            expBox.appendChild(expActions);
+        }
+        
+        expBox.onclick = (e) => e.stopPropagation(); // Prevent folding/unfolding when clicking inside explanation
+        optionsGrid.onclick = (e) => e.stopPropagation(); // Prevent folding/unfolding when clicking options grid
+        
+        detailsDiv.appendChild(expBox);
+        itemDiv.appendChild(detailsDiv);
+        
+        // Toggle expanded class on click
+        headerDiv.onclick = () => {
+            itemDiv.classList.toggle('expanded');
+        };
+        
+        listCont.appendChild(itemDiv);
+    });
 }

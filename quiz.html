@@ -41,6 +41,13 @@
                     </div>
                     <div class="settings-row">
                         <label class="toggle-switch">
+                            <input type="checkbox" id="setting-all-questions">
+                            <span class="slider"></span>
+                            <span id="label-setting-all-questions">All Questions List</span>
+                        </label>
+                    </div>
+                    <div class="settings-row">
+                        <label class="toggle-switch">
                             <input type="checkbox" id="setting-shuffle" checked>
                             <span class="slider"></span>
                             <span id="label-setting-shuffle">Shuffle Questions</span>
@@ -101,6 +108,21 @@
                         <button id="btn-open-reader-main" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
                         <button id="btn-next-q" class="btn-primary">Next Question <i class="fas fa-chevron-right"></i></button>
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ALL QUESTIONS SCREEN -->
+        <section id="screen-all-questions" class="quiz-screen">
+            <header class="quiz-header">
+                <button class="quiz-exit-btn" id="btn-exit-all-q"><i class="fas fa-times"></i> Exit</button>
+                <h1 id="all-q-title">All Questions</h1>
+                <div id="all-q-counter" class="quiz-live-score">Questions: 0</div>
+            </header>
+            
+            <div class="all-questions-container">
+                <div id="all-questions-list" class="all-questions-list">
+                    <!-- List of questions -->
                 </div>
             </div>
         </section>
