@@ -78,7 +78,7 @@ There has been an evolution over time of the applications of clinical nuclear ca
 
 SPECT-MPI is performed using a scintillation camera and an intravenously injected radiopharmaceutical that distributes to the heart in proportion to regional myocardial perfusion. Various standardized SPECT-MPI protocols are used for imaging at rest and after exercise or pharmacologic stress. For SPECT, conventional scintillation camera detectors rotate to cover a 180-degree arc around the patient in a semicircular or elliptical fashion, collecting a series of planar *projection images* at regular angular intervals. The three-dimensional (3D) distribution of radioactivity in the myocardium is then mathematically *reconstructed* from the two-dimensional projections, and the resulting data are displayed in series of slices in the short-axis, vertical long-axis, and horizontal long-axis orientations. For gated SPECT (Fig. 18–1), the
 
-![](_page_1_Figure_8.jpeg) Frames/step, gated to ECG
+![](ch03-08_page_1_Figure_8.jpeg) Frames/step, gated to ECG
 
 **FIGURE 18–1.** Schematic representation of electrocardiogram (ECG)-gated perfusion single-photon emission computed tomography (SPECT) acquisition and processing.
 
@@ -105,7 +105,7 @@ employed during its first pass through the myocardium. The amount of the injecte
 
 The monovalent cation thallium is a potassium analog that is avidly extracted from the blood by myocardial cells. A cyclotron-generated radionuclide with a half-life of 73 hours, 201Tl emits photons at 69 to 80 keV (90% abundance) and at 167 keV (10% abundance). Because of its relatively long half-life of 73 hours, the absorbed radiation dose per unit injected is much higher with 201Tl than with 99mTc agents. For the same radiation dose to the patient, approximately one-tenth as much radioactivity with 201Tl can be injected compared with 99mTc, making imaging times longer and generally providing lower information density ("counts") in the clinical images. 201Tl has superior physiologic
 
-![](_page_2_Figure_6.jpeg)
+![](ch03-08_page_2_Figure_6.jpeg)
 
 **FIGURE 18–2.** Relationship between tracer uptake and myocardial blood flow: theoretical considerations. O-15-H2 O, oxygen-15 water; N-13-NH2 , nitrogen-13 ammonia; tebo, teboroxime; mibi, sestamibi; Rb, rubidium; Tc-99m, technetium-99m, Tl-201, thallium-201.
 
@@ -117,7 +117,7 @@ The washout rate of 201Tl is a function of the concentration gradient between th
 
 99mTc is produced from a molybdenum-99 generator, has a half-life of 6 hours, and emits monoenergetic gamma rays at 140 keV. The greater count rates achieved clinically with 99mTc agents compared to 201Tl result in, improved image quality. Following extraction from the blood, 99mTc-sestamibi and 99mTc-tetrofosmin are quickly bound by mitochondria, and only a limited amount of myocardial washout (or washin) occurs over time.13,20 Thus, with these tracers, separate rest and stress injections are required to evaluate perfusion defect reversibility. A drawback of both perfusion tracers is that they exhibit a greater roll-off of extraction with increasing coronary flow and lower net extraction by the myocardium than thallium.21 Another drawback of the 99mTc tracers is their gastrointestinal excretion, resulting in greater hepatic and gastrointestinal uptake than thallium, not infrequently interfering with inferior myocardial wall visualization, particularly after rest injection.13
 
-![](_page_3_Figure_2.jpeg)
+![](ch03-08_page_3_Figure_2.jpeg)
 
 **FIGURE 18–3.** Case example of adenosine (Adeno) PET myocardial perfusion imaging study from the Lantheus Medical Imaging phase II clinical trial to evaluate flurpiridaz-F18 as a myocardial perfusion imaging agent. The subject is an 87-year-old woman with shortness of breath and prior percutaneous coronary intervention. Positron emission tomography perfusion images using flurpiridaz-F18 (*top two rows*) show a large severe reversible defect in the left anterior descending (LAD) coronary artery territory, in contrast to the 99mTc–sestamibi (MIBI) SPECT images (*bottom two rows*) in which the reversible defect is much smaller. Invasive coronary angiography revealed a 100% occlusion resulting from in-stent restenosis in the LAD. HLA, horizontal long axis; VLA, vertical long axis; BMS, Bristol-Myers Squibb.
 
@@ -165,7 +165,7 @@ Vasodilator stress is frequently associated with chest discomfort and shortness 
 | Dobutamine   | 2 min     | 5–40 μg/kg/min | Increase every 3 min                    | Beta-blockers       |
 |              |           |                | up to 40 μg/kg/min, often with atropine |                     |
 
-![](_page_5_Figure_2.jpeg)
+![](ch03-08_page_5_Figure_2.jpeg)
 
 **FIGURE 18–4.** Time course of changes in coronary conductance caused by regadenoson (yellow), binodenoson (green), CGS-21680, a selective adenosine receptor agonist (red), and adenosine (blue). Reproduced with permission from Gao Z, Li Z, Baker SP, et al: Novel short-acting A2A adenosine receptor agonists for coronary vasodilation: inverse relationship between affinity and duration of action of A2A agonists. *J Pharmacol Exp Ther*. 2001 Jul;298:209-218.
 
@@ -187,7 +187,7 @@ An alternative to vasodilator stress is inotropic stress with dobutamine. At pre
 
 A variety of protocols can be used with these agents, including 2-day stress/rest, same-day rest/stress, same-day stress/rest, and dual-isotope. Because uptake and radiation dosimetry of these compounds are similar, the recommended acquisition protocols for these tracers are the same. After intravenous injection, the myocardial distribution of these agents does not change significantly over time. Therefore, in contrast to 201Tl, which redistributes into viable myocardium, separate rest and stress injections are needed with 99mTc-sestamibi or 99mtetrofosmin SPECT (Fig. 18–5)43 to assess reversibility of perfusion defects. With these agents, if imaging artifact is suspected on supine images, additional prone
 
-![](_page_6_Figure_2.jpeg)
+![](ch03-08_page_6_Figure_2.jpeg)
 
 **FIGURE 18–5.** Same-day rest/stress (**A**), same-day stress/rest (**B**) and stress-only (**C**) technetium-99m 99mTc)-sestamibi or 99mTc-tetrofosmin protocols. An *asterisk* indicates where attenuation correction or imaging in multiple positions is recommended. SPECT, single-photon emission computed tomography.
 
@@ -205,11 +205,11 @@ As noted, unlike 99mTc-sestamibi and 99mTc-tetrofosmin, which are fixed within t
 
 Because of the increased radiation burden associated with the dualisotope approach, its use is not recommended unless both ischemia and viability testing are needed. A rest 201Tl/stress 99mTc-sestamibi or 99mTc-tetrofosmin dual-isotope SPECT protocol (see Fig. 18–5B),48 takes advantage of the Anger camera's ability to collect data in different energy windows. It is usually performed with separate rest/stress acquisitions and can include redistribution thallium images either before the stress study (see Fig. 18–7B) or at 24 hours (after stress) (see Fig. 18–7B) if a rest defect is present. An alternative rapid "reverse dual" protocol (stress thallium/rest 99mTc-sestamibi or 99mTc-tetrofosmin) using lower radionuclide doses and camera systems capable of faster acquisitions has been reported, allowing the use of 201Tl as the stress agent (preferable because of superior net extraction compared with 99mTc-sestamibi or 99mTc-tetrofosmin) while maintaining a relatively low radiation burden for the patient.67
 
-![](_page_6_Figure_12.jpeg)
+![](ch03-08_page_6_Figure_12.jpeg)
 
 **FIGURE 18–6.** Rest sestamibi (MIBI) single-photon emission computed tomography (SPECT) images in the supine position (*top*) and prone position (*bottom*) in a 55-year-old patient with a low likelihood of coronary artery disease. Prone images are normal, demonstrating that the apparent inferior wall perfusion defect on the supine images is secondary to soft tissue attenuation. Normal wall motion was noted on gated SPECT-myocardial perfusion imaging (MPI). Gated resting MPI: end-diastolic volume 55 mL, end-systolic volume 35 mL, and ejection fraction 55%. Reproduced with permission from Germano G, Berman DS: *Clinical Gted Cardiac SPECT*. Armonk: Futura; 1999.62
 
-![](_page_7_Figure_2.jpeg)
+![](ch03-08_page_7_Figure_2.jpeg)
 
 **FIGURE 18–7.** Thallium-201 (201Tl) protocols. **A.** Stress/reinjection/late redistribution. **B.** Resting thallium-201 (201Tl)/technetium-99m (99mTc)-sestamibi or 99mTc-tetrofosmin dual-isotope single-photon emission computed tomography (SPECT) myocardial perfusion imaging protocol. Most commonly, only rest and stress imaging are performed. When resting defects are present, redistribution imaging is recommended. **C.** Rest/redistribution myocardial viability protocol. REDIST, redistribution.
 
@@ -233,7 +233,7 @@ Rest 99mTc-sestamibi and 99mTc-tetrofosmin can also be used for assessment of my
 
 Dramatic advances in cardiac SPECT instrumentation have been introduced to clinical practice in the recent years, allowing both a decrease in imaging time and a reduction in patient radiation dose. These developments include innovative designs of the gantry dedicated to cardiac imaging, new photon detectors, and new collimators.69,70 In parallel, software reconstruction methods incorporating resolution recovery and computed tomography (CT)–based attenuation correction have been developed, which allow further reduction in imaging time or radiation dose.71 Two hardware vendors have introduced compact cardiac scanners with cadmium-zinc-telluride (CZT) detectors, coupled with high-sensitivity collimation (multipinhole or high-sensitivity, parallel-hole—focusing on the myocardium). It is estimated that more than 300 of such high-efficiency cardiac scanners were in use worldwide as of 2015, and the number is increasing by about 100 per year. The new scanners can achieve simultaneous improvement in sensitivity (five to eight times higher than with conventional MPI SPECT) and in image resolution (up to two times higher). To date, these new techniques have been utilized primarily to dramatically reduce the routine scan time. With faster imaging, patient comfort is markedly improved,
 
-![](_page_7_Figure_14.jpeg)
+![](ch03-08_page_7_Figure_14.jpeg)
 
 **FIGURE 18–8.** Rest and 24-hour redistribution thallium-201 (201Tl) single-photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) of a 75-year-old man with atypical angina showing a large amount of resting ischemia in the left anterior descending (LAD) artery. Coronary angiography subsequently revealed a 95% proximal LAD stenosis. Of note, the left ventricle was larger at rest than at the time of redistribution imaging. The stress SPECT-MPI study was canceled in this patient because of the unexpected perfusion defect.
 
@@ -275,7 +275,7 @@ Use newer high-efficiency solid-state single-photon emission computed tomography
 
 Use advanced reconstruction software.
 
-![](_page_9_Figure_2.jpeg)
+![](ch03-08_page_9_Figure_2.jpeg)
 
 **FIGURE 18–9.** Effective radiation doses delivered to an adult patient for typical injected activities in one stress myocardial perfusion positron emission tomography (PET) and single-photon emission computed tomography (SPECT) scan (standard and ultra-low-dose protocols). Activities are 40 mCi for 82Rb, 20 mCi for 13N-ammonia, 7 mCi for 18F-Flurpiridaz, 30 mCi for 99mTc-tetrofosmin or 99mTc-MIBI, 3.5 mCi of 99mTc-MIBI for ultra-low-dose protocol with high-efficiency-MPS73,74 and 2.5 mCi for 201Tl.409-414 MPS, myocardial perfusion scintigraphy; MIBI, sestamibi.
 
@@ -307,7 +307,7 @@ is used as recommended for all noninvasive cardiac imaging modalities by the Ame
 
 **FIGURE 18–10.** Patterns of stress/rest or redistribution (redist) single-photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI) defects. Red represents normal tracer update; pink represents a definite perfusion defect; green represents less severe but still definite perfusion defect (seen in the partially reversible defect example). *Single asterisk* indicates redistribution (redist) or reinjection image. *Double asterisk* indicates stress/redist or rest/redist. 99mTc, technetium-99m–sestamibi or –tetrofosmin; 201Tl, thallium-201.
 
-![](_page_10_Figure_2.jpeg)
+![](ch03-08_page_10_Figure_2.jpeg)
 
 **FIGURE 18–11.** SPECT patterns of perfusion defects associated with myocardial viability and resting regional contractile abnormality. Green represents perfusion defect. The *asterisk* indicates 4- or 24-hours redistribution (Redist). NTG, nitroglycerin; 201Tl, thallium-201.
 
@@ -315,7 +315,7 @@ is used as recommended for all noninvasive cardiac imaging modalities by the Ame
 
 **Summed Scores** Segmental scoring systems lend themselves to the derivation of summed segmental scores as global indices of perfusion.23,100 The overall extent and severity of perfusion defects is reflected by the summed stress score (SSS), the summed rest score (SRS), and the summed differences score (SDS), with the latter defined by SSS – SRS
 
-![](_page_10_Figure_6.jpeg)
+![](ch03-08_page_10_Figure_6.jpeg)
 
 **FIGURE 18–12.** Examples of typical stress perfusion patterns corresponding to normal (*top*) and various single-territory abnormalities. Coronary angiographic findings in these patients were as follows: left anterior descending (LAD) coronary artery, proximal 95% stenosis; diagonal, occluded proximal first diagonal artery; left circumflex coronary artery (LCX), occluded first marginal artery branch; and right coronary artery (RCA), mid-95% stenosis. All patients had no evidence of myocardial infarction and normal single-photon emission computed tomography myocardial perfusion imaging at rest. From left to right, the images represent apical short axis, mid short axis, basal short axis, mid vertical long axis, and mid horizontal long axis. These patients show the typical distributions of perfusion defects associated with the specific coronary arteries involved.
 
@@ -329,7 +329,7 @@ A variety of commercial software packages are available to assist in image inter
 
 The perfusion defect size (extent) represents the proportion of voxels below the normal limit, which would correlate best with the number of visually abnormal segments. The total perfusion deficit (TPD) in another application assesses both the proportion of voxels below normal limits and the degree by which they are abnormal and would correlate best with the summed segmental scores. The change between rest and stress is also assessed providing information about perfusion defect reversibility. It is possible to automatically register and subtract the rest images from the stress images or serial stress or rest studies from previous studies, resulting in a "change" image without requiring comparison to protocol specific normal limits. The change image reflects the amount of regional perfusion change.104 The results are most commonly displayed using polar maps. Figure 18–15 displays polar maps associated with the various scan abnormalities shown in Figs. 18–12 and 18–13. The major clinical value of the quantitative analysis packages is in providing an objective assessment of the presence and magnitude of perfusion defects. It further gives the reader a "second expert" opinion, which is of importance even for experts; given the subjective nature of visual assessment. Quantitative assessment of serial studies is also more reproducible than expert visual assessment.105,106 Moreover, it is also highly useful in facilitating decision making in individual patients regarding the need to perform a rest scan following a stress study or to simply perform a stress-only procedure. Recent developments in
 
-![](_page_11_Picture_2.jpeg)
+![](ch03-08_page_11_Picture_2.jpeg)
 
 **FIGURE 18–13.** Stress single-photon emission computed tomography myocardial perfusion imaging images demonstrating more complex patterns associated with known coronary lesions in patients with normal resting perfusion images and no history of prior myocardial infarction. Septal refers to trapped septal perforator coronary artery (septal) in a patient with critical left anterior descending coronary artery (LAD) stenoses proximal and distal to the septal perforator takeoff and patent LAD internal mammary graft. Left circumflex coronary artery (LCX) plus right coronary artery (RCA) refers to occlusion of proximal LCX and proximal RCA. Left main (LM) refers to subtotal LM coronary artery stenosis.
 
@@ -349,9 +349,9 @@ systolic volume (ESV), and diastolic function. Regional LV myocardial wall motio
 
 eters of which offer a global measure
 
-![](_page_11_Figure_12.jpeg)
+![](ch03-08_page_11_Figure_12.jpeg)
 
-![](_page_11_Figure_13.jpeg)
+![](ch03-08_page_11_Figure_13.jpeg)
 
 4 = Absent of radioactive uptake **FIGURE 18–14.** Nuclear myocardial perfusion 17-segment scoring (diagrammatic representation of segmental division of the tomography slices and assignment of the segments to the individual coronary arteries using the 17-segment model). LAD, left anterior descending coronary artery; LCX, left circumflex
 
@@ -408,7 +408,7 @@ Data from Sandler MP: *Diagnostic Nuclear Medicine*, 4th edition. Philadelphia: 
 
 sidered to represent severe and extensive ischemia and has been shown to be highly specific for critical stenosis (> 90% narrowing) in vessels supplying a large portion of the myocardium (ie, proximal left anterior descending or multivessel 90% lesions).124,125 It has also been shown to improve the detection of severe coronary disease when combined with perfusion measures.128 Dipyridamole or adenosine-induced TID has similar implications as those associated with exercise.129 Figure 18–16 illustrates an example of TID on SPECT-MPI from a patient with severe left main CAD. TID can easily be measured by the quantitative gated nuclear MPI algorithms. TID ratios are typically calculated from the summed (nongated) rest and stress images. The upper limit of normal for the TID ratio with on stress nuclear-MPI depends on the stress type and the imaging protocol used.130 With exercise stress, the upper limit of normal for TID has been reported to be 1.14 to 1.19 for same-day rest/stress 99mTc imaging and 1.22 for dual-isotope imaging.128,131 With vasodilator stress, for reasons that are not completely understood, the upper limit of normal to consider TID to be present is higher, approximately 1.14 to 1.19 for same-day rest/stress 99mTc imaging and 1.36 with dual-isotope SPECT.129,132,133 When unaccompanied by a stress perfusion defect, TID is less specific for severe CAD.168
 
-![](_page_13_Figure_2.jpeg)
+![](ch03-08_page_13_Figure_2.jpeg)
 
 **FIGURE 18–15.** Quantitative stress polar maps of stress myocardial perfusion imaging demonstrating typical vascular perfusion pattern. Black represents regions of quantitative perfusion defect when compared to normal limit files. LAD, left anterior descending coronary artery; LCX, left circumflex coronary artery; LM, left main; RCA, right coronary artery.
 
@@ -420,7 +420,7 @@ Increased lung uptake of thallium reflects increased pulmonary capillary wedge p
 
 A number of patient characteristics, clinical and ECG stress test findings, and stress MPI findings have been found to be associated with increased patient risk of adverse events (Table 18–6). Clinical highrisk markers tend to be related to patient age, rest ECG abnormalities, diabetes mellitus, presenting symptoms, functional capacity, and prior CAD. Stress test markers of risk include ability to perform exercise, exercise duration, stress-related BP and HR responses, ECG changes, and clinical response in terms of symptoms. MPI high-risk markers include the presence of extensive reversible or fixed defects and direct
 
-![](_page_13_Figure_8.jpeg)
+![](ch03-08_page_13_Figure_8.jpeg)
 
 **FIGURE 18–16.** Exercise myocardial perfusion single-photon emission computed tomography in a 67-year-old man with new-onset atypical chest pain. Exercise (EX)/rest 99mTc sestamibi imaging shows a mild (borderline) inferolateral reversible perfusion defect; however, transient ischemic dilation was present (ratio, 1.44). Invasive coronary angiography revealed severe left main stenosis.
 
@@ -492,7 +492,7 @@ The normalcy rate has been suggested as surrogate for assessing test *specificit
 
 The first of the prognostic studies concerning exercise MPI was published by Brown and coworkers in 1983, based on a small cohort of only 100 patients.150 In 1986, Ladenheim and colleagues reported a landmark study involving the follow-up of 1689 diagnostic patients undergoing exercise 201Tl MPI.151 This approach of prognostic accuracy of stress MPI overcame many of the limitations of diagnostic accuracy that have been previously discussed, improving separation of low- to high-risk patient subsets. Both the number of perfusion defects and the severity of perfusion defects were shown to be related to adverse cardiac outcomes in an exponential fashion, with extent and severity of ischemia as independent predictors of outcome (Fig. 18–17). When PET-MPI is used, measurements of myocardial flow have been shown to add information over perfusion defects.
 
-![](_page_15_Figure_10.jpeg)
+![](ch03-08_page_15_Figure_10.jpeg)
 
 **FIGURE 18–17.** The extent of myocardial ischemia, ranging from 0 to 6 myocardial zones (*x* axis); the severity of defects, ranging from none (score of 0) to severe (score of 3) on the *y* axis; and the frequency of cardiac events on the orthogonal *z* axis, shown both for patients achieving more than 85% of maximal predicted heart rate (ie, "maximal" exercise) and those achieving less than 85% of maximal predicted heart rate ("submaximal"). The extent and severity of ischemia were both independently correlated to cardiac event rates. Thus, a patient who had extensive ischemia that was also severe in one or more zones had a considerably higher event rate compared to a patient who had extensive ischemia but without severe ischemia. For any given degree of ischemia, the event rate was approximately three-fold higher if the patient could only exercise sub-maximally. Reproduced with permission from Ladenheim, M.L., et al., Extent and severity of myocardial hypoperfusion as predictors of prognosis in patients with suspected coronary artery disease. *J Am Coll Cardiol*. 1986 Mar;7:464-471.151
 
@@ -510,11 +510,11 @@ The risk of cardiac events is consistently lower in patients with normal than in
 
 the importance of diabetes and reduced LVEF (< 45%) in identifying those with a slightly higher CAD event risk and shorter warranty period. 157 Increased risk after normal SPECT has also been reported in patients with dyspnea as the presenting symptom.<sup>158</sup> The importance of exercise duration has also been reported. In 6069 patients with a normal SPECT-MPI study followed for a mean of 10.2 years, the allcause mortality rate rose progressively as the exercise duration associated with the SPECT study declined. Patients who could not exercise for more than 3 minutes had a mortality rate that was comparable to that of patients requiring pharmacologic stress.<sup>59</sup> In a subsequent study, of patients with a normal exercise SPECT-MPI study followed for a mean of 11.2 years, hypertension, smoking, diabetes, and exercise capacity were significant predictors, beyond age, of long-term mortality (Fig. 18–19). Combining these predictors, the mortality rates ranged from 0.2% per year in patients exercising 9 minutes or more and with none of these CAD risk factors to 1.6% per year in patients exercising less than 6 minutes and having two or more of these risk factors. 159 Thus, the lower risk and more functional the patient, the lower the expected annual event rates following a normal MPI. The converse is also true—that the annual event rates are increased in higher risk cohorts including those of advanced age or with known cardiovascular disease, impaired LVEF, and/or functional impairment. By comparison, patients with normal SPECT-MPI who performed some exercise at the time of stress MPI (combined low-level exercise with
 
-![](_page_16_Figure_9.jpeg)
+![](ch03-08_page_16_Figure_9.jpeg)
 
 **FIGURE 18—18. A.** Annual rates of hard events, defined as cardiac death and nonfatal MI, in patients after normal single-photon emission computed tomography (SPECT) myocardial perfusion imaging (MPI). The following subgroups are shown: women versus men, patients with or without history (Hx) of coronary artery disease (CAD), and patients undergoing adenosine (Ad) versus exercise (Ex) stress. **B.** A significant risk is noted in the patients with a Hx of CAD, as demonstrated by the rates of hard events in the first and second years of follow-up after normal SPECT-MPI. Four examples are given: a 50-year-old man undergoing Ex stress with no Hx of CAD, an 80-year-old man undergoing Ad stress with no Hx of CAD, a 50-year-old man with a Hx of CAD, and an 80-year-old man with a Hx of CAD. In patients with no Hx of CAD, the event rates in the first and second years after SPECT-MPI are not different; however, the event rate for normal SPECT-MPI goes up significantly with increased patient risk. In patients with previous CAD, the event rates in the second year after SPECT-MPI were greater than those in the first year, and there is additional increase in the event rate with clinical risk. *Asterisk* indicates *P* < .001. Reproduced with permission from Hachamovitch R, Hayes S, Friedman JD, et al: Determinants of risk and its temporal variation in patients with normal stress myocardial perfusion scans: what is the warranty period of a normal scan. *J Am Coll Cardiol*. 2003 Apr 16;41:1329-1340.<sup>24</sup>
 
-![](_page_17_Figure_2.jpeg)
+![](ch03-08_page_17_Figure_2.jpeg)
 
 **FIGURE 18–19.** Comparison of survival in the propensity-matched exercise and adenosine patients, with the exercise patients divided according to exercise duration. Mortality rate increased progressively as exercise duration diminished. There was no statistical difference in mortality rate among patients unable to exercise more than 3 minutes and patients undergoing adenosine single-photon emission computed tomography (*P* = .65). Reproduced with permission from Rozanski A, Gransar H, Min JK, et al: Long-term mortality following normal exercise myocardial perfusion SPECT according to coronary disease risk factors. *J Nucl Cardiol*. 2014 Apr;21:341-350.
 
@@ -532,11 +532,11 @@ In some patients, extensive CAD may be *missed* because of balanced reduction of
 
 **Event Risk with Abnormal Scan** The relationship of varying extent and severity of perfusion abnormalities with cardiac outcomes has been reported in numerous, diverse patient subsets.103,153,170,171 Consistently, increasing perfusion scan abnormality is associated with an increasing risk of cardiac events, and this risk is further increased in patients with reduced LVEF.
 
-![](_page_17_Figure_12.jpeg)
+![](ch03-08_page_17_Figure_12.jpeg)
 
 **FIGURE 18–20.** Risk-adjusted cardiac death (CD)–free survival as a function of the clinical myocardial perfusion single-photon emission computed tomography (MPS) certainty category (global χ2 of the final model = 957.2, *P* < .001). This is adjusted for age, gender, type of stress, symptoms (angina/shortness of breath [SOB], history of coronary artery disease (prior myocardial infarction/ revascularization), diabetes, hyperlipidemia, and ischemic electrocardiographic response. Reproduced with permission from Abidov A, Hachamovitch R, Hayes SW, et al: Are shades of gray prognostically useful in reporting myocardial perfusion single-photon emission computed tomography? *Circ Cardiovasc Imaging*. 2009 Jul;2:290-298.102
 
-![](_page_18_Figure_2.jpeg)
+![](ch03-08_page_18_Figure_2.jpeg)
 
 **FIGURE 18–21.** Rates of risk-adjusted cardiac mortality as a function of percent myocardium ischemic (5%-10%, 10%-20%, and > 20%) in medically treated patients (exercise vs adenosine stress; patients aged < 60,, and > 80 years; diabetic men vs women; and nondiabetic men vs women). Although predicted cardiac mortality increases with increasing percent myocardium ischemic, the rates at any level of ischemia vary widely as a function of clinical information. DM, diabetes mellitus; M, men; W, women. Data from Hachamovitch R, Hayes SW, Friedman JD, et al: Comparison of the short-term survival benefit associated with revascularization compared with medical therapy in patients with no prior coronary artery disease undergoing stress myocardial perfusion single photon emission computed tomography. *Circulation*. 2003 Jun 17;107:2900-2907.25
 
@@ -554,7 +554,7 @@ categories of abnormality have been described.25,27,101 Illustration of how thes
 
 criteria for EF and ESV for men and women, Sharir and coworkers reported that perfusion (percent myocardium ischemic), function (LVEF), and LV volumes (ESV) provide incremental prognostic information regarding cardiac death and hard events122 (Fig. 18–22), with particularly high event rates noted among women with reduced
 
-![](_page_18_Figure_12.jpeg)
+![](ch03-08_page_18_Figure_12.jpeg)
 
 **FIGURE 18–22.** Three-year adjusted cardiac hard event rates in women (**A**) and men (**B**) as a function of the amount of ischemia (percent myocardial [myo] ischemic) and sex-specific normal/abnormal ejection fraction (EF). Reproduced with permission from Sharir T, Kang X, Germano G, et al: Prognostic value of poststress left ventricular volume and ejection fraction by gated myocardial perfusion SPECT in women and men: gender-related differences in normal limits and outcomes. *J Nucl Cardiol*. 2006 Jul;13:495-506.122
 
@@ -580,7 +580,7 @@ A recent meta-analysis assessing the prognostic value of stress PET perfusion id
 
 A recent multicenter registry evaluated the prognostic value of stress PET-MPI in 7061 patients with known or suspected CAD who underwent a rest/stress 82Rb PET drawn from four sites.194 Risk-adjusted analyses revealed that over a median follow-up of 2.2 years, stress PET results added incremental value over preimaging data for the prediction of cardiac death. Compared to normal studies, mild, moderately, and severely abnormal studies were associated with HRs of 2.3 (1.4-3.8), 4.2 (2.3-7.5), and 4.9 (2.5 to 9.6; all *P* < .001), respectively. A study comparing the prognostic value of stress PET by sex was also reported from a subset of 6037 patients in this multicenter effort.190 In this study, men had greater likelihood of CAD and more frequently had PET abnormalities. Men had a higher mortality rate during follow-up (5-year mortality: 6.0% vs 3.7%, *P* < .001; 115 vs 54 deaths). PET results added incremental value in both men and women and had numerically similar adjusted HRs (women 1.81 [1.54-2.14]; men 1.71 [1.52–1.94]). Hence, stress cardiac PET was prognostically valuable for both women and men. This registry has also been used to ascertain and compare the prognostic implications of PET-MPI in normal, overweight, and obese patients.197 Body mass index (BMI) as is grouped in three patient categories: normal (< 25 kg/m2 ), overweight (25-29.9 kg/m2 ), or obese (≥ 30 kg/m2 , with a mean BMI of 30.5 ± 7.4 kg/m2 ). PET results defined by a percent myocardium abnormal were categorized into normal (0%), mild (1%-9.9%), moderate (10%-19.9%), and severe (≥ 20%). In 6037 patients, a normal PET-MPI was associated with an excellent prognosis with very low annual cardiac death rates in normal (0.4%), overweight (0.4%), and obese (0.2%) patients. Furthermore, in all three BMI-defined categories, greater abnormality of PET-MPI results were associated with increased patient risk. Similarly, PET-MPI results added incremental prognostic value and enhanced risk stratification in all patient subgroups.
 
-![](_page_20_Figure_2.jpeg)
+![](ch03-08_page_20_Figure_2.jpeg)
 
 **FIGURE 18–23.** Unadjusted (*left*) and adjusted (*right*) hazard curves of cardiac mortality stratified by percent myocardium abnormal show increasing separation of risk over time across different amounts of abnormal positron emission tomography (PET) perfusion. Compared to a normal PET study, patients with mild, moderate, and severe PET perfusion defects have progressively greater hazard ratios (HRs). Reproduced with permission from Dorbala S, Di Carli MF, Beanlands RS, et al: Prognostic value of stress myocardial perfusion positron emission tomography: results from a multicenter observational registry. *J Am Coll Cardiol*. 2013 Jan 15;61:176-184.194
 
@@ -596,7 +596,7 @@ An additional report focused on examining the prognostic significance of CFR amo
 
 A challenge facing clinicians attempting to apply nuclear MPI results to patient care is to distill all information reported after SPECT-MPI clinical, historical, stress test, perfusion, and function data—for risk of
 
-![](_page_21_Figure_2.jpeg)
+![](ch03-08_page_21_Figure_2.jpeg)
 
 **FIGURE 18–24.** Adjusted and annualized cardiac mortality among patients with diabetes mellitus (DM) or coronary artery disease (CAD). Cardiac mortality among patients with DM or CAD. In (**A**), adjusted cardiac mortality survival curves in CAD patients (prior myocardial infarction or revascularization), patients without DM (orange), DM patients without CAD but with compromised CFR (red), DM patients without CAD and preserved CFR (blue), and patients without DM or CAD with normal perfusion and left ventricular function (green). In (**B**), annualized cardiac mortality rates are plotted. Data for patients with CAD and DM are also presented for comparison (purple). CD, cardiac death; EF, ejection fraction; MPI, myocardial perfusion imaging; NI MPI, normal myocardial perfusion imaging. Reproduced with permission from Murthy VL, Naya M, Foster CR, et al: Association between coronary vascular dysfunction and cardiac mortality in patients with and without diabetes mellitus. *Circulation*. 2012 Oct 9;126:1858-1868.200
 
@@ -610,7 +610,7 @@ Although there is compelling evidence that SPECT- and PET-MPI are effective in t
 
 The reduction in observed event rates resulting in this referral bias in medically treated patients with severe amounts of ischemia on SPECT-MPI206 has been quantified. Thus, reported event rates in observational studies limited to medically treated patients may be high risk but underestimate the true risk in these patients; the patients with the greatest ischemic risk were referred for revascularization and censored from the
 
-![](_page_21_Figure_10.jpeg)
+![](ch03-08_page_21_Figure_10.jpeg)
 
 **FIGURE 18–25.** Relationship between prognostic adenosine score and 2-year Kaplan-Meier survival free of cardiac death. With lower scores, patient risk is relatively low with narrower confidence intervals. As scores increase, particularly over 50, risk increases more rapidly and confidence intervals increase as well. The orthogonal lines represent a specific example of an 80-year-old man with exertional shortness of breath who demonstrated 30% myocardium ischemic and 0% myocardium fixed on no-walk adenosine myocardial perfusion imaging. Using the adenosine score, early revascularization (R, green) would be predicted to have a 93% 2-year survival and medical therapy (MT, red), an 84% survival. Reproduced with permission from Hachamovitch R, Hayes SW, Friedman JD, et al: A prognostic score for prediction of cardiac mortality risk after adenosine stress myocardial perfusion scintigraphy. *J Am Coll Cardiol*. 2005 Mar 1;45:722-729.58
 
@@ -626,17 +626,17 @@ Evidence is evolving that beyond identifying patient risk, a principal role of n
 
 may accrue a *clinical benefit* in terms of risk reduction with a specific therapeutic approach. Observational evidence is available from registry data and randomized trials regarding the impact of stress MPI for medical management decisions of patients with SIHD.207-211 With regard to the observational evidence on a survival benefit with coronary revascularization, a study of patients without prior MI or revascularization underwent stress SPECT-MPI reported a survival benefit for patients undergoing medical therapy versus revascularization in the setting of no or mild ischemia, whereas patients undergoing revascularization had an increasing survival benefit over patients undergoing medical therapy when moderate to severe ischemia was present (> 10% of the total myocardium ischemic) (Fig. 18–26).25 Furthermore, the roles of stress perfusion and gated SPECT-MPI EF in identifying this observational benefit have also been compared.179 Although EF, percent myocardium ischemic, and the percent myocardium fixed are all predictors of cardiac death, the first is by far the best predictor of cardiac mortality. Conversely, only inducible ischemia identified patients who would benefit from revascularization compared with medical therapy (Fig. 18–27). With increasing amounts of ischemia, increasing survival benefit for revascularization over medical therapy was found, across all values of EF. A subsequent study by the same investigators examined this relationship in a large cohort of patients both with and without prior CAD who were followed-up for
 
-![](_page_22_Figure_8.jpeg)
+![](ch03-08_page_22_Figure_8.jpeg)
 
 **FIGURE 18–26.** Relationship between percent myocardium ischemic and log of the hazard ratio in patients treated either with medical therapy (*dashed line*) or early revascularization (< 60 days after single-photon emission computed tomography myocardial perfusion imaging; *solid line*) based on multivariable modeling. In the setting of little or no ischemia, medical therapy is associated with superior survival; with increasing amounts of ischemia, a progressive survival benefit with revascularization over medical therapy is present. Ninety-five percent confidence intervals are shown by the closely dotted lines. Reproduced with permission from Hachamovitch R, Hayes SW, Friedman JD, et al: Comparison of the short-term survival benefit associated with revascularization compared with medical therapy in patients with no prior coronary artery disease undergoing stress myocardial perfusion single photon emission computed tomography. *Circulation*. 2003 Jun 17;107:2900-2907.207
 
 an average of 8.7 years after MPI. As previously described, patients without prior CAD (n = 8791) had improved survival with revascularization in the setting of significant ischemia, as did patients with prior revascularization but no prior MI (n = 1542). However, as an overall group, patients with prior MI (n = 3216) did not show benefit with early revascularization as a function of the extent of ischemia (Fig. 18–28). However,
 
-![](_page_22_Figure_11.jpeg)
+![](ch03-08_page_22_Figure_11.jpeg)
 
 **FIGURE 18–27.** Relationship between gated single-photon emission computed tomography (SPECT) ejection fraction (EF) and log of the hazard ratio in 5366 patients based on multivariable modeling. *Solid lines* represent predicted survival for 0%, 10%, 20%, and 30% myocardium ischemic in medically treated patients. *Dashed lines* represent predicted survival for patients treated with revascularization for all values of percent myocardium ischemic. Overall, risk increased with decreasing ejection fraction (EF). For any value of EF, however, risk also increases as percent myocardium ischemic increases, indicating an incremental value for percent myocardium ischemic over EF. Compared with risk in patients treated medically, risk in patients undergoing early revascularization (revasc) was independent of the percent myocardium ischemic present (as evidenced by a *single dashed line* representing survival after revascularization for all degrees of ischemia). Risk in early revasc patients was similar to the risk of medically treated patients with 10% myocardium ischemic, throughout the range of EF. Reproduced with permission from Hachamovitch R, Rozanski A, Hayes SW, et al: Predicting therapeutic benefit from myocardial revascularization procedures: are measurements of both resting left ventricular ejection fraction and stress-induced myocardial ischemia necessary? *J Nucl Cardiol*. 2006 Nov;13:768-778.208
 
-![](_page_23_Figure_2.jpeg)
+![](ch03-08_page_23_Figure_2.jpeg)
 
 **FIGURE 18–28.** Hazard ratios (with 95% confidence intervals) for death with early revascularization versus medical therapy at specific values of single-photon emission computed tomography–measured ischemia (percent myocardium ischemic) based on Cox proportional hazards survival modeling. (**A**) Patients with no prior coronary artery disease, (**B**) patients with prior revascularization but no prior myocardial infarction (MI), (**C**) patients with prior MI (with or without prior revascularization), and (**D**) patients with < 10% fixed defect. *P* values as per Cox proportional hazards model. Reproduced with permission from Hachamovitch R1, Rozanski A, Shaw LJ, et al: Impact of ischaemia and scar on the therapeutic benefit derived from myocardial revascularization vs. medical therapy among patients undergoing stress-rest myocardial perfusion scintigraphy, *Eur Heart J*. 2011 Apr;32:1012-1024.209
 
@@ -648,9 +648,9 @@ Observational studies, such as those discussed above, are primarily intended for
 
 These results from single-site observational series have been recently extended by the results of prospective randomized clinical trials of SIHD.204,216 Shaw and coworkers210 reported several important results from the nuclear substudy of the Clinical Outcomes Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE) trial. First, in this subset of COURAGE patients, the addition of percutaneous coronary intervention (PCI) to optimal medical therapy (OMT) resulted
 
-![](_page_24_Figure_2.jpeg)
+![](ch03-08_page_24_Figure_2.jpeg)
 
-![](_page_24_Figure_3.jpeg)
+![](ch03-08_page_24_Figure_3.jpeg)
 
 **FIGURE 18–29.** Kaplan-Meier survival for patients by residual ischemia after 6 to 18 months of percutaneous coronary intervention plus optimal medical therapy or optimal medical therapy alone (*left*). Overall event-free survival rates were 100%, 84.4%, 77.7%, and 60.7% for 0%, 1% to 4.9%, 5% to 9.9%, and 10% ischemic myocardium, respectively (P = .001). In a risk-adjusted Cox model (controlling for randomized treatment), this difference was not significant (P = .09). Unadjusted (brown bars) and risk-adjusted (green bars) hazard ratios for the extent and severity of residual ischemia at 6 to 18 months of follow-up (*right*) are shown. Reproduced with permission from Shaw LJ, Berman DS, Maron DJ, et al: Optimal medical therapy with or without percutaneous coronary intervention to reduce ischemic burden: results from the Clinical Outcomes Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE) trial nuclear substudy, *Circulation*. 2008 Mar 11;117:1283–1291.<sup>210</sup>
 
@@ -680,7 +680,7 @@ A number of investigators have examined the relationship between SPECT-MPI and s
 
 As first shown by Hachamovitch and coworkers, the extent and severity of reversible defects shown by the SPECT-MPI result are the dominant factors driving subsequent resource utilization25 (Fig. 18–30). Importantly, even among the patients at greatest post-MPI risk—patients with high postexercise treadmill test likelihood of CAD and moderate to
 
-![](_page_25_Figure_6.jpeg)
+![](ch03-08_page_25_Figure_6.jpeg)
 
 **FIGURE 18–30.** Relationship between percent myocardium ischemic and probability of referral to early revascularization (revasc; < 60 days post–single-photon emission computed tomography– myocardial perfusion imaging). Results are based on multivariable modeling in patients. In this study, percent myocardium ischemic was most strongly associated with referral to revascularization (83% of all information used for decision making). Furthermore, patients' presenting symptoms also influenced this process as evidenced by greater likelihood of referral at any level of ischemia with typical versus atypical versus asymptomatic patients. Atyp, atypical; Asx, asymptomatic; TAP, typical angina pectoris. Reproduced with permission from Hachamovitch R, Hayes SW, Friedman JD, et al: Comparison of the shortterm survival benefit associated with revascularization compared with medical therapy in patients with no prior coronary artery disease undergoing stress myocardial perfusion single photon emission computed tomography. *Circulation*. 2003 Jun 17;107:2900-2907.207
 
@@ -696,7 +696,7 @@ The data are robust on the cost consequences that follow the above discussion on
 
 > The Cost Effectiveness of Noninvasive Cardiac Testing (CeCAT) trial studied 898 patients referred
 
-![](_page_26_Figure_2.jpeg)
+![](ch03-08_page_26_Figure_2.jpeg)
 
 **FIGURE 18–31.** Comparative cost between screening strategies using direct catheterization (Cath) and myocardial perfusion imaging (MPI) with selective Cath. Low, Int, and High represent low-, intermediate-, and high-risk subsets of the patients with stable angina. Shown are the initial diagnostic costs (brown bars) and follow-up costs including costs of revascularization (green bars). A 30% to 41% reduction in costs was noted in each category. Hard event rates were similar in the two strategies, but the revascularization rate was twice as high in the direct Cath group. Adapted with permission from Shaw LJ, Hachamovitch R, Berman DS, et al: The economic consequences of available diagnostic and prognostic strategies for the evaluation of stable angina patients: an observational assessment of the value of precatheterization ischemia. Economics of Noninvasive Diagnosis (END) Multicenter Study Group, *J Am Coll Cardiol*. 1999 Mar;33:661-669.225
 
@@ -708,11 +708,11 @@ A synthesis of the cost data underscores the importance of pretest risk in asses
 
 A recent large comparative effectiveness trial compared stress testing, which was predominantly MPI, to coronary CT angiography. Sponsored by the National Institutes of Health (NIH)–National Heart, Lung, and Blood Institute (NHLBI), the Prospective Multicenter Imaging Study for Evaluation of Chest Pain (PROMISE) evaluated symptomatic patients who were randomized to an initial
 
-![](_page_26_Figure_8.jpeg)
+![](ch03-08_page_26_Figure_8.jpeg)
 
 **FIGURE 18–32.** Observed (**A**) and predicted (**B**) rates of referral for cardiac catheterization after normal/ nonobstructive, mildly abnormal, or moderately to severely abnormal within 90 days of single-photon emission computed tomography (SPECT), positron emission tomography (PET), or computed tomography angiography (CTA) in patients from the study of myocardial perfusion and coronary anatomy imaging roles in coronary artery disease study. Both unadjusted and adjusted catheterization rates significantly increased with worsening abnormal results in all three modalities. Results of statistical testing of differences in catheterization rates between modalities within study result categories are indicated by *asterisks*. Reproduced with permission from Hachamovitch R, Nutter B, Hlatky MA, et al: Patient management after noninvasive cardiac imaging results from SPARC (Study of myocardial perfusion and coronary anatomy imaging roles in coronary artery disease), *J Am Coll Cardiol*. 2012 Jan 31;59:462-474.223
 
-![](_page_26_Figure_10.jpeg)
+![](ch03-08_page_26_Figure_10.jpeg)
 
 **FIGURE 18–33.** Frequency of aspirin, beta-blocker, and lipid-lowering agent use and the proportion of patients taking none, one, two, or three of these agents before versus 90 days after single-photon emission computed tomography, positron emission tomography, or coronary computed tomography angiography in patients with moderately to severely abnormal imaging results and no prior coronary artery disease. Results from the Study of myocardial perfusion and coronary anatomy imaging roles in coronary artery disease. The *P* values indicate differences in baseline versus 90-day medication use. Reproduced with permission from Hachamovitch R, Nutter B, Hlatky MA, et al: Patient management after noninvasive cardiac imaging results from SPARC (Study of myocardial perfusion and coronary anatomy imaging roles in coronary artery disease), *J Am Coll Cardiol*. 2012 Jan 31;59:462-474.223
 
@@ -724,7 +724,7 @@ To provide value, MPI must be applied in a population with at least intermediate
 
 The ACC, in conjunction with multiple professional organizations, has developed AUC for applications of testing in cardiology. Such AUC play a complementary role along with clinical practice guidelines. The documents were developed to guide health care coverage decisions and are
 
-![](_page_27_Figure_6.jpeg)
+![](ch03-08_page_27_Figure_6.jpeg)
 
 **FIGURE 18–34.** Year-by-year prevalence of abnormal and ischemic single-photon emission computed tomography (SPECT)–myocardial perfusion imaging studies between 1991 and 2009 among patients tested at Cedars-Sinai Medical Center. Reproduced with permission from Rozanski A1, Gransar H, Hayes SW, et al: Temporal trends in the frequency of inducible myocardial ischemia during cardiac stress testing: 1991 to 2009. *J Am Coll Cardiol*. 2013 Mar 12;61:1054-1065.
 
@@ -760,7 +760,7 @@ The SIHD clinical practice guideline simplified the criteria defining a patient 
 
 In patients unable to exercise, guidelines support pharmacologic stress imaging is useful as the initial test in symptomatic male and female patients with intermediate or high pretest likelihood of CAD.23,185,246
 
-![](_page_28_Figure_14.jpeg)
+![](ch03-08_page_28_Figure_14.jpeg)
 
 **FIGURE 18–35.** Exercise stress (ST)/rest myocardial perfusion single-photon emission computed tomography (SPECT) in a 68-year-old man asymptomatic man apical variant hypertrophic cardiomyopathy. The patient had multiple risk factors for coronary artery disease and presented with ST-T wave changes on resting electrocardiogram. SPECT demonstrated large, severe reversible defect in an apparent left anterior descending (LAD) coronary artery distribution. Invasive coronary angiography revealed a mid-LAD 50% stenosis with a fractional flow reserve of 0.87.
 
@@ -814,7 +814,7 @@ SPECT-MPI remains a highly useful test for diagnosis and prognosis in obese pati
 
 Regarding prognostic assessment of obese patients, a large study demonstrated that SPECT-MPI is highly effective in risk stratification across weight groups. Normal SPECT-MPI studies were associated with a low risk of events in all weight categories. Interestingly, there was an inverse relationship between weight and risk of cardiac death in the patients with abnormal scans or known CAD.284 Most SPECT imaging tables have weight limits (often 300 lb [136.1 kg]). Recently, two-position imaging using a high-efficiency CZT parallel-hole SPECT-MPI system with a weight limit of 542 lb has been studied in obese patients. With this system, SPECT-MPI was shown to have high accuracy for the identification of patients with 50% or more stenosis on invasive coronary angiography, with excellent image quality even in morbidly obese patients (Fig. 18–36).168 PET imaging is considered to be superior to conventional SPECT-MPI in obese patients because of the robust attenuation correction and the higher photon energy associated with positron emissions (see Chap. 19). However, in morbidly obese patients who cannot fit in the PET gantry, the new cameras with solid-state detectors may of particular importance.285
 
-![](_page_31_Figure_4.jpeg)
+![](ch03-08_page_31_Figure_4.jpeg)
 
 **FIGURE 18–36.** Case example of high single-photon emission computed tomography–myocardial perfusion image quality obtained with a cadmium-zinc-telluride camera using moving detectors in a 48-year-old man with body mass index of 60. C-TPD, combined total perfusion deficit; HLA, horizontal long axis; SA, short axis; S-TPD, supine total perfusion deficit; U-TPD, upright total perfusion deficit; VLA, vertical long axis. Reproduced with permission from Nakazato R, Slomka PJ, Fish M, et al: Quantitative high-efficiency cadmium-zinc-telluride SPECT with dedicated parallel-hole collimation system in obese patients: results of a multi-center study. *J Nucl Cardiol*. 2015 Apr;22:266-275.168
 
@@ -840,7 +840,7 @@ Figure 18–37 illustrates the circumstances in which nuclear MPI might be consi
 
 The multimodality AUC have extensively addressed the use of nuclear MPI in patients with prior CCTA. If CCTA is performed within 90 days, stress MPI is considered appropriate in each of the following categories, concordant with the above discussion: for patients with obstructive CAD (presumably to confirm ischemia and assess its magnitude); in patients with "uncertain" results, specified as equivocal or borderline results where obstructive CAD remains a concern; or when there is a coronary stenosis or anatomic abnormality of unclear significance. Recent data suggests that adding CT
 
-![](_page_32_Figure_6.jpeg)
+![](ch03-08_page_32_Figure_6.jpeg)
 
 **FIGURE 18–37.** Curved multiplanar reconstructions of coronary computed tomography angiography (CCTA) from patients representing different levels of risk based on CCTA findings (likelihood of epicardial stenosis as cause of symptoms; *top*) and possible subsequent management (usefulness of nuclear myocardial perfusion imaging; *bottom*).
 
@@ -880,7 +880,7 @@ Then, regarding exercise testing, exercise testing with imaging, and pharmacolog
 
 In patients with no change in symptoms, the need for repeat testing and the appropriate interval for this retesting have not been fully explored. In this regard, the nuclear substudy of the COURAGE trial210 provided landmark "proof of principle" data, addressing how serial SPECT testing may predict clinical outcomes This COURAGE substudy was performed in 314 patients who underwent both prerandomization and 6- to 18-month postrandomization SPECT-MPI. The prerandomization study was performed with patients off of cardiac medications (eg, β-blockers, calcium channel blockers), and the follow-up study was performed with the patients on their medications. The amount of ischemia in the prerandomization SPECT-MPI was similar between patients assigned to PCI and OMT versus OMT alone. Some patients in the OMT-alone group demonstrated dramatic improvement in ischemia (Fig. 18–38). Patients in the PCI plus OMT group more frequently demonstrated significant ischemia reduction (> 5%) when compared with patients receiving OMT alone (33% vs 19%, respectively; *P =* .0004). Importantly, the frequency of subsequent adverse events over a 4-year period was directly proportional to the amount of residual ischemia measured on the 6- to 18-month postrandomization SPECT-MPI study (see Fig. 18–29). Although this study
 
-![](_page_33_Figure_13.jpeg)
+![](ch03-08_page_33_Figure_13.jpeg)
 
 **FIGURE 18–38.** An illustrative case of a patient enrolled in the nuclear substudy of the Clinical Outcomes Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE) trial. The pretreatment stress images are in the first column, whereas the 12-month follow-up images are in the second column. A severe and extensive perfusion defect is seen in the pretreatment study with near complete resolution on the posttreatment study. The polar plots for the first and second studies are also noted in the center of this slide. The stress total perfusion defect (TPD) for the baseline study was 28% of the myocardium, whereas after 12 months of aggressive medical intervention, the second study demonstrated a dramatic decline in TPD to only 2%. OMT, optimal medical therapy; Rx, treatment.
 
@@ -919,7 +919,7 @@ In patients with CAD and CHF, repetitive stunning or myocardial hibernation are 
 
 The demonstration of viable myocardium in patients with CAD and LV dysfunction is commonly used to identify patients with enhanced survival with revascularization but with particularly poor prognosis with medical therapy. A meta-analysis of observational studies based
 
-![](_page_35_Figure_2.jpeg)
+![](ch03-08_page_35_Figure_2.jpeg)
 
 **FIGURE 18–39.** Meta-analysis of studies examining rates of death in patients undergoing revascularization (revasc) versus medical therapy (Rx). When viability was present by noninvasive testing, a significant reduction in cardiac death rates was present in patients undergoing revascularization compared with those undergoing medical therapy. No such difference was present in patients without viability. Furthermore, patients with viability undergoing revascularization had a significantly lower cardiac death rate compared to patients without viability. Reproduced with permission from Allman KC, Shaw LJ, Hachamovitch R, et al: Myocardial viability testing and impact of revascularization on prognosis in patients with coronary artery disease and left ventricular dysfunction: a meta-analysis, *J Am Coll Cardiol*. 2002 Apr 3;39:1151-1158.302
 
@@ -937,7 +937,7 @@ Numerous methodological criticisms, however, have called question to the validit
 
 Almost 8 million individuals are evaluated each year for acute chest pain in the emergency department (ED).307 Despite standardized protocols and high vigilance, between 2% and 6% of patients are erroneously discharged with missed MI,308 with higher mortality rates than patients who are hospitalized. For patients with normal or nondiagnostic initial ECGs and negative troponin levels on presentation to the ED, an important clinical problem is to distinguish those with ACS requiring hospital admission from those who may be safely discharged. Noninvasive imaging has become part of the standard of care in assessing patients with low to intermediate risk of an ACS in the ED.
 
-![](_page_36_Figure_2.jpeg)
+![](ch03-08_page_36_Figure_2.jpeg)
 
 **FIGURE 18–40.** Influence of adherence to strategies and expertise on impact of FDG-positron emission tomography (PET) on patient outcomes as shown in two publications from the PET and Recovery Following Revascularization (PARR-2) study. The *top two* graphs illustrate composite outcome of cardiac death, myocardial infarction, and recurrent hospital stay for cardiac cause within 1 year. In the overall trial (*left*), no survival benefit was shown. In the subset in which the planned therapeutic strategy of the trial based on PET viability results was followed (*right*), a significant survival benefit in the PET arm was seen. When patients who were tested in a center with greater experience with FDG-PET were assessed (*lower* graph), an even greater survival benefit in the PET arm was shown. Top two graphs: Reproduced with permission from Beanlands RS, Nichol G, Huszti E, et al: F-18-fluorodeoxyglucose positron emission tomography imaging-assisted management of patients with severe left ventricular dysfunction and suspected coronary disease: a randomized, controlled trial (PARR-2), *J Am Coll Cardiol*. 2007 Nov 13;50:2002-2012.303
 
@@ -953,13 +953,13 @@ Based on extensive literature documenting safety of maximal exercise testing in 
 
 Three large randomized clinical trials have evaluated the application of CCTA to patients with suspected ACS in the ED in comparison to a standard of care approach. In all of these studies, the patients evaluated were defined as being in a low to intermediate group regarding
 
-![](_page_37_Picture_2.jpeg)
+![](ch03-08_page_37_Picture_2.jpeg)
 
 **FIGURE 18–41.** Case example illustrating value of stress testing when rest myocardial perfusion imaging is normal in the acute chest pain patient. Shown are adenosine stress/rest myocardial perfusion single-photon emission computed tomography images in a 55-year-old man with multiple risk factors for coronary artery disease presenting to the emergency department with 2 days of chest discomfort at rest. Rest sestamibi (MIBI) demonstrated minimal (borderline) perfusion defect in the inferior wall. Stress imaging revealed evidence of severe and extensive ischemia in the inferior and inferolateral wall (41% of the left ventricle). Coronary angiography revealed an occluded right coronary artery that was successfully stented.
 
 the likelihood of having an ACS at the time of their ED visit. The first of these was the Coronary Computed Tomographic Angiography for Systematic Triage of Acute Chest Pain Patients to Treatment (CT-STAT) trial comparing CCTA to rest/stress SPECT-MPI.315 In 16 centers, 699 patients were randomly assigned to CCTA (n = 361) or MPI (n = 338) because the index noninvasive test. CCTA resulted in a 54% reduction in time to diagnosis (2.9 vs 6.3 hours) compared with MPI (*P* < .0001). Costs of care were 38% lower (*P* < .0001). The diagnostic strategies had no difference in major adverse cardiac events after normal index testing (0.8% in the CCTA arm vs 0.4% in the MPI arm, *P* = .29). The American College of Radiology
 
-![](_page_37_Figure_5.jpeg)
+![](ch03-08_page_37_Figure_5.jpeg)
 
 N: 2340 stress-only (mean age 53.6 years); 1805 rest/stress
 
@@ -1024,7 +1024,7 @@ For the detection and management of patients with CAD, exercise RNA played a pro
 
 While echocardiography has become the more common test for this application, RNA can be used in for evaluating the effects of doxorubicin and other anthracyclines on LV function in patients with suspected cardiotoxicity.322 In an early report, Schwartz and colleagues demonstrated that patients with normal LVEF that had not decreased by more than 15% did not develop cardiotoxicity with continued doxorubicin therapy; however, once EF decreased to less than 45% or by more than 15%, continued doxorubicin therapy was commonly associated with irreversible cardiac failure. In a subsequent report of a large high-risk population from the same group, guidelines were established for the use of continued doxorubicin therapy.323 In a group of 70 high-risk patients in whom these guidelines were strictly followed, 2.9% developed subsequent CHF that responded to therapy. Of 212 high-risk patients in whom the recommendations were not closely followed, 21%
 
-![](_page_39_Figure_2.jpeg)
+![](ch03-08_page_39_Figure_2.jpeg)
 
 **FIGURE 18–43. A.** Example of a patient without left ventricle (LV) dyssynchrony on gated myocardial perfusion single-photon emission computed tomography (SPECT). Synchronous contraction pattern is reflected by homogeneous phase angle distribution of polar map (*left*) and narrow highly peaked histogram (*right*). At the 6-month follow-up, no improvement in New York Heart Association (NYHA) functional class was observed, and LV ejection fraction remained unchanged (32% at baseline vs 33% at 6-month follow-up). **B.** Example of a patient with extensive LV dyssynchrony on gated myocardial perfusion SPECT. LV dyssynchrony is indicated by heterogeneous phase-angle distribution of polar map (*left*) and wide histogram (*right*). At the 6-month follow-up, NYHA functional class improved from 3 to 2, with increase in LV ejection fraction from 21% to 33%. CRT, cardiac resynchronization therapy. Reproduced with permission from Boogers MM, Van Kriekinge SD, Henneman MM, et al: Quantitative gated SPECT-derived phase analysis on gated myocardial perfusion SPECT detects left ventricular dyssynchrony and predicts response to cardiac resynchronization therapy, *J Nucl Med*. 2009 May;50:718-725.353
 
@@ -1036,7 +1036,7 @@ The physiologic assessments of nuclear cardiology and the anatomic assessments o
 
 The evaluation of symptomatic patients with suspected CAD is the most common application of nuclear MPI. However, in recent years, CCTA has become increasingly utilized as the initial diagnostic test in these patients. CCTA has emerged as the noninvasive method with the highest accuracy for prediction of anatomic stenosis by invasive coronary angiography, with sensitivity in the range of 95%, higher than that associated with all other noninvasive testing.324-326 Furthermore, when compared to nuclear MPI, CCTA is less likely to fail to detect CAD in a patient with high-risk
 
-![](_page_40_Figure_2.jpeg)
+![](ch03-08_page_40_Figure_2.jpeg)
 
 #### \* Consider FFRct
 
@@ -1058,11 +1058,11 @@ CCTA is often more definitive than CAC scanning in guiding management of patient
 
 With the advent of hybrid SPECT/CT and PET/CT systems, assessment of both coronary anatomic and physiologic can be made as a routine in a single study. As noted above, with such systems, nuclear MPI is routinely coupled with CAC scanning, allowing assessment of and management of coronary atherosclerosis that might not be detected by ischemia testing alone. Coupling of MPI and CCTA in the same setting with these systems has also been described.334 Several studies have evaluated hybrid PET-MPI/CCTA with respect to prediction of
 
-![](_page_40_Figure_13.jpeg)
+![](ch03-08_page_40_Figure_13.jpeg)
 
 **FIGURE 18–45.** Myocardial perfusion imaging (MPI) approach to diagnosis and management of coronary artery disease (CAD) in symptomatic patients with an intermediate-to-high pretest likelihood of CAD or known CAD. The *asterisk* indicates that there may be benefit from coronary artery calcium scanning to assess underlying subclinical atherosclerosis. CCTA, coronary computed tomography angiography; ICA, invasive coronary angiography; PET, positron emission tomography. Data from Schuijf JD, Bax JJ, Shaw LJ, et al: Meta-analysis of comparative diagnostic performance of magnetic resonance imaging and multislice computed tomography for noninvasive coronary angiography. *Am Heart J*. 2006 Feb;151:404-411.
 
-![](_page_41_Figure_2.jpeg)
+![](ch03-08_page_41_Figure_2.jpeg)
 
 **FIGURE 18–46.** Case example of combined single-photon emission computed tomography (SPECT)–myocardial perfusion imaging (MPI) and coronary artery calcium scanning (CAC). The patient was a 57-year-old man. The SPECT-MPI study was considered probably abnormal based on the perfusion study alone. The finding that the CAC score was 1463 (97th percentile adjusted for age, gender, and ethnicity) resulted in increased observer certainty in interpreting the study as abnormal. %, percentile.
 
@@ -1108,15 +1108,15 @@ Other applications of nuclear cardiology beyond MPI imaging are currently common
 
 *m*IBG is taken up by the hNET1 with even higher affinity than NE (Km = 0.31 μM and 1.8 μM, respectively). However, it binds poorly to the adrenergic receptors, exerts only minimal sympathomimetic effects,394,395 and is not catabolized by monoamine oxidase (MAO) or catechol-O-methyl transferase (COMT).396,397 Injected *m*IBG is
 
-![](_page_43_Figure_2.jpeg)
+![](ch03-08_page_43_Figure_2.jpeg)
 
 **FIGURE 18–47.** NE synthesis in presynaptic neuron, storage, release, reuptake via hNET1 and the pathophysiological basis of *m*IBG imaging. In the myocardial presynaptic nerve terminal, tyrosine is converted to dihydroxyphenylalanine (DOPA) and subsequently to dopamine (DA), from which NE is synthesized and stored in intraneuronal vesicles. NE released into the synaptic cleft activates postsynaptic adrenoceptors. NE in the synaptic cleft also activates presynaptic a-receptors (a2a–,a2c) which increase release of NE. The most important mechanism for the termination of NE action in the synaptic cleft is active reuptake into the presynaptic neuron through human NE transporter (hNET-1), while some NE diffuses into the plasma. Part of reabsorbed NE within the neuron is degraded by monoamine oxidase (MAO). NE that penetrates the postsynaptic myocyte may be partly inactivated by catechol O-methyltransferase (COMT) and returns to the circulation through normetanephrine (NMT). The myocyte membrane has a(1a, b, d)– and b(1-3)– adrenergic receptors. Adrenergic receptors interact with stimulatory G protein, leading to activation of effector pathways through conversion of ATP to cAMP. In heart failure incessant exposure of b1 -adrenoceptor to supraphysiologic NE amounts causes blunting of receptor responsiveness by decreasing the number of receptors on the myocyte membrane and uncoupling the receptor from its transducing G protein. In the nerve terminal, there is increased release of NE and decreased efficiency of NE reuptake due decrease in hNET1 sites, contributing to decrease in NE store size and increase in NE turnover. Metaiodobenzylguanidine (*m*IBG) is a guanethidine analog that has storage, transport, and uptake characteristics similar to those of NE in sympathetic neurons; radiolabeled mIBG tracks the NE metabolism in failing hearts. Consequently, with the NE analogue- *m*IBG in heart failure patients, there is decreased uptake in and washout from the nerve terminal, which correlate with the degree of sympathetic dysfunction, clinical severity of disease, and relatively poor prognosis. Modified with permission from Narula J, Sarkar K. A conceptual paradox of MIBG uptake in heart failure: Retention with incontinence. *J Nucl Cardiol*. 2003 Nov-Dec;10:700-704.
 
 taken up from the synapse into the neuron by the hNET1 pathway and stored in NE vesicles. With each cycle of neuronal stimulation, a small amount of *m*IBG reenters the synapse with the release of NE and diffuses back into the vascular compartment to be excreted unchanged by the kidneys. Normally, approximately 1% of the intravenously injected dose of *m*IBG localizes to the myocardium.398 In heart failure, with increased sympathetic outflow,399 and quantitative reduction in NE uptake sites,400 there is more rapid clearance of neuronal *m*IBG. This is represented by higher washout rate in terms of the percentage reduction in *m*IBG activity between early (15-minute) and late (4-hour) images. Accordingly, late images show lower myocardial retention of *m*IBG and are assessed as a lower myocardiumto-background (usually mediastinal) uptake ratio. Lower *m*IBG retention at 4 hours, as evidenced by a heart-to-mediastinum (H/M) ratio of less than 1.6) and high levels of myocardial washout (> 40%- 50% over the 4 hours) are associated with increased occurrence of adverse events such as heart failure progression and cardiac death (Fig. 18–48).375
 
-![](_page_43_Figure_5.jpeg)
+![](ch03-08_page_43_Figure_5.jpeg)
 
-![](_page_43_Figure_6.jpeg)
+![](ch03-08_page_43_Figure_6.jpeg)
 
 **FIGURE 18–48.** Being a norepinephrine (NE) analog, *m*IBG replicates the same behavior as that of NE. **A.** From synapse mIBG is taken up by the presynaptic neurons; because the ventricular myocardium is rich in sympathetic innervation, it shows prominent *m*IBG uptake. With each cycle of neuronal stimulation and NE release, a small amount of *m*IBG reenters the cleft and leaks into the vascular compartment to be transported to the kidneys unchanged for excretion. In heart failure (HF) patients, increased sympathetic outflow and decreased hNET1 efficiency results in faster clearance of neuronal *m*IBG. The images are quantified as heart-to-mediastinum uptake ratio (H/M) and shows faster washout of *m*IBG activity between 15 minutes and 4 hours, with consequently lower uptake ratio in the late images. Normal washout is 10% to 20% and the H/M ratio greater than 1.6; faster washout and low H/M are associated with increased occurrence of adverse events such as HF progression, ventricular arrhythmogenicity, and cardiac death. Parts **B–D** demonstrate progressively worsening HF with lower *m*IBG uptake and higher washout rates; all patients were symptomatic with NYHA class II to IIB and demonstrated progressively worsening H/M ratio. Parts **E** and **F** demonstrate single-photon emission computed tomography images; *m*IBG and 99mTc-tetrofosmin in a patient without heart disease (**E**) and an ischemic HF patient (**F**). Each display alternates between rows of *m*IBG and myocardial perfusion image slices. There is uniform uptake of both tracers in all myocardial walls of the normal patient. The HF patient has a perfusion defect in the basal inferolateral wall, consistent with a prior myocardial infarction (MI). The associated innervation defect is much larger, involving most of the surrounding inferior and lateral walls and apex (eg, arrow). This pattern of innervation/perfusion mismatch (ie, abnormal innervation in a region with preserved perfusion) is common in patients with MI and has been associated with increased susceptibility to ventricular arrhythmic events. Image courtesy of GE Healthcare.
 
@@ -1137,7 +1137,7 @@ Radionuclide imaging has an inherent advantage over other cardiac imaging techni
 
 Although radionuclide imaging of fatty acids has been studied for decades, it is not yet in common use, with the exception of one SPECT radiopharmaceutical β-methyliodophenyl pentadecanoic acid (BMIPP), which is in clinical use in Japan. BMIPP is a modified branched-chain fatty acid first introduced by Knapp and coworkers.404 This tracer appears to have *ischemic memory* properties offering unique capability for the assessment of previously severely ischemic myocardium. Discordant myocardial fatty acid uptake/perfusion findings, with less BMIPP uptake than rest 201Tl, have been described in patients who have had a recent episode of severe ischemia, with BMIPP representing the previously ischemic zone and the 201Tl the infarcted zone.405 This finding likely represents a persistent metabolic abnormality out of proportion to the perfusion abnormality at the time of injection. Dilsizian and colleagues recently reported a phase II study in which 32 patients with ischemia by exercise 201Tl SPECT were studied by BMIPP SPECT injected with BMIPP at a mean of 6.2 hours after exercise in 21 patients and a mean of 24.9 hours after exercise in 11 patients (Fig. 18–49). More than 90% agreement was observed between the studies for presence of abnormality. In a clinical study
 
-![](_page_44_Figure_10.jpeg)
+![](ch03-08_page_44_Figure_10.jpeg)
 
 **FIGURE 18–49.** Thallium-201 stress and reinjection (Reinj) images (*left*) after treadmill exercise in the short-axis (SA) and vertical long-axis (VLA) single-photon emission computed tomography. Thallium images demonstrate a severe reversible inferior defect (*arrows*) consistent with exercise stress–induced ischemia. A similar defect is seen (*right*) on the early β-methyliodophenyl pentadecanoic acid (BMIPP) images in the same tomographic cuts (*arrows*), with BMIPP injected 22 hours after the stress-induced ischemia. The defect on the delayed BMIPP image is less prominent than on the early image. These image data suggest that BMIPP detects prolonged postischemic suppression of fatty acid metabolism for up to 22 hours after stress-induced ischemia. Reproduced with permission from Dilsizian V, Bateman TM, Bergmann SR, et al: Metabolic imaging with beta-methyl-p-[I]-iodophenyl-pentadecanoic acid identifies ischemic memory after demand ischemia. *Circulation*. 2005 Oct 4;112:2169-2174.406
 

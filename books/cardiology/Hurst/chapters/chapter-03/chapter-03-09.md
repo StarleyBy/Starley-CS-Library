@@ -110,7 +110,7 @@ Three measures of coronary blood flow, or myocardial perfusion, quantify its pro
 
 Accordingly, at the outset, we account for and incorporate these three measures into a coronary flow capacity map color-coded for severity from healthy young volunteers to patients having angina and significant electrocardiogram (ECG) changes during dipyridamole stress PET imaging.55-57 After we demonstrate its clinical utility, later sections address the technical details of quantifying myocardial perfusion. Figure 19–1 orients topographic PET images derived from tomographic views as previously described.16,31,37,40,48,55-57
 
-![](_page_2_Figure_8.jpeg)
+![](ch03-09_page_2_Figure_8.jpeg)
 
 **FIGURE 19–1.** Orientation of positron emission tomography (PET) images. The perfusion images are viewed as if looking through a patient's body at the left ventricle (LV) first through the left side at the left lateral wall, then through the back, then the right side through the right heart at the septum of the LV and finally through the chest at the anterior wall of the LV. These topographic views are as if the heart were held in one's hand and rotated around in the lateral, inferior, right, and anterior views. They visually integrate the acquired tomographic slices to topographic views that avoid the spatial distortion of bull's eye or pie views of the heart. These topographic displays parallel views of the heart as seen on a cine angiogram or a surgeon's open chest view.
 
@@ -120,7 +120,7 @@ The coronary flow capacity map plot is color-coded red for stress flow and CFR i
 
 Each color-coded pixel is then mapped to its original position and displayed as the coronary flow capacity map in four projections (lateral, inferior, septal, and anterior views) showing coronary flow capacity
 
-![](_page_3_Figure_2.jpeg)
+![](ch03-09_page_3_Figure_2.jpeg)
 
 FIGURE 19—2. Integrating stress perfusion in cc/min/g and coronary flow reserve (CFR). (A) High rest and stress flows in cc/min/g (myocardial perfusion) with low CFR due to high rest flow. (B) Low rest and stress flows with high CFR (C) Integration of all flow data by plotting stress flow on horizontal axis and CFR on vertical axis for each pixel of stress flow and CFR images for color coding for ranges of values listed below. (D) Coronary flow capacity map accounting for spatial distribution of integrated stress flow and CFR with percent of the left ventricle within color-coded ranges. Red, healthy young volunteers with no risk factors; blue, patients with angina, electrocardiogram (ECG) ST depression > 1 mm Hg, and/or a regional stress defect during dipyridamole stress; dark blue, myocardial steal wherein stress flow falls below rest flow associated with collaterals beyond arterial occlusion or subtotal stenosis; green, either angina or ECG changes with stress defect but not both; orange, patients with risk factors but no known clinical coronary artery disease (CAD); yellow, patients with documented CAD by angiogram or a coronary event without angina or ECG changes during dipyridamole stress. The color bar scales show ranges of flow in cc/min/g and CFR. (A and B) Each pixel of the stress flow images and the CFR images are plotted on the color-scale graph, assigned a color corresponding to their quantitative values, and back-projected into their position in the topographic map. The color bar on the plot shows the thresholds of stress flow and CFR at each color transition (not combined stress flow-CFR values for pixels in the images).
 
@@ -128,11 +128,11 @@ comparable to that in young healthy volunteers within the distribution of the co
 
 Complete relevant perfusion information in a single clinical case involve five sets of different data in four views involving 6720 pixels spatially distributed over a total of 20 different image views. Each of these views has 5 continuous variables (rest-stress uptake, rest-stress flow and CFR) color coded into 7 ranges from healthy young volunteers to patients with overt ischemia during dipyridamole stress as in Figs. and. The rest and stress relative images (A) are abnormal with subtle differences between the distal anterior region (green) and the distal septum (yellow) that are difficult to interpret, inconsistent with a single left anterior descending coronary artery (LAD) territory and providing little insight into the detailed regional severity and size of abnormal stress perfusion.<sup>57</sup> Rest perfusion and stress perfusion images (B) are proportionately larger and more severe than the relative perfusion defects but are complicated by spatial heterogeneity of both rest and stress perfusion. The CFR display (B) reflects the rest-stress perfusion heterogeneity into better defined normal or abnormal regions but still fails to define the subtle differences between the distal septum and the distal anterior regions on the relative images. Visually interpreting or simply quantifying the
 
-![](_page_3_Figure_6.jpeg)
+![](ch03-09_page_3_Figure_6.jpeg)
 
 **FIGURE 19–3.** Ranges of stress flow and coronary flow reserve (CFR) for color-coding of the coronary flow capacity map. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images). Color codes are the same as in Figure 19–2. Adapted with permission from Johnson NP, Gould KL: Integrating noninvasive absolute flow, coronary flow reserve, and ischemic thresholds into a comprehensive map of physiological severity. *JACC Cardiovasc Imaging*. 2012 Apr;5:430–440.<sup>57</sup>
 
-![](_page_4_Figure_2.jpeg)
+![](ch03-09_page_4_Figure_2.jpeg)
 
 **FIGURE 19–4.** Integration of quantitative perfusion images. (**A**) Rest-stress relative images. (**B**) rest-stress perfusion in cc/min/g and CFR. (**C**) Pixel plot of stress perfusion and CFR for color coding each pixel (**D**) Coronary flow capacity map made by projecting each color coded pixel back to its original position in the topographic image. The percent of LV in each of the color coded groups are printed out on the pixel plot. The angiogram inset has arrows relating the angiogram to corresponding locations on the coronary flow capacity map. Color codes are the same as in Figs. and. Reproduced with permission from Johnson NP, Gould KL: Integrating noninvasive absolute flow, coronary flow reserve, and ischemic thresholds into a comprehensive map of physiological severity. *JACC Cardiovasc Imaging*. 2012 Apr;5:430-440.57
 
@@ -148,7 +148,7 @@ The following fourteen cases visually demonstrate the principles and personalize
 
 A 63-year-old man with 6 months of mild stable angina (Fig. 19–5)47 illustrates the complex data inherent in all quantitative perfusion imaging that is integrated into a "simple," easily understood image for clinical decisions by validated directive software based on a large patient database detailed in a later section. Figure 19–5 displays relative myocardial perfusion images of rubidium (Rb)-82 at rest (A) and during dipyridamole stress (B). With the arterial input function as detailed later, stress perfusion in cc/min/g (C) and CFR (D) for every pixel in every topographic image in each of four topographic views are plotted (E), color-coded and back-projected to the coronary flow capacity map (F).
 
-![](_page_5_Figure_2.jpeg)
+![](ch03-09_page_5_Figure_2.jpeg)
 
 FIGURE 19—5. Case 1. Coronary flow capacity in multistenosis complex coronary artery disease. (A) Rest relative uptake. (B) Stress relative uptake. (C) Stress perfusion in cc/min/g. (D) Coronary flow reserve (CFR. (E) Plot of stress perfusion and CFR. (F) Coronary flow capacity map. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -164,7 +164,7 @@ uptake images show no stress defect but only a small inferoapical motion artifac
 
 A 62-year-old asymptomatic man with risk factors but no known CAD recently had a normal ECG exercise stress test, and he underwent PET
 
-![](_page_6_Figure_2.jpeg)
+![](ch03-09_page_6_Figure_2.jpeg)
 
 **FIGURE 19–6.** Case 2. Saved from unnecessary coronary bypass surgery. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -178,7 +178,7 @@ Absolute myocardial perfusion capacity was severely reduced, with myocardial ste
 
 A 58-year-old man with atypical chest discomfort, separate episodes of dyspnea—at night or inconsistently while walking—had PET as part of a research protocol. His baseline coronary flow capacity map in Fig. 19–8A shows a severe stress defect typical of a severe stenosis of the LAD proximal to the first septal perforator and wrapping around the apex. An angiogram confirmed these findings, and PCI was done with a proximal stent. The post-PCI PET showed a residual small, severe, basal septal, stress defect comprising 4% of the LV in the distribution of the first septal perforator caged by the LAD stent. In our experience, most coronary branches caged by stents have reduced coronary flow capacity even when open on post-PCI angiogram.
 
-![](_page_7_Figure_2.jpeg)
+![](ch03-09_page_7_Figure_2.jpeg)
 
 FIGURE 19—7. Case 3. Missed severe coronary artery disease with normal treadmill test. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -193,7 +193,7 @@ A 52-year-old physically active asymptomatic man had PET for a second opinion fo
 - A severe stress defect in the distribution of left circumflex proximal to its the first obtuse marginal (OM) branch (blue on the flow capacity map)
 - 2. A severe stress defect in the distribution of the first diagonal branch off the LAD (blue on the flow capacity map)
 
-![](_page_8_Figure_2.jpeg)
+![](ch03-09_page_8_Figure_2.jpeg)
 
 **FIGURE 19–8.** Case 4. Complex post—percutaneous coronary intervention (PCI) perfusion—septal perforator caged by left anterior descending artery stent. (A) Before PCI. (B) After PCI. The color bars on the right of the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -211,7 +211,7 @@ A 49-year-old man had PET as part of a research protocol. Nine years previously,
 
 A 69-year-old man with poorly controlled risk factors, right bundle branch block, and past angiogram showing an occluded RCA had mild exertional angina for 3 years. Although his angina was variable, he thought that perhaps it had slightly worsened over the prior 3 weeks; however, he was reluctant to have an angiogram. Dipyridamole stress led to severe angina, 3-mm ST depressions, and blood pressure falling
 
-![](_page_9_Figure_2.jpeg)
+![](ch03-09_page_9_Figure_2.jpeg)
 
 FIGURE. Case 5. Normal relative myocardial uptake images with severe diffuse coronary artery disease. (A) Stress relative uptake. (B) Stress perfusion in cc/min/g. (C) Coronary flow reserve (CFR).
 
@@ -227,7 +227,7 @@ perfusion improves with regular exercise, as well as low-fat and low-carbohydrat
 
 A 69-year-old asymptomatic man with total occlusion of the RCA by angiogram and poor risk-factor control had a baseline PET as part of a research protocol (Fig. 19–14A). The baseline coronary capacity map showed a severe perfusion defect comprising 13% of the LV (blue) with the central 7% revealing myocardial steal (dark blue) associated with collateral perfusion. Although he was still asymptomatic 6 years later, protocol follow-up PET in Fig. 19–14B showed a larger, severe defect comprising 23% of the LV (blue) with an additional 9% border zones (green) and 13% central steal (dark blue). In the rest of the myocardium outside the severe stress defect, the best coronary flow capacity (red) had declined from 56% to 16% of the LV, with a corresponding increase in the areas of mildly reduced flow capacity (yellow) from 10% to 26% of the LV. Therefore, this enlarging stress defect in the RCA distribution was likely the result of progressive diffuse disease in the
 
-![](_page_10_Figure_2.jpeg)
+![](ch03-09_page_10_Figure_2.jpeg)
 
 FIGURE 19—10. Case 6. Complex post—percutaneous coronary intervention angiogram with question of left main. (A) Rest relative uptake. (B) Stress relative uptake. (C) Coronary flow capacity map. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -239,7 +239,7 @@ A 66-year-old man had continued intermittent atypical chest pain before and afte
 
 and stress images were normal. Stress perfusion and CFR showed extraordinarily high coronary flow capacity. However, at these very high flows, at the end of image acquisition, the patient developed extreme chest pain (the worst he had ever had), requiring intravenous aminophylline and metoprolol as well as two sublingual nitroglycerin for relief. There were no ECG changes. EF on ECG-gated PET perfusion images increased from 75% to 78% with normal wall motion. The high flows argued against either coronary spasm or microvascular disease. Regadenoson is considered to be a specific adenosine A2 agonist mediating coronary arteriolar vasodilation with weak affinity for the adenosine A1 receptor mediating cardiac pain. In this case, regadenoson triggered severe cardiac pain without ischemia, suggesting aberrant A1 receptor activation by possibly binding regadenoson, or a high density of partially activated A1 receptors, thereby causing severe angina despite high coronary flow mediated by A2 receptor agonism.
 
-![](_page_11_Figure_2.jpeg)
+![](ch03-09_page_11_Figure_2.jpeg)
 
 FIGURE 19—11. Case 7. Left main stenosis with patent right coronary artery. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -255,7 +255,7 @@ A 78-year-old woman presented with angina manifest as jaw and arm pain for 11 ye
 
 A 43-year-old asymptomatic woman requested a second opinion and PET scan after a cardiologist recommended coronary angiography because of a positive ECG stress test performed at routine physical examination followed by a positive SPECT myocardial perfusion imaging reported to show mild anterior ischemia. Her PET images
 
-![](_page_12_Figure_2.jpeg)
+![](ch03-09_page_12_Figure_2.jpeg)
 
 **FIGURE 19–12.** Case 8. Left main stenosis with occluded right coronary artery. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -271,7 +271,7 @@ patients with sufficiently large, physiologically severe CAD to optimally benefi
 
 Resting and stress perfusion are variable in different regions of the heart because of differences in regional endothelial function, wall stress and thickness, regional workload, spatially variable systolic compression and relaxation, differing regional metabolic demands, and multiple control mechanisms as reviewed in the chapter on coronary blood flow (Chap. 34). This regional perfusion variability, or perfusion heterogeneity, is profoundly influenced by risk factors, early subclinical and clinically manifest coronary atherosclerosis, medications, emotions and emotional stress, physical activity or training, and food (even a single recent meal). Perfusion heterogeneity is commonly more
 
-![](_page_13_Figure_2.jpeg)
+![](ch03-09_page_13_Figure_2.jpeg)
 
 FIGURE 19—13. Case 9. Abnormal relative stress image but adequate absolute perfusion. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -285,7 +285,7 @@ coronary atherosclerosis rather than being a limitation of quantitative perfusio
 
 Quantitative perfusion imaging requires acquisition of the first-pass blood activity of the radionuclide perfusion tracer. Treadmill exercise precludes imaging this first-pass arterial input because of patient motion and the vertical position of PET scanners with horizontal gantries for supine patient positioning. Although supine exercise is reported for quantitative PET imaging, <sup>26,38,42</sup> pharmacologic stress is the standard using either arteriolar vasodilators or dobutamine, as listed in Table 19–2, with their differing biological effects. Dipyridamole and adenosine are the oldest, best established for achieving near-maximum hyperemia and a CFR of 4.0 or higher in healthy volunteers required
 
-![](_page_14_Figure_2.jpeg)
+![](ch03-09_page_14_Figure_2.jpeg)
 
 **FIGURE 19–14.** Case 10. Progression of diffuse coronary artery disease compromising collateral supply. (**A**) Baseline coronary flow capacity map. (**B**) Follow-up 5 years later. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -297,7 +297,7 @@ The recent adenosine A2 agonist, regadenoson, is marketed for vasodilator stress
 
 Submaximal stress has the opposite misleading effect on absolute perfusion by eliciting lower stress flow in cc/min/g compared to maximum stress, thereby erroneously appearing to reflect diffuse disease. In Case Z of Fig. 19–22, relative stress images (A, red) are both normal. However, stress perfusion in cc/min/g (B, blue) is moderately reduced to approximately 1.1 cc/min/g (by the right stress flow color bar scale) also indicated by the coronary flow capacity map (C, yellow by the color bar scale of combined stress flow of 1.1 cc/min/g and CFR of approximately 2.0). With dipyridamole, stress perfusion is 2.0 cc/min/g and the flow capacity is high (C, red). In a systematic study on the time course of regadenoson stress perfusion by PET using Rb-82, maximum perfusion occurred 55 seconds after the 10-second regadenoson infusion, achieving 90% of dipyridamole stress perfusion.64 Therefore, injecting radionuclide at 55 seconds after the 10-second regadenoson infusion produces greater hyperemia and was associated with better quantification of size and severity of stress-induced perfusion defects
 
-![](_page_15_Figure_2.jpeg)
+![](ch03-09_page_15_Figure_2.jpeg)
 
 **FIGURE 19–15.** Case 11. Severe angina at high coronary flow—abnormal adenosine A1 receptor function. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -311,7 +311,7 @@ The model for calculating flow from the measured arterial input function and myo
 
 The extraction correction for each radionuclide can be determined in two ways. The extraction-perfusion relation can be experimentally determined in animals and inserted into the equation with the remaining two unknowns, arterial input and myocardial uptake activities, measured by the scanner for each pixel or specified region with perfusion in cc/min/g displayed regionally. The other method uses multicompartmental curve fitting of the arterial input and myocardial activities over time to account for extraction as part of the flow model
 
-![](_page_16_Figure_2.jpeg)
+![](ch03-09_page_16_Figure_2.jpeg)
 
 **FIGURE 19–16.** Case 12. Abnormal relative stress images that misses diffuse coronary artery disease (CAD). There is severely reduced stress flow with myocardial steal associated with an collateralized occluded left anterior descending artery distal to the first septal perforator (blue) and diffuse CAD of the collateral supply arteries (yellow) not seen on relative images. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -323,7 +323,7 @@ PET radionuclides for myocardial perfusion imaging (see Table 19–3) have diffe
 
 *Nitrogen-13 ammonia* has a smaller positron range, associated sharper images, and a longer half-life that is less demanding of scanner performance suitable for three-dimensional (3D) cardiac imaging; the first-pass bolus for arterial input has much lower activity than Rb-82. On the other hand, it requires an on-site or nearby cyclotron, close coordination of patient imaging with the cyclotron run, and slower
 
-![](_page_17_Figure_2.jpeg)
+![](ch03-09_page_17_Figure_2.jpeg)
 
 **FIGURE 19–17.** Case 13. Severe microvascular dysfunction without obstructive coronary artery disease. (**A**) Stress relative uptake. (**B**) Stress perfusion in cc/min/g. (**C**) Coronary flow reserve (CFR).
 
@@ -335,7 +335,7 @@ patient throughput because of the longer half-life of N-13 (10 minutes) requirin
 
 *F-18 flurpiridaz* is a new perfusion tracer not yet approved by the US Food and Drug Administration.67 F-18 has a longer half life (110 minutes) than N-13 or Rb-82. Its first-pass extraction is reportedly 90%, and it requires its own specific flow model. However, the frequent claim that any one of the radionuclides is better than another because of higher extraction, as for O-15, fails to acknowledge that all of these perfusion
 
-![](_page_18_Figure_2.jpeg)
+![](ch03-09_page_18_Figure_2.jpeg)
 
 **FIGURE 19–18.** Case 14. Saved from unnecessary coronary angiogram. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -347,7 +347,7 @@ There are two basic flow models for calculating myocardial perfusion in cc/min/g
 
 The primary data needed for perfusion in cc/min/g are the area under the time-integrated curve of the arterial input activity and the "instantaneous" myocardial uptake at completion of the arterial input function. For Rb-82, the myocardial uptake is flat after the first 2 minutes, so that a single high-quality 5-minute image is obtained representing the "instantaneous" myocardial uptake. As indicated above and in Fig. 19–24, the multicompartmental model acquires serial short images to construct arterial input and myocardial time activity curves that account for flow-dependent extraction from the time activity curves best fit to the compartmental model equation for calculating
 
-![](_page_19_Figure_2.jpeg)
+![](ch03-09_page_19_Figure_2.jpeg)
 
 **FIGURE 19–19.** Clinical patient groups and the color-coded ranges for the coronary flow capacity map as in Figure 19–2. CAB, coronary artery bypass surgery; CAD, coronary artery disease; CFR, coronary flow reserve; PCI, percutaneous coronary intervention. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -390,7 +390,7 @@ An extensive literature addresses the several variations in radionuclides, flow 
 
 PET, positron emission tomography; SD, standard deviation.
 
-![](_page_20_Figure_2.jpeg)
+![](ch03-09_page_20_Figure_2.jpeg)
 
 **FIGURE 19–20.** Regional heterogeneity of stress perfusion and coronary flow reserve (CFR) integrated by the coronary flow capacity map. (**A**) Rest perfusion in cc/min/g. (**B**) Stress perfusion. (**C**) Coronary flow reserve (CFR). (**D**) Coronary flow capacity map. Stress flow is low in about 10% (well over 5%) of the left ventricle (LV) and CFR is low in 18% of LV. However, their integration on the coronary flow capacity map accounting for rest flow heterogeneity shows only mild diffuse reduction, indicating mild diffuse nonobstructive coronary artery disease. The color bar below the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
@@ -409,15 +409,15 @@ The variability of stress perfusion of flow models parallels their complexity be
 | Coronary blood flow                       | +                         | ++         | ++       |  |  |  |  |
 | Neural sympathetic vasoconstriction       | ±                         | ++         | +++      |  |  |  |  |
 
-![](_page_21_Figure_2.jpeg)
+![](ch03-09_page_21_Figure_2.jpeg)
 
 **FIGURE 19–21.** Effect of caffeine on vasodilator stress perfusion imaging. Inadequate stress may fail to detect or quantify even severe coronary stenosis. The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
-![](_page_21_Figure_4.jpeg)
+![](ch03-09_page_21_Figure_4.jpeg)
 
 **FIGURE 19–22.** Regadenoson stress compared to dipyridamole stress perfusion imaging. Case Z (**A**) stress relative uptake. (**B**) Stress perfusion in cc/min/g. (**C**) Coronary flow capacity map. The suboptimal stress of the standard regadenoson protocol may fail to quantify physiologic severity of coronary stenosis as in Case Y or may falsely suggest diffusely reduced coronary flow capacity (yellow) in Case Z resulting from poor stimulus for increasing coronary blood flow compared to dipyridamole (red and orange). The color bar on the right of the map shows the thresholds of stress flow and CFR at each color transition (not combined stress flow—CFR values for pixels in the images).
 
-![](_page_22_Figure_2.jpeg)
+![](ch03-09_page_22_Figure_2.jpeg)
 
 **FIGURE 19–23.** Principle of measuring myocardial perfusion in cc/min/g. [A], time-integrated arterial blood activity of the tracer; cts, radioactivity of the tracer; E, extraction fraction by the myocardium of the radionuclide tracer from blood; F, flow; g, gram of myocardium; min, minute; tissue activity, activity of myocardium.
 
@@ -441,11 +441,11 @@ An extensive literature addresses all the components of quantitative perfusion i
 
 For multicompartmental flow models, the short, serial images of the first-pass arterial activity are so noisy that an ROI cannot be reliably located directly on the aorta, left atrium (LA), or LV cavity for the arterial input function. For the same reason, the arterial ROI cannot be placed to avoid spillover activity from the immediately adjacent superior vena cava, right atrium, and pulmonary artery or its major branches having the highest activity after intravenous injection. Multicompartmental models based on these noisy, short, serial images therefore require locating the arterial ROI on late myocardial images just superior to the estimated atrioventricular ring at the base of the LV and back projecting it onto the early-phase noisy serial images. The position of this back-projected ROI is assumed to be the LA from which the arterial input curve is obtained.
 
-![](_page_22_Figure_11.jpeg)
+![](ch03-09_page_22_Figure_11.jpeg)
 
 **FIGURE 19–24.** Schematic of arterial input function, myocardial uptake, and flow model for determining myocardial perfusion in cc/min/g using the "simple" retention model and serial imaging for the multicompartmental model. (A), time-integrated blood arterial radionuclide activity; cc, cubic centimeter; cts, radionuclide activity; F, flow; g, gram of myocardium; min, minute; (1–e<sup>-(0.45+0.1667)</sup>) = flow-dependent extraction fraction correction of radionuclide uptake by myocardium. The time-integrated arterial input curve can be obtained by a single early 2-minute arterial phase, high-quality image acquired as the Rb-82 is infused intravenously. The "instantaneous" myocardial activity at the end of this arterial phase image is closely approximated by the following 5-minute myocardial phase image because Rb-82 is trapped in the myocardial potassium space and remains constant during this interval. In contrast, multicompartmental models acquire short (15 s) serial images during the early arterial phase that have low activity and statistical noise that precludes directly locating the optimal region of interest for the optimal, reproducible arterial input function needed for accurate reproducible quantitative perfusion measurements.
 
-![](_page_23_Figure_2.jpeg)
+![](ch03-09_page_23_Figure_2.jpeg)
 
 **FIGURE 19–25.** Components of myocardial perfusion in cc/min/g using Rb-82 from the arterial input and myocardial uptake images. Ao, aorta; LA, left atrium; LAD, left anterior descending coronary artery; LCX, left circumflex coronary artery; PA, pulmonary artery; RA, right atrium; RCA, right coronary artery; SVC, superior vena cava. The color bar shows relative activity as a percent of maximal at 100%. Reproduced with permission from Sdringola S, Johnson NP, Kirkeeide RL, et al: Impact of unexpected factors on quantitative myocardial perfusion and coronary flow reserve in young, asymptomatic volunteers. *JACC Cardiovasc Imaging*. 2011 Apr;4:402-412.55
 
@@ -465,23 +465,23 @@ Dedicated mathematical models focusing on the details and mathematical precision
 
 The standards to which we adhere are based on well-established physiologic facts of maximal and minimal myocardial perfusion proven in experimental models and in humans long before cardiac PET or magnetic resonance imaging (MRI) even existed. In experimental models and healthy young humans, CFR is 4.0 or higher was established in humans as early as 197378 followed by confirmatory invasive measurements79-83 and reconfirmed by later PET literature recently summarized
 
-![](_page_24_Figure_2.jpeg)
+![](ch03-09_page_24_Figure_2.jpeg)
 
 **FIGURE 19–26.** Myocardial perfusion by the "simple" or "retention" model for Rb-82 compared to (**A**) multiple serial images for compartmental analysis by curve fitting to solve the flow equations and (**B**) microspheres in experimental animals. (**C**) Bland Altman plots for comparison of the retention model to the multicompartmental model for Rb-82 and (**D**) for N-13 ammonia. **A** and **B**, adapted with permission from Yoshida K, Mullani N, Gould KL: Coronary flow and flow reserve by PET simplified for clinical applications using rubidium-82 or nitrogen-13-ammonia. *J Nucl Med*. 1996 Oct;37:1701-1712.68**C** and **D**, reproduced with permission from Renaud JM, DaSilva JN, Beanlands RS, et al: Characterizing the normal range of myocardial blood flow with ⁸²rubidium and ¹³N-ammonia PET imaging. *J Nucl Cardiol*. 2013 Aug;20:578-591.32
 
-![](_page_24_Figure_4.jpeg)
+![](ch03-09_page_24_Figure_4.jpeg)
 
 **FIGURE 19–27.** Percent of anatomic sites with optimal arterial input function (highest arterial input without spillover). For approximately half of patients, the left atrium has the optimal highest arterial activity without spillover from adjacent structures containing venous blood such as the subclavian vein, right atrium, or superior vena cava. However, in many other patients the aorta is the optimal arterial region of interest (ROI) site. Every patient has to have an individually optimal arterial ROI site for accurate repeatable quantitative perfusion measurements as described in the text. Ao, aorta; LV, left ventricle. Data from Vasquez AF, Johnson NP, Gould KL: Variation in quantitative myocardial perfusion due to arterial input selection. *JACC Cardiovasc Imaging*. 2013 May;6:559-568.72
 
-![](_page_24_Figure_6.jpeg)
+![](ch03-09_page_24_Figure_6.jpeg)
 
 **FIGURE 19–28.** Mean percent error in perfusion at fixed site versus optimal region of interest (ROI) site for each individual first-pass 2-minute image. Effect of incorrect ROI selection on arterial input function and quantitative perfusion measurements expressed as the mean percent error in perfusion at fixed site versus optimal ROI site for each individual. Ao, aorta; LV, left ventricle. Data from Vasquez AF, Johnson NP, Gould KL: Variation in quantitative myocardial perfusion due to arterial input selection. *JACC Cardiovasc Imaging*. 2013 May;6:559-568.72
 
-![](_page_25_Figure_2.jpeg)
+![](ch03-09_page_25_Figure_2.jpeg)
 
 **FIGURE 19–29.** The region of interest (ROI) back-projected from late myocardial images causes an incorrect arterial input function that falsely lowers arterial input with falsely high flow and therefore falsely mild stenosis on the coronary flow capacity map (**A**) compared to the correct arterial input, correct severely low coronary flow capacity indicating severe stenosis (**B**) confirmed by coronary angiogram. Reproduced with permission from Vasquez AF, Johnson NP, Gould KL: Variation in quantitative myocardial perfusion due to arterial input selection. *JACC Cardiovasc Imaging*. 2013 May;6:559-568.72
 
-![](_page_25_Figure_4.jpeg)
+![](ch03-09_page_25_Figure_4.jpeg)
 
 **FIGURE 19–30.** Anatomic orientation of tomographic planes for optimal region of interest (ROI) selection to obtain optimal arterial input function: looking at the right side of the patient lying on back. This schematic shows closely adjacent arterial and structures containing high activity venous blood after intravenous radionuclide injection (pulmonary artery [PA] and branches, subclavian vein, superior vena cava, right atrium [RA]). Consequently, high-quality, early, first-pass, 2-minute arterial phase images are required to identify the optimal anatomic site for arterial ROI that is highest of possible sites but without spillover from venous blood as bracketed by PA and right ventricle activity. Ao, aorta; IVC, inferior vena cava; LA, left atrium; LV, left ventricle; PDA, posterior descending coronary artery, RPA, right pulmonary artery. Slices A, B and C correspond to the computed tomography and early phase arterial positron emission tomography images of Fig. 19–31.
 
@@ -489,7 +489,7 @@ for individuals previously reported.31 For healthy young volunteers without risk
 
 Accordingly, for the many variations in PET protocols for quantifying myocardial perfusion to define physiologic severity, the simple standard performance test combining measurement accuracy and clinical
 
-![](_page_25_Figure_8.jpeg)
+![](ch03-09_page_25_Figure_8.jpeg)
 
 **FIGURE 19–31.** Computed tomography scan of anatomy and positron emission tomography images of the arterial input function for the simple model. Ao, aorta. LA, left atrium; PA, pulmonary artery; RPA, right pulmonary artery branch; SVC, superior vena cava. Region of interest selection for arterial activity in the tomographic views correspond to the planes A, B, C, and D of Fig. 19–30. The LA in slice C has the highest activity without contamination from the right PA seen in slice A (top right) and higher than the top of LA in slice C (lower right).
 
@@ -503,17 +503,17 @@ Most cardiac PET literature is based on using 2D scanners, initially with rotati
 
 Therefore, for 3D scanners, the dose of Rb-82 has to be reduced to 20 to 25 mCi infused slowly over 30 to 60 seconds. Higher doses cause lower noise equivalent counts rate by 50% (Fig. 19–33).74,84 Although studies from a site experienced in 3D PET for cardiac PET with Rb-82 report adequate quality images, primarily global perfusion measurements are reported or used clinically as guides to the angiogram on which clinical decisions rely without demonstrating regional perfusion for clinical guidance shown in the examples above. For N-13 ammonia or F-18 radionuclides that are given in lower doses of 10 to 20 mCi, scanner saturation is not an issue with either 2D or 3D PET scanners.
 
-![](_page_26_Figure_6.jpeg)
+![](ch03-09_page_26_Figure_6.jpeg)
 
 **FIGURE 19–33.** Noise equivalent counts for increasing dose of Rb-82 for two-dimensional (2D) and three-dimensional (3D) positron emission tomography–computed tomography scanners with adequate acquisition at 25 mCi for the 3D scanner compared to 50 MCi for the 2D scanner. At 50 mCi dose, the 3D scanner saturates and cannot acquire the arterial region of interest activity accurately, thereby precluding quantitative perfusion measurements. Reproduced with permission from deKemp RA, Yoshinaga K, Beanlands RS: Will 3-dimensional PET-CT enable the routine quantification of myocardial blood flow? *J Nucl Cardiol*. 2007 May-Jun;14:380-397.84
 
 Most PET scanners have sufficiently comparable reconstructed resolution as to constitute little differentiation among them for cardiac PET. However, the order of magnitude better resolution of PET over SPECT at heart depth in the chest is a powerful advantage for PET, as illustrated in Fig. 19–34. For SPECT imaging of an unmoving static
 
-![](_page_26_Figure_9.jpeg)
+![](ch03-09_page_26_Figure_9.jpeg)
 
 **FIGURE 19–32.** Scanner saturation during the first pass arterial activity of Rb-82.
 
-![](_page_27_Figure_2.jpeg)
+![](ch03-09_page_27_Figure_2.jpeg)
 
 **FIGURE 19—34.** Positron emission tomography (PET) resolution compared to single-photon emission computed tomography (SPECT) resolution in the static Jaszczak phantom. The SPECT images identifies only the large 3-cm diameter defect with no activity as compared to PET that detects the smallest 9-mm defect. In addition, the SPECT image shows a 50% attenuation of central activity (see relative activity color bar) whereas PET shows uniform activity present in the body of the phantom.
 
@@ -523,7 +523,7 @@ The final critical component of the scanner is software to display and shift att
 
 With both rotating rod and CT attenuation data, misregistration is common in 20% to 40% of all cases because of cardiac position changing within the chest attenuating structures differentially at rest and stress even with the patient body position unchanged compared to external markers.<sup>74-77</sup> This misregistration may cause gross
 
-![](_page_27_Figure_7.jpeg)
+![](ch03-09_page_27_Figure_7.jpeg)
 
 FIGURE 19—35. Effect of misregistration of emission and transmission data for attenuation correction, causing apparent perfusion defects that are artifacts compromising clinical validity. (A) Rest relative uptake images reconstructed with helical computed tomography (CT) data misregistered with emission data. (B) The same rest relative images reconstructed with cine CT data shifted to achieve correct coregistration. (C) Stress relative uptake images reconstructed with helical CT data misregistered with emission data. (D) The same stress relative images reconstructed with cine CT data shifted to achieve correct coregistration.
 
@@ -545,7 +545,7 @@ Just as acutely reduced coronary blood flow causes acute coronary syndromes, chr
 
 Myocardial perfusion for these conditions remains essential for interpreting the metabolic images. Equally important for clinical decisions, quantitative perfusion also provides valuable information on the flow capacity of surrounding donor coronary arteries supplying the collaterals at risk from stenosis or diffuse disease of the supply arteries feeding the collaterals. Collateral steal during vasodilator stress is integral to quantifying the interaction of supply arteries, the region supplied by collaterals, and the "viability" of this region.
 
-![](_page_28_Figure_12.jpeg)
+![](ch03-09_page_28_Figure_12.jpeg)
 
 **FIGURE 19–36.** Complexity made simple—quantitative myocardial perfusion to guide management of coronary artery disease (CAD). Single views of the coronary flow capacity map from 12 different patients covering the ranges of perfusion abnormalities from healthy young volunteers to severe CAD to the right of the dashed blue threshold line of coronary blood flow capacity severity associated with angina and significant electrocardiographic changes during dipyridamole stress potentially appropriate for revascularization. Adapted with permission from Johnson NP, Gould KL: Integrating noninvasive absolute flow, coronary flow reserve, and ischemic thresholds into a comprehensive map of physiological severity. *JACC Cardiovasc Imaging*. 2012 Apr;5:430-440.57
 
@@ -607,7 +607,7 @@ Figure 19–37 illustrates the four basic clinical perfusion-FDG image patterns 
 - • Normal perfusion and normal FDG or "normal match" of healthy subjects or patients with low EF caused by nonischemic cardiomyopathy (A)
 - • Abnormal perfusion and abnormal FDG or "abnormal match" of myocardial scar (B)
 
-![](_page_30_Figure_22.jpeg)
+![](ch03-09_page_30_Figure_22.jpeg)
 
 **FIGURE 19–37.** Single topographic views of left ventricle with patterns of relative perfusion and 18F-FDG images. The color bar scales the relative activity with red being 100% of relative maximum activity. (**A**) Normal perfusion and normal 18F-FDG or "normal match." (**B**) Abnormal perfusion and abnormal 18F-FDG or "abnormal match" of myocardial scar. (**C**) Abnormal perfusion and normal 18F-FDG or "abnormal mismatch" of hibernating myocardium. (**D**) Normal perfusion and low 18F-FDG uptake or "reverse mismatch" of adequately perfused myocardium metabolizing fatty acids rather than glucose.
 
@@ -622,7 +622,7 @@ Despite carbohydrate loading, some patients may have normally perfused LV region
 
 Transaxially acquired perfusion and metabolism images are reoriented into short- and vertical- and horizontal long-axis slices, using the same reorientation parameters for both (Figs. 19–38 to 19–41). Visual assessment of myocardial radiotracer concentrations employs the standard 17-segment model and grades segmental radiotracer activity concentrations separately for the perfusion and 18F-FDG images on a four-point scale, where 1 is normal; 2, mildly reduced; 3, moderately reduced; and 4, severely reduced or absent radiotracer activity.98 Differences in segmental radiotracer uptake between perfusion and metabolism images of at least one grade are considered "segmental metabolism perfusion-mismatches." The sum of segments with mismatch scores represents the extent of potentially reversible dysfunctional myocardium. The sum of all segmental mismatch scores serves as a measure of the combined extent and severity of the "mismatch myocardial region" or the amount of viable myocardium.
 
-![](_page_31_Figure_2.jpeg)
+![](ch03-09_page_31_Figure_2.jpeg)
 
 **FIGURE 19–38.** Myocardial viability with positron emission tomography myocardial perfusion and 18F-FDG imaging. Selected short- and vertical long-axis images of myocardial perfusion and 18F-FDG uptake. Perfusion is severely reduced in the anterior wall while 18F-FDG uptake is fully preserved, consistent with a perfusion metabolism mismatch and viable myocardium.
 
@@ -632,15 +632,15 @@ Semiquantitative information on regionally increased 18F-FDG uptake relative to 
 
 Some laboratories employ 18F-FDG imaging only for the assessment of reversible contractile dysfunction. Myocardial segments with normal
 
-![](_page_31_Figure_8.jpeg)
+![](ch03-09_page_31_Figure_8.jpeg)
 
 **FIGURE 19–39.** Myocardial viability with positron emission tomography myocardial perfusion and 18F-FDG imaging. On the selected reoriented views, perfusion is severely reduced in the anterior wall, the apex, the distal inferior wall, and the interventricular septum. On the 18F-FDG images, metabolic activity is decreased in proportion to blood flow, consistent with a perfusion metabolism match and absence of myocardial viability, reflecting scar tissue.
 
-![](_page_31_Figure_10.jpeg)
+![](ch03-09_page_31_Figure_10.jpeg)
 
 **FIGURE 19–40.** Myocardial viability with positron emission tomography myocardial perfusion and 18F-FDG imaging. The short-axis and vertical and horizontal long-axis images reveal an extensive moderate to severe perfusion defect in the distal anterior wall, the apex, and the inferior and inferolateral walls. Metabolic activity as shown on the 18F-FDG images is preserved throughout the hypoperfused myocardium, consistent with a large perfusion metabolism mismatch and thus myocardial viability. Note the low 18F-FDG uptake in apparently normally perfused myocardium, related to the patient's fasting prior to the study, leading to suppression of 18F-FDG uptake in normal myocardium.
 
-![](_page_32_Figure_2.jpeg)
+![](ch03-09_page_32_Figure_2.jpeg)
 
 **FIGURE 19–41.** Positron emission tomography myocardial perfusion and 18F-FDG images in a patient with idiopathic dilated cardiomyopathy. Note the enlarged left ventricle with homogeneous perfusion and glucose uptake.
 
@@ -650,7 +650,7 @@ Although relatively high predictive accuracies for identifying reversibly and ir
 
 Absolute rates of glucose utilization have little value for predicting postrevascularization outcomes100 because of substantial heterogeneity of functional cellular compromise and injury in hypoperfused
 
-![](_page_32_Figure_7.jpeg)
+![](ch03-09_page_32_Figure_7.jpeg)
 
 **FIGURE 19–42.** Polar map analysis of perfusion (N-13 ammonia) and glucose uptake (18F-FDG) images. Note the extensive perfusion defect in the interventricular septum and anterior wall associated with reduced 18F-FDG uptake. The "results" polar map delineates an extensive perfusion metabolism mismatch (segments in blue), a perfusion metabolism match (shown in red, reflecting scar tissue) with well-preserved 18F-FDG uptake and perfusion in the lateral and inferior wall, consistent with normal myocardium shown in green. Images derived with "Munich Heart" software package.
 
@@ -667,7 +667,7 @@ dardization protocols are available:
 - 2. Administration of the antilipolytic agent acipimox. Acipimox diminishes lipolysis and, therefore also circulating free fatty acid levels. It also increases glucose levels caused by prior carbohydrate ingestion.
 - 3. Euglycemic-hyperinsulinemic clamping.90 This entails continuous infusion of insulin with coinfusion of glucose at rates to maintain the plasma glucose concentrations within the range of normal. Among the standardization approaches, glucose clamping most consistently produces high-quality diagnostic 18F-FDG images. However, it is so labor intensive that its use has remained confined to investigational settings.
 
-![](_page_33_Figure_2.jpeg)
+![](ch03-09_page_33_Figure_2.jpeg)
 
 FIGURE 19—43. Protocol for intravenous glucose and insulin to optimize myocardial 18F-FDG imaging. The dose of glucose and insulin vary depending on fasting blood sugar at the time of PET imaging as shown. In this 18F-FDG protocol, a baseline finger stick blood sugar determines the next step. If the blood sugar is more than 225 mg/dL the patient is given iv regular insulin according to the sliding scale where number of units equals (blood sugar – 50)/25 with a maximum of 8 units. If the blood sugar is 125 to 225 mg/dL, 13 grams of glucose from a vial of dextrose 50 g in water is given IV. If the blood sugar has fallen to less than 150 mg/dL in 25 to 30 minutes, 18F-FDG is injected IV. If the baseline blood sugar is less than 125 mg/dL, 25 g from the D-50-W vial is given IV and blood sugar checked 25 to 30 minutes later. If the blood sugar is less than 150 mg/dL, FDG is injected IV. After IV injection of 18F-FDG, test myocardial uptake images are obtained at 25 to 30 minutes. Test myocardial uptake images are continued for up to 1½ hours until good myocardial uptake images with blood pool clearing are obtained. After final image acquisition, if insulin was given, blood sugar is checked after imaging; if less than 100 mg/dL, the physician or nurse decides whether or not to give more IV glucose for stabilization before leaving the positron emission tomography (PET) laboratory. If no insulin is given, the patient is discharged from the PET laboratory. BG, blood glucose by fingerstick; D-50-W dextrose 50 g in water; Dr/RN Intervention, physician or registered nurse makes all decision to give insulin or more IV glucose based on the fingerstick blood glucose levels before and after FDG imaging.
 
@@ -685,7 +685,7 @@ A 75-year-old diabetic woman with daily moderate to severe resting and exertiona
 
 The 65-year-old man with images in Fig. was referred for PET because of recent abnormal ECG and 6-month history of exertional,
 
-![](_page_34_Figure_2.jpeg)
+![](ch03-09_page_34_Figure_2.jpeg)
 
 **FIGURE 19–44.** Case 15. Patient with primarily hibernating myocardium with minimal nontransmural scar. Relative rest perfusion and 18F-FDG images are color coded by the scale for relative myocardial uptake. The histogram on the right side of the color scale gives the percent of the left ventricle in each range of relative uptake.
 
@@ -695,7 +695,7 @@ The relative rest and stress PET images showed a large, severe, lateral, apical,
 
 The viability 18F-FDG images showed substantial mismatch with active FDG uptake in anterior, septal, and apical regions, indicating hibernating, viable, hypoperfused myocardium in mid to distal LAD and RCA distributions comprising approximately 30% of the LV. The lateral LV had a predominantly transmural scar comprising 25% of the LV with an additional 10% of the anterior, anterolateral wall, apex, and
 
-![](_page_34_Figure_8.jpeg)
+![](ch03-09_page_34_Figure_8.jpeg)
 
 **FIGURE 19–45.** Case 16. Patient with transmural scar, hibernating myocardium, and low ejection fraction. Relative rest and stress myocardial perfusion and 18F-FDG images are color coded by the scale for relative myocardial uptake. For the rest stress relative perfusion images, the histogram on the right side of the color bar scale gives the relative activity as percent of maximum (100%) and percent of the left ventricle in each range of relative perfusion.
 
@@ -715,11 +715,11 @@ In the transmural scar, minimum rest and stress perfusion was 0.26 cc/min/g and 
 
 A 69-year-old man whose images are shown in Fig. 19–47 had an anterior MI in 1996 at age 49 years while hunting in the Alaska wilderness. An angiogram 1 week later showed an occluded LAD proximal to the first septal perforator and first diagonal with an EF of 25% to 30% without significant obstructive disease of the left circumflex or right
 
-![](_page_35_Figure_11.jpeg)
+![](ch03-09_page_35_Figure_11.jpeg)
 
 **FIGURE 19–46.** Case 17. Patient with a complex mix of transmural scar, border zone nontransmural scar, and hibernating and ischemic myocardium. Relative rest and stress myocardial perfusion and FDG images are color coded by the scale for relative myocardial uptake. For the rest stress relative perfusion images, the histogram on the right side of the color bar scale gives the relative activity as percent of maximum (100%) and percent of the left ventricle in each range of relative perfusion.
 
-![](_page_36_Figure_2.jpeg)
+![](ch03-09_page_36_Figure_2.jpeg)
 
 **FIGURE 19–47.** Case 18. Patient with myocardial scar replaced by endogenous stem cells with recovery of left ventricular function. Relative rest and stress myocardial perfusion and FDG images are color coded for relative activity as in the prior figures.
 
@@ -731,7 +731,7 @@ This spontaneous LV recovery prior to any procedures and without exogenous stem 
 
 Segmental perfusion-metabolism patterns accurately predict improved postrevascularization segmental contractile function. Based on a pooled analysis of 24 clinical investigations in 756 patients, perfusionmetabolism imaging identified myocardial viability with a weighted average sensitivity of 92% and specificity of 63%.107 Corresponding positive and negative predictive values are 74% and 87%, respectively. Although postrevascularization segmental wall motion provides a measure (or gold standard) of the diagnostic accuracy of perfusionmetabolism imaging, changes in the global LV function are more powerful clinical measures of benefit. Pooled data from three investigations indicate average sensitivities and specificities of 83% and 64%, respectively, for at least a 5% postrevascularization increase in LVEF with positive and negative predictive values of 68% and 80%, respectively.107
 
-![](_page_36_Figure_8.jpeg)
+![](ch03-09_page_36_Figure_8.jpeg)
 
 **FIGURE 19–48.** Postrevascularization improvement in global left ventricular function, change in myocardial blood flow and extent of viable myocardium. LVEF, left ventricular ejection fraction. Data from Schoder H, Campisi R, Ohtake T, et al. Blood flow-metabolism imaging with positron emission tomography in patients with diabetes mellitus for the assessment of reversible left ventricular contractile dysfunction. *J Am Coll Cardiol*. 1999;33:1328-1337.
 
@@ -743,7 +743,7 @@ Another study of 648 consecutive patients with reduced LV function demonstrated 
 
 The only randomized trial to date, the Positron emission tomography And Recovery following Revascularization (PARR-2) trial,116 showed no overall mortality advantage of 18F-FDG–guided revascularization compared to standard of care, including aggressive medical therapy and revascularization.116 However, this negative result
 
-![](_page_37_Figure_2.jpeg)
+![](ch03-09_page_37_Figure_2.jpeg)
 
 **FIGURE 19–49.** Risk of a major cardiac event (including cardiac death, nonfatal myocardial infarction, cardiac transplantation, or hospitalization for cardiac reasons) and amount of viable myocardium (defined as mismatch size). LV, left ventricle. Reproduced with permission from D'Egidio G, Nichol G, Williams KA, et al: Increasing benefit from revascularization is associated with increasing amounts of myocardial hibernation: a substudy of the PARR-2 trial. *JACC Cardiovasc Imaging*. 2009 Sep;2:1060–1068.<sup>114</sup>
 
@@ -759,9 +759,9 @@ Revascularization of viable myocardium may lead to reversal of LV remodeling.<su
 
 It is important to emphasize that despite the presence of myocardial viability, even involving an adequate amount of the LV, surgical revascularization may not always be followed by a functional improvement or reversed remodeling of the LV. Fixed subendocardial scar with normal adequate perfused subepicardium as after PCI for acute coronary syndromes may show reduced perfusion with good 18F-FDG uptake but fail to improve function after revascularization. LV function may also fail to improve after revascularization in markedly enlarged LVs with advanced remodeling. Increased LV end-systolic volumes or dimensions predicted failure to recover LV function.<sup>121</sup> Large myocardial regions with severely reduced perfusion require longer times for improvement in contractile function after revascularization, sometimes as long as 12 to 18 months. Finally, myocardial viability may not persist indefinitely but may progress to scar tissue formation. In patients with PET demonstrated myocardial viability, for example, LV function failed to improve when revascularization was delayed by an average of 35 days. 126 Hence, there may be a basis for revascularization as soon as possible to avert irreversibility that precludes improvement of LV function after late revascularization.
 
-![](_page_37_Figure_10.jpeg)
+![](ch03-09_page_37_Figure_10.jpeg)
 
-![](_page_37_Figure_11.jpeg)
+![](ch03-09_page_37_Figure_11.jpeg)
 
 FIGURE 19—50. Positron emission tomography (PET)—guided treatment of patients with ischemic cardiomyopathy. An initial outcome report for the multicenter PAAR trial failed to observe a significant benefit of PET viability assessment (as delineated in B as the non-Ottawa FIVE PET). However, in a post-hoc analysis of the clinical trial data, adherence of treatment to PET findings, as done in the OTTAWA-FIVE PET, demonstrated a clear benefit of PET—guided over standard care treatment. As shown in A, the cardiac event—free survival was significantly higher in patients with PET—guided treatment as compared to patients with standard care.
 
@@ -789,11 +789,11 @@ Assessment of myocardial viability has become clinically important in patients w
 
 Surgical revascularization of patients without viable myocardium remained without significant effect on annual mortality (7.7%) but was
 
-![](_page_38_Figure_14.jpeg)
+![](ch03-09_page_38_Figure_14.jpeg)
 
 **FIGURE 19–51.** Positron emission tomography stress and rest perfusion and 18F-FDG metabolism images in a patient with Takotsubo (stress) cardiomyopathy at baseline (7 days after the acute event) and 3 months later. Note the severe and extensive fixed perfusion defect involving the apical half of the left ventricle associated with concordantly reduced 18F-FDG metabolic activity (*upper panel*) with complete restoration of myocardial perfusion in metabolic activity at follow-up (*lower panel*). Reproduced with permission from Ghadri JR, Dougoud S, Maier W, et al: A PET/CT-follow-up imaging study to differentiate takotsubo cardiomyopathy from acute myocardial infarction. *Int J Cardiovasc Imaging*. 2014 Jan;30:207-209.141
 
-![](_page_39_Figure_2.jpeg)
+![](ch03-09_page_39_Figure_2.jpeg)
 
 **FIGURE 19–52.** Meta-analysis of outcome data in patients with viability assessment and medical treatment or surgery revascularization (coronary artery bypass graft [CABG]) as reported by Allman KC and colleagues.142 Note the high annual mortality in patients with viable myocardium treated medically as compared to the significantly lower mortality of patients after surgical revascularization. In patients without myocardial viability, annualized mortality rates are similar for patients treated medically or with surgical revascularization. Adapted with permission from Allman KC, Shaw LJ, Hachamovitch R, et al: Myocardial viability testing and impact of revascularization on prognosis in patients with coronary artery disease and left ventricular dysfunction: a meta-analysis. *J Am Coll Cardiol*. 2002 Apr 3;39:1151-1158.142
 
@@ -817,7 +817,7 @@ With resting perfusion in the range of 0.2 to 0.4 cc/min/g, the clinical questio
 
 Myocardial cell membranes normally maintain high intracellular potassium concentrations compared to the extracellular fluid, thereby maintaining the resting membrane potential of the myocardial cells (Fig. 19–53).153 Myocardial injury causes potassium to leak out of the cell with an injury current reducing the resting membrane potential manifest as ST-segment elevation on the AC-coupled ECG. However, some intracellular potassium may be retained with a reduced membrane potential associated with potential cell recovery. Restoration of oxygenated coronary blood flow restores normal potassium trapping, normal resting membrane potential, and
 
-![](_page_40_Figure_2.jpeg)
+![](ch03-09_page_40_Figure_2.jpeg)
 
 **FIGURE 19–53.** Loss of myocardial potassium cell trapping after acute experimental coronary occlusion. Adapted with permission from Hill JL, Gettes LS: Effect of acute coronary artery occlusion on local myocardial extracellular K+ activity in swine. *Circulation*. 1980 Apr;61:768-778.153
 
@@ -825,7 +825,7 @@ normal contraction. However, with ongoing injury caused by low blood flow ischem
 
 The positron emitting potassium analog, Rb-82, follows the distribution of the cellular potassium space of viable myocardium. It is therefore not trapped in myocardial scar associated with severe perfusion defects.154-157 Residual activity in resting perfusion defects indicates residual myocardium with intact potassium space that traps Rb-82 as a perfusion tracer. Initial Rb uptake may leak back out or wash out of injured myocardium to some extent while 18F-FDG is still trapped, indicating some viability. Therefore, the rate of potassium washout may not reflect viability because myocardium taking up 18F-FDG may show
 
-![](_page_40_Figure_6.jpeg)
+![](ch03-09_page_40_Figure_6.jpeg)
 
 **FIGURE 19–54.** Size of myocardial scar by perfusion imaging with Rb-82 compared to ejection fraction. The red zone indicates the average size of cardiac scar where ejection fraction begins to fall. Reproduced with permission from Yoshida K1, Gould KL: Quantitative relation of myocardial infarct size and myocardial viability by positron emission tomography to left ventricular ejection fraction and 3-year mortality with and without revascularization. *J Am Coll Cardiol*. 1993 Oct;22:984-997.154
 
@@ -843,11 +843,11 @@ Perfusion in functionally impaired myocardial regions contains information on po
 
 Late gadolinium contrast enhancement on MRI indicates the presence of scar tissue. In patients with ischemic cardiomyopathy, the approach identifies the transmural extent of scar tissue. Nonenhancing myocardial tissue is considered to be normal or, less precisely, to be "viable." Generally, myocardial segments with less than 50% transmural scar tissue improve contractile function after restoration of blood flow, whereas the likelihood of a postrevascularization improvement in contractile function declines with increasing transmurality of late contrast enhancement.160 Analogous to the resting perfusion approach, the late enhancement does
 
-![](_page_41_Picture_2.jpeg)
+![](ch03-09_page_41_Picture_2.jpeg)
 
-![](_page_41_Picture_3.jpeg)
+![](ch03-09_page_41_Picture_3.jpeg)
 
-![](_page_41_Picture_4.jpeg)
+![](ch03-09_page_41_Picture_4.jpeg)
 
 Late enhancement MRI 18F-FDG metabolism PET N-13 ammonia perfusion PET
 
@@ -879,7 +879,7 @@ The presence of sarcoidosis is histologically confirmed by demonstration of nonc
 
 According to autopsy findings in patients with cardiac sarcoidosis, the LV free wall including the papillary muscles, together with the
 
-![](_page_42_Figure_2.jpeg)
+![](ch03-09_page_42_Figure_2.jpeg)
 
 **FIGURE 19–56.** Stress and rest single-photon emission computed tomography (SPECT) myocardial perfusion (*upper* and *middle panel*) and 18F-FDG metabolic images (*bottom panel*) in a patient with ischemic cardiomyopathy. The *arrows* point to the defects or abnormalities of perfusion and F18-FDG images. The large and severe perfusion defect in the anterior wall and the interventricular septum is predominantly fixed but is associated with increased 18F-FDG uptake, consistent with viable myocardium. PET, positron emission tomography.
 
@@ -899,7 +899,7 @@ Patterns of myocardial 18F-FDG uptake are defined as no uptake, mild diffuse upt
 
 Most consistent with cardiac sarcoid are one or more myocardial foci of intensely increased 18F-FDG uptake (see Fig. 19–57). Their location does not follow the distribution of coronary vessels; they preferentially locate in the more basal portions of the LV myocardium that is, the basal segments of the inferior ventricular septum and the inferior and the lateral walls, as well as the right ventricular wall. Occasionally, focally enhanced 18F-FDG uptake may be observed selectively
 
-![](_page_43_Figure_2.jpeg)
+![](ch03-09_page_43_Figure_2.jpeg)
 
 **FIGURE 19–57.** Imaging of cardiac sarcoid with 18F-FDG positron emission tomography (PET) in two patients with suspected cardiac sarcoid. The axial PET-only and PET/computed tomography (CT) images of the mediastinum (*upper row*) and the left ventricle (*lower row*) are shown. In the patient in **A,** myocardial 18F-FDG is completely suppressed and no abnormally increased 18F-FDG uptake is seen. In contrast, in the patient in **B,** multiple foci of intensely increased 18F-FDG uptake are seen in the mediastinum (consistent with mediastinal lymph node involvement) and throughout the left and right ventricular myocardium, consistent with cardiac sarcoid associated with systemic sarcoid.
 
@@ -921,11 +921,11 @@ The pattern of focally increased myocardial 18F-FDG uptake is not specific for c
 
 Apart from myocardial inflammatory processes, interpretation of perfusion and 18F-FDG images should include consideration of potentially alternate causes of focally enhanced myocardial 18F-FDG uptake. Regional increases in myocardial 18F-FDG uptake may be related to postischemic myocardium after strenuous exercise in patients with epicardial coronary artery disease184,185 or following an ischemic injury (Fig. 19–59). Stress-related, postischemic regional increases
 
-![](_page_43_Figure_13.jpeg)
+![](ch03-09_page_43_Figure_13.jpeg)
 
 **FIGURE 19–58.** Acute myocarditis caused by Epstein-Barr virus infection in a 27-year-old man, imaged with hybrid positron emission tomography (PET)/magnetic resonance imaging (MRI). There are intramyocardial nodules (**A**) and diffuse subepicardial late gadolinium enhancement associated with subepicardial edema on T2-weighted images (**B**). Intense 18F-FDG uptake is noted in the anterolateral wall (**C**), corresponding in location to the late enhancement regions on MRI (**D**). Reproduced with permission from von Olshausen G, Hyafil F, Langwieser N, et al: Detection of acute inflammatory myocarditis in Epstein Barr virus infection using hybrid 18F-fluoro-deoxyglucose-positron emission tomography/magnetic resonance imaging. *Circulation*. 2014 Sep 9;130:925-926.181
 
-![](_page_44_Figure_2.jpeg)
+![](ch03-09_page_44_Figure_2.jpeg)
 
 **FIGURE 19–59.** Positron emission tomography (PET) N-13 ammonia perfusion and glucose metabolism images in a patient with systemic sarcoid and with ventricular tachycardia referred for evaluation of cardiac sarcoidosis. Perfusion is severely reduced in the distal anterior wall, the apex, and the distal inferior wall, suggestive of obstructive disease of the left anterior descending coronary artery. 18F-FDG activity is selectively increased in the region of the perfusion defect, most likely consistent with myocardial viability. No evidence of systemic sarcoidosis was seen on the whole-body 18F-FDG PET/computed tomography (CT) images; the perfusion metabolism mismatch corresponds in location to the distal left anterior descending coronary artery. Further evaluation of the patient revealed obstructive coronary artery disease. 18F-FDG uptake in normal myocardium is absent as a result of prolonged fasting.
 
@@ -939,7 +939,7 @@ Cardiac MRI contributes to the diagnosis of cardiac sarcoid.177,192 The myocardi
 
 It is uncertain whether the intensity of regional 18F-FDG uptake can be used as a diagnostic markers of cardiac sarcoid. Besides the level of inflammation, the apparent intensity of 18F-FDG uptake depends
 
-![](_page_44_Figure_9.jpeg)
+![](ch03-09_page_44_Figure_9.jpeg)
 
 **FIGURE 19–60.** Late gadolinium-enhanced magnetic resonance imaging (MRI), positron emission tomography (PET) myocardial perfusion, and 18F-FDG images in a patient with cardiac sarcoid. Regions of late enhancement are seen in the anterior septum and the inferolateral wall (*arrows*) and correspond to regional flow defects on the N-13 ammonia perfusion images. Focal increases of 18F-FDG uptake in both flow defect regions are consistent with active inflammation. SPECT, single-photon emission computed tomography.
 
@@ -955,7 +955,7 @@ PET perfusion-metabolism imaging in cardiac sarcoid contains predictive informat
 
 The modified Duke criteria remain the diagnostic gold standard of infective endocarditis197 (see Chap. 67 on endocarditis). Major criteria include positive blood cultures, evidence of endocardial involvement, echocardiographic evidence for infective endocarditis, and new-onset
 
-![](_page_45_Picture_2.jpeg)
+![](ch03-09_page_45_Picture_2.jpeg)
 
 **FIGURE 19–61.** Response of inflammatory cardiac sarcoid to immunosuppressive treatment demonstrated by serial 18F-FDG imaging. Positron emission tomography (PET)/computed tomography (CT) fusion images are shown in the *upper row* and PET-only images in the *lower row*. Note the intensely increased 18F-FDG activity in the interventricular septum and the posterior lateral wall at baseline (*left panel*) and the progressive decline in abnormal 18F-FDG activity with treatment.
 
@@ -969,7 +969,7 @@ Transthoracic or transesophageal echocardiography detects valvular infections an
 
 Clinically more promising has been use of 18F-FDG PET/CT for diagnosing infections of cardiovascular implantable electronic devices. According to the Consensus on Transvenous Lead Extraction,202 removal of devices is indicated when one of three criteria is present: infection of device (or generator) pocket, lead endocarditis, and persistent or recurrent bacteremia. Several studies have reported
 
-![](_page_45_Picture_9.jpeg)
+![](ch03-09_page_45_Picture_9.jpeg)
 
 **FIGURE 19–62.** 18F-FDG positron emission tomography (PET)/computed tomography (CT) imaging of infective endocarditis: PET attenuation corrected (*left*) and nonattenuation corrected images (*center*) together with fused PET/CT images (*right*) are shown in two patients. **A.** The patient is a 65-year-old man with definite endocarditis by modified Duke criteria; the focally increased 18F-FDG activity (*arrow*) corresponds to infection of the mitral valve. **B.** The PET findings in a 70-year-old man with *Staphylococcus aureus* bacteremia and possible endocarditis. The focally increased 18F-FDG activity (*arrow*) corresponds to an infected mitral valve. Reproduced with permission from Kouijzer IJ, Vos FJ, Janssen MJ, et al: The value of 18F-FDG PET/CT in diagnosing infectious endocarditis. *Eur J Nucl Med Mol Imaging*. 2013 Jul;40:1102-1107 .199
 
@@ -977,7 +977,7 @@ sensitivities ranging from 76% to 100% for detecting device infections with 18F-
 
 **Limitations of Endocarditis Imaging** Despite the promise of 18F-FDG PET/ CT for visualizing the site of endocarditis (native and prosthetic valves),
 
-![](_page_45_Figure_13.jpeg)
+![](ch03-09_page_45_Figure_13.jpeg)
 
 **FIGURE 19–63.** 18F-FDG positron emission tomography (PET)/computed tomography (CT) images of infective endocarditis. **A.** Focally increased 18F-FDG activity in an infected transcatheter aortic valve implantation as seen on the sagittal and axial images in the *left panel*. **B.** Axial 18F-FDG PET/CT images of an infected generator pocket. The focally increased activity in the left anterior chest wall on the attenuation corrected image (*top*) is also seen on the nonattenuation corrected images and is therefore not an image artifact. Fused PET/CT images are shown in the *bottom panel*. **A**, reproduced with permission from Saby L, Laas O, Habib G, et al: Positron emission tomography/ computed tomography for diagnosis of prosthetic valve endocarditis: increased valvular 18F-fluorodeoxyglucose uptake as a novel major criterion. *J Am Coll Cardiol*. 2013 Jun 11;61:2374-2382. **B**, reproduced with permission from Sarrazin JF, Philippon F, Tessier M, et al: Usefulness of fluorine-18 positron emission tomography/computed tomography for identification of cardiovascular implantable electronic device infections. *J Am Coll Cardiol*. 2012 May 1;59:1616-1625.203
 
@@ -993,7 +993,7 @@ Investigations have established the clinical value of 18F-FDG PET/CT for identif
 
 Inflammation is a hallmark of several vascular disease entities and, because of the avidity of inflammatory cells for 18F-FDG, can be identified with PET. Vascular imaging with PET in arteritis of the large vessels is clinically useful while its clinical role in atherosclerotic disease remains to be fully determined.
 
-![](_page_46_Figure_8.jpeg)
+![](ch03-09_page_46_Figure_8.jpeg)
 
 **FIGURE 19–64.** Imaging of inflammatory aortitis and response to treatment in a patient with an aneurysmal ascending aorta and aortic arch. Note the intense the increased circular activity on the axial images of the ascending aorta (axial 1) and the aortic arch (axial 2) and the changes in metabolic activity in response to different doses of steroids with subsequent recurrence of activity and successful steroid retreatment. Reproduced with permission from Bruls S, Courtois A, Nusgens B, et al: 18F-FDG PET/CT in the Management of Aortitis. *Clin Nucl Med*. 2016 Jan;41:28-33.
 
@@ -1025,7 +1025,7 @@ is identified by its higher than blood activity and can be quantified by peak ac
 
 **Coronary Arterial Plaques** Visualization of 18F-FDG uptake in atherosclerotic plaques of the coronary circulation faces formidable technical challenges for several reasons: the limited spatial resolution of PET relative to the size of the coronary vessels, cardiac and respiratory motion, and high background activity (ie, accumulation of 18F-FDG in the myocardium). Gated image acquisition for both cardiac and respiratory motion may thus become necessary for visualizing coronary arterial plaques and for quantification of 18F-FDG activity. Despite the inherently limited spatial resolution of PET, visualization of coronary plaques has become possible, especially because they are most frequently located in the larger sized proximal segments of the coronary arteries. Indeed, recent observations have confirmed such a possibility and have shown 18F-FDG avid lesions in the coronary vessels.220 In 25 patients with CAD, PET/CT images in patients with acute coronary syndrome revealed high 18F-FDG activity in the culprit coronary lesion (Fig. 19–65).236
 
-![](_page_47_Figure_10.jpeg)
+![](ch03-09_page_47_Figure_10.jpeg)
 
 **FIGURE 19–65.** 18F-FDG positron emission tomography (PET)/computed tomography (CT) images of coronary arterial 18F-FDG uptake. Intense 18F-FDG uptake is seen in the left main coronary artery and the stented culprit lesion in a patient with acute coronary syndrome (**A**). Uptake is less intense in another patient with stable coronary artery disease and a recent stent placement (**B**), whereas only mild uptake is seen in a patient with coronary artery disease and an old stent (**C**). Mild 18F-FDG uptake is noted in the trifurcation of the left main coronary artery in a patient with acute coronary syndrome (**D**). Reproduced with permission from Rogers IS, Nasir K, Figueroa AL, et al: Feasibility of FDG imaging of the coronary arteries: comparison between acute coronary syndrome and stable angina. *JACC Cardiovasc Imaging*. 2010 Apr;3:388-397.236
 

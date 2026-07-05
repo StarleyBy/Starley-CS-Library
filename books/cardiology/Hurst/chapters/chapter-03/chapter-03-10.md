@@ -161,7 +161,7 @@ Abbreviations: CHF, congestive heart failure; HOCM, hypertrophic obstructive car
 
 patient is unstable from a suspected cardiac cause such as acute myocardial infarction, catheterization must proceed. In the event of decompensated congestive heart failure requiring cardiac catheterization for diagnosis and potential treatment, rapid medical management in the catheterization laboratory may be an expeditious option, whereby endotracheal intubation, left ventricular (LV) support device insertion, and vasopressors can be instituted rapidly before angiography and revascularization. Relative contraindications to cardiac catheterization
 
-![](_page_2_Picture_2.jpeg)
+![](ch03-10_page_2_Picture_2.jpeg)
 
 **FIGURE 20–1.** The modern catheterization laboratory. 1 AP imaging C-arm, with the image intensifier above the patient and the x-ray tube below; 2 lateral imaging C-arm with the x-ray system to the patient's right; 3 the lateral plane imaging intensifier on the patient's left side; 4 table pad position for patient's head; 5 contrast media power injector; 6 angiographic and hemodynamic monitors; 7 crash cart; 8 pressure transducer holders; 9 table controls for integrated intravascular ultrasound and coronary hemodynamics system; 10 control panel for x-ray images; 11 table controls for movement of x-ray system; 12 undertable lead shield; and 13 foot pedal controls for fluoroscopy and cineangiography imaging. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.1
 
@@ -298,17 +298,17 @@ The radial artery approach is associated with reduced bleeding complications and
 
 Patients with a normal Allen test (Fig. 20–3) are candidates for the radial approach with 4- to 6-Fr sheaths and catheters. Small or female patients are more likely to have spasm of the radial artery, but this can be treated effectively with the use of intra-arterial nitroglycerin or verapamil. Specially coated hydrophilic sheaths reduce spasm on sheath insertion and removal. Arterial puncture using a short 22-gauge micropuncture needle or cannula system, a 0.021-inch guidewire, and a radial artery sheath system (10 cm) is performed in a manner similar to FA puncture. Ultrasound imaging facilitates radial artery access (Fig. 20–4). Studies have demonstrated improved first-pass rates, reduced number of attempts, and lower times to achieve success when using ultrasound compared with palpation alone.4 After the puncture, the 0.021-inch guidewire is inserted, followed by the arterial sheath. Once the sheath is inserted, 5000 units of intravenous heparin is given. Many laboratories use an antispasm "cocktail" of nitroglycerin (250–500 mcg) or verapamil (2.5–5.0 mg) given through the sheath. Although most procedures are performed from the right wrist because of the laboratory setup, the use of the left radial artery approach in some patients (especially those < 5'5" tall) provides easier manipulation of the standard preformed Judkins shapes with minimal effort. The left arm should be brought over the abdomen so that the operator can work from his or her usual position on the right of the patient. Figure 20–5 shows radial artery access technique. After vascular access has been secured, angiographic and hemodynamic data are obtained, as discussed below.
 
-![](_page_4_Picture_2.jpeg)
+![](ch03-10_page_4_Picture_2.jpeg)
 
-![](_page_4_Picture_3.jpeg)
+![](ch03-10_page_4_Picture_3.jpeg)
 
-![](_page_4_Picture_4.jpeg)
+![](ch03-10_page_4_Picture_4.jpeg)
 
-![](_page_4_Picture_5.jpeg)
+![](ch03-10_page_4_Picture_5.jpeg)
 
 **FIGURE 20—2. A.** Anatomy relevant to percutaneous catheterization of the femoral artery (FA) and vein. The right FA passes underneath the inguinal ligament, which connects the anterior-superior iliac spine and public tubercle. The arterial skin nick (indicated by *X*) should be placed approximately 1 1/2 to 2 fingerbreadths (3 cm) below the inguinal ligament and directly over the FA pulsation. The venous skin nick should be placed at the same level but approximately one fingerbreadth medial. **B.** Femoral vein puncture with the needle at a 30– to 45–degree angle aiming medially toward the umbilicus. **C.** Femoral artery landmarks. *Top*, Angiogram of sheath in the femoral artery in the anteroposterior projection. *Bottom*, Correct positioning is seen relative to angiographic landmarks. 1, common femoral artery; 2, bifurcation of profunda; 3, superficial femoral artery; 4, midpoint of femoral head; 5, iliac–symphysis pubis ridge (inguinal ligament line). Upper limit of common femoral artery is lower margin of the inferior epigastric artery. **A**, reproduced with permission from Baim DS, Grossman W. Percutaneous approach including transseptal and apical puncture. In: Baim DS, Grossman W, eds. Grossman's *Cardiac Catheterization, Angiography, and Intervention*. 6th ed. Baltimore, MD: Lippincott Williams & Wilkins; 2000. **B**, reproduced with permission from Tilkian AG, Daily EK. Cardiovascular Procedures: *Diagnostic Techniques and Therapeutic Procedures*. St Louis: Mosby;1986. **C**, reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.¹
 
-![](_page_5_Picture_2.jpeg)
+![](ch03-10_page_5_Picture_2.jpeg)
 
 #### **Oxymetry + Plethysmography The clamp sensor is applied to the thumb**
 
@@ -327,7 +327,7 @@ Patients with a normal Allen test (Fig. 20–3) are candidates for the radial ap
 
 After the catheterization procedure has been completed and the catheters removed, the sheath is flushed. The femoral sheath should be removed when the activated clotting time is less than 180 to 200 seconds.
 
-![](_page_5_Figure_8.jpeg)
+![](ch03-10_page_5_Figure_8.jpeg)
 
 **FIGURE 20–4.** Ultrasound access. Technique for ultrasound-guided radial access. **A.** Position of draped ultrasound probe over radial artery. **B.** Visualization of radial artery and veins. **C.** Compression closes radial veins to reveal pulsatility of artery. **D.** Visualization of the needle tip (*arrow*) compressing and puncturing the artery. **E.** Confirmation of the wire position (*arrow*) in the radial artery in the longitudinal plane. Reproduced with permission from Seto AH, Roberts JS, Abu-Fadel MS, et al: Real-time ultrasound guidance facilitates transradial access: RAUST (Radial Artery access with Ultrasound Trial). *JACC Cardiovasc Interv*. 2015 Feb;8:283-291.4
 
@@ -337,7 +337,7 @@ To remove the FA sheath, gentle pressure is applied over the puncture site while
 
 For radial artery hemostasis, a plastic bracelet with a pressure pad (or inflatable bladder) is placed around the wrist during sheath removal. With pressure over the puncture site, the sheath is gently withdrawn and the radial band compression increased. With the inflatable wrist band, the pressure can be set just above that producing
 
-![](_page_6_Figure_2.jpeg)
+![](ch03-10_page_6_Figure_2.jpeg)
 
 **FIGURE 20–5.** Radial artery access technique. **A.** After preparation and positioning wrist, lidocaine is given over puncture site. **B.** Micropuncture needle inserted. **C.** Guidewire advanced through micropuncture needle. **D.** Small skin incision to ease sheath advancement. **E.** Sheath advancement. **F.** Secured sheath in right wrist.
 
@@ -388,23 +388,23 @@ Patients with back pain
 
 Patients desiring early ambulation and discharge
 
-![](_page_8_Picture_2.jpeg)
+![](ch03-10_page_8_Picture_2.jpeg)
 
-![](_page_8_Picture_3.jpeg)
+![](ch03-10_page_8_Picture_3.jpeg)
 
 **FIGURE 20–6.** Radial hemostasis band. **A.** Terumo pressure band applied, pressure pad inflated, and sheath removed. **B.** Final wrist hemostasis band in place.
 
-![](_page_8_Picture_5.jpeg)
+![](ch03-10_page_8_Picture_5.jpeg)
 
-![](_page_8_Picture_6.jpeg)
+![](ch03-10_page_8_Picture_6.jpeg)
 
 **A B**
 
-![](_page_8_Picture_8.jpeg)
+![](ch03-10_page_8_Picture_8.jpeg)
 
 **FIGURE 20–7.** The cardiac catheterization laboratory. **A.** The view from the control room into the laboratory. **B.** The image monitor bank showing the hemodynamic and angiographic display monitors. **C.** The back table holding the sterile supplies used during the procedure.
 
-![](_page_9_Figure_2.jpeg)
+![](ch03-10_page_9_Figure_2.jpeg)
 
 **FIGURE 20–8. A.** Catheters in common use for selective coronary arteriography, ventriculography, and right heart catheterization. **B.** Universal-shaped catheters commonly used for radial artery catheterization. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.1
 
@@ -630,7 +630,7 @@ The ostium of the left coronary artery originates from the left sinus of Valsalv
 
 The RCA ostium normally is located in the right sinus of Valsalva. It may be high near the sinotubular ridge or above it, in the midsinus, or occasionally low near the aortic valve. The artery commonly courses upward from the plane of the aortic valve and then travels in the right A-V groove to reach the posterior LV wall (Fig. 20–11). Along the way, several vessels arise. The conus branch and sinus node arteries branch first, followed by small RV branches, then a large branch that courses over the right ventricle. The right coronary continues to become the posterior descending artery before reaching the crux of the heart (junction of the interventricular and interatrial septa). The posterior descending artery sends branches at right angles into the posterior interventricular groove, providing the perforating branches to the basal and posterior one-third of the septum. An RCA that supplies the major posterior descending branch has been referred to as a
 
-![](_page_14_Figure_2.jpeg)
+![](ch03-10_page_14_Figure_2.jpeg)
 
 **FIGURE 20–9.** Nomenclature for radiographic projections. The *small black arrowheads* show the direction of the x-ray beam. **A.** Anterior (*A*), posterior (*P*), lateral (*L*), and oblique (*O*). **B.** If the intensifier is tilted toward the feet of the patient, a caudal (CA) view is produced. If the intensifier is tilted toward the head of the patient, a cranial (CR) view is produced. **C.** CR and CA oblique views. Reproduced with permission from Paulin S: Terminology for radiographic projections in cardiac angiography. *Cathet Cardiovasc Diagn*. 1981;7:341–344.
 
@@ -684,11 +684,11 @@ Every coronary arteriogram should be reviewed in a systematic fashion. The entir
 
 An angiographic lumen narrowing or stenosis may be caused by a number of conditions such as atherosclerosis, vasospasm, dissection, thrombus, or angiographic artifact (Fig. 20–12). The operator must appreciate that unlike computed tomographic angiography (CTA), the angiogram is a lumenogram and does not permit visualization of the vessel wall to demonstrate atherosclerosis. The grading of a stenosis is most commonly reported as the percentage reduction in the diameter of the narrowed vessel site compared to the adjacent unobstructed vessel segment. Although the diameter stenosis is calculated in the projection where the greatest narrowing is seen, an exact percent narrowing is impossible because many stenoses have an eccentric morphology and a two-dimensional image does not accurately reflect the importance of only the worst luminal dimension. In fact, the severity of stenotic lesions should be classified in one of four groups: normal, minimal, moderate, or severe narrowing. It should be noted that the stenotic lumen is compared with a nearby unobstructed lumen, which indeed may have diffuse atherosclerotic disease and thus appears *angiographically* normal but may still be diseased. This fact explains why postmortem examinations report much more plaque than is seen on angiography. The angiographic *normal* adjacent proximal segments may be larger than distal segments, explaining the large disparity between several observer estimates of stenosis severity. Also note that area stenosis is always greater than diameter stenosis and assumes the lumen is circular, whereas in reality the lumen is usually eccentric. For nonquantitative reports, the length of a stenosis may be simply mentioned (eg, left anterior descending [LAD] artery proximal segment stenosis diameter 25%, long or short). Other features of a coronary lesion (eg, eccentricity, distribution of calcifications, true diseased segment length) may not be appreciated by angiography and require intravascular ultrasound (IVUS) or optical coherence tomography (OCT) imaging (Fig. 20–13). Because of the subjective nature of visual lesion assessment, there is a ± 20% variation between readings of two or more experienced angiographers, especially for lesions narrowed by 40% to 70%. Different angiographers may interpret the same angiographic image quite differently, and the same angiographer may render a different interpretation at a time remote from the first reading. In addition, there may be disagreement about the number of major vessels with 70% stenosis approximately 30% of the time. The correspondence between angiographic diameter narrowings of 40% to 75% and abnormal physiology and myocardial ischemia is poor. For such lesions, noninvasive (stress testing) or direct physiologic measurements (intracoronary pressure or flow, specifically at this time fractional flow reserve [FFR]) of impaired flow rather than intravascular imaging with ultrasound or OCT should be used to validate decisions for revascularization.
 
-![](_page_16_Figure_2.jpeg)
+![](ch03-10_page_16_Figure_2.jpeg)
 
 **FIGURE 20–10.** Diagrammatic representations of the standard right anterior oblique (RAO) and left anterior oblique (LAO) views (**A**) without cranial angulation and (**B**) with cranial angulation of the left coronary artery, the direction of the x-ray beam, and the position of the overhead image intensifier. In the RAO view, most of the left coronary artery is well visualized in this projection, but there is considerable overlap of the middle left anterior descending (LAD) artery and the diagonal branches. When the left main, circumflex, and diagonal branches have a leftward initial course, the long axis of these arterial segments is projected away from the image intensifier, preventing optimal visualization from the RAO view. The image intensifier is placed anteriorly in an RAO position relative to the patient. Diagrammatic representation of the LAO left coronary angiogram and the direction of the x-ray beam in this view. The value of this view depends in large part on the orientation of the long axis of the heart. When the heart is relatively horizontal, the LAD coronary artery and diagonal branches are seen end-on throughout much of the course. In this illustration, the longitudinal axis is an intermediate position and there is moderate foreshortening of the anterior descending and diagonal branches in their proximal portions. The LAO projection is frequently inadequate to visualize the proximal LAD and its branches: the left main segment, which is directed toward the image tube and therefore foreshortened, and the proximal circumflex coronary artery, which may be obscured by overlapping vessels, as in this illustration. The LAO projection is frequently used to visualize the distal LAD and its branches, the midcircumflex coronary artery in the arteriovenous groove, and the distal right coronary artery that is filling via collaterals from the left coronary artery. The image intensifier is above the patient in an LAO position. The left coronary angiogram in the 45-degree LAO with 30 degrees of cranial angulation and the direction of the x-ray beam used to produce this view. This is the most valuable view of the left coronary artery in most patients. Foreshortening of the left main and proximal left anterior descending and diagonal branches present in the LAO view is usually overcome by cranial angulation of the image intensifier. OM, obtuse marginal.
 
-![](_page_17_Figure_2.jpeg)
+![](ch03-10_page_17_Figure_2.jpeg)
 
 ## ■ QUANTITATIVE ANGIOGRAPHIC ASSESSMENT
 
@@ -698,17 +698,17 @@ The degree of coronary stenosis is usually a visual estimation of the percentage
 
 IVUS generates a tomographic, cross-sectional image of the vessel and lumen (see Fig. 20–13). IVUS is inherently different from physiologic measurements. IVUS provides only anatomic information, including plaque characteristics, lesion length, and lumen dimensions. It is complementary to both angiography and physiology, allowing a more thorough investigation of the disease within the vessel wall. By better determining plaque characteristics, IVUS also is useful in guiding selection of interventional equipment, such as the need for plaque debulking.
 
-![](_page_18_Figure_2.jpeg)
+![](ch03-10_page_18_Figure_2.jpeg)
 
 **FIGURE 20—11.** Diagrammatic illustration of the direction of the x-ray beam and the right coronary artery in the 45-degree left anterior oblique (LAO) projection. This view is excellent for visualizing the proximal mid- and distal right coronary artery in the atrioventricular groove, because the direction of the x-ray beam is perpendicular to these arterial segments. Ostial lesions of the right coronary artery are now well visualized if the proximal right coronary artery takes an anterior direction from the aorta and therefore originates in a direction parallel to the x-ray beam. This usually can be overcome by turning to a more severe left oblique projection. The posterior descending and left ventricular (LV) branches of the right coronary artery, which pass down the posterior aspect of the heart toward the apex, are severely foreshortened because the long axis of these vessels is in the same direction as the x-ray beam. The proximal posterior descending branches can be visualized by cranial angulation of the overhead intensifier or from a right oblique view. The image intensifier is in the standard LAO position. Lesions in the posterior descending or LV branches can be well visualized. When the right coronary artery originates anteriorly from the aorta, the proximal portion of the vessel is frequently well seen in this projection.
 
-![](_page_19_Picture_2.jpeg)
+![](ch03-10_page_19_Picture_2.jpeg)
 
 **FIGURE 20–12. A.** Left anterior descending artery in the right anterior oblique (with cranial angulation) view of high-grade lesion in its midportion. **B.** Cineangiographic frame of left main coronary stenosis shows critical narrowing requiring immediate revascularization.
 
 Intracoronary OCT is a catheter-based optical imaging modality, providing high-resolution cross-sectional images of the coronary wall. OCT is an interferometric technique, employing near-infrared light. By analyzing the coherence of the light reflections, the OCT imaging catheter permits structual imaging with 10- to 20-mcm level of resolution. The OCT catheter is nearly identical to an IVUS catheter except that the fiberoptic imaging core replaces the ultrasound imaging core. The catheter is introduced into the artery over a guidewire exactly like the IVUS catheter. Images are acquired during rapid automated pullback after an injection of saline or contrast to displace blood and clear the viewing field. Compared to IVUS, OCT has superior resolution to evaluate certain features of the vulnerable plaque, such as plaque rupture, intracoronary thrombus, thin-capped fibroatheroma, and macrophages within the fibrous caps. For stent placement, OCT can visualize stent malapposition and tissue protrusion after stenting and neointimal hyperplasia at late follow-up. One drawback of OCT in comparison to IVUS is its shallow depth of penetration (1–2 mm), limiting assessment of plaque composition. Figure 20–13 show examples of OCT in coronary artery interventions. OCT may replace IVUS for certain applications, such as assessing stent deployment. Figure 20–14 compares coronary imaging modalities that can be used in the catheterization laboratory today.
 
-![](_page_19_Figure_5.jpeg)
+![](ch03-10_page_19_Figure_5.jpeg)
 
 **FIGURE 20–13.** Intravascular ultrasound (IVUS) and optical coherence tomography (OCT) imaging of the coronary artery. **A.** Images showing unopposed stent struts by OCT (left) and IVUS (right). Light is blocked by metal struts creating radial line shadows. On IVUS struts are bright white spots of high reflectance. **B.** OCT images of tissue protrusion between the asymmetrically distributed stent struts. This small change in tissue is not well seen by IVUS because of lower resolution of tissue. **C.** OCT showing linear lucency of coronary artery dissection (*arrows*). The IVUS image also shows separation of the internal layers from the media.
 
@@ -787,7 +787,7 @@ Coronary arteries may arise from anomalous locations, or a single coronary arter
 
 Minor complications of coronary angiography include local arterial complications, arterial occlusion or stenosis, hematoma formation, false aneurysm, and infection. Major complications are potentially lethal and include thromboembolic events or depression of myocardial function caused by infarction or acute ischemia.
 
-![](_page_21_Picture_9.jpeg)
+![](ch03-10_page_21_Picture_9.jpeg)
 
 **FIGURE 20–15. A.** Diagram of septal course of anomalous left coronary artery. **B.** Diagram of anterior course of anomalous left coronary artery. **C.** Diagram of retroaortic course of anomalous left coronary artery. **D.** Diagram of interarterial course of left main coronary artery. C, circumflex; L, left anterior descending artery; M, left main; S, septals. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.1
 
@@ -814,7 +814,7 @@ It is necessary to:
 - 3. Quantitate degree of mitral regurgitation.
 - 4. Quantitate mass of myocardium for regression of hypertrophy or other similar research studies.
 
-![](_page_22_Figure_16.jpeg)
+![](ch03-10_page_22_Figure_16.jpeg)
 
 **FIGURE 20–16. A.** Left ventricular wall silhouette in right anterior oblique (RAO) and left anterior oblique (LAO) views. **B.** Types of ventricular asynergy. **C.** Diagrammatic representation of the zones of the left ventricular inner wall in the RAO above and (LAO below left ventriculograms. **A,** and **B**, reproduced with permission from Herman MV, Heinle RA, Klein MD, et al: Localized disorders in myocardial contraction. Asynergy and its role in congestive heart failure. N Engl J Med 1967:227:225.
 
@@ -893,7 +893,7 @@ The generator provides the power source necessary to accelerate the electrons th
 
 The function of the x-ray tube is to convert electrical energy, provided from the generator, to an x-ray beam. Electrons emitted from a heated filament (cathode) are accelerated toward a rapidly rotating disk (anode) and at contact undergo conversion to x-radiation (Fig. 20–17). This process generates extreme heat. The heat capacity of an x-ray tube is a major limiting factor in the design of x-ray tubes. Only 0.2% to 0.6% of the electrical energy provided to the tube eventually is converted to x-rays. In addition to the exposure times (controlled by the generator system) and the size of the imaging field (controlled by the x-ray tube), two other factors of the x-ray determine the quality of x-ray for proper image exposures.
 
-![](_page_24_Picture_18.jpeg)
+![](ch03-10_page_24_Picture_18.jpeg)
 
 **FIGURE 20–17.** X-ray generation. Reproduced with permission from Baim D, Grossman W: *Grossman's Cardiac Catheterization, Angiography and Intervention*, 6th edition. Philadelphia: Lippincott Williams & Wilkins; 2000.
 
@@ -923,7 +923,7 @@ The catheterization laboratory environment should be made as safe as possible fo
 
 The primary x-ray beam, emanating from the undertable x-ray tube upward through the patient and onto the image intensifier, exposes all subjects to radiation in a dose geometrically inverse to the distance from the source. Radiation scatter occurs in all directions from the patient and is increased when the angle of the x-ray tube is set obliquely (Fig. 20–18). Acrylic shields and table-mounted lead aprons reduce exposure from x-ray scatter. Fluoroscopy generates approximately one-fifth the x-ray exposure of cineangiography. Complex catheterization procedures inherently have an increased total radiation exposure that should be considered as a limiting boundary for procedures requiring extensive intracardiac manipulation, such as coronary interventions, percutaneous heart valve replacements, or electrophysiology studies.10 Practices to ensure radiation dose limitation should be routinely used. Although no known threshold for radiation exposure exists to define specific risks, the National Council on Radiation Protection and Measurements indicates that no dose of more than 3 rem (roentgen equivalent man) should be allowed over a 3-month period.
 
-![](_page_25_Figure_16.jpeg)
+![](ch03-10_page_25_Figure_16.jpeg)
 
 **FIGURE 20–18.** Isoexposure curves representing ranges of relative exposure in the position usually occupied by the operator performing an angiographic procedure from the right arm. **A.** 30-degree left anterior oblique. **B.** 30-degree right anterior oblique. Reproduced with permission from Balter S, Sones FM Jr, Brancato R: Radiation exposure to the operator performing cardiac angiography with U-arm systems. *Circulation*. 1978 Nov;58:925-932.
 
@@ -1026,7 +1026,7 @@ For aortic valve flow:
 
 The method of calculating aortic valve area (AVA) from data obtained at catheterization for a patient with aortic stenosis (Fig. 20-19) is as follows, assuming CO = 4000 mL/min and HR = 60 beats/min.
 
-![](_page_28_Figure_2.jpeg)
+![](ch03-10_page_28_Figure_2.jpeg)
 
 **FIGURE 20—19.** Aortic valve area is determined from the planimetered area of the aortic valve gradient. The aortic valve gradient area (shaded area) is bounded by the systolic ejection period (SEP). AoP, aortic pressure; CF, correction factor or scale factor; LV, left ventricular pressure (scale 0–200 mm Hg); MVG, mean value gradient. See text for details. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.<sup>1</sup>
 
@@ -1069,7 +1069,7 @@ Mean valve gradient (MVG) = (area  $\times$  scale factor)/DFP (scale factor: 1 
 
 $$MVG = 9.46 \text{ cm}^2 \times \frac{3.9 \text{ mm Hg/1 cm}}{3.4 \text{ cm}} = 10.85 \text{ mm Hg}$$
 
-![](_page_28_Figure_20.jpeg)
+![](ch03-10_page_28_Figure_20.jpeg)
 
 **FIGURE 20–20.** Hemodynamic tracing used to calculate mitral valve area. The shaded area is the diastolic mitral valve gradient surrounded by the diastolic filling period (DFP). CF, correction factor or scale factor; LA, left atrial pressure; LV, left ventricular pressure (scale 0–40 mm Hg); MVG, mean value gradient. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.<sup>1</sup>
 
@@ -1187,9 +1187,7 @@ and the  $L \rightarrow R$  shunt is 6.8 L/min – 4.3 L/min or 2.5 L/min.
 
 If absolute flows are not required, the  $Q_{\rm p}/Q_{\rm S}$  ratio can be determined using saturations only as follows:
 
-{% raw %}
 $$\frac{Q_{\rm P}}{Q_{\rm S}} = \frac{{\rm SA}_{{\rm O}_2} - {\rm MV}_{{\rm O}_2}}{{\rm PV}_{{\rm O}_2} - {\rm PA}_{{\rm O}_2}}$$
-{% endraw %}
 
 where  $SA_{O_2}$  = systemic arterial  $O_2$  saturation;  $PV_{O_2}$  = pulmonary venous  $O_2$  saturation;  $MV_{O_2}$  = mixed venous  $O_2$  saturation;  $PA_{O_2}$  = pulmonary artery  $O_2$  saturation.
 
@@ -1203,11 +1201,11 @@ $$\frac{Q_{\rm P}}{Q_{\rm S}} = \frac{98 - 71}{98 - 81} = \frac{27}{17} = 1.6$$
 
 Simultaneous RV and RA pressures (Fig. 20–21) demonstrate the correspondence of the atrial contraction a wave and the v wave (caused by venous return to the right atrium while the tricuspid valve is closed) to the RV pressure tracing. Following the a wave is the X descent and
 
-![](_page_30_Figure_40.jpeg)
+![](ch03-10_page_30_Figure_40.jpeg)
 
 **FIGURE 20–21.** Right atrial (RA) and right ventricular (RV) tracings in a normal patient. Notch of ringing or overshoot on RV pressure rise (*closed arrow*). Ringing and overshoot of decline in RV pressure at early diastole (*open arrow*). a, atrial wave; v, ventricular filling wave. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.<sup>1</sup>
 
-![](_page_31_Figure_2.jpeg)
+![](ch03-10_page_31_Figure_2.jpeg)
 
 **FIGURE 20–22.** Simultaneous left atrial (LA) and pulmonary capillary wedge (PCW) tracings. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.1
 
@@ -1221,11 +1219,11 @@ The simultaneous PCW pressure and the LA pressure measured through a transseptal
 
 The femoral arterial pressure measured through the side arm of the femoral arterial sheath is matched against LV pressure in the pigtail catheter 1 Fr size smaller (Fig. 20–23). These pressures normally
 
-![](_page_31_Figure_9.jpeg)
+![](ch03-10_page_31_Figure_9.jpeg)
 
 **FIGURE 20–23.** *Left,* Simultaneous Ao and LV recorded from a micromanometer high-fidelity dual transducer catheter. Note small impulse gradient of a normal LV outflow tract. *Right*, Simultaneous hemodynamic tracings of femoral artery (FA) pressure, taken through the side arm of the 8 Fr sheath and central aortic (Ao) pressures. Ao pressure is obtained through the 7-Fr pigtail catheter. The overshoot of the FA pressure (*arrow*) and lag in the pressure upstroke are the normal characteristics for the femoral tracings. Reproduced with permission from Kern MJ, Lim MJ, Sorajja P: *The Cardiac Catheterization Handbook*, 6th edition. Philadelphia: Elsevier; 2016.1
 
-![](_page_31_Figure_11.jpeg)
+![](ch03-10_page_31_Figure_11.jpeg)
 
 **FIGURE 20–24.** Left ventricular (LV) and left atrial (LA) pressures showing large V wave of severe mitral regurgitation.
 
@@ -1241,11 +1239,11 @@ The *v* wave on an LA or PCW pressure tracing usually is associated with signifi
 
 Both aortic stenosis (Fig. 20–25) and hypertrophic obstructive cardiomyopathy (Fig. 20–26) produce large pressure gradients across the LV outflow tract. Specific characteristics of the pressure waveforms differentiate the pathology that generates the gradient.
 
-![](_page_31_Figure_19.jpeg)
+![](ch03-10_page_31_Figure_19.jpeg)
 
 **FIGURE 20–25.** Simultaneous left ventricular (LV) (*yellow*) and aortic (*red*) pressure from dual lumen pigtail catheter across the aortic valve demonstrating large pressure gradient and characteristic features of slow aortic upstroke of delayed LV ejection of the stenosis.
 
-![](_page_32_Figure_2.jpeg)
+![](ch03-10_page_32_Figure_2.jpeg)
 
 **FIGURE 20–26.** Hemodynamic tracings of patient with hypertrophic obstructive cardiomyopathy. *Left side* of tracing shows large intracavitary gradient, and on pullback from distal left ventricle (LV) to mid/proximal LV, the gradient disappears, consistent with proximal-LV cavity (ie, subvalvular) obstruction.
 
@@ -1255,7 +1253,7 @@ Hypertrophic obstructive cardiomyopathy produces asymmetric septal wall thickeni
 
 Simultaneous LV and PCW pressures demonstrate a mitral valve gradient throughout diastole. The *a* wave is absent in this patient in atrial fibrillation. As can be seen, mitral valve gradients are strongly influenced by heart rate. Large *v* waves in the PCW tracing represent LV pressure transmitted backward through an incompetent mitral valve. The *v* wave (up to 60 mm Hg) occurs on the downstroke of the LV pressure in a patient with mitral regurgitation (Fig. 20–27).
 
-![](_page_32_Figure_7.jpeg)
+![](ch03-10_page_32_Figure_7.jpeg)
 
 **FIGURE 20–27.** Influence of heart rate (diastolic period) on mitral valve gradient. The mitral stenosis gradient changes with heart rate (RR interval). **A.** Short RR interval is associated with gradient (shaded area) of 22 mm Hg. **B.** Long RR interval has a mean gradient of 29 mm Hg. When computing mean valve area in atrial fibrillation, average 10 beats. LA, left atrial pressure; LV, left ventricular pressure. Reproduced with permission from Kern MJ, Aguirre F: Interpretation of cardiac pathophysiology from pressure waveform analysis: mitral valve gradients: Part I, *Cathet Cardiovasc Diagn*. 1992 Aug;26:308-315.
 
@@ -1364,15 +1362,15 @@ The rationale for measuring coronary blood flow and pressure arises from the fai
 
 Coronary angiography produces a two-dimensional silhouette image of the three-dimensional vascular lumen. Angiography does not provide vascular wall detail sufficient to characterize plaque size, length, and eccentricity. The eccentric lumen produces conflicting degrees of angiographic narrowing when viewed from different angulations, causing uncertainty related to lumen size and its impact on coronary blood flow. Moreover, there are at least six morphologic features that determine resistance to flow, most of which cannot be measured with the angiogram or even IVUS (Fig. 20–28).
 
-![](_page_35_Figure_7.jpeg)
+![](ch03-10_page_35_Figure_7.jpeg)
 
-![](_page_35_Picture_8.jpeg)
+![](ch03-10_page_35_Picture_8.jpeg)
 
-![](_page_35_Figure_9.jpeg)
+![](ch03-10_page_35_Figure_9.jpeg)
 
-![](_page_35_Figure_10.jpeg)
+![](ch03-10_page_35_Figure_10.jpeg)
 
-![](_page_35_Figure_11.jpeg)
+![](ch03-10_page_35_Figure_11.jpeg)
 
 [Pd/Rd] [Pa/Ra], Rd = Ra, when R is minimal, and fixed then FFR = Pd/Pa at hyperemia FFR =
 
@@ -1386,11 +1384,11 @@ Coronary blood flow can increase from a resting level to a maximum depending on 
 
 Significant atherosclerotic stenosis produces epicardial conduit resistance. In parallel with resistance to flow, viscous friction, flow separation forces, and flow turbulence at the site of the stenosis produce pressure loss at the stenosis. The pressure loss increases with increasing coronary flow along an exponential pressure-flow relationship of the specific coronary stenosis resistance18 (Fig. 20–30). In response to the loss of perfusion pressure and flow to the distal microcirculation bed, precapillary resistance vessels (R2) dilate to maintain satisfactory basal flow appropriate for myocardial oxygen demand. However, there exists an absolute poststenotic myocardial perfusion pressure threshold below which myocardial ischemia occurs. The hemodynamic significance of a given stenosis can be measured by the pressure-flow relationship using sensor angioplasty guidewires.19
 
-![](_page_36_Figure_6.jpeg)
+![](ch03-10_page_36_Figure_6.jpeg)
 
 **FIGURE 20–29.** Coronary circulation. R1, R2, R3, epicardial, arteriolar, and microvascular resistance, respectively.
 
-![](_page_36_Figure_8.jpeg)
+![](ch03-10_page_36_Figure_8.jpeg)
 
 **FIGURE 20–30.** Coronary pressure-flow relationships for two stenoses of the same angiographic severity. *Top, Δ*P versus coronary flow. *Bottom,* Absolute distal coronary pressure Pd versus flow. Increasing flow produces marked loss of Pd as well as an increase in *Δ*P. The loss of Pd in absolute terms determines myocardial perfusion pressure (Pd venous pressure) and the potential for inducible ischemia. *Δ*P, pressure gradient (aortic-distal coronary pressure); Pd , distal coronary pressure.
 
@@ -1410,7 +1408,7 @@ If the myocardial bed resistances are induced pharmacologically to maximal hyper
 
 $$FFR = (P_d - P_v)/(P_a - P_v)$$
 
-![](_page_37_Figure_2.jpeg)
+![](ch03-10_page_37_Figure_2.jpeg)
 
 **FIGURE 20–31.** Method of measuring fractional flow reserve (FFR). *Top,* Diagram of coronary artery and pressure wire across stenosis (*middle*). *Bottom,* FFR tracing phasic and mean pressure signals used to measure FFR, calculated as the ratio of distal coronary pressure (Pd) to aortic pressure (Pa) at maximal hyperemia, which is equal to 0.79, the point of lowest Pd/Pa ratio.
 
@@ -1422,7 +1420,7 @@ An FFR value of 0.6 means that the maximum myocardial flow across the stenosis i
 
 The concept of FFR has been thoroughly examined in both experimental and clinical studies. Unlike most other physiologic indexes, FFR has a normal value of 1.0 for every patient and every coronary artery. Despite findings in animal studies defining an effect of heart rate and arterial pressure, human studies did not show significant changes in FFR with changes in heart rate, blood pressure, or contractility.22 FFR has a high reproducibility and low intraindividual variability. Moreover, FFR, unlike CFR, is independent of sex or coronary artery disease risk factors such as hypertension and diabetes and has less variability with common doses of adenosine. FFR reflects both antegrade and collateral myocardial perfusion rather than merely transstenotic pressure loss (ie, a stenosis pressure gradient). Because it is calculated only at peak hyperemia, FFR is also differentiated from CFR by being largely independent of basal flow, driving pressure, heart rate, systemic blood pressure, or status of the microcirculation (Fig. 20–32). The FFR, but not the resting pressure or hyperemic pressure gradient, is strongly related to provocable myocardial ischemia, demonstrated by comparisons to different clinical stress testing modalities in patients with stable angina.
 
-![](_page_37_Figure_8.jpeg)
+![](ch03-10_page_37_Figure_8.jpeg)
 
 **FIGURE 20–32.** Reproducibility of fractional flow reserve (FFR) versus coronary vasodilatory reserve (CVR) for changing heart rate, blood pressure, and contractility. Circles, contractility; diamonds, mean arterial pressure; FFR, fractional flow reserve; squares, duplicate measurement; triangles, heart rate. Reproduced with permission from de Bruyne B, Bartunek J, Sys SU, et al: Simultaneous coronary pressure and flow velocity measurements in humans. Feasibility, reproducibility, and hemodynamic dependence of coronary flow velocity reserve, hyperemic flow versus pressure slope index, and fractional flow reserve. *Circulation*. 1996 Oct 15;94:1842-1849.22
 
@@ -1446,7 +1444,7 @@ Unlike FFR, CFR is subject to variations in hemodynamics that may alter resting 
 
 CFR cannot be used for assessment of lesion severity. Tachycardia increases basal flow; therefore, CFR is reduced by 10% for every 15 heart beats.23 Increasing mean arterial pressure reduces maximal vasodilatation, thus reducing hyperemia with less alteration in basal flow. CFR may be reduced in patients with essential hypertension or aortic stenosis. In some patients with moderate coronary artery disease, the stenotic configuration and surrounding vessel segments are subject to vasomotor stimuli. Thus vasoconstrictor, neurologic, or humoral influences, endothelial dysfunction, and extracardiac vasoconstrictor stimuli may produce dynamic or episodic ischemia-related symptoms with activities of daily life such as exercise, emotional stress, or adrenergic stimulation. The variability in CFR in nonobstructed arteries may also be due to age.25 Table lists pathologies associated with impairment of the microcirculation.
 
-![](_page_38_Figure_10.jpeg)
+![](ch03-10_page_38_Figure_10.jpeg)
 
 Abnormal vascular reactivity
 
@@ -1478,13 +1476,13 @@ For FFR, the guidewire is advanced in the guide catheter to the coronary ostium,
 
 For flow velocity, the sensor tip is advanced at least 5 to 10 artery-diameter lengths (> 2 cm) beyond the stenosis to measure reestablished laminar flow. Resting flow velocity data are recorded. Induction of coronary hyperemia by IC or IV adenosine is performed with continuous recording peak hyperemic flow velocity. CFR is computed as maximal
 
-![](_page_38_Figure_26.jpeg)
+![](ch03-10_page_38_Figure_26.jpeg)
 
 **FIGURE 20–33.** Pressure signals used to calculate fractional flow reserve (FFR). Screen from FFR monitor showing colored signals of Pa (*red*) and Pd (*green*) for FFR of 0.72. Mean aortic pressure (Pa) and distal coronary pressure (Pd) are recorded at rest and then during hyperemia induced by adenosine (in this case intracoronary; *arrow*). The nadir of distal pressure is used for the FFR calculation.
 
-![](_page_39_Figure_2.jpeg)
+![](ch03-10_page_39_Figure_2.jpeg)
 
-![](_page_39_Figure_3.jpeg)
+![](ch03-10_page_39_Figure_3.jpeg)
 
 **FIGURE 20—34. A.** Coronary flow velocity signals obtained in a normal circumflex artery (CFX) of a patient undergoing angioplasty of the right coronary artery. The top half represents continuous flow-velocity signals in real time. The electrocardiogram, aortic pressure, and spectral flow signals are provided from top to bottom. The scale is 0 to 120 cm/s. S and D periods are demarcated by the electrocardiogram. **B.** The trend plot of the continuous flow velocity measurement is shown in the right-hand panel on the lower tracing. After intracoronary adenosine administration, average peak velocity increased from 11 to 29 cm/s, producing a coronary flow reserve of 2.6. The duration of hyperemia is 45 seconds. The trend velocity scale is 0 to 40 cm/s. The time base is 90 seconds. D, diastolic; S, systolic. Reproduced with permission from Kern MJ, de Bruyne B, Pijls NH: From research to clinical practice: current role of intracoronary physiologically based decision making in the cardiac catheterization laboratory. *J Am Coll Cardiol*. 1997 Sep;30:613–620.
 
@@ -1492,7 +1490,7 @@ hyperemic to basal average peak velocity (Figs. 20–34 and Fig. 20–35). Poor 
 
 The safety of IC sensor-wire measurements has been excellent, as reported by Qian and coworkers<sup>26</sup> in 906 patients. Complications included severe transient bradycardia after IC adenosine (1.7%), coronary spasm during passage of the Doppler guidewire (1%), and ventricular fibrillation during the procedure (0.2%). All complications could easily be managed medically.
 
-![](_page_39_Figure_7.jpeg)
+![](ch03-10_page_39_Figure_7.jpeg)
 
 FIGURE 20—35. Phasic and mean pressure signals used to measure fractional flow reserve (FFR), calculated as the ratio of distal coronary pressure (Pd) to aortic pressure (Pa) at maximal hyperemia, which is equal to 0.78 in this example. For reference to coronary flow, a velocity signal is shaded and shown at the bottom to identify the time of maximal hyperemia. The velocity signal is only available in combined sensor wire studies. CVR, coronary vasodilatory reserve. Used with permission from Dr. Bernard de Bruyne.
 
@@ -1526,7 +1524,7 @@ In a search to simplify the physiologic lesion assessment methods and increase u
 
 Sen et al<sup>33</sup> showed in 157 lesions that iFR had good correlation to FFR (r = 0.90, P < .001). The correlation was maintained (r > 0.85) in a
 
-![](_page_40_Figure_12.jpeg)
+![](ch03-10_page_40_Figure_12.jpeg)
 
 FIGURE 20—36. Thermodilution-derived transit time curves at baseline and during maximal hyperemia.
 
@@ -1610,7 +1608,7 @@ Three prospective randomized trials have demonstrated the safety and efficacy of
 - comprised a reference group. All patients were followed for 5 years (Fig. 20–37). The results showed that it was safe to defer PCI on lesions determined to be nonischemic by FFR and continue medical therapy only for CAD.
 - 2. The FAME Trial41 (Fractional Flow Reserve versus Angiography for Guiding Coronary Intervention) was a prospective randomized trial that enrolled 1005 patients with multivessel coronary artery disease (at least two vessels with a 50% angiographic stenosis). Patients were randomized to one of two revascularization strategies, either an angiographically guided PCI group where drug-eluting stents were deployed in all lesions identified or an FFR-guided group having a stent placed in only those lesions producing an FFR of 0.80 or less. The
 
-![](_page_42_Figure_12.jpeg)
+![](ch03-10_page_42_Figure_12.jpeg)
 
 **FIGURE 20–37.** DEFER 5-year follow-up event rates. *Top*, Kaplan-Meier survival curves for freedom from adverse cardiac events during 5 years follow-up for the three groups. *Bottom,* Cardiac death and acute myocardial infarction rate in the three groups after a follow-up of 5 years. Reproduced with permission from Pijls NH1, van Schaardenburgh P, Manoharan G, et al: Percutaneous coronary intervention of functionally nonsignificant stenosis: 5-year follow-up of the DEFER Study. *J Am Coll Cardiol*. 2007 May 29;49:2105-2111.40
 
@@ -1625,15 +1623,15 @@ The DEFER trial examined the outcome of deferring revascularization of a coronar
 
 The superior outcome of FFR-guided PCI for patients with multivessel CAD was reported by Tonino et al41 for the FAME I study. These investigators addressed the hypothesis that a physiologically guided
 
-![](_page_43_Figure_8.jpeg)
+![](ch03-10_page_43_Figure_8.jpeg)
 
 **FIGURE 20–38.** Kaplan Meier survival curves for the 1-year follow-up of the FAME patients. **A**. Event-free survival for major adverse cardiac events was significant at 1 year. No differences in event-free survival for death (**B**), myocardial infarction (MI) (**C**), or coronary artery bypass grafting/percutaneous coronary intervention (PCI) (**D**). FFR, fractional flow reserve. Reproduced with permission from Tonino PA, De Bruyne B, Pijls NH, et al: Fractional flow reserve versus angiography for guiding percutaneous coronary intervention. *N Engl J Med* 2009 Jan 15;360:213-224.41
 
-![](_page_44_Figure_2.jpeg)
+![](ch03-10_page_44_Figure_2.jpeg)
 
-![](_page_44_Figure_3.jpeg)
+![](ch03-10_page_44_Figure_3.jpeg)
 
-![](_page_44_Figure_4.jpeg)
+![](ch03-10_page_44_Figure_4.jpeg)
 
 **FIGURE 20–39.** FAME 2 Study comparing optimal medical therapy (OMT) to percutaneous coronary intervention (PCI) plus OMT. Two-year followup. Landmark analysis excluding the first 7 days after PCI demonstrated that fractional flow reserve—guided PCI had a significantly lower rate of the primary endpoint (death, MI, or urgent revascularization) (**A**) and a lower rate of death or MI (**B**). Reproduced with permission from De Bruyne B, Fearon WF, Pijls NH, et al: Fractional flow reserve—quided PCI for stable coronary artery disease. *N Engl J Med*. 2014 Sep 25;371:1208-1217.
 
@@ -1674,7 +1672,7 @@ CABG = coronary artery bypass surgery; FFR = fractional flow reserve; FU = durat
 
 Abbreviations: CABG, coronary artery bypass surgery; FFR, fractional flow reserve; FU, duration of follow-up; OMT, optimal medical therapy; PCI, percutaneous coronary intervention.
 
-![](_page_46_Figure_2.jpeg)
+![](ch03-10_page_46_Figure_2.jpeg)
 
 FIGURE 20–40. Kaplan—Meier mortality curves showing percent survival (A) and major adverse cardiac events (MACE; B) in the two study groups. There is no difference between the nonsurgical and surgical groups. FFR, fractional flow reserve. Reproduced with permission from Hamilos M, Muller O, Cuisset T, et al: Long-term clinical outcome after fractional flow reserve—guided treatment in patients with angiographically equivocal left main coronary artery stenosis. *Circulation*. 2009 Oct 13;120:1505–1512.<sup>44</sup>
 
@@ -1703,7 +1701,7 @@ A normal FFR is indicative of reversal of myocardial perfusion defects in patien
 
 The collateral circulation can be described by intracoronary pressure and flow relationships. Ipsilateral collateral flow and contralateral arterial responses have been described in numerous studies using both pressure and flow to provide new information regarding mechanisms, function, and clinical significance of collateral flow in patients and provide new insights into coronary artery disease. The reader is referred to excellent works elsewhere for details.<sup>52,53</sup>
 
-![](_page_47_Figure_2.jpeg)
+![](ch03-10_page_47_Figure_2.jpeg)
 
 **FIGURE 20–41.** Values of fractional flow reserve (FFR) before and after angioplasty for myocardial infarction according to results of sestamibi single-photon emission computed tomography (SPECT) myocardial perfusion imaging in patient population as a whole (**A**) and in patients with truly positive and truly negative SPECT imaging (**B**). PTCA, percutaneous transluminal coronary angioplasty. Reproduced with permission from De Bruyne B, Pijls NH, Bartunek J, et al: Fractional flow reserve in patients with prior myocardial infarction. *Circulation*. 2001 Jul 10;104:157-162.50
 
@@ -1715,7 +1713,7 @@ Measurements of coronary physiology strongly complement coronary luminography an
 
 We would like to thank Dr. Spencer King, who contributed to the previous version of this chapter in the 13th edition.
 
-![](_page_47_Figure_9.jpeg)
+![](ch03-10_page_47_Figure_9.jpeg)
 
 **FIGURE 20–42. A.** Baseline rest and dipyridamole (DP)-stress vertical long-axis single-photon emission computed tomography (SPECT) images and 10-week follow-up rest images are shown from a patient with anterior myocardial infarction who received thrombolytic therapy. When DP stress is paired with initial rest images, there is a fixed perfusion defect in the anteroapical wall. When DP stress is paired with the delayed rest images, SPECT is reclassified as reversible. **B.** Rest and post-DP stress myocardial contrast echocardiography images from the apical four-chamber view of the same patient demonstrate an apical-lateral perfusion defect during DP that was not present at rest, indicating reversibility. **C.** Angiogram of the patient showing an 84% lesion in the left anterior descending coronary artery. **D.** Fractional flow reserve (FFR) tracings showing an FFR of 0.48. QCA, quantitative coronary angiography. Reproduced with permission from Samady H, Lepper W, Powers ER et al: Fractional flow reserve of infarct-related arteries identifies reversible defects on noninvasive myocardial perfusion imaging early after myocardial infarction. *J Am Coll Cardiol*. 2006 Jun 6;47:2187-2193.51
 

@@ -30,7 +30,7 @@ First-pass CE-MRA with gadolinium-based contrast agents has gained widespread ac
 
 Technical advances, such as synchronization of the arrival of contrast agent with magnetic resonance (MR) acquisition,8 moving bed technology for multistation studies,9 parallel imaging,10 and k-space sharing methods11 have dramatically reduced acquisition times and paved the way for whole-body MRA. Whole-body MRA is well suited for repeated clinical examinations in patients with systemic diseases such as vasculitis or atherosclerosis. Whole-body MRA (Fig. 22–1) is feasible and accurate for simultaneous evaluations from the carotid down to lower limb arteries.12 Compared with invasive angiography, the sensitivity and specificity of whole-body MRA for the detection of significant arterial stenosis were both 96%, similar to the accuracy
 
-![](_page_1_Picture_3.jpeg)
+![](ch03-12_page_1_Picture_3.jpeg)
 
 **FIGURE 22–1.** Whole-body magnetic resonance angiography using coronal three-dimensional, T1-weighted, gradient recalled echo, fast low-angle shot imaging. Images were obtained with a rolling table platform and five contiguous stations in a 31-year-old volunteer. The arterial signal is improved with venous compression. Modified with permission from Herborn CU, Ajaj W, Goyen M, et al: Peripheral vasculature: whole-body MR angiography with midfemoral venous compression--initial experience. *Radiology*. 2004 Mar;230:872-878.
 
@@ -74,7 +74,7 @@ MRA has emerged as one of the noninvasive methods of choice for carotid imaging,
 
 With the advent of MDCT, the whole length of the carotid artery, from the aortic arch to the circle of Willis, can be imaged with high spatial resolution in a true arterial phase, limiting adjacent venous enhancement (Fig. 22–3). CTA demonstrates higher sensitivities and specificities than TOF MRA, but lower than those for CE-MRA for the evaluation of the degree of carotid stenosis (see Table 22–1).30 Although spatial resolution is higher than for MRA, the lower specificity of CTA can be explained by the difficulty in evaluating the degree of
 
-![](_page_3_Picture_2.jpeg)
+![](ch03-12_page_3_Picture_2.jpeg)
 
 **FIGURE 22–2.** Severe stenosis (*arrows*) of left internal carotid artery in a 72-year-old patient evidenced with contrast-enhanced magnetic resonance angiography (**B**) and 3D time-of-flight magnetic resonance angiography (**C**). Stenosis was not detectable with conventional digital subtraction angiography in this projection (**A**). Reproduced with permission from Anzalone N, Scomazzoni F, Castellano R, et al: Carotid artery stenosis: intraindividual correlations of 3D time-of-flight MR angiography, contrast-enhanced MR angiography, conventional DSA, and rotational angiography for detection and grading. *Radiology*. 2005 Jul;236:204-213.27
 
@@ -88,7 +88,7 @@ In summary, MRA and CTA of the carotid arteries are readily accessible, and thei
 
 Aortic dissection is a life-threatening disease in which early diagnosis and treatment is critical for survival (see Chap. 93).32 The yearly incidence of aortic dissection is 10 to 20 cases per million. Misdiagnosis
 
-![](_page_3_Picture_9.jpeg)
+![](ch03-12_page_3_Picture_9.jpeg)
 
 **FIGURE 22–3.** Contrast-enhanced computed tomography of the supra-aorta and intracranial vessels. Maximum-intensity projection (**A**) and volume-rendering technique (**B**) both reveal a complex ulcerated atherosclerotic plaque of the proximal right internal carotid artery associated with a high-grade stenosis (*arrows*). Used with permission from B. Ertl-Wagner, Ludwig-Maximilians-University, Munich, Germany.
 
@@ -113,9 +113,9 @@ motion artifacts that can mimic the presence of dissection.36 CTA has a sensitiv
 
 MRA is an accurate and reliable alternative imaging technique for the diagnosis of aortic dissection. Acquisition times have been significantly shortened by implementation of faster and stronger gradients in recent MR systems. The thoracic aorta and major aortic branches can now be imaged in a few seconds with 3D CE-MRA38 (Fig. 22–4) or in a few minutes using noncontrast bright-blood sequences such as steady-state gradient echo sequences. As with invasive angiography, the diagnosis of aortic dissection is based on visualization of an intimal flap and two distinct aortic lumens. Velocity-encoding sequences can help to differentiate true and false lumens and to determine whether aortic side branches are perfused by the true or false lumen. Black-blood sequences offer high spatial and contrast resolution and are well suited for the analysis of the aortic wall. They can identify intramural aortic hematoma as a crescentic aortic wall thickening (*≥* 5 mm) without intimal flap or tear. Of all the imaging techniques, MRI has the highest sensitivity and
 
-![](_page_4_Picture_4.jpeg)
+![](ch03-12_page_4_Picture_4.jpeg)
 
-![](_page_4_Picture_5.jpeg)
+![](ch03-12_page_4_Picture_5.jpeg)
 
 **FIGURE 22–4.** Contrast-enhanced computed tomography images of aortic dissection. Images from a 69-year-old woman demonstrate an acute dissection at the level of the aortic arch (**A**). The outer false lumen (F) wraps around the true lumen (T). (**B**) Images from a 59-year-old man with chronic dissection of the thoracic aorta. Eccentric flap calcification is present along the true lumen side of the flap. The false lumen contains thrombus (*arrowheads*) and is larger than the true lumen. Reproduced with permission from LePage MA, Quint LE, Sonnad SS, et al: Aortic dissection: CT features that distinguish true lumen from false lumen. *AJR Am J Roentgenol*. 2001 Jul;177:207-211.37
 
@@ -143,11 +143,11 @@ The most common initial investigation in patients presenting with suspected peri
 
 MRA is indicated for the preoperative evaluation of patients with lower limb ischemia. Similar to invasive angiography, MRA can depict the location and degree of stenosis of the peripheral arteries. TOF
 
-![](_page_5_Picture_9.jpeg)
+![](ch03-12_page_5_Picture_9.jpeg)
 
 **A**
 
-![](_page_5_Picture_11.jpeg)
+![](ch03-12_page_5_Picture_11.jpeg)
 
 **FIGURE 22–5.** Contrast-enhanced computed tomography angiogram from an asymptomatic 65-year-old man with an infrarenal abdominal aortic aneurysm with mural thrombus. (**A**) Three-dimensional reconstruction and (**B**) curved planar reconstruction of the aorta to the femoral artery. Used with permission from M.C. Williams, Royal Infirmary of Edinburgh and University of Edinburgh, Edinburgh, United Kingdom.
 
@@ -173,13 +173,13 @@ Early detection of renovascular disease has been previously hampered by the lack
 
 The diagnostic accuracy of CTA for the evaluation of peripheral vessels compares well with MRA and invasive angiography. Shorter acquisition times, thinner slices, and higher spatial resolution have enabled rapid scanning of the whole vascular tree with small volumes of iodinated intravenous contrast (Fig. 22–7). The main clinical indications of CTA for imaging the lower extremities include the evaluation of arterial and aneurysmal disease, patency and integrity of bypass grafts, traumatic arterial injury, and acute ischemia.56 More recently, CTA of the peripheral vasculature has been widely incorporated into the assessment of patients considered for percutaneous valve replacement (eg, transcatheter aortic valve replacement [TAVR]) or other percutaneous procedures.57 Here, it can assess whether peripheral access is feasible but also help to measure the aortic valve annulus, the height of the coronary arteries above the valve, and the degree of calcification in the left ventricular outflow tract. Studies using CTA in peripheral vascular disease report sensitivity and specificity rates of greater than 95% for the detection of stenosis (see Table 22–2).58 Once more this diagnostic accuracy is limited in the presence of severe and diffuse calcifications,59 although CTA seems of particular use in the evaluation of calf vessels of patients with proximal occlusions, outperforming conventional
 
-![](_page_6_Picture_10.jpeg)
+![](ch03-12_page_6_Picture_10.jpeg)
 
-![](_page_6_Picture_11.jpeg)
+![](ch03-12_page_6_Picture_11.jpeg)
 
 **FIGURE 22–6.** A 67-year-old man suffering from intermittent claudication. Both contrast-enhanced magnetic resonance angiography (**A**) and digital subtraction angiography (**B**) show significant stenosis in the right common iliac artery (*arrow*) and in the right external iliac artery (*arrowhead*). Reproduced with permission from de Vries M, de Koning PJ, de Haan MW, et al: Accuracy of semiautomated analysis of 3D contrast-enhanced magnetic resonance angiography for detection and quantification of aortoiliac stenoses. *Invest Radiol*. 2005 Aug;40:495-503.
 
-![](_page_7_Picture_2.jpeg)
+![](ch03-12_page_7_Picture_2.jpeg)
 
 **FIGURE 22–7.** Computed tomography angiography of the peripheral vasculature in two patients being considered for transcatheter aortic valve replacement (TAVR). Maximum intensity projections of the vessels are displayed in relation to the bony structures of the pelvis. A 75-year-old man with good caliber peripheral vessels and minimal calcification (**A**) was felt to have suitable peripheral vessels and underwent successful TAVR using the femoral approach. By contrast a 68-year-old man was found to have small-caliber vessels (minimum 4.5 mm) with severe tortuosity and extensive near-circumferential calcification on a maximum intensity projection (**B**) and on angiographic images in the long-axis (**C**) and short-axis (**D**) views of the vessel. He was felt not suitable for a peripheral approach and instead underwent transaortic TAVR. Used with permission from M.R. Dweck and M.C. Williams, Royal Infirmary of Edinburgh and University of Edinburgh, Edinburgh, United Kingdom.
 
@@ -193,7 +193,7 @@ Although pulmonary x-ray angiography is the gold standard for the diagnosis of p
 
 CT pulmonary angiography (CTPA) is now the mainstay for the diagnosis of PE in many centers. CTPA (Fig. 22–8) has been proven to be an accurate, safe, noninvasive, rapid, and cost-effective technique for the direct detection and demonstration of intraluminal PE.62,63 In addition to the identification of pulmonary artery thrombus, CTPA can also provide information on secondary right heart strain.64 The sensitivity of spiral CT is on the order of 90% for central, lobar, or segmental PE (Table 22–3). The advent of MDCT provides the ability to analyze subsegmental PE, although the clinical importance of this finding remains uncertain.65 Current guidelines for the diagnosis of PE recommend CTPA alongside clinical probability assessment and D-dimer measurement.66,67 Low- or intermediate-risk patients should undergo D-dimer testing in order to avoid unnecessary CTPA, whereas high-risk or hemodynamically unstable patients should undergo direct imaging. Patients with a negative CTPA and clinical suspicion of venous thrombosis can be considered for compression venous ultrasonography. CT venography is no longer recommended because of the significant dose of radiation involved and lack of additional value compared to ultrasound.67 More recently, dual-energy CT assessments of lung perfusion have demonstrated potential in improving the diagnosis of acute and chronic PE.68,69 However, the utility of these novel techniques will need to be balanced against the added radiation exposure.
 
-![](_page_7_Figure_10.jpeg)
+![](ch03-12_page_7_Figure_10.jpeg)
 
 **FIGURE 22–8.** Pulmonary computed tomography angiography (CTA) acquired with a 16-detector computed tomography scanner in a 61-year-old woman with a high clinical probability of pulmonary embolism. CTA reveals large thromboembolic clots (*arrows*) on both sides confirming a massive pulmonary embolism. Used with permission from G. Le Gal, University Hospital, Brest, France.
 
@@ -222,7 +222,7 @@ Coronary artery angiography is covered in Chapter 16. Please refer to it.
 
 Atherosclerosis is characterized by accumulation of lipids, inflammatory cells, and connective tissue within the arterial wall. It is a chronic, progressive disease with a long asymptomatic phase. The first pathologic abnormality is the fatty streak, caused by accumulation of lipids and macrophages in the subendothelial space. These streaks can be observed in the aorta from as early as the second decade of life,75 and they develop over time into mature atherosclerotic plaques consisting of a central lipid core covered by an endothelialized fibrous cap containing vascular smooth muscle cells and connective tissue. As the plaque grows, the affected vessel expands outward so that the lumen diameter and thus blood flow are preserved in a process known as *positive remodeling*. 76 Consequently, even large plaques can be accommodated without producing symptoms that would result from luminal stenosis. Eventually, the artery can expand no further, and the plaque begins to encroach into the lumen of the vessel, hindering blood flow and causing angina at times of high demand. Atherosclerotic plaques
 
-![](_page_8_Figure_10.jpeg)
+![](ch03-12_page_8_Figure_10.jpeg)
 
 **FIGURE 22–9.** Three-dimensional, contrast-enhanced, high-resolution magnetic resonance angiography (MRA) of the pulmonary vasculature in a 55-year-old patient (**A, B**) revealing large thromboembolic clots in the central pulmonary artery tree on both sides (*arrows*). Using time-resolved MRA perfusion techniques and acquiring one data set every 1.1 seconds, significant perfusion defects in the upper left and right lower lobe become visible (**C,***arrowheads*). Used with permission from K. Nikolaou, Ludwig-Maximilians-University, Munich, Germany.
 
@@ -236,7 +236,7 @@ Here we will briefly review how CT, MRI, and hybrid imaging platforms might be u
 
 Atherosclerotic plaque MRI relies on the same fundamental principles as other MRI techniques, making use of differences in relaxation times (T1 and T2) and proton density to generate soft-tissue contrast and to provide detailed information about atherosclerotic plaque composition. This is increasingly being applied to the large and relatively immobile carotid arteries and thoracic aorta, with intensive research aimed at transferring these techniques into the coronary vasculature (Fig. 22–10).
 
-![](_page_9_Picture_7.jpeg)
+![](ch03-12_page_9_Picture_7.jpeg)
 
 **FIGURE 22–10.** Carotid magnetic resonance angiography (MRA) showing a severe stenosis of the left internal carotid artery (*arrow, left panel*). MRA was obtained with a contrast-enhanced, 3D, fast gradient echo and carotid-aortic arch-phased array coil. A large atherosclerotic plaque is detected on corresponding cross-sections of the left internal carotid artery using magnetic resonance black-blood sequences (*middle panels*; magnified views, *right panels*). Reproduced with permission from Fayad ZA, Fuster V: Clinical imaging of the high-risk or vulnerable atherosclerotic plaque. *Circ Res*. 2001 Aug 17;89:305-316.81
 
@@ -272,13 +272,13 @@ Arterial inflammation is a key driver of atherosclerosis and in particular the p
 
 In addition, 18F-fluoride is a PET tracer increasingly being used to measure the activity of calcific processes in the vasculature.129,130 18F-Fluoride preferentially binds regions of vascular microcalcification activity.131 These are beyond the resolution of CT, a technique that instead detects macroscopic calcium deposits. The difference is
 
-![](_page_11_Figure_2.jpeg)
+![](ch03-12_page_11_Figure_2.jpeg)
 
 **FIGURE 22–11.** 18F-Fluorodeoxyglucose positron emission tomography/computed tomography image of aorta before (*top*) and during (*bottom*) antiatherosclerosis therapy. Note reduction in fluorodeoxyglucose uptake in the aortic wall under statin treatment. Used with permission from J. Rudd, Division of Cardiovascular Medicine, University of Cambridge, Cambridge, United Kingdom.
 
 potentially important given that macroscopic calcium imparts stability to the plaque, whereas microcalcification is consistently associated with high-risk coronary lesions and increased risk of rupture.132 Two clinical trials have explored 18F-fluoride uptake in the coronary vasculature, demonstrating that unlike 18F-FDG, 18F-fluoride uptake can be readily detected in these vessels with excellent signal-to-noise (Fig. 22–12). In the first trial increased tracer uptake localized to individual plaques and
 
-![](_page_11_Figure_5.jpeg)
+![](ch03-12_page_11_Figure_5.jpeg)
 
 **FIGURE 22–12.** 18F-Fluoride positron emission tomography/computed tomography (PET/CT) of the left anterior descending artery (*top row*) and a saphenous vein graft (*bottom row*). Individual contrast enhanced CT angiograms (*right*) and PET images (*center*) are shown alongside fused PET/CT images (*left*). Note the focal regions of increased 18F-fluoride activity as a marker of microcalcification activity and the different distribution to calcium deposits identified on CT.
 
