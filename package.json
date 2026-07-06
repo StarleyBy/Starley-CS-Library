@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "lunr": "^2.3.9"
+    "lunr": "^2.3.9",
+    "sharp": "^0.35.3"
   }
 }
