@@ -1,1 +1,115 @@
-{"categories":[{"id":"summary","title":"Summary","path":"books/summary","books":[{"folder":"mysummary","visibility":"admin-only"}]},{"id":"icu","title":"Intensive therapy","path":"books/icu","books":[{"folder":"bojar"},{"folder":"oxford"},{"folder":"Pilbeam"},{"folder":"marino"}]},{"id":"cardiac_surgery","title":"Cardiac Surgery","path":"books/cardiac-surgery","books":[{"folder":"cohn"},{"folder":"Kirklin5"},{"folder":"Spray6"},{"folder":"sellke"},{"folder":"Key-questions-in-congenital-cardiac-surgery"},{"folder":"Key-questions-in-cardiac-surgery"}]},{"id":"thoracic_surgery","title":"Thoracic Surgery","path":"books/thoracic-surgery","books":[{"folder":"Sugarbaker2"}]},{"id":"cardiology","title":"Cardiology","path":"books/cardiology","books":[{"folder":"Hurst"}]},{"id":"anatomy","title":"Anatomy","path":"books/anatomy","books":[{"folder":"mori"},{"folder":"wilcox"},{"folder":"Netter-Cardiothoracic-Anatomy"}]},{"id":"cardiovascular_system","title":"Cardiovascular System","path":"books/cardiovascular-system","books":[{"folder":"cardiovascular-system-glance"},{"folder":"handbook-of-cardiac-anatomy"}]},{"id":"cardiac echo","title":"Cardiac Echo","path":"books/cardiac-echo","books":[{"folder":"Echo6"}]},{"id":"ecg","title":"ECG","path":"books/ecg","books":[{"folder":"ECG_Interpretation_for_Everyone"},{"folder":"ECGs_Made_Easy"}]},{"id":"drugs","title":"Drugs","path":"books/drugs","books":[{"folder":"drugs-in-icu-oxford"},{"folder":"opie's-cardiovascular-drugs"}]},{"id":"guidelines","title":"Guidelines","path":"books/guidelines","books":[{"folder":"guide"},{"folder":"article"}]},{"id":"work","title":"Service","path":"books/work","books":[{"folder":"wolfson","visibility":"admin-only"},{"folder":"examen","visibility":"admin-only"}]}]}
+{
+  "categories": [
+    {
+      "id": "summary",
+      "title": "Summary",
+      "path": "books/summary",
+      "books": [
+        { "folder": "mysummary", "visibility": "admin-only" }
+      ]
+    },
+    {
+      "id": "icu",
+      "title": "Intensive therapy",
+      "path": "books/icu",
+      "books": [
+        { "folder": "bojar" },
+        { "folder": "oxford" },
+        { "folder": "Pilbeam" },    
+        { "folder": "marino" }
+      ]
+    },
+    {
+      "id": "cardiac_surgery",
+      "title": "Cardiac Surgery",
+      "path": "books/cardiac-surgery",
+      "books": [
+        { "folder": "cohn" },
+        { "folder": "Kirklin5" },
+        { "folder": "Spray6" },
+        { "folder": "sellke" },
+        { "folder": "Key-questions-in-congenital-cardiac-surgery" },
+        { "folder": "Key-questions-in-cardiac-surgery" }    
+      ]
+    },
+    {
+      "id": "thoracic_surgery",
+      "title": "Thoracic Surgery",
+      "path": "books/thoracic-surgery",
+      "books": [
+        { "folder": "Sugarbaker2" }
+     ]
+    },
+    {
+      "id": "cardiology",
+      "title": "Cardiology",
+      "path": "books/cardiology",
+      "books": [
+        { "folder": "Hurst" }
+     ]
+    },
+    {
+      "id": "anatomy",
+      "title": "Anatomy",
+      "path": "books/anatomy",
+      "books": [
+        { "folder": "mori" },
+        { "folder": "wilcox" },
+        { "folder": "Netter-Cardiothoracic-Anatomy" }
+      ]
+    },
+    {
+      "id": "cardiovascular_system",
+      "title": "Cardiovascular System",
+      "path": "books/cardiovascular-system",
+      "books": [
+            { "folder": "cardiovascular-system-glance" },
+            { "folder": "handbook-of-cardiac-anatomy" }
+      ]
+    },
+     {
+      "id": "cardiac echo",
+      "title": "Cardiac Echo",
+      "path": "books/cardiac-echo",
+      "books": [
+            { "folder": "Echo6" }
+      ]
+    },
+    {
+      "id": "ecg",
+      "title": "ECG",
+      "path": "books/ecg",
+      "books": [
+            { "folder": "ECG_Interpretation_for_Everyone" },
+            { "folder": "ECGs_Made_Easy" }
+      ]
+    },
+    {
+      "id": "drugs",
+      "title": "Drugs",
+      "path": "books/drugs",
+      "books": [
+            { "folder": "drugs-in-icu-oxford" },
+            { "folder": "opie's-cardiovascular-drugs" }
+      ]
+    },
+    {
+      "id": "guidelines",
+      "title": "Guidelines",
+      "path": "books/guidelines",
+      "books": [
+            { "folder": "guide" },
+            { "folder": "article" }
+      ] 
+    },
+    {
+      "id": "work",
+      "title": "Service",
+      "path": "books/work",
+      "books": [
+            { "folder": "wolfson", "visibility": "admin-only"  },
+            { "folder": "examen", "visibility": "admin-only"  }
+      ]
+    }
+  ]
+}
