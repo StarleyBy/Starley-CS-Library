@@ -1,6 +1,11 @@
 /**
  * Starley Manifest Editor
  * Logic for editing Quiz and Magazine manifests
+ *
+ * Features:
+ *  - CodeMirror (Raw JSON) <-> Form Editor real-time sync with validation guard
+ *  - Syntax highlighting for numbers and HTML/formatting tags in textareas
+ *  - Emoji toolbar for quick emoji insertion
  */
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -59,7 +64,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             tabSize: 2,
             lineWrapping: true
         });
-        
+
         state.jsonEditor.on('change', () => {
             if (document.querySelector('.me-tab-btn[data-tab="json"]').classList.contains('active')) {
                 try {
@@ -77,7 +82,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         try {
             const res = await fetch('library.json');
             const data = await res.json();
-            
+
             const booksMap = new Map();
             data.categories.forEach(cat => {
                 cat.books.forEach(book => {
@@ -85,9 +90,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                     booksMap.set(path, { ...book, categoryPath: cat.path, fullPath: path });
                 });
             });
-            
+
             state.books = Array.from(booksMap.values()).sort((a,b) => a.folder.localeCompare(b.folder));
-            
+
             state.books.forEach(book => {
                 const opt = document.createElement('option');
                 opt.value = book.fullPath;
@@ -104,28 +109,29 @@ document.addEventListener('DOMContentLoaded', async () => {
         els.selectType.addEventListener('change', _onBookChange);
         els.btnLoad.addEventListener('click', _loadManifest);
         els.btnNew.addEventListener('click', _createNewManifest);
-        
+
+        // Tab switching with JSON validation guard
         els.tabBtns.forEach(btn => {
             btn.addEventListener('click', () => {
                 if (btn.classList.contains('active')) return;
-                
+
                 const activeTab = document.querySelector('.me-tab-btn.active').dataset.tab;
-                
+
                 if (activeTab === 'json' && btn.dataset.tab === 'form') {
-                    // Try parsing JSON first to prevent tab switch if there's a syntax error
+                    // Validate JSON before allowing switch to Form Editor
                     try {
                         state.manifest = JSON.parse(state.jsonEditor.getValue());
                     } catch (e) {
-                        alert('JSON contains syntax errors! Please fix them before switching to Form Editor. / Ошибка в JSON! Пожалуйста, исправьте синтаксические ошибки перед переходом к Form Editor.');
+                        alert('JSON contains syntax errors! Please fix them before switching to Form Editor.\n\nОшибка в JSON! Пожалуйста, исправьте синтаксические ошибки перед переходом к Form Editor.');
                         return;
                     }
                 }
-                
+
                 els.tabBtns.forEach(b => b.classList.remove('active'));
                 els.tabContents.forEach(c => c.classList.remove('active'));
                 btn.classList.add('active');
                 document.getElementById(`me-tab-${btn.dataset.tab}`).classList.add('active');
-                
+
                 if (btn.dataset.tab === 'json') {
                     state.jsonEditor.setValue(JSON.stringify(state.manifest, null, 2));
                     state.jsonEditor.refresh();
@@ -140,7 +146,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         els.btnNext.addEventListener('click', () => _changePreviewIndex(1));
         els.btnDownload.addEventListener('click', _downloadJson);
         els.btnSaveGithub.addEventListener('click', () => els.githubModal.style.display = 'flex');
-        
+
         els.btnTokenCancel.addEventListener('click', () => els.githubModal.style.display = 'none');
         els.btnTokenSave.addEventListener('click', _saveToGithub);
 
@@ -158,7 +164,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     async function _onBookChange() {
         const bookPath = els.selectBook.value;
         const type = els.selectType.value;
-        
+
         state.currentType = type;
 
         // Show/hide language toggle based on type
@@ -171,7 +177,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         state.currentBook = state.books.find(b => b.fullPath === bookPath);
-        
+
         els.selectFile.innerHTML = '<option value="">Searching...</option>';
         els.selectFile.disabled = true;
 
@@ -182,18 +188,15 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            // In a real environment, we'd fetch the directory listing. 
-            // Here we'll guess or look into metadata.json
             const metaRes = await fetch(`${bookPath}/metadata.json`);
             const meta = await metaRes.json();
-            
+
             const files = [];
             if (type === 'quiz') {
                 const metaObj = Array.isArray(meta) ? meta[0] : meta;
                 if (metaObj?.quiz_sets) {
                     metaObj.quiz_sets.forEach(s => files.push(s.file));
                 }
-                // Also look for default quiz if not in sets
                 if (metaObj?.quiz && !files.includes('quiz.json')) files.push('quiz.json');
             } else if (type === 'magazine') {
                 files.push('magazine.json');
@@ -212,7 +215,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         state.currentFile = filePath;
         const url = state.currentType === 'library' ? 'library.json' : `${state.currentBook.fullPath}/${filePath}`;
-        
+
         try {
             const res = await fetch(url);
             state.manifest = await res.json();
@@ -260,10 +263,40 @@ document.addEventListener('DOMContentLoaded', async () => {
         state.jsonEditor.setValue(JSON.stringify(state.manifest, null, 2));
     }
 
+    // --- Content Retrieval with Validation ---
+
+    /**
+     * _getManifestContent()
+     * Returns the current manifest as a JSON string.
+     * If the JSON tab is active, retrieves from CodeMirror and warns if there are syntax errors.
+     * If the Form tab is active, serializes state.manifest.
+     * Returns null if user cancels on invalid JSON.
+     */
+    function _getManifestContent() {
+        const jsonTabActive = document.querySelector('.me-tab-btn[data-tab="json"]').classList.contains('active');
+        if (jsonTabActive) {
+            const raw = state.jsonEditor.getValue();
+            try {
+                JSON.parse(raw);
+                return raw;
+            } catch(e) {
+                const proceed = confirm(
+                    'Warning: The JSON currently contains syntax errors!\n\n' +
+                    'Downloading/saving invalid JSON may corrupt your manifest.\n\n' +
+                    'Click OK to proceed anyway, or Cancel to go back and fix the errors.'
+                );
+                return proceed ? raw : null;
+            }
+        }
+        return JSON.stringify(state.manifest, null, 2);
+    }
+
+    // --- Metadata Fields ---
+
     function _renderMetaFields() {
         els.metaFields.innerHTML = '';
         const type = state.currentType;
-        
+
         if (type === 'library') {
             els.sectionMeta.style.display = 'none';
             return;
@@ -273,7 +306,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (type === 'quiz') meta = state.manifest.meta;
         else if (type === 'metadata') meta = state.manifest[0];
 
-        const fields = type === 'quiz' ? ['title', 'book'] : 
+        const fields = type === 'quiz' ? ['title', 'book'] :
                       type === 'magazine' ? ['title', 'subtitle', 'cover'] :
                       ['title', 'russian_title', 'cover_image', 'authors'];
 
@@ -288,21 +321,21 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
 
         if (type === 'metadata') {
-            // Add versions toggle
+            // Versions toggle
             const vLabel = document.createElement('label');
             vLabel.textContent = 'Versions';
             vLabel.style.marginTop = '10px';
             vLabel.style.display = 'block';
             els.metaFields.appendChild(vLabel);
-            
+
             const vContainer = document.createElement('div');
             vContainer.className = 'me-versions-grid';
             vContainer.style.display = 'grid';
             vContainer.style.gridTemplateColumns = '1fr 1fr';
             vContainer.style.gap = '5px';
-            
+
             const versions = meta.versions || { original: true, russian: false, starley: false, hebrew: false };
-            meta.versions = versions; // Ensure it exists
+            meta.versions = versions;
 
             Object.keys(versions).forEach(v => {
                 const label = document.createElement('label');
@@ -310,19 +343,19 @@ document.addEventListener('DOMContentLoaded', async () => {
                 label.style.display = 'flex';
                 label.style.alignItems = 'center';
                 label.style.gap = '5px';
-                
+
                 const cb = document.createElement('input');
                 cb.type = 'checkbox';
                 cb.checked = !!versions[v];
                 cb.onchange = (e) => { versions[v] = e.target.checked; _syncFormToJson(); };
-                
+
                 label.appendChild(cb);
                 label.appendChild(document.createTextNode(v.charAt(0).toUpperCase() + v.slice(1)));
                 vContainer.appendChild(label);
             });
             els.metaFields.appendChild(vContainer);
 
-            // Add Feature Flags
+            // Feature Flags
             const fLabel = document.createElement('label');
             fLabel.textContent = 'Features';
             fLabel.style.marginTop = '10px';
@@ -336,17 +369,17 @@ document.addEventListener('DOMContentLoaded', async () => {
                 label.style.alignItems = 'center';
                 label.style.gap = '5px';
                 label.style.marginTop = '5px';
-                
+
                 const cb = document.createElement('input');
                 cb.type = 'checkbox';
                 cb.checked = !!meta[b];
-                cb.onchange = (e) => { 
-                    meta[b] = e.target.checked; 
+                cb.onchange = (e) => {
+                    meta[b] = e.target.checked;
                     if (b === 'quiz' && meta[b] && !meta.quiz_sets) meta.quiz_sets = [];
-                    _renderMetaFields(); // Re-render to show/hide quiz sets
-                    _syncFormToJson(); 
+                    _renderMetaFields();
+                    _syncFormToJson();
                 };
-                
+
                 label.appendChild(cb);
                 label.appendChild(document.createTextNode(`Has ${b.charAt(0).toUpperCase() + b.slice(1)}`));
                 els.metaFields.appendChild(label);
@@ -357,24 +390,24 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const qsContainer = document.createElement('div');
                 qsContainer.className = 'me-quiz-sets-container';
                 qsContainer.innerHTML = '<h4>Quiz Sets</h4>';
-                
+
                 const sets = meta.quiz_sets || [];
                 sets.forEach((set, idx) => {
                     const setEl = document.createElement('div');
                     setEl.className = 'me-quiz-set-item';
-                    
+
                     const grid = document.createElement('div');
                     grid.className = 'me-quiz-set-grid';
-                    
+
                     grid.appendChild(_createFieldGroup('ID', set.id, (v) => { set.id = v; _syncFormToJson(); }));
                     grid.appendChild(_createFieldGroup('Label', set.label, (v) => { set.label = v; _syncFormToJson(); }));
                     grid.appendChild(_createFieldGroup('File', set.file, (v) => { set.file = v; _syncFormToJson(); }));
-                    
+
                     setEl.appendChild(grid);
-                    
+
                     const actions = document.createElement('div');
                     actions.className = 'me-quiz-set-actions';
-                    
+
                     const btnOpen = document.createElement('button');
                     btnOpen.className = 'me-btn me-btn-sm me-btn-blue';
                     btnOpen.innerHTML = '<i class="fas fa-external-link-alt"></i> Open';
@@ -411,20 +444,22 @@ document.addEventListener('DOMContentLoaded', async () => {
                     _syncFormToJson();
                 };
                 qsContainer.appendChild(btnAddSet);
-                
+
                 els.metaFields.appendChild(qsContainer);
             }
         }
     }
 
+    // --- Form Rendering ---
+
     function _renderForm() {
         els.itemsContainer.innerHTML = '';
         const type = state.currentType;
-        
+
         if (type === 'metadata') {
             const meta = state.manifest[0];
-            
-            // Render Chapters
+
+            // Chapters header
             const chHeader = document.createElement('div');
             chHeader.className = 'me-items-list-header';
             chHeader.innerHTML = '<span>📚 Chapters</span>';
@@ -439,10 +474,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             };
             chHeader.appendChild(btnAddCh);
             els.itemsContainer.appendChild(chHeader);
-            
+
             _renderChaptersRecursive(meta.chapters || [], els.itemsContainer);
 
-            // Render Appendices
+            // Appendices header
             const apHeader = document.createElement('div');
             apHeader.className = 'me-items-list-header';
             apHeader.style.marginTop = '30px';
@@ -496,7 +531,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (type === 'quiz') label = 'Question';
             else if (type === 'magazine') label = 'Card';
             else if (type === 'library') label = 'Category';
-            
+
             btn.innerHTML = `<i class="fas fa-plus-circle"></i> Add New ${label}`;
             btn.onclick = _addItem;
             footer.appendChild(btn);
@@ -504,19 +539,19 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
-    function _renderChaptersRecursive(chapters, container, depth = 0, parentArray = null) {
+    function _renderChaptersRecursive(chapters, container, depth = 0) {
         chapters.forEach((ch, idx) => {
             const card = document.createElement('div');
             card.className = `me-item-card ${depth > 0 ? 'nested' : ''}`;
             card.style.marginLeft = `${depth * 25}px`;
-            
+
             const header = document.createElement('div');
             header.className = 'me-item-header';
             header.innerHTML = `<span class="me-item-id">${depth === 0 ? 'Chapter' : 'Sub-chapter'} ${idx + 1}</span>`;
-            
+
             const actions = document.createElement('div');
             actions.className = 'me-item-actions';
-            
+
             const btnAddSub = document.createElement('button');
             btnAddSub.className = 'me-btn me-btn-sm me-btn-ghost';
             btnAddSub.title = 'Add Sub-chapter';
@@ -541,7 +576,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     _syncFormToJson();
                 }
             };
-            
+
             actions.appendChild(btnAddSub);
             actions.appendChild(btnDel);
             header.appendChild(actions);
@@ -549,16 +584,16 @@ document.addEventListener('DOMContentLoaded', async () => {
 
             const grid = document.createElement('div');
             grid.className = 'me-item-grid';
-            
+
             grid.appendChild(_createFieldGroup('File Name', ch.file, (v) => { ch.file = v; _syncFormToJson(); }));
             grid.appendChild(_createFieldGroup('Title', ch.title, (v) => { ch.title = v; _syncFormToJson(); }));
             grid.appendChild(_createFieldGroup('Russian Title', ch.russian || '', (v) => { ch.russian = v; _syncFormToJson(); }));
-            
+
             card.appendChild(grid);
             container.appendChild(card);
-            
+
             if (ch.subchapters && ch.subchapters.length > 0) {
-                _renderChaptersRecursive(ch.subchapters, container, depth + 1, ch.subchapters);
+                _renderChaptersRecursive(ch.subchapters, container, depth + 1);
             }
         });
     }
@@ -578,17 +613,17 @@ document.addEventListener('DOMContentLoaded', async () => {
         const type = state.currentType;
         let idLabel = `#${idx + 1}`;
         if (type === 'quiz' || type === 'library') idLabel += ` (ID: ${item.id || 'N/A'})`;
-        
+
         header.innerHTML = `<span class="me-item-id">${idLabel}</span>`;
-        
+
         const actions = document.createElement('div');
         actions.className = 'me-item-actions';
-        
+
         const btnDel = document.createElement('button');
         btnDel.className = 'me-btn me-btn-sm me-btn-outline';
         btnDel.innerHTML = '<i class="fas fa-trash"></i>';
         btnDel.onclick = (e) => { e.stopPropagation(); _deleteItem(idx); };
-        
+
         actions.appendChild(btnDel);
         header.appendChild(actions);
         card.appendChild(header);
@@ -619,20 +654,25 @@ document.addEventListener('DOMContentLoaded', async () => {
         container.appendChild(_createFieldGroup('ID', item.id, (v) => { item.id = v; _syncFormToJson(); }));
         container.appendChild(_createFieldGroup('Title', item.title, (v) => { item.title = v; _syncFormToJson(); }));
         container.appendChild(_createFieldGroup('Path', item.path, (v) => { item.path = v; _syncFormToJson(); }));
-        
-        // Books list as a simple textarea for now
+
         const booksVal = JSON.stringify(item.books, null, 2);
         container.appendChild(_createFieldGroup('Books (JSON)', booksVal, (v) => {
             try { item.books = JSON.parse(v); _syncFormToJson(); } catch(e) {}
         }, 'textarea'));
     }
 
+    function _fillMagazineFields(container, item, idx) {
+        container.appendChild(_createFieldGroup('Image Source', item.src, (v) => { item.src = v; _syncFormToJson(); }));
+        container.appendChild(_createFieldGroup('Caption', item.caption, (v) => { item.caption = v; _syncFormToJson(); }, 'textarea'));
+        container.appendChild(_createFieldGroup('Tags (comma separated)', item.tags?.join(', ') || '', (v) => { item.tags = v.split(',').map(t => t.trim()).filter(t => t); _syncFormToJson(); }));
+    }
+
     function _fillQuizFields(container, item, idx, cardEl) {
-        // En Text
+        // Question textareas with toolbar+emoji
         container.appendChild(_createFieldGroup('Question (EN)', item.questionEn, (v) => { item.questionEn = v; _syncFormToJson(); }, 'textarea', [], true));
         container.appendChild(_createFieldGroup('Question (RU)', item.questionRu, (v) => { item.questionRu = v; _syncFormToJson(); }, 'textarea', [], true));
-        
-        // Options
+
+        // Options EN
         const optCont = document.createElement('div');
         optCont.className = 'me-field-group';
         optCont.innerHTML = '<label>Options (EN)</label>';
@@ -640,10 +680,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             const inp = document.createElement('input');
             inp.value = item.optionsEn?.[letter] || '';
             inp.placeholder = letter;
-            inp.oninput = (e) => { 
+            inp.oninput = (e) => {
                 if (!item.optionsEn) item.optionsEn = {};
-                item.optionsEn[letter] = e.target.value; 
-                _syncFormToJson(); 
+                item.optionsEn[letter] = e.target.value;
+                _syncFormToJson();
             };
             optCont.appendChild(inp);
         });
@@ -652,20 +692,19 @@ document.addEventListener('DOMContentLoaded', async () => {
         // Correct Answer Logic
         const caGroup = document.createElement('div');
         caGroup.className = 'me-field-group';
-        
+
         const multiLabel = document.createElement('label');
         multiLabel.style.display = 'flex';
         multiLabel.style.alignItems = 'center';
         multiLabel.style.gap = '8px';
         multiLabel.style.marginBottom = '8px';
-        
+
         const multiCb = document.createElement('input');
         multiCb.type = 'checkbox';
         multiCb.checked = !!item.multiAnswer;
         multiCb.style.width = 'auto';
         multiCb.onchange = (e) => {
             item.multiAnswer = e.target.checked;
-            // Convert correctAnswer to array if multi, or single string if not
             if (item.multiAnswer) {
                 if (typeof item.correctAnswer === 'string') {
                     item.correctAnswer = item.correctAnswer.split('').filter(c => ['A','B','C','D'].includes(c));
@@ -675,7 +714,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     item.correctAnswer = item.correctAnswer[0] || 'A';
                 }
             }
-            _renderForm(); // Re-render this item's card
+            _renderForm();
             _syncFormToJson();
         };
         multiLabel.appendChild(multiCb);
@@ -691,14 +730,14 @@ document.addEventListener('DOMContentLoaded', async () => {
             multiSelectCont.style.display = 'flex';
             multiSelectCont.style.gap = '10px';
             multiSelectCont.style.marginTop = '4px';
-            
+
             ['A', 'B', 'C', 'D'].forEach(letter => {
                 const l = document.createElement('label');
                 l.style.display = 'flex';
                 l.style.alignItems = 'center';
                 l.style.gap = '4px';
                 l.style.fontSize = '0.8rem';
-                
+
                 const cb = document.createElement('input');
                 cb.type = 'checkbox';
                 cb.checked = Array.isArray(item.correctAnswer) && item.correctAnswer.includes(letter);
@@ -732,10 +771,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
         container.appendChild(caGroup);
 
-        // Image
+        // Question Image
         container.appendChild(_createFieldGroup('Question Image File', item.image || '', (v) => { item.image = v; _syncFormToJson(); }));
-        
-        // Explanation Images (Array of strings)
+
+        // Explanation Images
         const expImagesGroup = document.createElement('div');
         expImagesGroup.className = 'me-field-group';
         expImagesGroup.innerHTML = `<label>Explanation Images (comma separated)</label>
@@ -746,52 +785,51 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
         container.appendChild(expImagesGroup);
 
-        // Filler to keep grid balanced if needed, or just let it flow
+        // Filler
         const filler = document.createElement('div');
         container.appendChild(filler);
 
-        // Explanations (Full Width)
+        // Explanation textareas with toolbar+emoji (full width)
         const expEn = _createFieldGroup('Explanation (EN)', item.explanationEn || '', (v) => { item.explanationEn = v; _syncFormToJson(); }, 'textarea', [], true);
         const expRu = _createFieldGroup('Explanation (RU)', item.explanationRu || '', (v) => { item.explanationRu = v; _syncFormToJson(); }, 'textarea', [], true);
-        
+
         expEn.className += ' me-item-full-width';
         expRu.className += ' me-item-full-width';
-        
+
         container.appendChild(expEn);
         container.appendChild(expRu);
     }
 
-    function _fillMagazineFields(container, item, idx) {
-        container.appendChild(_createFieldGroup('Image Source', item.src, (v) => { item.src = v; _syncFormToJson(); }));
-        container.appendChild(_createFieldGroup('Caption', item.caption, (v) => { item.caption = v; _syncFormToJson(); }, 'textarea'));
-        container.appendChild(_createFieldGroup('Tags (comma separated)', item.tags?.join(', ') || '', (v) => { item.tags = v.split(',').map(t => t.trim()).filter(t => t); _syncFormToJson(); }));
-       function _createFieldGroup(label, value, onChange, type = 'input', options = [], withToolbar = false) {
+    // --- Field Group Factory ---
+
+    /**
+     * _createFieldGroup(label, value, onChange, type, options, withToolbar)
+     *
+     * For 'textarea' type:
+     *   - Wraps in .me-textarea-wrapper with a .me-textarea-backdrop for syntax highlighting
+     *   - Adds formatting toolbar + emoji toolbar when withToolbar=true
+     *   - Syncs scroll and content between textarea and backdrop
+     *
+     * withToolbar=true is enabled by default on Question (EN/RU) and Explanation (EN/RU)
+     */
+    function _createFieldGroup(label, value, onChange, type = 'input', options = [], withToolbar = false) {
         const group = document.createElement('div');
         group.className = 'me-field-group';
         group.innerHTML = `<label>${label}</label>`;
-        
+
         let el;
+
         if (type === 'textarea') {
-            const wrapper = document.createElement('div');
-            wrapper.className = 'me-textarea-wrapper';
-            
-            const backdrop = document.createElement('div');
-            backdrop.className = 'me-textarea-backdrop';
-            
-            el = document.createElement('textarea');
-            el.rows = 3;
-            if (withToolbar) el.className = 'has-toolbar';
-            
-            wrapper.appendChild(backdrop);
-            wrapper.appendChild(el);
-            
+            // --- Textarea with highlight backdrop ---
             if (withToolbar) {
+                // Toolbar container: row 1 = formatting, row 2 = emojis
                 const toolbarContainer = document.createElement('div');
                 toolbarContainer.className = 'me-toolbars-container';
-                
+
+                // Row 1: Formatting toolbar
                 const toolbar = document.createElement('div');
                 toolbar.className = 'me-toolbar';
-                
+
                 const tools = [
                     { icon: 'fas fa-bold', tag: 'b', title: 'Bold' },
                     { icon: 'fas fa-italic', tag: 'i', title: 'Italic' },
@@ -809,30 +847,35 @@ document.addEventListener('DOMContentLoaded', async () => {
                     { icon: 'fas fa-superscript', tag: 'sup', title: 'Superscript' },
                     { icon: 'fas fa-subscript', tag: 'sub', title: 'Subscript' }
                 ];
-                
+
+                // We need a reference to `el` but it's declared later, so use a closure trick
+                let textareaRef = null;
+
                 tools.forEach(t => {
                     const btn = document.createElement('button');
                     btn.className = 'me-toolbar-btn';
-                    btn.innerHTML = `<i class="${t.icon}" style="${t.tag === 'span' || t.tag === 'mark' ? t.style : ''}"></i>`;
+                    btn.innerHTML = `<i class="${t.icon}" style="${(t.tag === 'span' || t.tag === 'mark') ? t.style : ''}"></i>`;
                     btn.title = t.title;
                     btn.onclick = (e) => {
                         e.preventDefault();
-                        _insertTag(el, t.tag, t.style);
+                        if (textareaRef) _insertTag(textareaRef, t.tag, t.style);
                     };
                     toolbar.appendChild(btn);
                 });
                 toolbarContainer.appendChild(toolbar);
-                
+
+                // Row 2: Emoji toolbar
                 const emojiToolbar = document.createElement('div');
                 emojiToolbar.className = 'me-emoji-toolbar';
-                
+
                 const emojis = [
-                    '🟠', '🔵', '🟣', '🟤', '⚪', '⚫', '🔴', '🟢', '🔴🟡', 
-                    '❤️', '💚', '💙', '💛', '🩵', '💜', '🔪', '🎯', '🪡', 
-                    '🚨', '⌛', '🔥', '💧', '📗', '📘', '📚', '📜', '🛠️', 
+                    '🟠', '🔵', '🟣', '🟤', '⚪', '⚫', '🔴', '🟢',
+                    '❤️', '💚', '💙', '💛', '🩵', '💜',
+                    '🔪', '🎯', '🪡', '🚨', '⌛', '🔥', '💧',
+                    '📗', '📘', '📚', '📜', '🛠️',
                     '✳️', '✴️', '❇️', '✅', '❎', '✔️', '❌', '🔸', '🔹'
                 ];
-                
+
                 emojis.forEach(emoji => {
                     const btn = document.createElement('button');
                     btn.className = 'me-emoji-btn';
@@ -840,34 +883,91 @@ document.addEventListener('DOMContentLoaded', async () => {
                     btn.title = `Insert ${emoji}`;
                     btn.onclick = (e) => {
                         e.preventDefault();
-                        _insertEmoji(el, emoji);
+                        if (textareaRef) _insertEmoji(textareaRef, emoji);
                     };
                     emojiToolbar.appendChild(btn);
                 });
                 toolbarContainer.appendChild(emojiToolbar);
-                
+
                 group.appendChild(toolbarContainer);
+
+                // Now create the wrapper + backdrop + textarea
+                const wrapper = document.createElement('div');
+                wrapper.className = 'me-textarea-wrapper';
+
+                const backdrop = document.createElement('div');
+                backdrop.className = 'me-textarea-backdrop';
+
+                el = document.createElement('textarea');
+                el.rows = 3;
+                el.className = 'has-toolbar';
+
+                // Link the textarea reference so toolbar buttons can use it
+                textareaRef = el;
+
+                wrapper.appendChild(backdrop);
+                wrapper.appendChild(el);
+                group.appendChild(wrapper);
+
+                // Sync backdrop
+                const updateBackdrop = () => {
+                    backdrop.innerHTML = highlightText(el.value) + '\n';
+                    backdrop.scrollTop = el.scrollTop;
+                    backdrop.scrollLeft = el.scrollLeft;
+                };
+
+                el.addEventListener('input', updateBackdrop);
+                el.addEventListener('scroll', () => {
+                    backdrop.scrollTop = el.scrollTop;
+                    backdrop.scrollLeft = el.scrollLeft;
+                });
+
+                el.value = value || '';
+                el.oninput = (e) => {
+                    onChange(e.target.value);
+                    updateBackdrop();
+                };
+
+                setTimeout(updateBackdrop, 0);
+                return group;
+
+            } else {
+                // Textarea without toolbar - still uses wrapper+backdrop for consistency
+                const wrapper = document.createElement('div');
+                wrapper.className = 'me-textarea-wrapper';
+
+                const backdrop = document.createElement('div');
+                backdrop.className = 'me-textarea-backdrop';
+
+                el = document.createElement('textarea');
+                el.rows = 3;
+
+                wrapper.appendChild(backdrop);
+                wrapper.appendChild(el);
+                group.appendChild(wrapper);
+
+                const updateBackdrop = () => {
+                    backdrop.innerHTML = highlightText(el.value) + '\n';
+                    backdrop.scrollTop = el.scrollTop;
+                    backdrop.scrollLeft = el.scrollLeft;
+                };
+
+                el.addEventListener('input', updateBackdrop);
+                el.addEventListener('scroll', () => {
+                    backdrop.scrollTop = el.scrollTop;
+                    backdrop.scrollLeft = el.scrollLeft;
+                });
+
+                el.value = value || '';
+                el.oninput = (e) => {
+                    onChange(e.target.value);
+                    updateBackdrop();
+                };
+
+                setTimeout(updateBackdrop, 0);
+                return group;
             }
-            
-            group.appendChild(wrapper);
-            
-            const updateBackdrop = () => {
-                backdrop.innerHTML = highlightText(el.value) + '\n';
-            };
-            el.addEventListener('input', updateBackdrop);
-            el.addEventListener('scroll', () => {
-                backdrop.scrollTop = el.scrollTop;
-                backdrop.scrollLeft = el.scrollLeft;
-            });
-            
-            el.value = value || '';
-            el.oninput = (e) => {
-                onChange(e.target.value);
-                updateBackdrop();
-            };
-            
-            setTimeout(updateBackdrop, 0);
-            return group;
+
         } else if (type === 'select') {
             el = document.createElement('select');
             options.forEach(o => {
@@ -881,47 +981,32 @@ document.addEventListener('DOMContentLoaded', async () => {
             el = document.createElement('input');
             el.type = 'text';
         }
-        
+
         el.value = value || '';
         el.oninput = (e) => onChange(e.target.value);
         group.appendChild(el);
         return group;
     }
- 
-    function _insertTag(textarea, tag, style = null) {
-        const start = textarea.selectionStart;
-        const end = textarea.selectionEnd;
-        const text = textarea.value;
-        const selected = text.substring(start, end);
-        
-        const styleAttr = style ? ` style="${style}"` : '';
-        const replacement = `<${tag}${styleAttr}>${selected}</${tag}>`;
-        
-        textarea.value = text.substring(0, start) + replacement + text.substring(end);
-        textarea.dispatchEvent(new Event('input')); // Trigger sync
-        textarea.focus();
-        textarea.setSelectionRange(start + tag.length + styleAttr.length + 2, start + tag.length + styleAttr.length + 2 + selected.length);
-    }
 
-    function _insertEmoji(textarea, emoji) {
-        const start = textarea.selectionStart;
-        const end = textarea.selectionEnd;
-        const text = textarea.value;
-        
-        textarea.value = text.substring(0, start) + emoji + text.substring(end);
-        textarea.dispatchEvent(new Event('input')); // Trigger sync
-        textarea.focus();
-        textarea.setSelectionRange(start + emoji.length, start + emoji.length);
-    }
+    // --- Text Helpers ---
 
+    /**
+     * highlightText(text)
+     * Escapes HTML entities, then wraps:
+     *   - HTML tags (e.g. <b>, <mark style="...">) → .hl-tag (pink)
+     *   - Digit sequences → .hl-number (cyan)
+     */
     function highlightText(text) {
+        // Step 1: Escape HTML special characters
         let escaped = text
             .replace(/&/g, '&amp;')
             .replace(/</g, '&lt;')
             .replace(/>/g, '&gt;');
-        
+
+        // Step 2: Highlight escaped tags like &lt;b&gt;, &lt;mark style="..."&gt;
         escaped = escaped.replace(/(&lt;[^&]*&gt;)/g, '<span class="hl-tag">$1</span>');
-        
+
+        // Step 3: Highlight digit sequences, but only in non-tag parts
         const parts = escaped.split(/(<[^>]*>)/g);
         for (let i = 0; i < parts.length; i++) {
             if (!parts[i].startsWith('<')) {
@@ -930,13 +1015,51 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
         return parts.join('');
     }
+
+    /**
+     * _insertTag(textarea, tag, style)
+     * Wraps selected text in the given HTML tag, preserving cursor position.
+     */
+    function _insertTag(textarea, tag, style = null) {
+        const start = textarea.selectionStart;
+        const end = textarea.selectionEnd;
+        const text = textarea.value;
+        const selected = text.substring(start, end);
+
+        const styleAttr = style ? ` style="${style}"` : '';
+        const replacement = `<${tag}${styleAttr}>${selected}</${tag}>`;
+
+        textarea.value = text.substring(0, start) + replacement + text.substring(end);
+        textarea.dispatchEvent(new Event('input'));
+        textarea.focus();
+        textarea.setSelectionRange(
+            start + tag.length + styleAttr.length + 2,
+            start + tag.length + styleAttr.length + 2 + selected.length
+        );
     }
+
+    /**
+     * _insertEmoji(textarea, emoji)
+     * Inserts an emoji at the current cursor position.
+     */
+    function _insertEmoji(textarea, emoji) {
+        const start = textarea.selectionStart;
+        const end = textarea.selectionEnd;
+        const text = textarea.value;
+
+        textarea.value = text.substring(0, start) + emoji + text.substring(end);
+        textarea.dispatchEvent(new Event('input'));
+        textarea.focus();
+        textarea.setSelectionRange(start + emoji.length, start + emoji.length);
+    }
+
+    // --- Items CRUD ---
 
     function _addItem() {
         const type = state.currentType;
         let items;
         let newItem;
-        
+
         if (type === 'quiz') {
             items = state.manifest.questions;
             newItem = { id: items.length + 1, questionEn: "", questionRu: "", optionsEn: {A:"",B:"",C:"",D:""}, optionsRu: {A:"",B:"",C:"",D:""}, correctAnswer: "A", explanationEn: "", explanationRu: "" };
@@ -950,7 +1073,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             items = state.manifest.categories;
             newItem = { id: "new-category", title: "New Category", path: "books/new", books: [] };
         }
-        
+
         items.push(newItem);
         state.activeItemIndex = items.length - 1;
         _renderForm();
@@ -961,7 +1084,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     function _deleteItem(idx) {
         const type = state.currentType;
         let items;
-        
+
         if (type === 'quiz') items = state.manifest.questions;
         else if (type === 'magazine') items = state.manifest.cards;
         else if (type === 'metadata') items = state.manifest[0].chapters;
@@ -974,6 +1097,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         _syncFormToJson();
     }
 
+    // --- Sync Functions ---
+
     function _syncFormToJson() {
         state.jsonEditor.setValue(JSON.stringify(state.manifest, null, 2));
         _renderPreview();
@@ -982,40 +1107,48 @@ document.addEventListener('DOMContentLoaded', async () => {
     function _syncJsonToForm() {
         try {
             state.manifest = JSON.parse(state.jsonEditor.getValue());
-            
+
             let items = [];
             const type = state.currentType;
             if (type === 'quiz') items = state.manifest.questions;
             else if (type === 'magazine') items = state.manifest.cards;
-            else if (type === 'metadata') items = state.manifest[0].chapters;
+            else if (type === 'metadata') items = state.manifest[0]?.chapters || [];
             else if (type === 'library') items = state.manifest.categories;
-            
+
+            // Safely clamp activeItemIndex to valid range
             if (items && items.length > 0) {
                 if (state.activeItemIndex >= items.length) {
                     state.activeItemIndex = items.length - 1;
                 }
+                if (state.activeItemIndex < 0) {
+                    state.activeItemIndex = 0;
+                }
             } else {
                 state.activeItemIndex = 0;
             }
-            
+
             _renderForm();
             _renderPreview();
-        } catch(e) {}
+        } catch(e) {
+            // JSON is invalid, do nothing (tab switch already prevented this case)
+        }
     }
 
     // --- Preview ---
 
     function _renderPreview() {
+        if (!state.manifest) return;
+
         const type = state.currentType;
         let items = [];
-        
+
         if (type === 'quiz') items = state.manifest.questions;
         else if (type === 'magazine') items = state.manifest.cards;
-        else if (type === 'metadata') items = state.manifest[0].chapters;
+        else if (type === 'metadata') items = state.manifest[0]?.chapters || [];
         else if (type === 'library') items = state.manifest.categories;
 
         els.previewIndex.textContent = items.length > 0 ? `${state.activeItemIndex + 1} / ${items.length}` : '0 / 0';
-        
+
         if (!items || items.length === 0 || !items[state.activeItemIndex]) {
             els.previewContent.innerHTML = '<div class="me-preview-empty">Select an item to preview</div>';
             return;
@@ -1027,8 +1160,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (type === 'quiz') {
             const imgPath = item.image ? `${state.currentBook.fullPath}/quiz/images/${item.image}` : null;
             const lang = state.previewLang;
-            
-            // Render multiple images if explanationImages array exists
+
             const explanationImages = item.explanationImages || [];
             const expImgHtml = explanationImages.map(img => {
                 const p = `${state.currentBook.fullPath}/quiz/images/${img}`;
@@ -1036,7 +1168,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             }).join('');
 
             const correctAnswers = Array.isArray(item.correctAnswer) ? item.correctAnswer : [item.correctAnswer];
-            
+
             const rawExp = item['explanation' + lang] || (lang === 'En' ? item.explanationEn : item.explanationRu) || '(No explanation provided)';
             const formattedExp = rawExp.split('\n\n')
                 .map(p => `<p style="margin-bottom:10px;">${p.trim().replace(/\n/g, '<br>')}</p>`)
@@ -1099,15 +1231,73 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     function _changePreviewIndex(delta) {
+        if (!state.manifest) return;
+
         const type = state.currentType;
         let items = [];
         if (type === 'quiz') items = state.manifest.questions;
         else if (type === 'magazine') items = state.manifest.cards;
-        else if (type === 'metadata') items = state.manifest[0].chapters;
+        else if (type === 'metadata') items = state.manifest[0]?.chapters || [];
         else if (type === 'library') items = state.manifest.categories;
 
+        if (!items || items.length === 0) return;
+
+        state.activeItemIndex = Math.max(0, Math.min(items.length - 1, state.activeItemIndex + delta));
+        _renderPreview();
+    }
+
+    // --- Save & Download ---
+
+    /**
+     * _downloadJson()
+     * Uses _getManifestContent() as source of truth.
+     * Warns user if JSON tab is active and has syntax errors.
+     */
+    function _downloadJson() {
+        const content = _getManifestContent();
+        if (content === null) return; // User cancelled
+
+        const blob = new Blob([content], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = state.currentFile || 'manifest.json';
+        a.click();
+        URL.revokeObjectURL(url);
+    }
+
+    /**
+     * _saveToGithub()
+     * Uses _getManifestContent() as source of truth.
+     * Warns user if JSON tab is active and has syntax errors before saving.
+     */
+    async function _saveToGithub() {
+        const token = els.githubToken.value.trim();
+        if (!token) {
+            alert('Please enter a GitHub token');
+            return;
+        }
+
+        const content = _getManifestContent();
+        if (content === null) return; // User cancelled
+
+        els.githubModal.style.display = 'none';
+        els.btnSaveGithub.disabled = true;
+        els.githubStatus.textContent = '⏳ Saving...';
+
+        try {
+            const owner = 'StarleyBy';
+            const repo = 'Starley-CS-Library';
+            let filePath;
+            if (state.currentType === 'library') {
+                filePath = 'library.json';
+            } else {
+                filePath = `${state.currentBook.fullPath}/${state.currentFile}`;
+            }
+            const url = `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`;
+
             const headers = { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' };
-            
+
             const getRes = await fetch(url, { headers });
             let sha = null;
             if (getRes.ok) {
@@ -1140,8 +1330,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             els.btnSaveGithub.disabled = false;
         }
     }
-    
-    // Auto-fill token if in localStorage
+
+    // Auto-fill token if saved in localStorage
     const savedToken = localStorage.getItem('gh_token');
     if (savedToken) els.githubToken.value = savedToken;
 });
