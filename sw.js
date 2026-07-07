@@ -1,5 +1,5 @@
-const CACHE_STATIC = 'static-v3';
-const CACHE_DYNAMIC = 'dynamic-v3';
+const CACHE_STATIC = 'static-v4';
+const CACHE_DYNAMIC = 'dynamic-v4';
 
 const APP_SHELL = [
   './',
@@ -21,7 +21,15 @@ self.addEventListener('install', event => {
 
 // Активация
 self.addEventListener('activate', event => {
-  event.waitUntil(self.clients.claim());
+  event.waitUntil(
+    caches.keys().then(keys =>
+      Promise.all(
+        keys
+          .filter(key => key !== CACHE_STATIC && key !== CACHE_DYNAMIC)
+          .map(key => caches.delete(key))
+      )
+    ).then(() => self.clients.claim())
+  );
 });
 
 // Fetch стратегия
