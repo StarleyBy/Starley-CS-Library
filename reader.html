@@ -101,10 +101,9 @@
             <button class="font-option" data-font="literata">Literata <span class="font-tag">serif · e-reader</span></button>
             <button class="font-option" data-font="mono">JetBrains Mono <span class="font-tag">mono</span></button>
         </div>
-        <!-- Inner ring: navigation (8 buttons, radius ~52px) -->
+        <!-- Inner ring: navigation (7 buttons, radius ~52px) -->
         <div id="radial-items-inner">
             <button class="radial-item-inner rii-gray"   data-action="go-library"     data-tooltip="⌂ Back to library">⌂</button>
-            <button id="radial-tab-trigger" class="radial-item-inner rii-amber" data-action="tab-pick" data-tooltip="📚 Parallel Tabs">①</button>
             <button class="radial-item-inner rii-blue"   data-action="edition-pick"   data-tooltip="🌐 Switch edition">EN</button>
             <button class="radial-item-inner rii-indigo" data-action="focus-mode"     data-tooltip="⛶ Focus mode">⛶</button>
             <button id="radial-mag-btn" class="radial-item-inner rii-purple" data-action="go-magazine" data-tooltip="📰 Visual Magazine" style="display:none;">📰</button>
@@ -113,11 +112,6 @@
             <button class="radial-item-inner rii-blue"   data-action="open-calc"      data-tooltip="🧮 Calculator">🧮</button>
             <button class="radial-item-inner rii-green"  data-action="open-scratchpad" data-tooltip="✏️ Scratchpad">✏️</button>
             <button class="radial-item-inner rii-green"  data-action="chapter-pick"   data-tooltip="📑 Chapter list" style="font-size:0.7rem">≡</button>
-        </div>
-        <!-- Tab picker popup -->
-        <div id="radial-tab-picker">
-            <div class="tab-picker-header">📚 Active Tabs</div>
-            <div id="radial-tab-picker-list"></div>
         </div>
         <!-- Edition picker popup -->
         <div id="edition-picker">

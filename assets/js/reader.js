@@ -695,20 +695,7 @@ function _initRadialMenu() {
                     if (fontPicker)    fontPicker.classList.remove('visible');
                     const cp = document.getElementById('chapter-picker');
                     if (cp) cp.classList.remove('visible');
-                    const tp = document.getElementById('radial-tab-picker');
-                    if (tp) tp.classList.remove('visible');
                     _syncEditionPickerUI();
-                }
-            } else if (action === 'tab-pick') {
-                const tp = document.getElementById('radial-tab-picker');
-                if (tp) {
-                    const opening = !tp.classList.contains('visible');
-                    tp.classList.toggle('visible');
-                    if (opening && window.TabManager) window.TabManager.syncRadialTabs();
-                    if (editionPicker) editionPicker.classList.remove('visible');
-                    if (fontPicker)    fontPicker.classList.remove('visible');
-                    const cp = document.getElementById('chapter-picker');
-                    if (cp) cp.classList.remove('visible');
                 }
             } else if (action === 'chapter-pick') {
                 const cp = document.getElementById('chapter-picker');
@@ -718,8 +705,6 @@ function _initRadialMenu() {
                     if (opening) _populateChapterPicker();
                     if (editionPicker) editionPicker.classList.remove('visible');
                     if (fontPicker)    fontPicker.classList.remove('visible');
-                    const tp = document.getElementById('radial-tab-picker');
-                    if (tp) tp.classList.remove('visible');
                 }
             } else if (action === 'focus-mode') {
                 document.body.classList.toggle('focus-mode');
@@ -1072,7 +1057,7 @@ function _restoreMenuPosition(container) {
 }
 
 function _closeMenu() {
-    ['radial-menu-container','edition-picker','font-picker','chapter-picker','radial-tab-picker'].forEach(id => {
+    ['radial-menu-container','edition-picker','font-picker','chapter-picker'].forEach(id => {
         document.getElementById(id)?.classList.remove('open', 'visible');
     });
     if (window.RadialMenu) {

@@ -1,46 +1,62 @@
 // assets/js/tab-manager.js
-// Multi-Tab Reader System (NeoReader-style parallel reading)
+// Multi-Tab Reader System (4 Numbered Sphere Tabs: 🔴1 🟠2 🟡3 🟢4)
 
 (function(window) {
     'use strict';
 
-    const STORAGE_KEY = 'starley_reader_tabs_v1';
+    const STORAGE_KEY = 'starley_reader_tabs_v2';
     const MAX_TABS = 4;
-    const TAB_COLORS = ['amber', 'blue', 'emerald', 'purple'];
-    const TAB_ICONS = ['①', '②', '③', '④'];
+    
+    const SLOT_CONFIG = [
+        { index: 0, num: '1', color: 'red', icon: '🔴', title: 'Tab 1' },
+        { index: 1, num: '2', color: 'orange', icon: '🟠', title: 'Tab 2' },
+        { index: 2, num: '3', color: 'yellow', icon: '🟡', title: 'Tab 3' },
+        { index: 3, num: '4', color: 'green', icon: '🟢', title: 'Tab 4' }
+    ];
 
     const TabManager = {
-        tabs: [],
+        tabs: [], // Array of 4 slot objects
         activeTabIndex: 0,
-        libraryCache: null,
+        isExpanded: false,
+        catalogLang: 'en', // 'en' | 'ru'
+        libraryCategoriesCache: null,
+        pendingTargetTabIndex: null,
 
         init(initialBook, initialChapter, initialEdition) {
             this.loadState();
             
-            if (!this.tabs || !Array.isArray(this.tabs) || this.tabs.length === 0) {
-                this.tabs = [{
-                    id: 'tab_' + Date.now() + '_1',
-                    bookPath: initialBook,
-                    chapterId: initialChapter,
-                    edition: initialEdition || 'original',
-                    title: 'Book 1',
+            // Ensure 4 slots exist
+            if (!this.tabs || !Array.isArray(this.tabs) || this.tabs.length !== MAX_TABS) {
+                this.tabs = SLOT_CONFIG.map((cfg, i) => ({
+                    index: i,
+                    num: cfg.num,
+                    color: cfg.color,
+                    occupied: i === 0,
+                    bookPath: i === 0 ? initialBook : null,
+                    chapterId: i === 0 ? initialChapter : 'chapter-01',
+                    edition: i === 0 ? (initialEdition || 'original') : 'original',
+                    title: i === 0 ? 'Tab 1' : `Tab ${i + 1}`,
                     scrollPos: 0,
                     draftNote: ''
-                }];
+                }));
                 this.activeTabIndex = 0;
                 this.saveState();
             } else {
-                // Bounds check
-                if (this.activeTabIndex < 0 || this.activeTabIndex >= this.tabs.length) {
+                if (this.activeTabIndex < 0 || this.activeTabIndex >= MAX_TABS) {
                     this.activeTabIndex = 0;
                 }
-                const activeTab = this.getActiveTab();
-                if (initialBook && (activeTab.bookPath !== initialBook || activeTab.chapterId !== initialChapter || activeTab.edition !== initialEdition)) {
-                    activeTab.bookPath = initialBook;
-                    activeTab.chapterId = initialChapter;
-                    activeTab.edition = initialEdition || 'original';
-                    this.saveState();
+                const active = this.getActiveTab();
+                if (!active.occupied && initialBook) {
+                    active.occupied = true;
+                    active.bookPath = initialBook;
+                    active.chapterId = initialChapter;
+                    active.edition = initialEdition || 'original';
+                } else if (initialBook && (active.bookPath !== initialBook || active.chapterId !== initialChapter || active.edition !== initialEdition)) {
+                    active.bookPath = initialBook;
+                    active.chapterId = initialChapter;
+                    active.edition = initialEdition || 'original';
                 }
+                this.saveState();
             }
 
             this.renderHeaderTabs();
@@ -48,18 +64,16 @@
             this.bindEvents();
             this.syncScratchpadWithActiveTab();
 
-            // Save state on scroll (debounced via window listener)
             window.addEventListener('scroll', () => {
                 const active = this.getActiveTab();
-                if (active) {
+                if (active && active.occupied) {
                     active.scrollPos = window.scrollY;
                 }
             }, { passive: true });
 
-            // Listen for scratchpad input changes
             window.addEventListener('scratchpad:updated', (e) => {
                 const active = this.getActiveTab();
-                if (active && e.detail && typeof e.detail.text === 'string') {
+                if (active && active.occupied && e.detail && typeof e.detail.text === 'string') {
                     active.draftNote = e.detail.text;
                     this.saveState();
                 }
@@ -75,9 +89,10 @@
                 const raw = localStorage.getItem(STORAGE_KEY);
                 if (raw) {
                     const parsed = JSON.parse(raw);
-                    if (parsed && Array.isArray(parsed.tabs)) {
+                    if (parsed && Array.isArray(parsed.tabs) && parsed.tabs.length === MAX_TABS) {
                         this.tabs = parsed.tabs;
                         this.activeTabIndex = parsed.activeTabIndex || 0;
+                        this.catalogLang = parsed.catalogLang || 'en';
                     }
                 }
             } catch (e) {
@@ -87,21 +102,20 @@
 
         saveState() {
             try {
-                // Ensure current scroll position is recorded
                 const active = this.getActiveTab();
-                if (active && typeof window.scrollY !== 'undefined') {
+                if (active && active.occupied && typeof window.scrollY !== 'undefined') {
                     active.scrollPos = window.scrollY;
                 }
-                // Save current scratchpad content
                 if (window.StarleyOverlayTools && window.StarleyOverlayTools.Scratchpad && window.StarleyOverlayTools.Scratchpad.element) {
                     const textarea = window.StarleyOverlayTools.Scratchpad.element.querySelector('textarea');
-                    if (textarea && active) {
+                    if (textarea && active && active.occupied) {
                         active.draftNote = textarea.value;
                     }
                 }
                 localStorage.setItem(STORAGE_KEY, JSON.stringify({
                     tabs: this.tabs,
-                    activeTabIndex: this.activeTabIndex
+                    activeTabIndex: this.activeTabIndex,
+                    catalogLang: this.catalogLang
                 }));
             } catch (e) {
                 console.warn('[TabManager] Failed to save tabs to localStorage:', e);
@@ -111,6 +125,7 @@
         updateActiveTabMeta(bookTitle, chapterId, edition) {
             const active = this.getActiveTab();
             if (!active) return;
+            active.occupied = true;
             if (bookTitle) active.title = bookTitle;
             if (chapterId) active.chapterId = chapterId;
             if (edition) active.edition = edition;
@@ -120,89 +135,67 @@
         },
 
         async switchTab(index) {
-            if (index < 0 || index >= this.tabs.length || index === this.activeTabIndex) return;
+            if (index < 0 || index >= MAX_TABS) return;
 
-            // Save active tab state before switching
+            const targetTab = this.tabs[index];
+            if (!targetTab.occupied) {
+                // Open book picker for this empty tab slot
+                this.pendingTargetTabIndex = index;
+                this.openQuickBookModal();
+                return;
+            }
+
             this.saveState();
-
             this.activeTabIndex = index;
+            this.isExpanded = false;
             this.saveState();
 
-            const newTab = this.getActiveTab();
-
-            // Update URL without full page reload
-            const newUrl = `reader.html?book=${encodeURIComponent(newTab.bookPath)}&chapter=${encodeURIComponent(newTab.chapterId)}&edition=${encodeURIComponent(newTab.edition || 'original')}`;
+            const newUrl = `reader.html?book=${encodeURIComponent(targetTab.bookPath)}&chapter=${encodeURIComponent(targetTab.chapterId)}&edition=${encodeURIComponent(targetTab.edition || 'original')}`;
             window.history.replaceState(null, '', newUrl);
 
             this.renderHeaderTabs();
             this.syncRadialTabs();
             this.syncScratchpadWithActiveTab();
 
-            // Reload reader content dynamically
             if (typeof window.initReader === 'function') {
-                await window.initReader(newTab.bookPath, newTab.chapterId, newTab.edition || 'original');
-                if (typeof newTab.scrollPos === 'number') {
+                await window.initReader(targetTab.bookPath, targetTab.chapterId, targetTab.edition || 'original');
+                if (typeof targetTab.scrollPos === 'number') {
                     setTimeout(() => {
-                        window.scrollTo({ top: newTab.scrollPos, behavior: 'instant' });
+                        window.scrollTo({ top: targetTab.scrollPos, behavior: 'instant' });
                     }, 100);
                 }
             }
         },
 
-        createTab(bookPath, chapterId = 'chapter-01', edition = 'original', bookTitle = 'New Tab') {
-            if (this.tabs.length >= MAX_TABS) {
-                alert(`Maximum ${MAX_TABS} tabs allowed. Please close a tab first.`);
-                return false;
-            }
-
-            // Save current state
-            this.saveState();
-
-            const newTab = {
-                id: 'tab_' + Date.now() + '_' + (this.tabs.length + 1),
-                bookPath: bookPath,
-                chapterId: chapterId,
-                edition: edition,
-                title: bookTitle,
-                scrollPos: 0,
-                draftNote: ''
-            };
-
-            this.tabs.push(newTab);
-            const newIndex = this.tabs.length - 1;
-            this.switchTab(newIndex);
-            return true;
-        },
-
         closeTab(index, e) {
             if (e) e.stopPropagation();
-            if (this.tabs.length <= 1) {
+            const occupiedCount = this.tabs.filter(t => t.occupied).length;
+            if (occupiedCount <= 1 && this.tabs[index].occupied) {
                 alert('At least one tab must remain open.');
                 return;
             }
 
             this.saveState();
-            this.tabs.splice(index, 1);
+            const tab = this.tabs[index];
+            tab.occupied = false;
+            tab.bookPath = null;
+            tab.chapterId = 'chapter-01';
+            tab.title = `Tab ${index + 1}`;
+            tab.scrollPos = 0;
+            tab.draftNote = '';
 
-            if (this.activeTabIndex >= this.tabs.length) {
-                this.activeTabIndex = this.tabs.length - 1;
-            } else if (this.activeTabIndex > index) {
-                this.activeTabIndex--;
+            // If we closed the currently active tab, find another occupied tab
+            if (this.activeTabIndex === index) {
+                const nextOccupied = this.tabs.find(t => t.occupied);
+                if (nextOccupied) {
+                    this.switchTab(nextOccupied.index);
+                    return;
+                }
             }
 
             this.saveState();
-            const active = this.getActiveTab();
-
-            const newUrl = `reader.html?book=${encodeURIComponent(active.bookPath)}&chapter=${encodeURIComponent(active.chapterId)}&edition=${encodeURIComponent(active.edition || 'original')}`;
-            window.history.replaceState(null, '', newUrl);
-
             this.renderHeaderTabs();
             this.syncRadialTabs();
-            this.syncScratchpadWithActiveTab();
-
-            if (typeof window.initReader === 'function') {
-                window.initReader(active.bookPath, active.chapterId, active.edition || 'original');
-            }
         },
 
         syncScratchpadWithActiveTab() {
@@ -229,75 +222,76 @@
                 headerContent.insertBefore(container, headerContent.children[1] || null);
             }
 
-            let html = '<div class="tabs-scroll-wrapper">';
-            this.tabs.forEach((tab, idx) => {
-                const isActive = idx === this.activeTabIndex;
-                const colorClass = `tab-badge-${TAB_COLORS[idx % TAB_COLORS.length]}`;
-                const icon = TAB_ICONS[idx % TAB_ICONS.length];
-                const displayTitle = tab.title || `Tab ${idx + 1}`;
-                
+            const active = this.getActiveTab();
+
+            let html = `
+                <div class="sphere-single-wrapper">
+                    <button class="sphere-tab-btn active sphere-${active.color}" id="toggle-spheres-btn" title="Tab ${active.num} active. Click to open tabs menu">
+                        <span class="sphere-num">${active.num}</span>
+                    </button>
+            `;
+
+            if (this.isExpanded) {
                 html += `
-                    <div class="reader-tab-item ${isActive ? 'active' : ''}" data-tab-index="${idx}">
-                        <span class="tab-badge ${colorClass}">${icon}</span>
-                        <span class="tab-title" title="${this.escapeHtml(displayTitle)}">${this.escapeHtml(displayTitle)}</span>
-                        ${this.tabs.length > 1 ? `<button class="tab-close-btn" data-close-index="${idx}" title="Close tab">✕</button>` : ''}
+                    <div class="spheres-vertical-dropdown">
+                        <div class="spheres-dropdown-header">
+                            <span>Parallel Tabs</span>
+                            <button id="collapse-spheres-btn" class="spheres-close-x">✕</button>
+                        </div>
+                        <div class="spheres-dropdown-list">
+                `;
+
+                this.tabs.forEach((t, i) => {
+                    const isActive = i === this.activeTabIndex;
+                    const isOccupied = t.occupied;
+                    const color = t.color;
+                    const num = t.num;
+                    
+                    html += `
+                        <div class="sphere-dropdown-row ${isActive ? 'is-active' : ''} ${!isOccupied ? 'is-empty' : ''}" data-sphere-index="${i}">
+                            <button class="sphere-tab-btn sphere-${color} ${isActive ? 'active' : ''}">
+                                <span class="sphere-num">${num}</span>
+                                ${!isOccupied ? '<span class="sphere-empty-plus">+</span>' : ''}
+                            </button>
+                            <div class="sphere-row-info">
+                                <div class="sphere-row-title">${isOccupied ? this.escapeHtml(t.title || 'Book') : 'Empty (Click to open)'}</div>
+                            </div>
+                            ${isOccupied && this.tabs.filter(x => x.occupied).length > 1 ? `<button class="sphere-close-btn" data-close-index="${i}" title="Close tab ${num}">✕</button>` : ''}
+                        </div>
+                    `;
+                });
+
+                html += `
+                        </div>
                     </div>
                 `;
-            });
-
-            if (this.tabs.length < MAX_TABS) {
-                html += `
-                    <button id="add-tab-btn" class="add-tab-btn" title="Open new tab (${this.tabs.length}/${MAX_TABS})">
-                        <i class="fas fa-plus"></i>
-                    </button>
-                `;
             }
-            html += '</div>';
 
+            html += `</div>`;
             container.innerHTML = html;
         },
 
         syncRadialTabs() {
-            // Update radial menu trigger/items badge if element exists
-            const radialTabTrigger = document.getElementById('radial-tab-trigger');
-            if (radialTabTrigger) {
-                const badge = TAB_ICONS[this.activeTabIndex % TAB_ICONS.length];
-                radialTabTrigger.setAttribute('data-tab-count', this.tabs.length);
-                radialTabTrigger.innerHTML = `<span class="radial-tab-num">${badge}</span>`;
-            }
-
-            // Sync radial tab popup items
-            const pickerList = document.getElementById('radial-tab-picker-list');
-            if (pickerList) {
-                let html = '';
-                this.tabs.forEach((tab, idx) => {
-                    const isActive = idx === this.activeTabIndex;
-                    const color = TAB_COLORS[idx % TAB_COLORS.length];
-                    const icon = TAB_ICONS[idx % TAB_ICONS.length];
-                    html += `
-                        <div class="radial-tab-opt ${isActive ? 'active' : ''}" data-tab-index="${idx}">
-                            <span class="tab-circle-icon bg-${color}">${icon}</span>
-                            <span class="tab-opt-title">${this.escapeHtml(tab.title || 'Tab ' + (idx + 1))}</span>
-                            ${isActive ? '<span class="active-check">✓</span>' : ''}
-                            ${this.tabs.length > 1 ? `<button class="tab-opt-close" data-close-index="${idx}">✕</button>` : ''}
-                        </div>
-                    `;
-                });
-                if (this.tabs.length < MAX_TABS) {
-                    html += `
-                        <button id="radial-new-tab-btn" class="radial-new-tab-btn">
-                            <i class="fas fa-plus-circle"></i> Open New Tab...
-                        </button>
-                    `;
-                }
-                pickerList.innerHTML = html;
-            }
+            // Radial menu tab item removed per user request
         },
 
         bindEvents() {
-            // Header tab click delegation
             document.addEventListener('click', (e) => {
-                const closeBtn = e.target.closest('.tab-close-btn, .tab-opt-close');
+                const toggleBtn = e.target.closest('#toggle-spheres-btn');
+                if (toggleBtn) {
+                    this.isExpanded = !this.isExpanded;
+                    this.renderHeaderTabs();
+                    return;
+                }
+
+                const collapseBtn = e.target.closest('#collapse-spheres-btn');
+                if (collapseBtn) {
+                    this.isExpanded = false;
+                    this.renderHeaderTabs();
+                    return;
+                }
+
+                const closeBtn = e.target.closest('.sphere-close-btn, .radial-sphere-close');
                 if (closeBtn) {
                     const idx = parseInt(closeBtn.dataset.closeIndex, 10);
                     if (!isNaN(idx)) {
@@ -306,12 +300,11 @@
                     return;
                 }
 
-                const tabItem = e.target.closest('.reader-tab-item, .radial-tab-opt');
-                if (tabItem && !e.target.closest('.tab-close-btn, .tab-opt-close')) {
-                    const idx = parseInt(tabItem.dataset.tabIndex, 10);
+                const sphereBtn = e.target.closest('[data-sphere-index]');
+                if (sphereBtn && !e.target.closest('.sphere-close-btn, .radial-sphere-close')) {
+                    const idx = parseInt(sphereBtn.dataset.sphereIndex, 10);
                     if (!isNaN(idx)) {
                         this.switchTab(idx);
-                        // Close radial menu if open
                         if (window.RadialMenu && typeof window.RadialMenu.closeAll === 'function') {
                             window.RadialMenu.closeAll();
                         }
@@ -319,23 +312,15 @@
                     return;
                 }
 
-                const addBtn = e.target.closest('#add-tab-btn, #radial-new-tab-btn');
-                if (addBtn) {
-                    if (window.RadialMenu && typeof window.RadialMenu.closeAll === 'function') {
-                        window.RadialMenu.closeAll();
-                    }
-                    this.openQuickBookModal();
-                    return;
+                // Close expanded sphere pill when clicking outside header-tabs-bar
+                if (this.isExpanded && !e.target.closest('#header-tabs-container')) {
+                    this.isExpanded = false;
+                    this.renderHeaderTabs();
                 }
             });
         },
 
         async openQuickBookModal() {
-            if (this.tabs.length >= MAX_TABS) {
-                alert(`Maximum ${MAX_TABS} tabs reached. Close an existing tab first.`);
-                return;
-            }
-
             let modal = document.getElementById('quick-book-modal');
             if (!modal) {
                 modal = document.createElement('div');
@@ -345,14 +330,20 @@
                     <div class="qb-backdrop"></div>
                     <div class="qb-box">
                         <div class="qb-header">
-                            <h3><i class="fas fa-book"></i> Select Book for New Tab</h3>
-                            <button class="qb-close-btn">✕</button>
+                            <h3><i class="fas fa-book"></i> Catalog / Выберите книгу</h3>
+                            <div class="qb-header-actions">
+                                <div class="qb-lang-toggle">
+                                    <button class="qb-lang-btn ${this.catalogLang === 'en' ? 'active' : ''}" data-lang="en">EN</button>
+                                    <button class="qb-lang-btn ${this.catalogLang === 'ru' ? 'active' : ''}" data-lang="ru">RU</button>
+                                </div>
+                                <button class="qb-close-btn">✕</button>
+                            </div>
                         </div>
                         <div class="qb-search-bar">
-                            <input type="text" id="qb-search-input" placeholder="Search books by title, discipline, author..." autocomplete="off">
+                            <input type="text" id="qb-search-input" placeholder="Search by title, discipline, author..." autocomplete="off">
                         </div>
                         <div id="qb-book-list" class="qb-book-list">
-                            <div class="qb-loading"><i class="fas fa-spinner fa-spin"></i> Loading library...</div>
+                            <div class="qb-loading"><i class="fas fa-spinner fa-spin"></i> Loading catalog...</div>
                         </div>
                     </div>
                 `;
@@ -360,7 +351,17 @@
 
                 modal.querySelector('.qb-backdrop').addEventListener('click', () => this.closeQuickBookModal());
                 modal.querySelector('.qb-close-btn').addEventListener('click', () => this.closeQuickBookModal());
-                
+
+                modal.querySelectorAll('.qb-lang-btn').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        this.catalogLang = btn.dataset.lang;
+                        modal.querySelectorAll('.qb-lang-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === this.catalogLang));
+                        this.saveState();
+                        const searchVal = modal.querySelector('#qb-search-input')?.value || '';
+                        this.renderQuickBookList(searchVal.trim());
+                    });
+                });
+
                 const searchInput = modal.querySelector('#qb-search-input');
                 searchInput.addEventListener('input', (e) => {
                     this.renderQuickBookList(e.target.value.trim());
@@ -370,14 +371,62 @@
             modal.style.display = 'flex';
             document.body.style.overflow = 'hidden';
 
-            if (!this.libraryCache) {
+            if (!this.libraryCategoriesCache) {
                 try {
-                    const res = await fetch('library.json?t=' + Date.now());
+                    const rawBase = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+                    const res = await fetch(`${rawBase}library.json?t=${Date.now()}`);
                     if (res.ok) {
-                        this.libraryCache = await res.json();
+                        const data = await res.json();
+                        const categories = data.categories || [];
+                        const processedCategories = [];
+
+                        for (const cat of categories) {
+                            if (!cat.books || cat.books.length === 0) continue;
+                            const categoryBooks = [];
+                            for (const b of cat.books) {
+                                const bookPath = `${cat.path}/${b.folder}`;
+                                try {
+                                    const metaRes = await fetch(`${rawBase}${bookPath}/metadata.json?t=${Date.now()}`);
+                                    const metaArr = metaRes.ok ? await metaRes.json() : null;
+                                    const meta = (metaArr && metaArr[0]) ? metaArr[0] : {};
+                                    let cover = meta.cover_image || '';
+                                    if (typeof window.getImageUrl === 'function') {
+                                        cover = window.getImageUrl(`${bookPath}/${cover || 'cover.jpg'}`);
+                                    } else if (cover && !cover.startsWith('http') && !cover.startsWith('/')) {
+                                        cover = `${rawBase}${bookPath}/${cover}`;
+                                    }
+
+                                    categoryBooks.push({
+                                        path: bookPath,
+                                        title: meta.title || b.folder,
+                                        russian_title: meta.russian_title || meta.title || b.folder,
+                                        discipline: cat.title || '',
+                                        author: meta.author || '',
+                                        cover_image: cover || 'assets/img/book-placeholder.png'
+                                    });
+                                } catch (err) {
+                                    categoryBooks.push({
+                                        path: bookPath,
+                                        title: b.folder,
+                                        russian_title: b.folder,
+                                        discipline: cat.title || '',
+                                        author: '',
+                                        cover_image: 'assets/img/book-placeholder.png'
+                                    });
+                                }
+                            }
+                            if (categoryBooks.length > 0) {
+                                processedCategories.push({
+                                    id: cat.id,
+                                    title: cat.title,
+                                    books: categoryBooks
+                                });
+                            }
+                        }
+                        this.libraryCategoriesCache = processedCategories;
                     }
                 } catch (e) {
-                    console.error('[TabManager] Failed to fetch library.json:', e);
+                    console.error('[TabManager] Failed to fetch library catalog:', e);
                 }
             }
 
@@ -393,48 +442,68 @@
                 modal.style.display = 'none';
                 document.body.style.overflow = '';
             }
+            this.pendingTargetTabIndex = null;
         },
 
         renderQuickBookList(query) {
             const container = document.getElementById('qb-book-list');
             if (!container) return;
 
-            if (!this.libraryCache || !Array.isArray(this.libraryCache)) {
+            if (!this.libraryCategoriesCache || !Array.isArray(this.libraryCategoriesCache)) {
                 container.innerHTML = '<div class="qb-error">Could not load library catalog.</div>';
                 return;
             }
 
             const q = query.toLowerCase();
-            const filtered = this.libraryCache.filter(b => {
-                if (!q) return true;
-                return (b.title && b.title.toLowerCase().includes(q)) ||
-                       (b.russian_title && b.russian_title.toLowerCase().includes(q)) ||
-                       (b.discipline && b.discipline.toLowerCase().includes(q)) ||
-                       (b.author && b.author.toLowerCase().includes(q));
+            const isRu = this.catalogLang === 'ru';
+            let totalMatchCount = 0;
+            let html = '';
+
+            this.libraryCategoriesCache.forEach(cat => {
+                const matchingBooks = cat.books.filter(b => {
+                    if (!q) return true;
+                    return (b.title && b.title.toLowerCase().includes(q)) ||
+                           (b.russian_title && b.russian_title.toLowerCase().includes(q)) ||
+                           (b.discipline && b.discipline.toLowerCase().includes(q)) ||
+                           (b.author && b.author.toLowerCase().includes(q));
+                });
+
+                if (matchingBooks.length > 0) {
+                    totalMatchCount += matchingBooks.length;
+                    html += `
+                        <div class="qb-category-group">
+                            <div class="qb-category-title"><i class="fas fa-folder"></i> ${this.escapeHtml(cat.title)}</div>
+                            <div class="qb-category-books">
+                    `;
+
+                    matchingBooks.forEach(book => {
+                        const displayTitle = isRu ? (book.russian_title || book.title) : book.title;
+                        const cover = book.cover_image || 'assets/img/book-placeholder.png';
+                        const subtitle = book.author || book.discipline || '';
+
+                        html += `
+                            <div class="qb-book-card" data-book-path="${this.escapeHtml(book.path)}" data-book-title="${this.escapeHtml(displayTitle)}">
+                                <img src="${this.escapeHtml(cover)}" alt="cover" class="qb-cover" onerror="this.onerror=null;this.src='assets/img/book-placeholder.png'">
+                                <div class="qb-book-info">
+                                    <div class="qb-book-title">${this.escapeHtml(displayTitle)}</div>
+                                    ${subtitle ? `<div class="qb-book-sub">${this.escapeHtml(subtitle)}</div>` : ''}
+                                </div>
+                                <button class="qb-open-btn"><i class="fas fa-plus"></i> Open</button>
+                            </div>
+                        `;
+                    });
+
+                    html += `
+                            </div>
+                        </div>
+                    `;
+                }
             });
 
-            if (filtered.length === 0) {
-                container.innerHTML = '<div class="qb-empty">No books found matching query.</div>';
+            if (totalMatchCount === 0) {
+                container.innerHTML = '<div class="qb-empty">No books match query.</div>';
                 return;
             }
-
-            let html = '';
-            filtered.forEach(book => {
-                const cover = book.cover_image || 'assets/img/book-placeholder.png';
-                const title = book.russian_title || book.title || 'Untitled Book';
-                const subtitle = book.discipline || book.author || '';
-
-                html += `
-                    <div class="qb-book-card" data-book-path="${this.escapeHtml(book.path)}" data-book-title="${this.escapeHtml(title)}">
-                        <img src="${this.escapeHtml(cover)}" alt="cover" class="qb-cover" onerror="this.src='assets/img/book-placeholder.png'">
-                        <div class="qb-book-info">
-                            <div class="qb-book-title">${this.escapeHtml(title)}</div>
-                            <div class="qb-book-sub">${this.escapeHtml(subtitle)}</div>
-                        </div>
-                        <button class="qb-open-btn"><i class="fas fa-plus"></i> Open</button>
-                    </div>
-                `;
-            });
 
             container.innerHTML = html;
 
@@ -443,8 +512,19 @@
                     const path = card.dataset.bookPath;
                     const title = card.dataset.bookTitle;
                     if (path) {
+                        const targetIdx = this.pendingTargetTabIndex !== null ? this.pendingTargetTabIndex : this.activeTabIndex;
                         this.closeQuickBookModal();
-                        this.createTab(path, 'chapter-01', 'original', title);
+                        
+                        const targetTab = this.tabs[targetIdx];
+                        targetTab.occupied = true;
+                        targetTab.bookPath = path;
+                        targetTab.chapterId = 'chapter-01';
+                        targetTab.edition = 'original';
+                        targetTab.title = title;
+                        targetTab.scrollPos = 0;
+                        targetTab.draftNote = '';
+
+                        this.switchTab(targetIdx);
                     }
                 });
             });
