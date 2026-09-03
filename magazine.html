@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Visual Magazine - Starley CS Library</title>
+    <!-- Swiper CSS from CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css">
+    <link rel="stylesheet" href="assets/css/magazine.css?v=1.3">
+    <link rel="stylesheet" href="assets/css/toc-hud.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/highlighter.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/media-inspector.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="magazine-mode">
+    <div id="magazine-app">
+        <!-- Header -->
+        <header class="magazine-header">
+            <button id="btn-back-to-reader" class="mag-btn" title="Back to Reader">← Back</button>
+            <div class="mag-title-group">
+                <h1 id="mag-book-title">Visual Magazine</h1>
+                <p id="mag-book-subtitle">Loading...</p>
+            </div>
+            <div class="mag-controls" style="display: flex; align-items: center; gap: 15px;">
+                <button id="mag-contrast-toggle" class="mag-btn" title="Toggle Contrast Boost"><i class="fas fa-adjust"></i> Contrast</button>
+                <span id="mag-progress">0 / 0</span>
+            </div>
+        </header>
+
+        <!-- Main Slider -->
+        <div class="swiper">
+            <div class="swiper-wrapper" id="mag-slides-container">
+                <!-- Slides will be injected here -->
+            </div>
+            
+            <!-- Navigation -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+
+        <!-- Caption Overlay -->
+        <div id="mag-caption-overlay" class="mag-caption-overlay">
+            <div class="mag-caption-content">
+                <h3 id="mag-card-title"></h3>
+                <p id="mag-card-chapter"></p>
+                <div id="mag-card-tags" class="mag-tags"></div>
+            </div>
+        </div>
+        
+        <!-- Loader Overlay -->
+        <div id="mag-loader" class="mag-overlay">
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+    <!-- Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script>
+    <!-- App Scripts -->
+    <script src="assets/js/config.js?v=2.5"></script>
+    <script type="module" src="assets/js/db.js?v=1.0"></script>
+    <script type="module" src="assets/js/highlighter-engine.js?v=1.0"></script>
+    <script type="module" src="assets/js/highlighter-toolbar.js?v=1.0"></script>
+    <script type="module" src="assets/js/toc-hud.js?v=1.0"></script>
+    <script src="assets/js/magazine.js?v=2.5"></script>
+</body>
+</html>

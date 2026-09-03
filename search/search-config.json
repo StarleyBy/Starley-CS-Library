@@ -1,0 +1,195 @@
+{
+  "generated": "2026-08-05T07:38:48.826Z",
+  "categories": {
+    "summary": {
+      "title": "Summary",
+      "icon": "📝"
+    },
+    "icu": {
+      "title": "Intensive therapy",
+      "icon": "🏥"
+    },
+    "cardiac_surgery": {
+      "title": "Cardiac Surgery",
+      "icon": "🫀"
+    },
+    "thoracic_surgery": {
+      "title": "Thoracic Surgery",
+      "icon": "🫁"
+    },
+    "cardiology": {
+      "title": "Cardiology",
+      "icon": "❤️"
+    },
+    "anatomy": {
+      "title": "Anatomy",
+      "icon": "🦴"
+    },
+    "cardiovascular_system": {
+      "title": "Cardiovascular System",
+      "icon": "🩸"
+    },
+    "cardiac echo": {
+      "title": "Cardiac Echo",
+      "icon": "🔊"
+    },
+    "ecg": {
+      "title": "ECG",
+      "icon": "📈"
+    },
+    "drugs": {
+      "title": "Drugs",
+      "icon": "💊"
+    },
+    "guidelines": {
+      "title": "Guidelines",
+      "icon": "📋"
+    },
+    "work": {
+      "title": "Service",
+      "icon": "🛠️"
+    }
+  },
+  "books": {
+    "books/summary/mysummary": {
+      "title": "Executive Summaries: Cardiac Surgery in the Adult",
+      "category": "summary",
+      "author": ""
+    },
+    "books/icu/bojar": {
+      "title": "Manual of Perioperative Care in Adult Cardiac Surgery (Bojar 6th ed)",
+      "category": "icu",
+      "author": ""
+    },
+    "books/icu/oxford": {
+      "title": "Oxford Handbook of Critical Care",
+      "category": "icu",
+      "author": ""
+    },
+    "books/icu/Pilbeam": {
+      "title": "Pilbeam's Mechanical Ventilation (7th ed)",
+      "category": "icu",
+      "author": ""
+    },
+    "books/icu/marino": {
+      "title": "The ICU Book (Marino 4th ed)",
+      "category": "icu",
+      "author": ""
+    },
+    "books/cardiac-surgery/cohn": {
+      "title": "Cardiac Surgery in the Adult (Cohn 5th ed)",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/cardiac-surgery/Kirklin5": {
+      "title": "Cardiac Surgery (Kirklin & Barratt-Boyes 5th ed)",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/cardiac-surgery/Spray6": {
+      "title": "Pediatric Cardiac Surgery (Spray & Mayer 6th ed)",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/cardiac-surgery/sellke": {
+      "title": "Sabiston & Spencer Surgery of the Chest (Sellke)",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery": {
+      "title": "Key Questions in Congenital Cardiac Surgery",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/cardiac-surgery/Key-questions-in-cardiac-surgery": {
+      "title": "Key Questions in Cardiac Surgery",
+      "category": "cardiac_surgery",
+      "author": ""
+    },
+    "books/thoracic-surgery/Sugarbaker2": {
+      "title": "Adult Chest Surgery (Sugarbaker 2nd ed)",
+      "category": "thoracic_surgery",
+      "author": ""
+    },
+    "books/cardiology/Hurst": {
+      "title": "Hurst's the Heart (14th ed)",
+      "category": "cardiology",
+      "author": ""
+    },
+    "books/anatomy/mori": {
+      "title": "Surgical Anatomy of the Heart (Mori)",
+      "category": "anatomy",
+      "author": ""
+    },
+    "books/anatomy/wilcox": {
+      "title": "Surgical Anatomy of the Heart (Wilcox 4th ed)",
+      "category": "anatomy",
+      "author": ""
+    },
+    "books/anatomy/Netter-Cardiothoracic-Anatomy": {
+      "title": "Netter's Surgical Anatomy of the Heart",
+      "category": "anatomy",
+      "author": ""
+    },
+    "books/cardiovascular-system/cardiovascular-system-glance": {
+      "title": "The Cardiovascular System at a Glance",
+      "category": "cardiovascular_system",
+      "author": ""
+    },
+    "books/cardiovascular-system/handbook-of-cardiac-anatomy": {
+      "title": "Handbook of Cardiac Anatomy & Physiology",
+      "category": "cardiovascular_system",
+      "author": ""
+    },
+    "books/cardiac echo/Echo6": {
+      "title": "Feigenbaum's Echocardiography (6th ed)",
+      "category": "cardiac echo",
+      "author": ""
+    },
+    "books/ecg/ECG_Interpretation_for_Everyone": {
+      "title": "ECG Interpretation for Everyone",
+      "category": "ecg",
+      "author": ""
+    },
+    "books/ecg/ECGs_Made_Easy": {
+      "title": "ECGs Made Easy",
+      "category": "ecg",
+      "author": ""
+    },
+    "books/drugs/drugs-in-icu-oxford": {
+      "title": "Drugs in Intensive Care (Oxford)",
+      "category": "drugs",
+      "author": ""
+    },
+    "books/drugs/opie's-cardiovascular-drugs": {
+      "title": "Opie's Cardiovascular Drugs",
+      "category": "drugs",
+      "author": ""
+    },
+    "books/guidelines/guide": {
+      "title": "AHA / ESC Clinical Guidelines",
+      "category": "guidelines",
+      "author": ""
+    },
+    "books/guidelines/article": {
+      "title": "Clinical Guidelines & Consensus Articles",
+      "category": "guidelines",
+      "author": ""
+    },
+    "books/work/wolfson": {
+      "title": "Wolfson Implementation Guide",
+      "category": "work",
+      "author": ""
+    },
+    "books/work/examen": {
+      "title": "Board Exam Questions",
+      "category": "work",
+      "author": ""
+    },
+    "books/cardiac-echo/Echo6": {
+      "title": "Feigenbaum's Echocardiography (6th ed)",
+      "category": "cardiac_echo",
+      "author": ""
+    }
+  }
+}

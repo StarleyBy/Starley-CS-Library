@@ -1,0 +1,364 @@
+[
+  {
+    "title": "Operative Cardiac Surgery, 6th edition",
+    "russian_title": "Оперативная кардиохирургия, 6-е издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "Rob & Smith’s"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Echocardiography for cardiac surgery",
+        "russian": "1. Эхокардиография в кардиохирургии"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Hypothermia, Circulatory Arrest, and Cardiopulmonary Bypass",
+        "russian": "2. Гипотермия, остановка кровообращения и искусственное кровообращение"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Circulatory arrest: retrograde vs antegrade cerebral protection",
+        "russian": "3. Остановка кровообращения: ретроградная vs антеградная церебральная защита"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Intraoperative myocardial protection",
+        "russian": "4. Интраоперационная миокардиальная защита"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. On-pump coronary artery bypass grafting",
+        "russian": "5. Коронарное шунтирование в условиях искусственного кровообращения"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Off-pump coronary revascularization",
+        "russian": "6. Коронарная реваскуляризация без искусственного кровообращения"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Expanded use of arterial conduits",
+        "russian": "7. Расширенное применение артериальных кондуитов"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Reoperative coronary artery bypass grafting",
+        "russian": "8. Повторное коронарное шунтирование"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Repair of postinfarction ventricular septal defect",
+        "russian": "9. Ушивание постинфарктного дефекта межжелудочковой перегородки"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Robotic total endoscopic coronary artery bypass grafting",
+        "russian": "10. Роботизированное тотальное эндоскопическое коронарное шунтирование"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Aortic valve replacement",
+        "russian": "11. Замена аортального клапана"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Minimal access aortic valve surgery",
+        "russian": "12. Малоинвазивная хирургия аортального клапана"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. TAVR: transfemoral and alternative approaches",
+        "russian": "13. TAVR: трансфеморальный и альтернативные доступы"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Aortic valve repair",
+        "russian": "14. Реконструкция аортального клапана"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Mitral valve replacement",
+        "russian": "15. Замена митрального клапана"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Mitral valve repair",
+        "russian": "16. Реконструкция митрального клапана"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Minimal access mitral valve surgery",
+        "russian": "17. Малоинвазивная хирургия митрального клапана"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Robot-assisted mitral valve surgery",
+        "russian": "18. Робот-ассистированная хирургия митрального клапана"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Tricuspid valve surgery",
+        "russian": "19. Хирургия трикуспидального клапана"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. The pulmonary autograft for aortic valve replacement",
+        "russian": "20. Аутотрансплантат легочной артерии для замены аортального клапана (операция Росса)"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Valvular endocarditis",
+        "russian": "21. Клапанный эндокардит"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Valve-sparing aortic root replacement",
+        "russian": "22. Клапан-сохраняющая замена корня аорты"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Heart transplantation",
+        "russian": "23. Трансплантация сердца"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Heart–lung transplantation",
+        "russian": "24. Трансплантация комплекса сердце-легкие"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Lung transplantation",
+        "russian": "25. Трансплантация легких"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Permanent continuous-flow left ventricular assist devices",
+        "russian": "26. Постоянные левожелудочковые ассистирующие устройства с непрерывным потоком"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. ECMO and temporary mechanical circulatory assistance",
+        "russian": "27. ЭКМО и временная механическая поддержка кровообращения"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Left ventricular reconstruction",
+        "russian": "28. Реконструкция левого желудочка"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Surgery for hypertrophic cardiomyopathy",
+        "russian": "29. Хирургическое лечение гипертрофической кардиомиопатии"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Congestive heart failure: surgical techniques for functional mitral regurgitation",
+        "russian": "30. Застойная сердечная недостаточность: хирургические методы лечения функциональной митральной недостаточности"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Ascending aortic aneurysm",
+        "russian": "31. Аневризма восходящей аорты"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Hybrid aortic arch repair",
+        "russian": "32. Гибридная реконструкция дуги аорты"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Thoracoabdominal aortic aneurysms",
+        "russian": "33. Торакоабдоминальные аневризмы аорты"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Thoracic endovascular aortic repair",
+        "russian": "34. Торакальная эндоваскулярная репарация аорты"
+      },
+      {
+        "file": "chapter-35.md",
+        "title": "35. Aortic dissection: type A and B",
+        "russian": "35. Диссекция аорты: тип А и В"
+      },
+      {
+        "file": "chapter-36.md",
+        "title": "36. The cut-and-sew Maze-III procedure for the treatment of atrial fibrillation",
+        "russian": "36. Операция «лабиринт» III типа (cut-and-sew) для лечения фибрилляции предсердий"
+      },
+      {
+        "file": "chapter-37.md",
+        "title": "37. Cardiac tumors",
+        "russian": "37. Опухоли сердца"
+      },
+      {
+        "file": "chapter-38.md",
+        "title": "38. Pacers-BV pacers",
+        "russian": "38. Электрокардиостимуляторы – бивентрикулярные ЭКС"
+      },
+      {
+        "file": "chapter-39.md",
+        "title": "39. The anatomy of congenital cardiac malformations",
+        "russian": "39. Анатомия врожденных пороков сердца"
+      },
+      {
+        "file": "chapter-40.md",
+        "title": "40. Palliative procedures: shunts and pulmonary artery banding",
+        "russian": "40. Паллиативные операции: шунты и бандажирование легочной артерии"
+      },
+      {
+        "file": "chapter-41.md",
+        "title": "41. Total anomalous pulmonary venous connection and cor triatriatum",
+        "russian": "41. Полный аномальный дренаж легочных вен и трехпредсердное сердце"
+      },
+      {
+        "file": "chapter-42.md",
+        "title": "42. Atrial septal defects",
+        "russian": "42. Дефекты межпредсердной перегородки"
+      },
+      {
+        "file": "chapter-43.md",
+        "title": "43. Atrioventricular septal defects",
+        "russian": "43. Атриовентрикулярные септальные дефекты"
+      },
+      {
+        "file": "chapter-44.md",
+        "title": "44. Bidirectional Glenn and hemi-Fontan procedures",
+        "russian": "44. Операции двунаправленного Гленна и геми-Фонтена"
+      },
+      {
+        "file": "chapter-45.md",
+        "title": "45. Fontan procedure for functionally single ventricle and double-inlet ventricle",
+        "russian": "45. Операция Фонтена при функционально единственном желудочке и двувходном желудочке"
+      },
+      {
+        "file": "chapter-46.md",
+        "title": "46. Double-outlet ventricles",
+        "russian": "46. Двувыходные желудочки"
+      },
+      {
+        "file": "chapter-47.md",
+        "title": "47. Ebstein’s malformation of the tricuspid valve: surgical treatment and cone repair",
+        "russian": "47. Аномалия Эбштейна трикуспидального клапана: хирургическое лечение и конус-реконструкция"
+      },
+      {
+        "file": "chapter-48.md",
+        "title": "48. Ventricular septal defect",
+        "russian": "48. Дефект межжелудочковой перегородки"
+      },
+      {
+        "file": "chapter-49.md",
+        "title": "49. Tetralogy of Fallot",
+        "russian": "49. Тетрада Фалло"
+      },
+      {
+        "file": "chapter-50.md",
+        "title": "50. Pulmonary atresia with ventricular septal defect",
+        "russian": "50. Атрезия легочной артерии с дефектом межжелудочковой перегородки"
+      },
+      {
+        "file": "chapter-51.md",
+        "title": "51. Right ventricular outflow tract obstruction with intact ventricular septum",
+        "russian": "51. Обструкция выводного тракта правого желудочка с интактной межжелудочковой перегородкой"
+      },
+      {
+        "file": "chapter-52.md",
+        "title": "52. Left ventricular outflow tract obstruction",
+        "russian": "52. Обструкция выводного тракта левого желудочка"
+      },
+      {
+        "file": "chapter-53.md",
+        "title": "53. Transposition of the great arteries with left ventricular outflow tract obstruction",
+        "russian": "53. Транспозиция магистральных артерий с обструкцией выводного тракта левого желудочка"
+      },
+      {
+        "file": "chapter-54.md",
+        "title": "54. Transposition of the great arteries with right ventricular outflow tract obstruction",
+        "russian": "54. Транспозиция магистральных артерий с обструкцией выводного тракта правого желудочка"
+      },
+      {
+        "file": "chapter-55.md",
+        "title": "55. Anatomical repair of transposition of the great arteries",
+        "russian": "55. Анатомическая коррекция транспозиции магистральных артерий (операция артериального переключения)"
+      },
+      {
+        "file": "chapter-56.md",
+        "title": "56. Congenitally corrected transposition",
+        "russian": "56. Корригированная транспозиция магистральных артерий"
+      },
+      {
+        "file": "chapter-57.md",
+        "title": "57. Persistent truncus arteriosus",
+        "russian": "57. Персистирующий общий артериальный ствол"
+      },
+      {
+        "file": "chapter-58.md",
+        "title": "58. Persistent ductus arteriosus",
+        "russian": "58. Открытый артериальный проток"
+      },
+      {
+        "file": "chapter-59.md",
+        "title": "59. Aortopulmonary window",
+        "russian": "59. Аортолегочное окно"
+      },
+      {
+        "file": "chapter-60.md",
+        "title": "60. Coarctation of the aorta: repair of coarctation and arch interruption",
+        "russian": "60. Коарктация аорты: коррекция коарктации и перерыва дуги"
+      },
+      {
+        "file": "chapter-61.md",
+        "title": "61. Congenital anomalies of the aortic arch",
+        "russian": "61. Врожденные аномалии дуги аорты"
+      },
+      {
+        "file": "chapter-62.md",
+        "title": "62. Hypoplastic left heart syndrome",
+        "russian": "62. Синдром гипоплазии левых отделов сердца"
+      },
+      {
+        "file": "chapter-63.md",
+        "title": "63. Coronary anomalies",
+        "russian": "63. Аномалии коронарных артерий"
+      },
+      {
+        "file": "chapter-64.md",
+        "title": "64. Cardiac transplantation for congenital heart disease",
+        "russian": "64. Трансплантация сердца при врожденных пороках сердца"
+      },
+      {
+        "file": "chapter-65.md",
+        "title": "65. Lung and heart–lung transplantation for congenital heart disease",
+        "russian": "65. Трансплантация легких и комплекса сердце-легкие при врожденных пороках сердца"
+      },
+      {
+        "file": "chapter-66.md",
+        "title": "66. Ventricular assist devices for congenital heart disease",
+        "russian": "66. Вспомогательные устройства для желудочков при врожденных пороках сердца"
+      },
+      {
+        "file": "chapter-67.md",
+        "title": "67. Congenital mitral valve repair",
+        "russian": "67. Реконструкция митрального клапана при врожденных пороках"
+      },
+      {
+        "file": "chapter-68.md",
+        "title": "68. Aortic valve repair",
+        "russian": "68. Реконструкция аортального клапана"
+      }
+    ],
+    "appendices": []
+  }
+]

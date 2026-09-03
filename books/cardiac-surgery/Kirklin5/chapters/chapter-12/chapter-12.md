@@ -1,0 +1,2007 @@
+# Aortic Valve
+
+##### This chapter describes the surgical aspects of aortic valve disease, excluding congenital aortic stenosis in infants and children (see Chapter 50) and aortic regurgitation with either ventricular septal defect (see Chapter 33) or sinus of Valsalva aneurysm (see Chapter 37).
+
+<details class="med-details"><summary>
+
+## Executive Summary</summary><div class="details-content">
+
+### Pathophysiology and Morphology
+*   **Calcific Aortic Stenosis (Congenital):** Results from heavy dystrophic calcification of a congenitally abnormal (usually bicuspid) valve. Calcification begins after age 20, with clinically significant stenosis developing by the 5th-6th decade. Retrograde extension of calcium into the membranous septum can cause complete heart block.
+*   **Bicuspid Aortic Valve (BAV):** The most common congenital anomaly (0.5-2% of the population). Associated with aortopathy (decreased fibrillin-1, increased MMPs), NOTCH1 and ACTA2 mutations. Frequently coexists with coarctation and ascending aortic aneurysm, which progresses even after valve replacement.
+*   **Degenerative Aortic Stenosis:** Tricuspid valve without commissural fusion. Leaflets are fixed by nodular or eggshell calcium deposits (resembling atherosclerosis). Predominates in patients >65 years; risk factors include smoking, hyperlipidemia, hypertension, and diabetes mellitus.
+*   **Regurgitation Due to Aortic Root Pathology:** Develops from dilation of the sinotubular junction (STJ), which separates the commissures and prevents leaflet coaptation. Critical dilation threshold is 30-50% of normal. The normal ratio of STJ diameter to the fibrous annulus is 0.84.
+*   **Connective Tissue Disorders:** Marfan syndrome (FBN1 mutations) — root dilation, high dissection risk. Loeys-Dietz syndrome (TGFBR1/2 mutations) — highly aggressive aortopathy, root replacement indicated at smaller diameters (<4.2 cm). Vascular Ehlers-Danlos syndrome (COL3A1 mutations) — extreme tissue fragility; suture lines should be reinforced with felt.
+
+### Clinical Diagnosis and Threshold Values
+*   **Severity Classification for Stenosis:** Severe stenosis: peak velocity >4.0 m/s, mean gradient >40 mmHg, valve area <1.0 cm² (indexed <0.6 cm²/m²). Normal valve area is 3.0-4.0 cm².
+*   **Severity Classification for Regurgitation:** Severe regurgitation: regurgitant volume ≥60 mL/beat, regurgitant fraction ≥50%, vena contracta width >0.6 cm, regurgitant orifice area ≥0.30 cm². Angiographic grade 3+ or 4+.
+*   **Symptoms of Aortic Stenosis:** Classic triad — angina, syncope, dyspnea. Onset of symptoms is a critical point in the natural history; after symptom onset, average survival is 2-3 years, with a high risk of sudden death.
+*   **Physical Examination:** Stenosis — pulsus parvus et tardus (small and delayed). Regurgitation — bounding, "water-hammer" pulse, wide pulse pressure (systolic BP up to 200-250 mmHg, diastolic falling to 0). Early diastolic murmur at the left sternal border.
+*   **Simplified Bernoulli Equation:** Peak gradient (mmHg) = 4 × (peak aortic valve velocity, m/s)². Used in Doppler echocardiography to assess stenosis severity.
+
+### Natural History
+*   **Survival with Unoperated Stenosis:** After symptom onset, survival is 55%, 37%, and 25% at 1, 2, and 3 years, respectively. Sudden cardiac death accounts for 15-20% of all deaths.
+*   **Progression of Stenosis:** Moderate stenosis progresses to severe at a rate of: mean gradient increase of ~7 mmHg/year, valve area decrease of ~0.1 cm²/year. Statins do not slow progression (data from SEAS and SALTIRE trials).
+*   **Survival with Unoperated Regurgitation:** In asymptomatic patients with normal EF, 5-year survival is 81%. Risk of sudden death is very low (<0.2% per year). Prognosis worsens dramatically once symptoms develop.
+*   **Critical LV Dimensions in Regurgitation:** End-diastolic dimension >70-75 mm or end-systolic dimension >50-55 mm. These values are associated with a high risk of sudden death and LV dysfunction, warranting surgery even in asymptomatic patients.
+
+### Surgical Technique
+*   **Aortotomy Incisions:** Transverse incision 15 mm distal to the RCA ostium. Extension into the noncoronary sinus provides better exposure (Nicks procedure). Complete transverse transection is optimal for stentless valves and allografts.
+*   **Myocardial Protection:** For aortic regurgitation — retrograde cardioplegia via the coronary sinus. For stenosis — antegrade cardioplegia into the aortic root. Hypothermic fibrillation is acceptable during ventriculotomy.
+*   **Debridement:** Endarterectomy technique using a Freer elevator to dissect calcified masses. The critical zone is the right-noncoronary commissure (risk of membranous septal perforation and heart block).
+*   **Suture Techniques:** Mattress sutures with Teflon pledgets are standard. Continuous suture allows even tension distribution and may permit implantation of a prosthesis 1-2 mm larger.
+*   **Subcoronary Allograft Technique:** The chosen allograft must be 1-2 mm smaller than the recipient's annulus. First, the lower margin is sutured to the annulus and myocardium; then the commissures are fixed to the patient's aortic sinuses with a continuous suture.
+*   **Bentall Procedure:** En bloc replacement of the valve and ascending aorta with a composite graft (mechanical or biological valve inside a polyester tube). Coronary artery buttons are anastomosed to the graft. The Cabrol modification is used for low-lying or displaced ostia.
+*   **Ross Procedure:** Replacement of the aortic valve with the patient's own pulmonary autograft; the pulmonary artery is replaced with a pulmonary allograft. Ideal for children and young, active patients as it avoids anticoagulation. The critical step is separating the pulmonary trunk from the RVOT without injuring the first septal branch of the LAD.
+*   **David Procedure:** Reimplantation of the aortic valve inside a tubular graft. Fixes the diameter of the fibrous annulus and sinotubular junction; ideal for Marfan syndrome. Creating "neosinuses" (Cochrane modification) improves hemodynamics and reduces leaflet stress.
+*   **Yacoub Procedure:** Remodeling of the aortic root — the sinuses are excised, the aortic valve remains in the native annulus, which is externally stabilized with a strip of graft. Provides more physiologic root dynamics.
+
+### Choice of Prosthesis and Special Situations
+*   **Mechanical Prostheses:** Indicated for patients <50 years old. Durable but require lifelong warfarin (target INR 2.5-3.5). Major complications are bleeding and thromboembolism. Modern prostheses (On-X) allow lower INR (1.5-2.0).
+*   **Bioprostheses (Stented):** Indicated for patients >65 years old. Do not require warfarin (aspirin 80-375 mg/day). Degeneration and restenosis are the main issues. Degeneration rate increases sharply in patients <45-50 years old. Xenopericardial valves (Perimount, Magna) offer superior hemodynamics, especially in small sizes (19-21 mm).
+*   **Stentless Bioprostheses (Freestyle):** Hemodynamically superior to stented valves, producing lower gradients. Can be implanted subcoronary or as a complete root replacement. More complex to implant and reoperate.
+*   **Prosthesis-Patient Mismatch (PPM):** Occurs when the indexed effective orifice area (iEOA) is <0.85 cm²/m². Causes persistent LV hypertrophy. For a small fibrous annulus (<19-21 mm), root enlargement (Nicks or Manouguian) is required.
+*   **TAVR:** Considered for elderly patients at high surgical risk. According to the PARTNER 3 and Evolut Low Risk trials, in low-risk patients, TAVR is non-inferior and may be superior to surgery for the primary endpoints (mortality, stroke) at 1-2 years.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Definition</summary><div class="details-content">
+
+This chapter describes the surgical aspects of aortic valve disease, excluding congenital aortic stenosis in infants and children (see Chapter 50) and aortic regurgitation with either ventricular septal defect (see Chapter 33) or sinus of Valsalva aneurysm (see Chapter 37).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Historical Note</summary><div class="details-content">
+
+In 1947, Smithy and Parker at the University of South Carolina in Charleston first reported an experimental study of *aortic valvotomy*. During the early 1950s, Bailey and colleagues in Philadelphia used closed methods, either a dilator introduced transventricularly or a digital approach through a "poncho" sewn onto the ascending aorta in clinical attempts to relieve severe aortic stenosis. Modest success in some patients was obtained by them and by Ellis and Kirklin.
+
+In 1951, Hufnagel and Harvey at Georgetown University in Washington, D.C., developed a *ball valve prosthesis* for rapid insertion into the descending thoracic aorta. From his work with Gross in developing the coarctation operation, Hufnagel was well aware of the risk of paraplegia with aortic clamping and therefore emphasized the rapidity of insertion of their device. The prosthesis could be inserted quickly because of two multipoint fixation rings, each placed around the aorta and over the end of the prosthesis lying within the aorta. Hufnagel and Harvey, Ellis and Kirklin, and others obtained fairly good palliation of severe aortic regurgitation in some patients with this device. However, upper body signs of aortic regurgitation became severe. During the early 1950s, Bailey and Likoff developed and used a number of ingenious but unsuccessful closed methods of overcoming aortic regurgitation.
+
+A more effective approach to surgical treatment of aortic valve disease in adults began with the advent of clinical *cardiopulmonary* bypass in 1954 and 1955 (see Chapter 2). At first, aortic valvotomy and removal of calcific deposits were all that could be done. Then Bahnson and colleagues and, independently, Hufnagel and Conrad developed a single-leaflet prosthesis that was commercialized. Generally, the leaflets were used to partially replace the aortic valve, but three leaflets could be used together for total aortic valve replacement. Probably the first single-unit prosthesis for total aortic valve replacement was the polytetrafluoroethylene (PTFE) sleeve prosthesis developed and first used by McGoon at the Mayo Clinic in 1961. Although this device was successful in terms of early results, competence was sometimes not achieved, leading to appreciable hospital mortality. Introduction of the ball valve prosthesis by Harken and colleagues and Starr and colleagues in 1960 and reported in 1963 established aortic valve surgery on a firm basis. Many types of prosthetic valves have subsequently appeared.
+
+In 1956, Murray demonstrated that the aortic valve could be used as an *allograft valve* transplant in the descending thoracic aorta in patients with aortic regurgitation, and Kerwin and colleagues reported 6-year follow-up. The first orthotopic insertions of an allograft valve using the double-suture-line technique were performed in 1962 by Barratt-Boyes and separately by Ross using a single-suture-line technique described by Duran and Gunning. At first, cadaveric valves were collected aseptically and implanted within a few days or weeks, but for logistic reasons, this technique was soon replaced by unsterile collection and sterilization by β-propiolactone, ethylene oxide, or irradiation. The allografts were then stored either in Hanks' balanced salt solution at 4°C or frozen and dried. In 1968, because of high occurrence of cusp rupture with these techniques, antibiotic sterilization was introduced. Cryopreservation rather than wet preservation was introduced in 1975 by O'Brien and colleagues. Yacoub and colleagues and Ross and colleagues expanded the use of allografts to include combined aortic valve and ascending aorta replacement.
+
+In 1967, Ross and colleagues introduced the *pulmonary autograft* for aortic valve replacement, after Lower and colleagues had shown the feasibility of the procedure experimentally in 1960. Subsequently, the pulmonary valve and trunk were introduced as *autograft composite conduits* (cylinders) for replacing the aortic valve and ascending aorta. Subsequently, other biological valves were introduced, and Senning in Zurich replaced the aortic valve clinically with individual cusps made of the patients' fascia lata. Because of high late postoperative occurrence of infective endocarditis, however, this method was abandoned. Use of autologous fascia lata mounted on a frame was described by Ionescu and Ross but abandoned because of late dehiscence. Allograft dura mater valves, stent-mounted and preserved in glycerol, were used for aortic valve replacement by Zerbini and colleagues in Brazil. Bovine pericardium, glutaraldehyde-treated and frame-mounted, was introduced by Ionescu and colleagues at Leeds, England, in 1971.
+
+In 1965, Binet and colleagues in Paris implanted porcine *xenograft aortic valves*, sterilized and preserved in a special formaldehyde solution, directly into the aortic root. The valves degenerated rapidly, most likely because of suboptimal tissue preservation. This led to abandoning direct xenograft valve implantation in favor of xenograft valves mounted on a stent frame. *Stent-mounted bioprostheses* are manufactured to provide a standard device that is easily implanted and provides reproducible results in the aortic position. Glutaraldehyde-preserved stent-mounted porcine valves were introduced by Carpentier and colleagues in Paris in 1967.
+
+David and colleagues revived the concept of direct insertion of nonstented porcine xenografts into the aortic root. This valve was manufactured on a limited trial basis by Hancock Laboratory and by St. Jude Medical as the *Toronto SPV* (stentless porcine valve).
+
+In April 2002, Professor Alan Cribier at the University of Rouen, France, performed the first percutaneous aortic valve replacement for aortic stenosis in a 62-year-old man who was not a candidate for surgery. Cribier used the antegrade transseptal approach through the femoral vein. The second percutaneous aortic valve insertion was in a 30-year-old man with severe aortic regurgitation who had no contraindication for surgery.
+
+Beginning in 1979, Yacoub and colleagues developed the remodeling method of aortic valve-sparing root replacement for patients with aneurysms of the ascending aorta and root (including those associated with Marfan syndrome) and aortic dissection. In 1988, David and Feindel described an aortic valve-sparing operation (subsequently termed the *reimplantation technique*) for patients with aortic regurgitation and aneurysm of the ascending aorta in which the aortic valve is reimplanted within a polyester tubular graft. These two methods have underpinned the techniques of aortic valve-sparing aortic root replacement.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Morphology</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Aortic Valve Stenosis</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Calcific Aortic Stenosis (Congenital)</summary><div class="details-content">
+
+Calcific aortic stenosis implies stenosis secondary to heavy dystrophic calcification of a congenitally abnormal valve (Fig. 12.1A and B). Calcification is rarely present before age 20; thereafter, it slowly progresses and results in important stenosis, most often in the fifth and sixth decades of life, earlier in unicommissural than bicuspid valves and earlier in men than women. The calcification presents as a bulky cauliflower-like mass within the cusps, maximal at sites of commissural fusion or congenital buttress formation, often extending into the anulus (left ventricular [LV]-aortic junction) and adjacent aorta. Retrograde extension of calcification into the region beneath the right noncoronary cusp commissure adjacent to the membranous septum may lead to complete heart block. The valvar orifice is slitlike, often eccentrically located and oriented in a sagittal (most often) or transverse plane, and fixed, which often results in trivial or mild aortic regurgitation. (For description of critical congenital aortic stenosis, see "Morphology" in Chapter 50.)
+
+![](_page_2_Picture_14.jpeg)
+
+**Figure 12.1** Morphology of aortic valve stenosis. (A) Calcific aortic stenosis (congenital bicuspid valve). Valve is bicuspid due to fusion of one of the commissures. Calcification is bulky within the cusps. (B) Calcific aortic stenosis (congenital unicuspid valve). Valve has only one open commissure. Calcification is not severe in this example. (C) Rheumatic aortic stenosis. This morphology is characterized by diffuse fibrosis in leaflets of a tricuspid valve. Cusp edges are thick and rolled. Commissural fusion is variable but is severe in this example. Calcification is mild. (D) Degenerative aortic stenosis. Valve is tricuspid and without commissural fusion. Calcification occurs in diffuse nodular or eggshell deposits, which stiffen the valve and prevent opening. Calcification may involve sinuses of Valsalva or ascending aorta. Degenerative aortic stenosis usually occurs in patients over age 65.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Bicuspid Aortic Valve</summary><div class="details-content">
+
+Bicuspid aortic valve is the most common congenital heart anomaly, reported in 0.5% to 2% of the general population. The valve has two cusps, most often of unequal size, the larger one containing a central raphe. The raphe results from commissural fusion (Sievers type 1). The most common pattern involves fusion of the right and left cusps and is associated with coarctation of the aorta. Rarely, the cusps are symmetric without residual commissure or raphe (Sievers type O). Even less common is a unicuspid valve with two raphes (Sievers type 2), usually with a well-developed commissure between the left and noncoronary sinuses.
+
+Among patients with a bicuspid aortic valve, structural abnormalities exist at the cellular level independent of hemodynamic effects. The thoracic aorta typically shows reduced fibrillin-1, and increased matrix metalloproteinases are associated with smooth muscle cell detachment, matrix disruption, and cell death. The genetics of bicuspid aortic valve are complex and likely involve multiple pathways. Mutations in the signaling and transcriptional regulator NOTCH1 and in the ACTA2 gene (which encodes vascular smooth muscle cell α-actin) are linked with bicuspid aortic valve and familial thoracic aortic aneurysms. Numerous cardiac malformations are associated with bicuspid aortic valve and include coarctation, Shone syndrome, William syndrome, Turner syndrome, and hypoplastic left heart syndrome. Abnormalities of the aorta (aortopathy) are the most frequent cardiac anomalies (with a male predominance of 3:1). Three phenotypes have been identified to which several classification monikers have been applied including "root," "ascending," and "extended" phenotypes. Although ascending aortic dilation is most common, aortic root and arch involvement are also frequent.
+
+Controversy exists regarding the contribution of genetic mutations versus flow characteristics in the genesis of the aortopathy. Using magnetic resonance imaging (MRI), Hope and colleagues demonstrated two distinct flow patterns specific to the two most common cusp fusion types and related these to location of thinning and dilation of the ascending aorta. Asymmetric distribution of wall stress in patients with a bicuspid aortic valve (likely superimposed on genetically conferred aortic wall weakness) has been linked with asymmetric aortic smooth muscle cell apoptosis that could be flow-mediated.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Degenerative Aortic Stenosis</summary><div class="details-content">
+
+Degenerative disease is often present in stenotic aortic valves of patients older than 65 years of age, and its prevalence increases with age. In a series of patients whose mean age was older than 70, prevalence of degenerative aortic valve stenosis exceeded 70%. The valve is tricuspid, without commissural fusion, and the cusps are held in a closed position by deposits of diffuse nodular or eggshell calcification (Fig. 12.1D). These deposits are not bulky and may also involve the sinuses of Valsalva and ascending aorta. Although degenerative (senile or senescent) aortic stenosis is presumed to be arteriosclerosis, Hoagland and colleagues found no correlation between aortic stenosis in adults over age 50 and systemic hypertension, elevated serum cholesterol, smoking, or diabetes. A more recent study of 5201 subjects older than 65 years, however, found that clinical factors associated with aortic sclerosis and stenosis are similar to risk factors for arteriosclerosis. Aortic valve sclerosis was present in 26% and aortic valve stenosis in 2% of the entire study cohort. In patients over 75 years of age, the prevalence of aortic sclerosis was 37%, and stenosis was 2.6%. Smoking increased the risk by 35% and hypertension by 20%. Other factors associated with increased risk of aortic valve disease were high lipoproteins, elevated low-density cholesterol levels, and diabetes mellitus. Older age was directly associated with risk, with a twofold increase in risk for each 10-year increase in age. Mitral anular calcification is common in elderly patients with calcific aortic stenosis. Presumably, both are degenerative in origin.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Rheumatic Aortic Stenosis</summary><div class="details-content">
+
+Rheumatic aortic stenosis is characterized primarily by diffuse, prominent fibrous cusp thickening of a tricuspid valve (Fig. 12.1C), with fusion to a variable extent of one or two commissures (rarely all three). The orifice is approximately central and irregular in shape. Calcification other than a mild form is rarely present except in elderly patients but is bulkiest at sites of commissural fusion. Rheumatic aortic stenosis is seldom, if ever, isolated, although this may appear to be the case at the patient's first operation. In surgical series of apparently isolated aortic stenosis, prevalence of rheumatic etiology is low compared with that when patients with important mitral valve stenosis are included.
+
+About half of patients with so-called rheumatic aortic stenosis fail to report a history of rheumatic fever, suggesting other unrecognized inflammatory processes as the cause. However, with the decline in incidence of rheumatic fever in the United States and other developed countries, rheumatic aortic stenosis decreased from a prevalence of 30% to 18% by the 1980s (and senile degenerative disease increased from 30% to 46%).
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Aortic Valve Regurgitation</summary><div class="details-content">
+
+The terms *aortic regurgitation, aortic incompetence*, and *aortic insufficiency* are used interchangeably. *Regurgitation* is the preferred and most descriptive term, as a stenotic valve may also be considered incompetent and insufficient to perform its function correctly. Morphologic characteristics of aortic regurgitation depend on etiology. These characteristics are not as easily categorized as in aortic stenosis.
+
+<details class="med-details"><summary>
+
+#### Relevant Aortic Root Anatomy</summary><div class="details-content">
+
+Basic anatomy of the aortic root is detailed in Chapter 1. This section provides additional details about aortic root anatomy and relationships that are relevant to aortic root reconstruction and valve-sparing aortic root replacement (discussed later in this chapter). The aortic root is that part of the aorta bounded proximally by the bases of the aortic valve cusps and distally by the sinutubular junction. McAlpine conceptualizes a continuous membrane covering the ostium or opening of the left ventricle (called the *aortoventricular membrane*) that contains the anulus of the mitral valve and the aortic anulus and adjacent fibrous components. The left anterior fibrous trigone is a membrane between the left and right cusps and the ostium of the left ventricle. The remaining structures related to the aortic root result from thickening of the aortoventricular membrane (Fig. 12.2), and these are the right anterior fibrous trigone, the ventricular and atrial segments of the membranous septum, intervalvar trigone, right fibrous trigone, and fila coronaria (the portion of the aortoventricular membrane between the ostium of the left ventricle and the left atrial attachment, which comprises about 75% of the mitral anulus). The region where the aortic valve cusps are in fibrous continuity with the anterior leaflet of the mitral valve (aortomitral anulus) is thickened at each end to form a left and right fibrous trigone. The right fibrous trigone is in continuity with the membranous portion of the septum, and these two structures form the central fibrous body. The left anterior fibrous trigone, right anterior fibrous trigone, and intervalvar trigone are also termed *intercusp triangles*. The membranous septum is divided into the ventricular membranous septum and atrial membranous septum by attachment of the tricuspid valve septal leaflet to the aortoventricular membrane (Fig. 12.3). Attachment of the right ventricle (RV) to the aortoventricular membrane is in close relationship to the left and right anterior fibrous trigones (Fig. 12.4).
+
+![](_page_4_Picture_3.jpeg)
+
+**Figure 12.2** Structures attaching to or resulting from thickening of the ventriculoarterial membrane (subaortic curtain) as viewed from within the left ventricle looking up at the ventriculoarterial membrane. Lines of attachment of left atrium, right atrium, and right ventricle are indicated. Division of membranous septum into atrial membranous septum and ventricular membranous septum is by the tricuspid valve. Right anterior fibrous trigone, left anterior fibrous trigone, and intervalvar trigone are indicated. The fila coronaria are the portions of the atrioventricular membrane between the ostium of the left ventricle and the left atrial attachment. *L*, Left noncoronary sinus; *LA*, left atrium; *N*, noncoronary sinus; *R*, right noncoronary sinus; *RA*, right atrium; *RV*, right ventricle; *TV*, tricuspid valve. (From McAlpine.)
+
+![](_page_4_Picture_5.jpeg)
+
+**Figure 12.3** Components of the ventriculoarterial membrane from within left ventricle, with aortic valve opened through the right aortic sinus. *L*, Left noncoronary sinus; *LA*, left atrium; *LAF*, left anterior fibrous trigone; *LF*, left fibrous trigone; *N*, noncoronary sinus; *R*, right noncoronary sinus; *RA*, right atrium; *RV*, right ventricle; *TV*, tricuspid valve. (From McAlpine.)
+
+![](_page_5_Picture_2.jpeg)
+
+**Figure 12.4** Attachment of right ventricle and tricuspid valve anulus to the ventriculoarterial membrane. Right ventricular outflow tract has a very close relationship and fibrous attachment to the left anterior trigone (which is of particular importance to the operation of aortic valve–sparing root replacement). There is a further attachment of the posterolateral wall of the right ventricle together with the septal leaflet of the tricuspid valve to the ventriculoarterial membrane. The *dashed line* indicates demarcation between right and left ventricles. (From McAlpine.)
+
+The aortic root forms the outflow tract from the left ventricle and contains the aortic valve cusps, sinuses of Valsalva, and intercusp triangles (trigones). Morphology of the aortic valve cusps reflects their exposure to the mechanical stress of diastolic pressure. They have three distinct layers. The outflow surface is the *fibrosa*, comprising bundles and sheets of collagen aligned in the circumferential direction. The cusp has a coaptional portion (where the collagen bundles are discontinuous) and a noncoaptional surface or cusp belly (where the collagen bundles are continuous). The ventricular surface of the cusp is composed of the *ventricularis*, which is another fibrous layer. It is a mixture of both collagen and elastin (although the elastin is not as important as the collagen from a biomechanical standpoint). The fibers are arranged randomly, and therefore, when the ventricularis is under load, the fibers realign in the direction of the applied load and only then resist further extension. The *spongiosa* layer between the fibrosa and ventricularis is composed principally of glycosaminoglycans, which are responsible for energy dissipation and lubrication of the movements between fibrosa and ventricularis. The biomechanical properties of the fibrosa and ventricularis allow radial extension of the cusp to form a large coaptional area.
+
+The *sinuses of Valsalva* are the bulging portions of the aortic root from which the coronary arteries arise. They accommodate the open cusps of the aortic valve and generate vortices that are important for aortic cusp closure. The base of the aortic cusp attachment forms a coronet-like structure (Fig. 12.5). The tissue between the attachment of the aortic valve cusps to the aortic wall is the *intercusp triangle*, a layer composed of circularly oriented collagen fibers. The base of two of the intercusp triangles is LV muscle, and the intercusp triangle beneath the commissure of the left and right cusps is fibrous (left anterior fibrous trigone). Attachment of the base of the aortic root is approximately 55% fibrous and 45% muscular. The intercusp triangles are exposed to ventricular hemodynamics and may function, in part, to allow each sinus to act independently. An important surgical point regarding the ventricular-aortic junction is the site of attachment of prosthetic valves, which are largely circular structures. Prosthetic valves are actually attached to the anatomic ventricularaortic junction and do not follow the cusp attachment, although this is usually regarded as the "anulus."
+
+![](_page_5_Figure_10.jpeg)
+
+**Figure 12.5** Diagram of the aortic root. *Inset,* Note coronet-like arrangement of valvar attachments. (From Sutton.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Aortic Regurgitation Related to Aortic Root Pathology</summary><div class="details-content">
+
+A spectrum of aortic pathology may result in aortic regurgitation due to alterations in the geometry of the sinutubular junction, sinuses, and the ventricular-aortic junction. Ascending aortic aneurysms and aortic root disease may be distinct processes, or they may coexist as a blending of morphologic manifestations.
+
+Many different pathologies may result in ascending aortic aneurysms (see Chapter 23). These include long-standing hypertension, arteriosclerosis, aneurysms associated with bicuspid aortic valves, and extreme forms of poststenotic dilation of a stenotic aortic valve. Ascending aortic aneurysms may also result from inflammatory processes causing aortitis, including rheumatoid arthritis, ankylosing spondylitis, and Reiter syndrome. Ascending aortic aneurysms and aortic root disease may arise from clearly defined genetic syndromes, including Marfan syndrome, Loeys-Dietz syndrome, Ehlers-Danlos syndrome, and filamin A mutations. Most patients with thoracic aorta disease and aortic dissections do not have a clearly defined genetic disorder, but many have an inherited predisposition to the process.
+
+<details class="med-details"><summary>
+
+##### Marfan syndrome</summary><div class="details-content">
+
+*Marfan syndrome*, one of the most common connective tissue disorders, is an autosomal dominant condition affecting about 1 in 3000 to 5000 people. Most patients with the typical Marfan phenotype have mutations involving the FBN1 gene that codes for fibrillin-1, an extracellular matrix glycoprotein that contributes to structural integrity of connective tissue. In a minority of cases, an FBN1 mutation is not found. Fibrillin-1 is an important component of both elastic and nonelastic connective tissue. In about 10% of Marfan phenotypes, mutations have been noted in transforming growth factor (TGF)-β receptor genes. The commonly accepted criteria for diagnosis of Marfan syndrome involving genetic studies, family history, and major and minor clinical manifestations have been codified as the Ghent Criteria. These features include presence of both aortic root aneurysm and ectopia lentis, the presence of one of these with a bona fide FBN1 mutation, or a combination of major and minor clinical features or family history. Histologic features of the ascending aorta media in Marfan patients include fragmentation of elastic lamellae, loss of smooth muscle cells, fibrosis, and cystic medial necrosis (a misleading term coined to describe the lacunar appearance of medial degeneration when, in fact, cystic changes and necrosis are absent).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Loeys-Dietz syndrome</summary><div class="details-content">
+
+Other connective tissue disorders that predispose to aortic aneurysmal disease and dissection include Loeys-Dietz syndrome and the vascular type of Ehlers-Danlos syndrome. *Loeys-Dietz syndrome* is an autosomal dominant aortic syndrome resulting from mutations in genes for the cytokine (TGF)-β receptor (TGFBR) type I or II. Arterial tortuosity and aneurysms, hypertelorism, and bifid uvula or cleft palate characterize the disease phenotype. Skeletal features are similar to those of Marfan syndrome. The aortic disease in this syndrome is particularly aggressive, and 98% of patients develop aortic root aneurysms that have a high propensity for dissection. Mean age of death with this syndrome is 26 years. In children affected with Loeys-Dietz syndrome, prominent craniofacial features are associated with more severe aortic disease. Because these patients are prone to aneurysm development in other locations, yearly MRI or computed tomography (CT) is advisable from the pelvis to the brain.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Vascular form (type IV) of Ehlers-Danlos syndrome</summary><div class="details-content">
+
+The *vascular form (type IV)* of *Ehlers-Danlos syndrome* is a rare autosomal dominant disease caused by a defect in type III collagen, encoded by the COL3A1 gene. Prominent clinical features include easy bruising, thin skin, characteristic facial features, and tendency for rupture of arteries, uterus, or intestines. The role of prophylactic aortic replacement surgery to prevent aortic rupture or dissection is less clear than for Marfan or Loeys-Dietz syndromes. Of importance, these patients typically have extreme tissue fragility, so if aortic aneurysms or aortic regurgitation require cardiac surgery, reinforcement of suture lines with felt pledgets or strips is recommended.
+
+</div></details>
+
+*Anuloaortic ectasia* is a term that has largely fallen out of use but refers to anular dilation resulting in aortic regurgitation even though the cusps are normal. It is frequently associated with aortic dilation, which may be secondary to medial degeneration and may be associated with Marfan syndrome. Even in the absence of Marfan syndrome, anuloaortic ectasia appears to be a genetic disease. It may be associated with dilation of the aortic wall at the sinutubular junction separating the commissures, preventing coaptation of the free edges of the leaflets during diastole. As the dilation of the aorta progresses, so does central aortic valve regurgitation. The LV-aortic junction usually does not increase in size, even in patients with large aneurysms. Accordingly, the size of the aortic valve prosthesis used in these patients (if indicated) is generally similar to that used for replacement in patients with rheumatic or other disease.
+
+The aneurysmal process may involve the entire ascending aorta, often ending just before the level at which the brachiocephalic artery originates, although the remainder of the arch may show cystic medial degeneration. The aneurysms are thin-walled with a smooth lining. Dissection may begin within the aneurysms, extending proximally and distally or rarely remaining localized. In patients with Marfan syndrome, dissection may be limited to the ascending aorta in about half the patients and extends into the transverse and descending aorta in the remainder. Frequently, dissection is unexpectedly found at operation. With proximal extension of this dissection, the commissural attachment of the valve becomes separated from the outer aortic wall such that the valve prolapses centrally, and regurgitation may abruptly increase (see Chapter 23).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Arteriosclerotic and Syphilitic Ascending Aortic Aneurysms</summary><div class="details-content">
+
+As previously noted, ascending aortic aneurysms also produce valvar regurgitation because of distraction of the commissures, preventing coaptation of the free edges of the cusps. In syphilitic ascending aortic aneurysm, aortic regurgitation is exacerbated by valvulitis that produces thickening and retraction of the cusp edge.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Aortitis</summary><div class="details-content">
+
+In some patients with rheumatoid arthritis, ankylosing spondylitis, or Reiter disease, an aortitis may lead to aneurysmal dilation of the ascending aorta and aortic valvar regurgitation. The aortitis is characterized by dense adventitial inflammatory fibrosis involving the sinuses of Valsalva and proximal aorta, especially adjacent to the commissures. The process may extend below the base of the aortic valve to form a characteristic subvalvar ridge and may involve the base of the anterior mitral leaflet or even the adjacent ventricular septum, causing conduction disturbances. Particularly in rheumatoid arthritis, the cusps may be thickened and shortened and show rheumatoid nodules histologically.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Rheumatic Aortic Regurgitation</summary><div class="details-content">
+
+Rheumatic aortic regurgitation results from a different response of the valve to the rheumatic process than occurs when stenosis develops. Commissural fusion is minimal or absent, and the cusps are only slightly thickened. Minor calcification is present in about 10% of affected valves. The major pathologic process is cicatricial shortening of the cusps between their free edge and their anular attachment, with rolling of the free edge. As time passes, the aortic root widens in response to the regurgitation, further increasing central valvar regurgitation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Native Valve Endocarditis</summary><div class="details-content">
+
+Native valve endocarditis (see also Chapter 14), which may occur on structurally normal, congenitally, or rheumatically deformed valves, is a common cause of aortic regurgitation. The regurgitation may result from a destroyed commissure and consequent cusp prolapse or a perforation in the belly of the cusp. An infected pannus may appear below the cusps, or extensive destruction of the aortic root may occur, with a periaortic root abscess sometimes extending into the mitral anulus and anterior mitral leaflet. Mitral regurgitation may also develop because of perforation of the anterior leaflet by a "drop lesion" caused by the infected regurgitant stream from the diseased aortic valve.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Congenital Aortic Valve Disease</summary><div class="details-content">
+
+A congenitally bicuspid or unicuspid valve can produce regurgitation from prolapse of the free edge of a redundant cusp. In such patients, the regurgitation may be aggravated by infective endocarditis or an improper valvotomy (see Chapter 50). Lack of support of the aortic anulus in association with ventricular septal defect may result in aortic valve prolapse and regurgitation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Floppy Aortic Valve</summary><div class="details-content">
+
+Occasionally, aortic regurgitation may be caused by prolapse of redundant aortic cusps that are mildly thickened and myxomatous. The aortic root may be normal or dilated, usually with cystic medial necrosis, and mitral valve prolapse may also occur.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Iatrogenic Aortic Valve Disease</summary><div class="details-content">
+
+A number of physician-related interventions may cause aortic valve regurgitation. Perforation of the aortic valve cusps may result from diagnostic or balloon dilation catheters or from mechanical circulatory support devices that require positioning across the aortic valve. Even with newer methods and lower doses of mediastinal irradiation, occasional cases of mediastinal fibrosis occur, with injury to the pericardium, cardiac valves, coronary arteries, and myocardium. Cardiac valve disease has also been associated with migraine medications (ergotamine, methysergide) and appetite suppressants (fenfluramine, with or without phentermine) (Fig. 12.6).
+
+![](_page_7_Figure_12.jpeg)
+
+**Figure 12.6** Iatrogenic aortic valve disease. Aortic valve regurgitation caused by physician intervention. (A) Aortic valve affected by fenfluramine/phentermine (Fen/Phen). One cusp is contracted due to a fibrotic plaque. The other two cusps are normal. (B) Echocardiogram of Fen/Phen iatrogenic aortic valve disease. A regurgitant jet indicates moderately severe aortic valve regurgitation before repair. Repair consisted of débridement of fibrotic plaques from the valve cusps and narrowing of the sinutubular junction by a prosthetic band. After repair, there is trivial aortic valve regurgitation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Other Types of Aortic Regurgitation</summary><div class="details-content">
+
+Other causes of aortic valve regurgitation include spontaneous rupture of the residual cord above a fenestration or rupture caused by severe closedchest trauma (see Chapter 16). In patients with long-standing hypertension, regurgitation may result from typical myxoid degeneration of the valve. Some instances of regurgitation are probably related to arthropathies with minimal joint involvement or to hypertension, psoriasis, giant cell aortitis, or Takayasu disease. Occasionally, the etiology of regurgitation is not apparent.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Combined Aortic Stenosis and Regurgitation</summary><div class="details-content">
+
+The etiology and morphology of combined aortic stenosis and regurgitation are similar to those of aortic valve stenosis. In some cases, an episode of endocarditis produces regurgitation of a previously stenotic valve.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Changing Etiology and Morphology</summary><div class="details-content">
+
+A time-related change in etiology and morphology has been observed at operation in patients with aortic valve disease. Although the overall prevalence of bicuspid aortic valves in the general population has not changed over the past 50 years, its relative frequency in the surgical population has decreased (Table 12.1). In one surgical series, the relative frequency of bicuspid aortic valves fell from 49% in 1965 to 36% in 1990. The relative frequency of patients with degenerative aortic valve disease increased greatly, however, and the prevalence of aortic stenosis doubled from 32% to 65%. Mean age at operation increased from 49 years in 1965 to 66 years in 1990 and continues to rise.
+
+<details class="med-details"><summary>
+
+#### TABLE 12.1 Time-Related Changes in Aortic Valve Morphology at Operation<sup>a</sup></summary><div class="details-content">
+
+| Morphology | AS (PURE) | AS (PURE) | AS/AR (MIXED) | AS/AR (MIXED) | AR (PURE) | AR (PURE) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| | 1965 | 1990 | 1965 | 1990 | 1965 | 1990 |
+| Bicuspid (congenital) (%) | 49 | 36 | 20 | 17 | 17 | 14 |
+| Rheumatic (%) | 33 | 9 | 61 | 17 | 47 | 14 |
+| Degenerative (%) | 0 | 51 | 0 | 46 | 0 | 0 |
+| Dilation ascending aorta (%) | 0 | 0 | 0 | 0 | 19 | 50 |
+| Iatrogenic (%) | 0 | 1 | 0 | 13 | 0 | 14 |
+| Infective endocarditis (%) | 0 | 0 | 0 | 0 | 11 | 2 |
+| Other (%) | 18 | 3 | 19 | 7 | 6 | 6 |
+| Patients (%) | 32 | 65 | 39 | 10 | 29 | 25 |
+
+###### Data presented as percent of the total number of patients in each category. *AR*, Aortic regurgitation; *AS*, aortic stenosis; *AS/AR*, aortic stenosis and aortic regurgitation. Data from William D. Edwards, MD, based on references and surgical patients at the Mayo Clinic.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Clinical Features and Diagnostic Criteria</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Aortic Stenosis</summary><div class="details-content">
+
+Aortic stenosis develops over a period of years as the valve progressively narrows. The progressive narrowing of the valve is not linear and occurs in an unpredictable stepwise fashion. Patients with aortic stenosis may be symptomatic when first seen, although they may present without symptoms, having been referred because of a cardiac murmur. The classic triad of effort dyspnea, angina, and syncope is present in about one-third of patients. Understanding and recognizing the symptoms of aortic stenosis is particularly important because of the heavy reliance on symptoms in decisions regarding advisability of operation (see "Indications for Operation, Selection of Technique, and Choice of Device" later in this chapter).
+
+*Angina pectoris* is present as the only symptom or is combined with others in 50% to 70% of patients. It is more common in patients with combined aortic stenosis and coronary artery disease than in those with isolated aortic stenosis. Angina in patients without coronary artery disease presumably results from an imbalance between coronary blood flow and oxygen demand in the hypertrophied left ventricle. Angina appears to occur more frequently in patients with severe aortic stenosis than in those with less severe gradients across the aortic valve. Other morphologic and hemodynamic variables, such as LV wall thickness, wall stress, and wall tension, are similar in patients with aortic stenosis whether or not angina is present.
+
+From 30% to 50% of patients with important aortic stenosis have frank or incipient syncope. Among the many possible causes of syncope (and sudden death) in patients with aortic stenosis, the most likely is peripheral vasodilation from a faulty baroreceptor mechanism. Symptoms of pulmonary venous hypertension (dyspnea, orthopnea, paroxysmal nocturnal dyspnea, or frank pulmonary edema) are present in 30% to 40% of patients, either alone or with other symptoms. These symptoms are associated with increased LV end-diastolic pressure and systolic wall stress and lower cardiac output and ejection fraction (EF).
+
+A few patients (10%) survive typical symptoms long enough for secondary *RV failure* to develop. These patients present with a clinical picture dominated by elevated right atrial and jugular venous pressure, hepatomegaly, cardiac cachexia, and, rarely, tricuspid regurgitation. Patients often appear to have combined aortic stenosis and mitral regurgitation as well.
+
+Diagnosis of important aortic stenosis can often be made by physical examination with reasonable certainty when, in addition to the presence of an aortic ejection murmur (usually best heard in the second right intercostal space beside the sternum and transmitted to the carotids but also often at the apex and in the second left intercostal space), the arterial pulse is of small volume with a slow upstroke. Support for the diagnosis may be obtained from expiratory splitting of the second heart sound and evidence of LV hypertrophy provided by the character of the apex beat and electrocardiogram (ECG). Usually, the ECG provides evidence of LV hypertrophy, with or without inverted T waves in lead V<sub>6</sub> (the so-called strain pattern). When chest radiography or fluoroscopy also shows calcification of the aortic valve and convexity along the upper part of the LV silhouette produced by LV hypertrophy, the diagnosis of calcific aortic stenosis becomes a near certainty.
+
+At times, physical findings are less diagnostic. Systemic hypertension or, in older patients, inelasticity of aortic and arterial walls may alter the character of the arterial pulse wave and prevent development of a clinically recognizable slow upstroke or soft, weak pulse (pulsus parvus). Absence of the aortic component may prevent assessment of the respiratory behavior of the second heart sound, whereas in patients with right or left bundle branch block, splitting of this sound is of no value as a guide to the severity of aortic stenosis. In older patients especially, the character of the cardiac apex may be unreliable as a clinical guide to presence and degree of LV hypertrophy. The ECG also may fail to show the degree of LV hypertrophy associated with severe aortic stenosis and occasionally remains normal without showing evidence of LV involvement. Finally, in the terminal stages of low-output heart failure, the murmur may be so faint that aortic stenosis is not suspected, particularly in adult patients in whom the heart sounds are distant either because of chest wall thickness or inelastic and voluminous lungs.
+
+In these patients, judicious use of graded exercise testing may uncover a clinically silent state of LV dysfunction and functional aerobic impairment. Exercise has been considered dangerous in patients with severe aortic valve stenosis who are symptomatic, although experience has shown that graded exercise testing is not a risky procedure in asymptomatic patients. Impaired exercise tolerance (as by 6-minute walk testing), occurrence of symptoms, inadequate blood pressure increase (10 mmHg · 30 watts<sup>-1</sup> or less) or blood pressure drop (≥10 mmHg), bradycardia, arrhythmia, conduction disturbance, and ST-segment depression (≥0.2 mV) indicate impaired aerobic or LV function. This informs decision-making regarding operative intervention or, if continued observation is advised, recommendations concerning vocational, recreational, or sports participation. Exercise testing is of particular value in the setting of poor ventricular function, which may be responsible for an unexpectedly low gradient across the heavily calcified or otherwise dysmorphic valve, as revealed by imaging studies.
+
+*Doppler echocardiography* is a reliable means of establishing the presence of aortic stenosis and is usually performed in patients suspected of having aortic valve disease. In most patients with aortic stenosis, the degree of obstruction to outflow, aortic valve peak and mean gradient, and valve area can be reliably determined. It is the main modality for serial evaluation. Maximal instantaneous gradient is obtained by applying the *modified Bernoulli equation* to peak aortic velocity; this may be 30% to 40% higher than the gradient determined by cardiac catheterization (Table 12.2). Using continuous wave Doppler, the *simplified Bernoulli equation* can be applied to obtain the peak instantaneous gradient: Peak pressure gradient (mmHg) = 4 × peak velocity<sup>2</sup>. The *mean gradient* across the aortic valve is obtained by planimetry of the continuous wave signal. Mean gradient is more useful clinically than instantaneous gradient. *Mean pressure gradient* is the arithmetic mean of the derived instantaneous gradients and correlates well with mean pressure gradient obtained by cardiac catheterization. *Aortic valve area* may also be determined by echocardiography based on the *continuity principle*, which states that flow through a nonstenotic region of the heart should equal flow through a stenosis (assuming no regurgitation or shunt). Aortic valve area derived by cardiac catheterization is well correlated with this.
+
+<details class="med-details"><summary>
+
+#### TABLE 12.2 Classification of Severity of Aortic Valve Disease in Adults</summary><div class="details-content">
+
+| Aortic Stenosis | | | |
+| :--- | :---: | :---: | :---: |
+| Indicator | Mild | Moderate | Severe |
+| Jet velocity (m · s<sup>-1</sup>) | <3.0 | 3.0-4.0 | >4.0 |
+| Mean gradient (mmHg)<sup>a</sup> | <25 | 25-40 | >40 |
+| Valve area (cm<sup>2</sup>) | >1.5 | 1.0-1.5 | <1.0 |
+| Valve area index (cm<sup>2</sup> · m<sup>-2</sup>) | | | <0.6 |
+| **Aortic Regurgitation** | | | |
+| **Qualitative** | Mild | Moderate | Severe |
+| Angiographic grade | 1+ | 2+ | 3-4+ |
+| Color Doppler jet width | Central jet, width <25% of LVOT | Greater than mild, but no signs of severe regurgitation | Central jet, width >65% of LVOT |
+| Doppler vena contracta width (cm) | <0.3 | 0.3-0.6 | >0.6 |
+| **Quantitative (Cath or Echo)** | Mild | Moderate | Severe |
+| Regurgitant volume (mL · beat<sup>-1</sup>) | <30 | 30-59 | ≥60 |
+| Regurgitant fraction (%) | <30 | 30-49 | ≥50 |
+| Regurgitant orifice area (cm<sup>2</sup>) | <0.10 | 0.10-0.29 | ≥0.30 |
+
+###### <sup>a</sup>Valve gradients are flow dependent and, when used as estimates of severity of valve stenosis, should be assessed with knowledge of cardiac output or forward flow across the valve. *Cath*, Cardiac catheterization; *echo*, echocardiogram; *LVOT*, left ventricular outflow tract. Data from Bonow and colleagues.
+
+</div></details>
+
+Hemodynamic data derived by Doppler echocardiography or cardiac catheterization can provide a grading of degree of stenosis (see Table 12.2). The aortic valve area must be reduced to about one-fourth its normal size before important changes occur in the circulation. The normal adult aortic valve area is 3.0 to 4.0 cm<sup>2</sup>. Thus, an area of less than 1.0 cm<sup>2</sup> is likely to produce clinical symptoms. The American College of Cardiology/American Heart Association (ACC/AHA) Task Force on Practice Guidelines states that aortic valve stenosis is *mild* when aortic valve area is greater than 1.5 cm<sup>2</sup> (with transvalvar gradient <25 mmHg), *moderate* when 1.0 to 1.5 cm<sup>2</sup>, and *severe* when less than 1.0 cm<sup>2</sup> (see Table 12.2). Because the pressure gradient is flow dependent, stenosis is considered severe when mean gradient is 40 mmHg or higher and cardiac output is normal. However, when cardiac output is low, severe aortic stenosis may be present with a lower transvalvar gradient. These hemodynamic criteria are helpful, but therapeutic decisions related to operative intervention are largely based on presence or absence of symptoms.
+
+In patients over age 40, *coronary arteriography* is also performed when operation is being considered because coronary artery disease coexists in many of these patients whether or not angina is present. At the time of coronary arteriography, the systolic pressure gradient across the aortic valve may be measured, and cardiac output can be measured to determine valve area calculated by the Gorlin equation if echocardiography is equivocal.
+
+*Hematologic abnormalities* associated with severe aortic stenosis include impairment of platelet function and decreased levels of von Willebrand factor, which correlate with severity of stenosis. Clinical bleeding is observed in about 20% of patients with severe aortic stenosis, most often epistaxis or ecchymoses. Coagulation abnormalities usually disappear after aortic valve placement.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Aortic Regurgitation</summary><div class="details-content">
+
+Patients with aortic regurgitation present more frequently without symptoms than those with aortic stenosis, perhaps because of the more dramatic physical and radiographic findings and relatively long asymptomatic phase of regurgitation. In most patients, the dominant symptoms reflect pulmonary venous hypertension (dyspnea, orthopnea, paroxysmal nocturnal dyspnea, pulmonary edema). Angina pectoris is often part of the presenting complaint but is the chief complaint in less than one-fourth of patients and is more common in older patients. Coronary artery disease is present in about 20% of patients with angina pectoris. Syncope is rare.
+
+In severe aortic regurgitation, the LV apex is usually displaced and overactive. The carotid and other pulses are jerky to palpation in moderate regurgitation and collapsing or "water-hammer" in severe regurgitation because of the wide pulse pressure and rapid rise and fall of the pulse wave. Blood pressure measured by Korotkoff sounds may reach 200 to 250 mmHg systolic and 50 to 0 mmHg diastolic. Normally, brachial or radial pulse pressure measured by an arterial needle is less than that measured by Korotkoff sounds, and central aortic pulse pressure is even less. These phenomena, including systolic amplification between central aortic and radial artery blood pressures, are related to standing waves created by the pulsatile ejection of an unusually large LV stroke volume into the aorta and remainder of the arterial tree. These phenomena are minimal if cardiac output is low because of severe cardiac failure.
+
+Auscultation in the aortic area reveals an early diastolic murmur radiating toward the heart's apex. Intensity of the murmur has been shown to correlate with degree of aortic valve regurgitation. Murmur of a grade 3 or greater predicts severe aortic regurgitation in 71% of patients, whereas murmur of a grade 1 or less predicts that aortic regurgitation is not severe in 100% of patients. Often, a systolic click or ejection murmur is present as well. At the apex, a mid-diastolic murmur is frequently caused by fluttering of the anterior mitral leaflet from a prominent regurgitant jet (Austin Flint *murmur*). This may be difficult to distinguish from the murmur of mitral stenosis, although an opening snap is often present in the latter. When mitral stenosis coexists, the ECG usually shows P mitrale, and the left atrium is enlarged, although in severe and long-standing pure aortic regurgitation, the ECG may also show P mitrale. Two-dimensional echocardiography is useful in making the distinction between mitral stenosis and merely an Austin Flint murmur (Fig. 12.7). The chest radiograph confirms LV enlargement. The left atrium is usually normal or slightly enlarged. Radiographic evidence of pulmonary venous hypertension may or may not be present. Enlargement of the shadow of the ascending aorta to the right suggests an accompanying aneurysm of the ascending aorta, but an aneurysm can be present without this sign. The ECG shows evidence of LV enlargement, often with the high-peaked T waves and prominent Q waves of LV volume overload. T-wave inversion and ST-segment depression are seldom present until the left ventricle is extremely large.
+
+Diagnosis of aortic valve regurgitation can usually be made on the clinical findings, but other abnormalities in the aortic root allowing a rapid aortic runoff (e.g., ruptured sinus of Valsalva aneurysm, large patent ductus arteriosus with pulmonary valve regurgitation) cannot be eliminated without special studies. Color flow Doppler echocardiography firmly establishes the diagnosis.
+
+![](_page_10_Figure_13.jpeg)
+
+**Figure 12.7** Echocardiogram of aortic valve regurgitation with Austin Flint murmur. Regurgitant jet through aortic valve is directed toward anterior leaflet of mitral valve, preventing complete opening during diastole. Thus, mitral valve is held in semi-closed position during ventricular diastole (aortic valve is closed), causing partial obstruction of mitral valve orifice. Flow acceleration (and turbulence) through mitral valve orifice indicates obstruction to blood flow, resulting in the characteristic Austin Flint diastolic mitral valve murmur.
+
+Doppler echocardiography can quantify aortic valve regurgitation (see Table 12.2). Measurements are made of *regurgitant volume* (volume regurgitated per heartbeat) and *regurgitant fraction* (proportion of total ejection of the left ventricle). These measurements are highly dependent on technical experience, with overestimation the rule at first. Size of the jet visualized by color Doppler echocardiography may not represent the degree of aortic regurgitation. It is possible to measure the *vena contracta*, the size of the regurgitant jet within the regurgitant aortic valve orifice. This measurement correlates well with effective regurgitant orifice size. The width of the vena contracta just below the flow convergence is measured using the parasternal long-axis view. Vena contracta of 7 mm or greater uniformly favors severe aortic valve regurgitation, whereas measurements of 5 mm or less correspond to less regurgitation. The degree of aortic regurgitation may also be quantified by cineangiography using an aortic root contrast injection in the right anterior oblique projection.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Combined Aortic Stenosis and Regurgitation</summary><div class="details-content">
+
+Although many patients with severe aortic stenosis have mild regurgitation and a few patients with severe regurgitation have some stenosis, a small group of patients has virtually balanced lesions. Their symptoms are generally similar to those associated with aortic stenosis. This group may have a particularly unfavorable prognosis because there is both volume and pressure overload on the left ventricle.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Natural History</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Aortic Stenosis</summary><div class="details-content">
+
+The natural history of adults with aortic valve disease is incompletely known, although it is evident that severity of the stenosis gradually increases. Synthesis of four echocardiographic studies indicates that once moderate aortic stenosis is present (jet velocity by echocardiography >3.0 m · s<sup>-1</sup>), the average rate of progression in mean pressure gradient is about 7 mmHg · y<sup>-1</sup>, an increase in jet velocity of 0.3 m · s<sup>-1</sup> · y<sup>-1</sup>, and a decrease in valve area of 0.1 cm<sup>2</sup> · y<sup>-1</sup>. Aortic stenosis appears to progress more rapidly in patients with degenerative disease than in those with congenital or rheumatic etiology. A complicating factor is that some degree of stenosis may have existed in childhood, often with associated regurgitation. The natural history in these patients may be more favorable than when the disease develops de novo and more rapidly later in life.
+
+Medical therapy has generally been regarded as ineffective in preventing or retarding disease progression in aortic stenosis. Research over the past decade indicates that aortic valve disease of the elderly is not just a passive "wear-and-tear" process but an active inflammatory process with histologic changes similar to arteriosclerosis. An evaluation of statin therapy (based on its efficacy in arteriosclerosis stabilization) in the Simvastatin Ezetimibe Aortic Stenosis and Scottish Aortic Stenosis and Lipid Lowering Trial, Impact on Regression prospective randomized trials failed to identify a favorable effect of statins on progression of aortic stenosis. Ongoing research efforts may clarify the potential role of these and other agents in ameliorating disease progression.
+
+<details class="med-details"><summary>
+
+#### Survival</summary><div class="details-content">
+
+Grant reported that 35% of unoperated patients with usual symptoms of aortic stenosis are alive at 10 years. Wood stated that 46% of such patients were alive 1 to 7 years later. Frank and Ross reported that of 12 unoperated patients with severe aortic stenosis, only 18% were alive 5 years later. Based on their data, Ross and Braunwald concluded that average survival after onset of angina or syncope is 3 years and after onset of heart failure about 1.5 years. ACC/AHA guidelines suggest that after onset of symptoms, average survival is less than 2 to 3 years, with a high risk of sudden death. Thus, development of symptoms identifies a critical point in the natural history of aortic stenosis. Once a patient crosses the threshold from asymptomatic to symptomatic state, the risk of mortality promptly increases. O'Keefe and colleagues followed 50 symptomatic patients with severe aortic stenosis in whom operation was declined or deferred. Average age of these patients was 77 (60-89) years. Survival was 55%, 37%, and 25% at 1, 2, and 3 years, respectively, compared with a matched general population of 93%, 85%, and 77%. Death was from cardiac causes in all cases except one. Of 179 patients aged 83 ± 8.3 years deemed inoperable in the PARTNER IB cohort, 1-year survival was 49%.
+
+Although it is impossible to rigorously assemble such disparate data, a likely survival curve for adult patients with severe, unoperated aortic stenosis is estimated in Fig. 12.8. Deaths within the first 1 or 2 years are likely to be sudden, presumably associated with ventricular fibrillation (15%–20% of all deaths in aortic stenosis are sudden) or, after a few hours or days of acute pulmonary edema, from sudden LV failure. Most unoperated patients die in the latter mode within about 5 years of diagnosis. Beyond 5 years of follow-up, some die of gradually worsening cardiac failure, with low cardiac output and gradually worsening symptoms of pulmonary venous hypertension. Moderate pulmonary artery hypertension develops in some patients who exhibit these findings; in a few, typical symptoms and signs of RV failure become prominent.
+
+![](_page_11_Figure_5.jpeg)
+
+**Figure 12.8** Nonrigorously derived survival curves for patients with surgically untreated severe aortic stenosis (*solid line*) and severe aortic regurgitation (*dashed line*). Time zero is the time of developing an important hemodynamic effect. Survival of patients with aortic stenosis reported by Wood, Frank and Ross, and Grant is shown by *filled circles*.
+
+Asymptomatic patients with severe aortic stenosis usually develop symptoms within a few years of diagnosis. Otto and colleagues showed that about one-fourth of initially asymptomatic patients with aortic valve stenosis had developed symptoms, half by 3 years, and three-fourths by 4 years. When the Doppler outflow velocities were initially 4.0 m · s<sup>-1</sup> or greater, progression was more rapid, with three-fourths of patients symptomatic by 2 years. Thus, even in initially asymptomatic patients with aortic stenosis, progression to symptoms may be rapid, and patients should be monitored closely for progressive disease. Sudden death is uncommon in asymptomatic patients with aortic stenosis, occurring in less than 1% per year. However, as noted by Freed and colleagues, failure to identify subtle symptoms of severe aortic stenosis is common, and the subsequent mortality without surgery may exceed 10% in the ensuing 1 to 1.5 years.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Left Ventricular Structure and Function</summary><div class="details-content">
+
+The left ventricle hypertrophies progressively in the presence of important aortic stenosis, which usually develops over decades. The increase in wall thickness is usually enough to counter the high intraventricular systolic pressure and maintain normal ventricular volume. In this circumstance, LV wall stress (afterload) remains within normal range, and EF remains preserved (given the inverse relationship between systolic wall stress and EF). However, when the hypertrophic response is not adequate for progressively higher intracavitary pressures, the increased afterload can cause a decrease in EF, which is generally reversible with valve replacement.
+
+Myocardial hypertrophy in aortic valve stenosis is caused by new myofibrils added in parallel to myocytes. No new myocytes are added, but existing myocytes become thicker, not longer, compared with normal myocytes. The hypertrophy of myocardial cells (increased myocardial cell diameter) is a determinant of both increased systolic load stress and decreased LV diastolic function found in aortic stenosis, and is also related to reduction in EF. Myocardial fibrosis exerts little effect.
+
+Schwartz and colleagues found good systolic function and only hypertrophic myocardial cells when LV mass was less than 200 g · m<sup>-2</sup>. When it was 200 to 300 g · m<sup>-2</sup>, degenerative changes were present but mild. When LV mass was greater than 300 g · m<sup>-2</sup>, systolic function was greatly depressed, and multiple degenerative changes in ultrastructure were present (mitochondrial changes, disruption of sarcomeric units, nonoriented growth of fiber components, disappearance of organelles). Maron and colleagues also described these degenerative changes in detail. Krayenbuehl and colleagues found degenerative changes in the form of increased interstitial nonmuscular tissue in association with myocardial cellular hypertrophy. These changes are probably the morphologic basis for loss of inotropic (contractile) strength and irreversibility.
+
+Thus, during the compensated phase, thickening of the LV wall keeps LV afterload (systolic wall stress) more or less normal, preserving LV systolic function. LV compliance and diastolic function are gradually impaired, to a degree primarily related to extent of LV hypertrophy. At a more advanced stage, hypertrophy and wall thickness may increase less than LV systolic pressure (afterload mismatch); the resulting increase in afterload impairs LV systolic function. The degree of LV hypertrophy and decrease in contractility that ultimately develop are more often the cause of declining cardiac function. As indices of systolic function (EF, end-systolic volume, LV fractional shortening, velocity of circumferential shortening) decline, cardiac output decreases gradually or acutely, and LV diastolic function decreases with a consequent increase in LV end-diastolic pressure. By this time the condition is advanced, and chronic heart failure is present.
+
+The atrial contribution to ventricular filling is of great importance with a thickened, noncompliant ventricle. As long as sinus rhythm is maintained, left atrial and pulmonary venous pressure can remain near normal. However, loss of atrial contraction with the onset of atrial fibrillation can induce rapid clinical decompensation.
+
+The hypertrophied ventricle may have reduced coronary perfusion per gram of muscle with diminished coronary vasodilator reserve. Added myocardial oxygen demands with exercise or tachycardia may induce subendocardial ischemia and angina in the absence of coronary artery disease.
+
+Occasionally, complete heart block develops in patients with extensive calcification of the stenotic aortic valve. It may be the result of gradually increasing pressure on the bundle of His by calcific deposits beneath the commissural area between the noncoronary and right coronary cusps. However, complete heart block sometimes occurs without calcific pressure on the bundle of His. Pressure in the left ventricle is hypothesized to play a role. Rarely, relief of aortic stenosis relieves the heart block.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Aortic Regurgitation</summary><div class="details-content">
+
+Aortic regurgitation may develop acutely or more gradually as a chronic condition. Acute onset of severe regurgitation imposes a sudden large regurgitant volume on the left ventricle, which has been normal. There is little time to accommodate to the volume load, and LV end-diastolic and left atrial pressures increase rapidly. Tachycardia is the primary compensatory mechanism but may be insufficient, and the clinical situation may quickly deteriorate to pulmonary edema and circulatory shock.
+
+Patients presenting with chronic aortic regurgitation have combined volume and pressure overload of the left ventricle. Compensatory mechanisms are primarily recruitment of preload reserve and LV hypertrophy. Most patients remain asymptomatic through a long compensatory phase that may last for decades.
+
+The natural history of patients with aortic regurgitation depends primarily on its severity. Mild or moderate aortic regurgitation appears to affect activity and life expectancy minimally. LV structure and function begin to be adversely affected, symptoms develop, and prognosis becomes more limited as severity of the regurgitation increases.
+
+<details class="med-details"><summary>
+
+#### Survival</summary><div class="details-content">
+
+Even when aortic regurgitation becomes severe, there may be a long latent period (3-10 years), during which LV enlargement is only mild, symptoms are absent or mild, and the prognosis is good as long as the findings remain unchanged. Bonow and colleagues followed patients with chronic aortic regurgitation and normal EF. They found that 81% were alive and without need of aortic valve replacement 5 years later. Less than 6% per year required aortic valve replacement because of symptoms or LV dysfunction at rest, less than 3.5% per year developed asymptomatic LV systolic dysfunction, and less than 0.2% per year died suddenly. Vasodilator therapy using nifedipine may benefit such patients and delay surgical intervention. When important symptoms develop, however, prognosis becomes severely limited (see Fig. 12.8).
+
+The probability of death increases with development of specific risk factors. Symptoms of cardiac failure, development of ventricular premature beats, marked cardiomegaly (cardiothoracic ratio >0.6), and ECG evidence of severe LV hypertrophy all increased the risk of death in a group of 180 surgically untreated patients with isolated severe aortic regurgitation of rheumatic etiology. When severe aortic regurgitation develops acutely, as from infective endocarditis, the natural history is much less favorable. Only 10% to 30% survive more than 1 year after onset.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Left Ventricular Structure and Function</summary><div class="details-content">
+
+Cardiac size gradually increases in the presence of important aortic regurgitation. Quantitative angiography has shown that increased LV end-diastolic volume is directly related to the magnitude of aortic regurgitant flow.
+
+Bonow and colleagues found a higher-risk subgroup within asymptomatic patients with normal LV systolic function. Progressive enlargement (dilation) of the left ventricle or reduction in resting EF identified by serial echocardiography heralds onset of symptoms. Patients at risk for sudden death are those with extreme LV dilation or an LV cavity dimension of 75 mm or more at end-diastole and 55 mm or more at end-systole (normal values are ≤55 mm and ≤35 mm, respectively). As LV size and enddiastolic volume steadily increase, eventually, there is loss of LV reserve, and LV end-diastolic pressure then rises rapidly.
+
+As the left ventricle enlarges, LV hypertrophy begins to develop. In addition, the left ventricle undergoes an increase in mass and wall thickness, and its shape and ultrastructure change. The myocardial cell hypertrophy and increase in interstitial nonmuscular tissue found in the pressure-overloaded left ventricle of aortic stenosis are similar in the volume-overloaded left ventricle of aortic regurgitation. Concomitant with hypertrophy, LV compliance decreases, compromising diastolic function. Finally, LV end-diastolic and left atrial pressures become elevated, with further increases during exercise.
+
+At some point, LV stroke work fails to respond to increased wall stress (e.g., afterload increase by infusion of angiotensin). As LV systolic function decreases, LV end-systolic dimension steadily increases, and even in asymptomatic patients, the rate of increase is about 7 mm per year.
+
+Despite these changes and because of the complex interaction between aortic regurgitation and decreasing systemic vascular resistance, left ventricular ejection fraction (LVEF) response to exercise is favorable for a considerable time. Eventually, however, it declines, and systolic function may even decrease during stress. Symptoms then worsen, and the decline in LV function accelerates.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Bicuspid Aortic Valve</summary><div class="details-content">
+
+Bicuspid aortic valve disease is usually asymptomatic in childhood, although the presentation and natural history may rarely take the form of critical congenital aortic stenosis (see Chapter 50). The clinical manifestations relate to the functional state of the valve (stenosis, regurgitation, or both), the aortopathy (aneurysm or dissection), and the potential for endocarditis. Longitudinal studies indicate that 25% to 40% of affected patients will have cardiac events (onset of heart failure, symptomatic aortic stenosis, stroke, endocarditis, or cardiac surgery) by age 50. More than one-fourth of patients who are free of important aortic stenosis or regurgitation at initial diagnosis will require cardiac surgery within 20 years. Thus, many, if not most, patients with bicuspid aortic valves will eventually require surgical or catheter intervention.
+
+Among adults, cusp calcification progressing to *aortic stenosis* is thought to be initiated by endothelial dysfunction and inflammation, lipoprotein deposition, and fibrosis, and contributed to by turbulent flow. Calcification is frequently present by age 40, and stenosis is often then progressive.
+
+The natural history of aortic dilation in patients with unoperated bicuspid aortic valve has been studied by Davies and colleagues. Compared with patients having a tricuspid aortic valve, aneurysm progression is greater (0.19 cm · y<sup>-1</sup> vs. 0.13 cm · y<sup>-1</sup>), nearly twice as many undergo aortic surgery, and surgery occurs at a younger age. In a study using MRI and CT, additional involvement of the aortic root, aortic arch, or both was present in more than half the patients. Those with a bicuspid aortic valve appear to have a lower risk of acute ascending aortic dissection compared with those with a tricuspid valve, but the incidence of dissection remains low: 0.1% per patient-year of follow-up. Despite the risk for adverse cardiac events, 20-year survival in adults without important valve dysfunction at initial observation is equivalent to that of the general population.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Technique of Operation</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Isolated Aortic Valve Replacement</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Initial Steps</summary><div class="details-content">
+
+After the usual preparations and median sternotomy, cardiopulmonary bypass (CPB) is established at 28°C to 34°C as per surgeon preference using a single two-stage venous cannula. A cardioplegia infusion catheter is positioned in the ascending aorta, and a coronary sinus perfusion catheter may be passed through a purse-string stitch in the right atrium and positioned in the coronary sinus if there is aortic regurgitation. One arm of a multi-arm assembly on the cardioplegic infusion tubing may be connected to the antegrade cannula in the ascending aorta and another to the coronary sinus retrograde perfusion catheter with other arms fitted to ostial cannulae to be used for direct cardioplegic infusion into the coronary ostia (see "Technique of Retrograde Infusion" in Chapter 3).
+
+If cooling below 32°C, the heart may fibrillate, in which case the ascending aorta should be promptly occluded if aortic regurgitation is significant to prevent LV distention. The operation may be performed with or without an LV vent introduced through the right superior pulmonary vein. If the vent catheter is introduced before aortic occlusion, one must fill the heart so that there is positive pressure in the left atrium to prevent air entry. Following aortic clamping, antegrade cold blood cardioplegia may be infused into the aortic root if no significant aortic regurgitation exists. Even the slightest leak at the aortic valve will cause ventricular filling, although a properly functioning LV vent may prevent ventricular distention. Cold cardioplegia may be infused retrograde into the coronary sinus to achieve electromechanical arrest when there is significant aortic regurgitation. Cardioplegic arrest may be accomplished by exclusive perfusion of the coronary sinus, although right ventricular protection may not be optimal. The aortic root may be vented when coronary sinus perfusion is performed. Alternatively, in the presence of aortic regurgitation, topical and systemic cooling of the vented left ventricle may intentionally induce ventricular fibrillation, after which the aorta is promptly clamped, an aortotomy made, and direct coronary artery cardioplegia administered.
+
+Once CPB has been initiated, the plane between the aorta and pulmonary artery is dissected to optimize visualization of the aorta and aortic valve and to facilitate closure of the aortotomy. An important technical step is to identify the surface anatomy of the right coronary artery as it originates from the right sinus of Valsalva. An initial aortotomy is made about 15 mm distal from the origin of the right coronary artery. Its precise location is important not only for surgical exposure but also because of space for intraaortic positioning of an allograft, autograft, or prosthetic valve; ease and security of closure; avoiding damage to the right coronary artery or its ostium; and facilitating aortic root enlargement if necessary. Exposure for this incision is facilitated by the first assistant's retraction of the fat pad along the right atrioventricular groove over the aortic root. The pulmonary trunk may also need to be partially dissected from the aorta to avoid incising it. The initial incision is made directly anteriorly with scissors, facilitated by the collapsed state of the aorta. Once this small incision is made, the inside of the aortic root is visualized, and a decision made as to whether an allograft valve, a pulmonary autograft valve, or a prosthesis will be used or repair performed (see "Nonreplacement Aortic Valve Operations in Adults" under Special Situations and Controversies later in this chapter).
+
+The incision is extended. The surgeon has a choice depending on the operation to be performed:
+
+- Extend the incision transversely (Fig. 12.9A). This has the advantage of providing good exposure of the aortic root without distorting it. The sinutubular junction is not disturbed. Exposure at the level of the aortic valve and below into the left ventricular outflow tract (LVOT) is usually very good.
+- Extend the incision into the posterior commissure between the left and noncoronary cusps if posterior enlargement (Manouguian procedure) of the aortic root is required.
+- Extend the incision obliquely (Fig. 12.9B) into the noncoronary sinus to a point near the aortic anulus to provide maximal exposure at the level of the aortic valve and below into the LVOT. This incision, which divides the sinutubular junction, can be extended into the anterior leaflet of the mitral valve for posterior aortic root enlargement (Nicks procedure).
+- Extend the incision to divide the aorta completely (Fig. 12.9C). This incision provides optimal exposure of the aortic root because the proximal aortic structures can be easily moved and displaced inferiorly and anteriorly so that the surgeon may visualize the intact aortic root and look directly into it. This incision is best for placing aortic allografts and stentless porcine bioprostheses inside the aortic root, as well as for aortic valve replacement with a pulmonary autograft or other procedures requiring replacement of the complete aortic root. It also provides excellent exposure for routine prosthetic valve implantation.
+
+Traction stitches are placed just above the aortic valve commissures for optimal exposure of the aortic root structures, regardless of type of incision.
+
+![](_page_14_Picture_3.jpeg)
+
+**Figure 12.9** Initial steps for aortic valve replacement. (A) Initial transverse incision into ascending aorta *(dashed line)* is 15 mm above right coronary artery. Lengthened just a little, it suffices for evaluating the aortic valve and deciding on procedure to be used. Lengthened further, it is sufficient for aortic valve replacement. (B) Incision is extended into middle of noncoronary sinus of Valsalva, providing excellent exposure of aortic valve for its replacement with prosthetic device. (C) Transverse incision may be extended to divide aorta above sinutubular junction. This permits working within the intact aortic root for correct positioning of aortic valve allografts or stentless xenografts below the coronary arteries (subcoronary technique).
+
+The aortic valve is removed (Fig. 12.10A). Unless the aortic valve disease is noncalcific, a short strip of narrow packing gauze can be inserted through the valve orifice into the left ventricle (and some foolproof system is used to ensure its removal) to trap all calcific fragments that may escape during valvectomy. Neat, complete removal of the valve, particularly when heavily calcified, without damage to the LV-aortic junction, ventricular septum, or aortic wall, is one of the operation's critical aspects. Usually, an area exists in about the midportion of the right coronary cusp where an initial scissors cut can be made from the free edge to the point of cusp attachment. This incision allows entry of a knife blade to incise precisely along the attachment of the right coronary cusp toward the commissure between left and right coronary cusps. This commissure may also be calcified, but the incision can usually be carried between it and the aortic wall, often with scissors. The incision is then carried along the attachment of the left coronary cusp, stopping at a point about two-thirds of the distance to the left coronary–noncoronary cusp commissure because, beyond that point, there is a tendency to carry the incision *into* the aortic wall or LV-aortic junction.
+
+Returning to the right coronary cusp, the incision is extended toward the right coronary-noncoronary cusp commissure. In this area and in this commissure, the calcification is often especially abundant, sometimes extending onto the underlying ventricular septum or, especially at the commissure, onto the aortic wall or underlying membranous septum. Thus, in dissecting this area, great care must be taken in deciding whether to cut through the calcific cusp attachment to the aortic wall or to go around some of the calcific material and leave it for later piece-by-piece removal. To the extent possible, one-piece removal is preferable, but perforation of the septum, LV-aortic junction, or aortic wall should not become a risk.
+
+When calcium deposits completely replace the aortic valve, or when the deposits extend into the sinus aorta or anterior leaflet of the mitral valve, it is useful to mobilize the calcified tissues by the endarterectomy technique. Using a scalpel, a shallow incision is made in the aortic intima alongside the calcific deposit. This allows insertion of an endarterectomy spatula (Freer septum elevator) to lift the intact hard deposit away from the soft underlying aortic or mitral valve tissues without fragmenting the calcified material. The incision is carried down along the attachment of the noncoronary cusp, stopping about two-thirds of the distance to the commissure between the noncoronary and left coronary cusps. The latter commissural area, which is at particular risk of junctional or aortic wall perforation during valvectomy, can then be approached with excellent visibility from both sides; the incision is carried through this area with firm upward traction on the valve.
+
+After the valve is excised, the bed is examined, and any loose calcific particles removed. Any remaining fragments are grasped with forceps or small rongeur and gently enucleated with a twisting motion (Fig. 12.10B).
+
+![](_page_15_Picture_2.jpeg)
+
+**Figure 12.10** Excision of aortic valve and débridement. (A) A scissors cut is made in aortic valve cusp, extending to, *but not into*, aortic wall. Valve excision is along hinge line of aortic valve cusp. Careful excision of valve usually includes removing most calcium deposits along with the valve. (B) Residual calcium deposits are debrided from aortic anulus and sinus aorta. Sellman or other forceps and bone rongeurs are instruments commonly used to accomplish this.
+
+The downstream area of aorta is irrigated and examined for any loose calcific fragments, and the valve bed is wiped with gauze and irrigated with cold saline solution to remove any tiny fragments. The LV vent is turned off so that it will not suck fragments into the inaccessible depths of the ventricle, and the gauze strip is carefully removed from the LV cavity, most likely having trapped a few small calcific fragments. The LV cavity is then vigorously irrigated and aspirated with high suction and inspected for fragments. Generally, no fragments are found. With the preventive measures against calcific embolization complete, the LV vent is again activated.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Prosthetic Aortic Valve</summary><div class="details-content">
+
+Insertion of a prosthetic aortic valve is the most common operation for replacing the aortic valve. The anulus is sized, and an appropriate-size prosthesis selected. There is no advantage in choosing an oversized prosthesis that will erode the aortic anulus. Instead, if the aortic anulus is too small to accommodate a prosthesis that will provide adequate hemodynamic performance, a supraanular device may be chosen or the anulus enlarged (see "Managing the Small Aortic Root" under Special Situations and Controversies later in this chapter).
+
+<details class="med-details"><summary>
+
+##### Interrupted Suture Technique</summary><div class="details-content">
+
+The valve may be implanted using simple stitches, figure of eight or horizontal mattress stitches, the latter with pledges on the aortic side (everting intraanular) or on the ventricular side (noneverting, supraanular) technique. Most often, mattress sutures are fitted with a compressed PTFE pledget placed centrally and needles at each end. Regardless of technique, alternating suture colors (green, white) simplifies sorting so that sutures may be held together as a group for each aortic sinus. Suture placement begins at the commissure between the left and right coronary cusps and continues clockwise to the right-noncoronary commissure (Fig. 12.11A). Time can be saved by passing the suture through the sewing ring of the prosthesis after completing each anular pass. This is easier for a trileaflet than bicuspid valve, although, with experience, it can be accomplished in this setting as well. Planning a consistent number of sutures in each cusp (for mattress or figure of eight stitches, 4 stitches in each cusp for small valves such as 19, 21, or 23 mm for a total of 12 stitches, and 5 stitches in each cusp for a total of 15 stitches for larger valves) facilitates this technique. The prosthesis is held away from the aortic anulus until all stitches have been placed.
+
+![](_page_16_Picture_10.jpeg)
+
+**Figure 12.11** Aortic valve replacement with mechanical prosthesis or stent-mounted bioprosthesis, interrupted suture technique. (A) Polytetrafluoroethylene felt pledget-reinforced 2-0 braided polyester suture is placed as interrupted horizontal mattress stitches passed from aortic side through aortic anulus. Needles are then passed through sewing cuff of replacement device. Suturing begins at commissure between left and right sinus of Valsalva and proceeds clockwise in right coronary sinus to commissure between right and noncoronary sinus. Alternating color of suture aids suture sorting.
+
+![](_page_17_Picture_2.jpeg)
+
+(B) Suturing continues in left coronary sinus of Valsalva in a counterclockwise fashion to commissure between left and noncoronary sinus. (C) Sutures surrounding anterior commissure should not penetrate tissues of membranous septum, to protect the His bundle from injury. Suturing is completed in noncoronary sinus of Valsalva. (D) Prosthesis is passed over sutures into position on aortic anulus. Sutures are sorted and tied to fix prosthesis to aortic anulus. **Figure 12.11, cont'd**
+
+*Continued*
+
+![](_page_18_Picture_3.jpeg)
+
+(E) Some bioprostheses are designed to be implanted above aortic anulus (supraanular). When these devices are used, horizontal mattress stitches are passed from ventricular side of anulus to aortic surface and then through sewing cuff of bioprosthesis. **Figure 12.11, cont'd**
+
+The anulus of the left coronary sinus of Valsalva is then approximated to the sewing ring of the aortic valve prosthesis, working counterclockwise from the commissure between the left and right coronary cusps (Fig. 12.11B). Finally, the anulus of the noncoronary sinus of Valsalva is approximated to the valve prosthesis, working clockwise from the commissure between the right and noncoronary cusp toward the commissure between the left and noncoronary cusp (Fig. 12.11C). Needles are passed through the anulus in a backhand manner. Alternatively, one can continue to place sutures in a counterclockwise fashion. The three groups of sutures are then strongly retracted so that the prosthesis may slide over the suture loops into the aortic anulus. The position of the occluder mechanism may be adjusted before the valve holder is removed.
+
+Sutures are sorted and tied down in order, working first in the noncoronary sinus in a counterclockwise approach. The first suture in the left coronary sinus closest to the commissure between the left and right coronary cusps is tied to secure seating of the prosthesis directly across the anulus from those sutures already tied in the noncoronary sinus. The sutures of the left coronary sinus are tied down in a counterclockwise fashion. Sutures are tied in the right sinus, working clockwise to complete the procedure (Fig. 12.11D). Alternatively, one may choose to tie down the sutures at the nadir of each sinus, beginning in the left, then right, and finally, the non-coronary sinus. For valve prostheses that have any part of the device projecting below the sewing ring, such as the hinge guards of a mechanical valve prosthesis, the order of tying should be altered so that the prosthesis is first secured adjacent to the portions of the device below the anulus.
+
+For supraanular placement, which is particularly important in the small aortic anulus (Fig. 12.11E), pledgets are placed below the anulus in the LVOT by passing a double-needle suture with a center pledget as a mattress stitch from below the anulus and up through the prosthesis. A larger prosthesis is thereby secured above the anulus as the anulus is compressed between the pledget and device.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Continuous Suture Technique</summary><div class="details-content">
+
+Continuous suture technique provides the advantage of tight approximation of the prosthesis to the aortic valve anulus, because the suture loops can slip through the tissues so that tension is equalized with heart motion. Inserting a slightly larger prosthesis may also be possible because an interrupted mattress suture technique may bunch tissues together.
+
+The aortic anulus is divided into three segments by the commissures. During valve replacement, the anulus is further subdivided into six subsegments at the midpoint on the anulus between the commissures. Polypropylene suture (2-0) is used, with needles at each end and a compressed PTFE pledget in the center of the suture. An initial mattress stitch is placed at the center of the sinus of Valsalva through the anulus of the aortic valve and brought through the sewing ring of the prosthesis (Fig. 12.12A). The prosthetic valve is held away from the anulus and positioned and retracted for added exposure. Exactly three stitches are placed between the initial pledgeted stitch and the commissure on each side of the sinus. The final stitch at each end is secured to the wound drapes by a hemostat. A loop of size 0 suture is placed around the polypropylene suture as the first suture loop is completed through the prosthesis in each subsegment. This suture loop is held by a hemostat to be used to adjust tension on the suture line.
+
+Sutures in the right coronary anulus are placed from the center toward the commissures in the first and second subsegments. The initial stitch in the left coronary sinus passes through the sewing ring of the prosthesis opposite the last stitch of the second subsegment. Working from the center to the commissures in the left coronary sinus, the third and fourth subsegments are approximated to the prosthesis, and then the fifth and sixth subsegments are completed in the noncoronary sinus.
+
+Traction is placed on the six size-0 silk loop sutures to pull the prosthesis into the anulus of the aortic valve (Fig. 12.12B). The occluder of the prosthesis is opened, and the area below the prosthesis is checked to ensure that no loose suture loops exist in the LVOT beneath the prosthesis.
+
+The tension suture loops are removed sequentially, and the ends of the polypropylene suture pulled up tightly to approximate the sewing ring of the prosthesis to the anulus. A final check of this approximation should be made with special attention to placement of the pledget, which should be above the anulus at the point of maximal stress deep in the center of the sinus of Valsalva. The suture ends are then joined by a knot at the three commissures (see Fig. 12.12B).
+
+![](_page_19_Picture_9.jpeg)
+
+**Figure 12.12** Aortic valve replacement with mechanical prosthesis or stent-mounted bioprosthesis, continuous suture technique. (A) Polytetrafluoroethylene felt pledget-reinforced 2-0 polypropylene suture is placed through aortic anulus as a horizontal mattress stitch at midpoint of right coronary sinus. Stitch is brought through sewing cuff of prosthesis. Exactly three suture loops are placed through aortic anulus and sewing cuff between initial stitch and commissure. Tension loop is placed around first suture loop. After suturing right sinus, prosthesis is attached to left coronary sinus and finally to noncoronary sinus.
+
+![](_page_20_Picture_3.jpeg)
+
+(B) Prosthesis is approximated to anulus of aortic valve by pulling up suture loops. Tension loops are pulled up to tightly approximate sewing cuff to deepest point in sinus of Valsalva. Suture ends at commissures are then pulled up to seat the valve in aortic root. Sutures are joined at commissures. **Figure 12.12, cont'd**
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Allograft Aortic Valve</summary><div class="details-content">
+
+Replacing the aortic valve with a transplanted human aortic valve became more feasible and available to surgeons because of improved commercial cryopreservation techniques and is of value in the setting of complex aortic root endocarditis.
+
+<details class="med-details"><summary>
+
+##### Subcoronary Technique</summary><div class="details-content">
+
+This technique is seldom employed in favor of root replacement but may still be of value in certain circumstances. Since the graft is to be sewn in "freehand" using the natural aorta for support with this technique, a clear understanding of the anatomy and spatial relationships of the aortic root is essential. Important deformity of the aortic sinuses should be appreciated and corrected, or the procedure abandoned in favor of conventional valve replacement or aortic root replacement techniques.
+
+A transverse aortotomy is initially made. After assessing aortic valve morphology and anatomy of the aortic root, the incision is extended to transect the aorta (see Fig. 12.9C). The aortic valve is excised, and anulus debrided using usual techniques. The diameter of the aortic root at the level of the ventricular-aortic junction (anulus) is determined using standard sizing devices. This dimension must be accurately measured and clearly visualized. The aortic valve allograft to be placed inside the aortic root will consume space simply because of the thickness of its wall. Therefore, it must be 1 to 2 mm smaller in internal diameter than the measured aortic anulus. This will allow some redundant aortic valve cusp to provide a largerthan-normal coaptation surface to accommodate the expected tissue shrinkage for several weeks after implantation.
+
+The aortic allograft is removed from the liquid nitrogen freezer valve bank and thawed by protocol. The septal muscle is excised, with a finger placed inside the aorta to stabilize the graft, gauge the thickness of the trimmed graft, and remove endothelial cells that are antigenic. Excess aorta is trimmed from the valve cusps, leaving a 3- to 4-mm rim of aorta beyond attachment of the cusps. Most of the sinus aorta is removed from the right and left coronary sinuses, leaving the noncoronary sinus intact (Fig. 12.13A). This technique was described by Ross and colleagues in London and has been used successfully for many years.
+
+![](_page_20_Picture_11.jpeg)
+
+**Figure 12.13** Aortic valve replacement with aortic valve allograft, subcoronary technique. (A) Aortic allograft is chosen that is no more than 2 mm smaller in internal diameter than LVOT at aortic anulus. Cryopreserved aortic allograft is taken through the standard controlled thawing process. Its septal myocardium is thinned out and anterior leaflet of mitral valve removed along with tissues below aortic valve to create a level plane. Allograft aorta is removed from right and left coronary sinus of Valsalva, leaving 3 to 4 mm of aorta beyond hinge point of valve. Noncoronary sinus remains intact, maintaining relationships of commissures on each side of sinus. *Continued*
+
+![](_page_21_Picture_2.jpeg)
+
+(B) Patient's aorta is divided above sinutubular junction so that valve replacement may proceed within the intact aortic root. Traction stitches are placed above each commissure. Allograft is inverted through its anulus into patient's LVOT. Allograft is attached to aortic anulus and below commissures in a generally level plane using continuous stitches of 3-0 polypropylene suture. (C) Allograft is pulled back into aorta. Sinus aorta of allograft is attached to patient's sinus aorta below the coronary ostia. Sutures proceed progressively up commissures to accurately re-create relations of aortic valve within aortic root. Suturing begins at lowest point of sinus of Valsalva and proceeds to top of each commissure. Separate sutures are used for each sinus and are joined at top of commissures. Intact noncoronary sinus of graft is sewn to patient's aorta by continuous suture. **Figure 12.13, cont'd**
+
+The allograft is implanted in anatomic position. Three stitches are used to attach it to the outflow tract. The first suture is 3-0 or 4-0 polypropylene, placed using two small (17-mm) strong halfcircle needles. This suture is chosen for high needle strength and low tissue drag. The suture is placed through the patient's aortic outflow tract below the medial commissure between the right and left coronary sinuses and through the septal myocardium below the corresponding commissure in the graft; the stitch is placed below the anulus of the aortic valve. The other two stitches are simply stay sutures placed to assist in aligning the allograft to the patient's aortic root. These sutures will be removed because the primary suture line includes their position. They are placed beneath the appropriate commissure of the allograft and directly below the anterior and posterior commissures of the patient's aorta.
+
+The allograft valve is lowered into position in the patient's aortic root. Commissures of the allograft are inverted through its anulus into the patient's left ventricle so as to expose the subvalvar edge of the allograft. A knot is placed in the primary suture, and the stay sutures are tightened to align the allograft with the LVOT. Stitches are placed between the allograft and the LVOT at or below the level of the anulus, attempting to make a level suture line (Fig. 12.13B). Because the aortic anulus is not circular but crescent-shaped, the stitches are well below the fibrous anulus in the subcommissural region and through this fibrous tissue of the anulus at the midpoint of the aortic sinus (see Chapter 1). The stitches below the left coronary sinus are placed first. The suture line is taken to a point below the posterior commissure. Using the opposite needle, the stitches between the allograft and LVOT are placed below the right coronary sinus and completed below the noncoronary sinus (see Fig. 12.13B). Alternative suture techniques are equally effective, such as using three separate polypropylene sutures to facilitate placing multiple suture bites without "snugging" the suture line to improve exposure, after which the sutures are tightened with a blunt nerve hook prior to tying. In the small aortic root, simple sutures of 4-0 polypropylene are also effective.
+
+The commissures of the allograft are pulled out of the left ventricle so that the allograft assumes its normal position and configuration. The allograft commissures are attached to the patient's sinus aorta using continuous 4-0 or 5-0 polypropylene sutures. Separate sutures are used for each aortic sinus. The first stitch is taken deep in the sinus aorta at mid position in the sinus slightly above the aortic anulus and then passed through the allograft. Suturing proceeds along the aortic sinus toward the commissure so as to place the allograft flat against the patient's aortic wall. The final stitch is placed at the top of the commissure, leaving the suture to be secured later (Fig. 12.13C). Suturing proceeds in each aortic sinus until the allograft is completely attached. Either the right or left coronary sinus is completed first, sewing from the center point of the sinus to each of the commissures using opposite ends of the suture. The repair is completed in the noncoronary sinus by shortening the allograft aorta to approximate the height of the patient's intact noncoronary sinus. The two edges of the aorta are oversewn by continuous suture so that the intact noncoronary sinus of the allograft is completely enclosed within the aorta. Optionally, the space between the allograft noncoronary sinus and the underlying native aortic wall can be partially obliterated with mattress sutures that are tied outside the native aorta. The ends of the patient's aorta are then anastomosed by continuous suture.
+
+Intraoperative echocardiography is used to confirm aortic valve competence.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Root-Enlarging Technique</summary><div class="details-content">
+
+An aortic allograft may be used for valve replacement as part of a root-enlarging operation. A transverse incision is made in the patient's aorta. The incision is extended to the posterior aspect of the aorta and into the posterior commissure between the left and noncoronary sinuses. Incision into the triangular space of the commissure between the fibrous attachment of the native aortic valve opens the aortic root where there is little fibrous support so that the edges of the aortotomy will separate widely. The incision is taken to the upper edge of the anterior leaflet of the mitral valve, but it does not need to enter the leaflet tissue to provide the desired separation of the edges of the incision. The increased diameter of the patient's aortic root is measured and an appropriately sized aortic allograft chosen. The allograft is trimmed, leaving the noncoronary sinus intact. The sinus aorta is removed from the left and right sinuses, leaving a few millimeters attached to the fibrous support of the cusps. The allograft is attached to the rim of the aortic-mitral anulus (without entering the actual anterior leaflet of the mitral valve) and superior aspect of the left atrium with interrupted 3-0 or 4-0 polypropylene sutures. The stitches are placed in the corresponding mitral valve and left atrium of the allograft's noncoronary sinus. A PTFE felt strip is fashioned to slightly more than the length of the unsupported area of the separated aortotomy. The sutures of the noncoronary sinus are then tied down over the felt strip so as to incorporate it and fill in any potential defects in the suture line. The commissures of the valve are inverted into the LVOT, and the rest of the repair is completed according to the approach previously described under "Subcoronary Technique." The allograft's intact noncoronary sinus is used to close the aortotomy and widen the aortic root.
+
+When greater enlargement of the LVOT is required, or when there is infective endocarditis with extension of anular abscess into the anterior leaflet of the mitral valve, the incision in the aorta is extended across the mitral valve anulus into the middle of the valve's anterior leaflet. Anular abscesses are thoroughly debrided and much of the anterior leaflet of the mitral valve removed (Fig. 12.14A). The anterior leaflet of the mitral valve is left attached to the aortic allograft and used to widen the LVOT or repair defects in the patient's mitral valve (Fig. 12.14B). The defect in the roof of the left atrium is closed with a patch taken from the aorta of the allograft or with bovine pericardium.
+
+![](_page_22_Figure_11.jpeg)
+
+**Figure 12.14** Aortic valve replacement with allograft, aortic root enlarging technique, or repair of anular abscess. (A) Aortotomy is extended through posterior commissure into abscess of patient's mitral valve anterior leaflet. Abscess is debrided or simply incised if procedure is used to widen LVOT. *Continued*
+
+![](_page_23_Picture_2.jpeg)
+
+(B) Anterior leaflet of mitral valve is left attached to allograft and used to widen LVOT or repair defects caused by endocarditis. Anterior leaflet repair is done with interrupted stitches for greatest security. Defect in left atrium is closed with a patch of aorta from the allograft. **Figure 12.14, cont'd**
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Aortic Root Replacement Technique</summary><div class="details-content">
+
+An aortic allograft may be used to replace the patient's aortic root completely when gross deformity is caused by infection or congenital anomaly, or it may be used to enlarge the root. Many surgeons use this technique routinely because aortic valve competence is virtually assured due to retention of the valve relationships within the intact aortic root of the allograft.
+
+An initial transverse aortotomy is made (Fig. 12.15A). After decision to proceed with aortic root replacement, the patient's aorta is transected (Fig. 12.15B). The sinus aorta is removed except for a rim surrounding the ostia of the coronary arteries. The aortic valve is removed and an appropriately sized aortic allograft selected. The allograft is used intact and in a natural anatomic orientation, with only the excess of septal myocardium and the anterior leaflet of the mitral valve removed. Size match is not nearly as important as it is for freehand subcoronary valve replacement, but if the aortic anulus is more than 3 mm larger in diameter than the largest available aortic allograft, the patient's aortic root should be narrowed to approximate the size of the allograft. This can be done conveniently by placing a pledgeted mattress stitch through the aortic anulus alongside the commissures so that when tied, the intercusp triangle below the commissure is obliterated (see "Method for Reducing Diameter of Dilated Aortic Anulus" later in this chapter).
+
+The allograft is attached to the LVOT at the aortic anulus and below the commissures by simple interrupted stitches of 3-0 or 4-0 polypropylene (Fig. 12.15C). Some, but not all surgeons, add a hemostatic PTFE felt collar. The felt is approximately 5 mm wide and long enough to encircle the allograft. The allograft is slipped over the sutures into the desired position in the LVOT. The sutures are then tied down, incorporating the felt strip within the suture loops (Fig. 12.15D). This is less desirable in the setting of infection.
+
+An alternative hemostatic method is to incorporate a doublesuture-line technique in which the first suture line uses three separate polypropylene continuous sutures (one for each sinus), placing the sutures as in the interrupted technique. They are gently tightened with a nerve hook and tied. A second suture line incorporates the cut edge of the aortic wall adjacent to the anulus and the adventitia of the allograft immediately above the prior suture line.
+
+![](_page_23_Picture_4.jpeg)
+
+**Figure 12.15** Aortic valve replacement, aortic root replacement technique. (A) Transverse aortotomy is made. (B) Traction stitches are placed in aorta above each commissure, and aortic valve is excised. When decision is made to proceed with complete replacement of aortic root, aortotomy is extended to divide aorta. Aorta is removed from sinuses of Valsalva, except for generous buttons around coronary artery ostia. *Continued*
+
+![](_page_24_Picture_3.jpeg)
+
+(C) Aortic allograft is minimally trimmed, removing anterior leaflet of mitral valve. Allograft root is attached to anulus of patient's aortic valve with interrupted stitches of 3-0 or 4-0 polypropylene suture. Simple stitches are used. (D) Suture loops are tied down over a narrow strip of polytetrafluoroethylene felt or pericardium to support and fix diameter of aortic anulus and seal spaces between stitches. **Figure 12.15, cont'd**
+
+*Continued*
+
+![](_page_25_Figure_2.jpeg)
+
+(E) Left coronary artery button is anastomosed to opening in allograft created by excising left coronary artery of graft. Continuous stitches of 4-0 or 5-0 polypropylene are used, depending on thickness of tissues. (F) Opening is made in allograft at position of right coronary artery unless patient's aortic root was greatly dilated. Dilation of aortic root displaces right coronary artery; in this case, it is advisable to complete the aortic anastomosis so that aorta may be filled under pressure to properly locate position for anastomosis of right coronary artery. (G) End-to-end anastomosis of allograft to patient's aorta completes the repair. **Figure 12.15, cont'd**
+
+The coronary ostia on the allograft are removed to create openings 5 to 10 mm in diameter (Fig. 12.15E and F). The coronary arteries are anastomosed to the allograft by continuous 4-0 or 5-0 polypropylene suture using a small needle (exact size depends on thickness of the tissues). The left coronary anastomosis is created first (Fig. 12.15E), followed by the right coronary anastomosis (Fig. 12.15F). Repair is completed by end-to-end anastomosis of the distal end of the allograft to the patient's aorta (Fig. 12.15G). Continuous stitches of 3-0 or 4-0 polypropylene are used.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Cylinder Technique</summary><div class="details-content">
+
+The aortic valve allograft may be inserted as a cylinder within the aortic root using a technique described by O'Brien and colleagues.
+
+Buttons of sinus aorta are excised, including the ostia of the left and right coronary arteries of the allograft. The resultant opening may need to be extended proximally because the allograft valve now lies a little downstream from its native position. This technique has the potential disadvantage of too much open space between the allograft and native aortic walls.
+
+In a slight modification of the cylinder technique, the center of each sinus is removed before inserting the cylinder of allograft, leaving an intact strut of aortic wall over each sinus. This approach maintains the integrity and special relationships of the allograft until the majority of the second (downstream) suture line of each sinus is complete and the bar over that sinus excised.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Porcine Xenograft Stentless Bioprosthesis</summary><div class="details-content">
+
+Porcine xenograft stentless aortic valves are available as an entire untrimmed aortic root (Medtronic, Inc, Minneapolis, MN; Freestyle Aortic Root Bioprosthesis) (Fig. 12.16A).
+
+<details class="med-details"><summary>
+
+##### Subcoronary Technique</summary><div class="details-content">
+
+The implant technique is similar to aortic valve replacement with aortic allografts. The aorta is divided about 1 cm above the sinutubular junction, or a transverse aortotomy is made in the same location. The proper size of xenograft is chosen using the sizing devices supplied by the manufacturer. The diameter of the aortic anulus is measured, and the same-size xenograft is chosen for implantation. Downsizing is not required because the xenografts are sized according to *outside* diameter of the device, in contrast to aortic allografts, which are sized according to *inside* orifice diameter. Some surgeons choose a xenograft 1 or 2 mm larger than the anulus because these flexible stentless bioprostheses fit easily into the aortic root. However, no advantage exists to greatly oversizing the prosthesis, because oversized xenografts increase the gradient across the valve.
+
+The Medtronic Freestyle bioprosthesis requires trimming before implantation (see Fig. 12.16A). The sinus aorta is removed from the right and left sinuses of Valsalva. The noncoronary sinus remains intact to fix the position of two of the three commissures of the valve. The lower edge of the aortic root of the xenograft is covered with polyester cloth to assist with implantation and prevent shrinkage when xenograft septal myocardium is absorbed. This cloth limits how deeply the sinus aorta may be excised, especially in the right coronary sinus. Care should be taken not to disrupt the cloth covering.
+
+The aortic valve is excised in the usual manner, and all calcific deposits are removed from the aortic anulus and sinus aorta. Exposure is enhanced by traction sutures placed at the sinus rim above each commissure. Markings on the cloth covering the lower edge of the xenograft correspond to each commissure. Continuous 3-0 polypropylene suture is used to attach the lower edge of the xenograft to the patient's aortic anulus. A small needle with a taper-cut design is best to allow easier penetration of the polyester fabric. The suture line starts in the intercusp triangle below the commissure between left and right sinuses.
+
+![](_page_26_Picture_3.jpeg)
+
+**Figure 12.16** Aortic valve replacement, porcine xenograft stentless bioprosthesis. (A) St. Jude Medical Toronto SPV bioprosthesis is presented with sinus aorta removed from all three sinuses of Valsalva. Device is covered with polyester fabric. Medtronic Freestyle porcine xenograft bioprosthesis is presented with intact aortic root with less fabric. There is an inflow sewing ring, and fabric covers portions of septal myocardium on aortic root. Aorta is removed by the surgeon from right and left coronary sinuses of Valsalva, leaving noncoronary sinus intact. (B) Inflow sewing cuff of bioprosthesis (Freestyle) is attached to aortic valve anulus with continuous stitches of 3-0 polypropylene suture. Tension loops are placed around every third suture loop to make it easier to tighten suture and approximate bioprosthesis to aortic anulus. Alternatively, simple interrupted stitches of 2-0 or 3-0 braided polyester are used.
+
+*Continued*
+
+![](_page_27_Picture_2.jpeg)
+
+![](_page_27_Picture_3.jpeg)
+
+(C) Placement of stitches to attach device to aortic anulus. A generally level plane is achieved by sewing through anulus, except in intercusp triangles, where stitches are placed below hinge point of aortic valve. Stitches should not be placed into membranous septum below anterior commissure, to protect conduction system from injury. (D) Sinus aorta of graft is attached to sinus aorta of patient below right coronary artery. Continuous stitches of 4-0 polypropylene suture are used. Suturing continues around coronary ostium to smoothly attach xenograft to patient and to achieve correct positioning of commissures. Because it is fixed tissue, xenograft will direct suture placement so as not to distort itself (i.e., patient's aorta is made to conform to xenograft, rather than distorting graft to conform to shape of patient's sinus of Valsalva). (E) Suturing continues below left coronary artery and up edges of xenograft to attach adjacent commissures of xenograft to patient's aorta. Noncoronary sinus aorta of xenograft is trimmed to match height of patient's noncoronary sinus aorta so that xenograft and patient's aorta may be attached by simple continuous suture. (F) Complete root replacement technique may be employed when Medtronic Freestyle device is used to repair aortic root disease. Inflow sewing cuff of xenograft is attached to patient's aortic anulus by continuous or simple interrupted suture technique. A narrow strip of polytetrafluoroethylene felt may be placed within suture loops for greater hemostasis. Left coronary artery of xenograft is removed and will always be the proper site for anastomosis of patient's left coronary artery to xenograft. Because porcine coronary arteries are closer together than 120 degrees, it is often necessary to position the opening for right coronary artery anastomosis farther to the right than the location of the porcine right coronary artery. *SPV,* Stentless porcine valve. **Figure 12.16, cont'd**
+
+![](_page_27_Picture_5.jpeg)
+
+The prosthesis is held away from the anulus as suture loops are placed (Fig. 12.16B). A heavy suture (0 or 2-0) is passed around every third suture loop to act as a tension-adjusting loop suture. These tension loops are secured by a small hemostat. Suturing proceeds below the right sinus to the commissure below the right and noncoronary sinuses. Stitches are placed mostly through the thick fibrous hinge of the aortic valve (anulus), attempting to level the plane of the suture line rather than strictly following the semilunar plane of the valve hinge (Fig. 12.16C). From the midpoint of the right coronary sinus to the commissure between the right and noncoronary sinuses, the stitches must be through the anulus, not below and into the myocardium, to protect the conduction system from injury.
+
+Suturing continues below the left sinus of Valsalva until below the commissure between the left and noncoronary sinuses. A separate suture is used for noncoronary sinus repair. Tension loops are placed around every third stitch. The prosthesis is seated in the aortic root by sequentially pulling up on the tension loops to approximate the fabric of the xenograft to the aortic anulus. Alternatively, the inflow suture line may be simple interrupted stitches placed with the xenograft held away from the anulus (see Fig. 12.16B). Many surgeons prefer the interrupted stitch technique because it is similar to implanting prosthetic devices and avoids the possibility of a purse-string effect.
+
+The sinus aorta of the xenograft is attached to the patient's sinus aorta by continuous stitches of 4-0 polypropylene (Fig. 12.16D). The initial stitch is placed in the patient's sinus aorta just below the right coronary ostia. The suture line comes very close to the coronary ostia to achieve proper fit of the xenograft tissues to the patient's sinus aorta. This is especially true for the right coronary sinus of the xenograft, which is covered with cloth quite high on its external surface. The commissure between the right and left sinuses of the xenograft must be carefully located so as not to distort the xenograft. Suturing continues beneath the left coronary artery to the top of each adjacent commissure (Fig. 12.16E).
+
+The noncoronary sinus repair is accomplished by trimming the xenograft to the same height as the patient's noncoronary sinus aorta. The two edges of tissue are approximated by direct suture (see Fig. 12.16E). Sufficient space usually exists in the patient's noncoronary sinus of Valsalva to accommodate the xenograft without distortion. If the diameter (length) of the aorta at the sinutubular junction in the noncoronary sinus is greater than that of the sinutubular junction of the xenograft, the discrepancy can be compensated for by placing stitches more closely on the xenograft than the patient's aorta. The repair is completed by anastomosis of the aorta or closure of the transverse aortotomy.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Aortic Root Replacement Technique</summary><div class="details-content">
+
+The Medtronic Freestyle bioprosthesis may be implanted as a complete aortic root replacement (Fig. 12.16F). This method is employed when the aortic root is distorted or when it is dilated enough that support for the xenograft as a subcoronary valve implant will be inadequate. The aorta is divided just above the sinutubular junction. The left and right coronary arteries are mobilized, retaining a generous rim of sinus aorta around the coronary ostia, and the noncoronary sinus aorta is excised. The device is implanted as a complete root. The inflow suture line is placed as for subcoronary implantation using continuous 2-0 polypropylene. The suture line starts in the intercusp triangle below the commissure between left and right sinuses. Suture loops are placed through the anulus of the aortic valve below the right sinus, then the left, and then the noncoronary sinus. Tension loops are placed around the primary suture every third suture loop. Suture loops may be placed around a PTFE felt strip for added suture line hemostasis. Alternatively, simple interrupted sutures may be employed.
+
+The device is firmly attached to the aortic valve anulus by tightening the suture loops. The ligature on the left coronary artery of the xenograft is cut away to create an opening into the graft. The patient's left coronary artery is anastomosed using continuous 4-0 or 5-0 polypropylene suture. Although the left coronary artery always fits neatly to the position of the graft's left coronary artery, the right coronary artery may not fit properly to its counterpart because coronary arteries in the porcine aortic root are closer together than in humans. It is usually necessary to create another opening into the right coronary sinus of the graft at an appropriate location to prevent kinking of the patient's right coronary artery. The position is usually to the right of the right coronary artery of the porcine root, although it may be placed on part of the base of the porcine right coronary artery. Proper location of the right coronary artery is facilitated by filling the RV with blood from the pump-oxygenator. Any evidence of myocardial ischemia after aortic root replacement indicates need for revision of the location of the coronary anastomosis or for coronary artery bypass grafting.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Autograft Pulmonary Valve</summary><div class="details-content">
+
+The aortic valve may be replaced with the patient's own pulmonary valve (pulmonary autograft), and a pulmonary allograft may be used to replace the pulmonary valve. This operation was devised by Ross and carries his name. The operation has the advantage of placing autogenous tissue in the high-pressure aortic position that theoretically should last indefinitely, assuming the procedure is technically correct, and the autograft does not dilate in the high-pressure arterial circulation. It is of particular value in the growing child (See "Selection of Technique and Choice of Device for Isolated Aortic Valve Replacement" later in this chapter). The allograft tissue is placed in the low-pressure pulmonary position, where if it should fail in a regurgitant manner, regurgitation may be well tolerated for a long time.
+
+CPB is established using two cannulae for venous drainage. A right-angle cannula is placed directly into the superior vena cava at the pericardial reflection. The other is placed in the inferior vena cava through the right atrium at the diaphragm (see Chapter 2). Alternatively, a single two-stage venous uptake cannula may be used, placing the second-stage opening low in the right atrium near the inferior vena cava orifice. The vacuum-assisted venous return provides more safety and reserve when the single-cannula technique is used, reducing the risk and consequences of the airlock, which may occur in a gravity drainage system when the RV is opened (see "Vacuum-Assisted Venous Return" in Chapter 2). Oxygenated blood is returned to the ascending aorta.
+
+<details class="med-details"><summary>
+
+##### Pulmonary Autograft Technique</summary><div class="details-content">
+
+The aortic root is explored through the usual transverse incision. Once it is determined to proceed with the pulmonary autograft operation, the ascending aorta is divided, the aortic valve removed, and the entire sinus aorta excised except for a generous rim around the coronary ostia (Fig. 12.17A). Traction stitches on the aorta above the coronary arteries are helpful. Only the fibrous connection of the aortic cusps remains for attachment of the pulmonary autograft. Traction stitches are placed above each commissure. Diameter of the aortic anulus is measured using Hegar dilator sizers.
+
+The pulmonary trunk is separated from the aorta up to its bifurcation. It is divided at the bifurcation, taking care not to shorten the right pulmonary artery (Fig. 12.17B). The pulmonary valve is inspected from above. If it is normal, operation may proceed. If it is abnormal, the pulmonary artery is reanastomosed and an aortic allograft used to replace the aortic root.
+
+Dissection between the medial commissure of the aorta and the pulmonary trunk comes down onto the muscle of the right ventricular outflow tract (RVOT; Fig. 12.17C). Thorough dissection between the aorta and pulmonary trunk, especially low onto the RV in the plane between the RVOT and the infundibular septum, makes removing the pulmonary trunk much easier.
+
+The anterior intercusp triangle below the anterior commissure is identified as a reference point for opening the RVOT. A small right-angle clamp is placed precisely in the anterior intercusp triangle and pushed through the anterior wall of the RV. The small opening is carefully enlarged. The pulmonary trunk is separated from the RV, looking inside frequently to maintain appropriate length of the ventricle below the pulmonary valve (Fig. 12.17D). Incision of the RVOT continues on the right side and posterior to the extent of previous dissection (Fig. 12.17E).
+
+![](_page_29_Figure_2.jpeg)
+
+**Figure 12.17** Aortic valve replacement with pulmonary autograft (Ross procedure), aortic root replacement technique. (A) Ascending aorta is divided, aortic valve is removed, and all aorta from sinuses of Valsalva is excised except for generous buttons around coronary artery ostia. Traction stitches are placed above each commissure. (B) Pulmonary trunk is divided at bifurcation. Pulmonary valve is inspected to ensure normal morphology. (C) Dissection between medial commissure of aortic valve and pulmonary trunk enters infundibular septum. Plane between infundibular septum and RVOT is identified and dissection carried as far behind pulmonary trunk as is convenient. (D) RVOT is opened anteriorly 5 mm below pulmonary valve.
+
+*Continued*
+
+![](_page_30_Figure_3.jpeg)
+
+(E) Incision of RVOT is extended posteriorly to extent of previous dissection (C). (F) Shallow incision is made below pulmonary valve posteriorly in RVOT, joining extent of RV incisions. Angle of scalpel is changed so that ventricular myocardium may be shaved off infundibular septum without injuring underlying first septal branch of left anterior descending coronary artery. (G) Pulmonary autograft trunk is transferred to aortic position. Simple interrupted stitches of 3-0 polypropylene are used to attach pulmonary autograft to aortic anulus (see Fig. 12.15B). (H) Narrow strip of polytetrafluoroethylene felt or pericardium is placed within suture loops. Pulmonary autograft is partially inverted into LVOT. Sutures are tied to secure pulmonary autograft to anulus of aortic valve, making sure that there is direct tissue approximation and keeping support strip to the outside. **Figure 12.17, cont'd** *Continued*
+
+![](_page_31_Figure_2.jpeg)
+
+**Figure 12.17, cont'd** (I) An opening is made in posterior sinus of Valsalva of pulmonary trunk and a narrow strip of tissue removed from one side to create a site for anastomosis of left coronary artery. (J) Left coronary artery is anastomosed to pulmonary trunk using continuous stitches of 5-0 polypropylene. (K) Pulmonary trunk is anastomosed in end-to-end fashion to ascending aorta. Aortic occlusion clamp is removed temporarily to fill pulmonary autograft under pressure so that proper position for right coronary artery anastomosis can be located. A small opening is made into graft, and right coronary artery is anastomosed to it. (L) A cryopreserved pulmonary allograft of appropriate size, having previously been selected and thawed, is anastomosed in end-to-end fashion to pulmonary artery bifurcation. Exposure for this anastomosis may sometimes be better if it is performed before aortic anastomosis. Proximal end of pulmonary allograft is anastomosed to RVOT using continuous stitches of 3-0 polypropylene. Stitches are placed through only partial thickness of infundibular septum posteriorly over location of first septal branch of left anterior descending coronary artery.
+
+*Continued*
+
+![](_page_32_Picture_3.jpeg)
+
+(M) Completed repair: aortic valve replacement with pulmonary autograft, pulmonary trunk replacement with pulmonary allograft. **Figure 12.17, cont'd**
+
+The critical and unique part of the Ross operation is separating the pulmonary trunk from the RVOT above the infundibular septum. When done correctly, this part of the procedure makes the entire operation safe. Anatomy of the subpulmonary infundibulum is described in "Right Ventricle" under Cardiac Chambers and Major Vessels in Chapter 1. Injury to the underlying first septal branch of the left anterior descending coronary artery during dissection of the pulmonary trunk is a major source of morbidity in this operation. A shallow incision of the endocardial surface is made to join both ends of the partly excised pulmonary trunk (Fig. 12.17F). The incision extends completely across the remaining undivided RVOT. The angle of the scalpel is immediately changed to shave off the ventricular myocardium almost parallel to the endocardial surface. This shaves off the pulmonary trunk without injuring the underlying first septal branch. This part of the operation should be performed deliberately and under precise control. The septal excision eventually separates the pulmonary trunk completely, leaving the left main coronary artery and the first septal branch behind and protected by a generous layer of tissue. The septal artery is occasionally seen in the myocardium.
+
+The separated pulmonary trunk is placed in the pericardial sac for immediate use. The trunk is not removed from the operating field to prevent its misplacement or inadvertent mixture with the allograft. At this point, it is convenient to measure the dimensions of the pulmonary anulus using standard prosthetic valve sizers and to choose a pulmonary allograft for preparation for later use.
+
+The pulmonary autograft is attached to the unmodified LVOT using interrupted stitches of 3-0 polypropylene (Fig. 12.17G). Size discrepancy between the pulmonary autograft anulus and aortic anulus should not exceed 2 mm. A larger discrepancy indicates the need to adjust the anulus of the aorta to match that of the pulmonary autograft (see "Method for Reducing Diameter of Dilated Aortic Anulus" later in this chapter). The autograft is marked below each of the commissures for orientation. The anterior commissure of the autograft is oriented to approximate the commissure between the right and noncoronary sinuses. Suturing proceeds below each sinus, separating the stitches into three groups. Stitches are placed through the strong fibrous tissue of the aortic anulus, keeping the plane of repair as level as possible. A strip of PTFE felt about 5 mm wide may be used to fix the diameter of the proximal suture line and to ensure hemostasis between the sutures (Fig. 12.17H). A strip of autogenous pericardium may also be used. A "supported" repair is favored to prevent dilation of the pulmonary autograft at the proximal suture line. Some surgeons prefer a continuous suture line using absorbable stitches without prosthetic material, especially for children in whom growth of the pulmonary autograft is desired. However, the accuracy of carefully spaced individual stitches and fixation support of the anulus seem best in adult patients. The felt or pericardial strip is placed within the suture loops so that it is incorporated as the sutures are tied down. The pulmonary autograft is partially inverted into the LVOT as the sutures are tied to ensure that tissue approximation is accurate and that the support ring is to the outside rather than interposed between the tissues of the autograft and the aortic anulus.
+
+An opening is made into the left coronary sinus of the autograft using a scalpel (Fig. 12.17I). Only minimal sinus tissue is excised because the delicate pulmonary artery dilates and separates readily. The sinutubular junction of the autograft is preserved to maintain proper relationships between the commissures and cusps.
+
+The left coronary anastomosis proceeds, working on the outside of the pulmonary autograft (Fig. 12.17J). Continuous stitches of 5-0 polypropylene are used. As a practical matter, it is best to perform the right coronary anastomosis after completing the aortic anastomosis so that the pulmonary trunk can be distended by temporarily removing the aortic clamp (Fig. 12.17K). The right coronary anastomosis typically fits high in the right sinus or even above the sinutubular junction on the anterior wall of the pulmonary trunk. It may also be advisable to anastomose the pulmonary allograft to the bifurcation of the pulmonary trunk before the aortic anastomosis if the medial aspect of the pulmonary anastomosis might be obscured by the overlying aorta (Fig. 12.17L). Often, the diameter of the aorta is larger than that of the pulmonary trunk, but the pulmonary trunk is usually sufficiently long enough that a bevel can be created to take up any size discrepancy. With gross aortic enlargement or aneurysm, the entire ascending aorta may be removed and the pulmonary trunk extended with a prosthetic graft (see "Method for Extending Pulmonary Autograft" later in this chapter).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Pulmonary Allograft Technique</summary><div class="details-content">
+
+The cryopreserved pulmonary allograft is trimmed minimally. An end-to-end anastomosis of the allograft to the pulmonary bifurcation is performed using continuous stitches of 4-0 polypropylene (see Fig. 12.17L). Retracting the LV inferiorly and placing the graft in the space between the pulmonary bifurcation and the RV makes it easier to perform the anastomosis of the posterior wall of the pulmonary arteries. It is sometimes preferable to perform this anastomosis before constructing the aortic anastomosis. The proximal end of the allograft trunk is anastomosed to the RVOT (see Fig. 12.17L). Continuous stitches of 3-0 polypropylene are used. Needle penetration must be through only part of the thickness in the infundibular septum to avoid injury to the underlying first septal branch of the left anterior descending coronary artery. A potentially weak point on the anastomosis at the transition from the infundibular septum to the medial aspect of the RV free wall may be reinforced with a PTFE pledget worked into the suture line. The completed repair produces a remarkably normal anatomic appearance (Fig. 12.17M).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Method for Lengthening Pulmonary Allograft</summary><div class="details-content">
+
+The pulmonary allograft may be tailored to achieve greater length, reducing the chance that the graft will be too tight between the RVOT and pulmonary artery bifurcation. The entire left pulmonary artery may be retained on the graft. The right pulmonary artery is removed and closed by direct suture using 5-0 polypropylene to lengthen the graft (Fig. 12.18A). The left pulmonary artery is cut back to the bifurcation to create a large circumference for anastomosis. Making the pulmonary allograft long or even slightly redundant may be important in maintaining proper allograft length because myocardium below the pulmonary allograft valve is resorbed and replaced with contracting scar.
+
+![](_page_33_Picture_11.jpeg)
+
+![](_page_33_Picture_12.jpeg)
+
+**Figure 12.18** Methods for adjusting Ross operation in specific situations. (A) Method for lengthening pulmonary allograft to prevent tension on graft between right ventricular outflow tract and bifurcation of pulmonary artery as right ventricular myocardium on allograft is reabsorbed and replaced with scar tissue. Left pulmonary artery is retained with pulmonary trunk; it may be cut back *(broken line)* to pulmonary bifurcation to create a large opening. Right pulmonary artery is removed and its origin closed by continuous suture.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Method for Reducing Diameter of Dilated Aortic Anulus</summary><div class="details-content">
+
+When the patient's LVOT at the level of the anulus is more than 2 mm in diameter greater than the pulmonary autograft, the patient's anulus may be narrowed to fit the autograft, taking up this variance in anular diameters. Interrupted mattress stitches of 2-0 braided sutures reinforced with PTFE pledgets are placed through the fibrous tissue that supports the aortic cusps alongside each of the commissures. The stitches are placed across the intercusp triangle so that the triangle is obliterated after tying down the suture (Fig. 12.18B).
+
+![](_page_34_Picture_3.jpeg)
+
+(B) Method for reducing diameter of dilated aortic anulus for proper size match with pulmonary autograft. Pledget-reinforced horizontal mattress stitches are placed through the fibrous tissue adjacent to intercusp triangles posteriorly and medially to obliterate triangular space, thereby reducing anular diameter. (C) Method for extending pulmonary autograft when there is aneurysm or dilation of ascending aorta. Aneurysmal aorta is removed. Pulmonary autograft is lengthened by attaching a tubular polyester graft of exactly the same diameter as the pulmonary trunk just above valve commissures. (D) Method of fixing sinutubular junction of pulmonary autograft to prevent dilation. A segment of tubular polyester vascular prosthesis 10% smaller than measured diameter of pulmonary valve is placed around outside of autograft at level of sinutubular junction. A few interrupted stitches are placed to attach graft to pulmonary trunk to prevent migration. **Figure 12.18, cont'd**
+
+*Continued*
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Method for Extending Pulmonary Autograft</summary><div class="details-content">
+
+When the ascending aorta is greatly dilated or aneurysmal, it is advisable to remove the affected aorta. A polyester tubular graft with the same diameter as the pulmonary autograft's distal end at the sinutubular junction is selected for replacement of the ascending aorta as an interposition graft (Fig. 12.18C).
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Method for Fixing Sinutubular Junction</summary><div class="details-content">
+
+Evidence indicates that the pulmonary trunk may dilate up to 30% in diameter and length when exposed to systemic arterial pressure. Schmidtke and colleagues found that the pulmonary trunk in the aortic position as a freestanding root assumed a diameter of 41 mm at the sinus level, compared with 32 mm when the autograft was placed within the natural aorta. The pulmonary trunk may also dilate in the clinical setting of bicuspid aortic valve with dilated ascending aorta. Fixing the diameter of the sinutubular junction of the pulmonary autograft may be desirable and may prevent or correct pulmonary autograft regurgitation. A segment of tubular polyester vascular prosthesis equal to, or 1 to 2 mm greater than, the diameter of the pulmonary autograft sinutubular junction (10% larger) is placed on the outside of the autograft to fix its diameter at its normal dimension. The polyester segment is attached to the pulmonary autograft with a few simple stitches to prevent migration (Fig. 12.18D). A PTFE felt strip works equally well, but the diameter of the finished band is more difficult to control. Surgeons not wanting to fix the diameter of the pulmonary autograft at the sinutubular junction may find that narrowing the graft with a felt strip corrects possibly important autograft regurgitation (Fig. 12.18E). Because of the known tendency for the pulmonary autograft to dilate, some have advocated reinforcing the entire autograft with bovine pericardium, polyester, or as an intraaortic cylinder within the native aortic root.
+
+![](_page_35_Figure_2.jpeg)
+
+(E) Echocardiogram of pulmonary valve before aortic valve replacement with pulmonary autograft shows typical trivial central valve regurgitant jet. After pulmonary trunk is transferred to aortic position and subjected to systemic arterial pressure, there is moderate (2+) valve regurgitation. Narrowing the sinutubular junction with an external band restores valve to preoperative state of trivial regurgitation. **Figure 12.18, cont'd**
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Replacement of Aortic Valve and Ascending Aorta, En Bloc</summary><div class="details-content">
+
+Replacement of the aortic valve and ascending aorta, en bloc, is most frequently performed for anuloaortic ectasia and ascending aortic aneurysm accompanied by aortic valve regurgitation. Occasionally, en bloc replacement is performed for infective endocarditis of the aortic root with extensive abscess formation and in the setting of acute or chronic aortic dissection with aortic valve regurgitation, for which the technique of distal anastomosis may be somewhat different.
+
+<details class="med-details"><summary>
+
+#### Initial Steps</summary><div class="details-content">
+
+The early steps of the en bloc operation differ somewhat from those of simple aortic valve replacement. The arterial cannula may need to be placed in the common femoral artery or axillary artery (see "Cardiopulmonary Bypass Established by Peripheral Cannulation" in Chapter 2). When the ascending aortic aneurysm stops short of the brachiocephalic artery origin, the proximal transverse arch can be cannulated in the usual manner.
+
+A limited dissection is done, separating the right and contiguous portion of the pulmonary trunk from the back of the aorta and the aneurysm. This approach affords safe placement of the aortic occlusion clamp just proximal to the brachiocephalic artery. The procedure involves clean surgical separation of the right and contiguous portion of the pulmonary trunk from the back of the aorta and from the aneurysm, if possible.
+
+If circulatory arrest for open distal anastomosis is not required, CPB may be established at 28°C to 34°C. The aorta is occluded just proximal to the brachiocephalic artery. The ascending aorta is opened transversely in its midportion, stay sutures are applied, and cardioplegia is given.
+
+The patient's aortic root is disconnected from the LVOT and left atrium–mitral valve complex. The sinus aorta surrounding the coronary arteries is retained. The remaining sinus aorta is excised, leaving only fibrous aortic valve attachments, which are normal and uninvolved with the disease process being treated. The ascending aorta is divided by extension of the transverse aortotomy.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Allograft Aortic Valve Cylinder</summary><div class="details-content">
+
+When the ascending aorta is replaced along with the valve, sizing of the allograft valve is less critical than in the case of isolated aortic valve replacement. The length of the retained ascending aorta and arch are considered when choosing the graft to accommodate replacement of the ascending aorta to the extent required (see Fig. 12.14). The distal allograft aorta is tailored to fit the native aorta, most often by creating a bevel to match the cut edges in length. The distal anastomosis is performed directly or under circulatory arrest with the patient's body temperature at 18°C.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Autograft Pulmonary Valve Cylinder</summary><div class="details-content">
+
+In young patients, it may be desirable to use a pulmonary autograft as part of the en bloc operation. The pulmonary autograft is used as an intact pulmonary trunk to replace the aortic root, as described earlier for isolated aortic valve replacement (see Fig. 12.18C). The abnormal dilated or aneurysmal ascending aorta is excised. A crimped polyester tubular graft, collagen-coated and of the same diameter as the distal end of the pulmonary autograft, is selected for replacing the ascending aorta. This graft is anastomosed to the distal end of the pulmonary trunk. The graft is shortened and beveled appropriately for end-to-end anastomosis to the distal ascending aorta.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Composite Valve Conduit</summary><div class="details-content">
+
+Replacing the aortic valve and ascending aorta as an en bloc procedure is most often done with a composite prosthesis containing a mechanical or bioprosthetic cardiac valve enclosed within a slightly larger (typically by 5 mm) tubular polyester graft. This operation is frequently referred to as the Bentall procedure. These grafts have a collagen or gel coating that makes them impervious to blood.
+
+The patient is placed on CPB using a single venous two-stage cannula, with oxygenated blood returned to a cannula in the mid arch, axillary artery, or femoral artery, depending on the extent of aortic resection required. Axillary artery cannulation facilitates delivery of selective antegrade perfusion. The ascending aorta is occluded by a vascular clamp, and a vent catheter is placed through the right superior pulmonary vein and left atrium and into the left ventricle. A vertical incision is made in the ascending aorta aneurysm. Cold cardioplegic solution is administered to the coronary sinus by a retrograde coronary perfusion cannula. Traction stitches are placed above each aortic valve commissure to expose the aortic root (Fig. 12.19A). The aortic valve is excised, and coronary artery ostial buttons are mobilized, retaining a generous button of sinus aorta for the freestanding root replacement technique, which has replaced the inclusion root as originally described by Bentall and DeBono. A limited dissection of the coronary artery is sufficient to ensure that excision of the coronary artery is complete and that the coronary button will move easily up to the composite prosthesis without kinking or creating undue tension on the artery. The remaining sinus aorta is removed.
+
+![](_page_36_Figure_11.jpeg)
+
+**Figure 12.19** Replacement of aortic root and ascending aorta (en bloc) with composite prosthetic valve conduit. (A) Aortic valve is excised. Aorta is removed from sinuses of Valsalva except for generous buttons around coronary ostia. Abnormal ascending aorta is removed. (B) Composite prosthetic valve conduit is attached to anulus of aortic valve with pledget-reinforced horizontal mattress stitches of 2-0 braided polyester. Continuous suture technique may also be used.
+
+![](_page_37_Picture_2.jpeg)
+
+**Figure 12.19, cont'd** (G) When coronary ostia are destroyed by dissection or involved with arteriosclerotic disease, a saphenous vein bypass graft may be placed from aortic graft to affected coronary artery (in this case, left anterior descending). Coronary ostium is then closed by oversewing it with continuous suture. (H) End-to-end anastomosis of graft to aorta is constructed using continuous suture technique. A short segment of graft is cut and placed around anastomosis to reinforce suture line for hemostasis.
+
+*Continued*
+
+![](_page_38_Figure_3.jpeg)
+
+![](_page_39_Picture_2.jpeg)
+
+(I) Completed repair: replacement of aortic root and ascending aorta. Hemostasis collar is shown covering graft-to-aorta anastomosis. (J) Cabrol modification when coronary ostia are tightly bound to aortic anulus such that composite graft sewing cuff may impinge on coronary ostia. A prosthetic valve is placed within a tubular polyester graft so that there is a short length of graft extending below valve. Graft and prosthetic valve are attached by continuous suture. The thin tubular graft is attached to aortic anulus without obstructing coronary arteries. Ten-millimeter tubular polyester grafts are used to extend coronary arteries to composite aortic graft above location of prosthetic valve. (K) When coronary arteries are carried laterally by aneurysm of aortic root, extensions from coronary arteries to aortic graft are created, following paths shown by *broken lines*. Then 10-mm tubular polyester grafts are anastomosed to coronary arteries and brought up to aortic graft, where end-to-side anastomoses are created. Interposition graft prevents tension on coronary artery anastomoses, thereby reducing chance of hemorrhage. **Figure 12.19, cont'd**
+
+The diameter of the anulus is calibrated, and an appropriately sized composite prosthesis, including the prosthetic aortic valve and attached crimped polyester tubular prosthesis, is selected. Stitches are placed through the anulus of the aortic valve and brought up through the sewing ring of the prosthesis using mattress stitches of 2-0 braided polyester with PTFE felt pledgets (Fig. 12.19B). Suture placement is started in the right coronary sinus, working clockwise, as for typical aortic valve replacement. Repair of the left coronary sinus follows, working counterclockwise. The repair is completed in the noncoronary sinus, working clockwise.
+
+Sutures are tied down to approximate the sewing ring of the prosthetic valve firmly to the aortic anulus (Fig. 12.19C). A running suture technique is an acceptable method, provided the anulus is strong and able to support the repair.
+
+A decision is then made regarding the method of reimplanting the coronary arteries to the graft. A direct anastomosis of the coronary ostia to the graft is usually made (Fig. 12.19D and E). When aortic dissection involves the coronary ostia, it may be necessary to reapproximate the dissected layers of aorta primarily or, in some cases, between PTFE felt washers (Fig. 12.19F). In unusual circumstances when the coronary ostia are displaced far laterally by a large-diameter aneurysm, it may be advisable to interpose a second graft between the coronary ostia and aortic graft to prevent tension on the coronary anastomosis, which is the most frequent point of hemorrhage after repair. Irreparable coronary ostial obstruction may require a saphenous vein bypass graft between the aortic graft and the affected coronary artery (Fig. 12.19G). The primary ostium of the affected coronary artery is closed by suture.
+
+The graft may be shortened appropriately to facilitate anastomosis of the coronary arteries to its side. Openings are made into the side of the graft exactly opposite the coronary artery ostia using scissors or battery-operated cautery. An adequate amount of graft should be left between the sewing ring of the prosthesis and the new coronary artery opening. The left coronary anastomosis is made first (see Fig. 12.19D). The coronary ostium is approximated to the side of the graft by continuous stitches of 5-0, 4-0, or 3-0 polypropylene, depending on thickness of the aortic tissues. All the suture loops around the inferior rim of the coronary ostium are placed before pulling them up so that this difficult area may be accurately approximated to the graft (see Fig. 12.19D). Stitches are placed in cartwheel fashion around the coronary artery ostium, with deep bites into the aorta.
+
+The right coronary anastomosis is performed after completing the left coronary anastomosis (see Fig. 12.19E), although some surgeons perform this anastomosis following completion of the distal anastomosis to facilitate proper placement of the button. Both coronary ostia are approximated to the side of the graft in a similar manner.
+
+The distal end of the graft is then shortened to approximate the distal end of the aorta, and the aorta is completely divided to allow direct end-to-end anastomosis. A short segment of graft may be cut and placed as a collar over the main portion of the graft. The anastomosis is constructed using continuous stitches of 3-0 or 4-0 polypropylene, depending on the thickness and strength of the aorta. It is convenient to bring the first stitch from the outside of the aorta so that the stitching may continue from the inside surface of the graft. Several suture loops may be placed posteriorly before pulling the graft tightly against the aorta, to ensure accurate closure of the posterior wall of the anastomosis (Fig. 12.19H).
+
+The anastomosis is continued anteriorly and is completed by including all layers of the aorta in the graft. The graft collar is used to cover the completed anastomosis for hemostasis (Fig. 12.19I).
+
+Modifications are required when coronary artery ostia are either close to the anulus or widely separated laterally by an aortic aneurysm. When coronary artery ostia are bound tightly to the aortic anulus, usually by prior operation or valve replacement, it is impossible to create an accurate anastomosis to the tubular portion of a composite graft because the valve sewing ring may impinge on the coronary ostia. In this situation, a composite valve prosthesis is constructed by placing a prosthetic valve within a tubular polyester graft so that there is a short length of tubular graft extending below and a longer length of graft extending above the sewing ring of the valve (Fig. 12.19J). The graft and sewing ring of the prosthetic valve are attached by continuous suture. The extension of the tubular graft below the prosthetic valve is attached to the aortic anulus, displacing the level of the prosthetic valve cephalad above the bound-down coronary ostia. Obstruction of the coronary ostia from contiguous placement of the thick sewing ring of the prosthetic valve is avoided. Extension grafts of 8- or 10-mm diameter from the aortic graft above the prosthetic valve to the coronary ostia complete the repair.
+
+When the coronary artery ostia have been carried laterally and superiorly from the usual location relative to the aortic anulus by aneurysm or dilation of the aortic root, it may also be necessary to create an extension from the composite prosthesis to the coronary arteries again using 8- or 10-mm tubular polyester grafts (Fig. 12.19K).
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Repair of Aortic Valve Regurgitation Due to Aortic Dilation or Aneurysm (Valve-Sparing Aortic Root Replacement)</summary><div class="details-content">
+
+Kunzelman and colleagues studied the relationships of the diameters at various levels in the aortic root, showing that the diameter at the sinutubular junction should be about 15% less than that at the base (anulus or ventricular-aortic junction) (Fig. 12.20). Grande and colleagues showed that minor dilation of the aortic root (5%–15%) caused increased stress on aortic valve cusps. In response to dilation of the aortic root, strain on the valve cusps changes to maintain coaptation. This method of compensation fails at 30% to 50% dilation of the aortic root, and cusp tissue is insufficient to maintain coaptation, resulting in aortic valve regurgitation. Frater demonstrated that simply adjusting the dimensions of the sinus rim or sinutubular junction can correct such regurgitation.
+
+![](_page_40_Figure_15.jpeg)
+
+**Figure 12.20** Normal aortic root dimensions. Ratio of diameter at sinutubular junction to left ventricular outflow tract at ventricular-aortic junction (aortic anulus) is 0.84. (Based on data calculated at autopsy in normal young adults by Kunzelman and colleagues, recalculated by the author in 1997.)
+
+<details class="med-details"><summary>
+
+#### Remodeling Versus Reimplantation Procedures</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+##### Remodeling Procedure</summary><div class="details-content">
+
+The remodeling operation, as originally described by Sarsam and Yacoub, consists of removing the sinus aorta except for a small rim of aortic tissue around the coronary ostia and a rim of about 5 mm of aortic wall above the aortic valve anulus. Commissures are positioned to achieve good coaptation of the aortic valve cusps.
+
+Choo and Duran point out that the aortic root is dynamic, responding to pressure changes during the cardiac cycle that expand the aorta at the sinutubular junction by 35%, but the area at the base (anulus) by only 5%. Thus, they propose measuring the aortic root diameter at the base of the cusps as the most reliable method for appropriate graft sizing. The method proposed here is based on the measured diameter of the aortic anulus and simple arithmetic. When the diameter of the aortic anulus is normal, a graft is chosen that will narrow the sinutubular junction by 10% to 15%. When the diameter of the aortic anulus is enlarged, it is adjusted to normal diameter for body size using a graft diameter approximately 10% less than the desired aortic anular diameter. The geometry conveniently allows strips of the graft to support a reduction anuloplasty of five-sixths the circumference of the anulus (avoiding the conduction system) while the graft adjusts the diameter of the sinutubular junction.
+
+David recommended that when aortic root remodeling procedures are performed in patients with Marfan syndrome or when the aortic anulus is dilated, an aortic anuloplasty should be performed. A strip of prosthetic material is used on the outside of the LVOT below the aortic valve to correct dilation of the fibrous components of the LVOT resulting from myxomatous changes in these tissues.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Reimplantation Procedure</summary><div class="details-content">
+
+In this procedure, the aortic valve is reimplanted within a polyester tubular graft. The graft is secured to a level plane in the LVOT just below the valve, except in the one-sixth of the circumference occupied by the conduction system. This fixes the diameter of the LVOT, but one may reduce the diameter if necessary. The aortic valve is attached (reimplanted) to the inside of the prosthetic graft. The graft determines the diameter of the sinutubular junction.
+
+The reimplantation procedure has undergone a number of modifications by both David and other surgeons. However, the basic concept has been retained. Cochrane and colleagues modified the David operation to create pseudosinuses in the graft by removing three symmetric scallops from it, thereby lengthening the proximal suture line and restoring proper relationships at the sinutubular junction. The pseudosinus method (Cochrane) and sinus-tailored method (Yacoub) result in simulated cusp stresses that are closer to normal than David's cylindrical technique. The graft is usually 30 to 32 mm in diameter, although 28- or 34-mm grafts are occasionally used.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Technique of Operation</summary><div class="details-content">
+
+After induction of anesthesia, intraoperative transesophageal echocardiography (TEE) is used to measure aortic root dimensions at the sinutubular junction and ventricular-aortic junction. Operations are performed on CPB using a single two-stage cannula for venous uptake, with oxygenated blood returned to a cannula placed high in the ascending aorta or arch or in the axillary or femoral artery. Hypothermic circulatory arrest is used when the aneurysm extends beyond the ascending aorta.
+
+The aorta is divided above the sinutubular junction, and the aortic valve thoroughly examined. Normal aortic valve cusps suggest the possibility of a valve-sparing operation. Diameters of the sinutubular junction and ventricular-aortic junction are measured using Hegar dilators or accurate valve sizers. Alterations of aortic root dimensions are noted and will guide the steps taken to restore dimensions to normal.
+
+<details class="med-details"><summary>
+
+##### Aortic Anulus Normal, Normal Sinuses of Valsalva, Sinutubular Junction Enlarged</summary><div class="details-content">
+
+A normal aortic anulus with enlarged sinutubular junction is found in patients with aortic ectasia and aneurysm of the ascending aorta not involving the aortic sinuses. The coronary arteries are not displaced from their usual location in relation to the anulus. In this instance, a vascular graft of the same diameter as the aortic anulus is selected. A 4- to 5-mm segment of the graft is prepared for placement on the outside of the aorta at the sinutubular junction (Fig. 12.21). The thickness of the aortic wall, when compressed within the graft, will reduce the inside diameter of the aorta to restore the normal dimension, which is 15% less than the diameter of the aortic anulus. Using this short segment of graft is easier and more accurate than attempting to attach a longer graft directly to the sinutubular junction.
+
+![](_page_41_Picture_9.jpeg)
+
+**Figure 12.21** Repair of aortic valve regurgitation caused by dilation or aneurysm of ascending aorta when aortic anulus is normal and sinutubular junction is enlarged without aneurysmal enlargement of sinuses of Valsalva and without displacement of coronary ostia. A 4- to 5-mm segment of graft the same diameter as anulus is placed as a band on outside of aorta at sinutubular junction to reduce inside diameter by 10%. Ascending aortic aneurysm is resected and replaced with graft of same size.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Aortic Anulus Normal or Enlarged, Aneurysm of Sinus of Valsalva, Sinutubular Junction Normal or Enlarged</summary><div class="details-content">
+
+An enlarged aortic anulus with enlarged sinutubular junction is found in patients with anuloaortic ectasia, some of whom have Marfan syndrome. Less commonly, patients with aortic regurgitation and sinus of Valsalva aneurysm will have a normal aortic anulus. Both the remodeling and reimplantation procedures have been recommended for this condition. Both are described here.
+
+<details class="med-details"><summary>
+
+###### Remodeling Procedure</summary><div class="details-content">
+
+In the remodeling procedure, the aortic sinuses are removed. The aortic anulus is reduced to a diameter appropriate for the patient's body size (Fig. 12.22), generally 25 mm for the average adult male, 27 mm for a large male, and 23 mm for an adult female. A vascular graft 10% to 15% smaller than that diameter is selected; thus, for a 25-mm anulus, a 22-mm graft is chosen. Two 4- to 5-mm segments (rings) of the graft are prepared to adjust the anulus diameter. The remaining graft is tailored by making three incisions, trimming the flaps for sinus reconstruction, and replacing the ascending aorta. To achieve an LVOT 25 mm in diameter at the ventricular-aortic junction, the circumference of the aorta must be reduced to 78 mm (25 · π = 78). This reduction is accomplished by anuloplasty, using the short segments of graft to size the anulus accurately and to support the repair.
+
+Anuloplasty mattress stitches are placed in the LVOT at a level plane just below the hinge point of the aortic valve. The stitches are placed beginning below the nadir or midpoint of the right coronary cusp of the aortic valve and working counterclockwise to the commissure between the noncoronary and right coronary cusps. This places the stitches on five-sixths of the circumference, avoiding stitches in the one-sixth of the ventricular septum that contains the conduction system. A strip of fabric that covers five-sixths of the circumference and achieves a diameter of 25 mm will be 65 mm in length (78 · 5/6 = 65). It is convenient that a 22-mm crimped tubular polyester graft provides a strip of fabric 75 mm in length when the 4- to 5-mm segment is cut, opened, and stretched to length. From the strip of the graft, 10 mm of length is removed. The anuloplasty stitches are placed through the fabric strip and passed through the LVOT to the outside. Thickness of tissue through which the needles pass is about 3 mm. Thus, the outside diameter to be supported will be about 28 mm in diameter. The length of fabric needed to support this diameter is, conveniently, about 75 mm (28 · π · 5/6 = 73). The anuloplasty stitches are passed through the outside fabric strip. A 25-mm-diameter Hegar dilator is placed in the LVOT while the sutures are tied down. This narrows the LVOT to a calculated diameter while distributing the tension equally over five-sixths of its circumference.
+
+The sinus aorta is reconstructed to the flap graft. Diameter of the sinutubular junction is accurately restored by the diameter of the graft chosen for the repair. Relationships just described should hold for the various graft sizes that might be chosen for reconstructing the aortic root. Intraoperative TEE is performed with the heart contracting and ejecting at normal pressure to determine adequacy of the repair.
+
+![](_page_42_Figure_8.jpeg)
+
+**Figure 12.22** Remodeling method for restoring aortic root dimensions in an aortic valve–sparing operation when aortic anulus and sinutubular junction are enlarged, as in anuloaortic ectasia with Marfan syndrome. A vascular graft 10% to 15% smaller than desired diameter of aortic anulus is used to provide 4- to 5-mm strips of fabric that will support a reduction anuloplasty of five-sixths of circumference of left ventricular outflow tract (avoiding conduction system) just below aortic valve. Graft adjusts diameter at sinutubular junction. Sinuses of Valsalva are reconstructed as described in text.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+###### Reimplantation Procedure</summary><div class="details-content">
+
+The reimplantation technique involves excising all three sinuses, leaving a rim of 4 to 5 mm of aortic wall and buttons of aorta around the coronary ostia (Fig. 12.23A). An appropriately sized polyester graft (see later text for sizing details) is selected, and marks are made on one end of it corresponding to position of the commissures. Multiple interrupted pledgeted horizontal mattress sutures of 2-0 polyester are passed from inside the LVOT immediately below the nadir of the aortic valve following a horizontal plane except in the region of the left anterior fibrous trigone (dense adherence of fibrous trigone to pulmonary trunk) and near the conduction system at the commissure between right and noncoronary sinuses (Fig. 12.23B). (In these two commissural areas, the sutures follow the hinge point line of the valve cusps.) These horizontal mattress sutures are then placed through the base of the polyester graft (placed slightly higher in the two commissural areas noted). Position of the commissures within the graft is then determined (the orientation being critical to competence of the aortic valve), and the aortic wall above each commissure is sutured to the graft with 4-0 polypropylene mattress sutures. The remainder of the suturing of the native aortic valve to the inside of the graft is similar to a subcoronary allograft procedure described earlier under "Allograft Aortic Valve." The suture line starts at the lowest point of each scallop and continues to the top of each commissure. The valve is inspected for adequate cusp coaptation. If the free edge of one or more cusps is elongated and tending to prolapse, the free margin can be shortened by using 6-0 PTFE suture to imbricate the central portion of the cusp (nodulus of Aranti).
+
+![](_page_43_Picture_4.jpeg)
+
+**Figure 12.23** Reimplantation procedure. (A) Ascending aorta and sinuses of Valsalva are excised and coronary ostial buttons created. Base of aortic root is mobilized to a level just below aortic anulus circumferentially except at the commissure between right and left sinuses, where left anterior fibrous trigone creates dense adhesions between aortic root and pulmonary trunk. (B) Pledgeted sutures are passed from left ventricular outflow tract (just below aortic valve hinge points) out through aortic wall and through graft. Lower sutures are placed in a circular fashion, except in area of left anterior fibrous trigone and near membranous septum (at commissure between right and noncoronary sinuses), where they are placed close to the valve hinge point line. (C) Aortic valve is reimplanted into polyester graft. It is secured at two levels below cusps by horizontal mattress sutures and above cusps by suturing remnants of arterial wall to graft. Coronary arteries are reimplanted into graft. To create larger sinuses and still narrow the graft just above sinutubular junction, a second graft that approximates the aortic anulus diameter can be anastomosed to the upper ascending aorta (or arch), and a graft-to-graft anastomosis can be constructed that narrows the lower graft just above sinutubular junction (the "Stanford modification"). (From Demers.)
+
+The coronary artery reimplantation steps are the same as described for the total root replacement operation (Fig. 12.23C). The distal aortic anastomoses can be performed either with the same graft or with a separate smaller graft (see text that follows on creating pseudosinuses).
+
+Two important technical considerations in the reimplantation procedure deserve special comment: commissure resuspension height and graft sizing with the construction of pseudosinuses.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+###### Commissural Resuspension Height</summary><div class="details-content">
+
+Placing commissures at the appropriate height within the graft is of critical importance for long-term valve competence. They should be placed at a height that mimics normal geometry and avoids abnormal cusp coaptation. It is a greater error to resuspend them too low than too high, as is the case for a free-hand allograft valve. Experimental studies suggest that an abnormally low commissural resuspension level may compromise optimal cusp coaptation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+###### Graft Sizing with Construction of Pseudosinuses</summary><div class="details-content">
+
+Multiple algorithms have been suggested for selecting the appropriate graft size, particularly when attempting to create pseudosinuses. Although it remains unproven that creating neosinuses adds to long-term valve competence, experimental studies dating back to Leonardo da Vinci and subsequently by others suggest that presence of vortices in the sinuses facilitates cusp closure in early diastole and reduces cusp stress.
+
+In a study by Katayama and colleagues in which a finite element simulation was used to model aortic valve-sparing root replacement with and without pseudosinuses, distinct differences were observed in the closing dynamics of the cusps. In the model without neosinuses, the aortic valve was open longer, and the cusps had a faster closing velocity. In the pseudosinus model, vortex formation occurred, which facilitated a more gradual and smoother closure of the valve cusps. Furthermore, in the model without pseudosinuses, cusp stress and bending deformation were greater in the middle of the cusps. Aybek and colleagues studied aortic valve cusp dynamics in patients undergoing aortic valve-sparing root replacement with and without incorporation of pseudosinuses. Patients who underwent the reimplantation procedure with a straight graft had an aortic valve opening velocity of 61 cm · s<sup>-1</sup> (normal opening velocity 29 cm · s<sup>-1</sup>) vs. 46 cm · s<sup>-1</sup> in those with pseudosinuses. Aortic valve closing velocity mirrored opening velocity. Therefore, although the opening and closing velocities of the aortic valve were indeed closer to normal in patients with pseudosinuses, they remain abnormally high. A finite element model simulating aortic valvesparing root replacement found that in the straight graft simulation, the diastolic cusp stresses and strains were mostly on the cusp belly and attachment edge, which are the regions closest to the graft. These are areas of the cusp that normally have high bending and flexing stresses during valve opening. In the pseudosinus graft simulation, the aortic cusp stresses were still abnormal at the attachment edge but less than that seen in the straight graft simulation. This biomechanical information suggests that incorporating pseudosinuses into the aortic valve-sparing root replacement procedure may confer some benefit in terms of aortic valve opening and closing velocities and cusp stresses, although they remain abnormal.
+
+Thus, although it remains uncertain whether these biomechanical benefits will translate into long-term improved cusp durability compared with a straight graft configuration, most surgeons experienced with this procedure currently recommend creating pseudosinuses. Graft sizes 28 to 34 mm are most commonly selected for adult males and 26 to 32 mm for most females. A convenient method for graft selection uses body surface area (BSA) as a guide for creating pseudosinuses: 28 mm for BSA of about 1.5 m², 30 mm for BSA 2.0 m², and 32 mm for BSA 2.5 m².
+
+Reducing the size of a dilated aortic anulus to increase cusp coaptation is an essential component of the operation. A Hegar dilator can be used to measure the anulus and placing through the aortic valve when tying the subanular sutures to guide the anuloplasty effect of the proximal graft suture placement. It is recommended that a 19-mm Hegar is selected for BSA of about 1.5 m², 21-mm Hegar for BSA 2.0 m², and 23-mm Hegar for BSA 2.5 m², although other surgeons use larger dilators (24 or 25 mm) with success. A larger graft (selected for creating pseudosinuses) can be "necked down" to an appropriate size at the anular end by placing multiple plication stitches in it with the appropriate valve sizer inside the graft to aid in achieving a desired diameter. Another option is to place the pledgeted sutures within the aortic root below the valve level to create an anuloplasty effect; when spaced appropriately on the graft, they will crimp the proximal graft down to the appropriate size while simultaneously creating pseudosinuses.
+
+Reduction of the diameter at the sinutubular junction to about 15% less than the desired aortic anulus diameter can be achieved either by placing plication sutures in the graft above each commissure or by using a second graft for the distal ascending aortic replacement that approximates the anulus size and is sewn end to end to the larger proximal graft, effecting a reduction in diameter at the level of the sinutubular junction ("Stanford modification"). A commercially prepared graft with preconstructed pseudosinuses (Gelweave™ Valsalva) is available in sizes 24 to 34.
+
+Adequacy of aortic valve-sparing operations is confirmed by intraoperative TEE.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Alternative Aortic Valve–Sparing Techniques</summary><div class="details-content">
+
+Alternative techniques generally focus on simplifying the operation by retaining aortic tissue and providing an external wrap to prevent further aortic enlargement. The advantage is a simpler procedure with fewer suture lines to bleed, which must be weighed against the potential for dissection in the retained aorta. The Florida sleeve repair is a valve-sparing operation in which the ventriculararterial junction, sinuses of Valsalva, and sinutubular junction are supported by a polyester conduit as a sleeve. In a technique reported by Laks and colleagues, aortic root aneurysms associated with bicuspid aortic valve regurgitation are treated with a combination of pericardial cusp extension, lining the sinuses of Valsalva with autologous pericardium (with holes punched to accommodate the coronary orifices), and wrapping the ascending aorta with polyester. More recently, the PEARS procedure has been developed in which a custom-printed sleeve is created based on perioperative axial imaging.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Aortic Valve Replacement and Coronary Artery Bypass Grafting</summary><div class="details-content">
+
+Preparing and draping the patient, and simultaneous preparation of the coronary bypass conduits, are the same as in simple coronary artery bypass grafting (CABG) (see "Technique of Operation" in Chapter 9). Purse-string sutures for aortic cannulation are placed, with care taken that they are far enough distally (downstream) from the aortic valve to allow room for both the aortotomy and any proximal venous graft anastomoses.
+
+CPB is established. In the presence of aortic regurgitation, the operative procedure begins as for isolated aortic valve replacement through excision of the aortic valve and selection of replacement device. The distal graft-to-coronary artery anastomoses are performed. Then the valve is replaced and the aortotomy closed. If the principal valve pathology is stenosis, the distal anastomoses for coronary bypass grafts may be constructed first, permitting antegrade delivery of cardioplegia in the aortic root. The aorta is then opened and valve replaced. After closure of the aorta, if vein grafts are used, they are routed and sized, and the proximal anastomoses to the aorta are performed. After de-airing the heart, CPB is discontinued and the operation completed as usual.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Redo Isolated Aortic Valve Replacement</summary><div class="details-content">
+
+Not all redo operations after primary aortic valve replacement involve a second valve replacement. Acute thrombosis may be treated by thrombectomy, and periprosthetic leakage of a mechanical valve or stent-mounted bioprosthesis may be successfully treated by simple placement of sutures full thickness through the aortic wall in the region of the leak. Prosthetic valve endocarditis, central leakages of all types, and extensive periprosthetic leakage typically require valve re-replacement. The technique of operation embodies general principles of all redo cardiac operations (see Chapter 5).
+
+When a freehand-inserted allograft or xenograft requires replacement, the entire graft should be removed, including remnants of its aortic wall. The graft tissues are dissected from the sinus aorta as in an endarterectomy using a Freer septum elevator, cutting suture material as required. This approach leaves an aortic root of good quality for inserting either another allograft or other replacement device.
+
+When a stent-mounted bioprosthesis or mechanical prosthesis has been used, the device is removed by pulling on the knots with a needle holder and using a scalpel to cut individual sutures that were placed at initial operation. Then, using a Freer septum elevator, a dissection plane is established between the fabric of the prosthesis sewing ring and aortic root tissues. The prosthesis is thus removed intact and aortic root tissues remain in good condition to accept another prosthesis. Mechanical prostheses can also be removed by first separating the mechanical device from the sewing ring by sharply dividing the ring with a scalpel. Incision of the sewing ring is taken completely through the retaining thread that holds the ring to the mechanical device. Once these retaining threads are cut, the mechanical device comes away from the sewing ring. Fabric of the sewing ring is then more easily separated from tissues by cutting the sutures placed at initial operation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Redo Aortic Valve and Ascending Aorta Replacement, En Bloc</summary><div class="details-content">
+
+In the setting of a prior cardiac operation with an aneurysmal ascending aorta or ascending aortic graft, proximity of the ascending aorta or aortic graft to the underside of the sternum should be evaluated with CT studies. When the situation is considered high risk for direct adherence of the graft or aorta to the sternum, the technique of reoperation needs to be modified because of an important risk of massive hemorrhage from the polyester tube graft at sternal reentry if the graft has adhered to the back of the sternum. Reentry is further complicated if aortic regurgitation is present. Under such circumstances, CPB is commenced through groin cannulation of the common femoral artery or axillary artery and femoral vein using vacuum-assisted venous return (see "Vacuum-Assisted Venous Return" in Chapter 2). Core cooling is instituted to lower the nasopharyngeal temperature to about 20°C. When there is important aortic regurgitation, a limited left anterolateral thoracotomy may be made through the fifth intercostal space and a vent placed into the LV apex, monitoring LV end-diastolic pressure to maintain it at normal levels and prevent overdistention, even in the event of ventricular fibrillation. Alternatively, a large catheter (12Fr) is inserted percutaneously into the left ventricle and its position confirmed by echocardiography. Flow and pressure may be transiently reduced during sternotomy, reducing the risk of cardiac injury. Adequate hypothermia permits the sternum to be opened with a vibrating saw without risk of exsanguinating hemorrhage. If the polyester tube is cut, the patient is tilted head-down and CPB is stopped; blood escaping from the aorta is returned to the circuit by suction device, and control of the aorta distal to the tear is obtained before CPB is resumed.
+
+Alternatively, the femoral artery and vein are dissected out and purse strings placed on their anterior surface with 4-0 polypropylene sutures in preparation for percutaneous arterial and venous cannulation for CPB if needed emergently. Using surgical towel clips through bone and xyphoid at the lower end of the incision to elevate the sternum, the oscillating saw is used to partially divide the sternum, taking care not to penetrate the posterior table. The posterior table is divided with scissors while elevating the lower sternum, so most of the sternal division is carried out under nearly direct vision. As the aneurysm or graft is approached, a portion of the periosteum or posterior table is left with the aortic graft by the appropriate dissection plane. If bleeding is encountered, the patient is promptly heparinized and the incision rapidly closed with numerous sharp surgical towel clips (as many as 20 clips may be needed). As long as the pleural spaces have not been entered during sternotomy, the completely closed incision (sufficient to eliminate any bleeding between towel clips) creates a closed space, and no further internal bleeding occurs after the space is obliterated. Hemodynamics are usually maintained while CPB is established through the femoral artery and vein. A decision can then be made to initiate hypothermic perfusion and temporary circulatory arrest as described in previous text or to remove the towel clips, collect the aortic blood with a cardiotomy sucker, and obtain digital control while completing sufficient dissection to repair the aortic graft tear. Transient low-flow perfusion and moderate hypothermia are used to avoid ventricular fibrillation in the presence of important aortic regurgitation.
+
+When infection is present, the prosthetic material should be removed entirely and replaced with an allograft. In the absence of infection, prosthetic material can be used again if desired.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Special Features of Postoperative Care</summary><div class="details-content">
+
+Postoperative care after adult aortic valve surgery is generally the same as after other types of cardiac surgery (see Chapter 4). Patients receiving a mechanical prosthesis are begun on lifelong sodium warfarin anticoagulant therapy on the evening of the first postoperative day. Intensity of anticoagulation should be specific for both prosthesis and patient. Modern mechanical prostheses are considered to have lower thrombogenicity than earlier devices. An international normalized ratio (INR) for prothrombin time of 2.5 is considered adequate to prevent valve thrombosis in the absence of abnormal intracardiac conditions. Atrial fibrillation alone does not raise the requirement for anticoagulation unless the left atrium is enlarged or LV function impaired. These additional risk factors dictate raising the intensity of anticoagulation to an INR of 3.0. Severe left atrial enlargement, greatly impaired LV function, or echocardiographic evidence of stasis in the left atrium require even higher levels of anticoagulation, with an INR of 3.5 to 4.0. Some evidence indicates that adding aspirin (81 mg daily) further reduces risk of thromboembolism. Aspirin at higher levels (200 mg · d<sup>-1</sup>) reduces total thromboembolic events but increases morbidity associated with bleeding. Newer platelet antagonists have not been completely evaluated as adjuncts to warfarin therapy.
+
+Bioprostheses (human or xenograft) in the aortic position of stent-mounted or stentless design do not require anticoagulation with warfarin. For patients at low risk of bleeding, anticoagulation with warfarin to an INR of 2.5 for the first 3 to 6 months is considered reasonable (Class 2a) to prevent leaflet thrombosis as per the 2020 ACC/AHA Guidelines. A study by ElBardissi and colleagues supported the use of warfarin only in the higher risk settings of small prosthesis size (19 mm) and New York Heart Association (NYHA) functional class III/IV symptoms preoperatively for patients in sinus rhythm. For most patients in sinus rhythm, it is judicious to use aspirin therapy (81 mg daily) for at least 1 month, when risk of thromboembolism is greatest. Patients in atrial fibrillation for more than 48 hours after operation are anticoagulated with warfarin until sinus rhythm is restored.
+
+The thick-walled, hypertrophied left ventricle secondary to aortic valve disease requires higher-than-usual filling pressures postoperatively, particularly after an episode of cardioplegic arrest when diastolic function is further impaired. Thus, a mean left atrial pressure of 8 to 10 mmHg, considered appropriate under many circumstances, may be inadequate to develop optimal LV preload early after operation (see "Cardiac Output and Its Determinants" in Chapter 4). For these reasons, unless cardiac performance is already optimal, left atrial pressure should be maintained at 15 to 18 mmHg by appropriate fluid infusion during the early hours after adult aortic valve surgery, particularly for severe aortic stenosis. This need is often less critical when operation has been done for aortic regurgitation, when the sudden reduction in LV stroke volume by eliminating the aortic regurgitant flow improves LV compared with RV performance (see Chapter 4). Therefore, mean left atrial pressure may not be as elevated early postoperatively as when operation has been done for aortic stenosis.
+
+Sinus tachycardia is frequently observed after operations on the aortic valve. Ideally, provided conduction is normal, a β-blocker should be administered to prevent atrial fibrillation. It may be necessary to continue this therapy for 2 to 3 months until heart rate control mechanisms are restored.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Results</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Early (Hospital) Death</summary><div class="details-content">
+
+The Society of Thoracic Surgeons (STS) National Database reports a 1.8% in-hospital and 2.3% operative (30-day) mortality for isolated aortic valve replacement for procedures performed in 2020. Risk is higher for women than men (odds ratio 1.6 for aortic valve replacement in the setting of aortic regurgitation). When CABG is added to aortic valve replacement, the current risk of operative death among STS National Database participants rises to 4.3%. Isolated reoperative aortic valve replacement does not appear to increase early mortality in the current era.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Time-Related Survival</summary><div class="details-content">
+
+Overall survival (including hospital deaths) after aortic valve replacement in heterogenous groups of patients is about 75% at 5 years, 60% at 10 years, and 40% at 15 years (Fig. 12.24A).
+
+![](_page_46_Figure_13.jpeg)
+
+![](_page_46_Figure_14.jpeg)
+
+**Figure 12.24** Survival after aortic valve replacement in a heterogeneous group of patients. (A) Survival. Parametric estimates (solid line) are enclosed within 68% CLs. Numbers in parentheses represent number of patients still being followed at 1, 5, 10, and 15 years. Faintly visible at these same intervals are vertical bars representing CLs for the corresponding non-parametric Kaplan-Meier estimates. (B) Hazard function (instantaneous risk of death). Solid curve enclosed within asymmetric 68% CLs represents parametric overall hazard estimate. Individual hazard components are labeled early, constant, and late; they sum to yield overall hazard. Rapidly falling early phase of risk lasted approximately 6 months (short-term survival), was dominated by operative mortality and had the effective statistical power of 774 events. Constant hazard phase across all time dominated between 6 months and 5 years (intermediate-term survival) and had the statistical power of 1654 events. Late hazard phase, rising steadily from time zero, dominated beyond 5 years (late-term survival) and had the statistical power of 1470 events. Variables in multivariable analyses modulated the area beneath the early hazard phase, raised or lowered constant hazard, and tilted the late hazard component. (From Blackstone and colleagues.)
+
+These percentages are less than those in an age-genderrace–matched general population, except for elderly patients (see Fig. 12.25). Many factors likely contribute to this, including the possible palliative nature of the operation, incomplete regression of LV remodeling after valve replacement, poor control of chronic anticoagulation in patients receiving mechanical prostheses, reoperation for structural valve deterioration of bioprostheses, and other prostheses-related morbidity. Grunkemeier and colleagues report risk-unadjusted data suggesting that after adjusting for age differences, late survival is similar for mechanical and bioprosthetic valves.
+
+![](_page_47_Figure_3.jpeg)
+
+**Figure 12.25** Survival after aortic valve replacement stratified by age group. For each age group, an age-gender-ethnicity–matched population life table curve is shown by *lavender*. Note that the younger the patient, the more marked the departure from normal life expectancy. (From Blackstone and colleagues.)
+
+The hazard function for death after aortic valve replacement is similar to that after other valve replacement operations in adults (Fig. 12.24B). The early, rapidly declining hazard phase gives way to a late phase about 6 months after operation, which begins to rise as early as 5 years after operation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Modes of Death</summary><div class="details-content">
+
+Of the few deaths early after aortic valve replacement, most are related to acute cardiac failure, neurologic complications, hemorrhage, and infection. Cardiac failure and myocardial infarction are the most common modes of death, as after all valve replacement operations (Fig. 12.26). Sudden death occurs with surprising frequency, accounting for about 20% of late deaths. It may result from thromboembolism in some patients, but its occurrence in patients with an allograft indicates other causes.
+
+About 20% of deaths may be related to the device inserted, although the frequency may have decreased in recent years. Device-related modes of death include thromboembolism (and prosthetic thrombosis) and anticoagulation-induced hemorrhage (at least 10%), prosthetic valve endocarditis, and device failure, including bioprosthetic degeneration. When the aortic valve replacement device is an allograft, structural valve deterioration and endocarditis constitute the device-related modes of death.
+
+![](_page_47_Figure_12.jpeg)
+
+**Figure 12.26** Hazard functions for each mode of death after primary aortic valve replacement in a group of 1533 patients. (An age-gender-ethnicity–matched general population has an incidence of deaths · month<sup>-1</sup> of 0.001 across a 5-year period, similar to that for deaths in uncertain mode, marked *K*). (From Blackstone and Kirklin.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Incremental Risk Factors for Premature Death</summary><div class="details-content">
+
+Table 12.3 summarizes incremental risk factors for premature death.
+
+<details class="med-details"><summary>
+
+#### TABLE 12.3 Incremental Risk Factors for Death Early and Late after Isolated and Combined Aortic Valve Replacement<sup>a</sup></summary><div class="details-content">
+
+| Risk Factors | HAZARD PHASE | Risk Factors | HAZARD PHASE |
+| :--- | :---: | :---: | :---: |
+| | Early | Late | | Early | Late |
+| **Demographic** | | | **Morphologic (Coexisting Disease)** | | |
+| (Older) Age | • | • | More severe aortic stenosis | | • |
+| African American | | • | (More) Number of previous aortic valve re-placement operations (grades 0-3) | • | • |
+| **Clinical** | | | Coexisting coronary artery disease | • | • |
+| (Higher) NYHA functional class (I-V) | • | • | Coexisting aneurysm of ascending aorta | • | |
+| (Greater) Left ventricular enlargement (grades 0-4) | • | • | Prosthetic valved conduit | | • |
+| (More) Aortic regurgitation (grades 0-5) | • | | Allograft aortic valved conduit | • | • |
+| Functional mitral regurgitation | | • | Autograft pulmonary valved conduit | • | |
+| Angina | • | • | (Greater) Left ventricular hypertrophy (grades 0-4) | • | • |
+| Pulmonary hypertension | • | • | (Greater) Left ventricular dysfunction | | • |
+| Ventricular arrhythmia | | • | (Greater) Left ventricular diastolic dysfunction | | • |
+| Atrial fibrillation | | • | **Surgical** | | |
+| Renal dysfunction | • | • | (Earlier) Era | • | |
+| (Lower) Hematocrit | | • | (Longer) Global myocardial ischemic time | • | |
+| Peripheral arterial disease | | • | **Type of replacement device:** | | |
+| Smoker | | • | Mechanical prosthesis | | • |
+| Severe COPD | • | • | Bioprosthesis | | • |
+| Diabetes | | • | Allograft | • | |
+| | | | Autograft | • | |
+| | | | Smaller prosthesis | • | |
+| | | | Previous aortic valve replacement | • | • |
+| | | | Concomitant CABG | • | • |
+
+###### Risk factors classified based on experience and published reports, and not all obtained by multivariable analysis. *CABG*, Coronary artery bypass grafting; *COPD*, chronic obstructive pulmonary disease; *NYHA*, New York Heart Association.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Older Age at Operation</summary><div class="details-content">
+
+Age of patients at operation has increased steadily since the beginning of aortic valve replacement. Overall survival curves are a composite of patients of increasingly higher risk being operated on during increasingly safer years of calendar time and most recently impacted by the availability of transcatheter aortic valve replacement (TAVR) for very high risk patients. Older age at operation is a risk factor both early and late after aortic valve replacement, as after most cardiac operations. However, elderly patients with any chronic illness are at increased risk of dying, and only death in the early phase is specific to the cardiac operation (see Fig. 12.26).
+
+Strength of the risk factor of older age is less than might be expected, even in an earlier era (Fig. 12.27). Risk of death early after operation is about 1% at age 40 and about 8% in patients over 70. Risk of operative mortality for isolated aortic valve replacement among STS National Database participants is at least doubled when the operation is performed in patients over age 65 (4.9%) versus those under 65 (2.3%); with associated coronary artery disease requiring CABG, the risk for patients over age 65 increases to 7.6%, compared with 3.3% for those under age 65. Levinson and colleagues reported that hospital mortality was 9.4% among 64 patients aged 80 and older, 29 of whom underwent concomitant CABG. Five- and 10-year survival was 67% and 49%, respectively, among these elderly patients, and most reported a satisfactory lifestyle. Similar results were observed by Azariades and colleagues. Rizzoli and colleagues reported a 5- and 10-year survival after aortic valve replacement in patients over age 80 equivalent to that of the general population. Age is not so dominant a risk factor as to negate the effect of the other risk factors in elderly patients. Risk of operation for aortic valve replacement combined with CABG in patients over age 80 is 10% (95%; CL 6.9%–13%), compared with 7.9% (95%; CL 6.6%–9.2%) in patients under age 80. Death early after operation in elderly patients tends to be related to excessive bleeding (in part attributable to the poor quality of the tissues), pulmonary dysfunction (in part related to generalized weakness and consequent delay in weaning from intubation and ventilation), and susceptibility to infection. Precise surgical techniques and acceleration of convalescence, with departure from the intensive care unit as quickly as possible, are helpful in neutralizing these risks.
+
+Older patients may be more subject to important neurologic complications. Levinson and colleagues reported neurologic sequelae in 9% of 64 patients age 80 to 89 years undergoing isolated or combined aortic valve replacement. Alexander and colleagues reported associated neurologic events (15% vs. 9.1%, P < .05) and renal failure (12% vs. 6.8%, P < .05) were higher in patients over age 80 than in younger patients. These data were compiled from results in 2035 patients having operations in 22 centers in the United States.
+
+![](_page_48_Figure_8.jpeg)
+
+**Figure 12.27** Relation of age at operation to probability of hospital death from all causes after primary isolated or combined aortic valve replacement. Nomogram of multivariable logistic equation. *NYHA*, New York Heart Association. (From UAB group, 1975 to July 1979; *n* = 842.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Functional Status</summary><div class="details-content">
+
+Poor functional status, as reflected by the NYHA functional class, is a risk factor for death, usually in cardiac failure, primarily early after isolated aortic valve replacement. The effect on premature death late post-operatively is less, probably because later survival is related preoperatively more to LV function, which is often not highly correlated with functional status. Risk of death is particularly increased when the disability is so advanced or acute such that hemodynamic instability or cardiogenic shock is present. However, risk of premature death late postoperatively is affected to some degree as well. Preoperative left atrial enlargement has been found to be one of the most powerful risk factors for premature death after aortic valve replacement for aortic stenosis.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Left Heart Morphology and Function</summary><div class="details-content">
+
+LV systolic and diastolic function are clearly important risk factors for premature death after aortic valve replacement, but other risk factors are surrogates. For example, LV enlargement, usually assessed easily based on physical examination, chest radiography, and echocardiography, is a risk factor for death both early and late after aortic valve replacement. However, LV enlargement may be a surrogate risk factor because it is correlated with LV systolic and diastolic function as well as LV stroke volume associated with important aortic regurgitation. Increasing LV hypertrophy, reflected in mass index measured by echocardiography and normalized for gender (normally 107 ± 45 g · m<sup>-2</sup> in men and 95 ± 41 g · m<sup>-2</sup> in women), is a risk factor for early mortality.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Aortic Regurgitation</summary><div class="details-content">
+
+Aortic regurgitation is probably a risk factor for death early postoperatively under some circumstances. However, the interrelationship between aortic regurgitation and abnormalities of LV structure, size, and function indicates that these are likely the incremental risk factors.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Gender</summary><div class="details-content">
+
+Gender is a risk factor for late mortality after operation for aortic valve regurgitation. Klodas and colleagues reported increased late mortality after aortic valve operations for women with aortic regurgitation in a multivariable analysis that considered patient size, LV dimension, and concomitant replacement of the ascending aorta for aneurysm. McDonald and colleagues found that this late mortality was influenced by coexisting aortic pathology and subsequent rupture of the aorta. Female gender and BSA <1.8 m<sup>2</sup> are risk factors for early mortality in patients older than 80.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Angina</summary><div class="details-content">
+
+Angina in patients with aortic valve disease increases the likelihood of coexisting coronary artery disease. Unless coronary artery disease is excluded or treated by concomitant CABG, angina becomes a risk factor for death after the operation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Atrial Fibrillation</summary><div class="details-content">
+
+Using Cox regression analysis (univariable, multivariable, and age adjusted) to study 2359 patients with aortic valve replacement, Kvidal and colleagues found that atrial fibrillation was associated with a hazard ratio greater than 2 beyond 30 days of operation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Coexisting Coronary Artery Disease</summary><div class="details-content">
+
+Coexisting coronary artery disease is a complex risk factor for premature death after operation. Among STS National Database participants, aortic valve replacement with concomitant CABG carried a higher early mortality (4.2%) during the early phase after operation than either aortic valve replacement alone (2.6%) or CABG alone (1.9%). However, patients with both diseases are generally older at operation and have more functional disability, more angina, more previous myocardial infarctions, and a higher prevalence of hemodynamic instability than those with isolated aortic valve disease. These patients also usually require longer aortic occlusion time. Many of these factors have been found to increase risk of death after the combined operation. Some authors have not found concomitant CABG to be a risk factor for death during the early or intermediate period (up to 5 years) after aortic valve replacement operations, but others have observed a somewhat lower 5- to 10-year survival than after isolated aortic valve replacement (Fig. 12.28).
+
+Most important, despite the variability in comparisons of outcome after isolated aortic valve replacement with that after operation combined with CABG, patients who have combined aortic valve and coronary artery disease and who undergo *only* aortic valve replacement have a lower survival than patients who undergo concomitant CABG. Also, Czer and colleagues found sudden death late postoperatively to be more common in patients with combined aortic valve and coronary artery disease when concomitant CABG had *not* been performed than when it had.
+
+![](_page_50_Figure_3.jpeg)
+
+**Figure 12.28** Survival after aortic valve replacement *(AVR)* with and without coronary artery disease *(CAD)*. Combination of aortic valve and coronary artery disease reduces survival after operation. Percent survival at 10 years indicated at right. (A) Mechanical prosthesis (Medtronic-Hall). (B) Stented bioprosthesis (Medtronic-Hancock II). (*A* from Akins and *B* from David and colleagues.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Acute Aortic Valve Endocarditis</summary><div class="details-content">
+
+Surprisingly, native valve endocarditis at valve replacement is not a risk factor for long-term mortality. For replacement valve endocarditis, radical débridement of infected tissue and aortic root replacement with cryopreserved aortic allografts can be accomplished with low early risk.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Coexisting Ascending Aortic Aneurysm</summary><div class="details-content">
+
+Coexisting aneurysm of the ascending aorta has been associated with slightly decreased hospital and intermediate-term survival. However, it has not been shown to be a risk factor overall, and the decreased survival may be attributable to other factors, including longer periods of global myocardial ischemia and CPB required for ascending aorta plus aortic valve replacement than for simple aortic valve replacement. Overall survival in patients with this combination who undergo only valve replacement probably is considerably lower.
+
+Survival after combined replacement of the aortic valve and ascending aorta is partly determined by the replacement device. When a *composite valve conduit* has been used, 1-month and 1-, 5-, 10-, and 15-year survival, as reported by Kouchoukos and colleagues, has been 95%, 88%, 74%, 57%, and 32%, respectively (Fig. 12.29). Survival was somewhat better in patients with anuloaortic ectasia than in those operated on for ascending aortic dissection. Early (hospital) death was 4.7% (CL 2.8%–7.5%), although it was less in patients with anuloaortic ectasia or chronic aortic dissection (Table 12.4), as also reported by Gott and colleagues. With methods of myocardial management now in use, early mortality may be even lower. Most hospital deaths have been in acute cardiac failure. When an aortic valve–sparing operation is performed, survival is 88% at 5 years and 84% at 10 years.
+
+![](_page_50_Figure_10.jpeg)
+
+**Figure 12.29** Survival among patients undergoing replacement of aortic valve and ascending aorta with a prosthetic valve cylinder. (A) Overall results in 168 patients. *Vertical bars* enclose 70% confidence limits (standard error *[SE]*). (B) Survival according to whether replacement was for anuloaortic ectasia *(AAE)* or acute or chronic dissection. (From Kouchoukos and colleagues.)
+
+Need for emergency operation increases early risks, and overall survival may be somewhat less satisfactory in patients with Marfan syndrome. Using the inclusion technique in most patients (the interposition technique is now recommended; see "Ascending Aorta Replacement" under Technique of Operation in Chapter 23), Kouchoukos and colleagues reported that 12% required reoperation early postoperatively for bleeding. The prevalence was half that when the interposition (open) technique was used.
+
+Freedom from reoperation on the aortic valve or ascending aorta was 83% at 5 years after the original operation and 78% at 10 years; most reoperations were performed on patients receiving the inclusion technique (Fig. 12.30). Patients with Marfan syndrome in particular tended to require subsequent operations on other portions of the aorta (Fig. 12.31).
+
+<details class="med-details"><summary>
+
+##### TABLE 12.4 Hospital Mortality after Composite Prosthetic Valve-Graft Replacement of Aortic Valve and Ascending Aorta</summary><div class="details-content">
+
+| Aortic Disease | n | HOSPITAL DEATHS | % | CL (%) |
+| :--- | :---: | :---: | :---: | :---: |
+| Anuloaortic ectasia | 69 | 2 | 2.9 | 1.0-6.8 |
+| Chronic aortic dissection | 39 | 1 | 2.6 | 0.3-8.5 |
+| Acute aortic dissection | 12 | 2 | 17 | 6-11 |
+| Others<sup>a</sup> | 7 | 1 | 14 | 2-41 |
+| Total | 127 | 6 | 4.7 | 2.8-7.5 |
+
+###### <sup>a</sup>Includes syphilitic aortitis, replacement valve endocarditis, and extreme poststenotic aortic dilation. *CL*, 70% confidence limits. Data from Kouchoukos and colleagues.
+
+</div></details>
+
+![](_page_51_Figure_7.jpeg)
+
+**Figure 12.30** Freedom from reoperation among patients having undergone replacement of aortic valve and ascending aorta with a prosthetic valve cylinder, according to whether interposition (open) or inclusion technique was used. *SE,* Standard error. (From Kouchoukos and colleagues.)
+
+![](_page_51_Figure_11.jpeg)
+
+**Figure 12.31** Freedom from reoperation on remaining more-distal aorta after prosthetic valve cylinder replacement of aortic valve and ascending aorta, according to whether Marfan syndrome was present. *SE,* Standard error. (From Kouchoukos and colleagues.)
+
+Information on survival after replacement of the aortic valve and aortic root with an *allograft valve conduit* is limited. Results presented by Okita and colleagues from the experience of Ross suggest poorer overall survival with allograft replacement, but this is related primarily to higher hospital mortality than that reported by Kouchoukos and colleagues. Also, the distribution of primary pathologies is quite different in the two series. However, Yacoub and colleagues reported 94% survival at 10 years in 74 patients having aortic root replacement with unprocessed viable ("homovital") aortic allografts. They also reported a larger series of aortic root replacements with aortic allografts that included the homovital group plus a greater number of antibiotic-sterilized allografts. Survival at 20 years was 71%, excluding patients operated on for endocarditis or aneurysm of the ascending aorta or dissection, so this series does not provide the actual incremental risk for coexisting ascending aortic aneurysm.
+
+Aortic root replacement with a stentless porcine bioprosthesis is also associated with low early mortality. In a multicenter trial (21 centers), 226 patients with mean age 70 ± 8.6 years received a Medtronic Freestyle porcine aortic root bioprosthesis. Two-thirds were operated on for aortic valve regurgitation or mixed stenosis-regurgitation, and 24% required ascending aorta replacement. Operative mortality was 11% in the older age group of patients with a high proportion of aortic pathology. Hemodynamic performance has been excellent, and risk of thromboembolism leading to permanent neurologic deficit has been 1.0% per year over 6 years. The Freestyle bioprosthesis may be the device of choice for replacing the aortic root in patients over age 70 years.
+
+Too few long-term follow-ups have been reported to define the intermediate-term results after use of an *autograft pulmonary valve cylinder* for replacement of the aortic valve and ascending aorta.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Era</summary><div class="details-content">
+
+Risk of hospital mortality has declined with each passing year since the beginning of operations to replace the aortic valve (Table 12.5). Even in the current era, risk of early death after aortic valve replacement continues to decrease.
+
+<details class="med-details"><summary>
+
+##### TABLE 12.5 Hospital Mortality after Isolated Aortic Valve Replacement, STS Database</summary><div class="details-content">
+
+| Year | n | Mortality (%) |
+| :--- | :---: | :---: |
+| 1995 | 7952 | 3.9 |
+| 2001 | 9619 | 3.3 |
+| 2005 | 13,836 | 2.4 |
+| 2010<sup>a</sup> | 5627 | 2.8 |
+
+###### <sup>a</sup>Quarterly report from January 2010 to March 31, 2010. *STS*, Society of Thoracic Surgeons. Data from Society of Thoracic Surgeons National Database Committee.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Global Myocardial Ischemic Time</summary><div class="details-content">
+
+Global myocardial ischemic time remains a risk factor for death early after isolated or combined aortic valve replacement. Although most aortic valve operations are performed using cold cardioplegia, it is difficult to document that mortality after aortic valve replacement has been improved by abandoning continuous coronary perfusion or hypothermic ischemic arrest as the method of myocardial management. The duration of relatively safe global myocardial ischemia has increased considerably with widespread use of cold cardioplegia (see "Cold Cardioplegia [Multidose]" under Methods of Myocardial Management During Cardiac Surgery in Chapter 3). As is always the case, the incremental risk of duration of global myocardial ischemic time is additive to, and at times interactive with, the effects of other risk factors. Thus, the risk of 120 minutes of global myocardial ischemia using cold cardioplegia is relatively low in patients with aortic stenosis. Risk is also low in patients who are in NYHA class II (Fig. 12.32A) preoperatively but higher in patients with aortic valve regurgitation and hemodynamic instability (Fig. 12.32B).
+
+When the hemodynamic state is unstable before CPB, the period of relatively safe global myocardial ischemia seems longer with current techniques of antegrade plus retrograde infusion of the cold cardioplegic solution, controlled aortic root reperfusion, and warm induction of cardioplegia and substrate enhancement of the cardioplegic solution (see "Cold Cardioplegia, Controlled Aortic Root Reperfusion, and [When Needed] Warm Cardioplegic Induction" in Chapter 3). These techniques should translate into increased survival.
+
+![](_page_52_Figure_7.jpeg)
+
+**Figure 12.32** Nomogram illustrating risk-adjusted probability of cardiac death within 2 weeks of aortic valve replacement, according to aortic clamp time and preoperative NYHA functional status (V represents patients with hemodynamic instability). (A) Patients with aortic stenosis. (B) Patients with aortic regurgitation. (From Blackstone and Kirklin. See original publication for equations.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Type of Replacement Device</summary><div class="details-content">
+
+Survival for at least 15 years is probably unrelated to the type of aortic valve replacement device used. This inference has been supported by two randomized trials. However, valve-related complications are more numerous in patients receiving mechanical valves, the result of considerably more nonfatal bleeding episodes in that group.
+
+The literature is replete with nonrandomized studies comparing various cardiac valve replacement devices and claims of survival superiority of one over the other. Grunkemeier and colleagues presented data that, after correcting for age differences between groups, showed no survival advantage for use of either a mechanical or tissue valve. They suggested that important clinical differences, such as structural failures or bleeding, do not require randomized trials to demonstrate statistical differences in properly controlled clinical evaluations.
+
+Goldstone and colleagues compared long-term mortality and rates of reoperation, stroke, and bleeding between inverse-probability-weighted cohorts of patients who underwent primary aortic valve replacement or mitral valve replacement with a mechanical or biologic prosthesis in California in the period from 1996 through 2013. The authors observed that from 1996 through 2013, the use of biologic prostheses increased substantially for aortic valve replacement, from 11.5% to 51.6%. Among patients who underwent aortic valve replacement, receipt of a biologic prosthesis was associated with significantly higher 15-year mortality than receipt of a mechanical prosthesis among patients 45 to 54 years of age (30.6% vs. 26.4% at 15 years; hazard ratio, 1.23; 95% confidence interval [CI], 1.02–1.48; P = .03) but not among patients 55 to 64 years of age. The incidence of reoperation was significantly higher among recipients of a biologic prosthesis than among recipients of a mechanical prosthesis. Patients who received mechanical valves had a higher cumulative incidence of bleeding and, in some age groups, stroke than did recipients of a biologic prosthesis.
+
+Over the past decade, at least 9 studies (7 observational, 2 meta-analyses) from 6 different countries published outcomes comparing bioprosthetic versus mechanical aortic valve in patients age 50 to 65 years. Notably, none found a long-term survival advantage for bioprosthetic valve(s) but 6 of the 9 studies revealed a survival advantage with mechanical aortic valve(s).
+
+<details class="med-details"><summary>
+
+##### Stentless Valves</summary><div class="details-content">
+
+Increased rapidity and greater reverse remodeling of the left ventricle after valve replacement are assumed to result in better survival. Statistical methods to prove this are still in the primitive stages of development, but in a study of 8905 postoperative echocardiograms after 3850 aortic valve replacements with a stented bioprosthesis, no influence of rapidity and completeness of reverse remodeling was found to correlate with time-related survival. A Framingham study showed that LV hypertrophy has important prognostic implications even for patients free of clinically apparent cardiovascular disease. Levy and colleagues followed 3220 subjects older than 40 for 4 years, correcting for age, diastolic blood pressure, pulse pressure, treatment of hypertension, cigarette smoking, diabetes, obesity, and lipid ratios. They found that for each 50 g · m<sup>-2</sup> in LV mass corrected for height, the hazard ratio for death from all causes was 1.49 in men and 2.01 in women. However, inferences about the association of LV hypertrophy secondary to systemic hypertension may not be entirely transferable to that secondary to aortic valve disease. The former has complex systemic humoral, cellular, and vascular aspects not generally present in the latter.
+
+Evidence supporting superiority of stentless aortic valve heterografts over stented heterograft prosthetic valves in reducing LV hypertrophy after valve replacement has been conflicting, but several recent randomized trials indicate similar survival and regression of LV hypertrophy with either a stented bovine pericardial valve prosthesis or a stentless heterograft. In a randomized trial comparing the Toronto Stentless porcine valve (St. Jude Medical Inc., St. Paul, Minn.) with the PERIMOUNT stented bovine pericardial valve (Edwards Lifesciences, Irvine, Calif.), regression of LV hypertrophy and mortality out to 12 years were similar. These results are supported by other randomized trials.
+
+Studies comparing other stentless bioprostheses for aortic valve replacement are also inconclusive for differences in survival. Yacoub and colleagues showed promising results with almost no decline in survival for the first 10 years after aortic valve replacement with homovital aortic allografts. Cartier and colleagues compared stentless replacement devices for aortic valve replacement; survival at 5 years was 96% for pulmonary autografts (mean age 34 ± 16 years), 84% for aortic allografts (mean age 47 ± 19 years), and 84% for stentless porcine xenografts (mean age 68 ± 8 years), with major differences in the age of patients in each group. Aklog and Yacoub compared pulmonary autografts and aortic allografts (as an aortic root replacement) in a prospective randomized trial and found similar early risk and 5-year survival, but at 10 years survival was 97% in the autograft group and 83% in the allograft group (*P* = .006). Allograft aortic root replacement compares with aortic root replacement using a pulmonary autograft because of similarly exposed suture lines. After aortic valve replacement with a pulmonary autograft, death would be unusual, if not rare, as a result of bleeding from the pulmonary allograft used for RVOT reconstruction. Serious hemorrhage more typically results from the aortic root reconstruction. Risk of infection or heart failure after either procedure is similar. Follow-up is insufficient, however, to determine durability of the repair.
+
+Use of an *allograft replacement device* sewn freehand (subcoronary technique) into the aortic position has had no adverse effect on early survival. This is evident from the previous discussions in this chapter, from the experience of O'Brien and colleagues (Fig. 12.33), and from the UAB experience (1981-1988) of no deaths (0%; CL 0%–2.5%) among 70 patients undergoing isolated aortic valve replacement and 7 undergoing concomitant procedures.
+
+![](_page_53_Figure_9.jpeg)
+
+**Figure 12.33** Survival after replacement of aortic valve with an allograft. Each symbol represents a death (Kaplan-Meier estimates); *vertical bars,* 68% confidence limits; and *number in parentheses*, patients remaining at risk. Parametric estimates are represented by *solid curve enclosed between 68% confidence bands*. *Magenta* line represents survival of an age-sex–matched population life table. (From O'Brien and colleagues.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Stent-Mounted Porcine Xenograft Valves</summary><div class="details-content">
+
+These valves have not been shown to affect survival adversely when further replacements can be performed. However, Lytle and colleagues found that the combination of a stent-mounted bioprosthesis and chronic anticoagulation decreased 10-year survival.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Mechanical Valves</summary><div class="details-content">
+
+Mechanical replacement devices have not had an adverse effect on survival, but only because most bleeding complications from warfarin therapy are not fatal, although clinically important. Zellner and colleagues followed patients having aortic valve replacement with the St. Jude Medical prosthesis and analyzed competing risks of outcomes (Fig. 12.34). At 15 years, deaths related to the prosthesis reduced survival to 79%. Complications related to the valve (e.g., reoperation, endocarditis, thromboembolism, anticoagulant-related bleeding) that were not fatal occurred in 37% of patients, leaving only 42% free of death or complications related to the prosthetic valve. Non–valve-related deaths reduced the number of patients living and free of all complications to 23%.
+
+Studies comparing different modern mechanical prostheses generally do not show clinical advantages among them. However, the target INR goal for warfarin anticoagulation does differ among different mechanical prostheses that may offer a clinical advantage for some patient groups.
+
+![](_page_53_Figure_11.jpeg)
+
+**Figure 12.34** Competing risks of adverse events following aortic valve replacement with mechanical prosthesis (St. Jude Medical). Death related to valve reduced survival to 79%. Complications related to reoperation, endocarditis, thromboembolism, and anticoagulant-related bleeding reduced complication-free survival to 42%. Other deaths reduced freedom from all complications in living patients to 23%. *Reop/Endo,* Reoperation/endocarditis. (From Zellner and colleagues.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+##### Pulmonary Valve Autograft</summary><div class="details-content">
+
+The potential for adverse effects from a pulmonary valve autograft as a replacement for the aortic valve has not been evaluated completely. Earlier information suggested 30-day mortality for this operation is 3.5% to 5.1% higher than for other replacement methods. However, more recent studies indicate a perioperative mortality less than 1% with encouraging mid-term (10-15 year) outcomes.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Hospital Morbidity</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Complete Heart Block</summary><div class="details-content">
+
+Infrequently, replacement of severely calcific aortic valves leads to complete heart block. It usually results from trauma to the bundle of His after removal of calcium from the region of the membranous septum and right trigone beneath the noncoronary cusp—right coronary cusp commissure. Although this complication occasionally is unavoidable, care in removing calcium from these areas and rigorous avoidance of suture penetration of the membranous septum near its junction with the muscular septum should reduce its occurrence greatly. Heart block may be transient rather than permanent.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Neurologic Deficits</summary><div class="details-content">
+
+Neurologic complications after aortic valve replacement may mar an otherwise routine operation. The current risk of neurologic complications among STS National Database participants is 3.5%. With known arteriosclerotic cardiovascular disease, the risk increases. When CABG is combined with aortic valve replacement, risk increases to 5.7%. Attention to the details of avoiding loss of calcific fragments during valve resection and to techniques for removing air from the heart after closing the aorta are the only methods available to reduce early risk of neurologic complications associated with aortic valve replacement. Late neurologic events appear to correlate more with degree of vasculopathy than with bioprosthetic aortic valve replacement itself.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Symptomatic Improvement</summary><div class="details-content">
+
+The functional status of most surviving patients is good after aortic valve replacement. About 90% of patients followed to 5 to 10 years are in NYHA functional class I or II. About 70% of patients preoperatively in NYHA functional class IV are in NYHA functional class I or II postoperatively, as are 80% of those preoperatively in class III and 90% of those preoperatively in class II. Hemodynamically efficient replacement devices appear to favor good functional results. After aortic valve replacement with aortic allografts in the subcoronary position, Prager and colleagues reported that at an average follow-up of 4.2 years, 100% were in NYHA functional class I and when a root replacement technique was used, 97% of patients were in NYHA functional class I and II at follow-up. Doty and colleagues reported 94% of patients in NYHA functional class I and 4% in NYHA functional class II after aortic valve replacement with an allograft at an average follow-up of 4.6 years. The authors also reported 92% of an older group of patients (mean age 71 ± 8.4 years) in NYHA functional class I or II after aortic valve replacement with a stentless porcine aortic bioprosthesis at an average follow-up of 2.3 years.
+
+Exercise capacity tested objectively can approach normal after aortic valve replacement, as shown in patients with aortic stenosis, depressed preoperative exercise capacity, and near-normal resting LV end-diastolic pressure. In other situations, such as in many patients with aortic regurgitation and preoperatively increased LV end-diastolic pressure, exercise capacity is improved after operation but remains subnormal. Exercise capacity testing after aortic valve replacement with a pulmonary autograft has yielded impressive results. The Ross procedure provides excellent hemodynamic results at rest and exercise, with values indistinguishable from normal, including exercise capacity sufficient for athletic competition and ability to achieve extraordinarily high cardiac output with a low pressure gradient across the LVOT.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Left Ventricular Structure and Function</summary><div class="details-content">
+
+The degree of improvement in LV structure and function, if any, after aortic valve replacement depends primarily on such factors such as the type and extent of secondary cardiomyopathy at operation, coexisting disease, extent (if any) of permanent intraoperative LV damage, and energy loss and regurgitation across the valve replacement device.
+
+<details class="med-details"><summary>
+
+### Aortic Stenosis</summary><div class="details-content">
+
+Completeness of return of LV mass toward normal after normalization of LV systolic pressure by aortic valve replacement depends on extent of myocardial degenerative changes (and thus degree of LV hypertrophy) and related loss of LV reserve. When LV end-diastolic pressure is still low at operation, LV wall thickness and mass regress substantially, the latter from an average of 206 g · m<sup>-2</sup> to 133 g · m<sup>-2</sup> (P<.05) in a study by Kennedy and colleagues. The regression continues for more than 1 year postoperatively, but completely normal LV mass is rarely relieved.
+
+In addition to reduction in mass, reversal of LV remodeling gradually returns the left ventricle to a more spheroidal shape. When LV end-diastolic pressure has become importantly elevated before aortic valve replacement, either because of afterload mismatch (see "Natural History" earlier in this chapter) or reduced contractility, LV mass may be importantly reduced after operation. However, at this stage many patients fail to show a reduction in LV mass, presumably because of irreversible myocardial degenerative changes. Krayenbuehl and colleagues showed that the preoperatively enlarged muscle fiber diameter shortens within 1 to 2 years after aortic valve replacement as part of this process but with some increase in interstitial fibrosis. Interstitial fibrosis tended to decrease thereafter, but the myocardium did not return to normal, retaining some permanent fibrosis.
+
+Rate and completeness of LV mass reduction after aortic valve replacement may be related to type of replacement device used and other factors at operation. LV function early after operation for aortic valve replacement with LV hypertrophy appears to be better when cold blood cardioplegia is employed versus other methods of myocardial management. Jin and colleagues showed more complete resolution of LV hypertrophy and greater improvement in LV function when an aortic allograft or stentless porcine bioprosthesis was used to replace the aortic valve than when a stent-mounted bioprosthesis or mechanical valve was employed. Walther and colleagues found regression of LV hypertrophy in all patients after aortic valve replacement in a randomized study comparing stentless and stent-mounted bioprostheses, but patients with stentless bioprostheses had greater regression at 6 months. Maselli and colleagues reported similar findings favoring aortic allografts and stentless bioprostheses, with the most rapid resolution of LV hypertrophy occurring when aortic allografts were used. Basarir and colleagues also found a greater decrease in LV hypertrophy with aortic allografts than with mechanical prostheses after aortic valve replacement.
+
+Kleine and colleagues demonstrated that turbulence, and thus energy loss, caused by mechanical heart valves can be reduced simply by optimal orientation of the device relative to flow patterns created by LV ejection. They state that turbulence may be an important factor in reversing ventricular remodeling after implantation of a prosthetic heart valve, as well as in relief or reduction of pressure gradient across the LVOT. The premise is based on the observation that blood is ejected from the LV eccentrically at the level of the aortic valve. In humans (and pigs) the eccentric flow is toward the right posterior wall of the aorta, the location of the noncoronary sinus of Valsalva. Mechanical valves oriented to place the major flow orifice to take advantage of the eccentric flow pattern in the aorta have optimal performance in that orientation. Thus, a tilting-disc valve properly oriented can perform better than a bicuspid device, even though the latter is perceived as the better replacement device.
+
+*Functional* response of the LV to sudden surgical normalization of systolic pressure can be anticipated from *morphologic* response. LV end-diastolic and end-systolic volume indices decrease and EF increases within 6 months after aortic valve replacement. However, Hwang and colleagues found that 66% (CL 54%–76%) of patients with preoperative LV dysfunction still had abnormal values 6 months postoperatively. When LV wall stress is essentially normal at operation because of appropriate LV hypertrophy and increased wall thickness, indices of LV systolic function (including EF) remain normal or become supranormal postoperatively. By the time of operation, when LV hypertrophy is insufficient to prevent afterload mismatch, the reduced EF and elevated end-diastolic pressure still may return to normal. However, when these indices of LV function have deteriorated because of reduced contractility, usually associated with marked cardiomegaly, they often show little improvement after operation.
+
+Hwang and colleagues developed a logistic risk factor equation for postoperative LV dysfunction after aortic valve replacement for aortic stenosis. Risk factors were lower preoperative EF, one or more myocardial infarctions preoperatively, low preoperative aortic valve gradient (low cardiac output), and unrevascularized coronary artery disease.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Aortic Regurgitation</summary><div class="details-content">
+
+The increase in LV mass that develops in patients with important aortic regurgitation can occur insidiously and in the absence of symptoms. Also, LV mass can become much greater in these patients than in those with aortic stenosis. At least experimentally, abolishing LV volume overload must be performed within 6 months of its inception to permit regression toward normal mass. This observation helps explain why reduction in LV mass after valve replacement for aortic regurgitation is often moderate in degree and unpredictable, even when indices of LV systolic and diastolic function improve after operation. When these indices do not improve, the often massive increase in LV mass fails to regress and may even worsen several years after operation.
+
+Regression of muscle fiber diameter after aortic valve replacement described for patients with aortic stenosis also occurs after operation for aortic regurgitation. Decrease in interstitial fibrous content is greater after valve replacement for aortic regurgitation, however.
+
+Thus, it is not surprising that when LV contractility and EF are good and LV end-diastolic pressure is only mildly elevated, LV mass becomes almost normal late after replacing a regurgitant aortic valve. When already severely diminished at valve replacement, LV systolic and diastolic function often remain compromised late postoperatively, and LV mass fails to regress.
+
+When LV systolic function (estimated by resting and exercise EF, as well as end-systolic volume, LV fractional shortening, and velocity of circumferential shortening) is truly normal at aortic valve replacement (found in only about 10% of patients with symptomatic aortic regurgitation), LV diastolic function is usually normal and, with systolic function, remains normal postoperatively. When preoperative LV systolic function and diastolic function are mildly or moderately depressed at rest or with stress testing (usually associated with only moderate cardiomegaly and increased LV mass), regression (but not normalization) of impaired resting function usually characterizes the postoperative period, but response of systolic function to stress usually remains abnormal. Impaired preoperative exercise capacity adversely affects the probability of important recovery of LV systolic function after valve replacement. Also, even with other factors equal, the longer the duration of preoperative limitation of LV systolic function, the less likely the possibility of appreciable return toward normal. When systolic function improves within 6 months of valve replacement, however, it usually improves still further over the next several years, although about one-third of patients show no additional improvement. Severe preoperative reduction of resting or stressed LV systolic function often indicates irreversible deterioration. Some patients may even show a progressive deterioration in LV systolic function and an increase in LV diastolic volumes leading to death with heart failure a few months to a few years after operation.
+
+Although LV diastolic function is often not improved by aortic valve replacement for aortic regurgitation, the characteristically large LV end-diastolic volume is usually reduced toward normal within 10 days of ablation of regurgitation (and thus decrease in stroke volume). Further volume reduction occurs late postoperatively in many patients, with the greatest reduction in those with lesser degrees of abnormal LV structure and function preoperatively. Bonow and colleagues found that preoperative exercise capacity correlated well with postoperative reduction of LV end-diastolic dimensions (Fig. 12.35). These fell strikingly and occasionally to near-normal values in patients with good preoperative exercise tolerance, whereas in patients with impaired exercise ability, some hearts were larger postoperatively, and few regressed in size late postoperatively.
+
+![](_page_56_Figure_3.jpeg)
+
+**Figure 12.35** Changes in echocardiographic left ventricular enddiastolic dimension as a result of operation in symptomatic patients undergoing aortic valve replacement for regurgitation, according to preoperative exercise duration. Patients who completed stage 1 before operation (<22.5 minutes) had a greater decrease in diastolic size than patients who could not complete stage 1 (at least 22.5 minutes). *Dashed line* at 70 mm indicates value of postoperative diastolic dimension above which patients have been shown to be at high risk of subsequent death from heart failure. *Closed circle,* Late death from operative heart failure; *open circle,* alive; *Preop,* preoperative; *Postop,* postoperative. (From Bonow and colleagues.)
+
+Failure of LV end-diastolic volume to regress toward normal indicates irreversible morphologic and functional LV damage and portends poor long-term results. By the time exercise ability has become impaired, the diastolic properties of the left ventricle may have even become irreversibly impaired, and fixed cardiomegaly may be present (Fig. 12.36). These relationships are particularly important because exercise capacity becomes limited earlier in the course of aortic regurgitation than in aortic stenosis.
+
+These same considerations apply to patients with periprosthetic leakage late postoperatively. The hemodynamic and functional variables after operation for aortic regurgitation appear to be very sensitive to the LV volume overload of periprosthetic leakage. Thus, Schwarz and colleagues found that such patients had importantly reduced LV systolic function late postoperatively compared with patients who had no periprosthetic leakage.
+
+In summary, patients overall experience considerable reduction of LV diastolic volume, decrease in end-systolic volume, and increase in EF after aortic valve replacement for aortic regurgitation. However, about 60% of patients with preoperative dysfunction have dysfunction postoperatively. Some of the variability among reports of postoperative LV function may relate to the variable interval between operation and postoperative testing; LV systolic performance at rest and particularly during exercise improves still further after 1 year. Borer and colleagues reported improvement between the second and third postoperative years and observed no subsequent deterioration in patients who improved. LV systolic dysfunction preoperatively is the most predictive variable for postoperative LV dysfunction.
+
+![](_page_56_Figure_9.jpeg)
+
+**Figure 12.36** Relationship of left ventricular *(LV)* internal radius to corresponding LV pressure throughout diastolic filling period in preoperative *(Preop)* study *(closed circles)* and postoperative *(Postop)* study approximately 1 year after aortic valve replacement for regurgitation *(open circles)*. *Shaded areas* define the range of pressure-radius values observed in a group of patients with normal LV function without aortic regurgitation. (A) Patient (J.N.) with preoperatively depressed inotropic state. (B) Patient (V.R.) with normal preoperative inotropic state. (From Gault and colleagues.)
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Left Ventricular–Aortic Energy Loss</summary><div class="details-content">
+
+All devices placed within the aortic root for replacement of the aortic valve are obstructive to some degree. This inherent obstruction may be minimized by complete replacement of the aortic root with an aortic allograft, stentless bioprosthesis, or pulmonary autograft. These operations are more complex than replacement of the aortic valve with a mechanical or stent-mounted prosthesis.
+
+Gradients are minimal after freehand insertion of an aortic allograft or stentless aortic bioprosthesis but are pronounced in patients receiving mechanical or stent-mounted prostheses. The magnitude of gradient varies greatly depending on characteristics of the prosthesis, size of the device relative to size of the patient, cardiac output (study done during rest, exercise, or pharmacologic stimulation), and abnormal conditions in or around the replacement device.
+
+Fisher and colleagues evaluated mechanical and stent-mounted bioprosthetic valves in vitro with regard to pressure gradients generated at various flow rates (Fig. 12.37). In vivo measurement of pressure gradient across mechanical or bioprosthetic cardiac valves by Doppler ultrasound has been complicated by complex blood flow velocity profiles associated with the prosthetic valve. Doppler ultrasound, although noninvasive, tends to overestimate energy loss resulting from pressure gradient across prosthetic valves. In addition, aortic curvature, arterial distensibility, arterial impedance, and unsteady flow appear to affect interpretation of pressure measurements.
+
+Despite these limitations, reproducible estimates of pressure gradient are possible in vivo using Doppler ultrasound techniques. These values have been used to compare various prostheses and bioprostheses according to label size (Table 12.6A and 12.6B). Resting gradient under 10 mmHg is desirable. Comparative figures are subject to interpretation, recognizing that most values are obtained during rest, and even then, cardiac output (flow) may vary considerably from patient to patient. In addition, label size among different types of devices is associated with widely variable valve orifice size. Comparing studies is also complicated by what is reported: peak LV to aortic systolic gradient or mean systolic gradient, for example. After considering these confounding factors, however, hemodynamic performance characteristics clearly have improved with newer prosthetic valve designs. Also, most cardiac valve replacement devices function well at rest if greater than 23 mm in diameter. Some 21-mm devices are satisfactory, but 19-mm devices may have a higher than desirable gradient even at rest.
+
+Virtually all mechanical prostheses and bioprostheses larger than the 21-mm size can provide satisfactory performance in most adults. Some 21-mm mechanical prostheses and first-generation bioprostheses have high energy loss during periods of increased cardiac output. Among the 21-mm mechanical prostheses, the St. Jude Medical mechanical valve (Abbott Cardiovascular) performs well in this regard. Other bileaflet tilting disc design prostheses also have good hemodynamic performance.
+
+Because of the variability in the gradient usually present across the prostheses used for aortic valve replacement, unusual gradients may be difficult to identify. However, such abnormalities develop from fibrous ingrowth below or above the device, dense clot around the valve (thrombotic encasement), or leaflet calcification of a bioprosthesis. Gradients of 85 to 100 mmHg may be produced, but they can be much lower and more difficult to define as abnormal when these developments reduce cardiac output.
+
+![](_page_57_Figure_2.jpeg)
+
+**Figure 12.37** In vitro evaluation of mechanical and stent-mounted bioprosthetic valves. Bench testing of these devices for cardiac valve replacement compares root mean square *(RMS)* forward flow through device to pressure gradient generated. Mechanical and stent-mounted pericardial prostheses show a performance advantage compared with first-generation stent-mounted porcine bioprostheses. (From Fisher and colleagues.)
+
+<details class="med-details"><summary>
+
+#### TABLE 12.6A Systolic Left Ventricular–to-Aortic Pressure Gradient (mmHg): Mechanical Prostheses</summary><div class="details-content">
+
+| Prosthesis | 19 | 21 | 23 | 25 |
+| :--- | :---: | :---: | :---: | :---: |
+| Starr-Edwards 1260 | — | 12 | — | — |
+| Medtronic-Hall | — | 12-13 | 9 | 4 |
+| Monostrut | — | 12 | 7-9 | 7 |
+| St. Jude | 16-22 | 13-15 | 8-12 | 11-12 |
+| CarboMedics | 17-19 | 12 | 9-10 | 8-9 |
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### TABLE 12.6B Systolic Left Ventricular–to-Aortic Pressure Gradient (mmHg): Biological Prostheses<sup>a</sup></summary><div class="details-content">
+
+| Prosthesis | 19 | 21 | 23 | 25 | 27 |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| Carpentier-Edwards porcine | 32 | 22 | 14 | 15 | — |
+| Hancock porcine | 34 | 20 | — | — | — |
+| Hancock MO | 17 | 15 | 9 | 11 | — |
+| Hancock II | — | 12 | 12 | 11 | 8 |
+| Carpentier-Edwards pericardial | 17-24 | 14-20 | 11-15 | 11-14 | — |
+| Medtronic Freestyle | 13 | 11 | 9 | 6 | 5 |
+| St. Jude SPV | — | 13 | 9 | 6 | 5 |
+
+###### Data represent in vivo mean pressure gradient measured by Doppler ultrasound. Data from references.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Effective Orifice Area</summary><div class="details-content">
+
+Acoustic anomalies caused by mechanical prosthetic valves after implantation make it difficult, if not impossible, to measure prosthetic valve area by ultrasound (echocardiography) using pressure half-time estimates. These methods are most applicable to bioprosthetic heart valves. Mechanical prostheses cause changes in the flow velocity patterns across the aorta, and in vivo measurements are often subject to question as to sampling sites. A modified Bernoulli equation appears to be the most reproducible and accurate method for calculating prosthetic valve area by ultrasound. The mathematical constants of these equations are loaded into modern echocardiographic equipment to facilitate estimating valve area.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Hemolysis</summary><div class="details-content">
+
+Patients with allograft valves sewn freehand into the aortic root do not have abnormal red blood cell hemolysis, even when there is periprosthetic or central leakage. Well-functioning stent-mounted xenografts generally do not produce hemolysis when central leakage develops, but they may do so with periprosthetic leakage. All well-functioning mechanical valves produce at least a small degree of hemolysis, with disc-type valves producing less than ball valves. Periprosthetic and intraprosthetic leakage produces increased amounts of hemolysis, the magnitude of which is related to the amount of regurgitation. Thrombotic narrowing of a prosthetic orifice also importantly increases hemolysis.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Replacement Device Regurgitation</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Periprosthetic Leakage</summary><div class="details-content">
+
+Periprosthetic leakage may occur after replacing the aortic valve with an allograft or stentless porcine bioprosthesis placed as a freehand subcoronary implant. Elimination of the dead space between graft and the patient's aorta by sutures is thought to reduce occurrence of leakage, although these sutures may cause periprosthetic leakage. Periprosthetic leakage in the presence of aortic allografts or freehand subcoronary-implanted bioprostheses is related to technical problems at the outflow or upper suture line. Buckling of the graft or dehiscence of sutures from the aortic wall results in dissection of blood along the patient's aortic wall into the space between the graft and aorta. Eventually, a passageway is created to the inflow or lower suture line. Although placing sutures between the graft and aorta may reduce the space or may more securely approximate the graft and aorta at operation, it is virtually impossible to obliterate the space until healing has occurred. Sutures between the graft and aorta other than at the inflow and outflow suture line could actually open tracts to this space along the sutures and needle holes. The best preventive measure against periprosthetic leakage is a secure outflow suture line, as confirmed by intraoperative echocardiography and a strict policy to repair any leakage found at operation.
+
+With mechanical prostheses or bioprostheses, important periprosthetic leakage is uncommon in the absence of infection, although minor leakage may occur. Periprosthetic leakage usually becomes evident during the early months after operation. Shean and colleagues reported a prevalence of minor periprosthetic leakage of 17% in the Massachusetts General Hospital series. Also, 6% of patients (CL 5%–7%) had clinically recognizable hemolysis.
+
+When periprosthetic leakage develops, and no infection is present, the area of dehiscence is usually small and can be repaired with one or two pledgeted mattress sutures. The prosthesis does not have to be removed and replaced unless the area of dehiscence is large.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Central Leakage</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+#### Allograft Aortic Valves</summary><div class="details-content">
+
+Allograft valve central leakage has a variety of causes and a variable prevalence that relate to valve preparation, storage, and insertion techniques. For antibiotic-sterilized, wet-stored (at 4°C) valves, *degeneration* (cusp rupture with or without minor calcification) is the most common cause (Fig. 12.38), with a 10-year prevalence of up to 15% to 18%. The Stanford group reported a 30% 10-year prevalence of degenerative valve failure with antibiotic-treated valves. Differences in prevalence relate primarily to the definition of *degenerative failure*, which in the Stanford series was the appearance of a new regurgitant murmur, in the O'Brien series was reoperation, and in the Barrett-Boyes series was moderate or severe regurgitation. Patients with mild or trivial regurgitation are not considered examples of valve failure, because this may develop early after operation from imperfect cusp coaptation. Kirklin and colleagues reported an 85% freedom from valve failure (explantation for cusp failure or moderately severe or severe aortic regurgitation) at 8 years with cryopreserved aortic allografts. The hazard for valve failure gradually increased over time (Fig. 12.39). Using antibiotic-sterilized valves, O'Brien and colleagues reported a marked increase in the risk of valve failure after about 12 years.
+
+![](_page_58_Figure_10.jpeg)
+
+**Figure 12.38** Proportion of patients free of important (moderate or severe) allograft valve regurgitation (antibiotic sterilization) after valve replacement. As detailed in an earlier publication, 90 patients had isolated aortic valve disease, and 31 had multivalve disease; 114 patients left the hospital alive. Two patients were lost to follow-up at 54 and 74 months. The other 48 survivors were followed for 132 to 162 months (average 12 years). Of the 29 instances of regurgitation occurring in the 100 patients with small or normal-sized roots, 24 were presumed or proven cusp rupture, 4 others were related to allograft valve endocarditis, and 1 was due to cusp malposition related to technical error at insertion. For small and normal-sized aortic roots compared with large aortic roots, *P* = .0006.
+
+![](_page_58_Figure_12.jpeg)
+
+**Figure 12.39** Hazard function for presumed cusp failure (reoperation for allograft regurgitation or 3+ or greater aortic regurgitation on follow-up echocardiography). *Dashed lines* enclose 68% confidence limits. (From Kirklin.)
+
+A second, less common cause of important central leakage after freehand insertions is technical error, with cusp distortion and prolapse or progressive host aortic root dilation associated with bicuspid aortic valve or cystic medial necrosis of the aorta. The free edges of the cusps are overstretched and fail to meet centrally but are otherwise intact. The latter mechanism can be prevented by avoiding freehand insertion in patients who have large aortic roots.
+
+A third cause of central leakage is endocarditis (see "Replacement Device Endocarditis" later in this chapter).
+
+<details class="med-details"><summary>
+
+##### TABLE 12.7 Incremental Risk Factors for Central Leakage from Cusp Degeneration of Allograft Aortic Valves Used for Aortic Valve Replacement<sup>a</sup></summary><div class="details-content">
+
+| Risk Factor |
+| :--- |
+| Allograft preparation and storage: |
+| Chemical sterilization (β-propiolactone) |
+| Sterilization by irradiation |
+| (Greater) Donor age |
+| (Larger) Aortic root diameter |
+| (Younger) Recipient age |
+| Native valve regurgitation |
+| Technique of insertion: |
+| Stent mounting |
+| Faulty freehand insertion |
+
+###### Risk factors assembled based on experience and published reports, not obtained by multivariable analysis.
+
+</div></details>
+
+In *allograft preparation and storage*, integrity of cusp ground substance and fibroblasts is maintained either by short-duration, low-concentration antibiotic disinfection followed by cryopreservation and later insertion, or by sterile collection, wet storage, and implantation within a few days (homovital). These techniques reduce cusp degeneration and central leakage to a prevalence of 2% to 10% by 10 years after insertion. Histologic findings in allograft cusps preserved by these techniques after implantation in animals or retrieval after implantation in humans indicates better preservation of cusp architecture and fibroblasts than when other methods are used. The allograft valve is antigenic, however, and both endothelial cells and fibroblasts are probably destroyed by an immunologic process. Antibiotic sterilization and cryopreservation are thought to reduce antigenicity of allograft valves, but lowgrade rejection still may occur and promote graft degeneration. Tissue matching and immunosuppressive therapy fail to reduce degeneration.
+
+*Donor age* appears to be a continuous variable that affects the rate of cusp degeneration, but its effect is weak until after approximately a donor age of 50 years. Cusp calcification is also more common in valves from older donors, which presumably explains why most allograft valves that develop stenosis come from donors over age 60. The age effect is such that prevalence of valve degeneration by 10 years after insertion is 8%, 25%, and 40% when donor age is under 20 years, 20 to 50 years, and over 50 years, respectively (Fig. 12.40).
+
+![](_page_59_Figure_19.jpeg)
+
+**Figure 12.40** Freedom from important allograft aortic valve regurgitation according to age of donor, providing nonviable valves. Only regurgitation from valve wear (degeneration) is included. Numbers at risk are noted. (From Barratt-Boyes and colleagues.)
+
+Although *aortic root diameter* is a continuously variable risk factor, its effect becomes strong only when it is greater than 30 mm (corresponding to an allograft inner diameter greater than 28 mm). Thus, central leakage within 10 years is approximately 40% when the aortic root diameter is at least 30 mm and 10% when it is less than 30 mm (Fig. 12.41).
+
+![](_page_59_Figure_21.jpeg)
+
+**Figure 12.41** Freedom from important regurgitation according to aortic root diameter after allograft aortic valve insertion. Data set and format are as in Fig. 12.40. (From Barratt-Boyes and colleagues.)
+
+The incremental risk of *young age* on cusp degeneration and central leakage is much weaker than with stent-mounted xenograft valves. However, an analysis by Kirklin and colleagues identified younger recipient age as the primary predictor of late cusp failure.
+
+*Imperfect freehand insertion* of an allograft results in altered stress and strain on the cusps, which in turn predispose to rupture in the cusp belly or even at the commissures where stresses are minimal in the native valve. Asymmetric location of the graft valve commissures at implantation or distortion of the commissural location during closure of an oblique aortotomy that extends into the noncoronary sinus of Valsalva may be an important cause of altered stress on the graft cusp tissues. Fig. 12.42 shows how a commissural positional abnormality results in lengthening and stretching of the right and left coronary cusps, compared with redundancy of the noncoronary cusp. Calcium deposits are greatest in the anulus and sinus of the redundant cusp, whereas the stretched cusps are subject to cusp tear or disruption. Septal myocardium left on the allograft is broken down and absorbed, because no myocardium is seen on the graft at explantation. This may explain why an aortic valve allograft inserted by the subcoronary freehand technique may show perfect function at operation but become regurgitant within a few weeks or months. In support of this, the prevalence of aortic regurgitation several months after operation is considerably greater with freehand aortic allografts than with aortic valve allografts or pulmonary autografts inserted as part of a full or "mini" root replacement.
+
+![](_page_60_Picture_3.jpeg)
+
+![](_page_60_Picture_4.jpeg)
+
+![](_page_60_Picture_5.jpeg)
+
+![](_page_60_Picture_6.jpeg)
+
+**Figure 12.42** Effect of commissural position error in aortic valve replacement with an aortic allograft. (A) Minor position error. Explanted aortic allograft is shown in surgeon's view, with diagram of major findings alongside. Distance (length of aorta) between commissures bordering noncoronary sinus of Valsalva is shorter than that between commissures bordering left coronary sinus and commissures bordering right coronary sinus. Presumably this is the result of closing an oblique incision in the noncoronary sinus with some aortic tissue loss. This commissural positional abnormality places stress on right and left coronary cusps. Calcium deposits appear greatest in noncoronary cusp. (B) Major position error. Explanted aortic allograft is shown in surgeon's view with diagram alongside. Commissure between left and noncoronary sinuses is drawn far to the right above noncoronary sinus rather than following natural position posteriorly. Commissure between right and noncoronary sinuses is drawn far to the right, producing a similar deformity so that commissures nearly touch in noncoronary sinus. This is the result of closure of an oblique incision in noncoronary sinus of Valsalva with large tissue bites, which draws adjacent commissures toward each other, as well as simply not following anatomic contours of aortic valve. Stress on left and right coronary cusps resulted in leaflet tear; noncoronary cusp is redundant, prolapsed, and contains calcium deposits.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Pulmonary Autograft</summary><div class="details-content">
+
+Cusp degeneration or central regurgitation of a pulmonary autograft implanted freehand into the aortic valve position (Ross procedure) may result from technical factors similar to those associated with freehand-inserted aortic valve allografts. It is important to note, however, that most pulmonary autografts are now inserted by the full aortic root replacement technique. When early regurgitation occurs in this situation, it is likely caused by technical problems with insertion, cusp shrinkage (which should be minimal or absent), and progressive changes of connective tissue related to genetic factors either in the native aortic root tissues that support the pulmonary autograft or in the autograft itself. Technical problems at operation relate primarily to matching diameter of the pulmonary autograft to the LVOT at the position of attachment. The LVOT should be sized up or down to a diameter within 2 or 3 mm of that of the autograft. The autograft should not be stretched over a larger LVOT, and the size of the autograft should not be "taken up" during implantation to a substantially smaller aortic anulus. Use of an interrupted suture technique probably provides the most accurate method of suture placement for implanting the autograft and may result in near-perfect valve function later. Addition of a support or reinforcement ring to the LVOT suture line is associated with greater freedom from pulmonary autograft regurgitation (Fig. 12.43). External reinforcement of the autograft in one form or another is commonly employed.
+
+![](_page_60_Figure_10.jpeg)
+
+**Figure 12.43** Freedom from regurgitation grade 2 or more after aortic valve replacement with pulmonary autograft. Effect of anular support (with ring). Fixing diameter of pulmonary autograft at anastomosis to aortic anulus during implantation virtually eliminated autograft regurgitation. *AR,* Aortic regurgitation. (From Dossche and colleagues.)
+
+Connective tissue abnormalities, such as fibrillin deficiency associated with Marfan syndrome, are considered contraindications to aortic valve replacement with a pulmonary autograft because the pulmonary trunk will likely have the same tendency for dilation as the aorta. Elkins and colleagues noted fibrillin or elastin abnormalities in the resected aorta in a high proportion of patients undergoing the Ross procedure for aneurysm or dilation of the ascending aorta. Changes in pulmonary autograft dimensions did not correlate with the observed changes in fibrillin or elastin. Concern about potential dilation of the pulmonary autograft, resulting in aortic valve regurgitation of a bicuspid aortic valve and dilation of the aortic root and ascending aorta, appears to be overstated. Long-term series do not report this complication when the neoaortic anulus is supported and its diameter fixed.
+
+Although aortic root dilation is common late after autograft root replacement, it is probably not related to bicuspid aortic valve disease or preexisting degenerative changes in the pulmonary trunk. Histologic abnormalities of the pulmonary trunk are rare and equally prevalent in patients with bicuspid and tricuspid aortic valves. As noted in "Autograft Pulmonary Valve" under Isolated Aortic Valve Replacement earlier in this chapter, the pulmonary trunk may dilate up to 30% when subjected to systemic arterial pressure.
+
+The precise mechanism remains unclear, but the tendency for late anular dilation in some patients and its association with valve regurgitation has been well documented. David and colleagues found a higher risk of late dilation of the neoaortic root with the root replacement technique than with the root inclusion method in which the autograft is implanted within the native aortic root. de Kerchove and colleagues reported 10-year follow-up of 218 patients undergoing the Ross operation, 148 with root replacement and 70 with the intraaortic (inclusion) technique. Freedom from autograft reoperation at 10 years was 81% and 84%, respectively. Similar results were reported by Kouchoukos and colleagues. El-Hamamsy reported even better results with 15-year actuarial survival over 93% and incidence of reoperation of 17% at 15 years.
+
+Autograft dilation is the main cause of failure following root replacement, and autograft valve prolapse is the main failure mode after the inclusion technique. Following root replacement, the rate of autograft dilation has been reported at 0.5 mm · year<sup>-1</sup> in the adult population and 2 mm · year<sup>-1</sup> in a mixed pediatric and young adult population. Presence of preoperative aortic regurgitation is an independent predictor of autograft dilation. Systemic hypertension may also play a role. Long autografts may be more prone to dilation of the supracommissural segment, and some have recommended keeping the autograft as short as possible. Juthier and colleagues reported absence of neoaortic regurgitation at a mean follow-up of 4 years when the autograft was reinforced with a polyester tube.
+
+Whether current methods to stabilize the neoaortic valve at the anular and sinutubular levels following root replacement, or wrapping the entire autograft with bovine pericardium or polyester, will affect late freedom from moderate or worse valve regurgitation has been incompletely studied. However, an analysis of the German-Dutch Ross registry (more than 1500 patients) identified preoperative aortic regurgitation and the nonreinforced full root technique as factors associated with late autograft failure (8-12 years). Elkins and colleagues reported an 83% freedom from autograft failure at 16 years, and also identified preoperative aortic regurgitation as a risk factor for late valve failure. Among patients undergoing valve implantation by the inclusion technique, late reoperation is normally associated with progression of early discrete aortic regurgitation, which likely results from a geometrically imperfect implant.
+
+Increases in neoaortic anulus diameter over time in excess of that expected by somatic growth has also been observed in the pediatric population. Among pediatric patients, freedom from autograft valve-related reoperation is about 86% at 12 years following aortic root replacement. Shinkawa and colleagues reported a 95% freedom from autograft reoperation at 10 years, but only 64% by 15 years among neonates and infants. A metaanalysis of reports published between 2000 and 2008 indicates that durability limitations of the Ross procedure in children and young adults become apparent by the end of the first postoperative decade.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Stent-Mounted Xenograft (Porcine) and Pericardial (Bovine) Glutaraldehyde-Treated Aortic Valves</summary><div class="details-content">
+
+These valves, mounted on a cloth-covered stent, may develop central leakage because of cusp rupture either in the commissural region or in the cusp belly. Rupture is often associated with cusp calcification, in contrast to allograft valves inserted freehand. Also, calcification may produce stenosis rather than rupture. Although most ruptures in this type of bioprosthesis are precipitated by collagen fatigue and fracture and subsequent invasion of the cusp by macrophages, some may be caused by abrasion of the cusp against a stent. A few cases have resulted from cusp perforation by long, cut ends of rigid suture material projecting inward from the sewing ring toward the cusp base. Detachment of the valve's aortic remnant from the stent pillar, in contrast to stent-mounted allograft valves and previously used formaldehyde-treated stentmounted xenografts, is rare and associated with failure of host tissue overgrowth across the polyester bias strip onto the graft. Presumably the collagen cross-linkage from glutaraldehyde preservation of porcine aortic and bovine pericardial valves strengthens the aortic tissue sufficiently to prevent tearing and detachment.
+
+Among 478 patients who received a bovine pericardial prosthesis in the premarket approval stage, 70 experienced structural valve deterioration. Pathology was pure regurgitation in 23, pure stenosis in 18, and mixed in 20 (uncertain in 9). Modes of failure were calcification (39%), noncalcific degeneration (30%), fibrosis (7.1%), dehiscence (5.7%), and a combination of these (14%). Calcification and degeneration appeared to accelerate with time, and these modes of degeneration were particularly accelerated by younger age at implant.
+
+Thus, risk factors for central leakage from degeneration (structural valvar deterioration [SVD]) of the cusps of a stent-mounted glutaraldehyde-fixed xenograft include female gender and younger age of recipient (Fig. 12.44). This accelerated rate of degeneration of xenograft valves in the aortic position rapidly declines with advancing age. In patients older than about 65 years, failure at 10 years is less than 5%. Jamieson and colleagues showed that degeneration of first-generation porcine xenograft valves was related to younger age, decreasing after age 60 and almost imperceptible in patients over 70. A similar age-related effect on durability of bovine pericardial bioprostheses has been observed (Fig. 12.45); chance of valve explant for structural deterioration is less than 10% at 15 years in patients over age 65 years (Fig. 12.46). Statistical methodology also affects interpretation of the apparent frequency of degeneration (see "Computing Risks" in Chapter 7). Kaplan-Meier analysis estimates accurately the biological frequency of SVD among living patients as an isolated event; competing risks analysis places SVD into the context of mortality before SVD occurs. Thus, in older patients, not only does the biological behavior of the xenograft contribute to a lower occurrence of SVD, but mortality decreases the probability that the patient will survive long enough to experience the event (Table 12.8).
+
+![](_page_61_Figure_10.jpeg)
+
+**Figure 12.44** Nomogram of estimated risk-adjusted probability of bioprosthetic degeneration within 5 years of inserting first-generation stent-mounted porcine xenografts, according to patient's gender and age at insertion. (From Blackstone and Kirklin.)
+
+![](_page_62_Figure_3.jpeg)
+
+**Figure 12.45** Age-related explant for structural valve deterioration (SVD) of bovine pericardial aortic valve prostheses. Dashed lines enclose 68% confidence limits of estimates. (A) Freedom from explant for SVD for a patient whose valve was implanted at age 45, 55, 65, and 75. (B) Fifteen-year freedom from explant for SVD across a spectrum of ages. (From Banbury and colleagues.)
+
+![](_page_62_Figure_5.jpeg)
+
+**Figure 12.46** Risk-adjusted estimates of age-related explant for structural valve deterioration (SVD) of bovine pericardial aortic valve prostheses. Depiction is from a competing risks analysis that accounts for death before valve explant (see "Competing Risks" under Analyses in Section IV of Chapter 6); vertical axis is cumulative incidence. For this figure, patient was assumed to be a male in New York Heart Association functional class III, undergoing first valve replacement, and not undergoing concomitant coronary artery bypass grafting or ascending aorta replacement. Dashed lines enclose 68% confidence limits of estimates. (A) Evolution of SVD across time for a patient age 45, 55, 65, and 75 at implant. (B) Fifteen-year freedom from explant for SVD in a similar patient, but across a continuous spectrum of ages. (From Banbury and colleagues.)
+
+Method of valve preservation is also probably a risk factor, because glutaraldehyde fixation at pressures above zero abolishes the normal collagen crimp and diminishes cusp pliability (distensibility). As a result, the cusp kinks rather than stretches on opening, leading to compression fracture of the collagen at sites of kinking. In contrast, zero-pressure fixation retains collagen crimp and produces a more pliable cusp with mechanical properties that closely approach those of fresh cusp tissue. Second- and third-generation zero-pressure-fixed bioprostheses may perform better over time than first-generation pressure-fixed valves. Also, substances introduced into the fixation protocol may reduce risk of cusp calcification.
+
+Accumulating data demonstrate that second- and third-generation bioprostheses last longer than first-generation devices (Fig. 12.47). The Hancock II porcine aortic xenograft with improved stent and anticalcification treatment (T6) and the Edwards Lifesciences bovine pericardial valve with flexible stent and anticalcification treatment (Tween 80) are showing less degeneration beyond 10 years than first-generation devices. Cryopreserved and homovital aortic allografts appear on the same curve as second-generation xenografts. Data are limited beyond 12 years with third-generation stentless porcine valves, but structural integrity appears good and on the same trajectory as aortic allografts. However, the purported improvement in durability of third-generation xenograft prostheses has not translated into improved clinical results. Said and colleagues reported similar survival and risks or reoperation among patients undergoing aortic valve replacement with pericardial prostheses compared to those with porcine bioprostheses.
+
+<details class="med-details"><summary>
+
+##### TABLE 12.8 Freedom from Structural Valve Deterioration at 15 Years after Aortic Valve Replacement According to Age and Statistical Method<sup>a</sup></summary><div class="details-content">
+
+| AGE GROUP (Years) | AVR (%) | | MVR (%) | |
+| :--- | :---: | :---: | :---: | :---: |
+| <40 | 31 | 50 | 18 | 61 |
+| 40-50 | 50 | 35 | 20 | 52 |
+| 50-60 | 68 | 21 | 30 | 37 |
+| 60-70 | 76 | 14 | 30 | 32 |
+| >70 | 89 | 2 | 91 | 4 |
+
+###### <sup>a</sup>Kaplan-Meier estimates. <sup>b</sup>Competing risks analysis (see "Competing Risks" under Analyses in Chapter 6) expressed as cumulative incidence. Patients with Carpentier-Edwards standard porcine bioprosthesis. *AVR,* Aortic valve replacement; *MVR,* mitral valve replacement. Data from Jamieson and colleagues.
+
+</div></details>
+
+![](_page_63_Figure_6.jpeg)
+
+**Figure 12.47** Comparison of freedom from structural deterioration of bioprostheses after aortic valve replacement among first-, second-, and third-generation devices. (From Fann and colleagues and US Investigational Device Exemption Centers.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Stentless Xenograft (Porcine) Aortic Valves</summary><div class="details-content">
+
+Absence of a stent has the theoretic advantages of making the device less stenotic and decreasing perivalvar leakage. Also, by analogy with allografts, degeneration may occur more slowly in stentless than in first-generation stent-mounted xenografts. Experimental and short-term clinical results in a small number of patients are compatible with this hypothesis. Midterm data show that the prevalence of primary periprosthetic leak at 4 years is 2.2% and that virtually no central aortic valve regurgitation of 1+ or greater occurs with the Medtronic Freestyle. Changes in the aorta, however, independent of degeneration of the valve may affect performance of the Toronto SPV bioprosthesis; dilation of the sinutubular junction may result in aortic valve regurgitation and may be prevented by restricting the aorta above the valve with a circumferential band.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### Mechanical Valve Replacement Devices</summary><div class="details-content">
+
+Mechanical replacements develop important central leakage only with mechanical failure (e.g., poppet escape, catastrophic structural failure or entrapment of a suture). Also, tissue or thrombosis may encroach into the seating area of the device, although the occurrence appears low.
+
+</div></details>
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Replacement Device Endocarditis</summary><div class="details-content">
+
+Endocarditis on the device used for aortic valve replacement is an uncommon but serious complication; overall, only about 30% of patients are long-term survivors. Infective endocarditis is discussed in detail in Chapter 14.
+
+<details class="med-details"><summary>
+
+### Prevalence and Incidence</summary><div class="details-content">
+
+The prevalence of endocarditis on an aortic valve replacement device is low, with 95% to 97% of patients free of this complication 5 years postoperatively (Fig. 12.48). Risk of endocarditis generally is greatest about 6 weeks after insertion of the replacement device, then gradually declines to a low constant hazard function by about 9 months (Fig. 12.49).
+
+![](_page_63_Figure_15.jpeg)
+
+**Figure 12.48** Freedom from replacement device endocarditis after an original valve replacement operation, first reoperation, and second reoperation. Note expanded vertical axis. Each symbol represents an infection; *dashed lines* indicate patients traced and free of endocarditis, *numbers in parentheses* are patients at risk, and *vertical bars* are 70% confidence limits. (From Blackstone and Kirklin.)
+
+![](_page_64_Figure_6.jpeg)
+
+**Figure 12.49** Hazard function for replacement device endocarditis after primary valve replacement. Graph is applicable to patients undergoing aortic valve replacement. Initial peaking phase of hazard merges with a constant phase about 6 months after operation. (From Ivert and colleagues.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Etiology</summary><div class="details-content">
+
+Endocarditis early after valve replacement (early peaking hazard phase) is usually caused by organisms already present in the operative field or introduced at operation or within the next few days. The organisms are usually staphylococci, gramnegative cocci, or mixed organisms. The rare fungal infection is typically fatal. Replacement device endocarditis occurring late after operation is the result of a transient bacteremia, most often with streptococcal organisms.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Incremental Risk Factors</summary><div class="details-content">
+
+Incremental risk factors for developing endocarditis after primary aortic valve replacement (the same as after primary mitral valve replacement) (Table 12.9) are different from those after reoperation (Table 12.10). When the valve replacement operation is performed for endocarditis on either the native valve or a previously inserted replacement device, no risk factors for subsequent endocarditis other than the endocarditis have been identified, probably because of the dominant risk of infection already present.
+
+There has been controversy regarding the impact of type of prosthesis on the risk of device-related endocarditis, but studies from large national databases suggest that late prosthetic valve endocarditis (PVE) may be increased in patients with bioprostheses. In a study from Sweden, Glaser and colleagues reported an overall incidence of PVE of 0.57% per person-year following AVR, and in multivariable-adjusted analysis the hazard ratio (HR) associated with use of a bioprosthesis was 1.54 (95% CI, 1.29–1.83). Similarly, a report from The Society of Thoracic Surgeons Adult Cardiac Surgery Database by Brennan and colleagues found a higher risk of PVE in patients with biological compared with mechanical valves (HR, 1.60; 95% CI, 1.31–1.94). Presence of native valve endocarditis has some adverse effects on subsequent freedom from replacement device endocarditis. Replacement device endocarditis tends to develop after a redo operation more often than after an original valve operation (Fig. 12.50).
+
+<details class="med-details"><summary>
+
+#### TABLE 12.9 Incremental Risk Factors for Replacement Device Endocarditis after Primary Operation</summary><div class="details-content">
+
+| Risk Factor | HAZARD PHASE |
+| :--- | :---: |
+| | Early | Constant |
+| Demographic variables: | | |
+| Male gender | • | |
+| African American | • | • |
+| Endocarditis | • | |
+| Surgical variables: | | |
+| Mechanical prosthesis | • | |
+
+###### Data from Blackstone and Kirklin.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+#### TABLE 12.10 Incremental Risk Factors for Replacement Device Endocarditis after Reoperations on Valve</summary><div class="details-content">
+
+| Risk Factor | Single Hazard Phase |
+| :--- | :---: |
+| Male gender | • |
+| Mitral replacement at original operation | • |
+
+###### Data from Blackstone and Kirklin.
+
+</div></details>
+
+![](_page_64_Figure_12.jpeg)
+
+![](_page_64_Figure_13.jpeg)
+
+**Figure 12.50** Hazard function for replacement device endocarditis after valve replacement for native valve endocarditis, according to whether device was a mechanical prosthesis or bioprosthesis. In both cases, the early peaking hazard phase merges at 3 to 12 months, with a low constant hazard. (From Ivert and colleagues.)
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Early (Hospital) Death and Time-Related Survival</summary><div class="details-content">
+
+Replacement device endocarditis is a serious complication. In one study, 50% of patients were dead within 6 months of its identification. Mortality is less with allograft aortic valves inserted freehand, even though the operation is performed on already infected valves. In the study by Ivert and colleagues, only about 20% of patients died within 6 months. This result, however, may reflect operations performed in patients with less extensive infections than those requiring aortic root replacement techniques for aortic root abscess, as well as infectious processes extending beyond the aortic valve cusp tissues. In contrast, Sabik and colleagues reported that radical débridement and aortic root replacement with a cryopreserved aortic allograft resulted in 5- and 10-year survival of 73% and 56%, respectively.
+
+Table 12.11 lists the risk factors for death after valve replacement for native or prosthetic valve endocarditis.
+
+<details class="med-details"><summary>
+
+#### TABLE 12.11 Incremental Risk Factors for Death after Aortic Valve Replacement for Acute Infectious Endocarditis</summary><div class="details-content">
+
+| Risk Factors<sup>a</sup> | HAZARD PHASE |
+| :--- | :---: |
+| | Early | Constant<sup>b</sup> |
+| (Older) Age at operation | • | |
+| (Higher) NYHA functional class (I-V) | • | |
+| (Larger) Number of previous aortic valve procedures<sup>c</sup> | • | |
+
+###### <sup>a</sup>Nonuse of an allograft aortic valve inserted by freehand technique did not remain in the final model (equation); *P* was .3 in early hazard phase and .9 in constant hazard phase. <sup>b</sup>No risk factors in constant phase. <sup>c</sup>When number of previous aortic valve procedure was 0, endocarditis was on the native valve. *NYHA*, New York Heart Association. Data from Haydock and colleagues.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Treatment</summary><div class="details-content">
+
+When endocarditis develops early or late after aortic valve replacement, the causative organism is identified so that appropriate antibiotics can be started. Endocarditis on aortic valve replacement devices is often destructive of the entire aortic anular support mechanism and may be associated with anular abscess. Infection may extend to contiguous cardiac structures beyond the aortic root. Reconstruction of the aortic root destroyed by infection may be best accomplished by use of an aortic allograft for technical reasons although evidence of superiority of freedom from reinfection is lacking.
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Thromboembolism</summary><div class="details-content">
+
+Risk of thromboembolism is approximately constant beyond the first month after operation. The authoritative report by Edmunds indicates that the overall linearized rate of thromboembolism in patients with aortic mechanical device replacement is 2 ± 1 per 100 patient-years and about half that value in patients with stentmounted xenograft valves. The comprehensive study of Grunkemeier and colleagues showed considerable variance in rate of thromboembolism among published series of patients. Thromboembolism rate is about the same for the various mechanical devices; median rate for the St. Jude Medical mechanical valve is 1.33% · year<sup>-1</sup> and for the CarboMedics valve, 1.16% · year<sup>-1</sup>. Rates for stent-mounted bioprostheses are also similar; median rate for the Hancock porcine is 0.78% · year<sup>-1</sup>; for the Carpentier-Edwards porcine, 0.87% · year<sup>-1</sup>; and for the Carpentier-Edwards bovine, 1.22% · year<sup>-1</sup>. The rate is lower for allografts, with a median of 0.23% · year<sup>-1</sup>. All these rates fall below the objective performance criteria required for US Food and Drug Administration (FDA) approval of 3.0% · year<sup>-1</sup> for mechanical valves and 2.5% · year<sup>-1</sup> for bioprostheses. Adequacy of warfarin therapy is the key determinant of the rate in patients with mechanical aortic valves. Thromboembolism is rare in patients receiving aortic allografts or pulmonary autografts in the aortic position.
+
+Thrombosis of the replacement device itself is uncommon. The linearized rate for mechanical prostheses is about 0.1% · year<sup>-1</sup>. Thrombosis occurs even less often in patients with stent-mounted xenograft valves.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Complications of Anticoagulation</summary><div class="details-content">
+
+Complications of chronic warfarin therapy in patients who have undergone aortic valve replacement are the same as in other patients. Excessive anticoagulation is accompanied by threat of bleeding. Anticoagulant levels above therapeutic values but with INR less than 5 indicate need to withhold warfarin until INR returns to therapeutic range, then restart the medication at a lower dose. Warfarin is withheld in patients with INR of 5 to 9, and oral vitamin K (1.25-2.5 mg) is considered if the patient is at increased risk of bleeding. Vitamin K<sub>1</sub> (2.5-5 mg) is given orally to patients with INR greater than 9, and if the patient has serious bleeding, it is given intravenously (10 mg) accompanied by transfusion of fresh frozen plasma.
+
+Frequent questions arise about managing potential bleeding in patients with mechanical heart valves taking warfarin who require cardiac catheterization, percutaneous catheter intervention, noncardiac surgery, or a dental procedure. Most dental procedures can be managed without interrupting anticoagulation. For patients with minimal risk of thromboembolism, warfarin should be stopped about 3 days before elective operation so that the procedure may be performed when INR is 1.5 or less. Warfarin is restarted as soon as risk for bleeding has ceased, usually 24 to 48 hours after completing the procedure. Where there is increased risk (atrial fibrillation with large atria, enlarged or poorly contractile left ventricle), unfractionated heparin (enoxaparin) is administered when INR is less than 2. The short-acting anticoagulant is discontinued for the procedure, restarted along with warfarin after risk of bleeding has ceased, and continued for a 3- to 5-day overlap until INR is again therapeutic. Enoxaparin administered to patients prior to cardiac operations, however, increases risk of postoperative bleeding requiring reentry. When emergency operation is required, operation proceeds immediately as indicated, with reversal of warfarin's effect by transfusion of fresh frozen plasma as required to achieve adequate clotting.
+
+More accurate control of level of anticoagulation by self-testing of prothrombin time has been associated with a reduction in major bleeding events. In a randomized trial of 325 patients, Byeth and Landefeld reported reduction of major bleeding events in the first 6 months of therapy with warfarin. Providing appropriate devices to allow patients to measure prothrombin time themselves and teaching them how to adjust the warfarin dose early after operation is effective in reducing complications related to anticoagulant therapy.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Aortic Root Complications</summary><div class="details-content">
+
+<details class="med-details"><summary>
+
+### Aneurysms</summary><div class="details-content">
+
+At operation, a secure full-thickness closure must always be obtained to prevent not only acute postoperative bleeding but also late aneurysm formation. Three unsuspected small aneurysms were found among 100 patients studied by aortography 6 to 9 months after aortic valve replacement by Bjork and colleagues. One was at the aortotomy suture line, and two seemed to originate from the left coronary sinus.
+
+After composite graft reconstruction using the inclusion technique, there has been an important occurrence of aneurysm, most often arising from partial dehiscence of the anastomosis to the graft of the aorta around the coronary ostia and less often from the distal graft to aorta suture line. To overcome dehiscence, Cabrol and colleagues recommend routine use of a separate 8-mm polyester tube graft, the extremities of which are anastomosed to the aorta around the right and left coronary orifices. A large side-to-side anastomosis is then made between the center of this graft and the front of the 30-mm polyester tube. Alternatively, and probably preferably, an aortic button containing the coronary ostium is anastomosed directly to a window in the polyester graft (see "Technique of Operation" earlier in this chapter). Dehiscence at the distal graft suture line is avoided by using a prosthetic collar (cut from the primary graft) to cover the distal suture line.
+
+False aneurysm at the proximal suture line has been observed when the full root replacement technique is employed for implanting an aortic allograft or pulmonary autograft (Ross procedure). This rare complication may be eliminated by routine use of a support collar at the proximal suture line and partial inversion of the graft while it is tied to the aortic anulus to ensure direct tissue approximation during implantation.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+### Aortic Aneurysm Following Aortic Valve Replacement for Bicuspid Aortic Valve</summary><div class="details-content">
+
+Progressive aortic enlargement in patients with a bicuspid aortic valve who undergo isolated aortic valve replacement requires special comment. Available data indicate that aortic valve replacement by itself does not ameliorate the adverse natural history of progressive aortic dilation, suggesting that aortic dilation results from inherent weakness of the aortic wall rather than hemodynamic factors. A study by Borger and colleagues concluded that among patients undergoing isolated aortic valve replacement, subsequent aortic complications and reoperation were more common when the aortic diameter was 4.5 cm or greater. This is consistent with current recommendations to replace the ascending aorta at the time of bicuspid aortic valve replacement if the aortic diameter is 4.5 cm or greater (see "Special Situations and Controversies").
+
+</div></details>
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Cessation of Gastrointestinal Bleeding</summary><div class="details-content">
+
+Patients with aortic stenosis who have a history of gastrointestinal bleeding secondary to angiodysplasia, termed Heyde Syndrome, are functionally cured of the disease by aortic valve replacement with 80% free of bleeding after aortic valve replacement. In contrast, abdominal procedures for gastrointestinal bleeding are successful only occasionally.
+
+</div></details>
+
+<details class="med-details"><summary>
+
+## Reoperation</summary><div class="details-content">
+
+Reoperation may be necessary early or late after aortic valve replacement. The nature of the reoperation varies with its indication. When performed for acute thrombosis, thrombectomy can be an effective procedure, although valve replacement is often required. When performed for periprosthetic leakage, simple suture repair is often possible and effective. Valve replacement is required in a few patients when dehiscence of the valve from aortic root tissues is extensive. When the reoperation is for endocarditis, rereplacement is indicated when there is active infection. In unusual circumstances, when infection has been controlled and arrested for weeks or months and there is residual periprosthetic leakage, it may be possible to repair the leak and retain the valve.
+
+Although hospital mortality can be low for a first-time aortic valve re-replacement (3.9%; CL 2.4%–6.0% in one study), replacement of an already replaced aortic valve has serious implications. Jones and colleagues have shown that operative mortality for repeat heart valve surgery has declined with each decade of experience. Mortality for aortic valve re-replacement was 6.4%. Risk increased with increasing age of the patient, presence of coronary artery bypass grafts, and indication for operation (particularly for valve thrombosis or endocarditis). Replacing a dysfunctional mechanical valve had 2.25 times the risk of replacing a bioprosthetic valve. Potter and colleagues, however, reported operative mortality for redo aortic valve replacement similar to that for primary aortic valve replacement.
+
+Hasnat and colleagues reported an early mortality of 3.4% (CL 1.9%–5.8%) for replacing an aortic valve allograft with a second one. In their experience, a second aortic valve allograft was associated with good long-term survival; accelerated degeneration did not occur. Byrne and colleagues reported 11% hospital mortality for aortic valve allograft re-replacement in 18 patients, 14 of whom (67%) received mechanical prostheses at reoperation.
+
+At least in the case of prosthetic and bioprosthetic valves, after each reoperation there is an increasing prevalence of still another reoperation (Fig. 12.51), of periprosthetic leakage (Fig. 12.52), and of prosthetic valve endocarditis (see Fig. 12.48). In addition, each reoperation increases the risk of early death.
+
+The prevalence and incidence of a first reoperation vary to some extent with the circumstances. Thus, the shape of the hazard function for reoperation for mechanical devices differs from that for stent-mounted xenografts (Fig. 12.53). Mechanical replacement devices have an early phase of hazard for reoperation that peaks at about 3 months and is usually caused by prosthetic valve endocarditis and periprosthetic leakage. This phase of hazard steadily declines thereafter, and a constant phase cannot be identified. By contrast, stent-mounted xenograft valves not only have the early peaking hazard phase for reoperation like mechanical devices, but also a second late-rising hazard phase related to the increasing incidence of bioprosthesis degeneration as time passes. In the case of freehand allografts, provided the device is properly inserted, without the prevalence of early regurgitation attributable to technical error, there is no early hazard phase of reoperation, but rather a gradually increasing late postoperative phase (see Fig. 12.39).
+
+Late reoperation may be required after composite prosthetic graft reconstruction for graft or prosthetic valve infection, for prosthetic valve thrombosis or periprosthetic leakage, and for pseudoaneurysm. Freedom from reoperation was 81% at 7 years in one series.
+
+![](_page_66_Figure_16.jpeg)
+
+**Figure 12.51** Freedom from reoperation after original valve replacement operation, after first reoperation, and after second reoperation. (From Blackstone and Kirklin.)
+
+![](_page_67_Figure_2.jpeg)
+
+**Figure 12.52** Freedom from periprosthetic leakage without evident infection after original valve replacement operation and after first, second, and third reoperation. (From Blackstone and Kirklin.)
+
+![](_page_67_Figure_4.jpeg)
+
+**Figure 12.53** Hazard function for reoperation after aortic valve replacement with a mechanical prosthesis or bioprosthesis, determined by separate analyses. For mechanical prostheses, there is an early peaking hazard phase and a constant hazard phase; in that for bioprostheses, there is an early peaking phase and a second rising late hazard phase. (From Blackstone and Kirklin.)
+
+<details class="med-details"><summary>
+
+### Reoperations after Valve-Sparing Aortic Root Replacement</summary><div class="details-content">
+
+The major reason to reoperate after valve-sparing aortic root replacement is progressive aortic regurgitation. In general, freedom from reoperation for both remodeling and reimplantation techniques has been good. In the absence of external fixation at the level of the aortic anulus, Yacoub and colleagues reported 85% freedom from reoperation at 15 years. David and colleagues suggest better late aortic valve preservation with the reimplantation technique than with the remodeling method (10-year freedom from moderate or severe aortic regurgitation of 94% with reimplantation vs. 75% with remodeling; *P* = .04). The reimplantation technique appears particularly advantageous in Marfan syndrome and similar connective tissue disorders prone to progressive anular dilation because of more secure anular fixation. However, others, such as Schaefers and colleagues, report excellent long-term valve function after the remodeling procedure. Whether the remodeling procedure will be enhanced by routine placement of an external aortic anuloplasty ring or prove superior in the setting of a bicuspid aortic valve (possibly enhanced early valve competency) will require longerterm studies.
+
+The situation in pediatric patients is even less clear. Late results of valve-sparing operations are confounded by aggressive connective tissue disorders often found in the pediatric phenotype of Marfan syndrome, Loeys-Dietz syndrome, and Ehlers-Danlos syndrome. Long-term follow-up is limited, but the reimplantation techniques appear to offer similar outcomes as in adults when an adult-sized conduit can be implanted.
+
+</div></details>
+
+</div></details>

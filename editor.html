@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starley Medical Editor</title>
+    <link rel="stylesheet" href="assets/css/styles.css?v=2.2">
+    <link rel="stylesheet" href="assets/css/editor.css?v=2.2">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+    <!-- Combiner styles -->
+    <style>
+    /* ── Индикатор статуса ───────────────────────────────── */
+    .combiner-indicator {
+        width: 10px; height: 10px;
+        border-radius: 50%;
+        flex-shrink: 0;
+        transition: background .3s;
+    }
+    .combiner-indicator--off     { background: #555; }
+    .combiner-indicator--ready   { background: #27ae60; }
+    .combiner-indicator--running { background: #f39c12;
+        animation: combiner-pulse 1s ease-in-out infinite; }
+    .combiner-indicator--done    { background: #2ecc71; }
+    .combiner-indicator--error   { background: #e74c3c; }
+
+    @keyframes combiner-pulse {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: .35; }
+    }
+
+    /* ── Кнопки ─────────────────────────────────────────── */
+    .btn-combiner-run {
+        width: 100%; padding: 8px;
+        background: #27ae60; color: white;
+        border: none; border-radius: 4px;
+        font-weight: 700; font-size: .85rem;
+        cursor: pointer; margin-bottom: 5px;
+        transition: background .2s, opacity .2s;
+    }
+    .btn-combiner-run:disabled {
+        background: #3a3a3a; color: #666; cursor: not-allowed;
+    }
+    .btn-combiner-run:not(:disabled):hover { background: #2ecc71; }
+
+    .btn-combiner-check {
+        width: 100%; padding: 6px;
+        background: #2c3e50; color: #aaa;
+        border: 1px solid #555; border-radius: 4px;
+        font-size: .8rem; cursor: pointer;
+        transition: background .2s;
+    }
+    .btn-combiner-check:hover { background: #34495e; color: white; }
+    .btn-combiner-check:disabled { opacity: .5; cursor: not-allowed; }
+
+    /* ── Лог ─────────────────────────────────────────────── */
+    .combiner-log {
+        background: #1a1a1a;
+        border: 1px solid #333;
+        border-radius: 4px;
+        font-family: monospace;
+        font-size: .68rem;
+        line-height: 1.5;
+        padding: 6px 8px;
+        max-height: 180px;
+        overflow-y: auto;
+        color: #ccc;
+    }
+    .combiner-log-line { white-space: pre-wrap; word-break: break-all; }
+    .combiner-log-ok   { color: #2ecc71; }
+    .combiner-log-err  { color: #e74c3c; }
+    .combiner-log-head { color: #3498db; font-weight: 700; }
+    </style>
+    <!-- CodeMirror CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
+    <!-- CodeMirror JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/xml/xml.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/markdown/markdown.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/htmlmixed/htmlmixed.min.js"></script>
+    <!-- CodeMirror Fold Addons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/foldgutter.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/foldcode.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/foldgutter.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/addon/fold/xml-fold.min.js"></script>
+</head>
+<body>
+    <header id="editor-header" class="editor-header">
+        <div class="editor-header-inner">
+            <span class="editor-header-title">📚 Starley Medical Editor</span>
+            <nav class="editor-header-nav">
+                <a href="index.html">Library</a>
+                <a href="editor.html" class="active">Editor</a>
+                <a href="quiz.html">Quiz</a>
+                <a href="manifest-editor.html">Manifests</a>
+            </nav>
+            <button id="header-toggle" class="header-collapse-btn" title="Hide header">▲</button>
+        </div>
+    </header>
+    <div id="header-show-tab" title="Show header">▼ editor</div>
+    <div class="editor-shell">
+        <aside class="editor-toolbar">
+            <!-- Загрузка файлов -->
+            <div class="tool-group loader-group">
+                <h4>📂 Load <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<select id="select-book"><option value="">Select a book...</option></select>
+                <select id="select-chapter" disabled><option value="">Select a chapter...</option></select>
+                
+                <div class="icon-grid" style="margin-top: 10px;">
+                    <button id="btn-load-original" class="btn-load" style="background: #3498db;" title="Load Original Version">📄</button>
+                    <button id="btn-load-russian" class="btn-load" style="background: #e74c3c;" title="Load Russian Version">🇷🇺</button>
+                    <button id="btn-load-starley" class="btn-load" style="background: #27ae60;" title="Load Starley Version">⭐</button>
+                    <button id="btn-load-hebrew" class="btn-load" style="background: #2980b9;" title="Load Hebrew Version">עברית</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Цветные овалы -->
+            <div class="tool-group">
+                <h4>⭕ Color Oval (3D) <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="color-grid" id="oval-colors"></div>
+            </div></div>
+            </div>
+
+            <!-- Маркеры -->
+            <div class="tool-group">
+                <h4>🖍️ Marker <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="color-grid" id="marker-colors"></div>
+            </div></div>
+            </div>
+
+            <!-- Специальные эффекты -->
+            <div class="tool-group">
+                <h4>✨ Special Effects <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
+                    <button onclick="wrapInEffect('luminous-blue')" title="Luminous Blue">💎</button>
+                    <button onclick="wrapInEffect('luminous-green')" title="Luminous Green">💚</button>
+                    <button onclick="wrapInEffect('luminous-red')" title="Luminous Red">❤️</button>
+                    <button onclick="wrapInEffect('luminous-yellow')" title="Luminous Yellow">💛</button>
+                    <button onclick="wrapInEffect('luminous-purple')" title="Luminous Purple">💜</button>
+                    <button onclick="wrapInEffect('cyber-neon cyber-neon-pink')" title="Neon Pink">⚡</button>
+                    <button onclick="wrapInEffect('cyber-neon cyber-neon-blue')" title="Neon Blue">🔷</button>
+                    <button onclick="wrapInEffect('cyber-glitch')" title="Glitch Effect">📺</button>
+                    <button onclick="wrapInBlock('luminous-cyan')" title="Luminous Cyan">💠</button>
+                    <button onclick="wrapInBlock('luminous-amber')" title="Luminous Amber">🔥</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Info Boxes -->
+            <div class="tool-group">
+                <h4>📦 Info Boxes <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
+                    <button onclick="wrapInInfoBox('info-box')" title="Default Info Box">📦</button>
+                    <button onclick="wrapInInfoBox('info-box info-box-info')" title="Info Box">ℹ️</button>
+                    <button onclick="wrapInInfoBox('info-box info-box-success')" title="Success Box">✅</button>
+                    <button onclick="wrapInInfoBox('info-box info-box-warning')" title="Warning Box">⚠️</button>
+                    <button onclick="wrapInInfoBox('info-box info-box-danger')" title="Danger Box">🚨</button>
+                    <button onclick="addDetails()" title="Hidden Text (Details)">▶️</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Цвета текста -->
+            <div class="tool-group">
+                <h4>🎨 Text Color <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="color-grid" id="text-colors"></div>
+            </div></div>
+            </div>
+
+            <!-- Стандартные блоки -->
+            <div class="tool-group">
+                <h4>📦 Standard Blocks <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
+                    <button onclick="insertAdmonition('note', 'Примечание')" title="Note Block">ℹ️</button>
+                    <button onclick="insertAdmonition('tip', 'Совет')" title="Tip Block">💡</button>
+                    <button onclick="insertAdmonition('info', 'Информация')" title="Info Block">📌</button>
+                    <button onclick="insertAdmonition('warning', 'Предупреждение')" title="Warning Block">⚠️</button>
+                    <button onclick="insertAdmonition('danger', 'Опасность')" title="Danger Block">🚨</button>
+                    <button onclick="insertAdmonition('caution', 'Осторожно')" title="Caution Block">⚡</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Медицинские блоки -->
+            <div class="tool-group">
+                <h4>🏥 Medical Blocks <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid-2">
+                    <button onclick="insertAdmonition('dosage', 'Дозировка')" title="Dosage Block">💉</button>
+                    <button onclick="insertAdmonition('contraindication', 'Противопоказания')" title="Contraindication Block">🚫</button>
+                    <button onclick="insertAdmonition('side-effect', 'Побочные эффекты')" title="Side Effect Block">⚠️</button>
+                    <button onclick="insertAdmonition('clinical', 'Клиника')" title="Clinical Block">🏥</button>
+                    <button onclick="insertAdmonition('anatomy', 'Анатомия')" title="Anatomy Block">🫀</button>
+                    <button onclick="insertAdmonition('physiology', 'Физиология')" title="Physiology Block">🧬</button>
+                    <button onclick="insertAdmonition('surgery', 'Хирургия')" title="Surgery Block">🔪</button>
+                    <button onclick="insertAdmonition('icu', 'Реанимация')" title="ICU Block">🚑</button>
+                    <button onclick="insertAdmonition('evidence', 'Доказательства')" title="Evidence Block">📊</button>
+                    <button onclick="insertAdmonition('protocol', 'Протокол')" title="Protocol Block">📋</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Формулы -->
+            <div class="tool-group">
+                <h4>∑ Math Formulas <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
+                    <button onclick="insertFormulaBlock()" title="Insert display formula ($$...$$)">∑</button>
+                    <button onclick="insertFormulaInline()" title="Insert inline formula ($...$)">∫</button>
+                    <button onclick="insertFormulaTemplate('fraction')" title="Fraction \frac{a}{b}">ᵃ⁄ᵦ</button>
+                    <button onclick="insertFormulaTemplate('sqrt')" title="Square root \sqrt{x}">√</button>
+                    <button onclick="insertFormulaTemplate('sum')" title="Sum \sum_{i=0}^{n}">Σ</button>
+                    <button onclick="insertFormulaTemplate('integral')" title="Integral \int_{a}^{b}">∫</button>
+                    <button onclick="insertFormulaTemplate('subscript')" title="Subscript x_{n}">xₙ</button>
+                    <button onclick="insertFormulaTemplate('superscript')" title="Superscript x^{n}">xⁿ</button>
+                    <button onclick="openFormulaEditor()" title="Open formula editor with preview">🔬</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Квиз-генератор -->
+            <div class="tool-group quiz-group">
+                <h4>🧠 Quiz Generator <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <p style="font-size:0.75rem; color:#aaa; margin-bottom:8px;">Generate quiz manifest for the selected book</p>
+                    <input type="text" id="quiz-title" placeholder="Quiz Title (e.g. Clinical Quiz)" style="width:100%; margin-bottom:5px;">
+                    <div id="quiz-chapter-list" style="max-height:120px; overflow-y:auto; background:#1a1a1a; border:1px solid #333; padding:5px; border-radius:4px; margin-bottom:8px;">
+                        <p style="font-size:0.7rem; color:#666; font-style:italic;">Select book to see chapters...</p>
+                    </div>
+                    <button id="btn-quiz-preview" class="btn-secondary" style="width:100%; padding:8px; border-radius:4px; font-weight:700; margin-bottom:5px;">👁️ Preview Quiz</button>
+                    <button id="btn-quiz-save" class="btn-success" style="width:100%; padding:8px; border-radius:4px; font-weight:700;">💾 Save Quiz</button>
+                    <div id="quiz-status" style="font-size:0.7rem; margin-top:5px; color:#888;"></div>
+                </div></div>
+            </div>
+
+            <!-- Инструменты редактора -->
+            <div class="tool-group">
+                <h4>🔧 Fold Controls <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid">
+                    <button onclick="if(editor){editor.setOption('foldGutter',true);editor.setOption('gutters',['CodeMirror-linenumbers','CodeMirror-foldgutter']);editor.refresh();}" title="Восстановить стрелки сворачивания">🔄</button>
+                    <button onclick="if(editor){CodeMirror.commands.foldAll(editor);}" title="Свернуть все блоки">📦</button>
+                    <button onclick="if(editor){CodeMirror.commands.unfoldAll(editor);}" title="Развернуть все блоки">📂</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Размер шрифта и заголовки -->
+            <div class="tool-group">
+                <h4>📤 Font Size & Headers <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<div class="icon-grid-4" style="margin-bottom: 8px;">
+                    <button onclick="wrapInFontSize(60)" title="60% Font Size" style="font-size: 0.9em;">A⁻</button>
+                    <button onclick="wrapInFontSize(75)" title="75% Font Size" style="font-size: 1em;">A⁻</button>
+                    <button onclick="wrapInFontSize(90)" title="90% Font Size" style="font-size: 1.1em;">A</button>
+                    <button onclick="wrapInFontSize(110)" title="110% Font Size" style="font-size: 1.3em;">A</button>
+                    <button onclick="wrapInFontSize(125)" title="125% Font Size" style="font-size: 1.4em;">A⁺</button>
+                </div>
+                <div class="icon-grid-2" style="margin-bottom: 8px;">
+                    <button onclick="wrapInHeader(1)" title="Header 1" style="font-size: 1.4em; font-weight: bold;">#</button>
+                    <button onclick="wrapInHeader(2)" title="Header 2" style="font-size: 1.3em; font-weight: bold;">##</button>
+                    <button onclick="wrapInHeader(3)" title="Header 3" style="font-size: 1.2em;">###</button>
+                    <button onclick="wrapInHeader(4)" title="Header 4" style="font-size: 1.1em;">####</button>
+                    <button onclick="wrapInHeader(5)" title="Header 5">#####</button>
+                    <button onclick="wrapInHeader(6)" title="Header 6">######</button>
+                </div>
+                <div class="icon-grid">
+                    <button onclick="wrapInSuperscript()" title="Superscript (верхний индекс)" style="font-size: 1.1em;">X<sup style="font-size: 0.7em;">2</sup></button>
+                    <button onclick="wrapInSubscript()" title="Subscript (нижний индекс)" style="font-size: 1.1em;">H<sub style="font-size: 0.7em;">2</sub></button>
+                    <button onclick="wrapInBold()" title="Bold (полужирный)" style="font-weight: bold; font-size: 1.2em;">B</button>
+                    <button onclick="wrapInItalic()" title="Italic (курсив)" style="font-style: italic; font-size: 1.2em;">I</button>
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Символы и эмодзи -->
+            <div class="tool-group">
+                <h4>🔣 Symbols & Emoji <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+                <div id="symbols-panel" class="symbols-grid-direct">
+                    <!-- Filled by JS -->
+                </div>
+            </div></div>
+            </div>
+
+            <!-- Сохранение -->
+            <div class="tool-group export-group">
+                <h4>💾 Save <button class="tool-group-pin" title="Pin open">📌</button></h4>
+            <div class="tool-group-content"><div class="tool-group-content-inner">
+<input type="text" id="export-filename" placeholder="chapter-01-starley.md">
+                <button id="btn-download" class="btn-success" title="Download Markdown File">📤 Download</button>
+                <button id="btn-save-github" class="btn-github" title="Save directly to GitHub repository">🐙 Save to GitHub</button>
+                <div id="github-token-row" style="margin-top:6px; display:none">
+                    <input type="password" id="github-token-input" placeholder="GitHub Personal Access Token" style="width:100%; background:#3c3c3c; border:1px solid #555; color:white; padding:5px; border-radius:4px; font-size:0.8rem;">
+                    <button id="btn-save-token" style="margin-top:4px; width:100%; background:#6e40c9; color:white; border:none; padding:5px; border-radius:4px; cursor:pointer; font-size:0.8rem;">💾 Save token</button>
+                    <p style="font-size:0.7rem; color:#888; margin-top:4px;">Token needs <code>repo</code> scope. Stored in localStorage.</p>
+                </div>
+                <div id="github-status" style="font-size:0.78rem; margin-top:5px; color:#aaa;"></div>
+            </div></div>
+            </div>
+
+            <!-- Комбайн Скорины -->
+            <div class="tool-group combiner-group">
+                <h4>⚙️ Combiner <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <div id="combiner-status-row" style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+                        <span id="combiner-indicator" class="combiner-indicator combiner-indicator--off" title="Launcher status"></span>
+                        <span id="combiner-status-text" style="font-size:0.75rem; color:#888;">Launcher not connected</span>
+                    </div>
+                    <button id="btn-combiner-run" class="btn-combiner-run" disabled title="Start Skoryna Combiner">▶ Run Combiner</button>
+                    <button id="btn-combiner-check" class="btn-combiner-check" title="Check launcher connection">🔌 Connect</button>
+                    <div id="combiner-log-wrap" style="display:none; margin-top:8px;">
+                        <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:4px;">
+                            <span style="font-size:0.7rem; color:#888; text-transform:uppercase; letter-spacing:.05em;">Log</span>
+                            <button id="btn-combiner-log-clear" style="background:none; border:none; color:#666; font-size:0.7rem; cursor:pointer; padding:0;">clear</button>
+                        </div>
+                        <div id="combiner-log" class="combiner-log"></div>
+                    </div>
+                    <p style="font-size:0.68rem; color:#666; margin-top:8px; line-height:1.4;">
+                        Requires <code style="background:#333; padding:1px 4px; border-radius:3px;">flask_launcher.py</code> running on localhost:5000
+                    </p>
+                </div></div>
+            </div>
+
+            <!-- Синтез конфигурации -->
+            <div class="tool-group synthesis-group">
+                <h4>🧩 Config Synthesis <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <p style="font-size:0.75rem; color:#aaa; margin-bottom:8px;">Generate metadata.json from TOC XML</p>
+                    <input type="text" id="syn-book-title" placeholder="Book Title (e.g. Kirklin 5th)" style="width:100%; margin-bottom:5px;">
+                    <input type="text" id="syn-book-authors" placeholder="Authors (comma separated)" style="width:100%; margin-bottom:5px;">
+                    <input type="text" id="syn-book-categories" placeholder="Categories (e.g. icu, surgery)" style="width:100%; margin-bottom:5px;">
+                    
+                    <label class="file-load-btn" style="display:block; margin-bottom:8px; background:#2980b9; color:white; padding:8px; border-radius:4px; text-align:center; cursor:pointer; font-size:0.85rem;">
+                        📁 Load TOC XML (Bookmarks)
+                        <input type="file" id="syn-toc-file" accept=".xml,.txt" style="display:none">
+                    </label>
+                    
+                    <button id="btn-generate-config" class="btn-success" style="width:100%; padding:8px; border-radius:4px; font-weight:700;">⚙️ Synthesis Config</button>
+                    <div id="syn-status" style="font-size:0.7rem; margin-top:5px; color:#888;"></div>
+                </div></div>
+            </div>
+        </aside>
+
+        <main class="editor-main">
+            <div class="pane-header"><span>Markdown Source</span><button class="sync-btn" id="sync-toggle" title="Sync scroll: click in editor to jump preview"><span class="sync-dot"></span>Sync</button></div>
+            <textarea id="markdown-input" placeholder="Text will appear here after loading or paste it manually..."></textarea>
+        </main>
+
+        <section class="editor-preview-pane">
+            <div class="pane-header"><span>Live Preview</span><button class="sync-btn" id="sync-toggle-2" title="Sync scroll"><span class="sync-dot"></span>Sync</button></div>
+            <div id="editor-preview" class="content"></div>
+        </section>
+    </div>
+
+    <!-- Formula editor modal -->
+    <div id="formula-modal" style="display:none; position:fixed; inset:0; z-index:5000; background:rgba(0,0,0,0.7); display:none; align-items:center; justify-content:center;">
+        <div style="background:#252526; border:1px solid #555; border-radius:10px; width:min(700px,95vw); max-height:90vh; display:flex; flex-direction:column; overflow:hidden;">
+            <div style="padding:12px 16px; border-bottom:1px solid #404040; display:flex; align-items:center; justify-content:space-between;">
+                <span style="color:#3498db; font-weight:700; font-size:1rem;">∑ Formula Editor</span>
+                <button id="formula-modal-close" style="background:none; border:none; color:#aaa; font-size:1.2rem; cursor:pointer;">✕</button>
+            </div>
+            <div style="display:flex; flex:1; overflow:hidden; gap:0; min-height:0;">
+                <div style="flex:1; display:flex; flex-direction:column; border-right:1px solid #404040;">
+                    <div style="padding:6px 12px; font-size:0.75rem; color:#888; background:#2d2d2d; border-bottom:1px solid #404040;">LaTeX source</div>
+                    <textarea id="formula-input" style="flex:1; background:#1e1e1e; color:#d4d4d4; font-family:monospace; font-size:14px; padding:12px; border:none; resize:none; outline:none; min-height:160px;" placeholder="e.g. \frac{\pi \Delta P r^4}{8 \eta l}" spellcheck="false"></textarea>
+                    <div id="fm-palette" style="padding:8px 10px; background:#2d2d2d; border-top:1px solid #404040; overflow-y:auto; max-height:220px;">
+                        <!-- Tab bar -->
+                        <div style="display:flex; gap:4px; margin-bottom:8px; flex-wrap:wrap;">
+                            <button class="fm-tab fm-tab-active" onclick="fmTab(this,'fm-grk')" >Greek</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-ops')" >Operators</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-rel')" >Relations</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-arr')" >Arrows</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-str')" >Structures</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-fun')" >Functions</button>
+                            <button class="fm-tab" onclick="fmTab(this,'fm-misc')">Misc</button>
+                        </div>
+                        <!-- Greek letters -->
+                        <div id="fm-grk" class="fm-panel fm-panel-active">
+                            <div class="fm-label">Lowercase</div>
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\alpha')"   class="fm-btn" title="\alpha">α</button>
+                                <button onclick="formulaInsert('\\beta')"    class="fm-btn" title="\beta">β</button>
+                                <button onclick="formulaInsert('\\gamma')"   class="fm-btn" title="\gamma">γ</button>
+                                <button onclick="formulaInsert('\\delta')"   class="fm-btn" title="\delta">δ</button>
+                                <button onclick="formulaInsert('\\epsilon')" class="fm-btn" title="\epsilon">ε</button>
+                                <button onclick="formulaInsert('\\varepsilon')" class="fm-btn" title="\varepsilon">ϵ</button>
+                                <button onclick="formulaInsert('\\zeta')"    class="fm-btn" title="\zeta">ζ</button>
+                                <button onclick="formulaInsert('\\eta')"     class="fm-btn" title="\eta">η</button>
+                                <button onclick="formulaInsert('\\theta')"   class="fm-btn" title="\theta">θ</button>
+                                <button onclick="formulaInsert('\\vartheta')" class="fm-btn" title="\vartheta">ϑ</button>
+                                <button onclick="formulaInsert('\\iota')"    class="fm-btn" title="\iota">ι</button>
+                                <button onclick="formulaInsert('\\kappa')"   class="fm-btn" title="\kappa">κ</button>
+                                <button onclick="formulaInsert('\\lambda')"  class="fm-btn" title="\lambda">λ</button>
+                                <button onclick="formulaInsert('\\mu')"      class="fm-btn" title="\mu">μ</button>
+                                <button onclick="formulaInsert('\\nu')"      class="fm-btn" title="\nu">ν</button>
+                                <button onclick="formulaInsert('\\xi')"      class="fm-btn" title="\xi">ξ</button>
+                                <button onclick="formulaInsert('\\pi')"      class="fm-btn" title="\pi">π</button>
+                                <button onclick="formulaInsert('\\varpi')"   class="fm-btn" title="\varpi">ϖ</button>
+                                <button onclick="formulaInsert('\\rho')"     class="fm-btn" title="\rho">ρ</button>
+                                <button onclick="formulaInsert('\\varrho')"  class="fm-btn" title="\varrho">ϱ</button>
+                                <button onclick="formulaInsert('\\sigma')"   class="fm-btn" title="\sigma">σ</button>
+                                <button onclick="formulaInsert('\\varsigma')" class="fm-btn" title="\varsigma">ς</button>
+                                <button onclick="formulaInsert('\\tau')"     class="fm-btn" title="\tau">τ</button>
+                                <button onclick="formulaInsert('\\upsilon')" class="fm-btn" title="\upsilon">υ</button>
+                                <button onclick="formulaInsert('\\phi')"     class="fm-btn" title="\phi">φ</button>
+                                <button onclick="formulaInsert('\\varphi')"  class="fm-btn" title="\varphi">ϕ</button>
+                                <button onclick="formulaInsert('\\chi')"     class="fm-btn" title="\chi">χ</button>
+                                <button onclick="formulaInsert('\\psi')"     class="fm-btn" title="\psi">ψ</button>
+                                <button onclick="formulaInsert('\\omega')"   class="fm-btn" title="\omega">ω</button>
+                            </div>
+                            <div class="fm-label" style="margin-top:6px;">Uppercase</div>
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\Gamma')"   class="fm-btn" title="\Gamma">Γ</button>
+                                <button onclick="formulaInsert('\\Delta')"   class="fm-btn" title="\Delta">Δ</button>
+                                <button onclick="formulaInsert('\\Theta')"   class="fm-btn" title="\Theta">Θ</button>
+                                <button onclick="formulaInsert('\\Lambda')"  class="fm-btn" title="\Lambda">Λ</button>
+                                <button onclick="formulaInsert('\\Xi')"      class="fm-btn" title="\Xi">Ξ</button>
+                                <button onclick="formulaInsert('\\Pi')"      class="fm-btn" title="\Pi">Π</button>
+                                <button onclick="formulaInsert('\\Sigma')"   class="fm-btn" title="\Sigma">Σ</button>
+                                <button onclick="formulaInsert('\\Upsilon')" class="fm-btn" title="\Upsilon">Υ</button>
+                                <button onclick="formulaInsert('\\Phi')"     class="fm-btn" title="\Phi">Φ</button>
+                                <button onclick="formulaInsert('\\Psi')"     class="fm-btn" title="\Psi">Ψ</button>
+                                <button onclick="formulaInsert('\\Omega')"   class="fm-btn" title="\Omega">Ω</button>
+                            </div>
+                        </div>
+                        <!-- Operators -->
+                        <div id="fm-ops" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\frac{a}{b}')"        class="fm-btn" title="\frac">ᵃ⁄ᵦ</button>
+                                <button onclick="formulaInsert('\\sqrt{x}')"            class="fm-btn" title="\sqrt">√</button>
+                                <button onclick="formulaInsert('\\sqrt[n]{x}')"         class="fm-btn" title="\sqrt[n]">ⁿ√</button>
+                                <button onclick="formulaInsert('\\sum_{i=0}^{n}')"      class="fm-btn" title="\sum">Σ</button>
+                                <button onclick="formulaInsert('\\prod_{i=0}^{n}')"     class="fm-btn" title="\prod">Π</button>
+                                <button onclick="formulaInsert('\\int_{a}^{b}')"        class="fm-btn" title="\int">∫</button>
+                                <button onclick="formulaInsert('\\iint')"               class="fm-btn" title="\iint">∬</button>
+                                <button onclick="formulaInsert('\\iiint')"              class="fm-btn" title="\iiint">∭</button>
+                                <button onclick="formulaInsert('\\oint')"               class="fm-btn" title="\oint">∮</button>
+                                <button onclick="formulaInsert('\\lim_{x\\to\\infty}')" class="fm-btn" title="\lim">lim</button>
+                                <button onclick="formulaInsert('\\partial')"            class="fm-btn" title="\partial">∂</button>
+                                <button onclick="formulaInsert('\\nabla')"              class="fm-btn" title="\nabla">∇</button>
+                                <button onclick="formulaInsert('\\pm')"                 class="fm-btn" title="\pm">±</button>
+                                <button onclick="formulaInsert('\\mp')"                 class="fm-btn" title="\mp">∓</button>
+                                <button onclick="formulaInsert('\\times')"              class="fm-btn" title="\times">×</button>
+                                <button onclick="formulaInsert('\\div')"                class="fm-btn" title="\div">÷</button>
+                                <button onclick="formulaInsert('\\cdot')"               class="fm-btn" title="\cdot">·</button>
+                                <button onclick="formulaInsert('\\circ')"               class="fm-btn" title="\circ">∘</button>
+                                <button onclick="formulaInsert('\\bullet')"             class="fm-btn" title="\bullet">•</button>
+                                <button onclick="formulaInsert('\\oplus')"              class="fm-btn" title="\oplus">⊕</button>
+                                <button onclick="formulaInsert('\\ominus')"             class="fm-btn" title="\ominus">⊖</button>
+                                <button onclick="formulaInsert('\\otimes')"             class="fm-btn" title="\otimes">⊗</button>
+                                <button onclick="formulaInsert('\\wedge')"              class="fm-btn" title="\wedge">∧</button>
+                                <button onclick="formulaInsert('\\vee')"                class="fm-btn" title="\vee">∨</button>
+                                <button onclick="formulaInsert('\\cap')"                class="fm-btn" title="\cap">∩</button>
+                                <button onclick="formulaInsert('\\cup')"                class="fm-btn" title="\cup">∪</button>
+                                <button onclick="formulaInsert('\\infty')"              class="fm-btn" title="\infty">∞</button>
+                            </div>
+                        </div>
+                        <!-- Relations -->
+                        <div id="fm-rel" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('=')"                      class="fm-btn" title="=">=</button>
+                                <button onclick="formulaInsert('\\neq')"                class="fm-btn" title="\neq">≠</button>
+                                <button onclick="formulaInsert('\\approx')"             class="fm-btn" title="\approx">≈</button>
+                                <button onclick="formulaInsert('\\sim')"                class="fm-btn" title="\sim">∼</button>
+                                <button onclick="formulaInsert('\\simeq')"              class="fm-btn" title="\simeq">≃</button>
+                                <button onclick="formulaInsert('\\cong')"               class="fm-btn" title="\cong">≅</button>
+                                <button onclick="formulaInsert('\\equiv')"              class="fm-btn" title="\equiv">≡</button>
+                                <button onclick="formulaInsert('\\propto')"             class="fm-btn" title="\propto">∝</button>
+                                <button onclick="formulaInsert('<')"                      class="fm-btn" title="<">&lt;</button>
+                                <button onclick="formulaInsert('>')"                      class="fm-btn" title=">">&gt;</button>
+                                <button onclick="formulaInsert('\\leq')"                class="fm-btn" title="\leq">≤</button>
+                                <button onclick="formulaInsert('\\geq')"                class="fm-btn" title="\geq">≥</button>
+                                <button onclick="formulaInsert('\\ll')"                 class="fm-btn" title="\ll">≪</button>
+                                <button onclick="formulaInsert('\\gg')"                 class="fm-btn" title="\gg">≫</button>
+                                <button onclick="formulaInsert('\\subset')"             class="fm-btn" title="\subset">⊂</button>
+                                <button onclick="formulaInsert('\\supset')"             class="fm-btn" title="\supset">⊃</button>
+                                <button onclick="formulaInsert('\\subseteq')"           class="fm-btn" title="\subseteq">⊆</button>
+                                <button onclick="formulaInsert('\\supseteq')"           class="fm-btn" title="\supseteq">⊇</button>
+                                <button onclick="formulaInsert('\\in')"                 class="fm-btn" title="\in">∈</button>
+                                <button onclick="formulaInsert('\\notin')"              class="fm-btn" title="\notin">∉</button>
+                                <button onclick="formulaInsert('\\ni')"                 class="fm-btn" title="\ni">∋</button>
+                                <button onclick="formulaInsert('\\perp')"               class="fm-btn" title="\perp">⊥</button>
+                                <button onclick="formulaInsert('\\parallel')"           class="fm-btn" title="\parallel">∥</button>
+                                <button onclick="formulaInsert('\\mid')"                class="fm-btn" title="\mid">∣</button>
+                                <button onclick="formulaInsert('\\models')"             class="fm-btn" title="\models">⊨</button>
+                                <button onclick="formulaInsert('\\vdash')"              class="fm-btn" title="\vdash">⊢</button>
+                            </div>
+                        </div>
+                        <!-- Arrows -->
+                        <div id="fm-arr" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\to')"                 class="fm-btn" title="\to">→</button>
+                                <button onclick="formulaInsert('\\leftarrow')"          class="fm-btn" title="\leftarrow">←</button>
+                                <button onclick="formulaInsert('\\leftrightarrow')"     class="fm-btn" title="\leftrightarrow">↔</button>
+                                <button onclick="formulaInsert('\\Rightarrow')"         class="fm-btn" title="\Rightarrow">⇒</button>
+                                <button onclick="formulaInsert('\\Leftarrow')"          class="fm-btn" title="\Leftarrow">⇐</button>
+                                <button onclick="formulaInsert('\\Leftrightarrow')"     class="fm-btn" title="\Leftrightarrow">⇔</button>
+                                <button onclick="formulaInsert('\\uparrow')"            class="fm-btn" title="\uparrow">↑</button>
+                                <button onclick="formulaInsert('\\downarrow')"          class="fm-btn" title="\downarrow">↓</button>
+                                <button onclick="formulaInsert('\\updownarrow')"        class="fm-btn" title="\updownarrow">↕</button>
+                                <button onclick="formulaInsert('\\nearrow')"            class="fm-btn" title="\nearrow">↗</button>
+                                <button onclick="formulaInsert('\\searrow')"            class="fm-btn" title="\searrow">↘</button>
+                                <button onclick="formulaInsert('\\swarrow')"            class="fm-btn" title="\swarrow">↙</button>
+                                <button onclick="formulaInsert('\\nwarrow')"            class="fm-btn" title="\nwarrow">↖</button>
+                                <button onclick="formulaInsert('\\mapsto')"             class="fm-btn" title="\mapsto">↦</button>
+                                <button onclick="formulaInsert('\\hookrightarrow')"     class="fm-btn" title="\hookrightarrow">↪</button>
+                                <button onclick="formulaInsert('\\rightharpoonup')"     class="fm-btn" title="\rightharpoonup">⇀</button>
+                                <button onclick="formulaInsert('\\rightleftharpoons')"  class="fm-btn" title="\rightleftharpoons">⇌</button>
+                                <button onclick="formulaInsert('\\longrightarrow')"     class="fm-btn" title="\longrightarrow">⟶</button>
+                                <button onclick="formulaInsert('\\xlongrightarrow{k}')" class="fm-btn" title="\xrightarrow">→ₖ</button>
+                            </div>
+                        </div>
+                        <!-- Structures -->
+                        <div id="fm-str" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\frac{a}{b}')"         class="fm-btn" title="fraction">ᵃ⁄ᵦ</button>
+                                <button onclick="formulaInsert('\\dfrac{a}{b}')"        class="fm-btn" title="dfrac">ᵃ/ᵦ</button>
+                                <button onclick="formulaInsert('\\sqrt{x}')"            class="fm-btn" title="sqrt">√x</button>
+                                <button onclick="formulaInsert('\\sqrt[n]{x}')"         class="fm-btn" title="nth root">ⁿ√</button>
+                                <button onclick="formulaInsert('x^{n}')"                  class="fm-btn" title="superscript">xⁿ</button>
+                                <button onclick="formulaInsert('x_{n}')"                  class="fm-btn" title="subscript">xₙ</button>
+                                <button onclick="formulaInsert('x_{n}^{m}')"              class="fm-btn" title="sub+super">xₙᵐ</button>
+                                <button onclick="formulaInsert('\\overline{x}')"        class="fm-btn" title="overline">x̄</button>
+                                <button onclick="formulaInsert('\\underline{x}')"       class="fm-btn" title="underline">x̲</button>
+                                <button onclick="formulaInsert('\\hat{x}')"             class="fm-btn" title="hat">x̂</button>
+                                <button onclick="formulaInsert('\\vec{x}')"             class="fm-btn" title="vector">x⃗</button>
+                                <button onclick="formulaInsert('\\dot{x}')"             class="fm-btn" title="dot">ẋ</button>
+                                <button onclick="formulaInsert('\\ddot{x}')"            class="fm-btn" title="ddot">ẍ</button>
+                                <button onclick="formulaInsert('\\tilde{x}')"           class="fm-btn" title="tilde">x̃</button>
+                                <button onclick="formulaInsert('\\bar{x}')"             class="fm-btn" title="bar">x̄</button>
+                                <button onclick="formulaInsert('\\left( \\right)')"   class="fm-btn" title="parentheses">()</button>
+                                <button onclick="formulaInsert('\\left[ \\right]')"   class="fm-btn" title="brackets">[]</button>
+                                <button onclick="formulaInsert('\\left\\{ \\right\\}')" class="fm-btn" title="braces">{}</button>
+                                <button onclick="formulaInsert('\\left| \\right|')"   class="fm-btn" title="|x|">||</button>
+                                <button onclick="formulaInsert('\\left\\| \\right\\|')" class="fm-btn" title="norm">‖‖</button>
+                                <button onclick="formulaInsert('\\begin{matrix} a & b \\\\ c & d \\end{matrix}')" class="fm-btn" title="matrix">M</button>
+                                <button onclick="formulaInsert('\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix}')" class="fm-btn" title="pmatrix">(M)</button>
+                                <button onclick="formulaInsert('\\begin{cases} a & x>0 \\\\ b & x\\leq 0 \\end{cases}')" class="fm-btn" title="cases">{⋯</button>
+                                <button onclick="formulaInsert('\\underbrace{x}_{\\text{label}}')" class="fm-btn" title="underbrace">x̲</button>
+                                <button onclick="formulaInsert('\\overbrace{x}^{\\text{label}}')"  class="fm-btn" title="overbrace">x̄</button>
+                            </div>
+                        </div>
+                        <!-- Functions -->
+                        <div id="fm-fun" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\sin')"    class="fm-btn">sin</button>
+                                <button onclick="formulaInsert('\\cos')"    class="fm-btn">cos</button>
+                                <button onclick="formulaInsert('\\tan')"    class="fm-btn">tan</button>
+                                <button onclick="formulaInsert('\\cot')"    class="fm-btn">cot</button>
+                                <button onclick="formulaInsert('\\sec')"    class="fm-btn">sec</button>
+                                <button onclick="formulaInsert('\\csc')"    class="fm-btn">csc</button>
+                                <button onclick="formulaInsert('\\arcsin')" class="fm-btn">asin</button>
+                                <button onclick="formulaInsert('\\arccos')" class="fm-btn">acos</button>
+                                <button onclick="formulaInsert('\\arctan')" class="fm-btn">atan</button>
+                                <button onclick="formulaInsert('\\sinh')"   class="fm-btn">sinh</button>
+                                <button onclick="formulaInsert('\\cosh')"   class="fm-btn">cosh</button>
+                                <button onclick="formulaInsert('\\tanh')"   class="fm-btn">tanh</button>
+                                <button onclick="formulaInsert('\\ln')"     class="fm-btn">ln</button>
+                                <button onclick="formulaInsert('\\log')"    class="fm-btn">log</button>
+                                <button onclick="formulaInsert('\\log_{b}')" class="fm-btn">logₙ</button>
+                                <button onclick="formulaInsert('\\exp')"    class="fm-btn">exp</button>
+                                <button onclick="formulaInsert('e^{x}')"      class="fm-btn">eˣ</button>
+                                <button onclick="formulaInsert('\\max')"    class="fm-btn">max</button>
+                                <button onclick="formulaInsert('\\min')"    class="fm-btn">min</button>
+                                <button onclick="formulaInsert('\\sup')"    class="fm-btn">sup</button>
+                                <button onclick="formulaInsert('\\inf')"    class="fm-btn">inf</button>
+                                <button onclick="formulaInsert('\\det')"    class="fm-btn">det</button>
+                                <button onclick="formulaInsert('\\dim')"    class="fm-btn">dim</button>
+                                <button onclick="formulaInsert('\\ker')"    class="fm-btn">ker</button>
+                                <button onclick="formulaInsert('\\lim_{x\\to 0}')" class="fm-btn">lim</button>
+                                <button onclick="formulaInsert('\\limsup')" class="fm-btn">limsup</button>
+                            </div>
+                        </div>
+                        <!-- Misc -->
+                        <div id="fm-misc" class="fm-panel">
+                            <div class="fm-grid">
+                                <button onclick="formulaInsert('\\text{text}')"          class="fm-btn" title="\text">Aa</button>
+                                <button onclick="formulaInsert('\\mathbf{x}')"           class="fm-btn" title="bold">𝐱</button>
+                                <button onclick="formulaInsert('\\mathit{x}')"           class="fm-btn" title="italic">𝑥</button>
+                                <button onclick="formulaInsert('\\mathbb{R}')"           class="fm-btn" title="blackboard">ℝ</button>
+                                <button onclick="formulaInsert('\\mathcal{L}')"          class="fm-btn" title="calligraphic">ℒ</button>
+                                <button onclick="formulaInsert('\\mathbb{N}')"           class="fm-btn" title="naturals">ℕ</button>
+                                <button onclick="formulaInsert('\\mathbb{Z}')"           class="fm-btn" title="integers">ℤ</button>
+                                <button onclick="formulaInsert('\\mathbb{Q}')"           class="fm-btn" title="rationals">ℚ</button>
+                                <button onclick="formulaInsert('\\mathbb{C}')"           class="fm-btn" title="complex">ℂ</button>
+                                <button onclick="formulaInsert('\\emptyset')"            class="fm-btn" title="empty set">∅</button>
+                                <button onclick="formulaInsert('\\forall')"              class="fm-btn" title="\forall">∀</button>
+                                <button onclick="formulaInsert('\\exists')"              class="fm-btn" title="\exists">∃</button>
+                                <button onclick="formulaInsert('\\nexists')"             class="fm-btn" title="\nexists">∄</button>
+                                <button onclick="formulaInsert('\\neg')"                 class="fm-btn" title="\neg">¬</button>
+                                <button onclick="formulaInsert('\\land')"                class="fm-btn" title="\land">∧</button>
+                                <button onclick="formulaInsert('\\lor')"                 class="fm-btn" title="\lor">∨</button>
+                                <button onclick="formulaInsert('\\hbar')"                class="fm-btn" title="\hbar">ℏ</button>
+                                <button onclick="formulaInsert('\\ell')"                 class="fm-btn" title="\ell">ℓ</button>
+                                <button onclick="formulaInsert('\\Re')"                  class="fm-btn" title="\Re">ℜ</button>
+                                <button onclick="formulaInsert('\\Im')"                  class="fm-btn" title="\Im">ℑ</button>
+                                <button onclick="formulaInsert('\\angle')"               class="fm-btn" title="\angle">∠</button>
+                                <button onclick="formulaInsert('\\triangle')"            class="fm-btn" title="\triangle">△</button>
+                                <button onclick="formulaInsert('\\degree')"              class="fm-btn" title="degree">°</button>
+                                <button onclick="formulaInsert('\\%')"                   class="fm-btn" title="percent">%</button>
+                                <button onclick="formulaInsert('\\#')"                   class="fm-btn" title="hash">#</button>
+                                <button onclick="formulaInsert('\\ldots')"               class="fm-btn" title="\ldots">…</button>
+                                <button onclick="formulaInsert('\\cdots')"               class="fm-btn" title="\cdots">⋯</button>
+                                <button onclick="formulaInsert('\\vdots')"               class="fm-btn" title="\vdots">⋮</button>
+                                <button onclick="formulaInsert('\\ddots')"               class="fm-btn" title="\ddots">⋱</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="flex:1; display:flex; flex-direction:column; background:white; min-height:0;">
+                    <div style="padding:6px 12px; font-size:0.75rem; color:#888; background:#f5f5f5; border-bottom:1px solid #ddd;">Preview</div>
+                    <div id="formula-preview" style="flex:1; padding:20px; display:flex; align-items:center; justify-content:center; overflow:auto; font-size:1.2rem; color:#333;"></div>
+                    <div id="formula-error" style="padding:8px 12px; color:#e53935; font-size:0.8rem; font-family:monospace; background:#fff5f5; display:none;"></div>
+                </div>
+            </div>
+            <div style="padding:10px 16px; border-top:1px solid #404040; display:flex; align-items:center; justify-content:space-between; gap:8px;">
+                <label style="display:flex; align-items:center; gap:6px; color:#aaa; font-size:0.85rem; cursor:pointer;">
+                    <input type="checkbox" id="formula-display-mode" checked> Display mode (centered)
+                </label>
+                <div style="display:flex; gap:8px;">
+                    <button id="formula-btn-insert" style="background:#27ae60; color:white; border:none; padding:7px 18px; border-radius:6px; cursor:pointer; font-weight:600;">Insert into editor</button>
+                    <button id="formula-btn-cancel" style="background:#555; color:white; border:none; padding:7px 14px; border-radius:6px; cursor:pointer;">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/config.js?v=2.2"></script>
+    <script src="assets/js/editor.js?v=2.2"></script>
+    <script src="combain/combiner-launcher.js?v=1.0"></script>
+</body>
+</html>

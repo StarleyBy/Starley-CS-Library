@@ -1,0 +1,81 @@
+[
+  {
+    "title": "OPIE’S CARDIOVASCULAR DRUGS. A COMPANION TO BRAUNWALD’S HEART DISEASE, NINTH EDITION",
+    "russian_title": "Сердечно-сосудистые препараты Опи. Приложение к книге «Болезни сердца Браунвальда», девятое издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiology",
+      "drugs",
+      "pharmacology"
+    ],
+    "authors": [
+      "DEEPAK L. BHATT, MD, MPH"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Drugs for Ischemic Heart Disease",
+        "russian": "1. Препараты для лечения ишемической болезни сердца"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Antihypertensive Therapies",
+        "russian": "2. Антигипертензивная терапия"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Heart Failure",
+        "russian": "3. Сердечная недостаточность"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Drugs for Diabetes",
+        "russian": "4. Противодиабетические препараты"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Drugs for Obesity",
+        "russian": "5. Препараты для лечения ожирения"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Lipid-Modifying Drugs",
+        "russian": "6. Липидоснижающие препараты"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Drugs Targeting Inflammation",
+        "russian": "7. Противовоспалительные препараты"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Antithrombotic Drugs",
+        "russian": "8. Антитромботические препараты"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Antiarrhythmic Drugs",
+        "russian": "9. Антиаритмические препараты"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Vascular Medicine Drugs",
+        "russian": "10. Препараты для сосудистой медицины"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Drugs for Pulmonary Hypertension",
+        "russian": "11. Препараты для лечения легочной гипертензии"
+      }
+    ],
+    "appendices": []
+  }
+]

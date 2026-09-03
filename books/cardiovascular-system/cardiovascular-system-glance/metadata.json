@@ -1,0 +1,321 @@
+[
+  {
+    "title": "The Cardiovascular System at a Glance, Fifth Edition",
+    "russian_title": "Сердечно-сосудистая система: краткий обзор, пятое издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiology",
+      "anatomy",
+      "cardiac system"
+    ],
+    "authors": [
+      "Philip I. Aaronson, Jeremy P.T. Ward, Michelle J. Connolly"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Overview of the cardiovascular system",
+        "russian": "1. Обзор сердечно-сосудистой системы"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Gross anatomy and histology of the heart",
+        "russian": "2. Макроскопическая анатомия и гистология сердца"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Vascular anatomy",
+        "russian": "3. Анатомия сосудов"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Vascular histology and smooth muscle cell ultrastructure",
+        "russian": "4. Гистология сосудов и ультраструктура гладкомышечных клеток"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Constituents of blood",
+        "russian": "5. Состав крови"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Erythropoiesis, haemoglobin and anaemia",
+        "russian": "6. Эритропоэз, гемоглобин и анемия"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Haemostasis",
+        "russian": "7. Гемостаз"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Thrombosis and anticoagulants",
+        "russian": "8. Тромбоз и антикоагулянты"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Blood groups and transfusions",
+        "russian": "9. Группы крови и переливания"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Membrane potential, ion channels and pumps",
+        "russian": "10. Мембранный потенциал, ионные каналы и насосы"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Electrophysiology of cardiac muscle and origin of the heartbeat",
+        "russian": "11. Электрофизиология сердечной мышцы и происхождение сердцебиения"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Cardiac muscle excitation–contraction coupling",
+        "russian": "12. Сопряжение возбуждения и сокращения в сердечной мышце"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Electrical conduction system in the heart",
+        "russian": "13. Электрическая проводящая система сердца"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. The electrocardiogram",
+        "russian": "14. Электрокардиограмма"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Vascular smooth muscle excitation–contraction coupling",
+        "russian": "15. Сопряжение возбуждения и сокращения в сосудистой гладкой мышце"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Cardiac cycle",
+        "russian": "16. Сердечный цикл"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Control of cardiac output",
+        "russian": "17. Регуляция сердечного выброса"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Haemodynamics",
+        "russian": "18. Гемодинамика"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Blood pressure and flow in the arteries and arterioles",
+        "russian": "19. Кровяное давление и кровоток в артериях и артериолах"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. The microcirculation and lymphatic system and diapedesis",
+        "russian": "20. Микроциркуляция, лимфатическая система и диапедез"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Fluid filtration in the microcirculation",
+        "russian": "21. Фильтрация жидкости в микроциркуляторном русле"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. The venous system",
+        "russian": "22. Венозная система"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Local control of blood flow",
+        "russian": "23. Местная регуляция кровотока"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Regulation of the vasculature by the endothelium",
+        "russian": "24. Регуляция сосудистого русла эндотелием"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. The pulmonary, skeletal muscle and fetal circulations",
+        "russian": "25. Легочный, скелетно-мышечный и плодный круги кровообращения"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. The coronary, cutaneous and cerebral circulations",
+        "russian": "26. Коронарный, кожный и мозговой круги кровообращения"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. Cardiovascular reflexes",
+        "russian": "27. Сердечно-сосудистые рефлексы"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Autonomic control of the cardiovascular system",
+        "russian": "28. Вегетативная регуляция сердечно-сосудистой системы"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. The control of blood volume",
+        "russian": "29. Регуляция объема крови"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Cardiovascular effects of exercise",
+        "russian": "30. Влияние физических упражнений на сердечно-сосудистую систему"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Shock and haemorrhage",
+        "russian": "31. Шок и кровотечение"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. History and examination of the cardiovascular system",
+        "russian": "32. Анамнез и физикальное обследование сердечно-сосудистой системы"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Cardiac imaging",
+        "russian": "33. Визуализация сердца"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Risk factors for cardiovascular disease",
+        "russian": "34. Факторы риска сердечно-сосудистых заболеваний"
+      },
+      {
+        "file": "chapter-35.md",
+        "title": "35. β‐blockers, angiotensin‐converting enzyme inhibitors, angiotensin receptor blockers and Ca2+ channel blockers",
+        "russian": "35. β-адреноблокаторы, ингибиторы ангиотензинпревращающего фермента, блокаторы рецепторов ангиотензина и блокаторы кальциевых каналов"
+      },
+      {
+        "file": "chapter-36.md",
+        "title": "36. Hyperlipidaemias",
+        "russian": "36. Гиперлипидемии"
+      },
+      {
+        "file": "chapter-37.md",
+        "title": "37. Atherosclerosis",
+        "russian": "37. Атеросклероз"
+      },
+      {
+        "file": "chapter-38.md",
+        "title": "38. Mechanisms of primary hypertension",
+        "russian": "38. Механизмы первичной гипертензии"
+      },
+      {
+        "file": "chapter-39.md",
+        "title": "39. Treatment of hypertension",
+        "russian": "39. Лечение гипертензии"
+      },
+      {
+        "file": "chapter-40.md",
+        "title": "40. Stable, microvascular, and vasospastic angina",
+        "russian": "40. Стабильная, микрососудистая и вазоспастическая стенокардия"
+      },
+      {
+        "file": "chapter-41.md",
+        "title": "41. Pharmacological management of stable, microvascular and vasospastic angina",
+        "russian": "41. Фармакологическое лечение стабильной, микрососудистой и вазоспастической стенокардии"
+      },
+      {
+        "file": "chapter-42.md",
+        "title": "42. Non‐ST segment elevation acute coronary syndromes (NSTE‐ACS)",
+        "russian": "42. Острые коронарные синдромы без подъема сегмента ST (NSTE‐ACS)"
+      },
+      {
+        "file": "chapter-43.md",
+        "title": "43. Coronary revascularisation",
+        "russian": "43. Коронарная реваскуляризация"
+      },
+      {
+        "file": "chapter-44.md",
+        "title": "44. Pathophysiology of acute myocardial infarction",
+        "russian": "44. Патофизиология острого инфаркта миокарда"
+      },
+      {
+        "file": "chapter-45.md",
+        "title": "45. ST segment elevation myocardial infarction (STEMI)",
+        "russian": "45. Инфаркт миокарда с подъемом сегмента ST (STEMI)"
+      },
+      {
+        "file": "chapter-46.md",
+        "title": "46. Heart failure",
+        "russian": "46. Сердечная недостаточность"
+      },
+      {
+        "file": "chapter-47.md",
+        "title": "47. Treatment of chronic heart failure",
+        "russian": "47. Лечение хронической сердечной недостаточности"
+      },
+      {
+        "file": "chapter-48.md",
+        "title": "48. Mechanisms of tachyarrhythmia",
+        "russian": "48. Механизмы тахиаритмий"
+      },
+      {
+        "file": "chapter-49.md",
+        "title": "49. Atrial fibrillation",
+        "russian": "49. Фибрилляция предсердий"
+      },
+      {
+        "file": "chapter-50.md",
+        "title": "50. Other supraventricular arrhythmias",
+        "russian": "50. Другие наджелудочковые аритмии"
+      },
+      {
+        "file": "chapter-51.md",
+        "title": "51. Ventricular tachyarrhythmias and their non‐pharmacological management",
+        "russian": "51. Желудочковые тахиаритмии и их немедикаментозное лечение"
+      },
+      {
+        "file": "chapter-52.md",
+        "title": "52. Pharmacological treatment of tachyarrhythmias",
+        "russian": "52. Фармакологическое лечение тахиаритмий"
+      },
+      {
+        "file": "chapter-53.md",
+        "title": "53. Conduction system abnormalities and pacing",
+        "russian": "53. Нарушения проводящей системы и электрокардиостимуляция"
+      },
+      {
+        "file": "chapter-54.md",
+        "title": "54. Diseases of the aortic valve",
+        "russian": "54. Заболевания аортального клапана"
+      },
+      {
+        "file": "chapter-55.md",
+        "title": "55. Diseases of the mitral valve",
+        "russian": "55. Заболевания митрального клапана"
+      },
+      {
+        "file": "chapter-56.md",
+        "title": "56. Congenital heart disease",
+        "russian": "56. Врожденные пороки сердца"
+      },
+      {
+        "file": "chapter-57.md",
+        "title": "57. Cardiomyopathies and channelopathies",
+        "russian": "57. Кардиомиопатии и каналопатии"
+      },
+      {
+        "file": "chapter-58.md",
+        "title": "58. Pulmonary hypertension",
+        "russian": "58. Легочная гипертензия"
+      },
+      {
+        "file": "chapter-59.md",
+        "title": "59. Stroke",
+        "russian": "59. Инсульт"
+      }
+    ],
+    "appendices": []
+  }
+]

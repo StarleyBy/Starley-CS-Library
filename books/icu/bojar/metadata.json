@@ -1,0 +1,103 @@
+[
+  {
+    "title": "MANUAL of PERIOPERATIVE CARE in ADULT CARDIAC SURGERY, Sixth Edition",
+    "russian_title": "Руководство по периоперационному ведению в кардиохирургии взрослых, шестое издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiology",
+      "cardiac-surgery",
+      "icu"
+    ],
+    "authors": [
+      "Robert M. Bojar, MD"
+    ],
+    "magazine": true,
+    "quiz": true,
+    "quiz_sets": [
+      {
+        "id": "ch01",
+        "label": "Chapter 1 Quiz",
+        "file": "quiz/quiz-chapter-01.json"
+      }
+    ],
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": true
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Synopsis of Adult Cardiac Surgical Disease",
+        "russian": "1. Конспективное изложение кардиохирургических заболеваний у взрослых"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Diagnostic Techniques in Cardiac Surgery",
+        "russian": "2. Диагностические методы в кардиохирургии"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Preoperative Considerations and Risk Assessment",
+        "russian": "3. Предоперационные аспекты и оценка риска"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Cardiac Anesthesia",
+        "russian": "4. Кардиоанестезия"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Cardiopulmonary Bypass",
+        "russian": "5. Искусственное кровообращение"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Myocardial Protection",
+        "russian": "6. Миокардиальная защита"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Admission to the ICU and Monitoring Techniques",
+        "russian": "7. Поступление в ОРИТ и методы мониторинга"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Early Postoperative Care",
+        "russian": "8. Раннее послеоперационное ведение"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Mediastinal Bleeding",
+        "russian": "9. Медиастинальное кровотечение"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Respiratory Management",
+        "russian": "10. Респираторная поддержка"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Cardiovascular Management",
+        "russian": "11. Ведение пациентов с сердечно-сосудистыми нарушениями"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Fluid Management, Renal, and Metabolic Problems",
+        "russian": "12. Инфузионная терапия, почечные и метаболические нарушения"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Post-ICU Care and Other Complications",
+        "russian": "13. Ведение после ОРИТ и другие осложнения"
+      }
+    ],
+    "appendices": [
+      {
+        "file": "appendix.md",
+        "title": "Appendices"
+      }
+    ]
+  }
+]

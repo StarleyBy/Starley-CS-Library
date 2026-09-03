@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical library</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/auth.css">
+    <link rel="stylesheet" href="assets/css/binder.css?v=1.0">
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <header>
+        <h1>📚 Medical library</h1>
+        <nav>
+            <a href="index.html">📚 Library</a>
+            <a href="highlights.html">🔖 Highlights</a>
+            <a href="search/search.html">🔍 Search</a>
+            <a href="quiz.html">🧠 Quiz</a>
+            <a href="editor.html" data-role="admin">✏️ Editor</a>
+            <a href="manifest-editor.html" data-role="admin">🛠️ Manifests</a>
+        </nav>
+
+        <button id="installBtn" style="display:none;">📲 Install application</button>
+
+<script>
+let deferredPrompt;
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installBtn.style.display = 'block';
+});
+
+installBtn.onclick = () => deferredPrompt.prompt();
+</script>
+        
+    </header>
+
+    <main>
+        <div class="view-mode-container">
+            <div class="view-mode-toggle" role="radiogroup" aria-label="View Mode">
+                <button id="btn-grid-view" class="toggle-btn active" role="radio" aria-checked="true" data-view="grid">📚 Grid View</button>
+                <button id="btn-binder-view" class="toggle-btn" role="radio" aria-checked="false" data-view="binder">📒 Binder Shelf</button>
+            </div>
+        </div>
+
+        <div class="search-box">
+            <input type="text" id="search" placeholder="Search...">
+        </div>
+
+        <div id="library-container">
+            <div class="loading">Library loading...</div>
+        </div>
+
+        <div id="binder-shelf-view" class="binder-container hidden" aria-live="polite"></div>
+    </main>
+
+    <footer>
+        <p>Starley Library | 2026</p>
+    </footer>
+
+    <script src="assets/js/config.js?v=1.1"></script>
+    <script src="assets/js/auth.js?v=1.1"></script>
+    <script src="assets/js/binder-shelf.js?v=1.0"></script>
+    <script src="assets/js/app.js?v=1.7"></script>
+    <script src="assets/js/reader.js"></script>
+    <script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js')
+    .then(() => console.log('SW registered'));
+}
+</script>
+    <script data-goatcounter="https://cs-library.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

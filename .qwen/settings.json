@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir *)",
+      "Bash(node *)",
+      "Bash(del *)",
+      "Bash(git pull *)",
+      "Bash(git tag *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git checkout *)",
+      "Bash(mkdir *)"
+    ]
+  },
+  "$version": 3
+}

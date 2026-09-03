@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Starley Medical Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600;700&family=Nunito:wght@400;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Literata:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="preload" href="assets/fonts/inter-var.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/reader.css?v=2.6">
+    <link rel="stylesheet" href="assets/css/toc-hud.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/highlighter.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/media-inspector.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/overlay-tools.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body class="reader-body font-inter">
+    <!-- Reading progress bar -->
+    <div id="reading-progress-bar"></div>
+    <div id="discipline-accent-stripe" style="height: 3px; width: 100%; position: fixed; top: 0; left: 0; z-index: 9999; display: none;"></div>
+
+    <header class="reader-header">
+        <div class="header-content">
+            <nav class="main-nav">
+                <a href="index.html" class="nav-link">
+                    <i class="fas fa-book-open"></i>
+                    <span class="nav-text">Library</span>
+                </a>
+            </nav>
+            <button id="toc-toggle" class="header-btn"><i class="fas fa-list"></i></button>
+            <div id="version-selector-container"></div>
+            <button id="favorite-toggle" class="header-btn" title="Add to Favorites"><i class="far fa-heart"></i></button>
+            <a href="search/index.html" class="header-btn" title="🔍 Spotlight Search (Cmd+K)"><i class="fas fa-search"></i></a>
+            <a href="highlights.html" class="header-btn" title="My Highlights & Notes"><i class="fas fa-highlighter"></i></a>
+            <button id="mag-header-btn" class="header-btn" title="Visual Magazine" style="display:none;"><i class="fas fa-newspaper"></i></button>
+            <button id="quiz-header-btn" class="header-btn" title="Clinical Quiz" style="display:none;"><i class="fas fa-brain"></i></button>
+            <button id="bookmark-toggle" class="header-btn" title="Bookmarks"><i class="fas fa-bookmark"></i></button>
+            <button id="focus-toggle" class="header-btn">
+                <i class="fas fa-expand"></i>
+                <i class="fas fa-compress"></i>
+            </button>
+        </div>
+    </header>
+
+    <div class="reader-layout">
+        <aside id="reader-sidebar" class="sidebar">
+            <h2 id="book-title">Loading...</h2>
+            <div id="chapter-list" class="nav-list"></div>
+            <hr>
+            <div id="internal-toc" class="nav-list"></div>
+        </aside>
+
+        <main id="main-content" class="content-wrapper">
+            <article id="content-area" class="content"></article>
+        </main>
+    </div>
+
+    <!-- Search panel (hidden by default, opens from bottom) -->
+    <div id="search-panel" class="search-panel" style="display:none">
+        <div class="search-inner">
+            <input id="search-input" type="text" placeholder="Search in chapter…" autocomplete="off" spellcheck="false">
+            <span id="search-count" class="search-count"></span>
+            <button id="search-prev" class="search-nav" title="Previous">↑</button>
+            <button id="search-next" class="search-nav" title="Next">↓</button>
+            <button id="search-close" class="search-close" title="Close">✕</button>
+        </div>
+    </div>
+
+    <!-- Bookmarks modal -->
+    <div id="bookmarks-modal" class="bm-modal" style="display:none">
+        <div class="bm-modal-backdrop"></div>
+        <div class="bm-modal-box">
+            <div class="bm-modal-header">
+                <span class="bm-modal-title">🔖 Bookmarks</span>
+                <div class="bm-modal-actions">
+                    <button id="bookmarks-clear" class="bm-clear-btn">✕ clear all</button>
+                    <button id="bookmarks-modal-close" class="bm-modal-close">✕</button>
+                </div>
+            </div>
+            <div id="bookmarks-list" class="bm-modal-list"></div>
+            <div class="bm-modal-hint">Double-tap any paragraph to bookmark it</div>
+        </div>
+    </div>
+
+    <!-- Radial menu -->
+    <div id="radial-backdrop"></div>
+    <div id="radial-tip-layer"></div>
+    <div id="radial-menu-container">
+        <!-- Font picker popup -->
+        <div id="font-picker">
+            <button class="font-option" data-font="inter">Inter <span class="font-tag">sans</span></button>
+            <button class="font-option" data-font="roboto">Roboto <span class="font-tag">sans</span></button>
+            <button class="font-option" data-font="opensans">Open Sans <span class="font-tag">sans</span></button>
+            <button class="font-option" data-font="nunito">Nunito <span class="font-tag">sans</span></button>
+            <button class="font-option" data-font="merriweather">Merriweather <span class="font-tag">serif</span></button>
+            <button class="font-option" data-font="lora">Lora <span class="font-tag">serif</span></button>
+            <button class="font-option" data-font="playfair">Playfair Display <span class="font-tag">serif</span></button>
+            <button class="font-option" data-font="sourceserif">Source Serif 4 <span class="font-tag">serif</span></button>
+            <button class="font-option" data-font="literata">Literata <span class="font-tag">serif · e-reader</span></button>
+            <button class="font-option" data-font="mono">JetBrains Mono <span class="font-tag">mono</span></button>
+        </div>
+        <!-- Inner ring: navigation (7 buttons, radius ~52px) -->
+        <div id="radial-items-inner">
+            <button class="radial-item-inner rii-gray"   data-action="go-library"     data-tooltip="⌂ Back to library">⌂</button>
+            <button class="radial-item-inner rii-blue"   data-action="edition-pick"   data-tooltip="🌐 Switch edition">EN</button>
+            <button class="radial-item-inner rii-indigo" data-action="focus-mode"     data-tooltip="⛶ Focus mode">⛶</button>
+            <button id="radial-mag-btn" class="radial-item-inner rii-purple" data-action="go-magazine" data-tooltip="📰 Visual Magazine" style="display:none;">📰</button>
+            <button id="radial-quiz-btn" class="radial-item-inner rii-teal" data-action="go-quiz" data-tooltip="🧠 Clinical Quiz" style="display:none;">🧠</button>
+            <button class="radial-item-inner rii-amber"  data-action="bookmark-panel" data-tooltip="🔖 Bookmarks">🔖</button>
+            <button class="radial-item-inner rii-blue"   data-action="open-calc"      data-tooltip="🧮 Calculator">🧮</button>
+            <button class="radial-item-inner rii-green"  data-action="open-scratchpad" data-tooltip="✏️ Scratchpad">✏️</button>
+            <button class="radial-item-inner rii-green"  data-action="chapter-pick"   data-tooltip="📑 Chapter list" style="font-size:0.7rem">≡</button>
+        </div>
+        <!-- Edition picker popup -->
+        <div id="edition-picker">
+            <button class="edition-option" data-edition="original">EN <span class="font-tag">English</span></button>
+            <button class="edition-option" data-edition="russian">RU <span class="font-tag">Russian</span></button>
+            <button class="edition-option" data-edition="starley">STL <span class="font-tag">Starley</span></button>
+            <button class="edition-option" data-edition="hebrew">HE <span class="font-tag">Hebrew</span></button>
+            <button class="edition-option edition-magazine" data-edition="magazine" style="display:none; border-top: 1px solid #444; margin-top: 5px; padding-top: 8px;">📰 <span class="font-tag">Visual Magazine</span></button>
+            <button class="edition-option edition-quiz" data-edition="quiz" style="display:none; border-top: 1px solid #444; margin-top: 5px; padding-top: 8px;">🧠 <span class="font-tag">Clinical Quiz</span></button>
+        </div>
+        <!-- Chapter picker popup -->
+        <div id="chapter-picker">
+            <div class="chapter-picker-header">Chapters</div>
+            <div id="chapter-picker-list"></div>
+        </div>
+        <!-- Radial Submenu: Typography Presets (angles: 45°, 135°, 225°, 315°) -->
+        <div id="radial-items-sub">
+            <button class="radial-item-sub ris-modern"    data-preset="modern"        data-tooltip="Modern: Clean Sans-Serif (Inter)"><i class="fas fa-font"></i><span class="sub-label">Modern</span></button>
+            <button class="radial-item-sub ris-academic"  data-preset="academic"      data-tooltip="Academic: Elegant Serif (Lora)"><i class="fas fa-book-open"></i><span class="sub-label">Academic</span></button>
+            <button class="radial-item-sub ris-technical" data-preset="technical"     data-tooltip="Technical: Monospace (JetBrains)"><i class="fas fa-code"></i><span class="sub-label">Tech</span></button>
+            <button class="radial-item-sub ris-access"    data-preset="accessibility" data-tooltip="Accessibility: Legible (Atkinson)"><i class="fas fa-eye"></i><span class="sub-label">Access</span></button>
+        </div>
+        <div id="radial-items">
+            <button class="radial-item ri-teal"   data-action="scroll-top"    data-tooltip="⬆ Back to top">↑</button>
+            <button class="radial-item ri-green"  data-action="expand-all"    data-tooltip="⊞ Expand all">⊞</button>
+            <button class="radial-item ri-orange" data-action="collapse-all"  data-tooltip="⊟ Collapse all">⊟</button>
+            <button class="radial-item ri-blue"   data-action="font-increase" data-tooltip="A+ Bigger text" style="font-size:0.82rem">A+</button>
+            <button class="radial-item ri-red"    data-action="font-decrease" data-tooltip="A− Smaller text" style="font-size:0.82rem">A−</button>
+            <button class="radial-item ri-purple" data-action="typography-menu" data-tooltip="🎨 Typography Style" style="font-size:0.8rem">🎨</button>
+            <button class="radial-item ri-indigo" data-action="night-mode"    data-tooltip="☾ Night mode">☾</button>
+            <button class="radial-item ri-pink"   data-action="sepia-mode"    data-tooltip="☕ Sepia mode">☕</button>
+            <button class="radial-item ri-teal"   data-action="lh-increase"   data-tooltip="≡+ More line spacing" style="font-size:0.7rem">≡+</button>
+            <button class="radial-item ri-indigo" data-action="lh-decrease"   data-tooltip="≡− Less line spacing" style="font-size:0.7rem">≡−</button>
+            <button class="radial-item ri-orange" data-action="text-width"    data-tooltip="↔ Text width">↔</button>
+            <button class="radial-item ri-amber"  data-action="reading-mode"  data-tooltip="📖 Reading mode (taps)">📖</button>
+            <button class="radial-item ri-green"  data-action="search-open"   data-tooltip="🔍 Search in chapter" style="font-size:0.95rem">🔍</button>
+            <button class="radial-item ri-blue"   data-action="print-chapter" data-tooltip="⎙ Save as PDF" style="font-size:0.85rem">⎙</button>
+        </div>
+        <!-- Trigger button -->
+        <button id="radial-trigger" title="Reader settings">
+            <i class="fas fa-sliders-h"></i>
+        </button>
+    </div>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="assets/js/config.js?v=2.6"></script>
+    <script src="assets/js/settings.js?v=1.0"></script>
+    <script type="module" src="assets/js/db.js?v=1.0"></script>
+    <script type="module" src="assets/js/highlighter-engine.js?v=1.0"></script>
+    <script type="module" src="assets/js/highlighter-toolbar.js?v=1.0"></script>
+    <script type="module" src="assets/js/toc-hud.js?v=1.0"></script>
+    <script src="assets/js/media-inspector.js?v=1.0"></script>
+    <script src="assets/js/radial-menu.js?v=1.0"></script>
+    <script src="assets/js/reader.js?v=2.6"></script>
+    <script src="assets/js/navigation.js?v=2.6"></script>
+    <script src="assets/js/overlay-tools.js?v=1.0"></script>
+</body>
+</html>

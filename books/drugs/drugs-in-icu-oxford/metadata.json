@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Drugs in Anaesthesia and Intensive Care, Fifth edition",
+    "russian_title": "Лекарственные средства в анестезиологии и интенсивной терапии, пятое издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "drugs",
+      "pharmacology",
+      "ICU"
+    ],
+    "authors": [
+      "Edward Scarth, Susan Smith"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": false,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. A",
+        "russian": "1. А"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. B",
+        "russian": "2. Б"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. C",
+        "russian": "3. С"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. D",
+        "russian": "4. Д"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. E",
+        "russian": "5. Е"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. F",
+        "russian": "6. Ф"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. G",
+        "russian": "7. Г"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. H",
+        "russian": "8. Х"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. I",
+        "russian": "9. И"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. K",
+        "russian": "10. К"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. L",
+        "russian": "11. Л"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. M",
+        "russian": "12. М"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. N",
+        "russian": "13. Н"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. O",
+        "russian": "14. О"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. P",
+        "russian": "15. П"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. R",
+        "russian": "16. Р"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. S",
+        "russian": "17. С"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. T",
+        "russian": "18. Т"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. V",
+        "russian": "19. В"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. W",
+        "russian": "20. У"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. X",
+        "russian": "21. Кс"
+      },
+      {
+        "file": "chapter-Appendix 1.md",
+        "title": "Appendix 1. Drug comparison tables",
+        "russian": "Приложение 1. Таблицы сравнения лекарственных средств"
+      },
+      {
+        "file": "chapter-Appendix 2.md",
+        "title": "Appendix 2. Index of drug derivation",
+        "russian": "Приложение 2. Указатель происхождения лекарственных средств"
+      },
+      {
+        "file": "chapter-Appendix 3.md",
+        "title": "Appendix 3. Index of medical uses",
+        "russian": "Приложение 3. Указатель медицинских показаний"
+      }
+    ],
+    "appendices": []
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "ECGt MADE EASY, 6th edition",
+    "russian_title": "ЭКГ просто и понятно, 6-е издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "ecg"
+    ],
+    "authors": [
+      "Barbara Aehlert"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Anatomy and Physiology",
+        "russian": "1. Анатомия и физиология"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Basic Electrophysiology",
+        "russian": "2. Основы электрофизиологии"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Sinus Mechanisms",
+        "russian": "3. Синусовые механизмы"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Atrial Rhythms",
+        "russian": "4. Предсердные ритмы"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Junctional Rhythms",
+        "russian": "5. Узловые ритмы"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Ventricular Rhythms",
+        "russian": "6. Желудочковые ритмы"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Atrioventricular Blocks",
+        "russian": "7. Атриовентрикулярные блокады"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Pacemaker Rhythms",
+        "russian": "8. Ритмы с электрокардиостимулятором"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Introduction to the 12-Lead ECG",
+        "russian": "9. Введение в 12-канальную ЭКГ"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Posttest",
+        "russian": "10. Итоговый тест"
+      }
+    ],
+    "appendices": []
+  }
+]

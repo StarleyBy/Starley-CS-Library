@@ -1,0 +1,2010 @@
+{
+  "meta": {
+    "title": "Aortic Valve Disease Quiz",
+    "book": "Cardiac Surgery in the Adult, 5th ed.",
+    "chapter": ["chapter-26", "chapter-27", "chapter-28", "chapter-29", "chapter-30", "chapter-31", "chapter-32", "chapter-33"],
+    "totalQuestions": 100
+  },
+  "questions": [
+  {
+    "id": 1,
+    "questionEn": "A 72-year-old patient with an LVEF of 35% presents with a calculated AVA of 0.8 cm² and a mean gradient of 32 mm Hg. During Dobutamine Stress Echocardiography (DSE), the stroke volume increases by 25%, the AVA remains 0.85 cm², and the mean gradient rises to 45 mm Hg. What is the diagnosis and recommended management?",
+    "questionRu": "Пациент 72 лет с ФВ ЛЖ 35%, расчетная площадь аортального клапана 0,8 см² и средний градиент 32 мм рт.ст. При стресс-эхокардиографии с добутамином (DSE) ударный объем увеличивается на 25%, AVA остается 0,85 см², а средний градиент повышается до 45 мм рт.ст. Каков диагноз и рекомендуемая тактика?",
+    "optionsEn": {
+      "A": "Pseudosevere aortic stenosis; continue medical therapy for heart failure.",
+      "B": "Paradoxical low-flow, low-gradient aortic stenosis; consider TAVR.",
+      "C": "True low-gradient aortic stenosis with contractile reserve; proceed with AVR.",
+      "D": "True low-gradient aortic stenosis without contractile reserve; high-risk palliative care."
+    },
+    "optionsRu": {
+      "A": "Псевдотяжелый аортальный стеноз; продолжить медикаментозную терапию сердечной недостаточности.",
+      "B": "Парадоксальный низкопоточный низкоградиентный аортальный стеноз; рассмотреть TAVR.",
+      "C": "Истинный низкоградиентный аортальный стеноз с сократительным резервом; выполнить протезирование аортального клапана (ПАК).",
+      "D": "Истинный низкоградиентный аортальный стеноз без сократительного резерва; паллиативная помощь высокого риска."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "This patient exhibits 'true' low-gradient AS. According to the sources, an increase in mean gradient to ≥40 mm Hg or jet velocity to ≥4 m/s while the AVA remains ≤1.0 cm² during DSE confirms true stenosis. Option A is incorrect because in pseudosevere AS, the AVA would increase by ≥0.2 cm². Option B is incorrect as paradoxical AS occurs in patients with preserved EF (≥50%). Option D is incorrect because the 25% increase in stroke volume demonstrates 'contractile reserve' (defined as >20% increase).",
+    "explanationRu": "У этого пациента «истинный» низкоградиентный АС. Согласно источникам, увеличение среднего градиента до ≥40 мм рт.ст. или скорости потока до ≥4 м/с при сохранении AVA ≤1,0 см² во время DSE подтверждает истинный стеноз. Вариант А неверен, так как при псевдотяжелом АС AVA увеличилась бы на ≥0,2 см². Вариант Б неверен, поскольку парадоксальный АС возникает у пациентов с сохраненной ФВ (≥50%). Вариант D неверен, так как увеличение ударного объема на 25% демонстрирует «сократительный резерв» (определяется как увеличение >20%)."
+  },
+  {
+    "id": 2,
+    "questionEn": "A 58-year-old patient receives a St. Jude Medical Regent mechanical valve. He has a history of controlled hypertension but is in normal sinus rhythm with normal LV dimensions. According to the Butchart scoring system and Cohn’s recommendations, what is the optimal target INR?",
+    "questionRu": "Пациенту 58 лет имплантирован механический клапан St. Jude Medical Regent. В анамнезе контролируемая гипертензия, но ритм синусовый, размеры ЛЖ в норме. Согласно шкале Butchart и рекомендациям Cohn, каково оптимальное целевое МНО?",
+    "optionsEn": {
+      "A": "1.5–2.0 + Aspirin",
+      "B": "2.0–2.5 + Aspirin",
+      "C": "2.5–3.5 + Aspirin",
+      "D": "3.5–4.5 without Aspirin"
+    },
+    "optionsRu": {
+      "A": "1,5–2,0 + Аспирин",
+      "B": "2,0–2,5 + Аспирин",
+      "C": "2,5–3,5 + Аспирин",
+      "D": "3,5–4,5 без Аспирина"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "While a low-risk patient (NSR, normal EF) can be managed with an INR of 1.6–2.0, the presence of a 'single factor'—in this case, hypertension—bumps the target to 2.0–2.5 with the addition of aspirin. Hypertension is explicitly listed as a 'nontraditional risk factor' for thromboembolism. Option A is only for those with zero risk factors. Option C is for multiple factors or AF. Option D is outdated and associated with excessive bleeding risk.",
+    "explanationRu": "Хотя у пациента низкого риска (синусовый ритм, нормальная ФВ) можно поддерживать МНО 1,6–2,0, наличие «одного фактора» — в данном случае гипертензии — повышает целевое МНО до 2,0–2,5 с добавлением аспирина. Гипертензия явно указана как «нетрадиционный фактор риска» тромбоэмболий. Вариант А только для пациентов с нулевыми факторами риска. Вариант С — для множественных факторов или ФП. Вариант D устарел и связан с высоким риском кровотечения."
+  },
+  {
+    "id": 3,
+    "questionEn": "In a patient with active native valve endocarditis (NVE) caused by *Staphylococcus aureus*, a brain MRI reveals a silent 1.5 cm hemorrhagic infarct. The patient is hemodynamically stable. When should surgery be performed?",
+    "questionRu": "У пациента с активным нативным инфекционным эндокардитом (ИЭ), вызванным *Staphylococcus aureus*, МРТ головного мозга выявляет немой геморрагический инфаркт размером 1,5 см. Пациент гемодинамически стабилен. Когда следует выполнить операцию?",
+    "optionsEn": {
+      "A": "Emergency surgery within 24 hours to prevent further embolization.",
+      "B": "Urgent surgery within 48–72 hours after starting antibiotics.",
+      "C": "Delay surgery for at least 1–2 weeks.",
+      "D": "Delay surgery for at least 3–4 weeks."
+    },
+    "optionsRu": {
+      "A": "Экстренная операция в течение 24 часов для предотвращения дальнейшей эмболизации.",
+      "B": "Срочная операция в течение 48–72 часов после начала антибиотиков.",
+      "C": "Отсрочить операцию как минимум на 1–2 недели.",
+      "D": "Отсрочить операцию как минимум на 3–4 недели."
+    },
+    "correctAnswer": "D",
+    "explanationEn": "The sources state that while ischemic strokes should generally delay surgery by 1–2 weeks, a **hemorrhagic stroke** requires a longer delay of 3–4 weeks to minimize the risk of neurological deterioration, provided the patient is hemodynamically stable. Emergency surgery (Option A) in the setting of recent intracranial hemorrhage is associated with extremely high mortality.",
+    "explanationRu": "Источники указывают, что при ишемических инсультах операцию обычно откладывают на 1–2 недели, но **геморрагический инсульт** требует более длительной отсрочки в 3–4 недели для минимизации риска неврологического ухудшения при условии гемодинамической стабильности. Экстренная операция (вариант А) на фоне недавнего внутричерепного кровоизлияния связана с чрезвычайно высокой летальностью."
+  },
+  {
+    "id": 4,
+    "questionEn": "During a Ross Procedure, why is the pulmonary autograft considered a 'living valve' compared to a cryopreserved homograft?",
+    "questionRu": "Почему при операции Росса легочный аутографт считается «живым клапаном» по сравнению с криоконсервированным гомографтом?",
+    "optionsEn": {
+      "A": "It undergoes immediate endothelialization from the recipient's stem cells.",
+      "B": "It demonstrates adaptive remodeling, such as thickening of the fibrosa in response to systemic pressure.",
+      "C": "It contains viable donor fibroblasts that maintain the extracellular matrix.",
+      "D": "It is harvested with its own sympathetic nerve supply, maintaining vasomotor tone."
+    },
+    "optionsRu": {
+      "A": "Он подвергается немедленной эндотелиализации из стволовых клеток реципиента.",
+      "B": "Он демонстрирует адаптивное ремоделирование, например утолщение фиброзного слоя в ответ на системное давление.",
+      "C": "Он содержит жизнеспособные фибробласты донора, поддерживающие внеклеточный матрикс.",
+      "D": "Он забирается вместе с собственным симпатическим нервным снабжением, поддерживая вазомоторный тонус."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The pulmonary autograft is an autologous living structure that adapts to the systemic environment. Histological studies show it lays down a collagen-rich support on the ventricular aspect and its endothelial cells transform to a phenotype capable of smooth muscle actin production. While Option C describes cryopreserved homografts, their donor fibroblasts often do not survive long-term or provide the same remodeling capacity. Option A refers to decellularized scaffolds, not the native autograft.",
+    "explanationRu": "Легочный аутографт — это аутологичная живая структура, которая адаптируется к системным условиям. Гистологические исследования показывают, что он формирует богатую коллагеном опору на желудочковой стороне, а его эндотелиальные клетки трансформируются в фенотип, способный продуцировать актин гладких мышц. Вариант С описывает криоконсервированные гомографты, но их донорские фибробласты часто не выживают долго и не обеспечивают такую же способность к ремоделированию. Вариант А относится к децеллюляризованным скаффолдам, а не к нативному аутографту."
+  },
+  {
+    "id": 5,
+    "questionEn": "A 45-year-old male with Marfan syndrome presents with a 5.2 cm aortic root aneurysm and mild aortic regurgitation. Which procedure is most appropriate to prevent late annular redilation?",
+    "questionRu": "Мужчина 45 лет с синдромом Марфана, аневризма корня аорты 5,2 см и незначительная аортальная регургитация. Какая процедура наиболее целесообразна для предотвращения позднего расширения фиброзного кольца?",
+    "optionsEn": {
+      "A": "Yacoub Procedure (Remodeling)",
+      "B": "David Procedure (Reimplantation)",
+      "C": "Wheat Procedure",
+      "D": "Subcoronary Homograft"
+    },
+    "optionsRu": {
+      "A": "Процедура Якуба (ремоделирование)",
+      "B": "Процедура Дэвида (реимплантация)",
+      "C": "Процедура Уитта",
+      "D": "Субкоронарный гомографт"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In patients with genetic syndromes like Marfan, the aortic annulus is prone to late dilation. The **David (Reimplantation)** procedure is superior in these cases because it fixes the aortic annulus inside a Dacron graft, preventing future expansion. The Yacoub (Remodeling) procedure does not provide direct annular support and has been associated with late failure in Marfan patients.",
+    "explanationRu": "У пациентов с генетическими синдромами, такими как Марфан, фиброзное кольцо аорты склонно к позднему расширению. **Процедура Дэвида (реимплантация)** превосходит другие в этих случаях, потому что фиксирует кольцо аорты внутри дакронового протеза, предотвращая будущее расширение. Процедура Якуба (ремоделирование) не обеспечивает прямой поддержки кольца и связана с поздними неудовлетворительными результатами у пациентов с синдромом Марфана."
+  },
+  {
+    "id": 6,
+    "questionEn": "According to the CHOICE trial, what was the primary advantage of the balloon-expandable Sapien XT over the self-expanding CoreValve?",
+    "questionRu": "Согласно исследованию CHOICE, в чем заключалось основное преимущество баллонорасширяемого клапана Sapien XT по сравнению с саморасширяющимся CoreValve?",
+    "optionsEn": {
+      "A": "Significantly lower 30-day all-cause mortality.",
+      "B": "Lower rates of major vascular complications.",
+      "C": "Higher 'device success' due to less residual paravalvular leak.",
+      "D": "Lower rates of permanent pacemaker implantation."
+    },
+    "optionsRu": {
+      "A": "Значительно более низкая 30-дневная общая летальность.",
+      "B": "Более низкая частота серьезных сосудистых осложнений.",
+      "C": "Более высокая «эффективность устройства» благодаря меньшей остаточной параклапанной утечке.",
+      "D": "Более низкая частота имплантации постоянного кардиостимулятора."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The CHOICE trial found that the Sapien XT had a higher device success rate (95.9% vs 77.5%), primarily driven by significantly lower residual moderate-to-severe paravalvular leakage (4.1% vs 18.3%). While Sapien XT also had lower pacemaker rates (17.3% vs 37.6%), the trial's primary endpoint of device success was multifactorial.",
+    "explanationRu": "Исследование CHOICE показало, что Sapien XT имел более высокую частоту эффективности устройства (95,9% против 77,5%), главным образом за счет значительно меньшей остаточной умеренной и тяжелой параклапанной утечки (4,1% против 18,3%). Хотя Sapien XT также имел более низкую частоту имплантации кардиостимуляторов (17,3% против 37,6%), первичной конечной точкой исследования была многофакторная эффективность устройства."
+  },
+  {
+    "id": 7,
+    "questionEn": "A patient with end-stage renal disease (ESRD) on dialysis requires AVR. What does the literature suggest regarding the choice of prosthesis?",
+    "questionRu": "Пациенту с терминальной почечной недостаточностью (ТПН) на диализе требуется протезирование аортального клапана. Что предлагает литература относительно выбора протеза?",
+    "optionsEn": {
+      "A": "Bioprostheses are mandatory to avoid the bleeding risk of anticoagulation on dialysis.",
+      "B": "Mechanical valves are mandatory because bioprostheses calcify within 2 years.",
+      "C": "There is no difference in long-term survival between valve types, but mechanical valves have higher complication rates.",
+      "D": "Dialysis-related hypercalcemia makes the Ross procedure the only viable long-term option."
+    },
+    "optionsRu": {
+      "A": "Биопротезы обязательны, чтобы избежать риска кровотечения на фоне антикоагуляции при диализе.",
+      "B": "Механические клапаны обязательны, потому что биопротезы кальцифицируются в течение 2 лет.",
+      "C": "Нет различий в долгосрочной выживаемости между типами клапанов, но механические клапаны связаны с более высокими осложнениями.",
+      "D": "Диализ-связанная гиперкальциемия делает операцию Росса единственным приемлемым долгосрочным вариантом."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A systematic review found no significant difference in survival between bioprosthetic and mechanical valves in ESRD patients, but mechanical valves were associated with a higher risk of bleeding and thromboembolism. The decision should be individualized as bioprostheses do suffer from accelerated SVD in this population.",
+    "explanationRu": "Систематический обзор не выявил значительных различий в выживаемости между биопротезами и механическими клапанами у пациентов с ТПН, но механические клапаны были связаны с более высоким риском кровотечения и тромбоэмболий. Решение должно приниматься индивидуально, поскольку биопротезы действительно страдают от ускоренной структурной дегенерации в этой популяции."
+  },
+  {
+    "id": 8,
+    "questionEn": "Which anatomical landmark marks the distal border of the functional aortic root?",
+    "questionRu": "Какой анатомический ориентир обозначает дистальную границу функционального корня аорты?",
+    "optionsEn": {
+      "A": "The Anatomic Ventriculoarterial Junction",
+      "B": "The Hemodynamic Ventriculoarterial Junction",
+      "C": "The Sinotubular Junction",
+      "D": "The Nadir of the Aortic Cusps"
+    },
+    "optionsRu": {
+      "A": "Анатомическое желудочково-артериальное соединение",
+      "B": "Гемодинамическое желудочково-артериальное соединение",
+      "C": "Синотубулярное соединение",
+      "D": "Надир аортальных створок"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The aortic root is defined as the functional unit between the LVOT and the aorta, with the **sinotubular junction** marking the distal (superior) border. The ventriculoarterial junction marks the proximal border.",
+    "explanationRu": "Корень аорты определяется как функциональная единица между выносящим трактом ЛЖ и аортой, при этом **синотубулярное соединение** обозначает дистальную (верхнюю) границу. Желудочково-артериальное соединение обозначает проксимальную границу."
+  },
+  {
+    "id": 9,
+    "questionEn": "In reoperative minimally invasive AVR for a patient with patent bypass grafts, what is the strategy for myocardial protection regarding the LIMA-to-LAD graft?",
+    "questionRu": "При повторной минимально инвазивной ПАК у пациента с функционирующими шунтами, какова стратегия миокардиальной защиты в отношении шунта ВМА-ПМЖВ?",
+    "optionsEn": {
+      "A": "The LIMA must be dissected and clipped to prevent 'washout' of cardioplegia.",
+      "B": "Systemic hyperkalemia is used to achieve diastolic arrest in the LIMA-perfused territory.",
+      "C": "The LIMA is left alone, and the heart is allowed to beat throughout the procedure.",
+      "D": "Retrograde cardioplegia is delivered at high pressure (>50 mmHg) to overcome LIMA flow."
+    },
+    "optionsRu": {
+      "A": "ВМА должна быть диссецирована и клипирована для предотвращения «вымывания» кардиоплегии.",
+      "B": "Используется системная гиперкалиемия для достижения диастолической остановки в перфузируемой ВМА зоне.",
+      "C": "ВМА оставляют нетронутой, и сердцу позволяют биться на протяжении всей процедуры.",
+      "D": "Ретроградная кардиоплегия подается под высоким давлением (>50 мм рт.ст.) для преодоления потока по ВМА."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In minimal access reops, clipping the LIMA is not mandatory. Instead, the Brigham group popularized achieving **systemic hyperkalemia** (potassium levels of 6–7 mEq/L) to keep the LIMA-perfused territory quiescent and in diastolic arrest. Option A is incorrect as LIMA dissection is hazardous and avoided.",
+    "explanationRu": "При повторных минимально инвазивных операциях клипирование ВМА не обязательно. Вместо этого группа Brigham популяризировала достижение **системной гиперкалиемии** (уровень калия 6–7 мэкв/л), чтобы зона, перфузируемая ВМА, оставалась неподвижной и в диастолической остановке. Вариант А неверен, так как диссекция ВМА опасна и ее избегают."
+  },
+  {
+    "id": 10,
+    "questionEn": "What is the 'Gold Standard' for quantifying the transvalvular gradient in aortic stenosis according to the sources?",
+    "questionRu": "Что является «золотым стандартом» для количественной оценки транспротезного градиента при аортальном стенозе согласно источникам?",
+    "optionsEn": {
+      "A": "Transthoracic Doppler Echocardiography",
+      "B": "Transesophageal Planimetry",
+      "C": "Cardiac Catheterization",
+      "D": "Multidetector Computed Tomography (MDCT)"
+    },
+    "optionsRu": {
+      "A": "Чрескожная допплер-эхокардиография",
+      "B": "Чреспищеводная планиметрия",
+      "C": "Катетеризация сердца",
+      "D": "Мультидетекторная компьютерная томография (МДКТ)"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "While echocardiography is the clinical standard, **cardiac catheterization** remains the gold standard for directly measuring the transvalvular pressure gradient, especially when noninvasive tests are inconclusive.",
+    "explanationRu": "Хотя эхокардиография является клиническим стандартом, **катетеризация сердца** остается золотым стандартом для прямого измерения трансклапанного градиента давления, особенно когда неинвазивные тесты не дают однозначного результата."
+  },
+  {
+    "id": 11,
+    "questionEn": "A 30-year-old woman wishing to become pregnant requires AVR. Which anticoagulation strategy is recommended during the first trimester if a mechanical valve is chosen?",
+    "questionRu": "Женщина 30 лет, желающая забеременеть, нуждается в ПАК. Какая стратегия антикоагуляции рекомендуется в первом триместре, если выбран механический клапан?",
+    "optionsEn": {
+      "A": "Continue Warfarin at the pre-pregnancy dose regardless of the level.",
+      "B": "Switch to UFH or LMWH if the required Warfarin dose is >5 mg/day.",
+      "C": "Switch to Clopidogrel and Aspirin.",
+      "D": "Switch to Dabigatran (NOAC)."
+    },
+    "optionsRu": {
+      "A": "Продолжить варфарин в дозе до беременности независимо от уровня.",
+      "B": "Перейти на НФГ или НМГ, если требуемая доза варфарина >5 мг/сут.",
+      "C": "Перейти на клопидогрел и аспирин.",
+      "D": "Перейти на дабигатран (НОАК)."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients on high-dose Warfarin (>5 mg/day), guidelines recommend switching to UFH or LMWH during the first trimester to avoid embryopathy. Option D is incorrect as NOACs are contraindicated in mechanical valves.",
+    "explanationRu": "Для пациентов, получающих высокие дозы варфарина (>5 мг/сут), рекомендации советуют переходить на НФГ или НМГ в первом триместре, чтобы избежать эмбриопатии. Вариант D неверен, поскольку НОАК противопоказаны при механических клапанах."
+  },
+  {
+    "id": 12,
+    "questionEn": "What histological change is seen in the pulmonary artery wall (autograft) after it is moved to the aortic position in a Ross procedure?",
+    "questionRu": "Какое гистологическое изменение наблюдается в стенке легочной артерии (аутографта) после ее перемещения в аортальную позицию при операции Росса?",
+    "optionsEn": {
+      "A": "Increase in elastin content to mimic the aorta.",
+      "B": "Rapid loss of elastin with fragmentation and increasing collagen deposition.",
+      "C": "Proliferation of donor fibroblasts to maintain compliance.",
+      "D": "Development of vasa vasorum in the tunica media."
+    },
+    "optionsRu": {
+      "A": "Увеличение содержания эластина для имитации аорты.",
+      "B": "Быстрая потеря эластина с фрагментацией и усилением отложения коллагена.",
+      "C": "Пролиферация донорских фибробластов для поддержания растяжимости.",
+      "D": "Развитие vasa vasorum в медиальном слое."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The autograft wall (PA) undergoes rapid changes, including the loss of elastin and fragmentation, likely to sacrifice elasticity for the strength needed to withstand systemic pressures through collagen deposition.",
+    "explanationRu": "Стенка аутографта (ЛА) претерпевает быстрые изменения, включая потерю эластина и его фрагментацию, вероятно, жертвуя эластичностью ради прочности, необходимой для выдерживания системного давления, за счет отложения коллагена."
+  },
+  {
+    "id": 13,
+    "questionEn": "A patient with severe AS has a peak jet velocity of 4.2 m/s and is asymptomatic. During a standard treadmill exercise test, her systolic blood pressure drops by 15 mm Hg. What is the Class of recommendation for AVR?",
+    "questionRu": "Пациентка с тяжелым АС имеет пиковую скорость потока 4,2 м/с и бессимптомна. Во время стандартного нагрузочного теста на беговой дорожке ее систолическое артериальное давление падает на 15 мм рт.ст. Каков класс рекомендации для ПАК?",
+    "optionsEn": {
+      "A": "Class I",
+      "B": "Class IIa",
+      "C": "Class IIb",
+      "D": "Class III"
+    },
+    "optionsRu": {
+      "A": "Класс I",
+      "B": "Класс IIa",
+      "C": "Класс IIb",
+      "D": "Класс III"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In asymptomatic patients (Stage C1) with severe AS, AVR is a **Class IIa** recommendation if there is decreased exercise tolerance or a drop in blood pressure during exercise.",
+    "explanationRu": "У бессимптомных пациентов (стадия C1) с тяжелым АС ПАК имеет **класс рекомендации IIa** при наличии снижения толерантности к нагрузке или падения артериального давления во время нагрузки."
+  },
+  {
+    "id": 14,
+    "questionEn": "Which organism is the most common cause of early (<60 days) prosthetic valve endocarditis?",
+    "questionRu": "Какой микроорганизм является наиболее частой причиной раннего (<60 дней) протезного инфекционного эндокардита?",
+    "optionsEn": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococcus epidermidis*",
+      "C": "*HACEK group*",
+      "D": "*Enterococcus faecalis*"
+    },
+    "optionsRu": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococcus epidermidis*",
+      "C": "Группа HACEK",
+      "D": "*Enterococcus faecalis*"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Approximately 60% of early PVE events are associated with **staphylococci**, with *S. epidermidis* (coagulase-negative) being a frequent perioperative contaminant.",
+    "explanationRu": "Примерно 60% случаев раннего протезного ИЭ связаны со **стафилококками**, причем *S. epidermidis* (коагулазоотрицательный) является частым периоперационным контаминантом."
+  },
+  {
+    "id": 15,
+    "questionEn": "What is the primary predictor of recovery in systolic function after surgery for chronic aortic regurgitation?",
+    "questionRu": "Что является основным предиктором восстановления систолической функции после операции по поводу хронической аортальной регургитации?",
+    "optionsEn": {
+      "A": "Preoperative LVEF",
+      "B": "Preoperative LVESD",
+      "C": "Postoperative reduction in LVEDD",
+      "D": "The use of a stentless over a stented prosthesis"
+    },
+    "optionsRu": {
+      "A": "Предоперационная ФВ ЛЖ",
+      "B": "Предоперационный КСР ЛЖ",
+      "C": "Послеоперационное уменьшение КДР ЛЖ",
+      "D": "Использование бескаркасного протеза вместо каркасного"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The best postoperative predictor of systolic recovery is the **reduction in LVEDD**, as the magnitude of this reduction correlates directly with the magnitude of increase in EF. 80% of this reduction occurs within 10–14 days.",
+    "explanationRu": "Лучшим послеоперационным предиктором систолического восстановления является **уменьшение КДР ЛЖ**, так как величина этого уменьшения прямо коррелирует с величиной увеличения ФВ. 80% этого уменьшения происходит в течение 10–14 дней."
+  },
+  {
+    "id": 16,
+    "questionEn": "According to the 'Vortex Theory' of aortic valve closure, what is the specific role of the sinuses of Valsalva?",
+    "questionRu": "Согласно «вихревой теории» закрытия аортального клапана, какова конкретная роль синусов Вальсальвы?",
+    "optionsEn": {
+      "A": "They provide a reservoir for coronary blood flow during systole.",
+      "B": "They create eddy currents that balloon the leaflets away from the aortic wall before pressure equalizes.",
+      "C": "They act as a mechanical buffer to prevent leaflet contact with the coronary ostia.",
+      "D": "They increase the velocity of the jet to ensure the leaflets snap shut by vacuum effect."
+    },
+    "optionsRu": {
+      "A": "Они служат резервуаром для коронарного кровотока во время систолы.",
+      "B": "Они создают завихрения, которые надувают створки в сторону от стенки аорты до выравнивания давления.",
+      "C": "Они действуют как механический буфер, предотвращая контакт створок с устьями коронарных артерий.",
+      "D": "Они увеличивают скорость струи, чтобы створки захлопывались под действием вакуума."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The sources describe the vortex theory where ejection creates vortices in the sinuses that fill and balloon the leaflets toward the aortic axis before closure. Option A is a secondary function but not part of the closure theory. Option C is incorrect as the sinuses help prevent the leaflets from blocking the ostia during systole, not closure. Option D is a misinterpretation of fluid mechanics.",
+    "explanationRu": "Источники описывают вихревую теорию, согласно которой выброс создает завихрения в синусах, которые наполняются и надувают створки по направлению к оси аорты перед закрытием. Вариант А является вторичной функцией, но не частью теории закрытия. Вариант С неверен, так как синусы помогают предотвратить блокирование устьев створками во время систолы, а не закрытие. Вариант D — неверное толкование гидромеханики."
+  },
+  {
+    "id": 17,
+    "questionEn": "What is the actual physical cause of the second heart sound (S2) during aortic valve closure?",
+    "questionRu": "Какова действительная физическая причина возникновения второго тона сердца (S2) при закрытии аортального клапана?",
+    "optionsEn": {
+      "A": "The physical apposition and impact of the three semilunar cusps.",
+      "B": "The sudden stoppage of retrograde blood flow against the closed valve.",
+      "C": "Elastic stretching and recoil of the leaflets generating pressure changes in the blood.",
+      "D": "Turbulent flow through the coronary ostia during early diastole."
+    },
+    "optionsRu": {
+      "A": "Физическое соприкосновение и удар трех полулунных створок.",
+      "B": "Внезапная остановка ретроградного кровотока о закрытый клапан.",
+      "C": "Эластическое растяжение и обратное сокращение створок, вызывающие изменения давления в крови.",
+      "D": "Турбулентный поток через устья коронарных артерий во время ранней диастолы."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources explicitly state that S2 is not produced by the physical apposition of the leaflets, but by the elastic leaflets stretching and recoiling, which generates compression and expansion of the blood. Options A and B are common misconceptions.",
+    "explanationRu": "Источники прямо указывают, что S2 возникает не из-за физического соприкосновения створок, а из-за эластического растяжения и обратного сокращения створок, что вызывает сжатие и расширение крови. Варианты А и В — распространенные заблуждения."
+  },
+  {
+    "id": 18,
+    "questionEn": "A patient has severe AS and requires a mechanical valve. She has atrial fibrillation and a history of a previous TIA. According to the Butchart system, what is the target INR?",
+    "questionRu": "У пациентки тяжелый АС, и ей требуется механический клапан. У нее фибрилляция предсердий и в анамнезе транзиторная ишемическая атака. Согласно системе Butchart, какое целевое МНО?",
+    "optionsEn": {
+      "A": "1.6–2.0",
+      "B": "2.0–2.5",
+      "C": "2.5–3.5",
+      "D": "3.5–4.5"
+    },
+    "optionsRu": {
+      "A": "1,6–2,0",
+      "B": "2,0–2,5",
+      "C": "2,5–3,5",
+      "D": "3,5–4,5"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources recommend an INR of 2.5–3.5 for patients with 'multiple factors' or atrial fibrillation. This patient has both AF and a prior embolic event (TIA). Options A and B are for lower-risk profiles.",
+    "explanationRu": "Источники рекомендуют МНО 2,5–3,5 для пациентов с «множественными факторами» или фибрилляцией предсердий. У этой пациентки есть и ФП, и предшествующее эмболическое событие (ТИА). Варианты А и Б предназначены для профилей более низкого риска."
+  },
+  {
+    "id": 19,
+    "questionEn": "Why was the 'Silzone' silver-coated mechanical valve sewing ring removed from the market?",
+    "questionRu": "Почему механический клапан с серебряным покрытием шовного кольца «Silzone» был снят с рынка?",
+    "optionsEn": {
+      "A": "High rates of silver-induced systemic toxicity.",
+      "B": "The silver coating promoted bacterial growth instead of inhibiting it.",
+      "C": "It doubled the rate of paravalvular leak by impeding the healing of the annular ring.",
+      "D": "The coating caused rapid degradation of the pyrolytic carbon leaflets."
+    },
+    "optionsRu": {
+      "A": "Высокая частота системной токсичности серебра.",
+      "B": "Серебряное покрытие способствовало росту бактерий вместо его подавления.",
+      "C": "Оно удвоило частоту параклапанной утечки, препятствуя заживлению фиброзного кольца.",
+      "D": "Покрытие вызвало быструю деградацию пиролитических углеродных створок."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources note that the Silzone experience showed the silver impregnated in the ring impeded the healing of the annular ring, which doubled the accepted rate of paravalvular leak. Options A and D are incorrect.",
+    "explanationRu": "Источники отмечают, что опыт использования Silzone показал, что серебро, пропитывавшее кольцо, препятствовало заживлению фиброзного кольца, что удвоило приемлемую частоту параклапанной утечки. Варианты А и D неверны."
+  },
+  {
+    "id": 20,
+    "questionEn": "In the 'Reimplantation' (David) technique for valve-sparing surgery, how is the graft diameter determined to ensure proper coaptation?",
+    "questionRu": "При использовании техники «реимплантации» (Дэвид) для клапансохраняющей операции, как определяется диаметр протеза для обеспечения правильной коаптации?",
+    "optionsEn": {
+      "A": "It must equal the diameter of the aortic annulus plus 2 mm.",
+      "B": "It is equal to double the average height of the aortic cusps minus 2 or 3 mm.",
+      "C": "It is determined by the size of the non-coronary sinus only.",
+      "D": "It must match the diameter of the distal ascending aorta to prevent a 'step-off'."
+    },
+    "optionsRu": {
+      "A": "Он должен равняться диаметру фиброзного кольца аорты плюс 2 мм.",
+      "B": "Он равен удвоенной средней высоте аортальных створок минус 2 или 3 мм.",
+      "C": "Он определяется только размером некоронарного синуса.",
+      "D": "Он должен соответствовать диаметру дистальной восходящей аорты, чтобы предотвратить «ступеньку»."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For the reimplantation procedure, the sources specify that a tubular Dacron graft is selected with a diameter equal to double the average height of the cusps minus 2 or 3 mm. Options A and D are incorrect sizing methodologies for this specific operation.",
+    "explanationRu": "Для процедуры реимплантации источники указывают, что трубчатый дакроновый протез выбирается диаметром, равным удвоенной средней высоте створок минус 2 или 3 мм. Варианты А и D являются неверными методологиями определения размера для этой конкретной операции."
+  },
+  {
+    "id": 21,
+    "questionEn": "What is the 'Gold Standard' for measuring the transvalvular gradient in AS when noninvasive tests are discordant with clinical findings?",
+    "questionRu": "Что является «золотым стандартом» для измерения трансклапанного градиента при АС, когда неинвазивные тесты расходятся с клиническими данными?",
+    "optionsEn": {
+      "A": "Multidetector CT Planimetry",
+      "B": "Cardiac Catheterization",
+      "C": "Exercise Stress Echocardiography",
+      "D": "Transesophageal Echocardiography"
+    },
+    "optionsRu": {
+      "A": "Планиметрия при МДКТ",
+      "B": "Катетеризация сердца",
+      "C": "Стресс-эхокардиография с нагрузкой",
+      "D": "Чреспищеводная эхокардиография"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "While echocardiography is the clinical standard, cardiac catheterization remains the 'gold standard' for directly quantifying the transvalvular pressure gradient. CT (Option A) is anatomical, not hemodynamic.",
+    "explanationRu": "Хотя эхокардиография является клиническим стандартом, катетеризация сердца остается «золотым стандартом» для прямого количественного определения трансклапанного градиента давления. КТ (вариант А) является анатомическим, а не гемодинамическим методом."
+  },
+  {
+    "id": 22,
+    "questionEn": "Which sign of acute infective endocarditis (IE) consists of painless, red-blue hemorrhagic lesions on the palms and soles?",
+    "questionRu": "Какой признак острого инфекционного эндокардита (ИЭ) представляет собой безболезненные красно-синие геморрагические поражения на ладонях и подошвах?",
+    "optionsEn": {
+      "A": "Osler nodes",
+      "B": "Roth spots",
+      "C": "Janeway lesions",
+      "D": "Splinter hemorrhages"
+    },
+    "optionsRu": {
+      "A": "Узлы Ослера",
+      "B": "Пятна Рота",
+      "C": "Узелки Дженуэя (Janeway)",
+      "D": "Осколочные кровоизлияния"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Janeway lesions are painless hemorrhagic lesions seen in acute IE. Osler nodes (Option A) are tender and palpable. Roth spots (Option B) are found in the retina.",
+    "explanationRu": "Узелки Дженуэя — это безболезненные геморрагические поражения, наблюдаемые при остром ИЭ. Узлы Ослера (вариант А) болезненны и пальпируются. Пятна Рота (вариант Б) находятся на сетчатке."
+  },
+  {
+    "id": 23,
+    "questionEn": "During a Ross procedure, why does the pulmonary artery (autograft wall) lose its elasticity over time?",
+    "questionRu": "Во время операции Росса почему стенка легочной артерии (аутографта) со временем теряет эластичность?",
+    "optionsEn": {
+      "A": "Chronic rejection from host T-cell infiltration.",
+      "B": "Rapid loss of elastin with fragmentation and increased collagen deposition to withstand systemic pressure.",
+      "C": "Excessive calcification caused by the glutaraldehyde rinsing process.",
+      "D": "Atrophy of the smooth muscle cells in the tunica media."
+    },
+    "optionsRu": {
+      "A": "Хроническое отторжение с инфильтрацией Т-клетками хозяина.",
+      "B": "Быстрая потеря эластина с фрагментацией и усилением отложения коллагена для выдерживания системного давления.",
+      "C": "Чрезмерная кальцификация, вызванная процессом промывки глутаральдегидом.",
+      "D": "Атрофия гладкомышечных клеток в медиальном слое."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The sources describe that the autograft wall undergoes rapid elastin loss and fragmentation, sacrificing elasticity for strength (collagen) to survive systemic pressures. Rejection (Option A) does not occur in autografts.",
+    "explanationRu": "Источники описывают, что стенка аутографта претерпевает быструю потерю эластина и его фрагментацию, жертвуя эластичностью ради прочности (коллагена), чтобы выдерживать системное давление. Отторжения (вариант А) при аутографтах не происходит."
+  },
+  {
+    "id": 24,
+    "questionEn": "In minimally invasive AVR via upper hemisternotomy, why is the 4th intercostal space often favored for the 'T' incision?",
+    "questionRu": "При минимально инвазивной ПАК через верхнюю гемистернотомию, почему 4-е межреберье часто предпочитают для Т-образного разреза?",
+    "optionsEn": {
+      "A": "It avoids the internal mammary arteries entirely.",
+      "B": "it almost always produces the ideal exposure of the aortic root.",
+      "C": "it allows for easier placement of the femoral venous cannula.",
+      "D": "it prevents the risk of lateral sternal fracture."
+    },
+    "optionsRu": {
+      "A": "Оно полностью позволяет избежать внутренних грудных артерий.",
+      "B": "Оно почти всегда обеспечивает идеальный доступ к корню аорты.",
+      "C": "Оно облегчает установку бедренной венозной канюли.",
+      "D": "Оно предотвращает риск латерального перелома грудины."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The sources state that the 4th interspace is favored because it 'almost always produces the ideal exposure'. Option A is incorrect as the IMAs must still be protected.",
+    "explanationRu": "Источники утверждают, что 4-е межреберье предпочтительнее, потому что оно «почти всегда обеспечивает идеальный доступ». Вариант А неверен, так как внутренние грудные артерии все равно необходимо защищать."
+  },
+  {
+    "id": 25,
+    "questionEn": "What was the primary finding of the CHOICE trial regarding TAVR?",
+    "questionRu": "Каков был основной результат исследования CHOICE в отношении TAVR?",
+    "optionsEn": {
+      "A": "Self-expanding CoreValve had superior survival at 30 days.",
+      "B": "Balloon-expandable SAPIEN XT had higher 'device success' due to less paravalvular leak.",
+      "C": "SAPIEN XT had significantly higher rates of permanent pacemaker implantation.",
+      "D": "CoreValve was superior in patients with small femoral access (<6 mm)."
+    },
+    "optionsRu": {
+      "A": "Саморасширяющийся CoreValve имел лучшую выживаемость через 30 дней.",
+      "B": "Баллонорасширяемый SAPIEN XT имел более высокую «эффективность устройства» благодаря меньшей параклапанной утечке.",
+      "C": "SAPIEN XT имел значительно более высокую частоту имплантации постоянного кардиостимулятора.",
+      "D": "CoreValve был лучше у пациентов с малым бедренным доступом (<6 мм)."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The CHOICE trial found higher device success for SAPIEN XT, driven by significantly lower residual moderate-to-severe paravalvular leak (4.1% vs 18.3%). CoreValve actually had higher pacemaker rates (Option C).",
+    "explanationRu": "Исследование CHOICE показало более высокую эффективность устройства для SAPIEN XT, обусловленную значительно меньшей остаточной умеренной и тяжелой параклапанной утечкой (4,1% против 18,3%). CoreValve на самом деле имел более высокую частоту имплантации кардиостимуляторов (вариант С)."
+  },
+  {
+    "id": 26,
+    "questionEn": "Which anatomical structure is at the highest risk of injury during deep debridement of a root abscess between the right and non-coronary cusps?",
+    "questionRu": "Какая анатомическая структура подвергается наибольшему риску повреждения при глубокой обработке абсцесса корня между правой и некоронарной створками?",
+    "optionsEn": {
+      "A": "The Left Main Coronary Artery",
+      "B": "The Anterior Leaflet of the Mitral Valve",
+      "C": "The Bundle of His",
+      "D": "The Right Phrenic Nerve"
+    },
+    "optionsRu": {
+      "A": "Левая главная коронарная артерия",
+      "B": "Передняя створка митрального клапана",
+      "C": "Пучок Гиса",
+      "D": "Правый диафрагмальный нерв"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources note that the Bundle of His is located below the junction of the right and non-coronary cusps in the membranous septum; deep debridement here can cause permanent heart block.",
+    "explanationRu": "Источники отмечают, что пучок Гиса расположен ниже соединения правой и некоронарной створок в мембранозной перегородке; глубокая обработка здесь может вызвать постоянную блокаду сердца."
+  },
+  {
+    "id": 27,
+    "questionEn": "In a patient with end-stage renal disease (ESRD) on dialysis, which is the most accurate statement regarding AVR?",
+    "questionRu": "У пациента с терминальной почечной недостаточностью (ТПН) на диализе, какое утверждение относительно ПАК наиболее точное?",
+    "optionsEn": {
+      "A": "Bioprostheses are contraindicated due to immediate calcification.",
+      "B": "Mechanical valves have better survival but higher stroke rates.",
+      "C": "There is no survival difference between valve types, but mechanical valves increase bleeding/TE risk.",
+      "D": "Only allografts should be used to avoid anticoagulation."
+    },
+    "optionsRu": {
+      "A": "Биопротезы противопоказаны из-за немедленной кальцификации.",
+      "B": "Механические клапаны дают лучшую выживаемость, но более высокую частоту инсультов.",
+      "C": "Нет различий в выживаемости между типами клапанов, но механические клапаны увеличивают риск кровотечений и тромбоэмболий.",
+      "D": "Следует использовать только аллографты, чтобы избежать антикоагуляции."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A systematic review cited in the text found no significant difference in survival between bioprosthetic and mechanical valves in ESRD, but mechanical valves had more bleeding and TE complications.",
+    "explanationRu": "Систематический обзор, цитируемый в тексте, не выявил значительных различий в выживаемости между биопротезами и механическими клапанами при ТПН, но механические клапаны давали больше кровотечений и тромбоэмболических осложнений."
+  },
+  {
+    "id": 28,
+    "questionEn": "What characterizes 'Paradoxical' Low-Gradient AS?",
+    "questionRu": "Что характеризует «парадоксальный» низкоградиентный АС?",
+    "optionsEn": {
+      "A": "LVEF < 40% with a mean gradient > 50 mmHg.",
+      "B": "Preserved LVEF (≥50%) with a small AVA and low mean gradient (<40 mmHg).",
+      "C": "High gradient AS in a patient with a very large AVA (>2.0 cm²).",
+      "D": "AS that only becomes severe during heavy physical exertion."
+    },
+    "optionsRu": {
+      "A": "ФВ ЛЖ <40% со средним градиентом >50 мм рт.ст.",
+      "B": "Сохраненная ФВ ЛЖ (≥50%) с малой AVA и низким средним градиентом (<40 мм рт.ст.).",
+      "C": "Высокоградиентный АС у пациента с очень большой AVA (>2,0 см²).",
+      "D": "АС, который становится тяжелым только при интенсивной физической нагрузке."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Paradoxical low-gradient AS occurs in patients with preserved EF (≥50%) and indexed AVA ≤0.6 cm²/m² but mean gradients <40 mmHg.",
+    "explanationRu": "Парадоксальный низкоградиентный АС возникает у пациентов с сохраненной ФВ (≥50%) и индексированной AVA ≤0,6 см²/м², но средними градиентами <40 мм рт.ст."
+  },
+  {
+    "id": 29,
+    "questionEn": "What is the primary advantage of the 'On-X' mechanical valve design?",
+    "questionRu": "В чем заключается основное преимущество конструкции механического клапана «On-X»?",
+    "optionsEn": {
+      "A": "It is made of stainless steel to prevent carbon fracture.",
+      "B": "It uses a pure, flexible carbon coating that allows 'flanging' of the inflow to mimic normal flow.",
+      "C": "It is the only mechanical valve that does not require any anticoagulation.",
+      "D": "It features a 'ball and cage' design for maximum durability."
+    },
+    "optionsRu": {
+      "A": "Он изготовлен из нержавеющей стали для предотвращения разрушения углерода.",
+      "B": "Он использует чистое, гибкое углеродное покрытие, которое позволяет «отбортовку» притока для имитации нормального потока.",
+      "C": "Это единственный механический клапан, не требующий какой-либо антикоагуляции.",
+      "D": "Он имеет конструкцию «шар в клетке» для максимальной долговечности."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The On-X valve uses advanced pyrolytic carbon technology with a purer, flexible coating allowing flanging of the inflow portion to better mimic normal flow patterns. Option C is incorrect; reduced anticoagulation is studied, but it is not 'none'.",
+    "explanationRu": "Клапан On-X использует передовую технологию пиролитического углерода с более чистым, гибким покрытием, позволяющим отбортовку входной части для лучшей имитации нормальных потоков. Вариант С неверен: изучалось снижение антикоагуляции, но не «полное отсутствие»."
+  },
+  {
+    "id": 30,
+    "questionEn": "Which organism is most associated with large, 'huge' vegetations in infective endocarditis?",
+    "questionRu": "Какой микроорганизм наиболее часто ассоциируется с крупными, «огромными» вегетациями при инфекционном эндокардите?",
+    "optionsEn": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococcus aureus*",
+      "C": "*Fungi (e.g., Candida or Aspergillus)*",
+      "D": "*HACEK group*"
+    },
+    "optionsRu": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococcus aureus*",
+      "C": "Грибы (например, Candida или Aspergillus)",
+      "D": "Группа HACEK"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources state that fungal IE is associated with 'large, sometimes huge, vegetations'.",
+    "explanationRu": "Источники утверждают, что грибковый ИЭ ассоциируется с «большими, иногда огромными вегетациями»."
+  },
+  {
+    "id": 31,
+    "questionEn": "In the management of acute AR caused by aortic dissection, why is the patient often tachycardic?",
+    "questionRu": "При лечении острой аортальной регургитации, вызванной расслоением аорты, почему у пациента часто возникает тахикардия?",
+    "optionsEn": {
+      "A": "To increase the time for coronary filling.",
+      "B": "It is a compensatory response to the acute decline in forward stroke volume.",
+      "C": "Due to the severe pain of the intimal tear.",
+      "D": "It is an iatrogenic effect of the necessary nitroprusside drip."
+    },
+    "optionsRu": {
+      "A": "Чтобы увеличить время коронарного наполнения.",
+      "B": "Это компенсаторная реакция на острое снижение ударного объема.",
+      "C": "Из-за сильной боли от разрыва интимы.",
+      "D": "Это ятрогенный эффект необходимой инфузии нитропруссида."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Tachycardia is described as the 'initial compensatory response' to the acute decline in forward stroke volume caused by the sudden regurgitant load.",
+    "explanationRu": "Тахикардия описывается как «первоначальная компенсаторная реакция» на острое снижение ударного объема, вызванное внезапной регургитационной нагрузкой."
+  },
+  {
+    "id": 32,
+    "questionEn": "For a patient with a Bicuspid Aortic Valve (BAV) undergoing AVR, at what diameter is concomitant replacement of the ascending aorta recommended?",
+    "questionRu": "Для пациента с двустворчатым аортальным клапаном (ДАК), которому выполняется ПАК, при каком диаметре рекомендуется одновременная замена восходящей аорты?",
+    "optionsEn": {
+      "A": ">4.0 cm",
+      "B": ">4.5 cm",
+      "C": ">5.5 cm",
+      "D": "Only if it is larger than the aortic root."
+    },
+    "optionsRu": {
+      "A": ">4,0 см",
+      "B": ">4,5 см",
+      "C": ">5,5 см",
+      "D": "Только если она больше корня аорты."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Guidelines recommend replacing the aorta when the maximal diameter exceeds 4.5 cm in patients already undergoing AV surgery for BAV.",
+    "explanationRu": "Рекомендации рекомендуют заменять аорту, когда максимальный диаметр превышает 4,5 см у пациентов, уже переносящих операцию на аортальном клапане по поводу ДАК."
+  },
+  {
+    "id": 33,
+    "questionEn": "What histological change occurs in the autograft's endothelial cells after a Ross procedure?",
+    "questionRu": "Какое гистологическое изменение происходит в эндотелиальных клетках аутографта после операции Росса?",
+    "optionsEn": {
+      "A": "They undergo apoptosis and are replaced by Dacron-integrated cells.",
+      "B": "They transform to a phenotype capable of smooth muscle actin production, mimicking aortic endothelium.",
+      "C": "They proliferate uncontrollably, leading to early pannus formation.",
+      "D": "They lose all cell-surface markers, becoming 'immunologically silent'."
+    },
+    "optionsRu": {
+      "A": "Они подвергаются апоптозу и заменяются клетками, интегрированными в дакрон.",
+      "B": "Они трансформируются в фенотип, способный продуцировать актин гладких мышц, имитируя аортальный эндотелий.",
+      "C": "Они бесконтрольно пролиферируют, что приводит к раннему образованию паннуса.",
+      "D": "Они теряют все поверхностные маркеры, становясь «иммунологически молчаливыми»."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The sources note that the pulmonary endothelial cells transform to a phenotype capable of smooth muscle actin production, becoming more like the aortic phenotype.",
+    "explanationRu": "Источники отмечают, что эндотелиальные клетки легочной артерии трансформируются в фенотип, способный продуцировать актин гладких мышц, становясь больше похожими на аортальный фенотип."
+  },
+  {
+    "id": 34,
+    "questionEn": "In the PARTNER 1B trial, what was the mortality of medically managed inoperable AS patients at 1 year?",
+    "questionRu": "В исследовании PARTNER 1B какова была летальность среди неоперабельных пациентов с АС, получавших медикаментозное лечение, через 1 год?",
+    "optionsEn": {
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "72%"
+    },
+    "optionsRu": {
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "72%"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "In the PARTNER B cohort, medical management was associated with a 50.7% mortality rate at 1 year, compared to 30.7% for TAVR. (Some sources cite 50% rounded).",
+    "explanationRu": "В когорте PARTNER B медикаментозное лечение было связано с 50,7% летальностью через 1 год по сравнению с 30,7% при TAVR. (Некоторые источники указывают округленно 50%)."
+  },
+  {
+    "id": 35,
+    "questionEn": "Why is 'Systemic Hyperkalemia' used in reoperative minimal access AVR?",
+    "questionRu": "Почему используется «системная гиперкалиемия» при повторной минимально инвазивной ПАК?",
+    "optionsEn": {
+      "A": "To treat the renal failure caused by femoral cannulation.",
+      "B": "To achieve diastolic arrest in territories perfused by patent bypass grafts (like the LIMA) without clipping them.",
+      "C": "To prevent the shivering associated with moderate hypothermia.",
+      "D": "To improve the visibility of the aortic annulus."
+    },
+    "optionsRu": {
+      "A": "Для лечения почечной недостаточности, вызванной канюляцией бедренной артерии.",
+      "B": "Для достижения диастолической остановки в зонах, перфузируемых функционирующими шунтами (например, ВМА), без их клипирования.",
+      "C": "Для предотвращения озноба, связанного с умеренной гипотермией.",
+      "D": "Для улучшения видимости фиброзного кольца аорты."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "achieving systemic hyperkalemia (6–7 mEq/L) allows for diastolic arrest in LIMA-perfused territories, making clipping of the LIMA unnecessary during minimal access reops.",
+    "explanationRu": "Достижение системной гиперкалиемии (6–7 мэкв/л) позволяет обеспечить диастолическую остановку в зонах, перфузируемых ВМА, делая клипирование ВМА ненужным при повторных минимально инвазивных операциях."
+  },
+  {
+    "id": 36,
+    "questionEn": "A 28-year-old female with Marfan syndrome and a 5.0 cm aortic root undergoes a David procedure. Postoperatively, her BP is 155/95 mmHg. Why is aggressive blood pressure control especially critical in the immediate postoperative period for this specific patient?",
+    "questionRu": "Женщина 28 лет с синдромом Марфана и корнем аорты 5,0 см перенесла операцию Дэвида. После операции ее АД 155/95 мм рт.ст. Почему агрессивный контроль артериального давления особенно критичен в ближайшем послеоперационном периоде для этой конкретной пациентки?",
+    "optionsEn": {
+      "A": "Hypertension can cause immediate calcification of the Dacron graft.",
+      "B": "It prevents disruption of the delicate suture lines in the reconstructed aortic root.",
+      "C": "High BP prevents the pulmonary autograft from undergoing adaptive remodeling.",
+      "D": "It is necessary to prevent early pannus formation at the coronary reimplantation sites."
+    },
+    "optionsRu": {
+      "A": "Гипертензия может вызвать немедленную кальцификацию дакронового протеза.",
+      "B": "Это предотвращает нарушение целостности деликатных швов в реконструированном корне аорты.",
+      "C": "Высокое АД препятствует адаптивному ремоделированию легочного аутографта.",
+      "D": "Это необходимо для предотвращения раннего образования паннуса в местах реимплантации коронарных артерий."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The sources emphasize that even mild hypertension must be avoided to prevent disruption of the crucial and complex suture lines involved in aortic root reconstruction. While hypertension is also a risk for autograft dilatation in the Ross procedure, for a David procedure (reimplantation), the primary immediate concern is the integrity of the extensive suture work within the graft.",
+    "explanationRu": "Источники подчеркивают, что даже мягкой гипертензии следует избегать, чтобы предотвратить нарушение целостности критически важных и сложных швов при реконструкции корня аорты. Хотя гипертензия также является риском дилатации аутографта при операции Росса, для процедуры Дэвида (реимплантация) основной непосредственной проблемой является состоятельность обширных швов внутри протеза."
+  },
+  {
+    "id": 37,
+    "questionEn": "During a minimally invasive AVR via upper hemisternotomy, the surgeon decides to 'T' the sternotomy into the 4th intercostal space. What is the primary risk if the midline sternotomy is carried too far beyond the level of this transverse incision?",
+    "questionRu": "При минимально инвазивной ПАК через верхнюю гемистернотомию хирург решает выполнить Т-образный разрез грудины в 4-е межреберье. Каков основной риск, если срединная стернотомия проведена слишком далеко за пределы уровня этого поперечного разреза?",
+    "optionsEn": {
+      "A": "Injury to the right phrenic nerve.",
+      "B": "Inability to place a retrograde cardioplegia cannula.",
+      "C": "A lateral fracture resulting in three unstable sternal fragments.",
+      "D": "Immediate requirement for femoral-femoral bypass."
+    },
+    "optionsRu": {
+      "A": "Повреждение правого диафрагмального нерва.",
+      "B": "Невозможность установки канюли для ретроградной кардиоплегии.",
+      "C": "Латеральный перелом, приводящий к трем нестабильным фрагментам грудины.",
+      "D": "Немедленная необходимость в бедренно-бедренном шунтировании."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Carrying the midline cut beyond the 'T' often leads to a lateral fracture, creating three separate sternal fragments, which compromises stability and makes closure difficult.",
+    "explanationRu": "Проведение срединного разреза за пределы Т-образного часто приводит к латеральному перелому, создавая три отдельных фрагмента грудины, что нарушает стабильность и затрудняет закрытие."
+  },
+  {
+    "id": 38,
+    "questionEn": "Which organism is most specifically associated with large, 'cauliflower-like' vegetations that frequently lead to periannular invasion and heart block in aortic valve IE?",
+    "questionRu": "Какой микроорганизм наиболее специфически ассоциируется с крупными, «цветообразными» вегетациями, которые часто приводят к перианнулярной инвазии и блокаде сердца при ИЭ аортального клапана?",
+    "optionsEn": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococcus aureus*",
+      "C": "*Enterococcus faecalis*",
+      "D": "*Coxiella burnetii*"
+    },
+    "optionsRu": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococcus aureus*",
+      "C": "*Enterococcus faecalis*",
+      "D": "*Coxiella burnetii*"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "*S. aureus* is noted for being a virulent organism that causes rapid destruction and invasive complications like abscesses and heart block, often presenting with large vegetations. Fungi also cause large vegetations, but *S. aureus* is the most common bacterial cause of such invasive destruction.",
+    "explanationRu": "*S. aureus* известен как вирулентный микроорганизм, вызывающий быстрое разрушение и инвазивные осложнения, такие как абсцессы и блокада сердца, часто проявляясь крупными вегетациями. Грибы также вызывают крупные вегетации, но *S. aureus* является наиболее частой бактериальной причиной такой инвазивной деструкции."
+  },
+  {
+    "id": 39,
+    "questionEn": "In the context of the Ross procedure, what is the 'scaffold' theory regarding the use of decellularized homografts in the RVOT?",
+    "questionRu": "В контексте операции Росса, что такое «теория скаффолда» (каркаса) в отношении использования децеллюляризованных гомографтов в выводном тракте правого желудочка (ВТПЖ)?",
+    "optionsEn": {
+      "A": "The decellularized matrix acts as a mechanical stent that never calcifies.",
+      "B": "It attracts circulating recipient stem cells that repopulate the framework into viable tissue.",
+      "C": "It provides a surface for immediate endothelialization using porcine-derived growth factors.",
+      "D": "The matrix is designed to slowly dissolve as the recipient's own pulmonary artery grows."
+    },
+    "optionsRu": {
+      "A": "Децеллюляризованный матрикс действует как механический стент, который никогда не кальцифицируется.",
+      "B": "Он привлекает циркулирующие стволовые клетки реципиента, которые заселяют каркас, превращая его в жизнеспособную ткань.",
+      "C": "Он обеспечивает поверхность для немедленной эндотелиализации с использованием факторов роста свиного происхождения.",
+      "D": "Матрикс предназначен для медленного растворения по мере роста собственной легочной артерии реципиента."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Decellularization removes antigenic proteins, leaving an inert matrix that appears to attract recipient stem cells, which then differentiate to maintain the matrix.",
+    "explanationRu": "Децеллюляризация удаляет антигенные белки, оставляя инертный матрикс, который, по-видимому, привлекает стволовые клетки реципиента, которые затем дифференцируются для поддержания матрикса."
+  },
+  {
+    "id": 40,
+    "questionEn": "A patient with severe AS and a small aortic root is being considered for a Medtronic Freestyle valve. Which implantation technique is considered the most technically demanding and potentially prone to early failure if commissural alignment is not perfect?",
+    "questionRu": "Пациенту с тяжелым АС и малым корнем аорты рассматривается имплантация клапана Medtronic Freestyle. Какая техника имплантации считается наиболее технически сложной и потенциально склонной к раннему отказу, если выравнивание комиссур не идеально?",
+    "optionsEn": {
+      "A": "Full Root Replacement",
+      "B": "Inclusion Root (Cylinder) Technique",
+      "C": "Subcoronary Technique",
+      "D": "Bio-Bentall with coronary buttons"
+    },
+    "optionsRu": {
+      "A": "Полная замена корня",
+      "B": "Техника «включенного корня» (цилиндр)",
+      "C": "Субкоронарная техника",
+      "D": "Bio-Bentall с коронарными пуговками"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The subcoronary technique is described as the most demanding because even slight malalignment of the commissures can result in significant valvular regurgitation.",
+    "explanationRu": "Субкоронарная техника описывается как наиболее сложная, потому что даже небольшое смещение комиссур может привести к значительной регургитации на клапане."
+  },
+  {
+    "id": 41,
+    "questionEn": "According to the 'Vortex Theory,' how does the blood behave in the sinuses of Valsalva during the end of systole?",
+    "questionRu": "Согласно «вихревой теории», как ведет себя кровь в синусах Вальсальвы в конце систолы?",
+    "optionsEn": {
+      "A": "It remains stagnant to allow for maximal coronary ostial filling.",
+      "B": "It creates eddy currents that balloon the leaflets toward the aortic axis to initiate closure.",
+      "C": "It flows in a retrograde fashion to wash the nodules of Arantius.",
+      "D": "It creates a high-pressure zone that forces the sinotubular junction to constrict."
+    },
+    "optionsRu": {
+      "A": "Она остается неподвижной, чтобы обеспечить максимальное наполнение устьев коронарных артерий.",
+      "B": "Она создает завихрения, которые надувают створки по направлению к оси аорты для инициации закрытия.",
+      "C": "Она течет ретроградно, чтобы омывать узелки Аранция.",
+      "D": "Она создает зону высокого давления, которая заставляет синотубулярное соединение сужаться."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Eddy currents or vortices fill the sinuses at the end of ejection, 'ballooning' the leaflets away from the wall and toward the center, which facilitates rapid closure when pressure equalizes.",
+    "explanationRu": "Завихрения или вихри заполняют синусы в конце изгнания, «раздувая» створки от стенки к центру, что способствует быстрому закрытию при выравнивании давления."
+  },
+  {
+    "id": 42,
+    "questionEn": "For a patient with a Bicuspid Aortic Valve (BAV) and an ascending aortic diameter of 4.6 cm, what is the 2014 ACC/AHA Class IIa recommendation?",
+    "questionRu": "Для пациента с двустворчатым аортальным клапаном (ДАК) и диаметром восходящей аорты 4,6 см, какова рекомендация класса IIa ACC/AHA 2014 года?",
+    "optionsEn": {
+      "A": "AVR alone; the aorta can be monitored if it is <5.0 cm.",
+      "B": "Concomitant replacement of the ascending aorta.",
+      "C": "Reduction aortoplasty without graft replacement.",
+      "D": "David procedure to preserve the valve regardless of the aortic size."
+    },
+    "optionsRu": {
+      "A": "Только ПАК; аорта может наблюдаться, если ее диаметр <5,0 см.",
+      "B": "Одновременная замена восходящей аорты.",
+      "C": "Редукционная аортопластика без замены протезом.",
+      "D": "Процедура Дэвида для сохранения клапана независимо от размера аорты."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The guidelines recommend replacing the ascending aorta when the diameter exceeds 4.5 cm in patients already undergoing AVR for a bicuspid valve.",
+    "explanationRu": "Рекомендации советуют заменять восходящую аорту, когда диаметр превышает 4,5 см у пациентов, уже переносящих ПАК по поводу двустворчатого клапана."
+  },
+  {
+    "id": 43,
+    "questionEn": "Which specific anatomical feature of the St. Jude Medical Regent valve allows for the implantation of a larger prosthesis compared to previous generations?",
+    "questionRu": "Какая конкретная анатомическая особенность клапана St. Jude Medical Regent позволяет имплантировать протез большего размера по сравнению с предыдущими поколениями?",
+    "optionsEn": {
+      "A": "A flexible sewing ring made of silver-impregnated Silzone.",
+      "B": "A redefined external profile where only the pivot guards protrude into the annulus.",
+      "C": "A ball-and-cage design that sits entirely supra-annularly.",
+      "D": "Leaflets made of bovine pericardium instead of pyrolytic carbon."
+    },
+    "optionsRu": {
+      "A": "Гибкое шовное кольцо из пропитанного серебром Silzone.",
+      "B": "Переопределенный внешний профиль, при котором только защитные элементы шарниров выступают в фиброзное кольцо.",
+      "C": "Конструкция «шар в клетке», расположенная полностью супрааннулярно.",
+      "D": "Створки из бычьего перикарда вместо пиролитического углерода."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Regent valve's design redefined the external profile so that it sits supra-annularly, with only the pivot guards inside the annulus, effectively increasing the orifice area for a given size.",
+    "explanationRu": "Конструкция клапана Regent переопределила внешний профиль так, что он располагается супрааннулярно, и только защитные элементы шарниров находятся внутри кольца, что эффективно увеличивает площадь отверстия для данного размера."
+  },
+  {
+    "id": 44,
+    "questionEn": "In a patient with active IE and a brain MRI showing a 'silent' 1.0 cm ischemic stroke, what is the recommended surgical timing if the patient is stable?",
+    "questionRu": "У пациента с активным ИЭ и МРТ головного мозга, показывающей «немой» ишемический инсульт размером 1,0 см, каковы рекомендуемые сроки операции, если пациент стабилен?",
+    "optionsEn": {
+      "A": "Emergency surgery within 24 hours.",
+      "B": "Urgent surgery within 48–72 hours.",
+      "C": "Delay surgery for 4 weeks to ensure full healing.",
+      "D": "Surgery is contraindicated for 6 months after any stroke."
+    },
+    "optionsRu": {
+      "A": "Экстренная операция в течение 24 часов.",
+      "B": "Срочная операция в течение 48–72 часов.",
+      "C": "Отсрочить операцию на 4 недели для полного заживления.",
+      "D": "Операция противопоказана в течение 6 месяцев после любого инсульта."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For stable patients with ischemic strokes, early surgery is generally justified and recommended to prevent further embolization, as the penalty for operating under antibiotic coverage is minimized. (Hemorrhagic strokes require a longer delay).",
+    "explanationRu": "Для стабильных пациентов с ишемическими инсультами ранняя операция обычно оправдана и рекомендуется для предотвращения дальнейшей эмболизации, так как риск операции на фоне антибиотикотерапии минимален. (Геморрагические инсульты требуют более длительной отсрочки)."
+  },
+  {
+    "id": 45,
+    "questionEn": "What is the primary predictor of persistent LV dilation after surgery for chronic aortic regurgitation?",
+    "questionRu": "Что является основным предиктором стойкой дилатации ЛЖ после операции по поводу хронической аортальной регургитации?",
+    "optionsEn": {
+      "A": "Preoperative Mean Gradient.",
+      "B": "Preoperative LVESD (End-Systolic Dimension).",
+      "C": "Postoperative reduction in LVEDD.",
+      "D": "Use of a mechanical over a biologic valve."
+    },
+    "optionsRu": {
+      "A": "Предоперационный средний градиент.",
+      "B": "Предоперационный конечно-систолический размер (КСР) ЛЖ.",
+      "C": "Послеоперационное уменьшение КДР ЛЖ.",
+      "D": "Использование механического клапана вместо биологического."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The best predictors of *persistent* (failure to regress) LV dilation are greater preoperative LVESD and end-diastolic radius-to-wall thickness ratio.",
+    "explanationRu": "Лучшими предикторами *стойкой* (отсутствия регресса) дилатации ЛЖ являются больший предоперационный КСР ЛЖ и отношение радиуса в конце диастолы к толщине стенки."
+  },
+  {
+    "id": 46,
+    "questionEn": "During reoperative minimal access AVR, why is systemic hyperkalemia (6–7 mEq/L) utilized?",
+    "questionRu": "При повторной минимально инвазивной ПАК, почему используется системная гиперкалиемия (6–7 мэкв/л)?",
+    "optionsEn": {
+      "A": "To treat renal failure caused by the bypass machine.",
+      "B": "To achieve diastolic arrest in LAD territory perfused by a patent LIMA without clipping the graft.",
+      "C": "To increase the heart's contractility before weaning from bypass.",
+      "D": "To prevent systemic vasodilation caused by warm blood cardioplegia."
+    },
+    "optionsRu": {
+      "A": "Для лечения почечной недостаточности, вызванной аппаратом ИК.",
+      "B": "Для достижения диастолической остановки в бассейне ПМЖВ, перфузируемом функционирующей ВМА, без клипирования шунта.",
+      "C": "Для увеличения сократимости сердца перед отключением от ИК.",
+      "D": "Для предотвращения системной вазодилатации, вызванной тепловой кардиоплегией."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In minimal access reops where the LIMA is not dissected or clipped, systemic hyperkalemia ensures the territory perfused by the LIMA remains in diastolic arrest and quiescent.",
+    "explanationRu": "При повторных минимально инвазивных операциях, где ВМА не диссецируется и не клипируется, системная гиперкалиемия гарантирует, что зона, перфузируемая ВМА, остается в диастолической остановке и неподвижной."
+  },
+  {
+    "id": 47,
+    "questionEn": "Which trial demonstrated that the balloon-expandable SAPIEN XT had a higher 'device success' rate than the self-expanding CoreValve, primarily due to less paravalvular leak?",
+    "questionRu": "Какое исследование показало, что баллонорасширяемый SAPIEN XT имел более высокую частоту «эффективности устройства», чем саморасширяющийся CoreValve, главным образом за счет меньшей параклапанной утечки?",
+    "optionsEn": {
+      "A": "PARTNER 1A",
+      "B": "CHOICE Trial",
+      "C": "STACCATO",
+      "D": "RE-ALIGN"
+    },
+    "optionsRu": {
+      "A": "PARTNER 1A",
+      "B": "Исследование CHOICE",
+      "C": "STACCATO",
+      "D": "RE-ALIGN"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The CHOICE trial randomized patients to SAPIEN XT vs. CoreValve and found higher device success for SAPIEN XT (95.9% vs 77.5%) due to significantly lower moderate-to-severe paravalvular leak.",
+    "explanationRu": "Исследование CHOICE рандомизировало пациентов на SAPIEN XT и CoreValve и показало более высокую эффективность устройства для SAPIEN XT (95,9% против 77,5%) из-за значительно меньшей умеренной и тяжелой параклапанной утечки."
+  },
+  {
+    "id": 48,
+    "questionEn": "Why was the right parasternal approach for minimally invasive AVR largely abandoned in favor of upper hemisternotomy?",
+    "questionRu": "Почему правый парастернальный доступ для минимально инвазивной ПАК был в значительной степени оставлен в пользу верхней гемистернотомии?",
+    "optionsEn": {
+      "A": "Higher rates of stroke.",
+      "B": "Sacrifice of both internal mammary arteries.",
+      "C": "Incidence of lung herniation.",
+      "D": "Requirement for deep hypothermic circulatory arrest in all cases."
+    },
+    "optionsRu": {
+      "A": "Более высокая частота инсультов.",
+      "B": "Потеря обеих внутренних грудных артерий.",
+      "C": "Частота грыжи легкого.",
+      "D": "Необходимость глубокой гипотермической остановки кровообращения во всех случаях."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The right parasternal approach provided good exposure but was associated with lung herniation through the costal cartilage defects, which was a 'cosmetic disaster' and physiologically disturbing.",
+    "explanationRu": "Правый парастернальный доступ обеспечивал хороший обзор, но был связан с грыжей легкого через дефекты реберных хрящей, что было «косметической катастрофой» и физиологически неприятно."
+  },
+  {
+    "id": 49,
+    "questionEn": "A 32-year-old male receives a mechanical aortic valve. He is in normal sinus rhythm with a normal EF and no other risk factors. According to the Butchart scoring system and Cohn’s target INR table, what is his target INR?",
+    "questionRu": "Мужчина 32 лет получает механический аортальный клапан. У него нормальный синусовый ритм, нормальная ФВ и отсутствуют другие факторы риска. Согласно шкале Butchart и таблице целевого МНО Cohn, каково его целевое МНО?",
+    "optionsEn": {
+      "A": "1.5–2.0 + Aspirin",
+      "B": "2.0–2.5 + Aspirin",
+      "C": "2.5–3.5",
+      "D": "3.5–4.5"
+    },
+    "optionsRu": {
+      "A": "1,5–2,0 + Аспирин",
+      "B": "2,0–2,5 + Аспирин",
+      "C": "2,5–3,5",
+      "D": "3,5–4,5"
+    },
+    "correctAnswer": "A",
+    "explanationEn": "For a patient with a mechanical valve, NSR, and a normal EF (no traditional or non-traditional risk factors), the recommended target INR is 1.6–2.0 with the addition of aspirin.",
+    "explanationRu": "Для пациента с механическим клапаном, синусовым ритмом и нормальной ФВ (отсутствие традиционных и нетрадиционных факторов риска) рекомендуемое целевое МНО составляет 1,6–2,0 с добавлением аспирина."
+  },
+  {
+    "id": 50,
+    "questionEn": "What characterizes the 'Paradoxical' Low-Gradient AS (Stage D3)?",
+    "questionRu": "Что характеризует «парадоксальный» низкоградиентный АС (стадия D3)?",
+    "optionsEn": {
+      "A": "LVEF < 50% with a mean gradient > 40 mmHg.",
+      "B": "Preserved LVEF (≥50%) with a mean gradient < 40 mmHg and indexed AVA ≤ 0.6 cm²/m².",
+      "C": "Normal AVA with a very high gradient during stress.",
+      "D": "Severe AS symptoms in a patient with mild calcification."
+    },
+    "optionsRu": {
+      "A": "ФВ ЛЖ <50% со средним градиентом >40 мм рт.ст.",
+      "B": "Сохраненная ФВ ЛЖ (≥50%) со средним градиентом <40 мм рт.ст. и индексированной AVA ≤0,6 см²/м².",
+      "C": "Нормальная AVA с очень высоким градиентом при нагрузке.",
+      "D": "Симптомы тяжелого АС у пациента с незначительным кальцинозом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Paradoxical low-gradient AS occurs in patients with *preserved* EF (≥50%) where the stroke volume is low, resulting in a low gradient despite a small valve area.",
+    "explanationRu": "Парадоксальный низкоградиентный АС возникает у пациентов с *сохраненной* ФВ (≥50%), у которых ударный объем низок, что приводит к низкому градиенту, несмотря на малую площадь клапана."
+  },
+  {
+    "id": 51,
+    "questionEn": "Which anatomical landmark marks the junction between the left ventricle and the proximal aorta?",
+    "questionRu": "Какой анатомический ориентир обозначает соединение между левым желудочком и проксимальной аортой?",
+    "optionsEn": {
+      "A": "Sinotubular Junction",
+      "B": "Ventriculoarterial (VA) Junction",
+      "C": "Nodules of Arantius",
+      "D": "Aortomitral Curtain"
+    },
+    "optionsRu": {
+      "A": "Синотубулярное соединение",
+      "B": "Желудочково-артериальное (ЖА) соединение",
+      "C": "Узелки Аранция",
+      "D": "Аорто-митральная заслонка"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The ventriculoarterial junction marks the proximal border of the aortic root, whereas the sinotubular junction marks the distal border.",
+    "explanationRu": "Желудочково-артериальное соединение обозначает проксимальную границу корня аорты, тогда как синотубулярное соединение обозначает дистальную границу."
+  },
+  {
+    "id": 52,
+    "questionEn": "In the 'Reimplantation' technique (David procedure), where are the sutures for the proximal suture line passed relative to the aortic annulus?",
+    "questionRu": "В технике «реимплантации» (процедура Дэвида), где проходят швы для проксимальной линии шва относительно фиброзного кольца аорты?",
+    "optionsEn": {
+      "A": "5 mm above the commissures.",
+      "B": "Through the sinotubular junction.",
+      "C": "Immediately below the nadir of the aortic annulus in a single horizontal plane.",
+      "D": "Only through the muscular portion of the septum to avoid the mitral valve."
+    },
+    "optionsRu": {
+      "A": "На 5 мм выше комиссур.",
+      "B": "Через синотубулярное соединение.",
+      "C": "Непосредственно ниже надира фиброзного кольца аорты в одной горизонтальной плоскости.",
+      "D": "Только через мышечную часть перегородки, чтобы избежать митрального клапана."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sutures are passed from the inside to the outside of the LVOT, immediately below the nadir of the aortic annulus, following a scalloped shape along the muscular septum and a horizontal plane elsewhere.",
+    "explanationRu": "Швы проводятся изнутри наружу выносящего тракта ЛЖ, непосредственно ниже надира фиброзного кольца аорты, следуя фестончатой форме вдоль мышечной перегородки и горизонтальной плоскости в остальных местах."
+  },
+  {
+    "id": 53,
+    "questionEn": "What histological transformation occurs in the endothelial cells of a pulmonary autograft after it is placed in the aortic position?",
+    "questionRu": "Какое гистологическое превращение происходит в эндотелиальных клетках легочного аутографта после его помещения в аортальную позицию?",
+    "optionsEn": {
+      "A": "They undergo programmed cell death (apoptosis).",
+      "B": "They transform to a phenotype capable of smooth muscle actin production.",
+      "C": "They become highly antigenic, requiring immunosuppression.",
+      "D": "They stop producing nitric oxide to allow for wall thickening."
+    },
+    "optionsRu": {
+      "A": "Они подвергаются программируемой клеточной смерти (апоптозу).",
+      "B": "Они трансформируются в фенотип, способный продуцировать актин гладких мышц.",
+      "C": "Они становятся высоко антигенными, требуя иммуносупрессии.",
+      "D": "Они перестают производить оксид азота, чтобы позволить утолщение стенки."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The living pulmonary endothelial cells adapt to the systemic environment by transforming to a phenotype that produces smooth muscle actin, becoming more similar to the aortic phenotype.",
+    "explanationRu": "Живые эндотелиальные клетки легочной артерии адаптируются к системным условиям, трансформируясь в фенотип, который продуцирует актин гладких мышц, становясь более похожим на аортальный фенотип."
+  },
+  {
+    "id": 54,
+    "questionEn": "In the PARTNER 1B trial, what was the mortality rate for inoperable AS patients managed with medical therapy (including BAV) at 1 year?",
+    "questionRu": "В исследовании PARTNER 1B какова была летальность среди неоперабельных пациентов с АС, получавших медикаментозную терапию (включая баллонную вальвулопластику), через 1 год?",
+    "optionsEn": {
+      "A": "10.7%",
+      "B": "30.7%",
+      "C": "50.7%",
+      "D": "72.0%"
+    },
+    "optionsRu": {
+      "A": "10,7%",
+      "B": "30,7%",
+      "C": "50,7%",
+      "D": "72,0%"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The PARTNER IB trial reported a 1-year mortality of 50.7% for the medical management group vs. 30.7% for the TAVR group. (By 2 years, it rose to 68%).",
+    "explanationRu": "Исследование PARTNER IB сообщило о 50,7% летальности через 1 год в группе медикаментозного лечения против 30,7% в группе TAVR. (К 2 годам она выросла до 68%)."
+  },
+  {
+    "id": 55,
+    "questionEn": "Which anatomical structure is most at risk during deep debridement of a root abscess between the right and noncoronary cusps?",
+    "questionRu": "Какая анатомическая структура подвергается наибольшему риску при глубокой обработке абсцесса корня между правой и некоронарной створками?",
+    "optionsEn": {
+      "A": "The Left Main Coronary Artery",
+      "B": "The Bundle of His",
+      "C": "The Anterior Leaflet of the Mitral Valve",
+      "D": "The Left Phrenic Nerve"
+    },
+    "optionsRu": {
+      "A": "Левая главная коронарная артерия",
+      "B": "Пучок Гиса",
+      "C": "Передняя створка митрального клапана",
+      "D": "Левый диафрагмальный нерв"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The bundle of His is located below the junction of the right and noncoronary cusps in the membranous septum; debridement here can cause permanent heart block.",
+    "explanationRu": "Пучок Гиса расположен ниже соединения правой и некоронарной створок в мембранозной перегородке; обработка здесь может вызвать постоянную блокаду сердца."
+  },
+  {
+    "id": 56,
+    "questionEn": "A patient with ESRD on dialysis requires AVR. According to a systematic review cited in the sources, what is the best prosthesis choice?",
+    "questionRu": "Пациенту с ТПН на диализе требуется ПАК. Согласно систематическому обзору, цитируемому в источниках, какой выбор протеза наилучший?",
+    "optionsEn": {
+      "A": "Bioprostheses are always superior to prevent bleeding.",
+      "B": "Mechanical valves are mandatory because bioprostheses calcify in months.",
+      "C": "No survival difference exists, but mechanical valves have higher bleeding and thromboembolism rates.",
+      "D": "Only human homografts provide long-term survival in this group."
+    },
+    "optionsRu": {
+      "A": "Биопротезы всегда предпочтительнее для предотвращения кровотечений.",
+      "B": "Механические клапаны обязательны, потому что биопротезы кальцифицируются за месяцы.",
+      "C": "Нет разницы в выживаемости, но механические клапаны имеют более высокие показатели кровотечений и тромбоэмболий.",
+      "D": "Только человеческие гомографты обеспечивают долгосрочную выживаемость в этой группе."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources cite a systematic review finding no difference in survival, but higher complications (bleeding/TE) with mechanical valves in the ESRD population.",
+    "explanationRu": "Источники цитируют систематический обзор, не находящий различий в выживаемости, но более высокие осложнения (кровотечения/ТЭ) с механическими клапанами в популяции ТПН."
+  },
+  {
+    "id": 57,
+    "questionEn": "What was the 'Silzone' experience related to paravalvular leaks?",
+    "questionRu": "С чем был связан опыт использования «Silzone» в отношении параклапанных утечек?",
+    "optionsEn": {
+      "A": "The silver coating caused the carbon leaflets to stick.",
+      "B": "The silver impeded the healing of the annulus, doubling the rate of paravalvular leak.",
+      "C": "The silver coating promoted staphylococcal growth.",
+      "D": "The ring was too rigid, causing annular fractures."
+    },
+    "optionsRu": {
+      "A": "Серебряное покрытие вызвало слипание углеродных створок.",
+      "B": "Серебро препятствовало заживлению фиброзного кольца, удвоив частоту параклапанной утечки.",
+      "C": "Серебряное покрытие способствовало росту стафилококков.",
+      "D": "Кольцо было слишком жестким, вызывая переломы кольца."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Silver impregnated in the Silzone sewing ring was intended to be antimicrobial but instead impeded annular healing, which doubled the rate of paravalvular leak.",
+    "explanationRu": "Серебро, пропитывавшее шовное кольцо Silzone, должно было быть антимикробным, но вместо этого препятствовало заживлению кольца, что удвоило частоту параклапанной утечки."
+  },
+  {
+    "id": 58,
+    "questionEn": "For asymptomatic patients with chronic severe AR, at what LV end-systolic dimension (LVESD) is AVR recommended (Class IIa)?",
+    "questionRu": "Для бессимптомных пациентов с хронической тяжелой АР, при каком конечно-систолическом размере (КСР) ЛЖ рекомендуется ПАК (класс IIa)?",
+    "optionsEn": {
+      "A": ">40 mm",
+      "B": ">45 mm",
+      "C": ">50 mm",
+      "D": ">65 mm"
+    },
+    "optionsRu": {
+      "A": ">40 мм",
+      "B": ">45 мм",
+      "C": ">50 мм",
+      "D": ">65 мм"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "In asymptomatic patients with normal LVEF, surgery is reasonable if the LVESD approaches or exceeds 50 mm. (LVEDD > 65 mm is also a trigger).",
+    "explanationRu": "У бессимптомных пациентов с нормальной ФВ ЛЖ операция разумна, если КСР ЛЖ приближается к 50 мм или превышает его. (КДР ЛЖ >65 мм также является триггером)."
+  },
+  {
+    "id": 59,
+    "questionEn": "What histological change happens to the autograft *wall* (pulmonary artery) over time in the Ross procedure?",
+    "questionRu": "Какое гистологическое изменение происходит со *стенкой* аутографта (легочной артерией) со временем при операции Росса?",
+    "optionsEn": {
+      "A": "It gains elastin to match the aorta.",
+      "B": "Rapid loss of elastin with fragmentation and increasing collagen deposition.",
+      "C": "It develops a significant media layer with vasa vasorum.",
+      "D": "It remains histologically identical to the native pulmonary artery."
+    },
+    "optionsRu": {
+      "A": "Она приобретает эластин, чтобы соответствовать аорте.",
+      "B": "Быстрая потеря эластина с фрагментацией и усилением отложения коллагена.",
+      "C": "Она развивает значительный медиальный слой с vasa vasorum.",
+      "D": "Она остается гистологически идентичной нативной легочной артерии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Unlike the leaflets, which stay viable, the autograft *wall* sacrifices elasticity for strength, losing elastin and gaining collagen to withstand systemic pressures.",
+    "explanationRu": "В отличие от створок, которые остаются жизнеспособными, *стенка* аутографта жертвует эластичностью ради прочности, теряя эластин и приобретая коллаген, чтобы выдерживать системное давление."
+  },
+  {
+    "id": 60,
+    "questionEn": "Which trial established that TAVR is 'reasonable' for high-risk *operable* patients?",
+    "questionRu": "Какое исследование установило, что TAVR является «разумным» для *операбельных* пациентов высокого риска?",
+    "optionsEn": {
+      "A": "PARTNER 1A",
+      "B": "PARTNER 1B",
+      "C": "CHOICE",
+      "D": "RE-ALIGN"
+    },
+    "optionsRu": {
+      "A": "PARTNER 1A",
+      "B": "PARTNER 1B",
+      "C": "CHOICE",
+      "D": "RE-ALIGN"
+    },
+    "correctAnswer": "A",
+    "explanationEn": "PARTNER 1A compared TAVR to surgery in high-risk operable patients and showed similar mortality, making TAVR a reasonable alternative.",
+    "explanationRu": "PARTNER 1A сравнил TAVR с хирургией у операбельных пациентов высокого риска и показал схожую летальность, что делает TAVR разумной альтернативой."
+  },
+  {
+    "id": 61,
+    "questionEn": "A 30-year-old woman with a mechanical valve is pregnant. If her daily Warfarin dose is >5 mg/day, what is the recommended strategy for the first trimester?",
+    "questionRu": "Беременная женщина 30 лет с механическим клапаном. Если ее суточная доза варфарина составляет >5 мг/сут, какова рекомендуемая стратегия для первого триместра?",
+    "optionsEn": {
+      "A": "Continue Warfarin; the dose does not matter.",
+      "B": "Switch to Unfractionated Heparin (UFH) or LMWH.",
+      "C": "Switch to Clopidogrel.",
+      "D": "Stop all anticoagulation until the second trimester."
+    },
+    "optionsRu": {
+      "A": "Продолжить варфарин; доза не имеет значения.",
+      "B": "Перейти на нефракционированный гепарин (НФГ) или НМГ.",
+      "C": "Перейти на клопидогрел.",
+      "D": "Прекратить всю антикоагуляцию до второго триместра."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients requiring >5 mg/day of Warfarin, guidelines recommend switching to UFH or LMWH during the first trimester to avoid embryopathy.",
+    "explanationRu": "Для пациентов, требующих >5 мг/сут варфарина, рекомендации советуют переходить на НФГ или НМГ в первом триместре, чтобы избежать эмбриопатии."
+  },
+  {
+    "id": 62,
+    "questionEn": "In a reoperative minimally invasive AVR with patent vein grafts, what is the strategy for myocardial protection?",
+    "questionRu": "При повторной минимально инвазивной ПАК с функционирующими венозными шунтами, какова стратегия миокардиальной защиты?",
+    "optionsEn": {
+      "A": "Direct ostial antegrade cardioplegia only.",
+      "B": "The vein grafts must be clamped to prevent cardioplegia washout.",
+      "C": "Retrograde cardioplegia is particularly beneficial.",
+      "D": "No cardioplegia; the heart must be beating."
+    },
+    "optionsRu": {
+      "A": "Только прямая устьевая антеградная кардиоплегия.",
+      "B": "Венозные шунты должны быть пережаты для предотвращения вымывания кардиоплегии.",
+      "C": "Ретроградная кардиоплегия особенно полезна.",
+      "D": "Без кардиоплегии; сердце должно биться."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Retrograde cardioplegia is helpful in patients with significant AR or patent old bypass grafts to ensure adequate myocardial distribution.",
+    "explanationRu": "Ретроградная кардиоплегия полезна у пациентов со значительной АР или старыми функционирующими шунтами для обеспечения адекватного распределения по миокарду."
+  },
+  {
+    "id": 63,
+    "questionEn": "What is the most common cause of early (<60 days) prosthetic valve endocarditis?",
+    "questionRu": "Какова наиболее частая причина раннего (<60 дней) протезного инфекционного эндокардита?",
+    "optionsEn": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococci*",
+      "C": "*HACEK group*",
+      "D": "*Fungi*"
+    },
+    "optionsRu": {
+      "A": "*Streptococcus viridans*",
+      "B": "Стафилококки",
+      "C": "Группа HACEK",
+      "D": "Грибы"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Approximately 60% of early PVE events are associated with staphylococci, often from perioperative contamination.",
+    "explanationRu": "Примерно 60% случаев раннего протезного ИЭ связаны со стафилококками, часто из-за периоперационной контаминации."
+  },
+  {
+    "id": 64,
+    "questionEn": "What defines 'Very Severe' Aortic Stenosis according to the 2014 guidelines?",
+    "questionRu": "Что определяет «Очень тяжелый» аортальный стеноз согласно рекомендациям 2014 года?",
+    "optionsEn": {
+      "A": "AVA < 1.0 cm²",
+      "B": "Aortic velocity ≥ 5.0 m/s or mean gradient ≥ 60 mmHg.",
+      "C": "Mean gradient > 40 mmHg.",
+      "D": "Any AS with symptoms."
+    },
+    "optionsRu": {
+      "A": "AVA <1,0 см²",
+      "B": "Скорость на аортальном клапане ≥5,0 м/с или средний градиент ≥60 мм рт.ст.",
+      "C": "Средний градиент >40 мм рт.ст.",
+      "D": "Любой АС с симптомами."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "While 'severe' is Vmax ≥ 4 m/s, 'very severe' is defined by a Vmax ≥ 5.0 m/s or mean gradient ≥ 60 mmHg.",
+    "explanationRu": "В то время как «тяжелый» определяется как Vmax ≥4 м/с, «очень тяжелый» определяется как Vmax ≥5,0 м/с или средний градиент ≥60 мм рт.ст."
+  },
+  {
+    "id": 65,
+    "questionEn": "Which sign of endocarditis is a retinal hemorrhage with a central pale spot?",
+    "questionRu": "Какой признак эндокардита представляет собой кровоизлияние в сетчатку с центральным бледным пятном?",
+    "optionsEn": {
+      "A": "Janeway Lesion",
+      "B": "Osler Node",
+      "C": "Roth Spot",
+      "D": "Splinter Hemorrhage"
+    },
+    "optionsRu": {
+      "A": "Узелок Дженуэя",
+      "B": "Узел Ослера",
+      "C": "Пятно Рота",
+      "D": "Осколочное кровоизлияние"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Roth spots are retinal hemorrhages with pale centers, listed as a minor Duke criterion (vascular phenomena).",
+    "explanationRu": "Пятна Рота — это кровоизлияния в сетчатку с бледными центрами, перечисленные как малый критерий Дьюка (сосудистые феномены)."
+  },
+  {
+    "id": 66,
+    "questionEn": "A 64-year-old patient with no contraindications to anticoagulation requires AVR. According to Cohn’s 'Considerations for Mechanical Valve Replacement' table, which factor is a primary indication for a mechanical valve in this age group?",
+    "questionRu": "Пациенту 64 лет без противопоказаний к антикоагуляции требуется ПАК. Согласно таблице Cohn «Соображения по замене механического клапана», какой фактор является основным показанием для механического клапана в этой возрастной группе?",
+    "optionsEn": {
+      "A": "Age between 60 and 70 with patient preference for durability.",
+      "B": "Requirement for concomitant coronary artery bypass.",
+      "C": "Small aortic root diameter (<19 mm).",
+      "D": "History of remote gastrointestinal bleeding."
+    },
+    "optionsRu": {
+      "A": "Возраст от 60 до 70 лет с предпочтением пациента к долговечности.",
+      "B": "Необходимость одновременного коронарного шунтирования.",
+      "C": "Малый диаметр корня аорты (<19 мм).",
+      "D": "Указание на желудочно-кишечное кровотечение в анамнезе."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "For patients aged 60–70, the guidelines suggest that the decision should be based on 'patient discussion' and preference, often weighing durability against anticoagulation risk. Options B and C are anatomical/procedural factors that don't mandate a mechanical valve, and Option D is a relative contraindication to mechanical valves.",
+    "explanationRu": "Для пациентов в возрасте 60–70 лет рекомендации предполагают, что решение должно основываться на «обсуждении с пациентом» и его предпочтениях, часто взвешивая долговечность против риска антикоагуляции. Варианты B и C являются анатомическими/процедурными факторами, не требующими механического клапана, а вариант D является относительным противопоказанием к механическим клапанам."
+  },
+  {
+    "id": 67,
+    "questionEn": "What is the fundamental pathogenetic mechanism of aortic valve calcification in degenerative AS?",
+    "questionRu": "Каков фундаментальный патогенетический механизм кальцификации аортального клапана при дегенеративном АС?",
+    "optionsEn": {
+      "A": "Passive deposition of calcium crystals due to high systemic pressure.",
+      "B": "Transformation of valvular interstitial cells into an osteoblastic phenotype.",
+      "C": "Chronic T-cell rejection of the endothelial basement membrane.",
+      "D": "Accumulation of oxidized HDL cholesterol in the spongiosa layer."
+    },
+    "optionsRu": {
+      "A": "Пассивное отложение кристаллов кальция из-за высокого системного давления.",
+      "B": "Трансформация интерстициальных клеток клапана в остеобластоподобный фенотип.",
+      "C": "Хроническое Т-клеточное отторжение эндотелиальной базальной мембраны.",
+      "D": "Накопление окисленного холестерина ЛПВП в губчатом слое."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Calcific AS is now understood to be an active process involving inflammation and the transformation of valvular interstitial cells into osteoblast-like cells that actively deposit bone matrix. Option D is incorrect as it is *LDL* cholesterol, not HDL, that is implicated.",
+    "explanationRu": "Кальцифицирующий АС в настоящее время понимается как активный процесс, включающий воспаление и трансформацию интерстициальных клеток клапана в остеобластоподобные клетки, которые активно откладывают костный матрикс. Вариант D неверен, поскольку подразумевается холестерин *LDL*, а не HDL."
+  },
+  {
+    "id": 68,
+    "questionEn": "Using the Sievers classification for bicuspid aortic valves, which type is most common and characterized by the presence of one raphe?",
+    "questionRu": "Используя классификацию Sievers для двустворчатых аортальных клапанов, какой тип является наиболее распространенным и характеризуется наличием одного рафа?",
+    "optionsEn": {
+      "A": "Type 0",
+      "B": "Type 1",
+      "C": "Type 2",
+      "D": "Type 3"
+    },
+    "optionsRu": {
+      "A": "Тип 0",
+      "B": "Тип 1",
+      "C": "Тип 2",
+      "D": "Тип 3"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "According to the Sievers classification cited in the text, Type 1 (one raphe) is the most common form of bicuspid valve. Type 0 has no raphe, and Type 2 has two raphes.",
+    "explanationRu": "Согласно классификации Sievers, цитируемой в тексте, тип 1 (один раф) является наиболее распространенной формой двустворчатого клапана. Тип 0 не имеет рафа, а тип 2 имеет два рафа."
+  },
+  {
+    "id": 69,
+    "questionEn": "According to the revised Ghent criteria, what score of systemic manifestations is required to confirm a Marfan diagnosis in the absence of family history and ectopia lentis?",
+    "questionRu": "Согласно пересмотренным Гентским критериям, какое количество баллов системных проявлений требуется для подтверждения диагноза Марфана при отсутствии семейного анамнеза и эктопии хрусталика?",
+    "optionsEn": {
+      "A": "≥3 points",
+      "B": "≥5 points",
+      "C": "≥7 points",
+      "D": "≥10 points"
+    },
+    "optionsRu": {
+      "A": "≥3 баллов",
+      "B": "≥5 баллов",
+      "C": "≥7 баллов",
+      "D": "≥10 баллов"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The revised Ghent criteria specify that in the absence of a family history, a Marfan diagnosis is confirmed if there is aortic root dilation (Z ≥ 2) and systemic manifestations totaling ≥7 points.",
+    "explanationRu": "Пересмотренные Гентские критерии указывают, что при отсутствии семейного анамнеза диагноз Марфана подтверждается при наличии дилатации корня аорты (Z ≥2) и системных проявлениях в сумме ≥7 баллов."
+  },
+  {
+    "id": 70,
+    "questionEn": "At what diameter is surgery recommended for an asymptomatic patient with an ascending aortic aneurysm and no known genetic syndrome?",
+    "questionRu": "При каком диаметре рекомендуется операция для бессимптомного пациента с аневризмой восходящей аорты без известного генетического синдрома?",
+    "optionsEn": {
+      "A": "4.5 cm",
+      "B": "5.0 cm",
+      "C": "5.5 cm",
+      "D": "6.0 cm"
+    },
+    "optionsRu": {
+      "A": "4,5 см",
+      "B": "5,0 см",
+      "C": "5,5 см",
+      "D": "6,0 см"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "For isolated ascending aortic aneurysms without specific genetic risk factors (like Marfan), surgery is generally recommended when the diameter exceeds 5.5 cm.",
+    "explanationRu": "Для изолированных аневризм восходящей аорты без специфических генетических факторов риска (например, Марфана) операция обычно рекомендуется, когда диаметр превышает 5,5 см."
+  },
+  {
+    "id": 71,
+    "questionEn": "For a woman with Marfan syndrome, during which period is the risk of acute aortic dissection highest?",
+    "questionRu": "Для женщины с синдромом Марфана, в какой период риск острого расслоения аорты наиболее высок?",
+    "optionsEn": {
+      "A": "First trimester of pregnancy.",
+      "B": "Second trimester of pregnancy.",
+      "C": "Third trimester and the first month postpartum.",
+      "D": "Two years after delivery."
+    },
+    "optionsRu": {
+      "A": "Первый триместр беременности.",
+      "B": "Второй триместр беременности.",
+      "C": "Третий триместр и первый месяц после родов.",
+      "D": "Через два года после родов."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The sources note that pregnancy in Marfan patients carries a high risk of acute aortic dissection specifically during the third trimester, parturition (delivery), or the first month postpartum.",
+    "explanationRu": "Источники отмечают, что беременность у пациенток с синдромом Марфана несет высокий риск острого расслоения аорты именно в третьем триместре, во время родов или в первый месяц после родов."
+  },
+  {
+    "id": 72,
+    "questionEn": "How is cusp prolapse typically corrected during an aortic valve repair?",
+    "questionRu": "Как обычно корректируется пролапс створки при реконструкции аортального клапана?",
+    "optionsEn": {
+      "A": "Augmentation of the cusp with a pericardial patch.",
+      "B": "Plication of the free margin along the nodule of Arantius.",
+      "C": "Resection of the entire sinus of Valsalva.",
+      "D": "Implantation of a semi-rigid annuloplasty ring."
+    },
+    "optionsRu": {
+      "A": "Аугментация створки перикардиальной заплатой.",
+      "B": "Пликация свободного края по узелку Аранция.",
+      "C": "Резекция всего синуса Вальсальвы.",
+      "D": "Имплантация полужесткого аннулопластического кольца."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Cusp prolapse is caused by elongation of the free margin and is corrected by plicating (shortening) the free margin at the level of the nodule of Arantius.",
+    "explanationRu": "Пролапс створки вызван удлинением свободного края и корректируется пликацией (укорочением) свободного края на уровне узелка Аранция."
+  },
+  {
+    "id": 73,
+    "questionEn": "In bicuspid valve repair, what is the purpose of plicating the subcommissural triangles?",
+    "questionRu": "При реконструкции двустворчатого клапана, какова цель пликации подкомиссуральных треугольников?",
+    "optionsEn": {
+      "A": "To reduce the diameter of the sinotubular junction.",
+      "B": "To increase the coaptation area of the cusps in a mildly dilated annulus.",
+      "C": "To allow for easier coronary ostial reimplantation.",
+      "D": "To prevent the development of nodules of Arantius."
+    },
+    "optionsRu": {
+      "A": "Для уменьшения диаметра синотубулярного соединения.",
+      "B": "Для увеличения зоны коаптации створок при умеренно расширенном фиброзном кольце.",
+      "C": "Для облегчения реимплантации устьев коронарных артерий.",
+      "D": "Для предотвращения развития узелков Аранция."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Reduction annuloplasty via plication of the subcommissural triangles is used to increase the cusp coaptation area when the annulus is only mildly dilated and the sinuses are not aneurysmal.",
+    "explanationRu": "Редукционная аннулопластика с помощью пликации подкомиссуральных треугольников используется для увеличения зоны коаптации створок, когда фиброзное кольцо расширено лишь умеренно, а синусы не аневризматичны."
+  },
+  {
+    "id": 74,
+    "questionEn": "What is the fundamental difference between 'Remodeling' (Yacoub) and 'Reimplantation' (David) techniques?",
+    "questionRu": "В чем фундаментальное различие между методиками «ремоделирования» (Якуб) и «реимплантации» (Дэвид)?",
+    "optionsEn": {
+      "A": "Reimplantation preserves the native sinuses, while Remodeling replaces them.",
+      "B": "Remodeling provides better annular support than Reimplantation.",
+      "C": "Reimplantation fixes the aortic annulus inside a graft to prevent late dilation, whereas Remodeling does not.",
+      "D": "Remodeling requires coronary ostial mobilization, but Reimplantation does not."
+    },
+    "optionsRu": {
+      "A": "Реимплантация сохраняет нативные синусы, тогда как ремоделирование заменяет их.",
+      "B": "Ремоделирование обеспечивает лучшую поддержку кольца, чем реимплантация.",
+      "C": "Реимплантация фиксирует фиброзное кольцо аорты внутри протеза, предотвращая позднее расширение, тогда как ремоделирование — нет.",
+      "D": "Ремоделирование требует мобилизации устьев коронарных артерий, а реимплантация — нет."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Reimplantation is ideal for patients with dilated aortic annuli because it fixes the annulus inside the Dacron cylinder, whereas Remodeling replaces the sinuses but leaves the annulus unsupported and prone to late dilation.",
+    "explanationRu": "Реимплантация идеальна для пациентов с расширенными фиброзными кольцами аорты, поскольку она фиксирует кольцо внутри дакронового цилиндра, тогда как ремоделирование заменяет синусы, но оставляет кольцо не поддерживаемым и склонным к позднему расширению."
+  },
+  {
+    "id": 75,
+    "questionEn": "How is 'Structural Valve Deterioration' (SVD) defined in the joint AATS/STS guidelines?",
+    "questionRu": "Как определяется «структурная дегенерация клапана» (СДК) в совместных рекомендациях AATS/STS?",
+    "optionsEn": {
+      "A": "Any abnormality caused by pannus overgrowth or paravalvular leak.",
+      "B": "An intrinsic abnormality of the valve causing stenosis or regurgitation, such as leaflet tears.",
+      "C": "Any thrombus that interferes with valve function.",
+      "D": "Any infection involving the operated valve."
+    },
+    "optionsRu": {
+      "A": "Любая аномалия, вызванная избыточным ростом паннуса или параклапанной утечкой.",
+      "B": "Внутреннее нарушение клапана, вызывающее стеноз или регургитацию, например разрыв створки.",
+      "C": "Любой тромб, мешающий функции клапана.",
+      "D": "Любая инфекция, вовлекающая оперированный клапан."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "SVD refers specifically to intrinsic changes in the valve (e.g., tears, calcification) that lead to dysfunction. Option A is 'Nonstructural dysfunction,' Option C is 'Valve thrombosis,' and Option D is 'Endocarditis.'",
+    "explanationRu": "СДК относится конкретно к внутренним изменениям клапана (например, разрывы, кальцификация), которые приводят к дисфункции. Вариант A — «Неструктурная дисфункция», вариант C — «Тромбоз клапана», вариант D — «Эндокардит»."
+  },
+  {
+    "id": 76,
+    "questionEn": "Which of the following is an independent predictor of reoperation due to SVD in the Medtronic Hancock II porcine valve?",
+    "questionRu": "Что из следующего является независимым предиктором повторной операции из-за СДК в свином клапане Medtronic Hancock II?",
+    "optionsEn": {
+      "A": "Male gender.",
+      "B": "Patient-prosthesis mismatch (PPM).",
+      "C": "Use of Beta-blockers.",
+      "D": "History of atrial fibrillation."
+    },
+    "optionsRu": {
+      "A": "Мужской пол.",
+      "B": "Несоответствие пациента и протеза (patient-prosthesis mismatch, PPM).",
+      "C": "Применение бета-блокаторов.",
+      "D": "Указание на фибрилляцию предсердий в анамнезе."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A long-term follow-up of the Hancock II valve identified age and PPM (OR: 1.63) as independent predictors of reoperation for SVD.",
+    "explanationRu": "Долгосрочное наблюдение за клапаном Hancock II выявило возраст и PPM (OR: 1,63) как независимые предикторы повторной операции по поводу СДК."
+  },
+  {
+    "id": 77,
+    "questionEn": "At 15 years post-implantation, what is the approximate actuarial freedom from reoperation for a Carpentier-Edwards Perimount pericardial valve?",
+    "questionRu": "Через 15 лет после имплантации, какова приблизительная актуарная свобода от повторной операции для перикардиального клапана Carpentier-Edwards Perimount?",
+    "optionsEn": {
+      "A": "95%",
+      "B": "85%",
+      "C": "78%",
+      "D": "55%"
+    },
+    "optionsRu": {
+      "A": "95%",
+      "B": "85%",
+      "C": "78%",
+      "D": "55%"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "According to Table 28-8, the McClure study showed an 15-year freedom from reoperation of 78.3% for the CE Perimount valve.",
+    "explanationRu": "Согласно таблице 28-8, исследование McClure показало 15-летнюю свободу от повторной операции 78,3% для клапана CE Perimount."
+  },
+  {
+    "id": 78,
+    "questionEn": "Which organism is responsible for approximately 60% of *early* (<60 days) prosthetic valve endocarditis (PVE) events?",
+    "questionRu": "Какой микроорганизм ответственен примерно за 60% случаев *раннего* (<60 дней) протезного инфекционного эндокардита (ПИЭ)?",
+    "optionsEn": {
+      "A": "*Streptococcus viridans*",
+      "B": "*Staphylococci*",
+      "C": "*Candida albicans*",
+      "D": "*HACEK group*"
+    },
+    "optionsRu": {
+      "A": "*Streptococcus viridans*",
+      "B": "Стафилококки",
+      "C": "*Candida albicans*",
+      "D": "Группа HACEK"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Staphylococci (often coagulase-negative perioperative contaminants) account for the majority (60%) of early PVE cases.",
+    "explanationRu": "Стафилококки (часто коагулазоотрицательные периоперационные контаминанты) составляют большинство (60%) случаев раннего ПИЭ."
+  },
+  {
+    "id": 79,
+    "questionEn": "What is a major Duke criterion for the diagnosis of IE regarding echocardiography?",
+    "questionRu": "Что является большим критерием Дьюка для диагностики ИЭ в отношении эхокардиографии?",
+    "optionsEn": {
+      "A": "New-onset atrial fibrillation.",
+      "B": "New partial dehiscence of a prosthetic valve.",
+      "C": "Presence of a small, stable pericardial effusion.",
+      "D": "Any thickening of the mitral valve leaflets."
+    },
+    "optionsRu": {
+      "A": "Впервые возникшая фибрилляция предсердий.",
+      "B": "Новое частичное расхождение швов протезного клапана.",
+      "C": "Наличие небольшого стабильного перикардиального выпота.",
+      "D": "Любое утолщение створок митрального клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Major Duke criteria for endocardial involvement include an oscillating intracardiac mass, abscess, or new partial dehiscence of a prosthetic valve.",
+    "explanationRu": "Большие критерии Дьюка для эндокардиального поражения включают колеблющееся внутрисердечное образование, абсцесс или новое частичное расхождение швов протезного клапана."
+  },
+  {
+    "id": 80,
+    "questionEn": "For a patient with IE and an isolated very large vegetation (>15 mm), what is the class of recommendation for surgery according to Table 31-2?",
+    "questionRu": "Для пациента с ИЭ и изолированной очень большой вегетацией (>15 мм), каков класс рекомендации для операции согласно таблице 31-2?",
+    "optionsEn": {
+      "A": "Class I",
+      "B": "Class IIa",
+      "C": "Class IIb",
+      "D": "Class III"
+    },
+    "optionsRu": {
+      "A": "Класс I",
+      "B": "Класс IIa",
+      "C": "Класс IIb",
+      "D": "Класс III"
+    },
+    "correctAnswer": "A",
+    "explanationEn": "Table 31-2 lists 'Urgent' surgery as a Class I recommendation for isolated very large vegetations (>15 mm), especially if a valve-preserving procedure is feasible.",
+    "explanationRu": "Таблица 31-2 перечисляет «срочную» операцию как рекомендацию класса I для изолированных очень больших вегетаций (>15 мм), особенно если возможна клапансохраняющая процедура."
+  },
+  {
+    "id": 81,
+    "questionEn": "In a stable patient with IE and a recent hemorrhagic stroke, how long should surgery be delayed to minimize the risk of worsening intracranial hemorrhage?",
+    "questionRu": "У стабильного пациента с ИЭ и недавним геморрагическим инсультом, на сколько следует отложить операцию, чтобы минимизировать риск ухудшения внутричерепного кровоизлияния?",
+    "optionsEn": {
+      "A": "24–48 hours.",
+      "B": "1 week.",
+      "C": "3–4 weeks.",
+      "D": "6 months."
+    },
+    "optionsRu": {
+      "A": "24–48 часов.",
+      "B": "1 неделя.",
+      "C": "3–4 недели.",
+      "D": "6 месяцев."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "While ischemic strokes allow for earlier surgery (1–2 weeks), a hemorrhagic stroke requires a longer delay of 3–4 weeks to prevent neurological deterioration.",
+    "explanationRu": "В то время как при ишемических инсультах возможно более раннее проведение операции (1–2 недели), при геморрагическом инсульте требуется более длительная отсрочка в 3–4 недели для предотвращения неврологического ухудшения."
+  },
+  {
+    "id": 82,
+    "questionEn": "Why is 'Systemic Hyperkalemia' (6–7 mEq/L) crucial during reoperative minimal access AVR via hemisternotomy?",
+    "questionRu": "Почему «системная гиперкалиемия» (6–7 мэкв/л) имеет решающее значение при повторной минимально инвазивной ПАК через гемистернотомию?",
+    "optionsEn": {
+      "A": "It prevents air embolism from the pulmonary veins.",
+      "B": "It ensures diastolic arrest in the territory perfused by a patent LIMA graft that is not clipped.",
+      "C": "It prevents the need for any cardioplegia delivery.",
+      "D": "It acts as a potent systemic vasodilator."
+    },
+    "optionsRu": {
+      "A": "Она предотвращает воздушную эмболию из легочных вен.",
+      "B": "Она обеспечивает диастолическую остановку в зоне, перфузируемой функционирующим шунтом ВМА, который не клипирован.",
+      "C": "Она устраняет необходимость в любой доставке кардиоплегии.",
+      "D": "Она действует как мощный системный вазодилататор."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Because the LIMA graft is not mandatory to clip in this approach, systemic hyperkalemia is used to achieve and maintain diastolic arrest in the LAD territory it perfuses.",
+    "explanationRu": "Поскольку шунт ВМА не обязательно клипировать при этом подходе, системная гиперкалиемия используется для достижения и поддержания диастолической остановки в бассейне ПМЖВ, который он перфузирует."
+  },
+  {
+    "id": 83,
+    "questionEn": "What specific design feature was added to the SAPIEN 3 valve to minimize paravalvular leak compared to earlier generations?",
+    "questionRu": "Какая конкретная конструктивная особенность была добавлена к клапану SAPIEN 3 для минимизации параклапанной утечки по сравнению с более ранними поколениями?",
+    "optionsEn": {
+      "A": "A stainless steel frame.",
+      "B": "An outer skirt.",
+      "C": "A nitinol self-expanding frame.",
+      "D": "Leaflets made of porcine pericardium."
+    },
+    "optionsRu": {
+      "A": "Каркас из нержавеющей стали.",
+      "B": "Наружная юбка.",
+      "C": "Саморасширяющийся каркас из нитинола.",
+      "D": "Створки из свиного перикарда."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The SAPIEN 3 generation added an outer skirt specifically designed to minimize paravalvular leak.",
+    "explanationRu": "Поколение SAPIEN 3 добавило наружную юбку, специально разработанную для минимизации параклапанной утечки."
+  },
+  {
+    "id": 84,
+    "questionEn": "What is the frame material of the Medtronic CoreValve/Evolut R system?",
+    "questionRu": "Какой материал каркаса используется в системе Medtronic CoreValve/Evolut R?",
+    "optionsEn": {
+      "A": "Stainless Steel",
+      "B": "Cobalt-Chromium",
+      "C": "Nitinol",
+      "D": "Titanium"
+    },
+    "optionsRu": {
+      "A": "Нержавеющая сталь",
+      "B": "Кобальт-хром",
+      "C": "Нитинол",
+      "D": "Титан"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The CoreValve system uses a nitinol frame, which allows for its self-expanding property.",
+    "explanationRu": "Система CoreValve использует нитиноловый каркас, что обеспечивает ее саморасширяющееся свойство."
+  },
+  {
+    "id": 85,
+    "questionEn": "Which patient cohort was randomized in the PARTNER 1B trial?",
+    "questionRu": "Какая когорта пациентов была рандомизирована в исследовании PARTNER 1B?",
+    "optionsEn": {
+      "A": "High-risk operable patients.",
+      "B": "Intermediate-risk operable patients.",
+      "C": "Inoperable patients (TAVR vs. Medical management).",
+      "D": "Low-risk patients."
+    },
+    "optionsRu": {
+      "A": "Операбельные пациенты высокого риска.",
+      "B": "Операбельные пациенты промежуточного риска.",
+      "C": "Неоперабельные пациенты (TAVR против медикаментозного лечения).",
+      "D": "Пациенты низкого риска."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "PARTNER 1B compared TAVR to medical management in patients deemed inoperable.",
+    "explanationRu": "PARTNER 1B сравнил TAVR с медикаментозным лечением у пациентов, признанных неоперабельными."
+  },
+  {
+    "id": 86,
+    "questionEn": "According to the CHOICE trial, which valve system had a significantly higher rate of permanent pacemaker implantation?",
+    "questionRu": "Согласно исследованию CHOICE, какая клапанная система имела значительно более высокую частоту имплантации постоянного кардиостимулятора?",
+    "optionsEn": {
+      "A": "SAPIEN XT",
+      "B": "CoreValve",
+      "C": "SAPIEN 3",
+      "D": "Evolut R"
+    },
+    "optionsRu": {
+      "A": "SAPIEN XT",
+      "B": "CoreValve",
+      "C": "SAPIEN 3",
+      "D": "Evolut R"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The CHOICE trial showed a 37.6% pacemaker rate for CoreValve versus 17.3% for SAPIEN XT.",
+    "explanationRu": "Исследование CHOICE показало 37,6% частоты имплантации кардиостимулятора для CoreValve против 17,3% для SAPIEN XT."
+  },
+  {
+    "id": 87,
+    "questionEn": "Which TAVR access route is *not* possible for the CoreValve system?",
+    "questionRu": "Какой доступ для TAVR *невозможен* для системы CoreValve?",
+    "optionsEn": {
+      "A": "Transfemoral",
+      "B": "Transapical",
+      "C": "Transaortic",
+      "D": "Transaxillary"
+    },
+    "optionsRu": {
+      "A": "Трансфеморальный",
+      "B": "Трансапикальный",
+      "C": "Трансаортальный",
+      "D": "Трансаксиллярный"
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The CoreValve requires retrograde insertion and cannot be delivered via the transapical (antegrade) route.",
+    "explanationRu": "CoreValve требует ретроградной установки и не может быть доставлен через трансапикальный (антеградный) доступ."
+  },
+  {
+    "id": 88,
+    "questionEn": "What is the purpose of rapid ventricular pacing (e.g., 180 bpm) during TAVR deployment?",
+    "questionRu": "Какова цель быстрой желудочковой стимуляции (например, 180 уд/мин) во время имплантации TAVR?",
+    "optionsEn": {
+      "A": "To increase coronary perfusion pressure.",
+      "B": "To reduce cardiac output to zero, allowing stable valve deployment.",
+      "C": "To prevent atrial fibrillation.",
+      "D": "To facilitate the crossing of the calcified valve with the wire."
+    },
+    "optionsRu": {
+      "A": "Для увеличения коронарного перфузионного давления.",
+      "B": "Для снижения сердечного выброса до нуля, что позволяет стабильно установить клапан.",
+      "C": "Для предотвращения фибрилляции предсердий.",
+      "D": "Для облегчения прохождения проводником через кальцинированный клапан."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Rapid pacing is used to temporarily 'still' the heart by reducing cardiac output, preventing the valve from being displaced during balloon inflation or deployment.",
+    "explanationRu": "Быстрая стимуляция используется для временной «остановки» сердца путем снижения сердечного выброса, предотвращая смещение клапана во время раздувания баллона или имплантации."
+  },
+  {
+    "id": 89,
+    "questionEn": "For a primary minimally invasive AVR via upper hemisternotomy, which intercostal space is favored for the transverse 'T' to provide ideal exposure?",
+    "questionRu": "Для первичной минимально инвазивной ПАК через верхнюю гемистернотомию, какое межреберье предпочтительно для поперечного Т-образного разреза для обеспечения идеального доступа?",
+    "optionsEn": {
+      "A": "2nd space",
+      "B": "3rd space",
+      "C": "4th space",
+      "D": "5th space"
+    },
+    "optionsRu": {
+      "A": "2-е",
+      "B": "3-е",
+      "C": "4-е",
+      "D": "5-е"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The authors state they favor the 4th interspace because it 'almost always produces the ideal exposure.'",
+    "explanationRu": "Авторы заявляют, что предпочитают 4-е межреберье, потому что оно «почти всегда обеспечивает идеальный доступ»."
+  },
+  {
+    "id": 90,
+    "questionEn": "What was a major complication that led to the abandonment of the right parasternal approach for AVR?",
+    "questionRu": "Какое серьезное осложнение привело к отказу от правого парастернального доступа для ПАК?",
+    "optionsEn": {
+      "A": "High rate of stroke.",
+      "B": "Sacrifice of both mammary arteries.",
+      "C": "Lung herniation.",
+      "D": "Requirement for deep hypothermic circulatory arrest."
+    },
+    "optionsRu": {
+      "A": "Высокая частота инсультов.",
+      "B": "Потеря обеих грудных артерий.",
+      "C": "Грыжа легкого.",
+      "D": "Необходимость глубокой гипотермической остановки кровообращения."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Lung herniation through the costal cartilage defects was a 'physiologically disturbing' and 'cosmetic disaster' that led to the approach's abandonment.",
+    "explanationRu": "Грыжа легкого через дефекты реберных хрящей была «физиологически беспокоящей» и «косметической катастрофой», что привело к отказу от этого доступа."
+  },
+  {
+    "id": 91,
+    "questionEn": "In a reoperative ministernotomy, what level of systemic hyperkalemia is maintained to keep the heart quiescent?",
+    "questionRu": "При повторной министернотомии, какой уровень системной гиперкалиемии поддерживается для сохранения сердца неподвижным?",
+    "optionsEn": {
+      "A": "4.5–5.5 mEq/L",
+      "B": "6–7 mEq/L",
+      "C": "8–10 mEq/L",
+      "D": "Only local hyperkalemia is used."
+    },
+    "optionsRu": {
+      "A": "4,5–5,5 мэкв/л",
+      "B": "6–7 мэкв/л",
+      "C": "8–10 мэкв/л",
+      "D": "Используется только местная гиперкалиемия."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Systemic hyperkalemia is maintained at 6–7 mEq/L during the procedure.",
+    "explanationRu": "Системная гиперкалиемия поддерживается на уровне 6–7 мэкв/л во время процедуры."
+  },
+  {
+    "id": 92,
+    "questionEn": "What is a primary technical limitation of TAVR valve-in-valve procedures?",
+    "questionRu": "В чем заключается основное техническое ограничение процедур TAVR «клапан в клапан»?",
+    "optionsEn": {
+      "A": "They cannot be performed in porcine valves.",
+      "B": "They are ineffective in smaller bioprosthetic valves (e.g., size 19 or 21).",
+      "C": "They require general anesthesia in all cases.",
+      "D": "The risk of coronary obstruction is zero."
+    },
+    "optionsRu": {
+      "A": "Их нельзя выполнять в свиных клапанах.",
+      "B": "Они неэффективны в биопротезах малого размера (например, 19 или 21).",
+      "C": "Они требуют общей анестезии во всех случаях.",
+      "D": "Риск обструкции коронарных артерий равен нулю."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "TAVR valve-in-valve is not as effective in smaller bioprosthetic valves because the internal diameter is already too small for a secondary stent.",
+    "explanationRu": "TAVR «клапан в клапан» не так эффективен в биопротезах малого размера, потому что внутренний диаметр уже слишком мал для вторичного стента."
+  },
+  {
+    "id": 93,
+    "questionEn": "In patients with ESRD on dialysis, what does a systematic review suggest regarding valve choice?",
+    "questionRu": "У пациентов с ТПН на диализе, что предлагает систематический обзор относительно выбора клапана?",
+    "optionsEn": {
+      "A": "Bioprostheses are always superior.",
+      "B": "Mechanical valves are mandatory.",
+      "C": "No difference in survival, but mechanical valves have higher bleeding/TE complications.",
+      "D": "Only homografts are used."
+    },
+    "optionsRu": {
+      "A": "Биопротезы всегда лучше.",
+      "B": "Механические клапаны обязательны.",
+      "C": "Нет разницы в выживаемости, но механические клапаны имеют более высокие осложнения (кровотечения/ТЭ).",
+      "D": "Используются только гомографты."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A systematic review found no survival difference but higher complications with mechanical valves in the ESRD population.",
+    "explanationRu": "Систематический обзор не выявил разницы в выживаемости, но выявил более высокие осложнения при механических клапанах в популяции ТПН."
+  },
+  {
+    "id": 94,
+    "questionEn": "What is the standard RVOT substitute used during a Ross procedure?",
+    "questionRu": "Что используется в качестве стандартного заменителя выводного тракта правого желудочка (ВТПЖ) во время операции Росса?",
+    "optionsEn": {
+      "A": "Mechanical valved conduit.",
+      "B": "Cryopreserved pulmonary homograft.",
+      "C": "Bovine pericardial tube.",
+      "D": "Native aortic valve from the same patient."
+    },
+    "optionsRu": {
+      "A": "Механический клапансодержащий кондуит.",
+      "B": "Криоконсервированный легочный гомографт.",
+      "C": "Трубка из бычьего перикарда.",
+      "D": "Нативный аортальный клапан того же пациента."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The cryopreserved pulmonary homograft is considered the best RVOT substitute documented for the Ross procedure.",
+    "explanationRu": "Криоконсервированный легочный гомографт считается лучшим документированным заменителем ВТПЖ для операции Росса."
+  },
+  {
+    "id": 95,
+    "questionEn": "Mid-term results from the German-Dutch Ross Registry showed what advantage for decellularized homografts in the RVOT?",
+    "questionRu": "Среднесрочные результаты немецко-голландского регистра Росса показали какое преимущество децеллюляризованных гомографтов в ВТПЖ?",
+    "optionsEn": {
+      "A": "Zero risk of endocarditis.",
+      "B": "Lower transvalvular gradients compared to standard cryopreserved grafts at 6 years.",
+      "C": "They act as mechanical stents.",
+      "D": "They never require reoperation."
+    },
+    "optionsRu": {
+      "A": "Нулевой риск эндокардита.",
+      "B": "Более низкие трансклапанные градиенты по сравнению со стандартными криоконсервированными графтами через 6 лет.",
+      "C": "Они действуют как механические стенты.",
+      "D": "Они никогда не требуют повторной операции."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Decellularized homografts were observed to have lower gradients than standard cryopreserved grafts at 6-year follow-up.",
+    "explanationRu": "Наблюдалось, что децеллюляризованные гомографты имеют более низкие градиенты, чем стандартные криоконсервированные графты, при 6-летнем наблюдении."
+  },
+  {
+    "id": 96,
+    "questionEn": "Which factor is a significant predictor for the development of moderate neo-aortic regurgitation (neo-AR) after a Ross procedure?",
+    "questionRu": "Какой фактор является значимым предиктором развития умеренной нео-аортальной регургитации (нео-АР) после операции Росса?",
+    "optionsEn": {
+      "A": "Female gender.",
+      "B": "Postoperative systemic hypertension.",
+      "C": "Preoperative aortic stenosis morphology.",
+      "D": "Use of a small homograft size."
+    },
+    "optionsRu": {
+      "A": "Женский пол.",
+      "B": "Послеоперационная системная гипертензия.",
+      "C": "Предоперационная морфология аортального стеноза.",
+      "D": "Использование гомографта малого размера."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Postoperative hypertension, male gender, and preoperative ascending aortic dilation were identified as predictors for the development of neo-AR.",
+    "explanationRu": "Послеоперационная гипертензия, мужской пол и предоперационная дилатация восходящей аорты были определены как предикторы развития нео-АР."
+  },
+  {
+    "id": 97,
+    "questionEn": "Which Medtronic Freestyle implantation technique is most technical and prone to regurgitation if commissural alignment is slightly off?",
+    "questionRu": "Какая техника имплантации Medtronic Freestyle является наиболее технически сложной и склонной к регургитации при небольшом смещении комиссур?",
+    "optionsEn": {
+      "A": "Full Root Replacement.",
+      "B": "Inclusion Root (Cylinder).",
+      "C": "Subcoronary Technique.",
+      "D": "Bio-Bentall."
+    },
+    "optionsRu": {
+      "A": "Полная замена корня.",
+      "B": "Техника «включенного корня» (цилиндр).",
+      "C": "Субкоронарная техника.",
+      "D": "Bio-Bentall."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The subcoronary technique is considered the most demanding because any malalignment results in immediate regurgitation.",
+    "explanationRu": "Субкоронарная техника считается самой сложной, потому что любое смещение приводит к немедленной регургитации."
+  },
+  {
+    "id": 98,
+    "questionEn": "What is the purpose of treating the Freestyle porcine root with alpha-amino oleic acid (AOA)?",
+    "questionRu": "Какова цель обработки свиного корня Freestyle альфа-амино-олеиновой кислотой (AOA)?",
+    "optionsEn": {
+      "A": "To make the tissue fully viable.",
+      "B": "To reduce tissue antigenicity.",
+      "C": "To decrease leaflet and aortic wall calcification.",
+      "D": "To make the leaflets more elastic."
+    },
+    "optionsRu": {
+      "A": "Чтобы сделать ткань полностью жизнеспособной.",
+      "B": "Чтобы снизить антигенность ткани.",
+      "C": "Чтобы уменьшить кальцификацию створок и стенки аорты.",
+      "D": "Чтобы сделать створки более эластичными."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "AOA is an anti-mineralization treatment designed specifically to decrease calcification of both the leaflets and the wall.",
+    "explanationRu": "AOA — это антиминерализующая обработка, специально разработанная для уменьшения кальцификации как створок, так и стенки."
+  },
+  {
+    "id": 99,
+    "questionEn": "In the O’Brien pioneer series of homografts, what was the reported actuarial survival at 25 years?",
+    "questionRu": "В пионерской серии гомографтов О'Брайена, какова была сообщенная актуарная выживаемость через 25 лет?",
+    "optionsEn": {
+      "A": "50%",
+      "B": "35%",
+      "C": "19%",
+      "D": "85%"
+    },
+    "optionsRu": {
+      "A": "50%",
+      "B": "35%",
+      "C": "19%",
+      "D": "85%"
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The O’Brien series reported a 25-year actuarial survival of only 19%.",
+    "explanationRu": "Серия О'Брайена сообщила о 25-летней актуарной выживаемости всего 19%."
+  },
+  {
+    "id": 100,
+    "questionEn": "In a David procedure, how is the tubular Dacron graft diameter selected?",
+    "questionRu": "При процедуре Дэвида, как выбирается диаметр трубчатого дакронового протеза?",
+    "optionsEn": {
+      "A": "It matches the diameter of the distal ascending aorta.",
+      "B": "It is equal to double the average height of the aortic cusps minus 2 or 3 mm.",
+      "C": "It is always 2 mm larger than the native annulus.",
+      "D": "It is chosen solely based on the patient's body surface area."
+    },
+    "optionsRu": {
+      "A": "Он соответствует диаметру дистальной восходящей аорты.",
+      "B": "Он равен удвоенной средней высоте аортальных створок минус 2 или 3 мм.",
+      "C": "Он всегда на 2 мм больше нативного фиброзного кольца.",
+      "D": "Он выбирается исключительно на основе площади поверхности тела пациента."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Sizing for the reimplantation (David) procedure involves choosing a graft diameter equal to double the average height of the cusps minus 2 or 3 mm.",
+    "explanationRu": "Определение размера для процедуры реимплантации (Дэвид) включает выбор диаметра протеза, равного удвоенной средней высоте створок минус 2 или 3 мм."
+  }
+]
+}

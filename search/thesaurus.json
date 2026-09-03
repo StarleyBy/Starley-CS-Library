@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "terms": [
+    {
+      "id": "heparin",
+      "en": ["heparin", "unfractionated heparin", "ufh", "anticoagulation", "anticoagulant"],
+      "ru": ["гепарин", "нефракционированный гепарин", "нфг", "антикоагулянт", "антикоагуляция"],
+      "he": ["הפרין", "הפארין", "נוגד קרישה"]
+    },
+    {
+      "id": "protamine",
+      "en": ["protamine", "protamine sulfate", "reversal"],
+      "ru": ["протамин", "протамина сульфат", "нейтрализация"],
+      "he": ["פרוטמין", "פרוטמין סולפט"]
+    },
+    {
+      "id": "warfarin",
+      "en": ["warfarin", "coumadin"],
+      "ru": ["варфарин", "кумадин"],
+      "he": ["וורפרין", "קומדין"]
+    },
+    {
+      "id": "bypass",
+      "en": ["cardiopulmonary bypass", "cpb", "extracorporeal circulation"],
+      "ru": ["искусственное кровообращение", "ик", "аппарат искусственного кровообращения", "аик"],
+      "he": ["מעקפים", "מכונת לב ריאה"]
+    },
+    {
+      "id": "hypothermia",
+      "en": ["hypothermia", "cooling", "deep hypothermic circulatory arrest", "dhca"],
+      "ru": ["гипотермия", "охлаждение", "гипотермическая остановка кровообращения"],
+      "he": ["היפותרמיה", "קירור"]
+    },
+    {
+      "id": "cardioplegia",
+      "en": ["cardioplegia", "del nido", "st thomas", "blood cardioplegia"],
+      "ru": ["кардиоплегия", "дель нидо", "кровяная кардиоплегия"],
+      "he": ["קרדיושלגיה"]
+    },
+    {
+      "id": "aorta",
+      "en": ["aorta", "aortic dissection", "aortic aneurysm", "coarctation"],
+      "ru": ["аорта", "расслоение аорты", "аневризма аорты", "коарктация"],
+      "he": ["אבי העורקים", "אאורטה"]
+    },
+    {
+      "id": "valve",
+      "en": ["valve", "mitral", "aortic valve", "tricuspid", "pulmonary"],
+      "ru": ["клапан", "митральный", "аортальный клапан", "трехстворчатый"],
+      "he": ["מסתם", "מסתם מטרלי", "מסתם אאורטלי"]
+    },
+    {
+      "id": "cannulation",
+      "en": ["cannulation", "cannula", "arterial cannula", "venous cannula"],
+      "ru": ["канюляция", "канюля", "артериальная канюля", "венозная канюля"],
+      "he": ["קנולציה", "קנולה"]
+    },
+    {
+      "id": "act",
+      "en": ["act", "activated clotting time"],
+      "ru": ["авк", "активированное время свертывания", "авс"],
+      "he": ["זמן קרישה מופעל"]
+    }
+  ]
+}

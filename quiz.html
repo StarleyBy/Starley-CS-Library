@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Quiz Mode - Starley CS Library</title>
+    <link rel="stylesheet" href="assets/css/quiz.css?v=1.1">
+    <link rel="stylesheet" href="assets/css/overlay-tools.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- KaTeX for LaTeX math rendering -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+</head>
+<body class="quiz-body">
+    <div id="quiz-app">
+        <!-- LOBBY SCREEN -->
+        <section id="screen-lobby" class="quiz-screen active">
+            <header class="quiz-header">
+                <button class="quiz-back-btn" onclick="window.history.back()"><i class="fas fa-arrow-left"></i> Back</button>
+                <h1 id="lobby-book-title">Loading Quiz...</h1>
+                <button id="btn-mute-lobby" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="margin-left: auto; background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
+            </header>
+            <div class="lobby-content">
+                <!-- Weak-Spot Radar & Mastery Dashboard -->
+                <div id="lobby-radar-card" class="lobby-card radar-card" style="display: none;">
+                    <div class="radar-card-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                        <h3 id="lbl-weak-spot-radar" style="margin: 0;">📊 Weak-Spot Radar</h3>
+                        <div class="mastery-badge" style="background: rgba(88, 166, 255, 0.1); color: var(--quiz-accent); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(88, 166, 255, 0.3);"><span id="mastery-pct-val">0%</span> <span id="lbl-mastered-pct">Mastered</span></div>
+                    </div>
+                    <div class="radar-progress-container" style="margin-bottom: 15px;">
+                        <div class="radar-progress-bar" style="height: 10px; background: var(--quiz-border); border-radius: 5px; overflow: hidden; display: flex;">
+                            <div id="radar-progress-green" class="progress-segment green" style="width: 0%; height: 100%; background: var(--quiz-correct); transition: width 0.5s ease;"></div>
+                            <div id="radar-progress-yellow" class="progress-segment yellow" style="width: 0%; height: 100%; background: var(--quiz-warning); transition: width 0.5s ease;"></div>
+                            <div id="radar-progress-red" class="progress-segment red" style="width: 0%; height: 100%; background: var(--quiz-wrong); transition: width 0.5s ease;"></div>
+                        </div>
+                        <div class="radar-legend" style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 0.75rem; color: var(--quiz-muted);">
+                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot green" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-correct); display: inline-block;"></span> <span id="lbl-legend-green">Mastered</span>: <span id="cnt-green" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot yellow" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-warning); display: inline-block;"></span> <span id="lbl-legend-yellow">Learning</span>: <span id="cnt-yellow" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot red" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-wrong); display: inline-block;"></span> <span id="lbl-legend-red">Weak / New</span>: <span id="cnt-red" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                        </div>
+                    </div>
+                    <div class="radar-chart-container" style="position: relative; margin: 15px 0; text-align: center;">
+                        <canvas id="radar-canvas" width="280" height="280" style="max-width: 100%; height: auto; display: inline-block; filter: drop-shadow(0 0 10px rgba(88,166,255,0.1));"></canvas>
+                    </div>
+                    <div id="lbl-topics-mastery" class="radar-topics-header" style="margin-top: 15px; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic Mastery (Tap for Express Quiz)</div>
+                    <div id="radar-topic-chips" class="radar-topic-chips" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px;">
+                        <!-- Dynamic chips -->
+                    </div>
+                </div>
+
+                <div class="lobby-card">
+                    <h3 id="label-select-lang">Select Language</h3>
+                    <div class="settings-row" style="margin-bottom: 0; justify-content: center;">
+                        <div class="lang-selector">
+                            <button id="btn-lang-en" class="lang-btn active" data-lang="En" style="padding: 8px 16px;">
+                                <svg viewBox="0 0 60 30" width="36" height="24" style="border-radius: 4px; display: inline-block; pointer-events: none;">
+                                    <clipPath id="uk-clip">
+                                        <rect width="60" height="30" rx="3" ry="3"/>
+                                    </clipPath>
+                                    <g clip-path="url(#uk-clip)">
+                                        <rect width="60" height="30" fill="#012169"/>
+                                        <path d="M0,0 L60,30 M0,30 L60,0" stroke="#fff" stroke-width="6"/>
+                                        <path d="M0,0 L60,30 M0,30 L60,0" stroke="#C8102E" stroke-width="2"/>
+                                        <path d="M30,0 L30,30 M0,15 L60,15" stroke="#fff" stroke-width="10"/>
+                                        <path d="M30,0 L30,30 M0,15 L60,15" stroke="#C8102E" stroke-width="6"/>
+                                    </g>
+                                </svg>
+                            </button>
+                            <button id="btn-lang-ru" class="lang-btn" data-lang="Ru" style="padding: 8px 16px;">
+                                <svg viewBox="0 0 60 30" width="36" height="24" style="border-radius: 4px; display: inline-block; pointer-events: none;">
+                                    <clipPath id="ru-clip">
+                                        <rect width="60" height="30" rx="3" ry="3"/>
+                                    </clipPath>
+                                    <g clip-path="url(#ru-clip)">
+                                        <rect width="60" height="10" fill="#fff"/>
+                                        <rect y="10" width="60" height="10" fill="#0039a6"/>
+                                        <rect y="20" width="60" height="10" fill="#d52b1e"/>
+                                    </g>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lobby-card">
+                    <h3 id="label-select-set">Select Question Set</h3>
+                    <div id="quiz-set-list" class="quiz-set-grid">
+                        <!-- Dynamic sets -->
+                    </div>
+                </div>
+
+                <div class="lobby-card">
+                    <h3 id="label-lobby-search">🔎 Quick Search</h3>
+                    <div class="settings-row" style="margin-bottom: 0;">
+                        <input type="text" id="quiz-lobby-search-input" placeholder="Type to search questions, options, or explanations..." autocomplete="off" style="width: 100%; padding: 10px; border-radius: 6px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.9rem;">
+                    </div>
+                    <div id="quiz-lobby-search-status" style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 6px; display: none;">Indexing quiz sets...</div>
+                    <div id="quiz-lobby-search-results" class="quiz-lobby-search-results" style="display: none; max-height: 250px; overflow-y: auto;">
+                        <!-- Dynamic search results -->
+                    </div>
+                </div>
+
+                <div class="lobby-card">
+                    <h3 id="label-session-settings">Session Settings</h3>
+                    <div class="settings-group">
+                        <label id="label-questions-count">Questions: <span id="val-count">All</span></label>
+                        <input type="range" id="setting-count" min="5" max="100" step="5" value="100">
+                    </div>
+                    
+                    <div class="settings-group" style="margin-top: 15px; margin-bottom: 15px;">
+                        <label id="label-quiz-mode" style="font-weight: 700; color: var(--quiz-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">Quiz Mode</label>
+                        <div class="quiz-mode-selector" style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; background: var(--quiz-surface); padding: 4px; border-radius: 12px; border: 1px solid var(--quiz-border);">
+                            <button type="button" class="mode-btn active" data-mode="smart" id="btn-mode-smart" style="background: none; border: none; border-radius: 10px; color: var(--quiz-text); padding: 8px 4px; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 4px; transition: all 0.2s;">
+                                <i class="fas fa-brain" style="font-size: 1.1rem; color: var(--quiz-accent);"></i>
+                                <span class="mode-title" style="font-size: 0.75rem; font-weight: 700;">Smart Drill</span>
+                            </button>
+                            <button type="button" class="mode-btn" data-mode="weak" id="btn-mode-weak" style="background: none; border: none; border-radius: 10px; color: var(--quiz-muted); padding: 8px 4px; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 4px; transition: all 0.2s;">
+                                <i class="fas fa-triangle-exclamation" style="font-size: 1.1rem;"></i>
+                                <span class="mode-title" style="font-size: 0.75rem; font-weight: 700;">Weak Spots</span>
+                            </button>
+                            <button type="button" class="mode-btn" data-mode="exam" id="btn-mode-exam" style="background: none; border: none; border-radius: 10px; color: var(--quiz-muted); padding: 8px 4px; cursor: pointer; display: flex; flex-direction: column; align-items: center; gap: 4px; transition: all 0.2s;">
+                                <i class="fas fa-stopwatch" style="font-size: 1.1rem;"></i>
+                                <span class="mode-title" style="font-size: 0.75rem; font-weight: 700;">Exam Sim</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="settings-row">
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="setting-all-questions">
+                            <span class="slider"></span>
+                            <span id="label-setting-all-questions">All Questions List</span>
+                        </label>
+                    </div>
+
+                    <!-- Hidden but preserved for backward compatibility -->
+                    <div style="display: none;">
+                        <input type="checkbox" id="setting-shuffle" checked>
+                        <input type="checkbox" id="setting-exam">
+                    </div>
+                </div>
+                <button id="btn-start-quiz" class="btn-primary btn-large">🚀 Start Quiz</button>
+                <div id="lobby-stats" class="lobby-stats"></div>
+            </div>
+
+            <!-- Floating Setup Checklist Widget -->
+            <div id="quiz-checklist-widget" class="quiz-checklist-card theme-glass">
+                <div class="checklist-header">
+                    <div class="checklist-title-group">
+                        <span class="checklist-icon">💡</span>
+                        <span id="checklist-title-text" class="checklist-title">Quick Setup Guide</span>
+                        <span id="checklist-counter-badge" class="checklist-badge">0/3</span>
+                    </div>
+                    <div class="checklist-controls">
+                        <!-- Theme Dot Selector -->
+                        <div class="checklist-theme-picker" title="Change style">
+                            <button type="button" class="theme-dot dot-glass active" data-theme="glass" title="Glassmorphism Cyber"></button>
+                            <button type="button" class="theme-dot dot-dark" data-theme="dark" title="Dark Slate"></button>
+                            <button type="button" class="theme-dot dot-emerald" data-theme="emerald" title="Emerald Clinical"></button>
+                            <button type="button" class="theme-dot dot-amber" data-theme="amber" title="Sunset Amber"></button>
+                            <button type="button" class="theme-dot dot-violet" data-theme="violet" title="Royal Violet"></button>
+                        </div>
+                        <button type="button" id="btn-checklist-min" class="checklist-btn-ctrl" title="Minimize / Expand"><i class="fas fa-minus"></i></button>
+                        <button type="button" id="btn-checklist-close" class="checklist-btn-ctrl" title="Close"><i class="fas fa-times"></i></button>
+                    </div>
+                </div>
+                
+                <div id="checklist-body" class="checklist-body">
+                    <ul class="checklist-items">
+                        <li id="chk-item-lang" class="checklist-item">
+                            <span class="chk-status"><i class="far fa-circle"></i></span>
+                            <span id="chk-text-lang" class="chk-label">a) Language selection</span>
+                        </li>
+                        <li id="chk-item-topics" class="checklist-item">
+                            <span class="chk-status"><i class="far fa-circle"></i></span>
+                            <span id="chk-text-topics" class="chk-label">b) Select one or more topics</span>
+                        </li>
+                        <li id="chk-item-mode" class="checklist-item">
+                            <span class="chk-status"><i class="far fa-circle"></i></span>
+                            <span id="chk-text-mode" class="chk-label">c) Select quiz mode</span>
+                        </li>
+                    </ul>
+                    <div id="checklist-ready-banner" class="checklist-ready-banner" style="display: none;">
+                        <i class="fas fa-hand-point-right pulse-hand"></i> <span id="checklist-ready-text">All set! Press <strong>Start Quiz</strong> now!</span>
+                    </div>
+                </div>
+                
+                <!-- Minimized Pill View -->
+                <div id="checklist-pill" class="checklist-pill" style="display: none;">
+                    <span>💡 <span id="chk-pill-text">Quiz Guide</span></span>
+                    <span id="chk-pill-count" class="checklist-badge">0/3</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- QUESTION SCREEN -->
+        <section id="screen-question" class="quiz-screen">
+            <header class="quiz-header">
+                <button class="quiz-exit-btn" id="btn-exit-quiz"><i class="fas fa-times"></i> Exit</button>
+                <div class="quiz-progress-wrapper">
+                    <div class="quiz-progress-text"><span id="q-current">1</span> / <span id="q-total">0</span></div>
+                    <div class="quiz-progress-bar"><div id="q-progress-fill" class="progress-fill"></div></div>
+                </div>
+                <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
+                <div id="quiz-timer" class="quiz-timer" style="display: none; background: rgba(218, 54, 51, 0.1); color: var(--quiz-wrong); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(218, 54, 51, 0.3); display: flex; align-items: center; gap: 5px; white-space: nowrap;"><i class="far fa-clock"></i> <span id="timer-val">60</span></div>
+                <button id="btn-mute-question" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
+            </header>
+            
+            <div class="question-container">
+                <div class="question-meta" style="display:none">
+                    <!-- Legacy meta hidden for now -->
+                </div>
+                
+                <div id="q-text" class="question-text"></div>
+                
+                <div id="q-image-container" class="quiz-image-container" style="display:none">
+                    <!-- Image will be injected here -->
+                </div>
+                
+                <div id="q-options" class="options-grid">
+                    <!-- Options A, B, C, D -->
+                </div>
+
+                <!-- Confidence Rating Chips -->
+                <div id="confidence-rating-container" class="confidence-container" style="display: none; margin-top: 20px; text-align: center; animation: explanation-slide 0.3s ease-out;">
+                    <span id="confidence-label" style="display: block; font-size: 0.85rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;">How was this question?</span>
+                    <div class="confidence-chips" style="display: inline-flex; gap: 10px; width: 100%; max-width: 400px;">
+                        <button id="chip-unsure" class="conf-chip chip-unsure" style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background: linear-gradient(145deg, #21262d, #161b22); border: 1px solid var(--quiz-border); color: var(--quiz-text); padding: 12px; border-radius: 12px; cursor: pointer; font-weight: 700; font-size: 0.9rem; transition: all 0.2s;">
+                            <i class="fas fa-brain" style="color: var(--quiz-warning);"></i>
+                            <span id="lbl-unsure">Difficult / Unsure</span>
+                        </button>
+                        <button id="chip-easy" class="conf-chip chip-easy" style="flex: 1; display: flex; align-items: center; justify-content: center; gap: 8px; background: linear-gradient(145deg, #21262d, #161b22); border: 1px solid var(--quiz-border); color: var(--quiz-text); padding: 12px; border-radius: 12px; cursor: pointer; font-weight: 700; font-size: 0.9rem; transition: all 0.2s;">
+                            <i class="fas fa-face-smile" style="color: var(--quiz-correct);"></i>
+                            <span id="lbl-easy">Easy / Know</span>
+                        </button>
+                    </div>
+                </div>
+
+                <div id="q-explanation" class="explanation-box" style="display:none">
+                    <div class="exp-header"><i class="fas fa-lightbulb"></i> <span id="exp-title-text">Clinical Explanation</span></div>
+                    
+                    <div id="exp-image-container" class="quiz-image-container" style="display:none; margin-top:10px;">
+                        <!-- Explanation image -->
+                    </div>
+
+                    <div id="exp-text" class="exp-content"></div>
+                    <div id="exp-chapter-select" class="exp-chapter-picker" style="display:none">
+                        <p id="exp-picker-label">Select chapter to open:</p>
+                        <div id="exp-chapter-list" class="chapter-links-grid"></div>
+                    </div>
+                    <div class="exp-actions">
+                        <button id="btn-open-reader-main" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
+                        <button id="btn-next-q" class="btn-primary">Next Question <i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ALL QUESTIONS SCREEN -->
+        <section id="screen-all-questions" class="quiz-screen">
+            <header class="quiz-header">
+                <button class="quiz-exit-btn" id="btn-exit-all-q"><i class="fas fa-times"></i> Exit</button>
+                <h1 id="all-q-title">All Questions</h1>
+                <div id="all-q-counter" class="quiz-live-score">Questions: 0</div>
+            </header>
+            
+            <div class="all-questions-container">
+                <div id="all-questions-list" class="all-questions-list">
+                    <!-- List of questions -->
+                </div>
+            </div>
+        </section>
+
+        <!-- RESULTS SCREEN -->
+        <section id="screen-results" class="quiz-screen">
+            <header class="quiz-header">
+                <h1>Quiz Results</h1>
+            </header>
+            <div class="results-content">
+                <div class="results-summary">
+                    <div id="res-trophy" class="res-trophy">🏆</div>
+                    <div id="res-score-big" class="res-score-pct">0%</div>
+                    <div id="res-score-raw" class="res-score-text">0 / 0 Correct</div>
+                    <div id="res-grade" class="res-grade">Excellent!</div>
+                </div>
+                
+                <div class="results-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Time Spent</span>
+                        <span id="res-time" class="stat-value">0m 0s</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Avg/Question</span>
+                        <span id="res-avg-time" class="stat-value">0s</span>
+                    </div>
+                </div>
+
+                <div class="results-actions">
+                    <button id="btn-restart" class="btn-primary btn-large">🔁 Try Again</button>
+                    <button id="btn-new-session" class="btn-secondary">🔀 New Session</button>
+                    <button id="btn-res-exit" class="btn-outline">📖 Back to Reader</button>
+                </div>
+            </div>
+            
+            <div id="exam-errors-section" class="exam-errors-section" style="display:none">
+                <h2 id="exam-errors-title">Review Incorrect Answers</h2>
+                <div id="exam-errors-list" class="exam-errors-list"></div>
+            </div>
+        </section>
+    </div>
+
+    <script src="assets/js/config.js"></script>
+    <!-- KaTeX JS for LaTeX math rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+    <script src="assets/js/quiz.js?v=1.2"></script>
+    <script src="assets/js/overlay-tools.js?v=1.0"></script>
+</body>
+</html>

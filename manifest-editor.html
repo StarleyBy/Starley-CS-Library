@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starley Manifest Editor</title>
+    <link rel="stylesheet" href="assets/css/styles.css?v=2.2">
+    <link rel="stylesheet" href="assets/css/manifest-editor.css?v=1.5">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- KaTeX for LaTeX math rendering -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
+    <!-- CodeMirror CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/theme/monokai.min.css">
+    <!-- CodeMirror JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.2/mode/javascript/javascript.min.js"></script>
+</head>
+<body class="me-body">
+    <header class="me-header">
+        <div class="me-header-inner">
+            <span class="me-header-title">🛠️ Starley Manifest Editor</span>
+            <nav class="me-header-nav">
+                <a href="index.html">Library</a>
+                <a href="editor.html">Editor</a>
+                <a href="quiz.html">Quiz</a>
+                <a href="manifest-editor.html" class="active">Manifests</a>
+            </nav>
+            <div class="me-header-layout">
+                <button id="me-btn-toggle-sidebar" class="me-layout-btn active" title="Toggle Sidebar (Files & Navigation)">
+                    <i class="fas fa-columns"></i> <span>Sidebar</span>
+                </button>
+                <button id="me-btn-toggle-editor" class="me-layout-btn active" title="Toggle Editor">
+                    <i class="fas fa-edit"></i> <span>Editor</span>
+                </button>
+                <button id="me-btn-toggle-preview" class="me-layout-btn active" title="Toggle Live Preview">
+                    <i class="fas fa-desktop"></i> <span>Preview</span>
+                </button>
+                <button id="me-btn-reset-layout" class="me-layout-btn me-layout-btn-icon" title="Reset Layout Sizes">
+                    <i class="fas fa-undo"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="me-shell" id="me-shell">
+        <!-- Sidebar for Loading and Meta -->
+        <aside class="me-sidebar" id="me-sidebar">
+            <div class="me-sidebar-section">
+                <h3>📂 Load Manifest</h3>
+                <div class="me-field-group">
+                    <label>Book</label>
+                    <select id="me-select-book"><option value="">Select a book...</option></select>
+                </div>
+                <div class="me-field-group">
+                    <label>Type</label>
+                    <select id="me-select-type">
+                        <option value="quiz">Quiz (JSON)</option>
+                        <option value="magazine">Magazine (JSON)</option>
+                        <option value="metadata">Metadata (JSON)</option>
+                        <option value="library">Library (JSON)</option>
+                    </select>
+                </div>
+                <div class="me-field-group">
+                    <label>Manifest File</label>
+                    <select id="me-select-file" disabled><option value="">Select file...</option></select>
+                </div>
+                <div class="me-actions-grid">
+                    <button id="me-btn-load" class="me-btn me-btn-blue"><i class="fas fa-file-import"></i> Load</button>
+                    <button id="me-btn-new" class="me-btn me-btn-green"><i class="fas fa-plus"></i> New</button>
+                </div>
+            </div>
+
+            <div class="me-sidebar-section" id="me-section-meta" style="display:none;">
+                <h3>📑 Global Metadata</h3>
+                <div id="me-meta-fields">
+                    <!-- Fields injected by JS based on type -->
+                </div>
+            </div>
+
+            <div class="me-sidebar-section" id="me-section-nav" style="display:none;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                    <h3 style="margin: 0; font-size: 0.75rem; text-transform: uppercase; color: var(--me-accent-blue); letter-spacing: 1px;">🎯 Quick Navigation</h3>
+                    <button id="me-btn-global-search" class="me-btn me-btn-sm me-btn-blue" style="padding: 2px 6px; font-size: 0.7rem; gap: 4px;" title="Search across all quiz files"><i class="fas fa-search"></i> Search All</button>
+                </div>
+                <div class="me-field-group">
+                    <input type="text" id="me-nav-search" placeholder="Search by ID or text..." autocomplete="off">
+                </div>
+                <div id="me-nav-list" class="me-nav-list"></div>
+            </div>
+
+            <div class="me-sidebar-section">
+                <h3>💾 Save & Actions</h3>
+                <div class="me-save-actions">
+                    <button id="me-btn-download" class="me-btn me-btn-outline"><i class="fas fa-download"></i> Download JSON</button>
+                    <button id="me-btn-save-github" class="me-btn me-btn-success"><i class="fab fa-github"></i> Save to GitHub</button>
+                    <button id="me-btn-sync-r2" class="me-btn me-btn-blue" style="background: linear-gradient(135deg, #f38020, #e06c10); border: none; color: white;"><i class="fas fa-cloud-upload-alt"></i> R2 Media Sync</button>
+                    <div id="me-github-status" class="me-status-text"></div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Resizer Left -->
+        <div class="me-resizer" id="me-resizer-left" title="Drag to resize sidebar. Double-click to toggle.">
+            <div class="me-resizer-handle"></div>
+            <button class="me-resizer-toggle" id="me-toggle-sidebar-resizer" title="Toggle Sidebar">
+                <i class="fas fa-chevron-left"></i>
+            </button>
+        </div>
+
+        <!-- Main Editor Area -->
+        <main class="me-main" id="me-main">
+            <div class="me-tabs">
+                <button class="me-tab-btn active" data-tab="form">Form Editor</button>
+                <button class="me-tab-btn" data-tab="json">Raw JSON</button>
+            </div>
+
+            <div class="me-tab-content active" id="me-tab-form">
+                <div class="me-items-list-header">
+                    <span id="me-items-count">0 items</span>
+                    <button id="me-btn-add-item" class="me-btn me-btn-sm me-btn-green"><i class="fas fa-plus"></i> Add Item</button>
+                </div>
+                <div id="me-items-container" class="me-items-container">
+                    <!-- Form items injected here -->
+                    <div class="me-empty-state">Load or create a manifest to start editing</div>
+                </div>
+            </div>
+
+            <div class="me-tab-content" id="me-tab-json">
+                <div class="me-json-toolbar">
+                    <span class="me-json-toolbar-label"><i class="fas fa-search"></i> Jump to Item:</span>
+                    <select id="me-json-jump-select" class="me-json-jump-select">
+                        <option value="">Select item to jump...</option>
+                    </select>
+                </div>
+                <div class="me-json-editor-container">
+                    <textarea id="me-json-editor"></textarea>
+                </div>
+            </div>
+        </main>
+
+        <!-- Resizer Right -->
+        <div class="me-resizer" id="me-resizer-right" title="Drag to resize preview. Double-click to toggle.">
+            <div class="me-resizer-handle"></div>
+            <button class="me-resizer-toggle" id="me-toggle-preview-resizer" title="Toggle Live Preview">
+                <i class="fas fa-chevron-right"></i>
+            </button>
+        </div>
+
+        <!-- Preview Pane -->
+        <section class="me-preview-pane" id="me-preview-pane">
+            <div class="me-preview-header" style="flex-shrink: 0; min-height: 40px; display: flex; align-items: center; justify-content: space-between; padding: 6px 12px; background: #eee; border-bottom: 1px solid #ddd;">
+                <span class="me-preview-title" style="font-weight: 600; font-size: 0.9rem; color: #333;">Live Preview</span>
+                <div class="me-preview-right-controls" style="display: flex; align-items: center; gap: 14px;">
+                    <div class="me-preview-lang" id="me-preview-lang-cont" style="display: flex; align-items: center;">
+                        <button class="me-btn me-btn-sm me-btn-outline active" data-lang="En" style="border-top-right-radius: 0; border-bottom-right-radius: 0; padding: 2px 10px; font-size: 0.8rem; font-weight: 600;">EN</button>
+                        <button class="me-btn me-btn-sm me-btn-outline" data-lang="Ru" style="border-top-left-radius: 0; border-bottom-left-radius: 0; margin-left: -1px; padding: 2px 10px; font-size: 0.8rem; font-weight: 600;">RU</button>
+                    </div>
+                    <div class="me-preview-controls" style="display: flex; align-items: center; gap: 10px;">
+                        <button id="me-preview-prev" class="me-btn me-btn-icon" title="Previous Question" style="background: none; border: none; cursor: pointer; color: var(--me-accent-blue, #3498db); padding: 2px 4px; font-size: 0.95rem;"><i class="fas fa-chevron-left"></i></button>
+                        <div class="me-preview-index-wrapper" style="display: inline-block; position: relative;">
+                            <span id="me-preview-index" title="Click to jump to question" style="cursor: pointer; font-weight: 700; color: var(--me-accent-blue, #3498db); padding: 2px 6px; border-radius: 4px; transition: background 0.2s; font-size: 0.9rem;">0 / 0</span>
+                            <input type="text" id="me-preview-index-input" style="display: none; width: 55px; text-align: center; background: var(--me-input-bg, #3c3c3c); border: 1px solid var(--me-input-border, #555); color: white; border-radius: 4px; font-size: 0.85rem; padding: 2px 4px;" placeholder="Go to...">
+                        </div>
+                        <button id="me-preview-next" class="me-btn me-btn-icon" title="Next Question" style="background: none; border: none; cursor: pointer; color: var(--me-accent-blue, #3498db); padding: 2px 4px; font-size: 0.95rem;"><i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div id="me-preview-content" class="me-preview-content">
+                <div class="me-preview-empty">Select an item to preview</div>
+            </div>
+        </section>
+    </div>
+
+    <!-- GitHub Token Modal -->
+    <div id="me-github-modal" class="me-modal" style="display:none;">
+        <div class="me-modal-box">
+            <h3>GitHub Authentication</h3>
+            <p>Enter your Personal Access Token to save changes.</p>
+            <input type="text" id="me-github-token" autocomplete="off" placeholder="ghp_xxxxxxxxxxxx" style="-webkit-text-security: disc;">
+            <div class="me-modal-actions">
+                <button id="me-btn-token-save" class="me-btn me-btn-blue">Save & Continue</button>
+                <button id="me-btn-token-cancel" class="me-btn me-btn-outline">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Global Search Modal -->
+    <div id="me-search-modal" class="me-modal" style="display:none; z-index: 10000;">
+        <div class="me-search-modal-box">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid var(--me-border); padding-bottom: 10px;">
+                <h3 style="margin: 0; display: flex; align-items: center; gap: 10px; color: var(--me-accent-blue);"><i class="fas fa-search"></i> Search All Quizzes</h3>
+                <span id="me-search-modal-close" style="cursor: pointer; font-size: 1.5rem; color: var(--me-text-muted);">&times;</span>
+            </div>
+            <div class="me-field-group" style="margin-bottom: 10px;">
+                <input type="text" id="me-search-input" placeholder="Type to search questions, options, or explanations..." autocomplete="off" style="width: 100%; padding: 10px; font-size: 1.05rem; border-radius: 6px; border: 1px solid var(--me-input-border); background: var(--me-input-bg); color: white;">
+            </div>
+            <div id="me-search-status" style="font-size: 0.8rem; color: var(--me-text-muted); margin-bottom: 10px;">Indexing quizzes...</div>
+            <div id="me-search-results" class="me-search-results-list">
+                <div style="color: var(--me-text-muted); text-align: center; margin-top: 20px;">Type a query to search...</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- R2 Media Sync Modal -->
+    <div id="me-r2-modal" class="me-modal" style="display:none; z-index: 10000;">
+        <div class="me-search-modal-box" style="max-width: 600px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-bottom: 1px solid var(--me-border); padding-bottom: 10px;">
+                <h3 style="margin: 0; display: flex; align-items: center; gap: 10px; color: #f38020;"><i class="fas fa-cloud-upload-alt"></i> Cloudflare R2 Media Sync</h3>
+                <span id="me-r2-modal-close" style="cursor: pointer; font-size: 1.5rem; color: var(--me-text-muted);">&times;</span>
+            </div>
+            
+            <div style="background: var(--me-bg-dark, #18191c); padding: 15px; border-radius: 8px; border: 1px solid var(--me-border); margin-bottom: 15px;">
+                <div style="font-weight: 600; color: #fff; margin-bottom: 5px;">📡 Bucket Target: <span style="color: #4da6ff;">starley-cs-library</span></div>
+                <div style="font-size: 0.85rem; color: var(--me-text-muted);">Public CDN: <a href="https://pub-605e081f469a43f5a38ba5dd98d4ff8f.r2.dev" target="_blank" style="color: #f38020; text-decoration: none;">pub-605e081f469a43f5a38ba5dd98d4ff8f.r2.dev</a></div>
+            </div>
+
+            <p style="font-size: 0.9rem; color: var(--me-text-secondary); line-height: 1.5;">
+                Новые файлы изображений, добавленные в папки <code>books/...</code> локально, загружаются в облако Cloudflare R2.
+            </p>
+
+            <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 15px;">
+                <button id="me-btn-trigger-r2-sync" class="me-btn me-btn-blue" style="background: linear-gradient(135deg, #f38020, #e06c10); border: none; padding: 12px; font-size: 1rem; font-weight: 600;">
+                    <i class="fas fa-play"></i> Запустить синхронизацию новых файлов
+                </button>
+                <div style="background: #111; padding: 10px; border-radius: 6px; font-family: monospace; font-size: 0.8rem; color: #aaa; border: 1px solid #333;">
+                    Команда в терминале: <span style="color: #42b983;">npm run sync-media</span>
+                </div>
+            </div>
+
+            <div id="me-r2-log" style="margin-top: 15px; max-height: 180px; overflow-y: auto; background: #0d1117; padding: 10px; border-radius: 6px; font-family: monospace; font-size: 0.8rem; color: #42b983; display: none;"></div>
+        </div>
+    </div>
+
+    <script src="assets/js/config.js?v=1.2"></script>
+    <!-- KaTeX JS for LaTeX math rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+    <script src="assets/js/manifest-editor.js?v=1.7"></script>
+</body>
+</html>

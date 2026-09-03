@@ -1,0 +1,1381 @@
+/* ===== VARIABLES ===== */
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --accent-color: #e74c3c;
+    --background: #f8f9fa;
+    --text-color: #333;
+    --border-color: #dee2e6;
+    --highlight-yellow: #fff3cd;
+    --highlight-green: #d4edda;
+}
+
+/* ===== BASE STYLES ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background: var(--background);
+}
+
+/* ===== HEADER ===== */
+header {
+    background: var(--primary-color);
+    color: white;
+    padding: 0.8rem 2rem;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 10000;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+header nav a:hover {
+    background: rgba(255,255,255,0.1);
+}
+
+/* ===== MAIN CONTENT ===== */
+main {
+    max-width: 96%;
+    width: 96%;
+    margin: 4.5rem auto 0.75rem auto;
+    padding: 0 0.5rem;
+}
+
+.search-box {
+    margin-bottom: 2rem;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    transition: border-color 0.3s;
+}
+
+.search-box input:focus {
+    outline: none;
+    border-color: var(--secondary-color);
+}
+
+/* ===== CATEGORIES AND BOOKS ===== */
+.category-section {
+    margin-bottom: 2rem;
+}
+
+.category-title {
+    font-size: 1.8rem;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--secondary-color);
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.book-cover-wrapper {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+
+.book-cover-wrapper:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+.book-cover-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.book-info-below {
+    margin-top: 8px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.book-title {
+    font-size: 1.1rem;
+    margin: 0 0 5px 0;
+    color: var(--primary-color);
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.book-authors {
+    font-size: 0.9rem;
+    margin: 0;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Neon style for book info */
+.neon-info {
+    position: relative;
+    padding: 8px 5px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.95);
+    transition: all 0.3s ease;
+    margin-top: 8px;
+    text-align: center;
+    border: 1px solid rgba(100, 100, 100, 0.3);
+    animation: neonPulse 2s infinite alternate;
+    color: inherit;
+    max-height: 70px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Адаптивный размер шрифта для названия книги */
+.book-title {
+    font-size: clamp(0.7rem, 2.5vw, 1rem);
+    margin: 0 0 2px 0;
+    color: var(--primary-color);
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    min-height: 1.2em;
+    line-height: 1.2;
+}
+
+/* Адаптивный размер шрифта для авторов */
+.book-authors {
+    font-size: clamp(0.6rem, 2vw, 0.8rem);
+    margin: 0;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    min-height: 1.1em;
+    line-height: 1.1;
+}
+
+@keyframes neonPulse {
+    from {
+        box-shadow: 0 0 5px rgba(255, 255, 255, 0.5), 0 0 10px currentColor;
+    }
+    to {
+        box-shadow: 0 0 15px rgba(255, 255, 255, 0.8), 0 0 25px currentColor;
+    }
+}
+
+/* Стили для карточки книги, используемой в других частях приложения */
+.book-card {
+    background: white;
+    padding: 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+    border: 1px solid var(--border-color);
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+.book-cover-img.cover-fallback {
+    object-fit: contain;
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: #666;
+    margin-top: 4rem;
+}
+
+/* ===== RESPONSIVENESS ===== */
+@media (max-width: 768px) {
+    main {
+        padding: 0 1rem;
+    }
+    
+    .books-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+
+    .book-cover-wrapper {
+        height: 220px;
+    }
+
+    header {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    header h1 {
+        margin-bottom: 1rem;
+    }
+    
+    header nav a {
+        display: block;
+        margin: 0.5rem 0;
+        text-align: center;
+    }
+}
+
+/* ===== UTILITIES ===== */
+.loading {
+    text-align: center;
+    padding: 3rem;
+    color: #999;
+    font-size: 1.1rem;
+}
+
+.error {
+    color: var(--accent-color);
+    padding: 2rem;
+    text-align: center;
+    background: #ffe6e6;
+    border-radius: 8px;
+    border: 2px solid var(--accent-color);
+    font-weight: 600;
+}
+
+/* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
+
+/* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
+.oval {
+    padding: 3px 12px;
+    border-radius: 20px;
+    font-weight: 500;
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Gradient oval styles - MUCH MORE VIBRANT */
+.oval.ov-gold,
+.gold-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+    color: #333;
+    box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3);
+    border: none;
+}
+
+.oval.ov-green,
+.green-highlighted-oval-3d {
+    background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3);
+    border: none;
+}
+
+.oval.ov-blue,
+.blue-highlighted-oval-3d {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3);
+    border: none;
+}
+
+.oval.ov-red,
+.red-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f85032 0%, #e73827 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3);
+    border: none;
+}
+
+.oval.ov-pink,
+.pink-highlighted-oval-3d {
+    background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3);
+    border: none;
+}
+
+.oval.ov-purple,
+.purple-highlighted-oval-3d {
+    background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3);
+    border: none;
+}
+
+.oval.ov-teal,
+.teal-highlighted-oval-3d {
+    background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3);
+    border: none;
+}
+
+.oval.ov-orange,
+.orange-highlighted-oval-3d {
+    background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%);
+    color: white;
+    box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3);
+    border: none;
+}
+
+.oval.ov-yellow,
+.yellow-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%);
+    color: #333;
+    box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3);
+    border: none;
+}
+
+.oval.ov-grey,
+.oval.ov-silver,
+.silver-highlighted-oval-3d {
+    background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
+    color: #333;
+    box-shadow: 0 4px 6px rgba(189, 195, 199, 0.3);
+    border: none;
+}
+
+/* 3. LUMINOUS BLOCKS WITH GLOW */
+.luminous-block {
+    display: inline-block;
+    padding: 4px 12px;
+    margin: 0 3px;
+    border-radius: 4px;
+    font-weight: 600;
+    box-shadow: 0 0 10px currentColor;
+}
+
+.luminous-blue {
+    background: rgba(33, 150, 243, 0.2);
+    color: #2196f3;
+}
+
+.luminous-green {
+    background: rgba(76, 175, 80, 0.2);
+    color: #4caf50;
+}
+
+.luminous-red {
+    background: rgba(244, 67, 54, 0.2);
+    color: #f44336;
+}
+
+.luminous-yellow {
+    background: rgba(255, 235, 59, 0.3);
+    color: #f57f17;
+}
+
+.luminous-purple {
+    background: rgba(156, 39, 176, 0.2);
+    color: #9c27b0;
+}
+
+/* 4. CYBER EFFECTS */
+.cyber-glitch {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    color: #ff0000;
+    animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+    0%, 100% { transform: translate(0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(-2px, -2px); }
+    60% { transform: translate(2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+}
+
+.cyber-neon {
+    display: inline-block;
+    padding: 5px 15px;
+    font-weight: bold;
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
+    animation: neon-pulse 2s infinite;
+}
+
+@keyframes neon-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+.cyber-neon-pink { color: #ff1f8f; }
+.cyber-neon-blue { color: #00d9ff; }
+.cyber-neon-green { color: #39ff14; }
+.cyber-neon-yellow { color: #ffff00; }
+
+/* 5. INFO BOXES */
+.info-box {
+    background: #ffeaa7;
+    border-left: 4px solid #fdcb6e;
+    padding: 15px 20px;
+    margin: 15px 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.info-box-info {
+    background: #e3f2fd;
+    border-left-color: #2196f3;
+}
+
+.info-box-success {
+    background: #e8f5e9;
+    border-left-color: #4caf50;
+}
+
+.info-box-warning {
+    background: #fff3cd;
+    border-left-color: #ff9800;
+}
+
+.info-box-danger {
+    background: #ffebee;
+    border-left-color: #f44336;
+}
+
+/* Стили для внутренних ссылок (якорей) */
+a[href^="#"] {
+    color: #3498db;
+    text-decoration: none;
+    border-bottom: 1px dashed #3498db;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+a[href^="#"]:hover {
+    color: #2980b9;
+    border-bottom: 1px solid #2980b9;
+    background-color: rgba(52, 152, 219, 0.1);
+}
+
+/* Подсветка целевого якоря при переходе */
+:target {
+    animation: highlight-target 2s ease;
+    scroll-margin-top: 20px; /* Отступ сверху при прокрутке */
+}
+
+@keyframes highlight-target {
+    0% {
+        background-color: rgba(241, 196, 15, 0.3);
+    }
+    100% {
+        background-color: transparent;
+    }
+}
+
+/* Стиль для якорей */
+[id] {
+    scroll-margin-top: 20px;
+}
+
+/* Плавная прокрутка при переходе по якорям */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Стили для умной кнопки возврата */
+a[data-back="true"] {
+    display: inline-block;
+    margin-left: 10px;
+    padding: 2px 8px;
+    font-size: 0.85em;
+    color: #7f8c8d;
+    text-decoration: none;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+a[data-back="true"]:hover {
+    color: #2c3e50;
+    border-color: #7f8c8d;
+    background-color: #ecf0f1;
+    transform: translateX(-2px);
+}
+
+a[data-back="true"]:active {
+    transform: scale(0.95);
+}
+
+/* ==================== DOCUSAURUS-STYLE INFO BLOCKS ==================== */
+
+/* Базовый стиль для всех блоков */
+.admonition {
+    margin: 20px 0;
+    padding: 15px 20px;
+    border-left: 5px solid;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+.admonition-title {
+    font-weight: bold;
+    font-size: 1.15em;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.admonition-title::before {
+    font-size: 1.4em;
+}
+
+.admonition-content {
+    line-height: 1.7;
+}
+
+/* NOTE (насыщенный синий) */
+.admonition-note {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border-color: #1976d2;
+}
+.admonition-note .admonition-title {
+    color: #0d47a1;
+}
+.admonition-note .admonition-title::before {
+    content: "ℹ️";
+}
+
+/* TIP (яркий зеленый) */
+.admonition-tip {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #388e3c;
+}
+.admonition-tip .admonition-title {
+    color: #1b5e20;
+}
+.admonition-tip .admonition-title::before {
+    content: "💡";
+}
+
+/* INFO (бирюзовый) */
+.admonition-info {
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
+    border-color: #0097a7;
+}
+.admonition-info .admonition-title {
+    color: #006064;
+}
+.admonition-info .admonition-title::before {
+    content: "📌";
+}
+
+/* WARNING (яркий оранжевый) */
+.admonition-warning {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    border-color: #f57c00;
+}
+.admonition-warning .admonition-title {
+    color: #e65100;
+}
+.admonition-warning .admonition-title::before {
+    content: "⚠️";
+}
+
+/* DANGER (насыщенный красный) */
+.admonition-danger {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #d32f2f;
+}
+.admonition-danger .admonition-title {
+    color: #b71c1c;
+}
+.admonition-danger .admonition-title::before {
+    content: "🚨";
+}
+
+/* CAUTION (золотой) */
+.admonition-caution {
+    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
+    border-color: #f9a825;
+}
+.admonition-caution .admonition-title {
+    color: #f57f17;
+}
+.admonition-caution .admonition-title::before {
+    content: "⚡";
+}
+
+/* ==================== МЕДИЦИНСКИЕ БЛОКИ ==================== */
+
+/* DOSAGE (насыщенный фиолетовый) */
+.admonition-dosage {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    border-color: #7b1fa2;
+}
+.admonition-dosage .admonition-title {
+    color: #4a148c;
+}
+.admonition-dosage .admonition-title::before {
+    content: "💉";
+}
+
+/* CONTRAINDICATION (яркий пурпурный) */
+.admonition-contraindication {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #c2185b;
+}
+.admonition-contraindication .admonition-title {
+    color: #880e4f;
+}
+.admonition-contraindication .admonition-title::before {
+    content: "🚫";
+}
+
+/* SIDE-EFFECT (янтарный) */
+.admonition-side-effect {
+    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    border-color: #ff8f00;
+}
+.admonition-side-effect .admonition-title {
+    color: #ff6f00;
+}
+.admonition-side-effect .admonition-title::before {
+    content: "⚠️";
+}
+
+/* CLINICAL (изумрудный) */
+.admonition-clinical {
+    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+    border-color: #00796b;
+}
+.admonition-clinical .admonition-title {
+    color: #004d40;
+}
+.admonition-clinical .admonition-title::before {
+    content: "🏥";
+}
+
+/* ANATOMY (коралловый) */
+.admonition-anatomy {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #ad1457;
+}
+.admonition-anatomy .admonition-title {
+    color: #880e4f;
+}
+.admonition-anatomy .admonition-title::before {
+    content: "🫀";
+}
+
+/* PHYSIOLOGY (небесно-голубой) */
+.admonition-physiology {
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    border-color: #0277bd;
+}
+.admonition-physiology .admonition-title {
+    color: #01579b;
+}
+.admonition-physiology .admonition-title::before {
+    content: "🧬";
+}
+
+/* SURGERY (лесной зеленый) */
+.admonition-surgery {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #2e7d32;
+}
+.admonition-surgery .admonition-title {
+    color: #1b5e20;
+}
+.admonition-surgery .admonition-title::before {
+    content: "🔪";
+}
+
+/* ICU (огненно-красный) */
+.admonition-icu {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #c62828;
+}
+.admonition-icu .admonition-title {
+    color: #b71c1c;
+}
+.admonition-icu .admonition-title::before {
+    content: "🚑";
+}
+
+/* EVIDENCE (стальной синий) */
+.admonition-evidence {
+    background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
+    border-color: #455a64;
+}
+.admonition-evidence .admonition-title {
+    color: #263238;
+}
+.admonition-evidence .admonition-title::before {
+    content: "📊";
+}
+
+/* PROTOCOL (глубокий индиго) */
+.admonition-protocol {
+    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
+    border-color: #303f9f;
+}
+.admonition-protocol .admonition-title {
+    color: #1a237e;
+}
+.admonition-protocol .admonition-title::before {
+    content: "📋";
+}
+
+/* ==================== LIBRARY INDEX IMPROVEMENTS ==================== */
+
+/* Основной контейнер */
+#library-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+/* Секция категории */
+.category-section {
+    margin-bottom: 50px;
+}
+
+.category-title {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #3498db;
+    position: relative;
+}
+
+.category-title::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100px;
+    height: 3px;
+    background: linear-gradient(90deg, #3498db, transparent);
+}
+
+/* Сетка книг */
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 25px;
+}
+
+/* Карточка книги - базовые стили */
+.book-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Контейнер обложки */
+.book-cover-container {
+    position: relative;
+    width: 100%;
+    padding-top: 140%; /* Соотношение сторон книги */
+    overflow: hidden;
+    background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+}
+
+.book-cover-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.book-card:hover .book-cover-container img {
+    transform: scale(1.05);
+}
+
+/* Информация о книге */
+.book-info {
+    padding: 15px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    background: white;
+}
+
+/* Название книги - АДАПТИВНЫЙ РАЗМЕР ШРИФТА */
+.book-card h3 {
+    font-size: 1.1rem;
+    line-height: 1.3;
+    height: 2.6em; /* 2 строки */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    margin: 0 0 10px 0;
+    color: #2c3e50;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.book-card:hover h3 {
+    color: #3498db;
+}
+
+/* Для длинных названий (50-80 символов) */
+.book-card h3.long-title {
+    font-size: 0.95rem;
+    line-height: 1.25;
+}
+
+/* Для очень длинных названий (80+ символов) */
+.book-card h3.very-long-title {
+    font-size: 0.85rem;
+    line-height: 1.2;
+    -webkit-line-clamp: 3;
+    height: 3.6em; /* 3 строки */
+}
+
+/* Авторы */
+.book-authors {
+    font-size: 0.85rem;
+    color: #7f8c8d;
+    line-height: 1.4;
+    margin: 0;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+}
+
+/* ==================== ИНДИКАТОРЫ ВЕРСИЙ ==================== */
+
+/* Контейнер badges */
+.version-badges {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    display: flex;
+    gap: 4px;
+    z-index: 10;
+}
+
+/* Неоновые badge */
+.version-badge {
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    backdrop-filter: blur(4px);
+    animation: neon-pulse 2.5s ease-in-out infinite;
+    transition: all 0.3s ease;
+}
+
+.book-card:hover .version-badge {
+    transform: scale(1.1);
+}
+
+/* RU Badge - Красный неон */
+.version-badge.ru {
+    background: rgba(231, 76, 60, 0.95);
+    color: #fff;
+    text-shadow: 
+        0 0 5px #e74c3c,
+        0 0 10px #e74c3c,
+        0 0 15px rgba(231, 76, 60, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 
+        0 0 10px rgba(231, 76, 60, 0.6),
+        0 0 20px rgba(231, 76, 60, 0.3),
+        inset 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+/* STAR Badge - Синий неон */
+.version-badge.star {
+    background: rgba(52, 152, 219, 0.95);
+    color: #fff;
+    text-shadow: 
+        0 0 5px #3498db,
+        0 0 10px #3498db,
+        0 0 15px rgba(52, 152, 219, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 
+        0 0 10px rgba(52, 152, 219, 0.6),
+        0 0 20px rgba(52, 152, 219, 0.3),
+        inset 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+/* Анимация неонового пульса */
+@keyframes neon-pulse {
+    0%, 100% {
+        opacity: 1;
+        box-shadow: 
+            0 0 10px currentColor,
+            0 0 20px currentColor,
+            0 0 30px rgba(255, 255, 255, 0.2),
+            inset 0 0 10px rgba(255, 255, 255, 0.1);
+    }
+    50% {
+        opacity: 0.9;
+        box-shadow: 
+            0 0 5px currentColor,
+            0 0 10px currentColor,
+            0 0 15px rgba(255, 255, 255, 0.1),
+            inset 0 0 5px rgba(255, 255, 255, 0.05);
+    }
+}
+
+/* ==================== TOOLTIP ДЛЯ ПОЛНОГО НАЗВАНИЯ ==================== */
+
+/* Tooltip появляется при hover на длинных названиях */
+.book-card[data-full-title]:hover::after {
+    content: attr(data-full-title);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #2c3e50;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    white-space: normal;
+    max-width: 280px;
+    width: max-content;
+    text-align: center;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    margin-bottom: 10px;
+    pointer-events: none;
+    line-height: 1.4;
+    animation: tooltip-fade-in 0.2s ease;
+}
+
+/* Стрелка tooltip */
+.book-card[data-full-title]:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 7px solid transparent;
+    border-top-color: #2c3e50;
+    margin-bottom: 3px;
+    z-index: 1001;
+    animation: tooltip-fade-in 0.2s ease;
+}
+
+@keyframes tooltip-fade-in {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+/* ==================== LOADING & ERROR STATES ==================== */
+
+.loading {
+    text-align: center;
+    padding: 40px;
+    color: #7f8c8d;
+    font-size: 1.1rem;
+}
+
+.error {
+    background: #ffebee;
+    color: #c62828;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 4px solid #c62828;
+    margin: 20px 0;
+}
+
+/* ==================== RESPONSIVE ==================== */
+
+@media (max-width: 1200px) {
+    .books-grid {
+        grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+        gap: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .books-grid {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 15px;
+    }
+    
+    .category-title {
+        font-size: 1.6rem;
+    }
+    
+    .book-card h3 {
+        font-size: 0.95rem;
+    }
+    
+    .book-card h3.long-title {
+        font-size: 0.85rem;
+    }
+    
+    .book-card h3.very-long-title {
+        font-size: 0.75rem;
+    }
+    
+    .version-badge {
+        font-size: 0.6rem;
+        padding: 3px 7px;
+    }
+}
+
+@media (max-width: 480px) {
+    .books-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+    
+    #library-container {
+        padding: 20px 10px;
+    }
+    
+    .category-section {
+        margin-bottom: 35px;
+    }
+    
+    .version-badges {
+        top: 6px;
+        right: 6px;
+        gap: 3px;
+    }
+    
+    /* Скрываем tooltip на мобильных */
+    .book-card[data-full-title]:hover::after,
+    .book-card[data-full-title]:hover::before {
+        display: none;
+    }
+}
+
+/* ==================== ДОПОЛНИТЕЛЬНЫЕ УЛУЧШЕНИЯ ==================== */
+
+/* Placeholder для обложек, которые не загрузились */
+.book-cover-container img[src*="placeholder"] {
+    object-fit: contain;
+    padding: 20px;
+    background: linear-gradient(135deg, #ecf0f1 0%, #bdc3c7 100%);
+}
+
+/* Скелетон загрузки */
+@keyframes skeleton-loading {
+    0% {
+        background-position: -200px 0;
+    }
+    100% {
+        background-position: calc(200px + 100%) 0;
+    }
+}
+
+.book-card.loading {
+    background: linear-gradient(
+        90deg,
+        #f0f0f0 0px,
+        #f8f8f8 40px,
+        #f0f0f0 80px
+    );
+    background-size: 200px;
+    animation: skeleton-loading 1.2s ease-in-out infinite;
+}
+
+/* Эффект появления карточек */
+@keyframes card-appear {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.book-card {
+    animation: card-appear 0.4s ease-out;
+}
+
+/* Задержка анимации для каскадного эффекта */
+.book-card:nth-child(1) { animation-delay: 0.05s; }
+.book-card:nth-child(2) { animation-delay: 0.1s; }
+.book-card:nth-child(3) { animation-delay: 0.15s; }
+.book-card:nth-child(4) { animation-delay: 0.2s; }
+.book-card:nth-child(5) { animation-delay: 0.25s; }
+.book-card:nth-child(6) { animation-delay: 0.3s; }
+
+/* ==================== СТИЛИ ИЗ INDEX_NEW.HTML ==================== */
+
+/* ==================== АДАПТИВНЫЙ РАЗМЕР ШРИФТА НАЗВАНИЙ ==================== */
+/* Используем !important чтобы переопределить inline стили от app.js */
+.book-card h3, 
+.book-card .book-title {
+    font-size: 1rem !important;
+    line-height: 1.3 !important;
+    height: auto !important;
+    max-height: 2.6em !important;
+    overflow: hidden !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    text-overflow: ellipsis !important;
+    margin-bottom: 0.5rem !important;
+    word-wrap: break-word !important;
+    hyphens: auto !important;
+}
+
+.book-card .book-title.long-title {
+    font-size: 0.9rem !important;
+    -webkit-line-clamp: 2 !important;
+    max-height: 2.4em !important;
+}
+
+.book-card .book-title.very-long-title {
+    font-size: 0.8rem !important;
+    -webkit-line-clamp: 3 !important;
+    max-height: 3.6em !important;
+}
+
+/* Авторы */
+.book-card p,
+.book-card .book-authors {
+    font-size: 0.85rem !important;
+    line-height: 1.3 !important;
+    height: auto !important;
+    max-height: 2.6em !important;
+    overflow: hidden !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    text-overflow: ellipsis !important;
+    word-wrap: break-word !important;
+}
+
+/* ==================== НЕОНОВЫЕ ИНДИКАТОРЫ ВЕРСИЙ ==================== */
+.version-badges {
+    position: absolute !important;
+    top: 6px !important;
+    right: 6px !important;
+    display: flex !important;
+    gap: 3px !important;
+    z-index: 10 !important;
+}
+
+.version-badge {
+    padding: 3px 7px !important;
+    border-radius: 4px !important;
+    font-size: 0.6rem !important;
+    font-weight: bold !important;
+    letter-spacing: 0.5px !important;
+    text-transform: uppercase !important;
+    backdrop-filter: blur(6px) !important;
+    transition: all 0.3s ease !important;
+    animation: neon-pulse 2.5s ease-in-out infinite !important;
+    opacity: 0.85 !important;
+}
+
+.version-badge.ru {
+    background: rgba(231, 76, 60, 0.75) !important;
+    color: rgba(255, 255, 255, 0.95) !important;
+    text-shadow: 
+        0 0 3px rgba(231, 76, 60, 0.8),
+        0 0 6px rgba(231, 76, 60, 0.5) !important;
+    border: 1px solid rgba(255, 255, 255, 0.25) !important;
+    box-shadow: 
+        0 0 6px rgba(231, 76, 60, 0.4),
+        0 0 12px rgba(231, 76, 60, 0.2),
+        inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
+}
+
+.version-badge.star {
+    background: rgba(52, 152, 219, 0.75) !important;
+    color: rgba(255, 255, 255, 0.95) !important;
+    text-shadow: 
+        0 0 3px rgba(52, 152, 219, 0.8),
+        0 0 6px rgba(52, 152, 219, 0.5) !important;
+    border: 1px solid rgba(255, 255, 255, 0.25) !important;
+    box-shadow: 
+        0 0 6px rgba(52, 152, 219, 0.4),
+        0 0 12px rgba(52, 152, 219, 0.2),
+        inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
+}
+
+/* EN Badge - Зелёный неон */
+.version-badge.en {
+    background: rgba(46, 204, 113, 0.75) !important;
+    color: rgba(255, 255, 255, 0.95) !important;
+    text-shadow:
+        0 0 3px rgba(46, 204, 113, 0.8),
+        0 0 6px rgba(46, 204, 113, 0.5) !important;
+    border: 1px solid rgba(255, 255, 255, 0.25) !important;
+    box-shadow:
+        0 0 6px rgba(46, 204, 113, 0.4),
+        0 0 12px rgba(46, 204, 113, 0.2),
+        inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
+}
+
+/* HE (Hebrew) Badge - Deep Blue with Gold Accent */
+.version-badge.he {
+    background: rgba(25, 25, 112, 0.85) !important;
+    color: rgba(255, 215, 0, 0.95) !important;
+    text-shadow:
+        0 0 3px rgba(25, 25, 112, 0.8),
+        0 0 6px rgba(255, 215, 0, 0.5) !important;
+    border: 1px solid rgba(255, 215, 0, 0.3) !important;
+    box-shadow:
+        0 0 6px rgba(25, 25, 112, 0.4),
+        0 0 12px rgba(255, 215, 0, 0.2),
+        inset 0 0 6px rgba(255, 255, 255, 0.08) !important;
+}
+
+@keyframes neon-pulse {
+    0%, 100% {
+        opacity: 0.85;
+        box-shadow: 
+            0 0 6px currentColor,
+            0 0 12px rgba(255, 255, 255, 0.15),
+            inset 0 0 6px rgba(255, 255, 255, 0.08);
+    }
+    50% {
+        opacity: 0.7;
+        box-shadow: 
+            0 0 4px currentColor,
+            0 0 8px rgba(255, 255, 255, 0.1),
+            inset 0 0 4px rgba(255, 255, 255, 0.05);
+    }
+}
+
+.book-card:hover .version-badge {
+    transform: scale(1.05) !important;
+    opacity: 0.95 !important;
+}
+
+.book-card[data-full-title]:hover::after {
+    content: attr(data-full-title);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #2c3e50;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    white-space: normal;
+    max-width: 280px;
+    width: max-content;
+    text-align: center;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    margin-bottom: 10px;
+    pointer-events: none;
+    line-height: 1.4;
+}
+
+.book-card[data-full-title]:hover::before {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 7px solid transparent;
+    border-top-color: #2c3e50;
+    margin-bottom: 3px;
+    z-index: 1001;
+}
+
+@media (max-width: 768px) {
+    .book-card[data-full-title]:hover::after,
+    .book-card[data-full-title]:hover::before {
+        display: none;
+    }
+    
+    .version-badge {
+        font-size: 0.6rem !important;
+        padding: 3px 7px !important;
+    }
+}
+
+.book-card {
+    position: relative !important;
+}
+
+.book-cover-wrapper {
+    position: relative !important;
+}
+
+/* Убираем inline стили от app.js */
+.book-title[style],
+.book-authors[style] {
+    font-size: inherit !important;
+}

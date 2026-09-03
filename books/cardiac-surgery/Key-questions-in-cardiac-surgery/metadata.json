@@ -1,0 +1,139 @@
+[
+  {
+    "title": "Key questions in cardiac surgery",
+    "russian_title": "Ключевые вопросы кардиохирургии",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery"
+    ],
+    "authors": [
+      "Narain Moorjani, Nicola Viola, Sunil K. Ohri"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": true
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Cardiac anatomy",
+        "russian": "1. Анатомия сердца"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Cardiac physiology",
+        "russian": "2. Физиология сердца"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Cardiac pharmacology",
+        "russian": "3. Фармакология сердца"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Electrocardiography",
+        "russian": "4. Электрокардиография"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Echocardiography",
+        "russian": "5. Эхокардиография"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Cardiac catheterisation",
+        "russian": "6. Катетеризация сердца"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Radiological imaging",
+        "russian": "7. Лучевая визуализация"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Cardiopulmonary bypass",
+        "russian": "8. Искусственное кровообращение"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Cardiopulmonary bypass scenarios",
+        "russian": "9. Сценарии искусственного кровообращения"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Adjuncts to cardiopulmonary bypass",
+        "russian": "10. Дополнительные средства при искусственном кровообращении"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Myocardial protection",
+        "russian": "11. Миокардиальная защита"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Aortic valve disease",
+        "russian": "12. Заболевания аортального клапана"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Mitral valve disease",
+        "russian": "13. Заболевания митрального клапана"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Tricuspid valve disease",
+        "russian": "14. Заболевания трикуспидального клапана"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Infective endocarditis",
+        "russian": "15. Инфекционный эндокардит"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Thoracic aortic disease",
+        "russian": "16. Заболевания грудной аорты"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Coronary artery disease",
+        "russian": "17. Ишемическая болезнь сердца"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Heart failure",
+        "russian": "18. Сердечная недостаточность"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Arrhythmia surgery",
+        "russian": "19. Хирургическое лечение аритмий"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Pericardial disease, cardiac tumours and cardiac trauma",
+        "russian": "20. Заболевания перикарда, опухоли сердца и травма сердца"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Cardiac anaesthesia and intensive care management",
+        "russian": "21. Кардиоанестезия и интенсивная терапия"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Postoperative management",
+        "russian": "22. Послеоперационное ведение"
+      }
+    ],
+    "appendices": [
+      {
+        "file": "appendix.md",
+        "title": "Appendices"
+      }
+    ]
+  }
+]

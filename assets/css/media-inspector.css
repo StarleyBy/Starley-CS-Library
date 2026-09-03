@@ -1,0 +1,394 @@
+/* Media Inspector Variables */
+:root {
+  --inspector-bg: #ffffff;
+  --inspector-text: #333333;
+  --inspector-border: #dddddd;
+  --inspector-button-bg: #f8f9fa;
+  --inspector-button-hover: #e9ecef;
+}
+
+body.night-mode {
+  --inspector-bg: #1a1a2e;
+  --inspector-text: #e0e0e0;
+  --inspector-border: #2d4060;
+  --inspector-button-bg: #16213e;
+  --inspector-button-hover: #2d4060;
+}
+
+body.sepia-mode {
+  --inspector-bg: #f4ecd8;
+  --inspector-text: #5b4636;
+  --inspector-border: #d3c7a8;
+  --inspector-button-bg: #e4dcc4;
+  --inspector-button-hover: #d5c8a9;
+}
+
+/* ==========================================================================
+   1. STICKY TABLE HEADERS (Global Reader view)
+   ========================================================================== */
+.content table {
+  position: relative;
+  border-collapse: separate; /* needed for sticky border overlay to look clean */
+  border-spacing: 0;
+}
+
+.content table th {
+  position: sticky;
+  top: calc(var(--header-height, 50px) - 1px);
+  background-color: var(--inspector-bg) !important;
+  color: var(--inspector-text);
+  z-index: 10;
+  box-shadow: 0 1px 0 var(--inspector-border), 0 -1px 0 var(--inspector-border);
+}
+
+/* Make sure td boundaries are defined */
+.content table th, 
+.content table td {
+  border: 1px solid var(--inspector-border);
+  padding: 10px 12px;
+}
+
+/* ==========================================================================
+   2. TABLE EXPANSION ACTION BAR & WRAPPER
+   ========================================================================== */
+.table-inspector-wrapper {
+  position: relative;
+  margin: 1.5rem 0;
+  border: 1px solid var(--inspector-border);
+  border-radius: 8px;
+  background: var(--inspector-bg);
+  overflow-x: auto;
+}
+
+.table-inspector-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px 12px;
+  background: var(--inspector-button-bg);
+  border-bottom: 1px solid var(--inspector-border);
+}
+
+.table-inspect-btn {
+  background: var(--inspector-bg);
+  color: var(--inspector-text);
+  border: 1px solid var(--inspector-border);
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.table-inspect-btn:hover {
+  background: var(--inspector-button-hover);
+  transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   3. TABLE EXPANSION MODAL / BOTTOM SHEET
+   ========================================================================== */
+.table-focus-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 2500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.table-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  transition: opacity 0.3s ease;
+}
+
+.table-modal-sheet {
+  position: relative;
+  background: var(--inspector-bg);
+  color: var(--inspector-text);
+  display: flex;
+  flex-direction: column;
+  z-index: 2;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+  overflow: hidden;
+}
+
+/* Mobile: Bottom Sheet style */
+@media (max-width: 767px) {
+  .table-modal-sheet {
+    width: 100%;
+    height: 85vh;
+    border-radius: 16px 16px 0 0;
+    bottom: 0;
+    position: fixed;
+    transform: translateY(100%);
+  }
+  .table-focus-modal.active .table-modal-sheet {
+    transform: translateY(0);
+  }
+}
+
+/* Desktop/Tablet: Center modal style */
+@media (min-width: 768px) {
+  .table-modal-sheet {
+    width: 90vw;
+    height: 85vh;
+    border-radius: 12px;
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  .table-focus-modal.active .table-modal-sheet {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.table-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--inspector-border);
+  background: var(--inspector-button-bg);
+}
+
+.table-modal-title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.table-modal-close {
+  background: none;
+  border: none;
+  color: var(--inspector-text);
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+  width: 32px;
+  height: 32px;
+}
+
+.table-modal-close:hover {
+  background: var(--inspector-button-hover);
+}
+
+.table-modal-body {
+  flex: 1;
+  overflow: auto;
+  padding: 20px;
+}
+
+/* Sticky layout in expanded view */
+.table-focus-modal table {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+}
+
+.table-focus-modal th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--inspector-button-bg) !important;
+  box-shadow: 0 1px 0 var(--inspector-border);
+}
+
+/* Freeze First Column */
+.table-focus-modal th:first-child,
+.table-focus-modal td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 5;
+  background: var(--inspector-bg) !important;
+  box-shadow: 2px 0 0 var(--inspector-border);
+}
+
+.table-focus-modal th:first-child {
+  z-index: 15;
+  background: var(--inspector-button-bg) !important;
+}
+
+/* ==========================================================================
+   4. LIGHTBOX OVERLAY FOR IMAGES
+   ========================================================================== */
+.media-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 3000;
+  display: flex;
+  flex-direction: column;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: white;
+  transition: opacity 0.3s ease;
+}
+
+.lightbox-backdrop {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.lightbox-toolbar {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  background: rgba(0, 0, 0, 0.4);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+}
+
+.lightbox-caption-top {
+  font-weight: 500;
+  font-size: 0.95rem;
+  max-width: 60%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #e0e0e0;
+}
+
+.lightbox-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.lightbox-btn {
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.lightbox-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.lightbox-btn.active {
+  background: #3498db;
+  border-color: #2980b9;
+}
+
+.lightbox-btn.lightbox-close {
+  background: #e74c3c;
+  border-color: #c0392b;
+}
+
+.lightbox-btn.lightbox-close:hover {
+  background: #c0392b;
+}
+
+.lightbox-canvas {
+  position: relative;
+  z-index: 5;
+  flex: 1;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: grab;
+}
+
+.lightbox-canvas:active {
+  cursor: grabbing;
+}
+
+.lightbox-canvas img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  transform-origin: center center;
+  user-select: none;
+  pointer-events: auto;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+  transition: filter 0.3s ease;
+}
+
+.lightbox-caption-bottom {
+  position: relative;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.6);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 16px 20px;
+  backdrop-filter: blur(5px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.lightbox-caption-bottom .caption-text {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #ccc;
+  flex: 1;
+  max-height: 80px;
+  overflow-y: auto;
+}
+
+.lightbox-back-link {
+  background: #3498db;
+  color: white;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.lightbox-back-link:hover {
+  background: #2980b9;
+}
+
+/* ==========================================================================
+   5. CONTRAST BOOST & OTHER UTILITIES
+   ========================================================================== */
+.contrast-boosted {
+  filter: contrast(1.38) brightness(1.06) saturate(1.12) !important;
+}
+
+.inspectable-image {
+  cursor: zoom-in;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.inspectable-image:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+body.night-mode .inspectable-image:hover {
+  box-shadow: 0 6px 16px rgba(0,0,0,0.4);
+}

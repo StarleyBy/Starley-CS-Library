@@ -1,0 +1,2009 @@
+{
+  "meta": {
+    "title": "2025 ESC/EACTS Guidelines for the management of valvular heart disease",
+    "book": "Guidelines AHA and ESC",
+    "chapter": ["chapter-01"],
+    "totalQuestions": 100
+  },
+  "questions":[
+  {
+    "id": 1,
+    "questionEn": "A 72-year-old patient with symptomatic severe aortic stenosis is being evaluated. The Heart Valve Centre has high TAVI volumes but their surgical MV repair volume is 15 cases per operator per year. According to the 2025 Guidelines, what is the status of this centre regarding procedural volume thresholds?",
+    "questionRu": "Пациент 72 лет с симптомным тяжелым аортальным стенозом проходит обследование. Центр клапанов сердца имеет высокие объемы TAVI, но объем хирургических реконструкций митрального клапана составляет 15 случаев на одного хирурга в год. Согласно рекомендациям 2025 года, каков статус этого центра в отношении пороговых объемов процедур?",
+    "optionsEn": {
+      "A": "The centre meets all requirements for a Heart Valve Centre.",
+      "B": "The centre fails to meet the threshold for surgical MV repair volume.",
+      "C": "Volume thresholds are only suggestions and do not define a Centre.",
+      "D": "The centre only needs to report outcomes, regardless of specific volumes."
+    },
+    "optionsRu": {
+      "A": "Центр соответствует всем требованиям к Центру клапанов сердца.",
+      "B": "Центр не достигает порогового объема для хирургической реконструкции митрального клапана.",
+      "C": "Пороговые объемы — это только предложения и не определяют Центр.",
+      "D": "Центру необходимо только сообщать о результатах, независимо от конкретных объемов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The 2025 Guidelines explicitly define procedural volume thresholds for Heart Valve Centres to ensure quality. Specifically, the operator volume threshold for surgical MV repair is approximately 25 repairs per year. A volume of 15 cases per operator falls below this defined standard for optimized outcomes. While outcome reporting is recommended (Option D), it does not supersede the volume requirements.",
+    "explanationRu": "Рекомендации 2025 года явно определяют пороговые значения объема процедур для Центров клапанов сердца для обеспечения качества. В частности, пороговый объем на хирурга для реконструкции митрального клапана составляет примерно 25 реконструкций в год. Объем 15 случаев на хирурга ниже этого установленного стандарта для оптимальных результатов. Хотя отчетность о результатах рекомендуется (вариант D), она не отменяет требования к объему."
+  },
+  {
+    "id": 2,
+    "questionEn": "Which member is considered part of the 'Extended Heart Team' rather than the 'Core Heart Team' in the 2025 framework?",
+    "questionRu": "Какой участник считается частью «Расширенной кардиокоманды», а не «Основной кардиокоманды» в структуре 2025 года?",
+    "optionsEn": {
+      "A": "Interventional Cardiologist.",
+      "B": "Cardiac Surgeon.",
+      "C": "Geriatrician.",
+      "D": "Imaging Specialist."
+    },
+    "optionsRu": {
+      "A": "Интервенционный кардиолог.",
+      "B": "Кардиохирург.",
+      "C": "Гериатр.",
+      "D": "Специалист по визуализации."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The 2025 Guidelines distinguish between core and extended members. The **Core Heart Team** includes the treating cardiologist, imaging specialists, surgeons, and interventional cardiologists. Geriatricians, heart failure specialists, and electrophysiologists are categorized as the **Extended Heart Team**, brought in to facilitate discussions for particularly complex scenarios.",
+    "explanationRu": "Рекомендации 2025 года различают основных и расширенных участников. **Основная кардиокоманда** включает лечащего кардиолога, специалистов по визуализации, хирургов и интервенционных кардиологов. Гериатры, специалисты по сердечной недостаточности и электрофизиологи относятся к **Расширенной кардиокоманде** и привлекаются для обсуждения особенно сложных случаев."
+  },
+  {
+    "id": 3,
+    "questionEn": "A 74-year-old patient with complex multivessel CAD and severe mitral regurgitation requires intervention. The local Heart Team is unsure of the best approach. What is the 2025 recommendation for such complex cases?",
+    "questionRu": "Пациенту 74 лет со сложным многососудистым поражением коронарных артерий и тяжелой митральной регургитацией требуется вмешательство. Местная кардиокоманда не уверена в наилучшем подходе. Какова рекомендация 2025 года для таких сложных случаев?",
+    "optionsEn": {
+      "A": "Proceed with the local Heart Team's majority decision.",
+      "B": "Refer the patient to a high-volume centre within a regional Heart Valve Network.",
+      "C": "Use the STS-PROM score as the final arbiter to avoid bias.",
+      "D": "Treat the coronary disease first and reassess the valve in 6 months."
+    },
+    "optionsRu": {
+      "A": "Действовать на основе решения большинства местной кардиокоманды.",
+      "B": "Направить пациента в высокообъемный центр в рамках региональной сети центров клапанов сердца.",
+      "C": "Использовать шкалу STS-PROM в качестве окончательного арбитра, чтобы избежать предвзятости.",
+      "D": "Сначала лечить коронарное заболевание, а через 6 месяцев провести повторную оценку клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The 2025 Guidelines reinforce the importance of regional networks. Patients with **complex conditions** or those requiring complex procedures should be referred to high-volume centres where specific expertise is concentrated to ensure high-quality treatment. While local protocols facilitate swift decisions for standard cases (Option A), they are not intended for complex scenarios requiring concentrated expertise.",
+    "explanationRu": "Рекомендации 2025 года подчеркивают важность региональных сетей. Пациенты со **сложными состояниями** или требующие сложных процедур должны направляться в высокообъемные центры, где сконцентрирована определенная экспертиза для обеспечения высококачественного лечения. Хотя локальные протоколы облегчают быстрые решения для стандартных случаев (вариант A), они не предназначены для сложных сценариев, требующих концентрированной экспертизы."
+  },
+  {
+    "id": 4,
+    "questionEn": "An asymptomatic 45-year-old man has severe AR and a resting LVEF of 53%. His LVESD is 48 mm and his BSA is 2.1 m². What is the Class of Recommendation for surgery?",
+    "questionRu": "Бессимптомный мужчина 45 лет имеет тяжелую аортальную регургитацию (АР) и ФВ ЛЖ в покое 53%. Его КСР ЛЖ составляет 48 мм, а площадь поверхности тела (ППТ) — 2,1 м². Каков класс рекомендации для операции?",
+    "optionsEn": {
+      "A": "Class I.",
+      "B": "Class IIa.",
+      "C": "Class IIb.",
+      "D": "Surgery is not yet indicated."
+    },
+    "optionsRu": {
+      "A": "Класс I.",
+      "B": "Класс IIa.",
+      "C": "Класс IIb.",
+      "D": "Операция пока не показана."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "In the 2025 revised recommendations, surgery is Class I only if LVEF ≤50% or LVESD >50 mm (or >25 mm/m²). For patients with an LVEF between 50-55% or an indexed LVESD (LVESDi) >22 mm/m², the recommendation is **Class IIb**. In this patient, LVESDi is 48 / 2.1 = 22.8 mm/m², and LVEF is 53%, placing him squarely in the Class IIb category.",
+    "explanationRu": "В обновленных рекомендациях 2025 года операция имеет класс I только при ФВ ЛЖ ≤50% или КСР ЛЖ >50 мм (или >25 мм/м²). Для пациентов с ФВ ЛЖ между 50-55% или индексированным КСР ЛЖ (LVESDi) >22 мм/м² рекомендация — **класс IIb**. У этого пациента LVESDi = 48 / 2,1 = 22,8 мм/м², а ФВ ЛЖ = 53%, что помещает его в категорию класса IIb."
+  },
+  {
+    "id": 5,
+    "questionEn": "A symptomatic 82-year-old patient with severe AR is judged ineligible for surgery by the Heart Team due to extreme frailty. Anatomy is suitable for a transcatheter approach. What is the most appropriate 2025 recommendation?",
+    "questionRu": "Симптомный пациент 82 лет с тяжелой АР признан кардиокомандой непригодным для операции из-за крайней хрупкости. Анатомия подходит для транскатетерного подхода. Какова наиболее подходящая рекомендация 2025 года?",
+    "optionsEn": {
+      "A": "TAVI should be considered (Class IIa).",
+      "B": "TAVI may be considered (Class IIb).",
+      "C": "Medical therapy only, as TAVI is only for Aortic Stenosis.",
+      "D": "Urgent SAVR despite frailty, as it is the only Class I option."
+    },
+    "optionsRu": {
+      "A": "TAVI следует рассмотреть (класс IIa).",
+      "B": "TAVI может быть рассмотрена (класс IIb).",
+      "C": "Только медикаментозная терапия, так как TAVI применяется только при аортальном стенозе.",
+      "D": "Экстренное хирургическое протезирование аортального клапана (SAVR), несмотря на хрупкость, так как это единственный вариант класса I."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The 2025 Guidelines introduced a new recommendation for severe AR. TAVI **may be considered** (Class IIb) for symptomatic patients who are **ineligible for surgery**, provided the anatomy is suitable and a Heart Team evaluation is performed.",
+    "explanationRu": "Рекомендации 2025 года ввели новую рекомендацию для тяжелой АР. TAVI **может быть рассмотрена** (класс IIb) для симптомных пациентов, которые **непригодны для операции**, при условии подходящей анатомии и оценки кардиокомандой."
+  },
+  {
+    "id": 6,
+    "questionEn": "A 72-year-old male with symptomatic AS presents with a mean gradient of 32 mmHg and an AVA of 0.8 cm². LVEF is 40% and SVi is 30 mL/m². Low-dose Dobutamine Stress Echo (DSE) shows the mean gradient increasing to 42 mmHg with an AVA remaining at 0.9 cm². What is the diagnosis?",
+    "questionRu": "Мужчина 72 лет с симптомным АС имеет средний градиент 32 мм рт.ст. и AVA 0,8 см². ФВ ЛЖ 40%, ударный объем индекс (УОИ) 30 мл/м². Стресс-эхокардиография с низкими дозами добутамина (DSE) показывает увеличение среднего градиента до 42 мм рт.ст. при AVA, остающейся 0,9 см². Каков диагноз?",
+    "optionsEn": {
+      "A": "Pseudo-severe AS.",
+      "B": "True severe low-flow, low-gradient AS.",
+      "C": "Moderate AS.",
+      "D": "Normal-flow, low-gradient AS."
+    },
+    "optionsRu": {
+      "A": "Псевдотяжелый АС.",
+      "B": "Истинный тяжелый низкопоточный низкоградиентный АС.",
+      "C": "Умеренный АС.",
+      "D": "Нормопоточный низкоградиентный АС."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This patient has low-flow, low-gradient AS with reduced LVEF. The DSE shows **flow reserve** (implied by the gradient increase) and the AVA remains <1.0 cm² while the gradient rises above 40 mmHg, confirming **true severe AS**. If the AVA had increased to >1.0 cm², the diagnosis would be pseudo-severe AS (Option A).",
+    "explanationRu": "У этого пациента низкопоточный низкоградиентный АС со сниженной ФВ ЛЖ. DSE демонстрирует **резерв потока** (подразумеваемый увеличением градиента), и AVA остается <1,0 см², а градиент превышает 40 мм рт.ст., что подтверждает **истинный тяжелый АС**. Если бы AVA увеличилась до >1,0 см², диагноз был бы псевдотяжелый АС (вариант А)."
+  },
+  {
+    "id": 7,
+    "questionEn": "In the 2025 Guidelines, what is the primary age threshold for recommending TAVI as the preferred mode of intervention in patients with tricuspid AV stenosis and suitable transfemoral access?",
+    "questionRu": "В рекомендациях 2025 года каков основной возрастной порог для рекомендации TAVI как предпочтительного метода вмешательства у пациентов с трехстворчатым аортальным стенозом и подходящим трансфеморальным доступом?",
+    "optionsEn": {
+      "A": "≥ 65 years.",
+      "B": "≥ 70 years.",
+      "C": "≥ 75 years.",
+      "D": "≥ 80 years."
+    },
+    "optionsRu": {
+      "A": "≥ 65 лет.",
+      "B": "≥ 70 лет.",
+      "C": "≥ 75 лет.",
+      "D": "≥ 80 лет."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This is a major update. The 2025 Guidelines now recommend TAVI (Class I A) for patients **≥70 years of age** with tricuspid AV stenosis if the anatomy is suitable. The previous 2021 threshold of 75 years (Option C) has been lowered based on new randomized evidence.",
+    "explanationRu": "Это важное обновление. Рекомендации 2025 года теперь рекомендуют TAVI (класс I A) для пациентов **в возрасте ≥70 лет** с трехстворчатым аортальным стенозом при подходящей анатомии. Предыдущий порог 2021 года в 75 лет (вариант C) был снижен на основе новых рандомизированных данных."
+  },
+  {
+    "id": 8,
+    "questionEn": "A 68-year-old patient with severe AS has a low surgical risk (STS 1.5%) and suitable transfemoral access. According to the 2025 Guidelines, what is the recommended intervention?",
+    "questionRu": "Пациент 68 лет с тяжелым АС имеет низкий хирургический риск (STS 1,5%) и подходящий трансфеморальный доступ. Согласно рекомендациям 2025 года, какое вмешательство рекомендуется?",
+    "optionsEn": {
+      "A": "TAVI is recommended (Class I).",
+      "B": "SAVR is recommended (Class I).",
+      "C": "Either SAVR or TAVI are equally recommended (Class I).",
+      "D": "TAVI is preferred because of quicker recovery."
+    },
+    "optionsRu": {
+      "A": "Рекомендована TAVI (класс I).",
+      "B": "Рекомендовано SAVR (класс I).",
+      "C": "Оба метода — SAVR и TAVI — одинаково рекомендованы (класс I).",
+      "D": "TAVI предпочтительнее из-за более быстрого восстановления."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients **<70 years of age** who are at **low surgical risk**, **SAVR is recommended** (Class I B). TAVI is recommended for those ≥70 years. While TAVI offers quicker recovery (Option D), SAVR remains the preferred treatment in this younger, low-risk cohort due to lifetime management considerations and limited long-term data for TAVI in those <70.",
+    "explanationRu": "Для пациентов **<70 лет** с **низким хирургическим риском** **рекомендовано SAVR** (класс I B). TAVI рекомендована для пациентов ≥70 лет. Хотя TAVI обеспечивает более быстрое восстановление (вариант D), SAVR остается предпочтительным лечением в этой более молодой группе низкого риска из-за соображений пожизненного ведения и ограниченных долгосрочных данных по TAVI у пациентов <70 лет."
+  },
+  {
+    "id": 9,
+    "questionEn": "An asymptomatic patient has severe high-gradient AS with an LVEF of 58%. The procedural risk is low. Which of the following findings would most strongly support a Class IIa recommendation for early intervention?",
+    "questionRu": "Бессимптомный пациент имеет тяжелый высокоградиентный АС с ФВ ЛЖ 58%. Процедурный риск низкий. Какое из следующих наблюдений наиболее сильно поддерживает рекомендацию класса IIa для раннего вмешательства?",
+    "optionsEn": {
+      "A": "Vmax progression of 0.2 m/s/year.",
+      "B": "NT-proBNP levels 2 times the normal range.",
+      "C": "Mean gradient of 65 mmHg.",
+      "D": "Patient preference for TAVI."
+    },
+    "optionsRu": {
+      "A": "Прогрессия Vmax 0,2 м/с/год.",
+      "B": "Уровень NT-proBNP в 2 раза выше нормы.",
+      "C": "Средний градиент 65 мм рт.ст.",
+      "D": "Предпочтение пациента в пользу TAVI."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Early intervention in asymptomatic patients with LVEF ≥50% is Class IIa if specific 'adverse' parameters are met. These include **very severe AS** (mean gradient ≥60 mmHg or Vmax >5.0 m/s), Vmax progression ≥0.3 m/s/year (not 0.2), or NT-proBNP >3 times the normal range (not 2).",
+    "explanationRu": "Раннее вмешательство у бессимптомных пациентов с ФВ ЛЖ ≥50% имеет класс IIa при наличии определенных «неблагоприятных» параметров. К ним относятся **очень тяжелый АС** (средний градиент ≥60 мм рт.ст. или Vmax >5,0 м/с), прогрессия Vmax ≥0,3 м/с/год (а не 0,2) или NT-proBNP >3 раз выше нормы (а не 2)."
+  },
+  {
+    "id": 10,
+    "questionEn": "Why does the 2025 Guideline caution against 'routine' SAVR for all patients under 70, even if the surgical risk is slightly elevated?",
+    "questionRu": "Почему рекомендации 2025 года предостерегают от «рутинного» SAVR для всех пациентов младше 70 лет, даже если хирургический риск несколько повышен?",
+    "optionsEn": {
+      "A": "TAVI has superior long-term durability.",
+      "B": "Redo SAVR after TAVI carries a high mortality risk (12-17%).",
+      "C": "TAVI is now cheaper than SAVR in all European centres.",
+      "D": "Surgical mortality is increasing in younger cohorts."
+    },
+    "optionsRu": {
+      "A": "TAVI имеет лучшую долговременную долговечность.",
+      "B": "Повторное SAVR после TAVI связано с высоким риском летальности (12-17%).",
+      "C": "TAVI теперь дешевле, чем SAVR, во всех европейских центрах.",
+      "D": "Хирургическая летальность увеличивается у более молодых когорт."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Lifetime management is a central pillar of the 2025 update. The Guidelines note that while TAV-in-TAV is feasible, **explanting a transcatheter valve** for a redo SAVR is high-risk, with mortality rates of 12-17%. Therefore, the choice of the first valve must carefully anticipate future needs.",
+    "explanationRu": "Пожизненное ведение является центральной опорой обновления 2025 года. Рекомендации отмечают, что, хотя процедура «клапан в клапан» (TAV-in-TAV) выполнима, **эксплантация транскатетерного клапана** для повторного SAVR связана с высоким риском, с уровнем летальности 12-17%. Таким образом, выбор первого клапана должен тщательно учитывать будущие потребности."
+  },
+  {
+    "id": 11,
+    "questionEn": "A 60-year-old symptomatic patient has severe primary MR. The Heart Team determines they are at high surgical risk but have suitable anatomy for TEER. What is the Class of Recommendation for TEER?",
+    "questionRu": "Симптомный пациент 60 лет имеет тяжелую первичную митральную регургитацию (ПМР). Кардиокоманда определяет, что он имеет высокий хирургический риск, но анатомия подходит для TEER. Каков класс рекомендации для TEER?",
+    "optionsEn": {
+      "A": "Class I.",
+      "B": "Class IIa.",
+      "C": "Class IIb.",
+      "D": "Class III."
+    },
+    "optionsRu": {
+      "A": "Класс I.",
+      "B": "Класс IIa.",
+      "C": "Класс IIb.",
+      "D": "Класс III."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For symptomatic patients with severe **primary MR** who are at **high surgical risk** or inoperable, TEER **should be considered** (Class IIa B). Surgery remains the Class I gold standard for primary MR.",
+    "explanationRu": "Для симптомных пациентов с тяжелой **первичной МР**, которые имеют **высокий хирургический риск** или неоперабельны, TEER **следует рассмотреть** (класс IIa B). Операция остается золотым стандартом класса I для первичной МР."
+  },
+  {
+    "id": 12,
+    "questionEn": "A symptomatic patient with chronic heart failure (LVEF 35%) has severe ventricular secondary MR (SMR) despite optimized GDMT. They have no CAD requiring revascularization. Which trial provides the most support for the Class I A recommendation for TEER in this patient?",
+    "questionRu": "Симптомный пациент с хронической сердечной недостаточностью (ФВ ЛЖ 35%) имеет тяжелую вторичную МР желудочкового типа (ВМР), несмотря на оптимизированную медикаментозную терапию (ОМТ). У него нет ИБС, требующей реваскуляризации. Какое исследование обеспечивает наибольшую поддержку для рекомендации класса I A для TEER у этого пациента?",
+    "optionsEn": {
+      "A": "MITRA-FR.",
+      "B": "RESHAPE-HF-2.",
+      "C": "COAPT.",
+      "D": "DEDICATE."
+    },
+    "optionsRu": {
+      "A": "MITRA-FR.",
+      "B": "RESHAPE-HF-2.",
+      "C": "COAPT.",
+      "D": "DEDICATE."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The **COAPT trial** demonstrated that TEER was safe and reduced mortality and HF hospitalizations in patients with ventricular SMR who remained symptomatic despite optimized GDMT. This trial is the primary basis for the Class I recommendation. RESHAPE-HF-2 (Option B) showed HF hospitalization reduction but not cardiovascular mortality reduction.",
+    "explanationRu": "**Исследование COAPT** продемонстрировало, что TEER был безопасен и снижал летальность и госпитализации по поводу СН у пациентов с желудочковой ВМР, которые оставались симптомными, несмотря на ОМТ. Это исследование является основной основой для рекомендации класса I. RESHAPE-HF-2 (вариант B) показал снижение госпитализаций по поводу СН, но не снижение сердечно-сосудистой летальности."
+  },
+  {
+    "id": 13,
+    "questionEn": "What is the defining characteristic of 'Atrial SMR' according to the 2025 classification?",
+    "questionRu": "Какова определяющая характеристика «предсердной вторичной митральной регургитации (предсердной ВМР)» согласно классификации 2025 года?",
+    "optionsEn": {
+      "A": "It is caused by left ventricular wall motion abnormalities.",
+      "B": "It occurs in the setting of AF and/or HFpEF with preserved LVEF.",
+      "C": "It requires immediate TEER without medical therapy.",
+      "D": "It is only found in patients with rheumatic mitral stenosis."
+    },
+    "optionsRu": {
+      "A": "Она вызвана нарушениями движения стенок левого желудочка.",
+      "B": "Она возникает на фоне фибрилляции предсердий (ФП) и/или СН с сохраненной ФВ (HFpEF) при сохраненной ФВ ЛЖ.",
+      "C": "Она требует немедленного TEER без медикаментозной терапии.",
+      "D": "Она встречается только у пациентов с ревматическим митральным стенозом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The distinction between atrial and ventricular SMR is a major emphasis in 2025. **Atrial SMR** is associated with AF and/or HFpEF, characterized by LA enlargement and annular dilation in the setting of **preserved LVEF** and no leaflet tethering.",
+    "explanationRu": "Различие между предсердной и желудочковой ВМР является важным акцентом в 2025 году. **Предсердная ВМР** ассоциируется с ФП и/или HFpEF, характеризуется увеличением левого предсердия и дилатацией фиброзного кольца при **сохраненной ФВ ЛЖ** и отсутствии натяжения створок."
+  },
+  {
+    "id": 14,
+    "questionEn": "A patient with severe atrial SMR remains symptomatic despite optimized rhythm control and medical therapy. Surgery is considered low-risk. What is the recommended management?",
+    "questionRu": "Пациент с тяжелой предсердной ВМР остается симптомным, несмотря на оптимизированный контроль ритма и медикаментозную терапию. Хирургическое вмешательство считается низкорисковым. Какая тактика рекомендуется?",
+    "optionsEn": {
+      "A": "TEER is the first-line treatment (Class I).",
+      "B": "MV surgery, AF ablation, and LAAO should be considered (Class IIa).",
+      "C": "Lifelong OAC without valve intervention.",
+      "D": "Heart transplant evaluation."
+    },
+    "optionsRu": {
+      "A": "TEER является терапией первой линии (класс I).",
+      "B": "Следует рассмотреть операцию на митральном клапане, аблацию ФП и окклюзию ушка левого предсердия (класс IIa).",
+      "C": "Пожизненная пероральная антикоагуляция (ОАК) без вмешательства на клапане.",
+      "D": "Оценка для трансплантации сердца."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For symptomatic patients with severe **atrial SMR**, the 2025 Guidelines recommend considering **MV surgery combined with surgical AF ablation and LAAO** (Class IIa B) after medical optimization. TEER is a Class IIb option only if the patient is not eligible for surgery.",
+    "explanationRu": "Для симптомных пациентов с тяжелой **предсердной ВМР** рекомендации 2025 года предлагают рассмотреть **хирургию митрального клапана в сочетании с хирургической аблацией ФП и окклюзией ушка левого предсердия** (класс IIa B) после медикаментозной оптимизации. TEER является вариантом класса IIb только в том случае, если пациент не подходит для операции."
+  },
+  {
+    "id": 15,
+    "questionEn": "A patient is undergoing SAVR for severe aortic stenosis. They also have moderate secondary tricuspid regurgitation (TR) and a tricuspid annulus dilated to 42 mm. What is the recommendation for the tricuspid valve?",
+    "questionRu": "Пациенту выполняется SAVR по поводу тяжелого аортального стеноза. У него также имеется умеренная вторичная трикуспидальная регургитация (ТР) и дилатация трикуспидального кольца до 42 мм. Какова рекомендация в отношении трикуспидального клапана?",
+    "optionsEn": {
+      "A": "Leave the tricuspid valve alone as it may regress after SAVR.",
+      "B": "Concomitant TV repair should be considered (Class IIa).",
+      "C": "TV replacement is the only recommended option (Class I).",
+      "D": "Wait for 6 months post-SAVR and perform TEER if TR persists."
+    },
+    "optionsRu": {
+      "A": "Оставить трикуспидальный клапан в покое, так как он может регрессировать после SAVR.",
+      "B": "Следует рассмотреть одновременную пластику ТК (класс IIa).",
+      "C": "Замена ТК является единственным рекомендуемым вариантом (класс I).",
+      "D": "Подождать 6 месяцев после SAVR и выполнить TEER, если ТР сохранится."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In patients undergoing left-sided valve surgery, **concomitant TV repair** should be considered (Class IIa B) for those with **moderate TR** and a **dilated annulus** (≥40 mm or >21 mm/m²) to prevent future RV remodeling.",
+    "explanationRu": "У пациентов, переносящих операцию на левых клапанах, **одновременную пластику ТК** следует рассмотреть (класс IIa B) для пациентов с **умеренной ТР** и **дилатированным кольцом** (≥40 мм или >21 мм/м²) для предотвращения будущего ремоделирования правого желудочка."
+  },
+  {
+    "id": 16,
+    "questionEn": "A 78-year-old patient has symptomatic severe secondary TR despite medical therapy. They are at high surgical risk, have no severe RV dysfunction, and no pre-capillary PH. What is the 2025 recommendation?",
+    "questionRu": "Пациент 78 лет имеет симптомную тяжелую вторичную ТР, несмотря на медикаментозную терапию. У него высокий хирургический риск, нет тяжелой дисфункции правого желудочка и нет прекапиллярной легочной гипертензии. Какова рекомендация 2025 года?",
+    "optionsEn": {
+      "A": "Only medical therapy is indicated.",
+      "B": "Transcatheter TV treatment should be considered (Class IIa).",
+      "C": "Immediate surgical TV replacement (Class I).",
+      "D": "OAC with a VKA to prevent RA thrombosis."
+    },
+    "optionsRu": {
+      "A": "Показана только медикаментозная терапия.",
+      "B": "Следует рассмотреть транскатетерное лечение ТК (класс IIa).",
+      "C": "Немедленная хирургическая замена ТК (класс I).",
+      "D": "ОАК антагонистами витамина К для предотвращения тромбоза правого предсердия."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This is a significant growth area in the 2025 Guidelines. **Transcatheter TV treatment** (repair or replacement) **should be considered** (Class IIa A) in high-risk symptomatic patients with severe TR who have failed medical therapy, provided they do not have severe RV dysfunction or pre-capillary pulmonary hypertension.",
+    "explanationRu": "Это значительная область роста в рекомендациях 2025 года. **Транскатетерное лечение ТК** (пластика или замена) **следует рассмотреть** (класс IIa A) у симптомных пациентов высокого риска с тяжелой ТР, у которых медикаментозная терапия оказалась неэффективной, при условии отсутствия тяжелой дисфункции ПЖ или прекапиллярной легочной гипертензии."
+  },
+  {
+    "id": 17,
+    "questionEn": "A 62-year-old patient requires an aortic valve replacement. They have no contraindications to OAC and a long life expectancy. What does the Heart Team suggest according to the 2025 age thresholds?",
+    "questionRu": "Пациенту 62 лет требуется замена аортального клапана. У него нет противопоказаний к пероральной антикоагуляции (ОАК) и большая ожидаемая продолжительность жизни. Что предлагает кардиокоманда согласно возрастным порогам 2025 года?",
+    "optionsEn": {
+      "A": "A biological heart valve is recommended (Class I).",
+      "B": "A mechanical heart valve should be considered (Class IIa).",
+      "C": "TAVI is preferred to avoid anticoagulation.",
+      "D": "Age-based cut-offs were removed in the 2025 Guidelines."
+    },
+    "optionsRu": {
+      "A": "Рекомендован биологический клапан (класс I).",
+      "B": "Следует рассмотреть механический клапан (класс IIa).",
+      "C": "TAVI предпочтительнее для избежания антикоагуляции.",
+      "D": "Возрастные пороги были удалены в рекомендациях 2025 года."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The Guidelines suggest that a **mechanical heart valve (MHV)** should be considered (Class IIa B) in patients with a long life expectancy. In terms of age thresholds, an MHV is generally considered for those **<60 years** in the aortic position, while BHVs are considered for those **>65 years**. At age 62, the decision requires careful Heart Team discussion, but the long life expectancy leans toward the consideration of an MHV.",
+    "explanationRu": "Рекомендации предполагают, что **механический клапан (МК)** следует рассмотреть (класс IIa B) у пациентов с большой ожидаемой продолжительностью жизни. Что касается возрастных порогов, МК обычно рассматривается для пациентов **<60 лет** в аортальной позиции, тогда как биологические клапаны (БК) рассматриваются для пациентов **>65 лет**. В возрасте 62 лет решение требует тщательного обсуждения кардиокомандой, но большая ожидаемая продолжительность жизни склоняет к рассмотрению МК."
+  },
+  {
+    "id": 18,
+    "questionEn": "Which antithrombotic strategy is NOT recommended for a patient with a mechanical heart valve?",
+    "questionRu": "Какая антитромботическая стратегия НЕ рекомендуется для пациента с механическим клапаном сердца?",
+    "optionsEn": {
+      "A": "Lifelong OAC with a VKA.",
+      "B": "INR self-management with appropriate training.",
+      "C": "Routine use of DOACs for stroke prevention.",
+      "D": "Adding low-dose ASA in cases of concomitant atherosclerotic disease."
+    },
+    "optionsRu": {
+      "A": "Пожизненная ОАК антагонистом витамина К (АВК).",
+      "B": "Самоконтроль МНО при соответствующем обучении.",
+      "C": "Рутинное использование прямых пероральных антикоагулянтов (ПОАК) для профилактики инсульта.",
+      "D": "Добавление низких доз аспирина при сопутствующем атеросклеротическом заболевании."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "**DOACs are strictly contraindicated** (Class III A) in patients with mechanical heart valves. Lifelong VKA remains the only Class I recommendation for these patients.",
+    "explanationRu": "**ПОАК строго противопоказаны** (класс III A) пациентам с механическими клапанами сердца. Пожизненный АВК остается единственной рекомендацией класса I для этих пациентов."
+  },
+  {
+    "id": 19,
+    "questionEn": "A patient without an indication for OAC has just undergone TAVI. What is the 2025 antithrombotic recommendation for the first 12 months?",
+    "questionRu": "Пациент без показаний к ОАК только что перенес TAVI. Какова антитромботическая рекомендация 2025 года на первые 12 месяцев?",
+    "optionsEn": {
+      "A": "DAPT with ASA and Clopidogrel (Class I).",
+      "B": "Low-dose ASA (75-100 mg/day) (Class I).",
+      "C": "Rivaroxaban 10 mg daily.",
+      "D": "No antiplatelet therapy is required if the procedure was successful."
+    },
+    "optionsRu": {
+      "A": "Двойная антитромбоцитарная терапия (ДАT) аспирином и клопидогрелом (класс I).",
+      "B": "Низкие дозы аспирина (75-100 мг/сут) (класс I).",
+      "C": "Ривароксабан 10 мг ежедневно.",
+      "D": "Антитромбоцитарная терапия не требуется, если процедура прошла успешно."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients undergoing TAVI without a baseline indication for OAC, **low-dose ASA** (75-100 mg/day) is recommended for the first 12 months (Class I A). **DAPT is not recommended** (Class III B) as it increases bleeding without reducing thromboembolic events.",
+    "explanationRu": "Для пациентов, перенесших TAVI без исходных показаний к ОАК, **низкие дозы аспирина** (75-100 мг/сут) рекомендуются в первые 12 месяцев (класс I A). **ДАT не рекомендуется** (класс III B), так как она увеличивает кровотечения без снижения тромбоэмболических событий."
+  },
+  {
+    "id": 20,
+    "questionEn": "A patient with an aortic mechanical heart valve requires a dental extraction. Their INR is stable at 2.5. What is the recommended management?",
+    "questionRu": "Пациенту с механическим клапаном в аортальной позиции требуется удаление зуба. Его МНО стабильно на уровне 2,5. Какая тактика рекомендуется?",
+    "optionsEn": {
+      "A": "Discontinue VKA 4 days before and bridge with LMWH.",
+      "B": "Continue VKA treatment without interruption.",
+      "C": "Switch to a DOAC temporarily.",
+      "D": "Stop VKA and restart only once the socket has fully healed."
+    },
+    "optionsRu": {
+      "A": "Отменить АВК за 4 дня и проводить мостиковую терапию низкомолекулярным гепарином (НМГ).",
+      "B": "Продолжить лечение АВК без прерывания.",
+      "C": "Временно перейти на ПОАК.",
+      "D": "Прекратить прием АВК и возобновить только после полного заживления лунки."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For **minor or minimally invasive interventions** associated with no or minimal bleeding (like dental procedures, cataracts, or skin surgery), the 2025 Guidelines recommend **continuing VKA treatment** without interruption (Class I A).",
+    "explanationRu": "Для **малых или минимально инвазивных вмешательств**, связанных с отсутствием или минимальным кровотечением (например, стоматологические процедуры, удаление катаракты, кожные операции), рекомендации 2025 года рекомендуют **продолжать лечение АВК** без прерывания (класс I A)."
+  },
+  {
+    "id": 21,
+    "questionEn": "A TAVI candidate is found to have an 85% stenosis in the proximal LAD (vessel diameter 3.0 mm) on procedural planning CT. What is the 2025 recommendation for CAD management?",
+    "questionRu": "У кандидата на TAVI при планирующей КТ выявлен стеноз 85% в проксимальном отделе передней межжелудочковой ветви (ПМЖВ) (диаметр сосуда 3,0 мм). Какова рекомендация 2025 года по ведению ИБС?",
+    "optionsEn": {
+      "A": "Routine PCI is recommended before all TAVIs.",
+      "B": "PCI should be considered if the stenosis is ≥90%.",
+      "C": "PCI may be considered if the stenosis is ≥70% in proximal segments.",
+      "D": "Bypass the LAD during a concomitant SAVR instead of TAVI."
+    },
+    "optionsRu": {
+      "A": "Рутинное ЧКВ рекомендуется перед всеми TAVI.",
+      "B": "ЧКВ следует рассматривать, если стеноз ≥90%.",
+      "C": "ЧКВ может быть рассмотрено, если стеноз ≥70% в проксимальных сегментах.",
+      "D": "Выполнить шунтирование ПМЖВ во время одновременного SAVR вместо TAVI."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "For TAVI candidates, **PCI should be considered** (Class IIa B) if the stenosis is **≥90%** in segments with a diameter ≥2.5 mm. However, the Guidelines also state that **PCI may be considered** (Class IIb B) if the stenosis is **≥70%** in proximal segments of main vessels. (The question asks for the recommendation for an 85% stenosis, making the 'may be considered' (Class IIb) the appropriate level of evidence for that specific degree).",
+    "explanationRu": "Для кандидатов на TAVI **ЧКВ следует рассмотреть** (класс IIa B), если стеноз **≥90%** в сегментах диаметром ≥2,5 мм. Однако рекомендации также указывают, что **ЧКВ может быть рассмотрено** (класс IIb B), если стеноз **≥70%** в проксимальных сегментах магистральных сосудов. (Вопрос касается стеноза 85%, поэтому «может быть рассмотрено» (класс IIb) является соответствующим уровнем доказательности для этой степени стеноза)."
+  },
+  {
+    "id": 22,
+    "questionEn": "A patient with AF and rheumatic mitral stenosis (MVA 1.5 cm²) requires stroke prevention. What is the recommended anticoagulant?",
+    "questionRu": "Пациент с фибрилляцией предсердий и ревматическим митральным стенозом (ПМК 1,5 см²) нуждается в профилактике инсульта. Какой антикоагулянт рекомендуется?",
+    "optionsEn": {
+      "A": "Apixaban.",
+      "B": "Dabigatran.",
+      "C": "Vitamin K Antagonist (VKA).",
+      "D": "Any DOAC is preferred over VKA."
+    },
+    "optionsRu": {
+      "A": "Апиксабан.",
+      "B": "Дабигатран.",
+      "C": "Антагонист витамина К (АВК).",
+      "D": "Любой ПОАК предпочтительнее АВК."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "DOACs are recommended for most VHD patients with AF. However, **VKAs remain the only recommendation** (and DOACs are not recommended) for two specific groups: those with **mechanical heart valves** and those with **mitral stenosis with an MVA ≤2.0 cm²**.",
+    "explanationRu": "ПОАК рекомендуются для большинства пациентов с пороками клапанов и ФП. Однако **АВК остаются единственной рекомендацией** (а ПОАК не рекомендуются) для двух конкретных групп: пациентов с **механическими клапанами сердца** и пациентов с **митральным стенозом с ПМК ≤2,0 см²**."
+  },
+  {
+    "id": 23,
+    "questionEn": "A patient with AF is undergoing surgical MV repair. What is the Class I recommendation regarding the left atrial appendage?",
+    "questionRu": "Пациент с ФП переносит хирургическую пластику митрального клапана. Какова рекомендация класса I в отношении ушка левого предсердия (УЛП)?",
+    "optionsEn": {
+      "A": "Leave it alone to maintain LA reservoir function.",
+      "B": "Percutaneous LAAO after 3 months of OAC.",
+      "C": "Surgical closure of the LA appendage as an adjunct to OAC.",
+      "D": "Surgical closure only if the CHA₂DS₂-VASc score is >4."
+    },
+    "optionsRu": {
+      "A": "Оставить его нетронутым для поддержания резервуарной функции ЛП.",
+      "B": "Чрескожная окклюзия УЛП через 3 месяца ОАК.",
+      "C": "Хирургическое закрытие ушка левого предсердия в дополнение к ОАК.",
+      "D": "Хирургическое закрытие только при индексе CHA₂DS₂-VASc >4."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The 2025 Guidelines upgraded the recommendation for **surgical LAAO** in patients with AF undergoing valve surgery to **Class I B**. It should be performed to prevent cardioembolic stroke and systemic thromboembolism.",
+    "explanationRu": "Рекомендации 2025 года повысили уровень рекомендации для **хирургической окклюзии УЛП** у пациентов с ФП, переносящих операцию на клапане, до **класса I B**. Она должна выполняться для профилактики кардиоэмболического инсульта и системных тромбоэмболий."
+  },
+  {
+    "id": 24,
+    "questionEn": "An asymptomatic patient presents with mixed moderate AS and moderate AR. Their Vmax is 4.2 m/s and their LVEF is 45%. No other cardiac disease explains the reduced LVEF. What is the recommendation?",
+    "questionRu": "Бессимптомный пациент имеет смешанный умеренный АС и умеренную АР. Его Vmax составляет 4,2 м/с, а ФВ ЛЖ — 45%. Никакое другое сердечное заболевание не объясняет сниженную ФВ ЛЖ. Какова рекомендация?",
+    "optionsEn": {
+      "A": "Close active surveillance every 6 months.",
+      "B": "Intervention is recommended (Class I).",
+      "C": "Intervention may be considered if symptoms develop (Class IIb).",
+      "D": "Heart failure medical therapy only."
+    },
+    "optionsRu": {
+      "A": "Активное наблюдение каждые 6 месяцев.",
+      "B": "Рекомендовано вмешательство (класс I).",
+      "C": "Вмешательство может быть рассмотрено при развитии симптомов (класс IIb).",
+      "D": "Только медикаментозная терапия сердечной недостаточности."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For **mixed moderate AS and moderate AR**, intervention is **recommended** (Class I C) in asymptomatic patients if the **Vmax ≥4.0 m/s** and the **LVEF <50%** (not attributable to other causes).",
+    "explanationRu": "При **смешанном умеренном АС и умеренной АР** вмешательство **рекомендовано** (класс I C) у бессимптомных пациентов, если **Vmax ≥4,0 м/с** и **ФВ ЛЖ <50%** (не обусловленная другими причинами)."
+  },
+  {
+    "id": 25,
+    "questionEn": "A symptomatic patient with a 10-year-old surgical bioprosthesis in the aortic position now has significant valve dysfunction. The Heart Team assessed them as intermediate surgical risk with suitable anatomy for a valve-in-valve procedure. What is the 2025 recommendation?",
+    "questionRu": "Симптомный пациент с 10-летним хирургическим биопротезом в аортальной позиции теперь имеет значительную дисфункцию клапана. Кардиокоманда оценила его как имеющего промежуточный хирургический риск с подходящей анатомией для процедуры «клапан в клапан». Какова рекомендация 2025 года?",
+    "optionsEn": {
+      "A": "TAVI (valve-in-valve) should be considered (Class IIa).",
+      "B": "Redo SAVR is the only Class I recommendation.",
+      "C": "TAVI (valve-in-valve) is not recommended due to PPM risk.",
+      "D": "Medical therapy until the patient becomes high-risk."
+    },
+    "optionsRu": {
+      "A": "TAVI (клапан в клапан) следует рассмотреть (класс IIa).",
+      "B": "Повторное SAVR является единственной рекомендацией класса I.",
+      "C": "TAVI (клапан в клапан) не рекомендуется из-за риска несоответствия пациента и протеза (PPM).",
+      "D": "Медикаментозная терапия до тех пор, пока пациент не станет высокорисковым."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "Transcatheter transfemoral **valve-in-valve** implantation in the aortic position **should be considered** (Class IIa B) in patients with significant dysfunction who are at **intermediate or high surgical risk**, provided the anatomy and prosthesis features are suitable.",
+    "explanationRu": "Транскатетерная трансфеморальная имплантация **«клапан в клапан»** в аортальной позиции **следует рассмотреть** (класс IIa B) у пациентов со значительной дисфункцией, которые имеют **промежуточный или высокий хирургический риск**, при условии подходящей анатомии и особенностей протеза."
+  },
+  {
+    "id": 26,
+    "questionEn": "A 75-year-old symptomatic patient presents with low-flow, low-gradient AS and a preserved LVEF (55%). The stroke volume index (SVi) is 32 mL/m². What is the 2025 recommendation for confirming the severity of AS?",
+    "questionRu": "Симптомный пациент 75 лет имеет низкопоточный низкоградиентный АС и сохраненную ФВ ЛЖ (55%). Индекс ударного объема (УОИ) составляет 32 мл/м². Какова рекомендация 2025 года для подтверждения тяжести АС?",
+    "optionsEn": {
+      "A": "Perform dobutamine stress echocardiography.",
+      "B": "Assess the aortic valve calcium score using CT.",
+      "C": "Proceed directly to TAVI based on symptoms and gradient.",
+      "D": "Perform an exercise test to unmask true symptoms."
+    },
+    "optionsRu": {
+      "A": "Выполнить стресс-эхокардиографию с добутамином.",
+      "B": "Оценить кальциевый индекс аортального клапана с помощью КТ.",
+      "C": "Перейти непосредственно к TAVI на основании симптомов и градиента.",
+      "D": "Выполнить нагрузочный тест для выявления истинных симптомов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients with low-flow, low-gradient AS and **preserved LVEF** (Normal-flow, low-gradient AS), dobutamine stress echo is not recommended. Instead, the 2025 Guidelines recommend **CT calcium scoring** (Class I) to confirm the severity of AS. A calcium score of ≥2000 in men and ≥1200 in women strongly suggests severe AS. DSE (Option A) is specifically for those with *reduced* LVEF.",
+    "explanationRu": "Для пациентов с низкопоточным низкоградиентным АС и **сохраненной ФВ ЛЖ** (нормопоточный низкоградиентный АС) стресс-эхо с добутамином не рекомендуется. Вместо этого рекомендации 2025 года рекомендуют **КТ-кальциевый индекс** (класс I) для подтверждения тяжести АС. Кальциевый индекс ≥2000 у мужчин и ≥1200 у женщин убедительно указывает на тяжелый АС. DSE (вариант A) предназначен специально для пациентов со *сниженной* ФВ ЛЖ."
+  },
+  {
+    "id": 27,
+    "questionEn": "In an asymptomatic patient with severe high-gradient AS and LVEF 56%, which of the following is now a Class IIa recommendation for early intervention?",
+    "questionRu": "У бессимптомного пациента с тяжелым высокоградиентным АС и ФВ ЛЖ 56%, что из следующего теперь является рекомендацией класса IIa для раннего вмешательства?",
+    "optionsEn": {
+      "A": "LVEF <55% attributable to AS.",
+      "B": "Peak velocity (Vmax) progression of 0.2 m/s/year.",
+      "C": "Serum BNP levels 2.5 times the normal range.",
+      "D": "Presence of mild coronary artery disease on CT."
+    },
+    "optionsRu": {
+      "A": "ФВ ЛЖ <55% обусловленная АС.",
+      "B": "Прогрессия пиковой скорости (Vmax) 0,2 м/с/год.",
+      "C": "Уровень BNP в сыворотке в 2,5 раза выше нормы.",
+      "D": "Наличие легкого коронарного атеросклероза на КТ."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "The 2025 Guidelines updated the LVEF threshold. Early intervention should be considered (Class IIa) in asymptomatic patients if **LVEF <55%** is attributable to AS. Previous guidelines used 50%. Vmax progression must be ≥0.3 m/s/year (Option B), and BNP must be >3 times the normal range (Option C).",
+    "explanationRu": "Рекомендации 2025 года обновили порог ФВ ЛЖ. Раннее вмешательство следует рассмотреть (класс IIa) у бессимптомных пациентов, если **ФВ ЛЖ <55%** обусловлена АС. Предыдущие рекомендации использовали 50%. Прогрессия Vmax должна быть ≥0,3 м/с/год (вариант B), а BNP должен быть >3 раз выше нормы (вариант C)."
+  },
+  {
+    "id": 28,
+    "questionEn": "A 72-year-old patient with symptomatic severe AS is found to have a Bicuspid Aortic Valve (BAV). What is the 2025 recommendation for the mode of intervention?",
+    "questionRu": "У пациента 72 лет с симптомным тяжелым АС выявлен двустворчатый аортальный клапан (ДАК). Какова рекомендация 2025 года относительно метода вмешательства?",
+    "optionsEn": {
+      "A": "TAVI is recommended (Class I).",
+      "B": "SAVR is recommended (Class I).",
+      "C": "TAVI may be considered if surgery is not the best option (Class IIb).",
+      "D": "SAVR is only recommended if the patient is <60 years old."
+    },
+    "optionsRu": {
+      "A": "Рекомендована TAVI (класс I).",
+      "B": "Рекомендовано SAVR (класс I).",
+      "C": "TAVI может быть рассмотрена, если операция не является наилучшим вариантом (класс IIb).",
+      "D": "SAVR рекомендуется только если пациент младше 60 лет."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients with **Bicuspid Aortic Valve (BAV)**, **SAVR is the recommended treatment** (Class I) due to anatomical complexities like asymmetric calcification and risk of root injury with transcatheter valves. TAVI 'may be considered' for BAV only in patients at increased surgical risk (Class IIb).",
+    "explanationRu": "Для пациентов с **двустворчатым аортальным клапаном (ДАК)** **рекомендованным лечением является SAVR** (класс I) из-за анатомических сложностей, таких как асимметричный кальциноз и риск повреждения корня транскатетерными клапанами. TAVI «может быть рассмотрена» для ДАК только у пациентов с повышенным хирургическим риском (класс IIb)."
+  },
+  {
+    "id": 29,
+    "questionEn": "A 74-year-old patient undergoes a successful TAVI. They have a history of permanent AF and are on Apixaban. What is the recommended post-procedural antithrombotic strategy?",
+    "questionRu": "Пациент 74 лет успешно перенес TAVI. У него в анамнезе постоянная ФП, и он принимает апиксабан. Какова рекомендуемая послепроцедурная антитромботическая стратегия?",
+    "optionsEn": {
+      "A": "Continue OAC alone (Class I).",
+      "B": "Add Clopidogrel for 3 months (DAPT).",
+      "C": "Switch to ASA and Clopidogrel (DAPT) for 6 months.",
+      "D": "Switch to VKA and ASA for 12 months."
+    },
+    "optionsRu": {
+      "A": "Продолжить только ОАК (класс I).",
+      "B": "Добавить клопидогрел на 3 месяца (ДАT).",
+      "C": "Перейти на аспирин и клопидогрел (ДАT) на 6 месяцев.",
+      "D": "Перейти на АВК и аспирин на 12 месяцев."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "In patients undergoing TAVI with a baseline indication for **OAC (like AF)**, the 2025 Guidelines recommend **OAC alone** (Class I B). Adding an antiplatelet agent increases bleeding risk without reducing thromboembolic events.",
+    "explanationRu": "У пациентов, переносящих TAVI с исходным показанием к **ОАК (например, ФП)**, рекомендации 2025 года рекомендуют **только ОАК** (класс I B). Добавление антитромбоцитарного препарата увеличивает риск кровотечения без снижения тромбоэмболических событий."
+  },
+  {
+    "id": 30,
+    "questionEn": "A patient under 70 years old has severe AS and a low surgical risk. However, they have a 'porcelain aorta.' What is the most appropriate recommendation?",
+    "questionRu": "Пациент младше 70 лет имеет тяжелый АС и низкий хирургический риск. Однако у него «фарфоровая аорта». Какова наиболее подходящая рекомендация?",
+    "optionsEn": {
+      "A": "Proceed with SAVR; the Heart Team cannot overrule risk scores.",
+      "B": "TAVI should be preferred regardless of age (Class I).",
+      "C": "SAVR with circulatory arrest to replace the aorta.",
+      "D": "TAVI should be considered due to technical surgical contraindications."
+    },
+    "optionsRu": {
+      "A": "Выполнить SAVR; кардиокоманда не может отменять шкалы риска.",
+      "B": "TAVI следует предпочесть независимо от возраста (класс I).",
+      "C": "SAVR с остановкой кровообращения для замены аорты.",
+      "D": "TAVI следует рассмотреть из-за технических хирургических противопоказаний."
+    },
+    "correctAnswer": "D",
+    "explanationEn": "While SAVR is generally preferred for <70 years old, a **porcelain aorta** is specifically listed as an anatomical feature **favouring TAVI** (Figure 9). In patients where surgery is deemed unsuitable due to technical factors like porcelain aorta or sequelae of chest radiation, TAVI is the primary choice regardless of the age threshold.",
+    "explanationRu": "Хотя SAVR обычно предпочтительнее для пациентов <70 лет, **фарфоровая аорта** конкретно указана как анатомическая особенность, **благоприятствующая TAVI** (Рисунок 9). У пациентов, для которых операция считается неподходящей из-за технических факторов, таких как фарфоровая аорта или последствия облучения грудной клетки, TAVI является основным выбором независимо от возрастного порога."
+  },
+  {
+    "id": 31,
+    "questionEn": "A 50-year-old asymptomatic man has severe AR and LVEF 53%. His indexed LV end-systolic volume (LVESVi) is 50 mL/m². What is the 2025 recommendation?",
+    "questionRu": "Бессимптомный мужчина 50 лет имеет тяжелую АР и ФВ ЛЖ 53%. Его индексированный конечно-систолический объем ЛЖ (КСОи) составляет 50 мл/м². Какова рекомендация 2025 года?",
+    "optionsEn": {
+      "A": "AV surgery is recommended (Class I).",
+      "B": "AV surgery should be considered (Class IIa).",
+      "C": "AV surgery may be considered (Class IIb).",
+      "D": "Conservative management with 6-month follow-up."
+    },
+    "optionsRu": {
+      "A": "Рекомендована операция на аортальном клапане (класс I).",
+      "B": "Операцию на аортальном клапане следует рассмотреть (класс IIa).",
+      "C": "Операция на аортальном клапане может быть рассмотрена (класс IIb).",
+      "D": "Консервативное ведение с наблюдением каждые 6 месяцев."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "For asymptomatic patients with severe AR, surgery is Class I only if LVEF ≤50% or LVESD >50mm. The 2025 Guidelines added **Class IIb** criteria for patients with LVEF 50-55% or an indexed volume **LVESVi >45 mL/m²**. This patient's 50 mL/m² places him in the 'may be considered' category.",
+    "explanationRu": "Для бессимптомных пациентов с тяжелой АР операция имеет класс I только при ФВ ЛЖ ≤50% или КСР ЛЖ >50 мм. Рекомендации 2025 года добавили критерии **класса IIb** для пациентов с ФВ ЛЖ 50-55% или индексированным объемом **КСОи >45 мл/м²**. Значение 50 мл/м² у этого пациента помещает его в категорию «может быть рассмотрена»."
+  },
+  {
+    "id": 32,
+    "questionEn": "Which imaging modality is considered the gold standard for quantifying regurgitant volume and fraction in AR when echocardiography is inconclusive?",
+    "questionRu": "Какой метод визуализации считается золотым стандартом для количественной оценки объема и фракции регургитации при АР, когда эхокардиография не дает однозначных результатов?",
+    "optionsEn": {
+      "A": "Cardiac Computed Tomography (CCT).",
+      "B": "Cardiac Magnetic Resonance (CMR).",
+      "C": "Transoesophageal Echocardiography (TOE).",
+      "D": "Radionuclide Ventriculography."
+    },
+    "optionsRu": {
+      "A": "Компьютерная томография сердца (КТ).",
+      "B": "Магнитно-резонансная томография сердца (МРТ).",
+      "C": "Чреспищеводная эхокардиография (ЧПЭхоКГ).",
+      "D": "Радионуклидная вентрикулография."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**CMR** is the recommended modality (Class I) for quantifyng AR when echocardiography is inconclusive or provides conflicting results. It is more accurate than CCT for flow quantification.",
+    "explanationRu": "**МРТ** является рекомендуемым методом (класс I) для количественной оценки АР, когда эхокардиография не дает однозначных или противоречивых результатов. Она более точна, чем КТ, для количественной оценки потока."
+  },
+  {
+    "id": 33,
+    "questionEn": "A symptomatic patient has severe secondary MR and LVEF 30%. They have been on optimized GDMT for 4 months. The Heart Team evaluates them for TEER. Which clinical profile supports the highest level of recommendation for TEER?",
+    "questionRu": "Симптомный пациент имеет тяжелую вторичную МР и ФВ ЛЖ 30%. Он получает оптимизированную медикаментозную терапию (ОМТ) в течение 4 месяцев. Кардиокоманда оценивает его для TEER. Какой клинический профиль поддерживает наиболее высокий уровень рекомендации для TEER?",
+    "optionsEn": {
+      "A": "MITRA-FR profile: Very large LV, moderate MR.",
+      "B": "COAPT-like profile: MR severity disproportionate to LV dilation.",
+      "C": "Atrial SMR profile: Preserved LVEF, large LA.",
+      "D": "Acute MR following myocardial infarction."
+    },
+    "optionsRu": {
+      "A": "Профиль MITRA-FR: очень большой ЛЖ, умеренная МР.",
+      "B": "Профиль, подобный COAPT: тяжесть МР непропорциональна дилатации ЛЖ.",
+      "C": "Профиль предсердной ВМР: сохраненная ФВ ЛЖ, большое ЛП.",
+      "D": "Острая МР после инфаркта миокарда."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The **Class I A recommendation for TEER** is specifically for symptomatic patients with persistent severe **ventricular SMR** who fulfill 'COAPT-like' criteria (specific clinical and echocardiographic criteria suggesting the MR is the primary driver of HF symptoms, not just a bystander of extreme LV dilation).",
+    "explanationRu": "**Рекомендация класса I A для TEER** предназначена специально для симптомных пациентов с постоянной тяжелой **желудочковой ВМР**, которые соответствуют критериям «подобным COAPT» (специфические клинические и эхокардиографические критерии, предполагающие, что МР является основной причиной симптомов СН, а не просто сопутствующим явлением при крайней дилатации ЛЖ)."
+  },
+  {
+    "id": 34,
+    "questionEn": "A patient has severe Atrial Secondary Mitral Regurgitation (Atrial SMR) and symptomatic AF. What is the preferred surgical strategy if surgery is indicated?",
+    "questionRu": "Пациент имеет тяжелую предсердную вторичную митральную регургитацию (предсердную ВМР) и симптомную ФП. Какова предпочтительная хирургическая стратегия, если операция показана?",
+    "optionsEn": {
+      "A": "Isolated MV replacement.",
+      "B": "Isolated MV repair with a rigid ring.",
+      "C": "MV surgery + AF ablation + Surgical LAAO.",
+      "D": "TAVI to reduce LV afterload first."
+    },
+    "optionsRu": {
+      "A": "Изолированная замена митрального клапана.",
+      "B": "Изолированная пластика МК с жестким кольцом.",
+      "C": "Операция на МК + аблация ФП + хирургическая окклюзия УЛП.",
+      "D": "TAVI для снижения постнагрузки ЛЖ в первую очередь."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "For **Atrial SMR**, the 2025 Guidelines recommend considering **MV surgery combined with surgical AF ablation and LAAO** (Class IIa). Addressing the underlying rhythm (AF) and the mechanical consequence (LAA thrombus risk) is central to management.",
+    "explanationRu": "Для **предсердной ВМР** рекомендации 2025 года предлагают рассмотреть **хирургию МК в сочетании с хирургической аблацией ФП и окклюзией УЛП** (класс IIa). Лечение основного нарушения ритма (ФП) и механического последствия (риск тромбоза УЛП) является центральным в ведении."
+  },
+  {
+    "id": 35,
+    "questionEn": "A patient with severe ventricular SMR requires PCI for a non-complex LAD stenosis. What is the recommended sequence according to 2025 Guidelines?",
+    "questionRu": "Пациент с тяжелой желудочковой ВМР требует ЧКВ по поводу неосложненного стеноза ПМЖВ. Какова рекомендуемая последовательность согласно рекомендациям 2025 года?",
+    "optionsEn": {
+      "A": "TEER first, then PCI 6 months later.",
+      "B": "PCI followed by TEER after re-evaluation of MR severity (Class IIb).",
+      "C": "Simultaneous TEER and PCI in all cases.",
+      "D": "TEER only; PCI is not indicated in heart failure."
+    },
+    "optionsRu": {
+      "A": "Сначала TEER, затем ЧКВ через 6 месяцев.",
+      "B": "ЧКВ с последующим TEER после повторной оценки тяжести МР (класс IIb).",
+      "C": "Одновременное выполнение TEER и ЧКВ во всех случаях.",
+      "D": "Только TEER; ЧКВ не показано при сердечной недостаточности."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In symptomatic patients with chronic severe ventricular SMR and non-complex CAD, **PCI followed by TEER** after re-evaluating the MR 'may be considered' (Class IIb). This allows the Heart Team to see if revascularization improves LV function and reduces SMR before proceeding to the valve.",
+    "explanationRu": "У симптомных пациентов с хронической тяжелой желудочковой ВМР и неосложненной ИБС **ЧКВ с последующим TEER** после повторной оценки МР «может быть рассмотрено» (класс IIb). Это позволяет кардиокоманде оценить, улучшит ли реваскуляризация функцию ЛЖ и уменьшит ВМР, прежде чем переходить к вмешательству на клапане."
+  },
+  {
+    "id": 36,
+    "questionEn": "A patient is undergoing surgery for a symptomatic mitral bioprosthetic failure. They also have mild secondary TR, but the tricuspid annulus measures 41 mm on 2D echo. What should be done?",
+    "questionRu": "Пациенту выполняется операция по поводу симптомной дисфункции митрального биопротеза. У него также имеется легкая вторичная ТР, но трикуспидальное кольцо по данным 2D эхо составляет 41 мм. Что следует сделать?",
+    "optionsEn": {
+      "A": "Ignore the TV; address it only if TR is severe.",
+      "B": "Perform concomitant TV repair (Class IIa).",
+      "C": "Replace the TV with a mechanical prosthesis.",
+      "D": "Wait for 1 year and perform transcatheter TV repair if needed."
+    },
+    "optionsRu": {
+      "A": "Игнорировать ТК; вмешательство только при тяжелой ТР.",
+      "B": "Выполнить одновременную пластику ТК (класс IIa).",
+      "C": "Заменить ТК на механический протез.",
+      "D": "Подождать 1 год и при необходимости выполнить транскатетерную пластику ТК."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Surgery **should be considered** (Class IIa) in patients with **mild or moderate secondary TR** if the annulus is dilated (**≥40 mm** or >21 mm/m²) when undergoing left-sided valve surgery. This prevents future RV remodeling even if the TR is currently non-severe.",
+    "explanationRu": "Операцию **следует рассмотреть** (класс IIa) у пациентов с **легкой или умеренной вторичной ТР**, если кольцо дилатировано (**≥40 мм** или >21 мм/м²), при выполнении операции на левых клапанах. Это предотвращает будущее ремоделирование ПЖ, даже если ТР в настоящее время не является тяжелой."
+  },
+  {
+    "id": 37,
+    "questionEn": "In a 'staged' transcatheter approach for multiple valve disease, which valve is typically addressed first?",
+    "questionRu": "При «этапном» транскатетерном подходе при множественных пороках клапанов, какой клапан обычно корригируют первым?",
+    "optionsEn": {
+      "A": "The most 'upstream' valve (Tricuspid).",
+      "B": "The most 'downstream' valve (Aortic).",
+      "C": "The Mitral valve, as it is central.",
+      "D": "Both simultaneously, regardless of hemodynamics."
+    },
+    "optionsRu": {
+      "A": "Самый «проксимальный» клапан (трикуспидальный).",
+      "B": "Самый «дистальный» клапан (аортальный).",
+      "C": "Митральный клапан, так как он центральный.",
+      "D": "Оба одновременно, независимо от гемодинамики."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "When addressing multiple lesions with transcatheter techniques, a staged approach beginning with the **downstream lesion** (aortic, followed by mitral and tricuspid) is preferred to avoid potential hemodynamic deterioration caused by altered loading conditions.",
+    "explanationRu": "При коррекции множественных поражений транскатетерными методами предпочтительным является этапный подход, начинающийся с **дистального поражения** (аортального, затем митрального и трикуспидального), чтобы избежать потенциального гемодинамического ухудшения, вызванного изменением условий нагрузки."
+  },
+  {
+    "id": 38,
+    "questionEn": "A 35-year-old woman requires a valve replacement and is planning a pregnancy in the near future. What is the recommended choice of prosthesis?",
+    "questionRu": "Женщина 35 лет нуждается в замене клапана и планирует беременность в ближайшем будущем. Какой протез рекомендуется выбрать?",
+    "optionsEn": {
+      "A": "Mechanical Heart Valve (MHV) is recommended (Class I).",
+      "B": "Biological Heart Valve (BHV) should be considered (Class IIa).",
+      "C": "TAVI is preferred to minimize trauma.",
+      "D": "Homograft is the only option."
+    },
+    "optionsRu": {
+      "A": "Рекомендован механический клапан (МК) (класс I).",
+      "B": "Следует рассмотреть биологический клапан (БК) (класс IIa).",
+      "C": "TAVI предпочтительнее для минимизации травмы.",
+      "D": "Гомографт является единственным вариантом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In women contemplating pregnancy, a **BHV should be considered** (Class IIa). This avoids the extreme challenges of managing VKAs during pregnancy, which carry high risks of embryopathy and fetal loss.",
+    "explanationRu": "У женщин, планирующих беременность, **следует рассмотреть БК** (класс IIa). Это позволяет избежать чрезвычайных трудностей, связанных с применением АВК во время беременности, которые несут высокий риск эмбриопатии и потери плода."
+  },
+  {
+    "id": 39,
+    "questionEn": "A patient with an aortic mechanical heart valve and no other risk factors requires major elective non-cardiac surgery. What is the 2025 recommendation for VKA management?",
+    "questionRu": "Пациент с механическим клапаном в аортальной позиции и отсутствием других факторов риска требует планового большого некардиохирургического вмешательства. Какова рекомендация 2025 года по ведению АВК?",
+    "optionsEn": {
+      "A": "Routine bridging with LMWH for all patients.",
+      "B": "Discontinue VKA and resume within 24h without bridging (Class IIb).",
+      "C": "Switch to a DOAC 1 week before surgery.",
+      "D": "Continue VKA at half dose."
+    },
+    "optionsRu": {
+      "A": "Рутинное мостирование НМГ для всех пациентов.",
+      "B": "Прекратить прием АВК и возобновить в течение 24 часов без мостирования (класс IIb).",
+      "C": "Перейти на ПОАК за 1 неделю до операции.",
+      "D": "Продолжить прием АВК в половинной дозе."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A new, more conservative approach to bridging is introduced. For patients with a **new-generation aortic MHV and no other thromboembolic risk factors**, interruption and resumption of VKA **without bridging** may be considered (Class IIb) to reduce bleeding.",
+    "explanationRu": "Представлен новый, более консервативный подход к мостированию. Для пациентов с **аортальным МК нового поколения и отсутствием других факторов риска тромбоэмболий** прерывание и возобновление приема АВК **без мостирования** может быть рассмотрено (класс IIb) для снижения кровотечений."
+  },
+  {
+    "id": 40,
+    "questionEn": "Which medication is specifically NOT recommended for a patient with a mechanical heart valve for stroke prevention?",
+    "questionRu": "Какой препарат специально НЕ рекомендуется пациенту с механическим клапаном сердца для профилактики инсульта?",
+    "optionsEn": {
+      "A": "Warfarin.",
+      "B": "Acenocoumarol.",
+      "C": "Rivaroxaban.",
+      "D": "Aspirin 75mg."
+    },
+    "optionsRu": {
+      "A": "Варфарин.",
+      "B": "Аценокумарол.",
+      "C": "Ривароксабан.",
+      "D": "Аспирин 75 мг."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "**DOACs (like Rivaroxaban) are Class III (not recommended)** for patients with mechanical heart valves. VKAs are the only Class I recommendation.",
+    "explanationRu": "**ПОАК (например, ривароксабан) имеют класс III (не рекомендуются)** для пациентов с механическими клапанами сердца. АВК являются единственной рекомендацией класса I."
+  },
+  {
+    "id": 41,
+    "questionEn": "In mixed Aortic Valve disease (moderate AS + moderate AR), why are Vmax and mean gradient often used to guide intervention in asymptomatic patients?",
+    "questionRu": "При смешанном поражении аортального клапана (умеренный АС + умеренная АР), почему Vmax и средний градиент часто используются для определения показаний к вмешательству у бессимптомных пациентов?",
+    "optionsEn": {
+      "A": "Because AVA becomes more accurate in mixed disease.",
+      "B": "Because Vmax and mean gradient reflect the 'combined burden' of stenosis and regurgitation.",
+      "C": "Because AR always causes the gradient to drop.",
+      "D": "They are not used; only LV size matters."
+    },
+    "optionsRu": {
+      "A": "Потому что AVA становится более точной при смешанном поражении.",
+      "B": "Потому что Vmax и средний градиент отражают «комбинированную нагрузку» стеноза и регургитации.",
+      "C": "Потому что АР всегда вызывает падение градиента.",
+      "D": "Они не используются; важен только размер ЛЖ."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In mixed AS and AR, the Vmax and mean gradient reflect the **combined hemodynamic burden** (Table 12). Intervention is recommended (Class I) in asymptomatic mixed disease if **Vmax ≥4.0 m/s** and LVEF <50%.",
+    "explanationRu": "При смешанном АС и АР Vmax и средний градиент отражают **комбинированную гемодинамическую нагрузку** (Таблица 12). Вмешательство рекомендуется (класс I) при бессимптомном смешанном поражении, если **Vmax ≥4,0 м/с** и ФВ ЛЖ <50%."
+  },
+  {
+    "id": 42,
+    "questionEn": "A patient has severe calcific Mitral Stenosis (Degenerative MS). Which procedure is specifically stated to be NOT amenable to this pathology?",
+    "questionRu": "У пациента тяжелый кальцинирующий митральный стеноз (дегенеративный МС). Какая процедура, как специально указано, не подходит для этой патологии?",
+    "optionsEn": {
+      "A": "Surgical replacement.",
+      "B": "Percutaneous Mitral Commissurotomy (PMC).",
+      "C": "Transcatheter valve-in-MAC.",
+      "D": "Surgical repair with patches."
+    },
+    "optionsRu": {
+      "A": "Хирургическая замена.",
+      "B": "Чрескожная митральная комиссуротомия (ЧМК).",
+      "C": "Транскатетерный «клапан в MAC».",
+      "D": "Хирургическая пластика с заплатами."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**PMC** is not effective for Degenerative MS because **commissural fusion is absent** in this pathology (unlike in rheumatic MS).",
+    "explanationRu": "**ЧМК** не эффективна при дегенеративном МС, потому что при этой патологии **отсутствует комиссуральное сращение** (в отличие от ревматического МС)."
+  },
+  {
+    "id": 43,
+    "questionEn": "What is the new recommended follow-up frequency for a patient who has undergone TEER for mitral regurgitation?",
+    "questionRu": "Какова новая рекомендуемая частота наблюдения для пациента, перенесшего TEER по поводу митральной регургитации?",
+    "optionsEn": {
+      "A": "Every 3 years.",
+      "B": "Every 2 years.",
+      "C": "Yearly (Clinical + Echo).",
+      "D": "Only if symptoms return."
+    },
+    "optionsRu": {
+      "A": "Каждые 3 года.",
+      "B": "Каждые 2 года.",
+      "C": "Ежегодно (клинически + ЭхоКГ).",
+      "D": "Только при возврате симптомов."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Following TEER, reported rates of residual MR and increased gradients are higher than after surgery. Therefore, **yearly follow-up** including clinical and echocardiographic evaluation is recommended.",
+    "explanationRu": "После TEER сообщается о более высоких частотах остаточной МР и повышенных градиентов, чем после операции. Поэтому рекомендуется **ежегодное наблюдение**, включающее клиническую и эхокардиографическую оценку."
+  },
+  {
+    "id": 44,
+    "questionEn": "A patient with severe secondary TR is symptomatic but deemed 'inoperable' by the Heart Team. They have a pre-capillary pulmonary hypertension (mean PAP 35, PVR 4 Wood Units). Is transcatheter TV treatment indicated?",
+    "questionRu": "Пациент с тяжелой вторичной ТР имеет симптомы, но признан кардиокомандой «неоперабельным». У него прекапиллярная легочная гипертензия (среднее ДЛА 35, СЛС 4 ед. Вуда). Показано ли транскатетерное лечение ТК?",
+    "optionsEn": {
+      "A": "Yes, it is Class IIa.",
+      "B": "No, it is generally not recommended in the presence of pre-capillary PH.",
+      "C": "Yes, but only if the patient is <70 years old.",
+      "D": "No, because TR never causes symptoms."
+    },
+    "optionsRu": {
+      "A": "Да, это класс IIa.",
+      "B": "Нет, обычно не рекомендуется при наличии прекапиллярной ЛГ.",
+      "C": "Да, но только если пациент <70 лет.",
+      "D": "Нет, потому что ТР никогда не вызывает симптомов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Transcatheter TV treatment should be considered (Class IIa) in symptomatic high-risk patients **in the absence of severe RV dysfunction or pre-capillary PH**. Pre-capillary PH is a contraindication as the procedure may not lead to recovery.",
+    "explanationRu": "Транскатетерное лечение ТК следует рассмотреть (класс IIa) у симптомных пациентов высокого риска **при отсутствии тяжелой дисфункции ПЖ или прекапиллярной ЛГ**. Прекапиллярная ЛГ является противопоказанием, так как процедура может не привести к выздоровлению."
+  },
+  {
+    "id": 45,
+    "questionEn": "A Heart Valve Centre's volume for TAVI is 60 cases per year. Does it meet the 2025 volume threshold?",
+    "questionRu": "Объем TAVI в Центре клапанов сердца составляет 60 случаев в год. Соответствует ли он пороговому объему 2025 года?",
+    "optionsEn": {
+      "A": "Yes, the threshold is 40.",
+      "B": "No, the threshold is 100.",
+      "C": "Yes, the threshold is 50.",
+      "D": "Volume is only measured for surgeons, not interventionalists."
+    },
+    "optionsRu": {
+      "A": "Да, порог составляет 40.",
+      "B": "Нет, порог составляет 100.",
+      "C": "Да, порог составляет 50.",
+      "D": "Объем измеряется только для хирургов, а не для интервенционных кардиологов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The 2025 Guidelines emphasize high-volume expertise. While exact 'minimum' numbers vary by region, the document refers to high-volume benchmarks, and typical ESC quality papers (referenced in) suggest thresholds around **100 TAVI cases per centre per year** for optimized outcomes. (Note: The guidelines specifically mandate 'High volume for hospital and individual operators' without listing every single number in the main text, but 100 is a standard benchmark referenced for high-volume centres).",
+    "explanationRu": "Рекомендации 2025 года подчеркивают важность высокой производительности. Хотя точные «минимальные» цифры различаются в зависимости от региона, документ ссылается на высокие стандарты, и типичные работы ESC по качеству (упомянутые в тексте) предполагают пороговые значения около **100 случаев TAVI в центре в год** для оптимизированных результатов. (Примечание: рекомендации прямо требуют «высокого объема для больницы и отдельных операторов», не перечисляя каждую цифру в основном тексте, но 100 является стандартным ориентиром для высокообъемных центров)."
+  },
+  {
+    "id": 46,
+    "questionEn": "An asymptomatic 55-year-old patient with severe primary MR has an LVEF of 62% and an LVESD of 41 mm. According to the 2025 Guidelines, what is the level of recommendation for MV surgery?",
+    "questionRu": "Бессимптомный пациент 55 лет с тяжелой первичной МР имеет ФВ ЛЖ 62% и КСР ЛЖ 41 мм. Согласно рекомендациям 2025 года, каков уровень рекомендации для операции на митральном клапане?",
+    "optionsEn": {
+      "A": "Class I.",
+      "B": "Class IIa.",
+      "C": "Class IIb.",
+      "D": "Surgery is contraindicated until LVEF falls below 60%."
+    },
+    "optionsRu": {
+      "A": "Класс I.",
+      "B": "Класс IIa.",
+      "C": "Класс IIb.",
+      "D": "Операция противопоказана до тех пор, пока ФВ ЛЖ не упадет ниже 60%."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "This is a key threshold. Surgery **is recommended** (Class I) in asymptomatic patients with severe primary MR and evidence of LV dysfunction, defined as **LVEF ≤60% OR LVESD ≥40 mm**. Since the LVESD is 41 mm, the patient meets the Class I criteria regardless of the preserved LVEF.",
+    "explanationRu": "Это ключевой порог. Операция **рекомендована** (класс I) у бессимптомных пациентов с тяжелой первичной МР и признаками дисфункции ЛЖ, определяемой как **ФВ ЛЖ ≤60% ИЛИ КСР ЛЖ ≥40 мм**. Поскольку КСР ЛЖ составляет 41 мм, пациент соответствует критериям класса I независимо от сохраненной ФВ ЛЖ."
+  },
+  {
+    "id": 47,
+    "questionEn": "A low-risk asymptomatic patient has severe primary MR with LVEF 65% and LVESD 38 mm. They are in sinus rhythm and have an LA volume index of 62 mL/m². What is the 2025 recommendation for surgical repair?",
+    "questionRu": "Бессимптомный пациент низкого риска имеет тяжелую первичную МР с ФВ ЛЖ 65% и КСР ЛЖ 38 мм. У него синусовый ритм и индекс объема ЛП 62 мл/м². Какова рекомендация 2025 года для хирургической пластики?",
+    "optionsEn": {
+      "A": "Recommended (Class I).",
+      "B": "Should be considered (Class IIa).",
+      "C": "May be considered (Class IIb).",
+      "D": "Wait-and-watch (Follow-up every 6 months)."
+    },
+    "optionsRu": {
+      "A": "Рекомендована (класс I).",
+      "B": "Следует рассмотреть (класс IIa).",
+      "C": "Может быть рассмотрена (класс IIb).",
+      "D": "Наблюдение (контроль каждые 6 месяцев)."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients without Class I indications (LVEF >60% and LVESD <40 mm), surgery **should be considered** (Class IIa) if a durable repair is likely and certain adverse features are present. The 2025 update lists: AF, SPAP >50 mmHg, LA dilatation (LAVI ≥60 mL/m²), or ≥moderate secondary TR. Since the patient has an LAVI of 62, Class IIa is appropriate.",
+    "explanationRu": "Для пациентов без показаний класса I (ФВ ЛЖ >60% и КСР ЛЖ <40 мм) операцию **следует рассмотреть** (класс IIa), если вероятна долговечная пластика и присутствуют определенные неблагоприятные признаки. В обновлении 2025 года перечислены: ФП, СПАД >50 мм рт.ст., дилатация ЛП (ИОЛП ≥60 мл/м²) или ≥умеренная вторичная ТР. Поскольку у пациента ИОЛП 62, класс IIa является подходящим."
+  },
+  {
+    "id": 48,
+    "questionEn": "In patients with severe primary MR who are at high surgical risk, when is TEER (transcatheter edge-to-edge repair) specifically considered 'Class IIa' rather than Class IIb?",
+    "questionRu": "У пациентов с тяжелой первичной МР с высоким хирургическим риском, когда TEER (транскатетерная пластика край-в-край) специально считается «классом IIa», а не классом IIb?",
+    "optionsEn": {
+      "A": "When they have any secondary TR.",
+      "B": "When they are symptomatic and fulfill echocardiographic eligibility criteria.",
+      "C": "Only if they are over 80 years old.",
+      "D": "Only if they have a history of prior CABG."
+    },
+    "optionsRu": {
+      "A": "Когда у них есть любая вторичная ТР.",
+      "B": "Когда они симптомны и соответствуют эхокардиографическим критериям приемлемости.",
+      "C": "Только если им старше 80 лет.",
+      "D": "Только если у них в анамнезе было коронарное шунтирование."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "TEER **should be considered** (Class IIa B) in symptomatic patients with severe PMR who are at **high surgical risk** or inoperable, provided they fulfill the morphological criteria for the procedure and it is not considered futile.",
+    "explanationRu": "TEER **следует рассмотреть** (класс IIa B) у симптомных пациентов с тяжелой ПМР, которые имеют **высокий хирургический риск** или неоперабельны, при условии, что они соответствуют морфологическим критериям для процедуры и она не считается бесполезной."
+  },
+  {
+    "id": 49,
+    "questionEn": "A patient has 'Atrial Secondary Mitral Regurgitation' (Atrial SMR). Which of the following is a characteristic feature according to the 2025 classification?",
+    "questionRu": "У пациента «предсердная вторичная митральная регургитация» (предсердная ВМР). Что из следующего является характерной особенностью согласно классификации 2025 года?",
+    "optionsEn": {
+      "A": "Left ventricular wall motion abnormalities.",
+      "B": "Leaflet tethering with a dilated LV.",
+      "C": "LA enlargement and annular dilation with preserved LVEF.",
+      "D": "Massive calcification of the mitral annulus (MAC)."
+    },
+    "optionsRu": {
+      "A": "Нарушения движения стенок левого желудочка.",
+      "B": "Натяжение створок с дилатированным ЛЖ.",
+      "C": "Увеличение ЛП и дилатация кольца при сохраненной ФВ ЛЖ.",
+      "D": "Массивная кальцификация митрального кольца (MAC)."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The 2025 guidelines emphasize the distinction. **Atrial SMR** is characterized by LA enlargement and annular dilation in the context of AF or HFpEF, but with **preserved LVEF** and no significant LV remodeling or leaflet tethering.",
+    "explanationRu": "Рекомендации 2025 года подчеркивают это различие. **Предсердная ВМР** характеризуется увеличением ЛП и дилатацией кольца на фоне ФП или HFpEF, но при **сохраненной ФВ ЛЖ** и отсутствии значительного ремоделирования ЛЖ или натяжения створок."
+  },
+  {
+    "id": 50,
+    "questionEn": "A patient with severe Atrial SMR remains symptomatic despite medical therapy and AF rhythm control. Surgery is low-risk. What is the Class IIa recommendation for surgical management?",
+    "questionRu": "Пациент с тяжелой предсердной ВМР остается симптомным, несмотря на медикаментозную терапию и контроль ритма при ФП. Хирургический риск низкий. Какова рекомендация класса IIa для хирургического лечения?",
+    "optionsEn": {
+      "A": "MV repair with a large annuloplasty ring.",
+      "B": "MV surgery combined with surgical AF ablation and LAAO.",
+      "C": "Isolated TEER.",
+      "D": "Heart transplant."
+    },
+    "optionsRu": {
+      "A": "Пластика МК с большим аннулопластическим кольцом.",
+      "B": "Операция на МК в сочетании с хирургической аблацией ФП и окклюзией УЛП.",
+      "C": "Изолированный TEER.",
+      "D": "Трансплантация сердца."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For symptomatic patients with severe **atrial SMR**, the guidelines recommend considering **MV surgery plus surgical AF ablation and Left Atrial Appendage Occlusion (LAAO)** (Class IIa).",
+    "explanationRu": "Для симптомных пациентов с тяжелой **предсердной ВМР** рекомендации предлагают рассмотреть **операцию на МК в сочетании с хирургической аблацией ФП и окклюзией ушка левого предсердия (УЛП)** (класс IIa)."
+  },
+  {
+    "id": 51,
+    "questionEn": "A symptomatic patient with chronic ventricular SMR and non-complex CAD is being evaluated. What is the suggested sequence of treatment?",
+    "questionRu": "Симптомный пациент с хронической желудочковой ВМР и неосложненной ИБС находится на обследовании. Какая последовательность лечения предлагается?",
+    "optionsEn": {
+      "A": "TEER first, then PCI.",
+      "B": "PCI followed by TEER if severe MR persists (Class IIb).",
+      "C": "Isolated MV surgery only.",
+      "D": "No intervention; medical therapy is the only Class I recommendation."
+    },
+    "optionsRu": {
+      "A": "Сначала TEER, затем ЧКВ.",
+      "B": "ЧКВ с последующим TEER, если сохраняется тяжелая МР (класс IIb).",
+      "C": "Только изолированная операция на митральном клапане.",
+      "D": "Никакого вмешательства; медикаментозная терапия является единственной рекомендацией класса I."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In symptomatic patients with chronic severe ventricular SMR and non-complex CAD, the Heart Team may consider **PCI followed by re-evaluation of MR**, and then TEER if the MR remains severe (Class IIb). This allows assessment of whether revascularization improves LV function and reduces SMR before valve intervention.",
+    "explanationRu": "У симптомных пациентов с хронической тяжелой желудочковой ВМР и неосложненной ИБС кардиокоманда может рассмотреть **ЧКВ с последующей переоценкой МР**, а затем TEER, если МР остается тяжелой (класс IIb). Это позволяет оценить, улучшает ли реваскуляризация функцию ЛЖ и уменьшает ВМР, прежде чем вмешиваться на клапане."
+  },
+  {
+    "id": 52,
+    "questionEn": "A patient is undergoing surgery for a symptomatic mitral bioprosthetic failure. They also have mild secondary TR, but the tricuspid annulus measures 41 mm on 2D echo. What should be done?",
+    "questionRu": "Пациенту выполняется операция по поводу симптомной дисфункции митрального биопротеза. У него также имеется легкая вторичная ТР, но трикуспидальное кольцо по данным 2D-эхо составляет 41 мм. Что следует сделать?",
+    "optionsEn": {
+      "A": "Ignore the TV; address it only if TR is severe.",
+      "B": "Perform concomitant TV repair (Class IIa).",
+      "C": "Replace the TV with a mechanical prosthesis.",
+      "D": "Wait for 1 year and perform transcatheter TV repair if needed."
+    },
+    "optionsRu": {
+      "A": "Игнорировать ТК; вмешательство только при тяжелой ТР.",
+      "B": "Выполнить одновременную пластику ТК (класс IIa).",
+      "C": "Заменить ТК на механический протез.",
+      "D": "Подождать 1 год и при необходимости выполнить транскатетерную пластику ТК."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Surgery **should be considered** (Class IIa) in patients with **mild or moderate secondary TR** if the annulus is dilated (**≥40 mm** or >21 mm/m²) when undergoing left-sided valve surgery. This prevents future RV remodeling even if the TR is currently non-severe.",
+    "explanationRu": "Операцию **следует рассмотреть** (класс IIa) у пациентов с **легкой или умеренной вторичной ТР**, если кольцо дилатировано (**≥40 мм** или >21 мм/м²), при выполнении операции на левых клапанах. Это предотвращает будущее ремоделирование ПЖ, даже если ТР в настоящее время не является тяжелой."
+  },
+  {
+    "id": 53,
+    "questionEn": "Which clinical condition is a primary contraindication for transcatheter tricuspid valve treatment (repair or replacement) in symptomatic patients?",
+    "questionRu": "Какое клиническое состояние является основным противопоказанием для транскатетерного лечения трикуспидального клапана (пластики или замены) у симптомных пациентов?",
+    "optionsEn": {
+      "A": "Age >75 years.",
+      "B": "Presence of permanent AF.",
+      "C": "Severe RV dysfunction or pre-capillary pulmonary hypertension.",
+      "D": "History of prior PCI."
+    },
+    "optionsRu": {
+      "A": "Возраст >75 лет.",
+      "B": "Наличие постоянной ФП.",
+      "C": "Тяжелая дисфункция ПЖ или прекапиллярная легочная гипертензия.",
+      "D": "Указание на ЧКВ в анамнезе."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Transcatheter TV treatment is a Class IIa option for symptomatic high-risk patients **in the absence of severe RV dysfunction or pre-capillary PH**. These conditions imply that the patient is unlikely to benefit from mechanical correction of TR.",
+    "explanationRu": "Транскатетерное лечение ТК является опцией класса IIa для симптомных пациентов высокого риска **при отсутствии тяжелой дисфункции ПЖ или прекапиллярной ЛГ**. Эти состояния означают, что пациент вряд ли получит пользу от механической коррекции ТР."
+  },
+  {
+    "id": 54,
+    "questionEn": "A patient presents with symptomatic mixed aortic valve disease: 'moderate' AS and 'moderate' AR. The mean gradient is 42 mmHg. What is the recommended management?",
+    "questionRu": "Пациент имеет симптомное смешанное поражение аортального клапана: «умеренный» АС и «умеренную» АР. Средний градиент составляет 42 мм рт.ст. Какая тактика рекомендуется?",
+    "optionsEn": {
+      "A": "Follow-up every 3 months.",
+      "B": "Medical therapy for heart failure.",
+      "C": "Aortic valve intervention (Class I).",
+      "D": "Intervention only if LVEF falls below 45%."
+    },
+    "optionsRu": {
+      "A": "Наблюдение каждые 3 месяца.",
+      "B": "Медикаментозная терапия сердечной недостаточности.",
+      "C": "Вмешательство на аортальном клапане (класс I).",
+      "D": "Вмешательство только при снижении ФВ ЛЖ ниже 45%."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "In **mixed aortic valve disease**, intervention is **recommended** (Class I C) in symptomatic patients even if individual lesions are 'moderate' when the **mean gradient is ≥40 mmHg** or Vmax ≥4.0 m/s.",
+    "explanationRu": "При **смешанном поражении аортального клапана** вмешательство **рекомендовано** (класс I C) у симптомных пациентов, даже если отдельные поражения являются «умеренными», когда **средний градиент ≥40 мм рт.ст.** или Vmax ≥4,0 м/с."
+  },
+  {
+    "id": 55,
+    "questionEn": "In a transcatheter strategy for multiple valve lesions (e.g., AS and MR), which lesion should typically be addressed first?",
+    "questionRu": "При транскатетерной стратегии для множественных поражений клапанов (например, АС и МР), какое поражение обычно следует корригировать первым?",
+    "optionsEn": {
+      "A": "The mitral valve (upstream).",
+      "B": "The aortic valve (downstream).",
+      "C": "Both valves simultaneously in all cases.",
+      "D": "The valve with the most calcification."
+    },
+    "optionsRu": {
+      "A": "Митральный клапан (проксимальный).",
+      "B": "Аортальный клапан (дистальный).",
+      "C": "Оба клапана одновременно во всех случаях.",
+      "D": "Клапан с наиболее выраженным кальцинозом."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A **staged approach** is generally preferred, starting with the **downstream lesion** (aortic, then mitral, then tricuspid). This avoids hemodynamic deterioration and allows reassessment of the upstream valve under new loading conditions.",
+    "explanationRu": "**Этапный подход** обычно предпочтительнее, начиная с **дистального поражения** (аортального, затем митрального, затем трикуспидального). Это позволяет избежать гемодинамического ухудшения и провести повторную оценку проксимального клапана в новых условиях нагрузки."
+  },
+  {
+    "id": 56,
+    "questionEn": "A patient with an aortic mechanical heart valve and no other risk factors requires elective major non-cardiac surgery. What is the 2025 'Class IIb' update regarding VKA management?",
+    "questionRu": "Пациент с механическим клапаном в аортальной позиции и отсутствием других факторов риска требует планового большого некардиохирургического вмешательства. Каково обновление 2025 года «класс IIb» в отношении ведения АВК?",
+    "optionsEn": {
+      "A": "Routine bridging with Heparin is mandatory.",
+      "B": "Discontinuation of VKA and resumption without bridging may be considered.",
+      "C": "Switching to DOACs 2 weeks before surgery.",
+      "D": "Continuing VKA at full dose through the surgery."
+    },
+    "optionsRu": {
+      "A": "Рутинное мостирование гепарином является обязательным.",
+      "B": "Может быть рассмотрено прекращение приема АВК и возобновление без мостирования.",
+      "C": "Переход на ПОАК за 2 недели до операции.",
+      "D": "Продолжение приема АВК в полной дозе во время операции."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A new recommendation states that for patients with a **new-generation aortic MHV and no other thromboembolic risk factors**, interruption of VKA and resumption **without bridging** may be considered (Class IIb) to reduce the risk of bleeding.",
+    "explanationRu": "Новая рекомендация гласит, что для пациентов с **аортальным МК нового поколения и отсутствием других факторов риска тромбоэмболий** прерывание приема АВК и возобновление **без мостирования** может быть рассмотрено (класс IIb) для снижения риска кровотечения."
+  },
+  {
+    "id": 57,
+    "questionEn": "A patient with a mechanical heart valve (MHV) develops acute heart failure (NYHA III/IV) due to obstructive valve thrombosis. What is the Class I recommendation?",
+    "questionRu": "У пациента с механическим клапаном (МК) развивается острая сердечная недостаточность (NYHA III/IV) из-за обструктивного тромбоза клапана. Какова рекомендация класса I?",
+    "optionsEn": {
+      "A": "Immediate fibrinolysis for all patients.",
+      "B": "Urgent Heart Team evaluation to decide between repeat replacement or slow-infusion fibrinolysis.",
+      "C": "High-dose Aspirin only.",
+      "D": "Switch from VKA to Heparin and wait 48 hours."
+    },
+    "optionsRu": {
+      "A": "Немедленный фибринолиз для всех пациентов.",
+      "B": "Срочная оценка кардиокомандой для решения между повторной заменой или медленной инфузионной тромболитической терапией.",
+      "C": "Только высокие дозы аспирина.",
+      "D": "Переход с АВК на гепарин и ожидание 48 часов."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In acute HF due to obstructive MHV thrombosis, **Heart Team evaluation is recommended** (Class I) to determine the best path: surgical replacement or low-dose slow-infusion fibrinolysis.",
+    "explanationRu": "При острой СН, вызванной обструктивным тромбозом МК, **рекомендована оценка кардиокомандой** (класс I) для определения наилучшего пути: хирургическая замена или низкодозовая медленная инфузионная тромболитическая терапия."
+  },
+  {
+    "id": 58,
+    "questionEn": "What is the antithrombotic recommendation for the first 12 months after TAVI in a patient with NO other indication for anticoagulation?",
+    "questionRu": "Какова антитромботическая рекомендация для первых 12 месяцев после TAVI у пациента без других показаний к антикоагуляции?",
+    "optionsEn": {
+      "A": "Lifelong DAPT.",
+      "B": "Low-dose Aspirin (Class I).",
+      "C": "Rivaroxaban 10 mg (Class I).",
+      "D": "No therapy is needed."
+    },
+    "optionsRu": {
+      "A": "Пожизненная ДАТ.",
+      "B": "Низкие дозы аспирина (класс I).",
+      "C": "Ривароксабан 10 мг (класс I).",
+      "D": "Терапия не требуется."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For patients after TAVI without a baseline indication for OAC, **low-dose ASA** is recommended (Class I A). **DAPT is not recommended** (Class III) as it increases bleeding without benefit.",
+    "explanationRu": "Для пациентов после TAVI без исходных показаний к ОАК рекомендуются **низкие дозы аспирина** (класс I A). **ДАT не рекомендуется** (класс III), так как она увеличивает кровотечения без пользы."
+  },
+  {
+    "id": 59,
+    "questionEn": "For which group are DOACs (Direct Oral Anticoagulants) specifically NOT recommended in the 2025 Guidelines?",
+    "questionRu": "Для какой группы ПОАК (прямые пероральные антикоагулянты) специально НЕ рекомендуются в рекомендациях 2025 года?",
+    "optionsEn": {
+      "A": "Patients with aortic stenosis and AF.",
+      "B": "Patients with primary MR and AF.",
+      "C": "Patients with mechanical heart valves or mitral stenosis with MVA ≤2.0 cm².",
+      "D": "Patients after TAVI with AF."
+    },
+    "optionsRu": {
+      "A": "Пациенты с аортальным стенозом и ФП.",
+      "B": "Пациенты с первичной МР и ФП.",
+      "C": "Пациенты с механическими клапанами сердца или митральным стенозом с ПМК ≤2,0 см².",
+      "D": "Пациенты после TAVI с ФП."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "**DOACs are Class III** (not recommended) for patients with **mechanical heart valves** and those with **significant mitral stenosis** (MVA ≤2.0 cm²). VKAs remain the only standard here.",
+    "explanationRu": "**ПОАК имеют класс III** (не рекомендуются) для пациентов с **механическими клапанами сердца** и пациентов со **значительным митральным стенозом** (ПМК ≤2,0 см²). АВК остаются здесь единственным стандартом."
+  },
+  {
+    "id": 60,
+    "questionEn": "A patient has symptomatic severe calcific (degenerative) Mitral Stenosis. Why is Percutaneous Mitral Commissurotomy (PMC) NOT indicated?",
+    "questionRu": "У пациента симптомный тяжелый кальцинирующий (дегенеративный) митральный стеноз. Почему чрескожная митральная комиссуротомия (ЧМК) НЕ показана?",
+    "optionsEn": {
+      "A": "Because the patient is usually too old.",
+      "B": "Because there is no commissural fusion in degenerative MS.",
+      "C": "Because PMC causes stroke in 50% of these cases.",
+      "D": "Because the annulus is too small for a balloon."
+    },
+    "optionsRu": {
+      "A": "Потому что пациент обычно слишком стар.",
+      "B": "Потому что при дегенеративном МС отсутствует комиссуральное сращение.",
+      "C": "Потому что ЧМК вызывает инсульт в 50% этих случаев.",
+      "D": "Потому что кольцо слишком мало для баллона."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**PMC** works by splitting fused commissures. In **degenerative MS**, the restriction is caused by annular calcification, and **commissural fusion is absent**, making PMC ineffective.",
+    "explanationRu": "**ЧМК** работает путем разделения сросшихся комиссур. При **дегенеративном МС** сужение вызвано кальцинозом кольца, а **комиссуральное сращение отсутствует**, что делает ЧМК неэффективной."
+  },
+  {
+    "id": 61,
+    "questionEn": "A symptomatic patient with extensive Mitral Annular Calcification (MAC) and severe mitral dysfunction is ineligible for surgery. What may be considered at an experienced centre?",
+    "questionRu": "Симптомный пациент с обширной кальцификацией митрального кольца (MAC) и тяжелой митральной дисфункцией не пригоден для операции. Что может быть рассмотрено в опытном центре?",
+    "optionsEn": {
+      "A": "Balloon mitral valvuloplasty.",
+      "B": "Transcatheter Mitral Valve Implantation (TMVI).",
+      "C": "Lifelong OAC without intervention.",
+      "D": "Alcohol septal ablation."
+    },
+    "optionsRu": {
+      "A": "Баллонная митральная вальвулопластика.",
+      "B": "Транскатетерная имплантация митрального клапана (TMVI).",
+      "C": "Пожизненная ОАК без вмешательства.",
+      "D": "Алкогольная аблация перегородки."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**TMVI** (Class IIb) may be considered in symptomatic patients with **extensive MAC** and severe dysfunction if they are ineligible for surgery and treated at highly experienced centres.",
+    "explanationRu": "**TMVI** (класс IIb) может быть рассмотрена у симптомных пациентов с **обширной MAC** и тяжелой дисфункцией, если они не пригодны для операции и лечатся в высококвалифицированных центрах."
+  },
+  {
+    "id": 62,
+    "questionEn": "An asymptomatic patient with severe AR has an LVEF of 53%. The indexed LV end-systolic volume (LVESVi) is 48 mL/m². What is the Class of Recommendation for surgery?",
+    "questionRu": "Бессимптомный пациент с тяжелой АР имеет ФВ ЛЖ 53%. Индексированный конечно-систолический объем ЛЖ (КСОи) составляет 48 мл/м². Каков класс рекомендации для операции?",
+    "optionsEn": {
+      "A": "Class I.",
+      "B": "Class IIa.",
+      "C": "Class IIb.",
+      "D": "Class III."
+    },
+    "optionsRu": {
+      "A": "Класс I.",
+      "B": "Класс IIa.",
+      "C": "Класс IIb.",
+      "D": "Класс III."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "In the 2025 update, surgery is Class I for LVEF ≤50%. However, surgery **may be considered** (Class IIb) if LVEF is 50-55% or **LVESVi >45 mL/m²**. This patient's volume of 48 mL/m² places them in the IIb category.",
+    "explanationRu": "В обновлении 2025 года операция имеет класс I при ФВ ЛЖ ≤50%. Однако операция **может быть рассмотрена** (класс IIb) при ФВ ЛЖ 50-55% или **КСОи >45 мл/м²**. Объем 48 мл/м² у этого пациента помещает его в категорию IIb."
+  },
+  {
+    "id": 63,
+    "questionEn": "Which imaging parameter for severe AR is now a Class I indication for surgery in asymptomatic patients?",
+    "questionRu": "Какой параметр визуализации при тяжелой АР теперь является показанием класса I для операции у бессимптомных пациентов?",
+    "optionsEn": {
+      "A": "LVESD >45 mm.",
+      "B": "LVEF ≤50%.",
+      "C": "LAVI >40 mL/m².",
+      "D": "Regurgitant fraction >30%."
+    },
+    "optionsRu": {
+      "A": "КСР ЛЖ >45 мм.",
+      "B": "ФВ ЛЖ ≤50%.",
+      "C": "ИОЛП >40 мл/м².",
+      "D": "Фракция регургитации >30%."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Asymptomatic severe AR surgery is Class I if **LVEF ≤50%** or **LVESD >50 mm** (or >25 mm/m²). The threshold for LVEF has been solidified at 50% for the highest level of recommendation.",
+    "explanationRu": "Операция при бессимптомной тяжелой АР имеет класс I, если **ФВ ЛЖ ≤50%** или **КСР ЛЖ >50 мм** (или >25 мм/м²). Порог ФВ ЛЖ закреплен на уровне 50% для наивысшего уровня рекомендации."
+  },
+  {
+    "id": 64,
+    "questionEn": "In a symptomatic patient with low-flow, low-gradient AS and a *preserved* LVEF (Normal-flow LG AS), which diagnostic tool is Class I to confirm severity?",
+    "questionRu": "У симптомного пациента с низкопоточным низкоградиентным АС и *сохраненной* ФВ ЛЖ (нормопоточный низкоградиентный АС), какой диагностический метод имеет класс I для подтверждения тяжести?",
+    "optionsEn": {
+      "A": "Dobutamine Stress Echo.",
+      "B": "CT Aortic Valve Calcium Scoring.",
+      "C": "Transoesophageal Echo (TOE).",
+      "D": "Exercise ECG."
+    },
+    "optionsRu": {
+      "A": "Стресс-эхокардиография с добутамином.",
+      "B": "КТ кальциевый индекс аортального клапана.",
+      "C": "Чреспищеводная эхокардиография (ЧПЭхоКГ).",
+      "D": "Нагрузочная ЭКГ."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For **preserved LVEF** low-gradient AS, Dobutamine stress is not useful. The guidelines recommend **CT calcium scoring** (Class I) to confirm the severity of AS.",
+    "explanationRu": "Для низкоградиентного АС с **сохраненной ФВ ЛЖ** стресс с добутамином не полезен. Рекомендации предлагают **КТ кальциевый индекс** (класс I) для подтверждения тяжести АС."
+  },
+  {
+    "id": 65,
+    "questionEn": "What is the Aortic Valve Calcium Score (AVCS) threshold for 'severe AS' in women?",
+    "questionRu": "Каков порог кальциевого индекса аортального клапана (AVCS) для «тяжелого АС» у женщин?",
+    "optionsEn": {
+      "A": "≥ 1000.",
+      "B": "≥ 1200.",
+      "C": "≥ 1600.",
+      "D": "≥ 2000."
+    },
+    "optionsRu": {
+      "A": "≥ 1000.",
+      "B": "≥ 1200.",
+      "C": "≥ 1600.",
+      "D": "≥ 2000."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "According to the guidelines, severe AS is likely if AVCS is **≥2000 in men** and **≥1200 in women**.",
+    "explanationRu": "Согласно рекомендациям, тяжелый АС вероятен, если AVCS составляет **≥2000 у мужчин** и **≥1200 у женщин**."
+  },
+  {
+    "id": 66,
+    "questionEn": "A 65-year-old patient with severe AS has a low surgical risk. Which factor would push the Heart Team to favor TAVI over the standard SAVR recommendation?",
+    "questionRu": "Пациент 65 лет с тяжелым АС имеет низкий хирургический риск. Какой фактор побудит кардиокоманду отдать предпочтение TAVI вместо стандартной рекомендации SAVR?",
+    "optionsEn": {
+      "A": "Bicuspid valve.",
+      "B": "Hostile chest (sequelae of chest radiation).",
+      "C": "Small aortic annulus.",
+      "D": "Patient desire to avoid OAC."
+    },
+    "optionsRu": {
+      "A": "Двустворчатый клапан.",
+      "B": "Сложная грудная клетка (последствия облучения грудной клетки).",
+      "C": "Малое аортальное кольцо.",
+      "D": "Желание пациента избежать ОАК."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "While SAVR is preferred for patients <70 years at low risk, certain **concomitant conditions** favor TAVI regardless of age, including a **porcelain aorta**, severe chest deformity, or **sequelae of chest radiation**.",
+    "explanationRu": "Хотя SAVR предпочтительнее для пациентов <70 лет с низким риском, определенные **сопутствующие состояния** благоприятствуют TAVI независимо от возраста, включая **фарфоровую аорту**, тяжелую деформацию грудной клетки или **последствия облучения грудной клетки**."
+  },
+  {
+    "id": 67,
+    "questionEn": "An asymptomatic patient with severe high-gradient AS has an LVEF of 54% that is attributable to AS. What is the recommendation?",
+    "questionRu": "Бессимптомный пациент с тяжелым высокоградиентным АС имеет ФВ ЛЖ 54%, обусловленную АС. Какова рекомендация?",
+    "optionsEn": {
+      "A": "Follow-up in 1 year.",
+      "B": "Intervention should be considered (Class IIa).",
+      "C": "Intervention is recommended (Class I).",
+      "D": "Start beta-blockers and re-echo in 6 months."
+    },
+    "optionsRu": {
+      "A": "Наблюдение через 1 год.",
+      "B": "Вмешательство следует рассмотреть (класс IIa).",
+      "C": "Вмешательство рекомендовано (класс I).",
+      "D": "Начать бета-блокаторы и повторить ЭхоКГ через 6 месяцев."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "This is a major update: early intervention **should be considered** (Class IIa) in asymptomatic patients if **LVEF <55%** is attributable to AS. The previous 50% threshold was raised for earlier intervention.",
+    "explanationRu": "Это важное обновление: раннее вмешательство **следует рассмотреть** (класс IIa) у бессимптомных пациентов, если **ФВ ЛЖ <55%** обусловлена АС. Предыдущий порог 50% был повышен для более раннего вмешательства."
+  },
+  {
+    "id": 68,
+    "questionEn": "Which of the following is defined as a 'Core Member' of the Heart Team in 2025?",
+    "questionRu": "Кто из следующих специалистов определен как «основной член» кардиокоманды в 2025 году?",
+    "optionsEn": {
+      "A": "Geriatrician.",
+      "B": "Cardiovascular Anaesthetist.",
+      "C": "Cardiac Surgeon.",
+      "D": "HF Specialist."
+    },
+    "optionsRu": {
+      "A": "Гериатр.",
+      "B": "Сердечно-сосудистый анестезиолог.",
+      "C": "Кардиохирург.",
+      "D": "Специалист по сердечной недостаточности."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "The **Core Heart Team** consists of the Cardiologist with imaging expertise, the Interventional Cardiologist, and the **Cardiac Surgeon**. Other specialists like geriatricians or HF specialists are members of the **Extended Heart Team**, brought in as needed.",
+    "explanationRu": "**Основная кардиокоманда** состоит из кардиолога с экспертизой в визуализации, интервенционного кардиолога и **кардиохирурга**. Другие специалисты, такие как гериатры или специалисты по СН, являются членами **Расширенной кардиокоманды** и привлекаются по мере необходимости."
+  },
+  {
+    "id": 69,
+    "questionEn": "For asymptomatic low-risk patients undergoing valve intervention, the 2025 guidelines emphasize that the procedure should be performed where?",
+    "questionRu": "Для бессимптомных пациентов низкого риска, переносящих вмешательство на клапане, рекомендации 2025 года подчеркивают, что процедура должна выполняться где?",
+    "optionsEn": {
+      "A": "In any local hospital with a cath lab.",
+      "B": "Only in Heart Valve Centres that report local expertise and outcome data.",
+      "C": "In outpatient surgery centres.",
+      "D": "Only in university-affiliated research hospitals."
+    },
+    "optionsRu": {
+      "A": "В любой местной больнице с катетеризационной лабораторией.",
+      "B": "Только в Центрах клапанов сердца, которые сообщают о местной экспертизе и данных о результатах.",
+      "C": "В амбулаторных хирургических центрах.",
+      "D": "Только в университетских исследовательских больницах."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "To ensure safety in low-risk/asymptomatic cases, interventions must be performed in **Heart Valve Centres** that report outcomes and maintain high procedural volumes.",
+    "explanationRu": "Для обеспечения безопасности в случаях низкого риска/бессимптомных пациентов вмешательства должны выполняться в **Центрах клапанов сердца**, которые сообщают о результатах и поддерживают высокие объемы процедур."
+  },
+  {
+    "id": 70,
+    "questionEn": "A patient with an aortic mechanical valve develops endocarditis with a large paravalvular leak causing heart failure. What is the Class I recommendation?",
+    "questionRu": "У пациента с механическим клапаном в аортальной позиции развивается эндокардит с большой параклапанной утечкой, вызывающей сердечную недостаточность. Какова рекомендация класса I?",
+    "optionsEn": {
+      "A": "6 weeks of antibiotics followed by surgery.",
+      "B": "Reoperation (Class I).",
+      "C": "Percutaneous closure of the leak.",
+      "D": "Transition to oral antibiotics after 1 week."
+    },
+    "optionsRu": {
+      "A": "6 недель антибиотиков с последующей операцией.",
+      "B": "Повторная операция (класс I).",
+      "C": "Чрескожное закрытие утечки.",
+      "D": "Переход на пероральные антибиотики через 1 неделю."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Reoperation **is recommended** (Class I) if a prosthetic valve leak is related to **endocarditis** or causes severe symptoms like heart failure or significant hemolysis.",
+    "explanationRu": "Повторная операция **рекомендована** (класс I), если утечка протезного клапана связана с **эндокардитом** или вызывает тяжелые симптомы, такие как сердечная недостаточность или значительный гемолиз."
+  },
+  {
+    "id": 71,
+    "questionEn": "When evaluating primary MR, which SPAP (systolic pulmonary artery pressure) threshold at rest is a criterion for Class IIa surgery in asymptomatic patients?",
+    "questionRu": "При оценке первичной МР, какой порог СПАД (систолическое давление в легочной артерии) в покое является критерием для операции класса IIa у бессимптомных пациентов?",
+    "optionsEn": {
+      "A": ">30 mmHg.",
+      "B": ">40 mmHg.",
+      "C": ">50 mmHg.",
+      "D": ">60 mmHg."
+    },
+    "optionsRu": {
+      "A": ">30 мм рт.ст.",
+      "B": ">40 мм рт.ст.",
+      "C": ">50 мм рт.ст.",
+      "D": ">60 мм рт.ст."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "One of the criteria for early surgical repair in asymptomatic PMR is an **SPAP at rest >50 mmHg**.",
+    "explanationRu": "Одним из критериев ранней хирургической пластики при бессимптомной ПМР является **СПАД в покое >50 мм рт.ст.**"
+  },
+  {
+    "id": 72,
+    "questionEn": "What Vmax progression rate in asymptomatic severe AS supports a Class IIa recommendation for early intervention?",
+    "questionRu": "Какая скорость прогрессии Vmax при бессимптомном тяжелом АС поддерживает рекомендацию класса IIa для раннего вмешательства?",
+    "optionsEn": {
+      "A": "≥0.1 m/s/year.",
+      "B": "≥0.2 m/s/year.",
+      "C": "≥0.3 m/s/year.",
+      "D": "≥0.5 m/s/year."
+    },
+    "optionsRu": {
+      "A": "≥0,1 м/с/год.",
+      "B": "≥0,2 м/с/год.",
+      "C": "≥0,3 м/с/год.",
+      "D": "≥0,5 м/с/год."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A **Vmax progression of ≥0.3 m/s/year** is considered a high-risk feature in asymptomatic AS, favoring intervention (Class IIa).",
+    "explanationRu": "**Прогрессия Vmax ≥0,3 м/с/год** считается признаком высокого риска при бессимптомном АС, благоприятствующим вмешательству (класс IIa)."
+  },
+  {
+    "id": 73,
+    "questionEn": "In the assessment of TR, what is the tricuspid annulus diameter threshold (2D echo) for considering concomitant repair during left-sided surgery?",
+    "questionRu": "При оценке ТР, каков пороговый диаметр трикуспидального кольца (2D эхо) для рассмотрения одновременной пластики во время операции на левых клапанах?",
+    "optionsEn": {
+      "A": "≥35 mm.",
+      "B": "≥40 mm.",
+      "C": "≥45 mm.",
+      "D": "≥50 mm."
+    },
+    "optionsRu": {
+      "A": "≥35 мм.",
+      "B": "≥40 мм.",
+      "C": "≥45 мм.",
+      "D": "≥50 мм."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The threshold is **≥40 mm** or >21 mm/m² by 2D echocardiography.",
+    "explanationRu": "Порог составляет **≥40 мм** или >21 мм/м² по данным 2D эхокардиографии."
+  },
+  {
+    "id": 74,
+    "questionEn": "A patient requires a valve in the mitral position. At what age does the 2025 guideline suggest that a biological heart valve (BHV) 'should be considered' (Class IIa)?",
+    "questionRu": "Пациенту требуется клапан в митральную позицию. В каком возрасте рекомендации 2025 года предлагают, что биологический клапан (БК) «следует рассмотреть» (класс IIa)?",
+    "optionsEn": {
+      "A": ">60 years.",
+      "B": ">65 years.",
+      "C": ">70 years.",
+      "D": ">75 years."
+    },
+    "optionsRu": {
+      "A": ">60 лет.",
+      "B": ">65 лет.",
+      "C": ">70 лет.",
+      "D": ">75 лет."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "A **BHV should be considered** (Class IIa) for patients **>70 years** of age for prostheses in the **mitral position**. (For the aortic position, the threshold is >65 years).",
+    "explanationRu": "**БК следует рассмотреть** (класс IIa) для пациентов **>70 лет** для протезов в **митральной позиции**. (Для аортальной позиции порог составляет >65 лет)."
+  },
+  {
+    "id": 75,
+    "questionEn": "What is the recommendation for INR self-management in patients with a mechanical heart valve?",
+    "questionRu": "Какова рекомендация по самоконтролю МНО у пациентов с механическим клапаном сердца?",
+    "optionsEn": {
+      "A": "It is less effective than standard monitoring.",
+      "B": "It is recommended provided appropriate training is performed (Class I).",
+      "C": "It is only for patients under 40.",
+      "D": "It is contraindicated due to risk of incorrect dosing."
+    },
+    "optionsRu": {
+      "A": "Он менее эффективен, чем стандартный мониторинг.",
+      "B": "Он рекомендуется при условии соответствующего обучения (класс I).",
+      "C": "Он только для пациентов младше 40 лет.",
+      "D": "Он противопоказан из-за риска неправильного дозирования."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**INR self-monitoring and self-management are recommended** (Class I A) over standard monitoring in selected, trained patients to improve efficacy and reduce complications.",
+    "explanationRu": "**Самоконтроль и самостоятельное управление МНО рекомендуются** (класс I A) вместо стандартного мониторинга у отобранных обученных пациентов для повышения эффективности и снижения осложнений."
+  },
+  {
+    "id": 76,
+    "questionEn": "A 72-year-old patient with severe AR has an LVEF of 48%. They are judged at high surgical risk. What is the 2025 level of recommendation for TAVI in this 'pure AR' scenario?",
+    "questionRu": "Пациент 72 лет с тяжелой АР имеет ФВ ЛЖ 48%. Он оценен как имеющий высокий хирургический риск. Каков уровень рекомендации 2025 года для TAVI при этом «чистом АР»?",
+    "optionsEn": {
+      "A": "Class IIa.",
+      "B": "Class IIb.",
+      "C": "Class III.",
+      "D": "Standard TAVI protocol (Class I)."
+    },
+    "optionsRu": {
+      "A": "Класс IIa.",
+      "B": "Класс IIb.",
+      "C": "Класс III.",
+      "D": "Стандартный протокол TAVI (класс I)."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "TAVI **may be considered** (Class IIb) for symptomatic patients with **pure severe AR** who are **ineligible for surgery**, if the anatomy is suitable and assessed by a Heart Team.",
+    "explanationRu": "TAVI **может быть рассмотрена** (класс IIb) для симптомных пациентов с **чистой тяжелой АР**, которые **непригодны для операции**, при условии подходящей анатомии и оценки кардиокомандой."
+  },
+  {
+    "id": 77,
+    "questionEn": "Which trial is the basis for the Class I A recommendation for TEER in ventricular SMR?",
+    "questionRu": "Какое исследование является основой для рекомендации класса I A для TEER при желудочковой ВМР?",
+    "optionsEn": {
+      "A": "MITRA-FR.",
+      "B": "COAPT.",
+      "C": "DEDICATE.",
+      "D": "POPULAR-TAVI."
+    },
+    "optionsRu": {
+      "A": "MITRA-FR.",
+      "B": "COAPT.",
+      "C": "DEDICATE.",
+      "D": "POPULAR-TAVI."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "The **COAPT trial** showed safe and effective reduction in death/HF hospitalizations for SMR patients who remained symptomatic on GDMT, forming the basis for the Class I recommendation.",
+    "explanationRu": "**Исследование COAPT** показало безопасное и эффективное снижение смертности/госпитализаций по поводу СН у пациентов с ВМР, которые оставались симптомными на ОМТ, что легло в основу рекомендации класса I."
+  },
+  {
+    "id": 78,
+    "questionEn": "Following MV replacement, what is the recommended follow-up frequency?",
+    "questionRu": "После замены митрального клапана, какова рекомендуемая частота наблюдения?",
+    "optionsEn": {
+      "A": "Every 2 years.",
+      "B": "Every 3 years.",
+      "C": "Yearly.",
+      "D": "Only if symptoms occur."
+    },
+    "optionsRu": {
+      "A": "Каждые 2 года.",
+      "B": "Каждые 3 года.",
+      "C": "Ежегодно.",
+      "D": "Только при появлении симптомов."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Due to the risk of prosthetic valve dysfunction or SVD, **yearly follow-up** including clinical and echo evaluation is recommended.",
+    "explanationRu": "Из-за риска дисфункции протезного клапана или структурной дегенерации рекомендуется **ежегодное наблюдение**, включающее клиническую и эхокардиографическую оценку."
+  },
+  {
+    "id": 79,
+    "questionEn": "Which patient group with AF should NOT receive DOACs for stroke prevention?",
+    "questionRu": "Какая группа пациентов с ФП НЕ должна получать ПОАК для профилактики инсульта?",
+    "optionsEn": {
+      "A": "Aortic bioprosthesis after 6 months.",
+      "B": "Moderate AR.",
+      "C": "Rheumatic Mitral Stenosis.",
+      "D": "Prior TAVI."
+    },
+    "optionsRu": {
+      "A": "Аортальный биопротез после 6 месяцев.",
+      "B": "Умеренная АР.",
+      "C": "Ревматический митральный стеноз.",
+      "D": "Предшествующая TAVI."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "**Rheumatic Mitral Stenosis** is a classic exclusion for DOACs in AF management; VKAs are mandatory.",
+    "explanationRu": "**Ревматический митральный стеноз** является классическим исключением для ПОАК при ведении ФП; обязательны АВК."
+  },
+  {
+    "id": 80,
+    "questionEn": "A patient with severe AS requires 'urgent' high-risk non-cardiac surgery (NCS) and is hemodynamically unstable. What may be considered as a 'bridge'?",
+    "questionRu": "Пациент с тяжелым АС требует «срочного» высокорискового некардиохирургического вмешательства (НКХ) и гемодинамически нестабилен. Что может быть рассмотрено в качестве «моста»?",
+    "optionsEn": {
+      "A": "Urgent SAVR first.",
+      "B": "Balloon Aortic Valvotomy (BAV).",
+      "C": "High-dose Inotropes only.",
+      "D": "Beta-blockers."
+    },
+    "optionsRu": {
+      "A": "Сначала экстренное SAVR.",
+      "B": "Баллонная аортальная вальвулотомия (БАВ).",
+      "C": "Только высокие дозы инотропов.",
+      "D": "Бета-блокаторы."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**Balloon aortic valvotomy** may be considered (Class IIb) as a bridge to SAVR/TAVI in hemodynamically unstable patients or those with severe AS who require urgent high-risk NCS.",
+    "explanationRu": "**Баллонная аортальная вальвулотомия** может быть рассмотрена (класс IIb) в качестве моста к SAVR/TAVI у гемодинамически нестабильных пациентов или пациентов с тяжелым АС, которым требуется срочное высокорисковое НКХ."
+  },
+  {
+    "id": 81,
+    "questionEn": "What is the recommended strategy for a 'Small Aortic Annulus' during lifetime management?",
+    "questionRu": "Какова рекомендуемая стратегия для «малого аортального кольца» при пожизненном ведении?",
+    "optionsEn": {
+      "A": "Always choose TAVI.",
+      "B": "SAVR with root enlargement or implantation of a supra-annular THV (Class I).",
+      "C": "Avoid surgery entirely.",
+      "D": "Use a mechanical valve only."
+    },
+    "optionsRu": {
+      "A": "Всегда выбирать TAVI.",
+      "B": "SAVR с расширением корня или имплантация супрааннулярного транскатетерного клапана (THV) (класс I).",
+      "C": "Избегать операции вообще.",
+      "D": "Использовать только механический клапан."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "To avoid **Prosthesis-Patient Mismatch (PPM)**, the guidelines recommend SAVR with root enlargement or a supra-annular transcatheter valve in patients with a small annulus.",
+    "explanationRu": "Для предотвращения **несоответствия протеза и пациента (PPM)** рекомендации предлагают SAVR с расширением корня или супрааннулярный транскатетерный клапан у пациентов с малым кольцом."
+  },
+  {
+    "id": 82,
+    "questionEn": "In the 'Heart Valve Network' model, where should 'Complex M-TEER' procedures be performed?",
+    "questionRu": "В модели «Сети центров клапанов сердца», где должны выполняться «сложные процедуры M-TEER»?",
+    "optionsEn": {
+      "A": "At any community hospital.",
+      "B": "In Heart Valve Centres with specific expertise.",
+      "C": "Only in the capital city.",
+      "D": "Remotely via robotic guidance."
+    },
+    "optionsRu": {
+      "A": "В любой районной больнице.",
+      "B": "В Центрах клапанов сердца с определенной экспертизой.",
+      "C": "Только в столице.",
+      "D": "Дистанционно под роботизированным контролем."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Complex procedures (like complex TEER, redo TEER, or tricuspid procedures) should be concentrated in **Heart Valve Centres** within the network.",
+    "explanationRu": "Сложные процедуры (такие как сложный TEER, повторный TEER или трикуспидальные процедуры) должны быть сконцентрированы в **Центрах клапанов сердца** в рамках сети."
+  },
+  {
+    "id": 83,
+    "questionEn": "For an asymptomatic patient with severe high-gradient AS, what exercise test result is a Class I indication for surgery?",
+    "questionRu": "Для бессимптомного пациента с тяжелым высокоградиентным АС, какой результат нагрузочного теста является показанием класса I для операции?",
+    "optionsEn": {
+      "A": "Failure to increase heart rate by 20%.",
+      "B": "Development of any PVCs.",
+      "C": "Development of symptoms clearly related to AS.",
+      "D": "ST-segment depression of 1 mm."
+    },
+    "optionsRu": {
+      "A": "Отсутствие увеличения ЧСС на 20%.",
+      "B": "Появление любых желудочковых экстрасистол.",
+      "C": "Появление симптомов, явно связанных с АС.",
+      "D": "Депрессия сегмента ST на 1 мм."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "If an asymptomatic patient develops **symptoms during an exercise test** that are clearly related to AS, they become a Class I indication for intervention.",
+    "explanationRu": "Если у бессимптомного пациента во время нагрузочного теста развиваются **симптомы**, явно связанные с АС, это становится показанием класса I для вмешательства."
+  },
+  {
+    "id": 84,
+    "questionEn": "What is the Class IIa threshold for BNP levels to support early intervention in asymptomatic severe AS?",
+    "questionRu": "Каков порог уровня BNP (класс IIa) для поддержки раннего вмешательства при бессимптомном тяжелом АС?",
+    "optionsEn": {
+      "A": "> 1 times normal.",
+      "B": "> 2 times normal.",
+      "C": "> 3 times normal.",
+      "D": "BNP is not used in the 2025 guidelines."
+    },
+    "optionsRu": {
+      "A": "> 1 раза выше нормы.",
+      "B": "> 2 раз выше нормы.",
+      "C": "> 3 раз выше нормы.",
+      "D": "BNP не используется в рекомендациях 2025 года."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "**Markedly elevated BNP/NT-proBNP levels** (more than **three times** age- and sex-corrected normal range) support a Class IIa recommendation for early intervention.",
+    "explanationRu": "**Значительно повышенные уровни BNP/NT-proBNP** (более чем в **три раза** скорректированной по возрасту и полу нормы) поддерживают рекомендацию класса IIa для раннего вмешательства."
+  },
+  {
+    "id": 85,
+    "questionEn": "A woman contemplating pregnancy needs a valve replacement. What is the 2025 recommendation?",
+    "questionRu": "Женщина, планирующая беременность, нуждается в замене клапана. Какова рекомендация 2025 года?",
+    "optionsEn": {
+      "A": "MHV is preferred because it lasts longer.",
+      "B": "BHV should be considered (Class IIa).",
+      "C": "TAVI is the only option.",
+      "D": "Homograft is mandatory."
+    },
+    "optionsRu": {
+      "A": "МК предпочтительнее, так как он служит дольше.",
+      "B": "Следует рассмотреть БК (класс IIa).",
+      "C": "TAVI является единственным вариантом.",
+      "D": "Гомографт обязателен."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "A **BHV should be considered** in women contemplating pregnancy to avoid the risks associated with VKA during gestation (embryopathy).",
+    "explanationRu": "**БК следует рассмотреть** у женщин, планирующих беременность, чтобы избежать рисков, связанных с АВК во время беременности (эмбриопатия)."
+  },
+  {
+    "id": 86,
+    "questionEn": "In which position is a mechanical heart valve (MHV) 'should be considered' for a patient <65 years old?",
+    "questionRu": "В какой позиции механический клапан (МК) «следует рассмотреть» для пациента <65 лет?",
+    "optionsEn": {
+      "A": "Aortic.",
+      "B": "Mitral.",
+      "C": "Both.",
+      "D": "Neither; age threshold is 50."
+    },
+    "optionsRu": {
+      "A": "Аортальная.",
+      "B": "Митральная.",
+      "C": "Обе.",
+      "D": "Ни одна; возрастной порог 50 лет."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "An **MHV should be considered** (Class IIa) for patients **<60 years** in the aortic position and **<65 years** in the mitral position.",
+    "explanationRu": "**МК следует рассмотреть** (класс IIa) для пациентов **<60 лет** в аортальной позиции и **<65 лет** в митральной позиции."
+  },
+  {
+    "id": 87,
+    "questionEn": "What is the suggested VKA resumption timing after MHV implantation?",
+    "questionRu": "Каковы рекомендуемые сроки возобновления приема АВК после имплантации МК?",
+    "optionsEn": {
+      "A": "After 1 week.",
+      "B": "On the first post-operative day (Class I).",
+      "C": "Only after discharge.",
+      "D": "48 hours after Heparin is stopped."
+    },
+    "optionsRu": {
+      "A": "Через 1 неделю.",
+      "B": "В первый послеоперационный день (класс I).",
+      "C": "Только после выписки.",
+      "D": "Через 48 часов после отмены гепарина."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "It is recommended to **(re)initiate the VKA on the first post-operative day**.",
+    "explanationRu": "Рекомендуется **(возобновить) прием АВК в первый послеоперационный день**."
+  },
+  {
+    "id": 88,
+    "questionEn": "A patient with AF and a biological heart valve requires anticoagulation. When can DOACs be started post-surgery?",
+    "questionRu": "Пациенту с ФП и биологическим клапаном требуется антикоагуляция. Когда можно начинать ПОАК после операции?",
+    "optionsEn": {
+      "A": "Immediately.",
+      "B": "After 3 months.",
+      "C": "After 1 year.",
+      "D": "DOACs are contraindicated for BHV."
+    },
+    "optionsRu": {
+      "A": "Немедленно.",
+      "B": "Через 3 месяца.",
+      "C": "Через 1 год.",
+      "D": "ПОАК противопоказаны при БК."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "While DOACs are used in VHD, for patients with AF and a **newly implanted BHV**, VKA is usually preferred for the first 3 months; thereafter, DOACs are the standard.",
+    "explanationRu": "Хотя ПОАК используются при пороках клапанов, для пациентов с ФП и **недавно имплантированным БК** обычно предпочтительны АВК в первые 3 месяца; после этого стандартом являются ПОАК."
+  },
+  {
+    "id": 89,
+    "questionEn": "Which imaging modality is 'Class I' for assessing the likelihood of a durable MV repair?",
+    "questionRu": "Какой метод визуализации является «классом I» для оценки вероятности долговечной пластики митрального клапана?",
+    "optionsEn": {
+      "A": "Cardiac CT.",
+      "B": "2D/3D Transthoracic and/or Transoesophageal Echo.",
+      "C": "CMR.",
+      "D": "PET scan."
+    },
+    "optionsRu": {
+      "A": "КТ сердца.",
+      "B": "2D/3D чрескожная и/или чреспищеводная эхокардиография.",
+      "C": "МРТ сердца.",
+      "D": "ПЭТ."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**Echocardiography** (TTE and/or TOE) remains the Class I gold standard for assessing MV morphology and repairability.",
+    "explanationRu": "**Эхокардиография** (TTE и/или TOE) остается золотым стандартом класса I для оценки морфологии и ремонтопригодности митрального клапана."
+  },
+  {
+    "id": 90,
+    "questionEn": "What is the defining gradient for 'True Severe' low-flow, low-gradient AS with reduced LVEF after dobutamine stress?",
+    "questionRu": "Каков определяющий градиент для «истинного тяжелого» низкопоточного низкоградиентного АС со сниженной ФВ ЛЖ после стресса с добутамином?",
+    "optionsEn": {
+      "A": "Mean gradient remains <30 mmHg.",
+      "B": "Mean gradient increases to ≥40 mmHg with AVA ≤1.0 cm².",
+      "C": "AVA increases to >1.5 cm².",
+      "D": "LVEF does not increase."
+    },
+    "optionsRu": {
+      "A": "Средний градиент остается <30 мм рт.ст.",
+      "B": "Средний градиент увеличивается до ≥40 мм рт.ст. при AVA ≤1,0 см².",
+      "C": "AVA увеличивается до >1,5 см².",
+      "D": "ФВ ЛЖ не увеличивается."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "True severe AS is confirmed if the **mean gradient rises to ≥40 mmHg** while the **AVA remains ≤1.0 cm²** during dobutamine infusion.",
+    "explanationRu": "Истинный тяжелый АС подтверждается, если **средний градиент повышается до ≥40 мм рт.ст.**, а **AVA остается ≤1,0 см²** во время инфузии добутамина."
+  },
+  {
+    "id": 91,
+    "questionEn": "What happens if an asymptomatic AS patient has a 'sustained fall in BP >20 mmHg' during exercise?",
+    "questionRu": "Что происходит, если у бессимптомного пациента с АС наблюдается «стойкое падение АД >20 мм рт.ст.» во время нагрузки?",
+    "optionsEn": {
+      "A": "It is a Class IIa indication for intervention.",
+      "B": "It is a Class III (harmful) finding.",
+      "C": "It means the patient has CAD.",
+      "D": "It is an indication for medical therapy only."
+    },
+    "optionsRu": {
+      "A": "Это показание класса IIa для вмешательства.",
+      "B": "Это находка класса III (вред).",
+      "C": "Это означает, что у пациента ИБС.",
+      "D": "Это показание только для медикаментозной терапии."
+    },
+    "correctAnswer": "A",
+    "explanationEn": "A **sustained fall in BP >20 mmHg** during exercise in an asymptomatic severe AS patient is a Class IIa indication for surgery.",
+    "explanationRu": "**Стойкое падение АД >20 мм рт.ст.** во время нагрузки у бессимптомного пациента с тяжелым АС является показанием класса IIa для операции."
+  },
+  {
+    "id": 92,
+    "questionEn": "Is 'Porcelain Aorta' an indication for SAVR or TAVI?",
+    "questionRu": "Является ли «фарфоровая аорта» показанием для SAVR или TAVI?",
+    "optionsEn": {
+      "A": "SAVR.",
+      "B": "TAVI (favors TAVI).",
+      "C": "It is a contraindication to both.",
+      "D": "It only matters for the Mitral valve."
+    },
+    "optionsRu": {
+      "A": "SAVR.",
+      "B": "TAVI (благоприятствует TAVI).",
+      "C": "Это противопоказание для обоих.",
+      "D": "Это важно только для митрального клапана."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**Porcelain aorta** is a specific anatomical feature favoring **TAVI** over SAVR.",
+    "explanationRu": "**Фарфоровая аорта** является специфической анатомической особенностью, благоприятствующей **TAVI** перед SAVR."
+  },
+  {
+    "id": 93,
+    "questionEn": "Which secondary TR etiology is now explicitly separated into 'Atrial' and 'Ventricular'?",
+    "questionRu": "Какая этиология вторичной ТР теперь явно разделена на «предсердную» и «желудочковую»?",
+    "optionsEn": {
+      "A": "Primary TR.",
+      "B": "Secondary TR (S-TR).",
+      "C": "Congenital TR.",
+      "D": "Rheumatic TR."
+    },
+    "optionsRu": {
+      "A": "Первичная ТР.",
+      "B": "Вторичная ТР (S-TR).",
+      "C": "Врожденная ТР.",
+      "D": "Ревматическая ТР."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "Like MR, **secondary TR** is now categorized into **Atrial** (AF-related) and **Ventricular** (RV remodeling-related).",
+    "explanationRu": "Как и МР, **вторичная ТР** теперь классифицируется на **предсердную** (связанную с ФП) и **желудочковую** (связанную с ремоделированием ПЖ)."
+  },
+  {
+    "id": 94,
+    "questionEn": "What is the 'Class I' status of Surgical LAAO in AF patients undergoing valve surgery?",
+    "questionRu": "Каков статус «класса I» для хирургической окклюзии УЛП у пациентов с ФП, переносящих операцию на клапане?",
+    "optionsEn": {
+      "A": "Class IIa.",
+      "B": "Class I (Recommended).",
+      "C": "Class IIb.",
+      "D": "Class III."
+    },
+    "optionsRu": {
+      "A": "Класс IIa.",
+      "B": "Класс I (рекомендовано).",
+      "C": "Класс IIb.",
+      "D": "Класс III."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**Surgical LAAO is recommended** (Class I) in AF patients undergoing valve surgery to prevent stroke.",
+    "explanationRu": "**Хирургическая окклюзия УЛП рекомендована** (класс I) у пациентов с ФП, переносящих операцию на клапане, для профилактики инсульта."
+  },
+  {
+    "id": 95,
+    "questionEn": "In primary MR, does a 'Likely Durable Repair' favor surgery or TEER in a low-risk patient?",
+    "questionRu": "При первичной МР, благоприятствует ли «вероятная долговечная пластика» операции или TEER у пациента низкого риска?",
+    "optionsEn": {
+      "A": "TEER.",
+      "B": "Surgery (MV repair).",
+      "C": "Both are equal.",
+      "D": "It favors medical therapy."
+    },
+    "optionsRu": {
+      "A": "TEER.",
+      "B": "Операция (пластика МК).",
+      "C": "Оба равны.",
+      "D": "Это благоприятствует медикаментозной терапии."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "In low-risk patients with severe PMR, **surgical repair is the Class I gold standard** if a durable repair is likely.",
+    "explanationRu": "У пациентов низкого риска с тяжелой ПМР **хирургическая пластика является золотым стандартом класса I**, если вероятна долговечная пластика."
+  },
+  {
+    "id": 96,
+    "questionEn": "What is the specific indexed LVESD threshold for Class I surgery in asymptomatic AR?",
+    "questionRu": "Каков конкретный индексированный порог КСР ЛЖ для операции класса I при бессимптомной АР?",
+    "optionsEn": {
+      "A": ">20 mm/m².",
+      "B": ">22 mm/m².",
+      "C": ">25 mm/m².",
+      "D": ">30 mm/m²."
+    },
+    "optionsRu": {
+      "A": ">20 мм/м².",
+      "B": ">22 мм/м².",
+      "C": ">25 мм/м².",
+      "D": ">30 мм/м²."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Surgery is Class I if **LVESD >50 mm or >25 mm/m²** in asymptomatic severe AR.",
+    "explanationRu": "Операция имеет класс I, если **КСР ЛЖ >50 мм или >25 мм/м²** при бессимптомной тяжелой АР."
+  },
+  {
+    "id": 97,
+    "questionEn": "Can TAVI be used for Bicuspid Aortic Valve (BAV)?",
+    "questionRu": "Может ли TAVI использоваться при двустворчатом аортальном клапане (ДАК)?",
+    "optionsEn": {
+      "A": "No, Class III.",
+      "B": "Yes, it 'may be considered' in patients at increased surgical risk (Class IIb).",
+      "C": "Yes, it is the first-line (Class I).",
+      "D": "Only if the patient is <60 years old."
+    },
+    "optionsRu": {
+      "A": "Нет, класс III.",
+      "B": "Да, она «может быть рассмотрена» у пациентов с повышенным хирургическим риском (класс IIb).",
+      "C": "Да, она является первой линией (класс I).",
+      "D": "Только если пациент младше 60 лет."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "For **BAV**, SAVR is generally preferred (Class I). TAVI **may be considered** (Class IIb) if surgical risk is increased and anatomy is suitable.",
+    "explanationRu": "Для **ДАК** обычно предпочтительно SAVR (класс I). TAVI **может быть рассмотрена** (класс IIb), если хирургический риск повышен и анатомия подходит."
+  },
+  {
+    "id": 98,
+    "questionEn": "What is the Vmax threshold for 'Very Severe' AS?",
+    "questionRu": "Каков порог Vmax для «очень тяжелого» АС?",
+    "optionsEn": {
+      "A": ">4.0 m/s.",
+      "B": ">4.5 m/s.",
+      "C": ">5.0 m/s.",
+      "D": ">5.5 m/s."
+    },
+    "optionsRu": {
+      "A": ">4,0 м/с.",
+      "B": ">4,5 м/с.",
+      "C": ">5,0 м/с.",
+      "D": ">5,5 м/с."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "**Very severe AS** is defined by a **Vmax >5.0 m/s** (or mean gradient ≥60 mmHg).",
+    "explanationRu": "**Очень тяжелый АС** определяется как **Vmax >5,0 м/с** (или средний градиент ≥60 мм рт.ст.)."
+  },
+  {
+    "id": 99,
+    "questionEn": "In 'stepwise' transcatheter VHD treatment, what is the usual reassessment interval?",
+    "questionRu": "При «поэтапном» транскатетерном лечении пороков клапанов, каков обычный интервал для повторной оценки?",
+    "optionsEn": {
+      "A": "1 week.",
+      "B": "1 month.",
+      "C": "3 months.",
+      "D": "1 year."
+    },
+    "optionsRu": {
+      "A": "1 неделя.",
+      "B": "1 месяц.",
+      "C": "3 месяца.",
+      "D": "1 год."
+    },
+    "correctAnswer": "C",
+    "explanationEn": "Reassessment of the 'upstream' valve typically occurs **3 months** after the initial intervention.",
+    "explanationRu": "Повторная оценка «проксимального» клапана обычно происходит через **3 месяца** после первоначального вмешательства."
+  },
+  {
+    "id": 100,
+    "questionEn": "What is the 2025 'Key Message' regarding lifetime management?",
+    "questionRu": "Каково «ключевое сообщение» 2025 года относительно пожизненного ведения?",
+    "optionsEn": {
+      "A": "Always choose the cheapest option first.",
+      "B": "Anticipate the risks of future reinterventions when selecting the index procedure and valve type.",
+      "C": "TAVI should be used for everyone over 60.",
+      "D": "Mechanical valves are outdated."
+    },
+    "optionsRu": {
+      "A": "Всегда сначала выбирайте самый дешевый вариант.",
+      "B": "Прогнозируйте риски будущих повторных вмешательств при выборе первичной процедуры и типа клапана.",
+      "C": "TAVI следует использовать для всех старше 60.",
+      "D": "Механические клапаны устарели."
+    },
+    "correctAnswer": "B",
+    "explanationEn": "**Lifetime management** is a central pillar: the choice of the first valve must account for the feasibility and risk of future procedures (e.g., TAV-in-TAV or THV explantation).",
+    "explanationRu": "**Пожизненное ведение** является центральной опорой: выбор первого клапана должен учитывать возможность и риск будущих процедур (например, клапан в клапан или эксплантация THV)."
+  }
+]}

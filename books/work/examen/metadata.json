@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Shlav A + B",
+    "russian_title": "Уровень А + В",
+    "cover_image": "cover.jpg",
+    "category": [
+      "documentation"
+    ],
+    "authors": [
+      "Starley Team"
+    ],
+    "magazine": false,
+    "quiz": true,
+    "quiz_sets": [
+      {
+        "id": "2020",
+        "label": "🔴2020 & 🟠2021",
+        "file": "quiz/quiz-2020.json"
+      },
+      {
+        "id": "2022",
+        "label": "🟡2022",
+        "file": "quiz/quiz-2022.json"
+      },
+      {
+        "id": "2023",
+        "label": "🟢2023",
+        "file": "quiz/quiz-2023.json"
+      },
+      {
+        "id": "before2023",
+        "label": "🔵2019",
+        "file": "quiz/quiz-2019.json"
+      },
+      {
+        "id": "vpsAI",
+        "label": "🟣Congenital, AI",
+        "file": "quiz/quiz-vps.json"
+      },
+      {
+        "id": "common",
+        "label": "🟤Common surgery",
+        "file": "quiz/quiz-surg.json"
+      },
+      {
+        "id": "seats",
+        "label": "⚪SEATS",
+        "file": "quiz/quiz-seats.json"
+      },
+      {
+        "id": "seats2",
+        "label": "⚪⚪SEATS",
+        "file": "quiz/quiz-seats2.json"
+      }
+          ],
+    "versions": {
+      "original": true,
+      "russian": false,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "Advanced Congenital Heart Surgery: Board Review Secrets and Master-Level Concepts",
+        "russian": "1. ШЛАВ А"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. New",
+        "russian": "2. Новое",
+        "subchapters": [
+          {
+            "file": "chapter-02-01.md",
+            "title": "2.1 How Sub-Chapters Work",
+            "russian": "2.1 Как работают подглавы"
+          },
+          {
+            "file": "chapter-02-02.md",
+            "title": "2.2 Manifest Examples",
+            "russian": "2.2 Примеры манифестов"
+          },
+          {
+            "file": "chapter-02-03.md",
+            "title": "2.3 Best Practices",
+            "russian": "2.3 Лучшие практики"
+          }
+        ]
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Next",
+        "russian": "3. Далее"
+      }
+    ]
+  }
+]

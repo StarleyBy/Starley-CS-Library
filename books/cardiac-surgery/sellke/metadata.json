@@ -1,0 +1,193 @@
+[
+  {
+    "title": "Atlas of Cardiac Surgical Techniques, Second Edition",
+    "russian_title": "Атлас хирургических техник на сердце, второе издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac-surgery"
+    ],
+    "authors": [
+      "Frank W. Sellke, MD, Marc Ruel, MD, MPH"
+    ],
+    "magazine": false,
+    "quiz": false,
+    "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Surgical Incisions",
+        "russian": "1. Хирургические разрезы"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Cannulation Techniques for Cardiopulmonary Bypass",
+        "russian": "2. Техника канюляции для искусственного кровообращения"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. On-Pump Coronary Artery Bypass Grafting",
+        "russian": "3. Коронарное шунтирование в условиях искусственного кровообращения"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Off-Pump Coronary Artery Bypass Grafting",
+        "russian": "4. Коронарное шунтирование без искусственного кровообращения"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Minimally Invasive Coronary Artery Bypass Grafting",
+        "russian": "5. Минимально инвазивное коронарное шунтирование"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Hybrid Coronary Revascularization",
+        "russian": "6. Гибридная коронарная реваскуляризация"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Robotic Coronary Artery Bypass Grafting",
+        "russian": "7. Роботизированное коронарное шунтирование"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Postinfarction Ventricular Septal Defect Repair",
+        "russian": "8. Ушивание постинфарктного дефекта межжелудочковой перегородки"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Aortic Valve Replacement",
+        "russian": "9. Замена аортального клапана"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Minimally Invasive, Mini-Thoracotomy Aortic Valve Replacement",
+        "russian": "10. Минимально инвазивная замена аортального клапана через мини-торакотомию"
+      },
+      {
+        "file": "chapter-11.md",
+        "title": "11. Aortic Root Enlargement Techniques",
+        "russian": "11. Техника расширения корня аорты"
+      },
+      {
+        "file": "chapter-12.md",
+        "title": "12. Aortic Valve Repair",
+        "russian": "12. Реконструкция аортального клапана"
+      },
+      {
+        "file": "chapter-13.md",
+        "title": "13. Aortic Valve-Sparing Operations",
+        "russian": "13. Клапан-сохраняющие операции на аортальном клапане"
+      },
+      {
+        "file": "chapter-14.md",
+        "title": "14. Bentall Procedure",
+        "russian": "14. Операция Бенталла"
+      },
+      {
+        "file": "chapter-15.md",
+        "title": "15. Surgery of the Left Heart Valve Infective Endocarditis",
+        "russian": "15. Хирургическое лечение инфекционного эндокардита клапанов левого сердца"
+      },
+      {
+        "file": "chapter-16.md",
+        "title": "16. Transcatheter Aortic Valve Replacement",
+        "russian": "16. Транскатетерная замена аортального клапана"
+      },
+      {
+        "file": "chapter-17.md",
+        "title": "17. Ross Procedure",
+        "russian": "17. Операция Росса"
+      },
+      {
+        "file": "chapter-18.md",
+        "title": "18. Repairing Degenerative Mitral Valve Disease",
+        "russian": "18. Реконструкция митрального клапана при дегенеративном поражении"
+      },
+      {
+        "file": "chapter-19.md",
+        "title": "19. Mitral Valve Replacement",
+        "russian": "19. Замена митрального клапана"
+      },
+      {
+        "file": "chapter-20.md",
+        "title": "20. Minimally Invasive Mitral Valve Surgery: Partial Sternotomy Approach",
+        "russian": "20. Минимально инвазивная хирургия митрального клапана: доступ через частичную стернотомию"
+      },
+      {
+        "file": "chapter-21.md",
+        "title": "21. Robotic Mitral Valve Surgery",
+        "russian": "21. Роботизированная хирургия митрального клапана"
+      },
+      {
+        "file": "chapter-22.md",
+        "title": "22. Percutaneous Mitral Valve Repair Techniques",
+        "russian": "22. Чрескожные методы реконструкции митрального клапана"
+      },
+      {
+        "file": "chapter-23.md",
+        "title": "23. Tricuspid Valve Operations",
+        "russian": "23. Операции на трикуспидальном клапане"
+      },
+      {
+        "file": "chapter-24.md",
+        "title": "24. Type A Aortic Dissections",
+        "russian": "24. Диссекция аорты типа А"
+      },
+      {
+        "file": "chapter-25.md",
+        "title": "25. Aortic Arch Aneurysms",
+        "russian": "25. Аневризмы дуги аорты"
+      },
+      {
+        "file": "chapter-26.md",
+        "title": "26. Thoracoabdominal Aneurysms",
+        "russian": "26. Торакоабдоминальные аневризмы"
+      },
+      {
+        "file": "chapter-27.md",
+        "title": "27. Thoracic Endovascular Aortic Repair for Descending Thoracic Aortic and Aortic Arch Aneurysms",
+        "russian": "27. Торакальная эндоваскулярная репарация аорты при аневризмах нисходящей грудной аорты и дуги аорты"
+      },
+      {
+        "file": "chapter-28.md",
+        "title": "28. Surgery for Atrial Fibrillation",
+        "russian": "28. Хирургическое лечение фибрилляции предсердий"
+      },
+      {
+        "file": "chapter-29.md",
+        "title": "29. Surgery for Hypertrophic Cardiomyopathy",
+        "russian": "29. Хирургическое лечение гипертрофической кардиомиопатии"
+      },
+      {
+        "file": "chapter-30.md",
+        "title": "30. Surgery for Left Ventricular Aneurysm and Remodeling",
+        "russian": "30. Хирургическое лечение аневризмы левого желудочка и ремоделирование"
+      },
+      {
+        "file": "chapter-31.md",
+        "title": "31. Approaches and Techniques for Extracorporeal Membrane Oxygenation",
+        "russian": "31. Подходы и методики экстракорпоральной мембранной оксигенации"
+      },
+      {
+        "file": "chapter-32.md",
+        "title": "32. Ventricular Assistance and Support",
+        "russian": "32. Желудочковая поддержка и вспомогательное кровообращение"
+      },
+      {
+        "file": "chapter-33.md",
+        "title": "33. Heart Transplantation",
+        "russian": "33. Трансплантация сердца"
+      },
+      {
+        "file": "chapter-34.md",
+        "title": "34. Chronic Thromboembolic Pulmonary Hypertension",
+        "russian": "34. Хроническая тромбоэмболическая легочная гипертензия"
+      }
+    ]
+  }
+]

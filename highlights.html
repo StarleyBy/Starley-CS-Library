@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>My Highlights & Notes - Starley CS Library</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/reader.css?v=2.6">
+    <link rel="stylesheet" href="assets/css/highlighter.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        body {
+            background-color: #f8fafc;
+            color: #1e293b;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+
+        body.night-mode {
+            background-color: #0f172a;
+            color: #f8fafc;
+        }
+
+        .hub-header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(16px);
+            border-bottom: 1px solid #e2e8f0;
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        body.night-mode .hub-header {
+            background: rgba(15, 23, 42, 0.85);
+            border-color: #334155;
+        }
+
+        .hub-title-group {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .hub-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .hub-back-btn {
+            background: rgba(14, 165, 233, 0.08);
+            border: 1px solid rgba(14, 165, 233, 0.25);
+            padding: 8px 14px;
+            border-radius: 8px;
+            color: #0284c7;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.15s ease;
+        }
+
+        body.night-mode .hub-back-btn {
+            background: rgba(56, 189, 248, 0.12);
+            border-color: rgba(56, 189, 248, 0.35);
+            color: #38bdf8;
+        }
+
+        .hub-back-btn:hover {
+            background: #0ea5e9;
+            color: #ffffff;
+            border-color: #0ea5e9;
+            box-shadow: 0 4px 12px rgba(14, 165, 233, 0.25);
+        }
+
+        body.night-mode .hub-back-btn:hover {
+            background: #38bdf8;
+            color: #0f172a;
+            border-color: #38bdf8;
+            box-shadow: 0 4px 12px rgba(56, 189, 248, 0.3);
+        }
+
+        .hub-controls {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .hub-search-box {
+            position: relative;
+            min-width: 240px;
+        }
+
+        .hub-search-input {
+            width: 100%;
+            height: 38px;
+            padding: 0 12px 0 34px;
+            border: 1px solid #cbd5e1;
+            border-radius: 8px;
+            background: rgba(0, 0, 0, 0.03);
+            color: inherit;
+            font-size: 0.85rem;
+            outline: none;
+            box-sizing: border-box;
+        }
+
+        body.night-mode .hub-search-input {
+            border-color: #475569;
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .hub-search-icon {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #94a3b8;
+            font-size: 0.85rem;
+        }
+
+        .hub-export-btn {
+            background: #0ea5e9;
+            color: #fff;
+            border: none;
+            padding: 8px 14px;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: background 0.15s ease;
+        }
+
+        .hub-export-btn:hover {
+            background: #0284c7;
+        }
+
+        .hub-export-btn.btn-json {
+            background: #64748b;
+        }
+        .hub-export-btn.btn-json:hover {
+            background: #475569;
+        }
+
+        /* Category Filter Badges */
+        .hub-filter-bar {
+            padding: 16px 24px 0 24px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .filter-badge {
+            padding: 6px 12px;
+            border-radius: 16px;
+            border: 1px solid #cbd5e1;
+            background: transparent;
+            color: inherit;
+            font-size: 0.8rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        body.night-mode .filter-badge {
+            border-color: #475569;
+        }
+
+        .filter-badge.is-active {
+            background: #0ea5e9;
+            color: #fff;
+            border-color: #0ea5e9;
+        }
+
+        /* Highlights Card Grid */
+        .hub-container {
+            max-width: 1100px;
+            margin: 24px auto;
+            padding: 0 24px 48px 24px;
+        }
+
+        .hl-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 20px;
+        }
+
+        .hl-card {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 14px;
+            padding: 18px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            position: relative;
+            border-left: 5px solid #0ea5e9;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+        }
+
+        body.night-mode .hl-card {
+            background: #1e293b;
+            border-color: #334155;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+        }
+
+        .hl-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        }
+
+        .hl-card.card-yellow { border-left-color: #f59e0b; }
+        .hl-card.card-green  { border-left-color: #10b981; }
+        .hl-card.card-blue   { border-left-color: #0ea5e9; }
+        .hl-card.card-red    { border-left-color: #ef4444; }
+        .hl-card.card-purple { border-left-color: #a855f7; }
+        .hl-card.card-orange { border-left-color: #f97316; }
+        .hl-card.card-pink   { border-left-color: #ec4899; }
+        .hl-card.card-teal   { border-left-color: #14b8a6; }
+
+        .hl-card-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.75rem;
+            color: #64748b;
+            font-weight: 500;
+        }
+
+        body.night-mode .hl-card-header {
+            color: #94a3b8;
+        }
+
+        .hl-card-category {
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .hl-card-quote {
+            font-size: 0.9rem;
+            line-height: 1.5;
+            margin: 0;
+            padding: 10px 12px;
+            background: rgba(0, 0, 0, 0.03);
+            border-radius: 8px;
+            font-style: italic;
+            word-break: break-word;
+        }
+
+        body.night-mode .hl-card-quote {
+            background: rgba(255, 255, 255, 0.04);
+        }
+
+        .hl-card-note {
+            font-size: 0.85rem;
+            background: rgba(14, 165, 233, 0.08);
+            color: inherit;
+            padding: 8px 12px;
+            border-radius: 8px;
+            border-left: 3px solid #0ea5e9;
+        }
+
+        .hl-card-footer {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: auto;
+            padding-top: 8px;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        body.night-mode .hl-card-footer {
+            border-color: #334155;
+        }
+
+        .hl-card-link {
+            background: #0ea5e9;
+            color: #fff;
+            text-decoration: none;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: background 0.15s ease;
+        }
+
+        .hl-card-link:hover {
+            background: #0284c7;
+        }
+
+        .hl-card-delete {
+            background: transparent;
+            border: none;
+            color: #ef4444;
+            cursor: pointer;
+            font-size: 0.85rem;
+            padding: 6px;
+            border-radius: 6px;
+        }
+
+        .hl-card-delete:hover {
+            background: rgba(239, 68, 68, 0.1);
+        }
+
+        .hl-empty-hub {
+            text-align: center;
+            padding: 64px 24px;
+            color: #64748b;
+        }
+
+        .hl-empty-icon {
+            font-size: 3rem;
+            margin-bottom: 12px;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="hub-header">
+        <div class="hub-title-group">
+            <a href="index.html" class="hub-back-btn" id="hub-back-library-btn">← Library</a>
+            <a href="#" class="hub-back-btn" id="hub-back-to-reading-btn" style="display:none;"><i class="fas fa-book-open"></i> Back to Reading</a>
+            <h1 class="hub-title">🔖 My Highlights & Notes</h1>
+        </div>
+        <div class="hub-controls">
+            <div class="hub-search-box">
+                <i class="fas fa-search hub-search-icon"></i>
+                <input type="text" id="hub-search" class="hub-search-input" placeholder="Search in highlights & notes...">
+            </div>
+            <button id="btn-export-md" class="hub-export-btn"><i class="fas fa-file-markdown"></i> Export MD</button>
+            <button id="btn-export-json" class="hub-export-btn btn-json"><i class="fas fa-file-code"></i> Export JSON</button>
+        </div>
+    </header>
+
+    <!-- Filters -->
+    <div class="hub-filter-bar">
+        <button class="filter-badge is-active" data-color="all">All Highlights</button>
+        <button class="filter-badge" data-color="yellow">🟡 Important</button>
+        <button class="filter-badge" data-color="green">🟢 Dosages / Meds</button>
+        <button class="filter-badge" data-color="blue">🔵 Protocols</button>
+        <button class="filter-badge" data-color="red">🔴 Contraindications</button>
+        <button class="filter-badge" data-color="purple">🟣 Remember</button>
+        <button class="filter-badge" data-color="orange">🟠 Interesting</button>
+        <button class="filter-badge" data-color="pink">🩷 Wow!</button>
+        <button class="filter-badge" data-color="teal">🛠️ Technique</button>
+        <button class="filter-badge" data-color="has-note">📝 Notes Only</button>
+    </div>
+
+    <!-- Main Container -->
+    <main class="hub-container">
+        <div id="highlights-list" class="hl-grid">
+            <!-- Dynamic cards will be rendered here -->
+        </div>
+        <div id="hub-empty" class="hl-empty-hub" style="display:none;">
+            <div class="hl-empty-icon">📖</div>
+            <h3>No highlights found</h3>
+            <p>Select text while reading any book to highlight key passages and add notes.</p>
+        </div>
+    </main>
+
+    <script type="module" src="assets/js/highlights-page.js"></script>
+</body>
+</html>

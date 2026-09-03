@@ -1,0 +1,13 @@
+**Файл**: `oxford-config.txt`
+```
+filename: oxford.pdf
+title: Manual of Perioperative Care, 6th Edition
+author: Robert M. Bojar, MD
+categories: cardiology, surgery
+chapters:
+1|Cardiac Disease Overview|10-50
+2|Diagnostic Methods|51-100
+3|Surgery Preparation|101-150
+4|Postop Care|151-200
+Appendix 1|Drugs|450-460
+```

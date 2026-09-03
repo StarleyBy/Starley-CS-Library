@@ -1,0 +1,10 @@
+node_modules/
+.env
+.r2-manifest.json
+
+# Ignore images in books directory (served via Cloudflare R2 CDN)
+books/**/*.jpg
+books/**/*.jpeg
+books/**/*.png
+books/**/*.webp
+books/**/*.gif

@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Wilcox’s Surgical Anatomy of the Heart, Fourth edition",
+    "russian_title": "Хирургическая анатомия сердца по Уилкоксу, 4-е издание",
+    "cover_image": "cover.jpg",
+    "category": [
+      "cardiac surgery",
+      "anatomy"
+    ],
+    "authors": [
+      "Robert H. Anderson, BSc, MD, FRCPath, Diane E. Spicer, BS, PA(ASCP), Anthony M. Hlavacek, MD"
+    ],
+     "versions": {
+      "original": true,
+      "russian": true,
+      "starley": false,
+      "hebrew": false
+    },
+    "chapters": [
+      {
+        "file": "chapter-01.md",
+        "title": "1. Surgical approaches to the heart",
+        "russian": "1. Хирургические доступы к сердцу"
+      },
+      {
+        "file": "chapter-02.md",
+        "title": "2. Anatomy of the cardiac chambers",
+        "russian": "2. Анатомия камер сердца"
+      },
+      {
+        "file": "chapter-03.md",
+        "title": "3. Surgical anatomy of the valves of the heart",
+        "russian": "3. Хирургическая анатомия клапанов сердца"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "4. Surgical anatomy of the coronary circulation",
+        "russian": "4. Хирургическая анатомия коронарного кровообращения"
+      },
+      {
+        "file": "chapter-05.md",
+        "title": "5. Surgical anatomy of the conduction system",
+        "russian": "5. Хирургическая анатомия проводящей системы"
+      },
+      {
+        "file": "chapter-06.md",
+        "title": "6. Analytical description of congenitally malformed hearts",
+        "russian": "6. Аналитическое описание врожденных пороков сердца"
+      },
+      {
+        "file": "chapter-07.md",
+        "title": "7. Lesions with normal segmental connections",
+        "russian": "7. Пороки с нормальными сегментарными соединениями"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "8. Lesions in hearts with abnormal segmental connections",
+        "russian": "8. Пороки при аномальных сегментарных соединениях"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "9. Abnormalities of the great vessels",
+        "russian": "9. Аномалии магистральных сосудов"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "10. Abnormalities of the great vessels",
+        "russian": "10. Аномалии магистральных сосудов"
+      }
+    ],
+    "appendices": []
+  }
+]

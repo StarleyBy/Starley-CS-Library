@@ -1,0 +1,664 @@
+/* Smart Highlighter & Margin Notes Suite Stylesheet - Starley Medical Library */
+
+:root {
+  /* Clinical Highlight Color Tokens - LIGHT THEME */
+  --hl-yellow-bg: rgba(245, 158, 11, 0.22);
+  --hl-yellow-text: #78350f;
+  --hl-yellow-border: #f59e0b;
+
+  --hl-green-bg: rgba(16, 185, 129, 0.2);
+  --hl-green-text: #064e3b;
+  --hl-green-border: #10b981;
+
+  --hl-blue-bg: rgba(14, 165, 233, 0.2);
+  --hl-blue-text: #0c4a6e;
+  --hl-blue-border: #0ea5e9;
+
+  --hl-red-bg: rgba(239, 68, 68, 0.2);
+  --hl-red-text: #7f1d1d;
+  --hl-red-border: #ef4444;
+
+  --hl-purple-bg: rgba(168, 85, 247, 0.2);
+  --hl-purple-text: #581c87;
+  --hl-purple-border: #a855f7;
+
+  --hl-orange-bg: rgba(249, 115, 22, 0.2);
+  --hl-orange-text: #7c2d12;
+  --hl-orange-border: #f97316;
+
+  --hl-pink-bg: rgba(236, 72, 153, 0.2);
+  --hl-pink-text: #831843;
+  --hl-pink-border: #ec4899;
+
+  --hl-teal-bg: rgba(20, 184, 166, 0.2);
+  --hl-teal-text: #134e4a;
+  --hl-teal-border: #14b8a6;
+
+  /* Floating Selection Toolbar Tokens */
+  --hl-toolbar-bg: rgba(255, 255, 255, 0.92);
+  --hl-toolbar-border: rgba(203, 213, 225, 0.8);
+  --hl-toolbar-shadow: 0 12px 32px -4px rgba(0, 0, 0, 0.15), 0 4px 12px -2px rgba(0, 0, 0, 0.06);
+  --hl-toolbar-text: #1e293b;
+}
+
+/* System Dark Theme / Night Mode - High Contrast WCAG 2.1 AA Compliant */
+body.night-mode,
+[data-theme="dark"] {
+  --hl-yellow-bg: rgba(245, 158, 11, 0.28);
+  --hl-yellow-text: #fef3c7;
+  --hl-yellow-border: #fbbf24;
+
+  --hl-green-bg: rgba(16, 185, 129, 0.28);
+  --hl-green-text: #d1fae5;
+  --hl-green-border: #34d399;
+
+  --hl-blue-bg: rgba(14, 165, 233, 0.28);
+  --hl-blue-text: #e0f2fe;
+  --hl-blue-border: #38bdf8;
+
+  --hl-red-bg: rgba(239, 68, 68, 0.28);
+  --hl-red-text: #fee2e2;
+  --hl-red-border: #f87171;
+
+  --hl-purple-bg: rgba(168, 85, 247, 0.28);
+  --hl-purple-text: #f3e8ff;
+  --hl-purple-border: #c084fc;
+
+  --hl-orange-bg: rgba(249, 115, 22, 0.28);
+  --hl-orange-text: #ffedd5;
+  --hl-orange-border: #fb923c;
+
+  --hl-pink-bg: rgba(236, 72, 153, 0.28);
+  --hl-pink-text: #fce7f3;
+  --hl-pink-border: #f472b6;
+
+  --hl-teal-bg: rgba(20, 184, 166, 0.28);
+  --hl-teal-text: #ccfbf1;
+  --hl-teal-border: #2dd4bf;
+
+  --hl-toolbar-bg: rgba(15, 23, 42, 0.92);
+  --hl-toolbar-border: rgba(51, 65, 85, 0.8);
+  --hl-toolbar-shadow: 0 16px 40px -6px rgba(0, 0, 0, 0.5), 0 4px 16px -2px rgba(0, 0, 0, 0.3);
+  --hl-toolbar-text: #f8fafc;
+}
+
+/* Sepia Mode */
+body.sepia-mode {
+  --hl-yellow-bg: rgba(217, 119, 6, 0.22);
+  --hl-yellow-text: #451a03;
+  --hl-yellow-border: #b45309;
+
+  --hl-green-bg: rgba(5, 150, 105, 0.22);
+  --hl-green-text: #022c22;
+  --hl-green-border: #047857;
+
+  --hl-blue-bg: rgba(2, 132, 199, 0.22);
+  --hl-blue-text: #082f49;
+  --hl-blue-border: #0369a1;
+
+  --hl-red-bg: rgba(220, 38, 38, 0.22);
+  --hl-red-text: #450a0a;
+  --hl-red-border: #b91c1c;
+
+  --hl-purple-bg: rgba(147, 51, 234, 0.22);
+  --hl-purple-text: #3b0764;
+  --hl-purple-border: #7e22ce;
+
+  --hl-orange-bg: rgba(234, 88, 12, 0.22);
+  --hl-orange-text: #431407;
+  --hl-orange-border: #c2410c;
+
+  --hl-pink-bg: rgba(219, 39, 119, 0.22);
+  --hl-pink-text: #500724;
+  --hl-pink-border: #be185d;
+
+  --hl-teal-bg: rgba(13, 148, 136, 0.22);
+  --hl-teal-text: #042f2e;
+  --hl-teal-border: #0f766e;
+
+  --hl-toolbar-bg: rgba(244, 236, 219, 0.95);
+  --hl-toolbar-border: rgba(216, 203, 178, 0.9);
+  --hl-toolbar-shadow: 0 12px 28px -4px rgba(92, 64, 40, 0.18);
+  --hl-toolbar-text: #4a3728;
+}
+
+
+/* ==========================================================================
+   DOM MARKER STYLING (<mark class="cs-highlight">)
+   ========================================================================== */
+
+mark.cs-highlight {
+  background-color: transparent;
+  border-radius: 4px;
+  padding: 1px 3px;
+  margin: 0 -1px;
+  transition: background-color 0.2s ease, filter 0.2s ease;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  cursor: pointer;
+  position: relative;
+  font-style: normal;
+}
+
+mark.cs-highlight:hover {
+  filter: brightness(0.92);
+}
+
+/* Category Color Variants */
+mark.cs-highlight-yellow {
+  background-color: var(--hl-yellow-bg);
+  color: var(--hl-yellow-text);
+  border-bottom: 2px solid var(--hl-yellow-border);
+}
+
+mark.cs-highlight-green {
+  background-color: var(--hl-green-bg);
+  color: var(--hl-green-text);
+  border-bottom: 2px solid var(--hl-green-border);
+}
+
+mark.cs-highlight-blue {
+  background-color: var(--hl-blue-bg);
+  color: var(--hl-blue-text);
+  border-bottom: 2px solid var(--hl-blue-border);
+}
+
+mark.cs-highlight-red {
+  background-color: var(--hl-red-bg);
+  color: var(--hl-red-text);
+  border-bottom: 2px solid var(--hl-red-border);
+}
+
+mark.cs-highlight-purple {
+  background-color: var(--hl-purple-bg);
+  color: var(--hl-purple-text);
+  border-bottom: 2px solid var(--hl-purple-border);
+}
+
+mark.cs-highlight-orange {
+  background-color: var(--hl-orange-bg);
+  color: var(--hl-orange-text);
+  border-bottom: 2px solid var(--hl-orange-border);
+}
+
+mark.cs-highlight-pink {
+  background-color: var(--hl-pink-bg);
+  color: var(--hl-pink-text);
+  border-bottom: 2px solid var(--hl-pink-border);
+}
+
+mark.cs-highlight-teal {
+  background-color: var(--hl-teal-bg);
+  color: var(--hl-teal-text);
+  border-bottom: 2px solid var(--hl-teal-border);
+}
+
+/* Note Badge Indicator */
+mark.cs-highlight.has-note::after {
+  content: '📝';
+  font-size: 0.72rem;
+  margin-left: 3px;
+  vertical-align: super;
+  opacity: 0.85;
+}
+
+/* Pulse Landing Animation for Deep Links */
+@keyframes hl-pulse-landing {
+  0% { transform: scale(1); outline: 3px solid var(--hl-yellow-border); box-shadow: 0 0 12px var(--hl-yellow-border); }
+  50% { transform: scale(1.03); outline: 6px solid var(--hl-yellow-border); box-shadow: 0 0 20px var(--hl-yellow-border); }
+  100% { transform: scale(1); outline: 0px solid transparent; box-shadow: none; }
+}
+
+mark.cs-highlight-pulse {
+  animation: hl-pulse-landing 1.5s cubic-bezier(0.22, 1, 0.36, 1) 2;
+}
+
+/* ==========================================================================
+   FLOATING SELECTION TOOLBAR
+   ========================================================================== */
+
+.cs-hl-toolbar {
+  position: absolute;
+  z-index: 1050;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  background: var(--hl-toolbar-bg);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid var(--hl-toolbar-border);
+  border-radius: 24px;
+  box-shadow: var(--hl-toolbar-shadow);
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.92) translateY(8px);
+  transition: opacity 0.2s cubic-bezier(0.16, 1, 0.3, 1), transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+
+.cs-hl-toolbar.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: scale(1) translateY(0);
+}
+
+.cs-hl-toolbar-colors {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.cs-hl-color-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+  padding: 0;
+  outline: none;
+}
+
+.cs-hl-color-btn:hover {
+  transform: scale(1.18);
+}
+
+.cs-hl-color-btn[data-color="yellow"] { background-color: #f59e0b; }
+.cs-hl-color-btn[data-color="green"]  { background-color: #10b981; }
+.cs-hl-color-btn[data-color="blue"]   { background-color: #0ea5e9; }
+.cs-hl-color-btn[data-color="red"]    { background-color: #ef4444; }
+.cs-hl-color-btn[data-color="purple"] { background-color: #a855f7; }
+.cs-hl-color-btn[data-color="orange"] { background-color: #f97316; }
+.cs-hl-color-btn[data-color="pink"]   { background-color: #ec4899; }
+.cs-hl-color-btn[data-color="teal"]   { background-color: #14b8a6; }
+
+.cs-hl-toolbar-divider {
+  width: 1px;
+  height: 20px;
+  background: var(--hl-toolbar-border);
+  margin: 0 2px;
+}
+
+.cs-hl-toolbar-input {
+  height: 28px;
+  width: 150px;
+  padding: 0 10px;
+  border: 1px solid var(--hl-toolbar-border);
+  border-radius: 14px;
+  background: rgba(0, 0, 0, 0.04);
+  color: var(--hl-toolbar-text);
+  font-size: 0.78rem;
+  outline: none;
+  transition: border-color 0.15s ease, width 0.2s ease;
+}
+
+body.night-mode .cs-hl-toolbar-input {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.cs-hl-toolbar-input:focus {
+  border-color: #0ea5e9;
+  width: 190px;
+}
+
+.cs-hl-toolbar-close {
+  background: transparent;
+  border: none;
+  color: var(--hl-toolbar-text);
+  opacity: 0.6;
+  cursor: pointer;
+  padding: 2px 6px;
+  font-size: 0.85rem;
+  border-radius: 50%;
+}
+
+.cs-hl-toolbar-close:hover {
+  opacity: 1;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+/* ==========================================================================
+   NOTE POPOVER / EDIT MODAL
+   ========================================================================== */
+
+.cs-hl-popover {
+  position: absolute;
+  z-index: 1060;
+  width: 280px;
+  padding: 12px;
+  background: var(--hl-toolbar-bg);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid var(--hl-toolbar-border);
+  border-radius: 14px;
+  box-shadow: var(--hl-toolbar-shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(6px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.cs-hl-popover.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.cs-hl-popover-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--hl-toolbar-text);
+}
+
+.cs-hl-popover-textarea {
+  width: 100%;
+  height: 64px;
+  padding: 8px;
+  border: 1px solid var(--hl-toolbar-border);
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.03);
+  color: var(--hl-toolbar-text);
+  font-size: 0.8rem;
+  font-family: inherit;
+  resize: vertical;
+  outline: none;
+  box-sizing: border-box;
+}
+
+body.night-mode .cs-hl-popover-textarea {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.cs-hl-popover-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.cs-hl-btn {
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: none;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.cs-hl-btn-primary {
+  background: #0ea5e9;
+  color: #fff;
+}
+
+.cs-hl-btn-primary:hover {
+  background: #0284c7;
+}
+
+.cs-hl-btn-danger {
+  background: rgba(239, 68, 68, 0.15);
+  color: #ef4444;
+}
+
+.cs-hl-btn-danger:hover {
+  background: rgba(239, 68, 68, 0.25);
+}
+
+/* Card Creator Modal & Elements Styles */
+.cs-hl-quiz-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1px solid var(--hl-toolbar-border);
+  background-color: var(--hl-toolbar-bg);
+  color: var(--hl-toolbar-text);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  transition: transform 0.15s ease, background-color 0.15s ease;
+  padding: 0;
+  outline: none;
+}
+.cs-hl-quiz-btn:hover {
+  transform: scale(1.18);
+  background-color: #0ea5e9;
+  color: #fff;
+  border-color: #0ea5e9;
+}
+
+.cs-quiz-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cs-quiz-modal-overlay.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.cs-quiz-modal {
+  width: 90%;
+  max-width: 460px;
+  background: var(--hl-toolbar-bg);
+  border: 1px solid var(--hl-toolbar-border);
+  border-radius: 16px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transform: scale(0.95);
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  color: var(--hl-toolbar-text);
+  box-sizing: border-box;
+}
+
+.cs-quiz-modal-overlay.is-visible .cs-quiz-modal {
+  transform: scale(1);
+}
+
+.cs-quiz-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  border-bottom: 1px solid var(--hl-toolbar-border);
+  padding-bottom: 12px;
+}
+
+.cs-quiz-modal-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cs-quiz-modal-close {
+  background: transparent;
+  border: none;
+  color: var(--hl-toolbar-text);
+  opacity: 0.6;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 4px;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.2s, background-color 0.2s;
+}
+
+.cs-quiz-modal-close:hover {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+body.night-mode .cs-quiz-modal-close:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.cs-quiz-modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.cs-quiz-modal-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.cs-quiz-modal-field label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #8b949e;
+}
+
+.cs-quiz-modal-context-val {
+  font-size: 0.85rem;
+  color: #8b949e;
+  padding: 4px 0;
+}
+
+.cs-quiz-modal-answer-val {
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+  border-left: 3px solid #10b981;
+  padding: 8px 12px;
+  border-radius: 4px;
+  max-height: 80px;
+  overflow-y: auto;
+  line-height: 1.4;
+}
+
+body.night-mode .cs-quiz-modal-answer-val {
+  background: rgba(52, 211, 153, 0.15);
+  color: #34d399;
+  border-left-color: #34d399;
+}
+
+.cs-quiz-modal-question-input {
+  width: 100%;
+  height: 80px;
+  padding: 10px;
+  border: 1px solid var(--hl-toolbar-border);
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.02);
+  color: var(--hl-toolbar-text);
+  font-size: 0.85rem;
+  font-family: inherit;
+  resize: none;
+  outline: none;
+  box-sizing: border-box;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+body.night-mode .cs-quiz-modal-question-input {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.cs-quiz-modal-question-input:focus {
+  border-color: #0ea5e9;
+  box-shadow: 0 0 0 2px rgba(14, 165, 233, 0.2);
+}
+
+.cs-quiz-modal-auto-btn {
+  background: rgba(14, 165, 233, 0.1);
+  color: #0ea5e9;
+  border: 1px solid rgba(14, 165, 233, 0.2);
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.cs-quiz-modal-auto-btn:hover {
+  background: #0ea5e9;
+  color: #fff;
+}
+
+.cs-quiz-modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  border-top: 1px solid var(--hl-toolbar-border);
+  padding-top: 14px;
+}
+
+.cs-quiz-modal-save-btn {
+  background: #0ea5e9;
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.cs-quiz-modal-save-btn:hover {
+  background: #0284c7;
+}
+
+.cs-quiz-modal-save-btn:active {
+  transform: scale(0.97);
+}
+
+/* Toast styling */
+.cs-toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: rgba(15, 23, 42, 0.9);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  z-index: 2100;
+  opacity: 0;
+  pointer-events: none;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
+  transition: opacity 0.3s, transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.cs-toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+

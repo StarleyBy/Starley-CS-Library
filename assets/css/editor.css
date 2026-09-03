@@ -1,0 +1,1327 @@
+.cm-sync-highlight {
+    background: rgba(52, 152, 219, 0.25) !important;
+}
+:root {
+    --editor-header-h: 34px;
+}
+:root.header-hidden {
+    --editor-header-h: 0px;
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;   /* kill the global scroll entirely */
+    margin: 0;
+    padding: 0;
+}
+
+/* Compact collapsible header */
+.editor-header {
+    height: var(--editor-header-h);
+    overflow: hidden;
+    background: #1a1a1a;
+    border-bottom: 1px solid #3a3a3a;
+    transition: height 0.2s ease;
+    flex-shrink: 0;
+}
+
+.editor-header-inner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 0 10px;
+    height: 34px;
+    white-space: nowrap;
+}
+
+.editor-header-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #3498db;
+}
+
+.editor-header-nav {
+    display: flex;
+    gap: 8px;
+}
+
+.editor-header-nav a {
+    color: #aaa;
+    text-decoration: none;
+    font-size: 0.78rem;
+    padding: 2px 8px;
+    border-radius: 3px;
+    border: 1px solid #444;
+    transition: all 0.15s;
+}
+.editor-header-nav a:hover { color: white; border-color: #3498db; }
+
+.header-collapse-btn {
+    margin-left: auto;
+    background: none;
+    border: none;
+    color: #666;
+    cursor: pointer;
+    font-size: 0.7rem;
+    padding: 2px 6px;
+    border-radius: 3px;
+    transition: color 0.15s;
+}
+.header-collapse-btn:hover { color: #aaa; }
+
+/* Show tab when header is hidden */
+#header-show-tab {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1a1a1a;
+    border: 1px solid #3a3a3a;
+    border-top: none;
+    color: #555;
+    font-size: 0.65rem;
+    padding: 1px 12px;
+    cursor: pointer;
+    border-radius: 0 0 5px 5px;
+    z-index: 1000;
+    display: none;
+    transition: color 0.15s;
+}
+#header-show-tab:hover { color: #aaa; }
+
+/* Общая структура */
+.editor-shell { 
+    display: flex;
+    /* Fill remaining height after header */
+    height: calc(100% - var(--editor-header-h));
+    overflow: hidden; 
+    background: #1e1e1e; 
+    color: #eee;
+    transition: height 0.2s ease;
+}
+
+.editor-toolbar {
+    width: 220px;
+    background: #252526;
+    padding: 6px 0;
+    overflow-y: auto;
+    overflow-x: visible;
+    border-right: 1px solid #333;
+    flex-shrink: 0;
+    /* Toolbar itself doesn't need padding — groups handle it */
+}
+
+.editor-main, .editor-preview-pane { 
+    flex: 1; 
+    display: flex; 
+    flex-direction: column; 
+    overflow: hidden;
+    min-width: 0; /* Важно! */
+}
+
+.pane-header { 
+    background: #333; 
+    padding: 5px 15px; 
+    font-size: 0.8rem; 
+    text-transform: uppercase; 
+    color: #aaa;
+    flex-shrink: 0; /* Важно! */
+}
+
+/* Поле ввода */
+#markdown-input { 
+    flex: 1;
+    background: #1e1e1e;
+    color: #d4d4d4;
+    padding: 20px; 
+    font-family: 'Fira Code', 'Courier New', monospace;
+    font-size: 14px;
+    border: none;
+    resize: none;
+    line-height: 1.5;
+    outline: none;
+    overflow-y: auto;
+}
+
+/* КРИТИЧЕСКИ ВАЖНО: CodeMirror обёртка должна занимать всю высоту */
+.CodeMirror {
+    height: 100% !important;
+    font-family: 'Fira Code', 'Courier New', monospace !important;
+    font-size: 14px !important;
+}
+
+.CodeMirror-scroll {
+    min-height: 100%;
+}
+
+/* Область превью */
+#editor-preview { 
+    flex: 1; 
+    background: white; 
+    color: #333; 
+    padding: 30px; 
+    overflow-y: auto;
+    min-height: 0; /* Важно! */
+}
+
+/* ============= CLICK-TO-TOGGLE TOOLBAR ============= */
+.tool-group {
+    position: relative;
+    border-bottom: 1px solid #1e1e1e;
+    background: #2d2d2d;
+}
+
+/* Header — trigger only on click */
+.tool-group h4 {
+    margin: 0;
+    padding: 12px 14px;
+    font-size: 0.8rem;
+    color: #9abedb;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+    transition: background 0.2s;
+    white-space: nowrap;
+}
+
+.tool-group h4::after {
+    content: '▼';
+    font-size: 0.65rem;
+    opacity: 0.4;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tool-group.active h4 {
+    background: #363637;
+    color: #3498db;
+}
+
+.tool-group.active h4::after {
+    transform: rotate(180deg);
+    opacity: 1;
+}
+
+/* Hover feedback on header - only visual highlight */
+.tool-group h4:hover {
+    background: #3e3e3f;
+    color: #fff;
+}
+
+/* Content — hidden by default, visible only when active or pinned */
+.tool-group-content {
+    display: none !important;
+    background: #252526;
+    border-top: 1px solid #1a1a1a;
+}
+
+.tool-group.active .tool-group-content,
+.tool-group.pinned .tool-group-content {
+    display: block !important;
+}
+
+.tool-group-content-inner {
+    padding: 15px 12px;
+}
+
+/* Pin button */
+.tool-group-pin {
+    background: none;
+    border: none;
+    color: #555;
+    cursor: pointer;
+    font-size: 0.75rem;
+    padding: 4px 6px;
+    border-radius: 4px;
+    transition: all 0.2s;
+    margin-right: 4px;
+}
+
+.tool-group-pin:hover { 
+    background: #444;
+    color: #f1c40f; 
+}
+
+.tool-group.pinned .tool-group-pin { 
+    color: #f1c40f;
+    transform: rotate(-45deg);
+    opacity: 1;
+}
+
+/* Clean Tooltips */
+.tool-group button[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    left: 105%;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #2c3e50;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 4px;
+    white-space: nowrap;
+    font-size: 0.75rem;
+    z-index: 5000;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+    pointer-events: none;
+}
+
+.tool-group button[title]:hover::before {
+    content: '';
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 6px solid transparent;
+    border-right-color: #2c3e50;
+    z-index: 5001;
+    pointer-events: none;
+}
+
+/* Icon Grids */
+.icon-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+}
+
+.icon-grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4px;
+}
+
+.icon-grid-4 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 4px;
+}
+
+.icon-grid button,
+.icon-grid-2 button,
+.icon-grid-4 button {
+    padding: 10px 4px;
+    min-height: 40px;
+    margin: 0;
+}
+
+/* Сетка цветов */
+.color-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 4px; }
+.color-dot { width: 24px; height: 24px; border-radius: 4px; cursor: pointer; border: 1px solid rgba(255,255,255,0.2); transition: transform 0.2s; }
+.color-dot:hover { transform: scale(1.2); box-shadow: 0 2px 6px rgba(52, 152, 219, 0.4); }
+
+/* Кнопки действий */
+.btn-primary { background: #007acc !important; color: white !important; font-weight: bold; margin-top: 5px !important; }
+.btn-success { background: #28a745 !important; color: white !important; font-weight: bold; }
+.loader-group select { width: 100%; margin-bottom: 5px; background: #3c3c3c; color: white; border: 1px solid #555; padding: 4px; border-radius: 4px; }
+#export-filename { width: 100%; background: #3c3c3c; border: 1px solid #555; color: white; padding: 6px; margin-bottom: 5px; border-radius: 4px; }
+
+.btn-load {
+    width: 100%;
+    text-align: center;
+    padding: 8px 10px;
+    margin: 2px 0;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: all 0.3s;
+    font-size: 1.1em;
+}
+
+.btn-load:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-load:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* ==================== PREVIEW STYLES ==================== */
+
+/* Цветной текст */
+#editor-preview .t-red { color: #e74c3c; }
+#editor-preview .t-blue { color: #3498db; }
+#editor-preview .t-green { color: #2ecc71; }
+#editor-preview .t-gold { color: #f1c40f; }
+#editor-preview .t-purple { color: #9b59b6; }
+#editor-preview .t-orange { color: #e67e22; }
+#editor-preview .t-teal { color: #1abc9c; }
+#editor-preview .t-pink { color: #fd79a8; }
+#editor-preview .t-indigo { color: #6c5ce7; }
+#editor-preview .t-lime { color: #badc58; }
+#editor-preview .t-brown { color: #a0522d; }
+#editor-preview .t-grey { color: #95a5a6; }
+
+/* МЕДИЦИНСКИЕ БЛОКИ - УСИЛЕННАЯ ВЕРСИЯ */
+#editor-preview .med-note {
+    margin: 15px 0;
+    padding: 12px 15px;
+    border-left: 4px solid;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+#editor-preview .note-dosage,
+#editor-preview .med-note.note-dosage {
+    background: #fff3e0;
+    border-color: #ff6f00;
+}
+
+#editor-preview .note-dosage::before {
+    content: "💉 Дозировка: ";
+    font-weight: bold;
+    color: #ff6f00;
+}
+
+#editor-preview .note-anatomy,
+#editor-preview .med-note.note-anatomy {
+    background: #fce4ec;
+    border-color: #c2185b;
+}
+
+#editor-preview .note-anatomy::before {
+    content: "🫀 Анатомия: ";
+    font-weight: bold;
+    color: #c2185b;
+}
+
+#editor-preview .note-surgery,
+#editor-preview .med-note.note-surgery {
+    background: #e8f5e9;
+    border-color: #2e7d32;
+}
+
+#editor-preview .note-surgery::before {
+    content: "🔪 Хирургия: ";
+    font-weight: bold;
+    color: #2e7d32;
+}
+
+#editor-preview .note-pharmacy,
+#editor-preview .med-note.note-pharmacy {
+    background: #e3f2fd;
+    border-color: #1565c0;
+}
+
+#editor-preview .note-pharmacy::before {
+    content: "💊 Фармакология: ";
+    font-weight: bold;
+    color: #1565c0;
+}
+
+#editor-preview .note-physio,
+#editor-preview .med-note.note-physio {
+    background: #f3e5f5;
+    border-color: #6a1b9a;
+}
+
+#editor-preview .note-physio::before {
+    content: "🧬 Физиология: ";
+    font-weight: bold;
+    color: #6a1b9a;
+}
+
+#editor-preview .note-fact,
+#editor-preview .med-note.note-fact {
+    background: #fff9c4;
+    border-color: #f57f17;
+}
+
+#editor-preview .note-fact::before {
+    content: "💡 Факт: ";
+    font-weight: bold;
+    color: #f57f17;
+}
+
+#editor-preview .note-treatment,
+#editor-preview .med-note.note-treatment {
+    background: #e0f2f1;
+    border-color: #00695c;
+}
+
+#editor-preview .note-treatment::before {
+    content: "🩹 Лечение: ";
+    font-weight: bold;
+    color: #00695c;
+}
+
+#editor-preview .note-icu,
+#editor-preview .med-note.note-icu {
+    background: #ffebee;
+    border-color: #c62828;
+}
+
+#editor-preview .note-icu::before {
+    content: "🏥 ОИТ: ";
+    font-weight: bold;
+    color: #c62828;
+}
+
+#editor-preview .note-nb,
+#editor-preview .med-note.note-nb {
+    background: #fff3e0;
+    border-color: #e65100;
+    font-weight: bold;
+}
+
+#editor-preview .note-nb::before {
+    content: "⚠️ NB! ";
+    font-weight: bold;
+    color: #e65100;
+    font-size: 16px;
+}
+
+/* Скрываемые блоки */
+#editor-preview .med-details summary {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 8px 8px 8px 30px;
+    background: #f5f5f5;
+    border-radius: 4px;
+    display: block;
+    position: relative;
+    list-style: none;
+}
+#editor-preview .med-details summary::before {
+    content: "▶";
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    color: #666;
+    transition: transform 0.2s;
+}
+#editor-preview .med-details[open] summary::before {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+/* Image scaling */
+.med-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+    border-radius: 4px;
+}
+
+#editor-preview .med-details .details-content {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+/* ==================== ENHANCED STYLES FROM REDACT.HTML ==================== */
+
+/* 1. OVAL HIGHLIGHTS WITH 3D GRADIENT EFFECT */
+#editor-preview .ov-gold,
+#editor-preview .gold-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(247, 151, 30, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-green,
+#editor-preview .green-highlighted-oval-3d {
+    background: linear-gradient(135deg, #a8e063 0%, #56ab2f 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(86, 171, 47, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-blue,
+#editor-preview .blue-highlighted-oval-3d {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(102, 126, 234, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-red,
+#editor-preview .red-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f85032 0%, #e73827 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(248, 80, 50, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-pink,
+#editor-preview .pink-highlighted-oval-3d {
+    background: linear-gradient(135deg, #ff6ec7 0%, #ff1f8f 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(255, 110, 199, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-purple,
+#editor-preview .purple-highlighted-oval-3d {
+    background: linear-gradient(135deg, #9d50bb 0%, #6e48aa 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(157, 80, 187, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-teal,
+#editor-preview .teal-highlighted-oval-3d {
+    background: linear-gradient(135deg, #38ef7d 0%, #11998e 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(56, 239, 125, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-orange,
+#editor-preview .orange-highlighted-oval-3d {
+    background: linear-gradient(135deg, #fa8c16 0%, #ff6b35 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(250, 140, 22, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-yellow,
+#editor-preview .yellow-highlighted-oval-3d {
+    background: linear-gradient(135deg, #f9d423 0%, #f5b700 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #333;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(249, 212, 35, 0.3);
+    display: inline-block;
+}
+
+#editor-preview .ov-grey,
+#editor-preview .ov-silver,
+#editor-preview .silver-highlighted-oval-3d {
+    background: linear-gradient(135deg, #bdc3c7 0%, #95a5a6 100%);
+    padding: 3px 12px;
+    border-radius: 20px;
+    color: #2c3e50;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(149, 165, 166, 0.3);
+    display: inline-block;
+}
+
+/* 2. MARKER HIGHLIGHTS */
+#editor-preview .m-yellow,
+#editor-preview .marker-yellow {
+    background: linear-gradient(180deg, transparent 60%, #ffeb3b 60%);
+    padding: 2px 0;
+}
+
+#editor-preview .m-green,
+#editor-preview .marker-green {
+    background: linear-gradient(180deg, transparent 60%, #a5d6a7 60%);
+    padding: 2px 0;
+}
+
+#editor-preview .m-pink,
+#editor-preview .marker-pink {
+    background: linear-gradient(180deg, transparent 60%, #f48fb1 60%);
+    padding: 2px 0;
+}
+
+#editor-preview .m-blue,
+#editor-preview .marker-blue {
+    background: linear-gradient(180deg, transparent 60%, #90caf9 60%);
+    padding: 2px 0;
+}
+
+#editor-preview .m-orange,
+#editor-preview .marker-orange {
+    background: linear-gradient(180deg, transparent 60%, #ffcc80 60%);
+    padding: 2px 0;
+}
+
+#editor-preview .m-purple,
+#editor-preview .marker-purple {
+    background: linear-gradient(180deg, transparent 60%, #ce93d8 60%);
+    padding: 2px 0;
+}
+
+/* 3. LUMINOUS TEXT EFFECTS */
+#editor-preview .luminous-blue {
+    color: #2196f3;
+    text-shadow: 0 0 10px rgba(33, 150, 243, 0.6), 0 0 20px rgba(33, 150, 243, 0.4);
+    font-weight: 600;
+}
+
+#editor-preview .luminous-green {
+    color: #4caf50;
+    text-shadow: 0 0 10px rgba(76, 175, 80, 0.6), 0 0 20px rgba(76, 175, 80, 0.4);
+    font-weight: 600;
+}
+
+#editor-preview .luminous-red {
+    color: #f44336;
+    text-shadow: 0 0 10px rgba(244, 67, 54, 0.6), 0 0 20px rgba(244, 67, 54, 0.4);
+    font-weight: 600;
+}
+
+#editor-preview .luminous-yellow {
+    color: #ffd700;
+    text-shadow: 0 0 10px rgba(255, 215, 0, 0.6), 0 0 20px rgba(255, 215, 0, 0.4);
+    font-weight: 600;
+}
+
+#editor-preview .luminous-purple {
+    color: #9c27b0;
+    text-shadow: 0 0 10px rgba(156, 39, 176, 0.6), 0 0 20px rgba(156, 39, 176, 0.4);
+    font-weight: 600;
+}
+
+#editor-preview .luminous-cyan {
+    color: #00e5ff;
+    text-shadow: 0 0 15px rgba(0, 229, 255, 0.7), 0 0 30px rgba(0, 229, 255, 0.5);
+    font-weight: 700;
+}
+
+#editor-preview .luminous-amber {
+    color: #ff9800;
+    text-shadow: 0 0 15px rgba(255, 152, 0, 0.7), 0 0 30px rgba(255, 152, 0, 0.5);
+    font-weight: 700;
+}
+
+/* 4. CYBER/NEON EFFECTS */
+#editor-preview .cyber-neon {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    animation: flicker 3s infinite;
+}
+
+#editor-preview .cyber-neon-pink {
+    color: #ff1f8f;
+    text-shadow: 0 0 10px #ff1f8f, 0 0 20px #ff1f8f, 0 0 30px #ff1f8f;
+}
+
+#editor-preview .cyber-neon-blue {
+    color: #00d9ff;
+    text-shadow: 0 0 10px #00d9ff, 0 0 20px #00d9ff, 0 0 30px #00d9ff;
+}
+
+@keyframes flicker {
+    0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+        opacity: 1;
+    }
+    20%, 24%, 55% {
+        opacity: 0.85;
+    }
+}
+
+#editor-preview .cyber-glitch {
+    position: relative;
+    font-weight: 700;
+    color: #fff;
+}
+
+#editor-preview .cyber-glitch::before,
+#editor-preview .cyber-glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#editor-preview .cyber-glitch::before {
+    animation: glitch-1 0.3s infinite;
+    color: #00ffff;
+    z-index: -1;
+}
+
+#editor-preview .cyber-glitch::after {
+    animation: glitch-2 0.3s infinite;
+    color: #ff00ff;
+    z-index: -2;
+}
+
+@keyframes glitch-1 {
+    0% { clip: rect(42px, 9999px, 44px, 0); }
+    5% { clip: rect(12px, 9999px, 59px, 0); }
+    10% { clip: rect(48px, 9999px, 29px, 0); }
+    15% { clip: rect(42px, 9999px, 73px, 0); }
+    20% { clip: rect(63px, 9999px, 27px, 0); }
+    25% { clip: rect(34px, 9999px, 55px, 0); }
+    30% { clip: rect(86px, 9999px, 73px, 0); }
+    35% { clip: rect(20px, 9999px, 20px, 0); }
+    40% { clip: rect(26px, 9999px, 60px, 0); }
+    45% { clip: rect(25px, 9999px, 66px, 0); }
+    50% { clip: rect(57px, 9999px, 98px, 0); }
+    55% { clip: rect(5px, 9999px, 46px, 0); }
+    60% { clip: rect(82px, 9999px, 31px, 0); }
+    65% { clip: rect(54px, 9999px, 27px, 0); }
+    70% { clip: rect(28px, 9999px, 99px, 0); }
+    75% { clip: rect(45px, 9999px, 69px, 0); }
+    80% { clip: rect(23px, 9999px, 85px, 0); }
+    85% { clip: rect(54px, 9999px, 84px, 0); }
+    90% { clip: rect(45px, 9999px, 47px, 0); }
+    95% { clip: rect(37px, 9999px, 20px, 0); }
+    100% { clip: rect(4px, 9999px, 91px, 0); }
+}
+
+@keyframes glitch-2 {
+    0% { clip: rect(65px, 9999px, 100px, 0); }
+    5% { clip: rect(52px, 9999px, 74px, 0); }
+    10% { clip: rect(79px, 9999px, 85px, 0); }
+    15% { clip: rect(75px, 9999px, 5px, 0); }
+    20% { clip: rect(67px, 9999px, 61px, 0); }
+    25% { clip: rect(14px, 9999px, 79px, 0); }
+    30% { clip: rect(1px, 9999px, 66px, 0); }
+    35% { clip: rect(86px, 9999px, 30px, 0); }
+    40% { clip: rect(23px, 9999px, 98px, 0); }
+    45% { clip: rect(85px, 9999px, 72px, 0); }
+    50% { clip: rect(71px, 9999px, 75px, 0); }
+    55% { clip: rect(2px, 9999px, 48px, 0); }
+    60% { clip: rect(30px, 9999px, 16px, 0); }
+    65% { clip: rect(59px, 9999px, 50px, 0); }
+    70% { clip: rect(41px, 9999px, 62px, 0); }
+    75% { clip: rect(2px, 9999px, 82px, 0); }
+    80% { clip: rect(47px, 9999px, 73px, 0); }
+    85% { clip: rect(3px, 9999px, 27px, 0); }
+    90% { clip: rect(26px, 9999px, 55px, 0); }
+    95% { clip: rect(42px, 9999px, 97px, 0); }
+    100% { clip: rect(38px, 9999px, 49px, 0); }
+}
+
+/* 5. INFO BOXES */
+#editor-preview .info-box {
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-left: 5px solid #ffd93d;
+    background: #ffeaa7;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+#editor-preview .info-box-info {
+    background: #e3f2fd;
+    border-color: #1976d2;
+}
+
+#editor-preview .info-box-success {
+    background: #e8f5e9;
+    border-color: #388e3c;
+}
+
+#editor-preview .info-box-warning {
+    background: #fff3cd;
+    border-color: #f57c00;
+}
+
+#editor-preview .info-box-danger {
+    background: #ffebee;
+    border-color: #d32f2f;
+}
+
+/* 6. FONT SIZE CLASSES */
+#editor-preview .fs-60 { font-size: 60%; }
+#editor-preview .fs-75 { font-size: 75%; }
+#editor-preview .fs-90 { font-size: 90%; }
+#editor-preview .fs-110 { font-size: 110%; }
+#editor-preview .fs-125 { font-size: 125%; }
+
+/* 7. ADMONITIONS */
+#editor-preview .admonition {
+    margin: 20px 0;
+    padding: 15px 20px;
+    border-left: 5px solid;
+    border-radius: 8px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+
+#editor-preview .admonition-title {
+    font-weight: bold;
+    font-size: 1.15em;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#editor-preview .admonition-title::before {
+    font-size: 1.4em;
+}
+
+#editor-preview .admonition-content {
+    line-height: 1.7;
+}
+
+/* NOTE (насыщенный синий) */
+#editor-preview .admonition-note {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    border-color: #1976d2;
+}
+#editor-preview .admonition-note .admonition-title {
+    color: #0d47a1;
+}
+#editor-preview .admonition-note .admonition-title::before {
+    content: "ℹ️";
+}
+
+/* TIP (яркий зеленый) */
+#editor-preview .admonition-tip {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #388e3c;
+}
+#editor-preview .admonition-tip .admonition-title {
+    color: #1b5e20;
+}
+#editor-preview .admonition-tip .admonition-title::before {
+    content: "💡";
+}
+
+/* INFO (бирюзовый) */
+#editor-preview .admonition-info {
+    background: linear-gradient(135deg, #e0f7fa 0%, #b2ebf2 100%);
+    border-color: #0097a7;
+}
+#editor-preview .admonition-info .admonition-title {
+    color: #006064;
+}
+#editor-preview .admonition-info .admonition-title::before {
+    content: "📌";
+}
+
+/* WARNING (яркий оранжевый) */
+#editor-preview .admonition-warning {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    border-color: #f57c00;
+}
+#editor-preview .admonition-warning .admonition-title {
+    color: #e65100;
+}
+#editor-preview .admonition-warning .admonition-title::before {
+    content: "⚠️";
+}
+
+/* DANGER (насыщенный красный) */
+#editor-preview .admonition-danger {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #d32f2f;
+}
+#editor-preview .admonition-danger .admonition-title {
+    color: #b71c1c;
+}
+#editor-preview .admonition-danger .admonition-title::before {
+    content: "🚨";
+}
+
+/* CAUTION (золотой) */
+#editor-preview .admonition-caution {
+    background: linear-gradient(135deg, #fffde7 0%, #fff9c4 100%);
+    border-color: #f9a825;
+}
+#editor-preview .admonition-caution .admonition-title {
+    color: #f57f17;
+}
+#editor-preview .admonition-caution .admonition-title::before {
+    content: "⚡";
+}
+
+/* DOSAGE (насыщенный фиолетовый) */
+#editor-preview .admonition-dosage {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    border-color: #7b1fa2;
+}
+#editor-preview .admonition-dosage .admonition-title {
+    color: #4a148c;
+}
+#editor-preview .admonition-dosage .admonition-title::before {
+    content: "💉";
+}
+
+/* CONTRAINDICATION (яркий пурпурный) */
+#editor-preview .admonition-contraindication {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #c2185b;
+}
+#editor-preview .admonition-contraindication .admonition-title {
+    color: #880e4f;
+}
+#editor-preview .admonition-contraindication .admonition-title::before {
+    content: "🚫";
+}
+
+/* SIDE-EFFECT (янтарный) */
+#editor-preview .admonition-side-effect {
+    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    border-color: #ff8f00;
+}
+#editor-preview .admonition-side-effect .admonition-title {
+    color: #ff6f00;
+}
+#editor-preview .admonition-side-effect .admonition-title::before {
+    content: "⚠️";
+}
+
+/* CLINICAL (изумрудный) */
+#editor-preview .admonition-clinical {
+    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+    border-color: #00796b;
+}
+#editor-preview .admonition-clinical .admonition-title {
+    color: #004d40;
+}
+#editor-preview .admonition-clinical .admonition-title::before {
+    content: "🏥";
+}
+
+/* ANATOMY (коралловый) */
+#editor-preview .admonition-anatomy {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    border-color: #ad1457;
+}
+#editor-preview .admonition-anatomy .admonition-title {
+    color: #880e4f;
+}
+#editor-preview .admonition-anatomy .admonition-title::before {
+    content: "🫀";
+}
+
+/* PHYSIOLOGY (небесно-голубой) */
+#editor-preview .admonition-physiology {
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    border-color: #0277bd;
+}
+#editor-preview .admonition-physiology .admonition-title {
+    color: #01579b;
+}
+#editor-preview .admonition-physiology .admonition-title::before {
+    content: "🧬";
+}
+
+/* SURGERY (лесной зеленый) */
+#editor-preview .admonition-surgery {
+    background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+    border-color: #2e7d32;
+}
+#editor-preview .admonition-surgery .admonition-title {
+    color: #1b5e20;
+}
+#editor-preview .admonition-surgery .admonition-title::before {
+    content: "🔪";
+}
+
+/* ICU (огненно-красный) */
+#editor-preview .admonition-icu {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    border-color: #c62828;
+}
+#editor-preview .admonition-icu .admonition-title {
+    color: #b71c1c;
+}
+#editor-preview .admonition-icu .admonition-title::before {
+    content: "🚑";
+}
+
+/* EVIDENCE (стальной синий) */
+#editor-preview .admonition-evidence {
+    background: linear-gradient(135deg, #eceff1 0%, #cfd8dc 100%);
+    border-color: #455a64;
+}
+#editor-preview .admonition-evidence .admonition-title {
+    color: #263238;
+}
+#editor-preview .admonition-evidence .admonition-title::before {
+    content: "📊";
+}
+
+/* PROTOCOL (глубокий индиго) */
+#editor-preview .admonition-protocol {
+    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
+    border-color: #303f9f;
+}
+#editor-preview .admonition-protocol .admonition-title {
+    color: #1a237e;
+}
+#editor-preview .admonition-protocol .admonition-title::before {
+    content: "📋";
+}
+
+/* Подсветка цифр в редакторе */
+.CodeMirror .cm-number-highlight {
+    background-color: rgba(255, 255, 0, 0.3);
+    color: #ffeb3b;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 0 2px;
+}
+
+/* Стили для заголовков */
+#editor-preview h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 0.3em;
+}
+
+#editor-preview h2 {
+    font-size: 1.75em;
+    margin: 0.75em 0;
+    color: #34495e;
+    border-bottom: 1px solid #bdc3c7;
+    padding-bottom: 0.3em;
+}
+
+#editor-preview h3 {
+    font-size: 1.5em;
+    margin: 0.83em 0;
+    color: #3d566e;
+}
+
+#editor-preview h4 {
+    font-size: 1.25em;
+    margin: 1em 0;
+    color: #526a80;
+}
+
+#editor-preview h5 {
+    font-size: 1.1em;
+    margin: 1.17em 0;
+    color: #677c91;
+}
+
+#editor-preview h6 {
+    font-size: 1em;
+    margin: 1.33em 0;
+    color: #7c8da2;
+    font-weight: bold;
+}
+
+/* ============= СИМВОЛЫ И ЭМОДЗИ ============= */
+/* symbols-panel: old toggle mechanism disabled — now controlled by
+   parent .tool-group-content hover mechanism */
+.symbols-panel {
+    max-height: none;
+    overflow: visible;
+}
+/* keep .expanded class harmless if JS still adds it */
+.symbols-panel.expanded { max-height: none; }
+
+.symbols-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 4px;
+    margin-top: 8px;
+}
+
+.symbol-btn {
+    padding: 8px 4px;
+    background: #3c3c3c;
+    border: 1px solid #555;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.2em;
+    text-align: center;
+    transition: all 0.2s;
+    min-height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.symbol-btn:hover {
+    background: #4c4c4c;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 6px rgba(52, 152, 219, 0.4);
+}
+
+.symbol-btn:active {
+    transform: translateY(0);
+}
+
+/* symbols-toggle: hidden — header collapse handled by tool-group mechanism */
+#symbols-toggle { display: none; }
+
+/* ============= СВОРАЧИВАНИЕ <details> В CODEMIRROR ============= */
+/* Стили для сворачиваемых блоков CodeMirror */
+.CodeMirror-foldmarker {
+    color: #3498db;
+    background-color: rgba(52, 152, 219, 0.2);
+    text-shadow: none;
+    border: 1px solid rgba(52, 152, 219, 0.5);
+    border-radius: 3px;
+    padding: 0 4px;
+    cursor: pointer;
+    font-family: monospace;
+}
+
+.CodeMirror-foldmarker:hover {
+    background-color: rgba(52, 152, 219, 0.4);
+}
+
+.CodeMirror-foldgutter {
+    width: 16px;
+}
+
+.CodeMirror-foldgutter-open,
+.CodeMirror-foldgutter-folded {
+    cursor: pointer;
+    color: #3498db;
+    font-size: 14px;
+}
+
+.CodeMirror-foldgutter-open:after {
+    content: "▼";
+}
+
+.CodeMirror-foldgutter-folded:after {
+    content: "▶";
+}
+
+/* ============= GITHUB SAVE & FORMULA EDITOR ============= */
+
+.btn-github {
+    width: 100%;
+    background: #238636 !important;
+    color: white !important;
+    font-weight: bold;
+    margin-top: 5px !important;
+    border: none;
+    padding: 7px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+.btn-github:hover { background: #2ea043 !important; }
+
+/* Formula modal quick-insert buttons */
+.fm-btn {
+    background: #3c3c3c;
+    border: 1px solid #555;
+    color: #d4d4d4;
+    padding: 3px 7px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: background 0.15s;
+}
+.fm-btn:hover { background: #4c4c4c; color: white; }
+
+/* KaTeX in preview */
+#editor-preview .katex-display {
+    overflow-x: auto;
+    padding: 0.5rem 0;
+    margin: 1rem 0;
+}
+#editor-preview .katex { font-size: 1.05em; }
+
+/* ============= FORMULA PALETTE TABS ============= */
+.fm-tab {
+    background: #3c3c3c;
+    border: 1px solid #555;
+    color: #aaa;
+    padding: 3px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    transition: all 0.15s;
+    white-space: nowrap;
+}
+.fm-tab:hover { background: #4c4c4c; color: #ddd; }
+.fm-tab-active { background: #3498db !important; border-color: #3498db !important; color: white !important; }
+
+.fm-panel { display: none; }
+.fm-panel-active { display: block; }
+
+.fm-label {
+    font-size: 0.7rem;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+}
+
+.fm-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(34px, 1fr));
+    gap: 3px;
+}
+
+.fm-grid .fm-btn {
+    padding: 5px 2px;
+    min-height: 30px;
+    font-size: 0.85rem;
+    text-align: center;
+    justify-content: center;
+}
+
+/* ============= SYNC BUTTON ============= */
+.pane-header {
+    background: #333;
+    padding: 4px 10px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    color: #aaa;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.sync-btn {
+    background: none;
+    border: 1px solid #555;
+    color: #777;
+    cursor: pointer;
+    font-size: 0.68rem;
+    padding: 2px 7px;
+    border-radius: 3px;
+    white-space: nowrap;
+    transition: all 0.15s;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+.sync-btn:hover { border-color: #3498db; color: #3498db; }
+.sync-btn.active { border-color: #27ae60; color: #27ae60; background: rgba(39,174,96,0.1); }
+.sync-btn.active .sync-dot { background: #27ae60; }
+
+.sync-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #555;
+    flex-shrink: 0;
+}
+
+/* Symbols panel inside hover group — grid directly, no nested collapse */
+.symbols-grid-direct {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 3px;
+}
