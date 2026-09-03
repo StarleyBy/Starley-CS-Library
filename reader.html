@@ -29,20 +29,64 @@
                     <span class="nav-text">Library</span>
                 </a>
             </nav>
-            <button id="toc-toggle" class="header-btn"><i class="fas fa-list"></i></button>
+            <button id="toc-toggle" class="header-btn" title="Chapter List (≡)"><i class="fas fa-bars"></i></button>
             <div id="version-selector-container"></div>
-            <button id="favorite-toggle" class="header-btn" title="Add to Favorites"><i class="far fa-heart"></i></button>
-            <a href="search/index.html" class="header-btn" title="🔍 Spotlight Search (Cmd+K)"><i class="fas fa-search"></i></a>
-            <a href="highlights.html" class="header-btn" title="My Highlights & Notes"><i class="fas fa-highlighter"></i></a>
-            <button id="mag-header-btn" class="header-btn" title="Visual Magazine" style="display:none;"><i class="fas fa-newspaper"></i></button>
-            <button id="quiz-header-btn" class="header-btn" title="Clinical Quiz" style="display:none;"><i class="fas fa-brain"></i></button>
-            <button id="bookmark-toggle" class="header-btn" title="Bookmarks"><i class="fas fa-bookmark"></i></button>
-            <button id="focus-toggle" class="header-btn">
-                <i class="fas fa-expand"></i>
-                <i class="fas fa-compress"></i>
+            
+            <!-- Action Curtain Toggle Button (⋮) -->
+            <button id="curtain-toggle-btn" class="header-btn curtain-toggle-btn" title="Quick Actions Sheet">
+                <i class="fas fa-ellipsis-v"></i>
             </button>
         </div>
     </header>
+
+    <!-- Header Action Curtain Sheet -->
+    <div id="header-action-curtain" class="action-curtain-sheet">
+        <div class="curtain-backdrop"></div>
+        <div class="curtain-box">
+            <div class="curtain-header">
+                <span class="curtain-title"><i class="fas fa-sliders-h"></i> Quick Controls</span>
+                <button id="curtain-close-btn" class="curtain-close">✕</button>
+            </div>
+            <div class="curtain-grid">
+                <button class="curtain-chip" data-curtain-action="bookmarks">
+                    <i class="fas fa-bookmark text-amber"></i>
+                    <span>Bookmarks</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="favorites">
+                    <i class="fas fa-heart text-rose"></i>
+                    <span>Favorites</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="focus">
+                    <i class="fas fa-expand text-indigo"></i>
+                    <span>Focus Mode</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="search">
+                    <i class="fas fa-search text-sky"></i>
+                    <span>Search</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="highlights">
+                    <i class="fas fa-highlighter text-yellow"></i>
+                    <span>Highlights</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="magazine">
+                    <i class="fas fa-newspaper text-purple"></i>
+                    <span>Magazine</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="quiz">
+                    <i class="fas fa-brain text-emerald"></i>
+                    <span>Clinical Quiz</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="calc">
+                    <i class="fas fa-calculator text-blue"></i>
+                    <span>Calc</span>
+                </button>
+                <button class="curtain-chip" data-curtain-action="scratchpad">
+                    <i class="fas fa-pen-nib text-green"></i>
+                    <span>Draw Notes</span>
+                </button>
+            </div>
+        </div>
+    </div>
 
     <div class="reader-layout">
         <aside id="reader-sidebar" class="sidebar">

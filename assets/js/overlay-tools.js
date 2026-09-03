@@ -16,23 +16,7 @@
      1. DOM TEMPLATES INJECTION
      ========================================================================== */
   function injectOverlayDOM() {
-    if (document.getElementById('overlay-floating-bar')) return;
-
-    // A. Floating Bar
-    const floatBar = document.createElement('div');
-    floatBar.id = 'overlay-floating-bar';
-    floatBar.className = 'overlay-floating-bar';
-    floatBar.innerHTML = `
-      <div class="overlay-drag-grip" title="Drag to move"><i class="fas fa-grip-vertical"></i></div>
-      <button id="btn-float-calc" class="overlay-float-btn btn-calc" title="Medical Calculator (Bottom Sheet)">
-        <i class="fas fa-calculator"></i> <span>Calc</span>
-      </button>
-      <div class="overlay-floating-divider"></div>
-      <button id="btn-float-scratch" class="overlay-float-btn btn-scratch" title="Scratchpad Canvas">
-        <i class="fas fa-pen-nib"></i> <span>Draw</span>
-      </button>
-    `;
-    document.body.appendChild(floatBar);
+    if (document.getElementById('scratchpad-overlay')) return;
 
     // B. Scratchpad Overlay
     const scratchpad = document.createElement('div');

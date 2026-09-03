@@ -330,11 +330,11 @@
                     <div class="qb-backdrop"></div>
                     <div class="qb-box">
                         <div class="qb-header">
-                            <h3><i class="fas fa-book"></i> Catalog / Выберите книгу</h3>
+                            <h3><i class="fas fa-book-open"></i> Select Book for Tab</h3>
                             <div class="qb-header-actions">
                                 <div class="qb-lang-toggle">
-                                    <button class="qb-lang-btn ${this.catalogLang === 'en' ? 'active' : ''}" data-lang="en">EN</button>
-                                    <button class="qb-lang-btn ${this.catalogLang === 'ru' ? 'active' : ''}" data-lang="ru">RU</button>
+                                    <button class="qb-lang-btn ${this.catalogLang === 'en' ? 'active' : ''}" data-lang="en">🇬🇧 EN</button>
+                                    <button class="qb-lang-btn ${this.catalogLang === 'ru' ? 'active' : ''}" data-lang="ru">🇷🇺 RU</button>
                                 </div>
                                 <button class="qb-close-btn">✕</button>
                             </div>
@@ -445,6 +445,17 @@
             this.pendingTargetTabIndex = null;
         },
 
+        getCategoryIcon(catId, title) {
+            const id = (catId || '').toLowerCase();
+            const t = (title || '').toLowerCase();
+            if (id.includes('cardiac') || t.includes('cardiac')) return '<i class="fas fa-heart-pulse text-rose"></i>';
+            if (id.includes('icu') || t.includes('intensive')) return '<i class="fas fa-notes-medical text-amber"></i>';
+            if (id.includes('thoracic') || t.includes('thoracic')) return '<i class="fas fa-lungs text-sky"></i>';
+            if (id.includes('anatomy') || t.includes('anatomy')) return '<i class="fas fa-bone text-emerald"></i>';
+            if (id.includes('ecg') || t.includes('ecg')) return '<i class="fas fa-wave-square text-purple"></i>';
+            return '<i class="fas fa-book-medical text-sky"></i>';
+        },
+
         renderQuickBookList(query) {
             const container = document.getElementById('qb-book-list');
             if (!container) return;
@@ -459,7 +470,7 @@
             let totalMatchCount = 0;
             let html = '';
 
-            this.libraryCategoriesCache.forEach(cat => {
+            this.libraryCategoriesCache.forEach((cat) => {
                 const matchingBooks = cat.books.filter(b => {
                     if (!q) return true;
                     return (b.title && b.title.toLowerCase().includes(q)) ||
@@ -470,10 +481,15 @@
 
                 if (matchingBooks.length > 0) {
                     totalMatchCount += matchingBooks.length;
+                    const catIcon = this.getCategoryIcon(cat.id, cat.title);
+
                     html += `
-                        <div class="qb-category-group">
-                            <div class="qb-category-title"><i class="fas fa-folder"></i> ${this.escapeHtml(cat.title)}</div>
-                            <div class="qb-category-books">
+                        <div class="qb-category-section">
+                            <div class="qb-category-banner">
+                                <span class="qb-cat-banner-title">${catIcon} ${this.escapeHtml(cat.title)}</span>
+                                <span class="qb-cat-banner-count">${matchingBooks.length} ${matchingBooks.length === 1 ? 'book' : 'books'}</span>
+                            </div>
+                            <div class="qb-tile-grid">
                     `;
 
                     matchingBooks.forEach(book => {
@@ -482,13 +498,15 @@
                         const subtitle = book.author || book.discipline || '';
 
                         html += `
-                            <div class="qb-book-card" data-book-path="${this.escapeHtml(book.path)}" data-book-title="${this.escapeHtml(displayTitle)}">
-                                <img src="${this.escapeHtml(cover)}" alt="cover" class="qb-cover" onerror="this.onerror=null;this.src='assets/img/book-placeholder.png'">
-                                <div class="qb-book-info">
-                                    <div class="qb-book-title">${this.escapeHtml(displayTitle)}</div>
-                                    ${subtitle ? `<div class="qb-book-sub">${this.escapeHtml(subtitle)}</div>` : ''}
+                            <div class="qb-book-tile" data-book-path="${this.escapeHtml(book.path)}" data-book-title="${this.escapeHtml(displayTitle)}">
+                                <div class="qb-tile-cover-wrapper">
+                                    <img src="${this.escapeHtml(cover)}" alt="cover" class="qb-tile-cover" onerror="this.onerror=null;this.src='assets/img/book-placeholder.png'">
+                                    <div class="qb-tile-hover-overlay"><i class="fas fa-plus"></i> Open</div>
                                 </div>
-                                <button class="qb-open-btn"><i class="fas fa-plus"></i> Open</button>
+                                <div class="qb-tile-info">
+                                    <div class="qb-tile-title" title="${this.escapeHtml(displayTitle)}">${this.escapeHtml(displayTitle)}</div>
+                                    ${subtitle ? `<div class="qb-tile-sub" title="${this.escapeHtml(subtitle)}">${this.escapeHtml(subtitle)}</div>` : ''}
+                                </div>
                             </div>
                         `;
                     });
@@ -507,10 +525,10 @@
 
             container.innerHTML = html;
 
-            container.querySelectorAll('.qb-book-card').forEach(card => {
-                card.addEventListener('click', () => {
-                    const path = card.dataset.bookPath;
-                    const title = card.dataset.bookTitle;
+            container.querySelectorAll('.qb-book-tile').forEach(tile => {
+                tile.addEventListener('click', () => {
+                    const path = tile.dataset.bookPath;
+                    const title = tile.dataset.bookTitle;
                     if (path) {
                         const targetIdx = this.pendingTargetTabIndex !== null ? this.pendingTargetTabIndex : this.activeTabIndex;
                         this.closeQuickBookModal();

@@ -28,7 +28,7 @@ export class TocHud {
     this.scrollListener = null;
     this.resizeListener = null;
     this.activeId = null;
-    this.isCollapsed = false;
+    this.isCollapsed = true;
     this.isZen = false;
     this.debounceTimer = null;
 
@@ -57,6 +57,7 @@ export class TocHud {
     this.setupScrollProgressTracker();
     this.setupDraggableTriggers();
     this.bindEvents();
+    this.toggleCollapse(true);
   }
 
   destroy() {

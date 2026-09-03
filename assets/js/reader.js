@@ -798,6 +798,66 @@ function _initRadialMenu() {
             }).catch(err => console.error('Failed to load metadata for feature check:', err));
         }
     }
+
+    // Modular Data-Driven Action Curtain Registry
+    window.ACTION_CURTAIN_REGISTRY = [
+        { id: 'bookmarks',  icon: 'fas fa-bookmark',    color: 'text-amber',   label: 'Bookmarks',   handler: () => document.getElementById('bookmark-toggle')?.click() },
+        { id: 'favorites',  icon: 'fas fa-heart',       color: 'text-rose',    label: 'Favorites',   handler: () => document.getElementById('favorite-toggle')?.click() },
+        { id: 'focus',      icon: 'fas fa-expand',      color: 'text-indigo',  label: 'Focus Mode',  handler: () => document.getElementById('focus-toggle')?.click() },
+        { id: 'search',     icon: 'fas fa-search',      color: 'text-sky',     label: 'Search',      handler: () => window.location.href = 'search/index.html' },
+        { id: 'highlights', icon: 'fas fa-highlighter', color: 'text-yellow',  label: 'Highlights',  handler: () => window.location.href = 'highlights.html' },
+        { id: 'magazine',   icon: 'fas fa-newspaper',   color: 'text-purple',  label: 'Magazine',    handler: () => document.getElementById('mag-header-btn')?.click() },
+        { id: 'quiz',       icon: 'fas fa-brain',       color: 'text-emerald', label: 'Quiz',        handler: () => document.getElementById('quiz-header-btn')?.click() },
+        { id: 'calc',       icon: 'fas fa-calculator',  color: 'text-blue',     label: 'Medical Calc',handler: () => window.StarleyOverlayTools?.MedicalCalc?.show() },
+        { id: 'scratchpad', icon: 'fas fa-pen-nib',     color: 'text-green',    label: 'Draw Notes',  handler: () => window.StarleyOverlayTools?.Scratchpad?.show() }
+    ];
+
+    const curtainToggleBtn = document.getElementById('curtain-toggle-btn');
+    const actionCurtain = document.getElementById('header-action-curtain');
+    const curtainCloseBtn = document.getElementById('curtain-close-btn');
+
+    function renderCurtainChips() {
+        const grid = actionCurtain?.querySelector('.curtain-grid');
+        if (!grid) return;
+        grid.innerHTML = window.ACTION_CURTAIN_REGISTRY.map(item => `
+            <button class="curtain-chip" data-curtain-id="${item.id}">
+                <i class="${item.icon} ${item.color}"></i>
+                <span>${item.label}</span>
+            </button>
+        `).join('');
+
+        grid.querySelectorAll('.curtain-chip').forEach(chip => {
+            chip.addEventListener('click', () => {
+                const id = chip.dataset.curtainId;
+                toggleActionCurtain(false);
+                const regItem = window.ACTION_CURTAIN_REGISTRY.find(x => x.id === id);
+                if (regItem && typeof regItem.handler === 'function') {
+                    regItem.handler();
+                }
+            });
+        });
+    }
+
+    function toggleActionCurtain(open) {
+        if (!actionCurtain) return;
+        const isOpening = typeof open === 'boolean' ? open : !actionCurtain.classList.contains('visible');
+        if (isOpening) renderCurtainChips();
+        actionCurtain.classList.toggle('visible', isOpening);
+    }
+
+    if (curtainToggleBtn) {
+        curtainToggleBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            toggleActionCurtain();
+        });
+    }
+    if (curtainCloseBtn) {
+        curtainCloseBtn.addEventListener('click', () => toggleActionCurtain(false));
+    }
+    if (actionCurtain) {
+        const backdrop = actionCurtain.querySelector('.curtain-backdrop');
+        if (backdrop) backdrop.addEventListener('click', () => toggleActionCurtain(false));
+    }
     if (fontPicker) {
         fontPicker.querySelectorAll('.font-option').forEach(btn => {
             btn.addEventListener('click', (e) => {
