@@ -202,4 +202,7 @@ async function uploadFile(filePath, key) {
   console.log(`   Ошибок:                      ${errorCount}`);
   console.log(`   Передано данных:             ${(totalBytesUploaded / 1024 / 1024).toFixed(2)} MB`);
   console.log('======================================================\n');
+  if (errorCount > 0) {
+    process.exit(1);
+  }
 })();
