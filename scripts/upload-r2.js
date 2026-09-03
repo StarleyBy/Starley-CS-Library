@@ -55,9 +55,15 @@ function printHelp() {
 
 if (!ACCOUNT_ID || !ACCESS_KEY_ID || !SECRET_ACCESS_KEY || !BUCKET_NAME) {
   printHelp();
-  console.error('❌ ОШИБКА: Не заполнена конфигурация R2 в файле .env!');
-  console.error('Пожалуйста, создайте/заполните .env файл по примеру выше и запустите скрипт снова.\n');
-  process.exit(1);
+  if (process.env.GITHUB_ACTIONS === 'true' || process.env.CI) {
+    console.warn('⚠️ GitHub Actions: Не заданы секреты Cloudflare R2 (R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET_NAME).');
+    console.warn('⚠️ Синхронизация медиа с R2 пропущена. Билд продолжается.\n');
+    process.exit(0);
+  } else {
+    console.error('❌ ОШИБКА: Не заполнена конфигурация R2 в файле .env!');
+    console.error('Пожалуйста, создайте/заполните .env файл по примеру выше и запустите скрипт снова.\n');
+    process.exit(1);
+  }
 }
 
 // 2. Инициализация S3 Клиента для Cloudflare R2
