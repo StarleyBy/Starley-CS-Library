@@ -6,8 +6,17 @@ document.addEventListener('DOMContentLoaded', async () => {
         const chapterId = rawChapter.replace(/\.md$/, '');
         const edition = params.get('edition') || 'original';
 
-        if (bookPath) {
-            await initReader(bookPath, chapterId, edition);
+        if (window.TabManager && typeof window.TabManager.init === 'function') {
+            window.TabManager.init(bookPath, chapterId, edition);
+        }
+
+        const activeTab = window.TabManager ? window.TabManager.getActiveTab() : null;
+        const currentBook = activeTab ? activeTab.bookPath : bookPath;
+        const currentChapter = activeTab ? activeTab.chapterId : chapterId;
+        const currentEdition = activeTab ? activeTab.edition : edition;
+
+        if (currentBook) {
+            await initReader(currentBook, currentChapter, currentEdition);
             setupUIEventListeners();
         }
     } catch (e) {
@@ -29,7 +38,12 @@ async function initReader(bookPath, chapterId, edition) {
         const bookMeta = data[0];
         console.log(`[DEBUG] initReader: metadata loaded:`, bookMeta);
 
-        document.getElementById('book-title').textContent = (edition === 'russian' && bookMeta.russian_title) ? bookMeta.russian_title : bookMeta.title;
+        const titleToUse = (edition === 'russian' && bookMeta.russian_title) ? bookMeta.russian_title : bookMeta.title;
+        document.getElementById('book-title').textContent = titleToUse;
+
+        if (window.TabManager && typeof window.TabManager.updateActiveTabMeta === 'function') {
+            window.TabManager.updateActiveTabMeta(titleToUse, chapterId, edition);
+        }
 
         // --- Track Recently Opened ---
         try {
@@ -250,5 +264,17 @@ function setupUIEventListeners() {
 }
 
 function updateUrl(book, chapter, edition) {
+    if (window.TabManager) {
+        const activeTab = window.TabManager.getActiveTab();
+        if (activeTab && activeTab.bookPath === book) {
+            activeTab.chapterId = chapter;
+            activeTab.edition = edition;
+            window.TabManager.saveState();
+            const newUrl = `reader.html?book=${encodeURIComponent(book)}&chapter=${encodeURIComponent(chapter)}&edition=${encodeURIComponent(edition)}`;
+            window.history.replaceState(null, '', newUrl);
+            initReader(book, chapter, edition);
+            return;
+        }
+    }
     window.location.href = `reader.html?book=${book}&chapter=${chapter}&edition=${edition}`;
 }
