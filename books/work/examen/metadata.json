@@ -49,8 +49,13 @@
       },
       {
         "id": "seats2",
-        "label": "⚪⚪SEATS",
+        "label": "⚪⚪SEATS2",
         "file": "quiz/quiz-seats2.json"
+      },
+      {
+        "id": "seats3",
+        "label": "🔴⚪SEATS3",
+        "file": "quiz/quiz-seats3.json"
       }
           ],
     "versions": {
