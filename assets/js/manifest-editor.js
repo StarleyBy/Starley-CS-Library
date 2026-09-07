@@ -2438,4 +2438,11 @@ document.addEventListener('DOMContentLoaded', async () => {
         await _loadManifest();
         _selectItem(itemIndex);
     }
+
+    // Lock window scroll to prevent layout shifting on input focus / scrollIntoView
+    window.addEventListener('scroll', () => {
+        if (window.scrollY !== 0 || window.scrollX !== 0) {
+            window.scrollTo(0, 0);
+        }
+    });
 });
