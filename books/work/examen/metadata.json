@@ -14,48 +14,68 @@
     "quiz_sets": [
       {
         "id": "2020",
-        "label": "🔴2020 & 🟠2021",
+        "label": "🩷2️⃣0️⃣2️⃣0️⃣🇮🇱 & 🧡2️⃣0️⃣2️⃣1️⃣🇮🇱",
         "file": "quiz/quiz-2020.json"
       },
       {
         "id": "2022",
-        "label": "🟡2022",
+        "label": "💛2️⃣0️⃣2️⃣2️⃣🇮🇱",
         "file": "quiz/quiz-2022.json"
       },
       {
         "id": "2023",
-        "label": "🟢2023",
+        "label": "💚2️⃣0️⃣2️⃣3️⃣🇮🇱",
         "file": "quiz/quiz-2023.json"
       },
       {
         "id": "before2023",
-        "label": "🔵2019",
+        "label": "💙2️⃣0️⃣1️⃣9️⃣🇮🇱",
         "file": "quiz/quiz-2019.json"
       },
       {
         "id": "vpsAI",
-        "label": "🟣Congenital, AI",
+        "label": "♥️Congenital, AI🕵️",
         "file": "quiz/quiz-vps.json"
       },
       {
         "id": "common",
-        "label": "🟤Common surgery",
+        "label": "🇮🇱🤎Common surgery",
         "file": "quiz/quiz-surg.json"
       },
       {
         "id": "seats",
-        "label": "⚪SEATS",
+        "label": "🇺🇸📗SEATS",
         "file": "quiz/quiz-seats.json"
       },
       {
         "id": "seats2",
-        "label": "⚪⚪SEATS2",
+        "label": "🇺🇸📘SEATS2",
         "file": "quiz/quiz-seats2.json"
       },
       {
         "id": "seats3",
-        "label": "🔴⚪SEATS3",
+        "label": "🇺🇸📙SEATS3",
         "file": "quiz/quiz-seats3.json"
+      },
+      {
+        "id": "icu",
+        "label": "🧑‍⚕️💊ICU from SEATS🩷",
+        "file": "quiz/quiz-icu.json"
+      },
+      {
+        "id": "adult",
+        "label": "🧑‍⚕️💊Adult from SEATS🧡",
+        "file": "quiz/quiz-adult.json"
+      },
+      {
+        "id": "thoracic",
+        "label": "🧑‍⚕️💊Thoracic from SEATS💛",
+        "file": "quiz/quiz-thoracic.json"
+      },
+      {
+        "id": "congenital",
+        "label": "🧑‍⚕️💊Congenital from SEATS💚",
+        "file": "quiz/quiz-congenital.json"
       }
           ],
     "versions": {
