@@ -1,4 +1,4 @@
-# The Society for Vascular Surgery clinical practice guideline on the management of blunt thoracic aortic injury: Focused update
+# The Society for Vascular Surgery clinical practice guideline on the <strong><span class="t-green">management of blunt thoracic aortic injury</span></strong>: Focused update
 
 <details class="med-details"><summary>
 
@@ -421,38 +421,6 @@ The understanding of BTAI and its optimal management, both medical and surgical,
 
 <details class="med-details"><summary>
 
-## AUTHOR CONTRIBUTIONS</summary><div class="details-content">
-
-Conception and design: JD, RK, MC, ME, MKE, SG, RM, EM, MM, EQ, RR, TS, AA
-Analysis and interpretation: JD, RK, MC, ME, MKE, SG, RM, EM, MM, EQ, RR, TS, AA
-Data collection: MM
-Writing the article: JD, RK, MC, ME, MKE, SG, RM, EM, MM, EQ, RR, TS, AA
-Critical revision of the article: JD, RK, MC, ME, MKE, SG, RM, EM, MM, EQ, RR, TS, AA
-Final approval of the article: JD, RK, MC, ME, MKE, SG, RM, EM, MM, EQ, RR, TS, AA
-Statistical analysis: MM
-Obtained funding: Not applicable
-Overall responsibility: JD
-
-</div></details>
-
-<details class="med-details"><summary>
-
-## FUNDING</summary><div class="details-content">
-
-This work was endorsed by the Aortic Trauma Foundation.
-
-</div></details>
-
-<details class="med-details"><summary>
-
-## DISCLOSURES</summary><div class="details-content">
-
-J.D. is the President (uncompensated) of the nonprofit Aortic Trauma Foundation. M.K.E. has been paid consulting fees by Silk Road and W. L. Gore. R.M. has been paid consulting fees by Terumo Aortic and W. L. Gore. E.Q. is the Vice President of the Aortic Trauma Foundation. M.H.M. leads the Mayo Clinic Evidence-based Practice Center, which received funding from the Society for Vascular Surgery to conduct systematic reviews to support their guidelines. The remaining authors report no conflicts.
-
-</div></details>
-
-<details class="med-details"><summary>
-
 ## APPENDIX (online only). Evidence to Decision Framework Worksheets</summary><div class="details-content">
 
 Strategy/treatment/test/intervention: Nonoperative management of low-grade BTAI (grade 1 and 2)
@@ -464,16 +432,16 @@ Alternative strategy: Operative repair
 
 | Domain | The effects | Judgment |
 |--------|-------------|----------|
-| How substantial are the desirable anticipated effects of the strategy? | No increase in aortic-related mortality was reported with NOM in low-grade BTAI | Trivial / Small / Moderate / Large / Unknown |
-| How substantial are the undesirable anticipated effects? | No difference was noted in mortality, stroke, or mediastinal hematoma between NOM and TEVAR for low-grade BTAI. The rate of acute renal failure (ARF) of 9% noted in the literature was not encountered in the clinical practice of the expert panel. | Trivial / Small / Moderate / Large / Unknown |
-| Do the desirable effects outweigh the undesirable effects? | — | No / Probably no / Probably yes / Yes / Unknown |
-| Is there important uncertainty or variability about how much people value the main outcomes? | Studies about the topic / Panel input | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / No important uncertainty or variability |
-| What is the overall certainty of the evidence of effects? | — | Very low / Low / Moderate / High |
-| How large are the resource requirements associated with the intervention? | Low compared with operative repair | Large costs / Moderate costs / Small costs / Unknown |
-| How large is the incremental cost relative to the net benefit? | Low cost of NOM with evident benefit | Large ICER / Moderate ICER / Small ICER / Savings / Unknown |
-| What would be the impact on health inequities? | No evidence | Likely lower disparities (surgery may be inaccessible to under/uninsured (rural areas) / Worsened / Probably worsened / Probably improved / Improved / Unknown |
-| Is the option acceptable to key stakeholders? | Yes, there seems to be relative buy-in to nonoperative management of low-grade injuries. | No / Probably no / Probably yes / Yes / Unknown |
-| Is the option feasible to implement? | Yes, already done at most centers | No / Probably no / Probably yes / Yes / Unknown |
+| How substantial are the desirable anticipated effects of the strategy? | No increase in aortic-related mortality was reported with NOM in low-grade BTAI | Trivial / Small / <span class="t-teal"><strong>Moderate</strong></span> / Large / Unknown |
+| How substantial are the undesirable anticipated effects? | No difference was noted in mortality, stroke, or mediastinal hematoma between NOM and TEVAR for low-grade BTAI. The rate of acute renal failure (ARF) of 9% noted in the literature was not encountered in the clinical practice of the expert panel. | Trivial / Small / Moderate / Large / <strong><span class="t-teal">Unknown</span></strong> |
+| Do the desirable effects outweigh the undesirable effects? | — | No / Probably no / <span class="t-teal"><strong>Probably yes</strong></span> / Yes / Unknown |
+| Is there important uncertainty or variability about how much people value the main outcomes? | Studies about the topic / Panel input | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / <strong><span class="t-teal">No important uncertainty or variability</span></strong> |
+| What is the overall certainty of the evidence of effects? | — | Very low / <strong><span class="t-teal">Low</span></strong> / Moderate / High |
+| How large are the resource requirements associated with the intervention? | Low compared with operative repair | <strong><span class="t-teal">Large costs</span></strong> / Moderate costs / Small costs / Unknown |
+| How large is the incremental cost relative to the net benefit? | Low cost of NOM with evident benefit | <span class="t-teal"><strong>Large ICER</strong></span> / Moderate ICER / Small ICER / Savings / Unknown |
+| What would be the impact on health inequities? | No evidence | Likely lower disparities (surgery may be inaccessible to under/uninsured (rural areas) / Worsened / Probably worsened / Probably improved / Improved / <span class="t-teal"><strong>Unknown</strong></span> |
+| Is the option acceptable to key stakeholders? | Yes, there seems to be relative buy-in to nonoperative management of low-grade injuries. | No / Probably no / <span class="t-teal"><strong>Probably yes</strong></span> / Yes / Unknown |
+| Is the option feasible to implement? | Yes, already done at most centers | No / Probably no / Probably yes / <strong><span class="t-teal">Yes</span></strong> / Unknown |
 | Type of recommendation | We recommend against the option or for the alternative / We suggest not to use the option or to use the alternative / We suggest using either the option or the alternative / We suggest using the option | — |
 
 </div></details>
@@ -487,16 +455,16 @@ Alternative strategy: Urgent (< 24 hours) repair of grade 3 BTAI
 
 | Domain | The effects | Judgment |
 |--------|-------------|----------|
-| How substantial are the desirable anticipated effects of the strategy? | Significant: reduction in mortality (4.3% late vs 9.7% early) | Trivial / Small / Moderate / Large / Unknown |
-| How substantial are the undesirable anticipated effects? | Potential risk of interval rupture or complications (low); Potential increase in length of stay (low) | Trivial / Small / Moderate / Large / Unknown |
-| Do the desirable effects outweigh the undesirable effects? | — | No / Probably no / Probably yes / Yes / Unknown |
-| Is there important uncertainty or variability about how much people value the main outcomes? | Studies about the topic / Panel input | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / No important uncertainty or variability |
-| What is the overall certainty of the evidence of effects? | — | Very low / Low / Moderate / High |
-| How large are the resource requirements associated with the intervention? | Moderate; potential small increase in length of stay | Large costs / Moderate costs / Small costs / Unknown |
-| How large is the incremental cost relative to the net benefit? | Unknown | Large ICER / Moderate ICER / Small ICER / Savings / Unknown |
-| What would be the impact on health inequities? | Not studied | Worsened / Probably worsened / Probably improved / Improved / Unknown |
-| Is the option acceptable to key stakeholders? | Seems to be agreeable to multiple parties | No / Probably no / Probably yes / Yes / Unknown |
-| Is the option feasible to implement? | Already done in major centers | No / Probably no / Probably yes / Yes / Unknown |
+| How substantial are the desirable anticipated effects of the strategy? | Significant: reduction in mortality (4.3% late vs 9.7% early) | Trivial / Small / Moderate / Large / <span class="t-red">Unknown</span> |
+| How substantial are the undesirable anticipated effects? | Potential risk of interval rupture or complications (low); Potential increase in length of stay (low) | Trivial / Small / Moderate / Large / <span class="t-red">Unknown</span> |
+| Do the desirable effects outweigh the undesirable effects? | — | No / Probably no / <span class="t-red">Probably yes</span> / Yes / Unknown |
+| Is there important uncertainty or variability about how much people value the main outcomes? | Studies about the topic / Panel input | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / <span class="t-red">No important uncertainty or variability</span> |
+| What is the overall certainty of the evidence of effects? | — | <span class="t-red">Very low</span> / Low / Moderate / High |
+| How large are the resource requirements associated with the intervention? | Moderate; potential small increase in length of stay | Large costs / Moderate costs / <span class="t-red">Small costs</span> / Unknown |
+| How large is the incremental cost relative to the net benefit? | Unknown | Large ICER / Moderate ICER / Small ICER / Savings / <span class="t-red">Unknown</span> |
+| What would be the impact on health inequities? | Not studied | Worsened / Probably worsened / Probably improved / Improved / <span class="t-red">Unknown</span> |
+| Is the option acceptable to key stakeholders? | Seems to be agreeable to multiple parties | No / Probably no / <span class="t-red">Probably yes</span> / Yes / Unknown |
+| Is the option feasible to implement? | Already done in major centers | No / Probably no / Probably yes / <span class="t-red">Yes</span> / Unknown |
 | Type of recommendation | We recommend against the option or for the alternative / We suggest not to use the option or to use the alternative / We suggest using either the option or the alternative | — |
 
 </div></details>
@@ -510,16 +478,16 @@ Alternative strategy: Revascularize the LSA during TEVAR for trauma
 
 | Domain | The effects | Judgment |
 |--------|-------------|----------|
-| How substantial are the desirable anticipated effects of the strategy? | Decreased operative time; Decreased blood loss; Decreased need for anticoagulation (evidence predates approval of branched TEVAR [TBE] device) | Trivial / Small / Moderate / Large / Unknown |
-| How substantial are the undesirable anticipated effects? | Left arm pain; Left arm ischemia; Romagnoli data; Late stroke — 1/10 w revascularization vs 6/97 NR and early stroke 0/10 vs 2/97; Paralysis 0/10 w/R vs 3/97 w/NR; Arm ischemia. Emboli — 0/10 vs 2/97 | Trivial / Small / Moderate / Large / Unknown |
-| Do the desirable effects outweigh the undesirable effects? | Can save a large percentage of patients from needing revascularization. | No / Probably no / Probably yes / Yes / Unknown |
+| How substantial are the desirable anticipated effects of the strategy? | Decreased operative time; Decreased blood loss; Decreased need for anticoagulation (evidence predates approval of branched TEVAR [TBE] device) | Trivial / Small / <span class="t-indigo">Moderate</span> / Large / Unknown |
+| How substantial are the undesirable anticipated effects? | Left arm pain; Left arm ischemia; Romagnoli data; Late stroke — 1/10 w revascularization vs 6/97 NR and early stroke 0/10 vs 2/97; Paralysis 0/10 w/R vs 3/97 w/NR; Arm ischemia. Emboli — 0/10 vs 2/97 | Trivial / <span class="t-indigo">Small</span> / Moderate / Large / Unknown |
+| Do the desirable effects outweigh the undesirable effects? | Can save a large percentage of patients from needing revascularization. | No / Probably no / <span class="t-indigo">Probably yes</span> / Yes / Unknown |
 | Is there important uncertainty or variability about how much people value the main outcomes? | Uchida 2019; Romagnoli | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / No important uncertainty or variability |
-| What is the overall certainty of the evidence of effects? | — | Very low / Low / Moderate / High |
-| How large are the resource requirements associated with the intervention? | — | Large costs / Moderate costs / Small costs / Unknown |
-| How large is the incremental cost relative to the net benefit? | — | Large ICER / Moderate ICER / Small ICER / Savings / Unknown |
-| What would be the impact on health inequities? | — | Worsened / Probably worsened / Probably improved / Improved / Unknown |
-| Is the option acceptable to key stakeholders? | — | No / Probably no / Probably yes / Yes / Unknown |
-| Is the option feasible to implement? | — | No / Probably no / Probably yes / Yes / Unknown |
+| What is the overall certainty of the evidence of effects? | — | <span class="t-indigo">Very low</span> / Low / Moderate / High |
+| How large are the resource requirements associated with the intervention? | — | Large costs / <span class="t-indigo">Moderate costs</span> / Small costs / Unknown |
+| How large is the incremental cost relative to the net benefit? | — | Large ICER / Moderate ICER / <span class="t-indigo">Small ICER</span> / Savings / Unknown |
+| What would be the impact on health inequities? | — | Worsened / Probably worsened / Probably improved / Improved / <span class="t-indigo">Unknown</span> |
+| Is the option acceptable to key stakeholders? | — | No / Probably no / <span class="t-indigo">Probably yes</span> / Yes / Unknown |
+| Is the option feasible to implement? | — | No / Probably no / <span class="t-indigo">Probably yes</span> / Yes / Unknown |
 | Type of recommendation | We recommend against the option or for the alternative / We suggest not to use the option or to use the alternative / We suggest using either the option or the alternative / We suggest using the option / We recommend the option | — |
 
 </div></details>
@@ -533,16 +501,16 @@ Alternative strategy: No anticoagulation during TEVAR
 
 | Domain | The effects | Judgment |
 |--------|-------------|----------|
-| How substantial are the desirable anticipated effects of the strategy? | The use of anticoagulation during the performance of TEVAR is thought to reduce the risk of stroke and access site thromboembolic events (event rates of access complication potentially as high as 8%, PMID 20644131). The risk of stroke directly attributable to the performance of TEVAR without the use of anticoagulation in this setting is not known. The risk reduction of either stroke or access site complications is not specifically known. | Trivial / Small / Moderate / Large / Unknown |
-| How substantial are the undesirable anticipated effects? | The undesirable effects of using anticoagulation during the performance of TEVAR for BTAI in the setting of TBI are likely small, although the data are observational and limited. Data related to the use of anticoagulation in the setting of TEVAR in the early presentation of TBI associated with ICH are very limited. Observational studies demonstrating its use in more delayed repairs suggest that the risks are small or trivial (PMID: 33359706) | Trivial / Small / Moderate / Large / Unknown |
-| Do the desirable effects outweigh the undesirable effects? | Reduced mortality signal; two observational studies (potential confounding bias/patient selection impact unknown) | No / Probably no / Probably yes / Yes / Unknown |
-| Is there important uncertainty or variability about how much people value the main outcomes? | Quiroga (PMID 33359706); Garcia-Toca (PMID 20644131) | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / No important uncertainty or variability |
-| What is the overall certainty of the evidence of effects? | — | Very low / Low / Moderate / High |
-| How large are the resource requirements associated with the intervention? | — | Large costs / Moderate costs / Small costs / Unknown |
-| How large is the incremental cost-effectiveness relative to the net benefit? | — | Large ICER / Moderate ICER / Small ICER / Savings / Unknown |
-| What would be the impact on health inequities? | — | Worsened / Probably worsened / Probably improved / Improved / Unknown |
-| Is the option acceptable to key stakeholders? | All decisions regarding anticoagulation for the individual patient should be made in consultation with all stakeholders (including the multidisciplinary trauma team) | No / Probably no / Probably yes / Yes / Unknown |
-| Is the option feasible to implement? | — | No / Probably no / Probably yes / Yes / Unknown |
+| How substantial are the desirable anticipated effects of the strategy? | The use of anticoagulation during the performance of TEVAR is thought to reduce the risk of stroke and access site thromboembolic events (event rates of access complication potentially as high as 8%, PMID 20644131). The risk of stroke directly attributable to the performance of TEVAR without the use of anticoagulation in this setting is not known. The risk reduction of either stroke or access site complications is not specifically known. | Trivial / Small / Moderate / Large / <span class="t-blue">Unknown</span> |
+| How substantial are the undesirable anticipated effects? | The undesirable effects of using anticoagulation during the performance of TEVAR for BTAI in the setting of TBI are likely small, although the data are observational and limited. Data related to the use of anticoagulation in the setting of TEVAR in the early presentation of TBI associated with ICH are very limited. Observational studies demonstrating its use in more delayed repairs suggest that the risks are small or trivial (PMID: 33359706) | Trivial / Small / Moderate / Large / <span class="t-blue">Unknown</span> |
+| Do the desirable effects outweigh the undesirable effects? | Reduced mortality signal; two observational studies (potential confounding bias/patient selection impact unknown) | No / Probably no / <span class="t-blue">Probably yes</span> / Yes / Unknown |
+| Is there important uncertainty or variability about how much people value the main outcomes? | Quiroga (PMID 33359706); Garcia-Toca (PMID 20644131) | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / <span class="t-blue">No important uncertainty or variability</span> |
+| What is the overall certainty of the evidence of effects? | — | <span class="t-blue">Very low</span> / Low / Moderate / High |
+| How large are the resource requirements associated with the intervention? | — | Large costs / Moderate costs / <span class="t-blue">Small costs</span> / Unknown |
+| How large is the incremental cost-effectiveness relative to the net benefit? | — | Large ICER / Moderate ICER / Small ICER / Savings / <span class="t-blue">Unknown</span> |
+| What would be the impact on health inequities? | — | Worsened / Probably worsened / Probably improved / Improved / <span class="t-blue">Unknown</span> |
+| Is the option acceptable to key stakeholders? | All decisions regarding anticoagulation for the individual patient should be made in consultation with all stakeholders (including the multidisciplinary trauma team) | No / Probably no / <span class="t-blue">Probably yes</span> / Yes / Unknown |
+| Is the option feasible to implement? | — | No / Probably no / Probably yes / <span class="t-blue">Yes</span> / Unknown |
 | Type of recommendation | We recommend against the option or for the alternative / We suggest not to use the option or to use the alternative / We suggest using either the option or the alternative / We suggest using the option / We recommend the option | — |
 
 </div></details>
@@ -556,26 +524,26 @@ Alternative strategy: Less frequent imaging and noncontrast low-dose CT after 2 
 
 | Domain | The effects | Judgment |
 |--------|-------------|----------|
-| How substantial are the desirable anticipated effects of the strategy? | Finding an actionable complication of stent grafting | Trivial / Small / Moderate / Large / Unknown |
-| How substantial are the undesirable anticipated effects? | Radiation exposure, contrast nephropathy, and cost | Trivial / Small / Moderate / Large / Unknown |
-| Do the desirable effects outweigh the undesirable effects? | Identification of radiographic complications before clinical events | No / Probably no / Probably yes / Yes / Unknown |
+| How substantial are the desirable anticipated effects of the strategy? | Finding an actionable complication of stent grafting | Trivial / Small / <span class="t-red">Moderate</span> / Large / Unknown |
+| How substantial are the undesirable anticipated effects? | Radiation exposure, contrast nephropathy, and cost | Trivial / <span class="t-red">Small</span> / Moderate / Large / Unknown |
+| Do the desirable effects outweigh the undesirable effects? | Identification of radiographic complications before clinical events | No / Probably no / <span class="t-red">Probably yes</span> / Yes / Unknown |
 | Is there important uncertainty or variability about how much people value the main outcomes? | None; Consensus/expert opinion | Important uncertainty or variability / Possibly important uncertainty or variability / Probably no important uncertainty or variability / No important uncertainty or variability |
-| What is the overall certainty of the evidence of effects? | — | Very low / Low / Moderate / High |
-| How large are the resource requirements associated with the intervention? | — | Large costs / Moderate costs / Small costs / Unknown |
-| How large is the incremental cost relative to the net benefit? | — | Large ICER / Moderate ICER / Small ICER / Savings / Unknown |
-| What would be the impact on health inequities? | — | Worsened / Probably worsened / Probably improved / Improved / Unknown |
-| Is the option acceptable to key stakeholders? | — | No / Probably no / Probably yes / Yes / Unknown |
-| Is the option feasible to implement? | — | No / Probably no / Probably yes / Yes / Unknown |
+| What is the overall certainty of the evidence of effects? | — | <span class="t-red">Very low</span> / Low / Moderate / High |
+| How large are the resource requirements associated with the intervention? | — | Large costs / <span class="t-red">Moderate costs</span> / Small costs / Unknown |
+| How large is the incremental cost relative to the net benefit? | — | Large ICER / Moderate ICER / <span class="t-red">Small ICER</span> / Savings / Unknown |
+| What would be the impact on health inequities? | — | Worsened / Probably worsened / Probably improved / Improved / <span class="t-red">Unknown</span> |
+| Is the option acceptable to key stakeholders? | — | No / Probably no / <span class="t-red">Probably yes</span> / Yes / Unknown |
+| Is the option feasible to implement? | — | No / Probably no / <span class="t-red">Probably yes</span> / Yes / Unknown |
 | Type of recommendation | We recommend against the option or for the alternative / We suggest not to use the option or to use the alternative / We suggest using either the option or the alternative | — |
 
 </div></details>
 
 </div></details>
 
-<span id="fig-1"></span>![](fig1_btai_management_algorithm.jpeg)
+<span id="fig-1"></span>![](fig1_btai_management_algorithm.jpg)
 
 **FIGURE 1** Summary of current clinical practice guideline for management of blunt thoracic aortic injury (BTAI). CPC, Clinical practice guideline; CTA, computed tomography angiography; FU, follow-up; NOM, nonoperative management; SVS, Society for Vascular Surgery; TEVAR, thoracic endovascular aortic repair.
 
-<span id="fig-2"></span>![](fig2_traumatic_aortic_injury_classification.jpeg)
+<span id="fig-2"></span>![](fig2_traumatic_aortic_injury_classification.jpg)
 
 **FIGURE 2** Classification of traumatic aortic injury.
