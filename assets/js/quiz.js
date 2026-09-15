@@ -109,18 +109,97 @@ function getQuestionMastery(q) {
     const key = getQuestionKey(q);
     const stored = localStorage.getItem(key);
     if (!stored) {
-        return { state: 'red', consecutiveCorrect: 0 };
+        return { state: 'unseen', consecutiveCorrect: 0, views: 0 };
     }
     try {
-        return JSON.parse(stored);
+        const parsed = JSON.parse(stored);
+        if (!parsed.state) parsed.state = 'unseen';
+        return parsed;
     } catch (e) {
-        return { state: 'red', consecutiveCorrect: 0 };
+        return { state: 'unseen', consecutiveCorrect: 0, views: 0 };
     }
 }
 
 function saveQuestionMastery(q, mastery) {
     const key = getQuestionKey(q);
+    mastery.views = (mastery.views || 0) + 1;
+    mastery.lastSeen = Date.now();
     localStorage.setItem(key, JSON.stringify(mastery));
+}
+
+/**
+ * Smart Sampler Algorithm:
+ * Guarantees 100% question coverage of selected manifests over multiple quiz runs.
+ *
+ * Priorities:
+ * 1. Unseen questions (views === 0): Target 60% of session count.
+ * 2. Weak questions (state === 'red' or errors): Target 30% of session count.
+ * 3. Mastered questions (state === 'green' / 'yellow'): Target 10% of session count.
+ *
+ * Dynamic Overflow:
+ * If any bucket has fewer questions than quota (e.g. 100% of questions are already seen),
+ * quota transfers dynamically to remaining buckets for spaced repetition.
+ */
+function sampleSmartQuestions(allQuestionsList, requestedCount) {
+    if (allQuestionsList.length <= requestedCount) {
+        return shuffleArray([...allQuestionsList]);
+    }
+
+    const bucketUnseen = [];
+    const bucketWeak = [];
+    const bucketMastered = [];
+
+    allQuestionsList.forEach(q => {
+        const mastery = getQuestionMastery(q);
+        if (mastery.views === 0 || mastery.state === 'unseen') {
+            bucketUnseen.push(q);
+        } else if (mastery.state === 'red') {
+            bucketWeak.push(q);
+        } else {
+            bucketMastered.push(q);
+        }
+    });
+
+    let quotaUnseen = Math.round(requestedCount * 0.6);
+    let quotaWeak = Math.round(requestedCount * 0.3);
+    let quotaMastered = requestedCount - quotaUnseen - quotaWeak;
+
+    const shuffledUnseen = shuffleArray(bucketUnseen);
+    const shuffledWeak = shuffleArray(bucketWeak);
+    const shuffledMastered = shuffleArray(bucketMastered);
+
+    let takeUnseen = Math.min(shuffledUnseen.length, quotaUnseen);
+    let takeWeak = Math.min(shuffledWeak.length, quotaWeak);
+    let takeMastered = Math.min(shuffledMastered.length, quotaMastered);
+
+    let totalTaken = takeUnseen + takeWeak + takeMastered;
+    let deficit = requestedCount - totalTaken;
+
+    if (deficit > 0) {
+        const remainingUnseen = shuffledUnseen.slice(takeUnseen);
+        const fillUnseen = Math.min(remainingUnseen.length, deficit);
+        takeUnseen += fillUnseen;
+        deficit -= fillUnseen;
+    }
+    if (deficit > 0) {
+        const remainingWeak = shuffledWeak.slice(takeWeak);
+        const fillWeak = Math.min(remainingWeak.length, deficit);
+        takeWeak += fillWeak;
+        deficit -= fillWeak;
+    }
+    if (deficit > 0) {
+        const remainingMastered = shuffledMastered.slice(takeMastered);
+        const fillMastered = Math.min(remainingMastered.length, deficit);
+        takeMastered += fillMastered;
+        deficit -= fillMastered;
+    }
+
+    const selectedUnseen = shuffledUnseen.slice(0, takeUnseen);
+    const selectedWeak = shuffledWeak.slice(0, takeWeak);
+    const selectedMastered = shuffledMastered.slice(0, takeMastered);
+
+    let finalBatch = [...selectedUnseen, ...selectedWeak, ...selectedMastered];
+    return shuffleArray(finalBatch);
 }
 
 let audioCtx = null;
@@ -325,6 +404,7 @@ async function initQuizApp() {
 
         renderQuizSets();
         setupLobbyListeners();
+        setupProfileListeners();
         setupQuestionListeners();
         setupResultsListeners();
         setupPreviewModal();
@@ -648,6 +728,32 @@ function renderCustomSetOption(parentContainer, count, bookPath, bookTitle) {
     parentContainer.appendChild(div);
 }
 
+function renderFavoritesSetOption(parentContainer, count) {
+    const isRu = state.settings.lang === 'Ru';
+    const set = {
+        id: 'favorites',
+        file: '',
+        label: isRu ? `Избранные вопросы (${count})` : `Starred Favorites (${count})`
+    };
+    const isSelected = state.selectedSets.some(s => s.setId === 'favorites');
+    const div = document.createElement('div');
+    div.className = `set-option favorites-set-option ${isSelected ? 'active' : ''}`;
+    div.style.borderColor = 'rgba(234, 179, 8, 0.4)';
+    div.style.background = isSelected ? 'rgba(234, 179, 8, 0.15)' : 'rgba(13, 17, 23, 0.6)';
+    div.innerHTML = `
+        <span class="set-checkbox-icon"><i class="${isSelected ? 'fas fa-check-square' : 'far fa-square'}"></i></span>
+        <span class="set-label" style="color: #f59e0b; font-weight: 700;"><span style="margin-right:6px">⭐</span>${set.label}</span>
+    `;
+    div.onclick = async () => {
+        toggleSetSelection('favorites', set, 'Starred Favorites');
+        const stillSelected = state.selectedSets.some(s => s.setId === 'favorites');
+        div.classList.toggle('active', stillSelected);
+        div.style.background = stillSelected ? 'rgba(234, 179, 8, 0.15)' : 'rgba(13, 17, 23, 0.6)';
+        div.querySelector('.set-checkbox-icon i').className = stillSelected ? 'fas fa-check-square' : 'far fa-square';
+    };
+    parentContainer.appendChild(div);
+}
+
 function renderQuizSets() {
     const container = document.getElementById('quiz-set-list');
     container.innerHTML = '';
@@ -801,6 +907,8 @@ async function updateSliderForSelectedSets() {
         }
     }
 
+    updatePresetBadgeActiveState();
+
     const startBtn = document.getElementById('btn-start-quiz');
     if (startBtn) {
         startBtn.disabled = state.selectedSets.length === 0;
@@ -808,6 +916,433 @@ async function updateSliderForSelectedSets() {
     
     // Update Spaced Repetition Radar / Mastery dashboard on selected sets change
     updateWeakSpotRadar();
+}
+
+function updatePresetBadgeActiveState() {
+    const presetBtns = document.querySelectorAll('.preset-badge-btn');
+    const slider = document.getElementById('setting-count');
+    const valCount = document.getElementById('val-count');
+    const maxVal = slider ? parseInt(slider.max) : 300;
+    const currentVal = state.settings.count;
+    const isRu = state.settings.lang === 'Ru';
+
+    presetBtns.forEach(btn => {
+        const countAttr = btn.dataset.count;
+        if (countAttr === 'all') {
+            const isAll = (currentVal >= maxVal || currentVal === 'all' || (maxVal > 0 && currentVal === maxVal));
+            btn.classList.toggle('active', isAll);
+        } else {
+            const countNum = parseInt(countAttr);
+            btn.classList.toggle('active', currentVal === countNum);
+        }
+    });
+
+    if (valCount) {
+        if (currentVal >= maxVal || currentVal === 'all' || (maxVal > 0 && currentVal === maxVal)) {
+            valCount.textContent = isRu ? 'Все' : 'All';
+        } else {
+            valCount.textContent = currentVal;
+        }
+    }
+}
+
+// ==========================================================================
+// USER PROFILE & AVATAR PROGRESS MANAGEMENT MODULE
+// ==========================================================================
+
+const AVATAR_ICONS_MAP = {
+    doc: 'fas fa-stethoscope',
+    heart: 'fas fa-heart-pulse',
+    brain: 'fas fa-brain',
+    flask: 'fas fa-flask-vial',
+    bolt: 'fas fa-bolt',
+    titan: 'fas fa-dumbbell',
+    guru: 'fas fa-spa',
+    rocket: 'fas fa-rocket'
+};
+
+function loadUserProfile() {
+    try {
+        const stored = localStorage.getItem('starley_user_profile');
+        if (stored) {
+            return JSON.parse(stored);
+        }
+    } catch (e) {}
+    
+    const defaultProf = {
+        nickname: 'Starley Doctor',
+        avatar: 'doc',
+        streak: 1,
+        lastActiveDate: new Date().toDateString(),
+        totalSolved: 0,
+        correctCount: 0
+    };
+    saveUserProfile(defaultProf);
+    return defaultProf;
+}
+
+function saveUserProfile(profile) {
+    try {
+        localStorage.setItem('starley_user_profile', JSON.stringify(profile));
+    } catch (e) {}
+}
+
+function updateUserProfileDisplay() {
+    const profile = state.userProfile || loadUserProfile();
+    state.userProfile = profile;
+
+    const nickDisplay = document.getElementById('profile-nickname-display');
+    const avatarIcon = document.getElementById('profile-avatar-icon');
+    const statStreak = document.getElementById('profile-stat-streak');
+    const statSolved = document.getElementById('profile-stat-solved');
+    const statAcc = document.getElementById('profile-stat-accuracy');
+    const levelBadge = document.getElementById('profile-level-badge');
+
+    if (nickDisplay) nickDisplay.textContent = profile.nickname || 'Starley Doctor';
+    
+    if (avatarIcon) {
+        avatarIcon.className = `avatar-glow-ring avatar-${profile.avatar || 'doc'}`;
+        const iconTag = avatarIcon.querySelector('i');
+        if (iconTag) {
+            iconTag.className = AVATAR_ICONS_MAP[profile.avatar] || 'fas fa-stethoscope';
+        }
+    }
+
+    if (statStreak) statStreak.textContent = profile.streak || 1;
+    if (statSolved) statSolved.textContent = profile.totalSolved || 0;
+    
+    const accPct = profile.totalSolved > 0 ? Math.round((profile.correctCount / profile.totalSolved) * 100) : 0;
+    if (statAcc) statAcc.textContent = `${accPct}%`;
+
+    const level = Math.floor((profile.totalSolved || 0) / 25) + 1;
+    const isRu = state.settings.lang === 'Ru';
+    let levelTitle = isRu ? 'Резидент' : 'Resident';
+    if (level >= 10) levelTitle = isRu ? 'Шеф / Эксперт' : 'Chief Specialist';
+    else if (level >= 5) levelTitle = isRu ? 'Врач' : 'Attending';
+    else if (level >= 3) levelTitle = isRu ? 'Старший Fellow' : 'Senior Fellow';
+
+    if (levelBadge) {
+        levelBadge.textContent = `Lv.${level} ${levelTitle}`;
+    }
+}
+
+function setupProfileListeners() {
+    updateUserProfileDisplay();
+
+    const profileModal = document.getElementById('quiz-profile-modal');
+    const btnOpenModal = document.getElementById('btn-open-profile-modal');
+    const avatarBtnLobby = document.getElementById('profile-avatar-btn');
+    const btnCloseModal = document.getElementById('btn-close-profile-modal');
+    const btnSaveProfile = document.getElementById('btn-save-profile');
+    const nickInput = document.getElementById('input-profile-nickname');
+    const avatarOpts = document.querySelectorAll('.avatar-opt-btn');
+
+    let selectedAvatar = state.userProfile ? state.userProfile.avatar : 'doc';
+
+    const openModal = () => {
+        if (!profileModal) return;
+        selectedAvatar = state.userProfile ? state.userProfile.avatar : 'doc';
+        if (nickInput) nickInput.value = state.userProfile ? state.userProfile.nickname : 'Starley Doctor';
+        
+        avatarOpts.forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.avatar === selectedAvatar);
+        });
+
+        profileModal.style.display = 'flex';
+        playSound('click');
+        triggerHaptic('click');
+    };
+
+    const closeModal = () => {
+        if (profileModal) profileModal.style.display = 'none';
+    };
+
+    if (btnOpenModal) btnOpenModal.onclick = openModal;
+    if (avatarBtnLobby) avatarBtnLobby.onclick = openModal;
+    if (btnCloseModal) btnCloseModal.onclick = closeModal;
+
+    avatarOpts.forEach(btn => {
+        btn.onclick = () => {
+            selectedAvatar = btn.dataset.avatar;
+            avatarOpts.forEach(b => b.classList.toggle('active', b.dataset.avatar === selectedAvatar));
+            playSound('click');
+            triggerHaptic('click');
+        };
+    });
+
+    if (btnSaveProfile) {
+        btnSaveProfile.onclick = () => {
+            const newNick = nickInput ? nickInput.value.trim() : 'Starley Doctor';
+            state.userProfile.nickname = newNick || 'Starley Doctor';
+            state.userProfile.avatar = selectedAvatar || 'doc';
+            saveUserProfile(state.userProfile);
+            updateUserProfileDisplay();
+            closeModal();
+            playSound('correct');
+            triggerHaptic('correct');
+        };
+    }
+
+    // Export & Import handlers
+    const btnExport = document.getElementById('btn-export-progress');
+    if (btnExport) {
+        btnExport.onclick = () => {
+            const dumpData = {};
+            for (let i = 0; i < localStorage.length; i++) {
+                const key = localStorage.key(i);
+                if (key.startsWith('starley_')) {
+                    dumpData[key] = localStorage.getItem(key);
+                }
+            }
+            const blob = new Blob([JSON.stringify(dumpData, null, 2)], { type: 'application/json' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = `starley_quiz_progress_${Date.now()}.json`;
+            a.click();
+            playSound('click');
+        };
+    }
+
+    const btnImportTrigger = document.getElementById('btn-import-progress-trigger');
+    const inputImportFile = document.getElementById('input-import-file');
+    if (btnImportTrigger && inputImportFile) {
+        btnImportTrigger.onclick = () => inputImportFile.click();
+        inputImportFile.onchange = (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+            const reader = new FileReader();
+            reader.onload = (event) => {
+                try {
+                    const dumpData = JSON.parse(event.target.result);
+                    Object.keys(dumpData).forEach(k => {
+                        if (k.startsWith('starley_')) {
+                            localStorage.setItem(k, dumpData[k]);
+                        }
+                    });
+                    state.userProfile = loadUserProfile();
+                    updateUserProfileDisplay();
+                    updateWeakSpotRadar();
+                    alert(state.settings.lang === 'Ru' ? 'Прогресс успешно импортирован!' : 'Progress imported successfully!');
+                } catch (err) {
+                    alert('Invalid JSON file format.');
+                }
+            };
+            reader.readAsText(file);
+        };
+    }
+}
+
+// ==========================================================================
+// FAVORITES & ADMIN REPORT FEEDBACK MODULE
+// ==========================================================================
+
+function getFavoriteQuestionKeys() {
+    try {
+        return JSON.parse(localStorage.getItem('starley_favorite_questions') || '[]');
+    } catch (e) {
+        return [];
+    }
+}
+
+function isFavoriteQuestion(q) {
+    if (!q) return false;
+    const key = getQuestionKey(q);
+    const favs = getFavoriteQuestionKeys();
+    return favs.includes(key);
+}
+
+function toggleFavoriteQuestion(q) {
+    if (!q) return;
+    const key = getQuestionKey(q);
+    let favs = getFavoriteQuestionKeys();
+    let isFav = false;
+
+    if (favs.includes(key)) {
+        favs = favs.filter(k => k !== key);
+        isFav = false;
+    } else {
+        favs.push(key);
+        isFav = true;
+    }
+
+    try {
+        localStorage.setItem('starley_favorite_questions', JSON.stringify(favs));
+    } catch (e) {}
+
+    const btnFav = document.getElementById('btn-toggle-favorite');
+    if (btnFav) {
+        const icon = btnFav.querySelector('i');
+        if (icon) icon.className = isFav ? 'fas fa-star' : 'far fa-star';
+        btnFav.style.transform = 'scale(1.3)';
+        setTimeout(() => btnFav.style.transform = 'scale(1)', 200);
+    }
+
+    playSound('click');
+    triggerHaptic('click');
+}
+
+function openReportModal(q) {
+    const reportModal = document.getElementById('quiz-report-modal');
+    if (!reportModal || !q) return;
+
+    const isRu = state.settings.lang === 'Ru';
+    const qIdMeta = document.getElementById('report-q-id-meta');
+    const qSnippet = document.getElementById('report-q-text-snippet');
+    const commentInput = document.getElementById('input-report-comment');
+
+    if (qIdMeta) qIdMeta.textContent = `${isRu ? 'ID Вопроса' : 'Question ID'}: ${q.id || 'N/A'} | ${isRu ? 'Тема' : 'Topic'}: ${getQuestionTopic(q)}`;
+    if (qSnippet) qSnippet.textContent = `"${(q.questionEn || q.question || '').substring(0, 100)}..."`;
+    if (commentInput) commentInput.value = '';
+
+    const txtReportTitle = document.getElementById('txt-report-title');
+    if (txtReportTitle) txtReportTitle.textContent = isRu ? 'Сообщить об ошибке админу' : 'Report Question / Admin Feedback';
+
+    const lblReportReason = document.getElementById('lbl-report-reason');
+    if (lblReportReason) lblReportReason.textContent = isRu ? 'Тип замечания' : 'Issue Type';
+
+    const lblReportComment = document.getElementById('lbl-report-comment');
+    if (lblReportComment) lblReportComment.textContent = isRu ? 'Ваш комментарий / Клиническое обоснование' : 'Your Comment / Clinical Rationale';
+
+    const lblSubmitReportBtn = document.getElementById('lbl-submit-report-btn');
+    if (lblSubmitReportBtn) lblSubmitReportBtn.textContent = isRu ? 'Отправить замечание' : 'Send Feedback';
+
+    const selectReason = document.getElementById('select-report-reason');
+    if (selectReason) {
+        selectReason.options[0].text = isRu ? 'Не согласен с верным ответом' : 'Incorrect correct answer / Disagree with answer';
+        selectReason.options[1].text = isRu ? 'Опечатка / Ошибка перевода' : 'Typo / Translation error in question';
+        selectReason.options[2].text = isRu ? 'Непонятное или отсутствующее объяснение' : 'Unclear or missing clinical explanation';
+        selectReason.options[3].text = isRu ? 'Ошибки в изображениях или форматировании' : 'Broken image or formatting issue';
+        selectReason.options[4].text = isRu ? 'Другое замечание' : 'Other feedback';
+    }
+
+    reportModal.style.display = 'flex';
+    playSound('click');
+    triggerHaptic('click');
+}
+
+function closeReportModal() {
+    const reportModal = document.getElementById('quiz-report-modal');
+    if (reportModal) reportModal.style.display = 'none';
+}
+
+function submitReportModal() {
+    const q = state.questions[state.currentIndex];
+    const selectReason = document.getElementById('select-report-reason');
+    const commentInput = document.getElementById('input-report-comment');
+    const isRu = state.settings.lang === 'Ru';
+
+    const reportObj = {
+        questionId: q ? q.id : 'unknown',
+        questionText: q ? (q.questionEn || q.question || '') : '',
+        bookPath: q ? q.bookPath : '',
+        topic: q ? getQuestionTopic(q) : '',
+        userNickname: state.userProfile ? state.userProfile.nickname : 'Anonymous',
+        reason: selectReason ? selectReason.value : 'other',
+        reasonText: selectReason ? selectReason.options[selectReason.selectedIndex].text : '',
+        userComment: commentInput ? commentInput.value.trim() : '',
+        timestamp: new Date().toISOString()
+    };
+
+    try {
+        const existing = JSON.parse(localStorage.getItem('starley_feedback_reports') || '[]');
+        existing.push(reportObj);
+        localStorage.setItem('starley_feedback_reports', JSON.stringify(existing));
+    } catch (e) {}
+
+    // Send Telegram Notification to Admin
+    sendTelegramAdminReport(reportObj);
+
+    closeReportModal();
+    playSound('correct');
+    triggerHaptic('correct');
+
+    alert(isRu ? '✅ Спасибо! Замечание мгновенно передано администратору.' : '✅ Thank you! Feedback has been sent to the administrator.');
+}
+
+const TELEGRAM_BOT_TOKEN = '8776764036:AAEjdwQQjmB2zxuF4ILgBDVcJgwdu0FdQ5c';
+
+function escapeTelegramHtml(str) {
+    if (!str) return '';
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+}
+
+async function sendTelegramAdminReport(reportObj) {
+    let chatId = localStorage.getItem('starley_admin_telegram_chat_id') || '954588841';
+
+    // If chat_id is not cached yet, fetch it dynamically from getUpdates
+    if (!chatId) {
+        try {
+            const updatesRes = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getUpdates`);
+            const updatesData = await updatesRes.json();
+            if (updatesData.ok && updatesData.result && updatesData.result.length > 0) {
+                // Find last message chat ID
+                for (let i = updatesData.result.length - 1; i >= 0; i--) {
+                    const item = updatesData.result[i];
+                    if (item.message && item.message.chat) {
+                        chatId = item.message.chat.id;
+                        localStorage.setItem('starley_admin_telegram_chat_id', chatId);
+                        break;
+                    }
+                }
+            }
+        } catch (e) {
+            console.warn('[Telegram] Failed to fetch chat_id automatically:', e);
+        }
+    }
+
+    if (!chatId) {
+        console.warn('[Telegram] Chat ID not found yet. Admin needs to press /start in @CSbugs_bot.');
+        return false;
+    }
+
+    const reasonIcons = {
+        answer_disagree: '❌',
+        typo_error: '✏️',
+        missing_explanation: '💡',
+        broken_image: '🖼️',
+        other: '💬'
+    };
+
+    const icon = reasonIcons[reportObj.reason] || '🚩';
+    const qSnippet = (reportObj.questionText || '').substring(0, 150);
+
+    const messageHtml = `
+${icon} <b>НОВОЕ ЗАМЕЧАНИЕ ПО ВОПРОСУ</b>
+
+👤 <b>От:</b> ${escapeTelegramHtml(reportObj.userNickname)}
+📌 <b>ID Вопроса:</b> <code>${escapeTelegramHtml(reportObj.questionId)}</code>
+📚 <b>Тема/Манифест:</b> ${escapeTelegramHtml(reportObj.topic)}
+
+⚠️ <b>Проблема:</b> ${escapeTelegramHtml(reportObj.reasonText)}
+
+📝 <b>Фрагмент вопроса:</b>
+<i>"${escapeTelegramHtml(qSnippet)}${reportObj.questionText.length > 150 ? '...' : ''}"</i>
+
+💬 <b>Комментарий пользователя:</b>
+<b>"${escapeTelegramHtml(reportObj.userComment || 'Без комментария')}"</b>
+
+📅 <i>${new Date().toLocaleString('ru-RU')}</i>
+`.trim();
+
+    try {
+        const response = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                chat_id: chatId,
+                text: messageHtml,
+                parse_mode: 'HTML'
+            })
+        });
+        const resData = await response.json();
+        return resData.ok;
+    } catch (err) {
+        console.error('[Telegram] Error sending admin message:', err);
+        return false;
+    }
 }
 
 function sampleProportionally(selectedSetsList, totalRequestedCount) {
@@ -951,6 +1486,27 @@ function setupLobbyListeners() {
         const lblEasy = document.getElementById('lbl-easy');
         if (lblEasy) lblEasy.textContent = isRu ? 'Легко / Знаю' : 'Easy / Know';
 
+        // Volume Preset Headers & Badges Localization
+        const txtPresetVol = document.getElementById('txt-preset-volume');
+        if (txtPresetVol) txtPresetVol.textContent = isRu ? 'Пресет объема' : 'Volume Preset';
+
+        const lblTierBlitz = document.getElementById('lbl-tier-blitz');
+        if (lblTierBlitz) lblTierBlitz.textContent = isRu ? 'БЛИЦ' : 'BLITZ';
+
+        const lblTierStandard = document.getElementById('lbl-tier-standard');
+        if (lblTierStandard) lblTierStandard.textContent = isRu ? 'СТАНДАРТ' : 'STANDARD';
+
+        const lblTierMaster = document.getElementById('lbl-tier-master');
+        if (lblTierMaster) lblTierMaster.textContent = isRu ? 'МАСТЕР' : 'MASTER';
+
+        const lblTierFanatic = document.getElementById('lbl-tier-fanatic');
+        if (lblTierFanatic) lblTierFanatic.textContent = isRu ? 'ФАНАТИК' : 'FANATIC';
+
+        const lblBadgeAll = document.getElementById('lbl-badge-all');
+        if (lblBadgeAll) lblBadgeAll.textContent = isRu ? 'ВСЕ' : 'ALL';
+
+        updatePresetBadgeActiveState();
+
         // Update Radar values/chart on lang change if dashboard is displayed
         updateWeakSpotRadar();
     };
@@ -1040,6 +1596,30 @@ function setupLobbyListeners() {
     updateLobbyLabels();
     updateModeSelector();
     initChecklistWidget();
+
+    const presetBtns = document.querySelectorAll('.preset-badge-btn');
+    presetBtns.forEach(btn => {
+        btn.onclick = () => {
+            const countAttr = btn.dataset.count;
+            const slider = document.getElementById('setting-count');
+            const maxVal = slider ? parseInt(slider.max) : 300;
+
+            if (countAttr === 'all') {
+                state.settings.count = maxVal > 0 ? maxVal : 300;
+            } else {
+                state.settings.count = parseInt(countAttr);
+            }
+
+            if (slider) {
+                slider.value = state.settings.count;
+            }
+
+            updatePresetBadgeActiveState();
+            if (typeof updateChecklistStatus === 'function') updateChecklistStatus();
+            playSound('click');
+            triggerHaptic('click');
+        };
+    });
 
     const slider = document.getElementById('setting-count');
     const valCount = document.getElementById('val-count');
@@ -1194,41 +1774,7 @@ async function startQuiz() {
             const totalRequested = Math.min(state.settings.count, flatQuestions.length);
 
             if (state.sessionMode === 'smart') {
-                const poolA = []; // Red & Yellow
-                const poolB = []; // Green
-
-                flatQuestions.forEach(q => {
-                    const mastery = getQuestionMastery(q);
-                    if (mastery.state === 'green') {
-                        poolB.push(q);
-                    } else {
-                        poolA.push(q);
-                    }
-                });
-
-                const targetA = Math.round(0.7 * totalRequested);
-                const targetB = totalRequested - targetA;
-
-                const shuffledA = shuffleArray([...poolA]);
-                const shuffledB = shuffleArray([...poolB]);
-
-                let selectedA = [];
-                let selectedB = [];
-
-                if (shuffledA.length <= targetA) {
-                    selectedA = shuffledA;
-                    const remainder = totalRequested - selectedA.length;
-                    selectedB = shuffledB.slice(0, remainder);
-                } else if (shuffledB.length <= targetB) {
-                    selectedB = shuffledB;
-                    const remainder = totalRequested - selectedB.length;
-                    selectedA = shuffledA.slice(0, remainder);
-                } else {
-                    selectedA = shuffledA.slice(0, targetA);
-                    selectedB = shuffledB.slice(0, targetB);
-                }
-
-                finalQuestions = selectedA.concat(selectedB);
+                finalQuestions = sampleSmartQuestions(flatQuestions, totalRequested);
                 if (document.getElementById('setting-shuffle') && document.getElementById('setting-shuffle').checked) {
                     finalQuestions = shuffleArray(finalQuestions);
                 }
@@ -1309,6 +1855,14 @@ function renderQuestion() {
     const liveScoreEl = document.getElementById('q-score-live');
     liveScoreEl.textContent = (lang === 'Ru' ? 'Верно: ' : 'Correct: ') + state.score;
     liveScoreEl.style.display = state.settings.exam ? 'none' : 'block';
+
+    const btnFav = document.getElementById('btn-toggle-favorite');
+    if (btnFav) {
+        const isFav = isFavoriteQuestion(q);
+        const icon = btnFav.querySelector('i');
+        if (icon) icon.className = isFav ? 'fas fa-star' : 'far fa-star';
+        btnFav.style.color = isFav ? '#f59e0b' : '#eab308';
+    }
 
     const qTextEl = document.getElementById('q-text');
     const optionsCont = document.getElementById('q-options');
@@ -1902,6 +2456,36 @@ function setupQuestionListeners() {
             updateWeakSpotRadar();
         };
     }
+
+    const btnFav = document.getElementById('btn-toggle-favorite');
+    if (btnFav) {
+        btnFav.onclick = () => {
+            const currentQ = state.questions[state.currentIndex];
+            toggleFavoriteQuestion(currentQ);
+        };
+    }
+
+    const btnReport = document.getElementById('btn-report-question');
+    if (btnReport) {
+        btnReport.onclick = () => {
+            const currentQ = state.questions[state.currentIndex];
+            openReportModal(currentQ);
+        };
+    }
+
+    const btnReportExp = document.getElementById('btn-report-question-exp');
+    if (btnReportExp) {
+        btnReportExp.onclick = () => {
+            const currentQ = state.questions[state.currentIndex];
+            openReportModal(currentQ);
+        };
+    }
+
+    const btnCloseReport = document.getElementById('btn-close-report-modal');
+    if (btnCloseReport) btnCloseReport.onclick = closeReportModal;
+
+    const btnSubmitReport = document.getElementById('btn-submit-report');
+    if (btnSubmitReport) btnSubmitReport.onclick = submitReportModal;
 }
 
 function showResults() {

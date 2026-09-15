@@ -20,6 +20,34 @@
                 <button id="btn-mute-lobby" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="margin-left: auto; background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
             </header>
             <div class="lobby-content">
+                <!-- User Profile Card -->
+                <div id="quiz-user-profile-card" class="lobby-card user-profile-card" style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.9), rgba(22, 27, 34, 0.9)); border: 1px solid rgba(88, 166, 255, 0.25); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);">
+                    <div class="user-profile-header" style="display: flex; align-items: center; gap: 14px;">
+                        <div class="user-avatar-badge" id="profile-avatar-btn" style="cursor: pointer; position: relative;" title="Click to edit profile">
+                            <div class="avatar-glow-ring avatar-doc" id="profile-avatar-icon" style="width: 54px; height: 54px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #fff; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); border: 2px solid #58a6ff;">
+                                <i class="fas fa-stethoscope"></i>
+                            </div>
+                            <span style="position: absolute; bottom: -2px; right: -2px; background: var(--quiz-card); border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 0.65rem; border: 1px solid var(--quiz-border);">✏️</span>
+                        </div>
+                        <div class="user-info" style="flex: 1; min-width: 0;">
+                            <div class="user-name-row" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+                                <h3 id="profile-nickname-display" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-text);">Starley Doctor</h3>
+                                <span id="profile-level-badge" class="level-pill" style="background: rgba(35, 134, 54, 0.15); color: #3fb950; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(35, 134, 54, 0.3);">Lv.1 Resident</span>
+                            </div>
+                            <div class="user-stats-row" style="display: flex; align-items: center; gap: 8px; font-size: 0.78rem; color: var(--quiz-muted); margin-top: 4px; flex-wrap: wrap;">
+                                <span>🔥 <strong id="profile-stat-streak" style="color: var(--quiz-text);">1</strong> day streak</span>
+                                <span>•</span>
+                                <span>✅ <strong id="profile-stat-solved" style="color: var(--quiz-text);">0</strong> solved</span>
+                                <span>•</span>
+                                <span>🎯 <strong id="profile-stat-accuracy" style="color: var(--quiz-text);">0%</strong> accuracy</span>
+                            </div>
+                        </div>
+                        <button type="button" id="btn-open-profile-modal" class="btn-profile-edit" title="Edit Profile" style="background: rgba(48, 54, 61, 0.5); border: 1px solid var(--quiz-border); color: var(--quiz-text); width: 38px; height: 38px; border-radius: 10px; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 0.95rem; transition: all 0.2s;">
+                            <i class="fas fa-user-gear"></i>
+                        </button>
+                    </div>
+                </div>
+
                 <!-- Weak-Spot Radar & Mastery Dashboard -->
                 <div id="lobby-radar-card" class="lobby-card radar-card" style="display: none;">
                     <div class="radar-card-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
@@ -101,10 +129,137 @@
 
                 <div class="lobby-card">
                     <h3 id="label-session-settings">Session Settings</h3>
-                    <div class="settings-group">
-                        <label id="label-questions-count">Questions: <span id="val-count">All</span></label>
-                        <input type="range" id="setting-count" min="5" max="100" step="5" value="100">
+                    
+                    <!-- Presets Grid Container -->
+                    <div class="preset-volumes-container">
+                        <div class="settings-section-title" style="display: flex; justify-content: space-between; align-items: center;">
+                            <span>🎯 <span id="txt-preset-volume">Volume Preset</span></span>
+                            <span class="preset-active-badge"><span id="lbl-questions-count">Questions:</span> <span id="val-count">100</span></span>
+                        </div>
+                        
+                        <div class="preset-tiers-wrapper">
+                            <!-- TIER 1: BLITZ -->
+                            <div class="preset-tier tier-blitz">
+                                <div class="preset-tier-header">
+                                    <span class="tier-icon">⚡</span>
+                                    <span class="tier-title" id="lbl-tier-blitz">BLITZ</span>
+                                </div>
+                                <div class="preset-badges-grid">
+                                    <button type="button" class="preset-badge-btn" data-count="10" title="Blitz 10 Questions">
+                                        <div class="badge-avatar avatar-blitz-10">
+                                            <i class="fas fa-bolt-lightning"></i>
+                                            <span class="badge-num">10</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="20" title="Blitz 20 Questions">
+                                        <div class="badge-avatar avatar-blitz-20">
+                                            <i class="fas fa-rocket"></i>
+                                            <span class="badge-num">20</span>
+                                        </div>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- TIER 2: STANDARD -->
+                            <div class="preset-tier tier-standard">
+                                <div class="preset-tier-header">
+                                    <span class="tier-icon">🏃</span>
+                                    <span class="tier-title" id="lbl-tier-standard">STANDARD</span>
+                                </div>
+                                <div class="preset-badges-grid">
+                                    <button type="button" class="preset-badge-btn" data-count="30" title="Standard 30 Questions">
+                                        <div class="badge-avatar avatar-std-30">
+                                            <i class="fas fa-person-running"></i>
+                                            <span class="badge-num">30</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="40" title="Standard 40 Questions">
+                                        <div class="badge-avatar avatar-std-40">
+                                            <i class="fas fa-person-running"></i>
+                                            <span class="badge-num">40</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="50" title="Standard 50 Questions">
+                                        <div class="badge-avatar avatar-std-50">
+                                            <i class="fas fa-person-hiking"></i>
+                                            <span class="badge-num">50</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="60" title="Standard 60 Questions">
+                                        <div class="badge-avatar avatar-std-60">
+                                            <i class="fas fa-bottle-water"></i>
+                                            <span class="badge-num">60</span>
+                                        </div>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- TIER 3: MASTER -->
+                            <div class="preset-tier tier-master">
+                                <div class="preset-tier-header">
+                                    <span class="tier-icon">🏋️</span>
+                                    <span class="tier-title" id="lbl-tier-master">MASTER</span>
+                                </div>
+                                <div class="preset-badges-grid">
+                                    <button type="button" class="preset-badge-btn active" data-count="100" title="Master 100 Questions">
+                                        <div class="badge-avatar avatar-master-100">
+                                            <i class="fas fa-dumbbell"></i>
+                                            <span class="badge-num">100</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="125" title="Master 125 Questions">
+                                        <div class="badge-avatar avatar-master-125">
+                                            <i class="fas fa-weight-hanging"></i>
+                                            <span class="badge-num">125</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="150" title="Master 150 Questions">
+                                        <div class="badge-avatar avatar-master-150">
+                                            <i class="fas fa-weight-lifter"></i>
+                                            <span class="badge-num">150</span>
+                                        </div>
+                                    </button>
+                                </div>
+                            </div>
+
+                            <!-- TIER 4: FANATIC -->
+                            <div class="preset-tier tier-fanatic">
+                                <div class="preset-tier-header">
+                                    <span class="tier-icon">🧘</span>
+                                    <span class="tier-title" id="lbl-tier-fanatic">FANATIC</span>
+                                </div>
+                                <div class="preset-badges-grid">
+                                    <button type="button" class="preset-badge-btn" data-count="200" title="Fanatic 200 Questions">
+                                        <div class="badge-avatar avatar-fan-200">
+                                            <i class="fas fa-book-open-reader"></i>
+                                            <span class="badge-num">200</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="250" title="Fanatic 250 Questions">
+                                        <div class="badge-avatar avatar-fan-250">
+                                            <i class="fas fa-atom"></i>
+                                            <span class="badge-num">250</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="300" title="Fanatic 300 Questions">
+                                        <div class="badge-avatar avatar-fan-300">
+                                            <i class="fas fa-brain"></i>
+                                            <span class="badge-num">300</span>
+                                        </div>
+                                    </button>
+                                    <button type="button" class="preset-badge-btn" data-count="all" title="All Available Questions">
+                                        <div class="badge-avatar avatar-all">
+                                            <i class="fas fa-layer-group"></i>
+                                            <span class="badge-num" id="lbl-badge-all">ALL</span>
+                                        </div>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+
+                    <!-- Preserved slider for compatibility -->
+                    <input type="range" id="setting-count" min="5" max="300" step="5" value="100" style="display: none;">
                     
                     <div class="settings-group" style="margin-top: 15px; margin-bottom: 15px;">
                         <label id="label-quiz-mode" style="font-weight: 700; color: var(--quiz-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">Quiz Mode</label>
@@ -203,6 +358,8 @@
                 <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
                 <div id="quiz-timer" class="quiz-timer" style="display: none; background: rgba(218, 54, 51, 0.1); color: var(--quiz-wrong); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(218, 54, 51, 0.3); display: flex; align-items: center; gap: 5px; white-space: nowrap;"><i class="far fa-clock"></i> <span id="timer-val">60</span></div>
                 <button id="btn-mute-question" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
+                <button id="btn-toggle-favorite" class="quiz-fav-btn" title="Add to Favorites / Playlist" style="background: none; border: none; color: #eab308; font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.9; transition: transform 0.2s;"><i class="far fa-star"></i></button>
+                <button id="btn-report-question" class="quiz-report-btn" title="Report Issue to Admin" style="background: none; border: none; color: #f87171; font-size: 1.1rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="far fa-flag"></i></button>
             </header>
             
             <div class="question-container">
@@ -248,6 +405,7 @@
                         <div id="exp-chapter-list" class="chapter-links-grid"></div>
                     </div>
                     <div class="exp-actions">
+                        <button id="btn-report-question-exp" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4);"><i class="fas fa-flag"></i> <span id="lbl-btn-report">Report Issue</span></button>
                         <button id="btn-open-reader-main" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
                         <button id="btn-next-q" class="btn-primary">Next Question <i class="fas fa-chevron-right"></i></button>
                     </div>
@@ -306,6 +464,112 @@
                 <div id="exam-errors-list" class="exam-errors-list"></div>
             </div>
         </section>
+
+        <!-- USER PROFILE EDIT MODAL -->
+        <div id="quiz-profile-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1000; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 480px; box-shadow: 0 20px 50px rgba(0,0,0,0.6); overflow: hidden; animation: modal-slide-in 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <h3 id="lbl-profile-modal-title" style="margin: 0; font-size: 1rem; font-weight: 800; color: var(--quiz-accent);">👤 Profile Settings</h3>
+                    <button type="button" id="btn-close-profile-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="quiz-modal-body" style="padding: 20px;">
+                    <!-- Nickname Input -->
+                    <div class="form-group" style="margin-bottom: 18px;">
+                        <label id="lbl-profile-nick" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 6px;">Nickname / Title</label>
+                        <input type="text" id="input-profile-nickname" placeholder="Enter nickname (e.g. Doctor Starley)..." maxlength="50" style="width: 100%; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.95rem; font-weight: 600;">
+                    </div>
+
+                    <!-- Avatar Icon Selection (1 of 8) -->
+                    <div class="form-group" style="margin-bottom: 20px;">
+                        <label id="lbl-profile-avatar" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 10px;">Select Avatar Symbol</label>
+                        <div class="avatar-selection-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+                            <button type="button" class="avatar-opt-btn active" data-avatar="doc" title="Physician / Doctor">
+                                <div class="opt-avatar avatar-doc"><i class="fas fa-stethoscope"></i></div>
+                                <span class="opt-title">Doctor</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="heart" title="Cardiologist">
+                                <div class="opt-avatar avatar-heart"><i class="fas fa-heart-pulse"></i></div>
+                                <span class="opt-title">Heart</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="brain" title="Neuro Expert">
+                                <div class="opt-avatar avatar-brain"><i class="fas fa-brain"></i></div>
+                                <span class="opt-title">Brain</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="flask" title="Medical Researcher">
+                                <div class="opt-avatar avatar-flask"><i class="fas fa-flask-vial"></i></div>
+                                <span class="opt-title">Scientist</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="bolt" title="Blitz Specialist">
+                                <div class="opt-avatar avatar-bolt"><i class="fas fa-bolt"></i></div>
+                                <span class="opt-title">Blitz</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="titan" title="Mind Titan">
+                                <div class="opt-avatar avatar-titan"><i class="fas fa-dumbbell"></i></div>
+                                <span class="opt-title">Titan</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="guru" title="Meditation Guru">
+                                <div class="opt-avatar avatar-guru"><i class="fas fa-spa"></i></div>
+                                <span class="opt-title">Guru</span>
+                            </button>
+                            <button type="button" class="avatar-opt-btn" data-avatar="rocket" title="Rocket Intern">
+                                <div class="opt-avatar avatar-rocket"><i class="fas fa-rocket"></i></div>
+                                <span class="opt-title">Rocket</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Sync & Export Progress Actions -->
+                    <div class="form-group" style="margin-top: 20px; padding-top: 15px; border-top: 1px dashed var(--quiz-border);">
+                        <label id="lbl-profile-sync" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 8px;">Sync & Backup Progress</label>
+                        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                            <button type="button" id="btn-export-progress" class="btn-secondary" style="flex: 1; padding: 10px; font-size: 0.82rem; border-radius: 8px;"><i class="fas fa-download"></i> <span id="lbl-export-btn">Export JSON</span></button>
+                            <button type="button" id="btn-import-progress-trigger" class="btn-secondary" style="flex: 1; padding: 10px; font-size: 0.82rem; border-radius: 8px;"><i class="fas fa-upload"></i> <span id="lbl-import-btn">Import JSON</span></button>
+                            <input type="file" id="input-import-file" accept=".json" style="display: none;">
+                        </div>
+                    </div>
+                </div>
+                <div class="quiz-modal-footer" style="padding: 14px 20px; display: flex; justify-content: flex-end; gap: 10px; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <button type="button" id="btn-save-profile" class="btn-primary" style="padding: 10px 24px; border-radius: 10px;">💾 <span id="lbl-save-profile-btn">Save Profile</span></button>
+                </div>
+            </div>
+        </div>
+        <!-- REPORT ISSUE MODAL -->
+        <div id="quiz-report-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1000; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 480px; box-shadow: 0 20px 50px rgba(0,0,0,0.6); overflow: hidden; animation: modal-slide-in 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <h3 id="lbl-report-modal-title" style="margin: 0; font-size: 1rem; font-weight: 800; color: #f87171;">🚩 <span id="txt-report-title">Report Question / Admin Feedback</span></h3>
+                    <button type="button" id="btn-close-report-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="quiz-modal-body" style="padding: 20px;">
+                    <!-- Question Context Info -->
+                    <div class="report-q-context" style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 12px; margin-bottom: 15px; font-size: 0.85rem;">
+                        <div style="font-weight: 700; color: var(--quiz-accent); margin-bottom: 4px;" id="report-q-id-meta">Question ID: -</div>
+                        <div style="color: var(--quiz-text); font-style: italic; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;" id="report-q-text-snippet">"Question snippet..."</div>
+                    </div>
+
+                    <!-- Issue Category Choice -->
+                    <div class="form-group" style="margin-bottom: 14px;">
+                        <label id="lbl-report-reason" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 6px;">Issue Type</label>
+                        <select id="select-report-reason" style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.9rem;">
+                            <option value="answer_disagree">Incorrect correct answer / Disagree with answer</option>
+                            <option value="typo_error">Typo / Translation error in question</option>
+                            <option value="missing_explanation">Unclear or missing clinical explanation</option>
+                            <option value="broken_image">Broken image or formatting issue</option>
+                            <option value="other">Other feedback</option>
+                        </select>
+                    </div>
+
+                    <!-- User Comment Input -->
+                    <div class="form-group" style="margin-bottom: 10px;">
+                        <label id="lbl-report-comment" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 6px;">Your Comment / Clinical Rationale</label>
+                        <textarea id="input-report-comment" rows="4" placeholder="Describe the issue or provide clinical rationale (e.g. According to ESC 2023 guidelines...)..." style="width: 100%; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.9rem; font-family: inherit; resize: vertical;"></textarea>
+                    </div>
+                </div>
+                <div class="quiz-modal-footer" style="padding: 14px 20px; display: flex; justify-content: flex-end; gap: 10px; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <button type="button" id="btn-submit-report" class="btn-primary" style="padding: 10px 24px; background: linear-gradient(135deg, #ef4444, #dc2626); border: none;">📤 <span id="lbl-submit-report-btn">Send Feedback</span></button>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="assets/js/config.js"></script>
