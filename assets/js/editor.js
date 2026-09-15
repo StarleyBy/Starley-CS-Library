@@ -1593,4 +1593,3 @@ function _syncPreviewToLine(cm, lineNum, preview) {
             window.scrollTo(0, 0);
         }
     });
-})();
