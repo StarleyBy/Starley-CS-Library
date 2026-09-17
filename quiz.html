@@ -14,26 +14,34 @@
     <div id="quiz-app">
         <!-- LOBBY SCREEN -->
         <section id="screen-lobby" class="quiz-screen active">
-            <header class="quiz-header">
+            <header class="quiz-header" style="flex-wrap: wrap; gap: 10px;">
                 <button class="quiz-back-btn" onclick="window.history.back()"><i class="fas fa-arrow-left"></i> Back</button>
-                <h1 id="lobby-book-title">Loading Quiz...</h1>
-                <button id="btn-mute-lobby" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="margin-left: auto; background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
+                <h1 id="lobby-book-title" style="margin: 0; font-size: 1.2rem;">Loading Quiz...</h1>
+                <nav class="quiz-top-nav" style="display: flex; gap: 6px; flex-wrap: wrap; margin-left: auto; align-items: center;">
+                    <a href="index.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">📚 Library</a>
+                    <a href="highlights.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">🔖 Highlights</a>
+                    <a href="search/search.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">🔍 Search</a>
+                    <a href="quiz.html" class="nav-btn active" style="color: #58a6ff; text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(88,166,255,0.15); border: 1px solid rgba(88,166,255,0.3);">🧠 Quiz</a>
+                    <a href="magazine.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">📰 Magazine</a>
+                    <a href="editor.html" class="nav-btn admin-only" data-role="admin" style="display: none; color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">✏️ Editor</a>
+                </nav>
+                <button id="btn-mute-lobby" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
             </header>
             <div class="lobby-content">
                 <!-- User Profile Card / Personal Cabinet Entry -->
                 <div id="quiz-user-profile-card" class="lobby-card user-profile-card" style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.9), rgba(22, 27, 34, 0.9)); border: 1px solid rgba(88, 166, 255, 0.25); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);">
-                    <div class="user-profile-header" style="display: flex; align-items: center; gap: 14px;">
+                    <div class="user-profile-header" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
                         <div class="user-avatar-badge" id="profile-avatar-btn" style="cursor: pointer; position: relative;" title="Click to open Personal Cabinet">
                             <div class="avatar-glow-ring avatar-doc" id="profile-avatar-icon" style="width: 54px; height: 54px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #fff; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); border: 2px solid #58a6ff;">
                                 <i class="fas fa-stethoscope"></i>
                             </div>
                             <span style="position: absolute; bottom: -2px; right: -2px; background: var(--quiz-card); border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 0.65rem; border: 1px solid var(--quiz-border);">✏️</span>
                         </div>
-                        <div class="user-info" style="flex: 1; min-width: 0;">
+                        <div class="user-info" style="flex: 1; min-width: 180px;">
                             <div class="user-name-row" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-                                <h3 id="profile-nickname-display" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-text);">Starley Doctor</h3>
+                                <h3 id="profile-nickname-display" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-text);">Guest Doctor</h3>
                                 <span id="profile-level-badge" class="level-pill" style="background: rgba(35, 134, 54, 0.15); color: #3fb950; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(35, 134, 54, 0.3);">Lv.1 Resident</span>
-                                <span id="quiz-sync-status-badge" class="sync-pill" style="background: rgba(88, 166, 255, 0.15); color: #58a6ff; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(88, 166, 255, 0.3); display: inline-flex; align-items: center; gap: 4px;" title="Google Sheets Auto-Sync Status">☁️ Synced</span>
+                                <span id="quiz-sync-status-badge" class="sync-pill" style="background: rgba(139, 148, 158, 0.15); color: #8b949e; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(139, 148, 158, 0.3); display: inline-flex; align-items: center; gap: 4px;" title="Google Sheets Auto-Sync Status">👤 Guest (Local)</span>
                             </div>
                             <div class="user-stats-row" style="display: flex; align-items: center; gap: 8px; font-size: 0.78rem; color: var(--quiz-muted); margin-top: 4px; flex-wrap: wrap;">
                                 <span>🔥 <strong id="profile-stat-streak" style="color: var(--quiz-text);">1</strong> day streak</span>
@@ -43,7 +51,10 @@
                                 <span>🎯 <strong id="profile-stat-accuracy" style="color: var(--quiz-text);">0%</strong> accuracy</span>
                             </div>
                         </div>
-                        <div class="user-card-actions" style="display: flex; gap: 8px;">
+                        <div class="user-card-actions" style="display: flex; gap: 8px; flex-wrap: wrap;">
+                            <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-profile-edit" title="Request Account via Telegram Bot" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
+                                📲 Request Account
+                            </button>
                             <button type="button" id="btn-open-admin-modal" class="btn-profile-edit admin-only" title="Manage Accounts & Requests" style="display: none; background: rgba(234, 179, 8, 0.15); border: 1px solid rgba(234, 179, 8, 0.4); color: #eab308; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s;">
                                 👑 Admin
                             </button>
@@ -597,14 +608,6 @@
                             </div>
                         </div>
 
-                        <!-- Sync & Backup Progress Actions -->
-                        <div class="form-group" style="margin-top: 20px; padding-top: 15px; border-top: 1px dashed var(--quiz-border);">
-                            <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 8px;">Backup & JSON Export</label>
-                            <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-                                <button type="button" id="btn-export-progress" class="btn-secondary" style="flex: 1; padding: 10px; font-size: 0.82rem; border-radius: 8px;"><i class="fas fa-download"></i> Export JSON</button>
-                                <button type="button" id="btn-import-progress-trigger" class="btn-secondary" style="flex: 1; padding: 10px; font-size: 0.82rem; border-radius: 8px;"><i class="fas fa-upload"></i> Import JSON</button>
-                                <input type="file" id="input-import-file" accept=".json" style="display: none;">
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -697,6 +700,7 @@
 
     <script src="assets/js/config.js"></script>
     <script src="assets/js/google-sheets-api.js"></script>
+    <script src="assets/js/auth.js?v=1.2"></script>
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>

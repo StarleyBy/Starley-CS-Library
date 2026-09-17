@@ -962,23 +962,30 @@ const AVATAR_ICONS_MAP = {
 };
 
 function loadUserProfile() {
-    try {
-        const stored = localStorage.getItem('starley_user_profile');
-        if (stored) {
-            return JSON.parse(stored);
-        }
-    } catch (e) {}
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest) {
+        return {
+            nickname: user.nickname || user.username || 'Doctor',
+            avatar: user.avatar || 'doc',
+            streak: 1,
+            lastActiveDate: new Date().toDateString(),
+            totalSolved: 0,
+            correctCount: 0
+        };
+    }
     
-    const defaultProf = {
-        nickname: 'Starley Doctor',
+    try {
+        localStorage.removeItem('starley_user_profile');
+    } catch (e) {}
+
+    return {
+        nickname: 'Guest Doctor',
         avatar: 'doc',
         streak: 1,
         lastActiveDate: new Date().toDateString(),
         totalSolved: 0,
         correctCount: 0
     };
-    saveUserProfile(defaultProf);
-    return defaultProf;
 }
 
 function saveUserProfile(profile) {
@@ -988,6 +995,7 @@ function saveUserProfile(profile) {
 }
 
 function updateUserProfileDisplay() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
     const profile = state.userProfile || loadUserProfile();
     state.userProfile = profile;
 
@@ -998,7 +1006,8 @@ function updateUserProfileDisplay() {
     const statAcc = document.getElementById('profile-stat-accuracy');
     const levelBadge = document.getElementById('profile-level-badge');
 
-    if (nickDisplay) nickDisplay.textContent = profile.nickname || 'Starley Doctor';
+    const displayName = (user && !user.isGuest) ? (user.nickname || user.username) : 'Guest Doctor';
+    if (nickDisplay) nickDisplay.textContent = displayName;
     
     if (avatarIcon) {
         avatarIcon.className = `avatar-glow-ring avatar-${profile.avatar || 'doc'}`;
@@ -1028,106 +1037,6 @@ function updateUserProfileDisplay() {
 
 function setupProfileListeners() {
     updateUserProfileDisplay();
-
-    const profileModal = document.getElementById('quiz-profile-modal');
-    const btnOpenModal = document.getElementById('btn-open-profile-modal');
-    const avatarBtnLobby = document.getElementById('profile-avatar-btn');
-    const btnCloseModal = document.getElementById('btn-close-profile-modal');
-    const btnSaveProfile = document.getElementById('btn-save-profile');
-    const nickInput = document.getElementById('input-profile-nickname');
-    const avatarOpts = document.querySelectorAll('.avatar-opt-btn');
-
-    let selectedAvatar = state.userProfile ? state.userProfile.avatar : 'doc';
-
-    const openModal = () => {
-        if (!profileModal) return;
-        selectedAvatar = state.userProfile ? state.userProfile.avatar : 'doc';
-        if (nickInput) nickInput.value = state.userProfile ? state.userProfile.nickname : 'Starley Doctor';
-        
-        avatarOpts.forEach(btn => {
-            btn.classList.toggle('active', btn.dataset.avatar === selectedAvatar);
-        });
-
-        profileModal.style.display = 'flex';
-        playSound('click');
-        triggerHaptic('click');
-    };
-
-    const closeModal = () => {
-        if (profileModal) profileModal.style.display = 'none';
-    };
-
-    if (btnOpenModal) btnOpenModal.onclick = openModal;
-    if (avatarBtnLobby) avatarBtnLobby.onclick = openModal;
-    if (btnCloseModal) btnCloseModal.onclick = closeModal;
-
-    avatarOpts.forEach(btn => {
-        btn.onclick = () => {
-            selectedAvatar = btn.dataset.avatar;
-            avatarOpts.forEach(b => b.classList.toggle('active', b.dataset.avatar === selectedAvatar));
-            playSound('click');
-            triggerHaptic('click');
-        };
-    });
-
-    if (btnSaveProfile) {
-        btnSaveProfile.onclick = () => {
-            const newNick = nickInput ? nickInput.value.trim() : 'Starley Doctor';
-            state.userProfile.nickname = newNick || 'Starley Doctor';
-            state.userProfile.avatar = selectedAvatar || 'doc';
-            saveUserProfile(state.userProfile);
-            updateUserProfileDisplay();
-            closeModal();
-            playSound('correct');
-            triggerHaptic('correct');
-        };
-    }
-
-    // Export & Import handlers
-    const btnExport = document.getElementById('btn-export-progress');
-    if (btnExport) {
-        btnExport.onclick = () => {
-            const dumpData = {};
-            for (let i = 0; i < localStorage.length; i++) {
-                const key = localStorage.key(i);
-                if (key.startsWith('starley_')) {
-                    dumpData[key] = localStorage.getItem(key);
-                }
-            }
-            const blob = new Blob([JSON.stringify(dumpData, null, 2)], { type: 'application/json' });
-            const a = document.createElement('a');
-            a.href = URL.createObjectURL(blob);
-            a.download = `starley_quiz_progress_${Date.now()}.json`;
-            a.click();
-            playSound('click');
-        };
-    }
-
-    const btnImportTrigger = document.getElementById('btn-import-progress-trigger');
-    const inputImportFile = document.getElementById('input-import-file');
-    if (btnImportTrigger && inputImportFile) {
-        btnImportTrigger.onclick = () => inputImportFile.click();
-        inputImportFile.onchange = (e) => {
-            const file = e.target.files[0];
-            if (!file) return;
-            const reader = new FileReader();
-            reader.onload = (event) => {
-                try {
-                    const dumpData = JSON.parse(event.target.result);
-                    Object.keys(dumpData).forEach(k => {
-                        if (k.startsWith('starley_')) {
-                            localStorage.setItem(k, dumpData[k]);
-                        }
-                    });
-                    state.userProfile = loadUserProfile();
-                    updateUserProfileDisplay();
-                    updateWeakSpotRadar();
-                    alert(state.settings.lang === 'Ru' ? 'Прогресс успешно импортирован!' : 'Progress imported successfully!');
-                } catch (err) {
-                    alert('Invalid JSON file format.');
-                }
-            };
-            reader.readAsText(file);
         };
     }
 }
@@ -3530,6 +3439,33 @@ function initPersonalCabinet() {
 }
 
 function renderCabinetContent() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const summaryText = document.getElementById('cab-summary-text');
+    const nickInput = document.getElementById('input-profile-nickname');
+
+    if (user) {
+        if (nickInput && !nickInput.value) {
+            nickInput.value = user.nickname || user.username || '';
+        }
+
+        if (summaryText) {
+            if (user.isGuest) {
+                summaryText.innerHTML = `
+                    <div style="background: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 10px; padding: 12px; margin-bottom: 12px; color: #58a6ff;">
+                        👤 <strong>Guest Mode (Anonymous)</strong><br>
+                        You are currently in Guest Mode. Your progress remains local to this browser.<br>
+                        Log in to your personal cloud account to sync playlists, favorites, and study stats across all devices!
+                    </div>
+                    <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+                        <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-primary" style="flex: 1; padding: 8px 14px; font-size: 0.82rem; border-radius: 8px;">📲 Request Account via Telegram</button>
+                    </div>
+                `;
+            } else {
+                summaryText.innerHTML = `Your study stats are automatically synchronized with Google Sheets as <strong>${escapeHTML(user.nickname || user.username)}</strong>. Play sessions and mark weak questions to track mastery across devices.`;
+            }
+        }
+    }
+
     renderPlaylistsTab();
     renderHistoryTab();
 }

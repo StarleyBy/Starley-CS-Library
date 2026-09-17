@@ -13,7 +13,7 @@
  * 8. Click "Deploy" and copy the Web App URL into assets/js/config.js.
  */
 
-const TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'; // Replace with your Bot Token if applicable
+const TELEGRAM_BOT_TOKEN = '8776764036:AAEjdwQQjmB2zxuF4ILgBDVcJgwdu0FdQ5c';
 
 /**
  * Handle HTTP GET Requests

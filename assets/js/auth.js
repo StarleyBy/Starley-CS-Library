@@ -1,13 +1,12 @@
-// assets/js/auth.js - Medical Library Authentication Engine (Google Sheets API & Dual Level Support)
+// assets/js/auth.js - Medical Library Authentication Engine
 (function() {
     const PASSWORDS = {
         '456755': { username: 'admin', role: 'admin', name: 'Administrator', nickname: 'Administrator', avatar: 'doc' },
-        '0455': { username: 'user', role: 'user', name: 'User', nickname: 'Doctor User', avatar: 'doc' }
+        '0455': { username: 'guest', role: 'user', name: 'Guest Doctor', nickname: 'Guest Doctor', avatar: 'doc', isGuest: true }
     };
     
     const SESSION_KEY = 'starley_auth';
     
-    // Get current logged-in user
     function getCurrentUser() {
         const authData = sessionStorage.getItem(SESSION_KEY);
         if (!authData) return null;
@@ -46,6 +45,7 @@
             avatar: userInfo.avatar || 'doc',
             email: userInfo.email || '',
             telegramId: userInfo.telegramId || '',
+            isGuest: Boolean(userInfo.isGuest),
             timestamp: Date.now()
         };
         sessionStorage.setItem(SESSION_KEY, JSON.stringify(authData));
@@ -64,48 +64,188 @@
         sessionStorage.setItem(SESSION_KEY, JSON.stringify(guestData));
         window.location.reload();
     }
-    
-    // Display English Login Modal
-    function showLoginModal() {
-        document.body.style.overflow = 'hidden';
-        
+
+    /**
+     * Show Modal for Requesting New Account via Telegram Bot or Web API
+     */
+    function showAccountRequestModal() {
+        const existing = document.getElementById('account-request-modal');
+        if (existing) existing.remove();
+
         const modal = document.createElement('div');
-        modal.id = 'auth-modal';
+        modal.id = 'account-request-modal';
+        modal.style.cssText = 'position: fixed; inset: 0; background: rgba(0,0,0,0.8); backdrop-filter: blur(8px); z-index: 10000; display: flex; align-items: center; justify-content: center; padding: 16px;';
+        
         modal.innerHTML = `
-            <div class="auth-overlay"></div>
-            <div class="auth-box" style="max-width: 380px; padding: 24px; background: rgba(22, 27, 34, 0.95); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 16px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); color: #c9d1d9; backdrop-filter: blur(10px);">
-                <div class="auth-header" style="text-align: center; margin-bottom: 20px;">
-                    <h2 style="margin: 0; font-size: 1.3rem; color: #58a6ff;">🔒 Medical Library</h2>
-                    <p style="margin: 6px 0 0; font-size: 0.85rem; color: #8b949e;">Enter credentials or PIN to access your profile</p>
+            <div style="background: rgba(22, 27, 34, 0.95); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 20px; width: 100%; max-width: 440px; padding: 24px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); color: #c9d1d9; animation: modal-slide-in 0.3s ease-out;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; border-bottom: 1px solid #30363d; padding-bottom: 12px;">
+                    <h3 style="margin: 0; font-size: 1.1rem; color: #58a6ff; font-weight: 800;">📲 Request Quiz Account</h3>
+                    <button type="button" id="btn-close-req-modal" style="background: none; border: none; color: #8b949e; font-size: 1.2rem; cursor: pointer;">✕</button>
                 </div>
-                <form id="auth-form" autocomplete="off">
+
+                <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid #30363d; border-radius: 10px; padding: 12px; margin-bottom: 16px; font-size: 0.83rem; color: #8b949e; line-height: 1.5;">
+                    Enter your desired username and password. Your request will be sent to the administrator for single-click approval. You will receive notifications upon activation!
+                </div>
+
+                <form id="account-req-form">
                     <div style="margin-bottom: 12px;">
-                        <input 
-                            type="text" 
-                            id="username-input" 
-                            placeholder="Username / Nickname (Optional for PIN)"
-                            autocomplete="off"
-                            style="width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;"
-                        >
+                        <label style="display: block; font-size: 0.78rem; font-weight: 700; color: #8b949e; margin-bottom: 4px; text-transform: uppercase;">Desired Nickname / Username *</label>
+                        <input type="text" id="req-nickname" placeholder="e.g. Test" required style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;">
                     </div>
-                    <div style="margin-bottom: 14px;">
-                        <input 
-                            type="password" 
-                            id="password-input" 
-                            placeholder="Password or PIN" 
-                            autocomplete="off"
-                            autofocus
-                            style="width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;"
-                        >
+                    <div style="margin-bottom: 12px;">
+                        <label style="display: block; font-size: 0.78rem; font-weight: 700; color: #8b949e; margin-bottom: 4px; text-transform: uppercase;">Desired Password *</label>
+                        <input type="password" id="req-password" placeholder="e.g. 1234" required style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;">
                     </div>
-                    <div class="error-message" id="error-message" style="margin-bottom: 12px; font-size: 0.85rem; text-align: center; min-height: 20px;"></div>
-                    <button type="submit" id="auth-submit-btn" style="width: 100%; padding: 10px; border-radius: 8px; border: none; background: #238636; color: #fff; font-weight: 700; cursor: pointer; font-size: 0.95rem;">Enter</button>
+                    <div style="margin-bottom: 12px;">
+                        <label style="display: block; font-size: 0.78rem; font-weight: 700; color: #8b949e; margin-bottom: 4px; text-transform: uppercase;">Email Address (For Notifications)</label>
+                        <input type="email" id="req-email" placeholder="e.g. doctor@example.com" style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;">
+                    </div>
+                    <div style="margin-bottom: 16px;">
+                        <label style="display: block; font-size: 0.78rem; font-weight: 700; color: #8b949e; margin-bottom: 4px; text-transform: uppercase;">Telegram Username (Optional)</label>
+                        <input type="text" id="req-telegram" placeholder="e.g. @doctor_starley" style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;">
+                    </div>
+
+                    <div id="req-status-msg" style="margin-bottom: 12px; font-size: 0.85rem; text-align: center; min-height: 18px;"></div>
+
+                    <button type="submit" id="btn-submit-req" style="width: 100%; padding: 10px; border-radius: 8px; border: none; background: #238636; color: #fff; font-weight: 700; cursor: pointer; font-size: 0.95rem;">📤 Submit Request to Admin</button>
                 </form>
+
                 <div style="margin-top: 16px; padding-top: 14px; border-top: 1px dashed #30363d; text-align: center;">
-                    <button type="button" id="btn-guest-login" style="background: none; border: none; color: #8b949e; font-size: 0.82rem; cursor: pointer; text-decoration: underline;">Continue as Guest (No Cloud Sync)</button>
+                    <div style="font-size: 0.8rem; color: #8b949e; margin-bottom: 6px;">Or send request directly in Telegram Bot:</div>
+                    <a href="https://t.me/CSbugs_bot" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 6px; color: #38bdf8; text-decoration: none; font-weight: 700; font-size: 0.85rem;">
+                        <span>✈️ Open Telegram Bot (@CSbugs_bot)</span>
+                    </a>
                 </div>
             </div>
         `;
+
+        document.body.appendChild(modal);
+
+        const closeBtn = document.getElementById('btn-close-req-modal');
+        if (closeBtn) closeBtn.onclick = () => modal.remove();
+
+        const form = document.getElementById('account-req-form');
+        const statusMsg = document.getElementById('req-status-msg');
+        const submitBtn = document.getElementById('btn-submit-req');
+
+        form.addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const nickname = document.getElementById('req-nickname').value.trim();
+            const password = document.getElementById('req-password').value.trim();
+            const email = document.getElementById('req-email').value.trim();
+            const telegram = document.getElementById('req-telegram').value.trim();
+
+            if (!nickname || !password) {
+                statusMsg.textContent = '✗ Nickname and password are required.';
+                statusMsg.style.color = '#f87171';
+                return;
+            }
+
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Submitting Request...';
+
+            if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.submitRegistration === 'function') {
+                const res = await window.GoogleSheetsAPI.submitRegistration({
+                    nickname: nickname,
+                    password: password,
+                    email: email,
+                    telegramUsername: telegram
+                });
+
+                if (res && res.success) {
+                    statusMsg.textContent = '✓ Request submitted! Administrator notified.';
+                    statusMsg.style.color = '#3fb950';
+                    setTimeout(() => {
+                        alert(`✅ Registration Request Submitted!\n\nUser '${nickname}' has been sent to the admin approval queue.`);
+                        modal.remove();
+                    }, 800);
+                    return;
+                }
+            }
+
+            statusMsg.textContent = '✓ Offline simulation: Request logged.';
+            statusMsg.style.color = '#3fb950';
+            setTimeout(() => {
+                modal.remove();
+            }, 1000);
+        });
+    }
+    
+    // Display Login Modal
+    function showLoginModal() {
+        document.body.style.overflow = 'hidden';
+        const isQuizPage = window.location.pathname.includes('quiz.html');
+        
+        const modal = document.createElement('div');
+        modal.id = 'auth-modal';
+
+        if (!isQuizPage) {
+            // Main site login modal: Original simple version (single password field)
+            modal.innerHTML = `
+                <div class="auth-overlay"></div>
+                <div class="auth-box">
+                    <div class="auth-header">
+                        <h2>🔒 Medical Library</h2>
+                        <p>Enter password to continue</p>
+                    </div>
+                    <form id="auth-form" autocomplete="off">
+                        <input 
+                            type="password" 
+                            id="password-input" 
+                            placeholder="Password" 
+                            maxlength="6"
+                            pattern="[0-9]*"
+                            inputmode="numeric"
+                            autocomplete="off"
+                            autofocus
+                        >
+                        <div class="error-message" id="error-message"></div>
+                        <button type="submit">Enter</button>
+                    </form>
+                </div>
+            `;
+        } else {
+            // Quiz page login modal: Extended version with account login & Telegram request option
+            modal.innerHTML = `
+                <div class="auth-overlay"></div>
+                <div class="auth-box" style="max-width: 400px; padding: 24px; background: rgba(22, 27, 34, 0.95); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 16px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); color: #c9d1d9; backdrop-filter: blur(10px);">
+                    <div class="auth-header" style="text-align: center; margin-bottom: 20px;">
+                        <h2 style="margin: 0; font-size: 1.3rem; color: #58a6ff;">🔒 Medical Library Quiz</h2>
+                        <p style="margin: 6px 0 0; font-size: 0.85rem; color: #8b949e;">Enter credentials or PIN to continue</p>
+                    </div>
+                    <form id="auth-form" autocomplete="off">
+                        <div style="margin-bottom: 12px;">
+                            <input 
+                                type="text" 
+                                id="username-input" 
+                                placeholder="Username / Nickname (Optional for PIN)"
+                                autocomplete="off"
+                                style="width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;"
+                            >
+                        </div>
+                        <div style="margin-bottom: 14px;">
+                            <input 
+                                type="password" 
+                                id="password-input" 
+                                placeholder="Password or PIN" 
+                                autocomplete="off"
+                                autofocus
+                                style="width: 100%; padding: 10px 14px; border-radius: 8px; border: 1px solid #30363d; background: #0d1117; color: #f0f6fc; font-size: 0.9rem;"
+                            >
+                        </div>
+                        <div class="error-message" id="error-message" style="margin-bottom: 12px; font-size: 0.85rem; text-align: center; min-height: 20px;"></div>
+                        <button type="submit" id="auth-submit-btn" style="width: 100%; padding: 10px; border-radius: 8px; border: none; background: #238636; color: #fff; font-weight: 700; cursor: pointer; font-size: 0.95rem;">Enter</button>
+                    </form>
+                    
+                    <div style="margin-top: 14px; padding-top: 12px; border-top: 1px dashed #30363d; display: flex; flex-direction: column; gap: 8px; text-align: center;">
+                        <button type="button" id="btn-trigger-account-req" style="width: 100%; padding: 8px; border-radius: 8px; border: 1px solid rgba(88, 166, 255, 0.4); background: rgba(88, 166, 255, 0.1); color: #58a6ff; font-weight: 700; cursor: pointer; font-size: 0.82rem; display: flex; align-items: center; justify-content: center; gap: 6px;">
+                            📲 Request New Account (Telegram Bot)
+                        </button>
+                        <button type="button" id="btn-guest-login" style="background: none; border: none; color: #8b949e; font-size: 0.82rem; cursor: pointer; text-decoration: underline;">Continue as Guest (No Cloud Sync)</button>
+                    </div>
+                </div>
+            `;
+        }
         
         document.body.appendChild(modal);
         
@@ -113,8 +253,9 @@
         const userInput = document.getElementById('username-input');
         const passInput = document.getElementById('password-input');
         const errorMsg = document.getElementById('error-message');
-        const submitBtn = document.getElementById('auth-submit-btn');
+        const submitBtn = form.querySelector('button[type="submit"]');
         const guestBtn = document.getElementById('btn-guest-login');
+        const reqBtn = document.getElementById('btn-trigger-account-req');
 
         if (guestBtn) {
             guestBtn.addEventListener('click', function() {
@@ -123,24 +264,45 @@
                 loginAsGuest();
             });
         }
+
+        if (reqBtn) {
+            reqBtn.addEventListener('click', function() {
+                showAccountRequestModal();
+            });
+        }
         
         form.addEventListener('submit', async function(e) {
             e.preventDefault();
             
-            const username = userInput.value.trim();
-            const password = passInput.value.trim();
+            const username = userInput ? userInput.value.trim() : '';
+            const password = passInput ? passInput.value.trim() : '';
 
             if (!password) {
-                errorMsg.textContent = '✗ Password or PIN is required';
+                errorMsg.textContent = '✗ Password is required';
                 errorMsg.style.color = '#f87171';
                 return;
             }
 
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Authenticating...';
+            if (submitBtn) {
+                submitBtn.disabled = true;
+                submitBtn.textContent = 'Authenticating...';
+            }
 
-            // Check Google Sheets API if available
-            if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.login === 'function') {
+            // Check hardcoded static PINs (456755 for Admin, 0455 for User/Guest)
+            if (password === '456755') {
+                setAuthenticated(PASSWORDS['456755']);
+                showLoginSuccess(modal, errorMsg, 'Administrator');
+                return;
+            }
+
+            if (password === '0455') {
+                setAuthenticated(PASSWORDS['0455']);
+                showLoginSuccess(modal, errorMsg, 'Guest Doctor');
+                return;
+            }
+
+            // Check Google Sheets API if on Quiz page and username provided
+            if (isQuizPage && window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.login === 'function') {
                 const searchUser = username || password;
                 const apiRes = await window.GoogleSheetsAPI.login(searchUser, password);
                 if (apiRes && apiRes.success && apiRes.user) {
@@ -153,30 +315,23 @@
                 }
             }
 
-            // Local fallback / Static PIN check
-            let staticUser = PASSWORDS[password];
-            if (!staticUser && username && PASSWORDS[username]) {
-                if (PASSWORDS[username].password === password) staticUser = PASSWORDS[username];
-            }
-
-            if (staticUser) {
-                setAuthenticated({
-                    ...staticUser,
-                    password: password
-                });
-                showLoginSuccess(modal, errorMsg, staticUser.nickname || staticUser.name);
-            } else {
+            // Reject anything else
+            if (submitBtn) {
                 submitBtn.disabled = false;
                 submitBtn.textContent = 'Enter';
+            }
+            if (passInput) {
                 passInput.value = '';
                 passInput.classList.add('shake');
-                errorMsg.textContent = '✗ Incorrect username, password or PIN';
-                errorMsg.style.color = '#f87171';
                 setTimeout(() => passInput.classList.remove('shake'), 500);
             }
+            errorMsg.textContent = '✗ Incorrect password';
+            errorMsg.style.color = '#f87171';
         });
         
-        setTimeout(() => passInput.focus(), 100);
+        setTimeout(() => {
+            if (passInput) passInput.focus();
+        }, 100);
     }
 
     function showLoginSuccess(modal, errorMsg, displayName) {
@@ -197,7 +352,6 @@
         }, 600);
     }
     
-    // Apply user restrictions
     function applyUserRestrictions() {
         const editorLinks = document.querySelectorAll('a[href*="editor.html"], a[href*="mdconvert.html"], a[href*="manifest-editor.html"]');
         editorLinks.forEach(link => link.style.display = 'none');
@@ -213,7 +367,6 @@
         }
     }
     
-    // Show role indicator with drag support
     function showRoleIndicator(userInfo) {
         if (!userInfo) return;
         const existing = document.getElementById('role-indicator');
@@ -324,11 +477,16 @@
     }
     
     window.logout = function() {
-        if (confirm('Exit Medical Library?')) {
+        if (confirm('Exit Medical Library session?')) {
             sessionStorage.removeItem(SESSION_KEY);
+            sessionStorage.removeItem('starley_auth');
+            localStorage.removeItem('starley_auth');
+            localStorage.removeItem('starley_user_profile');
             window.location.reload();
         }
     };
+
+    window.showAccountRequestModal = showAccountRequestModal;
     
     if (!isAuthenticated()) {
         if (document.readyState === 'loading') {
@@ -354,6 +512,7 @@
         hasRole: hasRole,
         isAdmin: () => hasRole('admin'),
         isUser: () => hasRole('user'),
-        setAuthenticated: setAuthenticated
+        setAuthenticated: setAuthenticated,
+        showAccountRequestModal: showAccountRequestModal
     };
 })();
