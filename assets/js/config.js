@@ -21,20 +21,20 @@ if (window.location.hostname === 'localhost' || window.location.hostname === '12
 // When configured (e.g. 'https://pub-xxx.r2.dev'), images load from Cloudflare R2 CDN.
 window.R2_MEDIA_BASE_URL = 'https://pub-605e081f469a43f5a38ba5dd98d4ff8f.r2.dev';
 
-window.getImageUrl = function(relativePath) {
+window.getImageUrl = function (relativePath) {
     if (!relativePath) return 'assets/img/book-placeholder.png';
     let cleanPath = String(relativePath).trim();
     if (cleanPath.startsWith('./')) cleanPath = cleanPath.slice(2);
     if (cleanPath.startsWith('/')) cleanPath = cleanPath.slice(1);
-    
+
     // Return early if already an absolute HTTP/HTTPS URL
     if (cleanPath.startsWith('http://') || cleanPath.startsWith('https://')) {
         return cleanPath;
     }
-    
+
     // Ensure path starts with 'books/' if it refers to a book asset
     const fullPath = cleanPath.startsWith('books/') ? cleanPath : `books/${cleanPath}`;
-    
+
     if (window.R2_MEDIA_BASE_URL && window.R2_MEDIA_BASE_URL.trim() !== '') {
         const baseUrl = window.R2_MEDIA_BASE_URL.endsWith('/') ? window.R2_MEDIA_BASE_URL : window.R2_MEDIA_BASE_URL + '/';
         return baseUrl + fullPath;
@@ -55,7 +55,11 @@ if (typeof window !== 'undefined' && window.location.protocol === 'file:') {
                     window.location.href = target;
                 }
             })
-            .catch(() => {});
-    } catch (e) {}
+            .catch(() => { });
+    } catch (e) { }
 }
+
+// Google Sheets Backend API Endpoint URL
+// Paste your deployed Google Apps Script Web App URL here (e.g. 'https://script.google.com/macros/s/.../exec')
+window.GOOGLE_SHEETS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzIWEe5qalrVwyEDm-IqT4UJ33RCUq3L1u5Fo1ZkPscnAvNsYE-xMmyNd4-jjCGVBrXBw/exec';
 

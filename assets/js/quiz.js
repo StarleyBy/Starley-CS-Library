@@ -3275,3 +3275,645 @@ function updateChecklistStatus() {
         if (btnStart) btnStart.classList.remove('btn-start-highlight');
     }
 }
+
+// =========================================================================
+// GOOGLE SHEETS BACKEND SYNC, PERSONAL CABINET & ADMIN MANAGER ENGINE
+// =========================================================================
+
+state.userFavorites = [];
+state.userPlaylists = [];
+state.sessionHistory = [];
+state.cloudSyncing = false;
+
+/**
+ * Initialize Google Sheets Data Sync & User Account State
+ */
+async function initGoogleSheetsAccountSync() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const syncBadge = document.getElementById('quiz-sync-status-badge');
+    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
+    const nameDisplay = document.getElementById('profile-nickname-display');
+    const adminBtn = document.getElementById('btn-open-admin-modal');
+
+    if (!user) return;
+
+    if (nameDisplay) {
+        nameDisplay.textContent = user.nickname || user.username || 'Doctor User';
+    }
+
+    if (user.role === 'admin' && adminBtn) {
+        adminBtn.style.display = 'inline-block';
+    }
+
+    if (user.isGuest) {
+        if (syncBadge) {
+            syncBadge.textContent = '👤 Guest (Local)';
+            syncBadge.style.color = '#8b949e';
+            syncBadge.style.borderColor = 'rgba(139, 148, 158, 0.3)';
+        }
+        if (cabinetBadge) cabinetBadge.textContent = '👤 Guest Mode (No Cloud Sync)';
+        loadLocalUserData();
+        return;
+    }
+
+    // Attempt to load remote data from Google Sheets API
+    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.getUserData === 'function') {
+        if (syncBadge) syncBadge.textContent = '⏳ Loading Cloud...';
+        
+        try {
+            const res = await window.GoogleSheetsAPI.getUserData(user.username);
+            if (res && res.success && res.progress) {
+                const p = res.progress;
+                state.userFavorites = p.favorites || [];
+                state.userPlaylists = p.playlists || [];
+                state.sessionHistory = res.history || [];
+
+                // Merge streak and solved stats if higher
+                if (p.streakDays) {
+                    const profileStreak = document.getElementById('profile-stat-streak');
+                    const cabStreak = document.getElementById('cab-stat-streak');
+                    if (profileStreak) profileStreak.textContent = p.streakDays;
+                    if (cabStreak) cabStreak.textContent = p.streakDays;
+                }
+
+                if (p.solvedCount !== undefined) {
+                    const profileSolved = document.getElementById('profile-stat-solved');
+                    const cabSolved = document.getElementById('cab-stat-solved');
+                    if (profileSolved) profileSolved.textContent = p.solvedCount;
+                    if (cabSolved) cabSolved.textContent = p.solvedCount;
+                }
+
+                if (p.accuracyPct !== undefined) {
+                    const profileAcc = document.getElementById('profile-stat-accuracy');
+                    const cabAcc = document.getElementById('cab-stat-accuracy');
+                    if (profileAcc) profileAcc.textContent = Math.round(p.accuracyPct) + '%';
+                    if (cabAcc) cabAcc.textContent = Math.round(p.accuracyPct) + '%';
+                }
+
+                if (syncBadge) {
+                    syncBadge.textContent = '☁️ Cloud Synced';
+                    syncBadge.style.color = '#3fb950';
+                    syncBadge.style.borderColor = 'rgba(63, 185, 80, 0.3)';
+                }
+                if (cabinetBadge) cabinetBadge.textContent = '☁️ Cloud Synced to Google Sheets';
+                return;
+            }
+        } catch (e) {
+            console.warn('[GoogleSheetsSync] Remote load error:', e);
+        }
+    }
+
+    // Fallback to local data
+    if (syncBadge) {
+        syncBadge.textContent = '🔌 Local Mode';
+        syncBadge.style.color = '#eab308';
+    }
+    loadLocalUserData();
+}
+
+function loadLocalUserData() {
+    try {
+        state.userFavorites = JSON.parse(localStorage.getItem('starley_user_favorites') || '[]');
+        state.userPlaylists = JSON.parse(localStorage.getItem('starley_user_playlists') || '[]');
+        state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+    } catch (e) {}
+}
+
+/**
+ * Background Sync to Google Sheets
+ */
+async function syncCloudUserData(newSessionObj) {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!user || user.isGuest) {
+        // Save locally
+        localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+        if (newSessionObj) {
+            state.sessionHistory.unshift(newSessionObj);
+            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+        }
+        return;
+    }
+
+    const syncBadge = document.getElementById('quiz-sync-status-badge');
+    if (syncBadge) syncBadge.textContent = '⏳ Syncing...';
+
+    // Local backup
+    localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+
+    if (newSessionObj) {
+        state.sessionHistory.unshift(newSessionObj);
+        localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+    }
+
+    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.syncUserData === 'function') {
+        const solvedCountEl = document.getElementById('profile-stat-solved');
+        const streakEl = document.getElementById('profile-stat-streak');
+        const accEl = document.getElementById('profile-stat-accuracy');
+
+        const payload = {
+            streakDays: streakEl ? parseInt(streakEl.textContent, 10) || 1 : 1,
+            solvedCount: solvedCountEl ? parseInt(solvedCountEl.textContent, 10) || 0 : 0,
+            accuracyPct: accEl ? parseFloat(accEl.textContent) || 0 : 0,
+            favorites: state.userFavorites,
+            playlists: state.userPlaylists,
+            newSession: newSessionObj || null
+        };
+
+        const res = await window.GoogleSheetsAPI.syncUserData(user.username, payload);
+        if (res && res.success) {
+            if (syncBadge) {
+                syncBadge.textContent = '☁️ Cloud Synced';
+                syncBadge.style.color = '#3fb950';
+            }
+        } else {
+            if (syncBadge) {
+                syncBadge.textContent = '🔌 Local Saved';
+                syncBadge.style.color = '#eab308';
+            }
+        }
+    }
+}
+
+/**
+ * Initialize Personal Cabinet UI & Tab Navigation
+ */
+function initPersonalCabinet() {
+    const cabinetModal = document.getElementById('quiz-profile-modal');
+    const openBtn = document.getElementById('btn-open-profile-modal');
+    const avatarBtn = document.getElementById('profile-avatar-btn');
+    const closeBtn = document.getElementById('btn-close-profile-modal');
+
+    if (openBtn) {
+        openBtn.onclick = () => {
+            renderCabinetContent();
+            if (cabinetModal) cabinetModal.style.display = 'flex';
+        };
+    }
+
+    if (avatarBtn) {
+        avatarBtn.onclick = () => {
+            renderCabinetContent();
+            if (cabinetModal) cabinetModal.style.display = 'flex';
+        };
+    }
+
+    if (closeBtn) {
+        closeBtn.onclick = () => {
+            if (cabinetModal) cabinetModal.style.display = 'none';
+        };
+    }
+
+    // Cabinet Tab Navigation
+    const tabBtns = document.querySelectorAll('.cabinet-tab-btn');
+    tabBtns.forEach(btn => {
+        btn.onclick = () => {
+            tabBtns.forEach(b => {
+                b.classList.remove('active');
+                b.style.borderBottomColor = 'transparent';
+                b.style.color = 'var(--quiz-muted)';
+            });
+            btn.classList.add('active');
+            btn.style.borderBottomColor = 'var(--quiz-accent)';
+            btn.style.color = 'var(--quiz-text)';
+
+            const targetTab = btn.dataset.tab;
+            document.querySelectorAll('.cabinet-tab-pane').forEach(pane => pane.style.display = 'none');
+            const activePane = document.getElementById(`cabinet-tab-${targetTab}`);
+            if (activePane) activePane.style.display = 'block';
+
+            if (targetTab === 'playlists') renderPlaylistsTab();
+            if (targetTab === 'history') renderHistoryTab();
+        };
+    });
+
+    // Create Playlist Button
+    const createPlaylistBtn = document.getElementById('btn-create-playlist');
+    if (createPlaylistBtn) {
+        createPlaylistBtn.onclick = () => {
+            const title = prompt('Enter new custom playlist title (e.g., CABG Board Review):');
+            if (title && title.trim()) {
+                const newPlaylist = {
+                    id: 'pl_' + Date.now(),
+                    title: title.trim(),
+                    questionIds: [],
+                    createdAt: new Date().toISOString()
+                };
+                state.userPlaylists.push(newPlaylist);
+                syncCloudUserData();
+                renderPlaylistsTab();
+            }
+        };
+    }
+
+    // Profile Save Button
+    const saveProfileBtn = document.getElementById('btn-save-profile');
+    if (saveProfileBtn) {
+        saveProfileBtn.onclick = () => {
+            const nickInput = document.getElementById('input-profile-nickname');
+            const newNick = nickInput ? nickInput.value.trim() : '';
+            if (newNick) {
+                const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+                if (user) {
+                    user.nickname = newNick;
+                    window.AuthSystem.setAuthenticated(user);
+                    const nameDisplay = document.getElementById('profile-nickname-display');
+                    if (nameDisplay) nameDisplay.textContent = newNick;
+                }
+            }
+            syncCloudUserData();
+            if (cabinetModal) cabinetModal.style.display = 'none';
+            alert('✓ Profile and cloud settings updated successfully!');
+        };
+    }
+}
+
+function renderCabinetContent() {
+    renderPlaylistsTab();
+    renderHistoryTab();
+}
+
+/**
+ * Render Custom Playlists & Starred Favorites Tab
+ */
+function renderPlaylistsTab() {
+    const grid = document.getElementById('cabinet-playlists-grid');
+    const favList = document.getElementById('cabinet-favorites-list');
+    const favCountEl = document.getElementById('cab-fav-count');
+
+    if (favCountEl) favCountEl.textContent = state.userFavorites.length;
+
+    // Render Playlists
+    if (grid) {
+        if (state.userPlaylists.length === 0) {
+            grid.innerHTML = `
+                <div style="grid-column: 1 / -1; background: rgba(13, 17, 23, 0.4); border: 1px dashed var(--quiz-border); border-radius: 12px; padding: 20px; text-align: center; color: var(--quiz-muted); font-size: 0.85rem;">
+                    No custom playlists created yet. Click <strong>+ New Playlist</strong> above to build custom question lists!
+                </div>
+            `;
+        } else {
+            grid.innerHTML = state.userPlaylists.map(pl => `
+                <div style="background: rgba(13, 17, 23, 0.7); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <div style="font-weight: 800; font-size: 0.95rem; color: var(--quiz-text); margin-bottom: 4px;">📁 ${escapeHTML(pl.title)}</div>
+                        <div style="font-size: 0.78rem; color: var(--quiz-muted);">${pl.questionIds.length} questions included</div>
+                    </div>
+                    <div style="display: flex; gap: 8px; margin-top: 12px;">
+                        <button type="button" onclick="launchPlaylistQuiz('${pl.id}')" class="btn-primary" style="flex: 1; padding: 6px; font-size: 0.78rem; border-radius: 8px;">🚀 Play</button>
+                        <button type="button" onclick="deletePlaylist('${pl.id}')" class="btn-outline" style="color: #f87171; border-color: rgba(248,113,113,0.3); padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Delete Playlist">🗑️</button>
+                    </div>
+                </div>
+            `).join('');
+        }
+    }
+
+    // Render Starred Favorites
+    if (favList) {
+        if (state.userFavorites.length === 0) {
+            favList.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.85rem;">No starred questions yet. Click the ⭐ star icon during a quiz session to bookmark questions!</div>`;
+        } else {
+            favList.innerHTML = state.userFavorites.map((fav, idx) => `
+                <div style="display: flex; justify-content: space-between; align-items: center; padding: 8px 10px; border-bottom: 1px solid var(--quiz-border); font-size: 0.85rem; color: var(--quiz-text);">
+                    <div style="flex: 1; min-width: 0; padding-right: 10px;">
+                        <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(fav.questionSnippet || 'Starred Question')}
+                    </div>
+                    <button type="button" onclick="removeFavorite('${fav.id}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.9rem;" title="Remove Star">✕</button>
+                </div>
+            `).join('');
+        }
+    }
+}
+
+/**
+ * Launch Quiz Session from a Custom Playlist
+ */
+window.launchPlaylistQuiz = async function(playlistId) {
+    const pl = state.userPlaylists.find(p => p.id === playlistId);
+    if (!pl || pl.questionIds.length === 0) {
+        alert('This playlist has no questions yet. Star questions during a session to add them to playlists!');
+        return;
+    }
+
+    const cabinetModal = document.getElementById('quiz-profile-modal');
+    if (cabinetModal) cabinetModal.style.display = 'none';
+
+    // Load full set and filter
+    await loadAllSetsForBook();
+    const allQ = getAllQuestionsFromSelectedSets();
+    const plQuestions = allQ.filter(q => pl.questionIds.includes(String(q.id)));
+
+    if (plQuestions.length === 0) {
+        alert('Questions in this playlist could not be matched in the current quiz bank.');
+        return;
+    }
+
+    state.questions = shuffleArray(plQuestions);
+    state.currentIndex = 0;
+    state.score = 0;
+    state.answers = [];
+    state.startTime = Date.now();
+
+    showScreen('screen-question');
+    renderQuestion();
+};
+
+window.deletePlaylist = function(playlistId) {
+    if (confirm('Are you sure you want to delete this playlist?')) {
+        state.userPlaylists = state.userPlaylists.filter(p => p.id !== playlistId);
+        syncCloudUserData();
+        renderPlaylistsTab();
+    }
+};
+
+window.removeFavorite = function(favId) {
+    state.userFavorites = state.userFavorites.filter(f => String(f.id) !== String(favId));
+    syncCloudUserData();
+    renderPlaylistsTab();
+};
+
+/**
+ * Render Session History Tab
+ */
+function renderHistoryTab() {
+    const container = document.getElementById('cabinet-history-container');
+    if (!container) return;
+
+    if (state.sessionHistory.length === 0) {
+        container.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px; font-size: 0.85rem;">No test sessions completed yet. Complete a quiz to view your history log and score tracking!</div>`;
+        return;
+    }
+
+    container.innerHTML = state.sessionHistory.map(sess => {
+        const dateStr = sess.date ? new Date(sess.date).toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : 'Recent';
+        const scoreColor = sess.scorePct >= 80 ? '#3fb950' : (sess.scorePct >= 60 ? '#eab308' : '#f87171');
+
+        return `
+            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 12px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
+                <div>
+                    <div style="font-weight: 700; font-size: 0.9rem; color: var(--quiz-text);">${escapeHTML(sess.setTitle || 'Quiz Session')}</div>
+                    <div style="font-size: 0.78rem; color: var(--quiz-muted); margin-top: 2px;">
+                        <span>📅 ${dateStr}</span> • <span>⏱️ ${Math.round((sess.timeSpentSec || 0) / 60)}m</span> • <span>Mode: ${sess.mode || 'smart'}</span>
+                    </div>
+                </div>
+                <div style="text-align: right;">
+                    <div style="font-size: 1.1rem; font-weight: 800; color: ${scoreColor};">${sess.scorePct}%</div>
+                    <div style="font-size: 0.75rem; color: var(--quiz-muted);">${sess.correctQ} / ${sess.totalQ} Correct</div>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+/**
+ * Toggle Favorite Star inside Quiz Question View
+ */
+function initFavoriteButtonHandler() {
+    const favBtn = document.getElementById('btn-toggle-favorite');
+    if (!favBtn) return;
+
+    favBtn.onclick = () => {
+        const q = state.questions[state.currentIndex];
+        if (!q) return;
+
+        const qId = String(q.id || (q.questionEn || q.question || '').substring(0, 30));
+        const isFav = state.userFavorites.some(f => String(f.id) === qId);
+
+        if (isFav) {
+            state.userFavorites = state.userFavorites.filter(f => String(f.id) !== qId);
+            favBtn.innerHTML = '<i class="far fa-star"></i>';
+            favBtn.style.color = '#eab308';
+        } else {
+            state.userFavorites.push({
+                id: qId,
+                questionSnippet: (q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                addedAt: new Date().toISOString()
+            });
+            favBtn.innerHTML = '<i class="fas fa-star"></i>';
+            favBtn.style.color = '#eab308';
+        }
+
+        syncCloudUserData();
+    };
+}
+
+/**
+ * Initialize Admin Account Manager Panel
+ */
+function initAdminAccountManager() {
+    const adminModal = document.getElementById('quiz-admin-modal');
+    const openBtn = document.getElementById('btn-open-admin-modal');
+    const closeBtn = document.getElementById('btn-close-admin-modal');
+
+    if (openBtn) {
+        openBtn.onclick = () => {
+            loadAdminData();
+            if (adminModal) adminModal.style.display = 'flex';
+        };
+    }
+
+    if (closeBtn) {
+        closeBtn.onclick = () => {
+            if (adminModal) adminModal.style.display = 'none';
+        };
+    }
+
+    // Admin Tabs Navigation
+    const adminTabBtns = document.querySelectorAll('.admin-tab-btn');
+    adminTabBtns.forEach(btn => {
+        btn.onclick = () => {
+            adminTabBtns.forEach(b => {
+                b.classList.remove('active');
+                b.style.borderBottomColor = 'transparent';
+                b.style.color = 'var(--quiz-muted)';
+            });
+            btn.classList.add('active');
+            btn.style.borderBottomColor = '#eab308';
+            btn.style.color = 'var(--quiz-text)';
+
+            const targetTab = btn.dataset.tab;
+            document.querySelectorAll('.admin-tab-pane').forEach(pane => pane.style.display = 'none');
+            const activePane = document.getElementById(`admin-tab-${targetTab}`);
+            if (activePane) activePane.style.display = 'block';
+
+            if (targetTab === 'requests') loadAdminRequests();
+            if (targetTab === 'users') loadAdminUsers();
+        };
+    });
+
+    // Admin Add New User
+    const addUserBtn = document.getElementById('btn-admin-add-user');
+    if (addUserBtn) {
+        addUserBtn.onclick = async () => {
+            const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+            if (!admin || admin.role !== 'admin') return;
+
+            const username = prompt('Enter new Username (alphanumeric):');
+            if (!username) return;
+            const password = prompt('Enter Password:');
+            if (!password) return;
+            const nickname = prompt('Enter Nickname (e.g. Dr. Smith):') || username;
+            const email = prompt('Enter Email address (optional):') || '';
+            const role = confirm('Assign Administrator privileges to this user?') ? 'admin' : 'user';
+
+            if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminCreateUser === 'function') {
+                const res = await window.GoogleSheetsAPI.adminCreateUser(admin.username, admin.password, {
+                    username: username,
+                    password: password,
+                    nickname: nickname,
+                    email: email,
+                    role: role
+                });
+
+                if (res && res.success) {
+                    alert(`✓ ${res.message}`);
+                    loadAdminUsers();
+                } else {
+                    alert(`❌ Failed to create user: ${res ? res.error : 'Unknown error'}`);
+                }
+            }
+        };
+    }
+}
+
+async function loadAdminData() {
+    await loadAdminRequests();
+    await loadAdminUsers();
+}
+
+async function loadAdminRequests() {
+    const list = document.getElementById('admin-requests-list');
+    const countEl = document.getElementById('admin-req-count');
+    const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+
+    if (!admin || !list) return;
+
+    list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Fetching pending Telegram registration requests from Google Sheets...</div>`;
+
+    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminGetRequests === 'function') {
+        const res = await window.GoogleSheetsAPI.adminGetRequests(admin.username, admin.password);
+        if (res && res.success && res.requests) {
+            const pendingReqs = res.requests.filter(r => r.status === 'pending');
+            if (countEl) countEl.textContent = pendingReqs.length;
+
+            if (pendingReqs.length === 0) {
+                list.innerHTML = `<div style="color: #3fb950; text-align: center; padding: 20px; font-weight: 700;">✓ No pending Telegram registration requests. All clear!</div>`;
+                return;
+            }
+
+            list.innerHTML = pendingReqs.map(req => `
+                <div style="background: rgba(13, 17, 23, 0.7); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+                    <div>
+                        <div style="font-weight: 800; font-size: 0.95rem; color: var(--quiz-accent);">👤 ${escapeHTML(req.nickname)}</div>
+                        <div style="font-size: 0.82rem; color: var(--quiz-text); margin-top: 4px;">
+                            <span>Password: <code style="color: #3fb950;">${escapeHTML(req.password)}</code></span> • 
+                            <span>Email: ${escapeHTML(req.email || 'N/A')}</span>
+                        </div>
+                        <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 2px;">
+                            Telegram: @${escapeHTML(req.telegramUsername || 'N/A')} (ID: ${req.telegramId}) • Requested: ${new Date(req.requestedAt).toLocaleDateString()}
+                        </div>
+                    </div>
+                    <div style="display: flex; gap: 8px;">
+                        <button type="button" onclick="processAdminRequest('${req.requestId}', 'approve')" class="btn-primary" style="padding: 8px 16px; font-size: 0.82rem; background: #238636; border-color: #2ea043; border-radius: 8px;">✓ Approve & Notify</button>
+                        <button type="button" onclick="processAdminRequest('${req.requestId}', 'reject')" class="btn-outline" style="color: #f87171; border-color: rgba(248,113,113,0.4); padding: 8px 12px; font-size: 0.82rem; border-radius: 8px;">✕ Reject</button>
+                    </div>
+                </div>
+            `).join('');
+            return;
+        }
+    }
+
+    list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Could not connect to Google Sheets backend to retrieve registration requests.</div>`;
+}
+
+async function loadAdminUsers() {
+    const list = document.getElementById('admin-users-list');
+    const countEl = document.getElementById('admin-user-count');
+    const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+
+    if (!admin || !list) return;
+
+    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminGetUsers === 'function') {
+        const res = await window.GoogleSheetsAPI.adminGetUsers(admin.username, admin.password);
+        if (res && res.success && res.users) {
+            if (countEl) countEl.textContent = res.users.length;
+
+            list.innerHTML = `
+                <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem; color: var(--quiz-text);">
+                    <thead>
+                        <tr style="border-bottom: 1px solid var(--quiz-border); text-align: left; color: var(--quiz-muted);">
+                            <th style="padding: 8px;">User</th>
+                            <th style="padding: 8px;">Role</th>
+                            <th style="padding: 8px;">Password</th>
+                            <th style="padding: 8px;">Email</th>
+                            <th style="padding: 8px;">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${res.users.map(u => `
+                            <tr style="border-bottom: 1px solid rgba(48, 54, 61, 0.4);">
+                                <td style="padding: 8px; font-weight: 700;">${escapeHTML(u.nickname || u.username)} (${escapeHTML(u.username)})</td>
+                                <td style="padding: 8px;"><span style="color: ${u.role === 'admin' ? '#eab308' : '#58a6ff'}; font-weight: 700;">${u.role}</span></td>
+                                <td style="padding: 8px;"><code>${escapeHTML(u.password)}</code></td>
+                                <td style="padding: 8px; color: var(--quiz-muted);">${escapeHTML(u.email || '-')}</td>
+                                <td style="padding: 8px;">
+                                    ${u.username !== 'admin' ? `<button type="button" onclick="deleteAdminUser('${u.username}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.9rem;" title="Delete User">🗑️ Delete</button>` : '<span style="color: var(--quiz-muted);">Primary Admin</span>'}
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+            return;
+        }
+    }
+
+    list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Could not connect to Google Sheets backend to retrieve user directory.</div>`;
+}
+
+window.processAdminRequest = async function(requestId, decision) {
+    const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!admin || !requestId) return;
+
+    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminProcessRequest === 'function') {
+        const res = await window.GoogleSheetsAPI.adminProcessRequest(admin.username, admin.password, requestId, decision);
+        if (res && res.success) {
+            alert(`✓ Request ${decision}ed successfully! Notifications sent via Telegram & Email.`);
+            loadAdminData();
+        } else {
+            alert(`❌ Error processing request: ${res ? res.error : 'Unknown error'}`);
+        }
+    }
+};
+
+window.deleteAdminUser = async function(targetUser) {
+    const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!admin || !targetUser) return;
+
+    if (confirm(`Are you sure you want to permanently delete user account '${targetUser}'?`)) {
+        if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminDeleteUser === 'function') {
+            const res = await window.GoogleSheetsAPI.adminDeleteUser(admin.username, admin.password, targetUser);
+            if (res && res.success) {
+                alert(`✓ User '${targetUser}' deleted successfully.`);
+                loadAdminUsers();
+            } else {
+                alert(`❌ Error deleting user: ${res ? res.error : 'Unknown error'}`);
+            }
+        }
+    }
+};
+
+function escapeHTML(str) {
+    return String(str || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// Hook into DOM Loaded Initialization
+document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(() => {
+        initGoogleSheetsAccountSync();
+        initPersonalCabinet();
+        initFavoriteButtonHandler();
+        initAdminAccountManager();
+    }, 500);
+});
+

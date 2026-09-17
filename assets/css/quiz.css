@@ -1797,4 +1797,25 @@ body.night-mode .cs-flashcard-back,
     100% { transform: translateY(0) scale(1); opacity: 1; }
 }
 
+/* Personal Cabinet & Admin Manager Custom Styles */
+.cabinet-tab-btn:hover, .admin-tab-btn:hover {
+    color: var(--quiz-text) !important;
+}
+
+.cabinet-tab-btn.active, .admin-tab-btn.active {
+    transition: all 0.2s ease;
+}
+
+.cabinet-tab-pane, .admin-tab-pane {
+    animation: cabinet-pane-fade 0.2s ease-out;
+}
+
+@keyframes cabinet-pane-fade {
+    0% { opacity: 0; transform: translateY(4px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+.sync-pill {
+    transition: all 0.2s ease;
+}
 
