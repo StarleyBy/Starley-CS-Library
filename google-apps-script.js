@@ -316,6 +316,37 @@ function handleSyncUserData(params) {
 }
 
 /**
+ * Notify Administrator Telegram Chat when a new registration request is logged
+ */
+function notifyAdminNewRequest(reqId, nickname, password, email, telegramUsername, telegramId) {
+  try {
+    const ss = SpreadsheetApp.getActiveSpreadsheet();
+    const accountsSheet = ss.getSheetByName('Accounts');
+    const accData = accountsSheet.getDataRange().getValues();
+    let adminTgId = '954588841'; // Primary Admin Chat ID
+
+    for (let i = 1; i < accData.length; i++) {
+      if (accData[i][2] === 'admin' && accData[i][6]) {
+        adminTgId = String(accData[i][6]).trim();
+        break;
+      }
+    }
+
+    if (adminTgId && TELEGRAM_BOT_TOKEN && TELEGRAM_BOT_TOKEN !== 'YOUR_TELEGRAM_BOT_TOKEN') {
+      const msg = `📬 *New Quiz Account Request!*\n\n` +
+        `👤 *Nickname:* \`${nickname}\`\n` +
+        `🔑 *Password:* \`${password}\`\n` +
+        `📧 *Email:* ${email || 'N/A'}\n` +
+        `✈️ *Telegram:* @${telegramUsername || 'N/A'} (ID: ${telegramId || 'N/A'})\n\n` +
+        `Approve/Reject via Admin Panel in Quiz Mode or Google Sheets!`;
+      sendTelegramMessage(adminTgId, msg);
+    }
+  } catch (e) {
+    Logger.log('Notify admin error: ' + e.toString());
+  }
+}
+
+/**
  * Handle Telegram Register Request (from bot or API)
  */
 function handleTelegramRegister(params) {
@@ -337,6 +368,9 @@ function handleTelegramRegister(params) {
   reqSheet.appendRow([
     reqId, telegramId, telegramUsername, nickname, password, email, 'pending', nowStr
   ]);
+
+  // Dispatch alert to Admin Telegram Chat
+  notifyAdminNewRequest(reqId, nickname, password, email, telegramUsername, telegramId);
 
   return {
     success: true,

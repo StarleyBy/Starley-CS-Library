@@ -1037,8 +1037,6 @@ function updateUserProfileDisplay() {
 
 function setupProfileListeners() {
     updateUserProfileDisplay();
-        };
-    }
 }
 
 // ==========================================================================
@@ -1373,18 +1371,21 @@ function setupLobbyListeners() {
         const lblQuizMode = document.getElementById('label-quiz-mode');
         if (lblQuizMode) lblQuizMode.textContent = isRu ? 'Режим теста' : 'Quiz Mode';
 
-        // Localize segmented button text and tooltips
-        const btnSmartTitle = document.getElementById('btn-mode-smart').querySelector('.mode-title');
+        // Localize segmented button text and tooltips safely
+        const btnSmartEl = document.getElementById('btn-mode-smart');
+        const btnSmartTitle = btnSmartEl ? btnSmartEl.querySelector('.mode-title') : null;
         if (btnSmartTitle) btnSmartTitle.textContent = isRu ? 'Умный режим' : 'Smart Drill';
-        document.getElementById('btn-mode-smart').title = isRu ? '70% слабых/новых вопросов, 30% закрепленных' : '70% weak/new, 30% mastered questions';
+        if (btnSmartEl) btnSmartEl.title = isRu ? '70% слабых/новых вопросов, 30% закрепленных' : '70% weak/new, 30% mastered questions';
 
-        const btnWeakTitle = document.getElementById('btn-mode-weak').querySelector('.mode-title');
+        const btnWeakEl = document.getElementById('btn-mode-weak');
+        const btnWeakTitle = btnWeakEl ? btnWeakEl.querySelector('.mode-title') : null;
         if (btnWeakTitle) btnWeakTitle.textContent = isRu ? 'Ошибки' : 'Weak Spots';
-        document.getElementById('btn-mode-weak').title = isRu ? 'Только вопросы, в которых были ошибки' : 'Only questions answered incorrectly before';
+        if (btnWeakEl) btnWeakEl.title = isRu ? 'Только вопросы, в которых были ошибки' : 'Only questions answered incorrectly before';
 
-        const btnExamTitle = document.getElementById('btn-mode-exam').querySelector('.mode-title');
+        const btnExamEl = document.getElementById('btn-mode-exam');
+        const btnExamTitle = btnExamEl ? btnExamEl.querySelector('.mode-title') : null;
         if (btnExamTitle) btnExamTitle.textContent = isRu ? 'Экзамен' : 'Exam Sim';
-        document.getElementById('btn-mode-exam').title = isRu ? 'Таймер, без подсказок во время теста' : 'Timer, no explanations during the test';
+        if (btnExamEl) btnExamEl.title = isRu ? 'Таймер, без подсказок во время теста' : 'Timer, no explanations during the test';
 
         const confidenceLabel = document.getElementById('confidence-label');
         if (confidenceLabel) confidenceLabel.textContent = isRu ? 'Как вам этот вопрос?' : 'How was this question?';

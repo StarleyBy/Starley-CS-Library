@@ -1,4 +1,13 @@
-// assets/js/auth.js - Medical Library Authentication Engine
+// Global logout handler
+window.logout = function() {
+    if (confirm('Exit Medical Library session?')) {
+        sessionStorage.removeItem('starley_auth');
+        localStorage.removeItem('starley_auth');
+        localStorage.removeItem('starley_user_profile');
+        window.location.reload();
+    }
+};
+
 (function() {
     const PASSWORDS = {
         '456755': { username: 'admin', role: 'admin', name: 'Administrator', nickname: 'Administrator', avatar: 'doc' },
@@ -109,13 +118,6 @@
 
                     <button type="submit" id="btn-submit-req" style="width: 100%; padding: 10px; border-radius: 8px; border: none; background: #238636; color: #fff; font-weight: 700; cursor: pointer; font-size: 0.95rem;">📤 Submit Request to Admin</button>
                 </form>
-
-                <div style="margin-top: 16px; padding-top: 14px; border-top: 1px dashed #30363d; text-align: center;">
-                    <div style="font-size: 0.8rem; color: #8b949e; margin-bottom: 6px;">Or send request directly in Telegram Bot:</div>
-                    <a href="https://t.me/CSbugs_bot" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 6px; color: #38bdf8; text-decoration: none; font-weight: 700; font-size: 0.85rem;">
-                        <span>✈️ Open Telegram Bot (@CSbugs_bot)</span>
-                    </a>
-                </div>
             </div>
         `;
 
@@ -383,7 +385,7 @@
         indicator.innerHTML = `
             <span class="role-icon">${avatarIcon}</span>
             <span class="role-name">${userInfo.nickname || userInfo.name} (${badgeTitle})</span>
-            <button onclick="logout()" class="logout-btn" title="Logout" style="background: none; border: none; color: #f87171; cursor: pointer; padding: 2px 4px; font-size: 0.9rem;">🚪</button>
+            <button onclick="window.logout()" class="logout-btn" title="Logout" style="background: none; border: none; color: #f87171; cursor: pointer; padding: 2px 4px; font-size: 0.9rem;">🚪</button>
         `;
         document.body.appendChild(indicator);
         makeDraggable(indicator);
