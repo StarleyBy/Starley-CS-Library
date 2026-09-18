@@ -60,6 +60,9 @@ if (typeof window !== 'undefined' && window.location.protocol === 'file:') {
 }
 
 // Google Sheets Backend API Endpoint URL
-// Paste your deployed Google Apps Script Web App URL here (e.g. 'https://script.google.com/macros/s/.../exec')
 window.GOOGLE_SHEETS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzIWEe5qalrVwyEDm-IqT4UJ33RCUq3L1u5Fo1ZkPscnAvNsYE-xMmyNd4-jjCGVBrXBw/exec';
+
+// Telegram Bot Admin Configuration
+window.TELEGRAM_BOT_TOKEN = '8776764036:AAEjdwQQjmB2zxuF4ILgBDVcJgwdu0FdQ5c';
+window.TELEGRAM_ADMIN_CHAT_ID = '954588841';
 

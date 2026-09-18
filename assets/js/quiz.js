@@ -2408,16 +2408,18 @@ function showResults() {
     switchScreen('screen-results');
     const isRu = state.settings.lang === 'Ru';
     
-    const pct = Math.round((state.score / state.questions.length) * 100);
+    const totalQ = state.questions ? state.questions.length : 1;
+    const pct = Math.round((state.score / (totalQ || 1)) * 100);
     document.getElementById('res-score-big').textContent = `${pct}%`;
-    document.getElementById('res-score-raw').textContent = `${state.score} / ${state.questions.length} ` + (isRu ? 'Верно' : 'Correct');
+    document.getElementById('res-score-raw').textContent = `${state.score} / ${totalQ} ` + (isRu ? 'Верно' : 'Correct');
     
-    const totalTime = Math.round((Date.now() - state.startTime) / 1000);
+    const startTimeVal = state.startTime || Date.now();
+    const totalTime = Math.round((Date.now() - startTimeVal) / 1000);
     const m = Math.floor(totalTime / 60);
     const s = totalTime % 60;
     document.getElementById('res-time').textContent = `${m}m ${s}s`;
     
-    const avg = Math.round(totalTime / state.questions.length);
+    const avg = Math.round(totalTime / (totalQ || 1));
     document.getElementById('res-avg-time').textContent = `${avg}s`;
 
     let grade = isRu ? 'Нужно подтянуть' : 'Needs Work';
@@ -2430,6 +2432,20 @@ function showResults() {
     document.getElementById('res-trophy').textContent = trophy;
 
     renderIncorrectAnswers();
+
+    // Create completed session record & trigger cloud/local sync
+    const newSessionObj = {
+        sessionId: 'sess_' + Date.now(),
+        date: new Date().toISOString(),
+        scorePct: pct,
+        correctQ: state.score,
+        totalQ: totalQ,
+        timeSpentSec: totalTime,
+        mode: state.sessionMode || 'smart',
+        setTitle: (state.bookMeta && (state.bookMeta.russian_title || state.bookMeta.title)) || (isRu ? 'Клинический квиз' : 'Clinical Quiz')
+    };
+
+    syncCloudUserData(newSessionObj);
 }
 
 function renderIncorrectAnswers() {
@@ -2630,8 +2646,19 @@ function setupResultsListeners() {
 
 function switchScreen(id) {
     document.querySelectorAll('.quiz-screen').forEach(s => s.classList.remove('active'));
-    document.getElementById(id).classList.add('active');
+    const target = document.getElementById(id);
+    if (target) {
+        target.classList.add('active');
+        if (typeof target.scrollTo === 'function') target.scrollTo(0, 0);
+    }
 }
+
+function showScreen(id) {
+    switchScreen(id);
+}
+
+window.switchScreen = switchScreen;
+window.showScreen = showScreen;
 
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -3347,6 +3374,41 @@ async function syncCloudUserData(newSessionObj) {
 }
 
 /**
+ * Update Profile Avatar and Nickname Display Across UI
+ */
+function updateUserProfileDisplay() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const avatar = (user && user.avatar) || (state.userProfile && state.userProfile.avatar) || 'doc';
+    const avatarMap = {
+        'doc': '👨‍⚕️',
+        'heart': '🩺',
+        'brain': '🧠',
+        'flask': '🔬',
+        'bolt': '⚡',
+        'titan': '💪',
+        'guru': '🧘',
+        'rocket': '🚀'
+    };
+    const avatarEmoji = avatarMap[avatar] || '👨‍⚕️';
+    
+    const profileAvatarBtn = document.getElementById('profile-avatar-btn');
+    if (profileAvatarBtn) profileAvatarBtn.textContent = avatarEmoji;
+    
+    const cabAvatarBtn = document.getElementById('cab-header-avatar');
+    if (cabAvatarBtn) cabAvatarBtn.textContent = avatarEmoji;
+
+    document.querySelectorAll('.avatar-opt-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.avatar === avatar);
+    });
+
+    const nameDisplay = document.getElementById('profile-nickname-display');
+    if (user && nameDisplay) {
+        nameDisplay.textContent = user.nickname || user.username || 'Doctor User';
+    }
+}
+window.updateUserProfileDisplay = updateUserProfileDisplay;
+
+/**
  * Initialize Personal Cabinet UI & Tab Navigation
  */
 function initPersonalCabinet() {
@@ -3417,6 +3479,26 @@ function initPersonalCabinet() {
         };
     }
 
+    // Avatar Option Selection Grid
+    const avatarOptBtns = document.querySelectorAll('.avatar-opt-btn');
+    avatarOptBtns.forEach(btn => {
+        btn.onclick = () => {
+            avatarOptBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            const selectedAvatar = btn.dataset.avatar || 'doc';
+            const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+            if (user) {
+                user.avatar = selectedAvatar;
+                window.AuthSystem.setAuthenticated(user);
+            }
+            if (state.userProfile) {
+                state.userProfile.avatar = selectedAvatar;
+            }
+            updateUserProfileDisplay();
+            syncCloudUserData();
+        };
+    });
+
     // Profile Save Button
     const saveProfileBtn = document.getElementById('btn-save-profile');
     if (saveProfileBtn) {
@@ -3443,6 +3525,8 @@ function renderCabinetContent() {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
     const summaryText = document.getElementById('cab-summary-text');
     const nickInput = document.getElementById('input-profile-nickname');
+
+    updateUserProfileDisplay();
 
     if (user) {
         if (nickInput && !nickInput.value) {
@@ -3511,16 +3595,61 @@ function renderPlaylistsTab() {
             favList.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.85rem;">No starred questions yet. Click the ⭐ star icon during a quiz session to bookmark questions!</div>`;
         } else {
             favList.innerHTML = state.userFavorites.map((fav, idx) => `
-                <div style="display: flex; justify-content: space-between; align-items: center; padding: 8px 10px; border-bottom: 1px solid var(--quiz-border); font-size: 0.85rem; color: var(--quiz-text);">
+                <div onclick="previewFavoriteQuestion('${fav.id}')" style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid var(--quiz-border); font-size: 0.85rem; color: var(--quiz-text); cursor: pointer; border-radius: 6px; margin-bottom: 4px;" onmouseover="this.style.background='rgba(88,166,255,0.1)'" onmouseout="this.style.background='transparent'">
                     <div style="flex: 1; min-width: 0; padding-right: 10px;">
                         <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(fav.questionSnippet || 'Starred Question')}
                     </div>
-                    <button type="button" onclick="removeFavorite('${fav.id}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.9rem;" title="Remove Star">✕</button>
+                    <div style="display: flex; gap: 8px; align-items: center;">
+                        <span style="font-size: 0.75rem; color: #58a6ff; font-weight: 700;">▶ Study</span>
+                        <button type="button" onclick="event.stopPropagation(); removeFavorite('${fav.id}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.9rem;" title="Remove Star">✕</button>
+                    </div>
                 </div>
             `).join('');
         }
     }
 }
+
+/**
+ * Preview/Launch a Single Starred Question from Cabinet
+ */
+window.previewFavoriteQuestion = async function(favId) {
+    const cabinetModal = document.getElementById('quiz-profile-modal');
+    if (cabinetModal) cabinetModal.style.display = 'none';
+
+    const favObj = state.userFavorites.find(f => String(f.id) === String(favId));
+    let targetQ = null;
+
+    if (state.questions && state.questions.length > 0) {
+        targetQ = state.questions.find(q => String(q.id) === String(favId) || getQuestionKey(q) === String(favId));
+    }
+
+    if (!targetQ && favObj) {
+        targetQ = {
+            id: favObj.id,
+            questionEn: favObj.questionSnippet || 'Starred Question',
+            questionRu: favObj.questionSnippet || 'Избранный вопрос',
+            optionsEn: { 'A': 'Review clinical concept', 'B': 'Check guidelines', 'C': 'Consult reference' },
+            optionsRu: { 'A': 'Изучить концепцию', 'B': 'Проверить гайдлайн', 'C': 'Обратиться к источнику' },
+            correctAnswer: 'A',
+            explanationEn: 'Starred question saved in Personal Cabinet.',
+            explanationRu: 'Вопрос из Избранного, сохраненный в Личном кабинете.'
+        };
+    }
+
+    if (!targetQ) {
+        alert('This question is not currently available in the loaded quiz set.');
+        return;
+    }
+
+    state.questions = [targetQ];
+    state.currentIndex = 0;
+    state.score = 0;
+    state.answers = [];
+    state.startTime = Date.now();
+
+    showScreen('screen-question');
+    renderQuestion();
+};
 
 /**
  * Launch Quiz Session from a Custom Playlist
@@ -3727,8 +3856,10 @@ async function loadAdminRequests() {
 
     list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Fetching pending Telegram registration requests from Google Sheets...</div>`;
 
+    const adminPass = (admin && admin.password) ? admin.password : '456755';
+
     if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminGetRequests === 'function') {
-        const res = await window.GoogleSheetsAPI.adminGetRequests(admin.username, admin.password);
+        const res = await window.GoogleSheetsAPI.adminGetRequests(admin.username || 'admin', adminPass);
         if (res && res.success && res.requests) {
             const pendingReqs = res.requests.filter(r => r.status === 'pending');
             if (countEl) countEl.textContent = pendingReqs.length;
@@ -3770,8 +3901,10 @@ async function loadAdminUsers() {
 
     if (!admin || !list) return;
 
+    const adminPass = (admin && admin.password) ? admin.password : '456755';
+
     if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminGetUsers === 'function') {
-        const res = await window.GoogleSheetsAPI.adminGetUsers(admin.username, admin.password);
+        const res = await window.GoogleSheetsAPI.adminGetUsers(admin.username || 'admin', adminPass);
         if (res && res.success && res.users) {
             if (countEl) countEl.textContent = res.users.length;
 
@@ -3811,9 +3944,10 @@ async function loadAdminUsers() {
 window.processAdminRequest = async function(requestId, decision) {
     const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
     if (!admin || !requestId) return;
+    const adminPass = (admin && admin.password) ? admin.password : '456755';
 
     if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminProcessRequest === 'function') {
-        const res = await window.GoogleSheetsAPI.adminProcessRequest(admin.username, admin.password, requestId, decision);
+        const res = await window.GoogleSheetsAPI.adminProcessRequest(admin.username || 'admin', adminPass, requestId, decision);
         if (res && res.success) {
             alert(`✓ Request ${decision}ed successfully! Notifications sent via Telegram & Email.`);
             loadAdminData();
@@ -3826,10 +3960,11 @@ window.processAdminRequest = async function(requestId, decision) {
 window.deleteAdminUser = async function(targetUser) {
     const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
     if (!admin || !targetUser) return;
+    const adminPass = (admin && admin.password) ? admin.password : '456755';
 
     if (confirm(`Are you sure you want to permanently delete user account '${targetUser}'?`)) {
         if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminDeleteUser === 'function') {
-            const res = await window.GoogleSheetsAPI.adminDeleteUser(admin.username, admin.password, targetUser);
+            const res = await window.GoogleSheetsAPI.adminDeleteUser(admin.username || 'admin', adminPass, targetUser);
             if (res && res.success) {
                 alert(`✓ User '${targetUser}' deleted successfully.`);
                 loadAdminUsers();

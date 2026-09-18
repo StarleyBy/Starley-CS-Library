@@ -757,6 +757,24 @@ function sendTelegramMessage(chatId, text) {
 }
 
 /**
+ * Helper: Notify Admin via Telegram for New Registration Request
+ */
+function notifyAdminNewRequest(reqId, nickname, password, email, telegramUsername, telegramId) {
+  const adminChatId = TELEGRAM_ADMIN_CHAT_ID || '954588841';
+  if (!TELEGRAM_BOT_TOKEN || TELEGRAM_BOT_TOKEN === 'YOUR_TELEGRAM_BOT_TOKEN') return;
+  
+  const msg = `📬 *НОВЫЙ ЗАПРОС НА АККАУНТ (КВИЗ)*\n\n` +
+    `👤 *Имя:* \`${nickname}\`\n` +
+    `🔑 *Пароль:* \`${password}\`\n` +
+    `📧 *Email:* ${email || 'не указан'}\n` +
+    `✈️ *Telegram:* @${telegramUsername || 'не указан'} (ID: ${telegramId || 'N/A'})\n` +
+    `🆔 *Request ID:* \`${reqId}\`\n\n` +
+    `Утвердите или отклоните в панели 👑 Admin или в Google Таблице!`;
+    
+  sendTelegramMessage(adminChatId, msg);
+}
+
+/**
  * Telegram Webhook Processor for Bot commands (/start, /register)
  */
 function handleTelegramWebhook(update) {

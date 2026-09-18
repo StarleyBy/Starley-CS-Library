@@ -10,8 +10,8 @@ window.logout = function() {
 
 (function() {
     const PASSWORDS = {
-        '456755': { username: 'admin', role: 'admin', name: 'Administrator', nickname: 'Administrator', avatar: 'doc' },
-        '0455': { username: 'guest', role: 'user', name: 'Guest Doctor', nickname: 'Guest Doctor', avatar: 'doc', isGuest: true }
+        '456755': { username: 'admin', password: '456755', role: 'admin', name: 'Administrator', nickname: 'Administrator', avatar: 'doc' },
+        '0455': { username: 'guest', password: '0455', role: 'user', name: 'Guest Doctor', nickname: 'Guest Doctor', avatar: 'doc', isGuest: true }
     };
     
     const SESSION_KEY = 'starley_auth';
@@ -47,7 +47,7 @@ window.logout = function() {
     function setAuthenticated(userInfo) {
         const authData = {
             username: userInfo.username || userInfo.name || 'user',
-            password: userInfo.password || '',
+            password: userInfo.password || (userInfo.role === 'admin' ? '456755' : ''),
             role: userInfo.role || 'user',
             name: userInfo.nickname || userInfo.name || 'User',
             nickname: userInfo.nickname || userInfo.name || 'User',
@@ -146,6 +146,29 @@ window.logout = function() {
             submitBtn.disabled = true;
             submitBtn.textContent = 'Submitting Request...';
 
+            // Dispatch instant direct Telegram alert to Admin (@CSbugs_bot)
+            try {
+                const botToken = window.TELEGRAM_BOT_TOKEN || '8776764036:AAEjdwQQjmB2zxuF4ILgBDVcJgwdu0FdQ5c';
+                const adminChatId = window.TELEGRAM_ADMIN_CHAT_ID || '954588841';
+                const escStr = (s) => String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                const tgMsg = `📬 <b>НОВЫЙ ЗАПРОС НА АККАУНТ (КВИЗ)</b>\n\n` +
+                    `👤 <b>Имя пользователя:</b> <code>${escStr(nickname)}</code>\n` +
+                    `🔑 <b>Пароль:</b> <code>${escStr(password)}</code>\n` +
+                    `📧 <b>Email:</b> ${escStr(email || 'не указан')}\n` +
+                    `✈️ <b>Telegram:</b> ${escStr(telegram || 'не указан')}\n\n` +
+                    `Одобрите или отклоните в панели управления 👑 Admin или Google Таблице!`;
+
+                fetch(`https://api.telegram.org/bot${botToken}/sendMessage`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        chat_id: adminChatId,
+                        text: tgMsg,
+                        parse_mode: 'HTML'
+                    })
+                }).catch(err => console.warn('[Telegram Alert Error]:', err));
+            } catch (err) {}
+
             if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.submitRegistration === 'function') {
                 const res = await window.GoogleSheetsAPI.submitRegistration({
                     nickname: nickname,
@@ -200,6 +223,7 @@ window.logout = function() {
                             inputmode="numeric"
                             autocomplete="off"
                             autofocus
+                            style="color: #0f172a; background: #ffffff; border: 2px solid #94a3b8; font-weight: 700; font-size: 1.2rem; text-align: center; letter-spacing: 6px;"
                         >
                         <div class="error-message" id="error-message"></div>
                         <button type="submit">Enter</button>
