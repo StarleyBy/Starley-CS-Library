@@ -1630,9 +1630,15 @@ async function startQuiz() {
                     const data = await res.json();
                     questions = data.questions || [];
                     
-                    questions.forEach(q => {
+                    const manifestId = (set.bookPath + '_' + set.setId).replace(/[^a-zA-Z0-9]/g, '_');
+                    questions.forEach((q, idx) => {
                         q.bookPath = set.bookPath;
+                        q.setId = set.setId;
+                        q.manifestId = manifestId;
                         q.meta = data.meta;
+                        if (!q.id) {
+                            q.id = `${manifestId}_q${idx + 1}`;
+                        }
                     });
                     
                     state.setQuestionsMap[cacheKey] = questions;
@@ -2433,6 +2439,56 @@ function showResults() {
 
     renderIncorrectAnswers();
 
+    // Gather unique topic titles / set labels involved in this session
+    const topicSet = new Set();
+    if (state.questions && state.questions.length > 0) {
+        state.questions.forEach(q => {
+            const t = getQuestionTopic(q);
+            if (t) topicSet.add(t);
+        });
+    }
+    const topicsList = Array.from(topicSet);
+
+    // Build question detail / error list
+    const sessionDetailsList = [];
+    if (state.answers && state.questions) {
+        state.answers.forEach((ans, idx) => {
+            const q = state.questions[idx];
+            if (!q) return;
+
+            const lang = state.settings.lang || 'En';
+            const optionsMap = q['options' + lang] || q['optionsEn'] || q.options || {};
+            
+            const chosenLetters = Array.isArray(ans.chosen) ? ans.chosen : (ans.chosen ? [ans.chosen] : []);
+            const correctLetters = Array.isArray(q.correctAnswer) ? q.correctAnswer : (q.correctAnswer ? [q.correctAnswer] : []);
+
+            const chosenTextArr = chosenLetters.map(l => `${l}: ${optionsMap[l] || l}`);
+            const correctTextArr = correctLetters.map(l => `${l}: ${optionsMap[l] || l}`);
+
+            sessionDetailsList.push({
+                questionIndex: idx + 1,
+                questionId: q.id || getQuestionKey(q),
+                bookPath: q.bookPath || state.bookPath || '',
+                setId: q.setId || '',
+                manifestId: q.manifestId || '',
+                questionEn: q.questionEn || q.question || '',
+                questionRu: q.questionRu || q.question || '',
+                optionsEn: q.optionsEn || q.options || {},
+                optionsRu: q.optionsRu || q.options || {},
+                correctAnswer: q.correctAnswer,
+                chosen: ans.chosen,
+                chosenText: chosenTextArr.join(' | ') || (isRu ? 'Нет ответа' : 'No Answer'),
+                correctText: correctTextArr.join(' | '),
+                isCorrect: !!ans.isCorrect,
+                explanationEn: q.explanationEn || q.explanation || '',
+                explanationRu: q.explanationRu || q.explanation || '',
+                chapterId: q.chapterId || ''
+            });
+        });
+    }
+
+    const countModeVal = state.settings.allQuestions ? 'all' : String(state.settings.count || 10);
+
     // Create completed session record & trigger cloud/local sync
     const newSessionObj = {
         sessionId: 'sess_' + Date.now(),
@@ -2442,7 +2498,11 @@ function showResults() {
         totalQ: totalQ,
         timeSpentSec: totalTime,
         mode: state.sessionMode || 'smart',
-        setTitle: (state.bookMeta && (state.bookMeta.russian_title || state.bookMeta.title)) || (isRu ? 'Клинический квиз' : 'Clinical Quiz')
+        lang: state.settings.lang || 'En',
+        countMode: countModeVal,
+        topics: topicsList,
+        setTitle: (state.bookMeta && (state.bookMeta.russian_title || state.bookMeta.title)) || (isRu ? 'Клинический квиз' : 'Clinical Quiz'),
+        errors: sessionDetailsList
     };
 
     syncCloudUserData(newSessionObj);
@@ -3612,6 +3672,9 @@ function renderPlaylistsTab() {
 /**
  * Preview/Launch a Single Starred Question from Cabinet
  */
+/**
+ * Preview/Launch a Single Starred Question from Cabinet
+ */
 window.previewFavoriteQuestion = async function(favId) {
     const cabinetModal = document.getElementById('quiz-profile-modal');
     if (cabinetModal) cabinetModal.style.display = 'none';
@@ -3623,7 +3686,9 @@ window.previewFavoriteQuestion = async function(favId) {
         targetQ = state.questions.find(q => String(q.id) === String(favId) || getQuestionKey(q) === String(favId));
     }
 
-    if (!targetQ && favObj) {
+    if (!targetQ && favObj && favObj.questionObj) {
+        targetQ = favObj.questionObj;
+    } else if (!targetQ && favObj) {
         targetQ = {
             id: favObj.id,
             questionEn: favObj.questionSnippet || 'Starred Question',
@@ -3647,7 +3712,7 @@ window.previewFavoriteQuestion = async function(favId) {
     state.answers = [];
     state.startTime = Date.now();
 
-    showScreen('screen-question');
+    switchScreen('screen-question');
     renderQuestion();
 };
 
@@ -3680,7 +3745,7 @@ window.launchPlaylistQuiz = async function(playlistId) {
     state.answers = [];
     state.startTime = Date.now();
 
-    showScreen('screen-question');
+    switchScreen('screen-question');
     renderQuestion();
 };
 
@@ -3705,7 +3770,7 @@ function renderHistoryTab() {
     const container = document.getElementById('cabinet-history-container');
     if (!container) return;
 
-    if (state.sessionHistory.length === 0) {
+    if (!state.sessionHistory || state.sessionHistory.length === 0) {
         container.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px; font-size: 0.85rem;">No test sessions completed yet. Complete a quiz to view your history log and score tracking!</div>`;
         return;
     }
@@ -3713,22 +3778,241 @@ function renderHistoryTab() {
     container.innerHTML = state.sessionHistory.map(sess => {
         const dateStr = sess.date ? new Date(sess.date).toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : 'Recent';
         const scoreColor = sess.scorePct >= 80 ? '#3fb950' : (sess.scorePct >= 60 ? '#eab308' : '#f87171');
+        const langLabel = sess.lang === 'Ru' ? '🇷🇺 RU' : '🇬🇧 EN';
+        const countModeLabel = sess.countMode === 'all' ? 'All' : (sess.countMode ? `${sess.countMode} Qs` : '');
+        
+        // Topics chips (up to 3)
+        const topics = Array.isArray(sess.topics) ? sess.topics : [];
+        const topicsHtml = topics.slice(0, 3).map(t => `<span style="background: rgba(88,166,255,0.12); color: #58a6ff; font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px; border: 1px solid rgba(88,166,255,0.25);">${escapeHTML(t)}</span>`).join('');
+        const topicOverflow = topics.length > 3 ? `<span style="font-size: 0.7rem; color: var(--quiz-muted);">+${topics.length - 3}</span>` : '';
 
         return `
-            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 12px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
-                <div>
-                    <div style="font-weight: 700; font-size: 0.9rem; color: var(--quiz-text);">${escapeHTML(sess.setTitle || 'Quiz Session')}</div>
-                    <div style="font-size: 0.78rem; color: var(--quiz-muted); margin-top: 2px;">
-                        <span>📅 ${dateStr}</span> • <span>⏱️ ${Math.round((sess.timeSpentSec || 0) / 60)}m</span> • <span>Mode: ${sess.mode || 'smart'}</span>
+            <div onclick="openSessionDetailsModal('${sess.sessionId}')" style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; margin-bottom: 10px; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.background='rgba(30,35,45,0.8)'; this.style.borderColor='rgba(88,166,255,0.4)';" onmouseout="this.style.background='rgba(13, 17, 23, 0.6)'; this.style.borderColor='var(--quiz-border)';">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+                    <div style="flex: 1; min-width: 0;">
+                        <div style="font-weight: 800; font-size: 0.92rem; color: var(--quiz-text); margin-bottom: 4px;">${escapeHTML(sess.setTitle || 'Quiz Session')}</div>
+                        <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; align-items: center;">
+                            <span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;">${langLabel}</span>
+                            ${countModeLabel ? `<span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;">🔢 ${countModeLabel}</span>` : ''}
+                            <span style="background: rgba(56, 139, 253, 0.15); color: #58a6ff; font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;">🎯 ${sess.mode || 'smart'}</span>
+                        </div>
+                        ${topicsHtml ? `<div style="display: flex; gap: 4px; flex-wrap: wrap; align-items: center; margin-top: 4px;">${topicsHtml}${topicOverflow}</div>` : ''}
+                        <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 6px;">
+                            <span>📅 ${dateStr}</span> • <span>⏱️ ${Math.round((sess.timeSpentSec || 0) / 60)}m ${(sess.timeSpentSec || 0) % 60}s</span>
+                        </div>
                     </div>
-                </div>
-                <div style="text-align: right;">
-                    <div style="font-size: 1.1rem; font-weight: 800; color: ${scoreColor};">${sess.scorePct}%</div>
-                    <div style="font-size: 0.75rem; color: var(--quiz-muted);">${sess.correctQ} / ${sess.totalQ} Correct</div>
+                    <div style="text-align: right; flex-shrink: 0;">
+                        <div style="font-size: 1.2rem; font-weight: 800; color: ${scoreColor};">${sess.scorePct}%</div>
+                        <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 2px;">${sess.correctQ} / ${sess.totalQ} Correct</div>
+                        <div style="font-size: 0.72rem; color: #58a6ff; font-weight: 700; margin-top: 6px;">🔍 Details & Retest →</div>
+                    </div>
                 </div>
             </div>
         `;
     }).join('');
+}
+
+/**
+ * Open Session Details Breakdown Modal
+ */
+window.openSessionDetailsModal = function(sessionId) {
+    const sess = state.sessionHistory.find(s => String(s.sessionId) === String(sessionId));
+    if (!sess) return;
+
+    const modal = document.getElementById('quiz-session-detail-modal');
+    if (!modal) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    document.getElementById('lbl-session-detail-title').textContent = isRu ? '📜 Детали учебной сессии' : '📜 Test Session Overview';
+    document.getElementById('sess-detail-set-title').textContent = sess.setTitle || (isRu ? 'Клинический квиз' : 'Clinical Quiz');
+
+    // Score & Meta
+    const scoreColor = sess.scorePct >= 80 ? '#3fb950' : (sess.scorePct >= 60 ? '#eab308' : '#f87171');
+    const scorePctEl = document.getElementById('sess-detail-score-pct');
+    scorePctEl.textContent = `${sess.scorePct}%`;
+    scorePctEl.style.color = scoreColor;
+
+    document.getElementById('sess-detail-score-raw').textContent = `${sess.correctQ} / ${sess.totalQ} ` + (isRu ? 'Верно' : 'Correct');
+    
+    const m = Math.floor((sess.timeSpentSec || 0) / 60);
+    const s = (sess.timeSpentSec || 0) % 60;
+    document.getElementById('sess-detail-time').textContent = `⏱️ ${m}m ${s}s`;
+
+    // Badges
+    const badgesCont = document.getElementById('sess-detail-badges');
+    const langBadge = sess.lang === 'Ru' ? '🇷🇺 Русский' : '🇬🇧 English';
+    const countBadge = sess.countMode === 'all' ? (isRu ? 'Все вопросы' : 'All Questions') : `${sess.countMode || 10} ` + (isRu ? 'вопросов' : 'Qs');
+    badgesCont.innerHTML = `
+        <span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px;">${langBadge}</span>
+        <span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px;">🔢 ${countBadge}</span>
+        <span style="background: rgba(88,166,255,0.15); color: #58a6ff; font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(88,166,255,0.3);">🎯 ${sess.mode || 'smart'}</span>
+    `;
+
+    // Topics pills
+    const topicsCont = document.getElementById('sess-detail-topics-pills');
+    const topics = Array.isArray(sess.topics) ? sess.topics : [];
+    if (topics.length > 0) {
+        topicsCont.innerHTML = topics.map(t => `<span style="background: rgba(88,166,255,0.12); color: #58a6ff; font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; border: 1px solid rgba(88,166,255,0.25);">🏷️ ${escapeHTML(t)}</span>`).join('');
+    } else {
+        topicsCont.innerHTML = `<span style="font-size: 0.75rem; color: var(--quiz-muted);">${isRu ? 'Общая медицинская база' : 'General Medical Bank'}</span>`;
+    }
+
+    // Filter Buttons state
+    const btnErrors = document.getElementById('btn-filter-sess-errors');
+    const btnAll = document.getElementById('btn-filter-sess-all');
+
+    const renderBreakdownList = (filterMode) => {
+        if (btnErrors && btnAll) {
+            if (filterMode === 'errors') {
+                btnErrors.style.background = '#58a6ff';
+                btnErrors.style.color = '#fff';
+                btnAll.style.background = 'transparent';
+                btnAll.style.color = 'var(--quiz-muted)';
+            } else {
+                btnAll.style.background = '#58a6ff';
+                btnAll.style.color = '#fff';
+                btnErrors.style.background = 'transparent';
+                btnErrors.style.color = 'var(--quiz-muted)';
+            }
+        }
+
+        const listCont = document.getElementById('session-detail-questions-list');
+        if (!listCont) return;
+
+        const items = sess.errors || [];
+        const filteredItems = (filterMode === 'errors') ? items.filter(it => !it.isCorrect) : items;
+
+        if (filteredItems.length === 0) {
+            listCont.innerHTML = `
+                <div style="background: rgba(13, 17, 23, 0.4); border: 1px dashed var(--quiz-border); border-radius: 12px; padding: 20px; text-align: center; color: var(--quiz-muted); font-size: 0.88rem;">
+                    ${filterMode === 'errors' 
+                        ? (isRu ? '🎉 В этой сессии нет ошибок! Все ответы верны.' : '🎉 No errors in this session! Perfect score.')
+                        : (isRu ? 'Подробности вопросов недоступны для старых записей.' : 'Question details unavailable for older records.')}
+                </div>
+            `;
+            return;
+        }
+
+        listCont.innerHTML = filteredItems.map((item, idx) => {
+            const isOk = item.isCorrect;
+            const cardBg = isOk ? 'rgba(35, 134, 54, 0.08)' : 'rgba(218, 54, 51, 0.08)';
+            const borderCol = isOk ? 'rgba(35, 134, 54, 0.3)' : 'rgba(218, 54, 51, 0.3)';
+            const badgeTag = isOk 
+                ? `<span style="background: rgba(35,134,54,0.2); color: #3fb950; font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 6px;">✅ ${isRu ? 'Верно' : 'Correct'}</span>`
+                : `<span style="background: rgba(218,54,51,0.2); color: #f87171; font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 6px;">❌ ${isRu ? 'Ошибка' : 'Incorrect'}</span>`;
+
+            const qText = item['question' + (sess.lang || 'En')] || item.questionEn || item.questionRu || item.question || '';
+            const expText = item['explanation' + (sess.lang || 'En')] || item.explanationEn || item.explanationRu || item.explanation || '';
+
+            return `
+                <div style="background: ${cardBg}; border: 1px solid ${borderCol}; border-radius: 12px; padding: 14px; display: flex; flex-direction: column; gap: 8px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <span style="font-weight: 800; font-size: 0.82rem; color: var(--quiz-accent);">${isRu ? 'Вопрос' : 'Question'} #${item.questionIndex || (idx + 1)}</span>
+                        ${badgeTag}
+                    </div>
+                    <div style="font-weight: 700; font-size: 0.9rem; color: var(--quiz-text); line-height: 1.4;">
+                        ${_markdownToHtml(qText)}
+                    </div>
+
+                    <div style="background: rgba(13, 17, 23, 0.5); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px; margin-top: 4px; font-size: 0.82rem; display: flex; flex-direction: column; gap: 6px;">
+                        ${!isOk ? `
+                            <div style="color: #f87171; font-weight: 600;">
+                                <strong>${isRu ? 'Ваш ответ:' : 'Your Answer:'}</strong> ${escapeHTML(item.chosenText || item.chosen || 'N/A')}
+                            </div>
+                        ` : ''}
+                        <div style="color: #3fb950; font-weight: 600;">
+                            <strong>${isRu ? 'Правильный ответ:' : 'Correct Answer:'}</strong> ${escapeHTML(item.correctText || item.correct || 'N/A')}
+                        </div>
+                    </div>
+
+                    ${expText ? `
+                        <div style="font-size: 0.82rem; color: var(--quiz-muted); margin-top: 4px; line-height: 1.4; background: rgba(88,166,255,0.05); border-left: 3px solid #58a6ff; padding: 8px 10px; border-radius: 0 6px 6px 0;">
+                            <strong style="color: #58a6ff;">💡 ${isRu ? 'Клиническое объяснение:' : 'Explanation:'}</strong>
+                            <div>${_markdownToHtml(expText)}</div>
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }).join('');
+
+        renderLatexInElement(listCont);
+    };
+
+    if (btnErrors) btnErrors.onclick = () => renderBreakdownList('errors');
+    if (btnAll) btnAll.onclick = () => renderBreakdownList('all');
+
+    const errorCount = (sess.errors || []).filter(e => !e.isCorrect).length;
+    renderBreakdownList(errorCount > 0 ? 'errors' : 'all');
+
+    // Retest / Practice Mistakes button
+    const retestBtn = document.getElementById('btn-retest-session-errors');
+    if (retestBtn) {
+        if (errorCount === 0) {
+            retestBtn.style.display = 'none';
+        } else {
+            retestBtn.style.display = 'flex';
+            retestBtn.innerHTML = `🚀 ${isRu ? 'Отработать ошибки (' + errorCount + ')' : 'Retest Incorrect Questions (' + errorCount + ')'}`;
+            retestBtn.onclick = () => launchErrorPracticeSession(sess);
+        }
+    }
+
+    modal.style.display = 'flex';
+};
+
+/**
+ * Launch Practice Session with Session Error Questions
+ */
+window.launchErrorPracticeSession = function(sess) {
+    const errorItems = (sess.errors || []).filter(e => !e.isCorrect);
+    if (errorItems.length === 0) return;
+
+    const detailModal = document.getElementById('quiz-session-detail-modal');
+    if (detailModal) detailModal.style.display = 'none';
+
+    const cabinetModal = document.getElementById('quiz-profile-modal');
+    if (cabinetModal) cabinetModal.style.display = 'none';
+
+    const practiceQuestions = errorItems.map(item => ({
+        id: item.questionId || ('err_q_' + Date.now()),
+        bookPath: item.bookPath || state.bookPath || 'general',
+        setId: item.setId || 'errors',
+        questionEn: item.questionEn || '',
+        questionRu: item.questionRu || '',
+        optionsEn: item.optionsEn || {},
+        optionsRu: item.optionsRu || {},
+        correctAnswer: item.correct,
+        explanationEn: item.explanationEn || '',
+        explanationRu: item.explanationRu || '',
+        chapterId: item.chapterId
+    }));
+
+    state.questions = shuffleArray(practiceQuestions);
+    state.currentIndex = 0;
+    state.score = 0;
+    state.answers = [];
+    state.startTime = Date.now();
+    state.sessionMode = 'weak';
+
+    switchScreen('screen-question');
+    renderQuestion();
+};
+
+function initSessionDetailModalHandlers() {
+    const modal = document.getElementById('quiz-session-detail-modal');
+    const closeBtnHeader = document.getElementById('btn-close-session-detail-modal');
+    const closeBtnFooter = document.getElementById('btn-close-sess-detail-footer');
+
+    if (closeBtnHeader) {
+        closeBtnHeader.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
+    if (closeBtnFooter) {
+        closeBtnFooter.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
 }
 
 /**
@@ -3750,9 +4034,24 @@ function initFavoriteButtonHandler() {
             favBtn.innerHTML = '<i class="far fa-star"></i>';
             favBtn.style.color = '#eab308';
         } else {
+            const isRu = state.settings.lang === 'Ru';
             state.userFavorites.push({
                 id: qId,
-                questionSnippet: (q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionSnippet: (q['question' + state.settings.lang] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionObj: {
+                    id: qId,
+                    bookPath: q.bookPath || state.bookPath || 'general',
+                    setId: q.setId || 'favorite',
+                    questionEn: q.questionEn || q.question || '',
+                    questionRu: q.questionRu || q.question || '',
+                    optionsEn: q.optionsEn || q.options || {},
+                    optionsRu: q.optionsRu || q.options || {},
+                    correctAnswer: q.correctAnswer,
+                    explanationEn: q.explanationEn || q.explanation || '',
+                    explanationRu: q.explanationRu || q.explanation || '',
+                    chapterId: q.chapterId,
+                    multiAnswer: q.multiAnswer
+                },
                 addedAt: new Date().toISOString()
             });
             favBtn.innerHTML = '<i class="fas fa-star"></i>';
@@ -3986,6 +4285,7 @@ document.addEventListener('DOMContentLoaded', function() {
         initPersonalCabinet();
         initFavoriteButtonHandler();
         initAdminAccountManager();
+        initSessionDetailModalHandlers();
     }, 500);
 });
 

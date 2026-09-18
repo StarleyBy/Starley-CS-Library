@@ -126,7 +126,7 @@ function ensureSheetsInitialized() {
   const sheets = [
     { name: 'Accounts', headers: ['Username', 'Password', 'Role', 'Nickname', 'Avatar', 'Email', 'TelegramID', 'Status', 'CreatedAt', 'LastLogin'] },
     { name: 'User_Progress', headers: ['Username', 'StreakDays', 'SolvedCount', 'AccuracyPct', 'MasteryJSON', 'FavoritesJSON', 'PlaylistsJSON', 'LastSynced'] },
-    { name: 'Session_History', headers: ['SessionID', 'Username', 'Date', 'SetTitle', 'Mode', 'TotalQ', 'CorrectQ', 'ScorePct', 'TimeSpentSec', 'ErrorsJSON'] },
+    { name: 'Session_History', headers: ['SessionID', 'Username', 'Date', 'SetTitle', 'Mode', 'Lang', 'CountMode', 'TopicsJSON', 'TotalQ', 'CorrectQ', 'ScorePct', 'TimeSpentSec', 'ErrorsJSON'] },
     { name: 'Telegram_Requests', headers: ['RequestID', 'TelegramID', 'TelegramUsername', 'RequestedNickname', 'RequestedPassword', 'Email', 'Status', 'RequestedAt'] }
   ];
 
@@ -136,6 +136,13 @@ function ensureSheetsInitialized() {
       sheet = ss.insertSheet(sheetDef.name);
       sheet.appendRow(sheetDef.headers);
       sheet.getRange(1, 1, 1, sheetDef.headers.length).setFontWeight('bold').setBackground('#1f2937').setFontColor('#ffffff');
+    } else if (sheetDef.name === 'Session_History') {
+      // Migrate older header if it has only 10 columns
+      const headersRange = sheet.getRange(1, 1, 1, Math.max(sheet.getLastColumn(), 1));
+      const currentHeaders = headersRange.getValues()[0];
+      if (currentHeaders.length < sheetDef.headers.length) {
+        sheet.getRange(1, 1, 1, sheetDef.headers.length).setValues([sheetDef.headers]).setFontWeight('bold').setBackground('#1f2937').setFontColor('#ffffff');
+      }
     }
   });
 
@@ -234,18 +241,42 @@ function handleGetUserData(params) {
   const userHistory = [];
 
   for (let i = historyData.length - 1; i >= 1; i--) {
-    if (String(historyData[i][1]).trim().toLowerCase() === username) {
-      userHistory.push({
-        sessionId: historyData[i][0],
-        date: historyData[i][2],
-        setTitle: historyData[i][3],
-        mode: historyData[i][4],
-        totalQ: Number(historyData[i][5]),
-        correctQ: Number(historyData[i][6]),
-        scorePct: Number(historyData[i][7]),
-        timeSpentSec: Number(historyData[i][8]),
-        errors: safeParseJSON(historyData[i][9], [])
-      });
+    const row = historyData[i];
+    if (String(row[1]).trim().toLowerCase() === username) {
+      let sessObj = {};
+      if (row.length >= 13) {
+        sessObj = {
+          sessionId: row[0],
+          date: row[2],
+          setTitle: row[3],
+          mode: row[4],
+          lang: row[5] || 'En',
+          countMode: String(row[6] || '10'),
+          topics: safeParseJSON(row[7], []),
+          totalQ: Number(row[8]),
+          correctQ: Number(row[9]),
+          scorePct: Number(row[10]),
+          timeSpentSec: Number(row[11]),
+          errors: safeParseJSON(row[12], [])
+        };
+      } else {
+        // Legacy 10-column schema fallback
+        sessObj = {
+          sessionId: row[0],
+          date: row[2],
+          setTitle: row[3],
+          mode: row[4],
+          lang: 'En',
+          countMode: String(row[5] || '10'),
+          topics: [row[3] || 'General'],
+          totalQ: Number(row[5]),
+          correctQ: Number(row[6]),
+          scorePct: Number(row[7]),
+          timeSpentSec: Number(row[8]),
+          errors: safeParseJSON(row[9], [])
+        };
+      }
+      userHistory.push(sessObj);
       if (userHistory.length >= 50) break;
     }
   }
@@ -304,6 +335,9 @@ function handleSyncUserData(params) {
       s.date || nowStr,
       s.setTitle || 'Quiz Session',
       s.mode || 'smart',
+      s.lang || 'En',
+      String(s.countMode || '10'),
+      JSON.stringify(s.topics || []),
       Number(s.totalQ) || 0,
       Number(s.correctQ) || 0,
       Number(s.scorePct) || 0,
