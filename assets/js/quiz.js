@@ -1016,23 +1016,140 @@ function updateUserProfileDisplay() {
             iconTag.className = AVATAR_ICONS_MAP[profile.avatar] || 'fas fa-stethoscope';
         }
     }
+    const totalSolved = (state.sessionHistory || []).reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = (state.sessionHistory || []).reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const weightedAcc = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
 
     if (statStreak) statStreak.textContent = profile.streak || 1;
-    if (statSolved) statSolved.textContent = profile.totalSolved || 0;
-    
-    const accPct = profile.totalSolved > 0 ? Math.round((profile.correctCount / profile.totalSolved) * 100) : 0;
-    if (statAcc) statAcc.textContent = `${accPct}%`;
+    if (statSolved) statSolved.textContent = totalSolved;
+    if (statAcc) statAcc.textContent = `${weightedAcc}%`;
 
-    const level = Math.floor((profile.totalSolved || 0) / 25) + 1;
-    const isRu = state.settings.lang === 'Ru';
-    let levelTitle = isRu ? 'Резидент' : 'Resident';
-    if (level >= 10) levelTitle = isRu ? 'Шеф / Эксперт' : 'Chief Specialist';
-    else if (level >= 5) levelTitle = isRu ? 'Врач' : 'Attending';
-    else if (level >= 3) levelTitle = isRu ? 'Старший Fellow' : 'Senior Fellow';
+    const uniqueSolvedSet = new Set();
+    (state.sessionHistory || []).forEach(sess => {
+        if (sess.errors && Array.isArray(sess.errors)) {
+            sess.errors.forEach(item => { if (item.questionId) uniqueSolvedSet.add(item.questionId); });
+        }
+    });
+
+    const recentSess = (state.sessionHistory || []).slice(0, 5);
+    const recentSolved = recentSess.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const recentCorrect = recentSess.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const recentAcc = recentSolved > 0 ? Math.round((recentCorrect / recentSolved) * 100) : weightedAcc;
+
+    const rankResult = calculate50LevelAndRank(uniqueSolvedSet.size, 3000, recentAcc, state.settings ? state.settings.lang : 'Ru');
 
     if (levelBadge) {
-        levelBadge.textContent = `Lv.${level} ${levelTitle}`;
+        levelBadge.textContent = rankResult.badgeText;
+        levelBadge.style.background = rankResult.isDegraded ? 'rgba(248, 113, 113, 0.15)' : 'rgba(35, 134, 54, 0.15)';
+        levelBadge.style.color = rankResult.isDegraded ? '#f87171' : '#3fb950';
+        levelBadge.style.borderColor = rankResult.isDegraded ? 'rgba(248, 113, 113, 0.3)' : 'rgba(35, 134, 54, 0.3)';
+        if (rankResult.isDegraded) {
+            levelBadge.title = state.settings && state.settings.lang === 'Ru' ? 'Уровень снижен из-за падения процента верных ответов!' : 'Level regressed due to low accuracy!';
+        } else {
+            levelBadge.title = '';
+        }
     }
+}
+
+const DOCTOR_RANKS_50 = [
+    { level: 1, en: "Medical Student I", ru: "Студент I" },
+    { level: 2, en: "Medical Student II", ru: "Студент II" },
+    { level: 3, en: "Medical Student III", ru: "Студент III" },
+    { level: 4, en: "Medical Student IV", ru: "Студент IV" },
+    { level: 5, en: "Medical Student V", ru: "Студент V" },
+    { level: 6, en: "Junior Intern I", ru: "Младший интерн I" },
+    { level: 7, en: "Junior Intern II", ru: "Младший интерн II" },
+    { level: 8, en: "Junior Intern III", ru: "Младший интерн III" },
+    { level: 9, en: "Junior Intern IV", ru: "Младший интерн IV" },
+    { level: 10, en: "Chief Intern", ru: "Главный интерн" },
+    { level: 11, en: "Resident I", ru: "Резидент I" },
+    { level: 12, en: "Resident II", ru: "Резидент II" },
+    { level: 13, en: "Resident III", ru: "Резидент III" },
+    { level: 14, en: "Senior Resident", ru: "Старший резидент" },
+    { level: 15, en: "Chief Resident", ru: "Главный резидент" },
+    { level: 16, en: "Clinical Fellow I", ru: "Клинический Fellow I" },
+    { level: 17, en: "Clinical Fellow II", ru: "Клинический Fellow II" },
+    { level: 18, en: "Clinical Fellow III", ru: "Клинический Fellow III" },
+    { level: 19, en: "Senior Fellow", ru: "Старший Fellow" },
+    { level: 20, en: "Chief Fellow", ru: "Главный Fellow" },
+    { level: 21, en: "Junior Attending", ru: "Младший врач" },
+    { level: 22, en: "Attending Physician I", ru: "Врач-специалист I" },
+    { level: 23, en: "Attending Physician II", ru: "Врач-специалист II" },
+    { level: 24, en: "Senior Attending", ru: "Старший врач-специалист" },
+    { level: 25, en: "Staff Physician", ru: "Штатный врач клиники" },
+    { level: 26, en: "Senior Specialist I", ru: "Ведущий специалист I" },
+    { level: 27, en: "Senior Specialist II", ru: "Ведущий специалист II" },
+    { level: 28, en: "Department Specialist", ru: "Специалист отделения" },
+    { level: 29, en: "Associate Consultant", ru: "Консультант клиники" },
+    { level: 30, en: "Senior Consultant", ru: "Главный консультант" },
+    { level: 31, en: "Assistant Professor I", ru: "Ассистент кафедры I" },
+    { level: 32, en: "Assistant Professor II", ru: "Ассистент кафедры II" },
+    { level: 33, en: "Associate Professor I", ru: "Доцент I" },
+    { level: 34, en: "Associate Professor II", ru: "Доцент II" },
+    { level: 35, en: "Professor of Medicine", ru: "Профессор медицины" },
+    { level: 36, en: "Distinguished Professor", ru: "Заслуженный профессор" },
+    { level: 37, en: "Department Vice-Chair", ru: "Зам. заведующего отделением" },
+    { level: 38, en: "Department Chair", ru: "Заведующий отделением" },
+    { level: 39, en: "Medical Director", ru: "Медицинский директор" },
+    { level: 40, en: "Chief Medical Officer", ru: "Главный врач клиники" },
+    { level: 41, en: "Academic Fellow", ru: "Действительный член Академии" },
+    { level: 42, en: "Corresponding Member", ru: "Член-корреспондент" },
+    { level: 43, en: "Academician I", ru: "Академик I" },
+    { level: 44, en: "Senior Academician", ru: "Старший академик" },
+    { level: 45, en: "Master of Surgery", ru: "Мастер кардиохирургии" },
+    { level: 46, en: "Distinguished Scholar", ru: "Заслуженный деятель науки" },
+    { level: 47, en: "National Expert", ru: "Национальный эксперт" },
+    { level: 48, en: "Global Pioneer", ru: "Мировой пионер медицины" },
+    { level: 49, en: "Medical Luminary", ru: "Корифей медицины" },
+    { level: 50, en: "Grand Medical Legend", ru: "Легенда медицины" }
+];
+
+function calculate50LevelAndRank(uniqueSolved, totalBank, recentAccuracy, lang = 'Ru') {
+    const totalQBank = Math.max(totalBank || 3000, 3000);
+    const coverageFraction = Math.min(uniqueSolved / totalQBank, 1.0);
+    let rawLevel = Math.min(50, Math.floor(coverageFraction * 50) + 1);
+
+    let effectiveLevel = rawLevel;
+    let isDegraded = false;
+
+    // Apply accuracy degradation penalties
+    if (rawLevel >= 45) {
+        if (recentAccuracy < 90 || coverageFraction < 0.85) {
+            const drop = Math.ceil((90 - Math.min(recentAccuracy, 90)) / 2) + (coverageFraction < 0.85 ? 5 : 0);
+            effectiveLevel = Math.max(44, rawLevel - drop);
+            isDegraded = true;
+        }
+    } else if (rawLevel >= 31) {
+        if (recentAccuracy < 80) {
+            const drop = Math.ceil((80 - recentAccuracy) / 3);
+            effectiveLevel = Math.max(1, rawLevel - drop);
+            isDegraded = true;
+        }
+    } else if (rawLevel >= 16) {
+        if (recentAccuracy < 70) {
+            const drop = Math.ceil((70 - recentAccuracy) / 4);
+            effectiveLevel = Math.max(1, rawLevel - drop);
+            isDegraded = true;
+        }
+    } else if (rawLevel >= 1) {
+        if (recentAccuracy < 60) {
+            const drop = Math.ceil((60 - recentAccuracy) / 5);
+            effectiveLevel = Math.max(1, rawLevel - drop);
+            isDegraded = true;
+        }
+    }
+
+    effectiveLevel = Math.max(1, Math.min(50, effectiveLevel));
+    const rankObj = DOCTOR_RANKS_50.find(r => r.level === effectiveLevel) || DOCTOR_RANKS_50[0];
+    const title = lang === 'Ru' ? rankObj.ru : rankObj.en;
+
+    return {
+        level: effectiveLevel,
+        rawLevel: rawLevel,
+        title: title,
+        isDegraded: isDegraded,
+        badgeText: `Lv.${effectiveLevel} ${title}`
+    };
 }
 
 function setupProfileListeners() {
@@ -2522,7 +2639,12 @@ function showResults() {
         errors: sessionDetailsList
     };
 
-    syncCloudUserData(newSessionObj);
+    if (totalQ >= 2 && !state.isSingleQuestionPreview) {
+        syncCloudUserData(newSessionObj);
+    } else {
+        syncCloudUserData(null);
+    }
+    state.isSingleQuestionPreview = false;
 }
 
 function renderIncorrectAnswers() {
@@ -3904,6 +4026,7 @@ function renderPlaylistsTab() {
                     </div>
                     <div style="display: flex; gap: 8px; margin-top: 12px;">
                         <button type="button" onclick="launchPlaylistQuiz('${pl.id}')" class="btn-primary" style="flex: 1; padding: 6px; font-size: 0.78rem; border-radius: 8px;">🚀 Play</button>
+                        <button type="button" onclick="openPlaylistManagerModal('${pl.id}')" class="btn-outline" style="padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Manage Playlist">⚙️ Edit</button>
                         <button type="button" onclick="deletePlaylist('${pl.id}')" class="btn-outline" style="color: #f87171; border-color: rgba(248,113,113,0.3); padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Delete Playlist">🗑️</button>
                     </div>
                 </div>
@@ -3973,6 +4096,7 @@ window.previewFavoriteQuestion = async function(favId) {
     state.score = 0;
     state.answers = [];
     state.startTime = Date.now();
+    state.isSingleQuestionPreview = true;
 
     switchScreen('screen-question');
     renderQuestion();
@@ -4549,6 +4673,225 @@ document.addEventListener('DOMContentLoaded', function() {
         initAdminAccountManager();
         initSessionDetailModalHandlers();
         initPlaylistPickerModalHandlers();
+        initPlaylistManagerModalHandlers();
     }, 500);
 });
+
+/* ==========================================================================
+ * PLAYLIST MANAGER MODAL HANDLERS
+ * ========================================================================== */
+window.activeManagedPlaylistId = null;
+
+window.openPlaylistManagerModal = async function(playlistId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    window.activeManagedPlaylistId = playlistId;
+
+    const modal = document.getElementById('quiz-playlist-manager-modal');
+    const titleEl = document.getElementById('pl-mgr-title');
+    const countEl = document.getElementById('pl-mgr-count');
+
+    if (titleEl) titleEl.textContent = `📁 ${pl.title}`;
+    if (countEl) countEl.textContent = pl.questionIds.length;
+
+    renderPlaylistManagerQuestions(pl);
+    await populatePlaylistManagerManifestSelect();
+
+    if (modal) modal.style.display = 'flex';
+};
+
+function renderPlaylistManagerQuestions(pl) {
+    const listCont = document.getElementById('pl-mgr-questions-list');
+    if (!listCont) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    if (!pl.questionIds || pl.questionIds.length === 0) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px; font-size: 0.85rem;">${isRu ? 'В этом плейлисте пока нет вопросов. Нажмите "+ Добавить вопросы из библиотеки" выше!' : 'No questions in this playlist yet. Click "+ Add Questions from Library" above!'}</div>`;
+        return;
+    }
+
+    listCont.innerHTML = pl.questionIds.map((qId, idx) => {
+        let favMatch = state.userFavorites.find(f => String(f.id) === String(qId));
+        let snippet = favMatch ? favMatch.questionSnippet : `Question #${idx + 1} (${qId})`;
+
+        return `
+            <div style="display: flex; justify-content: space-between; align-items: center; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; font-size: 0.85rem; color: var(--quiz-text);">
+                <div style="flex: 1; min-width: 0; padding-right: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                    <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(snippet)}
+                </div>
+                <div style="display: flex; gap: 8px; align-items: center;">
+                    <button type="button" onclick="previewFavoriteQuestion('${qId}')" class="btn-outline" style="padding: 4px 10px; font-size: 0.75rem; border-radius: 6px; color: #58a6ff;">▶ Study</button>
+                    <button type="button" onclick="removeQuestionFromPlaylist('${pl.id}', '${qId}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.95rem;" title="Remove Question">🗑️</button>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+window.removeQuestionFromPlaylist = function(playlistId, qId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    pl.questionIds = (pl.questionIds || []).filter(id => String(id) !== String(qId));
+    syncCloudUserData();
+
+    const countEl = document.getElementById('pl-mgr-count');
+    if (countEl) countEl.textContent = pl.questionIds.length;
+
+    renderPlaylistManagerQuestions(pl);
+    renderPlaylistsTab();
+};
+
+async function populatePlaylistManagerManifestSelect() {
+    const selectEl = document.getElementById('select-pl-mgr-manifest');
+    if (!selectEl) return;
+
+    await loadAllSetsForBook();
+
+    const manifests = state.selectedSets || [];
+    const isRu = state.settings.lang === 'Ru';
+
+    if (manifests.length === 0) {
+        selectEl.innerHTML = `<option value="">${isRu ? 'Нет загруженных манифестов' : 'No loaded sets available'}</option>`;
+        return;
+    }
+
+    selectEl.innerHTML = manifests.map(s => `<option value="${s.id}">${escapeHTML(s.russian_title || s.title || s.id)} (${s.question_count || 0} ${isRu ? 'вопр.' : 'q'})</option>`).join('');
+
+    selectEl.onchange = () => {
+        renderPlaylistManagerAddQuestions(selectEl.value);
+    };
+
+    if (manifests.length > 0) {
+        renderPlaylistManagerAddQuestions(manifests[0].id);
+    }
+}
+
+function renderPlaylistManagerAddQuestions(setId) {
+    const listCont = document.getElementById('pl-mgr-add-questions-list');
+    if (!listCont) return;
+
+    const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
+    const isRu = state.settings.lang === 'Ru';
+
+    const questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
+
+    if (questionsInSet.length === 0) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.82rem;">${isRu ? 'Вопросы не найдены в выбранном сете' : 'No questions found in selected set'}</div>`;
+        return;
+    }
+
+    listCont.innerHTML = questionsInSet.map((q, idx) => {
+        const qId = String(q.id || getQuestionKey(q));
+        const isAdded = pl && Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
+        const qText = (q['question' + (state.settings ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '');
+
+        return `
+            <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; font-size: 0.85rem; color: var(--quiz-text);">
+                <div style="flex: 1; min-width: 0; padding-right: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                    <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(qText.substring(0, 90))}...
+                </div>
+                <button type="button" onclick="toggleAddQuestionInPlaylistManager('${pl ? pl.id : ''}', '${qId}')" class="${isAdded ? 'btn-outline' : 'btn-primary'}" style="padding: 4px 12px; font-size: 0.78rem; border-radius: 6px; ${isAdded ? 'color:#f87171; border-color:rgba(248,113,113,0.3);' : ''}">
+                    ${isAdded ? '✓ Added' : '+ Add'}
+                </button>
+            </div>
+        `;
+    }).join('');
+}
+
+window.toggleAddQuestionInPlaylistManager = function(playlistId, qId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
+
+    if (pl.questionIds.includes(qId)) {
+        pl.questionIds = pl.questionIds.filter(id => id !== qId);
+    } else {
+        pl.questionIds.push(qId);
+    }
+
+    syncCloudUserData();
+
+    const countEl = document.getElementById('pl-mgr-count');
+    if (countEl) countEl.textContent = pl.questionIds.length;
+
+    const selectEl = document.getElementById('select-pl-mgr-manifest');
+    if (selectEl) renderPlaylistManagerAddQuestions(selectEl.value);
+
+    renderPlaylistManagerQuestions(pl);
+    renderPlaylistsTab();
+};
+
+function initPlaylistManagerModalHandlers() {
+    const modal = document.getElementById('quiz-playlist-manager-modal');
+    const closeBtnHeader = document.getElementById('btn-close-pl-mgr-modal');
+    const closeBtnFooter = document.getElementById('btn-pl-mgr-done');
+    const playBtnFooter = document.getElementById('btn-pl-mgr-play');
+    const renameBtn = document.getElementById('btn-pl-mgr-rename');
+    const deleteBtn = document.getElementById('btn-pl-mgr-delete');
+
+    const tabItems = document.getElementById('btn-pl-mgr-tab-items');
+    const tabAdd = document.getElementById('btn-pl-mgr-tab-add');
+    const paneItems = document.getElementById('pl-mgr-pane-items');
+    const paneAdd = document.getElementById('pl-mgr-pane-add');
+
+    if (tabItems && tabAdd && paneItems && paneAdd) {
+        tabItems.onclick = () => {
+            tabItems.style.color = 'var(--quiz-accent)';
+            tabItems.style.borderBottom = '2px solid var(--quiz-accent)';
+            tabAdd.style.color = 'var(--quiz-muted)';
+            tabAdd.style.borderBottom = 'none';
+            paneItems.style.display = 'block';
+            paneAdd.style.display = 'none';
+        };
+
+        tabAdd.onclick = () => {
+            tabAdd.style.color = 'var(--quiz-accent)';
+            tabAdd.style.borderBottom = '2px solid var(--quiz-accent)';
+            tabItems.style.color = 'var(--quiz-muted)';
+            tabItems.style.borderBottom = 'none';
+            paneItems.style.display = 'none';
+            paneAdd.style.display = 'block';
+        };
+    }
+
+    if (renameBtn) {
+        renameBtn.onclick = () => {
+            const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
+            if (!pl) return;
+            const newTitle = prompt('Rename Playlist:', pl.title);
+            if (newTitle && newTitle.trim()) {
+                pl.title = newTitle.trim();
+                const titleEl = document.getElementById('pl-mgr-title');
+                if (titleEl) titleEl.textContent = `📁 ${pl.title}`;
+                syncCloudUserData();
+                renderPlaylistsTab();
+            }
+        };
+    }
+
+    if (deleteBtn) {
+        deleteBtn.onclick = () => {
+            if (window.activeManagedPlaylistId) {
+                deletePlaylist(window.activeManagedPlaylistId);
+                if (modal) modal.style.display = 'none';
+            }
+        };
+    }
+
+    if (playBtnFooter) {
+        playBtnFooter.onclick = () => {
+            if (window.activeManagedPlaylistId) {
+                if (modal) modal.style.display = 'none';
+                launchPlaylistQuiz(window.activeManagedPlaylistId);
+            }
+        };
+    }
+
+    if (closeBtnHeader) closeBtnHeader.onclick = () => { if (modal) modal.style.display = 'none'; };
+    if (closeBtnFooter) closeBtnFooter.onclick = () => { if (modal) modal.style.display = 'none'; };
+}
 
