@@ -3325,27 +3325,30 @@ async function initGoogleSheetsAccountSync() {
                 state.userPlaylists = p.playlists || [];
                 state.sessionHistory = res.history || [];
 
-                // Merge streak and solved stats if higher
-                if (p.streakDays) {
-                    const profileStreak = document.getElementById('profile-stat-streak');
-                    const cabStreak = document.getElementById('cab-stat-streak');
-                    if (profileStreak) profileStreak.textContent = p.streakDays;
-                    if (cabStreak) cabStreak.textContent = p.streakDays;
-                }
+                // Compute streak and solved stats dynamically from session history
+                const histSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+                const histCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+                const calculatedSolved = Math.max(p.solvedCount || 0, histSolved);
+                const calculatedAcc = calculatedSolved > 0 ? Math.round((histCorrect / (calculatedSolved || 1)) * 100) : Math.round(p.accuracyPct || 0);
 
-                if (p.solvedCount !== undefined) {
-                    const profileSolved = document.getElementById('profile-stat-solved');
-                    const cabSolved = document.getElementById('cab-stat-solved');
-                    if (profileSolved) profileSolved.textContent = p.solvedCount;
-                    if (cabSolved) cabSolved.textContent = p.solvedCount;
-                }
+                const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+                uniqueDays.delete('');
+                const calculatedStreak = Math.max(p.streakDays || 1, uniqueDays.size, 1);
 
-                if (p.accuracyPct !== undefined) {
-                    const profileAcc = document.getElementById('profile-stat-accuracy');
-                    const cabAcc = document.getElementById('cab-stat-accuracy');
-                    if (profileAcc) profileAcc.textContent = Math.round(p.accuracyPct) + '%';
-                    if (cabAcc) cabAcc.textContent = Math.round(p.accuracyPct) + '%';
-                }
+                const profileStreak = document.getElementById('profile-stat-streak');
+                const cabStreak = document.getElementById('cab-stat-streak');
+                if (profileStreak) profileStreak.textContent = calculatedStreak;
+                if (cabStreak) cabStreak.textContent = calculatedStreak;
+
+                const profileSolved = document.getElementById('profile-stat-solved');
+                const cabSolved = document.getElementById('cab-stat-solved');
+                if (profileSolved) profileSolved.textContent = calculatedSolved;
+                if (cabSolved) cabSolved.textContent = calculatedSolved;
+
+                const profileAcc = document.getElementById('profile-stat-accuracy');
+                const cabAcc = document.getElementById('cab-stat-accuracy');
+                if (profileAcc) profileAcc.textContent = calculatedAcc + '%';
+                if (cabAcc) cabAcc.textContent = calculatedAcc + '%';
 
                 if (syncBadge) {
                     syncBadge.textContent = '☁️ Cloud Synced';
@@ -3381,14 +3384,41 @@ function loadLocalUserData() {
  */
 async function syncCloudUserData(newSessionObj) {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+
+    if (newSessionObj) {
+        state.sessionHistory.unshift(newSessionObj);
+        localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+    }
+
+    // Dynamic stats calculation from session history
+    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const accuracyPct = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+
+    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+    uniqueDays.delete('');
+    const streakDays = Math.max(uniqueDays.size, 1);
+
+    // Update UI elements
+    const profileStreak = document.getElementById('profile-stat-streak');
+    const cabStreak = document.getElementById('cab-stat-streak');
+    if (profileStreak) profileStreak.textContent = streakDays;
+    if (cabStreak) cabStreak.textContent = streakDays;
+
+    const profileSolved = document.getElementById('profile-stat-solved');
+    const cabSolved = document.getElementById('cab-stat-solved');
+    if (profileSolved) profileSolved.textContent = totalSolved;
+    if (cabSolved) cabSolved.textContent = totalSolved;
+
+    const profileAcc = document.getElementById('profile-stat-accuracy');
+    const cabAcc = document.getElementById('cab-stat-accuracy');
+    if (profileAcc) profileAcc.textContent = accuracyPct + '%';
+    if (cabAcc) cabAcc.textContent = accuracyPct + '%';
+
     if (!user || user.isGuest) {
         // Save locally
         localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
         localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
-        if (newSessionObj) {
-            state.sessionHistory.unshift(newSessionObj);
-            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-        }
         return;
     }
 
@@ -3399,20 +3429,11 @@ async function syncCloudUserData(newSessionObj) {
     localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
     localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
 
-    if (newSessionObj) {
-        state.sessionHistory.unshift(newSessionObj);
-        localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-    }
-
     if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.syncUserData === 'function') {
-        const solvedCountEl = document.getElementById('profile-stat-solved');
-        const streakEl = document.getElementById('profile-stat-streak');
-        const accEl = document.getElementById('profile-stat-accuracy');
-
         const payload = {
-            streakDays: streakEl ? parseInt(streakEl.textContent, 10) || 1 : 1,
-            solvedCount: solvedCountEl ? parseInt(solvedCountEl.textContent, 10) || 0 : 0,
-            accuracyPct: accEl ? parseFloat(accEl.textContent) || 0 : 0,
+            streakDays: streakDays,
+            solvedCount: totalSolved,
+            accuracyPct: accuracyPct,
             favorites: state.userFavorites,
             playlists: state.userPlaylists,
             newSession: newSessionObj || null
