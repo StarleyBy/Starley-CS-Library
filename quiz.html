@@ -510,28 +510,59 @@
                 </div>
 
                 <div class="quiz-modal-body" style="padding: 20px; overflow-y: auto; flex: 1;">
-                    <!-- TAB 1: OVERVIEW -->
+                    <!-- TAB 1: OVERVIEW & ANALYTICS -->
                     <div id="cabinet-tab-overview" class="cabinet-tab-pane active">
-                        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 20px;">
-                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; text-align: center;">
-                                <div style="font-size: 1.4rem;">🔥</div>
-                                <div id="cab-stat-streak" style="font-size: 1.3rem; font-weight: 800; color: var(--quiz-text); margin: 4px 0;">1</div>
-                                <div style="font-size: 0.75rem; color: var(--quiz-muted); text-transform: uppercase;">Day Streak</div>
+                        <!-- Top 4 Metrics Grid -->
+                        <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 16px;">
+                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
+                                <div style="font-size: 1.2rem;">🔥</div>
+                                <div id="cab-stat-streak" style="font-size: 1.2rem; font-weight: 800; color: var(--quiz-text); margin: 2px 0;">1</div>
+                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Day Streak</div>
                             </div>
-                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; text-align: center;">
-                                <div style="font-size: 1.4rem;">✅</div>
-                                <div id="cab-stat-solved" style="font-size: 1.3rem; font-weight: 800; color: var(--quiz-text); margin: 4px 0;">0</div>
-                                <div style="font-size: 0.75rem; color: var(--quiz-muted); text-transform: uppercase;">Questions Solved</div>
+                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
+                                <div style="font-size: 1.2rem;">📜</div>
+                                <div id="cab-stat-sessions" style="font-size: 1.2rem; font-weight: 800; color: #58a6ff; margin: 2px 0;">0</div>
+                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Test Sessions</div>
                             </div>
-                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; text-align: center;">
-                                <div style="font-size: 1.4rem;">🎯</div>
-                                <div id="cab-stat-accuracy" style="font-size: 1.3rem; font-weight: 800; color: var(--quiz-text); margin: 4px 0;">0%</div>
-                                <div style="font-size: 0.75rem; color: var(--quiz-muted); text-transform: uppercase;">Accuracy Rate</div>
+                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
+                                <div style="font-size: 1.2rem;">✅</div>
+                                <div id="cab-stat-solved" style="font-size: 1.2rem; font-weight: 800; color: #3fb950; margin: 2px 0;">0</div>
+                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Solved Total</div>
+                            </div>
+                            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
+                                <div style="font-size: 1.2rem;">🎯</div>
+                                <div id="cab-stat-accuracy" style="font-size: 1.2rem; font-weight: 800; color: #eab308; margin: 2px 0;">0%</div>
+                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Avg Accuracy</div>
                             </div>
                         </div>
-                        <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 16px;">
-                            <h4 style="margin: 0 0 10px; font-size: 0.9rem; color: var(--quiz-muted); text-transform: uppercase;">Study Summary</h4>
-                            <p style="margin: 0; font-size: 0.88rem; color: var(--quiz-text); line-height: 1.5;" id="cab-summary-text">Your study stats are automatically synchronized with Google Sheets. Play sessions and mark weak questions to track mastery.</p>
+
+                        <!-- Accuracy Growth Trend Box -->
+                        <div id="cab-trend-box" style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.1), rgba(35, 134, 54, 0.1)); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 12px; padding: 14px; margin-bottom: 16px; display: flex; align-items: center; gap: 12px;">
+                            <div style="font-size: 1.6rem;">📈</div>
+                            <div style="flex: 1;">
+                                <div style="font-weight: 800; font-size: 0.88rem; color: var(--quiz-text); margin-bottom: 2px;" id="cab-trend-title">Accuracy Growth Trend</div>
+                                <div style="font-size: 0.8rem; color: var(--quiz-muted);" id="cab-trend-desc">Complete sessions to track accuracy progression over time.</div>
+                            </div>
+                        </div>
+
+                        <!-- Global Question Bank Coverage Bar -->
+                        <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; margin-bottom: 16px;">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                <div style="font-size: 0.85rem; font-weight: 700; color: var(--quiz-text);">🌐 Total Library Bank Coverage</div>
+                                <div style="font-size: 0.82rem; font-weight: 800; color: #58a6ff;" id="cab-bank-coverage-pct">0% (0 / 0)</div>
+                            </div>
+                            <div style="height: 8px; background: var(--quiz-border); border-radius: 4px; overflow: hidden; display: flex;">
+                                <div id="cab-bank-coverage-bar" style="width: 0%; height: 100%; background: linear-gradient(90deg, #58a6ff, #3fb950); transition: width 0.5s ease;"></div>
+                            </div>
+                            <div style="font-size: 0.72rem; color: var(--quiz-muted); margin-top: 6px;" id="cab-bank-coverage-sub">Unique questions answered across all loaded library modules</div>
+                        </div>
+
+                        <!-- Topic Mastery Breakdown -->
+                        <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px;">
+                            <h4 style="margin: 0 0 12px; font-size: 0.88rem; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic & Specialty Breakdown</h4>
+                            <div id="cab-topics-mastery-list" style="display: flex; flex-direction: column; gap: 10px; max-height: 220px; overflow-y: auto;">
+                                <!-- Dynamic topic bars -->
+                            </div>
                         </div>
                     </div>
 
@@ -746,6 +777,37 @@
                         🚀 Retest Incorrect Questions
                     </button>
                     <button type="button" id="btn-close-sess-detail-footer" class="btn-outline" style="padding: 8px 18px; border-radius: 8px;">Close</button>
+                </div>
+            </div>
+        <!-- SPOTIFY-STYLE PLAYLIST PICKER MODAL -->
+        <div id="quiz-playlist-picker-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1100; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 460px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <h3 style="margin: 0; font-size: 1rem; font-weight: 800; color: #eab308;">⭐ Saved to Favorites & Playlists</h3>
+                    <button type="button" id="btn-close-playlist-picker-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="quiz-modal-body" style="padding: 20px;">
+                    <!-- Question Context Snippet -->
+                    <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 10px 14px; margin-bottom: 16px; font-size: 0.85rem; color: var(--quiz-text); font-style: italic; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;" id="playlist-picker-q-snippet">
+                        "Question snippet..."
+                    </div>
+
+                    <div style="font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;">Select Playlists to Include This Question:</div>
+                    <div id="playlist-picker-options-list" style="max-height: 220px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px;">
+                        <!-- Dynamic checkboxes for custom playlists -->
+                    </div>
+
+                    <!-- Inline Create New Playlist -->
+                    <div style="border-top: 1px solid var(--quiz-border); padding-top: 14px;">
+                        <div style="font-size: 0.78rem; font-weight: 700; color: var(--quiz-accent); margin-bottom: 6px;">+ Create New Playlist & Add</div>
+                        <div style="display: flex; gap: 8px;">
+                            <input type="text" id="input-picker-new-playlist" placeholder="New playlist title (e.g. Aortic Surgery)..." style="flex: 1; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.85rem;">
+                            <button type="button" id="btn-picker-create-playlist" class="btn-primary" style="padding: 8px 14px; font-size: 0.8rem; border-radius: 8px;">Add</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="quiz-modal-footer" style="padding: 12px 20px; display: flex; justify-content: flex-end; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <button type="button" id="btn-done-playlist-picker" class="btn-primary" style="padding: 8px 22px; border-radius: 8px; font-weight: 700;">Done</button>
                 </div>
             </div>
         </div>

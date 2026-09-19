@@ -3536,6 +3536,7 @@ function initPersonalCabinet() {
             const activePane = document.getElementById(`cabinet-tab-${targetTab}`);
             if (activePane) activePane.style.display = 'block';
 
+            if (targetTab === 'overview') renderCabinetOverviewTab();
             if (targetTab === 'playlists') renderPlaylistsTab();
             if (targetTab === 'history') renderHistoryTab();
         };
@@ -3604,36 +3605,259 @@ function initPersonalCabinet() {
 
 function renderCabinetContent() {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const summaryText = document.getElementById('cab-summary-text');
     const nickInput = document.getElementById('input-profile-nickname');
 
     updateUserProfileDisplay();
 
-    if (user) {
-        if (nickInput && !nickInput.value) {
-            nickInput.value = user.nickname || user.username || '';
-        }
-
-        if (summaryText) {
-            if (user.isGuest) {
-                summaryText.innerHTML = `
-                    <div style="background: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 10px; padding: 12px; margin-bottom: 12px; color: #58a6ff;">
-                        👤 <strong>Guest Mode (Anonymous)</strong><br>
-                        You are currently in Guest Mode. Your progress remains local to this browser.<br>
-                        Log in to your personal cloud account to sync playlists, favorites, and study stats across all devices!
-                    </div>
-                    <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-                        <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-primary" style="flex: 1; padding: 8px 14px; font-size: 0.82rem; border-radius: 8px;">📲 Request Account via Telegram</button>
-                    </div>
-                `;
-            } else {
-                summaryText.innerHTML = `Your study stats are automatically synchronized with Google Sheets as <strong>${escapeHTML(user.nickname || user.username)}</strong>. Play sessions and mark weak questions to track mastery across devices.`;
-            }
-        }
+    if (user && nickInput && !nickInput.value) {
+        nickInput.value = user.nickname || user.username || '';
     }
 
+    renderCabinetOverviewTab();
     renderPlaylistsTab();
     renderHistoryTab();
+}
+
+/**
+ * Render Cabinet Overview & Expanded Analytics Dashboard
+ */
+function renderCabinetOverviewTab() {
+    const isRu = state.settings.lang === 'Ru';
+
+    // 1. Core Metrics
+    const totalSessions = state.sessionHistory.length;
+    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const avgAccuracy = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+
+    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+    uniqueDays.delete('');
+    const streakDays = Math.max(uniqueDays.size, 1);
+
+    const elStreak = document.getElementById('cab-stat-streak');
+    const elSessions = document.getElementById('cab-stat-sessions');
+    const elSolved = document.getElementById('cab-stat-solved');
+    const elAcc = document.getElementById('cab-stat-accuracy');
+
+    if (elStreak) elStreak.textContent = streakDays;
+    if (elSessions) elSessions.textContent = totalSessions;
+    if (elSolved) elSolved.textContent = totalSolved;
+    if (elAcc) elAcc.textContent = avgAccuracy + '%';
+
+    // Sync lobby header statistics
+    const profStreak = document.getElementById('profile-stat-streak');
+    const profSolved = document.getElementById('profile-stat-solved');
+    const profAcc = document.getElementById('profile-stat-accuracy');
+    if (profStreak) profStreak.textContent = streakDays;
+    if (profSolved) profSolved.textContent = totalSolved;
+    if (profAcc) profAcc.textContent = avgAccuracy + '%';
+
+    // 2. Growth & Trend Box
+    const trendTitle = document.getElementById('cab-trend-title');
+    const trendDesc = document.getElementById('cab-trend-desc');
+
+    if (totalSessions >= 2) {
+        const recentSessions = state.sessionHistory.slice(0, 3);
+        const initialSessions = state.sessionHistory.slice(-3);
+
+        const recentAvg = Math.round(recentSessions.reduce((sum, s) => sum + (s.scorePct || 0), 0) / recentSessions.length);
+        const initialAvg = Math.round(initialSessions.reduce((sum, s) => sum + (s.scorePct || 0), 0) / initialSessions.length);
+        const delta = recentAvg - initialAvg;
+
+        if (trendTitle) trendTitle.textContent = isRu ? '📈 Динамика успешности решений' : '📈 Accuracy Growth Trend';
+        if (trendDesc) {
+            const growthTag = delta >= 0 ? `+${delta}%` : `${delta}%`;
+            const colorStyle = delta >= 0 ? '#3fb950' : '#f87171';
+            trendDesc.innerHTML = isRu 
+                ? `Старт обучения: <strong>${initialAvg}%</strong> ➔ Текущий уровень: <strong>${recentAvg}%</strong> (<span style="color:${colorStyle}; font-weight:800;">${growthTag}</span>)`
+                : `Initial baseline: <strong>${initialAvg}%</strong> ➔ Recent average: <strong>${recentAvg}%</strong> (<span style="color:${colorStyle}; font-weight:800;">${growthTag}</span>)`;
+        }
+    } else {
+        if (trendTitle) trendTitle.textContent = isRu ? '📈 Динамика успешности решений' : '📈 Accuracy Growth Trend';
+        if (trendDesc) trendDesc.textContent = isRu 
+            ? 'Пройдите хотя бы 2 сеанса тестирования для отслеживания динамики точности.'
+            : 'Complete at least 2 quiz sessions to track your accuracy growth trend.';
+    }
+
+    // 3. Global Question Bank Coverage
+    let totalBankQ = 0;
+    if (state.allBooksWithQuizzes && state.allBooksWithQuizzes.length > 0) {
+        state.allBooksWithQuizzes.forEach(b => {
+            if (b.quiz_sets) {
+                b.quiz_sets.forEach(s => totalBankQ += (s.question_count || 10));
+            }
+        });
+    }
+    if (totalBankQ === 0) totalBankQ = Math.max(totalSolved, 250);
+
+    const uniqueSolvedSet = new Set();
+    state.sessionHistory.forEach(sess => {
+        if (sess.errors && Array.isArray(sess.errors)) {
+            sess.errors.forEach(item => {
+                if (item.questionId) uniqueSolvedSet.add(item.questionId);
+            });
+        }
+    });
+
+    const uniqueCount = uniqueSolvedSet.size > 0 ? uniqueSolvedSet.size : Math.min(totalSolved, totalBankQ);
+    const coveragePct = Math.min(Math.round((uniqueCount / totalBankQ) * 100), 100);
+
+    const covPctEl = document.getElementById('cab-bank-coverage-pct');
+    const covBarEl = document.getElementById('cab-bank-coverage-bar');
+    const covSubEl = document.getElementById('cab-bank-coverage-sub');
+
+    if (covPctEl) covPctEl.textContent = `${coveragePct}% (${uniqueCount} / ${totalBankQ})`;
+    if (covBarEl) covBarEl.style.width = `${coveragePct}%`;
+    if (covSubEl) covSubEl.textContent = isRu 
+        ? `Уникальных вопросов решено из общей базы знаний Starley Library`
+        : `Unique questions answered out of total questions in Starley Library`;
+
+    // 4. Topic & Specialty Breakdown
+    const topicListEl = document.getElementById('cab-topics-mastery-list');
+    if (topicListEl) {
+        const topicMap = {};
+
+        state.sessionHistory.forEach(sess => {
+            const sessTopics = Array.isArray(sess.topics) && sess.topics.length > 0 ? sess.topics : [sess.setTitle || 'General'];
+            
+            sessTopics.forEach(tName => {
+                if (!topicMap[tName]) {
+                    topicMap[tName] = { topic: tName, totalQ: 0, correctQ: 0, sessionsCount: 0 };
+                }
+                topicMap[tName].totalQ += (sess.totalQ || 0) / sessTopics.length;
+                topicMap[tName].correctQ += (sess.correctQ || 0) / sessTopics.length;
+                topicMap[tName].sessionsCount += 1;
+            });
+        });
+
+        const topicEntries = Object.values(topicMap);
+
+        if (topicEntries.length === 0) {
+            topicListEl.innerHTML = `<div style="color: var(--quiz-muted); font-size: 0.82rem; text-align: center; padding: 10px;">${isRu ? 'Пройдите первый квиз для наглядного анализа успеваемости по разделам.' : 'Complete your first quiz to generate topic mastery analytics.'}</div>`;
+        } else {
+            topicListEl.innerHTML = topicEntries.map(t => {
+                const total = Math.round(t.totalQ);
+                const correct = Math.round(t.correctQ);
+                const acc = total > 0 ? Math.round((correct / total) * 100) : 0;
+                const accColor = acc >= 80 ? '#3fb950' : (acc >= 60 ? '#eab308' : '#f87171');
+
+                return `
+                    <div style="background: rgba(13, 17, 23, 0.5); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px; display: flex; flex-direction: column; gap: 6px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
+                            <span style="font-weight: 700; color: var(--quiz-text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 70%;">🏷️ ${escapeHTML(t.topic)}</span>
+                            <span style="font-weight: 800; color: ${accColor};">${acc}% <span style="font-size: 0.72rem; color: var(--quiz-muted); font-weight: normal;">(${correct}/${total})</span></span>
+                        </div>
+                        <div style="height: 6px; background: var(--quiz-border); border-radius: 3px; overflow: hidden; display: flex;">
+                            <div style="width: ${acc}%; height: 100%; background: ${accColor}; transition: width 0.4s ease;"></div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+    }
+}
+
+/**
+ * Spotify-Style Playlist Picker Modal Logic
+ */
+window.openPlaylistPickerModal = function(q) {
+    if (!q) return;
+
+    const modal = document.getElementById('quiz-playlist-picker-modal');
+    if (!modal) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    const snippetEl = document.getElementById('playlist-picker-q-snippet');
+    const qText = (q['question' + state.settings.lang] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '');
+    if (snippetEl) snippetEl.textContent = `"${qText.substring(0, 110)}..."`;
+
+    const qId = String(q.id || getQuestionKey(q));
+
+    renderPlaylistPickerOptionsList(qId);
+
+    const btnCreate = document.getElementById('btn-picker-create-playlist');
+    const inputNew = document.getElementById('input-picker-new-playlist');
+
+    if (btnCreate && inputNew) {
+        btnCreate.onclick = () => {
+            const title = inputNew.value.trim();
+            if (title) {
+                const newPl = {
+                    id: 'pl_' + Date.now(),
+                    title: title,
+                    questionIds: [qId],
+                    createdAt: new Date().toISOString()
+                };
+                state.userPlaylists.push(newPl);
+                inputNew.value = '';
+                syncCloudUserData();
+                renderPlaylistPickerOptionsList(qId);
+                renderPlaylistsTab();
+            }
+        };
+    }
+
+    modal.style.display = 'flex';
+};
+
+function renderPlaylistPickerOptionsList(qId) {
+    const listCont = document.getElementById('playlist-picker-options-list');
+    if (!listCont) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    if (!state.userPlaylists || state.userPlaylists.length === 0) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); font-size: 0.82rem; text-align: center; padding: 10px;">${isRu ? 'Плейлистов пока нет. Создайте первый ниже!' : 'No custom playlists yet. Create your first playlist below!'}</div>`;
+        return;
+    }
+
+    listCont.innerHTML = state.userPlaylists.map(pl => {
+        const isIncluded = Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
+        return `
+            <label style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; cursor: pointer; transition: background 0.2s;" onmouseover="this.style.background='rgba(30,35,45,0.8)'" onmouseout="this.style.background='rgba(13, 17, 23, 0.6)'">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <input type="checkbox" ${isIncluded ? 'checked' : ''} onchange="toggleQuestionInPlaylist('${pl.id}', '${qId}')" style="width: 18px; height: 18px; accent-color: #58a6ff; cursor: pointer;">
+                    <span style="font-weight: 700; font-size: 0.88rem; color: var(--quiz-text);">📁 ${escapeHTML(pl.title)}</span>
+                </div>
+                <span style="font-size: 0.75rem; color: var(--quiz-muted);">${(pl.questionIds || []).length} ${isRu ? 'вопр.' : 'questions'}</span>
+            </label>
+        `;
+    }).join('');
+}
+
+window.toggleQuestionInPlaylist = function(playlistId, qId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
+
+    if (pl.questionIds.includes(qId)) {
+        pl.questionIds = pl.questionIds.filter(id => id !== qId);
+    } else {
+        pl.questionIds.push(qId);
+    }
+
+    syncCloudUserData();
+    renderPlaylistPickerOptionsList(qId);
+    renderPlaylistsTab();
+};
+
+function initPlaylistPickerModalHandlers() {
+    const modal = document.getElementById('quiz-playlist-picker-modal');
+    const closeBtnHeader = document.getElementById('btn-close-playlist-picker-modal');
+    const closeBtnFooter = document.getElementById('btn-done-playlist-picker');
+
+    if (closeBtnHeader) {
+        closeBtnHeader.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
+    if (closeBtnFooter) {
+        closeBtnFooter.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
 }
 
 /**
@@ -4307,6 +4531,7 @@ document.addEventListener('DOMContentLoaded', function() {
         initFavoriteButtonHandler();
         initAdminAccountManager();
         initSessionDetailModalHandlers();
+        initPlaylistPickerModalHandlers();
     }, 500);
 });
 
