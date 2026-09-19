@@ -1061,15 +1061,26 @@ function isFavoriteQuestion(q) {
 function toggleFavoriteQuestion(q) {
     if (!q) return;
     const key = getQuestionKey(q);
+    const qId = String(q.id || key);
     let favs = getFavoriteQuestionKeys();
     let isFav = false;
 
     if (favs.includes(key)) {
         favs = favs.filter(k => k !== key);
         isFav = false;
+        state.userFavorites = (state.userFavorites || []).filter(f => String(f.id) !== qId);
     } else {
         favs.push(key);
         isFav = true;
+        if (!Array.isArray(state.userFavorites)) state.userFavorites = [];
+        if (!state.userFavorites.some(f => String(f.id) === qId)) {
+            state.userFavorites.push({
+                id: qId,
+                questionSnippet: (q['question' + (state.settings ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionObj: q,
+                addedAt: new Date().toISOString()
+            });
+        }
     }
 
     try {
@@ -1086,6 +1097,12 @@ function toggleFavoriteQuestion(q) {
 
     playSound('click');
     triggerHaptic('click');
+
+    syncCloudUserData();
+
+    if (isFav && typeof openPlaylistPickerModal === 'function') {
+        openPlaylistPickerModal(q);
+    }
 }
 
 function openReportModal(q) {
