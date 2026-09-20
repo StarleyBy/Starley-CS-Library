@@ -353,6 +353,8 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
         sourceId: sourceId,
         // Quiz Fields
         quizFile: doc.quizFile || null,
+        manifestName: doc.manifestName || null,
+        manifestTitle: doc.manifestTitle || null,
         qId: doc.qId || null,
         qRu: doc.qRu || null,
         qEn: doc.qEn || null,

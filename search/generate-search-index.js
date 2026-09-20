@@ -263,7 +263,8 @@ function generateIndex() {
       if (!qJson || !Array.isArray(qJson.questions)) continue;
 
       const relPath = path.relative(BASE_DIR, qFilePath).replace(/\\/g, '/');
-      const manifestTitle = (qJson.meta && qJson.meta.title) ? qJson.meta.title : path.basename(qFilePath, '.json');
+      const manifestFileName = path.basename(qFilePath);
+      const manifestTitle = (qJson.meta && qJson.meta.title) ? qJson.meta.title : manifestFileName;
 
       qJson.questions.forEach((q, idx) => {
         const qId = q.id !== undefined ? q.id : (idx + 1);
@@ -288,7 +289,7 @@ function generateIndex() {
         if (fullSearchableText.trim().length < 5) return;
 
         const wordCounts = buildWordCounts(fullSearchableText);
-        const headingText = (q.questionRu || q.questionEn || `Question ${qId}`).replace(/<[^>]+>/g, '').trim();
+        const headingText = (q.questionRu || q.questionEn || `Question #${qId}`).replace(/<[^>]+>/g, '').trim();
 
         rawDocuments.push({
           id: `quiz|${relPath}|${qId}`,
@@ -297,7 +298,9 @@ function generateIndex() {
           c: `q-${qId}`,
           cat: 'quiz',
           ct: headingText.length > 90 ? headingText.substring(0, 90) + '...' : headingText,
-          bt: `Quiz: ${manifestTitle}`,
+          bt: `${manifestFileName} (ID: ${qId}) — ${manifestTitle}`,
+          manifestName: manifestFileName,
+          manifestTitle: manifestTitle,
           e: 'original',
           l: detectLanguage(fullSearchableText),
           w: wordCounts,

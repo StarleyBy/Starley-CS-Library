@@ -828,6 +828,14 @@
         const langBadge = (item.lang || item.edition || 'en').toUpperCase().slice(0, 2);
         const isQuiz = item.type === 'quiz' || item.sourceId === 'QUIZ';
 
+        let displayTitle = item.title;
+        let displayHeading = item.heading;
+
+        if (isQuiz && item.manifestName && item.qId) {
+          displayTitle = `🧠 ${item.manifestName} (ID: ${item.qId})`;
+          displayHeading = `${item.heading} — [${item.manifestTitle || 'Quiz'}]`;
+        }
+
         html += `
           <div class="spotlight-item ${isSelected ? 'is-selected' : ''} ${isQuiz ? 'spotlight-quiz-item' : ''}" data-index="${index}">
             <div class="spotlight-item-header">
@@ -839,8 +847,8 @@
                 <div class="spotlight-score-fill" style="width: ${scorePercent}%;"></div>
               </div>
             </div>
-            <h4 class="spotlight-item-title">${highlightMatch(escapeHtml(item.title), this.currentQuery)}</h4>
-            <div class="spotlight-item-heading">${highlightMatch(escapeHtml(item.heading), this.currentQuery)}</div>
+            <h4 class="spotlight-item-title">${highlightMatch(escapeHtml(displayTitle), this.currentQuery)}</h4>
+            <div class="spotlight-item-heading">${highlightMatch(escapeHtml(displayHeading), this.currentQuery)}</div>
             <button class="spotlight-expand-btn">▼ Preview</button>
             <div class="spotlight-mobile-accordion">
               <div class="spotlight-snippet-box">Loading snippet...</div>
@@ -901,6 +909,14 @@
       const langBadge = (item.lang || item.edition || 'en').toUpperCase();
       const targetUrl = this.buildTargetUrl(item);
 
+      let headerTitle = item.title;
+      let headerSubTitle = item.heading;
+
+      if (isQuiz && item.manifestName && item.qId) {
+        headerTitle = `🧠 ${item.manifestName} (Question ID: ${item.qId})`;
+        headerSubTitle = `Manifest Title: ${item.manifestTitle || 'Quiz'}`;
+      }
+
       this.previewPane.innerHTML = `
         <div class="spotlight-preview-header">
           <div style="flex:1;">
@@ -908,8 +924,8 @@
               <span class="spotlight-badge ${isQuiz ? 'badge-quiz' : 'badge-source'}">${isQuiz ? '🧠 QUIZ' : escapeHtml(item.sourceId)}</span>
               <span class="spotlight-badge badge-lang">${langBadge}</span>
             </div>
-            <h3 class="spotlight-preview-title">${escapeHtml(item.title)}</h3>
-            <div class="spotlight-preview-subtitle">${escapeHtml(item.heading)}</div>
+            <h3 class="spotlight-preview-title">${escapeHtml(headerTitle)}</h3>
+            <div class="spotlight-preview-subtitle">${escapeHtml(headerSubTitle)}</div>
           </div>
           <!-- Real-Time Key Match Counter Toolbar -->
           <div class="spotlight-preview-toolbar">
@@ -944,6 +960,7 @@
           if (rawMarkdown) {
             let renderedHtml = typeof window.marked !== 'undefined' ? window.marked.parse(rawMarkdown) : escapeHtml(rawMarkdown);
             bodyContainer.innerHTML = highlightMatch(renderedHtml, this.currentQuery);
+            expandParentCollapsibles(bodyContainer);
             this.setupMatchCounter(bodyContainer);
           } else {
             bodyContainer.innerHTML = `<div class="spotlight-snippet-box"><p>Matched query: <strong>${escapeHtml(this.currentQuery)}</strong>. Click button below to open chapter.</p></div>`;
@@ -957,6 +974,10 @@
       if (!bodyContainer) return;
 
       let html = `<div class="quiz-preview-card">`;
+
+      if (item.manifestName && item.qId) {
+        html += `<div style="font-size:0.82rem; font-weight:700; color:var(--spotlight-accent); margin-bottom:8px; padding:4px 8px; background:rgba(var(--spotlight-accent-rgb),0.1); border-radius:6px; display:inline-block;">📂 ${escapeHtml(item.manifestName)} — Question ID: #${item.qId}</div>`;
+      }
 
       if (item.qRu) {
         html += `<div class="quiz-q-section"><strong>🇷🇺 Question:</strong> ${highlightMatch(escapeHtml(item.qRu), this.currentQuery)}</div>`;
@@ -987,11 +1008,13 @@
 
       html += `</div>`;
       bodyContainer.innerHTML = html;
+      expandParentCollapsibles(bodyContainer);
       this.setupMatchCounter(bodyContainer);
     }
 
     setupMatchCounter(container) {
       if (!container) return;
+      mergeAdjacentMarks(container);
       this.currentMatchMarks = Array.from(container.querySelectorAll('mark.spotlight-mark'));
       this.totalMatchesCount = this.currentMatchMarks.length;
       this.currentMatchIndex = 0;
@@ -1012,6 +1035,7 @@
       this.currentMatchMarks.forEach((m, idx) => {
         if (idx === this.currentMatchIndex) {
           m.classList.add('is-active');
+          expandParentCollapsiblesForNode(m);
           m.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
           m.classList.remove('is-active');
@@ -1080,6 +1104,77 @@
     }
   }
 
+  // Helper: Auto-expand parent collapsible <div> / <details> elements containing matches
+  function expandParentCollapsibles(container) {
+    if (!container) return;
+    const marks = container.querySelectorAll('mark.spotlight-mark');
+    marks.forEach(mark => expandParentCollapsiblesForNode(mark));
+  }
+
+  function expandParentCollapsiblesForNode(node) {
+    if (!node) return;
+    let curr = node.parentElement;
+    while (curr && curr.id !== 'preview-scroll-container' && curr !== document.body) {
+      if (curr.tagName && curr.tagName.toLowerCase() === 'details') {
+        curr.open = true;
+      }
+      const collapseClasses = ['collapsed', 'is-collapsed', 'hidden', 'is-hidden', 'section-collapsed', 'topic-collapsed', 'content-collapsed'];
+      collapseClasses.forEach(cls => {
+        if (curr.classList.contains(cls)) {
+          curr.classList.remove(cls);
+          curr.classList.add('is-open', 'open', 'expanded');
+        }
+      });
+      if (curr.style) {
+        if (curr.style.display === 'none') curr.style.display = 'block';
+        if (curr.style.visibility === 'hidden') curr.style.visibility = 'visible';
+      }
+      curr = curr.parentElement;
+    }
+  }
+
+  // Helper: Merge adjacent sibling <mark> tags into a single mark tag so multi-word phrases count as 1 match occurrence
+  function mergeAdjacentMarks(container) {
+    if (!container) return;
+    let marks = Array.from(container.querySelectorAll('mark.spotlight-mark'));
+    if (marks.length <= 1) return;
+
+    for (let i = 0; i < marks.length - 1; i++) {
+      const m1 = marks[i];
+      const m2 = marks[i + 1];
+      if (!m1 || !m2 || !m1.parentNode || !m2.parentNode) continue;
+
+      if (m1.parentNode === m2.parentNode) {
+        let sibling = m1.nextSibling;
+        let holdsOnlySpaces = true;
+        let nodesToMerge = [];
+
+        while (sibling && sibling !== m2) {
+          nodesToMerge.push(sibling);
+          if (sibling.nodeType === Node.TEXT_NODE) {
+            if (/[^\s,.\-—:]/g.test(sibling.textContent)) {
+              holdsOnlySpaces = false;
+              break;
+            }
+          } else {
+            holdsOnlySpaces = false;
+            break;
+          }
+          sibling = sibling.nextSibling;
+        }
+
+        if (holdsOnlySpaces && sibling === m2) {
+          nodesToMerge.forEach(n => m1.appendChild(n));
+          while (m2.firstChild) {
+            m1.appendChild(m2.firstChild);
+          }
+          m2.parentNode.removeChild(m2);
+          marks[i + 1] = null;
+        }
+      }
+    }
+  }
+
   // Helpers
   function stripDiacritics(str) {
     if (!str) return '';
@@ -1136,6 +1231,15 @@
     const evalTerms = terms.length > 0 ? terms : rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1);
     if (evalTerms.length === 0) return htmlOrText;
 
+    // First try exact contiguous phrase match if multi-word query
+    let result = htmlOrText;
+    if (rawQ.includes(' ') && rawQ.length > 3) {
+      const phrasePattern = new RegExp(`(${escapeRegExp(rawQ)})`, 'gi');
+      if (phrasePattern.test(result)) {
+        return result.replace(phrasePattern, '<mark class="spotlight-mark">$1</mark>');
+      }
+    }
+
     // Add Russian stemmed terms to match patterns
     const patternTerms = new Set();
     evalTerms.forEach(t => {
@@ -1145,7 +1249,7 @@
     });
 
     const pattern = new RegExp(`(${Array.from(patternTerms).map(t => escapeRegExp(t)).join('|')})`, 'gi');
-    return htmlOrText.replace(pattern, '<mark class="spotlight-mark">$1</mark>');
+    return result.replace(pattern, '<mark class="spotlight-mark">$1</mark>');
   }
 
   function extractSnippetFromMarkdown(markdown, query) {
