@@ -60,8 +60,17 @@ const STOP_WORDS = new Set([
   'be','been','being','have','has','had','do','does','did','will','would','could','should','may','might','must',
   'can','that','these','those','it','its','what','which','who','whom','when','where','why','how','not','no',
   'so','if','then','than','too','very','just','about','above','below','between','into','through','during','before','after','out','up','down','over','under',
-  'и','на','в','с','по','за','из','к','о','от','до','для','при','обе','бы','же','ли','так','или','но','а','у','со','об','это','как','все','также','что'
+  'и','на','в','с','по','за','из','к','о','от','до','для','при','обе','бы','же','ли','так','или','но','а','у','со','об','это','как','все','также','что',
+  'после','поводу','предмет','отношении','связи','через','между','около','путем','согласно','время','место','целью','случае','относительно','наряду','ряду',
+  'данном','данных','который','которая','которое','которые','были','была','было','быть','того','этого','этом','этой','этих'
 ]);
+
+function stemRussianWord(word) {
+  if (!word || typeof word !== 'string' || word.length < 3) return word;
+  let w = word.toLowerCase();
+  w = w.replace(/(ами|ями|ов|ев|ей|ям|ам|ах|ях|ом|ем|ой|ей|ею|ою|ый|ий|ой|ая|яя|ое|ее|ые|ие|ых|их|ым|им|ыми|ими|ого|его|ому|ему|у|ю|а|я|о|е|и|ы|ь)$/i, '');
+  return w.length >= 2 ? w : word;
+}
 
 function detectLanguage(text) {
   const cyrillicMatches = (text.match(/[\u0400-\u04FF]/g) || []).length;
@@ -91,10 +100,30 @@ function buildWordCounts(text) {
   tokens.forEach(t => {
     if (t.length > 2 && !STOP_WORDS.has(t) && !/^\d+$/.test(t) && !/_/.test(t)) {
       counts[t] = (counts[t] || 0) + 1;
+      const stemmed = stemRussianWord(t);
+      if (stemmed !== t && stemmed.length > 2) {
+        counts[stemmed] = (counts[stemmed] || 0) + 1;
+      }
     }
   });
 
   return counts;
+}
+
+function findQuizFiles(dir, fileList = []) {
+  if (!fs.existsSync(dir)) return fileList;
+  const files = fs.readdirSync(dir);
+  files.forEach(file => {
+    const filePath = path.join(dir, file);
+    if (fs.statSync(filePath).isDirectory()) {
+      if (file !== 'node_modules' && file !== '.git') {
+        findQuizFiles(filePath, fileList);
+      }
+    } else if (file.endsWith('.json') && (file.startsWith('quiz-') || filePath.includes('quiz'))) {
+      fileList.push(filePath);
+    }
+  });
+  return fileList;
 }
 
 function generateIndex() {
@@ -110,6 +139,12 @@ function generateIndex() {
   const rawDocuments = [];
   const booksConfig = {};
   const categoriesConfig = {};
+
+  // Add Quiz Category
+  categoriesConfig['quiz'] = {
+    title: 'Quiz Questions',
+    icon: '🧠'
+  };
 
   if (library.categories) {
     library.categories.forEach(cat => {
@@ -137,6 +172,7 @@ function generateIndex() {
     });
   }
 
+  // 1. Scan Book Chapters (.md)
   const booksDir = path.join(BASE_DIR, 'books');
   if (fs.existsSync(booksDir)) {
     const categories = fs.readdirSync(booksDir);
@@ -199,6 +235,7 @@ function generateIndex() {
 
             rawDocuments.push({
               id: `${canonicalBookId}|${chapterBaseName}|${editionKey}`,
+              type: 'book',
               b: canonicalBookId,
               c: chapterBaseName,
               cat: normCatId,
@@ -214,10 +251,77 @@ function generateIndex() {
     }
   }
 
+  // 2. Scan Quiz Manifest Files (.json)
+  let quizQuestionCount = 0;
+  const quizFiles = findQuizFiles(booksDir);
+
+  for (const qFilePath of quizFiles) {
+    try {
+      const qContent = fs.readFileSync(qFilePath, 'utf8');
+      const qJson = JSON.parse(qContent);
+
+      if (!qJson || !Array.isArray(qJson.questions)) continue;
+
+      const relPath = path.relative(BASE_DIR, qFilePath).replace(/\\/g, '/');
+      const manifestTitle = (qJson.meta && qJson.meta.title) ? qJson.meta.title : path.basename(qFilePath, '.json');
+
+      qJson.questions.forEach((q, idx) => {
+        const qId = q.id !== undefined ? q.id : (idx + 1);
+
+        // Build searchable text from question text and option values ONLY (EXCLUDE EXPLANATIONS!)
+        let textParts = [];
+        if (q.questionRu) textParts.push(q.questionRu.replace(/<[^>]+>/g, ' '));
+        if (q.questionEn) textParts.push(q.questionEn.replace(/<[^>]+>/g, ' '));
+
+        if (q.optionsRu) {
+          Object.values(q.optionsRu).forEach(optVal => {
+            if (optVal) textParts.push(String(optVal).replace(/<[^>]+>/g, ' '));
+          });
+        }
+        if (q.optionsEn) {
+          Object.values(q.optionsEn).forEach(optVal => {
+            if (optVal) textParts.push(String(optVal).replace(/<[^>]+>/g, ' '));
+          });
+        }
+
+        const fullSearchableText = textParts.join(' ');
+        if (fullSearchableText.trim().length < 5) return;
+
+        const wordCounts = buildWordCounts(fullSearchableText);
+        const headingText = (q.questionRu || q.questionEn || `Question ${qId}`).replace(/<[^>]+>/g, '').trim();
+
+        rawDocuments.push({
+          id: `quiz|${relPath}|${qId}`,
+          type: 'quiz',
+          b: relPath.substring(0, relPath.lastIndexOf('/')),
+          c: `q-${qId}`,
+          cat: 'quiz',
+          ct: headingText.length > 90 ? headingText.substring(0, 90) + '...' : headingText,
+          bt: `Quiz: ${manifestTitle}`,
+          e: 'original',
+          l: detectLanguage(fullSearchableText),
+          w: wordCounts,
+          quizFile: relPath,
+          qId: qId,
+          qRu: q.questionRu || '',
+          qEn: q.questionEn || '',
+          optRu: q.optionsRu || null,
+          optEn: q.optionsEn || null,
+          ans: q.correctAnswer || ''
+        });
+
+        quizQuestionCount++;
+      });
+    } catch (err) {
+      console.warn(`⚠️ Skipped quiz file ${qFilePath}: ${err.message}`);
+    }
+  }
+
   const indexData = {
-    version: '2.6',
+    version: '2.7',
     generated: new Date().toISOString(),
     totalDocuments: rawDocuments.length,
+    quizQuestionCount: quizQuestionCount,
     documents: rawDocuments
   };
 
@@ -234,7 +338,8 @@ function generateIndex() {
   const sizeMB = (stats.size / (1024 * 1024)).toFixed(2);
   console.log(`✅ Search index generated: ${OUTPUT_INDEX} (${sizeMB} MB)`);
   console.log(`✅ Search config generated: ${OUTPUT_CONFIG}`);
-  console.log(`📊 Total indexed documents: ${rawDocuments.length}`);
+  console.log(`📊 Total indexed documents: ${rawDocuments.length} (${quizQuestionCount} quiz questions)`);
 }
 
 generateIndex();
+

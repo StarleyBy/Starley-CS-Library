@@ -15,9 +15,18 @@ const STOP_WORDS = new Set([
   'be','been','being','have','has','had','do','does','did','will','would','could','should','may','might','must',
   'can','that','these','those','it','its','what','which','who','whom','when','where','why','how','not','no',
   'so','if','then','than','too','very','just','about','above','below','between','into','through','during','before','after','out','up','down','over','under',
-  // Russian Stopwords
-  'и','на','в','с','по','за','из','к','о','от','до','для','при','обе','бы','же','ли','так','или','но','а','у','со','об','это','как','все','также','что'
+  // Russian Stopwords & Noise words
+  'и','на','в','с','по','за','из','к','о','от','до','для','при','обе','бы','же','ли','так','или','но','а','у','со','об','это','как','все','также','что',
+  'после','поводу','предмет','отношении','связи','через','между','около','путем','согласно','время','место','целью','случае','относительно','наряду','ряду',
+  'данном','данных','который','которая','которое','которые','были','была','было','быть','того','этого','этом','этой','этих'
 ]);
+
+function stemRussianWord(word) {
+  if (!word || typeof word !== 'string' || word.length < 3) return word;
+  let w = word.toLowerCase();
+  w = w.replace(/(ами|ями|ов|ев|ей|ям|ам|ах|ях|ом|ем|ой|ей|ею|ою|ый|ий|ой|ая|яя|ое|ее|ые|ие|ых|их|ым|им|ыми|ими|ого|его|ому|ему|у|ю|а|я|о|е|и|ы|ь)$/i, '');
+  return w.length >= 2 ? w : word;
+}
 
 // IndexedDB Helper for Instant Local Caching (< 15ms)
 function getCachedIndexFromIndexedDB() {
@@ -162,14 +171,36 @@ async function initWorker(baseUrl = './') {
   }
 }
 
-// Execute Search Query with Instant Embedded Category Matching
+// Execute Search Query with Instant Embedded Category Matching & Directive Parsing
 function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFilter = 'all') {
   if (!isReady || !searchIndexData) {
     self.postMessage({ type: 'RESULTS', results: [], query });
     return;
   }
 
-  const cleanQuery = stripDiacritics((query || '').toLowerCase().replace(/[^\w\s\u0400-\u04FF\u0590-\u05FF-]/g, ' ').trim());
+  let rawQuery = (query || '').trim();
+  let typeDirective = 'all';
+  let isExactPhrase = false;
+
+  // Check quotes for exact phrase mode
+  if (/^".+"$/.test(rawQuery)) {
+    isExactPhrase = true;
+    rawQuery = rawQuery.replace(/^"|"$/g, '').trim();
+  }
+
+  // Parse Directives (type:quiz, type:book, in:ru, in:en, in:cohn)
+  rawQuery = rawQuery.replace(/\b(type|t):(quiz|book)\b/gi, (m, p1, p2) => {
+    typeDirective = p2.toLowerCase();
+    return '';
+  });
+  rawQuery = rawQuery.replace(/\bin:(ru|en|he)\b/gi, (m, p1) => {
+    if (p1.toLowerCase() === 'ru') langFilter = 'russian';
+    if (p1.toLowerCase() === 'en') langFilter = 'english';
+    if (p1.toLowerCase() === 'he') langFilter = 'hebrew';
+    return '';
+  });
+
+  const cleanQuery = stripDiacritics(rawQuery.toLowerCase().replace(/[^\w\s\u0400-\u04FF\u0590-\u05FF-]/g, ' ').trim());
   const allTokens = cleanQuery.split(/\s+/).filter(t => t.length > 1);
 
   if (allTokens.length === 0) {
@@ -186,6 +217,10 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
 
   for (let i = 0; i < docs.length; i++) {
     const doc = docs[i];
+
+    // Document Type Filter (type:quiz / type:book)
+    if (typeDirective === 'quiz' && doc.type !== 'quiz' && doc.cat !== 'quiz') continue;
+    if (typeDirective === 'book' && (doc.type === 'quiz' || doc.cat === 'quiz')) continue;
 
     // Language Filter
     if (langFilter !== 'all') {
@@ -233,25 +268,28 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
 
     evalTokens.forEach(token => {
       let tokenFound = false;
+      const stemmedToken = stemRussianWord(token);
 
-      if (bookTitle.includes(token)) {
+      if (bookTitle.includes(token) || (stemmedToken && bookTitle.includes(stemmedToken))) {
         score += 200;
         tokenFound = true;
       }
-      if (chapterTitle.includes(token)) {
+      if (chapterTitle.includes(token) || (stemmedToken && chapterTitle.includes(stemmedToken))) {
         score += 150;
         tokenFound = true;
       }
 
       for (const [word, count] of Object.entries(wordsMap)) {
         const cleanWord = stripDiacritics(word.toLowerCase());
-        if (cleanWord === token) {
-          score += (Math.min(count, 4) * 35) + (token.length * 4);
+        const cleanStemmedWord = stemRussianWord(cleanWord);
+
+        if (cleanWord === token || (stemmedToken && cleanStemmedWord === stemmedToken)) {
+          score += (Math.min(count, 5) * 45) + (token.length * 5);
           tokenFound = true;
           matchedWords.add(word);
           if (!primaryMatchTerm) primaryMatchTerm = word;
-        } else if (cleanWord.includes(token)) {
-          score += (Math.min(count, 3) * 10) + token.length;
+        } else if (cleanWord.includes(token) || (stemmedToken && cleanWord.includes(stemmedToken))) {
+          score += (Math.min(count, 3) * 12) + token.length;
           tokenFound = true;
           matchedWords.add(word);
           if (!primaryMatchTerm) primaryMatchTerm = word;
@@ -283,7 +321,7 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
     if (score > 0 && matchedSigCount > 0) {
       if (evalTokens.length > 1) {
         const ratio = matchedSigCount / evalTokens.length;
-        score = score * Math.pow(ratio, 3.5);
+        score = score * Math.pow(ratio, 4.0);
 
         if (matchedSigCount === evalTokens.length) {
           score += 5000;
@@ -293,14 +331,15 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
         }
       }
 
-      let sourceId = 'Book';
-      if (doc.b) {
+      let sourceId = doc.type === 'quiz' ? 'QUIZ' : 'Book';
+      if (doc.type !== 'quiz' && doc.b) {
         const parts = doc.b.split('/');
         sourceId = parts[parts.length - 1].toUpperCase();
       }
 
       results.push({
         id: doc.id,
+        type: doc.type || 'book',
         bookId: doc.b,
         chapterId: doc.c,
         title: doc.bt || 'Book Chapter',
@@ -311,7 +350,15 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
         matchedWords: Array.from(matchedWords),
         matchTerm: primaryMatchTerm || evalTokens[0],
         queryPhrase: cleanQuery,
-        sourceId: sourceId
+        sourceId: sourceId,
+        // Quiz Fields
+        quizFile: doc.quizFile || null,
+        qId: doc.qId || null,
+        qRu: doc.qRu || null,
+        qEn: doc.qEn || null,
+        optRu: doc.optRu || null,
+        optEn: doc.optEn || null,
+        ans: doc.ans || null
       });
     }
   }
@@ -331,3 +378,4 @@ self.onmessage = function (e) {
     executeSearch(query || '', category || 'all', book || 'all', lang || 'all');
   }
 };
+

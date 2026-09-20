@@ -11,9 +11,18 @@
     'be','been','being','have','has','had','do','does','did','will','would','could','should','may','might','must',
     'can','that','these','those','it','its','what','which','who','whom','when','where','why','how','not','no',
     'so','if','then','than','too','very','just','about','above','below','between','into','through','during','before','after','out','up','down','over','under',
-    // Russian Stopwords
-    'и','на','в','с','по','за','из','к','о','от','до','для','при','обе','бы','же','ли','так','или','но','а','у','со','об','это','как','все','также','что'
+    // Russian Stopwords & Noise words
+    'и','на','в','с','по','за','из','к','о','от','до','для','при','обе','бы','же','ли','так','или','но','а','у','со','об','это','как','все','также','что',
+    'после','поводу','предмет','отношении','связи','через','между','около','путем','согласно','время','место','целью','случае','относительно','наряду','ряду',
+    'данном','данных','который','которая','которое','которые','были','была','было','быть','того','этого','этом','этой','этих'
   ]);
+
+  function stemRussianWord(word) {
+    if (!word || typeof word !== 'string' || word.length < 3) return word;
+    let w = word.toLowerCase();
+    w = w.replace(/(ами|ями|ов|ев|ей|ям|ам|ах|ях|ом|ем|ой|ей|ею|ою|ый|ий|ой|ая|яя|ое|ее|ые|ие|ых|их|ым|им|ыми|ими|ого|его|ому|ему|у|ю|а|я|о|е|и|ы|ь)$/i, '');
+    return w.length >= 2 ? w : word;
+  }
 
   class SearchUI {
     constructor() {
@@ -27,6 +36,11 @@
       this.debounceTimer = null;
       this.isWorkerReady = false;
       this.contentCache = {};
+
+      // Match occurrence counter state
+      this.currentMatchIndex = 0;
+      this.totalMatchesCount = 0;
+      this.currentMatchMarks = [];
 
       // Fallback Main Thread Data
       this.searchIndexData = null;
@@ -66,6 +80,7 @@
 
       this.langSelect = document.getElementById('filter-lang');
       this.filterChips = document.querySelectorAll('.spotlight-chip');
+      this.promptChips = document.querySelectorAll('.spotlight-prompt-chip');
 
       // Mobile & Navigation Elements
       this.tabResults = document.getElementById('tab-results');
@@ -73,6 +88,7 @@
       this.hudGrid = document.querySelector('.spotlight-hud-grid');
       this.countBadge = document.getElementById('results-count-badge');
       this.btnBackReader = document.getElementById('btn-back-reader');
+      this.btnReindex = document.getElementById('btn-reindex-inventory');
     }
 
     initEngine() {
@@ -91,7 +107,7 @@
               this.searchConfigData = config;
               this.populateCategoryMultiSelect(config);
               this.populateBookMultiSelect();
-              this.updateStatusText(`Ready (${documentCount} chapters)`, false);
+              this.updateStatusText(`Inventory ready (${documentCount} items indexed)`, false);
               if (this.searchInput && this.searchInput.value.trim()) {
                 this.performSearch(this.searchInput.value);
               }
@@ -143,7 +159,7 @@
         const docs = this.searchIndexData.documents || this.searchIndexData.items || [];
         this.populateCategoryMultiSelect(this.searchConfigData);
         this.populateBookMultiSelect();
-        this.updateStatusText(`Ready (${docs.length} chapters indexed)`, false);
+        this.updateStatusText(`Inventory ready (${docs.length} items indexed)`, false);
 
         if (this.searchInput && this.searchInput.value.trim()) {
           this.performSearch(this.searchInput.value);
@@ -181,12 +197,10 @@
 
       Object.entries(this.searchConfigData.books).forEach(([bookPath, book]) => {
         const bookTitle = book.title || bookPath.split('/').pop();
-        if (seenBookTitles.has(bookTitle)) return; // DEDUPLICATE BY FULL TITLE
+        if (seenBookTitles.has(bookTitle)) return;
         seenBookTitles.add(bookTitle);
 
         const bookCat = (book.category || '').toLowerCase().replace(/-/g, '_');
-
-        // Show book if no category selected OR if book matches one of selected categories
         const matchesCategory = selectedCatsArray.length === 0 || selectedCatsArray.some(c => c === bookCat || bookPath.includes(c));
 
         if (matchesCategory) {
@@ -202,7 +216,6 @@
 
       this.bookCheckboxesList.innerHTML = html || '<div style="padding:8px; font-size:0.8rem; opacity:0.6;">No books in selected topics</div>';
 
-      // Prune books that are no longer visible
       const visibleBookPaths = new Set(Array.from(this.bookCheckboxesList.querySelectorAll('input[type="checkbox"]')).map(i => i.value));
       Array.from(this.selectedBooks).forEach(b => {
         if (!visibleBookPaths.has(b)) {
@@ -276,6 +289,22 @@
     }
 
     bindEvents() {
+      // Re-index / Inventory Button
+      if (this.btnReindex) {
+        this.btnReindex.addEventListener('click', (e) => {
+          e.preventDefault();
+          this.updateStatusText('Re-indexing inventory...', true);
+          try {
+            indexedDB.deleteDatabase('StarleySearchCache');
+          } catch(e) {}
+          if (this.worker) {
+            this.worker.postMessage({ type: 'INIT', baseUrl: './' });
+          } else {
+            this.initFallbackEngine();
+          }
+        });
+      }
+
       // Back to Reader Button
       if (this.btnBackReader) {
         this.btnBackReader.addEventListener('click', (e) => {
@@ -435,6 +464,32 @@
         });
       }
 
+      // Prompt Helper Chips Click Event
+      if (this.promptChips) {
+        this.promptChips.forEach(chip => {
+          chip.addEventListener('click', () => {
+            const directive = chip.dataset.prompt;
+            if (!directive || !this.searchInput) return;
+
+            let curVal = this.searchInput.value.trim();
+
+            if (directive === 'exact') {
+              if (curVal.startsWith('"') && curVal.endsWith('"')) {
+                curVal = curVal.slice(1, -1);
+              } else {
+                curVal = `"${curVal}"`;
+              }
+            } else if (!curVal.includes(directive)) {
+              curVal = `${directive} ${curVal}`.trim();
+            }
+
+            this.searchInput.value = curVal;
+            this.searchInput.focus();
+            this.performSearch(curVal);
+          });
+        });
+      }
+
       if (this.langSelect) {
         this.langSelect.addEventListener('change', (e) => {
           this.currentLang = e.target.value;
@@ -479,9 +534,19 @@
             this.updateSelection();
           }
         } else if (e.key === 'Enter') {
-          if (this.results[this.selectedIndex]) {
-            e.preventDefault();
-            this.navigateToResult(this.results[this.selectedIndex]);
+          if (e.shiftKey) {
+            this.navigateMatchPrev();
+          } else {
+            const activeInput = document.activeElement;
+            if (activeInput && activeInput.id === 'search-input') {
+              if (this.totalMatchesCount > 0) {
+                e.preventDefault();
+                this.navigateMatchNext();
+              }
+            } else if (this.results[this.selectedIndex]) {
+              e.preventDefault();
+              this.navigateToResult(this.results[this.selectedIndex]);
+            }
           }
         } else if (e.key === 'Escape') {
           if (this.searchInput) {
@@ -588,7 +653,6 @@
       for (let i = 0; i < docs.length; i++) {
         const doc = docs[i];
 
-        // Language Filter
         if (this.currentLang !== 'all') {
           const docLang = (doc.l || doc.lang || doc.e || '').toLowerCase();
           if (this.currentLang === 'russian' && !['russian', 'ru'].includes(docLang)) continue;
@@ -596,12 +660,10 @@
           if (this.currentLang === 'hebrew' && !['hebrew', 'he'].includes(docLang)) continue;
         }
 
-        // Multi-Book Filter
         if (bookFilterArray.length > 0) {
           if (!bookFilterArray.includes(doc.b)) continue;
         }
 
-        // Multi-Topic Embedded Category Filter (doc.cat)
         if (categoryFilterArray.length > 0) {
           const docCat = (doc.cat || '').toLowerCase().replace(/-/g, '_');
           const docB = (doc.b || '').toLowerCase();
@@ -623,24 +685,28 @@
 
         evalTokens.forEach(token => {
           let found = false;
-          if (bookTitle.includes(token)) {
+          const stemmedToken = stemRussianWord(token);
+
+          if (bookTitle.includes(token) || (stemmedToken && bookTitle.includes(stemmedToken))) {
             score += 200;
             found = true;
           }
-          if (chapterTitle.includes(token)) {
+          if (chapterTitle.includes(token) || (stemmedToken && chapterTitle.includes(stemmedToken))) {
             score += 150;
             found = true;
           }
 
           for (const [word, count] of Object.entries(wordsMap)) {
             const cleanWord = stripDiacritics(word.toLowerCase());
-            if (cleanWord === token) {
-              score += (Math.min(count, 4) * 35) + (token.length * 4);
+            const cleanStemmedWord = stemRussianWord(cleanWord);
+
+            if (cleanWord === token || (stemmedToken && cleanStemmedWord === stemmedToken)) {
+              score += (Math.min(count, 5) * 45) + (token.length * 5);
               found = true;
               matchedWords.add(word);
               if (!primaryMatchTerm) primaryMatchTerm = word;
-            } else if (cleanWord.includes(token)) {
-              score += (Math.min(count, 3) * 10) + token.length;
+            } else if (cleanWord.includes(token) || (stemmedToken && cleanWord.includes(stemmedToken))) {
+              score += (Math.min(count, 3) * 12) + token.length;
               found = true;
               matchedWords.add(word);
               if (!primaryMatchTerm) primaryMatchTerm = word;
@@ -672,7 +738,7 @@
         if (score > 0 && matchedSigCount > 0) {
           if (evalTokens.length > 1) {
             const ratio = matchedSigCount / evalTokens.length;
-            score = score * Math.pow(ratio, 3.5);
+            score = score * Math.pow(ratio, 4.0);
 
             if (matchedSigCount === evalTokens.length) {
               score += 5000;
@@ -682,14 +748,15 @@
             }
           }
 
-          let sourceId = 'Book';
-          if (doc.b) {
+          let sourceId = doc.type === 'quiz' ? 'QUIZ' : 'Book';
+          if (doc.type !== 'quiz' && doc.b) {
             const parts = doc.b.split('/');
             sourceId = parts[parts.length - 1].toUpperCase();
           }
 
           matched.push({
             id: doc.id,
+            type: doc.type || 'book',
             bookId: doc.b,
             chapterId: doc.c,
             title: doc.bt || 'Book Chapter',
@@ -700,7 +767,14 @@
             matchedWords: Array.from(matchedWords),
             matchTerm: primaryMatchTerm || evalTokens[0],
             queryPhrase: cleanQuery,
-            sourceId: sourceId
+            sourceId: sourceId,
+            quizFile: doc.quizFile || null,
+            qId: doc.qId || null,
+            qRu: doc.qRu || null,
+            qEn: doc.qEn || null,
+            optRu: doc.optRu || null,
+            optEn: doc.optEn || null,
+            ans: doc.ans || null
           });
         }
       }
@@ -722,10 +796,10 @@
         this.resultsPane.innerHTML = `
           <div class="spotlight-empty">
             <i class="fas fa-search" style="font-size:2.2rem; opacity:0.3; margin-bottom:10px;"></i>
-            <p>Type keywords to search across books, journals & quizzes...</p>
+            <p>Type keywords or directives to search chapters & quiz questions...</p>
           </div>`;
         if (this.previewPane) {
-          this.previewPane.innerHTML = `<div class="spotlight-preview-placeholder">Select a result to inspect live snippet preview</div>`;
+          this.previewPane.innerHTML = `<div class="spotlight-preview-placeholder">Select a result to inspect live preview with match counter</div>`;
         }
         this.updateStatusText('Ready', false);
         return;
@@ -752,12 +826,13 @@
         const isSelected = index === this.selectedIndex;
         const scorePercent = Math.min(100, Math.max(15, Math.round((item.score / 150) * 100)));
         const langBadge = (item.lang || item.edition || 'en').toUpperCase().slice(0, 2);
+        const isQuiz = item.type === 'quiz' || item.sourceId === 'QUIZ';
 
         html += `
-          <div class="spotlight-item ${isSelected ? 'is-selected' : ''}" data-index="${index}">
+          <div class="spotlight-item ${isSelected ? 'is-selected' : ''} ${isQuiz ? 'spotlight-quiz-item' : ''}" data-index="${index}">
             <div class="spotlight-item-header">
               <div class="spotlight-item-badges">
-                <span class="spotlight-badge badge-source">${escapeHtml(item.sourceId)}</span>
+                <span class="spotlight-badge ${isQuiz ? 'badge-quiz' : 'badge-source'}">${isQuiz ? '🧠 QUIZ' : escapeHtml(item.sourceId)}</span>
                 <span class="spotlight-badge badge-lang">${langBadge}</span>
               </div>
               <div class="spotlight-score-bar" title="Relevance Score: ${item.score}">
@@ -822,42 +897,147 @@
     async renderPreview(item) {
       if (!this.previewPane || !item) return;
 
+      const isQuiz = item.type === 'quiz' || item.sourceId === 'QUIZ';
       const langBadge = (item.lang || item.edition || 'en').toUpperCase();
       const targetUrl = this.buildTargetUrl(item);
 
       this.previewPane.innerHTML = `
         <div class="spotlight-preview-header">
-          <div>
-            <span class="spotlight-badge badge-source">${escapeHtml(item.sourceId)}</span>
-            <span class="spotlight-badge badge-lang">${langBadge}</span>
+          <div style="flex:1;">
+            <div class="spotlight-item-badges" style="margin-bottom:6px;">
+              <span class="spotlight-badge ${isQuiz ? 'badge-quiz' : 'badge-source'}">${isQuiz ? '🧠 QUIZ' : escapeHtml(item.sourceId)}</span>
+              <span class="spotlight-badge badge-lang">${langBadge}</span>
+            </div>
             <h3 class="spotlight-preview-title">${escapeHtml(item.title)}</h3>
             <div class="spotlight-preview-subtitle">${escapeHtml(item.heading)}</div>
           </div>
+          <!-- Real-Time Key Match Counter Toolbar -->
+          <div class="spotlight-preview-toolbar">
+            <span id="preview-match-counter" class="preview-match-pill">0 из 0</span>
+            <div class="preview-nav-btns">
+              <button id="btn-match-prev" class="preview-nav-btn" title="Previous Match (Shift+Enter)"><i class="fas fa-chevron-up"></i></button>
+              <button id="btn-match-next" class="preview-nav-btn" title="Next Match (Enter)"><i class="fas fa-chevron-down"></i></button>
+            </div>
+          </div>
         </div>
-        <div class="spotlight-preview-body">
-          <div class="spotlight-snippet-box"><i class="fas fa-spinner fa-spin"></i> Loading live snippet preview...</div>
+        <div class="spotlight-preview-body" id="preview-scroll-container">
+          <div class="spotlight-snippet-box"><i class="fas fa-spinner fa-spin"></i> Loading live preview...</div>
         </div>
         <div class="spotlight-preview-footer">
-          <a href="${targetUrl}" class="spotlight-jump-btn">Open Chapter in Reader →</a>
+          <a href="${targetUrl}" class="spotlight-jump-btn">${isQuiz ? '🧠 Launch Question in Quiz Mode →' : '📖 Open Chapter in Reader →'}</a>
         </div>
       `;
 
-      const rawMarkdown = await this.fetchMarkdownContent(item);
-      const snippetText = extractSnippetFromMarkdown(rawMarkdown, this.currentQuery || item.matchTerm);
+      // Bind Preview Counter Buttons
+      const btnPrev = this.previewPane.querySelector('#btn-match-prev');
+      const btnNext = this.previewPane.querySelector('#btn-match-next');
+      if (btnPrev) btnPrev.addEventListener('click', () => this.navigateMatchPrev());
+      if (btnNext) btnNext.addEventListener('click', () => this.navigateMatchNext());
 
-      const snippetBox = this.previewPane.querySelector('.spotlight-snippet-box');
-      if (snippetBox) {
-        if (snippetText) {
-          let renderedHtml = '';
-          if (typeof window.marked !== 'undefined') {
-            renderedHtml = window.marked.parse(snippetText);
+      const bodyContainer = this.previewPane.querySelector('#preview-scroll-container');
+
+      if (isQuiz) {
+        this.renderQuizPreview(item, bodyContainer);
+      } else {
+        const rawMarkdown = await this.fetchMarkdownContent(item);
+        if (bodyContainer) {
+          if (rawMarkdown) {
+            let renderedHtml = typeof window.marked !== 'undefined' ? window.marked.parse(rawMarkdown) : escapeHtml(rawMarkdown);
+            bodyContainer.innerHTML = highlightMatch(renderedHtml, this.currentQuery);
+            this.setupMatchCounter(bodyContainer);
           } else {
-            renderedHtml = escapeHtml(snippetText);
+            bodyContainer.innerHTML = `<div class="spotlight-snippet-box"><p>Matched query: <strong>${escapeHtml(this.currentQuery)}</strong>. Click button below to open chapter.</p></div>`;
+            this.updateMatchCounterDisplay(0, 0);
           }
-          snippetBox.innerHTML = highlightMatch(renderedHtml, this.currentQuery);
-        } else {
-          snippetBox.innerHTML = `<p>Matched query: <strong>${escapeHtml(this.currentQuery)}</strong>. Click button below to open chapter in reader.</p>`;
         }
+      }
+    }
+
+    renderQuizPreview(item, bodyContainer) {
+      if (!bodyContainer) return;
+
+      let html = `<div class="quiz-preview-card">`;
+
+      if (item.qRu) {
+        html += `<div class="quiz-q-section"><strong>🇷🇺 Question:</strong> ${highlightMatch(escapeHtml(item.qRu), this.currentQuery)}</div>`;
+      }
+      if (item.qEn) {
+        html += `<div class="quiz-q-section" style="margin-top:8px;"><strong>🇬🇧 Question:</strong> ${highlightMatch(escapeHtml(item.qEn), this.currentQuery)}</div>`;
+      }
+
+      if (item.optRu) {
+        html += `<div class="quiz-opt-title" style="margin-top:14px; font-weight:700; font-size:0.85rem; color:var(--spotlight-accent);">Options (RU):</div>`;
+        html += `<div class="quiz-opts-list">`;
+        Object.entries(item.optRu).forEach(([key, val]) => {
+          const isCorrect = key === item.ans ? 'quiz-correct-opt' : '';
+          html += `<div class="quiz-opt-item ${isCorrect}"><strong>${key}:</strong> ${highlightMatch(escapeHtml(String(val)), this.currentQuery)}</div>`;
+        });
+        html += `</div>`;
+      }
+
+      if (item.optEn && !item.optRu) {
+        html += `<div class="quiz-opt-title" style="margin-top:14px; font-weight:700; font-size:0.85rem; color:var(--spotlight-accent);">Options (EN):</div>`;
+        html += `<div class="quiz-opts-list">`;
+        Object.entries(item.optEn).forEach(([key, val]) => {
+          const isCorrect = key === item.ans ? 'quiz-correct-opt' : '';
+          html += `<div class="quiz-opt-item ${isCorrect}"><strong>${key}:</strong> ${highlightMatch(escapeHtml(String(val)), this.currentQuery)}</div>`;
+        });
+        html += `</div>`;
+      }
+
+      html += `</div>`;
+      bodyContainer.innerHTML = html;
+      this.setupMatchCounter(bodyContainer);
+    }
+
+    setupMatchCounter(container) {
+      if (!container) return;
+      this.currentMatchMarks = Array.from(container.querySelectorAll('mark.spotlight-mark'));
+      this.totalMatchesCount = this.currentMatchMarks.length;
+      this.currentMatchIndex = 0;
+
+      if (this.totalMatchesCount > 0) {
+        this.updateActiveMatchMark();
+      } else {
+        this.updateMatchCounterDisplay(0, 0);
+      }
+    }
+
+    updateActiveMatchMark() {
+      if (this.totalMatchesCount === 0 || this.currentMatchMarks.length === 0) {
+        this.updateMatchCounterDisplay(0, 0);
+        return;
+      }
+
+      this.currentMatchMarks.forEach((m, idx) => {
+        if (idx === this.currentMatchIndex) {
+          m.classList.add('is-active');
+          m.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        } else {
+          m.classList.remove('is-active');
+        }
+      });
+
+      this.updateMatchCounterDisplay(this.currentMatchIndex + 1, this.totalMatchesCount);
+    }
+
+    navigateMatchNext() {
+      if (this.totalMatchesCount === 0) return;
+      this.currentMatchIndex = (this.currentMatchIndex + 1) % this.totalMatchesCount;
+      this.updateActiveMatchMark();
+    }
+
+    navigateMatchPrev() {
+      if (this.totalMatchesCount === 0) return;
+      this.currentMatchIndex = (this.currentMatchIndex - 1 + this.totalMatchesCount) % this.totalMatchesCount;
+      this.updateActiveMatchMark();
+    }
+
+    updateMatchCounterDisplay(curr, total) {
+      const counterEl = document.getElementById('preview-match-counter');
+      if (counterEl) {
+        counterEl.textContent = `${curr} из ${total}`;
+        counterEl.style.opacity = total > 0 ? '1' : '0.5';
       }
     }
 
@@ -866,16 +1046,16 @@
       const accordionBox = cardEl.querySelector('.spotlight-mobile-accordion .spotlight-snippet-box');
       if (!accordionBox) return;
 
+      if (item.type === 'quiz' || item.sourceId === 'QUIZ') {
+        accordionBox.innerHTML = highlightMatch(escapeHtml(item.qRu || item.qEn || item.heading), this.currentQuery);
+        return;
+      }
+
       const rawMarkdown = await this.fetchMarkdownContent(item);
       const snippetText = extractSnippetFromMarkdown(rawMarkdown, this.currentQuery || item.matchTerm);
 
       if (snippetText) {
-        let renderedHtml = '';
-        if (typeof window.marked !== 'undefined') {
-          renderedHtml = window.marked.parse(snippetText);
-        } else {
-          renderedHtml = escapeHtml(snippetText);
-        }
+        let renderedHtml = typeof window.marked !== 'undefined' ? window.marked.parse(snippetText) : escapeHtml(snippetText);
         accordionBox.innerHTML = highlightMatch(renderedHtml, this.currentQuery);
       } else {
         accordionBox.innerHTML = `<p>Matched query: <strong>${escapeHtml(this.currentQuery)}</strong></p>`;
@@ -883,6 +1063,11 @@
     }
 
     buildTargetUrl(item) {
+      if (item.type === 'quiz' || item.sourceId === 'QUIZ') {
+        const qFile = item.quizFile || 'books/work/examen/quiz/quiz-2020.json';
+        return `../quiz.html?quiz=${encodeURIComponent(qFile)}&q=${item.qId || 1}`;
+      }
+
       const editionParam = item.edition ? `&edition=${encodeURIComponent(item.edition)}` : '';
       const hlParam = item.matchTerm ? `&hl=${encodeURIComponent(item.matchTerm)}` : '';
       return `../reader.html?book=${encodeURIComponent(item.bookId)}&chapter=${encodeURIComponent(item.chapterId)}${editionParam}${hlParam}`;
@@ -946,11 +1131,20 @@
 
   function highlightMatch(htmlOrText, query) {
     if (!htmlOrText || !query) return htmlOrText;
-    const terms = query.toLowerCase().split(/\s+/).filter(t => t.length > 1 && !STOP_WORDS.has(t));
-    const evalTerms = terms.length > 0 ? terms : query.toLowerCase().split(/\s+/).filter(t => t.length > 1);
+    let rawQ = query.replace(/^"|"$/g, '').replace(/\b(type|t):(quiz|book)\b/gi, '').replace(/\bin:(ru|en|he)\b/gi, '').trim();
+    const terms = rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1 && !STOP_WORDS.has(t));
+    const evalTerms = terms.length > 0 ? terms : rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1);
     if (evalTerms.length === 0) return htmlOrText;
 
-    const pattern = new RegExp(`(${evalTerms.map(t => escapeRegExp(t)).join('|')})`, 'gi');
+    // Add Russian stemmed terms to match patterns
+    const patternTerms = new Set();
+    evalTerms.forEach(t => {
+      patternTerms.add(t);
+      const stemmed = stemRussianWord(t);
+      if (stemmed && stemmed.length >= 3) patternTerms.add(stemmed);
+    });
+
+    const pattern = new RegExp(`(${Array.from(patternTerms).map(t => escapeRegExp(t)).join('|')})`, 'gi');
     return htmlOrText.replace(pattern, '<mark class="spotlight-mark">$1</mark>');
   }
 
@@ -999,3 +1193,4 @@
     }
   });
 })();
+

@@ -742,3 +742,172 @@ mark.spotlight-mark {
   height: 16px;
   cursor: pointer;
 }
+
+/* --- Search Prompt Directives Bar --- */
+.spotlight-prompts-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.prompts-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--spotlight-text-secondary);
+}
+
+.spotlight-prompt-chip {
+  background: rgba(var(--spotlight-accent-rgb), 0.08);
+  border: 1px solid rgba(var(--spotlight-accent-rgb), 0.2);
+  color: var(--spotlight-accent);
+  font-family: monospace, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.spotlight-prompt-chip:hover {
+  background: var(--spotlight-accent);
+  color: #ffffff;
+  border-color: var(--spotlight-accent);
+  transform: translateY(-1px);
+}
+
+/* --- Quiz Badge & Result Card --- */
+.badge-quiz {
+  background: rgba(168, 85, 247, 0.15) !important;
+  color: #a855f7 !important;
+  border: 1px solid rgba(168, 85, 247, 0.3) !important;
+}
+
+.spotlight-quiz-item {
+  border-left: 3px solid #a855f7 !important;
+}
+
+/* --- Preview Real-Time Match Counter Toolbar --- */
+.spotlight-preview-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(var(--spotlight-accent-rgb), 0.08);
+  border: 1px solid rgba(var(--spotlight-accent-rgb), 0.25);
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.preview-match-pill {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--spotlight-accent);
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+
+.preview-nav-btns {
+  display: flex;
+  gap: 4px;
+}
+
+.preview-nav-btn {
+  background: none;
+  border: none;
+  color: var(--spotlight-text-primary);
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.75rem;
+  transition: all 0.15s ease;
+  opacity: 0.8;
+}
+
+.preview-nav-btn:hover {
+  background: var(--spotlight-accent);
+  color: #ffffff;
+  opacity: 1;
+}
+
+/* --- Active Match Highlight --- */
+mark.spotlight-mark {
+  background-color: var(--spotlight-mark-bg);
+  color: var(--spotlight-mark-text);
+  padding: 1px 3px;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+mark.spotlight-mark.is-active {
+  background-color: #f97316 !important;
+  color: #ffffff !important;
+  box-shadow: 0 0 10px rgba(249, 115, 22, 0.8);
+  font-weight: 700;
+  outline: 2px solid #fdba74;
+}
+
+/* --- Quiz Preview Card --- */
+.quiz-preview-card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 12px;
+}
+
+.quiz-q-section {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--spotlight-text-primary);
+  background: rgba(255, 255, 255, 0.03);
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--spotlight-border);
+}
+
+.quiz-opts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.quiz-opt-item {
+  font-size: 0.88rem;
+  padding: 8px 12px;
+  border-radius: 6px;
+  background: rgba(var(--spotlight-accent-rgb), 0.04);
+  border: 1px solid var(--spotlight-border);
+  color: var(--spotlight-text-primary);
+}
+
+.quiz-opt-item.quiz-correct-opt {
+  border-color: rgba(34, 197, 94, 0.4);
+  background: rgba(34, 197, 94, 0.08);
+}
+
+/* --- Re-index Inventory Action Button --- */
+.spotlight-reindex-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--spotlight-text-primary);
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 12px;
+  cursor: pointer;
+  margin-left: 6px;
+  transition: all 0.15s ease;
+}
+
+.spotlight-reindex-btn:hover {
+  background: var(--spotlight-accent);
+  color: #ffffff;
+}
+
