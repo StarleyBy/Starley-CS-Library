@@ -1016,23 +1016,140 @@ function updateUserProfileDisplay() {
             iconTag.className = AVATAR_ICONS_MAP[profile.avatar] || 'fas fa-stethoscope';
         }
     }
+    const totalSolved = (state.sessionHistory || []).reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = (state.sessionHistory || []).reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const weightedAcc = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
 
     if (statStreak) statStreak.textContent = profile.streak || 1;
-    if (statSolved) statSolved.textContent = profile.totalSolved || 0;
-    
-    const accPct = profile.totalSolved > 0 ? Math.round((profile.correctCount / profile.totalSolved) * 100) : 0;
-    if (statAcc) statAcc.textContent = `${accPct}%`;
+    if (statSolved) statSolved.textContent = totalSolved;
+    if (statAcc) statAcc.textContent = `${weightedAcc}%`;
 
-    const level = Math.floor((profile.totalSolved || 0) / 25) + 1;
-    const isRu = state.settings.lang === 'Ru';
-    let levelTitle = isRu ? 'Резидент' : 'Resident';
-    if (level >= 10) levelTitle = isRu ? 'Шеф / Эксперт' : 'Chief Specialist';
-    else if (level >= 5) levelTitle = isRu ? 'Врач' : 'Attending';
-    else if (level >= 3) levelTitle = isRu ? 'Старший Fellow' : 'Senior Fellow';
+    const uniqueSolvedSet = new Set();
+    (state.sessionHistory || []).forEach(sess => {
+        if (sess.errors && Array.isArray(sess.errors)) {
+            sess.errors.forEach(item => { if (item.questionId) uniqueSolvedSet.add(item.questionId); });
+        }
+    });
+
+    const recentSess = (state.sessionHistory || []).slice(0, 5);
+    const recentSolved = recentSess.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const recentCorrect = recentSess.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const recentAcc = recentSolved > 0 ? Math.round((recentCorrect / recentSolved) * 100) : weightedAcc;
+
+    const rankResult = calculate50LevelAndRank(uniqueSolvedSet.size, 3000, recentAcc, state.settings ? state.settings.lang : 'Ru');
 
     if (levelBadge) {
-        levelBadge.textContent = `Lv.${level} ${levelTitle}`;
+        levelBadge.textContent = rankResult.badgeText;
+        levelBadge.style.background = rankResult.isDegraded ? 'rgba(248, 113, 113, 0.15)' : 'rgba(35, 134, 54, 0.15)';
+        levelBadge.style.color = rankResult.isDegraded ? '#f87171' : '#3fb950';
+        levelBadge.style.borderColor = rankResult.isDegraded ? 'rgba(248, 113, 113, 0.3)' : 'rgba(35, 134, 54, 0.3)';
+        if (rankResult.isDegraded) {
+            levelBadge.title = state.settings && state.settings.lang === 'Ru' ? 'Уровень снижен из-за падения процента верных ответов!' : 'Level regressed due to low accuracy!';
+        } else {
+            levelBadge.title = '';
+        }
     }
+}
+
+const DOCTOR_RANKS_50 = [
+    { level: 1, en: "Medical Student I", ru: "Студент I" },
+    { level: 2, en: "Medical Student II", ru: "Студент II" },
+    { level: 3, en: "Medical Student III", ru: "Студент III" },
+    { level: 4, en: "Medical Student IV", ru: "Студент IV" },
+    { level: 5, en: "Medical Student V", ru: "Студент V" },
+    { level: 6, en: "Junior Intern I", ru: "Младший интерн I" },
+    { level: 7, en: "Junior Intern II", ru: "Младший интерн II" },
+    { level: 8, en: "Junior Intern III", ru: "Младший интерн III" },
+    { level: 9, en: "Junior Intern IV", ru: "Младший интерн IV" },
+    { level: 10, en: "Chief Intern", ru: "Главный интерн" },
+    { level: 11, en: "Resident I", ru: "Резидент I" },
+    { level: 12, en: "Resident II", ru: "Резидент II" },
+    { level: 13, en: "Resident III", ru: "Резидент III" },
+    { level: 14, en: "Senior Resident", ru: "Старший резидент" },
+    { level: 15, en: "Chief Resident", ru: "Главный резидент" },
+    { level: 16, en: "Clinical Fellow I", ru: "Клинический Fellow I" },
+    { level: 17, en: "Clinical Fellow II", ru: "Клинический Fellow II" },
+    { level: 18, en: "Clinical Fellow III", ru: "Клинический Fellow III" },
+    { level: 19, en: "Senior Fellow", ru: "Старший Fellow" },
+    { level: 20, en: "Chief Fellow", ru: "Главный Fellow" },
+    { level: 21, en: "Junior Attending", ru: "Младший врач" },
+    { level: 22, en: "Attending Physician I", ru: "Врач-специалист I" },
+    { level: 23, en: "Attending Physician II", ru: "Врач-специалист II" },
+    { level: 24, en: "Senior Attending", ru: "Старший врач-специалист" },
+    { level: 25, en: "Staff Physician", ru: "Штатный врач клиники" },
+    { level: 26, en: "Senior Specialist I", ru: "Ведущий специалист I" },
+    { level: 27, en: "Senior Specialist II", ru: "Ведущий специалист II" },
+    { level: 28, en: "Department Specialist", ru: "Специалист отделения" },
+    { level: 29, en: "Associate Consultant", ru: "Консультант клиники" },
+    { level: 30, en: "Senior Consultant", ru: "Главный консультант" },
+    { level: 31, en: "Assistant Professor I", ru: "Ассистент кафедры I" },
+    { level: 32, en: "Assistant Professor II", ru: "Ассистент кафедры II" },
+    { level: 33, en: "Associate Professor I", ru: "Доцент I" },
+    { level: 34, en: "Associate Professor II", ru: "Доцент II" },
+    { level: 35, en: "Professor of Medicine", ru: "Профессор медицины" },
+    { level: 36, en: "Distinguished Professor", ru: "Заслуженный профессор" },
+    { level: 37, en: "Department Vice-Chair", ru: "Зам. заведующего отделением" },
+    { level: 38, en: "Department Chair", ru: "Заведующий отделением" },
+    { level: 39, en: "Medical Director", ru: "Медицинский директор" },
+    { level: 40, en: "Chief Medical Officer", ru: "Главный врач клиники" },
+    { level: 41, en: "Academic Fellow", ru: "Действительный член Академии" },
+    { level: 42, en: "Corresponding Member", ru: "Член-корреспондент" },
+    { level: 43, en: "Academician I", ru: "Академик I" },
+    { level: 44, en: "Senior Academician", ru: "Старший академик" },
+    { level: 45, en: "Master of Surgery", ru: "Мастер кардиохирургии" },
+    { level: 46, en: "Distinguished Scholar", ru: "Заслуженный деятель науки" },
+    { level: 47, en: "National Expert", ru: "Национальный эксперт" },
+    { level: 48, en: "Global Pioneer", ru: "Мировой пионер медицины" },
+    { level: 49, en: "Medical Luminary", ru: "Корифей медицины" },
+    { level: 50, en: "Grand Medical Legend", ru: "Легенда медицины" }
+];
+
+function calculate50LevelAndRank(uniqueSolved, totalBank, recentAccuracy, lang = 'Ru') {
+    const totalQBank = Math.max(totalBank || 3000, 3000);
+    const coverageFraction = Math.min(uniqueSolved / totalQBank, 1.0);
+    let rawLevel = Math.min(50, Math.floor(coverageFraction * 50) + 1);
+
+    let effectiveLevel = rawLevel;
+    let isDegraded = false;
+
+    // Apply accuracy degradation penalties
+    if (rawLevel >= 45) {
+        if (recentAccuracy < 90 || coverageFraction < 0.85) {
+            const drop = Math.ceil((90 - Math.min(recentAccuracy, 90)) / 2) + (coverageFraction < 0.85 ? 5 : 0);
+            effectiveLevel = Math.max(44, rawLevel - drop);
+            isDegraded = true;
+        }
+    } else if (rawLevel >= 31) {
+        if (recentAccuracy < 80) {
+            const drop = Math.ceil((80 - recentAccuracy) / 3);
+            effectiveLevel = Math.max(1, rawLevel - drop);
+            isDegraded = true;
+        }
+    } else if (rawLevel >= 16) {
+        if (recentAccuracy < 70) {
+            const drop = Math.ceil((70 - recentAccuracy) / 4);
+            effectiveLevel = Math.max(1, rawLevel - drop);
+            isDegraded = true;
+        }
+    } else if (rawLevel >= 1) {
+        if (recentAccuracy < 60) {
+            const drop = Math.ceil((60 - recentAccuracy) / 5);
+            effectiveLevel = Math.max(1, rawLevel - drop);
+            isDegraded = true;
+        }
+    }
+
+    effectiveLevel = Math.max(1, Math.min(50, effectiveLevel));
+    const rankObj = DOCTOR_RANKS_50.find(r => r.level === effectiveLevel) || DOCTOR_RANKS_50[0];
+    const title = lang === 'Ru' ? rankObj.ru : rankObj.en;
+
+    return {
+        level: effectiveLevel,
+        rawLevel: rawLevel,
+        title: title,
+        isDegraded: isDegraded,
+        badgeText: `Lv.${effectiveLevel} ${title}`
+    };
 }
 
 function setupProfileListeners() {
@@ -1061,15 +1178,26 @@ function isFavoriteQuestion(q) {
 function toggleFavoriteQuestion(q) {
     if (!q) return;
     const key = getQuestionKey(q);
+    const qId = String(q.id || key);
     let favs = getFavoriteQuestionKeys();
     let isFav = false;
 
     if (favs.includes(key)) {
         favs = favs.filter(k => k !== key);
         isFav = false;
+        state.userFavorites = (state.userFavorites || []).filter(f => String(f.id) !== qId);
     } else {
         favs.push(key);
         isFav = true;
+        if (!Array.isArray(state.userFavorites)) state.userFavorites = [];
+        if (!state.userFavorites.some(f => String(f.id) === qId)) {
+            state.userFavorites.push({
+                id: qId,
+                questionSnippet: (q['question' + (state.settings ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionObj: q,
+                addedAt: new Date().toISOString()
+            });
+        }
     }
 
     try {
@@ -1086,6 +1214,12 @@ function toggleFavoriteQuestion(q) {
 
     playSound('click');
     triggerHaptic('click');
+
+    syncCloudUserData();
+
+    if (isFav && typeof openPlaylistPickerModal === 'function') {
+        openPlaylistPickerModal(q);
+    }
 }
 
 function openReportModal(q) {
@@ -1630,9 +1764,15 @@ async function startQuiz() {
                     const data = await res.json();
                     questions = data.questions || [];
                     
-                    questions.forEach(q => {
+                    const manifestId = (set.bookPath + '_' + set.setId).replace(/[^a-zA-Z0-9]/g, '_');
+                    questions.forEach((q, idx) => {
                         q.bookPath = set.bookPath;
+                        q.setId = set.setId;
+                        q.manifestId = manifestId;
                         q.meta = data.meta;
+                        if (!q.id) {
+                            q.id = `${manifestId}_q${idx + 1}`;
+                        }
                     });
                     
                     state.setQuestionsMap[cacheKey] = questions;
@@ -2433,6 +2573,56 @@ function showResults() {
 
     renderIncorrectAnswers();
 
+    // Gather unique topic titles / set labels involved in this session
+    const topicSet = new Set();
+    if (state.questions && state.questions.length > 0) {
+        state.questions.forEach(q => {
+            const t = getQuestionTopic(q);
+            if (t) topicSet.add(t);
+        });
+    }
+    const topicsList = Array.from(topicSet);
+
+    // Build question detail / error list
+    const sessionDetailsList = [];
+    if (state.answers && state.questions) {
+        state.answers.forEach((ans, idx) => {
+            const q = state.questions[idx];
+            if (!q) return;
+
+            const lang = state.settings.lang || 'En';
+            const optionsMap = q['options' + lang] || q['optionsEn'] || q.options || {};
+            
+            const chosenLetters = Array.isArray(ans.chosen) ? ans.chosen : (ans.chosen ? [ans.chosen] : []);
+            const correctLetters = Array.isArray(q.correctAnswer) ? q.correctAnswer : (q.correctAnswer ? [q.correctAnswer] : []);
+
+            const chosenTextArr = chosenLetters.map(l => `${l}: ${optionsMap[l] || l}`);
+            const correctTextArr = correctLetters.map(l => `${l}: ${optionsMap[l] || l}`);
+
+            sessionDetailsList.push({
+                questionIndex: idx + 1,
+                questionId: q.id || getQuestionKey(q),
+                bookPath: q.bookPath || state.bookPath || '',
+                setId: q.setId || '',
+                manifestId: q.manifestId || '',
+                questionEn: q.questionEn || q.question || '',
+                questionRu: q.questionRu || q.question || '',
+                optionsEn: q.optionsEn || q.options || {},
+                optionsRu: q.optionsRu || q.options || {},
+                correctAnswer: q.correctAnswer,
+                chosen: ans.chosen,
+                chosenText: chosenTextArr.join(' | ') || (isRu ? 'Нет ответа' : 'No Answer'),
+                correctText: correctTextArr.join(' | '),
+                isCorrect: !!ans.isCorrect,
+                explanationEn: q.explanationEn || q.explanation || '',
+                explanationRu: q.explanationRu || q.explanation || '',
+                chapterId: q.chapterId || ''
+            });
+        });
+    }
+
+    const countModeVal = state.settings.allQuestions ? 'all' : String(state.settings.count || 10);
+
     // Create completed session record & trigger cloud/local sync
     const newSessionObj = {
         sessionId: 'sess_' + Date.now(),
@@ -2442,10 +2632,19 @@ function showResults() {
         totalQ: totalQ,
         timeSpentSec: totalTime,
         mode: state.sessionMode || 'smart',
-        setTitle: (state.bookMeta && (state.bookMeta.russian_title || state.bookMeta.title)) || (isRu ? 'Клинический квиз' : 'Clinical Quiz')
+        lang: state.settings.lang || 'En',
+        countMode: countModeVal,
+        topics: topicsList,
+        setTitle: (state.bookMeta && (state.bookMeta.russian_title || state.bookMeta.title)) || (isRu ? 'Клинический квиз' : 'Clinical Quiz'),
+        errors: sessionDetailsList
     };
 
-    syncCloudUserData(newSessionObj);
+    if (totalQ >= 2 && !state.isSingleQuestionPreview) {
+        syncCloudUserData(newSessionObj);
+    } else {
+        syncCloudUserData(null);
+    }
+    state.isSingleQuestionPreview = false;
 }
 
 function renderIncorrectAnswers() {
@@ -3265,27 +3464,30 @@ async function initGoogleSheetsAccountSync() {
                 state.userPlaylists = p.playlists || [];
                 state.sessionHistory = res.history || [];
 
-                // Merge streak and solved stats if higher
-                if (p.streakDays) {
-                    const profileStreak = document.getElementById('profile-stat-streak');
-                    const cabStreak = document.getElementById('cab-stat-streak');
-                    if (profileStreak) profileStreak.textContent = p.streakDays;
-                    if (cabStreak) cabStreak.textContent = p.streakDays;
-                }
+                // Compute streak and solved stats dynamically from session history
+                const histSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+                const histCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+                const calculatedSolved = Math.max(p.solvedCount || 0, histSolved);
+                const calculatedAcc = calculatedSolved > 0 ? Math.round((histCorrect / (calculatedSolved || 1)) * 100) : Math.round(p.accuracyPct || 0);
 
-                if (p.solvedCount !== undefined) {
-                    const profileSolved = document.getElementById('profile-stat-solved');
-                    const cabSolved = document.getElementById('cab-stat-solved');
-                    if (profileSolved) profileSolved.textContent = p.solvedCount;
-                    if (cabSolved) cabSolved.textContent = p.solvedCount;
-                }
+                const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+                uniqueDays.delete('');
+                const calculatedStreak = Math.max(p.streakDays || 1, uniqueDays.size, 1);
 
-                if (p.accuracyPct !== undefined) {
-                    const profileAcc = document.getElementById('profile-stat-accuracy');
-                    const cabAcc = document.getElementById('cab-stat-accuracy');
-                    if (profileAcc) profileAcc.textContent = Math.round(p.accuracyPct) + '%';
-                    if (cabAcc) cabAcc.textContent = Math.round(p.accuracyPct) + '%';
-                }
+                const profileStreak = document.getElementById('profile-stat-streak');
+                const cabStreak = document.getElementById('cab-stat-streak');
+                if (profileStreak) profileStreak.textContent = calculatedStreak;
+                if (cabStreak) cabStreak.textContent = calculatedStreak;
+
+                const profileSolved = document.getElementById('profile-stat-solved');
+                const cabSolved = document.getElementById('cab-stat-solved');
+                if (profileSolved) profileSolved.textContent = calculatedSolved;
+                if (cabSolved) cabSolved.textContent = calculatedSolved;
+
+                const profileAcc = document.getElementById('profile-stat-accuracy');
+                const cabAcc = document.getElementById('cab-stat-accuracy');
+                if (profileAcc) profileAcc.textContent = calculatedAcc + '%';
+                if (cabAcc) cabAcc.textContent = calculatedAcc + '%';
 
                 if (syncBadge) {
                     syncBadge.textContent = '☁️ Cloud Synced';
@@ -3321,14 +3523,41 @@ function loadLocalUserData() {
  */
 async function syncCloudUserData(newSessionObj) {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+
+    if (newSessionObj) {
+        state.sessionHistory.unshift(newSessionObj);
+        localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+    }
+
+    // Dynamic stats calculation from session history
+    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const accuracyPct = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+
+    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+    uniqueDays.delete('');
+    const streakDays = Math.max(uniqueDays.size, 1);
+
+    // Update UI elements
+    const profileStreak = document.getElementById('profile-stat-streak');
+    const cabStreak = document.getElementById('cab-stat-streak');
+    if (profileStreak) profileStreak.textContent = streakDays;
+    if (cabStreak) cabStreak.textContent = streakDays;
+
+    const profileSolved = document.getElementById('profile-stat-solved');
+    const cabSolved = document.getElementById('cab-stat-solved');
+    if (profileSolved) profileSolved.textContent = totalSolved;
+    if (cabSolved) cabSolved.textContent = totalSolved;
+
+    const profileAcc = document.getElementById('profile-stat-accuracy');
+    const cabAcc = document.getElementById('cab-stat-accuracy');
+    if (profileAcc) profileAcc.textContent = accuracyPct + '%';
+    if (cabAcc) cabAcc.textContent = accuracyPct + '%';
+
     if (!user || user.isGuest) {
         // Save locally
         localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
         localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
-        if (newSessionObj) {
-            state.sessionHistory.unshift(newSessionObj);
-            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-        }
         return;
     }
 
@@ -3339,20 +3568,11 @@ async function syncCloudUserData(newSessionObj) {
     localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
     localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
 
-    if (newSessionObj) {
-        state.sessionHistory.unshift(newSessionObj);
-        localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-    }
-
     if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.syncUserData === 'function') {
-        const solvedCountEl = document.getElementById('profile-stat-solved');
-        const streakEl = document.getElementById('profile-stat-streak');
-        const accEl = document.getElementById('profile-stat-accuracy');
-
         const payload = {
-            streakDays: streakEl ? parseInt(streakEl.textContent, 10) || 1 : 1,
-            solvedCount: solvedCountEl ? parseInt(solvedCountEl.textContent, 10) || 0 : 0,
-            accuracyPct: accEl ? parseFloat(accEl.textContent) || 0 : 0,
+            streakDays: streakDays,
+            solvedCount: totalSolved,
+            accuracyPct: accuracyPct,
             favorites: state.userFavorites,
             playlists: state.userPlaylists,
             newSession: newSessionObj || null
@@ -3455,6 +3675,7 @@ function initPersonalCabinet() {
             const activePane = document.getElementById(`cabinet-tab-${targetTab}`);
             if (activePane) activePane.style.display = 'block';
 
+            if (targetTab === 'overview') renderCabinetOverviewTab();
             if (targetTab === 'playlists') renderPlaylistsTab();
             if (targetTab === 'history') renderHistoryTab();
         };
@@ -3523,36 +3744,259 @@ function initPersonalCabinet() {
 
 function renderCabinetContent() {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const summaryText = document.getElementById('cab-summary-text');
     const nickInput = document.getElementById('input-profile-nickname');
 
     updateUserProfileDisplay();
 
-    if (user) {
-        if (nickInput && !nickInput.value) {
-            nickInput.value = user.nickname || user.username || '';
-        }
-
-        if (summaryText) {
-            if (user.isGuest) {
-                summaryText.innerHTML = `
-                    <div style="background: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 10px; padding: 12px; margin-bottom: 12px; color: #58a6ff;">
-                        👤 <strong>Guest Mode (Anonymous)</strong><br>
-                        You are currently in Guest Mode. Your progress remains local to this browser.<br>
-                        Log in to your personal cloud account to sync playlists, favorites, and study stats across all devices!
-                    </div>
-                    <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-                        <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-primary" style="flex: 1; padding: 8px 14px; font-size: 0.82rem; border-radius: 8px;">📲 Request Account via Telegram</button>
-                    </div>
-                `;
-            } else {
-                summaryText.innerHTML = `Your study stats are automatically synchronized with Google Sheets as <strong>${escapeHTML(user.nickname || user.username)}</strong>. Play sessions and mark weak questions to track mastery across devices.`;
-            }
-        }
+    if (user && nickInput && !nickInput.value) {
+        nickInput.value = user.nickname || user.username || '';
     }
 
+    renderCabinetOverviewTab();
     renderPlaylistsTab();
     renderHistoryTab();
+}
+
+/**
+ * Render Cabinet Overview & Expanded Analytics Dashboard
+ */
+function renderCabinetOverviewTab() {
+    const isRu = state.settings.lang === 'Ru';
+
+    // 1. Core Metrics
+    const totalSessions = state.sessionHistory.length;
+    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const avgAccuracy = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+
+    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+    uniqueDays.delete('');
+    const streakDays = Math.max(uniqueDays.size, 1);
+
+    const elStreak = document.getElementById('cab-stat-streak');
+    const elSessions = document.getElementById('cab-stat-sessions');
+    const elSolved = document.getElementById('cab-stat-solved');
+    const elAcc = document.getElementById('cab-stat-accuracy');
+
+    if (elStreak) elStreak.textContent = streakDays;
+    if (elSessions) elSessions.textContent = totalSessions;
+    if (elSolved) elSolved.textContent = totalSolved;
+    if (elAcc) elAcc.textContent = avgAccuracy + '%';
+
+    // Sync lobby header statistics
+    const profStreak = document.getElementById('profile-stat-streak');
+    const profSolved = document.getElementById('profile-stat-solved');
+    const profAcc = document.getElementById('profile-stat-accuracy');
+    if (profStreak) profStreak.textContent = streakDays;
+    if (profSolved) profSolved.textContent = totalSolved;
+    if (profAcc) profAcc.textContent = avgAccuracy + '%';
+
+    // 2. Growth & Trend Box
+    const trendTitle = document.getElementById('cab-trend-title');
+    const trendDesc = document.getElementById('cab-trend-desc');
+
+    if (totalSessions >= 2) {
+        const recentSessions = state.sessionHistory.slice(0, 3);
+        const initialSessions = state.sessionHistory.slice(-3);
+
+        const recentAvg = Math.round(recentSessions.reduce((sum, s) => sum + (s.scorePct || 0), 0) / recentSessions.length);
+        const initialAvg = Math.round(initialSessions.reduce((sum, s) => sum + (s.scorePct || 0), 0) / initialSessions.length);
+        const delta = recentAvg - initialAvg;
+
+        if (trendTitle) trendTitle.textContent = isRu ? '📈 Динамика успешности решений' : '📈 Accuracy Growth Trend';
+        if (trendDesc) {
+            const growthTag = delta >= 0 ? `+${delta}%` : `${delta}%`;
+            const colorStyle = delta >= 0 ? '#3fb950' : '#f87171';
+            trendDesc.innerHTML = isRu 
+                ? `Старт обучения: <strong>${initialAvg}%</strong> ➔ Текущий уровень: <strong>${recentAvg}%</strong> (<span style="color:${colorStyle}; font-weight:800;">${growthTag}</span>)`
+                : `Initial baseline: <strong>${initialAvg}%</strong> ➔ Recent average: <strong>${recentAvg}%</strong> (<span style="color:${colorStyle}; font-weight:800;">${growthTag}</span>)`;
+        }
+    } else {
+        if (trendTitle) trendTitle.textContent = isRu ? '📈 Динамика успешности решений' : '📈 Accuracy Growth Trend';
+        if (trendDesc) trendDesc.textContent = isRu 
+            ? 'Пройдите хотя бы 2 сеанса тестирования для отслеживания динамики точности.'
+            : 'Complete at least 2 quiz sessions to track your accuracy growth trend.';
+    }
+
+    // 3. Global Question Bank Coverage
+    let totalBankQ = 0;
+    if (state.allBooksWithQuizzes && state.allBooksWithQuizzes.length > 0) {
+        state.allBooksWithQuizzes.forEach(b => {
+            if (b.quiz_sets) {
+                b.quiz_sets.forEach(s => totalBankQ += (s.question_count || 10));
+            }
+        });
+    }
+    if (totalBankQ === 0) totalBankQ = Math.max(totalSolved, 250);
+
+    const uniqueSolvedSet = new Set();
+    state.sessionHistory.forEach(sess => {
+        if (sess.errors && Array.isArray(sess.errors)) {
+            sess.errors.forEach(item => {
+                if (item.questionId) uniqueSolvedSet.add(item.questionId);
+            });
+        }
+    });
+
+    const uniqueCount = uniqueSolvedSet.size > 0 ? uniqueSolvedSet.size : Math.min(totalSolved, totalBankQ);
+    const coveragePct = Math.min(Math.round((uniqueCount / totalBankQ) * 100), 100);
+
+    const covPctEl = document.getElementById('cab-bank-coverage-pct');
+    const covBarEl = document.getElementById('cab-bank-coverage-bar');
+    const covSubEl = document.getElementById('cab-bank-coverage-sub');
+
+    if (covPctEl) covPctEl.textContent = `${coveragePct}% (${uniqueCount} / ${totalBankQ})`;
+    if (covBarEl) covBarEl.style.width = `${coveragePct}%`;
+    if (covSubEl) covSubEl.textContent = isRu 
+        ? `Уникальных вопросов решено из общей базы знаний Starley Library`
+        : `Unique questions answered out of total questions in Starley Library`;
+
+    // 4. Topic & Specialty Breakdown
+    const topicListEl = document.getElementById('cab-topics-mastery-list');
+    if (topicListEl) {
+        const topicMap = {};
+
+        state.sessionHistory.forEach(sess => {
+            const sessTopics = Array.isArray(sess.topics) && sess.topics.length > 0 ? sess.topics : [sess.setTitle || 'General'];
+            
+            sessTopics.forEach(tName => {
+                if (!topicMap[tName]) {
+                    topicMap[tName] = { topic: tName, totalQ: 0, correctQ: 0, sessionsCount: 0 };
+                }
+                topicMap[tName].totalQ += (sess.totalQ || 0) / sessTopics.length;
+                topicMap[tName].correctQ += (sess.correctQ || 0) / sessTopics.length;
+                topicMap[tName].sessionsCount += 1;
+            });
+        });
+
+        const topicEntries = Object.values(topicMap);
+
+        if (topicEntries.length === 0) {
+            topicListEl.innerHTML = `<div style="color: var(--quiz-muted); font-size: 0.82rem; text-align: center; padding: 10px;">${isRu ? 'Пройдите первый квиз для наглядного анализа успеваемости по разделам.' : 'Complete your first quiz to generate topic mastery analytics.'}</div>`;
+        } else {
+            topicListEl.innerHTML = topicEntries.map(t => {
+                const total = Math.round(t.totalQ);
+                const correct = Math.round(t.correctQ);
+                const acc = total > 0 ? Math.round((correct / total) * 100) : 0;
+                const accColor = acc >= 80 ? '#3fb950' : (acc >= 60 ? '#eab308' : '#f87171');
+
+                return `
+                    <div style="background: rgba(13, 17, 23, 0.5); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px; display: flex; flex-direction: column; gap: 6px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
+                            <span style="font-weight: 700; color: var(--quiz-text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 70%;">🏷️ ${escapeHTML(t.topic)}</span>
+                            <span style="font-weight: 800; color: ${accColor};">${acc}% <span style="font-size: 0.72rem; color: var(--quiz-muted); font-weight: normal;">(${correct}/${total})</span></span>
+                        </div>
+                        <div style="height: 6px; background: var(--quiz-border); border-radius: 3px; overflow: hidden; display: flex;">
+                            <div style="width: ${acc}%; height: 100%; background: ${accColor}; transition: width 0.4s ease;"></div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+    }
+}
+
+/**
+ * Spotify-Style Playlist Picker Modal Logic
+ */
+window.openPlaylistPickerModal = function(q) {
+    if (!q) return;
+
+    const modal = document.getElementById('quiz-playlist-picker-modal');
+    if (!modal) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    const snippetEl = document.getElementById('playlist-picker-q-snippet');
+    const qText = (q['question' + state.settings.lang] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '');
+    if (snippetEl) snippetEl.textContent = `"${qText.substring(0, 110)}..."`;
+
+    const qId = String(q.id || getQuestionKey(q));
+
+    renderPlaylistPickerOptionsList(qId);
+
+    const btnCreate = document.getElementById('btn-picker-create-playlist');
+    const inputNew = document.getElementById('input-picker-new-playlist');
+
+    if (btnCreate && inputNew) {
+        btnCreate.onclick = () => {
+            const title = inputNew.value.trim();
+            if (title) {
+                const newPl = {
+                    id: 'pl_' + Date.now(),
+                    title: title,
+                    questionIds: [qId],
+                    createdAt: new Date().toISOString()
+                };
+                state.userPlaylists.push(newPl);
+                inputNew.value = '';
+                syncCloudUserData();
+                renderPlaylistPickerOptionsList(qId);
+                renderPlaylistsTab();
+            }
+        };
+    }
+
+    modal.style.display = 'flex';
+};
+
+function renderPlaylistPickerOptionsList(qId) {
+    const listCont = document.getElementById('playlist-picker-options-list');
+    if (!listCont) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    if (!state.userPlaylists || state.userPlaylists.length === 0) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); font-size: 0.82rem; text-align: center; padding: 10px;">${isRu ? 'Плейлистов пока нет. Создайте первый ниже!' : 'No custom playlists yet. Create your first playlist below!'}</div>`;
+        return;
+    }
+
+    listCont.innerHTML = state.userPlaylists.map(pl => {
+        const isIncluded = Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
+        return `
+            <label style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; cursor: pointer; transition: background 0.2s;" onmouseover="this.style.background='rgba(30,35,45,0.8)'" onmouseout="this.style.background='rgba(13, 17, 23, 0.6)'">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <input type="checkbox" ${isIncluded ? 'checked' : ''} onchange="toggleQuestionInPlaylist('${pl.id}', '${qId}')" style="width: 18px; height: 18px; accent-color: #58a6ff; cursor: pointer;">
+                    <span style="font-weight: 700; font-size: 0.88rem; color: var(--quiz-text);">📁 ${escapeHTML(pl.title)}</span>
+                </div>
+                <span style="font-size: 0.75rem; color: var(--quiz-muted);">${(pl.questionIds || []).length} ${isRu ? 'вопр.' : 'questions'}</span>
+            </label>
+        `;
+    }).join('');
+}
+
+window.toggleQuestionInPlaylist = function(playlistId, qId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
+
+    if (pl.questionIds.includes(qId)) {
+        pl.questionIds = pl.questionIds.filter(id => id !== qId);
+    } else {
+        pl.questionIds.push(qId);
+    }
+
+    syncCloudUserData();
+    renderPlaylistPickerOptionsList(qId);
+    renderPlaylistsTab();
+};
+
+function initPlaylistPickerModalHandlers() {
+    const modal = document.getElementById('quiz-playlist-picker-modal');
+    const closeBtnHeader = document.getElementById('btn-close-playlist-picker-modal');
+    const closeBtnFooter = document.getElementById('btn-done-playlist-picker');
+
+    if (closeBtnHeader) {
+        closeBtnHeader.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
+    if (closeBtnFooter) {
+        closeBtnFooter.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
 }
 
 /**
@@ -3582,6 +4026,7 @@ function renderPlaylistsTab() {
                     </div>
                     <div style="display: flex; gap: 8px; margin-top: 12px;">
                         <button type="button" onclick="launchPlaylistQuiz('${pl.id}')" class="btn-primary" style="flex: 1; padding: 6px; font-size: 0.78rem; border-radius: 8px;">🚀 Play</button>
+                        <button type="button" onclick="openPlaylistManagerModal('${pl.id}')" class="btn-outline" style="padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Manage Playlist">⚙️ Edit</button>
                         <button type="button" onclick="deletePlaylist('${pl.id}')" class="btn-outline" style="color: #f87171; border-color: rgba(248,113,113,0.3); padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Delete Playlist">🗑️</button>
                     </div>
                 </div>
@@ -3612,6 +4057,9 @@ function renderPlaylistsTab() {
 /**
  * Preview/Launch a Single Starred Question from Cabinet
  */
+/**
+ * Preview/Launch a Single Starred Question from Cabinet
+ */
 window.previewFavoriteQuestion = async function(favId) {
     const cabinetModal = document.getElementById('quiz-profile-modal');
     if (cabinetModal) cabinetModal.style.display = 'none';
@@ -3623,7 +4071,9 @@ window.previewFavoriteQuestion = async function(favId) {
         targetQ = state.questions.find(q => String(q.id) === String(favId) || getQuestionKey(q) === String(favId));
     }
 
-    if (!targetQ && favObj) {
+    if (!targetQ && favObj && favObj.questionObj) {
+        targetQ = favObj.questionObj;
+    } else if (!targetQ && favObj) {
         targetQ = {
             id: favObj.id,
             questionEn: favObj.questionSnippet || 'Starred Question',
@@ -3646,8 +4096,9 @@ window.previewFavoriteQuestion = async function(favId) {
     state.score = 0;
     state.answers = [];
     state.startTime = Date.now();
+    state.isSingleQuestionPreview = true;
 
-    showScreen('screen-question');
+    switchScreen('screen-question');
     renderQuestion();
 };
 
@@ -3680,7 +4131,7 @@ window.launchPlaylistQuiz = async function(playlistId) {
     state.answers = [];
     state.startTime = Date.now();
 
-    showScreen('screen-question');
+    switchScreen('screen-question');
     renderQuestion();
 };
 
@@ -3705,7 +4156,7 @@ function renderHistoryTab() {
     const container = document.getElementById('cabinet-history-container');
     if (!container) return;
 
-    if (state.sessionHistory.length === 0) {
+    if (!state.sessionHistory || state.sessionHistory.length === 0) {
         container.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px; font-size: 0.85rem;">No test sessions completed yet. Complete a quiz to view your history log and score tracking!</div>`;
         return;
     }
@@ -3713,22 +4164,241 @@ function renderHistoryTab() {
     container.innerHTML = state.sessionHistory.map(sess => {
         const dateStr = sess.date ? new Date(sess.date).toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }) : 'Recent';
         const scoreColor = sess.scorePct >= 80 ? '#3fb950' : (sess.scorePct >= 60 ? '#eab308' : '#f87171');
+        const langLabel = sess.lang === 'Ru' ? '🇷🇺 RU' : '🇬🇧 EN';
+        const countModeLabel = sess.countMode === 'all' ? 'All' : (sess.countMode ? `${sess.countMode} Qs` : '');
+        
+        // Topics chips (up to 3)
+        const topics = Array.isArray(sess.topics) ? sess.topics : [];
+        const topicsHtml = topics.slice(0, 3).map(t => `<span style="background: rgba(88,166,255,0.12); color: #58a6ff; font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px; border: 1px solid rgba(88,166,255,0.25);">${escapeHTML(t)}</span>`).join('');
+        const topicOverflow = topics.length > 3 ? `<span style="font-size: 0.7rem; color: var(--quiz-muted);">+${topics.length - 3}</span>` : '';
 
         return `
-            <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 12px; margin-bottom: 10px; display: flex; justify-content: space-between; align-items: center;">
-                <div>
-                    <div style="font-weight: 700; font-size: 0.9rem; color: var(--quiz-text);">${escapeHTML(sess.setTitle || 'Quiz Session')}</div>
-                    <div style="font-size: 0.78rem; color: var(--quiz-muted); margin-top: 2px;">
-                        <span>📅 ${dateStr}</span> • <span>⏱️ ${Math.round((sess.timeSpentSec || 0) / 60)}m</span> • <span>Mode: ${sess.mode || 'smart'}</span>
+            <div onclick="openSessionDetailsModal('${sess.sessionId}')" style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; margin-bottom: 10px; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.background='rgba(30,35,45,0.8)'; this.style.borderColor='rgba(88,166,255,0.4)';" onmouseout="this.style.background='rgba(13, 17, 23, 0.6)'; this.style.borderColor='var(--quiz-border)';">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+                    <div style="flex: 1; min-width: 0;">
+                        <div style="font-weight: 800; font-size: 0.92rem; color: var(--quiz-text); margin-bottom: 4px;">${escapeHTML(sess.setTitle || 'Quiz Session')}</div>
+                        <div style="display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 6px; align-items: center;">
+                            <span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;">${langLabel}</span>
+                            ${countModeLabel ? `<span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;">🔢 ${countModeLabel}</span>` : ''}
+                            <span style="background: rgba(56, 139, 253, 0.15); color: #58a6ff; font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px;">🎯 ${sess.mode || 'smart'}</span>
+                        </div>
+                        ${topicsHtml ? `<div style="display: flex; gap: 4px; flex-wrap: wrap; align-items: center; margin-top: 4px;">${topicsHtml}${topicOverflow}</div>` : ''}
+                        <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 6px;">
+                            <span>📅 ${dateStr}</span> • <span>⏱️ ${Math.round((sess.timeSpentSec || 0) / 60)}m ${(sess.timeSpentSec || 0) % 60}s</span>
+                        </div>
                     </div>
-                </div>
-                <div style="text-align: right;">
-                    <div style="font-size: 1.1rem; font-weight: 800; color: ${scoreColor};">${sess.scorePct}%</div>
-                    <div style="font-size: 0.75rem; color: var(--quiz-muted);">${sess.correctQ} / ${sess.totalQ} Correct</div>
+                    <div style="text-align: right; flex-shrink: 0;">
+                        <div style="font-size: 1.2rem; font-weight: 800; color: ${scoreColor};">${sess.scorePct}%</div>
+                        <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 2px;">${sess.correctQ} / ${sess.totalQ} Correct</div>
+                        <div style="font-size: 0.72rem; color: #58a6ff; font-weight: 700; margin-top: 6px;">🔍 Details & Retest →</div>
+                    </div>
                 </div>
             </div>
         `;
     }).join('');
+}
+
+/**
+ * Open Session Details Breakdown Modal
+ */
+window.openSessionDetailsModal = function(sessionId) {
+    const sess = state.sessionHistory.find(s => String(s.sessionId) === String(sessionId));
+    if (!sess) return;
+
+    const modal = document.getElementById('quiz-session-detail-modal');
+    if (!modal) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    document.getElementById('lbl-session-detail-title').textContent = isRu ? '📜 Детали учебной сессии' : '📜 Test Session Overview';
+    document.getElementById('sess-detail-set-title').textContent = sess.setTitle || (isRu ? 'Клинический квиз' : 'Clinical Quiz');
+
+    // Score & Meta
+    const scoreColor = sess.scorePct >= 80 ? '#3fb950' : (sess.scorePct >= 60 ? '#eab308' : '#f87171');
+    const scorePctEl = document.getElementById('sess-detail-score-pct');
+    scorePctEl.textContent = `${sess.scorePct}%`;
+    scorePctEl.style.color = scoreColor;
+
+    document.getElementById('sess-detail-score-raw').textContent = `${sess.correctQ} / ${sess.totalQ} ` + (isRu ? 'Верно' : 'Correct');
+    
+    const m = Math.floor((sess.timeSpentSec || 0) / 60);
+    const s = (sess.timeSpentSec || 0) % 60;
+    document.getElementById('sess-detail-time').textContent = `⏱️ ${m}m ${s}s`;
+
+    // Badges
+    const badgesCont = document.getElementById('sess-detail-badges');
+    const langBadge = sess.lang === 'Ru' ? '🇷🇺 Русский' : '🇬🇧 English';
+    const countBadge = sess.countMode === 'all' ? (isRu ? 'Все вопросы' : 'All Questions') : `${sess.countMode || 10} ` + (isRu ? 'вопросов' : 'Qs');
+    badgesCont.innerHTML = `
+        <span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px;">${langBadge}</span>
+        <span style="background: rgba(255,255,255,0.08); color: var(--quiz-text); font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px;">🔢 ${countBadge}</span>
+        <span style="background: rgba(88,166,255,0.15); color: #58a6ff; font-size: 0.75rem; font-weight: 700; padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(88,166,255,0.3);">🎯 ${sess.mode || 'smart'}</span>
+    `;
+
+    // Topics pills
+    const topicsCont = document.getElementById('sess-detail-topics-pills');
+    const topics = Array.isArray(sess.topics) ? sess.topics : [];
+    if (topics.length > 0) {
+        topicsCont.innerHTML = topics.map(t => `<span style="background: rgba(88,166,255,0.12); color: #58a6ff; font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 6px; border: 1px solid rgba(88,166,255,0.25);">🏷️ ${escapeHTML(t)}</span>`).join('');
+    } else {
+        topicsCont.innerHTML = `<span style="font-size: 0.75rem; color: var(--quiz-muted);">${isRu ? 'Общая медицинская база' : 'General Medical Bank'}</span>`;
+    }
+
+    // Filter Buttons state
+    const btnErrors = document.getElementById('btn-filter-sess-errors');
+    const btnAll = document.getElementById('btn-filter-sess-all');
+
+    const renderBreakdownList = (filterMode) => {
+        if (btnErrors && btnAll) {
+            if (filterMode === 'errors') {
+                btnErrors.style.background = '#58a6ff';
+                btnErrors.style.color = '#fff';
+                btnAll.style.background = 'transparent';
+                btnAll.style.color = 'var(--quiz-muted)';
+            } else {
+                btnAll.style.background = '#58a6ff';
+                btnAll.style.color = '#fff';
+                btnErrors.style.background = 'transparent';
+                btnErrors.style.color = 'var(--quiz-muted)';
+            }
+        }
+
+        const listCont = document.getElementById('session-detail-questions-list');
+        if (!listCont) return;
+
+        const items = sess.errors || [];
+        const filteredItems = (filterMode === 'errors') ? items.filter(it => !it.isCorrect) : items;
+
+        if (filteredItems.length === 0) {
+            listCont.innerHTML = `
+                <div style="background: rgba(13, 17, 23, 0.4); border: 1px dashed var(--quiz-border); border-radius: 12px; padding: 20px; text-align: center; color: var(--quiz-muted); font-size: 0.88rem;">
+                    ${filterMode === 'errors' 
+                        ? (isRu ? '🎉 В этой сессии нет ошибок! Все ответы верны.' : '🎉 No errors in this session! Perfect score.')
+                        : (isRu ? 'Подробности вопросов недоступны для старых записей.' : 'Question details unavailable for older records.')}
+                </div>
+            `;
+            return;
+        }
+
+        listCont.innerHTML = filteredItems.map((item, idx) => {
+            const isOk = item.isCorrect;
+            const cardBg = isOk ? 'rgba(35, 134, 54, 0.08)' : 'rgba(218, 54, 51, 0.08)';
+            const borderCol = isOk ? 'rgba(35, 134, 54, 0.3)' : 'rgba(218, 54, 51, 0.3)';
+            const badgeTag = isOk 
+                ? `<span style="background: rgba(35,134,54,0.2); color: #3fb950; font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 6px;">✅ ${isRu ? 'Верно' : 'Correct'}</span>`
+                : `<span style="background: rgba(218,54,51,0.2); color: #f87171; font-size: 0.72rem; font-weight: 700; padding: 2px 8px; border-radius: 6px;">❌ ${isRu ? 'Ошибка' : 'Incorrect'}</span>`;
+
+            const qText = item['question' + (sess.lang || 'En')] || item.questionEn || item.questionRu || item.question || '';
+            const expText = item['explanation' + (sess.lang || 'En')] || item.explanationEn || item.explanationRu || item.explanation || '';
+
+            return `
+                <div style="background: ${cardBg}; border: 1px solid ${borderCol}; border-radius: 12px; padding: 14px; display: flex; flex-direction: column; gap: 8px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <span style="font-weight: 800; font-size: 0.82rem; color: var(--quiz-accent);">${isRu ? 'Вопрос' : 'Question'} #${item.questionIndex || (idx + 1)}</span>
+                        ${badgeTag}
+                    </div>
+                    <div style="font-weight: 700; font-size: 0.9rem; color: var(--quiz-text); line-height: 1.4;">
+                        ${_markdownToHtml(qText)}
+                    </div>
+
+                    <div style="background: rgba(13, 17, 23, 0.5); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px; margin-top: 4px; font-size: 0.82rem; display: flex; flex-direction: column; gap: 6px;">
+                        ${!isOk ? `
+                            <div style="color: #f87171; font-weight: 600;">
+                                <strong>${isRu ? 'Ваш ответ:' : 'Your Answer:'}</strong> ${escapeHTML(item.chosenText || item.chosen || 'N/A')}
+                            </div>
+                        ` : ''}
+                        <div style="color: #3fb950; font-weight: 600;">
+                            <strong>${isRu ? 'Правильный ответ:' : 'Correct Answer:'}</strong> ${escapeHTML(item.correctText || item.correct || 'N/A')}
+                        </div>
+                    </div>
+
+                    ${expText ? `
+                        <div style="font-size: 0.82rem; color: var(--quiz-muted); margin-top: 4px; line-height: 1.4; background: rgba(88,166,255,0.05); border-left: 3px solid #58a6ff; padding: 8px 10px; border-radius: 0 6px 6px 0;">
+                            <strong style="color: #58a6ff;">💡 ${isRu ? 'Клиническое объяснение:' : 'Explanation:'}</strong>
+                            <div>${_markdownToHtml(expText)}</div>
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }).join('');
+
+        renderLatexInElement(listCont);
+    };
+
+    if (btnErrors) btnErrors.onclick = () => renderBreakdownList('errors');
+    if (btnAll) btnAll.onclick = () => renderBreakdownList('all');
+
+    const errorCount = (sess.errors || []).filter(e => !e.isCorrect).length;
+    renderBreakdownList(errorCount > 0 ? 'errors' : 'all');
+
+    // Retest / Practice Mistakes button
+    const retestBtn = document.getElementById('btn-retest-session-errors');
+    if (retestBtn) {
+        if (errorCount === 0) {
+            retestBtn.style.display = 'none';
+        } else {
+            retestBtn.style.display = 'flex';
+            retestBtn.innerHTML = `🚀 ${isRu ? 'Отработать ошибки (' + errorCount + ')' : 'Retest Incorrect Questions (' + errorCount + ')'}`;
+            retestBtn.onclick = () => launchErrorPracticeSession(sess);
+        }
+    }
+
+    modal.style.display = 'flex';
+};
+
+/**
+ * Launch Practice Session with Session Error Questions
+ */
+window.launchErrorPracticeSession = function(sess) {
+    const errorItems = (sess.errors || []).filter(e => !e.isCorrect);
+    if (errorItems.length === 0) return;
+
+    const detailModal = document.getElementById('quiz-session-detail-modal');
+    if (detailModal) detailModal.style.display = 'none';
+
+    const cabinetModal = document.getElementById('quiz-profile-modal');
+    if (cabinetModal) cabinetModal.style.display = 'none';
+
+    const practiceQuestions = errorItems.map(item => ({
+        id: item.questionId || ('err_q_' + Date.now()),
+        bookPath: item.bookPath || state.bookPath || 'general',
+        setId: item.setId || 'errors',
+        questionEn: item.questionEn || '',
+        questionRu: item.questionRu || '',
+        optionsEn: item.optionsEn || {},
+        optionsRu: item.optionsRu || {},
+        correctAnswer: item.correct,
+        explanationEn: item.explanationEn || '',
+        explanationRu: item.explanationRu || '',
+        chapterId: item.chapterId
+    }));
+
+    state.questions = shuffleArray(practiceQuestions);
+    state.currentIndex = 0;
+    state.score = 0;
+    state.answers = [];
+    state.startTime = Date.now();
+    state.sessionMode = 'weak';
+
+    switchScreen('screen-question');
+    renderQuestion();
+};
+
+function initSessionDetailModalHandlers() {
+    const modal = document.getElementById('quiz-session-detail-modal');
+    const closeBtnHeader = document.getElementById('btn-close-session-detail-modal');
+    const closeBtnFooter = document.getElementById('btn-close-sess-detail-footer');
+
+    if (closeBtnHeader) {
+        closeBtnHeader.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
+    if (closeBtnFooter) {
+        closeBtnFooter.onclick = () => {
+            if (modal) modal.style.display = 'none';
+        };
+    }
 }
 
 /**
@@ -3750,9 +4420,24 @@ function initFavoriteButtonHandler() {
             favBtn.innerHTML = '<i class="far fa-star"></i>';
             favBtn.style.color = '#eab308';
         } else {
+            const isRu = state.settings.lang === 'Ru';
             state.userFavorites.push({
                 id: qId,
-                questionSnippet: (q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionSnippet: (q['question' + state.settings.lang] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionObj: {
+                    id: qId,
+                    bookPath: q.bookPath || state.bookPath || 'general',
+                    setId: q.setId || 'favorite',
+                    questionEn: q.questionEn || q.question || '',
+                    questionRu: q.questionRu || q.question || '',
+                    optionsEn: q.optionsEn || q.options || {},
+                    optionsRu: q.optionsRu || q.options || {},
+                    correctAnswer: q.correctAnswer,
+                    explanationEn: q.explanationEn || q.explanation || '',
+                    explanationRu: q.explanationRu || q.explanation || '',
+                    chapterId: q.chapterId,
+                    multiAnswer: q.multiAnswer
+                },
                 addedAt: new Date().toISOString()
             });
             favBtn.innerHTML = '<i class="fas fa-star"></i>';
@@ -3986,6 +4671,227 @@ document.addEventListener('DOMContentLoaded', function() {
         initPersonalCabinet();
         initFavoriteButtonHandler();
         initAdminAccountManager();
+        initSessionDetailModalHandlers();
+        initPlaylistPickerModalHandlers();
+        initPlaylistManagerModalHandlers();
     }, 500);
 });
+
+/* ==========================================================================
+ * PLAYLIST MANAGER MODAL HANDLERS
+ * ========================================================================== */
+window.activeManagedPlaylistId = null;
+
+window.openPlaylistManagerModal = async function(playlistId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    window.activeManagedPlaylistId = playlistId;
+
+    const modal = document.getElementById('quiz-playlist-manager-modal');
+    const titleEl = document.getElementById('pl-mgr-title');
+    const countEl = document.getElementById('pl-mgr-count');
+
+    if (titleEl) titleEl.textContent = `📁 ${pl.title}`;
+    if (countEl) countEl.textContent = pl.questionIds.length;
+
+    renderPlaylistManagerQuestions(pl);
+    await populatePlaylistManagerManifestSelect();
+
+    if (modal) modal.style.display = 'flex';
+};
+
+function renderPlaylistManagerQuestions(pl) {
+    const listCont = document.getElementById('pl-mgr-questions-list');
+    if (!listCont) return;
+
+    const isRu = state.settings.lang === 'Ru';
+
+    if (!pl.questionIds || pl.questionIds.length === 0) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px; font-size: 0.85rem;">${isRu ? 'В этом плейлисте пока нет вопросов. Нажмите "+ Добавить вопросы из библиотеки" выше!' : 'No questions in this playlist yet. Click "+ Add Questions from Library" above!'}</div>`;
+        return;
+    }
+
+    listCont.innerHTML = pl.questionIds.map((qId, idx) => {
+        let favMatch = state.userFavorites.find(f => String(f.id) === String(qId));
+        let snippet = favMatch ? favMatch.questionSnippet : `Question #${idx + 1} (${qId})`;
+
+        return `
+            <div style="display: flex; justify-content: space-between; align-items: center; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; font-size: 0.85rem; color: var(--quiz-text);">
+                <div style="flex: 1; min-width: 0; padding-right: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                    <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(snippet)}
+                </div>
+                <div style="display: flex; gap: 8px; align-items: center;">
+                    <button type="button" onclick="previewFavoriteQuestion('${qId}')" class="btn-outline" style="padding: 4px 10px; font-size: 0.75rem; border-radius: 6px; color: #58a6ff;">▶ Study</button>
+                    <button type="button" onclick="removeQuestionFromPlaylist('${pl.id}', '${qId}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.95rem;" title="Remove Question">🗑️</button>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+window.removeQuestionFromPlaylist = function(playlistId, qId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    pl.questionIds = (pl.questionIds || []).filter(id => String(id) !== String(qId));
+    syncCloudUserData();
+
+    const countEl = document.getElementById('pl-mgr-count');
+    if (countEl) countEl.textContent = pl.questionIds.length;
+
+    renderPlaylistManagerQuestions(pl);
+    renderPlaylistsTab();
+};
+
+async function populatePlaylistManagerManifestSelect() {
+    const selectEl = document.getElementById('select-pl-mgr-manifest');
+    if (!selectEl) return;
+
+    await loadAllSetsForBook();
+
+    const manifests = state.selectedSets || [];
+    const isRu = state.settings.lang === 'Ru';
+
+    if (manifests.length === 0) {
+        selectEl.innerHTML = `<option value="">${isRu ? 'Нет загруженных манифестов' : 'No loaded sets available'}</option>`;
+        return;
+    }
+
+    selectEl.innerHTML = manifests.map(s => `<option value="${s.id}">${escapeHTML(s.russian_title || s.title || s.id)} (${s.question_count || 0} ${isRu ? 'вопр.' : 'q'})</option>`).join('');
+
+    selectEl.onchange = () => {
+        renderPlaylistManagerAddQuestions(selectEl.value);
+    };
+
+    if (manifests.length > 0) {
+        renderPlaylistManagerAddQuestions(manifests[0].id);
+    }
+}
+
+function renderPlaylistManagerAddQuestions(setId) {
+    const listCont = document.getElementById('pl-mgr-add-questions-list');
+    if (!listCont) return;
+
+    const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
+    const isRu = state.settings.lang === 'Ru';
+
+    const questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
+
+    if (questionsInSet.length === 0) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.82rem;">${isRu ? 'Вопросы не найдены в выбранном сете' : 'No questions found in selected set'}</div>`;
+        return;
+    }
+
+    listCont.innerHTML = questionsInSet.map((q, idx) => {
+        const qId = String(q.id || getQuestionKey(q));
+        const isAdded = pl && Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
+        const qText = (q['question' + (state.settings ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '');
+
+        return `
+            <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; font-size: 0.85rem; color: var(--quiz-text);">
+                <div style="flex: 1; min-width: 0; padding-right: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                    <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(qText.substring(0, 90))}...
+                </div>
+                <button type="button" onclick="toggleAddQuestionInPlaylistManager('${pl ? pl.id : ''}', '${qId}')" class="${isAdded ? 'btn-outline' : 'btn-primary'}" style="padding: 4px 12px; font-size: 0.78rem; border-radius: 6px; ${isAdded ? 'color:#f87171; border-color:rgba(248,113,113,0.3);' : ''}">
+                    ${isAdded ? '✓ Added' : '+ Add'}
+                </button>
+            </div>
+        `;
+    }).join('');
+}
+
+window.toggleAddQuestionInPlaylistManager = function(playlistId, qId) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
+    if (!pl) return;
+
+    if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
+
+    if (pl.questionIds.includes(qId)) {
+        pl.questionIds = pl.questionIds.filter(id => id !== qId);
+    } else {
+        pl.questionIds.push(qId);
+    }
+
+    syncCloudUserData();
+
+    const countEl = document.getElementById('pl-mgr-count');
+    if (countEl) countEl.textContent = pl.questionIds.length;
+
+    const selectEl = document.getElementById('select-pl-mgr-manifest');
+    if (selectEl) renderPlaylistManagerAddQuestions(selectEl.value);
+
+    renderPlaylistManagerQuestions(pl);
+    renderPlaylistsTab();
+};
+
+function initPlaylistManagerModalHandlers() {
+    const modal = document.getElementById('quiz-playlist-manager-modal');
+    const closeBtnHeader = document.getElementById('btn-close-pl-mgr-modal');
+    const closeBtnFooter = document.getElementById('btn-pl-mgr-done');
+    const playBtnFooter = document.getElementById('btn-pl-mgr-play');
+    const renameBtn = document.getElementById('btn-pl-mgr-rename');
+    const deleteBtn = document.getElementById('btn-pl-mgr-delete');
+
+    const tabItems = document.getElementById('btn-pl-mgr-tab-items');
+    const tabAdd = document.getElementById('btn-pl-mgr-tab-add');
+    const paneItems = document.getElementById('pl-mgr-pane-items');
+    const paneAdd = document.getElementById('pl-mgr-pane-add');
+
+    if (tabItems && tabAdd && paneItems && paneAdd) {
+        tabItems.onclick = () => {
+            tabItems.style.color = 'var(--quiz-accent)';
+            tabItems.style.borderBottom = '2px solid var(--quiz-accent)';
+            tabAdd.style.color = 'var(--quiz-muted)';
+            tabAdd.style.borderBottom = 'none';
+            paneItems.style.display = 'block';
+            paneAdd.style.display = 'none';
+        };
+
+        tabAdd.onclick = () => {
+            tabAdd.style.color = 'var(--quiz-accent)';
+            tabAdd.style.borderBottom = '2px solid var(--quiz-accent)';
+            tabItems.style.color = 'var(--quiz-muted)';
+            tabItems.style.borderBottom = 'none';
+            paneItems.style.display = 'none';
+            paneAdd.style.display = 'block';
+        };
+    }
+
+    if (renameBtn) {
+        renameBtn.onclick = () => {
+            const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
+            if (!pl) return;
+            const newTitle = prompt('Rename Playlist:', pl.title);
+            if (newTitle && newTitle.trim()) {
+                pl.title = newTitle.trim();
+                const titleEl = document.getElementById('pl-mgr-title');
+                if (titleEl) titleEl.textContent = `📁 ${pl.title}`;
+                syncCloudUserData();
+                renderPlaylistsTab();
+            }
+        };
+    }
+
+    if (deleteBtn) {
+        deleteBtn.onclick = () => {
+            if (window.activeManagedPlaylistId) {
+                deletePlaylist(window.activeManagedPlaylistId);
+                if (modal) modal.style.display = 'none';
+            }
+        };
+    }
+
+    if (playBtnFooter) {
+        playBtnFooter.onclick = () => {
+            if (window.activeManagedPlaylistId) {
+                if (modal) modal.style.display = 'none';
+                launchPlaylistQuiz(window.activeManagedPlaylistId);
+            }
+        };
+    }
+
+    if (closeBtnHeader) closeBtnHeader.onclick = () => { if (modal) modal.style.display = 'none'; };
+    if (closeBtnFooter) closeBtnFooter.onclick = () => { if (modal) modal.style.display = 'none'; };
+}
 
